@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,43,42,100.0,Ido <gnome-ido@lists.mterry.name>
+gnome-menus,86,0,79,44,0,14,90,165,52.121212121212125,Ido <gnome-ido@lists.mterry.name>
+gtk2,1869,2,10221,669,1,1742,1574,12092,15.456500165398609,Ido <gnome-ido@lists.mterry.name>

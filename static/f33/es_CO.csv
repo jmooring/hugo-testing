@@ -1,0 +1,87 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,288,0,3558,105,0,536,333,3846,7.48829953198128,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+caja,8195,0,1430,1434,0,161,9230,9625,85.14285714285714,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+caja-extensions,44,1,626,11,1,134,48,671,6.557377049180328,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+csound,2441,2666,14194,563,517,2376,3177,19301,12.647013108129112,
+engrampa,155,0,1880,62,0,361,186,2035,7.616707616707617,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+eom,65,0,1704,53,0,288,73,1769,3.674392312040701,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+libgweather,664,0,0,235,0,0,735,664,100.0,Spanish <gnome-es-list@gnome.org>
+libmatekbd,251,0,57,49,0,42,306,308,81.4935064935065,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+libmatemixer,6,0,236,5,0,121,6,242,2.479338842975207,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+libmateweather,499,0,0,183,0,0,577,499,100.0,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+marco,46,0,4293,16,0,415,56,4339,1.0601521087808252,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-applets,2130,9,13714,525,3,1074,2645,15853,13.43594272377468,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-backgrounds,30,0,35,21,0,10,32,65,46.15384615384615,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-calc,49,0,3129,49,0,670,56,3178,1.5418502202643172,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-control-center,108,0,8494,81,0,1431,132,8602,1.2555219716345036,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-desktop,68,0,2156,17,0,268,89,2224,3.0575539568345325,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-media,14,0,225,13,0,86,15,239,5.857740585774058,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-menu,50,0,258,24,0,86,52,308,16.233766233766232,Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/)
+mate-menus,97,0,0,37,0,0,118,97,100.0,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-notification-daemon,132,0,20,36,0,5,160,152,86.8421052631579,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-panel,428,0,6299,171,0,631,501,6727,6.362420098112086,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-polkit,122,0,1,20,0,1,130,123,99.1869918699187,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-power-manager,21,0,5118,19,0,535,29,5139,0.4086398131932283,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-screensaver,20,0,1000,10,0,159,29,1020,1.9607843137254901,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-sensors-applet,25,0,2135,21,0,205,34,2160,1.1574074074074074,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-session-manager,79,0,633,29,0,102,106,712,11.095505617977528,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-settings-daemon,180,0,2017,34,0,284,193,2197,8.192990441511151,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-system-monitor,64,0,4847,40,0,618,84,4911,1.3031969049073509,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-terminal,972,0,7400,229,0,569,1108,8372,11.610129001433348,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-themes,58,0,16,11,0,12,67,74,78.37837837837837,Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/)
+mate-user-admin,6,0,622,6,0,125,6,628,0.9554140127388535,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-user-guide,73,0,40750,47,0,2886,89,40823,0.17882076280528134,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mate-utils,245,0,10059,100,0,1029,311,10304,2.377717391304348,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+mozo,42,0,1,16,0,1,45,43,97.67441860465115,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+pluma,383,0,12952,200,0,1893,421,13335,2.872140982377203,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+powertop,0,0,698,0,0,202,0,698,0.0,Spanish (Colombia) (http://www.transifex.com/projects/p/PowerTOP/language/es_CO/)
+pulseeffects,2208,0,0,1053,0,0,2472,2208,100.0,
+python-caja,6,0,1,2,0,1,6,7,85.71428571428571,Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/)
+python-django,2965,0,719,723,0,110,3277,3684,80.48317046688382,Spanish (Colombia) (http://www.transifex.com/django/django/language/es_CO/)
+python-django-helpdesk,1121,0,2120,163,0,347,1161,3241,34.58809009564949,Spanish (Colombia) (http://www.transifex.com/projects/p/django-helpdesk/language/es_CO/)
+trytond,2648,0,0,1209,0,0,3188,2648,100.0,
+trytond-account,2743,0,0,1220,0,0,3294,2743,100.0,
+trytond-account-invoice,1028,0,0,375,0,0,1230,1028,100.0,
+trytond-account-invoice-history,2,0,0,1,0,0,3,2,100.0,
+trytond-account-invoice-line-standalone,10,0,0,4,0,0,16,10,100.0,
+trytond-account-product,296,0,0,95,0,0,359,296,100.0,
+trytond-account-statement,231,0,0,127,0,0,346,231,100.0,
+trytond-account-stock-anglo-saxon,74,0,0,12,0,0,78,74,100.0,
+trytond-account-stock-continental,325,0,0,69,0,0,345,325,100.0,
+trytond-analytic-account,184,0,0,95,0,0,210,184,100.0,
+trytond-analytic-invoice,13,0,0,3,0,0,14,13,100.0,
+trytond-analytic-purchase,22,0,0,4,0,0,25,22,100.0,
+trytond-analytic-sale,13,0,0,3,0,0,14,13,100.0,
+trytond-company,118,0,0,77,0,0,139,118,100.0,
+trytond-company-work-time,18,0,0,5,0,0,23,18,100.0,
+trytond-country,7539,0,0,5243,0,0,7586,7539,100.0,
+trytond-currency,469,0,0,233,0,0,553,469,100.0,
+trytond-dashboard,35,0,0,22,0,0,47,35,100.0,
+trytond-google-maps,2,0,0,1,0,0,3,2,100.0,
+trytond-ldap-authentication,10,0,0,1,0,0,9,10,100.0,
+trytond-party,268,0,0,152,0,0,333,268,100.0,
+trytond-party-siret,18,0,0,5,0,0,19,18,100.0,
+trytond-product,375,0,0,210,0,0,433,375,100.0,
+trytond-product-cost-fifo,24,0,0,4,0,0,22,24,100.0,
+trytond-product-cost-history,27,0,0,14,0,0,31,27,100.0,
+trytond-product-price-list,74,0,0,32,0,0,93,74,100.0,
+trytond-project,143,0,0,62,0,0,151,143,100.0,
+trytond-project-plan,83,0,0,46,0,0,108,83,100.0,
+trytond-project-revenue,12,0,0,8,0,0,16,12,100.0,
+trytond-purchase,571,0,0,292,0,0,699,571,100.0,
+trytond-purchase-invoice-line-standalone,51,0,0,22,0,0,65,51,100.0,
+trytond-sale,536,0,0,268,0,0,637,536,100.0,
+trytond-sale-opportunity,320,0,0,174,0,0,380,320,100.0,
+trytond-sale-price-list,5,0,0,2,0,0,8,5,100.0,
+trytond-stock,1203,0,0,563,0,0,1434,1203,100.0,
+trytond-stock-forecast,174,0,0,81,0,0,220,174,100.0,
+trytond-stock-inventory-location,17,0,0,11,0,0,17,17,100.0,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,23,0,0,14,0,0,32,23,100.0,
+trytond-stock-supply,147,0,0,58,0,0,155,147,100.0,
+trytond-stock-supply-day,27,0,0,18,0,0,36,27,100.0,
+trytond-timesheet,278,0,0,131,0,0,341,278,100.0,
+visualboyadvance-m,0,0,2393,0,0,895,0,2393,0.0,Spanish (Colombia) (http://www.transifex.com/bgk/vba-m/language/es_CO/)
+xfe,2733,3234,160,898,170,33,3289,6127,44.60584299004407,Spanish
+xreader,11,0,1682,10,0,379,12,1693,0.6497341996455995,Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/)

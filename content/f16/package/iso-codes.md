@@ -1,0 +1,144 @@
+---
+title: "iso-codes - translation progress for f16"
+package: iso-codes
+date: 2026-01-20T02:20:47+00:00
+started_languages: 106
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 396
+release: f16
+---
+The package iso-codes (version 3.32):
+
+* represents 39200 source words to be translated
+* is translated into 106 languages in Fedora f16
+
+
+* contains 396 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [be]({{< ref "/f16/language/be.md" >}}) | 1870 | 1870 | 100.0 | /mnt/stockage/packages/f16/iso-codes/iso_3166/be.po/mnt/stockage/packages/f16/iso-codes/iso_639/be.po | 
+ | [en_US]({{< ref "/f16/language/en_US.md" >}}) | 1100 | 1100 | 100.0 | /mnt/stockage/packages/f16/iso-codes/iso_3166/si.po | 
+ | [fr]({{< ref "/f16/language/fr.md" >}}) | 19759 | 19759 | 100.0 | /mnt/stockage/packages/f16/iso-codes/iso_15924/fr.po/mnt/stockage/packages/f16/iso-codes/iso_3166/fr.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/fr.po/mnt/stockage/packages/f16/iso-codes/iso_4217/fr.po/mnt/stockage/packages/f16/iso-codes/iso_639/fr.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/fr.po | 
+ | [it]({{< ref "/f16/language/it.md" >}}) | 19759 | 19759 | 100.0 | /mnt/stockage/packages/f16/iso-codes/iso_15924/it.po/mnt/stockage/packages/f16/iso-codes/iso_3166/it.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/it.po/mnt/stockage/packages/f16/iso-codes/iso_4217/it.po/mnt/stockage/packages/f16/iso-codes/iso_639/it.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/it.po | 
+ | [kk]({{< ref "/f16/language/kk.md" >}}) | 1100 | 1100 | 100.0 | /mnt/stockage/packages/f16/iso-codes/iso_3166/kk.po | 
+ | [uk]({{< ref "/f16/language/uk.md" >}}) | 19759 | 19759 | 100.0 | /mnt/stockage/packages/f16/iso-codes/iso_15924/uk.po/mnt/stockage/packages/f16/iso-codes/iso_3166/uk.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/uk.po/mnt/stockage/packages/f16/iso-codes/iso_4217/uk.po/mnt/stockage/packages/f16/iso-codes/iso_639/uk.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/uk.po | 
+ | [mr]({{< ref "/f16/language/mr.md" >}}) | 12307 | 12366 | 99.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/mr.po/mnt/stockage/packages/f16/iso-codes/iso_639/mr.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/mr.po | 
+ | [bn]({{< ref "/f16/language/bn.md" >}}) | 1094 | 1100 | 99.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/bn.po | 
+ | [ug]({{< ref "/f16/language/ug.md" >}}) | 1094 | 1100 | 99.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ug.po | 
+ | [ne]({{< ref "/f16/language/ne.md" >}}) | 1088 | 1100 | 98.9 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ne.po | 
+ | [en_ZA]({{< ref "/f16/language/en_ZA.md" >}}) | 761 | 770 | 98.8 | /mnt/stockage/packages/f16/iso-codes/iso_639/ta.po | 
+ | [as]({{< ref "/f16/language/as.md" >}}) | 1846 | 1870 | 98.7 | /mnt/stockage/packages/f16/iso-codes/iso_3166/as.po/mnt/stockage/packages/f16/iso-codes/iso_639/as.po | 
+ | [ast]({{< ref "/f16/language/ast.md" >}}) | 1846 | 1870 | 98.7 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ast.po/mnt/stockage/packages/f16/iso-codes/iso_639/ast.po | 
+ | [pa]({{< ref "/f16/language/pa.md" >}}) | 12165 | 12366 | 98.4 | /mnt/stockage/packages/f16/iso-codes/iso_3166/pa.po/mnt/stockage/packages/f16/iso-codes/iso_639/pa.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/pa.po | 
+ | [ta]({{< ref "/f16/language/ta.md" >}}) | 11392 | 11596 | 98.2 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ta.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ta.po | 
+ | [dz]({{< ref "/f16/language/dz.md" >}}) | 1078 | 1100 | 98.0 | /mnt/stockage/packages/f16/iso-codes/iso_3166/dz.po | 
+ | [km]({{< ref "/f16/language/km.md" >}}) | 1078 | 1100 | 98.0 | /mnt/stockage/packages/f16/iso-codes/iso_3166/km.po | 
+ | [te]({{< ref "/f16/language/te.md" >}}) | 1832 | 1870 | 98.0 | /mnt/stockage/packages/f16/iso-codes/iso_3166/te.po/mnt/stockage/packages/f16/iso-codes/iso_639/te.po | 
+ | [gl]({{< ref "/f16/language/gl.md" >}}) | 12755 | 13270 | 96.1 | /mnt/stockage/packages/f16/iso-codes/iso_15924/gl.po/mnt/stockage/packages/f16/iso-codes/iso_3166/gl.po/mnt/stockage/packages/f16/iso-codes/iso_4217/gl.po/mnt/stockage/packages/f16/iso-codes/iso_639/gl.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/gl.po | 
+ | [ka]({{< ref "/f16/language/ka.md" >}}) | 1050 | 1100 | 95.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ka.po | 
+ | [ku]({{< ref "/f16/language/ku.md" >}}) | 1050 | 1100 | 95.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ku.po | 
+ | [sq]({{< ref "/f16/language/sq.md" >}}) | 1050 | 1100 | 95.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/sq.po | 
+ | [wo]({{< ref "/f16/language/wo.md" >}}) | 1050 | 1100 | 95.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/wo.po | 
+ | [kn]({{< ref "/f16/language/kn.md" >}}) | 11113 | 12366 | 89.9 | /mnt/stockage/packages/f16/iso-codes/iso_3166/kn.po/mnt/stockage/packages/f16/iso-codes/iso_639/kn.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/kn.po | 
+ | [ml]({{< ref "/f16/language/ml.md" >}}) | 1828 | 2188 | 83.5 | /mnt/stockage/packages/f16/iso-codes/iso_15924/ml.po/mnt/stockage/packages/f16/iso-codes/iso_3166/ml.po/mnt/stockage/packages/f16/iso-codes/iso_639/ml.po | 
+ | [tl]({{< ref "/f16/language/tl.md" >}}) | 906 | 1100 | 82.4 | /mnt/stockage/packages/f16/iso-codes/iso_3166/tl.po | 
+ | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 1941 | 2774 | 70.0 | /mnt/stockage/packages/f16/iso-codes/iso_15924/zh_HK.po/mnt/stockage/packages/f16/iso-codes/iso_3166/zh_HK.po/mnt/stockage/packages/f16/iso-codes/iso_4217/zh_HK.po/mnt/stockage/packages/f16/iso-codes/iso_639/zh_HK.po | 
+ | [tk]({{< ref "/f16/language/tk.md" >}}) | 700 | 1100 | 63.6 | /mnt/stockage/packages/f16/iso-codes/iso_3166/tk.po | 
+ | [or]({{< ref "/f16/language/or.md" >}}) | 7430 | 12366 | 60.1 | /mnt/stockage/packages/f16/iso-codes/iso_3166/or.po/mnt/stockage/packages/f16/iso-codes/iso_639/or.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/or.po | 
+ | [pl]({{< ref "/f16/language/pl.md" >}}) | 11442 | 19759 | 57.9 | /mnt/stockage/packages/f16/iso-codes/iso_15924/pl.po/mnt/stockage/packages/f16/iso-codes/iso_3166/pl.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/pl.po/mnt/stockage/packages/f16/iso-codes/iso_4217/pl.po/mnt/stockage/packages/f16/iso-codes/iso_639/pl.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/pl.po | 
+ | [nl]({{< ref "/f16/language/nl.md" >}}) | 10950 | 19759 | 55.4 | /mnt/stockage/packages/f16/iso-codes/iso_15924/nl.po/mnt/stockage/packages/f16/iso-codes/iso_3166/nl.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/nl.po/mnt/stockage/packages/f16/iso-codes/iso_4217/nl.po/mnt/stockage/packages/f16/iso-codes/iso_639/nl.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/nl.po | 
+ | [en]({{< ref "/f16/language/en.md" >}}) | 3583 | 6489 | 55.2 | /mnt/stockage/packages/f16/iso-codes/iso_3166_2/en.po | 
+ | [crh]({{< ref "/f16/language/crh.md" >}}) | 10016 | 18855 | 53.1 | /mnt/stockage/packages/f16/iso-codes/iso_3166/crh.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/crh.po/mnt/stockage/packages/f16/iso-codes/iso_639/crh.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/crh.po | 
+ | [id]({{< ref "/f16/language/id.md" >}}) | 9319 | 19759 | 47.2 | /mnt/stockage/packages/f16/iso-codes/iso_15924/id.po/mnt/stockage/packages/f16/iso-codes/iso_3166/id.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/id.po/mnt/stockage/packages/f16/iso-codes/iso_4217/id.po/mnt/stockage/packages/f16/iso-codes/iso_639/id.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/id.po | 
+ | [vi]({{< ref "/f16/language/vi.md" >}}) | 8700 | 19759 | 44.0 | /mnt/stockage/packages/f16/iso-codes/iso_15924/vi.po/mnt/stockage/packages/f16/iso-codes/iso_3166/vi.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/vi.po/mnt/stockage/packages/f16/iso-codes/iso_4217/vi.po/mnt/stockage/packages/f16/iso-codes/iso_639/vi.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/vi.po | 
+ | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 7179 | 19759 | 36.3 | /mnt/stockage/packages/f16/iso-codes/iso_15924/zh_CN.po/mnt/stockage/packages/f16/iso-codes/iso_3166/zh_CN.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/zh_CN.po/mnt/stockage/packages/f16/iso-codes/iso_4217/zh_CN.po/mnt/stockage/packages/f16/iso-codes/iso_639/zh_CN.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/zh_CN.po | 
+ | [da]({{< ref "/f16/language/da.md" >}}) | 7113 | 19759 | 36.0 | /mnt/stockage/packages/f16/iso-codes/iso_15924/da.po/mnt/stockage/packages/f16/iso-codes/iso_3166/da.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/da.po/mnt/stockage/packages/f16/iso-codes/iso_4217/da.po/mnt/stockage/packages/f16/iso-codes/iso_639/da.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/da.po | 
+ | [lt]({{< ref "/f16/language/lt.md" >}}) | 6635 | 19759 | 33.6 | /mnt/stockage/packages/f16/iso-codes/iso_15924/lt.po/mnt/stockage/packages/f16/iso-codes/iso_3166/lt.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/lt.po/mnt/stockage/packages/f16/iso-codes/iso_4217/lt.po/mnt/stockage/packages/f16/iso-codes/iso_639/lt.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/lt.po | 
+ | [hu]({{< ref "/f16/language/hu.md" >}}) | 6527 | 19759 | 33.0 | /mnt/stockage/packages/f16/iso-codes/iso_15924/hu.po/mnt/stockage/packages/f16/iso-codes/iso_3166/hu.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/hu.po/mnt/stockage/packages/f16/iso-codes/iso_4217/hu.po/mnt/stockage/packages/f16/iso-codes/iso_639/hu.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/hu.po | 
+ | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 3919 | 12366 | 31.7 | /mnt/stockage/packages/f16/iso-codes/iso_3166/bn_IN.po/mnt/stockage/packages/f16/iso-codes/iso_639/bn_IN.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/bn_IN.po | 
+ | [sl]({{< ref "/f16/language/sl.md" >}}) | 5949 | 19759 | 30.1 | /mnt/stockage/packages/f16/iso-codes/iso_15924/sl.po/mnt/stockage/packages/f16/iso-codes/iso_3166/sl.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/sl.po/mnt/stockage/packages/f16/iso-codes/iso_4217/sl.po/mnt/stockage/packages/f16/iso-codes/iso_639/sl.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/sl.po | 
+ | [de]({{< ref "/f16/language/de.md" >}}) | 3153 | 13270 | 23.8 | /mnt/stockage/packages/f16/iso-codes/iso_15924/de.po/mnt/stockage/packages/f16/iso-codes/iso_3166/de.po/mnt/stockage/packages/f16/iso-codes/iso_4217/de.po/mnt/stockage/packages/f16/iso-codes/iso_639/de.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/de.po | 
+ | [ru]({{< ref "/f16/language/ru.md" >}}) | 3153 | 13270 | 23.8 | /mnt/stockage/packages/f16/iso-codes/iso_15924/ru.po/mnt/stockage/packages/f16/iso-codes/iso_3166/ru.po/mnt/stockage/packages/f16/iso-codes/iso_4217/ru.po/mnt/stockage/packages/f16/iso-codes/iso_639/ru.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ru.po | 
+ | [sw]({{< ref "/f16/language/sw.md" >}}) | 258 | 1100 | 23.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/sw.po | 
+ | [ja]({{< ref "/f16/language/ja.md" >}}) | 4298 | 19759 | 21.8 | /mnt/stockage/packages/f16/iso-codes/iso_15924/ja.po/mnt/stockage/packages/f16/iso-codes/iso_3166/ja.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/ja.po/mnt/stockage/packages/f16/iso-codes/iso_4217/ja.po/mnt/stockage/packages/f16/iso-codes/iso_639/ja.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ja.po | 
+ | [is]({{< ref "/f16/language/is.md" >}}) | 2817 | 13270 | 21.2 | /mnt/stockage/packages/f16/iso-codes/iso_15924/is.po/mnt/stockage/packages/f16/iso-codes/iso_3166/is.po/mnt/stockage/packages/f16/iso-codes/iso_4217/is.po/mnt/stockage/packages/f16/iso-codes/iso_639/is.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/is.po | 
+ | [th]({{< ref "/f16/language/th.md" >}}) | 4126 | 19759 | 20.9 | /mnt/stockage/packages/f16/iso-codes/iso_15924/th.po/mnt/stockage/packages/f16/iso-codes/iso_3166/th.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/th.po/mnt/stockage/packages/f16/iso-codes/iso_4217/th.po/mnt/stockage/packages/f16/iso-codes/iso_639/th.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/th.po | 
+ | [gu]({{< ref "/f16/language/gu.md" >}}) | 2531 | 12366 | 20.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/gu.po/mnt/stockage/packages/f16/iso-codes/iso_639/gu.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/gu.po | 
+ | [hy]({{< ref "/f16/language/hy.md" >}}) | 217 | 1100 | 19.7 | /mnt/stockage/packages/f16/iso-codes/iso_3166/hy.po | 
+ | [ro]({{< ref "/f16/language/ro.md" >}}) | 3719 | 19759 | 18.8 | /mnt/stockage/packages/f16/iso-codes/iso_15924/ro.po/mnt/stockage/packages/f16/iso-codes/iso_3166/ro.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/ro.po/mnt/stockage/packages/f16/iso-codes/iso_4217/ro.po/mnt/stockage/packages/f16/iso-codes/iso_639/ro.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ro.po | 
+ | [fi]({{< ref "/f16/language/fi.md" >}}) | 3475 | 19759 | 17.6 | /mnt/stockage/packages/f16/iso-codes/iso_15924/fi.po/mnt/stockage/packages/f16/iso-codes/iso_3166/fi.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/fi.po/mnt/stockage/packages/f16/iso-codes/iso_4217/fi.po/mnt/stockage/packages/f16/iso-codes/iso_639/fi.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/fi.po | 
+ | [cs]({{< ref "/f16/language/cs.md" >}}) | 3471 | 19759 | 17.6 | /mnt/stockage/packages/f16/iso-codes/iso_15924/cs.po/mnt/stockage/packages/f16/iso-codes/iso_3166/cs.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/cs.po/mnt/stockage/packages/f16/iso-codes/iso_4217/cs.po/mnt/stockage/packages/f16/iso-codes/iso_639/cs.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/cs.po | 
+ | [nn]({{< ref "/f16/language/nn.md" >}}) | 2251 | 13270 | 17.0 | /mnt/stockage/packages/f16/iso-codes/iso_15924/nn.po/mnt/stockage/packages/f16/iso-codes/iso_3166/nn.po/mnt/stockage/packages/f16/iso-codes/iso_4217/nn.po/mnt/stockage/packages/f16/iso-codes/iso_639/nn.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/nn.po | 
+ | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 3279 | 19759 | 16.6 | /mnt/stockage/packages/f16/iso-codes/iso_15924/zh_TW.po/mnt/stockage/packages/f16/iso-codes/iso_3166/zh_TW.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/zh_TW.po/mnt/stockage/packages/f16/iso-codes/iso_4217/zh_TW.po/mnt/stockage/packages/f16/iso-codes/iso_639/zh_TW.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/zh_TW.po | 
+ | [pt]({{< ref "/f16/language/pt.md" >}}) | 2155 | 13270 | 16.2 | /mnt/stockage/packages/f16/iso-codes/iso_15924/pt.po/mnt/stockage/packages/f16/iso-codes/iso_3166/pt.po/mnt/stockage/packages/f16/iso-codes/iso_4217/pt.po/mnt/stockage/packages/f16/iso-codes/iso_639/pt.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/pt.po | 
+ | [rw]({{< ref "/f16/language/rw.md" >}}) | 2079 | 12952 | 16.1 | /mnt/stockage/packages/f16/iso-codes/iso_3166/rw.po/mnt/stockage/packages/f16/iso-codes/iso_4217/rw.po/mnt/stockage/packages/f16/iso-codes/iso_639/rw.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/rw.po | 
+ | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 2100 | 13270 | 15.8 | /mnt/stockage/packages/f16/iso-codes/iso_15924/nb.po/mnt/stockage/packages/f16/iso-codes/iso_3166/nb.po/mnt/stockage/packages/f16/iso-codes/iso_4217/nb.po/mnt/stockage/packages/f16/iso-codes/iso_639/nb.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/nb.po | 
+ | [es]({{< ref "/f16/language/es.md" >}}) | 2905 | 19759 | 14.7 | /mnt/stockage/packages/f16/iso-codes/iso_15924/es.po/mnt/stockage/packages/f16/iso-codes/iso_3166/es.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/es.po/mnt/stockage/packages/f16/iso-codes/iso_4217/es.po/mnt/stockage/packages/f16/iso-codes/iso_639/es.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/es.po | 
+ | [lv]({{< ref "/f16/language/lv.md" >}}) | 2865 | 19759 | 14.5 | /mnt/stockage/packages/f16/iso-codes/iso_15924/lv.po/mnt/stockage/packages/f16/iso-codes/iso_3166/lv.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/lv.po/mnt/stockage/packages/f16/iso-codes/iso_4217/lv.po/mnt/stockage/packages/f16/iso-codes/iso_639/lv.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/lv.po | 
+ | [fa]({{< ref "/f16/language/fa.md" >}}) | 1800 | 12684 | 14.2 | /mnt/stockage/packages/f16/iso-codes/iso_15924/fa.po/mnt/stockage/packages/f16/iso-codes/iso_3166/fa.po/mnt/stockage/packages/f16/iso-codes/iso_639/fa.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/fa.po | 
+ | [br]({{< ref "/f16/language/br.md" >}}) | 1851 | 13270 | 13.9 | /mnt/stockage/packages/f16/iso-codes/iso_15924/br.po/mnt/stockage/packages/f16/iso-codes/iso_3166/br.po/mnt/stockage/packages/f16/iso-codes/iso_4217/br.po/mnt/stockage/packages/f16/iso-codes/iso_639/br.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/br.po | 
+ | [eo]({{< ref "/f16/language/eo.md" >}}) | 2629 | 19173 | 13.7 | /mnt/stockage/packages/f16/iso-codes/iso_15924/eo.po/mnt/stockage/packages/f16/iso-codes/iso_3166/eo.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/eo.po/mnt/stockage/packages/f16/iso-codes/iso_639/eo.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/eo.po | 
+ | [fo]({{< ref "/f16/language/fo.md" >}}) | 149 | 1100 | 13.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/fo.po | 
+ | [sr]({{< ref "/f16/language/sr.md" >}}) | 5239 | 39200 | 13.4 | /mnt/stockage/packages/f16/iso-codes/iso_15924/sr.po/mnt/stockage/packages/f16/iso-codes/iso_3166/sr@latin.po/mnt/stockage/packages/f16/iso-codes/iso_3166/sr.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/sr@latin.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/sr.po/mnt/stockage/packages/f16/iso-codes/iso_4217/sr@latin.po/mnt/stockage/packages/f16/iso-codes/iso_4217/sr.po/mnt/stockage/packages/f16/iso-codes/iso_639/sr@latin.po/mnt/stockage/packages/f16/iso-codes/iso_639/sr.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/sr@latin.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/sr.po | 
+ | [et]({{< ref "/f16/language/et.md" >}}) | 1766 | 13270 | 13.3 | /mnt/stockage/packages/f16/iso-codes/iso_15924/et.po/mnt/stockage/packages/f16/iso-codes/iso_3166/et.po/mnt/stockage/packages/f16/iso-codes/iso_4217/et.po/mnt/stockage/packages/f16/iso-codes/iso_639/et.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/et.po | 
+ | [wal]({{< ref "/f16/language/wal.md" >}}) | 144 | 1100 | 13.1 | /mnt/stockage/packages/f16/iso-codes/iso_3166/wal.po | 
+ | [sk]({{< ref "/f16/language/sk.md" >}}) | 2484 | 19759 | 12.6 | /mnt/stockage/packages/f16/iso-codes/iso_15924/sk.po/mnt/stockage/packages/f16/iso-codes/iso_3166/sk.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/sk.po/mnt/stockage/packages/f16/iso-codes/iso_4217/sk.po/mnt/stockage/packages/f16/iso-codes/iso_639/sk.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/sk.po | 
+ | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 1661 | 13270 | 12.5 | /mnt/stockage/packages/f16/iso-codes/iso_15924/pt_BR.po/mnt/stockage/packages/f16/iso-codes/iso_3166/pt_BR.po/mnt/stockage/packages/f16/iso-codes/iso_4217/pt_BR.po/mnt/stockage/packages/f16/iso-codes/iso_639/pt_BR.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/pt_BR.po | 
+ | [sv]({{< ref "/f16/language/sv.md" >}}) | 2449 | 19759 | 12.4 | /mnt/stockage/packages/f16/iso-codes/iso_15924/sv.po/mnt/stockage/packages/f16/iso-codes/iso_3166/sv.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/sv.po/mnt/stockage/packages/f16/iso-codes/iso_4217/sv.po/mnt/stockage/packages/f16/iso-codes/iso_639/sv.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/sv.po | 
+ | [ca]({{< ref "/f16/language/ca.md" >}}) | 2358 | 19759 | 11.9 | /mnt/stockage/packages/f16/iso-codes/iso_15924/ca.po/mnt/stockage/packages/f16/iso-codes/iso_3166/ca.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/ca.po/mnt/stockage/packages/f16/iso-codes/iso_4217/ca.po/mnt/stockage/packages/f16/iso-codes/iso_639/ca.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ca.po | 
+ | [so]({{< ref "/f16/language/so.md" >}}) | 125 | 1100 | 11.4 | /mnt/stockage/packages/f16/iso-codes/iso_3166/so.po | 
+ | [ko]({{< ref "/f16/language/ko.md" >}}) | 2214 | 19759 | 11.2 | /mnt/stockage/packages/f16/iso-codes/iso_15924/ko.po/mnt/stockage/packages/f16/iso-codes/iso_3166/ko.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/ko.po/mnt/stockage/packages/f16/iso-codes/iso_4217/ko.po/mnt/stockage/packages/f16/iso-codes/iso_639/ko.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ko.po | 
+ | [bg]({{< ref "/f16/language/bg.md" >}}) | 2146 | 19173 | 11.2 | /mnt/stockage/packages/f16/iso-codes/iso_15924/bg.po/mnt/stockage/packages/f16/iso-codes/iso_3166/bg.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/bg.po/mnt/stockage/packages/f16/iso-codes/iso_639/bg.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/bg.po | 
+ | [ga]({{< ref "/f16/language/ga.md" >}}) | 2092 | 19441 | 10.8 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ga.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/ga.po/mnt/stockage/packages/f16/iso-codes/iso_4217/ga.po/mnt/stockage/packages/f16/iso-codes/iso_639/ga.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ga.po | 
+ | [tr]({{< ref "/f16/language/tr.md" >}}) | 2118 | 19759 | 10.7 | /mnt/stockage/packages/f16/iso-codes/iso_15924/tr.po/mnt/stockage/packages/f16/iso-codes/iso_3166/tr.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/tr.po/mnt/stockage/packages/f16/iso-codes/iso_4217/tr.po/mnt/stockage/packages/f16/iso-codes/iso_639/tr.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/tr.po | 
+ | [hi]({{< ref "/f16/language/hi.md" >}}) | 1302 | 12366 | 10.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/hi.po/mnt/stockage/packages/f16/iso-codes/iso_639/hi.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/hi.po | 
+ | [wa]({{< ref "/f16/language/wa.md" >}}) | 1941 | 18855 | 10.3 | /mnt/stockage/packages/f16/iso-codes/iso_3166/wa.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/wa.po/mnt/stockage/packages/f16/iso-codes/iso_639/wa.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/wa.po | 
+ | [ar]({{< ref "/f16/language/ar.md" >}}) | 1290 | 12684 | 10.2 | /mnt/stockage/packages/f16/iso-codes/iso_15924/ar.po/mnt/stockage/packages/f16/iso-codes/iso_3166/ar.po/mnt/stockage/packages/f16/iso-codes/iso_639/ar.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ar.po | 
+ | [he]({{< ref "/f16/language/he.md" >}}) | 1217 | 12684 | 9.6 | /mnt/stockage/packages/f16/iso-codes/iso_15924/he.po/mnt/stockage/packages/f16/iso-codes/iso_3166/he.po/mnt/stockage/packages/f16/iso-codes/iso_639/he.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/he.po | 
+ | [mk]({{< ref "/f16/language/mk.md" >}}) | 1169 | 12366 | 9.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/mk.po/mnt/stockage/packages/f16/iso-codes/iso_639/mk.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/mk.po | 
+ | [hr]({{< ref "/f16/language/hr.md" >}}) | 1151 | 12366 | 9.3 | /mnt/stockage/packages/f16/iso-codes/iso_3166/hr.po/mnt/stockage/packages/f16/iso-codes/iso_639/hr.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/hr.po | 
+ | [cy]({{< ref "/f16/language/cy.md" >}}) | 1132 | 12366 | 9.2 | /mnt/stockage/packages/f16/iso-codes/iso_3166/cy.po/mnt/stockage/packages/f16/iso-codes/iso_639/cy.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/cy.po | 
+ | [eu]({{< ref "/f16/language/eu.md" >}}) | 1667 | 18855 | 8.8 | /mnt/stockage/packages/f16/iso-codes/iso_3166/eu.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/eu.po/mnt/stockage/packages/f16/iso-codes/iso_639/eu.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/eu.po | 
+ | [af]({{< ref "/f16/language/af.md" >}}) | 1077 | 12366 | 8.7 | /mnt/stockage/packages/f16/iso-codes/iso_3166/af.po/mnt/stockage/packages/f16/iso-codes/iso_639/af.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/af.po | 
+ | [tt]({{< ref "/f16/language/tt.md" >}}) | 1049 | 12366 | 8.5 | /mnt/stockage/packages/f16/iso-codes/iso_3166/tt.po/mnt/stockage/packages/f16/iso-codes/iso_639/tt.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/tt.po | 
+ | [el]({{< ref "/f16/language/el.md" >}}) | 1510 | 19759 | 7.6 | /mnt/stockage/packages/f16/iso-codes/iso_15924/el.po/mnt/stockage/packages/f16/iso-codes/iso_3166/el.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/el.po/mnt/stockage/packages/f16/iso-codes/iso_4217/el.po/mnt/stockage/packages/f16/iso-codes/iso_639/el.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/el.po | 
+ | [bs]({{< ref "/f16/language/bs.md" >}}) | 1287 | 18855 | 6.8 | /mnt/stockage/packages/f16/iso-codes/iso_3166/bs.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/bs.po/mnt/stockage/packages/f16/iso-codes/iso_639/bs.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/bs.po | 
+ | [oc]({{< ref "/f16/language/oc.md" >}}) | 1276 | 19759 | 6.5 | /mnt/stockage/packages/f16/iso-codes/iso_15924/oc.po/mnt/stockage/packages/f16/iso-codes/iso_3166/oc.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/oc.po/mnt/stockage/packages/f16/iso-codes/iso_4217/oc.po/mnt/stockage/packages/f16/iso-codes/iso_639/oc.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/oc.po | 
+ | [mt]({{< ref "/f16/language/mt.md" >}}) | 759 | 12366 | 6.1 | /mnt/stockage/packages/f16/iso-codes/iso_3166/mt.po/mnt/stockage/packages/f16/iso-codes/iso_639/mt.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/mt.po | 
+ | [mn]({{< ref "/f16/language/mn.md" >}}) | 721 | 12952 | 5.6 | /mnt/stockage/packages/f16/iso-codes/iso_3166/mn.po/mnt/stockage/packages/f16/iso-codes/iso_4217/mn.po/mnt/stockage/packages/f16/iso-codes/iso_639/mn.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/mn.po | 
+ | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 17 | 318 | 5.3 | /mnt/stockage/packages/f16/iso-codes/iso_15924/sr@latin.po | 
+ | [ms]({{< ref "/f16/language/ms.md" >}}) | 523 | 12366 | 4.2 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ms.po/mnt/stockage/packages/f16/iso-codes/iso_639/ms.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ms.po | 
+ | [am]({{< ref "/f16/language/am.md" >}}) | 422 | 12366 | 3.4 | /mnt/stockage/packages/f16/iso-codes/iso_3166/am.po/mnt/stockage/packages/f16/iso-codes/iso_639/am.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/am.po | 
+ | [byn]({{< ref "/f16/language/byn.md" >}}) | 394 | 12366 | 3.2 | /mnt/stockage/packages/f16/iso-codes/iso_3166/byn.po/mnt/stockage/packages/f16/iso-codes/iso_639/byn.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/byn.po | 
+ | [gez]({{< ref "/f16/language/gez.md" >}}) | 394 | 12366 | 3.2 | /mnt/stockage/packages/f16/iso-codes/iso_3166/gez.po/mnt/stockage/packages/f16/iso-codes/iso_639/gez.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/gez.po | 
+ | [ti]({{< ref "/f16/language/ti.md" >}}) | 394 | 12366 | 3.2 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ti.po/mnt/stockage/packages/f16/iso-codes/iso_639/ti.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ti.po | 
+ | [tig]({{< ref "/f16/language/tig.md" >}}) | 394 | 12366 | 3.2 | /mnt/stockage/packages/f16/iso-codes/iso_3166/tig.po/mnt/stockage/packages/f16/iso-codes/iso_639/tig.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/tig.po | 
+ | [az]({{< ref "/f16/language/az.md" >}}) | 445 | 18855 | 2.4 | /mnt/stockage/packages/f16/iso-codes/iso_3166/az.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/az.po/mnt/stockage/packages/f16/iso-codes/iso_639/az.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/az.po | 
+ | [kok]({{< ref "/f16/language/kok.md" >}}) | 252 | 11266 | 2.2 | /mnt/stockage/packages/f16/iso-codes/iso_639/kok.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/kok.po | 
+ | [haw]({{< ref "/f16/language/haw.md" >}}) | 22 | 1100 | 2.0 | /mnt/stockage/packages/f16/iso-codes/iso_3166/haw.po | 
+ | [nso]({{< ref "/f16/language/nso.md" >}}) | 361 | 18855 | 1.9 | /mnt/stockage/packages/f16/iso-codes/iso_3166/nso.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/nso.po/mnt/stockage/packages/f16/iso-codes/iso_639/nso.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/nso.po | 
+ | [ve]({{< ref "/f16/language/ve.md" >}}) | 321 | 18855 | 1.7 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ve.po/mnt/stockage/packages/f16/iso-codes/iso_3166_2/ve.po/mnt/stockage/packages/f16/iso-codes/iso_639/ve.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ve.po | 
+ | [xh]({{< ref "/f16/language/xh.md" >}}) | 166 | 12366 | 1.3 | /mnt/stockage/packages/f16/iso-codes/iso_3166/xh.po/mnt/stockage/packages/f16/iso-codes/iso_639/xh.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/xh.po | 
+ | [zu]({{< ref "/f16/language/zu.md" >}}) | 162 | 12366 | 1.3 | /mnt/stockage/packages/f16/iso-codes/iso_3166/zu.po/mnt/stockage/packages/f16/iso-codes/iso_639/zu.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/zu.po | 
+ | [ps]({{< ref "/f16/language/ps.md" >}}) | 118 | 12366 | 1.0 | /mnt/stockage/packages/f16/iso-codes/iso_3166/ps.po/mnt/stockage/packages/f16/iso-codes/iso_639/ps.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/ps.po | 
+ | [mi]({{< ref "/f16/language/mi.md" >}}) | 80 | 12366 | 0.6 | /mnt/stockage/packages/f16/iso-codes/iso_3166/mi.po/mnt/stockage/packages/f16/iso-codes/iso_639/mi.po/mnt/stockage/packages/f16/iso-codes/iso_639_3/mi.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

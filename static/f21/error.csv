@@ -1,0 +1,360 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4035,0,0,484,0,0,4035,4035,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+LabPlot,0,0,3273,0,0,1360,0,3273,0.0,LANGUAGE <LL@li.org>
+ORBit,8,0,0,2,0,0,2,8,100.0,TLDN
+PySolFC,4609,133,266,2031,57,115,4755,5008,92.03274760383387,Russian <ru@li.org>
+R-RODBC,198,0,0,40,0,0,190,198,100.0,Łukasz Daniel <lukasz.daniel@gmail.com>
+accerciser,401,134,0,170,35,0,401,535,74.95327102803738,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+adwaita-icon-theme,8,0,0,4,0,0,8,8,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+aisleriot,1738,235,14,496,49,4,1740,1987,87.46854554604933,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+alacarte,42,0,0,16,0,0,42,42,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+anjuta,6462,1520,0,1848,307,0,6462,7982,80.95715359559009,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+aria2,12934,0,0,746,0,0,12952,12934,100.0,none
+at-spi,61,0,0,7,0,0,61,61,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+atk,375,0,0,126,0,0,376,375,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+atomix,146,0,0,59,0,0,153,146,100.0,Serbian (sr) <gnom@prevod.org>
+atril,1180,200,0,303,28,0,1181,1380,85.5072463768116,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+baobab,413,123,4,100,24,2,414,540,76.48148148148148,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+boswars,6163,347,1867,2473,145,514,6268,8377,73.5704906291035,<tr@li.org>
+brasero,5408,0,0,986,0,0,5406,5408,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+bzflag,3875,0,3767,647,0,1041,3925,7642,50.70662130332374,
+cadaver,1757,0,0,378,0,0,1757,1757,100.0,none
+caja,7548,1292,0,1333,105,0,7548,8840,85.38461538461539,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+camorama,559,0,0,133,0,0,576,559,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+cheese,592,59,0,114,6,0,593,651,90.93701996927803,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+childsplay,1226,0,0,212,0,0,1173,1226,100.0,<reinhard@foessmeier.de>
+cinnamon-desktop,107,98,26,12,10,9,107,231,46.320346320346324,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+cinnamon-session,480,87,0,76,11,0,480,567,84.65608465608466,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+cinnamon-settings-daemon,1652,307,0,254,26,0,1652,1959,84.3287391526289,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+cinnamon-translations,251,0,13001,75,0,3149,291,13252,1.8940537277392093,S'gaw Karen <ksw@li.org>
+compat-gtkhtml314,422,58,0,266,41,0,422,480,87.91666666666667,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+control-center,2803,717,0,696,115,0,2803,3520,79.63068181818181,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+crrcsim,0,0,585,0,0,191,0,585,0.0,
+cryptkeeper,716,0,0,106,0,0,716,716,100.0,none
+csound,18062,1093,72915,3483,258,13401,21780,92070,19.617682198327362,English (USA)
+cura,2886,971,1200,377,72,119,2588,5057,57.0694087403599,LANGUAGE <LL@li.org>
+cura-lulzbot,2886,971,1200,377,72,119,2588,5057,57.0694087403599,LANGUAGE <LL@li.org>
+devhelp,414,0,0,105,0,0,415,414,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+dia,4428,481,802,1682,176,188,4671,5711,77.5345823848713,Serbian (sr) <gnom@prevod.org>
+dnf-plugin-system-upgrade,0,0,609,0,0,105,0,609,0.0,wba
+drgeo,1882,83,20,438,14,9,1756,1985,94.81108312342569,Serbian (sr) <serbiangnome-lista@nongnu.org>
+drupal6-calendar,1221,0,546,192,0,44,1108,1767,69.10016977928693,Hungarian
+drupal6-cck,3904,30,135,562,2,3,3916,4069,95.94494961907102,drupalsverige.se
+drupal7-l10n_update,21,0,0,10,0,0,26,21,100.0,
+drwright,145,94,143,23,12,23,141,382,37.95811518324607,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+duff,464,0,0,70,0,0,464,464,100.0,none
+ekiga,2795,1409,0,592,121,0,2796,4204,66.48430066603235,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+elfutils,17326,0,0,2572,0,0,17328,17326,100.0,none
+empathy,1836,1751,74,540,327,20,1834,3661,50.15023217700082,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+engrampa,1039,334,0,243,56,0,1043,1373,75.67370721048799,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+entangle,0,0,2802,0,0,627,0,2802,0.0,Cornish (Common Orthography)
+eog,1523,0,0,304,0,0,1523,1523,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+eom,1098,0,0,260,0,0,1098,1098,100.0,Shavian <ubuntu-l10n-en-shaw@lists.launchpad.net>
+epiphany,2644,408,0,692,41,0,2645,3052,86.63171690694627,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+evince,1180,200,0,303,28,0,1181,1380,85.5072463768116,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+evolution,18665,2412,0,4048,422,0,18656,21077,88.55624614508706,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+evolution-data-server,3166,1238,0,716,210,0,3167,4404,71.88919164396003,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+evolution-mapi,337,0,0,67,0,0,337,337,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+fantasdic,75,0,0,35,0,0,77,75,100.0,Serbian (sr) <gnom@prevod.org>
+file-roller,1043,335,0,243,56,0,1043,1378,75.68940493468796,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+five-or-more,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+four-in-a-row,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+fpc,4,0,0,4,0,0,4,4,100.0,
+gajim,8932,1804,1197,1770,301,199,8565,11933,74.8512528282913,<sr@li.org>
+gallery2,281103,6759,123133,49754,797,14634,253477,410995,68.39572257570043,Afrikaans <gallery-translations@lists.sourceforge.net>
+gconf-editor,336,0,0,98,0,0,337,336,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gcr,99,229,294,52,81,94,99,622,15.916398713826366,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gdesklets,37,0,1491,11,0,193,34,1528,2.4214659685863875,Serbian (sr) <serbiangnome-listaL@nongnu.org>
+gdk-pixbuf2,1158,190,0,174,28,0,1158,1348,85.90504451038575,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gdm,738,573,0,154,79,0,739,1311,56.2929061784897,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gedit,5064,0,0,1111,0,0,5070,5064,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gedit-plugins,1150,115,221,435,37,49,1117,1486,77.38896366083445,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+genius,2839,0,0,475,0,0,2786,2839,100.0,Serbian (sr) <gnom@prevod.org>
+gettext,13806,0,0,1324,0,0,13830,13806,100.0,none
+gftp,2738,400,237,506,105,23,2716,3375,81.12592592592593,Serbian (sr) <serbiangnome-lista@nongnu.org>
+ggz-base-libs,74,0,0,17,0,0,83,74,100.0,Serbian (sr) <gnom@prevod.org>
+ggz-gtk-client,773,0,0,244,0,0,753,773,100.0,Serbian (sr) <gnom@prevod.org>
+gimp-gap,4778,4,9,860,3,5,4725,4791,99.7286579002296,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gimp-help,0,0,256,0,0,25,0,256,0.0,LANGUAGE <LL@li.org>
+glade,4155,582,0,1133,101,0,4156,4737,87.71374287523749,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+glade2,5555,183,102,1240,39,21,5197,5840,95.11986301369863,Serbian (sr) <serbiagnome-lista@nongnu.org>
+glade3,4155,582,0,1133,101,0,4156,4737,87.71374287523749,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+glib2,2582,377,1818,423,66,258,2581,4777,54.05065940967134,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-backgrounds,23,0,0,17,0,0,23,23,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-bluetooth,419,256,0,121,66,0,419,675,62.07407407407407,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-calculator,1172,129,0,254,6,0,1173,1301,90.08455034588778,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-chess,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-commander,1044,600,6252,383,234,806,1106,7896,13.221884498480243,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-desktop,334,104,0,49,12,0,334,438,76.25570776255708,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-desktop3,334,104,0,49,12,0,334,438,76.25570776255708,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-dictionary,739,91,3,159,21,3,740,833,88.71548619447779,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-disk-utility,1944,2600,0,455,620,0,1944,4544,42.78169014084507,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-doc-utils,41,210,0,33,68,0,41,251,16.334661354581673,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-icon-theme,8,0,0,4,0,0,8,8,100.0,Central Nahuatl <gnome-nhn-list@gnome.org>
+gnome-keyring,232,214,44,53,43,13,232,490,47.3469387755102,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-klotski,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-libs,3135,0,0,1159,0,0,2062,3135,100.0,traditional Chinese <zh-l10n@linux.org.tw>
+gnome-mahjongg,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-menus,125,0,0,46,0,0,125,125,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-mime-data,887,0,0,362,0,0,955,887,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-mines,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-mud,1295,0,0,262,0,0,1265,1295,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-nettool,517,100,0,185,28,0,517,617,83.79254457050244,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-nibbles,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-online-accounts,177,214,74,63,85,20,177,465,38.064516129032256,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-packagekit,5262,208,0,853,26,0,5261,5470,96.19744058500915,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-power-manager,229,142,61,117,20,7,229,432,53.00925925925925,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-robots,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-screensaver,807,182,0,140,17,0,807,989,81.59757330637008,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-screenshot,144,175,0,29,30,0,144,319,45.141065830721004,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-search-tool,1113,246,0,171,29,0,1113,1359,81.89845474613686,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-session,556,82,0,99,12,0,556,638,87.14733542319749,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-settings-daemon,1652,307,0,254,26,0,1652,1959,84.3287391526289,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-sudoku,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-system-log,404,100,18,83,7,4,405,522,77.39463601532567,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-system-monitor,727,206,0,210,34,0,728,933,77.92068595927117,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-terminal,4218,0,0,496,0,0,4219,4218,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-tetravex,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-themes,82,27,0,23,7,0,82,109,75.22935779816514,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-user-share,326,0,0,51,0,0,326,326,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-vfs2,1108,411,0,221,84,0,1107,1519,72.94272547728768,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gnucash,58406,790,278,9172,52,26,52507,59474,98.20425732252748,Manipuri (Bengali Script) <gistlrc@gmail.com>
+gnupg,17256,0,0,2590,0,0,17259,17256,100.0,none
+gnupg2,21242,0,0,3524,0,0,21249,21242,100.0,none
+gnutls,2878,0,0,678,0,0,2879,2878,100.0,none
+grhino,1006,0,0,430,0,0,1006,1006,100.0,Kriang Lerdsuwanakij <lerdsuwa@users.sourceforge.net>
+gridengine,16540,0,0,2648,0,0,77621,16540,100.0,
+grub2,46667,1820,884,8920,249,113,46420,49371,94.52310060561868,German <translation-team-de@lists.sourceforge.net>
+gshutdown,388,101,3,87,11,3,349,492,78.86178861788618,GShutdown Team <gshutdown@gmail.com>
+gthumb,2564,0,0,867,0,0,2530,2564,100.0,Serbian (sr) <gnom@prevod.org>
+gtick,676,0,0,192,0,0,676,676,100.0,none
+gtk+,1000,0,10,515,0,10,721,1010,99.00990099009901,Chinese <zh@li.org>
+gtk2-engines,56,63,0,33,14,0,56,119,47.05882352941176,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gtk3,10432,2868,0,2144,545,0,10433,13300,78.43609022556392,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gtkhtml3,422,58,0,266,41,0,422,480,87.91666666666667,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gtksourceview,821,0,0,332,0,0,906,821,100.0,Serbian (sr) <gnom@prevod.org>
+gtksourceview2,1050,363,0,410,128,0,1051,1413,74.3099787685775,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gtksourceview3,1050,363,0,410,128,0,1051,1413,74.3099787685775,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gucharmap,526,337,0,225,99,0,527,863,60.950173812282735,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+gvfs,1725,211,0,409,49,0,1725,1936,89.10123966942149,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+hamster-time-tracker,509,137,51,134,25,13,510,697,73.02725968436154,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+iagno,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+indent,186,55,31,37,10,8,81,272,68.38235294117648,zh_TW.Big5 <LL@li.org>
+inkscape,19030,7850,7793,3838,2396,1169,19030,34673,54.88420384737404,
+intltool,238,3,62,39,2,17,213,303,78.54785478547855,Bulgarian <dict@linux.zonebg.com>
+istanbul,72,0,0,25,0,0,72,72,100.0,Serbian (sr) <gnom@prevod.org>
+kde-i18n,21523,0,0,3923,0,0,6530,21523,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+kde-l10n,796,0,0,172,0,0,335,796,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+keurocalc,291,0,0,116,0,0,289,291,100.0,Serbian <kde-i18n-sr@kde.org>
+kile,11162,0,0,1902,0,0,11621,11162,100.0,KDE Test Language <kde-i18n-doc@kde.org>
+knetstats,119,0,0,53,0,0,122,119,100.0,Serbian <kde-i18n-sr@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,8256,8417,100.0,Serbian <kde-i18n-sr@kde.org>
+kvirc,33528,3309,48533,5602,371,5919,32800,85370,39.273749560735624,LANGUAGE <LL@li.org>
+lemonpos,1187,692,1239,407,192,244,490,3118,38.069275176395124,Zh<zh@li.org>
+libbonobo,417,126,0,82,25,0,417,543,76.79558011049724,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libbonoboui,261,107,0,94,21,0,261,368,70.92391304347827,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libcryptui,2694,367,0,598,59,0,2693,3061,88.01045409996733,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgda,79,2868,8195,38,690,1326,86,11142,0.7090288996589481,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgdl,409,195,0,68,24,0,409,604,67.71523178807946,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgnome,1339,434,0,211,62,0,1339,1773,75.52171460800903,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgnome-media-profiles,184,0,276,31,0,20,184,460,40.0,Shavian <ubuntu-l10n-en-shaw@lists.launchpad.net>
+libgnomecanvas,318,60,0,85,10,0,318,378,84.12698412698413,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgnomecups,206,4,0,53,1,0,178,210,98.09523809523809,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgnomekbd,210,76,0,51,8,0,210,286,73.42657342657343,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgnomeprint22,154,14,0,89,9,0,154,168,91.66666666666666,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgnomeprintui22,452,29,0,144,10,0,452,481,93.97089397089398,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgnomeui,982,244,0,283,37,0,982,1226,80.0978792822186,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgsasl,1154,0,0,138,0,0,1154,1154,100.0,none
+libgtop2,126,0,0,40,0,0,126,126,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libgweather,4954,18,8,3188,10,8,5129,4980,99.47791164658635,Spanish <traductores@es.gnome.org>
+libidn,856,0,0,120,0,0,859,856,100.0,none
+libkexif,25,0,0,14,0,0,24,25,100.0,Serbian <kde-yu@kde.yu.org>
+libmatekbd,210,76,0,51,8,0,210,286,73.42657342657343,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libmateweather,4954,18,8,3188,10,8,5129,4980,99.47791164658635,Spanish <traductores@es.gnome.org>
+libpolyxmass,4278,0,0,520,0,0,4278,4278,100.0,none
+librfm,61,73,2263,49,43,506,58,2397,2.5448477263245723,None
+libsmbios,3260,0,0,580,0,0,3260,3260,100.0,none
+libwnck,893,231,0,195,46,0,892,1124,79.44839857651246,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+libwnck3,893,231,0,195,46,0,892,1124,79.44839857651246,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+light-locker,75,109,42,11,14,7,75,226,33.1858407079646,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+lightsoff,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+linux_logo,0,0,45,0,0,15,0,45,0.0,LANGUAGE <LL@li.org>
+logjam,2000,129,187,473,62,54,1997,2316,86.35578583765113,none
+lvm2,0,0,9826,0,0,1556,0,9826,0.0,LANGUAGE <LL@li.org>
+lxappearance-obconf,234,144,14,32,16,6,236,392,59.693877551020414,none
+mail-notification,2167,0,18,379,0,2,2244,2185,99.17620137299771,Serbian (sr) <gnu@prevod.org>
+marco,3790,0,0,403,0,0,3786,3790,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-applet-lockkeys,13,24,8,3,7,2,12,45,28.888888888888886,Swedish <sv@li.org>
+mate-applets,10516,552,0,2588,152,0,12586,11068,95.01264907842429,Spanish <traductores@es.mate.org>
+mate-backgrounds,23,0,0,17,0,0,23,23,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-calc,1172,129,0,254,6,0,1173,1301,90.08455034588778,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-control-center,2519,998,0,616,194,0,2519,3517,71.6235427921524,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-desktop,334,104,0,49,12,0,334,438,76.25570776255708,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-dialogs,612,0,0,142,0,0,613,612,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-media,744,0,0,225,0,0,745,744,100.0,Shavian <ubuntu-l10n-en-shaw@lists.launchpad.net>
+mate-menus,125,0,0,46,0,0,125,125,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-panel,4000,556,0,586,41,0,4000,4556,87.79631255487269,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-power-manager,2394,0,0,368,0,0,2394,2394,100.0,Shavian <ubuntu-l10n-en-shaw@lists.launchpad.net>
+mate-screensaver,807,0,0,140,0,0,807,807,100.0,Shavian <ubuntu-l10n-en-shaw@lists.launchpad.net>
+mate-session-manager,556,82,0,99,12,0,556,638,87.14733542319749,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-settings-daemon,1652,307,0,254,26,0,1652,1959,84.3287391526289,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-system-monitor,727,206,0,210,34,0,728,933,77.92068595927117,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-terminal,4218,0,0,496,0,0,4219,4218,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-themes,82,27,0,23,7,0,82,109,75.22935779816514,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-user-share,326,0,0,51,0,0,326,326,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mate-utils,3153,768,0,576,112,0,3153,3921,80.41315990818669,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+metacity,3790,0,0,403,0,0,3786,3790,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-GConf2,4035,0,0,484,0,0,4035,4035,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-adwaita-icon-theme,8,0,0,4,0,0,8,8,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-atk,375,0,0,126,0,0,376,375,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-gdk-pixbuf,1158,190,0,174,28,0,1158,1348,85.90504451038575,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-gettext,13476,0,0,1286,0,0,13500,13476,100.0,none
+mingw-glib2,2582,377,1818,423,66,258,2581,4777,54.05065940967134,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-gnutls,2878,0,0,678,0,0,2879,2878,100.0,none
+mingw-gtk3,10432,2868,0,2144,545,0,10433,13300,78.43609022556392,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-gtkhtml3,422,58,0,266,41,0,422,480,87.91666666666667,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-gtksourceview3,1050,363,0,410,128,0,1051,1413,74.3099787685775,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mingw-libidn,828,0,0,116,0,0,831,828,100.0,none
+mingw-p11-kit,952,0,0,162,0,0,952,952,100.0,none
+mingw-wxWidgets,63,0,6395,16,0,1476,37,6458,0.9755342211210901,LANGUAGE <LL@li.org>
+mintmenu,26221,0,3999,3109,0,359,24795,30220,86.76704169424222,S'gaw Karen <ksw@li.org>
+mirage,0,0,817,0,0,245,0,817,0.0,LANGUAGE <LL@li.org>
+modem-manager-gui,1034,0,184,279,0,80,969,1218,84.89326765188834,Uzbek (Cyrillic) (http://www.transifex.com/projects/p/modem-manager-gui/language/uz@Cyrl/)
+mousetweaks,630,100,0,83,14,0,630,730,86.3013698630137,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+mozo,42,0,0,16,0,0,42,42,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+nautilus,7548,1292,0,1333,105,0,7548,8840,85.38461538461539,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+nautilus-sendto,308,0,0,64,0,0,305,308,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+nemo-extensions,381,40,0,101,9,0,378,421,90.49881235154395,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+nightfall,6218,0,30,1389,0,13,5713,6248,99.51984635083227,German
+olpc-switch-desktop,0,0,316,0,0,28,0,316,0.0,LANGUAGE <LL@li.org>
+opendbx,184,0,0,43,0,0,184,184,100.0,none
+openerp,1034924,0,857946,244726,0,147342,968519,1892870,54.67485881227977,Spanish (Paraguay) <es_PY@li.org>
+openerp7,1016257,0,1209093,239484,0,189477,941332,2225350,45.66728829172939,Spanish (Paraguay) <es_PY@li.org>
+openstack-ceilometer,0,0,2280,0,0,384,0,2280,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-cinder,0,0,15470,0,0,2242,0,15470,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-glance,0,0,6659,0,0,776,0,6659,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-heat,0,0,10215,0,0,1333,0,10215,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-ironic,0,0,2966,0,0,432,0,2966,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-keystone,0,0,2659,0,0,371,0,2659,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-neutron,0,0,21722,0,0,3170,0,21722,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-nova,0,0,17432,0,0,2712,0,17432,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-sahara,0,0,373,0,0,50,0,373,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openstack-trove,0,0,3988,0,0,705,0,3988,0.0,Swahili (Kenya) (http://www.transifex.com/projects/p/openstack/language/sw_KE/)
+openvas-gsa,1508,4721,175,437,1180,36,1444,6404,23.54778263585259,
+p11-kit,952,0,0,162,0,0,952,952,100.0,none
+pan,232,1683,1253,82,451,219,261,3168,7.3232323232323235,Serbian (sr) <gnom@prevod.org>
+perl,16,0,0,3,0,0,22,16,100.0,English <en@li.org>
+perl-Catalyst-Plugin-I18N,2,0,0,1,0,0,2,2,100.0,
+perl-Locale-Msgfmt,5,1,0,4,1,0,7,6,83.33333333333334,
+pessulus,130,0,0,33,0,0,130,130,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+php-ZendFramework,12,0,0,6,0,0,16,12,100.0,
+php-ZendFramework2,0,0,0,0,0,0,0,0,0.0,
+php-horde-imp,2289,0,0,497,0,0,2166,2289,100.0,Arabic <i18n@lists.horde.org>
+pidgin-guifications,466,8,31,186,1,5,453,505,92.27722772277228,Serbian Latin (sr@Latn) <gnu@prevod.org>
+planner,1591,0,0,491,0,0,1504,1591,100.0,Serbian (sr) <gnom@prevod.org>
+pluma,4966,0,0,1105,0,0,4977,4966,100.0,Shavian <ubuntu-l10n-en-shaw@lists.launchpad.net>
+po4a,23,100,1,15,6,1,23,124,18.548387096774192,LANGUAGE <LL@li.org>
+poedit,325,0,2136,199,0,325,311,2461,13.206013815522146,Frisian
+publican-fedora,6,0,101,1,0,7,5,107,5.607476635514018,Low German <nds-lowgerman@lists.sourceforge.net>
+pyqtrailer,0,0,0,0,0,0,0,0,0.0,
+python-django,145,0,3160,22,0,749,150,3305,4.387291981845689,Western Frisian (Netherlands) (http://www.transifex.com/projects/p/django/language/fy_NL/)
+python-lettuce,568,0,7035,85,0,2357,588,7603,7.470735236091016,FRISIAN <LL@li.org>
+qemu,0,0,22,0,0,11,0,22,0.0,LANGUAGE <LL@li.org>
+quadrapassel,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+regexxer,466,0,1,99,0,1,446,467,99.78586723768737,Serbian (sr) <gnom@prevod.org>
+rkward,32847,0,0,3813,0,0,33861,32847,100.0,KDE Test Language <kde-i18n-doc@kde.org>
+rodent,334,84,9384,75,47,750,131,9802,3.4074678637012856,
+sabayon,743,0,0,171,0,0,743,743,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+sawfish,2370,1501,2572,539,249,194,2355,6443,36.78410678255471,Serbian (sr) <gnom@prevod.org>
+scratch,1464,0,6,622,0,4,868,1470,99.59183673469387,LANGUAGE <LL@li.org>
+scummvm,2895,0,0,701,0,0,2597,2895,100.0,
+seahorse,2694,367,0,598,59,0,2693,3061,88.01045409996733,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+seahorse-nautilus,381,40,0,101,9,0,378,421,90.49881235154395,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+skychart,1886,0,706,385,0,218,1844,2592,72.76234567901234,polski <pl@li.org>
+snownews,0,0,791,0,0,163,0,791,0.0,LANGUAGE <LL@li.org>
+sonata,0,0,1137,0,0,358,0,1137,0.0,LANGUAGE <LL@li.org>
+sound-juicer,680,320,0,150,41,0,681,1000,68.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+soundconverter,103,0,285,34,0,87,103,388,26.54639175257732,Serbian (sr) <gnom@prevod.org>
+soundtracker,3296,0,0,938,0,0,3297,3296,100.0,none
+squirrelmail,5770,0,0,1118,0,0,5599,5770,100.0,Serbian <squirrelmail-i18n@lists.sourceforge.net>
+starplot,2046,0,0,450,0,0,2046,2046,100.0,none
+sugar,222,12,6482,57,3,1574,250,6716,3.3055390113162595,LANGUAGE <LL@li.org>
+sugar-abacus,29,0,102,24,0,75,37,131,22.137404580152673,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,81,0,864,35,0,225,126,945,8.571428571428571,LANGUAGE <LL@li.org>
+sugar-calculator,552,0,2061,139,0,353,798,2613,21.125143513203216,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,129,0,0,81,0,129,0.0,LANGUAGE <LL@li.org>
+sugar-chat,79,0,83,44,0,58,111,162,48.76543209876543,LANGUAGE <LL@li.org>
+sugar-clock,36,2,198,15,2,55,646,236,15.254237288135593,LANGUAGE <LL@li.org>
+sugar-connect,31,0,72,8,0,18,117,103,30.097087378640776,LANGUAGE <LL@li.org>
+sugar-deducto,0,1,435,0,1,91,0,436,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,286,0,0,64,0,286,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,104,0,231,41,0,99,121,335,31.044776119402982,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,272,0,0,92,0,272,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,162,0,0,62,0,162,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,51,0,102,13,0,26,68,153,33.33333333333333,LANGUAGE <LL@li.org>
+sugar-implode,0,0,156,0,0,42,0,156,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,236,0,708,62,0,186,326,944,25.0,LANGUAGE <LL@li.org>
+sugar-jukebox,15,0,180,10,0,50,30,195,7.6923076923076925,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,1124,0,0,376,0,1124,0.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,296,21,0,64,121,394,24.873096446700508,LANGUAGE <LL@li.org>
+sugar-maze,7,0,21,4,0,12,9,28,25.0,LANGUAGE <LL@li.org>
+sugar-measure,162,0,310,75,0,146,207,472,34.32203389830508,LANGUAGE <LL@li.org>
+sugar-memorize,143,0,589,75,0,317,161,732,19.53551912568306,LANGUAGE <LL@li.org>
+sugar-moon,0,0,468,0,0,132,0,468,0.0,LANGUAGE <LL@li.org>
+sugar-paint,163,0,244,112,0,153,390,407,40.04914004914005,LANGUAGE <LL@li.org>
+sugar-physics,86,0,144,38,0,84,94,230,37.391304347826086,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,270,31,0,78,149,379,28.759894459102902,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,255,0,0,90,0,255,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,41,0,139,18,0,45,68,180,22.77777777777778,LANGUAGE <LL@li.org>
+sugar-read,70,0,310,32,0,117,80,380,18.421052631578945,LANGUAGE <LL@li.org>
+sugar-ruler,29,0,87,8,0,24,34,116,25.0,LANGUAGE <LL@li.org>
+sugar-speak,135,4,542,67,1,154,142,681,19.823788546255507,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,27,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,15,0,36,8,0,20,20,51,29.411764705882355,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,146,0,0,74,0,146,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,64,12,152,37,3,80,74,228,28.07017543859649,LANGUAGE <LL@li.org>
+sugar-turtleart,1957,21,7621,525,14,1944,2308,9599,20.387540368788414,LANGUAGE <LL@li.org>
+sugar-typing-turtle,599,0,1797,127,0,381,667,2396,25.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,14,0,0,10,0,14,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,763,0,0,382,0,763,0.0,LANGUAGE <LL@li.org>
+sugar-write,85,0,278,49,0,116,126,363,23.415977961432507,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,27,29,100.0,LANGUAGE <LL@li.org>
+swell-foop,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+synaptic,1200,1130,901,329,240,93,1302,3231,37.14020427112349,Serbian (sr) <serbiangnome-lista@nongnu.org>
+system-config-language,33,15,150,7,4,18,26,198,16.666666666666664,Kashmiri
+tali,6108,854,0,1458,139,0,6110,6962,87.73340993967251,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+tomboy,1712,1345,0,318,119,0,1712,3057,56.00261694471704,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+totem,1699,891,0,456,131,0,1699,2590,65.5984555984556,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+totem-pl-parser,28,0,0,7,0,0,28,28,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+trojita,3883,0,0,823,0,0,3997,3883,100.0,KDE Test Language <kde-i18n-doc@kde.org>
+tuxmath,3324,121,917,612,16,116,3480,4362,76.20357634112793,none
+tuxpaint,1011,1134,1596,284,142,330,1170,3741,27.02485966319166,
+tuxpaint-stamps,119,179,2413,61,75,514,75,2711,4.389524160826264,
+tuxtype2,231,0,9,112,0,8,192,240,96.25,none
+vim,44729,30,0,9329,6,0,35012,44759,99.93297437386894,"Hung-Te Lin <piaip@csie.ntu.edu.tw>, Cecil Sheng <b7506022@csie.ntu.edu.tw>"
+vinagre,1599,0,0,272,0,0,1599,1599,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+vino,764,451,0,107,29,0,765,1215,62.880658436213984,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+vte,80,0,0,13,0,0,80,80,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+vte291,80,0,0,13,0,0,80,80,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+vte3,80,0,0,13,0,0,80,80,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+wdiff,1746,0,0,238,0,0,1746,1746,100.0,none
+weld-core,1025,7587,17855,114,413,686,981,26467,3.872747194619715,<en@li.org>
+wesnoth,148833,93069,496852,11414,5157,30578,148507,738754,20.146489900562297,none
+wicd,265,0,873,85,0,169,320,1138,23.28646748681898,es_GT <LL@li.org>
+wine-docs,57699,2027,12474,3086,61,615,59969,72200,79.91551246537396,CA
+wqy-zenhei-fonts,44,0,0,9,0,0,9,44,100.0,
+wxGTK,63,0,6395,16,0,1476,37,6458,0.9755342211210901,LANGUAGE <LL@li.org>
+wxGTK3,63,0,4,16,0,1,38,67,94.02985074626866,
+wxPython,63,0,6404,16,0,1477,37,6467,0.974176588835627,LANGUAGE <LL@li.org>
+xcdroast,4487,451,11150,748,95,853,1507,16088,27.89035305818001,Simplified Chinese
+xdg-user-dirs,26,2,0,26,2,0,28,28,92.85714285714286,Serbian (sr) <gnom@prevod.org>
+xen,0,0,22,0,0,11,0,22,0.0,LANGUAGE <LL@li.org>
+xmms,2668,411,364,910,70,65,2726,3443,77.49056055765321,<sr@li.org>
+xmoto,6600,0,1078,1402,0,242,7168,7678,85.95988538681948,<XMoto>
+yash,3798,0,0,694,0,0,3805,3798,100.0,none
+yelp-xsl,41,0,0,33,0,0,41,41,100.0,Shavian <ubuntu-l10n-en-shaw@lists.launchpad.net>
+zenity,612,0,0,142,0,0,613,612,100.0,Shavian <ubuntu-l10n-en-shaw@launchpad.net>
+zvbi,1328,0,0,242,0,0,1332,1328,100.0,none

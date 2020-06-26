@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+avahi,758,89,21,152,11,5,758,868,87.32718894009217,British English <en@li.org>
+cinnamon-translations,4,0,6905,1,0,1698,4,6909,0.0578954986249819,English (New Zealand) <en_NZ@li.org>
+gnucash,37049,0,0,5401,0,0,37066,37049,100.0,English (New Zealand) <https://hosted.weblate.org/projects/gnucash/gnucash/en_NZ/>
+gxmessage,22,0,245,3,0,35,22,267,8.239700374531834,LANGUAGE <LL@li.org>
+python-django,3,0,0,1,0,0,1,3,100.0,LANGUAGE <LL@li.org>

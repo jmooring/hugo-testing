@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+kde-i18n,14,0,0,9,0,0,10,14,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+libreoffice,454233,2776,74279,65658,490,7281,342517,531288,85.49656683380765,Sidaama Translators

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+inkscape,18793,10651,11485,4045,3020,1603,24556,40929,45.91609860978768,LANGUAGE <LL@li.org>
+libreoffice,57272,17571,29364,17321,7483,7684,85408,104207,54.95983955012619,LANGUAGE <LL@li.org>
+tuxpaint,1591,0,0,291,0,0,1990,1591,100.0,none

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,125,0,10371,122,0,7585,122,10496,1.1909298780487805,Tigrinya
+iso-codes,394,2820,9152,358,2391,5898,385,12366,3.1861555879023125,Tigrinya
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

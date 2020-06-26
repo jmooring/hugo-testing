@@ -1,0 +1,33 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,6,0,2063,6,0,459,16,2069,0.28999516674722087,LANGUAGE <LL@li.org>
+R,25,0,9901,1,0,1695,34,9926,0.25186379206125326,R-core <R-core@R-project.org>
+TurboGears,0,0,9,0,0,3,0,9,0.0,LANGUAGE <LL@li.org>
+boinc-client,0,0,0,0,0,0,0,0,0.0,
+calcurse,838,1209,1080,112,64,61,839,3127,26.798848736808445,English/GB <en_GB@li.org>
+celestia,102,0,1234,89,0,459,191,1336,7.634730538922156,English
+clisp,14442,0,0,1848,0,0,14442,14442,100.0,English <en@li.org>
+cook,997,0,0,214,0,0,1437,997,100.0,
+fish,14514,0,129,2598,0,13,14514,14643,99.11903298504406,English <fish-users@lists.sf.net>
+gambas,415,0,0,25,0,0,265,415,100.0,LANGUAGE <LL@li.org>
+gauche,82,0,0,10,0,0,83,82,100.0,
+gnomebaker,20,18,1148,7,1,283,20,1186,1.6863406408094435,English <en@li.org>
+gourmet,0,0,3526,0,0,791,0,3526,0.0,English <en@li.org>
+gridengine,0,0,16517,0,0,2644,0,16517,0.0,LANGUAGE <LL@li.org>
+gtklp,591,0,0,211,0,0,590,591,100.0,Nils Philippsen <nils@redhat.de>
+icewm,1,0,1375,1,0,246,0,1376,0.07267441860465117,English
+moin,4,25,2622,2,5,465,4,2651,0.15088645794039984,German <moin-devel@lists.sourceforge.net>
+pmount,0,0,723,0,0,63,0,723,0.0,English <en@li.org>
+po4a,91,0,0,64,0,0,91,91,100.0,LANGUAGE <LL@li.org>
+python-nevow,4,0,10,3,0,1,4,14,28.57142857142857,LANGUAGE <LL@li.org>
+qt,482,0,0,200,0,0,486,482,100.0,
+quarry,1807,0,0,447,0,0,1804,1807,100.0,
+rosegarden4,0,0,10592,0,0,2249,0,10592,0.0,none>
+roundup,0,0,0,0,0,0,0,0,0.0,English
+rt3,23,0,0,22,0,0,22,23,100.0,rt-devel <rt-devel@lists.bestpractical.com>
+ruby-gettext-package,2,0,43,2,0,19,2,45,4.444444444444445,English
+speedcrunch,0,0,18,0,0,13,0,18,0.0,en
+stellarium,818,152,126,396,37,43,818,1096,74.63503649635037,
+wdm,3,0,35,1,0,24,269,38,7.894736842105263,
+wxGlade,0,0,284,0,0,53,0,284,0.0,LANGUAGE <LL@li.org>
+xen,22,0,0,22,0,0,196,22,100.0,xen-devel <xen-devel@lists.xensource.com>
+xmms,3245,0,0,1017,0,0,3245,3245,100.0,English

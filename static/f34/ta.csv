@@ -1,0 +1,596 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,3251,4088,100.0,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager,5831,3382,17775,899,534,767,5100,26988,21.605898918037646,Tamil <kde-i18n-doc@kde.org>
+NetworkManager-fortisslvpn,6,20,297,4,8,48,7,323,1.8575851393188854,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-l2tp,104,0,1131,35,0,151,110,1235,8.421052631578947,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-libreswan,14,23,428,8,8,60,18,465,3.010752688172043,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-openconnect,34,5,3202,9,2,585,33,3241,1.0490589324282629,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-openvpn,66,186,1724,31,30,212,69,1976,3.340080971659919,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-pptp,144,0,0,44,0,0,151,144,100.0,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-ssh,37,36,213,16,13,40,36,286,12.937062937062937,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-sstp,144,0,0,44,0,0,151,144,100.0,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-vpnc,139,0,0,36,0,0,142,139,100.0,Tamil <fedora-trans-ta@redhat.com>
+PackageKit,877,0,0,239,0,0,703,877,100.0,Tamil (http://www.transifex.com/freedesktop/packagekit/language/ta/)
+abrt,2128,111,1437,272,16,129,1894,3676,57.889009793253535,Tamil (http://www.transifex.com/projects/p/fedora-abrt/language/ta/)
+accountsservice,0,0,59,0,0,10,0,59,0.0,Tamil (http://www.transifex.com/freedesktop/accountsservice/language/ta/)
+aisleriot,2807,0,0,617,0,0,2146,2807,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+alacarte,42,0,0,16,0,0,45,42,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+anaconda,4100,386,3532,811,76,471,3783,8018,51.134946370666,Tamil (http://www.transifex.com/projects/p/anaconda/language/ta/)
+android-tools,5868,558,1252,842,111,125,5005,7678,76.42615264391769,Tamil <tamil-users@lists.fedoraproject.org>
+arduino,1293,0,1911,247,0,360,1047,3204,40.355805243445694,Tamil (http://www.transifex.com/mbanzi/arduino-ide-15/language/ta/)
+asunder,17,0,475,15,0,76,17,492,3.4552845528455287,http://littlesvr.ca/ostd/
+at-spi2-core,5,0,0,1,0,0,3,5,100.0,Tamil <ta@li.org>
+atk,398,0,0,139,0,0,326,398,100.0,Tamil <fedora-trans-ta@redhat.com>
+atomix,123,0,2,43,0,1,118,125,98.4,Tamil <tamilinix@yahoogroups.com>
+atril,1348,0,3041,381,0,355,1183,4389,30.713146502620187,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+audacious,506,0,353,256,0,103,526,859,58.905704307334105,Tamil (http://www.transifex.com/audacious/audacious/language/ta/)
+audacious-plugins,1073,0,3181,472,0,513,1099,4254,25.223319228960978,Tamil (http://www.transifex.com/audacious/audacious/language/ta/)
+audacity,4008,5535,8483,1143,1734,1334,3626,18026,22.234550094308222,தமிழா!-ThamiZha!(www.thamizha.org)
+avogadro,9,0,556,5,0,241,21,565,1.592920353982301,Tamil <ta@li.org>
+avogadro2,5,6,453,3,4,145,23,464,1.0775862068965518,Tamil <ta@li.org>
+avogadro2-libs,0,0,3976,0,0,1194,0,3976,0.0,none
+baobab,210,0,0,57,0,0,192,210,100.0,American English <kde-i18n-doc@kde.org>
+bijiben,138,0,252,67,0,58,130,390,35.38461538461539,Tamil <ta@li.org>
+bison,52,0,0,9,0,0,51,52,100.0,Tamil <tamil@systemreboot.net>
+bleachbit,281,0,854,117,0,136,269,1135,24.75770925110132,Tamil <ta@li.org>
+blueberry,116,0,50,30,0,7,99,166,69.87951807228916,Tamil <ta@li.org>
+bluefish,721,1706,2518,363,702,483,741,4945,14.580384226491406,Not a member <LL@li.org>
+blueman,90,80,1687,60,40,479,90,1857,4.846526655896607,Tamil (http://www.transifex.com/mate/MATE/language/ta/)
+bookworm,2,0,793,2,0,147,2,795,0.25157232704402516,Tamil <https://hosted.weblate.org/projects/bookworm/bookworm/ta/>
+brasero,5549,0,0,969,0,0,4592,5549,100.0,Tamil <>
+caja,6548,0,3127,1157,0,447,5197,9675,67.6795865633075,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+caja-actions,136,0,18679,83,0,1433,145,18815,0.7228275312250864,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+caja-extensions,282,0,478,75,0,70,237,760,37.10526315789473,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+calibre,7364,0,153698,6264,0,12220,7327,161062,4.572152338850877,Tamil (http://www.transifex.com/calibre/calibre/language/ta/)
+calligra,12476,9379,8117,2804,2277,900,10097,29972,41.62551714933939,<ta@li.org>
+camorama,458,109,208,99,27,40,363,775,59.096774193548384,Tamil <zhakanini@yahoogroups.com>
+caribou,171,0,0,57,0,0,159,171,100.0,Tamil <ubuntu-tam@lists.ubuntu.com>
+certmonger,2,0,2829,1,0,472,2,2831,0.07064641469445425,Tamil (http://www.transifex.com/projects/p/certmonger/language/ta/)
+cheese,628,0,0,130,0,0,498,628,100.0,American English <kde-i18n-doc@kde.org>
+chkconfig,502,19,52,93,5,9,433,573,87.60907504363001,Tamil <tamil-users@lists.fedoraproject.org>
+chromium,14576,0,0,3187,0,0,11583,14576,100.0,Tamil <kde-i18n-doc@kde.org>
+cinnamon-control-center,1313,0,0,756,0,0,1299,1313,100.0,Tamil <kde-i18n-doc@kde.org>
+cinnamon-translations,9505,0,13542,2636,0,2556,8400,23047,41.2418102139107,Tamil <ta@li.org>
+clamtk,19,0,437,14,0,130,21,456,4.166666666666666,Tamil <ta@li.org>
+clutter,2290,456,311,510,96,69,1624,3057,74.91004252535166,Tamil <ta@li.org>
+cogl,378,0,0,76,0,0,346,378,100.0,Tamil <ta@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,25,0,363,8,0,91,22,388,6.443298969072164,LANGUAGE <LL@li.org>
+compiz,3,87,4295,3,37,839,4,4385,0.06841505131128849,Tamil <opensuse-translation@opensuse.org>
+console-setup,951,27,6,174,3,2,753,984,96.64634146341463,Tamil <<gnome-tamil-translation@googlegroups.com>>
+cracklib,93,0,3,15,0,1,72,96,96.875,Tamil <fedora-trans-ta@redhat.com>
+dasher,638,0,0,213,0,0,631,638,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+dconf-editor,131,39,1294,18,17,152,105,1464,8.94808743169399,Tamil <<gnome-tamil-translation@googlegroups.com>>
+debconf,191,0,0,17,0,0,151,191,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+deepin-daemon,137,0,966,65,0,179,138,1103,12.42067089755213,Tamil (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/ta/)
+deja-dup,173,0,1450,66,0,219,173,1623,10.659272951324708,Tamil <ta@li.org>
+deluge,33,0,2583,26,0,825,43,2616,1.261467889908257,Tamil <ta@li.org>
+devhelp,318,0,1,80,0,1,270,319,99.68652037617555,<en@li.org>
+dia,1614,0,4991,826,0,1535,1634,6605,24.436033308099926,Tamil <fedora-trans-ta@redhat.com>
+dino,18,0,618,6,0,178,13,636,2.8301886792452833,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dolphin,3027,16,1703,660,2,50,2491,4746,63.78002528445006,Tamil <kde-i18n-doc@kde.org>
+dolphin-plugins,4,0,0,2,0,0,4,4,100.0,Tamil <kde-i18n-doc@kde.org>
+edgar,1,0,11473,1,0,1534,1,11474,0.008715356458079134,Tamil <ta@li.org>
+electrum,65,0,8935,16,0,1627,49,9000,0.7222222222222222,Tamil
+elementary-calculator,45,14,176,29,6,40,44,235,19.148936170212767,Tamil <https://l10n.elementary.io/projects/calculator/calculator/ta/>
+elementary-calendar,105,18,738,43,7,205,98,861,12.195121951219512,Tamil <ta@li.org>
+elementary-camera,0,0,159,0,0,39,0,159,0.0,Tamil <ta@li.org>
+elementary-capnet-assist,0,0,81,0,0,14,0,81,0.0,none
+elementary-code,53,65,1490,16,13,278,41,1608,3.296019900497513,Tamil <ta@li.org>
+elementary-files,78,63,3372,43,31,575,79,3513,2.220324508966695,Tamil <ta@li.org>
+elementary-greeter,2,0,198,1,0,44,1,200,1.0,Tamil <ta@li.org>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,100,27,1078,66,9,279,102,1205,8.29875518672199,Tamil <ta@li.org>
+elementary-notifications,0,0,36,0,0,10,0,36,0.0,none
+elementary-photos,2708,706,597,629,88,101,2531,4011,67.5143355771628,Tamil <https://weblate.elementary.io/projects/photos/photos/ta/>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,1,0,318,1,0,60,1,319,0.3134796238244514,Tamil <https://l10n.elementary.io/projects/desktop/sideload/ta/>
+elementary-tasks,0,0,364,0,0,77,0,364,0.0,none
+elementary-terminal,49,41,553,12,7,98,41,643,7.620528771384137,Tamil <ta@li.org>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,58,5,328,27,2,67,58,391,14.83375959079284,Tamil <ta@li.org>
+engrampa,1187,0,6651,280,0,613,1018,7838,15.14416943097729,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+entangle,0,0,953,0,0,229,0,953,0.0,Tamil
+eog,1616,0,0,327,0,0,1334,1616,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+eog-plugins,100,0,0,32,0,0,87,100,100.0,Tamil <fedora-trans-ta@redhat.com>
+eom,1219,0,3742,295,0,247,1046,4961,24.571658939729893,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+epiphany,4053,150,210,736,41,27,3263,4413,91.84228416043509,Tamil <<gnome-tamil-translation@googlegroups.com>>
+evince,1525,0,0,355,0,0,1311,1525,100.0,Tamil <kde-i18n-doc@kde.org>
+evolution,22950,0,0,4912,0,0,19831,22950,100.0,Tamil <kde-i18n-doc@kde.org>
+evolution-data-server,5400,0,0,1074,0,0,4899,5400,100.0,Tamil <kde-i18n-doc@kde.org>
+evolution-ews,1165,0,0,239,0,0,1088,1165,100.0,Tamil <kde-i18n-doc@kde.org>
+evolution-mapi,1034,0,0,231,0,0,987,1034,100.0,Tamil <gnome-tamil-translation@googlegroups.com>
+evolution-rss,728,0,0,198,0,0,681,728,100.0,Tamil <fedora-trans-ta@redhat.com>
+exaile,209,101,3757,121,46,898,200,4067,5.138923039095157,Tamil <https://hosted.weblate.org/projects/exaile/master/ta/>
+fcitx-table-other,3,0,21,3,0,19,3,24,12.5,Tamil (http://www.transifex.com/fcitx/fcitx/language/ta/)
+fcitx5-table-other,0,0,100,0,0,34,0,100,0.0,Tamil (http://www.transifex.com/fcitx/fcitx/language/ta/)
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+file-roller,1195,0,0,268,0,0,1039,1195,100.0,American English <kde-i18n-doc@kde.org>
+filezilla,10705,0,20,1857,0,4,8650,10725,99.81351981351982,தமிழ்
+firewalld,1486,10,721,292,1,122,1229,2217,67.02751465944971,Tamil (http://www.transifex.com/projects/p/firewalld/language/ta/)
+five-or-more,465,0,0,101,0,0,405,465,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+folks,1003,0,0,123,0,0,886,1003,100.0,Tamil <kde-i18n-doc@kde.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Tamil
+four-in-a-row,427,0,0,106,0,0,377,427,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+fprintd,0,0,419,0,0,57,0,419,0.0,Tamil (http://www.transifex.com/freedesktop/fprintd/language/ta/)
+fragments,326,0,1680,125,0,401,374,2006,16.25124626121635,Tamil (https://www.transifex.com/transmissionbt/teams/33778/ta/)
+fuse-encfs,13,0,1276,3,0,134,9,1289,1.008533747090768,Tamil <ta@li.org>
+gala,2,0,356,2,0,71,2,358,0.5586592178770949,Tamil <https://l10n.elementary.io/projects/desktop/gala/ta/>
+gbrainy,1302,0,6737,519,0,518,1191,8039,16.19604428411494,Tamil <ta@li.org>
+gconf-editor,336,0,0,98,0,0,318,336,100.0,Tamil <fedora-trans-ta@redhat.com>
+gcr,678,0,0,242,0,0,630,678,100.0,American English <kde-i18n-doc@kde.org>
+gdk-pixbuf2,1288,60,0,197,5,0,1079,1348,95.54896142433235,Tamil <fedora-trans-ta@redhat.com>
+gdm,619,15,16,81,3,3,488,650,95.23076923076923,American English <>
+gedit,4084,0,0,684,0,0,3444,4084,100.0,Tamil <kde-i18n-doc@kde.org>
+gedit-plugins,939,149,117,399,47,23,943,1205,77.92531120331951,American English <Ubuntu-l10n-tam@lists.ubuntu.com>>
+gettext,438,0,0,88,0,0,348,438,100.0,Tamil <tamil@systemreboot.net>
+gftp,2544,473,358,478,121,35,1986,3375,75.37777777777778,Tamil <en@li.org>
+ggz-base-libs,74,0,0,17,0,0,62,74,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+gimp,16353,1143,235,3892,223,93,15388,17731,92.22830071625965,American English <kde-i18n-doc@kde.org>
+glade,17,190,2742,11,92,689,16,2949,0.5764665988470667,Tamil <tamilinix@yahoogroups.com>
+glib-networking,86,0,0,16,0,0,81,86,100.0,Tamil <ta@li.org>
+glib2,5703,0,0,905,0,0,4992,5703,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-abrt,96,4,121,22,2,31,86,221,43.43891402714932,Tamil (http://www.transifex.com/projects/p/gnome-abrt/language/ta/)
+gnome-applets,3407,0,0,796,0,0,2964,3407,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-bluetooth,309,0,0,102,0,0,276,309,100.0,American English <kde-i18n-doc@kde.org>
+gnome-books,460,0,0,151,0,0,429,460,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-boxes,950,0,0,208,0,0,891,950,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-calculator,1337,0,0,428,0,0,1281,1337,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-calendar,234,114,389,118,18,76,224,737,31.75033921302578,Tamil <ta@li.org>
+gnome-characters,149,0,37,54,0,3,138,186,80.10752688172043,Tamil <>
+gnome-chess,1204,0,0,190,0,0,1210,1204,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gnome-clocks,223,0,0,77,0,0,229,223,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-color-manager,1792,0,0,342,0,0,1458,1792,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-contacts,405,0,0,155,0,0,406,405,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-control-center,6259,0,0,2210,0,0,5901,6259,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-desktop,349,0,0,53,0,0,263,349,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-desktop3,146,0,0,23,0,0,138,146,100.0,American English <>
+gnome-dictionary,841,0,0,180,0,0,681,841,100.0,American English <kde-i18n-doc@kde.org>
+gnome-disk-utility,3423,0,0,632,0,0,2869,3423,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-do,399,0,213,118,0,26,343,612,65.19607843137256,Tamil <ta@li.org>
+gnome-doc-utils,251,0,0,101,0,0,251,251,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-extensions-app,1485,0,0,374,0,0,1253,1485,100.0,American English <kde-i18n-doc@kde.org>
+gnome-font-viewer,109,0,0,26,0,0,95,109,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-gmail,36,17,134,12,3,16,31,187,19.25133689839572,LANGUAGE <LL@li.org>
+gnome-icon-theme,51,0,0,46,0,0,52,51,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+gnome-initial-setup,585,0,0,103,0,0,494,585,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-keyring,553,0,0,112,0,0,481,553,100.0,American English <kde-i18n-doc@kde.org>
+gnome-klotski,120,0,0,57,0,0,120,120,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gnome-logs,115,0,0,37,0,0,113,115,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-mahjongg,170,0,0,53,0,0,163,170,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gnome-maps,104,0,79,29,0,3,86,183,56.830601092896174,தமிழ் <>
+gnome-menus,70,0,0,27,0,0,64,70,100.0,Tamil <>
+gnome-mime-data,887,0,0,362,0,0,926,887,100.0,Tamil <zhakanini@yahoogroups.com>
+gnome-mines,261,0,0,63,0,0,234,261,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gnome-music,171,0,194,52,0,1,143,365,46.849315068493155,தமிழ் <>
+gnome-nettool,664,0,0,219,0,0,608,664,100.0,Tamil <<gnome-tamil-translation@googlegroups.com>>
+gnome-nibbles,526,0,0,130,0,0,462,526,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gnome-online-accounts,692,0,0,147,0,0,626,692,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-packagekit,4390,0,0,681,0,0,3293,4390,100.0,American English <kde-i18n-doc@kde.org>
+gnome-panel,3520,0,0,508,0,0,2536,3520,100.0,American English <kde-i18n-doc@kde.org>
+gnome-robots,823,0,0,163,0,0,675,823,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gnome-screenshot,354,0,0,75,0,0,306,354,100.0,American English <kde-i18n-doc@kde.org>
+gnome-search-tool,1359,0,0,200,0,0,1046,1359,100.0,American English <kde-i18n-doc@kde.org>
+gnome-session,323,0,0,59,0,0,293,323,100.0,American English <>
+gnome-settings-daemon,2607,0,0,429,0,0,2102,2607,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-shell,1485,0,0,374,0,0,1253,1485,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell-extension-disconnect-wifi,2,0,0,2,0,0,3,2,100.0,
+gnome-shell-extension-sound-output-device-chooser,119,0,6,34,0,1,105,125,95.19999999999999,Gopi Sankar Karmegam <kgshank@users.noreply.github.com>
+gnome-shell-extensions,358,0,0,68,0,0,315,358,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-shell-frippery,17,0,0,5,0,0,15,17,100.0,
+gnome-sudoku,469,0,0,111,0,0,454,469,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gnome-system-log,420,0,0,66,0,0,306,420,100.0,American English <>
+gnome-system-monitor,1289,0,0,292,0,0,1142,1289,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-terminal,2209,0,0,442,0,0,1883,2209,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-tetravex,117,0,0,40,0,0,105,117,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gnome-themes-extra,24,0,0,9,0,0,23,24,100.0,Tamil <ta@li.org>
+gnome-user-docs,50123,5971,1791,2795,275,80,38336,57885,86.59065388269845,Tamil <kde-i18n-doc@kde.org>
+gnome-user-share,160,0,0,29,0,0,139,160,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-vfs2,1508,0,0,301,0,0,1164,1508,100.0,Tamil <ta@li.org>
+gnome-video-effects,256,0,0,68,0,0,204,256,100.0,American English <kde-i18n-doc@kde.org>
+gnome-weather,203,0,0,72,0,0,192,203,100.0,Ubuntu Tamil Team/Free Tamil Computing/Thamizha
+gnote,3592,0,0,543,0,0,3243,3592,100.0,Tamil <kde-i18n-doc@kde.org>
+gnucash,24074,6570,6022,3898,959,505,19326,36666,65.65755741013473,NONE
+gnusim8085,215,0,348,71,0,70,211,563,38.18827708703375,Kenneth Gonsalves <lawgon@thenilgiris.com>
+godot,55,237,12924,10,94,2806,47,13216,0.41616222760290555,Tamil <https://hosted.weblate.org/projects/godot-engine/godot/ta/>
+goffice,37,12,6152,11,4,1986,21,6201,0.5966779551685213,Tamil <>
+gramps,1148,5965,32804,410,1865,4573,927,39917,2.8759676328381394,Tamil <ta@li.org>
+granite,31,17,450,18,6,94,31,498,6.2248995983935735,Tamil <https://l10n.elementary.io/projects/desktop/granite/ta/>
+grass,334,51,120854,151,23,18380,326,121239,0.2754889103341334,Tamil (https://www.transifex.com/grass-gis/teams/45198/ta/)
+grub-customizer,1,0,1294,1,0,192,1,1295,0.07722007722007722,Tamil <ta@li.org>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,56,80,100.0,Tamil <tamil@systemreboot.net>
+gtk-doc,3873,0,3360,230,0,99,2586,7233,53.546246370800496,ta_IN <kde-i18n-doc@kde.org>
+gtk2,13259,295,150,2717,49,18,10572,13704,96.75277291301809,Tamil <fedora-trans-ta@redhat.com>
+gtk2-engines,119,0,0,47,0,0,107,119,100.0,Tamil <fedora-trans-ta@redhat.com>
+gtk3,14576,0,0,3187,0,0,11583,14576,100.0,Tamil <kde-i18n-doc@kde.org>
+gtk4,14576,0,0,3187,0,0,11583,14576,100.0,Tamil <kde-i18n-doc@kde.org>
+gtkhtml3,488,0,0,310,0,0,556,488,100.0,Tamil <ubuntu-tam@lists.ubuntu.com>
+gtksourceview2,1413,0,0,538,0,0,1304,1413,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+gtksourceview3,127,82,113,40,21,45,117,322,39.44099378881988,American English <<gnome-tamil-translation@googlegroups.com>>
+gtksourceview4,1608,0,0,670,0,0,1511,1608,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+gtranslator,543,337,534,199,56,114,495,1414,38.401697312588404,Tamil <tamilinix@yahoogroups.com>
+gucharmap,1205,0,0,397,0,0,1112,1205,100.0,American English <kde-i18n-doc@kde.org>
+guestfs-tools,1349,0,14384,251,0,1498,1212,15733,8.574334201995805,Tamil (http://www.transifex.com/projects/p/libguestfs/language/ta/)
+gvfs,2704,0,0,596,0,0,2387,2704,100.0,American English <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+help2man,190,0,380,36,0,13,165,570,33.33333333333333,Tamil <tamil@systemreboot.net>
+iagno,53,100,169,20,32,20,59,322,16.459627329192546,American English <kde-i18n-doc@kde.org>
+ibus,911,60,1321,158,7,390,754,2292,39.74694589877836,Tamil <tamil-users@lists.fedoraproject.org>
+im-chooser,229,0,25,52,0,6,187,254,90.15748031496062,LANGUAGE <LL@li.org>
+imsettings,440,5,40,80,1,7,367,485,90.72164948453609,Tamil <>
+initial-setup,33,0,73,7,0,13,25,106,31.132075471698112,Tamil (http://www.transifex.com/projects/p/initial-setup/language/ta/)
+initscripts,738,79,301,110,14,34,650,1118,66.01073345259391,Tamil <tamil-users@lists.fedoraproject.org>
+inkscape,20218,11348,12039,4676,2940,1541,17540,43605,46.366242403394104,Tamil <kde-i18n-doc@kde.org>
+islamic-menus,5,0,0,2,0,0,5,5,100.0,Tamil <ta@li.org>
+iso-codes,10962,2872,1100,7793,1343,560,10669,14934,73.40297308155887,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+isomaster,29,1,644,23,1,83,35,674,4.302670623145401,http://littlesvr.ca/ostd/
+jmol,278,21,2867,198,12,811,289,3166,8.780795957043589,Tamil <ta@li.org>
+kate,1919,170,342,386,42,87,1506,2431,78.93870835047305,Tamil <kde-i18n-doc@kde.org>
+katomic,27,23,134,13,10,36,29,184,14.673913043478262,KDE <kde-i18n-doc@kde.org>
+kaudiocreator,685,100,351,171,42,60,561,1136,60.29929577464789,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+kblackbox,22,59,1283,8,15,79,19,1364,1.6129032258064515,KDE <kde-i18n-doc@kde.org>
+kbounce,40,49,64,10,12,20,31,153,26.143790849673206,KDE <kde-i18n-doc@kde.org>
+kcoloredit,11,95,172,7,32,56,13,278,3.9568345323741005,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+kde-cli-tools,1148,587,400,123,43,55,886,2135,53.77049180327869,en_US <kde-i18n-doc@lists.kde.org>
+kdeplasma-addons,275,4,32,97,2,5,219,311,88.42443729903538,Tamil <kde-i18n-doc@kde.org>
+kdevelop,130,148,418,33,39,90,133,696,18.67816091954023,<ta@li.org>
+kdialog,159,104,119,38,16,21,130,382,41.62303664921466,Tamil <kde-i18n-doc@kde.org>
+kdiff3,1210,1006,1184,265,167,159,988,3400,35.588235294117645,<ta@li.org>
+kdump-anaconda-addon,142,11,13,16,3,5,105,166,85.54216867469879,Tamil <>
+keditbookmarks,297,163,6,91,40,1,244,466,63.73390557939914,Tamil <ubuntu-l10n-tam@lists.ubuntu.com>
+kexi,550,3506,3284,158,893,429,471,7340,7.493188010899182,<ta@li.org>
+kf5-baloo,15,2,0,7,1,0,16,17,88.23529411764706,Tamil <kde-i18n-doc@kde.org>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kbookmarks,0,203,27,0,46,3,0,230,0.0,American English <kde-i18n-doc@kde.org>
+kf5-kcmutils,182,65,0,21,6,0,123,247,73.68421052631578,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kconfig,287,0,0,104,0,0,261,287,100.0,Tamil <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,340,0,0,125,0,0,287,340,100.0,Tamil <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,430,4,97,157,1,31,381,531,80.97928436911488,Tamil <kde-i18n-doc@kde.org>
+kf5-kdeclarative,62,59,30,9,7,6,45,151,41.05960264900662,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kdelibs4support,2051,970,2332,1290,588,666,2116,5353,38.31496357182888,Tamil <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,தமிழ் <ubuntu-l10n-tam@lists.ubuntu.com>
+kf5-kglobalaccel,71,0,0,9,0,0,57,71,100.0,Tamil <kde-i18n-doc@kde.org>
+kf5-kholidays,23,16,100,22,7,61,22,139,16.546762589928058,Tamil <kde-i18n-doc@kde.org>
+kf5-khtml,1505,128,88,287,14,9,1107,1721,87.44915746658918,Tamil <kde-i18n-doc@kde.org>
+kf5-ki18n,54,68,2,54,54,2,54,124,43.54838709677419,Tamil <kde-i18n-doc@kde.org>
+kf5-kiconthemes,11,15,13,10,4,4,12,39,28.205128205128204,American English <kde-i18n-doc@kde.org>
+kf5-kinit,90,26,0,8,3,0,56,116,77.58620689655173,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kio,11868,13,4,1352,4,1,8512,11885,99.85696255784603,Tamil <kde-i18n-doc@kde.org>
+kf5-kirigami2,90,0,4,38,0,2,83,94,95.74468085106383,Tamil <kde-i18n-doc@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kjobwidgets,0,133,0,0,38,0,0,133,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kjsembed,248,0,0,44,0,0,205,248,100.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-knewstuff,332,226,1103,72,86,73,269,1661,19.98795906080674,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-knotifications,21,0,0,8,0,0,19,21,100.0,Tamil <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,86,43,0,16,1,0,64,129,66.66666666666666,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kparts,104,28,0,26,3,0,76,132,78.78787878787878,Tamil <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,14,15,100.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kross,82,18,0,29,6,0,73,100,82.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kservice,92,53,28,13,11,4,68,173,53.179190751445084,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-ktexteditor,1805,2238,4635,364,415,421,1480,8678,20.799723438580315,Tamil <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,467,6,0,128,2,0,378,473,98.73150105708245,Tamil <kde-i18n-doc@kde.org>
+kf5-kunitconversion,108,16,5611,41,8,2424,108,5735,1.883173496076722,Tamil <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,568,677,49,199,251,15,498,1294,43.89489953632149,Tamil <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-kxmlgui,1556,7,0,226,1,0,1146,1563,99.55214331413947,Tamil <kde-i18n-doc@kde.org>
+kf5-plasma,246,0,146,99,0,23,227,392,62.755102040816325,Tamil <kde-i18n-doc@kde.org>
+kf5-purpose,41,0,2,11,0,1,36,43,95.34883720930233,Tamil <kde-i18n-doc@kde.org>
+kf5-solid,31,4,528,16,2,138,31,563,5.506216696269982,Tamil <kde-i18n-doc@kde.org>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Tamil <podhu@madaladal.yavarkkum.org>
+kf5-syntax-highlighting,0,254,358,0,185,177,0,612,0.0,Tamil <kde-i18n-doc@kde.org>
+kfind,243,208,51,56,34,25,183,502,48.40637450199203,<ta@li.org>
+kfourinline,110,124,158,52,45,60,116,392,28.061224489795915,English <en@li.org>
+kgamma,126,4,0,15,1,0,86,130,96.92307692307692,<tamilpc@ambalam.com>
+kgoldrunner,1177,1964,20413,263,202,443,963,23554,4.997028105629616,English <en@li.org>
+khelpcenter,173,42,50,61,18,11,159,265,65.28301886792453,Tamil <kde-i18n-doc@kde.org>
+khotkeys,97,108,246,32,65,39,76,451,21.507760532150776,<ta@li.org>
+kiconedit,724,0,2,154,0,1,583,726,99.72451790633609,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+kinfocenter,39,86,112,23,36,47,58,237,16.455696202531644,தமிழ் <tamilinix@yahoogroups.com>
+kio-gdrive,63,0,0,15,0,0,50,63,100.0,Tamil <kde-i18n-doc@kde.org>
+kio_gopher,16,1,0,4,1,0,15,17,94.11764705882352,Tamil <ta@i18n.kde.org>
+kjots,57,195,399,15,42,77,51,651,8.755760368663594,<de@li.org>
+kjumpingcube,86,48,278,23,12,60,66,412,20.87378640776699,KDE <kde-i18n-doc@kde.org>
+klines,35,11,53,8,6,14,29,99,35.35353535353536,English <en@li.org>
+kmahjongg,182,75,98,49,19,33,151,355,51.267605633802816,KDE <kde-i18n-doc@kde.org>
+kmenuedit,186,0,91,57,0,6,165,277,67.14801444043322,Tamil <kde-i18n-doc@kde.org>
+kmines,37,22,97,14,7,24,26,156,23.717948717948715,English <en@li.org>
+knavalbattle,31,121,247,15,32,55,30,399,7.769423558897243,English <en@li.org>
+koffice-kivio,5396,766,2255,1658,385,318,4791,8417,64.10835214446952,Tamil <ta@li.org>
+kolf,315,47,39,113,14,21,267,401,78.55361596009975,English <en@li.org>
+konqueror,4132,1607,1170,609,156,151,3124,6909,59.80605007960631,KDE <kde-i18n-doc@kde.org>
+konquest,100,83,62,29,34,35,84,245,40.816326530612244,English <en@li.org>
+konsole5,513,1269,1634,112,338,258,393,3416,15.017564402810304,Tamil <kde-i18n-doc@kde.org>
+kpat,37,108,401,16,50,115,37,546,6.7765567765567765,<ta@li.org>
+kpilot,2420,2182,2554,471,222,168,1899,7156,33.81777529346003,<ta@li.org>
+kreport,0,286,125,0,152,20,0,411,0.0,<ta@li.org>
+kreversi,32,58,339,12,21,108,26,429,7.459207459207459,<ta@li.org>
+krita,338,10184,17350,179,4542,2084,340,27872,1.212686567164179,<ta@li.org>
+kscreenlocker,34,0,4,14,0,2,38,38,89.47368421052632,Tamil <kde-i18n-doc@kde.org>
+kshisen,29,57,481,20,11,39,28,567,5.114638447971781,English <en@li.org>
+ksig,71,2,12,17,1,8,61,85,83.52941176470588,KDE <kde-i18n-doc@kde.org>
+kspaceduel,136,14,15,64,10,7,150,165,82.42424242424242,KDE <kde-i18n-doc@kde.org>
+kstars,4842,18873,38627,1308,7670,7793,4039,62342,7.766834557762023,<ta@li.org>
+ksysguard,595,282,216,132,56,49,424,1093,54.43732845379689,Tamil <kde-i18n-doc@kde.org>
+ktuberling,44,63,51,17,5,16,39,158,27.848101265822784,English <en@li.org>
+kwin,2820,916,1908,739,115,320,2385,5644,49.96456413890857,Tamil <kde-i18n-doc@kde.org>
+l3afpad,102,0,28,56,0,8,110,130,78.46153846153847,Tamil <tamilinix@yahoogroups.com>
+leafpad,92,10,23,49,6,13,98,125,73.6,Tamil <tamilinix@yahoogroups.com>
+libbonobo,543,0,0,107,0,0,478,543,100.0,Tamil <fedora-trans-ta@redhat.com>
+libbonoboui,368,0,0,115,0,0,305,368,100.0,Tamil <fedora-trans-ta@redhat.com>
+libcryptui,3011,0,0,653,0,0,2634,3011,100.0,American English <kde-i18n-doc@kde.org>
+libdnf,2,0,1439,1,0,223,2,1441,0.13879250520471895,Tamil
+libgdata,597,0,0,74,0,0,446,597,100.0,Tamil <ta@li.org>
+libgnome,1772,0,0,273,0,0,1352,1772,100.0,Tamil <fedora-trans-ta@redhat.com>
+libgnome-games-support,43,0,0,14,0,0,38,43,100.0,
+libgnome-keyring,44,0,0,9,0,0,43,44,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+libgnomecanvas,378,0,0,95,0,0,301,378,100.0,தமிழ் <ubuntu-l10n-tam@lists.ubuntu.com>
+libgnomekbd,242,0,0,55,0,0,208,242,100.0,American English <kde-i18n-doc@kde.org>
+libgnomeui,1226,0,0,320,0,0,982,1226,100.0,Tamil <fedora-trans-ta@redhat.com>
+libgsf,243,0,0,34,0,0,195,243,100.0,Tamil <>
+libgtop2,126,0,0,40,0,0,113,126,100.0,<en@li.org>
+libguestfs,1349,0,14384,251,0,1498,1212,15733,8.574334201995805,Tamil (http://www.transifex.com/projects/p/libguestfs/language/ta/)
+libgweather,6171,0,0,4576,0,0,6190,6171,100.0,American English <kde-i18n-doc@kde.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,Tamil
+libkdegames,160,61,149,68,25,39,161,370,43.24324324324324,English <en@li.org>
+libksysguard,680,774,1986,76,81,179,536,3440,19.767441860465116,en_US <ubuntu-l10n-tam@lists.ubuntu.com>
+libmatekbd,186,0,122,46,0,45,162,308,60.3896103896104,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+libmatemixer,12,0,230,11,0,115,13,242,4.958677685950414,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+libmateweather,5998,0,145,4531,0,44,6060,6143,97.63958977698192,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+libmypaint,3,2,2298,3,1,158,3,2303,0.13026487190620928,Tamil <https://hosted.weblate.org/projects/mypaint/libmypaint/ta/>
+libmypaint2,3,2,2306,3,1,158,3,2311,0.1298139333621809,Tamil <https://hosted.weblate.org/projects/mypaint/libmypaint/ta/>
+libnma,227,405,285,71,75,49,217,917,24.7546346782988,American English <kde-i18n-doc@kde.org>
+libpeas,110,0,0,31,0,0,102,110,100.0,Tamil <kde-i18n-doc@kde.org>
+libpwquality,333,0,12,50,0,1,277,345,96.52173913043478,Tamil (http://www.transifex.com/projects/p/libpwquality/language/ta/)
+libreport,2549,39,2340,393,4,206,2210,4928,51.72483766233766,Tamil (http://www.transifex.com/projects/p/libreport/language/ta/)
+libsoup,110,0,0,25,0,0,105,110,100.0,Tamil <kde-i18n-doc@kde.org>
+libzypp,1134,431,1149,743,84,160,1073,2714,41.783345615327924,AgreeYa Solutions <www.agreeya.com>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Tamil (http://www.transifex.com/the_cavalry/light-locker/language/ta/)
+lightdm,42,0,121,15,0,6,31,163,25.766871165644172,Tamil <ta@li.org>
+lightdm-gtk,28,0,61,10,0,15,21,89,31.46067415730337,Tamil <ta@li.org>
+lightdm-settings,8,0,313,6,0,59,8,321,2.4922118380062304,Tamil <ta@li.org>
+lightsoff,39,0,0,12,0,0,46,39,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+lskat,100,79,75,25,27,31,85,254,39.37007874015748,Tamil <en@li.org>
+lxmenu-data,97,0,0,37,0,0,91,97,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+manafirewall,12,0,1085,12,0,121,13,1097,1.0938924339106655,Tamil (https://www.transifex.com/MageiaLinux/teams/9361/ta/)
+marco,3156,0,1147,367,0,63,2398,4303,73.34417848013014,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-applets,1908,0,14012,469,0,1169,1727,15920,11.984924623115578,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-backgrounds,26,0,29,18,0,11,25,55,47.27272727272727,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-calc,1278,0,2045,464,0,285,1256,3323,38.45922359313873,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-control-center,2544,0,5704,999,0,512,2378,8248,30.84384093113482,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-desktop,1136,0,1240,179,0,122,866,2376,47.81144781144781,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-media,120,0,119,53,0,46,127,239,50.2092050209205,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-menu,64,0,244,35,0,75,63,308,20.77922077922078,Tamil (http://www.transifex.com/mate/MATE/language/ta/)
+mate-menus,98,0,5,38,0,1,93,103,95.14563106796116,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-notification-daemon,8,0,178,7,0,46,19,186,4.301075268817205,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-panel,3862,0,2858,540,0,274,2760,6720,57.47023809523809,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-polkit,97,0,26,17,0,4,101,123,78.86178861788618,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-power-manager,1401,0,3718,290,0,261,1238,5119,27.368626684899393,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-screensaver,868,12,221,147,2,27,677,1101,78.83742052679382,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-sensors-applet,5,2,2153,5,2,219,14,2160,0.23148148148148145,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-session-manager,464,0,251,108,0,24,392,715,64.8951048951049,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-settings-daemon,1469,0,737,230,0,89,1139,2206,66.59111514052583,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-system-monitor,520,0,4327,200,0,448,496,4847,10.728285537445844,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-terminal,3979,0,4407,497,0,306,2952,8386,47.44812783210112,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-themes,9,0,65,3,0,20,11,74,12.162162162162163,Tamil (http://www.transifex.com/mate/MATE/language/ta/)
+mate-user-admin,19,0,609,15,0,116,21,628,3.0254777070063694,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-user-guide,142,0,42827,85,0,3143,150,42969,0.3304708045335009,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mate-utils,3297,0,6763,663,0,463,2667,10060,32.77335984095428,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mc,36,0,4253,24,0,1249,38,4289,0.8393564933550944,Tamil (http://www.transifex.com/mc/mc/language/ta/)
+metacity,2040,0,0,310,0,0,1637,2040,100.0,American English <kde-i18n-doc@kde.org>
+midori,66,0,3475,26,0,770,71,3541,1.863880259813612,Tamil <ta@li.org>
+mingw-GConf2,4088,0,0,497,0,0,3251,4088,100.0,Tamil <fedora-trans-ta@redhat.com>
+mingw-atk,398,0,0,139,0,0,326,398,100.0,Tamil <fedora-trans-ta@redhat.com>
+mingw-colord,25,0,363,8,0,91,22,388,6.443298969072164,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,1288,60,0,197,5,0,1079,1348,95.54896142433235,Tamil <fedora-trans-ta@redhat.com>
+mingw-gettext,438,0,0,88,0,0,348,438,100.0,Tamil <tamil@systemreboot.net>
+mingw-glib-networking,86,0,0,16,0,0,81,86,100.0,Tamil <ta@li.org>
+mingw-glib2,5703,0,0,905,0,0,4992,5703,100.0,Tamil <kde-i18n-doc@kde.org>
+mingw-gtk2,13259,295,150,2717,49,18,10572,13704,96.75277291301809,Tamil <fedora-trans-ta@redhat.com>
+mingw-gtk3,14576,0,0,3187,0,0,11583,14576,100.0,Tamil <kde-i18n-doc@kde.org>
+mingw-gtksourceview3,127,82,113,40,21,45,117,322,39.44099378881988,American English <<gnome-tamil-translation@googlegroups.com>>
+mingw-libgsf,243,0,0,34,0,0,195,243,100.0,Tamil <>
+mingw-libsoup,110,0,0,25,0,0,105,110,100.0,Tamil <kde-i18n-doc@kde.org>
+mingw-libvirt,35848,20794,10518,5858,3240,1251,32838,67160,53.377010125074456,Tamil (http://www.transifex.com/projects/p/libvirt/language/ta/)
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Tamil (http://www.transifex.com/projects/p/libvirt-glib/language/ta/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Tamil (http://www.transifex.com/freedesktop/p11-kit/language/ta/)
+mingw-postgresql,286,0,0,43,0,0,264,286,100.0,தமிழ் <ubuntu-l10n-tam@lists.ubuntu.com>
+mingw-wxWidgets3,7587,50,58,1773,37,43,6848,7695,98.59649122807016,DINAKAR T.D. <td.dinkar@gmail.com>
+mlocate,156,175,250,4,1,46,156,581,26.850258175559382,Tamil <tamil-users@lists.fedoraproject.org>
+mousetweaks,114,0,0,30,0,0,112,114,100.0,American English <kde-i18n-doc@kde.org>
+mozo,43,0,3,21,0,3,51,46,93.47826086956522,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+mpop,487,20,1448,107,2,248,429,1955,24.910485933503836,Tamil <tamil@systemreboot.net>
+msmtp,407,53,1369,94,4,229,374,1829,22.252597047566976,Tamil <tamil@systemreboot.net>
+muffin,2043,0,0,281,0,0,1611,2043,100.0,American English <kde-i18n-doc@kde.org>
+multimedia-menus,56,0,0,22,0,0,58,56,100.0,Tamil <fedora-trans-ta@redhat.com>
+mutter,1829,0,0,237,0,0,1425,1829,100.0,American English <kde-i18n-doc@kde.org>
+mutter3.38,1829,0,0,237,0,0,1425,1829,100.0,American English <kde-i18n-doc@kde.org>
+mypaint,21,20,6340,18,12,1240,20,6381,0.32910202162670427,Tamil <https://hosted.weblate.org/projects/mypaint/mypaint/ta/>
+nautilus,6114,0,0,1030,0,0,5024,6114,100.0,American English <kde-i18n-doc@kde.org>
+nemo-extensions,251,0,7,48,0,1,206,258,97.28682170542635,Tamil <ta@li.org>
+neochat,792,0,51,255,0,13,705,843,93.95017793594306,Tamil <kde-i18n-doc@kde.org>
+network-manager-applet,970,1352,1983,289,277,292,890,4305,22.531939605110338,American English <kde-i18n-doc@kde.org>
+newt,4,0,0,4,0,0,5,4,100.0,Tamil <tamil-DI@yahoogroups.com>
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Tamil <ta@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,8,0,13,4,0,8,7,21,38.095238095238095,KDE <kde-i18n-doc@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,109,158,100.0,LANGUAGE <LL@li.org>
+onboard,22,0,2296,17,0,493,24,2318,0.9490940465918896,Tamil <ta@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,3897,0,0,1201,0,0,3642,3897,100.0,Tamil <<gnome-tamil-translation@googlegroups.com>>
+p11-kit,0,0,476,0,0,81,0,476,0.0,Tamil (http://www.transifex.com/freedesktop/p11-kit/language/ta/)
+pam,352,159,14,75,22,2,292,525,67.04761904761905,Tamil <https://translate.fedoraproject.org/projects/linux-pam/master/ta/>
+pantheon-agent-geoclue2,23,7,71,8,2,8,23,101,22.772277227722775,Tamil <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/ta/>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+paprefs,131,0,0,23,0,0,129,131,100.0,Tamil <fedora-trans-ta@redhat.com>
+passwd,267,0,69,49,0,8,246,336,79.46428571428571,Tamil <tamil-users@lists.fedoraproject.org>
+pavucontrol,219,1,17,85,1,1,218,237,92.40506329113924,Tamil <fedora-trans-ta@redhat.com>
+pdfmod,202,0,0,51,0,0,210,202,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+php-phpmyadmin-sql-parser5,5,80,183,2,18,30,4,268,1.8656716417910446,Tamil <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ta/>
+picard,263,0,1418,192,0,476,261,1681,15.645449137418204,LANGUAGE <LL@li.org>
+pidgin,14172,0,1663,3081,0,376,12328,15835,89.4979475844648,Tamil (http://www.transifex.com/pidgin/pidgin/language/ta/)
+pidgin-birthday-reminder,54,0,235,29,0,37,53,289,18.685121107266436,Tamil (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/ta/)
+pidgin-sipe,133,0,986,56,0,217,120,1119,11.885612153708669,Tamil (http://www.transifex.com/stefanb/pidgin-sipe/language/ta/)
+pipewire,104,281,262,45,31,32,105,647,16.0741885625966,Tamil <fedora-trans-ta@redhat.com>
+plank,32,0,157,19,0,31,54,189,16.93121693121693,Tamil <ta@li.org>
+plasma-browser-integration,151,0,550,30,0,54,112,701,21.540656205420827,Tamil <kde-i18n-doc@kde.org>
+plasma-desktop,6692,744,621,1419,24,128,5332,8057,83.05821025195482,Tamil <kde-i18n-doc@kde.org>
+plasma-discover,616,4,141,187,1,20,505,761,80.946123521682,Tamil <kde-i18n-doc@kde.org>
+plasma-drkonqi,8,101,3943,3,23,325,14,4052,0.19743336623889435,en_US <kde-i18n-doc@lists.kde.org>
+plasma-integration,58,0,0,21,0,0,57,58,100.0,Tamil <kde-i18n-doc@kde.org>
+plasma-nm,637,16,1746,277,2,359,614,2399,26.552730304293455,Tamil <kde-i18n-doc@kde.org>
+plasma-oxygen,4,38,576,1,9,209,4,618,0.6472491909385114,KDE <kde-i18n-doc@kde.org>
+plasma-pa,229,0,6,81,0,3,223,235,97.44680851063829,Tamil <kde-i18n-doc@kde.org>
+plasma-sdk,56,19,288,18,7,53,51,363,15.426997245179063,தமிழ் <https://lists.ubuntu.com/mailman/listinfo/ubuntu-l10n-tam>
+plasma-systemmonitor,249,0,78,100,0,18,235,327,76.14678899082568,Tamil <kde-i18n-doc@kde.org>
+plasma-systemsettings,208,0,10,52,0,4,187,218,95.41284403669725,Tamil <kde-i18n-doc@kde.org>
+plasma-workspace,6574,281,1891,1649,59,417,5558,8746,75.16579007546306,Tamil <kde-i18n-doc@kde.org>
+pluma,4504,0,8609,1088,0,1002,3973,13113,34.347593990696254,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+pluma-plugins,188,0,1210,20,0,123,125,1398,13.447782546494993,Tamil (https://www.transifex.com/mate/teams/13566/ta/)
+policycoreutils,9486,558,2127,1406,111,259,7951,12171,77.93936406211486,Tamil
+polkit-gnome,94,0,0,16,0,0,94,94,100.0,Tamil <gnome-tamil-translation@googlegroups.com>
+powerdevil,285,0,52,69,0,13,233,337,84.56973293768546,Tamil <kde-i18n-doc@kde.org>
+publican,1750,66,3627,123,2,491,1443,5443,32.15138710270072,American English <kde-i18n-doc@kde.org>
+pulseaudio,2011,951,342,407,43,46,1835,3304,60.865617433414045,Tamil <fedora-trans-ta@redhat.com>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,128,43,1526,13,1,169,93,1697,7.542722451384797,Tamil (http://www.transifex.com/projects/p/pykickstart/language/ta/)
+python-blivet,290,0,268,43,0,33,254,558,51.971326164874554,Tamil (http://www.transifex.com/projects/p/blivet/language/ta/)
+python-django,709,0,2821,270,0,545,607,3530,20.08498583569405,Tamil (http://www.transifex.com/django/django/language/ta/)
+python-django-contrib-comments,63,0,181,14,0,46,51,244,25.81967213114754,Tamil (http://www.transifex.com/django/django-contrib-comments/language/ta/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Tamil
+python-meh,1,0,108,1,0,22,2,109,0.9174311926605505,Tamil (http://www.transifex.com/projects/p/python-meh/language/ta/)
+python-sphinx,3,0,4578,2,0,706,5,4581,0.06548788474132286,Tamil (http://www.transifex.com/sphinx-doc/sphinx-1/language/ta/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Tamil (https://www.transifex.com/sphinx-doc/teams/36659/ta/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Tamil (https://www.transifex.com/sphinx-doc/teams/36659/ta/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Tamil (https://www.transifex.com/sphinx-doc/teams/36659/ta/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Tamil (https://www.transifex.com/sphinx-doc/teams/36659/ta/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Tamil (https://www.transifex.com/sphinx-doc/teams/36659/ta/)
+python-wxpython4,7587,50,58,1773,37,43,6848,7695,98.59649122807016,DINAKAR T.D. <td.dinkar@gmail.com>
+quadrapassel,325,0,0,79,0,0,242,325,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+realmd,0,0,789,0,0,127,0,789,0.0,Tamil (http://www.transifex.com/freedesktop/realmd/language/ta/)
+redhat-menus,261,0,0,86,0,0,250,261,100.0,Tamil <fedora-trans-ta@redhat.com>
+rednotebook,1125,0,22,236,0,4,1000,1147,98.0819529206626,Tamil <ta@li.org>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Tamil
+rhythmbox,4545,0,0,1070,0,0,4013,4545,100.0,Tamil <fedora-trans-ta@redhat.com>
+rpm-ostree,2,0,1439,1,0,223,2,1441,0.13879250520471895,Tamil
+rygel,669,0,0,142,0,0,622,669,100.0,Tamil <<gnome-tamil-translation@googlegroups.com>>
+seahorse,2424,0,0,566,0,0,2167,2424,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+seahorse-caja,421,0,0,110,0,0,415,421,100.0,Tamil <ubuntu-tam@lists.ubuntu.com>
+seahorse-nautilus,421,0,0,110,0,0,415,421,100.0,Tamil <ubuntu-tam@lists.ubuntu.com>
+setroubleshoot,527,0,108,149,0,18,461,635,82.99212598425197,Tamil (http://www.transifex.com/projects/p/fedora/language/ta/)
+setroubleshoot-plugins,2331,0,3915,119,0,107,1802,6246,37.319884726224785,Tamil (http://www.transifex.com/projects/p/fedora/language/ta/)
+setuptool,55,0,0,14,0,0,51,55,100.0,Tamil <fedora-trans-ta@redhat.com>
+shared-mime-info,0,0,2058,0,0,795,0,2058,0.0,Tamil (http://www.transifex.com/freedesktop/shared-mime-info/language/ta/)
+shotwell,4573,0,0,948,0,0,4254,4573,100.0,"American English <kde-i18n-doc@kde.org>
+ta/)"
+shutter,725,0,2368,187,0,419,684,3093,23.440025864856125,Tamil <ta@li.org>
+simple-scan,31,0,558,18,0,127,48,589,5.263157894736842,Tamil <ta@li.org>
+slick-greeter,145,0,66,23,0,24,106,211,68.72037914691943,Tamil <ta@li.org>
+snapper,3,381,711,3,93,156,3,1095,0.273972602739726,Tamil <i18n@suse.de>
+sos,54,33,35,11,7,12,54,122,44.26229508196721,Tamil <kde-i18n-doc@kde.org>
+sound-juicer,986,0,0,187,0,0,841,986,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+stellarium,1586,0,143511,746,0,36236,1521,145097,1.0930618827405114,Tamil (https://www.transifex.com/stellarium/teams/80998/ta/)
+subscription-manager,3915,787,2106,742,125,310,3377,6808,57.50587544065805,American English <kde-i18n-doc@kde.org>
+sugar,1767,8,530,425,3,101,1447,2305,76.65943600867678,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,33,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,81,0,253,36,0,35,71,334,24.251497005988025,LANGUAGE <LL@li.org>
+sugar-calculator,472,68,326,116,9,44,405,866,54.50346420323326,LANGUAGE <LL@li.org>
+sugar-chat,56,3,78,34,1,46,54,137,40.87591240875913,LANGUAGE <LL@li.org>
+sugar-clock,29,9,28,14,3,4,30,66,43.93939393939394,LANGUAGE <LL@li.org>
+sugar-distance,95,0,4,25,0,1,79,99,95.95959595959596,LANGUAGE <LL@li.org>
+sugar-finance,48,86,124,22,2,39,43,258,18.6046511627907,LANGUAGE <LL@li.org>
+sugar-flipsticks,77,0,74,42,0,3,87,151,50.993377483443716,LANGUAGE <LL@li.org>
+sugar-fototoon,22,1,116,15,1,32,23,139,15.827338129496402,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,19,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,69,77,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,6,0,63,5,0,17,6,69,8.695652173913043,LANGUAGE <LL@li.org>
+sugar-log,77,0,21,19,0,2,50,98,78.57142857142857,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,2,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-measure,5,0,150,3,0,70,5,155,3.225806451612903,LANGUAGE <LL@li.org>
+sugar-memorize,68,8,66,51,7,16,71,142,47.88732394366197,LANGUAGE <LL@li.org>
+sugar-paint,60,0,46,46,0,15,67,106,56.60377358490566,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,30,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,99,0,183,27,0,41,70,282,35.1063829787234,LANGUAGE <LL@li.org>
+sugar-portfolio,29,0,44,13,0,12,27,73,39.726027397260275,LANGUAGE <LL@li.org>
+sugar-read,54,0,83,28,0,22,57,137,39.416058394160586,LANGUAGE <LL@li.org>
+sugar-record,20,0,42,12,0,12,20,62,32.25806451612903,LANGUAGE <LL@li.org>
+sugar-speak,134,0,93,64,0,10,135,227,59.03083700440529,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,7,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,6,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,57,109,0,14,156,213,73.23943661971832,LANGUAGE <LL@li.org>
+sugar-turtleart,1206,17,236,369,5,61,1023,1459,82.65935572309802,LANGUAGE <LL@li.org>
+sugar-typing-turtle,575,0,24,126,0,1,450,599,95.99332220367279,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,79,0,42,46,0,9,77,121,65.28925619834712,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,22,24,100.0,Tamil <ta@li.org>
+swell-foop,138,0,0,41,0,0,137,138,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+switchboard,7,0,117,5,0,21,7,124,5.64516129032258,Tamil <ta@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,43,77,263,14,21,50,37,383,11.22715404699739,Tamil <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/ta/>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,2,0,204,2,0,51,2,206,0.9708737864077669,Tamil <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/ta/>
+switchboard-plug-display,2,0,180,2,0,60,2,182,1.098901098901099,Tamil <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/ta/>
+switchboard-plug-keyboard,4,11,621,4,5,205,4,636,0.628930817610063,Tamil <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/ta/>
+switchboard-plug-mouse-touchpad,4,0,278,3,0,89,4,282,1.4184397163120568,Tamil <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/ta/>
+switchboard-plug-networking,1,0,521,1,0,144,1,522,0.19157088122605362,Tamil <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/ta/>
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,1,0,321,1,0,75,1,322,0.3105590062111801,Tamil <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/ta/>
+switchboard-plug-pantheon-shell,26,0,310,14,0,96,22,336,7.738095238095238,Tamil <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/ta/>
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,Tamil <ta@li.org>
+switchdesk,16,87,19,3,10,6,14,122,13.114754098360656,Tamil <fedora-trans-ta@redhat.com>
+system-config-language,61,119,35,14,10,7,53,215,28.37209302325581,Tamil <fedora-trans-ta@redhat.com>
+system-config-printer,3026,37,402,724,18,179,2633,3465,87.33044733044733,Tamil (http://www.transifex.com/projects/p/system-config-printer/language/ta/)
+system-config-rootpassword,116,0,0,19,0,0,87,116,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-switch-java,81,0,0,11,0,0,57,81,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Tamil <fedora-trans-ta@redhat.com>
+tali,595,1,0,130,1,0,493,596,99.83221476510067,American English <kde-i18n-doc@kde.org>
+taxi,30,0,32,8,0,7,24,62,48.38709677419355,LANGUAGE <LL@li.org>
+terminator,306,0,1144,117,0,310,270,1450,21.103448275862068,Tamil (https://www.transifex.com/terminator/teams/109338/ta/)
+tomboy,3278,0,0,471,0,0,2798,3278,100.0,American English <kde-i18n-doc@kde.org>
+totem,1446,0,0,384,0,0,1258,1446,100.0,Tamil <kde-i18n-doc@kde.org>
+totem-pl-parser,28,0,0,7,0,0,23,28,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+transmission,326,0,1672,125,0,398,374,1998,16.316316316316314,Tamil (https://www.transifex.com/transmissionbt/teams/33778/ta/)
+tuxpaint,841,704,203,210,67,41,614,1748,48.11212814645309,A. Ravishankar <ravishankar.ayyakkannu@gmail.com>
+tuxpaint-stamps,107,935,2207,51,354,400,99,3249,3.2933210218528775,ThamiZha! <mugunth@thamizha.com>
+tuxtype2,71,0,9,32,0,8,63,80,88.75,<en@li.org>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+volume_key,745,10,8,151,2,1,660,763,97.64089121887287,Tamil <tamil-users@lists.fedoraproject.org>
+vte,80,0,0,13,0,0,77,80,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+vte291,80,0,0,13,0,0,77,80,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+webkit2gtk3,1545,0,0,368,0,0,1333,1545,100.0,Tamil <kde-i18n-doc@kde.org>
+wine,228,7,18788,141,7,4074,258,19023,1.1985491247437312,Tamil
+wingpanel,0,0,19,0,0,4,0,19,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,6,3,406,2,1,112,5,415,1.4457831325301205,Tamil <ta@li.org>
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,131,0,0,41,0,131,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,101,0,0,30,0,101,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,LANGUAGE <LL@li.org>
+wxGTK,7059,257,192,1685,91,115,6379,7508,94.01971230687268,DINAKAR T.D. <td.dinkar@gmail.com>
+wxGTK3,7587,50,58,1773,37,43,6848,7695,98.59649122807016,DINAKAR T.D. <td.dinkar@gmail.com>
+xdg-desktop-portal-kde,135,0,3,37,0,2,116,138,97.82608695652173,Tamil <kde-i18n-doc@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Tamil <gnome-tamil-translation@googlegroups.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,65,81,100.0,ta_IN <kde-i18n-doc@kde.org>
+xed,2957,0,803,732,0,192,2553,3760,78.6436170212766,Tamil (http://www.transifex.com/projects/p/MATE/language/ta/)
+xpad,28,0,385,22,0,105,48,413,6.779661016949152,Tamil <ta@li.org>
+xreader,1241,0,379,305,0,74,1065,1620,76.60493827160494,Tamil (http://www.transifex.com/mate/MATE/language/ta/)
+yelp,452,0,0,104,0,0,353,452,100.0,American English <kde-i18n-doc@kde.org>
+yelp-xsl,81,0,0,59,0,0,79,81,100.0,Tamil <<gnome-tamil-translation@googlegroups.com>>
+zathura,130,0,617,41,0,123,136,747,17.402945113788487,Tamil (India) (http://www.transifex.com/pwmt/zathura/language/ta_IN/)
+zenity,775,0,0,178,0,0,644,775,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+zypper,59,3003,6181,37,405,807,56,9243,0.6383208914854485,AgreeYa Solutions<linux_team@agreeya.com>

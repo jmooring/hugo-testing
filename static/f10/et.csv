@@ -1,0 +1,339 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3220,0,16,1016,0,1,2714,3236,99.50556242274413,Django-i18n <django-i18n@googlegroups.com>
+GConf2,2615,0,1371,380,0,96,2229,3986,65.6046161565479,Estonian <gnome-et@linux.ee>
+LabPlot,0,1690,1560,0,891,458,0,3250,0.0,LANGUAGE <LL@li.org>
+Miro,969,0,1692,315,0,271,853,2661,36.41488162344983,Estonian <et@li.org>
+NetworkManager,1472,0,0,342,0,0,1230,1472,100.0,Estonian <gnome-et@linux.ee>
+NetworkManager-openconnect,52,0,0,18,0,0,42,52,100.0,Gnome Estonian Translation Team <gnome-et@linux.ee>
+NetworkManager-openvpn,175,0,0,52,0,0,135,175,100.0,Estonian <gnome-et@linux.ee>
+NetworkManager-pptp,115,0,0,42,0,0,102,115,100.0,Estonian <gnome-et@linux.ee>
+NetworkManager-vpnc,139,0,0,36,0,0,123,139,100.0,Estonian <gnome-et@linux.ee>
+Terminal,1450,0,0,252,0,0,1072,1450,100.0,Estonian <et@li.org>
+Thunar,3812,0,0,676,0,0,2816,3812,100.0,Estonian <xfce-18n@xfce.org>
+WindowMaker,4763,0,71,762,0,9,4010,4834,98.53123707074887,Estonian <et@li.org>
+alacarte,42,0,0,16,0,0,33,42,100.0,Estonian <gnome-et@linux.ee>
+amarok,9430,0,0,1889,0,0,7531,9430,100.0,Estonian <kde-et@linux.ee>
+anaconda,4830,3625,1961,739,382,184,3414,10416,46.37096774193548,Estonian <et@li.org>
+at-spi,4,0,0,2,0,0,4,4,100.0,Estonian <gnome-et@linux.ee>
+atk,370,0,0,123,0,0,260,370,100.0,Estonian <gnome-et@linux.ee>
+atomix,146,0,0,59,0,0,144,146,100.0,Estonian <gnome-et@linux.ee>
+audacious,1703,198,477,449,63,173,1528,2378,71.6148023549201,Estonian <et@li.org>
+audacious-plugins,1581,103,4888,329,15,548,1373,6572,24.056603773584907,Estonian <et@li.org>
+authconfig,853,178,320,179,22,42,679,1351,63.13841598815693,Estonian <Eesti>
+avant-window-navigator,173,0,420,65,0,75,154,593,29.17369308600337,Estonian <et@li.org>
+backintime,16,0,425,8,0,111,20,441,3.6281179138321997,Estonian <et@li.org>
+balsa,2376,971,2001,717,235,335,2133,5348,44.42782348541511,<gnome-et@linux.ee>
+bauble,21,0,2018,13,0,368,21,2039,1.0299166257969592,Estonian <et@li.org>
+bison,835,39,14,139,5,6,744,888,94.03153153153153,Estonian <et@li.org>
+bittorrent,363,0,3543,129,0,505,355,3906,9.293394777265746,LANGUAGE <LL@li.org>
+bmpx,2631,53,14,548,17,14,2258,2698,97.51667902149741,Estonian <et@li.org>
+brasero,5186,0,0,934,0,0,3990,5186,100.0,Estonian <gnome-et@linux.ee>
+bug-buddy,989,0,0,85,0,0,803,989,100.0,Estonian <gnome-et@linux.ee>
+cheese,503,0,24,95,0,4,437,527,95.44592030360532,Estonian <gnome-et@linux.ee>
+chkconfig,417,13,0,86,2,0,357,430,96.97674418604652,Estonian <et@li.org>
+choqok,796,38,32,194,6,5,673,866,91.91685912240185,Estonian <kde-et@linux.ee>
+compiz,0,3,36,0,2,12,0,39,0.0,Estonian <et@li.org>
+contacts,93,17,11,40,6,9,85,121,76.85950413223141,Estonian <et-gnome@linux.ee>
+control-center,2463,0,314,699,0,24,2042,2777,88.69283399351818,Estonian <gnome-et@linux.ee>
+cups,3170,0,1487,522,0,215,2907,4657,68.06957268627872,Estonian <et@li.org>
+dasher,460,0,0,181,0,0,404,460,100.0,Estonian <gnome-et@linux.ee>
+dates,45,0,43,28,0,10,41,88,51.13636363636363,Estonian <et-gnome@linux.ee>
+dc3dd,288,366,278,42,24,22,264,932,30.90128755364807,Estonian <et@li.org>
+deluge,786,0,1212,327,0,362,729,1998,39.33933933933934,Estonian <et@li.org>
+deskbar-applet,1520,0,0,332,0,0,1292,1520,100.0,Estonian <et-gnome@linux.ee>
+devhelp,364,0,0,94,0,0,298,364,100.0,Estonian <gnome-et@linux.ee>
+dialog,9,2,14,9,2,12,9,25,36.0,Estonian <et@li.org>
+digikam,19693,0,0,2564,0,0,14132,19693,100.0,Estonian <kde-et@linux.ee>
+eel2,153,0,0,29,0,0,100,153,100.0,Estonian <gnome-et@linux.ee>
+ekiga,2645,93,1432,493,5,146,2012,4170,63.42925659472422,Estonian <gnome-et@linux.ee>
+elinks,357,1498,10225,170,474,976,344,12080,2.955298013245033,Estonian <et@li.org>
+eog,1223,0,0,282,0,0,985,1223,100.0,Estonian <gnome-et@linux.ee>
+epiphany,4248,0,0,919,0,0,3530,4248,100.0,Estonian <gnome-et@linux.ee>
+evince,1048,0,0,291,0,0,872,1048,100.0,Estonian <gnome-et@linux.ee>
+evolution,20723,0,1150,4903,0,112,17034,21873,94.74237644584647,Estonian <gnome-et@linux.ee>
+evolution-data-server,5118,0,0,1064,0,0,4692,5118,100.0,Estonian <gnome-et@linux.ee>
+evolution-exchange,1273,0,74,190,0,7,1085,1347,94.50631031922792,Estonian <gnome-et@linux.ee>
+evolution-webcal,184,0,0,30,0,0,133,184,100.0,Estonian <gnome-et@linux.ee>
+exaile,549,0,2114,244,0,466,508,2663,20.615846789335336,Estonian <et@li.org>
+exo,813,108,555,143,29,116,668,1476,55.08130081300813,Estonian <et@li.org>
+f-spot,3227,0,0,763,0,0,2651,3227,100.0,Estonian <gnome-et@linux.ee>
+file-roller,1206,0,0,271,0,0,991,1206,100.0,Estonian <gnome-et@linux.ee>
+filezilla,7412,0,0,1273,0,0,6027,7412,100.0,
+findutils,930,530,622,99,41,76,805,2082,44.668587896253605,Estonian <et@li.org>
+firstboot,93,145,366,10,8,34,64,604,15.397350993377485,Estonian <et@li.org>
+freeciv,34130,2146,2885,4021,111,198,27197,39161,87.15303490717807,eesti
+fuse-encfs,16,0,1295,2,0,136,12,1311,1.2204424103737606,Estonian <et@li.org>
+galeon,4161,133,992,1222,47,116,3474,5286,78.71736662883087,Estonian <gnome-et@linux.ee>
+gallery2,3161,401,5275,768,111,497,2673,8837,35.77005771189318,Eesti <gallery-devel@lists.sourceforge.net>
+gcalctool,1098,0,30,388,0,11,976,1128,97.3404255319149,Estonian <gnome-et@linux.ee>
+gcompris,0,0,0,0,0,0,0,0,0.0,
+gconf-editor,329,0,0,97,0,0,288,329,100.0,Estonian <gnome-et@linux.ee>
+gdm,1148,0,174,207,0,24,961,1322,86.83812405446294,Estonian <gnome-et@linux.ee>
+gedit,4610,0,332,1003,0,90,3732,4942,93.28207203561311,Estonian <gnome-et@linux.ee>
+gedit-plugins,66,0,67,18,0,15,52,133,49.62406015037594,Estonian <gnome-et@linux.ee>
+geeqie,420,1317,1877,150,564,532,385,3614,11.621472053126729,Estonian <gnome-et@linux.ee>
+gettext,587,1151,4740,101,88,424,577,6478,9.06143871565298,Estonian <et@li.org>
+ggz-client-libs,33,0,0,7,0,0,33,33,100.0,Estonian <gnome-et@linux.ee>
+ggz-gtk-client,517,0,0,206,0,0,452,517,100.0,Estonian <gnome-et@linux.ee>
+ghex,791,0,0,224,0,0,645,791,100.0,Estonian <gnome-et@linux.ee>
+gimp,18334,23,7645,4838,8,1882,15066,26002,70.50996077224829,estonian <gnome-et@linux.ee>
+glade2,0,1503,1446,0,637,155,0,2949,0.0,Estonian <gnome-et@linux.ee>
+glade3,1360,0,1839,435,0,434,1102,3199,42.51328540168803,Estonian <gnome-et@linux.ee>
+glib2,1932,0,265,300,0,48,1647,2197,87.93809740555302,Estonian <gnome-et@linux.ee>
+gnokii,1595,867,2781,562,244,371,1558,5243,30.42151440015258,gnokii
+gnome-applet-netspeed,100,7,25,37,5,5,93,132,75.75757575757575,Estonian <gnome-et@linux.ee>
+gnome-applets,3322,0,50,770,0,23,2776,3372,98.51720047449585,Estonian <gnome-et@linux.ee>
+gnome-backgrounds,23,0,0,17,0,0,21,23,100.0,Estonian <gnome-et@linux.ee>
+gnome-build,495,0,108,141,0,19,467,603,82.08955223880598,Estonian <gnome-et@linux.ee>
+gnome-desktop,285,0,0,71,0,0,252,285,100.0,Estonian <gnome-et@linux.ee>
+gnome-do,109,0,124,33,0,33,92,233,46.78111587982833,Estonian <et@li.org>
+gnome-doc-utils,238,0,0,92,0,0,234,238,100.0,Estonian <gnome-et@linux.ee>
+gnome-games,6344,0,1232,1593,0,193,5096,7576,83.73812038014783,Estonian <gnome-et@linux.ee>
+gnome-icon-theme,51,0,0,46,0,0,48,51,100.0,Estonian <gnome-et@linux.ee>
+gnome-keyring,1407,0,306,167,0,42,1143,1713,82.13660245183888,Estonian <gnome-et@linux.ee>
+gnome-keyring-manager,284,0,0,87,0,0,231,284,100.0,Estonian <gnome-et@linux.ee>
+gnome-libs,988,40,57,381,4,10,876,1085,91.05990783410138,Estonian <gnome-et@linux.ee>
+gnome-mag,298,0,0,42,0,0,253,298,100.0,Estonian <gnome-et@linux.ee>
+gnome-media,1938,0,0,525,0,0,1600,1938,100.0,Estonian <gnome-et@linux.ee>
+gnome-menus,165,0,0,58,0,0,144,165,100.0,Estonian <gnome-et@linux.ee>
+gnome-mime-data,887,0,0,362,0,0,810,887,100.0,Estonian <gnome-et@linux.ee>
+gnome-netstatus,418,0,0,106,0,0,348,418,100.0,Estonian <gnome-et@linux.ee>
+gnome-nettool,573,0,0,197,0,0,501,573,100.0,Estonian <gnome-et@linux.ee>
+gnome-panel,4582,0,0,629,0,0,3592,4582,100.0,Estonian <gnome-et@linux.ee>
+gnome-power-manager,1841,0,1619,349,0,145,1517,3460,53.20809248554913,Estonian <gnome-et@linux.ee>
+gnome-screensaver,966,0,0,154,0,0,728,966,100.0,Estonian <gnome-et@linux.ee>
+gnome-session,714,0,0,114,0,0,563,714,100.0,Estonian <gnome-et@linux.ee>
+gnome-settings-daemon,997,0,83,182,0,8,791,1080,92.31481481481481,Estonian <gnome-et@linux.ee>
+gnome-system-monitor,913,0,0,238,0,0,758,913,100.0,Estonian <gnome-et@linux.ee>
+gnome-terminal,3377,0,0,381,0,0,2451,3377,100.0,Estonian <gnome-et@linux.ee>
+gnome-themes,96,0,0,28,0,0,86,96,100.0,Estonian <gnome-et@linux.ee>
+gnome-utils,4174,0,0,739,0,0,3106,4174,100.0,Estonian <gnome-et@linux.ee>
+gnome-vfs2,1508,0,0,301,0,0,1212,1508,100.0,Estonian <gnome-et@linux.ee>
+gnome-volume-manager,1221,0,0,204,0,0,956,1221,100.0,Estonian <gnome-et@linux.ee>
+gnomebaker,26,0,1160,12,0,279,23,1186,2.1922428330522767,Estonian <et@li.org>
+gnotime,113,307,1588,59,121,249,115,2008,5.627490039840637,Estonian <linux-l@eenet.ee>
+gnumeric,26508,4422,15444,2340,583,831,20784,46374,57.16134040626213,Estonian <linux-ee@lists.eenet.ee>
+gnupg,4467,2791,1137,640,455,171,3822,8395,53.21024419297201,Estonian <et@li.org>
+gnupg2,3292,4088,2762,543,727,416,2901,10142,32.45908104910274,Estonian <et@li.org>
+goffice,1449,626,1915,663,286,416,1342,3990,36.31578947368421,Estonian <gnome-et@linux.ee>
+goffice04,1449,626,1915,663,286,416,1342,3990,36.31578947368421,Estonian <gnome-et@linux.ee>
+gok,813,0,1129,290,0,149,707,1942,41.864057672502575,Estonian <gnome-et@linux.ee>
+gourmet,0,0,3526,0,0,791,0,3526,0.0,Estonian <et@li.org>
+gparted,1470,0,0,310,0,0,1248,1470,100.0,Estonian <et@li.org>
+gpicview,104,61,54,25,8,11,76,219,47.48858447488584,Gnome Estonian Translation Team <gnome-et@linux.ee>
+gqview,621,675,425,204,284,181,566,1721,36.083672283556076,Estonian <gnome-et@linux.ee>
+grep,622,0,0,51,0,0,552,622,100.0,Estonian <et@li.org>
+gthumb,2423,0,141,837,0,30,2131,2564,94.50078003120124,Estonian <gnome-et@linux.ee>
+gtk+,202,0,0,105,0,0,186,202,100.0,Estonian
+gtk2,7469,154,5137,1754,29,780,5701,12760,58.53448275862069,Estonian <gnome-et@linux.ee>
+gtk2-engines,80,0,19,36,0,9,78,99,80.8080808080808,Estonian <gnome-et@linux.ee>
+gtkhtml3,1233,0,0,548,0,0,1035,1233,100.0,Estonian <gnome-et@linux.ee>
+gtksourceview,729,0,162,304,0,62,593,891,81.81818181818183,Estonian <gnome-et@linux.ee>
+gtksourceview2,898,0,109,331,0,55,778,1007,89.17576961271102,Estonian <gnome-et@linux.ee>
+gtranslator,1083,263,68,284,58,27,924,1414,76.5912305516266,Estonian <gnome-et@linux.ee>
+gucharmap,803,0,0,298,0,0,703,803,100.0,Estonian <gnome-et@linux.ee>
+guidance-power-manager,443,0,0,68,0,0,348,443,100.0,Estonian <kde-et@linux.ee>
+gvfs,1245,0,0,312,0,0,1134,1245,100.0,Estonian <gnome-et@linux.ee>
+hamster-applet,206,0,0,88,0,0,201,206,100.0,Estonian <gnome-et@linux.ee>
+hello,125,40,9,24,1,2,119,174,71.83908045977012,Estonian <et@li.org>
+homebank,1093,0,272,432,0,14,949,1365,80.07326007326007,Estonian <et@li.org>
+horde,7076,0,0,1934,0,0,5976,7076,100.0,Estonian <dev@lists.horde.org>
+hwbrowser,105,8,3,46,4,1,87,116,90.51724137931035,Estonian <Eesti>
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imp,5593,0,0,1126,0,0,4376,5593,100.0,Estonian <dev@lists.horde.org>
+imsettings,0,0,849,0,0,139,0,849,0.0,none
+indent,236,33,15,53,5,2,222,284,83.09859154929578,Estonian <et@li.org>
+ingo,756,0,0,204,0,0,621,756,100.0,Estonian <i18n@lists.horde.org>
+initscripts,1892,1351,628,399,399,111,1772,3871,48.876259364505295,Estonian <Eesti>
+inkscape,154,3209,13810,119,1290,2056,151,17173,0.8967565364234554,Estonian <gnome-et@linux.ee>
+iso-codes,1692,2692,8817,837,2391,5813,1421,13201,12.817210817362321,Estonian
+isomaster,672,0,0,106,0,0,592,672,100.0,Edmund Laugasson <edmund.laugasson@eesti.ee>
+jmol,657,362,1142,292,176,299,605,2161,30.402591392873667,Estonian <Jmol-developers@lists.sf.net>
+k3b,20621,0,0,2530,0,0,15934,20621,100.0,Estonian <kde-et@linux.ee>
+kBuild,502,0,3,80,0,1,422,505,99.4059405940594,Estonian <et@li.org>
+kaffeine,2353,0,1,657,0,1,2020,2354,99.95751911639762,<kde-et@linux.ee>
+kcoloredit,254,24,0,89,6,0,209,278,91.36690647482014,Estonian <kde-et@linux.ee>
+kdetv,2206,0,0,483,0,0,1734,2206,100.0,Estonian <kde-et@linux.ee>
+kdiff3,3528,0,0,635,0,0,2879,3528,100.0,Estonian <kde-et@linux.ee>
+keurocalc,3042,0,0,342,0,0,2220,3042,100.0,Estonian <kde-et@linux.ee>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kftpgrabber,2207,13,17,572,4,4,1741,2237,98.65891819400984,Estonian <kde-et@linux.ee>
+kgrab,370,0,0,53,0,0,284,370,100.0,Estonian <kde-et@linux.ee>
+kiconedit,726,0,0,155,0,0,556,726,100.0,Estonian <kde-et@linux.ee>
+kile,10439,0,0,1587,0,0,7857,10439,100.0,Estonian <kde-et@linux.ee>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Estonian <kde-et@linux.ee>
+kio_sysinfo,144,10,14,58,4,10,125,168,85.71428571428571,Estonian <kde-et@linux.ee>
+kiosktool,2289,0,0,238,0,0,1564,2289,100.0,Estonian <kde-et@linux.ee>
+kipi-plugins,13693,83,105,2660,32,18,10345,13881,98.64563071824797,Estonian <kde-et@linux.ee>
+kmid,535,0,0,214,0,0,478,535,100.0,Estonian <kde-et@linux.ee>
+kmplayer,1251,0,0,388,0,0,1054,1251,100.0,Estonian <kde-et@linux.ee>
+knemo,616,0,0,185,0,0,507,616,100.0,Estonian <kde-et@linux.ee>
+knetstats,118,0,0,53,0,0,108,118,100.0,<kde-et@linux.ee>
+knetworkmanager,32,141,235,22,78,85,30,408,7.8431372549019605,Estonian <et@li.org>
+konq-plugins,1692,0,0,546,0,0,1408,1692,100.0,Estonian <kde-et@linux.ee>
+konversation,9055,0,0,1362,0,0,7049,9055,100.0,Estonian <kde-et@linux.ee>
+kopete-cryptography,408,0,0,41,0,0,300,408,100.0,Estonian <kde-et@linux.ee>
+kphotoalbum,6095,0,0,747,0,0,4584,6095,100.0,Estonian <kde-et@linux.ee>
+krecipes,3087,0,0,568,0,0,2519,3087,100.0,Estonian <kde-et@linux.ee>
+ksig,85,0,0,26,0,0,66,85,100.0,Estonian <kde-et@linux.ee>
+kst,7397,0,0,1799,0,0,5735,7397,100.0,Estonian <kde-et@linux.ee>
+ksynaptics,649,5,1,132,1,1,507,655,99.08396946564886,Estonian <kde-et@linux.ee>
+ktorrent,6795,0,0,1213,0,0,5329,6795,100.0,Estonian <kde-et@linux.ee>
+libbonobo,489,0,58,101,0,7,384,547,89.39670932358318,Estonian <gnome-et@linux.ee>
+libbonoboui,368,0,0,115,0,0,313,368,100.0,Estonian <gnome-et@linux.ee>
+libgdl,182,0,429,53,0,43,132,611,29.78723404255319,Estonian <gnome-et@linux.ee>
+libgnome,1757,0,0,271,0,0,1411,1757,100.0,Estonian <gnome-et@linux.ee>
+libgnomecanvas,378,0,0,95,0,0,312,378,100.0,Estonian <gnome-et@linux.ee>
+libgnomekbd,235,0,0,49,0,0,195,235,100.0,Estonian <gnome-et@linux.ee>
+libgnomeprint22,168,0,0,98,0,0,167,168,100.0,Estonian <gnome-et@linux.ee>
+libgnomeprintui22,481,0,0,154,0,0,358,481,100.0,Estonian <gnome-et@linux.ee>
+libgnomeui,1309,0,0,334,0,0,975,1309,100.0,Estonian <gnome-et@linux.ee>
+libgtop2,126,0,0,40,0,0,103,126,100.0,Estonian <gnome-et@linux.ee>
+libgweather,6493,0,791,4472,0,273,6273,7284,89.14058209774849,Estonian <gnome-et@linux.ee>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,25,0,0,14,0,0,19,25,100.0,Estonian <kde-et@linux.ee>
+libuser,970,49,45,206,12,7,872,1064,91.16541353383458,Estonian <et@li.org>
+libvirt,1224,4284,2717,290,834,526,1224,8225,14.88145896656535,none
+libwnck,315,0,809,109,0,132,278,1124,28.02491103202847,Estonian <gnome-et@linux.ee>
+libxfce4util,413,0,0,4,0,0,361,413,100.0,Estonian
+libxfcegui4,81,0,0,25,0,0,67,81,100.0,Estonian <et@li.org>
+listen,88,18,1636,31,5,500,70,1742,5.05166475315729,Estonian <et@li.org>
+lxappearance,72,0,24,36,0,3,56,96,75.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lxlauncher,18,0,33,4,0,7,13,51,35.294117647058826,Gnome Estonian Translation Team <gnome-et linux ee>
+lxmenu-data,97,0,0,37,0,0,84,97,100.0,Estonian <gnome-et@linux.ee>
+lxpanel,606,46,253,202,22,71,513,905,66.96132596685082,Gnome Estonian translation team <gnome-et@linux.ee>
+lxrandr,100,2,0,21,1,0,86,102,98.0392156862745,Gnome Estonian Translation Team <gnome-et@linux.ee>
+lxsession,37,0,0,15,0,0,32,37,100.0,Gnome Estonian Translation Team <gnome-et@linux.ee>
+lxsession-edit,52,6,0,9,1,0,37,58,89.65517241379311,Gnome Estonian Translation Team <gnome-et linux ee>
+lxshortcut,43,0,0,19,0,0,34,43,100.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lxtask,112,0,0,43,0,0,98,112,100.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lxterminal,46,2,52,30,1,36,44,100,46.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lynx,7842,18,71,1188,5,7,6500,7931,98.87782120791829,Estonian <et@li.org>
+mailman,18691,1417,1797,1288,31,36,13559,21905,85.32755078749143,Estonian <et@li.org>
+metacity,2872,0,4968,236,0,272,2372,7840,36.63265306122449,Estonian <gnome-et@linux.ee>
+mingw32-atk,370,1,4,123,1,2,260,375,98.66666666666667,Estonian <gnome-et@linux.ee>
+mingw32-gettext,587,1151,4740,101,88,424,577,6478,9.06143871565298,Estonian <et@li.org>
+mingw32-glib2,1932,3,390,300,1,67,1647,2325,83.09677419354838,Estonian <gnome-et@linux.ee>
+mingw32-gtk2,6803,289,5308,1435,62,816,5292,12400,54.86290322580645,Estonian <gnome-et@linux.ee>
+mingw32-iconv,263,40,33,42,3,1,222,336,78.27380952380952,Estonian <et@li.org>
+mousepad,119,4,12,61,2,1,125,135,88.14814814814815,Estonian <et@li.org>
+mousetweaks,158,0,268,50,0,44,138,426,37.08920187793427,Estonian <gnome-et@linux.ee>
+muine,487,3,0,123,1,0,425,490,99.38775510204081,Estonian <gnome-et@linux.ee>
+mutt,3574,837,790,834,138,116,3090,5201,68.7175543164776,Estonian <et@li.org>
+nautilus,8218,0,0,1289,0,0,6373,8218,100.0,Estonian <gnome-et@linux.ee>
+nautilus-cd-burner,1315,0,0,213,0,0,1020,1315,100.0,Estonian <gnome-et@linux.ee>
+nautilus-open-terminal,24,0,0,5,0,0,16,24,100.0,Estonian <gnome-et@linux.ee>
+nautilus-sendto,85,0,0,28,0,0,71,85,100.0,Estonian <gnome-et@linux.ee>
+net-tools,2439,0,0,533,0,0,2390,2439,100.0,Estonian <linux-ee@eenet.ee>
+newt,4,0,0,4,0,0,4,4,100.0,ESTONIAN <linuxiabi@hot.ee>
+notecase,410,266,480,147,91,118,363,1156,35.46712802768166,NoteCase team
+ntfs-config,29,0,328,5,0,54,21,357,8.123249299719888,Estonian <et@li.org>
+openbox,340,0,163,71,0,25,269,503,67.59443339960238,Estonian <et@li.org>
+orage,595,22,247,492,14,33,642,864,68.86574074074075,Estonian <et@li.org>
+orca,757,73,2847,377,39,843,719,3677,20.58743540930106,Estonian <gnome-et@linux.ee>
+pan,310,1345,633,109,381,110,290,2288,13.54895104895105,Estonian <gnome-et@linux.ee>
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pcmanfm,1121,105,294,316,17,55,881,1520,73.75,
+pessulus,88,0,0,30,0,0,91,88,100.0,Estonian <gnome-et@linux.ee>
+pidgin,10816,1964,5209,2704,454,709,9415,17989,60.12563233086886,Estonian <et@li.org>
+planner,1744,0,0,511,0,0,1475,1744,100.0,Estonian <gnome-et@linux.ee>
+pmount,0,4,719,0,1,62,0,723,0.0,Estonian <et@li.org>
+po4a,500,172,941,71,14,78,414,1613,30.998140111593305,Estonian <et@li.org>
+poedit,1157,5,0,268,1,0,914,1162,99.5697074010327,Estonian <et@li.org>
+policycoreutils,0,0,4363,0,0,713,0,4363,0.0,
+pychess,1254,417,0,295,50,0,1037,1671,75.04488330341114,Estonian <et@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,253,0,0,81,0,0,212,253,100.0,Estonian <gnome-et@linux.ee>
+rhpl,165,17,3,73,6,1,150,185,89.1891891891892,Estonian <et@li.org>
+rhpxl,111,16,3,40,2,2,106,130,85.38461538461539,Estonian <et@li.org>
+rhythmbox,877,102,244,281,24,21,752,1223,71.70891251022077,Estonian <gnome-et@linux.ee>
+rosegarden4,1730,1681,7659,697,701,942,1575,11070,15.627822944896117,Estonian <kde-et@linux.ee>
+rsibreak,1096,84,43,136,10,14,707,1223,89.61569910057237,Estonian <kde-et@linux.ee>
+sabayon,1178,0,0,230,0,0,1079,1178,100.0,Estonian <gnome-et@linux.ee>
+seahorse,2801,0,163,606,0,26,2385,2964,94.50067476383266,Estonian <gnome-et@linux.ee>
+seahorse-plugins,1163,0,0,248,0,0,1025,1163,100.0,Estonian <gnome-et@linux.ee>
+sed,502,0,3,80,0,1,422,505,99.4059405940594,Estonian <et@li.org>
+setroubleshoot,0,0,582,0,0,162,0,582,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+setuptool,54,0,6,16,0,1,48,60,90.0,Eesti
+sharutils,848,163,28,117,22,12,762,1039,81.61693936477383,Estonian <et@li.org>
+showimg,3034,812,459,727,105,47,2496,4305,70.47619047619048,Estonian <kde-et@linux.ee>
+skanlite,109,0,0,38,0,0,87,109,100.0,Estonian <kde-et@linux.ee>
+skrooge,7,3657,389,4,975,116,6,4053,0.17271157167530224,Estonian <kde-et@linux.ee>
+sonata,1136,0,0,357,0,0,1004,1136,100.0,Estonian <et@li.org>
+sound-juicer,996,0,0,195,0,0,861,996,100.0,Estonian <gnome-et@linux.ee>
+specspo,6,25,305263,1,5,16844,5,305294,0.0019653186764233823,Estonian <et@li.org>
+squirrelmail,3169,0,2601,875,0,243,2715,5770,54.922010398613516,Estonian <squirrelmail-i18n@lists.sourceforge.net>
+stellarium,1646,0,763,587,0,333,1403,2409,68.32710668327107,Estonian <kde-i18n-doc@lists.kde.org>
+swfdec-gnome,101,0,0,28,0,0,89,101,100.0,Estonian <gnome-et@linux.ee>
+switchdesk,137,0,0,19,0,0,104,137,100.0,Estonian <Eesti>
+sylpheed,3581,1749,941,1031,428,125,3296,6271,57.10413012278743,Estonian <et@li.org>
+system-config-bind,18,436,8965,8,125,931,19,9419,0.19110308949994692,Estonian <et@li.org>
+system-config-boot,41,0,5,9,0,1,27,46,89.13043478260869,Eesti
+system-config-date,772,104,162,561,44,12,730,1038,74.373795761079,Eesti
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,252,139,7,59,1,3,206,398,63.31658291457286,Estonian <Eesti>
+system-config-firewall,59,465,1973,15,63,225,56,2497,2.3628354024829794,Estonian <Eesti>
+system-config-httpd,816,42,0,204,19,0,709,858,95.1048951048951,Estonian <Eesti>
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,78,0,0,12,0,0,56,78,100.0,Eesti
+system-config-kickstart,975,38,41,261,8,12,774,1054,92.50474383301707,Estonian <et@li.org>
+system-config-language,45,0,0,10,0,0,35,45,100.0,Eesti
+system-config-lvm,403,317,1422,110,67,159,326,2142,18.81419234360411,Estonian <et@li.org>
+system-config-netboot,741,219,143,122,14,29,569,1103,67.1804170444243,Estonian <Eesti>
+system-config-network,2327,245,322,588,53,47,1888,2894,80.4077401520387,Estonian <et@li.org>
+system-config-nfs,264,0,1253,64,0,74,232,1517,17.402768622280817,LANGUAGE <LL@li.org>
+system-config-printer,2985,7,13,657,4,2,2421,3005,99.33444259567388,Estonian <Eesti>
+system-config-rootpassword,15,26,75,3,5,11,11,116,12.931034482758621,Eesti
+system-config-samba,353,9,60,129,2,6,317,422,83.64928909952607,Estonian <Eesti>
+system-config-services,24,0,360,10,0,43,19,384,6.25,Estonian <Eesti>
+system-config-users,702,323,312,120,32,20,566,1337,52.505609573672395,Estonian <Eesti>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,122,134,100.0,Estonian <Eesti>
+tar,2907,106,157,480,17,24,2559,3170,91.70347003154575,Estonian <et@li.org>
+tasks,34,0,0,23,0,0,29,34,100.0,Estonian <gnome-et@linux.ee>
+terminator,33,0,197,9,0,60,30,230,14.347826086956522,Estonian <et@li.org>
+tin,9698,0,0,1289,0,0,8073,9698,100.0,Estonian <et@li.org>
+tomboy,2600,0,0,404,0,0,2183,2600,100.0,Estonian <gnome-et@linux.ee>
+totem,2427,0,0,510,0,0,1937,2427,100.0,Estonian <gnome-et@linux.ee>
+totem-pl-parser,35,0,0,8,0,0,25,35,100.0,Estonian <gnome-et@linux.ee>
+tracker,286,26,546,63,7,127,223,858,33.33333333333333,Estonian <gnome-et@linux.ee>
+transmission,967,0,144,334,0,23,897,1111,87.03870387038704,Estonian <et@li.org>
+turba,1270,0,0,298,0,0,943,1270,100.0,Estonian <dev@lists.horde.org>
+tuxpaint,701,12,48,178,1,7,596,761,92.11563731931669,Estonian <et@li.org>
+usermode,555,9,0,94,1,0,443,564,98.40425531914893,Estonian <Eesti>
+util-linux-ng,6029,1455,4653,1060,183,686,5556,12137,49.67454890005767,Estonian <et@li.org>
+vdr,793,0,14,322,0,6,644,807,98.26517967781908,Estonian
+vdr-femon,159,0,186,98,0,43,137,345,46.08695652173913,<vdr@linuxtv.org>
+vdr-skinsoppalusikka,37,0,100,21,0,12,31,137,27.00729927007299,<vdr@linuxtv.org>
+vinagre,728,0,0,125,0,0,581,728,100.0,Estonian <gnome-et@linux.ee>
+vino,1075,0,0,120,0,0,860,1075,100.0,Estonian <gnome-et@linux.ee>
+vte,116,0,0,20,0,0,104,116,100.0,Estonian <gnome-et@linux.ee>
+wammu,9,47,4203,6,17,766,9,4259,0.2113172106128199,Estonian <et@li.org>
+webkitkde,137,98,149,38,37,27,107,384,35.67708333333333,Estonian <kde-et@linux.ee>
+wesnoth,49978,12084,150565,3741,685,8681,35993,212627,23.505011122764277,Kaido Kikkas <kakk@kakupesa.net>
+wget,1388,478,394,260,77,57,1228,2260,61.41592920353982,Estonian <et@li.org>
+xcdroast,4329,27,3688,636,2,210,3554,8044,53.816509199403285,estonian <et@li.org>
+xchat-gnome,2014,242,1645,627,57,296,1687,3901,51.62778774673161,Estonian <gnome-et@linux.ee>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Estonian <gnome-et@linux.ee>
+xfburn,569,363,364,168,65,48,447,1296,43.90432098765432,Estonian <et@li.org>
+xfce-mcs-manager,26,0,4,6,0,1,26,30,86.66666666666667,Estonian <et@li.org>
+xfce-mcs-plugins,382,15,143,102,6,38,324,540,70.74074074074073,Estonian <et@li.org>
+xfce-utils,71,18,30,22,6,6,58,119,59.66386554621849,Estonian <et@li.org>
+xfce4-appfinder,48,0,0,28,0,0,46,48,100.0,Estonian <et@li.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Estonian <et@li.org>
+xfce4-icon-theme,8,0,0,2,0,0,5,8,100.0,Estonian <et@li.org>
+xfce4-mixer,189,0,37,89,0,5,180,226,83.6283185840708,Estonian <et@li.org>
+xfce4-panel,480,32,66,133,12,15,422,578,83.04498269896193,Estonian <et@li.org>
+xfce4-places-plugin,6,3,34,4,1,14,5,43,13.953488372093023,
+xfce4-session,728,10,0,126,3,0,568,738,98.6449864498645,Estonian <et@li.org>
+xfce4-xfswitch-plugin,20,0,0,3,0,0,13,20,100.0,Estonian
+xfdesktop,286,275,517,101,87,100,255,1078,26.53061224489796,Estonian <et@li.org>
+xfprint,323,0,0,113,0,0,268,323,100.0,Estonian <et@li.org>
+xfwm4,569,55,22,170,14,6,514,646,88.08049535603715,Estonian <et@li.org>
+xmms,3177,65,201,1003,17,25,2872,3443,92.27417949462678,Estonian <kde-et@linux.ee>
+xpad,35,0,328,21,0,56,37,363,9.641873278236915,Estonian <et@li.org>
+xscreensaver,128,205,10857,73,96,1665,117,11190,1.1438784629133154,Estonian <gnome-et@linux.ee>
+yakuake,1288,0,0,199,0,0,903,1288,100.0,Estonian <kde-et@linux.ee>
+yelp,1035,0,0,349,0,0,863,1035,100.0,Estonian <gnome-et@linux.ee>
+zenity,582,0,0,135,0,0,481,582,100.0,Gnome eesti <et-gnome@linux.ee>

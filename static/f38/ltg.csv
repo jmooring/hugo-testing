@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,6,0,170961,3,0,19328,6,170967,0.0035094491919493236,Latgalian (http://www.transifex.com/calibre/calibre/language/ltg/)
+dnfdragora,4,0,35,1,0,8,4,39,10.256410256410255,Latgalian (https://www.transifex.com/MageiaLinux/teams/9361/ltg/)
+gnome-do,19,0,593,9,0,135,20,612,3.104575163398693,Latgalian <ltg@li.org>
+manafirewall,12,0,1085,11,0,122,12,1097,1.0938924339106655,Latgalian (https://www.transifex.com/MageiaLinux/teams/9361/ltg/)
+spacefm,6819,0,2004,1474,0,129,5937,8823,77.28663719823189,Latgalian (http://www.transifex.com/p/spacefm/language/ltg/)

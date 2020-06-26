@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bubblemail,0,0,472,0,0,134,0,472,0.0,none
+clamtk,677,0,11,201,0,4,733,688,98.40116279069767,LANGUAGE <LL@li.org>
+dino,767,0,72,198,0,22,762,839,91.41835518474373,Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/>
+gnome-shell-extension-bubblemail,0,0,98,0,0,27,0,98,0.0,none
+gnome-shell-extension-gsconnect,364,80,86,156,37,26,349,530,68.67924528301886,Dutch <vistausss@outlook.com>
+gtkhash,197,16,0,57,6,0,185,213,92.48826291079813,Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/>
+lollypop,609,0,828,258,0,202,585,1437,42.379958246346554,Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/>
+picard,386,0,0,258,0,0,334,386,100.0,Dutch (Belgium) (http://www.transifex.com/musicbrainz/musicbrainz/language/nl_BE/)
+siril,13057,1989,2409,1611,151,143,12809,17455,74.8037811515325,Dutch <antoine.hoeffelman[-at-]gmail.com>

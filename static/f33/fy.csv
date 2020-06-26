@@ -1,0 +1,204 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,41,42,100.0,Frisian <fy@li.org>
+arduino,181,0,3023,122,0,485,177,3204,5.6491885143570535,Western Frisian (http://www.transifex.com/mbanzi/arduino-ide-15/language/fy/)
+asunder,7,0,485,6,0,85,6,492,1.4227642276422763,http://littlesvr.ca/ostd/
+atril,116,0,3730,59,0,582,135,3846,3.016120644825793,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+blueberry,59,0,107,19,0,18,63,166,35.54216867469879,Frisian <fy@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,916,0,8709,459,0,1136,896,9625,9.516883116883117,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+caja-extensions,3,0,668,3,0,143,3,671,0.44709388971684055,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+calligra,19924,7475,6401,4265,1725,1055,21915,33800,58.946745562130175,Frysk <kde-i18n-fry@kde.org>
+calligraplan,634,3800,4896,291,1187,561,661,9330,6.795284030010718,Frysk <kde-i18n-fry@kde.org>
+cinnamon-desktop,29,0,205,7,0,25,30,234,12.393162393162394,Frisian <gnome-fy-list@gnome.org>
+cinnamon-translations,1481,0,17012,493,0,3702,1492,18493,8.008435624290271,Frisian <fy@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+deja-dup,8,0,1615,6,0,279,18,1623,0.49291435613062234,Frisian <fy@li.org>
+deluge,756,0,1860,370,0,481,711,2616,28.899082568807337,Frisian <fy@li.org>
+dialect,366,0,0,187,0,0,400,366,100.0,Frisian <https://hosted.weblate.org/projects/dialect/dialect/fy/>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,31,30,1090,16,11,230,29,1151,2.6933101650738487,Frisian <fy@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,3023,0,0,585,0,3023,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+engrampa,418,0,1617,131,0,292,434,2035,20.54054054054054,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+eog,210,0,1395,119,0,193,218,1605,13.084112149532709,Frisian <gnome-fy-list@gnome.org>
+eom,44,0,1725,40,0,301,57,1769,2.4872809496890897,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+exaile,167,82,3818,42,20,1003,181,4067,4.106220801573642,Frisian <https://hosted.weblate.org/projects/exaile/master/fy/>
+file-roller,470,0,913,152,0,153,483,1383,33.98409255242227,Frisian <gnome-fy-list@gnome.org>
+gala,0,0,197,0,0,42,0,197,0.0,none
+gdm,93,52,505,22,11,54,80,650,14.307692307692307,Frisian <gnome-fy-list@gnome.org>
+gnome-bluetooth,15,0,499,13,0,142,20,514,2.9182879377431905,Frisian <fy@li.org>
+gnome-desktop3,209,0,229,40,0,21,219,438,47.71689497716895,Frisian <gnome-fy-list@gnome.org>
+gnome-do,136,0,476,39,0,105,140,612,22.22222222222222,Frisian <fy@li.org>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Frisian <fy@li.org>
+gnome-menus,95,0,0,37,0,0,84,95,100.0,Frisian <fy@li.org>
+gnome-panel,872,135,2513,287,28,193,927,3520,24.772727272727273,Frisian <gnome-fy-list@gnome.org>
+gnome-session,448,0,0,96,0,0,414,448,100.0,Frisian <gnome-fy-list@gnome.org>
+gnome-themes-extra,24,0,0,9,0,0,18,24,100.0,Frisian <gnome-fy-list@gnome.org>
+granite,82,17,170,36,6,46,79,269,30.483271375464682,Frisian <fy@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,296,10,676,209,3,208,256,982,30.14256619144603,Frisian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/fy/>
+isomaster,14,0,660,13,0,94,15,674,2.0771513353115725,http://littlesvr.ca/ostd/
+jmol,1,0,1717,1,0,572,1,1718,0.05820721769499418,Frisian <fy@li.org>
+kde-cli-tools,1608,342,165,156,32,30,1605,2115,76.02836879432624,Frysk <kde-i18n-fry@kde.org>
+kexi,1782,4261,1297,490,805,185,1733,7340,24.277929155313352,Frysk <kde-i18n-fry@kde.org>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kbookmarks,0,193,37,0,45,4,0,230,0.0,<nl@li.org>
+kf5-kcmutils,494,72,0,66,6,0,510,566,87.27915194346289,nl <kde-i18n-doc@lists.kde.org>
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kconfig,0,44,227,0,5,98,0,271,0.0,Frysk <kde-i18n-fry@kde.org>
+kf5-kconfigwidgets,135,127,62,69,37,13,142,324,41.66666666666667,nl <kde-i18n-doc@lists.kde.org>
+kf5-kcoreaddons,0,272,61,0,82,36,0,333,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kdeclarative,43,10,51,8,2,4,41,104,41.34615384615385,nl <kde-i18n-doc@lists.kde.org>
+kf5-kdelibs4support,1480,1293,2040,872,859,633,1534,4813,30.75005194265531,nl <kde-i18n-doc@lists.kde.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,<nl@li.org>
+kf5-kglobalaccel,0,45,26,0,6,3,0,71,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kholidays,0,18,121,0,8,82,0,139,0.0,Frysk <kde-i18n-fry@kde.org>
+kf5-khtml,1438,139,144,280,17,13,1404,1721,83.55607205113306,nl <kde-i18n-doc@lists.kde.org>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,nl <kde-i18n-doc@lists.kde.org>
+kf5-kiconthemes,25,11,1,16,1,1,26,37,67.56756756756756,<nl@li.org>
+kf5-kinit,96,31,7,9,4,1,96,134,71.64179104477611,nl <kde-i18n-doc@lists.kde.org>
+kf5-kio,6111,3674,2685,729,422,247,6568,12470,49.0056134723336,Frysk <kde-i18n-fry@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kjsembed,236,0,12,43,0,1,263,248,95.16129032258065,nl <kde-i18n-doc@lists.kde.org>
+kf5-knewstuff,354,184,1098,108,68,80,386,1636,21.638141809290953,nl <kde-i18n-doc@lists.kde.org>
+kf5-knotifications,0,20,0,0,7,0,0,20,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-knotifyconfig,43,86,0,15,2,0,46,129,33.33333333333333,nl <kde-i18n-doc@lists.kde.org>
+kf5-kparts,95,19,9,25,2,1,90,123,77.23577235772358,nl <kde-i18n-doc@lists.kde.org>
+kf5-kpty,15,0,0,4,0,0,22,15,100.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kross,82,18,0,29,6,0,81,100,82.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kservice,64,65,38,11,12,4,66,167,38.32335329341318,nl <kde-i18n-doc@lists.kde.org>
+kf5-ktexteditor,3069,2039,3664,566,365,332,3201,8772,34.98632010943912,Frysk <kde-i18n-fry@kde.org>
+kf5-ktextwidgets,446,13,14,114,9,7,459,473,94.29175475687104,nl <kde-i18n-doc@lists.kde.org>
+kf5-kwallet,0,648,688,0,42,47,0,1336,0.0,Frysk <kde-i18n-fry@kde.org>
+kf5-kwidgetsaddons,0,1167,115,0,438,25,0,1282,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-kxmlgui,911,441,181,112,94,13,935,1533,59.4259621656882,nl <kde-i18n-doc@lists.kde.org>
+kf5-sonnet,0,645,22,0,68,5,0,667,0.0,nl <kde-i18n-doc@lists.kde.org>
+kf5-syntax-highlighting,0,274,330,0,206,149,0,604,0.0,Frysk <kde-i18n-fry@kde.org>
+kgamma,126,4,0,15,1,0,147,130,96.92307692307692,Nederlands <kde-i18n-nl@kde.org>
+khotkeys,403,31,3,120,8,1,409,437,92.21967963386729,Frysk <kde-i18n-fry@kde.org>
+kinfocenter,1199,457,436,442,176,143,1129,2092,57.313575525812624,Frysk <kde-i18n-fry@kde.org>
+kmenuedit,240,14,19,52,4,7,231,273,87.91208791208791,Frysk <kde-i18n-fry@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,8095,8417,100.0,Frysk <kde-i18n-fry@kde.org>
+kpilot,5392,796,968,598,153,110,5335,7156,75.34935718278368,Frysk <kde-i18n-fry@kde.org>
+kreport,0,268,143,0,146,26,0,411,0.0,Frysk <kde-i18n-fry@kde.org>
+krita,1918,9698,16225,757,4162,1887,1796,27841,6.8891203620559605,Frisian <kde-i18n-doc@lists.kde.org>
+ksig,85,0,0,26,0,0,76,85,100.0,Frysk <kde-i18n-fry@kde.org>
+ksysguard,853,86,154,176,35,26,879,1093,78.04208600182983,Frysk <kde-i18n-fry@kde.org>
+kwin,1879,1059,2804,401,301,518,1941,5742,32.72378962034134,Frysk <kde-i18n-fry@kde.org>
+libgnome-keyring,44,0,0,9,0,0,43,44,100.0,Frisian <gnome-fy-list@gnome.org>
+libksysguard,42,51,3346,31,19,287,41,3439,1.2212852573422508,Frysk <kde-i18n-fry@kde.org>
+libmatekbd,4,0,304,4,0,87,4,308,1.2987012987012987,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+libmatemixer,4,0,238,4,0,122,4,242,1.6528925619834711,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+libmateweather,12,0,487,10,0,173,10,499,2.404809619238477,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+libmypaint,1,0,2302,1,0,161,1,2303,0.04342162396873643,Frisian <https://hosted.weblate.org/projects/mypaint/libmypaint/fy/>
+libmypaint2,1,0,2310,1,0,161,1,2311,0.043271311120726956,Frisian <https://hosted.weblate.org/projects/mypaint/libmypaint/fy/>
+libreoffice,105517,0,0,32842,0,0,108481,105517,100.0,LANGUAGE <LL@li.org>
+libwnck3,1082,0,0,230,0,0,1120,1082,100.0,Frisian <gnome-fy-list@gnome.org>
+lightdm,0,0,163,0,0,21,0,163,0.0,Frisian <fy@li.org>
+lightdm-gtk,34,0,53,11,0,14,37,87,39.08045977011494,Frisian <fy@li.org>
+mate-applets,70,0,15783,64,0,1538,187,15853,0.44155680312874535,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-backgrounds,23,0,42,17,0,14,21,65,35.38461538461539,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-calc,8,0,1546,8,0,473,19,1554,0.5148005148005148,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-control-center,73,0,8529,64,0,1448,93,8602,0.8486398511973959,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-desktop,104,0,2120,12,0,273,79,2224,4.676258992805756,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-media,13,0,226,10,0,89,13,239,5.439330543933055,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-menu,23,0,285,18,0,92,22,308,7.467532467532467,Western Frisian (http://www.transifex.com/mate/MATE/language/fy/)
+mate-menus,97,0,0,37,0,0,98,97,100.0,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-panel,1099,0,5628,361,0,441,1178,6727,16.337148803329864,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-polkit,3,0,120,2,0,19,3,123,2.4390243902439024,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-power-manager,14,0,5125,14,0,540,34,5139,0.27242654212881884,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-screensaver,13,0,1007,6,0,163,11,1020,1.2745098039215685,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-sensors-applet,12,0,2148,12,0,214,32,2160,0.5555555555555556,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-session-manager,433,0,279,99,0,32,423,712,60.81460674157303,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-settings-daemon,11,0,2186,8,0,310,9,2197,0.5006827492034593,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-system-monitor,29,0,4495,27,0,593,50,4524,0.641025641025641,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-terminal,72,0,8437,44,0,759,87,8509,0.8461628863556234,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-themes,11,0,63,2,0,21,11,74,14.864864864864865,Western Frisian (http://www.transifex.com/mate/MATE/language/fy/)
+mate-user-admin,4,0,624,4,0,127,4,628,0.6369426751592357,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-user-guide,5,0,2,2,0,2,5,7,71.42857142857143,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mate-utils,149,0,10155,74,0,1055,200,10304,1.4460403726708073,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+menulibre,8,0,865,6,0,160,8,873,0.9163802978235969,Frisian <fy@li.org>
+mozo,42,0,1,16,0,1,41,43,97.67441860465115,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+mypaint,14,14,6545,12,9,1259,16,6573,0.21299254526091588,Frisian <https://hosted.weblate.org/projects/mypaint/mypaint/fy/>
+nautilus,946,0,7938,484,0,959,932,8884,10.64835659612787,Frisian <gnome-fy-list@gnome.org>
+nemo-extensions,1,0,7,1,0,1,1,8,12.5,Frisian <fy@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser5,0,30,238,0,7,43,0,268,0.0,Frisian <https://hosted.weblate.org/projects/phpmyadmin/master/fy/>
+picard,31,0,2181,28,0,587,36,2212,1.4014466546112114,Western Frisian (http://www.transifex.com/musicbrainz/musicbrainz/language/fy/)
+plasma-desktop,3396,679,1019,407,156,278,3309,5094,66.66666666666666,Frysk <kde-i18n-fry@kde.org>
+plasma-drkonqi,2429,799,738,229,78,45,2560,3966,61.24558749369642,Frysk <kde-i18n-fry@kde.org>
+plasma-oxygen,361,175,82,145,49,25,361,618,58.41423948220065,Frysk <kde-i18n-fry@kde.org>
+plasma-sdk,218,53,166,63,12,21,224,437,49.88558352402746,Frysk <kde-i18n-fry@kde.org>
+plasma-systemsettings,148,21,62,35,5,20,146,231,64.06926406926407,Frysk <kde-i18n-fry@kde.org>
+plasma-workspace,3063,1566,3155,826,446,742,3040,7784,39.34994861253854,Frysk <kde-i18n-fry@kde.org>
+pluma,60,0,5603,49,0,1384,69,5663,1.0595090941197245,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+powerdevil,5,40,286,3,13,62,5,331,1.5105740181268883,Frysk <kde-i18n-fry@kde.org>
+powertop,386,104,208,103,31,68,406,698,55.30085959885387,Western Frisian (http://www.transifex.com/projects/p/PowerTOP/language/fy/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-caja,6,0,1,2,0,1,5,7,85.71428571428571,Western Frisian (https://www.transifex.com/mate/teams/13566/fy/)
+python-django,121,0,3332,20,0,753,125,3453,3.504199247031567,Western Frisian (http://www.transifex.com/django/django/language/fy/)
+slick-greeter,55,0,156,19,0,28,55,211,26.066350710900476,Frisian <fy@li.org>
+squirrelmail,16391,0,0,2879,0,0,16118,16391,100.0,<kde-i18n-nl@kde.org>
+stellarium,26529,0,114875,15626,0,20793,26535,141404,18.76113829877514,Western Frisian (https://www.transifex.com/stellarium/teams/80998/fy/)
+sugar,2305,0,0,529,0,0,2378,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,357,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,866,0,0,169,0,0,891,866,100.0,LANGUAGE <LL@li.org>
+sugar-chat,55,0,82,16,0,65,59,137,40.14598540145985,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,57,58,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,74,69,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,101,98,100.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,111,106,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,147,137,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,122,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,213,0,0,123,0,0,218,213,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,128,121,100.0,LANGUAGE <LL@li.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+terminator,5,0,1445,3,0,424,5,1450,0.3448275862068966,Western Frisian (https://www.transifex.com/terminator/teams/109338/fy/)
+warzone2100,484,569,12408,145,160,2590,480,13461,3.5955723943243445,Frisian <fy@li.org>
+widelands,3611,0,58809,1146,0,4471,3506,62420,5.785004806151874,Western Frisian (http://www.transifex.com/widelands/widelands/language/fy/)
+wingpanel,0,0,19,0,0,4,0,19,0.0,Frisian <fy@li.org>
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none

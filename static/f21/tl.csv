@@ -1,0 +1,68 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,2722,0,0,328,0,2722,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+arduino,1877,0,40,312,0,15,2113,1917,97.91340636411059,"Filipino <mharkus[at]gmail[dot]com>
+"
+certmonger,0,0,1669,0,0,270,0,1669,0.0,Tagalog (http://www.transifex.com/projects/p/certmonger/language/tl/)
+cinnamon-translations,940,0,12373,319,0,2927,1162,13313,7.060767670697814,Tagalog <tl@li.org>
+console-setup,60,182,739,44,34,95,65,981,6.116207951070336,Tagalog <debian-tl@banwa.upm.edu.ph>
+debconf,743,50,2,83,3,1,897,795,93.45911949685535,Tagalog <debian-tl@banwa.upm.edu.ph>
+deluge,5,0,2639,3,0,855,7,2644,0.18910741301059003,Tagalog <tl@li.org>
+dpkg,4054,4001,2935,577,514,276,4787,10990,36.88808007279345,Tagalog <debian-tl@banwa.upm.edu.ph>
+exaile,20,0,3986,2,0,1023,22,4006,0.4992511233150275,Tagalog <tl@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Tagalog
+glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-do,377,0,235,107,0,37,513,612,61.60130718954249,Tagalog <tl@li.org>
+gnome-hearts,340,0,69,90,0,16,296,409,83.12958435207824,Tagalog <tl@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,440,0,0,80,0,440,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,85,0,0,18,0,85,0.0,Tagalog (http://www.transifex.com/projects/p/initial-setup/language/tl/)
+iso-codes,895,127,88,393,34,28,889,1110,80.63063063063063,Tagalog <debian-tl@banwa.upm.edu.ph>
+isomaster,11,0,663,10,0,97,12,674,1.6320474777448073,http://littlesvr.ca/ostd/
+libreport,0,0,3139,0,0,417,0,3139,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+libvirt-glib,0,0,138,0,0,29,0,138,0.0,Tagalog (http://www.transifex.com/projects/p/libvirt-glib/language/tl/)
+libvirt-sandbox,0,0,583,0,0,104,0,583,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+libxfce4ui,40,2,668,15,1,98,54,710,5.633802816901409,LANGUAGE <LL@li.org>
+libxfce4util,413,0,11,4,0,3,449,424,97.40566037735849,LANGUAGE <LL@li.org>
+libxfcegui4,139,0,0,44,0,0,149,139,100.0,LANGUAGE <LL@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Tagalog <tl@li.org>
+liveusb-creator,0,0,480,0,0,52,0,480,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Tagalog (http://www.transifex.com/projects/p/MATE/language/tl/)
+mingw-glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Tagalog (http://www.transifex.com/projects/p/libvirt-glib/language/tl/)
+mintmenu,3374,0,1775,891,0,219,4192,5149,65.52728685181589,Tagalog <tl@li.org>
+mtpaint,944,0,2187,365,0,507,1130,3131,30.150111785372086,Tagalog <tl@li.org>
+nemo-extensions,1,0,0,1,0,0,2,1,100.0,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+openstack-ceilometer,0,0,4560,0,0,768,0,4560,0.0,Tagalog (Philippines) (http://www.transifex.com/projects/p/openstack/language/tl_PH/)
+openstack-cinder,0,17,30923,0,4,4480,0,30940,0.0,Tagalog <tl@li.org>
+openstack-glance,0,0,13318,0,0,1552,0,13318,0.0,Tagalog (Philippines) (http://www.transifex.com/projects/p/openstack/language/tl_PH/)
+openstack-heat,0,0,20430,0,0,2666,0,20430,0.0,Tagalog (Philippines) (http://www.transifex.com/projects/p/openstack/language/tl_PH/)
+openstack-ironic,12,0,5866,3,0,857,14,5878,0.2041510717931269,Tagalog (Philippines) (http://www.transifex.com/projects/p/openstack/language/tl_PH/)
+openstack-keystone,0,0,5318,0,0,742,0,5318,0.0,Tagalog (Philippines) (http://www.transifex.com/projects/p/openstack/language/tl_PH/)
+openstack-neutron,0,0,43444,0,0,6340,0,43444,0.0,Tagalog (Philippines) (http://www.transifex.com/projects/p/openstack/language/tl_PH/)
+openstack-nova,8,39,34817,1,9,5414,7,34864,0.02294630564479119,Tagalog (Philippines) (http://www.transifex.com/projects/p/openstack/language/tl_PH/)
+openstack-sahara,0,0,373,0,0,50,0,373,0.0,Tagalog (http://www.transifex.com/projects/p/openstack/language/tl/)
+openstack-trove,0,0,3988,0,0,705,0,3988,0.0,Tagalog (http://www.transifex.com/projects/p/openstack/language/tl/)
+pgadmin3,1297,8594,6851,405,2282,1690,1426,16742,7.746983633974436,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,666,0,1887,253,0,571,813,2553,26.08695652173913,Tagalog <tl@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+pykickstart,0,0,448,0,0,50,0,448,0.0,Tagalog (http://www.transifex.com/projects/p/pykickstart/language/tl/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+rednotebook,85,0,1060,20,0,221,115,1145,7.423580786026202,Tagalog <tl@li.org>
+shadow-utils,1069,1020,1654,210,160,188,1323,3743,28.559978626769972,Tagalog <debian-tl@banwa.upm.edu.ph>
+stellarium,63,0,15762,62,0,4201,66,15825,0.3981042654028436,Tagalog <tl@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Tagalog (http://www.transifex.com/projects/p/system-config-kickstart/language/tl/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+transmission,1,0,1808,1,0,493,13,1809,0.055279159756771695,Tagalog <tl@li.org>
+tuxmath,860,180,414,167,26,55,1008,1454,59.147180192572215,LANGUAGE <LL@li.org>
+tuxpaint,186,38,1023,90,15,147,209,1247,14.91579791499599,LANGUAGE <LL@li.org>
+virt-viewer,0,0,692,0,0,148,0,692,0.0,Tagalog (http://www.transifex.com/projects/p/virt-viewer/language/tl/)
+wesnoth,951,1908,253120,456,576,15322,1177,255979,0.37151485082760694,
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>
+xnoise,0,8,908,0,3,259,0,916,0.0,Tagalog

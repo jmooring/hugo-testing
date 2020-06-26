@@ -1,0 +1,57 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,93,0,6923,53,0,1664,87,7016,1.3255416191562144,Rusyn <rue@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,81,0,0,14,0,81,0.0,none
+elementary-code,88,67,1453,39,25,243,86,1608,5.472636815920398,Rusyn <rue@li.org>
+elementary-files,0,0,3513,0,0,649,0,3513,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,200,0,0,45,0,200,0.0,Rusyn <rue@li.org>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,36,0,0,10,0,36,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,364,0,0,77,0,364,0.0,none
+elementary-terminal,44,37,562,11,5,101,33,643,6.842923794712286,Rusyn <rue@li.org>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+gala,0,0,358,0,0,73,0,358,0.0,none
+granite,5,10,483,3,4,111,5,498,1.0040160642570282,Rusyn <rue@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+switchboard,4,0,120,3,0,23,4,124,3.225806451612903,Rusyn <rue@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,4,1,378,2,1,82,4,383,1.0443864229765014,Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/rue/>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,Rusyn <rue@li.org>
+switchboard-plug-display,2,0,180,2,0,60,2,182,1.098901098901099,Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/rue/>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,
+switchboard-plug-mouse-touchpad,1,0,281,1,0,91,1,282,0.3546099290780142,Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/rue/>
+switchboard-plug-networking,0,0,522,0,0,145,0,522,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,17,0,319,8,0,102,14,336,5.059523809523809,Rusyn <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/rue/>
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,Rusyn <rue@li.org>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,Rusyn <rue@li.org>
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,131,0,0,41,0,131,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,101,0,0,30,0,101,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,LANGUAGE <LL@li.org>

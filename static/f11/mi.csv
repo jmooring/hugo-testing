@@ -1,0 +1,29 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+epiphany,114,122,2496,98,76,591,166,2732,4.172767203513909,GNOME Māori Team <maori@nzlinux.org.nz>
+gdm,10,1,5279,10,1,687,9,5290,0.1890359168241966,Maori <maori@nzlinux.org.nz>
+gedit,68,232,3906,54,131,835,74,4206,1.6167379933428434,GNOME Māori Team <maori@nzlinux.org.nz>
+gnome-desktop,20,4,296,14,1,58,27,320,6.25,Māori <maori@nzlinux.org.nz>
+gnome-mag,5,0,0,2,0,0,7,5,100.0,Maori <maori@nzlinux.org.nz>
+gnome-panel,9,4,3924,11,3,503,13,3937,0.2286004572009144,Māori <maori@nzlinux.org.nz>
+gnome-session,8,0,508,6,0,95,8,516,1.550387596899225,Māori <maori@nzlinux.org.nz>
+gtk2,1020,940,10968,206,386,2051,1137,12928,7.889851485148515,GNOME Māori Team <maori@nzlinux.org.nz>
+gucharmap,0,87,420,0,40,198,0,507,0.0,Maori <maori@nzlinux.org.nz>
+iso-codes,80,3172,9035,79,2697,5837,140,12287,0.6510946528851632,Maori <james.gasson@clear.net.nz>
+libgnomeui,80,8,1331,58,4,283,96,1419,5.637773079633545,Māori <maori@nzlinux.org.nz>
+libgtop2,0,34,100,0,8,36,0,134,0.0,Maori <maori@nzlinux.org.nz>
+libwnck,0,11,62,0,6,24,0,73,0.0,Maori <maori@nzlinux.org.nz>
+mingw32-gtk2,1020,940,10968,206,386,2051,1137,12928,7.889851485148515,GNOME Māori Team <maori@nzlinux.org.nz>
+nautilus,244,170,6562,167,78,969,285,6976,3.4977064220183482,GNOME Māori Team <maori@nzlinux.org.nz>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,55,0,0,31,0,55,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,565,0,0,118,0,565,0.0,LANGUAGE <LL@li.org>
+sugar-chat,0,0,26,0,0,12,0,26,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,28,0,0,18,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,69,0,0,42,0,69,0.0,LANGUAGE <LL@li.org>
+vte,0,58,38,0,11,7,0,96,0.0,Maori <maori@nzlinux.org.nz>
+zenity,0,99,295,0,34,78,0,394,0.0,Maori <maori@nzlinux.org.nz>

@@ -1,0 +1,34 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+kde-i18n,10,0,0,8,0,0,8,10,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,134,0,0,41,0,134,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,871,0,0,164,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,0,0,52,0,0,34,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,59,0,0,18,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,143,0,0,32,0,143,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,81,0,0,31,0,81,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,51,0,0,13,0,51,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,184,0,0,56,0,184,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,65,0,0,20,0,65,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,94,0,0,20,0,94,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,140,0,0,73,0,140,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,88,0,0,51,0,88,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,109,0,0,31,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,108,0,0,40,0,108,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,217,0,0,72,0,217,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,2923,1,0,749,1,2925,0.06837606837606838,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,575,0,0,126,0,575,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,81,0,0,48,0,81,0.0,LANGUAGE <LL@li.org>

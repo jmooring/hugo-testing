@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,21,0,160953,11,0,18468,21,160974,0.013045585001304559,Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/)
+garcon,106,0,16,33,0,3,106,122,86.88524590163934,Uzbek (Latin) (http://www.transifex.com/xfce/garcon/language/uz@Latn/)
+modem-manager-gui,1154,0,2110,334,0,229,1119,3264,35.35539215686275,Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/)
+php-phpmyadmin-sql-parser5,0,109,159,0,21,29,0,268,0.0,Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Uzbek (Latin) (http://www.transifex.com/heldercorreia/speedcrunch/language/uz@Latn/)
+synfig,73,5,4618,30,1,1147,55,4696,1.5545144804088586,Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz%40Latn/)
+synfigstudio,7,0,6557,6,0,1561,7,6564,0.10664229128580134,Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz%40Latn/)
+thunar-archive-plugin,86,0,0,13,0,0,58,86,100.0,Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/)
+thunar-media-tags-plugin,154,0,2,57,0,1,148,156,98.71794871794873,Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/)
+uget,721,0,364,286,0,76,775,1085,66.45161290322581,Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/)
+xfce4-battery-plugin,144,0,3,41,0,1,149,147,97.95918367346938,Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/)
+xfce4-xkb-plugin,34,0,14,12,0,9,39,48,70.83333333333334,Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/)

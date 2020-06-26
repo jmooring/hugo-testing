@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,2626,0,6782,471,0,693,3108,9408,27.912414965986393,LANGUAGE <LL@li.org>
+control-center,0,0,1313,0,0,756,0,1313,0.0,
+firstboot,124,0,472,12,0,44,148,596,20.80536912751678,LANGUAGE <LL@li.org>
+redhat-menus,106,6,149,43,4,39,164,261,40.61302681992337,
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,7,551,304736,2,99,16749,9,305294,0.0022928717891606124,
+switchdesk,30,0,107,14,0,5,39,137,21.897810218978105,
+system-config-date,0,0,1347,0,0,768,0,1347,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>

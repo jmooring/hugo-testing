@@ -1,0 +1,69 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+dippi,0,0,397,0,0,53,0,397,0.0,none
+harvey,0,0,57,0,0,12,0,57,0.0,none
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Quechua (Cuzco-Collao)
+olpc-switch-desktop,158,0,158,14,0,14,91,316,50.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sugar,1438,74,113,358,13,27,1249,1625,88.49230769230769,LANGUAGE <LL@li.org>
+sugar-abacus,23,0,11,23,0,2,30,34,67.64705882352942,Voluntarios quechuas Sugar Camp Lima
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,189,0,0,52,0,0,154,189,100.0,Voluntarios Quechua Sugar Camp
+sugar-calculator,871,0,0,164,0,0,899,871,100.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,133,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,59,7,0,20,1,0,48,66,89.39393939393939,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,1,98,0,1,25,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,49,86,54,23,2,15,40,189,25.925925925925924,Voluntarios quechuas Sugar Camp Lima
+sugar-fototoon,15,3,59,11,1,21,15,77,19.480519480519483,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,4,5,110,4,5,24,4,119,3.361344537815126,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,16,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,4,2,71,4,2,14,4,77,5.194805194805195,LANGUAGE <LL@li.org>
+sugar-infoslicer,4,0,232,4,0,58,4,236,1.694915254237288,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,4,20,0,2,57,69,94.20289855072464,LANGUAGE <LL@li.org>
+sugar-labyrinth,254,0,27,93,0,1,231,281,90.39145907473309,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,85,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,6,0,149,4,0,69,7,155,3.870967741935484,LANGUAGE <LL@li.org>
+sugar-memorize,34,5,103,34,5,35,62,142,23.943661971830984,LANGUAGE <LL@li.org>
+sugar-moon,2,0,115,2,0,31,2,117,1.7094017094017095,LANGUAGE <LL@li.org>
+sugar-nutrition,0,0,183,0,0,90,0,183,0.0,LANGUAGE <LL@li.org>
+sugar-paint,90,0,0,52,0,0,95,90,100.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,30,48,58.333333333333336,Voluntarios Quechua Sugar Camp
+sugar-pippy,109,0,0,31,0,0,86,109,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,60,0,0,21,0,0,52,60,100.0,Voluntarios quechuas Sugar Camp Lima
+sugar-read,112,0,25,41,0,9,97,137,81.75182481751825,Voluntarios Quechua Sugar Camp
+sugar-record,62,0,0,24,0,0,62,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,194,227,100.0,Voluntarios quechuas Sugar Camp Lima
+sugar-stopwatch,1,0,4,1,0,4,2,5,20.0,LANGUAGE <LL@li.org>
+sugar-story,0,1,23,0,1,10,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,8,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit,73,0,0,37,0,0,70,73,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,0,109,0,0,227,156,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1445,0,0,431,0,0,1275,1445,100.0,Voluntarios Quechua Sugar
+sugar-typing-turtle,6,4,589,6,2,119,6,599,1.001669449081803,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,7,2,149,7,2,69,7,158,4.430379746835443,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,118,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,1,0,28,1,0,6,1,29,3.4482758620689653,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>

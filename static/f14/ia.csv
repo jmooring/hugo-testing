@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gdk-pixbuf2,49,158,1106,6,28,166,42,1313,3.7319116527037317,Interlingua
+gtk2,78,967,12659,23,444,2317,73,13704,0.5691768826619965,Interlingua
+gtk3,21,757,11220,7,390,2092,24,11998,0.1750291715285881,Interlingua
+lyx,16933,21,0,5174,1,0,19291,16954,99.87613542526837,Interlingua <g.sora@tiscali.it>
+mailman,15548,1373,4965,1135,31,189,16447,21886,71.04084803070457,Interlingua <TradSoft@interlingua.com>
+mc,0,0,3661,0,0,1093,0,3661,0.0,Interlingua (http://www.transifex.net/projects/p/mc/team/ia/)
+mingw32-gdk-pixbuf,49,158,1106,6,28,166,42,1313,3.7319116527037317,Interlingua
+mingw32-gtk2,78,967,12659,23,444,2317,73,13704,0.5691768826619965,Interlingua
+stellarium,176,0,3186,123,0,1324,176,3362,5.234979179060083,Interlingua <ia@li.org>
+tellico,5621,0,0,1159,0,0,6214,5621,100.0,Interlingua <kde-i18n-it@kde.org>
+widelands,328,0,6489,233,0,426,328,6817,4.81150066011442,Interlingua <ia@li.org>

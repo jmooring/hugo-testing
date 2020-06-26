@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,3,0,834,3,0,149,8,837,0.35842293906810035,Cherokee <chr@li.org>
+iso-codes,120,0,866,100,0,320,114,986,12.170385395537526,Cherokee <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/chr/>

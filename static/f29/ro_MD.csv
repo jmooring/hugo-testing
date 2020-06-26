@@ -1,0 +1,52 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,671,31,63,158,9,14,710,765,87.7124183006536,Moldovan <https://weblate.elementary.io/projects/appcenter/appcenter/mo/>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,51,0,29,31,0,6,53,80,63.74999999999999,Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/>
+elementary-calendar,310,120,54,134,34,16,393,484,64.0495867768595,Moldovan <https://weblate.elementary.io/projects/calendar/calendar/mo/>
+elementary-camera,32,5,25,8,1,7,40,62,51.61290322580645,Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/>
+elementary-capnet-assist,32,0,49,5,0,8,26,81,39.50617283950617,Moldovan <https://weblate.elementary.io/projects/desktop/capnet-assist/mo/>
+elementary-code,379,94,339,133,15,50,400,812,46.67487684729064,Moldovan <https://weblate.elementary.io/projects/code/code/mo/>
+elementary-files,2150,148,520,416,37,95,2382,2818,76.29524485450673,Moldovan <https://weblate.elementary.io/projects/files/files/mo/>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,983,120,34,283,32,14,1128,1137,86.45558487247142,Moldovan <https://weblate.elementary.io/projects/music/music/mo/>
+elementary-photos,515,14,3246,54,5,734,557,3775,13.642384105960264,Moldovan <https://weblate.elementary.io/projects/photos/photos/mo/>
+elementary-screenshot-tool,120,1,8,36,1,4,149,129,93.02325581395348,Moldovan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/mo/>
+elementary-shortcut-overlay,82,0,0,37,0,0,108,82,100.0,Moldovan <https://weblate.elementary.io/projects/desktop/shortcut-overlay/mo/>
+elementary-terminal,161,4,121,39,2,25,158,286,56.29370629370629,Moldovan <https://weblate.elementary.io/projects/terminal/terminal/mo/>
+elementary-videos,93,1,56,41,1,10,104,150,62.0,Moldovan <https://weblate.elementary.io/projects/videos/videos/mo/>
+ephemeral,0,0,1809,0,0,207,0,1809,0.0,none
+granite,0,0,150,0,0,68,0,150,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,31,0,955,27,0,393,31,986,3.1440162271805274,Moldovan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mo/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,43,0,56,11,0,6,43,99,43.43434343434344,Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/mo/>
+pantheon-agent-polkit,14,0,6,7,0,3,18,20,70.0,Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/mo/>
+sequeler,0,0,1352,0,0,275,0,1352,0.0,
+stellarium,0,0,26769,0,0,6967,0,26769,0.0,Moldavian <mo@li.org>
+switchboard,40,0,21,12,0,6,42,61,65.57377049180327,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard/mo/>
+switchboard-plug-a11y,154,24,4,54,9,2,179,182,84.61538461538461,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/mo/>
+switchboard-plug-about,80,14,0,24,4,0,91,94,85.1063829787234,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/mo/>
+switchboard-plug-applications,65,15,6,22,8,2,78,86,75.5813953488372,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/mo/>
+switchboard-plug-bluetooth,69,1,4,25,1,2,85,74,93.24324324324324,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/mo/>
+switchboard-plug-display,90,9,14,38,5,4,112,113,79.64601769911505,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/mo/>
+switchboard-plug-keyboard,380,13,11,149,4,4,434,404,94.05940594059405,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/mo/>
+switchboard-plug-mouse-touchpad,64,31,55,26,13,12,77,150,42.66666666666667,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/mo/>
+switchboard-plug-networking,422,22,0,123,6,0,459,444,95.04504504504504,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/mo/>
+switchboard-plug-notifications,131,0,8,18,0,2,141,139,94.24460431654677,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/mo/>
+switchboard-plug-pantheon-shell,129,5,19,49,3,7,146,153,84.31372549019608,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/mo/>
+switchboard-plug-printers,335,0,1,137,0,1,382,336,99.70238095238095,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/mo/>
+switchboard-plug-sharing,130,0,0,28,0,0,148,130,100.0,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/mo/>
+switchboard-plug-sound,78,13,40,31,8,7,94,131,59.541984732824424,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/mo/>
+vocal,0,0,0,0,0,0,0,0,0.0,
+wingpanel,0,0,6,0,0,1,0,6,0.0,none
+wingpanel-applications-menu,0,0,222,0,0,73,0,222,0.0,
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,15,15,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/>
+wingpanel-indicator-datetime,0,0,14,0,0,4,0,14,0.0,
+wingpanel-indicator-keyboard,10,0,0,4,0,0,10,10,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/>
+wingpanel-indicator-network,76,0,0,22,0,0,89,76,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/mo/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,21,16,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/mo/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,17,16,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/mo/>
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,57,0,0,18,0,0,48,57,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/mo/>
+wingpanel-indicator-sound,14,0,0,6,0,0,15,14,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/mo/>

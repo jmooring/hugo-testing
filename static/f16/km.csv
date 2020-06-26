@@ -1,0 +1,104 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,1163,0,2812,338,0,930,612,3975,29.257861635220127,English <en@li.org>
+NetworkManager,2730,1,1,610,1,1,1548,2732,99.9267935578331,Khmer <>
+akonadi-googledata,78,8,0,17,1,0,41,86,90.69767441860465,Khmer <support@khmeros.info>
+alacarte,42,0,0,16,0,0,20,42,100.0,Khmer <>
+audacity,4259,325,6059,1205,64,1041,2403,10643,40.0169125246641,Khmer <en@li.org>
+audex,1188,1341,962,278,107,40,651,3491,34.03036379260957,Khmer <en@li.org>
+choqok,1906,50,41,470,16,15,990,1997,95.44316474712068,Khmer <support@khmeros.info>
+compiz,3,1044,2203,3,350,364,3,3250,0.0923076923076923,Khmer <i18n@suse.de>
+console-setup,979,0,0,171,0,0,511,979,100.0,Khmer <support@khmeros.info>
+debconf,805,0,0,88,0,0,413,805,100.0,Khmer <en@li.org>
+digikam,14374,384,26259,2606,44,3677,7008,41017,35.044006143794036,Khmer <support@khmeros.info>
+dpkg,4699,2306,599,660,220,85,2573,7604,61.796422935297215,<en@li.org>
+etoys,238,0,29756,97,0,5005,108,29994,0.7934920317396813,
+filezilla,85,238,8779,47,99,1394,62,9102,0.9338606899582509,Khmer <phireak@gmail.com>
+gimp,25383,0,0,6639,0,0,11898,25383,100.0,Khmer <en@li.org>
+gnash,210,38,14895,88,14,2307,170,15143,1.3867793700059434,LANGUAGE <LL@li.org>
+horde,872,0,6223,579,0,1352,671,7095,12.290345313601128,Khmer <support@khmeros.info>
+imp,5647,0,0,1135,0,0,2617,5647,100.0,Khmer <support@khmeros.info>
+inkscape,22831,1864,1833,4849,456,273,9904,26528,86.06378166465622,Khmer <en@li.org>
+iso-codes,1078,16,6,447,5,2,522,1100,98.0,Khmer <support@khmeros.info>
+k3b,19134,1289,0,2498,22,0,8356,20423,93.68848846888312,Khmer <en@li.org>
+kaffeine,514,64,12,224,30,3,386,590,87.11864406779661,Khmer <support@khmeros.info>
+kaudiocreator,1128,8,0,272,1,0,551,1136,99.29577464788733,Khmer <en@li.org>
+kcoloredit,232,34,12,77,11,7,122,278,83.45323741007195,Khmer <support@khmeros.info>
+kde-plasma-networkmanagement,3502,47,117,1003,15,15,2070,3666,95.52645935624659,Khmer <supprot@khmeros.info>
+kgrab,370,0,0,53,0,0,155,370,100.0,Khmer <support@khmeros.info>
+kiconedit,726,0,0,155,0,0,323,726,100.0,Khmer <support@khmeros.info>
+kio_gopher,17,0,0,5,0,0,13,17,100.0,Khmer <support@khmeros.info>
+kio_sysinfo,168,0,0,72,0,0,126,168,100.0,Khmer <support@khmeros.info>
+kmplayer,1248,1,0,370,1,0,671,1249,99.919935948759,Khmer <support@khmeros.info>
+knemo,1186,0,0,347,0,0,674,1186,100.0,Khmer <support@khmeros.info>
+koffice-kivio,2783,0,0,941,0,0,1856,2783,100.0,Khmer <en@li.org>
+konq-plugins,1692,0,0,546,0,0,940,1692,100.0,Khmer <support@khmeros.info>
+kopete-cryptography,408,0,0,41,0,0,109,408,100.0,Khmer <support@khmeros.info>
+kphotoalbum,603,1235,4495,154,327,282,339,6333,9.521553765987683,Khmer <support@khmeros.info>
+kpilot,39,61,7056,26,34,801,41,7156,0.5449972051425377,Khmer <support@khmeros.info>
+ksig,85,0,0,26,0,0,53,85,100.0,Khmer <support@khmeros.info>
+ktorrent,8138,5,0,1372,2,0,4048,8143,99.93859756846372,Khmer <>
+ktp-accounts-kcm,248,17,693,78,9,172,146,958,25.887265135699373,Khmer <support@khmeros.info>
+ktp-approver,76,0,0,19,0,0,57,76,100.0,Khmer <>
+ktp-auth-handler,26,0,0,12,0,0,31,26,100.0,Khmer
+ktp-contact-list,3,0,497,1,0,130,0,500,0.6,Khmer <support@khmeros.info>
+ktp-text-ui,36,7,210,12,2,65,41,253,14.229249011857709,Khmer <support@khmeros.info>
+libktorrent,519,0,0,115,0,0,295,519,100.0,Khmer <>
+libpwquality,18,0,306,6,0,45,16,324,5.555555555555555,LANGUAGE <LL@li.org>
+libreoffice,519320,11694,2980,72681,1357,247,218249,533994,97.25202904901553,LANGUAGE <LL@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Khmer <km@li.org>
+lxpanel,105,7,845,61,5,252,65,957,10.9717868338558,LANGUAGE <LL@li.org>
+lxpolkit,15,0,0,9,0,0,13,15,100.0,LANGUAGE <LL@li.org>
+lxshortcut,25,0,18,12,0,7,14,43,58.139534883720934,LANGUAGE <LL@li.org>
+mate-file-manager,33,0,9378,8,0,1513,11,9411,0.35065349059611095,LANGUAGE <LL@li.org>
+nautilus,42,398,6331,11,89,1013,14,6771,0.6202924235711121,Khmer <support@khmeros.info>
+newt,4,0,0,4,0,0,4,4,100.0,Khmer <support@khmeros.info>
+olpc-switch-desktop,18,0,140,4,0,10,4,158,11.39240506329114,LANGUAGE <LL@li.org>
+openconnect,0,0,2573,0,0,469,0,2573,0.0,Khmer (http://www.transifex.net/projects/p/meego/team/km/)
+pam,375,109,118,86,18,17,185,602,62.292358803986716,Khmer <support@khmeros.info>
+pcmanfm,60,156,583,20,37,144,26,799,7.509386733416772,LANGUAGE <LL@li.org>
+php-horde-Horde-Cli,6,0,5,1,0,2,3,11,54.54545454545454,i18n@lists.horde.org
+php-horde-Horde-Date,4,6,26,4,2,5,4,36,11.11111111111111,i18n@lists.horde.org
+php-horde-Horde-Exception,0,2,2,0,1,1,0,4,0.0,i18n@lists.horde.org
+php-horde-Horde-Nls,336,49,45,229,16,18,267,430,78.13953488372093,i18n@lists.horde.org
+pidgin,16988,840,528,3600,217,86,7782,18356,92.54739594682937,Khmer <support@khmeros.info>
+polkit-kde,86,6,0,24,2,0,72,92,93.47826086956522,Khmer <support@khmeros.info>
+pootle,2847,40,2364,2142,7,447,2207,5251,54.21824414397257,LANGUAGE <LL@li.org>
+rekonq,2264,15,53,618,4,13,1151,2332,97.08404802744425,Khmer
+rsibreak,840,393,71,118,26,19,284,1304,64.41717791411043,Khmer <support@khmeros.info>
+shadow-utils,1005,1277,939,201,124,87,775,3221,31.20149022042844,Khmer <support@khmeros.info>
+skanlite,158,14,3,54,4,1,108,175,90.28571428571428,Khmer <support@khmeros.info>
+squirrelmail,18785,0,0,3306,0,0,8243,18785,100.0,Khmer <squirrelmail-i18n@lists.sourceforge.net>
+sugar,173,16,130,47,5,64,109,319,54.2319749216301,LANGUAGE <LL@li.org>
+sugar-abacus,15,0,9,15,0,9,19,24,62.5,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,40,4,13,23,1,6,25,57,70.17543859649122,LANGUAGE <LL@li.org>
+sugar-calculator,127,4,728,73,4,89,95,859,14.78463329452852,LANGUAGE <LL@li.org>
+sugar-chat,21,5,24,10,4,19,10,50,42.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-finance,34,0,109,28,0,4,30,143,23.776223776223777,LANGUAGE <LL@li.org>
+sugar-imageviewer,17,0,7,9,0,2,9,24,70.83333333333334,LANGUAGE <LL@li.org>
+sugar-infoslicer,18,0,166,15,0,41,18,184,9.782608695652174,LANGUAGE <LL@li.org>
+sugar-jukebox,2,0,5,2,0,3,2,7,28.57142857142857,LANGUAGE <LL@li.org>
+sugar-labyrinth,82,0,172,45,0,48,47,254,32.28346456692913,LANGUAGE <LL@li.org>
+sugar-log,9,0,68,7,0,12,7,77,11.688311688311687,LANGUAGE <LL@li.org>
+sugar-measure,24,2,129,17,1,55,20,155,15.483870967741936,LANGUAGE <LL@li.org>
+sugar-memorize,58,6,50,46,6,19,65,114,50.877192982456144,LANGUAGE <LL@li.org>
+sugar-moon,57,0,34,20,0,12,43,91,62.637362637362635,LANGUAGE <LL@li.org>
+sugar-physics,13,1,14,13,1,13,13,28,46.42857142857143,LANGUAGE <LL@li.org>
+sugar-pippy,29,30,50,15,2,14,17,109,26.605504587155966,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,3,8,31,3,4,12,3,42,7.142857142857142,LANGUAGE <LL@li.org>
+sugar-read,26,0,34,17,0,14,16,60,43.333333333333336,LANGUAGE <LL@li.org>
+sugar-ruler,4,1,10,4,1,1,4,15,26.666666666666668,LANGUAGE <LL@li.org>
+sugar-surf,46,0,4,25,0,3,29,50,92.0,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2074,0,0,696,0,2074,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,17,0,0,9,0,0,9,17,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,76,2,0,39,1,0,51,78,97.43589743589743,LANGUAGE <LL@li.org>
+sugar-turtleart,147,44,2276,130,28,497,136,2467,5.958654235914065,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,27,3,101,25,3,42,25,131,20.610687022900763,LANGUAGE <LL@li.org>
+sugar-write,76,0,4,45,0,2,55,80,95.0,LANGUAGE <LL@li.org>
+tuxpaint,661,486,100,173,53,26,303,1247,53.00721732157177,Khmer <support@khmeros.info>
+tuxpaint-stamps,2263,233,215,526,89,35,1067,2711,83.47473257100701,Khmer <support@khmeros.info>
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>

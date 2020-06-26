@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-do,0,0,612,0,0,144,0,612,0.0,Inuktitut <iu@li.org>
+openerp,2,0,631,1,0,164,2,633,0.315955766192733,Inuktitut <iu@li.org>
+openerp-client,0,0,7729,0,0,574,0,7729,0.0,Inuktitut <iu@li.org>

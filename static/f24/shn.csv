@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,2,0,139,2,0,32,2,141,1.4184397163120568,Shan <shn@li.org>
+cinnamon-translations,13,0,13538,13,0,3213,13,13551,0.0959338794184931,Shan <shn@li.org>
+deja-dup,0,0,2011,0,0,327,0,2011,0.0,Shan <shn@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Shan <shn@li.org>
+mintmenu,15,0,1908,14,0,314,19,1923,0.7800312012480499,Shan <shn@li.org>
+onboard,0,0,2318,0,0,510,0,2318,0.0,Shan <shn@li.org>
+remmina,0,0,1150,0,0,342,0,1150,0.0,Shan <shn@li.org>
+shutter,361,0,2253,103,0,415,274,2614,13.810252486610558,Shan <shn@li.org>
+simple-scan,4,0,735,4,0,158,8,739,0.5412719891745602,Shan <shn@li.org>

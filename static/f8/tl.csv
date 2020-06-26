@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+glib2,1065,108,183,124,16,33,1267,1356,78.53982300884957,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+iso-codes,939,84,53,407,22,18,932,1076,87.26765799256505,Tagalog <debian-tl@banwa.upm.edu.ph>
+jokosher,1051,0,880,198,0,182,1187,1931,54.427757638529265,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+pgadmin3,1297,1343,3555,405,435,1040,1426,6195,20.936238902340598,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+shadow-utils,2136,663,116,351,38,11,2600,2915,73.2761578044597,Tagalog <debian-tl@banwa.upm.edu.ph>
+tuxpaint,215,9,367,97,2,60,236,591,36.37901861252115,LANGUAGE <LL@li.org>
+wesnoth,373,9,118685,115,3,6767,480,119067,0.3132689998068314,none
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>

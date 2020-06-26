@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class="container" role="main">
+  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ partial "breadcrumb.html" . }}
+  </div>
+  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+  {{ .Content }}
+      <p>
+          Column explanation:
+          <ul>
+            <li>Progress vs started packages (%): compare translated source words to every source word detected in each package</li>
+            <li>Progress vs release: compare translated source words to every source word detected in {{ .Params.release }}</li>
+            <li>File parsing errors: file for which po stats could not be extracted</li>
+            <li>Polib errors: polib could not open the file to extract metadata</li>
+          </ul>
+      </p>
+      <table class="contents sortable" id="languages">
+          <caption>Click on columns headers to sort values</caption>
+      <tr>
+          <th>Code</th>
+          <th>English name</th>
+          <th>Local name</th>
+          <th>Progress vs started packages (%)</th>
+          <th>Progress vs release (%)</th>
+          <th>File parsing errors</th>
+          <th>Polib errors</th>
+      </tr>
+      {{ range sort .Pages "Title" "asc" }}
+        <tr>
+            <td><a href="{{ .Permalink }}">{{ .Params.code }}</a></td>
+            <td>{{ .Params.name_english }}</td>
+            <td>{{ .Params.name_local }}</td>
+            <td>{{ .Params.progress }}</td>
+            <td>{{ .Params.progress_d }}</td>
+            <td>{{ .Params.could_not_process_count }}</td>
+            <td>{{ .Params.polib_error_count }}</td>
+        </tr>
+      {{ end }}
+    </table>
+  </div>
+</div>
+{{ end }}

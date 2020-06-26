@@ -1,0 +1,240 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+akonadi-calendar-tools,4,0,454,2,0,101,4,458,0.8733624454148471,Northern Sami <l10n-no@lister.huftis.org>
+akregator,1245,0,608,320,0,110,1007,1853,67.18834322719913,Northern Sami <l10n-no@lister.huftis.org>
+analitza,1,1,990,1,1,220,1,992,0.10080645161290322,Northern Sami <l10n-no@lister.huftis.org>
+ark,21,0,1941,17,0,351,22,1962,1.0703363914373087,Northern Sami <l10n-no@lister.huftis.org>
+bleachbit,48,12,1863,42,7,315,51,1923,2.49609984399376,
+blinken,0,0,134,0,0,47,0,134,0.0,Northern Sami <l10n-no@lister.huftis.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+bovo,0,0,81,0,0,25,0,81,0.0,Northern Sami <l10n-no@lister.huftis.org>
+calligra,9905,21,20186,2697,10,3289,8241,30112,32.893862911795964,Northern Sami <l10n-no@lister.huftis.org>
+calligraplan,16,0,1993,13,0,392,16,2009,0.7964161274265804,Northern Sami <l10n-no@lister.huftis.org>
+cervisia,2,0,1613,2,0,418,2,1615,0.12383900928792571,Northern Sami <l10n-no@lister.huftis.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,8,168,808,8,27,144,8,984,0.8130081300813009,Northern Sami <i18n-sme@lister.ping.uio.no>
+cpeditor,0,0,647,0,0,383,0,647,0.0,Northern Sami <l10n-no@lister.huftis.org>
+deja-dup,18,0,1605,18,0,267,28,1623,1.1090573012939002,Northern Sami <se@li.org>
+digikam,153,46,62810,102,31,10371,139,63009,0.2428224539351521,Northern Sami <l10n-no@lister.huftis.org>
+dippi,0,0,1540,0,0,255,0,1540,0.0,none
+dolphin,218,0,4928,89,0,662,190,5146,4.236300038865138,Northern Sami <l10n-no@lister.huftis.org>
+elementary-code,0,0,1572,0,0,294,0,1572,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2538,0,0,551,0,2538,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,207,0,0,41,0,207,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+gala,0,0,259,0,0,56,0,259,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,369,0,0,86,0,369,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+juk,3,0,1523,2,0,360,3,1526,0.19659239842726078,Northern Sami <l10n-no@lister.huftis.org>
+k3b,209,12,19952,162,4,2354,213,20173,1.0360382689733802,Northern Sami <l10n-no@lister.huftis.org>
+kactivitymanagerd,1,0,10,1,0,4,1,11,9.090909090909092,Northern Sami <l10n-no@lister.huftis.org>
+kaddressbook,82,0,1055,44,0,190,67,1137,7.211961301671065,Northern Sami <l10n-no@lister.huftis.org>
+kaffeine,68,0,1325,47,0,450,61,1393,4.881550610193827,Northern Sami <i18n-sme@lister.ping.uio.no>
+kalarm,5,0,8384,3,0,1225,5,8389,0.059601859578018834,Northern Sami <l10n-no@lister.huftis.org>
+kalgebra,1,0,165,1,0,80,1,166,0.6024096385542169,Northern Sami <l10n-no@lister.huftis.org>
+kalzium,15,0,9090,8,0,1293,15,9105,0.16474464579901155,Northern Sami <l10n-no@lister.huftis.org>
+kamera,44,0,298,14,0,23,34,342,12.865497076023392,Northern Sami <l10n-no@lister.huftis.org>
+kanagram,4,0,523,4,0,140,4,527,0.7590132827324478,Northern Sami <l10n-no@lister.huftis.org>
+kate,431,42,2936,86,7,602,337,3409,12.643003813435024,Northern Sami <l10n-no@lister.huftis.org>
+katomic,0,0,184,0,0,59,0,184,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kaudiocreator,7,0,1129,4,0,269,7,1136,0.6161971830985915,Northern Sami <i18n-sme@lister.ping.uio.no>
+kblackbox,0,0,1367,0,0,103,0,1367,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kbounce,32,0,124,10,0,33,30,156,20.51282051282051,Northern Sami <l10n-no@lister.huftis.org>
+kbruch,0,0,1347,0,0,198,0,1347,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kcachegrind,0,0,4367,0,0,562,0,4367,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kcalc,2,0,1068,2,0,348,2,1070,0.1869158878504673,Northern Sami <l10n-no@lister.huftis.org>
+kcharselect,3,0,85,2,0,32,3,88,3.4090909090909087,Northern Sami <l10n-no@lister.huftis.org>
+kcoloredit,7,1,270,4,1,90,7,278,2.5179856115107913,Northern Sami <i18n-sme@lister.ping.uio.no>
+kcron,59,0,443,58,0,122,90,502,11.752988047808765,Northern Sami <l10n-no@lister.huftis.org>
+kde-cli-tools,731,0,1404,112,0,105,554,2135,34.23887587822014,Northern Sami <l10n-no@lister.huftis.org>
+kde-dev-utils,2,0,64,1,0,23,2,66,3.0303030303030303,Northern Sami <l10n-no@lister.huftis.org>
+kde-style-breeze,8,0,146,7,0,60,9,154,5.194805194805195,Northern Sami <l10n-no@lister.huftis.org>
+kdenetwork-filesharing,0,0,992,0,0,110,0,992,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kdepim-addons,60,4,1912,25,2,340,54,1976,3.0364372469635628,Northern Sami <l10n-no@lister.huftis.org>
+kdepim-runtime,17,0,38,10,0,21,15,55,30.909090909090907,Northern Sami <l10n-no@lister.huftis.org>
+kdevelop,2,0,694,1,0,161,2,696,0.28735632183908044,Northern Sami <l10n-no@lister.huftis.org>
+kdf,0,0,195,0,0,71,0,195,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kdialog,62,0,329,19,0,59,44,391,15.856777493606138,Northern Sami <l10n-no@lister.huftis.org>
+kdnssd,0,0,30,0,0,7,0,30,0.0,Northern Sami <l10n-no@lister.huftis.org>
+keditbookmarks,301,0,165,92,0,40,255,466,64.59227467811158,Northern Sami <l10n-no@lister.huftis.org>
+kexi,44,0,7296,26,0,1454,41,7340,0.5994550408719346,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-akonadi-server,19,1,2504,10,1,417,18,2524,0.7527733755942948,Northern Sami <l10n-no@lister.huftis.org>
+kf5-audiocd-kio,22,0,835,5,0,171,17,857,2.5670945157526255,Northern Sami <l10n-no@lister.huftis.org>
+kf5-calendarsupport,79,7,2693,32,4,355,66,2779,2.842749190356243,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kbookmarks,0,112,118,0,25,24,0,230,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kcalendarutils,5,0,1432,5,0,388,5,1437,0.3479471120389701,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kcmutils,183,0,83,22,0,16,135,266,68.796992481203,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kcodecs,0,27,343,0,19,34,0,370,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kcompletion,0,15,3,0,9,2,0,18,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kconfig,0,35,254,0,4,100,0,289,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kconfigwidgets,292,0,50,104,0,21,257,342,85.38011695906432,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kcontacts,0,0,177,0,0,108,0,177,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kcoreaddons,0,181,201,0,60,72,0,382,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kdbusaddons,0,0,48,0,0,6,0,48,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kdeclarative,58,24,79,7,1,17,44,161,36.024844720496894,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kdelibs4support,2755,944,1654,1329,629,586,2587,5353,51.46646740145713,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kdesu,19,0,0,7,0,0,18,19,100.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kglobalaccel,0,54,17,0,6,3,0,71,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kholidays,0,0,150,0,0,97,0,150,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-khtml,1548,2,117,279,1,9,1098,1667,92.86142771445711,Northern Sami <l10n-no@lister.huftis.org>
+kf5-ki18n,42,67,15,42,53,15,50,124,33.87096774193548,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kiconthemes,12,0,29,11,0,8,12,41,29.268292682926827,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kidentitymanagement,0,0,182,0,0,24,0,182,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kinit,90,23,3,8,2,1,81,116,77.58620689655173,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kio,6302,160,5575,838,41,494,4681,12037,52.35523801611697,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kipi-plugins,13,0,401,12,0,82,14,414,3.140096618357488,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kitemviews,0,0,7,0,0,4,0,7,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kjobwidgets,0,123,10,0,36,2,0,133,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kjsembed,242,0,6,43,0,1,214,248,97.58064516129032,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kldap,20,0,207,5,0,56,15,227,8.81057268722467,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kmailtransport,113,0,550,39,0,66,82,663,17.043740573152338,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kmime,132,0,27,9,0,1,104,159,83.01886792452831,Northern Sami <l10n-no@lister.huftis.org>
+kf5-knewstuff,302,0,1329,72,0,159,264,1631,18.516247700797056,Northern Sami <l10n-no@lister.huftis.org>
+kf5-knotifications,0,10,11,0,2,6,0,21,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-knotifyconfig,86,0,43,16,0,1,60,129,66.66666666666666,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kparts,104,0,34,26,0,4,80,138,75.36231884057972,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kpty,15,0,0,4,0,0,13,15,100.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kross,82,18,0,29,6,0,71,100,82.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kservice,98,30,45,15,8,5,78,173,56.64739884393064,Northern Sami <l10n-no@lister.huftis.org>
+kf5-ktexteditor,3437,100,5696,576,36,652,2553,9233,37.225170583775586,Northern Sami <l10n-no@lister.huftis.org>
+kf5-ktextwidgets,444,0,29,115,0,15,382,473,93.86892177589851,Northern Sami <l10n-no@lister.huftis.org>
+kf5-ktnef,108,0,247,51,0,92,80,355,30.422535211267604,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kunitconversion,754,2,5001,259,1,2223,603,5757,13.09709918360257,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kwidgetsaddons,0,590,703,0,243,220,0,1293,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kxmlgui,959,25,590,122,5,103,741,1574,60.92757306226175,Northern Sami <l10n-no@lister.huftis.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,9,13,100.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-libkcddb,20,0,380,10,0,201,21,400,5.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-libkcompactdisc,0,0,15,0,0,10,0,15,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-libkdepim,4,0,31,1,0,9,0,35,11.428571428571429,Northern Sami <l10n-no@lister.huftis.org>
+kf5-libkleo,51,0,2372,34,0,396,44,2423,2.1048287247214197,Northern Sami <l10n-no@lister.huftis.org>
+kf5-libksieve,95,0,3027,70,0,467,84,3122,3.042921204356182,Northern Sami <l10n-no@lister.huftis.org>
+kf5-libktorrent,0,0,465,0,0,105,0,465,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-mailcommon,518,0,2237,70,0,428,415,2755,18.8021778584392,Northern Sami <l10n-no@lister.huftis.org>
+kf5-mailimporter,34,7,1367,9,1,117,24,1408,2.414772727272727,Northern Sami <l10n-no@lister.huftis.org>
+kf5-messagelib,685,0,3007,205,0,592,580,3692,18.553629469122427,Northern Sami <l10n-no@lister.huftis.org>
+kf5-solid,0,0,588,0,0,159,0,588,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-sonnet,0,639,44,0,67,9,0,683,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kf5-syntax-highlighting,0,0,647,0,0,383,0,647,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kfind,238,0,279,55,0,62,203,517,46.03481624758221,Northern Sami <l10n-no@lister.huftis.org>
+kfloppy,0,0,641,0,0,100,0,641,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kgamma,34,0,96,14,0,2,25,130,26.153846153846157,Northern Sami <l10n-no@lister.huftis.org>
+kgeography,3,0,10009,3,0,7234,3,10012,0.02996404314822213,Northern Sami <l10n-no@lister.huftis.org>
+kget,10,21,2745,8,17,718,10,2776,0.36023054755043227,Northern Sami <l10n-no@lister.huftis.org>
+kgoldrunner,3,0,28008,3,0,1005,3,28011,0.01071007818357074,Northern Sami <l10n-no@lister.huftis.org>
+kgpg,3,0,5269,3,0,695,3,5272,0.05690440060698027,Northern Sami <l10n-no@lister.huftis.org>
+kgrab,0,0,370,0,0,53,0,370,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kgraphviewer,5,0,1200,3,0,212,3,1205,0.4149377593360996,Northern Sami <i18n-sme@lister.ping.uio.no>
+khangman,8,0,467,6,0,114,8,475,1.6842105263157894,Northern Sami <l10n-no@lister.huftis.org>
+khelpcenter,71,0,194,34,0,56,62,265,26.79245283018868,Northern Sami <l10n-no@lister.huftis.org>
+khotkeys,98,0,353,34,0,102,78,451,21.729490022172946,Northern Sami <l10n-no@lister.huftis.org>
+kiconedit,54,0,672,32,0,123,44,726,7.43801652892562,Northern Sami <i18n-sme@lister.ping.uio.no>
+kig,0,0,7857,0,0,1286,0,7857,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kinfocenter,41,0,220,25,0,97,46,261,15.708812260536398,Northern Sami <l10n-no@lister.huftis.org>
+kio-extras,152,0,783,39,0,85,123,935,16.25668449197861,Northern Sami <l10n-no@lister.huftis.org>
+kiriki,0,0,144,0,0,50,0,144,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kiten,3,0,680,3,0,170,4,683,0.43923865300146414,Northern Sami <l10n-no@lister.huftis.org>
+kjots,2,0,649,1,0,133,1,651,0.30721966205837176,Northern Sami <l10n-no@lister.huftis.org>
+kjumpingcube,5,0,408,4,0,91,5,413,1.2106537530266344,Northern Sami <l10n-no@lister.huftis.org>
+kleopatra,72,0,12457,37,0,1866,63,12529,0.5746667730864394,Northern Sami <l10n-no@lister.huftis.org>
+klettres,0,0,440,0,0,85,0,440,0.0,Northern Sami <l10n-no@lister.huftis.org>
+klines,2,0,97,1,0,27,1,99,2.0202020202020203,Northern Sami <l10n-no@lister.huftis.org>
+kmag,0,0,432,0,0,98,0,432,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kmahjongg,1,0,376,1,0,103,2,377,0.2652519893899204,Northern Sami <l10n-no@lister.huftis.org>
+kmail,1641,4,6838,444,1,888,1349,8483,19.344571495933042,Northern Sami <l10n-no@lister.huftis.org>
+kmail-account-wizard,143,0,665,38,0,88,106,808,17.698019801980198,Northern Sami <l10n-no@lister.huftis.org>
+kmenuedit,175,0,110,34,0,33,135,285,61.40350877192983,Northern Sami <l10n-no@lister.huftis.org>
+kmines,0,0,156,0,0,45,0,156,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kmix,191,0,941,54,0,170,158,1132,16.872791519434628,Northern Sami <l10n-no@lister.huftis.org>
+kmousetool,0,0,147,0,0,32,0,147,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kmouth,4,0,1492,2,0,206,4,1496,0.267379679144385,Northern Sami <l10n-no@lister.huftis.org>
+kmplot,2,0,2498,2,0,483,2,2500,0.08,Northern Sami <l10n-no@lister.huftis.org>
+knavalbattle,0,0,401,1,0,103,0,401,0.0,Northern Sami <l10n-no@lister.huftis.org>
+knetwalk,3,0,240,3,0,53,3,243,1.2345679012345678,Northern Sami <l10n-no@lister.huftis.org>
+knotes,46,0,555,31,0,159,48,601,7.653910149750416,Northern Sami <l10n-no@lister.huftis.org>
+koffice-kivio,3903,450,4064,1342,141,878,3231,8417,46.37044077462279,Northern Sami <i18n-sme@lister.ping.uio.no>
+kolf,0,0,401,0,0,148,0,401,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kolourpaint,690,0,1886,225,0,225,597,2576,26.785714285714285,Northern Sami <l10n-no@lister.huftis.org>
+kompare,1,0,1412,1,0,199,1,1413,0.07077140835102619,Northern Sami <l10n-no@lister.huftis.org>
+konqueror,2654,2,4521,412,2,539,2050,7177,36.97923923644977,Northern Sami <l10n-no@lister.huftis.org>
+konquest,2,0,244,2,0,96,2,246,0.8130081300813009,Northern Sami <l10n-no@lister.huftis.org>
+konsole5,339,0,3657,91,0,749,266,3996,8.483483483483484,Northern Sami <l10n-no@lister.huftis.org>
+kontact,24,0,468,8,0,79,21,492,4.878048780487805,Northern Sami <l10n-no@lister.huftis.org>
+kopete,2760,0,14415,814,0,2481,2231,17175,16.06986899563319,Northern Sami <l10n-no@lister.huftis.org>
+korganizer,159,1,6734,87,1,793,146,6894,2.3063533507397738,Northern Sami <l10n-no@lister.huftis.org>
+kpat,186,0,379,58,0,141,161,565,32.92035398230089,Northern Sami <l10n-no@lister.huftis.org>
+kphotoalbum,17,0,8991,14,0,1043,18,9008,0.18872113676731794,Northern Sami <l10n-no@lister.huftis.org>
+kpilot,31,0,7125,24,0,837,31,7156,0.43320290665176076,Northern Sami <i18n-sme@lister.ping.uio.no>
+krdc,10,0,1152,8,0,252,11,1162,0.8605851979345954,Northern Sami <l10n-no@lister.huftis.org>
+kreport,0,15,396,0,7,165,0,411,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kreversi,149,0,276,60,0,80,142,425,35.05882352941177,Northern Sami <l10n-no@lister.huftis.org>
+krfb,2,0,733,2,0,103,2,735,0.27210884353741494,Northern Sami <l10n-no@lister.huftis.org>
+krita,1641,114,34169,608,66,7878,1382,35924,4.567976839995546,Northern Sami <l10n-no@lister.huftis.org>
+kruler,5,0,153,3,0,41,5,158,3.1645569620253164,Northern Sami <l10n-no@lister.huftis.org>
+kshisen,0,0,667,0,0,75,0,667,0.0,Northern Sami <l10n-no@lister.huftis.org>
+ksig,0,14,71,0,11,15,0,85,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kspaceduel,0,0,165,0,0,81,0,165,0.0,Northern Sami <l10n-no@lister.huftis.org>
+ksquares,0,0,260,0,0,78,0,260,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kstars,121,0,58642,117,0,12526,122,58763,0.20591188332794447,Northern Sami <l10n-no@lister.huftis.org>
+ksudoku,2,0,1744,2,0,161,2,1746,0.11454753722794961,Northern Sami <l10n-no@lister.huftis.org>
+ksysguard,715,0,378,154,0,83,570,1093,65.41628545288198,Northern Sami <l10n-no@lister.huftis.org>
+kteatime,4,0,199,3,0,64,4,203,1.9704433497536946,Northern Sami <l10n-no@lister.huftis.org>
+ktimer,0,0,258,0,0,53,0,258,0.0,Northern Sami <l10n-no@lister.huftis.org>
+ktorrent,10,0,7452,6,0,1355,11,7462,0.13401232913428035,Northern Sami <l10n-no@lister.huftis.org>
+ktouch,27,0,937,26,0,233,28,964,2.8008298755186725,Northern Sami <l10n-no@lister.huftis.org>
+ktuberling,2,0,156,1,0,37,2,158,1.2658227848101267,Northern Sami <l10n-no@lister.huftis.org>
+kturtle,0,0,1538,0,0,349,0,1538,0.0,Northern Sami <l10n-no@lister.huftis.org>
+kwalletmanager5,11,0,828,8,0,161,13,839,1.3110846245530394,Northern Sami <l10n-no@lister.huftis.org>
+kwin,759,0,4293,154,0,760,572,5052,15.02375296912114,Northern Sami <l10n-no@lister.huftis.org>
+kwordquiz,0,0,252,0,0,92,0,252,0.0,Northern Sami <l10n-no@lister.huftis.org>
+lazarus,98,3,286,43,2,87,81,387,25.32299741602067,
+libkdegames,322,0,48,113,0,19,277,370,87.02702702702703,Northern Sami <l10n-no@lister.huftis.org>
+libkeduvocdocument,0,0,171,0,0,81,0,171,0.0,Northern Sami <l10n-no@lister.huftis.org>
+libkmahjongg,0,0,7,0,0,7,0,7,0.0,Northern Sami <l10n-no@lister.huftis.org>
+libkomparediff2,0,0,143,0,0,19,0,143,0.0,Northern Sami <l10n-no@lister.huftis.org>
+libksysguard,112,0,3372,50,0,310,100,3484,3.214695752009185,Northern Sami <l10n-no@lister.huftis.org>
+libmypaint,2,0,2301,2,0,160,2,2303,0.08684324793747286,Northern Sami <https://hosted.weblate.org/projects/mypaint/libmypaint/se/>
+lskat,0,0,254,0,0,83,0,254,0.0,Northern Sami <l10n-no@lister.huftis.org>
+marble,3,0,11553,1,0,3317,3,11556,0.02596053997923157,Northern Sami <l10n-no@lister.huftis.org>
+mypaint,15,13,6353,13,8,1249,15,6381,0.23507287259050302,Northern Sami <https://hosted.weblate.org/projects/mypaint/mypaint/se/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okular,63,0,5448,36,0,1137,59,5511,1.1431682090364725,Northern Sami <l10n-no@lister.huftis.org>
+onboard,48,0,2270,46,0,464,48,2318,2.070750647109577,Northern Sami <se@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+parley,20,0,3413,12,0,717,19,3433,0.5825808330905913,Northern Sami <l10n-no@lister.huftis.org>
+phonon-backend-gstreamer,0,0,104,0,0,15,0,104,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+phonon-qt4,0,0,116,0,0,25,0,116,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+phonon-qt4-backend-gstreamer,0,0,104,0,0,15,0,104,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+plasma-breeze,4,0,140,4,0,52,5,144,2.7777777777777777,Northern Sami <l10n-no@lister.huftis.org>
+plasma-desktop,854,2,3467,158,1,516,614,4323,19.75479990747166,Northern Sami <l10n-no@lister.huftis.org>
+plasma-drkonqi,9,0,1975,4,0,199,7,1984,0.45362903225806456,Northern Sami <l10n-no@lister.huftis.org>
+plasma-oxygen,63,4,719,43,2,236,58,786,8.015267175572518,Northern Sami <l10n-no@lister.huftis.org>
+plasma-sdk,1,0,249,1,0,62,1,250,0.4,Northern Sami <l10n-no@lister.huftis.org>
+plasma-systemsettings,7,0,205,4,0,50,6,212,3.30188679245283,Northern Sami <l10n-no@lister.huftis.org>
+plasma-workspace,563,14,4969,216,1,920,455,5546,10.151460512080778,Northern Sami <l10n-no@lister.huftis.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+rsibreak,0,0,1209,0,0,160,0,1209,0.0,Northern Sami <l10n-no@lister.huftis.org>
+simple-scan,29,0,560,22,0,123,33,589,4.923599320882852,Northern Sami <se@li.org>
+slick-greeter,13,0,203,9,0,40,12,216,6.018518518518518,Northern Sami <se@li.org>
+snownews,759,0,32,154,0,9,792,791,95.95448798988622,Mats Berglund <mats@mosebok.org>
+sweeper,5,0,223,3,0,47,5,228,2.1929824561403506,Northern Sami <l10n-no@lister.huftis.org>
+transifex-client,0,0,0,0,0,0,0,0,0.0,
+transmission,86,0,2355,73,0,512,93,2441,3.5231462515362555,Northern Sami (https://app.transifex.com/transmissionbt/teams/33778/se/)
+ufw,0,0,879,0,0,181,0,879,0.0,Northern Sami <se@li.org>
+umbrello,36,0,5651,32,0,1575,38,5687,0.6330226833128186,Northern Sami <l10n-no@lister.huftis.org>
+vdr-skinenigmang,29,3,302,13,1,120,22,334,8.682634730538922,<vdr@linuxtv.org>
+wingpanel,0,0,16,0,0,3,0,16,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,283,0,0,83,0,283,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,63,0,0,19,0,63,0.0,

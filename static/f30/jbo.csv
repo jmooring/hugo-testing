@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,Lojban <jbo@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,none
+fragments,49,0,1957,30,0,496,70,2006,2.4426719840478563,Lojban (https://www.transifex.com/transmissionbt/teams/33778/jbo/)
+minetest,174,177,6055,82,91,851,325,6406,2.7162035591632843,Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/>
+supertux,229,0,2751,81,0,837,343,2980,7.684563758389262,Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/)
+supertuxkart,257,0,5084,117,0,910,428,5341,4.811832990076765,Lojban (http://www.transifex.com/supertuxkart/supertuxkart/language/jbo/)
+switchboard,0,0,124,0,0,26,0,124,0.0,none

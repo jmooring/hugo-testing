@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,725,0,2884,273,0,396,977,3609,20.088667220836797,Manx <gv@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+epiphany,2764,198,82,666,44,21,3387,3044,90.80157687253615,Manx <reuben03@live.com>
+fragments,27,2,1977,19,1,506,45,2006,1.3459621136590227,Manx <gv@li.org>
+gdm,206,91,353,41,16,30,246,650,31.692307692307693,Manx <gv@li.org>
+gnome-menus,84,0,41,36,0,10,92,125,67.2,Manx <gv@li.org>
+gnome-panel,2875,294,351,441,31,36,3382,3520,81.67613636363636,Manx <gv@li.org>
+gnome-shell-frippery,4,0,0,1,0,0,5,4,100.0,
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,253,10,723,191,3,228,374,986,25.65922920892495,Manx <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gv/>
+isomaster,9,0,665,8,0,99,14,674,1.3353115727002967,http://littlesvr.ca/ostd/
+mate-menu,229,23,56,91,7,12,310,308,74.35064935064936,Manx <gv@li.org>
+nautilus,7497,863,524,1268,138,37,9107,8884,84.38766321476812,Manx <gv@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+totem,2169,0,416,530,0,57,2630,2585,83.90715667311413,Manx <gv@li.org>
+transmission,25,2,2414,18,1,566,41,2441,1.0241704219582137,Manx <gv@li.org>

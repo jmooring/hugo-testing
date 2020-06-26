@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+avogadro2,35,11,328,14,5,134,42,374,9.358288770053475,Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadroapp/sa/>
+avogadro2-libs,1,0,4611,1,0,1388,1,4612,0.02168256721595837,Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sa/>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,3,0,6965,2,0,1722,2,6968,0.04305396096440872,Sanskrit <sa@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+inkscape,20469,10613,9847,4544,2799,1325,15016,40929,50.01099464927069,Hindi <Indlinux>
+libreoffice,50400,15353,102647,15962,5975,16383,36363,168400,29.928741092636578,LANGUAGE <LL@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,7,0,2311,6,0,504,6,2318,0.30198446937014667,Sanskrit <sa@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,66,0,145,26,0,21,45,211,31.27962085308057,Sanskrit <sa@li.org>
+tuxpaint,1120,1020,1623,245,109,107,803,3763,29.763486579856497,

@@ -1,0 +1,80 @@
+---
+title: "fractal - translation progress for f42"
+package: fractal
+date: 2026-01-18T12:06:17+00:00
+started_languages: 42
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 43
+release: f42
+---
+The package fractal (version 12.1):
+
+* represents 5695 source words to be translated
+* is translated into 42 languages in Fedora f42
+
+
+* contains 43 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [bg]({{< ref "/f42/language/bg.md" >}}) | 5251 | 5251 | 100.0 | /mnt/stockage/packages/f42/fractal/po/bg.po | 
+ | [ca]({{< ref "/f42/language/ca.md" >}}) | 866 | 866 | 100.0 | /mnt/stockage/packages/f42/fractal/po/ca.po | 
+ | [cs]({{< ref "/f42/language/cs.md" >}}) | 5345 | 5345 | 100.0 | /mnt/stockage/packages/f42/fractal/po/cs.po | 
+ | [da]({{< ref "/f42/language/da.md" >}}) | 2647 | 2647 | 100.0 | /mnt/stockage/packages/f42/fractal/po/da.po | 
+ | [de]({{< ref "/f42/language/de.md" >}}) | 5217 | 5217 | 100.0 | /mnt/stockage/packages/f42/fractal/po/de.po | 
+ | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 4982 | 4982 | 100.0 | /mnt/stockage/packages/f42/fractal/po/en_GB.po | 
+ | [eo]({{< ref "/f42/language/eo.md" >}}) | 700 | 700 | 100.0 | /mnt/stockage/packages/f42/fractal/po/eo.po | 
+ | [es]({{< ref "/f42/language/es.md" >}}) | 4988 | 4988 | 100.0 | /mnt/stockage/packages/f42/fractal/po/es.po | 
+ | [eu]({{< ref "/f42/language/eu.md" >}}) | 5176 | 5176 | 100.0 | /mnt/stockage/packages/f42/fractal/po/eu.po | 
+ | [fr]({{< ref "/f42/language/fr.md" >}}) | 5695 | 5695 | 100.0 | /mnt/stockage/packages/f42/fractal/po/fr.po | 
+ | [fur]({{< ref "/f42/language/fur.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f42/fractal/po/fur.po | 
+ | [fy]({{< ref "/f42/language/fy.md" >}}) | 866 | 866 | 100.0 | /mnt/stockage/packages/f42/fractal/po/fy.po | 
+ | [hi]({{< ref "/f42/language/hi.md" >}}) | 5235 | 5235 | 100.0 | /mnt/stockage/packages/f42/fractal/po/hi.po | 
+ | [hr]({{< ref "/f42/language/hr.md" >}}) | 866 | 866 | 100.0 | /mnt/stockage/packages/f42/fractal/po/hr.po | 
+ | [hu]({{< ref "/f42/language/hu.md" >}}) | 2643 | 2643 | 100.0 | /mnt/stockage/packages/f42/fractal/po/hu.po | 
+ | [ja]({{< ref "/f42/language/ja.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f42/fractal/po/ja.po | 
+ | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 5266 | 5266 | 100.0 | /mnt/stockage/packages/f42/fractal/po/nb.po | 
+ | [pl]({{< ref "/f42/language/pl.md" >}}) | 2643 | 2643 | 100.0 | /mnt/stockage/packages/f42/fractal/po/pl.po | 
+ | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 5695 | 5695 | 100.0 | /mnt/stockage/packages/f42/fractal/po/pt_BR.po | 
+ | [ro]({{< ref "/f42/language/ro.md" >}}) | 866 | 866 | 100.0 | /mnt/stockage/packages/f42/fractal/po/ro.po | 
+ | [ru]({{< ref "/f42/language/ru.md" >}}) | 5695 | 5695 | 100.0 | /mnt/stockage/packages/f42/fractal/po/ru.po | 
+ | [sl]({{< ref "/f42/language/sl.md" >}}) | 5695 | 5695 | 100.0 | /mnt/stockage/packages/f42/fractal/po/sl.po | 
+ | [sr]({{< ref "/f42/language/sr.md" >}}) | 1732 | 1732 | 100.0 | /mnt/stockage/packages/f42/fractal/po/sr@latin.po/mnt/stockage/packages/f42/fractal/po/sr.po | 
+ | [sv]({{< ref "/f42/language/sv.md" >}}) | 5695 | 5695 | 100.0 | /mnt/stockage/packages/f42/fractal/po/sv.po | 
+ | [tr]({{< ref "/f42/language/tr.md" >}}) | 5336 | 5336 | 100.0 | /mnt/stockage/packages/f42/fractal/po/tr.po | 
+ | [uk]({{< ref "/f42/language/uk.md" >}}) | 5695 | 5695 | 100.0 | /mnt/stockage/packages/f42/fractal/po/uk.po | 
+ | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 5695 | 5695 | 100.0 | /mnt/stockage/packages/f42/fractal/po/zh_CN.po | 
+ | [uz]({{< ref "/f42/language/uz.md" >}}) | 5360 | 5361 | 100.0 | /mnt/stockage/packages/f42/fractal/po/uz.po | 
+ | [sk]({{< ref "/f42/language/sk.md" >}}) | 353 | 368 | 95.9 | /mnt/stockage/packages/f42/fractal/po/sk.po | 
+ | [id]({{< ref "/f42/language/id.md" >}}) | 4639 | 5263 | 88.1 | /mnt/stockage/packages/f42/fractal/po/id.po | 
+ | [fi]({{< ref "/f42/language/fi.md" >}}) | 4071 | 5360 | 76.0 | /mnt/stockage/packages/f42/fractal/po/fi.po | 
+ | [fa]({{< ref "/f42/language/fa.md" >}}) | 3630 | 5215 | 69.6 | /mnt/stockage/packages/f42/fractal/po/fa.po | 
+ | [nl]({{< ref "/f42/language/nl.md" >}}) | 3248 | 4918 | 66.0 | /mnt/stockage/packages/f42/fractal/po/nl.po | 
+ | [el]({{< ref "/f42/language/el.md" >}}) | 535 | 831 | 64.4 | /mnt/stockage/packages/f42/fractal/po/el.po | 
+ | [it]({{< ref "/f42/language/it.md" >}}) | 2907 | 5695 | 51.0 | /mnt/stockage/packages/f42/fractal/po/it.po | 
+ | [pt]({{< ref "/f42/language/pt.md" >}}) | 2398 | 4982 | 48.1 | /mnt/stockage/packages/f42/fractal/po/pt.po | 
+ | [gl]({{< ref "/f42/language/gl.md" >}}) | 1176 | 2632 | 44.7 | /mnt/stockage/packages/f42/fractal/po/gl.po | 
+ | [he]({{< ref "/f42/language/he.md" >}}) | 1588 | 5217 | 30.4 | /mnt/stockage/packages/f42/fractal/po/he.po | 
+ | [th]({{< ref "/f42/language/th.md" >}}) | 1363 | 5345 | 25.5 | /mnt/stockage/packages/f42/fractal/po/th.po | 
+ | [ka]({{< ref "/f42/language/ka.md" >}}) | 832 | 5695 | 14.6 | /mnt/stockage/packages/f42/fractal/po/ka.po | 
+ | [kk]({{< ref "/f42/language/kk.md" >}}) | 170 | 4628 | 3.7 | /mnt/stockage/packages/f42/fractal/po/kk.po | 
+ | [oc]({{< ref "/f42/language/oc.md" >}}) | 117 | 5217 | 2.2 | /mnt/stockage/packages/f42/fractal/po/oc.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

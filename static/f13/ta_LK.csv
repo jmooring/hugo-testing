@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-gmail,268,0,0,39,0,0,199,268,100.0,Tamil (Sri-Lanka) <ta_LK@li.org>
+squirrelmail,5012,869,61,1022,111,16,4284,5942,84.34870414002019,LAKapps <squirrelmail-i18n@lists.sourceforge.net>

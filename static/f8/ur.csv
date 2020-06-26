@@ -1,0 +1,47 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,6255,2861,1087,909,232,104,7892,10203,61.30549838282858,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com>
+authconfig,988,41,104,193,8,22,1367,1133,87.20211827007944,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+chkconfig,417,13,0,86,2,0,439,430,96.97674418604652,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com>
+compiz,0,0,66,0,0,11,0,66,0.0,none
+firstboot,499,2,97,56,1,2,619,598,83.4448160535117,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+gnome-desktop,15,3,305,9,3,61,16,323,4.643962848297214,UrduWeb Localization Team <l10n@urduweb.org>
+gnomebaker,53,0,1133,21,0,270,34,1186,4.4688026981450255,Urdu <urd@li.org>
+gtk2,18,42,12032,18,29,2365,20,12092,0.14885874958650347,UrduWeb Localization Team <l10n@urduweb.org>
+hwbrowser,0,0,117,0,0,52,0,117,0.0,none
+im-chooser,0,0,172,0,0,24,0,172,0.0,none
+initscripts,0,0,3733,0,0,857,0,3733,0.0,none
+iso-codes,3,13,12158,3,13,8519,3,12174,0.02464268112370626,Urdu
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kudzu,0,0,73,0,0,13,0,73,0.0,none
+libvirt,1290,656,351,308,127,72,1290,2297,56.160208968219415,none
+passwd,0,0,291,0,0,51,0,291,0.0,none
+poedit,1116,18,0,260,6,0,1443,1134,98.4126984126984,UrduWeb Localization Team <l10n@urduweb.org>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,216,11,34,71,4,11,397,261,82.75862068965517,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+rhgb,95,26,0,24,5,0,165,121,78.51239669421489,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+rhpxl,0,0,136,0,0,43,0,136,0.0,none
+setroubleshoot,0,0,507,0,0,136,0,507,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7829,0,0,233,0,7829,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,60,0,0,17,0,60,0.0,none
+specspo,0,0,305286,0,0,16847,0,305286,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9416,0,0,1061,0,9416,0.0,none
+system-config-boot,41,0,5,9,0,1,73,46,89.13043478260869,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-date,81,98,818,19,12,577,112,997,8.124373119358076,SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com>
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-firewall,0,0,2956,0,0,279,0,2956,0.0,none
+system-config-httpd,816,42,0,204,19,0,1263,858,95.1048951048951,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-keyboard,78,0,0,12,0,0,115,78,100.0,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-kickstart,975,38,41,261,8,12,1241,1054,92.50474383301707,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-language,0,0,45,0,0,10,0,45,0.0,none
+system-config-netboot,10,0,1078,3,0,158,10,1088,0.9191176470588236,none
+system-config-network,2617,210,184,650,48,35,3570,3011,86.91464629691133,SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com>
+system-config-nfs,0,0,318,0,0,73,0,318,0.0,none
+system-config-rootpassword,0,0,50,0,0,9,0,50,0.0,none
+system-config-samba,0,0,423,0,0,138,0,423,0.0,none
+system-config-services,0,0,232,0,0,62,0,232,0.0,none
+system-config-soundcard,0,0,224,0,0,51,0,224,0.0,none
+system-config-users,0,0,1186,0,0,165,0,1186,0.0,none
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none

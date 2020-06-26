@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+exaile,2,0,2174,2,0,585,2,2176,0.09191176470588235,Franco-Provençal <frp@li.org>
+lxdm,0,0,11,0,0,10,0,11,0.0,LANGUAGE <LL@li.org>
+oggconvert,89,11,52,39,2,3,111,152,58.55263157894737,Franco-Provençal <frp@li.org>

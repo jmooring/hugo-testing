@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bittorrent,13,0,3893,3,0,631,11,3906,0.33282130056323606,LANGUAGE <LL@li.org>
+deluge,4,0,2265,3,0,449,9,2269,0.17628911414720141,Klingon; tlhIngan-Hol <tlh@li.org>
+tuxpaint,34,4,553,32,4,123,33,591,5.752961082910321,Bill Kendrick <nbs@sonic.net>

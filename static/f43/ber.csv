@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,30,0,8278,20,0,2110,32,8308,0.36109773712084736,Berber (Other) <ber@li.org>
+cpu-x,0,0,1711,0,0,377,0,1711,0.0,none
+lightdm-settings,16,0,339,11,0,63,20,355,4.507042253521127,Berber (Other) <ber@li.org>
+remmina,3,64,5340,1,54,963,3,5407,0.0554836323284631,Berber <https://hosted.weblate.org/projects/remmina/remmina/ber/>
+shutter,62,0,2386,37,0,464,74,2448,2.5326797385620914,Berber (Other) <ber@li.org>
+xapps,21,0,52,17,0,19,23,73,28.767123287671232,Berber (Other) <ber@li.org>
+xreader,77,0,1548,48,0,332,81,1625,4.7384615384615385,Berber (Other) <ber@li.org>

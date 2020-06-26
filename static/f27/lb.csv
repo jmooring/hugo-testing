@@ -1,0 +1,108 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,18,8,731,13,5,159,19,757,2.3778071334214,LANGUAGE <LL@li.org>
+asunder,5,0,490,5,0,86,5,495,1.0101010101010102,http://littlesvr.ca/ostd/
+audience,56,0,50,27,0,21,59,106,52.83018867924528,Luxembourgish <lb@li.org>
+cinnamon-translations,230,0,2553,95,0,348,239,2783,8.264462809917356,Luxembourgish <lb@li.org>
+deluge,26,0,2702,14,0,864,27,2728,0.9530791788856305,Luxembourgish <lb@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,27,0,26,14,0,18,25,53,50.943396226415096,Luxembourgish <https://weblate.elementary.io/projects/calculator/calculator/lb/>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,0,0,66,0,0,10,0,66,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+feedreader,0,0,689,0,0,201,0,689,0.0,
+flaw,84,0,0,53,0,0,87,84,100.0,LANGUAGE <LL@li.org>
+gala,38,0,656,16,0,63,40,694,5.475504322766571,Luxembourgish <lb@li.org>
+geany,4084,1069,884,890,283,135,4102,6037,67.64949478217657,Letzebuergesch
+gnome-do,473,0,139,119,0,25,484,612,77.2875816993464,Luxembourgish <lb@li.org>
+granite,69,0,87,20,0,37,71,156,44.230769230769226,Luxembourgish <lb@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,17,1,656,13,1,93,17,674,2.522255192878338,http://littlesvr.ca/ostd/
+kde-cli-tools,30,13,57,9,2,12,36,100,30.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kauth,0,4,69,0,1,7,0,73,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcmutils,31,153,380,7,24,41,33,564,5.49645390070922,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kconfig,0,41,220,0,6,94,0,261,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kconfigwidgets,112,149,60,64,42,11,120,321,34.890965732087224,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcoreaddons,0,239,62,0,76,19,0,301,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdeclarative,10,42,57,4,6,4,17,109,9.174311926605505,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdelibs4support,840,1055,2918,495,712,1157,882,4813,17.452732183669227,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdesignerplugin,0,43,11,0,5,4,0,54,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kglobalaccel,0,49,22,0,7,2,0,71,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-khtml,997,511,213,193,90,27,901,1721,57.931435212085994,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ki18n,0,95,29,0,85,25,0,124,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kinit,96,31,7,9,4,1,92,134,71.64179104477611,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kjobwidgets,0,79,44,0,29,7,0,123,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kjsembed,0,88,160,0,19,25,0,248,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knewstuff,95,256,339,20,97,41,101,690,13.768115942028986,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knotifyconfig,0,29,100,0,11,6,0,129,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kparts,44,51,9,13,12,1,50,104,42.30769230769231,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kpty,0,11,4,0,3,1,0,15,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kross,9,58,33,7,20,8,14,100,9.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kservice,17,81,72,4,14,10,21,170,10.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ktexteditor,553,953,6871,179,357,680,534,8377,6.601408618837293,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ktextwidgets,317,117,28,69,37,16,323,462,68.61471861471861,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kwidgetsaddons,0,1052,267,0,370,88,0,1319,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kxmlgui,331,955,310,88,108,32,320,1596,20.739348370927317,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-sonnet,0,614,49,0,56,16,0,663,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-syntax-highlighting,0,244,210,0,175,121,0,454,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Luxembourgish (http://www.transifex.com/mate/MATE/language/lb/)
+libreoffice,5341,4388,86811,2708,2919,25039,5134,96540,5.5324217940749945,LANGUAGE <LL@li.org>
+lightdm,42,0,121,15,0,6,44,163,25.766871165644172,Luxembourgish <lb@li.org>
+lightdm-gtk,35,0,52,12,0,13,35,87,40.229885057471265,Luxembourgish <lb@li.org>
+mate-control-center,19,0,2639,13,0,615,26,2658,0.7148231753197893,Luxembourgish (https://www.transifex.com/mate/teams/13566/lb/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Luxembourgish (http://www.transifex.com/projects/p/MATE/language/lb/)
+mate-sensors-applet,2,0,304,2,0,104,7,306,0.6535947712418301,Luxembourgish (https://www.transifex.com/mate/teams/13566/lb/)
+maya-calendar,42,0,352,31,0,133,52,394,10.65989847715736,LANGUAGE <LL@li.org>
+midori,81,0,3460,27,0,769,88,3541,2.287489409771251,Luxembourgish <lb@li.org>
+mintmenu,668,0,1750,195,0,305,646,2418,27.626137303556657,Luxembourgish <lb@li.org>
+noise,377,0,945,133,0,244,384,1322,28.517397881996974,Luxembourgish <lb@li.org>
+pantheon-agent-geoclue2,0,0,43,0,0,11,0,43,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,28,0,24,15,0,17,35,52,53.84615384615385,Luxembourgish <https://weblate.elementary.io/projects/calculator/calculator/lb/>
+pantheon-files,19,0,2468,12,0,480,31,2487,0.7639726578206675,Luxembourgish <lb@li.org>
+pantheon-greeter,0,0,29,0,0,10,0,29,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,13,0,3964,4,0,852,18,3977,0.3268795574553684,Luxembourgish <lb@li.org>
+pantheon-terminal,53,0,135,23,0,28,55,188,28.191489361702125,Luxembourgish <lb@li.org>
+plasma-oxygen,0,0,621,0,0,221,0,621,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+plasma-workspace,2,3,0,2,1,0,2,5,40.0,Luxembourgish <kde-i18n-lb@kde.org>
+python-django,274,0,3107,192,0,567,281,3381,8.104111209701271,Luxembourgish (http://www.transifex.com/django/django/language/lb/)
+scratch-text-editor,181,0,500,43,0,155,184,681,26.57856093979442,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+slick-greeter,154,0,57,26,0,21,144,211,72.98578199052133,Luxembourgish <lb@li.org>
+slingshot-launcher,35,0,182,20,0,48,32,217,16.129032258064516,LANGUAGE <LL@li.org>
+snap-photobooth,1,0,24,1,0,4,6,25,4.0,LANGUAGE <LL@li.org>
+stellarium,45,0,66995,42,0,26189,52,67040,0.06712410501193317,Luxembourgish (https://www.transifex.com/stellarium/teams/80998/lb/)
+switchboard,9,0,52,6,0,12,9,61,14.754098360655737,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,189,0,0,68,0,189,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,91,0,0,31,0,91,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,73,0,0,27,0,73,0.0,Luxembourgish <lb@li.org>
+switchboard-plug-display,0,0,104,0,0,41,0,104,0.0,Luxembourgish <lb@li.org>
+switchboard-plug-keyboard,2,2,399,2,1,153,2,403,0.49627791563275436,Luxembourgish <lb@li.org>
+switchboard-plug-mouse-touchpad,0,0,67,0,0,27,0,67,0.0,none
+switchboard-plug-networking,0,0,442,0,0,128,0,442,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,20,0,141,10,0,39,18,161,12.422360248447205,Luxembourgish <lb@li.org>
+switchboard-plug-pantheon-shell,0,0,144,0,0,53,0,144,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sound,0,0,90,0,0,37,0,90,0.0,
+tuxpaint,1404,114,73,273,10,8,1404,1591,88.24638592080453,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Luxembourgish <lb@li.org>
+wingpanel,0,0,8,0,0,2,0,8,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,35,0,190,20,0,52,32,225,15.555555555555555,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,20,0,0,6,0,20,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,6,0,8,3,0,3,6,14,42.857142857142854,LANGUAGE <LL@li.org>

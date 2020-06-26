@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,117,0,2943,3,0,554,123,3060,3.823529411764706,English (Australia) <en_AU@li.org>
+abiword,102,3,4539,30,1,1489,106,4644,2.1963824289405682,unknown <email@address>
+bazaar,129,0,6395,13,0,395,130,6524,1.9773145309625997,English (Australia) <en_AU@li.org>
+deluge,1888,0,381,427,0,25,1900,2269,83.20846187747907,English (Australia) <en_AU@li.org>
+evolution,65,2038,15099,26,677,3577,64,17202,0.37786303918149056,
+evolution-data-server,166,1000,3335,29,175,672,187,4501,3.688069317929349,
+gnomebaker,21,0,1165,8,0,283,21,1186,1.770657672849916,English (Australia) <en_AU@li.org>
+gourmet,110,0,3416,18,0,773,111,3526,3.119682359614294,English (Australia) <en_AU@li.org>
+ntfs-config,29,40,386,5,14,48,31,455,6.373626373626373,English (Australia) <en_AU@li.org>
+orage,36,0,828,14,0,525,35,864,4.166666666666666,Australian English <en_gb@li.org>
+pidgin,7347,4390,3917,1616,1140,580,7347,15654,46.933691069375236,English/AU <trans@six-by-nine.com.au>
+pidgin-guifications,442,32,31,183,4,5,444,505,87.52475247524752,English (Australian) <trans@six-by-nine.com.au>
+sweep,2,0,2395,1,0,536,2,2397,0.08343763037129745,English/Australia <LL@li.org>
+xchat-gnome,3618,185,98,944,22,14,3624,3901,92.74544988464496,English (Australia) <en_AU@li.org>

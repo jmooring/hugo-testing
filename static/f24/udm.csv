@@ -1,0 +1,2 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+python-django,477,0,2867,230,0,520,436,3344,14.264354066985646,Udmurt (http://www.transifex.com/django/django/language/udm/)

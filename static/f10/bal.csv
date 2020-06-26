@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,471,69,9876,106,8,1191,502,10416,4.521889400921659,Balochi <fedora-trans-bal@redhat.com>
+chkconfig,430,0,0,88,0,0,454,430,100.0,Balochi <fedora-trans-bal@redhat.com>
+newt,4,0,0,4,0,0,4,4,100.0,Balochi <fedora-trans-bal@redhat.com>
+pessulus,88,0,0,30,0,0,129,88,100.0,Balochi <mostafa@daneshvar.org.uk>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-nfs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+transifex,8,156,1547,7,64,286,10,1711,0.46756282875511396,Balochi <fedora-trans-bal@redhat.com>

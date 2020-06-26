@@ -1,0 +1,1112 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+DivFix++,0,0,0,0,0,0,0,0,0.0,arestarh <arestarh ukr.net>
+GConf2,4088,0,0,497,0,0,3802,4088,100.0,translation@linux.org.ua
+LabPlot,0,0,3250,0,0,1349,0,3250,0.0,LANGUAGE <LL@li.org>
+ModemManager,115,0,0,14,0,0,127,115,100.0,Ukrainian <kde-i18n-uk@kde.org>
+NetworkManager,9244,633,0,1452,4,0,9464,9877,93.59117140832237,Ukrainian <kde-i18n-uk@kde.org>
+NetworkManager-fortisslvpn,22,1,151,9,1,23,20,174,12.643678160919542,Ukrainian <trans-uk@lists.fedoraproject.org>
+NetworkManager-l2tp,110,25,618,33,8,92,102,753,14.608233731739709,Ukrainian <trans-uk@lists.fedoraproject.org>
+NetworkManager-openconnect,305,102,2834,81,17,498,336,3241,9.410675717371182,translation@linux.org.ua
+NetworkManager-openswan,304,0,0,49,0,0,263,304,100.0,Ukrainian <uk@li.org>
+NetworkManager-openvpn,276,0,0,82,0,0,262,276,100.0,translation@linux.org.ua
+NetworkManager-pptp,144,0,0,44,0,0,138,144,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+NetworkManager-ssh,39,43,204,17,14,38,36,286,13.636363636363635,translation@linux.org.ua
+NetworkManager-vpnc,156,0,0,41,0,0,149,156,100.0,translation@linux.org.ua
+ORBit,8,0,0,2,0,0,8,8,100.0,Ukrainian <uk@li.org>
+PackageKit,1273,0,0,318,0,0,1263,1273,100.0,Ukrainian (http://www.transifex.com/freedesktop/packagekit/language/uk/)
+Thunar,4200,0,0,738,0,0,3923,4200,100.0,Ukrainian (http://www.transifex.com/projects/p/thunar/language/uk/)
+Zim,1579,0,1295,381,0,282,1459,2874,54.94084899095337,Ukrainian <uk@li.org>
+abrt,3418,0,32,402,0,6,3733,3450,99.07246376811594,Ukrainian <kde-i18n-uk@kde.org>
+accerciser,2099,0,0,317,0,0,1916,2099,100.0,ukrainian <Ukrainian <uk@li.org>>
+accountsservice,59,0,0,10,0,0,60,59,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+adwaita-icon-theme,4,0,0,2,0,0,3,4,100.0,linux.org.ua
+ailurus,8133,0,145,1231,0,22,7531,8278,98.24836917129741,none
+aisleriot,3028,0,0,656,0,0,2277,3028,100.0,linux.org.ua
+alacarte,42,0,0,16,0,0,40,42,100.0,Ukrainian <uk@li.org>
+alexandria,940,59,182,253,19,34,932,1181,79.59356477561388,
+alleyoop,342,0,0,87,0,0,324,342,100.0,Ukrainian <linux@linux.org.ua>
+almanah,722,0,0,143,0,0,608,722,100.0,Ukrainian <uk@li.org>
+amarok,15794,0,0,2729,0,0,16734,15794,100.0,Ukrainian <kde-i18n-uk@kde.org>
+anaconda,6963,0,0,1139,0,0,6911,6963,100.0,Ukrainian
+anjuta,7522,1611,12516,1678,464,486,6861,21649,34.74525382234746,Ukrainian <uk@li.org>
+apper,4143,0,0,753,0,0,4490,4143,100.0,Ukrainian <kde-i18n-uk@kde.org>
+appstream,289,5,10,57,1,1,276,304,95.06578947368422,Ukrainian (http://www.transifex.com/freedesktop/appstream/language/uk/)
+arandr,173,0,0,38,0,0,150,173,100.0,Ukrainian <https://hosted.weblate.org/projects/arandr/translations/uk/>
+arduino,2540,0,26,447,0,15,2297,2566,98.98674980514419,Ukrainian (http://www.transifex.com/projects/p/arduino-ide-15/language/uk/)
+aria2,3114,0,3945,237,0,154,2930,7059,44.113897152571184,Ukrainian <uk@li.org>
+arm-none-eabi-binutils-cs,49058,0,0,7843,0,0,51158,49058,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+arm-none-eabi-gcc-cs,2425,0,89880,569,0,11577,2500,92305,2.6271599588321326,Ukrainian <translation-team-uk@lists.sourceforge.net>
+arm-none-eabi-gdb,9792,0,0,1557,0,0,10353,9792,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+aspell,1726,0,0,293,0,0,1485,1726,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+asunder,20,0,460,18,0,69,23,480,4.166666666666666,http://littlesvr.ca/ostd/
+at-spi2-core,122,0,0,18,0,0,119,122,100.0,translation@linux.org.ua
+atk,398,0,0,139,0,0,360,398,100.0,translation@linux.org.ua
+atomix,125,0,0,44,0,0,117,125,100.0,Ukrainian <uk@li.org>
+atril,3428,25,30,543,1,3,2874,3483,98.42090152167671,Ukrainian <uk@li.org>
+audacious,527,0,112,245,0,36,527,639,82.47261345852895,Ukrainian (http://www.transifex.com/projects/p/audacious/language/uk/)
+audacious-plugins,3177,0,733,743,0,129,3042,3910,81.25319693094629,Ukrainian (http://www.transifex.com/projects/p/audacious/language/uk/)
+audacity,12236,0,0,2784,0,0,12570,12236,100.0,Ukrainian <translation@linux.org.ua>
+audex,3347,0,0,412,0,0,3340,3347,100.0,Ukrainian <kde-i18n-uk@kde.org>
+audit-viewer,611,0,0,185,0,0,588,611,100.0,LANGUAGE <LL@li.org>
+authconfig,1715,0,0,296,0,0,1551,1715,100.0,Ukrainian (http://www.transifex.com/projects/p/authconfig/language/uk/)
+avahi,865,2,1,165,2,1,880,868,99.65437788018433,Ukrainian (http://www.transifex.com/lennart/avahi/language/uk/)
+avogadro,6579,0,28,2360,0,12,6772,6607,99.57620705312547,Ukrainian <translation@linux.org.ua>
+avr-binutils,49058,0,0,7843,0,0,51158,49058,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+avr-gcc,2425,0,89880,569,0,11577,2500,92305,2.6271599588321326,Ukrainian <translation-team-uk@lists.sourceforge.net>
+backintime,745,0,747,180,0,120,695,1492,49.93297587131367,Ukrainian <uk@li.org>
+bacula,418,128,78,63,5,20,382,624,66.98717948717949,Ukrainian
+bakery,72,0,0,20,0,0,57,72,100.0,Ukrainian <uk@li.org>
+balsa,4589,521,238,1115,132,40,4340,5348,85.80777860882573,Ukrainian <uk@li.org>
+bangarang,1207,0,0,381,0,0,1396,1207,100.0,Ukrainian <translation@linux.org.ua>
+banshee,10874,0,0,1799,0,0,9496,10874,100.0,Ukrainian <uk@li.org>
+banshee-community-extensions,1141,0,179,270,0,40,981,1320,86.43939393939394,LANGUAGE <LL@li.org>
+baobab,210,0,0,57,0,0,201,210,100.0,linux.org.ua
+bash,11062,116,0,559,1,0,9840,11178,98.96224727142602,Ukrainian <translation-team-uk@lists.sourceforge.net>
+bijiben,309,0,0,103,0,0,291,309,100.0,linux.org.ua
+binutils,45924,0,2735,7594,0,199,47906,48659,94.37925152592531,Ukrainian <translation-team-uk@lists.sourceforge.net>
+bison,1416,0,0,213,0,0,1504,1416,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+bleachbit,1151,0,0,254,0,0,1112,1151,100.0,Ukrainian <uk@li.org>
+blender,100551,0,0,21973,0,0,92460,100551,100.0,Ukrainian (Ukraine) (http://www.transifex.com/lxlalexlxl/blender/language/uk_UA/)
+blivet-gui,690,23,0,180,7,0,703,713,96.7741935483871,Ukrainian <kde-i18n-uk@kde.org>
+bluedevil,556,0,0,187,0,0,543,556,100.0,Ukrainian <kde-i18n-uk@kde.org>
+bluefish,4897,8,0,1538,1,0,5250,4905,99.83690112130479,Ukrainian <translation@linux.org.ua>
+blueman,1446,0,0,351,0,0,1450,1446,100.0,Ukrainian (http://www.transifex.com/projects/p/MATE/language/uk/)
+boinc-client,15969,0,0,2535,0,0,15149,15969,100.0,Ukrainian (http://www.transifex.com/boinc/boinc/language/uk/)
+brasero,5546,0,0,968,0,0,4764,5546,100.0,linux.org.ua
+byobu,177,0,0,44,0,0,172,177,100.0,Ukrainian <translation@linux.org.ua>
+byzanz,236,0,0,52,0,0,219,236,100.0,Ukrainian <uk@li.org>
+bzr,0,0,33249,0,0,2353,0,33249,0.0,Ukrainian <uk@li.org>
+cairo-dock,7464,0,0,827,0,0,6045,7464,100.0,Ukrainian <kde-i18n-doc@kde.org>
+cairo-dock-plug-ins,10181,0,22,1720,0,2,8585,10203,99.78437714397727,Ukrainian <uk@li.org>
+caja,9242,0,0,1496,0,0,8452,9242,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+caja-extensions,556,0,0,127,0,0,510,556,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+calibre,81245,0,70439,15632,0,2062,77419,151684,53.562010495503806,Ukrainian (http://www.transifex.com/calibre/calibre/language/uk/)
+california,80,0,0,41,0,0,82,80,100.0,linux.org.ua
+camorama,528,0,0,124,0,0,486,528,100.0,Ukrainian <linux@linux.org.ua>
+caribou,169,0,0,57,0,0,153,169,100.0,linux.org.ua
+catfish,183,0,1117,79,0,137,167,1300,14.076923076923077,Ukrainian <uk@li.org>
+celestia,2270,6,0,1085,1,0,2339,2276,99.73637961335676,Ukrainian <translation@linux.org.ua>
+centerim,860,988,1016,313,258,246,791,2864,30.027932960893857,Ukrainian <linux@linux.org.ua>
+certmonger,1478,8,3470,242,1,587,1552,4956,29.822437449556094,Ukrainian (http://www.transifex.com/projects/p/certmonger/language/uk/)
+cflow,525,81,0,103,13,0,470,606,86.63366336633663,Ukrainian <translation-team-uk@lists.sourceforge.net>
+cheese,613,0,0,120,0,0,518,613,100.0,linux.org.ua
+childsplay,1226,0,0,212,0,0,1120,1226,100.0,Ukrainian <li@li.org>
+chkconfig,513,0,0,96,0,0,491,513,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+choqok,2159,0,0,553,0,0,2338,2159,100.0,Ukrainian <kde-i18n-uk@kde.org>
+cinepaint,1554,1677,4176,645,696,598,1510,7407,20.980153908464967,Ukrainian <uk@li.org>
+cinnamon-control-center,1304,0,0,752,0,0,1368,1304,100.0,Ukrainian <uk@li.org>
+cinnamon-desktop,231,0,0,31,0,0,218,231,100.0,linux.org.ua
+cinnamon-session,354,47,0,65,4,0,333,401,88.2793017456359,linux.org.ua
+cinnamon-settings-daemon,3740,0,0,572,0,0,3129,3740,100.0,linux.org.ua
+cinnamon-translations,13415,0,26,3211,0,4,12753,13441,99.80656201175508,Ukrainian <uk@li.org>
+clamtk,472,0,0,141,0,0,472,472,100.0,Ukrainian <uk@li.org>
+clementine,5091,0,0,1352,0,0,5005,5091,100.0,Ukrainian (http://www.transifex.com/davidsansome/clementine/language/uk/)
+clutter,3036,17,0,673,2,0,2655,3053,99.44317065181788,linux.org.ua
+cockpit,2105,76,57,682,35,9,2136,2238,94.05719392314566,Ukrainian <kde-i18n-uk@kde.org>
+cogl,393,0,0,80,0,0,360,393,100.0,linux.org.ua
+colord,1885,0,0,203,0,0,1860,1885,100.0,Ukrainian (http://www.transifex.com/projects/p/colord/language/uk/)
+colord-kde,369,0,0,120,0,0,363,369,100.0,Ukrainian <kde-i18n-uk@kde.org>
+colorhug-client,1400,0,32,292,0,5,1327,1432,97.76536312849163,Ukrainian (http://www.transifex.com/hughsie/colorhug-client/language/uk/)
+compat-gnutls28,1358,51,30,320,12,7,1325,1439,94.37109103544128,Ukrainian <translation-team-uk@lists.sourceforge.net>
+compat-gtkhtml314,713,0,0,366,0,0,660,713,100.0,ukrainian <Ukrainian <uk@li.org>>
+compat-wxGTK3-gtk2,7740,0,0,1857,0,0,7636,7740,100.0,Ukrainian <kde-i18n-uk@kde.org>
+compiz,3240,0,0,710,0,0,3244,3240,100.0,LANGUAGE <LL@li.org>
+console-setup,983,0,0,175,0,0,875,983,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+control-center,6340,0,0,2217,0,0,6016,6340,100.0,Ukrainian <uk@li.org>
+corebird,403,0,96,155,0,32,416,499,80.7615230460922,Ukrainian (Ukraine) (http://www.transifex.com/corebird/corebird/language/uk_UA/)
+coreutils,20512,0,0,1720,0,0,20136,20512,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+cpio,1837,0,0,298,0,0,1826,1837,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+cppi,581,15,0,58,3,0,557,596,97.48322147651007,Ukrainian <translation-team-uk@lists.sourceforge.net>
+cracklib,93,0,3,15,0,1,78,96,96.875,Ukrainian <translation@linux.org.ua>
+cross-binutils,49058,0,0,7843,0,0,51158,49058,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+cross-gcc,2036,0,84626,477,0,10983,2091,86662,2.3493572730839354,Ukrainian <translation-team-uk@lists.sourceforge.net>
+cryptsetup,2500,0,0,395,0,0,2792,2500,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+cups-pk-helper,149,0,0,22,0,0,159,149,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+darktable,7372,4,0,1838,3,0,6827,7376,99.94577006507592,LANGUAGE <LL@li.org>
+dasher,649,0,0,210,0,0,636,649,100.0,translation@linux.org.ua
+dc3dd,265,335,271,37,28,22,273,871,30.424799081515495,Ukrainian <translation-team-uk@lists.sourceforge.net>
+dconf-editor,198,0,0,33,0,0,183,198,100.0,linux.org.ua
+debconf,745,48,2,84,2,1,681,795,93.71069182389937,<uk@li.org>
+deja-dup,1494,0,517,263,0,64,1415,2011,74.29139731476877,Ukrainian <uk@li.org>
+deluge,2728,0,0,878,0,0,2532,2728,100.0,Ukrainian <uk@li.org>
+devhelp,441,0,0,106,0,0,392,441,100.0,linux.org.ua
+dia,6025,3,0,2196,1,0,6050,6028,99.95023224950232,Ukrainian <uk@li.org>
+dialog,12,2,11,12,2,9,12,25,48.0,Ukrainian
+diffutils,1800,0,0,248,0,0,1861,1800,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+digikam,48758,0,0,7933,0,0,48259,48758,100.0,Ukrainian <kde-i18n-uk@kde.org>
+diodon,203,0,180,45,0,12,184,383,53.00261096605744,Ukrainian <uk@li.org>
+dnf,1692,0,194,452,0,36,1799,1886,89.7136797454931,Ukrainian (http://www.transifex.com/projects/p/dnf/language/uk/)
+dnf-plugin-system-upgrade,211,0,0,36,0,0,219,211,100.0,Ukrainian
+dnf-plugins-core,685,0,26,116,0,5,674,711,96.34317862165963,Ukrainian
+dnf-plugins-extras,375,0,0,75,0,0,394,375,100.0,Ukrainian
+docky,1757,0,0,337,0,0,1517,1757,100.0,Ukrainian <linux@linux.org.ua>
+dos2unix,3929,0,0,354,0,0,4230,3929,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+drgeo,705,638,642,216,139,106,627,1985,35.51637279596977,Ukrainian <uk@li.org>
+drupal6-better_formats,323,0,0,38,0,0,261,323,100.0,uk <podarok@ua.fm>
+drupal6-cck,7270,0,2792,938,0,208,6306,10062,72.25203736831644,Ukrainian <podarok@ua.fm>
+drupal6-votingapi,316,0,0,48,0,0,264,316,100.0,uk <podarok@ua.fm>
+duplicity,3368,0,264,488,0,38,3698,3632,92.73127753303964,Ukrainian <uk@li.org>
+e16,2760,9,59,510,4,13,2619,2828,97.59547383309759,Ukrainian <uk@li.org>
+e2fsprogs,8429,48,10,1314,3,1,9197,8487,99.31660186167079,Ukrainian <translation-team-uk@lists.sourceforge.net>
+easytag,1406,1971,2130,404,419,217,1281,5507,25.531142182676593,Ukrainian <linux@linux.org.ua>
+edgar,11475,0,0,1535,0,0,8941,11475,100.0,Ukrainian <uk@li.org>
+ejabberd,1757,15,54,409,3,9,1580,1826,96.22124863088719,
+ekiga,9796,0,0,940,0,0,7864,9796,100.0,Ukrainian <uk@li.org>
+elfutils,8669,127,55,1284,19,7,9403,8851,97.9437351711671,Ukrainian <kde-i18n-uk@kde.org>
+elinks,772,1749,9724,274,516,835,734,12245,6.304614128215598,Ukrainian <translation-team-uk@lists.sourceforge.net>
+empathy,4205,0,0,936,0,0,3730,4205,100.0,linux.org.ua
+engrampa,7402,0,0,784,0,0,6091,7402,100.0,Ukrainian <linux@linux.org.ua>
+enigma,7439,90,1708,870,5,115,6403,9237,80.5348056728375,Ukrainian (http://www.transifex.com/projects/p/enigma/language/uk/)
+enlightenment,3009,3482,2217,905,918,360,2888,8708,34.554432705558106,Ukrainian <translation@linux.org.ua>
+entangle,869,0,65,194,0,15,947,934,93.04068522483941,Ukrainian (http://www.transifex.com/projects/p/entangle/language/uk/)
+eog,4775,0,0,522,0,0,4090,4775,100.0,Ukrainian <uk@li.org>
+eog-plugins,149,0,0,55,0,0,146,149,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+eom,5004,0,0,561,0,0,4300,5004,100.0,Ukrainian <uk@li.org>
+epiphany,2684,0,0,601,0,0,2336,2684,100.0,linux.org.ua
+evince,3274,25,0,511,1,0,2762,3299,99.24219460442558,Ukrainian <uk@li.org>
+evolution,22580,0,0,4860,0,0,20099,22580,100.0,Ukrainian <www-uk-translations@gnu.org>
+evolution-data-server,5398,0,0,1074,0,0,5219,5398,100.0,Ukrainian <www-uk-translations@gnu.org>
+evolution-mapi,341,0,0,67,0,0,321,341,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+exaile,2710,318,978,752,55,218,2625,4006,67.64852720918621,Ukrainian <https://hosted.weblate.org/projects/exaile/master/uk/>
+exiv2,7475,4197,24011,2123,1483,2043,7080,35683,20.94835075526161,Ukrainian <translation-team-uk@lists.sourceforge.net>
+exo,1414,0,0,286,0,0,1272,1414,100.0,Ukrainian (http://www.transifex.com/projects/p/exo/language/uk/)
+expendable,227,0,0,93,0,0,262,227,100.0,Ukrainian (http://www.transifex.com/projects/p/expendable/language/uk/)
+fcitx-table-other,0,0,24,0,0,22,0,24,0.0,Ukrainian (http://www.transifex.com/projects/p/fcitx/language/uk/)
+feedreader,333,0,14,95,0,5,299,347,95.96541786743515,Ukrainian <uk@li.org>
+file-roller,1195,0,0,268,0,0,1025,1195,100.0,linux.org.ua
+filezilla,9916,0,0,1704,0,0,9117,9916,100.0,Igor Chomko <igorchomko@gmail.com>
+findutils,2823,5,0,283,1,0,2792,2828,99.82319660537482,Ukrainian <translation-team-uk@lists.sourceforge.net>
+firewalld,2070,0,0,385,0,0,1976,2070,100.0,Ukrainian (http://www.transifex.com/projects/p/firewalld/language/uk/)
+five-or-more,279,0,0,64,0,0,241,279,100.0,linux.org.ua
+flare,3279,15,0,520,1,0,2893,3294,99.54462659380692,Ukrainian <LL@li.org>
+flare-engine,753,0,0,235,0,0,718,753,100.0,Ukrainian <LL@li.org>
+flatpak,1602,103,23,332,14,8,1658,1728,92.70833333333334,Ukrainian <trans-uk@lists.fedoraproject.org>
+fntsample,202,0,7,16,0,1,190,209,96.65071770334929,Ukrainian <>
+focuswriter,129,0,0,7,0,0,132,129,100.0,Ukrainian (http://www.transifex.com/projects/p/focuswriter/language/uk/)
+folks,947,0,0,114,0,0,843,947,100.0,translation@linux.org.ua
+fontforge,41276,0,1,7185,0,1,39942,41277,99.99757734331467,Ukrainian <kde-i18n-uk@kde.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Ukrainian
+four-in-a-row,247,0,0,71,0,0,222,247,100.0,linux.org.ua
+fprintd,419,0,0,57,0,0,412,419,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+freeciv,74077,109,23980,7688,18,431,62578,98166,75.46095389442374,Ukrainian <uk@li.org>
+freedink,83,0,0,15,0,0,83,83,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+freeipa,24434,0,0,2964,0,0,24061,24434,100.0,Ukrainian (http://www.transifex.com/projects/p/freeipa/language/uk/)
+frescobaldi,2878,167,12089,944,31,1134,2604,15134,19.016783401612265,Ukrainian <uk@li.org>
+frogr,471,0,0,140,0,0,460,471,100.0,translation@linux.org.ua
+fuse-encfs,915,24,350,111,3,23,849,1289,70.98525989138868,Ukrainian <uk@li.org>
+fwupd,428,0,1,103,0,1,436,429,99.76689976689977,Ukrainian (http://www.transifex.com/hughsie/fwupd/language/uk/)
+gajim,11856,18,48,2255,4,5,11747,11922,99.44640161046804,Ukrainian <kde-i18n-doc@kde.org>
+gallery2,11681,81,6031,1542,31,970,10353,17793,65.64941269038385,Ukrainian <gallery-devel@lists.sourceforge.net>
+gammu,1518,27,2500,445,4,671,1517,4045,37.52781211372064,none
+garcon,109,0,0,34,0,0,121,109,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+gbrainy,3638,0,4401,642,0,395,3268,8039,45.25438487374052,linux.org.ua
+gcc,2036,0,84626,477,0,10983,2091,86662,2.3493572730839354,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gcompris,10596,0,0,1223,0,0,8226,10596,100.0,en_US <kde-i18n-doc@kde.org>
+gconf-editor,2836,0,0,236,0,0,2320,2836,100.0,Ukrainian <uk@li.org>
+gcr,678,0,0,242,0,0,602,678,100.0,translation@linux.org.ua
+gdb,9792,0,0,1557,0,0,10353,9792,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gdbm,663,30,6,185,6,2,746,699,94.84978540772532,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gdesklets,1020,0,508,171,0,33,886,1528,66.75392670157068,Ukrainian <LL@li.org>
+gdk-pixbuf2,1360,0,0,203,0,0,1432,1360,100.0,linux.org.ua
+gdm,15019,4786,5839,955,129,97,12401,25644,58.567306192481674,Ukrainian <uk@li.org>
+geany,2234,2095,1682,626,445,229,2114,6011,37.16519713857927,
+geary,1463,0,0,393,0,0,1428,1463,100.0,linux.org.ua
+geda-gaf,280,0,1122,34,0,155,256,1402,19.971469329529242,Ukrainian <uk@li.org>
+gedit,10664,0,0,1237,0,0,8924,10664,100.0,Ukrainian <uk@li.org>
+gedit-plugins,8623,122,214,1070,40,46,6554,8959,96.2495814264985,Ukrainian <uk@li.org>
+geeqie,520,1038,1351,169,412,408,530,2909,17.8755586112066,<linux@linux.org.ua>
+gettext,7794,0,0,829,0,0,7293,7794,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gftp,3096,230,49,560,70,4,2809,3375,91.73333333333333,Ukrainian <uk@li.org>
+ggz-base-libs,74,0,0,17,0,0,72,74,100.0,Ukrainian <uk@li.org>
+ggz-gtk-client,773,0,0,244,0,0,692,773,100.0,Ukrainian <uk@li.org>
+ghdl,1230,0,0,201,0,0,1210,1230,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+ghex,966,0,0,275,0,0,874,966,100.0,Ukrainian <uk@li.org>
+giggle,497,18,41,153,8,10,481,556,89.38848920863309,Ukrainian Linux Translators <translate@linux.org.ua>
+gigolo,521,0,0,142,0,0,490,521,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+gimagereader,791,153,105,257,32,25,772,1049,75.40514775977121,English <kde-i18n-doc@kde.org>
+gimp,28797,13,24,7316,2,2,26315,28834,99.87167926753139,Ukrainian <www-uk-translations@gnu.org>
+gimp-gap,14224,49,0,2296,3,0,13188,14273,99.65669445806769,Ukrainian <kde-i18n-doc@kde.org>
+gitg,682,0,0,128,0,0,618,682,100.0,linux.org.ua
+gkrellm,3709,0,75,528,0,23,3147,3784,98.01797040169133,Ukrainian <uk@li.org>
+glade,6273,0,0,1324,0,0,5531,6273,100.0,Ukrainian <uk@li.org>
+glade2,4386,871,583,1054,152,94,3428,5840,75.1027397260274,Ukrainian <uk@li.org>
+glade3,6273,0,0,1324,0,0,5534,6273,100.0,Ukrainian <uk@li.org>
+glib-networking,135,0,0,24,0,0,125,135,100.0,translation@linux.org.ua
+glib2,5651,0,0,879,0,0,5531,5651,100.0,Ukrainian <Ukrainian <uk@li.org>>
+glibc,8077,0,0,1473,0,0,8760,8077,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+glibc-arm-linux-gnu,8077,0,0,1473,0,0,8760,8077,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+glpi,10628,0,8,2804,0,1,9959,10636,99.92478375329071,Ukrainian (Ukraine) (http://www.transifex.com/glpi/GLPI/language/uk_UA/)
+gnome-abrt,458,0,0,81,0,0,478,458,100.0,Ukrainian (http://www.transifex.com/projects/p/gnome-abrt/language/uk/)
+gnome-activity-journal,240,0,76,75,0,19,235,316,75.9493670886076,Ukrainian <uk@li.org>
+gnome-backgrounds,30,0,0,18,0,0,27,30,100.0,linux.org.ua
+gnome-bluetooth,309,0,0,102,0,0,286,309,100.0,linux.org.ua
+gnome-boxes,968,0,0,218,0,0,912,968,100.0,linux.org.ua
+gnome-builder,984,9,848,202,2,191,933,1841,53.4492123845736,linux.org.ua
+gnome-calculator,1464,0,0,535,0,0,1359,1464,100.0,linux.org.ua
+gnome-calendar,224,0,0,67,0,0,208,224,100.0,linux.org.ua
+gnome-characters,146,0,0,42,0,0,136,146,100.0,linux.org.ua
+gnome-chess,1313,0,0,226,0,0,1168,1313,100.0,linux.org.ua
+gnome-clocks,223,0,0,77,0,0,210,223,100.0,linux.org.ua
+gnome-color-manager,1793,0,0,343,0,0,1481,1793,100.0,linux.org.ua
+gnome-commander,5266,473,2713,1314,150,176,4646,8452,62.30477993374349,<uk@li.org>
+gnome-contacts,411,0,0,156,0,0,405,411,100.0,linux.org.ua
+gnome-desktop,9884,41,0,294,1,0,9305,9925,99.58690176322418,Ukrainian <uk@li.org>
+gnome-desktop3,9681,41,0,264,1,0,9085,9722,99.57827607488171,Ukrainian <uk@li.org>
+gnome-devel-docs,3535,0,7535,239,0,154,3020,11070,31.933152664859982,Ukrainian <trans-uk@lists.fedoraproject.org>
+gnome-dictionary,2041,0,0,292,0,0,1706,2041,100.0,Ukrainian <uk@li.org>
+gnome-disk-utility,3435,0,0,636,0,0,3018,3435,100.0,linux.org.ua
+gnome-do,612,0,0,144,0,0,564,612,100.0,Ukrainian <uk@li.org>
+gnome-doc-utils,251,0,0,101,0,0,268,251,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+gnome-documents,549,0,0,174,0,0,524,549,100.0,linux.org.ua
+gnome-font-viewer,130,0,0,30,0,0,108,130,100.0,linux.org.ua
+gnome-gmail,36,17,134,12,3,16,36,187,19.25133689839572,LANGUAGE <LL@li.org>
+gnome-icon-theme,43,0,0,38,0,0,47,43,100.0,Ukrainian <linux@linux.org.ua>
+gnome-initial-setup,638,0,0,109,0,0,528,638,100.0,linux.org.ua
+gnome-keyring,553,0,0,112,0,0,526,553,100.0,translation@linux.org.ua
+gnome-klotski,195,0,0,62,0,0,170,195,100.0,linux.org.ua
+gnome-libs,988,40,57,381,4,10,917,1085,91.05990783410138,Ukrainian <ua@li.org>
+gnome-logs,140,0,0,42,0,0,121,140,100.0,linux.org.ua
+gnome-mahjongg,304,0,0,63,0,0,291,304,100.0,linux.org.ua
+gnome-maps,485,0,0,111,0,0,440,485,100.0,linux.org.ua
+gnome-menus,70,0,0,27,0,0,68,70,100.0,linux.org.ua
+gnome-mime-data,887,0,0,362,0,0,1463,887,100.0,Ukrainian <uk@li.org>
+gnome-mines,334,0,0,72,0,0,310,334,100.0,linux.org.ua
+gnome-mud,1295,0,0,262,0,0,1101,1295,100.0,Ukrainian <uk@li.org>
+gnome-multi-writer,347,0,0,53,0,0,308,347,100.0,linux.org.ua
+gnome-music,458,0,0,85,0,0,460,458,100.0,linux.org.ua
+gnome-nettool,1160,0,0,241,0,0,1065,1160,100.0,Ukrainian <uk@li.org>
+gnome-nibbles,386,0,0,93,0,0,340,386,100.0,linux.org.ua
+gnome-online-accounts,1152,0,0,315,0,0,1090,1152,100.0,linux.org.ua
+gnome-packagekit,3593,0,0,583,0,0,3138,3593,100.0,linux.org.ua
+gnome-phone-manager,502,0,0,112,0,0,438,502,100.0,Ukrainian <uk@li.org>
+gnome-photos,377,0,0,127,0,0,375,377,100.0,linux.org.ua
+gnome-power-manager,433,0,0,145,0,0,411,433,100.0,linux.org.ua
+gnome-robots,629,0,0,107,0,0,530,629,100.0,linux.org.ua
+gnome-screensaver,291,0,0,58,0,0,255,291,100.0,translation@linux.org.ua
+gnome-screenshot,455,0,0,78,0,0,399,455,100.0,linux.org.ua
+gnome-search-tool,3178,0,0,358,0,0,2637,3178,100.0,Ukrainian <uk@li.org>
+gnome-session,327,0,0,60,0,0,297,327,100.0,linux.org.ua
+gnome-settings-daemon,2494,0,0,416,0,0,2142,2494,100.0,linux.org.ua
+gnome-shell,1403,0,0,333,0,0,1277,1403,100.0,linux.org.ua
+gnome-shell-extension-openweather,23,107,488,19,41,140,18,618,3.7216828478964405,
+gnome-shell-extensions,380,0,0,70,0,0,351,380,100.0,linux.org.ua
+gnome-software,1919,0,0,516,0,0,1695,1919,100.0,linux.org.ua
+gnome-sound-recorder,253,0,0,65,0,0,237,253,100.0,linux.org.ua
+gnome-sudoku,339,0,0,58,0,0,316,339,100.0,linux.org.ua
+gnome-system-log,1660,0,0,148,0,0,1434,1660,100.0,Ukrainian <uk@li.org>
+gnome-system-monitor,1289,0,0,292,0,0,1194,1289,100.0,linux.org.ua
+gnome-taquin,229,0,0,47,0,0,182,229,100.0,linux.org.ua
+gnome-terminal,2218,0,0,440,0,0,1935,2218,100.0,linux.org.ua
+gnome-tetravex,220,0,0,45,0,0,178,220,100.0,linux.org.ua
+gnome-themes,109,0,0,30,0,0,112,109,100.0,ukrainian <Ukrainian <uk@li.org>>
+gnome-themes-standard,24,0,0,9,0,0,23,24,100.0,translation@linux.org.ua
+gnome-tweak-tool,408,0,0,141,0,0,395,408,100.0,linux.org.ua
+gnome-user-share,160,0,0,29,0,0,134,160,100.0,linux.org.ua
+gnome-vfs2,1519,0,0,305,0,0,1450,1519,100.0,Ukrainian <uk@li.org>
+gnome-video-effects,256,0,0,68,0,0,205,256,100.0,translation@linux.org.ua
+gnome-weather,184,0,0,42,0,0,161,184,100.0,linux.org.ua
+gnome-web-photo,375,0,0,58,0,0,344,375,100.0,translation@linux.org.ua
+gnomebaker,222,75,889,47,9,235,177,1186,18.718381112984822,Ukrainian <uk@li.org>
+gnote,3022,0,0,453,0,0,2661,3022,100.0,translation@linux.org.ua
+gnotime,114,339,1555,60,142,227,115,2008,5.677290836653386,Ukrainian <uk@li.org>
+gnubik,285,0,0,85,0,0,281,285,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gnucash,16051,1349,9098,3430,257,425,14250,26498,60.5743829722998,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gnuchess,1068,0,0,141,0,0,1106,1068,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gnumed,106,0,25824,8,0,4141,98,25930,0.40879290397223295,LANGUAGE <LL@li.org>
+gnumeric,1892,5194,27960,619,1708,3315,1719,35046,5.398618957940992,Ukrainian <uk@li.org>
+gnupg,8613,21,6,1293,3,1,8535,8640,99.6875,Ukrainian <kde-i18n-uk@kde.org>
+gnupg2,13202,1,5,2166,1,1,13868,13208,99.95457298606905,Ukrainian <kde-i18n-uk@kde.org>
+gnutls,1358,63,82,320,17,16,1325,1503,90.35262807717898,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gobby,900,0,0,190,0,0,872,900,100.0,Ukrainian <translation@linux.org.ua>
+goffice,297,1556,4348,100,732,1169,302,6201,4.78955007256894,Ukrainian <uk@li.org>
+goffice08,344,1210,3045,118,597,845,349,4599,7.479886931941726,Ukrainian <uk@li.org>
+googsystray,0,0,759,0,0,199,0,759,0.0,Ukrainian
+gparted,2596,0,0,442,0,0,2326,2596,100.0,linux.org.ua
+gphoto2,1695,10,4,332,1,1,1629,1709,99.1808074897601,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gphotoframe,1214,30,75,253,5,9,1070,1319,92.03942380591357,LANGUAGE <LL@li.org>
+gpicview,236,0,0,52,0,0,234,236,100.0,LANGUAGE <LL@li.org>
+gpodder,1090,362,427,314,95,93,1113,1879,58.009579563597654,LANGUAGE <LL@li.org>
+gpx-viewer,52,0,56,28,0,30,54,108,48.148148148148145,Ukrainian <uk@li.org>
+gramps,36978,0,672,6220,0,163,32758,37650,98.21513944223108,Ukrainian <fedikw@gmail.com>
+grep,952,0,0,114,0,0,1057,952,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gretl,15405,0,8,3901,0,2,14982,15413,99.94809576331669,
+gridengine,847,402,798,209,66,124,894,2047,41.37762579384465,Ukrainian <translation-team-uk@lists.sourceforge.net>
+grilo,187,0,0,36,0,0,177,187,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+grilo-plugins,483,0,0,125,0,0,458,483,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+grub-customizer,1028,0,267,182,0,11,938,1295,79.38223938223939,Ukrainian <uk@li.org>
+grub2,6503,517,33,1259,63,4,6814,7053,92.20189990075144,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gscan2pdf,1224,0,400,372,0,101,1201,1624,75.36945812807882,Ukrainian <uk@li.org>
+gsettings-desktop-schemas,1033,0,3552,106,0,312,825,4585,22.52998909487459,translation@linux.org.ua
+gstreamer,1914,3,0,347,1,0,1812,1917,99.8435054773083,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gstreamer-plugins-bad-free,96,0,0,14,0,0,94,96,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gstreamer-plugins-base,902,0,6,176,0,2,834,908,99.33920704845815,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gstreamer-plugins-good,814,0,0,190,0,0,768,814,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gstreamer1,2027,0,0,368,0,0,1945,2027,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,492,0,0,58,0,0,518,492,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gstreamer1-plugins-base,900,0,0,189,0,0,860,900,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gstreamer1-plugins-good,759,0,0,107,0,0,731,759,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gtg,2097,0,1400,293,0,7,1879,3497,59.96568487274807,Ukrainian <uk@li.org>
+gthumb,2653,0,0,857,0,0,2437,2653,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+gtick,338,0,0,96,0,0,352,338,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gtk+,202,0,0,105,0,0,193,202,100.0,Ukrainian <uk@li.org>
+gtk-gnutella,1304,0,15019,773,0,1905,1344,16323,7.988727562335356,Ukrainian (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/uk/)
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Ukrainian <uk@li.org>
+gtk2,13699,5,0,2783,1,0,12032,13704,99.96351430239346,Ukrainian <trans-uk@lists.fedoraproject.org>
+gtk2-engines,119,0,0,47,0,0,125,119,100.0,ukrainian <Ukrainian <uk@li.org>>
+gtk3,13926,0,0,3108,0,0,12033,13926,100.0,linux.org.ua
+gtkhtml3,488,0,0,310,0,0,471,488,100.0,translation@linux.org.ua
+gtksourceview2,1413,0,0,538,0,0,1361,1413,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+gtksourceview3,1551,0,0,627,0,0,1508,1551,100.0,translation@linux.org.ua
+gtkspell,11,0,0,5,0,0,11,11,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gtkspell3,16,0,0,7,0,0,17,16,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gtranslator,4301,0,0,660,0,0,3690,4301,100.0,Ukrainian <uk@li.org>
+guake,395,237,434,78,47,69,389,1066,37.05440900562852,Ukrainian (Ukraine) (http://www.transifex.com/projects/p/guake/language/uk_UA/)
+guayadeque,3319,0,7,1015,0,4,2951,3326,99.78953698135899,Ukrainian (Ukraine) (http://www.transifex.com/projects/p/guayadeque/language/uk_UA/)
+gucharmap,1205,0,0,397,0,0,1131,1205,100.0,linux.org.ua
+gutenprint,11674,991,222,3315,336,90,11257,12887,90.5874136726934,Ukrainian <translation-team-uk@lists.sourceforge.net>
+gvfs,2691,17,8,594,3,1,2651,2716,99.07952871870398,Ukrainian <kde-i18n-uk@kde.org>
+gweled,107,0,49,36,0,8,110,156,68.58974358974359,Ukrainian <uk@li.org>
+gwget,507,0,0,166,0,0,465,507,100.0,Ukrainian <uk@li.org>
+gxneur,373,0,542,107,0,111,379,915,40.76502732240437,
+hamster-time-tracker,696,1,0,171,1,0,699,697,99.85652797704448,translation@linux.org.ua
+help2man,2669,0,0,220,0,0,2671,2669,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+hexchat,3407,0,2355,993,0,421,3167,5762,59.128774730996184,Ukrainian (http://www.transifex.com/projects/p/hexchat/language/uk/)
+hitori,171,0,0,35,0,0,128,171,100.0,linux.org.ua
+hivex,270,0,0,22,0,0,278,270,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+homebank,928,0,1333,367,0,356,822,2261,41.043785935426804,Ukrainian <uk@li.org>
+homerun,504,0,0,135,0,0,495,504,100.0,Ukrainian <kde-i18n-uk@kde.org>
+iagno,318,0,0,69,0,0,282,318,100.0,linux.org.ua
+ibus,1054,0,0,169,0,0,1004,1054,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+ibus-anthy,562,0,131,177,0,18,549,693,81.0966810966811,Ukrainian <kde-i18n-uk@kde.org>
+ibus-chewing,359,0,0,70,0,0,388,359,100.0,Ukrainian <kde-i18n-uk@kde.org>
+ibus-input-pad,90,0,0,27,0,0,89,90,100.0,Ukrainian
+ibus-typing-booster,730,0,0,67,0,0,671,730,100.0,Ukrainian <kde-i18n-uk@kde.org>
+icewm,0,0,0,0,0,0,0,0,0.0,Ukrainian <linux@linux.org.ua>
+im-chooser,235,0,4,53,0,3,222,239,98.32635983263597,Ukrainian <trans-uk@lists.fedoraproject.org>
+imsettings,440,0,0,80,0,0,441,440,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+initial-setup,33,0,0,7,0,0,30,33,100.0,Ukrainian (http://www.transifex.com/projects/p/initial-setup/language/uk/)
+initscripts,922,68,13,144,12,2,894,1003,91.92422731804587,Ukrainian <trans-uk@lists.fedoraproject.org>
+inkscape,34659,2,12,7399,1,3,34222,34673,99.95962276122631,Ukrainian <translation@linux.org.ua>
+input-pad,2220,0,0,1017,0,0,2322,2220,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+insight,9792,0,0,1557,0,0,10353,9792,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+iok,142,5,59,36,1,3,141,206,68.93203883495146,Ukrainian <trans-uk@lists.fedoraproject.org>
+iso-codes,27518,0,0,17267,0,0,25630,27518,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+isomaster,666,0,8,105,0,2,571,674,98.81305637982196,
+iwhd,957,0,0,173,0,0,1090,957,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+jmol,2821,169,176,952,44,25,2965,3166,89.10296904611498,Ukrainian <translation@linux.org.ua>
+joe,1403,251,17,323,60,5,1332,1671,83.96169958108916,
+jpilot,1566,594,914,515,109,139,1489,3074,50.943396226415096,Ukrainian <translation-team-uk@lists.sourceforge.net>
+json-glib,303,0,0,44,0,0,272,303,100.0,translation@linux.org.ua
+k3b,20541,0,0,2534,0,0,19123,20541,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kactivitymanagerd,9,0,0,4,0,0,10,9,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kamoso,165,0,0,51,0,0,169,165,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kaudiocreator,1136,0,0,273,0,0,1047,1136,100.0,Ukrainian <translation@linux.org.ua>
+kbd,2367,0,0,278,0,0,2359,2367,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+kchildlock,806,0,0,122,0,0,741,806,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kchmviewer,972,0,0,207,0,0,861,972,100.0,Ukrainian <translation@linux.org.ua>
+kcm-gtk,124,0,0,21,0,0,118,124,100.0,Ukrainian <uk@li.org>
+kcm_systemd,1385,0,0,168,0,0,1316,1385,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kcoloredit,278,0,0,95,0,0,268,278,100.0,Ukrainian <translation@linux.org.ua>
+kde-cli-tools,2116,0,0,216,0,0,1948,2116,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kde-connect,608,0,0,144,0,0,643,608,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kde-gtk-config,294,0,0,72,0,0,284,294,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kde-l10n,466450,0,0,96923,0,0,446641,466450,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kde-partitionmanager,4878,0,0,868,0,0,5017,4878,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kde-plasma-nm,2939,0,0,996,0,0,3121,2939,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kdeplasma-addons,4092,0,0,1244,0,0,4302,4092,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kdevelop,4291,0,0,845,0,0,4244,4291,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kdevelop-php,329,0,0,57,0,0,337,329,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kdevelop-python,584,0,0,99,0,0,590,584,100.0,Ukrainian <kde-i18n-doc@kde.org>
+kdevplatform,9124,0,0,1912,0,0,9021,9124,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kdiff3,3770,0,0,663,0,0,3585,3770,100.0,Ukrainian <translation@linux.org.ua>
+kexec-tools,51,8,24,2,2,8,34,83,61.44578313253012,Ukrainian <uk@li.org>
+kf5-baloo,538,0,0,123,0,0,492,538,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kauth,58,0,0,8,0,0,60,58,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kbookmarks,218,0,0,48,0,0,208,218,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kcmutils,563,0,0,71,0,0,497,563,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,268,348,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kcompletion,20,0,0,12,0,0,20,20,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kconfig,262,0,0,100,0,0,269,262,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kconfigwidgets,325,0,0,118,0,0,335,325,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kcoreaddons,275,0,0,82,0,0,319,275,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,49,48,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,96,109,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,5179,4813,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,54,54,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kdesu,19,0,0,7,0,0,22,19,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,11,8,100.0,Ukrainian <translation@linux.org.ua>
+kf5-kfilemetadata,138,0,0,70,0,0,161,138,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,55,71,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-khtml,1723,0,0,312,0,0,1564,1723,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kiconthemes,37,0,0,20,0,0,39,37,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kinit,134,0,0,14,0,0,117,134,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kio,11924,0,0,1311,0,0,10648,11924,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kirigami,2,0,0,2,0,0,2,2,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,8,7,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kjobwidgets,141,0,0,45,0,0,196,141,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,249,248,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-knewstuff,677,0,0,151,0,0,678,677,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-knotifications,18,0,0,6,0,0,16,18,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,115,129,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kpackage,429,0,0,90,0,0,435,429,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kparts,104,0,0,26,0,0,91,104,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kpeople,21,0,0,11,0,0,28,21,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kross,100,0,0,35,0,0,100,100,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-krunner,15,0,0,3,0,0,14,15,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kservice,170,0,0,28,0,0,165,170,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-ktexteditor,8672,0,0,1470,0,0,8118,8672,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,485,462,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kunitconversion,4405,0,0,1867,0,0,6922,4405,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kwallet,1624,0,0,131,0,0,1583,1624,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kwidgetsaddons,1314,0,0,454,0,0,1239,1314,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kxmlgui,1548,0,0,228,0,0,1505,1548,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-plasma,793,0,0,219,0,0,814,793,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-solid,677,0,0,220,0,0,622,677,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kf5-sonnet,663,0,0,72,0,0,552,663,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kflickr,156,0,176,44,0,43,169,332,46.98795180722892,Ukrainian <uk@li.org>
+kgamma,130,0,0,16,0,0,119,130,100.0,Ukrainian <translation@linux.org.ua>
+kgrab,370,0,0,53,0,0,295,370,100.0,Ukrainian <translation@linux.org.ua>
+kgraphviewer,1251,0,0,242,0,0,1143,1251,100.0,Ukrainian <kde-i18n-uk@kde.org>
+khelpcenter,264,0,0,89,0,0,280,264,100.0,Ukrainian <kde-i18n-uk@kde.org>
+khotkeys,436,0,0,129,0,0,423,436,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kiconedit,726,0,0,155,0,0,600,726,100.0,Ukrainian <translation@linux.org.ua>
+kile,11162,0,0,1902,0,0,10154,11162,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kinfocenter,2920,0,0,1011,0,0,2983,2920,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kio_gopher,17,0,0,5,0,0,19,17,100.0,Ukrainian <translation@linux.org.ua>
+kio_mtp,17,0,0,2,0,0,18,17,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kio_sysinfo,168,0,0,72,0,0,182,168,100.0,Ukrainian <translation@linux.org.ua>
+klamav,2503,0,0,419,0,0,2176,2503,100.0,Ukrainian <translation@linux.org.ua>
+klavaro,1911,0,0,232,0,0,1799,1911,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+kmenuedit,277,0,0,61,0,0,252,277,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kmid2,1022,0,0,333,0,0,1089,1022,100.0,Ukrainian <translation@linux.org.ua>
+kmldonkey,1830,0,0,436,0,0,1791,1830,100.0,Ukrainian <translation@linux.org.ua>
+kmplayer,1249,0,0,371,0,0,1260,1249,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kmymoney,20996,0,0,3379,0,0,20458,20996,100.0,Ukrainian <kde-i18n-uk@kde.org>
+knemo,1236,0,0,352,0,0,1276,1236,100.0,Ukrainian <kde-i18n-uk@kde.org>
+knights,757,0,0,219,0,0,717,757,100.0,Ukrainian <kde-i18n-uk@kde.org>
+koffice-kivio,7730,50,637,2119,22,220,7035,8417,91.83794701199952,Ukrainian <translation@linux.org.ua>
+konversation,10250,0,0,1630,0,0,10099,10250,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kopete-cryptography,408,0,0,41,0,0,387,408,100.0,Ukrainian <translation@linux.org.ua>
+kphotoalbum,9769,3,0,990,1,0,9658,9772,99.96930004093328,Ukrainian <kde-i18n-uk@kde.org>
+kpilot,7156,0,0,861,0,0,6745,7156,100.0,Ukrainian <translation@linux.org.ua>
+kradio4,3718,89,109,813,11,21,3771,3916,94.9438202247191,Ukrainian <translation@linux.org.ua>
+krb5-auth-dialog,1734,0,0,350,0,0,1837,1734,100.0,ukrainian <Ukrainian <uk@li.org>>
+krecipes,3748,0,0,803,0,0,3974,3748,100.0,Ukrainian <translation@linux.org.ua>
+krename,2039,0,19,436,0,3,1936,2058,99.07677356656949,Ukrainian <translation@linux.org.ua>
+krusader,7956,0,0,1737,0,0,7848,7956,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kscreen,207,0,0,62,0,0,241,207,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kscreenlocker,188,0,0,34,0,0,190,188,100.0,Ukrainian <kde-i18n-uk@kde.org>
+ksig,85,0,0,26,0,0,76,85,100.0,Ukrainian <translation@linux.org.ua>
+ksnapshot,521,0,0,63,0,0,475,521,100.0,Ukrainian <kde-i18n-uk@kde.org>
+ksshaskpass,43,0,0,12,0,0,42,43,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kst,7288,0,0,1941,0,0,7606,7288,100.0,Ukrainian <kde-i18n-uk@kde.org>
+ksysguard,1081,0,0,233,0,0,969,1081,100.0,Ukrainian <kde-i18n-uk@kde.org>
+ktorrent,7739,0,0,1389,0,0,7191,7739,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kvirc,28543,24,154,4376,5,14,25070,28721,99.3802444204589,
+kwebkitpart,624,0,0,158,0,0,594,624,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kwin,6212,0,0,1170,0,0,5812,6212,100.0,Ukrainian <kde-i18n-uk@kde.org>
+kxstitch,1910,0,0,548,0,0,1811,1910,100.0,Ukrainian <kde-i18n-uk@kde.org>
+l3afpad,113,0,17,61,0,3,122,130,86.92307692307692,Ukrainian <translation-team-uk@lists.sourceforge.net>
+latexila,3342,0,0,679,0,0,3304,3342,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+lazarus,25651,4163,6583,7356,406,1274,24666,36397,70.475588647416,
+ldm,0,0,55,0,0,19,0,55,0.0,Ukrainian <uk@li.org>
+leafpad,123,2,0,67,1,0,129,125,98.4,Ukrainian <translation-team-uk@lists.sourceforge.net>
+lekhonee-gnome,112,0,0,44,0,0,103,112,100.0,Ukrainian <translation@linux.org.ua>
+lftp,3859,30,21,463,7,4,4227,3910,98.69565217391305,Ukrainian <kde-i18n-uk@kde.org>
+libappstream-glib,412,0,0,89,0,0,432,412,100.0,Ukrainian (http://www.transifex.com/freedesktop/appstream-glib/language/uk/)
+libbonobo,547,0,0,108,0,0,532,547,100.0,Ukrainian <uk@li.org>
+libbonoboui,368,0,0,115,0,0,346,368,100.0,Ukrainian <uk@li.org>
+libcryptui,3012,0,0,654,0,0,2733,3012,100.0,translation@linux.org.ua
+libexif,1243,0,5734,548,0,629,1389,6977,17.81568009172997,Ukrainian <translation-team-uk@lists.sourceforge.net>
+libextractor,1952,12,0,482,4,0,1764,1964,99.38900203665987,Ukrainian <translation-team-uk@lists.sourceforge.net>
+libfm,1565,0,0,390,0,0,1447,1565,100.0,Ukrainian <translation@linux.org.ua>
+libgda,131,3121,7890,50,747,1257,130,11142,1.1757314665230658,Ukrainian <uk@li.org>
+libgdata,597,0,0,74,0,0,503,597,100.0,translation@linux.org.ua
+libgdl,592,0,0,86,0,0,511,592,100.0,translation@linux.org.ua
+libgnome,1773,0,0,273,0,0,1631,1773,100.0,Ukrainian <uk@li.org>
+libgnome-keyring,44,0,0,9,0,0,38,44,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+libgnome-media-profiles,446,0,14,49,0,2,399,460,96.95652173913044,Ukrainian <trans-uk@lists.fedoraproject.org>
+libgnomecanvas,378,0,0,95,0,0,342,378,100.0,Ukrainian <uk@li.org>
+libgnomekbd,242,0,0,55,0,0,218,242,100.0,translation@linux.org.ua
+libgnomeui,1309,0,0,334,0,0,1142,1309,100.0,Ukrainian <uk@li.org>
+libgpg-error,1262,7,12,397,3,4,1366,1281,98.5167837626854,Ukrainian <translation-team-uk@lists.sourceforge.net>
+libgphoto2,11077,32,3,2417,9,2,10856,11112,99.68502519798416,Ukrainian <translation-team-uk@lists.sourceforge.net>
+libgsasl,577,0,0,69,0,0,621,577,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+libgsf,213,0,0,28,0,0,195,213,100.0,Ukrainian <uk@li.org>
+libgtop2,126,0,0,40,0,0,138,126,100.0,Ukrainian <uk@li.org>
+libguestfs,42231,799,137904,7969,161,7464,42048,180934,23.340555119546355,Ukrainian (http://www.transifex.com/projects/p/libguestfs/language/uk/)
+libgweather,6109,0,0,4520,0,0,5891,6109,100.0,
+libgxim,0,124,0,0,24,0,0,124,0.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+libidn,414,0,14,58,0,2,462,428,96.72897196261682,Ukrainian <translation-team-uk@lists.sourceforge.net>
+libkexif,25,0,0,14,0,0,24,25,100.0,Ukrainian <translation@linux.org.ua>
+libkfbapi,42,0,0,6,0,0,40,42,100.0,Ukrainian <kde-i18n-uk@kde.org>
+libkpeople,26,0,0,12,0,0,31,26,100.0,Ukrainian <kde-i18n-uk@kde.org>
+libksysguard,3193,0,0,398,0,0,3155,3193,100.0,Ukrainian <kde-i18n-uk@kde.org>
+libktorrent,519,0,0,115,0,0,568,519,100.0,Ukrainian <translation@linux.org.ua>
+libmatekbd,251,0,0,43,0,0,228,251,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+libmatemixer,242,0,0,126,0,0,243,242,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+libmateweather,6124,0,0,4557,0,0,5885,6124,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+libmx,3,0,37,3,0,14,3,40,7.5,
+libosinfo,1485,0,386,431,0,123,1540,1871,79.36932121859968,Ukrainian (http://www.transifex.com/projects/p/libosinfo/language/uk/)
+libpaper,0,25,48,0,1,45,0,73,0.0,Ukrainian
+libpeas,105,0,0,26,0,0,83,105,100.0,translation@linux.org.ua
+libpwquality,343,0,0,53,0,0,311,343,100.0,Ukrainian (http://www.transifex.com/projects/p/libpwquality/language/uk/)
+libreoffice,287069,1236,256897,53587,436,22719,251275,545202,52.653695327603344,LANGUAGE <LL@li.org>
+libreport,4475,0,0,547,0,0,4702,4475,100.0,Ukrainian (http://www.transifex.com/projects/p/libreport/language/uk/)
+librfm,1888,366,143,512,75,11,2173,2397,78.7651230705048,Ukrainian <translation-team-uk@lists.sourceforge.net>
+libsecret,59,0,0,9,0,0,53,59,100.0,linux.org.ua
+libsoup,110,0,0,25,0,0,111,110,100.0,linux.org.ua
+libuser,1385,34,18,292,6,3,1380,1437,96.3813500347947,Ukrainian (http://www.transifex.com/projects/p/fedora/language/uk/)
+libvirt,49776,3219,1436,7973,421,189,54019,54431,91.44788815197222,Ukrainian (http://www.transifex.com/projects/p/libvirt/language/uk/)
+libvirt-glib,138,0,0,29,0,0,140,138,100.0,Ukrainian (http://www.transifex.com/projects/p/libvirt-glib/language/uk/)
+libvirt-sandbox,519,0,98,94,0,17,548,617,84.11669367909238,Ukrainian <trans-uk@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1037,1124,100.0,Ukrainian <uk@li.org>
+libwnck3,1084,0,0,230,0,0,998,1084,100.0,translation@linux.org.ua
+libxfce4ui,871,0,0,169,0,0,846,871,100.0,Ukrainian (http://www.transifex.com/projects/p/libxfce4ui/language/uk/)
+libxfce4util,424,0,0,7,0,0,368,424,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+lifeograph,243,87,674,79,24,168,230,1004,24.203187250996017,Ukrainian <uk@li.org>
+liferea,2271,0,0,499,0,0,2402,2271,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Ukrainian (http://www.transifex.com/the_cavalry/light-locker/language/uk/)
+lightdm,79,0,0,17,0,0,71,79,100.0,Ukrainian <uk@li.org>
+lightdm-gtk,34,0,50,11,0,13,31,84,40.476190476190474,Ukrainian <uk@li.org>
+lightdm-kde,134,0,0,57,0,0,143,134,100.0,Ukrainian <kde-i18n-uk@kde.org>
+lightsoff,93,0,0,17,0,0,85,93,100.0,linux.org.ua
+lilypond,807,1,1606,172,1,271,843,2414,33.42999171499586,Ukrainian <translation-team-uk@lists.sourceforge.net>
+lilyterm,1648,0,0,295,0,0,1480,1648,100.0,Ukrainian
+linux_logo,45,3,6,15,3,5,45,54,83.33333333333334,LANGUAGE <LL@li.org>
+listen,625,1,1157,268,1,280,634,1783,35.05328098710039,Ukrainian <uk@li.org>
+liveusb-creator,87,143,419,9,26,78,73,649,13.405238828967642,Ukrainian <trans-uk@lists.fedoraproject.org>
+logjam,2154,56,106,520,32,37,1968,2316,93.00518134715026,Ukrainian
+lxappearance,234,0,0,80,0,0,236,234,100.0,Ukrainian
+lxappearance-obconf,196,0,0,27,0,0,172,196,100.0,Ukrainian
+lxde-common,14,0,0,5,0,0,14,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,47,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,76,83,100.0,LANGUAGE <LL@li.org>
+lxlauncher,58,0,0,17,0,0,50,58,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,94,97,100.0,Ukrainian <uk@li.org>
+lxmusic,203,0,0,89,0,0,219,203,100.0,LANGUAGE <LL@li.org>
+lxpanel,1306,0,0,424,0,0,1276,1306,100.0,UKRAINIAN <translate@linux.org.ua>
+lxpolkit,15,0,0,9,0,0,16,15,100.0,UKRAINIAN <ukrainian@li.org>
+lxrandr,167,0,0,41,0,0,166,167,100.0,LANGUAGE <LL@li.org>
+lxsession,190,0,565,80,0,86,194,755,25.165562913907287,Ukrainian
+lxsession-edit,64,0,0,11,0,0,62,64,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,43,43,100.0,LANGUAGE <LL@li.org>
+lxtask,130,0,0,51,0,0,137,130,100.0,Ukrainian
+lxterminal,182,1,64,102,1,28,188,247,73.68421052631578,Ukrainian
+lynx,4723,215,3111,872,44,302,4174,8049,58.67809665796994,Ukrainian <translation-team-uk@lists.sourceforge.net>
+lyx,22477,67,232,6834,25,14,22004,22776,98.68721461187214,Ukrainian <translation@linux.org.ua>
+mailman,19386,2412,1923,1282,74,74,16591,23721,81.72505374984192,Ukrainian <uk@li.org>
+mailnag,129,0,76,46,0,13,126,205,62.926829268292686,Ukrainian <uk@li.org>
+make,2280,4,3,438,1,1,2405,2287,99.69392216878006,Ukrainian <translation-team-uk@lists.sourceforge.net>
+man-db,226,9,0,53,1,0,216,235,96.17021276595744,Ukrainian <translation-team-uk@lists.sourceforge.net>
+manaplus,1141,642,1336,354,169,305,1110,3119,36.58223789676178,Ukrainian <uk@li.org>
+marco,4096,0,0,414,0,0,3739,4096,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+massif-visualizer,385,0,0,108,0,0,393,385,100.0,Ukrainian <kde-i18n-uk@kde.org>
+mate-applets,12465,481,935,1437,49,78,10725,13881,89.79900583531446,Ukrainian <uk@li.org>
+mate-backgrounds,30,0,0,21,0,0,29,30,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-calc,1412,0,0,441,0,0,1299,1412,100.0,Ukrainian (http://www.transifex.com/projects/p/MATE/language/uk/)
+mate-control-center,2997,0,0,676,0,0,2739,2997,100.0,Ukrainian <linux@linux.org.ua>
+mate-desktop,2401,0,0,332,0,0,2144,2401,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-media,225,0,0,96,0,0,230,225,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-menus,97,0,0,37,0,0,99,97,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-netspeed,147,0,0,57,0,0,158,147,100.0,Ukrainian (http://www.transifex.com/projects/p/MATE/language/uk/)
+mate-notification-daemon,133,0,6,35,0,2,123,139,95.68345323741008,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-panel,6123,0,0,757,0,0,5285,6123,100.0,Ukrainian <uk@li.org>
+mate-polkit,313,0,0,50,0,0,268,313,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-power-manager,2725,0,0,439,0,0,2448,2725,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-screensaver,983,0,0,156,0,0,857,983,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-sensors-applet,304,0,0,105,0,0,291,304,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-session-manager,681,0,0,114,0,0,633,681,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-settings-daemon,1704,0,0,247,0,0,1529,1704,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-system-monitor,1307,0,0,308,0,0,1219,1307,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-terminal,8074,0,0,782,0,0,6362,8074,100.0,Ukrainian <uk@li.org>
+mate-themes,55,0,0,10,0,0,47,55,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+mate-user-guide,40318,0,0,2876,0,0,33639,40318,100.0,Ukrainian <linux@linux.org.ua>
+mate-utils,9822,0,0,1097,0,0,8171,9822,100.0,Ukrainian <uk@li.org>
+mc,3697,0,373,1120,0,82,3698,4070,90.83538083538083,Ukrainian (http://www.transifex.com/mc/mc/language/uk/)
+mcomix,566,483,1518,156,105,273,501,2567,22.049084534476044,
+menulibre,39,0,662,21,0,128,39,701,5.563480741797433,Ukrainian <uk@li.org>
+metacity,2040,0,0,310,0,0,1956,2040,100.0,translation@linux.org.ua
+midori,2918,0,623,692,0,104,2823,3541,82.40609997175939,Ukrainian <translation@linux.org.ua>
+minetest,230,127,312,128,54,88,248,669,34.379671150971596,LANGUAGE <LL@li.org>
+mingw-GConf2,4088,0,0,497,0,0,3802,4088,100.0,translation@linux.org.ua
+mingw-adwaita-icon-theme,4,0,0,2,0,0,3,4,100.0,linux.org.ua
+mingw-atk,398,0,0,139,0,0,360,398,100.0,translation@linux.org.ua
+mingw-binutils,45924,0,2735,7594,0,199,47906,48659,94.37925152592531,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-colord,1885,0,0,203,0,0,1860,1885,100.0,Ukrainian (http://www.transifex.com/projects/p/colord/language/uk/)
+mingw-colorhug-client,1236,0,173,257,0,37,1162,1409,87.72178850248403,Ukrainian (http://www.transifex.com/projects/p/colorhug-client/language/uk/)
+mingw-gcc,2036,0,84626,477,0,10983,2091,86662,2.3493572730839354,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gdb,9792,0,0,1557,0,0,10353,9792,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gdbm,663,30,6,185,6,2,746,699,94.84978540772532,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gdk-pixbuf,1360,0,0,203,0,0,1432,1360,100.0,linux.org.ua
+mingw-gettext,7303,0,0,743,0,0,6809,7303,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-glib-networking,135,0,0,24,0,0,125,135,100.0,translation@linux.org.ua
+mingw-glib2,5651,0,0,879,0,0,5531,5651,100.0,Ukrainian <Ukrainian <uk@li.org>>
+mingw-gnutls,1358,66,70,320,18,14,1325,1494,90.89692101740295,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gstreamer,1914,3,0,347,1,0,1812,1917,99.8435054773083,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,96,0,0,14,0,0,94,96,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gstreamer-plugins-base,902,0,6,176,0,2,834,908,99.33920704845815,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,768,814,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gstreamer1,2007,0,20,366,0,2,1928,2027,99.01332017760237,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,487,5,0,57,1,0,512,492,98.98373983739837,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,900,0,0,189,0,0,860,900,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,748,11,0,106,1,0,718,759,98.55072463768117,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-gtk-vnc,8,0,0,3,0,0,8,8,100.0,Ukrainian <uk@li.org>
+mingw-gtk2,13699,5,0,2783,1,0,12032,13704,99.96351430239346,Ukrainian <trans-uk@lists.fedoraproject.org>
+mingw-gtk3,13926,0,0,3108,0,0,12033,13926,100.0,linux.org.ua
+mingw-gtkhtml3,488,0,0,310,0,0,471,488,100.0,translation@linux.org.ua
+mingw-gtksourceview3,1551,0,0,627,0,0,1508,1551,100.0,translation@linux.org.ua
+mingw-gtkspell3,16,0,0,7,0,0,17,16,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-libgpg-error,743,50,10,260,18,3,794,803,92.5280199252802,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-libgsf,213,0,0,28,0,0,195,213,100.0,Ukrainian <uk@li.org>
+mingw-libidn,414,0,0,58,0,0,462,414,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+mingw-libosinfo,1494,0,0,434,0,0,1550,1494,100.0,Ukrainian (http://www.transifex.com/projects/p/libosinfo/language/uk/)
+mingw-libsoup,110,0,0,25,0,0,111,110,100.0,linux.org.ua
+mingw-libvirt,50847,1756,1122,8095,245,155,55194,53725,94.64308980921359,Ukrainian (http://www.transifex.com/projects/p/libvirt/language/uk/)
+mingw-libvirt-glib,138,0,0,29,0,0,140,138,100.0,Ukrainian (http://www.transifex.com/projects/p/libvirt-glib/language/uk/)
+mingw-p11-kit,476,0,0,81,0,0,434,476,100.0,Ukrainian (http://www.transifex.com/freedesktop/p11-kit/language/uk/)
+mingw-qt5-qtwebkit,1443,595,593,337,125,110,1365,2631,54.846066134549595,Ukrainian <translation@linux.org.ua>
+mingw-sane-backends,4907,0,0,1038,0,0,4781,4907,100.0,Ukrainian <translation@linux.org.ua>
+mingw-webkitgtk,1443,587,593,337,123,110,1365,2623,55.01334349980937,Ukrainian <translation@linux.org.ua>
+mingw-webkitgtk3,1443,587,593,337,123,110,1365,2623,55.01334349980937,Ukrainian <translation@linux.org.ua>
+mingw-wxWidgets,6249,109,33,1437,24,14,5892,6391,97.77812548896885,Ukrainian <uk@li.org>
+mintmenu,5436,0,563,1174,0,60,5019,5999,90.61510251708617,Ukrainian <uk@li.org>
+mirage,844,0,0,249,0,0,789,844,100.0,Максим aka ma$terok
+mkvtoolnix,21179,524,15084,2545,41,698,19588,36787,57.57196835838747,Ukrainian <moritz@bunkus.org>
+mlocate,406,175,0,50,1,0,417,581,69.87951807228916,Ukrainian <trans-uk@lists.fedoraproject.org>
+modem-manager-gui,2342,0,808,461,0,82,2125,3150,74.34920634920636,Ukrainian (http://www.transifex.com/ethereal/modem-manager-gui/language/uk/)
+moin,2996,915,1133,614,152,167,2685,5044,59.39730372720064,
+monodevelop,18250,0,5048,4570,0,728,16422,23298,78.33290411194093,Ukrainian <kde-i18n-doc@kde.org>
+moodle,52,0,0,14,0,0,42,52,100.0,i18n@lists.horde.org
+mousepad,1088,0,0,306,0,0,951,1088,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-apps/language/uk/)
+mousetweaks,114,0,0,30,0,0,117,114,100.0,translation@linux.org.ua
+mozo,42,0,0,16,0,0,40,42,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+msp430-binutils,7010,0,0,1028,0,0,6729,7010,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+msp430-gcc,1111,107,50,184,19,7,1086,1268,87.61829652996845,Ukrainian <translation-team-uk@lists.sourceforge.net>
+muffin,2038,0,0,272,0,0,1880,2038,100.0,translation@linux.org.ua
+multimedia-menus,56,0,0,22,0,0,58,56,100.0,Ukrainian <uk@li.org>
+muon,1901,0,0,495,0,0,2026,1901,100.0,Ukrainian <kde-i18n-uk@kde.org>
+mutt,5651,0,0,1163,0,0,5183,5651,100.0,
+mutter,809,0,0,124,0,0,738,809,100.0,linux.org.ua
+mypaint,568,1539,2106,83,299,347,560,4213,13.482079278423925,Ukrainian <kde-i18n-doc@kde.org>
+nacl-arm-binutils,49058,0,0,7843,0,0,51158,49058,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+nacl-arm-gcc,1230,0,0,201,0,0,1210,1230,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+nacl-binutils,22735,0,0,3659,0,0,23319,22735,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+nacl-gcc,1126,64,34,190,11,5,1100,1224,91.99346405228758,Ukrainian <translation-team-uk@lists.sourceforge.net>
+nano,2909,0,15,455,0,3,2738,2924,99.48700410396717,Ukrainian <translation-team-uk@lists.sourceforge.net>
+nautilus,5170,0,0,895,0,0,4699,5170,100.0,linux.org.ua
+nautilus-open-terminal,166,0,0,16,0,0,130,166,100.0,Ukrainian <uk@li.org>
+nautilus-sendto,45,0,0,8,0,0,48,45,100.0,linux.org.ua
+ncmpc,707,9,72,256,3,17,737,788,89.72081218274111,Ukrainian <uk@li.org>
+nemo-extensions,688,4,114,162,2,29,691,806,85.35980148883374,Ukrainian <uk@li.org>
+nesc,1134,38,6,192,6,1,1108,1178,96.26485568760611,Ukrainian <translation-team-uk@lists.sourceforge.net>
+net6,304,0,0,68,0,0,304,304,100.0,Ukrainian <translation@linux.org.ua>
+network-manager-applet,2548,0,0,564,0,0,2359,2548,100.0,translation@linux.org.ua
+newsbeuter,1165,111,66,306,13,15,1112,1342,86.81073025335321,Uk <sevenfourk@gmail.com>
+newt,4,0,0,4,0,0,4,4,100.0,Ukrainian
+nomacs,7475,4197,24011,2123,1483,2043,7080,35683,20.94835075526161,Ukrainian <translation-team-uk@lists.sourceforge.net>
+notification-daemon,17,0,0,7,0,0,16,17,100.0,translation@linux.org.ua
+obby,159,0,0,32,0,0,175,159,100.0,Ukrainian <translation@linux.org.ua>
+oggconvert,76,0,56,29,0,15,82,132,57.57575757575758,Ukrainian <uk@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+openbox,479,0,27,91,0,3,436,506,94.66403162055336,Ukrainian <linux.org.ua>
+openconnect,233,0,4688,61,0,793,263,4921,4.734809997967893,Ukrainian (http://www.transifex.com/projects/p/meego/language/uk/)
+openerp,5714,0,45417,2493,0,5667,5384,51131,11.175216600496764,
+openerp-client,1704,535,13219,461,227,460,1564,15458,11.023418294734117,FR <i18n-info@tinyerp.org>
+openerp7,4858,0,44279,2252,0,5192,4593,49137,9.88664346622708,Ukrainian <uk@li.org>
+orage,2931,0,0,1030,0,0,2814,2931,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-apps/language/uk/)
+orca,4172,0,0,1356,0,0,4228,4172,100.0,Ukrainian <www-uk-translations@gnu.org>
+oscap-anaconda-addon,194,0,0,37,0,0,176,194,100.0,Ukrainian (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/uk/)
+osmo,1696,0,3,704,0,1,1674,1699,99.82342554443791,Ukrainian <translation-team-uk@lists.sourceforge.net>
+oyranos,2,0,45,1,0,22,2,47,4.25531914893617,Ukrainian <uk@li.org>
+p11-kit,476,0,0,81,0,0,434,476,100.0,Ukrainian (http://www.transifex.com/freedesktop/p11-kit/language/uk/)
+pacman,5389,0,0,894,0,0,5124,5389,100.0,Ukrainian (http://www.transifex.com/toofishes/archlinux-pacman/language/uk/)
+pam,606,0,0,122,0,0,608,606,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+pam_krb5,7,0,0,4,0,0,10,7,100.0,Ukrainian (http://www.transifex.com/projects/p/pam_krb5/language/uk/)
+pan,232,1680,1256,82,450,220,236,3168,7.3232323232323235,Ukrainian <uk@li.org>
+paprefs,131,0,0,23,0,0,126,131,100.0,Ukrainian <translation@linux.org.ua>
+parole,918,0,0,273,0,0,880,918,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-apps/language/uk/)
+parted,4416,0,0,550,0,0,4105,4416,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+passwd,315,0,0,55,0,0,334,315,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+pastebinit,183,0,0,27,0,0,173,183,100.0,Ukrainian <uk@li.org>
+pavucontrol,219,1,17,85,1,1,348,237,92.40506329113924,Ukrainian <translation@linux.org.ua>
+pcmanfm,1210,0,0,296,0,0,1113,1210,100.0,Ukrainian <translation@linux.org.ua>
+pdf2djvu,1756,0,0,310,0,0,1593,1756,100.0,Ukrainian Linux Team <translation@linux.org.ua>
+pessulus,130,0,0,33,0,0,125,130,100.0,Ukrainian <uk@li.org>
+pgadmin3,2,0,16896,1,0,4401,2,16898,0.011835720203574387,LANGUAGE <LL@li.org>
+phatch,1226,0,1327,420,0,404,1148,2553,48.02193497845671,Ukrainian <uk@li.org>
+php-horde-Horde-Alarm,18,0,0,6,0,0,22,18,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,27,0,33,8,0,5,24,60,45.0,i18n@lists.horde.org
+php-horde-Horde-Browser,101,0,0,8,0,0,67,101,100.0,Ukrainian <anri@polynet.lviv.ua>
+php-horde-Horde-Cli,16,0,0,5,0,0,14,16,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,38,0,0,8,0,0,36,38,100.0,Ukrainian <anri@polynet.lviv.ua>
+php-horde-Horde-Core,802,0,229,245,0,15,708,1031,77.78855480116393,i18n@lists.horde.org
+php-horde-Horde-Crypt,283,0,8,74,0,1,260,291,97.2508591065292,Ukrainian <anri@polynet.lviv.ua>
+php-horde-Horde-Data,57,0,0,9,0,0,50,57,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,96,0,14,31,0,5,106,110,87.27272727272727,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,i18n@lists.horde.org
+php-horde-Horde-Form,480,4,76,126,1,21,425,560,85.71428571428571,Ukrainian <anri@polynet.lviv.ua>
+php-horde-Horde-Icalendar,3,0,0,1,0,0,2,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,199,0,385,118,0,169,199,584,34.07534246575342,Ukrainian <anri@polynet.lviv.ua>
+php-horde-Horde-Imsp,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,56,0,0,10,0,0,35,56,100.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,16,15,89,2,2,5,15,120,13.333333333333334,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,7,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,48,0,0,12,0,0,38,48,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,46,0,1,19,0,1,46,47,97.87234042553192,i18n@lists.horde.org
+php-horde-Horde-Nls,488,0,214,334,0,122,450,702,69.51566951566952,Ukrainian <anri@polynet.lviv.ua>
+php-horde-Horde-Perms,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,30,0,0,9,0,0,27,30,100.0,i18n@lists.horde.org
+php-horde-Horde-Rpc,48,0,0,7,0,0,50,48,100.0,i18n@lists.horde.org
+php-horde-Horde-Share,39,0,9,11,0,1,31,48,81.25,Ukrainian <anri@polynet.lviv.ua>
+php-horde-Horde-SyncMl,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,0,0,1,0,0,1,0,1,0.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,35,0,0,2,0,35,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,10,10,100.0,i18n@lists.horde.org
+php-horde-horde,2615,0,706,666,0,159,2295,3321,78.74134296898525,Ukrainian <anri@polynet.lviv.ua>
+php-horde-imp,5995,0,517,1266,0,54,5233,6512,92.0608108108108,Ukrainian <anri@polynet.lviv.ua>
+php-horde-ingo,735,0,274,208,0,52,651,1009,72.8444003964321,Ukrainian <anri@polynet.lviv.ua>
+php-horde-kronolith,2966,0,685,700,0,67,2621,3651,81.23801698164887,Ukrainian <anri@polynet.lviv.ua>
+php-horde-mnemo,500,0,5,138,0,3,420,505,99.00990099009901,Ukrainian <anri@polynet.lviv.ua>
+php-horde-nag,1323,0,135,327,0,12,1175,1458,90.74074074074075,Ukrainian <anri@polynet.lviv.ua>
+php-horde-turba,1755,0,5,419,0,4,1546,1760,99.7159090909091,Ukrainian <anri@polynet.lviv.ua>
+php-horde-wicked,483,92,96,126,24,25,434,671,71.98211624441133,Ukrainian <anri@polynet.lviv.ua>
+picard,581,0,1044,238,0,235,570,1625,35.753846153846155,Ukrainian (http://www.transifex.com/projects/p/musicbrainz/language/uk/)
+pidgin,18124,0,434,3863,0,85,17084,18558,97.66138592520745,Ukrainian (http://www.transifex.com/projects/p/pidgin/language/uk/)
+pidgin-guifications,433,38,34,180,5,7,385,505,85.74257425742574,Ukrainian <uk@li.org>
+pingus,341,0,5076,103,0,349,361,5417,6.294997230939635,Ukrainian <uk@li.org>
+pinta,1016,0,602,405,0,123,1043,1618,62.79357231149567,Ukrainian <uk@li.org>
+pitivi,7309,0,0,762,0,0,6055,7309,100.0,Ukrainian <uk@li.org>
+plank,189,0,0,50,0,0,218,189,100.0,Ukrainian <uk@li.org>
+planner,1625,0,0,493,0,0,1533,1625,100.0,Ukrainian <linux@linux.org.ua>
+plasma-breeze,255,0,0,96,0,0,270,255,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-desktop,12578,0,0,2355,0,0,12053,12578,100.0,Ukrainian <translation@linux.org.ua>
+plasma-integration,58,0,0,21,0,0,56,58,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,189,172,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-milou,33,0,0,14,0,0,31,33,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-nm,4105,0,0,1077,0,0,4263,4105,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-oxygen,799,0,0,292,0,0,803,799,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-pa,98,0,0,46,0,0,104,98,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-sdk,1632,0,0,395,0,0,1683,1632,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-systemsettings,186,0,0,43,0,0,171,186,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-user-manager,287,0,0,48,0,0,344,287,100.0,Ukrainian <kde-i18n-uk@kde.org>
+plasma-workspace,11133,0,0,2621,0,0,11252,11133,100.0,Ukrainian <kde-i18n-uk@kde.org>
+playonlinux,2430,0,298,429,0,20,2203,2728,89.07624633431085,ua_UA.UTF-8 <LL@li.org>
+pluma,12812,0,0,1802,0,0,10275,12812,100.0,Ukrainian <uk@li.org>
+po4a,1914,3,24,202,1,4,1887,1941,98.60896445131375,Ukrainian <kde-i18n-uk@kde.org>
+poedit,2516,0,0,532,0,0,2337,2516,100.0,Ukrainian
+pogo,568,0,8,99,0,2,458,576,98.61111111111111,Ukrainian <uk@li.org>
+polari,382,0,0,99,0,0,378,382,100.0,linux.org.ua
+policycoreutils,5868,558,8930,842,111,1203,6014,15356,38.213076321958845,Ukrainian (Ukraine) (http://www.transifex.com/projects/p/fedora/language/uk_UA/)
+polkit-gnome,311,0,0,48,0,0,265,311,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+polkit-kde,94,0,0,28,0,0,87,94,100.0,Ukrainian <kde-i18n-uk@kde.org>
+popt,8,5,71,2,1,28,8,84,9.523809523809524,Ukrainian <uk@li.org>
+powerdevil,663,0,0,116,0,0,651,663,100.0,Ukrainian <kde-i18n-uk@kde.org>
+pragha,878,0,12,274,0,2,856,890,98.65168539325843,Ukrainian (http://www.transifex.com/p/Pragha/language/uk/)
+procps-ng,9745,0,0,1370,0,0,10115,9745,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+psmisc,781,141,7,82,1,1,854,929,84.06889128094726,Ukrainian <translation-team-uk@lists.sourceforge.net>
+pspp,9881,134,232,1883,25,22,10300,10247,96.42822289450571,Ukrainian <translation-team-uk@lists.sourceforge.net>
+publican,4224,322,897,473,39,104,3992,5443,77.60426235531875,Ukrainian <translation@linux.org.ua>
+publican-fedora,7,0,100,2,0,6,8,107,6.5420560747663545,Ukrainian <uk@li.org>
+pulseaudio,3513,0,0,528,0,0,3613,3513,100.0,Ukrainian <translation@linux.org.ua>
+pulsecaster,147,0,0,20,0,0,150,147,100.0,Ukrainian (http://www.transifex.com/projects/p/pulsecaster/language/uk/)
+purple-telegram,562,0,48,111,0,4,527,610,92.1311475409836,Ukrainian (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/uk/)
+pybliographer,971,0,0,263,0,0,924,971,100.0,translation@linux.org.ua
+pychess,123,0,4332,80,0,799,121,4455,2.760942760942761,Ukrainian (http://www.transifex.com/gbtami/pychess/language/uk/)
+pykickstart,1276,0,0,139,0,0,1164,1276,100.0,Ukrainian <kde-i18n-uk@kde.org>
+python-blivet,696,11,0,131,1,0,684,707,98.44413012729845,Ukrainian
+python-caja,6,0,0,2,0,0,5,6,100.0,Ukrainian (http://www.transifex.com/mate/MATE/language/uk/)
+python-django,3142,0,185,723,0,23,3231,3327,94.4394349263601,Ukrainian (http://www.transifex.com/projects/p/django/language/uk/)
+python-django-debug-toolbar,40,0,317,30,0,107,42,357,11.204481792717088,Ukrainian (http://www.transifex.com/projects/p/django-debug-toolbar/language/uk/)
+python-django-formtools,22,0,10,8,0,3,21,32,68.75,Ukrainian (http://www.transifex.com/projects/p/django-formtools/language/uk/)
+python-django-openstack-auth,42,0,78,9,0,12,34,120,35.0,Ukrainian (http://www.transifex.com/projects/p/horizon/language/uk/)
+python-django-rest-framework,0,0,493,0,0,74,0,493,0.0,Ukrainian (http://www.transifex.com/projects/p/django-rest-framework/language/uk/)
+python-django-simple-captcha,11,0,0,3,0,0,11,11,100.0,uk @FuriousCoder
+python-fedora,214,0,0,29,0,0,212,214,100.0,Ukrainian (http://www.transifex.com/projects/p/python-fedora/language/uk/)
+python-flask-admin,326,0,0,95,0,0,314,326,100.0,Ukrainian
+python-lettuce,7023,0,483,2122,0,181,6633,7506,93.56514788169464,LANGUAGE <LL@li.org>
+python-meh,109,0,0,23,0,0,108,109,100.0,Ukrainian (http://www.transifex.com/projects/p/python-meh/language/uk/)
+python-nikola,73,0,10,30,0,4,72,83,87.95180722891565,Ukrainian (http://www.transifex.com/projects/p/nikola/language/uk/)
+python-sphinx,345,0,148,124,0,53,339,493,69.97971602434076,Ukrainian (Ukraine) (http://www.transifex.com/projects/p/sphinx-1/language/uk_UA/)
+qt5-qtwebkit,1443,595,593,337,125,110,1365,2631,54.846066134549595,Ukrainian <translation@linux.org.ua>
+qtcurve,5723,4,0,754,1,0,5596,5727,99.9301554042256,Ukrainian <translation@linux.org.ua>
+qtcurve-kde4,5814,4,0,757,1,0,5680,5818,99.93124785149536,Ukrainian <translation@linux.org.ua>
+qtwebkit,1209,28,16,294,5,5,1188,1253,96.48842777334397,Ukrainian <translation@linux.org.ua>
+quadrapassel,428,0,0,79,0,0,327,428,100.0,linux.org.ua
+quassel,5382,0,0,1211,0,0,5473,5382,100.0,Ukrainian (http://www.transifex.com/ald/quassel/language/uk/)
+quodlibet,1226,876,3072,387,296,565,1207,5174,23.695400077309625,Ukrainian
+qutim,9139,0,71,3361,0,19,9105,9210,99.22909880564603,Ukrainian <uk@li.org>
+radiotray,130,0,0,46,0,0,124,130,100.0,Ukrainian (http://www.transifex.com/projects/p/radiotray/language/uk/)
+rapid-photo-downloader,1743,0,89,389,0,20,1657,1832,95.14192139737992,Ukrainian <uk@li.org>
+rapidsvn,1143,158,118,360,49,27,1106,1419,80.54968287526427,RapidSVN Developers <dev@rapidsvn.tigris.org>
+realmd,778,0,0,125,0,0,870,778,100.0,Ukrainian (http://www.transifex.com/projects/p/freedesktop/language/uk/)
+recutils,1867,0,0,209,0,0,1963,1867,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+redhat-menus,261,0,0,86,0,0,270,261,100.0,Ukrainian <uk@li.org>
+rednotebook,1147,0,0,240,0,0,1122,1147,100.0,Ukrainian <uk@li.org>
+regexxer,466,0,1,99,0,1,437,467,99.78586723768737,Ukrainian <uk@li.org>
+rekonq,2202,0,0,593,0,0,2243,2202,100.0,Ukrainian <kde-i18n-uk@kde.org>
+remmina,1072,0,78,307,0,35,1148,1150,93.21739130434783,Ukrainian <uk@li.org>
+renameutils,265,0,0,54,0,0,259,265,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Ukrainian
+revisor,4636,0,0,775,0,0,4667,4636,100.0,Ukrainian <translation@linux.org.ua>
+rhn-client-tools,4057,0,0,420,0,0,3588,4057,100.0,Ukrainian (http://www.transifex.com/projects/p/spacewalk/language/uk/)
+rhnsd,37,0,0,9,0,0,40,37,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+rhythmbox,9086,0,0,1478,0,0,8251,9086,100.0,Ukrainian <uk@li.org>
+ristretto,741,0,0,188,0,0,660,741,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-apps/language/uk/)
+rkward,34160,0,0,3870,0,0,32177,34160,100.0,Ukrainian <kde-i18n-uk@kde.org>
+rodent,1513,874,7415,500,175,197,1428,9802,15.435625382574985,
+roxterm,3015,0,4502,307,0,631,2224,7517,40.109086071571106,Ukrainian (http://www.transifex.com/realh/roxterm/language/uk/)
+rpm,3742,250,134,738,47,20,4074,4126,90.69316529326224,Ukrainian (http://www.transifex.com/rpm-team/rpm/language/uk/)
+rsibreak,1304,0,0,163,0,0,1139,1304,100.0,Ukrainian <translation@linux.org.ua>
+rygel,1218,0,0,242,0,0,1213,1218,100.0,linux.org.ua
+sakura,180,17,11,57,7,6,169,208,86.53846153846155,Ukrainian <uk@li.org>
+sane-backends,4907,0,0,1038,0,0,4781,4907,100.0,Ukrainian <translation@linux.org.ua>
+sawfish,2370,1501,2572,539,249,194,2246,6443,36.78410678255471,Ukrainian <uk@li.org>
+scilab,49125,0,0,7578,0,0,49446,49125,100.0,Ukrainian <uk@li.org>
+scratch,1462,0,8,620,0,6,1400,1470,99.45578231292517,Solvek <www.solvek.com>
+scummvm,3902,0,0,894,0,0,3677,3902,100.0,Ukrainian
+sdcc,8369,0,0,1312,0,0,8861,8369,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+sdcv,107,19,5,16,3,2,110,131,81.67938931297711,Ukrainian <dubyk@lsl.lviv.ua>
+sddm-kcm,60,0,0,31,0,0,61,60,100.0,Ukrainian <kde-i18n-uk@kde.org>
+seahorse,2486,0,0,570,0,0,2275,2486,100.0,linux.org.ua
+seahorse-nautilus,421,0,0,110,0,0,426,421,100.0,translation@linux.org.ua
+sectool,2411,0,0,356,0,0,2507,2411,100.0,Ukrainian <translation@linux.org.ua>
+sed,520,13,15,84,2,5,555,548,94.8905109489051,Ukrainian <translation-team-uk@lists.sourceforge.net>
+setroubleshoot,619,0,0,163,0,0,573,619,100.0,Ukrainian (http://www.transifex.com/projects/p/fedora/language/uk/)
+setroubleshoot-plugins,6235,0,0,212,0,0,5091,6235,100.0,Ukrainian (http://www.transifex.com/projects/p/fedora/language/uk/)
+setuptool,55,0,0,14,0,0,52,55,100.0,Ukrainian <uk@li.org>
+sflphone,2106,0,0,476,0,0,2143,2106,100.0,Ukrainian <kde-i18n-uk@kde.org>
+shadow-utils,1087,1131,1705,211,177,194,1092,3923,27.708386438949784,Ukrainian
+shared-mime-info,1767,0,0,690,0,0,1912,1767,100.0,Ukrainian (http://www.transifex.com/freedesktop/shared-mime-info/language/uk/)
+sharutils,2974,173,0,299,5,0,3126,3147,94.50270098506515,Ukrainian <translation-team-uk@lists.sourceforge.net>
+shotwell,4483,0,0,942,0,0,5130,4483,100.0,Ukrainian <kde-i18n-uk@kde.org>
+shutter,3093,0,0,606,0,0,2954,3093,100.0,Ukrainian <uk@li.org>
+simon,11816,0,0,2451,0,0,11387,11816,100.0,Ukrainian <kde-i18n-uk@kde.org>
+simple-scan,639,0,0,146,0,0,663,639,100.0,Ukrainian <translation@linux.org.ua>
+simsu,0,0,81,0,0,4,0,81,0.0,Ukrainian (http://www.transifex.com/projects/p/simsu/language/uk/)
+skanlite,183,0,0,63,0,0,188,183,100.0,Ukrainian <kde-i18n-uk@kde.org>
+skrooge,9835,0,0,2171,0,0,9863,9835,100.0,Ukrainian <kde-i18n-uk@kde.org>
+skychart,4799,0,1686,1387,0,499,4376,6485,74.00154202004626,
+smb4k,6705,0,0,736,0,0,6622,6705,100.0,Ukrainian <kde-i18n-doc@kde.org>
+snapper,639,0,0,166,0,0,636,639,100.0,Ukrainian <www-uk-translations@gnu.org>
+snownews,791,0,0,163,0,0,770,791,100.0,UK <tenebrosus.scriptor@gmail.com>
+sonata,430,497,209,132,162,63,374,1136,37.852112676056336,Ukranian
+sos,267,0,0,36,0,0,209,267,100.0,<uk@li.org>
+sound-juicer,5993,0,0,378,0,0,5258,5993,100.0,Ukrainian <linux@linux.org.ua>
+soundconverter,388,0,0,121,0,0,371,388,100.0,Ukrainian <uk@li.org>
+spacefm,589,0,8489,237,0,1385,561,9078,6.488213262833223,Ukrainian (http://www.transifex.com/ignorantguru/spacefm/language/uk/)
+sparkleshare,162,0,240,36,0,51,138,402,40.298507462686565,
+springlobby,188,194,5297,52,68,1265,175,5679,3.310441979221694,Ukrainian <uk@li.org>
+squirrelmail,8660,225,1978,1854,9,273,7798,10863,79.7201509711866,Ukrainian <squirrelmail-i18n@lists.sourceforge.net>
+sssd,23685,1317,3155,2063,124,193,23234,28157,84.11762616756047,Ukrainian (http://www.transifex.com/projects/p/sssd/language/uk/)
+stardict,2789,1375,6914,506,159,534,2550,11078,25.176024553168443,LANGUAGE <LL@li.org>
+steadyflow,423,0,47,88,0,5,398,470,90.0,Ukrainian <uk@li.org>
+stellarium,17293,0,12,4579,0,1,16238,17305,99.93065587980352,Ukrainian <translation@linux.org.ua>
+storaged,1685,176,37,440,23,10,1844,1898,88.77766069546892,Ukrainian
+sudo,3645,0,0,543,0,0,3820,3645,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+sugar,0,0,1625,0,0,398,0,1625,0.0,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,90,0,0,52,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sumwars,16409,34,639,2613,4,87,13994,17082,96.06018030675565,
+supertux,1348,0,1632,366,0,552,1198,2980,45.234899328859065,Ukrainian (http://www.transifex.com/arctic-games/supertux/language/uk/)
+supertuxkart,0,0,0,0,0,0,0,0,0.0,
+sushi,24,0,0,11,0,0,25,24,100.0,linux.org.ua
+swell-foop,261,0,0,52,0,0,214,261,100.0,linux.org.ua
+switchdesk,137,0,0,19,0,0,115,137,100.0,<uk@li.org>
+sylpheed,7103,0,0,1759,0,0,6650,7103,100.0,Ukrainian
+synapse,528,0,296,157,0,70,530,824,64.07766990291263,Ukrainian <uk@li.org>
+sysstat,660,0,0,75,0,0,700,660,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+system-config-audit,1241,0,0,267,0,0,1142,1241,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+system-config-bind,9419,0,0,1064,0,0,8248,9419,100.0,Ukrainian <uk@li.org>
+system-config-date,1850,0,0,824,0,0,1886,1850,100.0,Ukrainian (http://www.transifex.com/projects/p/fedora/language/uk/)
+system-config-date-docs,568,160,33,53,9,2,572,761,74.63863337713535,Ukrainian <translation@linux.org.ua>
+system-config-firewall,2814,0,0,331,0,0,2490,2814,100.0,Ukrainian <uk@li.org>
+system-config-httpd,877,0,0,227,0,0,770,877,100.0,<uk@li.org>
+system-config-kdump,866,0,11,151,0,5,767,877,98.74572405929305,Ukrainian <trans-uk@lists.fedoraproject.org>
+system-config-keyboard,187,0,0,81,0,0,175,187,100.0,Ukrainian <uk@li.org>
+system-config-kickstart,1144,0,0,253,0,0,1006,1144,100.0,Ukrainian (http://www.transifex.com/projects/p/system-config-kickstart/language/uk/)
+system-config-language,115,0,82,18,0,11,78,197,58.37563451776649,Ukrainian <uk@li.org>
+system-config-network,3022,10,0,718,3,0,2662,3032,99.67018469656992,UKrainian <uk@li.org>
+system-config-nfs,332,0,0,72,0,0,308,332,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+system-config-nfs-docs,1192,0,0,71,0,0,968,1192,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+system-config-printer,3158,0,0,755,0,0,2897,3158,100.0,Ukrainian (http://www.transifex.com/projects/p/system-config-printer/language/uk/)
+system-config-rootpassword,116,0,0,19,0,0,89,116,100.0,Ukrainian <uk@li.org>
+system-config-samba,571,0,0,134,0,0,502,571,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+system-config-samba-docs,1195,0,0,67,0,0,1149,1195,100.0,Ukrainian <translation@linux.org.ua>
+system-config-services,511,0,557,70,0,74,420,1068,47.846441947565545,Ukrainian (Ukraine) <trans-uk@lists.fedoraproject.org>
+system-config-services-docs,638,0,0,28,0,0,574,638,100.0,Ukrainian <translation@linux.org.ua>
+system-config-users,1436,0,85,172,0,8,1192,1521,94.41157133464826,Ukrainian <trans-uk@lists.fedoraproject.org>
+system-config-users-docs,1061,0,0,82,0,0,857,1061,100.0,Ukrainian <translate@linux.org.ua>
+system-switch-java,81,0,0,11,0,0,76,81,100.0,Ukrainian <translation@linux.org.ua>
+system-switch-mail,134,0,0,20,0,0,134,134,100.0,Ukrainian <uk@li.org>
+systemd,603,146,69,68,15,11,467,818,73.71638141809291,linux.org.ua
+tagtool,928,10,20,204,3,4,894,958,96.86847599164928,English <en@li.org>
+tali,418,0,0,96,0,0,373,418,100.0,linux.org.ua
+tanglet,0,0,125,0,0,5,0,125,0.0,Ukrainian (http://www.transifex.com/projects/p/tanglet/language/uk/)
+tar,2958,396,189,505,45,27,3075,3543,83.48856900931413,Ukrainian <translation-team-uk@lists.sourceforge.net>
+tellico,5790,0,0,1220,0,0,5047,5790,100.0,Ukrainian <kde-i18n-uk@kde.org>
+terminator,649,0,662,223,0,170,622,1311,49.50419527078566,Ukrainian <uk@li.org>
+texinfo,6025,0,0,850,0,0,5935,6025,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+texlive,1098,0,123,287,0,15,1087,1221,89.92628992628993,Ukrainian <andriykopanytsia@gmail.com>
+thunar-archive-plugin,86,0,0,13,0,0,88,86,100.0,Ukrainian <xfce-i18n@xfce.org>
+thunar-media-tags-plugin,156,0,0,58,0,0,154,156,100.0,Ukrainian <xfce-i18n@xfce.org>
+thunar-vcs-plugin,595,0,0,320,0,0,642,595,100.0,Ukrainian (http://www.transifex.com/projects/p/thunar-plugins/language/uk/)
+thunar-vfs,387,0,0,86,0,0,365,387,100.0,Ukrainian <xfce4-dev@xfce.org>
+thunar-volman,487,0,0,113,0,0,422,487,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+tigervnc,671,0,0,153,0,0,741,671,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+tomboy,6542,0,0,673,0,0,5540,6542,100.0,Ukrainian <uk@li.org>
+tortoisehg,11479,0,567,2230,0,88,10514,12046,95.29304333388676,Ukrainian <uk@li.org>
+totem,6001,0,0,649,0,0,5160,6001,100.0,Ukrainian <uk@li.org>
+totem-pl-parser,28,0,0,7,0,0,22,28,100.0,Ukrainian <uk@li.org>
+trac,5251,585,2255,1106,97,89,4952,8091,64.89927079471018,Ukrainian (http://www.transifex.com/projects/p/trac/language/uk/)
+trac-accountmanager-plugin,0,0,1208,0,0,204,0,1208,0.0,Ukrainian (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/uk/)
+tracker,3291,0,0,537,0,0,3177,3291,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+transmageddon,210,0,0,59,0,0,202,210,100.0,translation@linux.org.ua
+transmission,1809,0,0,494,0,0,2041,1809,100.0,Ukrainian <kde-i18n-uk@kde.org>
+transmission-remote-gtk,802,0,0,346,0,0,877,802,100.0,Ukrainian <kde-i18n-uk@kde.org>
+trojita,3923,0,0,803,0,0,4216,3923,100.0,Ukrainian <kde-i18n-uk@kde.org>
+tuxmath,876,138,440,172,24,52,795,1454,60.24759284731774,Ukrainian <uk@li.org>
+tuxpaint,1173,371,47,241,32,18,1005,1591,73.7272155876807,translation@linux.org.ua <Ukrainian Linux Team>
+tuxpaint-stamps,2709,2,0,649,1,0,2156,2711,99.926226484692,Ukrainian Linux Team <translation@linux.org.ua>
+tvtime,1222,0,0,246,0,0,1222,1222,100.0,Ukrainian <kde-i18n-uk@kde.org>
+udisks2,1525,0,0,413,0,0,1692,1525,100.0,Ukrainian (http://www.transifex.com/projects/p/udisks/language/uk/)
+uget,956,24,105,341,6,15,973,1085,88.11059907834101,Ukrainian (http://www.transifex.com/uget/uget/language/uk/)
+usermode,573,0,0,96,0,0,499,573,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+util-linux,21798,6,0,3802,2,0,22975,21804,99.9724821133737,Ukrainian <translation-team-uk@lists.sourceforge.net>
+vdr,1367,0,0,544,0,0,1297,1367,100.0,Ukrainian <vdr@linuxtv.org>
+vdr-femon,313,0,0,124,0,0,284,313,100.0,Ukrainian <translation@linux.org.ua>
+vdr-osdteletext,41,0,3,19,0,1,41,44,93.18181818181817,Ukrainian <vdr@linuxtv.org>
+vdr-ttxtsubs,36,5,6,17,2,5,33,47,76.59574468085107,Ukrainian <vdr@linuxtv.org>
+vdrift,869,0,770,214,0,188,630,1639,53.02013422818792,Ukrainian (http://www.transifex.com/projects/p/vdrift/language/uk/)
+vidalia,731,22,9710,283,6,1014,678,10463,6.986523941508171,LANGUAGE <LL@li.org>
+viewnior,375,0,50,121,0,23,379,425,88.23529411764706,Ukrainian <uk@li.org>
+viking,37,0,4098,22,0,1034,36,4135,0.8948004836759371,Ukrainian <uk@li.org>
+vim,19088,0,0,3766,0,0,18634,19088,100.0,Bohdan Vlasyuk <bohdan@vstu.edu.ua>
+vinagre,1507,0,0,275,0,0,1314,1507,100.0,linux.org.ua
+vino,1228,0,0,134,0,0,1035,1228,100.0,linux.org.ua
+virt-manager,7797,15,0,1593,4,0,8189,7812,99.80798771121351,Ukrainian (http://www.transifex.com/projects/p/virt-manager/language/uk/)
+virt-top,361,0,0,77,0,0,348,361,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+virt-viewer,557,0,135,117,0,31,554,692,80.49132947976878,Ukrainian (http://www.transifex.com/projects/p/virt-viewer/language/uk/)
+virtaal,1433,0,0,426,0,0,1470,1433,100.0,Ukrainian <translation@linux.org.ua>
+volume_key,745,0,0,151,0,0,794,745,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+vorbis-tools,1178,1055,1876,226,139,136,1251,4109,28.668775857872962,Ukrainian <translation-team-uk@lists.sourceforge.net>
+vte,80,0,0,13,0,0,83,80,100.0,translation@linux.org.ua
+vte291,83,0,0,16,0,0,84,83,100.0,translation@linux.org.ua
+vte3,80,0,0,13,0,0,83,80,100.0,translation@linux.org.ua
+wammu,5196,33,27,908,5,7,4529,5256,98.85844748858447,Ukrainian <https://hosted.weblate.org/projects/gammu/wammu-doc/uk/>
+warmux,1892,120,732,343,23,106,1919,2744,68.95043731778425,Ukrainian <ua@li.org>
+warzone2100,9727,578,2932,2360,143,295,9927,13237,73.4834176928307,
+wcd,8000,0,0,647,0,0,8093,8000,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+wdiff,993,0,0,150,0,0,1141,993,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+webkitgtk,1443,587,593,337,123,110,1365,2623,55.01334349980937,Ukrainian <translation@linux.org.ua>
+webkitgtk3,1443,587,593,337,123,110,1365,2623,55.01334349980937,Ukrainian <translation@linux.org.ua>
+webkitgtk4,1443,587,593,337,123,110,1365,2623,55.01334349980937,Ukrainian <translation@linux.org.ua>
+wesnoth,71673,27561,156782,6199,1363,8793,59608,256016,27.995515905255917,LANGUAGE <LL@li.org>
+wget,3420,110,60,574,12,5,3505,3590,95.26462395543176,Ukrainian <translation-team-uk@lists.sourceforge.net>
+whaawmp,183,0,616,66,0,94,161,799,22.90362953692115,Ukrainian <uk@li.org>
+wicd,1138,0,0,254,0,0,1058,1138,100.0,Ukrainian <kde-i18n-uk@kde.org>
+wicd-kde,358,0,0,122,0,0,375,358,100.0,Ukrainian <kde-i18n-uk@kde.org>
+widelands,7073,0,17572,1656,0,1188,6216,24645,28.699533373909514,Ukrainian <uk@li.org>
+wine,12773,243,1554,2851,42,403,11252,14570,87.66643788606726,Ukrainian
+workrave,1182,56,83,235,13,14,982,1321,89.47766843300529,Sergey Kirkinsky <ksa@pfr.altai.ru>
+wxGTK,6249,109,33,1437,24,14,5892,6391,97.77812548896885,Ukrainian <uk@li.org>
+wxGTK3,7740,0,0,1857,0,0,7636,7740,100.0,Ukrainian <kde-i18n-uk@kde.org>
+wxMaxima,4632,0,0,920,0,0,4555,4632,100.0,Ukrainian <trans-uk@lists.fedoraproject.org>
+wxPython,9754,33,410,2492,13,89,9569,10197,95.65558497597333,Ukrainian <kde-i18n-uk@kde.org>
+xarchiver,1131,0,0,277,0,0,1051,1131,100.0,Ukrainian <xfce4-dev@xfce.org>
+xboard,2553,9,11,718,3,3,2681,2573,99.22269724057522,Ukrainian <translation-team-uk@lists.sourceforge.net>
+xcdroast,8044,0,0,848,0,0,6637,8044,100.0,Ukrainian <uk@li.org>
+xchat,5013,10,4,1229,2,1,4640,5027,99.7215038790531,Ukrainian <translation-team-uk@lists.sourceforge.net>
+xchat-gnome,2575,110,1216,716,38,226,2358,3901,66.00871571391951,Ukrainian <translation-team-uk@lists.sourceforge.net>
+xchm,155,17,62,66,7,23,139,234,66.23931623931624,Ukrainian <uk@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,73,81,100.0,Ukrainian <uk@li.org>
+xfbib,342,0,0,75,0,0,293,342,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfburn,1375,0,0,303,0,0,1243,1375,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-apps/language/uk/)
+xfce4-appfinder,322,0,0,70,0,0,272,322,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce4-appfinder/language/uk/)
+xfce4-battery-plugin,149,0,0,43,0,0,148,149,100.0,Ukrainian <xfce-i18n@xfce.org>
+xfce4-clipman-plugin,399,0,0,67,0,0,346,399,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,137,140,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+xfce4-cpugraph-plugin,76,0,0,37,0,0,85,76,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-datetime-plugin,52,0,0,19,0,0,48,52,100.0,Ukrainian (http://www.transifex.com/xfce/xfce-panel-plugins/language/uk/)
+xfce4-dict,518,0,0,111,0,0,485,518,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-diskperf-plugin,183,0,0,38,0,0,176,183,100.0,Ukrainian <xfce-i18n@xfce.org>
+xfce4-embed-plugin,219,0,0,33,0,0,177,219,100.0,Ukrainian <xfce@xfce.org>
+xfce4-eyes-plugin,15,0,0,4,0,0,13,15,100.0,Ukrainian <xfce-i18n@xfce.org>
+xfce4-fsguard-plugin,71,0,0,19,0,0,77,71,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-genmon-plugin,85,0,0,19,0,0,87,85,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,323,356,100.0,Ukrainian <linux@linux.org.ua>
+xfce4-kbdleds-plugin,18,0,0,5,0,0,16,18,100.0,Ukrainian
+xfce4-mailwatch-plugin,639,0,46,106,0,5,592,685,93.28467153284672,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+xfce4-mixer,181,0,0,36,0,0,165,181,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-mount-plugin,338,0,3,52,0,2,301,341,99.12023460410558,Ukrainian <xfce4-dev@xfce.org>
+xfce4-mpc-plugin,76,0,0,24,0,0,81,76,100.0,Ukrainian (http://www.transifex.com/xfce/xfce-panel-plugins/language/uk/)
+xfce4-netload-plugin,92,0,0,35,0,0,95,92,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/uk/)
+xfce4-notes-plugin,163,0,0,57,0,0,139,163,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-notifyd,98,0,0,29,0,0,102,98,100.0,UKRAINIAN <translate@linux.org.ua>
+xfce4-panel,1705,0,0,394,0,0,1524,1705,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce4-panel/language/uk/)
+xfce4-places-plugin,160,0,0,45,0,0,144,160,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+xfce4-power-manager,1017,0,0,202,0,0,922,1017,100.0,Ukrainian (http://www.transifex.com/xfce/xfce4-power-manager/language/uk/)
+xfce4-screenshooter,550,0,0,81,0,0,444,550,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-apps/language/uk/)
+xfce4-sensors-plugin,354,0,0,72,0,0,327,354,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-session,1066,0,0,208,0,0,940,1066,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+xfce4-settings,1617,0,0,354,0,0,1473,1617,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce4-settings/language/uk/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,25,22,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-systemload-plugin,73,0,0,22,0,0,95,73,100.0,Ukrainian (http://www.transifex.com/xfce/xfce-panel-plugins/language/uk/)
+xfce4-taskmanager,223,0,0,75,0,0,224,223,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-apps/language/uk/)
+xfce4-terminal,2035,0,0,392,0,0,1801,2035,100.0,Ukrainian <translation@linux.org.ua>
+xfce4-time-out-plugin,88,0,0,31,0,0,92,88,100.0,Ukrainian <xfce4-dev@xfce.org>
+xfce4-timer-plugin,131,3,0,41,1,0,126,134,97.76119402985076,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+xfce4-verve-plugin,47,0,0,10,0,0,47,47,100.0,Ukrainian <xfce-i18n@xfce.org>
+xfce4-wavelan-plugin,67,0,0,18,0,0,62,67,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/uk/)
+xfce4-weather-plugin,3668,0,0,330,0,0,3716,3668,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/uk/)
+xfce4-whiskermenu-plugin,241,0,0,88,0,0,231,241,100.0,Ukrainian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/uk/)
+xfce4-xkb-plugin,43,0,0,17,0,0,44,43,100.0,Ukrainian (http://www.transifex.com/projects/p/xfce/language/uk/)
+xfconf,452,0,0,67,0,0,405,452,100.0,Ukrainian (http://www.transifex.com/projects/p/xfconf/language/uk/)
+xfdesktop,979,0,0,222,0,0,915,979,100.0,Ukrainian (http://www.transifex.com/projects/p/xfdesktop/language/uk/)
+xfmpc,146,2,19,62,1,7,154,167,87.42514970059881,Ukrainian <xfce4-dev@xfce.org>
+xfwm4,673,0,0,173,0,0,671,673,100.0,Ukrainian (http://www.transifex.com/projects/p/xfwm4/language/uk/)
+xiphos,543,324,3860,222,120,748,508,4727,11.487201184683732,Ukrainian <linux@linux.org.ua>
+xkeyboard-config,3615,0,0,1065,0,0,3711,3615,100.0,Ukrainian <translation-team-uk@lists.sourceforge.net>
+xmlcopyeditor,580,216,890,248,71,171,616,1686,34.400948991696325,
+xmms,2549,534,360,896,84,65,2645,3443,74.03427243682835,Ukrainian <linux@linux.org.ua>
+xneur,357,0,1550,55,0,238,356,1907,18.720503408495016,Ukrainian <uk@li.org>
+xpad,259,0,147,80,0,45,261,406,63.793103448275865,Ukrainian <uk@li.org>
+yad,1654,0,0,378,0,0,1601,1654,100.0,
+yakuake,1520,0,0,220,0,0,1378,1520,100.0,Ukrainian <kde-i18n-uk@kde.org>
+yelp,452,0,0,104,0,0,368,452,100.0,linux.org.ua
+yelp-xsl,80,0,0,58,0,0,79,80,100.0,translation@linux.org.ua
+yum,3063,0,6,657,0,3,3116,3069,99.80449657869013,Ukrainian (http://www.transifex.net/projects/p/yum/team/uk/)
+yum-rhn-plugin,66,81,0,11,6,0,73,147,44.89795918367347,Ukrainian <trans-uk@lists.fedoraproject.org>
+yumex,987,0,7,273,0,1,1020,994,99.29577464788733,Ukrainian (http://www.transifex.com/projects/p/yumex/language/uk/)
+yumex-dnf,748,0,50,191,0,12,783,798,93.734335839599,Ukrainian (http://www.transifex.com/projects/p/yumex/language/uk/)
+zabbix,15509,0,0,3311,0,0,16611,15509,100.0,Zabbix translation team
+zanshin,322,0,0,84,0,0,331,322,100.0,Ukrainian <kde-i18n-uk@kde.org>
+zathura,224,0,359,63,0,75,207,583,38.42195540308747,Ukrainian (Ukraine) (http://www.transifex.com/projects/p/zathura/language/uk_UA/)
+zenity,3130,0,0,433,0,0,2645,3130,100.0,Ukrainian <linux@linux.org.ua>

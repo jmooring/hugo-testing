@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+lazpaint,2215,16,4918,813,7,1561,2320,7149,30.983354315288853,
+libreoffice,0,0,0,0,0,0,0,0,0.0,LANGUAGE <LL@li.org>
+wine-docs,182,31,993,23,6,94,191,1206,15.091210613598674,AF

@@ -1,0 +1,155 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,14,0,3972,6,0,1264,19,3986,0.35122930255895635,English <en@li.org>
+EekBoek,4804,0,14,727,0,2,5163,4818,99.70942299709424,none <>
+R,33927,0,10644,5088,0,1781,33936,44571,76.11900114424176,none
+R-RODBC,323,0,0,64,0,0,323,323,100.0,none
+TurboGears,0,0,9,0,0,3,0,9,0.0,LANGUAGE <LL@li.org>
+aeskulap,0,0,313,0,0,130,0,313,0.0,LANGUAGE <LL@li.org>
+anaconda,18816,0,0,2328,0,0,18851,18816,100.0,none
+anerley,5,0,0,5,0,0,5,5,100.0,anubad@lists.ankur.org.in
+askbot,618,348,7307,125,115,1095,1784,8273,7.470083403843828,LANGUAGE <LL@li.org>
+bisho,131,0,0,22,0,0,126,131,100.0,anubad@lists.ankur.org.in
+bzr-explorer,1656,0,0,469,0,0,1656,1656,100.0,none
+calcurse,334,1631,2664,85,100,195,334,4629,7.215381291855692,English/GB <en_GB@li.org>
+celestia,102,0,0,89,0,0,191,102,100.0,English
+cherokee,1950,1849,5695,454,490,672,1950,9494,20.539287971350326,none
+clementine,21,0,3777,19,0,1041,21,3798,0.5529225908372828,LANGUAGE <LL@li.org>
+clisp,14278,0,0,1812,0,0,14278,14278,100.0,English <en@li.org>
+control-center,17,0,2243,6,0,697,17,2260,0.7522123893805309,LANGUAGE <LL@li.org>
+cook,997,0,0,214,0,0,1437,997,100.0,
+devhelp,456,0,0,119,0,0,463,456,100.0,Canadian English
+django-celery,0,0,169,0,0,85,0,169,0.0,LANGUAGE <LL@li.org>
+django-dpaste,19,0,89,8,0,39,49,108,17.59259259259259,
+django-keyedcache,0,0,8,0,0,5,0,8,0.0,LANGUAGE <LL@li.org>
+django-registration,0,0,81,0,0,15,0,81,0.0,LANGUAGE <LL@li.org>
+django-robots,0,0,211,0,0,17,0,211,0.0,LANGUAGE <LL@li.org>
+django-sct,0,0,921,0,0,257,0,921,0.0,LANGUAGE <LL@li.org>
+duff,197,35,0,31,4,0,197,232,84.91379310344827,
+elfutils,15726,0,0,2340,0,0,15728,15726,100.0,none
+epiphany,2291,0,0,651,0,0,2298,2291,100.0,Canadian English
+etoys,30007,0,1,5104,0,1,30007,30008,99.99666755531858,
+exaile,0,0,3683,0,0,956,0,3683,0.0,English <en@li.org>
+fedora-ksplice,0,0,166,0,0,32,0,166,0.0,German
+firstaidkit,2,0,0,2,0,0,4,2,100.0,LANGUAGE <LL@li.org>
+fontforge,1190,0,4,393,0,1,658,1194,99.66499162479062,LANGUAGE <LL@li.org>
+fotoxx,0,0,0,0,0,0,0,0,0.0,
+gajim,11642,0,0,2215,0,0,11619,11642,100.0,English <en_gb@li.org>
+gambas,415,0,0,25,0,0,265,415,100.0,LANGUAGE <LL@li.org>
+gambas2,428,0,0,27,0,0,278,428,100.0,LANGUAGE <LL@li.org>
+gambas3,145,245,138,24,4,40,105,528,27.46212121212121,LANGUAGE <LL@li.org>
+gauche,82,0,0,10,0,0,83,82,100.0,
+gnome-applets,3352,0,0,788,0,0,2977,3352,100.0,kn-IN <>
+gnomebaker,20,18,1148,7,1,283,20,1186,1.6863406408094435,English <en@li.org>
+gnutls,2454,0,0,560,0,0,2456,2454,100.0,none
+gourmet,0,0,3647,0,0,868,0,3647,0.0,English <en@li.org>
+gparted,2074,0,0,378,0,0,2079,2074,100.0,Canadian English
+gridengine,0,0,16517,0,0,2644,0,16517,0.0,LANGUAGE <LL@li.org>
+groonga,22197,0,62,3015,0,9,22197,22259,99.72146098207466,English
+gtk3,49,0,12502,49,0,2595,92,12551,0.39040713887339656,
+harmonyseq,120,0,1747,33,0,264,125,1867,6.427423674343867,English
+icewm,1,0,1345,1,0,242,0,1346,0.07429420505200594,English
+iso-codes,3583,2125,781,2706,1412,441,3583,6489,55.21652026506395,English
+jpoker,256,38,63,111,23,17,256,357,71.70868347338936,<pokersource-users@gna.org>
+kdemultimedia,22,0,1,22,0,1,299,23,95.65217391304348,German <kde-i18n-de@kde.org>
+leechcraft,292,87,402,64,17,75,292,781,37.38796414852753,none
+lekhonee-gnome,90,12,10,35,4,5,107,112,80.35714285714286,anubad@lists.ankur.org.in
+libdesktop-agnostic,43,0,0,17,0,0,43,43,100.0,Pig Latin <LL@li.org>
+libgnomeprintui22,481,0,0,154,0,0,392,481,100.0,Kannada
+libgsasl,1112,0,0,132,0,0,1112,1112,100.0,none
+libgweather,5586,0,0,4337,0,0,5568,5586,100.0,Bengali (India) <discuss@lists.ankur.org.in>
+libmateweather,5586,0,0,4337,0,0,5568,5586,100.0,Bengali (India) <discuss@lists.ankur.org.in>
+libsmbios,141,69,1420,18,8,264,141,1630,8.650306748466258,English
+libsocialweb,5,0,131,4,0,4,5,136,3.6764705882352944,anubad@lists.ankur.org.in
+lyx,14,0,17343,8,0,5237,9,17357,0.08065910007489774,German <lyx-docs@lists.lyx.org>
+meego-panel-applications,5,0,0,4,0,0,6,5,100.0,anubad@lists.ankur.org.in
+mingw-gtk3,49,0,12502,49,0,2595,92,12551,0.39040713887339656,
+mingw32-gnutls,2454,0,0,560,0,0,2456,2454,100.0,none
+mingw32-webkitgtk,1472,0,0,343,0,0,1472,1472,100.0,Canadian English
+miredo,138,0,445,15,0,57,139,583,23.67066895368782,N/A
+mojomojo,260,0,1563,49,0,511,572,1823,14.26220515633571,LANGUAGE <LL@li.org>
+nagios-plugins,426,1072,7765,84,167,1002,410,9263,4.5989420274209225,English <en@li.org>
+ndisc6,521,0,468,13,0,89,519,989,52.679474216380186,English <en@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,158,158,100.0,LANGUAGE <LL@li.org>
+openbox,1014,0,0,188,0,0,1014,1014,100.0,none
+perl,10,0,22,2,0,4,18,32,31.25,English <en@li.org>
+perl-Locale-Maketext-Lexicon,3,0,0,1,0,0,2,3,100.0,Italian <cosimo@cpan.org>
+php,14,0,0,7,0,0,15,14,100.0,
+php-ZendFramework,17,0,0,7,0,0,33,17,100.0,
+php-horde-Horde-Cli,11,0,0,3,0,0,11,11,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,36,0,0,11,0,0,36,36,100.0,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,i18n@lists.horde.org
+php-horde-Horde-Nls,430,0,0,263,0,0,430,430,100.0,i18n@lists.horde.org
+picard,54,0,2316,45,0,1052,59,2370,2.278481012658228,English <en@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,English <en@li.org>
+po4a,91,0,0,64,0,0,91,91,100.0,LANGUAGE <LL@li.org>
+pootle,0,0,2424,0,0,459,0,2424,0.0,LANGUAGE <LL@li.org>
+poweradmin,1883,0,0,257,0,0,1883,1883,100.0,LANGUAGE <LL@li.org>
+pyrenamer,820,0,0,104,0,0,824,820,100.0,English
+python-imdb,310,0,0,310,0,0,559,310,100.0,TEAM NAME <TEAM@EMAIL>
+python-nevow,4,0,10,3,0,1,4,14,28.57142857142857,LANGUAGE <LL@li.org>
+python-pyramid,4,0,0,3,0,0,4,4,100.0,de <LL@li.org>
+python-zope-i18n,20,0,0,10,0,0,31,20,100.0,
+qbzr,1693,0,0,517,0,0,1693,1693,100.0,none
+qodem,4151,0,0,668,0,0,4151,4151,100.0,
+qt3,482,0,0,200,0,0,486,482,100.0,
+quarry,1807,0,0,447,0,0,1804,1807,100.0,
+rawstudio,1527,0,0,485,0,0,1527,1527,100.0,Rawstudio development <rawstudio-dev@rawstudio.org>
+roundup,0,0,0,0,0,0,0,0,0.0,English
+rt3,4,0,0,3,0,0,3,4,100.0,rt-devel <rt-devel@lists.bestpractical.com>
+schroot,1597,0,10,350,0,2,1604,1607,99.37772246421905,English <rleigh@debian.org>
+skychart,2,0,122,1,0,62,2,124,1.6129032258064515,Français <kde-i18n-doc@kde.org>
+smokeping,34,0,0,17,0,0,34,34,100.0,none
+sos,0,0,267,0,0,36,0,267,0.0,LANGUAGE <LL@li.org>
+spacewalk-backend,15,18,1879,3,5,212,1793,1912,0.7845188284518828,English <rhns-i18n@redhat.com>
+spe,0,0,284,0,0,53,0,284,0.0,LANGUAGE <LL@li.org>
+speedcrunch,0,0,18,0,0,13,0,18,0.0,en
+stellarium,405,0,6733,301,0,2190,405,7138,5.673858223592043,English
+subdownloader,0,0,965,0,0,278,0,965,0.0,
+sugar,1521,0,0,379,0,0,1521,1521,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,24,0,0,24,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,57,0,0,30,0,0,57,57,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,859,0,0,166,0,0,857,859,100.0,English
+sugar-chat,50,0,0,33,0,0,50,50,100.0,LANGUAGE <LL@li.org>
+sugar-clock,38,0,0,17,0,0,568,38,100.0,English
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-finance,143,0,0,32,0,0,143,143,100.0,LANGUAGE <LL@li.org>
+sugar-flip,14,0,0,7,0,0,14,14,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,0,11,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,200,0,0,56,0,0,200,200,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,15,0,0,10,0,0,15,15,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,254,0,0,93,0,0,254,254,100.0,LANGUAGE <LL@li.org>
+sugar-log,77,0,0,19,0,0,77,77,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,155,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,114,0,0,71,0,0,114,114,100.0,LANGUAGE <LL@li.org>
+sugar-moon,91,0,0,32,0,0,91,91,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,185,0,0,92,0,0,185,185,100.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,0,27,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,109,109,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,42,0,0,19,0,0,42,42,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,10,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,64,0,0,33,0,0,64,64,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,15,0,0,6,0,0,15,15,100.0,English
+sugar-surf,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2070,0,0,695,0,2070,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,17,0,0,9,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,78,0,0,40,0,0,78,78,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2467,0,0,655,0,0,2466,2467,100.0,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,158,0,0,78,0,0,157,158,100.0,LANGUAGE <LL@li.org>
+sugar-write,80,0,0,47,0,0,80,80,100.0,LANGUAGE <LL@li.org>
+sumwars,16926,15,74,2663,2,31,16957,17015,99.47693211871878,English
+systemtap,554,913,5308,96,177,790,554,6775,8.177121771217712,English
+transifex,0,0,6018,0,0,1019,0,6018,0.0,LANGUAGE <LL@li.org>
+tucan,0,0,114,0,0,41,0,114,0.0,
+turpial,0,0,634,0,0,165,0,634,0.0,Spanish
+vidalia,464,0,8825,46,0,1165,464,9289,4.995155560340187,translations@vidalia-project.net
+webacula,5,4,974,2,1,338,5,983,0.508646998982706,
+webkitgtk,1472,0,0,343,0,0,1472,1472,100.0,Canadian English
+webkitgtk3,1472,0,0,343,0,0,1472,1472,100.0,Canadian English
+wine,13910,0,202,3148,0,33,13910,14112,98.56859410430839,none
+wxGlade,0,0,284,0,0,53,0,284,0.0,LANGUAGE <LL@li.org>
+xen,22,0,0,22,0,0,196,22,100.0,xen-devel <xen-devel@lists.xensource.com>
+xmms,3177,65,201,1003,17,25,3177,3443,92.27417949462678,English
+xmoto,3530,1296,2832,888,178,572,3480,7658,46.09558631496474,English <en@li.org>

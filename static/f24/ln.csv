@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-calendar,361,0,0,119,0,0,375,361,100.0,Lingala <ubuntu-cd@lists.ubuntu.com>
+gnome-user-share,52,0,0,10,0,0,57,52,100.0,Lingala <ubuntu-cd@lists.ubuntu.com>
+nautilus,5489,0,0,996,0,0,5850,5489,100.0,Lingala <ubuntu-cd@lists.ubuntu.com>
+nautilus-sendto,45,0,0,8,0,0,56,45,100.0,Lingala <ubuntu-cd@lists.ubuntu.com>
+openerp,57,0,794,57,0,264,62,851,6.698002350176263,Lingala <ln@li.org>
+openerp7,38,0,1089,37,0,262,43,1127,3.3717834960070983,Lingala <ln@li.org>

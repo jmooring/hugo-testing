@@ -1,0 +1,41 @@
+---
+title: "R-RODBC - translation progress for f16"
+package: R-RODBC
+date: 2026-01-20T02:19:53+00:00
+started_languages: 3
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 6
+release: f16
+---
+The package R-RODBC (version 1.3.3):
+
+* represents 323 source words to be translated
+* is translated into 3 languages in Fedora f16
+
+
+* contains 6 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [en]({{< ref "/f16/language/en.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f16/R-RODBC/po/en@quot.po/mnt/stockage/packages/f16/R-RODBC/po/R-en@quot.po | 
+ | [da]({{< ref "/f16/language/da.md" >}}) | 283 | 323 | 87.6 | /mnt/stockage/packages/f16/R-RODBC/po/da.po/mnt/stockage/packages/f16/R-RODBC/po/R-da.po | 
+ | [de]({{< ref "/f16/language/de.md" >}}) | 276 | 323 | 85.4 | /mnt/stockage/packages/f16/R-RODBC/po/de.po/mnt/stockage/packages/f16/R-RODBC/po/R-de.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

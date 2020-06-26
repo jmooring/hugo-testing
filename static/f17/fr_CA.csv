@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,667,0,38892,99,0,4045,785,39559,1.686089132687884,French (Canada) <fr_CA@li.org>
+cinnamon,1240,0,456,433,0,119,1526,1696,73.11320754716981,French (Canada) <fr_CA@li.org>
+dopewars,5286,0,0,867,0,0,5674,5286,100.0,French
+jpoker,256,38,63,111,23,17,300,357,71.70868347338936,<pokersource-users@gna.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+picard,157,0,1524,120,0,548,152,1681,9.339678762641284,French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/)
+soundconverter,459,0,3,128,0,1,535,462,99.35064935064936,French (Canada) <fr_CA@li.org>
+supertuxkart,55,0,1271,5,0,252,74,1326,4.147812971342383,
+wicd,1054,0,4,229,0,2,1242,1058,99.62192816635161,fr_CA <LL@li.org>

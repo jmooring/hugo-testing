@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+fuse-encfs,1041,16,221,118,2,16,984,1278,81.45539906103286,German (Austria) <de_AT@li.org>
+ganyremote,500,0,0,149,0,0,512,500,100.0,Austrian
+gnomebaker,1008,0,178,242,0,49,938,1186,84.99156829679595,German (Austria) <de_AT@li.org>
+gourmet,554,29,3356,155,8,729,527,3939,14.064483371414063,German (Austria) <de_AT@li.org>
+gpsdrive,424,439,1642,101,107,248,426,2505,16.926147704590818,german <de@li.org>
+kanyremote,479,0,5,140,0,4,487,484,98.96694214876032,Austrian
+perl-libintl,5,0,17,5,0,17,5,22,22.727272727272727,German <guido@imperia.net>
+pingus,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+supertux,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+texi2html,5,0,1660,5,0,198,5,1665,0.3003003003003003,German <guido@imperia.net>
+texinfo,5,0,5721,5,0,711,5,5726,0.08732099196646874,German <de@li.org>
+vidalia,0,0,2927,0,0,657,0,2927,0.0,LANGUAGE <LL@li.org>

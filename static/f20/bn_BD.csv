@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Bengali (Bangladesh)
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,440,0,0,80,0,440,0.0,LANGUAGE <LL@li.org>
+libvirt-sandbox,0,0,583,0,0,104,0,583,0.0,Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/)
+modem-manager-gui,350,0,697,85,0,199,380,1047,33.42884431709647,Bengali (Bangladesh) (http://www.transifex.com/projects/p/modem-manager-gui/language/bn_BD/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/)
+rhn-client-tools,0,0,4194,0,0,423,0,4194,0.0,LANGUAGE <LL@li.org>
+rhnsd,0,0,37,0,0,9,0,37,0.0,LANGUAGE <LL@li.org>
+spacewalk-backend,0,0,1895,0,0,223,0,1895,0.0,LANGUAGE <LL@li.org>
+squirrelmail,18710,0,0,3291,0,0,19807,18710,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+system-config-date,0,0,503,0,0,56,0,503,0.0,LANGUAGE <LL@li.org>
+system-config-language,22,15,161,5,4,20,16,198,11.11111111111111,Arabic <support@arabeyes.org>
+system-config-services,0,0,534,0,0,72,0,534,0.0,Bengali (Bangladesh) (http://www.transifex.net/projects/p/fedora/team/bn_BD/)
+uget,675,0,7,271,0,1,755,682,98.97360703812316,Bengali (Bangladesh) (http://www.transifex.com/projects/p/uget/language/bn_BD/)
+yum-rhn-plugin,0,0,146,0,0,17,0,146,0.0,LANGUAGE <LL@li.org>

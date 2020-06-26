@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+entangle,0,0,953,0,0,229,0,953,0.0,Angika
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Angika
+initial-setup,0,0,33,0,0,7,0,33,0.0,Angika
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Angika
+python-fedora,0,0,214,0,0,29,0,214,0.0,Angika
+python-meh,0,0,109,0,0,23,0,109,0.0,Angika

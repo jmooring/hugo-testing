@@ -1,0 +1,90 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+arandr,172,0,1,37,0,1,185,173,99.42196531791907,Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/>
+atril,485,0,1318,108,0,309,606,1803,26.899611758180807,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+blueberry,10,0,138,9,0,28,10,148,6.756756756756757,LANGUAGE <LL@li.org>
+caja,503,0,9020,106,0,1462,565,9523,5.281948965662081,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+caja-extensions,33,0,551,3,0,132,41,584,5.650684931506849,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+calibre,3,0,158999,1,0,18247,3,159002,0.001886768719890316,Sardinian (http://www.transifex.com/calibre/calibre/language/sc/)
+cinnamon-translations,6815,0,14571,1960,0,2723,7988,21386,31.866641728233425,Sardinian <sc@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+engrampa,66,0,1949,23,0,357,100,2015,3.2754342431761785,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+eom,41,0,1739,17,0,325,58,1780,2.303370786516854,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+exaile,3594,17,457,988,6,80,4398,4068,88.34808259587021,Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Sardinian
+gala,0,0,140,0,0,34,0,140,0.0,none
+gnome-do,473,0,139,119,0,25,502,612,77.2875816993464,Sardinian <sc@li.org>
+granite,0,0,250,0,0,83,0,250,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,7526,0,15859,4794,0,10543,8143,23385,32.18302330553774,Sardinian <https://hosted.weblate.org/projects/iso-codes/iso-15924/sc/>
+libmatekbd,9,0,242,2,0,41,7,251,3.5856573705179287,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+libmypaint,389,0,1148,24,0,82,450,1537,25.30904359141184,Sardinian <https://hosted.weblate.org/projects/mypaint/libmypaint/sc/>
+libmypaint2,389,0,1148,24,0,82,450,1537,25.30904359141184,Sardinian <https://hosted.weblate.org/projects/mypaint/libmypaint/sc/>
+lightdm,0,0,163,0,0,21,0,163,0.0,Sardinian <sc@li.org>
+lightdm-settings,72,0,233,33,0,29,87,305,23.60655737704918,LANGUAGE <LL@li.org>
+mate-applets,2,0,1513,2,0,100,24,1515,0.132013201320132,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-control-center,25,0,2679,15,0,621,43,2704,0.9245562130177515,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-desktop,768,0,1588,99,0,206,949,2356,32.597623089983024,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-icon-theme,3,0,1,1,0,1,5,4,75.0,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-media,11,0,227,6,0,94,12,238,4.621848739495799,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-menus,2,0,95,1,0,36,2,97,2.0618556701030926,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-notification-daemon,123,0,16,32,0,5,165,139,88.48920863309353,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-panel,71,0,5371,23,0,658,118,5442,1.3046674016905548,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-power-manager,15,0,2716,9,0,432,30,2731,0.5492493592090809,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-sensors-applet,6,0,315,3,0,107,18,321,1.8691588785046727,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-session-manager,66,0,639,17,0,110,90,705,9.361702127659575,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-system-monitor,13,0,1323,6,0,310,26,1336,0.9730538922155689,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-terminal,38,0,4587,13,0,517,65,4625,0.8216216216216217,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-user-guide,1,0,4,1,0,1,1,5,20.0,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mate-utils,76,0,3707,23,0,652,114,3783,2.0089875759978852,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mozo,1,0,41,1,0,15,1,42,2.380952380952381,Sardinian (https://www.transifex.com/mate/teams/13566/sc/)
+mypaint,389,0,1148,24,0,82,450,1537,25.30904359141184,Sardinian <https://hosted.weblate.org/projects/mypaint/libmypaint/sc/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+skychart,689,29,4014,332,3,1151,906,4732,14.560439560439562,Sardinian <sc@li.org>
+slick-greeter,82,0,129,27,0,20,98,211,38.862559241706165,Sardinian <sc@li.org>
+stellarium,72353,0,282,27897,0,40,76637,72635,99.6117574172231,Sardinian (https://www.transifex.com/stellarium/teams/80998/sc/)
+supertuxkart,7,0,5334,4,0,1023,9,5341,0.1310615989515072,Sardinian (http://www.transifex.com/supertuxkart/supertuxkart/language/sc/)
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+vocal,0,0,377,0,0,79,0,377,0.0,Sardinian <sc@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+xreader,360,0,1309,94,0,287,458,1669,21.569802276812464,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+tuxpaint,551,148,62,152,18,16,539,761,72.40473061760841,English (South African) <en_za@li.org>
+virtaal,37,0,974,5,0,249,38,1011,3.6597428288822944,English <translate-devel@lists.sourceforge.net>

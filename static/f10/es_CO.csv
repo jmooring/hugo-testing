@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-applets,3858,0,0,976,0,0,4894,3858,100.0,Spanish <traductores@es.gnome.org>
+gnomebaker,757,16,413,123,3,165,872,1186,63.82799325463744,Spanish (Colombia) <es_CO@li.org>
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+liblicense,44,0,22,37,0,13,42,66,66.66666666666666,LANGUAGE <LL@li.org>
+olpcsound,3313,3,9602,725,1,1699,4285,12918,25.64638488930175,
+pondus,175,28,65,51,8,19,180,268,65.29850746268657,Spanish

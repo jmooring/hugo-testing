@@ -1,0 +1,707 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+CableSwig,1140,0,0,193,0,0,999,1140,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+DivFix++,551,0,0,104,0,0,497,551,100.0,TURKISH <spamjunkeater at gmail.com>
+Django,3975,0,0,1268,0,0,3532,3975,100.0,Turkish <None>
+GConf2,4035,0,0,484,0,0,3362,4035,100.0,Turkish <gnome-turk@gnome.org>
+LabPlot,0,1763,1487,0,942,407,0,3250,0.0,LANGUAGE <LL@li.org>
+Miro,2839,0,497,688,0,36,2448,3336,85.10191846522783,Turkish <tr@li.org>
+NetworkManager,2265,0,10,484,0,2,1992,2275,99.56043956043956,Turkish <kde-i18n-doc@kde.org>
+PackageKit,58,0,1561,13,0,362,53,1619,3.5824583075972827,LANGUAGE <LL@li.org>
+R,13788,393,9908,2397,62,1520,11943,24089,57.2377433683424,Turkish <muratalk@gmail.com>
+Terminal,1193,0,0,270,0,0,1033,1193,100.0,"Turkish <kde-i18n-doc@kde.org,xfce-i18n@xfce.org>"
+Thunar,3865,0,0,685,0,0,3004,3865,100.0,Turkish <turkce@pardus.org.tr>
+WindowMaker,1125,0,14,235,0,3,930,1139,98.77085162423178,Turkish
+Zim,1778,0,404,432,0,52,1610,2182,81.48487626031165,Turkish <tr@li.org>
+a2ps,938,351,223,149,16,14,898,1512,62.03703703703704,Turkish <tr@li.org>
+ailurus,1720,0,6558,341,0,912,1601,8278,20.777965692196183,none
+akonadi-googledata,78,8,0,17,1,0,59,86,90.69767441860465,Turkish <kde-i18n-doc@kde.org>
+alacarte,42,0,0,16,0,0,40,42,100.0,Turkish <gnome-turk@gnome.org>
+alleyoop,342,0,0,87,0,0,289,342,100.0,Turkish <gnome-turk@gnome.org>
+anaconda,3564,3531,2646,750,287,167,3020,9741,36.58761934093009,Turkish <none>
+anerley,11,0,0,10,0,0,12,11,100.0,TURKISH <LL@li.org>
+anjuta,7818,0,0,2124,0,0,7128,7818,100.0,Turkish <gnome-turk@gnome.org>
+aria2,1472,2504,654,184,105,31,1176,4630,31.792656587473,Turkish <tr@li.org>
+ario,780,0,0,279,0,0,764,780,100.0,Turkish <tr@li.org>
+arm-gp2x-linux-binutils,27855,2099,770,4549,260,119,25413,30724,90.66202317406588,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+arm-gp2x-linux-gcc,39841,1035,167,5969,107,16,34708,41043,97.07136417903175,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+arm-gp2x-linux-glibc,6305,21,0,1255,1,0,5731,6326,99.66803667404362,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+asunder,401,27,24,73,7,2,356,452,88.71681415929203,<LL@li.org>
+at-spi,61,0,0,7,0,0,50,61,100.0,Turkish <gnome-turk@gnome.org>
+atk,375,0,0,126,0,0,313,375,100.0,Turkish <gnome-turk@gnome.org>
+atomix,125,0,0,44,0,0,114,125,100.0,Turkish <gnome-turk@gnome.org>
+audacious,495,146,557,180,57,180,485,1198,41.31886477462437,<tr@li.org>
+audacious-plugins,4415,1184,1101,648,198,212,3765,6700,65.8955223880597,Turkish
+audacity,4449,0,5179,1300,0,866,4205,9628,46.20897382633984,
+authconfig,752,289,301,150,54,35,621,1342,56.03576751117735,Turkish <fedora-trans-tr@redhat.com>
+avant-window-navigator,591,0,1064,119,0,160,506,1655,35.709969788519636,Turkish <tr@li.org>
+avogadro,1992,0,2270,707,0,838,2136,4262,46.738620366025344,Turkish <tr@li.org>
+avr-binutils,25895,4414,2188,4267,635,286,23696,32497,79.68427854878912,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+avr-gcc,31684,17006,10405,4683,2257,1127,27626,59095,53.615365090109144,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+avr-gdb,4961,0,0,740,0,0,4577,4961,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+awn-extras-applets,36,0,7169,11,0,904,28,7205,0.49965301873698814,Turkish <tr@li.org>
+backintime,312,0,607,101,0,79,281,919,33.949945593035906,Turkish <tr@li.org>
+balsa,1879,1421,2048,630,343,314,1852,5348,35.13462976813762,Turkish <gnome-turk@gnome.org>
+banshee,5534,0,0,1438,0,0,4962,5534,100.0,Türkçe <iletisim@hedefturkce.com>
+bash,1338,6352,3025,257,94,195,1269,10715,12.487167522165189,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+basket,4194,327,112,620,46,39,3464,4633,90.52449816533563,<tr@li.org>
+beagle,476,0,0,122,0,0,365,476,100.0,GNOME Türkiye <gnome-turk@gnome.org>
+binutils,25895,4414,2188,4267,635,286,23696,32497,79.68427854878912,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+bisho,131,0,0,22,0,0,98,131,100.0,TURKISH <LL@li.org>
+bison,454,415,234,91,44,36,410,1103,41.160471441523114,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+bittorrent,3195,0,709,545,0,88,2893,3904,81.83913934426229,LANGUAGE <LL@li.org>
+blam,67,0,0,26,0,0,57,67,100.0,Turkish <gnome-turk@gnome.org>
+bluedevil,603,1,0,193,1,0,527,604,99.83443708609272,Turkish <kde-i18n-doc@kde.org>
+bluefish,1388,906,1525,687,326,272,1606,3819,36.34459282534695,<en@li.org>
+blueman,830,0,546,269,0,83,755,1376,60.31976744186046,Turkish <tr@li.org>
+bognor-regis,39,0,0,4,0,0,26,39,100.0,
+boinc-client,4114,16,0,789,4,0,3634,4130,99.61259079903148,Donanım Haber <bilgi@donanimhaber.com>
+boswars,191,6,21,55,3,17,175,218,87.61467889908256,<tr@li.org>
+brasero,5502,0,0,992,0,0,4472,5502,100.0,Turkish <gnome-turk@gnome.org>
+bygfoot,3707,0,13,772,0,2,3129,3720,99.6505376344086,
+byobu,121,0,56,33,0,11,111,177,68.36158192090396,Turkish <tr@li.org>
+byzanz,198,3,48,38,1,3,148,249,79.51807228915662,Turkish <ceviri@gnome.org.tr>
+bzr-explorer,505,0,1132,241,0,223,498,1637,30.849114233353696,Turkish <tr@li.org>
+cairo-clock,270,0,0,60,0,0,232,270,100.0,Deniz Koçak <deniz.kocak@linux.org.tr>
+calibre,1695,0,18303,357,0,2350,1396,19998,8.475847584758474,Turkish <tr@li.org>
+camorama,559,0,0,133,0,0,490,559,100.0,Turkish <gnome-turk@gnome.org>
+ccsm,544,5,0,132,3,0,522,549,99.08925318761385,<tr@li.org>
+cheese,659,0,0,122,0,0,515,659,100.0,Turkish <gnome-turk@gnome.org>
+chkconfig,448,0,0,90,0,0,389,448,100.0,Turkish <none>
+choqok,1196,171,547,306,58,109,1059,1914,62.48693834900732,Turkish <kde-i18n-doc@kde.org>
+cinepaint,1254,1358,4793,509,586,840,1148,7405,16.934503713706956,Turkish <gnome-turk@gnome.org>
+clamtk,789,0,0,216,0,0,671,789,100.0,Turkish <LL@li.org>
+clementine,3126,0,32,885,0,6,2805,3158,98.98670044331855,Turkish <tr@li.org>
+compat-gcc-32,28638,0,0,4465,0,0,25937,28638,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+compat-gcc-34,30780,0,99,4687,0,13,27734,30879,99.67939376275139,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+compat-libgda,64,680,1543,27,126,323,53,2287,2.7984258854394404,Turkish <gnome-turk@gnome.org>
+compiz,2461,472,317,602,66,49,2236,3250,75.72307692307693,<tr@li.org>
+compiz-fusion,2462,816,5668,781,249,699,2269,8946,27.520679633355687,<tr@li.org>
+compiz-fusion-extras,2462,816,5668,781,249,699,2269,8946,27.520679633355687,<tr@li.org>
+compiz-fusion-unsupported,2462,816,5668,781,249,699,2269,8946,27.520679633355687,<tr@li.org>
+control-center,3245,0,0,786,0,0,2747,3245,100.0,Turkish <gnome-turk@gnome.org>
+coreutils,7862,7308,3443,736,445,288,7204,18613,42.239295116316555,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+cowbell,23,0,623,9,0,114,21,646,3.560371517027864,Turkish <tr@li.org>
+cpio,1128,144,565,165,34,99,978,1837,61.40446379967338,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+cracklib,93,0,0,15,0,0,89,93,100.0,<yerellestirme@kde.org.tr>
+cryptkeeper,346,5,7,50,2,1,266,358,96.64804469273743,
+dasher,526,0,0,198,0,0,500,526,100.0,Turkish <gnome-turk@gnome.org>
+dc3dd,230,398,304,32,31,25,230,932,24.678111587982833,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+decibel-audio-player,238,0,1256,36,0,201,186,1494,15.930388219544847,Turkish <tr@li.org>
+deja-dup,435,0,2334,114,0,246,395,2769,15.70964247020585,Turkish <tr@li.org>
+deskbar-applet,1654,0,0,355,0,0,1412,1654,100.0,Turkish <gnome-turk@gnome.org>
+devhelp,404,0,0,102,0,0,348,404,100.0,Turkish <gnome-turk@gnome.org>
+dexter,228,0,0,92,0,0,219,228,100.0,Turkish <tr@li.org>
+dia,1253,1915,2543,568,779,699,1164,5711,21.94011556645071,Turkish <gnome-turk@gnome.org>
+dialog,13,1,11,13,1,9,14,25,52.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+diffutils,1342,0,0,180,0,0,1295,1342,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+digikam,11680,7794,4179,2181,778,338,9691,23653,49.38062825011627,Turkish <yerellestirme@kde.org.tr>
+docky,597,0,2,172,0,1,544,599,99.6661101836394,Turkish <tr@li.org>
+e16,1682,6,1130,247,3,279,1411,2818,59.68772178850248,Turkish <tr@li.org>
+e2fsprogs,4158,939,648,712,105,75,4449,5745,72.37597911227154,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+eina,166,17,825,49,5,199,150,1008,16.46825396825397,Turkish <tr@li.org>
+ejabberd,1467,58,237,370,15,25,1323,1762,83.25766174801362,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+eject,592,0,0,70,0,0,570,592,100.0,
+ekiga,3861,40,142,661,3,3,3095,4043,95.4983922829582,Turkish <gnome-turk@gnome.org>
+elinks,349,1471,10414,165,470,990,337,12234,2.8527055746280854,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+emerald,774,0,0,215,0,0,753,774,100.0,Turkish <tulliana@gmail.com>
+empathy,2687,0,0,621,0,0,2214,2687,100.0,Turkish <gnome-turk@gnome.org>
+enlightenment,4244,516,1996,1264,201,117,3805,6756,62.818235642391954,Turkish <kde-i18n-doc@kde.org>
+enscript,1631,198,0,198,10,0,1494,1829,89.17441224712958,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+eog,1440,0,0,294,0,0,1164,1440,100.0,Turkish <gnome-turk@gnome.org>
+epiphany,3004,0,0,739,0,0,2714,3004,100.0,Turkish <gnome-turk@gnome.org>
+epiphany-extensions,116,11,0,25,2,0,104,127,91.33858267716536,Turkish <gnome-turk@gnome.org>
+etherape,323,100,686,125,38,111,274,1109,29.125338142470696,Görkem <gorkem@gelecek.com.tr>
+etoys,26181,0,3813,4811,0,291,21201,29994,87.2874574914983,
+evince,1260,0,0,325,0,0,1091,1260,100.0,Turkish <gnome-turk@gnome.org>
+evolution,22130,0,0,5052,0,0,18618,22130,100.0,Turkish <gnome-turk@gnome.org>
+evolution-data-server,5094,0,0,1041,0,0,4569,5094,100.0,Turkish <gnome-turk@gnome.org>
+evolution-exchange,1347,0,0,197,0,0,1105,1347,100.0,Turkish <gnome-turk@gnome.org>
+evolution-mapi,284,0,0,50,0,0,262,284,100.0,Turkish <gnome-turk@gnome.org>
+exaile,1640,0,1164,545,0,214,1593,2804,58.48787446504993,Turkish <tr@li.org>
+exo,1598,0,0,301,0,0,1361,1598,100.0,Turkish <turkce@pardus.org.tr>
+fetchmail,2689,1054,583,488,135,61,2518,4326,62.159038372630604,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+file-roller,1383,0,0,305,0,0,1127,1383,100.0,
+filezilla,9145,0,0,1549,0,0,7604,9145,100.0,Zeron <kaya.zeren@zeron.net>
+findutils,1319,511,279,124,39,33,1126,2109,62.541488857278324,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+firstboot,132,107,415,13,6,35,105,654,20.18348623853211,Turkish <fedora-trans-tr@redhat.com>
+flex,1052,17,0,154,3,0,986,1069,98.40972871842844,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+freeciv,20594,10412,22686,3424,999,847,16412,53692,38.355807196602846,Turkish <yerellestirme@kde.org.tr>
+freedink,12,70,0,3,12,0,10,82,14.634146341463413,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+frescobaldi,2796,6,23,670,2,4,2459,2825,98.97345132743362,Turkish <kde-i18n-doc@kde.org>
+frozen-bubble,698,0,0,148,0,0,603,698,100.0,Türkçe <tr@li.org>
+fslint,336,0,52,116,0,16,319,388,86.5979381443299,Turkish <tr@li.org>
+fuse-encfs,1120,8,187,127,2,10,1020,1315,85.17110266159695,Turkish <tr@li.org>
+galeon,3381,1230,1790,919,370,240,3251,6401,52.819871895016405,Turkish <gnome-turk@gnome.org>
+gallery2,10411,187,7195,2102,36,405,8812,17793,58.5117742932614,Turkish <admin@ansolon.org>
+gambas,2453,0,20,752,0,8,2115,2473,99.19126566922766,LANGUAGE <LL@li.org>
+gambas2,2501,109,348,882,13,108,2218,2958,84.55037187288708,LANGUAGE <LL@li.org>
+gambas3,2974,0,1064,1025,0,220,2613,4038,73.65032194155523,LANGUAGE <LL@li.org>
+garcon,0,9,8,0,1,1,0,17,0.0,Turkish <turkce@pardus.org.tr>
+gawk,2343,173,88,377,19,12,2123,2604,89.97695852534562,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gbrainy,5200,1184,1038,840,53,88,4133,7422,70.06197790353005,Turkish <gnome-turk@gnome.org>
+gcal,4867,29,42,1409,6,6,4518,4938,98.56217091940057,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gcalctool,1522,155,0,449,3,0,1411,1677,90.75730471079308,Turkish <gnome-turk@gnome.org>
+gcc,31684,17006,10405,4683,2257,1127,27626,59095,53.615365090109144,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gccxml,1140,0,0,193,0,0,999,1140,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gcompris,8382,1171,0,1037,75,0,5524,9553,87.74207055375275,Turkish <tr@li.org>
+gconf-editor,336,0,0,98,0,0,309,336,100.0,Turkish <gnome-turk@gnome.org>
+gdb,4961,0,0,740,0,0,4577,4961,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gdeskcal,74,0,0,32,0,0,58,74,100.0,LANGUAGE <LL@li.org>
+gdesklets,361,0,1167,108,0,96,310,1528,23.62565445026178,Turkish <gnome-turk@gnome.org>
+gdk-pixbuf2,1313,0,0,200,0,0,1095,1313,100.0,Turkish <gnome-turk@gnome.org>
+gdm,1193,0,115,232,0,3,1047,1308,91.20795107033639,Turkish <gnome-turk@gnome.org>
+gdmap,139,0,0,54,0,0,139,139,100.0,BurakCAYIR
+geany,5545,0,41,1208,0,7,4620,5586,99.26602219835303,
+geany-plugins,2570,17,3112,733,4,303,2325,5699,45.09563081242323,
+geda-gaf,327,0,2513,114,0,583,284,2840,11.514084507042254,Turkish <tr@li.org>
+gedit,4966,0,0,1105,0,0,4121,4966,100.0,Turkish <gnome-turk@gnome.org>
+gedit-plugins,294,0,0,52,0,0,233,294,100.0,Turkish <gnome-turk@gnome.org>
+geeqie,208,1056,1645,65,399,525,205,2909,7.15022344448264,Turkish Gnome Translation Team <gnotrap@gmx.net>
+gettext,6246,445,166,622,51,14,5268,6857,91.08939769578532,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gftp,1991,559,825,425,143,66,1650,3375,58.992592592592594,Turkish <gnome-turk@gnome.org>
+ggz-base-libs,74,0,0,17,0,0,66,74,100.0,Turkish <gnome-turk@gnome.org>
+ggz-gtk-client,773,0,0,244,0,0,646,773,100.0,Turkish <gnome-turk@gnome.org>
+ghdl,35988,8785,5135,5443,1111,517,31401,49908,72.1086799711469,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+ghex,966,0,0,275,0,0,842,966,100.0,Turkish <gnome-turk@gnome.org>
+gigolo,444,0,0,130,0,0,431,444,100.0,"Turkish <kde-i18n-doc@kde.org,xfce-i18n@xfce.org>"
+gimmix,534,0,0,99,0,0,485,534,100.0,yavuz selim burgu <turkalinux@gmail.com>
+gimp,4245,5048,10899,1878,1527,2452,4099,20192,21.023177496038034,Türkçe <gnome-turk@gnome.org>
+glade2,5050,472,318,1150,96,54,3793,5840,86.47260273972603,Turkish <gnome-turk@gnome.org>
+glade3,4605,0,0,1195,0,0,4090,4605,100.0,Turkish <gnome-turk@gnome.org>
+glib2,2415,268,1007,392,55,113,2118,3690,65.4471544715447,Turkish <gnome-turk@gnome.org>
+glibc,7234,0,0,1326,0,0,6599,7234,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gliv,642,185,207,166,54,40,586,1034,62.0889748549323,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+glom,159,5,111,50,3,7,135,275,57.81818181818181,Turkish <gnome-turk@gnome.org>
+gmpc,16,0,2,10,0,1,17,18,88.88888888888889,Turkish <tr@li.org>
+gnochm,560,16,5,119,1,2,465,581,96.3855421686747,Turkish <gnome-turk@gnome.org>
+gnome-activity-journal,201,0,115,72,0,22,188,316,63.60759493670886,Turkish <tr@li.org>
+gnome-applet-alarm-clock,417,0,0,110,0,0,332,417,100.0,Turkish <tr@li.org>
+gnome-applet-netspeed,100,7,25,37,5,5,95,132,75.75757575757575,Turkish <gnome-turk@gnome.org>
+gnome-applet-remmina,24,0,0,8,0,0,24,24,100.0,Turkish <tr@li.org>
+gnome-applet-timer,258,0,22,67,0,2,222,280,92.14285714285714,Turkish <gnome-turk@gnome.org>
+gnome-applet-window-picker,22,3,4,6,1,2,19,29,75.86206896551724,Turkish
+gnome-applets,3367,0,0,791,0,0,2978,3367,100.0,Turkish <gnome-turk@gnome.org>
+gnome-backgrounds,23,0,0,17,0,0,25,23,100.0,Turkish <gnome-turk@gnome.org>
+gnome-bluetooth,593,0,0,157,0,0,536,593,100.0,Turkish <gnome-turk@gnome.org>
+gnome-desktop,351,0,0,53,0,0,304,351,100.0,Turkish <gnome-turk@gnome.org>
+gnome-desktop3,351,0,0,53,0,0,304,351,100.0,Turkish <gnome-turk@gnome.org>
+gnome-disk-utility,4042,0,0,811,0,0,3486,4042,100.0,Turkish <gnome-turk@gnome.org>
+gnome-do,473,0,139,119,0,25,435,612,77.2875816993464,Turkish <tr@li.org>
+gnome-do-plugins,2323,0,0,582,0,0,2037,2323,100.0,Turkish <tr@li.org>
+gnome-doc-utils,249,0,0,99,0,0,257,249,100.0,Turkish <gnome-turk@gnome.org>
+gnome-dvb-daemon,239,0,568,102,0,97,226,807,29.615861214374224,Turkish <tr@li.org>
+gnome-games,9498,0,554,2024,0,9,7784,10052,94.48865897333863,Turkish <gnome-turk@gnome.org>
+gnome-globalmenu,285,0,40,52,0,4,234,325,87.6923076923077,Turkish <tr@li.org>
+gnome-gmail,268,0,91,39,0,8,230,359,74.65181058495823,LANGUAGE <LL@li.org>
+gnome-icon-theme,20,0,0,16,0,0,21,20,100.0,Turkish <gnome-turk@gnome.org>
+gnome-keyring,1823,0,0,276,0,0,1391,1823,100.0,Turkish <gnome-turk@gnome.org>
+gnome-libs,988,40,57,381,4,10,905,1085,91.05990783410138,Turkish <gnome-turk@gnome.org>
+gnome-mag,298,0,0,42,0,0,250,298,100.0,Turkish <gnome-turk@gnome.org>
+gnome-media,1190,0,0,287,0,0,1035,1190,100.0,Turkish <gnome-turk@gnome.org>
+gnome-menus,161,0,0,57,0,0,154,161,100.0,Turkish <gnome-turk@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,941,887,100.0,Turkish <gnome-turk@gnome.org>
+gnome-mud,899,312,65,203,43,8,723,1276,70.45454545454545,Turkish <gnome-turk@gnome.org>
+gnome-netstatus,418,0,0,106,0,0,356,418,100.0,Turkish <gnome-turk@gnome.org>
+gnome-nettool,617,0,0,213,0,0,581,617,100.0,Turkish <gnome-turk@gnome.org>
+gnome-packagekit,5365,0,0,873,0,0,3948,5365,100.0,Turkish <gnome-turk@gnome.org>
+gnome-paint,162,0,5,51,0,3,142,167,97.0059880239521,Turkish <tr@li.org>
+gnome-panel,4476,0,0,613,0,0,3499,4476,100.0,Turkish <gnome-turk@gnome.org>
+gnome-pilot,885,335,354,178,89,68,786,1574,56.22617534942821,Turkish <tr@li.org>
+gnome-pilot-conduits,154,36,19,38,11,1,151,209,73.68421052631578,Turkish <tr@li.org>
+gnome-power-manager,2786,0,0,427,0,0,2251,2786,100.0,Turkish <gnome-turk@gnome.org>
+gnome-screensaver,975,0,0,154,0,0,815,975,100.0,Turkish <gnome-turk@gnome.org>
+gnome-session,675,0,0,113,0,0,535,675,100.0,Turkish <gnome-turk@gnome.org>
+gnome-settings-daemon,1624,0,0,245,0,0,1340,1624,100.0,Turkish <gnome-turk@gnome.org>
+gnome-shell,89,0,0,30,0,0,78,89,100.0,Turkish <gnome-turk@gnome.org>
+gnome-subtitles,893,0,0,288,0,0,810,893,100.0,Turkish <gnome-turk@gnome.org>
+gnome-system-monitor,933,0,0,244,0,0,867,933,100.0,Turkish <gnome-turk@gnome.org>
+gnome-terminal,3947,0,0,462,0,0,3140,3947,100.0,Turkish <gnome-turk@gnome.org>
+gnome-themes,109,0,0,30,0,0,119,109,100.0,Turkish <gnome-turk@gnome.org>
+gnome-user-share,288,0,0,46,0,0,253,288,100.0,Turkish <gnome-turk@gnome.org>
+gnome-utils,3785,0,113,676,0,3,3026,3898,97.10107747562853,Turkish <gnome-turk@gnome.org>
+gnome-vfs2,1508,0,0,301,0,0,1274,1508,100.0,Turkish <gnome-turk@gnome.org>
+gnome-video-effects,11,2,13,10,2,11,12,26,42.30769230769231,Turkish <gnome-turk@gnome.org>
+gnomebaker,301,100,785,84,38,169,254,1186,25.379426644182125,Turkish <tr@li.org>
+gnomeradio,426,17,0,96,4,0,373,443,96.16252821670429,Turkish <gnome-turk@gnome.org>
+gnotime,347,315,1346,154,102,173,330,2008,17.280876494023907,Turkish <gnome-turk@gnome.org>
+gnubg,1985,1119,13471,654,276,2097,1851,16575,11.975867269984917,Türkce <LL@li.org>
+gnubik,120,42,55,37,6,15,103,217,55.29953917050692,Turkish <gnome-turk@gnome.org>
+gnucash,7802,3544,14966,1787,839,1463,6092,26312,29.651869869261173,
+gnumeric,5337,5770,23939,1402,1495,2745,4589,35046,15.228556753980483,Turkish <gnome-turk@gnome.org>
+gnupg,7627,544,458,1146,89,59,6917,8629,88.38799397380924,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gnupg2,10000,276,215,1664,46,31,9275,10491,95.3197979220284,Turkish
+goffice,940,1201,2458,316,541,703,854,4599,20.439225918677973,Turkish <gnome-turk@gnome.org>
+gok,1937,0,0,443,0,0,1622,1937,100.0,Turkish <gnome-turk@gnome.org>
+googsystray,0,0,759,0,0,199,0,759,0.0,Turkish
+gourmet,887,527,2233,250,154,464,757,3647,24.32136002193584,Turkish <tr@li.org>
+gpa,1238,476,2101,218,141,174,963,3815,32.45085190039318,xTc & Déjà Vu
+gparted,850,0,0,187,0,0,740,850,100.0,GNOME Turkish <gnome-turk@gnome.org>
+gpicview,0,0,219,0,0,44,0,219,0.0,LANGUAGE <LL@li.org>
+gpodder,140,0,2220,91,0,522,144,2360,5.932203389830509,Turkish (http://www.transifex.net/projects/p/gpodder/team/tr/)
+gpsdrive,383,480,1642,100,108,248,340,2505,15.289421157684629,LANGUAGE <tr@li.org>
+grass,20585,3186,24097,4449,695,3065,18037,47868,43.00367677780563,TÜRKÇE <grass-translations@lists.osgeo.org>
+grep,57,262,631,19,27,66,59,950,6.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gretl,13717,0,0,3472,0,0,12576,13717,100.0,Turkish <kde-i18n-doc@kde.org>
+griffith,1628,3,223,408,2,44,1449,1854,87.8101402373247,Turkish <tr@li.org>
+grsync,572,68,448,92,12,50,489,1088,52.57352941176471,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gscan2pdf,1437,0,172,475,0,31,1358,1609,89.31013051584836,Turkish <tr@li.org>
+gstreamer,685,400,813,151,76,116,591,1898,36.09062170706006,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gstreamer-plugins-bad-free,72,0,0,12,0,0,50,72,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gstreamer-plugins-base,891,0,0,174,0,0,761,891,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gstreamer-plugins-good,788,0,0,187,0,0,662,788,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gtg,370,0,1410,107,0,140,332,1780,20.786516853932586,Turkish <tr@li.org>
+gthumb,2622,0,0,884,0,0,2341,2622,100.0,Turkish <gnome-turk@gnome.org>
+gtk+,202,0,0,105,0,0,181,202,100.0,Turkish <gnome-turk@gnome.org>
+gtk-gnutella,425,312,12188,224,135,1804,414,12925,3.2882011605415857,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+gtk-recordmydesktop,553,0,263,74,0,30,472,816,67.76960784313727,LANGUAGE <LL@li.org>
+gtk2,12848,475,381,2627,100,57,10222,13704,93.75364856976066,Turkish <gnome-turk@gnome.org>
+gtk2-engines,119,0,0,47,0,0,129,119,100.0,Turkish <gnome-turk@gnome.org>
+gtk3,11168,469,361,2333,101,55,8802,11998,93.0821803633939,Turkish <gnome-turk@gnome.org>
+gtk3-engines,119,0,0,47,0,0,129,119,100.0,Turkish <gnome-turk@gnome.org>
+gtkhash,12,0,53,11,0,15,17,65,18.461538461538463,Turkish <tr@li.org>
+gtkhtml3,1228,0,0,545,0,0,1133,1228,100.0,Turkish <gnome-turk@gnome.org>
+gtksourceview,765,0,0,312,0,0,748,765,100.0,Turkish <gnome-turk@gnome.org>
+gtksourceview2,1120,0,0,448,0,0,1029,1120,100.0,Turkish <gnome-turk@gnome.org>
+gtksourceview3,1120,0,0,448,0,0,1029,1120,100.0,Turkish <gnome-turk@gnome.org>
+gtkspell,11,0,0,5,0,0,13,11,100.0,Turkish <turkce@pardus.org.tr>
+gtranslator,1400,28,0,366,3,0,1255,1428,98.0392156862745,Turkish <gnome-turk@gnome.org>
+gtweakui,153,0,99,42,0,37,138,252,60.71428571428571,Turkish <gnome-turk@gnome.org>
+gucharmap,803,0,0,298,0,0,743,803,100.0,Turkish <gnome-turk@gnome.org>
+gvfs,1858,0,0,445,0,0,1738,1858,100.0,Turkish <gnome-turk@gnome.org>
+gwget,141,7,6,44,3,3,123,154,91.55844155844156,Turkish <kabalak@gtranslator.org>
+gwibber,22,0,23,14,0,10,22,45,48.888888888888886,Turkish <tr@li.org>
+hamster-applet,230,7,11,88,5,7,240,248,92.74193548387096,Turkish <gnome-turk@gnome.org>
+hello,109,66,18,15,12,3,113,193,56.476683937823836,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+homebank,1024,0,485,447,0,87,945,1509,67.85950960901259,Turkish <tr@li.org>
+horde,7628,0,0,1991,0,0,6495,7628,100.0,i18n@lists.horde.org
+hornsey,41,6,48,11,4,26,33,95,43.15789473684211,TURKISH <LL@li.org>
+icewm,785,588,3,239,6,2,744,1376,57.04941860465116,Turkish
+ikiwiki,99,12,1218,34,4,243,108,1329,7.44920993227991,Turkish <debian-l10n-turkish@lists.debian.org>
+im-chooser,132,6,75,29,2,17,109,213,61.97183098591549,Turkish <none>
+imp,6318,0,0,1294,0,0,5270,6318,100.0,i18n@lists.horde.org
+imsettings,0,77,902,0,13,142,0,979,0.0,Turkish <fedora-trans-tr@redhat.com>
+indent,210,47,15,45,8,2,190,272,77.20588235294117,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+ingo,883,0,0,236,0,0,778,883,100.0,i18n@lists.horde.org
+initscripts,1742,1750,857,377,531,162,1660,4349,40.055185100022996,
+inkscape,4024,5898,16597,1315,1957,2303,3769,26519,15.17402616991591,American English <kde-i18n-doc@kde.org>
+insight,4961,0,0,740,0,0,4577,4961,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+iso-codes,2093,6961,10642,1130,5727,6760,2137,19696,10.626523151909018,Turkish
+isomaster,674,0,0,107,0,0,591,674,100.0,Tutku DALMAZ <t@gmail.com>
+jmol,2022,0,709,767,0,130,1971,2731,74.03881362138411,Turkish <yerellestirme@kde.org.tr>
+jokosher,1169,0,890,224,0,185,1024,2059,56.775133559980574,Turkish <tr@li.org>
+jpilot,2474,0,0,665,0,0,2174,2474,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+jwhois,395,17,28,64,3,4,347,440,89.77272727272727,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+k3b,18532,1628,269,2496,23,3,15685,20429,90.71418082138138,Turkish <kde-i18n-doc@kde.org>
+kBuild,204,136,165,38,29,14,193,505,40.396039603960396,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+kaffeine,527,57,6,229,27,1,527,590,89.32203389830508,Turkish <kde-i18n-doc@kde.org>
+kaudiocreator,1123,8,5,270,1,2,944,1136,98.8556338028169,Turkish <kde-i18n-doc@kde.org>
+kbd,1654,0,0,216,0,0,1588,1654,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+kbluetooth,326,15,0,101,2,0,295,341,95.60117302052787,Turkish <kde-i18n-doc@kde.org>
+kchmviewer,419,90,463,60,36,111,322,972,43.10699588477366,Turkish <tr@li.org>
+kcm-gtk,29,45,50,10,5,6,29,124,23.387096774193548,<tr@li.org>
+kcoloredit,254,24,0,89,6,0,232,278,91.36690647482014,Turkish <yerellestirme@kde.org.tr>
+kdbg,153,47,666,60,22,108,145,866,17.66743648960739,Turkish <kde-i18n-tr@kde.org>
+kde-partitionmanager,1762,0,970,373,0,80,1679,2732,64.49487554904832,Turkish <yerellestirme@kde.org.tr>
+kde-plasma-daisy,306,0,23,126,0,4,304,329,93.00911854103343,Turkish <kde-i18n-doc@kde.org>
+kde-plasma-networkmanagement,2360,55,455,802,9,64,2254,2870,82.22996515679442,Turkish <kde-i18n-doc@kde.org>
+kde-plasma-quickaccess,0,0,72,0,0,31,0,72,0.0,Turkish <tr@li.org>
+kdetv,1795,411,0,424,59,0,1678,2206,81.36899365367181,Türkçe <yerellestirme@kde.org.tr>
+kdiff3,1918,31,1695,480,7,163,1796,3644,52.6344676180022,Turkish <yerellestirme@kde.org.tr>
+kdissert,0,0,2027,0,0,282,0,2027,0.0,<yerellestirme@kde.org.tr>
+kerry,644,4,54,173,1,9,519,702,91.73789173789174,<yerellestirme@kde.org.tr>
+keurocalc,291,0,0,116,0,0,295,291,100.0,Türkçe <yerellestirme@kde.org.tr>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kgrab,370,0,0,53,0,0,303,370,100.0,Turkish <yerellestirme@kde.org.tr>
+kiconedit,726,0,0,155,0,0,593,726,100.0,Turkish <yerellestirme@kde.org.tr>
+kid3,1121,0,183,489,0,44,1157,1304,85.96625766871165,American English <kde-i18n-doc@kde.org>
+kile,8595,1666,853,1620,164,112,7276,11114,77.33489292783877,Turkish <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,19,17,100.0,Turkish <kde-i18n-doc@lists.kde.org>
+kio_sysinfo,168,0,0,72,0,0,166,168,100.0,Turkish <yerellestirme@kde.org.tr>
+kipi-plugins,11237,2124,1903,2485,315,156,9859,15264,73.61766247379455,Turkish <kde-i18n-doc@kde.org>
+klamav,2485,0,18,412,0,7,1947,2503,99.28086296444268,Turkish <yerellestirme@kde.org.tr>
+kmess,4149,1868,1385,910,178,61,3399,7402,56.05241826533369,Turkish <kde-i18n-doc@kde.org>
+kmldonkey,1822,0,8,435,0,1,1540,1830,99.56284153005464,Turkish <yerellestirme@kde.org.tr>
+kmplayer,1246,2,0,369,1,0,1139,1248,99.83974358974359,Turkish <kde-i18n-doc@kde.org>
+kmymoney,3876,1161,13756,1555,400,1194,3702,18793,20.624700686425797,Turkish <kde-i18n-doc@kde.org>
+knemo,940,131,115,277,44,26,853,1186,79.25801011804384,Turkish <kde-i18n-doc@kde.org>
+knetstats,119,0,0,53,0,0,123,119,100.0,Turkish <yerellestirme@kde.org.tr>
+koffice-kivio,3689,1243,3485,1167,524,670,3398,8417,43.82796720921944,Turkish <tr@li.org>
+konq-plugins,1692,0,0,546,0,0,1522,1692,100.0,Turkish <tr@li.org>
+konversation,7390,2006,787,1361,149,61,6137,10183,72.57193361484828,Turkish <kde-i18n-doc@kde.org>
+kopete-cryptography,408,0,0,41,0,0,309,408,100.0,Turkish <yerellestirme@kde.org.tr>
+kpackagekit,3270,78,298,630,16,27,2404,3646,89.68732857926494,Turkish <kde-i18n-doc@kde.org>
+kphotoalbum,4925,1246,162,702,50,11,3711,6333,77.76725090794253,Turkish <kde-i18n-doc@kde.org>
+kpilot,1473,366,5317,511,50,300,1368,7156,20.58412520961431,Turkish <yerellestirme@kde.org.tr>
+krecipes,1216,721,1150,245,144,179,900,3087,39.39099449303531,Türkçe <yerellestirme@kde.org.tr>
+kronolith,2267,0,0,565,0,0,1898,2267,100.0,i18n@lists.horde.org
+krusader,6145,1285,320,1450,194,53,5105,7750,79.29032258064515,Turkish <yerellestirme@kde.org.tr>
+kshutdown,772,4,0,184,1,0,665,776,99.48453608247422,Türkçe <tr@li.org>
+ksig,85,0,0,26,0,0,73,85,100.0,Turkish <tr@li.org>
+kst,1762,1944,3740,598,545,669,1574,7446,23.663712060166535,Türkçe <yerellestirme@kde.org.tr>
+ktorrent,6403,774,773,1155,98,90,5384,7950,80.54088050314465,Turkish <kde-i18n-doc@kde.org>
+kwebkitpart,477,0,0,124,0,0,411,477,100.0,Turkish <kde-i18n-doc@kde.org>
+lazarus,4428,39,10970,980,14,2781,4166,15437,28.684329856837472,
+leafpad,121,2,2,66,1,1,126,125,96.8,Türkçe <yerellestirme@kde.org.tr>
+libbonobo,543,0,0,107,0,0,455,543,100.0,Turkish <gnome-turk@gnome.org>
+libbonoboui,368,0,0,115,0,0,335,368,100.0,Turkish <gnome-turk@gnome.org>
+libfm,511,5,143,135,2,42,439,659,77.54172989377845,tr <tr@li.org>
+libgda,9,1749,8023,7,412,1406,10,9781,0.0920151313771598,Turkish <gnome-turk@gnome.org>
+libgdl,613,0,0,98,0,0,491,613,100.0,Turkish <gnome-turk@gnome.org>
+libgnome,1772,0,0,273,0,0,1449,1772,100.0,Turkish <gnome-turk@gnome.org>
+libgnomecanvas,378,0,0,95,0,0,323,378,100.0,Turkish <gnome-turk@gnome.org>
+libgnomecups,210,0,0,54,0,0,154,210,100.0,Turkish <gnome-turk@gnome.org>
+libgnomekbd,246,0,0,51,0,0,216,246,100.0,Turkish <gnome-turk@gnome.org>
+libgnomeprint22,168,0,0,98,0,0,160,168,100.0,Turkish <gnome-turk@gnome.org>
+libgnomeprintui22,481,0,0,154,0,0,409,481,100.0,Turkish <gnome-turk@gnome.org>
+libgnomeui,1226,0,0,320,0,0,954,1226,100.0,Turkish <gnome-turk@gnome.org>
+libgtop2,126,0,0,40,0,0,106,126,100.0,Turkish <gnome-turk@gnome.org>
+libgweather,6051,0,0,4518,0,0,6023,6051,100.0,Turkish <gnome-turk@gnome.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,21,4,0,13,1,0,20,25,84.0,<tr@li.org>
+libktorrent,292,181,34,76,32,5,249,507,57.59368836291914,Turkish <kde-i18n-doc@kde.org>
+libmx,40,0,0,17,0,0,37,40,100.0,MeeGo Türkçe
+libpaper,0,25,48,0,1,45,0,73,0.0,Turkish <debian-l10n-turkish@lists.debian.org>
+libsocialweb,148,0,0,12,0,0,120,148,100.0,MeeGo Türkçe
+libuser,725,256,133,165,44,24,678,1114,65.08078994614004,Turkish <fedora-trans-tr@redhat.com>
+libvirt,1098,11343,8105,258,2092,1197,1098,20546,5.34410590869269,none
+libwnck,1124,0,0,241,0,0,1026,1124,100.0,Turkish <gnome-turk@gnome.org>
+libxfce4menu,31,0,0,5,0,0,22,31,100.0,Turkish <turkce@pardus.org.tr>
+libxfce4ui,109,18,9,25,4,1,88,136,80.14705882352942,Turkish <turkce@pardus.org.tr>
+libxfce4util,413,0,0,4,0,0,413,413,100.0,Turkish <tr@li.org>
+libxfcegui4,234,0,0,61,0,0,197,234,100.0,Turkish <turkce@pardus.org.tr>
+lifeograph,479,0,0,121,0,0,405,479,100.0,Turkish
+liferea,1841,400,170,422,74,35,1676,2411,76.35835752799667,<turkce@pardus.org.tr>
+lilypond,631,892,990,157,142,156,605,2513,25.109430959013128,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+lilyterm,614,0,0,106,0,0,509,614,100.0,GNU-TR <tr@li.org>
+lincity-ng,1694,67,162,415,16,26,1325,1923,88.09152366094644,Türkçe benz
+listen,1745,1,37,540,1,8,1675,1783,97.86876051598429,Turkish <tr@li.org>
+lxappearance,191,0,0,58,0,0,174,191,100.0,tr <tr@li.org>
+lxappearance-obconf,191,0,0,26,0,0,151,191,100.0,Turkish
+lxdm,13,0,0,11,0,0,15,13,100.0,LANGUAGE <LL@li.org>
+lxinput,60,3,7,21,1,1,54,70,85.71428571428571,LANGUAGE <LL@li.org>
+lxlauncher,0,0,51,0,0,11,0,51,0.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,95,97,100.0,Turkish <gnome-turk@gnome.org>
+lxmusic,203,0,0,89,0,0,208,203,100.0,LANGUAGE <LL@li.org>
+lxpanel,892,0,0,297,0,0,869,892,100.0,LANGUAGE <LL@li.org>
+lxrandr,0,0,102,0,0,22,0,102,0.0,LANGUAGE <LL@li.org>
+lxsession,37,0,0,15,0,0,35,37,100.0,LANGUAGE <LL@li.org>
+lxsession-edit,0,0,58,0,0,10,0,58,0.0,LANGUAGE <LL@li.org>
+lxshortcut,0,0,43,0,0,19,0,43,0.0,LANGUAGE <LL@li.org>
+lxtask,122,0,0,48,0,0,117,122,100.0,LANGUAGE <LL@li.org>
+lxterminal,90,28,26,62,13,10,92,144,62.5,LANGUAGE <LL@li.org>
+lynx,8049,0,0,1218,0,0,7075,8049,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+lyx,10496,2596,3862,4025,732,418,9341,16954,61.90869411348354,Turkish <kde-i18n-doc@kde.org>
+mailman,12210,1163,8513,1004,36,315,9747,21886,55.78908891528831,Turkish <LL@li.org>
+make,1592,395,60,339,54,6,1549,2047,77.7723497801661,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+man-db,13,139,156,4,29,56,11,308,4.220779220779221,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+marlin,0,0,1452,0,0,448,0,1452,0.0,Turkish <kde-i18n-tr@kde.org>
+mc,1200,7,2454,396,4,693,1104,3661,32.77792952745152,Turkish (http://www.transifex.net/projects/p/mc/team/tr/)
+me-tv,200,0,1737,73,0,218,176,1937,10.325245224574084,Turkish <tr@li.org>
+meego-panel-devices,131,13,123,38,5,9,93,267,49.063670411985015,MeeGo Türkçe
+meego-panel-zones,26,7,22,3,4,1,15,55,47.27272727272727,
+metacity,3821,0,0,406,0,0,3254,3821,100.0,Turkish <gnome-turk@gnome.org>
+midori,2469,0,68,626,0,3,2183,2537,97.31966890027591,"Turkish <kde-i18n-doc@kde.org,xfce-i18n@xfce.org>"
+minbar,418,0,0,105,0,0,395,418,100.0,Türkçe <TR@li.org>
+mingw-gdb,4961,0,0,740,0,0,4577,4961,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+mingw-wxWidgets,6679,0,0,1523,0,0,5506,6679,100.0,Hakki Dogusan <dogusanh@tr.net>
+mingw32-atk,375,0,0,126,0,0,313,375,100.0,Turkish <gnome-turk@gnome.org>
+mingw32-binutils,25895,4414,2188,4267,635,286,23696,32497,79.68427854878912,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+mingw32-gcc,31753,16731,10295,4692,2229,1116,27688,58779,54.02099389237654,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+mingw32-gdk-pixbuf,1313,0,0,200,0,0,1095,1313,100.0,Turkish <gnome-turk@gnome.org>
+mingw32-gettext,6660,45,139,672,6,6,5632,6844,97.31151373465809,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+mingw32-glib2,2415,268,1007,392,55,113,2118,3690,65.4471544715447,Turkish <gnome-turk@gnome.org>
+mingw32-gtk2,12848,475,381,2627,100,57,10222,13704,93.75364856976066,Turkish <gnome-turk@gnome.org>
+mingw32-gtkhtml3,1228,0,0,545,0,0,1133,1228,100.0,Turkish <gnome-turk@gnome.org>
+mingw32-iconv,15,32,289,4,9,33,16,336,4.464285714285714,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+moblin-panel-applications,7,0,0,5,0,0,7,7,100.0,
+moblin-panel-media,53,0,2,13,0,1,41,55,96.36363636363636,
+moblin-panel-myzone,38,18,0,10,2,0,35,56,67.85714285714286,
+moblin-panel-people,58,0,0,10,0,0,35,58,100.0,
+moblin-panel-status,76,0,0,17,0,0,58,76,100.0,
+mod_cluster,39,32,256,5,9,32,41,327,11.926605504587156,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+moin,2489,1043,1439,508,169,242,2262,4971,50.07040836853752,
+monkey-bubble,269,0,0,77,0,0,247,269,100.0,Turkish <gnome-turk@gnome.org>
+monodevelop,8216,4094,4313,1914,1234,643,7383,16623,49.42549479636648,Turkish <gnome-turk@gnome.org>
+monodevelop-boo,109,0,3,37,0,1,113,112,97.32142857142857,Turkish <gnome-turk@gnome.org>
+mousepad,135,0,0,64,0,0,135,135,100.0,Turkish <turkce@pardus.org.tr>
+mousetweaks,638,0,0,67,0,0,482,638,100.0,Turkish <gnome-turk@gnome.org>
+msp430-binutils,25895,4414,2188,4267,635,286,23696,32497,79.68427854878912,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+msp430-gcc,28638,0,0,4465,0,0,25937,28638,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+mtpaint,1133,0,1932,506,0,416,1070,3065,36.965742251223496,Turkish <tr@li.org>
+multimedia-menus,56,0,0,22,0,0,53,56,100.0,Turkishh <fedora-trans-tr@redhat.com>
+mutt,4741,448,188,1009,76,35,4466,5377,88.1718430351497,Debian L10n Turkish <debian-l10n-turkish@lists.debian.org>
+mutter,3864,0,0,413,0,0,3313,3864,100.0,Turkish <gnome-turk@gnome.org>
+mutter-mbl,3864,0,0,413,0,0,3313,3864,100.0,Turkish <gnome-turk@gnome.org>
+mutter-moblin,40,0,0,12,0,0,32,40,100.0,
+nano,659,1247,664,164,146,100,591,2570,25.6420233463035,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+nautilus,8620,0,0,1388,0,0,6555,8620,100.0,Turkish <gnome-turk@gnome.org>
+nautilus-open-terminal,24,0,0,5,0,0,21,24,100.0,Turkish <gnome-turk@gnome.org>
+nautilus-pastebin,61,8,15,10,2,3,56,84,72.61904761904762,Turkish <tr@li.org>
+nautilus-search-tool,11,0,0,2,0,0,9,11,100.0,Lapis Linux-Sevenler <>
+nautilus-terminal,110,0,0,37,0,0,119,110,100.0,Turkish <tr@li.org>
+nbtk,40,0,4,17,0,1,37,44,90.9090909090909,
+neon,76,249,361,14,46,75,57,686,11.078717201166182,tr
+nesc,1134,38,6,192,6,1,994,1178,96.26485568760611,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+network-manager-netbook,243,19,107,78,8,26,234,369,65.85365853658537,Novell Language <language@novell.com>
+newsbeuter,1015,50,172,262,9,46,913,1237,82.053354890865,Türkçe <en@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Turkish <debian-l10n-turkish@lists.debian.org>
+nntpgrab,2249,0,10,413,0,1,1888,2259,99.55732625055334,
+notecase,314,262,580,116,90,150,302,1156,27.162629757785467,NoteCase team
+ntfs-config,105,42,210,15,12,32,84,357,29.411764705882355,Turkish <tr@li.org>
+nx,58,0,91,2,0,6,54,149,38.92617449664429,Turkish <debian-l10n-turkish@lists.debian.org>
+obconf,440,4,197,121,1,19,364,641,68.64274570982839,Turkish
+oggconvert,81,0,51,33,0,11,81,132,61.36363636363637,Turkish <tr@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+onboard,1,8,359,1,4,58,1,368,0.2717391304347826,Turkish <tr@li.org>
+openbox,474,30,0,94,1,0,407,504,94.04761904761905,Turkish
+opensp,5771,0,0,722,0,0,5099,5771,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+orage,2110,0,0,769,0,0,1919,2110,100.0,Turkish <turkce@pardus.org.tr>
+orca,3704,0,0,1267,0,0,3476,3704,100.0,Turkish <gnome-turk@gnome.org>
+osmo,1578,72,55,654,24,26,1490,1705,92.55131964809384,Hedef Türkçe <iletisim@hedefturkce.com>
+pal,138,0,1013,51,0,156,123,1151,11.989574283231972,Turkish <gnome-turk@gnome.org>
+pam,371,83,145,85,14,21,315,599,61.93656093489148,Türkçe <tr@li.org>
+pan,220,1307,761,82,380,138,215,2288,9.615384615384617,Turkish <gnome-turk@gnome.org>
+paprefs,28,63,40,6,12,5,23,131,21.374045801526716,Turkish <yerellestirme@kde.org.tr>
+parcellite,62,70,24,25,17,10,62,156,39.743589743589745,Turkish
+parole,296,45,98,136,14,27,294,439,67.42596810933941,Xfce-TR <xfce-tr@googlegroups.com>
+parted,5013,69,57,603,6,6,4246,5139,97.54816112084063,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pastebinit,127,0,38,18,0,7,104,165,76.96969696969697,Turkish <tr@li.org>
+pavucontrol,171,27,39,60,13,14,168,237,72.15189873417721,Turkish <tr@li.org>
+pcmanfm,520,2,16,144,1,4,456,538,96.6542750929368,tr <tr@li.org>
+perl-Padre,4757,0,0,1119,0,0,4288,4757,100.0,Turkish
+pessulus,130,0,0,33,0,0,119,130,100.0,Turkish <gnome-turk@gnome.org>
+pgadmin3,5087,2957,1632,1572,843,281,4812,9676,52.57337742868954,Turkish <devrim@gunduz.org>
+phatch,1891,0,662,645,0,179,1782,2553,74.06972189580885,Turkish <tr@li.org>
+picard,1311,0,0,605,0,0,1268,1311,100.0,Turkish <tr@li.org>
+pidgin,10851,3391,4086,2656,746,500,9308,18328,59.204495853339154,<tr@li.org>
+pidgin-musictracker,177,0,156,50,0,10,173,333,53.153153153153156,Turkish <tr@li.org>
+pingus,1319,676,833,149,65,72,1121,2828,46.640735502121636,"Giray Devlet <giray@devlet.cc>, Cağrı Çöltekin <cagri@metu.edu.tr>"
+pino,352,0,0,127,0,0,318,352,100.0,
+pinta,741,0,237,309,0,47,724,978,75.76687116564416,Turkish <tr@li.org>
+pitivi,3,0,1310,1,0,296,3,1313,0.2284843869002285,Turkish <gnome-turk@gnome.org>
+planner,404,0,678,220,0,132,382,1082,37.33826247689464,Turkish <gnome-turk@gnome.org>
+pmount,31,0,692,5,0,58,23,723,4.287690179806362,Turkish <tr@li.org>
+poedit,1143,19,0,266,3,0,966,1162,98.36488812392426,Hakki Dogusan <dogusanh@tr.net>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+polkit-kde,86,0,6,24,0,2,87,92,93.47826086956522,Turkish <kde-i18n-doc@kde.org>
+pondus,324,0,0,91,0,0,300,324,100.0,LANGUAGE <LL@li.org>
+pootle,3497,0,0,1462,0,0,3298,3497,100.0,LANGUAGE <LL@li.org>
+popt,55,5,15,22,1,4,58,75,73.33333333333333,Turkish <tr@li.org>
+postgresql,34794,3112,1093,4611,384,120,30773,38999,89.21767224800637,Turkish <ceviri@postgresql.org.tr>
+postgresql-jdbc,1615,0,3,185,0,1,1234,1618,99.81458590852905,Turkish <pgsql-tr-genel@PostgreSQL.org>
+publican,0,0,1094,0,0,72,0,1094,0.0,None
+publican-fedora,0,0,107,0,0,6,0,107,0.0,LANGUAGE <LL@li.org>
+purple-msn-pecan,578,0,382,133,0,45,479,960,60.20833333333333,Turkish <tr@li.org>
+pybliographer,577,0,388,195,0,67,531,965,59.79274611398964,Turkish <gnome-turk@gnome.org>
+pychess,722,0,2127,189,0,380,603,2849,25.342225342225344,
+pykickstart,24,19,295,3,2,30,18,338,7.100591715976331,
+pyroom,411,0,0,74,0,0,361,411,100.0,Turkish <tr@li.org>
+python-formencode,600,28,137,83,3,24,489,765,78.43137254901961,Oktay Sancak <oktaysancak@gmail.com>
+python-imdb,245,0,65,245,0,65,445,310,79.03225806451613,IMDbPY Türkçe <uyar@itu.edu.tr>
+python-sphinx,474,0,0,167,0,0,449,474,100.0,Turkish <kistihza@yahoo.com>
+qbzr,365,0,916,164,0,251,357,1281,28.493364558938328,Turkish <tr@li.org>
+qt-recordmydesktop,553,0,263,74,0,30,472,816,67.76960784313727,LANGUAGE <LL@li.org>
+qtcurve-kde4,417,1010,4391,188,225,345,426,5818,7.1674114816088,Turkish <kde-i18n-doc@kde.org>
+quassel,1997,0,2022,619,0,241,1870,4019,49.68897735755163,Turkish <kde-i18n-doc@kde.org>
+quodlibet,2001,90,204,532,25,36,1754,2295,87.18954248366013,Turerkan <turerkan@gmail.com>
+radiotray,100,0,56,43,0,13,93,156,64.1025641025641,Turkish (http://www.transifex.net/projects/p/radiotray/team/tr/)
+rapid-photo-downloader,25,0,1887,25,0,380,25,1912,1.307531380753138,Turkish <tr@li.org>
+redhat-menus,246,5,10,78,3,5,238,261,94.25287356321839,Turkish <fedora-trans-tr@redhat.com>
+rednotebook,577,0,401,163,0,59,503,978,58.99795501022494,Turkish <tr@li.org>
+referencer,330,0,549,142,0,108,333,879,37.54266211604095,Turkish <tr@li.org>
+remmina,828,0,0,216,0,0,794,828,100.0,Turkish <tr@li.org>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,630,815,3375,99,157,198,523,4820,13.070539419087138,Turkish <C@li.org>
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+rhythmbox,1244,0,4,327,0,3,1079,1248,99.67948717948718,Turkish <gnome-turk@gnome.org>
+ristretto,305,0,1,123,0,1,298,306,99.67320261437908,Turkish
+rkward,1955,757,1789,412,135,186,1690,4501,43.434792268384804,<tr@li.org>
+rpm,2333,911,607,456,190,109,2059,3851,60.581667099454684,Turkish <tr@li.org>
+rsibreak,1150,123,31,144,14,5,861,1304,88.19018404907976,Turkish <yerellestirme@kde.org.tr>
+rt3,4361,0,3675,1153,0,765,3912,8036,54.268292682926834,rt-devel <rt-devel@lists.bestpractical.com>
+sabayon,743,0,0,171,0,0,689,743,100.0,Turkish <gnome-turk@gnome.org>
+seahorse,3042,0,0,655,0,0,2530,3042,100.0,Turkish <gnome-turk@gnome.org>
+seahorse-plugins,1163,0,0,248,0,0,1009,1163,100.0,Turkish <gnome-turk@gnome.org>
+sed,445,77,59,77,6,6,391,581,76.592082616179,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+sepostgresql,32633,4007,2217,4848,522,259,28368,38857,83.98229405255167,Turkish <ceviri@postgresql.org.tr>
+setroubleshoot,0,0,563,0,0,168,0,563,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7818,0,0,364,0,7818,0.0,LANGUAGE <LL@li.org>
+setuptool,47,8,0,13,1,0,46,55,85.45454545454545,Turkish <fedora-trans-tr@redhat.com>
+sh-elf-binutils,25895,4414,2188,4267,635,286,23696,32497,79.68427854878912,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+shadow-utils,1483,1063,675,252,97,63,1397,3221,46.04160198696057,Türkçe <tr@li.org>
+sharutils,652,369,27,107,38,5,614,1048,62.213740458015266,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+shotwell,2053,0,1654,500,0,226,1793,3707,55.38171027785271,Turkish <None>
+shutter,2399,0,591,541,0,57,1984,2990,80.23411371237458,Turkish <tr@li.org>
+simple-scan,651,0,0,118,0,0,585,651,100.0,Turkish <tr@li.org>
+sitecopy,916,667,717,169,86,137,808,2300,39.82608695652174,tr
+skanlite,142,2,29,51,1,4,126,173,82.08092485549133,Turkish <yerellestirme@kde.org.tr>
+skrooge,488,2868,3005,237,882,413,436,6361,7.671749724886025,Turkish <yerellestirme@kde.org.tr>
+slrn,4341,690,320,802,66,82,3770,5351,81.12502336011961,Turkish
+smb4k,482,1366,4732,199,193,333,479,6580,7.325227963525836,<tr@li.org>
+solfege,9814,0,0,1321,0,0,7875,9814,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+sonata,859,197,80,261,74,22,769,1136,75.61619718309859,Sonata-translations <sonata-translations@list.berlios.de>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,1024,0,0,198,0,0,881,1024,100.0,Turkish <gnome-turk@gnome.org>
+soundconverter,292,47,111,80,12,18,293,450,64.88888888888889,Turkish <tr@li.org>
+soundtracker,1593,28,27,456,5,8,1409,1648,96.6626213592233,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+specspo,6225,53401,245668,425,5932,10493,4521,305294,2.039018126789259,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+specto,617,18,40,149,6,12,566,675,91.4074074074074,Turkish <tr@li.org>
+speedcrunch,1,0,17,1,0,12,1,18,5.555555555555555,tr
+spu-binutils,25895,4414,2188,4267,635,286,23696,32497,79.68427854878912,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+squirrelmail,5949,51,0,1161,1,0,4986,6000,99.15,Turkish <squirrelmail-i18n@lists.sourceforge.net>
+sssd,0,0,10388,0,0,1039,0,10388,0.0,Turkish (http://www.transifex.net/projects/p/fedora/team/tr/)
+stardict,891,801,748,172,89,200,696,2440,36.51639344262295,Turkish
+stellarium,3129,0,233,1407,0,40,2949,3362,93.0696014277216,<tr@li.org>
+subtitleeditor,2419,0,878,664,0,176,2142,3297,73.36973005762815,Turkish <tr@li.org>
+sugar,549,0,0,172,0,0,512,549,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,42,0,15,23,0,7,42,57,73.68421052631578,LANGUAGE <LL@li.org>
+sugar-calculator,590,0,3,126,0,1,477,593,99.49409780775717,LANGUAGE <LL@li.org>
+sugar-chat,26,0,0,12,0,0,23,26,100.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-connect,1,0,30,1,0,7,1,31,3.225806451612903,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,100,0,0,22,0,0,74,100,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,50,0,0,25,0,0,52,50,100.0,LANGUAGE <LL@li.org>
+sugar-moon,90,0,0,31,0,0,121,90,100.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,52,0,0,16,0,0,44,52,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,85,0,0,30,0,0,82,85,100.0,LANGUAGE <LL@li.org>
+sugar-read,26,0,0,17,0,0,23,26,100.0,LANGUAGE <LL@li.org>
+sugar-surf,52,0,0,30,0,0,51,52,100.0,LANGUAGE <LL@li.org>
+sugar-tamtam,2077,0,0,697,0,0,1834,2077,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,0,4,0,0,5,6,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,59,0,0,28,0,0,55,59,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,55,17,1136,38,12,305,55,1208,4.5529801324503305,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,69,0,0,42,0,0,68,69,100.0,LANGUAGE <LL@li.org>
+supertux,136,0,201,61,0,26,145,337,40.35608308605341,<tr@li.org>
+switchdesk,137,0,0,19,0,0,104,137,100.0,<en@li.org>
+sylpheed,6883,2,19,1719,1,3,6152,6904,99.69582850521437,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+synapse,51,0,484,37,0,109,53,535,9.532710280373832,Turkish <tr@li.org>
+synaptic,3093,127,11,644,15,3,2654,3231,95.7288765088208,Turkish <debian-l10n-turkish@lists.debian.org>
+syncevolution,89,126,900,38,41,81,96,1115,7.982062780269058,MeeGo Türkçe
+system-config-bind,18,482,8919,8,146,910,28,9419,0.19110308949994692,Turkish <fedora-trans-tr@redhat.com>
+system-config-boot,41,2,76,9,1,13,34,119,34.45378151260504,Turkish <fedora-trans-tr@redhat.com>
+system-config-date,1069,0,731,659,0,156,1017,1800,59.38888888888889,Turkish (http://www.transifex.net/projects/p/fedora/team/tr/)
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,61,213,2533,17,66,247,70,2807,2.173138582116138,Turkish <fedora-trans-tr@redhat.com>
+system-config-httpd,858,0,0,223,0,0,750,858,100.0,Turkish <fedora-trans-tr@redhat.com>
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,169,18,0,71,10,0,160,187,90.37433155080214,Turkish <fedora-trans-tr@redhat.com>
+system-config-kickstart,754,180,170,187,39,19,669,1104,68.29710144927536,Turkish <fedora-trans-tr@redhat.com>
+system-config-language,36,9,278,7,2,47,28,323,11.145510835913312,Turkish <fedora-trans-tr@redhat.com>
+system-config-lvm,481,310,1455,119,50,175,397,2246,21.415850400712376,Turkish <hasanalpinan@gmail.com>
+system-config-netboot,741,219,143,122,14,29,624,1103,67.1804170444243,Turkish <fedora-trans-tr@redhat.com>
+system-config-network,2522,133,367,666,13,39,2218,3022,83.45466578424883,<en@li.org>
+system-config-nfs,62,77,193,18,25,29,56,332,18.67469879518072,Turkish <fedora-trans-tr@redhat.com>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,2199,7,914,690,1,66,2108,3120,70.48076923076924,Turkish <None>
+system-config-rootpassword,15,26,75,3,5,11,11,116,12.931034482758621,Turkish <fedora-trans-tr@redhat.com>
+system-config-samba,203,0,330,66,0,63,186,533,38.08630393996248,Turkish (http://www.transifex.net/projects/p/fedora/team/tr/)
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,24,0,380,10,0,47,24,404,5.9405940594059405,<tr@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,806,0,650,138,0,36,683,1456,55.35714285714286,Turkish (http://www.transifex.net/projects/p/fedora/team/tr/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,138,0,0,20,0,0,120,138,100.0,Turkish <fedora-trans-list@redhat.com>
+tar,2743,265,298,453,46,46,2460,3306,82.97035692679977,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+tasks,26,31,244,17,17,66,24,301,8.637873754152823,Turkce <>
+tasque,142,0,0,70,0,0,139,142,100.0,
+tellico,4584,495,542,1025,60,74,3963,5621,81.55132538694183,Turkish <yerellestirme@kde.org.tr>
+terminator,332,0,7,117,0,2,311,339,97.93510324483776,Turkish <tr@li.org>
+texlive,4382,0,0,564,0,0,3752,4382,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+tilda,0,0,396,0,0,107,0,396,0.0,Turkish <tr@li.org>
+tin,235,7829,1634,69,1069,151,240,9698,2.423180037121056,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+tomboy,2600,0,0,404,0,0,2210,2600,100.0,Turkish <gnome-turk@gnome.org>
+tortoisehg,393,0,5908,135,0,1379,393,6301,6.2371052213934295,Turkish <tr@li.org>
+totem,2699,0,0,602,0,0,2301,2699,100.0,Turkish <gnome-turk@gnome.org>
+totem-pl-parser,28,0,0,7,0,0,24,28,100.0,Turkish <gnome-turk@gnome.org>
+transmission,1366,0,142,406,0,41,1419,1508,90.58355437665783,LANGUAGE <LL@li.org>
+tumbler,116,82,82,20,12,13,86,280,41.42857142857143,Xfce-TR <xfce-tr@googlegroups.com>
+turba,1532,0,0,366,0,0,1293,1532,100.0,i18n@lists.horde.org
+tuxmath,540,62,449,132,9,58,459,1051,51.379638439581356,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+tuxpaint,482,557,208,130,64,58,428,1247,38.65276663993585,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+tuxpaint-stamps,1114,393,1110,292,156,178,1054,2617,42.56782575468093,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+tuxtype2,71,0,9,32,0,8,68,80,88.75,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+uget,460,9,2,191,2,2,440,471,97.66454352441613,
+usermode,556,11,12,93,2,2,429,579,96.02763385146805,Turkish <fedora-trans-tr@redhat.com>
+util-linux-ng,9306,2881,2570,1653,401,225,8584,14757,63.06159788574913,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+vdr,793,0,14,322,0,6,708,807,98.26517967781908,Turkish
+vdr-epgsearch,0,0,2408,0,0,383,0,2408,0.0,<vdr@linuxtv.org>
+vidalia,3528,0,6847,942,0,360,2724,10375,34.00481927710843,translations@vidalia-project.net
+vinagre,1164,0,0,209,0,0,951,1164,100.0,Turkish <gnome-turk@gnome.org>
+vino,1215,0,0,136,0,0,931,1215,100.0,Turkish <gnome-turk@gnome.org>
+virtaal,1116,0,0,290,0,0,960,1116,100.0,Mozilla Türkiye
+vte,108,0,0,19,0,0,95,108,100.0,Turkish <gnome-turk@gnome.org>
+wallpapoz,395,0,0,101,0,0,359,395,100.0,Hedef Türkçe <iletisim@hedefturkce.com>
+warzone2100,12763,19,0,2729,5,0,11748,12782,99.8513534658113,Turkey <warzone-dev@gna.org>
+wdiff,140,672,131,25,92,24,139,943,14.846235418875928,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+wesnoth,200900,17657,8351,12971,761,430,137604,226908,88.53808592028487,Turkish <ceviri@belgeler.gen.tr>
+wget,1388,483,389,260,78,56,1298,2260,61.41592920353982,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+whaawmp,33,0,724,16,0,135,37,757,4.359313077939234,Turkish <tr@li.org>
+widelands,1135,0,11804,242,0,1051,911,12939,8.771929824561402,Turkish <tr@li.org>
+wine,5402,1525,4859,934,465,1156,4446,11786,45.83404038689971,none
+workrave,993,156,78,177,44,20,862,1227,80.92909535452323,Turkish <gnome-turk@gnome.org>
+wormux,245,830,841,88,97,142,207,1916,12.78705636743215,Turkish <yerellestirme@kde.org.tr>
+wput,1060,3,0,134,1,0,933,1063,99.71777986829727,Turkey <tr@li.org>
+wxGTK,6679,0,0,1523,0,0,5506,6679,100.0,Hakki Dogusan <dogusanh@tr.net>
+wxPython,8466,10,478,2110,6,99,7153,8954,94.5499218226491,Hakki Dogusan <dogusanh@tr.net>
+xarchiver,1131,0,0,277,0,0,933,1131,100.0,Turkish <turkce@pardus.org.tr>
+xcdroast,3600,362,4082,506,61,281,2841,8044,44.75385380407758,Turkish
+xchat-gnome,622,0,3442,183,0,863,599,4064,15.30511811023622,Turkish <gnome-turk@gnome.org>
+xdg-user-dirs,26,2,0,26,2,0,26,28,92.85714285714286,Turkish <gnome-turk@gnome.org>
+xfburn,1228,13,59,264,6,13,986,1300,94.46153846153847,Xfce-TR <xfce-tr@googlegroups.com>
+xfce-utils,131,0,0,36,0,0,113,131,100.0,Turkish <turkce@pardus.org.tr>
+xfce4-appfinder,84,0,0,19,0,0,69,84,100.0,Turkish <turkce@pardus.org.tr>
+xfce4-clipman-plugin,223,2,9,40,1,1,168,234,95.2991452991453,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-cpugraph-plugin,45,0,26,25,0,10,46,71,63.38028169014085,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-datetime-plugin,53,0,0,19,0,0,52,53,100.0,LANGUAGE <LL@li.org>
+xfce4-dict,340,57,105,77,11,21,297,502,67.72908366533864,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Turkish <>
+xfce4-fsguard-plugin,64,0,0,19,0,0,62,64,100.0,Türkçe <tr@li.org>
+xfce4-icon-theme,8,0,0,2,0,0,8,8,100.0,Turkish <turkce@pardus.org.tr>
+xfce4-mixer,181,0,0,37,0,0,157,181,100.0,Türkçe <turkce@pardus.org.tr>
+xfce4-mpc-plugin,46,2,32,17,1,6,46,80,57.49999999999999,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-netload-plugin,68,0,0,21,0,0,70,68,100.0,Türkçe <tr@li.org>
+xfce4-notes-plugin,109,1,1,45,1,1,98,111,98.1981981981982,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-notifyd,83,0,0,22,0,0,72,83,100.0,Turkish <turkce@pardus.org.tr>
+xfce4-panel,540,0,0,167,0,0,488,540,100.0,Turkish <turkce@pardus.org.tr>
+xfce4-places-plugin,43,0,0,19,0,0,44,43,100.0,
+xfce4-power-manager,671,23,0,154,1,0,616,694,96.68587896253602,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-radio-plugin,56,0,0,23,0,0,60,56,100.0,LANGUAGE <LL@li.org>
+xfce4-remmina-plugin,24,0,0,8,0,0,24,24,100.0,Turkish <tr@li.org>
+xfce4-screenshooter,350,50,48,63,7,5,272,448,78.125,Turkish <turkce@pardus.org.tr>
+xfce4-sensors-plugin,316,21,9,63,3,5,268,346,91.32947976878613,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-session,990,0,0,199,0,0,767,990,100.0,Turkish <turkce@pardus.org.tr>
+xfce4-settings,1138,0,0,247,0,0,937,1138,100.0,Turkish <turkce@pardus.org.tr>
+xfce4-systemload-plugin,51,4,8,16,1,1,47,63,80.95238095238095,Türkçe <tr@li.org>
+xfce4-taskmanager,156,0,0,58,0,0,147,156,100.0,"Turkish <kde-i18n-doc@kde.org,xfce-i18n@xfce.org>"
+xfce4-timer-plugin,94,0,0,32,0,0,87,94,100.0,Turkish <turkce@pardus.org.tr>
+xfce4-wavelan-plugin,49,0,0,11,0,0,40,49,100.0,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-weather-plugin,511,31,13,240,10,7,501,555,92.07207207207207,<xfce-tr@googlegroups.com>
+xfce4-xfswitch-plugin,20,0,0,3,0,0,18,20,100.0,Xfce-TR <xfce-tr@googlegroups.com>
+xfce4-xkb-plugin,61,0,0,17,0,0,62,61,100.0,Xfce-TR <xfce-tr@googlegroups.com>
+xfconf,421,0,0,61,0,0,349,421,100.0,Turkish <yerellestirme@kde.org.tr>
+xfdesktop,1004,0,0,268,0,0,851,1004,100.0,Turkish <turkce@pardus.org.tr>
+xfmpc,116,9,5,50,5,1,122,130,89.23076923076924,Turkish <turkce@pardus.org.tr>
+xfprint,322,0,0,113,0,0,278,322,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+xfwm4,797,0,0,224,0,0,766,797,100.0,Turkish <turkce@pardus.org.tr>
+xine-lib,10627,819,292,877,35,26,9043,11738,90.53501448287614,Türkçe <yerellestirme@kde.org.tr>
+xiphos,3664,0,151,823,0,3,3329,3815,96.04193971166448,Turkish <support@crosswire.org>
+xkeyboard-config,1952,0,0,644,0,0,1995,1952,100.0,Turkish <gnu-tr-u12a@lists.sourceforge.net>
+xmms,2790,294,359,931,55,59,2707,3443,81.03398199244845,Turkish <tr@li.org>
+xmoto,3066,55,470,687,7,69,2638,3591,85.38011695906432,Turkish <yerellestirme@kde.org.tr>
+xpad,129,0,234,20,0,57,98,363,35.53719008264463,Turkish <tr@li.org>
+xsane,2325,788,111,576,121,31,2087,3224,72.11538461538461,Turkish <kde-i18n-tr@kde.org>
+yakuake,1212,21,206,197,2,13,930,1439,84.22515635858235,Turkish <kde-i18n-doc@kde.org>
+yelp,1094,0,0,357,0,0,971,1094,100.0,Turkish <gnome-turk@gnome.org>
+yelp-xsl,249,0,0,99,0,0,257,249,100.0,Turkish <gnome-turk@gnome.org>
+yum-rhn-plugin,49,6,52,7,1,6,38,107,45.794392523364486,<tr@li.org>
+zaz,229,0,0,107,0,0,235,229,100.0,Turkish <kde-i18n-doc@kde.org>
+zenity,582,0,0,135,0,0,506,582,100.0,Turkish <gnome-turk@gnome.org>

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-applets,3858,0,0,976,0,0,4894,3858,100.0,Spanish <traductores@es.gnome.org>
+poedit,564,96,494,127,40,105,629,1154,48.87348353552859,Español <eratos2000@gmail.com>

@@ -1,0 +1,599 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+DivFix++,422,0,0,81,0,0,423,422,100.0,DirektX <DirektX at freemail dot hu>
+Django,3423,0,0,1001,0,0,3131,3423,100.0,Hungarian <hu@li.org>
+GConf2,3986,0,0,476,0,0,3933,3986,100.0,Hungarian <gnome@fsf.hu>
+Miro,647,0,2014,226,0,360,593,2661,24.3141676061631,Hungarian <hu@li.org>
+NetworkManager,1677,0,0,375,0,0,1620,1677,100.0,Hungarian <gnome@fsf.hu>
+NetworkManager-openconnect,52,0,0,19,0,0,50,52,100.0,Hungarian <gnome@fsf.hu>
+NetworkManager-openvpn,182,0,0,57,0,0,164,182,100.0,Hungarian <gnome@fsf.hu>
+NetworkManager-pptp,115,0,0,42,0,0,109,115,100.0,Hungarian <gnome@fsf.hu>
+NetworkManager-vpnc,139,0,0,36,0,0,125,139,100.0,Hungarian <gnome@fsf.hu>
+PackageKit,213,296,346,37,41,69,179,855,24.912280701754387,Hungarian <fedora-trans-hu@redhat.com>
+PolicyKit-gnome,464,0,313,104,0,50,394,777,59.716859716859716,Hungarian <hu@li.org>
+Terminal,1450,0,0,252,0,0,1064,1450,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+Thunar,3749,0,53,669,0,4,2665,3802,98.60599684376645,Hungarian <translation-team-hu@lists.sourceforge.net>
+WindowMaker,3990,0,1,725,0,1,3863,3991,99.97494362315209,Hungarian
+alacarte,42,0,0,16,0,0,35,42,100.0,Hungarian <gnome@gnome.hu>
+alleyoop,348,0,0,89,0,0,320,348,100.0,Hungarian <gnome@gnome.hu>
+amarok,7292,1618,520,1495,261,133,6851,9430,77.32767762460233,Hungarian
+anaconda,10170,0,0,1250,0,0,8547,10170,100.0,Hungarian <Hungarian <fedora-trans-hu@redhat.com>>
+anjuta,7328,0,0,1999,0,0,6624,7328,100.0,Hungarian <gnome@fsf.hu>
+aria2,143,0,3854,27,0,300,142,3997,3.5776832624468353,Hungarian <hu@li.org>
+arm-gp2x-linux-glibc,5832,0,0,1172,0,0,6132,5832,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+asunder,420,0,0,78,0,0,375,420,100.0,Nedudu Team <polesz@nedudu.hu>
+at-spi,20,0,0,4,0,0,19,20,100.0,Hungarian <gnome@fsf.hu>
+atk,370,0,0,123,0,0,266,370,100.0,Hungarian <gnome@fsf.hu>
+atomix,157,0,0,63,0,0,156,157,100.0,Hungarian <gnome@gnome.hu>
+audacious,641,723,1014,198,237,250,622,2378,26.955424726661057,Hungarian <dvornik@gnome.hu>
+audacity,5445,10,5178,1466,3,600,5267,10633,51.20850183391329,HU <hu@li.org>
+authconfig,1280,40,31,236,5,2,1108,1351,94.74463360473723,Hungarian <fedora-trans-hu@redhat.com>
+avant-window-navigator,172,0,421,64,0,76,175,593,29.00505902192243,Hungarian <hu@li.org>
+backintime,427,0,14,113,0,6,422,441,96.82539682539682,Hungarian <hu@li.org>
+bakery,72,0,0,20,0,0,74,72,100.0,Hungarian <gnome@gnome.hu>
+balsa,5086,450,111,1241,90,17,4761,5647,90.06552151584913,Hungarian <gnome@gnome.hu>
+banshee,3755,0,0,997,0,0,3330,3755,100.0,Hungarian <gnome@fsf.hu>
+bauble,146,0,1893,105,0,276,135,2039,7.160372731731241,Hungarian <hu@li.org>
+beagle,1238,0,0,304,0,0,1109,1238,100.0,Hungarian <gnome@fsf.hu>
+bibletime,8892,147,97,483,8,3,7717,9136,97.3292469352014,Hungarian <hu@li.org>
+bibus,1883,0,0,553,0,0,1750,1883,100.0,Farkas Gergely <psziroot@yahoo.co.uk>
+bittorrent,3906,0,0,634,0,0,3851,3906,100.0,Hungarian <bugs (at) bittorrent (dot) com>
+blam,330,0,0,93,0,0,257,330,100.0,Hungarian <gnome@gnome.hu>
+bleachbit,589,0,52,127,0,7,544,641,91.88767550702028,Hungarian <hu@li.org>
+bluefish,2221,569,92,938,94,24,2247,2882,77.06453851492019,madgyar <hu@li.org>
+blueman,365,0,669,143,0,144,400,1034,35.29980657640232,Hungarian <hu@li.org>
+bluez-gnome,376,0,255,116,0,73,375,631,59.587955625990496,Hungarian <hu@li.org>
+bmpx,2001,34,16,472,12,6,1820,2051,97.56216479765968,HUNGARIAN <erdosib@gmail.com>
+boinc-client,2158,475,2999,491,76,545,2749,5632,38.31676136363637,BOINC Development Team <rwalton@ssl.berkeley.edu>
+brasero,5186,0,0,934,0,0,4365,5186,100.0,Hungarian <gnome@fsf.hu>
+bug-buddy,989,0,0,85,0,0,861,989,100.0,Hungarian <gnome@fsf.hu>
+bzr-gtk,4,0,1086,2,0,305,10,1090,0.3669724770642202,Hungarian <hu@li.org>
+ccsm,548,0,1,134,0,1,492,549,99.81785063752277,hungarian <hu@li.org>
+celestia,1878,31,62,785,17,21,1772,1971,95.28158295281582,Hungarian
+centerim,1946,487,323,584,121,88,1671,2756,70.60957910014514,hungarian <translation-team-hu@lists.sourceforge.net>
+cgit,2337,0,0,515,0,0,2377,2337,100.0,Hungarian
+cheese,527,0,0,99,0,0,463,527,100.0,Hungarian <gnome@fsf.hu>
+chkconfig,430,0,0,88,0,0,426,430,100.0,Hungarian <fedora-trans-hu@redhat.com>
+choqok,763,68,35,188,10,7,696,866,88.10623556581986,Magyar <kde-lista@sophia.jpte.hu>
+cinepaint,1469,1588,4348,608,661,666,1373,7405,19.83794733288319,Hungarian <hu@gnome.hu>
+claws-mail,14834,0,0,2991,0,0,12702,14834,100.0,<NONE>
+claws-mail-plugins,3176,29,5,628,3,1,2733,3210,98.94080996884736,<NONE>
+comix,1559,0,45,292,0,4,1459,1604,97.19451371571073,
+compat-wxGTK26,4837,306,191,1026,51,36,4999,5334,90.68241469816273,wxWidgets translators <wx-translators@wxwidgets.org>
+compiz,66,0,0,11,0,0,38,66,100.0,Hungarian <fedora-trans-hu@redhat.com>
+conduit,561,0,0,213,0,0,495,561,100.0,Hungarian <gnome@fsf.hu>
+contact-lookup-applet,259,0,0,55,0,0,235,259,100.0,Hungarian <gnome@gnome.hu>
+control-center,2777,0,0,723,0,0,2412,2777,100.0,Hungarian <gnome@fsf.hu>
+cowbell,0,39,607,0,31,92,0,646,0.0,Hungarian <gnome@gnome.hu>
+cpio,237,193,1483,46,31,208,258,1913,12.388917929952953,Hungarian <translation-team-hu@lists.sourceforge.net>
+cracklib,93,0,0,15,0,0,65,93,100.0,hungarian
+cycle,0,0,0,0,0,0,0,0,0.0,
+dasher,460,0,0,181,0,0,428,460,100.0,Hungarian <gnome@fsf.hu>
+dc3dd,375,279,278,48,18,22,398,932,40.236051502145926,Hungarian <translation-team-hu@lists.sourceforge.net>
+dcraw,517,0,0,107,0,0,500,517,100.0,
+deluge,1998,0,0,689,0,0,1877,1998,100.0,Hungarian <hu@li.org>
+deskbar-applet,1520,0,0,332,0,0,1378,1520,100.0,Hungarian <gnome@fsf.hu>
+devhelp,360,0,0,91,0,0,306,360,100.0,Hungarian <gnome@fsf.hu>
+dia,6220,0,0,2286,0,0,5805,6220,100.0,Hungarian <gnome@fsf.hu>
+dialog,13,1,11,13,1,9,13,25,52.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+drgeo,1960,25,0,458,3,0,1813,1985,98.74055415617129,Hungarian <gnome@gnome.hu>
+drupal-cck,5379,0,0,626,0,0,4820,5379,100.0,Drupal.hu Fordítói Csapat <forditas [at] drupal.hu>
+e16,1536,547,830,270,150,117,1161,2913,52.72914521112255,Hungarian <hu@li.org>
+easytag,4918,125,181,897,24,25,3997,5224,94.14241960183767,<hu@li.org>
+eboard,0,0,0,0,0,0,0,0,0.0,
+eel2,161,0,0,31,0,0,129,161,100.0,Hungarian <gnome@gnome.hu>
+ekiga,4204,0,0,648,0,0,3522,4204,100.0,Hungarian <gnome@fsf.hu>
+elinks,8105,1803,2172,1333,155,132,7164,12080,67.09437086092716,<en@li.org>
+emerald,774,0,0,215,0,0,740,774,100.0,Gentoo-hu Team <gentoo-doc-hu@gentoo.org>
+empathy,1415,0,0,387,0,0,1161,1415,100.0,Hungarian <gnome@fsf.hu>
+enigma,5055,38,202,614,7,36,4432,5295,95.46742209631728,Hungarian
+enlightenment,5869,59,54,1302,30,14,5201,5982,98.11099966566366,hungarian <mypclinuxos.com>
+entertainer,0,0,741,0,0,186,0,741,0.0,Hungarian <hu@li.org>
+eog,1223,0,0,282,0,0,1041,1223,100.0,Hungarian <gnome@fsf.hu>
+epiphany,4240,0,0,917,0,0,3816,4240,100.0,Hungarian <gnome@fsf.hu>
+epiphany-extensions,1046,0,0,276,0,0,954,1046,100.0,Hungarian <gnome@fsf.hu>
+evince,1048,0,0,291,0,0,964,1048,100.0,Hungarian <gnome@fsf.hu>
+evolution,21873,0,0,5015,0,0,19017,21873,100.0,Hungarian <gnome@fsf.hu>
+evolution-data-server,5111,0,0,1063,0,0,5161,5111,100.0,Hungarian <gnome@fsf.hu>
+evolution-exchange,1347,0,0,197,0,0,1278,1347,100.0,Hungarian <gnome@fsf.hu>
+evolution-webcal,184,0,0,30,0,0,168,184,100.0,Hungarian <gnome@fsf.hu>
+exaile,2652,0,11,705,0,5,2520,2663,99.58693203154337,Hungarian <hu@li.org>
+exo,1457,0,19,285,0,3,1167,1476,98.71273712737127,Hungarian
+expendable,125,8,93,68,3,21,119,226,55.309734513274336,Hungarian Fedora Translation Group <fedora-trans-hu@redhat.com>
+f-spot,3140,0,0,748,0,0,2879,3140,100.0,Hungarian <gnome at gnome dot hu>
+file-roller,1205,0,0,270,0,0,1052,1205,100.0,Hungarian <gnome@fsf.hu>
+filezilla,6471,184,205,1089,41,33,6603,6860,94.32944606413994,
+findutils,1583,292,207,154,26,36,1533,2082,76.03266090297791,Hungarian <translation-team-hu@lists.sourceforge.net>
+firestarter,1904,0,0,374,0,0,1700,1904,100.0,Hungarian <gnome@gnome.hu>
+firstboot,587,0,0,51,0,0,496,587,100.0,Hungarian <fedora-trans-hu@redhat.com>
+fpm2,746,0,0,188,0,0,680,746,100.0,Nedudu Team <polesz@nedudu.hu>
+freeciv,11482,6977,20702,2055,1253,1022,10587,39161,29.31998672148311,Hungarian <hu@li.org>
+fslint,250,0,139,102,0,31,241,389,64.26735218508998,Hungarian <hu@li.org>
+fuse-encfs,963,173,175,115,7,16,920,1311,73.4553775743707,<hu@li.org>
+galeon,5945,50,1,1411,10,1,5345,5996,99.14943295530354,Hungarian <gnome@gnome.hu>
+gallery2,10837,520,6433,1746,81,716,9486,17790,60.91624508150646,<en@li.org>
+gambas,1885,0,2,584,0,1,1810,1887,99.89401165871755,LANGUAGE <LL@li.org>
+gambas2,957,0,1325,371,0,415,960,2282,41.93689745836985,LANGUAGE <LL@li.org>
+ganyremote,488,0,4,137,0,3,458,492,99.1869918699187,Hungarian
+gcalctool,1128,0,0,399,0,0,1044,1128,100.0,Hungarian <gnome@fsf.hu>
+gcombust,3941,2,66,455,1,4,3972,4009,98.30381641307059,Hungarian <hu@li.org>
+gcompris,10596,0,0,1223,0,0,8870,10596,100.0,Hungarian <gnome at fsf dot hu>
+gconf-editor,329,0,0,97,0,0,306,329,100.0,Hungarian <gnome@fsf.hu>
+gdeskcal,19,0,55,19,0,13,19,74,25.675675675675674,LANGUAGE <LL@li.org>
+gdesklets,1183,172,25,171,5,5,1068,1380,85.72463768115942,Hungarian <gnome@gnome.hu>
+gdm,1321,0,2,231,0,1,1214,1323,99.848828420257,Hungarian <gnome@fsf.hu>
+geany,5182,0,0,1099,0,0,4666,5182,100.0,Hungarian
+gedit,12768,0,0,1789,0,0,10865,12768,100.0,Hungarian <gnome@fsf.hu>
+gedit-plugins,198,0,0,54,0,0,176,198,100.0,Hungarian <gnome@fsf.hu>
+geeqie,729,1212,1673,301,509,436,714,3614,20.171555063641396,Hungarian <hu@li.org>
+gettext,366,0,0,71,0,0,366,366,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+gftp,3227,68,77,609,16,7,2825,3372,95.69988137603796,Hungarian <gnome@gnome.hu>
+ggz-client-libs,72,0,0,16,0,0,79,72,100.0,Hungarian <gnome@gnome.hu>
+ggz-gtk-client,960,0,0,286,0,0,831,960,100.0,Hungarian <gnome@gnome.hu>
+ghex,970,0,0,276,0,0,869,970,100.0,Hungarian <gnome@gnome.hu>
+gimmie,631,0,15,160,0,1,555,646,97.67801857585138,Hungarian <hu@li.org>
+gimp,25990,0,0,6738,0,0,23054,25990,100.0,Hungarian <gnome@fsf.hu>
+gimp-lqr-plugin,57,10,434,21,4,54,45,501,11.377245508982035,English <en@li.org>
+git,1842,0,0,391,0,0,1876,1842,100.0,Hungarian
+git-cola,1842,0,0,391,0,0,1876,1842,100.0,Hungarian
+glade2,5899,0,11,1310,0,1,4848,5910,99.81387478849408,Hungarian <gnome@gnome.hu>
+glade3,3207,0,0,871,0,0,2760,3207,100.0,Hungarian <gnome@fsf.hu>
+glib2,2197,0,0,348,0,0,2322,2197,100.0,Hungarian <gnome@fsf.hu>
+glibc,5833,0,0,1172,0,0,6132,5833,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+glom,1631,0,0,380,0,0,1435,1631,100.0,Hungarian <gnome@gnome.hu>
+glunarclock,138,17,76,48,4,19,131,231,59.74025974025974,Hungarian <translation-team-hu@lists.sourceforge.net>
+gmpc,867,32,44,313,7,7,857,943,91.9406150583245,Hungarian <hu@li.org>
+gmusicbrowser,1190,0,1677,451,0,502,1147,2867,41.50680153470527,Hungarian <translation-team-hu@lists.sourceforge.net>
+gnochm,578,0,3,121,0,1,520,581,99.48364888123923,Hungarian <translation-team-hu@lists.sourceforge.net>
+gnome-applet-netspeed,150,0,0,54,0,0,146,150,100.0,Hungarian <gnome@fsf.hu>
+gnome-applet-sensors,222,42,34,74,6,8,180,298,74.49664429530202,
+gnome-applet-timer,283,0,0,71,0,0,243,283,100.0,Hungarian <hu@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,17,29,75.86206896551724,Hungarian
+gnome-applets,4873,0,1,916,0,1,4324,4874,99.97948297086582,Hungarian <gnome@fsf.hu>
+gnome-backgrounds,23,0,0,17,0,0,20,23,100.0,Hungarian <gnome@fsf.hu>
+gnome-bluetooth,237,0,0,34,0,0,225,237,100.0,Hungarian <gnome@gnome.hu>
+gnome-build,577,0,0,150,0,0,581,577,100.0,Hungarian <gnome@fsf.hu>
+gnome-commander,2022,587,5738,760,192,635,1894,8347,24.22427219360249,Hungarian <gnome@gnome.hu>
+gnome-desktop,9861,0,0,313,0,0,8425,9861,100.0,Hungarian <gnome@fsf.hu>
+gnome-do,100,11,122,34,1,31,97,233,42.91845493562232,Hungarian <hu@li.org>
+gnome-doc-utils,238,0,0,92,0,0,229,238,100.0,Hungarian <gnome@fsf.hu>
+gnome-games,7576,0,0,1786,0,0,6539,7576,100.0,Hungarian <gnome@fsf.hu>
+gnome-hearts,340,0,69,90,0,16,232,409,83.12958435207824,Hungarian <hu@li.org>
+gnome-icon-theme,20,0,0,16,0,0,19,20,100.0,Hungarian <gnome@fsf.hu>
+gnome-keyring,1717,0,0,211,0,0,1430,1717,100.0,Hungarian <gnome@fsf.hu>
+gnome-keyring-manager,284,0,0,87,0,0,260,284,100.0,Hungarian <gnome@gnome.hu>
+gnome-libs,988,40,57,381,4,10,933,1085,91.05990783410138,Hungarian <hu@gnome.hu>
+gnome-mag,298,0,0,42,0,0,260,298,100.0,Hungarian <gnome@fsf.hu>
+gnome-media,1938,0,0,525,0,0,1694,1938,100.0,Hungarian <gnome@fsf.hu>
+gnome-menus,157,0,0,56,0,0,141,157,100.0,Hungarian <gnome@fsf.hu>
+gnome-mime-data,887,0,0,362,0,0,558,887,100.0,Hungarian <gnome@gnome.hu>
+gnome-mount,792,0,0,172,0,0,678,792,100.0,Hungarian <gnome@fsf.hu>
+gnome-netstatus,418,0,0,106,0,0,396,418,100.0,Hungarian <gnome@fsf.hu>
+gnome-nettool,573,0,0,197,0,0,564,573,100.0,Hungarian <gnome@fsf.hu>
+gnome-packagekit,4080,0,0,770,0,0,3309,4080,100.0,Hungarian <gnome@fsf.hu>
+gnome-panel,4597,0,0,630,0,0,4084,4597,100.0,Hungarian <gnome@fsf.hu>
+gnome-phone-manager,508,0,0,89,0,0,421,508,100.0,Hungarian <gnome@gnome.hu>
+gnome-pilot,1713,0,0,334,0,0,1704,1713,100.0,Hungarian <gnome@gnome.hu>
+gnome-pilot-conduits,209,0,0,50,0,0,207,209,100.0,Hungarian <gnome@gnome.hu>
+gnome-power-manager,4134,0,438,534,0,7,3557,4572,90.41994750656168,
+gnome-rdp,181,13,107,70,4,15,165,301,60.13289036544851,Hungarian
+gnome-schedule,504,349,303,122,58,31,453,1156,43.59861591695502,Hungarian <gnome@gnome.hu>
+gnome-screensaver,966,0,0,154,0,0,833,966,100.0,Hungarian <gnome@fsf.hu>
+gnome-session,714,0,0,114,0,0,593,714,100.0,Hungarian <gnome@fsf.hu>
+gnome-settings-daemon,1080,0,1,190,0,1,871,1081,99.90749306197965,Hungarian <gnome@fsf.hu>
+gnome-system-monitor,913,0,0,238,0,0,854,913,100.0,Hungarian <gnome@fsf.hu>
+gnome-terminal,3377,0,0,381,0,0,2646,3377,100.0,Hungarian <gnome@fsf.hu>
+gnome-themes,96,0,0,28,0,0,103,96,100.0,Hungarian <gnome@fsf.hu>
+gnome-user-docs,38284,0,20464,2873,0,1241,31886,58748,65.16647375229795,Hungarian <gnome@fsf.hu>
+gnome-user-share,257,0,0,39,0,0,239,257,100.0,Hungarian <gnome@fsf.hu>
+gnome-utils,4174,0,0,739,0,0,3605,4174,100.0,Hungarian <gnome@fsf.hu>
+gnome-vfs2,1508,0,0,301,0,0,1386,1508,100.0,Hungarian <gnome@fsf.hu>
+gnome-volume-manager,1221,0,0,204,0,0,994,1221,100.0,
+gnomebaker,630,0,556,176,0,115,588,1186,53.119730185497474,Hungarian <gnome@gnome.hu>
+gnomeradio,401,0,0,90,0,0,377,401,100.0,Hungarian <gnome@gnome.hu>
+gnote,1914,0,0,271,0,0,1637,1914,100.0,Hungarian <gnome@fsf.hu>
+gnotime,268,434,1306,112,142,175,259,2008,13.346613545816732,Hungarian <hu@gnome.hu>
+gnubiff,908,0,273,207,0,15,799,1181,76.8839966130398,Hungarian <hu@li.org>
+gnucash,20483,851,3185,3636,28,180,15967,24519,83.53929605611974,Hungarian
+gnue-common,2108,6,18,270,1,2,1958,2132,98.87429643527204,
+gnumeric,9096,3636,33642,1864,745,1145,8163,46374,19.614439125371977,Hungarian <gnome@gnome.hu>
+gnupg,4467,2791,1137,640,455,171,3997,8395,53.21024419297201,Hungarian <translation-team-hu@lists.sourceforge.net>
+gnupg2,3292,4088,2762,543,727,416,3015,10142,32.45908104910274,Hungarian <translation-team-hu@lists.sourceforge.net>
+goffice,516,1107,2367,268,506,591,478,3990,12.93233082706767,Hungarian <hu@li.org>
+goffice04,516,1107,2367,268,506,591,478,3990,12.93233082706767,Hungarian <hu@li.org>
+gok,1950,0,0,440,0,0,1730,1950,100.0,Hungarian <gnome@fsf.hu>
+gossip,2344,0,1,483,0,1,1877,2345,99.95735607675907,Hungarian <gnome@gnome.hu>
+gourmet,3142,28,356,705,12,74,2659,3526,89.10947249007374,Hungarian <hu@li.org>
+gparted,1470,0,0,310,0,0,1293,1470,100.0,Hungarian <gnome at gnome dot hu>
+gphoto2,751,260,381,172,36,76,694,1392,53.95114942528736,Hungarian <translation-team-hu@lists.sourceforge.net>
+gpicview,219,0,0,44,0,0,182,219,100.0,Hungarian <debian-l10n-hungarian@lists.debian.org>
+gpsbabel,1829,0,1598,422,0,355,1561,3427,53.3702947184126,Sprok Bence <sprok.bence@gmail.com>
+gpsdrive,751,286,1340,152,64,193,682,2377,31.594446781657552,Hungarian <translation-team-hu@lists.sourceforge.net>
+gqview,1015,426,280,374,187,108,1002,1721,58.9773387565369,Hungarian <hu@li.org>
+gramps,12142,6556,4893,2235,1404,541,10280,23591,51.468780467127296,magyar <hu@li.org>
+gscan2pdf,228,0,1087,152,0,258,223,1315,17.338403041825096,Hungarian <hu@li.org>
+gshutdown,384,103,5,85,12,4,336,492,78.04878048780488,
+gstreamer,1360,2,0,266,1,0,1268,1362,99.85315712187959,Hungarian <translation-team-hu@lists.sourceforge.net>
+gstreamer-plugins-base,588,8,11,124,2,2,538,607,96.86985172981878,Hungarian <translation-team-hu@lists.sourceforge.net>
+gstreamer-plugins-good,482,22,44,79,3,3,462,548,87.95620437956204,Hungarian <translation-team-hu@lists.sourceforge.net>
+gsynaptics,65,0,0,26,0,0,59,65,100.0,Hungarian <hu@li.org>
+gthumb,3110,3,0,919,1,0,2830,3113,99.90362993896564,Hungarian <gnome@gnome.hu>
+gtk+,202,0,0,105,0,0,188,202,100.0,Hungarian <hu@gnome.hu>
+gtk-gnutella,2937,5091,4225,592,740,743,2263,12253,23.96964008814168,Hungarian <translation-team-hu@lists.sourceforge.net>
+gtk2,12755,5,0,2562,1,0,10653,12760,99.96081504702194,Hungarian <gnome@fsf.hu>
+gtk2-engines,99,0,0,45,0,0,90,99,100.0,Hungarian <gnome@fsf.hu>
+gtkhtml3,1233,0,0,548,0,0,1120,1233,100.0,Hungarian <gnome@fsf.hu>
+gtklp,576,5,10,203,3,5,529,591,97.46192893401016,hu <hu@li.org>
+gtksourceview,891,0,0,366,0,0,771,891,100.0,Hungarian <gnome@gnome.hu>
+gtksourceview2,1018,0,0,388,0,0,865,1018,100.0,Hungarian <gnome@fsf.hu>
+gtkspell,11,0,0,5,0,0,10,11,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+gtkterm,592,0,0,130,0,0,537,592,100.0,hu <hu@li.org>
+gtranslator,1432,0,0,372,0,0,1374,1432,100.0,Hungarian <gnome@gnome.hu>
+gucharmap,803,0,0,298,0,0,758,803,100.0,Hungarian <gnome@fsf.hu>
+gutenprint,5737,1261,1808,1733,416,201,5398,8806,65.14876220758575,Hungarian <translation-team-hu@lists.sourceforge.net>
+gvfs,1245,0,0,312,0,0,1277,1245,100.0,Hungarian <gnome@fsf.hu>
+gwget,522,0,0,175,0,0,508,522,100.0,Hungarian <gnome@gnome.hu>
+hamster-applet,206,0,0,88,0,0,191,206,100.0,Hungarian <gnome@fsf.hu>
+hello,95,25,54,17,3,7,110,174,54.59770114942529,Hungarian <translation-team-hu@lists.sourceforge.net>
+homebank,1176,0,189,440,0,6,973,1365,86.15384615384616,Hungarian <hu@li.org>
+horde,7492,0,15,1960,0,12,7566,7507,99.8001864926069,Hungarian <i18n@lists.horde.org>
+hugin,4718,0,0,907,0,0,4359,4718,100.0,Balló György <ballogy@freestart.hu>
+hunspell,505,0,0,69,0,0,478,505,100.0,Hungarian <openscope.org>
+hwbrowser,116,0,0,51,0,0,91,116,100.0,
+ibus,253,0,19,55,0,1,223,272,93.01470588235294,Hungarian <fedora-trans-hu@redhat.com>
+icewm,781,258,337,236,6,5,804,1376,56.758720930232556,<hu@li.org>
+im-chooser,152,0,0,34,0,0,141,152,100.0,Hungarian <Hungarian <fedora-trans-hu@redhat.com>>
+imp,6173,0,0,1245,0,0,6239,6173,100.0,Hungarian <i18n@lists.horde.org>
+imsettings,0,30,819,0,6,133,0,849,0.0,Hungarian
+indent,224,45,15,50,8,2,258,284,78.87323943661971,Hungarian <translation-team-hu@lists.sourceforge.net>
+ingo,871,0,12,229,0,7,920,883,98.6409966024915,Hungarian <i18n@lists.horde.org>
+initscripts,3871,0,0,909,0,0,4068,3871,100.0,Hungarian <hu@li.org>
+inkscape,15449,1584,415,3305,198,43,14554,17448,88.5430994956442,
+iso-codes,3922,4748,10759,2460,3846,7158,3524,19429,20.186319419424574,Hungarian
+isomaster,672,0,0,106,0,0,616,672,100.0,András Horváth <han@log69.com>
+istanbul,350,0,0,45,0,0,279,350,100.0,Hungarian <gnome@gnome.hu>
+jmol,2063,54,44,734,21,12,1996,2161,95.4650624710782,Hungarian <Jmol-developers@lists.sf.net>
+jokosher,979,276,896,227,14,162,893,2151,45.51371455137145,Hungarian <hu@li.org>
+jwhois,401,11,28,65,2,4,414,440,91.13636363636364,Hungarian <translation-team-hu@lists.sourceforge.net>
+k3b,20614,7,0,2529,1,0,19199,20621,99.96605402259833,
+kBuild,204,136,165,38,29,14,214,505,40.396039603960396,Hungarian <translation-team-hu@lists.sourceforge.net>
+kaffeine,2354,0,0,658,0,0,2312,2354,100.0,Hungarian <hu@li.org>
+kanatest,401,5,0,210,2,0,373,406,98.76847290640394,<hu@li.org>
+kanyremote,467,0,5,129,0,4,435,472,98.9406779661017,Hungarian
+kchmviewer,150,18,268,27,9,34,123,436,34.403669724770644,<hu@li.org>
+kcoloredit,11,95,172,7,32,56,11,278,3.9568345323741005,Hungarian <kde-lista@sophia.jpte.hu>
+kdbg,409,31,426,149,12,29,386,866,47.22863741339492,Hungarian <kde-lista@sophia.jpte.hu>
+kdetv,2206,0,0,483,0,0,2031,2206,100.0,Hungarian
+kdiff3,1719,428,1263,329,102,192,1868,3410,50.410557184750736,Hungarian <kde-lista@sophia.jpte.hu>
+kdirstat,702,0,0,168,0,0,579,702,100.0,Hungarian <hu@li.org>
+kerry,323,50,113,94,16,24,311,486,66.46090534979425,Hungarian <en@li.org>
+keurocalc,207,66,18,94,13,9,206,291,71.1340206185567,Hungarian <kde-lista@sophia.jpte.hu>
+kexec-tools,95,39,72,9,2,3,69,206,46.116504854368934,Hungarian <fedora-trans-hu@redhat.com>
+kftpgrabber,198,605,1434,106,230,244,199,2237,8.851139919535091,V.group Translator Team <translator@vgroup.hu>
+kgrab,358,12,0,51,2,0,303,370,96.75675675675676,Hungarian <kde-i18n-doc@kde.org>
+kicad,5189,0,0,1896,0,0,5282,5189,100.0,<hu@li.org>
+kiconedit,724,0,2,154,0,1,640,726,99.72451790633609,Hungarian <kde-lista@sophia.jpte.hu>
+kile,2333,2408,5698,243,632,712,1926,10439,22.34888399271961,hungarian <hu@li.org>
+klamav,768,142,1593,175,37,207,696,2503,30.683180183779463,Hungarian <LL@li.org>
+klavaro,1907,0,1,220,0,1,1499,1908,99.94758909853249,Hungarian <translation-team-hu@lists.sourceforge.net>
+kmess,6979,0,0,1102,0,0,5690,6979,100.0,<NONE>
+kmid,523,6,6,205,4,5,525,535,97.75700934579439,Hungarian <kde-lista@sophia.jpte.hu>
+kmplayer,1159,90,2,378,9,1,1090,1251,92.6458832933653,Hungarian
+knemo,468,15,133,157,8,20,433,616,75.97402597402598,Hungarian <translator@vgroup.hu>
+knetworkmanager,408,0,0,185,0,0,409,408,100.0,<hu@li.org>
+konq-plugins,1198,253,147,400,46,70,1166,1598,74.96871088861077,Hungarian <kde-lista@sophia.jpte.hu>
+konversation,7119,1373,563,1034,247,81,6153,9055,78.61954721148537,HUNGARIAN <kde-lista-request@sophia.jpte.hu>
+kpowersave,1699,0,0,316,0,0,1641,1699,100.0,<hu@li.org>
+krename,1603,0,0,327,0,0,1392,1603,100.0,Hungarian
+kronolith,2166,0,0,543,0,0,2139,2166,100.0,Hungarian <i18n@lists.horde.org>
+krusader,7323,0,0,1581,0,0,6777,7323,100.0,Hungarian <hu@li.org>
+kshutdown,275,200,301,64,67,54,265,776,35.43814432989691,Hungarian <translator@vgroup.hu>
+ksig,71,2,12,17,1,8,59,85,83.52941176470588,Hungarian <kde-lista@sophia.jpte.hu>
+ktorrent,6000,720,75,1114,87,12,4919,6795,88.30022075055187,Magyar <kde-lista@sophia.jpte.hu>
+kvirc,1517,931,6897,301,269,1200,1346,9345,16.233279828785445,hungarian <hu@li.org>
+ldm,63,18,103,19,6,27,62,184,34.23913043478261,Hungarian <debian-l10n-hungarian@lists.debian.org>
+leafpad,123,2,0,67,1,0,123,125,98.4,Hungarian <hu@li.org>
+libbonobo,543,0,0,107,0,0,512,543,100.0,Hungarian <gnome@fsf.hu>
+libbonoboui,368,0,0,115,0,0,332,368,100.0,Hungarian <gnome@fsf.hu>
+libgda,31,1134,1122,23,245,208,32,2287,1.355487538259729,Hungarian <hu@gnome.hu>
+libgdl,613,0,0,98,0,0,524,613,100.0,Hungarian <gnome@fsf.hu>
+libgnome,1757,0,0,271,0,0,1499,1757,100.0,Hungarian <gnome@fsf.hu>
+libgnomecanvas,378,0,0,95,0,0,309,378,100.0,Hungarian <gnome@gnome.hu>
+libgnomecups,210,0,0,54,0,0,189,210,100.0,Hungarian <gnome@gnome.hu>
+libgnomedb,544,390,2170,145,99,385,444,3104,17.525773195876287,Hungarian <gnome@gnome.hu>
+libgnomekbd,235,0,0,49,0,0,210,235,100.0,Hungarian <gnome@fsf.hu>
+libgnomeprint22,168,0,0,98,0,0,155,168,100.0,Hungarian <gnome@gnome.hu>
+libgnomeprintui22,481,0,0,154,0,0,390,481,100.0,Hungarian <gnome@fsf.hu>
+libgnomeui,1226,0,0,320,0,0,1010,1226,100.0,Hungarian <gnome@fsf.hu>
+libgphoto2,2946,2326,3352,619,479,537,2906,8624,34.16048237476809,Hungarian <kde-lista@sophia.jpte.hu>
+libgtop2,126,0,0,40,0,0,106,126,100.0,Hungarian <gnome@fsf.hu>
+libgweather,7284,0,0,4745,0,0,7030,7284,100.0,Hungarian <gnome@fsf.hu>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+liblicense,40,0,26,33,0,17,38,66,60.60606060606061,LANGUAGE <LL@li.org>
+libpaper,29,0,44,2,0,44,22,73,39.726027397260275,Hungarian <debian-l10n-hungarian@lists.d.o>
+libuser,1026,31,7,218,6,1,1103,1064,96.42857142857143,
+libvirt,1631,3130,3464,373,627,650,1537,8225,19.829787234042552,
+libwnck,1124,0,0,241,0,0,1026,1124,100.0,Hungarian <gnome@fsf.hu>
+libxfcegui4,76,0,5,24,0,1,63,81,93.82716049382715,hu
+liferea,2157,83,188,489,20,23,1904,2428,88.83855024711697,Hungarian <hu@li.org>
+linphone,798,0,0,210,0,0,739,798,100.0,LANGUAGE <LL@li.org>
+linsmith,371,108,194,183,68,116,378,673,55.12630014858841,Hungarian <hu@li.org>
+listen,1016,111,615,415,33,88,923,1742,58.323765786452356,Hungarian <hu@gnome.hu>
+liveusb-creator,480,0,0,52,0,0,408,480,100.0,Hungarian <fedora-trans-hu@redhat.com>
+lock-keys-applet,17,33,4,7,10,2,21,54,31.48148148148148,<hu@li.org>
+lxappearance,96,0,0,39,0,0,96,96,100.0,Hungarian <debian-l10n-hungarian@lists.debian.org>
+lxlauncher,51,0,0,11,0,0,34,51,100.0,Hungarian <debian-l10n-hungarian@lists.debian.org>
+lxmenu-data,97,0,0,37,0,0,83,97,100.0,Hungarian <gnome@fsf.hu>
+lxpanel,610,45,250,204,21,70,531,905,67.40331491712708,hu <hu@li.org>
+lxrandr,102,0,0,22,0,0,92,102,100.0,Hungarian <debian-l10n-hungarian@lists.debian.org>
+lxsession,37,0,0,15,0,0,30,37,100.0,Hungarian <debian-l10n-hungarian@lists.debian.org>
+lxsession-edit,58,0,0,10,0,0,47,58,100.0,Hungarian <debian-l10n-hungarian@lists.d.o>
+lxsession-lite,40,0,0,16,0,0,32,40,100.0,Hungarian <debian-l10n-hungarian@lists.debian.org>
+lxshortcut,43,0,0,19,0,0,37,43,100.0,Hungarian <debian-l10n-hungarian@lists.debian.org>
+lxtask,112,0,0,43,0,0,106,112,100.0,Hungarian <hu@li.org>
+lxterminal,100,0,0,67,0,0,95,100,100.0,Hungarian <hu@li.org>
+lynx,7842,18,71,1188,5,7,7227,7931,98.87782120791829,Hungarian <translation-team-hu@lists.sourceforge.net>
+lyx,13665,0,0,4638,0,0,12833,13665,100.0,LyX-hu <alex@lyx.hu>
+mailman,18457,2669,779,1268,45,42,16238,21905,84.2593015293312,Hungarian <LL@li.org>
+mc,3363,87,29,965,15,5,3322,3479,96.6657085369359,Hungarian
+meld,865,0,0,242,0,0,771,865,100.0,Hungarian <gnome@fsf.hu>
+metacity,8009,0,0,515,0,0,7624,8009,100.0,Hungarian <gnome@fsf.hu>
+midori,790,0,476,243,0,115,661,1266,62.40126382306477,Hungarian <hu@li.org>
+mingw32-atk,370,1,4,123,1,2,266,375,98.66666666666667,Hungarian <gnome@fsf.hu>
+mingw32-gettext,366,0,0,71,0,0,366,366,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+mingw32-glib2,2197,3,125,348,1,19,2322,2325,94.49462365591398,Hungarian <gnome@fsf.hu>
+mingw32-gtk2,12081,205,114,2240,43,30,10224,12400,97.4274193548387,Hungarian <gnome@fsf.hu>
+mingw32-iconv,15,32,289,4,9,33,14,336,4.464285714285714,Hungarian <translation-team-hu@lists.sourceforge.net>
+minicom,1238,243,283,316,42,26,1308,1764,70.18140589569161,Hungarian <hu@li.org>
+mirage,742,0,0,239,0,0,653,742,100.0,hungarian <hu@li.org>
+mlocate,381,114,68,42,2,6,354,563,67.67317939609237,Hungarian <hu@gnome.hu>
+moin,2237,498,1007,433,84,120,2110,3742,59.78086584714056,
+monkey-bubble,309,0,0,86,0,0,278,309,100.0,Hungarian <gnome@gnome.hu>
+monodevelop,9007,0,1077,2184,0,118,8448,10084,89.319714399048,
+mousepad,135,0,0,64,0,0,118,135,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+mousetweaks,426,0,0,94,0,0,378,426,100.0,Hungarian <gnome@fsf.hu>
+muine,488,0,0,123,0,0,460,488,100.0,Hungarian <gnome@gnome.hu>
+mutt,3677,795,729,853,130,105,3475,5201,70.69794270332629,LME Magyaritasok Lista <magyar@lists.linux.hu>
+nano,2249,0,0,362,0,0,1918,2249,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+nautilus,8218,0,0,1289,0,0,7066,8218,100.0,Hungarian <gnome@fsf.hu>
+nautilus-cd-burner,1315,0,0,213,0,0,1094,1315,100.0,Hungarian <gnome@fsf.hu>
+nautilus-open-terminal,82,0,0,7,0,0,65,82,100.0,Hungarian <gnome@gnome.hu>
+nautilus-sendto,293,0,0,61,0,0,247,293,100.0,Hungarian <gnome@fsf.hu>
+nautilus-share,214,0,0,34,0,0,215,214,100.0,<hu@li.org>
+ncmpc,683,0,0,247,0,0,684,683,100.0,Hungarian <hu@li.org>
+ncpfs,5638,20,8,804,4,1,5688,5666,99.50582421461348,Hungarian <hu@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Hungarian
+notecase,161,260,735,73,90,193,146,1156,13.927335640138407,NoteCase team
+nssbackup,80,2,1919,20,1,307,87,2001,3.99800099950025,Hungarian <hu@li.org>
+nted,430,255,542,186,113,219,408,1227,35.04482477587612,Hungarian <debian-l10n-hungarian@lists.d.o>
+ntfs-config,3,12,342,1,2,56,3,357,0.8403361344537815,Hungarian <hu@li.org>
+oggconvert,70,0,82,34,0,10,66,152,46.05263157894737,Hungarian <hu@li.org>
+openbox,503,0,0,96,0,0,453,503,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+orage,812,0,52,535,0,4,782,864,93.98148148148148,Hungarian <translation-team-hu@lists.sourceforge.net>
+orca,3677,0,0,1259,0,0,3546,3677,100.0,Hungarian <gnome@fsf.hu>
+osmo,1169,97,139,510,44,30,1116,1405,83.20284697508897,Nedudu Team <polesz@nedudu.hu>
+pam,445,39,33,96,8,6,461,517,86.073500967118,<hu@li.org>
+pam_krb5,7,0,0,4,0,0,8,7,100.0,Hungarian <fedora-trans-hu@redhat.com>
+pan,84,1280,924,43,381,176,89,2288,3.6713286713286712,Hungarian <hu@gnome.hu>
+paprefs,99,0,0,19,0,0,86,99,100.0,Hungarian <gnome@fsf.hu>
+passwd,291,0,0,51,0,0,273,291,100.0,
+pavucontrol,184,0,0,65,0,0,181,184,100.0,Hungarian <gnome@fsf.hu>
+pcmanfm,1254,62,204,354,1,33,989,1520,82.5,Hungarian <hu@li.org>
+perl-Padre,560,0,0,215,0,0,522,560,100.0,Hungarian
+pessulus,88,0,0,30,0,0,82,88,100.0,Hungarian <gnome@gnome.hu>
+pgadmin3,2613,3237,3128,880,1015,630,2487,8978,29.1044776119403,Hungarian <pgadmin-hackers@postgresql.org>
+phatch,1220,0,273,457,0,51,1098,1493,81.71466845277963,Hungarian <info@kikke.hu>
+phpldapadmin,1428,0,1262,297,0,261,1274,2690,53.08550185873606,phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net>
+picard,31,2,560,16,1,194,62,593,5.227655986509275,Hungarian <hu@li.org>
+pidgin,18085,0,0,3881,0,0,16238,18085,100.0,Hungarian <gnome at fsf dot hu>
+pidgin-guifications,425,32,48,181,4,7,341,505,84.15841584158416,LANGUAGE <LL@li.org>
+pidgin-libnotify,31,5,0,11,1,0,30,36,86.11111111111111,
+pidgin-otr,686,0,0,117,0,0,600,686,100.0,Hungarian <ubuntu-l10n-hu@lists.ubuntu.com>
+piklab,2078,1081,3802,655,311,706,1970,6961,29.85203275391467,hungarian <hu@li.org>
+pingus,2247,21,560,275,2,9,1916,2828,79.45544554455446,
+pioneers,2544,0,0,698,0,0,2294,2544,100.0,Hungarian <bferike@mailbox.hu>
+planner,1796,0,0,526,0,0,1541,1796,100.0,Hungarian <gnome@gnome.hu>
+pmount,0,0,723,0,0,63,0,723,0.0,Hungarian <hu@li.org>
+poedit,1162,0,0,269,0,0,1110,1162,100.0,Hungarian <poedit-translators@lists.sourceforge.net>
+policycoreutils,1124,285,2954,186,55,472,1137,4363,25.76209030483612,
+popt,8,5,62,2,1,24,7,75,10.666666666666668,Hungarian
+postgresql,4603,0,13767,820,0,2085,4650,18370,25.057158410451823,Trend Kft. <rendszergazdi@trendkft.hu>
+powertop,934,29,0,82,3,0,914,963,96.98857736240913,
+psmisc,510,115,74,50,4,5,534,699,72.96137339055794,Hungarian <translation-team-hu@lists.sourceforge.net>
+publican,0,0,1007,0,0,22,0,1007,0.0,LANGUAGE <kde-i18n-doc@kde.org>
+publican-fedora,106,0,0,6,0,0,82,106,100.0,Hungarian <fedora-trans-hu@redhat.com>
+purple-msn-pecan,786,0,31,149,0,13,722,817,96.20563035495717,Hungarian <hu@li.org>
+pybliographer,971,0,0,262,0,0,956,971,100.0,Hungarian <gnome@gnome.hu>
+pychess,1671,0,0,345,0,0,1287,1671,100.0,Hungarian <btami@freemail.hu>
+pykickstart,284,0,0,25,0,0,240,284,100.0,Hungarian <fedora-trans-hu@redhat.com>
+pyroom,21,0,390,7,0,67,23,411,5.109489051094891,Hungarian <hu@li.org>
+python-fedora,635,0,0,76,0,0,558,635,100.0,Hungarian <fedora-trans-hu@redhat.com>
+quitcount,166,0,0,40,0,0,150,166,100.0,<NONE>
+quodlibet,1788,0,36,503,0,8,1502,1824,98.02631578947368,hu
+redhat-menus,261,0,0,86,0,0,231,261,100.0,
+referencer,733,0,146,212,0,38,691,879,83.39021615472127,Hungarian <hu@li.org>
+regexxer,466,0,1,99,0,1,420,467,99.78586723768737,Hungarian <gnome@gnome.hu>
+resapplet,89,0,0,22,0,0,78,89,100.0,<LL@li.org>
+revisor,0,1634,2537,0,482,215,0,4171,0.0,
+rhpl,185,0,0,80,0,0,180,185,100.0,hungarian
+rhpxl,127,0,3,42,0,2,130,130,97.6923076923077,Hungarian
+rhythmbox,4178,0,0,951,0,0,3840,4178,100.0,Hungarian <gnome@fsf.hu>
+ristretto,179,0,8,56,0,1,141,187,95.72192513368985,Hungarian <debian-l10n-hungarian@lists.d.o>
+roundup,2016,107,2680,434,11,59,1816,4803,41.973766396002496,Hungarian
+rt3,2460,0,4829,784,0,1011,2394,7289,33.74948552613527,rt-devel <rt-devel@lists.bestpractical.com>
+rubyripper,1482,0,0,283,0,0,1281,1482,100.0,Hungarian
+sabayon,1178,0,0,230,0,0,1104,1178,100.0,Hungarian <gnome@fsf.hu>
+sakura,34,21,72,15,4,27,32,127,26.77165354330709,hu
+sbackup,247,0,466,40,0,72,230,713,34.642356241234225,Hungarian <hu@li.org>
+seahorse,2964,0,0,632,0,0,2594,2964,100.0,Hungarian <gnome@fsf.hu>
+seahorse-plugins,1163,0,0,248,0,0,1115,1163,100.0,Hungarian <gnome@fsf.hu>
+sed,204,136,165,38,29,14,214,505,40.396039603960396,Hungarian <translation-team-hu@lists.sourceforge.net>
+sepostgresql,4603,0,13767,820,0,2085,4650,18370,25.057158410451823,Trend Kft. <rendszergazdi@trendkft.hu>
+serpentine,462,39,143,93,8,21,422,644,71.73913043478261,Hungarian <gnome@gnome.hu>
+setroubleshoot,147,111,324,57,35,70,147,582,25.257731958762886,
+setroubleshoot-plugins,2625,5226,425,111,126,10,2693,8276,31.718221362977282,
+setuptool,60,0,0,17,0,0,57,60,100.0,Hungarian
+shadow-utils,2360,763,190,378,40,18,2323,3313,71.234530636885,Hungarian <gnome@gnome.hu>
+shared-mime-info,1333,0,0,541,0,0,1065,1333,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+sharutils,712,261,66,89,43,19,795,1039,68.5274302213667,Hungarian <translation-team-hu@lists.sourceforge.net>
+showimg,692,915,2698,256,313,310,677,4305,16.074332171893147,Hungarian <translator@vgroup.hu>
+skrooge,2280,131,1642,774,50,271,2037,4053,56.25462620281273,Dokumentumok <kde-i18n-doc@kde.org>
+smart,4126,40,16,719,3,3,3955,4182,98.66092778574844,Hungarian <hu@li.org>
+smb4k,235,1367,4978,105,214,406,211,6580,3.571428571428571,<hu@li.org>
+smolt,1338,16,28,280,4,8,1184,1382,96.81620839363242,Hungarian <fedora-trans-hu@redhat.com>
+solfege,1398,566,1496,422,217,274,1326,3460,40.40462427745665,Hungarian <translation-team-hu@lists.sourceforge.net>
+sound-juicer,996,0,0,195,0,0,946,996,100.0,Hungarian <gnome@fsf.hu>
+soundconverter,363,48,37,85,16,13,329,448,81.02678571428571,Hungarian <hu@li.org>
+specspo,56919,39493,208882,3249,4977,8624,46604,305294,18.643995623890415,Hungarian <fedora-trans-hu@redhat.com>
+squirrelmail,3840,1824,1214,946,236,169,3448,6878,55.830183192788596,Hungarian <squirrelmail-i18n@lists.sourceforge.net>
+stardict,379,599,1462,95,125,241,314,2440,15.532786885245903,Hungarian
+stellarium,2356,0,53,913,0,7,2040,2409,97.79991697799917,
+streamtuner,573,643,739,168,143,176,511,1955,29.309462915601024,
+subdownloader,47,0,0,41,0,0,47,47,100.0,LANGUAGE <LL@li.org>
+subtitleeditor,759,0,1369,277,0,309,657,2128,35.66729323308271,
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,50,0,0,25,0,50,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,52,0,0,16,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,137,0,0,73,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+supertux,918,12,440,221,6,5,817,1370,67.00729927007299,Kővágó Zoltán (DirtY iCE) <DirtY.iCE.hu@gmail.com>
+sweep,163,235,2001,53,102,383,151,2399,6.794497707378073,Hungarian <LL@li.org>
+swfdec-gnome,101,0,0,28,0,0,102,101,100.0,Hungarian <gnome@fsf.hu>
+switchdesk,139,0,0,20,0,0,111,139,100.0,Hungarian <fedora-trans-hu@redhat.com>
+sylpheed,6271,0,0,1584,0,0,5776,6271,100.0,HUNGARIAN <NONE>
+synaptic,3091,123,17,643,15,4,2798,3231,95.66697616836892,Hungarian <gnome@gnome.hu>
+system-config-bind,1505,2,7912,519,1,544,1455,9419,15.978341649856672,Hungarian
+system-config-boot,46,0,0,10,0,0,32,46,100.0,Hungarian <kde-lista@sophia.jpte.hu>
+system-config-date,1038,0,0,617,0,0,994,1038,100.0,Hungarian <fedora-trans-hu@redhat.com>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,383,398,100.0,
+system-config-firewall,2189,0,308,294,0,9,1915,2497,87.66519823788546,American English <kde-i18n-doc@kde.org>
+system-config-httpd,858,0,0,223,0,0,724,858,100.0,Hungarian
+system-config-kdump,339,11,33,33,1,1,290,383,88.51174934725849,
+system-config-keyboard,78,0,0,12,0,0,71,78,100.0,Hungarian
+system-config-kickstart,1054,0,0,281,0,0,910,1054,100.0,Hungarian <fedora-trans-hu@redhat.com>
+system-config-language,45,0,0,10,0,0,40,45,100.0,Hungarian
+system-config-lvm,2227,0,1,342,0,1,2105,2228,99.95511669658886,Hungarian <fedora-trans-hu@redhat.com>
+system-config-netboot,1103,0,0,165,0,0,992,1103,100.0,Hungarian <fedora-trans-hu@redhat.com>
+system-config-network,2894,0,0,688,0,0,2525,2894,100.0,Hungarian <hu@gnome.hu>
+system-config-nfs,332,0,1185,72,0,66,289,1517,21.88529993408042,LANGUAGE <LL@li.org>
+system-config-printer,3005,0,0,663,0,0,2745,3005,100.0,Hungarian <fedora-trans-hu@redhat.com>
+system-config-rootpassword,15,26,75,3,5,11,13,116,12.931034482758621,Hungarian
+system-config-samba,422,0,0,137,0,0,375,422,100.0,Hungarian <fedora-trans-hu@redhat.com>
+system-config-services,377,0,7,52,0,1,352,384,98.17708333333334,Hungarian <fedora-trans-hu@redhat.com>
+system-config-users,1337,0,0,172,0,0,1139,1337,100.0,Hungarian <fedora-trans-hu@redhat.com>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,67,81,100.0,Hungarian <fedora-trans-hu@redhat.com>
+system-switch-mail,134,0,0,20,0,0,137,134,100.0,Hungarian
+tangogps,446,54,75,225,23,24,420,575,77.56521739130436,Hungarian <hu@li.org>
+tar,3153,0,17,519,0,2,3306,3170,99.46372239747635,Hungarian <translation-team-hu@lists.sourceforge.net>
+teg,2312,0,66,544,0,39,2005,2378,97.22455845248108,Hungarian <hu@li.org>
+tellico,5567,0,9,1110,0,1,4624,5576,99.83859397417504,<hu@li.org>
+terminator,44,0,186,10,0,59,44,230,19.130434782608695,Hungarian <hu@li.org>
+termit,40,0,3,14,0,1,39,43,93.02325581395348,hu
+texinfo,2508,366,1751,449,42,84,2365,4625,54.22702702702703,hungarian <hu@li.org>
+thunar-archive-plugin,86,0,0,13,0,0,48,86,100.0,hu
+thunar-media-tags-plugin,144,0,0,49,0,0,125,144,100.0,Hungarian
+thunar-vcs-plugin,39,230,229,31,128,120,38,498,7.83132530120482,Hungarian
+thunar-volman,329,20,21,75,3,7,276,370,88.91891891891892,Hungarian
+tilda,396,0,0,107,0,0,365,396,100.0,Hungarian <hu@li.org>
+tinyerp,175,441,522,65,172,96,153,1138,15.377855887521969,Hungarian <hu@gnome.hu>
+tomboy,2600,0,0,404,0,0,2266,2600,100.0,Hungarian <gnome@fsf.hu>
+totem,2427,0,0,510,0,0,2065,2427,100.0,Hungarian <gnome@fsf.hu>
+totem-pl-parser,35,0,0,8,0,0,30,35,100.0,Hungarian <gnome@fsf.hu>
+trackballs,937,17,0,266,3,0,845,954,98.21802935010481,Hungarian
+tracker,1117,0,0,261,0,0,981,1117,100.0,Hungarian <gnome@gnome.hu>
+transifex,16,211,1484,13,85,259,15,1711,0.9351256575102279,Hungarian <fedora-trans-hu@redhat.com>
+transmission,968,0,143,335,0,22,964,1111,87.12871287128714,<hu@li.org>
+turba,1532,0,0,366,0,0,1407,1532,100.0,Hungarian <i18n@lists.horde.org>
+tuxmath,419,14,539,109,3,67,349,972,43.10699588477366,LANGUAGE <HU@li.org>
+tuxpaint,550,125,86,152,16,18,496,761,72.27332457293035,Hungarian <translation-team-hu@lists.sourceforge.net>
+tuxpaint-stamps,600,625,1392,162,245,219,337,2617,22.92701566679404,Török Gábor <gabo@linuxportal.hu>
+tvtime,1224,0,0,247,0,0,1115,1224,100.0,GERE Károly <kgere@message.hu>
+txt2tags,596,0,0,122,0,0,628,596,100.0,hu_HU team
+ultimatestunts,450,0,0,126,0,0,379,450,100.0,Hungarian
+usermode,564,0,0,95,0,0,512,564,100.0,
+util-linux-ng,12133,0,4,1927,0,2,12231,12137,99.96704292658812,Hungarian <translation-team-hu@lists.sourceforge.net>
+vdr,790,3,14,321,1,6,710,807,97.89343246592317,Hungarian
+vdr-skinsoppalusikka,42,0,95,22,0,11,37,137,30.656934306569344,<vdr@linuxtv.org>
+vidalia,2131,323,3,564,45,1,1886,2457,86.73178673178673,none
+viewnior,387,0,0,122,0,0,343,387,100.0,Hungarian <hu@li.org>
+vinagre,730,0,0,126,0,0,658,730,100.0,Hungarian <gnome@fsf.hu>
+vino,1031,0,0,113,0,0,977,1031,100.0,Hungarian <gnome@fsf.hu>
+virt-manager,834,689,1645,184,191,293,706,3168,26.325757575757574,hu <en@li.org>
+vorbis-tools,1058,1074,1244,192,66,128,1150,3376,31.338862559241704,Hungarian <translation-team-hu@lists.sourceforge.net>
+vte,108,0,0,19,0,0,119,108,100.0,Hungarian <gnome@fsf.hu>
+wallpapoz,395,0,0,101,0,0,319,395,100.0,Hungarian <zol.nagy@gmail.com>
+wammu,4259,0,0,789,0,0,4216,4259,100.0,Hungarian <hu@li.org>
+weechat,1347,5447,3195,217,745,244,1224,9989,13.484833316648311,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,212625,1,1,13105,1,1,173479,212627,99.99905938568479,Hungarian <wesnoth-hungtrans@gna.org>
+wget,2227,0,33,393,0,1,2357,2260,98.53982300884955,Hungarian <translation-team-hu@lists.sourceforge.net>
+widelands,6660,6724,3910,968,239,368,5628,17294,38.51046605759223,Language <widelands-public@lists.sourceforge.net>
+workrave,1093,44,23,202,15,12,962,1160,94.22413793103448,<ubuntu-l10n-hu@lists.ubuntu.com>
+wormux,525,731,555,143,90,84,460,1811,28.989508558807287,Hungarian
+wxGTK,5220,496,675,1088,143,244,5395,6391,81.67735878579252,wxWidgets translators <wx-translators@wxwidgets.org>
+wxPython,5220,496,675,1088,143,244,5395,6391,81.67735878579252,wxWidgets translators <wx-translators@wxwidgets.org>
+wxdfast,1137,0,43,324,0,15,1020,1180,96.35593220338983,Hungarian <hu@li.org>
+xaos,813,12,82,336,2,16,814,907,89.6361631753032,Hungarian
+xarchiver,1131,0,0,277,0,0,986,1131,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xcdroast,8044,0,0,848,0,0,6622,8044,100.0,Hungarian <hu@li.org>
+xchat,4891,84,47,1188,30,13,4589,5022,97.39147749900438,Hungarian <translation-team-hu@lists.sourceforge.net>
+xchat-gnome,4064,0,0,1046,0,0,3854,4064,100.0,Hungarian <gnome@fsf.hu>
+xchm,142,31,72,59,13,20,124,245,57.95918367346938,Hungarian
+xdg-user-dirs,24,0,2,24,0,2,24,26,92.3076923076923,Hungarian <gnome@gnome.hu>
+xdg-user-dirs-gtk,81,0,0,11,0,0,67,81,100.0,Hungarian <gnome@fsf.hu>
+xdialog,21,0,0,15,0,0,20,21,100.0,Hungarian <hu@li.org>
+xfbib,33,5,186,20,3,37,31,224,14.732142857142858,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfburn,1296,0,0,281,0,0,1106,1296,100.0,Hungarian <gnome at gnome dot hu>
+xfce-mcs-manager,30,0,0,7,0,0,22,30,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfce-mcs-plugins,538,2,0,145,1,0,419,540,99.62962962962963,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfce-utils,119,0,0,34,0,0,99,119,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfce4-appfinder,48,0,0,28,0,0,45,48,100.0,hu
+xfce4-clipman-plugin,85,0,0,26,0,0,70,85,100.0,Hungarian <xfce-i18n@xfce.org>
+xfce4-cpugraph-plugin,44,0,0,25,0,0,42,44,100.0,Hungarian
+xfce4-datetime-plugin,48,0,0,19,0,0,45,48,100.0,Hungarian <xfce-i18n@xfce.org>
+xfce4-dict,197,99,90,48,19,17,179,386,51.03626943005182,Hungarian
+xfce4-eyes-plugin,9,0,0,3,0,0,6,9,100.0,Hungarian <hu@li.org>
+xfce4-fsguard-plugin,64,0,0,19,0,0,55,64,100.0,Hungarian <hu@li.org>
+xfce4-icon-theme,8,0,0,2,0,0,6,8,100.0,hu
+xfce4-mailwatch-plugin,598,7,54,102,1,7,567,659,90.74355083459787,Hungarian <debian-l10n-hungarian@lists.debian.org>
+xfce4-mixer,226,0,0,94,0,0,207,226,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfce4-modemlights-plugin,22,2,112,12,1,2,23,136,16.176470588235293,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfce4-mount-plugin,298,0,0,44,0,0,227,298,100.0,Hungarian <xfce-i18n@xfce.org>
+xfce4-mpc-plugin,22,0,0,9,0,0,18,22,100.0,Hungarian
+xfce4-notes-plugin,85,0,0,30,0,0,70,85,100.0,Hungarian <debian-l10n-hungarian@lists.debian.org>
+xfce4-panel,578,0,0,160,0,0,476,578,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfce4-places-plugin,13,3,27,6,1,12,12,43,30.23255813953488,Hungarian <debian-l10n-hungarian@lists.debian.org>
+xfce4-quicklauncher-plugin,32,0,11,13,0,4,27,43,74.4186046511628,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfce4-radio-plugin,52,0,0,22,0,0,51,52,100.0,Hungarian
+xfce4-screenshooter,57,63,102,11,13,13,45,222,25.675675675675674,Hungarian
+xfce4-screenshooter-plugin,94,0,0,23,0,0,79,94,100.0,Hungarian
+xfce4-sensors-plugin,87,7,5,36,5,1,75,99,87.87878787878788,hu
+xfce4-session,738,0,0,129,0,0,557,738,100.0,hu
+xfce4-smartbookmark-plugin,7,0,0,6,0,0,8,7,100.0,hu
+xfce4-systemload-plugin,54,0,0,18,0,0,52,54,100.0,Hungarian <hu@li.org>
+xfce4-taskmanager,67,0,0,31,0,0,64,67,100.0,Hungarian <hu@li.org>
+xfce4-time-out-plugin,187,8,6,40,2,1,185,201,93.03482587064677,Hungarian
+xfce4-timer-plugin,94,0,0,32,0,0,89,94,100.0,hu
+xfce4-verve-plugin,47,0,0,10,0,0,38,47,100.0,Hungarian <xfce-i18n@xfce.org>
+xfce4-volstatus-icon,186,2,9,52,1,3,159,197,94.41624365482234,Hungarian
+xfce4-wavelan-plugin,37,0,0,8,0,0,32,37,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfce4-weather-plugin,558,0,0,258,0,0,529,558,100.0,Hungarian <gnome at gnome dot hu>
+xfce4-websearch-plugin,13,0,0,5,0,0,8,13,100.0,Hungarian <hu@li.org>
+xfce4-xfapplet-plugin,84,0,0,14,0,0,59,84,100.0,hu
+xfce4-xkb-plugin,6,20,35,3,7,7,6,61,9.836065573770492,Hungarian
+xfce4-xmms-plugin,52,0,0,15,0,0,47,52,100.0,hu
+xfdesktop,1078,0,0,288,0,0,875,1078,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfprint,323,0,0,113,0,0,274,323,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xfwm4,645,0,1,189,0,1,545,646,99.84520123839009,Hungarian <translation-team-hu@lists.sourceforge.net>
+xkeyboard-config,1933,0,0,650,0,0,2053,1933,100.0,Hungarian <translation-team-hu@lists.sourceforge.net>
+xmms,3177,66,200,1003,18,24,3048,3443,92.27417949462678,Hungarian
+xmoto,3104,0,313,643,0,75,2610,3417,90.83991805677495,X-moto
+xpad,226,0,137,66,0,11,241,363,62.25895316804407,Hungarian <translation-team-hu@lists.sourceforge.net>
+xsane,2358,764,102,588,113,27,2169,3224,73.13895781637717,Hungarian
+xscreensaver,10397,254,539,1607,62,165,8799,11190,92.91331546023235,Hungarian <gnome@gnome.hu>
+yelp,1035,0,0,349,0,0,927,1035,100.0,Hungarian <gnome@fsf.hu>
+yumex,554,21,0,212,6,0,521,575,96.34782608695652,Hungarian <fedora-trans-hu@redhat.com>
+zenity,582,0,0,135,0,0,536,582,100.0,Hungarian <gnome@fsf.hu>

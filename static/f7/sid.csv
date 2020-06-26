@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iso-codes,2,30,11036,2,30,8054,4,11068,0.018070112034694615,Sidamo
+kde-i18n,14,0,0,9,0,0,10,14,100.0,Traditional Chinese <zh_l10n@linux.org.tw>

@@ -1,0 +1,35 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+akonadi-googledata,57,24,5,12,5,1,50,86,66.27906976744185,Serbian <kde-i18n-sr@kde.org>
+amarok,16284,0,0,2837,0,0,16291,16284,100.0,Serbian <kde-i18n-sr@kde.org>
+bluedevil,617,0,0,198,0,0,604,617,100.0,Serbian <kde-i18n-sr@kde.org>
+cinnamon,29,0,1667,13,0,539,28,1696,1.7099056603773584,Serbian Ijekavian Latin <sr@ijekavianlatin@li.org>
+k3b,20429,0,0,2522,0,0,18838,20429,100.0,Serbian <kde-i18n-sr@kde.org>
+kaffeine,448,74,68,205,43,9,461,590,75.9322033898305,Serbian <kde-i18n-sr@kde.org>
+kaudiocreator,1123,8,5,270,1,2,1042,1136,98.8556338028169,Serbian <kde-i18n-sr@kde.org>
+kde-l10n,293092,10,9,57723,2,2,280376,293111,99.99351781407044,Serbian <kde-i18n-sr@kde.org>
+kde-plasma-networkmanagement,3699,0,0,1039,0,0,3580,3699,100.0,Serbian <kde-i18n-sr@kde.org>
+kmid2,923,79,20,308,17,8,876,1022,90.31311154598825,Serbian <kde-i18n-sr@kde.org>
+knemo,1186,0,0,347,0,0,1161,1186,100.0,Serbian <kde-i18n-sr@kde.org>
+knights,757,0,0,219,0,0,703,757,100.0,Serbian <kde-i18n-sr@kde.org>
+konversation,10622,0,0,1636,0,0,9869,10622,100.0,Serbian <kde-i18n-sr@kde.org>
+krusader,7956,0,0,1737,0,0,7647,7956,100.0,Serbian <kde-i18n-sr@kde.org>
+kshutdown,504,0,0,122,0,0,486,504,100.0,Serbian <kde-i18n-sr@kde.org>
+ktorrent,7739,0,0,1389,0,0,6885,7739,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-accounts-kcm,990,0,0,263,0,0,929,990,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-approver,70,0,0,17,0,0,69,70,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-auth-handler,62,0,0,21,0,0,59,62,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-call-ui,225,0,0,71,0,0,210,225,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-common-internals,781,0,0,168,0,0,730,781,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-contact-applet,15,0,0,9,0,0,16,15,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-contact-list,405,0,0,111,0,0,393,405,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-contact-runner,177,0,0,35,0,0,181,177,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-desktop-applets,7,0,0,3,0,0,7,7,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-filetransfer-handler,139,0,0,38,0,0,147,139,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-kded-integration-module,225,0,0,49,0,0,229,225,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-presence-applet,19,0,0,12,0,0,19,19,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-send-file,59,0,0,17,0,0,58,59,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-text-ui,463,0,0,108,0,0,427,463,100.0,Serbian <kde-i18n-sr@kde.org>
+kwebkitpart,624,0,0,158,0,0,586,624,100.0,Serbian <kde-i18n-sr@kde.org>
+libktorrent,519,0,0,115,0,0,553,519,100.0,Serbian <kde-i18n-sr@kde.org>
+polkit-kde,82,0,10,22,0,4,71,92,89.13043478260869,Serbian <kde-i18n-sr@kde.org>
+rekonq,2185,0,0,587,0,0,2135,2185,100.0,Serbian <kde-i18n-sr@kde.org>

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cmucl,69,0,0,13,0,0,69,69,100.0,Pig Latin (auto-translated)
+pychess,345,0,2504,149,0,420,401,2849,12.109512109512108,Occitan (post 1500) <oc@li.org>
+stellarium,0,0,9286,0,0,2789,0,9286,0.0,Ossetian <os@li.org>

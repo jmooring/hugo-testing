@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+exaile,1,2,4003,1,1,1023,1,4006,0.024962556165751375,Ossetian <os@li.org>
+pychess,345,0,2504,149,0,420,401,2849,12.109512109512108,Occitan (post 1500) <oc@li.org>
+python-django,2445,0,882,612,0,134,2276,3327,73.48963029756538,Ossetic (http://www.transifex.com/projects/p/django/language/os/)
+python-django-formtools,5,0,27,3,0,8,6,32,15.625,Ossetic (http://www.transifex.com/projects/p/django-formtools/language/os/)
+stellarium,11,0,15814,11,0,4252,11,15825,0.06951026856240126,Ossetian <os@li.org>

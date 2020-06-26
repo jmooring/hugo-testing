@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,43,42,100.0,Aragonese <softaragones@googlegroups.com>
+empathy,437,0,3183,217,0,584,487,3620,12.07182320441989,Aragonese <softaragones@googlegroups.com>
+epiphany,503,0,2551,239,0,498,576,3054,16.470203012442695,Aragonese <softaragones@googlegroups.com>
+gnome-backgrounds,23,0,0,17,0,0,25,23,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-desktop,366,0,72,58,0,3,427,438,83.56164383561644,Aragonés <softaragones@googlegroups.com>
+gnome-menus,125,0,0,46,0,0,154,125,100.0,Aragonés <softaragones@googlegroups.com>
+transmission,243,0,1265,122,0,325,271,1508,16.114058355437667,Aragonese <an@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Aragonese <softaragones@googlegroups.com>

@@ -1,0 +1,109 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+agenda,5,0,12,2,0,4,5,17,29.411764705882355,Latin <la@li.org>
+asunder,6,0,486,6,0,85,7,492,1.2195121951219512,http://littlesvr.ca/ostd/
+blueberry,3,0,159,3,0,33,3,162,1.8518518518518516,Latin <la@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+bottles,7,90,1463,4,10,327,7,1560,0.4487179487179487,Latin <https://hosted.weblate.org/projects/bottles/bottles/la/>
+byobu,14,0,163,8,0,36,12,177,7.909604519774012,Latin <la@li.org>
+caja,31,2,9592,24,1,1570,40,9625,0.3220779220779221,Latin (https://www.transifex.com/mate/teams/13566/la/)
+cinnamon-translations,194,0,17965,117,0,3887,218,18159,1.0683407676634176,Latin <la@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+deluge,12,0,2604,9,0,842,12,2616,0.45871559633027525,Latin <la@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1151,0,0,257,0,1151,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,2998,0,0,573,0,2998,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Latin
+gala,0,0,140,0,0,34,0,140,0.0,none
+gedit,207,0,4735,17,0,1076,121,4942,4.188587616349656,Latin <la@li.org>
+gedit-plugins,2,4,1199,2,2,465,8,1205,0.16597510373443983,Latin <la@li.org>
+gnome-panel,2,1,3517,2,1,505,2,3520,0.056818181818181816,Latin <gnome-latin-list@gnome.org>
+granite,0,0,269,0,0,88,0,269,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+im-chooser,0,0,254,0,0,58,0,254,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,485,0,0,88,0,485,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Latin (http://www.transifex.com/projects/p/initial-setup/language/la/)
+isomaster,9,1,664,8,1,98,10,674,1.3353115727002967,http://littlesvr.ca/ostd/
+libgnomeui,1,0,1308,1,0,333,3,1309,0.07639419404125286,Latin <la@li.org>
+libgtop2,24,0,102,5,0,35,15,126,19.047619047619047,Latin <la@li.org>
+libmatekbd,2,0,306,2,0,89,2,308,0.6493506493506493,Latin (https://www.transifex.com/mate/teams/13566/la/)
+marco,54,0,4285,15,0,416,56,4339,1.2445263885687947,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-applets,87,0,11351,42,0,827,114,11438,0.7606224864486798,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-backgrounds,1,0,64,1,0,30,1,65,1.5384615384615385,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-media,3,0,236,3,0,96,3,239,1.2552301255230125,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-menu,13,0,295,12,0,98,15,308,4.220779220779221,Latin (http://www.transifex.com/mate/MATE/language/la/)
+mate-menus,3,0,94,3,0,34,3,97,3.0927835051546393,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-panel,17,0,5484,15,0,680,29,5501,0.3090347209598255,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-power-manager,3,0,2457,3,0,137,8,2460,0.12195121951219512,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-sensors-applet,2,0,1907,2,0,116,5,1909,0.10476689366160294,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-terminal,63,0,4642,35,0,503,64,4705,1.3390010626992561,Latin (https://www.transifex.com/mate/teams/13566/la/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Latin (http://www.transifex.com/mate/MATE/language/la/)
+mate-utils,4,0,3217,4,0,197,10,3221,0.12418503570319776,Latin (https://www.transifex.com/mate/teams/13566/la/)
+metacity,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mozo,1,0,42,1,0,16,1,43,2.3255813953488373,Latin (https://www.transifex.com/mate/teams/13566/la/)
+muffin,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mutter,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+nemo-extensions,1,0,7,1,0,1,1,8,12.5,Latin <la@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+phosh,53,0,21,20,0,11,53,74,71.62162162162163,Latin
+pinta,29,0,1657,20,0,512,41,1686,1.7200474495848161,Latin <la@li.org>
+pluma,41,0,5622,34,0,1399,51,5663,0.7239978809818117,Latin (https://www.transifex.com/mate/teams/13566/la/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-caja,1,0,6,1,0,2,1,7,14.285714285714285,Latin (https://www.transifex.com/mate/teams/13566/la/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Latin (http://www.transifex.com/projects/p/python-meh/language/la/)
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+slick-greeter,2,0,209,2,0,45,2,211,0.9478672985781991,Latin <la@li.org>
+stellarium,29515,0,99138,17489,0,18399,29340,128653,22.94155596838006,Latin (https://www.transifex.com/stellarium/teams/80998/la/)
+supertux,2908,0,150,909,0,49,2685,3058,95.09483322432962,Latin (http://www.transifex.com/arctic-games/supertux/language/la/)
+supertuxkart,2094,0,3462,581,0,477,1902,5556,37.6889848812095,Latin (http://www.transifex.com/supertuxkart/supertuxkart/language/la/)
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+sympa,0,0,21663,0,0,2806,0,21663,0.0,Lingua Latina
+synapse,61,0,795,42,0,192,60,856,7.1261682242990645,Latin <la@li.org>
+terminator,9,0,1441,9,0,418,17,1450,0.6206896551724138,Latin (https://www.transifex.com/terminator/teams/109338/la/)
+warzone2100,9,335,13117,4,120,2771,8,13461,0.06685981724983285,Latin
+wesnoth,53178,28253,214516,6367,1786,10271,37889,295947,17.968757919492344,Latin <http://wiki.wesnoth.org/LatinTranslation>
+widelands,3917,0,55022,957,0,4268,3123,58939,6.645854188228507,Latin (http://www.transifex.com/widelands/widelands/language/la/)
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none
+xed,257,0,4383,35,0,969,165,4640,5.538793103448276,Latin <la@li.org>
+xreader,7,0,1666,6,0,377,7,1673,0.41841004184100417,Latin <la@li.org>
+yelp,13,0,1022,13,0,336,24,1035,1.2560386473429952,Latin <la@li.org>

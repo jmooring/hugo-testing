@@ -1,0 +1,51 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,17,0,0,6,0,0,19,17,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/0ad/language/es_MX/)
+audacious,568,8,0,235,1,0,688,576,98.61111111111111,Spanish (Mexico) (http://www.transifex.com/projects/p/audacious/language/es_MX/)
+audacious-plugins,4028,4,0,867,2,0,4638,4032,99.90079365079364,Spanish (Mexico) (http://www.transifex.com/projects/p/audacious/language/es_MX/)
+calibre,0,0,64704,0,0,13747,0,64704,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/calibre/language/es_MX/)
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Spanish (Mexico)
+gallery2,7731,2650,100,1085,562,12,8814,10481,73.76204560633526,Mexican Spanish <gallery-devel@lists.sourceforge.net>
+gentoo,1467,372,412,436,68,89,1689,2251,65.1710350955131,Language es-MX
+glpi,4103,0,5332,1332,0,1194,4528,9435,43.487016428192895,Spanish (Mexico) (http://www.transifex.com/projects/p/GLPI/language/es_MX/)
+gnomebaker,1059,44,83,266,6,19,1250,1186,89.29173693086003,Spanish (Mexico) <es_MX@li.org>
+gnue-common,153,403,1576,25,60,188,165,2132,7.176360225140713,Espa~ol/Mexico
+hotot,23,9,63,7,6,24,23,95,24.210526315789473,ktrionix-labs <ktrionixlabs@gmail.com>
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,143,0,297,30,0,50,111,440,32.5,LANGUAGE <LL@li.org>
+inkscape,652,11027,22994,259,3880,3264,746,34673,1.880425691460214,none <none>
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmateweather,486,0,1,180,0,1,555,487,99.7946611909651,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+libmx,40,0,0,16,0,0,46,40,100.0,
+libvirt-sandbox,0,0,583,0,0,104,0,583,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/fedora/language/es_MX/)
+lilyterm,415,606,627,83,96,116,482,1648,25.18203883495146,lilyterm
+mate-applets,1814,0,469,423,0,119,2168,2283,79.4568550153307,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mate-backgrounds,30,0,0,21,0,0,31,30,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mate-menus,97,0,0,37,0,0,114,97,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mate-netspeed,135,0,13,48,0,10,158,148,91.21621621621621,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mate-notification-daemon,126,0,26,34,0,3,143,152,82.89473684210526,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mate-session-manager,455,0,109,99,0,5,545,564,80.67375886524822,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mate-system-monitor,862,0,71,233,0,11,1071,933,92.39013933547695,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mate-themes,109,0,0,30,0,0,134,109,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+mozo,42,0,0,16,0,0,43,42,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/MATE/language/es_MX/)
+openerp,16338,0,38635,3847,0,4703,18009,54973,29.72004438542557,Spanish (Mexico) <es_MX@li.org>
+openerp7,14216,0,36686,3232,0,4544,15640,50902,27.928175710188203,Spanish (Mexico) <es_MX@li.org>
+openstack-ceilometer,0,0,1446,0,0,249,0,1446,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/openstack/language/es_MX/)
+openstack-cinder,0,0,11927,0,0,1766,0,11927,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/openstack/language/es_MX/)
+openstack-glance,0,0,5490,0,0,653,0,5490,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/openstack/language/es_MX/)
+openstack-keystone,0,0,2212,0,0,352,0,2212,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/openstack/language/es_MX/)
+openstack-neutron,0,0,15821,0,0,2406,0,15821,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/openstack/language/es_MX/)
+openstack-nova,0,0,16757,0,0,2661,0,16757,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/openstack/language/es_MX/)
+openstack-sahara,0,0,373,0,0,50,0,373,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/openstack/language/es_MX/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/fedora/language/es_MX/)
+pulsecaster,7,8,132,2,2,16,12,147,4.761904761904762,es_MX <LL@li.org>
+python-django,2770,0,548,703,0,70,3115,3318,83.48402652200122,Spanish (Mexico) (http://www.transifex.com/projects/p/django/language/es_MX/)
+python-django-helpdesk,2600,0,642,445,0,42,2808,3242,80.19740900678593,Spanish (Mexico) (http://www.transifex.com/projects/p/django-helpdesk/language/es_MX/)
+python-django-openstack-auth,47,0,0,10,0,0,59,47,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/openstack/language/es_MX/)
+python-django14,5051,0,5,1583,0,5,5627,5056,99.90110759493672,Spanish (Mexico) (http://www.transifex.net/projects/p/django/language/es_MX/)
+python-django15,4858,0,272,1566,0,36,5383,5130,94.69785575048732,Spanish (Mexico) (http://www.transifex.com/projects/p/django/language/es_MX/)
+python-lettuce,3975,0,0,1268,0,0,4428,3975,100.0,Spanish (Mexican) <None>
+radiotray,130,0,0,46,0,0,155,130,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/radiotray/language/es_MX/)
+trac,5274,572,2245,1108,96,88,6055,8091,65.18353726362626,Spanish (Mexico) <internationalization@lists.mayfirst.org>
+tuxpaint,594,540,113,149,65,38,612,1247,47.634322373696875,Español <ggabriel@internet.com.uy>
+wicd,851,0,287,180,0,74,964,1138,74.78031634446397,es_MX <LL@li.org>

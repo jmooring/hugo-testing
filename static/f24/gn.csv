@@ -1,0 +1,29 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-menus,71,0,62,33,0,15,77,133,53.383458646616546,
+libreoffice,598,0,3185,269,0,392,597,3783,15.807560137457044,LANGUAGE <LL@li.org>
+lxmenu-data,53,5,39,22,2,13,49,97,54.63917525773196,
+stellarium,48,0,23484,35,0,5772,50,23532,0.2039775624681285,Guarani <gn@li.org>
+sugar,2219,0,0,508,0,0,1926,2219,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,34,0,0,25,0,0,35,34,100.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-chat,78,0,59,33,0,48,68,137,56.934306569343065,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,0,20,0,0,74,65,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,30,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-read,38,0,76,8,0,34,30,114,33.33333333333333,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,0,109,0,0,169,156,100.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,1,157,0,1,77,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>

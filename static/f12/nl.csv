@@ -1,0 +1,861 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+CableSwig,1140,0,0,193,0,0,1185,1140,100.0,Dutch <vertaling@vrijschrift.org>
+Django,3236,0,0,1017,0,0,3212,3236,100.0,
+EekBoek,127,0,0,55,0,0,120,127,100.0,none
+GConf2,4044,0,0,485,0,0,4173,4044,100.0,Dutch <vertaling@vrijschrift.org>
+LabPlot,14953,1330,401,2968,112,49,15086,16684,89.6247902181731,Nederlands <kde-i18n-nl@kde.org.>
+Miro,2920,0,416,616,0,108,2924,3336,87.52997601918466,Dutch <nl@li.org>
+NetworkManager,1295,0,0,318,0,0,1270,1295,100.0,Dutch <vertaling@vrijschrift.org>
+NetworkManager-openvpn,168,0,0,49,0,0,146,168,100.0,Dutch <vertaling@vrijschrift.org>
+NetworkManager-pptp,110,0,0,39,0,0,101,110,100.0,Dutch <vertaling@vrijschrift.org>
+NetworkManager-vpnc,139,0,0,36,0,0,130,139,100.0,Dutch <vertaling@vrijschrift.org>
+PackageKit,1515,0,0,359,0,0,1562,1515,100.0,Dutch <nl@li.org>
+Terminal,1185,6,0,268,1,0,1028,1191,99.49622166246851,os-cillation <info@os-cillation.com>
+Thunar,3818,5,42,682,2,1,3736,3865,98.78395860284606,Dutch <xfce-i18n@xfce.org>
+WindowMaker,628,0,1,113,0,1,634,629,99.84101748807632,Dutch
+Zim,1247,0,0,346,0,0,1298,1247,100.0,
+a2ps,1384,128,0,175,4,0,1366,1512,91.53439153439153,Dutch <vertaling@vrijschrift.org>
+abrt,1588,0,0,278,0,0,1683,1588,100.0,Fedora
+agave,283,0,0,59,0,0,261,283,100.0,Dutch <vertaling@vrijschrift.org>
+ailurus,2060,0,5657,331,0,836,2086,7717,26.694311260852665,none
+alacarte,42,0,0,16,0,0,36,42,100.0,Dutch <vertaling@vrijschrift.org>
+alexandria,1165,4,12,303,2,1,1165,1181,98.64521591871296,Dutch
+alleyoop,351,0,0,89,0,0,345,351,100.0,Dutch <vertaling@vrijschrift.org>
+amarok,12039,0,0,2275,0,0,11861,12039,100.0,Dutch <kde-i18n-nl@kde.org>
+anaconda,8877,0,0,1112,0,0,9134,8877,100.0,nl <nl@li.org>
+anerley,5,0,0,5,0,0,6,5,100.0,LANGUAGE <LL@li.org>
+anjal,756,0,0,191,0,0,771,756,100.0,moblin2 <LL@li.org>
+anjuta,3643,1927,2335,1232,555,368,3385,7905,46.08475648323846,Dutch <vertaling@vrijschrift.org>
+aria2,373,183,4074,71,20,229,382,4630,8.056155507559396,Dutch <nl@li.org>
+ario,682,0,0,238,0,0,707,682,100.0,Dutch <nl@li.org>
+arm-gp2x-linux-binutils,863,0,0,148,0,0,912,863,100.0,Dutch <vertaling@nl.linux.org>
+arm-gp2x-linux-gcc,6002,11344,23697,1095,1792,3205,6184,41043,14.623687352289064,Dutch <vertaling@vrijschrift.org>
+arm-gp2x-linux-glibc,6308,10,8,1252,1,3,6103,6326,99.71546000632311,Dutch <vertaling@nl.linux.org>
+aspell,1726,0,0,293,0,0,1585,1726,100.0,Dutch <vertaling@vrijschrift.org>
+asunder,403,26,21,74,7,1,434,450,89.55555555555556,<LL@li.org>
+at-spi,20,0,0,4,0,0,14,20,100.0,Dutch
+atk,375,0,0,126,0,0,320,375,100.0,Dutch <vertaling@vrijschrift.org>
+atomix,146,0,0,59,0,0,163,146,100.0,Dutch <vertaling@nl.linux.org>
+attr,308,0,0,26,0,0,311,308,100.0,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+audacious,385,167,745,127,78,208,353,1297,29.683885890516574,(not responsive)
+audacity,9574,0,54,2161,0,5,9366,9628,99.43913585375986,Dutch <audacity-translation@lists.sourceforge.net>
+audex,2701,0,0,385,0,0,2807,2701,100.0,Dutch <>
+audit-viewer,611,0,0,185,0,0,651,611,100.0,nl <nl@li.org>
+aumix,219,0,21,72,0,20,237,240,91.25,Dutch <nl@li.org>
+authconfig,1357,0,0,242,0,0,1322,1357,100.0,nl <nl@li.org>
+avant-window-navigator,309,0,1346,74,0,205,308,1655,18.670694864048336,Dutch <nl@li.org>
+avogadro,4066,0,352,1465,0,115,4214,4418,92.03259393390675,Dutch <nl@li.org>
+avr-binutils,1917,0,0,333,0,0,1992,1917,100.0,Dutch <vertaling@vrijschrift.org>
+avr-gcc,5960,16836,31114,1088,2518,3739,6122,53910,11.055462808384345,Dutch <vertaling@vrijschrift.org>
+avr-gdb,1130,0,0,195,0,0,1168,1130,100.0,Dutch <vertaling@vrijschrift.org>
+awn-extras-applets,112,0,7116,34,0,889,117,7228,1.549529607083564,Dutch <vertaling@vrijschrift.org>
+axel,163,189,23,40,6,4,169,375,43.46666666666666,Dutch <nl@li.org>
+ayttm,2291,566,214,555,98,39,2298,3071,74.60110713122762,Nederlands <i18n@kde.nl>
+backintime,311,0,130,100,0,19,327,441,70.52154195011337,Dutch <nl@li.org>
+backup-manager,947,33,75,149,6,10,910,1055,89.76303317535546,DUTCH
+bakery,72,0,0,20,0,0,76,72,100.0,Dutch <vertaling@vrijschrift.org>
+balsa,4952,672,38,1206,143,4,4995,5662,87.46026139173438,Dutch <nl@li.org>
+bangarang,556,0,0,213,0,0,554,556,100.0,Dutch <kde-i18n-nl@kde.org>
+banshee,4409,358,682,1213,109,102,4118,5449,80.913929161314,Dutch <vertaling@vrijschrift.org>
+bash,9890,521,84,520,5,6,9987,10495,94.23535016674607,Dutch <vertaling@vrijschrift.org>
+basket,44,876,3661,21,236,437,50,4581,0.9604889762060685,Nederlands <Kde-i18n-nl@kde.org>
+bauble,49,0,1990,29,0,352,49,2039,2.4031387935262383,Dutch <nl@li.org>
+bazaar,899,91,5534,153,9,246,848,6524,13.779889638258739,Dutch <nl@li.org>
+beagle,1026,0,0,305,0,0,1022,1026,100.0,Dutch <vertaling@vrijschrift.org>
+bibletime,2063,6497,774,235,189,75,2171,9334,22.101992714806084,Deutsch
+bilbo,1315,0,52,298,0,14,1419,1367,96.19604974396488,Dutch <nl@li.org>
+binutils,1821,0,0,317,0,0,1898,1821,100.0,Dutch <vertaling@vrijschrift.org>
+bisho,131,0,0,22,0,0,128,131,100.0,LANGUAGE <LL@li.org>
+bison,1012,0,0,155,0,0,1097,1012,100.0,Dutch <vertaling@vrijschrift.org>
+bittorrent,3904,0,0,633,0,0,4005,3904,100.0,Dutch <translations (at) bittorrent (dot) com>
+blam,330,0,0,93,0,0,297,330,100.0,Dutch <vertaling@vrijschrift.org>
+blender,219,0,0,145,0,0,224,219,100.0,
+blobwars,1164,0,0,352,0,0,1090,1164,100.0,Dutch Localization <debian-l10n-dutch@lists.debian.org>
+bluefish,526,1370,986,273,613,170,540,2882,18.25121443442054,<nl@li.org>
+blueman,767,0,609,239,0,113,813,1376,55.741279069767444,Dutch <nl@li.org>
+bmpx,2234,182,392,544,39,42,2279,2808,79.55840455840456,Dutch <nl@li.org>
+bognor-regis,27,0,0,3,0,0,26,27,100.0,Dutch <nl@li.org>
+boinc-client,7593,0,0,1309,0,0,7757,7593,100.0,BOINC Development Team <boinc_loc@ssl.berkeley.edu>
+boswars,204,0,11,59,0,8,193,215,94.88372093023256,Dutch <foppe.benedictus@gmail.com>
+brasero,3881,1130,267,698,208,54,3719,5278,73.53164077302009,Dutch <vertaling@vrijschrift.org>
+bygfoot,3720,0,0,774,0,0,3826,3720,100.0,Dutch <tobedeprez@scarlet.be>
+byobu,177,0,0,44,0,0,170,177,100.0,Dutch <nl@li.org>
+bzflag,1898,0,0,335,0,0,1917,1898,100.0,
+cairo-clock,270,0,0,60,0,0,288,270,100.0,Harm Hilvers <harm@tweakers.net>
+calcurse,932,2884,698,191,102,81,850,4514,20.646876384581304,Jeremy Roon <p.roon@chello.nl>
+calibre,12429,0,718,1729,0,50,12922,13147,94.53867802540503,Dutch <nl@li.org>
+camorama,586,0,0,137,0,0,626,586,100.0,Dutch <nl@li.org>
+ccsm,544,0,5,133,0,2,559,549,99.08925318761385,Dutch <mailmelist@gmail.com>
+celestia,1894,0,0,790,0,0,1915,1894,100.0,Dutch <LL@li.org>
+centerim,2030,465,318,613,101,90,2040,2813,72.16494845360825,Nederlands <i18n@kde.nl>
+cheese,2805,0,0,200,0,0,2953,2805,100.0,Nederlands <vertaling@vrijschrift.org>
+chemtool,1132,0,52,227,0,34,1098,1184,95.6081081081081,NONE
+cherokee,6680,2,44,1149,1,29,6578,6726,99.31608682723758,none
+childsplay,1226,0,0,212,0,0,1209,1226,100.0,<en@li.org>
+chkconfig,448,0,0,90,0,0,476,448,100.0,Dutch <nippur@fedoraproject.org>
+choqok,877,137,349,221,56,70,918,1363,64.34336023477623,Dutch <kde-i18n-nl@kde.org>
+cinepaint,1993,1699,3713,742,699,494,1928,7405,26.914247130317353,Dutch <vertaling@nl.linux.org>
+clamtk,892,0,0,239,0,0,883,892,100.0,LANGUAGE <LL@li.org>
+claws-mail,14647,0,0,2952,0,0,14358,14647,100.0,Nederlands <nl@li.org>
+claws-mail-plugins,3364,0,74,647,0,2,3534,3438,97.84758580570099,nl@li.org>
+clementine,2111,0,0,638,0,0,2138,2111,100.0,Dutch <nl@li.org>
+clisp,8115,3389,2723,1196,365,257,7943,14227,57.03943206579039,Dutch <vertaling@vrijschrift.org>
+coccinella,4658,0,50,1290,0,1,4393,4708,98.93797790994053,Dutch
+common-lisp-controller,5,42,10,2,4,1,4,57,8.771929824561402,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+compat-gcc-32,4827,7225,22438,845,1225,3120,4994,34490,13.99536097419542,Dutch <vertaling@nl.linux.org>
+compat-gcc-34,3376,8297,19206,603,1408,2689,3449,30879,10.93299653486188,Dutch <vertaling@nl.linux.org>
+compat-libgda,2923,365,700,584,62,154,3043,3988,73.29488465396189,Dutch <vertaling@vrijschrift.org>
+compiz,2497,485,297,593,72,63,2591,3279,76.15126562976518,Dutch <nl@li.org>
+compiz-fusion,6622,821,963,1263,208,161,6857,8406,78.77706400190341,Dutch <nl@li.org>
+compiz-fusion-extras,6622,821,963,1263,208,161,6857,8406,78.77706400190341,Dutch <nl@li.org>
+compiz-fusion-unsupported,6622,821,963,1263,208,161,6857,8406,78.77706400190341,Dutch <nl@li.org>
+conglomerate,3180,272,2865,654,153,331,3153,6317,50.34035143264207,Dutch <vertaling@nl.linux.org>
+contacts,108,13,0,52,3,0,107,121,89.25619834710744,Dutch <nl@li.org>
+control-center,3184,0,0,768,0,0,3069,3184,100.0,Dutch <vertaling@vrijschrift.org>
+coreutils,17319,778,247,1375,38,19,17803,18344,94.41234191016136,Dutch <vertaling@vrijschrift.org>
+cpio,1880,38,38,284,2,7,1865,1956,96.11451942740287,Dutch <vertaling@vrijschrift.org>
+cracklib,93,0,0,15,0,0,93,93,100.0,Dutch <kde-i18n-nl@kde.org>
+cryptsetup-luks,1024,22,32,172,2,4,1025,1078,94.99072356215214,Dutch <vertaling@vrijschrift.org>
+cups,6981,0,366,1415,0,30,7104,7347,95.01837484687627,Apple Inc.
+dalston,266,0,0,56,0,0,228,266,100.0,Dutch
+darktable,2608,0,0,635,0,0,2818,2608,100.0,<g.siemerink@gmail.com>
+dasher,526,0,0,198,0,0,489,526,100.0,nl <vertaling@vrijschrift.org>
+dates,88,0,0,38,0,0,88,88,100.0,Dutch <vertaling@vrijschrift.org>
+dayplanner,1112,0,0,169,0,0,1124,1112,100.0,Dutch <vertaling@vrijschrift.org>
+dbmail,457,0,0,39,0,0,486,457,100.0,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+dc3dd,375,279,278,48,18,22,390,932,40.236051502145926,Dutch <vertaling@vrijschrift.org>
+dcraw,481,0,0,101,0,0,485,481,100.0,
+decibel-audio-player,1401,0,93,210,0,27,1450,1494,93.77510040160642,Dutch <nl@li.org>
+deluge,1998,0,0,689,0,0,2083,1998,100.0,Dutch <nl@li.org>
+deskbar-applet,1520,0,0,332,0,0,1513,1520,100.0,Dutch <vertaling@vrijschrift.org>
+desktop-effects,148,0,0,25,0,0,157,148,100.0,nl <nl@li.org>
+devhelp,360,0,0,91,0,0,325,360,100.0,Dutch <vertaling@vrijschrift.org>
+dia,4324,711,676,1611,276,159,4370,5711,75.7135352827876,Dutch <nl@li.org>
+dialog,25,0,0,23,0,0,23,25,100.0,Dutch <vertaling@vrijschrift.org>
+diction,457,0,0,73,0,0,491,457,100.0,Nederlands <hans.lodder@requirements-management.nl>
+digikam,23193,204,49,3494,38,5,23370,23446,98.92092467798345,Dutch <kde-i18n-nl@kde.org>
+doodle,732,0,0,112,0,0,746,732,100.0,Dutch <vertaling@vrijschrift.org>
+dpkg,7194,2233,592,946,212,85,7354,10019,71.8035732108993,Dutch <debian-l10n-dutch@debian.org>
+drgeo,1912,65,8,450,7,4,2024,1985,96.32241813602015,Dutch <vertaling@nl.linux.org>
+driconf,512,0,0,68,0,0,513,512,100.0,Dutch <vertaling@vrijschrift.org>
+drupal-cck,1806,0,392,288,0,49,1742,2198,82.16560509554141,Dutch <EMAIL@ADDRESS>
+drupal-date,651,8,0,94,7,0,659,659,98.78603945371776,
+dwdiff,403,0,0,74,0,0,425,403,100.0,
+e16,2785,0,0,520,0,0,2906,2785,100.0,Dutch <nl@li.org>
+e2fsprogs,5498,196,51,870,17,5,5892,5745,95.7006092254134,Dutch <vertaling@vrijschrift.org>
+easytag,3144,1007,1164,676,181,134,2899,5315,59.15333960489182,Dutch <nl@li.org>
+eel2,161,0,0,31,0,0,162,161,100.0,Dutch <vertaling@nl.linux.org>
+ejabberd,1503,0,0,377,0,0,1519,1503,100.0,
+eject,6,0,0,1,0,0,3,6,100.0,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+ekiga,4048,0,0,668,0,0,3948,4048,100.0,Dutch <vertaling@vrijschrift.org>
+elinks,359,1497,10378,171,474,980,363,12234,2.934444989373876,Dutch <vertaling@nl.linux.org>
+elisa-plugins-bad,343,0,0,98,0,0,349,343,100.0,The Elisa Team <elisa@lists.fluendo.com>
+emerald,774,0,0,215,0,0,811,774,100.0,Dutch <ixce@beryl-project.org>
+empathy,1866,0,0,468,0,0,1722,1866,100.0,Gnome-NL <gnome-nl-list@gnome.org>
+enigma,4242,216,837,556,18,83,4222,5295,80.11331444759206,Dutch <nl@li.org>
+enscript,1106,494,228,163,23,23,1130,1828,60.50328227571116,Dutch <nl@li.org>
+entertainer,726,0,15,184,0,2,638,741,97.97570850202429,Dutch <nl@li.org>
+eog,1255,0,0,285,0,0,1226,1255,100.0,Dutch <vertaling@vrijschrift.org>
+epiphany,9052,0,0,1213,0,0,9313,9052,100.0,Dutch <vertaling@vrijschrift.org>
+epiphany-extensions,1046,0,0,276,0,0,982,1046,100.0,nl <vertaling@vrijschrift.org>
+etckeeper,23,0,41,3,0,2,31,64,35.9375,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+etherape,732,172,205,191,41,42,732,1109,66.0054102795311,Dutch <nl@li.org>
+etoys,442,79,27168,117,28,4282,439,27689,1.5963017804904476,LANGUAGE <LL@li.org>
+evince,2223,31,770,428,2,47,2283,3024,73.51190476190477,Dutch <vertaling@vrijschrift.org>
+evolution,21372,468,479,4636,91,44,20614,22319,95.75697835924548,Dutch <vertaling@vrijschrift.org>
+evolution-data-server,5095,0,0,1041,0,0,5151,5095,100.0,Dutch <vertaling@vrijschrift.org>
+evolution-exchange,1347,0,0,197,0,0,1333,1347,100.0,Dutch <vertaling@vrijschrift.org>
+evolution-mapi,284,0,0,50,0,0,297,284,100.0,Dutch <vertaling@vrijschrift.org>
+exaile,2425,0,0,674,0,0,2437,2425,100.0,Dutch <nl@li.org>
+exo,1598,0,0,301,0,0,1469,1598,100.0,Dutch <vertaling@vrijschrift.org>
+expendable,0,0,226,0,0,92,0,226,0.0,nl <nl@li.org>
+f-spot,2038,612,577,550,162,51,2244,3227,63.154632785869225,Dutch <vertaling@vrijschrift.org>
+fakeroot,1533,0,2,96,0,1,1662,1535,99.86970684039088,Dutch <nl@li.org>
+fetchmail,4231,0,0,671,0,0,4163,4231,100.0,Dutch <vertaling@vrijschrift.org>
+file-roller,2999,0,3738,484,0,227,2891,6737,44.515362921181534,Dutch <nl@li.org>
+filezilla,9102,0,0,1540,0,0,9050,9102,100.0,<en@li.org>
+findutils,2082,23,0,216,3,0,1997,2105,98.90736342042756,Dutch <vertaling@vrijschrift.org>
+firstboot,654,0,0,54,0,0,683,654,100.0,Dutch <fedora-trans-list@redhat.com>
+flex,1069,0,0,157,0,0,1038,1069,100.0,Dutch <vertaling@vrijschrift.org>
+flumotion,1641,330,1682,405,84,234,1603,3653,44.92198193265809,
+fpc,3,0,0,3,0,0,3,3,100.0,
+freeciv,21632,13769,17976,3384,1264,613,21660,53377,40.52681866721622,Nederlands <nl@li.org>
+freedink,79,0,0,15,0,0,81,79,100.0,Dutch <vertaling@vrijschrift.org>
+freedink-data,13616,0,152,2191,0,29,15540,13768,98.8959907030796,XX <xx@li.org>
+frepple,1497,0,253,483,0,51,1444,1750,85.54285714285714,American English <kde-i18n-doc@kde.org>
+frescobaldi,2823,0,2,675,0,1,2672,2825,99.929203539823,Nederlands <kde-i18n-doc@kde.org>
+frozen-bubble,210,101,387,52,22,74,244,698,30.08595988538682,LANGUAGE <LL@li.org>
+fslint,388,0,0,132,0,0,403,388,100.0,Dutch <vertaling@nl.linux.org>
+fuse-encfs,1057,8,250,121,2,16,1133,1315,80.38022813688212,Dutch <nl@li.org>
+gajim,2750,3069,4745,617,718,671,2788,10564,26.031806134040135,none
+galeon,5996,0,0,1422,0,0,5793,5996,100.0,Dutch <vertaling@nl.linux.org>
+gallery2,16745,347,676,2394,58,77,17514,17768,94.24245835209365,Dutch <gallery-devel@lists.sourceforge.net>
+gambas,2345,0,86,742,0,7,2287,2431,96.46236116824353,LANGUAGE <LL@li.org>
+gambas2,2865,12,609,1009,7,182,2874,3486,82.18588640275387,LANGUAGE <LL@li.org>
+gammu,49,61,13163,44,14,1922,47,13273,0.3691704964966473,none
+ganyremote,503,0,15,141,0,7,509,518,97.1042471042471,Dutch
+gawk,2498,80,0,392,13,0,2507,2578,96.89681923972071,Dutch <vertaling@vrijschrift.org>
+gbrainy,2446,39,77,331,2,5,2528,2562,95.47228727556596,Dutch <vertaling@vrijschrift.org>
+gcalctool,1227,0,138,402,0,6,1189,1365,89.8901098901099,Dutch <vertaling@vrijschrift.org>
+gcc,5960,16836,31114,1088,2518,3739,6122,53910,11.055462808384345,Dutch <vertaling@vrijschrift.org>
+gccxml,1140,0,0,193,0,0,1185,1140,100.0,Dutch <vertaling@vrijschrift.org>
+gcl,1040,0,0,156,0,0,1094,1040,100.0,Dutch <vertaling@nl.linux.org>
+gcombust,2059,1471,479,331,86,43,2147,4009,51.35944125717137,Dutch <nl@li.org>
+gcompris,10319,0,0,1203,0,0,9800,10319,100.0,Dutch <vertaling@vrijschrift.org>
+gconf-editor,336,0,0,98,0,0,337,336,100.0,Dutch <vertaling@nl.linux.org>
+gdb,1392,0,0,236,0,0,1440,1392,100.0,Dutch <vertaling@vrijschrift.org>
+gdeskcal,19,0,55,19,0,13,19,74,25.675675675675674,LANGUAGE <LL@li.org>
+gdesklets,1404,0,0,191,0,0,1408,1404,100.0,Dutch <vertaling@vrijschrift.org>
+gdm,1314,0,0,236,0,0,1243,1314,100.0,Dutch <vertaling@vrijschrift.org>
+geany,4703,315,185,1037,50,29,4602,5203,90.39015952335191,Dutch <geany-i18n@uvena.de>
+geda-gaf,2513,142,197,611,31,38,2633,2852,88.11360448807855,gEDA developers <geda-dev@moira.seul.org>
+geda-gattrib,8,0,0,2,0,0,8,8,100.0,gEDA developers <geda-dev@moira.seul.org>
+geda-gschem,1698,0,10,516,0,1,1775,1708,99.41451990632318,geda-dev@moira.seul.org
+gedit,4948,0,0,1099,0,0,4660,4948,100.0,Dutch <vertaling@vrijschrift.org>
+gedit-plugins,159,0,0,43,0,0,154,159,100.0,Dutch <vertaling@vrijschrift.org>
+geeqie,2030,577,1007,836,218,192,2001,3614,56.170448256779196,Dutch <vertaling@vrijschrift.org>
+genius,3931,268,1139,667,18,82,4024,5338,73.64181341326339,Dutch <vertaling@nl.linux.org>
+gettext,2301,4,4539,317,1,366,2227,6844,33.62068965517241,Dutch <vertaling@vrijschrift.org>
+gftp,3096,230,49,560,70,4,2983,3375,91.73333333333333,Dutch <vertaling@vrijschrift.org>
+gg2,768,439,311,249,144,86,758,1518,50.59288537549407,Nederlands <i18n@kde.nl>
+ggz-base-libs,52,0,0,13,0,0,52,52,100.0,Dutch <vertaling@vrijschrift.org>
+ggz-gtk-client,665,0,0,244,0,0,657,665,100.0,Dutch <vertaling@vrijschrift.org>
+ghdl,6107,15051,28750,1111,2285,3675,6298,49908,12.236515187945821,Dutch <vertaling@vrijschrift.org>
+ghex,966,0,0,275,0,0,941,966,100.0,Dutch <vertaling@nl.linux.org>
+gimp,25985,0,0,6737,0,0,24836,25985,100.0,Dutch <nl@vrijschrift.org>
+gitg,1042,0,0,175,0,0,1069,1042,100.0,
+gkrellm,3325,0,458,502,0,48,3386,3783,87.89320644990748,none <none>
+gkrellm-volume,224,22,2,28,2,1,221,248,90.32258064516128,Nederlands <nl@li.org>
+glade2,5840,0,0,1300,0,0,5707,5840,100.0,Dutch <vertaling@nl.linux.org>
+glade3,669,1103,1554,337,295,254,636,3326,20.11425135297655,Dutch <vertaling@vrijschrift.org>
+glib2,2173,175,105,346,34,20,2367,2453,88.58540562576437,Dutch <vertaling@vrijschrift.org>
+glibc,7409,0,0,1353,0,0,7540,7409,100.0,Dutch <vertaling@vrijschrift.org>
+gliv,685,156,167,174,45,36,648,1008,67.95634920634922,Dutch <vertaling@nl.linux.org>
+glom,275,0,0,60,0,0,259,275,100.0,Dutch <vertaling@vrijschrift.org>
+glunarclock,226,0,0,70,0,0,208,226,100.0,Dutch <vertaling@vrijschrift.org>
+gmpc,25,0,0,13,0,0,24,25,100.0,Dutch <nl@li.org>
+gnokii,43,547,4736,18,159,1005,48,5326,0.8073601201652273,gnokii
+gnomad2,693,4,0,170,1,0,705,697,99.4261119081779,Dutch <nl@li.org>
+gnome-activity-journal,64,0,107,21,0,16,64,171,37.42690058479532,
+gnome-applet-bubblemon,34,0,4,10,0,4,34,38,89.47368421052632,Dutch <xxx@xxx>
+gnome-applet-music,634,0,0,120,0,0,678,634,100.0,Dutch <nl@li.org>
+gnome-applet-netspeed,144,0,0,53,0,0,144,144,100.0,Dutch <nl@li.org>
+gnome-applet-remmina,136,0,0,12,0,0,149,136,100.0,Dutch <nl@li.org>
+gnome-applet-timer,283,0,0,71,0,0,321,283,100.0,Dutch <nl@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,20,29,75.86206896551724,Dutch
+gnome-applets,8991,26,519,1286,1,39,9008,9536,94.28481543624162,Dutch <nl@li.org>
+gnome-backgrounds,23,0,0,17,0,0,22,23,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-bluetooth,573,0,0,159,0,0,583,573,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-commander,1052,595,6249,389,229,805,991,7896,13.323201621073963,Dutch <vertaling@vrijschrift.org>
+gnome-desktop,349,0,0,52,0,0,374,349,100.0,Dutch <vertaling@nl.linux.org>
+gnome-do,470,0,0,119,0,0,476,470,100.0,Dutch <nl@li.org>
+gnome-do-plugins,799,0,1524,214,0,368,845,2323,34.39517864829961,Dutch <nl@li.org>
+gnome-doc-utils,238,0,0,92,0,0,242,238,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-games,8376,0,0,1919,0,0,8198,8376,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-globalmenu,199,0,126,45,0,11,212,325,61.23076923076923,Dutch <nl@li.org>
+gnome-hearts,407,2,0,105,1,0,372,409,99.51100244498777,Dutch <nl@li.org>
+gnome-icon-theme,51,0,0,46,0,0,50,51,100.0,Dutch <vertaling@nl.linux.org>
+gnome-keyring,1823,0,0,276,0,0,1800,1823,100.0,Dutch <vertaling@nl.linux.org>
+gnome-libs,1034,4,47,383,4,8,1025,1085,95.2995391705069,Dutch <nl@li.org>
+gnome-lirc-properties,286,0,374,180,0,67,273,660,43.333333333333336,Dutch <vertaling@vrijschrift.org>
+gnome-mag,298,0,0,42,0,0,260,298,100.0,Dutch <vertaling@nl.linux.org>
+gnome-media,2151,0,0,596,0,0,2038,2151,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-menus,165,0,0,58,0,0,150,165,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-mime-data,887,0,0,362,0,0,806,887,100.0,Dutch <vertaling@nl.linux.org>
+gnome-mud,1309,0,0,275,0,0,1292,1309,100.0,Dutch <vertaling@nl.linux.org>
+gnome-netstatus,1183,0,42,177,0,6,1225,1225,96.57142857142857,LANGUAGE <LL@li.org>
+gnome-nettool,523,0,0,206,0,0,488,523,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-packagekit,133,3047,2070,70,615,167,147,5250,2.533333333333333,Dutch <vertaling@vrijschrift.org>
+gnome-panel,5163,56,200,688,6,9,5199,5419,95.2758811588854,
+gnome-phone-manager,513,0,0,90,0,0,513,513,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-pilot,1644,0,0,322,0,0,1774,1644,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-pilot-conduits,209,0,0,50,0,0,190,209,100.0,Dutch <vertaling@nl.linux.org>
+gnome-power-manager,2491,221,74,378,39,10,2525,2786,89.4113424264178,Nederlands <vertaling@vrijschrift.org>
+gnome-schedule,516,358,282,129,61,21,511,1156,44.636678200692046,Dutch <vertaling@vrijschrift.org>
+gnome-screensaver,975,0,0,154,0,0,954,975,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-session,679,0,0,113,0,0,652,679,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-settings-daemon,1313,0,0,218,0,0,1270,1313,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-shell,90,0,0,32,0,0,87,90,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-specimen,106,0,0,29,0,0,96,106,100.0,Gnome-NL <gnome-nl-list@gnome.org>
+gnome-system-monitor,918,0,0,239,0,0,897,918,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-terminal,3885,0,0,431,0,0,3608,3885,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-themes,109,0,0,30,0,0,109,109,100.0,Dutch <vertaling@nl.linux.org>
+gnome-user-share,289,0,0,47,0,0,278,289,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-utils,4314,0,0,726,0,0,4147,4314,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-vfs2,1508,0,0,301,0,0,1447,1508,100.0,Dutch <vertaling@vrijschrift.org>
+gnomebaker,433,313,1607,153,69,356,429,2353,18.402039949001274,Dutch <nl@li.org>
+gnomeradio,401,0,0,90,0,0,391,401,100.0,Dutch <vertaling@vrijschrift.org>
+gnotime,118,324,1566,62,131,236,115,2008,5.876494023904383,"Dutch <NL@li.org>, Dennis Smit <area101.penguin.nl>"
+gnubiff,1181,0,0,222,0,0,1167,1181,100.0,Dutch <vertaling@vrijschrift.org>
+gnubik,167,37,13,52,3,3,148,217,76.95852534562212,Dutch <gnubik-nl@coolpython.nl>
+gnue-common,1454,208,470,204,23,46,1496,2132,68.19887429643528,<en@li.org>
+gnumeric,39493,5708,1173,3403,220,131,39038,46374,85.16194419286668,Dutch <vertaling@vrijschrift.org>
+gnupg,7973,543,107,1206,76,11,8274,8623,92.46202017859214,none
+gnutls,1045,0,16,245,0,2,956,1061,98.49198868991517,Dutch <vertaling@vrijschrift.org>
+gobby,764,3,109,173,1,10,763,876,87.21461187214612,Dutch <nl@li.org>
+goffice,2149,500,1341,844,199,322,2048,3990,53.85964912280702,Dutch <vertaling@vrijschrift.org>
+gok,1960,0,0,443,0,0,1933,1960,100.0,Dutch <vertaling@vrijschrift.org>
+googsystray,533,7,51,143,2,13,545,591,90.18612521150592,Dutch
+gossip,2560,0,0,507,0,0,2324,2560,100.0,Gnome-NL <gnome-nl-list@gnome.org>
+gourmet,1323,721,5250,361,224,1151,1315,7294,18.13819577735125,Dutch (Netherlands) <nl_NL@li.org>
+gpa,1281,333,428,233,90,48,1274,2042,62.732615083251716,DUTCH <nl@li.org>
+gparted,1304,0,0,285,0,0,1373,1304,100.0,Dutch <vertaling@vrijschrift.org>
+gphoto2,1373,101,12,278,17,1,1366,1486,92.3956931359354,Dutch <vertaling@vrijschrift.org>
+gpicview,219,0,0,44,0,0,219,219,100.0,Dutch
+gpodder,1091,1062,266,287,277,67,1122,2419,45.101281521289785,Nederlands <nl@li.org>
+gpsdrive,2311,0,0,448,0,0,2183,2311,100.0,Dutch <vertaling@vrijschrift.org>
+gqview,1719,2,0,668,1,0,1723,1721,99.88378849506101,Dutch <vertaling@vrijschrift.org>
+gramps,25851,0,0,4576,0,0,25923,25851,100.0,nederlands <frederik.de.richter@googlemail.com>
+grep,827,0,0,90,0,0,853,827,100.0,Dutch <vertaling@vrijschrift.org>
+greylistd,350,0,0,14,0,0,369,350,100.0,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+griffith,1665,27,184,394,4,53,1643,1876,88.75266524520255,Dutch <vertaling@vrijschrift.org>
+grisbi,2208,3316,5669,817,718,486,2305,11193,19.72661484856607,Dutch <en@li.org>
+grsync,773,0,0,122,0,0,710,773,100.0,
+grub2,222,351,1114,23,23,224,229,1687,13.159454653230588,Dutch <vertaling@vrijschrift.org>
+gscan2pdf,1368,0,0,429,0,0,1439,1368,100.0,Dutch <nl@li.org>
+gstreamer,1633,39,31,309,7,2,1702,1703,95.88960657662949,Dutch <vertaling@vrijschrift.org>
+gstreamer-plugins-bad-free,72,0,0,12,0,0,79,72,100.0,Dutch <vertaling@vrijschrift.org>
+gstreamer-plugins-base,646,21,0,133,3,0,602,667,96.85157421289355,Dutch <vertaling@vrijschrift.org>
+gstreamer-plugins-good,747,3,0,179,1,0,725,750,99.6,Dutch <vertaling@vrijschrift.org>
+gtg,1389,0,0,200,0,0,1464,1389,100.0,Dutch <nl@li.org>
+gthumb,2578,0,0,870,0,0,2470,2578,100.0,Dutch <nl@li.org>
+gtk+,195,3,4,99,2,4,194,202,96.53465346534654,dutch <nl@li.org>
+gtk-gnutella,9122,1730,2073,1467,372,324,9874,12925,70.57640232108318,Dutch <jeroen@asselman.com>
+gtk-recordmydesktop,816,0,0,104,0,0,786,816,100.0,Dutch
+gtk2,13088,189,81,2685,36,12,12436,13358,97.97873933223536,Dutch <vertaling@vrijschrift.org>
+gtk2-engines,119,0,0,47,0,0,112,119,100.0,Dutch <vertaling@vrijschrift.org>
+gtkhtml3,1261,0,0,560,0,0,1140,1261,100.0,Dutch <vertaling@vrijschrift.org>
+gtklp,591,0,0,211,0,0,574,591,100.0,Dutch
+gtksourceview,849,0,0,342,0,0,803,849,100.0,Dutch <vertaling@vrijschrift.org>
+gtksourceview2,1099,0,0,438,0,0,966,1099,100.0,Dutch <vertaling@vrijschrift.org>
+gtkspell,11,0,0,5,0,0,10,11,100.0,Dutch <vertaling@vrijschrift.org>
+gtranslator,1230,0,0,333,0,0,1199,1230,100.0,Dutch <vertaling@nl.linux.org>
+gtweakui,138,0,114,37,0,42,151,252,54.761904761904766,Dutch <nl@li.org>
+gtypist,285,151,74,57,13,10,292,510,55.88235294117647,Dutch (Nederlands) <nl@li.org>
+gucharmap,803,0,0,298,0,0,762,803,100.0,Dutch <vertaling@vrijschrift.org>
+gutenprint,8795,367,187,2346,128,60,8544,9349,94.07423253823939,Dutch <vertaling@vrijschrift.org>
+gvfs,1341,0,0,324,0,0,1304,1341,100.0,Dutch <vertaling@vrijschrift.org>
+gwget,525,0,0,175,0,0,546,525,100.0,Dutch <vertaling@vrijschrift.org>
+gwibber,41,0,4,22,0,2,38,45,91.11111111111111,Dutch <nl@li.org>
+hamster-applet,254,0,0,101,0,0,266,254,100.0,Dutch <vertaling@vrijschrift.org>
+hello,174,0,0,27,0,0,194,174,100.0,Dutch <vertaling@vrijschrift.org>
+hercules,31,1627,7361,7,275,1045,32,9019,0.34371881583324093,none <test@li.org>
+homebank,1375,0,132,498,0,36,1305,1507,91.24087591240875,Dutch <vertaling@nl.linux.org>
+horde,8345,0,0,2103,0,0,8401,8345,100.0,Dutch <i18n@lists.horde.org>
+hornsey,71,4,20,23,3,15,75,95,74.73684210526315,Dutch <nl@li.org>
+hugin,5329,0,0,1044,0,0,5195,5329,100.0,American English <kde-i18n-doc@lists.kde.org>
+hwbrowser,116,0,0,51,0,0,107,116,100.0,Dutch <vertaling@nl.linux.org>
+hydrogen,381,1658,5730,52,68,248,308,7769,4.9041060625563135,
+icewm,805,571,0,231,16,0,822,1376,58.502906976744185,Dutch
+im-chooser,152,0,0,34,0,0,177,152,100.0,Fedora
+imp,6483,0,0,1312,0,0,6333,6483,100.0,Dutch <i18n@lists.horde.org>
+imsettings,0,77,902,0,13,142,0,979,0.0,Dutch <fedora-trans-list@redhat.com>
+indent,258,14,0,52,3,0,275,272,94.85294117647058,Dutch <vertaling@vrijschrift.org>
+ingo,885,0,0,237,0,0,914,885,100.0,i18n@lists.horde.org
+initscripts,4243,0,0,1032,0,0,4694,4243,100.0,nl <nl@li.org>
+inkscape,24024,7,4,4976,3,1,23950,24035,99.95423340961098,Dutch <vertaling@vrijschrift.org>
+insight,1209,0,0,209,0,0,1257,1209,100.0,Dutch <vertaling@vrijschrift.org>
+iok,142,0,0,36,0,0,144,142,100.0,nl <nl@li.org>
+iso-codes,9768,4422,5185,6480,3701,3265,9261,19375,50.41548387096773,Dutch <vertaling@vrijschrift.org>
+isomaster,674,0,0,107,0,0,699,674,100.0,
+istanbul,350,0,0,45,0,0,314,350,100.0,Gnome-NL <gnome-nl-list@gnome.org>
+jmol,2162,0,4,770,0,2,2117,2166,99.81532779316713,Dutch <jmol-developer@lists.sf.net>
+jokosher,1504,0,555,296,0,113,1484,2059,73.04516755706653,Dutch <nl@li.org>
+jpilot,1278,255,941,461,62,142,1280,2474,51.65723524656427,Dutch <vertaling@vrijschrift.org>
+jpoker,256,20,3,111,10,3,258,279,91.75627240143369,<pokersource-users@gna.org>
+jwhois,401,11,28,65,2,4,391,440,91.13636363636364,Dutch <vertaling@nl.linux.org>
+k3b,20621,0,0,2530,0,0,20129,20621,100.0,Nederlands <kde-i18n-nl@kde.org>
+k3guitune,206,2,4,86,2,4,208,212,97.16981132075472,Nederlands <nl@li.org>
+kBuild,493,9,3,79,1,1,476,505,97.62376237623762,Dutch <vertaling@vrijschrift.org>
+kaffeine,495,4,8,235,2,1,464,507,97.63313609467455,Dutch <kde-i18n-nl@kde.org>
+kanyremote,498,0,0,140,0,0,504,498,100.0,Dutch
+kazehakase,1835,18,5,569,5,2,1810,1858,98.76210979547902,Dutch
+kbd,2054,0,0,273,0,0,2055,2054,100.0,Dutch <vertaling@vrijschrift.org>
+kbluetooth,56,0,285,44,0,59,56,341,16.422287390029325,Dutch <kde-i18n-nl@kde.org>
+kchmviewer,962,10,0,206,1,0,893,972,98.97119341563786,Dutch <kde-i18n-doc@lists.kde.org>
+kcm-gtk,124,0,0,21,0,0,107,124,100.0,Dutch <nl@li.org>
+kcm_touchpad,316,0,0,80,0,0,303,316,100.0,Nederlands <kde-i18n-doc@kde.org>
+kcoloredit,278,0,0,95,0,0,253,278,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-partitionmanager,2732,0,0,453,0,0,2844,2732,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-plasma-networkmanagement,2120,0,0,720,0,0,1992,2120,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-plasma-quickaccess,71,0,1,30,0,1,64,72,98.61111111111111,Dutch <nl@li.org>
+kdesvn,3121,515,476,600,111,60,3339,4112,75.89980544747081,Nederlands
+kdetv,2206,0,0,483,0,0,2099,2206,100.0,Dutch <kde-i18n-nl@kde.org>
+kdevplatform,4726,0,928,1145,0,149,4913,5654,83.58684117438982,Dutch <kde-i18n-nl@kde.org>
+kdiff3,3528,0,0,635,0,0,3727,3528,100.0,Dutch <kde-i18n-nl@kde.org>
+kdissert,2027,0,0,282,0,0,2018,2027,100.0,Nederlands <kde-i18n-nl@kde.org>
+kerry,702,0,0,183,0,0,679,702,100.0,Dutch <kde-i18n-nl@kde.org>
+keurocalc,3042,0,0,342,0,0,3139,3042,100.0,Dutch <kde-i18n-nl@kde.org>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kflickr,114,0,185,24,0,56,111,299,38.12709030100335,Dutch <nl@li.org>
+kftpgrabber,2207,13,17,572,4,4,2192,2237,98.65891819400984,Dutch <kde-i18n-nl@kde.org>
+kgrab,370,0,0,53,0,0,399,370,100.0,Dutch <kde-i18n-doc@kde.org>
+kicad,11630,0,0,2964,0,0,11225,11630,100.0,KiCad Team <xor.gate.engineering@gmail.com>
+kiconedit,726,0,0,155,0,0,761,726,100.0,Dutch <kde-i18n-nl@kde.org>
+kid3,997,0,300,453,0,82,979,1297,76.86969930609098,
+kile,10924,18,10,1863,4,2,10584,10952,99.74433893352813,Dutch <kde-i18n-nl@kde.org>
+kio_gopher,17,0,0,5,0,0,20,17,100.0,Dutch <kde-i18n-nl@kde.org>
+kio_sysinfo,168,0,0,72,0,0,151,168,100.0,Dutch <kde-i18n-doc@kde.org>
+kiosktool,2289,0,0,238,0,0,2234,2289,100.0,Nederlands <kde-i18n-nl@kde.org>
+kipi-plugins,15091,40,197,2932,7,40,15349,15328,98.45381002087683,Dutch <kde-i18n-nl@kde.org>
+klavaro,1759,102,17,174,42,4,1794,1878,93.66347177848775,Dutch <vertaling@vrijschrift.org>
+kmess,7369,33,0,1145,4,0,7063,7402,99.55417454741962,<en@li.org>
+kmid,535,0,0,214,0,0,477,535,100.0,Dutch <kde-i18n-nl@kde.org>
+kmplayer,1248,0,0,370,0,0,1259,1248,100.0,Dutch <kde-i18n-nl@kde.org>
+kmymoney2,16796,0,0,2663,0,0,16970,16796,100.0,Nederlands <kde-i18n-doc@kde.org>
+knemo,1103,0,0,307,0,0,1098,1103,100.0,Dutch <kde-i18n-nl@kde.org>
+knetstats,119,0,0,53,0,0,118,119,100.0,Dutch <kde-i18n-nl@kde.org>
+komparator,2587,0,0,267,0,0,2650,2587,100.0,Nederlands <kde-i18n-nl@kde.org>
+konq-plugins,1692,0,0,546,0,0,1694,1692,100.0,Dutch <kde-i18n-nl@kde.org>
+konversation,9840,4,0,1516,1,0,9662,9844,99.95936611133686,Dutch <kde-i18n-nl@kde.org>
+kopete-cryptography,408,0,0,41,0,0,443,408,100.0,Dutch <kde-i18n-nl@kde.org>
+kpackagekit,1273,1628,656,263,328,71,1309,3557,35.78858588698341,Dutch <kde-i18n-nl@kde.org>
+kphotoalbum,6333,0,0,763,0,0,6185,6333,100.0,Dutch <kde-i18n-nl@kde.org>
+kpilot,7156,0,0,861,0,0,7304,7156,100.0,Dutch <kde-i18n-nl@kde.org>
+krecipes,3087,0,0,568,0,0,3057,3087,100.0,Dutch <kde-i18n-nl@kde.org>
+krename,1488,80,35,310,12,5,1442,1603,92.82595134123518,<en@li.org>
+kronolith,2317,0,0,567,0,0,2276,2317,100.0,Dutch <i18n@lists.horde.org>
+krusader,7580,0,0,1671,0,0,7795,7580,100.0,Dutch <kde-i18n-nl@kde.org>
+ksensors,95,0,65,69,0,26,97,160,59.375,Nederlands <i18n@kde.nl>
+kshutdown,72,225,479,26,73,86,78,776,9.278350515463918,Nederlands <kde-i18n-nl@kde.nl>
+ksig,85,0,0,26,0,0,78,85,100.0,Dutch <kde-i18n-nl@kde.org>
+kst,7442,4,0,1811,1,0,7302,7446,99.94627988181574,Dutch <kde-i18n-nl@kde.org>
+ktorrent,7562,0,0,1329,0,0,7541,7562,100.0,Dutch <kde-i18n-nl@kde.org>
+kvirc,9048,367,238,1719,41,43,9242,9653,93.73251838806588,Nederlands <kvirc-subscribe@lists.omnikron.net>
+kwebkitpart,477,0,0,124,0,0,464,477,100.0,Dutch <kde-i18n-nl@kde.org>
+labyrinth,137,9,0,37,5,0,135,146,93.83561643835617,Dutch <nl@li.org>
+lazarus,10862,0,4989,2740,0,1179,10943,15851,68.5256450697117,
+leafpad,125,0,0,68,0,0,140,125,100.0,Dutch <vertaling@vrijschrift.org>
+lekhonee-gnome,20,20,60,13,9,15,21,100,20.0,nl <nl@li.org>
+libbonobo,547,0,0,108,0,0,554,547,100.0,Dutch <vertaling@vrijschrift.org>
+libbonoboui,368,0,0,115,0,0,377,368,100.0,Dutch <vertaling@vrijschrift.org>
+libexif,6968,0,0,1197,0,0,6277,6968,100.0,Dutch <vertaling@vrijschrift.org>
+libextractor,777,5,23,368,3,12,722,805,96.52173913043478,Dutch <vertaling@vrijschrift.org>
+libgda,294,1793,3150,95,361,507,310,5237,5.613901088409395,Dutch <vertaling@vrijschrift.org>
+libgdl,613,0,0,98,0,0,581,613,100.0,Dutch <vertaling@nl.linux.org>
+libgeda,939,23,30,123,3,6,991,992,94.65725806451613,geda-dev <geda-dev@seul.org>
+libgnome,1772,0,0,273,0,0,1647,1772,100.0,Dutch <vertaling@vrijschrift.org>
+libgnomecanvas,378,0,0,95,0,0,329,378,100.0,Dutch <nl@li.org>
+libgnomecups,11,0,0,10,0,0,11,11,100.0,Dutch <vertaling@vrijschrift.org>
+libgnomekbd,235,0,0,49,0,0,212,235,100.0,Dutch <vertaling@vrijschrift.org>
+libgnomeprint22,168,0,0,98,0,0,164,168,100.0,Dutch <vertaling@vrijschrift.org>
+libgnomeprintui22,481,0,0,154,0,0,436,481,100.0,Dutch <vertaling@vrijschrift.org>
+libgnomeui,1309,0,0,334,0,0,1203,1309,100.0,Dutch <vertaling@vrijschrift.org>
+libgphoto2,7583,1356,1293,1496,290,264,7289,10232,74.1106333072713,Dutch <vertaling@vrijschrift.org>
+libgsasl,518,0,0,60,0,0,459,518,100.0,Dutch <vertaling@vrijschrift.org>
+libgtop2,126,0,0,40,0,0,124,126,100.0,Dutch <vertaling@vrijschrift.org>
+libgweather,6104,0,0,4561,0,0,5983,6104,100.0,Dutch <vertaling@vrijschrift.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libidn,408,5,0,57,1,0,424,413,98.78934624697337,Dutch <vertaling@vrijschrift.org>
+libkexif,25,0,0,14,0,0,21,25,100.0,Dutch <kde-i18n-nl@kde.org>
+libktorrent,417,0,0,92,0,0,483,417,100.0,Dutch <kde-i18n-nl@kde.org>
+liblicense,45,0,21,38,0,12,42,66,68.18181818181817,LANGUAGE <LL@li.org>
+libmx,40,0,0,17,0,0,40,40,100.0,LANGUAGE <LL@li.org>
+libpaper,73,0,0,46,0,0,147,73,100.0,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+libqalculate,6428,0,336,1923,0,336,6391,6764,95.03252513305736,<kde-i18n-nl@kde.org>
+libsmbios,0,0,1421,0,0,265,0,1421,0.0,Dutch
+libuser,1106,8,0,232,1,0,1122,1114,99.2818671454219,nl <fedora-trans-list@redhat.com>
+libvirt,474,7526,12183,147,1399,1953,457,20183,2.348511123222514,Dutch <vertaling@nl.linux.org>
+libwnck,1124,0,0,241,0,0,1022,1124,100.0,Dutch <vertaling@vrijschrift.org>
+libxfce4menu,31,0,0,5,0,0,35,31,100.0,Dutch
+libxfce4util,245,179,0,6,1,0,241,424,57.78301886792453,Dutch <vertaling@vrijschrift.org>
+libxfcegui4,203,17,14,54,6,1,181,234,86.75213675213675,Dutch <vertaling@vrijschrift.org>
+liferea,2411,0,0,531,0,0,2235,2411,100.0,Dutch <vertaling@vrijschrift.org>
+lilypond,2611,0,0,473,0,0,2678,2611,100.0,Dutch <vertaling@vrijschrift.org>
+lincity-ng,1923,0,0,457,0,0,1929,1923,100.0,Nederlands
+linphone,773,20,5,201,7,2,782,798,96.8671679197995,Nederlands <vertaling@nl.linux.org>
+linux_logo,11,0,34,11,0,4,11,45,24.444444444444443,LANGUAGE <LL@li.org>
+listen,1745,1,37,540,1,8,1714,1783,97.86876051598429,French <traduc@traduc.org>
+liveusb-creator,480,0,0,52,0,0,486,480,100.0,Dutch <nl@li.org>
+lordsawar,1618,4,1556,453,3,352,1572,3178,50.91252359974827,Dutch <vertaling@vrijschrift.org>
+lxappearance,96,0,0,39,0,0,100,96,100.0,LANGUAGE <LL@li.org>
+lxdm,10,0,1,9,0,1,11,11,90.9090909090909,Dutch
+lxinput,60,0,0,21,0,0,50,60,100.0,LANGUAGE <LL@li.org>
+lxlauncher,51,0,0,11,0,0,48,51,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,85,97,100.0,Dutch <vertaling@vrijschrift.org>
+lxmusic,196,0,0,87,0,0,187,196,100.0,LANGUAGE <LL@li.org>
+lxpanel,895,0,0,299,0,0,868,895,100.0,LANGUAGE <LL@li.org>
+lxrandr,102,0,0,22,0,0,100,102,100.0,LANGUAGE <LL@li.org>
+lxsession,37,0,0,15,0,0,34,37,100.0,LANGUAGE <LL@li.org>
+lxsession-edit,58,0,0,10,0,0,64,58,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,39,43,100.0,LANGUAGE <LL@li.org>
+lxtask,122,0,0,48,0,0,127,122,100.0,Dutch <vertaling@vrijschrift.org>
+lxterminal,119,0,10,75,0,1,122,129,92.24806201550388,LANGUAGE <LL@li.org>
+lynx,7842,18,71,1188,5,7,8079,7931,98.87782120791829,Dutch <vertaling@vrijschrift.org>
+mail-notification,1866,33,9,349,4,1,2048,1908,97.79874213836479,Marcel J. Zwiebel <mj.zwiebel@nonux.nl>
+mailman,14112,0,7792,1059,0,296,14429,21904,64.42658875091307,Dutch <info@janveuger.com>
+mailody,139,294,350,68,66,54,143,783,17.752234993614305,Dutch <kde-i18n-nl@kde.org>
+make,1869,87,41,378,12,4,1914,1997,93.59038557836755,Dutch <vertaling@vrijschrift.org>
+manaworld,283,34,2167,133,19,554,308,2484,11.392914653784219,Dutch
+marlin,1099,192,161,355,46,47,1077,1452,75.68870523415978,Dutch <vertaling@nl.linux.org>
+me-tv,1393,0,568,194,0,97,1328,1961,71.03518612952575,Dutch <nl@li.org>
+meld,883,0,0,227,0,0,881,883,100.0,Dutch <vertaling@nl.li.org>
+mesa,258,0,0,49,0,0,270,258,100.0,Dutch <vertaling@nl.linux.org>
+mesa-libGLw,258,0,0,49,0,0,270,258,100.0,Dutch <vertaling@nl.linux.org>
+metacity,3843,0,0,407,0,0,3614,3843,100.0,Dutch <vertaling@vrijschrift.org>
+midori,1038,463,715,305,125,140,961,2216,46.84115523465704,Dutch
+mingw32-atk,375,0,0,126,0,0,320,375,100.0,Dutch <vertaling@vrijschrift.org>
+mingw32-binutils,1821,0,0,317,0,0,1898,1821,100.0,Dutch <vertaling@vrijschrift.org>
+mingw32-gcc,5960,16836,31114,1088,2518,3739,6122,53910,11.055462808384345,Dutch <vertaling@vrijschrift.org>
+mingw32-gettext,2301,4,4539,317,1,366,2227,6844,33.62068965517241,Dutch <vertaling@vrijschrift.org>
+mingw32-glib2,2183,175,105,349,34,20,2377,2463,88.63174989849777,Dutch <vertaling@vrijschrift.org>
+mingw32-gnutls,943,0,0,221,0,0,858,943,100.0,Dutch <vertaling@vrijschrift.org>
+mingw32-gtk2,13088,182,81,2685,34,12,12436,13351,98.03011010411205,Dutch <vertaling@vrijschrift.org>
+mingw32-gtkhtml3,1261,0,0,560,0,0,1140,1261,100.0,Dutch <vertaling@vrijschrift.org>
+mingw32-iconv,303,0,33,45,0,1,318,336,90.17857142857143,Dutch <vertaling@vrijschrift.org>
+mingw32-libidn,386,27,0,55,2,0,391,413,93.46246973365618,Dutch <vertaling@vrijschrift.org>
+mirage,802,15,0,240,5,0,796,817,98.1640146878825,
+mlocate,563,0,0,50,0,0,561,563,100.0,Dutch <nippur@fedoraproject.org>
+moblin-panel-applications,5,0,0,4,0,0,5,5,100.0,Dutch <nl@li.org>
+moblin-panel-media,55,0,0,14,0,0,49,55,100.0,Dutch
+moblin-panel-myzone,66,0,0,8,0,0,58,66,100.0,Dutch
+moblin-panel-pasteboard,22,0,0,8,0,0,22,22,100.0,Dutch
+moblin-panel-people,68,0,0,14,0,0,68,68,100.0,Dutch
+moblin-panel-status,76,0,0,17,0,0,79,76,100.0,Dutch
+moin,4524,2,0,735,1,0,4657,4526,99.95581087052585,
+mojito,136,0,0,8,0,0,141,136,100.0,Dutch
+monkey-bubble,309,0,0,86,0,0,328,309,100.0,Dutch <verltaling@nl.linux.org>
+monodevelop,8271,3568,3780,1918,1085,577,8353,15619,52.95473461809335,Dutch
+monsoon,310,26,31,159,13,16,304,367,84.46866485013625,Dutch <vertaling@vrijschrift.org>
+mousepad,135,0,0,64,0,0,135,135,100.0,Dutch <vertaling@vrijschrift.org>
+mousetweaks,638,0,0,67,0,0,575,638,100.0,Dutch <vertaling@nl.gnome.org>
+msp430-binutils,1733,0,0,306,0,0,1808,1733,100.0,Dutch <vertaling@vrijschrift.org>
+msp430-gcc,4827,7225,22438,845,1225,3120,4994,34490,13.99536097419542,Dutch <vertaling@nl.linux.org>
+mtpaint,3038,0,27,913,0,9,2983,3065,99.11908646003262,
+muine,537,0,0,136,0,0,528,537,100.0,nl <vertaling@vrijschrift.org>
+multimedia-menus,56,0,0,22,0,0,61,56,100.0,Fedora
+mutt,5293,29,31,1101,6,7,5508,5353,98.8791331963385,René Clerc <rene@clerc.nl>
+mutter,3864,0,0,413,0,0,3644,3864,100.0,Dutch <vertaling@vrijschrift.org>
+mutter-moblin,88,0,0,29,0,0,83,88,100.0,Dutch
+nano,2249,0,0,362,0,0,2039,2249,100.0,Dutch <vertaling@vrijschrift.org>
+nautilus,8420,66,134,1372,12,4,8245,8620,97.6798143851508,Dutch <vertaling@nl.linux.org>
+nautilus-actions,1132,320,102,135,24,11,1131,1554,72.84427284427284,Dutch <vertaling@vrijschrift.org>
+nautilus-image-converter,79,0,0,35,0,0,89,79,100.0,Dutch
+nautilus-open-terminal,166,0,0,16,0,0,151,166,100.0,Dutch <vertaling@vrijschrift.org>
+nautilus-pastebin,61,8,15,10,2,3,70,84,72.61904761904762,Dutch <nl@li.org>
+nautilus-sendto,299,0,0,62,0,0,271,299,100.0,Dutch <vertaling@vrijschrift.org>
+nautilus-terminal,63,0,47,27,0,10,68,110,57.27272727272727,Dutch <nl@li.org>
+nbtk,44,0,0,18,0,0,43,44,100.0,LANGUAGE <LL@li.org>
+ncmpc,89,0,594,59,0,188,91,683,13.030746705710103,Dutch <nl@li.org>
+nemiver,409,0,11,131,0,2,376,420,97.38095238095238,Dutch <vertaling@vrijschrift.org>
+net6,304,0,0,68,0,0,280,304,100.0,Dutch <nl@li.org>
+network-manager-netbook,263,0,0,89,0,0,250,263,100.0,Novell Language <language@novell.com>
+newsbeuter,1175,50,12,304,9,4,1301,1237,94.98787388843978,Dutch <bart@zeropoint.it>
+newt,4,0,0,4,0,0,4,4,100.0,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+nicotine+,4979,0,0,1058,0,0,4982,4979,100.0,Dutch <>
+nntpgrab,1892,0,0,376,0,0,2092,1892,100.0,Dutch
+notecase,592,280,284,199,99,58,573,1156,51.21107266435986,
+notification-daemon,8,0,23,2,0,4,10,31,25.806451612903224,Dutch <vertaling@vrijschrift.org>
+nss-ldapd,105,106,227,9,5,12,103,438,23.972602739726025,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+nssbackup,603,17,1381,96,6,226,586,2001,30.13493253373313,LANGUAGE <LL@li.org>
+nted,1292,0,0,530,0,0,1268,1292,100.0,Dutch <en@li.org>
+ntfs-config,321,36,0,47,12,0,350,357,89.91596638655463,Dutch <nl@li.org>
+nx,316,0,91,51,0,6,319,407,77.64127764127764,Dutch <debian-l10n-dutch@lists.debian.org>
+obby,89,0,70,20,0,12,86,159,55.9748427672956,Dutch <nl@li.org>
+oggconvert,152,0,0,44,0,0,163,152,100.0,Dutch <nl@li.org>
+olpc-switch-desktop,153,0,5,12,0,2,163,158,96.83544303797468,LANGUAGE <LL@li.org>
+openbox,504,0,0,95,0,0,455,504,100.0,Dutch <vertaling@vrijschrift.org>
+openswan,0,476,498,0,23,18,0,974,0.0,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+orage,452,238,1420,377,163,229,460,2110,21.421800947867297,Dutch <vertaling@vrijschrift.org>
+orca,2454,628,622,923,177,167,2290,3704,66.25269978401728,Dutch <vertaling@vrijschrift.org>
+osmo,1599,12,0,655,6,0,1680,1611,99.25512104283054,
+pam,599,0,0,120,0,0,595,599,100.0,Dutch <nippur@fedoraproject.org>
+pam_krb5,7,0,0,4,0,0,7,7,100.0,Dutch <fedora-trans-list@redhat.com>
+pan,305,1314,669,101,376,123,350,2288,13.33041958041958,Dutch <vertaling@vrijschrift.org>
+paperbox,40,0,0,17,0,0,40,40,100.0,Dutch <vertaling@vrijschrift.org>
+paprefs,131,0,0,23,0,0,125,131,100.0,nl <nl@li.org>
+parole,450,0,0,182,0,0,441,450,100.0,Dutch <vertaling@vrijschrift.org>
+parted,4759,114,87,563,12,12,4712,4960,95.9475806451613,Dutch <vertaling@vrijschrift.org>
+partimage,2060,666,156,321,26,19,2157,2882,71.47814018043026,Dutch <nl@li.org>
+passwd,299,0,0,53,0,0,321,299,100.0,Dutch <nippur@fedoraproject.org>
+pavucontrol,219,1,17,85,1,1,212,237,92.40506329113924,nl <nl@li.org>
+pcmanfm,1516,4,0,387,1,0,1427,1520,99.73684210526315,Sander De Voogdt <celettu@gmail.com>
+perl-Padre,970,0,0,339,0,0,1019,970,100.0,Dutch
+perl-libintl,19,0,0,19,0,0,19,19,100.0,Dutch <guido@imperia.net>
+pessulus,124,0,0,32,0,0,121,124,100.0,Dutch <vertaling@vrijschrift.org>
+pgadmin3,7215,1375,416,2151,308,72,7079,9006,80.1132578281146,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,2553,0,0,824,0,0,2423,2553,100.0,Stani <spe.stani.be@gmail.com>
+phpesp,2083,1,146,380,1,27,2361,2230,93.40807174887892,nl_NL <jflemer@alum.rpi.edu>
+picard,981,2,327,530,3,72,944,1310,74.8854961832061,Dutch <nl@li.org>
+pidgin,18592,43,19,4038,9,2,18162,18654,99.667631607162,Dutch <translations@gvmelle.com>
+pidgin-guifications,442,32,31,183,4,5,475,505,87.52475247524752,Dutch <nl@li.org>
+pidgin-libnotify,21,13,2,7,4,1,23,36,58.333333333333336,
+pidgin-musictracker,294,0,39,59,0,1,296,333,88.28828828828829,Dutch <nl@li.org>
+pidgin-otr,550,0,0,100,0,0,624,550,100.0,Paul Wouters <paul@cypherpunks.ca>
+pinfo,315,10,0,53,2,0,336,325,96.92307692307692,Dutch <nl@li.org>
+pingus,1319,666,843,149,64,73,1330,2828,46.640735502121636,"Giray Devlet <giray@devlet.cc>, Martijn Santen <martijn@jomarsoft.nl>"
+pino,67,66,219,36,24,67,69,352,19.03409090909091,nl <s.mazeland@xs4all.nl>
+pinot,565,2,10,234,1,2,599,577,97.92027729636048,Dutch <nl@li.org>
+pioneers,2544,0,0,698,0,0,2650,2544,100.0,Bas Wijnen <shevek@fmf.nl> Roland Clobus <rclobus@bigfoot.com>
+pitivi,971,16,0,224,1,0,959,987,98.37892603850051,
+planner,1744,0,0,511,0,0,1725,1744,100.0,Dutch <nl@li.org>
+pmount,723,0,0,63,0,0,708,723,100.0,Dutch <nl@li.org>
+po4a,145,49,1532,20,6,151,151,1726,8.400926998841252,Dutch <nl@li.org>
+poedit,1143,19,0,266,3,0,1116,1162,98.36488812392426,
+poker-engine,147,40,0,63,11,0,145,187,78.6096256684492,<pokersource-users@gna.org>
+poker-network,822,91,0,169,31,0,753,913,90.03285870755751,<pokersource-users@gna.org>
+poker2d,822,91,0,169,31,0,753,913,90.03285870755751,<pokersource-users@gna.org>
+policycoreutils,1227,124,119,215,20,25,1303,1470,83.46938775510205,Dutch <vertaling@nl.linux.org>
+polkit-kde,47,0,35,14,0,8,53,82,57.3170731707317,Dutch <kde-i18n-nl@kde.org>
+pootle,3562,0,0,1360,0,0,3513,3562,100.0,TOMTT (Tom's One-Man Translation Team)
+popt,75,0,0,27,0,0,75,75,100.0,Dutch <vertaling@vrijschrift.org>
+postgresql-jdbc,110,171,715,9,30,75,118,996,11.04417670682731,Dutch <ajkuiper@wxs.nl>
+poweradmin,1909,0,0,242,0,0,1844,1909,100.0,poweradmin dutch
+powertop,11,6,966,1,1,87,10,983,1.119023397761953,Dutch <vertaling@vrijschrift.org>
+preupgrade,801,0,0,122,0,0,898,801,100.0,Fedora
+prozilla,0,0,0,0,0,0,0,0,0.0,
+psmisc,577,107,15,55,2,2,591,699,82.54649499284692,Dutch <vertaling@vrijschrift.org>
+pspp,6558,0,1142,1088,0,311,6232,7700,85.16883116883118,Dutch <vertaling@vrijschrift.org>
+publican,1170,1,2206,88,1,295,1282,3377,34.646135623334324,Fedora
+publican-fedora,107,0,0,6,0,0,100,107,100.0,Fedora
+pulseaudio,2849,0,0,428,0,0,2781,2849,100.0,Dutch <vertaling@vrijschrift.org>
+purple-msn-pecan,603,0,357,137,0,41,576,960,62.81250000000001,Dutch <nl@li.org>
+pybliographer,939,0,0,255,0,0,943,939,100.0,Dutch <vertaling@vrijschrift.org>
+pychess,780,40,851,208,6,131,757,1671,46.678635547576306,Danish <thomas@ahle.dk>
+pykickstart,284,0,0,25,0,0,280,284,100.0,Dutch <fedora-trans-list@redhat.com>
+pypar2,236,0,0,63,0,0,219,236,100.0,<nl@li.org>
+pyroom,258,0,153,53,0,21,260,411,62.77372262773723,Dutch <nl@li.org>
+python-fedora,0,0,968,0,0,123,0,968,0.0,nl <fedora-trans-list@redhat.com>
+python-formencode,540,55,165,77,6,26,484,760,71.05263157894737,nl <LL@li.org>
+python-meh,269,0,0,33,0,0,289,269,100.0,nl <nl@li.org>
+python-sphinx,391,0,6,126,0,3,382,397,98.48866498740554,nl <LL@li.org>
+qalculate-gtk,2342,0,0,744,0,0,2349,2342,100.0,<kde-i18n-nl@kde.org.>
+qalculate-kde,1420,0,0,596,0,0,1451,1420,100.0,<kde-i18n-nl@kde.org.>
+qbzr,577,0,704,202,0,213,622,1281,45.042935206869636,Dutch <nl@li.org>
+qt-recordmydesktop,816,0,0,104,0,0,786,816,100.0,Dutch
+quassel,4192,0,0,995,0,0,4075,4192,100.0,Dutch <nl@li.org>
+quodlibet,1667,137,197,486,32,21,1772,2001,83.30834582708646,Nederlands <en@li.org>
+rabbitvcs,294,0,637,111,0,206,265,931,31.57894736842105,Dutch <nl@li.org>
+rapid-photo-downloader,1908,0,0,403,0,0,1998,1908,100.0,Dutch <nl@li.org>
+rawstudio,277,111,558,144,56,159,263,946,29.28118393234672,Rawstudio development <rawstudio-dev@rawstudio.org>
+readahead,129,0,0,18,0,0,129,129,100.0,nl <nl@li.org>
+recode,221,154,454,20,16,43,226,829,26.658624849215922,Dutch <nl@li.org>
+redhat-menus,261,0,0,86,0,0,228,261,100.0,Dutch <vertaling@nl.linux.org>
+rednotebook,1043,0,1,225,0,1,1056,1044,99.90421455938697,Dutch <nl@li.org>
+referencer,52,0,827,20,0,230,67,879,5.915813424345847,Dutch <nl@li.org>
+regexxer,466,0,1,99,0,1,457,467,99.78586723768737,Dutch <vertaling@nl.linux.org>
+remmina,828,0,0,216,0,0,892,828,100.0,Dutch <nl@li.org>
+revisor,877,230,3336,211,46,487,881,4443,19.73891514742291,Dutch <nippur@fedoraproject.org>
+rhn-client-tools,1145,112,3563,207,18,229,1342,4820,23.7551867219917,Dutch <vertaling@nl.linux.org>
+rhnsd,42,0,0,10,0,0,47,42,100.0,Dutch <vertaling@nl.linux.org>
+rhpl,185,0,0,80,0,0,191,185,100.0,Dutch <vertaling@nl.linux.org>
+rhythmbox,4150,0,0,944,0,0,4129,4150,100.0,Dutch <vertaling@vrijschrift.org>
+ristretto,187,0,0,57,0,0,183,187,100.0,Dutch
+rpm,207,9,3682,80,3,676,198,3898,5.310415597742432,Dutch <fedora-trans-list@redhat.com>
+rsibreak,1218,5,0,159,1,0,1222,1223,99.59116925592805,Dutch <kde-i18n-nl@kde.org>
+rt3,4850,0,3775,1303,0,790,5185,8625,56.231884057971016,rt-devel <rt-devel@lists.fsck.com>
+rubyripper,1520,0,0,290,0,0,1614,1520,100.0,Dutch
+sabayon,629,92,15,140,18,8,615,736,85.46195652173914,Dutch <vertaling@vrijschrift.org>
+samba,198,0,0,33,0,0,195,198,100.0,Novell Language <language@novell.com>
+sane-backends,4355,1,0,896,1,0,4433,4356,99.97704315886135,American English <sane-devel@lists.alioth.debian.org>
+sbackup,688,9,16,104,4,4,638,713,96.4936886395512,
+scim,1169,4,0,278,3,0,1088,1173,99.65899403239557,Nederlands
+scim-array,79,6,19,17,1,7,75,104,75.96153846153845,Nederlands
+scim-chewing,241,0,0,46,0,0,238,241,100.0,Nederlands
+scim-hangul,77,51,86,23,5,12,91,214,35.981308411214954,Nederlands
+scim-python,52,0,310,12,0,91,52,362,14.3646408839779,Nederlands
+scim-tables,1153,0,0,171,0,0,1192,1153,100.0,Nederlands
+scribes,2384,0,0,489,0,0,2406,2384,100.0,Nederlands <nl@li.org>
+seahorse,3055,0,0,652,0,0,2891,3055,100.0,Dutch <vertaling@vrijschrift.org>
+seahorse-plugins,1163,0,0,248,0,0,1121,1163,100.0,Dutch <vertaling@vrijschrift.org>
+sectool,0,0,2411,0,0,356,0,2411,0.0,nl <nl@li.org>
+sed,490,54,37,84,2,3,478,581,84.33734939759037,Dutch <vertaling@vrijschrift.org>
+sentinella,421,0,0,87,0,0,472,421,100.0,Dutch <yougar@gmail.com>
+setroubleshoot,606,0,0,146,0,0,650,606,100.0,nl <fedora-trans-list@redhat.com>
+setroubleshoot-plugins,8561,94,100,260,3,3,8907,8755,97.7841233580811,nl <fedora-trans-list@redhat.com>
+setuptool,55,0,0,14,0,0,52,55,100.0,nl <nl@li.org>
+shadow-utils,1306,986,929,232,95,85,1419,3221,40.54641415709407,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+shared-mime-info,1436,0,0,579,0,0,840,1436,100.0,Dutch <vertaling@vrijschrift.org>
+sharutils,646,372,30,105,39,6,724,1048,61.641221374045806,Dutch <vertaling@vrijschrift.org>
+showimg,3978,33,294,861,6,12,4017,4305,92.40418118466899,Dutch <kde-i18n-nl@kde.org>
+shutter,2499,0,264,517,0,46,2582,2763,90.44516829533116,Dutch <nl@li.org>
+skanlite,142,0,0,51,0,0,142,142,100.0,Dutch <kde-i18n-doc@kde.org>
+skrooge,3176,1151,814,870,285,81,3068,5141,61.777864228749266,Nederlands <kde-i18n-nl@kde.org>
+skychart,3986,0,103,1254,0,48,3983,4089,97.48104671068721,<translation@ap-i.net>
+slrn,4678,394,279,866,42,42,4849,5351,87.42291160530742,Dutch <nl@li.org>
+smb4k,472,1485,4623,194,211,320,515,6580,7.173252279635259,Dutch
+smolt,1174,0,0,212,0,0,1220,1174,100.0,nl <nl@li.org>
+snownews,791,0,0,163,0,0,864,791,100.0,Dutch <nl@li.org>
+solfege,8681,0,0,1271,0,0,8348,8681,100.0,Dutch <vertaling@vrijschrift.org>
+sonata,900,181,55,275,67,15,874,1136,79.22535211267606,
+sos,267,0,0,36,0,0,294,267,100.0,Dutch <nippur@fedoraproject.org>
+sound-juicer,1329,0,4632,249,0,112,1356,5961,22.29491696024157,Dutch <vertaling@vrijschrift.org>
+soundconverter,430,2,18,100,2,7,415,450,95.55555555555556,Dutch <vertaling@vrijschrift.org>
+specspo,0,0,305294,0,0,16850,0,305294,0.0,
+speedcrunch,18,0,0,13,0,0,17,18,100.0,nl
+spu-binutils,1733,0,0,306,0,0,1808,1733,100.0,Dutch <vertaling@vrijschrift.org>
+squirrelmail,14671,0,0,2527,0,0,14321,14671,100.0,Dutch <squirrelmail-i18n@lists.sourceforge.net>
+sssd,10,12,1240,4,3,204,12,1262,0.7923930269413629,Dutch <nl@li.org>
+stardict,451,1052,937,107,108,246,469,2440,18.48360655737705,Dutch <vertaling@vrijschrift.org>
+stellarium,1426,0,981,460,0,481,1397,2407,59.24387203988367,
+straw,554,0,0,145,0,0,582,554,100.0,Dutch <vertaling@nl.linux.org>
+subdownloader,953,0,0,272,0,0,1088,953,100.0,LANGUAGE <LL@li.org>
+subtitleeditor,348,573,896,164,196,186,330,1817,19.15244909190974,Dutch <LL@li.org>
+sugar,925,0,0,266,0,0,921,925,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,53,0,0,29,0,0,56,53,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,565,0,0,118,0,0,544,565,100.0,English
+sugar-chat,26,0,0,12,0,0,29,26,100.0,LANGUAGE <LL@li.org>
+sugar-connect,36,0,0,9,0,0,49,36,100.0,LANGUAGE <LL@li.org>
+sugar-distance,76,0,0,15,0,0,87,76,100.0,LANGUAGE <LL@li.org>
+sugar-finance,142,0,0,31,0,0,139,142,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,25,0,0,12,0,0,22,25,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,7,0,0,5,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-log,99,0,0,21,0,0,99,99,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,50,0,0,25,0,0,44,50,100.0,LANGUAGE <LL@li.org>
+sugar-physics,22,0,0,22,0,0,22,22,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,52,0,0,16,0,0,52,52,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,85,0,0,30,0,0,98,85,100.0,LANGUAGE <LL@li.org>
+sugar-read,59,0,0,31,0,0,60,59,100.0,LANGUAGE <LL@li.org>
+sugar-record,137,0,0,73,0,0,147,137,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,17,0,0,10,0,0,18,17,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,78,0,0,40,0,0,77,78,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,127,0,0,86,0,0,126,127,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,36,0,0,23,0,0,34,36,100.0,LANGUAGE <LL@li.org>
+supertux,180,6,42,57,4,6,190,228,78.94736842105263,Nederlands <nl@li.org>
+supertuxkart,928,0,0,202,0,0,929,928,100.0,LANGUAGE <LL@li.org>
+swfdec-gnome,101,0,0,28,0,0,107,101,100.0,Dutch <vertaling@vrijschrift.org>
+switchdesk,139,0,0,20,0,0,139,139,100.0,Dutch <fedora-trans-list@redhat.com>
+sylpheed,5541,544,241,1428,135,40,5692,6326,87.59089472020234,Dutch <vertaling@nl.linux.rg>
+synaptic,3116,98,17,646,12,4,3056,3231,96.44073042401733,Dutch <vertaling@vrijschrift.org>
+syncevolution,564,0,0,111,0,0,557,564,100.0,
+sysstat,447,0,0,51,0,0,423,447,100.0,Dutch <vertaling@vrijschrift.org>
+system-config-audit,1241,0,0,267,0,0,1241,1241,100.0,Dutch <nippur@fedoraproject.org>
+system-config-bind,9419,0,0,1064,0,0,9724,9419,100.0,nl <nl@li.org>
+system-config-boot,50,0,69,13,0,10,45,119,42.016806722689076,nl <nl@li.org>
+system-config-date,1750,0,0,799,0,0,1732,1750,100.0,nl <fedora-trans-list@redhat.com>
+system-config-date-docs,728,0,0,53,0,0,769,728,100.0,English <en@li.org>
+system-config-display,415,0,0,69,0,0,426,415,100.0,Dutch <vertaling@nl.linux.org>
+system-config-firewall,2630,0,0,317,0,0,2761,2630,100.0,nl <nl@li.org>
+system-config-httpd,877,0,0,227,0,0,874,877,100.0,nl <nl@li.org>
+system-config-kdump,383,0,0,35,0,0,400,383,100.0,Dutch <vertaling@nl.linux.org>
+system-config-keyboard,187,0,0,81,0,0,180,187,100.0,nl <nl@li.org>
+system-config-kickstart,1039,0,0,264,0,0,947,1039,100.0,Dutch <nippur@fedoraproject.org>
+system-config-language,293,0,30,54,0,2,319,323,90.71207430340557,Fedora
+system-config-lvm,2246,0,0,344,0,0,2363,2246,100.0,nl <fedora-trans-list@redhat.com>
+system-config-netboot,1135,0,0,168,0,0,1119,1135,100.0,Dutch <fedora-trans-list@redhat.com>
+system-config-network,3022,0,0,718,0,0,3153,3022,100.0,Fedora
+system-config-nfs,332,0,0,72,0,0,340,332,100.0,Dutch <fedora-trans-list@redhat.com>
+system-config-nfs-docs,1185,0,0,66,0,0,1241,1185,100.0,Dutch <nl@li.org>
+system-config-printer,3027,0,0,676,0,0,3023,3027,100.0,nl <fedora-trans-list@redhat.com>
+system-config-rootpassword,116,0,0,19,0,0,113,116,100.0,Dutch <fedora-trans-list@redhat.com>
+system-config-samba,535,0,0,130,0,0,567,535,100.0,nl <fedora-trans-list@redhat.com>
+system-config-samba-docs,1188,0,0,62,0,0,1260,1188,100.0,Dutch <nl@li.org>
+system-config-services,404,0,0,57,0,0,434,404,100.0,nl <nl@li.org>
+system-config-services-docs,638,0,0,28,0,0,707,638,100.0,Dutch <nl@li.org>
+system-config-users,1370,0,0,170,0,0,1397,1370,100.0,nl <fedora-trans-list@redhat.com>
+system-config-users-docs,1054,0,0,77,0,0,1143,1054,100.0,English <en@li.org>
+system-switch-java,81,0,0,11,0,0,78,81,100.0,Dutch <fedora-trans-list@redhat.com>
+system-switch-mail,158,0,0,24,0,0,173,158,100.0,<nl@li.org>
+tagtool,324,0,634,132,0,79,324,958,33.82045929018789,Dutch <vertaling@vrijschrift.org>
+tangogps,441,10,119,165,5,100,452,570,77.36842105263158,
+tar,3185,48,14,527,3,2,3342,3247,98.09054511857099,Dutch <vertaling@vrijschrift.org>
+tasks,34,0,0,23,0,0,29,34,100.0,Dutch <nl@li.org
+tasque,17,0,0,6,0,0,16,17,100.0,Dutch <vertaling@vrijschrift.org>
+tellico,5497,0,0,1129,0,0,5177,5497,100.0,Dutch <kde-i18n-nl@kde.org>
+terminator,210,0,8,98,0,2,221,218,96.3302752293578,LANGUAGE <LL@li.org>
+texlive,2293,1378,1752,447,147,149,2411,5423,42.282869260556886,Dutch
+thunar-archive-plugin,86,0,0,13,0,0,92,86,100.0,Dutch <vertaling@vrijschrift.org>
+thunar-media-tags-plugin,86,0,58,40,0,9,92,144,59.72222222222222,Dutch <vertaling@vrijschrift.org>
+thunar-vcs-plugin,305,79,114,165,41,73,328,498,61.24497991967871,Dutch <xfce-i18n@xfce.org>
+tomboy,2651,0,0,395,0,0,2625,2651,100.0,Dutch
+tortoisehg,201,0,5829,55,0,1429,189,6030,3.3333333333333335,Dutch <nl@li.org>
+totem,2532,4,82,575,2,11,2395,2618,96.71504965622613,Dutch <vertaling@vrijschrift.org>
+totem-pl-parser,28,0,0,7,0,0,27,28,100.0,Dutch <vertaling@vrijschrift.org>
+tracker,1318,300,314,298,74,32,1309,1932,68.21946169772258,nl
+transmission,1642,0,0,449,0,0,1740,1642,100.0,vertaling@vrijschrift.org
+tsclient,342,0,0,74,0,0,344,342,100.0,Novell Language <language@novell.com>
+turba,1700,0,0,402,0,0,1677,1700,100.0,Dutch <i18n@lists.horde.org>
+tuxmath,288,20,743,80,4,115,288,1051,27.402473834443384,Dutch <LL@li.org>
+tuxpaint,552,147,62,153,17,16,603,761,72.53613666228647,Dutch <vertaling@vrijschrift.org>
+tuxpaint-stamps,710,625,1282,167,245,214,469,2617,27.130301872372947,Nederlands <nl@li.org>
+tuxtype2,49,20,11,28,3,9,45,80,61.25000000000001,LANGUAGE <LL@li.org>
+tvtime,357,157,710,129,35,83,311,1224,29.166666666666668,Dutch <nl@li.org>
+ufraw,2000,0,1,407,0,1,1951,2001,99.95002498750625,American English <kde-i18n-doc@kde.org>
+ultimatestunts,450,0,0,126,0,0,440,450,100.0,Dutch <cornware-cjp@users.sourceforge.net>
+usermode,564,0,0,95,0,0,525,564,100.0,Dutch <fedora-trans-list@redhat.com>
+util-linux-ng,11476,1205,1123,1893,156,116,11670,13804,83.13532309475514,Dutch <vertaling@vrijschrift.org>
+vdr,793,0,14,322,0,6,727,807,98.26517967781908,Dutch
+vdr-epgsearch,2210,16,55,351,5,11,2119,2281,96.88733011836914,<vdr@linuxtv.org>
+vdradmin-am,4066,0,16,470,0,2,4273,4082,99.60803527682509,Nederlands <nl@li.org>
+vdrift,87,5,1128,53,3,209,87,1220,7.131147540983607,Dutch <vertaling@vrijschrift.org>
+vidalia,2768,0,6538,820,0,391,2836,9306,29.744251020846768,translations@vidalia-project.net
+viewnior,345,0,42,107,0,15,337,387,89.14728682170544,Dutch <nl@li.org>
+viking,97,0,1646,36,0,443,106,1743,5.565117613310385,Dutch <nl@li.org>
+vinagre,957,0,0,170,0,0,962,957,100.0,Dutch <vertaling@vrijschrift.org>
+vino,1054,0,0,112,0,0,1121,1054,100.0,Dutch <vertaling@nl.linux.org>
+virt-manager,516,512,2722,244,187,440,493,3750,13.76,Dutch <fedora-trans-list@redhat.com>
+virtaal,1171,0,0,314,0,0,1128,1171,100.0,TOMTT (Tom's One-Man Translation Team)
+volume_key,726,0,0,149,0,0,798,726,100.0,nl <nl@li.org>
+vorbis-tools,1520,1089,767,255,49,82,1536,3376,45.023696682464454,Dutch <vertaling@nl.linux.org>
+vte,116,0,0,20,0,0,140,116,100.0,Dutch <vertaling@nl.linux.org>
+wammu,1926,871,1485,440,159,191,2005,4282,44.97898178421298,Dutch <nl@li.org>
+warzone2100,4266,972,7500,1210,264,1245,3733,12738,33.490343853038155,Dutch <vertaling@vrijschrift.org>
+wastesedge,19975,0,0,1180,0,0,20400,19975,100.0,Dutch <vertaling@nl.linux.org>
+watchdog,30,31,36,3,1,2,36,97,30.927835051546392,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+webkitgtk,1064,0,10,256,0,3,989,1074,99.06890130353817,Dutch <vertaling@vrijschrift.org>
+wesnoth,131851,32360,48425,9379,1268,2462,130022,212636,62.00784439135424,Dutch <AI0867@gmail.com>
+wget,2227,0,33,393,0,1,2297,2260,98.53982300884955,Dutch <vertaling@vrijschrift.org>
+widelands,17281,0,16,1573,0,4,17376,17297,99.90749841012892,LANGUAGE <LL@li.org>
+winwrangler,29,0,0,4,0,0,24,29,100.0,Dutch <vertaling@vrijschrift.org>
+workrave,1059,108,8,205,26,3,1045,1175,90.12765957446808,Raymond Penners <raymond@dotsphinx.com>
+wormux,1911,0,5,326,0,1,1893,1916,99.73903966597078,Dutch <nl@li.org>
+wput,1021,21,21,131,2,2,1084,1063,96.04891815616182,Dutch <nl@li.org>
+wxGTK,6679,0,0,1523,0,0,6618,6679,100.0,wxWidgets translators <wx-translators@wxwidgets.org>
+wxPython,8804,36,90,2170,17,19,8783,8930,98.58902575587905,wxWidgets translators <wx-translators@wxwidgets.org>
+xarchiver,979,152,0,255,22,0,947,1131,86.5605658709107,Dutch <vertaling@vrijschrift.org>
+xcdroast,8044,0,0,848,0,0,8243,8044,100.0,Dutch <eric.hameleers@sox.homeip.net>
+xchat,4250,458,319,1093,80,59,4262,5027,84.54346528744779,Dutch <vertaling@vrijschrift.org>
+xconvers,278,0,0,101,0,0,299,278,100.0,nl <pg4i@amsat.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Dutch <vertaling@vrijschrift.org>
+xdg-user-dirs-gtk,52,0,0,8,0,0,50,52,100.0,Dutch <vertaling@vrijschrift.org>
+xdialog,17,0,4,13,0,2,17,21,80.95238095238095,Dutch
+xdx,292,0,0,91,0,0,309,292,100.0,nl <pg4i@amsat.org>
+xfburn,215,195,890,95,65,123,220,1300,16.538461538461537,Dutch <vertaling@vrijschrift.org>
+xfce-utils,131,0,0,36,0,0,139,131,100.0,Dutch <vertaling@vrijschrift.org>
+xfce4-appfinder,84,0,0,19,0,0,92,84,100.0,Dutch <vertaling@vrijschrift.org>
+xfce4-clipman-plugin,223,2,9,40,1,1,213,234,95.2991452991453,
+xfce4-datetime-plugin,48,0,0,19,0,0,50,48,100.0,Dutch <xfce-i18n@xfce.org>
+xfce4-dict,346,25,15,69,10,5,336,386,89.63730569948186,Dutch <vertaling@vrijschrift.org>
+xfce4-eyes-plugin,9,0,0,3,0,0,8,9,100.0,Nederlands <vertaling@vrijschrift.org>
+xfce4-mixer,14,12,155,7,4,26,12,181,7.734806629834254,Dutch
+xfce4-modemlights-plugin,22,2,112,12,1,2,24,136,16.176470588235293,Nederlands <nl@li.org>
+xfce4-notes-plugin,94,0,9,35,0,5,90,103,91.2621359223301,Dutch <vertaling@vrijschrift.org>
+xfce4-notifyd,79,4,0,20,2,0,73,83,95.18072289156626,Dutch
+xfce4-panel,540,0,0,167,0,0,524,540,100.0,Dutch <vertaling@vrijschrift.org>
+xfce4-places-plugin,67,8,0,30,2,0,64,75,89.33333333333333,
+xfce4-power-manager,172,260,262,50,61,44,175,694,24.78386167146974,Dutch <vertaling@vrijschrift.org>
+xfce4-radio-plugin,47,5,0,20,2,0,51,52,90.38461538461539,Dutch <vertaling@vrijschrift.org>
+xfce4-remmina-plugin,136,0,0,12,0,0,149,136,100.0,Dutch <nl@li.org>
+xfce4-screenshooter,454,3,0,76,1,0,415,457,99.34354485776805,Dutch <xfce-i18n@xfce.org>
+xfce4-session,698,69,221,160,15,22,673,988,70.64777327935222,Dutch <vertaling@vrijschrift.org>
+xfce4-settings,281,202,645,120,54,63,250,1128,24.911347517730498,Nederlands <nl_NL@li.org>
+xfce4-systemload-plugin,54,0,0,18,0,0,48,54,100.0,Dutch <nl@li.org>
+xfce4-taskmanager,52,2,13,26,1,4,64,67,77.61194029850746,Dutch <vertaling@vrijschrift.org>
+xfce4-verve-plugin,39,8,0,9,1,0,36,47,82.97872340425532,Dutch <xfce-i18n@xfce.org>
+xfce4-weather-plugin,324,151,80,179,54,24,308,555,58.37837837837838,Dutch <xfce-i18n@xfce.org>
+xfce4-xfapplet-plugin,84,0,0,14,0,0,79,84,100.0,
+xfce4-xfswitch-plugin,20,0,0,3,0,0,20,20,100.0,
+xfconf,403,9,19,59,1,2,419,431,93.50348027842227,Dutch
+xfdesktop,807,195,0,238,28,0,779,1002,80.53892215568862,Dutch <vertaling@vrijschrift.org>
+xfmpc,33,24,73,16,4,36,31,130,25.384615384615383,Dutch
+xfprint,321,1,0,112,1,0,308,322,99.68944099378882,Dutch <xfce-i18n@xfce.org>
+xfwm4,473,233,91,150,55,19,497,797,59.34755332496863,Dutch <vertaling@vrijschrift.org>
+xiphos,2569,269,977,745,24,57,2348,3815,67.3394495412844,Xiphos-developers <xiphos-developers@lists>
+xkeyboard-config,1907,0,0,692,0,0,1873,1907,100.0,Dutch <vertaling@vrijschrift.org>
+xlog,1441,0,0,330,0,0,1483,1441,100.0,NL <nl@li.org>
+xmms,2703,148,592,988,18,39,2644,3443,78.50711588730758,<en@li.org>
+xmoto,3327,0,202,706,0,40,3165,3529,94.27599886653442,
+xpad,226,0,137,66,0,11,237,363,62.25895316804407,Dutch <vertaling@vrijschrift.org>
+xsane,2325,788,111,576,121,31,2163,3224,72.11538461538461,Dutch <nl@li.org>
+xscreensaver,4016,733,6441,1076,289,469,3817,11190,35.88918677390527,Nederlands <nl@li.org>
+yakuake,1288,0,0,199,0,0,1243,1288,100.0,Nederlands <kde-i18n-nl@kde.org>
+yelp,1035,0,0,349,0,0,953,1035,100.0,Dutch <vertaling@vrijschrift.org>
+yum-rhn-plugin,62,0,45,9,0,5,65,107,57.943925233644855,Dutch <vertaling@nl.linux.org>
+yumex,566,15,27,185,3,5,600,608,93.0921052631579,nl <nippur@fedoraproject.org>
+zarafa,5277,0,2,1561,0,1,5286,5279,99.96211403674938,nl_NL <nl@li.org>
+zenity,582,0,0,135,0,0,541,582,100.0,<vertaling@vrijschrift.org>
+zvbi,624,3,37,116,1,4,603,664,93.97590361445783,Dutch <ime@iae.nl>

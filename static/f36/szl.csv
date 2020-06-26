@@ -1,0 +1,66 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,141,0,31,34,0,5,158,172,81.97674418604652,Silesian <szl@li.org>
+cinnamon-translations,0,0,13411,0,0,3043,0,13411,0.0,Silesian <szl@li.org>
+deja-dup,1351,0,272,225,0,60,1288,1623,83.24091189155884,Silesian <szl@li.org>
+elementary-calculator,98,14,123,41,6,28,99,235,41.702127659574465,Silesian <https://l10n.elementary.io/projects/calculator/calculator/szl/>
+elementary-calendar,579,48,261,206,10,42,579,888,65.2027027027027,Silesian <https://l10n.elementary.io/projects/calendar/calendar/szl/>
+elementary-camera,57,5,143,14,2,31,55,205,27.80487804878049,Silesian <https://l10n.elementary.io/projects/camera/camera/szl/>
+elementary-capnet-assist,40,0,50,7,0,9,32,90,44.44444444444444,Silesian <https://l10n.elementary.io/projects/desktop/capnet-assist/szl/>
+elementary-code,434,23,1151,140,11,156,416,1608,26.990049751243784,Silesian <https://l10n.elementary.io/projects/code/code/szl/>
+elementary-files,1761,193,1715,374,48,242,1819,3669,47.996729354047424,Silesian <https://l10n.elementary.io/projects/files/files/szl/>
+elementary-greeter,88,0,131,19,0,29,83,219,40.182648401826484,Silesian <https://l10n.elementary.io/projects/desktop/greeter/szl/>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,241,85,332,81,19,53,237,658,36.62613981762918,Silesian <https://l10n.elementary.io/projects/mail/mail/szl/>
+elementary-music,969,9,227,304,2,48,944,1205,80.4149377593361,Silesian <https://l10n.elementary.io/projects/music/music/szl/>
+elementary-notifications,1,0,49,1,0,13,1,50,2.0,Silesian <https://l10n.elementary.io/projects/desktop/notifications-extra/szl/>
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,none
+elementary-screenshot-tool,121,4,123,38,2,20,120,248,48.79032258064516,Silesian <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/szl/>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,72,14,44,30,4,11,77,130,55.38461538461539,Silesian <https://l10n.elementary.io/projects/desktop/shortcut-overlay/szl/>
+elementary-sideload,144,26,149,29,6,26,133,319,45.141065830721004,Silesian <https://l10n.elementary.io/projects/desktop/sideload/szl/>
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,215,34,447,56,6,64,199,696,30.89080459770115,Silesian <https://l10n.elementary.io/projects/terminal/terminal/szl/>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,326,0,65,86,0,10,326,391,83.37595907928389,Silesian <https://l10n.elementary.io/projects/videos/videos/szl/>
+gala,104,28,226,27,6,40,107,358,29.05027932960894,Silesian <https://l10n.elementary.io/projects/desktop/gala/szl/>
+gnome-menus,103,0,0,39,0,0,93,103,100.0,Silesian <szl@li.org>
+granite,109,4,385,56,2,60,116,498,21.88755020080321,Silesian <https://l10n.elementary.io/projects/desktop/granite/szl/>
+libreoffice,96079,0,71313,31398,0,6719,90917,167392,57.39760562034027,Silesian <https://translations.documentfoundation.org/projects/libo_ui-7-3/accessibilitymessages/szl/>
+mc,0,0,4350,0,0,1266,0,4350,0.0,Silesian (http://www.transifex.com/mc/mc/language/szl/)
+midori,0,0,3541,0,0,796,0,3541,0.0,Silesian <szl@li.org>
+pantheon-agent-geoclue2,43,0,58,11,0,7,34,101,42.57425742574257,Silesian <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/szl/>
+pantheon-agent-polkit,14,0,42,7,0,9,16,56,25.0,Silesian <https://l10n.elementary.io/projects/desktop/pantheon-agent-polkit/szl/>
+polkit-gnome,94,0,0,16,0,0,70,94,100.0,Silesian <ubuntu-l10n-szl@lists.launchpad.net>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,926,0,0,263,0,926,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+slick-greeter,55,0,156,19,0,28,53,211,26.066350710900476,Silesian <szl@li.org>
+supertuxkart,0,0,0,0,0,0,0,0,0.0,
+switchboard,0,0,148,0,0,31,0,148,0.0,none
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,none
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,none
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,none
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,none
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,none
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,none
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,none
+wingpanel,19,0,0,4,0,0,18,19,100.0,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel/szl/>
+wingpanel-applications-menu,288,15,112,83,6,26,279,415,69.39759036144578,Silesian <https://l10n.elementary.io/projects/wingpanel/applications-menu/szl/>
+wingpanel-indicator-bluetooth,17,19,42,10,5,14,17,78,21.794871794871796,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/szl/>
+wingpanel-indicator-datetime,107,25,45,21,4,11,96,177,60.451977401129945,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/szl/>
+wingpanel-indicator-keyboard,16,11,26,6,4,6,17,53,30.18867924528302,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/szl/>
+wingpanel-indicator-network,61,16,73,19,5,21,62,150,40.666666666666664,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-network/szl/>
+wingpanel-indicator-nightlight,31,8,6,8,2,2,28,45,68.88888888888889,Silesian <https://l10n.elementary.io/projects/wingpanel/indicator-nightlight/szl/>
+wingpanel-indicator-notifications,32,19,83,10,6,18,30,134,23.88059701492537,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/szl/>
+wingpanel-indicator-power,115,2,74,30,1,21,147,191,60.20942408376963,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-power/szl/>
+wingpanel-indicator-session,77,7,24,23,2,2,59,108,71.29629629629629,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-session/szl/>
+wingpanel-indicator-sound,36,5,55,9,2,12,41,96,37.5,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-sound/szl/>

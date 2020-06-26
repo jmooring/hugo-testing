@@ -1,0 +1,45 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,783,3683,8726,216,971,1316,675,13192,5.935415403274711,Korean
+anaconda,0,0,10203,0,0,1245,0,10203,0.0,none
+authconfig,0,0,1133,0,0,223,0,1133,0.0,none
+chkconfig,0,0,430,0,0,88,0,430,0.0,none
+compiz,0,0,2357,0,0,584,0,2357,0.0,Lao <i18n@suse.de>
+firstboot,0,0,598,0,0,59,0,598,0.0,none
+hwbrowser,0,0,117,0,0,52,0,117,0.0,none
+im-chooser,0,0,172,0,0,24,0,172,0.0,none
+initscripts,0,0,3733,0,0,857,0,3733,0.0,none
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kudzu,0,0,73,0,0,13,0,73,0.0,none
+libvirt,1290,656,351,308,127,72,1290,2297,56.160208968219415,none
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pidgin,16,0,15638,6,0,3330,14,15654,0.10221029768749201,LANGUAGE <LL@li.org>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhgb,0,0,121,0,0,29,0,121,0.0,none
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+rhpxl,0,0,136,0,0,43,0,136,0.0,none
+setroubleshoot,0,0,507,0,0,136,0,507,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7829,0,0,233,0,7829,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,60,0,0,17,0,60,0.0,none
+specspo,0,0,305286,0,0,16847,0,305286,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9416,0,0,1061,0,9416,0.0,none
+system-config-boot,0,0,46,0,0,10,0,46,0.0,none
+system-config-date,0,0,997,0,0,608,0,997,0.0,none
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-firewall,0,0,2956,0,0,279,0,2956,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-keyboard,0,0,78,0,0,12,0,78,0.0,none
+system-config-kickstart,0,0,1054,0,0,281,0,1054,0.0,none
+system-config-language,0,0,45,0,0,10,0,45,0.0,none
+system-config-netboot,10,0,1078,3,0,158,10,1088,0.9191176470588236,none
+system-config-network,0,0,3011,0,0,733,0,3011,0.0,none
+system-config-nfs,0,0,318,0,0,73,0,318,0.0,none
+system-config-printer,0,0,1285,0,0,326,0,1285,0.0,none
+system-config-rootpassword,0,0,50,0,0,9,0,50,0.0,none
+system-config-samba,0,0,423,0,0,138,0,423,0.0,none
+system-config-services,0,0,232,0,0,62,0,232,0.0,none
+system-config-soundcard,0,0,224,0,0,51,0,224,0.0,none
+system-config-users,0,0,1186,0,0,165,0,1186,0.0,none
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none

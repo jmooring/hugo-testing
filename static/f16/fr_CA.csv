@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+dopewars,5286,0,0,867,0,0,5674,5286,100.0,French
+jpoker,256,38,63,111,23,17,300,357,71.70868347338936,<pokersource-users@gna.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+picard,167,0,1459,130,0,556,162,1626,10.27060270602706,French (Canada) (http://www.transifex.net/projects/p/musicbrainz/language/fr_CA/)
+supertuxkart,55,0,1271,5,0,252,74,1326,4.147812971342383,

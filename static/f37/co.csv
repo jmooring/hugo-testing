@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+audacity,18506,0,0,4303,0,0,22597,18506,100.0,Patriccollu di Santa Maria è Sichè
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+filezilla,10784,0,0,1877,0,0,13837,10784,100.0,Patriccollu di Santa Maria è Sichè
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+lazarus,1724,0,0,334,0,0,2117,1724,100.0,Patriccollu di Santa Maria è Sichè
+libfilezilla,508,0,0,92,0,0,687,508,100.0,Patriccollu di Santa Maria è Sichè
+lightdm,0,0,84,0,0,4,0,84,0.0,Corsican <co@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+poedit,3164,0,3,688,0,1,3832,3167,99.9052731291443,Corsican
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+python-wxpython4,7833,4,0,1963,2,0,9985,7837,99.94896006124793,Patriccollu di Santa Maria è Sichè
+regextester,0,0,104,0,0,31,0,104,0.0,none
+wxGTK,7833,4,0,1963,2,0,9985,7837,99.94896006124793,Patriccollu di Santa Maria è Sichè

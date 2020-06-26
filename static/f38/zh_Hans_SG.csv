@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+duplicity,0,0,2317,0,0,330,0,2317,0.0,"Chinese Traditional, Singapore"
+mkvtoolnix,24755,108,189,3039,10,14,7248,25052,98.81446591090531,Chinese (Singapore) (http://app.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/)

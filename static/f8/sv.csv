@@ -1,0 +1,558 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,2271,0,5,492,0,5,2248,2276,99.78031634446397,Django I18N <Django-I18N@googlegroups.com>
+GConf2,4032,0,0,481,0,0,3962,4032,100.0,Swedish <tp-sv@listor.tp-sv.se>
+LabPlot,12969,2429,1061,2775,184,87,11281,16459,78.79579561334225,<sv@li.org>
+Miro,1453,0,1607,401,0,156,1488,3060,47.48366013071895,Swedish <sv@li.org>
+NetworkManager,636,0,0,139,0,0,596,636,100.0,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-openvpn,399,0,0,96,0,0,336,399,100.0,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-vpnc,347,0,0,57,0,0,289,347,100.0,Swedish <sv@li.org>
+Terminal,1533,60,21,276,8,7,1384,1614,94.9814126394052,Swedish <tp-sv@listor.tp-sv.se>
+Thunar,3638,0,49,636,0,17,3485,3687,98.67100623813398,Swedish <tp-sv@listor.tp-sv.se>
+WindowMaker,629,0,0,114,0,0,594,629,100.0,Swedish
+a2ps,1227,205,49,165,8,6,1261,1481,82.84942606347063,Swedish <sv@li.org>
+abiword,3501,83,1201,1252,25,279,3345,4785,73.16614420062696,LANGUAGE <LL@li.org>
+abook,535,76,116,144,20,28,532,727,73.59009628610728,none
+acl,484,0,0,51,0,0,463,484,100.0,Swedish <tp-sv@listor.tp-sv.se>
+agave,115,0,0,42,0,0,112,115,100.0,Swedish <tp-sv@listor.tp-sv.se>
+alacarte,45,0,0,17,0,0,36,45,100.0,Swedish <tp-sv@listor.tp-sv.se>
+alexandria,733,0,0,182,0,0,691,733,100.0,Swedish <sv@li.org>
+alleyoop,348,0,0,89,0,0,327,348,100.0,Swedish <sv@li.org>
+amarok,13192,0,0,2503,0,0,12430,13192,100.0,Swedish <sv@li.org>
+anaconda,10203,0,0,1245,0,0,9389,10203,100.0,Swedish <sv@li.org>
+anjuta,5806,114,580,1650,38,93,5398,6500,89.32307692307693,Swedish <tp-sv@listor.tp-sv.se>
+anjuta-gdl,607,0,0,96,0,0,547,607,100.0,Swedish <tp-sv@listor.tp-sv.se>
+apcupsd,0,0,647,0,0,103,0,647,0.0,LANGUAGE <LL@li.org>
+ardour,4069,0,3622,1215,0,652,3705,7691,52.90599401898323,Svenska <sv@li.org>
+arm-gp2x-linux-binutils,12931,0,0,2121,0,0,12051,12931,100.0,Swedish <sv@li.org>
+arm-gp2x-linux-gcc,40900,98,45,6072,13,7,38066,41043,99.6515849231294,Swedish <tp-sv@listor.tp-sv.se>
+arm-gp2x-linux-glibc,6326,0,0,1256,0,0,6021,6326,100.0,Swedish <sv@li.org>
+aspell,741,4,981,169,1,123,688,1726,42.9316338354577,Swedish <tp-sv@listor.tp-sv.se>
+at-spi,15,0,0,4,0,0,9,15,100.0,Swedish <sv@li.org>
+atk,370,0,0,123,0,0,268,370,100.0,Swedish <tp-sv@listor.tp-sv.se>
+atomix,145,0,0,58,0,0,149,145,100.0,Swedish <sv@li.org>
+attr,308,0,0,26,0,0,303,308,100.0,Swedish <tp-sv@listor.tp-sv.se>
+audacious,145,716,857,66,247,142,144,1718,8.440046565774157,Sweden
+audacity,3269,994,1509,786,233,222,3261,5772,56.63548163548163,Swedish; <musselasse@hotmail.com>
+aumix,237,0,3,89,0,3,249,240,98.75,Swedish <sv@li.org>
+authconfig,1133,0,0,223,0,0,1037,1133,100.0,Swedish <sv@li.org>
+avr-binutils,12934,0,0,2122,0,0,12053,12934,100.0,Swedish <sv@li.org>
+avr-gcc,40900,98,45,6072,13,7,38066,41043,99.6515849231294,Swedish <tp-sv@listor.tp-sv.se>
+avr-gdb,4964,0,0,741,0,0,4616,4964,100.0,Swedish <sv@li.org>
+bakery,72,0,0,20,0,0,68,72,100.0,Swedish <sv@li.org>
+balsa,5802,0,0,1395,0,0,5503,5802,100.0,Swedish <tp-sv@listor.tp-sv.se>
+banshee,4435,0,0,1005,0,0,4076,4435,100.0,Swedish <tp-sv@listor.tp-sv.se>
+beagle,1269,0,0,356,0,0,1171,1269,100.0,Swedish <tp-sv@listor.tp-sv.se>
+binutils,12934,0,0,2122,0,0,12053,12934,100.0,Swedish <sv@li.org>
+bison,832,39,17,138,5,7,754,888,93.69369369369369,Swedish <sv@li.org>
+bittorrent,3904,0,0,633,0,0,3807,3904,100.0,LANGUAGE <bugs (at) bittorrent (dot) com>
+blam,330,0,0,93,0,0,288,330,100.0,Swedish <tp-sv@listor.tp-sv.se>
+blender,252,0,0,163,0,0,257,252,100.0,
+bluefish,2494,374,14,1042,10,4,2437,2882,86.53712699514227,Swedish <sv@li.org>
+bluez-gnome,205,0,0,61,0,0,185,205,100.0,Swedish <sv@li.org>
+brasero,3955,0,0,754,0,0,3614,3955,100.0,Swedish <tp-sv@listor.tp-sv.se>
+bug-buddy,972,0,0,90,0,0,860,972,100.0,Swedish <tp-sv@listor.tp-sv.se>
+bygfoot,3402,0,0,701,0,0,3269,3402,100.0,Swedish <tp-sv@listor.tp-sv.se>
+bzflag,0,0,0,0,0,0,0,0,0.0,
+catfish,74,0,2,27,0,1,62,76,97.36842105263158,Swedish <sv@li.org>
+centerim,1942,475,296,581,118,80,1802,2713,71.58127534095098,swedish <sv@li.org>
+childsplay,863,3,160,117,1,19,740,1026,84.1130604288499,<assetml@linux.isbeter.nl>
+chkconfig,430,0,0,88,0,0,449,430,100.0,Swedish <sv@li.org>
+cinepaint,1338,1601,4466,555,685,695,1268,7405,18.068872383524646,Swedish <sv@li.org>
+claws-mail,6088,2530,5005,1716,609,545,5780,13623,44.689128679439186,Swedish
+claws-mail-plugins,315,82,206,58,18,39,298,603,52.23880597014925,Swedish
+comix,1559,0,45,292,0,4,1384,1604,97.19451371571073,Swedish <LL@li.org>
+compat-gcc-32,6983,9,15350,1196,1,2456,6595,22342,31.255035359412766,Swedish <sv@li.org>
+compat-gcc-34,3797,7669,19413,691,1301,2708,3567,30879,12.296382654878721,Swedish <sv@li.org>
+compat-wxGTK26,5444,0,0,1143,0,0,5151,5444,100.0,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+compiz,1701,262,394,443,57,84,1579,2357,72.1680101824353,Swedish <tp-sv@listor.tp-sv.se>
+compiz-fusion,3438,677,0,695,94,0,2902,4115,83.54799513973269,Compiz Fusion Translators <i18n@lists.compiz-fusion.org>
+compiz-fusion-extras,1668,258,48,327,47,7,1347,1974,84.49848024316108,Compiz Fusion Translators <i18n@lists.compiz-fusion.org>
+conduit,296,0,0,120,0,0,289,296,100.0,Swedish <tp-sv@listor.tp-sv.se>
+conglomerate,2503,353,3461,404,190,544,2295,6317,39.62323887921482,Swedish <sv@li.org>
+contact-lookup-applet,259,0,0,55,0,0,225,259,100.0,Swedish <tp-sv@listor.tp-sv.se>
+contacts,121,0,0,55,0,0,127,121,100.0,Swedish <tp-sv@listor.tp-sv.se>
+control-center,3960,0,0,877,0,0,3636,3960,100.0,Swedish <tp-sv@listor.tp-sv.se>
+coreutils,15966,16,0,1205,3,0,15280,15982,99.89988737329496,Swedish <tp-sv@listor.tp-sv.se>
+cowbell,462,79,105,96,18,9,445,646,71.51702786377709,Swedish <sv@li.org>
+cpio,873,317,147,128,26,30,857,1337,65.29543754674646,Swedish <sv@li.org>
+cups,4657,0,0,737,0,0,4416,4657,100.0,Swedish <tp-sv@listor.tp-sv.se>
+cupsddk,273,0,0,126,0,0,250,273,100.0,
+cycle,196,0,0,64,0,0,200,196,100.0,Swedish <tp-sv@listor.tp-sv.se>
+dar,5538,100,48,765,17,4,5273,5686,97.397115722828,Svenska <sv@li.org>
+dasher,751,0,5614,230,0,165,708,6365,11.798900235663787,Swedish <tp-sv@listor.tp-sv.se>
+dates,107,0,0,60,0,0,109,107,100.0,Swedish <tp-sv@listor.tp-sv.se>
+deluge,1246,94,929,347,32,73,1158,2269,54.91405905685324,Swedish <tp-sv@listor.tp-sv.se>
+deskbar-applet,1600,0,0,220,0,0,1556,1600,100.0,Swedish <tp-sv@listor.tp-sv.se>
+devhelp,309,0,0,71,0,0,265,309,100.0,Swedish <tp-sv@listor.tp-sv.se>
+dia,4283,530,898,1619,182,245,3787,5711,74.99562248292769,Swedish <sv@li.org>
+dialog,13,1,11,13,1,9,14,25,52.0,Swedish <tp-sv@listor.tp-sv.se>
+diffutils,1342,0,0,180,0,0,1295,1342,100.0,Swedish <sv@li.org>
+digikam,15937,0,0,2064,0,0,14355,15937,100.0,Swedish <sv@li.org>
+doodle,725,0,7,111,0,1,707,732,99.04371584699454,Swedish <tp-sv@listor.tp-sv.se>
+drgeo,1891,90,4,441,18,2,1835,1985,95.26448362720403,Swedish <sv@li.org>
+drivel,964,0,0,302,0,0,884,964,100.0,Swedish <tp-sv@listor.tp-sv.se>
+dvdisaster,3623,0,607,540,0,60,3331,4230,85.65011820330969,Swedish <tp-sv@listor.tp-sv.se>
+e2fsprogs,4671,211,103,761,28,15,4696,4985,93.70110330992979,Swedish <tp-sv@listor.tp-sv.se>
+easytag,4918,125,181,897,24,25,4892,5224,94.14241960183767,Swedish <LL@li.org>
+eel2,226,0,0,49,0,0,201,226,100.0,Swedish <tp-sv@listor.tp-sv.se>
+eiciel,135,0,0,40,0,0,129,135,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ekiga,10703,0,0,1011,0,0,9737,10703,100.0,Swedish <tp-sv@listor.tp-sv.se>
+elinks,359,1428,9599,171,453,941,339,11386,3.152994906024943,Swedish <sv@li.org>
+emerald,762,0,0,211,0,0,663,762,100.0,beryl-project
+empathy,1177,0,0,259,0,0,1099,1177,100.0,Swedish <tp-sv@listor.tp-sv.se>
+enigma,2023,27,3245,440,6,211,1932,5295,38.20585457979226,Swedish <tp-sv@listor.tp-sv.se>
+enscript,1659,169,0,204,5,0,1575,1828,90.75492341356673,Swedish <sv@li.org>
+eog,4078,0,0,465,0,0,3731,4078,100.0,Swedish <tp-sv@listor.tp-sv.se>
+epiphany,9934,0,0,1354,0,0,9220,9934,100.0,Swedish <tp-sv@listor.tp-sv.se>
+epiphany-extensions,4124,0,0,557,0,0,3847,4124,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evince,2779,0,0,446,0,0,2568,2779,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution,28994,0,24052,5699,0,1173,27204,53046,54.6582211665347,Swedish <tp-sv@listor.tp-sv.se>
+evolution-brutus,917,0,0,162,0,0,820,917,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution-data-server,5044,0,0,1042,0,0,4849,5044,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution-exchange,1307,0,0,194,0,0,1266,1307,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution-webcal,184,0,0,30,0,0,173,184,100.0,Swedish <tp-sv@listor.tp-sv.se>
+exaile,1276,0,0,379,0,0,1280,1276,100.0,Swedish <tp-sv@listor.tp-sv.se>
+exo,1132,0,331,201,0,85,986,1463,77.37525632262474,Swedish <tp-sv@listor.tp-sv.se>
+f-spot,4343,0,0,920,0,0,4270,4343,100.0,Swedish <tp-sv@listor.tp-sv.se>
+fakeroot,473,745,317,45,27,25,476,1535,30.814332247557,LANGUAGE <LL@li.org>
+fast-user-switch-applet,3177,0,0,208,0,0,2894,3177,100.0,Swedish <tp-sv@listor.tp-sv.se>
+file-roller,6557,0,0,682,0,0,6024,6557,100.0,Swedish <tp-sv@listor.tp-sv.se>
+filezilla,5005,2,0,833,1,0,4829,5007,99.96005592170961,Swedish <tp-sv@listor.tp-sv.se>
+findutils,1087,146,19,114,8,2,1034,1252,86.82108626198082,Swedish <tp-sv@listor.tp-sv.se>
+firestarter,475,616,813,85,134,155,381,1904,24.94747899159664,Swedish <sv@li.org>
+firstboot,598,0,0,59,0,0,517,598,100.0,Swedish <tp-sv@listor.tp-sv.se>
+fish,14010,902,1816,2591,165,223,12522,16728,83.75179340028694,Swedish <tp-sv@listor.tp-sv.se>
+flex,1057,0,0,155,0,0,1015,1057,100.0,Swedish <sv@li.org>
+freeciv,33279,0,0,3725,0,0,30829,33279,100.0,Swedish <sigra@home.se>
+frozen-bubble,201,105,310,49,23,65,191,616,32.62987012987013,LANGUAGE <LL@li.org>
+fslint,359,0,0,125,0,0,355,359,100.0,Swedish <tp-sv@listor.tp-sv.se>
+fuse-encfs,506,17,750,70,2,51,472,1273,39.74862529457973,Swedish <sv@li.org>
+fvwm,262,0,0,116,0,0,248,262,100.0,Swedish
+fwbuilder,4288,588,2748,882,192,313,3951,7624,56.24344176285414,Swedish <tp-sv@listor.tp-sv.se>
+gail,170,0,0,103,0,0,179,170,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gajim,5730,1438,351,1146,209,22,5388,7519,76.20694241255485,Swedish <sv@li.org>
+galeon,5996,0,0,1422,0,0,5612,5996,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gallery2,16179,17,71,2347,2,5,15297,16267,99.4590274789451,Swedish <gallery-devel@lists.sourceforge.net>
+galternatives,165,0,0,43,0,0,165,165,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gambas,2472,0,3,760,0,1,2328,2475,99.87878787878788,LANGUAGE <LL@li.org>
+ganglia,115,0,0,21,0,0,104,115,100.0,None <mhe@home.se>
+gawk,2217,144,82,353,22,11,2196,2443,90.749079001228,Swedish <sv@li.org>
+gazpacho,628,5,75,203,2,18,605,708,88.70056497175142,Swedish <tp-sv@listor.tp-sv.se>
+gcalctool,2207,29,4824,787,10,400,2128,7060,31.260623229461753,Swedish <tp-sv@listor.tp-sv.se>
+gcc,40900,98,45,6072,13,7,38075,41043,99.6515849231294,Swedish <tp-sv@listor.tp-sv.se>
+gcl,3104,271,0,468,36,0,2844,3375,91.97037037037038,Swedish <sv@li.org>
+gcombust,0,0,0,0,0,0,0,0,0.0,
+gcompris,10248,0,0,1193,0,0,9634,10248,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gconf-editor,2837,0,0,238,0,0,2556,2837,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gdb,4964,0,0,741,0,0,4616,4964,100.0,Swedish <sv@li.org>
+gdeskcal,19,0,66,19,0,14,19,85,22.35294117647059,LANGUAGE <LL@li.org>
+gdesklets,1390,0,0,179,0,0,1259,1390,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gdhcpd,1193,0,18,239,0,16,1063,1211,98.51362510322048,LANGUAGE <LL@li.org>
+gdm,8676,0,27519,1451,0,689,8051,36195,23.970161624533777,Swedish <tp-sv@listor.tp-sv.se>
+gedit,12826,0,0,1799,0,0,11884,12826,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gedit-plugins,159,0,0,43,0,0,148,159,100.0,Swedish <tp-sv@listor.tp-sv.se>
+genius,3174,439,1728,539,69,159,3074,5341,59.42707358172626,Swedish <sv@li.org>
+gentoo,2042,0,0,568,0,0,1938,2042,100.0,Swedish <sv@li.org>
+gettext,6648,74,22,663,9,3,5842,6744,98.57651245551602,Swedish <tp-sv@listor.tp-sv.se>
+gftp,2810,266,296,545,56,31,2646,3372,83.33333333333334,Swedish <sv@li.org>
+ghdl,16102,8056,16734,2655,1260,2160,14721,40892,39.37689523623202,Swedish <tp-sv@listor.tp-sv.se>
+ghex,2427,426,295,407,26,34,2270,3148,77.09656925031766,Swedish <tp-sv@listor.tp-sv.se>
+giggle,285,0,17,103,0,1,268,302,94.37086092715232,sv <sv@li.org>
+gimmie,646,0,0,161,0,0,622,646,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gimp,25543,0,0,6652,0,0,23044,25543,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gkrellm,3167,80,488,469,13,64,2711,3735,84.79250334672021,Swedish <sv@li.org>
+glade2,5172,221,183,1172,46,26,4255,5576,92.75466284074605,Swedish <sv@li.org>
+glib2,1356,0,0,173,0,0,1300,1356,100.0,Swedish <tp-sv@listor.tp-sv.se>
+glibc,7197,0,0,1320,0,0,6929,7197,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gliv,967,10,31,247,3,5,863,1008,95.93253968253968,Swedish <tp-sv@listor.tp-sv.se>
+glom,1843,0,2992,411,0,163,1733,4835,38.117890382626676,Swedish <tp-sv@listor.tp-sv.se>
+glunarclock,221,9,1,68,2,1,185,231,95.67099567099568,Swedish <sv@li.org>
+gmediaserver,1191,0,0,238,0,0,1184,1191,100.0,Swedish <sv@li.org>
+gnochm,584,0,0,122,0,0,555,584,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnokii,4953,135,13,1119,13,4,4789,5101,97.09860811605567,Swedish <tp-sv@listor.tp-sv.se>
+gnomad2,703,0,0,171,0,0,691,703,100.0,Swedish <sv@li.org>
+gnome-applet-music,561,0,0,110,0,0,538,561,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-applet-netspeed,654,0,0,112,0,0,588,654,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-applet-sensors,202,0,0,74,0,0,174,202,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-applet-timer,234,8,0,67,2,0,225,242,96.69421487603306,Swedish <sv@li.org>
+gnome-applets,18890,0,0,2179,0,0,16952,18890,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-backgrounds,18,0,0,9,0,0,14,18,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-blog,346,0,0,58,0,0,303,346,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-bluetooth,366,0,0,70,0,0,322,366,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-build,274,0,0,93,0,0,270,274,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-commander,3498,443,3823,859,106,390,2956,7764,45.05409582689335,Swedish <tp-sv@listor.tp-sv.se>
+gnome-desktop,9906,0,0,318,0,0,9227,9906,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-doc-utils,238,0,0,92,0,0,234,238,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-games,20772,0,29776,2662,0,1265,19720,50548,41.09361399066234,Swedish <tp-sv@listor.tp-sv.se>
+gnome-icon-theme,45,0,0,40,0,0,44,45,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-keyring,661,0,0,61,0,0,591,661,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-keyring-manager,742,0,0,108,0,0,697,742,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-launch-box,33,0,0,6,0,0,32,33,100.0,Swedish <sv@li.org>
+gnome-libs,1085,0,0,395,0,0,1035,1085,100.0,Swedish <sv@li.org>
+gnome-mag,298,0,0,42,0,0,297,298,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-media,6169,0,0,875,0,0,5539,6169,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-menus,165,0,0,58,0,0,153,165,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-mime-data,888,0,0,362,0,0,496,888,100.0,Swedish <sv@li.org>
+gnome-mount,790,0,0,170,0,0,682,790,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-netstatus,1232,0,0,187,0,0,1133,1232,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-nettool,1041,0,0,207,0,0,942,1041,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-panel,6572,0,0,782,0,0,6181,6572,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-phone-manager,517,0,0,91,0,0,477,517,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-pilot,1636,0,0,320,0,0,1607,1636,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-pilot-conduits,209,0,0,50,0,0,176,209,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-power-manager,7685,0,0,673,0,0,7133,7685,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-ppp,234,17,9,98,6,6,234,260,90.0,Swedish <sv@li.org>
+gnome-schedule,1515,0,1426,255,0,99,1466,2941,51.513090785447126,Swedish <tp-sv@listor.tp-sv.se>
+gnome-screensaver,991,0,0,163,0,0,913,991,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-session,888,0,0,126,0,0,840,888,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-specimen,29,3,24,14,1,3,35,56,51.78571428571429,Swedish <tp-sv@listor.tp-sv.se>
+gnome-spell,261,0,0,221,0,0,259,261,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-system-monitor,3930,0,0,509,0,0,3334,3930,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-terminal,8286,0,0,789,0,0,7576,8286,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-themes,85,0,0,26,0,0,102,85,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-user-docs,59439,196,17098,4487,25,907,52551,76733,77.46210887102029,Swedish <tp-sv@listor.tp-sv.se>
+gnome-user-share,75,0,0,16,0,0,73,75,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-utils,10902,0,0,1224,0,0,9850,10902,100.0,
+gnome-vfs2,1508,0,0,301,0,0,1311,1508,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-volume-manager,1169,0,0,193,0,0,1097,1169,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnomebaker,1186,0,0,291,0,0,1058,1186,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnomeradio,898,0,1302,125,0,126,860,2200,40.81818181818182,Swedish <tp-sv@listor.tp-sv.se>
+gnomescan,152,0,0,57,0,0,156,152,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnotime,1072,313,287,259,59,42,971,1672,64.11483253588517,Swedish <sv@li.org>
+gnubiff,1172,0,0,222,0,0,1094,1172,100.0,Swedish <sv@li.org>
+gnucash,13240,1128,10172,2836,139,899,11881,24540,53.95273023634882,Swedish <tp-sv@listor.tp-sv.se>
+gnumeric,43612,0,0,3371,0,0,39569,43612,100.0,Swedish <sv@li.org>
+gnupg,8417,9,4,1266,1,1,8288,8430,99.84578884934757,Swedish <tp-sv@listor.tp-sv.se>
+gnupg2,10123,274,219,1538,44,32,9902,10616,95.35606631499624,Swedish <tp-sv@listor.tp-sv.se>
+gnutls,587,0,0,95,0,0,478,587,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gobby,778,0,0,175,0,0,693,778,100.0,Swedish <tp-sv@listor.tp-sv.se>
+goffice,2259,233,537,910,100,148,2069,3029,74.57906899966986,Swedish <sv@li.org>
+goffice04,2150,498,1342,845,198,322,1975,3990,53.88471177944862,Swedish <sv@li.org>
+gok,1942,0,0,439,0,0,1750,1942,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gossip,2956,0,1919,545,0,138,2755,4875,60.635897435897434,Swedish <tp-sv@listor.tp-sv.se>
+gourmet,2176,15,4861,516,5,1061,2136,7052,30.85649461145774,Swedish (Sweden) <sv_SE@li.org>
+gpa,1680,23,13,370,5,1,1509,1716,97.9020979020979,Swedish <sv@li.org>
+gparted,1260,0,0,276,0,0,1280,1260,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gperiodic,1827,11,12,522,6,3,1544,1850,98.75675675675676,LANGUAGE <LL@li.org>
+gphoto2,3682,2263,3187,749,455,513,3438,9132,40.3197547087166,Swedish <tp-sv@listor.tp-sv.se>
+gpodder,76,292,906,39,92,139,81,1274,5.965463108320251,Swedish <sv@li.org>
+gpsdrive,937,237,1203,211,50,148,851,2377,39.41943626419857,Deutsch <de@li.org>
+gqview,1708,12,1,665,3,1,1719,1721,99.24462521789657,Swedish <sv@li.org>
+gramps,18819,0,0,3060,0,0,16341,18819,100.0,Swedish <sv@li.org>
+grep,579,0,0,50,0,0,586,579,100.0,Swedish <sv@li.org>
+grsync,89,106,470,27,15,70,87,665,13.383458646616543,Swedish <tp-sv@listor.tp-sv.se>
+gscan2pdf,161,0,698,85,0,180,160,859,18.742724097788127,Swedish <sv@li.org>
+gshutdown,276,67,149,69,13,19,278,492,56.09756097560976,
+gstreamer,1127,38,0,235,5,0,1065,1165,96.7381974248927,Swedish <tp-sv@listor.tp-sv.se>
+gstreamer-plugins-base,57,126,361,16,29,74,53,544,10.477941176470589,Swedish <sv@li.org>
+gstreamer-plugins-good,42,177,283,27,25,31,40,502,8.366533864541832,Swedish <sv@li.org>
+gthumb,11226,0,0,1541,0,0,10423,11226,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtk+,202,0,0,105,0,0,188,202,100.0,Swedish <sv@li.org>
+gtk-qt-engine,155,0,0,28,0,0,136,155,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtk2,12092,0,0,2412,0,0,10169,12092,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtk2-engines,83,0,0,33,0,0,71,83,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtkhtml3,920,0,0,398,0,0,839,920,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtkhtml38,912,0,0,405,0,0,829,912,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtkpod,5893,613,505,886,65,74,5618,7011,84.05363000998432,Svenska <sv@li.org>
+gtksourceview,891,0,0,366,0,0,719,891,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtksourceview2,826,0,0,349,0,0,694,826,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtranslator,1428,0,0,369,0,0,1330,1428,100.0,Swedish <sv@li.org>
+gucharmap,2376,0,0,414,0,0,2092,2376,100.0,
+gutenprint,6038,494,403,1423,131,108,5732,6935,87.06560922855083,Swedish <tp-sv@listor.tp-sv.se>
+gwenview,1321,0,0,320,0,0,1252,1321,100.0,Swedish <sv@li.org>
+gwget,541,0,0,190,0,0,550,541,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gxine,2561,4,27,618,2,3,2504,2592,98.80401234567901,Swedish <tp-sv@listor.tp-sv.se>
+hddtemp,403,0,0,26,0,0,403,403,100.0,Swedish <sv@li.org>
+help2man,284,0,0,29,0,0,284,284,100.0,Swedish <tp-sv@listor.tp-sv.se>
+horde,7236,0,267,2019,0,33,6415,7503,96.44142343062775,Swedish <i18n@lists.horde.org>
+hugin,3659,5,11,710,1,1,3211,3675,99.56462585034014,Svenska <se@li.org>
+hwbrowser,116,0,0,51,0,0,95,116,100.0,Swedish <sv@li.org>
+icewm,0,0,0,0,0,0,0,0,0.0,Swedish <sv@li.org>
+im-chooser,70,45,57,8,6,10,65,172,40.69767441860465,Swedish <sv@li.org>
+imp,5647,0,78,1137,0,9,4922,5725,98.63755458515284,Swedish <i18n@lists.horde.org>
+indent,270,0,0,59,0,0,271,270,100.0,Swedish <sv@li.org>
+ingo,767,0,0,208,0,0,692,767,100.0,Swedish <i18n@lists.horde.org>
+initscripts,3413,189,131,772,57,28,3146,3733,91.42780605411197,Swedish <sv@li.org>
+inkscape,2683,2952,6013,818,865,794,2585,11648,23.033997252747252,Svenska <sv@li.org>
+iso-codes,2413,7084,9544,1455,5870,5932,2094,19041,12.672653747177144,Swedish
+isomaster,655,0,0,101,0,0,647,655,100.0,Swedish <tp-sv@listor.tp-sv.se>
+istanbul,350,0,0,45,0,0,341,350,100.0,Swedish <tp-sv@listor.tp-sv.se>
+jokosher,1447,30,454,320,2,58,1390,1931,74.9352667011911,Swedish <sv@li.org>
+jpilot,815,423,999,298,134,202,752,2237,36.43272239606616,Swedish <sv@li.org>
+jwhois,440,0,0,71,0,0,423,440,100.0,Swedish <tp-sv@listor.tp-sv.se>
+k3b,20630,0,0,2532,0,0,18542,20630,100.0,Swedish <sv@li.org>
+kaffeine,2354,0,0,658,0,0,2283,2354,100.0,Swedish <sv@li.org>
+katapult,427,0,0,82,0,0,391,427,100.0,Swedish <sv@li.org>
+kbackup,343,0,0,76,0,0,328,343,100.0,<sv@li.org>
+kbd,0,0,0,0,0,0,0,0,0.0,
+kdbg,166,28,228,65,14,75,174,422,39.33649289099526,(None)
+kdebluetooth,1517,0,0,289,0,0,1430,1517,100.0,Swedish <sv@li.org>
+kdesvn,2006,608,642,524,65,54,1977,3256,61.60933660933661,Svenska <sv@li.org>
+kdetv,2206,0,0,483,0,0,2076,2206,100.0,Svenska <sv@li.org>
+kdiff3,2961,0,0,507,0,0,2860,2961,100.0,Swedish <sv@li.org>
+kdissert,2027,0,0,282,0,0,1908,2027,100.0,Swedish <sv@li.org>
+kerry,486,0,0,134,0,0,450,486,100.0,Swedish <sv@li.org>
+keurocalc,3042,0,0,342,0,0,2748,3042,100.0,Swedish <sv@li.org>
+kexec-tools,95,39,72,9,2,3,83,206,46.116504854368934,Swedish <sv@li.org>
+kftpgrabber,2237,0,0,580,0,0,2086,2237,100.0,Swedish <sv@li.org>
+kile,10070,0,0,1512,0,0,8949,10070,100.0,Swedish <sv@li.org>
+kiosktool,2289,0,0,238,0,0,2043,2289,100.0,Svenska <sv@li.org>
+kipi-plugins,13316,0,0,2365,0,0,11825,13316,100.0,Svenska <sv@li.org>
+kmymoney2,734,37,10237,346,14,1484,645,11008,6.667877906976743,Swedish <sv@li.org>
+knemo,613,0,0,184,0,0,548,613,100.0,Swedish <sv@li.org>
+knetstats,118,0,0,53,0,0,116,118,100.0,Swedish <sv@li.org>
+konversation,8614,0,0,1279,0,0,7940,8614,100.0,Swedish <sv@li.org>
+kooldock,592,0,0,114,0,0,568,592,100.0,Swedish
+kphotoalbum,5895,0,0,682,0,0,5472,5895,100.0,Swedish <sv@li.org>
+kpowersave,1467,80,152,286,14,16,1403,1699,86.34490876986463,<sv@li.org>
+krecipes,2940,0,0,406,0,0,2732,2940,100.0,Svenska <sv@li.org>
+krename,1603,0,0,327,0,0,1482,1603,100.0,Svenska <sv@li.org>
+kronolith,1538,0,0,416,0,0,1381,1538,100.0,Swedish <i18n@lists.horde.org>
+krusader,6769,0,0,1398,0,0,6271,6769,100.0,krusader-i18n <krusader-i18n@googlegroups.com>
+kshutdown,687,43,46,158,18,9,646,776,88.53092783505154,Swedish <tp-sv@listor.tp-sv.se>
+kst,6817,0,0,1663,0,0,6224,6817,100.0,Swedish <sv@li.org>
+ksynaptics,655,0,0,134,0,0,606,655,100.0,Swedish <sv@li.org>
+ktorrent,3560,0,0,859,0,0,3577,3560,100.0,Swedish <sv@li.org>
+kudzu,73,0,0,13,0,0,78,73,100.0,Swedish <sv@li.org>
+labyrinth,146,0,0,42,0,0,153,146,100.0,
+leafpad,121,0,2,66,0,1,136,123,98.3739837398374,Swedish <tp-sv@listor.tp-sv.se>
+libbonobo,547,0,0,108,0,0,511,547,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libbonoboui,361,0,0,114,0,0,309,361,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libconfuse,115,0,0,21,0,0,104,115,100.0,None <mhe@home.se>
+libextractor,729,22,26,345,12,11,695,777,93.82239382239382,Swedish <tp-sv@listor.tp-sv.se>
+libgda,1915,640,2848,509,108,419,1707,5403,35.44327225615399,Swedish <tp-sv@listor.tp-sv.se>
+libgnome,1656,0,0,256,0,0,1412,1656,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnomecanvas,378,0,0,95,0,0,303,378,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnomecups,210,0,0,54,0,0,186,210,100.0,Swedish <sv@li.org>
+libgnomedb,220,556,1242,68,142,202,189,2018,10.901883052527255,Swedish <sv@li.org>
+libgnomekbd,262,0,0,49,0,0,222,262,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnomeprint22,168,0,0,98,0,0,150,168,100.0,Swedish <sv@li.org>
+libgnomeprintui22,481,0,0,154,0,0,448,481,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnomeui,1309,0,0,334,0,0,1154,1309,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgpod,729,90,23,115,6,2,738,842,86.57957244655582,Svenska <sv@li.org>
+libgsasl,502,0,0,56,0,0,468,502,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgsf,77,0,0,10,0,0,80,77,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgtop2,126,0,0,40,0,0,100,126,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libidn,186,9,20,37,3,9,167,215,86.51162790697674,Swedish <sv@li.org>
+libkdcraw,875,0,0,55,0,0,802,875,100.0,Swedish <sv@li.org>
+libkexif,25,0,0,14,0,0,19,25,100.0,Svenska <sv@li.org>
+libpaper,73,0,0,46,0,0,76,73,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+libqalculate,5409,0,1355,1612,0,647,4758,6764,79.96747486694264,Swedish
+libuser,1026,19,7,218,3,1,1059,1052,97.52851711026615,Swedish <sv@li.org>
+libvirt,2143,81,73,475,19,13,1945,2297,93.2956029603831,Swedish <sv@li.org>
+libwnck,1122,0,0,239,0,0,1061,1122,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libxfcegui4,76,0,5,24,0,1,67,81,93.82716049382715,Swedish <elvstone@gmail.com>
+licq,30,0,0,16,0,0,30,30,100.0,<erik@ejohansson.se>
+liferea,2534,0,0,505,0,0,2340,2534,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lilypond,434,959,1068,113,174,162,401,2461,17.635107679804957,Swedish <sv@li.org>
+lincity-ng,1822,0,0,440,0,0,1710,1822,100.0,Swedish <tp-sv@listor.tp-sv.se>
+linkage,688,0,15,251,0,14,675,703,97.86628733997155,Swedish
+linphone,614,85,94,159,21,28,569,793,77.42749054224464,Swedish <tp-sv@listor.tp-sv.se>
+linux_logo,45,0,0,15,0,0,45,45,100.0,Swedish <tp-sv@listor.tp-sv.se>
+listen,699,19,29,307,9,7,659,747,93.57429718875501,Swedish <sv@li.org>
+lock-keys-applet,17,33,4,7,10,2,20,54,31.48148148148148,Swedish <sv@li.org>
+lynx,7842,18,71,1188,5,7,6826,7931,98.87782120791829,Swedish <sv@li.org>
+mail-notification,1908,0,0,354,0,0,1722,1908,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mailman,13880,4617,2837,1080,149,99,13935,21334,65.06046686041061,Swedish <information@arvika.se>
+make,1355,381,261,296,58,40,1275,1997,67.85177766649974,Swedish <sv@li.org>
+mc,3061,257,181,898,46,44,3033,3499,87.4821377536439,Swedish <sv@li.org>
+meld,849,0,0,238,0,0,833,849,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mesa,270,0,0,52,0,0,222,270,100.0,Swedish <tp-sv@listor.tp-sv.se>
+metacity,8059,0,0,515,0,0,7479,8059,100.0,Swedish <tp-sv@listor.tp-sv.se>
+minicom,1361,162,264,346,24,19,1339,1787,76.1611639619474,Swedish <tp-sv@listor.tp-sv.se>
+moin,2651,0,0,472,0,0,2582,2651,100.0,
+monkey-bubble,309,0,0,86,0,0,300,309,100.0,Swedish <tp-sv@listor.tp-sv.se>
+monotone,6931,0,26,940,0,1,7040,6957,99.62627569354608,Swedish <sv@li.org>
+mousepad,134,0,1,63,0,1,146,135,99.25925925925925,Swedish <sv@li.org>
+muine,488,0,0,123,0,0,493,488,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mutt,4875,198,132,1039,29,19,4823,5205,93.65994236311239,Swedish <sv@li.org>
+mysql,302,0,0,19,0,0,281,302,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nano,2249,0,0,362,0,0,2064,2249,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus,6969,0,0,1160,0,0,6671,6969,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus-actions,1555,0,0,175,0,0,1403,1555,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus-cd-burner,1306,0,0,210,0,0,1208,1306,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus-image-converter,79,0,0,35,0,0,89,79,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus-open-terminal,24,0,0,5,0,0,26,24,100.0,Swedish <sv@li.org>
+nautilus-search-tool,11,0,0,2,0,0,11,11,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus-sendto,174,0,0,39,0,0,155,174,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ncmpc,422,0,12,145,0,12,415,434,97.23502304147466,sv <sv@li.org>
+nemiver,463,0,1064,148,0,82,418,1527,30.320890635232484,Swedish <tp-sv@listor.tp-sv.se>
+net6,191,0,113,50,0,18,176,304,62.82894736842105,Swedish <sv@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Swedish <sv@li.org>
+notecase,314,262,580,116,90,150,285,1156,27.162629757785467,NoteCase team
+notification-daemon,31,0,0,6,0,0,27,31,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ntfs-config,283,61,111,46,6,15,267,455,62.1978021978022,Swedish <sv@li.org>
+obby,148,0,11,30,0,2,128,159,93.08176100628931,Swedish <sv@li.org>
+obconf,472,0,16,114,0,2,401,488,96.72131147540983,Swedish
+openbox,336,0,0,70,0,0,292,336,100.0,None
+opensp,4379,126,1266,595,17,110,3862,5771,75.87939698492463,Swedish <sv@li.org>
+orage,445,0,419,151,0,388,449,864,51.504629629629626,Swedish <sv@li.org>
+orca,2487,0,0,932,0,0,2307,2487,100.0,Swedish <tp-sv@listor.tp-sv.se>
+pam,402,71,64,90,12,13,413,537,74.86033519553072,Novell Language <language@novell.com>
+pan,2274,0,0,543,0,0,2257,2274,100.0,Swedish <tp-sv@listor.tp-sv.se>
+parted,892,1440,2454,133,147,277,889,4786,18.63769327204346,Swedish <sv@li.org>
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pessulus,88,0,0,30,0,0,79,88,100.0,Swedish <tp-sv@listor.tp-sv.se>
+pgadmin3,2159,1776,2260,766,589,525,1864,6195,34.850686037126714,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+pidgin,14312,726,616,3055,157,124,13378,15654,91.4271112814616,
+pidgin-guifications,442,32,31,183,4,5,427,505,87.52475247524752,Swedish <sv@li.org>
+pinfo,83,44,198,22,9,24,84,325,25.538461538461537,Swedish <sv@li.org>
+pingus,325,670,1265,108,65,102,310,2260,14.380530973451327,sv <jan.moren@lucs.lu.se>
+pinot,463,0,0,202,0,0,452,463,100.0,Swedish <tp-sv@listor.tp-sv.se>
+pirut,661,77,77,145,13,20,675,815,81.1042944785276,Swedish <sv@li.org>
+pitivi,721,0,0,155,0,0,658,721,100.0,Swedish <tp-sv@listor.tp-sv.se>
+planner,1744,0,0,511,0,0,1594,1744,100.0,Swedish <tp-sv@listor.tp-sv.se>
+pmount,454,90,179,55,5,3,432,723,62.7939142461964,Swedish <sv@li.org>
+po4a,1214,145,254,132,10,21,1113,1613,75.26348419094855,Swedish <tp-sv@listor.tp-sv.se>
+poedit,1134,0,0,266,0,0,1031,1134,100.0,TEAM <TEAM@li.org>
+policycoreutils,1214,0,0,204,0,0,1218,1214,100.0,Swedish <tp-sv@listor.tp-sv.se>
+popt,75,0,0,27,0,0,72,75,100.0,Swedish <tp-sv@listor.tp-sv.se>
+postgresql,24300,1007,5441,3386,118,565,22952,30748,79.02953037595941,Swedish <sv@li.org>
+postr,81,0,0,27,0,0,93,81,100.0,Swedish <tp-sv@listor.tp-sv.se>
+psmisc,629,8,59,51,2,3,650,696,90.37356321839081,Swedish <tp-sv@listor.tp-sv.se>
+pybliographer,971,0,0,262,0,0,953,971,100.0,Swedish <tp-sv@listor.tp-sv.se>
+pykickstart,240,43,1,22,2,1,227,284,84.50704225352112,Swedish <tp-sv@listor.tp-sv.se>
+python-kiwi,193,0,0,60,0,0,176,193,100.0,Swedish <sv@li.org>
+qalculate-gtk,2275,0,67,707,0,37,2013,2342,97.13919726729291,Swedish
+qalculate-kde,1378,0,42,557,0,39,1249,1420,97.04225352112677,Swedish
+qof,554,0,0,35,0,0,479,554,100.0,Swedish <tp-sv@listor.tp-sv.se>
+quodlibet,1681,78,65,463,27,21,1585,1824,92.16008771929825,SWEDISH
+recode,672,115,42,62,7,10,685,829,81.0615199034982,Swedish <sv@li.org>
+redhat-menus,261,0,0,86,0,0,225,261,100.0,Swedish <sv@li.org>
+regexxer,467,0,0,100,0,0,452,467,100.0,Swedish <tp-sv@listor.tp-sv.se>
+revelation,1899,0,0,392,0,0,1747,1899,100.0,Swedish <tp-sv@listor.tp-sv.se>
+revisor,0,0,3200,0,0,588,0,3200,0.0,
+rhgb,121,0,0,29,0,0,105,121,100.0,Swedish <sv@li.org>
+rhpl,185,0,0,80,0,0,172,185,100.0,Swedish <sv@li.org>
+rhpxl,136,0,0,43,0,0,109,136,100.0,Swedish <sv@li.org>
+rhythmbox,8903,0,0,1327,0,0,8333,8903,100.0,Swedish <tp-sv@listor.tp-sv.se>
+rosegarden4,29071,0,0,2834,0,0,26021,29071,100.0,Swedish <sv@li.org>
+rpm,4562,156,40,907,34,8,4286,4758,95.8806221101303,Swedish <sv@li.org>
+rsibreak,1353,0,0,153,0,0,1228,1353,100.0,Swedish <sv@li.org>
+rt3,4397,0,10,1204,0,2,4331,4407,99.77308826866349,
+ruby-gettext-package,76,0,124,17,0,20,71,200,38.0,Swedish
+sabayon,1178,0,0,230,0,0,1158,1178,100.0,Swedish <tp-sv@listor.tp-sv.se>
+samba,724,0,41,28,0,1,671,765,94.64052287581698,Swedish <sv@li.org>
+sane-backends,3629,0,0,703,0,0,3167,3629,100.0,Swedish <sv@li.org>
+scim,1168,2,3,276,2,3,966,1173,99.57374254049446,Swedish <sv@li.org>
+scribes,2170,0,250,465,0,32,2050,2420,89.6694214876033,Swedish <tp-sv@listor.tp-sv.se>
+seahorse,7505,0,0,1078,0,0,7064,7505,100.0,Swedish <tp-sv@listor.tp-sv.se>
+sed,502,0,3,80,0,1,509,505,99.4059405940594,Swedish <sv@li.org>
+sepostgresql,24300,1007,5441,3386,118,565,22952,30748,79.02953037595941,Swedish <sv@li.org>
+serpentine,460,42,142,92,9,21,447,644,71.42857142857143,Swedish <sv@li.org>
+setroubleshoot,191,97,219,72,30,34,182,507,37.67258382642998,Swedish <sv@li.org>
+setroubleshoot-plugins,4413,2856,560,165,58,10,3890,7829,56.36735215225443,Swedish <sv@li.org>
+setuptool,60,0,0,17,0,0,47,60,100.0,Swedish <sv@li.org>
+shadow-utils,6602,0,7182,945,0,214,6207,13784,47.89611143354614,Swedish <debian-l10n-swedish@lists.debian.org>
+shared-mime-info,945,0,0,408,0,0,533,945,100.0,Swedish <tp-sv@listor.tp-sv.se>
+sharutils,1039,0,0,151,0,0,1070,1039,100.0,Swedish <tp-sv@listor.tp-sv.se>
+showimg,4305,0,0,879,0,0,4091,4305,100.0,Swedish <sv@li.org>
+sirius,154,0,0,45,0,0,159,154,100.0,LANGUAGE <LL@li.org>
+skencil,1471,16,0,478,1,0,1430,1487,98.92400806993948,Swedish <sv@li.org>
+slrn,4845,353,0,878,8,36,4711,5198,93.20892651019624,Swedish <sv@li.org>
+smart,4163,0,0,721,0,0,4038,4163,100.0,Swedish <tp-sv@listor.tp-sv.se>
+smolt,27,0,729,18,0,67,21,756,3.571428571428571,Swedish <sv@li.org>
+solfege,1359,565,1536,406,216,291,1323,3460,39.27745664739884,Swedish <tp-sv@listor.tp-sv.se>
+sonata,926,2,0,287,1,0,915,928,99.78448275862068,Swedish <tp-sv@listor.tp-sv.se>
+sound-juicer,5856,0,0,344,0,0,5507,5856,100.0,Swedish <tp-sv@listor.tp-sv.se>
+soundconverter,405,21,18,94,5,4,385,444,91.21621621621621,Swedish <tp-sv@listor.tp-sv.se>
+soundtracker,1593,28,27,456,5,8,1477,1648,96.6626213592233,Swedish <sv@li.org>
+specspo,82762,35528,187004,4717,4480,7653,72357,305294,27.10895071635866,Swedish <tp-sv@listor.tp-sv.se>
+specto,615,0,0,146,0,0,578,615,100.0,Swedish <sv@li.org>
+squirrelmail,9389,0,0,1789,0,0,8357,9389,100.0,Swedish <squirrelmail-i18n@lists.sourceforge.net>
+stellarium,621,111,364,269,15,192,581,1096,56.660583941605836,Swedish <tp-sv@listor.tp-sv.se>
+straw,610,0,0,194,0,0,610,610,100.0,Swedish <tp-sv@listor.tp-sv.se>
+subversion,12614,0,115,1475,0,3,12422,12729,99.09655118233954,Swedish <sv@li.org>
+supertux,451,118,640,122,9,64,439,1209,37.30355665839537,<supertux-devel@lists.berlios.de>
+switchdesk,146,0,0,28,0,0,125,146,100.0,Swedish <sv@li.org>
+sylpheed,5236,515,349,1353,140,41,4826,6100,85.8360655737705,Swedish <sv@li.org>
+synce-software-manager,134,0,0,13,0,0,116,134,100.0,LANGUAGE <sv@li.org>
+synce-trayicon,153,2,0,27,1,0,149,155,98.70967741935483,Swedish <sv@li.org>
+sysstat,223,0,0,25,0,0,209,223,100.0,Swedish <tp-sv@listor.tp-sv.se>
+system-config-bind,9305,14,97,1053,2,6,7980,9416,98.82115548003398,Swedish <sv@li.org>
+system-config-boot,41,0,5,9,0,1,33,46,89.13043478260869,Swedish <sv@li.org>
+system-config-date,939,33,26,601,5,3,913,998,94.0881763527054,Swedish <sv@li.org>
+system-config-display,398,0,0,63,0,0,343,398,100.0,Swedish <sv@li.org>
+system-config-firewall,1298,444,1214,117,49,113,1249,2956,43.9106901217862,Swedish <sv@li.org>
+system-config-httpd,858,0,0,223,0,0,784,858,100.0,Swedish <sv@li.org>
+system-config-keyboard,78,0,0,12,0,0,70,78,100.0,Swedish <sv@li.org>
+system-config-kickstart,1042,12,0,279,2,0,819,1054,98.86148007590133,Swedish <sv@li.org>
+system-config-language,45,0,0,10,0,0,35,45,100.0,Swedish <sv@li.org>
+system-config-lvm,2049,33,2,320,2,1,2001,2084,98.32053742802303,Swedish <sv@li.org>
+system-config-netboot,1018,5,65,146,1,14,867,1088,93.56617647058823,Swedish <sv@li.org>
+system-config-network,3010,0,1,732,0,1,2669,3011,99.96678844237795,Swedish <sv@li.org>
+system-config-nfs,318,0,0,73,0,0,295,318,100.0,Swedish <sv@li.org>
+system-config-printer,1208,59,18,300,21,5,1121,1285,94.00778210116731,Swedish <sv@li.org>
+system-config-rootpassword,50,0,0,9,0,0,36,50,100.0,Swedish <sv@li.org>
+system-config-samba,391,1,31,134,1,3,365,423,92.43498817966903,Swedish <sv@li.org>
+system-config-services,232,0,0,62,0,0,232,232,100.0,Swedish <sv@li.org>
+system-config-soundcard,224,0,0,51,0,0,189,224,100.0,Swedish <sv@li.org>
+system-config-users,845,253,88,142,18,5,730,1186,71.24789207419899,Swedish <sv@li.org>
+system-switch-mail,134,0,0,20,0,0,113,134,100.0,Swedish <sv@li.org>
+tagtool,958,0,0,211,0,0,901,958,100.0,Swedish <sv@li.org>
+tar,2930,52,3,487,7,1,2896,2985,98.1574539363484,Swedish <tp-sv@listor.tp-sv.se>
+tasks,34,0,0,23,0,0,33,34,100.0,Swedish/Sweden <sv@li.org>
+tellico,5149,0,1,1050,0,1,4433,5150,99.98058252427184,<sv@li.org>
+tetex,4382,0,0,564,0,0,4162,4382,100.0,Swedish <sv@li.org>
+texinfo,3447,980,154,543,19,18,3276,4581,75.24557956777997,Swedish <sv@li.org>
+tin,1081,8,8609,363,2,924,1075,9698,11.146628170756857,Swedish <tp-sv@listor.tp-sv.se>
+tinyca2,1894,0,0,436,0,0,1791,1894,100.0,Swedish <tp-sv@listor.tp-sv.se>
+tinyerp,162,172,1054,59,58,309,153,1388,11.671469740634006,FR <i18n-info@tinyerp.org>
+tomboy,5999,0,0,588,0,0,5657,5999,100.0,Swedish <tp-sv@listor.tp-sv.se>
+totem,4347,0,0,623,0,0,4027,4347,100.0,
+trackballs,592,45,317,169,19,81,566,954,62.05450733752621,
+tracker,952,0,0,218,0,0,915,952,100.0,Swedish <tp-sv@listor.tp-sv.se>
+transmission,728,0,0,204,0,0,697,728,100.0,Swedish <tp-sv@listor.tp-sv.se>
+tre,442,0,5,29,0,1,438,447,98.88143176733782,Swedish <tp-sv@listor.tp-sv.se>
+tsclient,487,0,0,92,0,0,412,487,100.0,Swedish <tp-sv@listor.tp-sv.se>
+turba,1345,0,0,319,0,0,1169,1345,100.0,Swedish <i18n@lists.horde.org>
+tuxpaint,591,0,0,159,0,0,602,591,100.0,Swedish <tp-sv@listor.tp-sv.se>
+tuxpaint-stamps,973,320,615,237,122,140,853,1908,50.9958071278826,
+tvtime,1169,49,6,240,5,2,1071,1224,95.50653594771242,Per von Zweigbergk <pvz@e.kth.se>
+usbsink,379,0,0,132,0,0,366,379,100.0,Swedish <tp-sv@listor.tp-sv.se>
+usermode,570,0,0,96,0,0,528,570,100.0,Swedish <sv@li.org>
+util-linux-ng,11659,77,0,1890,10,0,11403,11736,99.34389911383776,Swedish <tp-sv@listor.tp-sv.se>
+vim,8235,0,0,1701,0,0,7889,8235,100.0,Swedish <tp-sv@listor.tp-sv.se>
+vino,838,0,0,84,0,0,797,838,100.0,Swedish <tp-sv@listor.tp-sv.se>
+virt-manager,1757,325,697,397,84,101,1500,2779,63.22418136020151,Swedish <sv@li.org>
+vorbis-tools,789,967,1561,142,53,188,738,3317,23.786554115164304,Swedish <sv@li.org>
+vte,116,0,0,20,0,0,122,116,100.0,Swedish <tp-sv@listor.tp-sv.se>
+wallpapoz,395,0,0,101,0,0,409,395,100.0,Swedish <tp-sv@listor.tp-sv.se>
+wammu,3455,111,33,675,21,9,3312,3599,95.99888858016115,Swedish <tp-sv@listor.tp-sv.se>
+wesnoth,119067,0,0,6885,0,0,112934,119067,100.0,Swedish
+wget,1634,0,0,203,0,0,1645,1634,100.0,Swedish <sv@li.org>
+widelands,3118,277,10123,737,79,313,2966,13518,23.065542239976327,LANGUAGE <LL@li.org>
+wlassistant,703,162,226,96,26,31,684,1091,64.43629697525206,Swedish <tp-sv@listor.tp-sv.se>
+workrave,1114,6,0,211,3,0,1073,1120,99.46428571428572,Swedish <tp-sv@listor.tp-sv.se>
+wormux,463,0,0,126,0,0,429,463,100.0,Swedish <tp-sv@listor.tp-sv.se>
+wxGTK,6428,0,0,1479,0,0,6062,6428,100.0,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+wxPython,6428,0,0,1479,0,0,6062,6428,100.0,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+xarchiver,1076,58,115,222,15,25,1008,1249,86.14891913530825,Swedish <tp-sv@listor.tp-sv.se>
+xcdroast,8044,0,0,848,0,0,7080,8044,100.0,Swedish
+xchat,5027,3,0,1236,2,0,4740,5030,99.9403578528827,Swedish <tp-sv@listor.tp-sv.se>
+xchat-gnome,4030,0,0,1040,0,0,3823,4030,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xchm,204,2,21,76,1,10,202,227,89.86784140969164,Swedish <tp-sv@listor.tp-sv.se>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xdg-user-dirs-gtk,52,0,0,8,0,0,45,52,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xfce-mcs-manager,30,0,0,7,0,0,23,30,100.0,Swedish <sv@li.org>
+xfce-mcs-plugins,449,0,26,123,0,10,418,475,94.52631578947368,Swedish <sv@li.org>
+xfce-utils,114,0,5,33,0,1,112,119,95.7983193277311,Swedish <sv@li.org>
+xfce4-appfinder,48,0,0,28,0,0,46,48,100.0,Swedish <sv@li.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Swedish <sv@li.org>
+xfce4-mixer,224,0,2,93,0,1,221,226,99.11504424778761,Swedish <sv@li.com>
+xfce4-panel,553,0,25,155,0,5,562,578,95.67474048442907,Swedish <sv@li.org>
+xfce4-places-plugin,7,3,33,5,1,13,6,43,16.27906976744186,
+xfce4-session,738,0,0,129,0,0,662,738,100.0,Swedish <sv@li.org>
+xfce4-systemload-plugin,54,0,0,18,0,0,45,54,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xfdesktop,1065,0,13,285,0,3,1077,1078,98.79406307977736,Swedish <sv@li.org>
+xfprint,292,0,31,105,0,8,285,323,90.40247678018576,Swedish <sv@li.org>
+xfwm4,628,0,18,188,0,2,630,646,97.21362229102168,Swedish <sv@li.org>
+xkeyboard-config,2029,0,0,665,0,0,1910,2029,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xmms,3007,166,72,963,32,22,2881,3245,92.66563944530046,Swedish <sv@li.org>
+xmoto,2601,22,10,523,6,5,2500,2633,98.78465628560578,Swedish
+xsane,2299,612,311,543,118,61,2141,3222,71.35319677219118,LANGUAGE <sv@li.org>
+xscreensaver,1767,1175,8248,317,520,997,1649,11190,15.79088471849866,Swedish <sv@li.org>
+yakuake,113,0,0,33,0,0,107,113,100.0,Swedish <sv@li.org>
+yelp,837,0,0,238,0,0,790,837,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ypbind,407,0,0,82,0,0,406,407,100.0,Swedish <tp-sv@listor.tp-sv.se>
+zenity,2884,0,0,383,0,0,2494,2884,100.0,Swedish <tp-sv@listor.tp-sv.se>

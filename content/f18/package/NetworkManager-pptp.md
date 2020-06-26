@@ -1,0 +1,91 @@
+---
+title: "NetworkManager-pptp - translation progress for f18"
+package: NetworkManager-pptp
+date: 2026-01-20T03:08:50+00:00
+started_languages: 53
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 54
+release: f18
+---
+The package NetworkManager-pptp (version 0.9.3.997):
+
+* represents 830 source words to be translated
+* is translated into 53 languages in Fedora f18
+
+
+* contains 54 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [as]({{< ref "/f18/language/as.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/as.po | 
+ | [be_Latn]({{< ref "/f18/language/be_Latn.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/be@latin.po | 
+ | [bg]({{< ref "/f18/language/bg.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/bg.po | 
+ | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/bn_IN.po | 
+ | [ca]({{< ref "/f18/language/ca.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ca.po | 
+ | [cs]({{< ref "/f18/language/cs.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/cs.po | 
+ | [da]({{< ref "/f18/language/da.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/da.po | 
+ | [de]({{< ref "/f18/language/de.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/de.po | 
+ | [el]({{< ref "/f18/language/el.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/el.po | 
+ | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/en_GB.po | 
+ | [es]({{< ref "/f18/language/es.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/es.po | 
+ | [et]({{< ref "/f18/language/et.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/et.po | 
+ | [eu]({{< ref "/f18/language/eu.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/eu.po | 
+ | [fi]({{< ref "/f18/language/fi.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/fi.po | 
+ | [fr]({{< ref "/f18/language/fr.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/fr.po | 
+ | [gl]({{< ref "/f18/language/gl.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/gl.po | 
+ | [gu]({{< ref "/f18/language/gu.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/gu.po | 
+ | [he]({{< ref "/f18/language/he.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/he.po | 
+ | [hu]({{< ref "/f18/language/hu.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/hu.po | 
+ | [id]({{< ref "/f18/language/id.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/id.po | 
+ | [it]({{< ref "/f18/language/it.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/it.po | 
+ | [ka]({{< ref "/f18/language/ka.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ka.po | 
+ | [kn]({{< ref "/f18/language/kn.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/kn.po | 
+ | [ko]({{< ref "/f18/language/ko.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ko.po | 
+ | [lt]({{< ref "/f18/language/lt.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/lt.po | 
+ | [mk]({{< ref "/f18/language/mk.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/mk.po | 
+ | [mr]({{< ref "/f18/language/mr.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/mr.po | 
+ | [nl]({{< ref "/f18/language/nl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/nl.po | 
+ | [pa]({{< ref "/f18/language/pa.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/pa.po | 
+ | [pl]({{< ref "/f18/language/pl.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/pl.po | 
+ | [pt]({{< ref "/f18/language/pt.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/pt.po | 
+ | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/pt_BR.po | 
+ | [ro]({{< ref "/f18/language/ro.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ro.po | 
+ | [ru]({{< ref "/f18/language/ru.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ru.po | 
+ | [sl]({{< ref "/f18/language/sl.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/sl.po | 
+ | [sr]({{< ref "/f18/language/sr.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/sr.po/mnt/stockage/packages/f18/NetworkManager-pptp/po/sr@latin.po | 
+ | [ta]({{< ref "/f18/language/ta.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ta.po | 
+ | [te]({{< ref "/f18/language/te.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/te.po | 
+ | [th]({{< ref "/f18/language/th.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/th.po | 
+ | [uk]({{< ref "/f18/language/uk.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/uk.po | 
+ | [vi]({{< ref "/f18/language/vi.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/vi.po | 
+ | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/zh_TW.po | 
+ | [zh_Hant_HK]({{< ref "/f18/language/zh_Hant_HK.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/zh_HK.po | 
+ | [ja]({{< ref "/f18/language/ja.md" >}}) | 273 | 280 | 97.5 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ja.po | 
+ | [sv]({{< ref "/f18/language/sv.md" >}}) | 366 | 415 | 88.2 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/sv.po | 
+ | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 115 | 144 | 79.9 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ca@valencia.po | 
+ | [lv]({{< ref "/f18/language/lv.md" >}}) | 305 | 415 | 73.5 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/lv.po | 
+ | [ug]({{< ref "/f18/language/ug.md" >}}) | 102 | 144 | 70.8 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ug.po | 
+ | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 182 | 280 | 65.0 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/nb.po | 
+ | [fa]({{< ref "/f18/language/fa.md" >}}) | 144 | 289 | 49.8 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/fa.po | 
+ | [eo]({{< ref "/f18/language/eo.md" >}}) | 37 | 280 | 13.2 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/eo.po | 
+ | [ar]({{< ref "/f18/language/ar.md" >}}) | 11 | 112 | 9.8 | /mnt/stockage/packages/f18/NetworkManager-pptp/po/ar.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

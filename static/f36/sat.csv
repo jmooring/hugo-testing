@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gimagereader,183,10,1624,67,5,410,219,1817,10.0715465052284,Santali <https://hosted.weblate.org/projects/gimagereader/translations/sat/>
+gnome-characters,153,0,0,53,0,0,203,153,100.0,Santali
+gnome-desktop3,160,0,0,35,0,0,173,160,100.0,Santali
+inkscape,18793,10651,11485,4045,3020,1603,24556,40929,45.91609860978768,LANGUAGE <LL@li.org>
+libreoffice,55437,16563,95397,16679,7118,14325,82474,167397,33.117080951271525,LANGUAGE <LL@li.org>
+tuxpaint,1174,970,1619,255,103,103,1518,3763,31.198511825671005,none

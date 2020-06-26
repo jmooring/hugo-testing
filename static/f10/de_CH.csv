@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+fuse-encfs,265,26,1020,51,4,83,237,1311,20.21357742181541,German (Switzerland) <de_CH@li.org>
+gnomebaker,271,0,915,90,0,201,229,1186,22.849915682967957,German (Switzerland) <de_CH@li.org>
+gnucash,24163,0,0,3669,0,0,21730,24163,100.0,Swiss German <de_CH@li.org>
+liblicense,45,0,21,38,0,12,43,66,68.18181818181817,LANGUAGE <LL@li.org>
+nfoview,97,0,0,44,0,0,87,97,100.0,German <fedora-trans-de@redhat.com>
+pgadmin3,2152,3234,3592,764,1008,753,1915,8978,23.969703720204947,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+system-config-samba,415,0,7,136,0,1,381,422,98.34123222748815,German <fedora-trans-de@redhat.com>

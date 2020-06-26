@@ -1,0 +1,30 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,12,0,6016,12,0,954,16,6028,0.19907100199071004,German (Switzerland)
+atril,94,8,2223,8,2,502,82,2325,4.043010752688172,German (Switzerland) (https://app.transifex.com/mate/teams/13566/de_CH/)
+budgie-desktop,1560,0,299,394,0,87,1428,1859,83.91608391608392,German (Switzerland) (https://app.transifex.com/buddiesofbudgie/teams/129844/de_CH/)
+cmake-fedora,0,0,0,0,0,0,0,0,0.0,
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,German (Switzerland)
+fuse-encfs,1041,24,224,118,3,16,972,1289,80.76027928626843,German (Switzerland) <de_CH@li.org>
+grub2,8248,12,35,1522,2,4,7808,8295,99.4333936106088,German <translation-team-de@lists.sourceforge.net>
+hunspell,0,0,613,0,0,79,0,613,0.0,German (Switzerland) <https://hosted.weblate.org/projects/hunspell/translations/de_CH/>
+imsettings,0,0,500,0,0,92,0,500,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,German (Switzerland)
+libmatekbd,0,0,308,0,0,91,0,308,0.0,German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/)
+libuser,938,38,461,204,7,90,990,1437,65.27487821851079,German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/)
+mate-desktop,104,0,2308,9,0,286,108,2412,4.311774461028192,German (Switzerland) (https://app.transifex.com/mate/teams/13566/de_CH/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,German (Switzerland) (http://app.transifex.com/mate/MATE/language/de_CH/)
+mc,0,0,4429,0,0,1271,0,4429,0.0,German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/)
+mingw-hunspell,0,0,613,0,0,79,0,613,0.0,German (Switzerland) <https://hosted.weblate.org/projects/hunspell/translations/de_CH/>
+nfoview,46,0,62,20,0,17,40,108,42.592592592592595,German (Switzerland) (http://app.transifex.com/otsaloma/nfoview/language/de_CH/)
+php-php-gettext,18,0,0,2,0,0,15,18,100.0,
+policycoreutils,12,0,6105,12,0,959,16,6117,0.196174595389897,German (Switzerland)
+publican,593,0,8473,59,0,1080,597,9066,6.540922126626958,<fedora-trans-de@redhat.com>
+pykickstart,128,43,1457,13,1,166,133,1628,7.862407862407863,German (Switzerland) (http://www.transifex.com/projects/p/pykickstart/language/de_CH/)
+python-blivet,52,0,553,7,0,74,41,605,8.59504132231405,German (Switzerland) (http://www.transifex.com/projects/p/blivet/language/de_CH/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,German (Switzerland)
+python-meh,0,0,109,0,0,23,0,109,0.0,German (Switzerland)
+python-wtforms,166,0,23,30,0,3,145,189,87.83068783068782,de_CH <LL@li.org>
+sigil,0,0,613,0,0,79,0,613,0.0,German (Switzerland) <https://hosted.weblate.org/projects/hunspell/translations/de_CH/>
+volume_key,186,0,577,49,0,105,184,763,24.37745740498034,LANGUAGE <LL@li.org>

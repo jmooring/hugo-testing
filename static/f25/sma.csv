@@ -1,0 +1,40 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,5,2,674,4,2,141,13,681,0.7342143906020557,LANGUAGE <LL@li.org>
+audience,20,0,86,11,0,37,20,106,18.867924528301888,Southern Sami <sma@li.org>
+feedreader,0,0,926,0,0,219,0,926,0.0,
+gala,0,0,683,0,0,77,0,683,0.0,Southern Sami <sma@li.org>
+granite,18,0,138,15,0,42,20,156,11.538461538461538,Southern Sami <sma@li.org>
+maya-calendar,75,0,319,48,0,116,80,394,19.035532994923855,LANGUAGE <LL@li.org>
+noise,26,0,1296,13,0,364,31,1322,1.9667170953101363,Southern Sami <sma@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,6,0,46,6,0,26,14,52,11.538461538461538,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-greeter,0,0,29,0,0,10,0,29,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pantheon-terminal,45,0,143,21,0,30,46,188,23.93617021276596,Southern Sami <sma@li.org>
+plank,22,0,167,9,0,41,29,189,11.64021164021164,Southern Sami <sma@li.org>
+scratch-text-editor,2,0,679,2,0,196,10,681,0.2936857562408223,Southern Sami <sma@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+slingshot-launcher,15,0,202,11,0,57,14,217,6.912442396313365,Southern Sami <sma@li.org>
+snap-photobooth,1,0,24,1,0,4,13,25,4.0,LANGUAGE <LL@li.org>
+switchboard,1,0,40,1,0,12,9,41,2.4390243902439024,Southern Sami <sma@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,13,4,55,8,2,12,11,72,18.055555555555554,Southern Sami <sma@li.org>
+switchboard-plug-applications,2,0,83,2,0,27,2,85,2.3529411764705883,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,39,0,0,18,0,39,0.0,Southern Sami <sma@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,Southern Sami <sma@li.org>
+switchboard-plug-keyboard,0,0,0,0,0,0,0,0,0.0,
+switchboard-plug-notifications,2,3,126,2,2,14,2,131,1.5267175572519083,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,6,0,155,3,0,46,5,161,3.7267080745341614,Southern Sami <sma@li.org>
+switchboard-plug-pantheon-shell,12,0,120,10,0,41,12,132,9.090909090909092,Southern Sami <sma@li.org>
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+wingpanel,0,0,8,0,0,2,0,8,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,0,0,17,0,0,10,0,17,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,20,0,0,6,0,20,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,7,0,0,3,0,7,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,101,0,0,31,0,101,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-notifications,0,0,29,0,0,11,0,29,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,89,0,0,24,0,89,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,54,0,0,17,0,54,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,15,0,0,7,0,15,0.0,LANGUAGE <LL@li.org>

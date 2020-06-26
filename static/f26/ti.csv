@@ -1,0 +1,24 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+calibre,151,0,157150,147,0,17953,147,157301,0.09599430391415184,Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/)
+dippi,0,0,397,0,0,53,0,397,0.0,none
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,387,4014,11307,353,2987,6842,379,15708,2.4637127578304048,Tigrinya
+libreoffice,448,57,99454,155,40,31291,414,99959,0.44818375533968924,LANGUAGE <LL@li.org>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+slick-greeter,0,0,211,0,0,47,0,211,0.0,Tigrinya <ti@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Tigrinya <ti@li.org>

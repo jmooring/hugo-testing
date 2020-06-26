@@ -1,0 +1,31 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+deja-dup,1,0,1622,1,0,284,10,1623,0.06161429451632779,Sindhi <sd@li.org>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+inkscape,20462,10571,9896,4537,2800,1331,25425,40929,49.99389186151628,Hindi <Indlinux>
+iso-codes,87,10,889,75,3,344,84,986,8.823529411764707,Sindhi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/sd/>
+libreoffice,46129,15250,107021,15596,6316,16408,58189,168400,27.39251781472684,LANGUAGE <LL@li.org>
+lightdm,0,0,163,0,0,21,0,163,0.0,Sindhi <sd@li.org>
+lightdm-gtk,23,0,66,8,0,17,31,89,25.842696629213485,Sindhi <sd@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,4,0,2314,3,0,507,4,2318,0.1725625539257981,Sindhi <sd@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pidgin,0,0,14009,0,0,3190,0,14009,0.0,Sindhi (http://www.transifex.com/pidgin/pidgin/language/sd/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+simple-scan,121,0,468,60,0,85,135,589,20.54329371816638,Sindhi <sd@li.org>
+slick-greeter,121,0,90,20,0,27,133,211,57.345971563981045,Sindhi <sd@li.org>
+snapd,2,0,4305,1,0,480,2,4307,0.046436034362665427,Sindhi <sd@li.org>
+sugar-chat,1,0,136,1,0,80,2,137,0.7299270072992701,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,4,20,0,2,75,69,94.20289855072464,LANGUAGE <LL@li.org>
+sugar-read,1,0,136,1,0,49,1,137,0.7299270072992701,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+tuxpaint,1120,1020,1623,245,109,107,1265,3763,29.763486579856497,Sindhi-PA

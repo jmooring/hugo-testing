@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,40,0,3296,14,0,710,42,3336,1.1990407673860912,Faroese <fo@li.org>
+ailurus,54,0,8224,17,0,1236,60,8278,0.6523314810340662,none
+gnome-applet-alarm-clock,195,0,195,76,0,30,180,390,50.0,Faroese <fo@li.org>
+iso-codes,149,47,896,114,15,323,136,1092,13.644688644688644,Faroese
+isomaster,495,177,2,105,1,1,508,674,73.44213649851632,<LL@li.org>
+jmol,70,0,961,47,0,292,75,1031,6.789524733268672,Faroese <fo@li.org>
+pootle,2296,0,128,439,0,20,2228,2424,94.71947194719472,LANGUAGE <LL@li.org>
+rednotebook,909,0,135,200,0,26,877,1044,87.06896551724138,Faroese <fo@li.org>
+shutter,19,0,2224,12,0,457,28,2243,0.8470798038341507,Faroese <fo@li.org>
+squirrelmail,8037,0,2,1602,0,1,7945,8039,99.97512128374176,Faroese <squirrelmail-i18n@lists.sourceforge.net>
+transmission,125,0,1517,53,0,396,139,1642,7.612667478684532,Faroese <fo@li.org>
+tuxpaint,761,0,0,186,0,0,746,761,100.0,Faroese <morshus@morshus.com>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>

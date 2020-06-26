@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,147,0,0,4,0,0,154,147,100.0,Interlingua <kde-i18n-it@kde.org>
+clementine,25,0,3914,22,0,1075,25,3939,0.6346788525006346,
+gdk-pixbuf2,49,164,1100,6,29,165,42,1313,3.7319116527037317,Interlingua
+gtk2,78,967,12659,23,444,2317,73,13704,0.5691768826619965,Interlingua
+gtk3,21,792,11040,7,402,2078,24,11853,0.1771703366236396,Interlingua
+lightdm,24,0,55,11,0,6,25,79,30.37974683544304,Interlingua <ia@li.org>
+lightdm-gtk,19,0,37,7,0,11,19,56,33.92857142857143,Interlingua <ia@li.org>
+lyx,17357,0,0,5245,0,0,19771,17357,100.0,Interlingua LyX Team <g.sora@tiscali.it>
+mailman,15551,1392,5069,1135,33,191,16447,22012,70.64782845720516,Interlingua <TradSoft@interlingua.com>
+mate-desktop,9,0,398,4,0,39,11,407,2.211302211302211,Interlingua (http://www.transifex.net/projects/p/MATE/language/ia/)
+mc,1406,0,2584,481,0,684,1636,3990,35.23809523809524,Interlingua (http://www.transifex.com/projects/p/mc/language/ia/)
+mingw-gtk3,21,792,11040,7,402,2078,24,11853,0.1771703366236396,Interlingua
+mingw32-gdk-pixbuf,49,164,1100,6,29,165,42,1313,3.7319116527037317,Interlingua
+mingw32-gtk2,78,967,12659,23,444,2317,73,13704,0.5691768826619965,Interlingua
+stellarium,176,0,6962,123,0,2368,176,7138,2.4656766601288878,Interlingua <ia@li.org>
+system-config-date,1826,1,23,821,1,2,2050,1850,98.70270270270271,Interlingua <trans-ia@lists.fedoraproject.org>
+system-config-samba,0,0,571,0,0,134,0,571,0.0,Interlingua <trans-ia@lists.fedoraproject.org>
+system-config-users,59,0,1393,11,0,162,61,1452,4.0633608815427,Interlingua <trans-ia@lists.fedoraproject.org>
+tellico,5761,4,0,1208,1,0,6373,5765,99.93061578490894,Interlingua <kde-i18n-it@kde.org>
+widelands,327,0,6513,232,0,435,327,6840,4.780701754385965,Interlingua <ia@li.org>

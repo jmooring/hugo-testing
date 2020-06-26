@@ -1,0 +1,190 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,263,0,3712,97,0,1171,261,3975,6.616352201257862,Azerbaijani <None>
+GConf2,3479,234,241,397,31,33,3208,3954,87.9868487607486,Azerbaijani Turkish <gnome@azitt.com>
+aisleriot,909,601,477,264,195,90,721,1987,45.74735782586814,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+alleyoop,194,0,148,64,0,23,189,342,56.72514619883041,Azərbaycan Dili <gnome@azətt.com>
+anjuta,3514,1758,1797,925,615,401,3242,7069,49.71000141462725,Azərbaycan <gnome@azitt.com>
+at-spi,15,0,0,4,0,0,16,15,100.0,Azerbaijani <gnome@azitt.com>
+atk,359,8,8,114,7,5,314,375,95.73333333333333,Azerbaijani <translation-team-az@lists.sourceforge.net>
+atomix,125,0,0,44,0,0,120,125,100.0,Azerbaijani Turkic <linuxaz@azerimail.net>
+avant-window-navigator,2,0,1827,2,0,315,2,1829,0.10934937124111535,Azerbaijani <az@li.org>
+balsa,3442,1212,694,885,293,109,3250,5348,64.3605086013463,Azərbaycan Dili <gnome@azətt.com>
+calibre,438,0,44754,108,0,11306,374,45192,0.9691980881571959,Azerbaijani Turkish <linuxaz@azerimail.net>
+camorama,559,0,0,133,0,0,539,559,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+compat-libgda,45,738,1504,6,108,362,34,2287,1.9676432006996065,Azerbaijani Turkic <linuxaz@azerimail.net>
+conglomerate,49,150,6118,38,120,980,56,6317,0.7756846604400823,Azərbaycan <gnome@azitt.com>
+control-center,2619,352,414,564,100,73,2394,3385,77.37075332348596,Azerbaijani <translation-team-az@lists.sourceforge.net>
+dasher,327,38,58,127,18,22,316,423,77.30496453900709,Azerbaijani <translation-team-az@lists.sourceforge.net>
+devhelp,111,0,98,25,0,26,98,209,53.110047846889955,Azerbaijani <gnome@azitt.com>
+dia,1759,1898,2054,724,746,576,1705,5711,30.80021012081947,Azerbaijani Turkic <linuxaz@azerimail.net>
+drgeo,43,2,1940,41,2,418,46,1985,2.1662468513853903,Azərbaycan Dili <gnome@azətt.com>
+drwright,49,72,70,8,9,12,40,191,25.654450261780106,Azerbaijani <translation-team-az@lists.sourceforge.net>
+ekiga,6342,0,0,796,0,0,4901,6342,100.0,"Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+net>"
+empathy,2,66,875,2,40,149,2,943,0.2120890774125133,Azərbaycan Dili <gnome@azətt.com>
+eog,324,141,92,87,28,35,297,557,58.16876122082585,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+epiphany,2782,0,0,780,0,0,2711,2782,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+evolution,8369,3599,5234,2893,899,488,7657,17202,48.651319613998375,Azerbaijani <translation-team-az@lists.sourceforge.net>
+evolution-data-server,3438,528,538,717,101,59,3215,4504,76.33214920071048,Azerbaijani <translation-team-az@lists.sourceforge.net>
+evolution-exchange,90,39,1779,39,14,271,84,1908,4.716981132075472,Azerbaijani <translation-team-az@lists.sourceforge.net>
+file-roller,872,77,22,228,13,3,771,971,89.8043254376931,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gcalctool,392,368,155,181,142,55,369,915,42.841530054644814,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gcompris,152,205,3160,48,66,425,116,3517,4.321865226044925,Azerbaijani Turkic <linuxaz@azerimail.net>
+gconf-editor,320,0,0,94,0,0,289,320,100.0,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gdesklets,7,0,1521,2,0,202,7,1528,0.45811518324607325,Azərbaycan Dili <gnome@azətt.com>
+gdk-pixbuf2,915,357,41,137,57,6,795,1313,69.6877380045697,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gdm,5294,0,0,703,0,0,4461,5294,100.0,"Azerbaijani <translation-team-az@lists.sourceforge.net>
+net>"
+gedit,2626,884,696,548,176,296,2196,4206,62.43461721350452,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gedit-plugins,20,320,865,9,133,327,18,1205,1.6597510373443984,Azerbaijani <translation-team-az@lists.sourceforge.net>
+genius,32,0,3058,27,0,485,43,3090,1.035598705501618,Azerbaijani <gnome@azitt.com>
+gftp,64,31,3280,55,21,558,72,3375,1.8962962962962964,Azerbaijani <gnome@azitt.com>
+ggz-gtk-client,11,0,0,8,0,0,11,11,100.0,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+ghex,794,0,0,224,0,0,712,794,100.0,Azerbaijani Turkish <gnome@azitt.com>
+gimp,5670,603,111,1604,203,68,5298,6384,88.81578947368422,Azerbaijani Turkic <linuxaz@azerimail.net>
+glade2,5050,461,329,1150,93,57,3954,5840,86.47260273972603,Azerbaijani <gnome@azitt.com>
+glade3,30,104,1317,15,56,337,23,1451,2.067539627842867,Azerbaijani Turkish <linuxaz@azerimal.net>
+glib2,696,744,3337,104,135,508,627,4777,14.569813690600794,Azerbaijani Turkish <gnome@azitt.com>
+gnome-applets,5293,0,0,1336,0,0,5055,5293,100.0,"Azerbaijani <translation-team-az@lists.sourceforge.net>
+net>"
+gnome-desktop,316,4,0,72,1,0,299,320,98.75,Azerbaijani <gnome@azitt.com>
+gnome-desktop3,316,4,0,72,1,0,299,320,98.75,Azerbaijani <gnome@azitt.com>
+gnome-do,128,0,484,55,0,89,126,612,20.915032679738562,Azerbaijani <az@li.org>
+gnome-games,2964,1332,2770,740,457,501,2394,7066,41.94735352391735,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gnome-icon-theme,52,0,0,46,0,0,56,52,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gnome-keyring,524,165,22,41,9,7,419,711,73.69901547116737,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gnome-libs,988,40,57,381,4,10,934,1085,91.05990783410138,
+gnome-mag,5,0,0,2,0,0,4,5,100.0,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gnome-media,1304,216,275,398,55,54,1083,1795,72.64623955431755,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gnome-mime-data,887,0,0,362,0,0,980,887,100.0,Azerbaijani Turkish <gnome@azitt.com>
+gnome-mud,58,0,1142,41,0,205,63,1200,4.833333333333333,Azerbaijani <gnome@azitt.com>
+gnome-panel,3579,249,109,463,34,20,2766,3937,90.90678181356363,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gnome-pilot,1573,0,0,334,0,0,1445,1573,100.0,Azərbaycan Dili <gnome@azətt.com>
+gnome-pilot-conduits,161,0,0,45,0,0,168,161,100.0,Azerbaijani <gnome@azitt.com>
+gnome-session,513,3,0,100,1,0,427,516,99.4186046511628,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gnome-settings-daemon,313,196,525,47,42,82,260,1034,30.270793036750483,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gnome-system-monitor,502,0,0,143,0,0,449,502,100.0,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gnome-terminal,4360,44,18,511,9,1,3358,4422,98.59791949344188,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gnome-themes,101,0,0,34,0,0,106,101,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gnome-utils,1421,467,728,279,94,99,1279,2616,54.31957186544343,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gnome-vfs2,747,352,183,165,51,32,685,1282,58.268330733229334,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gnomebaker,8,0,1178,7,0,284,9,1186,0.6745362563237773,Azerbaijani <az@li.org>
+gnomeradio,12,0,431,12,0,88,15,443,2.708803611738149,Azərbaycan <gnome@azitt.com>
+gnumeric,303,1058,33685,219,511,4912,320,35046,0.864577983222051,Azerbaijani <gnome@azitt.com>
+goffice,76,397,4126,71,226,1263,92,4599,1.6525331593824744,Azerbaijani <gnome@azitt.com>
+gok,1347,137,300,345,35,50,1177,1784,75.50448430493275,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gphoto2,285,146,1168,95,30,191,259,1599,17.823639774859288,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gstreamer,43,43,1828,26,12,309,43,1914,2.246603970741902,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gstreamer-plugins-bad-free,25,37,34,4,6,4,20,96,26.041666666666668,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gstreamer-plugins-base,37,134,731,12,19,145,32,902,4.1019955654102,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gstreamer-plugins-good,35,216,563,26,41,123,34,814,4.2997542997543,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gthumb,2582,0,0,862,0,0,2427,2582,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gtk+,0,0,0,0,0,0,0,0,0.0,
+gtk2,6885,3503,3316,1244,808,732,5502,13704,50.24080560420315,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gtk3,5263,3286,3304,973,782,732,4150,11853,44.40226103096263,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gtkhtml3,903,12,34,411,7,7,911,949,95.1527924130664,Azerbaijani <translation-team-az@lists.sourceforge.net>
+gtksourceview,455,168,102,180,63,51,441,725,62.758620689655174,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gtksourceview2,455,0,270,180,0,114,441,725,62.758620689655174,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gtksourceview3,455,0,270,180,0,114,441,725,62.758620689655174,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+gtranslator,1377,0,0,361,0,0,1370,1377,100.0,Azərbaycan Dili <gnome@azətt.com>
+gucharmap,507,0,0,238,0,0,531,507,100.0,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+hexchat,1270,0,4211,606,0,767,1165,5481,23.170954205436963,LANGUAGE <LL@li.org>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+inkscape,316,5839,20373,170,2292,3116,334,26528,1.1911942098914354,Azərbaycan Dili <gnome@azətt.com>
+intltool,13,0,0,6,0,0,14,13,100.0,Azerbaijani Turkish <linuxaz@azerimail.net>
+iso-codes,445,6115,12295,333,5019,7854,441,18855,2.360116679925749,Azerbaijani <translation-team-az@lists.sourceforge.net>
+koffice-kivio,555,2164,5698,214,849,1298,529,8417,6.593798265415231,Azerbaijani Turkish <linuxaz@azerimail.net>
+krecipes,24,119,2944,22,72,474,26,3087,0.7774538386783284,Azerbaijani <translation-team-az@lists.sourceforge.net>
+libbonobo,485,15,24,101,4,3,425,524,92.55725190839695,Azerbaijani Turkish <gnome@azitt.com>
+libbonoboui,314,7,39,92,3,18,293,360,87.22222222222223,Azerbaijani Turkic <gnome@azitt.com>
+libcryptui,28,21,2255,26,10,442,39,2304,1.215277777777778,Azərbaycan <gnome@azitt.com>
+libgda,7,1408,8366,1,276,1548,6,9781,0.07156732440445762,Azerbaijani Turkic <linuxaz@azerimail.net>
+libgdl,664,13,0,137,1,0,558,677,98.07976366322009,Azerbaijani <gnome@azitt.com>
+libgnome,1407,0,0,219,0,0,1158,1407,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+libgnome-media-profiles,232,54,174,32,6,13,163,460,50.43478260869565,Azerbaijani <translation-team-az@lists.sourceforge.net>
+libgnomecanvas,357,0,0,94,0,0,348,357,100.0,Azerbaijani Turkish <gnome@azitt.com>
+libgnomeprint22,161,6,1,96,1,1,160,168,95.83333333333334,Azerbaijani <translation-team-az@lists.sourceforge.net>
+libgnomeprintui22,370,34,23,101,19,15,305,427,86.65105386416862,Azerbaijani <translation-team-az@lists.sourceforge.net>
+libgnomeui,1270,83,66,314,19,12,1097,1419,89.49964763918253,Azerbaijani <translation-team-az@lists.sourceforge.net>
+libgtop2,118,16,0,42,2,0,118,134,88.05970149253731,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+libgweather,3979,56,80,2838,19,15,3975,4115,96.69501822600243,Azerbaijani <translation-team-az@lists.sourceforge.net>
+libmate,906,0,867,166,0,107,762,1773,51.09983079526227,LANGUAGE <LL@li.org>
+libmatecanvas,353,0,25,93,0,2,343,378,93.38624338624338,LANGUAGE <LL@li.org>
+libmatecomponent,475,0,68,99,0,8,417,543,87.47697974217311,LANGUAGE <LL@li.org>
+libmateweather,3974,0,146,2837,0,37,3971,4120,96.45631067961165,LANGUAGE <LL@li.org>
+libmatewnck,47,21,5,21,7,2,50,73,64.38356164383562,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+libwnck,47,21,5,21,7,2,50,73,64.38356164383562,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+libwnck3,47,21,5,21,7,2,50,73,64.38356164383562,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+mate-conf,3014,0,1018,355,0,129,2780,4032,74.75198412698413,LANGUAGE <LL@li.org>
+mate-control-center,2619,352,411,564,100,72,2394,3382,77.43938497930219,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mate-desktop,52,0,355,12,0,31,46,407,12.776412776412776,LANGUAGE <LL@li.org>
+mate-dialogs,257,0,374,74,0,75,239,631,40.729001584786054,LANGUAGE <LL@li.org>
+mate-file-archiver,867,77,22,228,13,3,770,966,89.75155279503106,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mate-file-manager,3598,0,5813,725,0,796,2865,9411,38.23185633832749,LANGUAGE <LL@li.org>
+mate-icon-theme,52,0,0,46,0,0,56,52,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mate-image-viewer,117,0,1506,42,0,273,116,1623,7.208872458410351,LANGUAGE <LL@li.org>
+mate-keyring,524,165,22,41,9,7,419,711,73.69901547116737,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+mate-media,259,0,661,45,0,184,192,920,28.152173913043477,LANGUAGE <LL@li.org>
+mate-panel,3579,249,109,463,34,20,2766,3937,90.90678181356363,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mate-session-manager,513,3,0,100,1,0,427,516,99.4186046511628,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mate-settings-daemon,313,196,525,47,42,82,260,1034,30.270793036750483,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mate-system-monitor,502,0,0,143,0,0,449,502,100.0,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+mate-terminal,4360,44,18,511,9,1,3358,4422,98.59791949344188,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mate-themes,61,0,48,16,0,14,67,109,55.96330275229357,LANGUAGE <LL@li.org>
+mate-vfs,690,0,829,152,0,153,632,1519,45.42462146148782,LANGUAGE <LL@li.org>
+mate-window-manager,2094,0,1696,291,0,112,1824,3790,55.250659630606854,LANGUAGE <LL@li.org>
+mc,1155,0,2835,384,0,781,1171,3990,28.947368421052634,LANGUAGE <LL@li.org>
+metacity,6709,181,29,451,6,7,5661,6919,96.96487931782049,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mingw-gstreamer,43,43,1828,26,12,309,43,1914,2.246603970741902,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mingw-gstreamer-plugins-base,37,134,731,12,19,145,32,902,4.1019955654102,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mingw-gtk3,5263,3286,3304,973,782,732,4150,11853,44.40226103096263,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mingw-gtksourceview3,455,0,270,180,0,114,441,725,62.758620689655174,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+mingw32-atk,359,8,8,114,7,5,314,375,95.73333333333333,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mingw32-gdk-pixbuf,915,357,41,137,57,6,795,1313,69.6877380045697,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mingw32-glib2,696,744,3337,104,135,508,627,4777,14.569813690600794,Azerbaijani Turkish <gnome@azitt.com>
+mingw32-gtk2,6885,3503,3316,1244,808,732,5502,13704,50.24080560420315,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mingw32-gtkhtml3,903,12,34,411,7,7,911,949,95.1527924130664,Azerbaijani <translation-team-az@lists.sourceforge.net>
+muffin,6709,181,29,451,6,7,5661,6919,96.96487931782049,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mutter,6709,181,29,451,6,7,5661,6919,96.96487931782049,Azerbaijani <translation-team-az@lists.sourceforge.net>
+mutter-mbl,6709,181,29,451,6,7,5661,6919,96.96487931782049,Azerbaijani <translation-team-az@lists.sourceforge.net>
+nautilus,6881,193,132,1214,40,8,5493,7206,95.48986955315016,Azerbaijani <translation-team-az@lists.sourceforge.net>
+openerp,0,0,0,0,0,0,0,0,0.0,Azerbaijani <az@li.org>
+orage,5,86,2301,4,43,754,5,2392,0.20903010033444816,Azerbaijani <translation-team-az@lists.sourceforge.net>
+pan,45,207,2036,37,102,461,60,2288,1.9667832167832169,Azərbaycan <gnome@azitt.com>
+pidgin,943,3476,13937,384,1225,2294,951,18356,5.137284811505775,Azerbaijani <translation-team-az@lists.sourceforge.net>
+planner,130,114,845,90,67,198,136,1089,11.937557392102846,Azerbaijani <gnome@azitt.com>
+pootle,1250,201,2094,954,46,350,1360,3545,35.26093088857546,LANGUAGE <LL@li.org>
+pybliographer,442,28,54,139,16,18,419,524,84.35114503816794,azerbaijani Turkish
+pychess,555,0,2536,164,0,474,495,3091,17.955354254286636,Azerbaijani <az@li.org>
+rhythmbox,1233,0,0,331,0,0,1112,1233,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+sawfish,2349,1522,2572,531,257,194,2140,6443,36.45817165916498,Azərbaycan Dili <gnome@azətt.com>
+seahorse,28,21,2255,26,10,442,39,2304,1.215277777777778,Azərbaycan <gnome@azitt.com>
+seahorse-plugins,28,21,2255,26,10,442,39,2304,1.215277777777778,Azərbaycan <gnome@azitt.com>
+shared-mime-info,333,0,1326,139,0,511,372,1659,20.07233273056058,LANGUAGE <LL@li.org>
+sound-juicer,601,0,0,129,0,0,555,601,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+stellarium,111,0,7027,76,0,2415,113,7138,1.5550574390585599,Azerbaijani <az@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+totem,1417,0,0,345,0,0,1215,1417,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+totem-pl-parser,1417,0,0,345,0,0,1215,1417,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+transmission,80,0,1448,38,0,416,84,1528,5.2356020942408374,Azerbaijani <az@li.org>
+tuxpaint,655,485,107,166,52,34,626,1247,52.52606255012029,LANGUAGE <LL@li.org>
+vidalia,464,0,9905,46,0,1252,416,10369,4.4748770373227895,translations@vidalia-project.net
+vino,540,0,0,70,0,0,499,540,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+vte,96,0,0,18,0,0,96,96,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+vte3,96,0,0,18,0,0,96,96,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xchat-gnome,1048,105,2748,508,39,433,923,3901,26.864906434247626,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xfce-utils,8,23,461,6,8,58,8,492,1.6260162601626018,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xfce4-panel,7,300,1197,7,86,251,8,1504,0.4654255319148936,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xfce4-session,271,119,742,63,41,126,243,1132,23.939929328621908,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xfdesktop,28,265,542,15,85,99,36,835,3.3532934131736525,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xfwm4,87,421,329,40,120,70,88,837,10.39426523297491,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xkeyboard-config,896,0,0,362,0,0,917,896,100.0,Azerbaijani <translation-team-az@lists.sourceforge.net>
+xmms,3177,65,201,1003,17,25,3196,3443,92.27417949462678,Azerbaijani Turkish <gnome@azitt.com>
+yelp,92,80,434,38,45,65,84,606,15.181518151815181,Azerbaijani Turkish <translation-team-az@lists.sourceforge.net>
+zenity,272,70,52,82,20,10,251,394,69.03553299492386,Azerbaijani <translation-team-az@lists.sourceforge.net>

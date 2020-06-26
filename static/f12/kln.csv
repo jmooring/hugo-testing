@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+kde-i18n,22,0,0,15,0,0,25,22,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+kde-l10n,18,0,0,12,0,0,22,18,100.0,Chinese Traditional <zh-l10n@linux.org.tw>

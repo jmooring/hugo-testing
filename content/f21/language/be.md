@@ -1,0 +1,539 @@
+---
+title: "be-Belarusian (Беларуская) - translation progress for f21"
+date: 2026-01-17T12:20:55+00:00
+code: be
+name_english: Belarusian
+name_local: Беларуская
+progress: 30.83
+progress_d: 4.50
+release: f21
+territories:
+ - BY
+ - PL
+ - UA
+polib_error_count: 3
+could_not_process_count: 959
+---
+
+Language progress for Belarusian (be) in Fedora f21 is:
+
+* 30.83% when we only look on started packages for this language.
+* 4.50% when we compare to every single translatable string in Fedora f21.
+
+Possible scripts are: Cyrl
+
+* Total translatable string in Fedora f21: 13043139
+* Source words to translate in started packages: 1905004
+* Translated words: 587329
+
+
+Download:
+
+
+
+
+* [be generated stats (40.6 kB)]({{% resource url="/f21/be.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [GConf2]({{< ref "/f21/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [NetworkManager-openvpn]({{< ref "/f21/package/NetworkManager-openvpn.md" >}}) | 405 | 405 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [accerciser]({{< ref "/f21/package/accerciser.md" >}}) | 535 | 535 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [adwaita-icon-theme]({{< ref "/f21/package/adwaita-icon-theme.md" >}}) | 4 | 4 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [aisleriot]({{< ref "/f21/package/aisleriot.md" >}}) | 2998 | 2998 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [alacarte]({{< ref "/f21/package/alacarte.md" >}}) | 45 | 45 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [at-spi]({{< ref "/f21/package/at-spi.md" >}}) | 15 | 15 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [at-spi2-core]({{< ref "/f21/package/at-spi2-core.md" >}}) | 96 | 96 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [atk]({{< ref "/f21/package/atk.md" >}}) | 398 | 398 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [atomix]({{< ref "/f21/package/atomix.md" >}}) | 146 | 146 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [baobab]({{< ref "/f21/package/baobab.md" >}}) | 210 | 210 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [brasero]({{< ref "/f21/package/brasero.md" >}}) | 5546 | 5546 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [caribou]({{< ref "/f21/package/caribou.md" >}}) | 171 | 171 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [cheese]({{< ref "/f21/package/cheese.md" >}}) | 630 | 630 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [cinnamon-desktop]({{< ref "/f21/package/cinnamon-desktop.md" >}}) | 231 | 231 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [cinnamon-settings-daemon]({{< ref "/f21/package/cinnamon-settings-daemon.md" >}}) | 3740 | 3740 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [cogl]({{< ref "/f21/package/cogl.md" >}}) | 393 | 393 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [console-setup]({{< ref "/f21/package/console-setup.md" >}}) | 981 | 981 | 100.0 | Belarusian (Official spelling) <debian-l10n-belarusian@lists.debian.org> | 
+ | [control-center]({{< ref "/f21/package/control-center.md" >}}) | 4905 | 4905 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [dasher]({{< ref "/f21/package/dasher.md" >}}) | 307 | 307 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [dconf]({{< ref "/f21/package/dconf.md" >}}) | 191 | 191 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [debconf]({{< ref "/f21/package/debconf.md" >}}) | 191 | 191 | 100.0 | Belarusian (Official spelling) <debian-l10n-belarusian@lists.debian.org> | 
+ | [devhelp]({{< ref "/f21/package/devhelp.md" >}}) | 405 | 405 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [empathy]({{< ref "/f21/package/empathy.md" >}}) | 4257 | 4257 | 100.0 | Belarusian <be-i18n-gnome@googlegroups.com> | 
+ | [eog]({{< ref "/f21/package/eog.md" >}}) | 1746 | 1746 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [epiphany]({{< ref "/f21/package/epiphany.md" >}}) | 2494 | 2494 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [evince]({{< ref "/f21/package/evince.md" >}}) | 1541 | 1541 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [evolution]({{< ref "/f21/package/evolution.md" >}}) | 21162 | 21162 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [evolution-data-server]({{< ref "/f21/package/evolution-data-server.md" >}}) | 5681 | 5681 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [exaile]({{< ref "/f21/package/exaile.md" >}}) | 4006 | 4006 | 100.0 | Belarusian <https://hosted.weblate.org/projects/exaile/master/be/> | 
+ | [file-roller]({{< ref "/f21/package/file-roller.md" >}}) | 1201 | 1201 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [five-or-more]({{< ref "/f21/package/five-or-more.md" >}}) | 522 | 522 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [four-in-a-row]({{< ref "/f21/package/four-in-a-row.md" >}}) | 473 | 473 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gconf-editor]({{< ref "/f21/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [gcr]({{< ref "/f21/package/gcr.md" >}}) | 671 | 671 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gdk-pixbuf2]({{< ref "/f21/package/gdk-pixbuf2.md" >}}) | 1360 | 1360 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gdm]({{< ref "/f21/package/gdm.md" >}}) | 700 | 700 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [geany]({{< ref "/f21/package/geany.md" >}}) | 5796 | 5796 | 100.0 | Belarusian <geany-i18n@uvena.de> | 
+ | [gedit]({{< ref "/f21/package/gedit.md" >}}) | 4029 | 4029 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gedit-plugins]({{< ref "/f21/package/gedit-plugins.md" >}}) | 1673 | 1673 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [ggz-gtk-client]({{< ref "/f21/package/ggz-gtk-client.md" >}}) | 4 | 4 | 100.0 | Belarusian <i18n@tut.by> | 
+ | [ghex]({{< ref "/f21/package/ghex.md" >}}) | 972 | 972 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [glib-networking]({{< ref "/f21/package/glib-networking.md" >}}) | 161 | 161 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [glib2]({{< ref "/f21/package/glib2.md" >}}) | 5454 | 5454 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-backgrounds]({{< ref "/f21/package/gnome-backgrounds.md" >}}) | 27 | 27 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-bluetooth]({{< ref "/f21/package/gnome-bluetooth.md" >}}) | 307 | 307 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-boxes]({{< ref "/f21/package/gnome-boxes.md" >}}) | 884 | 884 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-chess]({{< ref "/f21/package/gnome-chess.md" >}}) | 1349 | 1349 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-clocks]({{< ref "/f21/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-contacts]({{< ref "/f21/package/gnome-contacts.md" >}}) | 388 | 388 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-desktop]({{< ref "/f21/package/gnome-desktop.md" >}}) | 283 | 283 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [gnome-desktop3]({{< ref "/f21/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-dictionary]({{< ref "/f21/package/gnome-dictionary.md" >}}) | 841 | 841 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-disk-utility]({{< ref "/f21/package/gnome-disk-utility.md" >}}) | 3423 | 3423 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-doc-utils]({{< ref "/f21/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-documents]({{< ref "/f21/package/gnome-documents.md" >}}) | 453 | 453 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-font-viewer]({{< ref "/f21/package/gnome-font-viewer.md" >}}) | 110 | 110 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-icon-theme]({{< ref "/f21/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-initial-setup]({{< ref "/f21/package/gnome-initial-setup.md" >}}) | 417 | 417 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-keyring]({{< ref "/f21/package/gnome-keyring.md" >}}) | 553 | 553 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-klotski]({{< ref "/f21/package/gnome-klotski.md" >}}) | 191 | 191 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-mahjongg]({{< ref "/f21/package/gnome-mahjongg.md" >}}) | 299 | 299 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-menus]({{< ref "/f21/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-mime-data]({{< ref "/f21/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [gnome-mines]({{< ref "/f21/package/gnome-mines.md" >}}) | 262 | 262 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-music]({{< ref "/f21/package/gnome-music.md" >}}) | 383 | 383 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-nettool]({{< ref "/f21/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-nibbles]({{< ref "/f21/package/gnome-nibbles.md" >}}) | 526 | 526 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-online-accounts]({{< ref "/f21/package/gnome-online-accounts.md" >}}) | 1206 | 1206 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-packagekit]({{< ref "/f21/package/gnome-packagekit.md" >}}) | 4390 | 4390 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-power-manager]({{< ref "/f21/package/gnome-power-manager.md" >}}) | 432 | 432 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-robots]({{< ref "/f21/package/gnome-robots.md" >}}) | 823 | 823 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-screensaver]({{< ref "/f21/package/gnome-screensaver.md" >}}) | 291 | 291 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-screenshot]({{< ref "/f21/package/gnome-screenshot.md" >}}) | 359 | 359 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-search-tool]({{< ref "/f21/package/gnome-search-tool.md" >}}) | 1249 | 1249 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-session]({{< ref "/f21/package/gnome-session.md" >}}) | 431 | 431 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-settings-daemon]({{< ref "/f21/package/gnome-settings-daemon.md" >}}) | 3139 | 3139 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-shell]({{< ref "/f21/package/gnome-shell.md" >}}) | 1478 | 1478 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-sudoku]({{< ref "/f21/package/gnome-sudoku.md" >}}) | 462 | 462 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-system-log]({{< ref "/f21/package/gnome-system-log.md" >}}) | 420 | 420 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-system-monitor]({{< ref "/f21/package/gnome-system-monitor.md" >}}) | 1284 | 1284 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-terminal]({{< ref "/f21/package/gnome-terminal.md" >}}) | 2248 | 2248 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-tetravex]({{< ref "/f21/package/gnome-tetravex.md" >}}) | 108 | 108 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-themes]({{< ref "/f21/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [gnome-themes-standard]({{< ref "/f21/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-user-share]({{< ref "/f21/package/gnome-user-share.md" >}}) | 184 | 184 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-video-effects]({{< ref "/f21/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-weather]({{< ref "/f21/package/gnome-weather.md" >}}) | 216 | 216 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gtksourceview3]({{< ref "/f21/package/gtksourceview3.md" >}}) | 1817 | 1817 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gtkspell]({{< ref "/f21/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [gtkspell3]({{< ref "/f21/package/gtkspell3.md" >}}) | 15 | 15 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [gtranslator]({{< ref "/f21/package/gtranslator.md" >}}) | 1672 | 1672 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gucharmap]({{< ref "/f21/package/gucharmap.md" >}}) | 1147 | 1147 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gvfs]({{< ref "/f21/package/gvfs.md" >}}) | 2648 | 2648 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [iagno]({{< ref "/f21/package/iagno.md" >}}) | 4286 | 4286 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [iso-codes]({{< ref "/f21/package/iso-codes.md" >}}) | 1884 | 1884 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kdoctools]({{< ref "/f21/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kpty]({{< ref "/f21/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kxmlrpcclient]({{< ref "/f21/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libbonoboui]({{< ref "/f21/package/libbonoboui.md" >}}) | 360 | 360 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libgdata]({{< ref "/f21/package/libgdata.md" >}}) | 688 | 688 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [libgdl]({{< ref "/f21/package/libgdl.md" >}}) | 604 | 604 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libgnome]({{< ref "/f21/package/libgnome.md" >}}) | 1496 | 1496 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libgnome-keyring]({{< ref "/f21/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [libgnomecanvas]({{< ref "/f21/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libgnomekbd]({{< ref "/f21/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [libgnomeprint22]({{< ref "/f21/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libgnomeprintui22]({{< ref "/f21/package/libgnomeprintui22.md" >}}) | 472 | 472 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libgnomeui]({{< ref "/f21/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libgtop2]({{< ref "/f21/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [libmatemixer]({{< ref "/f21/package/libmatemixer.md" >}}) | 248 | 248 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [libpeas]({{< ref "/f21/package/libpeas.md" >}}) | 105 | 105 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [libsecret]({{< ref "/f21/package/libsecret.md" >}}) | 59 | 59 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [libsoup]({{< ref "/f21/package/libsoup.md" >}}) | 79 | 79 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [libwnck]({{< ref "/f21/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [libwnck3]({{< ref "/f21/package/libwnck3.md" >}}) | 1084 | 1084 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [libxfcegui4]({{< ref "/f21/package/libxfcegui4.md" >}}) | 139 | 139 | 100.0 | Belorussian <i18n@mova.org> | 
+ | [lightsoff]({{< ref "/f21/package/lightsoff.md" >}}) | 39 | 39 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [lxappearance]({{< ref "/f21/package/lxappearance.md" >}}) | 212 | 212 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxappearance-obconf]({{< ref "/f21/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput]({{< ref "/f21/package/lxinput.md" >}}) | 72 | 72 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxlauncher]({{< ref "/f21/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data]({{< ref "/f21/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [lxpolkit]({{< ref "/f21/package/lxpolkit.md" >}}) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxsession]({{< ref "/f21/package/lxsession.md" >}}) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut]({{< ref "/f21/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxterminal]({{< ref "/f21/package/lxterminal.md" >}}) | 144 | 144 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [mate-applets]({{< ref "/f21/package/mate-applets.md" >}}) | 2283 | 2283 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [mate-backgrounds]({{< ref "/f21/package/mate-backgrounds.md" >}}) | 30 | 30 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [mate-icon-theme]({{< ref "/f21/package/mate-icon-theme.md" >}}) | 43 | 43 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [mate-media]({{< ref "/f21/package/mate-media.md" >}}) | 179 | 179 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [mate-menus]({{< ref "/f21/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [mate-netspeed]({{< ref "/f21/package/mate-netspeed.md" >}}) | 147 | 147 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [mate-panel]({{< ref "/f21/package/mate-panel.md" >}}) | 4237 | 4237 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [mate-themes]({{< ref "/f21/package/mate-themes.md" >}}) | 109 | 109 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [metacity]({{< ref "/f21/package/metacity.md" >}}) | 2040 | 2040 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [midori]({{< ref "/f21/package/midori.md" >}}) | 3347 | 3347 | 100.0 | Belarusian <be@li.org> | 
+ | [mingw-GConf2]({{< ref "/f21/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-adwaita-icon-theme]({{< ref "/f21/package/mingw-adwaita-icon-theme.md" >}}) | 4 | 4 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-atk]({{< ref "/f21/package/mingw-atk.md" >}}) | 398 | 398 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-gdk-pixbuf]({{< ref "/f21/package/mingw-gdk-pixbuf.md" >}}) | 1360 | 1360 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-glib-networking]({{< ref "/f21/package/mingw-glib-networking.md" >}}) | 161 | 161 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-glib2]({{< ref "/f21/package/mingw-glib2.md" >}}) | 5454 | 5454 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-gtksourceview3]({{< ref "/f21/package/mingw-gtksourceview3.md" >}}) | 1817 | 1817 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-gtkspell3]({{< ref "/f21/package/mingw-gtkspell3.md" >}}) | 15 | 15 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [mingw-libsoup]({{< ref "/f21/package/mingw-libsoup.md" >}}) | 79 | 79 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mousetweaks]({{< ref "/f21/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mozo]({{< ref "/f21/package/mozo.md" >}}) | 42 | 42 | 100.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [mutter]({{< ref "/f21/package/mutter.md" >}}) | 2063 | 2063 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [nautilus]({{< ref "/f21/package/nautilus.md" >}}) | 6243 | 6243 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [nautilus-open-terminal]({{< ref "/f21/package/nautilus-open-terminal.md" >}}) | 166 | 166 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [nautilus-sendto]({{< ref "/f21/package/nautilus-sendto.md" >}}) | 45 | 45 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [nemo-extensions]({{< ref "/f21/package/nemo-extensions.md" >}}) | 25 | 25 | 100.0 | Belarusian <be@li.org> | 
+ | [notification-daemon]({{< ref "/f21/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [orca]({{< ref "/f21/package/orca.md" >}}) | 3855 | 3855 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [pessulus]({{< ref "/f21/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [polkit-gnome]({{< ref "/f21/package/polkit-gnome.md" >}}) | 98 | 98 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [quadrapassel]({{< ref "/f21/package/quadrapassel.md" >}}) | 325 | 325 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [rhythmbox]({{< ref "/f21/package/rhythmbox.md" >}}) | 4072 | 4072 | 100.0 | Belarussian <i18n-bel-gnome@googlegroups.com> | 
+ | [scummvm]({{< ref "/f21/package/scummvm.md" >}}) | 2895 | 2895 | 100.0 | Ivan Lukyanov <greencis@mail.ru> | 
+ | [seahorse]({{< ref "/f21/package/seahorse.md" >}}) | 2482 | 2482 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [shared-mime-info]({{< ref "/f21/package/shared-mime-info.md" >}}) | 1387 | 1387 | 100.0 | Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net> | 
+ | [sushi]({{< ref "/f21/package/sushi.md" >}}) | 24 | 24 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [swell-foop]({{< ref "/f21/package/swell-foop.md" >}}) | 139 | 139 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [switchdesk]({{< ref "/f21/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Belorussian | 
+ | [system-switch-mail]({{< ref "/f21/package/system-switch-mail.md" >}}) | 138 | 138 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [tali]({{< ref "/f21/package/tali.md" >}}) | 4286 | 4286 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [thunar-archive-plugin]({{< ref "/f21/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Belarusian <xfce-i18n@xfce.org> | 
+ | [tomboy]({{< ref "/f21/package/tomboy.md" >}}) | 3278 | 3278 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [totem]({{< ref "/f21/package/totem.md" >}}) | 1541 | 1541 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [totem-pl-parser]({{< ref "/f21/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [vinagre]({{< ref "/f21/package/vinagre.md" >}}) | 1473 | 1473 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [vino]({{< ref "/f21/package/vino.md" >}}) | 1228 | 1228 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [vte]({{< ref "/f21/package/vte.md" >}}) | 116 | 116 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [vte291]({{< ref "/f21/package/vte291.md" >}}) | 80 | 80 | 100.0 | Belarusian <i18n-bel-googlegroups.com> | 
+ | [vte3]({{< ref "/f21/package/vte3.md" >}}) | 80 | 80 | 100.0 | Belarusian <i18n-bel-googlegroups.com> | 
+ | [xdg-user-dirs]({{< ref "/f21/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [xdg-user-dirs-gtk]({{< ref "/f21/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [xfce4-eyes-plugin]({{< ref "/f21/package/xfce4-eyes-plugin.md" >}}) | 15 | 15 | 100.0 | Belarusian <i18n@mova.org> | 
+ | [yelp]({{< ref "/f21/package/yelp.md" >}}) | 507 | 507 | 100.0 | 1 | 
+ | [yelp-xsl]({{< ref "/f21/package/yelp-xsl.md" >}}) | 81 | 81 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [zenity]({{< ref "/f21/package/zenity.md" >}}) | 801 | 801 | 100.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gimp]({{< ref "/f21/package/gimp.md" >}}) | 28644 | 28679 | 99.9 | Belarusian <i18n@mova.org> | 
+ | [hamster-time-tracker]({{< ref "/f21/package/hamster-time-tracker.md" >}}) | 696 | 697 | 99.9 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mate-terminal]({{< ref "/f21/package/mate-terminal.md" >}}) | 1345 | 1347 | 99.9 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [network-manager-applet]({{< ref "/f21/package/network-manager-applet.md" >}}) | 2882 | 2887 | 99.8 | Belarusian <be-i18n-gnome@googlegroups.com> | 
+ | [libgweather]({{< ref "/f21/package/libgweather.md" >}}) | 6057 | 6069 | 99.8 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [camorama]({{< ref "/f21/package/camorama.md" >}}) | 468 | 469 | 99.8 | Belarusian <i18n@mova.org> | 
+ | [celestia]({{< ref "/f21/package/celestia.md" >}}) | 2270 | 2276 | 99.7 | belarusian <i18n@mova.org> | 
+ | [folks]({{< ref "/f21/package/folks.md" >}}) | 855 | 858 | 99.7 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [gnome-vfs2]({{< ref "/f21/package/gnome-vfs2.md" >}}) | 1508 | 1519 | 99.3 | Belarusian <i18n@mova.org> | 
+ | [enigma]({{< ref "/f21/package/enigma.md" >}}) | 9145 | 9237 | 99.0 | Belarusian (http://www.transifex.com/projects/p/enigma/language/be/) | 
+ | [libmateweather]({{< ref "/f21/package/libmateweather.md" >}}) | 5970 | 6073 | 98.3 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [clutter]({{< ref "/f21/package/clutter.md" >}}) | 2993 | 3055 | 98.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [virtaal]({{< ref "/f21/package/virtaal.md" >}}) | 1398 | 1433 | 97.6 | LANGUAGE <LL@li.org> | 
+ | [xfce4-xkb-plugin]({{< ref "/f21/package/xfce4-xkb-plugin.md" >}}) | 72 | 74 | 97.3 | Belarusian <i18n@mova.org> | 
+ | [lxsession-edit]({{< ref "/f21/package/lxsession-edit.md" >}}) | 62 | 64 | 96.9 | LANGUAGE <LL@li.org> | 
+ | [sylpheed]({{< ref "/f21/package/sylpheed.md" >}}) | 6874 | 7103 | 96.8 | Belarusian <i18n@mova.org> | 
+ | [lxpanel]({{< ref "/f21/package/lxpanel.md" >}}) | 978 | 1014 | 96.4 | LANGUAGE <LL@li.org> | 
+ | [xfce4-wavelan-plugin]({{< ref "/f21/package/xfce4-wavelan-plugin.md" >}}) | 49 | 51 | 96.1 | Belarusian <xfce-i18n@xfce.org> | 
+ | [mate-screensaver]({{< ref "/f21/package/mate-screensaver.md" >}}) | 560 | 585 | 95.7 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [blueman]({{< ref "/f21/package/blueman.md" >}}) | 1381 | 1446 | 95.5 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [xchat]({{< ref "/f21/package/xchat.md" >}}) | 4799 | 5027 | 95.5 | Belarusian <i18n@mova.org> | 
+ | [libbonobo]({{< ref "/f21/package/libbonobo.md" >}}) | 500 | 524 | 95.4 | Belarusian <i18n@mova.org> | 
+ | [obconf]({{< ref "/f21/package/obconf.md" >}}) | 692 | 738 | 93.8 | Belarusian <i18n@mova.org> | 
+ | [openbox]({{< ref "/f21/package/openbox.md" >}}) | 473 | 506 | 93.5 | Belarusian <i18n@mova.org> | 
+ | [clementine]({{< ref "/f21/package/clementine.md" >}}) | 4528 | 4861 | 93.1 | Belarusian (http://www.transifex.com/projects/p/clementine/language/be/) | 
+ | [engrampa]({{< ref "/f21/package/engrampa.md" >}}) | 1553 | 1672 | 92.9 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [muffin]({{< ref "/f21/package/muffin.md" >}}) | 1896 | 2043 | 92.8 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [xmms]({{< ref "/f21/package/xmms.md" >}}) | 3177 | 3443 | 92.3 | Belarusian <i18n@mova.org> | 
+ | [mc]({{< ref "/f21/package/mc.md" >}}) | 3686 | 4005 | 92.0 | Belarusian (http://www.transifex.com/projects/p/mc/language/be/) | 
+ | [flare-engine]({{< ref "/f21/package/flare-engine.md" >}}) | 550 | 598 | 92.0 | Belarussian <be@li.org> | 
+ | [stellarium]({{< ref "/f21/package/stellarium.md" >}}) | 14648 | 15962 | 91.8 | Belarusian <i18n@mova.org> | 
+ | [lxrandr]({{< ref "/f21/package/lxrandr.md" >}}) | 111 | 122 | 91.0 | LANGUAGE <LL@li.org> | 
+ | [marco]({{< ref "/f21/package/marco.md" >}}) | 1987 | 2187 | 90.9 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [xfce4-taskmanager]({{< ref "/f21/package/xfce4-taskmanager.md" >}}) | 193 | 214 | 90.2 | Belarusian <i18n@mova.org> | 
+ | [supertux]({{< ref "/f21/package/supertux.md" >}}) | 1463 | 1630 | 89.8 | Belarusian (http://www.transifex.com/projects/p/supertux/language/be/) | 
+ | [compat-gtkhtml314]({{< ref "/f21/package/compat-gtkhtml314.md" >}}) | 849 | 949 | 89.5 | Belarusian <i18n@mova.org> | 
+ | [gtkhtml3]({{< ref "/f21/package/gtkhtml3.md" >}}) | 849 | 949 | 89.5 | Belarusian <i18n@mova.org> | 
+ | [mingw-gtkhtml3]({{< ref "/f21/package/mingw-gtkhtml3.md" >}}) | 849 | 949 | 89.5 | Belarusian <i18n@mova.org> | 
+ | [sabayon]({{< ref "/f21/package/sabayon.md" >}}) | 656 | 736 | 89.1 | Belarusian <i18n@mova.org> | 
+ | [audacious]({{< ref "/f21/package/audacious.md" >}}) | 487 | 553 | 88.1 | Belarusian (http://www.transifex.com/projects/p/audacious/language/be/) | 
+ | [transmission]({{< ref "/f21/package/transmission.md" >}}) | 1581 | 1809 | 87.4 | Belarusian <be@li.org> | 
+ | [atril]({{< ref "/f21/package/atril.md" >}}) | 1424 | 1634 | 87.1 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [thunar-vfs]({{< ref "/f21/package/thunar-vfs.md" >}}) | 335 | 387 | 86.6 | Belarusian <xfce-i18n@xfce.org> | 
+ | [caja]({{< ref "/f21/package/caja.md" >}}) | 7923 | 9223 | 85.9 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [setuptool]({{< ref "/f21/package/setuptool.md" >}}) | 47 | 55 | 85.5 | Belarusian <i18n@mova.org> | 
+ | [bleachbit]({{< ref "/f21/package/bleachbit.md" >}}) | 644 | 755 | 85.3 | Belarusian <be@li.org> | 
+ | [caja-extensions]({{< ref "/f21/package/caja-extensions.md" >}}) | 459 | 539 | 85.2 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [xfce4-cpugraph-plugin]({{< ref "/f21/package/xfce4-cpugraph-plugin.md" >}}) | 63 | 74 | 85.1 | Belarusian <i18n@mova.org> | 
+ | [glade2]({{< ref "/f21/package/glade2.md" >}}) | 4961 | 5840 | 84.9 | Belarusian <i18n@mova.org> | 
+ | [cinnamon-session]({{< ref "/f21/package/cinnamon-session.md" >}}) | 366 | 432 | 84.7 | Belarusian <i18n@mova.org> | 
+ | [libgnome-media-profiles]({{< ref "/f21/package/libgnome-media-profiles.md" >}}) | 386 | 460 | 83.9 | Belarusian <i18n@mova.org> | 
+ | [xchm]({{< ref "/f21/package/xchm.md" >}}) | 195 | 234 | 83.3 | Belarusian <i18n@mova.org> | 
+ | [mate-system-monitor]({{< ref "/f21/package/mate-system-monitor.md" >}}) | 1006 | 1211 | 83.1 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [geeqie]({{< ref "/f21/package/geeqie.md" >}}) | 2416 | 2909 | 83.1 | Belarusian (Official spelling) <i18n@mova.org> | 
+ | [redhat-menus]({{< ref "/f21/package/redhat-menus.md" >}}) | 216 | 261 | 82.8 | Belarusian <i18n@mova.org> | 
+ | [system-config-users]({{< ref "/f21/package/system-config-users.md" >}}) | 1242 | 1521 | 81.7 | LANGUAGE <LL@li.org> | 
+ | [sound-juicer]({{< ref "/f21/package/sound-juicer.md" >}}) | 922 | 1134 | 81.3 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [kf5-kiconthemes]({{< ref "/f21/package/kf5-kiconthemes.md" >}}) | 30 | 37 | 81.1 | Belarusian | 
+ | [lightdm-gtk]({{< ref "/f21/package/lightdm-gtk.md" >}}) | 68 | 84 | 81.0 | Belarusian <be@li.org> | 
+ | [cinnamon-translations]({{< ref "/f21/package/cinnamon-translations.md" >}}) | 10695 | 13313 | 80.3 | Belarusian <be@li.org> | 
+ | [grip]({{< ref "/f21/package/grip.md" >}}) | 841 | 1047 | 80.3 | Belarusian <i18n@mova.org> | 
+ | [mintmenu]({{< ref "/f21/package/mintmenu.md" >}}) | 4392 | 5493 | 80.0 | Belarusian <be@li.org> | 
+ | [chkconfig]({{< ref "/f21/package/chkconfig.md" >}}) | 403 | 513 | 78.6 | LANGUAGE <LL@li.org> | 
+ | [exo]({{< ref "/f21/package/exo.md" >}}) | 1083 | 1379 | 78.5 | Belarusian <i18n@mova.org> | 
+ | [mate-session-manager]({{< ref "/f21/package/mate-session-manager.md" >}}) | 516 | 665 | 77.6 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [uget]({{< ref "/f21/package/uget.md" >}}) | 793 | 1022 | 77.6 | Belarusian (http://www.transifex.com/uget/uget/language/be/) | 
+ | [slrn]({{< ref "/f21/package/slrn.md" >}}) | 4084 | 5351 | 76.3 | Belarusian <i18n@mova.org> | 
+ | [usermode]({{< ref "/f21/package/usermode.md" >}}) | 436 | 573 | 76.1 | LANGUAGE <LL@li.org> | 
+ | [libmatekbd]({{< ref "/f21/package/libmatekbd.md" >}}) | 221 | 292 | 75.7 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [xfce4-session]({{< ref "/f21/package/xfce4-session.md" >}}) | 845 | 1132 | 74.6 | Belarusian <xfce-i18n@xfce.org> | 
+ | [python-django]({{< ref "/f21/package/python-django.md" >}}) | 2468 | 3318 | 74.4 | Belarusian (http://www.transifex.com/projects/p/django/language/be/) | 
+ | [Thunar]({{< ref "/f21/package/Thunar.md" >}}) | 3071 | 4139 | 74.2 | Belarusian (http://www.transifex.com/projects/p/xfce/language/be/) | 
+ | [deluge]({{< ref "/f21/package/deluge.md" >}}) | 2006 | 2728 | 73.5 | Belarusian <be@li.org> | 
+ | [stardict]({{< ref "/f21/package/stardict.md" >}}) | 2192 | 3035 | 72.2 | Belarusian <i18n@mova.org> | 
+ | [mate-control-center]({{< ref "/f21/package/mate-control-center.md" >}}) | 1907 | 2686 | 71.0 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [mate-dialogs]({{< ref "/f21/package/mate-dialogs.md" >}}) | 447 | 631 | 70.8 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [gnome-calculator]({{< ref "/f21/package/gnome-calculator.md" >}}) | 855 | 1219 | 70.1 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mate-polkit]({{< ref "/f21/package/mate-polkit.md" >}}) | 205 | 296 | 69.3 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [pluma]({{< ref "/f21/package/pluma.md" >}}) | 3454 | 4999 | 69.1 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [kf5-kparts]({{< ref "/f21/package/kf5-kparts.md" >}}) | 71 | 104 | 68.3 | Belarusian <i18n@mova.org> | 
+ | [qutim]({{< ref "/f21/package/qutim.md" >}}) | 5038 | 7416 | 67.9 | Belarusian <be@li.org> | 
+ | [libreoffice]({{< ref "/f21/package/libreoffice.md" >}}) | 65024 | 98151 | 66.2 | <en@li.org> | 
+ | [mate-calc]({{< ref "/f21/package/mate-calc.md" >}}) | 929 | 1412 | 65.8 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [kf5-kcmutils]({{< ref "/f21/package/kf5-kcmutils.md" >}}) | 368 | 563 | 65.4 | Belarusian <i18n@mova.org> | 
+ | [steadyflow]({{< ref "/f21/package/steadyflow.md" >}}) | 307 | 470 | 65.3 | Belarusian <be@li.org> | 
+ | [mate-sensors-applet]({{< ref "/f21/package/mate-sensors-applet.md" >}}) | 187 | 290 | 64.5 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [kf5-kross]({{< ref "/f21/package/kf5-kross.md" >}}) | 64 | 100 | 64.0 | Belarusian <i18n@mova.org> | 
+ | [planner]({{< ref "/f21/package/planner.md" >}}) | 692 | 1089 | 63.5 | belarusian <i18n@mova.org> | 
+ | [eom]({{< ref "/f21/package/eom.md" >}}) | 1095 | 1731 | 63.3 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [inkscape]({{< ref "/f21/package/inkscape.md" >}}) | 21513 | 34684 | 62.0 | Belarusian <i18n@mova.org> | 
+ | [mate-notification-daemon]({{< ref "/f21/package/mate-notification-daemon.md" >}}) | 94 | 152 | 61.8 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [synaptic]({{< ref "/f21/package/synaptic.md" >}}) | 1997 | 3231 | 61.8 | Belarusian <i18n@mova.org> | 
+ | [mate-utils]({{< ref "/f21/package/mate-utils.md" >}}) | 2099 | 3666 | 57.3 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [hexchat]({{< ref "/f21/package/hexchat.md" >}}) | 3248 | 5762 | 56.4 | Belarusian (http://www.transifex.com/projects/p/hexchat/language/be/) | 
+ | [drwright]({{< ref "/f21/package/drwright.md" >}}) | 106 | 191 | 55.5 | Belarusian <i18n@mova.org> | 
+ | [orage]({{< ref "/f21/package/orage.md" >}}) | 1416 | 2601 | 54.4 | Belarusian (http://www.transifex.com/projects/p/xfce/language/be/) | 
+ | [gtk3]({{< ref "/f21/package/gtk3.md" >}}) | 6572 | 12402 | 53.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-gtk3]({{< ref "/f21/package/mingw-gtk3.md" >}}) | 6572 | 12402 | 53.0 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [xfce4-terminal]({{< ref "/f21/package/xfce4-terminal.md" >}}) | 575 | 1097 | 52.4 | Belarusian <i18n@mova.org> | 
+ | [gtk2]({{< ref "/f21/package/gtk2.md" >}}) | 6509 | 12446 | 52.3 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [mingw-gtk2]({{< ref "/f21/package/mingw-gtk2.md" >}}) | 6509 | 12446 | 52.3 | Belarusian <i18n-bel-gnome@googlegroups.com> | 
+ | [kf5-ktextwidgets]({{< ref "/f21/package/kf5-ktextwidgets.md" >}}) | 240 | 459 | 52.3 | Belarusian <i18n@mova.org> | 
+ | [mate-power-manager]({{< ref "/f21/package/mate-power-manager.md" >}}) | 1362 | 2758 | 49.4 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [gtksourceview]({{< ref "/f21/package/gtksourceview.md" >}}) | 348 | 725 | 48.0 | Belarusian <i18n@mova.org> | 
+ | [gtksourceview2]({{< ref "/f21/package/gtksourceview2.md" >}}) | 348 | 725 | 48.0 | Belarusian <i18n@mova.org> | 
+ | [pcmanfm]({{< ref "/f21/package/pcmanfm.md" >}}) | 576 | 1205 | 47.8 | Belarusian <i18n@mova.org> | 
+ | [gajim]({{< ref "/f21/package/gajim.md" >}}) | 5149 | 11933 | 43.1 | Belarusian <i18n@mova.org> | 
+ | [kf5-kjsembed]({{< ref "/f21/package/kf5-kjsembed.md" >}}) | 106 | 248 | 42.7 | Belarusian <i18n@mova.org> | 
+ | [kf5-khtml]({{< ref "/f21/package/kf5-khtml.md" >}}) | 715 | 1720 | 41.6 | Belarusian <i18n@mova.org> | 
+ | [libfm]({{< ref "/f21/package/libfm.md" >}}) | 637 | 1565 | 40.7 | LANGUAGE <LL@li.org> | 
+ | [kf5-kconfigwidgets]({{< ref "/f21/package/kf5-kconfigwidgets.md" >}}) | 128 | 317 | 40.4 | Belarusian <i18n@mova.org> | 
+ | [audacity]({{< ref "/f21/package/audacity.md" >}}) | 4821 | 12127 | 39.8 | Patricia Clausnitzer <by.marcis@gmail.com> | 
+ | [system-config-keyboard]({{< ref "/f21/package/system-config-keyboard.md" >}}) | 70 | 187 | 37.4 | Belarusian <i18n@mova.org> | 
+ | [listen]({{< ref "/f21/package/listen.md" >}}) | 666 | 1783 | 37.4 | Belarusian <be@li.org> | 
+ | [cairo-dock]({{< ref "/f21/package/cairo-dock.md" >}}) | 2744 | 7464 | 36.8 | Belarusian <be@li.org> | 
+ | [sawfish]({{< ref "/f21/package/sawfish.md" >}}) | 2349 | 6443 | 36.5 | Belarusian <i18n@mova.org> | 
+ | [wicd]({{< ref "/f21/package/wicd.md" >}}) | 410 | 1138 | 36.0 | Belarusian <be@li.org> | 
+ | [kf5-ki18n]({{< ref "/f21/package/kf5-ki18n.md" >}}) | 41 | 124 | 33.1 | Belarusian <i18n@mova.org> | 
+ | [gxneur]({{< ref "/f21/package/gxneur.md" >}}) | 291 | 915 | 31.8 |  | 
+ | [system-config-date]({{< ref "/f21/package/system-config-date.md" >}}) | 158 | 503 | 31.4 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [wget]({{< ref "/f21/package/wget.md" >}}) | 976 | 3136 | 31.1 | Belarusian <i18n@mova.org> | 
+ | [homebank]({{< ref "/f21/package/homebank.md" >}}) | 664 | 2145 | 31.0 | Belarusian <be@li.org> | 
+ | [licq]({{< ref "/f21/package/licq.md" >}}) | 451 | 1503 | 30.0 | Belarussian <i18n@mova.org> | 
+ | [rapid-photo-downloader]({{< ref "/f21/package/rapid-photo-downloader.md" >}}) | 513 | 1738 | 29.5 | Belarusian <be@li.org> | 
+ | [ksig]({{< ref "/f21/package/ksig.md" >}}) | 25 | 85 | 29.4 | Belarusian <i18n@mova.org> | 
+ | [audacious-plugins]({{< ref "/f21/package/audacious-plugins.md" >}}) | 1055 | 3656 | 28.9 | Belarusian (http://www.transifex.com/projects/p/audacious/language/be/) | 
+ | [librfm]({{< ref "/f21/package/librfm.md" >}}) | 673 | 2397 | 28.1 | Belarusian <i18n@mova.org> | 
+ | [kf5-kxmlgui]({{< ref "/f21/package/kf5-kxmlgui.md" >}}) | 432 | 1543 | 28.0 | Belarusian <i18n@mova.org> | 
+ | [thunar-volman]({{< ref "/f21/package/thunar-volman.md" >}}) | 132 | 486 | 27.2 | Andrei Zakharevich <andrej@zahar.ws> | 
+ | [kf5-knotifyconfig]({{< ref "/f21/package/kf5-knotifyconfig.md" >}}) | 34 | 129 | 26.4 | Belarusian <i18n@mova.org> | 
+ | [kf5-kinit]({{< ref "/f21/package/kf5-kinit.md" >}}) | 35 | 134 | 26.1 | Belarusian <i18n@mova.org> | 
+ | [aspell]({{< ref "/f21/package/aspell.md" >}}) | 414 | 1726 | 24.0 | Belarusian <i18n@mova.org> | 
+ | [synapse]({{< ref "/f21/package/synapse.md" >}}) | 185 | 785 | 23.6 | Belarusian <be@li.org> | 
+ | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 563 | 2396 | 23.5 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [vorbis-tools]({{< ref "/f21/package/vorbis-tools.md" >}}) | 957 | 4109 | 23.3 | Belarusian <i18n@mova.org> | 
+ | [gridengine]({{< ref "/f21/package/gridengine.md" >}}) | 467 | 2047 | 22.8 | Belarusian <i18n@mova.org> | 
+ | [kf5-kdelibs4support]({{< ref "/f21/package/kf5-kdelibs4support.md" >}}) | 1058 | 4683 | 22.6 | Belarusian <i18n@mova.org> | 
+ | [dia]({{< ref "/f21/package/dia.md" >}}) | 1242 | 5711 | 21.7 | Belarusian <i18n@mova.org> | 
+ | [kf5-kio]({{< ref "/f21/package/kf5-kio.md" >}}) | 2508 | 11641 | 21.5 | Belarusian <i18n@mova.org> | 
+ | [poedit]({{< ref "/f21/package/poedit.md" >}}) | 484 | 2461 | 19.7 | Belarusian | 
+ | [glibc]({{< ref "/f21/package/glibc.md" >}}) | 1199 | 6172 | 19.4 | Belarusian <i18n@mova.org> | 
+ | [mingw-gettext]({{< ref "/f21/package/mingw-gettext.md" >}}) | 1304 | 6738 | 19.4 | Belarusian <i18n@tut.by> | 
+ | [xfdesktop]({{< ref "/f21/package/xfdesktop.md" >}}) | 163 | 854 | 19.1 | Belarusian <xfce-i18n@xfce.org> | 
+ | [system-config-network]({{< ref "/f21/package/system-config-network.md" >}}) | 577 | 3032 | 19.0 | Belarusian | 
+ | [gettext]({{< ref "/f21/package/gettext.md" >}}) | 1304 | 6903 | 18.9 | Belarusian <i18n@tut.by> | 
+ | [k3b]({{< ref "/f21/package/k3b.md" >}}) | 3773 | 20535 | 18.4 | Belarusian <i18n@mova.org> | 
+ | [xfce4-weather-plugin]({{< ref "/f21/package/xfce4-weather-plugin.md" >}}) | 660 | 3594 | 18.4 | Belarusian <xfce4-dev@xfce.org> | 
+ | [gftp]({{< ref "/f21/package/gftp.md" >}}) | 617 | 3375 | 18.3 | Belarusian <i18n@mova.org> | 
+ | [mate-settings-daemon]({{< ref "/f21/package/mate-settings-daemon.md" >}}) | 317 | 1735 | 18.3 | Belarusian (http://www.transifex.com/projects/p/MATE/language/be/) | 
+ | [xfwm4]({{< ref "/f21/package/xfwm4.md" >}}) | 151 | 864 | 17.5 | Belarusian <xfce-i18n@xfce.org> | 
+ | [kf5-knewstuff]({{< ref "/f21/package/kf5-knewstuff.md" >}}) | 116 | 673 | 17.2 | Belarusian <i18n@mova.org> | 
+ | [fuse-encfs]({{< ref "/f21/package/fuse-encfs.md" >}}) | 216 | 1315 | 16.4 | Belarusian <be@li.org> | 
+ | [kf5-kservice]({{< ref "/f21/package/kf5-kservice.md" >}}) | 25 | 153 | 16.3 | Belarusian <i18n@mova.org> | 
+ | [kf5-ktexteditor]({{< ref "/f21/package/kf5-ktexteditor.md" >}}) | 1362 | 8694 | 15.7 | Belarusian <i18n@mova.org> | 
+ | [coreutils]({{< ref "/f21/package/coreutils.md" >}}) | 3001 | 20538 | 14.6 | Belarusian <i18n@mova.org> | 
+ | [freedink]({{< ref "/f21/package/freedink.md" >}}) | 12 | 83 | 14.5 | Belarusian <i18n@mova.org> | 
+ | [system-config-rootpassword]({{< ref "/f21/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | Belarusian <i18n@mova.org> | 
+ | [xfce4-appfinder]({{< ref "/f21/package/xfce4-appfinder.md" >}}) | 23 | 186 | 12.4 | Belorussian <i18n@mova.org> | 
+ | [make]({{< ref "/f21/package/make.md" >}}) | 273 | 2287 | 11.9 | Belarusian <i18n@mova.org> | 
+ | [system-config-language]({{< ref "/f21/package/system-config-language.md" >}}) | 22 | 198 | 11.1 | Belarusian <i18n@mova.org> | 
+ | [kf5-kdeclarative]({{< ref "/f21/package/kf5-kdeclarative.md" >}}) | 12 | 109 | 11.0 | Belarusian <i18n@mova.org> | 
+ | [xneur]({{< ref "/f21/package/xneur.md" >}}) | 197 | 1907 | 10.3 | Belarusian <be@li.org> | 
+ | [boinc-client]({{< ref "/f21/package/boinc-client.md" >}}) | 1615 | 16218 | 10.0 | LANGUAGE <LL@li.org> | 
+ | [gstreamer]({{< ref "/f21/package/gstreamer.md" >}}) | 190 | 1917 | 9.9 | Belarusian <i18n@mova.org> | 
+ | [mingw-gstreamer]({{< ref "/f21/package/mingw-gstreamer.md" >}}) | 190 | 1917 | 9.9 | Belarusian <i18n@mova.org> | 
+ | [kgrab]({{< ref "/f21/package/kgrab.md" >}}) | 35 | 370 | 9.5 | Belarusian <i18n@mova.org> | 
+ | [kf5-kwallet]({{< ref "/f21/package/kf5-kwallet.md" >}}) | 133 | 1498 | 8.9 | Belarusian <i18n@mova.org> | 
+ | [dc3dd]({{< ref "/f21/package/dc3dd.md" >}}) | 77 | 871 | 8.8 | Belarusian <i18n@mova.org> | 
+ | [sleuthkit]({{< ref "/f21/package/sleuthkit.md" >}}) | 610 | 6961 | 8.8 | Belarusian <be@li.org> | 
+ | [libexif]({{< ref "/f21/package/libexif.md" >}}) | 610 | 6977 | 8.7 | Belarusian <be@li.org> | 
+ | [gstreamer1]({{< ref "/f21/package/gstreamer1.md" >}}) | 175 | 2002 | 8.7 | Belarusian <i18n@mova.org> | 
+ | [mingw-gstreamer1]({{< ref "/f21/package/mingw-gstreamer1.md" >}}) | 175 | 2002 | 8.7 | Belarusian <i18n@mova.org> | 
+ | [gscan2pdf]({{< ref "/f21/package/gscan2pdf.md" >}}) | 141 | 1624 | 8.7 | Belarusian <be@li.org> | 
+ | [kopete-cryptography]({{< ref "/f21/package/kopete-cryptography.md" >}}) | 33 | 408 | 8.1 | Belarusian <i18n@mova.org> | 
+ | [tuxpaint-stamps]({{< ref "/f21/package/tuxpaint-stamps.md" >}}) | 209 | 2711 | 7.7 |  | 
+ | [kiconedit]({{< ref "/f21/package/kiconedit.md" >}}) | 53 | 726 | 7.3 | Belarusian <i18n@mova.org> | 
+ | [xfce4-places-plugin]({{< ref "/f21/package/xfce4-places-plugin.md" >}}) | 11 | 157 | 7.0 |  | 
+ | [rodent]({{< ref "/f21/package/rodent.md" >}}) | 678 | 9802 | 6.9 |  | 
+ | [rednotebook]({{< ref "/f21/package/rednotebook.md" >}}) | 77 | 1145 | 6.7 | Belarusian <be@li.org> | 
+ | [isomaster]({{< ref "/f21/package/isomaster.md" >}}) | 42 | 674 | 6.2 | http://littlesvr.ca/ostd/ | 
+ | [gnome-do]({{< ref "/f21/package/gnome-do.md" >}}) | 35 | 612 | 5.7 | Belarusian <be@li.org> | 
+ | [man-db]({{< ref "/f21/package/man-db.md" >}}) | 13 | 235 | 5.5 | Belarusian <i18n@mova.org> | 
+ | [xfce4-panel]({{< ref "/f21/package/xfce4-panel.md" >}}) | 79 | 1504 | 5.3 | Belarusian <i18n@mova.org> | 
+ | [gnupg]({{< ref "/f21/package/gnupg.md" >}}) | 451 | 8628 | 5.2 | Belarusian <i18n@mova.org> | 
+ | [catfish]({{< ref "/f21/package/catfish.md" >}}) | 25 | 512 | 4.9 | Belarusian <be@li.org> | 
+ | [kaudiocreator]({{< ref "/f21/package/kaudiocreator.md" >}}) | 55 | 1136 | 4.8 | Belarusian <i18n@mova.org> | 
+ | [tuxpaint]({{< ref "/f21/package/tuxpaint.md" >}}) | 59 | 1247 | 4.7 | Belarusian <kde-i18n-be@kde.org> | 
+ | [grep]({{< ref "/f21/package/grep.md" >}}) | 43 | 943 | 4.6 | Belarusian <i18n@mova.org> | 
+ | [openerp-client]({{< ref "/f21/package/openerp-client.md" >}}) | 346 | 7729 | 4.5 | Belarusian <be@li.org> | 
+ | [wdiff]({{< ref "/f21/package/wdiff.md" >}}) | 5 | 120 | 4.2 | Belarusian <i18n@mova.org> | 
+ | [compat-gcc-34]({{< ref "/f21/package/compat-gcc-34.md" >}}) | 1053 | 30879 | 3.4 | Belarusian <i18n@tut.by> | 
+ | [renameutils]({{< ref "/f21/package/renameutils.md" >}}) | 9 | 265 | 3.4 | Belarusian <i18n@mova.org> | 
+ | [rsibreak]({{< ref "/f21/package/rsibreak.md" >}}) | 44 | 1304 | 3.4 | Belarusian <i18n@mova.org> | 
+ | [findutils]({{< ref "/f21/package/findutils.md" >}}) | 82 | 2511 | 3.3 | Belarusian <i18n@mova.org> | 
+ | [kcoloredit]({{< ref "/f21/package/kcoloredit.md" >}}) | 9 | 278 | 3.2 | Belarusian <i18n@mova.org> | 
+ | [gnupg2]({{< ref "/f21/package/gnupg2.md" >}}) | 321 | 10621 | 3.0 | Belarusian <i18n@mova.org> | 
+ | [light-locker]({{< ref "/f21/package/light-locker.md" >}}) | 7 | 234 | 3.0 | Belarusian (http://www.transifex.com/projects/p/light-locker/language/be/) | 
+ | [gtg]({{< ref "/f21/package/gtg.md" >}}) | 103 | 3497 | 2.9 | Belarusian <be@li.org> | 
+ | [skanlite]({{< ref "/f21/package/skanlite.md" >}}) | 5 | 183 | 2.7 | Belarusian <i18n@mova.org> | 
+ | [xfce4-dict]({{< ref "/f21/package/xfce4-dict.md" >}}) | 13 | 518 | 2.5 | Belarusian <xfce-i18n@xfce.org> | 
+ | [xfce4-clipman-plugin]({{< ref "/f21/package/xfce4-clipman-plugin.md" >}}) | 8 | 347 | 2.3 | Belarusian <xfce-i18n@xfce.org> | 
+ | [CableSwig]({{< ref "/f21/package/CableSwig.md" >}}) | 25 | 1140 | 2.2 | Belarusian <i18n@tut.by> | 
+ | [gccxml]({{< ref "/f21/package/gccxml.md" >}}) | 25 | 1140 | 2.2 | Belarusian <i18n@tut.by> | 
+ | [nesc]({{< ref "/f21/package/nesc.md" >}}) | 25 | 1178 | 2.1 | Belarusian <i18n@tut.by> | 
+ | [kphotoalbum]({{< ref "/f21/package/kphotoalbum.md" >}}) | 158 | 8255 | 1.9 | Belarusian (Official spelling) <i18n@mova.org> | 
+ | [mingw-libvirt]({{< ref "/f21/package/mingw-libvirt.md" >}}) | 932 | 50410 | 1.8 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [libvirt]({{< ref "/f21/package/libvirt.md" >}}) | 932 | 50429 | 1.8 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [ktorrent]({{< ref "/f21/package/ktorrent.md" >}}) | 122 | 7739 | 1.6 | Belarusian <i18n@mova.org> | 
+ | [geany-plugins]({{< ref "/f21/package/geany-plugins.md" >}}) | 103 | 7514 | 1.4 | Belarusian <geany-i18n@uvena.de> | 
+ | [sugar-toolkit-gtk3]({{< ref "/f21/package/sugar-toolkit-gtk3.md" >}}) | 1 | 76 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [python-blivet]({{< ref "/f21/package/python-blivet.md" >}}) | 8 | 644 | 1.2 | Belarusian (http://www.transifex.com/projects/p/blivet/language/be/) | 
+ | [anaconda]({{< ref "/f21/package/anaconda.md" >}}) | 75 | 6578 | 1.1 | Belarusian (http://www.transifex.com/projects/p/anaconda/language/be/) | 
+ | [deja-dup]({{< ref "/f21/package/deja-dup.md" >}}) | 20 | 1824 | 1.1 | Belarusian <be@li.org> | 
+ | [libktorrent]({{< ref "/f21/package/libktorrent.md" >}}) | 5 | 519 | 1.0 | Belarusian <i18n@mova.org> | 
+ | [digikam]({{< ref "/f21/package/digikam.md" >}}) | 284 | 34081 | 0.8 | Belarusian (Official spelling) <i18n@mova.org> | 
+ | [msp430-gcc]({{< ref "/f21/package/msp430-gcc.md" >}}) | 427 | 66518 | 0.6 | Belarusian <i18n@tut.by> | 
+ | [plasma-oxygen]({{< ref "/f21/package/plasma-oxygen.md" >}}) | 4 | 650 | 0.6 | Belarusian <i18n@mova.org> | 
+ | [ghdl]({{< ref "/f21/package/ghdl.md" >}}) | 431 | 74168 | 0.6 | Belarusian <i18n@tut.by> | 
+ | [avr-gcc]({{< ref "/f21/package/avr-gcc.md" >}}) | 431 | 80406 | 0.5 | Belarusian <i18n@tut.by> | 
+ | [cross-gcc]({{< ref "/f21/package/cross-gcc.md" >}}) | 431 | 80406 | 0.5 | Belarusian <i18n@tut.by> | 
+ | [gcc]({{< ref "/f21/package/gcc.md" >}}) | 431 | 80406 | 0.5 | Belarusian <i18n@tut.by> | 
+ | [mingw-gcc]({{< ref "/f21/package/mingw-gcc.md" >}}) | 431 | 80406 | 0.5 | Belarusian <i18n@tut.by> | 
+ | [arm-none-eabi-gcc-cs]({{< ref "/f21/package/arm-none-eabi-gcc-cs.md" >}}) | 431 | 86557 | 0.5 | Belarusian <i18n@tut.by> | 
+ | [kpilot]({{< ref "/f21/package/kpilot.md" >}}) | 28 | 7156 | 0.4 | Belarusian <i18n@mova.org> | 
+ | [koffice-kivio]({{< ref "/f21/package/koffice-kivio.md" >}}) | 8 | 8417 | 0.1 | Belarusian | 
+ | [sugar]({{< ref "/f21/package/sugar.md" >}}) | 1 | 1733 | 0.1 | LANGUAGE <LL@li.org> | 
+ | [WindowMaker]({{< ref "/f21/package/WindowMaker.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [abrt]({{< ref "/f21/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [ailurus]({{< ref "/f21/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
+ | [calibre]({{< ref "/f21/package/calibre.md" >}}) | 0 | 144413 | 0.0 | Belarusian (http://www.transifex.com/projects/p/calibre/language/be/) | 
+ | [ccsm]({{< ref "/f21/package/ccsm.md" >}}) | 0 | 525 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [certmonger]({{< ref "/f21/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Belarusian (http://www.transifex.com/projects/p/certmonger/language/be/) | 
+ | [dnf-plugin-system-upgrade]({{< ref "/f21/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 203 | 0.0 | Belarusian | 
+ | [elinks]({{< ref "/f21/package/elinks.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [entangle]({{< ref "/f21/package/entangle.md" >}}) | 0 | 934 | 0.0 | Belarusian | 
+ | [feedreader]({{< ref "/f21/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [icewm]({{< ref "/f21/package/icewm.md" >}}) | 0 | 0 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [im-chooser]({{< ref "/f21/package/im-chooser.md" >}}) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings]({{< ref "/f21/package/imsettings.md" >}}) | 0 | 440 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup]({{< ref "/f21/package/initial-setup.md" >}}) | 0 | 85 | 0.0 | Belarusian (http://www.transifex.com/projects/p/initial-setup/language/be/) | 
+ | [kf5-kauth]({{< ref "/f21/package/kf5-kauth.md" >}}) | 0 | 58 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kbookmarks]({{< ref "/f21/package/kf5-kbookmarks.md" >}}) | 0 | 218 | 0.0 | Belarusian | 
+ | [kf5-kcodecs]({{< ref "/f21/package/kf5-kcodecs.md" >}}) | 0 | 348 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kcompletion]({{< ref "/f21/package/kf5-kcompletion.md" >}}) | 0 | 20 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kconfig]({{< ref "/f21/package/kf5-kconfig.md" >}}) | 0 | 254 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kcoreaddons]({{< ref "/f21/package/kf5-kcoreaddons.md" >}}) | 0 | 252 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kdesignerplugin]({{< ref "/f21/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kdnssd]({{< ref "/f21/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kglobalaccel]({{< ref "/f21/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kitemviews]({{< ref "/f21/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kjobwidgets]({{< ref "/f21/package/kf5-kjobwidgets.md" >}}) | 0 | 141 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-knotifications]({{< ref "/f21/package/kf5-knotifications.md" >}}) | 0 | 18 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kwidgetsaddons]({{< ref "/f21/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1266 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-kwindowsystem]({{< ref "/f21/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [kf5-sonnet]({{< ref "/f21/package/kf5-sonnet.md" >}}) | 0 | 659 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [ldm]({{< ref "/f21/package/ldm.md" >}}) | 0 | 55 | 0.0 | Belarusian <be@li.org> | 
+ | [libgxim]({{< ref "/f21/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libkfbapi]({{< ref "/f21/package/libkfbapi.md" >}}) | 0 | 42 | 0.0 | Belarusian <i18n@mova.org> | 
+ | [libreport]({{< ref "/f21/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [libvirt-glib]({{< ref "/f21/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Belarusian (http://www.transifex.com/projects/p/libvirt-glib/language/be/) | 
+ | [libvirt-sandbox]({{< ref "/f21/package/libvirt-sandbox.md" >}}) | 0 | 583 | 0.0 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [lightdm]({{< ref "/f21/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Belarusian <be@li.org> | 
+ | [liveusb-creator]({{< ref "/f21/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [minetest]({{< ref "/f21/package/minetest.md" >}}) | 0 | 513 | 0.0 | Belarusian | 
+ | [mingw-libvirt-glib]({{< ref "/f21/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Belarusian (http://www.transifex.com/projects/p/libvirt-glib/language/be/) | 
+ | [phatch]({{< ref "/f21/package/phatch.md" >}}) | 0 | 2553 | 0.0 | Belarusian <be@li.org> | 
+ | [pinta]({{< ref "/f21/package/pinta.md" >}}) | 0 | 1618 | 0.0 | Belarusian <be@li.org> | 
+ | [policycoreutils]({{< ref "/f21/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [pykickstart]({{< ref "/f21/package/pykickstart.md" >}}) | 0 | 448 | 0.0 | Belarusian (http://www.transifex.com/projects/p/pykickstart/language/be/) | 
+ | [python-meh]({{< ref "/f21/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [setroubleshoot]({{< ref "/f21/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [setroubleshoot-plugins]({{< ref "/f21/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Belarusian (http://www.transifex.com/projects/p/fedora/language/be/) | 
+ | [shutter]({{< ref "/f21/package/shutter.md" >}}) | 0 | 2448 | 0.0 | Belarusian <be@li.org> | 
+ | [sos]({{< ref "/f21/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
+ | [sugar-browse]({{< ref "/f21/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs]({{< ref "/f21/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kdump]({{< ref "/f21/package/system-config-kdump.md" >}}) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart]({{< ref "/f21/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Belarusian (http://www.transifex.com/projects/p/system-config-kickstart/language/be/) | 
+ | [system-config-nfs-docs]({{< ref "/f21/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs]({{< ref "/f21/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs]({{< ref "/f21/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs]({{< ref "/f21/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia]({{< ref "/f21/package/vidalia.md" >}}) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer]({{< ref "/f21/package/virt-viewer.md" >}}) | 0 | 692 | 0.0 | Belarusian (http://www.transifex.com/projects/p/virt-viewer/language/be/) | 
+ | [xnoise]({{< ref "/f21/package/xnoise.md" >}}) | 0 | 916 | 0.0 | Belarusian | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+## Error with polib
+We use the po metadata to get the language code and the team, but sometimes it fails, here are the files.
+
+| Package | Lang from file path/name | polib error | Team |
+|---------|--------------------------|-------------|------|
+ | [WindowMaker]({{< ref "/f21/package/WindowMaker.md" >}}) | /mnt/stockage/packages/f21/WindowMaker/po/be.po | error-os |  | 
+ | [elinks]({{< ref "/f21/package/elinks.md" >}}) | /mnt/stockage/packages/f21/elinks/po/be.po | error-unicode |  | 
+ | [rodent]({{< ref "/f21/package/rodent.md" >}}) | /mnt/stockage/packages/f21/rodent/apps/fgr/po/be.po | error-unicode |  | 
+{.sortable}
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+ | [WindowMaker]({{< ref "/f21/package/WindowMaker.md" >}}) | /mnt/stockage/packages/f21/WindowMaker/po/be.po |  | 
+ | [elinks]({{< ref "/f21/package/elinks.md" >}}) | /mnt/stockage/packages/f21/elinks/po/be.po |  | 
+ | [icewm]({{< ref "/f21/package/icewm.md" >}}) | /mnt/stockage/packages/f21/icewm/po/be.po | Belarusian <i18n@mova.org> | 
+{.sortable}
+
+

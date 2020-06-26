@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,10203,0,0,1245,0,0,9506,10203,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+firstboot,598,0,0,59,0,0,526,598,100.0,Serbian (sr) <fedora@prevod.org>
+isomaster,655,0,0,101,0,0,590,655,100.0,
+kudzu,73,0,0,13,0,0,70,73,100.0,Serbian (sr) <fedora@prevod.org>
+pidgin,15667,0,64,3330,0,11,15413,15731,99.59316000254275,Serbian <gnome@prevod.org>
+pirut,1618,0,0,354,0,0,1647,1618,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+pykickstart,284,0,0,25,0,0,253,284,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+rhpl,185,0,0,80,0,0,180,185,100.0,Serbian (sr) <fedora@prevod.org>
+wesnoth,119063,4,0,6884,1,0,102399,119067,99.99664054691895,Serbian

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+openerp-client,127,577,7025,54,227,293,135,7729,1.6431621167033252,FR <i18n-info@tinyerp.org>
+wine-docs,182,31,993,23,6,94,191,1206,15.091210613598674,AF

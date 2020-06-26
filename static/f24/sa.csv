@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,0,0,5655,0,0,1463,0,5655,0.0,Sanskrit <sa@li.org>
+iok,0,0,206,0,0,40,0,206,0.0,Sanskrit <LL@li.org>
+libreoffice,64494,8255,28259,19651,3368,8769,47754,101008,63.85038808807223,LANGUAGE <LL@li.org>
+onboard,7,0,2311,6,0,504,6,2318,0.30198446937014667,Sanskrit <sa@li.org>
+tuxpaint,1515,0,0,279,0,0,1091,1515,100.0,

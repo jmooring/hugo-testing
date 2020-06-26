@@ -1,0 +1,66 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,41,42,100.0,Swahili <sw@li.org>
+arduino,0,0,2566,0,0,462,0,2566,0.0,Swahili (http://www.transifex.com/projects/p/arduino-ide-15/language/sw/)
+blueman,118,0,1328,38,0,313,131,1446,8.160442600276625,Swahili (http://www.transifex.com/projects/p/MATE/language/sw/)
+cinnamon-translations,54,0,5461,33,0,1402,57,5515,0.9791477787851315,Swahili <sw@li.org>
+dialog,25,0,0,23,0,0,26,25,100.0,Swahili <translation-team-sw@lists.sourceforge.net>
+exaile,52,2,3952,10,1,1014,44,4006,1.2980529206190714,Swahili <sw@li.org>
+feedreader,0,0,0,0,0,0,0,0,0.0,
+gammu,39,16,3990,7,3,1110,37,4045,0.9641532756489494,none
+gnome-do,16,0,596,6,0,138,15,612,2.6143790849673203,Swahili <sw@li.org>
+iso-codes,258,272,581,165,79,212,269,1111,23.22232223222322,Swahili <translation-team-sw@lists.sourceforge.net>
+isomaster,8,0,666,8,0,99,11,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Swahili (http://www.transifex.com/mate/MATE/language/sw/)
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Swahili (http://www.transifex.com/projects/p/MATE/language/sw/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Swahili (http://www.transifex.com/mate/MATE/language/sw/)
+mintmenu,20,0,50,7,0,11,16,70,28.57142857142857,Swahili <sw@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+pidgin,183,0,18375,148,0,3800,189,18558,0.9860976398318785,Swahili (http://www.transifex.com/projects/p/pidgin/language/sw/)
+python-django,2398,0,929,625,0,121,2323,3327,72.07694619777577,Swahili (http://www.transifex.com/projects/p/django/language/sw/)
+python-django-formtools,32,0,0,11,0,0,32,32,100.0,Swahili (http://www.transifex.com/projects/p/django-formtools/language/sw/)
+stellarium,11,0,17157,11,0,4557,11,17168,0.06407269338303821,Swahili <sw@li.org>
+sugar,433,16,1284,154,6,259,433,1733,24.985574148874782,LANGUAGE <LL@li.org>
+sugar-abacus,23,0,11,23,0,2,23,34,67.64705882352942,LANGUAGE <LL@li.org>
+sugar-browse,23,0,166,17,0,35,26,189,12.16931216931217,LANGUAGE <LL@li.org>
+sugar-calculator,701,21,149,114,14,36,694,871,80.48220436280138,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,27,0,28,11,0,23,33,55,49.09090909090909,LANGUAGE <LL@li.org>
+sugar-clock,24,10,32,10,4,7,41,66,36.36363636363637,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,26,0,163,21,0,19,29,189,13.756613756613756,LANGUAGE <LL@li.org>
+sugar-fototoon,8,1,68,7,1,25,9,77,10.38961038961039,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,73,0,46,28,0,5,76,119,61.34453781512605,LANGUAGE <LL@li.org>
+sugar-imageviewer,9,0,42,5,0,8,17,51,17.647058823529413,LANGUAGE <LL@li.org>
+sugar-implode,1,0,77,1,0,20,1,78,1.282051282051282,LANGUAGE <LL@li.org>
+sugar-infoslicer,2,0,234,2,0,60,2,236,0.847457627118644,LANGUAGE <LL@li.org>
+sugar-jukebox,3,0,62,3,0,17,4,65,4.615384615384616,LANGUAGE <LL@li.org>
+sugar-labyrinth,2,1,278,2,1,91,2,281,0.7117437722419928,LANGUAGE <LL@li.org>
+sugar-log,9,0,89,7,0,14,10,98,9.183673469387756,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-memorize,68,8,66,51,7,16,75,142,47.88732394366197,LANGUAGE <LL@li.org>
+sugar-moon,77,14,26,30,2,1,84,117,65.8119658119658,LANGUAGE <LL@li.org>
+sugar-paint,49,0,41,40,0,12,66,90,54.44444444444444,LANGUAGE <LL@li.org>
+sugar-physics,0,2,46,0,2,26,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,2,0,107,2,0,29,2,109,1.834862385321101,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,17,0,97,13,0,29,17,114,14.912280701754385,LANGUAGE <LL@li.org>
+sugar-record,1,7,54,1,7,16,1,62,1.6129032258064515,LANGUAGE <LL@li.org>
+sugar-ruler,4,0,25,4,0,4,5,29,13.793103448275861,LANGUAGE <LL@li.org>
+sugar-speak,1,0,226,1,0,73,1,227,0.4405286343612335,LANGUAGE <LL@li.org>
+sugar-terminal,2,0,13,2,0,6,3,15,13.333333333333334,LANGUAGE <LL@li.org>
+sugar-toolkit,72,1,0,36,1,0,71,73,98.63013698630137,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,0,40,0,0,75,76,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,45,4,1410,41,3,391,46,1459,3.0843043180260454,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,2,1,596,2,1,124,2,599,0.333889816360601,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,3,155,0,3,75,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-write,16,0,105,13,0,42,19,121,13.223140495867769,LANGUAGE <LL@li.org>
+synapse,79,0,745,36,0,191,78,824,9.587378640776699,Swahili <sw@li.org>
+transmission,1,0,1808,1,0,493,6,1809,0.055279159756771695,Swahili <sw@li.org>
+tuxpaint,1515,0,0,279,0,0,1273,1515,100.0,LANGUAGE <LL@li.org>
+tuxpaint-stamps,695,699,1317,162,270,218,639,2711,25.636296569531535,Swahili
+tuxtype2,63,6,11,30,1,9,72,80,78.75,LANGUAGE <LL@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+virtaal,1012,149,492,274,48,222,1071,1653,61.22202056866304,tzLUG Translators
+wammu,36,9,5211,9,2,909,36,5256,0.684931506849315,none

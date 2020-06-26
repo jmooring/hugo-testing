@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+tuxpaint,1106,1020,1637,243,109,109,902,3763,29.39144299760829,none
+vlc,1398,15,33366,598,6,5681,1377,34779,4.019667040455447,Chiga (https://app.transifex.com/yaron/teams/16553/cgg/)

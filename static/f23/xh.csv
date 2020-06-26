@@ -1,0 +1,207 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3832,72,50,443,11,7,3244,3954,96.91451694486595,Xhosa <xh-translate@ubuntu.com>
+abrt,0,0,3230,0,0,390,0,3230,0.0,Xhosa (http://www.transifex.com/projects/p/fedora-abrt/language/xh/)
+adwaita-icon-theme,53,0,0,47,0,0,63,53,100.0,Xhosa <xh-translate@ubuntu.com>
+aisleriot,966,575,446,278,182,89,719,1987,48.61600402617011,Xhosa <xh-translate@ubuntu.com>
+asunder,12,0,468,11,0,76,16,480,2.5,http://littlesvr.ca/ostd/
+atk,359,8,8,114,7,5,319,375,95.73333333333333,Xhosa <xh-translate@ubuntu.com>
+baobab,23,128,389,12,40,74,21,540,4.2592592592592595,Xhosa <xh-translate@ubuntu.com>
+blivet-gui,0,0,713,0,0,187,0,713,0.0,Xhosa
+caja,3180,0,6062,680,0,816,2668,9242,34.408136766933566,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+calibre,51,0,151633,51,0,17643,52,151684,0.03362253105139632,Xhosa (http://www.transifex.com/calibre/calibre/language/xh/)
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Xhosa (http://www.transifex.com/projects/p/certmonger/language/xh/)
+cheese,193,44,267,71,14,24,178,504,38.2936507936508,translate-discuss-xh@lists.sourceforge.net
+cinnamon-desktop,127,101,3,19,10,2,99,231,54.97835497835498,translate-discuss-xh@lists.sourceforge.net
+cinnamon-session,8,40,353,2,14,53,5,401,1.99501246882793,Xhosa <xh-translate@ubuntu.com>
+cinnamon-settings-daemon,313,196,525,47,42,82,251,1034,30.270793036750483,Xhosa <xh-translate@ubuntu.com>
+cinnamon-translations,346,0,6733,106,0,1840,328,7079,4.887696002260206,Xhosa <xh@li.org>
+compat-gtkhtml314,949,0,0,425,0,0,992,949,100.0,Xhosa <xh-translate@ubuntu.com>
+control-center,2834,267,284,646,55,36,2520,3385,83.72230428360413,Xhosa <xh-translate@ubuntu.com>
+debconf,4,7,180,4,1,12,4,191,2.094240837696335,Xhosa <xh-translate@ubuntu.com>
+ekiga,5923,0,0,793,0,0,5027,5923,100.0,Xhosa <xh-translate@ubuntu.com>
+empathy,3817,333,723,994,74,78,3210,4873,78.3295711060948,translate-discuss-af@lists.sourceforge.net
+engrampa,730,0,1208,177,0,178,614,1938,37.66769865841073,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+eog,1140,37,412,293,7,20,993,1589,71.74323473882946,translate-discuss-xh@lists.sourceforge.net
+eom,233,0,1498,65,0,262,216,1731,13.460427498555749,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+evolution,12845,2777,1580,3542,565,173,11515,17202,74.6715498197884,Xhosa <xh-translate@ubuntu.com>
+evolution-data-server,4657,19,16,956,3,3,4632,4692,99.2540494458653,Xhosa <xh-translate@ubuntu.com>
+file-roller,928,29,14,238,4,2,788,971,95.57157569515962,Xhosa Team <xhosa@ubuntu.com>
+five-or-more,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Xhosa
+four-in-a-row,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gconf-editor,334,0,0,98,0,0,327,334,100.0,Xhosa <xh-translate@ubuntu.com>
+gcr,0,7,615,0,3,224,0,622,0.0,Xhosa <xh-translate@ubuntu.com>
+gdk-pixbuf2,987,294,67,151,45,6,880,1348,73.21958456973294,Xhosa <xh-translate@ubuntu.com>
+gdm,5137,211,0,694,14,0,4312,5348,96.05459985041136,Xhosa <xh-translate@ubuntu.com>
+gedit,4121,73,12,1000,17,3,3613,4206,97.97907750832144,Xhosa <xh-translate@ubuntu.com>
+gedit-plugins,682,245,278,320,82,67,741,1205,56.59751037344398,Xhosa <xh-translate@ubuntu.com>
+ggz-gtk-client,7,0,0,7,0,0,10,7,100.0,Xhosa <xh-translate@ubuntu.com>
+gimp,8611,7927,8271,2789,2596,1290,8368,24809,34.70917812084324,Xhosa <xh-translate@ubuntu.com>
+glib2,902,769,3106,131,142,474,729,4777,18.882143604772867,Xhosa <xh-translate@ubuntu.com>
+gnome-backgrounds,30,0,0,18,0,0,32,30,100.0,translate-discuss-xh@lists.sourceforge.net
+gnome-bluetooth,596,3,0,174,1,0,511,599,99.4991652754591,andiswamva@gmail.com
+gnome-calculator,851,35,29,362,13,3,840,915,93.00546448087431,Xhosa <xh-translate@ubuntu.com>
+gnome-chess,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gnome-desktop,320,0,0,73,0,0,304,320,100.0,Xhosa <xh-translate@ubuntu.com>
+gnome-desktop3,139,96,0,24,7,0,111,235,59.148936170212764,translate-discuss-xh@lists.sourceforge.net
+gnome-dictionary,19,425,389,16,92,75,22,833,2.2809123649459786,Xhosa <xh-translate@ubuntu.com>
+gnome-documents,74,22,59,37,7,18,63,155,47.74193548387097,translate-discuss-xh@lists.sourceforge.net
+gnome-font-viewer,32,0,0,18,0,0,33,32,100.0,translate-discuss-xh@lists.sourceforge.net
+gnome-icon-theme,53,0,0,47,0,0,63,53,100.0,Xhosa <xh-translate@ubuntu.com>
+gnome-keyring,17,162,311,4,19,86,22,490,3.4693877551020407,Xhosa <xh-translate@ubuntu.com>
+gnome-klotski,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gnome-mahjongg,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gnome-menus,80,15,0,36,1,0,85,95,84.21052631578947,translate-discuss-xh@lists.sourceforge.net
+gnome-mime-data,887,0,0,362,0,0,947,887,100.0,Xhosa <xh-translate@ubuntu.com>
+gnome-mines,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gnome-nettool,487,31,2,174,4,2,478,520,93.65384615384616,Xhosa <xh-translate@ubuntu.com>
+gnome-nibbles,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gnome-online-accounts,344,80,41,128,33,7,329,465,73.9784946236559,translate-discuss-af@lists.sourceforge.net
+gnome-robots,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gnome-screensaver,272,14,0,54,2,0,227,286,95.1048951048951,translate-discuss-xh@lists.sourceforge.net
+gnome-screenshot,241,43,0,50,6,0,208,284,84.85915492957746,translate-discuss-xh@lists.sourceforge.net
+gnome-search-tool,1008,120,231,136,16,48,800,1359,74.17218543046357,Xhosa <xh-translate@ubuntu.com>
+gnome-session,498,8,27,99,1,1,397,533,93.43339587242026,Xhosa <xh-translate@ubuntu.com>
+gnome-settings-daemon,313,196,525,47,42,82,251,1034,30.270793036750483,Xhosa <xh-translate@ubuntu.com>
+gnome-sudoku,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gnome-system-log,67,142,313,24,27,43,62,522,12.835249042145595,Xhosa <xh-translate@ubuntu.com>
+gnome-terminal,4397,7,18,518,2,1,3646,4422,99.43464495703302,Xhosa <xh-translate@ubuntu.com>
+gnome-tetravex,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+gnome-themes,101,0,0,34,0,0,117,101,100.0,Xhosa <xh-translate@ubuntu.com>
+gnome-vfs2,1281,0,0,248,0,0,1171,1281,100.0,Xhosa <xh-translate@ubuntu.com>
+gthumb,2610,0,0,882,0,0,2449,2610,100.0,Xhosa <xh-translate@ubuntu.com>
+gtk2,7884,3067,2753,1427,724,633,6875,13704,57.53064798598949,Xhosa <xh-translate@ubuntu.com>
+gtk3,6156,2974,2723,1137,717,633,5340,11853,51.93621867881549,Xhosa <xh-translate@ubuntu.com>
+gtkhtml3,949,0,0,425,0,0,992,949,100.0,Xhosa <xh-translate@ubuntu.com>
+gtksourceview2,725,0,0,294,0,0,782,725,100.0,Xhosa <xh-translate@ubuntu.com>
+gtksourceview3,725,0,0,294,0,0,782,725,100.0,Xhosa <xh-translate@ubuntu.com>
+gucharmap,507,0,0,238,0,0,541,507,100.0,Xhosa <xh-translate@ubuntu.com>
+iagno,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,440,0,0,80,0,440,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Xhosa (http://www.transifex.com/projects/p/initial-setup/language/xh/)
+iso-codes,166,3999,11616,158,3049,7015,170,15781,1.051897851847158,Xhosa <xhosa@translate.org.za>
+isomaster,24,1,649,19,1,87,27,674,3.5608308605341246,http://littlesvr.ca/ostd/
+kaudiocreator,111,448,577,35,119,119,99,1136,9.77112676056338,Xhosa <xhosa@translate.org.za>
+kcoloredit,8,92,178,5,29,61,14,278,2.877697841726619,Xhosa <xhosa@translate.org.za>
+kde-cli-tools,466,827,302,59,44,35,357,1595,29.21630094043887,Xhosa <xhosa@translate.org.za>
+kf5-kauth,0,6,52,0,2,6,0,58,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kbookmarks,0,119,99,0,40,8,0,218,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kcmutils,1,102,460,1,24,46,1,563,0.17761989342806395,Xhosa <xhosa@translate.org.za>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kconfig,0,16,246,0,6,94,0,262,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kconfigwidgets,102,135,88,59,46,13,113,325,31.384615384615383,Xhosa <xhosa@translate.org.za>
+kf5-kcoreaddons,0,205,70,0,62,20,0,275,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kdeclarative,5,47,57,1,9,4,5,109,4.587155963302752,Xhosa <xhosa@translate.org.za>
+kf5-kdelibs4support,568,1606,2639,449,824,1091,562,4813,11.801371286100146,Xhosa <xhosa@translate.org.za>
+kf5-kdesignerplugin,0,4,50,0,2,7,0,54,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kglobalaccel,0,49,22,0,7,2,0,71,0.0,Xhosa <xhosa@translate.org.za>
+kf5-khtml,359,535,829,103,142,67,323,1723,20.835751596053395,Xhosa <xhosa@translate.org.za>
+kf5-ki18n,0,95,29,0,85,25,0,124,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kiconthemes,14,17,6,11,8,1,19,37,37.83783783783784,Xhosa <xhosa@translate.org.za>
+kf5-kinit,20,26,88,5,5,4,18,134,14.925373134328357,Xhosa <xhosa@translate.org.za>
+kf5-kio,3145,5387,3392,391,647,273,2343,11924,26.37537739013754,Xhosa <xhosa@translate.org.za>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kjobwidgets,0,97,44,0,38,7,0,141,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kjsembed,0,88,160,0,19,25,0,248,0.0,Xhosa <xhosa@translate.org.za>
+kf5-knewstuff,6,219,452,6,91,54,10,677,0.8862629246676514,Xhosa <xhosa@translate.org.za>
+kf5-knotifications,0,13,5,0,5,1,0,18,0.0,Xhosa <xhosa@translate.org.za>
+kf5-knotifyconfig,0,29,100,0,11,6,0,129,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kparts,16,79,9,5,20,1,14,104,15.384615384615385,Xhosa <xhosa@translate.org.za>
+kf5-kpty,0,7,8,0,2,2,0,15,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kross,5,62,33,5,22,8,5,100,5.0,Xhosa <xhosa@translate.org.za>
+kf5-kservice,0,69,101,0,13,15,0,170,0.0,Xhosa <xhosa@translate.org.za>
+kf5-ktexteditor,873,2248,5551,162,633,675,706,8672,10.066881918819188,Xhosa <xhosa@translate.org.za>
+kf5-ktextwidgets,97,121,244,36,53,33,85,462,20.995670995670995,Xhosa <xhosa@translate.org.za>
+kf5-kwidgetsaddons,0,857,457,0,353,101,0,1314,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Xhosa <xhosa@translate.org.za>
+kf5-kxmlgui,231,984,333,73,117,38,225,1548,14.922480620155037,Xhosa <xhosa@translate.org.za>
+kf5-sonnet,0,71,592,0,36,36,0,663,0.0,Xhosa <xhosa@translate.org.za>
+khelpcenter,38,43,183,22,17,50,46,264,14.393939393939394,Xhosa <xhosa@translate.org.za>
+khotkeys,0,12,424,0,6,123,0,436,0.0,Xhosa <xhosa@translate.org.za>
+kiconedit,493,147,86,91,25,39,450,726,67.90633608815428,Xhosa <xhosa@translate.org.za>
+kinfocenter,624,279,168,187,37,59,605,1071,58.26330532212886,Xhosa <xhosa@translate.org.za>
+kmenuedit,36,13,228,19,5,37,45,277,12.996389891696749,Xhosa <xhosa@translate.org.za>
+koffice-kivio,1954,1777,4686,581,765,1015,1879,8417,23.214922181299748,Xhosa <xhosa@translate.org.za>
+kpilot,521,1786,4849,128,380,353,501,7156,7.280603689211851,Xhosa <xhosa@translate.org.za>
+ksig,52,0,33,9,0,17,33,85,61.1764705882353,Xhosa <xhosa@translate.org.za>
+ksnapshot,39,161,321,12,16,35,38,521,7.485604606525912,Xhosa <xhosa@translate.org.za>
+ksysguard,494,355,232,99,78,56,427,1081,45.69842738205365,Xhosa <xhosa@translate.org.za>
+kwin,518,765,1880,90,132,263,474,3163,16.376857413847613,Xhosa <xhosa@translate.org.za>
+libbonobo,485,15,24,101,4,3,433,524,92.55725190839695,Xhosa <xh-translate@ubuntu.com>
+libbonoboui,358,1,1,111,1,1,335,360,99.44444444444444,Xhosa <xh-translate@ubuntu.com>
+libgnome,1407,0,0,219,0,0,1131,1407,100.0,Xhosa <xh-translate@ubuntu.com>
+libgnome-media-profiles,232,54,174,32,6,13,173,460,50.43478260869565,Xhosa <xh-translate@ubuntu.com>
+libgnomecanvas,357,0,0,94,0,0,336,357,100.0,Xhosa <xh-translate@ubuntu.com>
+libgnomeui,1266,87,66,313,20,12,1039,1419,89.21775898520085,Xhosa <xh-translate@ubuntu.com>
+libgtop2,134,0,0,44,0,0,153,134,100.0,Xhosa <xh-translate@ubuntu.com>
+libgweather,355,35,70,153,12,14,339,460,77.17391304347827,Xhosa <xh-translate@ubuntu.com>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+libmateweather,316,0,183,139,0,44,310,499,63.326653306613224,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+libreoffice,33956,10551,55208,10251,5148,16040,32388,99715,34.05305119590834,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Xhosa (http://www.transifex.com/projects/p/libreport/language/xh/)
+librfm,326,681,1390,188,264,146,385,2397,13.600333750521484,Xhosa <xh-translate@ubuntu.com>
+libwnck,73,0,0,30,0,0,88,73,100.0,Xhosa <xh-translate@ubuntu.com>
+libwnck3,73,0,0,30,0,0,88,73,100.0,Xhosa <xh-translate@ubuntu.com>
+light-locker,7,0,253,2,0,35,10,260,2.6923076923076925,Xhosa (http://www.transifex.com/the_cavalry/light-locker/language/xh/)
+lightsoff,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+lxmenu-data,51,20,26,21,7,9,53,97,52.57731958762887,Xhosa <xh-translate@ubuntu.com>
+marco,1617,0,2479,245,0,169,1298,4096,39.4775390625,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-applets,1212,0,1409,296,0,330,1102,2621,46.24189240747806,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-calc,38,0,1374,28,0,413,39,1412,2.6912181303116145,Xhosa (http://www.transifex.com/projects/p/MATE/language/xh/)
+mate-control-center,432,0,2330,152,0,504,431,2762,15.640839971035481,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-desktop,52,0,2349,12,0,320,48,2401,2.165764264889629,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-media,4,0,221,3,0,93,4,225,1.7777777777777777,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-menus,51,0,46,21,0,16,53,97,52.57731958762887,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-panel,2539,0,1848,328,0,277,2238,4387,57.87554137223615,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-session-manager,45,0,636,13,0,101,40,681,6.607929515418502,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-settings-daemon,180,0,1524,29,0,218,141,1704,10.56338028169014,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-terminal,442,0,3945,185,0,321,449,4387,10.07522224754958,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-themes,7,0,48,2,0,8,9,55,12.727272727272727,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+mate-utils,1060,0,2616,170,0,492,855,3676,28.835690968443963,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+metacity,6893,0,26,458,0,6,5119,6919,99.62422315363492,Xhosa <xh-translate@ubuntu.com>
+mingw-GConf2,3832,72,50,443,11,7,3244,3954,96.91451694486595,Xhosa <xh-translate@ubuntu.com>
+mingw-adwaita-icon-theme,53,0,0,47,0,0,63,53,100.0,Xhosa <xh-translate@ubuntu.com>
+mingw-atk,359,8,8,114,7,5,319,375,95.73333333333333,Xhosa <xh-translate@ubuntu.com>
+mingw-gdk-pixbuf,987,294,67,151,45,6,880,1348,73.21958456973294,Xhosa <xh-translate@ubuntu.com>
+mingw-glib2,902,769,3106,131,142,474,729,4777,18.882143604772867,Xhosa <xh-translate@ubuntu.com>
+mingw-gtk2,7884,3067,2753,1427,724,633,6875,13704,57.53064798598949,Xhosa <xh-translate@ubuntu.com>
+mingw-gtk3,6156,2974,2723,1137,717,633,5340,11853,51.93621867881549,Xhosa <xh-translate@ubuntu.com>
+mingw-gtkhtml3,949,0,0,425,0,0,992,949,100.0,Xhosa <xh-translate@ubuntu.com>
+mingw-gtksourceview3,725,0,0,294,0,0,782,725,100.0,Xhosa <xh-translate@ubuntu.com>
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Xhosa (http://www.transifex.com/projects/p/libvirt-glib/language/xh/)
+muffin,6893,0,26,458,0,6,5119,6919,99.62422315363492,Xhosa <xh-translate@ubuntu.com>
+mutter,6893,0,26,458,0,6,5119,6919,99.62422315363492,Xhosa <xh-translate@ubuntu.com>
+nautilus,6945,111,154,1227,18,10,5811,7210,96.3245492371706,Xhosa <xh-translate@ubuntu.com>
+newt,4,0,0,4,0,0,4,4,100.0,Xhosa <xh-translate@ubuntu.com>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Xhosa (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/xh/)
+pidgin,6270,0,12288,1434,0,2514,5345,18558,33.785968315551244,Xhosa (http://www.transifex.com/projects/p/pidgin/language/xh/)
+plasma-desktop,1168,2112,4784,196,326,914,986,8064,14.484126984126986,Xhosa <xhosa@translate.org.za>
+plasma-workspace,109,350,4571,29,84,445,107,5030,2.1669980119284293,Xhosa <xhosa@translate.org.za>
+pluma,2105,0,2953,607,0,508,1966,5058,41.61724001581653,Xhosa (http://www.transifex.com/mate/MATE/language/xh/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Xhosa (http://www.transifex.com/projects/p/fedora/language/xh/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Xhosa (http://www.transifex.com/projects/p/python-meh/language/xh/)
+quadrapassel,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+rednotebook,23,0,1124,9,0,231,29,1147,2.0052310374891023,Xhosa <xh@li.org>
+rodent,446,987,8369,256,318,298,503,9802,4.550091817996328,
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Xhosa (http://www.transifex.com/projects/p/fedora/language/xh/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Xhosa (http://www.transifex.com/projects/p/fedora/language/xh/)
+sound-juicer,683,14,2,194,9,2,611,699,97.71101573676681,Xhosa <xh-translate@ubuntu.com>
+stellarium,39,0,17266,35,0,4545,47,17305,0.22536839063854378,Xhosa <xh@li.org>
+swell-foop,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+synaptic,2649,452,130,601,43,18,2189,3231,81.98700092850511,Xhosa <xh-translate@ubuntu.com>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Xhosa (http://www.transifex.com/projects/p/system-config-kickstart/language/xh/)
+tali,3605,1371,2090,834,443,421,2799,7066,51.01896405321257,Xhosa <xh-translate@ubuntu.com>
+totem,1466,45,21,336,10,4,1292,1532,95.69190600522192,Xhosa <xh-translate@ubuntu.com>
+totem-pl-parser,1466,45,21,336,10,4,1292,1532,95.69190600522192,Xhosa <xh-translate@ubuntu.com>
+tuxpaint,464,890,237,133,95,63,368,1591,29.164047768698932,LANGUAGE <LL@li.org>
+vino,540,0,0,70,0,0,452,540,100.0,Xhosa <xh-translate@ubuntu.com>
+vte,96,0,0,18,0,0,95,96,100.0,Xhosa <xh-translate@ubuntu.com>
+vte291,96,0,0,18,0,0,95,96,100.0,Xhosa <xh-translate@ubuntu.com>
+vte3,96,0,0,18,0,0,95,96,100.0,Xhosa <xh-translate@ubuntu.com>
+yelp,597,0,0,151,0,0,501,597,100.0,Xhosa <xh-translate@ubuntu.com>
+zenity,359,6,29,107,1,4,327,394,91.11675126903553,Xhosa <xh-translate@ubuntu.com>

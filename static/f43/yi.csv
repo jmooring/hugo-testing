@@ -1,0 +1,77 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,1,0,3953,1,0,460,1,3954,0.025290844714213456,Yiddish <raphael@cs.uky.edu>
+abiword,3990,550,968,1348,173,265,4081,5508,72.4400871459695,Yiddish <raphael@cs.uky.edu>
+asunder,4,0,489,4,0,88,4,493,0.8113590263691683,http://littlesvr.ca/ostd/
+at-spi2-core,31,96,248,31,48,47,32,375,8.266666666666666,Yiddish <raphael@cs.uky.edu>
+atril,13,0,2312,11,0,501,11,2325,0.5591397849462365,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+bleachbit,1798,37,88,347,6,11,1818,1923,93.49973998959959,
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,53,0,10103,47,0,1549,55,10156,0.5218589996061441,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+calibre,3,0,170964,2,0,19329,3,170967,0.0017547245959746618,Yiddish (http://www.transifex.com/calibre/calibre/language/yi/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Yiddish <raphael@cs.uky.edu>
+cinnamon-translations,89,0,9873,68,0,2227,95,9962,0.893394900622365,Yiddish <yi@li.org>
+clutter,1,0,3056,1,0,674,1,3057,0.03271180896303566,None <>
+dippi,0,0,1653,0,0,266,0,1653,0.0,none
+efl,1,1,154,1,1,57,1,156,0.641025641025641,General
+elementary-code,0,0,2228,0,0,384,0,2228,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2656,0,0,567,0,2656,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,231,0,0,45,0,231,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,42,0,0,9,0,42,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,303,0,0,70,0,303,0.0,none
+engrampa,17,0,2009,17,0,401,20,2026,0.839091806515301,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+eom,23,0,1756,19,0,322,23,1779,1.2928611579539067,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+gala,0,0,319,0,0,67,0,319,0.0,none
+gdk-pixbuf2,792,466,90,118,73,11,751,1348,58.753709198813056,None <>
+gdk-pixbuf2-modules-extra,792,466,90,118,73,11,751,1348,58.753709198813056,None <>
+gimp,118,3795,20267,99,1515,4940,133,24180,0.48800661703887516,Yiddish <raphael@cs.uky.edu>
+glib2,688,715,3374,105,127,515,692,4777,14.402344567720327,Yiddish <raphael@cs.uky.edu>
+gnome-desktop3,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+gnome-mime-data,1,0,826,1,0,340,1,827,0.12091898428053204,Yiddish <raphael@cs.uky.edu>
+gnome-panel,48,214,3258,11,72,425,47,3520,1.3636363636363635,Yiddish <raphael@cs.uky.edu>
+gnome-vfs2,209,25,1048,62,9,177,198,1282,16.302652106084242,Yiddish <raphael@cs.uky.edu>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+gtk2,5223,4277,4204,963,951,870,5195,13704,38.11295971978984,None <>
+gtk3,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+gtk4,288,490,1654,55,262,504,315,2432,11.842105263157894,None <>
+isomaster,8,1,665,8,1,98,9,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libbonobo,460,17,47,93,5,10,434,524,87.78625954198473,Yiddish <raphael@cs.uky.edu>
+libbonoboui,282,33,45,90,4,19,260,360,78.33333333333333,Yiddish <raphael@cs.uky.edu>
+libgnome,401,24,982,78,9,132,375,1407,28.50035536602701,Yiddish <raphael@cs.uky.edu>
+libgnomecanvas,339,18,0,92,2,0,352,357,94.9579831932773,Yiddish <raphael@cs.uky.edu>
+libgnomeui,40,29,1350,31,9,305,43,1419,2.8188865398167726,Yiddish <raphael@cs.uky.edu>
+mate-applets,10,1,2755,9,1,620,10,2766,0.3615328994938539,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-calc,8,0,1574,8,0,478,9,1582,0.5056890012642226,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-control-center,33,7,3298,30,4,1136,37,3338,0.9886159376872379,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mate-desktop,31,0,2381,7,0,288,34,2412,1.285240464344942,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mate-media,6,0,238,3,0,97,7,244,2.459016393442623,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mate-menu,5,0,303,4,0,106,6,308,1.6233766233766231,Yiddish (http://www.transifex.com/mate/MATE/language/yi/)
+mate-panel,66,0,4645,25,0,629,64,4711,1.4009764381235408,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mate-sensors-applet,3,0,310,3,0,106,3,313,0.9584664536741214,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mate-session-manager,10,0,707,7,0,126,13,717,1.394700139470014,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mate-system-monitor,13,0,1546,11,0,321,17,1559,0.8338678640153944,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mate-terminal,16,0,4708,14,0,531,15,4724,0.3386960203217612,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Yiddish (http://app.transifex.com/mate/MATE/language/yi/)
+mate-user-admin,3,0,602,3,0,123,5,605,0.49586776859504134,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-utils,15,0,3705,14,0,635,18,3720,0.4032258064516129,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+mingw-atk,31,96,248,31,48,47,32,375,8.266666666666666,Yiddish <raphael@cs.uky.edu>
+mingw-gdk-pixbuf,792,466,90,118,73,11,751,1348,58.753709198813056,None <>
+mingw-glib2,688,715,3374,105,127,515,692,4777,14.402344567720327,Yiddish <raphael@cs.uky.edu>
+mingw-gtk2,5223,4277,4204,963,951,870,5195,13704,38.11295971978984,None <>
+mingw-gtk3,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+mingw-gtk4,288,490,1654,55,262,504,315,2432,11.842105263157894,None <>
+nautilus,31,59,6886,29,32,1153,31,6976,0.44438073394495414,Yiddish <raphael@cs.uky.edu>
+pluma,33,0,5674,30,0,1419,36,5707,0.5782372524969336,Yiddish (https://app.transifex.com/mate/teams/13566/yi/)
+pmount,0,0,723,0,0,63,0,723,0.0,Yiddish <yi@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,
+yudit,248,17,34,95,4,15,276,299,82.94314381270902,Raphael Finkel <raphael@cs.uky.edu>

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+sugar-typing-turtle,575,0,24,126,0,1,706,599,95.99332220367279,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,4,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,112,0,9,50,0,5,160,121,92.56198347107438,LANGUAGE <LL@li.org>

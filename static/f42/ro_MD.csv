@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,1250,0,14686,365,0,3347,1506,15936,7.843875502008032,Moldavian <mo@li.org>
+deluge,12,0,4378,10,0,1331,15,4390,0.2733485193621868,Moldavian <mo@li.org>
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-calculator,45,14,115,29,6,27,48,174,25.862068965517242,Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/>
+elementary-calendar,345,88,237,133,37,63,423,670,51.49253731343284,Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/>
+elementary-camera,25,8,108,6,2,28,33,141,17.73049645390071,Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/>
+elementary-code,199,207,1822,88,58,238,206,2228,8.931777378815081,Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/>
+elementary-files,1148,835,673,275,175,117,1222,2656,43.22289156626506,Moldovan <https://weblate.elementary.io/projects/files/files/mo/>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,11,22,198,9,10,26,10,231,4.761904761904762,Moldovan <https://weblate.elementary.io/projects/music/music/mo/>
+elementary-notifications,0,0,42,0,0,9,0,42,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,10,2,2850,4,1,657,9,2862,0.3494060097833683,Moldovan <https://weblate.elementary.io/projects/photos/photos/mo/>
+elementary-screenshot,87,5,36,24,4,9,114,128,67.96875,Moldovan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/mo/>
+elementary-settings-daemon,0,0,303,0,0,70,0,303,0.0,none
+gala,1,0,318,1,0,66,3,319,0.3134796238244514,Moldovan <https://l10n.elementary.io/projects/desktop/gala/mo/>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+iso-codes,33,0,1728,27,0,886,31,1761,1.8739352640545146,Moldavian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ro_MD/>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,11,8,61,7,3,20,12,80,13.750000000000002,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/>
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,2,11,43,1,4,12,2,56,3.571428571428571,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/>

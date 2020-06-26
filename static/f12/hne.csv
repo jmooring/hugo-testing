@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+digikam,4690,3297,15459,1474,894,1169,5456,23446,20.003412095879895,Hindi <kde-i18n-doc@lists.kde.org>
+kcoloredit,174,37,67,71,12,12,198,278,62.589928057553955,Hindi <kde-i18n-doc@lists.kde.org>
+kgrab,152,12,206,48,2,3,182,370,41.08108108108108,Hindi <kde-i18n-doc@lists.kde.org>
+kiconedit,585,0,141,149,0,6,690,726,80.57851239669421,Hindi <kde-i18n-doc@lists.kde.org>
+kile,3275,508,7169,952,156,761,3784,10952,29.903214024835645,Hindi <kde-i18n-doc@lists.kde.org>
+kipi-plugins,2452,898,3534,949,237,270,2705,6884,35.618826263800116,Hindi <kde-i18n-doc@lists.kde.org>
+konq-plugins,1300,83,215,447,24,45,1653,1598,81.35168961201502,Hindi <kde-i18n-doc@lists.kde.org>
+kopete-cryptography,55,0,353,19,0,22,74,408,13.480392156862745,Hindi <kde-i18n-doc@lists.kde.org>
+kphotoalbum,1798,173,4362,592,36,135,2166,6333,28.39096794568135,Hindi <kde-i18n-doc@lists.kde.org>
+ktorrent,719,283,6560,407,118,804,827,7562,9.508066649034646,Hindi <kde-i18n-doc@lists.kde.org>
+libktorrent,72,143,202,27,33,32,85,417,17.26618705035971,Hindi <kde-i18n-doc@lists.kde.org>
+rsibreak,403,25,795,104,7,49,472,1223,32.95175797219951,Hindi <kde-i18n-doc@lists.kde.org>
+yakuake,422,32,834,122,9,68,504,1288,32.7639751552795,Hindi <kde-i18n-doc@lists.kde.org>

@@ -1,0 +1,106 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+PackageKit,0,0,1328,0,0,326,0,1328,0.0,Faroese (http://www.transifex.com/projects/p/freedesktop/language/fo/)
+ailurus,54,0,8224,17,0,1236,60,8278,0.6523314810340662,none
+appcenter,0,0,757,0,0,177,0,757,0.0,LANGUAGE <LL@li.org>
+asunder,8,0,487,8,0,83,8,495,1.6161616161616161,http://littlesvr.ca/ostd/
+audience,0,0,106,0,0,48,0,106,0.0,
+avahi,413,2,453,113,2,53,366,868,47.58064516129033,Faroese (http://www.transifex.com/lennart/avahi/language/fo/)
+backintime,306,0,1677,99,0,237,314,1983,15.431164901664147,Faroese <fo@li.org>
+bleachbit,155,0,629,56,0,116,126,784,19.77040816326531,Faroese <fo@li.org>
+bzr,0,0,33249,0,0,2353,0,33249,0.0,Faroese <fo@li.org>
+cairo-dock,637,0,6827,180,0,647,611,7464,8.534297963558414,Faroese <fo@li.org>
+calibre,4,0,157297,3,0,18097,3,157301,0.0025428954679245523,Faroese (http://www.transifex.com/calibre/calibre/language/fo/)
+cinnamon-translations,926,0,8642,332,0,1844,934,9568,9.67809364548495,Faroese <fo@li.org>
+clamtk,699,0,97,187,0,25,719,796,87.8140703517588,Føroyabólkurin
+deja-dup,701,0,1402,153,0,184,660,2103,33.33333333333333,Faroese <fo@li.org>
+deluge,303,0,2425,199,0,679,276,2728,11.107038123167156,Faroese <fo@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+e16,569,1,2226,228,1,285,585,2796,20.350500715307582,Faroese <fo@li.org>
+elementary-calculator,0,0,53,0,0,32,0,53,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,
+elementary-capnet-assist,0,0,66,0,0,10,0,66,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+enlightenment,361,1190,7135,128,361,1743,371,8686,4.156113285747179,Faroese <fo@li.org>
+exaile,118,12,3876,36,4,985,110,4006,2.9455816275586617,Faroese <fo@li.org>
+fprintd,151,0,268,23,0,34,138,419,36.0381861575179,Faroese (http://www.transifex.com/freedesktop/fprintd/language/fo/)
+gdesklets,335,0,1193,96,0,108,314,1528,21.924083769633505,Faroese <fo@li.org>
+gnome-do,365,0,247,104,0,40,361,612,59.64052287581699,Faroese <fo@li.org>
+gpicview,234,0,2,51,0,1,216,236,99.15254237288136,LANGUAGE <LL@li.org>
+gtkspell3,10,0,6,5,0,2,12,16,62.5,Faroese <LL@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,147,62,881,113,19,319,135,1090,13.486238532110093,Faroese
+isomaster,495,177,2,105,1,1,508,674,73.44213649851632,<LL@li.org>
+jmol,64,1,1383,43,1,404,69,1448,4.41988950276243,Faroese <fo@li.org>
+koffice-kivio,286,1117,7014,147,582,1632,274,8417,3.397885232268029,føroyskt <cvsuser@flug.fo>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Faroese (http://www.transifex.com/mate/MATE/language/fo/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Faroese <fo@li.org>
+lxappearance,171,24,39,53,8,19,167,234,73.07692307692307,Føroyabólkurin
+lxappearance-obconf,168,5,23,25,1,1,158,196,85.71428571428571,Føroyabólkurin
+lxdm,12,0,35,11,0,14,12,47,25.53191489361702,LANGUAGE <LL@li.org>
+lxinput,70,2,11,23,1,2,59,83,84.33734939759037,LANGUAGE <LL@li.org>
+lxlauncher,51,0,7,11,0,6,48,58,87.93103448275862,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,94,97,100.0,LANGUAGE <LL@li.org>
+lxmusic,202,1,0,88,1,0,199,203,99.50738916256158,LANGUAGE <LL@li.org>
+lxrandr,83,50,34,22,8,11,81,167,49.700598802395206,LANGUAGE <LL@li.org>
+lxsession,29,9,717,12,4,150,21,755,3.8410596026490067,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,36,43,100.0,LANGUAGE <LL@li.org>
+lxtask,122,0,8,48,0,3,129,130,93.84615384615384,LANGUAGE <LL@li.org>
+lxterminal,85,45,72,45,19,34,91,202,42.07920792079208,LANGUAGE <LL@li.org>
+mate-control-center,18,0,2640,12,0,616,20,2658,0.6772009029345373,Faroese (https://www.transifex.com/mate/teams/13566/fo/)
+mate-menu,241,23,52,99,7,12,246,316,76.26582278481013,Faroese <fo@li.org>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-gtkspell3,10,0,6,5,0,2,12,16,62.5,Faroese <LL@li.org>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Faroese (http://www.transifex.com/freedesktop/p11-kit/language/fo/)
+mintmenu,1538,0,4928,522,0,505,1541,6466,23.785957315187133,Faroese <fo@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+onboard,1,0,2317,1,0,509,1,2318,0.04314063848144953,Faroese <fo@li.org>
+p11-kit,0,0,476,0,0,81,0,476,0.0,Faroese (http://www.transifex.com/freedesktop/p11-kit/language/fo/)
+pantheon-agent-geoclue2,0,0,43,0,0,11,0,43,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,289,0,2198,99,0,393,302,2487,11.620426216324889,Faroese <fo@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pcmanfm,163,431,616,54,116,126,160,1210,13.471074380165291,LANGUAGE <LL@li.org>
+picard,43,0,1582,27,0,446,44,1625,2.646153846153846,Faroese (http://www.transifex.com/projects/p/musicbrainz/language/fo/)
+pinta,676,0,942,293,0,235,686,1618,41.77997527812114,Føroyabólkurin
+pogo,338,0,238,91,0,10,312,576,58.68055555555556,Føroyabólkurin
+realmd,0,0,789,0,0,127,0,789,0.0,Faroese (http://www.transifex.com/freedesktop/realmd/language/fo/)
+rednotebook,589,0,558,143,0,97,573,1147,51.35135135135135,Faroese <fo@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+shared-mime-info,1491,0,424,595,0,148,1376,1915,77.85900783289817,Faroese (http://www.transifex.com/freedesktop/shared-mime-info/language/fo/)
+shutter,19,0,2429,12,0,489,32,2448,0.7761437908496732,Faroese <fo@li.org>
+slick-greeter,1,0,210,1,0,46,2,211,0.47393364928909953,Faroese <fo@li.org>
+squirrelmail,8037,0,2,1602,0,1,7945,8039,99.97512128374176,Faroese <squirrelmail-i18n@lists.sourceforge.net>
+steadyflow,401,0,69,87,0,6,405,470,85.31914893617021,Faroese <fo@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,189,0,0,68,0,189,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,91,0,0,31,0,91,0.0,none
+switchboard-plug-bluetooth,0,0,73,0,0,27,0,73,0.0,none
+switchboard-plug-display,0,0,104,0,0,41,0,104,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,403,0,0,156,0,403,0.0,none
+switchboard-plug-mouse-touchpad,0,0,67,0,0,27,0,67,0.0,none
+switchboard-plug-networking,0,0,442,0,0,128,0,442,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,144,0,0,53,0,144,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sound,0,0,90,0,0,37,0,90,0.0,
+terminator,77,0,1333,50,0,367,75,1410,5.460992907801419,Faroese <fo@li.org>
+transmission,1382,0,427,425,0,69,1447,1809,76.39579878385848,Føroyabólkurin
+tuxpaint,647,809,135,172,81,38,624,1591,40.666247642991834,Faroese <morshus@morshus.com>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+unetbootin,559,0,2600,109,0,69,543,3159,17.695473251028808,Faroese <fo@li.org>
+virtaal,1582,8,63,510,5,29,1480,1653,95.70477918935269,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Faroese <fo@li.org>
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none

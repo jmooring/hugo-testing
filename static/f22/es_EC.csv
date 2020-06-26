@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmateweather,361,0,129,153,0,21,425,490,73.67346938775509,Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/)
+mate-applets,1685,0,735,398,0,161,2027,2420,69.62809917355372,Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/)
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Spanish (Ecuador) (http://www.transifex.com/projects/p/MATE/language/es_EC/)
+openerp,30337,0,25561,6257,0,2368,31981,55898,54.272066979140575,Spanish (Ecuador) <es_EC@li.org>
+openerp-client,2354,0,5375,527,0,47,2682,7729,30.456721438737222,Spanish (Ecuador) <es_EC@li.org>
+openerp7,17290,0,31127,4298,0,2631,18411,48417,35.71059751740091,Spanish (Ecuador) <es_EC@li.org>

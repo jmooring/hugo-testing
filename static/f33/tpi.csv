@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,83,0,8989,60,0,1978,113,9072,0.9149029982363315,Tok Pisin <tpi@li.org>
+mate-menu,34,11,263,19,6,85,46,308,11.03896103896104,Tok Pisin <tpi@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,131,0,0,70,0,131,0.0,LANGUAGE <LL@li.org>

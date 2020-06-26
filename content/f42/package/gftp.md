@@ -1,0 +1,109 @@
+---
+title: "gftp - translation progress for f42"
+package: gftp
+date: 2026-01-18T12:08:00+00:00
+started_languages: 63
+no_languages: 0
+polib_error_count: 2
+could_not_process_count: 64
+release: f42
+---
+The package gftp (version 2.9.1b):
+
+* represents 3370 source words to be translated
+* is translated into 64 languages in Fedora f42
+
+* polib could not open 2 files to extract metadata
+* contains 64 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [bg]({{< ref "/f42/language/bg.md" >}}) | 3331 | 3331 | 100.0 | /mnt/stockage/packages/f42/gftp/po/bg.po | 
+ | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/bn_IN.po | 
+ | [bs]({{< ref "/f42/language/bs.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/bs.po | 
+ | [ca]({{< ref "/f42/language/ca.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/ca.po | 
+ | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/ca@valencia.po | 
+ | [cs]({{< ref "/f42/language/cs.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/cs.po | 
+ | [da]({{< ref "/f42/language/da.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/da.po | 
+ | [de]({{< ref "/f42/language/de.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/de.po | 
+ | [dz]({{< ref "/f42/language/dz.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/dz.po | 
+ | [el]({{< ref "/f42/language/el.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/el.po | 
+ | [eo]({{< ref "/f42/language/eo.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/eo.po | 
+ | [error]({{< ref "/f42/language/error.md" >}}) | 3075 | 3075 | 100.0 | /mnt/stockage/packages/f42/gftp/po/sr@Latn.po | 
+ | [es]({{< ref "/f42/language/es.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/es.po | 
+ | [eu]({{< ref "/f42/language/eu.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/eu.po | 
+ | [fi]({{< ref "/f42/language/fi.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/fi.po | 
+ | [fr]({{< ref "/f42/language/fr.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/fr.po | 
+ | [gl]({{< ref "/f42/language/gl.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/gl.po | 
+ | [gu]({{< ref "/f42/language/gu.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/gu.po | 
+ | [hi]({{< ref "/f42/language/hi.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/hi.po | 
+ | [hr]({{< ref "/f42/language/hr.md" >}}) | 3090 | 3090 | 100.0 | /mnt/stockage/packages/f42/gftp/po/hr.po | 
+ | [hu]({{< ref "/f42/language/hu.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/hu.po | 
+ | [it]({{< ref "/f42/language/it.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/it.po | 
+ | [kn]({{< ref "/f42/language/kn.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/kn.po | 
+ | [lv]({{< ref "/f42/language/lv.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/lv.po | 
+ | [mk]({{< ref "/f42/language/mk.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/mk.po | 
+ | [mr]({{< ref "/f42/language/mr.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/mr.po | 
+ | [ne]({{< ref "/f42/language/ne.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/ne.po | 
+ | [nl]({{< ref "/f42/language/nl.md" >}}) | 3146 | 3146 | 100.0 | /mnt/stockage/packages/f42/gftp/po/nl.po | 
+ | [or]({{< ref "/f42/language/or.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/or.po | 
+ | [pt]({{< ref "/f42/language/pt.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/pt.po | 
+ | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 3321 | 3321 | 100.0 | /mnt/stockage/packages/f42/gftp/po/pt_BR.po | 
+ | [ro]({{< ref "/f42/language/ro.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/ro.po | 
+ | [ru]({{< ref "/f42/language/ru.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/ru.po | 
+ | [sl]({{< ref "/f42/language/sl.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/sl.po | 
+ | [sr]({{< ref "/f42/language/sr.md" >}}) | 3075 | 3075 | 100.0 | /mnt/stockage/packages/f42/gftp/po/sr.po | 
+ | [sv]({{< ref "/f42/language/sv.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f42/gftp/po/sv.po | 
+ | [ta]({{< ref "/f42/language/ta.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/ta.po | 
+ | [te]({{< ref "/f42/language/te.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/te.po | 
+ | [tr]({{< ref "/f42/language/tr.md" >}}) | 3335 | 3335 | 100.0 | /mnt/stockage/packages/f42/gftp/po/tr.po | 
+ | [uk]({{< ref "/f42/language/uk.md" >}}) | 3331 | 3331 | 100.0 | /mnt/stockage/packages/f42/gftp/po/uk.po | 
+ | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/zh_TW.po | 
+ | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 3334 | 3334 | 100.0 | /mnt/stockage/packages/f42/gftp/po/zh_HK.po | 
+ | [pl]({{< ref "/f42/language/pl.md" >}}) | 3331 | 3334 | 99.9 | /mnt/stockage/packages/f42/gftp/po/pl.po | 
+ | [ko]({{< ref "/f42/language/ko.md" >}}) | 3339 | 3370 | 99.1 | /mnt/stockage/packages/f42/gftp/po/ko.po | 
+ | [bn]({{< ref "/f42/language/bn.md" >}}) | 2947 | 3055 | 96.5 | /mnt/stockage/packages/f42/gftp/po/bn.po | 
+ | [pa]({{< ref "/f42/language/pa.md" >}}) | 3135 | 3334 | 94.0 | /mnt/stockage/packages/f42/gftp/po/pa.po | 
+ | [ja]({{< ref "/f42/language/ja.md" >}}) | 3068 | 3334 | 92.0 | /mnt/stockage/packages/f42/gftp/po/ja.po | 
+ | [as]({{< ref "/f42/language/as.md" >}}) | 2995 | 3334 | 89.8 | /mnt/stockage/packages/f42/gftp/po/as.po | 
+ | [oc]({{< ref "/f42/language/oc.md" >}}) | 2795 | 3334 | 83.8 | /mnt/stockage/packages/f42/gftp/po/oc.po | 
+ | [th]({{< ref "/f42/language/th.md" >}}) | 2216 | 3076 | 72.0 | /mnt/stockage/packages/f42/gftp/po/th.po | 
+ | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 2307 | 3370 | 68.5 | /mnt/stockage/packages/f42/gftp/po/nb.po | 
+ | [ms]({{< ref "/f42/language/ms.md" >}}) | 1857 | 3055 | 60.8 | /mnt/stockage/packages/f42/gftp/po/ms.po | 
+ | [ar]({{< ref "/f42/language/ar.md" >}}) | 1955 | 3370 | 58.0 | /mnt/stockage/packages/f42/gftp/po/ar.po | 
+ | [lt]({{< ref "/f42/language/lt.md" >}}) | 1536 | 3331 | 46.1 | /mnt/stockage/packages/f42/gftp/po/lt.po | 
+ | [sk]({{< ref "/f42/language/sk.md" >}}) | 1095 | 3055 | 35.8 | /mnt/stockage/packages/f42/gftp/po/sk.po | 
+ | [be]({{< ref "/f42/language/be.md" >}}) | 688 | 2814 | 24.4 | /mnt/stockage/packages/f42/gftp/po/be.po | 
+ | [he]({{< ref "/f42/language/he.md" >}}) | 452 | 3370 | 13.4 | /mnt/stockage/packages/f42/gftp/po/he.po | 
+ | [am]({{< ref "/f42/language/am.md" >}}) | 113 | 3055 | 3.7 | /mnt/stockage/packages/f42/gftp/po/am.po | 
+ | [sq]({{< ref "/f42/language/sq.md" >}}) | 89 | 3104 | 2.9 | /mnt/stockage/packages/f42/gftp/po/sq.po | 
+ | [az]({{< ref "/f42/language/az.md" >}}) | 65 | 3055 | 2.1 | /mnt/stockage/packages/f42/gftp/po/az.po | 
+ | [rw]({{< ref "/f42/language/rw.md" >}}) | 69 | 3331 | 2.1 | /mnt/stockage/packages/f42/gftp/po/rw.po | 
+ | [ml]({{< ref "/f42/language/ml.md" >}}) | 61 | 3055 | 2.0 | /mnt/stockage/packages/f42/gftp/po/ml.po | 
+ | [ga]({{< ref "/f42/language/ga.md" >}}) | 49 | 3078 | 1.6 | /mnt/stockage/packages/f42/gftp/po/ga.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+## Error with polib
+We use the po metadata to get the language code and the team, but sometimes it fails, here are the files.
+
+| Lang from file path/name | Lang code chosen | polib error | Team |
+|--------------------------|------------------|-------------|------|
+{.sortable}
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

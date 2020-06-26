@@ -1,0 +1,88 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3565,0,421,429,0,47,3838,3986,89.43803311590567,<en@li.org>
+anaconda,8997,0,0,1133,0,0,10040,8997,100.0,Maithili <maithili.sf.net>
+audit,1167,0,74,265,0,2,1359,1241,94.03706688154713,Maithili <maithili.sf.net>
+chkconfig,448,0,0,90,0,0,519,448,100.0,Maithili <maithili.sf.net>
+control-center,1580,0,1604,482,0,286,1838,3184,49.62311557788945,Maithili <maithili.sf.net>
+ekiga,1242,0,2974,273,0,380,1325,4216,29.459203036053133,<en@li.org>
+empathy,187,0,1679,153,0,315,244,1866,10.021436227224008,Maithili <maithili.sf.net>
+eog,676,0,579,180,0,105,752,1255,53.864541832669325,Hindi <hindi.sf.net>
+epiphany,3684,0,555,834,0,82,3889,4239,86.90728945506015,Maithili <maithili.sf.net>
+evince,872,0,283,248,0,64,942,1155,75.4978354978355,Maithili <maithili.sf.net>
+evolution,1327,0,20803,851,0,4201,1550,22130,5.996384997740624,Maithili <maithili.sf.net>
+evolution-data-server,154,0,4937,105,0,935,169,5091,3.0249459831074446,Maithili <maithili.sf.net>
+file-roller,898,0,369,235,0,49,982,1267,70.87608524072613,Maithili <maithili.sf.net>
+firstboot,654,0,0,54,0,0,685,654,100.0,Maithili <maithili.sf.net>
+gcalctool,536,0,829,243,0,165,586,1365,39.26739926739927,Maithili <maithili.sf.net>
+gdm,330,0,1019,62,0,170,348,1349,24.46256486286138,Maithili <en@li.org>
+gedit,4427,0,583,1014,0,83,4904,5010,88.36327345309381,maithili <maithili.sf.net>
+glade3,525,0,4088,322,0,877,591,4613,11.380880121396055,Maithili <maithili.sf.net>
+glib2,1795,16,539,280,2,90,1993,2350,76.38297872340426,maithili <maithili.sf.net>
+gnome-applets,2770,0,259,644,0,38,2922,3029,91.44932320897986,<en@li.org>
+gnome-backgrounds,16,2,0,8,1,0,18,18,88.88888888888889,Hindi <hindi.sf.net>
+gnome-desktop,266,0,19,64,0,7,308,285,93.33333333333333,<en@li.org>
+gnome-games,5900,0,1676,1489,0,297,6195,7576,77.87750791974656,<en@li.org>
+gnome-keyring,567,0,1256,73,0,203,553,1823,31.10257816785518,Maithili <maithili.sf.net>
+gnome-media,1755,0,396,515,0,81,1865,2151,81.58995815899581,Hindi <hindi.sf.net>
+gnome-menus,123,0,42,44,0,14,135,165,74.54545454545455,maithili <maithili.sf.net>
+gnome-netstatus,404,0,14,101,0,5,424,418,96.65071770334929,Maithili <maithili.sf.net>
+gnome-panel,3664,0,909,525,0,103,3742,4573,80.12245790509512,<en@li.org>
+gnome-power-manager,1777,0,1507,243,0,230,1901,3284,54.110840438489646,Maithili <maithili.sf.net>
+gnome-terminal,2994,0,383,338,0,43,3059,3377,88.65857269766065,<en@li.org>
+gnome-utils,3753,0,418,668,0,70,3927,4171,89.9784224406617,<en@li.org>
+gnome-vfs2,1506,0,2,300,0,1,1605,1508,99.86737400530504,<en@li.org>
+gok,1529,0,431,410,0,33,1671,1960,78.01020408163265,Maithili <maithili.sf.net>
+gst-mixer,1755,0,396,515,0,81,1865,2151,81.58995815899581,Hindi <hindi.sf.net>
+gtk2,11578,278,1072,2414,53,176,11922,12928,89.5575495049505,maithili <maithili.sf.net>
+gtkhtml3,971,0,290,444,0,116,1131,1261,77.00237906423474,Maithili <maithili.sf.net>
+gtksourceview2,370,0,729,188,0,250,388,1099,33.666969972702454,Maithili <maithili.sf.net>
+gucharmap,716,0,87,271,0,27,759,803,89.1656288916563,Maithili <maithili.sf.net>
+initscripts,3728,264,177,867,85,39,5471,4169,89.42192372271528,Maithili <maithili.sf.net>
+iok,142,0,0,36,0,0,154,142,100.0,Maithili <Maithili.sf.net>
+kcoloredit,69,4,205,31,2,62,74,278,24.820143884892087,Maithili <maithili.sf.net>
+kgrab,26,0,344,17,0,36,37,370,7.027027027027027,Maithili <maithili.sf.net>
+kiconedit,55,0,671,44,0,111,76,726,7.575757575757576,Maithili <maithili.sf.net>
+kmplayer,103,1,1156,85,1,293,132,1260,8.174603174603174,Maithili <maithili.sf.net>
+konq-plugins,238,8,1446,175,3,368,304,1692,14.066193853427897,Maithili <maithili.sf.net>
+kpilot,117,0,7039,87,0,774,143,7156,1.6349916154276132,Maithili <maithili.sf.net>
+ktorrent,273,83,7209,216,44,1089,311,7565,3.6087243886318574,Maithili <maithili.sf.net>
+libbonobo,543,0,0,107,0,0,561,543,100.0,<en@li.org>
+libbonoboui,361,0,7,114,0,1,404,368,98.09782608695652,<en@li.org>
+libgnome,1109,0,648,192,0,79,1145,1757,63.118952760387025,<en@li.org>
+libgnomecanvas,378,0,0,95,0,0,380,378,100.0,<en@li.org>
+libgnomeui,1214,0,12,316,0,4,1281,1226,99.02120717781403,<en@li.org>
+libgweather,5586,0,0,4337,0,0,5656,5586,100.0,Maithili <maithili.sf.net>
+lxmenu-data,59,0,38,24,0,13,57,97,60.824742268041234,maithili <maithili.sf.net>
+metacity,2817,0,1047,360,0,53,3095,3864,72.90372670807453,Maithili <maithili.sf.net>
+mingw32-glib2,1795,16,539,280,2,90,1993,2350,76.38297872340426,maithili <maithili.sf.net>
+mingw32-gtk2,11578,278,1072,2414,53,176,11922,12928,89.5575495049505,maithili <maithili.sf.net>
+mingw32-gtkhtml3,971,0,290,444,0,116,1131,1261,77.00237906423474,Maithili <maithili.sf.net>
+nautilus,5078,0,3175,951,0,343,5462,8253,61.5291409184539,<en@li.org>
+orca,1448,0,2233,599,0,664,1626,3681,39.3371366476501,<en@li.org>
+pykickstart,226,0,58,20,0,5,234,284,79.5774647887324,<en@li.org>
+rhpl,185,0,0,80,0,0,189,185,100.0,Maithili <maithili.sf.net>
+setuptool,73,0,0,19,0,0,84,73,100.0,Maithili <maithili.sf.net>
+smolt,319,355,292,64,26,42,376,966,33.02277432712215,Maithili <maithili.sf.net>
+switchdesk,137,0,2,19,0,1,154,139,98.56115107913669,Maithili <maithili.sf.net>
+system-config-bind,9434,0,0,1065,0,0,10287,9434,100.0,Maithili <maithili.sf.net>
+system-config-date,943,0,95,608,0,9,1028,1038,90.84778420038536,Maithili <maithili.sf.net>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,390,2107,0,153,150,0,409,2497,15.618742490989188,Maithili <maithili.sf.net>
+system-config-kdump,339,0,44,33,0,2,380,383,88.51174934725849,Maithili <maithili.sf.net>
+system-config-kickstart,997,23,19,260,3,1,1143,1039,95.95765158806545,Maithili <maithili.sf.net>
+system-config-language,49,0,0,11,0,0,50,49,100.0,Hindi <hindi.sf.net>
+system-config-lvm,2084,10,142,323,4,17,2404,2236,93.20214669051879,Maithili <maithili.sf.net>
+system-config-nfs,332,0,0,72,0,0,392,332,100.0,Maithili <maithili.sf.net>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,3003,3,0,669,1,0,3384,3006,99.9001996007984,Maithili <maithili.sf.net>
+system-config-rootpassword,96,0,20,15,0,4,107,116,82.75862068965517,Maithili <maithili.sf.net>
+system-config-samba,401,0,21,134,0,3,505,422,95.02369668246445,Maithili <maithili.sf.net>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,330,0,54,49,0,4,369,384,85.9375,Maithili <maithili.sf.net>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1337,0,0,172,0,0,1541,1337,100.0,Maithili <maithili.sf.net>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+tomboy,1116,0,1329,199,0,172,1254,2445,45.644171779141104,<en@li.org>
+totem,1486,0,1328,379,0,221,1553,2814,52.807391613361766,maithili <maithili.sf.net>
+usermode,562,0,0,94,0,0,668,562,100.0,Maithili <maithili.sf.net>
+yelp,571,0,464,217,0,132,659,1035,55.169082125603865,Maithili <maithili.sf.net>

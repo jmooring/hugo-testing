@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+exaile,1165,0,168,366,0,20,1124,1333,87.39684921230307,Hebrew <LL@li.org>
+filezilla,3077,846,2937,575,191,397,2775,6860,44.85422740524781,ABZPMGDNHM7 (please do not remove)
+gnomesword,2415,0,0,690,0,0,2225,2415,100.0,GnomeSword Translation Team
+horde,209,0,6894,169,0,1763,186,7103,2.9424186963254964,i18n@lists.horde.org
+imp,73,0,5574,60,0,1075,76,5647,1.292721799185408,i18n@lists.horde.org
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>
+xiphos,2743,0,0,756,0,0,2588,2743,100.0,Xiphos Translation Team

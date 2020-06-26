@@ -1,0 +1,19 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3993,0,15,1270,0,1,4390,4008,99.62574850299401,Spanish (Argentinian) <>
+bacula,0,0,18155,0,0,2887,0,18155,0.0,Spanish
+bacula2,0,0,18155,0,0,2887,0,18155,0.0,Spanish
+django-registration,81,0,0,15,0,0,99,81,100.0,LANGUAGE <LL@li.org>
+emerald,671,45,58,191,12,12,923,774,86.69250645994832,Spanish <es@li.org>
+gallery2,8899,2362,152,1246,546,18,10206,11413,77.97248751423815,Argentine Spanish <gallery-devel@lists.sourceforge.net>
+gambas3,433,0,0,40,0,0,227,433,100.0,LANGUAGE <LL@li.org>
+gedit-vala,257,0,0,65,0,0,294,257,100.0,LANGUAGE <LL@li.org>
+gimp-lqr-plugin,66,9,750,26,3,81,76,825,8.0,Español
+gnome-applets,3858,0,0,976,0,0,4893,3858,100.0,Spanish <traductores@es.gnome.org>
+gnomebaker,1069,0,117,255,0,36,1231,1186,90.13490725126475,Spanish (Argentina) <es_AR@li.org>
+libgweather,447,9,4,170,5,4,535,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+liblicense,44,0,22,37,0,13,48,66,66.66666666666666,LANGUAGE <LL@li.org>
+libvisual,303,204,548,62,51,92,364,1055,28.720379146919434,Spanish
+libvisual-plugins,354,54,192,67,14,28,426,600,59.0,Spanish <es@li.org>
+mcrypt,956,6,3,141,1,1,1117,965,99.06735751295336,Argentinian <translation-es-AR@lists.sourceforge.net>
+speedcrunch,1,0,17,1,0,12,1,18,5.555555555555555,es_AR
+x-tile,660,0,0,136,0,0,682,660,100.0,Spanish <MeloPixel>

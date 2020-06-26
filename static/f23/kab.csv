@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+filezilla,9713,147,48,1671,22,4,10866,9908,98.03189341945902,Yacine Bouklif <yacine2953-asuqqel@yahoo.fr>
+gdm,650,0,0,87,0,0,752,650,100.0,GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr>
+mintmenu,17,0,1864,8,0,331,26,1881,0.9037745879851143,Kabyle <kab@li.org>
+openerp,6,0,10710,5,0,1567,7,10716,0.055991041433370664,Kabyle <kab@li.org>
+openerp7,5,0,10652,4,0,1607,6,10657,0.0469175190015952,Kabyle <kab@li.org>
+poedit,2516,0,0,532,0,0,2617,2516,100.0,Kabyle

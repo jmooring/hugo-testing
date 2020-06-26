@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,Afar
+cinnamon-translations,164,0,7001,41,0,1710,125,7165,2.2889043963712488,Afar <aa@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+folder-color-switcher,42,0,23,13,0,10,30,65,64.61538461538461,Afar <aa@li.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+maliit-keyboard,31,4,46,30,2,29,31,81,38.2716049382716,Afar <aa@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none

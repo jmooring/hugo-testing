@@ -1,0 +1,41 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,1493,67,2056,343,3,303,1759,3616,41.288716814159294,Occitan (post 1500) <oc@li.org>
+anjuta,553,0,6583,385,0,1534,618,7136,7.749439461883408,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+balsa,248,0,5500,181,0,1202,279,5748,4.314544189283229,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+deskbar-applet,193,0,540,87,0,87,221,733,26.330150068212827,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+ekiga,326,30,4789,127,5,633,370,5145,6.336248785228377,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+eog,142,26,706,97,3,116,192,874,16.247139588100687,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+epiphany,195,0,3774,145,0,729,223,3969,4.91307634164777,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+evince,161,0,825,109,0,177,202,986,16.328600405679513,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+evolution,2153,104,16999,1210,22,3424,2371,19256,11.180930619027835,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+exaile,250,0,2330,183,0,500,291,2580,9.689922480620156,Occitan (post 1500) <oc@li.org>
+fantasdic,93,0,211,49,0,52,124,304,30.592105263157894,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+file-roller,163,2,782,86,1,156,190,947,17.212249208025344,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gdesklets,19,0,1371,15,0,164,20,1390,1.3669064748201438,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gdm,527,2,7008,238,2,730,589,7537,6.992171951704923,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gedit,911,315,3837,336,13,753,1014,5063,17.9932846138653,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+genius,53,0,6199,45,0,800,62,6252,0.8477287268074216,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gimp,967,310,24007,749,172,5700,1070,25284,3.8245530770447713,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+glade3,424,0,4442,277,0,717,518,4866,8.713522400328811,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-applet-timer,26,0,216,18,0,51,30,242,10.743801652892563,Occitan (post 1500) <oc@li.org>
+gnome-build,38,0,559,28,0,127,41,597,6.365159128978225,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-commander,496,0,7404,355,0,1069,556,7900,6.278481012658228,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-desktop,330,0,0,76,0,0,400,330,100.0,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-menus,146,0,17,55,0,4,177,163,89.57055214723927,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-panel,1596,0,2494,349,0,199,1857,4090,39.02200488997555,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-schedule,128,0,3270,86,0,289,147,3398,3.766921718658034,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-session,494,0,317,87,0,28,555,811,60.912453760789155,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-terminal,276,0,4312,147,0,366,331,4588,6.015693112467306,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+goffice04,203,0,3787,180,0,1185,217,3990,5.087719298245614,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gtk2-engines,7,0,76,7,0,26,8,83,8.433734939759036,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+homebank,1079,2,1,379,2,1,1120,1082,99.72273567467653,Occitan (post 1500) <oc@li.org>
+iso-codes,139,3448,13786,131,3032,9189,138,17373,0.8000920969320209,Occitan <laborde@crpp.u-bordeaux.fr>
+libgdl,19,0,594,18,0,80,20,613,3.0995106035889073,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+nautilus,845,98,5948,363,9,772,909,6891,12.262371208823103,Occitan
+nautilus-sendto,86,0,214,28,0,34,91,300,28.666666666666668,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+ntfs-config,3,0,452,1,0,66,5,455,0.6593406593406593,Occitan (post 1500) <oc@li.org>
+po4a,14,24,1575,4,5,154,16,1613,0.8679479231246126,Occitan (post 1500) <oc@li.org>
+pybliographer,70,0,901,60,0,202,76,971,7.209062821833162,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+tracker,143,0,707,45,0,152,135,850,16.823529411764707,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+vte,4,0,104,1,0,18,3,108,3.7037037037037033,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+xchat-gnome,411,0,3487,315,0,665,434,3898,10.543868650590046,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>

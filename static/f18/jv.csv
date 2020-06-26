@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+backintime,15,0,904,7,0,173,22,919,1.632208922742111,Javanese <jv@li.org>
+calibre,105,0,44233,17,0,4624,96,44338,0.23681717713924852,Javanese <jv@li.org>
+cinnamon,52,0,1644,26,0,526,49,1696,3.0660377358490565,Javanese <jv@li.org>
+edgar,1,0,11463,1,0,1529,1,11464,0.008722958827634334,Javanese <jv@li.org>
+gmpc,29,0,1415,20,0,451,44,1444,2.008310249307479,Javanese <jv@li.org>
+gnome-do,29,0,583,15,0,129,29,612,4.738562091503268,Javanese <jv@li.org>
+islamic-menus,5,0,0,2,0,0,7,5,100.0,Javanese <jv@li.org>
+jmol,160,0,1498,60,0,487,164,1658,9.650180940892641,Javanese <jv@li.org>
+pychess,89,0,3002,49,0,589,87,3091,2.879327078615335,Javanese <jv@li.org>
+terminator,270,0,456,105,0,149,292,726,37.1900826446281,Javanese <jv@li.org>
+tortoisehg,39,0,11009,13,0,2143,39,11048,0.35300506879073135,Javanese <jv@li.org>
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>
+viking,0,0,4135,0,0,1056,0,4135,0.0,Javanese <jv@li.org>
+whaawmp,799,0,0,160,0,0,773,799,100.0,Javanese <jv@li.org>
+widelands,38,0,2042,9,0,91,40,2080,1.826923076923077,Javanese <jv@li.org>

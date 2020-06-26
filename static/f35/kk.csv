@@ -1,0 +1,672 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+PackageKit,326,0,0,117,0,0,296,326,100.0,Kazakh (http://www.transifex.com/freedesktop/packagekit/language/kk/)
+Thunar,4413,0,0,784,0,0,3610,4413,100.0,Kazakh (https://www.transifex.com/xfce/teams/16840/kk/)
+abattis-cantarell-fonts,27,0,0,3,0,0,20,27,100.0,Kazakh <kk_KZ@googlegroups.com>
+abrt,16,0,3660,12,0,405,20,3676,0.4352557127312296,Kazakh <https://translate.fedoraproject.org/projects/abrt/abrt/kk/>
+accerciser,107,0,551,77,0,147,110,658,16.261398176291795,Kazakh <kk_KZ@googlegroups.com>
+accountsservice,59,0,0,10,0,0,59,59,100.0,Kazakh (http://www.transifex.com/freedesktop/accountsservice/language/kk/)
+aisleriot,257,0,2725,105,0,576,233,2982,8.618376928236083,Kazakh <kk_KZ@googlegroups.com>
+akonadi-calendar-tools,525,207,53,121,41,10,466,785,66.87898089171973,Kazakh <kde-i18n-doc@kde.org>
+akonadi-import-wizard,240,71,83,58,17,9,200,394,60.913705583756354,Kazakh <kde-i18n-doc@kde.org>
+akregator,1403,255,250,343,63,41,1130,1908,73.53249475890985,Kazakh <kde-i18n-doc@kde.org>
+alacarte,42,0,0,16,0,0,41,42,100.0,Kazakh <>
+anaconda,7058,711,455,1253,93,26,6137,8224,85.82198443579766,Kazakh <https://translate.fedoraproject.org/projects/anaconda/master/kk/>
+analitza,0,637,355,0,170,52,0,992,0.0,Kazakh <kde-i18n-doc@kde.org>
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Kazakh (http://www.transifex.com/projects/p/fedora/language/kk/)
+anjuta,684,0,7714,436,0,1623,720,8398,8.144796380090497,Kazakh <kk_KZ@googlegroups.com>
+aria2,48,0,7438,9,0,390,43,7486,0.6411969008816457,Kazakh <kk@li.org>
+ark,541,749,641,109,138,99,423,1931,28.016571724495083,Kazakh <kde-i18n-doc@kde.org>
+asunder,17,0,475,15,0,76,20,492,3.4552845528455287,http://littlesvr.ca/ostd/
+at-spi2-core,10,0,0,2,0,0,12,10,100.0,Kazakh <kk@li.org>
+atk,78,0,362,52,0,117,76,440,17.727272727272727,Kazakh <kk_KZ@googlegroups.com>
+atril,1527,0,2862,415,0,321,1335,4389,34.79152426520847,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+baloo-widgets,22,18,12,12,9,10,19,52,42.30769230769231,Kazakh <kde-i18n-doc@kde.org>
+baobab,307,0,0,82,0,0,271,307,100.0,Kazakh <kk@li.org>
+bijiben,422,0,0,130,0,0,386,422,100.0,Kazakh <kk_KZ@googlegroups.com>
+blinken,126,8,0,46,1,0,96,134,94.02985074626866,Kazakh <kde-i18n-doc@kde.org>
+blivet-gui,468,82,481,137,14,107,464,1031,45.39282250242483,Kazakh <https://translate.fedoraproject.org/projects/blivet/blivet-gui/kk/>
+blogilo,1327,43,22,321,10,6,1085,1392,95.33045977011494,Kazakh <kde-i18n-doc@kde.org>
+blueberry,166,0,0,37,0,0,139,166,100.0,Kazakh <kk@li.org>
+blueman,37,54,1772,34,31,528,41,1863,1.9860440150295224,Kazakh (http://www.transifex.com/mate/MATE/language/kk/)
+bomber,75,9,26,23,1,3,60,110,68.18181818181817,Kazakh <kde-i18n-doc@kde.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+bovo,77,4,0,24,1,0,66,81,95.06172839506173,Kazakh <kde-i18n-doc@kde.org>
+brasero,1105,0,4444,325,0,644,946,5549,19.913497927554513,Kazakh <kk_KZ@googlegroups.com>
+caja,6246,0,3429,1232,0,372,5248,9675,64.55813953488372,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+caja-actions,133,0,18682,83,0,1433,132,18815,0.7068828062715918,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+caja-extensions,242,0,518,79,0,66,241,760,31.842105263157894,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+calamares,0,0,490,0,0,85,0,490,0.0,Kazakh (https://www.transifex.com/calamares/teams/20061/kk/)
+calligra,33134,1689,1128,7270,370,168,27194,35951,92.16433478901838,Kazakh <kde-i18n-doc@kde.org>
+calligraplan,5780,1339,2824,1450,366,349,5021,9943,58.13134868751886,Kazakh <kde-i18n-doc@kde.org>
+cantor,1300,755,1604,383,135,215,1088,3659,35.52883301448483,Kazakh <kde-i18n-doc@kde.org>
+caribou,169,0,0,57,0,0,170,169,100.0,Kazakh <kk_KZ@googlegroups.com>
+cervisia,1579,33,7,410,9,2,1265,1619,97.52933909820877,Kazakh <kde-i18n-doc@kde.org>
+cheese,628,0,0,130,0,0,485,628,100.0,Kazakh <kk_KZ@googlegroups.com>
+chromium,4859,0,8483,1919,0,1507,4757,13342,36.41882776195473,Kazakh <kk_KZ@googlegroups.com>
+cinnamon-desktop,208,0,26,23,0,9,186,234,88.88888888888889,Kazakh <kk_KZ@googlegroups.com>
+cinnamon-translations,8109,0,15165,2246,0,2975,7420,23274,34.84145398298531,Kazakh <kk@li.org>
+clamtk,0,0,448,0,0,138,0,448,0.0,Kazakh <kk@li.org>
+clementine,365,0,4886,258,0,1133,389,5251,6.9510569415349455,Kazakh (http://www.transifex.com/davidsansome/clementine/language/kk/)
+clutter,113,0,2944,67,0,608,119,3057,3.696434412823029,Kazakh <kk_KZ@googlegroups.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,5,0,1880,5,0,198,5,1885,0.2652519893899204,Kazakh (http://www.transifex.com/projects/p/colord/language/kk/)
+console-setup,967,15,2,177,1,1,786,984,98.27235772357723,Kazakh
+coreutils,36,474,20684,21,144,1633,35,21194,0.16985939416816082,Kazakh <kk_KZ@googlegroups.com>
+cups-pk-helper,136,0,13,20,0,2,112,149,91.2751677852349,Kazakh (http://www.transifex.com/freedesktop/cups-pk-helper/language/kk/)
+dasher,98,12,524,59,7,143,97,634,15.457413249211358,Kazakh <kk_KZ@googlegroups.com>
+dconf-editor,694,0,2261,200,0,194,645,2955,23.485617597292723,Kazakh <kk@li.org>
+debconf,191,0,0,17,0,0,150,191,100.0,Kazakh <kk_KZ@googlegroups.com>
+deja-dup,0,0,1623,0,0,285,0,1623,0.0,Kazakh <kk@li.org>
+deluge,1576,0,2764,676,0,657,1564,4340,36.31336405529954,Kazakh <kk@li.org>
+devhelp,430,0,0,101,0,0,374,430,100.0,Kazakh <kk_KZ@googlegroups.com>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dnf,293,43,4368,129,6,742,285,4704,6.22874149659864,Kazakh <https://translate.fedoraproject.org/projects/dnf/dnf-master/kk/>
+dragon,174,90,9,37,47,4,128,273,63.73626373626373,Kazakh <kde-i18n-doc@kde.org>
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,7,0,1601,6,0,301,7,1608,0.43532338308457713,LANGUAGE <LL@li.org>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,219,0,0,48,0,219,0.0,
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,33,112,513,15,45,93,33,658,5.015197568389058,Kazakh <kk_KZ@googlegroups.com>
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-photos,2570,706,735,602,88,128,1993,4011,64.07379705809025,Kazakh (http://www.transifex.com/projects/p/shotwell/language/kk/)
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+engrampa,1365,0,6473,331,0,562,1132,7838,17.4151569277877,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+entangle,0,0,953,0,0,229,0,953,0.0,Kazakh
+eog,1730,0,0,338,0,0,1431,1730,100.0,Kazakh <kk_KZ@googlegroups.com>
+eom,1485,0,3476,320,0,222,1272,4961,29.933481152993345,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+epiphany,2026,0,2580,629,0,213,1901,4606,43.986105080330006,Kazakh <kk_KZ@googlegroups.com>
+evince,1736,0,0,439,0,0,1543,1736,100.0,Kazakh <kk_KZ@googlegroups.com>
+evolution,4057,0,24618,1976,0,3761,3957,28675,14.148212728857889,Kazakh <kk_KZ@googlegroups.com>
+evolution-data-server,2124,0,5794,678,0,789,1912,7918,26.824955796918417,Kazakh <kk_KZ@googlegroups.com>
+exaile,0,0,4168,0,0,1092,0,4168,0.0,Kazakh <kk@li.org>
+exo,739,0,0,145,0,0,574,739,100.0,Kazakh (http://www.transifex.com/xfce/exo/language/kk/)
+file-roller,1292,0,0,302,0,0,1053,1292,100.0,Kazakh <kk_KZ@googlegroups.com>
+filelight,344,52,39,76,12,10,276,435,79.08045977011494,Kazakh <kde-i18n-doc@kde.org>
+five-or-more,58,0,216,32,0,29,57,274,21.16788321167883,Kazakh <kk_KZ@googlegroups.com>
+folks,10,0,1046,8,0,122,14,1056,0.946969696969697,Kazakh <kk_KZ@googlegroups.com>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Kazakh
+four-in-a-row,480,0,0,136,0,0,417,480,100.0,Kazakh <kk_KZ@googlegroups.com>
+fprintd,0,0,430,0,0,60,0,430,0.0,Kazakh (http://www.transifex.com/freedesktop/fprintd/language/kk/)
+fragments,1660,0,346,482,0,44,1504,2006,82.7517447657029,Kazakh (https://www.transifex.com/transmissionbt/teams/33778/kk/)
+fwupd,8,0,0,8,0,0,9,8,100.0,Kazakh (http://www.transifex.com/freedesktop/fwupd/language/kk/)
+gajim,3482,3938,2207,1041,835,343,3097,9627,36.169107717876805,Kazakh <https://translate.gajim.org/projects/gajim/master/kk/>
+gala,0,0,358,0,0,73,0,358,0.0,none
+galculator,408,0,527,222,0,53,356,935,43.63636363636363,Kazakh (http://www.transifex.com/mate/MATE/language/kk/)
+garcon,122,0,0,36,0,0,109,122,100.0,Kazakh (http://www.transifex.com/xfce/garcon/language/kk/)
+gconf-editor,42,0,294,32,0,66,49,336,12.5,Kazakh <kk_KZ@googlegroups.com>
+gcr,602,0,193,227,0,49,570,795,75.72327044025158,Kazakh <kk_KZ@googlegroups.com>
+gdk-pixbuf2,267,0,1148,61,0,151,257,1415,18.869257950530034,Kazakh <kk_KZ@googlegroups.com>
+gdm,705,0,0,97,0,0,622,705,100.0,Kazakh <kk_KZ@googlegroups.com>
+geany,4435,156,1565,1197,30,102,4041,6156,72.043534762833,Kazakh <kk_KZ@googlegroups.com>
+geany-plugins,445,157,8249,275,65,1483,446,8851,5.027680488080443,Kazakh <kk_KZ@googlegroups.com>
+geary,1633,0,1041,494,0,164,1579,2674,61.06955871353777,Kazakh <kk_KZ@googlegroups.com>
+gedit,3569,0,610,692,0,31,2853,4179,85.40320650873414,Kazakh <kk_KZ@googlegroups.com>
+gedit-plugins,214,0,714,63,0,98,195,928,23.060344827586206,Kazakh <kk_KZ@googlegroups.com>
+gigolo,144,0,402,84,0,74,152,546,26.373626373626376,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+gimp,1094,0,25211,830,0,5361,1132,26305,4.158905151111956,Kazakh <kk_KZ@googlegroups.com>
+gitg,79,0,2080,49,0,334,87,2159,3.6591014358499305,Kazakh <kk_KZ@googlegroups.com>
+glade,989,0,5865,617,0,1191,990,6854,14.429530201342283,Kazakh <kk_KZ@googlegroups.com>
+glib-networking,419,0,0,61,0,0,354,419,100.0,Kazakh <kk_KZ@googlegroups.com>
+glib2,1196,0,6441,364,0,837,1144,7637,15.660599711928768,Kazakh <kk_KZ@googlegroups.com>
+gnome-2048,118,0,264,50,0,19,118,382,30.89005235602094,Kazakh <kk_KZ@googlegroups.com>
+gnome-abrt,23,0,198,11,0,44,24,221,10.407239819004525,Kazakh <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/kk/>
+gnome-applets,330,0,3984,188,0,680,328,4314,7.649513212795549,Kazakh <kk_KZ@googlegroups.com>
+gnome-bluetooth,373,0,0,110,0,0,329,373,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-books,421,0,0,143,0,0,389,421,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-boxes,1315,0,0,295,0,0,1183,1315,100.0,Kazakh <kk@li.org>
+gnome-builder,2545,0,2832,904,0,478,2458,5377,47.33122559047796,Kazakh <kk_KZ@googlegroups.com>
+gnome-calculator,1779,0,0,660,0,0,1619,1779,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-calendar,898,0,0,256,0,0,772,898,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-characters,181,0,0,58,0,0,178,181,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-chess,1513,0,0,257,0,0,1310,1513,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-clocks,363,0,0,145,0,0,336,363,100.0,Kazakh <kk@li.org>
+gnome-color-manager,404,0,1392,153,0,192,359,1796,22.494432071269486,Kazakh <kk@li.org>
+gnome-commander,353,0,10357,270,0,1644,375,10710,3.2959850606909433,Kazakh <kk_KZ@googlegroups.com>
+gnome-connections,174,0,0,53,0,0,171,174,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-contacts,590,0,0,174,0,0,523,590,100.0,Kazakh <kk@li.org>
+gnome-control-center,6703,0,0,1806,0,0,6236,6703,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-desktop3,160,0,0,35,0,0,138,160,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-dictionary,717,0,0,161,0,0,678,717,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-disk-utility,1952,0,2133,519,0,232,1872,4085,47.78457772337821,Kazakh <kk_KZ@googlegroups.com>
+gnome-do,464,0,148,118,0,26,451,612,75.81699346405229,Kazakh <kk@li.org>
+gnome-extensions-app,2808,0,0,609,0,0,2433,2808,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-font-viewer,536,0,0,203,0,0,556,536,100.0,Kazakh <kk@li.org>
+gnome-icon-theme,20,0,0,16,0,0,23,20,100.0,Kazakh <moldabekov@gmail.com>
+gnome-initial-setup,874,0,0,127,0,0,731,874,100.0,Kazakh <kk@li.org>
+gnome-keyring,469,0,0,98,0,0,425,469,100.0,Kazakh <kk@li.org>
+gnome-klotski,275,0,0,85,0,0,239,275,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-logs,380,0,0,123,0,0,345,380,100.0,Kazakh <kk@li.org>
+gnome-mahjongg,329,0,0,74,0,0,258,329,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-maps,1481,0,0,367,0,0,1334,1481,100.0,Kazakh <kk@li.org>
+gnome-menus,80,0,0,37,0,0,66,80,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-mines,362,0,0,80,0,0,296,362,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-music,632,0,0,126,0,0,557,632,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-nibbles,588,0,0,145,0,0,510,588,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-online-accounts,664,0,0,146,0,0,598,664,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-packagekit,1366,0,2117,363,0,185,1186,3483,39.219064025265574,Kazakh <kk_KZ@googlegroups.com>
+gnome-panel,308,0,2973,155,0,327,299,3281,9.387381895763488,Kazakh <kk_KZ@googlegroups.com>
+gnome-photos,572,0,0,220,0,0,536,572,100.0,Kazakh <kk@li.org>
+gnome-pomodoro,336,0,0,112,0,0,294,336,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-remote-desktop,164,0,0,13,0,0,139,164,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-robots,596,0,0,96,0,0,470,596,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-screenshot,417,0,0,64,0,0,339,417,100.0,Kazakh <kk@li.org>
+gnome-session,432,0,0,67,0,0,413,432,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-settings-daemon,2981,0,1013,485,0,67,2710,3994,74.63695543314972,Kazakh <kk@li.org>
+gnome-shell,2808,0,0,609,0,0,2433,2808,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-shell-extensions,262,0,0,51,0,0,256,262,100.0,Kazakh <kk@li.org>
+gnome-shell-frippery,4,0,0,2,0,0,5,4,100.0,
+gnome-software,3882,0,481,830,0,34,3409,4363,88.97547559019023,Kazakh <kk_KZ@googlegroups.com>
+gnome-sound-recorder,240,0,0,61,0,0,212,240,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-sudoku,408,0,0,70,0,0,318,408,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-system-monitor,1566,0,0,341,0,0,1395,1566,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-taquin,431,0,0,111,0,0,384,431,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-terminal,2630,0,0,516,0,0,2335,2630,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-tetravex,141,0,838,50,0,114,119,979,14.402451481103167,Kazakh <kk_KZ@googlegroups.com>
+gnome-themes-extra,15,0,0,6,0,0,13,15,100.0,Kazakh <kk@li.org>
+gnome-todo,737,0,0,157,0,0,642,737,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-tour,114,0,0,25,0,0,105,114,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-tweaks,657,0,0,177,0,0,663,657,100.0,Kazakh <kk@li.org>
+gnome-user-share,51,0,0,10,0,0,51,51,100.0,Kazakh <kk@li.org>
+gnome-weather,247,0,0,52,0,0,211,247,100.0,Kazakh <kk@li.org>
+gnumeric,1690,0,36658,890,0,5141,1630,38348,4.407009492020444,Kazakh <kk_KZ@googlegroups.com>
+gparted,3053,0,0,512,0,0,2692,3053,100.0,Kazakh <kk_KZ@googlegroups.com>
+gpicview,236,0,0,52,0,0,213,236,100.0,Kazakh <kk_KZ@googlegroups.com>
+gpodder,1335,316,570,374,102,101,1156,2221,60.10805943268798,Kazakh (http://www.transifex.com/projects/p/gpodder/language/kk/)
+granatier,230,6,8,64,1,2,181,244,94.26229508196722,Kazakh <kde-i18n-doc@kde.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+grantlee-editor,345,55,0,103,15,0,306,400,86.25,Kazakh <kde-i18n-doc@kde.org>
+grub-customizer,190,0,1105,76,0,117,184,1295,14.671814671814673,Kazakh <kk@li.org>
+gsettings-desktop-schemas,1002,0,5950,244,0,373,995,6952,14.41311852704258,Kazakh <kk@li.org>
+gspell,76,0,0,31,0,0,73,76,100.0,Kazakh <kk_KZ@googlegroups.com>
+gtk2,2569,368,9467,873,164,1548,2312,12404,20.711060948081265,Kazakh <kk_KZ@googlegroups.com>
+gtk3,5144,0,11583,1986,0,1953,4853,16727,30.752675315358402,Kazakh <kk_KZ@googlegroups.com>
+gtk4,4949,0,8412,1940,0,1497,4835,13361,37.04064067060849,Kazakh <kk_KZ@googlegroups.com>
+gtksourceview3,145,2,175,79,1,26,144,322,45.03105590062112,Kazakh <kk_KZ@googlegroups.com>
+gtksourceview4,133,0,175,68,0,26,130,308,43.18181818181818,Kazakh <kk_KZ@googlegroups.com>
+gtksourceview5,357,0,0,104,0,0,343,357,100.0,Kazakh <kk_KZ@googlegroups.com>
+gucharmap,671,0,642,283,0,155,635,1313,51.1043412033511,Kazakh <kk_KZ@googlegroups.com>
+gvfs,1543,0,559,318,0,87,1458,2102,73.40627973358707,Kazakh <kk_KZ@googlegroups.com>
+gwenview,888,259,526,296,66,68,701,1673,53.07830245068739,Kazakh <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hitori,239,0,0,63,0,0,197,239,100.0,Kazakh <kk_KZ@googlegroups.com>
+iagno,801,0,0,149,0,0,687,801,100.0,Kazakh <kk_KZ@googlegroups.com>
+initial-setup,106,0,0,20,0,0,76,106,100.0,Kazakh <https://translate.fedoraproject.org/projects/initial-setup/master/kk/>
+iso-codes,1063,20,3,441,7,3,842,1086,97.88213627992633,Kazakh <kk_KZ@googlegroups.com>
+isomaster,28,1,645,22,1,84,30,674,4.154302670623145,http://littlesvr.ca/ostd/
+juk,1296,163,67,328,21,13,1061,1526,84.92791612057667,Kazakh <kde-i18n-doc@kde.org>
+k3b,16501,2580,1099,2221,147,150,12734,20180,81.76907829534193,Kazakh <kde-i18n-doc@kde.org>
+kactivitymanagerd,4,6,1,1,3,1,3,11,36.36363636363637,Kazakh <kde-i18n-doc@kde.org>
+kaddressbook,953,112,86,179,37,23,727,1151,82.79756733275413,Kazakh <kde-i18n-doc@kde.org>
+kajongg,2110,163,173,427,45,39,1654,2446,86.26328699918234,Kazakh <kde-i18n-doc@kde.org>
+kalarm,5995,1706,433,891,198,39,4639,8134,73.70297516597,Kazakh <kde-i18n-doc@kde.org>
+kalgebra,140,20,9,74,7,2,137,169,82.84023668639054,Kazakh <kde-i18n-doc@kde.org>
+kalzium,8642,1570,278,1284,245,31,5838,10490,82.38322211630124,Kazakh <kde-i18n-doc@kde.org>
+kamera,283,59,0,34,3,0,200,342,82.7485380116959,Kazakh <kde-i18n-doc@kde.org>
+kamoso,19,38,85,8,11,22,17,142,13.380281690140844,Kazakh <kde-i18n-doc@kde.org>
+kanagram,257,174,97,82,26,37,212,528,48.67424242424242,Kazakh <kde-i18n-doc@kde.org>
+kapman,106,8,0,32,4,0,87,114,92.98245614035088,Kazakh <kde-i18n-doc@kde.org>
+kapptemplate,167,62,43,33,12,7,120,272,61.39705882352941,Kazakh <kde-i18n-doc@kde.org>
+kate,2526,977,1965,726,188,355,2130,5468,46.196049743964885,Kazakh <kde-i18n-doc@kde.org>
+katomic,181,3,0,58,1,0,154,184,98.36956521739131,Kazakh <kde-i18n-doc@kde.org>
+kaudiocreator,572,172,392,157,45,71,486,1136,50.352112676056336,Kazakh <kde-i18n-doc@kde.org>
+kblackbox,1328,32,4,100,1,1,809,1364,97.36070381231671,Kazakh <kde-i18n-doc@kde.org>
+kblocks,138,9,0,33,3,0,127,147,93.87755102040816,Kazakh <kde-i18n-doc@kde.org>
+kbounce,150,3,0,41,1,0,130,153,98.0392156862745,Kazakh <kde-i18n-doc@kde.org>
+kbrickbuster,142,6,4,37,1,2,108,152,93.42105263157895,Kazakh <kde-i18n-doc@kde.org>
+kbruch,1342,3,2,194,1,3,941,1347,99.62880475129919,Kazakh <kde-i18n-doc@kde.org>
+kcachegrind,1724,2621,22,193,366,3,1289,4367,39.47790245019464,Kazakh <kde-i18n-doc@kde.org>
+kcalc,937,96,33,304,29,15,801,1066,87.89868667917449,Kazakh <kde-i18n-doc@kde.org>
+kcharselect,72,9,7,28,2,4,74,88,81.81818181818183,Kazakh <kde-i18n-doc@kde.org>
+kcm_wacomtablet,697,145,154,146,42,37,545,996,69.97991967871486,Kazakh <kde-i18n-doc@kde.org>
+kcolorchooser,14,10,5,6,2,2,14,29,48.275862068965516,Kazakh <kde-i18n-doc@kde.org>
+kcron,522,0,3,186,0,2,444,525,99.42857142857143,Kazakh <kde-i18n-doc@kde.org>
+kde-cli-tools,1696,316,123,169,25,23,1259,2135,79.43793911007026,Kazakh <kde-i18n-doc@kde.org>
+kde-dev-utils,62,17,17,23,4,8,54,96,64.58333333333334,Kazakh <kde-i18n-doc@kde.org>
+kde-l10n,102673,581,1103,20792,51,94,80100,104357,98.38630853704112,Kazakh <kde-i18n-doc@kde.org>
+kde-print-manager,878,54,39,248,15,11,738,971,90.42224510813594,Kazakh <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,0,58,386,0,17,31,0,444,0.0,Kazakh <kde-i18n-doc@kde.org>
+kdepim-addons,1798,116,79,338,24,13,1287,1993,90.2157551430005,Kazakh <kde-i18n-doc@kde.org>
+kdepim-runtime,4537,692,723,703,110,108,3500,5952,76.22647849462365,Kazakh <kde-i18n-doc@kde.org>
+kdeplasma-addons,277,618,362,78,242,140,217,1257,22.03659506762132,Kazakh <kde-i18n-doc@kde.org>
+kdesdk-kioslaves,82,0,0,17,0,0,76,82,100.0,Kazakh <kde-i18n-doc@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Kazakh <kde-i18n-doc@kde.org>
+kdevelop,4138,5321,2542,758,1253,381,3276,12001,34.480459961669865,Kazakh <kde-i18n-doc@kde.org>
+kdevelop-php,195,56,278,38,8,26,178,529,36.86200378071834,Kazakh <kde-i18n-doc@kde.org>
+kdevelop-python,284,142,156,50,14,37,229,582,48.797250859106526,Kazakh <kde-i18n-doc@kde.org>
+kdf,180,0,1,68,0,1,179,181,99.4475138121547,Kazakh <kde-i18n-doc@kde.org>
+kdialog,237,75,70,52,11,12,207,382,62.04188481675392,Kazakh <kde-i18n-doc@kde.org>
+kdiamond,122,0,0,32,0,0,113,122,100.0,Kazakh <kde-i18n-doc@kde.org>
+kdnssd,21,9,0,6,1,0,18,30,70.0,Kazakh <kde-i18n-doc@kde.org>
+keditbookmarks,415,51,0,126,6,0,378,466,89.05579399141631,Kazakh <kde-i18n-doc@kde.org>
+kexi,3177,3548,640,893,514,87,2597,7365,43.13645621181263,Kazakh <kde-i18n-doc@kde.org>
+kf5-akonadi-calendar,1733,121,13,269,18,1,1322,1867,92.82271023031602,Kazakh <kde-i18n-doc@kde.org>
+kf5-akonadi-contacts,1148,259,203,233,70,26,826,1610,71.30434782608695,Kazakh <kde-i18n-doc@kde.org>
+kf5-akonadi-mime,521,44,4,100,9,2,371,569,91.56414762741653,Kazakh <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-akonadi-server,1905,378,265,315,85,39,1524,2548,74.76452119309262,Kazakh <kde-i18n-doc@kde.org>
+kf5-audiocd-kio,766,83,5,173,1,2,678,854,89.69555035128806,Kazakh <kde-i18n-doc@kde.org>
+kf5-calendarsupport,2030,708,105,262,125,38,1495,2843,71.40344706296166,Kazakh <kde-i18n-doc@kde.org>
+kf5-eventviews,2851,52,56,292,16,9,1999,2959,96.35011828320378,Kazakh <kde-i18n-doc@kde.org>
+kf5-grantleetheme,3,0,11,1,0,5,4,14,21.428571428571427,Kazakh <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,1616,411,181,292,80,48,1164,2208,73.18840579710145,Kazakh <kde-i18n-doc@kde.org>
+kf5-kalarmcal,117,80,7,60,41,3,128,204,57.35294117647059,Kazakh <kde-i18n-doc@kde.org>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kblog,243,0,0,27,0,0,160,243,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kbookmarks,0,203,27,0,46,3,0,230,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,683,762,30,265,141,11,608,1475,46.30508474576271,Kazakh <kde-i18n-doc@kde.org>
+kf5-kcmutils,183,80,3,22,14,2,130,266,68.796992481203,Kazakh <kde-i18n-doc@kde.org>
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kconfig,0,50,239,0,5,99,0,289,0.0,Kazakh
+kf5-kconfigwidgets,291,41,10,102,19,4,247,342,85.08771929824562,Kazakh <kde-i18n-doc@kde.org>
+kf5-kcontacts,175,0,2,107,0,1,185,177,98.87005649717514,Kazakh <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,0,455,85,0,147,43,0,540,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kdeclarative,62,62,33,9,8,7,43,157,39.490445859872615,Kazakh <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4617,382,354,2308,133,103,4039,5353,86.2507005417523,Kazakh <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Kazakh
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kholidays,0,101,46,0,70,24,0,147,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-khtml,1449,131,88,266,15,9,1143,1668,86.87050359712231,Kazakh <kde-i18n-doc@kde.org>
+kf5-ki18n,42,80,2,42,66,2,45,124,33.87096774193548,Kazakh <kde-i18n-doc@kde.org>
+kf5-kiconthemes,11,15,13,10,4,4,13,39,28.205128205128204,Kazakh <kde-i18n-doc@kde.org>
+kf5-kidentitymanagement,110,63,9,20,2,2,78,182,60.43956043956044,Kazakh <kde-i18n-doc@kde.org>
+kf5-kimap,93,1,24,44,1,6,95,118,78.8135593220339,Kazakh <kde-i18n-doc@kde.org>
+kf5-kinit,90,26,0,8,3,0,54,116,77.58620689655173,Kazakh <kde-i18n-doc@kde.org>
+kf5-kio,7808,1937,2163,906,254,200,5549,11908,65.56936513268391,Kazakh <kde-i18n-doc@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,0,133,0,0,38,0,0,133,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,212,248,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kldap,144,12,71,42,5,14,126,227,63.436123348017624,Kazakh
+kf5-kmailtransport,598,16,40,97,6,6,433,654,91.43730886850153,Kazakh <kde-i18n-doc@kde.org>
+kf5-kmime,159,0,0,10,0,0,110,159,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-knewstuff,344,215,1093,74,85,71,280,1652,20.823244552058114,Kazakh <kde-i18n-doc@kde.org>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,86,43,0,16,1,0,63,129,66.66666666666666,Kazakh <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kparts,104,28,0,26,3,0,85,132,78.78787878787878,Kazakh <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,101,30,284,51,17,134,99,415,24.337349397590362,Kazakh <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,13,15,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kross,82,18,0,29,6,0,72,100,82.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kservice,92,53,28,13,11,4,64,173,53.179190751445084,Kazakh <kde-i18n-doc@kde.org>
+kf5-ktexteditor,5478,1958,1441,796,292,153,4291,8877,61.71003717472119,Kazakh <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,456,13,4,120,9,1,391,473,96.40591966173362,Kazakh <kde-i18n-doc@kde.org>
+kf5-ktnef,353,2,0,141,2,0,361,355,99.43661971830986,Kazakh <kde-i18n-doc@kde.org>
+kf5-kunitconversion,4248,1132,377,1792,472,219,3143,5757,73.78843147472642,Kazakh <kde-i18n-doc@kde.org>
+kf5-kwallet,980,342,13,72,14,2,704,1335,73.40823970037454,Kazakh <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,0,1241,63,0,450,17,0,1304,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-kxmlgui,958,537,79,122,98,10,704,1574,60.864040660736975,Kazakh <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-libkcddb,470,0,6,223,0,2,419,476,98.73949579831933,Kazakh <kde-i18n-doc@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,16,15,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-libkdepim,35,0,0,10,0,0,27,35,100.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-libkgeomap,110,0,29,41,0,5,93,139,79.13669064748201,Kazakh <kde-i18n-doc@kde.org>
+kf5-libkleo,493,299,937,130,66,171,397,1729,28.51359167148641,Kazakh <kde-i18n-doc@kde.org>
+kf5-libksane,238,21,104,69,11,23,180,363,65.56473829201101,Kazakh <kde-i18n-doc@kde.org>
+kf5-libksieve,2731,386,263,432,88,57,2151,3380,80.79881656804734,Kazakh <kde-i18n-doc@kde.org>
+kf5-libktorrent,443,22,0,103,2,0,378,465,95.26881720430107,Kazakh <kde-i18n-doc@kde.org>
+kf5-mailcommon,2413,250,306,380,75,50,1755,2969,81.27315594476255,Kazakh <kde-i18n-doc@kde.org>
+kf5-mailimporter,1186,212,10,104,15,8,930,1408,84.23295454545455,Kazakh <kde-i18n-doc@kde.org>
+kf5-messagelib,6882,717,602,1040,181,141,5052,8201,83.91659553712962,Kazakh <kde-i18n-doc@kde.org>
+kf5-pimcommon,334,141,791,126,47,161,270,1266,26.38230647709321,Kazakh <kde-i18n-doc@kde.org>
+kf5-solid,0,315,248,0,130,26,0,563,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Kazakh <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,0,345,267,0,257,105,0,612,0.0,Kazakh <kde-i18n-doc@kde.org>
+kfind,483,16,3,110,4,1,430,502,96.21513944223108,Kazakh <kde-i18n-doc@kde.org>
+kfloppy,611,24,6,97,1,2,472,641,95.3198127925117,Kazakh <kde-i18n-doc@kde.org>
+kfourinline,385,7,0,154,3,0,330,392,98.21428571428571,Kazakh <kde-i18n-doc@kde.org>
+kgamma,130,0,0,16,0,0,97,130,100.0,Kazakh
+kgeography,9238,562,202,6777,325,134,8274,10002,92.3615276944611,Kazakh <kde-i18n-doc@kde.org>
+kget,2836,100,4,771,19,3,2392,2940,96.4625850340136,Kazakh <kde-i18n-doc@kde.org>
+kgoldrunner,22470,994,4547,877,47,84,14304,28011,80.21848559494484,Kazakh <kde-i18n-doc@kde.org>
+kgpg,4883,247,142,636,43,18,3647,5272,92.62139605462822,Kazakh <kde-i18n-doc@kde.org>
+khangman,257,112,107,76,16,29,253,476,53.99159663865546,Kazakh <kde-i18n-doc@kde.org>
+khelpcenter,209,24,32,77,8,5,196,265,78.8679245283019,Kazakh <kde-i18n-doc@kde.org>
+khotkeys,412,22,17,124,4,8,363,451,91.35254988913526,Kazakh <kde-i18n-doc@kde.org>
+kig,7501,339,14,1238,39,6,5477,7854,95.50547491723962,Kazakh <kde-i18n-doc@kde.org>
+kigo,485,12,7,120,7,4,372,504,96.23015873015873,Kazakh <kde-i18n-doc@kde.org>
+kile,9764,700,2530,1772,139,272,7552,12994,75.14237340310913,Kazakh <kde-i18n-doc@kde.org>
+killbots,430,207,0,50,77,0,314,637,67.50392464678178,Kazakh <kde-i18n-doc@kde.org>
+kinfocenter,246,111,104,123,56,47,245,461,53.36225596529284,Kazakh <kde-i18n-doc@kde.org>
+kio-extras,537,301,178,87,25,20,419,1016,52.854330708661415,Kazakh <kde-i18n-doc@kde.org>
+kiriki,138,6,0,49,1,0,112,144,95.83333333333334,Kazakh <kde-i18n-doc@kde.org>
+kiten,586,67,43,167,5,3,507,696,84.19540229885058,Kazakh <kde-i18n-doc@kde.org>
+kjots,112,240,299,36,48,50,90,651,17.20430107526882,Kazakh <kde-i18n-doc@kde.org>
+kjumpingcube,402,11,0,94,1,0,309,413,97.3365617433414,Kazakh <kde-i18n-doc@kde.org>
+klavaro,1608,196,89,207,18,6,1154,1893,84.9445324881141,Kazakh <(nothing)>
+kleopatra,5744,1855,2453,873,402,265,4512,10052,57.14285714285714,Kazakh <kde-i18n-doc@kde.org>
+klettres,419,10,11,78,2,5,318,440,95.22727272727273,Kazakh <kde-i18n-doc@kde.org>
+klickety,165,7,6,55,5,2,131,178,92.69662921348315,Kazakh <kde-i18n-doc@kde.org>
+klines,92,5,2,26,1,1,73,99,92.92929292929293,Kazakh <kde-i18n-doc@kde.org>
+kmag,427,5,0,97,1,0,324,432,98.8425925925926,Kazakh <kde-i18n-doc@kde.org>
+kmahjongg,306,35,16,88,10,4,264,357,85.71428571428571,Kazakh <kde-i18n-doc@kde.org>
+kmail,6436,1717,937,1011,276,137,4937,9090,70.80308030803081,Kazakh <kde-i18n-doc@kde.org>
+kmail-account-wizard,367,64,384,76,14,41,291,815,45.030674846625764,Kazakh <kde-i18n-doc@kde.org>
+kmenuedit,259,0,18,59,0,4,199,277,93.50180505415162,Kazakh <kde-i18n-doc@kde.org>
+kmines,108,0,48,38,0,7,92,156,69.23076923076923,Kazakh <kde-i18n-doc@kde.org>
+kmix,625,226,241,139,44,28,519,1092,57.234432234432234,Kazakh <kde-i18n-doc@kde.org>
+kmousetool,103,40,4,27,4,1,86,147,70.06802721088435,Kazakh <kde-i18n-doc@kde.org>
+kmouth,1427,78,10,192,8,4,941,1515,94.1914191419142,Kazakh <kde-i18n-doc@kde.org>
+kmplot,2291,181,28,429,47,9,1667,2500,91.64,Kazakh <kde-i18n-doc@kde.org>
+kmymoney,16402,3379,2310,2800,651,257,11984,22091,74.24743108053053,Kazakh <kde-i18n-doc@kde.org>
+knavalbattle,302,50,47,90,3,9,263,399,75.6892230576441,Kazakh <kde-i18n-doc@kde.org>
+knetwalk,224,6,13,51,3,2,152,243,92.18106995884774,Kazakh <kde-i18n-doc@kde.org>
+knotes,250,167,195,102,56,35,229,612,40.849673202614376,Kazakh <kde-i18n-doc@kde.org>
+kolf,372,29,0,140,8,0,340,401,92.76807980049875,Kazakh <kde-i18n-doc@kde.org>
+kollision,90,0,19,26,0,4,73,109,82.56880733944955,Kazakh <kde-i18n-doc@kde.org>
+kolourpaint,2391,148,31,431,9,9,1906,2570,93.03501945525292,Kazakh <kde-i18n-doc@kde.org>
+kompare,539,888,1,70,132,1,375,1428,37.745098039215684,Kazakh <kde-i18n-doc@kde.org>
+konqueror,6901,387,1104,966,60,153,5311,8392,82.23307912297426,Kazakh <kde-i18n-doc@kde.org>
+konquest,197,45,4,76,20,2,179,246,80.08130081300813,Kazakh <kde-i18n-doc@kde.org>
+konsole5,1485,853,1116,333,200,181,1163,3454,42.99363057324841,Kazakh <kde-i18n-doc@kde.org>
+kontact,354,166,80,74,14,11,281,600,59.0,Kazakh <kde-i18n-doc@kde.org>
+konversation,9452,739,154,1552,63,29,7227,10345,91.36781053649105,Kazakh <kde-i18n-doc@kde.org>
+kopete,18300,83,44,3427,21,9,14210,18427,99.31079394366962,Kazakh
+korganizer,4282,1801,1289,574,260,122,3141,7372,58.0846446011937,Kazakh <kde-i18n-doc@kde.org>
+kpat,418,34,124,127,15,58,363,576,72.56944444444444,Kazakh <kde-i18n-doc@kde.org>
+kpilot,4560,999,1597,487,190,184,3304,7156,63.72275013974288,Kazakh
+krdc,995,74,109,236,9,18,824,1178,84.46519524617997,Kazakh <kde-i18n-doc@kde.org>
+krecipes,3555,72,19,721,40,4,2626,3646,97.50411409764125,Kazakh <kde-i18n-doc@kde.org>
+kreport,0,315,140,0,165,28,0,455,0.0,Kazakh <kde-i18n-doc@kde.org>
+kreversi,143,57,229,49,10,82,127,429,33.33333333333333,Kazakh <kde-i18n-doc@kde.org>
+krfb,278,146,311,53,13,39,225,735,37.823129251700685,Kazakh <kde-i18n-doc@kde.org>
+krita,5443,8865,13581,1908,3500,1398,4911,27889,19.51665531213023,Kazakh <kde-i18n-doc@kde.org>
+kruler,130,41,13,38,3,6,96,184,70.65217391304348,Kazakh <kde-i18n-doc@kde.org>
+kscreenlocker,20,11,161,5,1,12,16,192,10.416666666666668,Kazakh <kde-i18n-doc@kde.org>
+kshisen,512,9,87,64,2,6,291,608,84.21052631578947,Kazakh <kde-i18n-doc@kde.org>
+ksig,71,2,12,17,1,8,57,85,83.52941176470588,Kazakh
+ksirk,5683,70,5,738,19,1,4152,5758,98.69746439736019,Kazakh <kde-i18n-doc@kde.org>
+ksnakeduel,205,32,4,45,8,2,162,241,85.06224066390041,Kazakh <kde-i18n-doc@kde.org>
+kspaceduel,162,3,0,80,1,0,153,165,98.18181818181819,Kazakh <kde-i18n-doc@kde.org>
+ksquares,257,3,0,76,2,0,193,260,98.84615384615385,Kazakh <kde-i18n-doc@kde.org>
+kstars,18312,14853,29177,4291,6110,6370,14675,62342,29.37345609701325,Kazakh <kde-i18n-doc@kde.org>
+ksudoku,700,199,847,115,16,32,486,1746,40.09163802978236,Kazakh <kde-i18n-doc@kde.org>
+ksysguard,1017,37,39,217,13,7,778,1093,93.04666056724611,Kazakh <kde-i18n-doc@kde.org>
+ksystemlog,2806,98,130,431,16,32,1985,3034,92.48516809492419,Kazakh <kde-i18n-doc@kde.org>
+kteatime,158,39,6,54,8,5,121,203,77.83251231527095,Kazakh <kde-i18n-doc@kde.org>
+ktimer,241,15,2,51,1,1,171,258,93.4108527131783,Kazakh <kde-i18n-doc@kde.org>
+ktorrent,6649,360,446,1246,54,55,5141,7455,89.1884641180416,Kazakh <kde-i18n-doc@kde.org>
+ktouch,767,97,96,221,21,15,654,960,79.89583333333333,Kazakh <kde-i18n-doc@kde.org>
+ktp-accounts-kcm,993,33,17,264,13,8,862,1043,95.20613614573347,Kazakh <kde-i18n-doc@kde.org>
+ktp-approver,53,18,0,14,4,0,43,71,74.64788732394366,Kazakh <kde-i18n-doc@kde.org>
+ktp-auth-handler,74,0,9,22,0,2,60,83,89.1566265060241,Kazakh <kde-i18n-doc@kde.org>
+ktp-common-internals,838,43,108,169,15,22,647,989,84.73205257836199,Kazakh <kde-i18n-doc@kde.org>
+ktp-contact-list,353,30,297,96,11,20,314,680,51.911764705882355,Kazakh <kde-i18n-doc@kde.org>
+ktp-contact-runner,169,38,1,33,9,1,158,208,81.25,Kazakh <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,139,0,2,38,0,1,123,141,98.58156028368793,Kazakh <kde-i18n-doc@kde.org>
+ktp-kded-integration-module,217,0,273,42,0,17,167,490,44.285714285714285,Kazakh <kde-i18n-doc@kde.org>
+ktp-send-file,55,4,1,16,1,1,42,60,91.66666666666666,Kazakh <kde-i18n-doc@kde.org>
+ktp-text-ui,548,51,583,133,16,98,425,1182,46.36209813874789,Kazakh <kde-i18n-doc@kde.org>
+ktuberling,149,5,4,34,2,2,84,158,94.30379746835443,Kazakh <kde-i18n-doc@kde.org>
+kturtle,1439,88,4,263,83,1,1099,1531,93.99085564990203,Kazakh <kde-i18n-doc@kde.org>
+kubrick,1183,11,11,161,3,2,913,1205,98.17427385892115,Kazakh <kde-i18n-doc@kde.org>
+kwalletmanager5,669,47,84,143,8,14,534,800,83.625,Kazakh <kde-i18n-doc@kde.org>
+kwebkitpart,669,0,0,165,0,0,580,669,100.0,Kazakh <kde-i18n-doc@kde.org>
+kwin,2266,1391,1962,464,297,401,1855,5619,40.327460402206796,Kazakh <kde-i18n-doc@kde.org>
+kwordquiz,2000,25,1,401,12,1,1498,2026,98.7166831194472,Kazakh <kde-i18n-doc@kde.org>
+libfm,1575,0,0,394,0,0,1408,1575,100.0,Kazakh <kk_KZ@googlegroups.com>
+libgnome,63,0,1710,19,0,254,55,1773,3.5532994923857872,Kazakh <kk_KZ@googlegroups.com>
+libgnome-games-support,43,0,0,14,0,0,35,43,100.0,Kazakh <kk_KZ@googlegroups.com>
+libgnomekbd,187,0,0,39,0,0,163,187,100.0,Kazakh <kk_KZ@googlegroups.com>
+libgnomeui,192,1,1033,112,1,207,186,1226,15.660685154975528,Kazakh <kk_KZ@googlegroups.com>
+libgweather,0,0,0,0,0,0,0,0,0.0,
+libkdegames,370,0,0,132,0,0,313,370,100.0,Kazakh <kde-i18n-doc@kde.org>
+libkeduvocdocument,146,19,6,76,4,1,147,171,85.38011695906432,Kazakh <kde-i18n-doc@kde.org>
+libkgapi,0,312,62,0,71,13,0,374,0.0,Kazakh <kde-i18n-doc@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Kazakh <kde-i18n-doc@kde.org>
+libkomparediff2,127,16,0,11,8,0,88,143,88.81118881118881,Kazakh <kde-i18n-doc@kde.org>
+libksysguard,2671,289,899,327,42,150,1992,3859,69.21482249287381,Kazakh <kde-i18n-doc@kde.org>
+libmatekbd,44,0,264,24,0,67,46,308,14.285714285714285,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+libmatemixer,87,0,155,55,0,71,91,242,35.9504132231405,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+libmateweather,258,0,242,139,0,45,299,500,51.6,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+libmypaint,2,0,2301,2,0,160,3,2303,0.08684324793747286,Kazakh <https://hosted.weblate.org/projects/mypaint/libmypaint/kk/>
+libnma,621,71,225,164,11,20,575,917,67.72082878953108,Kazakh <kk_KZ@googlegroups.com>
+libpeas,103,0,0,29,0,0,88,103,100.0,Kazakh <kk@li.org>
+libpwquality,165,0,180,26,0,25,135,345,47.82608695652174,Kazakh <https://translate.fedoraproject.org/projects/libpwquality/app/kk/>
+libreoffice,105711,0,60267,33095,0,4827,95430,165978,63.689766113581314,Kazakh <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/kk/>
+libreport,4,0,4924,3,0,600,4,4928,0.08116883116883117,Kazakh <https://translate.fedoraproject.org/projects/abrt/libreport/kk/>
+libsecret,59,0,0,9,0,0,48,59,100.0,Kazakh <kk@li.org>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Kazakh (http://www.transifex.com/projects/p/fedora/language/kk/)
+libwnck,226,4,894,93,2,146,241,1124,20.106761565836297,Kazakh <kk_KZ@googlegroups.com>
+libwnck3,207,0,879,89,0,142,223,1086,19.060773480662984,Kazakh <kk_KZ@googlegroups.com>
+libxfce4ui,957,0,0,192,0,0,887,957,100.0,Kazakh (http://www.transifex.com/xfce/libxfce4ui/language/kk/)
+libxfce4util,424,0,0,7,0,0,384,424,100.0,Kazakh (http://www.transifex.com/xfce/libxfce4util/language/kk/)
+light-locker,44,0,216,9,0,28,42,260,16.923076923076923,Kazakh (http://www.transifex.com/the_cavalry/light-locker/language/kk/)
+lightdm,163,0,0,21,0,0,140,163,100.0,Kazakh <kk@li.org>
+lightdm-gtk,61,0,28,20,0,5,48,89,68.53932584269663,Kazakh <kk@li.org>
+lightdm-gtk-greeter-settings,488,0,31,168,0,3,478,519,94.02697495183044,Kazakh <kk@li.org>
+lightdm-settings,7,0,314,5,0,60,8,321,2.1806853582554515,Kazakh <kk@li.org>
+lightsoff,143,0,0,27,0,0,116,143,100.0,Kazakh <kk_KZ@googlegroups.com>
+lokalize,3083,311,692,520,66,91,2278,4086,75.45276554087127,Kazakh <kde-i18n-doc@kde.org>
+lskat,254,0,0,83,0,0,197,254,100.0,Kazakh <kde-i18n-doc@kde.org>
+lxappearance-obconf,196,0,0,27,0,0,165,196,100.0,Kazakh <kk_KZ@googlegroups.com>
+lxde-common,0,0,14,0,0,5,0,14,0.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,51,47,100.0,Kazakh <kk_KZ@googlegroups.com>
+lxinput,72,0,11,24,0,2,68,83,86.74698795180723,Kazakh <kk_KZ@googlegroups.com>
+lxlauncher,51,0,7,11,0,6,44,58,87.93103448275862,Kazakh <kk_KZ@googlegroups.com>
+lxmenu-data,97,0,0,37,0,0,90,97,100.0,Kazakh <kk_KZ@googlegroups.com>
+lxmusic,203,0,0,89,0,0,197,203,100.0,Kazakh <kk_KZ@googlegroups.com>
+lxpanel,1335,33,31,442,3,22,1282,1399,95.42530378842031,Kazakh <kk_KZ@googlegroups.com>
+lxrandr,167,0,0,41,0,0,145,167,100.0,Kazakh <kk_KZ@googlegroups.com>
+lxtask,130,0,0,51,0,0,129,130,100.0,Kazakh <kk_KZ@googlegroups.com>
+lxterminal,199,7,6,97,3,2,204,212,93.86792452830188,Kazakh <kk_KZ@googlegroups.com>
+malcontent,3,0,581,2,0,96,3,584,0.5136986301369862,none
+maliit-keyboard,36,4,41,33,2,26,35,81,44.44444444444444,Kazakh <kk@li.org>
+marble,774,6007,4669,207,1933,1167,689,11450,6.759825327510917,Kazakh <kde-i18n-doc@kde.org>
+marco,348,0,3955,99,0,331,347,4303,8.087380897048572,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+massif-visualizer,216,27,114,60,11,38,195,357,60.50420168067227,Kazakh <kde-i18n-doc@kde.org>
+mate-applets,302,5,15650,183,3,1460,346,15957,1.8925863257504543,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-backgrounds,30,0,25,21,0,8,30,55,54.54545454545454,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-calc,460,0,2863,300,0,449,487,3323,13.842913030394222,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-control-center,1723,0,6525,578,0,933,1655,8248,20.88991270611057,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-desktop,648,0,1728,117,0,184,589,2376,27.27272727272727,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-media,166,0,73,72,0,27,167,239,69.4560669456067,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-menu,286,0,22,102,0,8,292,308,92.85714285714286,Kazakh (http://www.transifex.com/mate/MATE/language/kk/)
+mate-menus,98,0,5,38,0,1,79,103,95.14563106796116,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-notification-daemon,136,0,50,40,0,13,130,186,73.11827956989248,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-panel,1587,0,5133,441,0,373,1448,6720,23.616071428571427,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-polkit,123,0,0,21,0,0,106,123,100.0,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-power-manager,645,0,4474,192,0,359,628,5119,12.600117210392655,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-screensaver,167,0,934,67,0,109,178,1101,15.168029064486829,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-sensors-applet,9,2,2149,7,2,217,12,2160,0.4166666666666667,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-session-manager,450,0,265,111,0,21,433,715,62.93706293706294,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-settings-daemon,824,0,1382,169,0,150,755,2206,37.35267452402539,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-system-monitor,907,0,3940,268,0,380,879,4847,18.7126057355065,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-terminal,1852,0,6534,442,0,361,1633,8386,22.08442642499404,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-themes,57,0,17,11,0,12,53,74,77.02702702702703,Kazakh (http://www.transifex.com/mate/MATE/language/kk/)
+mate-user-admin,15,0,613,14,0,117,17,628,2.388535031847134,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-user-guide,136,0,42833,83,0,3145,147,42969,0.3165072494123671,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mate-utils,1743,0,8317,481,0,645,1603,10060,17.326043737574555,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mbox-importer,30,10,0,10,3,0,23,40,75.0,Kazakh <kde-i18n-doc@kde.org>
+mc,2,0,4348,1,0,1265,2,4350,0.04597701149425287,Kazakh (http://www.transifex.com/mc/mc/language/kk/)
+menulibre,308,0,565,124,0,42,280,873,35.28064146620848,Kazakh <kk@li.org>
+midori,316,0,3225,157,0,639,315,3541,8.924032759107597,Kazakh <kk_KZ@googlegroups.com>
+minetest,99,25,9925,56,11,1349,94,10049,0.9851726539954223,Kazakh <https://hosted.weblate.org/projects/minetest/minetest/kk/>
+mingw-atk,78,0,362,52,0,117,76,440,17.727272727272727,Kazakh <kk_KZ@googlegroups.com>
+mingw-colord,5,0,1880,5,0,198,5,1885,0.2652519893899204,Kazakh (http://www.transifex.com/projects/p/colord/language/kk/)
+mingw-gdk-pixbuf,328,0,997,72,0,126,306,1325,24.754716981132074,Kazakh <kk_KZ@googlegroups.com>
+mingw-glib-networking,283,0,0,43,0,0,239,283,100.0,Kazakh <kk_KZ@googlegroups.com>
+mingw-glib2,1156,0,6309,358,0,821,1105,7465,15.485599464166109,Kazakh <kk_KZ@googlegroups.com>
+mingw-gtk2,2569,368,9467,873,164,1548,2312,12404,20.711060948081265,Kazakh <kk_KZ@googlegroups.com>
+mingw-gtk3,5148,0,11583,1984,0,1953,4853,16731,30.76923076923077,Kazakh <kk_KZ@googlegroups.com>
+mingw-gtksourceview3,145,2,175,79,1,26,144,322,45.03105590062112,Kazakh <kk_KZ@googlegroups.com>
+mingw-p11-kit,12,0,464,4,0,77,11,476,2.5210084033613445,Kazakh (http://www.transifex.com/freedesktop/p11-kit/language/kk/)
+mousepad,1010,0,612,301,0,116,897,1622,62.26880394574599,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+mousetweaks,114,0,0,30,0,0,116,114,100.0,Kazakh <kk_KZ@googlegroups.com>
+mozo,43,0,3,21,0,3,44,46,93.47826086956522,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+mutter,405,0,921,100,0,55,386,1326,30.542986425339368,Kazakh <kk@li.org>
+mutter3.38,356,0,715,89,0,49,344,1071,33.23996265172735,Kazakh <kk@li.org>
+mypaint,15,13,6353,13,8,1249,15,6381,0.23507287259050302,Kazakh <https://hosted.weblate.org/projects/mypaint/mypaint/kk/>
+nautilus,5556,0,0,1102,0,0,4612,5556,100.0,Kazakh <kk_KZ@googlegroups.com>
+nemo-extensions,8,0,0,2,0,0,6,8,100.0,Kazakh <kk@li.org>
+network-manager-applet,2073,9,2222,622,1,235,1952,4304,48.16449814126394,Kazakh <kk_KZ@googlegroups.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,2419,93,26,573,30,15,1803,2538,95.31126871552404,Kazakh <kde-i18n-doc@kde.org>
+okular,2454,1452,1459,592,304,260,1964,5365,45.740913327120225,Kazakh <kde-i18n-doc@kde.org>
+onboard,45,0,2273,24,0,486,47,2318,1.9413287316652286,Kazakh <kk@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,389,0,5343,234,0,1663,353,5732,6.786461967899511,Kazakh <kk_KZ@googlegroups.com>
+p11-kit,12,0,464,4,0,77,11,476,2.5210084033613445,Kazakh (http://www.transifex.com/freedesktop/p11-kit/language/kk/)
+pacman,848,0,284,155,0,46,845,1132,74.91166077738515,Kazakh (http://www.transifex.com/toofishes/archlinux-pacman/language/kk/)
+palapeli,524,106,886,109,25,48,390,1516,34.56464379947229,Kazakh <kde-i18n-doc@kde.org>
+pam,525,10,0,99,1,0,474,535,98.13084112149532,Kazakh <https://translate.fedoraproject.org/projects/linux-pam/master/kk/>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,2,5,49,1,2,13,2,56,3.571428571428571,LANGUAGE <LL@li.org>
+parley,2381,759,299,534,144,52,1917,3439,69.23524280314045,Kazakh <kde-i18n-doc@kde.org>
+parole,519,0,569,235,0,66,537,1088,47.70220588235294,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+pavucontrol,56,4,470,29,2,118,57,530,10.566037735849058,Kazakh <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/kk/>
+pcmanfm,1215,0,0,297,0,0,1088,1215,100.0,Kazakh <kk_KZ@googlegroups.com>
+phonon-backend-gstreamer,0,104,0,0,15,0,0,104,0.0,Kazakh <kde-i18n-doc@kde.org>
+php-phpmyadmin-sql-parser5,223,29,16,42,6,2,170,268,83.2089552238806,Kazakh <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/kk/>
+picmi,164,32,6,105,9,3,162,202,81.1881188118812,Kazakh <kde-i18n-doc@kde.org>
+pidgin,348,0,15487,258,0,3199,362,15835,2.197663403852226,Kazakh (http://www.transifex.com/pidgin/pidgin/language/kk/)
+pim-data-exporter,273,244,255,76,64,54,259,772,35.362694300518136,Kazakh <kde-i18n-doc@kde.org>
+pipewire,170,14,463,78,6,24,167,647,26.275115919629055,
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,
+plasma-desktop,3229,926,1341,424,262,365,2390,5496,58.751819505094616,Kazakh <kde-i18n-doc@kde.org>
+plasma-discover,107,439,1825,70,153,320,104,2371,4.512863770560944,Kazakh <kde-i18n-doc@kde.org>
+plasma-drkonqi,708,890,368,77,82,42,549,1966,36.01220752797559,Kazakh <kde-i18n-doc@kde.org>
+plasma-oxygen,534,57,40,197,23,11,498,631,84.62757527733757,Kazakh <kde-i18n-doc@kde.org>
+plasma-sdk,193,96,82,51,16,13,155,371,52.02156334231805,Kazakh <kde-i18n-doc@kde.org>
+plasma-systemsettings,117,26,75,29,6,21,101,218,53.669724770642205,Kazakh <kde-i18n-doc@kde.org>
+plasma-workspace,5733,1296,2727,1702,379,331,5660,9756,58.76383763837638,Kazakh <kde-i18n-doc@kde.org>
+pluma,2182,0,10931,640,0,1450,1909,13113,16.639975596736065,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+pluma-plugins,125,0,1273,17,0,126,99,1398,8.94134477825465,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+poedit,2920,0,0,652,0,0,2574,2920,100.0,Kazakh
+pogo,28,0,548,14,0,87,31,576,4.861111111111112,Kazakh <kk@li.org>
+polari,468,0,399,150,0,49,429,867,53.979238754325266,Kazakh <kk_KZ@googlegroups.com>
+policycoreutils,20,0,12151,20,0,1756,22,12171,0.1643250349190699,Kazakh
+polkit-kde,78,8,9,20,4,6,68,95,82.10526315789474,Kazakh <kde-i18n-doc@kde.org>
+powerdevil,258,198,186,65,46,28,216,642,40.18691588785047,Kazakh <kde-i18n-doc@kde.org>
+pulseaudio,691,39,3022,297,14,260,730,3752,18.41684434968017,
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-SecretStorage,59,0,0,9,0,0,48,59,100.0,Kazakh <kk@li.org>
+python-blivet,324,0,260,44,0,34,295,584,55.47945205479452,Kazakh <https://translate.fedoraproject.org/projects/blivet/blivet-master/kk/>
+python-caja,6,0,0,2,0,0,6,6,100.0,Kazakh (https://www.transifex.com/mate/teams/13566/kk/)
+python-django,1504,0,2251,471,0,387,1307,3755,40.05326231691079,Kazakh (http://www.transifex.com/django/django/language/kk/)
+python-django-contrib-comments,233,0,17,58,0,3,199,250,93.2,Kazakh (http://www.transifex.com/django/django-contrib-comments/language/kk/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-fedora,0,0,214,0,0,29,0,214,0.0,Kazakh
+python-meh,0,0,109,0,0,23,0,109,0.0,Kazakh
+python-postorius,0,0,4999,0,0,607,0,4999,0.0,LANGUAGE <LL@li.org>
+quadrapassel,460,0,0,82,0,0,375,460,100.0,Kazakh <kk_KZ@googlegroups.com>
+realmd,0,0,789,0,0,127,0,789,0.0,Kazakh (http://www.transifex.com/freedesktop/realmd/language/kk/)
+rednotebook,23,0,1124,21,0,219,31,1147,2.0052310374891023,Kazakh <kk@li.org>
+remmina,666,3847,759,139,755,88,548,5272,12.63277693474962,Kazakh <https://hosted.weblate.org/projects/remmina/remmina/kk/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,none
+rhythmbox,563,0,3156,325,0,643,553,3719,15.138478085506858,Kazakh <kk_KZ@googlegroups.com>
+ristretto,603,0,59,195,0,11,561,662,91.08761329305136,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+rocs,364,656,460,107,142,65,312,1480,24.594594594594597,Kazakh <kde-i18n-doc@kde.org>
+rygel,136,0,1505,53,0,251,132,1641,8.287629494210847,Kazakh <kk_KZ@googlegroups.com>
+seahorse,1298,0,1097,410,0,133,1246,2395,54.19624217118998,Kazakh <kk_KZ@googlegroups.com>
+shadow-utils,3848,557,272,579,60,31,3749,4677,82.27496258285225,Kazakh <kk_KZ@googlegroups.com>
+shared-mime-info,2004,0,54,778,0,17,2076,2058,97.37609329446065,Kazakh (http://www.transifex.com/freedesktop/shared-mime-info/language/kk/)
+shotwell,4338,0,2639,1022,0,253,3513,6977,62.1757202235918,Kazakh (http://www.transifex.com/projects/p/shotwell/language/kk/)
+shutter,127,0,2800,49,0,540,135,2927,4.33891356337547,Kazakh <kk@li.org>
+simple-scan,547,0,446,156,0,45,502,993,55.085599194360526,Kazakh <kk@li.org>
+slick-greeter,211,0,0,47,0,0,201,211,100.0,Kazakh <kk@li.org>
+stardict,2974,34,27,583,8,2,2661,3035,97.99011532125206,Kazakh <kk_KZ@googlegroups.com>
+stellarium,334,0,149685,291,0,37328,334,150019,0.22263846579433272,Kazakh (https://www.transifex.com/stellarium/teams/80998/kk/)
+step,660,1204,23,192,473,9,578,1887,34.97615262321145,Kazakh <kde-i18n-doc@kde.org>
+sushi,54,0,0,14,0,0,47,54,100.0,Kazakh <kk@li.org>
+svgpart,3,0,0,2,0,0,3,3,100.0,Kazakh <kde-i18n-doc@kde.org>
+sweeper,225,3,0,49,1,0,181,228,98.68421052631578,Kazakh <kde-i18n-doc@kde.org>
+swell-foop,340,0,0,72,0,0,280,340,100.0,Kazakh <kk_KZ@googlegroups.com>
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+system-config-language,197,17,1,29,1,1,174,215,91.62790697674419,LANGUAGE <LL@li.org>
+tali,129,0,309,54,0,46,123,438,29.45205479452055,Kazakh <kk_KZ@googlegroups.com>
+tellico,5281,444,137,1109,114,39,3952,5862,90.08870692596383,Kazakh <kde-i18n-doc@kde.org>
+terminator,125,0,1325,56,0,371,134,1450,8.620689655172415,Kazakh (https://www.transifex.com/terminator/teams/109338/kk/)
+thunar-archive-plugin,88,0,0,15,0,0,67,88,100.0,Kazakh (http://www.transifex.com/xfce/thunar-plugins/language/kk/)
+thunar-media-tags-plugin,156,0,0,58,0,0,146,156,100.0,Kazakh (http://www.transifex.com/xfce/thunar-plugins/language/kk/)
+thunar-volman,484,0,0,115,0,0,398,484,100.0,Kazakh (http://www.transifex.com/xfce/thunar-volman/language/kk/)
+totem,1372,0,0,385,0,0,1139,1372,100.0,Kazakh <kk_KZ@googlegroups.com>
+totem-pl-parser,29,0,0,8,0,0,23,29,100.0,Kazakh <kk@li.org>
+tracker,104,0,479,46,0,70,87,583,17.83876500857633,Kazakh <kk_KZ@googlegroups.com>
+tracker-miners,351,0,1461,108,0,182,289,1812,19.370860927152318,Kazakh <kk_KZ@googlegroups.com>
+transmission,1653,0,345,480,0,43,1497,1998,82.73273273273273,Kazakh (https://www.transifex.com/transmissionbt/teams/33778/kk/)
+tumbler,241,0,0,39,0,0,214,241,100.0,Kazakh (http://www.transifex.com/xfce/tumbler/language/kk/)
+udisks2,1905,0,282,472,0,45,1687,2187,87.10562414266117,Kazakh
+uget,365,0,720,190,0,172,370,1085,33.6405529953917,Kazakh (http://www.transifex.com/uget/uget/language/kk/)
+umbrello,4269,1550,358,1213,385,77,3577,6177,69.11121903836815,Kazakh <kde-i18n-doc@kde.org>
+vinagre,517,0,993,158,0,119,492,1510,34.23841059602649,Kazakh <kk_KZ@googlegroups.com>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none
+wireplumber,3,0,0,2,0,0,3,3,100.0,
+xapps,29,0,44,24,0,12,31,73,39.726027397260275,Kazakh <kk@li.org>
+xarchiver,527,121,566,190,28,85,485,1214,43.41021416803954,Kazakh <kk_KZ@googlegroups.com>
+xdg-user-dirs,28,0,0,28,0,0,30,28,100.0,Kazakh <kk_KZ@googlegroups.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,69,81,100.0,Kazakh <kk_KZ@googlegroups.com>
+xed,1239,0,2521,305,0,619,949,3760,32.95212765957447,Kazakh (http://www.transifex.com/projects/p/MATE/language/kk/)
+xfburn,1413,0,0,306,0,0,1158,1413,100.0,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+xfce4-appfinder,433,0,0,84,0,0,346,433,100.0,Kazakh (http://www.transifex.com/xfce/xfce4-appfinder/language/kk/)
+xfce4-battery-plugin,149,0,0,44,0,0,146,149,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-clipman-plugin,361,0,170,58,0,34,286,531,67.984934086629,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-cpufreq-plugin,59,37,44,16,8,15,47,140,42.142857142857146,Kazakh <kk_KZ@googlegroups.com>
+xfce4-cpugraph-plugin,75,0,106,38,0,21,73,181,41.43646408839779,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-datetime-plugin,52,0,0,19,0,0,48,52,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-dict,529,0,0,121,0,0,436,529,100.0,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+xfce4-eyes-plugin,16,0,0,5,0,0,13,16,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,67,71,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-genmon-plugin,54,0,46,16,0,10,50,100,54.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-netload-plugin,27,42,23,10,10,15,24,92,29.347826086956523,Kazakh <kk_KZ@googlegroups.com>
+xfce4-notes-plugin,163,0,0,57,0,0,147,163,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-notifyd,330,0,0,84,0,0,280,330,100.0,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+xfce4-panel,1847,0,0,457,0,0,1602,1847,100.0,Kazakh (https://www.transifex.com/xfce/teams/16840/kk/)
+xfce4-panel-profiles,99,0,0,26,0,0,102,99,100.0,Kazakh (https://www.transifex.com/xfce/teams/16840/kk/)
+xfce4-places-plugin,162,0,0,47,0,0,140,162,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-power-manager,1064,0,0,214,0,0,954,1064,100.0,Kazakh (http://www.transifex.com/xfce/xfce4-power-manager/language/kk/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,148,148,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-screenshooter,173,0,355,41,0,41,138,528,32.765151515151516,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+xfce4-session,756,0,0,163,0,0,676,756,100.0,Kazakh (http://www.transifex.com/xfce/xfce4-session/language/kk/)
+xfce4-settings,2413,0,13,564,0,5,2093,2426,99.46413849958779,Kazakh (https://www.transifex.com/xfce/teams/16840/kk/)
+xfce4-taskmanager,226,0,5,72,0,2,202,231,97.83549783549783,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+xfce4-terminal,1698,0,164,399,0,35,1551,1862,91.1922663802363,Kazakh (http://www.transifex.com/xfce/xfce-apps/language/kk/)
+xfce4-time-out-plugin,106,0,0,38,0,0,99,106,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-wavelan-plugin,40,0,27,9,0,9,33,67,59.70149253731343,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfce4-whiskermenu-plugin,309,23,54,102,8,13,282,386,80.05181347150258,Kazakh (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/kk/)
+xfce4-xkb-plugin,57,0,0,22,0,0,57,57,100.0,Kazakh (http://www.transifex.com/xfce/xfce-panel-plugins/language/kk/)
+xfconf,458,0,0,68,0,0,402,458,100.0,Kazakh (http://www.transifex.com/xfce/xfconf/language/kk/)
+xfdashboard,0,0,6878,0,0,921,0,6878,0.0,Kazakh (http://www.transifex.com/xfdashboard/xfdashboard/language/kk/)
+xfdesktop,1036,0,5,245,0,1,953,1041,99.51969260326608,Kazakh (http://www.transifex.com/xfce/xfdesktop/language/kk/)
+xfpanel-switch,62,0,39,24,0,2,64,101,61.386138613861384,Kazakh <kk@li.org>
+xfwm4,643,0,6,172,0,1,639,649,99.07550077041603,Kazakh (http://www.transifex.com/xfce/xfwm4/language/kk/)
+xreader,1453,0,167,346,0,33,1228,1620,89.69135802469135,Kazakh (http://www.transifex.com/mate/MATE/language/kk/)
+yelp,348,0,0,73,0,0,293,348,100.0,Kazakh <kk_KZ@googlegroups.com>
+yelp-xsl,51,0,30,42,0,17,52,81,62.96296296296296,Kazakh <kk_KZ@googlegroups.com>
+zenity,496,0,400,134,0,65,451,896,55.35714285714286,Kazakh <kk_KZ@googlegroups.com>

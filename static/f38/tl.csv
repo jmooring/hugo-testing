@@ -1,0 +1,62 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+apt,2318,1170,2068,383,161,202,2767,5556,41.72066234701224,Tagalog <debian-tl@banwa.upm.edu.ph>
+asunder,4,0,489,4,0,88,5,493,0.8113590263691683,http://littlesvr.ca/ostd/
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,1634,0,18449,569,0,3995,2167,20083,8.136234626300851,Tagalog <tl@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,67,180,737,49,32,98,73,984,6.808943089430894,Tagalog <debian-tl@banwa.upm.edu.ph>
+debconf,733,67,62,82,7,5,885,862,85.03480278422273,Tagalog <debian-tl@banwa.upm.edu.ph>
+deluge,6,0,4334,4,0,1329,8,4340,0.1382488479262673,Tagalog <tl@li.org>
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+dnfdragora,145,0,1587,108,0,357,164,1732,8.371824480369515,Tagalog (https://www.transifex.com/MageiaLinux/teams/9361/tl/)
+dpkg,3383,5222,3265,498,636,317,3998,11870,28.500421229991574,Tagalog <debian-tl@banwa.upm.edu.ph>
+elementary-calculator,71,16,108,33,7,25,95,195,36.41025641025641,Tagalog <https://weblate.elementary.io/projects/calculator/calculator/tl/>
+elementary-calendar,155,84,336,82,30,94,178,575,26.956521739130434,Tagalog <https://weblate.elementary.io/projects/calendar/calendar/tl/>
+elementary-camera,52,5,76,12,2,21,60,133,39.097744360902254,Tagalog <https://weblate.elementary.io/projects/camera/camera/tl/>
+elementary-code,150,173,1291,69,51,170,201,1614,9.293680297397769,Tagalog <https://weblate.elementary.io/projects/scratch/scratch/tl/>
+elementary-files,580,933,977,162,176,213,680,2490,23.293172690763054,Tagalog <https://weblate.elementary.io/projects/files/files/tl/>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,788,0,0,179,0,788,0.0,
+elementary-music,11,11,183,8,6,23,13,205,5.365853658536586,Tagalog <https://weblate.elementary.io/projects/music/music/tl/>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+exaile,20,0,4582,2,0,1119,22,4602,0.43459365493263796,Tagalog <tl@li.org>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Tagalog
+gala,19,5,225,10,1,40,29,249,7.630522088353414,Tagalog <https://l10n.elementary.io/projects/desktop/gala/tl/>
+glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-do,377,0,235,107,0,37,513,612,61.60130718954249,Tagalog <tl@li.org>
+godot3,3924,3166,278055,1205,1378,15435,5107,285145,1.3761419628610005,Tagalog <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/tl/>
+granite,38,17,443,23,6,89,51,498,7.630522088353414,Tagalog <https://weblate.elementary.io/projects/desktop/granite/tl/>
+granite-7,12,12,276,9,5,61,12,300,4.0,Tagalog <https://weblate.elementary.io/projects/desktop/granite/tl/>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tagalog (http://www.transifex.com/projects/p/initial-setup/language/tl/)
+iso-codes,871,131,91,386,37,33,868,1093,79.6889295516926,Tagalog <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/tl/>
+isomaster,11,0,663,10,0,97,12,674,1.6320474777448073,http://littlesvr.ca/ostd/
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Tagalog <tl@li.org>
+manafirewall,13,0,1084,12,0,121,14,1097,1.1850501367365542,Tagalog (https://www.transifex.com/MageiaLinux/teams/9361/tl/)
+mate-control-center,22,0,3309,13,0,1140,36,3331,0.6604623236265386,Tagalog (https://www.transifex.com/mate/teams/13566/tl/)
+mate-menu,6,0,302,5,0,105,7,308,1.948051948051948,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Tagalog (http://app.transifex.com/mate/MATE/language/tl/)
+midori,490,0,3051,142,0,654,604,3541,13.83789889861621,Tagalog <tl@li.org>
+mingw-glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+mtpaint,943,0,2516,364,0,643,1128,3459,27.26221451286499,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,2,0,2316,2,0,508,4,2318,0.08628127696289906,Tagalog <tl@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+python-apt,544,0,0,118,0,0,652,544,100.0,Tagalog <tl@li.org>
+python-meh,0,0,109,0,0,23,0,109,0.0,Tagalog (http://www.transifex.com/projects/p/python-meh/language/tl/)
+rednotebook,69,0,1194,13,0,259,97,1263,5.463182897862233,Tagalog <tl@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+shadow-utils,986,1584,2168,204,228,240,1237,4738,20.8104685521317,Tagalog <debian-tl@banwa.upm.edu.ph>
+siril,298,689,41926,60,209,3468,298,42913,0.6944282618320788,Tagalog <https://weblate.pixls.us/projects/siril/siril-application-1-2/tl/>
+tuxmath,860,180,415,167,26,56,1008,1455,59.106529209621996,LANGUAGE <LL@li.org>
+tuxpaint,186,101,3476,90,43,328,209,3763,4.942864735583311,none
+ufw,0,0,879,1,0,180,0,879,0.0,Tagalog <tl@li.org>
+wesnoth,682,2617,336169,344,844,20089,850,339468,0.2009025887565249,
+wingpanel,0,0,16,0,0,3,0,16,0.0,none

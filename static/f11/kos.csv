@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+sugar-physics,1,0,21,1,0,21,1,22,4.545454545454546,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,51,0,14156,24,0,3246,51,14207,0.3589779686070247,Klingon <tlh@li.org>
+deluge,0,0,4390,0,0,1341,0,4390,0.0,Klingon <tlh@li.org>
+geeqie,4,1,6395,4,1,1876,4,6400,0.0625,
+python-humanize,114,0,18,58,0,9,125,132,86.36363636363636,Language tlh

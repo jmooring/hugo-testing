@@ -1,0 +1,957 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+4Pane,90,0,12485,55,0,1821,96,12575,0.7157057654075547,Estonian (http://www.transifex.com/davidgh/4Pane/language/et/)
+GConf2,2728,0,1286,393,0,90,2310,4014,67.96213253612356,Estonian <gnome-et@linux.ee>
+NetworkManager,177,284,11047,27,47,1637,136,11508,1.538060479666319,Estonian <gnome-et@linux.ee>
+NetworkManager-fortisslvpn,22,1,151,9,1,23,16,174,12.643678160919542,Estonian <gnome-et@linux.ee>
+NetworkManager-l2tp,122,21,640,35,5,90,101,783,15.581098339719029,Estonian <gnome-et@linux.ee>
+NetworkManager-libreswan,139,0,0,36,0,0,123,139,100.0,Estonian <gnome-et@linux.ee>
+NetworkManager-openconnect,139,5,3097,32,2,562,133,3241,4.288799753162604,Estonian <>
+NetworkManager-openvpn,207,137,705,71,11,87,167,1049,19.73307912297426,Estonian <gnome-et@linux.ee>
+NetworkManager-pptp,144,0,0,44,0,0,122,144,100.0,Estonian <gnome-et@linux.ee>
+NetworkManager-ssh,39,43,204,17,14,38,30,286,13.636363636363635,Estonian <gnome-et@linux.ee>
+NetworkManager-sstp,144,0,0,44,0,0,122,144,100.0,Estonian <gnome-et@linux.ee>
+NetworkManager-vpnc,156,0,0,41,0,0,140,156,100.0,Estonian <gnome-et@linux.ee>
+Thunar,4126,0,74,731,0,7,3011,4200,98.23809523809524,Estonian (https://www.transifex.com/xfce/teams/16840/et/)
+WindowMaker,4588,0,45,736,0,7,3848,4633,99.02870710123031,Estonian <et@li.org>
+Zim,1416,0,1399,368,0,322,1337,2815,50.301953818827705,Estonian <et@li.org>
+abrt,1034,0,2935,148,0,328,898,3969,26.051902242378432,Estonian (http://www.transifex.com/projects/p/fedora-abrt/language/et/)
+accerciser,659,0,0,224,0,0,574,659,100.0,Estonian <>
+agenda,5,0,38,2,0,11,3,43,11.627906976744185,Estonian <et@li.org>
+aisleriot,1557,0,430,453,0,96,1216,1987,78.35933568193256,Estonian <gnome-et@linux.ee>
+akonadi-calendar-tools,727,54,61,162,4,7,599,842,86.34204275534442,Estonian <kde-et@linux.ee>
+akonadi-import-wizard,345,46,0,73,10,0,289,391,88.23529411764706,Estonian <kde-et@linux.ee>
+akregator,1698,60,7,416,9,1,1386,1765,96.20396600566572,Estonian <kde-i18n-doc@kde.org>
+alacarte,31,0,0,12,0,0,26,31,100.0,Estonian <gnome-et@linux.ee>
+amarok,13466,1416,937,2473,222,85,10783,15819,85.12548201529806,Estonian <kde-et@linux.ee>
+anaconda,571,0,6742,174,0,1040,486,7313,7.808013127307535,Estonian (http://www.transifex.com/projects/p/anaconda/language/et/)
+analitza,971,5,12,216,1,4,789,988,98.27935222672065,Estonian <kde-et@linux.ee>
+appcenter,211,17,529,73,9,95,178,757,27.873183619550858,LANGUAGE <LL@li.org>
+arandr,173,0,0,38,0,0,150,173,100.0,Estonian <https://hosted.weblate.org/projects/arandr/translations/et/>
+arduino,6090,0,96,1168,0,12,5272,6186,98.44810863239573,Estonian (Estonia) (http://www.transifex.com/mbanzi/arduino-ide-15/language/et_EE/)
+ark,1674,82,94,305,17,13,1332,1850,90.48648648648648,Estonian <kde-i18n-doc@kde.org>
+artikulate,433,3,0,155,1,0,340,436,99.31192660550458,Estonian <kde-et@linux.ee>
+at-spi2-core,10,0,0,2,0,0,12,10,100.0,Estonian <>
+atk,398,0,0,139,0,0,285,398,100.0,Estonian <>
+atomix,146,0,0,59,0,0,144,146,100.0,Estonian <gnome-et@linux.ee>
+atril,1642,0,150,393,0,20,1356,1792,91.62946428571429,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+audacious,654,0,106,285,0,41,609,760,86.05263157894737,Estonian (http://www.transifex.com/audacious/audacious/language/et/)
+audacious-plugins,1433,0,2501,572,0,316,1282,3934,36.4260294865277,Estonian (http://www.transifex.com/audacious/audacious/language/et/)
+audex,2328,980,39,374,29,9,1910,3347,69.55482521661189,Estonian <kde-et@linux.ee>
+audience,132,0,50,45,0,17,118,182,72.52747252747253,Estonian <https://l10n.elementary.io/projects/videos/videos/et/>
+audit-viewer,373,0,238,157,0,28,353,611,61.04746317512275,LANGUAGE <LL@li.org>
+authconfig,493,16,420,83,2,52,366,929,53.067814854682446,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+avahi,477,2,389,129,2,37,405,868,54.953917050691246,Estonian (http://www.transifex.com/lennart/avahi/language/et/)
+avogadro,547,0,6060,343,0,2029,532,6607,8.279097926441652,Estonian <et@li.org>
+backintime,306,0,1677,115,0,221,297,1983,15.431164901664147,Estonian <et@li.org>
+baloo-widgets,411,0,1,124,0,1,388,412,99.75728155339806,Estonian <kde-i18n-doc@kde.org>
+balsa,2376,971,2001,717,235,335,2133,5348,44.42782348541511,<gnome-et@linux.ee>
+baobab,210,0,0,57,0,0,189,210,100.0,Estonian <>
+bash,660,204,10492,153,50,378,647,11356,5.811905600563579,Estonian <et@li.org>
+bijiben,203,0,0,76,0,0,188,203,100.0,Estonian <gnome-et-list@gnome.org>
+bison,1416,0,0,213,0,0,1275,1416,100.0,Estonian <linux-ee@lists.eenet.ee>
+bleachbit,973,0,139,222,0,26,819,1112,87.5,Estonian <et@li.org>
+blinken,133,0,0,47,0,0,124,133,100.0,Estonian <kde-et@linux.ee>
+blivet-gui,0,0,762,0,0,220,0,762,0.0,Estonian
+blogilo,1388,4,0,336,1,0,1132,1392,99.71264367816092,Estonian <kde-et@linux.ee>
+blueberry,141,0,0,34,0,0,132,141,100.0,Estonian <et@li.org>
+bluedevil,552,4,17,185,2,4,483,573,96.33507853403141,Estonian <kde-i18n-doc@kde.org>
+blueman,915,0,469,264,0,78,802,1384,66.11271676300578,Estonian (http://www.transifex.com/mate/MATE/language/et/)
+bomber,103,0,0,27,0,0,81,103,100.0,Estonian <kde-et@linux.ee>
+bovo,81,0,0,25,0,0,74,81,100.0,Estonian <kde-et@linux.ee>
+brasero,5546,0,0,968,0,0,4251,5546,100.0,Estonian <gnome-et@linux.ee>
+cairo-dock,606,0,6858,210,0,617,499,7464,8.118971061093246,Estonian <et@li.org>
+cairo-dock-plug-ins,2028,0,8175,581,0,1141,1676,10203,19.87650690973243,Estonian <et@li.org>
+caja,8040,0,1316,1413,0,104,6158,9356,85.93415989739205,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+caja-extensions,493,0,77,120,0,11,433,570,86.49122807017544,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+calamares,0,0,55,0,0,13,0,55,0.0,Estonian (https://www.transifex.com/calamares/teams/20061/et/)
+calibre,53845,0,103456,8178,0,9922,41763,157301,34.23055161759938,Estonian (http://www.transifex.com/calibre/calibre/language/et/)
+calligra,34665,669,528,7616,74,65,27010,35862,96.66220511962523,Estonian <kde-et@linux.ee>
+calligraplan,6418,748,2464,1561,148,332,5203,9630,66.64589823468327,Estonian <kde-et@linux.ee>
+cantor,2062,41,0,474,4,0,1650,2103,98.05040418449835,Estonian <kde-i18n-doc@kde.org>
+capnet-assist,27,0,5,3,0,2,17,32,84.375,Estonian <et@li.org>
+caribou,169,0,0,57,0,0,147,169,100.0,Estonian <>
+certmonger,0,0,2855,0,0,477,0,2855,0.0,Estonian (http://www.transifex.com/projects/p/certmonger/language/et/)
+cervisia,1619,0,0,421,0,0,1283,1619,100.0,Estonian <kde-et@linux.ee>
+cheese,555,0,0,120,0,0,381,555,100.0,Estonian <>
+chkconfig,480,0,75,92,0,11,423,555,86.48648648648648,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+choqok,1735,410,112,453,91,25,1452,2257,76.87195392113425,Estonian <kde-et@linux.ee>
+chrome-gnome-shell,162,0,151,40,0,9,164,313,51.75718849840255,Estonian <gnome-et-list@gnome.org>
+cinnamon-control-center,521,88,704,521,69,166,522,1313,39.68012185833968,Estonian
+cinnamon-desktop,234,0,0,32,0,0,205,234,100.0,Estonian <>
+cinnamon-translations,15297,0,5097,3563,0,948,12564,20394,75.00735510444248,Estonian <et@li.org>
+clipit,210,0,8,70,0,4,183,218,96.3302752293578,Estonian (Estonia) (http://www.transifex.net/projects/p/clipit/language/et_EE/)
+colord-kde,273,52,44,101,9,10,219,369,73.98373983739837,Estonian <kde-et@linux.ee>
+colorhug-client,15,0,1417,7,0,290,15,1432,1.047486033519553,Estonian (http://www.transifex.com/hughsie/colorhug-client/language/et/)
+compat-gtkhtml314,485,0,0,309,0,0,441,485,100.0,Estonian <gnome-et@linux.ee>
+compat-tracker1,1959,108,59,362,17,11,1635,2126,92.14487300094073,Estonian <gnome-et@linux.ee>
+compiz,5,1224,3156,5,410,464,5,4385,0.11402508551881414,Estonian <opensuse-translation@opensuse.org>
+console-setup,980,3,2,172,1,2,718,985,99.49238578680203,Estonian <>
+control-center,5427,88,704,1965,69,166,4612,6219,87.26483357452966,Estonian
+coreutils,20732,0,0,1744,0,0,17463,20732,100.0,Estonian <linux-ee@lists.eenet.ee>
+dasher,634,0,0,209,0,0,549,634,100.0,Estonian <gnome-et@linux.ee>
+dconf-editor,47,39,1287,14,17,152,30,1373,3.423160961398398,Estonian <gnome-et-list@gnome.org>
+debconf,189,0,2,16,0,1,144,191,98.95287958115183,Eesti
+deja-dup,385,0,1718,73,0,264,314,2103,18.307180218735137,Estonian <et@li.org>
+deluge,2021,0,707,782,0,96,1653,2728,74.08357771260997,Estonian <et@li.org>
+devhelp,415,0,0,108,0,0,341,415,100.0,Estonian <gnome-et@linux.ee>
+dialog,9,2,14,9,2,12,9,25,36.0,Estonian <et@li.org>
+digikam,29816,10236,7437,5278,1687,765,21961,47489,62.78506601528775,Estonian <kde-et@linux.ee>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Estonian
+dnfdragora,635,0,134,290,0,26,549,769,82.57477243172951,Estonian (https://www.transifex.com/MageiaLinux/teams/9361/et/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Estonian
+dolphin,1483,49,36,490,20,7,1241,1568,94.57908163265306,Estonian <kde-i18n-doc@kde.org>
+dolphin-plugins,1189,13,0,330,1,0,1038,1202,98.91846921797006,Estonian <kde-et@linux.ee>
+dpkg,2126,3620,5386,403,485,492,1871,11132,19.098095580309018,Estonian <et@li.org>
+dragon,275,0,0,86,0,0,230,275,100.0,Estonian <kde-et@linux.ee>
+dvdbackup,111,6,907,28,2,82,107,1024,10.83984375,Estonian <et@li.org>
+ekiga,4264,0,0,716,0,0,3272,4264,100.0,Estonian <gnome-et@linux.ee>
+elementary-calculator,75,0,5,34,0,3,69,80,93.75,LANGUAGE <LL@li.org>
+elementary-camera,24,0,38,4,0,12,19,62,38.70967741935484,Estonian <et@li.org>
+elementary-capnet-assist,27,0,39,3,0,7,17,66,40.909090909090914,Estonian <et@li.org>
+elementary-screenshot-tool,123,1,8,38,1,4,104,132,93.18181818181817,Estonian <et@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+elinks,357,1498,10390,170,474,981,344,12245,2.9154757043691304,Estonian <et@li.org>
+empathy,4205,0,0,936,0,0,3429,4205,100.0,Estonian <>
+engrampa,1845,0,100,348,0,6,1533,1945,94.85861182519281,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+enlightenment,6,4512,4168,5,1620,607,6,8686,0.0690766751093714,Estonian <et@li.org>
+entangle,0,0,914,0,0,218,0,914,0.0,Estonian
+eog,1502,0,0,288,0,0,1215,1502,100.0,Estonian <gnome-et@linux.ee>
+eom,1717,0,0,318,0,0,1382,1717,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+epiphany,1758,0,0,496,0,0,1541,1758,100.0,Estonian <>
+evince,1589,0,0,360,0,0,1278,1589,100.0,Estonian <>
+evolution,23205,0,0,4586,0,0,18113,23205,100.0,Estonian <>
+evolution-data-server,4681,0,0,985,0,0,4249,4681,100.0,Estonian <gnome-et@linux.ee>
+evolution-mapi,516,0,0,106,0,0,452,516,100.0,Estonian <et@li.org>
+exaile,828,0,3178,363,0,662,733,4006,20.668996505242138,Estonian <https://hosted.weblate.org/projects/exaile/master/et/>
+exo,1362,0,89,277,0,21,1045,1451,93.86629910406616,Estonian (http://www.transifex.com/xfce/exo/language/et/)
+feedreader,43,0,646,22,0,179,47,689,6.2409288824383164,Estonian <https://hosted.weblate.org/projects/feedreader/translations/et/>
+file-roller,1201,0,0,276,0,0,1011,1201,100.0,Estonian <>
+filelight,400,7,0,90,2,0,325,407,98.28009828009829,Estonian <kde-et@linux.ee>
+filezilla,7627,1241,1260,1387,207,153,6220,10128,75.30608214849921,
+findutils,2545,16,7,235,3,1,2079,2568,99.1043613707165,Estonian <linux-ee@lists.eenet.ee>
+firewalld,215,1,1960,92,1,311,204,2176,9.880514705882353,Estonian (http://www.transifex.com/projects/p/firewalld/language/et/)
+five-or-more,462,0,0,100,0,0,407,462,100.0,Estonian <>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Estonian
+four-in-a-row,427,0,0,106,0,0,373,427,100.0,Estonian <>
+fprintd,0,0,419,0,0,57,0,419,0.0,Estonian (http://www.transifex.com/freedesktop/fprintd/language/et/)
+freeciv,15018,26746,56438,2752,3314,2070,12388,98202,15.292967556668907,eesti
+freedink,64,19,0,12,3,0,62,83,77.10843373493977,Estonian <linux-ee@lists.eenet.ee>
+fuse-encfs,42,0,1247,8,0,129,39,1289,3.2583397982932505,Estonian <et@li.org>
+fwbackups,0,0,3498,0,0,517,0,3498,0.0,Estonian (http://www.transifex.com/Magic/fwbackups/language/et/)
+gala,520,131,43,66,6,7,376,694,74.92795389048992,Estonian <et@li.org>
+gallery2,3161,401,5275,768,111,497,2673,8837,35.77005771189318,Eesti <gallery-devel@lists.sourceforge.net>
+gammu,3997,0,0,1111,0,0,3618,3997,100.0,Estonian <https://hosted.weblate.org/projects/gammu/gammu-docs/et/>
+ganglia,59,0,0,4,0,0,42,59,100.0,Gnome Estonian Translation Team <gnome-et@linux.ee>
+garcon,109,0,0,34,0,0,100,109,100.0,Estonian (http://www.transifex.com/projects/p/xfce/language/et/)
+gcompris,10546,198,1927,1381,17,76,7781,12671,83.22942151369269,<gnome-et@linux.ee>
+gcompris-qt,17478,2298,3537,1514,166,276,12900,23313,74.9710461974006,Estonian <kde-i18n-doc@kde.org>
+gconf-editor,336,0,0,98,0,0,294,336,100.0,Estonian <gnome-et@linux.ee>
+gcr,178,176,268,79,61,87,160,622,28.617363344051448,Estonian <gnome-et@linux.ee>
+gdk-pixbuf2,1360,0,0,203,0,0,1095,1360,100.0,Estonian <>
+gdm,650,0,0,87,0,0,518,650,100.0,Estonian <>
+geany,2882,347,2808,903,99,306,2322,6037,47.73894318370051,Estonian
+geary,626,0,475,216,0,111,584,1101,56.85740236148955,Estonian (http://www.transifex.com/projects/p/geary/language/et/)
+gedit,4276,0,0,747,0,0,3369,4276,100.0,Estonian <>
+gedit-plugins,908,115,182,390,37,42,819,1205,75.35269709543569,Estonian <gnome-et linux.ee>
+geeqie,350,1379,2055,135,559,603,328,3784,9.249471458773785,Estonian <gnome-et@linux.ee>
+gettext,350,1515,5491,62,154,525,344,7356,4.758020663404023,Estonian <et@li.org>
+ggz-base-libs,64,0,0,14,0,0,69,64,100.0,Estonian <gnome-et@linux.ee>
+ggz-gtk-client,584,0,0,209,0,0,503,584,100.0,Estonian <gnome-et@linux.ee>
+ghex,977,0,0,233,0,0,833,977,100.0,Estonian <>
+gimp,26971,0,1,6838,0,1,21957,26972,99.99629245143112,Estonian <gnome-et@linux.ee>
+gimp-wavelet-denoise-plugin,305,0,0,36,0,0,195,305,100.0,Estonian
+glade,1469,0,2570,511,0,556,1224,4039,36.37038871007675,Estonian <gnome-et@linux.ee>
+glade2,0,1503,1446,0,637,155,0,2949,0.0,Estonian <gnome-et@linux.ee>
+glade3,1813,0,2800,600,0,599,1470,4613,39.30197268588771,Estonian <gnome-et@linux.ee>
+glib-networking,161,0,0,29,0,0,128,161,100.0,Estonian <>
+glib2,2968,382,2051,537,57,241,2592,5401,54.95278652101463,Estonian <gnome-et@linux.ee>
+glpi,6007,0,5263,1830,0,1122,4779,11270,53.30079858030169,Estonian (Estonia) (http://www.transifex.com/glpi/GLPI/language/et_EE/)
+gmpc,1002,0,476,394,0,114,893,1478,67.79431664411368,Estonian <et@li.org>
+gnome-abrt,7,0,390,7,0,66,7,397,1.7632241813602016,Estonian (http://www.transifex.com/projects/p/gnome-abrt/language/et/)
+gnome-activity-journal,67,0,249,38,0,56,59,316,21.202531645569618,Estonian <et@li.org>
+gnome-backgrounds,27,0,0,16,0,0,23,27,100.0,Estonian <>
+gnome-bluetooth,310,0,0,96,0,0,257,310,100.0,Estonian <>
+gnome-boxes,856,0,0,185,0,0,713,856,100.0,Estonian <>
+gnome-calculator,1078,0,0,334,0,0,874,1078,100.0,Estonian <>
+gnome-chess,1284,0,0,219,0,0,1111,1284,100.0,Estonian <>
+gnome-clocks,223,0,0,77,0,0,176,223,100.0,Estonian <gnome-et-list@gnome.org>
+gnome-color-manager,1793,0,0,343,0,0,1323,1793,100.0,Gnome Estonian Translation Team <gnome-et@linux.ee>
+gnome-contacts,331,0,0,151,0,0,301,331,100.0,Estonian <>
+gnome-desktop,438,0,0,61,0,0,381,438,100.0,Estonian <gnome-et@linux.ee>
+gnome-desktop3,146,0,0,23,0,0,128,146,100.0,Estonian <>
+gnome-dictionary,841,0,0,180,0,0,628,841,100.0,Estonian <>
+gnome-disk-utility,3026,0,0,545,0,0,2339,3026,100.0,Estonian <>
+gnome-do,473,0,139,119,0,25,390,612,77.2875816993464,Estonian <et@li.org>
+gnome-doc-utils,251,0,0,101,0,0,244,251,100.0,Estonian <gnome-et@linux.ee>
+gnome-documents,435,0,0,142,0,0,384,435,100.0,Estonian <>
+gnome-font-viewer,47,0,0,25,0,0,74,47,100.0,Estonian <gnome-et@linux.ee>
+gnome-gmail,12,0,175,6,0,25,11,187,6.417112299465241,Estonian <et@li.org>
+gnome-icon-theme,51,0,0,46,0,0,48,51,100.0,Estonian <gnome-et@linux.ee>
+gnome-initial-setup,372,0,0,87,0,0,308,372,100.0,Estonian <gnome-et-list@gnome.org>
+gnome-keyring,553,0,0,112,0,0,474,553,100.0,Estonian <>
+gnome-klotski,120,0,0,57,0,0,124,120,100.0,Estonian <>
+gnome-libs,988,40,57,381,4,10,876,1085,91.05990783410138,Estonian <gnome-et@linux.ee>
+gnome-mahjongg,170,0,0,53,0,0,171,170,100.0,Estonian <>
+gnome-maps,180,0,0,32,0,0,150,180,100.0,Estonian <gnome-et-list@gnome.org>
+gnome-menus,70,0,0,27,0,0,58,70,100.0,Estonian <gnome-et@linux.ee>
+gnome-mime-data,887,0,0,362,0,0,810,887,100.0,Estonian <gnome-et@linux.ee>
+gnome-mines,261,0,0,63,0,0,231,261,100.0,Estonian <>
+gnome-music,348,0,0,53,0,0,297,348,100.0,Estonian <gnome-et-list@gnome.org>
+gnome-nettool,664,0,0,219,0,0,583,664,100.0,Estonian <>
+gnome-nibbles,526,0,0,130,0,0,438,526,100.0,Estonian <>
+gnome-online-accounts,1138,0,0,305,0,0,1009,1138,100.0,Estonian <>
+gnome-packagekit,5035,0,0,812,0,0,3899,5035,100.0,Estonian <>
+gnome-photos,301,0,0,100,0,0,256,301,100.0,Estonian <gnome-et-list@gnome.org>
+gnome-power-manager,432,0,0,144,0,0,310,432,100.0,Estonian <gnome-et@linux.ee>
+gnome-robots,823,0,0,163,0,0,685,823,100.0,Estonian <>
+gnome-screensaver,291,0,0,58,0,0,243,291,100.0,Estonian <gnome-et@linux.ee>
+gnome-screenshot,351,0,0,71,0,0,296,351,100.0,Estonian <>
+gnome-search-tool,1249,0,0,186,0,0,877,1249,100.0,Estonian <gnome-et@linux.ee>
+gnome-session,323,0,0,59,0,0,286,323,100.0,Estonian <>
+gnome-settings-daemon,3536,0,0,537,0,0,2724,3536,100.0,Estonian <>
+gnome-shell,1296,0,0,328,0,0,1048,1296,100.0,Estonian <>
+gnome-shell-extensions,358,0,0,68,0,0,291,358,100.0,Estonian <gnome-et-list@gnome.org>
+gnome-sudoku,462,0,0,112,0,0,414,462,100.0,Estonian <>
+gnome-system-log,420,0,0,66,0,0,341,420,100.0,Estonian <gnome-et@linux.ee>
+gnome-system-monitor,1289,0,0,292,0,0,1018,1289,100.0,Estonian <>
+gnome-terminal,2157,0,0,419,0,0,1695,2157,100.0,Estonian <>
+gnome-tetravex,108,0,0,40,0,0,104,108,100.0,Estonian <>
+gnome-themes,109,0,0,30,0,0,94,109,100.0,Estonian <gnome-et@linux.ee>
+gnome-themes-standard,24,0,0,9,0,0,17,24,100.0,Estonian <et@li.org>
+gnome-user-share,184,0,0,30,0,0,176,184,100.0,Estonian <et@li.org>
+gnome-vfs2,1519,0,0,305,0,0,1223,1519,100.0,Estonian <gnome-et@linux.ee>
+gnome-video-effects,256,0,0,68,0,0,176,256,100.0,Estonian <>
+gnome-weather,204,0,0,72,0,0,172,204,100.0,Estonian <gnome-et-list@gnome.org>
+gnomebaker,26,0,1160,12,0,279,23,1186,2.1922428330522767,Estonian <et@li.org>
+gnotime,113,307,1588,59,121,249,115,2008,5.627490039840637,Estonian <linux-l@eenet.ee>
+gnucash,969,628,1026,239,136,195,695,2623,36.942432329393824,Estonian <gnome-et@linux.ee>
+gnumeric,5437,3915,25694,1687,1028,2927,4631,35046,15.513896022370599,Estonian <linux-ee@lists.eenet.ee>
+gnupg,4440,2920,1280,636,474,187,3801,8640,51.388888888888886,Estonian <et@li.org>
+gnupg2,2524,6434,4479,424,1130,640,2224,13437,18.783954751804718,Estonian <et@li.org>
+goffice,1272,1540,3389,591,649,761,1177,6201,20.51282051282051,Estonian <gnome-et@linux.ee>
+goffice08,1430,938,2231,654,409,497,1325,4599,31.09371602522287,Estonian <gnome-et@linux.ee>
+gourmet,35,4,3900,23,2,867,42,3939,0.8885503935008886,Estonian <et@li.org>
+gparted,1416,85,300,311,7,24,1196,1801,78.62298722931705,Estonian <et@li.org>
+gpicview,236,0,0,52,0,0,186,236,100.0,Gnome Estonian Translation Team <gnome-et@linux.ee>
+gpsdrive,1941,180,44,338,19,6,1572,2165,89.65357967667437,Estonian <linux-ee@lists.eenet.ee>
+granatier,242,0,0,67,0,0,170,242,100.0,Estonian <kde-et@linux.ee>
+granite,138,0,18,50,0,7,123,156,88.46153846153845,Estonian <et@li.org>
+grantlee-editor,518,12,0,155,3,0,430,530,97.73584905660377,Estonian <kde-et@linux.ee>
+grep,881,0,0,107,0,0,774,881,100.0,Estonian <linux-ee@lists.eenet.ee>
+grub-customizer,0,0,1295,0,0,193,0,1295,0.0,Estonian <et@li.org>
+gthumb,3521,0,176,1122,0,50,2842,3697,95.23938328374358,Estonian <gnome-et@linux.ee>
+gtk+,202,0,0,105,0,0,186,202,100.0,Estonian
+gtk-murrine-engine,68,14,52,24,7,15,62,134,50.74626865671642,Estonian <gnome-et@linux.ee>
+gtk2,6595,569,5215,1688,99,794,5209,12379,53.27570886178204,Estonian <gnome-et@linux.ee>
+gtk2-engines,80,0,19,36,0,9,78,99,80.8080808080808,Estonian <gnome-et@linux.ee>
+gtk3,6539,1058,5080,1725,195,786,5242,12677,51.581604480555335,Estonian <gnome-et@linux.ee>
+gtk4,6539,1058,5080,1725,195,786,5242,12677,51.581604480555335,Estonian <gnome-et@linux.ee>
+gtkhtml3,488,0,0,310,0,0,445,488,100.0,Estonian <>
+gtksourceview2,1121,0,292,438,0,100,980,1413,79.33474876150035,Estonian <gnome-et@linux.ee>
+gtksourceview3,522,201,433,303,102,225,452,1156,45.15570934256055,Estonian <gnome-et@linux.ee>
+gtranslator,1672,0,0,390,0,0,1342,1672,100.0,Estonian <>
+gucharmap,1071,0,0,363,0,0,900,1071,100.0,Estonian <>
+gvfs,2555,0,0,565,0,0,2241,2555,100.0,Estonian <>
+gwenview,1243,39,23,347,11,4,1044,1305,95.24904214559386,Estonian <kde-et@linux.ee>
+hamster-time-tracker,696,1,0,171,1,0,625,697,99.85652797704448,Estonian <>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hexalate,0,0,60,0,0,4,0,60,0.0,Estonian (http://www.transifex.com/projects/p/hexalate/language/et/)
+hexchat,2998,0,2973,888,0,558,2507,5971,50.20934516831351,Estonian (http://www.transifex.com/hexchat/hexchat/language/et/)
+homebank,433,0,1986,233,0,534,390,2419,17.899958660603556,Estonian <et@li.org>
+iagno,4286,0,0,909,0,0,3465,4286,100.0,Estonian <>
+ibus,75,0,772,42,0,113,69,847,8.85478158205431,Estonian <trans-et@lists.fedoraproject.org>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+indent,210,47,15,45,8,2,197,272,77.20588235294117,Estonian <et@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Estonian
+initscripts,683,54,237,103,10,36,640,974,70.12320328542094,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+inkscape,11039,9163,18012,2826,3043,2276,8786,38214,28.88731878369184,Estonian <gnome-et@linux.ee>
+iso-codes,1420,3796,11224,715,2971,6849,1155,16440,8.637469586374696,Estonian
+isomaster,672,0,2,106,0,1,592,674,99.70326409495549,Edmund Laugasson <edmund.laugasson@eesti.ee>
+jmol,679,37,2450,342,20,659,649,3166,21.446620341124447,Estonian <Jmol-developers@lists.sf.net>
+json-glib,226,0,0,27,0,0,173,226,100.0,Estonian <gnome-et-list@gnome.org>
+juk,1408,40,5,346,7,2,1127,1453,96.9029593943565,Estonian <kde-et@linux.ee>
+k3b,18151,1919,151,2373,127,20,13980,20221,89.76311755106077,Estonian <kde-et@linux.ee>
+kBuild,502,0,3,80,0,1,422,505,99.4059405940594,Estonian <et@li.org>
+kaccounts-integration,42,2,38,8,1,3,27,82,51.21951219512195,Estonian <kde-i18n-doc@kde.org>
+kaccounts-providers,53,7,0,19,1,0,46,60,88.33333333333333,Estonian <kde-i18n-doc@kde.org>
+kactivitymanagerd,9,0,0,4,0,0,8,9,100.0,Estonian <kde-et@linux.ee>
+kaddressbook,730,15,0,163,4,0,495,745,97.98657718120806,Estonian <kde-i18n-doc@kde.org>
+kalarm,7094,224,18,1013,10,2,5307,7336,96.70119956379499,Estonian <kde-et@linux.ee>
+kalgebra,163,4,0,80,2,0,145,167,97.60479041916167,Estonian <kde-et@linux.ee>
+kalzium,10445,0,0,1533,0,0,7530,10445,100.0,Estonian <kde-et@linux.ee>
+kamera,342,0,0,37,0,0,256,342,100.0,Estonian <kde-et@linux.ee>
+kamoso,119,0,0,41,0,0,92,119,100.0,Estonian <kde-i18n-doc@kde.org>
+kanagram,528,0,0,145,0,0,426,528,100.0,Estonian <kde-et@linux.ee>
+kapman,114,0,0,36,0,0,98,114,100.0,Estonian <kde-et@linux.ee>
+kapptemplate,255,9,8,44,5,3,194,272,93.75,Estonian <kde-et@linux.ee>
+kate,4653,57,128,1126,9,29,3779,4838,96.1761058288549,Estonian <kde-et@linux.ee>
+katomic,185,0,0,59,0,0,165,185,100.0,Estonian <kde-et@linux.ee>
+kaudiocreator,1136,0,0,273,0,0,931,1136,100.0,Estonian <kde-et@linux.ee>
+kbibtex,2285,9,0,665,1,0,1859,2294,99.60767218831735,Estonian <kde-et@linux.ee>
+kblackbox,1360,0,0,101,0,0,950,1360,100.0,Estonian <kde-et@linux.ee>
+kblocks,153,6,0,37,1,0,129,159,96.22641509433963,Estonian <kde-et@linux.ee>
+kbounce,154,0,0,42,0,0,138,154,100.0,Estonian <kde-et@linux.ee>
+kbruch,1345,0,0,195,0,0,917,1345,100.0,Estonian <kde-et@linux.ee>
+kcachegrind,1724,2629,17,193,367,2,1270,4370,39.450800915331804,Estonian <kde-et@linux.ee>
+kcalc,976,0,0,326,0,0,757,976,100.0,Estonian <kde-et@linux.ee>
+kcharselect,88,0,0,34,0,0,81,88,100.0,Estonian <kde-i18n-doc@kde.org>
+kcm_wacomtablet,139,459,300,52,89,58,112,898,15.478841870824054,Estonian <kde-et@linux.ee>
+kcolorchooser,29,0,0,10,0,0,26,29,100.0,Estonian <kde-et@linux.ee>
+kcoloredit,278,0,0,95,0,0,229,278,100.0,Estonian <kde-et@linux.ee>
+kcron,534,0,0,190,0,0,457,534,100.0,Estonian <kde-et@linux.ee>
+kde-cli-tools,2056,38,3,211,4,1,1548,2097,98.04482594182164,Estonian <kde-et@linux.ee>
+kde-connect,530,111,57,132,9,27,435,698,75.93123209169055,Estonian <kde-i18n-doc@kde.org>
+kde-dev-utils,68,9,17,25,2,8,57,94,72.3404255319149,Estonian <kde-et@linux.ee>
+kde-gtk-config,280,10,19,70,2,4,230,309,90.61488673139159,Estonian <kde-i18n-doc@kde.org>
+kde-l10n,105071,81,8,21161,13,2,83431,105160,99.91536705971853,Estonian <kde-et@linux.ee>
+kde-partitionmanager,1809,392,77,429,63,28,1424,2278,79.41176470588235,Estonian <kde-et@linux.ee>
+kde-print-manager,962,0,0,273,0,0,783,962,100.0,Estonian <kde-et@linux.ee>
+kdebugsettings,115,4,0,36,1,0,93,119,96.63865546218487,Estonian <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,42,0,0,12,0,0,37,42,100.0,Estonian <kde-et@kinux.ee>
+kdepim-addons,3796,72,47,742,10,7,2746,3915,96.96040868454662,Estonian <kde-et@linux.ee>
+kdepim-apps-libs,59,0,0,34,0,0,48,59,100.0,Estonian <kde-et@linux.ee>
+kdepim-runtime,6309,85,292,1127,11,15,4990,6686,94.36135207897098,Estonian <kde-et@linux.ee>
+kdeplasma-addons,1466,34,45,530,12,18,1354,1545,94.88673139158577,Estonian <kde-et@linux.ee>
+kdesdk-kioslaves,82,0,0,17,0,0,76,82,100.0,Estonian <kde-et@linux.ee>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Estonian <kde-et@linux.ee>
+kdevelop,11801,1075,406,2411,208,86,9343,13282,88.84957084776389,Estonian <kde-i18n-doc@kde.org>
+kdevelop-php,364,74,17,57,3,3,309,455,80.0,Estonian <kde-i18n-doc@kde.org>
+kdevelop-python,503,44,35,85,11,5,388,582,86.42611683848797,Estonian <kde-i18n-doc@kde.org>
+kdevplatform,8468,125,152,1748,42,22,6663,8745,96.83247570040024,Estonian <kde-et@linux.ee>
+kdf,181,0,0,69,0,0,161,181,100.0,Estonian <kde-et@linux.ee>
+kdialog,306,3,38,61,1,8,219,347,88.18443804034582,Estonian <kde-i18n-doc@kde.org>
+kdiamond,122,0,0,32,0,0,103,122,100.0,Estonian <kde-et@linux.ee>
+kdiff3,3770,0,0,663,0,0,3063,3770,100.0,Estonian <kde-et@linux.ee>
+kdnssd,21,9,0,6,1,0,14,30,70.0,Estonian <kde-et@linux.ee>
+keditbookmarks,462,4,0,131,1,0,386,466,99.14163090128756,Estonian <kde-i18n-doc@kde.org>
+keurocalc,3042,0,0,342,0,0,2220,3042,100.0,Estonian <kde-et@linux.ee>
+kexec-tools,0,0,83,0,0,12,0,83,0.0,LANGUAGE <LL@li.org>
+kexi,4263,2787,286,1151,298,42,3321,7336,58.11068702290076,Estonian <kde-et@linux.ee>
+kf5-akonadi-calendar,1807,0,0,251,0,0,1370,1807,100.0,Estonian <kde-et@linux.ee>
+kf5-akonadi-contacts,1390,2,6,284,1,1,1020,1398,99.4277539341917,Estonian <kde-et@linux.ee>
+kf5-akonadi-mime,572,0,0,107,0,0,434,572,100.0,Estonian <kde-et@linux.ee>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Estonian <kde-et@linux.ee>
+kf5-akonadi-search,10,0,38,4,0,7,10,48,20.833333333333336,Estonian <kde-i18n-doc@kde.org>
+kf5-akonadi-server,2293,69,81,405,9,11,1885,2443,93.86000818665575,Estonian <kde-et@linux.ee>
+kf5-audiocd-kio,844,0,0,178,0,0,689,844,100.0,Estonian <kde-et@linux.ee>
+kf5-baloo,509,42,121,121,6,35,368,672,75.74404761904762,Estonian <kde-i18n-doc@kde.org>
+kf5-calendarsupport,2967,0,0,409,0,0,2118,2967,100.0,Estonian <kde-et@linux.ee>
+kf5-eventviews,2903,3,0,312,1,0,1959,2906,99.89676531314522,Estonian <kde-et@linux.ee>
+kf5-grantleetheme,12,2,0,5,1,0,12,14,85.71428571428571,Estonian <kde-et@linux.ee>
+kf5-incidenceeditor,2309,52,0,424,10,0,1692,2361,97.7975434138077,Estonian <kde-et@linux.ee>
+kf5-kalarmcal,40,0,0,20,0,0,39,40,100.0,Estonian <kde-et@kinux.ee>
+kf5-kauth,39,34,0,5,3,0,27,73,53.42465753424658,Estonian <kde-i18n-doc@kde.org>
+kf5-kblog,243,0,0,27,0,0,167,243,100.0,Estonian <kde-et@linux.ee>
+kf5-kbookmarks,218,0,12,48,0,1,170,230,94.78260869565217,Estonian <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,1630,0,0,427,0,0,1415,1630,100.0,Estonian <kde-et@linux.ee>
+kf5-kcmutils,563,1,0,71,1,0,386,564,99.822695035461,Estonian <kde-et@linux.ee>
+kf5-kcodecs,348,0,0,53,0,0,257,348,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,14,18,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kconfig,257,4,0,97,3,0,221,261,98.46743295019157,Estonian <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,320,1,0,116,1,0,269,321,99.68847352024922,Estonian <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,148,177,100.0,Estonian <kde-et@linux.ee>
+kf5-kcoreaddons,215,86,0,73,22,0,199,301,71.42857142857143,Estonian <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,38,48,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,83,109,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,4496,4813,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,36,54,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,19,19,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Estonian <kde-et@linux.ee>
+kf5-kfilemetadata,132,4,12,69,3,10,118,148,89.1891891891892,Estonian <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,47,71,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kholidays,109,0,0,77,0,0,95,109,100.0,Estonian <kde-et@linux.ee>
+kf5-khtml,1721,0,0,310,0,0,1305,1721,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-ki18n,124,0,0,110,0,0,128,124,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kiconthemes,25,11,1,16,1,1,25,37,67.56756756756756,Estonian <kde-et@linux.ee>
+kf5-kidentitymanagement,165,0,0,21,0,0,126,165,100.0,Estonian <kde-et@linux.ee>
+kf5-kimap,99,0,0,48,0,0,89,99,100.0,Estonian <kde-et@linux.ee>
+kf5-kinit,131,3,0,13,1,0,105,134,97.76119402985076,Estonian <kde-i18n-doc@kde.org>
+kf5-kio,10876,931,358,1273,51,36,8323,12165,89.40402794903412,Estonian <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,6,7,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,123,0,0,36,0,0,105,123,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,213,248,100.0,Estonian <kde-et@linux.ee>
+kf5-kldap,177,0,2,50,0,1,154,179,98.88268156424581,Estonian <kde-et@linux.ee>
+kf5-kmailtransport,628,0,0,106,0,0,491,628,100.0,Estonian <kde-et@linux.ee>
+kf5-kmime,159,0,0,10,0,0,118,159,100.0,Estonian <kde-et@linux.ee>
+kf5-knewstuff,669,21,0,149,9,0,557,690,96.95652173913044,Estonian <kde-i18n-doc@kde.org>
+kf5-knotifications,18,0,0,6,0,0,15,18,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,93,129,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Estonian <kde-et@linux.ee>
+kf5-kpackage,366,105,24,85,8,4,302,495,73.93939393939394,Estonian <kde-i18n-doc@kde.org>
+kf5-kparts,104,0,0,26,0,0,82,104,100.0,Estonian <kde-et@linux.ee>
+kf5-kpeople,21,0,0,11,0,0,17,21,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,344,0,1,151,0,1,305,345,99.71014492753623,Estonian <kde-et@linux.ee>
+kf5-kpty,15,0,0,4,0,0,12,15,100.0,Estonian <kde-et@linux.ee>
+kf5-kross,100,0,0,35,0,0,85,100,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kservice,170,0,0,28,0,0,140,170,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-ksmtp,57,0,11,7,0,2,42,68,83.82352941176471,Estonian <kde-et@linux.ee>
+kf5-ktexteditor,8055,286,36,1189,24,3,6115,8377,96.15614181687955,Estonian <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,358,462,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-ktnef,355,0,0,143,0,0,354,355,100.0,Estonian <kde-et@linux.ee>
+kf5-kunitconversion,4405,674,187,1867,292,85,3914,5266,83.64982909229016,Estonian <kde-i18n-doc@kde.org>
+kf5-kwallet,1606,18,0,130,1,0,1224,1624,98.89162561576354,Estonian <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1295,24,0,451,7,0,1120,1319,98.18043972706596,Estonian <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1460,109,27,217,10,1,1138,1596,91.47869674185463,Estonian <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,10,13,100.0,Estonian <kde-et@linux.ee>
+kf5-libgravatar,27,0,0,12,0,0,26,27,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-libkcddb,557,0,0,251,0,0,510,557,100.0,Estonian <kde-et@linux.ee>
+kf5-libkcompactdisc,15,0,0,10,0,0,15,15,100.0,Estonian <kde-et@linux.ee>
+kf5-libkdepim,460,5,0,124,3,0,362,465,98.9247311827957,Estonian <kde-et@linux.ee>
+kf5-libkgeomap,139,0,0,46,0,0,113,139,100.0,Estonian <kde-et@linux.ee>
+kf5-libkleo,799,74,277,186,32,72,653,1150,69.47826086956522,Estonian <kde-i18n-doc@kde.org>
+kf5-libksane,272,0,0,83,0,0,233,272,100.0,Estonian <kde-et@linux.ee>
+kf5-libksieve,3316,12,25,546,3,4,2584,3353,98.89651058753356,Estonian <kde-et@linux.ee>
+kf5-libktorrent,471,0,0,106,0,0,393,471,100.0,Estonian <kde-et@linux.ee>
+kf5-mailcommon,2654,26,121,449,6,12,2066,2801,94.75187433059622,Estonian <kde-et@linux.ee>
+kf5-mailimporter,1328,70,10,110,9,8,950,1408,94.31818181818183,Estonian <kde-et@linux.ee>
+kf5-messagelib,7438,145,17,1167,14,3,5835,7600,97.86842105263159,Estonian <kde-et@linux.ee>
+kf5-pimcommon,819,26,164,221,8,13,663,1009,81.16947472745292,Estonian <kde-i18n-doc@kde.org>
+kf5-plasma,498,2,6,144,1,3,380,506,98.41897233201581,Estonian <kde-i18n-doc@kde.org>
+kf5-solid,677,2,3,220,1,1,530,682,99.26686217008798,Estonian <kde-i18n-doc@kde.org>
+kf5-sonnet,663,0,0,72,0,0,522,663,100.0,Estonian <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,390,38,26,266,13,17,377,454,85.90308370044053,Estonian <kde-i18n-doc@kde.org>
+kfind,500,5,0,117,1,0,424,505,99.00990099009901,Estonian <kde-et@linux.ee>
+kflickr,91,0,241,62,0,25,88,332,27.40963855421687,Estonian <et@li.org>
+kfloppy,641,0,0,100,0,0,536,641,100.0,Estonian <kde-et@linux.ee>
+kfourinline,392,0,0,157,0,0,343,392,100.0,Estonian <kde-et@linux.ee>
+kgamma,130,0,0,16,0,0,96,130,100.0,Estonian <kde-et@linux.ee>
+kgeography,9658,39,2,7100,31,2,9103,9699,99.57727600783586,Estonian <kde-et@linux.ee>
+kget,2886,65,2,782,10,2,2475,2953,97.7311208940061,Estonian <kde-et@linux.ee>
+kgoldrunner,23548,9,0,907,1,0,16992,23557,99.96179479560216,Estonian <kde-et@linux.ee>
+kgpg,5275,2,5,696,1,1,4083,5282,99.86747444149944,Estonian <kde-et@linux.ee>
+kgrab,370,0,0,53,0,0,284,370,100.0,Estonian <kde-et@linux.ee>
+kgraphviewer,1251,0,0,242,0,0,902,1251,100.0,Estonian <kde-et@linux.ee>
+khangman,468,5,0,118,1,0,335,473,98.94291754756871,Estonian <kde-et@linux.ee>
+khelpcenter,256,0,0,87,0,0,207,256,100.0,Estonian <kde-et@linux.ee>
+khotkeys,432,4,0,127,2,0,361,436,99.08256880733946,Estonian <kde-et@linux.ee>
+kiconedit,726,0,0,155,0,0,556,726,100.0,Estonian <kde-et@linux.ee>
+kid3,2069,0,207,869,0,61,1836,2276,90.90509666080844,Estonian <kde-i18n-doc@kde.org>
+kig,7756,0,0,1291,0,0,5567,7756,100.0,Estonian <kde-et@linux.ee>
+kigo,485,8,7,120,5,4,402,500,97.0,Estonian <kde-et@linux.ee>
+kile,10978,172,12,1891,9,2,8288,11162,98.35154990145135,Estonian <kde-et@linux.ee>
+killbots,641,0,0,128,0,0,476,641,100.0,Estonian <kde-et@linux.ee>
+kinfocenter,2915,3,1,1008,1,1,2549,2919,99.86296676944158,Estonian <kde-et@linux.ee>
+kio-extras,905,3,7,126,1,1,711,915,98.90710382513662,Estonian <kde-et@linux.ee>
+kio-gdrive,2,0,12,1,0,1,2,14,14.285714285714285,Estonian <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Estonian <kde-et@linux.ee>
+kiriki,138,6,0,49,1,0,108,144,95.83333333333334,Estonian <kde-et@linux.ee>
+kiten,641,0,0,179,0,0,557,641,100.0,Estonian <kde-et@linux.ee>
+kjots,387,7,5,101,3,2,320,399,96.99248120300751,Estonian <kde-et@linux.ee>
+kjumpingcube,412,0,0,95,0,0,336,412,100.0,Estonian <kde-et@linux.ee>
+kleopatra,7166,614,834,1068,143,99,5751,8614,83.19015556071511,Estonian <kde-i18n-doc@kde.org>
+klettres,436,0,0,83,0,0,350,436,100.0,Estonian <kde-et@linux.ee>
+klickety,178,0,0,62,0,0,149,178,100.0,Estonian <kde-et@linux.ee>
+klines,99,0,0,28,0,0,83,99,100.0,Estonian <kde-et@lists.linux.ee>
+kmag,427,5,0,97,1,0,323,432,98.8425925925926,Estonian <kde-et@linux.ee>
+kmahjongg,336,4,0,97,1,0,297,340,98.82352941176471,Estonian <kde-et@linux.ee>
+kmail,8443,183,19,1284,31,3,6612,8645,97.6633892423366,Estonian <kde-et@linux.ee>
+kmail-account-wizard,750,49,0,126,2,0,606,799,93.86733416770964,Estonian <kde-i18n-doc@kde.org>
+kmenuedit,277,0,0,61,0,0,213,277,100.0,Estonian <kde-et@linux.ee>
+kmines,108,0,0,38,0,0,91,108,100.0,Estonian <kde-et@linux.ee>
+kmix,845,53,9,208,10,1,696,907,93.16427783902977,Estonian <kde-et@linux.ee>
+kmousetool,111,32,4,28,3,1,84,147,75.51020408163265,Estonian <kde-et@linux.ee>
+kmplayer,1248,1,0,370,1,0,1033,1249,99.919935948759,Estonian <kde-et@linux.ee>
+kmplot,2453,5,0,470,1,0,1755,2458,99.79658258746949,Estonian <kde-et@linux.ee>
+kmymoney,21026,0,0,3393,0,0,15962,21026,100.0,Estonian <kde-et@linux.ee>
+knavalbattle,398,0,1,101,0,1,333,399,99.74937343358395,Estonian <kde-et@linux.ee>
+knemo,1194,42,0,342,10,0,996,1236,96.60194174757282,Estonian <kde-et@linux.ee>
+knetwalk,230,0,0,54,0,0,175,230,100.0,Estonian <kde-et@linux.ee>
+knights,757,0,0,219,0,0,604,757,100.0,Estonian <kde-et@linux.ee>
+knotes,730,59,0,225,14,0,602,789,92.52217997465145,Estonian <kde-et@linux.ee>
+koffice-kivio,8417,0,0,2361,0,0,6912,8417,100.0,Estonian <kde-et@linux.ee>
+kolf,392,4,0,146,1,0,349,396,98.98989898989899,Estonian <kde-et@linux.ee>
+kollision,109,0,0,30,0,0,100,109,100.0,Estonian <kde-et@linux.ee>
+kolourpaint,2489,132,2,446,5,1,1953,2623,94.89134578726649,Estonian <kde-i18n-doc@kde.org>
+kompare,1422,8,0,190,6,0,1019,1430,99.44055944055944,Estonian <kde-et@linux.ee>
+konqueror,8933,49,45,1375,9,6,6980,9027,98.95867951700454,Estonian <kde-et@linux.ee>
+konquest,246,0,0,98,0,0,230,246,100.0,Estonian <kde-et@linux.ee>
+konsole5,2459,96,96,520,20,8,1875,2651,92.75745001886081,Estonian <kde-i18n-doc@kde.org>
+kontact,505,18,75,87,2,9,402,598,84.44816053511705,Estonian <kde-et@linux.ee>
+konversation,10169,81,44,1611,15,12,7994,10294,98.78570040800466,Estonian <kde-i18n-doc@kde.org>
+korganizer,6547,43,0,878,7,0,4620,6590,99.3474962063733,Estonian <kde-et@linux.ee>
+kpat,426,10,0,130,2,0,376,436,97.70642201834863,Estonian <kde-et@linux.ee>
+kphotoalbum,5310,2214,2040,625,250,144,3977,9564,55.520702634880806,Estonian <kde-et@linux.ee>
+kpilot,7156,0,0,861,0,0,5278,7156,100.0,Estonian <kde-et@lists.linux.ee>
+kpmcore,1020,1914,286,190,244,44,768,3220,31.67701863354037,Estonian <kde-et@linux.ee>
+krdc,1276,0,0,286,0,0,1004,1276,100.0,Estonian <kde-et@linux.ee>
+krecipes,3633,13,0,755,10,0,3008,3646,99.6434448710916,Estonian <kde-et@linux.ee>
+kreport,0,344,170,0,185,49,0,514,0.0,Estonian <kde-et@linux.ee>
+kreversi,200,32,196,64,7,70,182,428,46.728971962616825,Estonian <kde-et@lists.linux.ee>
+krfb,590,8,46,82,2,4,484,644,91.61490683229813,Estonian <kde-et@linux.ee>
+krita,17722,4215,3588,4598,1221,362,14386,25525,69.42997061704212,Estonian <kde-et@linux.ee>
+kruler,150,28,6,41,2,4,109,184,81.52173913043478,Estonian <kde-et@linux.ee>
+krusader,6558,1195,155,1538,154,29,5366,7908,82.92867981790592,Estonian <kde-et@linux.ee>
+kscreen,211,0,2,62,0,2,185,213,99.06103286384976,Estonian <kde-i18n-doc@kde.org>
+kscreenlocker,149,38,3,30,1,2,109,190,78.42105263157895,Estonian <kde-et@linux.ee>
+kshisen,522,0,0,66,0,0,386,522,100.0,Estonian <kde-et@linux.ee>
+ksig,85,0,0,26,0,0,66,85,100.0,Estonian <kde-et@linux.ee>
+ksirk,5748,10,5,758,3,1,4293,5763,99.73971889640812,Estonian <kde-et@linux.ee>
+ksnakeduel,231,0,0,53,0,0,200,231,100.0,Estonian <kde-et@linux.ee>
+kspaceduel,165,0,0,81,0,0,155,165,100.0,Estonian <kde-et@linux.ee>
+ksquares,257,0,0,76,0,0,176,257,100.0,Estonian <kde-et@linux.ee>
+ksshaskpass,43,0,0,12,0,0,38,43,100.0,Estonian <kde-i18n-doc@kde.org>
+kstars,27808,6234,22670,8697,1496,5740,22112,56712,49.033714205106506,Estonian <kde-i18n-doc@kde.org>
+ksudoku,1590,16,53,148,4,6,1225,1659,95.84086799276673,Estonian <kde-et@linux.ee>
+ksysguard,1059,4,15,231,1,1,860,1078,98.23747680890537,Estonian <kde-et@linux.ee>
+ksystemlog,2982,52,0,477,2,0,2235,3034,98.2860909690178,Estonian <kde-et@kinux.ee>
+kteatime,201,0,0,65,0,0,187,201,100.0,Estonian <kde-et@linux.ee>
+ktimer,241,0,0,51,0,0,162,241,100.0,Estonian <kde-et@linux.ee>
+ktorrent,7175,220,143,1340,27,15,5481,7538,95.18439904483948,Estonian <kde-et@linux.ee>
+ktouch,860,0,11,241,0,1,677,871,98.73708381171068,Estonian <kde-et@linux.ee>
+ktp-accounts-kcm,1100,0,0,309,0,0,921,1100,100.0,Estonian <kde-et@linux.ee>
+ktp-approver,71,0,0,18,0,0,62,71,100.0,Estonian <kde-et@linux.ee>
+ktp-auth-handler,83,0,0,24,0,0,70,83,100.0,Estonian <kde-et@linux.ee>
+ktp-common-internals,989,0,0,206,0,0,819,989,100.0,Estonian <kde-et@linux.ee>
+ktp-contact-list,408,0,0,109,0,0,360,408,100.0,Estonian <kde-et@linux.ee>
+ktp-contact-runner,177,0,0,35,0,0,142,177,100.0,Estonian <kde-et@linux.ee>
+ktp-desktop-applets,75,0,0,22,0,0,61,75,100.0,Estonian <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,122,141,100.0,Estonian <kde-et@linux.ee>
+ktp-kded-integration-module,277,0,0,54,0,0,203,277,100.0,Estonian <kde-et@linux.ee>
+ktp-send-file,60,0,0,18,0,0,46,60,100.0,Estonian <kde-et@linux.ee>
+ktp-text-ui,1441,0,0,321,0,0,1152,1441,100.0,Estonian <kde-et@linux.ee>
+ktuberling,104,3,51,34,1,3,88,158,65.82278481012658,Estonian <kde-et@linux.ee>
+kturtle,1527,0,0,346,0,0,1129,1527,100.0,Estonian <kde-et@linux.ee>
+kubrick,1186,8,9,162,2,1,981,1203,98.58686616791354,Estonian <kde-et@lists.linux.ee>
+kwalletmanager5,781,5,16,162,1,3,634,802,97.38154613466334,Estonian <kde-i18n-doc@kde.org>
+kwebkitpart,624,0,0,158,0,0,502,624,100.0,Estonian <kde-et@linux.ee>
+kwin,5928,171,132,1168,25,19,4752,6231,95.13721714010592,Estonian <kde-et@linux.ee>
+kwordquiz,2025,0,0,413,0,0,1440,2025,100.0,Estonian <kde-et@linux.ee>
+kxstitch,1848,84,34,531,21,8,1369,1966,93.99796541200406,Estonian <kde-et@linux.ee>
+l3afpad,130,0,0,64,0,0,132,130,100.0,Eesti <>
+ldm,0,0,55,0,0,19,0,55,0.0,Estonian <et@li.org>
+libbonobo,543,0,0,107,0,0,417,543,100.0,Estonian <gnome-et@linux.ee>
+libbonoboui,368,0,0,115,0,0,313,368,100.0,Estonian <gnome-et@linux.ee>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Estonian
+libcryptui,3012,0,0,654,0,0,2497,3012,100.0,Estonian <gnome-et@linux.ee>
+libgdata,695,0,0,85,0,0,542,695,100.0,Estonian <>
+libgdl,187,0,417,54,0,38,134,604,30.960264900662253,Estonian <gnome-et@linux.ee>
+libgnome,1773,0,0,273,0,0,1425,1773,100.0,Estonian <gnome-et@linux.ee>
+libgnome-keyring,44,0,0,9,0,0,36,44,100.0,Estonian <et@li.org>
+libgnomecanvas,378,0,0,95,0,0,312,378,100.0,Estonian <gnome-et@linux.ee>
+libgnomekbd,242,0,0,55,0,0,197,242,100.0,Estonian <gnome-et@linux.ee>
+libgnomeui,1226,0,0,320,0,0,904,1226,100.0,Estonian <gnome-et@linux.ee>
+libgtop2,126,0,0,40,0,0,103,126,100.0,Estonian <gnome-et@linux.ee>
+libgweather,6108,0,0,4522,0,0,5907,6108,100.0,Estonian <gnome-et@linux.ee>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,370,0,0,132,0,0,308,370,100.0,Estonian <kde-et@linux.ee>
+libkeduvocdocument,171,0,0,81,0,0,156,171,100.0,Estonian <kde-et@linux.ee>
+libkexif,25,0,0,14,0,0,19,25,100.0,Estonian <kde-et@linux.ee>
+libkfbapi,42,0,0,6,0,0,30,42,100.0,Estonian <kde-et@linux.ee>
+libkgapi,294,8,0,67,1,0,285,302,97.35099337748345,Estonian <kde-et@linux.ee>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Estonian <kde-et@linux.ee>
+libkomparediff2,143,0,0,19,0,0,106,143,100.0,Estonian <kde-et@linux.ee>
+libksysguard,2896,93,177,354,12,30,2251,3166,91.47188881869867,Estonian <kde-i18n-doc@kde.org>
+libktorrent,519,0,0,115,0,0,424,519,100.0,Estonian <kde-et@linux.ee>
+libmatekbd,251,0,0,43,0,0,202,251,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+libmatemixer,242,0,0,126,0,0,215,242,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+libmateweather,6097,0,27,4548,0,9,5930,6124,99.55911169170477,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+libosinfo,0,0,662,0,0,145,0,662,0.0,Estonian
+libpeas,105,0,0,26,0,0,80,105,100.0,Estonian <>
+libreoffice,478074,136,78138,71123,13,5407,343677,556348,85.93074838051004,Estonian <none>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Estonian (http://www.transifex.com/projects/p/libreport/language/et/)
+libsoup,79,0,0,20,0,0,70,79,100.0,Estonian <gnome-et-list@gnome.org>
+libuser,923,38,476,202,7,92,834,1437,64.23103688239388,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+libvirt,926,4741,56616,218,837,8607,926,62283,1.486762037795225,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Estonian (http://www.transifex.com/projects/p/libvirt-glib/language/et/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+libwnck,1082,0,0,230,0,0,866,1082,100.0,Estonian <gnome-et@linux.ee>
+libwnck3,1084,0,0,230,0,0,868,1084,100.0,Estonian <>
+libxfce4util,424,0,0,7,0,0,373,424,100.0,Eesti <>
+libzypp,1060,241,1060,731,58,161,975,2361,44.89623041084286,Estonian <linux-ee@lists.eenet.ee>
+light-locker,7,0,253,2,0,35,5,260,2.6923076923076925,Estonian (http://www.transifex.com/the_cavalry/light-locker/language/et/)
+lightdm,42,0,121,15,0,6,41,163,25.766871165644172,Estonian <et@li.org>
+lightdm-gtk,68,0,19,22,0,3,59,87,78.16091954022988,Estonian <et@li.org>
+lightdm-settings,251,0,20,57,0,2,176,271,92.619926199262,Estonian <et@li.org>
+lightsoff,39,0,0,12,0,0,55,39,100.0,Estonian <>
+lokalize,3557,0,0,595,0,0,2640,3557,100.0,Estonian <kde-et@linux.ee>
+lskat,254,0,0,83,0,0,206,254,100.0,Estonian <kde-et@linux.ee>
+lxappearance,217,0,17,77,0,3,171,234,92.73504273504274,LANGUAGE <LL@li.org>
+lxappearance-obconf,196,0,0,27,0,0,159,196,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,44,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,64,83,100.0,Gnome Estonian Translation Team <gnome-et@linux.ee>
+lxlauncher,58,0,0,17,0,0,48,58,100.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lxmenu-data,97,0,0,37,0,0,84,97,100.0,Estonian <gnome-et@linux.ee>
+lxmusic,203,0,0,89,0,0,173,203,100.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lxrandr,101,43,23,28,5,8,90,167,60.47904191616767,Gnome Estonian Translation Team <gnome-et@linux.ee>
+lxsession,184,50,521,72,17,77,159,755,24.370860927152318,Gnome Estonian Translation Team <gnome-et@linux.ee>
+lxshortcut,43,0,0,19,0,0,34,43,100.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lxtask,130,0,0,51,0,0,118,130,100.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lxterminal,202,0,0,98,0,0,176,202,100.0,Gnome Estonian Translation Team <gnome-et linux ee>
+lynx,8348,0,0,1260,0,0,6908,8348,100.0,Estonian <linux-ee@lists.eenet.ee>
+mailman,17969,2640,3434,1279,74,87,13094,24043,74.73692966767874,Estonian <et@li.org>
+man-db,192,28,15,42,4,8,169,235,81.70212765957446,Estonian <linux-ee@lists.eenet.ee>
+manaplus,14,0,4370,12,0,1394,14,4384,0.3193430656934307,Estonian (http://www.transifex.com/projects/p/manaplus/language/et/)
+marble,10270,404,721,2925,164,221,8312,11395,90.12724879333041,Estonian <kde-et@linux.ee>
+marco,3512,0,636,374,0,39,2611,4148,84.66730954676953,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+massif-visualizer,385,0,0,108,0,0,316,385,100.0,Estonian <kde-et@linux.ee>
+mate-applets,2319,0,170,532,0,28,1884,2489,93.16994777018883,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-backgrounds,51,0,0,28,0,0,48,51,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-calc,1308,0,63,419,0,1,1134,1371,95.40481400437638,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-control-center,2554,0,104,603,0,25,2127,2658,96.08728367193379,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-desktop,1845,0,460,272,0,27,1522,2305,80.04338394793926,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-media,212,0,14,91,0,5,187,226,93.80530973451327,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-menu,238,0,78,98,0,20,212,316,75.31645569620254,Estonian (http://www.transifex.com/mate/MATE/language/et/)
+mate-menus,97,0,0,37,0,0,84,97,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-notification-daemon,139,0,0,37,0,0,124,139,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-panel,4168,0,196,570,0,20,3226,4364,95.50870760769936,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-polkit,103,0,19,17,0,3,78,122,84.42622950819673,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-power-manager,2333,0,391,398,0,42,1869,2724,85.64610866372982,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-screensaver,975,0,8,154,0,2,719,983,99.18616480162767,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-sensors-applet,306,0,0,106,0,0,290,306,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-session-manager,536,0,145,105,0,9,435,681,78.70778267254039,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-settings-daemon,1630,0,134,239,0,14,1335,1764,92.40362811791383,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-system-monitor,926,0,407,245,0,68,784,1333,69.46736684171043,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-terminal,4304,0,345,509,0,16,2897,4649,92.57904925790493,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-themes,33,0,27,7,0,5,25,60,55.00000000000001,Estonian (http://www.transifex.com/mate/MATE/language/et/)
+mate-user-guide,157,0,40664,93,0,2838,169,40821,0.3846059626172803,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+mate-utils,3607,0,70,653,0,7,2678,3677,98.09627413652434,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+maya-calendar,427,0,0,172,0,0,403,427,100.0,Estonian <et@li.org>
+mbox-importer,36,4,0,12,1,0,30,40,90.0,Estonian <kde-et@linux.ee>
+mc,4106,13,34,1211,1,6,3706,4153,98.86828798458946,Estonian (http://www.transifex.com/mc/mc/language/et/)
+metacity,2040,0,0,310,0,0,1705,2040,100.0,Estonian <>
+midori,3200,0,341,746,0,50,2632,3541,90.369951990963,
+minetest,397,303,5706,163,143,718,391,6406,6.197315017171402,Estonian <https://hosted.weblate.org/projects/minetest/minetest/et/>
+mingw-GConf2,2728,0,1286,393,0,90,2310,4014,67.96213253612356,Estonian <gnome-et@linux.ee>
+mingw-atk,398,0,0,139,0,0,285,398,100.0,Estonian <>
+mingw-colorhug-client,15,0,1394,7,0,287,15,1409,1.0645848119233499,Estonian (http://www.transifex.com/projects/p/colorhug-client/language/et/)
+mingw-gdk-pixbuf,1360,0,0,203,0,0,1095,1360,100.0,Estonian <>
+mingw-gettext,350,1518,5477,62,155,522,344,7345,4.765146358066712,Estonian <et@li.org>
+mingw-glib-networking,161,0,0,29,0,0,128,161,100.0,Estonian <>
+mingw-glib2,2968,382,2051,537,57,241,2592,5401,54.95278652101463,Estonian <gnome-et@linux.ee>
+mingw-gtk2,6595,569,5215,1688,99,794,5209,12379,53.27570886178204,Estonian <gnome-et@linux.ee>
+mingw-gtk3,6539,1058,5080,1725,195,786,5242,12677,51.581604480555335,Estonian <gnome-et@linux.ee>
+mingw-gtksourceview3,522,201,433,303,102,225,452,1156,45.15570934256055,Estonian <gnome-et@linux.ee>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Estonian
+mingw-libsoup,79,0,0,20,0,0,70,79,100.0,Estonian <gnome-et-list@gnome.org>
+mingw-libvirt,926,4741,56616,218,837,8607,926,62283,1.486762037795225,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Estonian (http://www.transifex.com/projects/p/libvirt-glib/language/et/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Estonian (http://www.transifex.com/freedesktop/p11-kit/language/et/)
+mingw-qt5-qtwebkit,969,636,1026,239,138,195,695,2631,36.830102622576966,Estonian <gnome-et@linux.ee>
+mingw-webkitgtk,969,628,1026,239,136,195,695,2623,36.942432329393824,Estonian <gnome-et@linux.ee>
+mingw-webkitgtk3,969,628,1026,239,136,195,695,2623,36.942432329393824,Estonian <gnome-et@linux.ee>
+mintmenu,3374,0,4098,883,0,345,2796,7472,45.15524625267666,Estonian <et@li.org>
+mlocate,270,0,311,44,0,7,252,581,46.47160068846816,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+moodle,52,0,0,14,0,0,44,52,100.0,i18n@lists.horde.org
+mousetweaks,114,0,0,30,0,0,98,114,100.0,Estonian <>
+mozo,42,0,0,16,0,0,35,42,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+muffin,2071,0,0,283,0,0,1715,2071,100.0,Estonian <>
+mutt,3382,1317,1091,794,224,182,2932,5790,58.41105354058722,Estonian <et@li.org>
+mutter,2063,0,0,276,0,0,1690,2063,100.0,Estonian <>
+nautilus,6236,7,0,1049,1,0,4871,6243,99.88787441934967,Estonian <gnome-et@linux.ee>
+nautilus-sendto,45,0,0,8,0,0,37,45,100.0,Estonian <>
+nemo-extensions,285,0,10,56,0,4,248,295,96.61016949152543,eesti <et@li.org>
+net-tools,2439,0,10,532,0,2,2388,2449,99.59167006941608,Estonian <linux-ee@eenet.ee>
+network-manager-applet,1783,1177,1443,488,195,245,1506,4403,40.4951169657052,Estonian <>
+newt,4,0,0,4,0,0,4,4,100.0,ESTONIAN <linuxiabi@hot.ee>
+noise,1294,0,28,371,0,6,1106,1322,97.88199697428139,Estonian <et@li.org>
+notification-daemon,17,0,0,7,0,0,15,17,100.0,Estonian <et@li.org>
+obconf,686,0,52,144,0,12,557,738,92.95392953929539,Estonian <et@li.org>
+okteta,2509,4,0,602,1,0,1835,2513,99.84082769598089,Estonian <kde-et@linux.ee>
+okular,4044,88,374,838,14,27,3177,4506,89.74700399467378,Estonian <kde-et@linux.ee>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+onboard,100,0,2218,35,0,475,88,2318,4.3140638481449525,Estonian <et@li.org>
+openbox,479,0,27,91,0,3,386,506,94.66403162055336,Estonian <et@li.org>
+openerp,7146,0,46126,3076,0,5066,6062,53272,13.41417630274816,
+openerp-client,1771,0,5958,478,0,96,1522,7729,22.913701643162117,Estonian <et@li.org>
+openerp7,5711,0,43444,2489,0,4369,4849,49155,11.61835011697691,Estonian <et@li.org>
+openjfx,969,628,1026,239,136,195,695,2623,36.942432329393824,Estonian <gnome-et@linux.ee>
+orage,1689,0,912,708,0,134,1561,2601,64.9365628604383,Estonian (http://www.transifex.com/projects/p/xfce/language/et/)
+orca,729,327,3344,360,183,866,695,4400,16.568181818181817,Estonian <gnome-et@linux.ee>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Estonian (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/et/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Estonian
+p11-kit,0,0,476,0,0,81,0,476,0.0,Estonian (http://www.transifex.com/freedesktop/p11-kit/language/et/)
+palapeli,1474,38,0,176,4,0,1046,1512,97.4867724867725,Estonian <kde-et@linux.ee>
+pam,158,7,432,38,2,80,137,597,26.46566164154104,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+pam_krb5,7,0,0,4,0,0,7,7,100.0,Estonian (http://www.transifex.com/projects/p/pam_krb5/language/et/)
+pan,251,1763,1154,97,465,190,235,3168,7.9229797979797985,Estonian <gnome-et@linux.ee>
+pantheon-agent-geoclue2,0,0,43,0,0,11,0,43,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,13,3,4,6,1,3,13,20,65.0,LANGUAGE <LL@li.org>
+pantheon-calculator,78,0,0,36,0,0,81,78,100.0,LANGUAGE <LL@li.org>
+pantheon-files,2437,0,239,472,0,51,2082,2676,91.06875934230195,Estonian <et@li.org>
+pantheon-greeter,29,0,0,10,0,0,24,29,100.0,Estonian <et@li.org>
+pantheon-photos,3367,0,610,739,0,117,2890,3977,84.66180538094041,Estonian (http://www.transifex.com/projects/p/shotwell/language/et/)
+pantheon-terminal,224,0,0,58,0,0,179,224,100.0,Estonian <et@li.org>
+parley,3827,15,0,745,7,0,2883,3842,99.60957834461219,Estonian <kde-et@linux.ee>
+passwd,0,0,336,0,0,57,0,336,0.0,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+pastebinit,4,0,179,1,0,26,4,183,2.185792349726776,Estonian <et@li.org>
+pcmanfm,1210,0,0,296,0,0,928,1210,100.0,LANGUAGE <LL@li.org>
+pdfmod,316,0,0,89,0,0,279,316,100.0,Estonian <et@li.org>
+php-horde-Horde-Alarm,13,0,0,5,0,0,11,13,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,60,0,0,13,0,0,57,60,100.0,i18n@lists.horde.org
+php-horde-Horde-Auth,173,0,0,12,0,0,134,173,100.0,i18n@lists.horde.org
+php-horde-Horde-Browser,66,0,0,6,0,0,49,66,100.0,i18n@lists.horde.org
+php-horde-Horde-Cli,11,0,0,3,0,0,10,11,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,25,0,0,6,0,0,24,25,100.0,i18n@lists.horde.org
+php-horde-Horde-Core,845,0,0,227,0,0,683,845,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,399,0,0,98,0,0,348,399,100.0,i18n@lists.horde.org
+php-horde-Horde-Data,7,0,0,2,0,0,6,7,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,42,0,0,12,0,0,44,42,100.0,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,i18n@lists.horde.org
+php-horde-Horde-Form,557,0,0,147,0,0,463,557,100.0,i18n@lists.horde.org
+php-horde-Horde-Icalendar,3,0,0,1,0,0,2,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,22,136,423,21,78,186,22,581,3.7865748709122204,i18n@lists.horde.org
+php-horde-Horde-Imsp,3,0,0,1,0,0,2,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,56,0,0,10,0,0,38,56,100.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,456,0,0,47,0,0,401,456,100.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,10,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,48,0,0,12,0,0,40,48,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,47,47,100.0,i18n@lists.horde.org
+php-horde-Horde-Nls,668,0,0,446,0,0,582,668,100.0,i18n@lists.horde.org
+php-horde-Horde-Perms,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,22,10,0,7,1,0,17,32,68.75,i18n@lists.horde.org
+php-horde-Horde-Rpc,48,0,0,7,0,0,48,48,100.0,i18n@lists.horde.org
+php-horde-Horde-Share,18,12,18,7,2,3,14,48,37.5,i18n@lists.horde.org
+php-horde-Horde-SyncMl,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,39,0,0,3,0,0,36,39,100.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,10,10,100.0,i18n@lists.horde.org
+php-horde-horde,3586,0,0,962,0,0,2995,3586,100.0,Estonian <dev@lists.horde.org>
+php-horde-imp,6722,0,0,1356,0,0,5418,6722,100.0,Estonian <dev@lists.horde.org>
+php-horde-ingo,909,0,0,239,0,0,751,909,100.0,Estonian <i18n@lists.horde.org>
+php-horde-kronolith,3633,0,0,784,0,0,2964,3633,100.0,
+php-horde-mnemo,536,0,0,152,0,0,443,536,100.0,i18n@lists.horde.org
+php-horde-nag,1366,0,0,335,0,0,1131,1366,100.0,
+php-horde-passwd,326,0,0,65,0,0,289,326,100.0,Estonian <i18n@lists.horde.org>
+php-horde-turba,1750,0,0,415,0,0,1370,1750,100.0,Estonian <dev@lists.horde.org>
+php-phpmyadmin-sql-parser,227,0,0,44,0,0,169,227,100.0,Estonian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/et/>
+picard,2721,0,172,1222,0,23,2284,2893,94.05461458693398,Estonian (http://www.transifex.com/projects/p/musicbrainz/language/et/)
+picmi,197,0,0,114,0,0,169,197,100.0,Estonian <kde-et@linux.ee>
+pidgin,11342,0,4414,2750,0,683,9750,15756,71.98527545062198,Estonian (http://www.transifex.com/pidgin/pidgin/language/et/)
+pim-data-exporter,670,58,11,174,10,2,598,739,90.66305818673884,Estonian <kde-et@linux.ee>
+pim-sieve-editor,258,49,128,80,16,21,227,435,59.310344827586206,Estonian <kde-i18n-doc@kde.org>
+pinta,330,0,1288,212,0,316,324,1618,20.395550061804695,Estonian <et@li.org>
+pitivi,1706,0,0,437,0,0,1367,1706,100.0,Estonian <et@li.org>
+pix,3718,0,0,1202,0,0,3019,3718,100.0,Estonian <gnome-et@linux.ee>
+plank,189,0,0,50,0,0,168,189,100.0,Estonian <et@li.org>
+planner,1834,0,0,533,0,0,1547,1834,100.0,Estonian <gnome-et@linux.ee>
+plasma-breeze,239,8,16,89,4,4,211,263,90.8745247148289,Estonian <kde-i18n-doc@kde.org>
+plasma-desktop,11547,776,285,2206,84,66,9230,12608,91.5847081218274,Estonian <kde-et@linux.ee>
+plasma-discover,905,109,182,279,42,40,742,1196,75.66889632107024,Estonian <kde-i18n-doc@kde.org>
+plasma-drkonqi,3923,81,11,370,6,1,3088,4015,97.70859277708593,Estonian <kde-i18n-doc@kde.org>
+plasma-integration,58,0,0,21,0,0,53,58,100.0,Estonian <kde-i18n-doc@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,167,172,100.0,Estonian <kde-et@linux.ee>
+plasma-milou,33,0,9,14,0,3,24,42,78.57142857142857,Estonian <kde-i18n-doc@kde.org>
+plasma-nm,3660,284,321,965,59,40,2998,4265,85.8147713950762,Estonian <kde-et@linux.ee>
+plasma-oxygen,788,5,15,288,3,4,683,808,97.52475247524752,Estonian <kde-et@linux.ee>
+plasma-pa,111,23,37,45,11,16,98,171,64.91228070175438,Estonian <kde-i18n-doc@kde.org>
+plasma-sdk,818,23,13,244,3,3,659,854,95.78454332552693,Estonian <kde-i18n-doc@kde.org>
+plasma-systemsettings,181,19,24,42,4,9,150,224,80.80357142857143,Estonian <kde-et@linux.ee>
+plasma-user-manager,286,0,9,47,0,2,232,295,96.94915254237289,Estonian <kde-i18n-doc@kde.org>
+plasma-workspace,6686,258,53,2183,33,24,5713,6997,95.55523795912534,Estonian <kde-et@linux.ee>
+playonlinux,1116,0,1612,279,0,170,881,2728,40.909090909090914,Estonian <et@li.org>
+pluma,4582,0,486,1080,0,28,3708,5068,90.4104183109708,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+pmount,0,0,723,0,0,63,0,723,0.0,Estonian <et@li.org>
+po4a,1854,0,0,195,0,0,1540,1854,100.0,Estonian <https://hosted.weblate.org/projects/po4a/po4a/et/>
+poedit,2209,0,430,559,0,32,1790,2639,83.7059492231906,Estonian
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+polkit-kde,90,2,0,27,1,0,80,92,97.82608695652173,Estonian <kde-et@linux.ee>
+powerdevil,665,0,8,117,0,3,554,673,98.81129271916791,Estonian <kde-i18n-doc@kde.org>
+pychess,477,0,3978,161,0,718,408,4455,10.707070707070706,Estonian (http://www.transifex.com/gbtami/pychess/language/et/)
+pyhoca-gui,1763,0,75,366,0,32,1440,1838,95.91947769314473,Estonia <x2go-i18n@lists.x2go.org>
+pykickstart,0,0,1437,0,0,159,0,1437,0.0,Estonian
+python-blivet,86,0,606,18,0,79,77,692,12.427745664739884,Estonian (http://www.transifex.com/projects/p/blivet/language/et/)
+python-blivet1,84,0,623,18,0,114,75,707,11.881188118811881,Estonian
+python-caja,6,0,0,2,0,0,5,6,100.0,Estonian (https://www.transifex.com/mate/teams/13566/et/)
+python-django,3607,0,5,818,0,1,3095,3612,99.86157253599114,Estonian (http://www.transifex.com/django/django/language/et/)
+python-django-countries,277,0,162,205,0,59,242,439,63.097949886104786,Estonian (http://www.transifex.com/smileychris/django-countries/language/et/)
+python-django-extensions,1,0,41,1,0,13,1,42,2.380952380952381,LANGUAGE <LL@li.org>
+python-django-formtools,16,0,16,6,0,5,15,32,50.0,Estonian (http://www.transifex.com/projects/p/django-formtools/language/et/)
+python-django-rest-framework,489,0,93,73,0,28,408,582,84.02061855670104,Estonian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/et/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Estonian
+python-flask-admin,344,0,17,104,0,5,304,361,95.29085872576178,Estonian
+python-formencode,534,70,209,77,8,30,407,813,65.68265682656826,ESTONIAN <ET@li.org>
+python-lettuce,6945,0,266,2144,0,141,5858,7211,96.31119123561226,Django-i18n <django-i18n@googlegroups.com>
+python-meh,0,0,109,0,0,23,0,109,0.0,Estonian
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Estonian
+python-sphinx,520,0,679,185,0,84,465,1199,43.36947456213511,Estonian (http://www.transifex.com/sphinx-doc/sphinx-1/language/et/)
+qdigidoc,14,0,0,2,0,0,12,14,100.0,Estonian
+qtwebkit,991,0,83,244,0,15,711,1074,92.27188081936686,Estonian <gnome-et@linux.ee>
+quadrapassel,325,0,0,79,0,0,253,325,100.0,Estonian <>
+quassel,82,0,5340,56,0,1169,80,5422,1.5123570638140909,Estonian (http://www.transifex.com/ald/quassel/language/et/)
+radiotray,130,0,0,46,0,0,116,130,100.0,Estonian (http://www.transifex.com/projects/p/radiotray/language/et/)
+rapid-photo-downloader,91,0,1647,55,0,333,90,1738,5.23590333716916,Estonian <et@li.org>
+realmd,0,0,789,0,0,127,0,789,0.0,Estonian (http://www.transifex.com/freedesktop/realmd/language/et/)
+redhat-menus,253,0,0,81,0,0,212,253,100.0,Estonian <gnome-et@linux.ee>
+redshift,5,0,1021,1,0,150,4,1026,0.4873294346978557,Estonian <et@li.org>
+rekonq,1802,353,47,499,81,13,1502,2202,81.83469573115349,Estonian <kde-et@linux.ee>
+remmina,252,0,1883,118,0,413,241,2135,11.80327868852459,Estonian <et@li.org>
+renameutils,191,19,55,40,3,11,173,265,72.0754716981132,Estonian <linux-ee@lists.eenet.ee>
+revelation,581,0,1364,255,0,147,537,1945,29.871465295629818,Estonian (http://www.transifex.com/projects/p/revelation/language/et/)
+rhn-client-tools,891,58,3108,171,5,244,691,4057,21.962040916933695,Estonian (http://www.transifex.com/projects/p/spacewalk/language/et/)
+rhnsd,20,0,13,5,0,4,18,33,60.60606060606061,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+rhythmbox,5003,24,81,1183,11,15,4116,5108,97.94440093970242,Estonian <gnome-et@linux.ee>
+rocs,1352,5,19,280,1,2,1065,1376,98.25581395348837,Estonian <kde-et@linux.ee>
+rsibreak,922,148,28,135,13,5,617,1098,83.97085610200364,Estonian <kde-et@linux.ee>
+rt,4894,0,6514,1320,0,1258,4313,11408,42.89971949509116,Estonian <et@li.org>
+rygel,669,0,0,142,0,0,598,669,100.0,Estonian <gnome-et@linux.ee>
+sawfish,939,1622,3882,271,345,366,752,6443,14.573956231569143,Estonian <gnome-et@linux.ee>
+scratch,1464,0,6,622,0,4,1351,1470,99.59183673469387,LANGUAGE <LL@li.org>
+scratch-text-editor,890,0,0,213,0,0,764,890,100.0,Estonian <et@li.org>
+screenshot-tool,146,0,0,44,0,0,133,146,100.0,Estonian <et@li.org>
+sddm-kcm,58,2,44,30,1,12,47,104,55.769230769230774,Estonian <kde-i18n-doc@kde.org>
+seahorse,2486,0,0,570,0,0,2096,2486,100.0,Estonian <gnome-et@linux.ee>
+seahorse-caja,411,10,0,109,1,0,383,421,97.62470308788599,Estonian <gnome-et@linux.ee>
+seahorse-nautilus,411,10,0,109,1,0,383,421,97.62470308788599,Estonian <gnome-et@linux.ee>
+sed,810,0,0,141,0,0,706,810,100.0,Estonian <linux-ee@lists.eenet.ee>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+setuptool,47,0,8,13,0,1,42,55,85.45454545454545,Eesti
+sflphone,1476,158,1533,344,62,407,1226,3167,46.60562046100411,Estonian <et@li.org>
+shared-mime-info,0,0,1915,0,0,743,0,1915,0.0,Estonian (http://www.transifex.com/freedesktop/shared-mime-info/language/et/)
+sharutils,2974,173,0,299,5,0,2382,3147,94.50270098506515,Estonian <linux-ee@lists.eenet.ee>
+shotwell,4278,7,268,906,1,39,3591,4553,93.96002635624863,Estonian (http://www.transifex.com/projects/p/shotwell/language/et/)
+shutter,716,0,2377,273,0,333,679,3093,23.149046233430326,Estonian <et@li.org>
+simon,11076,736,4,2397,52,2,8438,11816,93.73730534867975,Estonian <kde-et@linux.ee>
+simple-scan,349,0,240,89,0,56,323,589,59.25297113752123,Estonian <et@li.org>
+skanlite,179,4,0,62,1,0,142,183,97.81420765027322,Estonian <kde-et@linux.ee>
+skrooge,6812,2476,2269,1666,477,273,5530,11557,58.94263217097863,Estonian <kde-et@linux.ee>
+slick-greeter,211,0,0,47,0,0,166,211,100.0,Estonian <et@li.org>
+slingshot-launcher,216,0,1,67,0,1,181,217,99.53917050691244,Estonian <https://l10n.elementary.io/projects/wingpanel/applications-menu/et/>
+smb4k,4769,813,690,561,75,50,3434,6272,76.03635204081633,Estonian <kde-et@linux.ee>
+snap-photobooth,25,0,0,5,0,0,25,25,100.0,Estonian <et@li.org>
+snapper,3,307,433,3,77,100,3,743,0.4037685060565276,Estonian <et@li.org>
+solfege,9033,0,297,1221,0,81,7213,9330,96.81672025723472,Estonian <linux-ee@lists.eenet.ee>
+sos,0,0,122,0,0,30,0,122,0.0,none
+sound-juicer,1134,0,0,204,0,0,1021,1134,100.0,Estonian <gnome-et@linux.ee>
+soundconverter,242,0,146,97,0,24,217,388,62.371134020618555,Estonian <et@li.org>
+soundkonverter,3940,0,122,548,0,22,2989,4062,96.99655342195963,Estonian (http://www.transifex.com/hessijames/soundkonverter/language/et/)
+spacefm,465,8,8249,178,3,1387,368,8722,5.3313460215546895,Estonian (http://www.transifex.com/projects/p/spacefm/language/et/)
+spectacle,455,9,47,83,3,5,348,511,89.04109589041096,Estonian <kde-i18n-doc@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Estonian (Estonia) (http://www.transifex.com/heldercorreia/speedcrunch/language/et_EE/)
+squirrelmail,3169,0,2601,875,0,243,2715,5770,54.922010398613516,Estonian <squirrelmail-i18n@lists.sourceforge.net>
+steadyflow,307,0,163,66,0,27,254,470,65.31914893617021,Estonian <et@li.org>
+stellarium,1689,0,65351,772,0,25459,1474,67040,2.5193914081145583,Estonian (https://www.transifex.com/stellarium/teams/80998/et/)
+step,1043,862,0,450,225,0,1019,1905,54.750656167979,Estonian <kde-et@linux.ee>
+subdownloader,968,0,0,272,0,0,800,968,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+supertux,308,0,2672,124,0,794,256,2980,10.335570469798657,Estonian (http://www.transifex.com/arctic-games/supertux/language/et/)
+sushi,24,0,0,11,0,0,22,24,100.0,Estonian <gnome-et@linux.ee>
+svgpart,22,0,0,7,0,0,19,22,100.0,Estonian <kde-et@linux.ee>
+sweeper,229,0,0,50,0,0,182,229,100.0,Estonian <kde-et@linux.ee>
+swell-foop,139,0,0,42,0,0,133,139,100.0,Estonian <>
+switchboard,45,0,16,14,0,4,43,61,73.77049180327869,Estonian <et@li.org>
+switchboard-plug-a11y,182,5,2,65,2,1,137,189,96.29629629629629,LANGUAGE <LL@li.org>
+switchboard-plug-about,35,39,43,17,6,14,31,117,29.914529914529915,Estonian <et@li.org>
+switchboard-plug-applications,39,0,52,17,0,14,36,91,42.857142857142854,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,73,0,0,27,0,73,0.0,Estonian <et@li.org>
+switchboard-plug-display,33,14,57,15,7,19,26,104,31.73076923076923,Estonian <et@li.org>
+switchboard-plug-keyboard,264,73,66,110,21,25,256,403,65.50868486352357,Estonian <et@li.org>
+switchboard-plug-mouse-touchpad,43,2,22,20,1,6,40,67,64.17910447761194,Estonian <et@li.org>
+switchboard-plug-networking,397,44,1,114,13,1,318,442,89.81900452488688,Estonian <et@li.org>
+switchboard-plug-notifications,128,3,8,16,2,2,102,139,92.08633093525181,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,161,0,0,49,0,0,127,161,100.0,Estonian <et@li.org>
+switchboard-plug-pantheon-shell,101,0,43,35,0,18,91,144,70.13888888888889,Estonian <et@li.org>
+switchboard-plug-printers,201,54,81,89,17,32,183,336,59.82142857142857,LANGUAGE <LL@li.org>
+switchboard-plug-sound,0,1,89,0,1,36,0,90,0.0,Estonian <et@li.org>
+switchdesk,137,0,0,19,0,0,104,137,100.0,Estonian <Eesti>
+sylpheed,3478,2260,1401,1003,568,200,3195,7139,48.71830788625858,Estonian <et@li.org>
+synapse,304,0,520,117,0,110,266,824,36.89320388349515,Estonian <et@li.org>
+system-config-bind,18,436,8965,8,125,931,19,9419,0.19110308949994692,Estonian <et@li.org>
+system-config-firewall,59,582,2173,15,70,246,56,2814,2.0966595593461266,Estonian <Eesti>
+system-config-httpd,816,42,0,204,19,0,709,858,95.1048951048951,Estonian <Eesti>
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,168,19,0,70,11,0,148,187,89.83957219251337,Eesti
+system-config-kickstart,981,0,163,241,0,12,785,1144,85.75174825174825,Estonian (http://www.transifex.com/projects/p/system-config-kickstart/language/et/)
+system-config-printer,3051,8,101,731,5,19,2506,3160,96.55063291139241,Estonian (http://www.transifex.com/projects/p/system-config-printer/language/et/)
+system-config-rootpassword,15,26,75,3,5,11,11,116,12.931034482758621,Eesti
+system-config-users,808,0,713,140,0,40,664,1521,53.122945430637735,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,122,134,100.0,Estonian <Eesti>
+tali,4286,0,0,909,0,0,3465,4286,100.0,Estonian <>
+tar,3594,0,26,587,0,3,3153,3620,99.2817679558011,Estonian <linux-ee@lists.eenet.ee>
+tellico,5455,128,43,1126,50,10,3978,5626,96.96054034838251,Estonian <kde-et@linux.ee>
+terminator,270,0,1140,102,0,315,228,1410,19.148936170212767,Estonian <et@li.org>
+thunar-vfs,335,6,46,66,1,19,264,387,86.56330749354005,Estonian <xfce-18n@xfce.org>
+timeshift,0,0,3051,0,0,594,0,3051,0.0,Estonian <et@li.org>
+tin,11057,106,17,1536,4,2,9276,11180,98.89982110912344,Estonian <linux-ee@lists.eenet.ee>
+tomboy,3318,0,0,475,0,0,2770,3318,100.0,Estonian <>
+tortoisehg,90,0,12894,35,0,2351,79,12984,0.6931608133086876,Estonian <et@li.org>
+totem,1327,0,0,389,0,0,1091,1327,100.0,Estonian <gnome-et@linux.ee>
+totem-pl-parser,29,0,0,8,0,0,20,29,100.0,Estonian <gnome-et@linux.ee>
+trac,5350,463,2339,1142,70,86,4553,8152,65.62806673209029,Estonian (http://www.transifex.com/projects/p/trac/language/et/)
+trac-accountmanager-plugin,0,0,1208,0,0,204,0,1208,0.0,Estonian <trac-dev@googlegroups.com>
+tracker,1959,108,59,362,17,11,1635,2126,92.14487300094073,Estonian <gnome-et@linux.ee>
+tracker-miners,1959,108,59,362,17,11,1635,2126,92.14487300094073,Estonian <gnome-et@linux.ee>
+transmission,1809,0,0,494,0,0,1701,1809,100.0,Estonian <et@li.org>
+trojita,1322,1260,1806,281,320,292,1073,4388,30.127620783956242,Estonian <kde-et@linux.ee>
+tuxpaint,667,751,173,186,79,26,559,1591,41.92331866750472,Estonian <et@li.org>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+ufw,236,0,643,70,0,111,237,879,26.84869169510808,Estonian <et@li.org>
+umbrello,4478,108,19,1302,35,8,3593,4605,97.24212812160695,Estonian <kde-et@linux.ee>
+unetbootin,858,0,2301,121,0,57,702,3159,27.160493827160494,Estonian <et@li.org>
+usermode,570,0,3,95,0,1,452,573,99.47643979057592,Estonian (http://www.transifex.com/projects/p/fedora/language/et/)
+util-linux,1136,10323,11520,333,2021,1680,1101,22979,4.943644196875408,Estonian <et@li.org>
+vdr,1406,0,0,559,0,0,1109,1406,100.0,Estonian <vdr@linuxtv.org>
+vdr-epgsearch,3,2,2414,3,2,383,3,2419,0.12401818933443572,Estonian <vdr@linuxtv.org>
+vdr-femon,312,0,1,123,0,1,228,313,99.68051118210862,Estonian <vdr@linuxtv.org>
+vdr-live,1,0,913,1,0,310,1,914,0.10940919037199125,see developers in README
+vdr-skinenigmang,29,3,302,13,1,120,23,334,8.682634730538922,<vdr@linuxtv.org>
+vdr-skinsoppalusikka,137,0,3,33,0,3,82,140,97.85714285714285,Estonian <vdr@linuxtv.org>
+vdr-ttxtsubs,42,0,5,20,0,4,39,47,89.36170212765957,Estonian <vdr@linuxtv.org>
+vinagre,1445,0,0,264,0,0,1136,1445,100.0,Estonian <gnome-et@linux.ee>
+vino,1228,0,0,134,0,0,976,1228,100.0,Estonian <gnome-et@linux.ee>
+virt-viewer,0,0,784,0,0,169,0,784,0.0,Estonian
+vocal,0,0,377,0,0,79,0,377,0.0,Estonian <et@li.org>
+vte,80,0,0,13,0,0,71,80,100.0,Estonian <gnome-et@linux.ee>
+vte291,80,0,0,13,0,0,71,80,100.0,Estonian <gnome-et@linux.ee>
+vte3,80,0,0,13,0,0,71,80,100.0,Estonian <gnome-et@linux.ee>
+wammu,5290,0,0,923,0,0,4447,5290,100.0,Estonian <https://hosted.weblate.org/projects/gammu/wammu-doc/et/>
+warmux,1271,665,808,250,105,117,1049,2744,46.319241982507286,Estonian <et@li.org>
+warzone2100,10339,572,2388,2430,168,254,8728,13299,77.74268742010678,Estonian <ee@li.org>
+wdiff,959,19,15,139,3,8,829,993,96.57603222557906,Estonian <linux-ee@lists.eenet.ee>
+webkitgtk4,969,628,1026,239,136,195,695,2623,36.942432329393824,Estonian <gnome-et@linux.ee>
+wesnoth,209316,27583,39706,13192,1658,2579,158343,276605,75.67325247193651,Kaido Kikkas <kakk@kakupesa.net>
+wget,3685,167,81,607,22,6,3289,3933,93.69438087973558,Estonian <linux-ee@lists.eenet.ee>
+wicd,1097,0,41,240,0,14,981,1138,96.39718804920913,et <LL@li.org>
+wicd-kde,358,0,0,122,0,0,313,358,100.0,Estonian <kde-et@linux.ee>
+widelands,629,0,40234,179,0,3591,557,40863,1.539289822088442,Estonian (http://www.transifex.com/widelands/widelands/language/et/)
+wingpanel,8,0,0,2,0,0,6,8,100.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,225,0,0,72,0,0,190,225,100.0,Estonian <https://weblate.elementary.io/projects/wingpanel/applications-menu/et/>
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,15,15,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,20,0,0,6,0,0,16,20,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,10,0,0,4,0,0,8,10,100.0,Estonian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/et/>
+wingpanel-indicator-network,45,25,6,14,5,3,32,76,59.210526315789465,Estonian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-network/et/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,11,16,100.0,Estonian <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/et/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,14,16,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,89,0,4,24,0,3,81,93,95.6989247311828,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,54,0,3,17,0,1,43,57,94.73684210526315,Estonian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/et/>
+wingpanel-indicator-sound,14,0,0,6,0,0,11,14,100.0,Estonian <et@li.org>
+workrave,1046,130,145,201,39,22,855,1321,79.18243754731265,Marko Väljaots <aatomik@hotmail.com>
+wxPython,790,14,1653,350,8,379,712,2457,32.15303215303215,Estonian <et@li.org>
+xcdroast,4329,27,3688,636,2,210,3554,8044,53.816509199403285,estonian <et@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Estonian <linux-ee@lists.eenet.ee>
+xdg-user-dirs-gtk,81,0,0,11,0,0,59,81,100.0,Gnome Estonian Translation Team <gnome-et@linux.ee>
+xed,3281,0,1326,786,0,203,2650,4607,71.21771217712177,Estonian (http://www.transifex.com/projects/p/MATE/language/et/)
+xfburn,506,0,836,165,0,137,401,1342,37.704918032786885,Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/)
+xfce4-appfinder,147,0,172,41,0,28,118,319,46.08150470219436,Estonian (http://www.transifex.com/projects/p/xfce/language/et/)
+xfce4-eyes-plugin,1,0,14,1,0,3,1,15,6.666666666666667,Estonian <et@li.org>
+xfce4-panel,1476,1,255,350,1,43,1158,1732,85.21939953810623,Estonian (http://www.transifex.com/projects/p/xfce/language/et/)
+xfce4-places-plugin,6,3,148,4,1,39,5,157,3.821656050955414,
+xfce4-power-manager,400,0,633,135,0,72,327,1033,38.72216844143272,Estonian (http://www.transifex.com/xfce/xfce4-power-manager/language/et/)
+xfce4-screenshooter,170,67,206,26,14,33,105,443,38.37471783295711,
+xfce4-session,387,204,541,88,54,88,317,1132,34.187279151943464,Estonian <et@li.org>
+xfce4-terminal,567,233,297,113,69,100,419,1097,51.68641750227895,Estonian <et@li.org>
+xfce4-whiskermenu-plugin,54,16,279,29,6,83,47,349,15.472779369627506,Estonian (http://www.transifex.com/projects/p/xfce4-whiskermenu-plugin/language/et/)
+xfdesktop,582,0,382,143,0,72,477,964,60.37344398340249,Estonian (http://www.transifex.com/projects/p/xfce/language/et/)
+xfwm4,127,499,238,51,134,50,114,864,14.699074074074073,Estonian <et@li.org>
+xmms,3177,65,201,1003,17,25,2872,3443,92.27417949462678,Estonian <kde-et@linux.ee>
+xpad,191,0,215,50,0,75,185,406,47.04433497536946,Estonian <et@li.org>
+xplayer,1957,0,0,493,0,0,1559,1957,100.0,Estonian <gnome-et@linux.ee>
+xplayer-plparser,28,0,0,7,0,0,19,28,100.0,Estonian <gnome-et@linux.ee>
+xreader,1616,0,26,363,0,9,1291,1642,98.41656516443362,Estonian (http://www.transifex.com/mate/MATE/language/et/)
+xscreensaver,128,205,10857,73,96,1665,117,11190,1.1438784629133154,Estonian <gnome-et@linux.ee>
+xviewer,1677,0,0,324,0,0,1313,1677,100.0,Estonian <gnome-et@linux.ee>
+yakuake,1454,77,42,211,9,1,1017,1573,92.43483788938335,Estonian <kde-et@linux.ee>
+yelp,507,0,0,122,0,0,372,507,100.0,Estonian <gnome-et@linux.ee>
+yelp-xsl,81,0,0,59,0,0,68,81,100.0,Estonian <>
+yum-rhn-plugin,0,0,147,0,0,17,0,147,0.0,Estonian (http://www.transifex.net/projects/p/fedora/team/et/)
+zanshin,21,403,469,13,93,139,21,893,2.3516237402015676,Estonian <kde-et@linux.ee>
+zathura,49,0,541,19,0,121,45,590,8.305084745762711,Estonian (http://www.transifex.net/projects/p/zathura/language/et/)
+zenity,783,0,0,180,0,0,639,783,100.0,Estonian <gnome-et@linux.ee>
+zypper,326,3419,6326,93,429,434,296,10071,3.237017178035945,Estonian <https://l10n.opensuse.org/projects/zypper/master/et/>

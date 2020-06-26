@@ -1,0 +1,59 @@
+---
+title: "cv-Chuvash (Чӑваш) - translation progress for f20"
+date: 2026-01-17T11:29:50+00:00
+code: cv
+name_english: Chuvash
+name_local: Чӑваш
+progress: 0.93
+progress_d: 0.00
+release: f20
+territories:
+ - RU
+polib_error_count: 0
+could_not_process_count: 6
+---
+
+Language progress for Chuvash (cv) in Fedora f20 is:
+
+* 0.93% when we only look on started packages for this language.
+* 0.00% when we compare to every single translatable string in Fedora f20.
+
+Possible scripts are: Cyrl
+
+* Total translatable string in Fedora f20: 12425872
+* Source words to translate in started packages: 12641
+* Translated words: 117
+
+
+Download:
+
+
+
+
+* [cv generated stats (312 Bytes)]({{% resource url="/f20/cv.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 44 | 1460 | 3.0 | Chuvash <cv@li.org> | 
+ | [stellarium]({{< ref "/f20/package/stellarium.md" >}}) | 73 | 11181 | 0.7 | Chuvash <cv@li.org> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

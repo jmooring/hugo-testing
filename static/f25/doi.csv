@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnucash,17163,9383,3191,3332,981,312,20235,29737,57.7159767293271,Dogri (doi) Chandrakant Dhutadmal <chandrakantd@cdac.in>
+inkscape,21183,8449,8307,4405,2473,1234,25687,37939,55.83436569229553,LANGUAGE <LL@li.org>
+iok,137,0,69,33,0,7,161,206,66.50485436893204,Dogri <LL@li.org>
+libreoffice,60288,9680,30901,17986,3990,9482,67882,100869,59.76861077238795,LANGUAGE <LL@li.org>

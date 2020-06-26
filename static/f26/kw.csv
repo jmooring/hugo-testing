@@ -1,0 +1,46 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,14340,0,0,2386,0,14340,0.0,Cornish (United Kingdom)
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+blivet-gui,0,0,1398,0,0,374,0,1398,0.0,Cornish (United Kingdom)
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,750,0,0,150,0,750,0.0,Cornish (United Kingdom)
+docker-anaconda-addon,0,0,54,0,0,8,0,54,0.0,Cornish
+entangle,0,0,1870,0,0,418,0,1870,0.0,Cornish
+harvey,0,0,57,0,0,12,0,57,0.0,none
+initial-setup,0,0,66,0,0,14,0,66,0.0,Cornish (United Kingdom)
+isomaster,11,0,663,10,0,97,11,674,1.6320474777448073,http://littlesvr.ca/ostd/
+libbytesize,0,0,34,0,0,34,0,34,0.0,Cornish (United Kingdom)
+libosinfo,0,0,1324,0,0,290,0,1324,0.0,Cornish
+libvirt,0,0,121290,0,0,18860,0,121290,0.0,Cornish (United Kingdom)
+libvirt-glib,0,0,290,0,0,58,0,290,0.0,Cornish (United Kingdom)
+libvirt-sandbox,0,0,1234,0,0,222,0,1234,0.0,Cornish
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-libosinfo,0,0,4098,0,0,1208,0,4098,0.0,Cornish
+mingw-libvirt,0,0,121320,0,0,18864,0,121320,0.0,Cornish (United Kingdom)
+mingw-libvirt-glib,0,0,290,0,0,58,0,290,0.0,Cornish (United Kingdom)
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+osinfo-db-tools,0,0,112,0,0,24,0,112,0.0,Cornish (United Kingdom)
+pam,0,0,1194,0,0,240,0,1194,0.0,Cornish
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,2772,0,0,304,0,2772,0.0,Cornish (United Kingdom)
+python-blivet1,0,0,1392,0,0,262,0,1392,0.0,Cornish (United Kingdom)
+python-fedora,0,0,428,0,0,58,0,428,0.0,Cornish (United Kingdom)
+python-meh,0,0,218,0,0,46,0,218,0.0,Cornish
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+slick-greeter,173,0,38,37,0,10,177,211,81.99052132701422,Cornish <kw@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+supertuxkart,2671,0,690,577,0,175,2819,3361,79.47039571556085,Cornish (http://www.transifex.com/supertuxkart/supertuxkart/language/kw/)
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+virt-viewer,0,0,1568,0,0,338,0,1568,0.0,Cornish (United Kingdom)
+vocal,0,0,377,0,0,79,0,377,0.0,Cornish <kw@li.org>
+warmux,1273,667,804,251,105,116,1909,2744,46.39212827988338,Treylyansow <treylyansow@kernewegva.com>

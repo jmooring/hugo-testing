@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+avant-window-navigator,5,0,1650,3,0,276,6,1655,0.3021148036253776,Javanese <jv@li.org>
+backintime,15,0,426,7,0,112,22,441,3.4013605442176873,Javanese <jv@li.org>
+gmpc,29,0,1374,20,0,445,70,1403,2.066999287241625,Javanese <jv@li.org>
+terminator,97,0,121,58,0,42,122,218,44.4954128440367,Javanese <jv@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>

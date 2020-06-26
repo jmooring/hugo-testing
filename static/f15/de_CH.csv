@@ -1,0 +1,26 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,5167,0,4279,746,0,427,5097,9446,54.70040228668219,Swiss German (http://www.transifex.net/projects/p/fedora/team/de_CH/)
+fuse-encfs,1080,8,227,124,2,13,1001,1315,82.12927756653993,German (Switzerland) <de_CH@li.org>
+gnomebaker,271,0,915,90,0,201,229,1186,22.849915682967957,German (Switzerland) <de_CH@li.org>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+iok,134,0,0,35,0,0,133,134,100.0,German <fedora-trans-de@redhat.com>
+liblicense,45,0,21,38,0,12,43,66,68.18181818181817,LANGUAGE <LL@li.org>
+libuser,1078,0,56,228,0,9,1139,1134,95.06172839506173,Swiss German <None>
+pgadmin3,2152,3670,3854,764,1126,806,1915,9676,22.240595287308807,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+php-gettext,18,0,0,2,0,0,15,18,100.0,
+php-php-gettext,18,0,0,2,0,0,15,18,100.0,
+publican,354,563,177,24,19,29,354,1094,32.35831809872029,<fedora-trans-de@redhat.com>
+publican-fedora,106,0,1,5,0,1,106,107,99.06542056074767,<de@li.org>
+pulseaudio,2041,566,242,378,28,22,1822,2849,71.63917163917164,German <fedora-trans-de@redhat.com>
+pykickstart,209,45,84,20,4,11,215,338,61.834319526627226,German <fedora-trans-de@redhat.com>
+sectool,2411,0,0,356,0,0,2429,2411,100.0,German <fedora-trans-de@redhat.com>
+sos,174,76,17,31,2,3,175,267,65.1685393258427,German <fedora-trans-de@redhat.com>
+sssd,0,0,10534,0,0,1051,0,10534,0.0,LANGUAGE <LL@li.org>
+system-config-date,0,0,466,0,0,53,0,466,0.0,LANGUAGE <LL@li.org>
+system-config-samba,351,0,220,110,0,24,320,571,61.471103327495626,LANGUAGE <LL@li.org>
+system-config-users,0,0,1456,0,0,174,0,1456,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,1054,5,2,77,3,2,1043,1061,99.3402450518379,German <fedora-trans-de@redhat.com>
+usermode,553,0,13,93,0,2,498,566,97.70318021201413,Swiss German <None>
+vidalia,0,0,4657,0,0,1033,0,4657,0.0,translations@vidalia-project.net
+volume_key,186,0,553,49,0,102,184,739,25.16914749661705,Swiss German <None>

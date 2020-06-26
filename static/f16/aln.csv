@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+firstboot,0,0,596,0,0,56,0,596,0.0,LANGUAGE <LL@li.org>
+system-config-date,0,0,503,0,0,56,0,503,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,LANGUAGE <LL@li.org>

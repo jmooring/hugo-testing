@@ -1,0 +1,56 @@
+---
+title: "sequeler - translation progress for f36"
+package: sequeler
+date: 2026-01-18T04:44:31+00:00
+started_languages: 18
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 21
+release: f36
+---
+The package sequeler (version 0.8.2):
+
+* represents 1430 source words to be translated
+* is translated into 18 languages in Fedora f36
+
+
+* contains 21 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ar_EG]({{< ref "/f36/language/ar_EG.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/ar_EG.po | 
+ | [ca]({{< ref "/f36/language/ca.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/ca.po | 
+ | [es]({{< ref "/f36/language/es.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/es.po | 
+ | [hi]({{< ref "/f36/language/hi.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/hi.po | 
+ | [it]({{< ref "/f36/language/it.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/it.po | 
+ | [pl]({{< ref "/f36/language/pl.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/pl.po | 
+ | [pt]({{< ref "/f36/language/pt.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/pt.po | 
+ | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/pt_BR.po | 
+ | [ru]({{< ref "/f36/language/ru.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/ru.po | 
+ | [tr]({{< ref "/f36/language/tr.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/tr.po | 
+ | [uk]({{< ref "/f36/language/uk.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f36/sequeler/po/uk.po | 
+ | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 401 | 406 | 98.8 | /mnt/stockage/packages/f36/sequeler/po/zh_Hans.po | 
+ | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 401 | 406 | 98.8 | /mnt/stockage/packages/f36/sequeler/po/zh_Hant.po | 
+ | [id]({{< ref "/f36/language/id.md" >}}) | 239 | 406 | 58.9 | /mnt/stockage/packages/f36/sequeler/po/id.po | 
+ | [lt]({{< ref "/f36/language/lt.md" >}}) | 448 | 1430 | 31.3 | /mnt/stockage/packages/f36/sequeler/po/lt.po/mnt/stockage/packages/f36/sequeler/po/extra/lt.po | 
+ | [fr]({{< ref "/f36/language/fr.md" >}}) | 435 | 1430 | 30.4 | /mnt/stockage/packages/f36/sequeler/po/fr.po/mnt/stockage/packages/f36/sequeler/po/extra/fr.po | 
+ | [de]({{< ref "/f36/language/de.md" >}}) | 407 | 1430 | 28.5 | /mnt/stockage/packages/f36/sequeler/po/de.po/mnt/stockage/packages/f36/sequeler/po/extra/de.po | 
+ | [lg]({{< ref "/f36/language/lg.md" >}}) | 39 | 406 | 9.6 | /mnt/stockage/packages/f36/sequeler/po/lg.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

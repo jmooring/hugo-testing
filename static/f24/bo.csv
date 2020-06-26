@@ -1,0 +1,39 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Tibetan (http://www.transifex.com/projects/p/fedora-abrt/language/bo/)
+blivet-gui,0,0,699,0,0,187,0,699,0.0,Tibetan
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Tibetan (http://www.transifex.com/projects/p/certmonger/language/bo/)
+console-setup,501,51,431,124,11,40,244,983,50.96642929806714,bo <translation-team-bo@lists.sourceforge.net>
+deja-dup,0,0,2011,0,0,327,0,2011,0.0,Tibetan <bo@li.org>
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Tibetan
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Tibetan
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Tibetan
+entangle,0,0,935,0,0,209,0,935,0.0,Tibetan
+gnomebaker,0,0,1186,0,0,291,0,1186,0.0,Tibetan <bo@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tibetan
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Tibetan
+libosinfo,0,0,2049,0,0,604,0,2049,0.0,Tibetan
+libreoffice,363807,21986,166114,50444,4444,22477,92771,551907,65.91817099620044,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Tibetan (http://www.transifex.com/projects/p/libreport/language/bo/)
+librfm,131,424,1841,66,177,354,66,2396,5.467445742904841,Tibetan <bo@li.org>
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Tibetan <bo@li.org>
+lightdm-gtk,0,0,84,0,0,24,0,84,0.0,Tibetan <bo@li.org>
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/)
+nautilus,6259,823,321,1031,115,46,2219,7403,84.54680534918276,Tibetan <bo@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Tibetan (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/bo/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+pykickstart,0,0,1355,0,0,149,0,1355,0.0,Tibetan
+python-blivet,0,0,696,0,0,131,0,696,0.0,Tibetan
+python-fedora,0,0,214,0,0,29,0,214,0.0,Tibetan
+python-meh,0,0,109,0,0,23,0,109,0.0,Tibetan
+rodent,93,338,9203,53,145,614,53,9634,0.9653311189537056,Tibetan <bo@li.org>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/)
+simple-scan,375,0,364,93,0,69,212,739,50.74424898511503,Tibetan <bo@li.org>
+stellarium,11,0,23535,11,0,5802,11,23546,0.04671706446954897,Tibetan <bo@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Tibetan (http://www.transifex.com/projects/p/system-config-kickstart/language/bo/)
+transmission,0,0,1809,0,0,494,0,1809,0.0,Tibetan <bo@li.org>
+tuxpaint,61,41,1489,58,20,213,110,1591,3.8340666247642994,LANGUAGE <LL@li.org>
+virt-viewer,0,0,751,0,0,165,0,751,0.0,Tibetan

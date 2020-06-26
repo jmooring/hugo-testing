@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+pootle,6525,0,0,3962,0,0,8165,6525,100.0,LANGUAGE <LL@li.org>
+tuxpaint,1187,49,11,243,4,5,1099,1247,95.18845228548516,Songhoy <songhoy@bagoundie.net>
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net
+virtaal,1389,0,0,430,0,0,1400,1389,100.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bazaar,21,0,6503,6,0,402,21,6524,0.3218884120171674,French (Belgium) <fr_BE@li.org>
+intltool,9,0,1,2,0,1,10,10,90.0,NONE <kenneth@gnu.org>

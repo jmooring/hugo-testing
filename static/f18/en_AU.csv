@@ -1,0 +1,89 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+ailurus,683,0,7823,89,0,1035,688,8506,8.029626146249706,none
+avahi,2,0,863,2,0,163,2,865,0.23121387283236997,
+avogadro,4120,0,142,1521,0,24,4154,4262,96.66823087752229,English (Australia) <en_AU@li.org>
+bzr,1677,0,31422,115,0,2225,1677,33099,5.066618326837668,English (Australia) <en_AU@li.org>
+bzr-explorer,1509,0,147,420,0,49,1509,1656,91.12318840579711,English (Australia) <en_AU@li.org>
+calibre,190,0,44148,30,0,4611,190,44338,0.4285263205376878,English (Australia) <en_AU@li.org>
+cinnamon,1,0,1695,1,0,551,1,1696,0.0589622641509434,English (Australia) <en_AU@li.org>
+deja-dup,1780,0,2055,295,0,152,1789,3835,46.41460234680574,English (Australia) <en_AU@li.org>
+docky,1757,0,0,337,0,0,1770,1757,100.0,English (Australia) <en_AU@li.org>
+duplicity,3390,0,12,492,0,2,3390,3402,99.64726631393297,English (Australia) <en_AU@li.org>
+evolution,65,2038,15099,26,677,3577,64,17202,0.37786303918149056,
+evolution-data-server,166,1000,3338,29,175,673,187,4504,3.685612788632327,
+evolution-rspam,0,0,194,0,0,32,0,194,0.0,LANGUAGE <LL@li.org>
+evolution-rss,0,0,589,0,0,160,0,589,0.0,LANGUAGE <LL@li.org>
+fuse-encfs,1294,8,13,133,2,4,1287,1315,98.40304182509506,English (Australia) <en_AU@li.org>
+gdesklets,41,0,1487,6,0,198,41,1528,2.6832460732984296,English (Australia) <en_AU@li.org>
+gnome-activity-journal,0,0,316,0,0,94,0,316,0.0,English (Australia) <en_AU@li.org>
+gnome-do,612,0,0,144,0,0,614,612,100.0,English (Australia) <en_AU@li.org>
+gnome-do-plugins,34,0,2289,4,0,578,34,2323,1.4636246233318984,English (Australia) <en_AU@li.org>
+gnomebaker,21,0,1165,8,0,283,21,1186,1.770657672849916,English (Australia) <en_AU@li.org>
+gourmet,107,138,3402,17,43,808,108,3647,2.9339182890046613,English (Australia) <en_AU@li.org>
+gwibber,769,0,0,204,0,0,771,769,100.0,English (Australia) <en_AU@li.org>
+gxmessage,22,0,245,3,0,35,22,267,8.239700374531834,LANGUAGE <LL@li.org>
+homebank,1729,0,0,590,0,0,1732,1729,100.0,English (Australia) <en_AU@li.org>
+inkscape,5782,7343,13403,1256,2314,2008,5786,26528,21.79583835946924,English (Australia)
+jmol,114,0,1208,21,0,408,114,1322,8.623298033282904,English (Australia) <en_AU@li.org>
+libexif,6930,47,0,1172,5,0,6930,6977,99.32635803353878,English (Australia) <en_AU@li.org>
+libmatekbd,292,0,0,62,0,0,292,292,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+libmatekeyring,44,0,0,9,0,0,44,44,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+libmateweather,384,0,103,165,0,16,384,487,78.85010266940452,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+libmatewnck,1082,0,0,230,0,0,1082,1082,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+lightdm,79,0,0,17,0,0,80,79,100.0,English (Australia) <en_AU@li.org>
+lightdm-gtk,56,0,1,18,0,1,57,57,98.24561403508771,English (Australia) <en_AU@li.org>
+mate-applets,3299,0,0,732,0,0,3299,3299,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-bluetooth,656,0,0,179,0,0,656,656,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-calc,897,0,515,210,0,231,894,1412,63.52691218130312,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-control-center,2592,0,18,604,0,4,2592,2610,99.3103448275862,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-desktop,1678,0,0,220,0,0,1678,1678,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-dialogs,631,0,0,149,0,0,629,631,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-doc-utils,251,0,0,101,0,0,251,251,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-document-viewer,1493,0,0,371,0,0,1493,1493,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-file-manager,9066,0,20,1474,0,2,9066,9086,99.77988113581334,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-file-manager-image-converter,74,0,0,34,0,0,74,74,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-file-manager-open-terminal,82,0,0,7,0,0,82,82,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-file-manager-sendto,89,0,0,27,0,0,89,89,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-image-viewer,1623,0,0,315,0,0,1623,1623,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-keyring,1173,0,0,243,0,0,1173,1173,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-menu-editor,42,0,0,16,0,0,42,42,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-menus,97,0,0,37,0,0,97,97,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-netspeed,134,0,3,47,0,3,134,137,97.8102189781022,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-panel,3993,0,244,552,0,30,3993,4237,94.24120840217135,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-polkit,289,0,0,47,0,0,289,289,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-power-manager,2232,0,526,401,0,42,2232,2758,80.92820884699057,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-screensaver,989,0,0,157,0,0,989,989,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-settings-daemon,1650,0,85,233,0,9,1650,1735,95.10086455331412,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-system-monitor,933,0,0,244,0,0,933,933,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-terminal,4204,0,0,493,0,0,4204,4204,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-text-editor,4955,0,31,1097,0,8,4955,4986,99.37825912555155,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-utils,3921,0,0,688,0,0,3921,3921,100.0,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+mate-window-manager,2093,0,23,324,0,2,2093,2116,98.91304347826086,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+openerp,12,0,4434,7,0,774,12,4446,0.2699055330634278,English (Australia) <en_AU@li.org>
+openerp-client,219,0,7510,145,0,429,219,7729,2.833484279984474,English (Australia) <en_AU@li.org>
+openstack-cinder,1279,262,7259,253,48,1224,1280,8800,14.53409090909091,English (Australia) <en_AU@li.org>
+openstack-glance,0,0,1711,0,0,233,0,1711,0.0,en_AU <LL@li.org>
+openstack-nova,951,935,9863,187,191,1593,952,11749,8.09430589837433,English (Australia) <en_AU@li.org>
+openteacher,26,0,5,19,0,2,26,31,83.87096774193549,English (Australia) <en_AU@li.org>
+orage,3,9,2380,2,3,796,3,2392,0.1254180602006689,Austrilian English <en_gb@li.org>
+pastebinit,183,0,0,27,0,0,183,183,100.0,English (Australia) <en_AU@li.org>
+pidgin,6277,6543,5536,1456,1646,801,6277,18356,34.19590324689475,English/AU <trans@six-by-nine.com.au>
+pidgin-guifications,442,32,31,183,4,5,444,505,87.52475247524752,English (Australian) <trans@six-by-nine.com.au>
+pidgin-musictracker,333,0,0,60,0,0,333,333,100.0,English (Australia) <en_AU@li.org>
+pinta,1056,0,309,370,0,100,1065,1365,77.36263736263737,English (Australia) <en_AU@li.org>
+pmount,723,0,0,63,0,0,723,723,100.0,English (Australia) <en_AU@li.org>
+purple-plugin_pack,0,15,4993,0,1,746,0,5008,0.0,English/AU <trans@six-by-nine.com.au>
+quassel,4518,0,145,1019,0,34,4523,4663,96.89041389663306,
+rapid-photo-downloader,10,0,1246,2,0,253,15,1256,0.7961783439490446,English (Australia) <en_AU@li.org>
+shutter,166,0,0,17,0,0,166,166,100.0,English (Australia) <en_AU@li.org>
+soundconverter,231,0,231,70,0,59,231,462,50.0,English (Australia) <en_AU@li.org>
+steadyflow,423,0,47,88,0,5,432,470,90.0,English (Australia) <en_AU@li.org>
+stellarium,2923,0,8258,1105,0,2040,2923,11181,26.142563276987747,English (Australia) <en_AU@li.org>
+sweep,2,0,2397,1,0,537,2,2399,0.08336807002917883,English/Australia <LL@li.org>
+terminator,326,0,400,118,0,136,326,726,44.90358126721763,English (Australia) <en_AU@li.org>
+tortoisehg,2325,0,8723,566,0,1590,2324,11048,21.044532947139754,English (Australia) <en_AU@li.org>
+transmission,1809,0,0,494,0,0,1835,1809,100.0,English (Australia) <en_AU@li.org>
+tuxpaint,445,523,279,124,60,68,445,1247,35.68564554931836,English (Australia) <en_AU@li.org>
+tuxpaint-stamps,1015,209,1487,250,81,319,1015,2711,37.44005901881224,English (Australia) <en_AU@li.org>
+widelands,0,0,1448,0,0,55,0,1448,0.0,English (Australia) <en_AU@li.org>
+xchat-gnome,3618,185,98,944,22,14,3624,3901,92.74544988464496,English (Australia) <en_AU@li.org>

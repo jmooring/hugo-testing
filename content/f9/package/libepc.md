@@ -1,0 +1,42 @@
+---
+title: "libepc - translation progress for f9"
+package: libepc
+date: 2026-01-17T07:36:05+00:00
+started_languages: 4
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 4
+release: f9
+---
+The package libepc (version 0.3.4):
+
+* represents 206 source words to be translated
+* is translated into 4 languages in Fedora f9
+
+
+* contains 4 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ca]({{< ref "/f9/language/ca.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f9/libepc/po/ca.po | 
+ | [de]({{< ref "/f9/language/de.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f9/libepc/po/de.po | 
+ | [sv]({{< ref "/f9/language/sv.md" >}}) | 203 | 206 | 98.5 | /mnt/stockage/packages/f9/libepc/po/sv.po | 
+ | [es]({{< ref "/f9/language/es.md" >}}) | 136 | 141 | 96.5 | /mnt/stockage/packages/f9/libepc/po/es.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

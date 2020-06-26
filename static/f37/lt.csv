@@ -1,0 +1,1104 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,3544,4088,100.0,Lithuanian <komp_lt@konferencijos.lt>
+GMT,99,0,0,34,0,0,88,99,100.0,Lithuanian (https://www.transifex.com/readthedocs/teams/101354/lt/)
+ModemManager,134,7,6,17,1,1,136,147,91.15646258503402,
+NetworkManager,2601,3772,22821,513,658,1080,2285,29194,8.909364938000959,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-fortisslvpn,317,2,2,57,1,2,287,321,98.75389408099689,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-iodine,80,0,0,25,0,0,79,80,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-l2tp,413,0,848,82,0,108,394,1261,32.75178429817605,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-libreswan,462,0,0,75,0,0,416,462,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-openconnect,8437,15,1068,1442,1,153,7930,9520,88.62394957983193,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-openvpn,2092,0,0,281,0,0,1913,2092,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-pptp,517,0,0,86,0,0,482,517,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-ssh,120,85,81,32,21,16,113,286,41.95804195804196,Lithuanian <gnome-lt@lists.akl.lt>
+NetworkManager-sstp,829,15,34,140,4,5,743,878,94.41913439635535,Lietuvių <gnome-lt@lists.akl.lt>
+NetworkManager-vpnc,616,0,0,102,0,0,556,616,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+PackageKit,1048,0,0,277,0,0,903,1048,100.0,Lithuanian (http://www.transifex.com/freedesktop/packagekit/language/lt/)
+R,38813,650,604,5677,86,99,34710,40067,96.87024234407367,Lithuanian
+Thunar,4259,0,206,753,0,32,3812,4465,95.38633818589027,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+abattis-cantarell-fonts,27,0,0,3,0,0,24,27,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+abrt,3304,281,91,377,28,12,2846,3676,89.88030467899891,Lithuanian (http://www.transifex.com/projects/p/fedora-abrt/language/lt/)
+accerciser,666,0,0,228,0,0,580,666,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+accountsservice,73,0,0,12,0,0,67,73,100.0,Lithuanian (http://www.transifex.com/freedesktop/accountsservice/language/lt/)
+agenda,10,7,0,4,2,0,10,17,58.82352941176471,Lithuanian <lt@li.org>
+aisleriot,2982,0,0,681,0,0,2178,2982,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+akonadi-calendar-tools,72,0,713,37,0,135,72,785,9.171974522292993,Lithuanian <kde-i18n-lt@kde.org>
+akonadi-import-wizard,240,71,83,58,17,9,222,394,60.913705583756354,lt <kde-i18n-lt@kde.org>
+akonadiconsole,0,0,782,0,0,373,0,782,0.0,none
+akregator,1715,108,70,411,20,10,1583,1893,90.59693608029583,Lithuanian <kde-i18n-lt@kde.org>
+alacarte,48,0,0,21,0,0,42,48,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+alligator,0,0,171,0,0,77,0,171,0.0,none
+amarok,10450,2234,3135,2195,323,262,9600,15819,66.05980150451988,Lithuanian <kde-i18n-lt@kde.org>
+amtk,11,0,0,3,0,0,11,11,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+anaconda,8057,166,420,1365,24,26,6683,8643,93.21994677773921,Lithuanian <https://translate.fedoraproject.org/projects/anaconda/master/lt/>
+analitza,115,39,838,58,15,149,97,992,11.59274193548387,Lithuanian <kde-i18n-lt@kde.org>
+android-tools,0,0,15356,0,0,2156,0,15356,0.0,Lithuanian (Lithuania) (http://www.transifex.com/projects/p/fedora/language/lt_LT/)
+angelfish,212,94,383,76,24,73,203,689,30.76923076923077,lt
+anjuta,8407,0,0,2062,0,0,7317,8407,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+appeditor,171,51,358,55,10,53,147,580,29.48275862068965,
+appstream,1214,366,4502,277,47,344,1123,6082,19.960539296284114,Lithuanian <https://hosted.weblate.org/projects/appstream/translations/lt/>
+apt,1390,894,3161,242,130,342,1199,5445,25.528007346189163,Lithuanian <komp_lt@konferencijos.lt>
+arandr,173,0,0,38,0,0,152,173,100.0,Lithuanian <https://hosted.weblate.org/projects/arandr/translations/lt/>
+arianna,0,0,128,0,0,65,0,128,0.0,none
+ark,1280,331,336,267,47,47,1166,1947,65.74216743708268,Lithuanian <kde-i18n-lt@kde.org>
+artikulate,0,0,332,0,0,147,0,332,0.0,lt
+asunder,19,0,473,17,0,74,20,492,3.861788617886179,http://littlesvr.ca/ostd/
+at-spi2-core,10,0,0,2,0,0,9,10,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+atk,440,0,0,169,0,0,381,440,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+atomix,169,0,0,44,0,0,146,169,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+atril,2362,0,2029,464,0,273,2023,4391,53.79184695969027,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+audacious,503,0,393,242,0,123,508,896,56.13839285714286,Lithuanian (http://www.transifex.com/audacious/audacious/language/lt/)
+audacious-plugins,2387,0,1906,670,0,328,2241,4293,55.60214302352667,Lithuanian (http://www.transifex.com/audacious/audacious/language/lt/)
+audacity,5780,4180,8546,1540,1190,1573,5451,18506,31.23311358478331,Sharunas <Sharunas55387@hotmail.com>
+audex,82,137,3128,40,74,298,82,3347,2.449955183746639,Lithuanian <kde-i18n-lt@kde.org>
+audiotube,0,0,165,0,0,71,0,165,0.0,none
+backintime,1433,346,178,264,51,30,1298,1957,73.22432294328053,Lithuanian <https://translate.codeberg.org/projects/backintime/common/lt/>
+baloo-widgets,67,0,0,40,0,0,71,67,100.0,Lithuanian <kde-i18n-lt@kde.org>
+balsa,845,1808,2695,288,564,435,789,5348,15.800299177262527,Lithuanian <komp_lt@konferencijos.lt>
+baobab,297,0,0,79,0,0,288,297,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+bash,1489,1351,8900,321,90,186,1386,11740,12.68313458262351,Lithuanian <komp_lt@konferencijos.lt>
+bibletime,2684,0,6912,404,0,242,2265,9596,27.969987494789493,Lithuanian (http://www.transifex.com/bibletime/bibletime/language/lt/)
+bijiben,422,0,0,130,0,0,363,422,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+bison,52,0,0,9,0,0,50,52,100.0,Lithuanian <komp_lt@konferencijos.lt>
+bleachbit,1018,0,800,232,0,120,920,1818,55.995599559956,Lietuvių <>
+blinken,126,8,0,46,1,0,130,134,94.02985074626866,Lithuanian <kde-i18n-lt@kde.org>
+blogilo,471,29,892,201,10,126,452,1392,33.83620689655172,lt <kde-i18n-lt@kde.org>
+blueberry,166,0,6,37,0,2,155,172,96.51162790697676,Lithuanian <lt@li.org>
+bluedevil,535,0,0,191,0,0,495,535,100.0,lt <kde-i18n-lt@kde.org>
+blueman,1213,113,537,351,49,193,1104,1863,65.11003757380568,Lithuanian <https://hosted.weblate.org/projects/blueman/2-3/lt/>
+boinc-client,289,0,16,35,0,1,237,305,94.75409836065573,Lithuanian (http://www.transifex.com/boinc/boinc/language/lt/)
+bomber,70,9,31,21,1,5,64,110,63.63636363636363,Lithuanian <kde-i18n-lt@kde.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+boswars,910,4,49,340,2,3,810,963,94.4963655244029,Lithuanian
+bottles,2,30,3419,2,11,663,2,3451,0.057954216169226316,Lithuanian <https://hosted.weblate.org/projects/bottles/bottles/lt/>
+bovo,77,4,0,24,1,0,61,81,95.06172839506173,lt <kde-i18n-lt@kde.org>
+brasero,5549,0,0,969,0,0,4473,5549,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+bubblemail,0,0,478,0,0,141,0,478,0.0,none
+budgie-control-center,7012,88,810,2256,69,200,6418,7910,88.6472819216182,Lithuanian (https://app.transifex.com/buddiesofbudgie/teams/129844/lt/)
+budgie-desktop,1192,0,471,343,0,76,1142,1663,71.67769092002405,Lithuanian (https://app.transifex.com/buddiesofbudgie/teams/129844/lt/)
+budgie-desktop-view,7,0,10,3,0,4,6,17,41.17647058823529,Lithuanian (https://www.transifex.com/buddiesofbudgie/teams/129844/lt/)
+budgie-screensaver,286,0,0,56,0,0,228,286,100.0,Lithuanian <komp_lt@konferencijos.lt>
+byobu,71,0,106,26,0,18,62,177,40.11299435028249,Lithuanian <lt@li.org>
+bzflag,133,57,0,68,27,0,132,190,70.0,
+cairo-dock,648,0,6816,179,0,648,599,7464,8.681672025723474,Lithuanian <lt@li.org>
+cairo-dock-plug-ins,264,0,9939,104,0,1618,256,10203,2.587474272272861,Lithuanian <lt@li.org>
+caja,8666,0,1009,1512,0,92,6841,9675,89.57105943152455,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+caja-actions,511,0,18304,101,0,1415,446,18815,2.7159181504119054,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+caja-extensions,629,0,131,137,0,8,517,760,82.76315789473684,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+calamares,521,0,0,91,0,0,481,521,100.0,Lithuanian (https://app.transifex.com/calamares/teams/20061/lt/)
+calibre,6263,0,165588,2381,0,17011,5634,171851,3.6444361685413527,Lithuanian (http://www.transifex.com/calibre/calibre/language/lt/)
+calindori,0,0,550,0,0,186,0,550,0.0,none
+calligra,4756,10412,20784,2751,2870,2188,4736,35952,13.228749443702714,Lithuanian <kde-i18n-lt@kde.org>
+calligraplan,542,2038,7363,370,773,1022,531,9943,5.451071105300211,Lithuanian <kde-i18n-lt@kde.org>
+cantor,186,188,3661,124,76,555,188,4035,4.609665427509293,Lithuanian <kde-i18n-lt@kde.org>
+caribou,169,0,0,57,0,0,151,169,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+catfish,1077,0,0,160,0,0,1013,1077,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+cawbird,519,176,538,194,45,98,555,1233,42.092457420924575,Lithuanian (http://www.transifex.com/cawbird/cawbird/language/lt/)
+celestia,740,754,847,347,298,198,722,2341,31.610422896198205,
+celluloid,127,0,1483,41,0,270,124,1610,7.888198757763975,Lithuanian <https://hosted.weblate.org/projects/celluloid/celluloid/lt/>
+certmonger,1115,146,1570,190,18,265,955,2831,39.38537619215825,Lithuanian (http://www.transifex.com/projects/p/certmonger/language/lt/)
+cervisia,314,10,1291,155,5,260,311,1615,19.442724458204335,Lithuanian <kde-i18n-lt@kde.org>
+cheese,628,0,0,130,0,0,514,628,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+chromium,0,0,0,0,0,0,0,0,0.0,
+cinnamon-control-center,521,88,704,521,69,166,521,1313,39.68012185833968,Lithuanian
+cinnamon-desktop,234,0,0,32,0,0,194,234,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+cinnamon-translations,21898,0,1589,4909,0,383,20017,23487,93.23455528590284,Lithuanian <lt@li.org>
+clamtk,718,0,78,203,0,9,673,796,90.20100502512562,Lithuanian <lt@li.org>
+clementine,5142,0,272,1381,0,42,4571,5414,94.97598817879572,Lithuanian (http://www.transifex.com/davidsansome/clementine/language/lt/)
+clutter,3057,0,0,675,0,0,2240,3057,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+cogl,393,0,0,80,0,0,345,393,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,209,0,1781,59,0,194,193,1990,10.50251256281407,Lithuanian (http://www.transifex.com/freedesktop/colord/language/lt/)
+colord-kde,106,74,53,56,10,12,105,233,45.493562231759654,Lithuanian <kde-i18n-lt@kde.org>
+console-setup,984,0,0,179,0,0,821,984,100.0,Lithuanian <komp_lt@konferencijos.lt>
+coolreader,597,25,79,227,12,34,563,701,85.16405135520685,Lithuanian
+coreutils,1593,1606,18347,360,254,1233,1475,21546,7.393483709273182,Lithuanian <komp_lt@konferencijos.lt>
+cracklib,87,0,3,14,0,1,71,90,96.66666666666667,lt
+cups-pk-helper,149,0,0,22,0,0,129,149,100.0,
+dasher,1292,0,0,249,0,0,1172,1292,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+dconf-editor,2955,0,0,394,0,0,2525,2955,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+debconf,191,0,0,17,0,0,155,191,100.0,Lithuanian <komp_lt@konferencijos.lt>
+deepin-daemon,1000,0,214,213,0,46,956,1214,82.37232289950576,Lithuanian (https://www.transifex.com/linuxdeepin/teams/3617/lt/)
+deja-dup,911,0,2464,176,0,238,865,3375,26.99259259259259,Lithuanian <lt@li.org>
+deluge,1956,0,2384,727,0,606,1860,4340,45.06912442396314,Lithuanian <lt@li.org>
+desktopfolder,367,0,0,115,0,0,335,367,100.0,Lithuanian (https://www.transifex.com/ubuntu-budgie/teams/72251/lt/)
+devhelp,413,0,0,101,0,0,357,413,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+dia,4282,0,1421,1658,0,383,4086,5703,75.0832894967561,Lithuanian <komp_lt@konferencijos.lt>
+dialect,274,97,127,174,18,16,273,498,55.020080321285135,Lithuanian <https://hosted.weblate.org/projects/dialect/dialect/lt/>
+dialog,37,0,0,25,0,0,38,37,100.0,Lithuanian <komp_lt@konferencijos.lt>
+digikam,5591,20079,33993,1655,5181,2947,5162,59663,9.370966930928716,Lithuanian <kde-i18n-lt@kde.org>
+dino,1058,0,27,271,0,12,958,1085,97.51152073732719,none
+dippi,390,15,778,52,3,150,360,1183,32.967032967032964,
+easytag,1572,2292,1379,497,365,159,1503,5243,29.982834255197403,Lietuvių <gnome-lt@lists.akl.lt>
+engrampa,2377,0,5461,455,0,438,2024,7838,30.32661393212554,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+enlightenment,2652,1726,4675,1015,231,1138,2574,9053,29.294156633160277,Lithuanian Translation team
+eog,1648,0,0,318,0,0,1415,1648,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+eog-plugins,428,0,0,111,0,0,366,428,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+eom,2094,0,2864,354,0,188,1778,4958,42.23477208551835,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+ephemeral,0,0,1864,0,0,216,0,1864,0.0,none
+epiphany,4776,0,0,862,0,0,4070,4776,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+evince,1768,0,0,446,0,0,1557,1768,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+evolution,29668,0,0,5895,0,0,24998,29668,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+evolution-data-server,8312,0,0,1534,0,0,7231,8312,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+evolution-ews,1882,0,0,342,0,0,1728,1882,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+evolution-mapi,1039,0,0,226,0,0,917,1039,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+exaile,2122,593,1453,623,171,298,1954,4168,50.911708253358924,Lithuanian <https://hosted.weblate.org/projects/exaile/master/lt/>
+exo,739,0,0,145,0,0,590,739,100.0,Lithuanian (http://www.transifex.com/xfce/exo/language/lt/)
+falkon,3826,29,546,1208,8,181,3696,4401,86.93478754828448,lt
+file-roller,1313,0,0,306,0,0,1054,1313,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+filelight,97,121,44,32,35,21,89,262,37.02290076335878,lt <kde-i18n-lt@kde.org>
+filezilla,8456,0,0,1484,0,0,7402,8456,100.0,Lietuvių <>
+findutils,207,434,1897,43,43,161,183,2538,8.156028368794328,Lithuanian <komp_lt@konferencijos.lt>
+firewalld,1152,10,1055,303,1,111,1043,2217,51.96211096075778,Lithuanian
+five-or-more,239,0,0,53,0,0,221,239,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+focuswriter,129,0,0,7,0,0,110,129,100.0,Lithuanian (http://www.transifex.com/gottcode/focuswriter/language/lt/)
+folder-color-switcher,51,0,14,22,0,1,42,65,78.46153846153847,Lithuanian <lt@li.org>
+folks,1056,0,0,130,0,0,868,1056,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Lithuanian
+four-in-a-row,480,0,0,136,0,0,423,480,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+fprintd,0,0,433,0,0,60,0,433,0.0,Lithuanian (http://www.transifex.com/freedesktop/fprintd/language/lt/)
+fragments,1779,0,227,501,0,25,1965,2006,88.6839481555334,Lithuanian (https://www.transifex.com/transmissionbt/teams/33778/lt/)
+freeciv,9124,19840,84526,2323,3785,3733,8240,113490,8.039474843598555,Lithuanian <komp_lt@konferencijos.lt>
+frozen-bubble,567,82,49,130,9,9,485,698,81.23209169054442,LANGUAGE <LL@li.org>
+fwupd,1352,0,0,329,0,0,1450,1352,100.0,Lithuanian (http://www.transifex.com/freedesktop/fwupd/language/lt/)
+gajim,428,2804,3055,155,928,616,424,6287,6.807698425322093,Lithuanian <>
+galculator,935,0,0,275,0,0,819,935,100.0,Lithuanian (http://www.transifex.com/mate/MATE/language/lt/)
+gambas3,1380,0,6180,479,0,1766,1236,7560,18.253968253968253,
+gammastep,250,222,473,60,46,43,236,945,26.455026455026452,Lithuanian <lt@li.org>
+garcon,122,0,0,36,0,0,118,122,100.0,Lithuanian (http://www.transifex.com/xfce/garcon/language/lt/)
+gcab,128,0,0,31,0,0,116,128,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gcal,225,55,4726,184,37,1227,221,5006,4.49460647223332,Lithuanian <komp_lt@konferencijos.lt>
+gcompris-qt,32507,6,55,3614,1,5,26464,32568,99.81269958241218,Lithuanian <kde-i18n-lt@kde.org>
+gconf-editor,336,0,0,98,0,0,316,336,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+gcr,795,0,0,276,0,0,698,795,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gcr3,795,0,0,276,0,0,698,795,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gdk-pixbuf2,1325,0,0,198,0,0,1165,1325,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gdm,737,0,0,99,0,0,593,737,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+geany,5795,288,197,1280,47,26,4922,6280,92.27707006369427,Lietuvių <>
+geary,1713,0,0,452,0,0,1590,1713,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gedit,4179,0,0,723,0,0,3492,4179,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gedit-plugins,1083,0,0,186,0,0,840,1083,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gftp,1536,42,1753,406,4,181,1390,3331,46.11227859501651,Lithuanian <komp_lt@konferencijos.lt>
+ggz-base-libs,74,0,0,17,0,0,62,74,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+ghex,1044,0,0,240,0,0,878,1044,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+ghostwriter,0,0,870,0,0,308,0,870,0.0,none
+gigolo,546,0,0,158,0,0,478,546,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+gimp,37523,12,301,9289,2,59,33915,37836,99.17274553335447,Lietuvių <gnome-lt@lists.akl.lt>
+gimp-help,47821,51308,164663,2859,2305,12268,35737,263792,18.128298053011463,LANGUAGE <LL@li.org>
+gitg,2435,0,0,436,0,0,1908,2435,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+glade,6941,0,0,1808,0,0,5918,6941,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+glib-networking,434,0,0,64,0,0,400,434,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+glib2,7693,0,0,1211,0,0,6586,7693,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+glibc,1518,0,0,387,0,0,1357,1518,100.0,Lithuanian <komp_lt@konferencijos.lt>
+gnome-2048,382,0,0,69,0,0,333,382,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-abrt,0,0,221,0,0,55,0,221,0.0,none
+gnome-activity-journal,272,0,44,78,0,16,261,316,86.07594936708861,Lithuanian <lt@li.org>
+gnome-applets,2774,187,448,661,22,45,2412,3409,81.37283660897624,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-bluetooth,318,0,0,92,0,0,278,318,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-bluetooth3.34,373,0,0,110,0,0,328,373,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-boxes,1290,0,0,262,0,0,1094,1290,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-break-timer,461,75,60,72,4,7,408,596,77.3489932885906,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-builder,5002,0,0,1265,0,0,4289,5002,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-calculator,1760,0,0,649,0,0,1602,1760,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-calendar,885,0,0,253,0,0,902,885,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-characters,152,0,0,52,0,0,146,152,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-chess,1485,0,0,241,0,0,1132,1485,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-clocks,359,0,0,145,0,0,323,359,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-color-manager,1796,0,0,345,0,0,1407,1796,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-commander,662,0,7910,422,0,1235,650,8572,7.722818478768081,
+gnome-connections,370,0,0,80,0,0,321,370,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-console,229,0,0,70,0,0,205,229,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-contacts,736,0,0,213,0,0,657,736,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-control-center,7959,88,704,2451,69,166,7189,8751,90.9496057593418,Lithuanian
+gnome-desktop3,193,0,0,40,0,0,168,193,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-dictionary,717,0,0,161,0,0,584,717,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-directory-thumbnailer,85,0,0,12,0,0,73,85,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-disk-utility,4085,0,0,752,0,0,3524,4085,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-do,314,0,298,97,0,47,276,612,51.307189542483655,Lithuanian <lt@li.org>
+gnome-doc-utils,251,0,0,101,0,0,255,251,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+gnome-extensions-app,2871,0,0,638,0,0,2600,2871,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-font-viewer,534,0,0,203,0,0,533,534,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-icon-theme,43,0,0,38,0,0,41,43,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+gnome-initial-setup,876,0,0,129,0,0,725,876,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-keyring,469,0,0,98,0,0,376,469,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-klotski,275,0,0,85,0,0,258,275,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-logs,389,0,0,126,0,0,348,389,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-mahjongg,332,0,0,75,0,0,286,332,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-maps,1316,0,0,339,0,0,1116,1316,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-menus,80,0,0,37,0,0,75,80,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-mime-data,887,0,0,362,0,0,900,887,100.0,Lithuanian <komp_lt@konferencijos.lt>
+gnome-mines,364,0,0,80,0,0,316,364,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-music,628,0,0,122,0,0,548,628,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-nettool,664,0,0,219,0,0,605,664,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-nibbles,585,0,0,144,0,0,504,585,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-online-accounts,669,0,0,148,0,0,546,669,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-packagekit,3500,0,0,553,0,0,2933,3500,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-panel,3456,0,0,510,0,0,2770,3456,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-photos,572,0,0,220,0,0,551,572,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-pomodoro,336,0,0,112,0,0,339,336,100.0,Lithuanian <>
+gnome-power-manager,430,0,0,123,0,0,382,430,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-remote-desktop,569,0,0,26,0,0,438,569,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-robots,596,0,0,96,0,0,510,596,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-screenshot,417,0,0,64,0,0,354,417,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-search-tool,1249,0,0,186,0,0,1013,1249,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+gnome-session,435,0,0,68,0,0,352,435,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-settings-daemon,3930,0,0,540,0,0,3100,3930,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-shell,2707,0,0,594,0,0,2436,2707,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-shell-extension-bubblemail,0,0,98,0,0,27,0,98,0.0,none
+gnome-shell-extension-gsconnect,757,0,67,257,0,3,753,824,91.86893203883496,Lithuanian
+gnome-shell-extension-openweather,73,165,612,47,66,152,74,850,8.588235294117647,Lithuanian <lt@li.org>
+gnome-shell-extensions,270,0,0,53,0,0,245,270,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-shell-frippery,20,0,0,6,0,0,24,20,100.0,
+gnome-software,4893,0,0,948,0,0,4303,4893,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-sound-recorder,271,0,0,78,0,0,256,271,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-sudoku,418,0,0,71,0,0,330,418,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-system-log,436,0,0,70,0,0,363,436,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-system-monitor,1566,0,0,341,0,0,1475,1566,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-taquin,431,0,0,111,0,0,363,431,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-terminal,2617,0,0,502,0,0,2189,2617,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-tetravex,968,0,0,165,0,0,820,968,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-text-editor,1049,0,0,278,0,0,904,1049,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-themes-extra,15,0,0,6,0,0,11,15,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-todo,737,0,0,157,0,0,626,737,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-tour,115,0,0,24,0,0,101,115,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-tweaks,518,0,0,151,0,0,484,518,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-user-docs,1668,12,56500,268,1,3020,1638,58180,2.86696459264352,Lithuanian <gnome-lt@lists.akl.lt>
+gnome-user-share,49,0,0,10,0,0,41,49,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnome-vfs2,1519,0,0,305,0,0,1316,1519,100.0,Lithuanian <komp_lt@konferencijos.lt>
+gnome-video-effects,256,0,0,68,0,0,209,256,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+gnome-weather,219,0,0,46,0,0,200,219,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnote,7445,0,0,915,0,0,5928,7445,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gnucash,21113,6666,9270,3764,1023,614,17516,37049,56.98669329806473,Lithuanian <https://hosted.weblate.org/projects/gnucash/gnucash/lt/>
+gnumeric,22316,310,15110,4448,65,1400,19362,37736,59.1371634513462,Lietuvių <gnome-lt@lists.akl.lt>
+gnusim8085,563,0,0,141,0,0,507,563,100.0,Lithuanian <lt@li.org>
+godot3,484,3632,281029,199,1564,16255,471,285145,0.16973820337021517,Lithuanian <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/lt/>
+goffice,6364,131,89,2046,52,15,5706,6584,96.65856622114217,Lietuvių <gnome-lt@lists.akl.lt>
+gparted,3053,0,0,512,0,0,2622,3053,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gpick,735,0,0,360,0,0,724,735,100.0,
+gpicview,236,0,0,52,0,0,223,236,100.0,Lietuvių <>
+gpredict,1886,0,4238,379,0,764,1485,6124,30.796864794252123,Lithuanian <lt@li.org>
+gramps,37789,1188,940,6464,250,134,31901,39917,94.66893804644637,Lithuanian <komp_lt@konferencijos.lt>
+granatier,99,8,139,40,3,25,84,246,40.243902439024396,lt <kde-i18n-lt@kde.org>
+granite,111,4,383,57,2,59,130,498,22.289156626506024,Lithuanian <https://l10n.elementary.io/projects/desktop/granite/lt/>
+grantlee-editor,426,59,45,139,16,3,387,530,80.37735849056604,lt
+grep,31,349,505,12,31,61,31,885,3.5028248587570623,Lithuanian <komp_lt@konferencijos.lt>
+grilo,191,0,0,36,0,0,164,191,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+grilo-plugins,540,0,0,132,0,0,437,540,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+grub-customizer,1295,0,0,193,0,0,1149,1295,100.0,Lithuanian <lt@li.org>
+grub2,5343,147,1922,1097,36,244,5082,7412,72.08580679978414,Lithuanian <komp_lt@konferencijos.lt>
+gsettings-desktop-schemas,7207,0,0,630,0,0,5664,7207,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gspell,76,0,0,31,0,0,70,76,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gstreamer1,1657,186,349,303,31,50,1395,2192,75.59306569343066,Lithuanian <komp_lt@konferencijos.lt>
+gstreamer1-plugins-bad-free,30,28,139,5,4,20,26,197,15.228426395939088,Lithuanian <komp_lt@konferencijos.lt>
+gstreamer1-plugins-base,320,126,591,71,29,117,270,1037,30.858244937319192,Lithuanian <komp_lt@konferencijos.lt>
+gstreamer1-plugins-good,405,232,194,44,29,30,308,831,48.73646209386281,Lithuanian <komp_lt@konferencijos.lt>
+gstreamer1-plugins-ugly-free,38,16,26,5,3,2,30,80,47.5,Lithuanian <komp_lt@konferencijos.lt>
+gthumb,3608,0,0,1200,0,0,3187,3608,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gtimelog,437,0,0,126,0,0,415,437,100.0,<marius@gedmin.as>
+gtk+,202,0,0,105,0,0,190,202,100.0,Lithuanian
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Lietuvių <>
+gtk2,13699,5,0,2783,1,0,11054,13704,99.96351430239346,Lithuanian <komp_lt@konferencijos.lt>
+gtk2-engines,119,0,0,47,0,0,117,119,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+gtk3,16737,0,0,3942,0,0,13702,16737,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gtk4,4119,0,0,1487,0,0,3803,4119,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gtkhash,213,0,0,63,0,0,240,213,100.0,Lithuanian <https://hosted.weblate.org/projects/gtkhash/translations/lt/>
+gtkhtml3,522,0,0,317,0,0,518,522,100.0,Lithuanian <komp_lt@konferencijos.lt>
+gtksourceview2,1413,0,0,538,0,0,1281,1413,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+gtksourceview3,322,0,0,106,0,0,285,322,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gtksourceview4,308,0,0,94,0,0,270,308,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gtksourceview5,371,0,0,112,0,0,327,371,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gtkspell,11,0,0,5,0,0,11,11,100.0,Lithuanian <komp_lt@konferencijos.lt>
+gtkspell3,15,0,0,6,0,0,14,15,100.0,Lithuanian <komp_lt@konferencijos.lt>
+gtranslator,1325,0,0,293,0,0,1172,1325,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+guayadeque,1878,0,1539,641,0,403,1694,3417,54.96049165935031,Lithuanian (http://www.transifex.com/anonbeat/guayadeque/language/lt/)
+gucharmap,1473,0,0,509,0,0,1346,1473,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gvfs,2097,0,0,404,0,0,1807,2097,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+gwenview,1651,0,346,422,0,16,1744,1997,82.67401101652479,lt <kde-i18n-lt@kde.org>
+haruna,0,0,1078,0,0,326,0,1078,0.0,none
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hexchat,3926,0,2045,1106,0,340,3530,5971,65.7511304639089,Lithuanian (http://www.transifex.com/hexchat/hexchat/language/lt/)
+hitori,239,0,0,63,0,0,189,239,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+homebank,1377,0,1570,496,0,440,1277,2947,46.725483542585685,Lithuanian <komp_lt@konferencijos.lt>
+iagno,801,0,0,149,0,0,681,801,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+ibus-m17n,57,0,0,24,0,0,56,57,100.0,Lithuanian <https://translate.fedoraproject.org/projects/ibus-m17n/app/lt/>
+ibus-typing-booster,0,0,2064,0,0,237,0,2064,0.0,none
+icewm,628,458,1181,271,85,170,638,2267,27.701808557565066,Lithuanian <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/lt/>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Lithuanian
+initscripts,278,71,769,60,13,85,244,1118,24.86583184257603,Lithuanian (http://www.transifex.com/projects/p/fedora/language/lt/)
+inkscape,7503,12940,20486,1701,4161,2806,6680,40929,18.331745217327565,Lithuanian
+iso-codes,5449,3106,15114,3478,1640,10473,5667,23669,23.02167391947273,Lithuanian <https://hosted.weblate.org/projects/iso-codes/iso-15924/lt/>
+isoimagewriter,444,0,0,78,0,0,376,444,100.0,lt
+isomaster,674,0,0,107,0,0,550,674,100.0,Lithuanian <kde-i18n-doc@kde.org>
+json-glib,307,0,0,47,0,0,250,307,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+juk,1526,0,0,362,0,0,1404,1526,100.0,Lithuanian <kde-i18n-doc@kde.org>
+k3b,8129,986,11068,1695,110,712,7287,20183,40.276470296784424,Lithuanian <kde-i18n-lt@kde.org>
+k4dirstat,533,0,0,161,0,0,516,533,100.0,Lithuanian (http://www.transifex.com/k4dirstat/k4dirstat/language/lt/)
+kBuild,31,349,505,12,31,61,31,885,3.5028248587570623,Lithuanian <komp_lt@konferencijos.lt>
+kaccounts-integration,160,0,0,29,0,0,132,160,100.0,lt
+kaccounts-providers,0,0,101,0,0,38,0,101,0.0,lt
+kactivitymanagerd,11,0,0,5,0,0,11,11,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kaddressbook,525,67,559,161,20,58,455,1151,45.61251086012164,lt <kde-i18n-lt@kde.org>
+kajongg,45,52,2361,39,34,438,43,2458,1.8307567127746134,Lithuanian <kde-i18n-lt@kde.org>
+kalarm,2061,1954,4362,501,342,379,1782,8377,24.603079861525607,lt <kde-i18n-lt@kde.org>
+kalendar,0,0,1568,0,0,563,0,1568,0.0,none
+kalgebra,136,11,110,70,5,49,129,257,52.918287937743195,Lithuanian <kde-i18n-lt@kde.org>
+kalk,0,0,23,0,0,13,0,23,0.0,none
+kalzium,3755,2495,2855,723,243,335,3025,9105,41.24107633168589,Lithuanian <kde-i18n-lt@kde.org>
+kamera,347,0,0,38,0,0,269,347,100.0,lt <kde-i18n-lt@kde.org>
+kamoso,142,0,3,41,0,1,165,145,97.93103448275862,lt <kde-i18n-lt@kde.org>
+kanagram,295,140,92,102,13,29,280,527,55.97722960151803,Lithuanian <kde-i18n-lt@kde.org>
+kapman,99,10,6,29,5,2,88,115,86.08695652173914,lt <kde-i18n-lt@kde.org>
+kapow,102,0,0,4,0,0,71,102,100.0,Lithuanian (http://www.transifex.com/gottcode/kapow/language/lt/)
+kapptemplate,50,17,205,18,8,26,41,272,18.38235294117647,Lithuanian <kde-i18n-doc@kde.org>
+kasts,0,0,1113,0,0,329,0,1113,0.0,none
+kate,2540,1080,4343,689,235,910,2306,7963,31.897526058018332,Lithuanian <kde-i18n-lt@kde.org>
+katomic,131,6,47,51,1,7,129,184,71.19565217391305,Lithuanian <kde-i18n-lt@kde.org>
+kaudiocreator,1136,0,0,273,0,0,973,1136,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kbackup,0,0,694,0,0,141,0,694,0.0,lt
+kbibtex,15,5,2461,10,2,717,15,2481,0.6045949214026602,Lithuanian <kde-i18n-lt@kde.org>
+kblackbox,109,3,1255,39,1,63,111,1367,7.973664959765911,Lithuanian <kde-i18n-lt@kde.org>
+kblocks,45,3,110,18,2,17,39,158,28.48101265822785,lt <kde-i18n-lt@kde.org>
+kbounce,137,13,6,39,2,2,127,156,87.82051282051282,lt <kde-i18n-lt@kde.org>
+kbrickbuster,57,2,99,25,1,16,52,158,36.075949367088604,lt <kde-i18n-lt@kde.org>
+kbruch,1084,256,7,177,16,5,847,1347,80.47512991833705,Lithuanian <kde-i18n-lt@kde.org>
+kcachegrind,75,30,4262,63,22,477,76,4367,1.717426150675521,Lithuanian <kde-i18n-lt@kde.org>
+kcalc,711,98,261,288,30,32,630,1070,66.44859813084112,lt <kde-i18n-lt@kde.org>
+kcharselect,88,0,0,34,0,0,85,88,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kclock,0,0,354,0,0,140,0,354,0.0,none
+kcm_wacomtablet,101,90,873,51,30,162,100,1064,9.492481203007518,none
+kcolorchooser,29,0,0,10,0,0,30,29,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kcoloredit,134,54,90,50,18,27,124,278,48.201438848920866,Lithuanian <kde-i18n-lt@kde.org>
+kcron,522,0,3,186,0,2,455,525,99.42857142857143,lt <kde-i18n-lt@kde.org>
+kdb,0,0,1502,0,0,244,0,1502,0.0,none
+kde-cli-tools,1956,233,37,212,15,2,1644,2226,87.87061994609164,Lithuanian <kde-i18n-lt@kde.org>
+kde-connect,1385,0,0,374,0,0,1305,1385,100.0,none
+kde-dev-utils,54,10,31,20,3,11,48,95,56.84210526315789,Lithuanian <kde-i18n-lt@kde.org>
+kde-inotify-survey,0,0,190,0,0,8,0,190,0.0,none
+kde-l10n,69869,6394,28893,16082,1143,3950,62565,105156,66.44318916657157,Lithuanian <kde-i18n-lt@kde.org>
+kde-partitionmanager,1430,61,781,468,18,47,1339,2272,62.940140845070424,Lithuanian <kde-i18n-lt@kde.org>
+kde-print-manager,970,0,1,275,0,1,897,971,99.89701338825952,Lithuanian <kde-i18n-lt@kde.org>
+kde-style-breeze,266,0,0,101,0,0,269,266,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kdebugsettings,0,0,279,0,0,77,0,279,0.0,lt
+kdecoration,39,0,0,15,0,0,45,39,100.0,lt
+kdenetwork-filesharing,0,47,802,0,12,90,0,849,0.0,Lithuanian <kde-i18n-lt@kde.org>
+kdenlive,586,3701,11130,376,1490,1670,604,15417,3.8009988973211386,Lithuanian <kde-i18n-lt@kde.org>
+kdepim-addons,880,237,3464,239,45,672,794,4581,19.20977952412137,lt <kde-i18n-lt@kde.org>
+kdepim-runtime,4224,654,2646,726,79,378,3585,7524,56.14035087719298,Lithuanian <kde-i18n-lt@kde.org>
+kdeplasma-addons,1671,65,71,625,16,10,1668,1807,92.47371333702269,Lithuanian <kde-i18n-lt@kde.org>
+kdesdk-kioslaves,27,0,57,11,0,6,26,84,32.142857142857146,Lithuanian <kde-i18n-lt@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kdesvn,920,629,3388,376,158,380,880,4937,18.634798460603605,Lithuanian <kde-i18n-lt@kde.org>
+kdevelop,281,758,14773,119,359,2650,274,15812,1.7771312926890968,lt <kde-i18n-lt@kde.org>
+kdevelop-php,0,0,529,0,0,72,0,529,0.0,Lithuanian <kde-i18n-lt@kde.org>
+kdf,180,0,15,68,0,3,169,195,92.3076923076923,Lithuanian <kde-i18n-lt@kde.org>
+kdialog,226,75,81,52,11,12,218,382,59.16230366492147,Lithuanian <kde-i18n-lt@kde.org>
+kdiamond,122,0,0,32,0,0,126,122,100.0,lt <kde-i18n-lt@kde.org>
+kdiff3,154,158,3111,72,66,482,150,3423,4.4989775051124745,Lithuanian <kde-i18n-lt@kde.org>
+kdnssd,30,0,0,7,0,0,25,30,100.0,Lithuanian <kde-i18n-lt@kde.org>
+keditbookmarks,415,51,0,126,6,0,382,466,89.05579399141631,Lithuanian <kde-i18n-lt@kde.org>
+kexi,358,2010,4997,209,651,634,346,7365,4.860828241683639,Lithuanian <kde-i18n-lt@kde.org>
+keysmith,0,0,225,0,0,56,0,225,0.0,none
+kf5-akonadi-calendar,840,112,1030,188,38,101,838,1982,42.38143289606458,none
+kf5-akonadi-contacts,1026,235,208,220,64,28,978,1469,69.84343090537782,Lithuanian <kde-i18n-doc@kde.org>
+kf5-akonadi-mime,521,44,4,100,9,2,583,569,91.56414762741653,lt <kde-i18n-lt@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Lithuanian <kde-i18n-doc@kde.org>
+kf5-akonadi-search,7,0,41,3,0,8,8,48,14.583333333333334,Lithuanian <kde-i18n-lt@kde.org>
+kf5-akonadi-server,646,245,1705,186,67,188,671,2596,24.884437596302003,Lithuanian <kde-i18n-lt@kde.org>
+kf5-audiocd-kio,707,129,167,171,3,36,673,1003,70.48853439680957,Lithuanian <kde-i18n-lt@kde.org>
+kf5-baloo,834,7,17,170,2,6,714,858,97.2027972027972,none
+kf5-calendarsupport,954,629,1196,193,98,100,776,2779,34.32889528607413,lt <kde-i18n-lt@kde.org>
+kf5-eventviews,1924,44,993,241,21,56,1578,2961,64.97804795677136,lt <kde-i18n-lt@kde.org>
+kf5-grantleetheme,0,0,14,0,0,6,0,14,0.0,lt
+kf5-incidenceeditor,594,441,1173,175,91,154,518,2208,26.902173913043477,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kalarmcal,154,43,7,77,24,3,191,204,75.49019607843137,Lithuanian <kde-i18n-doc@kde.org>
+kf5-karchive,0,0,488,0,0,82,0,488,0.0,none
+kf5-kauth,73,0,0,8,0,0,70,73,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kblog,14,0,229,4,0,23,11,243,5.761316872427984,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kbookmarks,139,91,0,28,21,0,116,230,60.43478260869565,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kcalendarutils,477,511,487,223,113,81,580,1475,32.33898305084746,lt <kde-i18n-lt@kde.org>
+kf5-kcmutils,247,2,17,27,2,9,236,266,92.85714285714286,lt <kde-i18n-lt@kde.org>
+kf5-kcodecs,233,137,0,48,5,0,192,370,62.972972972972975,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kcompletion,15,3,0,9,2,0,15,18,83.33333333333334,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kconfig,260,19,10,101,2,1,258,289,89.96539792387543,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kconfigwidgets,342,0,0,125,0,0,350,342,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,178,177,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kcoreaddons,337,44,1,124,7,1,339,382,88.21989528795811,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kdav,0,0,185,0,0,20,0,185,0.0,lt
+kf5-kdbusaddons,48,0,0,6,0,0,38,48,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kdeclarative,104,0,57,14,0,11,90,161,64.59627329192547,lt <kde-i18n-lt@kde.org>
+kf5-kdelibs4support,2070,885,2398,1239,514,791,2025,5353,38.66990472632169,lt <kde-i18n-lt@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,47,54,100.0,lt <kde-i18n-lt@kde.org>
+kf5-kdesu,19,0,0,7,0,0,19,19,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kfilemetadata,286,12,1,130,4,1,300,299,95.65217391304348,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kglobalaccel,59,12,0,8,1,0,54,71,83.09859154929578,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kholidays,150,0,0,97,0,0,158,150,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-khtml,1529,92,46,282,4,3,1336,1667,91.72165566886623,Lithuanian <kde-i18n-lt@kde.org>
+kf5-ki18n,124,0,0,110,0,0,125,124,100.0,lt <kde-i18n-lt@kde.org>
+kf5-kiconthemes,23,5,13,12,3,4,25,41,56.09756097560976,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kidentitymanagement,110,63,9,20,2,2,85,182,60.43956043956044,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kimap,96,1,21,45,1,5,89,118,81.35593220338984,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kinit,116,0,0,11,0,0,85,116,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kio,9633,1044,1352,1165,122,85,7923,12029,80.08146978136172,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kipi-plugins,1102,449,3124,282,65,692,958,4675,23.572192513368982,lt
+kf5-kirigami2,23,29,60,10,17,21,23,112,20.535714285714285,lt
+kf5-kirigami2-addons,0,0,161,0,0,30,0,161,0.0,none
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kitinerary,0,0,108,0,0,30,0,108,0.0,lt
+kf5-kjobwidgets,133,0,0,38,0,0,198,133,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,234,248,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kldap,76,6,145,35,4,22,74,227,33.480176211453745,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kmailtransport,189,14,473,67,5,37,168,676,27.958579881656803,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kmime,159,0,0,10,0,0,115,159,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-knewstuff,1631,0,0,231,0,0,1377,1631,100.0,lt <kde-i18n-lt@kde.org>
+kf5-knotifications,20,1,0,7,1,0,17,21,95.23809523809523,Lithuanian <kde-i18n-lt@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,94,129,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,6,4,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kpackage,440,2,10,69,1,3,385,452,97.34513274336283,lt
+kf5-kparts,123,8,7,28,1,1,115,138,89.13043478260869,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kpeople,13,0,0,8,0,0,14,13,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kpimtextedit,101,29,276,51,16,124,99,406,24.876847290640395,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kpty,15,0,0,4,0,0,16,15,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kross,100,0,0,35,0,0,107,100,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kservice,173,0,0,28,0,0,161,173,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-ksmtp,52,3,31,5,1,6,41,86,60.46511627906976,Lithuanian <kde-i18n-doc@kde.org>
+kf5-ktexteditor,5709,1350,2174,844,230,190,4874,9233,61.83255713202642,Lithuanian <kde-i18n-lt@kde.org>
+kf5-ktextwidgets,459,1,13,121,1,8,445,473,97.04016913319239,Lithuanian <kde-i18n-lt@kde.org>
+kf5-ktnef,73,2,280,42,2,99,75,355,20.56338028169014,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kunitconversion,3652,1036,1069,1610,432,441,5208,5757,63.435817265937125,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kwallet,1460,0,0,110,0,0,1195,1460,100.0,lt
+kf5-kwidgetsaddons,1264,27,2,449,12,2,1220,1293,97.7571539056458,lt <kde-i18n-lt@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kxmlgui,1419,94,61,204,11,15,1364,1574,90.15247776365946,Lithuanian <kde-i18n-lt@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-libgravatar,0,0,27,0,0,12,0,27,0.0,lt
+kf5-libkcddb,342,7,127,191,4,30,328,476,71.84873949579831,Lithuanian <kde-i18n-lt@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,14,15,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kf5-libkdepim,24,0,11,9,0,1,23,35,68.57142857142857,Lithuanian <kde-i18n-lt@kde.org>
+kf5-libkgeomap,110,0,29,41,0,5,95,139,79.13669064748201,lt <kde-i18n-lt@kde.org>
+kf5-libkleo,564,292,894,179,84,117,524,1750,32.22857142857143,Lithuanian <kde-i18n-lt@kde.org>
+kf5-libksane,269,27,8,87,4,2,263,304,88.48684210526315,lt <kde-i18n-lt@kde.org>
+kf5-libksieve,26,74,3021,13,35,489,21,3121,0.8330663248958666,Lithuanian <kde-i18n-lt@kde.org>
+kf5-libktorrent,443,22,0,103,2,0,421,465,95.26881720430107,Lithuanian <kde-i18n-doc@kde.org>
+kf5-mailcommon,439,178,2138,194,76,228,390,2755,15.934664246823957,lt <kde-i18n-lt@kde.org>
+kf5-mailimporter,898,425,85,80,22,25,806,1408,63.77840909090909,Lithuanian <kde-i18n-doc@kde.org>
+kf5-messagelib,3632,386,4506,893,97,410,3233,8524,42.60910370717973,lt <kde-i18n-lt@kde.org>
+kf5-pimcommon,133,148,529,51,55,95,116,810,16.419753086419753,Lithuanian <kde-i18n-lt@kde.org>
+kf5-plasma,362,0,0,105,0,0,320,362,100.0,lt <kde-i18n-lt@kde.org>
+kf5-purpose,132,2,189,43,1,31,123,323,40.86687306501548,lt
+kf5-solid,533,34,21,146,10,3,449,588,90.64625850340136,lt <kde-i18n-lt@kde.org>
+kf5-sonnet,639,22,22,67,4,5,532,683,93.55783308931186,Lithuanian <kde-i18n-lt@kde.org>
+kf5-syntax-highlighting,0,350,295,0,261,120,0,645,0.0,lt <kde-i18n-lt@kde.org>
+kfind,494,8,15,113,2,2,476,517,95.55125725338492,Lithuanian <kde-i18n-lt@kde.org>
+kfloppy,108,105,428,33,17,50,96,641,16.848673946957877,Lithuanian <kde-i18n-lt@kde.org>
+kfourinline,67,47,278,42,23,92,67,392,17.091836734693878,lt <kde-i18n-lt@kde.org>
+kgamma,130,0,0,16,0,0,110,130,100.0,lt <kde-i18n-lt@kde.org>
+kgeography,5617,2476,1919,4303,1632,1302,5500,10012,56.10267678785458,Lithuanian <kde-i18n-lt@kde.org>
+kget,2557,181,18,694,30,10,2365,2756,92.77939042089986,Lithuanian <kde-i18n-lt@kde.org>
+kgoldrunner,280,180,27551,136,72,800,291,28011,0.9996072971332691,Lithuanian <kde-i18n-lt@kde.org>
+kgpg,3868,420,984,579,56,62,3460,5272,73.36874051593323,Lithuanian <kde-i18n-lt@kde.org>
+kgrab,91,0,279,38,0,15,88,370,24.594594594594597,Lithuanian <kde-i18n-lt@kde.org>
+kgraphviewer,163,42,1000,60,11,144,146,1205,13.526970954356846,Lithuanian <kde-i18n-lt@kde.org>
+khangman,285,39,151,75,13,32,274,475,60.0,lt <kde-i18n-lt@kde.org>
+khelpcenter,228,6,31,84,2,4,218,265,86.0377358490566,Lithuanian <kde-i18n-lt@kde.org>
+khotkeys,435,2,14,128,1,7,378,451,96.45232815964523,Lithuanian <kde-i18n-lt@kde.org>
+kicad,24792,8794,3357,5436,1453,268,22292,36943,67.10878921581896,Lithuanian <https://hosted.weblate.org/projects/kicad/master-source/lt/>
+kiconedit,548,135,43,127,18,10,459,726,75.48209366391184,Lithuanian <kde-i18n-lt@kde.org>
+kid3,0,0,3189,0,0,1395,0,3189,0.0,none
+kig,6613,1099,145,1052,183,51,5459,7857,84.16698485427008,lt <kde-i18n-lt@kde.org>
+kigo,57,20,427,27,11,93,57,504,11.30952380952381,Lithuanian <kde-i18n-lt@kde.org>
+kile,2867,2348,7779,1079,461,643,2640,12994,22.06402955210097,Lithuanian <kde-i18n-lt@kde.org>
+killbots,29,91,517,10,38,79,24,637,4.552590266875981,Lithuanian <kde-i18n-lt@kde.org>
+kinfocenter,563,53,59,270,27,30,585,675,83.4074074074074,Lithuanian <kde-i18n-lt@kde.org>
+kio-admin,0,0,3,0,0,1,0,3,0.0,none
+kio-extras,717,295,154,110,19,25,623,1166,61.492281303602056,Lithuanian <kde-i18n-lt@kde.org>
+kio-gdrive,63,5,8,15,2,1,54,76,82.89473684210526,lt
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kirigami-gallery,0,0,965,0,0,139,0,965,0.0,lt
+kiriki,52,0,92,32,0,18,51,144,36.11111111111111,Lithuanian <kde-i18n-lt@kde.org>
+kiten,370,118,195,117,12,44,370,683,54.17276720351391,lt <kde-i18n-lt@kde.org>
+kjots,112,167,372,36,42,56,96,651,17.20430107526882,lt <kde-i18n-lt@kde.org>
+kjournald,0,0,116,0,0,58,0,116,0.0,none
+kjumpingcube,104,47,262,33,11,51,86,413,25.181598062954,Lithuanian <kde-i18n-lt@kde.org>
+kleopatra,1829,2604,7864,496,567,807,1727,12297,14.87354639342929,Lithuanian <kde-i18n-doc@kde.org>
+klettres,63,2,375,35,1,49,64,440,14.318181818181818,lt <kde-i18n-lt@kde.org>
+klickety,57,5,116,28,3,31,55,178,32.02247191011236,lt <kde-i18n-lt@kde.org>
+klines,69,5,25,23,1,4,55,99,69.6969696969697,Lithuanian <kde-i18n-lt@kde.org>
+kmag,149,5,278,61,1,36,148,432,34.49074074074074,Lithuanian <kde-i18n-lt@kde.org>
+kmahjongg,267,51,59,81,13,10,245,377,70.82228116710876,Lithuanian <kde-i18n-lt@kde.org>
+kmail,5087,1159,2856,914,209,374,4669,9102,55.8888156449132,Lithuanian <kde-i18n-lt@kde.org>
+kmail-account-wizard,797,10,8,128,2,1,713,815,97.79141104294479,lt <kde-i18n-lt@kde.org>
+kmenuedit,276,4,5,62,2,3,243,285,96.84210526315789,Lithuanian <kde-i18n-lt@kde.org>
+kmines,108,0,48,38,0,7,92,156,69.23076923076923,lt <kde-i18n-lt@kde.org>
+kmix,621,198,273,139,42,30,564,1092,56.86813186813187,Lithuanian <kde-i18n-lt@kde.org>
+kmousetool,8,8,131,6,1,25,8,147,5.442176870748299,Lithuanian <kde-i18n-doc@kde.org>
+kmouth,368,38,1090,134,7,67,327,1496,24.598930481283425,Lithuanian <kde-i18n-doc@kde.org>
+kmplayer,1210,0,38,360,0,10,1101,1248,96.9551282051282,Lithuanian <kde-i18n-lt@kde.org>
+kmplot,2188,284,28,412,64,9,1770,2500,87.52,Lithuanian <kde-i18n-lt@kde.org>
+kmymoney,2560,4710,14781,883,1500,1319,2342,22051,11.609450818556981,lt <kde-i18n-lt@kde.org>
+knavalbattle,260,56,85,83,4,17,252,401,64.83790523690773,Lithuanian <kde-i18n-lt@kde.org>
+knetwalk,83,4,156,28,2,26,76,243,34.15637860082305,lt <kde-i18n-lt@kde.org>
+knights,652,102,42,186,35,13,564,796,81.90954773869346,Lithuanian <kde-i18n-lt@kde.org>
+knotes,514,103,181,198,24,22,480,798,64.41102756892231,Lithuanian <kde-i18n-lt@kde.org>
+koffice-kivio,435,114,7868,257,72,2032,422,8417,5.1681121539741,Lithuanian <kde-i18n-lt@kde.org>
+koko,0,0,303,0,0,136,0,303,0.0,none
+kolf,69,10,322,45,3,100,71,401,17.206982543640898,Lithuanian <kde-i18n-lt@kde.org>
+kollision,90,0,19,26,0,4,122,109,82.56880733944955,Lithuanian <kde-i18n-lt@kde.org>
+kolourpaint,2389,148,31,430,9,9,2030,2568,93.02959501557633,Lithuanian <kde-i18n-lt@kde.org>
+kommit,0,0,1313,0,0,359,0,1313,0.0,none
+kompare,291,331,791,56,98,46,300,1413,20.59447983014862,Lithuanian <kde-i18n-lt@kde.org>
+kongress,0,0,151,0,0,58,0,151,0.0,none
+konqueror,6890,432,1737,962,65,237,5866,9059,76.05695992935203,Lithuanian <kde-i18n-lt@kde.org>
+konquest,100,32,114,49,14,35,113,246,40.65040650406504,Lithuanian <kde-i18n-lt@kde.org>
+konsole5,1504,943,1536,338,235,264,1311,3983,37.760482048707004,Lithuanian <kde-i18n-lt@kde.org>
+kontact,197,57,238,52,13,22,202,492,40.040650406504064,lt <kde-i18n-lt@kde.org>
+konversation,8152,335,1876,1557,30,62,7248,10363,78.66447939785776,Lithuanian <kde-i18n-lt@kde.org>
+kopeninghours,0,0,160,0,0,20,0,160,0.0,none
+kopete,11300,2269,3606,2719,231,345,9887,17175,65.79330422125183,Lithuanian <kde-i18n-lt@kde.org>
+korganizer,3641,1330,1941,505,211,171,2965,6912,52.676504629629626,lt <kde-i18n-lt@kde.org>
+kosmindoormap,0,0,457,0,0,318,0,457,0.0,none
+kpat,109,99,357,49,32,118,120,565,19.29203539823009,lt <kde-i18n-lt@kde.org>
+kphotoalbum,236,418,8359,142,182,733,246,9013,2.6184400310662377,Lithuanian <kde-i18n-lt@kde.org>
+kpilot,64,173,6919,41,92,728,63,7156,0.8943543879262158,Lithuanian <kde-i18n-lt@kde.org>
+kpmcore,1158,998,1089,285,101,108,1129,3245,35.685670261941446,Lithuanian <kde-i18n-lt@kde.org>
+kproperty,0,0,145,0,0,82,0,145,0.0,none
+krdc,876,136,150,213,19,28,819,1162,75.38726333907057,Lithuanian <kde-i18n-lt@kde.org>
+krecorder,0,0,136,0,0,59,0,136,0.0,none
+krename,1486,443,213,345,60,47,1243,2142,69.37441643323996,Lithuanian <kde-i18n-lt@kde.org>
+kreport,0,267,188,0,150,43,0,455,0.0,Lithuanian <kde-i18n-lt@kde.org>
+kreversi,91,55,279,39,9,92,85,425,21.41176470588235,Lithuanian <kde-i18n-lt@kde.org>
+krfb,275,125,335,52,12,41,243,735,37.41496598639456,lt <kde-i18n-lt@kde.org>
+krita,1640,13199,20196,784,5221,2370,1549,35035,4.681033252461824,Lithuanian <kde-i18n-lt@kde.org>
+kruler,104,41,13,35,3,6,89,158,65.82278481012658,Lithuanian <kde-i18n-lt@kde.org>
+krusader,3857,2808,1430,1108,472,179,3725,8095,47.64669549104386,lt <kde-i18n-lt@kde.org>
+ksanecore,0,0,59,0,0,10,0,59,0.0,none
+kscreen,251,47,121,62,2,15,269,419,59.90453460620525,Lithuanian <kde-i18n-lt@kde.org>
+kscreenlocker,114,131,0,28,3,0,108,245,46.53061224489796,Lithuanian <kde-i18n-lt@kde.org>
+kshisen,51,9,601,32,2,41,49,661,7.715582450832073,Lithuanian <kde-i18n-lt@kde.org>
+ksig,12,6,67,10,3,13,13,85,14.117647058823529,Lithuanian <kde-i18n-lt@kde.org>
+ksirk,441,455,4860,200,87,472,398,5756,7.661570535093815,Lithuanian <kde-i18n-lt@kde.org>
+ksnakeduel,13,8,220,7,4,44,17,241,5.394190871369295,Lithuanian <kde-i18n-lt@kde.org>
+kspaceduel,92,3,70,53,1,27,88,165,55.757575757575765,Lithuanian <kde-i18n-lt@kde.org>
+ksquares,61,3,196,34,2,42,60,260,23.46153846153846,Lithuanian <kde-i18n-lt@kde.org>
+ksshaskpass,50,0,1,14,0,1,47,51,98.0392156862745,Lithuanian <kde-i18n-lt@kde.org>
+kstars,12284,15957,25412,2455,5756,3949,10395,53653,22.895271466646786,Lithuanian <kde-i18n-lt@kde.org>
+ksudoku,172,20,1554,44,8,111,223,1746,9.851088201603666,Lithuanian <kde-i18n-lt@kde.org>
+ksysguard,1093,0,0,237,0,0,927,1093,100.0,lt <kde-i18n-lt@kde.org>
+ksystemlog,2806,161,134,431,23,34,2296,3101,90.48693969687199,lt <kde-i18n-lt@kde.org>
+ksystemstats,242,54,182,93,20,69,228,478,50.627615062761514,none
+kteatime,188,14,1,64,2,1,231,203,92.61083743842364,Lithuanian <kde-i18n-doc@kde.org>
+ktimer,53,0,205,26,0,27,47,258,20.54263565891473,lt <kde-i18n-lt@kde.org>
+ktorrent,4118,683,2654,1037,135,183,3617,7455,55.23809523809524,Lithuanian <kde-i18n-doc@kde.org>
+ktouch,698,68,194,212,19,26,659,960,72.70833333333333,Lithuanian <kde-i18n-lt@kde.org>
+ktp-accounts-kcm,805,112,183,272,17,20,796,1100,73.18181818181819,lt <kde-i18n-lt@kde.org>
+ktp-approver,52,18,1,13,4,1,55,71,73.23943661971832,Lithuanian <kde-i18n-lt@kde.org>
+ktp-auth-handler,62,0,21,21,0,3,59,83,74.69879518072288,Lithuanian <kde-i18n-lt@kde.org>
+ktp-common-internals,167,36,786,55,14,137,150,989,16.885743174924166,Lithuanian <kde-i18n-lt@kde.org>
+ktp-contact-list,328,42,310,90,16,21,307,680,48.23529411764706,lt <kde-i18n-lt@kde.org>
+ktp-contact-runner,169,38,1,33,9,1,144,208,81.25,Lithuanian <kde-i18n-lt@kde.org>
+ktp-desktop-applets,38,0,37,12,0,10,29,75,50.66666666666667,lt
+ktp-filetransfer-handler,137,0,4,37,0,2,141,141,97.16312056737588,Lithuanian <kde-i18n-lt@kde.org>
+ktp-kded-integration-module,179,22,289,32,6,21,152,490,36.53061224489796,Lithuanian <kde-i18n-lt@kde.org>
+ktp-send-file,55,4,1,16,1,1,52,60,91.66666666666666,Lithuanian <kde-i18n-lt@kde.org>
+ktp-text-ui,508,24,907,126,6,188,448,1439,35.30229325920779,Lithuanian <kde-i18n-lt@kde.org>
+ktrip,0,0,103,0,0,42,0,103,0.0,none
+ktuberling,102,5,51,33,2,3,93,158,64.55696202531645,Lithuanian <kde-i18n-lt@kde.org>
+kturtle,1426,91,21,261,83,5,1299,1538,92.71781534460338,Lithuanian <kde-i18n-lt@kde.org>
+kubrick,10,4,1191,7,1,158,10,1205,0.8298755186721992,Lithuanian <kde-i18n-lt@kde.org>
+kuserfeedback,610,0,538,102,0,167,548,1148,53.13588850174216,lt
+kwalletmanager5,835,4,0,167,2,0,714,839,99.52324195470798,Lithuanian <kde-i18n-lt@kde.org>
+kwave,0,0,5798,0,0,1305,0,5798,0.0,lt
+kweather,137,21,5,64,9,5,126,163,84.04907975460122,none
+kwebkitpart,669,0,0,165,0,0,591,669,100.0,Lithuanian <kde-i18n-lt@kde.org>
+kwin,4989,409,551,1088,56,67,4648,5949,83.86283408976298,Lithuanian <kde-i18n-lt@kde.org>
+kwordquiz,1609,174,275,335,42,38,1462,2058,78.1827016520894,lt <kde-i18n-lt@kde.org>
+kxstitch,0,0,2016,0,0,571,0,2016,0.0,none
+l3afpad,113,0,17,61,0,3,114,130,86.92307692307692,Lithuanian <komp_lt@konferencijos.lt>
+lagrange,73,0,0,27,0,0,82,73,100.0,
+lammps,99,0,0,34,0,0,88,99,100.0,Lithuanian (https://www.transifex.com/readthedocs/teams/101354/lt/)
+lasem,29,0,0,10,0,0,27,29,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+latte-dock,1672,831,1023,425,186,163,1538,3526,47.41917186613727,lt
+lazarus,38102,3350,3349,9965,280,753,35595,44801,85.04720876766143,Lithuanian <kde-i18n-lt@kde.org>
+lazpaint,1596,0,0,347,0,0,1409,1596,100.0,Lietuvių <kde-i18n-lt@kde.org>
+leafpad,125,0,0,68,0,0,123,125,100.0,Lithuanian <komp_lt@konferencijos.lt>
+libadwaita,265,0,0,74,0,0,245,265,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libappstream-glib,990,16,7,206,3,1,890,1013,97.72951628825271,Lithuanian
+libbonobo,543,0,0,107,0,0,492,543,100.0,Lithuanian <komp_lt@konferencijos.lt>
+libbonoboui,368,0,0,115,0,0,318,368,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+libcryptui,752,0,0,192,0,0,650,752,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libfilezilla,140,0,0,30,0,0,118,140,100.0,Lietuvių <>
+libfm,1575,0,0,394,0,0,1400,1575,100.0,Lietuvių <>
+libgda,844,3486,6932,248,810,984,779,11262,7.494228378618363,Lietuvių <gnome-lt@lists.akl.lt>
+libgda5,723,3478,6941,222,809,1023,674,11142,6.488960689283791,Lithuanian <komp_lt@konferencijos.lt>
+libgdata,701,0,0,87,0,0,542,701,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgdl,659,0,0,96,0,0,529,659,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgnome,1773,0,0,273,0,0,1510,1773,100.0,Lithuanian <komp_lt@konferencijos.lt>
+libgnome-games-support,43,0,0,14,0,0,42,43,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgnome-keyring,44,0,0,9,0,0,30,44,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+libgnomecanvas,378,0,0,95,0,0,331,378,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+libgnomekbd,188,0,0,40,0,0,157,188,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgnomeui,1226,0,0,320,0,0,985,1226,100.0,Lithuanian <komp_lt@konferencijos.lt>
+libgovirt,98,0,0,22,0,0,87,98,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgsf,720,0,0,150,0,0,621,720,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgtop2,126,0,0,40,0,0,132,126,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgweather,6394,0,0,4696,0,0,6337,6394,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgweather4,6804,0,0,5039,0,0,6750,6804,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,132,7,231,77,3,52,129,370,35.67567567567568,lt <kde-i18n-lt@kde.org>
+libkeduvocdocument,146,19,6,76,4,1,155,171,85.38011695906432,Lithuanian <kde-i18n-lt@kde.org>
+libkgapi,0,25,353,0,6,79,0,378,0.0,Lithuanian <kde-i18n-doc@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Lithuanian <kde-i18n-lt@kde.org>
+libkomparediff2,22,16,105,4,8,7,16,143,15.384615384615385,Lithuanian <kde-i18n-lt@kde.org>
+libksysguard,4140,8,0,625,1,0,3785,4148,99.80713596914175,Lithuanian <kde-i18n-lt@kde.org>
+libmatekbd,300,0,8,89,0,2,249,308,97.40259740259741,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+libmatemixer,242,0,0,126,0,0,262,242,100.0,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+libmateweather,6114,0,29,4550,0,25,6065,6143,99.52791795539639,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+libmypaint,3,2,2298,3,1,158,3,2303,0.13026487190620928,Lithuanian <https://hosted.weblate.org/projects/mypaint/libmypaint/lt/>
+libnma,898,11,8,189,5,2,831,917,97.92802617230099,Lietuvių <gnome-lt@lists.akl.lt>
+libpanel,84,0,0,24,0,0,76,84,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libpeas,103,0,0,29,0,0,85,103,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libreoffice,535698,1522,193009,72047,482,18544,438072,730229,73.36027465356759,Lithuanian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/lt/>
+libreport,0,0,4928,0,0,603,0,4928,0.0,none
+libsecret,64,0,0,10,0,0,49,64,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libshumate,8,0,0,4,0,0,8,8,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libsoup,183,0,0,43,0,0,175,183,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libsoup3,180,0,0,38,0,0,174,180,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Lithuanian (http://www.transifex.com/projects/p/fedora/language/lt/)
+libwnck,1124,0,0,241,0,0,913,1124,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+libwnck3,1086,0,0,231,0,0,940,1086,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+libxfce4ui,964,0,0,197,0,0,907,964,100.0,Lithuanian (http://www.transifex.com/xfce/libxfce4ui/language/lt/)
+libxfce4util,424,0,0,7,0,0,364,424,100.0,Lithuanian (http://www.transifex.com/xfce/libxfce4util/language/lt/)
+libzypp,1877,7,751,784,2,184,1750,2635,71.23339658444023,Lithuanian <https://l10n.opensuse.org/projects/libzypp/master/lt/>
+liferea,900,322,997,282,92,165,822,2219,40.558810274898605,Lithuanian <komp_lt@konferencijos.lt>
+light-locker,260,0,0,37,0,0,240,260,100.0,Lithuanian (http://www.transifex.com/the_cavalry/light-locker/language/lt/)
+lightdm,130,0,33,20,0,1,110,163,79.75460122699386,Lithuanian <lt@li.org>
+lightdm-gtk,89,0,0,25,0,0,90,89,100.0,Lithuanian (https://www.transifex.com/xubuntu/teams/110148/lt/)
+lightdm-gtk-greeter-settings,519,0,0,171,0,0,495,519,100.0,Lithuanian <lt@li.org>
+lightdm-settings,319,0,5,64,0,2,264,324,98.4567901234568,Lithuanian <lt@li.org>
+lightsoff,143,0,0,27,0,0,125,143,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+lokalize,2079,82,1925,533,18,126,1898,4086,50.881057268722465,Lithuanian <kde-i18n-lt@kde.org>
+lollypop,721,0,707,298,0,157,706,1428,50.49019607843137,Lithuanian <https://hosted.weblate.org/projects/gnumdk/lollypop/lt/>
+lskat,58,0,196,33,0,50,62,254,22.83464566929134,Lithuanian <kde-i18n-lt@kde.org>
+lxappearance-obconf,196,0,0,27,0,0,150,196,100.0,LANGUAGE <LL@li.org>
+lxde-common,0,0,14,0,0,5,0,14,0.0,LANGUAGE <LL@li.org>
+lxdm,48,0,0,26,0,0,48,48,100.0,Lietuvių <>
+lxinput,72,0,11,24,0,2,64,83,86.74698795180723,LANGUAGE <LL@li.org>
+lxlauncher,51,0,7,11,0,6,41,58,87.93103448275862,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,95,97,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+lxmusic,203,0,0,89,0,0,183,203,100.0,Lietuvių <>
+lxpanel,1335,33,31,442,3,22,1297,1399,95.42530378842031,Lietuvių <>
+lxrandr,167,0,0,41,0,0,159,167,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,40,43,100.0,LANGUAGE <LL@li.org>
+lxtask,130,0,0,51,0,0,135,130,100.0,Lietuvių <>
+make,294,572,1406,91,111,228,275,2272,12.940140845070422,Lithuanian <komp_lt@konferencijos.lt>
+malcontent,3,0,581,2,0,96,3,584,0.5136986301369862,none
+maliit-keyboard,42,4,35,39,2,20,42,81,51.85185185185185,Lithuanian <lt@li.org>
+mame,88,0,3685,29,0,1288,76,3773,2.3323615160349855,Lithuanian (https://www.transifex.com/readthedocs/teams/101354/lt/)
+manafirewall,24,0,1073,23,0,110,24,1097,2.187784867821331,Lithuanian (https://www.transifex.com/MageiaLinux/teams/9361/lt/)
+marble,3385,3535,4584,1744,684,902,3231,11504,29.424547983310152,Lithuanian <kde-i18n-lt@kde.org>
+marco,4303,0,0,430,0,0,3717,4303,100.0,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+markdownpart,0,0,23,0,0,9,0,23,0.0,none
+massif-visualizer,1,0,356,1,0,108,1,357,0.2801120448179272,lt <kde-i18n-lt@kde.org>
+mate-applets,10678,37,5242,1144,8,494,8877,15957,66.91734035219653,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+mate-backgrounds,55,0,0,29,0,0,53,55,100.0,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+mate-calc,1608,0,1715,521,0,228,1501,3323,48.39000902798676,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+mate-control-center,3599,7,4647,1087,1,422,3271,8253,43.608384829758876,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-desktop,2234,11,131,291,1,9,1836,2376,94.02356902356902,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+mate-media,231,0,8,97,0,2,222,239,96.65271966527197,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-menu,308,0,0,110,0,0,303,308,100.0,Lithuanian (http://www.transifex.com/mate/MATE/language/lt/)
+mate-menus,98,0,5,38,0,1,95,103,95.14563106796116,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-notification-daemon,165,0,21,48,0,5,181,186,88.70967741935483,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-panel,5870,0,850,721,0,93,4806,6720,87.35119047619048,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-polkit,123,0,0,21,0,0,108,123,100.0,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+mate-power-manager,3006,0,2113,404,0,147,2529,5119,58.722406720062516,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-screensaver,1089,0,12,173,0,3,880,1101,98.9100817438692,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-sensors-applet,436,14,1710,18,8,200,363,2160,20.185185185185187,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+mate-session-manager,677,0,38,130,0,2,578,715,94.68531468531468,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-settings-daemon,2178,0,29,317,0,2,1822,2207,98.68599909379247,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-system-monitor,2000,0,2847,366,0,282,1841,4847,41.26263668248401,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+mate-terminal,5120,0,3266,568,0,235,3913,8386,61.054137848795605,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-themes,70,0,78,21,0,25,72,148,47.2972972972973,Lithuanian (http://app.transifex.com/mate/MATE/language/lt/)
+mate-user-admin,117,0,488,47,0,79,109,605,19.33884297520661,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+mate-user-guide,817,0,42156,187,0,3041,760,42973,1.901193772834105,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mate-utils,8621,0,1439,1008,0,118,6870,10060,85.6958250497018,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+mbox-importer,30,10,0,10,3,0,24,40,75.0,Lithuanian <kde-i18n-lt@kde.org>
+mc,2219,2,2187,750,1,522,2062,4408,50.34029038112523,Lithuanian (http://www.transifex.com/mc/mc/language/lt/)
+menulibre,1361,0,0,333,0,0,1225,1361,100.0,Lithuanian (https://app.transifex.com/bluesabreorg/teams/99550/lt/)
+metacity,1891,106,199,290,8,15,1736,2196,86.11111111111111,Lietuvių <gnome-lt@lists.akl.lt>
+meteo,223,0,37,78,0,13,195,260,85.76923076923076,
+midori,3539,0,2,794,0,2,3219,3541,99.94351878000565,Lietuvių <>
+minetest,554,471,8498,228,171,956,538,9523,5.817494487031398,Lithuanian <https://hosted.weblate.org/projects/minetest/minetest/lt/>
+mingw-GConf2,4088,0,0,497,0,0,3544,4088,100.0,Lithuanian <komp_lt@konferencijos.lt>
+mingw-atk,440,0,0,169,0,0,381,440,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Lithuanian (http://www.transifex.com/projects/p/freedesktop/language/lt/)
+mingw-gdk-pixbuf,1325,0,0,198,0,0,1165,1325,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-glib-networking,447,0,0,65,0,0,408,447,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-glib2,7693,0,0,1211,0,0,6586,7693,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-gstreamer,1829,29,59,331,7,10,1547,1917,95.4094940010433,Lithuanian <komp_lt@konferencijos.lt>
+mingw-gstreamer1,1657,186,349,303,31,50,1395,2192,75.59306569343066,Lithuanian <komp_lt@konferencijos.lt>
+mingw-gstreamer1-plugins-bad-free,30,28,139,5,4,20,26,197,15.228426395939088,Lithuanian <komp_lt@konferencijos.lt>
+mingw-gstreamer1-plugins-base,320,126,591,71,29,117,270,1037,30.858244937319192,Lithuanian <komp_lt@konferencijos.lt>
+mingw-gstreamer1-plugins-good,405,232,194,44,29,30,308,831,48.73646209386281,Lithuanian <komp_lt@konferencijos.lt>
+mingw-gtk2,13699,5,0,2783,1,0,11054,13704,99.96351430239346,Lithuanian <komp_lt@konferencijos.lt>
+mingw-gtk3,16727,0,0,3939,0,0,13692,16727,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-gtksourceview3,322,0,0,106,0,0,285,322,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-json-glib,307,0,0,47,0,0,250,307,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-libcharset,148,37,157,30,2,14,146,342,43.27485380116959,Lithuanian <komp_lt@konferencijos.lt>
+mingw-libgovirt,98,0,0,22,0,0,87,98,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-libgsf,725,0,0,151,0,0,624,725,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-libsoup,183,0,0,43,0,0,175,183,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Lithuanian (http://www.transifex.com/freedesktop/p11-kit/language/lt/)
+mingw-wxWidgets3,301,72,7322,236,50,1567,296,7695,3.9116309291747893,KALBA <LL@li.org>
+minuet,0,0,412,0,0,159,0,412,0.0,lt
+mkvtoolnix,1087,3591,20097,347,843,1854,977,24775,4.387487386478305,Lithuanian (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/lt/)
+modem-manager-gui,27,0,1522,13,0,409,27,1549,1.7430600387346677,Lithuanian (http://www.transifex.com/ethereal/modem-manager-gui/language/lt/)
+moodle,52,0,0,14,0,0,53,52,100.0,Lithuanian <vilius@lnk.lt>
+mousepad,1623,0,63,418,0,9,1453,1686,96.26334519572953,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+mousetweaks,114,0,0,30,0,0,97,114,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+mozo,44,0,2,22,0,2,38,46,95.65217391304348,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+msitools,72,0,0,26,0,0,62,72,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+muffin,1219,0,0,144,0,0,1088,1219,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mutt,2890,2038,1801,676,400,344,2516,6729,42.94843215931044,Lithuanian <komp_lt@konferencijos.lt>
+mutter,1253,0,0,148,0,0,1123,1253,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+mypaint,22,20,6339,19,12,1239,23,6381,0.3447735464660711,Lithuanian <https://hosted.weblate.org/projects/mypaint/mypaint/lt/>
+nautilus,5405,0,0,1101,0,0,4942,5405,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+ncmpc,713,0,0,276,0,0,720,713,100.0,Lithuanian <https://hosted.weblate.org/projects/ncmpc/translations/lt/>
+nemiver,1341,0,0,340,0,0,1145,1341,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+nemo-extensions,258,0,0,49,0,0,222,258,100.0,Lithuanian <lt@li.org>
+neochat,0,0,2652,0,0,697,0,2652,0.0,none
+neomutt,7997,0,0,1617,0,0,7208,7997,100.0,Lithuanian <komp_lt@konferencijos.lt>
+network-manager-applet,4304,1,0,858,1,0,3814,4305,99.97677119628338,Lietuvių <gnome-lt@lists.akl.lt>
+newt,4,0,0,4,0,0,4,4,100.0,Lithuanian <komp_lt@konferencijos.lt>
+nicotine+,822,4588,16,228,1072,3,754,5426,15.149281238481386,Lithuanian <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/lt/>
+notejot,8,41,440,6,12,98,9,489,1.6359918200409,
+notes-up,185,6,106,89,4,46,178,297,62.2895622895623,none
+notification-daemon,33,0,0,11,0,0,32,33,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+nutty,608,0,0,152,0,0,574,608,100.0,Lithuanian <https://hosted.weblate.org/projects/nutty/translations/lt/>
+obconf,723,0,15,153,0,3,589,738,97.96747967479675,Lietuvių <>
+okteta,359,42,2137,221,21,376,366,2538,14.144996059889678,Lithuanian <kde-i18n-lt@kde.org>
+okular,5633,3,0,1228,2,0,5059,5636,99.94677075940383,Lithuanian <kde-i18n-lt@kde.org>
+onboard,540,0,1778,170,0,340,488,2318,23.295944779982744,Lithuanian <lt@li.org>
+onionshare,0,0,574,0,0,27,0,574,0.0,none
+openbox,506,0,0,94,0,0,417,506,100.0,Lietuvių <>
+openconnect,8051,0,1081,1368,0,153,7565,9132,88.16250547525186,Lietuvių <gnome-lt@lists.akl.lt>
+optimizer,171,15,96,61,3,11,154,282,60.63829787234043,
+orca,5801,0,0,1908,0,0,5631,5801,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+osmo,1694,29,48,692,1,5,1667,1771,95.65217391304348,Lithuanian (http://www.transifex.com/pasp/osmo/language/lt/)
+p11-kit,105,0,1659,22,0,291,82,1764,5.952380952380952,Lithuanian (http://www.transifex.com/freedesktop/p11-kit/language/lt/)
+pacman,5046,0,143,877,0,21,4472,5189,97.24417036037772,Lithuanian (http://www.transifex.com/toofishes/archlinux-pacman/language/lt/)
+palapeli,377,104,1044,80,24,82,323,1525,24.721311475409834,Lithuanian <kde-i18n-lt@kde.org>
+pam,0,20,515,0,3,97,0,535,0.0,Lithuanian (http://www.transifex.com/projects/p/fedora/language/lt/)
+pan,37,1567,1564,27,449,276,41,3168,1.167929292929293,Lithuanian <komp_lt@konferencijos.lt>
+paprefs,136,0,1,24,0,1,135,137,99.27007299270073,
+parley,1795,995,643,449,191,89,1685,3433,52.28662976988056,lt <kde-i18n-lt@kde.org>
+parole,1157,0,0,301,0,0,1102,1157,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+pavucontrol,411,13,106,126,5,18,445,530,77.54716981132076,
+pcmanfm,1215,0,0,297,0,0,1112,1215,100.0,Lietuvių <>
+pdfmod,204,0,0,53,0,0,221,204,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+peek,527,20,17,87,5,5,478,564,93.43971631205675,Lithuanian <https://hosted.weblate.org/projects/peek/translations/lt/>
+phonon-backend-gstreamer,0,104,0,0,15,0,0,104,0.0,Lithuanian <kde-i18n-lt@kde.org>
+php-phpmyadmin-sql-parser5,31,119,141,7,23,24,23,291,10.652920962199312,Lithuanian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/lt/>
+picard,711,509,9465,315,205,1966,691,10685,6.654188114178755,Lithuanian (http://www.transifex.com/musicbrainz/musicbrainz/language/lt/)
+picmi,72,0,130,51,0,66,72,202,35.64356435643564,Lithuanian <kde-i18n-lt@kde.org>
+pidgin,13678,7,324,3129,2,59,12567,14009,97.63723320722393,Lithuanian (http://www.transifex.com/pidgin/pidgin/language/lt/)
+pidgin-birthday-reminder,289,0,0,66,0,0,298,289,100.0,Lithuanian (https://www.transifex.com/kgraefe/teams/58292/lt/)
+pidgin-sipe,1119,0,0,273,0,0,1027,1119,100.0,Lithuanian (http://www.transifex.com/stefanb/pidgin-sipe/language/lt/)
+pim-data-exporter,60,133,617,32,39,134,58,810,7.4074074074074066,Lithuanian <kde-i18n-lt@kde.org>
+pim-sieve-editor,0,0,437,0,0,117,0,437,0.0,lt
+pinta,368,0,1378,175,0,362,385,1746,21.076746849942726,Lithuanian <lt@li.org>
+pipewire,385,15,247,81,7,20,426,647,59.50540958268934,
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,
+pitivi,2410,0,0,515,0,0,2133,2410,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+plank,189,0,0,50,0,0,186,189,100.0,Lithuanian <lt@li.org>
+plasma-breeze,195,10,37,79,2,4,195,242,80.57851239669421,Lithuanian <kde-i18n-lt@kde.org>
+plasma-browser-integration,123,0,0,23,0,0,97,123,100.0,lt
+plasma-desktop,8377,9,68,1586,4,15,7786,8454,99.0891885497989,Lithuanian <kde-i18n-lt@kde.org>
+plasma-discover,1518,233,1189,453,66,136,1447,2940,51.63265306122449,Lithuanian <kde-i18n-lt@kde.org>
+plasma-disks,0,0,215,0,0,23,0,215,0.0,none
+plasma-drkonqi,934,878,172,107,67,29,812,1984,47.07661290322581,Lithuanian <kde-i18n-lt@kde.org>
+plasma-firewall,404,0,0,144,0,0,379,404,100.0,none
+plasma-integration,58,0,2,21,0,2,54,60,96.66666666666667,lt
+plasma-mediacenter,168,0,4,86,0,1,169,172,97.67441860465115,Lithuanian <kde-i18n-lt@kde.org>
+plasma-milou,10,0,0,4,0,0,8,10,100.0,Lithuanian <kde-i18n-lt@kde.org>
+plasma-nano,8,0,29,5,0,7,11,37,21.62162162162162,none
+plasma-nm,5343,6,21,1322,1,4,5195,5370,99.4972067039106,Lithuanian <kde-i18n-lt@kde.org>
+plasma-oxygen,792,0,10,290,0,3,776,802,98.75311720698254,Lithuanian <kde-i18n-lt@kde.org>
+plasma-pa,244,10,22,85,4,6,235,276,88.40579710144928,Lithuanian <kde-i18n-lt@kde.org>
+plasma-pass,26,0,4,5,0,1,19,30,86.66666666666667,lt
+plasma-phonebook,52,2,1,26,1,1,53,55,94.54545454545455,none
+plasma-pk-updates,2051,13,17,395,4,1,1611,2081,98.55838539163864,Lithuanian <kde-i18n-lt@kde.org>
+plasma-sdk,738,31,76,231,10,22,734,845,87.33727810650888,lt
+plasma-settings,181,0,539,93,0,457,180,720,25.13888888888889,none
+plasma-systemmonitor,557,8,0,182,2,0,634,565,98.58407079646018,none
+plasma-systemsettings,209,3,0,53,1,0,197,212,98.58490566037736,Lithuanian <kde-i18n-lt@kde.org>
+plasma-thunderbolt,178,0,0,42,0,0,214,178,100.0,Lithuanian <kde-i18n-lt@kde.org>
+plasma-vault,874,0,0,102,0,0,725,874,100.0,lt
+plasma-workspace,9349,230,2982,2485,69,537,9101,12561,74.42878751691744,Lithuanian <kde-i18n-lt@kde.org>
+plasmatube,0,0,131,0,0,49,0,131,0.0,none
+playonlinux,449,0,2279,121,0,328,367,2728,16.458944281524925,Lithuanian <lt@li.org>
+pluma,5273,0,7840,1254,0,836,4560,13113,40.212003355448786,Lithuanian (https://app.transifex.com/mate/teams/13566/lt/)
+pluma-plugins,188,0,1210,20,0,123,166,1398,13.447782546494993,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+plymouth,12,0,4,4,0,3,8,16,75.0,Lithuanian
+plymouth-kcm,107,5,0,23,1,0,94,112,95.53571428571429,lt
+poedit,2950,0,217,654,0,35,2623,3167,93.14808967477107,Lithuanian
+polari,855,0,0,200,0,0,782,855,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+policycoreutils,53,0,18146,53,0,2689,57,18199,0.2912247925710204,Lithuanian
+polkit-gnome,94,0,0,16,0,0,79,94,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+polkit-kde,95,0,0,30,0,0,97,95,100.0,Lithuanian <kde-i18n-lt@kde.org>
+powerdevil,669,0,0,143,0,0,607,669,100.0,Lithuanian <kde-i18n-lt@kde.org>
+powertop,406,111,181,110,35,57,385,698,58.16618911174785,Lithuanian (http://www.transifex.com/projects/p/PowerTOP/language/lt/)
+pragha,733,0,157,242,0,34,677,890,82.35955056179776,Lithuanian (http://www.transifex.com/p/Pragha/language/lt/)
+prusa-slicer,1331,16,6161,530,7,1354,1278,7508,17.72775705913692,wxWidgets translators <wx-translators@googlegroups.com>
+pspp,7794,1378,4412,1860,191,397,7415,13584,57.37632508833922,Lithuanian <komp_lt@konferencijos.lt>
+pulseaudio,3244,457,85,524,26,22,3136,3786,85.68409931325938,
+pulsecaster,214,0,0,21,0,0,185,214,100.0,Lithuanian (http://www.transifex.com/stickster/pulsecaster/language/lt/)
+pychess,0,0,7592,0,0,1468,0,7592,0.0,Lithuanian (http://www.transifex.com/gbtami/pychess/language/lt/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-SecretStorage,59,0,0,9,0,0,45,59,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+python-apt,135,176,233,33,44,41,142,544,24.816176470588236,Lithuanian <komp_lt@konferencijos.lt>
+python-caja,6,0,0,2,0,0,5,6,100.0,Lithuanian (https://www.transifex.com/mate/teams/13566/lt/)
+python-django,3305,0,474,814,0,50,3367,3779,87.45699920613919,Lithuanian (http://www.transifex.com/django/django/language/lt/)
+python-django-allauth,823,88,11,143,7,2,731,922,89.26247288503254,LANGUAGE <LL@li.org>
+python-django-contrib-comments,250,0,0,61,0,0,252,250,100.0,Lithuanian (http://www.transifex.com/django/django-contrib-comments/language/lt/)
+python-django-formtools,32,0,0,11,0,0,28,32,100.0,Lithuanian (http://www.transifex.com/projects/p/django-formtools/language/lt/)
+python-django-mailman3,146,0,209,41,0,31,133,355,41.12676056338028,Lithuanian <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/lt/>
+python-django-rest-framework,253,0,449,42,0,83,233,702,36.039886039886035,Lithuanian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/lt/)
+python-django-tables2,21,0,0,5,0,0,17,21,100.0,Lithuanian <murnikovas.r@gmail.com>
+python-django3,3372,0,383,825,0,33,3477,3755,89.80026631158455,Lithuanian (http://www.transifex.com/django/django/language/lt/)
+python-formencode,520,78,215,74,9,32,419,813,63.960639606396064,lt <LL@li.org>
+python-manatools,4,0,0,4,0,0,4,4,100.0,Lithuanian (https://www.transifex.com/MageiaLinux/teams/9361/lt/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Lithuanian
+python-nikola,86,0,8,38,0,6,83,94,91.48936170212765,Lithuanian (http://www.transifex.com/ralsina/nikola/language/lt/)
+python-postorius,4,2,5048,3,1,627,3,5054,0.07914523149980214,Lithuanian <https://hosted.weblate.org/projects/gnu-mailman/postorius/lt/>
+python-pycryptodomex,99,0,0,34,0,0,88,99,100.0,Lithuanian (https://www.transifex.com/readthedocs/teams/101354/lt/)
+python-simpleline,1,0,41,1,0,15,1,42,2.380952380952381,Lithuanian
+python-sphinx,288,0,4656,132,0,623,279,4944,5.825242718446602,Lithuanian (http://www.transifex.com/sphinx-doc/sphinx-1/language/lt/)
+python-sphinx_rtd_theme,99,0,0,34,0,0,88,99,100.0,Lithuanian (https://www.transifex.com/readthedocs/teams/101354/lt/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Lithuanian (https://www.transifex.com/sphinx-doc/teams/36659/lt/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Lithuanian (https://www.transifex.com/sphinx-doc/teams/36659/lt/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Lithuanian (https://www.transifex.com/sphinx-doc/teams/36659/lt/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Lithuanian (https://www.transifex.com/sphinx-doc/teams/36659/lt/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Lithuanian (https://www.transifex.com/sphinx-doc/teams/36659/lt/)
+python-wxpython4,1350,18,6469,545,11,1409,1299,7837,17.225979328824806,wxWidgets translators <wx-translators@googlegroups.com>
+qmlkonsole,0,0,125,0,0,49,0,125,0.0,none
+qtwebkit,1074,0,0,259,0,0,972,1074,100.0,Lithuanian <komp_lt@konferencijos.lt>
+quadrapassel,460,0,0,82,0,0,356,460,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+quassel,1791,0,6571,729,0,978,1730,8362,21.4183209758431,Lithuanian (http://www.transifex.com/quassel/quassel/language/lt/)
+quodlibet,1411,1677,4831,458,486,745,1378,7919,17.81790630130067,Lithuanian (http://www.transifex.net/projects/p/quodlibet/team/lt/)
+realmd,0,0,789,0,0,127,0,789,0.0,Lithuanian (http://www.transifex.com/freedesktop/realmd/language/lt/)
+redhat-menus,221,6,34,73,2,11,213,261,84.67432950191571,Lithuanian <komp_lt@konferencijos.lt>
+rednotebook,725,33,505,169,8,95,631,1263,57.40300870942201,Lithuanian <lt@li.org>
+redshift,508,0,520,104,0,47,462,1028,49.416342412451364,Lithuanian <lt@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+rekonq,1871,298,33,527,59,7,1732,2202,84.96821071752952,Lithuanian <kde-i18n-lt@kde.org>
+remmina,684,4118,594,125,813,62,538,5396,12.676056338028168,Lithuanian <https://hosted.weblate.org/projects/remmina/remmina/lt/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,none
+revelation,759,100,1568,167,22,258,578,2427,31.27317676143387,Lithuanian (http://www.transifex.com/hey_neken/revelation/language/lt/)
+rhythmbox,3755,0,0,964,0,0,3425,3755,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+ristretto,662,0,0,206,0,0,618,662,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+rkward,4233,674,33282,1213,147,2879,3934,38189,11.08434365916887,Lithuanian <komp_lt@konferencijos.lt>
+rocs,31,181,1268,18,62,234,31,1480,2.0945945945945947,Lithuanian <kde-i18n-lt@kde.org>
+rsibreak,478,21,710,100,5,55,408,1209,39.536807278742764,Lithuanian <kde-i18n-lt@kde.org>
+rt,12402,0,1475,2950,0,229,11417,13877,89.37090149167688,Lithuanian <lt@li.org>
+rygel,1641,0,0,304,0,0,1389,1641,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+scratch,1415,0,55,603,0,23,1376,1470,96.25850340136054,
+sddm-kcm,162,49,0,40,1,0,153,211,76.77725118483413,Lithuanian <kde-i18n-lt@kde.org>
+seahorse,2395,0,0,542,0,0,2132,2395,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+seahorse-caja,487,0,0,121,0,0,480,487,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+seahorse-nautilus,490,0,0,124,0,0,472,490,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+sequeler,448,106,876,146,12,146,426,1430,31.32867132867133,Lithuanian <https://hosted.weblate.org/projects/sequeler/translations/lt/>
+setuptool,47,0,8,13,0,1,45,55,85.45454545454545,
+shared-mime-info,1480,0,580,595,0,201,1595,2060,71.84466019417476,Lithuanian (http://www.transifex.com/freedesktop/shared-mime-info/language/lt/)
+shotwell,6671,0,0,1238,0,0,6215,6671,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+shutter,3093,0,0,606,0,0,2648,3093,100.0,Lietuvių <>
+simple-scan,976,0,0,213,0,0,833,976,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+skanlite,186,0,0,63,0,0,175,186,100.0,Lithuanian <kde-i18n-lt@kde.org>
+skanpage,0,0,244,0,0,91,0,244,0.0,none
+skrooge,5300,3449,3432,1546,537,417,4575,12181,43.51038502585995,lt <kde-i18n-lt@kde.org>
+skychart,1702,0,0,361,0,0,1492,1702,100.0,Lithuanian <kde-i18n-lt@kde.org>
+slick-greeter,211,0,0,47,0,0,176,211,100.0,Lithuanian <lt@li.org>
+smb4k,100,69,6393,66,39,581,101,6562,1.5239256324291375,Lithuanian <kde-i18n-lt@kde.org>
+snapd,38,0,4269,12,0,469,37,4307,0.8822846528906432,Lithuanian <lt@li.org>
+snapper,160,207,725,59,47,146,173,1092,14.652014652014653,Lithuanian <https://l10n.opensuse.org/projects/snapper/master/lt/>
+sos,0,0,123,0,0,30,0,123,0.0,none
+sound-juicer,1254,0,0,228,0,0,1156,1254,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+soundconverter,280,0,230,110,0,19,284,510,54.90196078431373,Lithuanian <lt@li.org>
+spacebar,50,42,173,13,13,69,46,265,18.867924528301888,none
+spacefm,1342,0,7653,468,0,1146,1261,8995,14.919399666481379,Lithuanian (http://www.transifex.com/ignorantguru/spacefm/language/lt/)
+spectacle,914,102,148,197,12,39,870,1164,78.52233676975945,Lithuanian <kde-i18n-lt@kde.org>
+speedcrunch,93,0,0,10,0,0,93,93,100.0,Lithuanian (http://www.transifex.com/heldercorreia/speedcrunch/language/lt/)
+stardict,2392,254,389,506,39,48,2045,3035,78.81383855024711,Lithuanian <kde-i18n-doc@kde.org>
+stellarium,29,0,0,9,0,0,26,29,100.0,Lithuanian (https://www.transifex.com/stellarium/teams/80998/lt/)
+step,673,1200,2397,193,473,330,640,4270,15.76112412177986,lt <kde-i18n-lt@kde.org>
+subtitleeditor,3515,0,0,883,0,0,3072,3515,100.0,Lietuvių <>
+sudo,98,0,2040,15,0,320,79,2138,4.583723105706268,Lithuanian <komp_lt@konferencijos.lt>
+sugar,2305,0,0,529,0,0,2087,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,27,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,315,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,11,0,855,6,0,163,10,866,1.2702078521939952,LANGUAGE <LL@li.org>
+sugar-chat,1,0,136,1,0,80,1,137,0.7299270072992701,LANGUAGE <LL@li.org>
+sugar-clock,25,0,41,9,0,12,21,66,37.878787878787875,LANGUAGE <LL@li.org>
+sugar-colordeducto,12,0,97,4,0,19,11,109,11.009174311926607,LANGUAGE <LL@li.org>
+sugar-deducto,9,0,98,3,0,20,8,107,8.411214953271028,LANGUAGE <LL@li.org>
+sugar-dimensions,0,0,176,0,0,87,0,176,0.0,LANGUAGE <LL@li.org>
+sugar-finance,48,0,210,29,0,34,45,258,18.6046511627907,LANGUAGE <LL@li.org>
+sugar-flip,2,0,15,1,0,6,2,17,11.76470588235294,LANGUAGE <LL@li.org>
+sugar-fototoon,21,0,118,10,0,38,20,139,15.107913669064748,LANGUAGE <LL@li.org>
+sugar-imageviewer,48,0,10,12,0,4,45,58,82.75862068965517,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,78,0,64,29,0,45,72,142,54.929577464788736,LANGUAGE <LL@li.org>
+sugar-nutrition,56,0,127,54,0,36,56,183,30.601092896174865,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,104,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,15,2,31,15,2,11,15,48,31.25,LANGUAGE <LL@li.org>
+sugar-pippy,195,0,87,51,0,17,168,282,69.14893617021278,LANGUAGE <LL@li.org>
+sugar-playgo,7,0,78,2,0,28,8,85,8.235294117647058,LANGUAGE <LL@li.org>
+sugar-portfolio,28,0,45,15,0,10,33,73,38.35616438356164,LANGUAGE <LL@li.org>
+sugar-recall,2,0,45,2,0,7,2,47,4.25531914893617,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,65,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,112,0,115,53,0,21,110,227,49.33920704845815,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,7,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,64,0,7,14,0,3,55,71,90.14084507042254,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,102,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,162,0,51,113,0,10,175,213,76.05633802816901,LANGUAGE <LL@li.org>
+sugar-typing-turtle,326,0,273,81,0,46,270,599,54.42404006677797,LANGUAGE <LL@li.org>
+sugar-view-slides,7,0,53,4,0,19,7,60,11.666666666666666,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,118,121,100.0,LANGUAGE <LL@li.org>
+supertux,1174,0,1861,343,0,592,988,3035,38.68204283360791,Lithuanian (http://www.transifex.com/arctic-games/supertux/language/lt/)
+supertuxkart,0,0,0,0,0,0,0,0,0.0,
+sushi,54,0,0,14,0,0,48,54,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+svgpart,3,0,0,2,0,0,3,3,100.0,Lithuanian <kde-i18n-lt@kde.org>
+sweeper,228,0,0,50,0,0,198,228,100.0,Lithuanian <kde-i18n-lt@kde.org>
+swell-foop,340,0,0,72,0,0,302,340,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+switchboard-plug-tweaks,15,44,504,14,19,73,16,563,2.664298401420959,
+switchdesk,16,85,21,3,9,7,14,122,13.114754098360656,Lithuanian
+sylpheed,5672,890,652,1464,224,109,4819,7214,78.62489603548656,Lithuanian <komp_lt@konferencijos.lt>
+synapse,7,0,849,7,0,227,8,856,0.8177570093457943,Lithuanian <lt@li.org>
+synfig,1587,0,3292,580,0,595,1286,4879,32.52715720434515,Lithuanian (http://www.transifex.com/morevnaproject/synfig/language/lt/)
+synfigstudio,2761,0,4610,950,0,766,2574,7371,37.457604124270794,Lithuanian (http://www.transifex.com/morevnaproject/synfig/language/lt/)
+system-config-language,162,17,36,22,1,8,138,215,75.34883720930232,Lithuanian
+system-config-printer,2456,29,1029,613,13,302,2226,3514,69.89186112692089,Lithuanian (http://www.transifex.com/projects/p/system-config-printer/language/lt/)
+system-config-rootpassword,15,26,75,3,5,11,11,116,12.931034482758621,Lithuanian
+systemd,1175,252,79,138,29,22,1048,1506,78.02124833997344,Lithuanian
+tagtool,958,0,0,211,0,0,875,958,100.0,Lithuanian <komp_lt@konf.lt>
+tali,438,0,0,100,0,0,386,438,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+taxi,62,0,0,15,0,0,58,62,100.0,LANGUAGE <LL@li.org>
+tellico,448,599,4913,240,332,724,424,5960,7.516778523489933,lt <kde-i18n-lt@kde.org>
+template-glib,23,0,0,4,0,0,19,23,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+terminator,207,0,1315,60,0,355,179,1522,13.600525624178712,Lithuanian (https://www.transifex.com/terminator/teams/109338/lt/)
+thonny,1490,0,0,341,0,0,1326,1490,100.0,
+thunar-archive-plugin,88,0,0,15,0,0,102,88,100.0,Lithuanian (http://www.transifex.com/xfce/thunar-plugins/language/lt/)
+thunar-media-tags-plugin,156,0,0,58,0,0,144,156,100.0,Lithuanian (http://www.transifex.com/xfce/thunar-plugins/language/lt/)
+thunar-vcs-plugin,774,0,0,307,0,0,748,774,100.0,Lithuanian (http://www.transifex.com/xfce/thunar-plugins/language/lt/)
+thunar-volman,484,0,0,115,0,0,396,484,100.0,Lithuanian (http://www.transifex.com/xfce/thunar-volman/language/lt/)
+tilda,464,44,159,125,13,48,400,667,69.56521739130434,Lithuanian <lt@li.org>
+tilix,33,25,2371,14,12,635,33,2429,1.3585837793330588,Lithuanian <https://hosted.weblate.org/projects/terminix/translations/lt/>
+timeshift,2630,0,240,516,0,51,2600,2870,91.63763066202091,Lithuanian <lt@li.org>
+tokodon,0,0,637,0,0,246,0,637,0.0,none
+tomboy,7817,0,0,761,0,0,6192,7817,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+totem,1376,0,0,392,0,0,1213,1376,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+totem-pl-parser,29,0,0,8,0,0,21,29,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+tracker,588,0,0,111,0,0,487,588,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+tracker-miners,1824,0,0,294,0,0,1548,1824,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+transmageddon,316,0,0,68,0,0,285,316,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+transmission,1021,0,1420,344,0,241,1110,2441,41.82712003277345,Lithuanian (https://app.transifex.com/transmissionbt/teams/33778/lt/)
+transmission-remote-gtk,744,54,171,338,17,41,749,969,76.78018575851394,Lithuanian <lt@li.org>
+trojita,0,0,9444,0,0,1959,0,9444,0.0,lt
+tumbler,241,0,0,39,0,0,207,241,100.0,Lithuanian (http://www.transifex.com/xfce/tumbler/language/lt/)
+tuxpaint,393,1613,1757,140,178,143,357,3763,10.443794844538932,Lithuanian <komp_lt@konf.lt>
+tuxpaint-stamps,389,989,1871,111,366,328,263,3249,11.972914742997846,
+tuxtype2,71,0,9,32,0,8,75,80,88.75,Lithuanian
+udisks2,2143,0,44,510,0,7,2041,2187,97.98811156835848,Lithuanian
+ufw-kde,145,8,662,106,2,82,146,815,17.791411042944784,Lithuanian <kde-i18n-lt@kde.org>
+uget,1085,0,0,362,0,0,1067,1085,100.0,Lithuanian (http://www.transifex.com/uget/uget/language/lt/)
+umbrello,0,0,0,0,0,0,0,0,0.0,
+viewnior,425,0,0,144,0,0,392,425,100.0,Lithuanian <lt@li.org>
+viking,1375,0,4873,379,0,1241,1368,6248,22.007042253521128,Lithuanian <lt@li.org>
+vinagre,1510,0,0,277,0,0,1246,1510,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+vte,80,0,0,13,0,0,84,80,100.0,Lithuanian <komp_lt@konferencijos.lt>
+vte291,46,0,0,9,0,0,42,46,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+warzone2100,173,0,15600,49,0,3289,190,15773,1.0968110061497496,Lithuanian
+webkitgtk,1052,641,930,254,138,178,955,2623,40.10674799847503,Lithuanian <komp_lt@konferencijos.lt>
+wesnoth,85914,32407,221062,9823,1735,9718,67861,339383,25.31476237760878,Lithuanian <wesnoth-lt@googlegroups.com>
+wget,773,1564,1532,164,232,199,737,3869,19.979322822434735,Lithuanian <komp_lt@konferencijos.lt>
+widelands,1955,0,81647,569,0,7446,1757,83602,2.338460802373149,Lithuanian (http://www.transifex.com/widelands/widelands/language/lt/)
+wine,19281,0,0,4279,0,0,16693,19281,100.0,Lithuanian <komp_lt@konf.lt>
+wireplumber,3,0,0,2,0,0,3,3,100.0,
+workrave,950,206,242,163,65,46,785,1398,67.95422031473534,Artūras Šlajus <x11@h2o.sky.lt>
+wxGTK,1350,18,6469,545,11,1409,1299,7837,17.225979328824806,wxWidgets translators <wx-translators@googlegroups.com>
+wxGTK3,301,72,7322,236,50,1567,296,7695,3.9116309291747893,KALBA <LL@li.org>
+xapps,73,0,0,36,0,0,65,73,100.0,Lithuanian <lt@li.org>
+xarchiver,1212,2,0,302,1,0,1105,1214,99.835255354201,Lietuvių
+xdg-desktop-portal,221,0,0,32,0,0,178,221,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+xdg-desktop-portal-gnome,230,0,0,64,0,0,211,230,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+xdg-desktop-portal-gtk,239,1,0,63,1,0,217,240,99.58333333333333,Lithuanian <gnome-lt@lists.akl.lt>
+xdg-desktop-portal-kde,225,40,78,55,16,23,208,343,65.59766763848397,lt
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Lithuanian <komp_lt@konferencijos.lt>
+xdg-user-dirs-gtk,81,0,0,11,0,0,57,81,100.0,Lithuanian <gnome-lt@lists.akl.lt>
+xed,3733,0,26,913,0,10,3334,3759,99.30832668262836,Lithuanian (http://www.transifex.com/projects/p/MATE/language/lt/)
+xfburn,1572,0,0,323,0,0,1294,1572,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+xfce4-appfinder,433,0,0,84,0,0,357,433,100.0,Lithuanian (http://www.transifex.com/xfce/xfce4-appfinder/language/lt/)
+xfce4-battery-plugin,149,0,0,44,0,0,145,149,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-calculator-plugin,42,0,0,17,0,0,39,42,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+xfce4-clipman-plugin,531,0,0,92,0,0,443,531,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-cpufreq-plugin,174,0,0,48,0,0,160,174,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-cpugraph-plugin,181,0,0,59,0,0,178,181,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-datetime-plugin,52,0,0,19,0,0,43,52,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-dict,529,0,0,121,0,0,450,529,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,164,181,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-eyes-plugin,16,0,0,5,0,0,14,16,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,65,71,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-genmon-plugin,100,0,0,26,0,0,91,100,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-mailwatch-plugin,689,0,0,112,0,0,612,689,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-mount-plugin,383,0,0,57,0,0,320,383,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-mpc-plugin,78,0,0,24,0,0,76,78,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-netload-plugin,91,0,0,35,0,0,89,91,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-notes-plugin,169,0,0,63,0,0,149,169,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-notifyd,328,0,0,84,0,0,282,328,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+xfce4-panel,1847,0,0,457,0,0,1643,1847,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+xfce4-panel-profiles,99,0,0,26,0,0,98,99,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+xfce4-places-plugin,162,0,0,47,0,0,134,162,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-power-manager,1057,0,0,213,0,0,966,1057,100.0,Lithuanian (http://www.transifex.com/xfce/xfce4-power-manager/language/lt/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,139,148,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-screensaver,696,0,0,152,0,0,609,696,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+xfce4-screenshooter,711,0,0,110,0,0,587,711,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+xfce4-sensors-plugin,433,0,0,87,0,0,415,433,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-session,756,0,0,163,0,0,639,756,100.0,Lithuanian (http://www.transifex.com/xfce/xfce4-session/language/lt/)
+xfce4-settings,2426,0,0,569,0,0,2133,2426,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,23,22,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,105,129,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+xfce4-systemload-plugin,87,0,0,23,0,0,108,87,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-taskmanager,231,0,0,74,0,0,200,231,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+xfce4-terminal,1862,0,0,434,0,0,1722,1862,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+xfce4-time-out-plugin,106,0,0,38,0,0,115,106,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-timer-plugin,135,0,0,48,0,0,124,135,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-verve-plugin,87,0,0,26,0,0,83,87,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-wavelan-plugin,80,0,0,22,0,0,74,80,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-weather-plugin,3676,0,0,337,0,0,3201,3676,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfce4-whiskermenu-plugin,401,0,0,131,0,0,354,401,100.0,Lithuanian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/lt/)
+xfce4-xkb-plugin,65,0,0,24,0,0,58,65,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lt/)
+xfconf,458,0,0,68,0,0,357,458,100.0,Lithuanian (http://www.transifex.com/xfce/xfconf/language/lt/)
+xfdashboard,1084,0,0,156,0,0,988,1084,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+xfdesktop,1036,0,0,245,0,0,909,1036,100.0,Lithuanian (https://www.transifex.com/xfce/teams/16840/lt/)
+xfmpc,175,0,0,78,0,0,175,175,100.0,Lithuanian (http://www.transifex.com/xfce/xfce-apps/language/lt/)
+xfpanel-switch,62,0,39,24,0,2,65,101,61.386138613861384,Lithuanian <lt@li.org>
+xfwm4,660,0,0,176,0,0,644,660,100.0,Lithuanian (http://www.transifex.com/xfce/xfwm4/language/lt/)
+xiphos,4325,234,422,987,65,88,3938,4981,86.82995382453322,Lithuanian <>
+xkeyboard-config,3951,0,0,1215,0,0,4117,3951,100.0,Lithuanian <komp_lt@konferencijos.lt>
+xmoto,3261,78,596,708,12,121,2749,3935,82.87166454891995,Lithuanian <tadzikaz@gmail.com>
+xpad,184,0,252,48,0,87,172,436,42.201834862385326,Lithuanian <lt@li.org>
+xreader,1594,0,29,374,0,6,1384,1623,98.21318545902649,Lithuanian (http://www.transifex.com/mate/MATE/language/lt/)
+xscreensaver,567,446,11801,163,85,1888,503,12814,4.424847822693929,Lietuvių <>
+xsnow,4124,0,0,577,0,0,3559,4124,100.0,None
+yakuake,953,52,664,189,10,38,803,1669,57.10005991611744,Lithuanian <kde-i18n-lt@kde.org>
+yelp,351,0,0,74,0,0,277,351,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+yelp-xsl,88,0,0,64,0,0,80,88,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+zabbix,257,0,20710,106,0,3967,356,20967,1.2257356798779033,none
+zanshin,495,0,0,118,0,0,451,495,100.0,lt
+zathura,370,0,434,103,0,70,320,804,46.01990049751244,Lithuanian (http://www.transifex.com/pwmt/zathura/language/lt/)
+zenity,896,0,0,199,0,0,790,896,100.0,Lietuvių <gnome-lt@lists.akl.lt>
+zypper,6425,122,3020,956,9,307,6221,9567,67.15793874777883,Lithuanian <https://l10n.opensuse.org/projects/zypper/master/lt/>

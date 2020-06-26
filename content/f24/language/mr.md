@@ -1,0 +1,564 @@
+---
+title: "mr-Marathi (मराठी) - translation progress for f24"
+date: 2026-01-17T15:28:05+00:00
+code: mr
+name_english: Marathi
+name_local: मराठी
+progress: 47.11
+progress_d: 7.04
+release: f24
+territories:
+ - IN
+polib_error_count: 2
+could_not_process_count: 1512
+---
+
+Language progress for Marathi (mr) in Fedora f24 is:
+
+* 47.11% when we only look on started packages for this language.
+* 7.04% when we compare to every single translatable string in Fedora f24.
+
+Possible scripts are: DevaModi
+
+* Total translatable string in Fedora f24: 14211507
+* Source words to translate in started packages: 2122738
+* Translated words: 1000049
+
+
+Download:
+
+
+
+
+* [mr generated stats (42.1 kB)]({{% resource url="/f24/mr.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [GConf2]({{< ref "/f24/package/GConf2.md" >}}) | 4024 | 4024 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [NetworkManager-libreswan]({{< ref "/f24/package/NetworkManager-libreswan.md" >}}) | 139 | 139 | 100.0 | marathi | 
+ | [NetworkManager-pptp]({{< ref "/f24/package/NetworkManager-pptp.md" >}}) | 115 | 115 | 100.0 | marathi | 
+ | [NetworkManager-sstp]({{< ref "/f24/package/NetworkManager-sstp.md" >}}) | 115 | 115 | 100.0 | marathi | 
+ | [NetworkManager-vpnc]({{< ref "/f24/package/NetworkManager-vpnc.md" >}}) | 139 | 139 | 100.0 | marathi | 
+ | [accerciser]({{< ref "/f24/package/accerciser.md" >}}) | 540 | 540 | 100.0 | marathi | 
+ | [alacarte]({{< ref "/f24/package/alacarte.md" >}}) | 42 | 42 | 100.0 | marathi | 
+ | [anjuta]({{< ref "/f24/package/anjuta.md" >}}) | 7325 | 7325 | 100.0 | marathi | 
+ | [at-spi2-core]({{< ref "/f24/package/at-spi2-core.md" >}}) | 96 | 96 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [atk]({{< ref "/f24/package/atk.md" >}}) | 375 | 375 | 100.0 | marathi | 
+ | [authconfig]({{< ref "/f24/package/authconfig.md" >}}) | 1715 | 1715 | 100.0 | Marathi (http://www.transifex.com/projects/p/authconfig/language/mr/) | 
+ | [baobab]({{< ref "/f24/package/baobab.md" >}}) | 210 | 210 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [brasero]({{< ref "/f24/package/brasero.md" >}}) | 5546 | 5546 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [caja-actions]({{< ref "/f24/package/caja-actions.md" >}}) | 1574 | 1574 | 100.0 | marathi | 
+ | [caribou]({{< ref "/f24/package/caribou.md" >}}) | 171 | 171 | 100.0 | Marathi <mr@li.org> | 
+ | [cheese]({{< ref "/f24/package/cheese.md" >}}) | 613 | 613 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [chkconfig]({{< ref "/f24/package/chkconfig.md" >}}) | 513 | 513 | 100.0 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [cinnamon-control-center]({{< ref "/f24/package/cinnamon-control-center.md" >}}) | 1313 | 1313 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [cinnamon-desktop]({{< ref "/f24/package/cinnamon-desktop.md" >}}) | 231 | 231 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [cinnamon-settings-daemon]({{< ref "/f24/package/cinnamon-settings-daemon.md" >}}) | 3740 | 3740 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [compat-gtkhtml314]({{< ref "/f24/package/compat-gtkhtml314.md" >}}) | 695 | 695 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [console-setup]({{< ref "/f24/package/console-setup.md" >}}) | 983 | 983 | 100.0 | CDAC_DI | 
+ | [control-center]({{< ref "/f24/package/control-center.md" >}}) | 6259 | 6259 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [dasher]({{< ref "/f24/package/dasher.md" >}}) | 615 | 615 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [dconf-editor]({{< ref "/f24/package/dconf-editor.md" >}}) | 184 | 184 | 100.0 | Marathi | 
+ | [ekiga]({{< ref "/f24/package/ekiga.md" >}}) | 4489 | 4489 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [empathy]({{< ref "/f24/package/empathy.md" >}}) | 4205 | 4205 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [eog]({{< ref "/f24/package/eog.md" >}}) | 1746 | 1746 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [eog-plugins]({{< ref "/f24/package/eog-plugins.md" >}}) | 79 | 79 | 100.0 | marathi | 
+ | [epiphany]({{< ref "/f24/package/epiphany.md" >}}) | 2413 | 2413 | 100.0 | Marathi | 
+ | [evince]({{< ref "/f24/package/evince.md" >}}) | 1525 | 1525 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [evolution]({{< ref "/f24/package/evolution.md" >}}) | 21278 | 21278 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [evolution-data-server]({{< ref "/f24/package/evolution-data-server.md" >}}) | 5396 | 5396 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [evolution-ews]({{< ref "/f24/package/evolution-ews.md" >}}) | 1165 | 1165 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [evolution-mapi]({{< ref "/f24/package/evolution-mapi.md" >}}) | 1034 | 1034 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [evolution-rss]({{< ref "/f24/package/evolution-rss.md" >}}) | 700 | 700 | 100.0 | marathi | 
+ | [file-roller]({{< ref "/f24/package/file-roller.md" >}}) | 1195 | 1195 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [five-or-more]({{< ref "/f24/package/five-or-more.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [folks]({{< ref "/f24/package/folks.md" >}}) | 1003 | 1003 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [four-in-a-row]({{< ref "/f24/package/four-in-a-row.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gconf-editor]({{< ref "/f24/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | marathi | 
+ | [gedit]({{< ref "/f24/package/gedit.md" >}}) | 4084 | 4084 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [ggz-gtk-client]({{< ref "/f24/package/ggz-gtk-client.md" >}}) | 7 | 7 | 100.0 | Marathi | 
+ | [glade]({{< ref "/f24/package/glade.md" >}}) | 3361 | 3361 | 100.0 | marathi | 
+ | [glade3]({{< ref "/f24/package/glade3.md" >}}) | 3361 | 3361 | 100.0 | marathi | 
+ | [glib-networking]({{< ref "/f24/package/glib-networking.md" >}}) | 135 | 135 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [glib2]({{< ref "/f24/package/glib2.md" >}}) | 5679 | 5679 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-backgrounds]({{< ref "/f24/package/gnome-backgrounds.md" >}}) | 30 | 30 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-bluetooth]({{< ref "/f24/package/gnome-bluetooth.md" >}}) | 309 | 309 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-boxes]({{< ref "/f24/package/gnome-boxes.md" >}}) | 950 | 950 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-calculator]({{< ref "/f24/package/gnome-calculator.md" >}}) | 1337 | 1337 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-chess]({{< ref "/f24/package/gnome-chess.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-clocks]({{< ref "/f24/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | Marathi <sshedmak@redhat.com> | 
+ | [gnome-color-manager]({{< ref "/f24/package/gnome-color-manager.md" >}}) | 1792 | 1792 | 100.0 | Marathi <mr@li.org> | 
+ | [gnome-contacts]({{< ref "/f24/package/gnome-contacts.md" >}}) | 405 | 405 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-desktop]({{< ref "/f24/package/gnome-desktop.md" >}}) | 351 | 351 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-desktop3]({{< ref "/f24/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-dictionary]({{< ref "/f24/package/gnome-dictionary.md" >}}) | 841 | 841 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-disk-utility]({{< ref "/f24/package/gnome-disk-utility.md" >}}) | 3423 | 3423 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-doc-utils]({{< ref "/f24/package/gnome-doc-utils.md" >}}) | 249 | 249 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-font-viewer]({{< ref "/f24/package/gnome-font-viewer.md" >}}) | 109 | 109 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-getting-started-docs]({{< ref "/f24/package/gnome-getting-started-docs.md" >}}) | 2639 | 2639 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [gnome-icon-theme]({{< ref "/f24/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | marathi | 
+ | [gnome-initial-setup]({{< ref "/f24/package/gnome-initial-setup.md" >}}) | 585 | 585 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [gnome-keyring]({{< ref "/f24/package/gnome-keyring.md" >}}) | 553 | 553 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-klotski]({{< ref "/f24/package/gnome-klotski.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-mahjongg]({{< ref "/f24/package/gnome-mahjongg.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-menus]({{< ref "/f24/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-mines]({{< ref "/f24/package/gnome-mines.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-nettool]({{< ref "/f24/package/gnome-nettool.md" >}}) | 617 | 617 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-nibbles]({{< ref "/f24/package/gnome-nibbles.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-online-accounts]({{< ref "/f24/package/gnome-online-accounts.md" >}}) | 1157 | 1157 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-packagekit]({{< ref "/f24/package/gnome-packagekit.md" >}}) | 4390 | 4390 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-power-manager]({{< ref "/f24/package/gnome-power-manager.md" >}}) | 480 | 480 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-robots]({{< ref "/f24/package/gnome-robots.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-screensaver]({{< ref "/f24/package/gnome-screensaver.md" >}}) | 270 | 270 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-screenshot]({{< ref "/f24/package/gnome-screenshot.md" >}}) | 354 | 354 | 100.0 | Marathi <sshedmak@redhat.com> | 
+ | [gnome-search-tool]({{< ref "/f24/package/gnome-search-tool.md" >}}) | 1249 | 1249 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-session]({{< ref "/f24/package/gnome-session.md" >}}) | 323 | 323 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-settings-daemon]({{< ref "/f24/package/gnome-settings-daemon.md" >}}) | 2607 | 2607 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-shell]({{< ref "/f24/package/gnome-shell.md" >}}) | 1485 | 1485 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-shell-extensions]({{< ref "/f24/package/gnome-shell-extensions.md" >}}) | 358 | 358 | 100.0 | Marathi <mr@li.org> | 
+ | [gnome-sudoku]({{< ref "/f24/package/gnome-sudoku.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-system-log]({{< ref "/f24/package/gnome-system-log.md" >}}) | 420 | 420 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-system-monitor]({{< ref "/f24/package/gnome-system-monitor.md" >}}) | 1289 | 1289 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-terminal]({{< ref "/f24/package/gnome-terminal.md" >}}) | 2209 | 2209 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-tetravex]({{< ref "/f24/package/gnome-tetravex.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gnome-themes]({{< ref "/f24/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | marathi | 
+ | [gnome-themes-standard]({{< ref "/f24/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Marathi <mr@li.org> | 
+ | [gnome-user-share]({{< ref "/f24/package/gnome-user-share.md" >}}) | 160 | 160 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnome-vfs2]({{< ref "/f24/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gnote]({{< ref "/f24/package/gnote.md" >}}) | 3592 | 3592 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gtk2-engines]({{< ref "/f24/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | marathi | 
+ | [gtk3]({{< ref "/f24/package/gtk3.md" >}}) | 14572 | 14572 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gtkhtml3]({{< ref "/f24/package/gtkhtml3.md" >}}) | 695 | 695 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gtksourceview2]({{< ref "/f24/package/gtksourceview2.md" >}}) | 1120 | 1120 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gucharmap]({{< ref "/f24/package/gucharmap.md" >}}) | 1205 | 1205 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gvfs]({{< ref "/f24/package/gvfs.md" >}}) | 2704 | 2704 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [iagno]({{< ref "/f24/package/iagno.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [ibus]({{< ref "/f24/package/ibus.md" >}}) | 996 | 996 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [initial-setup]({{< ref "/f24/package/initial-setup.md" >}}) | 33 | 33 | 100.0 | Marathi (http://www.transifex.com/projects/p/initial-setup/language/mr/) | 
+ | [iok]({{< ref "/f24/package/iok.md" >}}) | 206 | 206 | 100.0 | Marathi | 
+ | [kexec-tools]({{< ref "/f24/package/kexec-tools.md" >}}) | 83 | 83 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [kf5-kcompletion]({{< ref "/f24/package/kf5-kcompletion.md" >}}) | 20 | 20 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kdesignerplugin]({{< ref "/f24/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kdnssd]({{< ref "/f24/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-ki18n]({{< ref "/f24/package/kf5-ki18n.md" >}}) | 124 | 124 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kitemviews]({{< ref "/f24/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kjobwidgets]({{< ref "/f24/package/kf5-kjobwidgets.md" >}}) | 141 | 141 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kjsembed]({{< ref "/f24/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-knotifications]({{< ref "/f24/package/kf5-knotifications.md" >}}) | 18 | 18 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kparts]({{< ref "/f24/package/kf5-kparts.md" >}}) | 104 | 104 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kpty]({{< ref "/f24/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kross]({{< ref "/f24/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kwindowsystem]({{< ref "/f24/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kxmlrpcclient]({{< ref "/f24/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [libbonobo]({{< ref "/f24/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | marathi | 
+ | [libbonoboui]({{< ref "/f24/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | marathi | 
+ | [libcryptui]({{< ref "/f24/package/libcryptui.md" >}}) | 3042 | 3042 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [libgdata]({{< ref "/f24/package/libgdata.md" >}}) | 597 | 597 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [libgdl]({{< ref "/f24/package/libgdl.md" >}}) | 611 | 611 | 100.0 | marathi | 
+ | [libgnome]({{< ref "/f24/package/libgnome.md" >}}) | 1772 | 1772 | 100.0 | marathi | 
+ | [libgnome-keyring]({{< ref "/f24/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Marathi <mr@li.org> | 
+ | [libgnomecanvas]({{< ref "/f24/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | marathi | 
+ | [libgnomekbd]({{< ref "/f24/package/libgnomekbd.md" >}}) | 187 | 187 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [libgnomeui]({{< ref "/f24/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | marathi | 
+ | [libgtop2]({{< ref "/f24/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | marathi | 
+ | [libgweather]({{< ref "/f24/package/libgweather.md" >}}) | 6108 | 6108 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [libkfbapi]({{< ref "/f24/package/libkfbapi.md" >}}) | 42 | 42 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [libpeas]({{< ref "/f24/package/libpeas.md" >}}) | 110 | 110 | 100.0 | Marathi <mr@li.org> | 
+ | [libsoup]({{< ref "/f24/package/libsoup.md" >}}) | 110 | 110 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [libwnck]({{< ref "/f24/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | marathi | 
+ | [libwnck3]({{< ref "/f24/package/libwnck3.md" >}}) | 1086 | 1086 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [lightdm-kde]({{< ref "/f24/package/lightdm-kde.md" >}}) | 134 | 134 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [lightsoff]({{< ref "/f24/package/lightsoff.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [lxmenu-data]({{< ref "/f24/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | marathi | 
+ | [mate-backgrounds]({{< ref "/f24/package/mate-backgrounds.md" >}}) | 30 | 30 | 100.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [mate-icon-theme]({{< ref "/f24/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [mate-menus]({{< ref "/f24/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [metacity]({{< ref "/f24/package/metacity.md" >}}) | 2040 | 2040 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [mingw-GConf2]({{< ref "/f24/package/mingw-GConf2.md" >}}) | 4024 | 4024 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [mingw-atk]({{< ref "/f24/package/mingw-atk.md" >}}) | 375 | 375 | 100.0 | marathi | 
+ | [mingw-glib-networking]({{< ref "/f24/package/mingw-glib-networking.md" >}}) | 135 | 135 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [mingw-glib2]({{< ref "/f24/package/mingw-glib2.md" >}}) | 5679 | 5679 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [mingw-gtk3]({{< ref "/f24/package/mingw-gtk3.md" >}}) | 14572 | 14572 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [mingw-gtkhtml3]({{< ref "/f24/package/mingw-gtkhtml3.md" >}}) | 695 | 695 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [mingw-libsoup]({{< ref "/f24/package/mingw-libsoup.md" >}}) | 110 | 110 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [mingw-qt5-qtwebkit]({{< ref "/f24/package/mingw-qt5-qtwebkit.md" >}}) | 2631 | 2631 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mingw-webkitgtk]({{< ref "/f24/package/mingw-webkitgtk.md" >}}) | 2725 | 2725 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mingw-webkitgtk3]({{< ref "/f24/package/mingw-webkitgtk3.md" >}}) | 2725 | 2725 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mousetweaks]({{< ref "/f24/package/mousetweaks.md" >}}) | 715 | 715 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [mozo]({{< ref "/f24/package/mozo.md" >}}) | 42 | 42 | 100.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [muffin]({{< ref "/f24/package/muffin.md" >}}) | 3864 | 3864 | 100.0 | marathi | 
+ | [multimedia-menus]({{< ref "/f24/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [mutter]({{< ref "/f24/package/mutter.md" >}}) | 1829 | 1829 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [nautilus]({{< ref "/f24/package/nautilus.md" >}}) | 6114 | 6114 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [nautilus-sendto]({{< ref "/f24/package/nautilus-sendto.md" >}}) | 45 | 45 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [newt]({{< ref "/f24/package/newt.md" >}}) | 4 | 4 | 100.0 | Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii [at] cdacmumbai [dot] in> | 
+ | [notification-daemon]({{< ref "/f24/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Marathi <mr@li.org> | 
+ | [olpc-switch-desktop]({{< ref "/f24/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pam]({{< ref "/f24/package/pam.md" >}}) | 606 | 606 | 100.0 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [pam_krb5]({{< ref "/f24/package/pam_krb5.md" >}}) | 7 | 7 | 100.0 | Marathi (http://www.transifex.com/projects/p/pam_krb5/language/mr/) | 
+ | [paprefs]({{< ref "/f24/package/paprefs.md" >}}) | 131 | 131 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [pessulus]({{< ref "/f24/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [planner]({{< ref "/f24/package/planner.md" >}}) | 1815 | 1815 | 100.0 | marathi | 
+ | [polkit-gnome]({{< ref "/f24/package/polkit-gnome.md" >}}) | 311 | 311 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [qtwebkit]({{< ref "/f24/package/qtwebkit.md" >}}) | 1821 | 1821 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [quadrapassel]({{< ref "/f24/package/quadrapassel.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [redhat-menus]({{< ref "/f24/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | marathi | 
+ | [rhythmbox]({{< ref "/f24/package/rhythmbox.md" >}}) | 4517 | 4517 | 100.0 | marathi | 
+ | [seahorse]({{< ref "/f24/package/seahorse.md" >}}) | 3042 | 3042 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [setuptool]({{< ref "/f24/package/setuptool.md" >}}) | 55 | 55 | 100.0 | marathi | 
+ | [sos]({{< ref "/f24/package/sos.md" >}}) | 267 | 267 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [sound-juicer]({{< ref "/f24/package/sound-juicer.md" >}}) | 1022 | 1022 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [sugar-base]({{< ref "/f24/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect]({{< ref "/f24/package/sugar-connect.md" >}}) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3]({{< ref "/f24/package/sugar-toolkit-gtk3.md" >}}) | 76 | 76 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sushi]({{< ref "/f24/package/sushi.md" >}}) | 24 | 24 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [swell-foop]({{< ref "/f24/package/swell-foop.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [switchdesk]({{< ref "/f24/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [system-config-audit]({{< ref "/f24/package/system-config-audit.md" >}}) | 1241 | 1241 | 100.0 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [system-config-bind]({{< ref "/f24/package/system-config-bind.md" >}}) | 9419 | 9419 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [system-config-httpd]({{< ref "/f24/package/system-config-httpd.md" >}}) | 877 | 877 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [system-config-keyboard]({{< ref "/f24/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [system-config-kickstart]({{< ref "/f24/package/system-config-kickstart.md" >}}) | 1144 | 1144 | 100.0 | Marathi (http://www.transifex.com/projects/p/system-config-kickstart/language/mr/) | 
+ | [system-config-language]({{< ref "/f24/package/system-config-language.md" >}}) | 197 | 197 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [system-config-nfs]({{< ref "/f24/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [system-config-rootpassword]({{< ref "/f24/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | marathi | 
+ | [system-switch-java]({{< ref "/f24/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | marathi | 
+ | [system-switch-mail]({{< ref "/f24/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | marathi | 
+ | [tali]({{< ref "/f24/package/tali.md" >}}) | 8518 | 8518 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [tomboy]({{< ref "/f24/package/tomboy.md" >}}) | 2870 | 2870 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [totem]({{< ref "/f24/package/totem.md" >}}) | 1446 | 1446 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [totem-pl-parser]({{< ref "/f24/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | marathi | 
+ | [vinagre]({{< ref "/f24/package/vinagre.md" >}}) | 1507 | 1507 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [vino]({{< ref "/f24/package/vino.md" >}}) | 1228 | 1228 | 100.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [virt-top]({{< ref "/f24/package/virt-top.md" >}}) | 361 | 361 | 100.0 | Marathi <None> | 
+ | [volume_key]({{< ref "/f24/package/volume_key.md" >}}) | 745 | 745 | 100.0 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [vte]({{< ref "/f24/package/vte.md" >}}) | 108 | 108 | 100.0 | marathi | 
+ | [vte291]({{< ref "/f24/package/vte291.md" >}}) | 108 | 108 | 100.0 | marathi | 
+ | [vte3]({{< ref "/f24/package/vte3.md" >}}) | 108 | 108 | 100.0 | marathi | 
+ | [webkitgtk]({{< ref "/f24/package/webkitgtk.md" >}}) | 2725 | 2725 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [webkitgtk3]({{< ref "/f24/package/webkitgtk3.md" >}}) | 2725 | 2725 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [webkitgtk4]({{< ref "/f24/package/webkitgtk4.md" >}}) | 1526 | 1526 | 100.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [xchat-gnome]({{< ref "/f24/package/xchat-gnome.md" >}}) | 4054 | 4054 | 100.0 | marathi | 
+ | [xdg-user-dirs]({{< ref "/f24/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [xdg-user-dirs-gtk]({{< ref "/f24/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [xfce4-hardware-monitor-plugin]({{< ref "/f24/package/xfce4-hardware-monitor-plugin.md" >}}) | 356 | 356 | 100.0 | marathi | 
+ | [xplayer-plparser]({{< ref "/f24/package/xplayer-plparser.md" >}}) | 28 | 28 | 100.0 | marathi | 
+ | [xviewer-plugins]({{< ref "/f24/package/xviewer-plugins.md" >}}) | 77 | 77 | 100.0 | marathi | 
+ | [yelp]({{< ref "/f24/package/yelp.md" >}}) | 452 | 452 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [yelp-xsl]({{< ref "/f24/package/yelp-xsl.md" >}}) | 249 | 249 | 100.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [zenity]({{< ref "/f24/package/zenity.md" >}}) | 582 | 582 | 100.0 | marathi | 
+ | [xviewer]({{< ref "/f24/package/xviewer.md" >}}) | 1674 | 1677 | 99.8 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [gtk2]({{< ref "/f24/package/gtk2.md" >}}) | 13677 | 13704 | 99.8 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [mingw-gtk2]({{< ref "/f24/package/mingw-gtk2.md" >}}) | 13677 | 13704 | 99.8 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [system-config-firewall]({{< ref "/f24/package/system-config-firewall.md" >}}) | 2807 | 2814 | 99.8 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [system-config-network]({{< ref "/f24/package/system-config-network.md" >}}) | 3022 | 3032 | 99.7 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [libmateweather]({{< ref "/f24/package/libmateweather.md" >}}) | 6051 | 6085 | 99.4 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [system-config-users-docs]({{< ref "/f24/package/system-config-users-docs.md" >}}) | 1054 | 1061 | 99.3 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [xplayer]({{< ref "/f24/package/xplayer.md" >}}) | 1967 | 1986 | 99.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [plasma-systemsettings]({{< ref "/f24/package/plasma-systemsettings.md" >}}) | 184 | 186 | 98.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [sugar-toolkit]({{< ref "/f24/package/sugar-toolkit.md" >}}) | 72 | 73 | 98.6 | LANGUAGE <LL@li.org> | 
+ | [usermode]({{< ref "/f24/package/usermode.md" >}}) | 564 | 573 | 98.4 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [gnucash]({{< ref "/f24/package/gnucash.md" >}}) | 29203 | 29737 | 98.2 | NONE | 
+ | [setroubleshoot]({{< ref "/f24/package/setroubleshoot.md" >}}) | 607 | 619 | 98.1 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [seahorse-nautilus]({{< ref "/f24/package/seahorse-nautilus.md" >}}) | 411 | 421 | 97.6 | marathi | 
+ | [nemo-extensions]({{< ref "/f24/package/nemo-extensions.md" >}}) | 658 | 675 | 97.5 | Marathi <mr@li.org> | 
+ | [pidgin]({{< ref "/f24/package/pidgin.md" >}}) | 15344 | 15756 | 97.4 | Marathi (http://www.transifex.com/pidgin/pidgin/language/mr/) | 
+ | [hivex]({{< ref "/f24/package/hivex.md" >}}) | 262 | 270 | 97.0 | Marathi <None> | 
+ | [libgnome-media-profiles]({{< ref "/f24/package/libgnome-media-profiles.md" >}}) | 446 | 460 | 97.0 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [cracklib]({{< ref "/f24/package/cracklib.md" >}}) | 93 | 96 | 96.9 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [caja]({{< ref "/f24/package/caja.md" >}}) | 8898 | 9198 | 96.7 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [system-config-printer]({{< ref "/f24/package/system-config-printer.md" >}}) | 3048 | 3158 | 96.5 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [imsettings]({{< ref "/f24/package/imsettings.md" >}}) | 440 | 456 | 96.5 | Marathi (http://www.transifex.net/projects/p/imsettings/team/mr/) | 
+ | [drgeo]({{< ref "/f24/package/drgeo.md" >}}) | 1909 | 1985 | 96.2 | Marathi | 
+ | [mate-panel]({{< ref "/f24/package/mate-panel.md" >}}) | 4213 | 4387 | 96.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [im-chooser]({{< ref "/f24/package/im-chooser.md" >}}) | 229 | 239 | 95.8 | Marathi (http://www.transifex.net/projects/p/im-chooser/team/mr/) | 
+ | [system-config-services]({{< ref "/f24/package/system-config-services.md" >}}) | 511 | 534 | 95.7 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [gdk-pixbuf2]({{< ref "/f24/package/gdk-pixbuf2.md" >}}) | 1288 | 1348 | 95.5 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [mingw-gdk-pixbuf]({{< ref "/f24/package/mingw-gdk-pixbuf.md" >}}) | 1288 | 1348 | 95.5 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [gdm]({{< ref "/f24/package/gdm.md" >}}) | 619 | 650 | 95.2 | Marathi <maajhe-sanganak@freelists.org> | 
+ | [tuxpaint]({{< ref "/f24/package/tuxpaint.md" >}}) | 1515 | 1591 | 95.2 | Marathi | 
+ | [mate-sensors-applet]({{< ref "/f24/package/mate-sensors-applet.md" >}}) | 289 | 304 | 95.1 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [system-config-kdump]({{< ref "/f24/package/system-config-kdump.md" >}}) | 830 | 877 | 94.6 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [system-config-users]({{< ref "/f24/package/system-config-users.md" >}}) | 1436 | 1521 | 94.4 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [mate-polkit]({{< ref "/f24/package/mate-polkit.md" >}}) | 294 | 313 | 93.9 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [kde-cli-tools]({{< ref "/f24/package/kde-cli-tools.md" >}}) | 1960 | 2088 | 93.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [shotwell]({{< ref "/f24/package/shotwell.md" >}}) | 4273 | 4553 | 93.9 | Marathi (http://www.transifex.com/projects/p/shotwell/language/mr/) | 
+ | [debconf]({{< ref "/f24/package/debconf.md" >}}) | 743 | 795 | 93.5 | Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii@cdacmumbai.in> | 
+ | [kf5-kconfigwidgets]({{< ref "/f24/package/kf5-kconfigwidgets.md" >}}) | 303 | 325 | 93.2 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kglobalaccel]({{< ref "/f24/package/kf5-kglobalaccel.md" >}}) | 66 | 71 | 93.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mate-control-center]({{< ref "/f24/package/mate-control-center.md" >}}) | 2567 | 2762 | 92.9 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [mate-power-manager]({{< ref "/f24/package/mate-power-manager.md" >}}) | 2528 | 2724 | 92.8 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [pavucontrol]({{< ref "/f24/package/pavucontrol.md" >}}) | 219 | 237 | 92.4 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [eom]({{< ref "/f24/package/eom.md" >}}) | 1594 | 1731 | 92.1 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [kf5-kcmutils]({{< ref "/f24/package/kf5-kcmutils.md" >}}) | 518 | 563 | 92.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [initscripts]({{< ref "/f24/package/initscripts.md" >}}) | 922 | 1003 | 91.9 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [mate-calc]({{< ref "/f24/package/mate-calc.md" >}}) | 1290 | 1412 | 91.4 | LANGUAGE <LL@li.org> | 
+ | [gnome-documents]({{< ref "/f24/package/gnome-documents.md" >}}) | 1379 | 1510 | 91.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [system-config-samba]({{< ref "/f24/package/system-config-samba.md" >}}) | 518 | 571 | 90.7 | Marathi (http://www.transifex.net/projects/p/fedora/language/mr/) | 
+ | [kf5-ktextwidgets]({{< ref "/f24/package/kf5-ktextwidgets.md" >}}) | 417 | 462 | 90.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mate-utils]({{< ref "/f24/package/mate-utils.md" >}}) | 3321 | 3681 | 90.2 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [aisleriot]({{< ref "/f24/package/aisleriot.md" >}}) | 1788 | 1987 | 90.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [cinnamon-session]({{< ref "/f24/package/cinnamon-session.md" >}}) | 354 | 401 | 88.3 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [passwd]({{< ref "/f24/package/passwd.md" >}}) | 276 | 315 | 87.6 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [kf5-kwidgetsaddons]({{< ref "/f24/package/kf5-kwidgetsaddons.md" >}}) | 1147 | 1315 | 87.2 | Marathi <kde-i18n-doc@kde.org> | 
+ | [galculator]({{< ref "/f24/package/galculator.md" >}}) | 806 | 935 | 86.2 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [pluma]({{< ref "/f24/package/pluma.md" >}}) | 4349 | 5058 | 86.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [libksysguard]({{< ref "/f24/package/libksysguard.md" >}}) | 332 | 390 | 85.1 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mingw-libvirt]({{< ref "/f24/package/mingw-libvirt.md" >}}) | 47147 | 55523 | 84.9 | Marathi (http://www.transifex.com/projects/p/libvirt/language/mr/) | 
+ | [subscription-manager]({{< ref "/f24/package/subscription-manager.md" >}}) | 4796 | 5722 | 83.8 | Marathi <sshedmak@redhat.com> | 
+ | [libvirt]({{< ref "/f24/package/libvirt.md" >}}) | 46701 | 56162 | 83.2 | Marathi (http://www.transifex.com/projects/p/libvirt/language/mr/) | 
+ | [dia]({{< ref "/f24/package/dia.md" >}}) | 5462 | 6605 | 82.7 | marathi | 
+ | [scratch]({{< ref "/f24/package/scratch.md" >}}) | 1215 | 1470 | 82.7 | LANGUAGE <LL@li.org> | 
+ | [caja-extensions]({{< ref "/f24/package/caja-extensions.md" >}}) | 458 | 556 | 82.4 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 82878 | 101018 | 82.0 | Marathi <sshedmak@redhat.com> | 
+ | [kinfocenter]({{< ref "/f24/package/kinfocenter.md" >}}) | 1260 | 1547 | 81.4 | Marathi <kde-i18n-doc@kde.org> | 
+ | [virt-manager]({{< ref "/f24/package/virt-manager.md" >}}) | 6645 | 8178 | 81.3 | Marathi (http://www.transifex.com/projects/p/virt-manager/language/mr/) | 
+ | [xreader]({{< ref "/f24/package/xreader.md" >}}) | 1294 | 1637 | 79.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [atril]({{< ref "/f24/package/atril.md" >}}) | 1391 | 1761 | 79.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [plasma-desktop]({{< ref "/f24/package/plasma-desktop.md" >}}) | 5362 | 6810 | 78.7 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mate-applets]({{< ref "/f24/package/mate-applets.md" >}}) | 2029 | 2621 | 77.4 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [gnome-do]({{< ref "/f24/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Marathi <mr@li.org> | 
+ | [gnome-user-docs]({{< ref "/f24/package/gnome-user-docs.md" >}}) | 44257 | 57659 | 76.8 | Marathi <kde-i18n-doc@kde.org> | 
+ | [policycoreutils]({{< ref "/f24/package/policycoreutils.md" >}}) | 5868 | 7678 | 76.4 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [gnome-abrt]({{< ref "/f24/package/gnome-abrt.md" >}}) | 302 | 397 | 76.1 | Marathi (http://www.transifex.com/projects/p/gnome-abrt/language/mr/) | 
+ | [iso-codes]({{< ref "/f24/package/iso-codes.md" >}}) | 11885 | 15707 | 75.7 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [python-blivet]({{< ref "/f24/package/python-blivet.md" >}}) | 526 | 696 | 75.6 | Marathi | 
+ | [kf5-kservice]({{< ref "/f24/package/kf5-kservice.md" >}}) | 127 | 170 | 74.7 | Marathi <kde-i18n-doc@kde.org> | 
+ | [gedit-plugins]({{< ref "/f24/package/gedit-plugins.md" >}}) | 890 | 1205 | 73.9 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [system-config-date-docs]({{< ref "/f24/package/system-config-date-docs.md" >}}) | 557 | 761 | 73.2 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [kmenuedit]({{< ref "/f24/package/kmenuedit.md" >}}) | 202 | 277 | 72.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 183 | 251 | 72.9 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [kf5-kcoreaddons]({{< ref "/f24/package/kf5-kcoreaddons.md" >}}) | 212 | 291 | 72.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kdelibs4support]({{< ref "/f24/package/kf5-kdelibs4support.md" >}}) | 3488 | 4813 | 72.5 | Marathi <kde-i18n-doc@kde.org> | 
+ | [PackageKit]({{< ref "/f24/package/PackageKit.md" >}}) | 911 | 1273 | 71.6 | Marathi (http://www.transifex.com/freedesktop/packagekit/language/mr/) | 
+ | [xed]({{< ref "/f24/package/xed.md" >}}) | 3185 | 4463 | 71.4 | Marathi (http://www.transifex.com/projects/p/MATE/language/mr/) | 
+ | [kf5-knewstuff]({{< ref "/f24/package/kf5-knewstuff.md" >}}) | 481 | 681 | 70.6 | Marathi <kde-i18n-doc@kde.org> | 
+ | [ksysguard]({{< ref "/f24/package/ksysguard.md" >}}) | 755 | 1081 | 69.8 | Marathi <kde-i18n-doc@kde.org> | 
+ | [libuser]({{< ref "/f24/package/libuser.md" >}}) | 990 | 1437 | 68.9 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [firewalld]({{< ref "/f24/package/firewalld.md" >}}) | 1496 | 2174 | 68.8 | Marathi (http://www.transifex.com/projects/p/firewalld/language/mr/) | 
+ | [mate-media]({{< ref "/f24/package/mate-media.md" >}}) | 153 | 225 | 68.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [engrampa]({{< ref "/f24/package/engrampa.md" >}}) | 1308 | 1935 | 67.6 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [sugar-write]({{< ref "/f24/package/sugar-write.md" >}}) | 79 | 121 | 65.3 | LANGUAGE <LL@li.org> | 
+ | [abrt]({{< ref "/f24/package/abrt.md" >}}) | 2571 | 3969 | 64.8 | Marathi (http://www.transifex.com/projects/p/fedora-abrt/language/mr/) | 
+ | [khotkeys]({{< ref "/f24/package/khotkeys.md" >}}) | 282 | 436 | 64.7 | Marathi <kde-i18n-doc@kde.org> | 
+ | [pogo]({{< ref "/f24/package/pogo.md" >}}) | 371 | 576 | 64.4 | Marathi <mr@li.org> | 
+ | [mate-session-manager]({{< ref "/f24/package/mate-session-manager.md" >}}) | 428 | 681 | 62.8 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [rhn-client-tools]({{< ref "/f24/package/rhn-client-tools.md" >}}) | 2532 | 4057 | 62.4 | Marathi (http://www.transifex.com/projects/p/spacewalk/language/mr/) | 
+ | [blueman]({{< ref "/f24/package/blueman.md" >}}) | 897 | 1446 | 62.0 | Marathi (http://www.transifex.com/projects/p/MATE/language/mr/) | 
+ | [ksnapshot]({{< ref "/f24/package/ksnapshot.md" >}}) | 322 | 521 | 61.8 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mate-settings-daemon]({{< ref "/f24/package/mate-settings-daemon.md" >}}) | 1050 | 1704 | 61.6 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [pulseaudio]({{< ref "/f24/package/pulseaudio.md" >}}) | 2011 | 3304 | 60.9 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [kf5-khtml]({{< ref "/f24/package/kf5-khtml.md" >}}) | 1037 | 1721 | 60.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [virt-viewer]({{< ref "/f24/package/virt-viewer.md" >}}) | 452 | 751 | 60.2 | Marathi (http://www.transifex.com/projects/p/virt-viewer/language/mr/) | 
+ | [mate-notification-daemon]({{< ref "/f24/package/mate-notification-daemon.md" >}}) | 82 | 139 | 59.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [setroubleshoot-plugins]({{< ref "/f24/package/setroubleshoot-plugins.md" >}}) | 3545 | 6235 | 56.9 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [gtksourceview3]({{< ref "/f24/package/gtksourceview3.md" >}}) | 625 | 1118 | 55.9 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [mingw-gtksourceview3]({{< ref "/f24/package/mingw-gtksourceview3.md" >}}) | 625 | 1118 | 55.9 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [network-manager-applet]({{< ref "/f24/package/network-manager-applet.md" >}}) | 1876 | 3408 | 55.0 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [mate-screensaver]({{< ref "/f24/package/mate-screensaver.md" >}}) | 538 | 983 | 54.7 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [kf5-kxmlgui]({{< ref "/f24/package/kf5-kxmlgui.md" >}}) | 864 | 1598 | 54.1 | Marathi <kde-i18n-doc@kde.org> | 
+ | [rhnsd]({{< ref "/f24/package/rhnsd.md" >}}) | 20 | 37 | 54.1 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [NetworkManager]({{< ref "/f24/package/NetworkManager.md" >}}) | 6033 | 11343 | 53.2 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kwebkitpart]({{< ref "/f24/package/kwebkitpart.md" >}}) | 328 | 624 | 52.6 | Marathi <kde-i18n-doc@kde.org> | 
+ | [publican-jboss]({{< ref "/f24/package/publican-jboss.md" >}}) | 120 | 232 | 51.7 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [libreport]({{< ref "/f24/package/libreport.md" >}}) | 2512 | 4893 | 51.3 | Marathi (http://www.transifex.com/projects/p/libreport/language/mr/) | 
+ | [marco]({{< ref "/f24/package/marco.md" >}}) | 2089 | 4096 | 51.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [kf5-kinit]({{< ref "/f24/package/kf5-kinit.md" >}}) | 67 | 134 | 50.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [libpwquality]({{< ref "/f24/package/libpwquality.md" >}}) | 343 | 686 | 50.0 | Marathi (India) (http://www.transifex.com/projects/p/libpwquality/language/mr_IN/) | 
+ | [anaconda]({{< ref "/f24/package/anaconda.md" >}}) | 3332 | 7058 | 47.2 | Marathi (http://www.transifex.com/projects/p/anaconda/language/mr/) | 
+ | [sugar-calculator]({{< ref "/f24/package/sugar-calculator.md" >}}) | 401 | 871 | 46.0 | LANGUAGE <LL@li.org> | 
+ | [plasma-workspace]({{< ref "/f24/package/plasma-workspace.md" >}}) | 2487 | 5489 | 45.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kpackage]({{< ref "/f24/package/kf5-kpackage.md" >}}) | 197 | 443 | 44.5 | Marathi <kde-i18n-doc@kde.org> | 
+ | [gnome-video-effects]({{< ref "/f24/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [colord-kde]({{< ref "/f24/package/colord-kde.md" >}}) | 152 | 369 | 41.2 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mate-system-monitor]({{< ref "/f24/package/mate-system-monitor.md" >}}) | 538 | 1307 | 41.2 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [sugar-paint]({{< ref "/f24/package/sugar-paint.md" >}}) | 37 | 90 | 41.1 | LANGUAGE <LL@li.org> | 
+ | [orca]({{< ref "/f24/package/orca.md" >}}) | 541 | 1323 | 40.9 | Marathi | 
+ | [hamster-time-tracker]({{< ref "/f24/package/hamster-time-tracker.md" >}}) | 285 | 697 | 40.9 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [system-config-samba-docs]({{< ref "/f24/package/system-config-samba-docs.md" >}}) | 486 | 1195 | 40.7 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [sugar-chat]({{< ref "/f24/package/sugar-chat.md" >}}) | 54 | 137 | 39.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy]({{< ref "/f24/package/sugar-pippy.md" >}}) | 42 | 109 | 38.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-log]({{< ref "/f24/package/sugar-log.md" >}}) | 37 | 98 | 37.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize]({{< ref "/f24/package/sugar-memorize.md" >}}) | 51 | 142 | 35.9 | LANGUAGE <LL@li.org> | 
+ | [kdeplasma-addons]({{< ref "/f24/package/kdeplasma-addons.md" >}}) | 1349 | 3767 | 35.8 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kwallet]({{< ref "/f24/package/kf5-kwallet.md" >}}) | 534 | 1498 | 35.6 | Marathi <kde-i18n-doc@kde.org> | 
+ | [sugar]({{< ref "/f24/package/sugar.md" >}}) | 604 | 1733 | 34.9 | LANGUAGE <LL@li.org> | 
+ | [kwin]({{< ref "/f24/package/kwin.md" >}}) | 1517 | 4435 | 34.2 | Marathi <kde-i18n-doc@kde.org> | 
+ | [polkit-kde]({{< ref "/f24/package/polkit-kde.md" >}}) | 32 | 94 | 34.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-knotifyconfig]({{< ref "/f24/package/kf5-knotifyconfig.md" >}}) | 43 | 129 | 33.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [sugar-browse]({{< ref "/f24/package/sugar-browse.md" >}}) | 63 | 189 | 33.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-words]({{< ref "/f24/package/sugar-words.md" >}}) | 1 | 3 | 33.3 | LANGUAGE <LL@li.org> | 
+ | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 1984 | 5999 | 33.1 | Marathi <mr@li.org> | 
+ | [kf5-sonnet]({{< ref "/f24/package/kf5-sonnet.md" >}}) | 219 | 663 | 33.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [publican]({{< ref "/f24/package/publican.md" >}}) | 1750 | 5443 | 32.2 | Marathi | 
+ | [yum-rhn-plugin]({{< ref "/f24/package/yum-rhn-plugin.md" >}}) | 45 | 147 | 30.6 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [dpkg]({{< ref "/f24/package/dpkg.md" >}}) | 2630 | 8597 | 30.6 | Marathi <janabhaaratii@cdacmumbai.in> | 
+ | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 3929 | 13551 | 29.0 | Marathi <mr@li.org> | 
+ | [onboard]({{< ref "/f24/package/onboard.md" >}}) | 670 | 2318 | 28.9 | Marathi <mr@li.org> | 
+ | [mate-terminal]({{< ref "/f24/package/mate-terminal.md" >}}) | 1242 | 4387 | 28.3 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [picard]({{< ref "/f24/package/picard.md" >}}) | 532 | 2015 | 26.4 | Marathi (http://www.transifex.com/projects/p/musicbrainz/language/mr/) | 
+ | [system-config-date]({{< ref "/f24/package/system-config-date.md" >}}) | 470 | 1850 | 25.4 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [kf5-kdeclarative]({{< ref "/f24/package/kf5-kdeclarative.md" >}}) | 26 | 109 | 23.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [sugar-turtleart]({{< ref "/f24/package/sugar-turtleart.md" >}}) | 332 | 1459 | 22.8 | LANGUAGE <walter@sugarlabs.org> | 
+ | [librfm]({{< ref "/f24/package/librfm.md" >}}) | 528 | 2397 | 22.0 | marathi | 
+ | [blueberry]({{< ref "/f24/package/blueberry.md" >}}) | 31 | 141 | 22.0 | Marathi <mr@li.org> | 
+ | [muon]({{< ref "/f24/package/muon.md" >}}) | 352 | 1662 | 21.2 | Marathi <kde-i18n-doc@kde.org> | 
+ | [mate-desktop]({{< ref "/f24/package/mate-desktop.md" >}}) | 488 | 2401 | 20.3 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [plasma-discover]({{< ref "/f24/package/plasma-discover.md" >}}) | 326 | 1616 | 20.2 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kde-l10n]({{< ref "/f24/package/kde-l10n.md" >}}) | 71898 | 358279 | 20.1 | Marathi <kde-i18n-doc@kde.org> | 
+ | [sugar-record]({{< ref "/f24/package/sugar-record.md" >}}) | 12 | 62 | 19.4 | LANGUAGE <LL@li.org> | 
+ | [clamtk]({{< ref "/f24/package/clamtk.md" >}}) | 83 | 434 | 19.1 | Marathi <mr@li.org> | 
+ | [gcr]({{< ref "/f24/package/gcr.md" >}}) | 115 | 622 | 18.5 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [kf5-ktexteditor]({{< ref "/f24/package/kf5-ktexteditor.md" >}}) | 1466 | 8323 | 17.6 | Marathi <kde-i18n-doc@kde.org> | 
+ | [sugar-read]({{< ref "/f24/package/sugar-read.md" >}}) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
+ | [plasma-sdk]({{< ref "/f24/package/plasma-sdk.md" >}}) | 222 | 1321 | 16.8 | Marathi <kde-i18n-doc@kde.org> | 
+ | [libguestfs]({{< ref "/f24/package/libguestfs.md" >}}) | 2919 | 18595 | 15.7 | Marathi (http://www.transifex.com/projects/p/libguestfs/language/mr/) | 
+ | [dnf]({{< ref "/f24/package/dnf.md" >}}) | 288 | 1886 | 15.3 | Marathi | 
+ | [kf5-kio]({{< ref "/f24/package/kf5-kio.md" >}}) | 1815 | 11899 | 15.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [knemo]({{< ref "/f24/package/knemo.md" >}}) | 183 | 1236 | 14.8 | Marathi <kde-i18n-doc@kde.org> | 
+ | [plasma-nm]({{< ref "/f24/package/plasma-nm.md" >}}) | 62 | 423 | 14.7 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kcm_wacomtablet]({{< ref "/f24/package/kcm_wacomtablet.md" >}}) | 131 | 898 | 14.6 | Marathi <kde-i18n-doc@kde.org> | 
+ | [pykickstart]({{< ref "/f24/package/pykickstart.md" >}}) | 197 | 1355 | 14.5 | Marathi (http://www.transifex.com/projects/p/pykickstart/language/mr/) | 
+ | [NetworkManager-ssh]({{< ref "/f24/package/NetworkManager-ssh.md" >}}) | 37 | 286 | 12.9 | marathi | 
+ | [mate-themes]({{< ref "/f24/package/mate-themes.md" >}}) | 7 | 55 | 12.7 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [NetworkManager-fortisslvpn]({{< ref "/f24/package/NetworkManager-fortisslvpn.md" >}}) | 22 | 174 | 12.6 | marathi | 
+ | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 2919 | 23669 | 12.3 | Marathi <mr@li.org> | 
+ | [NetworkManager-openvpn]({{< ref "/f24/package/NetworkManager-openvpn.md" >}}) | 121 | 1049 | 11.5 | marathi | 
+ | [smb4k]({{< ref "/f24/package/smb4k.md" >}}) | 73 | 664 | 11.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [homebank]({{< ref "/f24/package/homebank.md" >}}) | 243 | 2283 | 10.6 | Marathi <mr@li.org> | 
+ | [sugar-speak]({{< ref "/f24/package/sugar-speak.md" >}}) | 24 | 227 | 10.6 | LANGUAGE <LL@li.org> | 
+ | [kde-partitionmanager]({{< ref "/f24/package/kde-partitionmanager.md" >}}) | 220 | 2135 | 10.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [NetworkManager-l2tp]({{< ref "/f24/package/NetworkManager-l2tp.md" >}}) | 80 | 783 | 10.2 | marathi | 
+ | [sugar-clock]({{< ref "/f24/package/sugar-clock.md" >}}) | 6 | 66 | 9.1 | LANGUAGE <LL@li.org> | 
+ | [kjots]({{< ref "/f24/package/kjots.md" >}}) | 36 | 399 | 9.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [transmission]({{< ref "/f24/package/transmission.md" >}}) | 157 | 1809 | 8.7 | Marathi <mr@li.org> | 
+ | [kf5-libktorrent]({{< ref "/f24/package/kf5-libktorrent.md" >}}) | 40 | 474 | 8.4 | Marathi <kde-i18n-doc@kde.org> | 
+ | [rodent]({{< ref "/f24/package/rodent.md" >}}) | 799 | 9802 | 8.2 |  | 
+ | [choqok]({{< ref "/f24/package/choqok.md" >}}) | 171 | 2159 | 7.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kcodecs]({{< ref "/f24/package/kf5-kcodecs.md" >}}) | 27 | 348 | 7.8 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-plasma]({{< ref "/f24/package/kf5-plasma.md" >}}) | 40 | 547 | 7.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [calibre]({{< ref "/f24/package/calibre.md" >}}) | 11101 | 152264 | 7.3 | Marathi (http://www.transifex.com/calibre/calibre/language/mr/) | 
+ | [gnumeric]({{< ref "/f24/package/gnumeric.md" >}}) | 2315 | 35046 | 6.6 | terna localization Team <hbcse.net> | 
+ | [colord]({{< ref "/f24/package/colord.md" >}}) | 25 | 388 | 6.4 | LANGUAGE <LL@li.org> | 
+ | [mingw-colord]({{< ref "/f24/package/mingw-colord.md" >}}) | 25 | 388 | 6.4 | LANGUAGE <LL@li.org> | 
+ | [sflphone]({{< ref "/f24/package/sflphone.md" >}}) | 124 | 2106 | 5.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kdevelop]({{< ref "/f24/package/kdevelop.md" >}}) | 197 | 3475 | 5.7 | Marathi <kde-i18n-doc@kde.org> | 
+ | [publican-fedora]({{< ref "/f24/package/publican-fedora.md" >}}) | 6 | 107 | 5.6 | marathi | 
+ | [apper]({{< ref "/f24/package/apper.md" >}}) | 219 | 4108 | 5.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kdevplatform]({{< ref "/f24/package/kdevplatform.md" >}}) | 393 | 7890 | 5.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [gdesklets]({{< ref "/f24/package/gdesklets.md" >}}) | 74 | 1528 | 4.8 | Marathi <mr@li.org> | 
+ | [isomaster]({{< ref "/f24/package/isomaster.md" >}}) | 32 | 674 | 4.7 | http://littlesvr.ca/ostd/ | 
+ | [arduino]({{< ref "/f24/package/arduino.md" >}}) | 118 | 2566 | 4.6 | Marathi (http://www.transifex.com/projects/p/arduino-ide-15/language/mr/) | 
+ | [plasma-user-manager]({{< ref "/f24/package/plasma-user-manager.md" >}}) | 13 | 289 | 4.5 | Marathi <kde-i18n-doc@kde.org> | 
+ | [system-config-services-docs]({{< ref "/f24/package/system-config-services-docs.md" >}}) | 27 | 638 | 4.2 | Marathi <fedora-trans-mr@redhat.com> | 
+ | [tellico]({{< ref "/f24/package/tellico.md" >}}) | 226 | 5790 | 3.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [sugar-imageviewer]({{< ref "/f24/package/sugar-imageviewer.md" >}}) | 2 | 58 | 3.4 | LANGUAGE <LL@li.org> | 
+ | [trojita]({{< ref "/f24/package/trojita.md" >}}) | 143 | 4388 | 3.3 | Marathi <kde-i18n-doc@kde.org> | 
+ | [asunder]({{< ref "/f24/package/asunder.md" >}}) | 15 | 480 | 3.1 | http://littlesvr.ca/ostd/ | 
+ | [kpmcore]({{< ref "/f24/package/kpmcore.md" >}}) | 85 | 2848 | 3.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kdevelop-php]({{< ref "/f24/package/kdevelop-php.md" >}}) | 13 | 442 | 2.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [light-locker]({{< ref "/f24/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Marathi (http://www.transifex.com/the_cavalry/light-locker/language/mr/) | 
+ | [kdevelop-python]({{< ref "/f24/package/kdevelop-python.md" >}}) | 14 | 579 | 2.4 | Marathi <kde-i18n-doc@kde.org> | 
+ | [k3b]({{< ref "/f24/package/k3b.md" >}}) | 489 | 20541 | 2.4 | Marathi <kde-i18n-doc@kde.org> | 
+ | [skrooge]({{< ref "/f24/package/skrooge.md" >}}) | 211 | 10298 | 2.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [yakuake]({{< ref "/f24/package/yakuake.md" >}}) | 31 | 1573 | 2.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [goffice08]({{< ref "/f24/package/goffice08.md" >}}) | 87 | 4599 | 1.9 | terna localization Team <hbcse.net> | 
+ | [audex]({{< ref "/f24/package/audex.md" >}}) | 62 | 3347 | 1.9 | Marathi <kde-i18n-doc@kde.org> | 
+ | [sugar-moon]({{< ref "/f24/package/sugar-moon.md" >}}) | 2 | 117 | 1.7 | LANGUAGE <LL@li.org> | 
+ | [gimp-gap]({{< ref "/f24/package/gimp-gap.md" >}}) | 190 | 11659 | 1.6 | marathi | 
+ | [goffice]({{< ref "/f24/package/goffice.md" >}}) | 86 | 6201 | 1.4 | terna localization Team <hbcse.net> | 
+ | [NetworkManager-openconnect]({{< ref "/f24/package/NetworkManager-openconnect.md" >}}) | 34 | 3241 | 1.0 | marathi | 
+ | [pitivi]({{< ref "/f24/package/pitivi.md" >}}) | 10 | 1013 | 1.0 | marathi | 
+ | [python-meh]({{< ref "/f24/package/python-meh.md" >}}) | 1 | 109 | 0.9 | Marathi (http://www.transifex.com/projects/p/python-meh/language/mr/) | 
+ | [sugar-terminal]({{< ref "/f24/package/sugar-terminal.md" >}}) | 1 | 121 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [python-django]({{< ref "/f24/package/python-django.md" >}}) | 23 | 3343 | 0.7 | Marathi (http://www.transifex.com/django/django/language/mr/) | 
+ | [clementine]({{< ref "/f24/package/clementine.md" >}}) | 25 | 5091 | 0.5 | Marathi (http://www.transifex.com/davidsansome/clementine/language/mr/) | 
+ | [snapper]({{< ref "/f24/package/snapper.md" >}}) | 3 | 743 | 0.4 | Marathi <i18n@suse.de> | 
+ | [freeipa]({{< ref "/f24/package/freeipa.md" >}}) | 103 | 26031 | 0.4 | Marathi | 
+ | [widelands]({{< ref "/f24/package/widelands.md" >}}) | 12 | 4940 | 0.2 | Marathi <mr@li.org> | 
+ | [quassel]({{< ref "/f24/package/quassel.md" >}}) | 12 | 5382 | 0.2 | Marathi (http://www.transifex.com/ald/quassel/language/mr/) | 
+ | [wesnoth]({{< ref "/f24/package/wesnoth.md" >}}) | 519 | 256016 | 0.2 | Marathi <sujitrjadhav@gmail.com> | 
+ | [terminator]({{< ref "/f24/package/terminator.md" >}}) | 1 | 1410 | 0.1 | Marathi <mr@li.org> | 
+ | [blivet-gui]({{< ref "/f24/package/blivet-gui.md" >}}) | 0 | 699 | 0.0 | Marathi | 
+ | [certmonger]({{< ref "/f24/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Marathi (http://www.transifex.com/projects/p/certmonger/language/mr/) | 
+ | [dnf-plugin-system-upgrade]({{< ref "/f24/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Marathi | 
+ | [dnf-plugins-extras]({{< ref "/f24/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Marathi | 
+ | [docker-anaconda-addon]({{< ref "/f24/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Marathi | 
+ | [entangle]({{< ref "/f24/package/entangle.md" >}}) | 0 | 935 | 0.0 | Marathi | 
+ | [feedreader]({{< ref "/f24/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [fonts-tweak-tool]({{< ref "/f24/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Marathi | 
+ | [fprintd]({{< ref "/f24/package/fprintd.md" >}}) | 0 | 419 | 0.0 | Marathi (http://www.transifex.com/freedesktop/fprintd/language/mr/) | 
+ | [gcompris]({{< ref "/f24/package/gcompris.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [kf5-kauth]({{< ref "/f24/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-kconfig]({{< ref "/f24/package/kf5-kconfig.md" >}}) | 0 | 262 | 0.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [kf5-syntax-highlighting]({{< ref "/f24/package/kf5-syntax-highlighting.md" >}}) | 0 | 435 | 0.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [libbytesize]({{< ref "/f24/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Marathi | 
+ | [libgxim]({{< ref "/f24/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libkgapi]({{< ref "/f24/package/libkgapi.md" >}}) | 0 | 310 | 0.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [libosinfo]({{< ref "/f24/package/libosinfo.md" >}}) | 0 | 2049 | 0.0 | Marathi | 
+ | [libvirt-glib]({{< ref "/f24/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Marathi (http://www.transifex.com/projects/p/libvirt-glib/language/mr/) | 
+ | [libvirt-sandbox]({{< ref "/f24/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Marathi (http://www.transifex.com/projects/p/fedora/language/mr/) | 
+ | [lightdm]({{< ref "/f24/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Marathi <mr@li.org> | 
+ | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Marathi (http://www.transifex.com/mate/MATE/language/mr/) | 
+ | [mingw-libvirt-glib]({{< ref "/f24/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Marathi (http://www.transifex.com/projects/p/libvirt-glib/language/mr/) | 
+ | [mingw-p11-kit]({{< ref "/f24/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Marathi (http://www.transifex.com/freedesktop/p11-kit/language/mr/) | 
+ | [oscap-anaconda-addon]({{< ref "/f24/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Marathi (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/mr/) | 
+ | [p11-kit]({{< ref "/f24/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Marathi (http://www.transifex.com/freedesktop/p11-kit/language/mr/) | 
+ | [plasma-mediacenter]({{< ref "/f24/package/plasma-mediacenter.md" >}}) | 0 | 83 | 0.0 | Marathi <kde-i18n-doc@kde.org> | 
+ | [python-fedora]({{< ref "/f24/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Marathi | 
+ | [realmd]({{< ref "/f24/package/realmd.md" >}}) | 0 | 778 | 0.0 | Marathi (http://www.transifex.com/projects/p/freedesktop/language/mr/) | 
+ | [retrace-server]({{< ref "/f24/package/retrace-server.md" >}}) | 0 | 381 | 0.0 | Marathi | 
+ | [shared-mime-info]({{< ref "/f24/package/shared-mime-info.md" >}}) | 0 | 1767 | 0.0 | Marathi (http://www.transifex.com/freedesktop/shared-mime-info/language/mr/) | 
+ | [storaged]({{< ref "/f24/package/storaged.md" >}}) | 0 | 1929 | 0.0 |  | 
+ | [sugar-abacus]({{< ref "/f24/package/sugar-abacus.md" >}}) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario]({{< ref "/f24/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto]({{< ref "/f24/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance]({{< ref "/f24/package/sugar-finance.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon]({{< ref "/f24/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce]({{< ref "/f24/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks]({{< ref "/f24/package/sugar-getiabooks.md" >}}) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode]({{< ref "/f24/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer]({{< ref "/f24/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox]({{< ref "/f24/package/sugar-jukebox.md" >}}) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth]({{< ref "/f24/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze]({{< ref "/f24/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics]({{< ref "/f24/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo]({{< ref "/f24/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler]({{< ref "/f24/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle]({{< ref "/f24/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides]({{< ref "/f24/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch]({{< ref "/f24/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs]({{< ref "/f24/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [udisks2]({{< ref "/f24/package/udisks2.md" >}}) | 0 | 1525 | 0.0 | Marathi (http://www.transifex.com/projects/p/udisks/language/mr/) | 
+ | [yum]({{< ref "/f24/package/yum.md" >}}) | 0 | 3069 | 0.0 | Marathi (http://www.transifex.net/projects/p/yum/team/mr/) | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+## Error with polib
+We use the po metadata to get the language code and the team, but sometimes it fails, here are the files.
+
+| Package | Lang from file path/name | polib error | Team |
+|---------|--------------------------|-------------|------|
+ | [gcompris]({{< ref "/f24/package/gcompris.md" >}}) | /mnt/stockage/packages/f24/gcompris/po/mr.po | error-os |  | 
+ | [rodent]({{< ref "/f24/package/rodent.md" >}}) | /mnt/stockage/packages/f24/rodent/apps/fgr/po/mr.po | error-unicode |  | 
+{.sortable}
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+ | [gcompris]({{< ref "/f24/package/gcompris.md" >}}) | /mnt/stockage/packages/f24/gcompris/po/mr.po |  | 
+{.sortable}
+
+

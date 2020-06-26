@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+davfs2,5241,0,0,366,0,0,4841,5241,100.0,
+kde-i18n,181,0,0,26,0,0,64,181,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+mkvtoolnix,13584,411,1519,689,43,64,1821,15514,87.55962356581153,none
+po4a,0,36,0,0,16,0,0,36,0.0,LANGUAGE <LL@li.org>
+shadow-utils,2252,1,14102,292,1,910,1989,16355,13.769489452766736,Danish <debian-l10n-danish@lists.debian.org>
+wine-docs,0,38,0,0,15,0,0,38,0.0,LANGUAGE <LL@li.org>

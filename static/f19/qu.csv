@@ -1,0 +1,43 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+olpc-switch-desktop,158,0,158,14,0,14,91,316,50.0,LANGUAGE <LL@li.org>
+sugar,1431,84,67,358,14,15,1227,1582,90.4551201011378,LANGUAGE <LL@li.org>
+sugar-abacus,23,0,11,23,0,2,30,34,67.64705882352942,Voluntarios quechuas Sugar Camp Lima
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,152,0,0,43,0,0,128,152,100.0,Voluntarios Quechua Sugar Camp
+sugar-calculator,871,0,0,164,0,0,899,871,100.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,52,0,0,34,0,0,51,52,100.0,LANGUAGE <LL@li.org>
+sugar-clock,37,1,21,16,1,1,629,59,62.71186440677966,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,100,37,27,25,1,13,64,164,60.97560975609756,Voluntarios quechuas Sugar Camp Lima
+sugar-fototoon,15,3,59,11,1,21,15,77,19.480519480519483,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,4,5,91,4,5,23,4,100,4.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,27,11,0,2,23,51,47.05882352941176,LANGUAGE <LL@li.org>
+sugar-implode,4,2,71,4,2,14,4,77,5.194805194805195,LANGUAGE <LL@li.org>
+sugar-infoslicer,4,0,232,4,0,58,4,236,1.694915254237288,LANGUAGE <LL@li.org>
+sugar-jukebox,58,0,7,16,0,4,47,65,89.23076923076924,LANGUAGE <LL@li.org>
+sugar-labyrinth,254,0,27,93,0,1,231,281,90.39145907473309,LANGUAGE <LL@li.org>
+sugar-log,94,0,0,20,0,0,82,94,100.0,LANGUAGE <LL@li.org>
+sugar-measure,6,0,149,4,0,69,7,155,3.870967741935484,LANGUAGE <LL@li.org>
+sugar-memorize,34,5,103,34,5,35,62,142,23.943661971830984,LANGUAGE <LL@li.org>
+sugar-moon,2,0,115,2,0,31,2,117,1.7094017094017095,LANGUAGE <LL@li.org>
+sugar-paint,88,0,0,51,0,0,93,88,100.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,30,48,58.333333333333336,Voluntarios Quechua Sugar Camp
+sugar-pippy,109,0,0,31,0,0,86,109,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,60,0,0,21,0,0,52,60,100.0,Voluntarios quechuas Sugar Camp Lima
+sugar-read,114,0,0,42,0,0,88,114,100.0,Voluntarios Quechua Sugar Camp
+sugar-ruler,0,0,15,0,0,6,0,15,0.0,LANGUAGE <LL@li.org>
+sugar-speak,217,0,0,72,0,0,178,217,100.0,Voluntarios quechuas Sugar Camp Lima
+sugar-story,0,1,23,0,1,10,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2070,0,0,695,0,2070,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,17,0,0,9,0,0,23,17,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,73,0,0,37,0,0,70,73,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,0,40,0,0,72,76,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,3063,6,83,770,5,26,2702,3152,97.17639593908629,Voluntarios Quechua Sugar
+sugar-typing-turtle,6,0,569,6,0,120,6,575,1.0434782608695654,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,7,2,149,7,2,69,7,158,4.430379746835443,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,116,121,100.0,LANGUAGE <LL@li.org>

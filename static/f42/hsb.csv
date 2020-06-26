@@ -1,0 +1,142 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+akonadi-notes,2,0,0,1,0,0,2,2,100.0,Upper Sorbian <kde-i18n-doc@kde.org>
+akonadi-search,35,13,19,9,2,7,36,67,52.23880597014925,Upper Sorbian <kde-i18n-doc@kde.org>
+akonadi-server,618,83,2002,192,26,234,716,2703,22.86348501664817,Upper Sorbian <kde-i18n-doc@kde.org>
+bluedevil,261,68,307,83,18,128,252,636,41.0377358490566,Upper Sorbian <kde-i18n-doc@kde.org>
+calendarsupport,0,580,2179,0,174,211,0,2759,0.0,Upper Sorbian
+calligra,1254,888,4001,538,291,1043,1244,6143,20.413478756307992,Upper Sorbian <kde-i18n-doc@kde.org>
+cinnamon-translations,1131,0,6402,356,0,1528,1173,7533,15.013938669852648,Upper Sorbian <hsb@li.org>
+cpeditor,0,33,614,0,20,363,0,647,0.0,en_US <kde-i18n-doc@lists.kde.org>
+dolphin,577,1104,5119,228,304,421,571,6800,8.48529411764706,en_US <kde-i18n-doc@lists.kde.org>
+gwenview,218,9,1864,131,5,321,242,2091,10.425633668101387,Upper Sorbian <kde-i18n-doc@kde.org>
+kate,65,313,2487,18,107,423,64,2865,2.2687609075043627,Hornjoserbšćina <hsb@li.org>
+kde-cli-tools,860,257,493,94,21,55,750,1610,53.41614906832298,en_US <kde-i18n-doc@lists.kde.org>
+kdenetwork-filesharing,0,43,884,0,22,94,0,927,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kdepim-addons,0,0,3,0,0,1,0,3,0.0,Upper Sorbian
+kdepim-runtime,115,12,26,23,1,4,121,153,75.16339869281046,Upper Sorbian <kde-i18n-doc@kde.org>
+kdialog,58,100,245,16,13,49,50,403,14.392059553349876,Hornjoserbšćina
+kdnssd,0,0,33,0,0,8,0,33,0.0,en_US <kde-i18n-doc@lists.kde.org>
+keditbookmarks,26,25,419,19,16,98,28,470,5.531914893617021,en_US <kde-i18n-doc@lists.kde.org>
+kexi,15,354,6971,8,163,1309,13,7340,0.20435967302452315,Upper Sorbian <hsb@li.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Upper Sorbian <kde-i18n-doc@kde.org>
+kf5-akonadi-search,48,0,19,11,0,7,49,67,71.64179104477611,Upper Sorbian <kde-i18n-doc@kde.org>
+kf5-akonadi-server,650,48,1826,203,13,212,746,2524,25.752773375594295,Upper Sorbian <kde-i18n-doc@kde.org>
+kf5-calendarsupport,0,597,2182,0,177,214,0,2779,0.0,Upper Sorbian
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,197,230,100.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kcmutils,140,123,3,18,18,2,150,266,52.63157894736842,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kconfig,0,35,254,0,4,100,0,289,0.0,Upper Sorbian
+kf5-kconfigwidgets,119,156,67,64,47,14,133,342,34.7953216374269,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kcoreaddons,0,306,76,0,89,43,0,382,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kdeclarative,41,40,80,7,8,10,38,161,25.465838509316768,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kdelibs4support,952,1043,3358,211,647,1686,833,5353,17.784419951429108,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Hornjoserbsce <en@li.org>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-khtml,1085,435,147,237,36,16,941,1667,65.0869826034793,en_US <kde-i18n-doc@lists.kde.org>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kiconthemes,11,17,13,10,5,4,11,41,26.82926829268293,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kinit,78,31,7,6,4,1,38,116,67.24137931034483,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kio,5096,3139,3802,695,363,315,4160,12037,42.336130265016195,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kjsembed,222,14,12,41,2,1,195,248,89.51612903225806,en_US <kde-i18n-doc@lists.kde.org>
+kf5-knewstuff,119,287,1225,23,116,92,101,1631,7.296137339055794,en_US <kde-i18n-doc@lists.kde.org>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-knotifyconfig,34,95,0,12,5,0,34,129,26.356589147286826,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kparts,71,51,16,16,12,2,56,138,51.449275362318836,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kpty,15,0,0,4,0,0,20,15,100.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kross,80,20,0,27,8,0,68,100,80.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kservice,60,79,34,8,15,5,51,173,34.68208092485549,en_US <kde-i18n-doc@lists.kde.org>
+kf5-ktexteditor,497,646,8090,81,187,996,448,9233,5.382865807429871,en_US <kde-i18n-doc@lists.kde.org>
+kf5-ktextwidgets,441,18,14,110,13,7,394,473,93.23467230443974,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kwallet,315,261,759,26,21,41,254,1335,23.595505617977526,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kwidgetsaddons,0,1141,152,0,426,37,0,1293,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-kxmlgui,469,971,134,96,120,14,403,1574,29.796696315120712,en_US <kde-i18n-doc@lists.kde.org>
+kf5-libkdepim,0,0,35,0,0,10,0,35,0.0,Upper Sorbian
+kf5-mailimporter,0,86,1322,0,10,117,0,1408,0.0,Hornjoserbsce <en@li.org>
+kf5-messagelib,1936,729,3592,626,165,377,1875,6257,30.941345692824036,<hsb@li.org>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf5-syntax-highlighting,0,33,614,0,20,363,0,647,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kauth,0,0,73,0,0,8,0,73,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kbookmarks,159,9,11,33,3,2,133,179,88.8268156424581,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kcmutils,11,104,8,5,17,4,11,123,8.94308943089431,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kcodecs,0,55,315,0,36,17,0,370,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kcompletion,0,18,0,0,11,0,0,18,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kconfig,0,35,515,0,4,200,0,550,0.0,Upper Sorbian
+kf6-kconfigwidgets,87,162,63,46,57,14,100,312,27.884615384615387,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kcoreaddons,0,360,125,0,105,57,0,485,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kdeclarative,36,48,85,4,9,8,31,169,21.301775147928996,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kdnssd,0,3,0,0,3,0,0,3,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kdoctools,8,0,0,4,0,0,10,8,100.0,Hornjoserbsce <en@li.org>
+kf6-kglobalaccel,0,34,0,0,5,0,0,34,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kiconthemes,11,17,18,10,5,7,11,46,23.91304347826087,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kio,4138,1920,2549,570,322,254,3381,8607,48.077146508655744,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kitemviews,0,6,0,0,3,0,0,6,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kjobwidgets,0,118,21,0,38,3,0,139,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-knewstuff,1,174,859,1,70,59,1,1034,0.09671179883945842,en_US <kde-i18n-doc@lists.kde.org>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-knotifyconfig,19,0,0,7,0,0,17,19,100.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kparts,35,15,7,8,2,1,29,57,61.40350877192983,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kpty,15,0,0,4,0,0,20,15,100.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kservice,4,32,9,2,9,1,5,45,8.88888888888889,en_US <kde-i18n-doc@lists.kde.org>
+kf6-ktexteditor,482,787,8194,80,224,1015,437,9463,5.093522138856599,en_US <kde-i18n-doc@lists.kde.org>
+kf6-ktextwidgets,434,25,14,106,17,7,387,473,91.75475687103594,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kwallet,315,254,491,26,17,25,254,1060,29.71698113207547,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kwidgetsaddons,0,1125,152,0,428,38,0,1277,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kwindowsystem,0,2,0,0,1,0,0,2,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-kxmlgui,384,758,147,88,93,19,330,1289,29.79053529868115,en_US <kde-i18n-doc@lists.kde.org>
+kf6-sonnet,0,657,27,0,71,6,0,684,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kf6-syntax-highlighting,0,33,702,0,20,404,0,735,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kfind,155,235,127,32,43,42,140,517,29.980657640232106,Hornjoserbšćina
+kget,35,380,2352,31,171,540,35,2767,1.264907842428623,en_US <kde-i18n-doc@lists.kde.org>
+khelpcenter,76,42,103,34,18,32,70,221,34.38914027149321,Hornjoserbšćina
+kigo,1,104,403,1,52,80,1,508,0.19685039370078738,en_US <kde-i18n-doc@lists.kde.org>
+kinfocenter,12,41,109,9,22,47,12,162,7.4074074074074066,en_US <kde-i18n-doc@lists.kde.org>
+kio-extras,395,685,1592,30,69,142,280,2672,14.782934131736528,en_US <kde-i18n-doc@lists.kde.org>
+kio-extras-kf5,75,181,681,12,9,96,57,937,8.004268943436498,Hornjoserbsce <en@li.org>
+kmail,2563,2254,3531,566,498,229,2382,8348,30.70196454240537,<hsb@li.org>
+kmenuedit,12,97,205,9,8,56,14,314,3.821656050955414,en_US <kde-i18n-doc@lists.kde.org>
+koffice-kivio,27,7,1998,10,4,366,34,2032,1.328740157480315,Upper Sorbian
+konqueror,3218,411,4012,581,90,345,2839,7641,42.11490642586049,en_US <kde-i18n-doc@lists.kde.org>
+konsole,364,494,3424,149,165,585,361,4282,8.5007006071929,Upper Sorbian
+konsole5,367,436,3193,151,145,544,365,3996,9.184184184184184,Upper Sorbian
+kopete,214,498,16463,110,196,2989,197,17175,1.2459970887918486,en_US <kde-i18n-doc@lists.kde.org>
+korganizer,241,1153,6663,107,285,676,272,8057,2.9911877870175,Upper Sorbian
+krdc,299,36,870,92,19,191,316,1205,24.813278008298756,en_US <kde-i18n-doc@lists.kde.org>
+krfb,0,5,729,0,2,102,0,734,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kscreen,164,30,685,41,13,74,194,879,18.657565415244594,Upper Sorbian <kde-i18n-doc@kde.org>
+ksnakeduel,0,56,187,0,19,37,0,243,0.0,en_US <kde-i18n-doc@lists.kde.org>
+kwin,266,966,4269,78,254,738,298,5501,4.835484457371387,en_US <kde-i18n-doc@lists.kde.org>
+kwin-x11,407,912,3982,89,263,673,409,5301,7.677796642142992,en_US <kde-i18n-doc@lists.kde.org>
+libkdepim,0,0,36,0,0,11,0,36,0.0,Upper Sorbian
+libksysguard,0,0,602,0,0,128,0,602,0.0,en_US <kde-i18n-doc@lists.kde.org>
+libreoffice,528734,0,244894,75750,0,20542,481561,773628,68.34473416163841,Upper Sorbian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/hsb/>
+mailimporter,0,86,1319,0,10,116,0,1405,0.0,Hornjoserbsce <en@li.org>
+messagelib,1473,1081,3493,488,327,366,1436,6047,24.3591863734083,<hsb@li.org>
+okular,1303,195,2680,459,84,496,1284,4178,31.18717089516515,en_US <kde-i18n-doc@lists.kde.org>
+palapeli,0,2,1523,0,1,185,0,1525,0.0,en_US <kde-i18n-doc@lists.kde.org>
+phonon,0,79,248,0,15,44,0,327,0.0,en_US <kde-i18n-doc@lists.kde.org>
+phonon-backend-gstreamer,0,37,67,0,2,13,0,104,0.0,en_US <kde-i18n-doc@lists.kde.org>
+plasma-desktop,829,773,2344,136,219,479,673,3946,21.00861632032438,en_US <kde-i18n-doc@lists.kde.org>
+plasma-discover,332,133,3192,180,55,490,364,3657,9.078479628110472,Upper Sorbian <kde-i18n-doc@kde.org>
+plasma-drkonqi,10,134,1837,6,37,168,12,1981,0.5047955577990914,en_US <kde-i18n-doc@lists.kde.org>
+plasma-nm,641,184,2357,248,38,463,697,3182,20.144563167818983,Upper Sorbian <kde-i18n-doc@kde.org>
+plasma-oxygen,4,3,608,1,1,217,7,615,0.6504065040650406,<hsb@li.org>
+plasma-pa,59,18,47,19,8,10,55,124,47.58064516129033,Upper Sorbian <kde-i18n-doc@kde.org>
+plasma-print-manager,35,9,11,6,4,5,37,55,63.63636363636363,Upper Sorbian <kde-i18n-doc@kde.org>
+plasma-sdk,97,75,199,31,22,27,102,371,26.1455525606469,en_US <kde-i18n-doc@lists.kde.org>
+plasma-systemsettings,7,16,110,4,3,30,8,133,5.263157894736842,en_US <kde-i18n-doc@lists.kde.org>
+plasma-workspace,1263,1399,4290,371,385,768,1352,6952,18.167433831990795,en_US <kde-i18n-doc@lists.kde.org>
+plasma-workspace-x11,1263,1399,4290,371,385,768,1352,6952,18.167433831990795,en_US <kde-i18n-doc@lists.kde.org>
+polkit-kde,39,4,16,15,2,6,42,59,66.10169491525424,Upper Sorbian <kde-i18n-doc@kde.org>
+powerdevil,175,181,506,47,34,79,180,862,20.301624129930396,en_US <kde-i18n-doc@lists.kde.org>
+python-django4.2,3844,0,0,885,0,0,4046,3844,100.0,Upper Sorbian (http://www.transifex.com/django/django/language/hsb/)
+python-django5,3915,0,0,920,0,0,4134,3915,100.0,Upper Sorbian (http://app.transifex.com/django/django/language/hsb/)
+spectacle,339,483,1089,78,110,196,323,1911,17.739403453689167,Upper Sorbian <kde-i18n-doc@kde.org>
+yakuake,81,0,1590,42,0,196,79,1671,4.847396768402154,Upper Sorbian <kde-i18n-doc@kde.org>

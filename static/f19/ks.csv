@@ -1,0 +1,19 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,2722,0,0,328,0,2722,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+entangle,0,0,757,0,0,185,0,757,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+eog,953,16,224,246,4,28,1020,1193,79.88264878457669,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+evince,789,166,34,231,38,9,821,989,79.77755308392315,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+libreoffice,53523,6592,35062,17498,3214,8468,56295,95177,56.23522489677127,LANGUAGE <LL@li.org>
+libreport,0,0,3139,0,0,417,0,3139,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+liveusb-creator,0,0,480,0,0,52,0,480,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+mate-document-viewer,789,166,34,231,38,9,821,989,79.77755308392315,Kashmiri <ks-mate-trans-commits@lists.code.indlinux.net>
+mate-image-viewer,761,0,862,192,0,123,822,1623,46.88847812692545,LANGUAGE <LL@li.org>
+policycoreutils,0,0,5261,0,0,754,0,5261,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+pykickstart,0,0,343,0,0,36,0,343,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+python-meh,0,0,83,0,0,20,0,83,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+system-config-date,0,0,1850,0,0,824,0,1850,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+system-config-samba,0,0,571,0,0,134,0,571,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+virt-viewer,0,0,610,0,0,128,0,610,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+yelp,753,90,192,212,32,105,787,1035,72.7536231884058,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>

@@ -1,0 +1,44 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+arduino,1877,0,40,312,0,15,2113,1917,97.91340636411059,"Filipino <mharkus[at]gmail[dot]com>
+"
+console-setup,60,182,737,44,34,93,65,979,6.128702757916241,Tagalog <debian-tl@banwa.upm.edu.ph>
+debconf,748,55,2,84,3,1,903,805,92.9192546583851,Tagalog <debian-tl@banwa.upm.edu.ph>
+dpkg,4267,3601,2855,606,465,265,5033,10723,39.79296838571295,Tagalog <debian-tl@banwa.upm.edu.ph>
+exaile,20,0,3655,2,0,947,22,3675,0.5442176870748299,Tagalog <tl@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Tagalog
+glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-do,377,0,235,107,0,37,513,612,61.60130718954249,Tagalog <tl@li.org>
+gnome-do-plugins,272,0,2051,81,0,501,373,2323,11.708996986655187,Tagalog <tl@li.org>
+gnome-hearts,340,0,69,90,0,16,296,409,83.12958435207824,Tagalog <tl@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,441,0,0,80,0,441,0.0,LANGUAGE <LL@li.org>
+iso-codes,903,113,85,396,31,27,897,1101,82.01634877384197,Tagalog <debian-tl@banwa.upm.edu.ph>
+libxfce4ui,40,2,668,15,1,98,54,710,5.633802816901409,LANGUAGE <LL@li.org>
+libxfce4util,413,0,11,4,0,3,449,424,97.40566037735849,LANGUAGE <LL@li.org>
+libxfcegui4,139,0,0,44,0,0,149,139,100.0,LANGUAGE <LL@li.org>
+mingw-glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+mtpaint,944,0,2187,365,0,507,1130,3131,30.150111785372086,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+openconnect,0,0,5146,0,0,938,0,5146,0.0,Tagalog (http://www.transifex.net/projects/p/meego/team/tl/)
+openstack-cinder,25,9,8766,5,2,1518,28,8800,0.2840909090909091,Tagalog <tl@li.org>
+openstack-glance,0,0,1711,0,0,233,0,1711,0.0,tl <LL@li.org>
+openstack-nova,25,28,11696,5,8,1958,28,11749,0.21278406672908334,Tagalog <tl@li.org>
+pgadmin3,1297,8026,6202,405,2135,1591,1426,15525,8.35426731078905,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,666,0,1887,253,0,571,813,2553,26.08695652173913,Tagalog <tl@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+pootle,134,199,2091,65,44,350,167,2424,5.528052805280528,LANGUAGE <LL@li.org>
+rednotebook,85,0,1036,20,0,215,115,1121,7.582515611061552,Tagalog <tl@li.org>
+shadow-utils,1069,1020,1654,210,160,188,1323,3743,28.559978626769972,Tagalog <debian-tl@banwa.upm.edu.ph>
+stellarium,58,0,11123,55,0,3090,61,11181,0.518737143368214,Tagalog <tl@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+transmission,1,0,1808,1,0,493,13,1809,0.055279159756771695,Tagalog <tl@li.org>
+tuxmath,860,180,414,167,26,55,1008,1454,59.147180192572215,LANGUAGE <LL@li.org>
+tuxpaint,186,38,1023,90,15,147,209,1247,14.91579791499599,LANGUAGE <LL@li.org>
+wesnoth,1148,1526,242704,489,408,14430,1413,245378,0.4678496034689336,
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>
+xnoise,0,8,1041,0,3,279,0,1049,0.0,Tagalog

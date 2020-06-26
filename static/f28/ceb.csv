@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bibletime,0,0,9720,0,0,644,0,9720,0.0,Cebuano (http://www.transifex.com/bibletime/bibletime/language/ceb/)
+switchboard,1,0,40,1,0,12,6,41,2.4390243902439024,Cebuano <ceb@li.org>
+transmission,19,0,1790,7,0,487,26,1809,1.0503040353786623,Cebuano <ceb@li.org>

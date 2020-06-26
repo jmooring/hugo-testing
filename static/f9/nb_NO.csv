@@ -1,0 +1,427 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,1580,92,163,369,22,31,1633,1835,86.10354223433242,Norwegian
+GConf2,4004,0,0,477,0,0,3916,4004,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+Miro,3572,44,0,637,12,0,3501,3616,98.78318584070797,Norwegian Bokmål <nb@li.org>
+NetworkManager,1180,0,0,266,0,0,1093,1180,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+NetworkManager-openvpn,323,0,0,90,0,0,314,323,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+NetworkManager-vpnc,303,0,0,54,0,0,303,303,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+PackageKit,512,0,0,87,0,0,485,512,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+Terminal,1419,3,28,249,1,2,1248,1450,97.86206896551725,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+Thunar,3751,8,43,668,3,2,3380,3802,98.65860073645449,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+WindowMaker,831,0,0,173,0,0,848,831,100.0,Norwegian
+a2ps,667,119,695,134,16,29,682,1481,45.0371370695476,Norwegian <no@li.org>
+abiword,4142,152,371,1408,35,86,3935,4665,88.78885316184352,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+alacarte,42,0,0,16,0,0,37,42,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+alleyoop,233,6,109,72,1,16,238,348,66.95402298850574,Norwegian <i18n-nb@lister.ping.uio.no>
+amarok,12435,718,101,2439,58,11,12026,13254,93.8207333635129,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+anaconda,9853,20,167,1249,2,7,9182,10040,98.13745019920319,
+anjuta,1590,902,3998,783,264,729,1639,6490,24.499229583975346,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+apcupsd,0,0,647,0,0,103,0,647,0.0,LANGUAGE <LL@li.org>
+apollon,1566,24,0,252,13,0,1501,1590,98.49056603773585,Norsk <nb@li.org>
+arm-gp2x-linux-glibc,3795,1370,1006,810,272,153,3687,6171,61.49732620320856,Norwegian <i18n-nb@lister.ping.uio.no>
+asunder,123,0,207,38,0,27,119,330,37.27272727272727,Ubuntu Norwegian Translators <oversettelse@ubuntu.no>
+at-spi,15,0,0,4,0,0,13,15,100.0,Norwegian
+atk,370,0,0,123,0,0,304,370,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+atomix,292,0,0,118,0,0,304,292,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+audacity,3425,843,1504,848,173,220,3321,5772,59.33818433818434,Translators-Norway <kiwibird@online.no>
+authconfig,1224,36,32,234,1,2,1142,1292,94.73684210526315,Norwegian <i18n-nb@lister.ping.uio.no>
+avant-window-navigator,294,0,126,75,0,51,286,420,70.0,en_GB <njpatel@gmail.com>
+bakery,72,0,0,20,0,0,68,72,100.0,Norsk bokmaal <i18n-nb@lister.ping.uio.no>
+balsa,3516,657,1465,1059,112,178,3476,5638,62.36253990776871,Norwegian <i18n-nb@lister.ping.uio.no>
+banshee,2494,333,1176,689,64,170,2305,4003,62.3032725455908,Norwegian <i18n-nb@lister.ping.uio.no>
+beagle,1063,0,64,281,0,7,1020,1127,94.32120674356699,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+bibletime,177,1063,2197,55,258,307,165,3437,5.149839976723887,
+bison,835,39,14,139,5,6,819,888,94.03153153153153,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+bittorrent,3904,0,0,633,0,0,3747,3904,100.0,Einangen <audun@einangen.no>
+blam,330,0,0,93,0,0,276,330,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+bluefish,2854,0,28,1048,0,8,2729,2882,99.02845246356696,Not a member <LL@li.org>
+bluez-gnome,106,0,572,32,0,164,131,678,15.634218289085547,Norwegian Bokmål <nb@li.org>
+brasero,180,686,3919,93,157,659,175,4785,3.761755485893417,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+bug-buddy,941,0,0,88,0,0,856,941,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+ccsm,517,0,15,126,0,1,484,532,97.18045112781954,Norwegian Bokmaal <LL@li.org>
+cheese,304,0,0,59,0,0,303,304,100.0,Norsk bokmål <i18n-nb@lister.ping.uio.no>
+childsplay,1014,0,0,125,0,0,869,1014,100.0,<en@li.org>
+chkconfig,430,0,0,88,0,0,452,430,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+cinepaint,1704,1671,4030,695,693,547,1681,7405,23.011478730587438,Norwegian <no@li.org>
+claws-mail,8526,3381,2639,2017,698,395,7965,14546,58.614051973051005,Norwegian Bokmål <i18n-bn@lister.ping.uio.no>
+compat-wxGTK26,4837,306,191,1026,51,36,4554,5334,90.68241469816273,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+compiz,66,0,0,11,0,0,57,66,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+compiz-fusion,6950,143,163,1339,47,32,6239,7256,95.78280044101433,Norwegian Bokmaal <ketil.w.aanensen@gmail.com>
+compiz-fusion-extras,6950,143,163,1339,47,32,6239,7256,95.78280044101433,Norwegian Bokmaal <ketil.w.aanensen@gmail.com>
+conglomerate,369,259,5689,148,175,815,372,6317,5.841380402089599,Norwegian <i18n-nb@lister.ping.uio.no>
+contact-lookup-applet,259,0,0,55,0,0,229,259,100.0,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+contacts,244,0,0,58,0,0,245,244,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+control-center,3069,0,0,758,0,0,2900,3069,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+cowbell,1284,8,0,240,6,0,1214,1292,99.38080495356037,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+cracklib,93,0,0,15,0,0,85,93,100.0,<nb@li.org>
+cups,4544,0,0,732,0,0,4349,4544,100.0,LANGUAGE <LL@li.org>
+cupsddk,194,0,0,92,0,0,179,194,100.0,
+cycle,199,0,0,65,0,0,201,199,100.0,<magnio@pvv.org>
+dasher,460,0,0,181,0,0,452,460,100.0,Norwegian Bokmål <i18n-no@lister.ping.uio.no>
+dates,112,0,0,64,0,0,113,112,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+dayplanner,888,0,0,155,0,0,875,888,100.0,Norsk bokmål <i18n-nb@lister.ping.uio.no>
+deluge,1083,31,1327,335,5,205,1019,2441,44.367062679229825,Norwegian Bokmål <nb@li.org>
+deskbar-applet,1122,0,0,231,0,0,1104,1122,100.0,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+devhelp,348,0,0,89,0,0,300,348,100.0,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+dia,4459,218,1034,1712,71,263,4214,5711,78.07739450183855,Norwegian <i18n-nb@lister.ping.uio.no>
+digikam,1366,4404,10756,416,721,999,1299,16526,8.26576304005809,Norwegian Bokmål < <i18n-nb@lister.ping.uio.no>
+dnsmasq,877,364,464,152,61,77,874,1705,51.43695014662757,Norwegian <i18n-nb@lister.ping.uio.no>
+dragonplayer,0,17,205,0,13,57,0,222,0.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+drgeo,3824,130,16,900,14,8,3760,3970,96.32241813602015,Norwegian Bokmål < <i18n-nb@lister.ping.uio.no>
+drivel,361,89,403,149,29,96,363,853,42.32121922626026,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+e16,1776,573,558,259,147,130,1768,2907,61.09391124871001,Norwegian <no@li.org>
+eel2,161,0,0,31,0,0,133,161,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+ekiga,5167,0,0,776,0,0,4413,5167,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+elinks,361,1425,9600,172,452,941,354,11386,3.17056033725628,Norwegian <i18n-nb@lister.ping.uio.no>
+emerald,622,0,140,206,0,5,565,762,81.62729658792651,Norsk bokmål
+emesene,1133,0,0,362,0,0,1137,1133,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+empathy,1144,0,154,301,0,10,1063,1298,88.13559322033898,Norwegian <i18n-nb@lister.ping.uio.no>
+eog,1152,0,0,270,0,0,1035,1152,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+epiphany,4246,0,0,918,0,0,3922,4246,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+epiphany-extensions,165,0,629,36,0,190,153,794,20.780856423173805,Norwegian <i18n-nb@lister.ping.uio.no>
+evince,1002,0,0,292,0,0,995,1002,100.0,Norwegian bokmal <i18n-nb@lster.ping.uio.no>
+evolution,20811,0,0,4865,0,0,19587,20811,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+evolution-data-server,5018,0,0,1041,0,0,5048,5018,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+evolution-exchange,1318,0,0,192,0,0,1275,1318,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+evolution-webcal,184,0,0,30,0,0,177,184,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+exaile,58,6,2516,22,1,660,61,2580,2.248062015503876,Norwegian Bokmal <nb@li.org>
+exo,1476,0,0,288,0,0,1257,1476,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+extragear-plasma,0,18,122,0,13,43,0,140,0.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+f-spot,1493,438,871,565,85,135,1465,2802,53.28336902212705,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+file-roller,1159,0,0,259,0,0,1105,1159,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+filezilla,5725,13,48,974,3,5,5369,5786,98.94573107500864,
+firestarter,648,648,2512,314,74,360,614,3808,17.016806722689076,Norwegian <no@li.org>
+firstboot,592,0,12,50,0,2,530,604,98.01324503311258,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+flumotion,498,167,583,166,44,78,497,1248,39.90384615384615,nl
+freeciv,47624,10864,18478,6022,1576,950,44338,76966,61.87667281656836,Norwegian <andrearo@stud.ntnu.no>
+frozen-bubble,616,0,0,137,0,0,637,616,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+fuse-encfs,594,170,546,88,22,19,542,1310,45.343511450381676,"Bokmål, Norwegian <nb@li.org>"
+gail,170,0,0,103,0,0,178,170,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gajim,14998,102,6,2750,16,2,14808,15106,99.28505229710048,
+galeon,5871,0,125,1411,0,11,5658,5996,97.91527685123415,Norwegian <i18n-nb@lister.ping.uio.no>
+gallery2,16179,17,71,2347,2,5,15148,16267,99.4590274789451,Norwegian <gallery-devel@lists.sourceforge.net>
+gambas,2171,0,264,693,0,60,2050,2435,89.15811088295688,LANGUAGE <LL@li.org>
+gambas2,1349,8,1581,496,5,501,1299,2938,45.91558883594281,LANGUAGE <LL@li.org>
+gcalctool,1175,0,0,410,0,0,1128,1175,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gcombust,859,1457,1693,177,151,132,718,4009,21.426789723122972,LANGUAGE <LL@li.org>
+gcompris,8790,280,900,1168,1,5,8139,9970,88.16449348044132,Norwegian Bokmål < <i18n-nb@lister.ping.uio.no>
+gconf-editor,335,0,0,99,0,0,295,335,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gdeskcal,19,0,66,19,0,14,19,85,22.35294117647059,LANGUAGE <LL@li.org>
+gdesklets,185,0,1172,60,0,115,161,1357,13.633014001473839,Norwegian <i18n-nb@lister.ping.uio.no>
+gdm,927,101,220,194,11,19,898,1248,74.27884615384616,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gedit,4984,0,0,1100,0,0,4633,4984,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gedit-plugins,6,0,0,4,0,0,6,6,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+genius,505,487,4935,114,64,631,528,5927,8.520330690062426,Norwegian <i18n-nb@lister.ping.uio.no>
+gettext,577,1161,4740,100,89,424,537,6478,8.907070083359061,Norwegian-bokmål <no@li.org>
+gftp,1804,567,1001,421,110,101,1720,3372,53.4994068801898,Norwegian
+ggz-client-libs,59,0,0,14,0,0,66,59,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+ggz-gtk-client,618,0,0,240,0,0,648,618,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+ghex,966,0,0,275,0,0,919,966,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gimmie,452,0,0,127,0,0,457,452,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gimp,17508,2596,3170,4765,1047,515,16098,23274,75.22557360144367,Norwegian <i18n-nb@lister.ping.uio.no>
+gimp-lqr-plugin,386,16,99,57,3,19,420,501,77.04590818363273,Norsk bokmål <Norwegian Bokmål <i18n-nb@lister.ping.uio.no>>
+gjots2,1812,0,0,520,0,0,1778,1812,100.0,<nb@li.org>
+glade2,5376,186,278,1237,28,35,4595,5840,92.05479452054794,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+glade3,1475,0,1732,590,0,281,1370,3207,45.99314000623636,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+glib2,2078,18,62,326,5,9,2166,2158,96.29286376274328,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+glibc,3795,1371,1006,810,272,153,3687,6172,61.48736228127025,Norwegian <i18n-nb@lister.ping.uio.no>
+glom,442,94,1737,261,31,153,440,2273,19.4456665200176,Norwegian <i18n-nb@lister.ping.uio.no>
+glunarclock,58,40,133,29,10,32,55,231,25.108225108225106,Norwegian/Bokmaal <no@li.org>
+gmpc,700,154,81,252,54,31,732,935,74.8663101604278,LANGUAGE <LL@li.org>
+gnomad2,444,121,138,128,26,17,444,703,63.1578947368421,Norweigan <no@li.org>
+gnome-applets,3308,0,0,783,0,0,3098,3308,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gnome-backgrounds,18,0,0,9,0,0,15,18,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gnome-bluetooth,139,0,98,28,0,6,143,237,58.64978902953587,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+gnome-build,597,0,0,155,0,0,543,597,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gnome-commander,444,517,6931,256,242,925,453,7892,5.625950329447542,Norwegian <i18n-nb@lister.ping.uio.no>
+gnome-desktop,288,0,0,70,0,0,293,288,100.0,Norwegian (bokmål) <i18n-nb@lister.ping.uio.no>
+gnome-doc-utils,238,0,0,92,0,0,228,238,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+gnome-games,7524,0,0,1783,0,0,7140,7524,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gnome-icon-theme,45,0,0,40,0,0,45,45,100.0,Norwegian <i18n@lister.ping.uio.no>
+gnome-keyring,1025,0,0,99,0,0,951,1025,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gnome-keyring-manager,284,0,0,87,0,0,284,284,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gnome-libs,1085,0,0,395,0,0,1061,1085,100.0,Norwegian <no@li.org>
+gnome-mag,298,0,0,42,0,0,270,298,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gnome-media,1923,0,0,526,0,0,1797,1923,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gnome-menus,165,0,0,58,0,0,159,165,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gnome-mime-data,887,0,0,362,0,0,587,887,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gnome-mount,168,2,445,79,1,76,174,615,27.31707317073171,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+gnome-netstatus,425,0,0,110,0,0,382,425,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gnome-nettool,573,0,0,197,0,0,522,573,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gnome-packagekit,1416,164,1232,425,31,131,1382,2812,50.355618776671406,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+gnome-panel,4722,0,0,659,0,0,4349,4722,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gnome-phone-manager,517,0,0,91,0,0,484,517,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+gnome-pilot,1214,291,208,293,29,12,1227,1713,70.86981903093988,Norwegian <no@li.org>
+gnome-pilot-conduits,177,32,0,40,10,0,163,209,84.688995215311,Norwegian <no@li.org>
+gnome-power-manager,2129,465,981,388,27,67,2052,3575,59.55244755244755,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gnome-scan,45,0,156,28,0,53,41,201,22.388059701492537,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+gnome-schedule,24,48,1084,17,27,167,28,1156,2.0761245674740483,Noksk bokmal <i18n-nb@lister.ping.uio.no>
+gnome-screensaver,955,0,0,152,0,0,903,955,100.0,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+gnome-session,899,0,0,130,0,0,836,899,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gnome-settings-daemon,1034,0,0,171,0,0,1020,1034,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gnome-specimen,56,0,0,18,0,0,48,56,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+gnome-spell,151,0,110,122,0,99,150,261,57.8544061302682,Norwegian/Bokmaal <no@li.org>
+gnome-system-monitor,868,0,0,230,0,0,877,868,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+gnome-terminal,4552,0,0,486,0,0,4121,4552,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gnome-themes,85,0,0,26,0,0,96,85,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gnome-user-share,75,0,0,16,0,0,70,75,100.0,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+gnome-utils,3967,0,176,722,0,6,3487,4143,95.75187062515086,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+gnome-vfs2,1508,0,0,301,0,0,1286,1508,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gnome-volume-manager,1221,0,0,204,0,0,1267,1221,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gnomebaker,1398,343,612,372,73,133,1337,2353,59.41351466213345,"Bokmål, Norwegian <nb@li.org>"
+gnomeradio,145,0,328,70,0,37,142,473,30.655391120507396,Norwegian <i18n-nb@lister.ping.uio.no>
+gnomesword,1972,11,0,628,5,0,1966,1983,99.4452849218356,<i18n-nb@lister.ping.uio.no>
+gnotime,1174,267,567,289,57,83,1080,2008,58.46613545816734,Norwegian <no@li.org>
+gnucash,20514,2321,1665,3519,188,133,18173,24500,83.73061224489796,Norwegian <>
+gnumeric,20223,2235,23916,3007,80,667,19112,46374,43.60848751455557,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+gnupg,5460,50,2885,916,10,340,5311,8395,65.03871351995235,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gnupg2,4780,1166,3998,826,253,576,4646,9944,48.06918744971843,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+goffice,1714,419,1857,756,190,419,1637,3990,42.957393483709275,Norwegian <i18n-nb@lister.ping.uio.no>
+goffice04,1714,419,1857,756,190,419,1637,3990,42.957393483709275,Norwegian <i18n-nb@lister.ping.uio.no>
+gok,1942,0,0,439,0,0,1793,1942,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gossip,1204,455,677,314,93,71,1113,2336,51.54109589041096,Norwegian <i18n-nb@lister.ping.uio.no>
+gourmet,646,358,2509,196,75,518,633,3513,18.388841446057498,<en@li.org>
+gparted,257,0,1003,122,0,154,271,1260,20.396825396825395,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+gphoto2,5,1095,8032,4,298,1415,4,9132,0.054752518615856324,Norwegian <i18n-nb@lister.ping.uio.no>
+gpsdrive,811,462,1104,207,77,125,793,2377,34.11863693731594,Norwegian <LL@li.org>
+gqview,528,708,485,169,297,203,542,1721,30.679837303893088,Norwegian <?>
+gramps,39860,49,26715,6355,9,1265,38226,66624,59.82829010566763,Norwegian <nb@li.org>
+grep,427,562,99,75,12,15,420,1088,39.24632352941176,Norwegian <no@li.org>
+greylistd,350,0,0,14,0,0,326,350,100.0,Norwegian <debian-l10-norwegian@lists.debian.org>
+grsync,473,36,156,84,11,17,418,665,71.12781954887218,<nb@li.org>
+gshutdown,300,60,132,82,10,9,287,492,60.97560975609756,
+gstreamer,325,122,755,97,22,131,316,1202,27.03826955074875,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+gstreamer-plugins-base,73,122,393,20,15,89,68,588,12.414965986394558,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+gstreamer-plugins-good,80,82,352,33,11,40,89,514,15.56420233463035,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+gsynaptics,31,0,34,20,0,6,31,65,47.69230769230769,LANGUAGE <LL@li.org>
+gthumb,2621,30,467,895,3,21,2509,3118,84.0602950609365,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+gtk+,202,0,0,105,0,0,203,202,100.0,Norwegian <no@li.org>
+gtk-gnutella,11071,0,0,1914,0,0,10217,11071,100.0,<nb@li.org>
+gtk2,10943,459,690,2273,57,82,9436,12092,90.49784981806152,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gtk2-engines,99,0,0,45,0,0,103,99,100.0,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+gtkhtml3,921,0,0,399,0,0,935,921,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+gtksourceview,891,0,0,366,0,0,828,891,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+gtksourceview2,749,31,219,331,8,49,671,999,74.97497497497497,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+gtranslator,2558,0,0,691,0,0,2488,2558,100.0,Norwegian/Bokmaal
+gucharmap,782,0,0,285,0,0,747,782,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+gutenprint,695,1633,4738,243,490,972,644,7066,9.835833569204642,Norwegian/Bokmaal <no@li.org>
+gvfs,1057,0,0,274,0,0,1046,1057,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+homebank,628,27,434,303,14,66,578,1089,57.66758494031221,Norwegian Bokmal <nb@li.org>
+horde,2949,1904,2522,848,584,518,2964,7375,39.9864406779661,Norwegian (Bokmal) <i18n@lists.horde.org>
+hwbrowser,116,0,0,51,0,0,96,116,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+icewm,0,0,0,0,0,0,0,0,0.0,Norwegian
+im-chooser,12,51,394,4,7,83,11,457,2.62582056892779,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+imp,5034,0,36,1023,0,11,4668,5070,99.28994082840237,Norwegian (Bokmal) <i18n@lists.horde.org>
+ingo,358,193,200,127,40,33,364,751,47.66977363515313,i18n@lists.horde.org
+initscripts,3367,383,56,770,108,15,3226,3806,88.46558066211246,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+inkscape,15964,0,1209,3366,0,99,15327,17173,92.95987887963663,Norwegian Bokmål <en@li.org>
+iso-codes,1421,3783,7386,763,3330,4666,1174,12590,11.286735504368545,Norwegian Bokmål
+isomaster,654,1,17,99,1,6,597,672,97.32142857142857,<oversettelse@ubuntu.no>
+jokosher,1710,0,221,325,0,55,1567,1931,88.55515277058518,Norwegian Bokmål <nb@li.org>
+jpilot,395,453,1389,166,153,315,361,2237,17.657577112203846,Norsk bokmål <no@li.org>
+k3b,12258,4526,3846,1923,367,242,11440,20630,59.418322830828885,<nb@li.org>
+kaffeine,2325,20,9,650,4,4,2133,2354,98.76805437553101,<nb@li.org>
+katapult,427,0,0,82,0,0,390,427,100.0,Norwegian Bokmål <i18n-no@lister.ping.uio.no>
+kcoloredit,118,0,0,46,0,0,113,118,100.0,Norsk bokmål <i18n-no@lister.ping.uio.no>
+kdbg,79,55,732,44,23,123,83,866,9.122401847575059,LANGUAGE <LL@li.org>
+kdetv,2206,0,0,483,0,0,2041,2206,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+kdiff3,2946,10,73,503,5,4,2825,3029,97.25982172334103,Norwegian Bokmål <i18n-no@lister.ping.uio.no>
+kerry,327,46,113,96,14,24,305,486,67.28395061728395,<nb@li.org>
+keurocalc,2869,89,84,328,7,7,2460,3042,94.3129520052597,<nb@li.org>
+kexec-tools,95,39,204,9,2,14,84,338,28.106508875739642,LANGUAGE <LL@li.org>
+kflickr,232,0,67,69,0,11,242,299,77.59197324414716,Norwegian Bokmal <nb@li.org>
+kgrab,231,60,79,29,3,21,202,370,62.43243243243243,Norsk bokmål <i18n-no@lister.ping.uio.no>
+kiconedit,695,5,24,146,1,7,651,724,95.99447513812154,Norsk bokmål <i18n-no@lister.ping.uio.no>
+kile,170,1291,8960,75,486,1023,168,10421,1.631321370309951,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+kipi-plugins,2916,531,990,507,102,175,2552,4437,65.72008113590265,Norsk Bokmål <i18n-no@lister.ping.uio.no>
+kmid,511,24,0,210,4,0,469,535,95.51401869158879,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+kmplayer,1249,0,2,387,0,1,1135,1251,99.84012789768185,<nb@li.org>
+konq-plugins,1555,1,0,489,1,0,1513,1556,99.93573264781492,Norsk bokmål <i18n-no@lister.ping.uio.no>
+kover,582,52,121,175,10,28,563,755,77.08609271523179,Norwegian
+kphotoalbum,0,256,5772,0,119,612,0,6028,0.0,<i18n-nb@lister.ping.uio.no>
+kpowersave,1699,0,0,316,0,0,1564,1699,100.0,<nb@li.org>
+krb5-auth-dialog,83,0,3221,23,0,584,80,3304,2.5121065375302662,Norsk bokmål <i18n-nb@lister.ping.uio.no>
+krecipes,2727,61,152,372,15,19,2627,2940,92.75510204081633,Norsk Bokmål <i18n-no@lister.ping.uio.no>
+ksig,71,8,6,17,7,2,78,85,83.52941176470588,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+kst,0,582,6235,0,334,1329,0,6817,0.0,<i18n-nb@lister.ping.uio.no>
+ktorrent,4085,109,15,801,9,4,3775,4209,97.05393205036826,Norsk (bokmål) <i18n-no@lister.ping.uio.no>
+ldm,160,0,0,40,0,0,176,160,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+libbonobo,547,0,0,108,0,0,524,547,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+libbonoboui,368,0,0,115,0,0,334,368,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+libgda,1497,391,2511,387,79,427,1352,4399,34.03046146851557,Norwegian <i18n-nb@lister.ping.uio.no>
+libgdl,119,0,493,49,0,49,114,612,19.444444444444446,Norwegian bokmaal <i18n-nb@lister.ping.uio.no>
+libgnome,1691,0,0,263,0,0,1570,1691,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+libgnomecanvas,378,0,0,95,0,0,335,378,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+libgnomecups,210,0,0,54,0,0,206,210,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+libgnomedb,641,239,743,195,37,112,590,1623,39.49476278496611,Norwegian <no@li.org>
+libgnomekbd,277,0,0,50,0,0,270,277,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+libgnomeprint22,168,0,0,98,0,0,164,168,100.0,Norwegian <no@li.org>
+libgnomeprintui22,481,0,0,154,0,0,434,481,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+libgnomeui,1309,0,0,334,0,0,1162,1309,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+libgtop2,126,0,0,40,0,0,117,126,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+libgweather,6733,0,0,4544,0,0,6596,6733,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+libkexif,25,0,0,14,0,0,22,25,100.0,Norwegian Bokmaal <i18n-no@lister.ping.uio.no>
+libkipi,83,0,0,26,0,0,77,83,100.0,Norwegian Bokmaal <i18n-no@lister.ping.uio.no>
+libuser,1064,0,0,225,0,0,1091,1064,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+libvirt,1899,4939,5758,482,958,1156,1850,12596,15.076214671324232,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+libwnck,629,0,495,188,0,53,592,1124,55.96085409252669,Norwegian Bokmål <i18n-nb@lister.ping.uio.n>
+libxfce4util,5,0,408,1,0,3,6,413,1.2106537530266344,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+libxfcegui4,81,0,0,25,0,0,74,81,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+linux_logo,45,0,0,15,0,0,45,45,100.0,Norwegian Bokmål <nb@li.org>
+listen,679,17,51,297,8,18,641,747,90.89692101740295,Norwegian Bokmål <nb@li.org>
+lyx,6885,502,2466,2853,132,624,6617,9853,69.87719476301633,norsk <no@li.org>
+mailman,18703,801,1830,1266,13,49,18594,21334,87.66757288834724,Norwegian <i18n-no@lister.ping.uio.no>
+mc,2997,291,211,884,54,50,3015,3499,85.65304372677907,Norwegian <no@li.org>
+metacity,7924,0,0,517,0,0,7450,7924,100.0,Norwegian (bokmål) <i18n-no@lister.ping.uio.no>
+minbar,75,63,280,26,25,54,70,418,17.942583732057415,Arabeyes
+minicom,1298,201,265,331,33,20,1279,1764,73.58276643990929,Norway <po@drange.net>
+moin,1422,606,1714,305,113,219,1375,3742,38.00106894708712,
+mousepad,135,0,0,64,0,0,145,135,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+mousetweaks,154,10,130,50,4,22,147,294,52.38095238095239,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+muine,489,0,0,126,0,0,476,489,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+mysql,302,0,0,19,0,0,287,302,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+nano,2249,0,0,362,0,0,2038,2249,100.0,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+nautilus,7562,0,0,1258,0,0,7093,7562,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+nautilus-actions,165,10,1452,71,1,85,166,1627,10.141364474492933,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+nautilus-cd-burner,1315,0,0,213,0,0,1229,1315,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+nautilus-open-terminal,24,0,58,5,0,2,20,82,29.268292682926827,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+nautilus-sendto,134,0,35,36,0,2,123,169,79.28994082840237,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+newt,4,0,0,4,0,0,4,4,100.0,Norwegian <nb@li.org>
+notecase,263,251,642,97,85,174,260,1156,22.750865051903112,NoteCase team
+obconf,493,4,144,114,1,26,428,641,76.91107644305772,Norwegian
+openbox,365,0,15,75,0,2,320,380,96.05263157894737,None
+orage,864,0,0,539,0,0,823,864,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+orca,2363,161,573,897,52,140,2279,3097,76.29964481756538,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+pam,402,63,52,90,10,10,364,517,77.75628626692456,<nb@li.org>
+pan,843,754,706,329,153,116,856,2303,36.60442900564481,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+passwd,182,0,109,37,0,14,176,291,62.54295532646048,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+pcmanfm,999,22,62,255,7,10,781,1083,92.24376731301939,
+pessulus,88,0,0,30,0,0,94,88,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+pgadmin3,2159,2289,2883,766,762,633,1730,7331,29.450279634429137,LANGUAGE <LL@li.org>
+picard,49,265,319,29,111,123,57,633,7.740916271721959,Norwegian <no@li.org>
+pidgin,13971,1842,235,2969,407,25,13412,16048,87.05757726819542,Norsk <nb@li.org>
+pidgin-guifications,148,101,256,51,37,104,165,505,29.306930693069305,"Norsk Bokmål, Norwegian"
+pingus,1319,666,843,149,64,73,1277,2828,46.640735502121636,no <sk-so@online.no>
+planner,1744,0,0,511,0,0,1673,1744,100.0,Norwegian/Bokmål <i18n-nb@lister.ping.uio.no>
+pmount,464,468,514,55,56,15,435,1446,32.088520055325034,Norwegian <no@li.org>
+po4a,342,135,1136,51,17,95,339,1613,21.20272783632982,"Bokmål, Norwegian <nb@li.org>"
+poedit,1154,0,0,272,0,0,1050,1154,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+policycoreutils,3,0,2425,1,0,407,3,2428,0.12355848434925865,LANGUAGE <LL@li.org>
+popt,68,0,7,25,0,2,64,75,90.66666666666666,Norwegian <no@li.org>
+postgresql,6257,1674,13720,1016,200,1698,5892,21651,28.89935799732114,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+psmisc,510,115,74,50,4,5,504,699,72.96137339055794,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+pybliographer,528,37,229,186,8,34,536,794,66.49874055415617,Norwegian <i18n-nb@lister.ping.uio.no>
+pykickstart,284,0,0,25,0,0,258,284,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+python-formencode,540,0,0,77,0,0,509,540,100.0,"Dag Brattli <dag@obexcode.com>, Frank Ronny Larsen <frank@obexcode.com>"
+qt3,0,0,0,0,0,0,0,0,0.0,
+quodlibet,1627,114,83,443,43,25,1561,1824,89.19956140350878,Norsk Bokmål <nb@li.org>
+redhat-menus,482,6,34,159,2,11,404,522,92.33716475095785,Norwegian <i18n-nb@lister.ping.uio.no>
+referencer,34,0,793,27,0,200,43,827,4.111245465538089,Norwegian Bokmal <nb@li.org>
+revisor,0,0,3891,0,0,657,0,3891,0.0,
+rhgb,102,16,0,20,2,0,102,118,86.4406779661017,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+rhpl,185,0,0,80,0,0,180,185,100.0,Norwegian <i18n-nb@lister.ping.uio.no>
+rhpxl,130,0,0,44,0,0,117,130,100.0,Norwegian <no@li.org>
+rhythmbox,3629,0,390,899,0,24,3548,4019,90.29609355561085,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+rpm,1789,601,2368,370,133,446,1764,4758,37.59983186212694,Norwegian <no@li.org>
+rt3,4282,0,1669,1173,0,402,4186,5951,71.9542933960679,rt-devel <rt-devel@lists.bestpractical.com>
+ruby-gettext-package,548,10,3,116,3,1,513,561,97.68270944741533,Norwegian
+sabayon,1178,0,0,230,0,0,1167,1178,100.0,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+sane-backends,616,289,3241,205,102,522,570,4146,14.857694163048722,
+seahorse,3230,0,330,738,0,20,3186,3560,90.73033707865169,Norwegian <i18n-nb@lister.ping.uio.no>
+sepostgresql,6257,1674,13720,1016,200,1698,5892,21651,28.89935799732114,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+setroubleshoot,0,0,544,0,0,147,0,544,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7900,0,0,236,0,7900,0.0,LANGUAGE <LL@li.org>
+setuptool,114,0,6,33,0,1,131,120,95.0,Norwegian <nb@lister.ping.uio.no>
+shadow-utils,2017,1057,218,364,46,22,2040,3292,61.26974483596598,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+shared-mime-info,1241,0,0,506,0,0,775,1241,100.0,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+sharutils,52,51,936,11,12,128,49,1039,5.004812319538017,Norwegian-bokmål <no@li.org>
+smolt,88,18,697,31,3,56,80,803,10.95890410958904,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+solfege,2507,835,4166,599,231,403,2357,7508,33.391049547149706,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+sos,0,0,566,0,0,74,0,566,0.0,none
+sound-juicer,934,0,0,188,0,0,941,934,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+soundtracker,1493,30,125,431,14,24,1382,1648,90.59466019417476,Petter Johan Olsen <petter.olsen@cc.uit.no>
+specspo,8064,88342,514182,1091,11512,21097,7000,610588,1.3206941505565128,Norwegian (nynorsk)
+squirrelmail,4264,483,2131,1071,135,145,3993,6878,61.994765920325676,Norwegian <squirrelmail-i18n@lists.sourceforge.net>
+stellarium,1141,0,6,483,0,4,1126,1147,99.4768962510898,
+straw,139,246,207,85,57,47,142,592,23.47972972972973,Norwegian
+subversion,12821,0,7,1488,0,1,12501,12828,99.94543186778921,Norwegian <dev@subversion.tigris.org>
+supertux,1361,0,0,230,0,0,1333,1361,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+swfdec-gnome,101,0,0,28,0,0,105,101,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+switchdesk,137,0,0,19,0,0,106,137,100.0,<en@li.org>
+synaptic,1814,1633,3015,454,448,422,1676,6462,28.071804394924172,Norwegian Bokmaal <bokmaal_at_firefox_no>
+sysstat,234,0,0,25,0,0,229,234,100.0,LANGUAGE <LL@li.org>
+system-config-bind,358,2,9067,173,1,891,320,9427,3.7976026307414874,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+system-config-boot,87,0,5,19,0,1,71,92,94.56521739130434,Norwegian <i18n-nb@lister.ping.uio.no>
+system-config-date,1559,39,1320,1138,39,104,1528,2918,53.427004797806724,LANGUAGE <LL@li.org>
+system-config-display,598,191,7,116,7,3,532,796,75.12562814070351,Norwegian <i18n-nb@lister.ping.uio.no>
+system-config-firewall,258,206,1886,88,50,138,258,2350,10.97872340425532,Norwegian <i18n-nb@lister.ping.uio.no>
+system-config-httpd,1674,42,0,427,19,0,1543,1716,97.55244755244755,Norsk <i18n-nb@lister.ping.uio.no>
+system-config-kdump,94,0,672,18,0,52,89,766,12.27154046997389,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+system-config-keyboard,78,0,0,12,0,0,78,78,100.0,Norwegian <no@li.org>
+system-config-kickstart,1054,0,0,281,0,0,917,1054,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+system-config-language,45,0,0,10,0,0,37,45,100.0,Norwegian <no@li.org>
+system-config-lvm,408,7,1727,167,4,165,401,2142,19.047619047619047,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+system-config-netboot,621,17,465,131,4,30,568,1103,56.30099728014506,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+system-config-network,2793,26,2893,669,9,698,2458,5712,48.89705882352941,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+system-config-nfs,312,0,2390,70,0,133,295,2702,11.54700222057735,LANGUAGE <LL@li.org>
+system-config-printer,1127,318,820,280,80,94,1101,2265,49.75717439293598,Norsk <no@li.org>
+system-config-rootpassword,15,26,75,3,5,11,12,116,12.931034482758621,Norwegian <i18n-nb@lister.ping.uio.no>
+system-config-samba,412,0,2396,136,0,125,407,2808,14.67236467236467,LANGUAGE <LL@li.org>
+system-config-services,27,0,1698,13,0,126,28,1725,1.565217391304348,LANGUAGE <LL@li.org>
+system-config-users,1227,0,2218,171,0,155,1106,3445,35.61683599419448,LANGUAGE <LL@li.org>
+system-switch-mail,138,0,0,20,0,0,126,138,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+tar,545,1394,4035,121,213,656,582,5974,9.122865751590224,Norwegian-bokmål <no@li.org>
+tasks,34,0,0,23,0,0,33,34,100.0,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+tellico,3054,1234,1288,584,341,186,2725,5576,54.770444763271165,Norsk bokmål
+texinfo,6608,2148,406,1052,54,54,6226,9162,72.12399039511024,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+texlive,8182,510,72,1093,22,13,7702,8764,93.3591967138293,Norwegian-bokmål <no@li.org>
+thunar-volman,370,0,0,85,0,0,353,370,100.0,Norwegian Bokmal
+tomboy,2562,0,0,401,0,0,2500,2562,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+totem,2218,0,0,471,0,0,2099,2218,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+totem-pl-parser,1992,5,82,425,1,22,1878,2079,95.81529581529583,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+tracker,149,7,1186,66,7,209,142,1342,11.102831594634873,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+tsclient,528,0,0,99,0,0,489,528,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+turba,148,522,582,62,119,113,137,1252,11.821086261980831,Norwegian (Bokmal) <i18n@lists.horde.org>
+tuxpaint,591,0,0,159,0,0,614,591,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+tuxpaint-stamps,1789,0,119,492,0,7,1605,1908,93.76310272536688,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+usermode,564,0,0,95,0,0,582,564,100.0,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+vim,8091,0,0,1672,0,0,7953,8091,100.0,Norwegian <vim.in.norwegian@sunbase.org>
+vinagre,452,0,0,94,0,0,441,452,100.0,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+vino,993,0,0,104,0,0,951,993,100.0,Norwegian bokmål <i18n-nb@lister.ping.uio.no>
+virt-manager,401,232,2130,198,93,305,386,2763,14.513210278682593,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+vte,116,0,0,20,0,0,123,116,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+wesnoth,35325,20855,143629,3337,1038,7538,33241,199809,17.67938381154002,None
+wget,442,301,1195,105,56,180,443,1938,22.807017543859647,Norwegian <no@li.org>
+wlassistant,702,163,226,95,27,31,628,1091,64.34463794683776,<nb@li.org>
+workrave,1114,18,2,211,8,1,1030,1134,98.2363315696649,>
+wxGTK,4740,735,843,1004,181,264,4461,6318,75.02374169040836,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+wxPython,4740,735,843,1004,181,264,4461,6318,75.02374169040836,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+xcdroast,6814,323,907,746,48,54,6337,8044,84.7090999502735,Norwegian
+xchat-gnome,3486,228,187,914,46,20,3359,3901,89.36170212765957,Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>
+xdg-user-dirs-gtk,81,0,0,11,0,0,73,81,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+xfce-mcs-manager,30,0,0,7,0,0,24,30,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce-mcs-plugins,540,0,0,146,0,0,503,540,100.0,Norwegian Bokmal <xfce-i18n@xfce.org>
+xfce-utils,119,0,0,34,0,0,105,119,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce4-appfinder,48,0,0,28,0,0,48,48,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce4-clipman-plugin,85,0,0,26,0,0,75,85,100.0,Norwegian Bokmal
+xfce4-cpugraph-plugin,44,0,0,25,0,0,38,44,100.0,Norwegian Bokmal
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce4-fsguard-plugin,62,2,0,18,1,0,54,64,96.875,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce4-icon-theme,8,0,0,2,0,0,6,8,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce4-mixer,226,0,0,94,0,0,221,226,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce4-mount-plugin,118,113,52,19,17,6,120,283,41.69611307420495,NORWEGIAN <no@li.org>
+xfce4-notes-plugin,19,22,19,4,9,9,16,60,31.666666666666664,Norwegian Bokmal
+xfce4-panel,578,0,0,160,0,0,539,578,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce4-places-plugin,48,0,0,22,0,0,50,48,100.0,Norwegian Bokmal
+xfce4-session,738,0,0,129,0,0,662,738,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfce4-weather-plugin,479,0,45,236,0,7,403,524,91.41221374045801,Norwegian Bokmal
+xfdesktop,1078,0,0,288,0,0,1014,1078,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfprint,323,0,0,113,0,0,295,323,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xfwm4,646,0,0,190,0,0,633,646,100.0,Norwegian Bokmal <i18n-nb@lister.ping.uio.no>
+xmms,3198,8,39,1008,2,7,3012,3245,98.55161787365178,Norwegian <no@li.org>
+xmoto,3626,1300,778,906,180,98,3566,5704,63.569424964936886,English <en@li.org>
+xscreensaver,1994,1426,18960,1190,606,1872,1904,22380,8.909740840035745,Norwegian <no@li.org>
+yelp,1035,0,0,349,0,0,909,1035,100.0,Norsk (bokmål) <i18n-nb@lister.ping.uio.no>
+yum,1894,35,88,379,6,15,2150,2017,93.90183440753594,Norwegian (bokmål) <i18n-no@lister.ping.uio.no>
+zenity,559,0,0,130,0,0,541,559,100.0,Norwegian Bokmål <i18n-nb@lister.ping.uio.no>

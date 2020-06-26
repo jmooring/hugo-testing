@@ -1,0 +1,49 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,4495,112,903,1496,57,233,4414,5510,81.57894736842105,LANGUAGE <LL@li.org>
+asunder,8,0,485,8,0,84,11,493,1.6227180527383367,http://littlesvr.ca/ostd/
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coreutils,7417,9828,4798,946,588,368,11275,22043,33.64787007213174,Luganda <kbirabwa@yahoo.co.uk>
+dippi,0,0,1653,0,0,266,0,1653,0.0,none
+elementary-calculator,4,2,168,4,1,57,4,174,2.2988505747126435,LANGUAGE <LL@li.org>
+elementary-calendar,301,132,237,127,43,63,332,670,44.92537313432835,Ganda <https://weblate.elementary.io/projects/calendar/calendar/lg/>
+elementary-camera,17,3,121,2,1,33,15,141,12.056737588652481,Ganda <https://weblate.elementary.io/projects/camera/camera/lg/>
+elementary-code,0,0,2228,0,0,384,0,2228,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2656,0,0,567,0,2656,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,5,3,223,3,2,40,4,231,2.1645021645021645,Ganda <https://weblate.elementary.io/projects/music/music/lg/>
+elementary-notifications,0,0,42,0,0,9,0,42,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,303,0,0,70,0,303,0.0,none
+findutils,97,322,2090,26,34,187,122,2509,3.8660821044240734,Luganda <kompyuta@kizito.freeuk.com>
+gala,0,0,319,0,0,67,0,319,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+grub2,316,112,7867,106,20,1402,390,8295,3.8095238095238098,Luganda <kbirabwa@yahoo.co.uk>
+gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+gtk4,1889,0,633,677,0,162,2048,2522,74.90087232355273,Luganda <kbirabwa@yahoo.co.uk>
+gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+isomaster,19,0,655,14,0,93,19,674,2.8189910979228485,http://littlesvr.ca/ostd/
+kf6-kconfigwidgets,312,0,0,117,0,0,392,312,100.0,Luganda
+kf6-kcoreaddons,457,24,4,158,3,1,515,485,94.22680412371133,Luganda
+kf6-kio,8256,268,83,1090,42,14,7619,8607,95.92192401533636,Luganda
+kf6-kxmlgui,1268,0,21,195,0,5,1335,1289,98.37083010085338,Luganda
+libgnomeui,332,0,894,129,0,191,309,1226,27.07993474714519,Luganda <kbirabwa@yahoo.co.uk>
+lxdm,48,0,0,26,0,0,55,48,100.0,LANGUAGE <LL@li.org>
+lxinput,81,4,0,24,4,0,94,85,95.29411764705881,Luganda <kbirabwa@yahoo.co.uk>
+lxmenu-data,56,33,11,26,10,5,78,100,56.00000000000001,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,49,43,100.0,LANGUAGE <LL@li.org>
+mingw-gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+mingw-gtk4,1889,0,633,677,0,162,2048,2522,74.90087232355273,Luganda <kbirabwa@yahoo.co.uk>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+sequeler,39,95,272,21,33,80,42,406,9.60591133004926,none
+sugar,4,58,2243,2,44,483,4,2305,0.1735357917570499,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,27,39,147,26,30,67,27,213,12.676056338028168,LANGUAGE <LL@li.org>
+vlc,1968,0,32846,815,0,5476,2129,34814,5.6528982593209625,Luganda (https://app.transifex.com/yaron/teams/16553/lg/)
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,

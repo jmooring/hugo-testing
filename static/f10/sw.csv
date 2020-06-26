@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueman,139,0,895,45,0,242,156,1034,13.44294003868472,Swahili <sw@li.org>
+iso-codes,129,308,640,79,90,279,138,1077,11.977715877437326,Swahili
+pidgin,185,1945,15859,150,827,2890,191,17989,1.0284062482628273,American English <kde-i18n-doc@lists.kde.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,50,0,0,25,0,50,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,52,0,0,16,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,137,0,0,73,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-update-control,128,0,31,34,0,8,122,159,80.50314465408806,LANGUAGE <LL@li.org>
+tuxpaint,343,236,182,93,34,59,270,761,45.07227332457293,Swahili
+tuxpaint-stamps,721,621,1275,170,243,213,665,2617,27.55063049293084,Swahili
+tuxtype2,63,6,10,30,1,8,72,79,79.74683544303798,LANGUAGE <LL@li.org>
+virtaal,155,0,520,63,0,103,179,675,22.962962962962962,tzLUG Translators

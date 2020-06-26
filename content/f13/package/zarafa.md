@@ -1,0 +1,53 @@
+---
+title: "zarafa - translation progress for f13"
+package: zarafa
+date: 2026-01-17T08:57:54+00:00
+started_languages: 15
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 28
+release: f13
+---
+The package zarafa (version 6.40.9):
+
+* represents 5766 source words to be translated
+* is translated into 15 languages in Fedora f13
+
+
+* contains 28 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [fr]({{< ref "/f13/language/fr.md" >}}) | 5766 | 5766 | 100.0 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/fr_FR.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/fr_FR.po | 
+ | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 5766 | 5766 | 100.0 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/pt_BR.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/pt_BR.po | 
+ | [de]({{< ref "/f13/language/de.md" >}}) | 5753 | 5766 | 99.8 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/de_DE.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/de_DE.po | 
+ | [fi]({{< ref "/f13/language/fi.md" >}}) | 5741 | 5766 | 99.6 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/fi_FI.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/fi_FI.po | 
+ | [nl]({{< ref "/f13/language/nl.md" >}}) | 5741 | 5766 | 99.6 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/nl_NL.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/nl_NL.po | 
+ | [nl_BE]({{< ref "/f13/language/nl_BE.md" >}}) | 3306 | 3383 | 97.7 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/nl_BE.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/nl_BE.po | 
+ | [fr_BE]({{< ref "/f13/language/fr_BE.md" >}}) | 3199 | 3383 | 94.6 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/fr_BE.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/fr_BE.po | 
+ | [es]({{< ref "/f13/language/es.md" >}}) | 4824 | 5766 | 83.7 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/es_ES.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/es_ES.po | 
+ | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 3085 | 4172 | 73.9 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/no_NO.UTF-8/LC_MESSAGES/zarafa.po | 
+ | [it]({{< ref "/f13/language/it.md" >}}) | 4011 | 5766 | 69.6 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/it_IT.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/it_IT.po | 
+ | [sv]({{< ref "/f13/language/sv.md" >}}) | 3838 | 5766 | 66.6 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/sv_SE.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/sv_SE.po | 
+ | [ca]({{< ref "/f13/language/ca.md" >}}) | 3785 | 5766 | 65.6 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/es_CA.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/es_CA.po | 
+ | [da]({{< ref "/f13/language/da.md" >}}) | 2934 | 5766 | 50.9 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/da_DK.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/da_DK.po | 
+ | [pt]({{< ref "/f13/language/pt.md" >}}) | 2835 | 5766 | 49.2 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/pt_PT.UTF-8/LC_MESSAGES/zarafa.po/mnt/stockage/packages/f13/zarafa/po/pt_PT.po | 
+ | [en_US]({{< ref "/f13/language/en_US.md" >}}) | 2 | 4507 | 0.0 | /mnt/stockage/packages/f13/zarafa/php-webclient-ajax/server/language/en_US.UTF-8/LC_MESSAGES/zarafa.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

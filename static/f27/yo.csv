@@ -1,0 +1,145 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,7236,0,0,1198,0,7236,0.0,Yoruba
+appcenter,0,0,757,0,0,177,0,757,0.0,LANGUAGE <LL@li.org>
+atril,45,0,1747,34,0,379,57,1792,2.5111607142857144,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+audience,0,0,106,0,0,48,0,106,0.0,
+blivet-gui,0,0,711,0,0,191,0,711,0.0,Yoruba
+caja,3009,0,6347,647,0,870,3617,9356,32.16117999144934,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+caja-extensions,4,0,566,4,0,127,6,570,0.7017543859649122,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,amo@wazobiasoft.org
+cinnamon-translations,8,0,313,2,0,66,7,321,2.4922118380062304,
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Yoruba
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Yoruba
+elementary-calculator,0,0,80,0,0,37,0,80,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,
+elementary-capnet-assist,0,0,66,0,0,10,0,66,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+engrampa,42,0,1903,22,0,332,56,1945,2.159383033419023,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+entangle,0,0,914,0,0,218,0,914,0.0,Yoruba
+eom,28,0,1689,26,0,292,35,1717,1.6307513104251603,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+epiphany,1553,276,533,479,95,87,1795,2362,65.7493649449619,Yoruba
+gnome-desktop,328,8,28,90,2,1,357,364,90.10989010989012,amo@wazobiasoft.org
+gnome-desktop3,328,8,28,90,2,1,357,364,90.10989010989012,amo@wazobiasoft.org
+gnome-menus,116,15,26,42,5,9,152,157,73.88535031847134,Yoruba
+gnome-session,117,86,519,20,28,65,148,722,16.20498614958449,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Yoruba
+isomaster,9,0,665,8,0,99,12,674,1.3353115727002967,http://littlesvr.ca/ostd/
+libbytesize,0,0,17,0,0,17,0,17,0.0,Yoruba
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+libmateweather,3,0,496,3,0,180,3,499,0.6012024048096193,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+libosinfo,0,0,662,0,0,145,0,662,0.0,Yoruba
+libvirt,0,0,62283,0,0,9662,0,62283,0.0,Yoruba
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Yoruba
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Yoruba
+marco,1966,0,2182,271,0,142,2308,4148,47.396335583413695,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-applets,17,0,2472,17,0,543,22,2489,0.6830052229811169,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-control-center,35,0,2623,30,0,598,42,2658,1.3167795334838224,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-desktop,56,0,2249,15,0,284,69,2305,2.4295010845986984,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-media,5,0,221,5,0,91,6,226,2.2123893805309733,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-menu,15,0,301,13,0,105,21,316,4.746835443037975,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+mate-menus,59,0,38,24,0,13,79,97,60.824742268041234,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-notification-daemon,2,0,137,1,0,36,2,139,1.4388489208633095,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-panel,2664,0,1700,329,0,261,2991,4364,61.044912923923015,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-power-manager,11,0,2713,11,0,429,13,2724,0.4038179148311307,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-sensors-applet,6,0,300,6,0,100,8,306,1.9607843137254901,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-session-manager,60,0,621,21,0,93,81,681,8.81057268722467,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-system-monitor,13,0,1320,12,0,301,16,1333,0.9752438109527383,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-terminal,24,0,4625,19,0,506,29,4649,0.5162400516240052,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-utils,115,0,3562,60,0,600,133,3677,3.127549632852869,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+metacity,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Yoruba
+mingw-libvirt,0,0,62283,0,0,9662,0,62283,0.0,Yoruba
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Yoruba
+mozo,3,0,39,2,0,14,3,42,7.142857142857142,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+muffin,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+mutter,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+nautilus,1434,2994,1686,295,513,222,1797,6114,23.454367026496563,Yoruba
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+olpc-switch-desktop,51,0,107,4,0,10,61,158,32.278481012658226,LANGUAGE <LL@li.org>
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Yoruba
+pam,0,0,597,0,0,120,0,597,0.0,Yoruba
+pantheon-agent-geoclue2,0,0,43,0,0,11,0,43,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,20,0,0,10,0,20,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pluma,49,0,5019,31,0,1077,61,5068,0.9668508287292817,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+pykickstart,0,0,1437,0,0,159,0,1437,0.0,Yoruba
+python-fedora,0,0,214,0,0,29,0,214,0.0,Yoruba
+python-meh,0,0,109,0,0,23,0,109,0.0,Yoruba
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Yoruba
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+sugar,2305,0,0,529,0,0,2687,2305,100.0,Yoruba
+sugar-abacus,0,1,33,0,1,24,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,189,0,0,52,0,0,230,189,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,951,871,100.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,152,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,596,66,100.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,74,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,4,20,0,2,98,69,94.20289855072464,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,111,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,90,0,0,52,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,109,0,0,31,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,112,0,25,41,0,9,129,137,81.75182481751825,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,294,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,134,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,0,109,0,0,239,156,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,130,121,100.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,189,0,0,68,0,189,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,91,0,0,31,0,91,0.0,none
+switchboard-plug-bluetooth,0,0,73,0,0,27,0,73,0.0,none
+switchboard-plug-display,0,0,104,0,0,41,0,104,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,403,0,0,156,0,403,0.0,none
+switchboard-plug-mouse-touchpad,0,0,67,0,0,27,0,67,0.0,none
+switchboard-plug-networking,0,0,442,0,0,128,0,442,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,144,0,0,53,0,144,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sound,0,0,90,0,0,37,0,90,0.0,
+virt-viewer,0,0,784,0,0,169,0,784,0.0,Yoruba
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none

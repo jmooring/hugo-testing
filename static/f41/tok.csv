@@ -1,0 +1,24 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+godot,6365,0,0,1562,0,0,10278,6365,100.0,Toki Pona <https://hosted.weblate.org/projects/godot-engine/godot/tok/>
+gpaste,0,0,1481,0,0,249,0,1481,0.0,none
+kdenlive,0,0,29272,0,0,5919,0,29272,0.0,Language tok
+kdeplasma-addons,5,0,0,1,0,0,7,5,100.0,C <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,352,29,1,127,4,1,473,382,92.14659685863874,toki pona
+kf5-kio,7247,456,4334,1165,33,175,9336,12037,60.20603140317354,Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/>
+kf5-kxmlgui,1535,24,15,222,6,2,2228,1574,97.52223634053368,toki pona
+kf6-kconfigwidgets,218,7,87,93,3,21,488,312,69.87179487179486,C <kde-i18n-doc@kde.org>
+kf6-kcoreaddons,373,51,50,131,15,15,514,474,78.69198312236287,C <kde-i18n-doc@kde.org>
+kf6-kio,5224,509,2986,909,112,153,6821,8719,59.9151278816378,C <kde-i18n-doc@kde.org>
+kf6-kxmlgui,1206,41,42,176,14,10,1761,1289,93.56089992242048,C <kde-i18n-doc@kde.org>
+kio-extras,642,179,910,62,28,36,712,1731,37.088388214904676,C <kde-i18n-doc@kde.org>
+kolourpaint,10,0,2645,9,0,446,21,2655,0.3766478342749529,Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/>
+kwin,23,17,1073,10,8,137,28,1113,2.0664869721473496,C <kde-i18n-doc@kde.org>
+kwin-x11,23,15,1074,10,7,138,28,1112,2.068345323741007,C <kde-i18n-doc@kde.org>
+lagrange,1951,14,0,699,6,0,3578,1965,99.28753180661577,Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/>
+minetest,57,13,10382,19,5,1439,90,10452,0.5453501722158438,Toki Pona <https://hosted.weblate.org/projects/minetest/minetest/tok/>
+neochat,128,733,3491,56,250,783,230,4352,2.941176470588235,Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/>
+plasma-desktop,130,63,711,71,19,246,234,904,14.380530973451327,C <kde-i18n-doc@kde.org>
+plasma-workspace,2926,238,9282,869,55,2030,4259,12446,23.509561304836897,Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-lawa-pi-ilo-kule-pi-ilo-plasma/tok/>
+plasma-workspace-x11,2926,238,9282,869,55,2030,4259,12446,23.509561304836897,Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-lawa-pi-ilo-kule-pi-ilo-plasma/tok/>
+plasma5support,7,0,286,1,0,167,7,293,2.3890784982935154,C <kde-i18n-doc@kde.org>
+powerdevil,0,0,614,0,0,105,0,614,0.0,none

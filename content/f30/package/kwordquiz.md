@@ -1,0 +1,86 @@
+---
+title: "kwordquiz - translation progress for f30"
+package: kwordquiz
+date: 2026-01-17T21:38:22+00:00
+started_languages: 48
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 48
+release: f30
+---
+The package kwordquiz (version 18.12.3):
+
+* represents 2026 source words to be translated
+* is translated into 48 languages in Fedora f30
+
+
+* contains 48 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ca]({{< ref "/f30/language/ca.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/ca/kwordquiz.po | 
+ | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/ca@valencia/kwordquiz.po | 
+ | [cs]({{< ref "/f30/language/cs.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/cs/kwordquiz.po | 
+ | [de]({{< ref "/f30/language/de.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/de/kwordquiz.po | 
+ | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/en_GB/kwordquiz.po | 
+ | [es]({{< ref "/f30/language/es.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/es/kwordquiz.po | 
+ | [fr]({{< ref "/f30/language/fr.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/fr/kwordquiz.po | 
+ | [gl]({{< ref "/f30/language/gl.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/gl/kwordquiz.po | 
+ | [it]({{< ref "/f30/language/it.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/it/kwordquiz.po | 
+ | [nl]({{< ref "/f30/language/nl.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/nl/kwordquiz.po | 
+ | [pl]({{< ref "/f30/language/pl.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/pl/kwordquiz.po | 
+ | [pt]({{< ref "/f30/language/pt.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/pt/kwordquiz.po | 
+ | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/pt_BR/kwordquiz.po | 
+ | [sv]({{< ref "/f30/language/sv.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/sv/kwordquiz.po | 
+ | [uk]({{< ref "/f30/language/uk.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/uk/kwordquiz.po | 
+ | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/zh_CN/kwordquiz.po | 
+ | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 2026 | 2026 | 100.0 | /mnt/stockage/packages/f30/kwordquiz/po/zh_TW/kwordquiz.po | 
+ | [el]({{< ref "/f30/language/el.md" >}}) | 2021 | 2026 | 99.8 | /mnt/stockage/packages/f30/kwordquiz/po/el/kwordquiz.po | 
+ | [et]({{< ref "/f30/language/et.md" >}}) | 2021 | 2026 | 99.8 | /mnt/stockage/packages/f30/kwordquiz/po/et/kwordquiz.po | 
+ | [fi]({{< ref "/f30/language/fi.md" >}}) | 2021 | 2026 | 99.8 | /mnt/stockage/packages/f30/kwordquiz/po/fi/kwordquiz.po | 
+ | [ko]({{< ref "/f30/language/ko.md" >}}) | 2021 | 2026 | 99.8 | /mnt/stockage/packages/f30/kwordquiz/po/ko/kwordquiz.po | 
+ | [ru]({{< ref "/f30/language/ru.md" >}}) | 2021 | 2026 | 99.8 | /mnt/stockage/packages/f30/kwordquiz/po/ru/kwordquiz.po | 
+ | [sk]({{< ref "/f30/language/sk.md" >}}) | 2021 | 2026 | 99.8 | /mnt/stockage/packages/f30/kwordquiz/po/sk/kwordquiz.po | 
+ | [sl]({{< ref "/f30/language/sl.md" >}}) | 2021 | 2026 | 99.8 | /mnt/stockage/packages/f30/kwordquiz/po/sl/kwordquiz.po | 
+ | [tr]({{< ref "/f30/language/tr.md" >}}) | 2021 | 2026 | 99.8 | /mnt/stockage/packages/f30/kwordquiz/po/tr/kwordquiz.po | 
+ | [da]({{< ref "/f30/language/da.md" >}}) | 2013 | 2026 | 99.4 | /mnt/stockage/packages/f30/kwordquiz/po/da/kwordquiz.po | 
+ | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 2013 | 2026 | 99.4 | /mnt/stockage/packages/f30/kwordquiz/po/nb/kwordquiz.po | 
+ | [bs]({{< ref "/f30/language/bs.md" >}}) | 2012 | 2026 | 99.3 | /mnt/stockage/packages/f30/kwordquiz/po/bs/kwordquiz.po | 
+ | [hu]({{< ref "/f30/language/hu.md" >}}) | 2012 | 2026 | 99.3 | /mnt/stockage/packages/f30/kwordquiz/po/hu/kwordquiz.po | 
+ | [kk]({{< ref "/f30/language/kk.md" >}}) | 2012 | 2026 | 99.3 | /mnt/stockage/packages/f30/kwordquiz/po/kk/kwordquiz.po | 
+ | [km]({{< ref "/f30/language/km.md" >}}) | 2012 | 2026 | 99.3 | /mnt/stockage/packages/f30/kwordquiz/po/km/kwordquiz.po | 
+ | [lv]({{< ref "/f30/language/lv.md" >}}) | 2012 | 2026 | 99.3 | /mnt/stockage/packages/f30/kwordquiz/po/lv/kwordquiz.po | 
+ | [nds]({{< ref "/f30/language/nds.md" >}}) | 2012 | 2026 | 99.3 | /mnt/stockage/packages/f30/kwordquiz/po/nds/kwordquiz.po | 
+ | [ro]({{< ref "/f30/language/ro.md" >}}) | 2012 | 2026 | 99.3 | /mnt/stockage/packages/f30/kwordquiz/po/ro/kwordquiz.po | 
+ | [ar]({{< ref "/f30/language/ar.md" >}}) | 1999 | 2026 | 98.7 | /mnt/stockage/packages/f30/kwordquiz/po/ar/kwordquiz.po | 
+ | [nn]({{< ref "/f30/language/nn.md" >}}) | 1633 | 2026 | 80.6 | /mnt/stockage/packages/f30/kwordquiz/po/nn/kwordquiz.po | 
+ | [lt]({{< ref "/f30/language/lt.md" >}}) | 1615 | 2026 | 79.7 | /mnt/stockage/packages/f30/kwordquiz/po/lt/kwordquiz.po | 
+ | [eu]({{< ref "/f30/language/eu.md" >}}) | 1610 | 2026 | 79.5 | /mnt/stockage/packages/f30/kwordquiz/po/eu/kwordquiz.po | 
+ | [ja]({{< ref "/f30/language/ja.md" >}}) | 1546 | 2026 | 76.3 | /mnt/stockage/packages/f30/kwordquiz/po/ja/kwordquiz.po | 
+ | [fa]({{< ref "/f30/language/fa.md" >}}) | 1312 | 2026 | 64.8 | /mnt/stockage/packages/f30/kwordquiz/po/fa/kwordquiz.po | 
+ | [bg]({{< ref "/f30/language/bg.md" >}}) | 1232 | 2026 | 60.8 | /mnt/stockage/packages/f30/kwordquiz/po/bg/kwordquiz.po | 
+ | [hi]({{< ref "/f30/language/hi.md" >}}) | 1230 | 2026 | 60.7 | /mnt/stockage/packages/f30/kwordquiz/po/hi/kwordquiz.po | 
+ | [ga]({{< ref "/f30/language/ga.md" >}}) | 689 | 2026 | 34.0 | /mnt/stockage/packages/f30/kwordquiz/po/ga/kwordquiz.po | 
+ | [ug]({{< ref "/f30/language/ug.md" >}}) | 156 | 2026 | 7.7 | /mnt/stockage/packages/f30/kwordquiz/po/ug/kwordquiz.po | 
+ | [eo]({{< ref "/f30/language/eo.md" >}}) | 91 | 2026 | 4.5 | /mnt/stockage/packages/f30/kwordquiz/po/eo/kwordquiz.po | 
+ | [pa]({{< ref "/f30/language/pa.md" >}}) | 53 | 2026 | 2.6 | /mnt/stockage/packages/f30/kwordquiz/po/pa/kwordquiz.po | 
+ | [mr]({{< ref "/f30/language/mr.md" >}}) | 48 | 2026 | 2.4 | /mnt/stockage/packages/f30/kwordquiz/po/mr/kwordquiz.po | 
+ | [hr]({{< ref "/f30/language/hr.md" >}}) | 2 | 2026 | 0.1 | /mnt/stockage/packages/f30/kwordquiz/po/hr/kwordquiz.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

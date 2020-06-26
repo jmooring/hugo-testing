@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-desktop,288,4,28,71,1,1,302,320,90.0,amo@wazobiasoft.org
+sugar,9,0,233,8,0,91,18,242,3.71900826446281,Yoruba
+sugar-journal,0,0,68,0,0,43,0,68,0.0,LANGUAGE <LL@li.org>

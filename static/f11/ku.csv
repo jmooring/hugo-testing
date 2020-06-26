@@ -1,0 +1,168 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,10,0,3944,9,0,452,12,3954,0.25290844714213456,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+GConf2-dbus,10,0,3944,9,0,452,12,3954,0.25290844714213456,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+Miro,48,0,2726,34,0,567,57,2774,1.7303532804614274,Kurdish <ku@li.org>
+NetworkManager,50,0,977,25,0,169,60,1027,4.868549172346641,Kurdish <ku@li.org>
+Terminal,42,13,1498,31,10,240,54,1553,2.7044430135222153,Kurdish <ku@li.org>
+Thunar,2191,80,1594,513,19,153,2380,3865,56.68822768434671,Kurdish <ku@li.org>
+alacarte,61,0,0,24,0,0,71,61,100.0,Kurdish <ku@li.org>
+anaconda,0,0,8997,0,0,1133,0,8997,0.0,none
+at-spi,4,0,0,2,0,0,6,4,100.0,Kurdish
+atk,348,1,26,121,1,4,331,375,92.80000000000001,Kurdish <ku@li.org>
+authconfig,0,0,1357,0,0,242,0,1357,0.0,none
+avant-window-navigator,2,0,591,1,0,139,2,593,0.33726812816188867,Kurdish <ku@li.org>
+bluez-gnome,1,0,630,1,0,188,18,631,0.15847860538827258,Kurdish <ku@li.org>
+bug-buddy,61,0,1172,37,0,139,69,1233,4.94728304947283,Kurdish <ku@li.org>
+bzr-gtk,24,0,1066,19,0,288,31,1090,2.2018348623853212,Kurdish <ku@li.org>
+cheese,22,0,504,15,0,84,27,526,4.182509505703422,Kurdish
+chkconfig,0,0,448,0,0,90,0,448,0.0,none
+control-center,2929,459,358,725,70,42,3204,3746,78.19006940736786,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+dasher,44,13,463,45,8,143,55,520,8.461538461538462,Kurdish <ku@li.org>
+deluge,72,0,1926,58,0,631,83,1998,3.6036036036036037,Kurdish <ku@li.org>
+deskbar-applet,434,36,227,78,10,39,424,697,62.26685796269727,Kurdish <ku@li.org>
+dialog,25,0,0,23,0,0,26,25,100.0,Kurdish <translation-team-ku@ferheng.org>
+dpkg,541,401,6662,104,73,788,580,7604,7.114676486059969,Kurdish <ku@li.org>
+eel2,177,0,58,47,0,5,187,235,75.31914893617021,Kurdish <ku@li.org>
+ekiga,29,0,5058,19,0,750,26,5087,0.5700805976017299,http;//pckurd.net
+empathy,16,0,1440,18,0,376,16,1456,1.098901098901099,Kurdish
+eog,445,51,502,180,11,56,479,998,44.589178356713425,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+epiphany,1067,0,2878,429,0,446,1105,3945,27.046894803548792,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+evince,716,50,220,253,9,24,781,986,72.61663286004057,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+evolution,133,533,16418,110,437,3733,137,17084,0.7785062046359166,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+evolution-data-server,3,67,4793,3,56,952,5,4863,0.061690314620604564,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+evolution-exchange,0,33,1910,0,29,293,0,1943,0.0,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+exo,93,6,1499,54,1,246,96,1598,5.819774718397998,Kurdish <ku@li.org>
+file-roller,903,15,29,233,2,8,995,947,95.35374868004224,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+filezilla,1039,1343,4478,277,338,548,1125,6860,15.145772594752186,Kurdish
+firstboot,0,0,654,0,0,54,0,654,0.0,none
+gcalctool,117,4,774,98,4,247,123,895,13.072625698324023,Kurdish <ku@li.org>
+gconf-editor,35,0,299,29,0,69,37,334,10.479041916167663,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gdm,158,62,1095,62,12,155,166,1315,12.015209125475284,Kurdish <ku@li.org>
+gedit,676,39,4348,297,19,786,760,5063,13.351767726644281,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+glib2,36,203,2111,10,42,320,41,2350,1.5319148936170213,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gnome-applets,4098,0,0,976,0,0,4857,4098,100.0,Kurdish <ku@li.org>
+gnome-backgrounds,35,0,0,10,0,0,40,35,100.0,Kurdish <ku@li.org>
+gnome-desktop,330,0,0,76,0,0,381,330,100.0,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gnome-games,70,196,6772,49,141,1508,74,7038,0.9946007388462632,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gnome-mag,5,0,0,2,0,0,6,5,100.0,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gnome-media,1356,46,525,458,17,56,1461,1927,70.36844836533471,Kurdish <ku@li.org>
+gnome-menus,167,0,0,60,0,0,188,167,100.0,Kurdish <ku@li.org>
+gnome-netstatus,417,0,0,106,0,0,362,417,100.0,Kurdish <ku@li.org>
+gnome-nettool,523,0,17,179,0,5,628,540,96.85185185185186,Kurdish <ku@li.org>
+gnome-panel,4045,38,2,546,2,1,4022,4085,99.02080783353733,Kurdish <ku@li.org>
+gnome-power-manager,613,160,1955,113,35,225,652,2728,22.470674486803517,Kurdish <ku@li.org>
+gnome-screensaver,1092,2,245,166,1,34,1139,1339,81.55339805825243,Kurdish <<ku@li.org>>
+gnome-session,208,56,450,46,19,49,196,714,29.13165266106443,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gnome-settings-daemon,369,181,484,67,39,65,377,1034,35.686653771760156,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gnome-system-monitor,154,0,491,87,0,90,172,645,23.875968992248062,Kurdish <ku@li.org>
+gnome-terminal,1612,6,2981,367,1,145,1723,4599,35.05109806479669,Kurdish <ku@li.org>
+gnome-themes,3,0,101,3,0,33,3,104,2.8846153846153846,Kurdish <ku@li.org>
+gnome-utils,1252,137,2747,350,29,347,1374,4136,30.270793036750483,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gnome-vfs2,25,0,1551,16,0,289,28,1576,1.5862944162436547,Kurdish <ku@li.org>
+gok,50,8,1798,48,8,372,58,1856,2.693965517241379,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gst-mixer,1356,46,525,458,17,56,1461,1927,70.36844836533471,Kurdish <ku@li.org>
+gtk2,2881,587,9460,694,261,1688,3125,12928,22.284962871287128,http;//pckurd.net
+gtkhtml3,32,57,820,30,56,317,38,909,3.52035203520352,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gtranslator,317,4,1101,171,3,195,338,1422,22.292545710267227,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+gvfs,139,0,911,64,0,210,159,1050,13.238095238095237,Kurdish <ku@li.org>
+hamster-applet,47,0,203,37,0,60,52,250,18.8,Kurdish <kde-i18n-doc@lists.kde.org>
+hwbrowser,0,0,117,0,0,52,0,117,0.0,none
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+initscripts,0,0,4169,0,0,991,0,4169,0.0,none
+iso-codes,1074,5,0,447,1,0,959,1079,99.5366079703429,Kurdish <ubuntu-l10n-kur@lists.ubuntu.com>
+kcoloredit,219,47,12,75,13,7,247,278,78.77697841726618,Kurdish <kde-i18n-doc@kde.org>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kmplayer,1036,69,155,351,8,20,1180,1260,82.22222222222221,Kurdish <kde-i18n-doc@kde.org>
+konq-plugins,1357,69,57,460,14,22,1569,1483,91.50370869858395,Kurdish <kde-i18n-doc@kde.org>
+libbonobo,1,0,523,1,0,107,1,524,0.19083969465648853,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+libbonoboui,42,4,314,32,2,79,53,360,11.666666666666666,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+libgnome,1517,0,0,237,0,0,1696,1517,100.0,Kurdish <ku@li.org>
+libgnomecanvas,16,0,341,13,0,81,17,357,4.481792717086835,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+libgnomeui,1329,1,5,332,1,2,1345,1335,99.5505617977528,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+libgtop2,17,1,116,7,1,36,22,134,12.686567164179104,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+libgweather,2316,977,2809,1744,760,2056,2381,6102,37.954768928220254,Kurdish <ku@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1165,5089,3159,271,995,568,1165,9413,12.376500584298311,none
+libwnck,73,0,0,30,0,0,87,73,100.0,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+libxfce4menu,31,0,0,5,0,0,30,31,100.0,http://pckurd.net
+libxfcegui4,56,9,169,29,6,26,64,234,23.931623931623932,Kurdish <ku@li.org>
+lxmenu-data,97,0,0,37,0,0,102,97,100.0,Kurdish <ku@li.org>
+metacity,1015,93,6730,214,13,280,1221,7838,12.949732074508805,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+mingw32-atk,348,1,26,121,1,4,331,375,92.80000000000001,Kurdish <ku@li.org>
+mingw32-glib2,36,203,2111,10,42,320,41,2350,1.5319148936170213,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+mingw32-gtk2,2881,587,9460,694,261,1688,3125,12928,22.284962871287128,http;//pckurd.net
+mingw32-gtkhtml3,32,57,820,30,56,317,38,909,3.52035203520352,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+moin,463,377,3686,157,86,493,568,4526,10.229783473265577,
+mousepad,91,0,44,50,0,14,99,135,67.4074074074074,Kurdish <ku@li.org>
+nautilus,4151,2,2969,975,1,217,4452,7122,58.2841898343162,Kurdish <ku@li.org>
+nautilus-cd-burner,35,0,1237,20,0,185,35,1272,2.751572327044025,Kurdish <ku@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,KURDISH <ku@li.org>
+orage,21,35,2054,14,18,737,24,2110,0.9952606635071091,Kurdish <ku@li.org>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pessulus,9,0,79,5,0,25,11,88,10.227272727272728,Kurdish <ku@li.org>
+pidgin,6367,4786,6991,1624,1321,1042,6758,18144,35.09149029982363,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+po4a,18,3,1705,4,1,172,16,1726,1.0428736964078795,Kurdish <ku@li.org>
+poedit,361,38,763,159,15,95,396,1162,31.0671256454389,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+policycoreutils,0,0,4363,0,0,713,0,4363,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+pyroom,266,0,145,55,0,19,277,411,64.72019464720195,Kurdish <ku@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhn-client-tools,0,0,4820,0,0,454,0,4820,0.0,none
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+rhpxl,0,0,120,0,0,43,0,120,0.0,none
+sabayon,118,0,698,55,0,112,139,816,14.460784313725492,Kurdish <ku@li.org>
+seahorse,24,0,3025,20,0,626,25,3049,0.787143325680551,http;//pckurd.net
+seahorse-plugins,9,0,1150,8,0,239,12,1159,0.7765314926660914,http;//pckurd.net
+setroubleshoot,0,0,593,0,0,168,0,593,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,60,0,0,17,0,60,0.0,none
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,85,0,767,47,0,102,88,852,9.976525821596244,Kurdish <ku@li.org>
+specspo,0,0,305286,0,0,16847,0,305286,0.0,none
+stardict,81,264,2095,43,81,337,80,2440,3.3196721311475406,KURDISH <ku@li.org>
+swfdec-gnome,32,0,69,15,0,13,38,101,31.683168316831683,http;//pckurd.net
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,46,0,0,10,0,46,0.0,none
+system-config-date,0,0,986,0,0,617,0,986,0.0,none
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-firewall,0,0,2497,0,0,303,0,2497,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,78,0,0,12,0,78,0.0,none
+system-config-kickstart,0,0,1039,0,0,264,0,1039,0.0,none
+system-config-language,0,0,45,0,0,10,0,45,0.0,none
+system-config-netboot,10,0,1093,3,0,162,10,1103,0.9066183136899365,none
+system-config-network,0,0,2934,0,0,704,0,2934,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,422,0,0,137,0,422,0.0,none
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,384,0,0,53,0,384,0.0,none
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1337,0,0,172,0,1337,0.0,none
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+tomboy,117,12,836,59,4,93,137,965,12.124352331606218,Kurdish <ku@li.org>
+totem,259,0,1426,122,0,239,268,1685,15.370919881305639,Kurdish <ku@li.org>
+totem-pl-parser,259,0,1426,122,0,239,268,1685,15.370919881305639,Kurdish <ku@li.org>
+transmission,290,0,1352,129,0,320,323,1642,17.661388550548114,Kurdish <ku@li.org>
+tuxmath,397,23,631,105,5,89,405,1051,37.773549000951476,Kurdish <ku@li.org>
+tuxpaint,537,156,68,145,19,22,536,761,70.56504599211564,KURDISH <LL@li.org>
+tuxpaint-stamps,144,103,2370,64,44,518,89,2617,5.50248376003057,Kurdish <ku@li.org>
+vidalia,0,0,2927,0,0,657,0,2927,0.0,LANGUAGE <LL@li.org>
+vinagre,20,0,420,16,0,78,21,440,4.545454545454546,Kurdish <ku@li.org>
+vino,13,0,527,12,0,58,15,540,2.4074074074074074,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+vte,10,0,86,3,0,15,8,96,10.416666666666668,Kurdish <ku@li.org>
+xchat-gnome,154,70,3677,75,24,881,174,3901,3.947705716482953,Kurdish <ku@li.org>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Kurdish <ubuntu-l10n-kur@lists.ubuntu.com>
+xfce-utils,21,5,105,12,1,23,25,131,16.030534351145036,Kurdish <ku@li.org>
+xfce4-appfinder,9,3,72,4,2,13,8,84,10.714285714285714,Kurdish <ku@li.org>
+xfce4-panel,281,137,122,92,37,38,299,540,52.03703703703704,Kurdish <ku@li.org>
+yelp,956,0,0,238,0,0,989,956,100.0,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>
+yum-rhn-plugin,0,0,107,0,0,14,0,107,0.0,LANGUAGE <LL@li.org>
+zenity,20,4,370,18,1,93,20,394,5.0761421319796955,Kurdish <gnu-ku-wergerandin@lists.sourceforge.net>

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deluge,27,0,2414,15,0,530,25,2441,1.1061040557148711,Latin <la@li.org>
+ruby-gettext-package,4,0,0,2,0,0,4,4,100.0,LANGUAGE <LL@li.org>
+wesnoth,26452,17966,155391,2594,762,8557,20288,199809,13.238642903973293,Latin

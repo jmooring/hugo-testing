@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,0,0,144413,0,0,16976,0,144413,0.0,Uzbek (Latin) (http://www.transifex.com/projects/p/calibre/language/uz@Latn/)
+modem-manager-gui,1333,0,1083,370,0,114,1289,2416,55.173841059602644,Uzbek (Latin) (http://www.transifex.com/projects/p/modem-manager-gui/language/uz@Latn/)

@@ -1,0 +1,909 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+DivFix++,551,0,0,104,0,0,479,551,100.0,starcodec <starcodec gmail.com>
+GConf2,4088,0,0,497,0,0,3534,4088,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+NetworkManager,5244,2714,1919,974,289,193,4819,9877,53.093044446694336,GNOME Korea <gnome-kr@googlegroups.com>
+NetworkManager-fortisslvpn,22,1,151,9,1,23,16,174,12.643678160919542,GNOME Korea <gnome-kr@googlegroups.com>
+NetworkManager-l2tp,4,70,679,3,23,107,4,753,0.5312084993359893,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+NetworkManager-openconnect,54,5,3182,16,2,578,49,3241,1.666152422091947,GNOME Korea <gnome-kr@googlegroups.com>
+NetworkManager-openswan,376,0,0,62,0,0,274,376,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+NetworkManager-openvpn,101,0,0,37,0,0,90,101,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+NetworkManager-pptp,144,0,0,44,0,0,132,144,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+NetworkManager-ssh,27,39,220,8,14,47,21,286,9.44055944055944,GNOME Korea <gnome-kr@googlegroups.com>
+NetworkManager-vpnc,156,0,0,41,0,0,136,156,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+PackageKit,1273,0,0,323,0,0,1102,1273,100.0,Korean (http://www.transifex.com/freedesktop/packagekit/language/ko/)
+R,30858,0,6251,4684,0,763,28126,37109,83.15502977714301,Chel Hee Lee <chl948@mail.usask.ca>
+Thunar,4206,0,0,739,0,0,2882,4206,100.0,Korean (http://www.transifex.com/projects/p/thunar/language/ko/)
+WindowMaker,4236,0,173,827,0,29,3609,4409,96.07620775686097,Korean
+Zim,953,0,1921,296,0,367,852,2874,33.159359777313846,Korean <ko@li.org>
+a2ps,462,845,205,113,51,15,434,1512,30.555555555555557,Korean <ko@li.org>
+abrt,2549,0,901,333,0,75,2235,3450,73.8840579710145,Korean (http://www.transifex.com/projects/p/fedora-abrt/language/ko/)
+accerciser,599,0,0,221,0,0,543,599,100.0,Korean <gnome-kr@googlegroups.com>
+accountsservice,59,0,0,10,0,0,44,59,100.0,Korean (http://www.transifex.com/projects/p/freedesktop/language/ko/)
+adwaita-icon-theme,4,0,0,2,0,0,4,4,100.0,GNOME Korea <gnome-kr@googlegroups.org>
+ailurus,840,0,7699,293,0,848,796,8539,9.837217472771988,none
+aisleriot,3028,0,0,656,0,0,2291,3028,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+alacarte,42,0,0,16,0,0,36,42,100.0,Korean <gnome-kr@googlegroups.com>
+anaconda,3461,16,3238,583,1,534,2903,6715,51.54132539091586,Korean (http://www.transifex.com/projects/p/anaconda/language/ko/)
+anjuta,8397,0,0,2059,0,0,7135,8397,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+apper,35,0,0,10,0,0,28,35,100.0,Korean <kde@peremen.name>
+appstream,233,0,71,49,0,10,195,304,76.64473684210526,Korean (http://www.transifex.com/freedesktop/appstream/language/ko/)
+arandr,172,0,0,37,0,0,160,172,100.0,LANGUAGE <LL@li.org>
+arduino,1880,0,37,297,0,30,1497,1917,98.0699008868023,Korean
+aria2,74,0,6591,11,0,369,53,6665,1.1102775693923481,Korean <ko@li.org>
+asunder,21,0,459,19,0,68,23,480,4.375,http://littlesvr.ca/ostd/
+at-spi,61,0,0,7,0,0,54,61,100.0,Korean <gnome-kr@googlegroups.com>
+at-spi2-core,10,0,0,2,0,0,9,10,100.0,Korean <gnome-kr@googlegroups.com>
+atk,440,0,0,169,0,0,396,440,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+atomix,125,0,0,44,0,0,119,125,100.0,Korean <gnome-kr-translation@lists.sourceforge.net>
+atril,1647,0,0,389,0,0,1415,1647,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+audacious,502,0,137,226,0,55,484,639,78.56025039123631,Korean (http://www.transifex.com/projects/p/audacious/language/ko/)
+audacious-plugins,3357,0,553,797,0,75,2990,3910,85.85677749360615,Korean (http://www.transifex.com/projects/p/audacious/language/ko/)
+audacity,8958,1763,1515,1952,541,291,7805,12236,73.2101994115724,Korean (http://www.transifex.com/projects/p/audacity/language/ko/)
+audit-viewer,611,0,0,185,0,0,571,611,100.0,LANGUAGE <LL@li.org>
+authconfig,1671,38,6,291,4,1,1345,1715,97.43440233236151,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+avogadro,2623,433,3180,1081,122,1047,2606,6236,42.06221937139192,Korean <ko@li.org>
+backintime,613,0,879,181,0,119,524,1492,41.0857908847185,Korean <ko@li.org>
+balsa,801,1733,2814,271,537,479,691,5348,14.977561705310396,Korean <ko@li.org>
+banshee,6066,0,0,1551,0,0,5213,6066,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+baobab,210,0,0,57,0,0,170,210,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+bibletime,820,3735,246,128,82,42,607,4801,17.079775046865237,<ko@li.org>
+bijiben,309,0,0,103,0,0,265,309,100.0,Korean <gnome-kr@googlegroups.com>
+bleachbit,1112,0,0,248,0,0,1033,1112,100.0,Korean <ko@li.org>
+blender,74742,14,24407,19395,5,2200,67041,99163,75.37287092968144,Korean (http://www.transifex.com/projects/p/blender-27-ko/language/ko/)
+bluedevil,555,0,0,186,0,0,468,555,100.0,Korean <kde@peremen.name>
+bluefish,2626,1077,1202,1055,241,243,2417,4905,53.53720693170234,
+blueman,1414,0,32,343,0,8,1187,1446,97.78699861687413,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+boinc-client,27447,0,0,4524,0,0,21895,27447,100.0,SETIKAH@KOREA
+brasero,7721,0,4,1110,0,1,5706,7725,99.94822006472492,Korean <gnome-kr@googlegroups.com>
+bzr,0,0,33249,0,0,2353,0,33249,0.0,Korean <ko@li.org>
+cairo-dock,3084,0,4380,466,0,361,2109,7464,41.31832797427653,Korean <ko@li.org>
+cairo-dock-plug-ins,967,0,9236,327,0,1395,838,10203,9.477604626090367,Korean <ko@li.org>
+caja,9244,0,0,1497,0,0,6714,9244,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+caja-actions,1430,123,1,164,5,1,1104,1554,92.02059202059202,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+caja-extensions,556,0,0,127,0,0,467,556,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+calibre,45076,0,101952,5912,0,11321,35336,147028,30.658105939004816,Korean (http://www.transifex.com/calibre/calibre/language/ko/)
+cantata,6933,0,0,1181,0,0,4883,6933,100.0,LANGUAGE <LL@li.org>
+caribou,169,0,0,57,0,0,155,169,100.0,Korean <gnome-kr@googlegroups.com>
+catfish,91,0,421,38,0,63,87,512,17.7734375,Korean <ko@li.org>
+ccsm,549,0,0,135,0,0,437,549,100.0,Korean <happyhackinglife@gmail>
+celestia,2269,6,1,1084,1,1,2002,2276,99.69244288224957,Korean
+certmonger,0,0,1669,0,0,270,0,1669,0.0,Korean (http://www.transifex.com/projects/p/certmonger/language/ko/)
+cheese,613,0,0,120,0,0,442,613,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+chkconfig,513,0,0,96,0,0,457,513,100.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+cinepaint,1464,1912,4031,541,817,581,1338,7407,19.76508707978939,Korean <ko@li.org>
+cinnamon-control-center,1313,0,0,756,0,0,1435,1313,100.0,<ko@li.org>
+cinnamon-desktop,231,0,0,31,0,0,213,231,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+cinnamon-session,366,47,19,67,4,4,263,432,84.72222222222221,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+cinnamon-settings-daemon,3740,0,0,572,0,0,2766,3740,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+cinnamon-translations,12518,0,795,3032,0,214,10140,13313,94.02839329978217,Korean <ko@li.org>
+clamtk,464,0,0,140,0,0,373,464,100.0,Korean <oopslee@haansoft.com>
+clementine,4705,0,386,1298,0,54,3915,5091,92.41799253584757,Korean (http://www.transifex.com/davidsansome/clementine/language/ko/)
+clutter,50,0,3003,16,0,659,41,3053,1.6377333770062235,Korean <gnome-kr@googlegroups.org>
+cmake-fedora,0,0,0,0,0,0,0,0,0.0,
+coccinella,0,4303,1055,0,1147,190,0,5358,0.0,Korean
+cogl,393,0,0,80,0,0,353,393,100.0,Korean <gnome-kr@googlegroups.com>
+colord,386,0,1499,97,0,106,304,1885,20.477453580901855,Korean (http://www.transifex.com/projects/p/colord/language/ko/)
+colord-kde,366,0,3,119,0,1,315,369,99.1869918699187,Korean <kde@peremen.name>
+comix,1300,0,26,259,0,3,844,1326,98.0392156862745,
+compat-gtkhtml314,485,0,0,309,0,0,495,485,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+compat-libgdata19,695,0,0,85,0,0,476,695,100.0,Korean <gnome-kr@googlegroups.com>
+compat-wxGTK3-gtk2,5799,1078,805,1274,299,272,5118,7682,75.48815412652955,Korean <Korean>
+compiz,3240,0,0,710,0,0,2672,3240,100.0,Korean <bugbear5@gmail.com>
+compiz-plugins-experimental,8946,0,0,1729,0,0,7251,8946,100.0,Korean <jeongseungwon@hanmail.net>
+compiz-plugins-extra,8946,0,0,1729,0,0,7251,8946,100.0,Korean <jeongseungwon@hanmail.net>
+compiz-plugins-main,8946,0,0,1729,0,0,7251,8946,100.0,Korean <jeongseungwon@hanmail.net>
+compiz-plugins-unsupported,8946,0,0,1729,0,0,7251,8946,100.0,Korean <jeongseungwon@hanmail.net>
+console-setup,981,0,0,173,0,0,739,981,100.0,Korean <debian-l10n-korean@lists.debian.org>
+control-center,6355,0,0,2223,0,0,5725,6355,100.0,<ko@li.org>
+coreutils,1589,6296,12593,187,663,788,1385,20478,7.75954683074519,Korean <translation-team-ko@lists.sourceforge.net>
+cpio,174,261,1402,33,50,215,159,1837,9.471965160587915,Korean <ko@li.org>
+cracklib,93,0,3,15,0,1,64,96,96.875,Korean <ko@li.org>
+cups-pk-helper,149,0,0,22,0,0,105,149,100.0,Korean (http://www.transifex.net/projects/p/freedesktop/team/ko/)
+cura,4953,74,30,556,6,6,3475,5057,97.94344473007712,Korean <Jinbuhm.Kim@gmail.com>
+cura-lulzbot,4953,74,30,556,6,6,3475,5057,97.94344473007712,Korean <Jinbuhm.Kim@gmail.com>
+dasher,528,0,0,199,0,0,502,528,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+dc3dd,13,137,721,4,34,49,16,871,1.4925373134328357,Korean <translation-team-ko@lists.sourceforge.net>
+dconf-editor,198,0,0,33,0,0,157,198,100.0,Korean <gnome-kr@googlegroups.com>
+debconf,747,48,0,85,2,0,612,795,93.9622641509434,Korean <debian-l10n-korean@lists.debian.org>
+decibel-audio-player,466,0,1028,117,0,120,304,1494,31.191432396251674,Korean <ko@li.org>
+deja-dup,1283,0,2817,220,0,268,1003,4100,31.29268292682927,Korean <ko@li.org>
+deluge,2023,0,705,748,0,130,1720,2728,74.15689149560117,Korean <ko@li.org>
+devhelp,443,0,0,107,0,0,363,443,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+dia,6605,0,0,2361,0,0,6148,6605,100.0,Korean <Dokdo@korea.land>
+diffuse,987,0,0,186,0,0,865,987,100.0,Korean
+digikam,5534,4471,28077,1142,1149,3547,4333,38082,14.531799800430651,Korean <kde@peremen.name>
+dnf,186,29,1686,40,3,450,168,1901,9.784324039978959,Korean
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Korean
+docky,891,0,866,207,0,130,789,1757,50.71143995446784,Korean <ko@li.org>
+dpkg,6633,3510,847,925,336,106,6159,10990,60.354868061874434,Korean <debian-l10n-korean@lists.debian.org>
+e16,1745,6,1077,257,3,267,1388,2828,61.7043847241867,Korean <translation-team-ko@lists.sourceforge.net>
+easystroke,450,0,20,128,0,9,355,470,95.74468085106383,Korean <ko@li.org>
+easytag,5264,0,0,1024,0,0,4522,5264,100.0,Korean <gnome-kr@googlegroups.com>
+edgar,1,0,11474,1,0,1534,1,11475,0.008714596949891067,Korean <ko@li.org>
+efl,147,0,0,50,0,0,171,147,100.0,Enlightenment Team
+efreet,1,0,0,1,0,0,1,1,100.0,Enlightenment Team
+ekiga,4264,0,0,716,0,0,3380,4264,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+elementary,146,0,0,75,0,0,143,146,100.0,General
+emerald,774,0,0,215,0,0,773,774,100.0,beryl-project
+empathy,4257,0,0,956,0,0,3393,4257,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+engrampa,1672,0,0,317,0,0,1402,1672,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+enlightenment,7068,1097,543,1891,193,99,6237,8708,81.16674322462104,Korean <KO@li.org>
+entangle,0,0,934,0,0,209,0,934,0.0,Korean
+eog,6378,0,0,704,0,0,4563,6378,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+eog-plugins,419,0,0,100,0,0,323,419,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+eom,5000,0,0,561,0,0,3824,5000,100.0,MATE Korea <mate-kr-hackers@lists.kldp.net>
+epiphany,2618,0,0,597,0,0,2048,2618,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+evince,8999,0,0,1008,0,0,6327,8999,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+evolution,23236,0,0,4963,0,0,18558,23236,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+evolution-data-server,5392,0,0,1083,0,0,5029,5392,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+evolution-mapi,516,0,0,106,0,0,491,516,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+exaile,1648,116,2242,586,45,394,1431,4006,41.138292561158266,Korean <https://hosted.weblate.org/projects/exaile/master/ko/>
+exo,1414,0,0,286,0,0,1184,1414,100.0,Korean (http://www.transifex.com/projects/p/exo/language/ko/)
+fcitx,1225,0,2124,402,0,347,1066,3349,36.57808300985369,Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)
+fcitx-hangul,37,0,0,18,0,0,35,37,100.0,Korean (http://www.transifex.com/projects/p/fcitx/language/ko/)
+feedreader,0,0,0,0,0,0,0,0,0.0,
+file-roller,1195,0,0,268,0,0,960,1195,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+filezilla,9261,19,495,1588,3,70,7310,9775,94.74168797953965,
+findutils,86,275,2450,21,41,220,91,2811,3.059409462824618,Korean <ko@li.org>
+firewalld,1558,1,13,303,1,6,1301,1572,99.10941475826972,Korean (http://www.transifex.com/projects/p/firewalld/language/ko/)
+five-or-more,279,0,0,64,0,0,216,279,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+flex,536,106,488,112,21,33,507,1130,47.43362831858407,Korean <ko@li.org>
+focuswriter,129,0,0,7,0,0,104,129,100.0,Korean (http://www.transifex.com/projects/p/focuswriter/language/ko/)
+folks,1003,0,0,123,0,0,865,1003,100.0,Korean <gnome-kr@googlegroups.com>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Korean
+four-in-a-row,247,0,0,71,0,0,199,247,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+fprintd,151,0,268,23,0,34,92,419,36.0381861575179,Korean (http://www.transifex.com/projects/p/freedesktop/language/ko/)
+freeciv,25552,11940,60526,3440,2357,2327,23693,98018,26.068681262625233,Korean language team
+freedink,5,78,0,2,13,0,7,83,6.024096385542169,Korean <translation-team-ko@lists.sourceforge.net>
+fuse-encfs,89,0,1189,16,0,120,82,1278,6.964006259780908,Korean <ko@li.org>
+fusionforge,2973,5053,16383,592,1251,2535,2510,24409,12.17993363103773,FusionForge team <fusionforge-general@lists.fusionforge.org>
+gallery2,7803,1417,8548,1368,193,968,5979,17768,43.91602881584872,KOREAN <gallery-translations@lists.sourceforge.net>
+gambas3,311,0,4943,243,0,1312,333,5254,5.919299581271412,LANGUAGE <LL@li.org>
+gammu,242,174,3603,78,49,987,252,4019,6.0213983578004475,none
+garcon,109,0,0,34,0,0,102,109,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+gbrainy,3675,563,1442,559,79,112,2820,5680,64.70070422535211,Korean <ko@li.org>
+gcompris,9224,357,15,1101,18,3,6093,9596,96.12338474364319,
+gconf-editor,336,0,0,98,0,0,301,336,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gcr,700,0,0,254,0,0,648,700,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gdesklets,826,0,702,158,0,46,663,1528,54.05759162303665,Korean <ko@li.org>
+gdk-pixbuf2,1478,0,0,228,0,0,1275,1478,100.0,Gnome Korea <gnome-kr@googlegroups.com>
+gdm,1157,24,29496,499,11,796,1000,30677,3.771555236822375,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+geany,3960,1030,983,1038,104,153,3018,5973,66.29834254143645,Korean
+gedit,11827,0,0,1377,0,0,8626,11827,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gedit-plugins,8633,0,0,840,0,0,6393,8633,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+geeqie,188,104,2617,112,52,825,199,2909,6.462701959436232,Korean
+gegl03,345,247,4805,148,105,698,285,5397,6.392440244580322,Korean <gnome-kr@googlegroups.com>
+genius,12,13,680,5,4,123,13,705,1.702127659574468,Korean <ko@li.org>
+gettext,7396,1232,3022,883,571,1030,6059,11650,63.48497854077253,Korean <translation-team-ko@lists.sourceforge.net>
+gftp,3344,0,31,629,0,5,2717,3375,99.08148148148148,GNOME Korean <Gnome-kr-hackers@lists.kldp.net>
+ggz-base-libs,72,0,0,16,0,0,71,72,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+ggz-gtk-client,861,0,0,268,0,0,760,861,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+ghex,2740,0,22,403,0,15,1981,2762,99.20347574221579,LANGUAGE <LL@li.org>
+gigolo,521,0,0,142,0,0,454,521,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+gimp,26894,398,1670,6847,93,424,22263,28962,92.85960914301499,
+gimp-gap,3388,879,6748,983,307,584,2942,11015,30.75805719473445,Korean <like.a.dust@gmail.com>
+gimp-help,48714,22194,153528,3378,1944,8849,33504,224436,21.705074052291078,Korean <jihui.choi@gmail.com>
+gimp-save-for-web,82,0,0,40,0,0,79,82,100.0,<like.a.dust@gmail.com>
+gitg,1344,0,0,245,0,0,1069,1344,100.0,Korean <gnome-kr@googlegroups.com>
+glabels,1144,478,516,390,164,159,978,2138,53.50795135640786,none
+glade,6257,0,0,1634,0,0,5327,6257,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+glade2,4006,1142,692,947,238,115,2687,5840,68.5958904109589,Korean <ko@li.org>
+glade3,4605,0,0,1195,0,0,3986,4605,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+glib-networking,161,0,0,29,0,0,145,161,100.0,Korean <gnome-kr@googlegroups.com>
+glib2,5701,0,0,886,0,0,4948,5701,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+glibc,8001,0,0,1462,0,0,7558,8001,100.0,Korean <translation-team-ko@lists.sourceforge.net>
+glibc-arm-linux-gnu,8077,0,0,1473,0,0,7630,8077,100.0,Korean <translation-team-ko@googlegroups.com>
+glpi,574,0,10062,236,0,2569,447,10636,5.396765701391501,Korean (Korea) (http://www.transifex.com/glpi/GLPI/language/ko_KR/)
+gmusicbrowser,5209,0,139,1586,0,24,4649,5348,97.40089753178759,한국어
+gnome-abrt,354,0,85,57,0,18,304,439,80.6378132118451,Korean (http://www.transifex.com/projects/p/gnome-abrt/language/ko/)
+gnome-activity-journal,180,0,136,57,0,37,180,316,56.9620253164557,Korean <ko@li.org>
+gnome-backgrounds,30,0,0,18,0,0,28,30,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-bluetooth,1743,0,12,180,0,3,1308,1755,99.31623931623932,Korean <gnome-kr@googlegroups.com>
+gnome-boxes,3235,0,0,423,0,0,2402,3235,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-builder,152,0,1705,32,0,367,150,1857,8.185245018847603,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-calculator,7955,0,0,1420,0,0,5928,7955,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gnome-calendar,224,0,0,67,0,0,190,224,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-chess,4301,0,0,362,0,0,3036,4301,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-clocks,223,0,0,77,0,0,185,223,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-color-manager,1793,0,0,343,0,0,1373,1793,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-commander,6944,0,1547,1586,0,62,5584,8491,81.78070898598516,<>
+gnome-contacts,411,0,0,156,0,0,358,411,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-desktop,10014,0,0,303,0,0,7810,10014,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gnome-desktop3,9722,0,0,265,0,0,7533,9722,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gnome-dictionary,854,0,0,188,0,0,710,854,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-disk-utility,3435,0,0,636,0,0,2750,3435,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-do,599,0,13,140,0,4,469,612,97.87581699346404,Korean <ko@li.org>
+gnome-doc-utils,251,0,0,101,0,0,255,251,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-documents,1722,0,0,271,0,0,1252,1722,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-font-viewer,130,0,0,30,0,0,94,130,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-getting-started-docs,2639,0,0,339,0,0,1753,2639,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-icon-theme,43,0,0,38,0,0,45,43,100.0,GTP Korean <gnome-kr-translation@gnome.or.kr>
+gnome-initial-setup,638,0,0,109,0,0,465,638,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-keyring,553,0,0,112,0,0,488,553,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-klotski,195,0,0,62,0,0,152,195,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-libs,2119,40,48,778,4,9,1918,2207,96.01268690530131,Korean <ko@li.org>
+gnome-logs,140,0,0,42,0,0,113,140,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-mahjongg,304,0,0,63,0,0,241,304,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-maps,485,0,0,111,0,0,384,485,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-menus,70,0,0,27,0,0,61,70,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-mime-data,887,0,0,362,0,0,885,887,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gnome-mines,334,0,0,72,0,0,239,334,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-music,961,0,0,156,0,0,750,961,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-nettool,664,0,0,219,0,0,611,664,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-nibbles,386,0,0,93,0,0,306,386,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-online-accounts,1204,0,0,335,0,0,1064,1204,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-packagekit,3593,0,0,583,0,0,2726,3593,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-photos,732,0,0,163,0,0,569,732,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-pie,465,4,16,104,2,1,375,485,95.87628865979381,Korean
+gnome-power-manager,433,0,0,145,0,0,322,433,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-robots,629,0,0,107,0,0,470,629,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-screensaver,291,0,0,58,0,0,236,291,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-screenshot,455,0,0,78,0,0,353,455,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-search-tool,1767,808,494,237,71,36,1273,3069,57.57575757575758,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gnome-session,327,0,0,60,0,0,264,327,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-settings-daemon,2494,0,0,416,0,0,1900,2494,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-shell,1296,0,0,318,0,0,1053,1296,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-shell-extensions,380,0,0,70,0,0,305,380,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-software,1391,0,0,429,0,0,1135,1391,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-sound-recorder,253,0,0,65,0,0,183,253,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-sudoku,339,0,0,58,0,0,253,339,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-system-log,460,371,829,84,27,37,378,1660,27.710843373493976,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gnome-system-monitor,1289,0,0,292,0,0,1130,1289,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-taquin,229,0,0,47,0,0,177,229,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-terminal,2218,0,0,440,0,0,1847,2218,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-tetravex,220,0,0,45,0,0,149,220,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-themes,109,0,0,30,0,0,97,109,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gnome-themes-standard,24,0,0,9,0,0,17,24,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-tweak-tool,410,0,0,142,0,0,409,410,100.0,Korean <gnome-kr@googlegroups.com>
+gnome-user-share,160,0,0,29,0,0,126,160,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-vfs2,1519,0,0,305,0,0,1244,1519,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-video-effects,256,0,0,68,0,0,160,256,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnome-weather,184,0,0,42,0,0,147,184,100.0,한국어 <gnome-kr@googlegroups.com>
+gnomebaker,182,380,605,68,82,137,176,1167,15.5955441302485,Korean <ko@li.org>
+gnote,2291,0,0,345,0,0,1691,2291,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gnotime,114,334,1560,60,139,230,113,2008,5.677290836653386,Korean <ko@li.org>
+gnucash,8381,5675,15681,2426,1197,1002,6790,29737,28.183744157110667,Korean <yongdoria@gmail.com>
+gnumeric,2041,4080,28925,884,1343,3415,1856,35046,5.823774467842265,GTP Korean <gnome-kr-translation@gnome.or.kr>
+gobby,727,0,173,169,0,21,556,900,80.77777777777779,Korean <ko@li.org>
+goffice,888,1702,3611,415,728,858,825,6201,14.32027092404451,GTP Korean <gnome-kr-translation@gnome.or.kr>
+goffice08,1030,1114,2455,469,500,591,955,4599,22.396173081104585,GTP Korean <gnome-kr-translation@gnome.or.kr>
+gparted,2545,0,0,426,0,0,2065,2545,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gpicview,0,0,219,0,0,44,0,219,0.0,LANGUAGE <LL@li.org>
+gpodder,1867,0,12,501,0,1,1507,1879,99.36136242682278,
+grass,417,10323,46460,80,1835,7442,360,57200,0.7290209790209791,Korean <grass-translations@lists.osgeo.org>
+grep,11,111,821,4,23,85,11,943,1.166489925768823,Korean <ko@li.org>
+gridengine,1168,541,338,265,86,48,1112,2047,57.0591108939912,Korean <ko@li.org>
+grilo,187,0,0,36,0,0,166,187,100.0,Korean <gnome-kr@googlegroups.com>
+grilo-plugins,533,0,0,132,0,0,447,533,100.0,Korean <gnome-kr@googlegroups.com>
+grub-customizer,1160,0,135,181,0,12,1017,1295,89.57528957528957,Korean <ko@li.org>
+gscan2pdf,420,0,1204,170,0,303,382,1624,25.862068965517242,Korean <ko@li.org>
+gtg,339,0,3158,106,0,194,272,3497,9.694023448670288,Korean <ko@li.org>
+gthumb,2101,31,478,745,11,126,1897,2610,80.49808429118774,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gtick,155,167,16,83,4,9,146,338,45.857988165680474,jacojang <jacojang@jacojang.net>
+gtk+,404,0,0,210,0,0,400,404,100.0,Korean <ko@li.org>
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Korean <gnome-kr@googlegroups.com>
+gtk2,12381,0,0,2582,0,0,9875,12381,100.0,Gnome Korea <gnome-kr@googlegroups.com>
+gtk2-engines,119,0,0,47,0,0,122,119,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+gtk3,15070,0,0,3341,0,0,12077,15070,100.0,Gnome Korea <gnome-kr@googlegroups.com>
+gtkhtml3,488,0,0,310,0,0,498,488,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gtksourceview,891,0,0,366,0,0,835,891,100.0,GNOME Korean <gnome-kr-hackers@lists.kldp.net>
+gtksourceview2,1120,0,0,448,0,0,1040,1120,100.0,GNOME Korean <gnome-kr-hackers@lists.kldp.net>
+gtksourceview3,1106,0,0,613,0,0,1089,1106,100.0,GNOME Korean <gnome-kr@googlegroups.com>
+gtranslator,1672,0,0,390,0,0,1378,1672,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gucharmap,2952,0,0,527,0,0,2527,2952,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gvfs,2762,0,0,607,0,0,2506,2762,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+gwibber,586,0,183,171,0,33,488,769,76.20286085825748,Korean <ko@li.org>
+hamster-time-tracker,696,1,0,171,1,0,563,697,99.85652797704448,GNOME Korea <gnome-kr@googlegroups.com>
+hexchat,5762,0,0,1414,0,0,4931,5762,100.0,Korean (http://www.transifex.com/projects/p/hexchat/language/ko/)
+hibernate,9824,40217,4489,911,1431,222,10016,54530,18.01577113515496,none
+hibernate3,9824,40217,4489,911,1431,222,10016,54530,18.01577113515496,none
+hitori,171,0,0,35,0,0,120,171,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+homebank,448,10,1681,240,4,438,414,2139,20.944366526414214,Korean <ko@li.org>
+iagno,318,0,0,69,0,0,245,318,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+ibus,996,0,0,166,0,0,792,996,100.0,Korean <en@li.org>
+ibus-chewing,148,0,211,49,0,21,142,359,41.22562674094708,Korean
+ibus-hangul,99,0,0,26,0,0,81,99,100.0,Choe Hwanjin <choe.hwanjin@gmail.com>
+ibus-xkbc,61,0,0,28,0,0,60,61,100.0,LANGUAGE <LL@li.org>
+icewm,1327,2,17,235,1,7,1221,1346,98.5884101040119,Korean
+im-chooser,231,0,6,53,0,1,199,237,97.46835443037975,LANGUAGE <LL@li.org>
+imsettings,440,0,0,80,0,0,370,440,100.0,LANGUAGE <LL@li.org>
+indent,60,100,112,14,17,24,65,272,22.058823529411764,Korean <ko@li.org>
+initial-setup,85,0,0,18,0,0,68,85,100.0,Korean (http://www.transifex.com/projects/p/initial-setup/language/ko/)
+initscripts,915,68,20,143,12,3,844,1003,91.22632103688933,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+inkscape,19770,6386,8517,4351,2037,1015,15356,34673,57.0184293254117,<Dokdo@korea.land>
+iok,142,5,59,36,1,3,114,206,68.93203883495146,Korean <ko@li.org>
+iso-codes,2226,6022,15109,1166,4912,9286,1761,23357,9.530333518859441,Korean
+isomaster,46,1,627,29,1,77,44,674,6.824925816023739,http://littlesvr.ca/ostd/
+jmol,1522,39,1602,646,18,345,1366,3163,48.11887448624723,Korean <LL@li.org>
+jpilot,1571,589,914,517,107,139,1386,3074,51.1060507482108,Korean <translation-team-ko@lists.sourceforge.net>
+json-glib,303,0,0,44,0,0,238,303,100.0,Korean <gnome-kr@googlegroups.com>
+k3b,15435,4573,533,2151,322,61,13645,20541,75.14239813056814,Korean <cho.sungjae@gmail.com>
+kBuild,106,119,280,12,28,41,106,505,20.99009900990099,Korean <ko@li.org>
+kamoso,165,0,0,51,0,0,113,165,100.0,Korean <kde@peremen.name>
+kcm-gtk,11,0,113,5,0,16,10,124,8.870967741935484,Korean <peremen@gmail.com>
+kde-cli-tools,2102,0,0,214,0,0,1515,2102,100.0,Korean <kde@peremen.name>
+kde-connect,430,0,0,108,0,0,384,430,100.0,Korean <kde@peremen.name>
+kde-gtk-config,292,0,0,71,0,0,248,292,100.0,Korean <kde@peremen.name>
+kde-l10n,337205,17325,59488,74909,4716,9989,266611,414018,81.4469419203996,Korean <cho.sungjae@gmail.com>
+kde-plasma-nm,2917,13,9,992,3,1,2597,2939,99.25144607009186,Korean <kde@peremen.name>
+kdeplasma-addons,3992,0,0,1203,0,0,3279,3992,100.0,Korean <kde@peremen.name>
+kexec-tools,83,0,0,12,0,0,63,83,100.0,Korean <ko@li.org>
+kf5-baloo,209,24,295,63,6,49,173,528,39.58333333333333,Korean <kde@peremen.name>
+kf5-frameworkintegration,56,0,0,21,0,0,46,56,100.0,Korean <kde@peremen.name>
+kf5-kactivities,137,0,10,53,0,1,114,147,93.19727891156462,Korean <kde@peremen.name>
+kf5-kauth,58,0,0,8,0,0,49,58,100.0,Korean <kde@peremen.name>
+kf5-kbookmarks,218,0,0,48,0,0,177,218,100.0,Korean <kde@peremen.name>
+kf5-kcmutils,563,0,0,71,0,0,415,563,100.0,Korean <kde@peremen.name>
+kf5-kcodecs,348,0,0,53,0,0,263,348,100.0,Korean <kde@peremen.name>
+kf5-kcompletion,20,0,0,12,0,0,19,20,100.0,Korean <kde@peremen.name>
+kf5-kconfig,254,0,0,96,0,0,233,254,100.0,Korean <kde@peremen.name>
+kf5-kconfigwidgets,317,0,0,114,0,0,290,317,100.0,Korean <kde@peremen.name>
+kf5-kcoreaddons,265,0,0,80,0,0,235,265,100.0,Korean <kde@peremen.name>
+kf5-kdbusaddons,48,0,0,6,0,0,41,48,100.0,Korean <kde@peremen.name>
+kf5-kdeclarative,109,0,0,14,0,0,74,109,100.0,Korean <kde@peremen.name>
+kf5-kdelibs4support,4153,412,248,1936,281,147,3687,4813,86.28713899854561,Korean <kde@peremen.name>
+kf5-kdesignerplugin,54,0,0,9,0,0,41,54,100.0,Korean <kde@peremen.name>
+kf5-kdesu,19,0,0,7,0,0,18,19,100.0,Korean <kde-i18n@kldp.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Korean <kde@peremen.name>
+kf5-kdoctools,8,0,0,4,0,0,12,8,100.0,Korean <kde@peremen.name>
+kf5-kfilemetadata,126,0,2,66,0,1,133,128,98.4375,Korean <kde@peremen.name>
+kf5-kglobalaccel,71,0,0,9,0,0,49,71,100.0,Korean <kde@peremen.name>
+kf5-khtml,1720,0,3,311,0,1,1369,1723,99.82588508415554,Korean <kde@peremen.name>
+kf5-ki18n,124,0,0,110,0,0,122,124,100.0,Korean <kde@peremen.name>
+kf5-kiconthemes,37,0,0,20,0,0,38,37,100.0,Korean <kde@peremen.name>
+kf5-kinit,134,0,0,14,0,0,113,134,100.0,Korean <kde@peremen.name>
+kf5-kio,11649,52,14,1275,8,3,8386,11715,99.43661971830986,Korean <kde@peremen.name>
+kf5-kitemviews,7,0,0,4,0,0,8,7,100.0,Korean <kde@peremen.name>
+kf5-kjobwidgets,141,0,0,45,0,0,98,141,100.0,Korean <kde@peremen.name>
+kf5-kjsembed,248,0,0,44,0,0,222,248,100.0,Korean <kde@peremen.name>
+kf5-knewstuff,673,0,0,150,0,0,566,673,100.0,Korean <kde@peremen.name>
+kf5-knotifications,18,0,0,6,0,0,13,18,100.0,Korean <kde@peremen.name>
+kf5-knotifyconfig,129,0,0,17,0,0,84,129,100.0,Korean <kde@peremen.name>
+kf5-kpackage,383,6,34,85,1,3,334,423,90.54373522458629,Korean <kde@peremen.name>
+kf5-kparts,104,0,0,26,0,0,78,104,100.0,Korean <kde@peremen.name>
+kf5-kpeople,21,0,0,11,0,0,20,21,100.0,Korean <kde@peremen.name>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Korean <kde@peremen.name>
+kf5-kross,100,0,0,35,0,0,94,100,100.0,Korean <kde@peremen.name>
+kf5-krunner,15,0,0,3,0,0,9,15,100.0,Korean <kde@peremen.name>
+kf5-kservice,170,0,0,28,0,0,166,170,100.0,Korean <kde@peremen.name>
+kf5-ktexteditor,8727,12,3,1461,4,3,6778,8742,99.82841455044613,Korean <kde@peremen.name>
+kf5-ktextwidgets,462,0,0,122,0,0,358,462,100.0,Korean <kde@peremen.name>
+kf5-kunitconversion,4386,0,0,1858,0,0,2552,4386,100.0,Korean <kde@peremen.name>
+kf5-kwallet,1625,0,0,132,0,0,1243,1625,100.0,Korean <kde@peremen.name>
+kf5-kwidgetsaddons,1261,0,0,432,0,0,1184,1261,100.0,Korean <kde@peremen.name>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Korean <kde@peremen.name>
+kf5-kxmlgui,1538,0,0,226,0,0,1102,1538,100.0,Korean <kde@peremen.name>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Korean <kde@peremen.name>
+kf5-plasma,749,5,17,198,2,7,678,771,97.14656290531777,Korean <kde@peremen.name>
+kf5-solid,677,0,0,220,0,0,573,677,100.0,Korean <kde@peremen.name>
+kf5-sonnet,659,6,0,72,1,0,488,665,99.09774436090225,Korean <kde@peremen.name>
+kflickr,186,0,146,81,0,6,181,332,56.024096385542165,Korean <ko@li.org>
+kgamma,130,0,0,16,0,0,106,130,100.0,Korean <kde-i18n-doc@kde.org>
+khelpcenter,715,0,53,171,0,1,614,768,93.09895833333334,Korean <cho.sungjae@gmail.com>
+khotkeys,433,0,0,128,0,0,366,433,100.0,Korean <cho.sungjae@gmail.com>
+kicad,6116,0,0,2214,0,0,5966,6116,100.0,kicad team <jean-pierre.charras@ujf-grenoble.fr>
+kiconedit,722,0,4,153,0,2,564,726,99.44903581267218,Korean <cho.sungjae@gmail.com>
+kimchi,2529,0,1118,435,0,145,2074,3647,69.34466684946531,English
+kinfocenter,2958,0,0,1012,0,0,2743,2958,100.0,Korean <kde@peremen.name>
+kio_mtp,17,0,0,2,0,0,14,17,100.0,Korean <kde@peremen.name>
+kmenuedit,281,0,0,62,0,0,225,281,100.0,Korean <kde@peremen.name>
+konversation,5654,2889,1692,1077,355,197,4422,10235,55.24181729360039,Korean <kde@peremen.name>
+krusader,4316,2690,950,983,456,298,3565,7956,54.248366013071895,Korean <cho.sungjae@gmail.com>
+kscreen,159,0,0,42,0,0,128,159,100.0,Korean <kde@peremen.name>
+kscreenlocker,178,0,0,34,0,0,155,178,100.0,Korean <kde@peremen.name>
+ksig,85,0,0,26,0,0,70,85,100.0,Korean <cho.sungjae@gmail.com>
+ksshaskpass,43,0,0,12,0,0,38,43,100.0,Korean <kde@peremen.name>
+ksysguard,1082,0,0,233,0,0,788,1082,100.0,Korean <kde@peremen.name>
+kupfer,2065,138,276,595,43,54,1939,2479,83.29971762807584,Kim Boram <boramism@gmail.com>
+kwebkitpart,624,0,0,158,0,0,516,624,100.0,Korean <kde@peremen.name>
+kwin,6091,0,0,1075,0,0,4961,6091,100.0,Korean <kde@peremen.name>
+l3afpad,93,0,37,55,0,9,97,130,71.53846153846153,Korean
+leafpad,94,2,29,55,1,12,98,125,75.2,Korean
+lftp,1539,1040,1331,217,103,154,1315,3910,39.36061381074169,
+libbonobo,547,0,0,108,0,0,493,547,100.0,Korean <gnome-kr-translation@lists.sourceforge.net>
+libbonoboui,368,0,0,115,0,0,320,368,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+libcryptui,3012,0,0,654,0,0,2562,3012,100.0,Korean <gnome-kr@googlegroups.com>
+libfm,1565,0,0,390,0,0,1325,1565,100.0,Seong-ho Cho <darkcircle.0426@gmail.com>
+libgda,37,2717,8388,19,667,1368,38,11142,0.3320768264225453,Korean <gnome-kr-translation@lists.sourceforge.net>
+libgdata,673,0,0,82,0,0,457,673,100.0,Korean <gnome-kr@googlegroups.com>
+libgdl,604,0,0,92,0,0,499,604,100.0,GNOME Korean <gnome-kr@googlegroups.com>
+libgnome,1773,0,0,273,0,0,1468,1773,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+libgnome-keyring,44,0,0,9,0,0,38,44,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+libgnome-media-profiles,460,0,0,51,0,0,371,460,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,333,378,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+libgnomekbd,242,0,0,55,0,0,225,242,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+libgnomeprint22,168,0,0,98,0,0,150,168,100.0,Korean <gnome-kr-hackers@lists.kldp.net>
+libgnomeprintui22,481,0,0,154,0,0,384,481,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+libgnomeui,1309,0,0,334,0,0,1079,1309,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+libgsf,696,0,0,146,0,0,609,696,100.0,Korean <gnome-kr@googlegroups.com>
+libgtop2,126,0,0,40,0,0,103,126,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+libgweather,1274,0,4898,778,0,3799,1119,6172,20.641607258587168,GNOME Korea <gnome-kr@googlegroups.com>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libhangul,16,0,0,9,0,0,15,16,100.0,Korean <ko@li.org>
+libksysguard,3193,0,0,398,0,0,2432,3193,100.0,Korean <kde@peremen.name>
+libmatekbd,251,0,0,43,0,0,232,251,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+libmatemixer,242,0,0,126,0,0,253,242,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+libmateweather,6115,0,0,4548,0,0,5973,6115,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+libmx,40,0,0,16,0,0,31,40,100.0,
+libosinfo,0,0,1871,0,0,554,0,1871,0.0,Korean
+libpeas,111,0,0,34,0,0,91,111,100.0,Korean <gnome-kr@googlegroups.com>
+libpwquality,343,0,0,53,0,0,274,343,100.0,Korean (http://www.transifex.com/projects/p/libpwquality/language/ko/)
+libreoffice,476235,2193,63511,62558,611,12208,355204,541939,87.87612627989498,KOREAN <jihui.choi@gmail.com>
+libreport,1073,0,3402,187,0,360,937,4475,23.977653631284916,Korean (http://www.transifex.com/projects/p/libreport/language/ko/)
+librfm,795,487,1115,358,145,95,1373,2397,33.166458072590736,Korean <translation-team-ko@lists.sourceforge.net>
+libsecret,59,0,0,9,0,0,46,59,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+libsmbios,0,0,1630,0,0,290,0,1630,0.0,Korean
+libsoup,155,0,0,36,0,0,167,155,100.0,Korean <gnome-kr@googlegroups.com>
+libuser,1020,38,379,218,7,76,1049,1437,70.9812108559499,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+libvirt,22113,1699,28712,3874,230,4236,21123,52524,42.100753941055515,Korean (http://www.transifex.com/projects/p/libvirt/language/ko/)
+libvirt-glib,0,0,138,0,0,29,0,138,0.0,Korean (http://www.transifex.com/projects/p/libvirt-glib/language/ko/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+libwnck,1124,0,0,241,0,0,1023,1124,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+libwnck3,1084,0,0,230,0,0,985,1084,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+libxfce4ui,851,0,0,165,0,0,721,851,100.0,Korean (http://www.transifex.com/projects/p/libxfce4ui/language/ko/)
+libxfce4util,424,0,0,7,0,0,362,424,100.0,xfce-i18n <xfce-i18n@xfce.org>
+liferea,774,871,619,181,194,123,670,2264,34.187279151943464,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+light-locker,7,0,227,2,0,31,6,234,2.9914529914529915,Korean (http://www.transifex.com/projects/p/light-locker/language/ko/)
+lightdm,22,0,57,9,0,8,20,79,27.848101265822784,Korean <ko@li.org>
+lightdm-gtk,36,0,48,13,0,11,32,84,42.857142857142854,Korean <ko@li.org>
+lightsoff,1104,0,0,59,0,0,831,1104,100.0,Korean <gnome-kr@googlegroups.com>
+listen,1745,1,37,540,1,8,1543,1783,97.86876051598429,Korean <ko@li.org>
+liveusb-creator,87,143,419,9,26,78,76,649,13.405238828967642,Korean <ko@li.org>
+lxappearance,212,0,0,74,0,0,189,212,100.0,LANGUAGE <LL@li.org>
+lxappearance-obconf,196,0,0,27,0,0,163,196,100.0,
+lxdm,8,1,21,8,1,9,8,30,26.666666666666668,Korean <westporch@gmail.com>
+lxinput,72,0,0,24,0,0,61,72,100.0,LANGUAGE <LL@li.org>
+lxlauncher,0,0,51,0,0,11,0,51,0.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,89,97,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+lxmusic,0,0,203,0,0,89,0,203,0.0,LANGUAGE <LL@li.org>
+lxpanel,978,9,27,335,1,5,894,1014,96.44970414201184,Seong-ho Cho <darkcircle.0426@gmail.com>
+lxpolkit,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+lxrandr,0,0,122,0,0,27,0,122,0.0,LANGUAGE <LL@li.org>
+lxsession,0,0,36,0,0,14,0,36,0.0,LANGUAGE <LL@li.org>
+lxsession-edit,0,0,64,0,0,11,0,64,0.0,LANGUAGE <LL@li.org>
+lxshortcut,0,0,43,0,0,19,0,43,0.0,LANGUAGE <LL@li.org>
+lxtask,0,0,122,0,0,48,0,122,0.0,LANGUAGE <LL@li.org>
+lxterminal,5,2,137,2,1,82,4,144,3.4722222222222223,LANGUAGE <LL@li.org>
+mailman,9120,2206,12395,705,197,528,7238,23721,38.44694574427722,Korean <igrus@igrus.inha.ac.kr>
+mailnag,19,0,171,13,0,42,21,190,10.0,Korean <ko@li.org>
+make,588,1153,546,164,192,84,558,2287,25.710537822474862,Korean <ko@li.org>
+man-db,5,147,83,2,28,24,7,235,2.127659574468085,Korean <translation-team-ko@lists.sourceforge.net>
+marco,4078,0,0,414,0,0,3258,4078,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+mate-applets,10259,743,980,1241,44,88,7512,11982,85.6200968118845,MATE Korea <mate-kr-hackers@lists.kldp.net>
+mate-backgrounds,30,0,0,21,0,0,28,30,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-calc,7903,0,0,1326,0,0,5858,7903,100.0,MATE Korea <mate-kr-hackers@lists.kldp.net>
+mate-control-center,2751,0,0,655,0,0,2315,2751,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+mate-desktop,2413,0,0,334,0,0,1916,2413,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+mate-dialogs,631,0,0,149,0,0,577,631,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-icon-theme,43,0,0,38,0,0,45,43,100.0,GTP Korean <mate-kr-translation@mate.or.kr>
+mate-media,179,0,0,77,0,0,163,179,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-menus,97,0,0,37,0,0,89,97,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-netspeed,147,0,0,57,0,0,135,147,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-notification-daemon,152,0,0,37,0,0,129,152,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-panel,6047,0,5,749,0,1,4442,6052,99.91738268341044,MATE Korea <mate-kr-hackers@lists.kldp.net>
+mate-polkit,296,0,0,48,0,0,218,296,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-power-manager,2725,0,0,439,0,0,2216,2725,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+mate-screensaver,585,0,0,132,0,0,477,585,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-sensors-applet,290,0,0,102,0,0,245,290,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-session-manager,564,0,101,104,0,8,438,665,84.81203007518798,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-settings-daemon,1735,0,0,242,0,0,1311,1735,100.0,Korean (http://www.transifex.com/projects/p/MATE/language/ko/)
+mate-system-monitor,1211,0,0,294,0,0,1066,1211,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+mate-terminal,4992,0,0,610,0,0,3677,4992,100.0,MATE Korea <mate-kr-hackers@lists.kldp.net>
+mate-themes,55,0,0,10,0,0,43,55,100.0,Korean (http://www.transifex.com/mate/MATE/language/ko/)
+mate-user-guide,40057,4,0,2866,1,0,29505,40061,99.99001522677916,MATE Korea <mate-kr-hackers@lists.kldp.net>
+mate-utils,4224,1179,1323,731,98,73,3338,6726,62.801070472792155,MATE Korea <mate-kr-hackers@lists.kldp.net>
+mc,1634,7,2412,623,6,582,1475,4053,40.31581544534912,Korean (http://www.transifex.com/projects/p/mc/language/ko/)
+mcomix,564,482,1558,160,105,279,412,2604,21.658986175115206,
+meld,865,0,0,242,0,0,758,865,100.0,GNOME Korean <Gnome-kr-hackers@lists.kldp.net>
+menulibre,35,0,666,26,0,123,33,701,4.9928673323823105,Korean <ko@li.org>
+metacity,2040,0,0,310,0,0,1759,2040,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+midori,3541,0,0,796,0,0,3180,3541,100.0,Kim Boram <boramism@gmail.com>
+minetest,1,0,512,1,0,234,1,513,0.1949317738791423,LANGUAGE <LL@li.org>
+mingw-GConf2,4088,0,0,497,0,0,3534,4088,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+mingw-adwaita-icon-theme,4,0,0,2,0,0,4,4,100.0,GNOME Korea <gnome-kr@googlegroups.org>
+mingw-atk,440,0,0,169,0,0,396,440,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+mingw-colord,386,0,1499,97,0,106,304,1885,20.477453580901855,Korean (http://www.transifex.com/projects/p/colord/language/ko/)
+mingw-gdk-pixbuf,1478,0,0,228,0,0,1275,1478,100.0,Gnome Korea <gnome-kr@googlegroups.com>
+mingw-gettext,7396,1232,3022,883,571,1030,6059,11650,63.48497854077253,Korean <translation-team-ko@lists.sourceforge.net>
+mingw-glib-networking,161,0,0,29,0,0,145,161,100.0,Korean <gnome-kr@googlegroups.com>
+mingw-glib2,5701,0,0,886,0,0,4948,5701,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+mingw-gtk-vnc,8,0,0,3,0,0,8,8,100.0,Korean <gnome-kr@googlegroups.com>
+mingw-gtk2,12381,0,0,2582,0,0,9875,12381,100.0,Gnome Korea <gnome-kr@googlegroups.com>
+mingw-gtk3,15070,0,0,3341,0,0,12077,15070,100.0,Gnome Korea <gnome-kr@googlegroups.com>
+mingw-gtkhtml3,488,0,0,310,0,0,498,488,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+mingw-gtksourceview3,1106,0,0,613,0,0,1089,1106,100.0,GNOME Korean <gnome-kr@googlegroups.com>
+mingw-libgsf,696,0,0,146,0,0,609,696,100.0,Korean <gnome-kr@googlegroups.com>
+mingw-libsoup,155,0,0,36,0,0,167,155,100.0,Korean <gnome-kr@googlegroups.com>
+mingw-libvirt,22145,1580,28749,3879,214,4239,21153,52474,42.2018523459237,Korean (http://www.transifex.com/projects/p/libvirt/language/ko/)
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Korean (http://www.transifex.com/projects/p/libvirt-glib/language/ko/)
+mingw-p11-kit,469,7,0,80,1,0,324,476,98.52941176470588,Korean (http://www.transifex.com/projects/p/freedesktop/language/ko/)
+mingw-postgresql,1031,0,24,160,0,1,920,1055,97.72511848341232,EnterpriseDB translation team <dev-escalations@enterprisedb.com>
+mingw-qt5-qtwebkit,1409,627,595,329,132,111,1131,2631,53.55378183200305,GNOME Korea <gnome-kr@googlegroups.com>
+mingw-webkitgtk,1409,619,595,329,130,111,1131,2623,53.71711780404117,GNOME Korea <gnome-kr@googlegroups.com>
+mingw-webkitgtk3,1980,674,27,429,147,4,1609,2681,73.85303991048117,GNOME Korea <gnome-kr@googlegroups.com>
+mintmenu,5999,0,0,1234,0,0,4852,5999,100.0,Korean <ko@li.org>
+mlocate,406,175,0,50,1,0,377,581,69.87951807228916,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+moin,2321,796,1906,514,141,272,2040,5023,46.207445749552065,
+moodle,0,14,38,0,8,6,0,52,0.0,i18n@lists.horde.org
+moserial,757,0,0,115,0,0,593,757,100.0,Korean <gnome-kr-translation@lists.sourceforge.net>
+mousepad,909,0,0,247,0,0,754,909,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+mousetweaks,114,0,0,30,0,0,107,114,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+mozo,42,0,0,16,0,0,36,42,100.0,LANGUAGE <LL@li.org>
+msitools,68,0,0,25,0,0,62,68,100.0,Korean <gnome-kr@googlegroups.com>
+muffin,2038,0,0,272,0,0,1743,2038,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+multimedia-menus,56,0,0,22,0,0,62,56,100.0,Korean <ko@li.org>
+muon,1901,0,0,495,0,0,1543,1901,100.0,Korean <kde@peremen.name>
+mutt,3583,1101,892,835,178,136,3049,5576,64.25753228120516,Im Eunjea <eunjea@kldp.org>
+mutter,809,0,0,124,0,0,700,809,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+mypaint,2030,168,2015,633,13,83,1871,4213,48.18419178732495,Mypaint Korean <Mypaint Korean>
+nautilus,5079,0,0,868,0,0,3773,5079,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+nautilus-open-terminal,166,0,0,16,0,0,103,166,100.0,Ubuntu Korea <admin@ubuntu.or.kr>
+nautilus-sendto,45,0,0,8,0,0,38,45,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+ncmpc,688,27,73,249,9,18,665,788,87.30964467005076,Korean <ko@li.org>
+nemiver,1280,0,0,338,0,0,1030,1280,100.0,Korean <gnome-kr@googlegroups.com>
+nemo-extensions,795,0,7,190,0,2,683,802,99.12718204488779,Korean <ko@li.org>
+net6,255,0,49,62,0,6,248,304,83.88157894736842,Korean <ko@li.org>
+network-manager-applet,3304,0,0,743,0,0,2825,3304,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+neverball,214,0,2521,115,0,244,200,2735,7.824497257769653,Korean (http://www.transifex.com/projects/p/neverball/language/ko/)
+newt,4,0,0,4,0,0,4,4,100.0,Korean <cwryu@debian.org>
+notification-daemon,17,0,0,7,0,0,16,17,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+oggconvert,132,0,0,44,0,0,117,132,100.0,Korean <ko@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,109,158,100.0,LANGUAGE <LL@li.org>
+openerp,14506,0,34126,3975,0,3382,12066,48632,29.82809672643527,Korean <ko@li.org>
+openerp-client,1675,0,6054,438,0,136,1338,7729,21.671626342347004,Korean <ko@li.org>
+openerp7,14201,0,32551,3711,0,2934,11679,46752,30.375171115674192,Korean <ko@li.org>
+openstack-ceilometer,46,0,32,9,0,5,42,78,58.97435897435898,Korean (Korea) (http://www.transifex.com/projects/p/ceilometer/language/ko_KR/)
+openstack-cinder,109,0,15,21,0,3,108,124,87.90322580645162,Korean (Korea) (http://www.transifex.com/projects/p/cinder/language/ko_KR/)
+openstack-heat,46,0,99,9,0,16,42,145,31.724137931034484,Korean (Korea) (http://www.transifex.com/projects/p/heat/language/ko_KR/)
+openstack-keystone,45,0,65,9,0,9,42,110,40.909090909090914,Korean (Korea) (http://www.transifex.com/projects/p/keystone/language/ko_KR/)
+openstack-neutron,58,0,220,11,0,36,60,278,20.863309352517987,Korean (Korea) (http://www.transifex.com/projects/p/neutron/language/ko_KR/)
+openstack-nova,239,0,220,44,0,33,237,459,52.069716775599126,Korean (Korea) (http://www.transifex.com/projects/p/nova/language/ko_KR/)
+openstack-swift,0,0,0,0,0,0,0,0,0.0,Korean (Korea) (http://www.transifex.com/projects/p/swift/language/ko_KR/)
+orage,2931,0,0,1030,0,0,2505,2931,100.0,Korean (http://www.transifex.com/projects/p/xfce-apps/language/ko/)
+orca,1433,999,1275,579,351,340,1386,3707,38.6565956298894,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Korean (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ko/)
+p11-kit,469,7,0,80,1,0,324,476,98.52941176470588,Korean (http://www.transifex.com/projects/p/freedesktop/language/ko/)
+pacman,5389,0,0,894,0,0,4691,5389,100.0,Korean (http://www.transifex.com/toofishes/archlinux-pacman/language/ko/)
+pam,606,0,0,122,0,0,532,606,100.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+pam_krb5,7,0,0,4,0,0,8,7,100.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+pan,151,1496,1521,58,425,269,126,3168,4.766414141414142,Korean <gnome-kr-translation@lists.sourceforge.net>
+parole,918,0,0,273,0,0,834,918,100.0,Korean (http://www.transifex.com/projects/p/xfce-apps/language/ko/)
+passwd,315,0,0,55,0,0,322,315,100.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+pcmanfm,1210,0,0,296,0,0,1042,1210,100.0,Seong-ho Cho <darkcircle.0426@gmail.com>
+perl-Padre,1291,0,0,450,0,0,1308,1291,100.0,Korean
+pessulus,130,0,0,33,0,0,123,130,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+pgadmin3,9655,6163,1080,2695,1513,194,8189,16898,57.13693928275535,
+phatch,119,0,2434,30,0,794,113,2553,4.661182922052487,Korean <ko@li.org>
+php-horde-Horde-Alarm,6,4,3,2,2,1,4,13,46.15384615384615,i18n@lists.horde.org
+php-horde-Horde-Argv,1,3,56,1,3,9,1,60,1.6666666666666667,i18n@lists.horde.org
+php-horde-Horde-Browser,12,33,21,1,2,3,8,66,18.181818181818183,i18n@lists.horde.org
+php-horde-Horde-Cli,0,8,3,0,2,1,0,11,0.0,i18n@lists.horde.org
+php-horde-Horde-Compress,0,13,12,0,4,2,0,25,0.0,i18n@lists.horde.org
+php-horde-Horde-Core,183,493,366,97,121,44,151,1042,17.562380038387715,i18n@lists.horde.org
+php-horde-Horde-Crypt,192,60,80,48,20,11,136,332,57.831325301204814,i18n@lists.horde.org
+php-horde-Horde-Data,5,2,0,1,1,0,4,7,71.42857142857143,i18n@lists.horde.org
+php-horde-Horde-Date,4,9,23,4,2,5,4,36,11.11111111111111,i18n@lists.horde.org
+php-horde-Horde-Exception,0,2,2,0,1,1,0,4,0.0,i18n@lists.horde.org
+php-horde-Horde-Form,21,215,317,15,67,64,20,553,3.79746835443038,i18n@lists.horde.org
+php-horde-Horde-Icalendar,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Image,13,83,485,13,52,220,14,581,2.2375215146299485,i18n@lists.horde.org
+php-horde-Horde-Imsp,7,7,0,1,1,0,5,14,50.0,i18n@lists.horde.org
+php-horde-Horde-Itip,0,17,39,0,3,7,0,56,0.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,0,0,120,0,0,9,0,120,0.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,0,12,36,0,7,5,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,1,5,41,1,4,15,1,47,2.127659574468085,i18n@lists.horde.org
+php-horde-Horde-Nls,11,77,342,7,56,200,7,430,2.558139534883721,i18n@lists.horde.org
+php-horde-Horde-Perms,2,3,1,2,2,1,2,6,33.33333333333333,i18n@lists.horde.org
+php-horde-Horde-Prefs,3,27,2,2,5,1,4,32,9.375,i18n@lists.horde.org
+php-horde-Horde-Rpc,0,8,40,0,1,6,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Share,4,6,38,4,1,7,4,48,8.333333333333332,i18n@lists.horde.org
+php-horde-Horde-SyncMl,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,0,1,0,0,1,0,0,1,0.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,35,0,0,2,0,35,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,0,10,0,0,3,0,0,10,0.0,i18n@lists.horde.org
+php-horde-horde,618,1635,1188,163,466,224,444,3441,17.959895379250217,i18n@lists.horde.org
+php-horde-imp,1871,2631,0,513,570,0,1351,4502,41.559306974677924,i18n@lists.horde.org
+php-horde-ingo,505,333,172,164,71,29,412,1010,50.0,i18n@lists.horde.org
+php-horde-kronolith,1201,1703,886,298,403,88,883,3790,31.688654353562008,Korean <dev@lists.horde.org>
+php-horde-mnemo,489,46,35,133,8,4,362,570,85.78947368421052,Korean <i18n@lists.horde.org>
+php-horde-nag,635,694,272,197,149,30,485,1601,39.66271080574641,Korean <dev@lists.horde.org>
+php-horde-turba,674,838,323,192,194,49,486,1835,36.730245231607626,i18n@lists.horde.org
+picard,141,0,1484,97,0,376,155,1625,8.676923076923076,Korean (http://www.transifex.com/projects/p/musicbrainz/language/ko/)
+pidgin,10929,0,7629,2466,0,1482,9588,18558,58.89104429356612,Korean (http://www.transifex.com/projects/p/pidgin/language/ko/)
+pidgin-sipe,59,0,951,24,0,223,57,1010,5.841584158415842,Korean (http://www.transifex.com/stefanb/pidgin-sipe/language/ko/)
+pinta,1009,0,609,353,0,175,923,1618,62.36093943139679,Korean <ko@li.org>
+pitivi,1086,136,305,239,54,107,859,1527,71.11984282907662,Ubuntu Korean Translators <ubuntu-ko@lists.ubuntu.com>
+plank,184,0,0,48,0,0,162,184,100.0,Korean <ko@li.org>
+planner,1110,0,0,365,0,0,969,1110,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+plasma-breeze,255,0,0,96,0,0,256,255,100.0,Korean <kde@peremen.name>
+plasma-desktop,12798,8,0,2349,3,0,9867,12806,99.93752928314854,Korean <cho.sungjae@gmail.com>
+plasma-mediacenter,172,0,0,87,0,0,164,172,100.0,Korean <kde@peremen.name>
+plasma-milou,33,0,0,14,0,0,29,33,100.0,Korean <kde@peremen.name>
+plasma-nm,4014,0,0,1075,0,0,3441,4014,100.0,Korean <kde@peremen.name>
+plasma-oxygen,789,0,0,291,0,0,760,789,100.0,Korean <kde@peremen.name>
+plasma-pa,69,0,0,30,0,0,64,69,100.0,Korean <kde@peremen.name>
+plasma-sdk,662,0,771,209,0,120,563,1433,46.19678995115143,Korean <kde@peremen.name>
+plasma-systemsettings,186,0,0,43,0,0,150,186,100.0,Korean <kde@peremen.name>
+plasma-user-manager,277,0,0,45,0,0,176,277,100.0,Korean <kde@peremen.name>
+plasma-workspace,11480,44,0,2868,5,0,9157,11524,99.61818812912183,Korean <kde@peremen.name>
+pluma,12739,0,0,1801,0,0,9514,12739,100.0,MATE Korea <mate-kr@googlegroups.com>
+pmount,34,0,689,6,0,57,26,723,4.702627939142462,Korean <ko@li.org>
+po4a,486,3,1452,77,1,129,463,1941,25.0386398763524,Korean <debian-l10n-korean@lists.debian.org>
+poedit,2461,0,0,524,0,0,1961,2461,100.0,Korean
+pogo,144,0,432,36,0,65,97,576,25.0,Korean <ko@li.org>
+polari,375,0,0,97,0,0,318,375,100.0,Korean <gnome-kr@googlegroups.com>
+policycoreutils,5384,444,1850,766,88,224,4963,7678,70.12242771555093,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+polkit-gnome,94,0,0,16,0,0,65,94,100.0,Korean <gnome-kr@googlegroups.com>
+polkit-kde,94,0,0,28,0,0,80,94,100.0,Korean <kde@peremen.name>
+popt,61,8,15,24,2,5,61,84,72.61904761904762,GNU Translation project <ko@li.org>
+postgresql,1031,0,24,160,0,1,920,1055,97.72511848341232,EnterpriseDB translation team <dev-escalations@enterprisedb.com>
+powerdevil,543,0,0,102,0,0,458,543,100.0,Korean <kde@peremen.name>
+pragha,786,0,16,240,0,4,650,802,98.00498753117208,Korean (Korea) (http://www.transifex.com/projects/p/Pragha/language/ko_KR/)
+proftpd,823,0,0,198,0,0,794,823,100.0,Korean User Group
+publican,1751,66,3626,124,2,490,1417,5443,32.169759323902255,Korean <ko@li.org>
+publican-fedora,6,0,101,1,0,7,2,107,5.607476635514018,Korean <ko@li.org>
+publican-jboss,120,3,109,9,1,4,83,232,51.724137931034484,Korean <ko@li.org>
+publican-redhat,220,0,0,13,0,0,145,220,100.0,Korean <ko@li.org>
+pychess,70,0,3021,39,0,599,68,3091,2.2646392753154316,Korean <ko@li.org>
+pykickstart,336,0,112,35,0,15,275,448,75.0,Korean (http://www.transifex.com/projects/p/pykickstart/language/ko/)
+python-blivet,284,0,394,44,0,96,251,678,41.88790560471977,Korean (http://www.transifex.com/projects/p/blivet/language/ko/)
+python-django,2973,0,354,699,0,47,2153,3327,89.35978358881876,Korean (http://www.transifex.com/projects/p/django/language/ko/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Korean (http://www.transifex.com/projects/p/django-formtools/language/ko/)
+python-django-horizon,13521,0,0,2736,0,0,11228,13521,100.0,Korean (Korea) (http://www.transifex.com/projects/p/horizon/language/ko_KR/)
+python-django-keyedcache,8,0,0,5,0,0,8,8,100.0,LANGUAGE <LL@li.org>
+python-django-openstack-auth,120,0,0,21,0,0,111,120,100.0,Korean (Korea) (http://www.transifex.com/projects/p/horizon/language/ko_KR/)
+python-django-registration,84,0,0,17,0,0,63,84,100.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,398,0,95,59,0,15,330,493,80.73022312373224,Korean (Korea) (http://www.transifex.com/projects/p/django-rest-framework/language/ko_KR/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Korean
+python-humanize,78,19,0,33,19,0,54,97,80.41237113402062,ko_KR <LL@li.org>
+python-lettuce,7500,0,191,2325,0,128,6145,7691,97.5165778182291,Korean
+python-meh,1,0,108,1,0,22,1,109,0.9174311926605505,Korean (http://www.transifex.com/projects/p/python-meh/language/ko/)
+python-nikola,64,0,9,27,0,3,56,73,87.67123287671232,Korean (http://www.transifex.com/projects/p/nikola/language/ko/)
+python-oslo-i18n,24,0,0,2,0,0,19,24,100.0,Korean (Korea) (http://www.transifex.com/projects/p/osloi18n/language/ko_KR/)
+python-sphinx,318,0,175,139,0,38,297,493,64.50304259634888,Korean (http://www.transifex.com/projects/p/sphinx-1/language/ko/)
+qt3,483,0,0,201,0,0,497,483,100.0,
+qt5-qtwebkit,1409,627,595,329,132,111,1131,2631,53.55378183200305,GNOME Korea <gnome-kr@googlegroups.com>
+qtcurve,5727,0,0,755,0,0,4702,5727,100.0,Korean <kde-i18n-doc@kde.org>
+qtcurve-kde4,5818,0,0,758,0,0,4772,5818,100.0,Korean <kde-i18n-doc@kde.org>
+qtwebkit,1431,5,0,334,1,0,1146,1436,99.65181058495823,GNOME Korea <gnome-kr@googlegroups.com>
+quadrapassel,428,0,0,79,0,0,316,428,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+quassel,2541,0,2841,648,0,563,2231,5382,47.21293199554069,Korean (http://www.transifex.com/ald/quassel/language/ko/)
+quodlibet,1138,917,3119,361,306,581,979,5174,21.994588326246618,The FreeBSD Korean Documentation Project <doc@kr.FreeBSD.org>
+radiotray,117,0,13,43,0,3,110,130,90.0,Korean (http://www.transifex.com/projects/p/radiotray/language/ko/)
+realmd,369,0,409,65,0,60,330,778,47.429305912596405,Korean (http://www.transifex.com/projects/p/freedesktop/language/ko/)
+redhat-menus,261,0,0,86,0,0,247,261,100.0,Korean <ko@li.org>
+rednotebook,660,0,487,149,0,91,561,1147,57.54141238012206,Korean <ko@li.org>
+remmina,1072,0,78,307,0,35,959,1150,93.21739130434783,Korean <ko@li.org>
+renameutils,9,179,77,7,31,16,11,265,3.3962264150943398,Korean <translation-team-ko@lists.sourceforge.net>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Korean
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,2738,0,1365,352,0,71,2185,4103,66.73165976115037,Korean (http://www.transifex.com/projects/p/spacewalk/language/ko/)
+rhnsd,20,0,17,5,0,4,20,37,54.054054054054056,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+rhythmbox,4809,0,0,1134,0,0,4232,4809,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+ristretto,741,0,0,188,0,0,652,741,100.0,Korean (http://www.transifex.com/projects/p/xfce-apps/language/ko/)
+rodent,1133,675,7994,443,187,242,1013,9802,11.558865537645378,
+rpm,1899,27,1874,382,5,363,1886,3800,49.973684210526315,Korean (http://www.transifex.com/projects/p/rpm/language/ko/)
+rsibreak,236,190,878,56,16,91,196,1304,18.098159509202453,Korean <cho.sungjae@gmail.com>
+rygel,1230,0,0,244,0,0,1118,1230,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+sakura,188,14,3,63,5,1,164,205,91.70731707317074,Korean <ko@li.org>
+samba,187,67,270,31,18,79,148,524,35.68702290076336,Novell Language <language@novell.com>
+sawfish,2247,1624,2572,514,274,194,1834,6443,34.8750582027006,Korean <ko@li.org>
+scim,1164,0,0,280,0,0,844,1164,100.0,
+scim-array,79,6,19,17,1,7,50,104,75.96153846153845,scim-array
+scim-hangul,214,0,0,40,0,0,152,214,100.0,Korean
+scim-pinyin,204,430,0,58,28,0,183,634,32.17665615141956,Korean
+scim-tables,1003,115,0,154,4,0,729,1118,89.71377459749553,Korean <en@li.org>
+scratch,1461,4,5,621,2,3,1387,1470,99.38775510204081,
+sddm-kcm,62,0,0,32,0,0,64,62,100.0,Korean <kde@peremen.name>
+seahorse,2486,0,0,570,0,0,2112,2486,100.0,Korean <gnome-kr@googlegroups.com>
+seahorse-nautilus,421,0,0,110,0,0,360,421,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+sed,58,139,351,10,31,50,64,548,10.583941605839415,Korean <ko@li.org>
+setroubleshoot,656,0,0,177,0,0,593,656,100.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+setroubleshoot-plugins,9431,0,399,455,0,21,7455,9830,95.94099694811801,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+setuptool,55,0,0,14,0,0,54,55,100.0,Korean <ko@li.org>
+sflphone,759,0,302,233,0,104,625,1061,71.53628652214891,Korean <ko@li.org>
+shadow-utils,1773,940,1210,302,127,153,1671,3923,45.19500382360439,Korean <debian-l10n-korean@lists.debian.org>
+shared-mime-info,1756,0,0,686,0,0,1859,1756,100.0,Korean (http://www.transifex.com/projects/p/shared-mime-info/language/ko/)
+shotwell,4825,0,0,1006,0,0,3757,4825,100.0,Korean (http://www.transifex.com/projects/p/shotwell/language/ko/)
+shutter,2318,0,775,508,0,98,1738,3093,74.94342062722275,Korean <ko@li.org>
+simple-ccsm,67,0,0,44,0,0,74,67,100.0,Korean <bugbear5@gmail.com>
+skanlite,148,21,14,52,7,4,112,183,80.87431693989072,Korean <cho.sungjae@gmail.com>
+skrooge,2899,4231,2705,758,1017,396,2626,9835,29.47635993899339,Korean <kde@peremen.name>
+slrn,4509,563,279,824,48,78,3665,5351,84.264623434872,Korean - Im Eunjea <eunjea@kldp.org>
+smb4k,16,0,2,11,0,2,18,18,88.88888888888889,Korean <kde@peremen.name>
+snapper,639,0,0,166,0,0,625,639,100.0,<en@li.org>
+sos,200,67,0,35,1,0,162,267,74.90636704119851,<ko@li.org>
+sound-juicer,1273,0,0,229,0,0,1152,1273,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+soundconverter,183,0,205,85,0,36,191,388,47.16494845360825,Korean <ko@li.org>
+spacefm,324,8,8390,144,3,1421,296,8722,3.7147443246961704,Korean (http://www.transifex.com/projects/p/spacefm/language/ko/)
+spe,761,0,0,163,0,0,633,761,100.0,Gnome-kr-hackers <gnome-kr-hackers@lists.kldp.net>
+squirrelmail,3162,1625,2163,868,275,223,2561,6950,45.49640287769784,Korean <squirrelmail-i18n@lists.sourceforge.org>
+steadyflow,423,0,47,88,0,5,296,470,90.0,Korean <ko@li.org>
+stellarium,9986,0,5976,2517,0,1758,7608,15962,62.561082571106375,Korean <ko@li.org>
+subdownloader,549,0,419,221,0,51,454,968,56.71487603305785,LANGUAGE <LL@li.org>
+subscription-manager,5161,0,277,940,0,26,4411,5438,94.90621552041192,Korean
+subversion,18741,0,2867,2117,0,63,16345,21608,86.73176601258793,Korean <dev@subversion.tigris.org>
+sudo,3548,0,0,531,0,0,3082,3548,100.0,Korean <translation-team-ko@googlegroups.com>
+sugar,66,9,1658,14,2,403,50,1733,3.8084246970571263,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,28,18,143,19,2,31,25,189,14.814814814814813,LANGUAGE <LL@li.org>
+sugar-calculator,33,0,838,8,0,156,35,871,3.788748564867968,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,21,6,28,9,2,23,17,55,38.18181818181819,LANGUAGE <LL@li.org>
+sugar-clock,0,1,58,0,1,17,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,143,0,0,32,0,143,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,18,0,33,9,0,4,17,51,35.294117647058826,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,4,0,61,3,0,17,4,65,6.153846153846154,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,37,8,53,12,2,7,39,98,37.755102040816325,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,42,17,98,39,16,54,43,157,26.751592356687897,Language locale/ko
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,42,15,52,14,1,16,35,109,38.53211009174312,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,24,0,90,14,0,28,23,114,21.052631578947366,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,11,0,4,6,0,2,11,15,73.33333333333333,LANGUAGE <LL@li.org>
+sugar-toolkit,63,1,9,31,1,5,50,73,86.3013698630137,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,67,0,9,35,0,5,54,76,88.1578947368421,LANGUAGE <LL@li.org>
+sugar-turtleart,74,40,1331,55,26,350,73,1445,5.1211072664359865,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-write,63,0,58,37,0,18,63,121,52.066115702479344,LANGUAGE <LL@li.org>
+supertux,582,0,1241,189,0,240,539,1823,31.925397696105325,Korean (http://www.transifex.com/arctic-games/supertux/language/ko/)
+sushi,24,0,0,11,0,0,22,24,100.0,Korean <gnome-kr@googlegroups.com>
+swell-foop,261,0,0,52,0,0,176,261,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+switchdesk,139,0,0,20,0,0,108,139,100.0,Korean <ko@li.org>
+sylpheed,3134,2048,1921,951,547,261,2794,7103,44.12220188652682,Korean <gnome-kr-translation@lists.sourceforge.net>
+synapse,780,0,44,214,0,13,700,824,94.66019417475728,Kim Boram <Boramism@gmail.com>
+synaptic,1803,710,718,459,135,68,1455,3231,55.80315691736305,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+syncevolution,1132,0,0,163,0,0,846,1132,100.0,Korean (http://www.transifex.net/projects/p/meego/team/ko/)
+system-config-audit,1241,0,0,267,0,0,1079,1241,100.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+system-config-bind,9434,0,0,1065,0,0,7193,9434,100.0,Korean <ko@li.org>
+system-config-date,470,0,1380,52,0,772,365,1850,25.405405405405407,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+system-config-date-docs,568,160,33,53,9,2,360,761,74.63863337713535,ko <neuezeal@gmail.com>
+system-config-firewall,2807,0,7,330,0,1,2231,2814,99.75124378109453,Korean <ko@li.org>
+system-config-kdump,866,0,11,151,0,5,754,877,98.74572405929305,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+system-config-keyboard,187,0,0,81,0,0,174,187,100.0,Korean <ko@li.org>
+system-config-kickstart,1144,0,0,253,0,0,1013,1144,100.0,Korean (http://www.transifex.com/projects/p/system-config-kickstart/language/ko/)
+system-config-language,46,69,82,9,9,11,38,197,23.3502538071066,Korean <ko@li.org>
+system-config-network,3022,10,0,718,3,0,2668,3032,99.67018469656992,Korean <en@li.org>
+system-config-nfs,332,0,0,72,0,0,281,332,100.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+system-config-nfs-docs,84,80,1028,16,2,53,68,1192,7.046979865771812,LANGUAGE <LL@li.org>
+system-config-printer,3048,7,103,730,6,19,2706,3158,96.51678277390754,Korean (http://www.transifex.com/projects/p/system-config-printer/language/ko/)
+system-config-rootpassword,116,0,0,19,0,0,87,116,100.0,Korean <ko@li.org>
+system-config-samba,444,0,127,126,0,8,378,571,77.75831873905429,Korean (http://www.transifex.net/projects/p/fedora/language/ko/)
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,511,0,23,70,0,2,421,534,95.69288389513109,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1436,0,85,172,0,8,1092,1521,94.41157133464826,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,69,81,100.0,Korean <ko@li.org>
+system-switch-mail,158,0,0,24,0,0,136,158,100.0,Korean <ko@li.org>
+tali,418,0,0,96,0,0,327,418,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+tar,176,731,2636,44,118,415,172,3543,4.967541631385831,Korean <ko@li.org>
+terminator,649,0,662,223,0,170,575,1311,49.50419527078566,Korean <ko@li.org>
+terminology,344,4,448,128,2,73,318,796,43.21608040201005,Korean
+termit,37,1,12,12,1,9,42,50,74.0,
+thunar-archive-plugin,86,0,0,13,0,0,54,86,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+thunar-media-tags-plugin,156,0,0,58,0,0,140,156,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+thunar-vfs,335,6,46,66,1,19,234,387,86.56330749354005,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+thunar-volman,487,0,0,113,0,0,373,487,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+tomboy,3315,0,0,474,0,0,2463,3315,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+tortoisehg,638,0,11388,213,0,2103,588,12026,5.305172127058041,Korean <ko@li.org>
+totem,1449,0,0,384,0,0,1150,1449,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+totem-pl-parser,29,0,0,8,0,0,23,29,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+trac,13230,0,0,1490,0,0,10662,13230,100.0,Korean (http://www.transifex.com/projects/p/trac/language/ko/)
+trac-spamfilter-plugin,2658,0,0,429,0,0,2226,2658,100.0,Korean (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/ko/)
+tracker,3762,0,0,598,0,0,2979,3762,100.0,Gnome Korea <gnome-kr@googlegroups.com>
+transmission,1809,0,0,494,0,0,1726,1809,100.0,Korean <ko@li.org>
+transmission-remote-gtk,346,0,456,178,0,168,365,802,43.14214463840399,none
+tumbler,278,0,0,44,0,0,233,278,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+tuxpaint,1591,0,0,291,0,0,1079,1591,100.0,N/A
+tuxpaint-stamps,545,706,1460,135,271,244,316,2711,20.103282921431205,
+tvtime,753,17,457,184,5,62,713,1227,61.36919315403423,Korean Translation Team <translation-team-ko@lists.sourceforge.net>
+udisks2,1525,0,0,413,0,0,1308,1525,100.0,Korean (http://www.transifex.com/projects/p/udisks/language/ko/)
+ufraw,2064,96,12,410,13,2,1798,2172,95.02762430939227,Gnome-kr-hackers <gnome-kr@googlegroups.com>
+uim,861,0,5444,220,0,1623,689,6305,13.655828707375099,Korean <LL@li.org>
+usermode,570,0,3,95,0,1,489,573,99.47643979057592,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+vidalia,4211,0,6260,985,0,321,3429,10471,40.21583420876707,LANGUAGE <LL@li.org>
+viking,4,0,4131,4,0,1052,4,4135,0.09673518742442563,Korean <ko@li.org>
+vim,8568,0,0,1728,0,0,8103,8568,100.0,GTP Korean <gnome-kr-translation@gnome.or.kr>
+vinagre,1507,0,0,275,0,0,1216,1507,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+vino,1228,0,0,134,0,0,919,1228,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+virt-manager,3118,14,4820,815,4,787,2933,7952,39.2102615694165,Korean (http://www.transifex.com/projects/p/virt-manager/language/ko/)
+virt-viewer,513,0,179,110,0,38,461,692,74.13294797687861,Korean (http://www.transifex.com/projects/p/virt-viewer/language/ko/)
+virtaal,985,72,376,249,20,157,798,1433,68.73691556175855,Korean Team
+volume_key,745,0,0,151,0,0,712,745,100.0,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+vte,80,0,0,13,0,0,80,80,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+vte291,83,0,0,16,0,0,78,83,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+vte3,80,0,0,13,0,0,80,80,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+wammu,1567,878,2785,373,186,353,1412,5230,29.961759082217977,Korean <http://hosted.weblate.org/projects/gammu/wammu-doc/ko/>
+warzone2100,12408,305,524,2638,81,79,11256,13237,93.73725164312155,Korean Translation Team <urgood2@gmail.com>
+wdiff,5,97,18,2,20,9,7,120,4.166666666666666,Korean <translation-team-ko@lists.sourceforge.net>
+webkitgtk,1980,674,27,429,147,4,1609,2681,73.85303991048117,GNOME Korea <gnome-kr@googlegroups.com>
+webkitgtk3,1980,674,27,429,147,4,1609,2681,73.85303991048117,GNOME Korea <gnome-kr@googlegroups.com>
+webkitgtk4,2622,0,1,569,0,1,2057,2623,99.96187571483036,GNOME Korea <gnome-kr@googlegroups.com>
+weld-core,1129,8264,23906,123,446,970,860,33299,3.390492206973182,Korean <ko@li.org>
+wesnoth,103893,5880,146243,7810,480,8065,73978,256016,40.580666833322915,none
+wicd,851,0,287,180,0,74,783,1138,74.78031634446397,ko <LL@li.org>
+widelands,353,0,4587,176,0,848,331,4940,7.145748987854252,Korean <ko@li.org>
+wine,12890,1338,342,3152,93,51,11331,14570,88.46945778997942,Korean
+wireshark,79,0,0,4,0,0,47,79,100.0,Korean <debian-l10n-korean@lists.debian.org>
+workrave,1156,28,137,226,17,19,887,1321,87.50946252838759,Korean <freeware@softwant.com>
+wxGTK3,5799,1078,805,1274,299,272,5118,7682,75.48815412652955,Korean <Korean>
+wxGlade,761,0,0,163,0,0,633,761,100.0,Gnome-kr-hackers <gnome-kr-hackers@lists.kldp.net>
+wxPython,6512,1084,2543,1530,304,748,5746,10139,64.22724134530033,Korean <Korean>
+xchat,5007,10,10,1228,2,2,4367,5027,99.6021483986473,Korean <translation-team-ko@lists.sourceforge.net>
+xchat-gnome,2442,289,1170,700,60,220,2079,3901,62.59933350422968,Korean <translation-team-ko@lists.sourceforge.net>
+xdg-user-dirs,28,0,0,28,0,0,30,28,100.0,Korean <translation-team-ko@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,72,81,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+xfbib,342,0,0,75,0,0,278,342,100.0,xfce-i18n <xfce-i18n@xfce.org>
+xfburn,1375,0,0,303,0,0,1128,1375,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfce4-appfinder,322,0,0,70,0,0,242,322,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfce4-battery-plugin,149,0,0,43,0,0,128,149,100.0,xfce-i18n <xfce-i18n@xfce.org>
+xfce4-clipman-plugin,399,0,0,67,0,0,280,399,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,118,140,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfce4-cpugraph-plugin,76,0,0,37,0,0,70,76,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-datetime-plugin,52,0,0,19,0,0,45,52,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-dict,518,0,0,111,0,0,401,518,100.0,xfce-i18n <xfce-i18n@xfce.org>
+xfce4-diskperf-plugin,183,0,0,38,0,0,167,183,100.0,xfce-i18n <xfce-i18n@xfce.org>
+xfce4-embed-plugin,219,0,0,33,0,0,154,219,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-eyes-plugin,15,0,0,4,0,0,11,15,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-fsguard-plugin,71,0,0,19,0,0,60,71,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-genmon-plugin,85,0,0,19,0,0,70,85,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,325,356,100.0,GNOME Korea <gnome-kr-hackers@lists.kldp.net>
+xfce4-mailwatch-plugin,660,0,0,108,0,0,569,660,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfce4-mixer,94,29,58,12,11,13,67,181,51.93370165745856,xfce-i18n <xfce-i18n@xfce.org>
+xfce4-mount-plugin,338,0,3,52,0,2,275,341,99.12023460410558,xfce-i18n <xfce-i18n@xfce.org>
+xfce4-mpc-plugin,76,0,0,24,0,0,76,76,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfce4-netload-plugin,84,0,8,30,0,5,81,92,91.30434782608695,Korean (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ko/)
+xfce4-notes-plugin,163,0,0,57,0,0,138,163,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-notifyd,98,0,0,29,0,0,94,98,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-panel,1705,0,0,394,0,0,1404,1705,100.0,Korean (http://www.transifex.com/projects/p/xfce4-panel/language/ko/)
+xfce4-places-plugin,160,0,0,45,0,0,125,160,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfce4-power-manager,979,0,0,205,0,0,854,979,100.0,Korean (http://www.transifex.com/projects/p/xfce4-power-manager/language/ko/)
+xfce4-screenshooter,550,0,0,81,0,0,365,550,100.0,Korean (http://www.transifex.com/projects/p/xfce-apps/language/ko/)
+xfce4-sensors-plugin,354,0,0,72,0,0,312,354,100.0,xfce-i18n <xfce-i18n@xfce.org>
+xfce4-session,1066,0,0,208,0,0,869,1066,100.0,xfce-i18n <xfce-i18n@xfce.org>
+xfce4-settings,1617,0,0,354,0,0,1331,1617,100.0,Korean (http://www.transifex.com/projects/p/xfce4-settings/language/ko/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,20,22,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-systemload-plugin,75,0,0,24,0,0,61,75,100.0,Korean (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ko/)
+xfce4-taskmanager,214,0,0,75,0,0,186,214,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-terminal,2034,0,0,392,0,0,1573,2034,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-time-out-plugin,88,0,0,31,0,0,73,88,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@lists.sourceforge.net>
+xfce4-timer-plugin,131,3,0,41,1,0,112,134,97.76119402985076,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfce4-verve-plugin,47,0,0,10,0,0,37,47,100.0,xfce4-users-kr-i18n <xfce4-users-kr-i18n@users.sourceforge.net>
+xfce4-wavelan-plugin,51,0,0,12,0,0,41,51,100.0,xfce-i18n <xfce-i18n@xfce.org>
+xfce4-weather-plugin,3668,0,0,330,0,0,2631,3668,100.0,Korean (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ko/)
+xfce4-xkb-plugin,43,0,0,17,0,0,41,43,100.0,Korean (http://www.transifex.com/projects/p/xfce/language/ko/)
+xfconf,452,0,0,67,0,0,373,452,100.0,Korean (http://www.transifex.com/projects/p/xfconf/language/ko/)
+xfdesktop,979,0,0,222,0,0,804,979,100.0,Korean (http://www.transifex.com/projects/p/xfdesktop/language/ko/)
+xfwm4,673,0,0,173,0,0,589,673,100.0,Korean (http://www.transifex.com/projects/p/xfwm4/language/ko/)
+xiphos,4727,0,0,1090,0,0,4127,4727,100.0,Seong-ho Cho <shcho@gnome.org>
+xkeyboard-config,3564,0,0,1055,0,0,2999,3564,100.0,Korean <translation-team-ko@lists.sourceforge.net>
+xmms,3177,65,201,1003,17,25,2904,3443,92.27417949462678,GTP Korean <gnome-kr-translation@gnome.or.kr>
+xpad,172,0,234,47,0,78,157,406,42.364532019704434,Korean <translation-team-ko@lists.sourceforge.net>
+xscreensaver,843,723,9624,377,390,1067,774,11190,7.533512064343164,Korean <ko@li.org>
+yakuake,1214,81,225,199,6,15,873,1520,79.86842105263158,Korean <cho.sungjae@gmail.com>
+yelp,452,0,0,104,0,0,349,452,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+yelp-xsl,81,0,0,59,0,0,79,81,100.0,GNOME Korea <gnome-kr@googlegroups.com>
+yum-rhn-plugin,45,39,63,7,3,7,34,147,30.612244897959183,Korean (http://www.transifex.com/projects/p/fedora/language/ko/)
+yumex,503,0,491,160,0,114,468,994,50.6036217303823,Korean (http://www.transifex.com/projects/p/yumex/language/ko/)
+yumex-dnf,0,0,798,0,0,203,0,798,0.0,Korean (http://www.transifex.com/projects/p/yumex/language/ko/)
+zabbix,1244,22,14253,629,5,2678,1235,15519,8.015980411108965,Zabbix <info@zabbix.com>
+zenity,877,0,0,190,0,0,788,877,100.0,GNOME Korea <gnome-kr@googlegroups.com>

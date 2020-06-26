@@ -1,0 +1,57 @@
+---
+title: "gnome-devel-docs - translation progress for f16"
+package: gnome-devel-docs
+date: 2026-01-20T02:19:57+00:00
+started_languages: 19
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 53
+release: f16
+---
+The package gnome-devel-docs (version 3.2.1):
+
+* represents 82543 source words to be translated
+* is translated into 19 languages in Fedora f16
+
+
+* contains 53 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ca]({{< ref "/f16/language/ca.md" >}}) | 3365 | 3365 | 100.0 | /mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/ca/ca.po | 
+ | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/en_GB/en_GB.po | 
+ | [fr]({{< ref "/f16/language/fr.md" >}}) | 66961 | 66961 | 100.0 | /mnt/stockage/packages/f16/gnome-devel-docs/accessibility-devel-guide/fr/fr.po/mnt/stockage/packages/f16/gnome-devel-docs/hig/fr/fr.po/mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/fr/fr.po/mnt/stockage/packages/f16/gnome-devel-docs/optimization-guide/fr/fr.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/fr/fr.po | 
+ | [ru]({{< ref "/f16/language/ru.md" >}}) | 11070 | 11070 | 100.0 | /mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/ru/ru.po | 
+ | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 15276 | 25368 | 60.2 | /mnt/stockage/packages/f16/gnome-devel-docs/accessibility-devel-guide/pt_BR/pt_BR.po/mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/pt_BR/pt_BR.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/pt_BR/pt_BR.po | 
+ | [el]({{< ref "/f16/language/el.md" >}}) | 44794 | 74539 | 60.1 | /mnt/stockage/packages/f16/gnome-devel-docs/accessibility-devel-guide/el/el.po/mnt/stockage/packages/f16/gnome-devel-docs/hig/el/el.po/mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/el/el.po/mnt/stockage/packages/f16/gnome-devel-docs/optimization-guide/el/el.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/el/el.po | 
+ | [es]({{< ref "/f16/language/es.md" >}}) | 47625 | 82543 | 57.7 | /mnt/stockage/packages/f16/gnome-devel-docs/accessibility-devel-guide/es/es.po/mnt/stockage/packages/f16/gnome-devel-docs/hig/es/es.po/mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/es/es.po/mnt/stockage/packages/f16/gnome-devel-docs/optimization-guide/es/es.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-demos/es/es.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/es/es.po | 
+ | [ja]({{< ref "/f16/language/ja.md" >}}) | 12435 | 21873 | 56.9 | /mnt/stockage/packages/f16/gnome-devel-docs/accessibility-devel-guide/ja/ja.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/ja/ja.po | 
+ | [cs]({{< ref "/f16/language/cs.md" >}}) | 10095 | 17954 | 56.2 | /mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/cs/cs.po/mnt/stockage/packages/f16/gnome-devel-docs/optimization-guide/cs/cs.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/cs/cs.po | 
+ | [gl]({{< ref "/f16/language/gl.md" >}}) | 12339 | 26041 | 47.4 | /mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/gl/gl.po/mnt/stockage/packages/f16/gnome-devel-docs/optimization-guide/gl/gl.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-demos/gl/gl.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/gl/gl.po | 
+ | [uk]({{< ref "/f16/language/uk.md" >}}) | 3535 | 11070 | 31.9 | /mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/uk/uk.po | 
+ | [de]({{< ref "/f16/language/de.md" >}}) | 20915 | 82419 | 25.4 | /mnt/stockage/packages/f16/gnome-devel-docs/accessibility-devel-guide/de/de.po/mnt/stockage/packages/f16/gnome-devel-docs/hig/de/de.po/mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/de/de.po/mnt/stockage/packages/f16/gnome-devel-docs/optimization-guide/de/de.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-demos/de/de.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/de/de.po | 
+ | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 8386 | 62778 | 13.4 | /mnt/stockage/packages/f16/gnome-devel-docs/hig/zh_CN/zh_CN.po/mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/zh_CN/zh_CN.po/mnt/stockage/packages/f16/gnome-devel-docs/optimization-guide/zh_CN/zh_CN.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/zh_CN/zh_CN.po | 
+ | [it]({{< ref "/f16/language/it.md" >}}) | 1836 | 14210 | 12.9 | /mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/it/it.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/it/it.po | 
+ | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 1306 | 45571 | 2.9 | /mnt/stockage/packages/f16/gnome-devel-docs/hig/zh_TW/zh_TW.po | 
+ | [sl]({{< ref "/f16/language/sl.md" >}}) | 2045 | 74539 | 2.7 | /mnt/stockage/packages/f16/gnome-devel-docs/accessibility-devel-guide/sl/sl.po/mnt/stockage/packages/f16/gnome-devel-docs/hig/sl/sl.po/mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/sl/sl.po/mnt/stockage/packages/f16/gnome-devel-docs/optimization-guide/sl/sl.po/mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/sl/sl.po | 
+ | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 1227 | 45492 | 2.7 | /mnt/stockage/packages/f16/gnome-devel-docs/hig/zh_HK/zh_HK.po | 
+ | [sv]({{< ref "/f16/language/sv.md" >}}) | 74 | 3487 | 2.1 | /mnt/stockage/packages/f16/gnome-devel-docs/integration-guide/sv/sv.po | 
+ | [oc]({{< ref "/f16/language/oc.md" >}}) | 139 | 10715 | 1.3 | /mnt/stockage/packages/f16/gnome-devel-docs/platform-overview/oc/oc.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

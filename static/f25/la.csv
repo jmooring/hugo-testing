@@ -1,0 +1,63 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Latin (http://www.transifex.com/projects/p/fedora-abrt/language/la/)
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+asunder,6,0,474,6,0,81,7,480,1.25,http://littlesvr.ca/ostd/
+audience,0,0,106,0,0,48,0,106,0.0,
+blivet-gui,0,0,713,0,0,187,0,713,0.0,Latin
+byobu,14,0,163,8,0,36,12,177,7.909604519774012,Latin <la@li.org>
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Latin (http://www.transifex.com/projects/p/certmonger/language/la/)
+cinnamon-translations,176,0,8403,102,0,1930,194,8579,2.0515211563119244,Latin <la@li.org>
+deluge,12,0,2632,9,0,849,12,2644,0.45385779122541603,Latin <la@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Latin
+gedit,207,0,4735,17,0,1076,121,4942,4.188587616349656,Latin <la@li.org>
+gedit-plugins,2,4,1199,2,2,465,8,1205,0.16597510373443983,Latin <la@li.org>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Latin (http://www.transifex.com/projects/p/initial-setup/language/la/)
+isomaster,9,1,664,8,1,98,10,674,1.3353115727002967,http://littlesvr.ca/ostd/
+libgnomeui,1,0,1308,1,0,333,3,1309,0.07639419404125286,Latin <la@li.org>
+libgtop2,24,0,102,5,0,35,15,126,19.047619047619047,Latin <la@li.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Latin (http://www.transifex.com/mate/MATE/language/la/)
+libreport,0,0,3501,0,0,452,0,3501,0.0,Latin (http://www.transifex.com/projects/p/libreport/language/la/)
+marco,51,0,4038,14,0,400,53,4089,1.247248716067498,Latin (http://www.transifex.com/mate/MATE/language/la/)
+mate-menu,69,0,231,40,0,70,76,300,23.0,Latin <la@li.org>
+mate-terminal,136,0,4303,32,0,477,124,4439,3.0637530975444918,Latin (http://www.transifex.com/mate/MATE/language/la/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+metacity,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mintmenu,132,0,2616,84,0,535,149,2748,4.8034934497816595,Latin <la@li.org>
+muffin,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mutter,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+nemo-extensions,1,0,7,1,0,1,1,8,12.5,Latin <la@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Latin (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/la/)
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pinta,29,0,1589,20,0,508,41,1618,1.792336217552534,Latin <la@li.org>
+pluma,207,0,4831,17,0,1087,121,5038,4.108773322747122,Latin (http://www.transifex.com/mate/MATE/language/la/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Latin (http://www.transifex.com/projects/p/python-meh/language/la/)
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+slick-greeter,0,0,211,0,0,47,0,211,0.0,Latin <la@li.org>
+stellarium,1315,0,22354,859,0,4960,1240,23669,5.555790274198318,Latin <la@li.org>
+supertux,2980,0,0,918,0,0,2738,2980,100.0,Latin (http://www.transifex.com/arctic-games/supertux/language/la/)
+supertuxkart,3098,0,83,700,0,31,2773,3181,97.39075762338886,Latin (http://www.transifex.com/supertuxkart/supertuxkart/language/la/)
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+synapse,61,0,763,42,0,185,60,824,7.4029126213592225,Latin <la@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Latin (http://www.transifex.com/projects/p/system-config-kickstart/language/la/)
+terminator,9,0,1401,9,0,408,17,1410,0.6382978723404255,Latin <la@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+warzone2100,9,99,11120,5,46,2353,8,11228,0.08015675097969362,Latin
+wesnoth,74979,18940,162097,8387,747,7221,53453,256016,29.28684144740954,Latin <http://wiki.wesnoth.org/LatinTranslation>
+widelands,6414,0,20617,1672,0,1378,5537,27031,23.72831193814509,Latin <la@li.org>
+xed,205,0,4303,15,0,955,119,4508,4.547471162377994,Latin <la@li.org>
+yelp,13,0,1022,13,0,336,24,1035,1.2560386473429952,Latin <la@li.org>

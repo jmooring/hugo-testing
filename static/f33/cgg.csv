@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,0,213,0,0,123,0,213,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1123,475,64,249,40,16,914,1662,67.56919374247894,none

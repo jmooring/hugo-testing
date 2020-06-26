@@ -1,0 +1,146 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,43,42,100.0,Aragonese <softaragones@googlegroups.com>
+arduino,1868,0,1225,352,0,238,2008,3093,60.39443905593275,Aragonese (http://www.transifex.com/mbanzi/arduino-ide-15/language/an/)
+asunder,15,0,477,13,0,78,19,492,3.048780487804878,http://littlesvr.ca/ostd/
+caribou,169,0,0,57,0,0,191,169,100.0,Aragonés <softaragones@googlegroups.com>
+cinnamon-desktop,231,0,3,31,0,1,272,234,98.71794871794873,Aragonés <softaragones@googlegroups.com>
+cinnamon-translations,37,0,71,5,0,13,34,108,34.25925925925926,Aragonés <softaragones@googlegroups.com>
+clutter,3030,27,0,672,3,0,3299,3057,99.11678115799803,Aragonés <softaragones@googlegroups.com>
+cogl,393,0,0,80,0,0,501,393,100.0,Aragonese <softaragones@googlegroups.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+deepin-terminal,64,0,0,13,0,0,84,64,100.0,Aragonese <softaragones@googlegroups.com>
+dialog,25,0,0,23,0,0,27,25,100.0,Aragonese <softaragones@googlegroups.com>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,2,18,1075,1,3,243,2,1095,0.182648401826484,LANGUAGE <LL@li.org>
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,4,0,72,3,0,15,5,76,5.263157894736842,Aragonese <an@li.org>
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+eog,1502,0,0,288,0,0,1637,1502,100.0,Aragonés <softaragones@googlegroups.com>
+epiphany,1757,0,0,495,0,0,1920,1757,100.0,Aragonés <softaragones@googlegroups.com>
+evince,1521,7,0,356,3,0,1690,1528,99.54188481675392,Aragonés <softaragones@googlegroups.com>
+evolution,20941,70,25,4408,10,2,24026,21036,99.54839323065221,Aragonese <softaragones@googlegroups.com>
+file-roller,1198,0,0,270,0,0,1238,1198,100.0,Aragonés <softaragones@googlegroups.com>
+filezilla,8185,0,0,1431,0,0,9955,8185,100.0,softaragonés
+fragments,470,0,1536,202,0,324,504,2006,23.42971086739781,Aragonese (https://www.transifex.com/transmissionbt/teams/33778/an/)
+gala,0,0,140,0,0,34,0,140,0.0,none
+gedit,4104,0,0,688,0,0,4705,4104,100.0,Aragonés <softaragones@googlegroups.com>
+glib-networking,161,0,0,29,0,0,199,161,100.0,Aragonese <softaragones@googlegroups.com>
+glib2,5464,0,5,864,0,1,7395,5469,99.90857560797221,Aragonese <softaragones@googlegroups.com>
+gnome-calendar,224,0,0,67,0,0,249,224,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-control-center,5034,0,0,1464,0,0,5936,5034,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-desktop,366,0,72,58,0,3,427,438,83.56164383561644,Aragonés <softaragones@googlegroups.com>
+gnome-desktop3,146,0,0,23,0,0,161,146,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-icon-theme,4,0,0,2,0,0,5,4,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-maps,485,0,0,111,0,0,560,485,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-mines,334,12,0,72,3,0,342,346,96.53179190751445,Aragonese <softaragones@googlegroups.com>
+gnome-music,458,0,0,85,0,0,528,458,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-online-accounts,706,0,0,153,0,0,955,706,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-photos,377,0,0,127,0,0,430,377,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-screensaver,270,0,0,54,0,0,303,270,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-shell,1298,24,0,319,6,0,1501,1322,98.18456883509835,Aragonés <softaragones@googlegroups.com>
+gnome-sound-recorder,253,0,0,65,0,0,300,253,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-system-log,420,0,0,66,0,0,464,420,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-terminal,2218,0,0,440,0,0,2646,2218,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-themes-extra,24,0,0,9,0,0,26,24,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-weather,184,0,0,42,0,0,191,184,100.0,Aragonés <softaragones@googlegroups.com>
+granite,0,0,250,0,0,83,0,250,0.0,
+gtk3,11663,2291,45,2588,380,7,13396,13999,83.31309379241374,Aragonese <softaragones@googlegroups.com>
+gtk4,11663,2291,45,2588,380,7,13396,13999,83.31309379241374,Aragonese <softaragones@googlegroups.com>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hitori,171,0,3,35,0,1,177,174,98.27586206896551,Aragonese <softaragones@googlegroups.com>
+iagno,117,0,0,38,0,0,119,117,100.0,Aragonese <softaragones@googlegroups.com>
+iso-codes,0,288,698,0,208,212,0,986,0.0,Aragonese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/an/>
+isomaster,18,1,655,15,1,91,21,674,2.6706231454005933,http://littlesvr.ca/ostd/
+libfilezilla,54,0,0,11,0,0,84,54,100.0,softaragonés
+libgnome-keyring,44,0,0,9,0,0,53,44,100.0,Aragonese <softaragones@googlegroups.com>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Aragonese (http://www.transifex.com/mate/MATE/language/an/)
+libpeas,111,0,0,34,0,0,118,111,100.0,Aragonés <softaragones@googlegroups.com>
+libreoffice,3923,19789,75675,2266,7532,22184,4475,99387,3.947196313401149,LANGUAGE <LL@li.org>
+libsoup,155,0,0,36,0,0,238,155,100.0,Aragonese <softaragones@googlegroups.com>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Aragonese (http://www.transifex.com/the_cavalry/light-locker/language/an/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Aragonese <an@li.org>
+mate-applets,9,0,6152,9,0,406,54,6161,0.1460801817886707,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mate-backgrounds,23,0,28,17,0,11,25,51,45.09803921568628,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mate-desktop,215,0,2141,35,0,270,272,2356,9.125636672325976,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mate-media,3,0,235,3,0,97,3,238,1.2605042016806722,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mate-menus,97,0,0,37,0,0,115,97,100.0,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mate-panel,2,0,940,2,0,61,11,942,0.21231422505307856,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mate-sensors-applet,4,0,2214,4,0,223,23,2218,0.18034265103697023,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mate-session-manager,8,0,697,3,0,124,9,705,1.1347517730496455,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Aragonese (http://www.transifex.com/mate/MATE/language/an/)
+mate-utils,4,0,3217,4,0,197,22,3221,0.12418503570319776,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+mingw-atk,440,0,0,169,0,0,522,440,100.0,Aragonese <softaragones@googlegroups.com>
+mingw-glib-networking,161,0,0,29,0,0,199,161,100.0,Aragonese <softaragones@googlegroups.com>
+mingw-glib2,5464,0,5,864,0,1,7395,5469,99.90857560797221,Aragonese <softaragones@googlegroups.com>
+mingw-gtk3,11663,2291,45,2588,380,7,13396,13999,83.31309379241374,Aragonese <softaragones@googlegroups.com>
+mingw-libsoup,155,0,0,36,0,0,238,155,100.0,Aragonese <softaragones@googlegroups.com>
+mingw-wxWidgets3,7565,63,67,1764,42,47,9568,7695,98.31059129304744,softaragonés
+mozo,42,0,0,16,0,0,43,42,100.0,Aragonese (https://www.transifex.com/mate/teams/13566/an/)
+nautilus,3679,0,1400,783,0,85,3986,5079,72.43551880291396,Aragonés <softaragones@googlegroups.com>
+nautilus-sendto,45,0,0,8,0,0,62,45,100.0,Aragonés <softaragones@googlegroups.com>
+nemo-extensions,24,0,0,11,0,0,28,24,100.0,Aragonés <softaragones@googlegroups.com>
+network-manager-applet,915,1787,1701,313,298,317,1106,4403,20.78128548716784,Aragonés <softaragones@googlegroups.com>
+notification-daemon,17,0,0,7,0,0,24,17,100.0,Aragonese <softaragones@googlegroups.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+poedit,2411,0,402,530,0,93,2872,2813,85.70920725204408,Aragonese
+polkit-gnome,94,0,0,16,0,0,92,94,100.0,Aragonese <softaragones@googlegroups.com>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-SecretStorage,59,0,0,9,0,0,69,59,100.0,Aragonese <softaragones@googlegroups.com>
+python-wxpython4,7565,63,67,1764,42,47,9568,7695,98.31059129304744,softaragonés
+slick-greeter,3,0,208,2,0,45,5,211,1.4218009478672986,Aragonese <an@li.org>
+sugar-abacus,28,0,0,23,0,0,38,28,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,76,58,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,69,0,0,22,0,69,0.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,10,7,100.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,106,0,0,61,0,106,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,77,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,28,24,100.0,Aragonés <softaragones@googlegroups.com>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+transmission,478,0,1331,208,0,286,511,1809,26.423438363736874,Aragonese <an@li.org>
+tuxpaint,1591,0,0,291,0,0,1782,1591,100.0,softaragonés
+tuxpaint-stamps,3271,0,0,813,0,0,3466,3271,100.0,softaragonés
+vino,1090,0,0,110,0,0,1182,1090,100.0,Aragonese <softaragones@googlegroups.com>
+vocal,0,0,377,0,0,79,0,377,0.0,Aragonese <an@li.org>
+vte291,64,0,0,13,0,0,84,64,100.0,Aragonese <softaragones@googlegroups.com>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+wxPython,7657,16,9,1835,6,4,9669,7682,99.67456391564696,softaragonés
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Aragonese <softaragones@googlegroups.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,94,81,100.0,Aragonese <softaragones@googlegroups.com>
+yelp,448,0,0,104,0,0,495,448,100.0,Aragonese <softaragones@googlegroups.com>

@@ -1,0 +1,327 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+NetworkManager,0,457,23333,0,133,1903,0,23790,0.0,Walloon <linux-wa@walon.org>
+ORBit,8,0,0,2,0,0,15,8,100.0,walon <linux-wa@chanae.alphanet.ch>
+PackageKit,0,0,1328,0,0,326,0,1328,0.0,Walloon (http://www.transifex.com/projects/p/freedesktop/language/wa/)
+accountsservice,0,0,59,0,0,10,0,59,0.0,Walloon (http://www.transifex.com/projects/p/freedesktop/language/wa/)
+aisleriot,316,391,1280,103,143,303,376,1987,15.903371917463513,Walon <linux-wa@chanae.alphanet.ch>
+aspell,965,30,802,179,6,118,1165,1797,53.70061213133,Walloon <linux-wa@walon.org>
+asunder,11,0,481,11,0,80,13,492,2.2357723577235773,http://littlesvr.ca/ostd/
+atril,283,0,3559,113,0,526,338,3842,7.365955231650183,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+balsa,2428,471,2739,800,143,406,3346,5638,43.064916637105355,Walloon <linux-wa@walon.org>
+caja,906,0,8617,343,0,1225,1116,9523,9.513808673737268,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+caja-extensions,6,0,578,5,0,130,8,584,1.0273972602739725,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+calibre,277,0,158725,249,0,17999,286,159002,0.17421164513653917,Walloon (http://www.transifex.com/calibre/calibre/language/wa/)
+calligra,12657,8526,14288,4116,2070,1429,15445,35471,35.68267035042711,Walloon <linux@walon.org>
+calligraplan,1084,3313,4916,398,1039,586,1483,9313,11.639643509073338,Walloon <linux@walon.org>
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Walon <linux-wa@chanae.alphanet.ch>
+cinnamon-translations,11,0,9962,5,0,2475,18,9973,0.11029780407099167,Walloon <wa@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+deepin-metacity,604,67,6248,127,21,316,851,6919,8.729585200173435,Walon <linux-wa@walon.org>
+deepin-mutter,604,67,6248,127,21,316,851,6919,8.729585200173435,Walon <linux-wa@walon.org>
+deepin-terminal,96,0,0,18,0,0,169,96,100.0,Walloon <linux-wa@walon.org>
+dialog,25,0,0,23,0,0,29,25,100.0,Walloon <linux-wa@walon.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnfdragora,216,0,643,155,0,209,267,859,25.145518044237487,Walloon (https://www.transifex.com/MageiaLinux/teams/9361/wa/)
+dolphin,1195,284,2702,387,94,125,1504,4181,28.5816790241569,Walloon <linux-wa@walon.org>
+dragon,261,9,8,79,4,4,336,278,93.88489208633094,Walloon <linux-wa@walon.org>
+ejabberd,1496,98,504,365,26,97,1989,2098,71.30600571973308,Pablo Saratxaga <pablo@walon.org>
+ekiga,1564,0,1360,369,0,121,2028,2924,53.48837209302325,Walon <linux-wa@chanae.alphanet.ch>
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+engrampa,94,0,7702,60,0,783,125,7796,1.2057465366854798,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+eog,819,0,0,190,0,0,1091,819,100.0,Walloon <linux-wa@walon.org>
+eom,424,0,1356,124,0,218,569,1780,23.820224719101123,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+epiphany,1137,0,1595,528,0,237,1371,2732,41.61786237188873,Walloon <linux-wa@walon.org>
+evince,601,0,0,149,0,0,800,601,100.0,Walloon <linux-wa@walon.org>
+evolution,826,2150,14226,621,951,2708,907,17202,4.801767236367864,Walloon <linux-wa@walon.org>
+evolution-data-server,866,1199,15005,651,554,2928,953,17070,5.073227885178675,Walloon <linux-wa@walon.org>
+fprintd,0,0,419,0,0,57,0,419,0.0,Walloon (http://www.transifex.com/freedesktop/fprintd/language/wa/)
+gala,0,0,140,0,0,34,0,140,0.0,none
+gcompris,118,0,3803,86,0,517,139,3921,3.0094363682733998,Walloon <linux-wa@walon.org>
+gdk-pixbuf2,910,181,257,134,32,36,1377,1348,67.50741839762611,Walloon <linux-wa@walon.org>
+gedit,2030,511,1665,501,128,391,2528,4206,48.264384213029004,Walloon <linux-wa@walon.org>
+gedit-plugins,127,204,874,68,82,319,171,1205,10.53941908713693,Walloon <linux-wa@walon.org>
+ggz-gtk-client,5,0,0,5,0,0,5,5,100.0,Walon <linux-wa@chanae.alphanet.ch>
+ghex,966,0,0,275,0,0,1268,966,100.0,Walloon <linux-wa@walon.org>
+glib2,281,657,3839,68,123,556,386,4777,5.88235294117647,Walloon <linux-wa@walon.org>
+gnome-control-center,273,470,2642,128,219,390,373,3385,8.064992614475628,Walon <linux-wa@chanae.alphanet.ch>
+gnome-desktop,316,4,0,72,1,0,449,320,98.75,Walon <linux-wa@chanae.alphanet.ch>
+gnome-desktop3,316,4,0,72,1,0,449,320,98.75,Walon <linux-wa@chanae.alphanet.ch>
+gnome-dictionary,11,395,427,10,87,86,14,833,1.3205282112845138,Walon <linux-wa@chanae.alphanet.ch>
+gnome-doc-utils,19,3,177,16,1,57,24,199,9.547738693467336,Walloon <linux-wa@walon.org>
+gnome-icon-theme,28,5,19,27,2,17,30,52,53.84615384615385,Walon <linux-wa@walon.org>
+gnome-libs,1085,0,0,395,0,0,1439,1085,100.0,walon <linux-wa@chanae.alphanet.ch>
+gnome-mime-data,790,0,97,330,0,32,923,887,89.06426155580608,Walloon <linux-wa@walon.org>
+gnome-mines,7,82,255,6,31,35,18,344,2.0348837209302326,Walon <linux-wa@chanae.alphanet.ch>
+gnome-nettool,157,183,180,79,49,52,179,520,30.19230769230769,walon <linux-wa@chanae.alphanet.ch>
+gnome-nibbles,19,112,316,12,44,54,26,447,4.250559284116331,Walon <linux-wa@chanae.alphanet.ch>
+gnome-search-tool,31,275,1053,13,56,131,41,1359,2.2810890360559237,Walon <linux-wa@chanae.alphanet.ch>
+gnome-settings-daemon,18,94,922,6,36,129,27,1034,1.7408123791102514,Walon <linux-wa@chanae.alphanet.ch>
+gnome-system-log,14,95,413,6,31,57,20,522,2.681992337164751,Walon <linux-wa@chanae.alphanet.ch>
+gnome-terminal,3947,0,659,470,0,47,4839,4606,85.69257490230135,Walloon <linux-wa@walon.org>
+gnome-themes,101,0,0,34,0,0,133,101,100.0,Walloon <linux-wa@walon.org>
+gnome-vfs2,308,23,951,103,15,130,434,1282,24.024960998439937,Walloon <linux-wa@walon.org>
+granite,0,0,250,0,0,83,0,250,0.0,
+gtk+,202,0,0,105,0,0,247,202,100.0,walon <linux-wa@chanae.alphanet.ch>
+gtk2,3678,1387,8639,897,447,1440,5005,13704,26.838879159369526,Walloon <linux-wa@walon.org>
+gtk3,2461,1440,7952,678,464,1345,3198,11853,20.762676115751287,Walloon <linux-wa@walon.org>
+gtk4,2461,1440,7952,678,464,1345,3198,11853,20.762676115751287,Walloon <linux-wa@walon.org>
+gtkspell,11,0,0,5,0,0,13,11,100.0,Walloon <linux-wa@walon.org>
+gtkspell3,11,0,0,5,0,0,13,11,100.0,Walloon <linux-wa@walon.org>
+gtranslator,1422,0,0,369,0,0,1943,1422,100.0,Walloon <linux-wa@walon.org>
+gwenview,504,380,613,199,111,81,645,1497,33.66733466933868,Walloon <linux@walon.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hexchat,555,0,5416,382,0,1064,624,5971,9.294925473120081,Walloon (http://www.transifex.com/hexchat/hexchat/language/wa/)
+iagno,12,85,225,9,28,35,19,322,3.7267080745341614,Walon <linux-wa@chanae.alphanet.ch>
+initscripts,0,0,1001,0,0,157,0,1001,0.0,<XX@li.org>
+iso-codes,2241,6758,13397,1298,4970,8602,2204,22396,10.006251116270763,Walloon <linux-wa@walon.org>
+isomaster,26,1,647,20,1,86,30,674,3.857566765578635,http://littlesvr.ca/ostd/
+k3b,6,0,0,2,0,0,17,6,100.0,Walloon <linux@walon.org>
+kactivitymanagerd,0,2,5,0,1,2,0,7,0.0,Walloon <linux@walon.org>
+kalarm,8,5,7256,7,3,1010,8,7269,0.11005640390700233,Walloon <linux@walon.org>
+kate,873,436,917,258,85,96,1093,2226,39.21832884097035,Walloon <linux@walon.org>
+kbrickbuster,119,15,18,28,3,9,125,152,78.28947368421053,Walloon <linux-wa@walon.org>
+kcalc,136,134,722,63,57,208,181,992,13.709677419354838,Walloon <linux@walon.org>
+kcolorchooser,14,6,9,6,1,3,15,29,48.275862068965516,Walloon <linux@walon.org>
+kcron,176,159,199,85,61,44,206,534,32.958801498127336,Walloon <linux-wa@walon.org>
+kde-cli-tools,1147,104,854,154,14,49,1431,2105,54.48931116389548,Walloon <linux-wa@walon.org>
+kde-l10n,36776,9799,33067,8455,2599,3787,46821,79642,46.176640466085736,Walloon <linux-wa@walon.org>
+kdepim-addons,328,10,98,131,4,6,364,436,75.22935779816514,Walloon <linux-wa@walon.org>
+kdeplasma-addons,78,577,347,25,214,104,95,1002,7.784431137724551,Walloon <linux@walon.org>
+kdialog,200,64,89,43,12,17,268,353,56.657223796033996,Walloon <linux@walon.org>
+keditbookmarks,418,48,0,127,5,0,527,466,89.69957081545064,Walloon <linux-wa@walon.org>
+kexi,1580,3023,2708,439,593,445,2071,7311,21.611270688004378,Walloon <linux@walon.org>
+kf5-audiocd-kio,111,3,294,45,2,12,151,408,27.205882352941174,Walloon <linux-wa@walon.org>
+kf5-calendarsupport,188,545,2243,76,165,176,221,2976,6.317204301075269,Walloon <linux-wa@walon.org>
+kf5-kalarmcal,0,11,29,0,8,12,0,40,0.0,Walloon <linux@walon.org>
+kf5-kauth,0,38,35,0,4,4,0,73,0.0,Walloon <linux-wa@walon.org>
+kf5-kbookmarks,0,164,66,0,45,4,0,230,0.0,Walloon <linux@walon.org>
+kf5-kcmutils,459,6,101,64,3,5,566,566,81.09540636042402,Walloon <linux-wa@walon.org>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Walloon <linux-wa@walon.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Walloon <linux-wa@walon.org>
+kf5-kconfig,0,50,217,0,7,94,0,267,0.0,Walloon <linux-wa@walon.org>
+kf5-kconfigwidgets,139,109,77,71,35,13,190,325,42.769230769230774,Walloon <linux-wa@walon.org>
+kf5-kcoreaddons,0,277,51,0,88,28,0,328,0.0,Walloon <linux-wa@walon.org>
+kf5-kdeclarative,55,10,51,10,2,4,68,116,47.41379310344828,Walloon <linux-wa@walon.org>
+kf5-kdelibs4support,1886,608,2319,1099,375,890,2164,4813,39.1855391647621,Walloon <linux-wa@walon.org>
+kf5-kdesignerplugin,0,14,40,0,5,4,0,54,0.0,Walloon <linux-wa@walon.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Walloon <linux-wa@walon.org>
+kf5-kglobalaccel,0,57,14,0,7,2,0,71,0.0,Walloon <linux-wa@walon.org>
+kf5-kholidays,0,93,16,0,67,10,0,109,0.0,Walloon <linux-wa@walon.org>
+kf5-khtml,1041,137,543,261,16,33,1240,1721,60.48808832074375,Walloon <linux-wa@walon.org>
+kf5-ki18n,42,80,2,42,66,2,69,124,33.87096774193548,Walloon <linux-wa@walon.org>
+kf5-kiconthemes,18,11,8,14,1,3,23,37,48.64864864864865,Walloon <linux@walon.org>
+kf5-kinit,32,14,88,7,3,4,43,134,23.88059701492537,Walloon <linux-wa@walon.org>
+kf5-kio,5211,1798,5309,771,316,295,6659,12318,42.30394544568924,Walloon <linux-wa@walon.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Walloon <linux-wa@walon.org>
+kf5-kjobwidgets,0,123,0,0,36,0,0,123,0.0,Walloon <linux-wa@walon.org>
+kf5-kjsembed,214,12,22,41,1,2,290,248,86.29032258064517,Walloon <linux-wa@walon.org>
+kf5-kmime,159,0,0,10,0,0,180,159,100.0,Walloon <linux@walon.org>
+kf5-knewstuff,518,143,300,118,57,33,705,961,53.90218522372528,Walloon <linux-wa@walon.org>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Walloon <linux-wa@walon.org>
+kf5-knotifyconfig,86,43,0,16,1,0,100,129,66.66666666666666,Walloon <linux-wa@walon.org>
+kf5-kontactinterface,4,0,0,2,0,0,5,4,100.0,Walloon <linux@walon.org>
+kf5-kparts,88,16,0,24,2,0,94,104,84.61538461538461,Walloon <linux-wa@walon.org>
+kf5-kpty,15,0,0,4,0,0,34,15,100.0,Walloon <linux-wa@walon.org>
+kf5-kross,82,18,0,29,6,0,104,100,82.0,Walloon <linux-wa@walon.org>
+kf5-kservice,80,65,22,12,12,3,117,167,47.90419161676647,Walloon <linux-wa@walon.org>
+kf5-ktexteditor,927,1000,6797,312,311,640,1166,8724,10.62585969738652,Walloon <linux@walon.org>
+kf5-ktextwidgets,237,3,222,100,1,21,310,462,51.298701298701296,Walloon <linux-wa@walon.org>
+kf5-kwallet,534,312,490,53,8,28,693,1336,39.970059880239525,Walloon <linux-wa@walon.org>
+kf5-kwidgetsaddons,0,1230,90,0,439,18,0,1320,0.0,Walloon <linux-wa@walon.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Walloon <linux-wa@walon.org>
+kf5-kxmlgui,886,435,225,117,90,14,1076,1546,57.309184993531694,Walloon <linux-wa@walon.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,18,15,100.0,Walloon <linux@walon.org>
+kf5-libkdepim,317,75,73,89,20,18,376,465,68.17204301075269,Walloon <linux-wa@walon.org>
+kf5-libksane,182,25,65,51,17,15,255,272,66.91176470588235,Walloon <linux@walon.org>
+kf5-messagelib,784,1166,2407,268,331,222,1027,4357,17.9940325912325,Walloon <linux@walon.org>
+kf5-sonnet,0,645,22,0,68,5,0,667,0.0,Walloon <linux-wa@walon.org>
+kf5-syntax-highlighting,0,304,232,0,218,111,0,536,0.0,Walloon <linux@walon.org>
+kfind,254,31,219,101,9,7,335,504,50.39682539682539,Walloon <linux-wa@walon.org>
+kfloppy,118,99,424,26,19,55,179,641,18.408736349453978,Walloon <linux@walon.org>
+kget,10,605,2296,7,285,497,10,2911,0.3435245620061834,walon <linux-wa@chanae.alphanet.ch>
+khelpcenter,211,22,32,78,7,5,284,265,79.62264150943396,Walloon <linux-wa@walon.org>
+khotkeys,274,31,133,116,8,5,363,438,62.55707762557078,Walloon <linux-wa@walon.org>
+kiconedit,666,11,49,145,3,7,876,726,91.73553719008265,Walloon <linux-wa@walon.org>
+kinfocenter,1969,109,682,835,48,47,2585,2760,71.34057971014492,Walloon <linux@walon.org>
+kio-extras,600,167,262,81,15,36,820,1029,58.309037900874635,Walloon <linux-wa@walon.org>
+kjots,65,68,266,26,19,61,84,399,16.290726817042607,Walloon <linux@walon.org>
+klettres,30,76,330,10,16,57,41,436,6.8807339449541285,Walloon <linux@walon.org>
+kmahjongg,279,35,26,86,6,6,362,340,82.05882352941177,Walloon <linux-wa@walon.org>
+kmail,4241,908,2909,839,193,134,5423,8058,52.630925788036734,Walloon <linux-wa@walon.org>
+kmenuedit,179,14,84,52,4,5,227,277,64.62093862815884,Walloon <linux-wa@walon.org>
+kmines,108,0,11,38,0,4,131,119,90.75630252100841,Walloon <linux@walon.org>
+koffice-kivio,1587,1539,2508,556,564,300,2038,5634,28.168264110756127,Walloon <linux-wa@walon.org>
+konqueror,4726,264,3132,1005,41,112,5932,8122,58.1876385126816,Walloon <linux-wa@walon.org>
+konsole5,464,910,1464,116,259,210,575,2838,16.34954193093728,Walloon <linux-wa@walon.org>
+kontact,221,145,233,53,28,17,289,599,36.89482470784641,Walloon <linux-wa@walon.org>
+kopete,4074,4353,9976,1356,1217,880,5185,18403,22.13769494104222,Walloon <linux@walon.org>
+korganizer,614,869,4886,214,197,434,747,6369,9.640445909875963,Walloon <linux-wa@walon.org>
+kpat,355,9,109,115,2,23,457,473,75.05285412262155,Walloon <linux@walon.org>
+kreport,0,335,175,0,181,49,0,510,0.0,Walloon <linux@walon.org>
+krita,2702,10490,13570,1143,4093,1231,3488,26762,10.096405350870638,Walloon <linux@walon.org>
+kscreenlocker,24,20,160,4,2,14,41,204,11.76470588235294,Walloon <linux-wa@walon.org>
+ksysguard,616,58,419,182,24,31,758,1093,56.358645928636776,Walloon <linux@walon.org>
+kteatime,169,27,7,55,7,5,201,203,83.2512315270936,Walloon <linux@walon.org>
+ktp-accounts-kcm,410,71,2,111,3,2,544,483,84.88612836438924,Walloon <linux-wa@walon.org>
+ktp-text-ui,5,15,59,3,4,14,6,79,6.329113924050633,Walloon <linux-wa@walon.org>
+ktuberling,123,28,7,30,4,4,109,158,77.84810126582279,Walloon <linux@walon.org>
+kwin,1639,875,3447,509,220,456,2366,5961,27.495386680087236,Walloon <linux@walon.org>
+libbonobo,163,15,346,36,4,68,240,524,31.106870229007633,Walloon <linux-wa@walon.org>
+libbonoboui,157,7,196,63,3,47,211,360,43.611111111111114,walon <linux-wa@chanae.alphanet.ch>
+libgnome,554,0,853,113,0,106,786,1407,39.37455579246624,Walloon <linux-wa@walon.org>
+libgnomecanvas,328,0,29,87,0,7,468,357,91.87675070028011,Walloon <linux-wa@walon.org>
+libgnomeui,1189,83,147,306,19,20,1589,1419,83.79140239605356,Walloon <linux-wa@walon.org>
+libgweather,57,58,345,35,24,120,71,460,12.391304347826088,Walon <linux-wa@chanae.alphanet.ch>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Walloon <linux-wa@walon.org>
+libksysguard,158,383,2236,88,45,100,183,2777,5.6895930860640975,Walloon <linux@walon.org>
+libmatekbd,1,0,250,1,0,42,2,251,0.398406374501992,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+libmatemixer,3,0,239,3,0,123,4,242,1.2396694214876034,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+libmateweather,59,0,440,37,0,146,74,499,11.823647294589177,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+libwnck,30,29,14,15,9,6,46,73,41.0958904109589,Walon <linux-wa@chanae.alphanet.ch>
+libwnck3,30,29,14,15,9,6,46,73,41.0958904109589,Walon <linux-wa@chanae.alphanet.ch>
+libzypp,1858,95,405,881,16,47,2309,2358,78.79558948261239,Walloon <linux-wa@walon.org>
+lokalize,920,835,2150,221,160,255,1134,3905,23.5595390524968,Walloon <linux@walon.org>
+marble,512,2292,8580,152,1060,2079,608,11384,4.497540407589599,Walloon <linux@walon.org>
+marco,457,0,3761,110,0,312,647,4218,10.83451872925557,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-applets,181,0,15646,107,0,1489,264,15827,1.1436153408731915,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-calc,23,0,3155,22,0,697,37,3178,0.723725613593455,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-control-center,197,0,8336,118,0,1354,254,8533,2.3086839329661313,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-desktop,178,0,2178,51,0,254,258,2356,7.555178268251274,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-media,18,0,220,14,0,86,24,238,7.563025210084033,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-menus,4,0,93,4,0,33,4,97,4.123711340206185,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-notification-daemon,2,0,137,1,0,36,3,139,1.4388489208633095,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-panel,246,0,6422,122,0,666,344,6668,3.689262147570486,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-polkit,1,0,121,1,0,19,1,122,0.819672131147541,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-power-manager,19,0,5175,18,0,563,28,5194,0.36580670003850596,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-screensaver,7,0,989,4,0,154,9,996,0.7028112449799196,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-sensors-applet,12,0,2155,12,0,215,21,2167,0.5537609598523304,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-session-manager,87,0,618,37,0,90,123,705,12.340425531914894,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-settings-daemon,19,0,1821,10,0,264,23,1840,1.0326086956521738,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-system-monitor,54,0,4425,39,0,576,80,4479,1.2056262558606832,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-terminal,2679,0,5734,327,0,466,3132,8413,31.843575418994412,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-themes,9,0,61,3,0,18,12,70,12.857142857142856,Walloon (http://www.transifex.com/mate/MATE/language/wa/)
+mate-user-admin,5,0,565,5,0,124,5,570,0.8771929824561403,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-user-guide,1,0,4,1,0,1,1,5,20.0,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mate-utils,202,0,10006,108,0,993,266,10208,1.9788401253918495,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+mc,618,0,3586,233,0,1004,802,4204,14.700285442435776,Walloon (http://www.transifex.com/mc/mc/language/wa/)
+metacity,604,67,6248,127,21,316,851,6919,8.729585200173435,Walon <linux-wa@walon.org>
+mingw-atk,142,2,231,64,2,60,188,375,37.86666666666667,Walloon <linux-wa@walon.org>
+mingw-gdk-pixbuf,910,181,257,134,32,36,1377,1348,67.50741839762611,Walloon <linux-wa@walon.org>
+mingw-glib2,281,657,3839,68,123,556,386,4777,5.88235294117647,Walloon <linux-wa@walon.org>
+mingw-gtk2,3678,1387,8639,897,447,1440,5005,13704,26.838879159369526,Walloon <linux-wa@walon.org>
+mingw-gtk3,2461,1440,7952,678,464,1345,3198,11853,20.762676115751287,Walloon <linux-wa@walon.org>
+mingw-gtkspell3,11,0,0,5,0,0,13,11,100.0,Walloon <linux-wa@walon.org>
+mingw-libcharset,303,0,33,45,0,1,430,336,90.17857142857143,Walloon <linux-wa@walon.org>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Walloon (http://www.transifex.com/freedesktop/p11-kit/language/wa/)
+mozo,2,0,40,2,0,14,2,42,4.761904761904762,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+muffin,604,67,6248,127,21,316,851,6919,8.729585200173435,Walon <linux-wa@walon.org>
+mutter,604,67,6248,127,21,316,851,6919,8.729585200173435,Walon <linux-wa@walon.org>
+mutter328,604,67,6248,127,21,316,851,6919,8.729585200173435,Walon <linux-wa@walon.org>
+nautilus,1435,813,4957,505,182,574,1779,7205,19.91672449687717,Walon <linux-wa@walon.org>
+network-manager-applet,2,251,4150,1,72,855,2,4403,0.04542357483533954,Walloon <linux-wa@walon.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okular,1701,731,1302,504,210,241,2153,3734,45.554365291912156,Walloon <linux@walon.org>
+olpc-switch-desktop,158,0,0,14,0,0,187,158,100.0,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+p11-kit,0,0,476,0,0,81,0,476,0.0,Walloon (http://www.transifex.com/freedesktop/p11-kit/language/wa/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+passwd,0,0,336,0,0,57,0,336,0.0,LANGUAGE <LL@li.org>
+plasma-desktop,5907,1286,2574,1234,273,296,7316,9767,60.479164533633664,Walloon <linux@walon.org>
+plasma-drkonqi,2294,341,1380,218,49,110,2988,4015,57.13574097135741,Walloon <linux-wa@walon.org>
+plasma-oxygen,72,115,434,41,51,129,112,621,11.594202898550725,Walloon <linux-wa@walon.org>
+plasma-sdk,265,89,83,70,14,12,341,437,60.64073226544623,Walloon <linux-wa@walon.org>
+plasma-systemsettings,179,21,24,41,5,9,238,224,79.91071428571429,Walloon <linux-wa@walon.org>
+plasma-workspace,2702,552,2321,809,139,537,3428,5575,48.46636771300448,Walloon <linux@walon.org>
+pluma,686,0,12278,285,0,1513,907,12964,5.291576673866091,Walloon (https://www.transifex.com/mate/teams/13566/wa/)
+popt,8,5,71,2,1,28,15,84,9.523809523809524,walon <linux-wa@chanae.alphanet.ch>
+powerdevil,124,93,332,35,22,41,167,549,22.586520947176687,Walloon <linux@walon.org>
+pychess,6,0,4405,3,0,860,9,4411,0.13602357742008614,Walloon (http://www.transifex.com/gbtami/pychess/language/wa/)
+realmd,0,0,789,0,0,127,0,789,0.0,Walloon (http://www.transifex.com/freedesktop/realmd/language/wa/)
+sawfish,1111,1479,3853,310,320,352,1487,6443,17.24352009933261,Walloon <linux-wa@walon.org>
+shared-mime-info,0,0,1991,0,0,773,0,1991,0.0,Walloon (http://www.transifex.com/freedesktop/shared-mime-info/language/wa/)
+skanlite,101,39,46,42,11,10,117,186,54.3010752688172,Walloon <linux-wa@walon.org>
+sscg,8,5,81,2,1,31,15,94,8.51063829787234,walon <linux-wa@chanae.alphanet.ch>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,871,0,0,164,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,51,0,0,13,0,51,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,65,0,0,20,0,65,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,90,0,0,52,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,109,0,0,31,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+svgpart,22,0,0,7,0,0,24,22,100.0,Walloon <linux@walon.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+switchdesk,0,0,122,0,0,19,0,122,0.0,<en@li.org>
+system-config-httpd,2,0,856,1,0,222,2,858,0.2331002331002331,<wa@li.org>
+tali,81,63,277,23,24,50,94,421,19.239904988123516,Walon <linux-wa@chanae.alphanet.ch>
+terminator,8,0,1399,2,0,415,8,1407,0.5685856432125089,Walloon <wa@li.org>
+tuxpaint,479,858,254,141,92,58,577,1591,30.106851037083594,Walloon <linux-wa@walon.org>
+tuxpaint-stamps,0,0,3271,0,0,813,0,3271,0.0,
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+vino,392,0,148,60,0,10,503,540,72.5925925925926,Walloon <linux-wa@walon.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Walloon <wa@li.org>
+vte,96,0,0,18,0,0,169,96,100.0,Walloon <linux-wa@walon.org>
+vte291,96,0,0,18,0,0,169,96,100.0,Walloon <linux-wa@walon.org>
+wine,242,777,15851,146,317,3336,283,16870,1.4344991108476586,Walloon
+wingpanel,0,0,19,0,0,4,0,19,0.0,Walloon <wa@li.org>
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+xed,744,0,3881,193,0,805,861,4625,16.086486486486486,Walloon (http://www.transifex.com/projects/p/MATE/language/wa/)
+xmms,2157,250,1036,767,106,172,2736,3443,62.64885274469939,Walon <linux-wa@chanae.alphanet.ch>
+xreader,174,0,1495,58,0,323,210,1669,10.42540443379269,Walloon (http://www.transifex.com/mate/MATE/language/wa/)
+xscreensaver,542,423,10225,284,222,1328,755,11190,4.84361036639857,Walon <linux-wa@chanae.alphanet.ch>
+yakuake,890,218,494,150,22,54,1101,1602,55.55555555555556,Walloon <linux@walon.org>
+yelp,957,0,0,239,0,0,1240,957,100.0,Walloon <linux-wa@walon.org>
+zypper,46,2682,6501,24,383,841,59,9229,0.49842886553256044,Walloon <linux-wa@walon.org>

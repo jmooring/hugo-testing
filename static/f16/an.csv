@@ -1,0 +1,26 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+NetworkManager,502,3,1972,247,1,291,575,2477,20.266451352442473,Aragonese <softaragones@googlegroups.com>
+alacarte,42,0,0,16,0,0,43,42,100.0,Aragonese <softaragones@googlegroups.com>
+at-spi2-atk,7,0,0,1,0,0,10,7,100.0,Aragonese <softaragones@googlegroups.com>
+at-spi2-core,5,0,0,1,0,0,5,5,100.0,Aragonese <softaragones@googlegroups.com>
+cinnamon,373,0,565,151,0,84,400,938,39.76545842217484,Aragonese <softaragones@googlegroups.com>
+empathy,2174,0,1631,688,0,229,2467,3805,57.1353482260184,Aragonese <softaragones@googlegroups.com>
+epiphany,2363,0,0,661,0,0,2608,2363,100.0,Aragonese <softaragones@googlegroups.com>
+evince,1437,0,0,366,0,0,1625,1437,100.0,Aragonese <softaragones@googlegroups.com>
+exaile,0,0,0,0,0,0,0,0,0.0,
+file-roller,1519,0,0,335,0,0,1616,1519,100.0,Aragonese <softaragones@googlegroups.com>
+gdm,241,0,853,81,0,124,284,1094,22.02925045703839,Aragonese <softaragones@googlegroups.com>
+gnome-backgrounds,29,0,0,17,0,0,34,29,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-desktop,366,0,72,58,0,3,427,438,83.56164383561644,Aragonés <softaragones@googlegroups.com>
+gnome-desktop3,235,0,0,31,0,0,273,235,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-icon-theme,4,0,0,2,0,0,5,4,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-menus,125,0,0,46,0,0,154,125,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-shell,374,0,568,151,0,84,401,942,39.70276008492569,Aragonese <softaragones@googlegroups.com>
+gnome-themes-standard,24,0,0,9,0,0,26,24,100.0,Aragonese <softaragones@googlegroups.com>
+mate-backgrounds,23,0,7,17,0,4,25,30,76.66666666666667,LANGUAGE <LL@li.org>
+mate-desktop,214,0,193,34,0,9,262,407,52.579852579852584,LANGUAGE <LL@li.org>
+mate-menus,125,0,0,46,0,0,154,125,100.0,Aragonés <softaragones@googlegroups.com>
+notification-daemon,17,0,0,7,0,0,24,17,100.0,Aragonese <softaragones@googlegroups.com>
+stellarium,0,0,7138,0,0,2491,0,7138,0.0,Aragonese <an@li.org>
+transmission,216,0,1312,110,0,344,238,1528,14.136125654450263,Aragonese <an@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Aragonese <softaragones@googlegroups.com>

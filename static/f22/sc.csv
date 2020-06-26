@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,484,0,1163,105,0,284,597,1647,29.386763812993323,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+calibre,3,0,147025,1,0,17232,3,147028,0.0020404276736403952,Sardinian (http://www.transifex.com/calibre/calibre/language/sc/)
+exaile,3852,133,21,1011,9,5,4693,4006,96.1557663504743,Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/>
+gnome-do,473,0,139,119,0,25,502,612,77.2875816993464,Sardinian <sc@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Sardinian <sc@li.org>
+mate-desktop,431,0,1982,48,0,286,522,2413,17.861583091587235,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-notification-daemon,145,0,7,35,0,2,194,152,95.39473684210526,Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/)

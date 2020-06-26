@@ -1,0 +1,153 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,6,0,3330,4,0,720,9,3336,0.1798561151079137,Urdu <ur@li.org>
+NetworkManager,2082,0,0,438,0,0,2815,2082,100.0,urducoder.com <makkiabufaris@aol.com>
+Terminal,1125,15,51,252,8,9,1348,1191,94.45843828715365,urdu <makki.ma@gmail.com>
+Thunar,3865,0,0,685,0,0,4357,3865,100.0,urdu <makki.ma@gmail.com>
+anaconda,3330,3400,2147,532,378,202,4186,8877,37.512673200405544,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com>
+authconfig,924,166,267,180,25,37,1279,1357,68.09137803979365,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+chkconfig,410,22,16,84,4,2,432,448,91.51785714285714,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com>
+desktop-effects,0,0,148,0,0,25,0,148,0.0,none
+etoys,1828,178,25683,455,69,3903,2141,27689,6.601899671349633,Urdu <ur@li.org>
+exo,1598,0,0,301,0,0,1845,1598,100.0,Urdu <makki.ma@gmail.com>
+file-roller,1159,0,0,259,0,0,1332,1159,100.0,Urdu <makki.ma@gmail.com>
+firstboot,132,107,415,13,6,35,167,654,20.18348623853211,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+gcompris,0,0,0,0,0,0,0,0,0.0,
+gigolo,462,33,5,122,8,3,604,500,92.4,Urdu <makki.ma@gmail.com>
+gnome-desktop,15,3,305,9,3,61,16,323,4.643962848297214,UrduWeb Localization Team <l10n@urduweb.org>
+gnomebaker,53,0,1133,21,0,270,34,1186,4.4688026981450255,Urdu <urd@li.org>
+gpicview,219,0,0,44,0,0,309,219,100.0,Urdu <makki.ma@gmail.com>
+gtk2,16,110,13232,16,82,2635,18,13358,0.11977840994160803,UrduWeb Localization Team <l10n@urduweb.org>
+homebank,4,0,1503,4,0,530,4,1507,0.26542800265428,Urdu <ur@li.org>
+hwbrowser,0,0,117,0,0,52,0,117,0.0,none
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+initscripts,0,0,4243,0,0,1032,0,4243,0.0,none
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+klavaro,652,304,922,99,58,63,760,1878,34.71778487752928,<en@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1103,11086,7994,259,2054,1186,1103,20183,5.464995293068424,none
+libxfce4menu,31,0,0,5,0,0,31,31,100.0,Urdu <makki.ma@gmail.com>
+libxfce4util,413,0,0,4,0,0,513,413,100.0,Urdu <makki.ma@gmail.com>
+libxfcegui4,234,0,0,61,0,0,279,234,100.0,Urdu <makki.ma@gmai.com>
+lxappearance,96,0,0,39,0,0,108,96,100.0,Urdu <makki.ma@gmail.com>
+lxdm,0,0,11,0,0,10,0,11,0.0,LANGUAGE <LL@li.org>
+lxinput,60,0,0,21,0,0,69,60,100.0,Urdu <makki.ma@gmail.com>
+lxlauncher,51,0,0,11,0,0,59,51,100.0,Urdu <makki.ma@gmail.com>
+lxmenu-data,97,0,0,37,0,0,117,97,100.0,Urdu <makki.ma@gmail.com>
+lxmusic,196,0,0,87,0,0,251,196,100.0,Urdu <makki.ma@gmail.com>
+lxpanel,874,14,7,294,3,2,1135,895,97.6536312849162,Urdu <makki.ma@gmail.com>
+lxrandr,102,0,0,22,0,0,137,102,100.0,Urdu <makki.ma@gmail.com>
+lxsession-edit,58,0,0,10,0,0,86,58,100.0,Urdu <makki.ma@gmail.com>
+lxshortcut,43,0,0,19,0,0,51,43,100.0,Urdu <makki.ma@gmail.com>
+lxtask,112,0,10,43,0,5,163,122,91.80327868852459,Urdu <makki.ma@gmail.com>
+lxterminal,87,11,31,59,7,10,119,129,67.44186046511628,Urdu <makki.ma@gmail.com>
+minbar,289,0,129,95,0,10,316,418,69.13875598086125,Urdu <LL@li.org>
+mingw32-gtk2,16,110,13225,16,82,2633,18,13351,0.11984121039622501,UrduWeb Localization Team <l10n@urduweb.org>
+mousepad,135,0,0,64,0,0,173,135,100.0,Urdu <makki.ma@gmail.com>
+olpc-switch-desktop,116,0,42,8,0,6,115,158,73.41772151898735,LANGUAGE <LL@li.org>
+orage,1640,142,328,705,23,41,1976,2110,77.72511848341233,urdu <makki.ma@gmail.com>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pcmanfm,1516,4,0,387,1,0,1788,1520,99.73684210526315,Urdu <makki.ma@gmail.com>
+pidgin,10505,4341,3808,2399,1082,568,12160,18654,56.31499946392194,"C-DAC,Gist,Urdu Team / BharateeyaOO.o <info.gist@cdac.in / bharateeyaoo@ncb.ernet.in>"
+poedit,1025,111,26,243,24,2,1330,1162,88.20998278829603,UrduWeb Localization Team <l10n@urduweb.org>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,661,71,2765,624,69,769,866,3497,18.90191592793823,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,216,11,34,71,4,11,397,261,82.75862068965517,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+rhn-client-tools,0,0,4820,0,0,454,0,4820,0.0,none
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+ristretto,29,13,145,13,8,36,30,187,15.508021390374333,Urdu <makki.ma@gmail.com>
+setroubleshoot,0,0,606,0,0,146,0,606,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8755,0,0,266,0,8755,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+shutter,156,0,2087,56,0,413,203,2243,6.954971020954079,Urdu <ur@li.org>
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,0,0,305286,0,0,16847,0,305286,0.0,none
+sugar,367,0,9,128,0,1,473,376,97.6063829787234,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,52,0,0,30,0,0,77,52,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,362,121,83,76,14,28,345,566,63.957597173144876,LANGUAGE <LL@li.org>
+sugar-chat,26,0,0,12,0,0,40,26,100.0,LANGUAGE <LL@li.org>
+sugar-connect,31,0,5,8,0,1,45,36,86.11111111111111,LANGUAGE <LL@li.org>
+sugar-distance,76,0,0,15,0,0,114,76,100.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,100,0,0,22,0,0,112,100,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,50,0,0,25,0,0,79,50,100.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,51,1,0,15,1,0,72,52,98.07692307692307,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,26,0,0,17,0,0,33,26,100.0,LANGUAGE <LL@li.org>
+sugar-record,137,0,0,73,0,0,184,137,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,0,4,0,0,7,6,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,59,0,0,28,0,0,63,59,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,69,0,0,42,0,0,88,69,100.0,LANGUAGE <LL@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,41,2,76,9,1,13,73,119,34.45378151260504,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-date,50,63,1637,8,7,784,69,1750,2.857142857142857,SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com>
+system-config-date-docs,0,0,728,0,0,53,0,728,0.0,LANGUAGE <LL@li.org>
+system-config-display,0,0,415,0,0,69,0,415,0.0,none
+system-config-firewall,0,0,2630,0,0,317,0,2630,0.0,none
+system-config-httpd,816,42,0,204,19,0,1263,858,95.1048951048951,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,70,5,112,11,4,66,98,187,37.4331550802139,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-kickstart,927,41,71,242,8,14,1171,1039,89.22040423484118,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-netboot,10,0,1093,3,0,162,10,1103,0.9066183136899365,none
+system-config-network,2299,319,404,585,75,58,3201,3022,76.07544672402382,SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com>
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,535,0,0,130,0,535,0.0,none
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,404,0,0,57,0,404,0.0,none
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1370,0,0,170,0,1370,0.0,none
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+terminator,41,0,177,30,0,70,44,218,18.807339449541285,Urdu <ur@li.org>
+thunar-vcs-plugin,367,91,40,207,53,19,491,498,73.69477911646585,Urdu <makki.ma@gmail.com>
+thunar-volman,370,0,0,85,0,0,435,370,100.0,Urdu <makki.ma@gmail.com>
+vidalia,0,0,8842,0,0,1165,0,8842,0.0,LANGUAGE <LL@li.org>
+xfburn,294,288,718,122,65,96,409,1300,22.615384615384613,Urdu <makki.ma@gmail.com>
+xfce-utils,131,0,0,36,0,0,171,131,100.0,Urdu <makki.ma@gmail.com>
+xfce4-appfinder,84,0,0,19,0,0,98,84,100.0,Urdu <makki.ma@gmail.com>
+xfce4-battery-plugin,123,0,0,31,0,0,150,123,100.0,Urdu <makki.ma@gmail.com>
+xfce4-clipman-plugin,223,2,9,40,1,1,282,234,95.2991452991453,Urdu <makki.ma@gmail.com>
+xfce4-cpugraph-plugin,44,0,0,25,0,0,47,44,100.0,Urdu <makki.ma@gmail.com>
+xfce4-datetime-plugin,48,0,0,19,0,0,53,48,100.0,Urdu <makki.ma@gmail.com>
+xfce4-dict,67,130,189,13,29,42,73,386,17.357512953367877,Urdu <makki.ma@gmail.com>
+xfce4-diskperf-plugin,185,0,0,38,0,0,203,185,100.0,Urdu <makki.ma@gmail.com>
+xfce4-fsguard-plugin,16,34,14,3,8,8,19,64,25.0,Urdu <makki.ma@gmail.com>
+xfce4-genmon-plugin,71,0,0,15,0,0,74,71,100.0,Urdu <makki.ma@gmail.com>
+xfce4-icon-theme,8,0,0,2,0,0,9,8,100.0,Urdu <makki.ma@gmail.com>
+xfce4-mount-plugin,283,11,4,42,1,1,330,298,94.96644295302013,Urdu <makki.ma@gmail.com>
+xfce4-mpc-plugin,46,2,32,17,1,6,57,80,57.49999999999999,Urdu <makki.ma@gmail.com>
+xfce4-notes-plugin,98,5,0,39,1,0,109,103,95.14563106796116,Urdu <makki.ma@gmail.com>
+xfce4-panel,537,3,0,166,1,0,648,540,99.44444444444444,urdu <makki.ma@gmail.com>
+xfce4-places-plugin,75,0,0,32,0,0,91,75,100.0,Urdu <makki.ma@gmail.com>
+xfce4-power-manager,650,36,8,149,5,1,845,694,93.65994236311239,Urdu <makki.ma@gmail.com>
+xfce4-radio-plugin,52,0,0,22,0,0,64,52,100.0,Urdu <makki.ma@gmail.com>
+xfce4-screenshooter,457,0,0,77,0,0,485,457,100.0,Urdu <makki.ma@gmail.com>
+xfce4-sensors-plugin,316,21,9,63,3,5,394,346,91.32947976878613,Urdu <makki.ma@gmail.com>
+xfce4-session,990,7,0,199,1,0,1251,997,99.29789368104312,Urdu <makki.ma@gmail.com>
+xfce4-settings,1138,0,0,247,0,0,1395,1138,100.0,Urdu <makki.ma@gmail.com>
+xfce4-taskmanager,38,14,15,20,5,6,56,67,56.71641791044776,Urdu <makki.ma@gmail.com>
+xfce4-timer-plugin,94,0,0,32,0,0,98,94,100.0,Urdu <makki.ma@gmail.com>
+xfce4-verve-plugin,47,0,0,10,0,0,49,47,100.0,Urdu <makki.ma@gmail.com>
+xfce4-wavelan-plugin,37,0,12,8,0,3,53,49,75.51020408163265,Urdu <makki.ma@gmail.com>
+xfce4-weather-plugin,511,31,13,240,10,7,584,555,92.07207207207207,Urdu <makki.ma@gmail.com>
+xfce4-xkb-plugin,6,20,35,3,7,7,8,61,9.836065573770492,Urdu <makki.ma@gmail.com>
+xfconf,421,0,0,61,0,0,473,421,100.0,Urdu <makki.ma@gmail.com>
+xfdesktop,1004,0,0,268,0,0,1152,1004,100.0,Urdu <makki.ma@gmail.com>
+xfmpc,116,9,5,50,5,1,169,130,89.23076923076924,Urdu <makki.ma@gmail.com>
+xfprint,321,1,0,112,1,0,387,322,99.68944099378882,Urdu <makki.ma@gmail.com>
+xfwm4,797,48,0,224,6,0,1034,845,94.31952662721893,urdu <makki.ma@gmail.com>
+yum-rhn-plugin,0,0,107,0,0,14,0,107,0.0,LANGUAGE <LL@li.org>

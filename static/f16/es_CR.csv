@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+entertrack,2847,0,0,999,0,0,3176,2847,100.0,
+gnome-applets,3858,0,0,976,0,0,4892,3858,100.0,Spanish <traductores@es.gnome.org>
+gnomebaker,159,0,1027,46,0,245,174,1186,13.406408094435077,Spanish (Costa Rica) <es_CR@li.org>
+libgweather,447,9,4,170,5,4,534,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmateweather,395,0,70,166,0,15,467,465,84.94623655913979,LANGUAGE <LL@li.org>
+openconnect,0,0,2573,0,0,469,0,2573,0.0,Spanish (Costa Rica) (http://www.transifex.net/projects/p/meego/team/es_CR/)
+openerp,57535,0,3,9155,0,1,65372,57538,99.99478605443359,Spanish (Costa Rica) <es_CR@li.org>
+openerp-client,7729,0,0,574,0,0,8084,7729,100.0,Spanish (Costa Rica) <es_CR@li.org>

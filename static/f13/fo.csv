@@ -1,0 +1,24 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,40,0,3296,14,0,710,42,3336,1.1990407673860912,Faroese <fo@li.org>
+ailurus,54,0,8224,17,0,1236,60,8278,0.6523314810340662,none
+calibre,4,0,19994,3,0,2704,3,19998,0.020002000200020003,Faroese <fo@li.org>
+clamtk,796,0,9,216,0,3,812,805,98.88198757763975,Føroyabólkurin
+deja-dup,48,0,1061,10,0,189,47,1109,4.328223624887286,Faroese <fo@li.org>
+e16,579,0,2208,235,0,286,595,2787,20.775026910656617,Faroese <fo@li.org>
+gdesklets,335,0,1193,96,0,108,314,1528,21.924083769633505,Faroese <fo@li.org>
+gnome-applet-alarm-clock,249,0,168,97,0,13,232,417,59.71223021582733,Faroese <fo@li.org>
+iso-codes,149,47,901,114,15,323,136,1097,13.582497721057429,Faroese
+isomaster,495,177,2,105,1,1,508,674,73.44213649851632,<LL@li.org>
+jmol,70,0,1066,47,0,327,75,1136,6.161971830985916,Faroese <fo@li.org>
+koffice-kivio,286,1117,7014,147,582,1632,274,8417,3.397885232268029,føroyskt <cvsuser@flug.fo>
+libfm,480,0,0,130,0,0,444,480,100.0,LANGUAGE <LL@li.org>
+lxinput,70,0,0,23,0,0,59,70,100.0,LANGUAGE <LL@li.org>
+lxsession,33,0,4,14,0,1,26,37,89.1891891891892,LANGUAGE <LL@li.org>
+pcmanfm,456,17,49,132,4,9,424,522,87.35632183908046,LANGUAGE <LL@li.org>
+pootle,2406,0,18,457,0,2,2341,2424,99.25742574257426,LANGUAGE <LL@li.org>
+rednotebook,909,0,135,200,0,26,877,1044,87.06896551724138,Faroese <fo@li.org>
+shutter,19,0,2224,12,0,457,28,2243,0.8470798038341507,Faroese <fo@li.org>
+squirrelmail,8037,0,2,1602,0,1,7945,8039,99.97512128374176,Faroese <squirrelmail-i18n@lists.sourceforge.net>
+transmission,125,0,1517,53,0,396,139,1642,7.612667478684532,Faroese <fo@li.org>
+tuxpaint,661,486,100,173,53,26,636,1247,53.00721732157177,Faroese <morshus@morshus.com>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>

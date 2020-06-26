@@ -1,0 +1,223 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,35,42,100.0,Uzbek
+asunder,15,0,969,15,0,167,16,984,1.524390243902439,http://littlesvr.ca/ostd/
+atril,790,0,3052,274,0,365,712,3842,20.56220718375846,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+blueberry,141,0,7,34,0,3,126,148,95.27027027027027,Uzbek <uz@li.org>
+cairo-dock,6842,0,622,778,0,49,5568,7464,91.66666666666666,узбекский <>
+cairo-dock-plug-ins,1695,0,8508,661,0,1061,1569,10203,16.61276095266098,узбекский <>
+caja,4754,0,4769,1081,0,487,4011,9523,49.92124330568098,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+caja-extensions,136,0,448,60,0,75,142,584,23.28767123287671,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+calamares,0,0,443,0,0,84,0,443,0.0,Uzbek (https://www.transifex.com/calamares/teams/20061/uz/)
+calligra,5279,14376,39029,2620,5084,3933,5034,58684,8.995637652511759,Uzbek <floss-uz-l10n@googlegroups.com>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Uzbek (http://www.transifex.com/projects/p/certmonger/language/uz/)
+cinnamon-desktop,226,19,220,27,5,31,244,465,48.60215053763441,Uzbek@cyrillic
+cinnamon-translations,9833,0,11756,2566,0,2397,9898,21589,45.54634304506925,Uzbek <uz@li.org>
+clamtk,438,0,10,134,0,4,394,448,97.76785714285714,Uzbek <uz@li.org>
+clementine,1591,0,3536,589,0,772,1540,5127,31.03179247123074,Uzbek (http://www.transifex.com/davidsansome/clementine/language/uz/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+dasher,340,0,105,149,0,25,330,445,76.40449438202246,Uzbek <mavnur@gmail.com>
+deepin-terminal,80,0,0,13,0,0,76,80,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+deja-dup,138,0,1907,16,0,314,142,2045,6.748166259168705,Uzbek <uz@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnfdragora,164,0,695,121,0,243,175,859,19.09196740395809,Uzbek (https://www.transifex.com/MageiaLinux/teams/9361/uz/)
+elementary-calculator,53,0,52,32,0,12,55,105,50.476190476190474,Uzbek <https://weblate.elementary.io/projects/calculator/calculator/uz/>
+elementary-calendar,24,5,603,8,4,206,21,632,3.79746835443038,Uzbek <https://weblate.elementary.io/projects/calendar/calendar/uz/>
+elementary-camera,0,0,65,0,0,18,0,65,0.0,
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+engrampa,619,0,1396,201,0,179,539,2015,30.719602977667492,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+eog,1454,0,948,470,0,92,1316,2402,60.532889258950874,Uzbek
+eom,753,0,4424,232,0,328,672,5177,14.545103341703689,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+epiphany,4218,17,1642,1221,4,191,3871,5877,71.77131189382338,Uzbek <bahodir@mansurov.org>
+fragments,1408,0,598,426,0,100,1308,2006,70.18943170488534,Uzbek (https://www.transifex.com/transmissionbt/teams/33778/uz/)
+gala,0,0,140,0,0,34,0,140,0.0,none
+garcon,109,0,13,35,0,1,110,122,89.34426229508196,Uzbek (http://www.transifex.com/xfce/garcon/language/uz/)
+gdk-pixbuf2,316,60,2320,56,12,336,274,2696,11.72106824925816,Uzbek
+gnome-control-center,1770,0,4562,706,0,822,1692,6332,27.953253316487682,Uzbek
+gnome-desktop,628,0,32,146,0,6,570,660,95.15151515151516,uzbek
+gnome-desktop3,460,0,16,96,0,3,442,476,96.63865546218487,Uzbek@cyrillic
+gnome-do,6,0,606,2,0,142,6,612,0.9803921568627451,Uzbek <uz@li.org>
+gnome-doc-utils,38,0,438,34,0,150,40,476,7.9831932773109235,Uzbek
+gnome-icon-theme,40,0,0,32,0,0,44,40,100.0,Uzbek
+gnome-nettool,784,0,306,292,0,78,750,1090,71.92660550458716,Uzbek
+gnome-shell,1452,0,0,346,0,0,1291,1452,100.0,Uzbek (Cyrillic) <>
+gnome-themes-extra,24,0,0,9,0,0,23,24,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+gnome-vfs2,900,0,2116,340,0,262,926,3016,29.84084880636605,Uzbek
+granite,0,0,250,0,0,83,0,250,0.0,
+gtk2,5290,676,21442,2010,222,3336,4608,27408,19.300934033858727,Uzbek
+gtk3,4754,1052,17900,1846,310,2818,4110,23706,20.05399476925673,Uzbek
+gtk4,4754,1052,17900,1846,310,2818,4110,23706,20.05399476925673,Uzbek
+harvey,0,0,57,0,0,12,0,57,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Uzbek (http://www.transifex.com/projects/p/initial-setup/language/uz/)
+iso-codes,267,0,719,199,0,221,260,986,27.079107505070994,Uzbek <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/uz/>
+isomaster,30,1,1317,26,1,187,34,1348,2.225519287833828,http://littlesvr.ca/ostd/
+jmol,205,1,2940,99,1,911,195,3146,6.516211061665607,Uzbek <uz@li.org>
+kde-cli-tools,546,308,2346,130,32,118,458,3200,17.0625,Uzbek <floss-uz-l10n@googlegroups.com>
+kexi,362,3326,3623,156,850,471,350,7311,4.951443031049104,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kauth,0,8,138,0,2,14,0,146,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kbookmarks,0,242,218,0,82,16,0,460,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kcmutils,56,206,870,16,42,86,48,1132,4.946996466431095,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kcodecs,0,114,582,0,74,32,0,696,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kcompletion,0,36,0,0,22,0,0,36,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kconfig,0,0,534,0,0,202,0,534,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kconfigwidgets,232,296,122,129,85,24,240,650,35.69230769230769,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kcoreaddons,0,480,176,0,164,68,0,656,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kdeclarative,18,90,124,6,14,12,20,232,7.758620689655173,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kdelibs4support,1740,2665,5221,1086,1625,2017,1933,9626,18.0760440473717,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kdesignerplugin,0,36,72,0,6,12,0,108,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kdnssd,0,6,0,0,6,0,0,6,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kdoctools,8,0,8,4,0,4,8,16,50.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kglobalaccel,0,96,46,0,12,6,0,142,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kholidays,0,36,182,0,16,138,0,218,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-khtml,1541,757,1144,399,133,88,1300,3442,44.7704822777455,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-ki18n,24,170,54,24,150,46,26,248,9.67741935483871,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kiconthemes,34,22,18,26,2,8,36,74,45.94594594594595,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kinit,64,62,142,14,8,6,52,268,23.88059701492537,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kio,5509,2843,16284,1095,702,967,4487,24636,22.3615846728365,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kitemviews,0,14,0,0,8,0,0,14,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kjobwidgets,0,174,72,0,61,11,0,246,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kjsembed,0,176,320,0,38,50,0,496,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-knewstuff,195,615,1112,47,240,129,182,1922,10.145681581685743,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-knotifications,0,26,10,0,10,2,0,36,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-knotifyconfig,22,40,196,6,18,10,16,258,8.527131782945736,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kparts,108,82,18,33,17,2,94,208,51.92307692307693,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kpty,0,22,8,0,6,2,0,30,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kross,24,110,66,20,34,16,28,200,12.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kservice,34,122,178,8,20,26,30,334,10.179640718562874,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-ktexteditor,960,1998,14490,280,706,1540,872,17448,5.502063273727647,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-ktextwidgets,387,105,432,117,55,72,310,924,41.883116883116884,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kwidgetsaddons,0,1852,788,0,726,188,0,2640,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kwindowsystem,0,4,0,0,2,0,0,4,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-kxmlgui,442,1892,758,133,253,56,400,3092,14.29495472186287,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-sonnet,0,1231,103,0,115,31,0,1334,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+kf5-syntax-highlighting,0,488,584,0,350,308,0,1072,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+khotkeys,60,218,598,32,124,102,60,876,6.8493150684931505,Uzbek <floss-uz-l10n@googlegroups.com>
+kinfocenter,518,192,1696,298,68,236,546,2406,21.529509559434747,Uzbek <floss-uz-l10n@googlegroups.com>
+kjots,252,146,400,68,38,106,202,798,31.57894736842105,Uzbek <floss-uz-l10n@googlegroups.com>
+kmenuedit,172,28,354,58,8,56,150,554,31.046931407942242,Uzbek <floss-uz-l10n@googlegroups.com>
+koffice-kivio,6434,4244,6156,2558,1528,636,6294,16834,38.22026850421765,Uzbek <floss-uz-l10n@googlegroups.com>
+kpilot,28,184,14100,14,60,1648,22,14312,0.1956400223588597,Uzbek <floss-uz-l10n@googlegroups.com>
+kreport,0,570,370,0,313,113,0,940,0.0,Uzbek <floss-uz-l10n@googlegroups.com>
+krita,657,22575,30292,335,9402,3197,654,53524,1.2274867349226515,Uzbek <floss-uz-l10n@googlegroups.com>
+ksig,65,2,18,15,1,10,50,85,76.47058823529412,Uzbek <floss-uz-l10n@googlegroups.com>
+ksysguard,890,302,994,204,114,156,722,2186,40.71363220494053,Uzbek <floss-uz-l10n@googlegroups.com>
+kwin,1288,1178,6118,356,288,800,1156,8584,15.00465983224604,Uzbek <floss-uz-l10n@googlegroups.com>
+libgnome-keyring,44,0,0,9,0,0,40,44,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+libgnomeui,585,0,705,208,0,122,514,1290,45.348837209302324,Uzbek
+libmatekbd,38,0,213,16,0,27,38,251,15.139442231075698,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+libmatemixer,63,0,179,41,0,85,64,242,26.033057851239672,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+libmateweather,138,0,361,79,0,104,141,499,27.655310621242485,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+libreoffice,32440,12483,54462,13000,5921,13059,29478,99385,32.64074055440962,LANGUAGE <LL@li.org>
+libsoup,51,0,0,14,0,0,52,51,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+libxfce4util,16,0,408,4,0,3,17,424,3.7735849056603774,Uzbek (http://www.transifex.com/xfce/libxfce4util/language/uz/)
+lightdm,35,0,128,10,0,11,26,163,21.472392638036812,Uzbek <uz@li.org>
+lightdm-gtk,35,0,52,12,0,13,35,87,40.229885057471265,Uzbek <uz@li.org>
+lightdm-settings,46,0,259,26,0,36,56,305,15.081967213114755,Uzbek <uz@li.org>
+lxmenu-data,76,0,21,29,0,8,78,97,78.35051546391753,Uzbek
+marco,281,0,3937,89,0,333,274,4218,6.661925082977714,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-applets,574,0,15253,278,0,1318,557,15827,3.6267138434321096,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-backgrounds,25,0,26,17,0,11,25,51,49.01960784313725,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-calc,342,0,2836,214,0,505,345,3178,10.761485210824418,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-control-center,932,0,7601,399,0,1073,912,8533,10.922301652408297,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-desktop,330,0,2026,77,0,228,305,2356,14.00679117147708,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-media,45,0,193,33,0,67,43,238,18.907563025210084,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-menus,97,0,0,37,0,0,96,97,100.0,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-notification-daemon,74,0,65,28,0,9,67,139,53.23741007194245,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-panel,1316,0,5352,391,0,397,1178,6668,19.736052789442112,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-polkit,7,0,115,5,0,15,8,122,5.737704918032787,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-power-manager,335,0,4859,117,0,464,298,5194,6.449749711205237,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-screensaver,103,0,893,44,0,114,102,996,10.341365461847388,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-sensors-applet,76,0,2091,55,0,172,74,2167,3.507152745731426,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-session-manager,329,0,376,98,0,29,301,705,46.666666666666664,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-settings-daemon,109,0,1731,46,0,228,109,1840,5.923913043478261,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-system-monitor,228,0,4251,136,0,479,227,4479,5.090421969189551,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-terminal,425,0,8004,186,0,609,399,8429,5.0421165025507175,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-themes,50,0,20,9,0,12,42,70,71.42857142857143,Uzbek (http://www.transifex.com/mate/MATE/language/uz/)
+mate-user-admin,12,0,558,11,0,118,16,570,2.1052631578947367,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-user-guide,109,0,43079,72,0,3165,121,43188,0.2523849217375197,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+mate-utils,421,0,9787,182,0,919,405,10208,4.1242163009404385,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+midori,28,0,3513,9,0,787,32,3541,0.7907370799209263,Uzbek <uz@li.org>
+mingw-gdk-pixbuf,316,60,2320,56,12,336,274,2696,11.72106824925816,Uzbek
+mingw-gtk2,5290,676,21442,2010,222,3336,4608,27408,19.300934033858727,Uzbek
+mingw-gtk3,4754,1052,17900,1846,310,2818,4110,23706,20.05399476925673,Uzbek
+mingw-libsoup,51,0,0,14,0,0,52,51,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+mozo,42,0,0,16,0,0,33,42,100.0,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+nautilus,9486,0,6802,2044,0,584,7858,16288,58.23919449901768,Uzbek
+nemo-extensions,32,0,0,13,0,0,28,32,100.0,Uzbek <uz@li.org>
+notification-daemon,17,0,0,7,0,0,16,17,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,1,0,2317,1,0,509,1,2318,0.04314063848144953,Uzbek <uz@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser,0,92,135,0,19,25,0,227,0.0,Uzbek <https://hosted.weblate.org/projects/phpmyadmin/master/uz/>
+php-phpmyadmin-sql-parser5,0,109,159,0,21,29,0,268,0.0,Uzbek <https://hosted.weblate.org/projects/phpmyadmin/master/uz/>
+pidgin,1506,0,14250,411,0,3022,1347,15756,9.558263518659558,Uzbek (http://www.transifex.com/pidgin/pidgin/language/uz/)
+plank,163,0,26,41,0,9,130,189,86.24338624338624,Uzbek <uz@li.org>
+plasma-desktop,2428,2854,10878,570,668,1708,1970,16160,15.024752475247524,Uzbek <floss-uz-l10n@googlegroups.com>
+plasma-drkonqi,8,128,7894,4,36,714,8,8030,0.099626400996264,Uzbek <floss-uz-l10n@googlegroups.com>
+plasma-workspace,118,199,1327,55,82,158,126,1644,7.177615571776156,Uzbek <floss-uz-l10n@googlegroups.com>
+pluma,758,0,12080,317,0,1482,673,12838,5.9043464714129925,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+poedit,1878,0,935,465,0,158,1665,2813,66.7614646285105,Uzbek
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-caja,6,0,0,2,0,0,6,6,100.0,Uzbek (https://www.transifex.com/mate/teams/13566/uz/)
+python-django,29,0,32,15,0,5,27,61,47.540983606557376,Uzbek (http://www.transifex.com/django/django/language/uz/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Uzbek (http://www.transifex.com/projects/p/python-meh/language/uz/)
+qutim,189,0,0,60,0,0,179,189,100.0,Uzbek <uz@li.org>
+rednotebook,278,0,869,57,0,183,246,1147,24.237140366172625,Uzbek <uz@li.org>
+remmina,724,679,1271,254,122,270,729,2674,27.07554225878833,Uzbek <https://hosted.weblate.org/projects/remmina/remmina/uz@cyrillic/>
+sflphone,33,0,1028,10,0,327,32,1061,3.1102733270499527,Uzbek <uz@li.org>
+simple-scan,69,0,520,38,0,107,77,589,11.714770797962649,Uzbek <uz@li.org>
+slick-greeter,91,0,120,23,0,24,82,211,43.127962085308056,Uzbek <uz@li.org>
+supertux,9,0,2971,8,0,910,11,2980,0.30201342281879195,Uzbek (http://www.transifex.com/arctic-games/supertux/language/uz/)
+supertuxkart,1,0,5340,1,0,1026,6,5341,0.01872308556450103,Uzbek (http://www.transifex.com/supertuxkart/supertuxkart/language/uz/)
+sushi,24,0,0,11,0,0,21,24,100.0,Uzbek
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+thunar-archive-plugin,86,0,0,13,0,0,58,86,100.0,Uzbek (http://www.transifex.com/xfce/thunar-plugins/language/uz/)
+thunar-media-tags-plugin,154,0,2,57,0,1,148,156,98.71794871794873,Uzbek (http://www.transifex.com/xfce/thunar-plugins/language/uz/)
+transmission,55,0,1754,40,0,454,72,1809,3.0403537866224433,Uzbek <uz@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+vte291,80,0,0,13,0,0,76,80,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+xapps,69,0,0,34,0,0,64,69,100.0,Uzbek <uz@li.org>
+xfce4-battery-plugin,144,0,3,41,0,1,149,147,97.95918367346938,Uzbek (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz/)
+xfce4-datetime-plugin,28,0,24,14,0,5,27,52,53.84615384615385,Uzbek (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz/)
+xfce4-whiskermenu-plugin,188,0,198,70,0,53,188,386,48.704663212435236,Uzbek (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/uz/)
+xfce4-xkb-plugin,34,0,14,12,0,9,39,48,70.83333333333334,Uzbek (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz/)
+xfdesktop,553,0,477,165,0,78,543,1030,53.689320388349515,Uzbek (http://www.transifex.com/xfce/xfdesktop/language/uz/)
+xmms,1748,30,1665,789,14,242,2045,3443,50.769677606738306,Uzbek <uz-li@yahoogroups.com>
+yelp,1140,0,930,500,0,198,1096,2070,55.072463768115945,Uzbek

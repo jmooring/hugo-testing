@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+mkvtoolnix,24129,0,0,2949,0,0,6926,24129,100.0,Chinese (Singapore) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/)
+stellarium,0,0,145097,0,0,36982,0,145097,0.0,Chinese (Singapore) (https://www.transifex.com/stellarium/teams/80998/zh_SG/)
+visualboyadvance-m,0,0,2393,0,0,895,0,2393,0.0,Chinese (Singapore) (http://www.transifex.com/bgk/vba-m/language/zh_SG/)

@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,23,0,643,6,0,51,26,666,3.453453453453453,Sundanese <su@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+java-11-openjdk-portable,0,0,0,0,0,0,0,0,0.0,
+java-17-openjdk-portable,0,0,0,0,0,0,0,0,0.0,
+java-latest-openjdk-portable,0,0,0,0,0,0,0,0,0.0,
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+terminator,19,0,1503,6,0,409,17,1522,1.2483574244415243,Sundanese (https://www.transifex.com/terminator/teams/109338/su/)
+tuxpaint,322,726,2715,112,78,271,273,3763,8.557002391708743,LANGUAGE <LL@li.org>
+visualboyadvance-m,116,0,2277,8,0,887,59,2393,4.8474717927287925,Sundanese (http://www.transifex.com/bgk/vba-m/language/su/)

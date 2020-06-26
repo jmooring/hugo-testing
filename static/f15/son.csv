@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+pootle,6525,0,0,3962,0,0,8165,6525,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,24,0,0,24,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,184,0,0,56,0,184,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,44,9,201,26,6,61,46,254,17.322834645669293,LANGUAGE <LL@li.org>
+sugar-measure,0,0,111,0,0,50,0,111,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,90,0,0,61,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,91,0,0,32,0,91,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,0,0,64,0,0,29,0,64,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,141,0,0,76,0,141,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1187,49,11,243,4,5,1099,1247,95.18845228548516,Songhoy <songhoy@bagoundie.net>
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net
+virtaal,1653,0,0,544,0,0,1694,1653,100.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,373 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3565,0,421,429,0,47,3838,3986,89.43803311590567,<en@li.org>
+accerciser,70,0,465,65,0,140,95,535,13.084112149532709,Maithili <maithili.sf.net>
+aisleriot,1317,350,320,364,98,87,1368,1987,66.28082536487166,<en@li.org>
+alacarte,42,0,0,16,0,0,50,42,100.0,Maithili <maithili.sf.net>
+android-tools,1188,92,6398,211,30,837,1346,7678,15.472779369627506,Maithili (http://www.transifex.com/projects/p/fedora/language/mai/)
+anjuta,552,0,7266,379,0,1745,673,7818,7.060629316960859,Maithili <maithili.sf.net>
+atk,370,1,4,123,1,2,388,375,98.66666666666667,<en@li.org>
+atril,635,0,3756,231,0,506,667,4391,14.461398314734685,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+audex,59,62,3226,47,31,334,64,3347,1.7627726322079473,Maithili <bhashaghar@googlegroups.com>
+baobab,287,24,229,94,7,25,348,540,53.148148148148145,<en@li.org>
+blueberry,166,0,6,37,0,2,176,172,96.51162790697676,Maithili <mai@li.org>
+bomber,7,0,103,4,0,23,8,110,6.363636363636363,Maithili <bhashaghar@googlegroups.com>
+bovo,9,4,68,6,1,18,9,81,11.11111111111111,Maithili <bhashaghar@googlegroups.com>
+brasero,242,0,5038,133,0,828,317,5280,4.583333333333333,Maithili <maithili.sf.net>
+budgie-control-center,559,50,704,559,31,166,564,1313,42.57425742574257,Maithili <maithili.sf.net>
+budgie-screensaver,856,0,133,133,0,24,899,989,86.5520728008089,Maithili <maithili.sf.net>
+caja,3904,0,5771,863,0,741,4192,9675,40.351421188630496,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+caja-actions,94,0,18721,75,0,1441,125,18815,0.49960138187616265,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+caja-extensions,16,0,744,13,0,132,23,760,2.1052631578947367,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+calligra,1485,6834,27211,1207,2584,3873,1630,35530,4.179566563467492,Maithili <maithili.sf.net>
+calligraplan,161,2825,6666,142,1016,967,194,9652,1.668048072938251,Maithili <maithili.sf.net>
+cervisia,92,6,1452,64,5,335,112,1550,5.935483870967742,Maithili <bhashaghar@googlegroups.com>
+cheese,146,0,513,29,0,93,167,659,22.15477996965099,Maithili <maithili.sf.net>
+chkconfig,435,30,128,86,7,15,506,593,73.35581787521079,Maithili <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/mai/>
+cinnamon-control-center,559,50,704,559,31,166,564,1313,42.57425742574257,Maithili <maithili.sf.net>
+cinnamon-translations,649,0,9810,162,0,2420,724,10459,6.2051821397839175,Maithili <mai@li.org>
+dasher,264,0,351,112,0,100,309,615,42.926829268292686,Maithili <maithili.sf.net>
+devhelp,115,0,289,51,0,51,128,404,28.465346534653463,Maithili <maithili.sf.net>
+digikam,49,4789,54536,26,1737,7979,57,59374,0.08252770572978071,Maithili <maithili.sf.net>
+dolphin,445,797,3816,172,243,319,515,5058,8.797943851324634,Hindi <hindi.sf.net>
+engrampa,777,0,7145,215,0,678,867,7922,9.808129260287807,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+entangle,0,0,953,0,0,229,0,953,0.0,Maithili
+eog,676,0,579,180,0,105,752,1255,53.864541832669325,Hindi <hindi.sf.net>
+eom,524,0,4434,171,0,371,603,4958,10.568777732956837,Maithili (https://app.transifex.com/mate/teams/13566/mai/)
+epiphany,2530,0,501,657,0,83,2728,3031,83.47080171560542,Maithili <maithili.sf.net>
+evince,872,0,283,248,0,64,942,1155,75.4978354978355,Maithili <maithili.sf.net>
+evolution,1327,0,20803,851,0,4201,1550,22130,5.996384997740624,Maithili <maithili.sf.net>
+evolution-data-server,157,0,4937,106,0,935,172,5094,3.082057322340008,Maithili <maithili.sf.net>
+evolution-mapi,18,0,315,13,0,52,22,333,5.405405405405405,Maithili <maithili.sf.net>
+file-roller,898,0,369,235,0,49,982,1267,70.87608524072613,Maithili <maithili.sf.net>
+five-or-more,155,41,86,44,13,8,178,282,54.96453900709219,<en@li.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Maithili
+four-in-a-row,109,39,108,41,15,17,122,256,42.578125,<en@li.org>
+gconf-editor,323,0,13,96,0,2,373,336,96.13095238095238,Maithili <maithili.sf.net>
+gcr,33,38,551,25,22,180,33,622,5.305466237942122,Maithili <maithili.sf.net>
+gdk-pixbuf2,1192,89,67,184,12,6,1283,1348,88.4272997032641,Hindi <hindi.sf.net>
+gdm,205,145,300,42,19,26,220,650,31.538461538461537,Hindi <hindi.sf.net>
+gedit,4965,0,0,1104,0,0,5469,4965,100.0,Hindi <hindi.sf.net>
+gedit-plugins,788,186,231,360,56,53,858,1205,65.39419087136929,Hindi <hindi.sf.net>
+glade,525,0,4088,322,0,877,591,4613,11.380880121396055,Maithili <maithili.sf.net>
+glib2,1667,452,2658,287,93,367,1866,4777,34.89637848021771,maithili <maithili.sf.net>
+gnome-applets,2770,0,259,644,0,38,2922,3029,91.44932320897986,<en@li.org>
+gnome-bluetooth,63,0,530,37,0,120,75,593,10.623946037099493,Maithili <maithili.sf.net>
+gnome-bluetooth3.34,63,0,530,37,0,120,75,593,10.623946037099493,Maithili <maithili.sf.net>
+gnome-calculator,536,0,829,243,0,165,586,1365,39.26739926739927,Maithili <maithili.sf.net>
+gnome-chess,59,155,1176,25,57,155,59,1390,4.244604316546763,<en@li.org>
+gnome-control-center,2142,50,2308,1042,31,452,2405,4500,47.599999999999994,Maithili <maithili.sf.net>
+gnome-desktop3,351,0,0,53,0,0,388,351,100.0,Hindi <hindi.sf.net>
+gnome-dictionary,737,27,69,160,4,19,705,833,88.47539015606243,<en@li.org>
+gnome-disk-utility,148,0,3894,111,0,700,208,4042,3.661553686293914,Maithili <maithili.sf.net>
+gnome-doc-utils,216,0,33,83,0,16,216,249,86.74698795180723,Maithili <maithili.sf.net>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,<en@li.org>
+gnome-icon-theme,20,0,0,16,0,0,20,20,100.0,Maithili <maithili.sf.net>
+gnome-keyring,45,78,367,21,10,78,48,490,9.183673469387756,Maithili <maithili.sf.net>
+gnome-klotski,65,35,94,40,13,6,69,194,33.50515463917525,<en@li.org>
+gnome-mahjongg,42,69,193,23,25,15,60,304,13.815789473684212,<en@li.org>
+gnome-menus,161,0,0,57,0,0,174,161,100.0,Hindi <hindi.sf.net>
+gnome-mines,86,112,146,25,33,14,93,344,25.0,<en@li.org>
+gnome-nettool,441,0,176,176,0,37,477,617,71.47487844408428,Maithili <maithili.sf.net>
+gnome-nibbles,144,106,197,53,36,21,162,447,32.21476510067114,<en@li.org>
+gnome-panel,2241,309,970,337,56,115,2302,3520,63.66477272727272,<en@li.org>
+gnome-power-manager,58,148,226,42,20,82,65,432,13.425925925925927,Maithili <maithili.sf.net>
+gnome-robots,324,94,179,54,21,22,345,597,54.2713567839196,<en@li.org>
+gnome-screenshot,77,82,160,22,12,25,76,319,24.137931034482758,<en@li.org>
+gnome-search-tool,1159,69,131,165,11,24,1269,1359,85.28329654157469,<en@li.org>
+gnome-session,267,0,371,61,0,50,283,638,41.84952978056427,Maithili <maithili.sf.net>
+gnome-settings-daemon,227,0,1397,68,0,177,263,1624,13.977832512315272,Maithili <maithili.sf.net>
+gnome-shell-frippery,17,0,0,5,0,0,20,17,100.0,
+gnome-sudoku,12,114,273,11,36,25,24,399,3.007518796992481,<en@li.org>
+gnome-system-log,226,52,244,47,15,32,230,522,43.29501915708812,<en@li.org>
+gnome-system-monitor,577,0,356,175,0,69,664,933,61.843515541264736,Maithili <maithili.sf.net>
+gnome-terminal,3013,0,383,348,0,43,3089,3396,88.72202591283863,<en@li.org>
+gnome-tetravex,34,66,120,16,13,16,42,220,15.454545454545453,<en@li.org>
+gnome-user-share,8,0,280,6,0,40,11,288,2.7777777777777777,Maithili <maithili.sf.net>
+gnome-vfs2,1506,0,2,300,0,1,1605,1508,99.86737400530504,<en@li.org>
+gnome-video-effects,4,1,21,3,1,19,5,26,15.384615384615385,Maithili <maithili.sf.net>
+gnucash,24050,6812,6187,3885,998,518,28786,37049,64.91403276741613,Maithili <gistlrc@gmail.com>
+granatier,11,5,230,9,3,56,11,246,4.471544715447155,Maithili <bhashaghar@googlegroups.com>
+gtk2,13259,295,150,2717,49,18,13549,13704,96.75277291301809,Hindi <hindi.sf.net>
+gtk2-engines,21,0,98,19,0,28,23,119,17.647058823529413,Maithili <maithili.sf.net>
+gtk3,10973,661,219,2331,123,33,11126,11853,92.57571922719985,Hindi <hindi.sf.net>
+gtk4,10973,661,219,2331,123,33,11126,11853,92.57571922719985,Hindi <hindi.sf.net>
+gtkhtml3,971,0,290,444,0,116,1131,1261,77.00237906423474,Maithili <maithili.sf.net>
+gtksourceview2,370,0,729,188,0,250,388,1099,33.666969972702454,Maithili <maithili.sf.net>
+gtksourceview3,7,15,300,6,10,90,8,322,2.1739130434782608,Maithili <maithili.sf.net>
+gtksourceview4,370,0,729,188,0,250,388,1099,33.666969972702454,Maithili <maithili.sf.net>
+gtksourceview5,370,0,729,188,0,250,388,1099,33.666969972702454,Maithili <maithili.sf.net>
+gucharmap,716,0,87,271,0,27,759,803,89.1656288916563,Maithili <maithili.sf.net>
+gvfs,196,0,1662,88,0,357,215,1858,10.54897739504844,Maithili <maithili.sf.net>
+iagno,33,85,204,15,29,28,41,322,10.248447204968944,<en@li.org>
+im-chooser,52,0,201,13,0,44,58,253,20.55335968379447,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Maithili
+initscripts,731,79,308,109,14,35,892,1118,65.38461538461539,Maithili (http://www.transifex.com/projects/p/fedora/language/mai/)
+inkscape,21248,9834,9847,4823,2520,1325,26927,40929,51.9142906007965,Maithili
+iso-codes,88,8,890,73,2,347,79,986,8.924949290060852,Maithili <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mai/>
+kaddressbook,49,64,1038,34,35,170,58,1151,4.25716768027802,Maithili <bhashaghar@googlegroups.com>
+kajongg,50,64,2344,46,38,427,61,2458,2.034174125305126,Maithili <bhashaghar@googlegroups.com>
+kalarm,157,292,7876,118,141,959,187,8325,1.8858858858858858,Maithili <bhashaghar@googlegroups.com>
+kalgebra,17,8,141,17,5,59,18,166,10.240963855421686,Maithili <maithili.sf.net>
+kalzium,120,140,8847,112,105,1086,134,9107,1.3176677281212255,Maithili <maithili.sf.net>
+kamoso,7,3,132,4,2,35,7,142,4.929577464788732,Maithili <bhashaghar@googlegroups.com>
+kapman,9,4,102,6,2,28,9,115,7.82608695652174,Maithili <bhashaghar@googlegroups.com>
+kate,329,274,2185,151,93,434,391,2788,11.800573888091822,Maithili <bhashaghar@googlegroups.com>
+katomic,23,0,161,14,0,45,26,184,12.5,Maithili <bhashaghar@googlegroups.com>
+kaudiocreator,73,18,1045,59,7,207,90,1136,6.426056338028169,Maithili <bhashaghar@googlegroups.com>
+kblackbox,20,0,1347,14,0,89,26,1367,1.4630577907827358,Maithili <bhashaghar@googlegroups.com>
+kblocks,10,6,142,6,3,28,11,158,6.329113924050633,Maithili <bhashaghar@googlegroups.com>
+kbounce,15,0,141,9,0,34,16,156,9.615384615384617,Maithili <bhashaghar@googlegroups.com>
+kbrickbuster,14,2,142,9,1,32,14,158,8.860759493670885,Maithili <bhashaghar@googlegroups.com>
+kcachegrind,52,191,4124,47,127,388,64,4367,1.1907487978016944,Maithili <bhashaghar@googlegroups.com>
+kcm_wacomtablet,9,94,893,6,46,173,9,996,0.9036144578313252,Maithili <bhashaghar@googlegroups.com>
+kcoloredit,69,4,205,31,2,62,74,278,24.820143884892087,Maithili <maithili.sf.net>
+kde-cli-tools,605,281,1249,130,25,62,648,2135,28.337236533957842,Maithili <bhashaghar@googlegroups.com>
+kde-partitionmanager,117,58,2097,99,29,405,132,2272,5.149647887323944,Maithili <bhashaghar@googlegroups.com>
+kdenetwork-filesharing,0,37,740,0,20,79,0,777,0.0,Maithili <maithili.sf.net>
+kdepim-addons,17,42,1258,13,17,230,23,1317,1.29081245254366,Maithili <bhashaghar@googlegroups.com>
+kdepim-runtime,42,30,2307,31,17,253,52,2379,1.7654476670870116,Maithili <bhashaghar@googlegroups.com>
+kdialog,110,62,210,33,11,31,112,382,28.79581151832461,Maithili <maithili.sf.net>
+kdiamond,12,0,110,6,0,26,14,122,9.836065573770492,Maithili <bhashaghar@googlegroups.com>
+kdiff3,60,95,3144,41,48,518,76,3299,1.8187329493785998,Maithili <bhashaghar@googlegroups.com>
+keditbookmarks,304,156,6,94,37,1,397,466,65.23605150214593,Maithili <maithili.sf.net>
+kexi,212,1043,6085,160,441,879,251,7340,2.888283378746594,Maithili <maithili.sf.net>
+kf5-akonadi-calendar,9,38,1806,2,11,255,10,1853,0.48569886670264434,Maithili <bhashaghar@googlegroups.com>
+kf5-akonadi-contacts,55,134,1241,45,60,186,57,1430,3.8461538461538463,Maithili <bhashaghar@googlegroups.com>
+kf5-akonadi-mime,19,6,544,12,3,96,20,569,3.3391915641476277,Maithili <bhashaghar@googlegroups.com>
+kf5-akonadi-server,62,116,2344,42,38,347,75,2522,2.4583663758921492,Maithili <bhashaghar@googlegroups.com>
+kf5-calendarsupport,23,76,2680,20,44,327,29,2779,0.8276358402302987,Maithili <bhashaghar@googlegroups.com>
+kf5-incidenceeditor,72,84,2052,63,48,309,88,2208,3.260869565217391,Maithili <bhashaghar@googlegroups.com>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kbookmarks,0,164,66,0,45,4,0,230,0.0,Maithili <maithili.sf.net>
+kf5-kcalendarutils,73,51,1351,53,31,333,79,1475,4.949152542372881,Maithili <bhashaghar@googlegroups.com>
+kf5-kcmutils,165,52,49,21,14,3,171,266,62.03007518796993,Hindi <fedora-trans-hi@redhat.com>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kconfig,0,35,254,0,4,100,0,289,0.0,maithili <en@li.org>
+kf5-kconfigwidgets,123,152,67,66,45,14,211,342,35.96491228070175,Hindi <fedora-trans-hi@redhat.com>
+kf5-kcontacts,72,0,105,59,0,49,72,177,40.67796610169492,Maithili <bhashaghar@googlegroups.com>
+kf5-kcoreaddons,0,305,77,0,88,44,0,382,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kdeclarative,41,22,98,7,6,12,50,161,25.465838509316768,Hindi <fedora-trans-hi@redhat.com>
+kf5-kdelibs4support,1670,976,2707,1121,683,740,1845,5353,31.197459368578368,Maithili <maithili.sf.net>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kdoctools,8,0,0,4,0,0,24,8,100.0,Maithili <maithili.sf.net>
+kf5-kglobalaccel,0,45,26,0,6,3,0,71,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-khtml,987,71,609,240,19,30,1148,1667,59.20815836832634,Hindi <fedora-trans-hi@redhat.com>
+kf5-ki18n,42,80,2,42,66,2,47,124,33.87096774193548,Hindi <fedora-trans-hi@redhat.com>
+kf5-kiconthemes,11,17,13,10,5,4,11,41,26.82926829268293,Maithili <maithili.sf.net>
+kf5-kinit,14,31,71,4,4,3,17,116,12.068965517241379,Hindi <fedora-trans-hi@redhat.com>
+kf5-kio,4213,1426,6390,662,317,393,4620,12029,35.02369274253886,Maithili <maithili.sf.net>
+kf5-kipi-plugins,104,76,3101,64,36,577,110,3281,3.1697653154526058,Maithili <maithili.sf.net>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kjsembed,224,12,12,42,1,1,252,248,90.32258064516128,Hindi <fedora-trans-hi@redhat.com>
+kf5-kmailtransport,24,18,634,22,11,76,34,676,3.5502958579881656,Maithili <bhashaghar@googlegroups.com>
+kf5-knewstuff,113,262,1256,49,96,86,134,1631,6.92826486817903,Hindi <fedora-trans-hi@redhat.com>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-knotifyconfig,43,0,86,15,0,2,51,129,33.33333333333333,Hindi <fedora-trans-hi@redhat.com>
+kf5-kparts,88,34,16,24,4,2,103,138,63.76811594202898,Hindi <fedora-trans-hi@redhat.com>
+kf5-kpty,15,0,0,4,0,0,18,15,100.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kross,82,18,0,29,6,0,91,100,82.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kservice,54,69,50,9,13,6,65,173,31.213872832369944,Hindi <fedora-trans-hi@redhat.com>
+kf5-ktexteditor,1865,1737,5627,437,402,424,2069,9229,20.208039874309243,Maithili <maithili.sf.net>
+kf5-ktextwidgets,406,15,52,116,10,4,503,473,85.83509513742071,Hindi <fedora-trans-hi@redhat.com>
+kf5-ktnef,31,2,322,23,2,118,32,355,8.732394366197182,Maithili <bhashaghar@googlegroups.com>
+kf5-kwallet,22,8,1305,10,3,75,26,1335,1.647940074906367,Maithili <bhashaghar@googlegroups.com>
+kf5-kwidgetsaddons,0,1037,256,0,429,34,0,1293,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-kxmlgui,441,497,636,100,103,27,495,1574,28.017789072426936,Hindi <fedora-trans-hi@redhat.com>
+kf5-libkdepim,1,0,34,1,0,9,1,35,2.857142857142857,Maithili <bhashaghar@googlegroups.com>
+kf5-libkleo,28,42,1695,21,29,335,30,1765,1.5864022662889519,Maithili <bhashaghar@googlegroups.com>
+kf5-mailimporter,6,2,1400,6,1,120,6,1408,0.4261363636363636,Maithili <bhashaghar@googlegroups.com>
+kf5-messagelib,183,267,4282,129,110,705,210,4732,3.867286559594252,Maithili <bhashaghar@googlegroups.com>
+kf5-sonnet,0,223,460,0,64,12,0,683,0.0,Hindi <fedora-trans-hi@redhat.com>
+kf5-syntax-highlighting,0,286,348,0,211,164,0,634,0.0,Maithili <maithili.sf.net>
+kfind,261,44,197,90,19,6,313,502,51.992031872509955,Maithili <maithili.sf.net>
+kfourinline,33,38,321,28,19,110,40,392,8.418367346938775,Maithili <bhashaghar@googlegroups.com>
+kgeography,1935,2906,5171,1710,2111,3416,1936,10012,19.326807830603276,Maithili <maithili.sf.net>
+kget,137,239,2375,112,117,504,156,2751,4.980007270083606,Maithili <maithili.sf.net>
+kgoldrunner,54,24,27933,42,11,955,61,28011,0.19278140730427332,Maithili <bhashaghar@googlegroups.com>
+kgrab,26,0,344,17,0,36,37,370,7.027027027027027,Maithili <maithili.sf.net>
+kgraphviewer,69,26,1110,38,9,168,84,1205,5.726141078838174,Maithili <maithili.sf.net>
+khelpcenter,195,24,46,75,8,7,238,265,73.58490566037736,Maithili <maithili.sf.net>
+khotkeys,205,226,20,98,28,10,221,451,45.45454545454545,Maithili <maithili.sf.net>
+kiconedit,55,0,671,44,0,111,76,726,7.575757575757576,Maithili <maithili.sf.net>
+kig,97,77,7683,78,24,1184,122,7857,1.2345679012345678,Maithili <maithili.sf.net>
+kigo,25,8,471,21,7,103,29,504,4.9603174603174605,Maithili <bhashaghar@googlegroups.com>
+kile,305,493,12196,242,202,1739,364,12994,2.3472371863937203,Maithili <maithili.sf.net>
+killbots,8,65,564,5,43,79,9,637,1.2558869701726845,Maithili <bhashaghar@googlegroups.com>
+kinfocenter,97,108,256,60,59,107,104,461,21.0412147505423,Maithili <maithili.sf.net>
+kio-extras,282,112,596,56,19,51,339,990,28.484848484848484,Maithili <maithili.sf.net>
+kiriki,18,0,126,11,0,39,18,144,12.5,Maithili <bhashaghar@googlegroups.com>
+kjots,21,18,612,12,8,114,26,651,3.225806451612903,Maithili <bhashaghar@googlegroups.com>
+kjumpingcube,16,4,393,10,2,83,17,413,3.87409200968523,Maithili <bhashaghar@googlegroups.com>
+klickety,17,4,157,12,4,46,18,178,9.550561797752808,Maithili <bhashaghar@googlegroups.com>
+klines,17,0,82,10,0,18,19,99,17.17171717171717,Maithili <bhashaghar@googlegroups.com>
+kmahjongg,35,16,315,23,8,73,40,366,9.562841530054644,Maithili <bhashaghar@googlegroups.com>
+kmail-account-wizard,7,4,797,5,3,118,8,808,0.8663366336633664,Maithili <bhashaghar@googlegroups.com>
+kmenuedit,145,18,122,48,6,13,167,285,50.877192982456144,Maithili <maithili.sf.net>
+kmines,13,0,143,9,0,36,14,156,8.333333333333332,Maithili <bhashaghar@googlegroups.com>
+kmouth,43,0,1453,34,0,174,68,1496,2.874331550802139,Maithili <maithili.sf.net>
+kmplayer,111,3,1135,89,3,279,139,1249,8.8871096877502,Maithili <bhashaghar@googlegroups.com>
+kmplot,106,48,2346,84,19,382,126,2500,4.24,Maithili <maithili.sf.net>
+knavalbattle,27,2,372,16,1,87,28,401,6.733167082294264,Maithili <bhashaghar@googlegroups.com>
+knetwalk,9,0,234,5,0,51,10,243,3.7037037037037033,Maithili <bhashaghar@googlegroups.com>
+knotes,75,53,484,45,28,120,84,612,12.254901960784313,Maithili <bhashaghar@googlegroups.com>
+kolf,38,2,361,32,1,115,50,401,9.476309226932669,Maithili <bhashaghar@googlegroups.com>
+kollision,8,0,101,6,0,24,9,109,7.339449541284404,Maithili <bhashaghar@googlegroups.com>
+kompare,19,75,1319,13,49,138,22,1413,1.3446567586694975,Maithili <bhashaghar@googlegroups.com>
+konqueror,2390,336,5677,556,83,540,2809,8403,28.44222301558967,Maithili <maithili.sf.net>
+konquest,20,3,223,17,2,79,26,246,8.130081300813007,Maithili <bhashaghar@googlegroups.com>
+konsole5,464,1194,2264,112,339,376,518,3922,11.830698623151454,Maithili <bhashaghar@googlegroups.com>
+kopete,663,262,17478,507,147,2799,780,18403,3.6026734771504643,Maithili <maithili.sf.net>
+korganizer,112,224,6576,86,99,702,150,6912,1.6203703703703702,Maithili <bhashaghar@googlegroups.com>
+kpat,27,11,541,20,6,175,30,579,4.66321243523316,Maithili <bhashaghar@googlegroups.com>
+kphotoalbum,153,243,8617,108,129,820,166,9013,1.6975479862420948,Maithili <bhashaghar@googlegroups.com>
+kpilot,117,0,7039,87,0,774,143,7156,1.6349916154276132,Maithili <maithili.sf.net>
+kpmcore,34,25,3174,28,20,444,41,3233,1.0516548097742036,Maithili <bhashaghar@googlegroups.com>
+krdc,0,58,1104,0,41,219,0,1162,0.0,Maithili <maithili.sf.net>
+kreport,0,260,151,0,142,30,0,411,0.0,Maithili <maithili.sf.net>
+kreversi,28,9,388,19,4,117,31,425,6.588235294117648,Maithili <bhashaghar@googlegroups.com>
+krfb,6,14,715,4,4,97,6,735,0.8163265306122449,Maithili <maithili.sf.net>
+krita,343,12682,19578,284,5374,2304,379,32603,1.052050424807533,Maithili <maithili.sf.net>
+krusader,381,409,7139,257,173,1308,450,7929,4.805145667801741,Maithili <bhashaghar@googlegroups.com>
+kshisen,24,4,633,16,1,58,25,661,3.6308623298033282,Maithili <bhashaghar@googlegroups.com>
+ksirk,148,51,5557,114,23,622,159,5756,2.571230020847811,Maithili <bhashaghar@googlegroups.com>
+ksnakeduel,17,4,220,10,2,43,19,241,7.053941908713693,Maithili <bhashaghar@googlegroups.com>
+kspaceduel,25,0,140,19,0,62,27,165,15.151515151515152,Maithili <bhashaghar@googlegroups.com>
+ksquares,27,3,230,18,2,58,29,260,10.384615384615385,Maithili <bhashaghar@googlegroups.com>
+kstars,289,11294,42070,239,6227,5694,314,53653,0.5386464876148584,Maithili <maithili.sf.net>
+ksudoku,35,9,1702,19,6,138,42,1746,2.004581901489118,Maithili <bhashaghar@googlegroups.com>
+ksysguard,544,74,475,167,28,42,611,1093,49.77127172918573,Maithili <bhashaghar@googlegroups.com>
+ktouch,10,94,856,8,44,205,10,960,1.0416666666666665,Maithili <maithili.sf.net>
+ktp-accounts-kcm,4,5,474,2,3,111,4,483,0.8281573498964804,Maithili <bhashaghar@googlegroups.com>
+ktuberling,13,0,145,7,0,31,15,158,8.227848101265822,Maithili <bhashaghar@googlegroups.com>
+kubrick,18,0,1187,11,0,155,20,1205,1.4937759336099585,Maithili <bhashaghar@googlegroups.com>
+kwebkitpart,179,73,417,71,17,77,221,669,26.756352765321374,Maithili <bhashaghar@googlegroups.com>
+kwin,655,917,4227,225,314,626,779,5799,11.2950508708398,Maithili <maithili.sf.net>
+kwordquiz,47,39,1972,41,21,353,60,2058,2.28377065111759,Maithili <maithili.sf.net>
+libbonobo,543,0,0,107,0,0,561,543,100.0,<en@li.org>
+libbonoboui,361,0,7,114,0,1,404,368,98.09782608695652,<en@li.org>
+libcryptui,149,0,2893,103,0,552,198,3042,4.8980933596318215,Maithili <maithili.sf.net>
+libdnf,2,0,1478,1,0,228,1,1480,0.13513513513513514,Maithili
+libgnome,1109,0,648,192,0,79,1145,1757,63.118952760387025,<en@li.org>
+libgnomecanvas,378,0,0,95,0,0,380,378,100.0,<en@li.org>
+libgnomekbd,109,0,137,27,0,24,111,246,44.3089430894309,Maithili <maithili.sf.net>
+libgnomeui,1214,0,12,316,0,4,1281,1226,99.02120717781403,<en@li.org>
+libgtop2,126,0,0,40,0,0,134,126,100.0,Maithili <maithili.sf.net>
+libgweather,5994,0,57,4512,0,6,6098,6051,99.05800694100148,Maithili <maithili.sf.net>
+libgweather4,5994,0,57,4512,0,6,6098,6051,99.05800694100148,Maithili <maithili.sf.net>
+libkdegames,69,2,299,44,1,87,80,370,18.64864864864865,Maithili <bhashaghar@googlegroups.com>
+libkeduvocdocument,34,7,130,24,1,56,34,171,19.883040935672515,Maithili <maithili.sf.net>
+libkmahjongg,6,0,1,6,0,1,6,7,85.71428571428571,Maithili <bhashaghar@googlegroups.com>
+libkomparediff2,0,10,133,0,5,14,0,143,0.0,Maithili <bhashaghar@googlegroups.com>
+libksysguard,186,1072,2233,81,80,205,203,3491,5.327986250358063,Maithili <maithili.sf.net>
+libmatekbd,42,0,266,18,0,73,44,308,13.636363636363635,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+libmatemixer,9,0,233,9,0,117,9,242,3.71900826446281,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+libmateweather,5936,0,207,4480,0,95,6037,6143,96.6303109230018,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+libmypaint,2,2,2299,2,1,159,2,2303,0.08684324793747286,Maithili <https://hosted.weblate.org/projects/mypaint/libmypaint/mai/>
+libreoffice,37548,13757,116092,12601,6014,19507,37271,167397,22.43050950733884,LANGUAGE <LL@li.org>
+libuser,938,38,461,204,7,90,1192,1437,65.27487821851079,Maithili (http://www.transifex.com/projects/p/fedora/language/mai/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Maithili (http://www.transifex.com/projects/p/fedora/language/mai/)
+libwnck,97,0,1027,47,0,194,124,1124,8.629893238434164,Maithili <maithili.sf.net>
+libwnck3,97,0,1027,47,0,194,124,1124,8.629893238434164,Maithili <maithili.sf.net>
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Maithili (http://www.transifex.com/the_cavalry/light-locker/language/mai/)
+lightdm-settings,34,0,287,10,0,55,35,321,10.59190031152648,Maithili <mai@li.org>
+lightsoff,3,25,69,3,9,7,9,97,3.0927835051546393,<en@li.org>
+lokalize,102,64,3920,88,36,553,116,4086,2.4963289280469896,Maithili <bhashaghar@googlegroups.com>
+lskat,21,6,227,14,3,66,26,254,8.267716535433072,Maithili <bhashaghar@googlegroups.com>
+lxmenu-data,59,0,38,24,0,13,57,97,60.824742268041234,maithili <maithili.sf.net>
+marble,28,28,794,19,14,194,37,850,3.294117647058824,Maithili <maithili.sf.net>
+marco,2447,0,1856,312,0,118,2646,4303,56.86730188240762,Maithili (https://app.transifex.com/mate/teams/13566/mai/)
+mate-applets,1429,14,14514,383,5,1258,1569,15957,8.955317415554303,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-backgrounds,2,0,53,1,0,28,2,55,3.6363636363636362,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-calc,73,0,3250,67,0,682,107,3323,2.19681011134517,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-control-center,1281,7,6965,724,1,785,1454,8253,15.521628498727736,Maithili (https://app.transifex.com/mate/teams/13566/mai/)
+mate-desktop,613,0,1763,111,0,190,661,2376,25.7996632996633,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-media,29,0,210,22,0,77,30,239,12.133891213389122,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-menu,59,0,249,32,0,78,64,308,19.155844155844157,Maithili (http://www.transifex.com/mate/MATE/language/mai/)
+mate-menus,97,0,6,37,0,2,96,103,94.1747572815534,Maithili (https://app.transifex.com/mate/teams/13566/mai/)
+mate-notification-daemon,7,0,179,6,0,47,16,186,3.763440860215054,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-panel,3036,0,3684,437,0,377,3132,6720,45.17857142857143,Maithili (https://app.transifex.com/mate/teams/13566/mai/)
+mate-polkit,5,0,118,4,0,17,10,123,4.0650406504065035,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-power-manager,821,0,4298,159,0,392,904,5119,16.03828872826724,Maithili (https://app.transifex.com/mate/teams/13566/mai/)
+mate-screensaver,734,0,367,123,0,53,781,1101,66.66666666666666,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-sensors-applet,5,2,2153,5,2,219,8,2160,0.23148148148148145,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-session-manager,169,0,546,62,0,70,210,715,23.636363636363637,Maithili (https://app.transifex.com/mate/teams/13566/mai/)
+mate-settings-daemon,253,0,1953,67,0,252,280,2206,11.468721668177698,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-system-monitor,438,0,4409,173,0,475,492,4847,9.036517433463999,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-terminal,2363,0,6023,328,0,475,2458,8386,28.177915573575007,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-themes,9,0,65,3,0,20,12,74,12.162162162162163,Maithili (http://www.transifex.com/mate/MATE/language/mai/)
+mate-user-admin,11,0,594,9,0,117,16,605,1.8181818181818181,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-user-guide,114,0,42855,72,0,3156,122,42969,0.265307547301543,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+mate-utils,2547,0,7513,533,0,593,2675,10060,25.318091451292247,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+metacity,2702,0,1119,345,0,61,2936,3821,70.71447265113845,Maithili <maithili.sf.net>
+mingw-GConf2,3565,0,421,429,0,47,3838,3986,89.43803311590567,<en@li.org>
+mingw-atk,370,1,4,123,1,2,388,375,98.66666666666667,<en@li.org>
+mingw-gdk-pixbuf,1192,89,67,184,12,6,1283,1348,88.4272997032641,Hindi <hindi.sf.net>
+mingw-glib2,1667,452,2658,287,93,367,1866,4777,34.89637848021771,maithili <maithili.sf.net>
+mingw-gtk2,13259,295,150,2717,49,18,13549,13704,96.75277291301809,Hindi <hindi.sf.net>
+mingw-gtk3,10973,661,219,2331,123,33,11126,11853,92.57571922719985,Hindi <hindi.sf.net>
+mingw-gtksourceview3,7,15,300,6,10,90,8,322,2.1739130434782608,Maithili <maithili.sf.net>
+mousetweaks,16,0,699,12,0,82,24,715,2.237762237762238,Maithili <maithili.sf.net>
+mozo,41,0,5,20,0,4,60,46,89.13043478260869,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+muffin,2817,0,1047,360,0,53,3095,3864,72.90372670807453,Maithili <maithili.sf.net>
+mutter,2817,0,1047,360,0,53,3095,3864,72.90372670807453,Maithili <maithili.sf.net>
+mypaint,14,12,6355,13,7,1250,16,6381,0.21940134775113618,Maithili <https://hosted.weblate.org/projects/mypaint/mypaint/mai/>
+nautilus,5078,0,3175,951,0,343,5462,8253,61.5291409184539,<en@li.org>
+okteta,216,51,2206,130,31,419,255,2473,8.734330772341286,Maithili <bhashaghar@googlegroups.com>
+orca,1448,0,2233,599,0,664,1626,3681,39.3371366476501,<en@li.org>
+palapeli,14,3,1508,10,2,174,16,1525,0.9180327868852459,Maithili <bhashaghar@googlegroups.com>
+phonon-backend-gstreamer,0,37,67,0,2,13,0,104,0.0,Maithili <bhashaghar@googlegroups.com>
+pidgin,11062,0,4773,2614,0,843,11724,15835,69.85790969371645,Maithili (http://www.transifex.com/pidgin/pidgin/language/mai/)
+plasma-desktop,1392,630,3227,282,206,400,1493,5249,26.519337016574585,Maithili <maithili.sf.net>
+plasma-drkonqi,25,234,1725,12,61,130,28,1984,1.2600806451612903,Maithili <bhashaghar@googlegroups.com>
+plasma-nm,2,38,77,2,16,18,2,117,1.7094017094017095,Maithili <bhashaghar@googlegroups.com>
+plasma-oxygen,74,148,393,54,70,95,79,615,12.032520325203253,Maithili <bhashaghar@googlegroups.com>
+plasma-sdk,112,82,177,39,17,24,107,371,30.18867924528302,Maithili <maithili.sf.net>
+plasma-systemsettings,22,31,159,13,6,35,24,212,10.377358490566039,Maithili <maithili.sf.net>
+plasma-workspace,3697,1294,4726,1297,409,671,3775,9717,38.04672223937429,Maithili <maithili.sf.net>
+pluma,3826,0,9287,998,0,1092,4255,13113,29.177152444139402,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+pluma-plugins,136,0,1262,17,0,126,132,1398,9.72818311874106,Maithili (https://www.transifex.com/mate/teams/13566/mai/)
+policycoreutils,2120,92,9959,395,30,1351,2388,12171,17.41845370142141,Maithili
+polkit-kde,11,5,79,8,3,19,11,95,11.578947368421053,Maithili <bhashaghar@googlegroups.com>
+powerdevil,6,123,238,3,31,52,7,367,1.6348773841961852,Maithili <maithili.sf.net>
+pykickstart,123,43,1535,12,1,171,124,1701,7.231040564373897,Maithili (http://www.transifex.com/projects/p/pykickstart/language/mai/)
+python-blivet,63,0,521,8,0,70,67,584,10.787671232876713,Maithili (http://www.transifex.com/projects/p/blivet/language/mai/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Maithili
+python-meh,0,0,109,0,0,23,0,109,0.0,Maithili
+quadrapassel,224,74,130,54,17,8,238,428,52.336448598130836,<en@li.org>
+rpm-ostree,2,0,1478,1,0,228,1,1480,0.13513513513513514,Maithili
+rsibreak,33,2,1140,22,1,135,46,1175,2.8085106382978724,Maithili <bhashaghar@googlegroups.com>
+seahorse,149,0,2893,103,0,552,198,3042,4.8980933596318215,Maithili <maithili.sf.net>
+seahorse-caja,74,0,347,29,0,81,94,421,17.577197149643705,Maithili <maithili.sf.net>
+seahorse-nautilus,74,0,347,29,0,81,94,421,17.577197149643705,Maithili <maithili.sf.net>
+setroubleshoot,140,5,495,51,1,116,162,640,21.875,Maithili (http://www.transifex.com/projects/p/fedora/language/mai/)
+setroubleshoot-plugins,0,0,6246,0,0,226,0,6246,0.0,none
+setuptool,55,0,0,14,0,0,65,55,100.0,Maithili <maithili.sf.net>
+skanlite,34,5,147,22,2,39,34,186,18.27956989247312,Maithili <bhashaghar@googlegroups.com>
+smb4k,89,208,6107,70,94,500,116,6404,1.3897564022485946,Maithili <bhashaghar@googlegroups.com>
+sound-juicer,680,0,342,156,0,42,739,1022,66.53620352250489,Maithili <maithili.sf.net>
+step,0,205,928,0,140,309,0,1133,0.0,Maithili <maithili.sf.net>
+swell-foop,28,73,165,21,18,16,39,266,10.526315789473683,<en@li.org>
+switchdesk,16,85,21,3,9,7,20,122,13.114754098360656,Maithili <maithili.sf.net>
+system-config-language,60,55,100,13,5,13,67,215,27.906976744186046,Maithili
+system-config-printer,110,1,3403,48,1,879,119,3514,3.130335799658509,Maithili (http://www.transifex.com/projects/p/system-config-printer/language/mai/)
+system-config-rootpassword,96,0,20,15,0,4,107,116,82.75862068965517,Maithili <maithili.sf.net>
+system-switch-java,81,0,0,11,0,0,85,81,100.0,Maithili <maithili.sf.net>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Maithili <maithili.sf.net>
+tali,276,27,118,68,14,15,295,421,65.55819477434679,<en@li.org>
+tomboy,1116,0,1329,199,0,172,1254,2445,45.644171779141104,<en@li.org>
+totem,1486,0,1328,379,0,221,1553,2814,52.807391613361766,maithili <maithili.sf.net>
+totem-pl-parser,17,0,11,5,0,2,13,28,60.71428571428571,Hindi <hindi.sf.net>
+umbrello,226,803,4718,191,271,1156,268,5747,3.9324865147033234,Maithili <bhashaghar@googlegroups.com>
+usermode,551,0,22,92,0,4,654,573,96.16055846422339,Maithili (http://www.transifex.com/projects/p/fedora/language/mai/)
+xapps,69,0,4,34,0,2,79,73,94.52054794520548,Maithili <mai@li.org>
+xed,2665,0,1095,681,0,243,2767,3760,70.87765957446808,Maithili (http://www.transifex.com/projects/p/MATE/language/mai/)
+xreader,539,0,1081,160,0,219,565,1620,33.2716049382716,Maithili (http://www.transifex.com/mate/MATE/language/mai/)
+yakuake,51,55,1562,33,15,188,59,1668,3.0575539568345325,Maithili <bhashaghar@googlegroups.com>
+yelp,571,0,464,217,0,132,659,1035,55.169082125603865,Maithili <maithili.sf.net>
+yelp-xsl,216,0,33,83,0,16,216,249,86.74698795180723,Maithili <maithili.sf.net>
+zenity,551,0,28,128,0,6,581,579,95.16407599309153,Maithili <maithili.sf.net>

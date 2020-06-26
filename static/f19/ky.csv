@@ -1,0 +1,94 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,2722,0,0,328,0,2722,0.0,Kirgyz (http://www.transifex.com/projects/p/fedora/language/ky/)
+audacious,357,0,219,199,0,37,361,576,61.979166666666664,Kirgyz (http://www.transifex.com/projects/p/audacious/language/ky/)
+audacious-plugins,1059,4,2969,542,2,325,1085,4032,26.264880952380953,Kirgyz (http://www.transifex.com/projects/p/audacious/language/ky/)
+banshee,1228,1972,1032,462,458,186,1179,4232,29.017013232514177,
+bison,52,0,0,9,0,0,53,52,100.0,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+cheese,576,0,0,125,0,0,441,576,100.0,Kirghiz <gnome-i18n@gnome.org>
+cinnamon-desktop,241,0,0,35,0,0,210,241,100.0,Kirghiz <gnome-i18n@gnome.org>
+cinnamon-translations,462,0,10431,170,0,2372,445,10893,4.241255852382264,Kirghiz <ky@li.org>
+control-center,1780,26,1672,695,11,415,1661,3478,51.178838412880964,Kirghiz <gnome-i18n@gnome.org>
+dasher,471,0,0,182,0,0,472,471,100.0,
+deluge,2,0,2724,2,0,875,2,2726,0.07336757153338225,Kirghiz <ky@li.org>
+docky,13,0,1744,9,0,328,15,1757,0.7398975526465565,Kirghiz <ky@li.org>
+filezilla,1472,5,7922,630,2,953,1503,9399,15.661240557506117,Kirghiz <ky@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Kirghiz
+gdm,1012,0,0,180,0,0,845,1012,100.0,Kirghiz <gnome-i18n@gnome.org>
+gettext,366,0,0,71,0,0,366,366,100.0,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+gnome-backgrounds,22,1,1,16,1,1,21,24,91.66666666666666,Kirghiz <gnome-i18n@gnome.org>
+gnome-desktop,323,0,0,73,0,0,322,323,100.0,Kirghiz
+gnome-desktop3,241,0,0,35,0,0,210,241,100.0,Kirghiz <gnome-i18n@gnome.org>
+gnome-font-viewer,39,0,0,22,0,0,46,39,100.0,Russian <gnome-i18n@gnome.org>
+gnome-menus,103,0,0,39,0,0,93,103,100.0,Kirghiz <gnome-i18n@gnome.org>
+gnome-shell,829,42,582,302,11,39,771,1453,57.05437026841018,Kirghiz <gnome-i18n@gnome.org>
+gnome-themes,87,13,4,32,3,1,96,104,83.65384615384616,Kirghiz
+gnome-tweak-tool,155,0,1,50,0,1,147,156,99.35897435897436,Kirghiz <gnome-i18n@gnome.org>
+grep,169,284,509,22,32,58,159,962,17.56756756756757,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+gstreamer-plugins-bad-free,26,19,51,4,3,7,20,96,27.083333333333332,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,26,19,51,4,3,7,20,96,27.083333333333332,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+gtk3,434,3,12914,160,3,2679,345,13351,3.2506928319976027,Kirghiz <gnome-i18n@gnome.org>
+gtkspell,11,0,0,5,0,0,12,11,100.0,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+gtkspell3,9,0,6,4,0,2,10,15,60.0,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,336,0,104,66,0,14,294,440,76.36363636363637,LANGUAGE <LL@li.org>
+json-glib,222,4,0,26,1,0,162,226,98.23008849557522,Kirghiz <gnome-i18n@gnome.org>
+klavaro,679,0,1233,179,0,53,584,1912,35.512552301255226,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+libgnomeprint22,121,15,32,85,5,8,117,168,72.02380952380952,Kirghiz
+libgtop2,126,0,0,40,0,0,114,126,100.0,Kirghiz <gnome-i18n@gnome.org>
+libgweather,9910,0,0,6597,0,0,9670,9910,100.0,Kirghiz
+libmatekeyring,3,0,41,1,0,8,3,44,6.8181818181818175,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+libmateweather,9979,0,418,6646,0,132,9736,10397,95.97960950274117,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+libmatewnck,69,1,3,27,1,2,74,73,94.52054794520548,Kirghiz
+libreoffice,86,0,95122,61,0,29138,81,95208,0.09032854381984708,LANGUAGE <LL@li.org>
+libreport,0,0,3139,0,0,417,0,3139,0.0,Kirgyz (http://www.transifex.com/projects/p/fedora/language/ky/)
+libwnck,69,1,3,27,1,2,74,73,94.52054794520548,Kirghiz
+libwnck3,69,1,3,27,1,2,74,73,94.52054794520548,Kirghiz
+liveusb-creator,0,0,480,0,0,52,0,480,0.0,Kirgyz (http://www.transifex.com/projects/p/fedora/language/ky/)
+lxmenu-data,59,12,26,24,4,9,61,97,60.824742268041234,Kirghiz
+mate-applets,588,0,2711,123,0,609,515,3299,17.823582903910275,LANGUAGE <LL@li.org>
+mate-backgrounds,35,0,0,10,0,0,44,35,100.0,Kirghiz
+mate-calc,444,0,968,284,0,157,473,1412,31.444759206798867,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-desktop,52,0,355,12,0,31,51,407,12.776412776412776,LANGUAGE <LL@li.org>
+mate-document-viewer,646,0,847,263,0,108,620,1493,43.26858673811119,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-file-manager,945,0,8141,457,0,1019,865,9086,10.400616332819723,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-file-manager-image-converter,5,0,69,5,0,29,5,74,6.756756756756757,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-file-manager-open-terminal,8,0,74,3,0,4,6,82,9.75609756097561,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-file-manager-sendto,5,0,84,4,0,23,5,89,5.617977528089887,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-image-viewer,68,0,1555,50,0,265,76,1623,4.18977202711029,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-keyring,28,0,1145,27,0,216,29,1173,2.3870417732310316,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-menu-editor,20,0,22,12,0,4,20,42,47.61904761904761,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-menus,97,0,0,37,0,0,93,97,100.0,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-netspeed,15,0,122,12,0,38,15,137,10.948905109489052,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-panel,361,0,3876,167,0,415,367,4237,8.520179372197308,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-polkit,12,0,277,8,0,39,12,289,4.1522491349480966,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-power-manager,89,0,2669,48,0,395,67,2758,3.2269760696156635,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-system-monitor,296,0,637,144,0,100,275,933,31.72561629153269,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-terminal,397,0,3807,202,0,291,372,4204,9.443387250237869,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-text-editor,362,0,4624,173,0,932,338,4986,7.260328920978741,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-themes,37,0,72,16,0,14,38,109,33.94495412844037,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+mate-window-manager,56,0,2060,40,0,286,63,2116,2.6465028355387523,Kirgyz (http://www.transifex.com/projects/p/MATE/language/ky/)
+midori,80,0,3034,27,0,699,76,3114,2.569043031470777,Kirghiz <ky@li.org>
+minetest,247,36,220,136,17,80,274,503,49.10536779324055,LANGUAGE <LL@li.org>
+mingw-gettext,366,0,0,71,0,0,366,366,100.0,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,26,19,51,4,3,7,20,96,27.083333333333332,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+mingw-gtk3,434,3,12914,160,3,2679,345,13351,3.2506928319976027,Kirghiz <gnome-i18n@gnome.org>
+mingw-gtkspell3,9,0,6,4,0,2,10,15,60.0,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+nautilus,999,407,4910,391,74,590,879,6316,15.816972767574415,Kirghiz <gnome-i18n@gnome.org>
+poedit,1525,0,0,354,0,0,1385,1525,100.0,Kirghiz <poedit@googlegroups.com>
+pogo,43,0,533,27,0,74,44,576,7.465277777777778,Kirghiz <ky@li.org>
+pootle,134,199,2091,65,44,350,136,2424,5.528052805280528,LANGUAGE <LL@li.org>
+rednotebook,2,0,1119,2,0,233,8,1121,0.17841213202497772,Kirghiz <ky@li.org>
+stellarium,5509,0,5672,2364,0,781,5097,11181,49.271084876129144,Kirghiz <ky@li.org>
+sugar-browse,0,0,134,0,0,41,0,134,0.0,LANGUAGE <LL@li.org>
+supertuxkart,611,0,1501,236,0,181,584,2112,28.929924242424242,Kirghiz <ky@li.org>
+sysstat,222,12,0,23,2,0,215,234,94.87179487179486,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+tar,2728,284,305,449,51,47,2620,3317,82.2429906542056,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+totem,291,0,1759,186,0,337,287,2050,14.19512195121951,Kirghiz <gnome-i18n@gnome.org>
+transmission,1809,0,0,494,0,0,1597,1809,100.0,Kirghiz <ky@li.org>
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>
+vte,96,0,0,18,0,0,95,96,100.0,Kirghiz
+vte3,96,0,0,18,0,0,95,96,100.0,Kirghiz
+xdg-user-dirs,28,0,0,28,0,0,36,28,100.0,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+xkeyboard-config,1371,0,536,590,0,102,1517,1907,71.8930256948086,Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net>
+yelp,506,0,0,121,0,0,405,506,100.0,Kirghiz <gnome-i18n@gnome.org>
+yelp-xsl,78,2,0,56,2,0,80,80,97.5,Kirghiz <gnome-i18n@gnome.org>

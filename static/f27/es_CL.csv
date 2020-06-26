@@ -1,0 +1,38 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,129,0,1663,30,0,383,163,1792,7.1986607142857135,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+caja,29,0,9327,29,0,1488,34,9356,0.3099615220179564,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+caja-extensions,74,0,496,34,0,97,101,570,12.982456140350877,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+engrampa,9,0,1936,9,0,345,12,1945,0.46272493573264784,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+eom,16,0,1701,15,0,303,20,1717,0.9318578916715201,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+libgweather,447,9,4,170,5,4,534,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+libmatemixer,3,0,239,3,0,123,5,242,1.2396694214876034,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+libmateweather,477,0,22,173,0,10,552,499,95.59118236472945,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-applets,1843,0,646,403,0,157,2283,2489,74.04580152671755,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-calc,15,0,1356,14,0,406,18,1371,1.0940919037199124,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-control-center,34,0,2624,22,0,606,42,2658,1.2791572610985704,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-desktop,154,0,2151,12,0,287,177,2305,6.68112798264642,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-icon-theme,4,0,0,2,0,0,6,4,100.0,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-media,7,0,219,6,0,90,9,226,3.0973451327433628,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-menu,9,0,307,9,0,109,10,316,2.848101265822785,Spanish (Chile) (http://www.transifex.com/mate/MATE/language/es_CL/)
+mate-menus,1,0,96,1,0,36,1,97,1.0309278350515463,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-notification-daemon,130,0,9,34,0,3,150,139,93.5251798561151,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-panel,42,0,4322,27,0,563,58,4364,0.9624197983501375,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-power-manager,12,0,2712,12,0,428,18,2724,0.4405286343612335,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-sensors-applet,11,0,295,11,0,95,15,306,3.594771241830065,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-session-manager,4,0,677,4,0,110,4,681,0.5873715124816447,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-settings-daemon,45,0,1719,8,0,245,49,1764,2.5510204081632653,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-system-monitor,16,0,1317,12,0,301,25,1333,1.2003000750187547,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-terminal,8,0,4641,8,0,517,12,4649,0.17208001720800173,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-user-guide,5,0,0,2,0,0,5,5,100.0,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mate-utils,18,0,3659,12,0,648,25,3677,0.4895295077508839,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+mozo,42,0,0,16,0,0,46,42,100.0,Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/)
+openerp,7505,0,28746,1768,0,2453,8140,36251,20.702877162009322,Spanish (Chile) <es_CL@li.org>
+openerp7,5068,0,30550,1345,0,2921,5488,35618,14.228760738952214,Spanish (Chile) <es_CL@li.org>
+python-kiwi,208,3,19,62,3,9,215,230,90.43478260869566,Español/Chile <es@li.org>
+rabbitvcs,859,0,72,297,0,20,938,931,92.26638023630504,Spanish
+realmd,0,0,778,0,0,125,0,778,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/freedesktop/language/es_CL/)
+simsu,0,0,81,0,0,4,0,81,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/simsu/language/es_CL/)
+tanglet,0,0,128,0,0,6,0,128,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/tanglet/language/es_CL/)
+wicd,285,0,853,80,0,174,325,1138,25.04393673110721,es_CL <LL@li.org>
+zathura,237,0,353,67,0,73,262,590,40.16949152542373,Spanish (Chile) (http://www.transifex.net/projects/p/zathura/language/es_CL/)

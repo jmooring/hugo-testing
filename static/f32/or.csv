@@ -1,0 +1,385 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,4141,4088,100.0,Oriya <oriya-it@googlegroups.com>
+NetworkManager,3889,3535,16892,671,584,840,4028,24316,15.99358447113012,Oriya <oriya-it@googlegroups.com>
+NetworkManager-libreswan,14,23,428,8,8,60,23,465,3.010752688172043,Oriya <oriya-it@googlegroups.com>
+NetworkManager-openconnect,54,5,3182,16,2,578,71,3241,1.666152422091947,Oriya <oriya-it@googlegroups.com>
+NetworkManager-vpnc,156,0,0,41,0,0,176,156,100.0,Oriya <oriya-it@googlegroups.com>
+PackageKit,877,0,405,239,0,82,941,1282,68.40873634945397,Oriya (http://www.transifex.com/freedesktop/packagekit/language/or/)
+abrt,2108,111,1457,270,16,131,2196,3676,57.3449401523395,Oriya (http://www.transifex.com/projects/p/fedora-abrt/language/or/)
+accerciser,540,0,0,207,0,0,632,540,100.0,Oriya <oriya-it@googlegroups.com>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Oriya (http://www.transifex.com/freedesktop/accountsservice/language/or/)
+aisleriot,1709,580,528,476,90,48,1547,2817,60.66737664181754,Oriya <oriya-it@googlegroups.com>
+alacarte,42,0,0,16,0,0,50,42,100.0,Oriya
+anaconda,2373,64,5321,442,9,835,2424,7758,30.587780355761794,Oriya (http://www.transifex.com/projects/p/anaconda/language/or/)
+anjuta,507,0,7376,358,0,1793,651,7883,6.431561588227833,Oriya <oriya-it@googlegroups.com>
+asunder,14,0,478,13,0,78,14,492,2.8455284552845526,http://littlesvr.ca/ostd/
+at-spi2-core,122,0,0,18,0,0,125,122,100.0,Oriya <or@li.org>
+atk,398,0,0,139,0,0,347,398,100.0,Oriya <oriya-it@googlegroups.com>
+atril,917,0,2929,296,0,345,995,3846,23.842953718148728,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+baobab,210,0,0,57,0,0,231,210,100.0,Oriya <oriya-it@googlegroups.com>
+bijiben,310,0,0,102,0,0,351,310,100.0,Oriya <oriya-it@googlegroups.com>
+blueberry,27,0,135,8,0,28,29,162,16.666666666666664,Oriya <or@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+brasero,5546,0,0,968,0,0,5396,5546,100.0,Oriya <oriya-it@googlegroups.com>
+caja,6754,0,2871,1251,0,344,6954,9625,70.17142857142858,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+caja-actions,2241,0,0,204,0,0,1976,2241,100.0,Oriya <oriya-it@googlegroups.com>
+caja-extensions,116,3,552,37,3,106,121,671,17.2876304023845,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+calibre,4081,0,156893,2835,0,15644,3931,160974,2.5351920185868524,Oriya (http://www.transifex.com/calibre/calibre/language/or/)
+caribou,171,0,0,57,0,0,189,171,100.0,Oriya <or@li.org>
+ccsm,360,5,226,119,3,41,379,591,60.913705583756354,Oriya <or@li.org>
+cheese,613,0,0,120,0,0,577,613,100.0,Oriya <oriya-it@googlegroups.com>
+chkconfig,503,0,52,94,0,9,568,555,90.63063063063062,Oriya (http://www.transifex.com/projects/p/fedora/language/or/)
+cinnamon-control-center,1313,0,0,756,0,0,1318,1313,100.0,Oriya <Translation-team-or@lists.sourceforge.net>
+cinnamon-desktop,231,0,3,31,0,1,221,234,98.71794871794873,Oriya <oriya-it@googlegroups.com>
+cinnamon-translations,1328,0,8943,319,0,2222,1366,10271,12.929607633141856,Oriya <or@li.org>
+clutter,926,272,1859,302,67,306,824,3057,30.291135099771015,Oriya <or@li.org>
+cogl,15,0,346,4,0,71,19,361,4.1551246537396125,Oriya <or@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,25,0,363,8,0,91,29,388,6.443298969072164,LANGUAGE <LL@li.org>
+compiz,2343,1451,591,565,208,106,2400,4385,53.4321550741163,gisti <info.gist@cdac.in>
+cracklib,93,0,3,15,0,1,88,96,96.875,Oriya <oriya-it@googlegroups.com>
+dasher,511,79,702,168,26,55,559,1292,39.55108359133127,Oriya <oriya-it@googlegroups.com>
+deepin-terminal,84,0,0,14,0,0,81,84,100.0,Oriya <oriya-it@googlegroups.com>
+devhelp,309,0,0,71,0,0,313,309,100.0,Oriya <oriya-group@lists.sarovar.org>
+dia,286,240,6079,237,218,1906,363,6605,4.33005299015897,Oriya <oriya-it@googlegroups.com>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,1,0,4438,1,0,856,1,4439,0.022527596305474205,Oriya
+ekiga,4147,0,57,705,0,8,4018,4204,98.64414843006661,Oriya <Translation-team-or@lists.sourceforge.net>
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1151,0,0,257,0,1151,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,2509,542,859,581,75,150,2719,3910,64.1687979539642,Oriya (http://www.transifex.com/projects/p/shotwell/language/or/)
+elementary-planner,0,0,2998,0,0,573,0,2998,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+emerald,640,51,5,214,5,1,728,696,91.95402298850574,gist oriya team <info.gist@cdac.in>
+engrampa,1058,0,6850,253,0,635,1167,7908,13.378856853818919,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+entangle,0,0,953,0,0,229,0,953,0.0,Oriya
+eog,1200,242,81,244,53,7,1193,1523,78.79185817465529,Oriya <Translation-team-or@lists.sourceforge.net>
+eog-plugins,79,0,0,27,0,0,85,79,100.0,Oriya <oriya-it@googlegroups.com>
+eom,1019,0,3932,254,0,288,1038,4951,20.58170066653201,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+epiphany,1495,184,860,469,40,79,1695,2539,58.88144938952343,Oriya <oriya-it@googlegroups.com>
+evince,1523,0,0,368,0,0,1599,1523,100.0,Oriya <oriya-it@googlegroups.com>
+evolution,21066,0,0,4424,0,0,21181,21066,100.0,Oriya <oriya-it@googlegroups.com>
+evolution-data-server,5398,0,0,1074,0,0,5609,5398,100.0,Oriya <oriya-it@googlegroups.com>
+evolution-ews,1165,0,0,239,0,0,1229,1165,100.0,Oriya <oriya-it@googlegroups.com>
+evolution-mapi,1034,0,0,231,0,0,1095,1034,100.0,Oriya <oriya-it@googlegroups.com>
+evolution-rss,728,0,0,198,0,0,804,728,100.0,Oriya <oriya-it@googlegroups.com>
+file-roller,1198,0,0,270,0,0,1305,1198,100.0,Oriya <oriya-it@googlegroups.com>
+firewalld,1486,10,721,292,1,122,1482,2217,67.02751465944971,Oriya (http://www.transifex.com/projects/p/firewalld/language/or/)
+five-or-more,159,47,76,47,12,6,172,282,56.38297872340425,Oriya <oriya-it@googlegroups.com>
+folks,1003,0,0,123,0,0,952,1003,100.0,Oriya <oriya-it@googlegroups.com>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Oriya
+four-in-a-row,109,51,96,41,17,15,114,256,42.578125,Oriya <oriya-it@googlegroups.com>
+fprintd,0,0,419,0,0,57,0,419,0.0,Oriya (http://www.transifex.com/freedesktop/fprintd/language/or/)
+gala,0,0,140,0,0,34,0,140,0.0,none
+gconf-editor,336,0,0,98,0,0,386,336,100.0,Oriya <oriya-it@googlegroups.com>
+gcr,116,201,305,60,70,97,117,622,18.64951768488746,Oriya <Translation-team-or@lists.sourceforge.net>
+gdk-pixbuf2,1345,0,0,201,0,0,1293,1345,100.0,Oriya <oriya-it@googlegroups.com>
+gdm,619,15,16,81,3,3,585,650,95.23076923076923,Oriya <oriya-it@googlegroups.com>
+gedit,4084,0,0,684,0,0,4096,4084,100.0,Oriya <oriya-it@googlegroups.com>
+gedit-plugins,902,186,117,390,56,23,957,1205,74.85477178423237,Oriya <oriya-it@googlegroups.com>
+ggz-gtk-client,5,0,0,5,0,0,7,5,100.0,Oriya <oriya-group@lists.sarovar.org>
+glade,428,162,4023,281,81,837,491,4613,9.278127032300022,Oriya <oriya-it@googlegroups.com>
+glade3,428,162,4023,281,81,837,491,4613,9.278127032300022,Oriya <oriya-it@googlegroups.com>
+glib-networking,135,0,0,24,0,0,137,135,100.0,Oriya <oriya-it@googlegroups.com>
+glib2,5703,0,0,905,0,0,5749,5703,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-abrt,96,4,124,22,2,32,100,224,42.857142857142854,Oriya (http://www.transifex.com/projects/p/gnome-abrt/language/or/)
+gnome-applets,3338,3,11,781,1,6,3468,3352,99.58233890214797,Oriya <Translation-team-or@lists.sourceforge.net>
+gnome-backgrounds,30,0,0,18,0,0,33,30,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-bluetooth,309,0,0,102,0,0,333,309,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-books,460,0,0,151,0,0,483,460,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-boxes,950,0,0,208,0,0,1036,950,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-calculator,1337,0,0,428,0,0,1302,1337,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-chess,809,284,297,112,87,38,863,1390,58.20143884892086,Oriya <oriya-it@googlegroups.com>
+gnome-clocks,223,0,0,77,0,0,244,223,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-color-manager,1792,0,0,342,0,0,1682,1792,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-contacts,405,0,0,155,0,0,440,405,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-control-center,6259,0,0,2210,0,0,6753,6259,100.0,Oriya <Translation-team-or@lists.sourceforge.net>
+gnome-desktop,438,0,0,61,0,0,427,438,100.0,Oriya <Translation-team-or@lists.sourceforge.net>
+gnome-desktop3,146,0,0,23,0,0,147,146,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-dictionary,841,0,0,180,0,0,885,841,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-disk-utility,3423,0,0,632,0,0,3434,3423,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-doc-utils,251,0,0,101,0,0,256,251,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-documents,460,0,0,151,0,0,483,460,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-extensions-app,1485,0,0,374,0,0,1496,1485,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-font-viewer,109,0,0,26,0,0,105,109,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-icon-theme,4,0,0,2,0,0,5,4,100.0,Oriya <Translation-team-or@lists.sourceforge.net>
+gnome-initial-setup,585,0,0,103,0,0,626,585,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-keyring,553,0,0,112,0,0,622,553,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-klotski,65,35,94,40,13,6,70,194,33.50515463917525,Oriya <oriya-it@googlegroups.com>
+gnome-mahjongg,87,45,172,38,13,12,113,304,28.618421052631575,Oriya <oriya-it@googlegroups.com>
+gnome-menus,70,0,0,27,0,0,71,70,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-mines,94,108,142,26,33,13,98,344,27.325581395348834,Oriya <oriya-it@googlegroups.com>
+gnome-nettool,644,0,0,219,0,0,687,644,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-nibbles,129,121,197,46,43,21,145,447,28.859060402684566,Oriya <oriya-it@googlegroups.com>
+gnome-online-accounts,692,0,0,147,0,0,722,692,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-packagekit,5034,0,0,811,0,0,4706,5034,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-panel,3520,0,0,508,0,0,3078,3520,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-power-manager,480,0,0,147,0,0,470,480,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-robots,384,94,119,69,21,7,405,597,64.321608040201,Oriya <oriya-it@googlegroups.com>
+gnome-screensaver,468,0,0,92,0,0,495,468,100.0,Oriya <Translation-team-or@lists.sourceforge.net>
+gnome-screenshot,354,0,0,75,0,0,360,354,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-search-tool,1356,3,0,199,1,0,1456,1359,99.77924944812362,Oriya <Translation-team-or@lists.sourceforge.net>
+gnome-session,323,0,0,59,0,0,343,323,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-settings-daemon,2607,0,0,429,0,0,2456,2607,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-shell,1485,0,0,374,0,0,1496,1485,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-shell-extensions,358,0,0,68,0,0,348,358,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-sudoku,23,141,235,13,41,18,34,399,5.764411027568922,Oriya <oriya-it@googlegroups.com>
+gnome-system-log,420,0,0,66,0,0,398,420,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-system-monitor,1280,0,0,308,0,0,1294,1280,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-terminal,2309,0,0,434,0,0,2400,2309,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-tetravex,34,81,105,16,14,15,47,220,15.454545454545453,Oriya <oriya-it@googlegroups.com>
+gnome-themes,109,0,0,30,0,0,116,109,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-themes-extra,24,0,0,9,0,0,24,24,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-user-share,160,0,0,29,0,0,169,160,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-vfs2,1508,0,0,301,0,0,1452,1508,100.0,Oriya
+gnome-video-effects,11,2,13,10,2,11,12,26,42.30769230769231,Oriya <oriya-it@googlegroups.com>
+gnote,2975,0,0,444,0,0,3080,2975,100.0,Oriya <oriya-it@googlegroups.com>
+granite,0,0,269,0,0,88,0,269,0.0,
+gsettings-desktop-schemas,2113,0,2472,242,0,176,1913,4585,46.085059978189754,Oriya <or@li.org>
+gstreamer1-plugins-bad-free,12,53,132,2,8,19,10,197,6.091370558375635,Oriya <gora_mohanty@yahoo.co.in>
+gstreamer1-plugins-base,8,123,861,2,18,185,7,992,0.8064516129032258,Oriya <gora_mohanty@yahoo.co.in>
+gstreamer1-plugins-good,10,295,497,1,38,59,9,802,1.2468827930174564,Oriya <gora_mohanty@yahoo.co.in>
+gstreamer1-plugins-ugly-free,7,21,52,1,4,5,6,80,8.75,Oriya <gora_mohanty@yahoo.co.in>
+gtk2,13291,262,151,2724,41,19,12393,13704,96.98628137769994,Oriya <oriya-it@googlegroups.com>
+gtk2-engines,119,0,0,47,0,0,147,119,100.0,Oriya <oriya-it@googlegroups.com>
+gtk3,12220,578,441,2704,82,46,11421,13239,92.30304403655866,Oriya <oriya-it@googlegroups.com>
+gtk4,12220,578,441,2704,82,46,11421,13239,92.30304403655866,Oriya <oriya-it@googlegroups.com>
+gtkhtml3,485,0,0,309,0,0,673,485,100.0,Oriya <oriya-it@googlegroups.com>
+gtksourceview2,1120,0,0,448,0,0,1096,1120,100.0,Oriya <oriya-it@googlegroups.com>
+gtksourceview3,113,83,126,34,21,51,110,322,35.09316770186335,Oriya <Translation-team-or@lists.sourceforge.net>
+gtksourceview4,1174,36,236,484,23,53,1152,1446,81.18948824343015,Oriya <Translation-team-or@lists.sourceforge.net>
+gucharmap,1130,0,75,395,0,2,1177,1205,93.7759336099585,Oriya <oriya-it@googlegroups.com>
+gvfs,2704,0,0,596,0,0,2797,2704,100.0,Oriya <oriya-it@googlegroups.com>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hivex,6,8,256,1,1,20,5,270,2.2222222222222223,Oriya <None>
+iagno,34,107,181,16,33,23,41,322,10.559006211180124,Oriya <oriya-it@googlegroups.com>
+ibus,669,97,1402,142,15,387,659,2168,30.857933579335793,Oriya <Translation-team-or@lists.sourceforge.net>
+ibus-typing-booster,473,29,1373,102,4,96,478,1875,25.226666666666663,Odia <https://translate.stg.fedoraproject.org/projects/ibus-typing-booster/app/or/>
+im-chooser,229,0,25,52,0,6,219,254,90.15748031496062,LANGUAGE <LL@li.org>
+imsettings,440,5,40,80,1,7,435,485,90.72164948453609,LANGUAGE <LL@li.org>
+initial-setup,33,0,73,7,0,13,35,106,31.132075471698112,Oriya (http://www.transifex.com/projects/p/initial-setup/language/or/)
+initscripts,775,54,143,119,10,19,916,972,79.73251028806584,Oriya (http://www.transifex.com/projects/p/fedora/language/or/)
+inkscape,21248,9834,9847,4823,2520,1325,21691,40929,51.9142906007965,Hindi <Indlinux>
+iso-codes,7296,2168,6241,4457,997,4729,7110,15705,46.45654250238778,Odia <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/or/>
+isomaster,26,1,647,21,1,85,36,674,3.857566765578635,http://littlesvr.ca/ostd/
+json-glib,226,0,0,27,0,0,200,226,100.0,Oriya <or@li.org>
+kdump-anaconda-addon,83,0,0,12,0,0,91,83,100.0,Oriya <Translation-team-or@lists.sourceforge.net>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kcmutils,331,26,209,54,5,13,312,566,58.48056537102474,Oriya <oriya-it@googlegroups.com>
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kcompletion,0,12,6,0,9,2,0,18,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kconfig,0,0,271,0,0,103,0,271,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kconfigwidgets,121,141,62,65,41,13,203,324,37.34567901234568,Oriya <oriya-it@googlegroups.com>
+kf5-kcoreaddons,0,222,106,0,80,36,0,328,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kdeclarative,14,12,90,7,3,6,18,116,12.068965517241379,Oriya <oriya-it@googlegroups.com>
+kf5-kdelibs4support,496,824,3493,154,565,1645,531,4813,10.30542281321421,Oriya <oriya-it@googlegroups.com>
+kf5-kdesignerplugin,0,28,26,0,6,3,0,54,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kglobalaccel,0,17,54,0,5,4,0,71,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-khtml,744,106,871,233,25,52,809,1721,43.230679837303896,Oriya <oriya-it@googlegroups.com>
+kf5-ki18n,42,80,2,42,66,2,47,124,33.87096774193548,Oriya <oriya-it@googlegroups.com>
+kf5-kinit,32,14,88,7,3,4,27,134,23.88059701492537,Oriya <oriya-it@googlegroups.com>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kjsembed,222,14,12,41,2,1,229,248,89.51612903225806,Oriya <oriya-it@googlegroups.com>
+kf5-knewstuff,64,308,1126,32,114,97,74,1498,4.2723631508678235,Oriya <oriya-it@googlegroups.com>
+kf5-knotifications,0,20,0,0,7,0,0,20,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-knotifyconfig,34,9,86,12,3,2,42,129,26.356589147286826,Oriya <oriya-it@googlegroups.com>
+kf5-kparts,60,43,20,15,11,2,63,123,48.78048780487805,Oriya <oriya-it@googlegroups.com>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Oriya <oriya-it@googlegroups.com>
+kf5-kross,81,19,0,28,7,0,82,100,81.0,Oriya <oriya-it@googlegroups.com>
+kf5-kservice,32,62,73,6,13,8,24,167,19.16167664670659,Oriya <oriya-it@googlegroups.com>
+kf5-ktextwidgets,250,15,208,100,10,20,295,473,52.85412262156448,Oriya <oriya-it@googlegroups.com>
+kf5-kwallet,0,0,1336,0,0,89,0,1336,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kwidgetsaddons,0,1037,236,0,417,39,0,1273,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Oriya <oriya-it@googlegroups.com>
+kf5-kxmlgui,257,278,1010,84,102,35,291,1545,16.63430420711974,Oriya <oriya-it@googlegroups.com>
+kf5-sonnet,0,296,371,0,63,10,0,667,0.0,Oriya <oriya-it@googlegroups.com>
+libbonobo,543,0,0,107,0,0,495,543,100.0,Oriya <oriya-group@lists.sarovar.org>
+libbonoboui,368,0,0,115,0,0,382,368,100.0,Oriya <Translation-team-or@lists.sourceforge.net>
+libcryptui,3012,0,0,654,0,0,3206,3012,100.0,Oriya <oriya-it@googlegroups.com>
+libdnf,2,0,1184,1,0,189,2,1186,0.16863406408094433,Oriya
+libgdata,597,0,0,74,0,0,582,597,100.0,Oriya <or@li.org>
+libgdl,211,0,391,64,0,29,197,602,35.04983388704319,Oriya <oriya-it@googlegroups.com>
+libgnome,1754,19,0,272,1,0,1603,1773,98.92836999435984,Oriya <Translation-team-or@lists.sourceforge.net>
+libgnome-keyring,44,0,0,9,0,0,44,44,100.0,Oriya <oriya-it@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,374,378,100.0,Oriya <oriya-group@lists.sarovar.org>
+libgnomekbd,242,0,0,55,0,0,255,242,100.0,Oriya <oriya-it@googlegroups.com>
+libgnomeui,1226,0,0,320,0,0,1347,1226,100.0,Oriya <Translation-team-or@lists.sourceforge.net>
+libgtop2,126,0,0,40,0,0,133,126,100.0,Oriya <oriya-it@googlegroups.com>
+libguestfs,1373,0,14360,255,0,1494,1449,15733,8.726879806775568,Oriya (http://www.transifex.com/projects/p/libguestfs/language/or/)
+libgweather,6170,0,0,4578,0,0,6163,6170,100.0,Oriya <oriya-it@googlegroups.com>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,174,0,134,41,0,50,189,308,56.493506493506494,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+libmatemixer,12,0,230,11,0,115,15,242,4.958677685950414,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+libmateweather,5947,0,195,4484,0,90,5991,6142,96.82513839140346,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+libnma,208,415,294,60,81,54,226,917,22.68266085059978,Oriya <Translation-team-or@lists.sourceforge.net>
+libosinfo,0,0,783,0,0,168,0,783,0.0,Oriya
+libpeas,110,0,0,31,0,0,127,110,100.0,Oriya <oriya-it@googlegroups.com>
+libpwquality,333,0,12,50,0,1,327,345,96.52173913043478,Oriya (http://www.transifex.com/projects/p/libpwquality/language/or/)
+libreport,2387,39,2502,372,4,227,2503,4928,48.4375,Oriya (http://www.transifex.com/projects/p/libreport/language/or/)
+libsoup,110,0,0,25,0,0,121,110,100.0,Oriya <oriya-it@googlegroups.com>
+libuser,996,38,403,213,7,81,1389,1437,69.31106471816284,Oriya (http://www.transifex.com/projects/p/fedora/language/or/)
+light-locker,68,0,192,13,0,24,69,260,26.153846153846157,Oriya (http://www.transifex.com/the_cavalry/light-locker/language/or/)
+lightsoff,10,33,54,5,10,4,14,97,10.309278350515463,Oriya <oriya-it@googlegroups.com>
+lxmenu-data,97,0,0,37,0,0,106,97,100.0,Oriya
+marco,3169,0,1170,366,0,65,2986,4339,73.03526158100945,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-applets,1877,9,13967,461,3,1138,2001,15853,11.840030278180786,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-backgrounds,26,0,39,18,0,13,31,65,40.0,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-calc,1143,0,2035,427,0,292,1158,3178,35.966016362492134,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-control-center,2554,0,6048,990,0,522,2787,8602,29.6907695884678,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-desktop,1232,0,992,186,0,99,1161,2224,55.39568345323741,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-media,121,0,118,54,0,45,148,239,50.627615062761514,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-menu,61,0,247,33,0,77,73,308,19.805194805194805,Oriya (http://www.transifex.com/mate/MATE/language/or/)
+mate-menus,97,0,0,37,0,0,105,97,100.0,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-notification-daemon,4,0,148,3,0,38,5,152,2.631578947368421,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-panel,3856,0,2871,537,0,265,3403,6727,57.32124275308459,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-polkit,97,0,26,17,0,4,101,123,78.86178861788618,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-power-manager,1421,3,3715,293,1,260,1464,5139,27.651294026075114,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-screensaver,867,0,153,146,0,23,916,1020,85.0,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-sensors-applet,23,0,2137,23,0,203,37,2160,1.0648148148148149,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-session-manager,429,0,283,102,0,29,463,712,60.25280898876404,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-settings-daemon,1082,0,1115,182,0,136,1065,2197,49.24897587619481,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-system-monitor,566,0,4345,213,0,445,619,4911,11.525147627774384,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-terminal,3977,0,4395,497,0,301,4093,8372,47.50358337314859,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-themes,9,0,65,3,0,20,9,74,12.162162162162163,Oriya (http://www.transifex.com/mate/MATE/language/or/)
+mate-user-admin,12,0,616,10,0,121,18,628,1.910828025477707,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-user-guide,141,0,42829,84,0,3145,158,42970,0.32813590877356297,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+mate-utils,3298,0,7006,662,0,467,3548,10304,32.00698757763975,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+metacity,3700,0,0,406,0,0,3508,3700,100.0,Oriya <oriya-it@googlegroups.com>
+mingw-GConf2,4088,0,0,497,0,0,4141,4088,100.0,Oriya <oriya-it@googlegroups.com>
+mingw-atk,398,0,0,139,0,0,347,398,100.0,Oriya <oriya-it@googlegroups.com>
+mingw-colord,25,0,363,8,0,91,29,388,6.443298969072164,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,1345,0,0,201,0,0,1293,1345,100.0,Oriya <oriya-it@googlegroups.com>
+mingw-glib-networking,135,0,0,24,0,0,137,135,100.0,Oriya <oriya-it@googlegroups.com>
+mingw-glib2,5703,0,0,905,0,0,5749,5703,100.0,Oriya <oriya-it@googlegroups.com>
+mingw-gstreamer-plugins-bad-free,25,37,34,4,6,4,20,96,26.041666666666668,Oriya <gora_mohanty@yahoo.co.in>
+mingw-gstreamer-plugins-base,49,122,737,14,17,147,52,908,5.39647577092511,Oriya <gora_mohanty@yahoo.co.in>
+mingw-gstreamer-plugins-good,35,267,512,26,42,122,41,814,4.2997542997543,Oriya <gora_mohanty@yahoo.co.in>
+mingw-gstreamer1-plugins-bad-free,12,53,132,2,8,19,10,197,6.091370558375635,Oriya <gora_mohanty@yahoo.co.in>
+mingw-gstreamer1-plugins-base,8,123,837,2,18,182,7,968,0.8264462809917356,Oriya <gora_mohanty@yahoo.co.in>
+mingw-gstreamer1-plugins-good,10,295,489,1,38,58,9,794,1.2594458438287155,Oriya <gora_mohanty@yahoo.co.in>
+mingw-gtk2,13291,262,151,2724,41,19,12393,13704,96.98628137769994,Oriya <oriya-it@googlegroups.com>
+mingw-gtk3,12220,578,441,2704,82,46,11421,13239,92.30304403655866,Oriya <oriya-it@googlegroups.com>
+mingw-gtksourceview3,113,83,126,34,21,51,110,322,35.09316770186335,Oriya <Translation-team-or@lists.sourceforge.net>
+mingw-json-glib,226,0,0,27,0,0,200,226,100.0,Oriya <or@li.org>
+mingw-libosinfo,0,0,783,0,0,168,0,783,0.0,Oriya
+mingw-libsoup,110,0,0,25,0,0,121,110,100.0,Oriya <oriya-it@googlegroups.com>
+mingw-libvirt,30480,0,0,5361,0,0,31665,30480,100.0,Oriya (http://www.transifex.com/projects/p/libvirt/language/or/)
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Oriya (http://www.transifex.com/projects/p/libvirt-glib/language/or/)
+mingw-osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Oriya
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Oriya (http://www.transifex.com/freedesktop/p11-kit/language/or/)
+mousetweaks,715,0,0,94,0,0,720,715,100.0,Oriya <oriya-it@googlegroups.com>
+mozo,42,0,1,16,0,1,50,43,97.67441860465115,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+muffin,3318,181,365,399,6,8,3007,3864,85.86956521739131,Oriya <oriya-it@googlegroups.com>
+multimedia-menus,56,0,0,22,0,0,65,56,100.0,Oriya <oriya-it@googlegroups.com>
+mutter,1829,0,0,237,0,0,1729,1829,100.0,Oriya <oriya-it@googlegroups.com>
+nautilus,6114,0,0,1030,0,0,6397,6114,100.0,Oriya <oriya-it@googlegroups.com>
+nautilus-sendto,45,0,0,8,0,0,46,45,100.0,Oriya <oriya-it@googlegroups.com>
+nemo-extensions,24,0,0,11,0,0,25,24,100.0,Oriya <oriya-it@googlegroups.com>
+network-manager-applet,832,1473,2173,255,335,329,928,4478,18.579723090665475,Oriya <Translation-team-or@lists.sourceforge.net>
+notification-daemon,17,0,0,7,0,0,19,17,100.0,Oriya <oriya-it@googlegroups.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,1404,277,2023,562,158,547,1577,3704,37.904967602591796,Oriya <oriya-it@googlegroups.com>
+osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Oriya
+p11-kit,0,0,476,0,0,81,0,476,0.0,Oriya (http://www.transifex.com/freedesktop/p11-kit/language/or/)
+pam,575,22,0,117,3,0,655,597,96.31490787269682,Oriya (http://www.transifex.com/projects/p/fedora/language/or/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+paprefs,131,0,0,23,0,0,152,131,100.0,Oriya <oriya-it@googlegroups.com>
+passwd,267,0,69,49,0,8,328,336,79.46428571428571,Oriya (http://www.transifex.com/projects/p/fedora/language/or/)
+pavucontrol,219,1,17,85,1,1,277,237,92.40506329113924,Oriya <oriya-it@googlegroups.com>
+pidgin,14450,10,1296,3209,1,223,15064,15756,91.71109418634171,Oriya (http://www.transifex.com/pidgin/pidgin/language/or/)
+plasma-desktop,789,427,7272,144,122,1402,772,8488,9.295475966069745,Oriya <oriya-it@googlegroups.com>
+pluma,3849,0,9271,1004,0,1072,3975,13120,29.33689024390244,Oriya (https://www.transifex.com/mate/teams/13566/or/)
+policycoreutils,3618,0,875,564,0,134,3813,4493,80.52526151791676,Oriya
+polkit-gnome,94,0,0,16,0,0,96,94,100.0,Oriya <oriya-it@googlegroups.com>
+publican,1862,67,3514,139,3,474,1710,5443,34.20907587727356,Oriya <oriya-it@googlegroups.com>
+publican-jboss,120,3,109,9,1,4,124,232,51.724137931034484,Oriya <oriya-it@googlegroups.com>
+pulseaudio,2011,951,342,407,43,46,2102,3304,60.865617433414045,Oriya <oriya-it@googlegroups.com>
+pykickstart,192,43,1383,24,1,153,190,1618,11.866501854140916,Odia <https://translate.stg.fedoraproject.org/projects/pykickstart/master/or/>
+python-blivet,290,0,268,43,0,33,322,558,51.971326164874554,Oriya (http://www.transifex.com/projects/p/blivet/language/or/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Oriya
+python-meh,1,0,108,1,0,22,3,109,0.9174311926605505,Oriya (http://www.transifex.com/projects/p/python-meh/language/or/)
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Oriya
+quadrapassel,228,74,126,56,17,6,237,428,53.271028037383175,Oriya <oriya-it@googlegroups.com>
+realmd,0,0,789,0,0,127,0,789,0.0,Oriya (http://www.transifex.com/freedesktop/realmd/language/or/)
+redhat-menus,261,0,0,86,0,0,300,261,100.0,Oriya <oriya-group@lists.sarovar.org>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Oriya
+rhythmbox,705,17,3823,336,8,726,839,4545,15.51155115511551,Oriya <oriya-it@googlegroups.com>
+rpm-ostree,2,0,1184,1,0,189,2,1186,0.16863406408094433,Oriya
+seahorse,3012,0,0,654,0,0,3206,3012,100.0,Oriya <oriya-it@googlegroups.com>
+seahorse-caja,411,10,0,109,1,0,451,421,97.62470308788599,Oriya <oriya-it@googlegroups.com>
+seahorse-nautilus,411,10,0,109,1,0,451,421,97.62470308788599,Oriya <oriya-it@googlegroups.com>
+setroubleshoot,515,0,120,148,0,19,537,635,81.10236220472441,Oriya (http://www.transifex.com/projects/p/fedora/language/or/)
+setroubleshoot-plugins,2331,0,3915,119,0,107,2208,6246,37.319884726224785,Oriya (http://www.transifex.com/projects/p/fedora/language/or/)
+setuptool,55,0,0,14,0,0,61,55,100.0,Oriya
+shared-mime-info,0,0,1991,0,0,773,0,1991,0.0,Oriya (http://www.transifex.com/freedesktop/shared-mime-info/language/or/)
+shotwell,4218,19,316,895,3,48,4527,4553,92.64221392488469,Oriya (http://www.transifex.com/projects/p/shotwell/language/or/)
+sos,54,33,35,11,7,12,58,122,44.26229508196721,Oriya <oriya-it@googlegroups.com>
+sound-juicer,988,12,0,181,10,0,1044,1000,98.8,Oriya <Translation-team-or@lists.sourceforge.net>
+subscription-manager,4796,0,926,880,0,118,4894,5722,83.81684725620411,Oriya
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,53,9,151,49,6,68,54,213,24.88262910798122,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,25,24,100.0,Oriya <oriya-it@googlegroups.com>
+swell-foop,64,66,136,26,16,13,67,266,24.06015037593985,Oriya <oriya-it@googlegroups.com>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+switchdesk,16,87,19,3,10,6,21,122,13.114754098360656,Oriya <oriya-group@lists.sarovar.org>
+system-config-language,60,55,100,13,5,13,66,215,27.906976744186046,Oriya <oriya-it@googlegroups.com>
+system-config-printer,3033,37,395,727,18,176,3204,3465,87.53246753246754,Oriya (http://www.transifex.com/projects/p/system-config-printer/language/or/)
+system-config-rootpassword,116,0,0,19,0,0,141,116,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-switch-java,81,0,0,11,0,0,82,81,100.0,Oriya
+system-switch-mail,9,88,4,6,8,3,12,101,8.91089108910891,Oriya <oriya-group@lists.sarovar.org>
+tali,315,31,75,80,10,7,306,421,74.82185273159145,Oriya <oriya-it@googlegroups.com>
+tomboy,2011,0,1093,402,0,39,2257,3104,64.78737113402062,Oriya <oriya-it@googlegroups.com>
+totem,2043,0,0,522,0,0,2124,2043,100.0,Oriya <oriya-it@googlegroups.com>
+totem-pl-parser,28,0,0,7,0,0,30,28,100.0,Oriya <oriya-it@googlegroups.com>
+tuxpaint,1137,475,50,251,40,14,1292,1662,68.41155234657039,LANGUAGE <LL@li.org>
+tuxtype2,71,0,9,32,0,8,71,80,88.75,Oriya
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+uget,552,0,533,235,0,127,596,1085,50.875576036866356,Oriya (India) (http://www.transifex.com/uget/uget/language/or_IN/)
+usermode,564,0,9,94,0,2,662,573,98.42931937172776,Oriya (http://www.transifex.com/projects/p/fedora/language/or/)
+webkit2gtk3,1526,0,0,365,0,0,1575,1526,100.0,Oriya <oriya-it@googlegroups.com>
+wine,12,210,16995,9,101,3790,20,17217,0.06969855375500958,Oriya
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Oriya <translation-team-or@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,82,81,100.0,Oriya <oriya-it@googlegroups.com>
+xed,2920,0,1720,723,0,281,2888,4640,62.93103448275862,Oriya (http://www.transifex.com/projects/p/MATE/language/or/)
+xreader,845,0,828,224,0,159,895,1673,50.508069336521224,Oriya (http://www.transifex.com/mate/MATE/language/or/)
+yelp,452,0,0,104,0,0,418,452,100.0,Oriya <oriya-it@googlegroups.com>
+yelp-xsl,249,0,0,99,0,0,254,249,100.0,Oriya <oriya-it@googlegroups.com>
+zenity,674,0,0,159,0,0,690,674,100.0,Oriya <oriya-it@googlegroups.com>

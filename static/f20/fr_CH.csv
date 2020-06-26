@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+enlightenment,2278,3608,2545,694,1031,431,2779,8431,27.019333412406592,Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net>
+gnomebaker,41,0,1145,17,0,274,44,1186,3.456998313659359,French (Switzerland) <fr_CH@li.org>
+openerp,5,0,0,2,0,0,7,5,100.0,
+openerp7,5,0,0,2,0,0,7,5,100.0,

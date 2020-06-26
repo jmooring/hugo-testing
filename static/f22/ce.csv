@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deja-dup,0,0,2011,0,0,327,0,2011,0.0,Chechen <ce@li.org>
+simple-scan,0,0,580,0,0,144,0,580,0.0,Chechen <ce@li.org>
+stellarium,1,0,15824,1,0,4262,1,15825,0.00631911532385466,Chechen <ce@li.org>

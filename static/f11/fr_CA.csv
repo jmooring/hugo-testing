@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+dopewars,5286,0,0,867,0,0,5674,5286,100.0,French
+filezilla,7711,5,0,1319,1,0,9143,7716,99.93519958527735,milliWHAT?
+gnubiff,1032,137,12,220,1,1,1154,1181,87.3835732430144,Français <fr@li.org>
+jpoker,256,20,3,111,10,3,300,279,91.75627240143369,<pokersource-users@gna.org>
+liblicense,45,0,21,38,0,12,41,66,68.18181818181817,LANGUAGE <LL@li.org>
+notecase,410,266,480,147,91,118,503,1156,35.46712802768166,Catherine Beauchemin <cbeau@users.sourceforge.net>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+poker-engine,166,21,0,68,6,0,189,187,88.77005347593582,<pokersource-users@gna.org>
+poker-network,771,78,64,152,29,19,732,913,84.44687842278204,<pokersource-users@gna.org>
+poker2d,771,78,64,152,29,19,732,913,84.44687842278204,<pokersource-users@gna.org>
+supertuxkart,41,0,887,3,0,199,55,928,4.418103448275862,

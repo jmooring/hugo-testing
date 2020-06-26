@@ -1,0 +1,55 @@
+---
+title: "gnome-shell-extension-just-perfection - translation progress for f37"
+package: gnome-shell-extension-just-perfection
+date: 2026-01-18T05:28:32+00:00
+started_languages: 17
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 17
+release: f37
+---
+The package gnome-shell-extension-just-perfection (version 23.0):
+
+* represents 616 source words to be translated
+* is translated into 17 languages in Fedora f37
+
+
+* contains 17 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [af]({{< ref "/f37/language/af.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/af.po | 
+ | [ar]({{< ref "/f37/language/ar.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/ar.po | 
+ | [be]({{< ref "/f37/language/be.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/be.po | 
+ | [bg]({{< ref "/f37/language/bg.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/bg.po | 
+ | [ca]({{< ref "/f37/language/ca.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/ca.po | 
+ | [de]({{< ref "/f37/language/de.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/de.po | 
+ | [es]({{< ref "/f37/language/es.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/es.po | 
+ | [fr]({{< ref "/f37/language/fr.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/fr.po | 
+ | [gl]({{< ref "/f37/language/gl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/gl.po | 
+ | [it]({{< ref "/f37/language/it.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/it.po | 
+ | [nl]({{< ref "/f37/language/nl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/nl.po | 
+ | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/pt_BR.po | 
+ | [ru]({{< ref "/f37/language/ru.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/ru.po | 
+ | [sv]({{< ref "/f37/language/sv.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/sv.po | 
+ | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/zh_TW.po | 
+ | [ne]({{< ref "/f37/language/ne.md" >}}) | 614 | 616 | 99.7 | /mnt/stockage/packages/f37/gnome-shell-extension-just-perfection/po/ne.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

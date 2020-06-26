@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,3,0,144410,1,0,16975,3,144413,0.0020773753055472843,Sardinian (http://www.transifex.com/projects/p/calibre/language/sc/)
+exaile,3852,133,21,1011,9,5,4693,4006,96.1557663504743,Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/>
+gnome-do,473,0,139,119,0,25,502,612,77.2875816993464,Sardinian <sc@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Sardinian <sc@li.org>
+mate-desktop,804,0,1592,104,0,231,983,2396,33.5559265442404,Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/)
+mate-notification-daemon,145,0,7,35,0,2,194,152,95.39473684210526,Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/)

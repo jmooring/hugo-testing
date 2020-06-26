@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+caja-extensions,6,0,839,6,0,175,7,845,0.7100591715976331,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+eom,16,0,1763,12,0,329,20,1779,0.8993816750983699,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+gnome-do,0,0,612,0,0,144,0,612,0.0,Min Nan Chinese <nan@li.org>
+mate-applets,22,0,8506,21,0,637,53,8528,0.2579737335834897,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+mate-media,4,0,240,4,0,96,4,244,1.639344262295082,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+mate-panel,52,0,5538,23,0,693,41,5590,0.9302325581395349,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+mate-polkit,1,0,122,1,0,20,2,123,0.8130081300813009,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+mate-utils,66,0,6745,29,0,787,57,6811,0.9690207018059023,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+mozo,6,0,40,5,0,19,10,46,13.043478260869565,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)

@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+PyXML,0,0,115,0,0,19,0,115,0.0,English <en@translate.freefriends.org>
+boinc-client,0,0,3228,0,0,644,0,3228,0.0,BOINC Development Team <rwalton@ssl.berkeley.edu>
+e16,198,35,2680,6,1,530,198,2913,6.797116374871266,American English <en@li.org>
+gcalctool,842,44,29,353,22,3,842,915,92.02185792349727,
+gcin,146,0,0,108,0,0,423,146,100.0,LANGUAGE <LL@li.org>
+gjots2,837,0,69,256,0,4,837,906,92.3841059602649,<en@li.org>
+gnomebaker,271,275,621,91,51,145,349,1167,23.221936589545844,English (United States) <en_US@li.org>
+gnubg,11975,20,6678,2211,9,1137,11976,18673,64.13002731216194,none
+listen,649,69,29,290,26,7,646,747,86.88085676037484,English (United States) <en_US@li.org>
+python-nevow,14,0,0,4,0,0,19,14,100.0,LANGUAGE <LL@li.org>
+wxPython,0,0,1255,0,0,363,0,1255,0.0,LANGUAGE <LL@li.org>
+xmlcopyeditor,0,0,1354,0,0,406,0,1354,0.0,LANGUAGE <LL@li.org>

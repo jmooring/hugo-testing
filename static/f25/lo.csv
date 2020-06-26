@@ -1,0 +1,143 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Lao (http://www.transifex.com/projects/p/fedora-abrt/language/lo/)
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+authconfig,0,0,1715,0,0,296,0,1715,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+blueberry,27,0,114,8,0,26,12,141,19.148936170212767,Lao <lo@li.org>
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Lao (http://www.transifex.com/projects/p/certmonger/language/lo/)
+chkconfig,0,0,487,0,0,93,0,487,0.0,LANGUAGE <LL@li.org>
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,none
+cinnamon-desktop,204,1,26,21,1,9,111,231,88.31168831168831,Lao <lo@li.org>
+cinnamon-translations,3197,0,14105,981,0,3021,1567,17302,18.477632643625014,Lao <lo@li.org>
+clamtk,46,0,418,32,0,108,32,464,9.913793103448276,Lao <lo@li.org>
+console-setup,978,3,4,170,1,4,295,985,99.28934010152284,Lao <lo@li.org>
+control-center,0,0,1313,0,0,756,0,1313,0.0,none
+feedreader,0,0,926,0,0,219,0,926,0.0,
+filezilla,7892,703,1223,1435,140,90,2531,9818,80.38297005500102,
+gnome-desktop,351,0,0,53,0,0,200,351,100.0,Lao <lo@li.org>
+gnome-desktop3,146,0,0,23,0,0,97,146,100.0,Lao <lo@li.org>
+gnome-menus,95,0,0,37,0,0,57,95,100.0,Lao <lo@li.org>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Lao (http://www.transifex.com/projects/p/initial-setup/language/lo/)
+initscripts,0,0,1003,0,0,158,0,1003,0.0,<XX@li.org>
+koffice-kivio,2000,1806,4611,597,778,986,1091,8417,23.761435190685518,Vilaphone Manivanh <en@li.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Lao (http://www.transifex.com/mate/MATE/language/lo/)
+libmx,16,0,24,9,0,8,10,40,40.0,Lao <lo@li.org>
+libreoffice,37884,6856,512117,11871,3119,62387,16612,556857,6.803182863823208,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Lao (http://www.transifex.com/projects/p/libreport/language/lo/)
+lightdm,0,0,84,0,0,4,0,84,0.0,Lao <lo@li.org>
+mate-desktop,165,0,2181,26,0,304,99,2346,7.033248081841433,Lao (http://www.transifex.com/mate/MATE/language/lo/)
+mate-menu,68,0,232,40,0,70,51,300,22.666666666666664,Lao <lo@li.org>
+maya-calendar,15,0,379,2,0,162,10,394,3.807106598984772,Lao <lo@li.org>
+mintmenu,1282,0,2035,382,0,378,607,3317,38.64938197166114,Lao <lo@li.org>
+nemo-extensions,1,0,7,1,0,1,1,8,12.5,Lao <lo@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+onboard,0,0,2318,0,0,510,0,2318,0.0,Lao <lo@li.org>
+openerp,429,0,14231,146,0,2328,173,14660,2.926330150068213,Lao <lo@li.org>
+openerp-client,11,0,7718,5,0,569,5,7729,0.14232112821839824,Lao <lo@li.org>
+openerp7,222,0,15412,101,0,2603,108,15634,1.4199820903159779,Lao <lo@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Lao (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/lo/)
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-greeter,0,0,29,0,0,10,0,29,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+passwd,0,0,315,0,0,55,0,315,0.0,LANGUAGE <LL@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Lao (http://www.transifex.com/projects/p/python-meh/language/lo/)
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhn-client-tools,0,0,4057,0,0,420,0,4057,0.0,Lao (http://www.transifex.com/projects/p/spacewalk/language/lo/)
+rhnsd,0,0,33,0,0,9,0,33,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+slick-greeter,0,0,211,0,0,47,0,211,0.0,Lao <lo@li.org>
+slingshot-launcher,0,0,217,0,0,68,0,217,0.0,LANGUAGE <LL@li.org>
+snap-photobooth,0,0,25,0,0,5,0,25,0.0,LANGUAGE <LL@li.org>
+snapper,0,52,691,0,12,168,0,743,0.0,Lao <i18n@suse.de>
+sos,0,0,122,0,0,30,0,122,0.0,none
+stellarium,231,0,23301,194,0,5613,199,23532,0.9816420193778685,Lao <lo@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,85,0,0,29,0,85,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,39,0,0,18,0,39,0.0,Lao <lo@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,Lao <lo@li.org>
+switchboard-plug-keyboard,0,0,0,0,0,0,0,0,0.0,
+switchboard-plug-notifications,0,0,131,0,0,18,0,131,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,0,0,161,0,0,49,0,161,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,Lao <lo@li.org>
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-firewall,0,0,2814,0,0,331,0,2814,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Lao (http://www.transifex.com/projects/p/system-config-kickstart/language/lo/)
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+tryton,1574,0,0,421,0,0,806,1574,100.0,
+trytond,47,176,2425,34,136,1037,34,2648,1.7749244712990937,
+trytond-account,2743,0,0,1220,0,0,1469,2743,100.0,
+trytond-account-invoice,189,146,693,128,105,139,129,1028,18.385214007782103,
+trytond-account-invoice-history,2,0,0,1,0,0,1,2,100.0,
+trytond-account-invoice-line-standalone,10,0,0,4,0,0,4,10,100.0,
+trytond-account-product,1,1,294,1,1,93,1,296,0.33783783783783783,
+trytond-account-statement,0,0,231,0,1,126,0,231,0.0,
+trytond-account-stock-anglo-saxon,0,0,74,0,0,12,0,74,0.0,
+trytond-account-stock-continental,0,0,325,0,0,69,0,325,0.0,
+trytond-analytic-account,0,0,184,0,0,95,0,184,0.0,
+trytond-analytic-invoice,13,0,0,3,0,0,4,13,100.0,
+trytond-analytic-purchase,22,0,0,4,0,0,11,22,100.0,
+trytond-analytic-sale,13,0,0,3,0,0,4,13,100.0,
+trytond-calendar,0,0,621,0,0,283,0,621,0.0,
+trytond-calendar-classification,2,0,0,2,0,0,2,2,100.0,
+trytond-calendar-scheduling,0,0,100,0,0,50,0,100,0.0,
+trytond-calendar-todo,0,0,489,0,0,217,0,489,0.0,
+trytond-company,118,0,0,77,0,0,84,118,100.0,
+trytond-company-work-time,18,0,0,5,0,0,5,18,100.0,
+trytond-country,721,0,6818,432,0,4811,537,7539,9.563602599814299,
+trytond-currency,15,16,438,12,13,208,12,469,3.1982942430703627,
+trytond-dashboard,35,0,0,22,0,0,22,35,100.0,
+trytond-google-maps,2,0,0,1,0,0,2,2,100.0,
+trytond-ldap-authentication,10,0,0,1,0,0,4,10,100.0,
+trytond-party,268,0,0,152,0,0,170,268,100.0,
+trytond-party-siret,0,0,18,0,0,5,0,18,0.0,
+trytond-party-vcarddav,0,0,14,0,0,5,0,14,0.0,
+trytond-product,308,51,16,174,27,9,190,375,82.13333333333334,
+trytond-product-cost-fifo,0,0,24,0,0,4,0,24,0.0,
+trytond-product-cost-history,0,0,27,0,0,14,0,27,0.0,
+trytond-product-price-list,0,0,74,0,0,32,0,74,0.0,
+trytond-project,0,0,143,0,0,62,0,143,0.0,
+trytond-project-plan,0,0,83,0,0,46,0,83,0.0,
+trytond-project-revenue,0,0,12,0,0,8,0,12,0.0,
+trytond-purchase,65,121,385,47,84,160,49,571,11.38353765323993,
+trytond-purchase-invoice-line-standalone,0,0,51,0,0,22,0,51,0.0,
+trytond-sale,0,0,536,0,0,266,0,536,0.0,
+trytond-sale-opportunity,0,0,320,0,0,174,0,320,0.0,
+trytond-sale-price-list,0,0,5,0,0,2,0,5,0.0,
+trytond-stock,102,274,827,73,187,303,75,1203,8.478802992518704,
+trytond-stock-forecast,0,0,174,0,0,81,0,174,0.0,
+trytond-stock-inventory-location,17,0,0,11,0,0,11,17,100.0,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,0,0,23,0,0,14,0,23,0.0,
+trytond-stock-supply,0,0,147,0,0,58,0,147,0.0,
+trytond-stock-supply-day,0,0,27,0,0,18,0,27,0.0,
+trytond-timesheet,278,0,0,131,0,0,143,278,100.0,
+vocal,0,0,377,0,0,79,0,377,0.0,Lao <lo@li.org>
+wingpanel,0,0,8,0,0,2,0,8,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,0,0,17,0,0,10,0,17,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,20,0,0,6,0,20,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,7,0,0,3,0,7,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,101,0,0,31,0,101,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-notifications,0,0,29,0,0,11,0,29,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,89,0,0,24,0,89,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,54,0,0,17,0,54,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,15,0,0,7,0,15,0.0,LANGUAGE <LL@li.org>
+yum-rhn-plugin,0,0,147,0,0,17,0,147,0.0,LANGUAGE <LL@li.org>

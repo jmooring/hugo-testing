@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Spanish (United States) (http://www.transifex.com/projects/p/MATE/language/es_US/)

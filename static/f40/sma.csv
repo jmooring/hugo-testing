@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-calculator,5,2,188,5,1,59,5,195,2.564102564102564,LANGUAGE <LL@li.org>
+elementary-calendar,34,60,558,27,22,172,32,652,5.214723926380368,LANGUAGE <LL@li.org>
+elementary-camera,0,0,133,0,0,35,0,133,0.0,LANGUAGE <LL@li.org>
+elementary-code,1,4,1567,1,2,291,1,1572,0.06361323155216285,Southern Sami <sma@li.org>
+elementary-files,0,0,2538,0,0,551,0,2538,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,207,0,0,41,0,207,0.0,Southern Sami <sma@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+gala,1,0,280,1,0,59,1,281,0.3558718861209964,Sami (Southern) <https://l10n.elementary.io/projects/desktop/gala/sma/>
+granite,6,5,487,6,3,109,6,498,1.2048192771084338,Southern Sami <sma@li.org>
+granite-7,4,5,360,5,3,78,4,369,1.084010840108401,Southern Sami <sma@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+plank,22,0,167,9,0,41,29,189,11.64021164021164,Southern Sami <sma@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+wingpanel,0,0,57,0,0,10,0,57,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,LANGUAGE <LL@li.org>

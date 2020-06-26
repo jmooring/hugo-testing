@@ -1,0 +1,89 @@
+---
+title: "ksmtp - translation progress for f41"
+package: ksmtp
+date: 2026-01-20T01:46:13+00:00
+started_languages: 51
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 51
+release: f41
+---
+The package ksmtp (version 25.04.3):
+
+* represents 86 source words to be translated
+* is translated into 51 languages in Fedora f41
+
+
+* contains 51 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ar]({{< ref "/f41/language/ar.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/ar/libksmtp6.po | 
+ | [bg]({{< ref "/f41/language/bg.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/bg/libksmtp6.po | 
+ | [ca]({{< ref "/f41/language/ca.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/ca/libksmtp6.po | 
+ | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/ca@valencia/libksmtp6.po | 
+ | [de]({{< ref "/f41/language/de.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/de/libksmtp6.po | 
+ | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/en_GB/libksmtp6.po | 
+ | [eo]({{< ref "/f41/language/eo.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/eo/libksmtp6.po | 
+ | [es]({{< ref "/f41/language/es.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/es/libksmtp6.po | 
+ | [et]({{< ref "/f41/language/et.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/et/libksmtp6.po | 
+ | [eu]({{< ref "/f41/language/eu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/eu/libksmtp6.po | 
+ | [fi]({{< ref "/f41/language/fi.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/fi/libksmtp6.po | 
+ | [fr]({{< ref "/f41/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/fr/libksmtp6.po | 
+ | [gl]({{< ref "/f41/language/gl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/gl/libksmtp6.po | 
+ | [he]({{< ref "/f41/language/he.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/he/libksmtp6.po | 
+ | [hi]({{< ref "/f41/language/hi.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/hi/libksmtp6.po | 
+ | [hu]({{< ref "/f41/language/hu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/hu/libksmtp6.po | 
+ | [ia]({{< ref "/f41/language/ia.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/ia/libksmtp6.po | 
+ | [it]({{< ref "/f41/language/it.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/it/libksmtp6.po | 
+ | [ka]({{< ref "/f41/language/ka.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/ka/libksmtp6.po | 
+ | [ko]({{< ref "/f41/language/ko.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/ko/libksmtp6.po | 
+ | [lv]({{< ref "/f41/language/lv.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/lv/libksmtp6.po | 
+ | [nl]({{< ref "/f41/language/nl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/nl/libksmtp6.po | 
+ | [nn]({{< ref "/f41/language/nn.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/nn/libksmtp6.po | 
+ | [pl]({{< ref "/f41/language/pl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/pl/libksmtp6.po | 
+ | [pt]({{< ref "/f41/language/pt.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/pt/libksmtp6.po | 
+ | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/pt_BR/libksmtp6.po | 
+ | [ru]({{< ref "/f41/language/ru.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/ru/libksmtp6.po | 
+ | [sa]({{< ref "/f41/language/sa.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/sa/libksmtp6.po | 
+ | [sk]({{< ref "/f41/language/sk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/sk/libksmtp6.po | 
+ | [sl]({{< ref "/f41/language/sl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/sl/libksmtp6.po | 
+ | [sv]({{< ref "/f41/language/sv.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/sv/libksmtp6.po | 
+ | [tr]({{< ref "/f41/language/tr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/tr/libksmtp6.po | 
+ | [uk]({{< ref "/f41/language/uk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/uk/libksmtp6.po | 
+ | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/zh_CN/libksmtp6.po | 
+ | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f41/ksmtp/po/zh_TW/libksmtp6.po | 
+ | [sr]({{< ref "/f41/language/sr.md" >}}) | 63 | 86 | 73.3 | /mnt/stockage/packages/f41/ksmtp/po/sr/libksmtp6.po | 
+ | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 63 | 86 | 73.3 | /mnt/stockage/packages/f41/ksmtp/po/sr@ijekavian/libksmtp6.po | 
+ | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 63 | 86 | 73.3 | /mnt/stockage/packages/f41/ksmtp/po/sr@ijekavianlatin/libksmtp6.po | 
+ | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 63 | 86 | 73.3 | /mnt/stockage/packages/f41/ksmtp/po/sr@latin/libksmtp6.po | 
+ | [bs]({{< ref "/f41/language/bs.md" >}}) | 52 | 86 | 60.5 | /mnt/stockage/packages/f41/ksmtp/po/bs/libksmtp6.po | 
+ | [km]({{< ref "/f41/language/km.md" >}}) | 52 | 86 | 60.5 | /mnt/stockage/packages/f41/ksmtp/po/km/libksmtp6.po | 
+ | [lt]({{< ref "/f41/language/lt.md" >}}) | 52 | 86 | 60.5 | /mnt/stockage/packages/f41/ksmtp/po/lt/libksmtp6.po | 
+ | [cs]({{< ref "/f41/language/cs.md" >}}) | 36 | 86 | 41.9 | /mnt/stockage/packages/f41/ksmtp/po/cs/libksmtp6.po | 
+ | [ro]({{< ref "/f41/language/ro.md" >}}) | 35 | 86 | 40.7 | /mnt/stockage/packages/f41/ksmtp/po/ro/libksmtp6.po | 
+ | [ta]({{< ref "/f41/language/ta.md" >}}) | 26 | 86 | 30.2 | /mnt/stockage/packages/f41/ksmtp/po/ta/libksmtp6.po | 
+ | [ast]({{< ref "/f41/language/ast.md" >}}) | 5 | 86 | 5.8 | /mnt/stockage/packages/f41/ksmtp/po/ast/libksmtp6.po | 
+ | [mr]({{< ref "/f41/language/mr.md" >}}) | 2 | 86 | 2.3 | /mnt/stockage/packages/f41/ksmtp/po/mr/libksmtp6.po | 
+ | [ga]({{< ref "/f41/language/ga.md" >}}) | 1 | 86 | 1.2 | /mnt/stockage/packages/f41/ksmtp/po/ga/libksmtp6.po | 
+ | [nds]({{< ref "/f41/language/nds.md" >}}) | 1 | 86 | 1.2 | /mnt/stockage/packages/f41/ksmtp/po/nds/libksmtp6.po | 
+ | [ug]({{< ref "/f41/language/ug.md" >}}) | 1 | 86 | 1.2 | /mnt/stockage/packages/f41/ksmtp/po/ug/libksmtp6.po | 
+ | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 86 | 0.0 | /mnt/stockage/packages/f41/ksmtp/po/ja/libksmtp6.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

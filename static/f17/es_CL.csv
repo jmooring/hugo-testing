@@ -1,0 +1,18 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-applets,3858,0,0,976,0,0,4892,3858,100.0,Spanish <traductores@es.gnome.org>
+libgweather,447,9,4,170,5,4,534,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmatekeyring,44,0,0,9,0,0,47,44,100.0,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+libmateweather,465,0,0,181,0,0,549,465,100.0,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+mate-applets,2647,0,652,581,0,151,3218,3299,80.23643528341921,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+mate-bluetooth,138,0,518,50,0,129,165,656,21.036585365853657,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+mate-conf,0,0,4032,0,0,484,0,4032,0.0,Spanish (Chile) (http://www.transifex.net/projects/p/MATE/language/es_CL/)
+mate-file-manager-image-converter,74,0,0,34,0,0,101,74,100.0,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+mate-menu-editor,42,0,0,16,0,0,46,42,100.0,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+mate-notification-daemon,114,0,2,30,0,2,137,116,98.27586206896551,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+mate-utils,0,0,3921,0,0,688,0,3921,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+openerp,7505,0,28746,1768,0,2453,8140,36251,20.702877162009322,Spanish (Chile) <es_CL@li.org>
+python-kiwi,209,2,17,63,2,9,216,228,91.66666666666666,Español/Chile <es@li.org>
+rabbitvcs,859,0,72,297,0,20,938,931,92.26638023630504,Spanish
+wicd,285,0,773,80,0,151,325,1058,26.937618147448017,es_CL <LL@li.org>
+zathura,244,0,105,68,0,24,271,349,69.91404011461319,Spanish (Chile) (http://www.transifex.net/projects/p/zathura/language/es_CL/)
+zif,602,0,272,176,0,57,742,874,68.8787185354691,LANGUAGE <LL@li.org>

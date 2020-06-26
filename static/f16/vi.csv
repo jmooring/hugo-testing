@@ -1,0 +1,586 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+CableSwig,1140,0,0,193,0,0,1845,1140,100.0,Vietnamese <vi-VN@googlegroups.com>
+Django,2539,2,1436,651,1,617,3502,3977,63.842092029167716,Vietnamese <None>
+GConf2,4024,25,39,485,5,7,5953,4088,98.43444227005871,Vietnamese <vi-VN@googlegroups.com>
+NetworkManager,2303,0,312,555,0,21,2909,2615,88.06883365200765,Vietnamese <gnomevi-list@lists.sourceforge.net>
+NetworkManager-openconnect,136,0,5,32,0,1,194,141,96.45390070921985,Vietnamese <gnomevi-list@lists.sourceforge.net>
+NetworkManager-openswan,303,0,0,54,0,0,413,303,100.0,Vietnamese <vi-VN@googlegroups.com>
+NetworkManager-openvpn,313,0,0,88,0,0,432,313,100.0,Vietnamese <vi-VN@googlegroups.com>
+NetworkManager-pptp,588,0,0,129,0,0,817,588,100.0,Vietnamese <vi-VN@googlegroups.com>
+NetworkManager-vpnc,303,0,0,54,0,0,413,303,100.0,Vietnamese <vi-VN@googlegroups.com>
+Terminal,849,234,108,180,67,22,1125,1191,71.28463476070529,Vietnamese <vi_VN@googlegroups.com>
+Thunar,877,219,2790,202,38,438,1181,3886,22.568193515182706,none
+accountsservice,59,0,0,10,0,0,89,59,100.0,Vietnamese <vi-VN@googlegroups.com>
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+aisleriot,1702,248,37,462,75,12,2044,1987,85.65676899849018,Vietnamese <vi-VN@googlegroups.com>
+alacarte,42,0,0,16,0,0,58,42,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+alleyoop,351,0,0,90,0,0,542,351,100.0,
+anaconda,1886,0,7522,374,0,790,2265,9408,20.046768707482993,Vietnamese (http://www.transifex.net/projects/p/fedora/team/vi/)
+anjuta,7905,0,0,2155,0,0,11762,7905,100.0,Vietnamese <vi-VN@googlegroups.com>
+aria2,48,0,5214,9,0,321,72,5262,0.9122006841505131,Vietnamese <vi@li.org>
+ario,767,0,13,275,0,4,1107,780,98.33333333333333,hn8456 <hn8456@gmail.com>
+arm-gp2x-linux-binutils,486,0,0,93,0,0,692,486,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+arm-gp2x-linux-gcc,1101,0,0,187,0,0,1754,1101,100.0,Vietnamese <vi-VN@googlegroups.com>
+askbot,64,339,5243,16,73,733,71,5646,1.1335458731845554,LANGUAGE <LL@li.org>
+aspell,1726,0,0,293,0,0,2436,1726,100.0,Vietnamese <vi-VN@googlegroups.com>
+at-spi,61,0,0,7,0,0,75,61,100.0,Vietnamese <vi-VN@googlegroups.com>
+at-spi2-atk,7,0,0,1,0,0,10,7,100.0,Vietnamese <vi-VN@googlegroups.com>
+at-spi2-core,96,0,0,14,0,0,121,96,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+atk,375,0,0,126,0,0,531,375,100.0,Vietnamese <vi-VN@googlegroups.com>
+atomix,146,0,0,60,0,0,242,146,100.0,
+audacious,733,1,0,285,1,0,1132,734,99.86376021798365,Dự án MOST <du-an-most@lists.hanoilug.org>
+audacity,5013,315,5315,1327,52,931,7118,10643,47.101381189514235,
+authconfig,157,0,1222,55,0,186,197,1379,11.385061638868747,Vietnamese (http://www.transifex.net/projects/p/fedora/team/vi/)
+avant-window-navigator,132,0,1697,8,0,309,159,1829,7.217058501913614,Vietnamese <vi@li.org>
+avogadro,3358,0,904,1321,0,224,5045,4262,78.78930079774754,Vietnamese <vi@li.org>
+avr-binutils,18966,0,0,2814,0,0,28602,18966,100.0,Vietnamese <vi-VN@googlegroups.com>
+avr-gcc,13599,2028,50891,2203,368,6404,21580,66518,20.44409032141676,Vietnamese <vi-VN@googlegroups.com>
+avr-gdb,7765,0,0,1106,0,0,11493,7765,100.0,Vietnamese <vi-VN@googlegroups.com>
+awn-extras-applets,207,0,5146,50,0,1101,256,5353,3.866990472632169,Vietnamese <vi@li.org>
+backup-manager,947,38,78,149,7,11,1429,1063,89.08748824082785,Vietnamese <vi-VN@googlegroups.com>
+bakery,72,0,0,20,0,0,96,72,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+balsa,5836,0,0,1404,0,0,8166,5836,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+banshee,5725,0,165,1431,0,94,8174,5890,97.19864176570458,Vietnamese <gnomevi-list@lists.sourceforge.net>
+bash,8533,2328,0,529,18,0,11673,10861,78.56550962158181,Vietnamese <vi-VN@googlegroups.com>
+binutils,21782,0,0,3300,0,0,33103,21782,100.0,Vietnamese <vi-VN@googlegroups.com>
+bison,992,157,140,165,10,21,1516,1289,76.9588828549263,Vietnamese <vi-VN@googlegroups.com>
+blam,349,0,0,100,0,0,467,349,100.0,Vietnamese <vi-VN@googlegroups.com>
+blueman,9,0,1459,6,0,356,28,1468,0.6130790190735695,Vietnamese <vi@li.org>
+brasero,5493,0,0,971,0,0,7270,5493,100.0,Vietnamese <vi-VN@googlegroups.com>
+byzanz,231,0,5,51,0,1,334,236,97.88135593220339,Vietnamese <vi-VN@googlegroups.com>
+calibre,6636,0,38556,1358,0,10056,9022,45192,14.684014869888475,Vietnamese <gnomevi-list@lists.sourceforge.net>
+camorama,586,0,0,138,0,0,844,586,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+caribou,85,0,115,45,0,15,113,200,42.5,Vietnamese <gnomevi-list@lists.sourceforge.net>
+cflow,564,38,0,112,4,0,875,602,93.68770764119601,Vietnamese <vi-VN@googlegroups.com>
+cheese,294,0,0,72,0,0,402,294,100.0,Vietnamese <vi-VN@googlegroups.com>
+childsplay,168,30,1028,25,5,182,199,1226,13.70309951060359,<en@li.org>
+chkconfig,356,0,131,74,0,19,454,487,73.1006160164271,Vietnamese (http://www.transifex.net/projects/p/fedora/language/vi/)
+chronojump,1732,0,0,506,0,0,2606,1732,100.0,
+cinnamon,1296,0,0,325,0,0,1579,1296,100.0,Vietnamese <vi-VN@googlegroups.com>
+clementine,3939,0,0,1097,0,0,5807,3939,100.0,
+common-lisp-controller,57,0,0,7,0,0,69,57,100.0,Vietnamese <vi-VN@googlegroups.com>
+compat-libgda,6314,0,0,1191,0,0,9647,6314,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+compiz,0,0,3250,0,0,717,0,3250,0.0,Vietnamese <i18n@suse.de>
+conduit,580,0,0,219,0,0,910,580,100.0,Vietnamese <vi-VN@googlegroups.com>
+console-setup,979,0,0,171,0,0,1245,979,100.0,Vietnamese <vi-VN@googlegroups.com>
+control-center,3509,95,750,1399,71,193,5138,4354,80.5925585668351,Vietnamese <gnomevi-list@lists.sourceforge.net>
+coreutils,17452,1379,232,1424,59,21,23933,19063,91.54907412264596,Vietnamese <vi-VN@googlegroups.com>
+cpio,1831,0,6,297,0,1,2691,1837,99.67338051170387,Vietnamese <vi-VN@googlegroups.com>
+cross-binutils,25538,0,0,4144,0,0,38328,25538,100.0,Vietnamese <translation-team-vi@lists.sourceforge.net>
+cross-gcc,13172,2991,54978,2128,538,6830,20912,71141,18.51534276999199,Vietnamese <vi-VN@googlegroups.com>
+cryptsetup-luks,851,228,269,151,34,31,1328,1348,63.13056379821958,Vietnamese <vi-VN@googlegroups.com>
+dasher,528,0,0,199,0,0,819,528,100.0,Vietnamese <vi-VN@googlegroups.com>
+dc3dd,375,279,278,48,18,22,522,932,40.236051502145926,Vietnamese <vi-VN@googlegroups.com>
+debconf,805,0,0,88,0,0,1189,805,100.0,Vietnamese <vi-VN@googlegroups.com>
+deja-dup,3096,0,644,402,0,40,3964,3740,82.7807486631016,Vietnamese <vi@li.org>
+devhelp,364,0,0,94,0,0,532,364,100.0,Vietnamese <vi-VN@googlegroups.com>
+dia,6143,0,0,2232,0,0,9638,6143,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+dialog,25,0,0,23,0,0,39,25,100.0,Vietnamese <vi-VN@googlegroups.com>
+diffutils,777,840,163,144,90,11,1210,1780,43.651685393258425,Vietnamese <vi-VN@googlegroups.com>
+digikam,3120,12961,9956,958,1943,741,4524,26037,11.982947344164074,Vietnamese <vi-VN@googlegroups.com>
+docky,43,0,556,10,0,163,52,599,7.178631051752922,Vietnamese <vi@li.org>
+doodle,684,0,0,108,0,0,1072,684,100.0,Vietnamese <vi-VN@googlegroups.com>
+dpkg,8051,1701,267,1031,155,57,12347,10019,80.35732108992913,Vietnamese <vi-VN@googlegroups.com>
+drupal6-cck,559,0,0,94,0,0,734,559,100.0,LANGUAGE <EMAIL@ADDRESS>
+drwright,104,40,47,13,9,7,137,191,54.45026178010471,Vietnamese <vi-VN@googlegroups.com>
+e2fsprogs,5961,35,11,925,4,1,8648,6007,99.23422673547529,Vietnamese <vi-VN@googlegroups.com>
+ejabberd,1012,346,468,309,51,61,1712,1826,55.42168674698795,
+ekiga,4048,0,0,668,0,0,5502,4048,100.0,Vietnamese <vi-VN@googlegroups.com>
+emerillon,366,0,38,85,0,1,492,404,90.5940594059406,Vietnamese <gnomevi-list@lists.sourceforge.net>
+empathy,4293,0,26,964,0,4,5547,4319,99.39800879833295,Vietnamese <vi-VN@googlegroups.com>
+eog,1589,0,0,320,0,0,1888,1589,100.0,Vietnamese <vi-VN@googlegroups.com>
+eog-plugins,10,0,0,3,0,0,18,10,100.0,Vietnamese <vi-VN@googlegroups.com>
+epdfview,457,5,22,126,2,9,620,484,94.42148760330579,Vietnamese <i18n@vnoss.org>
+epiphany,2363,0,0,661,0,0,3187,2363,100.0,Vietnamese <vi-VN@googlegroups.com>
+epiphany-extensions,1046,0,0,276,0,0,1507,1046,100.0,Vietnamese <vi-VN@googlegroups.com>
+etckeeper,64,0,0,5,0,0,88,64,100.0,Vietnamese <vi-VN@googlegroups.com>
+etoys,28755,0,1239,4872,0,230,38310,29994,95.86917383476695,
+evince,3070,0,268,568,0,9,3884,3338,91.97124026363092,Vietnamese <vi-VN@googlegroups.com>
+evolution,20352,0,1095,4353,0,62,27310,21447,94.89439082389146,Vietnamese <vi-VN@googlegroups.com>
+evolution-data-server,4631,0,42,982,0,7,6803,4673,99.101219773165,Vietnamese <vi-VN@googlegroups.com>
+evolution-exchange,1339,0,0,196,0,0,1957,1339,100.0,Vietnamese <vi-VN@googlegroups.com>
+evolution-mapi,286,0,0,50,0,0,419,286,100.0,Vietnamese <vi-VN@googlegroups.com>
+exaile,2167,0,1516,657,0,299,3014,3683,58.83790388270431,Vietnamese <vi@li.org>
+exif,296,0,0,68,0,0,380,296,100.0,Vietnamese <vi-VN@googlegroups.com>
+f-spot,2037,0,0,563,0,0,2803,2037,100.0,
+fantasdic,398,0,0,128,0,0,603,398,100.0,Vietnamese <vi-VN@googlegroups.com>
+fetchmail,4345,0,0,686,0,0,6674,4345,100.0,Vietnamese <translation-team-vi@lists.sourceforge.net>
+file-roller,7255,0,0,801,0,0,9535,7255,100.0,
+filezilla,9254,0,0,1569,0,0,13968,9254,100.0,Trần Ngọc Quân <vnwildman@gmail.com>
+findutils,2020,68,42,189,6,4,2996,2130,94.83568075117371,Vietnamese <vi-VN@googlegroups.com>
+firstboot,23,0,1169,5,0,107,27,1192,1.929530201342282,LANGUAGE <LL@li.org>
+flex,1069,0,0,157,0,0,1732,1069,100.0,Vietnamese <vi-VN@googlegroups.com>
+fontforge,37849,0,0,6614,0,0,52180,37849,100.0,Vietnamese <vi-VN@googlegroups.com>
+freedink,248,13,9,54,2,1,350,270,91.85185185185185,Vietnamese <vi-VN@googlegroups.com>
+freedink-dfarc,738,0,0,129,0,0,1040,738,100.0,Vietnamese <vi-VN@googlegroups.com>
+fslint,358,0,30,124,0,8,573,388,92.26804123711341,Vietnamese <vi-VN@googlegroups.com>
+fuse-encfs,549,8,758,74,2,63,814,1315,41.749049429657795,Vietnamese <vi@li.org>
+gallery2,14314,368,3068,2116,51,353,20549,17750,80.64225352112676,Vietnamese <gallery-devel@lists.sourceforge.net>
+gbrainy,3695,567,1418,537,78,135,4637,5680,65.05281690140845,Vietnamese <vi@li.org>
+gcalctool,1373,0,0,409,0,0,1883,1373,100.0,Vietnamese <vi-VN@googlegroups.com>
+gcc,13599,2028,50891,2203,368,6404,21580,66518,20.44409032141676,Vietnamese <vi-VN@googlegroups.com>
+gccxml,1140,0,0,193,0,0,1845,1140,100.0,Vietnamese <vi-VN@googlegroups.com>
+gcl,177,0,0,8,0,0,261,177,100.0,Vietnamese <vi-VN@googlegroups.com>
+gcompris,10235,0,0,1195,0,0,12912,10235,100.0,Vietnamese <vi-VN@googlegroups.com>
+gconf-editor,336,0,0,98,0,0,495,336,100.0,Vietnamese <vi-VN@googlegroups.com>
+gdb,7765,0,0,1106,0,0,11493,7765,100.0,Vietnamese <vi-VN@googlegroups.com>
+gdesklets,887,0,641,156,0,48,1275,1528,58.04973821989529,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gdk-pixbuf2,1313,0,0,200,0,0,1813,1313,100.0,Vietnamese <vi-VN@googlegroups.com>
+gdm,1257,0,0,224,0,0,1829,1257,100.0,Vietnamese <vi-VN@googlegroups.com>
+geany,4593,542,537,992,159,86,6339,5672,80.97672778561355,Vietnamese <vi-VN@googlegroups.com>
+gedit,4329,0,0,743,0,0,5297,4329,100.0,Vietnamese <vi-VN@googlegroups.com>
+gedit-collaboration,119,0,0,30,0,0,190,119,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gedit-plugins,879,192,134,384,58,27,1479,1205,72.9460580912863,Vietnamese <vi-VN@googlegroups.com>
+geeqie,1719,482,708,669,158,162,2461,2909,59.09247163973874,GnomeVI <gnomevi-list@lists.sourceforge.net>
+gettext,6857,0,0,687,0,0,9849,6857,100.0,Vietnamese <vi-VN@googlegroups.com>
+ggz-base-libs,74,0,0,17,0,0,96,74,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+ggz-gtk-client,862,0,0,268,0,0,1191,862,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+ghdl,1184,0,0,200,0,0,1910,1184,100.0,Vietnamese <vi-VN@googlegroups.com>
+ghex,969,0,0,276,0,0,1309,969,100.0,Vietnamese <vi-VN@googlegroups.com>
+giggle,312,0,0,108,0,0,353,312,100.0,Vietnamese <vi-vn@googlegroups.com>
+gimp,22368,5,0,6142,2,0,31608,22373,99.97765163366557,
+glade2,5910,0,0,1312,0,0,7536,5910,100.0,
+glade3,4605,0,0,1195,0,0,6447,4605,100.0,Vietnamese <vi-VN@googlegroups.com>
+glib-networking,86,0,0,16,0,0,127,86,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+glib2,4777,0,0,747,0,0,6539,4777,100.0,Vietnamese <vi-VN@googlegroups.com>
+glibc,7409,0,0,1353,0,0,11448,7409,100.0,Vietnamese <vi-VN@googlegroups.com>
+gliv,991,9,34,254,3,3,1346,1034,95.84139264990328,Vietnamese <vi-VN@googlegroups.com>
+glom,2056,0,0,415,0,0,2716,2056,100.0,
+gnome-activity-journal,140,0,176,39,0,55,230,316,44.303797468354425,Vietnamese <vi@li.org>
+gnome-applets,3374,0,0,793,0,0,5087,3374,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-backgrounds,29,0,0,17,0,0,38,29,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-bluetooth,571,0,0,158,0,0,748,571,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-color-manager,1889,0,54,333,0,9,2240,1943,97.22079258878024,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-commander,1358,412,6126,460,195,768,1883,7896,17.19858156028369,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-contacts,210,0,0,107,0,0,292,210,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-desktop,9925,0,0,297,0,0,13522,9925,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-desktop3,9811,0,0,276,0,0,13316,9811,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-disk-utility,1595,0,2546,469,0,512,1998,4141,38.51726636078242,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-do,473,0,139,119,0,25,717,612,77.2875816993464,Vietnamese <vi@li.org>
+gnome-do-plugins,398,0,1925,103,0,479,593,2323,17.133017649591046,Vietnamese <vi@li.org>
+gnome-doc-utils,251,0,0,101,0,0,307,251,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-documents,71,0,0,26,0,0,95,71,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-games,8379,0,0,1920,0,0,10227,8379,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-gmail,268,0,91,39,0,8,345,359,74.65181058495823,LANGUAGE <LL@li.org>
+gnome-icon-theme,51,0,0,47,0,0,129,51,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-keyring,923,0,5,233,0,2,1227,928,99.46120689655173,Vietnamese <vi-VN@googlegroups.com>
+gnome-libs,1068,0,17,394,0,1,1445,1085,98.4331797235023,Vietnamese <vi@li.org>
+gnome-mag,298,0,0,42,0,0,388,298,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-media,2149,0,0,595,0,0,2987,2149,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-menus,95,0,0,37,0,0,170,95,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-mime-data,845,0,28,349,0,10,1143,873,96.79266895761741,GnomeVI <gnomevi-list@lists.sourceforge.net>
+gnome-mud,1088,0,0,238,0,0,1466,1088,100.0,
+gnome-online-accounts,304,0,0,54,0,0,382,304,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-packagekit,1203,0,3491,350,0,441,1481,4694,25.628461866212188,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-paint,167,0,0,54,0,0,238,167,100.0,debian-l10n-vietnamese <debian-l10n-vietnamese@lists.debian.org>
+gnome-panel,3772,0,0,536,0,0,4856,3772,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-phone-manager,502,0,0,113,0,0,696,502,100.0,
+gnome-pilot,1748,0,0,340,0,0,2583,1748,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-pilot-conduits,209,0,0,51,0,0,352,209,100.0,
+gnome-power-manager,432,0,0,144,0,0,566,432,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-schedule,506,356,476,122,58,63,640,1338,37.81763826606876,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-screensaver,291,0,0,58,0,0,400,291,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-session,489,0,0,97,0,0,649,489,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-settings-daemon,3360,0,546,516,0,55,4019,3906,86.02150537634408,Vietnamese <vi-VN@googlegroups.com>
+gnome-shell,1300,0,0,325,0,0,1583,1300,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-shell-extensions,319,0,101,49,0,4,395,420,75.95238095238095,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-specimen,56,0,0,18,0,0,73,56,100.0,GnomeVI <gnomevi-list@lists.sourceforge.net>
+gnome-system-monitor,918,0,0,239,0,0,1428,918,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-terminal,4145,0,0,487,0,0,5011,4145,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-themes,109,0,0,30,0,0,188,109,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-themes-standard,24,0,0,9,0,0,31,24,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-tweak-tool,7,0,0,4,0,0,15,7,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-user-docs,37103,0,9913,1948,0,338,39288,47016,78.91568827633147,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnome-user-share,326,0,0,51,0,0,490,326,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-utils,3576,0,0,683,0,0,4803,3576,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-vfs2,1519,0,0,305,0,0,2144,1519,100.0,Vietnamese <vi-VN@googlegroups.com>
+gnome-video-effects,11,2,13,10,2,11,22,26,42.30769230769231,Vietnamese <vi-VN@googlegroups.com>
+gnomeradio,401,0,0,91,0,0,583,401,100.0,
+gnucash,20898,2740,3042,3529,504,232,28196,26680,78.32833583208397,Vietnamese <vi-VN@googlegroups.com>
+gnumeric,11118,4754,19174,2617,913,2112,14892,35046,31.72401985961308,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gnutls,1053,50,124,246,10,24,1571,1227,85.81907090464547,Vietnamese <vi-VN@googlegroups.com>
+goffice,3615,495,489,1295,161,104,5180,4599,78.60404435746902,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gok,1956,0,0,443,0,0,2696,1956,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gparted,1187,0,0,258,0,0,1698,1187,100.0,
+gphoto2,1597,2,0,315,1,0,2384,1599,99.87492182614133,Vietnamese <vi-VN@googlegroups.com>
+gpicview,0,0,219,0,0,44,0,219,0.0,LANGUAGE <LL@li.org>
+gpsdrive,2311,0,0,448,0,0,3296,2311,100.0,Vietnamese <vi-VN@googlegroups.com>
+gramps,32097,694,423,5445,76,34,39970,33214,96.63696031793822,VIETNAMESE <quangde@sevuon.com>
+grass,54955,8720,4007,9371,1652,656,81752,67682,81.1958866463757,American English <kde-i18n-doc@kde.org>
+grep,909,42,4,110,2,1,1339,955,95.18324607329843,Vietnamese <vi-VN@googlegroups.com>
+greylistd,350,0,0,14,0,0,538,350,100.0,
+grub2,1257,615,591,242,84,139,1903,2463,51.0353227771011,Vietnamese <vi-VN@googlegroups.com>
+gsettings-desktop-schemas,762,0,1668,154,0,121,963,2430,31.35802469135803,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gstreamer,1829,26,59,331,6,10,2704,1914,95.55903866248694,Vietnamese <vi-VN@googlegroups.com>
+gstreamer-plugins-bad-free,72,4,20,12,1,1,97,96,75.0,Vietnamese <vi-VN@googlegroups.com>
+gstreamer-plugins-base,667,0,235,136,0,40,984,902,73.94678492239468,Vietnamese <vi-VN@googlegroups.com>
+gstreamer-plugins-good,750,34,30,180,4,6,1082,814,92.13759213759214,Vietnamese <vi-VN@googlegroups.com>
+gthumb,3118,0,0,920,0,0,4403,3118,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gtick,335,1,0,93,1,0,461,336,99.70238095238095,Vietnamese <vi-VN@googlegroups.com>
+gtk+,0,0,0,0,0,0,0,0,0.0,
+gtk2,13677,27,0,2781,3,0,18792,13704,99.80297723292469,Vietnamese <vi-VN@googlegroups.com>
+gtk2-engines,119,0,0,47,0,0,187,119,100.0,Vietnamese <vi-VN@googlegroups.com>
+gtk3,11506,353,111,2453,69,20,15746,11970,96.1236424394319,Vietnamese <vi-VN@googlegroups.com>
+gtkhtml3,1261,0,0,560,0,0,1832,1261,100.0,Vietnamese <vi-VN@googlegroups.com>
+gtksourceview,890,0,1,365,0,1,1365,891,99.88776655443323,Vietnamese <gnomevi-list@lists.sourceforge.net>
+gtksourceview2,1099,0,0,438,0,0,1694,1099,100.0,Vietnamese <vi-VN@googlegroups.com>
+gtksourceview3,1290,0,242,554,0,62,1969,1532,84.20365535248042,Vietnamese <vi-VN@googlegroups.com>
+gtkspell,15,0,0,6,0,0,24,15,100.0,Vietnamese <vi-VN@googlegroups.com>
+gtranslator,1225,0,0,332,0,0,1805,1225,100.0,
+gucharmap,2463,0,0,455,0,0,3128,2463,100.0,HanoiLug <hanoilug@lists.hanolug.org>
+gvfs,2412,0,0,537,0,0,3486,2412,100.0,Vietnamese <vi-VN@googlegroups.com>
+gwget,525,0,0,176,0,0,948,525,100.0,
+hamster-applet,250,0,0,101,0,0,366,250,100.0,Vietnamese <vi-VN@googlegroups.com>
+hello,193,0,0,30,0,0,279,193,100.0,Vietnamese <vi-VN@googlegroups.com>
+help2man,524,0,0,48,0,0,756,524,100.0,Vietnamese <translation-team-vi@lists.sourceforge.net>
+hexchat,3915,0,1566,1037,0,336,5763,5481,71.42857142857143,LANGUAGE <LL@li.org>
+hitori,179,0,0,29,0,0,192,179,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+homebank,288,0,1221,150,0,384,491,1509,19.08548707753479,Vietnamese <vi@li.org>
+ibus,534,39,15,102,6,5,697,588,90.81632653061224,Vietnamese
+ibus-unikey,196,0,0,46,0,0,240,196,100.0,Vietnamese
+icewm,0,0,0,0,0,0,0,0,0.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+ikiwiki,161,340,828,44,74,163,248,1329,12.114371708051166,Vietnamese <vi-VN@googlegroups.com>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+initscripts,1019,2238,1092,240,633,197,1425,4349,23.430673718096116,Gnome-Vi <Gnomevi-list@lists.sourceforge.net>
+inkscape,22417,2164,1947,4754,536,288,32314,26528,84.50316646562122,Vietnamese <vi-bugs@googlegroups.com>
+insight,7765,0,0,1106,0,0,11493,7765,100.0,Vietnamese <vi-VN@googlegroups.com>
+iso-codes,8700,5497,5562,5752,4433,3456,10635,19759,44.03056834860063,Vietnamese <vi-VN@googlegroups.com>
+istanbul,325,0,0,41,0,0,447,325,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+jpilot,2232,0,0,637,0,0,3209,2232,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+jwhois,440,0,0,71,0,0,666,440,100.0,Vietnamese <vi-VN@googlegroups.com>
+kbd,2034,20,15,270,3,1,2798,2069,98.30836152730788,Vietnamese <vi-VN@googlegroups.com>
+kcoloredit,11,95,172,7,32,56,16,278,3.9568345323741005,Vietnamese <vi-VN@googlegroups.com>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kgrab,356,14,0,50,3,0,426,370,96.21621621621622,Vietnamese <kde-l10n-vi@kde.org>
+kiconedit,724,0,2,154,0,1,900,726,99.72451790633609,Vietnamese <kde-l10n-vi@kde.org>
+klavaro,1913,0,0,233,0,0,2656,1913,100.0,Vietnamese <translation-team-vi@lists.sourceforge.net>
+koffice-kivio,419,1839,6159,142,725,1494,503,8417,4.978020672448616,vietnamese <vi@i18n.kde.org>
+konq-plugins,1198,253,147,400,46,70,1726,1598,74.96871088861077,Vietnamese <vi-VN@googlegroups.com>
+kphotoalbum,4141,1440,752,591,96,76,5349,6333,65.38765198168325,Vietnamese <kde-l10n-vi@kde.org>
+ksig,71,2,12,17,1,8,94,85,83.52941176470588,Vietnamese <kde-l10n-vi@kde.org>
+ktp-accounts-kcm,116,0,5,34,0,2,187,121,95.86776859504133,Vietnamese <kde-i18n-vi@kde.org>
+ldm,70,18,96,21,6,25,111,184,38.04347826086957,Vietnamese <vi-VN@googlegroups.com>
+leafpad,125,0,0,68,0,0,211,125,100.0,Vietnamese <vi-VN@googlegroups.com>
+libbonobo,547,0,0,109,0,0,834,547,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libbonoboui,368,0,0,116,0,0,566,368,100.0,
+libcryptui,3012,0,0,654,0,0,4052,3012,100.0,Vietnamese <vi-VN@googlegroups.com>
+libexif,6977,0,0,1177,0,0,8942,6977,100.0,Vietnamese <translation-team-vi@lists.sourceforge.net>
+libextractor,1701,0,0,558,0,0,2463,1701,100.0,Vietnamese <vi-VN@googlegroups.com>
+libfm,859,0,0,260,0,0,1195,859,100.0,LXDE
+libgda,2169,3350,4262,478,751,596,3202,9781,22.175646661895513,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libgdl,611,0,0,96,0,0,776,611,100.0,Vietnamese <vi-VN@googlegroups.com>
+libgnome,1773,0,0,273,0,0,2552,1773,100.0,Vietnamese <vi-VN@googlegroups.com>
+libgnome-keyring,44,0,0,9,0,0,58,44,100.0,Vietnamese <vi@li.org>
+libgnome-media-profiles,432,0,28,48,0,3,617,460,93.91304347826087,Vietnamese <vi-VN@googlegroups.com>
+libgnomecanvas,378,0,0,96,0,0,548,378,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libgnomecups,11,0,0,10,0,0,21,11,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libgnomekbd,242,0,0,55,0,0,362,242,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libgnomeprint22,168,0,0,98,0,0,232,168,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libgnomeprintui22,481,0,0,155,0,0,632,481,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libgnomeui,1309,0,0,335,0,0,1794,1309,100.0,
+libgpg-error,743,23,3,259,8,2,1274,769,96.61898569570872,Vietnamese <vi-VN@googlegroups.com>
+libgphoto2,10680,179,63,2233,28,32,15152,10922,97.784288591833,Vietnamese <vi-VN@googlegroups.com>
+libgsasl,495,32,29,59,2,5,844,556,89.02877697841727,Vietnamese <vi-VN@googlegroups.com>
+libgtop2,126,0,0,41,0,0,225,126,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libgweather,6090,0,0,4555,0,0,6385,6090,100.0,Vietnamese <vi-VN@googlegroups.com>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libidn,338,75,1,48,9,1,500,414,81.64251207729468,Vietnamese <vi-VN@googlegroups.com>
+libmate,1773,0,0,273,0,0,2552,1773,100.0,LANGUAGE <LL@li.org>
+libmatecanvas,378,0,0,95,0,0,513,378,100.0,LANGUAGE <LL@li.org>
+libmatecomponent,537,0,6,106,0,1,787,543,98.89502762430939,LANGUAGE <LL@li.org>
+libmatekbd,235,0,0,49,0,0,366,235,100.0,Vietnamese <matevi-list@lists.sourceforge.net>
+libmatekeyring,44,0,0,9,0,0,58,44,100.0,LANGUAGE <LL@li.org>
+libmateweather,6056,0,51,4557,0,5,6329,6107,99.16489274602914,LANGUAGE <LL@li.org>
+libmatewnck,1124,0,0,241,0,0,1727,1124,100.0,Vietnamese <vi-VN@googlegroups.com>
+libpaper,73,0,0,46,0,0,97,73,100.0,Vietnamese <vi-VN@googlegroups.com>
+libpeas,106,0,0,27,0,0,138,106,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+libpwquality,18,0,306,6,0,45,32,324,5.555555555555555,LANGUAGE <LL@li.org>
+libreoffice,474839,10406,48749,70034,939,3312,619904,533994,88.92216017408435,LANGUAGE <LL@li.org>
+libuser,725,0,421,165,0,74,951,1146,63.26352530541012,Vietnamese (http://www.transifex.net/projects/p/fedora/team/vi/)
+libvirt,36162,1707,21263,6248,312,3366,50711,59132,61.154704728404255,Vietnamese (Viet Nam) (http://www.transifex.net/projects/p/libvirt/team/vi_VN/)
+libwnck,1124,0,0,241,0,0,1727,1124,100.0,Vietnamese <vi-VN@googlegroups.com>
+libwnck3,1084,0,0,230,0,0,1660,1084,100.0,Vietnamese <vi-VN@googlegroups.com>
+lightdm,41,0,38,14,0,3,57,79,51.89873417721519,Vietnamese <vi@li.org>
+lightdm-gtk,53,0,3,16,0,2,79,56,94.64285714285714,Vietnamese <vi@li.org>
+lilypond,3515,0,0,604,0,0,5373,3515,100.0,Vietnamese <vi-VN@googlegroups.com>
+listen,659,1,1123,293,1,255,951,1783,36.96017947279866,Vietnamese <vi@li.org>
+ltsp,452,0,0,85,0,0,739,452,100.0,Vietnamese <vi-VN@googlegroups.com>
+lxappearance,212,0,0,74,0,0,315,212,100.0,vi <nguyentieuhau@gmail.com>
+lxappearance-obconf,184,0,0,25,0,0,254,184,100.0,Vi <nguyentieuhau@gmail.com>
+lxdm,30,0,0,18,0,0,54,30,100.0,Viet <nguyentieuhau@gmail.com>
+lxinput,72,0,0,24,0,0,105,72,100.0,LXDE
+lxlauncher,0,0,51,0,0,11,0,51,0.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,161,97,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+lxmusic,0,0,203,0,0,89,0,203,0.0,LANGUAGE <LL@li.org>
+lxpanel,932,18,7,314,2,2,1465,957,97.3876698014629,LANGUAGE <LL@li.org>
+lxpolkit,15,0,0,9,0,0,25,15,100.0,LANGUAGE <LL@li.org>
+lxrandr,122,0,0,27,0,0,182,122,100.0,
+lxsession,36,0,0,14,0,0,54,36,100.0,LANGUAGE <LL@li.org>
+lxsession-edit,64,0,0,11,0,0,103,64,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,69,43,100.0,LANGUAGE <LL@li.org>
+lxtask,122,0,0,48,0,0,195,122,100.0,LANGUAGE <LL@li.org>
+lxterminal,144,0,0,85,0,0,217,144,100.0,LANGUAGE <LL@li.org>
+lynx,8049,0,0,1218,0,0,11617,8049,100.0,Vietnamese <vi-VN@googlegroups.com>
+m17n-db,130,119,733,3,3,43,208,982,13.238289205702646,Phan Anh Dung <padung@huesoft.com.vn>
+mailman,21768,60,184,1350,6,3,30193,22012,98.8915137197892,Vietnamese <vi-VN@googlegroups.com>
+make,1592,395,60,339,54,6,2636,2047,77.7723497801661,Vietnamese <gnomevi-list@lists.sourceforge.net>
+man-db,1226,22,0,250,4,0,2034,1248,98.23717948717949,Vietnamese <vi-VN@googlegroups.com>
+man2html,58,0,0,3,0,0,72,58,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+mate-backgrounds,23,0,7,17,0,4,26,30,76.66666666666667,LANGUAGE <LL@li.org>
+mate-conf,3985,0,47,481,0,3,5903,4032,98.83432539682539,LANGUAGE <LL@li.org>
+mate-control-center,3420,0,0,790,0,0,4786,3420,100.0,Vietnamese <matevi-list@lists.sourceforge.net>
+mate-desktop,9739,0,244,270,0,18,13243,9983,97.55584493639186,Vietnamese <matevi-list@lists.sourceforge.net>
+mate-dialogs,458,0,173,130,0,19,704,631,72.58320126782884,LANGUAGE <LL@li.org>
+mate-doc-utils,251,0,0,101,0,0,307,251,100.0,LANGUAGE <LL@li.org>
+mate-file-archiver,7092,0,0,763,0,0,9358,7092,100.0,
+mate-file-manager,7683,0,1728,1274,0,247,9532,9411,81.63850812878546,LANGUAGE <LL@li.org>
+mate-file-manager-sendto,84,0,0,29,0,0,150,84,100.0,
+mate-icon-theme,51,0,0,47,0,0,129,51,100.0,Vietnamese <matevi-list@lists.sourceforge.net>
+mate-image-viewer,1150,0,473,246,0,69,1455,1623,70.85643869377695,LANGUAGE <LL@li.org>
+mate-keyring,1018,0,155,205,0,38,1288,1173,86.78601875532821,LANGUAGE <LL@li.org>
+mate-media,739,0,181,178,0,51,1091,920,80.32608695652173,LANGUAGE <LL@li.org>
+mate-menus,165,0,0,59,0,0,326,165,100.0,Vietnamese <matevi-list@lists.sourceforge.net>
+mate-panel,4487,0,0,615,0,0,5912,4487,100.0,Vietnamese <vi-VN@googlegroups.com>
+mate-power-manager,2786,0,0,427,0,0,3701,2786,100.0,Vietnamese <vi-VN@googlegroups.com>
+mate-screensaver,975,0,0,154,0,0,1448,975,100.0,Vietnamese <vi-VN@googlegroups.com>
+mate-session-manager,669,0,0,112,0,0,926,669,100.0,Vietnamese <vi-VN@googlegroups.com>
+mate-settings-daemon,1618,0,0,243,0,0,2179,1618,100.0,Vietnamese <vi-VN@googlegroups.com>
+mate-system-monitor,918,0,0,239,0,0,1428,918,100.0,Vietnamese <vi-VN@googlegroups.com>
+mate-terminal,3904,0,0,441,0,0,4764,3904,100.0,Vietnamese <vi-VN@googlegroups.com>
+mate-themes,96,0,13,22,0,8,166,109,88.07339449541286,LANGUAGE <LL@li.org>
+mate-vfs,1519,0,0,305,0,0,2144,1519,100.0,LANGUAGE <LL@li.org>
+mate-window-manager,2999,0,791,348,0,55,4111,3790,79.12928759894459,LANGUAGE <LL@li.org>
+mc,1357,0,2633,448,0,717,2066,3990,34.01002506265664,LANGUAGE <LL@li.org>
+meld,1132,23,101,307,2,4,1650,1256,90.12738853503186,Vietnamese <gnomevi-list@lists.sourceforge.net>
+metacity,3700,0,0,406,0,0,5046,3700,100.0,Vietnamese <vi-VN@googlegroups.com>
+mingw-gdb,7765,0,0,1106,0,0,11493,7765,100.0,Vietnamese <vi-VN@googlegroups.com>
+mingw-gstreamer,1829,26,59,331,6,10,2704,1914,95.55903866248694,Vietnamese <vi-VN@googlegroups.com>
+mingw-gstreamer-plugins-base,667,0,235,136,0,40,984,902,73.94678492239468,Vietnamese <vi-VN@googlegroups.com>
+mingw-gtk3,11506,353,111,2453,69,20,15746,11970,96.1236424394319,Vietnamese <vi-VN@googlegroups.com>
+mingw-gtksourceview3,1202,0,280,511,0,79,1839,1482,81.10661268556005,Vietnamese <vi-VN@googlegroups.com>
+mingw-wxWidgets,6679,0,0,1523,0,0,9422,6679,100.0,Trần Ngọc Quân <vnwildman@gmail.com>
+mingw32-atk,375,0,0,126,0,0,531,375,100.0,Vietnamese <vi-VN@googlegroups.com>
+mingw32-binutils,21782,0,0,3300,0,0,33103,21782,100.0,Vietnamese <vi-VN@googlegroups.com>
+mingw32-gcc,13599,2028,50769,2203,368,6392,21580,66396,20.481655521416954,Vietnamese <vi-VN@googlegroups.com>
+mingw32-gdk-pixbuf,1313,0,0,200,0,0,1813,1313,100.0,Vietnamese <vi-VN@googlegroups.com>
+mingw32-gettext,6857,0,0,687,0,0,9849,6857,100.0,Vietnamese <vi-VN@googlegroups.com>
+mingw32-glib-networking,86,0,0,16,0,0,127,86,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+mingw32-glib2,4777,0,0,747,0,0,6539,4777,100.0,Vietnamese <vi-VN@googlegroups.com>
+mingw32-gnutls,1053,50,124,246,10,24,1571,1227,85.81907090464547,Vietnamese <vi-VN@googlegroups.com>
+mingw32-gtk2,13677,27,0,2781,3,0,18792,13704,99.80297723292469,Vietnamese <vi-VN@googlegroups.com>
+mingw32-gtkhtml3,1261,0,0,560,0,0,1832,1261,100.0,Vietnamese <vi-VN@googlegroups.com>
+mingw32-iconv,303,0,33,45,0,1,431,336,90.17857142857143,Vietnamese <vi-VN@googlegroups.com>
+mingw32-libgpg-error,734,4,2,254,1,2,1244,740,99.1891891891892,Vietnamese <vi-VN@googlegroups.com>
+mingw32-libidn,386,27,0,55,2,0,558,413,93.46246973365618,Vietnamese <vi-VN@googlegroups.com>
+mingw32-libvirt,36162,1557,21135,6248,280,3338,50711,58854,61.44357222958507,LANGUAGE <LL@li.org>
+mingw32-webkitgtk,1082,0,11,259,0,3,1375,1093,98.9935956084172,Vietnamese <vi-VN@googlegroups.com>
+minicom,1484,224,8,371,6,2,2210,1716,86.48018648018649,Vietnamese <vi-VN@googlegroups.com>
+mod_cluster,287,40,0,43,3,0,425,327,87.76758409785933,Vietnamese <vi-VN@googlegroups.com>
+moin,1463,1042,2518,309,215,403,1960,5023,29.12602030658969,
+mousetweaks,232,0,5,63,0,1,283,237,97.8902953586498,Vietnamese <vi-VN@googlegroups.com>
+msp430-binutils,17303,0,0,2594,0,0,26642,17303,100.0,Vietnamese <vi-VN@googlegroups.com>
+muffin,2511,0,0,361,0,0,3420,2511,100.0,Vietnamese <vi-VN@googlegroups.com>
+mutter,2511,0,0,361,0,0,3420,2511,100.0,Vietnamese <vi-VN@googlegroups.com>
+mutter-mbl,3864,0,0,413,0,0,5317,3864,100.0,Vietnamese <vi-VN@googlegroups.com>
+nano,2570,25,94,410,4,5,3438,2689,95.57456303458535,Vietnamese <vi-VN@googlegroups.com>
+nautilus,7116,13,0,1122,6,0,8792,7129,99.81764623369337,Vietnamese <vi-VN@googlegroups.com>
+nautilus-actions,1132,320,102,135,24,11,1442,1554,72.84427284427284,Vietnamese <gnomevi-list@lists.sourceforge.net>
+nautilus-open-terminal,24,0,0,5,0,0,35,24,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+nautilus-sendto,217,0,0,50,0,0,266,217,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+nautilus-sound-converter,159,0,0,29,0,0,243,159,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+nesc,1178,0,0,199,0,0,1900,1178,100.0,Vietnamese <vi-VN@googlegroups.com>
+newt,4,0,0,4,0,0,4,4,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+notification-daemon,17,0,0,7,0,0,27,17,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+nss-pam-ldapd,518,0,0,29,0,0,718,518,100.0,Vietnamese <vi-VN@googlegroups.com>
+ntfs-config,353,0,4,58,0,1,511,357,98.8795518207283,Vietnamese <vi@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,195,158,100.0,LANGUAGE <LL@li.org>
+openbox,449,30,28,90,1,3,571,507,88.56015779092702,None
+openconnect,0,0,5146,0,0,938,0,5146,0.0,Vietnamese (Viet Nam) (http://www.transifex.net/projects/p/meego/language/vi_VN/)
+openerp,11564,0,39893,3150,0,4521,15805,51457,22.47313290708747,Vietnamese <vi@li.org>
+openerp-client,1026,0,6703,307,0,267,1586,7729,13.27467977746151,Vietnamese <vi@li.org>
+openswan,974,0,0,41,0,0,1184,974,100.0,Vietnamese <vi-VN@googlegroups.com>
+orage,291,233,1868,230,83,488,522,2392,12.165551839464882,Vietnamese <vi_VN@googlegroups.com>
+orca,4456,0,0,1414,0,0,6066,4456,100.0,Vietnamese <vi-VN@googlegroups.com>
+pam,599,3,0,120,1,0,837,602,99.5016611295681,Vietnamese <du-an-most@lists.hanoilug.org>
+pan,2268,0,0,543,0,0,3162,2268,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+parted,3267,97,1,440,4,1,4400,3365,97.08766716196136,Vietnamese <vi-VN@googlegroups.com>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pcmanfm,799,0,0,201,0,0,1234,799,100.0,
+pessulus,130,0,0,33,0,0,199,130,100.0,Vietnamese <vi-VN@googlegroups.com>
+pgadmin3,2,0,14827,1,0,3928,2,14829,0.013487086115044844,LANGUAGE <LL@li.org>
+pidgin,18294,60,2,3897,4,2,25992,18356,99.66223578121594,Du an MOST <du-an-most@lists.hanoilug.org>
+pidgin-otr,625,0,0,113,0,0,968,625,100.0,LANGUAGE <LL@li.org>
+pinfo,315,6,0,53,1,0,437,321,98.13084112149532,Vietnamese <gnomevi-list@lists.sourceforge.net>
+pinta,194,0,846,78,0,291,308,1040,18.653846153846153,Vietnamese <vi@li.org>
+pitivi,1239,0,101,292,0,12,1621,1340,92.46268656716417,Vietnamese <vi@li.org>
+planner,1796,0,0,526,0,0,2615,1796,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+pmount,121,0,602,17,0,46,155,723,16.735822959889347,Vietnamese <vi@li.org>
+po4a,1812,0,89,186,0,15,2588,1901,95.31825355076276,Vietnamese <vi-VN@googlegroups.com>
+poedit,1143,19,0,266,3,0,1775,1162,98.36488812392426,Trần Ngọc Quân <vnwildman@gmail.com>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+polkit-gnome,315,0,0,49,0,0,466,315,100.0,Vietnamese <vi@li.org>
+pootle,4635,0,0,2363,0,0,7722,4635,100.0,LANGUAGE <LL@li.org>
+popt,75,0,0,27,0,0,136,75,100.0,Vietnamese <vi-VN@googlegroups.com>
+psmisc,691,229,0,80,3,0,1003,920,75.10869565217392,Vietnamese <vi-VN@googlegroups.com>
+purple-plugin_pack,2489,184,2335,420,67,260,3845,5008,49.70047923322684,es_ES <antiswen@yahoo.es>
+pybliographer,962,0,0,262,0,0,1436,962,100.0,
+pychess,528,0,2563,168,0,470,695,3091,17.08185053380783,Vietnamese <vi@li.org>
+pykickstart,0,0,684,0,0,72,0,684,0.0,Vietnamese (http://www.transifex.net/projects/p/fedora/team/vi/)
+qof,554,14,133,35,2,13,696,701,79.0299572039943,Vietnamese <vi-VN@googlegroups.com>
+redhat-menus,218,9,34,72,3,11,335,261,83.5249042145594,Vietnamese <gnomevi-list@lists.sourceforge.net>
+rednotebook,625,0,429,131,0,103,873,1054,59.29791271347249,Vietnamese <vi@li.org>
+regexxer,466,0,1,99,0,1,692,467,99.78586723768737,Vietnamese <gnomevi-list@lists.sourceforge.net>
+resapplet,106,0,0,23,0,0,193,106,100.0,
+rhn-client-tools,0,0,4361,0,0,424,0,4361,0.0,LANGUAGE <LL@li.org>
+rhnsd,0,0,20,0,0,5,0,20,0.0,LANGUAGE <LL@li.org>
+rhythmbox,4697,0,0,1132,0,0,6262,4697,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+ristretto,182,87,105,89,16,32,271,374,48.663101604278076,Vietnamese <kureikain@gmail.com>
+root,211,0,0,11,0,0,248,211,100.0,Vietnamese <vi-VN@googlegroups.com>
+rygel,517,0,0,109,0,0,634,517,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+sabayon,743,0,0,171,0,0,1069,743,100.0,Vietnamese <vi-VN@googlegroups.com>
+sawfish,2370,1501,2572,539,249,194,3510,6443,36.78410678255471,Vietnamese <gnomevi-list@lists.sourceforge.net>
+schroot,1597,0,10,350,0,2,2295,1607,99.37772246421905,Vietnamese <vi-VN@googlegroups.com>
+scim,1174,0,0,282,0,0,1414,1174,100.0,Vietnamese <l10n@vi.openoffice.org>
+seahorse,7010,0,0,986,0,0,9227,7010,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+seahorse-plugins,7783,0,0,982,0,0,10277,7783,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+sed,490,54,37,84,2,3,779,581,84.33734939759037,Vietnamese <vi-VN@googlegroups.com>
+setroubleshoot,0,0,562,0,0,167,0,562,0.0,Vietnamese (http://www.transifex.net/projects/p/fedora/team/vi/)
+setroubleshoot-plugins,0,0,8291,0,0,399,0,8291,0.0,Vietnamese (http://www.transifex.net/projects/p/fedora/language/vi/)
+setuptool,47,0,8,13,0,1,64,55,85.45454545454545,GnomeVI <gnomevi-list@lists.sourceforge.net>
+sh-elf-binutils,21782,0,0,3300,0,0,33103,21782,100.0,Vietnamese <vi-VN@googlegroups.com>
+shadow-utils,1483,1048,690,252,93,67,2262,3221,46.04160198696057,Vietnamese <vi-VN@googlegroups.com>
+shared-mime-info,1432,0,227,577,0,73,2157,1659,86.31705846895721,LANGUAGE <LL@li.org>
+sharutils,1042,13,0,149,2,0,1628,1055,98.76777251184834,Vietnamese <vi-VN@googlegroups.com>
+shutter,1416,0,1769,322,0,286,1850,3185,44.45839874411303,Vietnamese <vi@li.org>
+simple-scan,237,0,414,42,0,76,307,651,36.405529953917046,Vietnamese <vi@li.org>
+solfege,4214,0,0,1038,0,0,5861,4214,100.0,Vietnamese <vi-VN@googlegroups.com>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,1024,0,0,198,0,0,1415,1024,100.0,Vietnamese <vi-VN@googlegroups.com>
+soundconverter,292,109,49,80,15,15,417,450,64.88888888888889,Vietnamese <vi@li.org>
+soundtracker,1617,4,27,457,4,8,2313,1648,98.11893203883496,Vietnamese <gnomevi-list@lists.sourceforge.net>
+spu-binutils,17303,0,0,2594,0,0,26642,17303,100.0,Vietnamese <vi-VN@googlegroups.com>
+squirrelmail,18702,0,0,3288,0,0,26426,18702,100.0,Vietnamese <vi-VN@googlegroups.com>
+stardict,2335,121,182,441,33,58,3293,2638,88.51402577710387,Vietnamese <vi-VN@googlegroups.com>
+stellarium,623,0,6515,164,0,2327,914,7138,8.727934995797142,Vietnamese <vi@li.org>
+subdownloader,832,0,136,243,0,29,1179,968,85.9504132231405,LANGUAGE <LL@li.org>
+sugar,907,68,546,267,11,101,1303,1521,59.631821170282706,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,24,0,0,24,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,8,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,52,0,5,28,0,2,71,57,91.22807017543859,LANGUAGE <LL@li.org>
+sugar-calculator,510,104,245,122,10,34,635,859,59.37136204889406,LANGUAGE <LL@li.org>
+sugar-chat,24,0,26,11,0,22,35,50,48.0,LANGUAGE <LL@li.org>
+sugar-clock,7,1,30,1,1,15,7,38,18.421052631578945,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-finance,143,0,0,32,0,0,192,143,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,0,11,0,0,38,24,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,181,0,3,54,0,2,237,184,98.36956521739131,LANGUAGE <LL@li.org>
+sugar-jukebox,12,0,3,7,0,3,24,15,80.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,245,1,8,86,1,6,360,254,96.45669291338582,LANGUAGE <LL@li.org>
+sugar-log,41,4,32,13,1,5,52,77,53.246753246753244,LANGUAGE <LL@li.org>
+sugar-measure,5,0,150,3,0,70,6,155,3.225806451612903,LANGUAGE <LL@li.org>
+sugar-memorize,68,8,38,51,7,13,103,114,59.64912280701754,LANGUAGE <LL@li.org>
+sugar-moon,90,0,1,31,0,1,144,91,98.9010989010989,LANGUAGE <LL@li.org>
+sugar-physics,28,0,0,27,0,0,33,28,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,41,15,53,13,1,17,59,109,37.61467889908257,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,53,0,11,28,0,5,72,64,82.8125,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-surf,53,0,0,29,0,0,72,53,100.0,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2069,0,0,694,0,2069,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,13,0,4,7,0,2,19,17,76.47058823529412,LANGUAGE <LL@li.org>
+sugar-toolkit,78,0,0,40,0,0,77,78,100.0,Vietnamese <vi-VN@googlegroups.com>
+sugar-turtleart,1214,57,1196,372,17,266,1799,2467,49.20956627482773,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,124,0,0,69,0,0,166,124,100.0,LANGUAGE <LL@li.org>
+sugar-write,75,0,6,45,0,3,105,81,92.5925925925926,LANGUAGE <LL@li.org>
+sushi,15,0,0,9,0,0,17,15,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+switchdesk,43,30,64,4,3,12,63,137,31.386861313868614,Vietnamese <gnomevi-list@sourceforge.net>
+sylpheed,5217,1002,764,1380,252,107,7357,6983,74.71001002434484,Vietnamese <gnome-vi-list@gnome.org>
+sysstat,498,0,0,54,0,0,782,498,100.0,Vietnamese <vi-VN@googlegroups.com>
+system-config-bind,18,432,8969,8,123,933,27,9419,0.19110308949994692,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-boot,41,2,76,9,1,13,54,119,34.45378151260504,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-date,516,1,1836,508,1,371,995,2353,21.929451763705906,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,59,198,2557,15,57,259,89,2814,2.0966595593461266,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-httpd,725,44,89,189,20,14,967,858,84.4988344988345,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,25,155,7,8,66,7,35,187,13.368983957219251,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-kickstart,707,182,215,177,41,27,958,1104,64.03985507246377,Vietnamese <gnomevi-list@lists.sourceforge.net>
+system-config-language,36,9,278,7,2,47,45,323,11.145510835913312,vi
+system-config-netboot,61,0,1042,11,0,154,72,1103,5.530371713508613,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-network,1985,486,561,549,95,77,2619,3032,65.4683377308707,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-nfs,49,90,193,16,27,29,61,332,14.759036144578314,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,1189,853,1015,307,213,222,1733,3057,38.8943408570494,Vietnamese <vi-VN@googlegroups.com>
+system-config-rootpassword,9,32,75,2,6,11,10,116,7.758620689655173,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-samba,177,0,394,61,0,73,251,571,30.998248686514884,Vietnamese (http://www.transifex.net/projects/p/fedora/language/vi/)
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,12,2,504,8,1,62,18,518,2.3166023166023164,GnomeVI <gnomevi-list@lists.sourceforge.net>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,380,0,2524,68,0,278,427,2904,13.085399449035812,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+tar,3308,9,0,545,2,0,4945,3317,99.72867048537836,Vietnamese <vi-VN@googlegroups.com>
+tasks,26,31,244,17,17,66,41,301,8.637873754152823,Vietnamese <gnomevi-list@lists.sourceforge.net>
+thunar-vfs,293,14,80,59,2,25,352,387,75.71059431524549,none
+tomboy,6579,1,420,666,1,5,8929,7000,93.98571428571428,Vietnamese <vi-VN@googlegroups.com>
+totem,2744,0,0,621,0,0,3698,2744,100.0,Vietnamese <du-an-most@lists.hanoilug.org>
+totem-pl-parser,28,0,0,7,0,0,35,28,100.0,Vietnamese <vi-VN@googlegroups.com>
+trac,2767,31,24,684,19,6,4063,2822,98.05102763997165,
+transmission,867,0,661,284,0,170,1341,1528,56.74083769633508,Vietnamese <vi@li.org>
+tuxmath,23,22,1409,13,2,233,34,1454,1.5818431911966988,Vietnamese <vi@li.org>
+tuxpaint,493,558,196,142,65,45,563,1247,39.53488372093023,Vietnamese <vi-VN@googlegroups.com>
+tuxpaint-stamps,0,0,2711,0,0,650,0,2711,0.0,
+usermode,252,0,320,60,0,36,350,572,44.05594405594406,Vietnamese (http://www.transifex.net/projects/p/fedora/team/vi/)
+util-linux,10746,3492,3542,1768,523,182,15003,17780,60.43869516310462,Vietnamese <vi-VN@googlegroups.com>
+vidalia,2239,0,8224,518,0,785,3271,10463,21.399216285960048,translations@vidalia-project.net
+vim,6704,0,0,1426,0,0,10546,6704,100.0,Phan Vinh Thinh <teppi@vnlinux.org>
+vinagre,902,0,0,162,0,0,1278,902,100.0,Vietnamese <vi-VN@googlegroups.com>
+vino,1051,0,0,112,0,0,1472,1051,100.0,Vietnamese <vi-VN@googlegroups.com>
+virtaal,1171,0,0,314,0,0,1814,1171,100.0,
+vorbis-tools,2495,1259,355,334,119,48,3797,4109,60.72036991968849,Vietnamese <vi-VN@googlegroups.com>
+vte,116,0,0,20,0,0,170,116,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+vte3,116,0,0,20,0,0,170,116,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+watchdog,97,0,0,7,0,0,159,97,100.0,Vietnamese <vi-VN@googlegroups.com>
+wdiff,959,33,0,146,4,0,1441,992,96.67338709677419,Vietnamese <vi-VN@googlegroups.com>
+webkitgtk,1082,0,11,259,0,3,1375,1093,98.9935956084172,Vietnamese <vi-VN@googlegroups.com>
+webkitgtk3,1082,0,11,259,0,3,1375,1093,98.9935956084172,Vietnamese <vi-VN@googlegroups.com>
+wesnoth,113765,0,113148,7974,0,6191,155239,226913,50.13595518987454,Vietnamese <>
+wget,2260,0,0,394,0,0,3304,2260,100.0,Vietnamese <vi-VN@googlegroups.com>
+widelands,1504,0,16222,248,0,1366,2041,17726,8.484711722892925,Vietnamese <vi@li.org>
+wxGTK,6679,0,0,1523,0,0,9422,6679,100.0,Trần Ngọc Quân <vnwildman@gmail.com>
+wxPython,6679,0,0,1523,0,0,9422,6679,100.0,Trần Ngọc Quân <vnwildman@gmail.com>
+xchat,4882,94,51,1186,32,14,7126,5027,97.11557589019296,Vietnamese <vi-VN@googlegroups.com>
+xchat-gnome,2576,105,1220,715,36,229,4306,3901,66.03435016662395,English <en@li.org>
+xdg-user-dirs,28,0,0,28,0,0,50,28,100.0,Vietnamese <vi-VN@googlegroups.com>
+xfce-utils,64,58,370,22,11,39,94,492,13.008130081300814,Vietnamese <vi-VN@googlegroups.com>
+xfce4-battery-plugin,123,4,0,31,1,0,163,127,96.8503937007874,none
+xfce4-clipman-plugin,219,31,97,38,5,18,324,347,63.112391930835734,none
+xfce4-eyes-plugin,1,0,8,1,0,2,2,9,11.11111111111111,none <LL@li.org>
+xfce4-fsguard-plugin,42,4,25,9,2,8,47,71,59.154929577464785,Vietnamese <none@li.org>
+xfce4-mailwatch-plugin,534,36,89,91,6,13,678,659,81.03186646433991,Vietnamese <none@li.org>
+xfce4-modemlights-plugin,22,2,112,12,1,2,47,136,16.176470588235293,Vietnamese <none@li.org>
+xfce4-mount-plugin,44,113,141,11,15,18,52,298,14.76510067114094,Vietnamese <xfce-i18n@xfce.org>
+xfce4-netload-plugin,60,2,5,18,1,2,79,67,89.55223880597015,Vietnamese <none@li.org>
+xfce4-notes-plugin,92,1,18,33,1,13,120,111,82.88288288288288,none
+xfce4-panel,34,444,1026,19,122,203,54,1504,2.2606382978723407,Vietnamese <vi-VN@googlegroups.com>
+xfce4-quicklauncher-plugin,28,0,15,9,0,8,38,43,65.11627906976744,Vietnamese <none@li.org>
+xfce4-screenshooter,331,54,58,56,9,8,394,443,74.7178329571106,none
+xfce4-sensors-plugin,25,104,225,15,29,28,39,354,7.062146892655368,Vietnamese <none@li.org>
+xfce4-session,390,201,541,89,53,88,504,1132,34.45229681978799,Vietnamese <vi-VN@googlegroups.com>
+xfce4-systemload-plugin,43,4,16,15,1,2,57,63,68.25396825396825,Vietnamese <none@none.org>
+xfce4-taskmanager,9,20,94,9,10,26,17,123,7.317073170731707,Vietnamese <none@li.org>
+xfce4-verve-plugin,12,8,27,5,1,4,16,47,25.53191489361702,Vietnamese <xfce-i18n@xfce.org>
+xfce4-wavelan-plugin,10,0,39,4,0,7,20,49,20.408163265306122,Vietnamese <none@li.org>
+xfce4-websearch-plugin,13,0,0,5,0,0,19,13,100.0,Vietnamese <none@li.org>
+xfdesktop,130,344,361,50,89,60,180,835,15.568862275449103,Vietnamese <vi-VN@googlegroups.com>
+xfwm4,136,481,220,55,131,44,228,837,16.248506571087216,Vietnamese <vi-VN@googlegroups.com>
+xkeyboard-config,2286,0,0,750,0,0,3066,2286,100.0,Vietnamese <vi-VN@googlegroups.com>
+xmms,3177,66,200,1003,18,24,4095,3443,92.27417949462678,Vietnamese <gnomevi-list@lists.sourceforge.net>
+xpad,226,0,144,66,0,12,350,370,61.08108108108108,Vietnamese <gnomevi-list@lists.sourceforge.net>
+xsane,2037,979,208,536,150,42,2924,3224,63.18238213399504,Vietnamese <gnomevi-list@lists.sourceforge.net>
+xscreensaver,1680,574,8936,635,299,900,2437,11190,15.013404825737265,Gnome-Vi Team <Gnomevi-list@lists.sourceforge.net>
+yelp,937,0,0,323,0,0,1263,937,100.0,Vietnamese <vi-VN@googlegroups.com>
+yelp-xsl,70,0,0,52,0,0,98,70,100.0,Vietnamese <gnomevi-list@lists.sourceforge.net>
+yum-rhn-plugin,0,0,100,0,0,12,0,100,0.0,LANGUAGE <LL@li.org>
+zenity,674,0,0,159,0,0,996,674,100.0,Vietnamese <vi-VN@googlegroups.com>

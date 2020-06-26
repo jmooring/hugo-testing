@@ -1,0 +1,45 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,38,0,3298,21,0,703,44,3336,1.1390887290167866,Kazakh <kk@li.org>
+Terminal,1193,0,0,270,0,0,1044,1193,100.0,Kazakh <kk_KZ@googlegroups.com>
+Thunar,3865,0,0,685,0,0,2952,3865,100.0,Kazakh <kk_KZ@googlegroups.com>
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+alacarte,42,0,0,16,0,0,36,42,100.0,Kazakh <>
+blueman,31,0,1345,28,0,324,41,1376,2.252906976744186,Kazakh <kk@li.org>
+clementine,64,0,2047,46,0,592,65,2111,3.0317385125532925,Kazakh <kk@li.org>
+decibel-audio-player,46,0,1448,18,0,219,43,1494,3.0789825970548863,Kazakh <kk@li.org>
+deluge,1998,0,0,689,0,0,1895,1998,100.0,Kazakh <kk_KZ@googlegroups.com>
+exaile,2,0,2174,1,0,586,2,2176,0.09191176470588235,Kazakh <kk@li.org>
+exo,1598,0,0,301,0,0,1300,1598,100.0,Kazakh <kk_KZ@googlegroups.com>
+file-roller,1267,0,0,284,0,0,1008,1267,100.0,Kazakh <kk_KZ@googlegroups.com>
+gdm,1314,0,0,236,0,0,1140,1314,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-backgrounds,23,0,0,17,0,0,23,23,100.0,Kazakh <moldabekov@gmail.com>
+gnome-desktop,285,0,0,71,0,0,244,285,100.0,Kazakh <moldabekov@gmail.com>
+gnome-icon-theme,20,0,0,16,0,0,23,20,100.0,Kazakh <moldabekov@gmail.com>
+gnome-menus,157,0,0,56,0,0,144,157,100.0,Kazakh <gnome-cyr@gnome.org>
+gparted,1801,0,0,342,0,0,1581,1801,100.0,Kazakh <kk_KZ@googlegroups.com>
+homebank,9,0,1498,9,0,525,11,1507,0.5972130059721301,Kazakh <kk@li.org>
+iso-codes,1083,1,8,449,1,2,857,1092,99.17582417582418,Kazakh <kk_KZ@googlegroups.com>
+jokosher,3,0,2056,1,0,408,2,2059,0.1457017969888295,Kazakh <kk@li.org>
+klavaro,1878,0,0,220,0,0,1355,1878,100.0,Kazakh <kk_KZ@googlegroups.com>
+kmid,523,6,6,205,4,5,488,535,97.75700934579439,Kazakh
+konq-plugins,1205,246,147,401,45,70,1071,1598,75.40675844806007,Kazakh
+kpilot,4560,999,1597,487,190,184,3304,7156,63.72275013974288,Kazakh
+ksig,71,2,12,17,1,8,57,85,83.52941176470588,Kazakh
+libxfce4menu,31,0,0,5,0,0,28,31,100.0,Kazakh <kk_KZ@googlegroups.com>
+libxfce4util,424,0,0,7,0,0,384,424,100.0,Kazakh <kk_KZ@googlegroups.com>
+lxmenu-data,97,0,0,37,0,0,83,97,100.0,Kazakh <gnome-cyr@gnome.org>
+pam,599,0,0,120,0,0,572,599,100.0,Kazakh <kk_KZ@googlegroups.com>
+poedit,1164,0,0,270,0,0,998,1164,100.0,Kazakh <kk_KZ@googlegroups.com>
+shadow-utils,1494,1058,669,253,94,65,1509,3221,46.383110835144365,Kazakh <kk_KZ@googlegroups.com>
+swfdec-gnome,85,16,0,27,1,0,81,101,84.15841584158416,Kazakh
+terminator,140,0,78,55,0,45,153,218,64.22018348623854,Kazakh <kk@li.org>
+transmission,1227,0,415,383,0,66,1098,1642,74.72594397076736,Kazakh <kk_KZ@googlegroups.com>
+xfburn,1285,5,10,279,3,1,1034,1300,98.84615384615385,Kazakh <kk_KZ@googlegroups.com>
+xfce-utils,131,0,0,36,0,0,130,131,100.0,Kazakh <kk_KZ@googlegroups.com>
+xfce4-appfinder,84,0,0,19,0,0,86,84,100.0,Kazakh <kk_KZ@googlegroups.com>
+xfce4-panel,540,0,0,167,0,0,502,540,100.0,Kazakh <kk_KZ@googlegroups.com>
+xfce4-session,988,0,0,197,0,0,841,988,100.0,Kazakh <kk_KZ@googlegroups.com>
+xfce4-settings,1128,0,0,237,0,0,939,1128,100.0,Kazakh <kk_KZ@googlegroups.com>
+xfconf,437,0,0,63,0,0,389,437,100.0,Kazakh <kk_KZ@googlegroups.com>
+xfdesktop,1002,0,0,266,0,0,927,1002,100.0,Kazakh <kk_KZ@googlegroups.com>
+xfwm4,797,0,0,224,0,0,820,797,100.0,Kazakh <kk_KZ@googlegroups.com>

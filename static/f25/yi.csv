@@ -1,0 +1,58 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,1,0,3953,1,0,460,1,3954,0.025290844714213456,Yiddish <raphael@cs.uky.edu>
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+asunder,4,0,476,4,0,83,4,480,0.8333333333333334,http://littlesvr.ca/ostd/
+atk,31,96,248,31,48,47,32,375,8.266666666666666,Yiddish <raphael@cs.uky.edu>
+audience,0,0,106,0,0,48,0,106,0.0,
+caja,27,0,9286,25,0,1485,27,9313,0.28991731987544295,Yiddish (http://www.transifex.com/mate/MATE/language/yi/)
+calibre,3,0,152261,2,0,17731,3,152264,0.001970262176220249,Yiddish (http://www.transifex.com/calibre/calibre/language/yi/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Yiddish <raphael@cs.uky.edu>
+cinnamon-translations,104,0,7778,75,0,1806,112,7882,1.319462065465618,Yiddish <yi@li.org>
+clutter,1,0,3056,1,0,674,1,3057,0.03271180896303566,None <>
+gdk-pixbuf2,792,466,90,118,73,11,751,1348,58.753709198813056,None <>
+gimp,123,3590,20760,104,1448,5071,139,24473,0.5025946961958077,Yiddish <raphael@cs.uky.edu>
+glade2,399,107,5334,139,24,1137,410,5840,6.832191780821918,Yiddish <>
+glib2,688,715,3374,105,127,515,692,4777,14.402344567720327,Yiddish <raphael@cs.uky.edu>
+gnome-desktop,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+gnome-desktop3,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+gnome-mime-data,1,0,826,1,0,340,1,827,0.12091898428053204,Yiddish <raphael@cs.uky.edu>
+gnome-vfs2,209,25,1048,62,9,177,198,1282,16.302652106084242,Yiddish <raphael@cs.uky.edu>
+gnomebaker,0,0,1186,0,0,291,0,1186,0.0,Yiddish <yi@li.org>
+gourmet,1,0,3938,1,0,891,6,3939,0.02538715410002539,Yiddish <yi@li.org>
+gtk2,5223,4277,4204,963,951,870,5195,13704,38.11295971978984,None <>
+gtk3,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+isomaster,8,1,665,8,1,98,9,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libbonobo,460,17,47,93,5,10,434,524,87.78625954198473,Yiddish <raphael@cs.uky.edu>
+libbonoboui,282,33,45,90,4,19,260,360,78.33333333333333,Yiddish <raphael@cs.uky.edu>
+libgnome,401,24,982,78,9,132,375,1407,28.50035536602701,Yiddish <raphael@cs.uky.edu>
+libgnomecanvas,339,18,0,92,2,0,352,357,94.9579831932773,Yiddish <raphael@cs.uky.edu>
+libgnomeui,40,29,1350,31,9,305,43,1419,2.8188865398167726,Yiddish <raphael@cs.uky.edu>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Yiddish (http://www.transifex.com/mate/MATE/language/yi/)
+librfm,49,283,2065,46,134,418,65,2397,2.0442219440967877,Yiddish <raphael@cs.uky.edu>
+mate-menu,36,0,264,27,0,83,37,300,12.0,Yiddish <yi@li.org>
+mate-panel,54,0,4299,14,0,573,51,4353,1.2405237767057202,Yiddish (http://www.transifex.com/mate/MATE/language/yi/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-GConf2,1,0,3953,1,0,460,1,3954,0.025290844714213456,Yiddish <raphael@cs.uky.edu>
+mingw-atk,31,96,248,31,48,47,32,375,8.266666666666666,Yiddish <raphael@cs.uky.edu>
+mingw-gdk-pixbuf,792,466,90,118,73,11,751,1348,58.753709198813056,None <>
+mingw-glib2,688,715,3374,105,127,515,692,4777,14.402344567720327,Yiddish <raphael@cs.uky.edu>
+mingw-gtk2,5223,4277,4204,963,951,870,5195,13704,38.11295971978984,None <>
+mingw-gtk3,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+mintmenu,66,0,1868,44,0,335,71,1934,3.4126163391933813,Yiddish <yi@li.org>
+nautilus,31,59,6886,29,32,1153,31,6976,0.44438073394495414,Yiddish <raphael@cs.uky.edu>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Yiddish <yi@li.org>
+rodent,39,296,9299,37,139,636,49,9634,0.4048162756902636,Yiddish <raphael@cs.uky.edu>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>

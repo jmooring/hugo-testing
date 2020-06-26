@@ -1,0 +1,42 @@
+---
+title: "qalculate-kde - translation progress for f23"
+package: qalculate-kde
+date: 2026-01-17T14:19:16+00:00
+started_languages: 4
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 4
+release: f23
+---
+The package qalculate-kde (version 0.9.7.10):
+
+* represents 1420 source words to be translated
+* is translated into 4 languages in Fedora f23
+
+
+* contains 4 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [nl]({{< ref "/f23/language/nl.md" >}}) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f23/qalculate-kde/po/nl.po | 
+ | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1399 | 1420 | 98.5 | /mnt/stockage/packages/f23/qalculate-kde/po/zh_CN.po | 
+ | [fr]({{< ref "/f23/language/fr.md" >}}) | 1385 | 1420 | 97.5 | /mnt/stockage/packages/f23/qalculate-kde/po/fr.po | 
+ | [sv]({{< ref "/f23/language/sv.md" >}}) | 1378 | 1420 | 97.0 | /mnt/stockage/packages/f23/qalculate-kde/po/sv.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

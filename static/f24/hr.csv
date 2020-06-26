@@ -1,0 +1,698 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3478,52,432,415,6,51,3446,3962,87.78394750126199,Croatian <lokalizacija@linux.hr>
+NetworkManager,487,2324,8532,151,469,1043,447,11343,4.293396808604426,Croatian <hr@li.org>
+NetworkManager-l2tp,327,220,236,58,34,38,308,783,41.7624521072797,Croatian <hr@li.org>
+PackageKit,132,0,1141,60,0,258,129,1273,10.369206598586016,Croatian (http://www.transifex.com/freedesktop/packagekit/language/hr/)
+Thunar,4175,0,25,737,0,1,3854,4200,99.40476190476191,Croatian (http://www.transifex.com/projects/p/thunar/language/hr/)
+WindowMaker,2654,0,20,547,0,2,2536,2674,99.25205684367988,Croatian
+abrt,0,0,3230,0,0,390,0,3230,0.0,Croatian (http://www.transifex.com/projects/p/fedora-abrt/language/hr/)
+aisleriot,1132,366,489,327,121,101,1012,1987,56.97030699547055,Croatian <lokalizacija@linux.hr>
+alacarte,42,0,0,16,0,0,39,42,100.0,Croatian <hr@li.org>
+alleyoop,342,0,0,87,0,0,347,342,100.0,Croatian <lokalizacija@linux.hr>
+anaconda,6867,103,88,1125,9,9,6306,7058,97.29385094927741,Croatian (http://www.transifex.com/projects/p/anaconda/language/hr/)
+anjuta,399,712,5958,261,384,1296,413,7069,5.644362710425803,Croatian <lokalizacija@linux.hr>
+apper,3464,542,48,655,66,10,3339,4054,85.44647261963493,Croatian <kde-croatia-list@lists.sourceforge.net>
+arduino,2290,0,276,412,0,50,2135,2566,89.2439594699922,Croatian (Croatia) (http://www.transifex.com/projects/p/arduino-ide-15/language/hr_HR/)
+aria2,40,0,7096,7,0,385,38,7136,0.5605381165919282,Croatian <hr@li.org>
+arm-none-eabi-binutils-cs,1097,107,8312,262,7,1247,1060,9516,11.527952921395544,Croatian <lokalizacija@linux.hr>
+arm-none-eabi-gcc-cs,530,780,94543,124,159,12072,502,95853,0.5529300074071756,Croatian <lokalizacija@linux.hr>
+asunder,467,4,9,83,2,2,454,480,97.29166666666667,Hrvatski <LL@li.org>
+atk,370,1,4,123,1,2,355,375,98.66666666666667,Croatian <lokalizacija@linux.hr>
+atril,1081,0,680,326,0,77,1010,1761,61.38557637705849,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+audacity,8823,1843,1570,1912,564,308,8205,12236,72.10689767898006,Martin Srebotnjak <miles@filmsi.net>
+authconfig,752,3,960,147,1,148,818,1715,43.84839650145773,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+avogadro,565,0,0,246,0,0,605,565,100.0,Croatian <hr@li.org>
+avr-binutils,1097,107,8312,262,7,1247,1060,9516,11.527952921395544,Croatian <lokalizacija@linux.hr>
+avr-gcc,555,745,90050,128,150,11700,530,91350,0.6075533661740559,Croatian <lokalizacija@linux.hr>
+backintime,594,0,1389,133,0,203,549,1983,29.954614220877456,Croatian <hr@li.org>
+balsa,456,405,4487,293,150,844,475,5348,8.526551982049364,Croatian <lokalizacija@linux.hr>
+baobab,32,35,473,14,13,99,33,540,5.9259259259259265,Croatian <lokalizacija@linux.hr>
+bash,1832,73,9273,363,11,186,1839,11178,16.389336196099478,Croatian <lokalizacija@linux.hr>
+binutils,1097,107,8312,262,7,1247,1060,9516,11.527952921395544,Croatian <lokalizacija@linux.hr>
+bison,1060,325,31,195,12,6,1098,1416,74.85875706214689,Croatian <lokalizacija@linux.hr>
+bleachbit,809,0,326,193,0,60,789,1135,71.27753303964758,Croatian <hr@li.org>
+blender,22,0,0,7,0,0,7,22,100.0,LANGUAGE <LL@li.org>
+blivet-gui,0,0,711,0,0,191,0,711,0.0,Croatian
+blueberry,141,0,0,34,0,0,152,141,100.0,Croatian <hr@li.org>
+blueman,1100,0,346,300,0,51,1104,1446,76.07192254495159,Croatian (http://www.transifex.com/projects/p/MATE/language/hr/)
+boinc-client,337,527,15105,123,116,2296,325,15969,2.110338781388941,LANGUAGE <LL@li.org>
+cairo-dock-plug-ins,1488,0,8715,194,0,1528,1182,10203,14.583945898265217,Croatian <hr@li.org>
+caja,8811,0,387,1487,0,6,8438,9198,95.79256360078277,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+caja-extensions,556,0,0,127,0,0,539,556,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+calibre,8044,0,144220,1426,0,16307,7116,152264,5.282929648505228,Croatian (http://www.transifex.com/calibre/calibre/language/hr/)
+camorama,42,0,517,28,0,105,41,559,7.5134168157423975,Croatian <lokalizacija@linux.hr>
+catfish,104,0,546,24,0,84,100,650,16.0,Croatian <hr@li.org>
+ccsm,416,8,155,113,4,34,369,579,71.84801381692574,Croatian <hr@li.org>
+certmonger,0,0,4956,0,0,830,0,4956,0.0,Croatian (http://www.transifex.com/projects/p/certmonger/language/hr/)
+cflow,525,81,0,103,13,0,488,606,86.63366336633663,Croatian <lokalizacija@linux.hr>
+cheese,1,0,514,1,0,98,6,515,0.1941747572815534,Croatian <hr@li.org>
+chkconfig,423,0,90,86,0,10,422,513,82.45614035087719,LANGUAGE <LL@li.org>
+choqok,890,257,812,220,98,166,894,1959,45.43134252169474,Croatian <kde-croatia-list@lists.sourceforge.net>
+chromium-native_client,2194,214,16624,524,14,2494,2120,19032,11.527952921395544,Croatian <lokalizacija@linux.hr>
+cinnamon-applet-globalappmenu,292,0,17,45,0,3,223,309,94.49838187702265,Croatian <hr@hr.org>
+cinnamon-control-center,551,58,704,551,39,166,563,1313,41.96496572734196,Croatian Reanto Pavicic <lokalizacija@linux.hr repavici@globalnet.hr>
+cinnamon-desktop,231,0,0,31,0,0,217,231,100.0,Croatian <trebelnik2@gmail.com>
+cinnamon-session,401,0,0,69,0,0,397,401,100.0,Croatian <lokalizacija@linux.hr>
+cinnamon-settings-daemon,257,202,621,34,50,106,230,1080,23.796296296296298,Croatian <lokalizacija@linux.hr>
+cinnamon-translations,13551,0,0,3226,0,0,13083,13551,100.0,Croatian <hr@li.org>
+clamtk,105,0,359,44,0,96,102,464,22.629310344827587,Croatian <hr@li.org>
+clementine,5085,0,6,1350,0,2,5004,5091,99.88214496169712,Croatian (http://www.transifex.com/davidsansome/clementine/language/hr/)
+cockpit,560,157,3521,230,67,975,533,4238,13.213780084945729,Croatian
+comix,1300,0,26,259,0,3,1139,1326,98.0392156862745,Croatian
+compat-gtkhtml314,907,181,140,395,106,44,866,1228,73.8599348534202,Croatian <lokalizacija@linux.hr>
+compiz,80,1153,3152,29,386,464,77,4385,1.8244013683010263,Croatian <opensuse-translation@opensuse.org>
+conky-manager,661,0,0,165,0,0,626,661,100.0,Croatian <hr@li.org>
+console-setup,983,0,0,175,0,0,865,983,100.0,Croatian <lokalizacija@linux.hr>
+control-center,5741,58,704,2052,39,166,5560,6503,88.28233123173919,Croatian Reanto Pavicic <lokalizacija@linux.hr repavici@globalnet.hr>
+coreutils,785,383,19433,192,82,1456,781,20601,3.8104946361827094,Croatian <lokalizacija@linux.hr>
+cpio,1795,86,21,293,15,5,1754,1902,94.37434279705573,Croatian <lokalizacija@linux.hr>
+cppi,596,0,0,61,0,0,557,596,100.0,Croatian <lokalizacija@linux.hr>
+cross-binutils,1097,107,8312,262,7,1247,1060,9516,11.527952921395544,Croatian <lokalizacija@linux.hr>
+cross-gcc,555,725,89671,128,147,11655,530,90951,0.6102186891842861,Croatian <lokalizacija@linux.hr>
+cups-pk-helper,149,0,0,22,0,0,135,149,100.0,Croatian <lokalizacija@linux.hr>
+dasher,269,91,63,114,26,27,289,423,63.593380614657214,Croatian <lokalizacija@linux.hr>
+debconf,191,0,0,17,0,0,189,191,100.0,Croatian <lokalizacija@linux.hr>
+decibel-audio-player,61,0,1433,30,0,207,58,1494,4.0829986613119145,Croatian <hr@li.org>
+deja-dup,4073,0,27,485,0,3,3877,4100,99.34146341463415,Croatian <hr@li.org>
+deluge,2728,0,0,878,0,0,2712,2728,100.0,Croatian <hr@li.org>
+devhelp,24,3,337,14,2,78,39,364,6.593406593406594,Croatian <lokalizacija@linux.hr>
+dia,3797,910,1004,1414,372,260,3855,5711,66.48572929434425,Croatian <lokalizacija@linux.hr>
+dialog,25,0,0,23,0,0,26,25,100.0,Croatian <lokalizacija@linux.hr>
+diffutils,841,5,954,165,1,82,847,1800,46.72222222222222,Croatian <lokalizacija@linux.hr>
+digikam,828,874,41891,465,346,6087,808,43593,1.8993875163443672,Croatian <kde-croatia-list@lists.sourceforge.net>
+dnf,0,0,1886,0,0,488,0,1886,0.0,Croatian
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Croatian
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Croatian
+dnfdragora,177,0,372,138,0,130,191,549,32.240437158469945,Croatian (https://www.transifex.com/MageiaLinux/teams/9361/hr/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Croatian
+dolphin-emu,3047,0,3918,797,0,492,3037,6965,43.747307968413494,Croatian (http://www.transifex.com/delroth/dolphin-emu/language/hr/)
+drgeo,137,20,1828,103,4,354,140,1985,6.9017632241813605,Croatian <lokalizacija@linux.hr>
+e16,1427,6,1388,384,3,139,1395,2821,50.58489897199575,Croatian <hr@li.org>
+easytag,5239,0,0,1020,0,0,5050,5239,100.0,Croatian <hr@li.org>
+ekiga,1974,1345,861,319,198,128,1844,4180,47.22488038277512,Croatian <lokalizacija@linux.hr>
+elinks,359,1495,10391,171,473,981,374,12245,2.9318089015924866,Croatian <lokalizacija@linux.hr>
+empathy,763,51,806,217,37,166,735,1620,47.098765432098766,Croatian
+engrampa,1057,0,878,275,0,78,971,1935,54.62532299741603,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+enigma,1992,11,7028,464,3,502,1792,9031,22.05735798914849,Croatian (Croatia) (http://www.transifex.com/projects/p/enigma/language/hr_HR/)
+enlightenment,2976,3483,2273,901,920,360,2986,8732,34.08153916628493,Croatian <hr@li.org>
+enscript,1385,440,8,191,15,2,1390,1833,75.55919258046919,Croatian <lokalizacija@linux.hr>
+entangle,0,0,935,0,0,209,0,935,0.0,Croatian
+eog,1703,0,0,342,0,0,1613,1703,100.0,Croatian <lokalizacija@linux.hr>
+eog-plugins,416,0,0,101,0,0,392,416,100.0,Croatian <hr@li.org>
+eom,776,0,955,234,0,93,778,1731,44.82957827845176,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+epiphany,2650,5,346,669,2,81,2637,3001,88.3038987004332,Croatian <lokalizacija@linux.hr>
+evolution,15710,1542,4575,4036,275,680,14822,21827,71.97507673981765,Croatian <lokalizacija@linux.hr>
+evolution-data-server,4051,584,479,887,87,90,4136,5114,79.21392256550645,Croatian <lokalizacija@linux.hr>
+exaile,1891,234,1881,632,49,344,1857,4006,47.20419370943585,Croatian <https://hosted.weblate.org/projects/exaile/master/hr/>
+exif,296,0,0,68,0,0,275,296,100.0,Croatian <lokalizacija@linux.hr>
+exo,1414,0,0,286,0,0,1288,1414,100.0,Croatian (http://www.transifex.com/projects/p/exo/language/hr/)
+feedreader,0,0,0,0,0,0,0,0,0.0,
+file-roller,877,58,270,222,17,31,790,1205,72.78008298755186,Croatian <lokalizacija@linux.hr>
+filezilla,8270,526,306,1402,95,43,8700,9102,90.85915183476159,Croatian <hr@li.org>
+findutils,1856,220,492,178,20,41,1729,2568,72.27414330218068,Croatian <lokalizacija@linux.hr>
+five-or-more,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+flex,139,0,991,38,0,128,145,1130,12.300884955752213,Croatian <lokalizacija@linux.hr>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Croatian
+four-in-a-row,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+fprintd,419,0,0,57,0,0,395,419,100.0,Croatian (http://www.transifex.com/freedesktop/fprintd/language/hr/)
+freedink,188,0,0,42,0,0,188,188,100.0,Croatian <lokalizacija@linux.hr>
+freedink-data,2302,0,11456,403,0,1816,2023,13758,16.732083151620873,Croatian <lokalizacija@linux.hr>
+freedink-dfarc,778,0,0,135,0,0,719,778,100.0,Croatian <lokalizacija@linux.hr>
+fuse-encfs,19,0,1270,5,0,132,19,1289,1.474010861132661,Croatian <hr@li.org>
+fwupd,412,0,23,97,0,11,407,435,94.71264367816093,Croatian (http://www.transifex.com/hughsie/fwupd/language/hr/)
+gajim,8802,1879,1257,1753,309,204,8240,11938,73.73094320656726,Croatian
+gambas3,830,0,4424,387,0,1168,819,5254,15.797487628473544,<hr@li.org>
+garcon,109,0,0,34,0,0,112,109,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+gbrainy,2464,0,5575,635,0,402,2297,8039,30.650578430153004,Croatian <hr@li.org>
+gcc,555,745,90050,128,150,11700,530,91350,0.6075533661740559,Croatian <lokalizacija@linux.hr>
+gcompris,0,0,0,0,0,0,0,0,0.0,
+gconf-editor,89,41,199,25,19,53,116,329,27.0516717325228,Croatian <lokalizacija@linux.hr>
+gcr,0,38,584,0,10,217,0,622,0.0,Croatian <lokalizacija@linux.hr>
+gdesklets,182,0,1346,71,0,133,172,1528,11.910994764397905,Croatian <lokalizacija@linux.hr>
+gdk-pixbuf2,1061,236,51,158,39,5,1063,1348,78.70919881305637,Croatian <lokalizacija@linux.hr>
+gdm,30,165,455,8,30,49,36,650,4.615384615384616,Croatian <lokalizacija@linux.hr>
+geary,1101,0,0,327,0,0,1105,1101,100.0,Croatian (http://www.transifex.com/projects/p/geary/language/hr/)
+gedit,2953,341,1602,812,29,236,2843,4896,60.31454248366013,Croatian <lokalizacija@linux.hr>
+gedit-plugins,687,177,341,325,55,89,701,1205,57.01244813278008,Croatian <lokalizacija@linux.hr>
+genius,2747,0,0,453,0,0,2603,2747,100.0,
+gettext,952,0,0,130,0,0,925,952,100.0,Croatian <lokalizacija@linux.hr>
+gftp,2750,391,234,508,104,22,2650,3375,81.48148148148148,Croatian <lokalizacija@linux.hr>
+ggz-gtk-client,6,0,0,6,0,0,6,6,100.0,Croatian <lokalizacija@linux.hr>
+ghdl,779,169,78228,162,39,10259,739,79176,0.9838840052541175,Croatian <lokalizacija@linux.hr>
+ghex,704,12,193,219,2,35,662,909,77.44774477447744,
+gigolo,255,0,266,106,0,36,253,521,48.94433781190019,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+gimp,10088,9655,5779,2837,2969,856,9360,25522,39.526682861844684,Croatian <lokalizacija@linux.hr>
+gimp-gap,4757,25,9,858,5,5,4740,4791,99.29033604675433,Croatian <lokalizacija@linux.hr>
+gimp-help,1768,1218,237808,167,119,14764,1568,240794,0.7342375640589052,LANGUAGE <LL@li.org>
+glade2,5555,183,102,1240,39,21,5041,5840,95.11986301369863,Croatian <lokalizacija@linux.hr>
+glib2,1021,591,3165,148,116,483,971,4777,21.373246807619843,Croatian <lokalizacija@linux.hr>
+glibc,7757,185,135,1421,28,24,7852,8077,96.0381329701622,Croatian <lokalizacija@linux.hr>
+glibc-arm-linux-gnu,7757,185,135,1421,28,24,7852,8077,96.0381329701622,Croatian <lokalizacija@linux.hr>
+glpi,9886,0,750,2673,0,132,9498,10636,92.94847687100413,Croatian (Croatia) (http://www.transifex.com/glpi/GLPI/language/hr_HR/)
+gnome-activity-journal,5,0,311,5,0,89,5,316,1.5822784810126582,Croatian <hr@li.org>
+gnome-bluetooth,49,0,465,20,0,135,68,514,9.53307392996109,Croatian <hr@li.org>
+gnome-calculator,442,187,499,201,59,139,434,1128,39.184397163120565,Croatian <lokalizacija@linux.hr>
+gnome-chess,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+gnome-commander,1044,561,6291,383,222,818,1077,7896,13.221884498480243,Croatian <lokalizacija@linux.hr>
+gnome-desktop,283,0,2,69,0,2,269,285,99.29824561403508,Croatian <lokalizacija@linux.hr>
+gnome-desktop3,283,0,2,69,0,2,269,285,99.29824561403508,Croatian <lokalizacija@linux.hr>
+gnome-dictionary,642,63,128,133,15,35,594,833,77.07082833133254,Croatian <lokalizacija@linux.hr>
+gnome-do,361,0,251,105,0,39,374,612,58.98692810457516,Croatian <hr@li.org>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Croatian <lokalizacija@linux.hr>
+gnome-gmail,36,17,134,12,3,16,35,187,19.25133689839572,Croatian <hr@li.org>
+gnome-icon-theme,20,0,0,16,0,0,22,20,100.0,Croatian <lokalizacija@linux.hr>
+gnome-keyring,516,0,0,104,0,0,464,516,100.0,Croatian <lokalizacija@linux.hr>
+gnome-klotski,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+gnome-libs,831,55,199,339,27,29,776,1085,76.58986175115207,Croatian <hr@li.org>
+gnome-mahjongg,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+gnome-menus,157,0,0,56,0,0,161,157,100.0,Croatian <hr@li.org>
+gnome-mime-data,887,0,0,362,0,0,952,887,100.0,Croatian <lokalizacija@linux.hr>
+gnome-mines,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+gnome-mud,120,67,971,48,36,174,123,1158,10.362694300518134,Croatian <lokalizacija@linux.hr>
+gnome-nettool,573,0,0,197,0,0,579,573,100.0,Croatian <lokalizacija@linux.hr>
+gnome-nibbles,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+gnome-online-accounts,2,51,412,2,37,129,2,465,0.43010752688172044,Croatian
+gnome-power-manager,7,37,388,3,16,125,5,432,1.6203703703703702,Croatian <hr@li.org>
+gnome-robots,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+gnome-screensaver,932,11,23,148,2,4,818,966,96.48033126293996,Croatian <hr@li.org>
+gnome-screenshot,63,113,143,17,18,24,59,319,19.74921630094044,Croatian <lokalizacija@linux.hr>
+gnome-search-tool,1167,72,120,149,12,39,1069,1359,85.8719646799117,Croatian <lokalizacija@linux.hr>
+gnome-session,247,66,401,43,24,47,225,714,34.593837535014,Croatian <lokalizacija@linux.hr>
+gnome-settings-daemon,257,202,621,34,50,106,230,1080,23.796296296296298,Croatian <lokalizacija@linux.hr>
+gnome-software,2037,0,1,541,0,1,1958,2038,99.95093228655546,Croatian <hr@li.org>
+gnome-sudoku,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+gnome-system-log,219,53,250,45,16,33,189,522,41.95402298850575,Croatian <lokalizacija@linux.hr>
+gnome-system-monitor,471,6,436,134,2,102,480,913,51.5881708652793,Croatian <lokalizacija@linux.hr>
+gnome-terminal,2562,0,0,485,0,0,2370,2562,100.0,Croatian <lokalizacija@linux.hr>
+gnome-tetravex,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+gnome-themes,96,0,0,28,0,0,104,96,100.0,Croatian <lokalizacija@linux.hr>
+gnome-vfs2,1508,0,0,301,0,0,1449,1508,100.0,Croatian <lokalizacija@linux.hr>
+gnomebaker,43,300,833,18,55,216,44,1176,3.6564625850340136,Croatian <hr@li.org>
+gnubik,278,5,2,82,1,2,268,285,97.54385964912281,Croatian <lokalizacija@linux.hr>
+gnumeric,6101,5702,23243,1643,1355,2644,5852,35046,17.40854876448097,Croatian <lokalizacija@linux.hr>
+gobby,109,0,791,57,0,133,109,900,12.11111111111111,Croatian <hr@li.org>
+goffice,1566,1641,2994,655,626,720,1547,6201,25.25399129172714,Croatian <lokalizacija@linux.hr>
+goffice08,1771,997,1831,723,383,454,1765,4599,38.50837138508371,Croatian <lokalizacija@linux.hr>
+gourmet,20,4,3915,6,2,884,24,3939,0.5077430820005078,Croatian <hr@li.org>
+gparted,2595,0,0,447,0,0,2446,2595,100.0,Croatian <hr@li.org>
+gpicview,236,0,0,52,0,0,249,236,100.0,Croatian <asjlob AT vip.hr>
+gramps,30788,2003,4759,5942,178,219,27134,37550,81.99201065246339,
+grep,959,0,0,115,0,0,961,959,100.0,Croatian <lokalizacija@linux.hr>
+gridengine,1467,408,172,315,65,19,1486,2047,71.66585246702492,Croatian <lokalizacija@linux.hr>
+grub-customizer,1160,0,135,181,0,12,1052,1295,89.57528957528957,Croatian <hr@li.org>
+gscan2pdf,289,0,1550,142,0,364,264,1839,15.715062533985863,Croatian <hr@li.org>
+gstreamer1,2036,0,0,373,0,0,2071,2036,100.0,Croatian <lokalizacija@linux.hr>
+gstreamer1-plugins-bad-free,234,0,0,34,0,0,258,234,100.0,Croatian <lokalizacija@linux.hr>
+gstreamer1-plugins-base,920,0,0,194,0,0,926,920,100.0,Croatian <lokalizacija@linux.hr>
+gstreamer1-plugins-good,769,0,0,109,0,0,734,769,100.0,Croatian <lokalizacija@linux.hr>
+gtg,1156,0,2341,279,0,21,1123,3497,33.05690591935945,Croatian <hr@li.org>
+gthumb,2713,0,0,912,0,0,2673,2713,100.0,Croatian <lokalizacija@linux.hr>
+gtk+,187,0,15,93,0,12,183,202,92.57425742574257,hr <LL@li.org>
+gtk2,8287,2712,2705,1486,671,627,7681,13704,60.47139521307648,Croatian <lokalizacija@linux.hr>
+gtk3,6456,2693,2704,1184,674,629,5905,11853,54.467223487724624,Croatian <lokalizacija@linux.hr>
+gtkhtml3,907,181,140,395,106,44,866,1228,73.8599348534202,Croatian <lokalizacija@linux.hr>
+gtksourceview2,189,0,829,77,0,311,204,1018,18.56581532416503,Croatian <lokalizacija@linux.hr>
+gtksourceview3,62,97,959,49,59,513,85,1118,5.545617173524151,Croatian <lokalizacija@linux.hr>
+gtkspell3,16,0,0,7,0,0,16,16,100.0,Croatian <lokalizacija@linux.hr>
+gtranslator,164,17,1194,120,9,238,178,1375,11.927272727272726,
+guake,395,237,434,78,47,69,362,1066,37.05440900562852,Croatian (http://www.transifex.com/projects/p/guake/language/hr/)
+guayadeque,3326,0,0,1019,0,0,2908,3326,100.0,Croatian (http://www.transifex.com/projects/p/guayadeque/language/hr/)
+gucharmap,700,54,49,263,9,26,725,803,87.17310087173101,Croatian <lokalizacija@linux.hr>
+gweled,76,0,80,18,0,26,61,156,48.717948717948715,Croatian <hr@li.org>
+help2man,527,0,38,48,0,1,507,565,93.27433628318585,Croatian <lokalizacija@linux.hr>
+homebank,1835,11,437,605,5,123,1730,2283,80.3766973280771,Croatian <hr@li.org>
+iagno,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+icewm,0,0,0,0,0,0,0,0,0.0,Croatian <lokalizacija@linux.hr>
+im-chooser,2,0,237,1,0,55,2,239,0.8368200836820083,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Croatian
+initscripts,915,68,20,143,12,3,935,1003,91.22632103688933,<XX@li.org>
+inkscape,10289,10477,13907,2286,3153,1964,9712,34673,29.674386410175064,Croatian <lokalizacija@linux.hr>
+iso-codes,2783,169,13103,1320,63,8968,2418,16055,17.334163811896605,Croatian <lokalizacija@linux.hr>
+isomaster,674,0,0,107,0,0,585,674,100.0,Croatian <lokalizacija@linux.hr>
+jmol,44,1,1403,13,1,434,45,1448,3.0386740331491713,Croatian <hr@li.org>
+k3b,1909,0,18632,596,0,1938,1910,20541,9.293607906138941,Croatian <kde-croatia-list@lists.sourceforge.net>
+kBuild,110,139,256,13,33,35,102,505,21.782178217821784,Croatian <lokalizacija@linux.hr>
+kactivitymanagerd,4,0,5,2,0,2,4,9,44.44444444444444,Croatian <kde-croatia-list@lists.sourceforge.net>
+kaudiocreator,94,502,540,50,131,92,115,1136,8.274647887323944,Croatian <kde-croatia-list@lists.sourceforge.net>
+kcoloredit,164,45,69,56,14,25,148,278,58.992805755395686,Croatian <kde-croatia-list@lists.sourceforge.net>
+kdbg,855,0,0,198,0,0,747,855,100.0,Croatian <>
+kde-cli-tools,1941,71,76,185,10,19,1653,2088,92.95977011494253,Croatian <kde-croatia-list@lists.sourceforge.net>
+kde-l10n,97320,67636,182780,23412,21472,29416,93159,347736,27.986748567879083,Croatian <kde-croatia-list@lists.sourceforge.net>
+kde-partitionmanager,55,180,1900,43,87,343,57,2135,2.576112412177986,Croatian <kde-croatia-list@lists.sourceforge.net>
+kdeplasma-addons,1120,486,1899,341,175,574,1103,3505,31.95435092724679,Croatian <kde-croatia-list@lists.sourceforge.net>
+kdevelop,17,220,2870,11,61,497,62,3107,0.5471515931766977,Croatian <kde-croatia-list@lists.sourceforge.net>
+kdevelop-php,2,0,440,1,0,59,2,442,0.4524886877828055,Croatian <kde-croatia-list@lists.sourceforge.net>
+kdevplatform,19,18,6711,14,11,1465,20,6748,0.2815649081209247,Croatian <kde-croatia-list@lists.sourceforge.net>
+kdiff3,2,0,3642,2,0,648,2,3644,0.054884742041712405,Croatian <kde-croatia-list@lists.sourceforge.net>
+kexec-tools,51,14,18,2,4,6,45,83,61.44578313253012,LANGUAGE <LL@li.org>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kbookmarks,0,206,12,0,47,1,0,218,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kcmutils,563,0,0,71,0,0,511,563,100.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kconfig,0,50,212,0,7,93,0,262,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kconfigwidgets,169,80,76,75,27,16,196,325,52.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kcoreaddons,0,261,30,0,80,15,0,291,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kdeclarative,74,31,4,11,2,1,77,109,67.88990825688074,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kdelibs4support,3580,713,520,1748,467,149,4051,4813,74.38188240182838,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-khtml,1594,39,88,290,11,9,1459,1721,92.6205694363742,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-ki18n,42,80,2,42,66,2,43,124,33.87096774193548,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kiconthemes,34,0,1,17,0,1,34,35,97.14285714285714,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kinit,103,31,0,10,4,0,84,134,76.86567164179104,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kio,8267,1649,1983,1014,159,147,7377,11899,69.47642659046979,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kjobwidgets,0,141,0,0,45,0,0,141,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kjsembed,248,0,0,44,0,0,240,248,100.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-knewstuff,592,57,32,127,21,7,591,681,86.9309838472834,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-knotifyconfig,86,43,0,16,1,0,77,129,66.66666666666666,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kparts,104,0,0,26,0,0,104,104,100.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kross,82,18,0,29,6,0,87,100,82.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kservice,80,68,22,12,13,3,86,170,47.05882352941176,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-ktexteditor,2532,1452,4339,571,327,310,2401,8323,30.421722936441185,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-ktextwidgets,453,3,6,119,1,2,449,462,98.05194805194806,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kunitconversion,2262,1059,1945,1010,448,786,2673,5266,42.95480440562097,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kwallet,534,316,648,53,9,46,463,1498,35.647530040053404,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kwidgetsaddons,0,1254,61,0,440,15,0,1315,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-kxmlgui,1347,203,48,199,27,4,1265,1598,84.29286608260325,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-libktorrent,0,4,470,0,2,105,0,474,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-solid,0,420,259,0,196,25,0,679,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-sonnet,0,645,18,0,68,4,0,663,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kf5-syntax-highlighting,0,278,157,0,203,82,0,435,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kgamma,130,0,0,16,0,0,121,130,100.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kgrab,1,0,369,1,0,52,1,370,0.2702702702702703,Croatian <kde-croatia-list@lists.sourceforge.net>
+khotkeys,425,11,0,124,5,0,409,436,97.47706422018348,Croatian <kde-croatia-list@lists.sourceforge.net>
+kiconedit,726,0,0,155,0,0,724,726,100.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+kinfocenter,2619,83,52,855,41,30,2567,2754,95.09803921568627,Croatian <kde-croatia-list@lists.sourceforge.net>
+kio_gopher,1,0,16,1,0,4,1,17,5.88235294117647,Croatian <kde-croatia-list@lists.sourceforge.net>
+kjots,25,139,235,14,31,61,37,399,6.265664160401002,Croatian <kde-croatia-list@lists.sourceforge.net>
+klavaro,1911,0,0,232,0,0,1844,1911,100.0,Croatian <lokalizacija@linux.hr>
+kmenuedit,254,6,17,53,2,6,246,277,91.69675090252709,Croatian <kde-croatia-list@lists.sourceforge.net>
+kmplayer,2,0,1246,1,0,369,1,1248,0.16025641025641024,Croatian <kde-croatia-list@lists.sourceforge.net>
+knemo,6,0,1180,4,0,343,6,1186,0.5059021922428331,Croatian <kde-croatia-list@lists.sourceforge.net>
+koffice-kivio,1077,761,6579,528,346,1487,1084,8417,12.795532850184152,Croatian <lokalizacija@linux.hr>
+kphotoalbum,2,0,6700,2,0,807,2,6702,0.029841838257236648,Croatian <kde-croatia-list@lists.sourceforge.net>
+kpilot,104,3152,3900,65,518,278,108,7156,1.4533258803801008,Croatian <kde-croatia-list@lists.sourceforge.net>
+kpmcore,42,67,2739,35,35,351,43,2848,1.4747191011235954,Croatian <kde-croatia-list@lists.sourceforge.net>
+krusader,1,1,7751,1,1,1696,1,7753,0.012898232942086934,Croatian <kde-croatia-list@lists.sourceforge.net>
+ksig,75,4,6,22,2,2,68,85,88.23529411764706,CROATIAN <http://www.translator-shop.org>
+ksnapshot,492,0,0,63,0,0,439,492,100.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+ksysguard,972,47,62,205,21,7,890,1081,89.91674375578168,Croatian <kde-croatia-list@lists.sourceforge.net>
+ktorrent,25,2,8067,11,1,1350,30,8094,0.30887076847047196,Croatian <kde-croatia-list@lists.sourceforge.net>
+kvirc,3098,1126,18599,762,245,2481,2878,22823,13.574026201638697,Croatian <hr@li.org>
+kwin,3079,931,2086,671,162,322,2977,6096,50.50853018372703,Croatian <kde-croatia-list@lists.sourceforge.net>
+libbonobo,543,0,0,107,0,0,557,543,100.0,Croatian <lokalizacija@linux.hr>
+libbonoboui,368,0,0,115,0,0,400,368,100.0,Croatian <lokalizacija@linux.hr>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Croatian
+libcryptui,312,186,2362,86,35,479,299,2860,10.909090909090908,Croatian <lokalizacija@linux.hr>
+libfm,1143,0,422,331,0,59,1070,1565,73.03514376996804,LANGUAGE <LL@li.org>
+libgda,78,2784,8280,37,666,1351,86,11142,0.7000538502961766,Croatian <lokalizacija@linux.hr>
+libgdl,529,0,73,80,0,13,492,602,87.87375415282392,Croatian <lokalizacija@linux.hr>
+libgnome,1231,16,510,211,2,58,1187,1757,70.06260671599317,Croatian <lokalizacija@linux.hr>
+libgnome-media-profiles,286,2,172,38,1,12,286,460,62.17391304347826,Croatian <lokalizacija@linux.hr>
+libgnomecanvas,378,0,0,95,0,0,371,378,100.0,Croatian <lokalizacija@linux.hr>
+libgnomeui,1226,0,0,320,0,0,1078,1226,100.0,Croatian <lokalizacija@linux.hr>
+libgtop2,126,0,0,40,0,0,134,126,100.0,Croatian <lokalizacija@linux.hr>
+libgweather,6103,0,91,4518,0,78,6106,6194,98.53083629318695,Croatian <lokalizacija@linux.hr>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libidn,414,0,14,58,0,2,402,428,96.72897196261682,Croatian <lokalizacija@linux.hr>
+libksysguard,2384,336,90,211,15,6,2170,2810,84.83985765124555,Croatian <kde-croatia-list@lists.sourceforge.net>
+libktorrent,0,7,507,0,3,111,0,514,0.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+libmatekbd,251,0,0,43,0,0,248,251,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+libmatemixer,91,0,151,57,0,69,91,242,37.60330578512397,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+libmateweather,10363,0,0,6748,0,0,10899,10363,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+libosinfo,0,0,2049,0,0,604,0,2049,0.0,Croatian
+libreoffice,141030,3186,408336,44140,868,32484,132824,552552,25.523389653824434,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Croatian (http://www.transifex.com/projects/p/libreport/language/hr/)
+librfm,565,530,1302,287,187,124,817,2397,23.57113057989153,Croatian <lokalizacija@linux.hr>
+libuser,904,25,508,197,5,99,959,1437,62.908837856645796,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Croatian (http://www.transifex.com/projects/p/libvirt-glib/language/hr/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+libwnck,65,10,1049,22,4,215,80,1124,5.782918149466192,Croatian <lokalizacija@linux.hr>
+libwnck3,65,10,1049,22,4,215,80,1124,5.782918149466192,Croatian <lokalizacija@linux.hr>
+libxfce4ui,871,0,0,169,0,0,854,871,100.0,Croatian (http://www.transifex.com/projects/p/libxfce4ui/language/hr/)
+libxfce4util,424,0,0,7,0,0,372,424,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Croatian (http://www.transifex.com/the_cavalry/light-locker/language/hr/)
+lightdm,79,0,0,17,0,0,79,79,100.0,Croatian <hr@li.org>
+lightdm-gtk,20,0,64,7,0,17,21,84,23.809523809523807,Croatian <hr@li.org>
+lightdm-gtk-greeter-settings,33,0,487,12,0,159,33,520,6.346153846153846,Croatian <hr@li.org>
+lightsoff,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+lxappearance,176,0,58,69,0,11,182,234,75.21367521367522,LANGUAGE <LL@li.org>
+lxappearance-obconf,196,0,0,27,0,0,177,196,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,48,47,100.0,Croatian (hr) <>
+lxinput,72,0,11,24,0,2,69,83,86.74698795180723,LANGUAGE <LL@li.org>
+lxlauncher,58,0,0,17,0,0,52,58,100.0,<asjlob AT vip.hr>
+lxmenu-data,97,0,0,37,0,0,95,97,100.0,<asjlob AT vip.hr>
+lxmusic,185,0,18,83,0,6,191,203,91.13300492610837,Croatian <ikoli@yahoo.com>
+lxpanel,1075,0,231,376,0,48,1064,1306,82.31240428790198,<asjlob AT vip.hr>
+lxrandr,149,0,18,38,0,3,149,167,89.22155688622755,<asjlob AT vip.hr>
+lxsession,313,0,442,108,0,58,314,755,41.4569536423841,<asjlob AT vip.hr>
+lxshortcut,43,0,0,19,0,0,43,43,100.0,"<asjlob AT vip,hr>"
+lxtask,125,0,5,49,0,2,128,130,96.15384615384616,<asjlob AT vip.hr>
+lxterminal,170,4,73,97,2,32,176,247,68.82591093117408,<asjlob AT vip.hr> <>
+madplay,272,459,400,79,67,147,264,1131,24.049513704686117,Croatian <marioh@ugrad.unimelb.edu.au>
+mailman,12841,1195,9685,1002,71,357,11898,23721,54.13346823489735,Croatian <nkatic@jagor.srce.hr>
+make,1196,922,173,258,153,27,1227,2291,52.204277608031425,Croatian <lokalizacija@linux.hr>
+manaplus,541,0,3843,227,0,1179,554,4384,12.340328467153284,Croatian (http://www.transifex.com/projects/p/manaplus/language/hr/)
+marco,2153,0,1943,327,0,87,2101,4096,52.5634765625,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-applets,1604,0,1017,425,0,201,1621,2621,61.19801602441816,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-backgrounds,30,0,0,21,0,0,30,30,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-calc,363,0,1049,220,0,221,362,1412,25.708215297450426,Croatian (http://www.transifex.com/projects/p/MATE/language/hr/)
+mate-control-center,2762,0,0,656,0,0,2728,2762,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-desktop,2401,0,0,332,0,0,2318,2401,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-media,225,0,0,96,0,0,234,225,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-menus,97,0,0,37,0,0,102,97,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-notification-daemon,130,0,9,34,0,3,127,139,93.5251798561151,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-panel,3536,0,851,534,0,71,3299,4387,80.60177798039663,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-polkit,313,0,0,50,0,0,313,313,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-power-manager,2724,0,0,440,0,0,2772,2724,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-screensaver,983,0,0,156,0,0,927,983,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-sensors-applet,304,0,0,105,0,0,315,304,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-session-manager,681,0,0,114,0,0,673,681,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-settings-daemon,516,0,1188,101,0,146,447,1704,30.28169014084507,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-system-monitor,528,0,779,186,0,122,529,1307,40.397857689364955,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-terminal,2364,0,2023,380,0,126,2132,4387,53.88648279006154,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-themes,55,0,0,10,0,0,46,55,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-user-guide,5,0,0,2,0,0,5,5,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mate-utils,2465,0,1216,480,0,183,2293,3681,66.9654985058408,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+mc,0,0,4153,0,0,1218,0,4153,0.0,Croatian (http://www.transifex.com/mc/mc/language/hr/)
+mcomix,545,476,1546,153,104,277,492,2567,21.231008959875343,Croatian
+menulibre,237,0,464,75,0,74,210,701,33.80884450784593,Croatian <hr@li.org>
+metacity,7585,386,111,502,10,8,7209,8082,93.85053204652314,Croatian <lokalizacija@linux.hr>
+midori,2186,0,1355,621,0,175,2098,3541,61.73397345382661,Croatian <>
+mingw-GConf2,3478,52,432,415,6,51,3446,3962,87.78394750126199,Croatian <lokalizacija@linux.hr>
+mingw-atk,370,1,4,123,1,2,355,375,98.66666666666667,Croatian <lokalizacija@linux.hr>
+mingw-binutils,1097,107,8312,262,7,1247,1060,9516,11.527952921395544,Croatian <lokalizacija@linux.hr>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Croatian <lokalizacija@linux.hr>
+mingw-gcc,555,745,90050,128,150,11700,530,91350,0.6075533661740559,Croatian <lokalizacija@linux.hr>
+mingw-gdk-pixbuf,1061,236,51,158,39,5,1063,1348,78.70919881305637,Croatian <lokalizacija@linux.hr>
+mingw-gettext,796,106,50,111,5,14,770,952,83.61344537815127,Croatian <lokalizacija@linux.hr>
+mingw-glib2,1021,591,3165,148,116,483,971,4777,21.373246807619843,Croatian <lokalizacija@linux.hr>
+mingw-gstreamer1,1736,104,196,319,16,38,1643,2036,85.26522593320236,Croatian <lokalizacija@linux.hr>
+mingw-gstreamer1-plugins-bad-free,90,23,121,13,4,17,86,234,38.46153846153847,Croatian <lokalizacija@linux.hr>
+mingw-gstreamer1-plugins-base,655,56,209,127,16,51,583,920,71.19565217391305,Croatian <lokalizacija@linux.hr>
+mingw-gstreamer1-plugins-good,507,185,77,72,24,13,472,769,65.92977893368011,Croatian <lokalizacija@linux.hr>
+mingw-gtk2,8287,2712,2705,1486,671,627,7681,13704,60.47139521307648,Croatian <lokalizacija@linux.hr>
+mingw-gtk3,6456,2693,2704,1184,674,629,5905,11853,54.467223487724624,Croatian <lokalizacija@linux.hr>
+mingw-gtkhtml3,907,181,140,395,106,44,866,1228,73.8599348534202,Croatian <lokalizacija@linux.hr>
+mingw-gtksourceview3,62,97,959,49,59,513,85,1118,5.545617173524151,Croatian <lokalizacija@linux.hr>
+mingw-gtkspell3,16,0,0,7,0,0,16,16,100.0,Croatian <lokalizacija@linux.hr>
+mingw-libidn,414,0,14,58,0,2,402,428,96.72897196261682,Croatian <lokalizacija@linux.hr>
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Croatian (http://www.transifex.com/projects/p/libvirt-glib/language/hr/)
+mingw-p11-kit,469,0,7,80,0,1,395,476,98.52941176470588,Croatian (http://www.transifex.com/freedesktop/p11-kit/language/hr/)
+mintmenu,5999,0,0,1234,0,0,5653,5999,100.0,Croatian <hr@li.org>
+moin,2957,939,1148,583,152,198,2759,5044,58.624107850911976,
+moodle,52,0,0,14,0,0,55,52,100.0,i18n@lists.horde.org
+mousepad,1082,0,6,304,0,2,960,1088,99.44852941176471,Croatian (http://www.transifex.com/projects/p/xfce-apps/language/hr/)
+mozo,42,0,0,16,0,0,39,42,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+muffin,7585,386,111,502,10,8,7209,8082,93.85053204652314,Croatian <lokalizacija@linux.hr>
+mutter,7585,386,111,502,10,8,7209,8082,93.85053204652314,Croatian <lokalizacija@linux.hr>
+nacl-arm-binutils,1097,107,8312,262,7,1247,1060,9516,11.527952921395544,Croatian <lokalizacija@linux.hr>
+nacl-arm-gcc,779,169,78228,162,39,10259,739,79176,0.9838840052541175,Croatian <lokalizacija@linux.hr>
+nacl-binutils,1097,107,8312,262,7,1247,1060,9516,11.527952921395544,Croatian <lokalizacija@linux.hr>
+nano,3000,0,0,478,0,0,2858,3000,100.0,Croatian <lokalizacija@linux.hr>
+nautilus,5893,0,0,1108,0,0,5705,5893,100.0,Croatian <hr@li.hr>
+nautilus-sendto,56,0,0,10,0,0,60,56,100.0,Croatian <hr@li.org>
+nemo-extensions,1223,0,0,315,0,0,1185,1223,100.0,Croatian <hr@li.org>
+network-manager-applet,8,305,3095,3,85,677,9,3408,0.2347417840375587,Croatian <hr@li.org>
+newt,4,0,0,4,0,0,5,4,100.0,Croatian <lokalizacija@linux.hr>
+nmap,1053,0,2465,269,0,212,1006,3518,29.93177942012507,Croatian <lokalizacija@linux.hr>
+obconf,686,0,52,144,0,12,611,738,92.95392953929539,Croatian <asjlob AT vip.hr>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+onboard,552,0,1766,148,0,362,542,2318,23.813632441760138,Croatian <hr@li.org>
+openbox,486,0,20,92,0,2,459,506,96.04743083003953,<asjlob AT vip.hr>
+openerp,29874,0,36413,7712,0,3413,26990,66287,45.06766032555403,
+openerp-client,2496,0,5233,572,0,2,2362,7729,32.29395782119291,Croatian <hr@li.org>
+openerp7,31201,0,24364,6944,0,1377,27170,55565,56.15225411680015,Croatian <hr@li.org>
+orage,2931,0,0,1030,0,0,2814,2931,100.0,Croatian (http://www.transifex.com/projects/p/xfce-apps/language/hr/)
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Croatian (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/hr/)
+p11-kit,469,0,7,80,0,1,395,476,98.52941176470588,Croatian (http://www.transifex.com/freedesktop/p11-kit/language/hr/)
+pacman,3765,0,1633,699,0,197,3750,5398,69.74805483512412,Croatian (http://www.transifex.com/toofishes/archlinux-pacman/language/hr/)
+pan,232,1683,1253,82,451,219,248,3168,7.3232323232323235,Croatian <lokalizacija@linux.hr>
+parole,929,0,0,273,0,0,937,929,100.0,Croatian (http://www.transifex.com/xfce/xfce-apps/language/hr/)
+passwd,268,0,47,48,0,7,296,315,85.07936507936508,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+pcmanfm,815,0,395,240,0,56,803,1210,67.35537190082644,LANGUAGE <LL@li.org>
+pdfmod,782,0,0,110,0,0,755,782,100.0,
+pgadmin3,2092,9743,5063,746,2635,1021,1957,16898,12.38016333293881,Boris Pran & Darko Prenosil <finteh@finteh.hr>
+phatch,0,0,2553,0,0,824,0,2553,0.0,Croatian <hr@li.org>
+php-horde-Horde-Alarm,13,0,0,5,0,0,12,13,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,60,0,0,13,0,0,57,60,100.0,i18n@lists.horde.org
+php-horde-Horde-Browser,66,0,0,6,0,0,59,66,100.0,i18n@lists.horde.org
+php-horde-Horde-Cli,11,0,0,3,0,0,9,11,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,25,0,0,6,0,0,27,25,100.0,i18n@lists.horde.org
+php-horde-Horde-Core,845,0,0,227,0,0,792,845,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,399,0,0,98,0,0,390,399,100.0,i18n@lists.horde.org
+php-horde-Horde-Data,7,0,0,2,0,0,6,7,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,42,0,0,12,0,0,54,42,100.0,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,i18n@lists.horde.org
+php-horde-Horde-Form,557,0,0,147,0,0,511,557,100.0,i18n@lists.horde.org
+php-horde-Horde-Icalendar,3,0,0,1,0,0,2,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,582,0,0,285,0,0,628,582,100.0,i18n@lists.horde.org
+php-horde-Horde-Imsp,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,56,0,0,10,0,0,41,56,100.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,456,0,0,47,0,0,454,456,100.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,48,0,0,12,0,0,51,48,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,52,47,100.0,i18n@lists.horde.org
+php-horde-Horde-Nls,668,0,0,446,0,0,610,668,100.0,i18n@lists.horde.org
+php-horde-Horde-Perms,17,0,0,5,0,0,15,17,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,23,0,0,8,0,0,20,23,100.0,i18n@lists.horde.org
+php-horde-Horde-Rpc,48,0,0,7,0,0,54,48,100.0,i18n@lists.horde.org
+php-horde-Horde-Share,8,0,0,1,0,0,6,8,100.0,i18n@lists.horde.org
+php-horde-Horde-SyncMl,3,0,0,1,0,0,4,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,39,0,0,3,0,0,36,39,100.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,9,10,100.0,i18n@lists.horde.org
+php-horde-horde,3572,0,0,960,0,0,3392,3572,100.0,i18n@lists.horde.org
+php-horde-imp,6758,0,0,1361,0,0,6343,6758,100.0,i18n@lists.horde.org
+php-horde-ingo,909,0,0,239,0,0,870,909,100.0,i18n@lists.horde.org
+php-horde-kronolith,3633,0,0,784,0,0,3347,3633,100.0,i18n@lists.horde.org
+php-horde-mnemo,537,0,0,153,0,0,491,537,100.0,i18n@lists.horde.org
+php-horde-nag,1421,0,0,338,0,0,1320,1421,100.0,i18n@lists.horde.org
+php-horde-passwd,326,0,0,65,0,0,322,326,100.0,i18n@lists.horde.org
+php-horde-turba,1750,0,0,415,0,0,1567,1750,100.0,i18n@lists.horde.org
+php-phpmyadmin-sql-parser,0,84,138,0,17,26,0,222,0.0,Croatian <https://hosted.weblate.org/projects/phpmyadmin/master/hr/>
+picard,610,0,658,430,0,342,631,1268,48.10725552050473,Croatian (http://www.transifex.com/projects/p/musicbrainz/language/hr/)
+pidgin,896,0,17662,281,0,3667,834,18558,4.828106476991055,Croatian (http://www.transifex.com/projects/p/pidgin/language/hr/)
+pinta,854,0,764,346,0,182,870,1618,52.78121137206428,Croatian <hr@li.org>
+pix,3723,0,0,1196,0,0,3412,3723,100.0,Croatian <lokalizacija@linux.hr>
+plank,48,0,141,28,0,22,65,189,25.396825396825395,Croatian <hr@li.org>
+planner,1070,0,63,348,0,22,1017,1133,94.43954104148278,Croatian <lokalizacija@linux.hr>
+plasma-desktop,8578,1240,606,1467,202,186,7991,10424,82.29086722947045,Croatian <kde-croatia-list@lists.sourceforge.net>
+plasma-nm,1,17,7,1,10,3,1,25,4.0,Croatian <kde-croatia-list@lists.sourceforge.net>
+plasma-oxygen,399,161,53,160,41,17,424,613,65.08972267536704,Croatian <kde-croatia-list@lists.sourceforge.net>
+plasma-sdk,225,96,104,64,16,14,236,425,52.94117647058824,Croatian <kde-croatia-list@lists.sourceforge.net>
+plasma-systemsettings,184,2,0,42,1,0,181,186,98.9247311827957,Croatian <kde-croatia-list@lists.sourceforge.net>
+plasma-workspace,6829,1554,1158,1502,201,140,6335,9541,71.5753065716382,Croatian <kde-croatia-list@lists.sourceforge.net>
+playonlinux,1537,0,1191,312,0,137,1301,2728,56.341642228739005,Croatian <hr@li.org>
+pluma,3335,0,1723,937,0,178,3211,5058,65.93515223408461,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+pmount,723,0,0,63,0,0,673,723,100.0,Croatian <hr@li.org>
+po4a,308,140,1493,29,18,160,322,1941,15.868109222050489,Croatian
+poedit,1844,0,685,400,0,139,1774,2529,72.91419533412416,Croatian
+pogo,40,0,536,19,0,82,39,576,6.944444444444445,Croatian <hr@li.org>
+policycoreutils,1107,90,14159,194,28,1934,1131,15356,7.208908569940088,Croatian (Croatia) (http://www.transifex.com/projects/p/fedora/language/hr_HR/)
+polkit-kde,81,6,7,21,3,4,77,94,86.17021276595744,Croatian <kde-croatia-list@lists.sourceforge.net>
+powerdevil,159,136,246,37,26,32,188,541,29.390018484288355,Croatian <kde-croatia-list@lists.sourceforge.net>
+psmisc,527,0,402,70,0,14,535,929,56.727664155005385,Croatian <lokalizacija@linux.hr>
+publican,1054,66,4323,74,2,540,1011,5443,19.3643211464266,Croatian <kde-i18n-doc@kde.org>
+publican-fedora,7,0,100,2,0,6,10,107,6.5420560747663545,Croatian <kde-i18n-doc@kde.org>
+pybliographer,568,0,45,184,0,10,576,613,92.65905383360521,Croatian <lokalizacija@linux.hr>
+pychess,3818,0,637,810,0,69,3649,4455,85.70145903479236,Croatian (http://www.transifex.com/gbtami/pychess/language/hr/)
+pykickstart,197,0,1158,18,0,131,181,1355,14.538745387453874,Croatian (http://www.transifex.com/projects/p/pykickstart/language/hr/)
+pyroom,57,0,354,25,0,49,52,411,13.86861313868613,Croatian <hr@li.org>
+python-blivet,45,0,651,6,0,125,30,696,6.4655172413793105,Croatian
+python-caja,6,0,0,2,0,0,5,6,100.0,Croatian (http://www.transifex.com/mate/MATE/language/hr/)
+python-django,2630,0,762,656,0,109,2584,3392,77.53537735849056,Croatian (http://www.transifex.com/django/django/language/hr/)
+python-django-countries,331,0,108,226,0,38,320,439,75.39863325740319,Croatian (http://www.transifex.com/smileychris/django-countries/language/hr/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Croatian (http://www.transifex.com/projects/p/django-formtools/language/hr/)
+python-django-registration,84,0,0,17,0,0,83,84,100.0,
+python-fedora,0,0,214,0,0,29,0,214,0.0,Croatian
+python-lettuce,7612,2,0,2449,1,0,7200,7614,99.97373259784608,Django i18n team <django-i18n@googlegroups.com>
+python-meh,0,0,109,0,0,23,0,109,0.0,Croatian
+python-nikola,70,0,19,31,0,7,70,89,78.65168539325843,Croatian (http://www.transifex.com/ralsina/nikola/language/hr/)
+python-sphinx,518,0,0,190,0,0,515,518,100.0,Croatian (http://www.transifex.com/sphinx-doc/sphinx-1/language/hr/)
+quadrapassel,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+rabbitvcs,1284,0,240,381,0,91,1162,1524,84.25196850393701,Croatian <hr@li.org>
+radiotray,117,0,13,43,0,3,119,130,90.0,Croatian (http://www.transifex.com/projects/p/radiotray/language/hr/)
+rapid-photo-downloader,138,0,1693,91,0,318,147,1831,7.536865101037685,Croatian <hr@li.org>
+realmd,0,0,778,0,0,125,0,778,0.0,Croatian (http://www.transifex.com/projects/p/freedesktop/language/hr/)
+redhat-menus,261,0,0,86,0,0,265,261,100.0,Renato Pavicic <www.translator-shop.org>
+rednotebook,1125,0,22,236,0,4,1065,1147,98.0819529206626,Croatian <hr@li.org>
+redshift,378,0,648,68,0,83,380,1026,36.84210526315789,Croatian <hr@li.org>
+remmina,99,0,1051,33,0,309,108,1150,8.608695652173912,Croatian <hr@li.org>
+rhn-client-tools,1584,488,1985,229,20,171,1527,4057,39.04362829677102,Croatian (http://www.transifex.com/projects/p/spacewalk/language/hr/)
+rhnsd,20,0,17,5,0,4,21,37,54.054054054054056,LANGUAGE <LL@li.org>
+rhythmbox,3793,0,0,1002,0,0,3770,3793,100.0,Croatian <lokalizacija@linux.hr>
+ristretto,753,0,0,194,0,0,751,753,100.0,Croatian (http://www.transifex.com/xfce/xfce-apps/language/hr/)
+rodent,705,883,8214,344,260,268,708,9802,7.192409712303611,
+rsibreak,3,2,1093,2,1,150,3,1098,0.273224043715847,Croatian <kde-croatia-list@lists.sourceforge.net>
+rt,8218,0,2029,1871,0,432,8082,10247,80.19908265833902,Croatian <hr@li.org>
+sakura,169,17,22,55,7,8,170,208,81.25,brentaal <Unknown>
+scratch,1002,8,459,399,4,222,979,1469,68.20966643975494,Domagoj Premec <domagoj.premec@gmail.com>
+seahorse,312,186,2362,86,35,479,299,2860,10.909090909090908,Croatian <lokalizacija@linux.hr>
+seahorse-nautilus,30,144,247,9,46,55,29,421,7.1258907363420425,Croatian <lokalizacija@linux.hr>
+sed,520,13,15,84,2,5,518,548,94.8905109489051,Croatian <lokalizacija@linux.hr>
+setroubleshoot,57,0,562,23,0,140,62,619,9.208400646203554,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+setuptool,47,8,0,13,1,0,45,55,85.45454545454545,Croatian <www.translator-shop.org>
+shared-mime-info,1180,0,587,483,0,207,1261,1767,66.77985285795133,Croatian (http://www.transifex.com/freedesktop/shared-mime-info/language/hr/)
+shotwell,4466,0,0,942,0,0,4693,4466,100.0,Croatian (http://www.transifex.com/projects/p/shotwell/language/hr/)
+shutter,1338,0,1755,335,0,271,1224,3093,43.25897187196896,Croatian <hr@li.org>
+simple-scan,739,0,0,162,0,0,690,739,100.0,Croatian <hr@li.org>
+skanlite,7,0,164,3,0,54,6,171,4.093567251461988,Croatian <kde-croatia-list@lists.sourceforge.net>
+smuxi,1927,0,3,429,0,1,1870,1930,99.84455958549223,Croatian (http://www.transifex.net/projects/p/smuxi/team/hr/)
+snapper,19,202,522,7,54,119,20,743,2.557200538358008,Croatian <kde-i18n-doc@kde.org>
+solfege,1522,79,2837,309,5,747,1406,4438,34.29472735466426,Croatian <lokalizacija@linux.hr>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,752,64,180,146,5,44,768,996,75.50200803212851,Croatian <lokalizacija@linux.hr>
+soundtracker,768,81,799,270,36,163,750,1648,46.601941747572816,Croatian <lokalizacija@linux.hr>
+spacefm,3,0,8719,1,0,1567,3,8722,0.034395780784223805,Croatian (http://www.transifex.com/projects/p/spacefm/language/hr/)
+squirrelmail,2804,1286,2788,825,232,294,2720,6878,40.76766501890084,Croatian <squirrelmail-i18n@lists.sourceforge.net>
+stardict,1118,728,1189,161,146,286,994,3035,36.836902800658976,
+steadyflow,248,0,222,58,0,35,230,470,52.76595744680851,Croatian <hr@li.org>
+stellarium,1978,0,21691,904,0,4915,1888,23669,8.356922556931007,Croatian <hr@li.org>
+storaged,1213,174,511,343,22,108,1189,1898,63.909378292939934,Croatian
+subdownloader,968,0,0,272,0,0,912,968,100.0,LANGUAGE <LL@li.org>
+sudo,3843,0,0,567,0,0,3741,3843,100.0,Croatian <lokalizacija@linux.hr>
+sugar,1,0,1732,1,0,418,1,1733,0.05770340450086555,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,73,69,100.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,228,227,100.0,Croatian <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,145,121,100.0,Croatian <LL@li.org>
+sugar-toolkit-gtk3,67,4,5,34,1,5,70,76,88.1578947368421,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+supertux,236,0,2744,100,0,818,219,2980,7.919463087248323,Croatian (http://www.transifex.com/arctic-games/supertux/language/hr/)
+swell-foop,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+switchdesk,137,0,0,19,0,0,128,137,100.0,Renato Pavicic <renato@translator-shop.org www.translator-shop.org>
+sylpheed,7068,29,21,1751,6,7,6478,7118,99.29755549311604,Hasan Osmanagić <hasan.osmanagic@zg.t-com.hr>
+synapse,698,0,126,195,0,32,682,824,84.70873786407766,Croatian <hr@li.org>
+sysstat,584,0,0,60,0,0,584,584,100.0,Croatian <lokalizacija@linux.hr>
+system-config-bind,9286,84,49,1050,7,7,8228,9419,98.58796050536151,Renato Pavicic <www.translator-shop.org>
+system-config-date,790,1,1059,576,1,247,790,1850,42.7027027027027,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,444,605,1765,114,76,141,427,2814,15.778251599147122,Renato Pavičić <www.translator-shop.org>
+system-config-httpd,858,0,0,223,0,0,817,858,100.0,www.translator-shop.org <renato@translator-shop.org>
+system-config-kdump,185,0,692,10,0,146,153,877,21.094640820980615,LANGUAGE <LL@li.org>
+system-config-keyboard,169,18,0,71,10,0,166,187,90.37433155080214,Croatian <www.translator-shop.org>
+system-config-kickstart,775,0,369,193,0,60,713,1144,67.74475524475524,Croatian (http://www.transifex.com/projects/p/system-config-kickstart/language/hr/)
+system-config-network,2668,140,224,652,39,30,2507,3032,87.99472295514512,Croatian <renato@translator-shop.org>
+system-config-nfs,306,0,26,68,0,4,305,332,92.16867469879519,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,783,4,2371,213,3,539,738,3158,24.79417352754908,Croatian (http://www.transifex.com/projects/p/system-config-printer/language/hr/)
+system-config-rootpassword,15,26,75,3,5,11,10,116,12.931034482758621,Croatian <www.translator-shop.org>
+system-config-samba,351,0,220,110,0,24,334,571,61.471103327495626,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,24,0,510,10,0,62,26,534,4.49438202247191,Croatian (http://www.transifex.com/projects/p/fedora/language/hr/)
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,816,0,705,128,0,52,717,1521,53.64891518737672,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,135,134,100.0,Renato Pavicic <www.translator-shop.org>
+tali,3868,570,3139,928,232,627,3464,7577,51.049227926620034,Croatian <lokalizacija@linux.hr>
+tar,2959,366,218,504,40,33,2989,3543,83.51679367767429,Croatian <lokalizacija@linux.hr>
+terminator,289,0,1121,104,0,313,262,1410,20.49645390070922,Croatian <hr@li.org>
+texi2html,0,102,1541,0,18,163,0,1643,0.0,Croatian <lokalizacija@linux.hr>
+texinfo,3956,1287,216,541,79,34,3766,5459,72.46748488734201,Croatian <lokalizacija@linux.hr>
+thunar-archive-plugin,86,0,0,13,0,0,86,86,100.0,Croatian <ikoli@yahoo.com>
+thunar-media-tags-plugin,136,0,20,54,0,4,127,156,87.17948717948718,Croatian <ikoli@yahoo.com>
+thunar-vcs-plugin,555,0,40,301,0,19,585,595,93.27731092436974,Croatian (http://www.transifex.com/xfce/thunar-plugins/language/hr/)
+thunar-vfs,265,0,122,59,0,27,240,387,68.47545219638242,Croatian <>
+thunar-volman,487,0,0,113,0,0,433,487,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+tint2,3114,821,347,312,95,42,2466,4282,72.72302662307332,
+tortoisehg,468,0,11755,128,0,2228,452,12223,3.828847255174671,Croatian <hr@li.org>
+totem,1309,0,1075,262,0,229,1204,2384,54.90771812080537,Croatian <lokalizacija@linux.hr>
+totem-pl-parser,28,0,0,7,0,0,24,28,100.0,Croatian <lokalizacija@linux.hr>
+trader,1842,0,1,208,0,1,1619,1843,99.94574064026045,Croatian <lokalizacija@linux.hr>
+transmission,1809,0,0,494,0,0,1937,1809,100.0,Croatian <hr@li.org>
+tumbler,278,0,0,44,0,0,251,278,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+tuxpaint,1579,0,12,278,0,13,1365,1591,99.24575738529226,none
+tuxpaint-stamps,0,0,2711,0,0,650,0,2711,0.0,
+udisks2,1205,0,320,342,0,71,1182,1525,79.01639344262294,Croatian (http://www.transifex.com/projects/p/udisks/language/hr/)
+uget,647,0,438,265,0,97,648,1085,59.63133640552996,Croatian (http://www.transifex.com/uget/uget/language/hr/)
+unetbootin,3159,0,0,178,0,0,3119,3159,100.0,Croatian <hr@li.org>
+usermode,542,0,31,91,0,5,525,573,94.58987783595113,LANGUAGE <LL@li.org>
+util-linux,1311,3119,17389,281,615,2910,1415,21819,6.008524680324488,Croatian <lokalizacija@linux.hr>
+vdr,797,0,500,326,0,187,746,1297,61.44949884348496,Croatian <vdr@linuxtv.org>
+vdr-epgsearch,3,2,2414,3,2,383,3,2419,0.12401818933443572,Croatian <vdr@linuxtv.org>
+vdr-live,1,0,906,1,0,307,1,907,0.11025358324145534,see developers in README
+vdr-skinenigmang,0,0,334,0,0,134,0,334,0.0,<vdr@linuxtv.org>
+vino,626,30,375,75,4,34,588,1031,60.71774975751697,Croatian <hr@li.org>
+virt-manager,183,24,7971,82,9,1598,171,8178,2.2377109317681585,Croatian (http://www.transifex.com/projects/p/virt-manager/language/hr/)
+virt-viewer,0,0,751,0,0,165,0,751,0.0,Croatian
+vorbis-tools,101,75,3933,34,28,439,97,4109,2.4580189827208567,Croatian <lokalizacija@linux.hr>
+vte,108,0,0,19,0,0,117,108,100.0,Croatian <lokalizacija@linux.hr>
+vte291,108,0,0,19,0,0,117,108,100.0,Croatian <lokalizacija@linux.hr>
+vte3,108,0,0,19,0,0,117,108,100.0,Croatian <lokalizacija@linux.hr>
+warzone2100,5412,544,7288,1522,150,1128,5191,13244,40.863787375415285,
+wesnoth,3999,1761,250256,936,164,15255,3412,256016,1.5620117492656709,none
+wget,1494,1426,670,288,200,103,1499,3590,41.61559888579387,Croatian <lokalizacija@linux.hr>
+wicd,1138,0,0,254,0,0,1070,1138,100.0,hr <LL@li.org>
+widelands,5495,0,12088,521,0,1588,4948,17583,31.25177728487744,Croatian <hr@li.org>
+wine,9375,344,5182,2712,90,522,8965,14901,62.91524058788001,Croatian
+wxPython,2071,37,349,631,14,92,2010,2457,84.28978428978428,Croatian <hr@li.org>
+xcdroast,8044,0,0,848,0,0,6941,8044,100.0,Croatian <lokalizacija@linux.hr>
+xdg-user-dirs,28,0,0,28,0,0,30,28,100.0,Croatian <lokalizacija@linux.hr>
+xed,4463,0,0,959,0,0,4272,4463,100.0,Croatian (http://www.transifex.com/projects/p/MATE/language/hr/)
+xfbib,220,0,122,53,0,22,195,342,64.32748538011695,Croatian <ikoli@yahoo.com>
+xfburn,1374,0,1,302,0,1,1270,1375,99.92727272727274,Croatian (http://www.transifex.com/projects/p/xfce-apps/language/hr/)
+xfce4-appfinder,322,0,0,70,0,0,286,322,100.0,Croatian (http://www.transifex.com/projects/p/xfce4-appfinder/language/hr/)
+xfce4-battery-plugin,147,0,0,42,0,0,151,147,100.0,Croatian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hr/)
+xfce4-clipman-plugin,478,0,0,72,0,0,424,478,100.0,Croatian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hr/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,142,140,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-cpugraph-plugin,43,0,31,22,0,14,48,74,58.108108108108105,Croatian <ikoli@yahoo.com>
+xfce4-datetime-plugin,52,0,0,19,0,0,48,52,100.0,Croatian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hr/)
+xfce4-dict,527,0,0,119,0,0,489,527,100.0,Croatian (http://www.transifex.com/xfce/xfce-apps/language/hr/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,176,183,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-embed-plugin,219,0,0,33,0,0,182,219,100.0,Croatian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/hr/)
+xfce4-eyes-plugin,15,0,0,4,0,0,13,15,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,73,71,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-genmon-plugin,39,0,46,15,0,4,37,85,45.88235294117647,Croatian <ikoli@yahoo.com>
+xfce4-hardware-monitor-plugin,401,0,0,140,0,0,364,401,100.0,Croatian <lokalizacija@linux.hr>
+xfce4-mailwatch-plugin,685,0,0,111,0,0,655,685,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-mixer,31,0,150,11,0,25,34,181,17.12707182320442,Croatian <ikoli@yahoo.com>
+xfce4-mpc-plugin,76,0,0,24,0,0,79,76,100.0,Croatian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hr/)
+xfce4-netload-plugin,92,0,0,35,0,0,89,92,100.0,Croatian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/hr/)
+xfce4-notes-plugin,163,0,0,57,0,0,149,163,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-notifyd,107,0,0,32,0,0,103,107,100.0,Croatian (http://www.transifex.com/xfce/xfce-apps/language/hr/)
+xfce4-panel,1705,0,0,394,0,0,1552,1705,100.0,Croatian (http://www.transifex.com/projects/p/xfce4-panel/language/hr/)
+xfce4-places-plugin,160,0,0,45,0,0,145,160,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-power-manager,1011,0,0,201,0,0,954,1011,100.0,Croatian (http://www.transifex.com/xfce/xfce4-power-manager/language/hr/)
+xfce4-pulseaudio-plugin,108,0,0,23,0,0,108,108,100.0,Croatian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hr/)
+xfce4-screenshooter,550,0,0,81,0,0,447,550,100.0,Croatian (http://www.transifex.com/projects/p/xfce-apps/language/hr/)
+xfce4-session,1066,0,0,208,0,0,912,1066,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-settings,1617,0,0,354,0,0,1528,1617,100.0,Croatian (http://www.transifex.com/xfce/xfce4-settings/language/hr/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,22,22,100.0,Croatian <ikoli@yahoo.com>
+xfce4-systemload-plugin,73,0,0,22,0,0,88,73,100.0,Croatian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hr/)
+xfce4-taskmanager,217,0,0,74,0,0,199,217,100.0,Croatian (http://www.transifex.com/projects/p/xfce-apps/language/hr/)
+xfce4-terminal,1276,0,0,334,0,0,1204,1276,100.0,Croatian (http://www.transifex.com/xfce/xfce-apps/language/hr/)
+xfce4-timer-plugin,131,3,0,41,1,0,131,134,97.76119402985076,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-verve-plugin,47,0,0,10,0,0,47,47,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,65,67,100.0,Croatian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/hr/)
+xfce4-weather-plugin,3668,0,0,330,0,0,3223,3668,100.0,Croatian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hr/)
+xfce4-whiskermenu-plugin,241,0,0,88,0,0,241,241,100.0,Croatian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/hr/)
+xfce4-xkb-plugin,43,0,0,17,0,0,45,43,100.0,Croatian (http://www.transifex.com/projects/p/xfce/language/hr/)
+xfconf,452,0,0,67,0,0,406,452,100.0,Croatian (http://www.transifex.com/projects/p/xfconf/language/hr/)
+xfdesktop,979,0,0,222,0,0,942,979,100.0,Croatian (http://www.transifex.com/projects/p/xfdesktop/language/hr/)
+xfmpc,109,0,58,53,0,17,119,167,65.26946107784431,Croatian <>
+xfwm4,673,0,0,173,0,0,650,673,100.0,Croatian (http://www.transifex.com/projects/p/xfwm4/language/hr/)
+xkeyboard-config,642,0,2478,332,0,616,651,3120,20.576923076923077,Croatian <lokalizacija@linux.hr>
+xmms,2318,595,530,831,119,95,2381,3443,67.32500726110949,Croatian <lokalizacija@linux.hr>
+xpad,191,0,215,50,0,75,210,406,47.04433497536946,Croatian <hr@li.org>
+xplayer,1986,0,0,500,0,0,1850,1986,100.0,Croatian <hr@li.org>
+xplayer-plparser,29,0,0,8,0,0,23,29,100.0,Croatian <hr@li.org>
+xreader,1637,0,0,380,0,0,1552,1637,100.0,Croatian <hr@li.org>
+xviewer,1677,0,0,324,0,0,1492,1677,100.0,Croatian <lokalizacija@linux.hr>
+xviewer-plugins,413,0,0,100,0,0,384,413,100.0,Croatian <hr@li.org>
+yakuake,770,121,682,160,16,45,717,1573,48.95104895104895,Croatian <kde-croatia-list@lists.sourceforge.net>
+yelp,277,65,693,87,38,224,308,1035,26.763285024154587,Croatian <lokalizacija@linux.hr>
+yum-rhn-plugin,35,21,91,5,2,10,37,147,23.809523809523807,LANGUAGE <LL@li.org>
+zathura,0,0,590,0,0,140,0,590,0.0,Croatian (http://www.transifex.com/projects/p/zathura/language/hr/)
+zenity,428,0,154,117,0,18,409,582,73.53951890034365,Croatian <lokalizacija@linux.hr>

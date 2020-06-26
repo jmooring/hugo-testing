@@ -1,0 +1,66 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+asunder,6,0,474,5,0,82,6,480,1.25,http://littlesvr.ca/ostd/
+atk,348,9,18,111,8,7,291,375,92.80000000000001,Turkmen <kakilikgroup@yahoo.com>
+audience,0,0,106,0,0,48,0,106,0.0,
+caja,2446,0,6867,542,0,968,2014,9313,26.264361645012347,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Turkmen <kakilikgroup@yahoo.com>
+cinnamon-translations,1,0,320,1,0,67,1,321,0.3115264797507788,Turkmen <kakilikgroup@yahoo.com>
+dasher,141,22,260,93,12,62,139,423,33.33333333333333,Turkmen <kakilikgroup@yahoo.com>
+engrampa,568,0,1372,141,0,213,483,1940,29.27835051546392,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+eog,143,79,335,60,24,66,139,557,25.673249551166965,Turkmne <kakilikgroup@yahoo.com>
+eom,58,0,1659,31,0,287,62,1717,3.37798485730926,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+epiphany,1702,0,1080,573,0,207,1598,2782,61.179007907979866,Turkmen <kakilikgroup@yahoo.com>
+file-roller,702,77,192,194,13,37,608,971,72.29660144181257,Turkmen <kakilikgroup@yahoo.com>
+gdk-pixbuf2,92,119,1137,18,26,158,81,1348,6.824925816023739,Turkmen <kakilikgroup@yahoo.com>
+gedit,2502,906,798,526,179,315,2118,4206,59.486447931526385,Turkmen <kakilikgroup@yahoo.com>
+gedit-plugins,20,318,867,9,132,328,17,1205,1.6597510373443984,Turkmen <kakilikgroup@yahoo.com>
+gnome-calculator,294,175,446,164,79,135,281,915,32.131147540983605,Tuekmen <kakilikgroup@yahoo.com>
+gnome-desktop,291,4,25,69,1,3,256,320,90.9375,Turkmen <kakilikgroup@yahoo.com>
+gnome-desktop3,291,4,25,69,1,3,256,320,90.9375,Turkmen <kakilikgroup@yahoo.com>
+gnome-icon-theme,36,2,14,33,1,12,37,52,69.23076923076923,Turkmen <kakilikgroup@yahoo.com>
+gnome-mime-data,625,0,262,262,0,100,592,887,70.46223224351748,Turkmen <kakilikgroup@yahoo.com>
+gnome-session,44,0,472,26,0,75,44,516,8.527131782945736,Turkmen <kakilikgroup@yahoo.com>
+gtk2,215,1145,12344,82,468,2234,216,13704,1.5688849970811443,Turkmen <kakilikgroup@yahoo.com>
+gtk3,79,1074,10700,40,456,1991,80,11853,0.6664979330127394,Turkmen <kakilikgroup@yahoo.com>
+gtranslator,1291,0,131,345,0,24,1205,1422,90.78762306610409,Turkmen <kakilikgroup@yahoo.com>
+iso-codes,690,118,280,319,34,96,538,1088,63.41911764705882,Turkmen <kakilikgroup@yahoo.com>
+isomaster,19,1,654,16,1,90,22,674,2.8189910979228485,http://littlesvr.ca/ostd/
+libgnomeui,443,49,927,179,17,149,397,1419,31.219168428470756,Turkmen <kakilikgroup@yahoo.com>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+librfm,155,579,1663,107,239,252,170,2397,6.4664163537755535,Turkmen <kakilikgroup@yahoo.com>
+marco,42,0,4047,31,0,383,41,4089,1.0271460014673515,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+mate-calc,19,0,1353,14,0,407,18,1372,1.3848396501457727,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+mate-desktop,52,0,2294,12,0,318,51,2346,2.2165387894288147,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+mate-media,4,0,222,3,0,93,4,226,1.7699115044247788,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+mate-menu,0,0,300,0,0,110,0,300,0.0,Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/)
+mate-session-manager,6,0,675,4,0,110,7,681,0.881057268722467,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+metacity,49,0,6870,35,0,429,50,6919,0.7081948258418846,Turkmen <kakilikgroup@yahoo.com>
+mingw-atk,348,9,18,111,8,7,291,375,92.80000000000001,Turkmen <kakilikgroup@yahoo.com>
+mingw-gdk-pixbuf,92,119,1137,18,26,158,81,1348,6.824925816023739,Turkmen <kakilikgroup@yahoo.com>
+mingw-gtk2,215,1145,12344,82,468,2234,216,13704,1.5688849970811443,Turkmen <kakilikgroup@yahoo.com>
+mingw-gtk3,79,1074,10700,40,456,1991,80,11853,0.6664979330127394,Turkmen <kakilikgroup@yahoo.com>
+muffin,49,0,6870,35,0,429,50,6919,0.7081948258418846,Turkmen <kakilikgroup@yahoo.com>
+mutter,49,0,6870,35,0,429,50,6919,0.7081948258418846,Turkmen <kakilikgroup@yahoo.com>
+nautilus,5001,321,1654,994,81,139,4101,6976,71.68864678899082,Turkmen <kakilikgroup@yahoo.com>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser,0,34,193,0,6,38,0,227,0.0,Turkmen <http://hosted.weblate.org/projects/phpmyadmin/master/tk/>
+pluma,1302,0,3736,262,0,842,1094,5038,25.843588725684796,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+rodent,100,633,8901,72,263,477,103,9634,1.0379904504878554,Turkmen <kakilikgroup@yahoo.com>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Turkmen <tk@li.org>
+xed,957,0,3551,197,0,773,695,4508,21.228926353149955,Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/)
+xviewer,63,0,1614,37,0,287,67,1677,3.7567084078711988,Turkmne <kakilikgroup@yahoo.com>

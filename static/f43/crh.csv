@@ -1,0 +1,141 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,40,42,100.0,Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+atril,197,0,4167,94,0,640,195,4364,4.514207149404216,Crimean Turkish (https://www.transifex.com/mate/teams/13566/crh/)
+baobab,184,0,0,57,0,0,157,184,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+budgie-screensaver,286,0,0,56,0,0,236,286,100.0,QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net>
+budgie-session,563,0,0,110,0,0,503,563,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+caja,6948,0,3208,1244,0,352,5569,10156,68.41276092949981,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+caja-actions,121,0,18691,69,0,1447,124,18812,0.643206463959175,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+caja-extensions,36,0,809,30,0,151,37,845,4.260355029585798,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+calibre,6488,0,164479,5896,0,13435,6601,170967,3.7948843928945353,Crimean Turkish (http://www.transifex.com/calibre/calibre/language/crh/)
+cinnamon-desktop,223,5,6,26,3,3,202,234,95.2991452991453,QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net>
+cinnamon-translations,2031,0,8906,547,0,2177,1802,10937,18.56999177105239,Crimean Turkish; Crimean Tatar <crh@li.org>
+engrampa,163,0,7736,77,0,806,168,7899,2.0635523483985314,Crimean Turkish (https://www.transifex.com/mate/teams/13566/crh/)
+eom,86,0,1693,68,0,273,95,1779,4.834176503653738,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+gdk-pixbuf2,1354,0,0,202,0,0,1118,1354,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gdk-pixbuf2-modules-extra,1354,0,0,202,0,0,1118,1354,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gdm,514,64,72,73,5,9,437,650,79.07692307692308,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gedit,4362,0,0,754,0,0,3447,4362,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gedit-plugins,831,149,225,371,47,51,859,1205,68.96265560165975,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+gnome-applets,3352,0,0,788,0,0,3019,3352,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+gnome-bluetooth,303,0,0,95,0,0,272,303,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-bluetooth3.34,303,0,0,95,0,0,272,303,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-control-center,3387,0,1360,1198,0,265,3138,4747,71.3503265220139,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-desktop3,233,0,0,36,0,0,216,233,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-dictionary,801,0,0,179,0,0,632,801,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+gnome-icon-theme,20,0,0,16,0,0,18,20,100.0,Qırımtatarca (Qırım Türkçesi)
+gnome-menus,70,0,0,27,0,0,64,70,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-panel,3377,81,62,485,7,16,2711,3520,95.9375,QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-screenshot,343,0,0,71,0,0,307,343,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-session,563,0,0,110,0,0,503,563,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-settings-daemon,3694,0,0,579,0,0,3076,3694,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gnome-shell-frippery,5,0,0,2,0,0,6,5,100.0,
+gnome-system-log,420,0,0,66,0,0,347,420,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gtk2,12813,466,425,2622,97,65,10584,13704,93.49824868651488,Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+gtk3,11716,174,604,2481,30,132,9631,12494,93.77301104530174,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+gtk4,2121,72,459,789,21,114,1901,2652,79.97737556561087,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+iso-codes,9584,2802,10403,7350,1404,6408,9622,22789,42.05537759445346,Crimean Tatar <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/crh/>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kcmutils,140,77,49,18,17,3,118,266,52.63157894736842,Qırımtatarca (Qırım Türkçesi)
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kconfigwidgets,118,157,67,63,48,14,118,342,34.50292397660819,Qırımtatarca (Qırım Türkçesi)
+kf5-kcoreaddons,0,258,124,0,87,45,0,382,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kdeclarative,41,22,98,7,6,12,34,161,25.465838509316768,Qırımtatarca (Qırım Türkçesi)
+kf5-kdelibs4support,501,844,4008,138,569,1837,462,5353,9.35923781057351,Qırımtatarca (Qırım Türkçesi)
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kglobalaccel,0,45,26,0,6,3,0,71,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-khtml,831,236,600,226,30,33,727,1667,49.8500299940012,Qırımtatarca (Qırım Türkçesi)
+kf5-ki18n,42,80,2,42,66,2,51,124,33.87096774193548,Qırımtatarca (Qırım Türkçesi)
+kf5-kinit,14,31,71,4,4,3,11,116,12.068965517241379,Qırımtatarca (Qırım Türkçesi)
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kjsembed,212,14,22,40,2,2,183,248,85.48387096774194,Qırımtatarca (Qırım Türkçesi)
+kf5-knewstuff,49,287,1295,20,116,95,49,1631,3.004291845493562,Qırımtatarca (Qırım Türkçesi)
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-knotifyconfig,34,9,86,12,3,2,29,129,26.356589147286826,Qırımtatarca (Qırım Türkçesi)
+kf5-kparts,69,39,30,14,11,5,51,138,50.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kpty,15,0,0,4,0,0,13,15,100.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kross,77,23,0,27,8,0,72,100,77.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kservice,44,79,50,7,15,6,28,173,25.43352601156069,Qırımtatarca (Qırım Türkçesi)
+kf5-ktextwidgets,353,15,105,98,10,22,312,473,74.63002114164905,Qırımtatarca (Qırım Türkçesi)
+kf5-kwidgetsaddons,0,978,315,0,419,44,0,1293,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Qırımtatarca (Qırım Türkçesi)
+kf5-kxmlgui,399,339,836,95,100,35,329,1574,25.349428208386275,Qırımtatarca (Qırım Türkçesi)
+kf5-sonnet,0,312,371,0,66,10,0,683,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kauth,0,0,73,0,0,8,0,73,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kcmutils,11,58,54,5,16,5,11,123,8.94308943089431,Qırımtatarca (Qırım Türkçesi)
+kf6-kcodecs,0,55,315,0,36,17,0,370,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kcompletion,0,18,0,0,11,0,0,18,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kconfigwidgets,86,163,63,45,58,14,90,312,27.564102564102566,Qırımtatarca (Qırım Türkçesi)
+kf6-kcoreaddons,0,312,173,0,103,59,0,485,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kdeclarative,36,21,112,4,6,11,28,169,21.301775147928996,Qırımtatarca (Qırım Türkçesi)
+kf6-kdnssd,0,3,0,0,3,0,0,3,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kglobalaccel,0,12,22,0,3,2,0,34,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-ki18n,42,80,2,42,66,2,51,124,33.87096774193548,Qırımtatarca (Qırım Türkçesi)
+kf6-kitemviews,0,6,0,0,3,0,0,6,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kjobwidgets,0,118,21,0,38,3,0,139,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-knewstuff,1,174,859,1,70,59,1,1034,0.09671179883945842,Qırımtatarca (Qırım Türkçesi)
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-knotifyconfig,19,0,0,7,0,0,16,19,100.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kparts,35,15,7,8,2,1,25,57,61.40350877192983,Qırımtatarca (Qırım Türkçesi)
+kf6-kpty,15,0,0,4,0,0,13,15,100.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kservice,4,32,9,2,9,1,5,45,8.88888888888889,Qırımtatarca (Qırım Türkçesi)
+kf6-ktextwidgets,348,20,105,95,13,22,307,473,73.57293868921776,Qırımtatarca (Qırım Türkçesi)
+kf6-kwidgetsaddons,0,986,291,0,422,44,0,1277,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Qırımtatarca (Qırım Türkçesi)
+kf6-kxmlgui,344,282,663,86,80,34,287,1289,26.687354538401863,Qırımtatarca (Qırım Türkçesi)
+kf6-sonnet,0,308,376,0,66,11,0,684,0.0,Qırımtatarca (Qırım Türkçesi)
+libgnome,1773,0,0,273,0,0,1495,1773,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+libgnomecanvas,378,0,0,95,0,0,347,378,100.0,Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+libgnomeui,1226,0,0,320,0,0,1053,1226,100.0,Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+libgweather,6128,0,0,4541,0,0,6083,6128,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+libnma,269,267,271,78,55,50,248,807,33.33333333333333,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+libwnck,1124,0,0,241,0,0,999,1124,100.0,Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+libwnck3,1084,0,0,230,0,0,959,1084,100.0,QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Crimean Turkish (http://www.transifex.com/the_cavalry/light-locker/language/crh/)
+marco,3156,0,1015,367,0,66,2674,4171,75.66530807959721,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-applets,1834,0,14272,450,0,1205,1655,16106,11.387060722712032,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-backgrounds,3,0,52,1,0,28,3,55,5.454545454545454,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-calc,28,0,3178,27,0,697,40,3206,0.8733624454148471,Crimean Turkish (https://www.transifex.com/mate/teams/13566/crh/)
+mate-control-center,2099,7,6154,584,4,939,1870,8260,25.411622276029057,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-desktop,1118,0,1294,174,0,121,970,2412,46.35157545605307,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-media,20,0,224,16,0,84,19,244,8.19672131147541,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-menu,50,0,258,26,0,84,48,308,16.233766233766232,Crimean Turkish (http://www.transifex.com/mate/MATE/language/crh/)
+mate-menus,97,0,6,37,0,2,94,103,94.1747572815534,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-notification-daemon,8,0,178,7,0,46,13,186,4.301075268817205,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-panel,3605,5,3143,524,2,296,2932,6753,53.38368132681771,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-polkit,5,0,118,4,0,17,6,123,4.0650406504065035,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-power-manager,27,0,5096,24,0,528,37,5123,0.5270349404645716,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-screensaver,865,0,236,146,0,30,734,1101,78.56494096276113,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-sensors-applet,19,0,2141,19,0,207,29,2160,0.8796296296296297,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-session-manager,428,0,289,101,0,32,387,717,59.693165969316595,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-settings-daemon,1113,0,1090,188,0,130,927,2203,50.52201543349978,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-system-monitor,91,0,4803,62,0,599,101,4894,1.8594196975888841,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-terminal,174,0,8064,112,0,653,180,8238,2.112163146394756,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-themes,9,0,65,3,0,20,9,74,12.162162162162163,Crimean Turkish (http://app.transifex.com/mate/MATE/language/crh/)
+mate-user-admin,9,0,596,8,0,118,9,605,1.487603305785124,Crimean Turkish (https://www.transifex.com/mate/teams/13566/crh/)
+mate-user-guide,127,0,42846,74,0,3154,134,42973,0.2955344053242734,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+mate-utils,3135,0,6766,605,0,466,2540,9901,31.663468336531665,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+metacity,2040,0,0,310,0,0,1809,2040,100.0,QIRIMTATARCA <tilde-birlik-meydan@lists.sourceforge.net>
+mingw-gdk-pixbuf,1354,0,0,202,0,0,1118,1354,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+mingw-gtk2,12813,466,425,2622,97,65,10584,13704,93.49824868651488,Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+mingw-gtk3,11716,174,604,2481,30,132,9631,12494,93.77301104530174,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+mingw-gtk4,2121,72,459,789,21,114,1901,2652,79.97737556561087,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+nautilus,6170,16,46,1032,2,6,4852,6232,99.00513478818999,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+network-manager-applet,1234,1188,2017,329,247,298,1195,4439,27.799053840955168,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-meydan@lists.sourceforge.net>
+pluma,4497,0,8616,1081,0,1009,3918,13113,34.29421185083505,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+pluma-plugins,4,0,1401,4,0,141,9,1405,0.2846975088967972,Crimean Turkish (https://app.transifex.com/mate/teams/13566/crh/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,467,0,0,79,0,467,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,937,0,0,259,0,937,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5165,0,0,642,0,5165,0.0,LANGUAGE <LL@li.org>
+slick-greeter,161,0,55,33,0,16,163,216,74.53703703703704,Crimean Turkish; Crimean Tatar <crh@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Crimean Tatar (Crimean Turkish) <tilde-birlik-tercime@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,67,81,100.0,Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>
+xed,2952,0,823,729,0,199,2444,3775,78.19867549668874,Crimean Turkish (http://www.transifex.com/projects/p/MATE/language/crh/)
+xkeyboard-config,1915,6,0,693,1,0,1908,1921,99.68766267568975,Crimean Tatar (Crimean Turkish) <tilde-birlik-tercime@lists.sourceforge.net>
+yelp,1094,0,0,357,0,0,961,1094,100.0,QIRIMTATARCA (Qırım Türkçesi) <tilde-birlik-tercime@lists.sourceforge.net>

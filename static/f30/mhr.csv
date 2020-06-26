@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,18,0,975,6,0,166,15,993,1.812688821752266,Meadow Mari <mhr@li.org>
+deja-dup,11,0,2034,3,0,327,16,2045,0.5378973105134475,Mari (Meadow) <mhr@li.org>
+iso-codes,130,0,856,108,0,312,120,986,13.184584178498987,Meadow Mari <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mhr/>
+lightdm,0,0,163,0,0,21,0,163,0.0,Mari (Meadow) <mhr@li.org>
+lightdm-gtk,17,0,70,9,0,16,19,87,19.54022988505747,Mari (Meadow) <mhr@li.org>
+onboard,33,0,2285,9,0,501,31,2318,1.4236410698878343,Mari (Meadow) <mhr@li.org>
+pidgin,14023,1460,273,3140,235,58,12936,15756,89.00101548616401,Mari <muter@lists.linux-ink.ru>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+simple-scan,34,0,555,29,0,116,41,589,5.772495755517826,Mari (Meadow) <mhr@li.org>
+slick-greeter,17,0,194,7,0,40,19,211,8.056872037914692,Mari (Meadow) <mhr@li.org>

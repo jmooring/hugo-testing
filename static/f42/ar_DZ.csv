@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+python-django-taggit,30,0,0,13,0,0,29,30,100.0,
+python-django4.2,3754,0,94,862,0,27,4727,3848,97.55717255717255,Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/)
+python-django5,3754,0,94,862,0,27,4727,3848,97.55717255717255,Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/)
+siril,4015,8945,49315,686,1711,3082,3758,62275,6.4472099558410285,

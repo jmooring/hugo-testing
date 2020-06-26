@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,0,123,863,0,98,324,0,986,0.0,Greenlandic <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kl/>
+libreoffice,1330,2699,164371,826,2466,35028,1235,168400,0.7897862232779097,LANGUAGE <LL@li.org>
+lightdm,0,0,84,0,0,4,0,84,0.0,Greenlandic (Kalaallisut) <kl@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,54,0,157,18,0,29,38,211,25.59241706161137,Greenlandic (Kalaallisut) <kl@li.org>

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+python-django,3657,0,0,825,0,0,3928,3657,100.0,Lower Sorbian (http://www.transifex.com/django/django/language/dsb/)
+python2-django1.11,3613,0,0,819,0,0,3898,3613,100.0,Lower Sorbian (http://www.transifex.com/django/django/language/dsb/)

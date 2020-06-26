@@ -1,0 +1,56 @@
+---
+title: "nss-pam-ldapd - translation progress for f16"
+package: nss-pam-ldapd
+date: 2026-01-20T02:31:24+00:00
+started_languages: 18
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 18
+release: f16
+---
+The package nss-pam-ldapd (version 0.7.13):
+
+* represents 518 source words to be translated
+* is translated into 18 languages in Fedora f16
+
+
+* contains 18 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ca]({{< ref "/f16/language/ca.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ca.po | 
+ | [cs]({{< ref "/f16/language/cs.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/cs.po | 
+ | [da]({{< ref "/f16/language/da.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/da.po | 
+ | [de]({{< ref "/f16/language/de.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/de.po | 
+ | [es]({{< ref "/f16/language/es.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/es.po | 
+ | [fr]({{< ref "/f16/language/fr.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/fr.po | 
+ | [it]({{< ref "/f16/language/it.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/it.po | 
+ | [ja]({{< ref "/f16/language/ja.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ja.po | 
+ | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/nb.po | 
+ | [pt]({{< ref "/f16/language/pt.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/pt.po | 
+ | [ru]({{< ref "/f16/language/ru.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/ru.po | 
+ | [sv]({{< ref "/f16/language/sv.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/sv.po | 
+ | [vi]({{< ref "/f16/language/vi.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/vi.po | 
+ | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/zh_CN.po | 
+ | [fi]({{< ref "/f16/language/fi.md" >}}) | 437 | 518 | 84.4 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/fi.po | 
+ | [gl]({{< ref "/f16/language/gl.md" >}}) | 437 | 518 | 84.4 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/gl.po | 
+ | [nl]({{< ref "/f16/language/nl.md" >}}) | 210 | 518 | 40.5 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/nl.po | 
+ | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 53 | 518 | 10.2 | /mnt/stockage/packages/f16/nss-pam-ldapd/debian/po/pt_BR.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

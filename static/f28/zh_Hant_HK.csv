@@ -1,0 +1,488 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,1300,4088,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager,177,1253,19967,33,303,1573,70,21397,0.8272187689863064,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager-fortisslvpn,22,1,151,9,1,23,10,174,12.643678160919542,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager-l2tp,105,0,801,30,0,98,53,906,11.589403973509933,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager-libreswan,137,2,0,35,1,0,63,139,98.56115107913669,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager-openconnect,54,5,3182,16,2,578,34,3241,1.666152422091947,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager-openvpn,102,134,813,42,16,111,68,1049,9.723546234509056,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager-pptp,144,0,0,44,0,0,74,144,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager-sstp,144,0,0,44,0,0,74,144,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+NetworkManager-vpnc,156,0,0,41,0,0,80,156,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+PackageKit,0,0,1328,0,0,326,0,1328,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/freedesktop/language/zh_HK/)
+Thunar,4128,0,73,733,0,6,972,4201,98.26231849559629,Chinese (Hong Kong) (https://www.transifex.com/xfce/teams/16840/zh_HK/)
+abrt,0,0,3230,0,0,390,0,3230,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/fedora-abrt/language/zh_HK/)
+accerciser,599,0,0,221,0,0,274,599,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+ailurus,4525,0,3320,660,0,528,1971,7845,57.680050987890375,none
+aisleriot,3032,0,0,656,0,0,1340,3032,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+alacarte,31,0,0,12,0,0,12,31,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+anaconda,1161,0,6390,237,0,1018,356,7551,15.37544696066746,Chinese (Hong Kong) (http://www.transifex.com/projects/p/anaconda/language/zh_HK/)
+anjuta,8394,4,0,2056,4,0,2947,8398,99.95236961181234,Chinese (Hong Kong) <community@linuxhall.org>
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+aria2,0,0,7486,0,0,399,0,7486,0.0,Chinese (Hong Kong) <zh_HK@li.org>
+at-spi2-core,10,0,0,2,0,0,2,10,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+atk,440,0,0,169,0,0,186,440,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+atomix,146,0,0,59,0,0,71,146,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+atril,1408,0,2423,373,0,262,500,3831,36.75280605586009,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+audience,1,0,181,1,0,61,6,182,0.5494505494505495,Chinese (Hong Kong) <zh_HK@li.org>
+authconfig,0,0,929,0,0,137,0,929,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/fedora/language/zh_HK/)
+balsa,5623,3,0,1341,1,0,2156,5626,99.94667614646285,Chinese (traditional) <community@linuxhall.org>
+banshee,5958,0,0,1543,0,0,2366,5958,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+baobab,210,0,0,57,0,0,109,210,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+bijiben,310,0,0,102,0,0,116,310,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+blueberry,141,0,0,34,0,0,56,141,100.0,Chinese (Hong Kong) <zh_HK@li.org>
+blueman,75,0,1309,31,0,311,41,1384,5.41907514450867,Chinese (Hong Kong) (http://www.transifex.com/mate/MATE/language/zh_HK/)
+brasero,5546,0,0,968,0,0,1661,5546,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+caja,7145,0,2211,1310,0,207,1668,9356,76.36810602821718,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+caja-actions,846,444,264,114,30,26,213,1554,54.440154440154444,Chinese (traditional) <community@linuxhall.org>
+caja-extensions,101,0,469,38,0,93,48,570,17.719298245614034,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+calibre,197,0,158563,76,0,18158,81,158760,0.12408667170571933,Chinese (Hong Kong) (http://www.transifex.com/calibre/calibre/language/zh_HK/)
+caribou,171,0,0,57,0,0,67,171,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/certmonger/language/zh_HK/)
+cheese,630,0,0,121,0,0,154,630,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+cinnamon-desktop,234,0,0,32,0,0,113,234,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+cinnamon-translations,17490,0,3601,4053,0,607,5715,21091,82.92636669669527,Chinese (Hong Kong) <community@linuxhall.org>
+clutter,3022,27,8,669,3,3,919,3057,98.85508668629375,Chinese (Hong Kong) <community@linuxhall.org>
+cogl,378,0,0,76,0,0,141,378,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+compat-gtkhtml314,485,0,0,309,0,0,344,485,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+compat-tracker1,3613,0,0,594,0,0,1005,3613,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+dasher,634,0,0,209,0,0,264,634,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+dconf-editor,131,39,1294,18,17,152,34,1464,8.94808743169399,Chinese (Hong Kong) <community@linuxhall.org>
+deepin-daemon,288,0,1029,133,0,287,168,1317,21.867881548974943,Chinese (Hong Kong) (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/zh_HK/)
+deepin-terminal,130,0,331,54,0,121,70,461,28.199566160520607,Chinese (Hong Kong) (https://www.transifex.com/linuxdeepin/teams/3976/zh_HK/)
+deepin-wm,0,0,732,0,0,89,0,732,0.0,
+deja-dup,573,0,1549,144,0,194,231,2122,27.002827521206406,Chinese (Hong Kong) <zh_HK@li.org>
+deluge,565,0,2163,218,0,660,305,2728,20.711143695014663,Chinese (Hong Kong) <zh_HK@li.org>
+devhelp,443,0,0,107,0,0,173,443,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+dia,5283,408,910,2008,178,173,2907,6601,80.03332828359339,Chinese (Hong Kong) <community@linuxhall.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Chinese (Hong Kong SAR China)
+dnfdragora,4,0,35,1,0,8,1,39,10.256410256410255,Chinese (Hong Kong) (https://www.transifex.com/MageiaLinux/teams/9361/zh_HK/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Chinese (Hong Kong SAR China)
+ekiga,4468,11,0,739,4,0,1270,4479,99.75440946639876,Chinese (Hong Kong) <community@linuxhall.org>
+elementary-calculator,0,0,80,0,0,37,0,80,0.0,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,449,0,0,180,0,449,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+emerald,631,44,18,202,7,10,251,693,91.05339105339105,Chinese (Hong Kong) <zh_HK@li.org>
+empathy,517,0,0,188,0,0,296,517,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+engrampa,1264,0,6555,286,0,534,455,7819,16.165750095920195,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+entangle,0,0,953,0,0,229,0,953,0.0,Chinese (Hong Kong SAR China)
+eog,1746,0,0,339,0,0,485,1746,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+eog-plugins,23,0,0,7,0,0,10,23,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+eom,1481,0,3640,309,0,232,414,5121,28.920132786565123,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+epiphany,2564,0,0,593,0,0,827,2564,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+evince,3437,0,0,567,0,0,895,3437,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+evolution,21278,0,0,4432,0,0,5911,21278,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+evolution-data-server,5406,0,0,1076,0,0,1974,5406,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+evolution-mapi,518,0,0,107,0,0,179,518,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+exo,1362,0,89,277,0,21,461,1451,93.86629910406616,Chinese (Hong Kong) (http://www.transifex.com/xfce/exo/language/zh_HK/)
+falkon,3173,442,540,1055,96,161,1127,4155,76.36582430806259,
+feedreader,0,0,799,0,0,221,0,799,0.0,
+five-or-more,276,0,0,59,0,0,98,276,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+folks,1003,0,0,123,0,0,257,1003,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Chinese (Hong Kong SAR China)
+four-in-a-row,257,0,0,73,0,0,105,257,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+fprintd,0,0,419,0,0,57,0,419,0.0,Chinese (Hong Kong) (http://www.transifex.com/freedesktop/fprintd/language/zh_HK/)
+frescobaldi,502,166,15019,286,82,1792,352,15687,3.2001019952827185,Chinese (Hong Kong) <(nothing)>
+fuse-encfs,525,9,755,77,1,59,207,1289,40.729247478665634,Chinese (Hong Kong) <zh_HK@li.org>
+gala,0,0,694,0,0,79,0,694,0.0,
+garcon,109,0,0,34,0,0,38,109,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+gbrainy,2214,292,3174,469,14,267,841,5680,38.978873239436616,Chinese (Hong Kong) <community@linuxhall.org>
+gconf-editor,2834,0,0,238,0,0,413,2834,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gcr,700,0,0,254,0,0,315,700,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gdesklets,887,0,641,156,0,48,266,1528,58.04973821989529,Chinese (traditional) <zh-l10n@linux.org.tw>
+gdk-pixbuf2,1360,0,0,203,0,0,484,1360,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gdm,650,0,0,87,0,0,161,650,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gedit,9470,0,0,1118,0,0,1965,9470,100.0,LANGUAGE <LL@li.org>
+gedit-plugins,6258,114,223,818,37,50,1841,6595,94.89006823351023,LANGUAGE <LL@li.org>
+gettext,692,170,90,99,16,15,235,952,72.68907563025209,Chinese (Hong Kong) <community@linuxhall.org>
+gftp,3096,230,49,560,70,4,1085,3375,91.73333333333333,Chinese (Hong Kong) <community@linuxhall.org>
+ggz-base-libs,72,0,0,16,0,0,16,72,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+ggz-gtk-client,759,0,0,226,0,0,296,759,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gimagereader,1436,0,7,414,0,5,549,1443,99.51489951489951,Chinese <kde-i18n-doc@kde.org>
+gimp,23186,2738,2345,6213,786,261,7707,28269,82.01917294562949,Chinese (Hong Kong) <community@linuxhall.org>
+gitg,873,93,188,166,28,12,250,1154,75.64991334488734,Chinese (Hong Kong) <community@linuxhall.org>
+glabels,2210,0,248,701,0,76,1004,2458,89.91049633848658,Chinese (Hong Kong) <community@linuxhall.org>
+glade,6408,10,32,1667,6,4,2395,6450,99.34883720930232,Chinese (Hong Kong) <community@linuxhall.org>
+glade3,4210,34,75,1085,17,7,1586,4319,97.47626765454966,Chinese (Hong Kong) <community@linuxhall.org>
+glib-networking,161,0,0,29,0,0,70,161,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+glib2,5703,0,0,905,0,0,1802,5703,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+glpi,4,0,12970,2,0,3318,2,12974,0.03083089255433945,Chinese (Hong Kong) (https://www.transifex.com/glpi/teams/1637/zh_HK/)
+gnome-backgrounds,30,0,0,18,0,0,19,30,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-bluetooth,308,0,0,102,0,0,132,308,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-boxes,946,0,0,207,0,0,333,946,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-calculator,2920,0,0,669,0,0,1024,2920,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-calendar,122,6,0,58,2,0,81,128,95.3125,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-chess,1265,0,0,215,0,0,535,1265,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-clocks,223,0,0,77,0,0,91,223,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-color-manager,1792,0,0,342,0,0,467,1792,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-contacts,405,0,0,155,0,0,207,405,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-control-center,4946,0,0,1454,0,0,1843,4946,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-desktop,438,0,0,61,0,0,173,438,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-desktop3,146,0,0,23,0,0,83,146,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-dictionary,841,0,0,180,0,0,251,841,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-disk-utility,3423,0,0,632,0,0,980,3423,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-do,137,0,475,49,0,95,61,612,22.385620915032682,Chinese (Hong Kong) <zh_HK@li.org>
+gnome-doc-utils,251,0,0,101,0,0,238,251,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-documents,460,0,0,151,0,0,203,460,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-font-viewer,110,0,0,27,0,0,89,110,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-getting-started-docs,2639,0,0,339,0,0,605,2639,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-icon-theme,20,0,0,16,0,0,18,20,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-initial-setup,417,0,0,87,0,0,109,417,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-keyring,553,0,0,112,0,0,154,553,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-klotski,188,0,0,54,0,0,83,188,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-logs,115,0,0,37,0,0,52,115,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-mahjongg,304,0,4,60,0,2,88,308,98.7012987012987,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-maps,205,0,0,40,0,0,67,205,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-menus,70,0,0,27,0,0,31,70,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-mines,304,2,2,59,1,2,99,308,98.7012987012987,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-nettool,664,0,0,219,0,0,369,664,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-nibbles,386,0,0,86,0,0,126,386,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-online-accounts,1209,0,0,335,0,0,537,1209,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-packagekit,4396,0,0,682,0,0,971,4396,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-photos,354,0,0,125,0,0,161,354,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-power-manager,480,0,0,147,0,0,177,480,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-robots,636,0,0,107,0,0,144,636,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-screensaver,291,0,0,58,0,0,90,291,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-screenshot,354,0,0,75,0,0,97,354,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-session,431,0,0,87,0,0,145,431,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-settings-daemon,2607,0,0,429,0,0,645,2607,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-shell,1212,110,84,283,36,14,398,1406,86.20199146514936,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-shell-extensions,358,0,0,68,0,0,103,358,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-software,1039,0,0,382,0,0,419,1039,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-sudoku,213,82,31,41,11,2,69,326,65.33742331288343,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-system-monitor,1289,0,0,292,0,0,430,1289,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-terminal,2204,5,0,439,3,0,617,2209,99.77365323675872,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-tetravex,205,0,0,44,0,0,69,205,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-themes,109,0,0,30,0,0,30,109,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-themes-extra,24,0,0,9,0,0,9,24,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-tweaks,373,0,0,136,0,0,172,373,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-user-share,160,0,0,29,0,0,38,160,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-vfs2,1519,0,0,305,0,0,546,1519,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-video-effects,256,0,0,68,0,0,69,256,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnomebaker,336,0,850,97,0,194,156,1186,28.330522765598655,Chinese (Hong Kong) <zh_HK@li.org>
+gnote,2930,44,19,436,6,9,487,2993,97.8950885399265,Chinese (Hong Kong) <community@linuxhall.org>
+gnumeric,21527,177,15302,4378,30,1518,8290,37006,58.171647840890664,"Chinese (traditional) <zh-l10n@linux.org.tw, tryneeds@gmail.com>"
+godot,644,996,5390,300,335,1257,332,7030,9.160739687055477,Chinese (Hong Kong) <https://hosted.weblate.org/projects/godot-engine/godot/zh_Hant_HK/>
+goffice,4635,201,1365,1631,90,280,2663,6201,74.74600870827285,Chinese (traditional) <zh-l10n@linux.org.tw>
+goffice08,2117,394,2088,909,143,508,1518,4599,46.03174603174603,Chinese (traditional) <zh-l10n@linux.org.tw>
+gourmet,1498,29,2412,385,8,499,507,3939,38.02995684183803,Chinese (Hong Kong) <zh_HK@li.org>
+gparted,2560,0,0,430,0,0,846,2560,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gramps,25920,6538,5090,4847,1028,463,7906,37548,69.03163950143816,Chinese (Hong Kong) <(nothing)>
+grilo,187,0,0,36,0,0,57,187,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+grilo-plugins,533,0,0,132,0,0,227,533,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gsettings-desktop-schemas,5665,0,0,496,0,0,914,5665,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gstreamer-plugins-good,210,65,539,78,22,90,97,814,25.7985257985258,Chinese (Hong Kong) <community@linuxhall.org>
+gstreamer1-plugins-good,54,9,731,6,1,90,8,794,6.801007556675064,Chinese (Hong Kong) <community@linuxhall.org>
+gthumb,2951,615,181,1004,160,36,1191,3747,78.75633840405658,Chinese (Hong Kong) <community@linuxhall.org>
+gtk2,12381,0,0,2582,0,0,3272,12381,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gtk2-engines,119,0,0,47,0,0,53,119,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gtk3,14572,0,0,3183,0,0,4024,14572,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gtk4,14572,0,0,3183,0,0,4024,14572,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gtkhtml3,488,0,0,310,0,0,346,488,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gtksourceview3,213,75,34,84,16,6,114,322,66.14906832298136,Chinese (Hong Kong) <community@linuxhall.org>
+gtkspell,11,0,0,5,0,0,5,11,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gtkspell3,15,0,0,6,0,0,10,15,100.0,Chinese (Hong Kong) <(nothing)>
+gtranslator,1390,20,220,373,2,14,508,1630,85.2760736196319,Chinese (Hong Kong) <community@linuxhall.org>
+gucharmap,1088,6,36,370,3,22,484,1130,96.28318584070796,Chinese (Hong Kong) <community@linuxhall.org>
+gvfs,2704,0,0,596,0,0,1004,2704,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gwget,507,0,0,166,0,0,211,507,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+hamster-time-tracker,934,6,317,197,2,13,379,1257,74.30389817024661,Chinese (Hong Kong) <community@linuxhall.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hitori,170,0,4,34,0,2,53,174,97.70114942528735,Chinese (Hong Kong) <community@linuxhall.org>
+iagno,257,0,0,54,0,0,94,257,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+ibus,998,0,985,167,0,347,337,1983,50.32778618255169,Traditional Chinese <zh@li.org>
+ibus-cangjie,152,0,0,22,0,0,30,152,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/ibus-cangjie/language/zh_HK/)
+ibus-libpinyin,117,93,170,59,27,55,61,380,30.789473684210527,BYVoid <byvoid1@gmail.com>
+ibus-libzhuyin,142,21,41,52,6,12,76,204,69.6078431372549,Peng Huang <shawn.p.huang@gmail.com>
+ibus-pinyin,168,0,0,74,0,0,90,168,100.0,BYVoid <byvoid1@gmail.com>
+ibus-table,0,136,959,0,42,97,0,1095,0.0,Caius 'kaio' Chance <k@kaio.me>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Chinese (Hong Kong SAR China)
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Chinese (Hong Kong) <chinese@lists.fedoraproject.org>
+iso-codes,1716,363,513,964,138,188,971,2592,66.20370370370371,Chinese (Hong Kong)
+json-glib,303,0,0,44,0,0,80,303,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+kaudiocreator,566,172,398,156,45,72,244,1136,49.82394366197183,Chinese (Hong Kong) <community@linuxhall.org>
+kcoloredit,8,92,178,5,29,61,11,278,2.877697841726619,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kauth,0,4,69,0,1,7,0,73,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kcmutils,31,152,380,7,24,41,50,563,5.506216696269982,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kconfigwidgets,112,149,60,64,42,11,106,321,34.890965732087224,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kcoreaddons,0,258,75,0,93,32,0,333,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kdeclarative,10,42,57,4,6,4,42,109,9.174311926605505,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kdelibs4support,422,1023,3368,104,626,1634,197,4813,8.767920216081446,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kdesignerplugin,0,43,11,0,5,4,0,54,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kglobalaccel,0,49,22,0,7,2,0,71,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-khtml,909,599,213,192,91,27,343,1721,52.81812899477048,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-ki18n,0,95,29,0,85,25,0,124,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kinit,96,31,7,9,4,1,17,134,71.64179104477611,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kjobwidgets,0,79,44,0,29,7,0,123,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kjsembed,0,88,160,0,19,25,0,248,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-knewstuff,95,256,339,20,97,41,20,690,13.768115942028986,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-knotifyconfig,0,29,100,0,11,6,0,129,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kparts,44,51,9,13,12,1,57,104,42.30769230769231,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kpty,0,11,4,0,3,1,0,15,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kross,9,58,33,7,20,8,45,100,9.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kservice,17,81,72,4,14,10,44,170,10.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-ktextwidgets,343,91,28,72,34,16,90,462,74.24242424242425,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kwidgetsaddons,0,1052,267,0,370,88,0,1319,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-kxmlgui,331,961,310,88,108,32,157,1602,20.66167290886392,Chinese (Hong Kong) <community@linuxhall.org>
+kf5-sonnet,0,614,53,0,56,17,0,667,0.0,Chinese (Hong Kong) <community@linuxhall.org>
+kgamma,20,4,106,5,1,10,8,130,15.384615384615385,Chinese (Hong Kong) <community@linuxhall.org>
+kiconedit,629,58,39,131,8,16,198,726,86.63911845730028,Chinese (Hong Kong) <community@linuxhall.org>
+krb5-auth-dialog,1369,20,299,280,5,49,461,1688,81.10189573459715,Chinese (Hong Kong) <community@linuxhall.org>
+lftp,2503,972,550,365,85,50,1095,4025,62.18633540372671,Chinese (Hong Kong) <community@linuxhall.org>
+libbonobo,543,0,0,107,0,0,190,543,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libbonoboui,368,0,0,115,0,0,190,368,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Chinese (Hong Kong SAR China)
+libcryptui,3012,0,0,654,0,0,902,3012,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgda,1081,3809,6252,282,875,897,527,11142,9.702028361155985,Chinese (Hong Kong) <community@linuxhall.org>
+libgdata,695,0,0,85,0,0,150,695,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgdl,592,0,0,86,0,0,164,592,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgnome,1773,0,0,273,0,0,450,1773,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgnome-keyring,44,0,0,9,0,0,12,44,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgnomecanvas,378,0,0,95,0,0,120,378,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgnomekbd,242,0,0,55,0,0,68,242,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgnomeui,1226,0,0,320,0,0,385,1226,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgsf,696,0,0,146,0,0,275,696,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgtop2,126,0,0,40,0,0,62,126,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libgweather,5960,133,78,4411,108,57,4530,6171,96.58078107275968,Chinese (Hong Kong) <community@linuxhall.org>
+libmatekbd,175,0,76,35,0,8,58,251,69.7211155378486,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+libmatemixer,12,0,230,11,0,115,11,242,4.958677685950414,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+libmateweather,5420,431,234,4118,317,85,4236,6085,89.07148726376334,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+libosinfo,0,0,662,0,0,145,0,662,0.0,Chinese (Hong Kong SAR China)
+libpeas,110,0,0,31,0,0,35,110,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/libreport/language/zh_HK/)
+librime,175,0,0,41,0,0,82,175,100.0,American English <kde-i18n-doc@kde.org>
+libsoup,110,0,0,25,0,0,50,110,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libvirt,0,0,63891,0,0,9882,0,63891,0.0,Chinese (Hong Kong SAR China)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/libvirt-glib/language/zh_HK/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Chinese (Hong Kong) <chinese@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,365,1124,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libwnck3,1084,0,0,230,0,0,352,1084,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+libxfce4ui,850,0,0,164,0,0,281,850,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+libxfce4util,424,0,0,7,0,0,278,424,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+light-locker,23,0,237,4,0,33,4,260,8.846153846153847,Chinese (Hong Kong) (http://www.transifex.com/the_cavalry/light-locker/language/zh_HK/)
+lightdm,35,0,128,10,0,11,10,163,21.472392638036812,Chinese (Hong Kong) <zh_HK@li.org>
+lightdm-gtk,35,0,52,12,0,13,12,87,40.229885057471265,Chinese (Hong Kong) <zh_HK@li.org>
+lightdm-settings,28,0,243,14,0,45,16,271,10.33210332103321,Chinese (Hong Kong) <zh_HK@li.org>
+lightsoff,102,0,0,17,0,0,38,102,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+lxmenu-data,97,0,0,37,0,0,37,97,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+lxpanel,38,0,1360,28,0,439,29,1398,2.7181688125894135,LANGUAGE <LL@li.org>
+manaplus,220,0,4164,107,0,1299,109,4384,5.018248175182482,Chinese (Hong Kong) (http://www.transifex.com/projects/p/manaplus/language/zh_HK/)
+marco,3295,0,853,370,0,43,756,4148,79.43587270973963,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-applets,1934,0,14402,469,0,1110,711,16336,11.838883447600391,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-backgrounds,23,0,7,17,0,4,17,30,76.66666666666667,Chinese (Hong Kong) (http://www.transifex.com/mate/MATE/language/zh_HK/)
+mate-calc,1321,0,1674,440,0,218,650,2995,44.10684474123539,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-control-center,2417,0,5498,600,0,397,767,7915,30.536955148452304,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-desktop,1362,0,943,205,0,94,359,2305,59.08893709327548,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-media,172,0,54,76,0,20,87,226,76.10619469026548,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-menu,110,0,206,53,0,65,59,316,34.810126582278485,Chinese (Hong Kong) (http://www.transifex.com/mate/MATE/language/zh_HK/)
+mate-menus,97,0,0,37,0,0,37,97,100.0,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-notification-daemon,130,0,9,34,0,3,34,139,93.5251798561151,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-panel,3863,0,2669,534,0,226,791,6532,59.13962033067973,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-polkit,96,0,26,16,0,4,22,122,78.68852459016394,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-power-manager,1950,0,3296,371,0,210,553,5246,37.17117804041174,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-screensaver,852,0,131,142,0,14,196,983,86.6734486266531,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-sensors-applet,198,0,2017,68,0,156,86,2215,8.939051918735892,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-session-manager,455,0,226,99,0,15,113,681,66.81350954478708,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-settings-daemon,1340,0,424,211,0,42,274,1764,75.96371882086169,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-system-monitor,561,0,3769,209,0,396,281,4330,12.956120092378754,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-terminal,4060,0,4393,495,0,295,835,8453,48.03028510587957,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-themes,7,0,53,2,0,10,2,60,11.666666666666666,Chinese (Hong Kong) (http://www.transifex.com/mate/MATE/language/zh_HK/)
+mate-user-guide,151,0,44530,89,0,3316,101,44681,0.33795125444819946,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+mate-utils,3329,0,6773,657,0,429,844,10102,32.95387052068897,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+menulibre,1,0,848,1,0,163,1,849,0.11778563015312131,Chinese (Hong Kong) <zh_HK@li.org>
+metacity,2040,0,0,310,0,0,648,2040,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+midori,1,0,3540,1,0,795,9,3541,0.02824060999717594,Chinese (Hong Kong) <zh_HK@li.org>
+mingw-GConf2,4088,0,0,497,0,0,1300,4088,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-atk,440,0,0,169,0,0,186,440,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/freedesktop/language/zh_HK/)
+mingw-gdk-pixbuf,1360,0,0,203,0,0,484,1360,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-gettext,692,170,90,99,16,15,235,952,72.68907563025209,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-glib-networking,161,0,0,29,0,0,70,161,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-glib2,5703,0,0,905,0,0,1802,5703,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-gstreamer-plugins-good,210,65,539,78,22,90,97,814,25.7985257985258,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-gstreamer1-plugins-good,54,9,731,6,1,90,8,794,6.801007556675064,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-gtk2,12381,0,0,2582,0,0,3272,12381,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-gtk3,14572,0,0,3183,0,0,4024,14572,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-gtksourceview3,1019,92,45,589,24,17,713,1156,88.14878892733564,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-gtkspell3,15,0,0,6,0,0,10,15,100.0,Chinese (Hong Kong) <(nothing)>
+mingw-json-glib,303,0,0,44,0,0,80,303,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-libgsf,696,0,0,146,0,0,275,696,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Chinese (Hong Kong SAR China)
+mingw-libsoup,110,0,0,25,0,0,50,110,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mingw-libvirt,0,0,63891,0,0,9882,0,63891,0.0,Chinese (Hong Kong SAR China)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/libvirt-glib/language/zh_HK/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Chinese (Hong Kong) (http://www.transifex.com/freedesktop/p11-kit/language/zh_HK/)
+mousetweaks,114,0,0,30,0,0,38,114,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mozo,42,0,0,16,0,0,16,42,100.0,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+muffin,2038,0,0,272,0,0,613,2038,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+mutter,1837,0,0,238,0,0,484,1837,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+nautilus,6243,0,0,1050,0,0,1428,6243,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+nautilus-sendto,45,0,0,8,0,0,12,45,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+nemo-extensions,254,0,0,48,0,0,87,254,100.0,Chinese (Hong Kong) <zh_HK@li.org>
+network-manager-applet,1978,1177,1248,543,185,200,925,4403,44.923915512150806,Chinese (Hong Kong) <community@linuxhall.org>
+noise,19,0,1303,11,0,366,19,1322,1.4372163388804842,
+notification-daemon,17,0,0,7,0,0,7,17,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+olpc-switch-desktop,158,0,0,14,0,0,19,158,100.0,LANGUAGE <LL@li.org>
+onboard,319,0,1999,81,0,429,131,2318,13.761863675582397,Chinese (Hong Kong) <zh_HK@li.org>
+openerp,523,0,34133,296,0,3601,422,34656,1.509118190212373,Chinese (Hong Kong) <zh_HK@li.org>
+optimizer,0,0,111,0,0,54,0,111,0.0,none
+orca,4140,0,0,1349,0,0,1844,4140,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Chinese (Hong Kong SAR China)
+p11-kit,0,0,476,0,0,81,0,476,0.0,Chinese (Hong Kong) (http://www.transifex.com/freedesktop/p11-kit/language/zh_HK/)
+pam,0,0,597,0,0,120,0,597,0.0,Chinese (Hong Kong) <chinese@lists.fedoraproject.org>
+pantheon-agent-geoclue2,0,0,46,0,0,13,0,46,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,16,0,0,8,0,16,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,1,0,2486,1,0,491,10,2487,0.04020908725371934,LANGUAGE <LL@li.org>
+pantheon-greeter,2,0,27,1,0,9,1,29,6.896551724137931,Chinese (Hong Kong) <zh_HK@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pidgin,17492,0,1066,3826,0,122,5633,18558,94.25584653518698,Chinese (Hong Kong) (http://www.transifex.com/projects/p/pidgin/language/zh_HK/)
+pitivi,1424,11,60,375,3,5,523,1495,95.25083612040135,Chinese (Hong Kong) <community@linuxhall.org>
+pix,3718,0,0,1202,0,0,1468,3718,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+planner,1763,27,6,520,2,4,666,1796,98.16258351893096,Chinese (Hong Kong) <community@linuxhall.org>
+pluma,4697,0,8043,1109,0,659,1762,12740,36.86813186813187,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+po4a,62,130,1662,15,25,155,30,1854,3.344120819848975,Chinese (Hong Kong) <debian-l10n-chinese@lists.debian.org>
+pogo,60,0,516,33,0,68,47,576,10.416666666666668,Chinese (Hong Kong) <zh_HK@li.org>
+polari,113,0,0,50,0,0,74,113,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Chinese (Hong Kong) <chinese@lists.fedoraproject.org>
+pykickstart,0,0,1521,0,0,170,0,1521,0.0,Chinese (Hong Kong SAR China)
+python-caja,6,0,0,2,0,0,4,6,100.0,Chinese (Hong Kong) (https://www.transifex.com/mate/teams/13566/zh_HK/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Chinese (Hong Kong SAR China)
+python-meh,0,0,109,0,0,23,0,109,0.0,Chinese (Hong Kong SAR China)
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Chinese (Hong Kong SAR China)
+quadrapassel,435,0,0,79,0,0,112,435,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+realmd,0,0,789,0,0,127,0,789,0.0,Chinese (Hong Kong) (http://www.transifex.com/freedesktop/realmd/language/zh_HK/)
+rednotebook,162,0,985,20,0,220,46,1147,14.123801220575412,Chinese (Hong Kong) <zh_HK@li.org>
+regexxer,466,0,1,99,0,1,161,467,99.78586723768737,Chinese (Hong Kong) <community@linuxhall.org>
+rhnsd,0,0,33,0,0,9,0,33,0.0,Chinese (Hong Kong) <chinese@lists.fedoraproject.org>
+rhythmbox,3569,0,0,922,0,0,1520,3569,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+rygel,1129,0,0,228,0,0,402,1129,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+scratch-text-editor,1,0,680,1,0,197,14,681,0.14684287812041116,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+seahorse-caja,421,0,0,110,0,0,223,421,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+seahorse-nautilus,421,0,0,110,0,0,223,421,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+sequeler,0,0,252,0,0,93,0,252,0.0,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/fedora/language/zh_HK/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/fedora/language/zh_HK/)
+sflphone,1119,350,1698,319,147,347,438,3167,35.33312282917588,SavoirFaireLinux Inc <sflphoneteam@savoirfairelinux.com>
+shared-mime-info,0,0,1959,0,0,759,0,1959,0.0,Chinese (Hong Kong) (http://www.transifex.com/freedesktop/shared-mime-info/language/zh_HK/)
+shotwell,4573,0,0,948,0,0,1536,4573,100.0,Chinese (Taiwan) (http://www.transifex.com/projects/p/shotwell/language/zh_TW/)
+shutter,16,0,2432,12,0,489,25,2448,0.6535947712418301,Chinese (Hong Kong) <zh_HK@li.org>
+simple-scan,568,0,21,140,0,5,200,589,96.43463497453311,Chinese (Hong Kong) <zh_HK@li.org>
+skychart,0,0,4663,0,0,1465,0,4663,0.0,Chinese (Hong Kong) <zh_HK@li.org>
+slick-greeter,200,0,11,42,0,5,64,211,94.7867298578199,Chinese (Hong Kong) <zh_HK@li.org>
+slingshot-launcher,0,0,217,0,0,68,0,217,0.0,LANGUAGE <LL@li.org>
+snap-photobooth,0,0,25,0,0,5,0,25,0.0,LANGUAGE <LL@li.org>
+sound-juicer,986,0,0,187,0,0,385,986,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+stellarium,35291,0,32905,9106,0,17623,12987,68196,51.749369464484715,Chinese (Hong Kong) (https://www.transifex.com/stellarium/teams/80998/zh_HK/)
+subdownloader,0,0,968,0,0,272,0,968,0.0,Chinese (Hong Kong) <zh_HK@li.org>
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,90,0,0,52,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,0,159,0,0,111,0,159,0.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,13,24,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+swell-foop,236,0,0,48,0,0,82,236,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,Chinese (Hong Kong) <zh_HK@li.org>
+switchboard-plug-display,0,0,126,0,0,49,0,126,0.0,
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,1,0,160,1,0,48,1,161,0.6211180124223602,
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,0,131,0,0,46,0,131,0.0,
+synaptic,178,1217,1836,70,351,241,84,3231,5.509130300216651,Chinese (traditional) <zh-l10n@linux.org.tw>
+tali,661,0,0,134,0,0,232,661,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+terminator,58,0,1352,41,0,376,42,1410,4.113475177304964,Chinese (Hong Kong) <zh_HK@li.org>
+thunar-volman,487,0,0,113,0,0,180,487,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+totem,3193,102,604,503,6,33,878,3899,81.89279302385228,Chinese (Hong Kong) <community@linuxhall.org>
+totem-pl-parser,29,0,0,8,0,0,11,29,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+tracker,3613,0,0,594,0,0,1005,3613,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+tracker-miners,3613,0,0,594,0,0,1005,3613,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+tumbler,228,0,13,37,0,2,45,241,94.6058091286307,Chinese (Hong Kong) (http://www.transifex.com/xfce/tumbler/language/zh_HK/)
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+vinagre,1507,0,0,275,0,0,463,1507,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+vino,1090,0,0,110,0,0,266,1090,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+virt-viewer,0,0,784,0,0,169,0,784,0.0,Chinese (Hong Kong SAR China)
+visualboyadvance-m,0,0,2253,0,0,825,0,2253,0.0,Chinese (Hong Kong) (http://www.transifex.com/bgk/vba-m/language/zh_HK/)
+vocal,0,0,377,0,0,79,0,377,0.0,Chinese (Hong Kong) <zh_HK@li.org>
+vte,80,0,0,13,0,0,27,80,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+vte291,83,0,0,16,0,0,31,83,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+vte3,80,0,0,13,0,0,27,80,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+wicd,177,0,961,58,0,196,63,1138,15.553602811950789,zh_HK <LL@li.org>
+wingpanel,0,0,6,0,0,1,0,6,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,20,0,0,6,0,20,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,LANGUAGE <LL@li.org>
+wqy-zenhei-fonts,44,0,0,9,0,0,9,44,100.0,
+xboard,873,257,1443,237,106,381,287,2573,33.929265448892345,LANGUAGE <LL@li.org>
+xdg-user-dirs,26,2,0,26,2,0,26,28,92.85714285714286,Chinese (Hong Kong) <community@linuxhall.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,11,81,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+xed,9586,0,417,1315,0,114,2462,10003,95.83125062481255,LANGUAGE <LL@li.org>
+xfce4-appfinder,319,0,0,69,0,0,81,319,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+xfce4-hardware-monitor-plugin,352,0,0,128,0,0,184,352,100.0,Chinese (traditional) <community@linuxhall.org>
+xfce4-panel,1699,0,10,391,0,4,470,1709,99.41486249268578,Chinese (Hong Kong) (https://www.transifex.com/xfce/teams/16840/zh_HK/)
+xfce4-power-manager,387,0,630,113,0,89,171,1017,38.05309734513274,Chinese (Hong Kong) (http://www.transifex.com/xfce/xfce4-power-manager/language/zh_HK/)
+xfce4-session,1066,0,0,208,0,0,332,1066,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+xfce4-settings,1561,0,103,346,0,28,444,1664,93.81009615384616,Chinese (Hong Kong) (http://www.transifex.com/xfce/xfce4-settings/language/zh_HK/)
+xfce4-taskmanager,171,0,86,66,0,19,87,257,66.53696498054474,Chinese (Hong Kong) (http://www.transifex.com/xfce/xfce-apps/language/zh_HK/)
+xfconf,451,0,0,67,0,0,121,451,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+xfdesktop,972,0,0,216,0,0,287,972,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+xfwm4,660,0,0,171,0,0,212,660,100.0,Chinese (Hong Kong) (http://www.transifex.com/projects/p/xfce/language/zh_HK/)
+xplayer,1914,38,599,156,1,33,390,2551,75.02940023520188,Chinese (Hong Kong) <community@linuxhall.org>
+xplayer-plparser,29,0,0,8,0,0,11,29,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+xreader,1603,0,38,361,0,11,497,1641,97.68433881779403,Chinese (Hong Kong) (http://www.transifex.com/mate/MATE/language/zh_HK/)
+xviewer,1676,0,1,323,0,1,404,1677,99.94036970781157,Chinese (Hong Kong) <community@linuxhall.org>
+xviewer-plugins,23,0,0,7,0,0,10,23,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+yelp,452,0,0,104,0,0,141,452,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+yelp-xsl,81,0,0,59,0,0,55,81,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+zenity,841,0,0,187,0,0,251,841,100.0,Chinese (Hong Kong) <community@linuxhall.org>

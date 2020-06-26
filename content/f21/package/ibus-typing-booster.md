@@ -1,0 +1,40 @@
+---
+title: "ibus-typing-booster - translation progress for f21"
+package: ibus-typing-booster
+date: 2026-01-17T11:57:30+00:00
+started_languages: 2
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 2
+release: f21
+---
+The package ibus-typing-booster (version 1.2.14):
+
+* represents 157 source words to be translated
+* is translated into 2 languages in Fedora f21
+
+
+* contains 2 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ca]({{< ref "/f21/language/ca.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f21/ibus-typing-booster/po/ca.po | 
+ | [de]({{< ref "/f21/language/de.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f21/ibus-typing-booster/po/de.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

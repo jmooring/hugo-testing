@@ -1,0 +1,120 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Thunar,4189,0,209,755,0,5,4204,4398,95.24783992723965,Interlingue (https://www.transifex.com/xfce/teams/16840/ie/)
+atril,1490,0,2352,412,0,227,1644,3842,38.78188443519001,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+blueberry,70,0,78,21,0,16,81,148,47.2972972972973,Interlingue <ie@li.org>
+caja,4646,0,4877,1136,0,432,4836,9523,48.78714690748714,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+caja-extensions,562,0,22,131,0,4,597,584,96.23287671232876,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+catfish,425,0,362,102,0,16,468,787,54.00254129606099,Interlingue (https://www.transifex.com/xfce/teams/16840/ie/)
+cinnamon-translations,8278,0,9304,2644,0,1474,8902,17582,47.08224320327608,Interlingue <ie@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,
+elementary-greeter,41,0,35,12,0,6,43,76,53.94736842105263,Occidental <https://weblate.elementary.io/projects/desktop/greeter/ie/>
+elementary-music,383,5,920,145,2,219,408,1308,29.281345565749234,Occidental <https://weblate.elementary.io/projects/music/music/ie/>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,138,7,177,49,3,34,154,322,42.857142857142854,Occidental <https://weblate.elementary.io/projects/videos/videos/ie/>
+engrampa,1597,0,418,363,0,17,1703,2015,79.25558312655086,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+eom,1077,0,703,284,0,58,1166,1780,60.50561797752809,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+exaile,1649,14,2405,706,5,363,1808,4068,40.53588987217306,Occidental <https://hosted.weblate.org/projects/exaile/master/ie/>
+exo,1159,0,295,264,0,35,1302,1454,79.7111416781293,Interlingue (http://www.transifex.com/xfce/exo/language/ie/)
+gala,0,0,140,0,0,34,0,140,0.0,none
+garcon,122,0,0,36,0,0,135,122,100.0,Interlingue (http://www.transifex.com/xfce/garcon/language/ie/)
+gigolo,435,0,32,124,0,3,441,467,93.14775160599572,Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/)
+gimagereader,173,2,1386,98,1,327,189,1561,11.08263933376041,Occidental <https://hosted.weblate.org/projects/gimagereader/translations/ie/>
+granite,120,0,130,51,0,32,122,250,48.0,Occidental <https://l10n.elementary.io/projects/desktop/granite/ie/>
+gtkhash,35,0,164,25,0,34,39,199,17.587939698492463,Occidental <https://hosted.weblate.org/projects/gtkhash/translations/ie/>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+libmateweather,25,0,474,23,0,160,27,499,5.01002004008016,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+libxfce4ui,660,0,266,164,0,15,739,926,71.2742980561555,Interlingue (http://www.transifex.com/xfce/libxfce4ui/language/ie/)
+libxfce4util,424,0,0,7,0,0,429,424,100.0,Interlingue (http://www.transifex.com/xfce/libxfce4util/language/ie/)
+lightdm-settings,0,0,305,0,0,62,0,305,0.0,Interlingue <ie@li.org>
+lollypop,202,0,1055,89,0,319,224,1257,16.070007955449483,Occidental <https://hosted.weblate.org/projects/gnumdk/lollypop/ie/>
+marco,1500,0,2718,276,0,146,1603,4218,35.56187766714082,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-applets,1201,0,14626,419,0,1177,1352,15827,7.588298477285652,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-calc,480,0,2698,252,0,467,497,3178,15.103838892385149,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-control-center,1150,0,7383,463,0,1009,1295,8533,13.477088948787062,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-desktop,34,0,2322,14,0,291,40,2356,1.4431239388794566,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-media,236,0,2,99,0,1,267,238,99.15966386554622,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-menus,97,0,0,37,0,0,109,97,100.0,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-notification-daemon,101,0,38,35,0,2,108,139,72.66187050359713,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-panel,1344,0,5324,411,0,377,1497,6668,20.155968806238754,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-power-manager,26,0,5168,26,0,555,32,5194,0.5005775895263765,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-screensaver,26,0,970,14,0,144,31,996,2.610441767068273,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-session-manager,532,0,173,115,0,12,598,705,75.46099290780141,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-settings-daemon,61,0,1779,18,0,256,63,1840,3.315217391304348,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-system-monitor,986,0,3493,278,0,337,1079,4479,22.013842375530253,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-themes,60,0,10,12,0,9,64,70,85.71428571428571,Interlingue (http://www.transifex.com/mate/MATE/language/ie/)
+mate-user-admin,9,0,561,8,0,121,9,570,1.5789473684210527,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-user-guide,116,0,43072,73,0,3164,139,43188,0.2685931277206631,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mate-utils,1761,0,8447,488,0,613,1880,10208,17.25117554858934,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+mousepad,969,0,139,292,0,18,1045,1108,87.45487364620939,Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/)
+mozo,42,0,0,16,0,0,47,42,100.0,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+ncmpc,560,0,136,239,0,28,634,696,80.45977011494253,Occidental <https://hosted.weblate.org/projects/ncmpc/translations/ie/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,
+parole,609,0,479,262,0,39,688,1088,55.97426470588235,Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/)
+pluma,3581,0,9105,941,0,836,3785,12686,28.227967838562197,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+python-caja,6,0,0,2,0,0,7,6,100.0,Interlingue (https://www.transifex.com/mate/teams/13566/ie/)
+rednotebook,556,0,591,179,0,61,598,1147,48.47428073234525,Interlingue <ie@li.org>
+remmina,616,530,1528,289,92,265,700,2674,23.036649214659686,Occidental <https://hosted.weblate.org/projects/remmina/remmina/ie/>
+ristretto,321,0,438,156,0,40,354,759,42.29249011857708,Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/)
+slick-greeter,211,0,0,47,0,0,220,211,100.0,Interlingue <ie@li.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+thunar-volman,494,0,5,119,0,1,539,499,98.99799599198397,Interlingue (http://www.transifex.com/xfce/thunar-volman/language/ie/)
+vocal,0,0,0,0,0,0,0,0,0.0,
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+xapps,42,0,27,25,0,9,44,69,60.86956521739131,Interlingue <ie@li.org>
+xed,2688,0,1937,741,0,257,2838,4625,58.118918918918915,Interlingue <ie@li.org>
+xfburn,867,0,546,254,0,52,949,1413,61.3588110403397,Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/)
+xfce4-appfinder,370,0,36,79,0,2,364,406,91.13300492610837,Interlingue (http://www.transifex.com/xfce/xfce4-appfinder/language/ie/)
+xfce4-datetime-plugin,52,0,0,19,0,0,66,52,100.0,Interlingue (http://www.transifex.com/xfce/xfce-panel-plugins/language/ie/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,88,71,100.0,Interlingue (http://www.transifex.com/xfce/xfce-panel-plugins/language/ie/)
+xfce4-mpc-plugin,78,0,0,24,0,0,92,78,100.0,Interlingue (http://www.transifex.com/xfce/xfce-panel-plugins/language/ie/)
+xfce4-panel,1228,0,456,340,0,70,1327,1684,72.92161520190024,Interlingue (http://www.transifex.com/xfce/xfce4-panel/language/ie/)
+xfce4-panel-profiles,99,0,0,26,0,0,116,99,100.0,Interlingue (https://www.transifex.com/xfce/teams/16840/ie/)
+xfce4-places-plugin,162,0,0,47,0,0,166,162,100.0,Interlingue (http://www.transifex.com/xfce/xfce-panel-plugins/language/ie/)
+xfce4-power-manager,731,0,315,197,0,13,792,1046,69.88527724665391,Interlingue (http://www.transifex.com/xfce/xfce4-power-manager/language/ie/)
+xfce4-pulseaudio-plugin,143,0,5,34,0,1,151,148,96.62162162162163,Interlingue (http://www.transifex.com/xfce/xfce-panel-plugins/language/ie/)
+xfce4-screenshooter,254,0,202,65,0,11,241,456,55.70175438596491,Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/)
+xfce4-session,363,0,435,115,0,48,402,798,45.48872180451128,Interlingue (http://www.transifex.com/xfce/xfce4-session/language/ie/)
+xfce4-settings,945,0,988,283,0,169,998,1933,48.887739265390586,Interlingue (http://www.transifex.com/xfce/xfce4-settings/language/ie/)
+xfce4-terminal,812,0,910,305,0,97,916,1722,47.15447154471545,Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/)
+xfce4-whiskermenu-plugin,386,0,0,123,0,0,418,386,100.0,Interlingue (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ie/)
+xfdesktop,1019,0,13,242,0,2,1061,1032,98.74031007751938,Interlingue (http://www.transifex.com/xfce/xfdesktop/language/ie/)
+xfmpc,175,0,0,78,0,0,191,175,100.0,Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/)
+xfwm4,449,0,182,142,0,26,478,631,71.15689381933439,Interlingue (http://www.transifex.com/xfce/xfwm4/language/ie/)
+xreader,1323,0,346,346,0,35,1454,1669,79.2690233672858,Interlingue <ie@li.org>
+zypper,26,0,9203,10,0,1238,34,9229,0.28172066312709937,Occidental <https://l10n.opensuse.org/projects/zypper/master/ie/>

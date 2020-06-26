@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,2722,0,0,328,0,2722,0.0,Acoli (http://www.transifex.com/projects/p/fedora/language/ach/)
+certmonger,0,0,1669,0,0,270,0,1669,0.0,Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/)
+entangle,0,0,916,0,0,201,0,916,0.0,Acoli (http://www.transifex.com/projects/p/entangle/language/ach/)
+pootle,2424,0,0,459,0,0,3126,2424,100.0,LANGUAGE <LL@li.org>
+virtaal,1618,35,0,537,7,0,2061,1653,97.88263762855415,LANGUAGE <LL@li.org>

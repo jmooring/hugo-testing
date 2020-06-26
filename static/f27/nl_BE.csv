@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+clamtk,677,0,11,201,0,4,733,688,98.40116279069767,LANGUAGE <LL@li.org>
+gnomebaker,117,6,1063,46,1,244,119,1186,9.865092748735245,Dutch (Belgium) <nl_BE@li.org>
+gourmet,660,29,3250,186,8,698,680,3939,16.755521706016754,Dutch (Belgium) <nl_BE@li.org>
+lollypop,982,0,30,298,0,8,951,1012,97.03557312252964,Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/>
+manaplus,2922,0,3286,954,0,737,3047,6208,47.06829896907217,Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/)
+openerp,5259,0,35368,1182,0,4791,4620,40627,12.944593496935536,Dutch (Belgium) <nl_BE@li.org>
+openerp7,14647,0,31656,2564,0,3980,12675,46303,31.632939550353107,Dutch (Belgium) <nl_BE@li.org>
+siril,11214,0,0,1374,0,0,10908,11214,100.0,Dutch <antoine.hoeffelman[-at-]gmail.com>

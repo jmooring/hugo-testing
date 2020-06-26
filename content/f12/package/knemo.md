@@ -1,0 +1,82 @@
+---
+title: "knemo - translation progress for f12"
+package: knemo
+date: 2026-01-17T08:29:36+00:00
+started_languages: 44
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 87
+release: f12
+---
+The package knemo (version 0.6.3):
+
+* represents 1103 source words to be translated
+* is translated into 44 languages in Fedora f12
+
+
+* contains 87 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [da]({{< ref "/f12/language/da.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/da/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/da/knemo.po | 
+ | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/en_GB/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/en_GB/knemo.po | 
+ | [et]({{< ref "/f12/language/et.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/et/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/et/knemo.po | 
+ | [fr]({{< ref "/f12/language/fr.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/fr/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/fr/knemo.po | 
+ | [it]({{< ref "/f12/language/it.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/it/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/it/knemo.po | 
+ | [nl]({{< ref "/f12/language/nl.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/nl/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/nl/knemo.po | 
+ | [pt]({{< ref "/f12/language/pt.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/pt/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/pt/knemo.po | 
+ | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/pt_BR/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/pt_BR/knemo.po | 
+ | [sv]({{< ref "/f12/language/sv.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/sv/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/sv/knemo.po | 
+ | [uk]({{< ref "/f12/language/uk.md" >}}) | 1103 | 1103 | 100.0 | /mnt/stockage/packages/f12/knemo/po/uk/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/uk/knemo.po | 
+ | [fi]({{< ref "/f12/language/fi.md" >}}) | 1094 | 1103 | 99.2 | /mnt/stockage/packages/f12/knemo/po/fi/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/fi/knemo.po | 
+ | [de]({{< ref "/f12/language/de.md" >}}) | 1087 | 1103 | 98.5 | /mnt/stockage/packages/f12/knemo/po/de/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/de/knemo.po | 
+ | [es]({{< ref "/f12/language/es.md" >}}) | 1052 | 1103 | 95.4 | /mnt/stockage/packages/f12/knemo/po/es/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/es/knemo.po | 
+ | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 1052 | 1103 | 95.4 | /mnt/stockage/packages/f12/knemo/po/nb/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/nb/knemo.po | 
+ | [sr]({{< ref "/f12/language/sr.md" >}}) | 1052 | 1103 | 95.4 | /mnt/stockage/packages/f12/knemo/po/sr/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/sr/knemo.po | 
+ | [sr@ijekavian]({{< ref "/f12/language/sr@ijekavian.md" >}}) | 1052 | 1103 | 95.4 | /mnt/stockage/packages/f12/knemo/po/sr@ijekavian/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/sr@ijekavian/knemo.po | 
+ | [sr@ijekavian_Latn]({{< ref "/f12/language/sr@ijekavian_Latn.md" >}}) | 1052 | 1103 | 95.4 | /mnt/stockage/packages/f12/knemo/po/sr@ijekavianlatin/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/sr@ijekavianlatin/knemo.po | 
+ | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 1052 | 1103 | 95.4 | /mnt/stockage/packages/f12/knemo/po/sr@latin/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/sr@latin/knemo.po | 
+ | [hu]({{< ref "/f12/language/hu.md" >}}) | 1030 | 1103 | 93.4 | /mnt/stockage/packages/f12/knemo/po/hu/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/hu/knemo.po | 
+ | [ja]({{< ref "/f12/language/ja.md" >}}) | 1017 | 1103 | 92.2 | /mnt/stockage/packages/f12/knemo/po/ja/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/ja/knemo.po | 
+ | [gl]({{< ref "/f12/language/gl.md" >}}) | 500 | 1103 | 45.3 | /mnt/stockage/packages/f12/knemo/po/gl/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/gl/knemo.po | 
+ | [nds]({{< ref "/f12/language/nds.md" >}}) | 470 | 1103 | 42.6 | /mnt/stockage/packages/f12/knemo/po/nds/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/nds/knemo.po | 
+ | [tr]({{< ref "/f12/language/tr.md" >}}) | 457 | 1103 | 41.4 | /mnt/stockage/packages/f12/knemo/po/tr/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/tr/knemo.po | 
+ | [ru]({{< ref "/f12/language/ru.md" >}}) | 387 | 1103 | 35.1 | /mnt/stockage/packages/f12/knemo/po/ru/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/ru/knemo.po | 
+ | [cs]({{< ref "/f12/language/cs.md" >}}) | 370 | 1103 | 33.5 | /mnt/stockage/packages/f12/knemo/po/cs/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/cs/knemo.po | 
+ | [pl]({{< ref "/f12/language/pl.md" >}}) | 359 | 1103 | 32.5 | /mnt/stockage/packages/f12/knemo/po/pl/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/pl/knemo.po | 
+ | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 315 | 1103 | 28.6 | /mnt/stockage/packages/f12/knemo/po/zh_CN/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/zh_CN/knemo.po | 
+ | [bg]({{< ref "/f12/language/bg.md" >}}) | 231 | 1103 | 20.9 | /mnt/stockage/packages/f12/knemo/po/bg/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/bg/knemo.po | 
+ | [ga]({{< ref "/f12/language/ga.md" >}}) | 212 | 1103 | 19.2 | /mnt/stockage/packages/f12/knemo/po/ga/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/ga/knemo.po | 
+ | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 208 | 1103 | 18.9 | /mnt/stockage/packages/f12/knemo/po/zh_TW/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/zh_TW/knemo.po | 
+ | [km]({{< ref "/f12/language/km.md" >}}) | 200 | 1103 | 18.1 | /mnt/stockage/packages/f12/knemo/po/km/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/km/knemo.po | 
+ | [el]({{< ref "/f12/language/el.md" >}}) | 169 | 1103 | 15.3 | /mnt/stockage/packages/f12/knemo/po/el/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/el/knemo.po | 
+ | [ar]({{< ref "/f12/language/ar.md" >}}) | 167 | 1103 | 15.1 | /mnt/stockage/packages/f12/knemo/po/ar/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/ar/knemo.po | 
+ | [ro]({{< ref "/f12/language/ro.md" >}}) | 160 | 1103 | 14.5 | /mnt/stockage/packages/f12/knemo/po/ro/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/ro/knemo.po | 
+ | [ka]({{< ref "/f12/language/ka.md" >}}) | 144 | 1103 | 13.1 | /mnt/stockage/packages/f12/knemo/po/ka/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/ka/knemo.po | 
+ | [eo]({{< ref "/f12/language/eo.md" >}}) | 130 | 1103 | 11.8 | /mnt/stockage/packages/f12/knemo/po/eo/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/eo/knemo.po | 
+ | [br]({{< ref "/f12/language/br.md" >}}) | 102 | 1103 | 9.2 | /mnt/stockage/packages/f12/knemo/po/br/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/br/knemo.po | 
+ | [cy]({{< ref "/f12/language/cy.md" >}}) | 46 | 1103 | 4.2 | /mnt/stockage/packages/f12/knemo/po/cy/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/cy/knemo.po | 
+ | [lt]({{< ref "/f12/language/lt.md" >}}) | 20 | 1103 | 1.8 | /mnt/stockage/packages/f12/knemo/po/lt/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/lt/knemo.po | 
+ | [rw]({{< ref "/f12/language/rw.md" >}}) | 16 | 1103 | 1.5 | /mnt/stockage/packages/f12/knemo/po/rw/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/rw/knemo.po | 
+ | [hr]({{< ref "/f12/language/hr.md" >}}) | 5 | 1103 | 0.5 | /mnt/stockage/packages/f12/knemo/po/hr/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/hr/knemo.po | 
+ | [ms]({{< ref "/f12/language/ms.md" >}}) | 2 | 771 | 0.3 | /mnt/stockage/packages/f12/knemo/po/ms/kcm_knemo.po | 
+ | [is]({{< ref "/f12/language/is.md" >}}) | 0 | 1103 | 0.0 | /mnt/stockage/packages/f12/knemo/po/is/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/is/knemo.po | 
+ | [sk]({{< ref "/f12/language/sk.md" >}}) | 0 | 1103 | 0.0 | /mnt/stockage/packages/f12/knemo/po/sk/kcm_knemo.po/mnt/stockage/packages/f12/knemo/po/sk/knemo.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

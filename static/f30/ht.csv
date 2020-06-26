@@ -1,0 +1,87 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,6,0,486,6,0,85,8,492,1.2195121951219512,http://littlesvr.ca/ostd/
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Haitian Creole
+gala,0,0,140,0,0,34,0,140,0.0,none
+granite,0,0,250,0,0,83,0,250,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,218,0,768,188,0,232,208,986,22.10953346855984,Haitian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ht/>
+isomaster,5,1,668,5,1,101,6,674,0.741839762611276,http://littlesvr.ca/ostd/
+lightdm,0,0,84,0,0,4,0,84,0.0,Haitian; Haitian Creole <ht@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+scratch,949,12,509,392,5,229,1158,1470,64.5578231292517,LANGUAGE <LL@li.org>
+slick-greeter,14,0,197,7,0,40,18,211,6.6350710900473935,Haitian; Haitian Creole <ht@li.org>
+sugar-abacus,28,0,0,23,0,0,31,28,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,380,65,426,85,15,64,358,871,43.62801377726751,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,59,17,23,13,2,11,57,99,59.59595959595959,LANGUAGE <LL@li.org>
+sugar-finance,47,87,124,21,3,39,45,258,18.217054263565892,LANGUAGE <LL@li.org>
+sugar-fototoon,21,0,100,14,0,32,20,121,17.355371900826448,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,58,0,0,16,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,1,0,235,1,0,61,1,236,0.423728813559322,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,69,0,0,22,0,69,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,231,1,49,82,1,11,254,281,82.20640569395017,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,24,8,110,13,7,54,31,142,16.901408450704224,LANGUAGE <LL@li.org>
+sugar-paint,37,0,69,34,0,27,40,106,34.90566037735849,LANGUAGE <LL@li.org>
+sugar-physics,13,0,35,13,0,15,13,48,27.083333333333332,LANGUAGE <LL@li.org>
+sugar-pippy,36,15,223,12,1,53,37,274,13.138686131386862,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,0,0,73,0,0,25,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-record,12,8,42,10,2,12,12,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,57,1,15,27,1,9,48,73,78.08219178082192,LANGUAGE <LL@li.org>
+sugar-typing-turtle,266,66,267,44,19,64,256,599,44.40734557595994,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+vocal,0,0,377,0,0,79,0,377,0.0,Haitian; Haitian Creole <ht@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none

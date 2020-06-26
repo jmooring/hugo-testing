@@ -1,0 +1,132 @@
+---
+title: "gn-Guarani (Avañe’ẽ) - translation progress for f34"
+date: 2026-01-18T02:22:22+00:00
+code: gn
+name_english: Guarani
+name_local: Avañe’ẽ
+progress: 6.21
+progress_d: 0.02
+release: f34
+territories:
+ - AR
+ - BO
+ - PY
+polib_error_count: 0
+could_not_process_count: 119
+---
+
+Language progress for Guarani (gn) in Fedora f34 is:
+
+* 6.21% when we only look on started packages for this language.
+* 0.02% when we compare to every single translatable string in Fedora f34.
+
+Possible scripts are: Latn
+
+* Total translatable string in Fedora f34: 16410615
+* Source words to translate in started packages: 54571
+* Translated words: 3388
+
+
+Download:
+
+
+
+
+* [gn generated stats (4.4 kB)]({{% resource url="/f34/gn.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [sugar]({{< ref "/f34/package/sugar.md" >}}) | 2219 | 2219 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus]({{< ref "/f34/package/sugar-abacus.md" >}}) | 34 | 34 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon]({{< ref "/f34/package/sugar-fototoon.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox]({{< ref "/f34/package/sugar-jukebox.md" >}}) | 65 | 65 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze]({{< ref "/f34/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy]({{< ref "/f34/package/sugar-pippy.md" >}}) | 117 | 117 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3]({{< ref "/f34/package/sugar-toolkit-gtk3.md" >}}) | 156 | 156 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics]({{< ref "/f34/package/sugar-physics.md" >}}) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat]({{< ref "/f34/package/sugar-chat.md" >}}) | 78 | 137 | 56.9 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data]({{< ref "/f34/package/lxmenu-data.md" >}}) | 53 | 97 | 54.6 |  | 
+ | [gnome-menus]({{< ref "/f34/package/gnome-menus.md" >}}) | 71 | 133 | 53.4 |  | 
+ | [sugar-deducto]({{< ref "/f34/package/sugar-deducto.md" >}}) | 40 | 107 | 37.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-colordeducto]({{< ref "/f34/package/sugar-colordeducto.md" >}}) | 39 | 109 | 35.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-read]({{< ref "/f34/package/sugar-read.md" >}}) | 38 | 114 | 33.3 | LANGUAGE <LL@li.org> | 
+ | [iso-codes]({{< ref "/f34/package/iso-codes.md" >}}) | 257 | 982 | 26.2 | Guarani <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gn/> | 
+ | [sugar-finance]({{< ref "/f34/package/sugar-finance.md" >}}) | 40 | 258 | 15.5 | LANGUAGE <LL@li.org> | 
+ | [stellarium]({{< ref "/f34/package/stellarium.md" >}}) | 25 | 26769 | 0.1 | Guarani <gn@li.org> | 
+ | [bookworm]({{< ref "/f34/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
+ | [coin]({{< ref "/f34/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
+ | [dippi]({{< ref "/f34/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
+ | [elementary-capnet-assist]({{< ref "/f34/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
+ | [elementary-code]({{< ref "/f34/package/elementary-code.md" >}}) | 0 | 1608 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files]({{< ref "/f34/package/elementary-files.md" >}}) | 0 | 3513 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter]({{< ref "/f34/package/elementary-greeter.md" >}}) | 0 | 200 | 0.0 |  | 
+ | [elementary-icon-theme]({{< ref "/f34/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
+ | [elementary-mail]({{< ref "/f34/package/elementary-mail.md" >}}) | 0 | 658 | 0.0 |  | 
+ | [elementary-music]({{< ref "/f34/package/elementary-music.md" >}}) | 0 | 1205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications]({{< ref "/f34/package/elementary-notifications.md" >}}) | 0 | 36 | 0.0 | none | 
+ | [elementary-photos]({{< ref "/f34/package/elementary-photos.md" >}}) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool]({{< ref "/f34/package/elementary-screenshot-tool.md" >}}) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon]({{< ref "/f34/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
+ | [elementary-shortcut-overlay]({{< ref "/f34/package/elementary-shortcut-overlay.md" >}}) | 0 | 130 | 0.0 | none | 
+ | [elementary-sideload]({{< ref "/f34/package/elementary-sideload.md" >}}) | 0 | 319 | 0.0 | none | 
+ | [elementary-tasks]({{< ref "/f34/package/elementary-tasks.md" >}}) | 0 | 364 | 0.0 | none | 
+ | [elementary-terminal]({{< ref "/f34/package/elementary-terminal.md" >}}) | 0 | 643 | 0.0 |  | 
+ | [elementary-theme]({{< ref "/f34/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
+ | [elementary-videos]({{< ref "/f34/package/elementary-videos.md" >}}) | 0 | 391 | 0.0 |  | 
+ | [gala]({{< ref "/f34/package/gala.md" >}}) | 0 | 358 | 0.0 | none | 
+ | [granite]({{< ref "/f34/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
+ | [harvey]({{< ref "/f34/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
+ | [nutty]({{< ref "/f34/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
+ | [optimizer]({{< ref "/f34/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2]({{< ref "/f34/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit]({{< ref "/f34/package/pantheon-agent-polkit.md" >}}) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock]({{< ref "/f34/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode]({{< ref "/f34/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal]({{< ref "/f34/package/sugar-terminal.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard]({{< ref "/f34/package/switchboard.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y]({{< ref "/f34/package/switchboard-plug-a11y.md" >}}) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about]({{< ref "/f34/package/switchboard-plug-about.md" >}}) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications]({{< ref "/f34/package/switchboard-plug-applications.md" >}}) | 0 | 227 | 0.0 | none | 
+ | [switchboard-plug-bluetooth]({{< ref "/f34/package/switchboard-plug-bluetooth.md" >}}) | 0 | 206 | 0.0 | none | 
+ | [switchboard-plug-display]({{< ref "/f34/package/switchboard-plug-display.md" >}}) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard]({{< ref "/f34/package/switchboard-plug-keyboard.md" >}}) | 0 | 636 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad]({{< ref "/f34/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 282 | 0.0 | none | 
+ | [switchboard-plug-networking]({{< ref "/f34/package/switchboard-plug-networking.md" >}}) | 0 | 522 | 0.0 |  | 
+ | [switchboard-plug-notifications]({{< ref "/f34/package/switchboard-plug-notifications.md" >}}) | 0 | 142 | 0.0 | none | 
+ | [switchboard-plug-onlineaccounts]({{< ref "/f34/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 322 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell]({{< ref "/f34/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 336 | 0.0 |  | 
+ | [switchboard-plug-printers]({{< ref "/f34/package/switchboard-plug-printers.md" >}}) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing]({{< ref "/f34/package/switchboard-plug-sharing.md" >}}) | 0 | 141 | 0.0 | none | 
+ | [switchboard-plug-sound]({{< ref "/f34/package/switchboard-plug-sound.md" >}}) | 0 | 193 | 0.0 |  | 
+ | [wingpanel]({{< ref "/f34/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | none | 
+ | [wingpanel-applications-menu]({{< ref "/f34/package/wingpanel-applications-menu.md" >}}) | 0 | 415 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth]({{< ref "/f34/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 78 | 0.0 | none | 
+ | [wingpanel-indicator-datetime]({{< ref "/f34/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard]({{< ref "/f34/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 53 | 0.0 |  | 
+ | [wingpanel-indicator-network]({{< ref "/f34/package/wingpanel-indicator-network.md" >}}) | 0 | 131 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight]({{< ref "/f34/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 45 | 0.0 |  | 
+ | [wingpanel-indicator-notifications]({{< ref "/f34/package/wingpanel-indicator-notifications.md" >}}) | 0 | 101 | 0.0 | none | 
+ | [wingpanel-indicator-power]({{< ref "/f34/package/wingpanel-indicator-power.md" >}}) | 0 | 191 | 0.0 | none | 
+ | [wingpanel-indicator-session]({{< ref "/f34/package/wingpanel-indicator-session.md" >}}) | 0 | 108 | 0.0 | none | 
+ | [wingpanel-indicator-sound]({{< ref "/f34/package/wingpanel-indicator-sound.md" >}}) | 0 | 96 | 0.0 | none | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

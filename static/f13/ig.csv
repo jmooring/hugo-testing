@@ -1,0 +1,32 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+epiphany,1949,511,544,536,146,70,2038,3004,64.88015978695073,Igbo
+gnome-desktop,203,14,132,29,3,20,227,349,58.16618911174785,Igbo
+gnome-menus,116,15,26,42,5,9,121,157,73.88535031847134,<en@li.org>
+gnome-panel,3229,878,398,414,119,85,3207,4505,71.67591564927858,Igbo
+gnome-session,117,86,519,20,28,65,131,722,16.20498614958449,Igbo
+metacity,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+mutter,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+mutter-mbl,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+nautilus,3745,2655,1744,723,386,205,3973,8144,45.98477406679764,Igbo
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+sugar,9,0,233,8,0,91,10,242,3.71900826446281,Igbo
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,627,0,0,146,0,627,0.0,
+sugar-chat,0,0,21,0,0,10,0,21,0.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,79,0,0,16,0,79,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2070,0,0,695,0,2070,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,73,0,0,44,0,73,0.0,LANGUAGE <LL@li.org>

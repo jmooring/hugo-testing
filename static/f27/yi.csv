@@ -1,0 +1,94 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,1,0,3953,1,0,460,1,3954,0.025290844714213456,Yiddish <raphael@cs.uky.edu>
+appcenter,0,0,757,0,0,177,0,757,0.0,LANGUAGE <LL@li.org>
+asunder,4,0,491,4,0,87,4,495,0.8080808080808081,http://littlesvr.ca/ostd/
+atk,31,96,248,31,48,47,32,375,8.266666666666666,Yiddish <raphael@cs.uky.edu>
+atril,12,0,1780,10,0,403,10,1792,0.6696428571428571,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+audience,0,0,106,0,0,48,0,106,0.0,
+caja,44,0,9312,39,0,1478,44,9356,0.470286447199658,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+calibre,3,0,157298,2,0,18098,3,157301,0.001907171600943414,Yiddish (http://www.transifex.com/calibre/calibre/language/yi/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Yiddish <raphael@cs.uky.edu>
+cinnamon-translations,92,0,8354,71,0,1862,100,8446,1.0892730286526164,Yiddish <yi@li.org>
+clutter,1,0,3056,1,0,674,1,3057,0.03271180896303566,None <>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,0,0,53,0,0,32,0,53,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,
+elementary-capnet-assist,0,0,66,0,0,10,0,66,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+engrampa,7,0,1938,7,0,347,8,1945,0.35989717223650386,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+eom,21,0,1696,17,0,301,21,1717,1.22306348281887,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+gdk-pixbuf2,792,466,90,118,73,11,751,1348,58.753709198813056,None <>
+gimp,123,3590,20760,104,1448,5071,139,24473,0.5025946961958077,Yiddish <raphael@cs.uky.edu>
+glade2,399,107,5334,139,24,1137,410,5840,6.832191780821918,Yiddish <>
+glib2,688,715,3374,105,127,515,692,4777,14.402344567720327,Yiddish <raphael@cs.uky.edu>
+gnome-desktop,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+gnome-desktop3,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+gnome-mime-data,1,0,826,1,0,340,1,827,0.12091898428053204,Yiddish <raphael@cs.uky.edu>
+gnome-vfs2,209,25,1048,62,9,177,198,1282,16.302652106084242,Yiddish <raphael@cs.uky.edu>
+gnomebaker,0,0,1186,0,0,291,0,1186,0.0,Yiddish <yi@li.org>
+gourmet,1,0,3938,1,0,891,6,3939,0.02538715410002539,Yiddish <yi@li.org>
+gtk2,5223,4277,4204,963,951,870,5195,13704,38.11295971978984,None <>
+gtk3,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+gtk4,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,8,1,665,8,1,98,9,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libbonobo,460,17,47,93,5,10,434,524,87.78625954198473,Yiddish <raphael@cs.uky.edu>
+libbonoboui,282,33,45,90,4,19,260,360,78.33333333333333,Yiddish <raphael@cs.uky.edu>
+libgnome,401,24,982,78,9,132,375,1407,28.50035536602701,Yiddish <raphael@cs.uky.edu>
+libgnomecanvas,339,18,0,92,2,0,352,357,94.9579831932773,Yiddish <raphael@cs.uky.edu>
+libgnomeui,40,29,1350,31,9,305,43,1419,2.8188865398167726,Yiddish <raphael@cs.uky.edu>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Yiddish (http://www.transifex.com/mate/MATE/language/yi/)
+mate-applets,10,0,2479,9,0,551,10,2489,0.4017677782241864,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-control-center,23,0,2635,20,0,608,24,2658,0.8653122648607976,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-desktop,33,0,2272,7,0,292,35,2305,1.4316702819956615,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-media,6,0,220,3,0,93,7,226,2.6548672566371683,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-menu,36,0,280,27,0,91,37,316,11.39240506329114,Yiddish <yi@li.org>
+mate-panel,60,0,4304,19,0,571,56,4364,1.374885426214482,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-session-manager,6,0,675,3,0,111,8,681,0.881057268722467,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-system-monitor,12,0,1321,10,0,303,15,1333,0.9002250562640659,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+mate-utils,18,0,3659,17,0,643,22,3677,0.4895295077508839,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-GConf2,1,0,3953,1,0,460,1,3954,0.025290844714213456,Yiddish <raphael@cs.uky.edu>
+mingw-atk,31,96,248,31,48,47,32,375,8.266666666666666,Yiddish <raphael@cs.uky.edu>
+mingw-gdk-pixbuf,792,466,90,118,73,11,751,1348,58.753709198813056,None <>
+mingw-glib2,688,715,3374,105,127,515,692,4777,14.402344567720327,Yiddish <raphael@cs.uky.edu>
+mingw-gtk2,5223,4277,4204,963,951,870,5195,13704,38.11295971978984,None <>
+mingw-gtk3,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+mintmenu,66,0,1868,44,0,335,71,1934,3.4126163391933813,Yiddish <yi@li.org>
+mozo,1,0,41,1,0,15,1,42,2.380952380952381,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+nautilus,31,59,6886,29,32,1153,31,6976,0.44438073394495414,Yiddish <raphael@cs.uky.edu>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-geoclue2,0,0,43,0,0,11,0,43,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pluma,25,0,5043,21,0,1087,26,5068,0.49329123914759276,Yiddish (https://www.transifex.com/mate/teams/13566/yi/)
+pmount,0,0,723,0,0,63,0,723,0.0,Yiddish <yi@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,189,0,0,68,0,189,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,91,0,0,31,0,91,0.0,none
+switchboard-plug-bluetooth,0,0,73,0,0,27,0,73,0.0,none
+switchboard-plug-display,0,0,104,0,0,41,0,104,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,403,0,0,156,0,403,0.0,none
+switchboard-plug-mouse-touchpad,0,0,67,0,0,27,0,67,0.0,none
+switchboard-plug-networking,0,0,442,0,0,128,0,442,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,144,0,0,53,0,144,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sound,0,0,90,0,0,37,0,90,0.0,
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none

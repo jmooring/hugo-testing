@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gscan2pdf,0,0,1550,0,0,465,0,1550,0.0,Abkhazian <ab@li.org>
+openerp,3,0,23717,2,0,2259,3,23720,0.012647554806070825,
+stellarium,0,0,11181,0,0,3145,0,11181,0.0,Abkhazian <ab@li.org>

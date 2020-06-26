@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,4644,0,0,1520,0,0,4684,4644,100.0,Pathanisation.pakhtosoft.com <admin@pakhtosoft.com>
+gnome-panel,2097,4,2572,540,2,110,2292,4673,44.87481275411941,Pashto <pp@pathanisation.pakhtosoft.com>
+gnome-screensaver,376,0,579,102,0,50,430,955,39.3717277486911,Pashto <pakhtosoft@gmail.com>
+iso-codes,120,783,11436,115,703,7810,118,12339,0.9725261366399223,Pushto
+kde-i18n,7,0,0,6,0,0,6,7,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+libgnomeui,868,0,441,292,0,42,892,1309,66.31016042780749,Pashto <pakhtosoft@gmail.com>
+minbar,418,0,0,105,0,0,487,418,100.0,Pashto
+pidgin,2141,677,12836,956,238,2142,2704,15654,13.677015459307526,Pashto
+rhythmbox,1298,0,2721,533,0,390,1468,4019,32.296591191838765,Pashto <pakhtosoft@gmail.com>
+sugar-journal,39,0,0,28,0,0,36,39,100.0,LANGUAGE <LL@li.org>

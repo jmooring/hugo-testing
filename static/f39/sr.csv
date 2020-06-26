@@ -1,0 +1,1120 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,8176,0,0,994,0,0,8464,8176,100.0,Serbian <gnom@prevod.org>
+NetworkManager,597,3711,24886,127,744,1380,622,29194,2.0449407412482015,Serbian <gnom@prevod.org>
+NetworkManager-fortisslvpn,317,2,2,57,1,2,318,321,98.75389408099689,српски <gnome-sr@googlegroups.org>
+NetworkManager-iodine,160,0,0,50,0,0,182,160,100.0,Serbian <gnom@prevod.org>
+NetworkManager-l2tp,418,0,870,82,0,117,438,1288,32.45341614906832,српски <gnome-sr@googlegroups.org>
+NetworkManager-libreswan,706,17,208,124,5,25,723,931,75.83243823845328,srpski <gnome-sr@googlegroups.org>
+NetworkManager-openconnect,12906,0,6173,2224,0,974,14173,19079,67.6450547722627,srpski <gnome-sr@googlegroups.org>
+NetworkManager-openvpn,2152,3,2,299,3,2,2133,2157,99.76819656930923,Serbian <српски <gnome-sr@googlegroups.org>>
+NetworkManager-pptp,519,5,5,87,2,5,538,529,98.10964083175804,Serbian <(nothing)>
+NetworkManager-sstp,829,15,34,140,4,5,826,878,94.41913439635535,српски <gnome-sr@googlegroups.org>
+NetworkManager-vpnc,1222,0,0,203,0,0,1244,1222,100.0,српски <gnome-sr@googlegroups.org>
+PackageKit,1266,0,0,318,0,0,1204,1266,100.0,Serbian (http://www.transifex.com/freedesktop/packagekit/language/sr/)
+Thunar,5430,0,0,976,0,0,5137,5430,100.0,Serbian (https://app.transifex.com/xfce/teams/16840/sr/)
+Zim,787,192,2407,321,65,391,790,3386,23.242764323685766,Serbian <sr@li.org>
+a2ps,1532,0,0,184,0,0,1521,1532,100.0,Serbian <(nothing)>
+abattis-cantarell-fonts,54,0,0,6,0,0,46,54,100.0,Serbian <gnome-sr@googlegroups.com>
+abrt,3304,281,91,377,28,12,3372,3676,89.88030467899891,Serbian (http://www.transifex.com/projects/p/fedora-abrt/language/sr/)
+accerciser,666,0,0,228,0,0,634,666,100.0,Serbian <gnom@prevod.org>
+accountsservice,59,0,0,10,0,0,67,59,100.0,Serbian (http://www.transifex.com/freedesktop/accountsservice/language/sr/)
+agenda,10,7,0,4,2,0,11,17,58.82352941176471,Serbian <sr@li.org>
+aisleriot,25247,0,0,2223,0,0,21491,25247,100.0,Serbian <gnom@prevod.org>
+akregator,1719,70,18,417,16,6,1669,1807,95.1300498063088,Serbian <kde-i18n-sr@kde.org>
+alacarte,93,0,0,41,0,0,89,93,100.0,Serbian <српски <gnome-sr@googlegroups.org>>
+almanah,805,0,0,143,0,0,839,805,100.0,Serbian <gnom@prevod.org>
+amarok,15696,41,82,2777,1,2,16045,15819,99.22245401099943,Serbian <kde-i18n-sr@kde.org>
+amtk,228,0,0,79,0,0,205,228,100.0,српски <gnome-sr@googlegroups.org>
+anaconda,5067,1489,2652,999,288,257,4916,9208,55.02823631624673,Serbian <https://translate.fedoraproject.org/projects/anaconda/master/sr/>
+android-tools,12990,30,3675,2059,6,521,13829,16695,77.80772686433065,Serbian <(nothing)>
+anjuta,16805,0,0,4121,0,0,16721,16805,100.0,Serbian <gnom@prevod.org>
+apostrophe,445,0,0,152,0,0,464,445,100.0,српски <gnome-sr@googlegroups.org>
+appstream,3929,490,1663,439,53,176,3592,6082,64.60046037487669,Serbian <https://hosted.weblate.org/projects/appstream/translations/sr/>
+apptainer,10667,0,0,1620,0,0,11385,10667,100.0,Serbian <(nothing)>
+arandr,173,0,0,38,0,0,153,173,100.0,Serbian <https://hosted.weblate.org/projects/arandr/translations/sr/>
+aria2,117,0,7379,17,0,383,114,7496,1.5608324439701176,Serbian <sr@li.org>
+ark,1804,89,8,327,11,3,1822,1901,94.89742240925828,Serbian <kde-i18n-sr@kde.org>
+arm-none-eabi-binutils-cs,45177,186,78,6952,35,9,45799,45441,99.41902687000727,Serbian <(nothing)>
+arm-none-eabi-gcc-cs,17377,59693,59466,2618,8160,5873,16778,136536,12.72704634675104,Serbian <gnu@prevod.org>
+aspell,1706,33,58,290,7,6,1549,1797,94.93600445186422,Serbian <gnu@prevod.org>
+asunder,427,29,37,77,4,11,448,493,86.61257606490872,
+at-spi2-core,447,0,0,171,0,0,427,447,100.0,Serbian <gnom@prevod.org>
+atomix,377,0,0,104,0,0,413,377,100.0,Serbian <gnom@prevod.org>
+atril,7803,8,15,1026,2,2,7058,7826,99.70610784564273,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+audacious,1681,0,143,708,0,38,1772,1824,92.16008771929825,Serbian (http://app.transifex.com/audacious/audacious/language/sr/)
+audacious-plugins,5619,0,2797,1412,0,552,5760,8416,66.76568441064639,Serbian (http://app.transifex.com/audacious/audacious/language/sr/)
+audacity,17042,1090,801,3979,278,134,17076,18933,90.01214810119896,српски <gnome-sr@googlegroups.org>
+avahi,865,2,1,165,2,1,896,868,99.65437788018433,Serbian (http://www.transifex.com/lennart/avahi/language/sr/)
+avogadro2,232,103,39,93,44,16,251,374,62.03208556149733,Serbian <https://hosted.weblate.org/projects/avogadro/avogadroapp/sr/>
+avogadro2-libs,3751,662,199,1147,189,53,3756,4612,81.33130962705984,Serbian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sr/>
+avr-binutils,45177,186,78,6952,35,9,45799,45441,99.41902687000727,Serbian <(nothing)>
+avr-gcc,17377,59851,59965,2618,8180,5914,16778,137193,12.666098124539882,Serbian <gnu@prevod.org>
+backintime,2361,0,0,384,0,0,2378,2361,100.0,Serbian <https://translate.codeberg.org/projects/backintime/common/sr/>
+baloo-widgets,0,14,38,0,7,24,0,52,0.0,Serbian <kde-i18n-sr@kde.org>
+balsa,13048,0,0,3153,0,0,13540,13048,100.0,Serbian <gnome-sr@googlegroups.org>
+baobab,544,0,0,144,0,0,596,544,100.0,Serbian <(nothing)>
+bash,11740,0,0,597,0,0,10975,11740,100.0,Serbian <(nothing)>
+bijiben,759,0,0,249,0,0,789,759,100.0,srpski <gnome-sr@googlegroups.org>
+binutils,44734,186,78,6909,35,9,45402,44998,99.41330725810036,Serbian <(nothing)>
+bison,1686,111,9,302,4,2,1729,1806,93.35548172757476,Serbian <(nothing)>
+bleachbit,1214,61,648,261,10,93,1180,1923,63.13052522100884,
+blender,37782,0,0,13045,0,0,35083,37782,100.0,Nikola Radovanovic
+blivet-gui,663,136,312,201,26,40,695,1111,59.67596759675967,Serbian
+blogilo,1392,0,0,337,0,0,1289,1392,100.0,Serbian <kde-i18n-sr@kde.org>
+bluedevil,550,44,29,185,7,5,529,623,88.28250401284109,Serbian <kde-i18n-sr@kde.org>
+bluefish,674,1755,2668,339,722,524,709,5097,13.223464783205808,<en@li.org>
+blueman,933,399,1033,253,137,434,962,2365,39.450317124735726,Serbian <https://hosted.weblate.org/projects/blueman/2-4/sr/>
+bomber,96,14,0,26,1,0,83,110,87.27272727272727,Serbian <kde-i18n-sr@kde.org>
+bookworm,156,179,460,47,30,72,152,795,19.622641509433965,Serbian <https://hosted.weblate.org/projects/bookworm/bookworm/sr/>
+bottles,3359,2,90,666,1,9,3255,3451,97.33410605621559,Serbian <https://hosted.weblate.org/projects/bottles/bottles/sr/>
+bovo,81,0,0,25,0,0,67,81,100.0,Serbian <kde-i18n-sr@kde.org>
+brasero,11098,0,0,1938,0,0,10272,11098,100.0,српски <gnome-sr@googlegroups.org>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+bubblemail,0,0,478,0,0,141,0,478,0.0,none
+budgie-control-center,3947,18,12,1796,10,2,3780,3977,99.24566255971838,Serbian <trans-sr@lists.fedoraproject.org>
+budgie-desktop,598,0,1065,196,0,223,634,1663,35.959110042092604,Serbian (Serbia) (https://app.transifex.com/buddiesofbudgie/teams/129844/sr_RS/)
+budgie-screensaver,291,0,0,58,0,0,298,291,100.0,Serbian <gnom@prevod.org>
+budgie-session,734,0,0,118,0,0,760,734,100.0,srpski <gnome-sr@googlegroups.org>
+byzanz,236,0,0,52,0,0,235,236,100.0,Serbian <gnom@prevod.org>
+cairo-dock,11503,0,3425,1381,0,273,10063,14928,77.05653804930333,српски <српски <xfce-i18n@xfce.org>>
+cairo-dock-plug-ins,10203,0,0,1722,0,0,9246,10203,100.0,српски <српски <xfce-i18n@xfce.org>>
+caja,9675,0,0,1604,0,0,9221,9675,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+caja-actions,18815,0,0,1516,0,0,17057,18815,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+caja-extensions,760,0,0,145,0,0,753,760,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+calamares,74,0,447,20,0,71,69,521,14.203454894433781,Serbian (https://app.transifex.com/calamares/teams/20061/sr/)
+calibre,13723,0,163547,3025,0,16799,13113,177270,7.741298584080781,Serbian (http://app.transifex.com/calibre/calibre/language/sr/)
+calls,44,0,0,19,0,0,44,44,100.0,Serbian <српски <gnome-sr@googlegroups.org>>
+camorama,455,132,248,96,29,44,463,835,54.49101796407185,Serbian (sr) <serbiangnome-lista@nongnu.org>
+caribou,169,0,0,57,0,0,165,169,100.0,Serbian <gnom@prevod.org>
+cataclysm-dda,1337,0,876219,154,0,71567,1235,877556,0.15235494942772881,Serbian (https://www.transifex.com/cataclysm-dda-translators/teams/2217/sr/)
+catfish,1104,0,0,163,0,0,1069,1104,100.0,Serbian (https://app.transifex.com/xfce/teams/16840/sr/)
+cawbird,519,176,538,194,45,98,563,1233,42.092457420924575,Serbian (http://www.transifex.com/cawbird/cawbird/language/sr/)
+celluloid,709,48,92,191,15,15,720,849,83.51001177856303,Serbian <https://hosted.weblate.org/projects/celluloid/celluloid/sr/>
+cflow,297,280,269,76,43,52,303,846,35.1063829787234,Serbian <(nothing)>
+chatty,732,0,0,240,0,0,775,732,100.0,Serbian <gnome-sr@googlegroups.com>
+cheese,1242,0,0,253,0,0,1236,1242,100.0,Serbian <(nothing)>
+chkconfig,477,76,40,88,12,8,456,593,80.43844856661046,Serbian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/sr/>
+chromium,0,0,0,0,0,0,0,0,0.0,
+cinnamon-control-center,2596,18,12,1500,10,2,2580,2626,98.85757806549886,Serbian <trans-sr@lists.fedoraproject.org>
+cinnamon-desktop,465,0,3,63,0,1,452,468,99.35897435897436,Serbian <gnom@prevod.org>
+cinnamon-translations,25551,0,1397,5869,0,315,25565,26948,94.81594181386373,Serbian <(nothing)>
+clapper,0,0,253,0,0,103,0,253,0.0,Serbian (Cyrillic)
+clawsker,1312,0,0,206,0,0,1352,1312,100.0,Serbian <gnome@prevod.org>
+clementine,2947,0,856,866,0,195,2765,3803,77.49145411517223,Serbian (http://app.transifex.com/davidsansome/clementine/language/sr/)
+clutter,3057,0,0,675,0,0,2708,3057,100.0,српски <gnom@prevod.org>
+cogl,393,0,0,80,0,0,389,393,100.0,Serbian <gnom@prevod.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,1928,0,62,211,0,42,1817,1990,96.88442211055276,Serbian (http://www.transifex.com/freedesktop/colord/language/sr/)
+compat-gdbm,779,0,0,214,0,0,853,779,100.0,Serbian <(nothing)>
+compiz,54,1186,3145,18,406,455,48,4385,1.2314709236031927,Serbian <opensuse-translation@opensuse.org>
+console-setup,984,0,0,179,0,0,815,984,100.0,Serbian <debian-l10n-serbian@lists.debian.org>
+coreutils,20501,1113,242,1815,51,14,20204,21856,93.80032942898976,Serbian <(nothing)>
+cpeditor,439,9,91,286,5,40,434,539,81.44712430426716,Serbian <kde-i18n-sr@kde.org>
+cpio,1696,183,31,289,19,6,1738,1910,88.79581151832461,Serbian <(nothing)>
+cppi,596,0,0,61,0,0,572,596,100.0,Serbian <gnu@prevod.org>
+crash,14968,0,0,2268,0,0,15270,14968,100.0,Serbian <(nothing)>
+cross-binutils,44734,186,78,6909,35,9,45402,44998,99.41330725810036,Serbian <(nothing)>
+cross-gcc,17449,57914,55061,2629,7946,5474,16850,130424,13.378672636937988,Serbian <gnu@prevod.org>
+cryptsetup,5646,177,81,781,23,4,6093,5904,95.630081300813,Serbian <(nothing)>
+cups-pk-helper,149,0,0,22,0,0,133,149,100.0,Serbian (http://www.transifex.com/freedesktop/cups-pk-helper/language/sr/)
+d-feet,123,0,0,39,0,0,122,123,100.0,српски <gnome-sr@googlegroups.org>
+dasher,2550,0,0,500,0,0,2802,2550,100.0,Serbian <gnom@prevod.org>
+datamash,853,113,456,131,21,57,844,1422,59.985935302391,Serbian <(nothing)>
+dconf-editor,5300,0,0,671,0,0,5305,5300,100.0,Serbian <(nothing)>
+debconf,191,0,0,17,0,0,150,191,100.0,Serbian
+deepin-daemon,1146,0,68,244,0,15,1126,1214,94.3986820428336,Serbian (https://www.transifex.com/linuxdeepin/teams/3617/sr/)
+deepin-pw-check,67,0,17,12,0,1,66,84,79.76190476190477,Serbian (https://www.transifex.com/linuxdeepin/teams/3617/sr/)
+deja-dup,1976,0,1752,319,0,129,2058,3728,53.00429184549357,Serbian <sr@li.org>
+deluge,1983,0,2357,731,0,602,1955,4340,45.69124423963133,Serbian <sr@li.org>
+devhelp,799,0,0,199,0,0,828,799,100.0,srpski <gnome-sr@googlegroups.org>
+dia,13230,0,0,4732,0,0,13714,13230,100.0,Serbian <gnom@prevod.org>
+dialect,943,64,18,635,16,6,907,1025,92.0,
+dialog,37,0,0,25,0,0,38,37,100.0,Serbian <(nothing)>
+diffutils,1864,0,0,263,0,0,1773,1864,100.0,Serbian <(nothing)>
+dippi,0,0,1540,0,0,255,0,1540,0.0,none
+dnf,1570,127,3021,414,19,446,1645,4718,33.27681220856295,Serbian <https://translate.fedoraproject.org/projects/dnf/dnf-master/sr/>
+dnf-plugins-core,362,34,1741,71,7,238,370,2137,16.939635002339728,Serbian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/sr/>
+dnf-plugins-extras,116,0,5,20,0,1,137,121,95.86776859504133,Serbian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/sr/>
+dnfdragora,1770,0,1,473,0,1,1812,1771,99.94353472614343,Serbian (https://www.transifex.com/MageiaLinux/teams/9361/sr/)
+dolphin,1277,282,2810,401,93,140,1470,4369,29.228656443122,Serbian <kde-i18n-sr@kde.org>
+dolphin-emu,192,0,15911,111,0,2529,197,16103,1.1923244116003229,Serbian (http://app.transifex.com/delroth/dolphin-emu/language/sr/)
+dos2unix,5153,58,161,415,8,7,4752,5372,95.92330603127327,Serbian <(nothing)>
+doublecmd,15120,750,5494,4813,315,1210,15401,21364,70.7732634338139,srpski <xfce4@xfce4.org>
+dragon,188,91,2,40,48,1,173,281,66.90391459074732,Serbian <kde-i18n-sr@kde.org>
+drgeo,1882,83,20,438,14,9,1756,1985,94.81108312342569,Serbian (sr) <serbiangnome-lista@nongnu.org>
+e16,1424,35,1157,343,8,165,1434,2616,54.43425076452599,српски <српски <xfce-i18n@xfce.org>>
+e2fsprogs,10667,0,0,1620,0,0,11385,10667,100.0,Serbian <(nothing)>
+easytag,5264,0,0,1024,0,0,5364,5264,100.0,Serbian <gnom@prevod.org>
+edgar,2,0,11472,3,0,1532,3,11474,0.01743071291615827,Serbian <sr@li.org>
+efl,155,1,0,58,1,0,162,156,99.35897435897436,српски <xfce4@xfce4.org>
+eiskaltdcpp,3531,8,87,1136,3,14,3448,3626,97.3800330943188,Serbian (https://www.transifex.com/tehnick/teams/11818/sr/)
+electrum,0,0,13041,0,0,2448,0,13041,0.0,Serbian (Latin)
+elementary-calculator,90,12,93,43,5,17,89,195,46.15384615384615,Serbian <https://l10n.elementary.io/projects/calculator/calculator/sr/>
+elementary-calendar,502,30,120,197,9,15,498,652,76.99386503067484,Serbian <https://l10n.elementary.io/projects/calendar/calendar/sr/>
+elementary-camera,65,2,66,19,1,15,65,133,48.87218045112782,Serbian <https://l10n.elementary.io/projects/camera/camera/sr/>
+elementary-code,398,256,918,141,51,102,379,1572,25.318066157760814,Serbian <https://l10n.elementary.io/projects/code/code/sr/>
+elementary-files,1905,247,386,397,78,76,1986,2538,75.05910165484634,Serbian <https://l10n.elementary.io/projects/files/files/sr/>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,291,299,808,107,101,162,296,1398,20.815450643776824,Serbian <gnom@prevod.org>
+elementary-music,21,24,162,13,11,17,22,207,10.144927536231885,Serbian <https://l10n.elementary.io/projects/music/music/sr/>
+elementary-notifications,1,0,39,1,0,7,1,40,2.5,Serbian <https://l10n.elementary.io/projects/desktop/notifications-extra/sr/>
+elementary-onboarding,250,17,50,53,3,10,243,317,78.86435331230284,Serbian <https://l10n.elementary.io/projects/installer/onboarding/sr/>
+elinks,13368,0,0,1825,0,0,13239,13368,100.0,Serbian <sr@li.org>
+engrampa,7838,0,0,893,0,0,6914,7838,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+enlightenment,8715,0,0,2258,0,0,8944,8715,100.0,српски <xfce4@xfce4.org>
+eog,3317,0,0,644,0,0,3477,3317,100.0,srpski <gnome-sr@googlegroups.org>
+eog-plugins,831,0,0,211,0,0,810,831,100.0,srpski <gnome-sr@googlegroups.org>
+eom,4958,0,0,542,0,0,4571,4958,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+epiphany,8967,0,0,1638,0,0,9119,8967,100.0,srpski <gnome-sr@googlegroups.org>
+evince,3849,0,1247,886,0,108,3848,5096,75.5298273155416,Serbian (sr) <gnom@prevod.org>
+evolution,57538,0,0,11496,0,0,55555,57538,100.0,srpski <gnome-sr@googlegroups.org>
+evolution-data-server,14653,0,0,2740,0,0,15381,14653,100.0,Serbian <(nothing)>
+evolution-ews,3269,0,0,621,0,0,3660,3269,100.0,srpski <gnome-sr@googlegroups.org>
+evolution-mapi,2028,0,0,446,0,0,2257,2028,100.0,srpski <gnome-sr@googlegroups.org>
+exaile,369,109,4124,138,48,935,366,4602,8.01825293350717,Serbian <https://hosted.weblate.org/projects/exaile/master/sr/>
+exif,296,0,0,68,0,0,295,296,100.0,Serbian <gnu@prevod.org>
+exo,738,0,0,145,0,0,698,738,100.0,Serbian (http://www.transifex.com/xfce/exo/language/sr/)
+falkon,3197,482,523,1064,108,154,3107,4202,76.08281770585435,
+fantasdic,75,0,0,35,0,0,77,75,100.0,Serbian (sr) <gnom@prevod.org>
+fetchmail,4956,0,0,750,0,0,5316,4956,100.0,Serbian <(nothing)>
+file-roller,2514,0,0,581,0,0,2560,2514,100.0,srpski <gnome-sr@googlegroups.org>
+filelight,401,10,8,89,2,3,383,419,95.70405727923628,Serbian <kde-i18n-sr@kde.org>
+filezilla,7708,0,0,1362,0,0,8039,7708,100.0,Serbian <sr@li.org>
+findutils,1839,522,177,193,35,19,1800,2538,72.45862884160756,Serbian <(nothing)>
+firewalld,1497,10,710,296,1,118,1445,2217,67.52368064952638,Serbian (http://www.transifex.com/projects/p/firewalld/language/sr/)
+five-or-more,525,0,0,122,0,0,542,525,100.0,srpski <gnome-sr@googlegroups.org>
+flex,791,329,11,164,2,3,855,1131,69.93810786914236,Serbian <(nothing)>
+focuswriter,129,0,0,7,0,0,102,129,100.0,Serbian (http://www.transifex.com/gottcode/focuswriter/language/sr/)
+folder-color-switcher,51,0,14,22,0,1,41,65,78.46153846153847,Serbian <(nothing)>
+folks,2112,0,0,260,0,0,2143,2112,100.0,srpski <gnom@prevod.org>
+fondo,670,87,80,144,11,16,641,837,80.04778972520909,Serbian
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Serbian
+four-in-a-row,737,0,0,210,0,0,800,737,100.0,srpski <gnome-sr@googlegroups.org>
+foxtrotgps,995,0,0,300,0,0,1050,995,100.0,Serbian Team
+fprintd,394,32,7,53,5,2,381,433,90.99307159353349,Serbian (http://www.transifex.com/freedesktop/fprintd/language/sr/)
+fractal,1732,0,0,480,0,0,1663,1732,100.0,Serbian <gnome-sr@googlegroups.com>
+fragments,717,0,0,196,0,0,749,717,100.0,Serbian <gnome-sr@googlegroups.org>
+freeciv,5265,11438,96828,1878,3004,4972,5286,113531,4.637499889897914,Serbian (sr) <gnu@prevod.org>
+freedink,248,10,5,54,1,1,248,263,94.29657794676805,Serbian <(nothing)>
+freedink-dfarc,773,0,0,134,0,0,778,773,100.0,Serbian <(nothing)>
+frogr,1388,0,0,376,0,0,1501,1388,100.0,srpski <gnome-sr@googlegroups.org>
+fuse-encfs,162,0,1127,27,0,110,161,1289,12.56788207913111,Serbian <sr@li.org>
+fwupd,466,0,0,111,0,0,453,466,100.0,Serbian (http://app.transifex.com/freedesktop/fwupd/language/sr/)
+gajim,674,3304,2371,215,1004,497,660,6349,10.615845014962986,LANGUAGE <LL@li.org>
+gala,82,35,142,26,7,23,92,259,31.66023166023166,Serbian <https://l10n.elementary.io/projects/desktop/gala/sr/>
+gammastep,147,165,633,39,33,77,153,945,15.555555555555555,
+garcon,125,0,0,38,0,0,135,125,100.0,Serbian (https://www.transifex.com/xfce/teams/16840/sr/)
+gaupol,1814,0,262,566,0,48,1778,2076,87.37957610789981,Serbian (https://app.transifex.com/otsaloma/teams/64879/sr/)
+gawk,5177,19,50,787,3,5,5346,5246,98.68471216164697,Serbian <(nothing)>
+gbrainy,19144,0,0,2470,0,0,19940,19144,100.0,Serbian <gnom@prevod.org>
+gcab,255,0,0,61,0,0,269,255,100.0,srpski <gnome-sr@googlegroups.org>
+gcc,17449,57946,55109,2629,7949,5478,16850,130504,13.370471403175383,Serbian <gnu@prevod.org>
+gcolor3,567,0,52,77,0,12,564,619,91.59935379644588,Serbian
+gconf-editor,336,0,0,98,0,0,341,336,100.0,Serbian (sr) <gnom@prevod.org>
+gcr,1122,0,0,403,0,0,1095,1122,100.0,Serbian <(nothing)>
+gcr3,1499,0,0,531,0,0,1456,1499,100.0,Serbian <(nothing)>
+gdb,16229,0,0,2422,0,0,16490,16229,100.0,Serbian <(nothing)>
+gdbm,946,111,78,250,28,16,1037,1135,83.34801762114537,Serbian <(nothing)>
+gdk-pixbuf2,2734,0,0,409,0,0,2942,2734,100.0,srpski <gnome-sr@googlegroups.org>
+gdm,1315,0,0,183,0,0,1373,1315,100.0,srpski <gnome-sr@googlegroups.org>
+geany,3460,693,2127,1017,128,208,3291,6280,55.095541401273884,
+geary,4616,0,0,1182,0,0,4871,4616,100.0,Serbian <(nothing)>
+gedit,8133,0,0,1401,0,0,8438,8133,100.0,srpski <gnome-sr@googlegroups.org>
+gedit-latex,936,0,0,452,0,0,952,936,100.0,Serbian <gnom@prevod.org>
+gedit-plugins,2010,0,0,348,0,0,1876,2010,100.0,srpski <gnome-sr@googlegroups.org>
+geeqie,4342,2784,4246,1828,940,810,4724,11372,38.18149841716497,Serbian <gnome@prevod.org>
+gegl04,20314,0,0,4112,0,0,19598,20314,100.0,Serbian <gnome-sr@googlegroups.com>
+genius,17164,0,0,2241,0,0,15997,17164,100.0,српски <gnome-sr@googlegroups.org>
+gettext,8102,347,215,863,35,33,7594,8664,93.51338873499539,Serbian <(nothing)>
+gftp,3075,0,0,553,0,0,3063,3075,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+ggz-base-libs,74,0,0,17,0,0,83,74,100.0,Serbian (sr) <gnom@prevod.org>
+ghdl,17728,51934,44118,2665,7119,4436,17109,113780,15.580945684654596,Serbian <gnu@prevod.org>
+ghex,1169,0,0,225,0,0,1126,1169,100.0,Serbian <gnome-sr@googlegroups.org>
+gigolo,541,0,0,158,0,0,517,541,100.0,Serbian (http://app.transifex.com/xfce/xfce-apps/language/sr/)
+gimagereader,1817,0,0,482,0,0,1962,1817,100.0,Serbian <https://hosted.weblate.org/projects/gimagereader/translations/sr/>
+gimp,79660,0,0,19102,0,0,79142,79660,100.0,Serbian <gnome-sr@googlegroups.com>
+gimp-lqr-plugin,50,14,864,20,6,105,49,928,5.387931034482758,<en@li.org>
+gimp-wavelet-denoise-plugin,305,0,0,36,0,0,299,305,100.0,Serbian <gnom@prevod.org>
+gimp3,82723,0,0,19589,0,0,83018,82723,100.0,Serbian <gnome-sr@googlegroups.com>
+gip,103,0,0,31,0,0,98,103,100.0,Serbian <gnu@prevod.org>
+gitg,4571,0,0,827,0,0,4397,4571,100.0,Serbian <(nothing)>
+glabels,5708,0,0,1742,0,0,5924,5708,100.0,srpski <gnome-sr@googlegroups.org>
+glade,13832,0,0,3558,0,0,13563,13832,100.0,srpski <gnome-sr@googlegroups.org>
+glib-networking,663,0,0,100,0,0,766,663,100.0,srpski <gnome-sr@googlegroups.org>
+glib2,14748,0,0,2345,0,0,15097,14748,100.0,srpski <gnome-sr@googlegroups.org>
+glibc,7833,0,0,1425,0,0,8321,7833,100.0,Serbian <(nothing)>
+gmult,40,0,10,27,0,4,56,50,80.0,Launchpad Serbian Translators
+gnome-2048,602,0,0,96,0,0,572,602,100.0,Serbian <gnom@prevod.org>
+gnome-abrt,215,0,6,53,0,2,223,221,97.28506787330316,Serbian (http://www.transifex.com/projects/p/gnome-abrt/language/sr/)
+gnome-applets,8287,0,0,1614,0,0,8195,8287,100.0,српски <gnome-sr@googlegroups.org>
+gnome-bluetooth,691,0,0,202,0,0,727,691,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-bluetooth3.34,746,0,0,220,0,0,784,746,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-boxes,2497,0,0,545,0,0,2622,2497,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-break-timer,922,150,120,144,8,14,1036,1192,77.3489932885906,Serbian <gnom@prevod.org>
+gnome-builder,8015,949,912,2181,195,125,8401,9876,81.15633859862292,srpski <gnome-sr@googlegroups.org>
+gnome-calculator,3336,0,0,1224,0,0,3187,3336,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-calendar,1555,0,0,479,0,0,1767,1555,100.0,Serbian <(nothing)>
+gnome-characters,343,0,0,113,0,0,393,343,100.0,Serbian <(nothing)>
+gnome-chess,2875,0,0,478,0,0,2786,2875,100.0,Serbian <(nothing)>
+gnome-clocks,634,0,0,242,0,0,640,634,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-color-manager,3592,0,0,690,0,0,3226,3592,100.0,Serbian <(nothing)>
+gnome-commander,21338,0,0,3858,0,0,19710,21338,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-connections,371,0,0,80,0,0,382,371,100.0,Serbian <gnome-sr@googlegroups.com>
+gnome-console,229,0,0,70,0,0,246,229,100.0,српски <gnome-sr@googlegroups.org>
+gnome-contacts,1299,0,0,375,0,0,1324,1299,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-control-center,14058,725,713,4710,167,59,14189,15496,90.72018585441404,Serbian <trans-sr@lists.fedoraproject.org>
+gnome-desktop3,8344,0,0,277,0,0,7487,8344,100.0,Serbian <(nothing)>
+gnome-dictionary,1381,0,0,302,0,0,1399,1381,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-directory-thumbnailer,170,0,0,24,0,0,174,170,100.0,Serbian <gnom@prevod.org>
+gnome-disk-utility,7897,0,0,1464,0,0,7868,7897,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-do,234,0,378,71,0,73,228,612,38.23529411764706,Serbian <sr@li.org>
+gnome-doc-utils,251,0,0,101,0,0,246,251,100.0,Serbian (sr) <gnom@prevod.org>
+gnome-extensions-app,4617,0,0,1046,0,0,4843,4617,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-firmware,681,0,0,170,0,0,749,681,100.0,Serbian <српски <gnome-sr@googlegroups.org>>
+gnome-flashback,2522,0,0,453,0,0,2572,2522,100.0,Serbian <српски <gnome-sr@googlegroups.org>>
+gnome-font-viewer,1009,0,0,391,0,0,1104,1009,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-icon-theme,20,0,0,16,0,0,21,20,100.0,Serbian (sr) <gnom@prevod.org>
+gnome-initial-setup,1688,0,0,257,0,0,1576,1688,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-keyring,978,0,0,201,0,0,919,978,100.0,Serbian <(nothing)>
+gnome-klotski,1627,0,0,215,0,0,1506,1627,100.0,Serbian <gnom@prevod.org>
+gnome-logs,767,0,0,250,0,0,749,767,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-mahjongg,619,0,0,133,0,0,592,619,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-maps,2571,0,0,658,0,0,2592,2571,100.0,Serbian <(nothing)>
+gnome-menus,81,0,0,38,0,0,81,81,100.0,Serbian <gnom@prevod.org>
+gnome-mime-data,887,0,0,362,0,0,955,887,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-mines,708,0,0,152,0,0,745,708,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-multi-writer,780,0,0,122,0,0,742,780,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-music,957,0,0,239,0,0,1050,957,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-nettool,1328,0,0,438,0,0,1372,1328,100.0,Serbian <gnom@prevod.org>
+gnome-network-displays,195,0,0,26,0,0,195,195,100.0,Serbian <(nothing)>
+gnome-nibbles,1035,0,0,255,0,0,994,1035,100.0,Serbian <(nothing)>
+gnome-online-accounts,1297,0,0,290,0,0,1307,1297,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-packagekit,7000,0,0,1106,0,0,7184,7000,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-panel,7052,54,89,1051,5,7,6500,7195,98.0125086865879,Serbian <gnom@prevod.org>
+gnome-phone-manager,1126,0,0,196,0,0,1104,1126,100.0,Serbian <gnom@prevod.org>
+gnome-photos,1107,0,0,436,0,0,1272,1107,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-power-manager,919,0,0,274,0,0,1018,919,100.0,Serbian <(nothing)>
+gnome-radio,147,0,0,14,0,0,143,147,100.0,српски <gnome-sr@googlegroups.org>
+gnome-remote-desktop,569,0,0,26,0,0,512,569,100.0,Serbian <српски <gnome-sr@googlegroups.org>>
+gnome-robots,1193,0,0,193,0,0,1184,1193,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-screenshot,874,0,0,144,0,0,859,874,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-session,734,0,0,118,0,0,760,734,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-settings-daemon,6477,0,0,910,0,0,6403,6477,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-shell,4617,0,0,1046,0,0,4843,4617,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-shell-extension-appindicator,32,4,59,9,1,18,32,95,33.68421052631579,
+gnome-shell-extension-bubblemail,0,0,133,0,0,37,0,133,0.0,none
+gnome-shell-extension-dash-to-dock,437,0,0,99,0,0,392,437,100.0,
+gnome-shell-extension-gsconnect,295,0,539,127,0,133,297,834,35.37170263788969,Serbian (Cyrillic)
+gnome-shell-extension-openweather,272,251,327,115,79,71,268,850,32.0,
+gnome-shell-extensions,658,0,0,123,0,0,639,658,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-shell-frippery,22,0,0,8,0,0,29,22,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-software,8569,0,0,1710,0,0,8970,8569,100.0,
+gnome-sound-recorder,562,0,0,150,0,0,619,562,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-subtitles,2754,0,0,702,0,0,2590,2754,100.0,Serbian <gnom@prevod.org>
+gnome-sudoku,817,0,0,143,0,0,790,817,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-system-log,840,0,0,132,0,0,776,840,100.0,Serbian <gnom@prevod.org>
+gnome-system-monitor,3005,0,0,645,0,0,3106,3005,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-taquin,663,0,0,160,0,0,619,663,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-terminal,5200,0,0,1013,0,0,4904,5200,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-tetravex,2328,181,95,302,19,14,2103,2604,89.40092165898618,Serbian <gnom@prevod.org>
+gnome-text-editor,1049,0,0,278,0,0,1003,1049,100.0,Serbian <gnome-sr@googlegroups.com>
+gnome-themes-extra,30,0,0,12,0,0,28,30,100.0,Serbian <(nothing)>
+gnome-todo,1449,0,0,307,0,0,1488,1449,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-tour,113,0,0,23,0,0,114,113,100.0,Serbian <gnome-sr@googlegroups.org>
+gnome-tweaks,1151,0,0,331,0,0,1263,1151,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-usage,408,0,0,100,0,0,426,408,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-user-docs,115741,0,0,6548,0,0,105345,115741,100.0,srpski <gnome-sr@googlegroups.org>
+gnome-user-share,49,0,0,10,0,0,56,49,100.0,Serbian <gnom@prevod.org>
+gnome-vfs2,1519,0,0,305,0,0,1495,1519,100.0,Serbian (sr) <gnom@prevod.org>
+gnome-video-arcade,1341,0,0,234,0,0,1222,1341,100.0,Serbian <gnom@prevod.org>
+gnome-video-effects,256,0,0,68,0,0,208,256,100.0,Serbian <gnom@prevod.org>
+gnome-weather,406,0,0,86,0,0,435,406,100.0,Serbian <gnom@prevod.org>
+gnote,6612,0,0,1106,0,0,6792,6612,100.0,srpski <gnome-sr@googlegroups.org>
+gnubik,266,13,0,82,1,0,269,279,95.3405017921147,Serbian <(nothing)>
+gnucash,23140,7960,8128,3816,1216,765,21511,39228,58.988477618027936,Serbian <(nothing)>
+gnuchess,1076,59,0,144,3,0,1064,1135,94.80176211453745,Serbian <(nothing)>
+gnucobol,7500,1372,770,1262,183,93,7463,9642,77.7846919726198,Serbian <(nothing)>
+gnumeric,76699,0,0,12013,0,0,70198,76699,100.0,Serbian <gnome-sr@googlegroups.org>
+gnutls,1784,165,58,384,34,6,1656,2007,88.88888888888889,Serbian <(nothing)>
+goffice,6622,0,0,2123,0,0,6345,6622,100.0,српски <gnome-sr@googlegroups.org>
+goocanvas2,1864,0,0,283,0,0,1565,1864,100.0,Serbian <(nothing)>
+gparted,18227,0,0,1902,0,0,16718,18227,100.0,Serbian <gnom@prevod.org>
+gphoto2,1663,95,27,333,6,6,1627,1785,93.16526610644257,Serbian <(nothing)>
+gramps,32647,3609,4445,5708,718,676,30439,40701,80.21178840814723,Serbian <https://hosted.weblate.org/projects/gramps-project/gramps/sr/>
+granatier,239,0,8,66,0,2,196,247,96.76113360323887,Serbian <kde-i18n-sr@kde.org>
+granite,322,25,151,93,3,22,326,498,64.65863453815261,Serbian <https://l10n.elementary.io/projects/desktop/granite/sr/>
+granite-7,103,12,254,45,4,37,105,369,27.91327913279133,Serbian <https://l10n.elementary.io/projects/desktop/granite/sr/>
+grantlee-editor,259,11,0,71,5,0,266,270,95.92592592592592,Serbian <kde-i18n-sr@kde.org>
+grep,908,20,5,113,2,1,926,933,97.32047159699893,Serbian <(nothing)>
+grilo,191,0,0,36,0,0,201,191,100.0,Serbian <gnom@prevod.org>
+grilo-plugins,1076,0,0,265,0,0,1085,1076,100.0,srpski <gnome-sr@googlegroups.org>
+grip,1097,0,0,279,0,0,1140,1097,100.0,Serbian <(nothing)>
+grub-customizer,1295,0,0,193,0,0,1195,1295,100.0,Serbian <sr@li.org>
+grub2,7353,59,0,1369,8,0,7378,7412,99.2039935240151,Serbian <(nothing)>
+gsettings-desktop-schemas,13585,0,0,1202,0,0,13106,13585,100.0,srpski <gnome-sr@googlegroups.org>
+gshutdown,388,101,3,87,11,3,349,492,78.86178861788618,GShutdown Team <gshutdown@gmail.com>
+gspell,76,0,0,31,0,0,79,76,100.0,Serbian <(nothing)>
+gstreamer1,2207,0,0,386,0,0,2256,2207,100.0,Serbian <(nothing)>
+gstreamer1-plugins-bad-free,197,0,0,29,0,0,221,197,100.0,Serbian <(nothing)>
+gstreamer1-plugins-base,1057,5,10,218,1,2,1038,1072,98.6007462686567,Serbian <(nothing)>
+gstreamer1-plugins-good,823,0,7,102,0,2,848,830,99.1566265060241,Serbian <(nothing)>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,80,80,100.0,Serbian <(nothing)>
+gthumb,7069,0,0,2344,0,0,6957,7069,100.0,srpski <gnome-sr@googlegroups.org>
+gtk+,202,0,0,105,0,0,207,202,100.0,Serbian(Latin) <tomaja@net.yu>
+gtk-vnc,16,0,0,6,0,0,20,16,100.0,Serbian <gnom@prevod.org>
+gtk2,13699,5,0,2783,1,0,12896,13704,99.96351430239346,Serbian <gnome@prevod.org>
+gtk2-engines,119,0,0,47,0,0,149,119,100.0,Serbian (sr) <gnom@prevod.org>
+gtk3,32782,0,0,7541,0,0,31316,32782,100.0,srpski <gnome-sr@googlegroups.org>
+gtk4,7635,0,0,2769,0,0,7916,7635,100.0,srpski <gnome-sr@googlegroups.org>
+gtkhash,47,88,78,25,23,15,52,213,22.065727699530516,Serbian <gnom@prevod.org>
+gtkhtml3,1044,0,0,634,0,0,1056,1044,100.0,Serbian <gnom@prevod.org>
+gtksourceview2,1109,4,7,441,2,5,1173,1120,99.01785714285715,Serbian (sr) <gnom@prevod.org>
+gtksourceview3,322,0,0,106,0,0,333,322,100.0,српски <gnome-sr@googlegroups.org>
+gtksourceview4,1463,0,0,722,0,0,1650,1463,100.0,srpski <gnome-sr@googlegroups.org>
+gtksourceview5,1526,0,0,740,0,0,1715,1526,100.0,srpski <gnome-sr@googlegroups.org>
+gtkspell,11,0,0,5,0,0,11,11,100.0,Serbian <gnu@prevod.org>
+gtkspell3,16,0,0,7,0,0,16,16,100.0,Serbian <(nothing)>
+gtranslator,2675,0,0,588,0,0,2790,2675,100.0,Serbian <(nothing)>
+guayadeque,3303,0,23,1013,0,6,2931,3326,99.30847865303669,Serbian (http://www.transifex.com/projects/p/guayadeque/language/sr/)
+gucharmap,2814,0,0,963,0,0,2798,2814,100.0,srpski <gnome-sr@googlegroups.org>
+gupnp-tools,722,0,0,246,0,0,767,722,100.0,srpski <gnome-sr@googlegroups.org>
+guvcview,482,118,452,235,45,135,495,1052,45.81749049429658,Serbian <gnom@prevod.org>
+gvfs,4245,0,0,816,0,0,4618,4245,100.0,Serbian <(nothing)>
+gweled,157,0,60,42,0,5,151,217,72.35023041474655,Serbian translators
+gwenview,1167,117,275,331,40,37,1271,1559,74.85567671584349,Serbian <kde-i18n-sr@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hello,50,84,110,16,10,20,52,244,20.491803278688526,Serbian <(nothing)>
+help2man,2676,0,0,219,0,0,2490,2676,100.0,Serbian <(nothing)>
+hexchat,3895,0,2076,1147,0,299,3811,5971,65.23195444649139,Serbian (http://www.transifex.com/hexchat/hexchat/language/sr/)
+hitori,239,0,0,63,0,0,228,239,100.0,Serbian <gnome-sr@googlegroups.org>
+hivex,262,8,0,21,1,0,242,270,97.03703703703704,Serbian (http://www.transifex.com/projects/p/hivex/language/sr/)
+homebank,2740,5,411,870,3,123,2709,3156,86.81875792141952,српски <gnome-sr@googlegroups.org>
+iagno,1123,0,0,221,0,0,1122,1123,100.0,srpski <gnome-sr@googlegroups.org>
+ibus,102,53,2433,38,15,548,96,2588,3.9412673879443583,Serbian <fedora-trans-sr@redhat.com>
+im-chooser,52,0,201,13,0,44,55,253,20.55335968379447,LANGUAGE <LL@li.org>
+imsettings,49,33,411,11,5,74,50,493,9.939148073022313,LANGUAGE <LL@li.org>
+indent,261,0,0,52,0,0,287,261,100.0,Serbian <gnu@prevod.org>
+initial-setup,33,0,73,7,0,13,31,106,31.132075471698112,Serbian (http://www.transifex.com/projects/p/initial-setup/language/sr/)
+initscripts,786,61,315,119,6,39,802,1162,67.64199655765921,Serbian <trans-sr@lists.fedoraproject.org>
+inkscape,26654,30548,41934,6517,9269,5070,26091,99136,26.88629761136217,Serbian <gnom@prevod.org>
+insight,15649,0,0,2355,0,0,15948,15649,100.0,Serbian <(nothing)>
+islamic-menus,5,0,0,2,0,0,6,5,100.0,Serbian <sr@li.org>
+iso-codes,6751,8099,9080,4637,5708,5364,6568,23930,28.211450062682825,Serbian (latin) <https://hosted.weblate.org/projects/iso-codes/iso-15924/sr_Latn/>
+isomaster,674,0,0,107,0,0,611,674,100.0,
+jmol,6,0,1442,2,0,446,6,1448,0.4143646408839779,Serbian <sr@li.org>
+json-glib,610,0,0,91,0,0,542,610,100.0,srpski <gnome-sr@googlegroups.org>
+juk,1387,53,44,342,8,8,1396,1484,93.46361185983828,Serbian <kde-i18n-sr@kde.org>
+k3b,19468,708,4,2501,15,2,17871,20180,96.47175421209117,Serbian <kde-i18n-sr@kde.org>
+kBuild,1037,183,170,140,30,15,1058,1390,74.60431654676259,Serbian <(nothing)>
+kaccounts-integration,21,0,46,3,0,11,18,67,31.343283582089555,Serbian <kde-i18n-sr@kde.org>
+kaccounts-providers,60,21,1,20,6,1,56,82,73.17073170731707,Serbian <kde-i18n-sr@kde.org>
+kactivitymanagerd,5,0,2,2,0,1,5,7,71.42857142857143,Serbian <kde-i18n-sr@kde.org>
+kaddressbook,731,20,32,162,8,9,621,783,93.3588761174968,Serbian <kde-i18n-sr@kde.org>
+kaffeine,1277,27,89,452,12,33,1256,1393,91.67264895908112,Serbian <kde-i18n-sr@kde.org>
+kajongg,2436,8,0,509,1,0,2259,2444,99.67266775777414,Serbian <kde-i18n-sr@kde.org>
+kalarm,7211,279,339,1000,65,28,6618,7829,92.10627155447695,Serbian <kde-i18n-sr@kde.org>
+kapman,114,0,0,36,0,0,108,114,100.0,Serbian <kde-i18n-sr@kde.org>
+kapptemplate,257,15,0,46,6,0,227,272,94.48529411764706,Serbian <kde-i18n-sr@kde.org>
+kate,4275,282,379,1031,56,64,3915,4936,86.60858995137764,Serbian <kde-i18n-sr@kde.org>
+katomic,185,0,0,59,0,0,190,185,100.0,Serbian <kde-i18n-sr@kde.org>
+kaudiocreator,1123,8,5,270,1,2,1042,1136,98.8556338028169,Serbian <kde-i18n-sr@kde.org>
+kbd,2452,13,13,338,2,2,2538,2478,98.95076674737692,Serbian <(nothing)>
+kblackbox,1360,0,4,101,0,1,1143,1364,99.70674486803519,Serbian <kde-i18n-sr@kde.org>
+kblocks,159,0,0,38,0,0,155,159,100.0,Serbian <kde-i18n-sr@kde.org>
+kbounce,154,0,0,42,0,0,150,154,100.0,Serbian <kde-i18n-sr@kde.org>
+kbrickbuster,152,0,0,40,0,0,125,152,100.0,Serbian <kde-i18n-sr@kde.org>
+kcalc,972,33,21,322,9,6,897,1026,94.73684210526315,Serbian <kde-i18n-sr@kde.org>
+kcharselect,88,0,0,34,0,0,100,88,100.0,Serbian <kde-i18n-sr@kde.org>
+kcolorchooser,29,0,0,10,0,0,30,29,100.0,Serbian <kde-i18n-sr@kde.org>
+kcron,534,0,0,190,0,0,503,534,100.0,Serbian <kde-i18n-sr@kde.org>
+kdbg,113,91,659,43,37,109,106,863,13.093858632676708,Serbian <LL@kde.org.yu>
+kde-cli-tools,1953,246,7,211,18,1,1653,2206,88.5312783318223,Serbian <kde-i18n-sr@kde.org>
+kde-connect,551,148,234,143,13,57,519,933,59.056806002143624,Serbian <kde-i18n-sr@kde.org>
+kde-l10n,102050,0,0,20502,0,0,99136,102050,100.0,Serbian <kde-i18n-sr@kde.org>
+kde-partitionmanager,2172,42,12,498,19,7,2117,2226,97.57412398921834,Serbian <kde-i18n-sr@kde.org>
+kde-print-manager,932,29,29,264,8,7,852,990,94.14141414141413,Serbian <kde-i18n-sr@kde.org>
+kde-style-breeze,248,12,6,92,3,6,245,266,93.23308270676691,Serbian <kde-i18n-sr@kde.org>
+kdebugsettings,117,24,65,33,9,14,120,206,56.79611650485437,Serbian <kde-i18n-sr@kde.org>
+kdenetwork-filesharing,28,4,31,9,2,5,26,63,44.44444444444444,Serbian <kde-i18n-sr@kde.org>
+kdepim-addons,3692,160,188,696,49,41,3328,4040,91.38613861386139,Serbian <kde-i18n-sr@kde.org>
+kdepim-runtime,5396,226,341,850,27,56,5005,5963,90.49136340768071,Serbian <kde-i18n-sr@kde.org>
+kdeplasma-addons,950,460,121,311,192,52,928,1531,62.05094709340301,Serbian <kde-i18n-sr@kde.org>
+kdf,181,0,0,69,0,0,189,181,100.0,Serbian <kde-i18n-sr@kde.org>
+kdialog,344,15,0,69,4,0,315,359,95.82172701949861,Serbian <kde-i18n-sr@kde.org>
+kdiamond,122,0,0,32,0,0,111,122,100.0,Serbian <kde-i18n-sr@kde.org>
+kdiff3,2895,419,174,506,56,32,2766,3488,82.99885321100918,Serbian <kde-i18n-sr@kde.org>
+kdnssd,30,0,0,7,0,0,27,30,100.0,Serbian <kde-i18n-sr@kde.org>
+kdump-anaconda-addon,51,11,132,2,3,17,43,194,26.288659793814436,Serbian (sr) <fedora@prevod.org>
+keditbookmarks,463,3,0,131,1,0,513,466,99.35622317596567,Serbian <kde-i18n-sr@kde.org>
+kf5-akonadi-calendar,1841,26,0,281,7,0,1729,1867,98.6073915372255,Serbian <kde-i18n-sr@kde.org>
+kf5-akonadi-contacts,1253,138,160,265,26,11,1216,1551,80.7865892972276,Serbian <kde-i18n-sr@kde.org>
+kf5-akonadi-mime,559,4,4,106,2,2,604,567,98.58906525573192,Serbian <kde-i18n-sr@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-akonadi-search,48,0,0,11,0,0,47,48,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-akonadi-server,2424,81,35,403,24,8,2484,2540,95.43307086614173,Serbian <kde-i18n-sr@kde.org>
+kf5-audiocd-kio,771,83,0,175,1,0,756,854,90.28103044496487,Serbian <kde-i18n-sr@kde.org>
+kf5-baloo,324,169,170,77,30,38,261,663,48.86877828054298,Serbian <kde-i18n-sr@kde.org>
+kf5-calendarsupport,2901,64,21,398,16,18,2616,2986,97.15338245144005,Serbian <kde-i18n-sr@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,14,14,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kauth,73,0,0,8,0,0,65,73,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kblog,243,0,0,27,0,0,223,243,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kbookmarks,139,91,0,28,21,0,123,230,60.43478260869565,Serbian <kde-i18n-sr@kde.org>
+kf5-kcalendarutils,1462,13,0,410,7,0,3122,1475,99.11864406779661,Serbian <kde-i18n-sr@kde.org>
+kf5-kcmutils,514,47,5,68,2,2,490,566,90.81272084805654,Serbian <kde-i18n-sr@kde.org>
+kf5-kcodecs,235,137,0,49,5,0,183,372,63.17204301075269,Serbian <kde-i18n-sr@kde.org>
+kf5-kcompletion,15,3,0,9,2,0,15,18,83.33333333333334,Serbian <kde-i18n-sr@kde.org>
+kf5-kconfig,259,2,9,99,1,2,264,270,95.92592592592592,Serbian <kde-i18n-sr@kde.org>
+kf5-kconfigwidgets,316,6,3,114,3,2,326,325,97.23076923076923,Serbian <kde-i18n-sr@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,175,177,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kcoreaddons,273,3,52,81,1,34,286,328,83.23170731707317,Serbian <kde-i18n-sr@kde.org>
+kf5-kdav,185,0,0,20,0,0,155,185,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,42,48,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdeclarative,109,0,7,14,0,2,95,116,93.96551724137932,Serbian <kde-i18n-sr@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,4799,4813,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,48,54,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdesu,19,0,0,7,0,0,18,19,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kfilemetadata,77,45,180,50,25,59,76,302,25.496688741721858,Serbian <kde-i18n-sr@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,58,71,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kholidays,108,2,29,76,1,13,104,139,77.6978417266187,Serbian <kde-i18n-sr@kde.org>
+kf5-khtml,1629,92,0,306,4,0,1481,1721,94.6542707728065,Serbian <kde-i18n-sr@kde.org>
+kf5-ki18n,123,1,0,109,1,0,123,124,99.19354838709677,Serbian <kde-i18n-sr@kde.org>
+kf5-kiconthemes,26,11,0,17,1,0,27,37,70.27027027027027,Serbian <kde-i18n-sr@kde.org>
+kf5-kidentitymanagement,110,62,9,20,1,2,84,181,60.773480662983424,Serbian <kde-i18n-sr@kde.org>
+kf5-kimap,99,0,11,48,0,1,114,110,90.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kinit,134,0,0,14,0,0,122,134,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kio,11196,622,544,1223,96,61,10201,12362,90.56786927681605,Serbian <kde-i18n-sr@kde.org>
+kf5-kirigami2,6,2,35,4,1,16,6,43,13.953488372093023,Serbian <kde-i18n-sr@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kjobwidgets,123,6,4,36,1,1,147,133,92.4812030075188,Serbian <kde-i18n-sr@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,255,248,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kldap,152,12,65,46,4,12,175,229,66.37554585152839,Serbian <kde-i18n-sr@kde.org>
+kf5-kmailtransport,615,13,26,101,5,3,503,654,94.03669724770643,Serbian <kde-i18n-sr@kde.org>
+kf5-kmime,159,0,0,10,0,0,135,159,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-knewstuff,674,58,714,151,28,57,699,1446,46.61134163208852,Serbian <kde-i18n-sr@kde.org>
+kf5-knotifications,10,8,2,2,4,1,9,20,50.0,Serbian <kde-i18n-sr@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,109,129,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kpackage,427,68,0,95,2,0,427,495,86.26262626262627,Serbian <kde-i18n-sr@kde.org>
+kf5-kparts,104,0,19,26,0,2,94,123,84.5528455284553,Serbian <kde-i18n-sr@kde.org>
+kf5-kpeople,21,0,0,11,0,0,19,21,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kpimtextedit,321,34,53,143,12,42,310,408,78.67647058823529,Serbian <kde-i18n-sr@kde.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kross,100,0,0,35,0,0,99,100,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kservice,167,0,0,27,0,0,161,167,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-ksmtp,63,3,31,7,1,5,62,97,64.94845360824742,Serbian <kde-i18n-sr@kde.org>
+kf5-ktexteditor,8006,427,291,1162,61,40,7018,8724,91.76983035304906,Serbian <kde-i18n-sr@kde.org>
+kf5-ktextwidgets,459,1,13,121,1,8,442,473,97.04016913319239,Serbian <kde-i18n-sr@kde.org>
+kf5-ktnef,353,2,0,141,2,0,363,355,99.43661971830986,Serbian <kde-i18n-sr@kde.org>
+kf5-kunitconversion,5258,359,118,2243,135,95,8385,5735,91.68265039232782,Serbian <kde-i18n-sr@kde.org>
+kf5-kwallet,1462,0,0,112,0,0,1235,1462,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kwidgetsaddons,961,285,21,371,77,5,906,1267,75.84846093133386,Serbian <kde-i18n-sr@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kxmlgui,1228,318,0,152,69,0,1161,1546,79.43078913324709,Serbian <kde-i18n-sr@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,10,13,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-libgravatar,20,2,5,9,1,2,23,27,74.07407407407408,Serbian <kde-i18n-sr@kde.org>
+kf5-libkcddb,470,0,6,223,0,2,453,476,98.73949579831933,Serbian <kde-i18n-sr@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,16,15,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-libkdepim,58,1,0,14,1,0,57,59,98.30508474576271,Serbian <kde-i18n-sr@kde.org>
+kf5-libkleo,705,95,525,160,40,128,689,1325,53.20754716981132,Serbian <kde-i18n-sr@kde.org>
+kf5-libksieve,2942,127,40,483,41,9,2626,3109,94.62849790929559,Serbian <kde-i18n-sr@kde.org>
+kf5-libktorrent,471,0,0,106,0,0,530,471,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-mailcommon,2766,84,73,452,30,9,2520,2923,94.62880602121109,Serbian <kde-i18n-sr@kde.org>
+kf5-mailimporter,1405,3,0,126,1,0,1378,1408,99.78693181818183,Serbian <kde-i18n-sr@kde.org>
+kf5-messagelib,7494,178,408,1147,57,125,7742,8080,92.74752475247526,Serbian <kde-i18n-sr@kde.org>
+kf5-pimcommon,988,69,198,235,24,69,910,1255,78.72509960159363,Serbian <kde-i18n-sr@kde.org>
+kf5-plasma,487,6,13,139,3,6,477,506,96.24505928853755,Serbian <kde-i18n-sr@kde.org>
+kf5-solid,672,6,4,220,1,2,588,682,98.53372434017595,Serbian <kde-i18n-sr@kde.org>
+kf5-sonnet,663,0,4,72,0,1,585,667,99.40029985007496,Serbian <kde-i18n-sr@kde.org>
+kf5-syntax-highlighting,439,9,91,286,5,40,434,539,81.44712430426716,Serbian <kde-i18n-sr@kde.org>
+kfind,493,12,0,114,3,0,491,505,97.62376237623762,Serbian <kde-i18n-sr@kde.org>
+kflickr,83,0,249,46,0,41,86,332,25.0,Serbian <sr@li.org>
+kfloppy,641,0,0,100,0,0,622,641,100.0,Serbian <kde-i18n-sr@kde.org>
+kfourinline,392,0,0,157,0,0,394,392,100.0,Serbian <kde-i18n-sr@kde.org>
+kgamma,130,0,0,16,0,0,105,130,100.0,Serbian <kde-i18n-sr@kde.org>
+kget,2860,15,2,771,5,1,2757,2877,99.40910670837678,Serbian <kde-i18n-sr@kde.org>
+kgoldrunner,23427,129,0,907,1,0,18901,23556,99.45236882322975,Serbian <kde-i18n-sr@kde.org>
+kgpg,5282,0,0,698,0,0,5139,5282,100.0,Serbian <kde-i18n-sr@kde.org>
+khelpcenter,250,6,9,85,2,3,230,265,94.33962264150944,Serbian <kde-i18n-sr@kde.org>
+khotkeys,418,16,0,127,1,0,381,434,96.31336405529954,Serbian <kde-i18n-sr@kde.org>
+kicad,2095,17718,21933,993,4924,2108,2110,41746,5.018444880946678,Serbian <https://hosted.weblate.org/projects/kicad/v7/sr/>
+kid3,2654,42,485,1219,17,154,2671,3181,83.43288274127633,Serbian <kde-i18n-sr@lists.kde.org>
+kigo,500,0,0,129,0,0,442,500,100.0,Serbian <kde-i18n-sr@kde.org>
+killbots,444,193,0,64,63,0,385,637,69.70172684458399,Serbian <kde-i18n-sr@kde.org>
+kinfocenter,1401,87,168,653,39,47,1410,1656,84.60144927536231,Serbian <kde-i18n-sr@kde.org>
+kio-extras,886,162,26,123,8,4,825,1074,82.49534450651768,Serbian <kde-i18n-sr@kde.org>
+kiriki,144,0,0,50,0,0,135,144,100.0,Serbian <kde-i18n-sr@kde.org>
+kjumpingcube,412,0,0,95,0,0,370,412,100.0,Serbian <kde-i18n-sr@kde.org>
+klavaro,1893,0,0,231,0,0,1806,1893,100.0,Serbian <(nothing)>
+kleopatra,140,2,0,38,1,0,138,142,98.59154929577466,Serbian <kde-i18n-sr@kde.org>
+klickety,178,0,0,62,0,0,163,178,100.0,Serbian <kde-i18n-sr@kde.org>
+klines,99,0,0,28,0,0,93,99,100.0,Serbian <kde-i18n-sr@kde.org>
+kmag,432,0,0,98,0,0,391,432,100.0,Serbian <kde-i18n-sr@kde.org>
+kmahjongg,340,5,10,98,2,1,318,355,95.77464788732394,Serbian <kde-i18n-sr@kde.org>
+kmail,7895,551,193,1206,69,30,7355,8639,91.38789211714318,Serbian <kde-i18n-sr@kde.org>
+kmail-account-wizard,794,9,5,127,2,1,756,808,98.26732673267327,Serbian <kde-i18n-sr@kde.org>
+kmenuedit,263,0,10,60,0,3,246,273,96.33699633699634,Serbian <kde-i18n-sr@kde.org>
+kmid2,923,79,20,308,17,8,876,1022,90.31311154598825,Serbian <kde-i18n-sr@kde.org>
+kmines,108,0,11,38,0,4,105,119,90.75630252100841,Serbian <kde-i18n-sr@kde.org>
+kmix,734,142,50,168,27,8,727,926,79.26565874730022,Serbian <kde-i18n-sr@kde.org>
+kmousetool,147,0,0,32,0,0,134,147,100.0,Serbian <kde-i18n-sr@kde.org>
+kmouth,1515,0,0,204,0,0,1237,1515,100.0,Serbian <kde-i18n-sr@kde.org>
+kmplayer,1246,2,0,369,1,0,1248,1248,99.83974358974359,Serbian <kde-i18n-sr@kde.org>
+knavalbattle,399,0,0,102,0,0,375,399,100.0,Serbian <kde-i18n-sr@kde.org>
+knetwalk,230,0,0,54,0,0,217,230,100.0,Serbian <kde-i18n-sr@kde.org>
+knights,759,11,23,223,4,5,709,793,95.7124842370744,Serbian <kde-i18n-sr@kde.org>
+knotes,151,26,0,43,4,0,146,177,85.31073446327684,Serbian <kde-i18n-sr@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,8256,8417,100.0,Serbian <kde-i18n-sr@kde.org>
+kolf,377,19,5,143,4,1,366,401,94.0149625935162,Serbian <kde-i18n-sr@kde.org>
+kollision,109,0,0,30,0,0,132,109,100.0,Serbian <kde-i18n-sr@kde.org>
+kompare,550,880,0,77,128,0,591,1430,38.46153846153847,Serbian <kde-i18n-sr@kde.org>
+konqueror,7658,16,815,1069,6,95,6864,8489,90.21086111438332,Serbian <kde-i18n-sr@kde.org>
+konquest,246,0,0,98,0,0,263,246,100.0,Serbian <kde-i18n-sr@kde.org>
+konsole5,2025,497,429,414,114,83,1845,2951,68.62080650626906,Serbian <kde-i18n-sr@kde.org>
+konversation,10280,24,28,1633,5,3,9632,10332,99.49670925280681,Serbian <kde-i18n-sr@kde.org>
+kopete,18375,50,2,3449,7,1,16827,18427,99.71780539425843,Serbian <kde-i18n-sr@kde.org>
+kpat,436,0,41,132,0,9,471,477,91.40461215932913,Serbian <kde-i18n-sr@kde.org>
+kpmcore,2958,222,31,452,23,13,2948,3211,92.12083463095608,Serbian <kde-i18n-sr@kde.org>
+krb5-auth-dialog,3619,0,0,719,0,0,3855,3619,100.0,Serbian <(nothing)>
+krdc,1061,24,62,245,5,10,985,1147,92.50217959895379,Serbian <kde-i18n-sr@kde.org>
+kreversi,425,4,0,140,1,0,433,429,99.06759906759906,Serbian <kde-i18n-sr@kde.org>
+krfb,644,7,25,88,1,2,603,676,95.26627218934911,Serbian <kde-i18n-sr@kde.org>
+kruler,184,0,0,47,0,0,157,184,100.0,Serbian <kde-i18n-sr@kde.org>
+krusader,7775,42,112,1713,12,13,7513,7929,98.0577626434607,Serbian <kde-i18n-sr@kde.org>
+kscreen,24,41,137,14,7,35,26,202,11.881188118811881,Serbian <kde-i18n-sr@kde.org>
+kscreenlocker,161,72,12,23,7,4,141,245,65.71428571428571,Serbian <kde-i18n-sr@kde.org>
+kshisen,522,0,46,66,0,4,414,568,91.90140845070422,Serbian <kde-i18n-sr@kde.org>
+ksig,71,2,12,17,1,8,61,85,83.52941176470588,Serbian <kde-i18n-sr@kde.org>
+ksirk,5763,0,0,762,0,0,5474,5763,100.0,Serbian <kde-i18n-sr@kde.org>
+ksnakeduel,231,0,0,53,0,0,233,231,100.0,Serbian <kde-i18n-sr@kde.org>
+kspaceduel,165,0,0,81,0,0,171,165,100.0,Serbian <kde-i18n-sr@kde.org>
+ksquares,257,0,0,76,0,0,199,257,100.0,Serbian <kde-i18n-sr@kde.org>
+ksshaskpass,34,13,3,11,1,2,30,50,68.0,Serbian <kde-i18n-sr@kde.org>
+ksudoku,1567,154,25,156,6,1,1499,1746,89.74799541809851,Serbian <kde-i18n-sr@kde.org>
+ksysguard,1052,15,26,226,6,5,872,1093,96.24885635864592,Serbian <kde-i18n-sr@kde.org>
+ksystemlog,3034,0,0,479,0,0,2617,3034,100.0,Serbian <kde-i18n-sr@kde.org>
+kteatime,190,11,2,63,2,2,229,203,93.59605911330048,Serbian <kde-i18n-sr@kde.org>
+ktimer,241,15,2,51,1,1,187,258,93.4108527131783,Serbian <kde-i18n-sr@kde.org>
+ktorrent,7559,8,7,1384,4,2,6681,7574,99.80195405334038,Serbian <kde-i18n-sr@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1044,1100,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-approver,71,0,0,18,0,0,70,71,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,79,83,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-common-internals,989,0,0,206,0,0,921,989,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-contact-list,680,0,0,127,0,0,651,680,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,211,208,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,68,75,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,149,141,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-kded-integration-module,475,15,0,58,1,0,461,490,96.93877551020408,Serbian <kde-i18n-sr@kde.org>
+ktp-send-file,60,0,0,18,0,0,59,60,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-text-ui,1441,0,0,321,0,0,1329,1441,100.0,Serbian <kde-i18n-sr@kde.org>
+ktuberling,158,0,0,38,0,0,113,158,100.0,Serbian <kde-i18n-sr@kde.org>
+kubrick,1203,0,2,165,0,1,1121,1205,99.83402489626556,Serbian <kde-i18n-sr@kde.org>
+kvirc,1729,0,22392,398,0,3185,1728,24121,7.168027859541478,Serbian (http://www.transifex.com/kvirc/KVIrc/language/sr/)
+kwalletmanager5,800,0,0,165,0,0,729,800,100.0,Serbian <kde-i18n-sr@kde.org>
+kwebkitpart,669,0,0,165,0,0,626,669,100.0,Serbian <kde-i18n-sr@kde.org>
+kwin,4037,1138,791,875,222,189,3662,5966,67.66677841099565,Serbian <kde-i18n-sr@kde.org>
+l3afpad,113,0,17,61,0,3,138,130,86.92307692307692,Serbian <gnu@prevod.org>
+lagrange,2369,0,0,856,0,0,3097,2369,100.0,Serbian <http://weblate.skyjake.fi/projects/lagrange/ui/sr/>
+lasem,58,0,0,20,0,0,66,58,100.0,Serbian <gnom@prevod.org>
+leafpad,125,0,0,68,0,0,161,125,100.0,Serbian <gnu@prevod.org>
+libadwaita,287,0,0,82,0,0,294,287,100.0,српски <gnome-sr@googlegroups.org>
+libappstream-glib,913,54,46,191,10,9,898,1013,90.12833168805528,Serbian (http://www.transifex.com/freedesktop/appstream-glib/language/sr/)
+libbonobo,543,0,0,107,0,0,563,543,100.0,Serbian <gnom@prevod.org>
+libbonoboui,368,0,0,115,0,0,390,368,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libcryptui,752,0,0,192,0,0,767,752,100.0,Serbian <gnom@prevod.org>
+libdnf,2,0,1662,1,0,237,2,1664,0.1201923076923077,Serbian
+libexif,7637,138,38,1252,55,13,7106,7813,97.74734416997313,Serbian <(nothing)>
+libextractor,1978,0,0,490,0,0,1769,1978,100.0,Serbian <(nothing)>
+libfilezilla,54,0,0,11,0,0,52,54,100.0,Serbian <sr@li.org>
+libfm,1575,0,0,394,0,0,1498,1575,100.0,
+libgda,23420,0,0,4172,0,0,23354,23420,100.0,srpski <gnome-sr@googlegroups.org>
+libgda5,23094,0,0,4176,0,0,22944,23094,100.0,Serbian <gnom@prevod.org>
+libgdata,1385,0,0,171,0,0,1300,1385,100.0,Serbian <gnom@prevod.org>
+libgdl,1318,0,0,192,0,0,1258,1318,100.0,Serbian <(nothing)>
+libgedit-gtksourceview,301,2,16,90,1,3,313,319,94.35736677115987,српски <gnome-sr@googlegroups.org>
+libgnome,1773,0,0,273,0,0,1808,1773,100.0,Serbian (sr) <gnom@prevod.org>
+libgnome-games-support,86,0,0,28,0,0,102,86,100.0,srpski <gnome-sr@googlegroups.org>
+libgnome-games-support1,86,0,0,28,0,0,102,86,100.0,srpski <gnome-sr@googlegroups.org>
+libgnome-keyring,44,0,0,9,0,0,45,44,100.0,Serbian <gnome@prevod.org>
+libgnomecanvas,378,0,0,95,0,0,400,378,100.0,Serbian (sr) <gnom@prevod.org>
+libgnomekbd,375,0,0,79,0,0,379,375,100.0,Serbian <gnom@prevod.org>
+libgnomeui,1226,0,0,320,0,0,1133,1226,100.0,Serbian (sr) <gnom@prevod.org>
+libgovirt,205,0,0,46,0,0,233,205,100.0,Serbian <gnom@prevod.org>
+libgpg-error,742,405,489,261,126,106,798,1636,45.354523227383865,Serbian <(nothing)>
+libgphoto2,466,0,0,78,0,0,486,466,100.0,Serbian <(nothing)>
+libgsasl,577,0,0,69,0,0,628,577,100.0,Serbian <gnu@prevod.org>
+libgsf,1445,0,0,301,0,0,1429,1445,100.0,Serbian <(nothing)>
+libgtop2,252,0,0,80,0,0,318,252,100.0,srpski <gnome-sr@googlegroups.org>
+libgweather4,13169,0,0,9713,0,0,13215,13169,100.0,srpski <gnome-sr@googlegroups.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libhandy,1408,0,0,308,0,0,1254,1408,100.0,српски <gnome-sr@googlegroups.org>
+libidn,415,0,0,58,0,0,424,415,100.0,Serbian <(nothing)>
+libidn1.34,414,0,14,58,0,2,424,428,96.72897196261682,Serbian <gnu@prevod.org>
+libidn2,322,0,0,41,0,0,319,322,100.0,Serbian <(nothing)>
+libkdegames,370,0,0,132,0,0,332,370,100.0,Serbian <kde-i18n-sr@kde.org>
+libkgapi,300,28,32,67,7,7,295,360,83.33333333333334,Serbian <kde-i18n-sr@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Serbian <kde-i18n-sr@kde.org>
+libkomparediff2,127,16,0,11,8,0,112,143,88.81118881118881,Serbian <kde-i18n-sr@kde.org>
+libksysguard,3016,200,627,389,26,94,2599,3843,78.48035389018996,Serbian <kde-i18n-sr@kde.org>
+libmatekbd,308,0,0,91,0,0,295,308,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+libmatemixer,242,0,0,126,0,0,248,242,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+libmateweather,6181,0,2,4596,0,2,6233,6183,99.96765324276241,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+libmypaint,9,4,4593,8,2,314,10,4606,0.19539730785931392,Serbian (cyrillic) <https://hosted.weblate.org/projects/mypaint/libmypaint/sr_Cyrl/>
+libnma,728,62,17,151,27,5,693,807,90.21065675340768,српски <gnome-sr@googlegroups.org>
+libpanel,87,0,0,25,0,0,85,87,100.0,Serbian <српски <gnome-sr@googlegroups.org>>
+libpeas,103,0,0,29,0,0,100,103,100.0,Serbian <gnom@prevod.org>
+libpeas1,103,0,0,29,0,0,100,103,100.0,Serbian <gnom@prevod.org>
+libpwquality,333,0,12,50,0,1,279,345,96.52173913043478,Serbian (http://www.transifex.com/projects/p/libpwquality/language/sr/)
+libreoffice,126013,44633,151450,30795,16627,23319,116581,322096,39.12280810689981,Serbian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/sr/>
+libreport,84,11,4833,21,1,581,76,4928,1.7045454545454544,Serbian (http://www.transifex.com/projects/p/libreport/language/sr/)
+libsecret,123,0,0,19,0,0,117,123,100.0,Serbian <gnom@prevod.org>
+libshumate,8,0,0,4,0,0,8,8,100.0,Serbian <gnome-sr@googlegroups.com>
+libsoup,341,0,0,80,0,0,402,341,100.0,Serbian <(nothing)>
+libsoup3,338,0,0,75,0,0,396,338,100.0,Serbian <(nothing)>
+libuser,1385,34,18,292,6,3,1440,1437,96.3813500347947,Serbian (http://www.transifex.com/projects/p/fedora/language/sr/)
+libvirt,2470,15603,50731,546,2908,6957,2357,68804,3.589907563513749,Serbian (http://www.transifex.com/projects/p/fedora/language/sr/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Serbian <trans-sr@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1134,1124,100.0,
+libwnck3,1086,0,0,231,0,0,1084,1086,100.0,Serbian <gnom@prevod.org>
+libxfce4ui,1018,0,0,211,0,0,1017,1018,100.0,Serbian (https://app.transifex.com/xfce/teams/16840/sr/)
+libxfce4util,424,0,0,7,0,0,384,424,100.0,Serbian (http://www.transifex.com/xfce/libxfce4util/language/sr/)
+libxfce4windowing,63,0,0,19,0,0,68,63,100.0,Serbian (https://www.transifex.com/xfce/teams/16840/sr/)
+libzypp,816,261,1619,622,120,234,818,2696,30.267062314540063,Serbian <i18n@suse.de>
+lifeograph,329,392,785,87,134,221,322,1506,21.845949535192563,Serbian <gnom@prevod.org>
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Serbian (http://www.transifex.com/the_cavalry/light-locker/language/sr/)
+lightdm,163,0,0,21,0,0,164,163,100.0,Launchpad Serbian Translators
+lightdm-gtk,89,0,0,25,0,0,91,89,100.0,Serbian (https://www.transifex.com/xubuntu/teams/110148/sr/)
+lightdm-gtk-greeter-settings,152,0,367,57,0,114,154,519,29.28709055876686,Serbian <sr@li.org>
+lightdm-settings,324,0,31,66,0,8,306,355,91.26760563380282,Serbian <(nothing)>
+lightsoff,240,0,0,46,0,0,248,240,100.0,srpski <gnome-sr@googlegroups.org>
+lokalize,3495,123,467,584,33,60,3041,4085,85.55691554467563,Serbian <kde-i18n-sr@kde.org>
+lollypop,340,0,1088,141,0,314,387,1428,23.809523809523807,Serbian <https://hosted.weblate.org/projects/gnumdk/lollypop/sr/>
+loupe,300,0,0,132,0,0,331,300,100.0,Serbian <gnome-sr@googlegroups.com>
+lskat,254,0,0,83,0,0,247,254,100.0,Serbian <kde-i18n-sr@kde.org>
+lxdm,48,0,0,26,0,0,53,48,100.0,
+lxhotkey,409,17,23,161,10,22,424,449,91.0913140311804,
+lxinput,83,0,0,26,0,0,84,83,100.0,LANGUAGE <LL@li.org>
+lxlauncher,58,0,0,17,0,0,55,58,100.0,
+lxmenu-data,97,0,0,37,0,0,99,97,100.0,Serbian (sr) <gnome@prevod.org>
+lxmusic,203,0,0,89,0,0,202,203,100.0,Serbian
+lxshortcut,43,0,0,19,0,0,46,43,100.0,
+m4,67,465,639,21,69,107,78,1171,5.721605465414176,Serbian <gnu@prevod.org>
+magpie,2338,0,0,283,0,0,2371,2338,100.0,srpski <gnome-sr@googlegroups.org>
+mail-notification,2167,0,18,379,0,2,2244,2185,99.17620137299771,Serbian (sr) <gnu@prevod.org>
+mailnag,142,0,65,50,0,16,142,207,68.59903381642512,Serbian <https://hosted.weblate.org/projects/mailnag/mailnag/sr/>
+make,2593,0,0,477,0,0,2678,2593,100.0,Serbian <(nothing)>
+malcontent,3,0,581,2,0,96,3,584,0.5136986301369862,none
+maliit-keyboard,37,4,40,34,2,25,37,81,45.67901234567901,Serbian <sr@li.org>
+mame,1631,0,5739,743,0,1833,1763,7370,22.130257801899592,MAME Language Team
+man-db,9725,32,0,646,1,0,9015,9757,99.6720303371938,Serbian <(nothing)>
+man-pages-l10n,63462,6902,156386,14136,1078,13333,62500,226750,27.987651598676955,Serbian <>
+manafirewall,1185,0,0,141,0,0,1106,1185,100.0,Serbian (https://www.transifex.com/MageiaLinux/teams/9361/sr/)
+marco,4303,0,0,430,0,0,4209,4303,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-applets,15920,37,0,1638,8,0,14681,15957,99.76812684088488,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+mate-backgrounds,55,0,0,29,0,0,55,55,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+mate-calc,3323,0,0,749,0,0,2993,3323,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+mate-control-center,8246,7,0,1509,1,0,7624,8253,99.91518235793045,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-desktop,2365,11,0,300,1,0,2348,2376,99.53703703703704,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+mate-media,239,0,0,99,0,0,250,239,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-menu,301,0,7,109,0,1,306,308,97.72727272727273,Serbian (http://www.transifex.com/mate/MATE/language/sr/)
+mate-menus,103,0,0,39,0,0,100,103,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-notification-daemon,186,0,0,53,0,0,200,186,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-panel,6717,3,0,813,1,0,6240,6720,99.95535714285714,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-polkit,123,0,0,21,0,0,127,123,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+mate-power-manager,5119,0,0,551,0,0,5017,5119,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-screensaver,1101,0,0,176,0,0,1043,1101,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-sensors-applet,1852,80,228,120,26,80,1639,2160,85.74074074074073,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+mate-session-manager,715,0,0,132,0,0,695,715,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-settings-daemon,2207,0,0,319,0,0,2178,2207,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-system-monitor,4893,0,0,660,0,0,4382,4893,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-terminal,8386,0,0,803,0,0,7383,8386,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-themes,74,0,0,23,0,0,82,74,100.0,Serbian (http://app.transifex.com/mate/MATE/language/sr/)
+mate-user-admin,605,0,0,126,0,0,581,605,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+mate-user-guide,42973,0,0,3228,0,0,37492,42973,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mate-utils,10060,0,0,1126,0,0,9053,10060,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+mbox-importer,33,7,0,11,2,0,34,40,82.5,Serbian <kde-i18n-sr@kde.org>
+mc,3602,0,792,1117,0,151,3889,4394,81.97542102867547,Serbian (http://app.transifex.com/mc/mc/language/sr/)
+mediawriter,411,312,113,59,64,32,404,836,49.16267942583732,Serbian <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/sr/>
+meld,5244,0,0,1054,0,0,5199,5244,100.0,Serbian <(nothing)>
+menulibre,837,25,11,163,1,2,816,873,95.87628865979381,српски <српски <xfce-i18n@xfce.org>>
+metacity,3707,0,0,561,0,0,3719,3707,100.0,српски <gnome-sr@googlegroups.org>
+metadata-cleaner,651,48,19,84,3,4,603,718,90.66852367688021,Serbian <https://hosted.weblate.org/projects/metadata-cleaner/application/sr/>
+meteo,223,0,37,78,0,13,199,260,85.76923076923076,
+midori,3541,0,0,796,0,0,3544,3541,100.0,xfce4@xfce4.org
+mingw-GConf2,8176,0,0,994,0,0,8464,8176,100.0,Serbian <gnom@prevod.org>
+mingw-atk,440,0,0,169,0,0,421,440,100.0,Serbian <gnom@prevod.org>
+mingw-binutils,44734,186,78,6909,35,9,45402,44998,99.41330725810036,Serbian <(nothing)>
+mingw-colord,1885,0,0,203,0,0,1780,1885,100.0,Serbian (http://www.transifex.com/projects/p/colord/language/sr/)
+mingw-gcc,17449,57914,55061,2629,7946,5474,16850,130424,13.378672636937988,Serbian <gnu@prevod.org>
+mingw-gdb,15828,0,0,2385,0,0,16132,15828,100.0,Serbian <(nothing)>
+mingw-gdbm,663,30,6,185,6,2,721,699,94.84978540772532,Serbian <(nothing)>
+mingw-gdk-pixbuf,2734,0,0,409,0,0,2942,2734,100.0,srpski <gnome-sr@googlegroups.org>
+mingw-gettext,8102,347,215,863,35,33,7594,8664,93.51338873499539,Serbian <(nothing)>
+mingw-glib-networking,663,0,0,100,0,0,766,663,100.0,srpski <gnome-sr@googlegroups.org>
+mingw-glib2,14748,0,0,2345,0,0,15097,14748,100.0,srpski <gnome-sr@googlegroups.org>
+mingw-goocanvas2,1864,0,0,283,0,0,1565,1864,100.0,Serbian <(nothing)>
+mingw-gsettings-desktop-schemas,13585,0,0,1202,0,0,13106,13585,100.0,srpski <gnome-sr@googlegroups.org>
+mingw-gstreamer1,2207,0,0,386,0,0,2256,2207,100.0,Serbian <(nothing)>
+mingw-gstreamer1-plugins-bad-free,197,0,0,29,0,0,221,197,100.0,Serbian <(nothing)>
+mingw-gstreamer1-plugins-base,1057,5,10,218,1,2,1038,1072,98.6007462686567,Serbian <(nothing)>
+mingw-gstreamer1-plugins-good,823,0,7,102,0,2,848,830,99.1566265060241,Serbian <(nothing)>
+mingw-gtk2,13699,5,0,2783,1,0,12896,13704,99.96351430239346,Serbian <gnome@prevod.org>
+mingw-gtk3,32782,0,0,7541,0,0,31316,32782,100.0,srpski <gnome-sr@googlegroups.org>
+mingw-gtk4,7635,0,0,2769,0,0,7916,7635,100.0,srpski <gnome-sr@googlegroups.org>
+mingw-gtksourceview3,322,0,0,106,0,0,333,322,100.0,српски <gnome-sr@googlegroups.org>
+mingw-json-glib,610,0,0,91,0,0,542,610,100.0,srpski <gnome-sr@googlegroups.org>
+mingw-libcharset,342,0,0,46,0,0,334,342,100.0,Serbian <(nothing)>
+mingw-libgovirt,205,0,0,46,0,0,233,205,100.0,Serbian <gnom@prevod.org>
+mingw-libgpg-error,738,371,315,257,114,75,794,1424,51.82584269662921,Serbian <(nothing)>
+mingw-libgsf,1440,0,0,300,0,0,1424,1440,100.0,Serbian <gnom@prevod.org>
+mingw-libidn,415,0,0,58,0,0,424,415,100.0,Serbian <(nothing)>
+mingw-libidn2,322,0,0,41,0,0,319,322,100.0,Serbian <(nothing)>
+mingw-libsoup,341,0,0,80,0,0,402,341,100.0,Serbian <(nothing)>
+mingw-mediawriter,411,314,120,59,67,36,404,845,48.63905325443787,Serbian <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/sr/>
+mingw-p11-kit,476,0,0,81,0,0,417,476,100.0,Serbian (http://www.transifex.com/freedesktop/p11-kit/language/sr/)
+minicom,1556,280,99,388,11,13,1739,1935,80.41343669250645,Serbian <(nothing)>
+mkvtoolnix,19885,2380,2871,2463,337,275,18195,25136,79.10964353914704,Serbian (Serbia) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/sr_RS/)
+mlocate,367,175,39,45,1,5,384,581,63.16695352839932,Serbian <trans-sr@lists.fedoraproject.org>
+moserial,1167,0,0,271,0,0,1126,1167,100.0,српски <gnome-sr@googlegroups.org>
+mousepad,1700,0,0,428,0,0,1595,1700,100.0,Serbian (http://app.transifex.com/xfce/xfce-apps/language/sr/)
+mousetweaks,114,0,0,30,0,0,121,114,100.0,Serbian <gnom@prevod.org>
+mozo,46,0,0,24,0,0,47,46,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+mpop,1892,8,0,345,1,0,2000,1900,99.57894736842105,Serbian <(nothing)>
+msitools,156,0,0,55,0,0,152,156,100.0,Serbian <gnom@prevod.org>
+msmtp,1809,14,0,325,1,0,1863,1823,99.23203510696655,Serbian <(nothing)>
+muffin,2304,0,0,279,0,0,2344,2304,100.0,srpski <gnome-sr@googlegroups.org>
+multimedia-menus,56,0,0,22,0,0,61,56,100.0,Serbian <fedora-trans-sr@redhat.com>
+mutter,2322,0,93,279,0,1,2355,2415,96.14906832298136,srpski <gnome-sr@googlegroups.org>
+mypaint,273,126,12363,136,58,2346,283,12762,2.139163140573578,Serbian (cyrillic) <https://hosted.weblate.org/projects/mypaint/mypaint/sr_Cyrl/>
+nano,3458,0,28,623,0,9,3241,3486,99.19678714859438,Serbian <(nothing)>
+nautilus,11082,0,0,2202,0,0,12514,11082,100.0,srpski <gnome-sr@googlegroups.org>
+nemiver,2682,0,0,680,0,0,2598,2682,100.0,Serbian <gnom@prevod.org>
+neomutt,7918,30,0,1607,5,0,8212,7948,99.62254655259186,Serbian <sr@li.org>
+neovim,10837,0,0,2087,0,0,11864,10837,100.0,Serbian
+network-manager-applet,4379,29,28,867,3,3,4374,4436,98.71505861136158,Serbian <српски <gnome-sr@googlegroups.org>>
+newt,4,0,0,4,0,0,5,4,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+nfoview,49,0,59,22,0,15,48,108,45.370370370370374,Serbian (http://app.transifex.com/otsaloma/nfoview/language/sr/)
+nitrogen,180,8,24,49,1,3,169,212,84.90566037735849,
+notification-daemon,66,0,0,22,0,0,66,66,100.0,Serbian <gnom@prevod.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+obconf,686,0,52,144,0,12,662,738,92.95392953929539,None
+office-runner,250,0,0,42,0,0,222,250,100.0,Serbian <gnom@prevod.org>
+okteta,2478,41,20,587,18,13,2255,2539,97.59747932256793,Serbian <kde-i18n-sr@kde.org>
+okular,4126,404,602,799,128,154,3808,5132,80.3975058456742,Serbian <kde-i18n-sr@kde.org>
+onboard,603,0,1715,155,0,355,618,2318,26.01380500431406,Launchpad Serbian Translators
+openbox,473,0,33,90,0,4,472,506,93.47826086956522,None
+openconnect,12146,0,6916,2075,0,1055,13357,19062,63.718392613576746,srpski <gnome-sr@googlegroups.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2304,0,0,912,0,0,2317,2304,100.0,Serbian (https://www.transifex.com/xfce/teams/16840/sr/)
+orca,11357,0,0,3750,0,0,11925,11357,100.0,српски <gnome-sr@googlegroups.org>
+oscap-anaconda-addon,166,0,225,34,0,17,153,391,42.45524296675192,Serbian (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/sr/)
+osmo,1694,29,48,692,1,5,1721,1771,95.65217391304348,Serbian (http://www.transifex.com/pasp/osmo/language/sr/)
+p11-kit,476,0,1288,81,0,232,417,1764,26.984126984126984,Serbian (http://www.transifex.com/freedesktop/p11-kit/language/sr/)
+pacman,4724,0,465,821,0,77,4675,5189,91.03873578724225,Serbian (http://www.transifex.com/toofishes/archlinux-pacman/language/sr/)
+palapeli,1512,0,0,180,0,0,1280,1512,100.0,Serbian <kde-i18n-sr@kde.org>
+pam,352,168,24,75,23,3,352,544,64.70588235294117,Serbian (http://www.transifex.com/projects/p/linux-pam/language/sr/)
+paprefs,131,0,6,23,0,2,129,137,95.62043795620438,Serbian (sr) <fedora-trans-sr@redhat.com>
+parole,1141,0,6,296,0,3,1184,1147,99.4768962510898,Serbian (http://app.transifex.com/xfce/xfce-apps/language/sr/)
+parted,4585,16,27,568,5,4,4447,4628,99.07087294727745,Serbian <(nothing)>
+passwd,329,0,7,56,0,1,342,336,97.91666666666666,Serbian <trans-sr@lists.fedoraproject.org>
+pavucontrol,183,61,286,76,22,51,213,530,34.52830188679245,Serbian (sr) <fedora-trans-sr@redhat.com>
+pbuilder,96,0,0,9,0,0,94,96,100.0,Soon to come
+peek,487,25,52,83,8,6,490,564,86.34751773049646,Serbian <https://hosted.weblate.org/projects/peek/translations/sr/>
+phodav,69,0,0,19,0,0,78,69,100.0,Serbian <српски <gnome-sr@googlegroups.org>>
+phonon,116,0,0,25,0,0,100,116,100.0,Serbian <kde-i18n-sr@kde.org>
+phonon-backend-gstreamer,104,0,0,15,0,0,94,104,100.0,Serbian <kde-i18n-sr@kde.org>
+phonon-qt4,116,0,0,25,0,0,100,116,100.0,Serbian <kde-i18n-sr@kde.org>
+phonon-qt4-backend-gstreamer,104,0,0,15,0,0,94,104,100.0,Serbian <kde-i18n-sr@kde.org>
+phosh,355,0,0,143,0,0,401,355,100.0,Serbian <gnome-sr@googlegroups.org>
+php-php-gettext,18,0,0,2,0,0,24,18,100.0,Serbian (sr) <danilo@kvota.net>
+picard,500,8,9961,354,6,2113,503,10469,4.776005349125991,Serbian <https://translations.metabrainz.org/projects/picard/2/app/sr/>
+picmi,197,2,1,114,1,1,199,200,98.5,Serbian <kde-i18n-sr@kde.org>
+pidgin,10502,0,3492,2482,0,709,10214,13994,75.0464484779191,Serbian (http://www.transifex.com/pidgin/pidgin/language/sr/)
+pidgin-guifications,466,8,31,186,1,5,453,505,92.27722772277228,Serbian (sr) <gnu@prevod.org>
+pim-data-exporter,667,84,27,168,19,13,672,778,85.73264781491002,Serbian <kde-i18n-sr@kde.org>
+pim-sieve-editor,402,30,9,108,7,2,384,441,91.15646258503402,Serbian <kde-i18n-sr@kde.org>
+pingus,1169,3,4223,108,1,337,1003,5395,21.66821130676552,<mbabuskov@yahoo.com>
+pinta,1645,0,101,508,0,29,1650,1746,94.21534936998854,српски <gnome-sr@googlegroups.org>
+pipewire,104,281,262,45,31,32,106,647,16.0741885625966,Serbian (sr) <fedora-trans-sr@redhat.com>
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+pitivi,4536,0,0,952,0,0,4655,4536,100.0,srpski <gnome-sr@googlegroups.org>
+plank,189,0,0,50,0,0,217,189,100.0,Serbian <gnom@prevod.org>
+plasma-breeze,248,12,6,92,3,6,245,266,93.23308270676691,Serbian <kde-i18n-sr@kde.org>
+plasma-desktop,5734,466,817,968,144,189,5487,7017,81.71583297705573,Serbian <kde-i18n-sr@kde.org>
+plasma-discover,893,217,419,281,54,114,1003,1529,58.40418574231524,Serbian <kde-i18n-sr@kde.org>
+plasma-drkonqi,3678,184,104,327,18,7,3238,3966,92.73827534039334,Serbian <kde-i18n-sr@kde.org>
+plasma-integration,58,0,0,21,0,0,54,58,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,185,172,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-milou,41,1,0,16,1,0,35,42,97.61904761904762,Serbian <kde-i18n-sr@kde.org>
+plasma-nm,4183,209,800,1071,58,100,4004,5192,80.5662557781202,Serbian <kde-i18n-sr@kde.org>
+plasma-oxygen,803,2,0,291,2,0,801,805,99.75155279503105,Serbian <kde-i18n-sr@kde.org>
+plasma-pa,120,36,91,46,13,32,122,247,48.582995951417004,Serbian <kde-i18n-sr@kde.org>
+plasma-sdk,747,16,46,219,6,16,738,809,92.336217552534,Serbian <kde-i18n-sr@kde.org>
+plasma-systemsettings,185,8,35,46,3,10,198,228,81.14035087719299,Serbian <kde-i18n-sr@kde.org>
+plasma-vault,332,341,151,44,28,23,279,824,40.29126213592233,Serbian <kde-i18n-sr@kde.org>
+plasma-workspace,7976,1048,1172,2630,260,285,8302,10196,78.22675559042762,Serbian <kde-i18n-sr@kde.org>
+playonlinux,1566,0,1162,329,0,120,1419,2728,57.40469208211144,српски <>
+pluma,13113,0,0,2090,0,0,12140,13113,100.0,Serbian (https://app.transifex.com/mate/teams/13566/sr/)
+pluma-plugins,1398,0,0,143,0,0,1277,1398,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+plymouth,16,0,0,7,0,0,14,16,100.0,Serbian <https://translate.fedoraproject.org/projects/plymouth/master/sr/>
+plymouth-kcm,89,25,3,20,4,1,88,117,76.06837606837607,Serbian <kde-i18n-sr@kde.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Serbian <sr@li.org>
+po4a,28524,0,24,1680,0,5,27601,28548,99.91593106347206,Serbian <https://hosted.weblate.org/projects/po4a/po4a/sr/>
+poedit,3167,0,1,689,0,1,3083,3168,99.96843434343434,Serbian (Cyrillic)
+pogo,98,0,478,35,0,66,98,576,17.01388888888889,Serbian <sr@li.org>
+polari,1662,0,0,386,0,0,1935,1662,100.0,srpski <gnome-sr@googlegroups.org>
+policycoreutils,2323,30,3675,439,6,521,2444,6028,38.53682813536828,Serbian
+polkit-gnome,188,0,0,32,0,0,190,188,100.0,Serbian <gnom@prevod.org>
+polkit-kde,89,2,4,26,1,3,76,95,93.6842105263158,Serbian <kde-i18n-sr@kde.org>
+postgresql-jdbc,1496,365,721,168,46,101,1367,2582,57.939581719597214,Srpski <skaljac@gmail.com>
+powerdevil,390,176,46,93,22,13,383,612,63.725490196078425,Serbian <kde-i18n-sr@kde.org>
+psmisc,3592,15,40,331,3,2,3434,3647,98.49191115985741,Serbian <(nothing)>
+pulseaudio,1358,1920,508,342,111,119,1345,3786,35.868991019545696,Serbian (sr) <fedora-trans-sr@redhat.com>
+pulsecaster,214,0,0,21,0,0,202,214,100.0,Serbian (http://www.transifex.com/stickster/pulsecaster/language/sr/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,923,152,553,107,13,60,862,1628,56.695331695331696,Serbian (http://www.transifex.com/projects/p/pykickstart/language/sr/)
+python-SecretStorage,118,0,0,18,0,0,112,118,100.0,Serbian <gnom@prevod.org>
+python-apt,451,93,0,101,17,0,456,544,82.90441176470588,Serbian <sr@li.org>
+python-blivet,456,20,129,67,3,11,461,605,75.37190082644628,Serbian (http://www.transifex.com/projects/p/blivet/language/sr/)
+python-caja,6,0,0,2,0,0,5,6,100.0,Serbian (https://www.transifex.com/mate/teams/13566/sr/)
+python-django,3293,0,506,828,0,49,3371,3799,86.68070544880231,Serbian (http://www.transifex.com/django/django/language/sr/)
+python-django-allauth,1534,530,168,290,18,18,1490,2232,68.72759856630825,NONE
+python-django-contrib-comments,250,0,0,61,0,0,260,250,100.0,Serbian (http://www.transifex.com/django/django-contrib-comments/language/sr/)
+python-django-formtools,32,0,0,11,0,0,30,32,100.0,Serbian (http://www.transifex.com/django/django-formtools/language/sr/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django4.2,3293,0,506,828,0,49,3371,3799,86.68070544880231,Serbian (http://www.transifex.com/django/django/language/sr/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Serbian
+python-flask-admin,342,0,25,102,0,10,354,367,93.18801089918256,Serbian (Cyrillic)
+python-formencode,740,0,85,100,0,17,579,825,89.6969696969697,Andrija Zaric <andrija@lis.rs>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-manatools,4,0,0,4,0,0,5,4,100.0,Serbian (https://www.transifex.com/MageiaLinux/teams/9361/sr/)
+python-meh,109,0,0,23,0,0,107,109,100.0,Serbian (http://www.transifex.com/projects/p/python-meh/language/sr/)
+python-nikola,80,0,14,34,0,10,81,94,85.1063829787234,Serbian (http://www.transifex.com/ralsina/nikola/language/sr/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+python-sphinx,349,0,9497,146,0,1362,345,9846,3.544586634166159,Serbian (Serbia) (http://www.transifex.com/sphinx-doc/sphinx-1/language/sr_RS/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Serbian (https://www.transifex.com/sphinx-doc/teams/36659/sr/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Serbian (https://www.transifex.com/sphinx-doc/teams/36659/sr/)
+python-sphinxcontrib-htmlhelp,0,0,50,0,0,10,0,50,0.0,Serbian (Serbia) (https://www.transifex.com/sphinx-doc/teams/36659/sr_RS/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Serbian (https://www.transifex.com/sphinx-doc/teams/36659/sr/)
+python-sphinxcontrib-serializinghtml,0,0,36,0,0,4,0,36,0.0,Serbian (Serbia) (https://www.transifex.com/sphinx-doc/teams/36659/sr_RS/)
+python-wxpython4,7837,0,0,1965,0,0,7632,7837,100.0,Nikola Jović <wwenikola123@gmail.com>
+qtwebkit,1093,0,0,262,0,0,1025,1093,100.0,Serbian <gnom@prevod.org>
+quadrapassel,889,0,0,162,0,0,882,889,100.0,srpski <gnome-sr@googlegroups.org>
+quassel,31,0,8331,7,0,1700,24,8362,0.37072470700789284,Serbian (http://www.transifex.com/quassel/quassel/language/sr/)
+quodlibet,5240,1240,1439,1342,189,158,5040,7919,66.16997095592878,Serbian <https://hosted.weblate.org/projects/quodlibet/quodlibet/sr/>
+rabbitvcs,18,0,1506,15,0,457,18,1524,1.1811023622047243,Serbian <sr@li.org>
+rapid-photo-downloader,7667,0,419,863,0,61,7091,8086,94.81820430373486,Serbian <(nothing)>
+recode,518,235,1,69,7,3,540,754,68.70026525198939,Serbian <(nothing)>
+recutils,2270,114,16,298,10,3,2195,2400,94.58333333333333,Serbian <(nothing)>
+redhat-menus,261,0,0,86,0,0,270,261,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+rednotebook,1043,59,161,225,9,38,986,1263,82.58115597783056,Serbian <gnom@prevod.org>
+redshift,288,0,740,63,0,88,290,1028,28.01556420233463,
+regextester,0,0,104,0,0,31,0,104,0.0,none
+rekonq,2202,0,0,593,0,0,2155,2202,100.0,Serbian <kde-i18n-sr@kde.org>
+remmina,580,803,4013,103,303,594,423,5396,10.748702742772425,Serbian <https://hosted.weblate.org/projects/remmina/remmina/sr/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Serbian
+revelation,77,24,2326,29,5,413,69,2427,3.1726411207251752,Serbian (Serbia) (http://www.transifex.com/hey_neken/revelation/language/sr_RS/)
+rhythmbox,7490,0,0,1916,0,0,7890,7490,100.0,srpski <gnome-sr@googlegroups.org>
+ristretto,674,0,0,210,0,0,681,674,100.0,Serbian (http://app.transifex.com/xfce/xfce-apps/language/sr/)
+rizin,1379,0,0,159,0,0,1327,1379,100.0,Serbian <(nothing)>
+rpm,2369,282,2081,468,56,386,2416,4732,50.06339814032121,Serbian (http://www.transifex.com/rpm-team/rpm/language/sr/)
+rpm-ostree,2,0,1478,1,0,228,2,1480,0.13513513513513514,Serbian
+rt,7404,0,6473,1734,0,1445,7472,13877,53.354471427541974,Serbian <sr@li.org>
+rygel,3256,0,0,605,0,0,3666,3256,100.0,Serbian <(nothing)>
+sawfish,2370,1501,2572,539,249,194,2355,6443,36.78410678255471,Serbian (sr) <gnom@prevod.org>
+scons,54,0,0,24,0,0,53,54,100.0,
+sdcc,9119,0,0,1398,0,0,9435,9119,100.0,Serbian <(nothing)>
+sddm-kcm,62,22,59,22,9,9,63,143,43.35664335664335,Serbian <kde-i18n-sr@kde.org>
+seahorse,4892,0,0,1128,0,0,5095,4892,100.0,Serbian <(nothing)>
+seahorse-caja,974,0,0,242,0,0,1116,974,100.0,Serbian <gnom@prevod.org>
+seahorse-nautilus,980,0,0,248,0,0,1122,980,100.0,srpski <gnome-sr@googlegroups.org>
+secrets,1170,0,0,344,0,0,1176,1170,100.0,Serbian <gnome-sr@googlegroups.org>
+sed,668,96,66,124,11,11,695,830,80.48192771084337,Serbian <(nothing)>
+setroubleshoot,239,10,391,73,2,93,234,640,37.34375,Serbian (http://www.transifex.com/projects/p/fedora/language/sr/)
+setroubleshoot-plugins,786,0,5460,38,0,188,698,6246,12.584053794428435,Serbian (http://www.transifex.com/projects/p/fedora/language/sr/)
+setuptool,55,0,0,14,0,0,58,55,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+shared-mime-info,1789,0,271,702,0,94,1921,2060,86.84466019417476,Serbian (http://www.transifex.com/freedesktop/shared-mime-info/language/sr/)
+sharutils,2974,173,0,299,5,0,2889,3147,94.50270098506515,Serbian <(nothing)>
+shotwell,13693,0,0,2534,0,0,15669,13693,100.0,srpski <gnome-sr@googlegroups.org>
+shutter,3093,0,0,606,0,0,3111,3093,100.0,српски <српски <xfce-i18n@xfce.org>>
+simple-scan,1833,0,1356,408,0,112,1825,3189,57.47883349012229,Serbian <sr@li.org>
+skychart,507,66,4455,241,9,1304,518,5028,10.083532219570406,Serbian <sr@li.org>
+slick-greeter,213,0,3,48,0,1,200,216,98.61111111111111,Ubuntu Serbian Translators
+snapper,3,126,963,3,32,217,3,1092,0.27472527472527475,Serbian <novell@prevod.org>
+snapshot,217,0,0,79,0,0,232,217,100.0,Serbian <gnome-sr@googlegroups.com>
+snownews,785,6,0,161,2,0,793,791,99.24146649810368,Serbian <sr@li.org>
+solaar,0,0,0,0,0,0,0,0,0.0,github.com/renatoka
+sos,108,68,70,22,14,24,100,246,43.90243902439025,Serbian <trans-sr@lists.fedoraproject.org>
+sound-juicer,2508,0,0,454,0,0,2794,2508,100.0,Serbian <gnome@prevod.org>
+soundconverter,261,0,249,106,0,23,284,510,51.17647058823529,Serbian <gnom@prevod.org>
+spacefm,6814,95,1813,1432,14,122,7134,8722,78.12428342123367,Serbian (http://www.transifex.com/projects/p/spacefm/language/sr/)
+sparkleshare,190,0,177,50,0,31,169,367,51.771117166212534,
+spectacle,334,189,332,66,41,73,315,855,39.06432748538012,Serbian <kde-i18n-sr@kde.org>
+squeekboard,13,0,0,6,0,0,12,13,100.0,Serbian <(nothing)>
+startdde,24,0,0,6,0,0,21,24,100.0,Serbian (https://www.transifex.com/linuxdeepin/teams/3617/sr/)
+stellarium,11553,0,141576,3385,0,34855,10965,153129,7.544619242599376,Serbian (https://app.transifex.com/stellarium/teams/80998/sr/)
+subtitleeditor,238,10,1569,111,5,430,233,1817,13.09851403412218,Serbian <sr@li.org>
+sudo,6234,0,0,942,0,0,6368,6234,100.0,Serbian <(nothing)>
+sugar,448,41,1816,130,12,387,431,2305,19.436008676789587,LANGUAGE <LL@li.org>
+sugar-abacus,22,0,6,22,0,1,22,28,78.57142857142857,LANGUAGE <LL@li.org>
+sugar-browse,72,1,261,31,1,39,83,334,21.55688622754491,LANGUAGE <LL@li.org>
+sugar-clock,11,0,55,4,0,17,10,66,16.666666666666664,LANGUAGE <LL@li.org>
+sugar-dimensions,48,6,122,29,3,55,48,176,27.27272727272727,LANGUAGE <LL@li.org>
+sugar-distance,95,0,4,25,0,1,94,99,95.95959595959596,LANGUAGE <LL@li.org>
+sugar-finance,48,86,124,22,2,39,42,258,18.6046511627907,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,91,0,183,25,0,41,98,274,33.21167883211679,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,149,5,59,103,4,16,160,213,69.95305164319248,LANGUAGE <LL@li.org>
+sugar-view-slides,43,0,17,22,0,1,43,60,71.66666666666667,LANGUAGE <LL@li.org>
+supertux,2250,0,680,662,0,236,2056,2930,76.79180887372013,Serbian (http://www.transifex.com/arctic-games/supertux/language/sr/)
+supertuxkart,5880,0,79,1102,0,8,5699,5959,98.67427420708172,Serbian (http://www.transifex.com/supertuxkart/supertuxkart/language/sr/)
+sushi,54,0,0,14,0,0,54,54,100.0,Serbian <gnom@prevod.org>
+sweeper,225,3,0,49,1,0,244,228,98.68421052631578,Serbian <kde-i18n-sr@kde.org>
+swell-foop,1953,0,0,206,0,0,1826,1953,100.0,Serbian <gnom@prevod.org>
+switchdesk,16,87,19,3,10,6,18,122,13.114754098360656,Serbian <fedora-trans-sr@redhat.com>
+sylpheed,6894,121,199,1728,40,29,7026,7214,95.56418075963404,српски <>
+synapse,820,0,36,226,0,8,809,856,95.7943925233645,Launchpad Serbian translators
+synfig,4059,0,820,1029,0,146,3670,4879,83.19327731092437,Serbian (Serbia) (http://www.transifex.com/morevnaproject/synfig/language/sr_RS/)
+synfigstudio,5845,0,1526,1393,0,323,6096,7371,79.29724596391263,Serbian (Serbia) (http://www.transifex.com/morevnaproject/synfig/language/sr_RS/)
+sysprof,834,0,0,226,0,0,845,834,100.0,Serbian <gnome-sr@googlegroups.org>
+sysstat,851,0,0,83,0,0,874,851,100.0,Serbian <(nothing)>
+system-config-language,197,17,1,29,1,1,184,215,91.62790697674419,Serbian <fedora-trans-sr@redhat.com>
+system-config-printer,3119,37,358,739,16,173,3081,3514,88.75924871940808,Serbian (http://www.transifex.com/projects/p/system-config-printer/language/sr/)
+system-config-rootpassword,116,0,0,19,0,0,106,116,100.0,Serbian <fedora-trans-sr@redhat.com>
+system-switch-java,81,0,0,11,0,0,75,81,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+system-switch-mail,9,88,4,6,8,3,12,101,8.91089108910891,Serbian
+systemd,1069,337,393,126,38,63,1240,1799,59.4219010561423,Serbian <https://translate.fedoraproject.org/projects/systemd/master/sr/>
+tali,4838,0,0,371,0,0,4379,4838,100.0,Serbian <gnom@prevod.org>
+tar,3519,136,22,583,13,2,3618,3677,95.7030187652978,Serbian <(nothing)>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+template-glib,23,0,0,4,0,0,24,23,100.0,српски <gnome-sr@googlegroups.org>
+tepl,346,0,0,84,0,0,317,346,100.0,српски <gnome-sr@googlegroups.org>
+terminator,207,0,1315,60,0,355,191,1522,13.600525624178712,Serbian (https://www.transifex.com/terminator/teams/109338/sr/)
+terminology,541,263,178,151,43,39,578,982,55.09164969450102,српски <xfce4@xfce4.org>
+texinfo,5512,490,556,874,56,60,5417,6558,84.05001524855139,Serbian <(nothing)>
+thunar-archive-plugin,88,0,0,15,0,0,92,88,100.0,Serbian (http://www.transifex.com/xfce/thunar-plugins/language/sr/)
+thunar-media-tags-plugin,158,0,0,60,0,0,162,158,100.0,Serbian (http://www.transifex.com/xfce/thunar-plugins/language/sr/)
+thunar-volman,484,0,0,115,0,0,459,484,100.0,Serbian (http://www.transifex.com/xfce/thunar-volman/language/sr/)
+thunderbird,742,400,485,261,124,104,798,1627,45.605408727719734,Serbian <(nothing)>
+tigervnc,1047,0,0,196,0,0,1079,1047,100.0,Serbian <(nothing)>
+tilix,2252,230,328,652,22,48,2177,2810,80.1423487544484,Serbian <https://hosted.weblate.org/projects/tilix/manpage/sr/>
+timeshift,799,0,4941,184,0,950,817,5740,13.9198606271777,Serbian <gnom@prevod.org>
+tint2,3002,975,427,311,101,49,2393,4404,68.16530426884651,
+tomboy,6872,0,0,970,0,0,6812,6872,100.0,Serbian <(nothing)>
+tortoisehg,0,0,13243,0,0,2428,0,13243,0.0,Serbian <sr@li.org>
+totem,2774,0,0,788,0,0,2886,2774,100.0,Serbian <(nothing)>
+totem-pl-parser,58,0,0,16,0,0,56,58,100.0,Serbian <gnom@prevod.org>
+tracker,2829,0,0,484,0,0,2889,2829,100.0,srpski <gnome-sr@googlegroups.org>
+tracker-miners,2651,0,0,412,0,0,2643,2651,100.0,srpski <gnome-sr@googlegroups.org>
+trader,2039,0,0,239,0,0,1863,2039,100.0,Serbian <(nothing)>
+transmission,1026,0,1415,339,0,246,1164,2441,42.0319541171651,Serbian (https://app.transifex.com/transmissionbt/teams/33778/sr/)
+tumbler,148,0,0,25,0,0,151,148,100.0,Serbian (http://www.transifex.com/xfce/tumbler/language/sr/)
+tuxpaint,2240,2040,3246,490,218,214,2030,7526,29.763486579856497,Serbian <gnu@prevod.org>
+tuxpaint-stamps,3154,65,30,786,12,7,2034,3249,97.07602339181285,
+udisks2,1498,207,482,406,28,83,1572,2187,68.49565614997714,Serbian
+ufraw,4094,226,24,818,28,4,4218,4344,94.24493554327809,Serbian <gnome@prevod.org>
+ufw,0,0,879,1,0,180,0,879,0.0,Serbian <sr@li.org>
+uget,1085,0,0,362,0,0,1087,1085,100.0,Serbian (http://www.transifex.com/uget/uget/language/sr/)
+usermode,573,0,0,96,0,0,536,573,100.0,Serbian <trans-sr@lists.fedoraproject.org>
+util-linux,115214,9109,448,10745,659,23,108398,124771,92.34036755335775,Serbian <(nothing)>
+variety,2003,0,808,338,0,45,1915,2811,71.2557808609036,Serbian (https://www.transifex.com/variety/teams/123174/sr/)
+vdr,1084,0,290,452,0,91,1075,1374,78.89374090247453,Serbian <vdr@linuxtv.org>
+viewnior,425,0,0,144,0,0,421,425,100.0,Serbian <gnom@prevod.org>
+vim,17357,0,0,2973,0,0,18773,17357,100.0,Serbian
+vinagre,1510,0,0,277,0,0,1505,1510,100.0,Serbian <gnom@prevod.org>
+virt-manager,912,196,6239,288,60,1103,912,7347,12.41322988975092,Serbian <https://translate.fedoraproject.org/projects/virt-manager/virt-manager/sr/>
+virt-top,294,0,121,68,0,16,299,415,70.8433734939759,Serbian (http://www.transifex.com/projects/p/virttop/language/sr/)
+vlc,14489,35,20255,3158,11,3116,13931,34779,41.66019724546422,Serbian (https://app.transifex.com/yaron/teams/16553/sr/)
+vodovod,178,0,279,53,0,178,167,457,38.949671772428886,LANGUAGE <LL@li.org>
+volumeicon,54,4,34,21,3,13,50,92,58.69565217391305,Serbian
+vte,80,0,0,13,0,0,89,80,100.0,Serbian <gnom@prevod.org>
+vte291,77,0,0,14,0,0,86,77,100.0,srpski <gnome-sr@googlegroups.org>
+wcd,8133,0,0,659,0,0,7548,8133,100.0,Serbian <(nothing)>
+wdiff,120,0,0,31,0,0,117,120,100.0,Serbian <(nothing)>
+webkitgtk,2146,1276,1824,516,274,350,2014,5246,40.90735798703775,Serbian <gnom@prevod.org>
+weechat,36288,290,26,3760,18,4,37383,36604,99.13670637088843,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,521116,223692,529924,36376,11764,30823,446594,1274732,40.88043604459604,Serbian
+wget,4068,23,9,650,4,1,4251,4100,99.21951219512195,Serbian <(nothing)>
+wget2,2376,190,65,439,32,9,2635,2631,90.3078677309008,Serbian <(nothing)>
+widelands,553,0,166651,179,0,15851,529,167204,0.33073371450443767,Serbian (Serbia) (http://www.transifex.com/widelands/widelands/language/sr_RS/)
+wingpanel,16,0,0,3,0,0,15,16,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,24,0,31,10,0,7,25,55,43.63636363636363,Serbian <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/sr/>
+wingpanel-indicator-bluetooth,34,26,223,19,7,57,38,283,12.014134275618375,Serbian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/sr/>
+wingpanel-indicator-datetime,115,17,45,22,3,11,109,177,64.97175141242938,Serbian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/sr/>
+wingpanel-indicator-keyboard,24,11,28,8,4,7,22,63,38.095238095238095,Serbian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/sr/>
+wireplumber,3,0,0,2,0,0,3,3,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+wxGTK,7837,0,0,1965,0,0,7632,7837,100.0,Nikola Jović <wwenikola123@gmail.com>
+xapps,73,0,0,36,0,0,70,73,100.0,Serbian <(nothing)>
+xarchiver,634,473,210,198,72,42,658,1317,48.13971146545178,Serbian (http://www.transifex.com/jmphilippe/doudoulinux/language/sr/)
+xboard,2398,95,80,682,22,20,2413,2573,93.19860085503304,Serbian <(nothing)>
+xdg-desktop-portal,88,74,92,12,8,16,85,254,34.645669291338585,српски <gnome-sr@googlegroups.org>
+xdg-desktop-portal-gnome,218,0,0,64,0,0,226,218,100.0,српски <gnome-sr@googlegroups.org>
+xdg-desktop-portal-gtk,21,46,173,9,12,43,27,240,8.75,српски <gnome-sr@googlegroups.org>
+xdg-desktop-portal-kde,7,4,143,5,2,37,9,154,4.545454545454546,Serbian <kde-i18n-sr@kde.org>
+xdg-desktop-portal-xapp,225,0,0,62,0,0,230,225,100.0,српски <gnome-sr@googlegroups.org>
+xdg-user-dirs,28,0,0,28,0,0,30,28,100.0,Serbian <(nothing)>
+xdg-user-dirs-gtk,81,0,0,11,0,0,68,81,100.0,LANGUAGE <gnom@prevod.org>
+xed,3751,0,8,921,0,2,3787,3759,99.78717744080873,Serbian <(nothing)>
+xfburn,1566,0,0,324,0,0,1521,1566,100.0,Serbian (http://www.transifex.com/xfce/xfce-apps/language/sr/)
+xfce4-appfinder,455,0,0,89,0,0,414,455,100.0,Serbian (http://www.transifex.com/xfce/xfce4-appfinder/language/sr/)
+xfce4-battery-plugin,145,0,0,42,0,0,154,145,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-calculator-plugin,39,0,0,16,0,0,36,39,100.0,Serbian (https://app.transifex.com/xfce/teams/16840/sr/)
+xfce4-clipman-plugin,567,0,0,97,0,0,516,567,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-cpufreq-plugin,174,0,0,48,0,0,174,174,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-cpugraph-plugin,188,0,0,64,0,0,186,188,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-datetime-plugin,52,0,0,19,0,0,56,52,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-dict,531,0,0,121,0,0,498,531,100.0,Serbian (http://app.transifex.com/xfce/xfce-apps/language/sr/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,174,181,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-eyes-plugin,16,0,0,5,0,0,14,16,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,70,71,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-genmon-plugin,116,0,0,29,0,0,118,116,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-mailwatch-plugin,678,0,0,123,0,0,677,678,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-mount-plugin,380,0,0,56,0,0,343,380,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-mpc-plugin,99,0,0,35,0,0,103,99,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-netload-plugin,106,0,0,39,0,0,106,106,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-notes-plugin,173,0,0,65,0,0,166,173,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-notifyd,533,0,27,130,0,5,501,560,95.17857142857142,Serbian (http://www.transifex.com/xfce/xfce-apps/language/sr/)
+xfce4-panel,1954,0,0,489,0,0,1862,1954,100.0,Serbian (https://www.transifex.com/xfce/teams/16840/sr/)
+xfce4-panel-profiles,145,0,0,34,0,0,138,145,100.0,Serbian (https://app.transifex.com/xfce/teams/16840/sr/)
+xfce4-places-plugin,162,0,0,47,0,0,151,162,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-power-manager,1029,0,0,212,0,0,982,1029,100.0,Serbian (https://app.transifex.com/xfce/teams/16840/sr/)
+xfce4-pulseaudio-plugin,195,0,0,46,0,0,181,195,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-screensaver,757,0,0,167,0,0,716,757,100.0,Serbian (https://app.transifex.com/xfce/teams/16840/sr/)
+xfce4-screenshooter,789,0,0,126,0,0,723,789,100.0,Serbian (http://app.transifex.com/xfce/xfce-apps/language/sr/)
+xfce4-sensors-plugin,433,0,0,87,0,0,422,433,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-session,781,0,0,167,0,0,771,781,100.0,Serbian (https://app.transifex.com/xfce/teams/16840/sr/)
+xfce4-settings,2476,0,0,580,0,0,2361,2476,100.0,Serbian (https://www.transifex.com/xfce/teams/16840/sr/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,24,22,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,112,129,100.0,Serbian (https://www.transifex.com/xfce/teams/16840/sr/)
+xfce4-systemload-plugin,87,0,0,23,0,0,99,87,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-taskmanager,229,0,0,74,0,0,204,229,100.0,Serbian (http://app.transifex.com/xfce/xfce-apps/language/sr/)
+xfce4-terminal,1616,0,0,400,0,0,1572,1616,100.0,Serbian (http://app.transifex.com/xfce/xfce-apps/language/sr/)
+xfce4-time-out-plugin,115,0,0,39,0,0,128,115,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-timer-plugin,138,0,0,49,0,0,142,138,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-verve-plugin,88,0,0,27,0,0,96,88,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-wavelan-plugin,80,0,0,22,0,0,88,80,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-weather-plugin,3598,0,0,321,0,0,3323,3598,100.0,Serbian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfce4-whiskermenu-plugin,439,0,0,140,0,0,446,439,100.0,Serbian (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/sr/)
+xfce4-xkb-plugin,65,0,0,24,0,0,64,65,100.0,Serbian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sr/)
+xfconf,458,0,0,67,0,0,450,458,100.0,Serbian (http://app.transifex.com/xfce/xfconf/language/sr/)
+xfdashboard,1106,0,0,157,0,0,1056,1106,100.0,Serbian (https://www.transifex.com/xfce/teams/16840/sr/)
+xfdesktop,1081,0,0,257,0,0,1054,1081,100.0,Serbian (https://www.transifex.com/xfce/teams/16840/sr/)
+xfmpc,175,0,0,78,0,0,189,175,100.0,Serbian (http://www.transifex.com/xfce/xfce-apps/language/sr/)
+xfpanel-switch,58,0,43,21,0,5,64,101,57.42574257425742,Serbian <sr@li.org>
+xfwm4,670,0,0,179,0,0,676,670,100.0,Serbian (http://www.transifex.com/xfce/xfwm4/language/sr/)
+xkeyboard-config,4090,0,0,1272,0,0,4083,4090,100.0,Serbian <(nothing)>
+xpad,0,0,436,0,0,135,0,436,0.0,Serbian <sr@li.org>
+xreader,2141,0,1252,427,0,109,2073,3393,63.100501031535515,Serbian (sr) <gnom@prevod.org>
+xsane,3906,0,7,870,0,3,3915,3913,99.82110912343471,
+xz,1167,177,67,137,17,26,1118,1411,82.70729978738484,Serbian <(nothing)>
+yakuake,1568,5,29,220,1,5,1394,1602,97.8776529338327,Serbian <kde-i18n-sr@kde.org>
+yelp,799,0,0,178,0,0,711,799,100.0,srpski <gnome-sr@googlegroups.org>
+yelp-xsl,88,0,0,64,0,0,81,88,100.0,Serbian <gnom@prevod.org>
+zenity,1792,0,0,398,0,0,1758,1792,100.0,srpski <gnom@prevod.org>
+zypper,20,617,9010,19,156,1101,20,9647,0.2073183373069348,Serbian <novell@prevod.org>

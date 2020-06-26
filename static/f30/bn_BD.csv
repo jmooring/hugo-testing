@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,479,0,158523,73,0,18175,340,159002,0.3012540722758204,Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/)
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Bengali (Bangladesh)
+modem-manager-gui,827,0,2481,163,0,406,854,3308,25.0,Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/)
+squirrelmail,18710,0,0,3291,0,0,19807,18710,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+uget,591,0,494,244,0,118,618,1085,54.47004608294931,Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/)

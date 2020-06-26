@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,52,42,100.0,Bemba Team <bem@li.org>
+slick-greeter,55,0,156,19,0,28,54,211,26.066350710900476,Bemba <bem@li.org>

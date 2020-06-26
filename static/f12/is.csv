@@ -1,0 +1,219 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,1990,0,894,484,0,454,1931,2884,69.00138696255202,<dagurp@gmail.com>
+GConf2,1159,133,2662,178,22,261,1217,3954,29.312089023773396,Icelandic <gnome@techattack.nu>
+LabPlot,0,1402,1848,0,738,611,0,3250,0.0,LANGUAGE <LL@li.org>
+Miro,165,0,3171,68,0,656,158,3336,4.946043165467626,Icelandic <is@li.org>
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+anaconda,6436,1156,1285,829,130,153,6155,8877,72.50197138672975,Icelandic <kde-isl@molar.is>
+at-spi,15,0,0,4,0,0,11,15,100.0,is <is@li.org>
+atk,31,96,248,31,48,47,32,375,8.266666666666666,Icelandic <gnome@techattack.nu>
+atomix,125,0,0,44,0,0,127,125,100.0,Icelandic <gnome@techattack.nu>
+authconfig,1048,157,152,204,23,15,959,1357,77.22918201915991,Icelandic <kde-isl@molar.is>
+avant-window-navigator,187,3,1465,22,2,255,199,1655,11.299093655589123,Icelandic <is@li.org>
+bittorrent,3906,0,0,634,0,0,3912,3906,100.0,LANGUAGE <LL@li.org>
+byobu,177,0,0,44,0,0,173,177,100.0,Icelandic <is@li.org>
+chkconfig,448,0,0,90,0,0,456,448,100.0,icelandic <kde-isl@molar.is>
+control-center,1965,476,941,457,162,117,1719,3382,58.1017149615612,Icelandic <gnome@techattack.nu>
+deluge,1998,0,0,689,0,0,2073,1998,100.0,Icelandic <is@li.org>
+desktop-effects,148,0,0,25,0,0,144,148,100.0,Icelandic <rglug@rglug.org>
+devhelp,180,0,42,44,0,9,151,222,81.08108108108108,Icelandic <gnome@techattack.nu>
+dia,136,94,5481,100,63,1883,140,5711,2.3813692873402204,Icelandic <gnome@techattack.nu>
+eel2,140,0,95,28,0,24,129,235,59.57446808510638,Icelandic <gnome@techattack.nu>
+ekiga,86,0,6256,49,0,747,89,6342,1.3560391043834754,Icelandic <gnome@techattack.nu>
+elinks,349,1471,10414,165,470,990,341,12234,2.8527055746280854,Icelandic <kde-isl@mmedia.is>
+emerillon,133,1,205,15,1,56,141,339,39.233038348082594,Icelandic
+eog,194,189,174,73,35,42,186,557,34.8294434470377,Icelandic <gnome@techattack.nu>
+epiphany,253,53,2426,157,30,578,241,2732,9.260614934114201,Icelandic <gnome@techattack.nu>
+evolution,208,690,16304,157,347,3776,204,17202,1.2091617253807696,Icelandic <gnome@techattack.nu>
+evolution-data-server,219,295,16556,161,149,3823,215,17070,1.2829525483304043,Icelandic <gnome@techattack.nu>
+file-roller,676,165,130,184,38,22,635,971,69.61894953656025,Icelandic <gnome@techattack.nu>
+filezilla,412,68,8622,180,21,1339,442,9102,4.526477697209405,
+firstboot,654,0,0,54,0,0,655,654,100.0,icelandic <kde-isl@molar.is>
+gallery2,2,0,11104,2,0,1903,2,11106,0.018008283810552854,Icelandic <gallery-translations@lists.sourceforge.net>
+gdeskcal,85,0,0,33,0,0,84,85,100.0,Icelandic <gnome@techattack.nu>
+gdesklets,30,0,1374,9,0,182,26,1404,2.1367521367521367,Icelandic <gnome@techattack.nu>
+gdm,102,6,5182,58,1,639,103,5290,1.9281663516068055,Icelandic <gnome@techattack.nu>
+gedit,308,171,3727,176,92,752,298,4206,7.322872087494056,Icelandic <gnome@techattack.nu>
+ggz-gtk-client,7,0,0,7,0,0,7,7,100.0,Icelandic <gnome@techattack.nu>
+gimp,5469,0,13893,1864,0,2321,5123,19362,28.246048961884103,Icelandic
+glib2,661,527,1265,73,96,231,621,2453,26.94659600489197,is <is@li.org>
+gnome-applet-bubblemon,11,0,27,4,0,10,10,38,28.947368421052634,
+gnome-applets,2890,22,42,659,6,7,2649,2954,97.8334461746784,Icelandic
+gnome-desktop,249,0,102,42,0,11,259,351,70.94017094017094,Icelandic <kde-isl@molar.is>
+gnome-do,265,0,205,85,0,34,292,470,56.38297872340425,Icelandic <is@li.org>
+gnome-do-plugins,633,0,1690,186,0,396,699,2323,27.249246663796818,Icelandic <is@li.org>
+gnome-games,2736,1448,2882,677,496,525,2162,7066,38.720634022077554,Icelandic <gnome@techattack.nu>
+gnome-icon-theme,34,2,16,31,1,14,35,52,65.38461538461539,Icelandic <gnome@techattack.nu>
+gnome-keyring,7,0,704,4,0,53,8,711,0.9845288326300985,Icelandic <gnome@techattack.nu>
+gnome-mag,5,0,0,2,0,0,3,5,100.0,Icelandic <gnome@techattack.nu>
+gnome-menus,157,0,0,56,0,0,150,157,100.0,Icelandic
+gnome-mime-data,857,21,9,351,8,3,760,887,96.61781285231116,Icelandic <gnome@techattack.nu>
+gnome-netstatus,417,0,0,106,0,0,356,417,100.0,Icelandic
+gnome-panel,4632,0,0,637,0,0,4203,4632,100.0,Icelandic
+gnome-power-manager,1384,271,1131,156,51,220,1363,2786,49.676956209619526,Icelandic
+gnome-screensaver,955,0,0,152,0,0,915,955,100.0,Icelandic
+gnome-session,513,3,0,100,1,0,478,516,99.4186046511628,Icelandic <gnome@techattack.nu>
+gnome-settings-daemon,158,207,669,28,45,98,138,1034,15.28046421663443,Icelandic <gnome@techattack.nu>
+gnome-themes,95,0,6,32,0,2,95,101,94.05940594059405,Icelandic <gnome@techattack.nu>
+gnome-vfs2,225,77,980,66,20,162,223,1282,17.550702028081123,Icelandic <gnome@techattack.nu>
+gnomebaker,23,0,1163,10,0,281,22,1186,1.93929173693086,Icelandic <is@li.org>
+gnubg,2114,942,13519,540,251,2236,1942,16575,12.754147812971341,none
+gourmet,27,82,3538,7,21,840,30,3647,0.7403345215245407,Icelandic <is@li.org>
+gparted,1381,94,0,302,8,0,1439,1475,93.62711864406779,Icelandic <kde-isl@molar.is>
+gtg,18,0,1371,9,0,191,20,1389,1.2958963282937366,Icelandic <is@li.org>
+gtk2,1456,1924,9978,285,545,1903,1395,13358,10.899835304686329,is <kde-isl@molar.is>
+gtranslator,1393,1,0,365,1,0,1260,1394,99.92826398852223,Icelandic <gnome@techattack.nu>
+gucharmap,0,0,0,0,0,0,0,0,0.0,
+gwibber,22,0,23,14,0,10,22,45,48.888888888888886,Icelandic <is@li.org>
+homebank,1502,0,5,532,0,2,1438,1507,99.66821499668215,Icelandic <is@li.org>
+horde,242,1045,6101,118,352,1484,246,7388,3.275582024905252,Icelandic <support@snerpa.is>
+hwbrowser,116,0,0,51,0,0,102,116,100.0,Icelandic <kde-isl@molar.is>
+im-chooser,20,43,89,10,8,16,19,152,13.157894736842104,icelandic <kde-isl@molar.is>
+imp,2872,0,2295,706,0,345,2855,5167,55.583510741242506,Icelandic <support@snerpa.is>
+imsettings,0,52,927,0,10,145,0,979,0.0,is <kde-isl@molar.is>
+initscripts,2611,1178,454,582,357,93,2611,4243,61.536648597690316,icelandic <kde-isl@molar.is>
+iso-codes,229,3021,9055,206,2571,5840,223,12305,1.8610321007720438,Icelandic <kde-isl@molar.is>
+k3b,10965,2835,6821,1753,409,368,10095,20621,53.17394888705689,Icelandic <kde-isl@molar.is>
+kcoloredit,278,0,0,95,0,0,278,278,100.0,Icelandic <kde-isl@molar.is>
+kde-plasma-networkmanagement,750,333,956,310,154,221,731,2039,36.78273663560569,Icelandic <kde-isl@molar.is>
+kdetv,0,0,2206,0,0,483,0,2206,0.0,LANGUAGE <LL@li.org>
+kexec-tools,95,39,72,9,2,3,92,206,46.116504854368934,is <kde-isl@molar.is>
+kgrab,370,0,0,53,0,0,343,370,100.0,Icelandic <kde-isl@molar.is>
+kiconedit,726,0,0,155,0,0,650,726,100.0,<is@li.org>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Icelandic <kde-isl@molar.is>
+kiosktool,0,0,2289,0,0,238,0,2289,0.0,LANGUAGE <LL@li.org>
+kipi-plugins,8773,1476,4922,1894,643,401,8439,15171,57.82743391997891,Icelandic <kde-isl@molar.is>
+kmid,523,6,6,205,4,5,473,535,97.75700934579439,Icelandic <kde-isl@molar.is>
+knemo,0,446,657,0,158,149,0,1103,0.0,icelandic <kde-isl@molar.is>
+konq-plugins,1665,21,6,530,11,5,1621,1692,98.40425531914893,Icelandic <kde-isl@molar.is>
+kopete-cryptography,61,347,0,21,20,0,55,408,14.950980392156863,icelandic <kde-isl@molar.is>
+kphotoalbum,56,1255,5022,24,367,372,54,6333,0.884257066161377,Icelandic <kde-isl@molar.is>
+kpilot,1242,2654,3260,297,356,208,1137,7156,17.356064840693126,Icelandic <kde-isl@molar.is>
+krecipes,0,0,3087,0,0,568,0,3087,0.0,LANGUAGE <LL@li.org>
+ksig,71,2,12,17,1,8,68,85,83.52941176470588,Icelandic <kde-isl@molar.is>
+kst,0,466,6980,0,354,1458,0,7446,0.0,icelandic <kde-isl@molar.is>
+ktorrent,174,6907,481,83,1126,120,188,7562,2.3009785770960063,<is@li.org>
+libbonobo,468,15,41,97,4,7,454,524,89.31297709923665,is <is@li.org>
+libbonoboui,314,7,39,92,3,18,277,360,87.22222222222223,is <is@li.org>
+libgnome,1292,0,115,209,0,10,1215,1407,91.82658137882018,icelandic <gnome@techattack.nu>
+libgnomecanvas,339,18,0,92,2,0,303,357,94.9579831932773,Icelandic
+libgnomecups,55,0,155,17,0,37,58,210,26.190476190476193,Icelandic <gnome@techattack.nu>
+libgnomeprint22,147,0,21,92,0,6,142,168,87.5,Icelandic <gnome@techattack.nu>
+libgnomeprintui22,273,60,94,81,27,27,246,427,63.934426229508205,Icelandic <gnome@techattack.nu>
+libgnomeui,1178,113,128,298,23,24,1056,1419,83.01620859760395,Icelandic <gnome@techattack.nu>
+libgweather,73,33,354,45,15,119,72,460,15.869565217391305,Icelandic <gnome@techattack.nu>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,0,0,25,0,0,14,0,25,0.0,LANGUAGE <LL@li.org>
+libktorrent,41,349,27,14,74,4,49,417,9.832134292565947,<is@li.org>
+libuser,1082,12,20,229,2,2,1176,1114,97.12746858168761,icelandic <kde-isl@molar.is>
+libvirt,1103,11086,7994,259,2054,1186,1103,20183,5.464995293068424,none
+libwnck,33,27,13,17,8,5,43,73,45.20547945205479,Icelandic <gnome@techattack.nu>
+liveusb-creator,19,0,461,9,0,43,21,480,3.958333333333333,Icelandic <rglug@rglug.org>
+lxmenu-data,97,0,0,37,0,0,92,97,100.0,Icelandic
+metacity,599,73,6247,130,22,312,631,6919,8.657320422026304,Icelandic <gnome@techattack.nu>
+mingw32-atk,31,96,248,31,48,47,32,375,8.266666666666666,Icelandic <gnome@techattack.nu>
+mingw32-glib2,661,527,1275,73,96,234,621,2463,26.8371904181892,is <is@li.org>
+mingw32-gtk2,1456,1919,9976,285,544,1902,1395,13351,10.905550146056475,is <kde-isl@molar.is>
+muine,302,40,0,72,5,0,279,342,88.30409356725146,Icelandic <gnome@techattack.nu>
+multimedia-menus,56,0,0,22,0,0,66,56,100.0,Icelandic <kde-isl@molar.is>
+mutter,599,73,6247,130,22,312,631,6919,8.657320422026304,Icelandic <gnome@techattack.nu>
+nautilus,7021,1599,0,1190,198,0,6756,8620,81.45011600928073,Icelandic <rglug@rglug.is>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+passwd,56,0,243,17,0,36,50,299,18.729096989966553,icelandic <kde-isl@molar.is>
+pgadmin3,2,0,9004,1,0,2530,2,9006,0.02220741727737064,LANGUAGE <LL@li.org>
+picard,32,0,1278,25,0,580,41,1310,2.4427480916030535,Icelandic <is@li.org>
+planner,1795,0,0,527,0,0,1777,1795,100.0,Icelandic
+poedit,731,226,205,201,38,30,708,1162,62.908777969018935,Icelandic <sammi@techattack.nu>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,3497,0,0,1462,0,0,3475,3497,100.0,LANGUAGE <LL@li.org>
+popt,68,0,7,25,0,2,75,75,90.66666666666666,is <kde-isl@mmedia.is>
+publican,332,563,199,21,19,32,359,1094,30.347349177330894,icelandic <kde-isl@molar.is>
+publican-fedora,106,0,1,5,0,1,115,107,99.06542056074767,icelandic <kde-isl@molar.is>
+pykickstart,284,0,0,25,0,0,275,284,100.0,icelandic <kde-isl@molar.is>
+redhat-menus,261,0,0,86,0,0,233,261,100.0,Icelandic <kde-isl@molar.is>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,750,774,3296,124,140,190,715,4820,15.560165975103734,Icelandic <kde-isl@molar.is>
+rhnsd,42,0,0,10,0,0,40,42,100.0,is <kde-isl@molar.is>
+rhpl,185,0,0,80,0,0,181,185,100.0,Icelandic <kde-isl@molar.is>
+rhythmbox,1099,0,124,312,0,14,994,1223,89.86099754701553,Icelandic <is@li.org>
+rpm,508,563,2827,107,118,534,507,3898,13.032324268855824,is <kde-isl@mmedia.is>
+rsibreak,0,52,1171,0,31,129,0,1223,0.0,icelandic <kde-isl@molar.is>
+setroubleshoot,0,0,606,0,0,146,0,606,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8755,0,0,266,0,8755,0.0,LANGUAGE <LL@li.org>
+setuptool,55,0,0,14,0,0,52,55,100.0,icelandic <kde-isl@molar.is>
+skanlite,142,0,0,51,0,0,133,142,100.0,Icelandic <kde-isl@molar.is>
+skychart,3962,0,127,1247,0,55,3683,4089,96.89410613842016,<translation@ap-i.net>
+smb4k,414,1533,4633,170,226,329,403,6580,6.291793313069909,Icelandic <kde-isl@molar.is>
+smolt,105,54,807,42,16,74,113,966,10.869565217391305,icelandic <kde-isl@molar.is>
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,41728,49017,214549,1604,5738,9508,44674,305294,13.668136288299149,<it@li.org>
+squirrelmail,3055,1455,2368,900,236,215,2919,6878,44.41698168072114,Icelandic <is@li.org>
+stellarium,1794,0,613,681,0,260,1568,2407,74.53261321146655,icelandic <kde-isl@molar.is>
+sugar,0,0,234,0,0,92,0,234,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,35,0,17,19,0,8,42,52,67.3076923076923,LANGUAGE <LL@li.org>
+sugar-calculator,84,14,518,33,2,113,84,616,13.636363636363635,
+sugar-chat,16,0,5,8,0,2,15,21,76.19047619047619,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,33,31,100.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,79,0,0,16,0,79,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,1,1,38,1,1,10,1,40,2.5,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,19,0,6,13,0,3,17,25,76.0,LANGUAGE <LL@li.org>
+sugar-record,58,12,67,29,4,40,65,137,42.33576642335766,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,58,0,11,37,0,5,59,69,84.05797101449275,LANGUAGE <LL@li.org>
+switchdesk,137,0,0,19,0,0,121,137,100.0,<is@li.org>
+system-config-bind,42,439,8938,23,124,917,40,9419,0.4459072088332095,Icelandic <kde-isl@molar.is>
+system-config-boot,46,2,71,10,1,12,43,119,38.655462184873954,icelandic <kde-isl@molar.is>
+system-config-date,1750,0,0,799,0,0,1564,1750,100.0,Icelandic <rglug@rglug.org>
+system-config-date-docs,0,0,728,0,0,53,0,728,0.0,LANGUAGE <LL@li.org>
+system-config-display,415,0,0,69,0,0,375,415,100.0,Icelandic <kde-isl@molar.is>
+system-config-firewall,212,629,1789,72,74,171,219,2630,8.060836501901141,Icelandic <kde-isl@molar.is>
+system-config-httpd,877,0,0,227,0,0,827,877,100.0,Icelandic <rglug@rglug.org>
+system-config-kdump,107,11,265,22,1,12,105,383,27.93733681462141,Icelandic <kde-isl@molar.is>
+system-config-keyboard,187,0,0,81,0,0,175,187,100.0,Icelandic <kde-isl@molar.is>
+system-config-kickstart,1039,0,0,264,0,0,966,1039,100.0,icelandic <kde-isl@molar.is>
+system-config-language,158,9,156,39,2,15,161,323,48.91640866873065,Icelandic <rglug@rglug.org>
+system-config-lvm,2049,35,58,320,4,12,1870,2142,95.65826330532214,Icelandic <kde-isl@molar.is>
+system-config-netboot,894,136,73,141,8,16,817,1103,81.05167724388032,is <kde-isl@molar.is>
+system-config-network,3022,0,0,718,0,0,2725,3022,100.0,Icelandic <rglug@rglug.org>
+system-config-nfs,332,0,0,72,0,0,310,332,100.0,is <kde-isl@molar.is>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,405,506,2116,145,189,342,388,3027,13.37958374628345,Icelandic <kde-isl@molar.is>
+system-config-rootpassword,116,0,0,19,0,0,101,116,100.0,icelandic <kde-isl@molar.is>
+system-config-samba,514,0,21,127,0,3,510,535,96.07476635514018,Icelandic <rglug@rglug.org>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,24,0,380,10,0,47,20,404,5.9405940594059405,is <kde-isl@molar.is>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1370,0,0,170,0,0,1257,1370,100.0,Icelandic <rglug@rglug.org>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,122,134,100.0,Icelandic <kde-isl@molar.is>
+tomboy,538,0,0,73,0,0,467,538,100.0,Icelandic <is@li.org>
+totem,1196,156,67,303,28,14,1047,1419,84.2847075405215,Icelandic <gnome@techattack.nu>
+totem-pl-parser,1291,49,61,318,9,11,1131,1401,92.1484653818701,Icelandic <rglug@rglug.org>
+transmission,1179,0,463,372,0,77,1348,1642,71.8026796589525,Icelandic <is@li.org>
+turba,141,269,546,69,64,114,134,956,14.748953974895398,support@snerpa.is
+tuxpaint,341,238,182,92,35,59,315,761,44.809461235216816,Icelandic <kde-isl@molar.is>
+tuxpaint-stamps,652,633,1332,150,246,230,354,2617,24.914023691249522,
+usermode,562,0,0,94,0,0,563,562,100.0,icelandic <kde-isl@molar.is>
+vidalia,0,0,8645,0,0,926,0,8645,0.0,LANGUAGE <LL@li.org>
+virt-manager,34,541,3175,20,213,638,33,3750,0.9066666666666667,is <kde-isl@molar.is>
+virtaal,1171,0,0,314,0,0,1094,1171,100.0,LANGUAGE <LL@li.org>
+vte,96,0,0,18,0,0,128,96,100.0,Icelandic <gnome@techattack.nu>
+wesnoth,18462,97,194077,3452,4,9653,17476,212636,8.68244323632875,
+xchat-gnome,158,156,3587,62,27,891,141,3901,4.050243527300692,Icelandic <is@li.org>
+xdg-user-dirs,26,2,0,26,2,0,26,28,92.85714285714286,Icelandic <(nothing)>
+yelp,65,90,451,30,47,71,65,606,10.726072607260726,Icelandic <gnome@techattack.nu>
+yum-rhn-plugin,62,0,45,9,0,5,58,107,57.943925233644855,is <kde-isl@molar.is>
+zenity,139,125,130,55,34,23,119,394,35.27918781725889,Icelandic <gnome@techattack.nu>

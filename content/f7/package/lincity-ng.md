@@ -1,0 +1,48 @@
+---
+title: "lincity-ng - translation progress for f7"
+package: lincity-ng
+date: 2026-01-17T07:10:16+00:00
+started_languages: 10
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 20
+release: f7
+---
+The package lincity-ng (version 1.1.1):
+
+* represents 1854 source words to be translated
+* is translated into 10 languages in Fedora f7
+
+
+* contains 20 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [nl]({{< ref "/f7/language/nl.md" >}}) | 1747 | 1747 | 100.0 | /mnt/stockage/packages/f7/lincity-ng/data/locale/nl.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/nl.po | 
+ | [sv]({{< ref "/f7/language/sv.md" >}}) | 1822 | 1822 | 100.0 | /mnt/stockage/packages/f7/lincity-ng/data/locale/sv.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/sv.po | 
+ | [fr]({{< ref "/f7/language/fr.md" >}}) | 1739 | 1747 | 99.5 | /mnt/stockage/packages/f7/lincity-ng/data/locale/fr.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/fr.po | 
+ | [ca]({{< ref "/f7/language/ca.md" >}}) | 1723 | 1742 | 98.9 | /mnt/stockage/packages/f7/lincity-ng/data/locale/ca.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/ca.po | 
+ | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1784 | 1822 | 97.9 | /mnt/stockage/packages/f7/lincity-ng/data/locale/pt_BR.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/pt_BR.po | 
+ | [es]({{< ref "/f7/language/es.md" >}}) | 1705 | 1747 | 97.6 | /mnt/stockage/packages/f7/lincity-ng/data/locale/es.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/es.po | 
+ | [pl]({{< ref "/f7/language/pl.md" >}}) | 1649 | 1747 | 94.4 | /mnt/stockage/packages/f7/lincity-ng/data/locale/pl.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/pl.po | 
+ | [de]({{< ref "/f7/language/de.md" >}}) | 1687 | 1822 | 92.6 | /mnt/stockage/packages/f7/lincity-ng/data/locale/de.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/de.po | 
+ | [ru]({{< ref "/f7/language/ru.md" >}}) | 1636 | 1854 | 88.2 | /mnt/stockage/packages/f7/lincity-ng/data/locale/ru.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/ru.po | 
+ | [cs]({{< ref "/f7/language/cs.md" >}}) | 1042 | 1747 | 59.6 | /mnt/stockage/packages/f7/lincity-ng/data/locale/cs.po/mnt/stockage/packages/f7/lincity-ng/data/locale/gui/cs.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

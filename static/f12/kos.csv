@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+sugar-browse,1,0,52,1,0,28,1,53,1.8867924528301887,LANGUAGE <LL@li.org>
+sugar-chat,0,0,26,0,0,12,0,26,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,25,0,0,12,0,25,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,99,0,0,21,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-physics,1,0,21,1,0,21,1,22,4.545454545454546,LANGUAGE <LL@li.org>
+sugar-read,0,0,59,0,0,31,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,17,0,0,10,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,0,0,127,0,0,86,0,127,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,36,0,0,23,0,36,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deluge,82,0,2644,20,0,857,89,2726,3.008070432868672,Neapolitan <nap@li.org>
+gnome-do,37,0,575,13,0,131,39,612,6.045751633986928,Neapolitan <nap@li.org>
+midori,451,0,2896,111,0,655,556,3347,13.474753510606513,Neapolitan <nap@li.org>
+pootle,134,201,2089,65,46,348,183,2424,5.528052805280528,Napulitano <napulitano@nap.i-iter.mobi>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

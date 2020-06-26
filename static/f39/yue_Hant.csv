@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+minetest,1,0,9675,1,0,1334,1,9676,0.010334849111202976,Yue (Traditional) <https://hosted.weblate.org/projects/minetest/minetest/yue_Hant/>
+python-sphinx,0,0,4923,0,0,754,0,4923,0.0,Cantonese (http://www.transifex.com/sphinx-doc/sphinx-1/language/yue/)

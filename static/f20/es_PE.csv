@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+fuse-encfs,134,0,1181,24,0,115,177,1315,10.190114068441064,Spanish (Peru) <es_PE@li.org>
+libgweather,447,9,4,170,5,4,537,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmateweather,361,0,126,153,0,28,425,487,74.12731006160165,LANGUAGE <LL@li.org>
+mate-applets,1814,0,469,423,0,119,2168,2283,79.4568550153307,Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/)
+openerp7,214,0,34098,57,0,3969,254,34312,0.6236885054791327,Spanish (Peru) <es_PE@li.org>

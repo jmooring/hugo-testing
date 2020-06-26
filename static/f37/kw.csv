@@ -1,0 +1,25 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+initial-setup,0,0,66,0,0,14,0,66,0.0,Cornish (United Kingdom)
+iso-codes,293,14,679,211,5,206,294,986,29.71602434077079,Cornish <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kw/>
+isomaster,11,0,663,10,0,97,11,674,1.6320474777448073,http://littlesvr.ca/ostd/
+libvirt-sandbox,0,0,1234,0,0,222,0,1234,0.0,Cornish (United Kingdom)
+mc,0,0,4408,0,0,1273,0,4408,0.0,Cornish (http://www.transifex.com/mc/mc/language/kw/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pam,0,0,535,0,0,100,0,535,0.0,Cornish (United Kingdom)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-fedora,0,0,428,0,0,58,0,428,0.0,Cornish (United Kingdom)
+python-meh,0,0,218,0,0,46,0,218,0.0,Cornish
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,173,0,38,37,0,10,177,211,81.99052132701422,Cornish <kw@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,38,13,162,37,7,79,38,213,17.84037558685446,LANGUAGE <LL@li.org>
+supertuxkart,0,0,0,0,0,0,0,0,0.0,
+warmux,1273,667,804,251,105,116,1909,2744,46.39212827988338,Treylyansow <treylyansow@kernewegva.com>

@@ -1,0 +1,178 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4017,0,0,479,0,0,4654,4017,100.0,Hindi <fedora-trans-hi@redhat.com>
+HelixPlayer,1153,0,855,449,0,85,1434,2008,57.420318725099605,"Hindi, India <dysxhi@yahoo.co.in>"
+alacarte,74,0,0,30,0,0,90,74,100.0,Hindi <fedora-trans-hi@redhat.com>
+amarok,1443,3630,8119,405,1006,1092,1736,13192,10.93844754396604,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+anaconda,10203,0,0,1245,0,0,11864,10203,100.0,Hindi <hindi.sf.net>
+anjuta,109,3326,3634,83,1181,677,132,7069,1.5419436978356202,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+at-spi,4,0,0,2,0,0,4,4,100.0,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+atk,370,0,0,123,0,0,403,370,100.0,Hindi <fedora-trans-hi@redhat.com>
+atomix,125,0,0,44,0,0,152,125,100.0,Gnome Hindi Team<indlinux-hindi-gnome@lists.sourceforge.net>
+audacious,433,608,677,147,214,94,574,1718,25.20372526193248,"Hindi, India <dysxhi@yahoo.co.in>"
+authconfig,1133,0,0,223,0,0,1421,1133,100.0,Hindi <hindi.sf.net>
+balsa,1860,1954,1534,516,527,244,2336,5348,34.77935676888556,Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net>
+beagle,293,44,554,126,17,84,325,891,32.88439955106622,Hindi <indlinux-hindi@lists.sourceforge.net>
+bug-buddy,215,29,586,43,3,34,244,830,25.903614457831324,Hindi <fedora-trans-hi@redhat.com>
+chkconfig,430,0,0,88,0,0,512,430,100.0,Hindi <fedora-trans-hi@redhat.com>
+compat-wxGTK26,3984,658,692,840,154,119,5344,5334,74.69066366704162,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+compiz,66,0,0,11,0,0,87,66,100.0,Hindi <fedora-trans-hi@redhat.com>
+control-center,3359,106,80,770,4,3,3944,3545,94.75317348377997,Hindi <fedora-trans-hi@redhat.com>
+dasher,383,33,126,139,16,16,465,542,70.66420664206642,Hindi <fedora-trans-hi@redhat.com>
+deskbar-applet,291,36,394,118,4,32,320,721,40.36061026352289,Hindi <fedora-trans-hi@redhat.com>
+devhelp,21,7,181,9,4,38,21,209,10.047846889952153,Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net>
+dialog,4,0,21,4,0,19,5,25,16.0,Ravishankar Shrivastava <raviratlami@yahoo.com>
+drgeo,1870,90,25,447,9,5,2135,1985,94.20654911838791,Hindi
+eel2,235,0,0,52,0,0,233,235,100.0,Hindi <fedora-trans-hi@redhat.com>
+ekiga,2916,1876,379,528,181,66,3225,5171,56.39141365306517,Hindi <fedora-trans-hi@redhat.com>
+eog,819,0,0,192,0,0,951,819,100.0,Hindi <fedora-trans-hi@redhat.com>
+epiphany,3067,443,456,766,63,46,3390,3966,77.33232476046395,Hindi <fedora-trans-hi@redhat.com>
+evince,719,66,62,234,8,9,796,847,84.88783943329398,Hindi <fedora-trans-hi@redhat.com>
+evolution,18871,0,0,4591,0,0,22247,18871,100.0,Hindi <fedora-trans-hi@redhat.com>
+evolution-data-server,4726,220,39,986,42,6,5735,4985,94.80441323971915,Hindi <fedora-trans-hi@redhat.com>
+evolution-exchange,1139,78,0,176,9,0,1322,1217,93.59079704190633,Hindi <fedora-trans-hi@redhat.com>
+evolution-webcal,180,0,0,29,0,0,199,180,100.0,Hindi <fedora-trans-hi@redhat.com>
+f-spot,186,1788,146,125,409,55,256,2120,8.773584905660377,Hindi <indlinux-hindi@lists.sourceforge.net>
+fast-user-switch-applet,485,0,563,80,0,35,533,1048,46.278625954198475,Hindi <fedora-trans-hi@redhat.com>
+file-roller,957,0,0,242,0,0,1118,957,100.0,Hindi <fedora-trans-hi@redhat.com>
+firstboot,598,0,0,59,0,0,642,598,100.0,Hindi <fedora-trans-hi@redhat.com>
+gail,170,0,0,103,0,0,197,170,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+gcalctool,1015,0,0,357,0,0,1119,1015,100.0,Hindi <fedora-trans-hi@redhat.com>
+gcompris,9980,0,3,1174,0,1,9598,9983,99.96994891315236,Anand Kulkarni <LL@li.org>
+gconf-editor,329,0,0,98,0,0,408,329,100.0,Hindi <fedora-trans-hi@redhat.com>
+gdm,7175,0,0,937,0,0,8219,7175,100.0,Hindi <hindi.sf.net>
+gedit,5095,0,0,1109,0,0,5839,5095,100.0,Hindi <hindi.sf.net>
+gedit-plugins,207,48,26,37,10,5,253,281,73.66548042704626,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+genius,169,16,2596,75,5,377,201,2781,6.076950737144912,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+glib2,1174,69,113,139,10,24,1381,1356,86.57817109144543,Hindi <fedora-trans-hi@redhat.com>
+gnome-applets,3868,0,0,977,0,0,4280,3868,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-backgrounds,18,0,0,9,0,0,20,18,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+gnome-desktop,323,0,0,73,0,0,408,323,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-doc-utils,213,0,0,80,0,0,218,213,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-games,7325,0,0,1767,0,0,8118,7325,100.0,Hindi <hindi.sf.net>
+gnome-icon-theme,53,0,0,47,0,0,53,53,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-keyring,565,146,0,51,6,0,561,711,79.46554149085794,Hindi <fedora-trans-hi@redhat.com>
+gnome-keyring-manager,365,0,0,96,0,0,392,365,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-mag,5,0,0,2,0,0,5,5,100.0,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+gnome-media,1787,0,0,505,0,0,1971,1787,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-menus,136,0,0,49,0,0,155,136,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-mime-data,887,0,0,362,0,0,899,887,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+gnome-netstatus,425,0,0,110,0,0,456,425,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-nettool,535,0,0,181,0,0,583,535,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-panel,3694,737,169,518,57,35,4094,4600,80.30434782608695,Hindi <fedora-trans-hi@redhat.com>
+gnome-power-manager,2310,0,1128,389,0,75,2001,3438,67.19022687609075,Hindi <hindi.sf.net>
+gnome-screensaver,837,383,119,173,21,7,954,1339,62.50933532486931,Hindi <fedora-trans-hi@redhat.com>
+gnome-session,571,0,0,106,0,0,688,571,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-system-monitor,847,0,0,210,0,0,991,847,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-terminal,4595,0,0,510,0,0,5148,4595,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-themes,80,0,0,24,0,0,93,80,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-utils,3022,339,720,634,31,52,3352,4081,74.05047782406274,Hindi <fedora-trans-hi@redhat.com>
+gnome-vfs2,1506,0,0,300,0,0,1668,1506,100.0,Hindi <fedora-trans-hi@redhat.com>
+gnome-volume-manager,755,235,179,123,36,34,867,1169,64.58511548331907,Hindi <fedora-trans-hi@redhat.com>
+gok,1867,0,0,429,0,0,2109,1867,100.0,Hindi <fedora-trans-hi@redhat.com>
+grass,8,21274,8308,2,3146,1311,9,29590,0.027036160865157147,Hindi <translations@grass.itc.it>
+gthumb,315,0,2280,211,0,666,446,2595,12.138728323699421,Hindi <fedora-trans-hi@redhat.com>
+gtk2,11179,575,338,2252,99,61,12042,12092,92.44955342375124,Hindi <indlinux-hindi@lists.sourceforge.net>
+gtkhtml3,912,0,0,405,0,0,1109,912,100.0,Hindi <fedora-trans-hi@redhat.com>
+gtkhtml38,912,0,0,405,0,0,1109,912,100.0,Hindi <fedora-trans-hi@redhat.com>
+gtksourceview,849,0,0,342,0,0,884,849,100.0,Hindi <fedora-trans-hi@redhat.com>
+gtksourceview2,849,0,0,342,0,0,884,849,100.0,Hindi <fedora-trans-hi@redhat.com>
+gucharmap,776,0,0,283,0,0,828,776,100.0,Hindi <fedora-trans-hi@redhat.com>
+gwenview,475,253,593,182,65,73,595,1321,35.957607872823615,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+hwbrowser,116,0,0,51,0,0,129,116,100.0,Hindi <fedora-trans-hi@redhat.com>
+im-chooser,70,45,57,8,6,10,79,172,40.69767441860465,Hindi <fedora-trans-hi@redhat.com>
+initscripts,3733,0,0,857,0,0,5498,3733,100.0,Hindi <hindi.sf.net>
+iso-codes,1193,2368,8847,655,2083,5919,1191,12408,9.614764667956157,Hindi
+istanbul,89,0,0,15,0,0,94,89,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+k3b,3910,2679,14041,1029,723,780,5028,20630,18.952981095492003,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+kdiff3,1265,124,1572,346,29,132,1685,2961,42.72205336035123,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+kexec-tools,206,0,0,14,0,0,246,206,100.0,Hindi <hindi.sf.net>
+kile,2792,1275,6003,713,381,418,3259,10070,27.725918570009934,indlinux-hindi <indlinux-hindi@sourceforge.net>
+kphotoalbum,666,616,4613,235,174,273,807,5895,11.297709923664122,Hindi <indlinux-hindi@lists.sourceforge.net>
+kpowersave,1178,291,230,220,69,27,1569,1699,69.33490288404944,Hindi <en@li.org>
+kst,2805,1670,2342,798,484,381,3356,6817,41.14713216957606,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+kudzu,73,0,0,13,0,0,91,73,100.0,Hindi <fedora-trans-hi@redhat.com>
+libbonobo,524,0,0,108,0,0,584,524,100.0,Hindi <fedora-trans-hi@redhat.com>
+libbonoboui,361,0,0,114,0,0,412,361,100.0,Hindi <fedora-trans-hi@redhat.com>
+libgnome,1517,0,0,237,0,0,1649,1517,100.0,Hindi <fedora-trans-hi@redhat.com>
+libgnomecanvas,357,0,0,94,0,0,388,357,100.0,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+libgnomecups,11,0,0,10,0,0,15,11,100.0,Hindi <fedora-trans-hi@redhat.com>
+libgnomeprint22,168,0,0,98,0,0,179,168,100.0,Hindi <fedora-trans-hi@redhat.com>
+libgnomeprintui22,472,0,0,151,0,0,546,472,100.0,Hindi <fedora-trans-hi@redhat.com>
+libgnomeui,1325,0,0,328,0,0,1447,1325,100.0,Hindi <fedora-trans-hi@redhat.com>
+libgtop2,134,0,0,44,0,0,153,134,100.0,Hindi <fedora-trans-hi@redhat.com>
+libuser,1026,19,7,218,3,1,1305,1052,97.52851711026615,Hindi <fedora-trans-hi@redhat.com>
+libvirt,2277,11,9,502,3,2,2580,2297,99.12929908576405,Hindi <hindi.sf.net>
+libwnck,87,0,0,32,0,0,123,87,100.0,Hindi <fedora-trans-hi@redhat.com>
+metacity,7264,0,0,482,0,0,8179,7264,100.0,Hindi <fedora-trans-hi@redhat.com>
+nautilus,6865,0,0,1146,0,0,7897,6865,100.0,Hindi <fedora-trans-hi@redhat.com>
+nautilus-cd-burner,1267,0,0,204,0,0,1420,1267,100.0,Hindi <fedora-trans-hi@redhat.com>
+newt,4,0,0,4,0,0,5,4,100.0,Ravishankar Shrivastava <raviratlami@yahoo.com>
+ntfs-config,0,0,455,0,0,67,0,455,0.0,Hindi <hi@li.org>
+orage,16,25,823,8,15,516,22,864,1.8518518518518516,Hindi <indlinux-group@lists.sourceforge.net>
+orca,1127,188,8,492,19,1,1328,1323,85.18518518518519,Hindi <fedora-trans-hi@redhat.com>
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pessulus,88,0,0,30,0,0,132,88,100.0,Hindi <fedora-trans-hi@redhat.com>
+pgadmin3,2,0,6193,1,0,1879,2,6195,0.032284100080710254,LANGUAGE <LL@li.org>
+pidgin,7283,4432,3939,1621,1142,573,8489,15654,46.524849878625275,Akash <matrubhasha@ncb.ernet.in>
+pirut,815,0,0,178,0,0,1053,815,100.0,Hindi <hindi.sf.net>
+planner,810,289,11,283,78,4,918,1110,72.97297297297297,Gnome Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+poedit,1116,18,0,260,6,0,1436,1134,98.4126984126984,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+policycoreutils,1214,0,0,204,0,0,1430,1214,100.0,Hindi <fedora-trans-hi@redhat.com>
+pykickstart,240,43,1,22,2,1,265,284,84.50704225352112,Hindi <hindi.sf.net>
+redhat-menus,261,0,0,86,0,0,303,261,100.0,Hindi <fedora-trans-hi@redhat.com>
+revisor,0,0,3200,0,0,588,0,3200,0.0,
+rhgb,121,0,0,29,0,0,188,121,100.0,Hindi <fedora-trans-hi@redhat.com>
+rhpl,185,0,0,80,0,0,188,185,100.0,Hindi <fedora-trans-hi@redhat.com>
+rhpxl,136,0,0,43,0,0,163,136,100.0,Hindi <fedora-trans-hi@redhat.com>
+rhythmbox,319,2,3074,163,1,614,381,3395,9.396170839469809,Hindi <indlinux-hindi@lists.sourceforge.net>
+sabayon,816,0,0,167,0,0,1046,816,100.0,Hindi <fedora-trans-hi@redhat.com>
+setroubleshoot,187,91,229,68,26,42,255,507,36.883629191321496,Hindi <fedora-trans-hi@redhat.com>
+setroubleshoot-plugins,4413,2856,560,165,58,10,5075,7829,56.36735215225443,Hindi <fedora-trans-hi@redhat.com>
+setuptool,60,0,0,17,0,0,70,60,100.0,Hindi <fedora-trans-hi@redhat.com>
+showimg,1305,572,2428,448,184,247,1569,4305,30.313588850174217,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+sound-juicer,853,0,0,147,0,0,980,853,100.0,Hindi <fedora-trans-hi@redhat.com>
+specspo,4887,26504,273903,419,3633,12798,5452,305294,1.6007520619468445,Hindi <fedora-trans-hi@redhat.com>
+switchdesk,137,0,0,19,0,0,160,137,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-bind,9305,14,97,1053,2,6,10330,9416,98.82115548003398,Hindi <fedora-trans-hi@redhat.com>
+system-config-boot,41,0,5,9,0,1,46,46,89.13043478260869,Hindi <Indlinux-hindi@lists.sourceforge.net>
+system-config-date,938,34,26,600,6,3,1052,998,93.9879759519038,Hindi <fedora-trans-hi@redhat.com>
+system-config-display,398,0,0,63,0,0,488,398,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-firewall,2842,65,49,266,8,5,3393,2956,96.14343707713125,Hindi <hindi.sf.net>
+system-config-httpd,858,0,0,223,0,0,1058,858,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-keyboard,78,0,0,12,0,0,87,78,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-kickstart,1028,12,14,271,2,8,1194,1054,97.53320683111954,Hindi <fedora-trans-hi@redhat.com>
+system-config-language,49,0,0,11,0,0,54,49,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-lvm,2049,33,2,320,2,1,2393,2084,98.32053742802303,Hindi <fedora-trans-hi@redhat.com>
+system-config-netboot,1018,5,65,146,1,14,1164,1088,93.56617647058823,Hindi <fedora-trans-hi@redhat.com>
+system-config-network,3011,0,0,733,0,0,3720,3011,100.0,Hindi <hindi.sf.net>
+system-config-nfs,318,0,0,73,0,0,394,318,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-printer,1208,55,22,300,19,7,1367,1285,94.00778210116731,Hindi <fedora-trans-hi@redhat.com>
+system-config-rootpassword,50,0,0,9,0,0,57,50,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-samba,383,9,31,133,2,3,503,423,90.54373522458629,Hindi <fedora-trans-hi@redhat.com>
+system-config-services,232,0,0,62,0,0,295,232,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-soundcard,224,0,0,51,0,0,240,224,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-users,845,253,88,142,18,5,1002,1186,71.24789207419899,Hindi <fedora-trans-hi@redhat.com>
+system-switch-mail,134,0,0,20,0,0,171,134,100.0,Hindi <fedora-trans-hi@redhat.com>
+tomboy,42,0,947,29,0,128,72,989,4.246713852376137,Hindi <fedora-trans-hi@redhat.com>
+totem,1821,0,0,417,0,0,2013,1821,100.0,Hindi <fedora-trans-hi@redhat.com>
+tuxpaint,340,108,143,92,19,48,215,591,57.52961082910322,Hindi
+tuxpaint-stamps,0,0,1908,0,0,499,0,1908,0.0,
+usermode,570,0,0,96,0,0,693,570,100.0,Hindi <hindi.sf.net>
+vino,544,0,0,72,0,0,634,544,100.0,Hindi <fedora-trans-hi@redhat.com>
+virt-manager,1072,465,1242,240,143,199,1206,2779,38.57502698812523,Hindi <fedora-trans-hi@redhat.com>
+vte,96,0,0,18,0,0,131,96,100.0,Hindi
+wxGTK,4018,913,1387,878,230,341,5388,6318,63.59607470718582,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+wxPython,4018,913,1387,878,230,341,5388,6318,63.59607470718582,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+xchat-gnome,2577,105,1219,715,36,229,2884,3901,66.05998461932839,English <en@li.org>
+xfce-mcs-manager,14,12,4,3,3,1,15,30,46.666666666666664,Hindi <indlinux-group@lists.sourceforge.net>
+xfce-mcs-plugins,57,70,348,34,28,71,60,475,12.0,Hindi <indlinux-group@lists.sourceforge.net>
+xfce-utils,12,12,95,9,4,21,14,119,10.084033613445378,Hindi <indlinux-group@lists.sourceforge.net>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Hindi <indlinux-group@lists.sourceforge.net>
+xfce4-mixer,34,9,183,9,3,82,41,226,15.04424778761062,Hindi <indlinux-group@lists.sourceforge.net>
+xfce4-panel,48,130,400,27,47,86,52,578,8.304498269896193,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+xfce4-session,11,140,587,3,40,86,15,738,1.4905149051490514,Hindi <indlinux-group@lists.sourceforge.net>
+xfdesktop,39,106,933,11,55,222,43,1078,3.6178107606679033,Hindi <indlinux-group@lists.sourceforge.net>
+xfprint,100,51,173,44,22,48,116,324,30.864197530864196,Hindi <indlinux-group@lists.sourceforge.net>
+xfwm4,172,242,232,67,75,48,224,646,26.625386996904027,Hindi <indlinux-group@lists.sourceforge.net>
+yelp,893,0,64,224,0,15,1028,957,93.31243469174504,Hindi <indlinux-hindi@lists.sourceforge.net>
+zenity,547,0,0,122,0,0,602,547,100.0,Hindi <fedora-trans-hi@redhat.com>

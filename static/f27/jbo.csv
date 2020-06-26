@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,779,0,0,174,0,779,0.0,Lojban <jbo@li.org>
+gala,24,0,670,11,0,68,29,694,3.45821325648415,Lojban <jbo@li.org>
+gtg,2,0,3495,2,0,298,3,3497,0.057191878753217046,Lojban <jbo@li.org>
+minetest,174,177,6055,82,91,851,325,6406,2.7162035591632843,Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/>
+pantheon-files,1,0,2486,1,0,491,10,2487,0.04020908725371934,Lojban <jbo@li.org>
+supertux,229,0,2751,81,0,837,343,2980,7.684563758389262,Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/)
+switchboard,0,0,61,0,0,18,0,61,0.0,none

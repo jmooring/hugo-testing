@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Thunar,4639,0,1247,986,0,57,5489,5886,78.81413523615358,Venetian (https://app.transifex.com/xfce/teams/16840/vec/)
+libreoffice,93851,0,84149,30780,0,9132,107051,178000,52.725280898876406,Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/vec/>
+libxfce4ui,799,0,218,203,0,7,1097,1017,78.56440511307768,Venetian (https://app.transifex.com/xfce/teams/16840/vec/)
+slick-greeter,211,0,5,47,0,2,209,216,97.68518518518519,Venetian <vec@li.org>
+xfce4-panel,2031,0,14,494,0,1,2522,2045,99.31540342298288,Venetian (https://app.transifex.com/xfce/teams/16840/vec/)

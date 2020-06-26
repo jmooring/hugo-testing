@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,2356,464,1824,919,162,439,2566,4644,50.73212747631353,Softastur
+deluge,61,0,2208,35,0,417,95,2269,2.688408990744821,Asturian <ast@li.org>
+glunarclock,138,17,76,48,4,19,154,231,59.74025974025974,Ricardo Mones Lastra <mones@aic.uniovi.es>
+poedit,1076,58,0,258,8,0,1151,1134,94.88536155202821,Softastur

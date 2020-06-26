@@ -1,0 +1,44 @@
+---
+title: "tint2 - translation progress for f29"
+package: tint2
+date: 2026-01-17T20:53:01+00:00
+started_languages: 6
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 7
+release: f29
+---
+The package tint2 (version 16.6.1):
+
+* represents 8656 source words to be translated
+* is translated into 6 languages in Fedora f29
+
+
+* contains 7 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [fr]({{< ref "/f29/language/fr.md" >}}) | 8508 | 8656 | 98.3 | /mnt/stockage/packages/f29/tint2/src/tint2conf/po/fr.po/mnt/stockage/packages/f29/tint2/src/tint2conf/po/es.po | 
+ | [pl]({{< ref "/f29/language/pl.md" >}}) | 3249 | 4328 | 75.1 | /mnt/stockage/packages/f29/tint2/src/tint2conf/po/pl.po | 
+ | [sr]({{< ref "/f29/language/sr.md" >}}) | 3002 | 4328 | 69.4 | /mnt/stockage/packages/f29/tint2/src/tint2conf/po/sr.po | 
+ | [hr]({{< ref "/f29/language/hr.md" >}}) | 3001 | 4328 | 69.3 | /mnt/stockage/packages/f29/tint2/src/tint2conf/po/hr.po | 
+ | [bs]({{< ref "/f29/language/bs.md" >}}) | 2990 | 4328 | 69.1 | /mnt/stockage/packages/f29/tint2/src/tint2conf/po/bs.po | 
+ | [ru]({{< ref "/f29/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/tint2/src/tint2conf/po/ru.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+digikam,25,0,23628,19,0,3278,21,23653,0.10569483786411872,Northern Sami <i18n-sme@lister.ping.uio.no>
+drupal-date,4,0,0,2,0,0,4,4,100.0,drupalsverige.se
+k3b,243,0,20292,187,0,2345,246,20535,1.1833455076698318,Northern Sami <i18n-sme@lister.ping.uio.no>
+kaffeine,50,0,498,38,0,202,45,548,9.124087591240876,Northern Sami <i18n-sme@lister.ping.uio.no>
+kcoloredit,7,1,270,4,1,90,7,278,2.5179856115107913,Northern Sami <i18n-sme@lister.ping.uio.no>
+kgrab,0,0,370,0,0,53,0,370,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kiconedit,54,0,672,32,0,123,44,726,7.43801652892562,Northern Sami <i18n-sme@lister.ping.uio.no>
+kipi-plugins,0,0,1019,0,0,159,0,1019,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+koffice-kivio,3903,450,4064,1342,141,878,3231,8417,46.37044077462279,Northern Sami <i18n-sme@lister.ping.uio.no>
+konq-plugins,0,0,1598,0,0,516,0,1598,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kphotoalbum,0,0,6210,0,0,761,0,6210,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kpilot,31,0,7125,24,0,837,31,7156,0.43320290665176076,Northern Sami <i18n-sme@lister.ping.uio.no>
+ksig,0,14,71,0,11,15,0,85,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+ktorrent,0,0,7562,0,0,1329,0,7562,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+libktorrent,0,0,417,0,0,92,0,417,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+rsibreak,0,0,1304,0,0,163,0,1304,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+rubyripper,1366,0,360,265,0,57,1295,1726,79.14252607184241,sv <Joachim@JNyqvist.se>
+snownews,759,0,32,154,0,9,792,791,95.95448798988622,
+stellarium,0,0,2407,0,0,941,0,2407,0.0,Northern Sami <se@li.org>
+tucan,114,0,0,41,0,0,119,114,100.0,LANGUAGE <LL@li.org>

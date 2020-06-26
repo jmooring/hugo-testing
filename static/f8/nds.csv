@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,13192,0,0,2503,0,0,12955,13192,100.0,Low Saxon <kde-i18n-nds@kde.org>
+digikam,15764,173,0,2055,9,0,14575,15937,98.91447574825877,Low Saxon <kde-i18n-nds@kde.org>
+k3b,20601,0,29,2531,0,1,18744,20630,99.85942801745031,Low Saxon <kde-i18n-nds@kde.org>
+kipi-plugins,3793,774,8749,439,555,1371,3659,13316,28.484529888855516,Low Saxon <kde-i18n-nds@kde.org>
+kphotoalbum,5895,0,0,682,0,0,5500,5895,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kst,423,6064,330,100,1404,159,451,6817,6.205075546428048,Low Saxon <kde-i18n-nds@kde.org>
+ktorrent,3560,0,0,859,0,0,3511,3560,100.0,Low Saxon <kde-i18n-nds@kde.org>
+libkdcraw,0,111,764,0,17,38,0,875,0.0,<nds@li.org>

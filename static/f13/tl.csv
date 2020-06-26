@@ -1,0 +1,27 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,13,0,3323,8,0,716,16,3336,0.38968824940047964,Tagalog <tl@li.org>
+dpkg,5495,2730,1794,792,280,171,6488,10019,54.845792993312706,Tagalog <debian-tl@banwa.upm.edu.ph>
+exaile,19,0,2157,1,0,586,21,2176,0.8731617647058824,Tagalog <tl@li.org>
+glib2,982,473,1068,116,93,206,1172,2523,38.921918351169246,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-hearts,340,0,69,90,0,16,296,409,83.12958435207824,Tagalog <tl@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+iso-codes,925,97,75,402,26,24,918,1097,84.32087511394712,Tagalog <debian-tl@banwa.upm.edu.ph>
+jokosher,968,0,1091,177,0,232,1090,2059,47.013113161728995,Tagalog <tl@li.org>
+libxfce4ui,4,0,132,4,0,26,4,136,2.941176470588235,LANGUAGE <LL@li.org>
+mingw32-glib2,982,473,1068,116,93,206,1172,2523,38.921918351169246,Tagalog <debian-tl@banwa.upm.edu.ph>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+pgadmin3,1297,2898,5481,405,872,1419,1426,9676,13.40429929723026,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,666,0,1887,253,0,571,813,2553,26.08695652173913,Tagalog <tl@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+pootle,134,199,2091,65,44,350,167,2424,5.528052805280528,LANGUAGE <LL@li.org>
+rednotebook,49,0,995,10,0,216,69,1044,4.693486590038314,Tagalog <tl@li.org>
+shadow-utils,1288,1004,929,231,96,85,1569,3221,39.987581496429684,Tagalog <debian-tl@banwa.upm.edu.ph>
+stellarium,186,0,2221,108,0,833,222,2407,7.727461570419609,Tagalog <tl@li.org>
+system-config-date-docs,0,0,728,0,0,53,0,728,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+tuxpaint,186,38,1023,90,15,147,209,1247,14.91579791499599,LANGUAGE <LL@li.org>
+wesnoth,1528,930,224464,540,265,13357,1843,226922,0.6733591278060302,
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>

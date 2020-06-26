@@ -1,0 +1,47 @@
+---
+title: "libgpod - translation progress for f10"
+package: libgpod
+date: 2026-01-17T07:51:55+00:00
+started_languages: 9
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 9
+release: f10
+---
+The package libgpod (version 0.7.0):
+
+* represents 943 source words to be translated
+* is translated into 9 languages in Fedora f10
+
+
+* contains 9 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [de]({{< ref "/f10/language/de.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f10/libgpod/po/de.po | 
+ | [es]({{< ref "/f10/language/es.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f10/libgpod/po/es.po | 
+ | [fr]({{< ref "/f10/language/fr.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f10/libgpod/po/fr.po | 
+ | [he]({{< ref "/f10/language/he.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f10/libgpod/po/he.po | 
+ | [it]({{< ref "/f10/language/it.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f10/libgpod/po/it.po | 
+ | [ro]({{< ref "/f10/language/ro.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f10/libgpod/po/ro.po | 
+ | [sv]({{< ref "/f10/language/sv.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f10/libgpod/po/sv.po | 
+ | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 943 | 943 | 100.0 | /mnt/stockage/packages/f10/libgpod/po/zh_CN.po | 
+ | [ja]({{< ref "/f10/language/ja.md" >}}) | 672 | 943 | 71.3 | /mnt/stockage/packages/f10/libgpod/po/ja.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

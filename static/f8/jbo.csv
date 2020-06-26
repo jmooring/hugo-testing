@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,2152,57,2435,818,19,683,2792,4644,46.33936261843238,Lojban
+xchat-gnome,0,0,3901,0,0,980,0,3901,0.0,Lojban <jbo@li.org>

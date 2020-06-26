@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,611,0,8797,321,0,843,728,9408,6.494472789115646,LANGUAGE <LL@li.org>
+aspell,600,398,728,115,62,116,565,1726,34.762456546929315,Tajik
+audacity,3724,306,6613,1079,61,1170,3826,10643,34.99013436061261,Tajik Language
+authconfig,14,0,1365,14,0,227,14,1379,1.015228426395939,LANGUAGE <LL@li.org>
+chkconfig,487,0,0,93,0,0,541,487,100.0,Tajik (http://www.transifex.net/projects/p/fedora/language/tg/)
+firstboot,53,0,543,17,0,39,56,596,8.89261744966443,LANGUAGE <LL@li.org>
+ibus,32,0,580,25,0,93,33,612,5.228758169934641,Tajik (http://www.transifex.net/projects/p/fedora/team/tg/)
+kaudiocreator,418,303,415,125,69,79,435,1136,36.79577464788733,<tajik>
+kcoloredit,8,92,178,5,29,61,65,278,2.877697841726619,Tajik
+kdiff3,1054,308,2155,222,101,314,1045,3517,29.968723343758885,Tajik
+kiconedit,678,15,33,133,7,15,734,726,93.38842975206612,Tajik
+koffice-kivio,5218,863,2336,1625,403,333,5222,8417,61.993584412498514,Tajik
+konq-plugins,1645,14,33,531,1,14,1821,1692,97.22222222222221,Tajik <kde-i18n-doc@kde.org>
+kpilot,4818,1082,1256,520,199,142,4339,7156,67.32811626607042,Tajik
+ksig,68,0,17,15,0,11,65,85,80.0,Tajik
+libreoffice,455500,13663,64831,63965,2359,7961,417088,533994,85.30058390169178,LANGUAGE <LL@li.org>
+openconnect,0,0,5146,0,0,938,0,5146,0.0,Tajik (Tajikistan) (http://www.transifex.net/projects/p/meego/language/tg_TJ/)
+sssd,87,4,13518,46,2,1385,83,13609,0.6392828275405982,Tajik (http://www.transifex.net/projects/p/fedora/language/tg/)
+stellarium,2,0,7136,2,0,2489,2,7138,0.02801905295601009,Tajik <tg@li.org>
+system-config-date,0,0,1850,0,0,824,0,1850,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+system-config-language,47,9,267,9,2,45,45,323,14.551083591331269,Victor Ibragimov <victor.ibragimov@gmail.com>
+system-config-network,0,0,3032,0,0,721,0,3032,0.0,Tajik (http://www.transifex.net/projects/p/fedora/language/tg/)
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+usermode,123,0,449,51,0,45,141,572,21.503496503496503,LANGUAGE <LL@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+xmms,2590,453,400,901,68,76,2659,3443,75.22509439442346,Tajik
+yelp,92,80,434,38,45,65,95,606,15.181518151815181,Tajik

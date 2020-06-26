@@ -1,0 +1,2 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+pgadmin3,1373,1373,3449,552,483,845,1615,6195,22.163034705407586,urdu <pgadmin-hackers@postgresql.org>

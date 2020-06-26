@@ -1,0 +1,1518 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,17,0,0,6,0,0,22,17,100.0,Spanish (http://www.transifex.com/projects/p/0ad/language/es/)
+0install,3919,924,1160,493,46,186,4262,6003,65.2840246543395,
+CableSwig,1140,0,0,193,0,0,1449,1140,100.0,Spanish <es@li.org>
+DivFix++,551,0,0,104,0,0,649,551,100.0,SPANISH
+GConf2,4074,0,0,496,0,0,5057,4074,100.0,Español; Castellano <gnome-es-list@gnome.org>
+LabPlot,2932,154,164,1221,74,54,3433,3250,90.21538461538462,Español <es@li.org>
+NetworkManager,1901,0,0,380,0,0,2244,1901,100.0,Español <gnome-es-list@gnome.org>
+NetworkManager-iodine,76,0,0,21,0,0,94,76,100.0,Español; Castellano <gnome-es-list@gnome.org>
+NetworkManager-l2tp,110,25,618,33,8,92,123,753,14.608233731739709,Español <gnome-es-list@gnome.org>
+NetworkManager-openconnect,2936,0,0,547,0,0,3723,2936,100.0,Español <gnome-es-list@gnome.org>
+NetworkManager-openswan,87,0,0,30,0,0,101,87,100.0,Español; Castellano <gnome-es-list@gnome.org>
+NetworkManager-openvpn,923,0,0,155,0,0,1090,923,100.0,Español <gnome-es-list@gnome.org>
+NetworkManager-pptp,415,0,0,77,0,0,503,415,100.0,Español <gnome-es-list@gnome.org>
+NetworkManager-ssh,120,85,81,32,21,16,144,286,41.95804195804196,Español <gnome-es-list@gnome.org>
+NetworkManager-vpnc,448,0,0,88,0,0,540,448,100.0,Español <gnome-es-list@gnome.org>
+PackageKit,1315,0,13,323,0,3,1574,1328,99.0210843373494,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+R,8156,2853,235,1453,437,38,9845,11244,72.53646389185343,Spanish <pabloemilio.verde@uni-duesseldorf.de>
+Thunar,4200,0,0,738,0,0,4715,4200,100.0,Spanish (http://www.transifex.com/projects/p/thunar/language/es/)
+WindowMaker,4846,0,366,924,0,293,5701,5212,92.9777436684574,Spanish <es@li.org>
+Zim,2394,0,283,554,0,58,2712,2677,89.42846469929026,Spanish <es@li.org>
+a2ps,963,349,200,150,16,13,1096,1512,63.69047619047619,Spanish <mvaro@dlsi.ua.es>
+abrt,2466,0,2978,313,0,343,3031,5444,45.29757531227039,Spanish (http://www.transifex.com/projects/p/fedora/language/es/)
+accerciser,4565,0,0,440,0,0,5174,4565,100.0,Español <gnome-es-list@gnome.org>
+accountsservice,59,0,0,10,0,0,67,59,100.0,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+acl,484,0,0,51,0,0,548,484,100.0,Spanish
+aeskulap,0,0,313,0,0,130,0,313,0.0,LANGUAGE <LL@li.org>
+ailurus,8278,0,0,1253,0,0,9574,8278,100.0,none
+aircrack-ng,588,0,0,150,0,0,611,588,100.0,
+aisleriot,22432,0,0,1523,0,0,24359,22432,100.0,Español <gnome-es-list@gnome.org>
+alacarte,45,0,0,20,0,0,47,45,100.0,Español <gnome-es-list@gnome.org>
+alexandria,1177,4,0,304,2,0,1287,1181,99.66130397967824,es <alexandria-i18n-list@rubyforge.org>
+alleyoop,351,0,0,92,0,0,405,351,100.0,Español <gnome-es-list@gnome.org>
+almanah,727,0,0,128,0,0,912,727,100.0,Español <gnome-es-list@gnome.org>
+amarok,15794,0,0,2729,0,0,18538,15794,100.0,Spanish <kde-l10n-es@kde.org>
+anaconda,5160,0,0,812,0,0,5783,5160,100.0,Spanish (http://www.transifex.com/projects/p/fedora/language/es/)
+anjuta,18957,0,0,2787,0,0,21186,18957,100.0,
+apper,4338,0,0,781,0,0,4786,4338,100.0,Spanish <kde-l10n-es@kde.org>
+apt,534,924,2645,105,155,216,563,4103,13.014867170363148,Spanish <es@li.org>
+apt-cacher-ng,340,0,0,22,0,0,370,340,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+arandr,172,0,0,37,0,0,190,172,100.0,SPANISH <ES@li.org>
+ardour,7445,0,2947,1888,0,436,8638,10392,71.64164742109314,Grupo de Traducción al Español <traductores@teklibre.com>
+ardour3,9723,0,6070,2532,0,903,10956,15793,61.56525042740455,Grupo de Traducción al Español <traductores@teklibre.com>
+arduino,1859,0,58,296,0,31,2071,1917,96.97443922796035,Spanish
+aria2,1155,0,5273,174,0,199,1358,6428,17.96826384567517,LANGUAGE <LL@li.org>
+arm-none-eabi-binutils-cs,48644,0,0,7846,0,0,62143,48644,100.0,Spanish <es@li.org>
+arm-none-eabi-gcc-cs,66860,8474,5072,9000,1156,505,84470,80406,83.15299853244782,Spanish <es@li.org>
+arm-none-eabi-gdb,9792,0,0,1557,0,0,12228,9792,100.0,Spanish <es@li.org>
+askbot,7951,457,1332,1277,69,58,8920,9740,81.63244353182752,Spanish (Castilian) (http://www.transifex.net/projects/p/askbot/language/es/)
+aspell,1726,0,0,293,0,0,1877,1726,100.0,Spanish <es@li.org>
+asunder,471,0,0,85,0,0,569,471,100.0,
+at-spi,61,0,0,7,0,0,68,61,100.0,Español <gnome-es-list@gnome.org>
+at-spi2-core,122,0,0,18,0,0,159,122,100.0,Español <gnome-es-list@gnome.org>
+atk,398,0,0,139,0,0,509,398,100.0,Español; Castellano <gnome-es-list@gnome.org>
+atomix,147,0,0,60,0,0,162,147,100.0,Spanish <traductores@es.gnome.org>
+atril,3349,0,0,573,0,0,3823,3349,100.0,Español <mate-es-list@gnome.org>
+attr,344,0,0,30,0,0,371,344,100.0,Spanish
+audacious,568,8,0,235,1,0,729,576,98.61111111111111,Spanish (http://www.transifex.com/projects/p/audacious/language/es/)
+audacious-plugins,2333,2,1697,741,1,127,2828,4032,57.86210317460318,Spanish (http://www.transifex.com/projects/p/audacious/language/es/)
+audacity,11934,0,0,2689,0,0,14233,11934,100.0,Spanish <audacity-translation@lists.sourceforge.net>
+audex,1016,718,1757,265,96,64,1201,3491,29.103408765396733,Spanish <kde-l10n-es@kde.org>
+audit-viewer,611,0,0,185,0,0,703,611,100.0,LANGUAGE <LL@li.org>
+authconfig,1638,0,0,285,0,0,1966,1638,100.0,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+autotest-framework,353,253,377,29,18,42,404,983,35.910478128179044,Spanish <es@li.org>
+avahi,865,0,0,165,0,0,1075,865,100.0,Fedora Spanish <trans-es@lists.fedoraproject.org>
+avogadro,4262,0,0,1545,0,0,5632,4262,100.0,Spanish <es@li.org>
+avr-binutils,48644,0,0,7846,0,0,62143,48644,100.0,Spanish <es@li.org>
+avr-gcc,66860,8474,5072,9000,1156,505,84470,80406,83.15299853244782,Spanish <es@li.org>
+avr-gdb,7765,0,0,1106,0,0,9833,7765,100.0,Spanish <es@li.org>
+ayttm,2183,428,301,537,66,47,2457,2912,74.96565934065934,Ricardo Mones <ricardo@mones.org>
+backintime,856,0,636,216,0,84,964,1492,57.37265415549599,Spanish/Spain <es@li.org>
+backup-manager,947,33,75,149,6,10,1180,1055,89.76303317535546,
+bacula,19762,2872,289,3275,269,44,22798,22923,86.21035641059198,Bacula Spanish Team <bacula-users-es@lists.sourceforge.net>
+bacula2,0,0,20287,0,0,3178,0,20287,0.0,Spanish
+bakery,134,0,0,37,0,0,143,134,100.0,Español <gnome-es-list@gnome.org>
+balsa,6755,0,12787,1693,0,585,8031,19542,34.56657455736363,Español <gnome-es-list@gnome.org>
+bangarang,1121,20,66,353,8,20,1257,1207,92.87489643744821,Spanish <kde-i18n-doc@kde.org>
+banshee,11390,0,0,1847,0,0,12912,11390,100.0,Español <gnome-es-list@gnome.org>
+banshee-community-extensions,977,0,343,250,0,60,1153,1320,74.01515151515152,LANGUAGE <LL@li.org>
+baobab,913,0,0,98,0,0,1060,913,100.0,Español <gnome-es-list@gnome.org>
+bareftp,440,0,8,158,0,2,508,448,98.21428571428571,Spanish (Castilian) <>
+barry,498,3,8617,116,1,1626,607,9118,5.461724062294363,LANGUAGE <LL@li.org>
+bash,8533,2328,0,529,18,0,9923,10861,78.56550962158181,Spanish <es@li.org>
+batti,46,0,0,18,0,0,52,46,100.0,SPANISH <ES@li.org>
+bibletime,6063,3578,79,542,87,15,6513,9720,62.376543209876544,Spanish <kde-i18n-doc@kde.org>
+bibus,1117,481,285,365,94,94,1320,1883,59.32023366967605,es <LL@li.org>
+bijiben,203,0,0,76,0,0,234,203,100.0,Español <gnome-es-list@gnome.org>
+binutils,48644,0,0,7846,0,0,62143,48644,100.0,Spanish <es@li.org>
+birdie,195,0,0,95,0,0,220,195,100.0,Spanish (http://www.transifex.com/projects/p/birdie/language/es/)
+bison,380,535,480,80,65,66,466,1395,27.24014336917563,Spanish <es@li.org>
+bleachbit,999,0,5,222,0,1,1203,1004,99.5019920318725,Spanish <LL@li.org>
+blobwars,1234,0,0,365,0,0,1410,1234,100.0,
+bluedevil,494,0,13,163,0,4,554,507,97.43589743589743,Spanish <kde-l10n-es@kde.org>
+bluefish,4626,0,0,1487,0,0,5503,4626,100.0,Español; Castellano <gnome-es-list@gnome.org>
+blueman,1414,0,32,343,0,8,1822,1446,97.78699861687413,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+boinc-client,12368,2067,11345,2336,502,1434,14024,25780,47.97517455391777,
+boswars,198,6,12,59,3,11,258,216,91.66666666666666,
+bpython,26,0,177,10,0,27,32,203,12.807881773399016,bpython developers
+brasero,7736,0,0,1125,0,0,8271,7736,100.0,Español <gnome-es-list@gnome.org>
+bygfoot,3623,48,49,755,11,8,3585,3720,97.39247311827957,<es@li.org>
+byobu,177,0,0,44,0,0,202,177,100.0,LANGUAGE <LL@li.org>
+byzanz,236,0,0,52,0,0,288,236,100.0,Español <gnome-es-list@gnome.org>
+bzflag,3498,0,0,938,0,0,3848,3498,100.0,
+bzr,9209,0,24040,1208,0,1145,9932,33249,27.69707359619838,Spanish <es@li.org>
+bzr-explorer,1595,0,72,467,0,6,1877,1667,95.68086382723455,Spanish <es@li.org>
+cadaver,664,448,645,167,86,125,769,1757,37.79169038133182,Spanish Translation Team <es@li.org>
+cairo-clock,270,0,0,60,0,0,345,270,100.0,Mirco Müller <macslow@bangang.de>
+cairo-dock,6893,0,571,766,0,61,7277,7464,92.34994640943194,
+cairo-dock-plug-ins,8058,0,2145,1492,0,230,9211,10203,78.97677153778301,Spanish <es@li.org>
+caja,9136,0,0,1484,0,0,10357,9136,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+caja-actions,20265,0,0,1542,0,0,22431,20265,100.0,Español; Castellano <gnome-es-list@gnome.org>
+caja-extensions,510,0,0,113,0,0,570,510,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+caja-terminal,110,0,0,37,0,0,139,110,100.0,Spanish <es@li.org>
+calcurse,329,7,2280,86,1,347,388,2616,12.57645259938838,Spanish (http://www.transifex.com/projects/p/calcurse/language/es/)
+calibre,120962,0,8263,20497,0,6983,133342,129225,93.60572644612111,Español; Castellano <>
+camorama,586,0,0,137,0,0,805,586,100.0,Spanish <traductores@es.gnome.org>
+cantata,6933,0,0,1181,0,0,7806,6933,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+caribou,200,0,0,60,0,0,226,200,100.0,Español; Castellano <gnome-es-list@gnome.org>
+catfish,263,0,170,84,0,7,325,433,60.739030023094685,Spanish <es@li.org>
+cbrpager,184,15,9,78,3,3,209,208,88.46153846153845,LANGUAGE <es@li.org>
+ccsm,549,0,0,135,0,0,616,549,100.0,
+cdcollect,1193,0,0,240,0,0,1346,1193,100.0,Spanish
+celestia,2270,6,0,1085,1,0,2566,2276,99.73637961335676,Spanish
+centerim,1329,894,641,428,222,167,1496,2864,46.4036312849162,Spanish <es@li.org>
+certmonger,1519,8,1811,250,1,289,1882,3338,45.506291192330735,Spanish (http://www.transifex.com/projects/p/certmonger/language/es/)
+cgit,717,0,16,200,0,7,868,733,97.81718963165075,Spanish
+cheese,2089,0,0,242,0,0,2308,2089,100.0,Español <gnome-es-list@gnome.org>
+cherokee,0,0,0,0,0,0,0,0,0.0,Spanish <>
+cherrytree,2624,0,0,639,0,0,2969,2624,100.0,Spanish <>
+childsplay,1208,8,10,204,3,5,1264,1226,98.53181076672104,Spanish <es@li.org>
+chkconfig,513,0,0,96,0,0,564,513,100.0,Spanish <trans-es@lists.fedoraproject.org>
+choqok,2037,0,0,521,0,0,2586,2037,100.0,Spanish <kde-l10n-es@kde.org>
+chromium-bsu,1034,29,9,180,4,1,1188,1072,96.45522388059702,
+cinepaint,1800,1630,3977,674,681,584,2071,7407,24.30133657351154,GNOME-ES <traductores@es.gnome.org>
+cinnamon-control-center,1313,0,0,756,0,0,1465,1313,100.0,Fedora Spanish <trans-es@lists.fedoraproject.org>
+cinnamon-desktop,231,0,0,31,0,0,279,231,100.0,Español <gnome-es-list@gnome.org>
+cinnamon-session,366,47,19,67,4,4,427,432,84.72222222222221,Español <gnome-es-list@gnome.org>
+cinnamon-settings-daemon,3740,0,0,572,0,0,4346,3740,100.0,Español <gnome-es-list@gnome.org>
+cinnamon-translations,13313,0,0,3246,0,0,15169,13313,100.0,Spanish <es@li.org>
+clamtk,456,0,0,144,0,0,522,456,100.0,
+claws-mail,19680,245,0,4028,2,0,22428,19925,98.77038895859474,Ricardo Mones <ricardo@mones.org>
+clawsker,990,0,0,182,0,0,1293,990,100.0,Ricardo Mones <ricardo@mones.org>
+clementine,4861,0,0,1290,0,0,5759,4861,100.0,Spanish (http://www.transifex.com/projects/p/clementine/language/es/)
+clipit,325,0,111,109,0,39,390,436,74.54128440366972,Cristian Henzel <oss@rspwn.com>
+clisp,5622,5294,3362,838,619,355,6756,14278,39.37526264182659,Spanish <es@li.org>
+clutter,3008,0,0,666,0,0,3464,3008,100.0,Español <gnome-es-list@gnome.org>
+cmake-fedora,263,0,14,59,0,5,313,277,94.94584837545126,Spanish (Spain)
+cmyktool,856,5,0,190,1,0,1036,861,99.41927990708479,
+coccinella,5016,49,293,1309,14,14,5405,5358,93.61702127659575,Spanish <>
+cogl,393,0,0,80,0,0,530,393,100.0,Español <gnome-es-list@gnome.org>
+colord,584,0,1266,138,0,59,682,1850,31.56756756756757,Spanish (http://www.transifex.com/projects/p/colord/language/es/)
+colorhug-client,949,0,143,207,0,18,1154,1092,86.90476190476191,Spanish (Spain) (http://www.transifex.com/projects/p/colorhug-client/language/es_ES/)
+comix,1300,0,26,259,0,3,1474,1326,98.0392156862745,Spanish <traductores@es.gnome.org>
+common-lisp-controller,57,0,0,7,0,0,68,57,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+compat-gcc-32,28638,0,0,4465,0,0,36703,28638,100.0,Spanish <es@li.org>
+compat-gcc-34,30879,0,0,4700,0,0,39379,30879,100.0,Spanish <es@li.org>
+compat-gtkhtml314,485,0,0,309,0,0,560,485,100.0,Español <gnome-es-list@gnome.org>
+compiz,3250,0,0,717,0,0,4133,3250,100.0,Novell Language <language@novell.com>
+compiz-plugins-extra,7303,1449,194,1425,284,20,9038,8946,81.6342499441091,
+compiz-plugins-main,7303,1449,194,1425,284,20,9038,8946,81.6342499441091,
+compiz-plugins-unsupported,7303,1449,194,1425,284,20,9038,8946,81.6342499441091,
+conduit,3110,0,0,408,0,0,3420,3110,100.0,Español <gnome-es-list@gnome.org>
+conglomerate,3538,214,2565,778,118,242,3788,6317,56.00759854361247,<es@li.org>
+console-setup,979,0,0,171,0,0,1058,979,100.0,Debian Spanish <debian-l10n-spanish@lists.debian.org>
+control-center,6211,0,0,2205,0,0,7145,6211,100.0,Fedora Spanish <trans-es@lists.fedoraproject.org>
+corebird,79,0,295,53,0,67,83,374,21.12299465240642,Spanish (http://www.transifex.com/projects/p/corebird/language/es/)
+coreutils,13693,5479,1107,1309,234,78,16794,20279,67.52305340500024,Spanish <es@li.org>
+cpio,783,354,700,111,61,126,977,1837,42.62384322264562,Spanish <es@li.org>
+cracklib,93,0,3,15,0,1,83,96,96.875,Novell Language <language@novell.com>
+cross-binutils,48644,0,0,7846,0,0,62143,48644,100.0,Spanish <es@li.org>
+cross-gcc,66860,8474,5072,9000,1156,505,84470,80406,83.15299853244782,Spanish <es@li.org>
+cryptkeeper,351,0,7,52,0,1,364,358,98.04469273743017,
+cryptsetup,2294,31,21,367,3,3,3292,2346,97.78346121057119,Spanish <es@li.org>
+cssed,3417,20,0,693,1,0,3694,3437,99.41809717777132,Español <es@li.org>
+cups,6922,0,1010,1475,0,150,8589,7932,87.2667675239536,Spanish
+cups-pk-helper,149,0,0,22,0,0,185,149,100.0,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+cycle,186,0,0,65,0,0,204,186,100.0,
+d-feet,80,0,0,33,0,0,95,80,100.0,Español <gnome-es-list@gnome.org>
+darktable,7376,0,0,1841,0,0,8119,7376,100.0,
+dasher,6463,0,0,420,0,0,6944,6463,100.0,Español <gnome-es-list@gnome.org>
+davfs2,1285,184,887,125,8,34,1352,2356,54.541595925297116,Español <es@li.org>
+dayplanner,1070,2,24,168,2,16,1102,1096,97.62773722627736,LANGUAGE <LL@li.org>
+dbmail,443,14,0,38,1,0,510,457,96.93654266958424,Debian l10n spanish <debian-l10n-spanish@lists.debian.org>
+dc3dd,50,400,421,11,38,38,64,871,5.7405281285878305,Spanish <es@li.org>
+dconf,191,0,0,31,0,0,216,191,100.0,Español <gnome-es-list@gnome.org>
+dcraw,624,0,0,124,0,0,742,624,100.0,
+ddccontrol,1547,0,0,238,0,0,1751,1547,100.0,Spanish <es@li.org>
+ddccontrol-db,393,0,0,206,0,0,512,393,100.0,Spanish <es@li.org>
+debconf,15765,48,0,780,2,0,17107,15813,99.69645228609372,Debian Spanish <debian-l10n-spanish@lists.debian.org>
+debhelper,13234,512,203,816,23,8,14163,13949,94.87418452935694,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+decibel-audio-player,1401,0,93,210,0,27,1546,1494,93.77510040160642,Spanish <es@li.org>
+deja-dup,3356,0,557,428,0,33,3730,3913,85.76539739330437,Spanish <es@li.org>
+deluge,2628,0,98,856,0,21,2940,2726,96.40498899486427,Spanish <es@li.org>
+denemo,0,0,21902,0,0,2827,0,21902,0.0,Spanish <es@li.org>
+devhelp,405,0,0,104,0,0,503,405,100.0,Español; Castellano <gnome-es-list@gnome.org>
+dexter,228,0,0,92,0,0,278,228,100.0,Spanish <es@li.org>
+dia,6601,0,0,2359,0,0,8086,6601,100.0,Español <gnome-es-list@gnome.org>
+dialog,25,0,0,23,0,0,27,25,100.0,Spanish <es@li.org>
+diffuse,987,0,0,186,0,0,1026,987,100.0,Spanish <henrimenke4@aim.com>
+diffutils,1800,0,0,248,0,0,2159,1800,100.0,Spanish <es@li.org>
+digikam,47011,1105,468,7865,53,22,55310,48584,96.76230857895604,Spanish <kde-l10n-es@kde.org>
+dnf,1277,0,483,352,0,93,1554,1760,72.55681818181819,Spanish (http://www.transifex.com/projects/p/dnf/language/es/)
+dnsmasq,1471,862,100,259,146,16,1652,2433,60.4603370324702,
+docky,1757,0,0,337,0,0,1997,1757,100.0,Spanish <es@li.org>
+dopewars,10494,0,0,1724,0,0,12037,10494,100.0,Castilian aka Spanish <es@li.org>
+dos2unix,545,0,212,55,0,3,642,757,71.99471598414794,Spanish
+dpkg,53999,8,88,3980,1,4,61939,54095,99.82253443016916,Spanish <debian-l10n-spanish@lists.debian.org>
+drgeo,1912,65,8,450,7,4,2261,1985,96.32241813602015,Spanish <traductores@es.gnome.org>
+driconf,285,35,192,44,8,16,331,512,55.6640625,Spanish <es@li.org>
+drupal6-cck,532,0,0,91,0,0,606,532,100.0,Spanish <es@li.org>
+drupal6-notifications,2314,0,123,389,0,29,2503,2437,94.95281083299139,Spanish
+drupal6-userpoints,242,0,0,45,0,0,272,242,100.0,spanish
+drupal7-potx,180,0,0,29,0,0,257,180,100.0,gusgsm <gusgsm@gmail.com>
+drwright,118,0,0,24,0,0,151,118,100.0,Español <gnome-es-list@gnome.org>
+duplicity,3238,0,164,476,0,18,3914,3402,95.1793062904174,Spanish <es@li.org>
+dvdbackup,506,0,518,69,0,43,587,1024,49.4140625,Spanish <es@li.org>
+dwdiff,497,0,21,86,0,3,577,518,95.94594594594594,LANGUAGE <LL@li.org>
+e16,2645,6,177,477,3,47,3110,2828,93.52899575671853,
+e2fsprogs,7529,245,628,1159,37,113,10336,8402,89.60961675791478,Spanish <es@tp.org.es>
+easystroke,455,0,15,134,0,3,519,470,96.80851063829788,Spanish <es@li.org>
+easytag,5398,0,2262,1042,0,116,6261,7660,70.46997389033942,Español; Castellano <gnome-es-list@gnome.org>
+edgar,11444,0,31,1527,0,8,11311,11475,99.72984749455338,Spanish <es@li.org>
+efreet,1,0,0,1,0,0,1,1,100.0,Enlightenment Team
+eiciel,132,10,10,41,3,5,163,152,86.8421052631579,Spanish <es@li.org>
+ejabberd,1826,0,0,421,0,0,2134,1826,100.0,
+ekiga,9944,0,0,971,0,0,10658,9944,100.0,Español <gnome-es-list@gnome.org>
+elfutils,7521,421,201,1109,82,40,9100,8143,92.36153751688568,Fedora Spanish <trans-es@lists.fedoraproject.org>
+elinks,423,1777,10045,199,535,891,527,12245,3.4544712127398935,Spanish <es@li.org>
+emerald,774,0,0,215,0,0,1063,774,100.0,<es@li.org>
+empathy,11043,0,0,1465,0,0,11875,11043,100.0,Español <gnome-es-list@gnome.org>
+engrampa,7141,0,0,782,0,0,8010,7141,100.0,Español <mate-es-list@gnome.org>
+enigma,9145,90,2,984,5,1,9149,9237,99.0040056295334,Spanish (http://www.transifex.com/projects/p/enigma/language/es/)
+enlightenment,8202,134,95,2091,47,18,9218,8431,97.28383347171155,Spanish <>
+enscript,589,548,696,88,34,86,814,1833,32.13311511183852,Spanish <es@li.org>
+entangle,732,0,1100,178,0,224,869,1832,39.956331877729255,Spanish (Spain) (http://www.transifex.com/projects/p/entangle/language/es_ES/)
+eog,6554,0,0,753,0,0,7130,6554,100.0,
+eog-plugins,348,0,0,89,0,0,440,348,100.0,Español <gnome-es-list@gnome.org>
+eom,4914,0,0,552,0,0,5583,4914,100.0,Español <mate-es-list@gnome.org>
+epiphany,3605,4,1269,700,1,49,3850,4878,73.90323903239032,
+etckeeper,64,0,0,5,0,0,83,64,100.0,Spanish <debian-l10n-spanish@lists.debian.org>
+etherape,1021,82,11,220,6,4,1265,1114,91.65170556552962,Spanish <es@li.org>
+evince,8678,0,0,996,0,0,9317,8678,100.0,Español; Castellano <gnome-es-list@gnome.org>
+evolution,44842,0,0,6216,0,0,49762,44842,100.0,
+evolution-data-server,5709,0,0,1170,0,0,7221,5709,100.0,Español <gnome-es-list@gnome.org>
+evolution-ews,1142,0,0,235,0,0,1450,1142,100.0,
+evolution-mapi,1034,0,0,231,0,0,1351,1034,100.0,Español <gnome-es-list@gnome.org>
+evolution-rss,882,0,0,224,0,0,1046,882,100.0,Español; Castellano <gnome-es-list@gnome.org>
+exaile,3444,355,207,924,62,39,4102,4006,85.97104343484773,Spanish <es@li.org>
+exif,128,23,145,30,5,33,140,296,43.24324324324324,Spanish <es@li.org>
+exiv2,3936,8785,14437,396,2870,1493,4330,27158,14.49296708152294,Spanish <es@li.org>
+exo,1379,0,0,271,0,0,1597,1379,100.0,Spanish/ES <xfce-i18n@xfce.org>
+expendable,227,0,0,93,0,0,274,227,100.0,Spanish (http://www.transifex.com/projects/p/expendable/language/es/)
+f-spot,5869,0,0,1057,0,0,6525,5869,100.0,Español <gnome-es-list@gnome.org>
+fakeroot,1535,0,0,97,0,0,1638,1535,100.0,LANGUAGE <LL@li.org>
+fantasdic,492,0,0,153,0,0,612,492,100.0,Spanish <traductores@es.gnome.org>
+fcitx,188,0,3092,76,0,660,226,3280,5.731707317073171,Spanish (http://www.transifex.com/projects/p/fcitx/language/es/)
+fetchmail,3836,250,296,625,36,31,4846,4382,87.53993610223642,Spanish <es@li.org>
+fgrun,794,82,108,344,31,23,979,984,80.6910569105691,LANGUAGE <LL@li.org>
+file-roller,3161,0,0,485,0,0,3408,3161,100.0,Español <gnome-es-list@gnome.org>
+filezilla,9141,416,8,1561,43,1,10634,9565,95.56717198118139,American English <kde-i18n-doc@kde.org>
+findutils,264,430,1719,38,43,124,337,2413,10.940737670949026,Spanish <es@li.org>
+firewalld,1616,0,0,313,0,0,1792,1616,100.0,Spanish (http://www.transifex.com/projects/p/firewalld/language/es/)
+five-or-more,1788,0,0,263,0,0,1911,1788,100.0,Español <gnome-es-list@gnome.org>
+flare-engine,488,49,61,188,15,23,542,598,81.60535117056857,
+flaw,84,0,0,53,0,0,92,84,100.0,
+fldigi,5148,126,377,1486,30,66,6472,5651,91.09892054503628,Spanish (Pavel Milanes Costa) <pavelmc@gmail.com>
+flex,609,405,106,130,15,21,821,1120,54.37499999999999,Spanish <es@li.org>
+flumotion,2958,145,234,617,28,51,3399,3337,88.64249325741685,Spanish <es@li.org>
+flush,2642,0,0,604,0,0,3097,2642,100.0,Spanish <es@li.org>
+folks,858,0,0,111,0,0,1080,858,100.0,Español <gnome-es-list@gnome.org>
+fontforge,12902,0,0,2739,0,0,13490,12902,100.0,LANGUAGE <es.c@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Spanish (Spain)
+fotoxx,2841,0,16,905,0,5,3471,2857,99.43997199859993,nLanguage: es
+four-in-a-row,1332,0,0,180,0,0,1410,1332,100.0,Español <gnome-es-list@gnome.org>
+foxtrotgps,1005,0,0,310,0,0,1174,1005,100.0,
+fpc,97,0,0,4,0,0,105,97,100.0,Debian L10N Spanish <debian-l10n-spanish@lists.debian.org>
+fpm2,748,0,0,201,0,0,818,748,100.0,es <>
+fprintd,419,0,0,57,0,0,467,419,100.0,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+freedink,262,0,9,56,0,1,305,271,96.6789667896679,Spanish <es@li.org>
+freedink-data,13629,13,116,2197,2,20,13489,13758,99.06236371565635,Spanish <es@li.org>
+freedink-dfarc,778,0,0,135,0,0,855,778,100.0,Spanish <es@li.org>
+freeipa,6645,0,0,1364,0,0,8083,6645,100.0,Spanish <trans-es@lists.fedoraproject.org>
+frescobaldi,4981,2816,5420,1237,312,370,5825,13217,37.68631308163729,Español <gnome-es-list@gnome.org>
+frogr,1479,0,0,289,0,0,1694,1479,100.0,Español <gnome-es-list@gnome.org>
+frozen-bubble,698,0,0,148,0,0,828,698,100.0,Spanish <LL@li.org>
+fslint,388,0,0,132,0,0,441,388,100.0,español <es@li.org>
+fuse-encfs,2122,16,492,241,4,33,2615,2630,80.68441064638783,Spanish (Spain) <es_ES@li.org>
+gajim,11858,0,56,2243,0,18,13052,11914,99.52996474735605,none <>
+galculator,101,66,768,52,33,190,102,935,10.802139037433154,Spanish <es@li.org>
+gallery2,17786,4,3,2541,1,1,20523,17793,99.96065868600012,Spanish <gallery-translations@lists.sourceforge.net>
+galternatives,105,1,59,39,1,3,116,165,63.63636363636363,
+gambas3,12233,0,225,3846,0,99,13677,12458,98.1939316102103,LANGUAGE <LL@li.org>
+gammu,5810,896,48769,1356,280,4557,6805,55475,10.473186119873818,none
+ganglia,59,0,0,4,0,0,56,59,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+ganyremote,500,0,0,149,0,0,548,500,100.0,Spanish
+garcon,95,0,0,31,0,0,116,95,100.0,Spanish/ES <xfce-i18n@xfce.org>
+gaupol,4663,0,127,1274,0,38,4941,4790,97.34864300626305,Turkish <kde-i18n-doc@kde.org>
+gawk,2519,843,1191,381,148,195,3319,4553,55.32615857676257,Spanish <es@li.org>
+gbrainy,18289,0,0,2348,0,0,18332,18289,100.0,Español <gnome-es-list@gnome.org>
+gcab,121,0,0,27,0,0,150,121,100.0,Español <gnome-es-list@gnome.org>
+gcal,4916,0,11,1419,0,2,6049,4927,99.77674040998579,Spanish <es@li.org>
+gcc,68466,3726,2057,9186,501,174,86504,74249,92.21134291370927,Spanish <es@li.org>
+gccxml,1140,0,0,193,0,0,1449,1140,100.0,Spanish <es@li.org>
+gcl,177,0,0,8,0,0,205,177,100.0,Debian l10n spanish <debian-l10n-spanish@lists.debian.org>
+gcompris,17312,0,0,1948,0,0,18339,17312,100.0,Español <gnome-es-list@gnome.org>
+gconf-editor,2834,0,0,238,0,0,3140,2834,100.0,Español <gnome-es-list@gnome.org>
+gcr,671,0,0,242,0,0,833,671,100.0,
+gdb,9792,0,0,1557,0,0,12228,9792,100.0,Spanish <es@li.org>
+gdesklets,1519,0,9,203,0,1,1639,1528,99.41099476439791,Spanish <es@li.org>
+gdk-pixbuf2,1360,0,0,203,0,0,1924,1360,100.0,Español <gnome-es-list@gnome.org>
+gdm,10074,0,0,453,0,0,11245,10074,100.0,
+gdmap,139,0,0,54,0,0,178,139,100.0,Marcos del Puerto <mpuertog@gmail.com>
+geany,5714,0,0,1262,0,0,6628,5714,100.0,Español <geany-i18n@uvena.de>
+geany-plugins,6602,0,0,1447,0,0,7781,6602,100.0,Spanish; Castilian <>
+geary,1981,1,1454,467,1,75,2317,3436,57.654249126891735,Español <gnome-es-list@gnome.org>
+geda-gaf,3447,0,0,772,0,0,4599,3447,100.0,gEDA developers <geda-dev@seul.org>
+gedit,10605,0,0,1264,0,0,11344,10605,100.0,Español <gnome-es-list@gnome.org>
+gedit-collaboration,119,0,0,30,0,0,152,119,100.0,Español <gnome-es-list@gnome.org>
+gedit-cossa,101,0,0,51,0,0,132,101,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gedit-latex,466,0,0,225,0,0,537,466,100.0,
+gedit-plugins,3132,0,0,333,0,0,3397,3132,100.0,Español <gnome-es-list@gnome.org>
+geeqie,3614,0,0,1246,0,0,4095,3614,100.0,Spanish <es@li.org>
+gegl,544,0,3553,249,0,500,583,4097,13.278008298755188,Español <gnome-es-list@gnome.org>
+genius,35278,0,0,3472,0,0,37954,35278,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gentoo,2229,6,16,589,1,3,2641,2251,99.02265659706796,Innocent De Marchi <tangram.peces@gmail.com>
+gettext,4795,1916,393,525,147,42,5832,7104,67.49718468468468,Spanish <es@li.org>
+gftp,3375,0,0,634,0,0,3770,3375,100.0,Spanish <traductores@es.gnome.org>
+ggz-base-libs,74,0,0,17,0,0,90,74,100.0,Español <traductores@es.gnome.org>
+ggz-gtk-client,773,0,0,244,0,0,860,773,100.0,Español <traductores@es.gnome.org>
+ghdl,68466,3726,2057,9186,501,174,86504,74249,92.21134291370927,Spanish <es@li.org>
+ghex,3230,0,0,414,0,0,3672,3230,100.0,Español <gnome-es-list@gnome.org>
+giggle,1204,0,0,244,0,0,1381,1204,100.0,Español <gnome-es-list@gnome.org>
+gigolo,521,0,0,142,0,0,597,521,100.0,Spanish (http://www.transifex.com/projects/p/xfce/language/es/)
+gimagereader,741,0,0,240,0,0,829,741,100.0,English <kde-i18n-doc@kde.org>
+gimp,26971,0,0,6838,0,0,33071,26971,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gimp-gap,14863,0,0,2364,0,0,18953,14863,100.0,Español <gnome-es-list@gnome.org>
+gimp-help,224311,0,0,14521,0,0,239472,224311,100.0,Español <gnome-es-list@gnome.org>
+gimp-lqr-plugin,280,81,567,49,5,77,315,928,30.17241379310345,<es_ES@li.org>
+girara,191,0,38,49,0,6,271,229,83.4061135371179,Spanish (http://www.transifex.com/projects/p/girara/language/es/)
+git,717,0,16,200,0,7,868,733,97.81718963165075,Spanish
+git-cola,598,44,1095,211,15,304,681,1737,34.427173287276915,Spanish
+gitg,1229,0,0,245,0,0,1449,1229,100.0,Español <gnome-es-list@gnome.org>
+gitweb-caching,716,0,16,200,0,7,867,732,97.81420765027322,Spanish
+gjots2,912,40,2,255,1,1,1050,954,95.59748427672956,SPANISH <bhepple@freeshell.org>
+gkrellm,3764,0,20,548,0,3,4321,3784,99.47145877378436,none
+glabels,8420,0,0,1167,0,0,9529,8420,100.0,Español <gnome-es-list@gnome.org>
+glade,7184,0,0,1575,0,0,8588,7184,100.0,Español <gnome-es-list@gnome.org>
+glade2,5910,0,0,1311,0,0,6911,5910,100.0,Spanish <traductores@es.gnome.org>
+glade3,5988,0,0,1235,0,0,7000,5988,100.0,Español <gnome-es-list@gnome.org>
+glances,15,0,570,11,0,166,17,585,2.564102564102564,Spanish
+glib-networking,161,0,0,29,0,0,205,161,100.0,Español; Castellano <gnome-es-list@gnome.org>
+glib2,5454,0,0,841,0,0,7115,5454,100.0,
+glibc,7934,0,0,1443,0,0,10773,7934,100.0,Spanish <es@li.org>
+glom,9035,0,0,1066,0,0,9869,9035,100.0,Español <gnome-es-list@gnome.org>
+glpi,9435,0,0,2526,0,0,10867,9435,100.0,Spanish (Spain) (http://www.transifex.com/projects/p/GLPI/language/es_ES/)
+gmpc,25,0,0,13,0,0,30,25,100.0,Spanish <es@li.org>
+gmusicbrowser,4390,0,819,1374,0,212,5140,5209,84.27721251679785,Español; Castellano <>
+gnash,7564,440,7139,1144,58,1207,8851,15143,49.95047216535693,Sugar Labs
+gnomad2,697,0,0,171,0,0,815,697,100.0,LANGUAGE <LL@li.org>
+gnome-abrt,369,0,16,66,0,1,435,385,95.84415584415584,Spanish (http://www.transifex.com/projects/p/gnome-abrt/language/es/)
+gnome-activity-journal,272,0,44,78,0,16,303,316,86.07594936708861,Spanish <es@li.org>
+gnome-backgrounds,27,0,0,16,0,0,27,27,100.0,Español <gnome-es-list@gnome.org>
+gnome-bluetooth,1756,0,0,177,0,0,1864,1756,100.0,Español <gnome-es-list@gnome.org>
+gnome-boxes,856,0,0,185,0,0,973,856,100.0,Español <gnome-es-list@gnome.org>
+gnome-calculator,2697,0,0,573,0,0,2991,2697,100.0,Español <gnome-es-list@gnome.org>
+gnome-chemistry-utils,3193,769,609,885,278,108,3532,4571,69.85342375847736,
+gnome-chess,4552,0,0,369,0,0,4996,4552,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gnome-clocks,1146,0,0,150,0,0,1162,1146,100.0,Español <gnome-es-list@gnome.org>
+gnome-color-manager,2282,0,0,367,0,0,2575,2282,100.0,Español <gnome-es-list@gnome.org>
+gnome-commander,31866,0,0,4728,0,0,35956,31866,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gnome-contacts,331,0,0,151,0,0,390,331,100.0,
+gnome-desktop,10014,0,0,303,0,0,10671,10014,100.0,Spanish <traductores@es.gnome.org>
+gnome-desktop3,9730,0,0,262,0,0,10323,9730,100.0,Español <gnome-es-list@gnome.org>
+gnome-devel-docs,139558,1971,29534,5998,47,1060,145223,171063,81.58280867282815,Español <gnome-es-list@gnome.org>
+gnome-dictionary,2250,0,0,342,0,0,2477,2250,100.0,Español <gnome-es-list@gnome.org>
+gnome-disk-utility,3909,0,0,750,0,0,4551,3909,100.0,Español <gnome-es-list@gnome.org>
+gnome-do,612,0,0,144,0,0,726,612,100.0,Spanish <es@li.org>
+gnome-do-plugins,2323,0,0,582,0,0,2669,2323,100.0,Spanish <es@li.org>
+gnome-doc-utils,251,0,0,101,0,0,253,251,100.0,Español <gnome-es-list@gnome.org>
+gnome-documents,441,0,0,143,0,0,496,441,100.0,Español <gnome-es-list@gnome.org>
+gnome-dvb-daemon,820,0,0,203,0,0,961,820,100.0,Español <gnome-es-list@gnome.org>
+gnome-font-viewer,47,0,0,25,0,0,60,47,100.0,Español <gnome-es-list@gnome.org>
+gnome-getting-started-docs,2635,0,0,334,0,0,2886,2635,100.0,
+gnome-gmail,267,0,92,38,0,9,296,359,74.3732590529248,LANGUAGE <LL@li.org>
+gnome-hearts,353,0,56,93,0,13,367,409,86.3080684596577,Spanish <es@li.org>
+gnome-icon-theme,20,0,0,16,0,0,21,20,100.0,Español <gnome-es-list@gnome.org>
+gnome-initial-setup,384,0,0,88,0,0,452,384,100.0,Español <gnome-es-list@gnome.org>
+gnome-keyring,553,0,0,112,0,0,668,553,100.0,
+gnome-klotski,1348,0,0,121,0,0,1446,1348,100.0,Español <gnome-es-list@gnome.org>
+gnome-libs,2013,80,114,763,8,20,2239,2207,91.20978704123243,
+gnome-mahjongg,1457,0,0,197,0,0,1548,1457,100.0,Español <gnome-es-list@gnome.org>
+gnome-maps,180,0,0,32,0,0,212,180,100.0,Español <gnome-es-list@gnome.org>
+gnome-media,4044,0,0,532,0,0,4592,4044,100.0,Español <gnome-es-list@gnome.org>
+gnome-menus,70,0,0,27,0,0,80,70,100.0,Español <gnome-es-list@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,1181,887,100.0,Spanish <traductores@es.gnome.org>
+gnome-mines,1565,0,0,188,0,0,1649,1565,100.0,Español <gnome-es-list@gnome.org>
+gnome-mud,1057,0,0,244,0,0,1199,1057,100.0,Spanish <gnome-es-list@gnome.org>
+gnome-music,348,0,0,53,0,0,382,348,100.0,Español <gnome-es-list@gnome.org>
+gnome-nettool,1178,0,0,241,0,0,1337,1178,100.0,Español <gnome-es-list@gnome.org>
+gnome-nibbles,2029,0,0,236,0,0,2134,2029,100.0,Español <gnome-es-list@gnome.org>
+gnome-online-accounts,1225,0,0,330,0,0,1541,1225,100.0,Español <gnome-es-list@gnome.org>
+gnome-packagekit,8771,0,0,1000,0,0,9509,8771,100.0,Español <gnome-es-list@gnome.org>
+gnome-phone-manager,563,0,0,98,0,0,680,563,100.0,Español <gnome-es-list@gnome.org>
+gnome-photos,300,0,0,99,0,0,347,300,100.0,Español <gnome-es-list@gnome.org>
+gnome-pie,481,4,0,105,2,0,471,485,99.17525773195877,Spanish
+gnome-power-manager,433,0,0,145,0,0,514,433,100.0,Español <gnome-es-list@gnome.org>
+gnome-robots,2861,0,0,264,0,0,2914,2861,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gnome-schedule,3279,0,40,371,0,10,3636,3319,98.79481771617958,Español <gnome-es-list@gnome.org>
+gnome-screensaver,291,0,0,58,0,0,329,291,100.0,Español <gnome-es-list@gnome.org>
+gnome-screenshot,356,0,0,72,0,0,435,356,100.0,Español <gnome-es-list@gnome.org>
+gnome-search-tool,3172,0,0,331,0,0,3511,3172,100.0,Español <gnome-es-list@gnome.org>
+gnome-session,431,0,0,87,0,0,523,431,100.0,
+gnome-settings-daemon,3729,0,0,606,0,0,4366,3729,100.0,Español <gnome-es-list@gnome.org>
+gnome-shell,1352,0,0,340,0,0,1576,1352,100.0,Español <gnome-es-list@gnome.org>
+gnome-shell-extension-pomodoro,171,110,1,44,22,1,173,282,60.63829787234043,es <>
+gnome-shell-extensions,338,0,0,66,0,0,402,338,100.0,
+gnome-software,420,0,0,227,0,0,492,420,100.0,Español <gnome-es-list@gnome.org>
+gnome-subtitles,2854,0,0,502,0,0,3144,2854,100.0,Español <gnome-es-list@gnome.org>
+gnome-sudoku,2862,0,0,321,0,0,3077,2862,100.0,Español <gnome-es-list@gnome.org>
+gnome-system-log,1225,0,0,143,0,0,1368,1225,100.0,Español <gnome-es-list@gnome.org>
+gnome-system-monitor,3909,0,0,543,0,0,4626,3909,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gnome-terminal,7320,0,0,936,0,0,8423,7320,100.0,Español <gnome-es-list@gnome.org>
+gnome-tetravex,926,0,0,125,0,0,960,926,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gnome-themes,109,0,0,30,0,0,139,109,100.0,Español <gnome-es-list@gnome.org>
+gnome-themes-standard,24,0,0,9,0,0,26,24,100.0,Español <gnome-es-list@gnome.org>
+gnome-tweak-tool,341,0,0,129,0,0,461,341,100.0,Español <gnome-es-list@gnome.org>
+gnome-user-docs,59881,0,0,3248,0,0,63237,59881,100.0,Español <gnome-es-list@gnome.org>
+gnome-user-share,247,0,0,34,0,0,281,247,100.0,Español <gnome-es-list@gnome.org>
+gnome-vfs2,1519,0,0,305,0,0,1821,1519,100.0,Español <gnome-es-list@gnome.org>
+gnome-video-effects,256,0,0,68,0,0,310,256,100.0,Español <gnome-es-list@gnome.org>
+gnome-weather,204,0,0,72,0,0,275,204,100.0,Español <gnome-es-list@gnome.org>
+gnome-web-photo,375,0,0,58,0,0,468,375,100.0,Español <gnome-es-list@gnome.org>
+gnomebaker,1881,314,177,451,99,32,2171,2372,79.30016863406408,Spanish <es@li.org>
+gnomeradio,2221,0,0,254,0,0,2445,2221,100.0,Español <gnome-es-list@gnome.org>
+gnomint,3488,0,0,524,0,0,4099,3488,100.0,Spanish <es@li.org>
+gnote,7547,0,0,877,0,0,8922,7547,100.0,
+gnotime,114,336,1558,60,140,229,140,2008,5.677290836653386,spanish <es@li.org>
+gnubg,10653,1451,996,2168,357,129,12522,13100,81.32061068702289,ES-Translation
+gnubik,45,75,158,13,16,53,53,278,16.18705035971223,Castilian aka Spanish <es@li.org>
+gnucash,24425,17968,17100,4746,3175,1466,27002,59493,41.05525019750223,"Spanish es@li.org"""
+gnue-common,425,573,1134,74,73,126,495,2132,19.934333958724203,es_ES
+gnumed,19165,3483,3299,3022,771,359,21221,25947,73.86210351871122,colombiano <es@li.org>
+gnumeric,36936,0,0,5861,0,0,41844,36936,100.0,Español <gnome-es-list@gnome.org>
+gnupg,8613,9,6,1293,1,1,9745,8628,99.82614742698192,Español; Castellano <debian-l10n-spanish@lists.debian.org>
+gnupg2,10561,44,9,1750,9,2,11745,10614,99.50065950631242,Español; Castellano <debian-l10n-spanish@lists.debian.org>
+gnusim8085,568,0,0,145,0,0,676,568,100.0,Spanish <es@li.org>
+gobby,900,0,0,190,0,0,934,900,100.0,Mario Palomo Torrero <mpalomo@ihman.com>
+goffice,6456,0,0,2062,0,0,7509,6456,100.0,
+goffice08,4827,0,0,1610,0,0,5731,4827,100.0,Español <gnome-es-list@gnome.org>
+goocanvas,866,560,304,163,64,44,920,1730,50.05780346820809,
+goocanvas2,866,560,304,163,64,44,920,1730,50.05780346820809,
+googsystray,728,31,0,183,16,0,821,759,95.91567852437419,American English <kde-i18n-doc@kde.org>
+gourmet,3760,78,3714,899,2,857,4488,7552,49.78813559322034,Spanish <es@li.org>
+gparted,7839,0,0,825,0,0,8787,7839,100.0,Español <gnome-es-list@gnome.org>
+gpaste,503,128,236,96,21,25,555,867,58.016147635524796,Spanish
+gphoto2,734,297,645,166,46,116,886,1676,43.794749403341285,Spanish <es@li.org>
+gphotoframe,234,0,1085,70,0,197,236,1319,17.7407126611069,LANGUAGE <LL@li.org>
+gphpedit,873,48,150,238,12,40,955,1071,81.5126050420168,español <none@none.com>
+gpick,522,9,71,261,6,30,625,602,86.71096345514951,
+gpicview,219,0,0,44,0,0,267,219,100.0,Spanish <es@li.org>
+gpodder,4037,193,490,1153,35,38,4782,4720,85.52966101694915,Spanish <kde-i18n-doc@kde.org>
+gpredict,4930,0,1112,955,0,133,5532,6042,81.59549817941078,Spanish <es@li.org>
+gpsdrive,2115,50,0,361,2,0,2422,2165,97.6905311778291,Spanish <es@li.org>
+gpx-viewer,85,0,23,48,0,10,96,108,78.70370370370371,Spanish <es@li.org>
+gramps,34831,1622,624,5815,230,144,39192,37077,93.94233621921946,
+grass,61273,6100,3586,10755,1000,413,77234,70959,86.34986400597529,Español; Castellano <grass-translations@lists.osgeo.org>
+grep,923,29,20,110,2,3,1099,972,94.95884773662551,Spanish <es@li.org>
+gretl,41655,1646,895,10790,391,162,48295,44196,94.25061091501493,Spanish <kde-i18n-doc@kde.org>
+greylistd,350,0,0,14,0,0,376,350,100.0,Debian l10n spanish <debian-l10n-spanish@lists.debian.org>
+gridengine,1569,364,114,335,54,10,2086,2047,76.64875427454811,Spanish <es@li.org>
+grilo,187,0,0,36,0,0,268,187,100.0,Español; Castellano <gnome-es-list@gnome.org>
+grilo-plugins,483,0,0,125,0,0,578,483,100.0,Español <gnome-es-list@gnome.org>
+grip,0,0,0,0,0,0,0,0,0.0,
+grisbi,11388,670,277,2026,117,40,12742,12335,92.32265910012161,Spanish <es@li.org>
+grsync,985,119,37,147,9,5,1132,1141,86.32778264680105,Español <gnome-es-list@gnome.org>
+grub-customizer,578,0,680,142,0,44,619,1258,45.94594594594595,Spanish <es@li.org>
+gscan2pdf,1522,0,60,453,0,31,1748,1582,96.20733249051833,Spanish <es@li.org>
+gsettings-desktop-schemas,5363,0,0,468,0,0,6368,5363,100.0,Español <gnome-es-list@gnome.org>
+gshutdown,391,101,0,90,11,0,427,492,79.47154471544715,
+gstreamer,1914,3,0,347,1,0,2393,1917,99.8435054773083,Spanish <es@li.org>
+gstreamer-plugins-bad-free,96,0,0,14,0,0,129,96,100.0,Spanish <es@li.org>
+gstreamer-plugins-base,902,0,6,176,0,2,1146,908,99.33920704845815,Spanish <es@li.org>
+gstreamer-plugins-good,814,0,0,190,0,0,1012,814,100.0,Spanish <es@li.org>
+gstreamer1,1802,100,93,332,15,13,2253,1995,90.32581453634086,Spanish <es@li.org>
+gstreamer1-plugins-bad-free,96,21,96,14,4,13,129,213,45.07042253521127,Spanish <es@li.org>
+gstreamer1-plugins-base,667,43,76,128,13,15,847,786,84.86005089058524,Spanish <es@li.org>
+gstreamer1-plugins-good,543,86,21,76,12,3,675,650,83.53846153846153,Spanish <es@li.org>
+gtg,1557,0,1940,291,0,9,1657,3497,44.52387760937947,Spanish <es@li.org>
+gthumb,9027,0,0,1644,0,0,10038,9027,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gtick,113,184,41,53,13,30,138,338,33.43195266272189,
+gtk+,404,0,0,210,0,0,454,404,100.0,
+gtk-doc,10897,0,0,463,0,0,11408,10897,100.0,Español <gnome-es-list@gnome.org>
+gtk-gnutella,12139,0,4034,2095,0,554,13527,16173,75.05719408891363,Spanish (http://www.transifex.com/projects/p/gtk-gnutella/language/es/)
+gtk-murrine-engine,134,0,0,46,0,0,219,134,100.0,Español <gnome-es-list@gnome.org>
+gtk-recordmydesktop,816,0,0,104,0,0,895,816,100.0,spanish <es@li.org>
+gtk-vnc,81,0,0,22,0,0,113,81,100.0,Español <gnome-es-list@gnome.org>
+gtk2,12423,0,0,2584,0,0,14926,12423,100.0,Español <gnome-es-list@gnome.org>
+gtk2-engines,119,0,0,47,0,0,187,119,100.0,Español <gnome-es-list@gnome.org>
+gtk3,13927,0,0,3005,0,0,16718,13927,100.0,Español <gnome-es-list@gnome.org>
+gtkhash,23,0,95,16,0,26,31,118,19.491525423728813,Spanish <es@li.org>
+gtkhtml3,522,0,0,317,0,0,600,522,100.0,Español <gnome-es-list@gnome.org>
+gtkpod,6313,400,679,1105,94,127,7638,7392,85.40313852813853,Spanish (Spain) (http://www.transifex.net/projects/p/gtkpod/team/es_ES/)
+gtksourceview,849,0,0,342,0,0,1066,849,100.0,Spanish <traductores@es.gnome.org>
+gtksourceview2,1426,0,0,549,0,0,1788,1426,100.0,Español <gnome-es-list@gnome.org>
+gtksourceview3,1696,0,0,714,0,0,2133,1696,100.0,Español; Castellano <gnome-es-list@gnome.org>
+gtkspell,11,0,0,5,0,0,12,11,100.0,Spanish <es@li.org>
+gtkspell3,11,0,0,5,0,0,12,11,100.0,Spanish <es@li.org>
+gtranslator,4465,0,0,651,0,0,5138,4465,100.0,Español <gnome-es-list@gnome.org>
+gtweakui,146,0,106,39,0,40,193,252,57.936507936507944,Español
+gtypist,419,99,38,75,9,7,520,556,75.35971223021582,Spanish/Spain <es@li.org>
+guake,519,0,0,96,0,0,574,519,100.0,Spanish (http://www.transifex.com/projects/p/guake/language/es/)
+guayadeque,3326,0,0,1019,0,0,3519,3326,100.0,Spanish (Spain) (http://www.transifex.com/projects/p/guayadeque/language/es_ES/)
+gucharmap,2818,0,0,493,0,0,3143,2818,100.0,Español <gnome-es-list@gnome.org>
+guitarix,742,478,866,291,143,236,784,2086,35.57046979865772,LANGUAGE <LL@li.org>
+gummi,718,64,14,243,16,6,768,796,90.20100502512562,Carlos Salas Contreras <csalasc@gmail.com>
+gupnp-tools,272,0,0,98,0,0,356,272,100.0,Español <gnome-es-list@gnome.org>
+gutenprint,1819,3930,4174,306,960,1473,1984,9923,18.331149853874837,Castellano <es@li.org>
+gvfs,2648,0,0,585,0,0,3390,2648,100.0,
+gvrng,0,0,0,0,0,0,0,0,0.0,Spanish <david@linux.ajusco.upn.mx>
+gweled,151,0,5,43,0,1,157,156,96.7948717948718,Spanish <es@li.org>
+gwget,379,0,0,103,0,0,505,379,100.0,Español <gnome-es-list@gnome.org>
+gwibber,769,0,0,204,0,0,860,769,100.0,Spanish <es@li.org>
+gxneur,76,0,839,29,0,189,99,915,8.306010928961749,Spanish <es@li.org>
+gyachi,4176,0,0,1003,0,0,4833,4176,100.0,
+hamster-time-tracker,1681,1,0,224,1,0,1856,1682,99.94054696789536,Español <gnome-es-list@gnome.org>
+hexchat,5757,0,0,1423,0,0,6609,5757,100.0,Spanish (http://www.transifex.com/projects/p/hexchat/language/es/)
+hibernate,45784,7413,26161,2109,354,1211,53678,79358,57.69298621437032,<en@li.org>
+hibernate3,45784,7413,26161,2109,354,1211,53678,79358,57.69298621437032,<en@li.org>
+hitori,923,0,0,79,0,0,986,923,100.0,Español <gnome-es-list@gnome.org>
+hivex,270,0,0,22,0,0,318,270,100.0,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+homerun,474,7,23,124,2,9,534,504,94.04761904761905,Spanish <kde-l10n-es@kde.org>
+horde,8108,0,0,2061,0,0,9430,8108,100.0,i18n@lists.horde.org
+hotot,29,13,53,9,7,21,31,95,30.526315789473685,
+hotssh,150,0,0,58,0,0,166,150,100.0,Español <gnome-es-list@gnome.org>
+hugin,6274,275,878,1269,65,49,7459,7427,84.47556213814461,Español <es@li.org>
+hydrogen,9726,0,20,421,0,2,10079,9746,99.79478760517135,LANGUAGE <kde-i18n-doc@kde.org>
+iagno,5495,0,0,1039,0,0,5945,5495,100.0,Español <gnome-es-list@gnome.org>
+ibus,1996,0,0,333,0,0,2392,1996,100.0,Spanish <trans-es@lists.fedoraproject.org>
+ibus-chewing,278,0,0,67,0,0,325,278,100.0,Spanish (Spain)
+ibus-xkbc,61,0,0,28,0,0,91,61,100.0,LANGUAGE <LL@li.org>
+icaro,27,0,0,23,0,0,29,27,100.0,Spanish
+icewm,0,0,0,0,0,0,0,0,0.0,<es@li.org>
+ikiwiki,3334,852,978,389,80,47,3922,5164,64.56235476374903,<en@li.org>
+im-chooser,231,0,6,53,0,1,285,237,97.46835443037975,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+imp,6483,0,0,1312,0,0,7174,6483,100.0,i18n@lists.horde.org
+imsettings,440,0,0,80,0,0,539,440,100.0,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+indefero,4675,1324,1128,747,139,111,5026,7127,65.59562228146486,LANGUAGE <LL@li.org>
+ingo,886,0,0,236,0,0,1032,886,100.0,i18n@lists.horde.org
+initial-setup,29,0,29,5,0,5,29,58,50.0,Spanish (Spain) (http://www.transifex.com/projects/p/fedora/language/es_ES/)
+initscripts,922,68,13,144,12,2,1100,1003,91.92422731804587,Spanish <trans-es@lists.fedoraproject.org>
+inkscape,30610,2222,1841,6543,519,341,35420,34673,88.28194849017967,Inkscape translators <inkscape-translator@lists.sourceforge.net>
+insight,9792,0,0,1557,0,0,12228,9792,100.0,Spanish <es@li.org>
+iok,142,5,59,36,1,3,187,206,68.93203883495146,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+ipplan,0,0,0,0,0,0,0,0,0.0,
+iptux,772,0,27,236,0,4,803,799,96.62077596996245,Spanish <es@li.org>
+ircp-tray,239,0,0,61,0,0,288,239,100.0,no-team
+islamic-menus,5,0,0,2,0,0,7,5,100.0,Spanish <es@li.org>
+iso-codes,2895,9359,11103,1651,7089,6624,3015,23357,12.394571220619087,Spanish <es@li.org>
+isomaster,674,0,0,107,0,0,754,674,100.0,
+istanbul,350,0,0,45,0,0,364,350,100.0,<en@li.org>
+iwhd,822,121,14,160,11,2,1073,957,85.8934169278997,Spanish (Castilian) (http://www.transifex.net/projects/p/iwhd/team/es/)
+java-gnome,25,0,0,6,0,0,27,25,100.0,Español <translation-team-es@lists.sourceforge.net>
+jmol,3159,0,4,1008,0,1,3783,3163,99.87353778058805,Spanish <Jmol-developers@lists.sf.net>
+jpilot,2474,0,0,665,0,0,2928,2474,100.0,Spanish <es@li.org>
+json-glib,226,0,0,27,0,0,253,226,100.0,Español; Castellano <gnome-es-list@gnome.org>
+jwhois,440,0,0,71,0,0,568,440,100.0,Spanish <es@li.org>
+jwm,288,0,3,75,0,1,371,291,98.96907216494846,Spanish <LL@li.org>
+k3b,20541,0,0,2534,0,0,23446,20541,100.0,Spanish <kde-l10n-es@kde.org>
+kBuild,204,136,165,38,29,14,251,505,40.396039603960396,Spanish <es@li.org>
+kamoso,153,0,0,49,0,0,150,153,100.0,Español <kde-l10n-es@kde.org>
+kanatest,401,5,0,210,2,0,428,406,98.76847290640394,Spanish
+kanyremote,467,16,1,140,3,1,509,484,96.48760330578511,Spanish
+katello-cli,2870,0,219,562,0,36,3395,3089,92.91032696665587,American English <katello-devel@redhat.com>
+kaudiocreator,1136,0,0,273,0,0,1303,1136,100.0,Spanish <kde-l10n-es@kde.org>
+kbackup,309,140,201,67,25,31,347,650,47.53846153846154,español <es@li.org>
+kbd,1614,235,595,204,40,58,2102,2444,66.0392798690671,Spanish <es@li.org>
+kchildlock,682,124,0,115,7,0,784,806,84.61538461538461,
+kcm-gtk,124,0,0,21,0,0,138,124,100.0,<es@li.org>
+kcm_touchpad,1,2,313,1,1,78,1,316,0.31645569620253167,LANGUAGE <LL@li.org>
+kcm_wacomtablet,811,0,0,173,0,0,1033,811,100.0,Spanish <kde-l10n-es@kde.org>
+kcoloredit,278,0,0,95,0,0,329,278,100.0,Español <kde-i18n-doc@kde.org>
+kdbg,739,23,93,139,9,50,802,855,86.4327485380117,<es@li.org>
+kde-connect,309,0,0,97,0,0,384,309,100.0,Spanish <kde-l10n-es@kde.org>
+kde-partitionmanager,4912,0,0,872,0,0,6325,4912,100.0,Spanish <kde-l10n-es@kde.org>
+kde-plasma-nm,2961,0,0,1002,0,0,3720,2961,100.0,Spanish <kde-l10n-es@kde.org>
+kde-plasma-quickaccess,72,0,0,31,0,0,73,72,100.0,Spanish <es@li.org>
+kde-plasma-redshift,150,0,0,46,0,0,172,150,100.0,Italian <>
+kde-plasma-yawp,842,2903,303,447,845,171,892,4048,20.800395256916996,Español <kde-i18n-doc@kde.org>
+kdesvn,4084,65,70,749,21,12,4824,4219,96.80018961839298,Spanish <kde-i18n-doc@kde.org>
+kdevelop,4404,0,0,888,0,0,5242,4404,100.0,Spanish <kde-l10n-es@kde.org>
+kdevelop-php,456,0,0,72,0,0,567,456,100.0,Spanish <kde-l10n-es@kde.org>
+kdevplatform,9122,0,0,1912,0,0,10722,9122,100.0,Spanish <kde-l10n-es@kde.org>
+kdiff3,3584,33,153,647,5,11,4243,3770,95.06631299734748,Español <kde-i18n-doc@kde.org>
+kdissert,2027,0,0,282,0,0,2135,2027,100.0,Español <kde-es@kybs.de>
+keurocalc,3042,0,0,342,0,0,3168,3042,100.0,Español <kde-es@kybs.de>
+kexec-tools,148,0,0,17,0,0,175,148,100.0,Spanish <en@li.org>
+kf5-frameworkintegration,56,0,0,21,0,0,59,56,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kactivities,85,0,0,32,0,0,101,85,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kauth,58,0,0,8,0,0,71,58,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kbookmarks,218,0,0,48,0,0,252,218,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kcmutils,563,0,0,71,0,0,705,563,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,375,348,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kcompletion,20,0,0,12,0,0,22,20,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kconfig,233,0,0,94,0,0,297,233,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kconfigwidgets,317,0,0,114,0,0,409,317,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kcoreaddons,252,0,0,78,0,0,273,252,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,70,48,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,120,109,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kdelibs4support,4683,0,0,2336,0,0,6026,4683,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,70,54,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kdesu,19,0,0,7,0,0,19,19,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,16,8,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kglobalaccel,85,0,0,14,0,0,96,85,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-khtml,1720,0,0,311,0,0,1794,1720,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-ki18n,124,0,0,110,0,0,132,124,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kiconthemes,37,0,0,20,0,0,45,37,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kinit,134,0,0,14,0,0,136,134,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kio,11641,0,0,1272,0,0,12577,11641,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,8,7,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kjobwidgets,141,0,0,45,0,0,142,141,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,313,248,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-knewstuff,664,0,9,147,0,3,776,673,98.6627043090639,Spanish <kde-l10n-es@kde.org>
+kf5-knotifications,18,0,0,6,0,0,20,18,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,136,129,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kpackage,381,0,0,85,0,0,490,381,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kparts,104,0,0,26,0,0,95,104,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kpeople,21,0,0,11,0,0,27,21,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kpty,15,0,0,4,0,0,20,15,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kross,100,0,0,35,0,0,122,100,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-krunner,15,0,0,3,0,0,16,15,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kservice,153,0,0,28,0,0,193,153,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-ktexteditor,8670,0,0,1447,0,0,10031,8670,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-ktextwidgets,464,0,0,122,0,0,528,464,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kunitconversion,4386,0,0,1858,0,0,4529,4386,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kwallet,1498,0,0,108,0,0,1703,1498,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kwidgetsaddons,1260,0,0,431,0,0,1443,1260,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kxmlgui,1543,0,0,222,0,0,1753,1543,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,14,13,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-plasma,761,0,0,198,0,0,1054,761,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-solid,677,0,0,220,0,0,796,677,100.0,Spanish <kde-l10n-es@kde.org>
+kf5-sonnet,659,0,0,72,0,0,660,659,100.0,Spanish <kde-l10n-es@kde.org>
+kflickr,332,0,0,87,0,0,395,332,100.0,English <en@li.org>
+kgrab,0,0,370,0,0,53,0,370,0.0,Spanish <kde-l10n-es@kde.org>
+kgraphviewer,1251,0,0,242,0,0,1408,1251,100.0,Spanish <kde-l10n-es@kde.org>
+kguitar,0,0,0,0,0,0,0,0,0.0,
+kicad,6863,0,601,2277,0,68,7443,7464,91.94801714898178,kicad team <inigo_zuluaga@yahoo.es>
+kiconedit,726,0,0,155,0,0,771,726,100.0,Español <kde-i18n-doc@kde.org>
+kid3,1537,0,0,636,0,0,1865,1537,100.0,Spanish <kde-i18n-doc@kde.org>
+kile,11162,0,0,1902,0,0,12568,11162,100.0,Spanish <kde-l10n-es@kde.org>
+kio_gopher,17,0,0,5,0,0,18,17,100.0,Spanish <kde-l10n-es@kde.org>
+kio_mtp,17,0,0,2,0,0,19,17,100.0,Spanish <kde-l10n-es@kde.org>
+kio_sysinfo,168,0,0,72,0,0,192,168,100.0,Spanish <kde-i18n-doc@kde.org>
+klamav,931,202,1370,216,46,157,970,2503,37.19536556132641,Spanish <sp@li.org>
+klavaro,1907,0,5,231,0,1,1852,1912,99.73849372384937,Spanish <es@li.org>
+klog,1738,0,0,490,0,0,1744,1738,100.0,Spanish <kde-i18n-doc@kde.org>
+kmess,7295,80,27,1135,8,6,7880,7402,98.5544447446636,Spanish <kde-i18n-doc@kde.org>
+kmetronome,673,0,0,116,0,0,707,673,100.0,Spanish <kde-i18n-doc@kde.org>
+kmid2,1019,3,0,332,1,0,1168,1022,99.706457925636,Español <kde-l10n-es@kde.org>
+kmldonkey,1830,0,0,436,0,0,2187,1830,100.0,Spanish <kde-l10n-es@kde.org>
+kmplayer,1248,1,0,370,1,0,1530,1249,99.919935948759,Spanish <kde-l10n-es@kde.org>
+kmymoney,19221,9,0,3188,3,0,21165,19230,99.95319812792512,Spanish <kde-l10n-es@kde.org>
+knemo,1186,0,0,347,0,0,1410,1186,100.0,Spanish <kde-l10n-es@kde.org>
+knetstats,119,0,0,53,0,0,138,119,100.0,Spanish <es@li.org>
+knights,757,0,0,219,0,0,898,757,100.0,Spanish <kde-l10n-es@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,9927,8417,100.0,Spanish <kde-l10n-es@kde.org>
+konversation,10922,0,0,1677,0,0,12615,10922,100.0,Spanish <kde-l10n-es@kde.org>
+kopete-cryptography,408,0,0,41,0,0,454,408,100.0,Spanish <kde-l10n-es@kde.org>
+kover,470,0,0,126,0,0,606,470,100.0,Spanish <es@li.org>
+koverartist,300,86,377,84,23,78,344,763,39.31847968545216,<es@li.org>
+kphotoalbum,5241,935,2079,737,45,99,5447,8255,63.48879466989703,Spanish <kde-l10n-es@kde.org>
+kpilot,7156,0,0,861,0,0,8284,7156,100.0,Spanish <kde-l10n-es@kde.org>
+kradio4,2303,16,1597,657,4,184,2619,3916,58.810010214504594,Sergio Ahumada Navea <sahumada@gmail.com>
+krb5-auth-dialog,2821,0,0,431,0,0,3753,2821,100.0,Español <gnome-es-list@gnome.org>
+krecipes,3677,48,23,788,10,5,4234,3748,98.10565635005337,Español <kde-l10n-es@kde.org>
+krename,739,659,660,159,162,118,770,2058,35.9086491739553,<es@li.org>
+kronolith,2296,0,14,565,0,1,2507,2310,99.39393939393939,i18n@lists.horde.org
+krusader,6285,1538,133,1485,233,19,7283,7956,78.99698340874811,Spanish <kde-l10n-es@kde.org>
+kscreen,108,0,0,30,0,0,127,108,100.0,Spanish <kde-l10n-es@kde.org>
+ksensors,126,0,38,65,0,32,151,164,76.82926829268293,<es@li.org>
+ksig,85,0,0,26,0,0,83,85,100.0,Spanish <kde-es@kybs.de>
+ktechlab,2489,824,1274,561,118,193,2994,4587,54.26204490952692,<es@li.org>
+ktikz,339,0,0,68,0,0,380,339,100.0,American English <kde-i18n-doc@kde.org>
+ktorrent,7739,0,0,1389,0,0,8924,7739,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-accounts-kcm,1037,0,0,281,0,0,1279,1037,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-approver,71,0,0,18,0,0,73,71,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-auth-handler,74,0,0,22,0,0,89,74,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-call-ui,225,0,0,71,0,0,266,225,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-common-internals,884,0,0,182,0,0,1043,884,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-contact-list,434,0,0,119,0,0,498,434,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-contact-runner,177,0,0,35,0,0,246,177,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-desktop-applets,35,0,0,17,0,0,43,35,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,179,141,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-kded-integration-module,285,0,0,58,0,0,316,285,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-send-file,59,0,0,17,0,0,72,59,100.0,Spanish <kde-l10n-es@kde.org>
+ktp-text-ui,547,0,0,130,0,0,648,547,100.0,Spanish <kde-l10n-es@kde.org>
+kupfer,6126,0,0,1007,0,0,6836,6126,100.0,Español <gnome-es-list@gnome.org>
+kvirc,10779,440,127,2118,41,19,12638,11346,95.00264410364886,American English <kde-i18n-doc@kde.org>
+kwebkitpart,624,0,0,158,0,0,662,624,100.0,Spanish <kde-l10n-es@kde.org>
+l3afpad,113,0,17,61,0,3,148,130,86.92307692307692,Spanish <es@li.org>
+labyrinth,143,30,53,42,9,22,159,226,63.27433628318584,
+laditools,121,0,255,42,0,44,131,376,32.180851063829785,Spanish <es@li.org>
+latexila,3038,0,0,626,0,0,3271,3038,100.0,Español <gnome-es-list@gnome.org>
+lazarus,24331,2168,133,6006,494,28,28700,26632,91.36001802343046,Español
+ldm,55,0,0,19,0,0,60,55,100.0,spanish <es@li.org>
+leafpad,125,0,0,68,0,0,161,125,100.0,Spanish <es@li.org>
+lekhonee-gnome,112,0,0,44,0,0,114,112,100.0,Fedora Spanish <trans-es@lists.fedoraproject.org>
+lemonpos,3408,161,218,942,38,64,3762,3787,89.99207816213361,Español <es@lemonpos.org>
+lftp,2013,870,987,289,79,98,2349,3870,52.015503875968996,Spanish <es@li.org>
+libbonobo,543,0,0,107,0,0,734,543,100.0,Español <gnome-es-list@gnome.org>
+libbonoboui,368,0,0,115,0,0,470,368,100.0,Español <gnome-es-list@gnome.org>
+libcryptui,752,0,0,192,0,0,897,752,100.0,Español <gnome-es-list@gnome.org>
+libepc,147,0,0,26,0,0,198,147,100.0,Español <gnome-es-list@gnome.org>
+libexif,2517,2212,2248,242,387,548,2806,6977,36.07567722516841,Spanish <es@li.org>
+libexif-gtk3,259,0,0,109,0,0,307,259,100.0,Spanish <es@li.org>
+libfm,1565,0,0,390,0,0,1815,1565,100.0,Spanish (Castilian) <translation@mailinglist.lxde.org>
+libgda,17041,0,0,2394,0,0,20532,17041,100.0,
+libgdata,632,0,0,77,0,0,674,632,100.0,Español <gnome-es-list@gnome.org>
+libgdl,659,0,0,96,0,0,729,659,100.0,Español <gnome-es-list@gnome.org>
+libgnome,1773,0,0,273,0,0,2233,1773,100.0,Español <gnome-es-list@gnome.org>
+libgnome-keyring,44,0,0,9,0,0,56,44,100.0,Español <gnome-es-list@gnome.org>
+libgnome-media-profiles,1297,0,0,109,0,0,1511,1297,100.0,Español <gnome-es-list@gnome.org>
+libgnomecanvas,378,0,0,95,0,0,455,378,100.0,Español <gnome-es-list@gnome.org>
+libgnomecups,206,4,0,53,1,0,218,210,98.09523809523809,Spanish <traductores@es.gnome.org>
+libgnomekbd,242,0,0,55,0,0,307,242,100.0,Español <gnome-es-list@gnome.org>
+libgnomeprint22,168,0,0,98,0,0,195,168,100.0,Spanish <traductores@es.gnome.org>
+libgnomeprintui22,481,0,0,154,0,0,544,481,100.0,Español <gnome-es-list@gnome.org>
+libgnomeui,1226,0,0,320,0,0,1430,1226,100.0,Español <gnome-es-list@gnome.org>
+libgphoto2,4273,2997,4033,828,682,906,5317,11303,37.80412279925683,Spanish <es@li.org>
+libgpod,891,146,16,149,33,3,1110,1053,84.61538461538461,spanish <es_ES>
+libgsf,696,0,0,146,0,0,899,696,100.0,Español <gnome-es-list@gnome.org>
+libgtop2,126,0,0,40,0,0,154,126,100.0,Spanish <traductores@es.gnome.org>
+libguestfs,3836,0,8969,547,0,865,4791,12805,29.95704802811402,Spanish (http://www.transifex.com/projects/p/fedora/language/es/)
+libgweather,6571,0,0,4702,0,0,6797,6571,100.0,Español <gnome-es-list@gnome.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,Spanish
+libkexif,25,0,0,14,0,0,30,25,100.0,Spanish <kde-es@kybs.de>
+libkfbapi,42,0,0,6,0,0,55,42,100.0,Spanish <kde-l10n-es@kde.org>
+libktorrent,519,0,0,115,0,0,691,519,100.0,Spanish <kde-l10n-es@kde.org>
+libmatekbd,292,0,0,62,0,0,366,292,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+libmatekeyring,44,0,0,9,0,0,56,44,100.0,Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)
+libmateweather,6493,0,106,4719,0,17,6703,6599,98.39369601454766,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+libmatewnck,1124,0,0,241,0,0,1407,1124,100.0,Español <mate-es-list@gnome.org>
+libmx,40,0,0,16,0,0,46,40,100.0,
+libpaper,73,0,0,46,0,0,80,73,100.0,Debian L10n Spanish <debian-l10n-spanish@lists.debian.org>
+libpeas,105,0,0,26,0,0,111,105,100.0,Español <gnome-es-list@gnome.org>
+libpwquality,343,0,0,53,0,0,397,343,100.0,LANGUAGE <LL@li.org>
+libreoffice,523147,0,11621,73754,0,514,584104,534768,97.82690811716482,LANGUAGE <LL@li.org>
+libreport,2966,0,3312,401,0,433,3368,6278,47.24434533290857,Spanish (http://www.transifex.com/projects/p/fedora/language/es/)
+libreswan,887,4,44,39,1,1,928,935,94.8663101604278,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+libsecret,59,0,0,9,0,0,71,59,100.0,Español <gnome-es-list@gnome.org>
+libsmbios,1428,17,185,267,4,19,1735,1630,87.60736196319019,Spanish <en@li.org>
+libsoup,79,0,0,20,0,0,120,79,100.0,Español <gnome-es-list@gnome.org>
+libuser,1468,11,0,305,2,0,1875,1479,99.25625422582827,Spanish (http://www.transifex.com/projects/p/fedora/language/es/)
+libvirt,43790,690,890,7014,107,89,56142,45370,96.51752259202115,Spanish <trans-es@lists.fedoraproject.org>
+libvirt-sandbox,80,0,1086,19,0,189,91,1166,6.86106346483705,Spanish (Spain) (http://www.transifex.com/projects/p/fedora/language/es_ES/)
+libvisual,303,204,548,62,51,92,364,1055,28.720379146919434,Spanish
+libwnck,1124,0,0,241,0,0,1407,1124,100.0,Español <gnome-es-list@gnome.org>
+libwnck3,1086,0,0,231,0,0,1356,1086,100.0,Español <gnome-es-list@gnome.org>
+libxfce4ui,613,0,0,90,0,0,696,613,100.0,Spanish/ES <xfce-i18n@xfce.org>
+libxfce4util,424,0,0,7,0,0,469,424,100.0,Spanish/ES <xfce-i18n@xfce.org>
+libxfcegui4,139,0,0,44,0,0,155,139,100.0,Spanish/ES <xfce-i18n@xfce.org>
+licq,279,787,407,64,108,69,309,1473,18.94093686354379,
+lifeograph,766,100,163,186,21,60,833,1029,74.44120505344995,Galician <marcoslansgarza@gmail.com>
+liferea,1823,325,116,417,57,24,2120,2264,80.52120141342756,Spanish <en@li.org>
+lightdm,79,0,0,17,0,0,90,79,100.0,Spanish <es@li.org>
+lightdm-gtk,36,0,48,13,0,11,36,84,42.857142857142854,Spanish <es@li.org>
+lightdm-kde,98,0,36,50,0,7,118,134,73.13432835820896,Spanish <kde-l10n-es@kde.org>
+lightsoff,1083,0,0,106,0,0,1163,1083,100.0,Español <gnome-es-list@gnome.org>
+lilypond,12646,0,621,3097,0,180,16001,13267,95.31921308509837,Español <gnome-es-list@gnome.org>
+lincity-ng,1666,9,248,407,5,45,1863,1923,86.63546541861675,Español <traductores@es.gnome.org>
+lingot,1396,0,1,129,0,1,1540,1397,99.92841803865426,Spanish <LL@li.org>
+linkchecker,695,1159,1403,143,41,208,800,3257,21.338655204175623,Spanish <es@li.org>
+linphone,835,369,649,206,140,119,926,1853,45.06206152185645,es <es@li.org>
+linsmith,548,5,121,283,2,82,597,674,81.30563798219585,Spanish <es@li.org>
+linux_logo,45,3,6,15,3,5,46,54,83.33333333333334,Spanish <es@li.org>
+listen,1745,1,37,540,1,8,2034,1783,97.86876051598429,Spanish <es@li.org>
+liveusb-creator,480,0,480,52,0,52,521,960,50.0,Spanish (Spain) (http://www.transifex.com/projects/p/fedora/language/es_ES/)
+logjam,1991,137,188,470,64,55,2250,2316,85.96718480138169,Ricardo Mones <ricardo.mones@hispalinux.es>
+ltsp,462,0,0,87,0,0,584,462,100.0,spanish <es@li.org>
+lxappearance,212,0,0,74,0,0,275,212,100.0,Spanish
+lxappearance-obconf,191,5,0,26,1,0,217,196,97.44897959183673,spanish
+lxdm,30,0,0,18,0,0,32,30,100.0,LANGUAGE <LL@li.org>
+lxinput,72,0,0,24,0,0,90,72,100.0,Spanish
+lxlauncher,102,0,0,22,0,0,100,102,100.0,Spanish <es@li.org>
+lxmenu-data,97,0,0,37,0,0,119,97,100.0,Spanish <traductores@es.gnome.org>
+lxmusic,203,0,0,89,0,0,265,203,100.0,pcman.tw@gmail.com
+lxpanel,1869,75,84,627,26,29,2296,2028,92.15976331360946,Spanish <daniel@tunki.org>
+lxpolkit,15,0,0,9,0,0,18,15,100.0,Spanish
+lxrandr,224,9,11,49,2,3,283,244,91.80327868852459,Spanish <es@li.org>
+lxsession,72,0,0,28,0,0,80,72,100.0,Spanish <es@li.org>
+lxsession-edit,120,2,6,20,1,1,150,128,93.75,Spanish <es@li.org>
+lxshortcut,86,0,0,38,0,0,112,86,100.0,Spanish <es@li.org>
+lxtask,244,0,0,96,0,0,344,244,100.0,Spanish <es@li.org>
+lxterminal,237,25,26,148,12,10,308,288,82.29166666666666,Spanish <es@li.org>
+lyx,21126,178,153,6461,71,36,23092,21457,98.45737987603114,Spanish <lyx-docs@lists.lyx.org>
+mail-notification,2185,0,0,381,0,0,2560,2185,100.0,
+mailman,20346,1366,1373,1312,40,47,23955,23085,88.1351526965562,Español <es@li.org>
+mailnag,123,0,15,38,0,1,137,138,89.13043478260869,Spanish <es@li.org>
+make,1569,364,114,335,54,10,2086,2047,76.64875427454811,Spanish <es@li.org>
+man-db,612,180,493,127,24,104,840,1285,47.626459143968866,Spanish <es@li.org>
+man2html,58,0,0,3,0,0,62,58,100.0,Debian L10n Spanish <debian-l10n-spanish@lists.debian.org>
+mana,3329,0,86,860,0,15,3627,3415,97.48169838945827,Spanish (Castilian) (http://www.transifex.net/projects/p/mana/team/es/)
+manaplus,6197,0,11,1689,0,2,7284,6208,99.8228092783505,Spanish (http://www.transifex.com/projects/p/manaplus/language/es/)
+marco,2116,0,0,326,0,0,2740,2116,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mariadb,184,58,66,14,5,5,204,308,59.74025974025974,Debian l10 Spanish <debian-l10n-spanish@lists.debian.org>
+mariadb-galera,184,58,66,14,5,5,204,308,59.74025974025974,Debian l10 Spanish <debian-l10n-spanish@lists.debian.org>
+massif-visualizer,385,0,0,108,0,0,498,385,100.0,Spanish <kde-l10n-es@kde.org>
+mate-applets,17791,0,181,2096,0,49,20260,17972,98.99287780992655,Spanish <traductores@es.mate.org>
+mate-backgrounds,25,0,5,19,0,2,25,30,83.33333333333334,Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-calc,1412,0,0,441,0,0,1602,1412,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-character-map,2538,0,0,459,0,0,2824,2538,100.0,Español <mate-es-list@gnome.org>
+mate-control-center,2927,0,0,655,0,0,3525,2927,100.0,Español <mate-es-list@gnome.org>
+mate-desktop,51606,0,0,3346,0,0,56019,51606,100.0,Spanish <traductores@es.gnome.org>
+mate-dialogs,3010,0,0,408,0,0,3570,3010,100.0,Español <mate-es-list@gnome.org>
+mate-doc-utils,251,0,0,101,0,0,253,251,100.0,Spanish (Castilian) (http://www.transifex.net/projects/p/MATE/language/es/)
+mate-document-viewer,3412,0,0,584,0,0,3905,3412,100.0,Español <mate-es-list@gnome.org>
+mate-file-archiver,7134,0,0,780,0,0,7974,7134,100.0,Español <mate-es-list@gnome.org>
+mate-file-manager,9066,0,20,1474,0,2,10271,9086,99.77988113581334,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-file-manager-image-converter,74,0,0,34,0,0,83,74,100.0,Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-file-manager-open-terminal,82,0,0,7,0,0,85,82,100.0,Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-file-manager-sendto,316,0,0,67,0,0,371,316,100.0,Español <mate-es-list@gnome.org>
+mate-file-manager-share,226,0,0,36,0,0,263,226,100.0,Español <mate-es-list@mate.org>
+mate-icon-theme,20,0,0,16,0,0,21,20,100.0,Español <mate-es-list@gnome.org>
+mate-image-viewer,4896,0,0,549,0,0,5569,4896,100.0,Español <mate-es-list@gnome.org>
+mate-keyring,1173,0,0,243,0,0,1370,1173,100.0,Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-media,2867,0,0,410,0,0,3319,2867,100.0,Español <mate-es-list@gnome.org>
+mate-menu-editor,42,0,0,16,0,0,45,42,100.0,Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-menus,97,0,0,37,0,0,121,97,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-netspeed,148,0,0,58,0,0,196,148,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-notification-daemon,152,0,0,37,0,0,202,152,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-panel,6168,0,0,766,0,0,7211,6168,100.0,Español <mate-es-list@gnome.org>
+mate-polkit,296,0,0,48,0,0,323,296,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-power-manager,5158,0,0,583,0,0,6019,5158,100.0,Español <mate-es-list@gnome.org>
+mate-screensaver,585,0,0,132,0,0,666,585,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-sensors-applet,290,0,0,102,0,0,355,290,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-session-manager,564,0,0,104,0,0,675,564,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-settings-daemon,1735,0,0,242,0,0,2038,1735,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-system-monitor,3817,0,0,533,0,0,4472,3817,100.0,Español <mate-es-list@gnome.org>
+mate-terminal,4945,0,0,615,0,0,5638,4945,100.0,Español <mate-es-list@gnome.org>
+mate-text-editor,12563,0,0,1780,0,0,13900,12563,100.0,Español <mate-es-list@gnome.org>
+mate-themes,109,0,0,30,0,0,143,109,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+mate-user-share,1465,0,0,107,0,0,1600,1465,100.0,Español <matees-list@mateorg>
+mate-utils,9987,0,0,1125,0,0,11430,9987,100.0,Español <mate-es-list@gnome.org>
+mate-window-manager,2116,0,0,326,0,0,2738,2116,100.0,Spanish (http://www.transifex.com/projects/p/MATE/language/es/)
+maxima,1144,0,0,152,0,0,1323,1144,100.0,<ismaelgfk@gmail.com>
+mc,4017,0,0,1164,0,0,4332,4017,100.0,Spanish (http://www.transifex.com/projects/p/mc/language/es/)
+mcomix,2291,44,166,471,15,22,2684,2501,91.60335865653738,Spanish <traductores@es.gnome.org>
+meiga,375,6,0,93,1,0,396,381,98.4251968503937,Spanish <es@li.org>
+meld,4885,0,0,608,0,0,5504,4885,100.0,Español <gnome-es-list@gnome.org>
+mesa,371,0,0,63,0,0,485,371,100.0,Spanish <es@li.org>
+metacity,2040,0,0,310,0,0,2650,2040,100.0,Español <gnome-es-list@gnome.org>
+metamorphose2,1695,0,52,529,0,9,1864,1747,97.02346880366342,ianaré sévi
+mhwaveedit,2772,1528,247,570,173,80,2758,4547,60.9632724873543,<es@li.org> <es@li.org>
+midori,3314,0,33,764,0,2,4227,3347,99.01404242605318,Spanish <xfce-i18n@xfce.org>
+minetest,473,13,17,224,5,4,538,503,94.03578528827038,LANGUAGE <LL@li.org>
+mingw-GConf2,4074,0,0,496,0,0,5057,4074,100.0,Español; Castellano <gnome-es-list@gnome.org>
+mingw-atk,406,0,0,144,0,0,520,406,100.0,Español; Castellano <gnome-es-list@gnome.org>
+mingw-binutils,48644,0,0,7846,0,0,62143,48644,100.0,Spanish <es@li.org>
+mingw-gcc,68403,3708,2057,9174,499,174,86427,74168,92.22710602955453,Spanish <es@li.org>
+mingw-gdb,9792,0,0,1557,0,0,12228,9792,100.0,Spanish <es@li.org>
+mingw-gdk-pixbuf,1354,6,0,202,1,0,1915,1360,99.55882352941177,Español <gnome-es-list@gnome.org>
+mingw-gettext,4795,1916,393,525,147,42,5832,7104,67.49718468468468,Spanish <es@li.org>
+mingw-glib-networking,161,0,0,29,0,0,205,161,100.0,Español; Castellano <gnome-es-list@gnome.org>
+mingw-glib2,5651,0,0,879,0,0,7357,5651,100.0,
+mingw-goocanvas2,866,560,304,163,64,44,920,1730,50.05780346820809,
+mingw-gstreamer,1914,3,0,347,1,0,2393,1917,99.8435054773083,Spanish <es@li.org>
+mingw-gstreamer-plugins-bad-free,96,0,0,14,0,0,129,96,100.0,Spanish <es@li.org>
+mingw-gstreamer-plugins-base,902,0,6,176,0,2,1146,908,99.33920704845815,Spanish <es@li.org>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,1012,814,100.0,Spanish <es@li.org>
+mingw-gstreamer1,1802,100,93,332,15,13,2253,1995,90.32581453634086,Spanish <es@li.org>
+mingw-gstreamer1-plugins-base,667,43,76,128,13,15,847,786,84.86005089058524,Spanish <es@li.org>
+mingw-gtk-vnc,81,0,0,22,0,0,113,81,100.0,Español <gnome-es-list@gnome.org>
+mingw-gtk2,12423,0,0,2584,0,0,14926,12423,100.0,Español <gnome-es-list@gnome.org>
+mingw-gtk3,13899,0,0,3002,0,0,16680,13899,100.0,Español <gnome-es-list@gnome.org>
+mingw-gtkhtml3,522,0,0,317,0,0,600,522,100.0,Español <gnome-es-list@gnome.org>
+mingw-gtksourceview3,1604,0,0,669,0,0,2014,1604,100.0,Español <gnome-es-list@gnome.org>
+mingw-gtkspell3,11,0,0,5,0,0,12,11,100.0,Spanish <es@li.org>
+mingw-libgsf,696,0,0,146,0,0,899,696,100.0,Español <gnome-es-list@gnome.org>
+mingw-libsoup,79,0,0,20,0,0,120,79,100.0,Español <gnome-es-list@gnome.org>
+mingw-libvirt,43816,575,881,7018,91,88,56175,45272,96.7838840784591,Spanish <trans-es@lists.fedoraproject.org>
+mingw-p11-kit,469,7,0,80,1,0,558,476,98.52941176470588,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+mingw-postgresql,46637,0,0,6671,0,0,59184,46637,100.0,PgSQL Español <pgsql-es-ayuda@postgresql.org>
+mingw-qt5-qtwebkit,1443,595,593,337,125,110,1820,2631,54.846066134549595,Español <gnome-es-list@gnome.org>
+mingw-sane-backends,4272,132,347,865,58,84,5357,4751,89.91791201852241,GALPon MiniNo <minino@galpon.org>
+mingw-webkitgtk,2321,58,331,537,12,42,2929,2710,85.64575645756457,Español <gnome-es-list@gnome.org>
+mingw-webkitgtk3,2321,58,331,537,12,42,2929,2710,85.64575645756457,Español <gnome-es-list@gnome.org>
+mingw-wxWidgets,6232,113,46,1434,25,16,7468,6391,97.51212642778908,wxWidgets translators <wx-translators@wxwidgets.org>
+minicom,1056,355,385,293,61,38,1326,1796,58.797327394209354,Spanish <es@li.org>
+mintmenu,5334,0,0,1160,0,0,5827,5334,100.0,Spanish <es@li.org>
+mirage,583,131,103,174,50,21,663,817,71.35862913096696,<en@li.org>
+mkvtoolnix,18072,69,0,1986,3,0,21141,18141,99.61964610550686,Spanish <moritz@bunkus.org>
+mlocate,406,175,0,50,1,0,490,581,69.87951807228916,Spanish <trans-es@lists.fedoraproject.org>
+moin,4974,11,38,920,3,4,5821,5023,99.0244873581525,
+mojomojo,2040,0,59,612,0,24,2385,2099,97.18913768461171,LANGUAGE <LL@li.org>
+mono,973,654,5769,105,73,507,1252,7396,13.155759870200109,es <mono-list@lists.ximian.com>
+mono-tools,2,0,329,2,0,77,2,331,0.6042296072507553,Gonzalo Paniagua Javier <gonzalo@ximian.com>
+monodevelop,13746,1232,1645,3236,356,199,15862,16623,82.6926547554593,Spanish <es@li.org>
+monotone,8754,0,2962,1177,0,360,10223,11716,74.71833390235575,<juan.ruiz at ula.ve>
+moserial,2336,0,0,204,0,0,2527,2336,100.0,Español <gnome-es-list@gnome.org>
+mousepad,909,0,0,247,0,0,1028,909,100.0,Spanish/es <xfce-i18n@xfce.org>
+mousetweaks,114,0,0,30,0,0,174,114,100.0,Español <gnome-es-list@gnome.org>
+mozo,42,0,0,16,0,0,45,42,100.0,Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)
+msitools,68,0,0,25,0,0,83,68,100.0,Español <gnome-es-list@gnome.org>
+msp430-binutils,46315,0,0,7438,0,0,59161,46315,100.0,Spanish <es@li.org>
+msp430-gcc,66518,0,0,8975,0,0,83882,66518,100.0,Spanish <es@li.org>
+mtpaint,2903,0,228,805,0,67,3157,3131,92.71798147556692,GALPon MiniNo <mbouzada@gmail.com>
+muffin,2071,0,0,283,0,0,2628,2071,100.0,Español <gnome-es-list@gnome.org>
+multimedia-menus,56,0,0,22,0,0,64,56,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+mutt,3165,1211,1024,738,227,159,3610,5400,58.611111111111114,-
+mutter,2063,0,0,276,0,0,2660,2063,100.0,Español; Castellano <gnome-es-list@gnome.org>
+mutter-wayland,2261,0,0,320,0,0,2913,2261,100.0,Español <gnome-es-list@gnome.org>
+mydns,603,429,1688,118,84,311,748,2720,22.169117647058822,
+mypaint,4287,0,0,734,0,0,4940,4287,100.0,Español; Castellano <manuq@laptop.org>
+nano,2102,304,339,344,39,44,2306,2745,76.57559198542805,Spanish <es@li.org>
+nautilus,6270,0,0,1054,0,0,6986,6270,100.0,Español <gnome-es-list@gnome.org>
+nautilus-actions,20328,0,0,1545,0,0,22501,20328,100.0,Español <gnome-es-list@gnome.org>
+nautilus-image-converter,64,0,0,32,0,0,74,64,100.0,Italian <it@li.org>
+nautilus-open-terminal,166,0,0,16,0,0,186,166,100.0,Español <gnome-es-list@gnome.org>
+nautilus-pastebin,61,8,15,10,2,3,72,84,72.61904761904762,Spanish <es@li.org>
+nautilus-search-tool,11,0,0,2,0,0,11,11,100.0,Spanish <Spanish <tp@lists.linux.es>>
+nautilus-sendto,45,0,0,8,0,0,63,45,100.0,Español <gnome-es-list@gnome.org>
+nautilus-sound-converter,159,0,0,29,0,0,207,159,100.0,Español <gnome-es-list@gnome.org>
+ncmpc,706,0,1,255,0,1,925,707,99.85855728429985,es
+nemiver,4144,0,0,514,0,0,4592,4144,100.0,Español <gnome-es-list@gnome.org>
+nemo-extensions,841,4,156,230,2,39,1000,1001,84.01598401598402,Spanish <es@li.org>
+nesc,1178,0,0,199,0,0,1497,1178,100.0,Spanish <es@li.org>
+nested,696,0,0,180,0,0,824,696,100.0,
+net6,304,0,0,68,0,0,346,304,100.0,Spanish <es@li.org>
+network-manager-applet,3177,0,0,703,0,0,3805,3177,100.0,Español <gnome-es-list@gnome.org>
+neverball,2566,80,25,373,8,9,2425,2671,96.06888805690753,Spanish
+newsbeuter,2395,199,90,630,21,17,2836,2684,89.23248882265275,<>
+newt,4,0,0,4,0,0,4,4,100.0,Spanish <es@li.org>
+nicotine+,2550,494,1096,630,158,158,3030,4140,61.59420289855072,Spanish
+notification-daemon,17,0,0,7,0,0,23,17,100.0,Español <gnome-es-list@gnome.org>
+nuvolaplayer,836,0,146,176,0,20,1063,982,85.13238289205702,Spanish <es@li.org>
+obby,159,0,0,32,0,0,197,159,100.0,Spanish <es@li.org>
+obconf,516,0,222,119,0,37,624,738,69.91869918699187,spanish
+office-runner,125,0,0,21,0,0,125,125,100.0,Español; Castellano <gnome-es-list@gnome.org>
+oggconvert,132,0,0,44,0,0,191,132,100.0,Spanish <es@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,170,158,100.0,LANGUAGE <LL@li.org>
+openbox,473,0,33,90,0,4,531,506,93.47826086956522,español <es@li.org>
+openconnect,3533,0,410,619,0,71,4503,3943,89.60182602079635,Spanish (Castilian) (http://www.transifex.net/projects/p/meego/language/es/)
+openerp,47908,0,11011,8803,0,750,50886,58919,81.31163122252583,
+openerp-client,7729,0,0,574,0,0,8089,7729,100.0,Spanish <es@li.org>
+openerp7,50204,0,4472,8099,0,24,54900,54676,91.82090862535665,Spanish <es@li.org>
+openstack-ceilometer,0,0,1446,0,0,249,0,1446,0.0,Spanish (http://www.transifex.com/projects/p/openstack/language/es/)
+openstack-cinder,142,463,11322,33,89,1644,175,11927,1.1905760040244822,Spanish <es@li.org>
+openstack-glance,0,0,5490,0,0,653,0,5490,0.0,es <LL@li.org>
+openstack-heat,0,0,4648,0,0,645,0,4648,0.0,es <LL@li.org>
+openstack-keystone,365,70,1777,65,11,276,463,2212,16.500904159132006,Spanish (http://www.transifex.com/projects/p/openstack/language/es/)
+openstack-neutron,0,0,15821,0,0,2406,0,15821,0.0,Spanish (http://www.transifex.com/projects/p/openstack/language/es/)
+openstack-nova,640,1558,14559,129,320,2212,764,16757,3.819299397266814,Spanish <es@li.org>
+openstack-sahara,256,0,117,39,0,11,315,373,68.63270777479893,Spanish (http://www.transifex.com/projects/p/openstack/language/es/)
+openteacher,1301,0,447,327,0,28,1443,1748,74.4279176201373,Spanish <es@li.org>
+openvas-client,3907,0,550,562,0,68,4509,4457,87.65986089297733,Debian Spanish <debian-l10n-spanish@lists.debian.org>
+orage,2915,0,0,1021,0,0,3472,2915,100.0,Spanish (http://www.transifex.com/projects/p/xfce/language/es/)
+orca,15802,0,0,2157,0,0,17656,15802,100.0,
+osmo,1685,6,8,701,2,2,1989,1699,99.17598587404356,Spanish
+p11-kit,469,7,0,80,1,0,558,476,98.52941176470588,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+pacman,4552,0,366,779,0,44,5583,4918,92.5579503863359,Spanish (http://www.transifex.com/projects/p/archlinux-pacman/language/es/)
+pal,1151,0,0,207,0,0,1330,1151,100.0,Spanish <es@li.org>
+pam,606,0,0,122,0,0,744,606,100.0,Spanish <trans-es@lists.fedoraproject.org>
+pam_krb5,7,0,0,4,0,0,8,7,100.0,Spanish <trans-es@lists.fedoraproject.org>
+pan,3275,0,0,762,0,0,3943,3275,100.0,Español <gnome-es-list@gnome.org>
+paprefs,131,0,0,23,0,0,166,131,100.0,Spanish <fedora-trans-es@redhat.com>
+parcellite,156,0,0,52,0,0,178,156,100.0,Spanish
+parole,549,0,0,224,0,0,706,549,100.0,Spanish <es@li.org>
+parted,1806,836,1792,218,90,232,2097,4434,40.73071718538566,Spanish <es@li.org>
+partimage,1595,1421,371,297,94,71,1880,3387,47.09182167109536,español
+passwd,315,0,0,55,0,0,385,315,100.0,Spanish <trans-es@lists.fedoraproject.org>
+pastebinit,183,0,0,27,0,0,219,183,100.0,Spanish <es@li.org>
+pavucontrol,219,1,17,85,1,1,278,237,92.40506329113924,Fedora Spanish <fedora-trans-es@redhat.com>
+pbuilder,96,0,0,9,0,0,115,96,100.0,Debian Spanish team <debian-l10n-spanish@lists.debian.org>
+pcmanfm,1210,0,0,296,0,0,1482,1210,100.0,Spanish (Castilian) <translation@mailinglist.lxde.org>
+pdfmod,864,0,0,136,0,0,948,864,100.0,Español <gnome-es-list@gnome.org>
+pdfshuffler,54,16,55,27,1,15,80,125,43.2,Konstantinos Poulios <poulios.konstantinos@gmail.com>
+perl-Padre,5517,16,71,1237,5,9,6561,5604,98.44753747323341,Spanish
+pessulus,130,0,0,33,0,0,161,130,100.0,Español <gnome-es-list@gnome.org>
+pgadmin3,16742,0,0,4377,0,0,20084,16742,100.0,The pgAdmin Development Team <pgadmin-hackers@postgresql.org>
+phatch,2527,0,26,817,0,7,2949,2553,98.98159028593811,Spanish <es@li.org>
+phodav,35,0,0,10,0,0,40,35,100.0,Español <gnome-es-list@gnome.org>
+photoprint,420,89,908,155,43,121,441,1417,29.640084685956246,Spanish
+php-horde-Horde-Alarm,18,0,0,6,0,0,26,18,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,60,0,0,13,0,0,72,60,100.0,i18n@lists.horde.org
+php-horde-Horde-Auth,209,0,0,15,0,0,239,209,100.0,i18n@lists.horde.org
+php-horde-Horde-Browser,101,0,0,8,0,0,117,101,100.0,i18n@lists.horde.org
+php-horde-Horde-Cli,16,0,0,5,0,0,16,16,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,25,0,0,6,0,0,32,25,100.0,i18n@lists.horde.org
+php-horde-Horde-Core,1035,0,0,261,0,0,1174,1035,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,352,0,0,82,0,0,453,352,100.0,i18n@lists.horde.org
+php-horde-Horde-Data,53,0,0,8,0,0,61,53,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,105,0,0,35,0,0,113,105,100.0,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,i18n@lists.horde.org
+php-horde-Horde-Form,560,0,0,148,0,0,627,560,100.0,i18n@lists.horde.org
+php-horde-Horde-Icalendar,3,0,0,1,0,0,2,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,582,0,0,285,0,0,748,582,100.0,i18n@lists.horde.org
+php-horde-Horde-Imap-Client,386,0,0,53,0,0,443,386,100.0,i18n@lists.horde.org
+php-horde-Horde-Imsp,3,0,0,1,0,0,4,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,56,0,0,10,0,0,50,56,100.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,347,0,0,40,0,0,428,347,100.0,i18n@lists.horde.org
+php-horde-Horde-ListHeaders,7,0,0,7,0,0,7,7,100.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,8,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,42,0,0,11,0,0,44,42,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,46,47,100.0,i18n@lists.horde.org
+php-horde-Horde-Nls,702,0,0,456,0,0,685,702,100.0,i18n@lists.horde.org
+php-horde-Horde-Perms,17,0,0,5,0,0,16,17,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,30,0,0,9,0,0,36,30,100.0,i18n@lists.horde.org
+php-horde-Horde-Rpc,31,0,0,5,0,0,45,31,100.0,i18n@lists.horde.org
+php-horde-Horde-Service-Weather,531,0,0,209,0,0,583,531,100.0,
+php-horde-Horde-Share,8,0,0,1,0,0,8,8,100.0,i18n@lists.horde.org
+php-horde-Horde-Smtp,77,0,0,13,0,0,91,77,100.0,i18n@lists.horde.org
+php-horde-Horde-SyncMl,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,64,0,0,4,0,0,65,64,100.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,12,10,100.0,i18n@lists.horde.org
+php-horde-horde,3473,0,0,856,0,0,3977,3473,100.0,i18n@lists.horde.org
+php-horde-imp,6826,0,0,1390,0,0,7588,6826,100.0,i18n@lists.horde.org
+php-horde-ingo,1007,0,0,261,0,0,1205,1007,100.0,i18n@lists.horde.org
+php-horde-kronolith,3852,0,0,799,0,0,4164,3852,100.0,i18n@lists.horde.org
+php-horde-mnemo,575,0,0,145,0,0,649,575,100.0,i18n@lists.horde.org
+php-horde-nag,1628,0,0,380,0,0,1921,1628,100.0,i18n@lists.horde.org
+php-horde-passwd,342,0,0,65,0,0,399,342,100.0,i18n@lists.horde.org
+php-horde-turba,1858,0,0,438,0,0,2134,1858,100.0,i18n@lists.horde.org
+php-horde-wicked,673,0,0,176,0,0,755,673,100.0,i18n@lists.horde.org
+phpesp,764,328,1138,201,69,138,851,2230,34.26008968609865,es_ES <jflemer@alum.rpi.edu>
+picard,1681,0,0,668,0,0,1974,1681,100.0,Spanish (http://www.transifex.com/projects/p/musicbrainz/language/es/)
+pidgin,18064,0,400,3873,0,56,21545,18464,97.83362218370884,Spanish (http://www.transifex.com/projects/p/pidgin/language/es/)
+pidgin-birthday-reminder,240,0,0,63,0,0,243,240,100.0,es_ES <christoph.miebach@web.de>
+pidgin-guifications,389,81,35,162,21,9,391,505,77.02970297029704,Spanish <es@li.org>
+pidgin-libnotify,10,14,12,4,4,4,11,36,27.77777777777778,Spanish <es@li.org>
+pidgin-musictracker,333,0,0,60,0,0,394,333,100.0,Spanish <es@li.org>
+pidgin-otr,1064,0,0,159,0,0,1170,1064,100.0,~Español~ Juan Rodriguez <sevenfactors at gmail dot com>
+pidgin-sipe,865,0,38,214,0,10,1006,903,95.79180509413068,Spanish (http://www.transifex.com/projects/p/pidgin-sipe/language/es/)
+pikdev,1268,0,725,230,0,100,1326,1993,63.62267937782238,LANGUAGE <LL@li.org>
+piklab,5733,632,863,1332,160,287,6526,7228,79.31654676258992,Spanish
+pikloops,125,1,0,28,1,0,134,126,99.20634920634922,Spanish <traductores@es.gnome.org>
+pingus,2418,91,2886,222,2,222,2408,5395,44.81927710843374,Debian l10n spanish <debian-l10n-spanish@lists.debian.org>
+pinta,1618,0,0,528,0,0,1907,1618,100.0,Spanish <es@li.org>
+pioneers,2570,119,300,712,24,52,2831,2989,85.9819337571094,Spanish <debian-l10n-spanish@lists.debian.org>
+pitivi,7237,634,819,794,14,20,8202,8690,83.27963176064442,Español <gnome-es-list@gnome.org>
+plank,24,0,0,10,0,0,29,24,100.0,Spanish <es@li.org>
+planner,1844,0,0,535,0,0,2228,1844,100.0,Español <gnome-es-list@gnome.org>
+plasma-mediacenter,99,0,0,27,0,0,130,99,100.0,Spanish <kde-l10n-es@kde.org>
+plasma-oxygen,927,0,0,337,0,0,1344,927,100.0,Spanish <kde-l10n-es@kde.org>
+pluma,12576,0,0,1784,0,0,13917,12576,100.0,Español <mate-es-list@gnome.org>
+pmount,723,0,0,63,0,0,870,723,100.0,Spanish <es@li.org>
+po-debconf,5632,0,0,310,0,0,6053,5632,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+po4a,27305,0,2,1660,0,2,29051,27307,99.99267587065587,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+poedit,951,283,291,227,71,56,1078,1525,62.36065573770492,Español <LL@li.org>
+pogo,576,0,0,101,0,0,649,576,100.0,Spanish <es@li.org>
+polari,154,0,0,59,0,0,177,154,100.0,Español <gnome-es-list@gnome.org>
+policycoreutils,5868,558,8930,842,111,1203,6859,15356,38.213076321958845,Spanish <trans-es@lists.fedoraproject.org>
+polkit-gnome,285,0,0,46,0,0,308,285,100.0,Español <gnome-es-list@gnome.org>
+polkit-kde,88,0,0,25,0,0,99,88,100.0,Spanish <kde-l10n-es@kde.org>
+pondus,304,0,20,79,0,12,347,324,93.82716049382715,LANGUAGE <LL@li.org>
+pootle,4616,18,1,2347,15,1,5245,4635,99.5900755124056,LANGUAGE <LL@li.org>
+popt,48,8,28,21,2,8,54,84,57.14285714285714,Spanish <es@li.org>
+postgresql,46637,0,0,6671,0,0,59184,46637,100.0,PgSQL Español <pgsql-es-ayuda@postgresql.org>
+postgresql-jdbc,170,114,1780,21,14,215,195,2064,8.236434108527131,
+powertop,260,0,235,68,0,65,311,495,52.52525252525253,Spanish (Spain) (http://www.transifex.com/projects/p/PowerTOP/language/es_ES/)
+pragha,802,0,0,244,0,0,988,802,100.0,Spanish (http://www.transifex.com/projects/p/Pragha/language/es/)
+proftpd,948,0,0,240,0,0,1042,948,100.0,Spanish
+prozilla,276,0,0,21,0,0,309,276,100.0,Españoñ <es@li.org>
+psad,467,0,0,31,0,0,590,467,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+pspp,8126,1420,349,1695,149,41,9561,9895,82.12228398180899,Spanish <es@li.org>
+publican,2674,180,2633,236,29,349,3054,5487,48.73336978312375,Fedora Spanish <trans-es@lists.fedoraproject.org>
+publican-fedora,107,0,0,6,0,0,105,107,100.0,Español <en@li.org>
+publican-jboss,120,3,109,9,1,4,137,232,51.724137931034484,Spanish <en@li.org>
+publican-redhat,220,0,0,13,0,0,235,220,100.0,Spanish <en@li.org>
+pulseaudio,2012,952,339,409,44,43,2385,3303,60.91432031486528,Spanish <fedora-trans-es@redhat.com>
+pulsecaster,145,2,0,19,1,0,158,147,98.63945578231292,es <LL@li.org>
+purple-msn-pecan,960,0,0,178,0,0,1157,960,100.0,Spanish <es@li.org>
+purple-plugin_pack,472,182,4354,75,53,619,487,5008,9.424920127795527,es_ES <antiswen@yahoo.es>
+pybliographer,5844,0,0,577,0,0,6230,5844,100.0,Español <gnome-es-list@gnome.org>
+pychess,2681,0,410,532,0,106,2712,3091,86.73568424458105,
+pyhoca-gui,1838,0,0,398,0,0,2201,1838,100.0,Spanish <>
+pykickstart,383,0,383,40,0,40,437,766,50.0,Spanish (Spain) (http://www.transifex.com/projects/p/fedora/language/es_ES/)
+pyrenamer,820,0,0,104,0,0,920,820,100.0,Spanish
+pyroom,21,0,390,7,0,67,30,411,5.109489051094891,Spanish <es@li.org>
+pysdm,516,0,10,120,0,1,568,526,98.09885931558935,
+python-ase,3269,0,0,618,0,0,3831,3269,100.0,Spanish
+python-blivet,822,0,3,127,0,1,977,825,99.63636363636364,Spanish (http://www.transifex.com/projects/p/blivet/language/es/)
+python-colander,126,0,0,24,0,0,142,126,100.0,repoze developers <repoze-dev@lists.repoze.org>
+python-django,3326,0,0,775,0,0,3693,3326,100.0,Spanish (http://www.transifex.com/projects/p/django/language/es/)
+python-django-admin-honeypot,47,0,0,17,0,0,65,47,100.0,<ES@li.org>
+python-django-celery,173,0,3,85,0,3,208,176,98.29545454545455,shibumi
+python-django-countries,479,0,1,264,0,1,493,480,99.79166666666667,LANGUAGE <LL@li.org>
+python-django-extensions,42,0,0,14,0,0,45,42,100.0,LANGUAGE <LL@li.org>
+python-django-helpdesk,1979,0,1263,369,0,118,2154,3242,61.04256631708822,Spanish (http://www.transifex.com/projects/p/django-helpdesk/language/es/)
+python-django-horizon,7847,0,34,1727,0,4,10044,7881,99.56858266717423,Spanish (http://www.transifex.com/projects/p/openstack/language/es/)
+python-django-keyedcache,0,0,0,0,0,0,0,0,0.0,
+python-django-openstack-auth,47,0,0,10,0,0,59,47,100.0,Spanish (http://www.transifex.com/projects/p/openstack/language/es/)
+python-django-profile,1126,30,24,381,3,3,1225,1180,95.42372881355932,LANGUAGE <LL@li.org>
+python-django-registration,81,0,0,15,0,0,96,81,100.0,Español <de@li.org>
+python-django14,5059,0,5,1585,0,5,5562,5064,99.90126382306477,Spanish (Castilian) (http://www.transifex.net/projects/p/django/language/es/)
+python-django15,5138,0,0,1604,0,0,5645,5138,100.0,Spanish (http://www.transifex.com/projects/p/django/language/es/)
+python-fedora,212,0,2,28,0,1,231,214,99.06542056074767,Spanish (http://www.transifex.com/projects/p/python-fedora/language/es/)
+python-flask-admin,217,0,0,62,0,0,274,217,100.0,
+python-flatland,210,0,0,26,0,0,212,210,100.0,es <LL@li.org>
+python-kiwi,208,3,19,62,3,9,212,230,90.43478260869566,Spanish <es@li.org>
+python-lettuce,7366,15,240,2314,3,132,8048,7621,96.65398241700565,
+python-meh,83,0,135,20,0,26,79,218,38.07339449541284,Spanish (Spain) (http://www.transifex.com/projects/p/fedora/language/es_ES/)
+python-nikola,48,0,5,21,0,2,48,53,90.56603773584906,Spanish (http://www.transifex.com/projects/p/nikola/language/es/)
+python-pylons,1,0,0,1,0,0,1,1,100.0,es <LL@li.org>
+python-sphinx,263,114,73,108,29,29,293,450,58.44444444444444,es <LL@li.org>
+pytrainer,1192,0,0,485,0,0,1256,1192,100.0,Spanish <pytrainer-devel@lists.sourceforge.net>
+qbzr,1308,0,557,451,0,100,1453,1865,70.13404825737265,Spanish <es@li.org>
+qt-recordmydesktop,816,0,0,104,0,0,895,816,100.0,spanish <es@li.org>
+qt5-qtwebkit,1443,595,593,337,125,110,1820,2631,54.846066134549595,Español <gnome-es-list@gnome.org>
+qtwebkit,1472,0,0,343,0,0,1855,1472,100.0,Español <gnome-es-list@gnome.org>
+quadrapassel,1414,0,0,191,0,0,1472,1414,100.0,Español <gnome-es-list@gnome.org>
+quassel,4453,0,438,1039,0,53,5272,4891,91.04477611940298,Spanish (http://www.transifex.com/projects/p/quassel/language/es/)
+quitcount,166,0,0,40,0,0,186,166,100.0,None
+quodlibet,1866,1163,2030,531,305,372,2356,5059,36.88475983395928,Spanish <LL@li.org>
+qutim,6607,6,2474,2576,1,771,7873,9087,72.70826455375811,Spanish <es@li.org>
+rabbitvcs,1284,0,240,381,0,91,1417,1524,84.25196850393701,Spanish <es@li.org>
+radiotray,117,0,13,43,0,3,135,130,90.0,Spanish (http://www.transifex.com/projects/p/radiotray/language/es/)
+rapid-photo-downloader,1821,0,11,406,0,3,2111,1832,99.3995633187773,Spanish <es@li.org>
+rapidsvn,1196,125,98,377,38,21,1377,1419,84.2847075405215,español
+rawstudio,419,202,906,193,86,206,501,1527,27.439423706614274,Rawstudio development <rawstudio-dev@rawstudio.org>
+recode,672,115,42,62,7,10,780,829,81.0615199034982,Spanish <es@li.org>
+redhat-menus,261,0,0,86,0,0,319,261,100.0,Spanish <fedora-trans-es@redhat.com>
+rednotebook,1136,0,9,237,0,4,1312,1145,99.21397379912665,Spanish <es@li.org>
+redshift,542,0,459,100,0,49,643,1001,54.145854145854145,Spanish <es@li.org>
+regexxer,466,0,1,99,0,1,576,467,99.78586723768737,Spanish <traductores@es.gnome.org>
+rekonq,2202,0,0,593,0,0,2686,2202,100.0,Spanish <kde-l10n-es@kde.org>
+remmina,1009,0,15,291,0,4,1221,1024,98.53515625,Spanish <es@li.org>
+renameutils,265,0,0,54,0,0,307,265,100.0,Spanish <es@li.org>
+resapplet,127,0,0,31,0,0,132,127,100.0,Novell Language <language@novell.com>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Spanish
+revelation,709,0,1236,247,0,155,777,1945,36.45244215938304,Euskara <>
+revisor,4636,0,0,775,0,0,5329,4636,100.0,fedora spanish <trans-es@lists.fedoraproject.org>
+rhn-client-tools,3038,1041,115,382,35,6,3405,4194,72.43681449690034,Spanish <trans-es@lists.fedoraproject.org>
+rhnsd,20,0,54,5,0,13,22,74,27.027027027027028,LANGUAGE <LL@li.org>
+rhythmbox,11559,0,0,1457,0,0,13125,11559,100.0,Español; Castellano <gnome-es-list@gnome.org>
+ristretto,541,0,0,183,0,0,667,541,100.0,Spanish <xfce-i18n@xfce.org>
+rkward,4221,0,1662,713,0,135,4749,5883,71.7491075981642,Spanish <rkward-devel@lists.sourceforge.net>
+root,211,0,0,11,0,0,220,211,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+rosa-launcher,47,0,54,24,0,30,53,101,46.53465346534654,LANGUAGE <LL@li.org>
+roundup,4668,0,0,484,0,0,5476,4668,100.0,Spanish Translators <roundup-devel@lists.sourceforge.net>
+roxterm,4959,102,2224,570,11,360,5622,7285,68.07137954701442,Spanish (http://www.transifex.com/projects/p/roxterm/language/es/)
+rpm,3888,24,34,756,7,7,4777,3946,98.53015712113533,Spanish <trans-es@lists.fedoraproject.org>
+rsibreak,1150,123,31,144,14,5,1181,1304,88.19018404907976,Spanish <es@li.org>
+rt3,9489,0,155,2281,0,24,11093,9644,98.39278307756118,rt-devel <rt-devel@lists.bestpractical.com>
+rubygem-virt-p2v,2863,0,447,302,0,50,3261,3310,86.49546827794562,Spanish <trans-es@lists.fedoraproject.org>
+rygel,1030,0,0,213,0,0,1356,1030,100.0,Español <gnome-es-list@gnome.org>
+sabayon,2178,0,0,274,0,0,2428,2178,100.0,Español <gnome-es-list@gnome.org>
+sakura,196,1,1,64,1,1,242,198,98.98989898989899,<davidge@pleyades.net>
+samba,187,67,270,31,18,79,265,524,35.68702290076336,Novell Language <language@novell.com>
+sane-backends,4272,132,347,865,58,84,5357,4751,89.91791201852241,GALPon MiniNo <minino@galpon.org>
+sawfish,6543,0,0,1036,0,0,8165,6543,100.0,Español <gnome-es-list@gnome.org>
+scilab,30420,0,17777,4685,0,2759,35993,48197,63.11596157437185,Spanish <es@li.org>
+scim,1173,0,0,281,0,0,1375,1173,100.0,<en@li.org>
+scratch,1463,0,7,621,0,5,1645,1470,99.52380952380952,LANGUAGE <LL@li.org>
+scribus,553,3864,9777,323,1629,1244,612,14194,3.8960123996054667,<gonzalo@huerta.cl>
+scummvm,2895,0,0,701,0,0,3114,2895,100.0,
+seahorse,5743,0,0,822,0,0,6405,5743,100.0,
+seahorse-nautilus,477,0,0,119,0,0,559,477,100.0,Español <gnome-es-list@gnome.org>
+seahorse-sharing,97,0,0,22,0,0,142,97,100.0,Español <gnome-es-list@gnome.org>
+sectool,2411,0,0,356,0,0,2959,2411,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sed,520,13,15,84,2,5,667,548,94.8905109489051,Spanish <es@li.org>
+semantik,1,0,480,1,0,200,1,481,0.2079002079002079,LANGUAGE <LL@li.org>
+sensible-utils,72,0,0,13,0,0,87,72,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+setroubleshoot,656,0,0,177,0,0,791,656,100.0,Spanish (http://www.transifex.com/projects/p/fedora/language/es/)
+setroubleshoot-plugins,9830,0,0,476,0,0,10151,9830,100.0,Spanish (http://www.transifex.com/projects/p/fedora/language/es/)
+setuptool,55,0,0,14,0,0,68,55,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sflphone,3412,280,1492,626,119,288,3804,5184,65.8179012345679,Spanish <es@li.org>
+shadow-utils,3333,156,254,499,23,36,4118,3743,89.04621960993855,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+shared-mime-info,1672,0,0,655,0,0,2238,1672,100.0,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+sharutils,1838,1111,179,211,77,13,2196,3128,58.75959079283888,Spanish <es@li.org>
+shotwell,4588,0,0,957,0,0,5259,4588,100.0,Spanish (http://www.transifex.com/projects/p/shotwell/language/es/)
+shutter,3093,0,0,606,0,0,3610,3093,100.0,Spanish <es@li.org>
+simon,8013,0,0,1904,0,0,9165,8013,100.0,Spanish <kde-l10n-es@kde.org>
+simple-scan,651,0,0,140,0,0,840,651,100.0,Spanish <es@li.org>
+skanlite,158,8,9,54,3,2,183,175,90.28571428571428,Español <kde-i18n-doc@kde.org>
+skrooge,9059,72,291,2086,17,6,10192,9422,96.14731479516027,Spanish <kde-l10n-es@kde.org>
+skychart,6360,51,0,1836,6,0,7240,6411,99.20449227889566,
+sleuthkit,2517,2217,2227,242,391,541,2806,6961,36.15859790260021,Spanish <es@li.org>
+slrn,4237,772,342,781,81,88,4976,5351,79.18146140908242,Spanish <es@li.org>
+smb4k,6557,0,0,702,0,0,7574,6557,100.0,Spanish <kde-l10n-es@kde.org>
+smuxi,2476,0,0,556,0,0,2769,2476,100.0,Spanish (http://www.transifex.com/projects/p/smuxi/language/es/)
+snapper,440,0,0,120,0,0,554,440,100.0,Novell Language <language@novell.com>
+snownews,417,0,0,90,0,0,463,417,100.0,
+solfege,4706,0,2,1101,0,1,4935,4708,99.95751911639762,Spanish <es@li.org>
+sonata,1136,0,0,357,0,0,1548,1136,100.0,Spanish <es@li.org>
+sos,267,0,0,36,0,0,313,267,100.0,Español <trans-es@lists.fedoraproject.org>
+sound-juicer,3332,0,0,308,0,0,3707,3332,100.0,Español <gnome-es-list@gnome.org>
+soundconverter,388,0,0,121,0,0,454,388,100.0,Spanish <es@li.org>
+soundkonverter,2592,0,1395,491,0,66,2721,3987,65.01128668171557,Spanish (http://www.transifex.com/projects/p/soundkonverter/language/es/)
+soundtracker,1588,29,31,452,6,11,1936,1648,96.35922330097088,Spanish <es@li.org>
+spacechart,253,0,0,90,0,0,292,253,100.0,Spanish <es@li.org>
+spacefm,7472,0,1255,1436,0,128,8740,8727,85.61934227111264,Spanish (http://www.transifex.com/projects/p/spacefm/language/es/)
+spacewalk-backend,1807,74,1909,216,4,226,2131,3790,47.678100263852244,LANGUAGE <LL@li.org>
+sparkleshare,367,0,0,81,0,0,386,367,100.0,Spanish (Castilian) (http://www.transifex.net/projects/p/sparkleshare/team/es/)
+specto,836,34,65,187,9,31,932,935,89.41176470588236,<turl@tuxfamily.org>
+springlobby,1739,393,3547,734,120,531,1959,5679,30.621588307800668,Spanish <es@li.org>
+squirrelmail,8576,0,99,1693,0,10,9109,8675,98.85878962536023,Spanish <squirrelmail-i18n@lists.sourceforge.net>
+sssd,15474,332,5505,1477,58,351,17446,21311,72.6103890009854,Spanish (http://www.transifex.com/projects/p/sssd/language/es/)
+starplot,1023,0,0,225,0,0,1282,1023,100.0,Spanish <es@li.org>
+steadyflow,423,0,47,88,0,5,490,470,90.0,Spanish <es@li.org>
+steghide,1859,0,0,185,0,0,1886,1859,100.0,spanish
+stellarium,11181,0,0,3145,0,0,12246,11181,100.0,
+subdownloader,965,0,0,278,0,0,1071,965,100.0,LANGUAGE <LL@li.org>
+subscription-manager,5265,0,0,942,0,0,6176,5265,100.0,Spanish (Spain)
+subtitleeditor,2763,0,534,749,0,91,3115,3297,83.80345768880801,Es <ES@li.org>
+subversion,13039,4483,2338,1725,245,173,16787,19860,65.65458207452166,Spanish <dev@subversion.tigris.org>
+sudo,996,0,0,161,0,0,1223,996,100.0,Spanish <es@li.org>
+sugar,1733,0,0,419,0,0,2025,1733,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-abacus,34,0,0,25,0,0,34,34,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-browse,189,0,0,52,0,0,204,189,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-calculator,871,0,0,164,0,0,908,871,100.0,Spanish
+sugar-calendario,53,0,0,32,0,0,54,53,100.0,LANGUAGE <LL@li.org>
+sugar-chat,75,0,0,36,0,0,77,75,100.0,ES <fedora-trans-es@redhat.com>
+sugar-clock,59,0,0,18,0,0,647,59,100.0,Spanish
+sugar-connect,31,0,0,8,0,0,29,31,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-deducto,109,0,0,23,0,0,123,109,100.0,LANGUAGE <LL@li.org>
+sugar-finance,164,0,0,39,0,0,173,164,100.0,LANGUAGE <LL@li.org>
+sugar-flip,17,0,0,7,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,121,0,0,46,0,0,132,121,100.0,Spanish
+sugar-fractionbounce,121,0,0,36,0,0,141,121,100.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,100,0,0,32,0,0,110,100,100.0,Spanish <LL@li.org>
+sugar-imageviewer,51,0,0,13,0,0,68,51,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,74,77,100.0,Spanish
+sugar-infoslicer,236,0,0,62,0,0,270,236,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,0,20,0,0,77,65,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,298,0,0,102,0,0,353,298,100.0,LANGUAGE <LL@li.org>
+sugar-locosugar,74,0,0,12,0,0,81,74,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,112,98,100.0,LANGUAGE <LL@li.org>
+sugar-measure,156,6,0,72,3,0,195,162,96.29629629629629,Spanish
+sugar-memorize,142,0,0,74,0,0,150,142,100.0,LANGUAGE <LL@li.org>
+sugar-moon,117,0,0,33,0,0,131,117,100.0,Spanish <LL@li.org>
+sugar-nutrition,192,0,0,91,0,0,180,192,100.0,LANGUAGE <LL@li.org>
+sugar-paint,88,0,0,51,0,0,99,88,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-physics,75,5,0,36,1,0,80,80,93.75,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,124,109,100.0,Spanish
+sugar-playgo,85,0,0,30,0,0,108,85,100.0,Spanish
+sugar-portfolio,63,0,0,22,0,0,74,63,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,11,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,124,0,0,47,0,0,127,124,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-ruler,24,0,0,6,0,0,25,24,100.0,Spanish
+sugar-speak,218,0,0,72,0,0,229,218,100.0,Spanish
+sugar-starchart,311,0,0,182,0,0,360,311,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,25,24,100.0,LANGUAGE <LL@li.org>
+sugar-tamtam,2028,54,0,681,18,0,2242,2082,97.40634005763688,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-terminal,17,0,0,9,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,73,0,0,37,0,0,78,73,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-toolkit-gtk3,76,0,0,40,0,0,80,76,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-turtleart,4266,19,0,1082,5,0,4888,4285,99.5565927654609,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,575,0,0,126,0,0,602,575,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,Spanish
+sugar-visualmatch,161,0,0,79,0,0,173,161,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,132,121,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+sugar-xoeditor,23,0,0,6,0,0,19,23,100.0,LANGUAGE <LL@li.org>
+supertux,1026,0,604,262,0,117,1098,1630,62.944785276073624,Spanish (http://www.transifex.com/projects/p/supertux/language/es/)
+supertuxkart,2112,0,0,417,0,0,2405,2112,100.0,STK spanish team
+sushi,24,0,0,11,0,0,28,24,100.0,Español <gnome-es-list@gnome.org>
+sweep,2359,13,27,531,5,2,2789,2399,98.33263859941643,Spanish <LL@li.org>
+swell-foop,1499,0,0,123,0,0,1606,1499,100.0,Español <gnome-es-list@gnome.org>
+switchdesk,139,0,0,20,0,0,154,139,100.0,Spanish <fedora-trans-es@redhat.com>
+sylpheed,7103,0,0,1759,0,0,8286,7103,100.0,Ricardo Mones <ricardo@mones.org>
+synapse,711,0,0,196,0,0,792,711,100.0,Spanish <es@li.org>
+synaptic,3116,98,17,646,12,4,3459,3231,96.44073042401733,Spanish <traductores@es.gnome.org>
+syncevolution,1132,0,0,163,0,0,1231,1132,100.0,Spanish (Castilian) (http://www.transifex.net/projects/p/meego/team/es/)
+synfig,4093,0,0,1035,0,0,4543,4093,100.0,LANGUAGE <LL@li.org>
+synfigstudio,4125,0,0,1213,0,0,4699,4125,100.0,LANGUAGE <LL@li.org>
+sysstat,234,0,0,25,0,0,262,234,100.0,LANGUAGE <LL@li.org>
+system-config-audit,1241,0,0,267,0,0,1462,1241,100.0,Spanish <trans-es@lists.fedoraproject.org>
+system-config-bind,9434,0,0,1065,0,0,10614,9434,100.0,Spanish <fedora-trans-es@redhat.com>
+system-config-date,1850,0,503,824,0,56,2200,2353,78.62303442413939,LANGUAGE <LL@li.org>
+system-config-date-docs,568,160,33,53,9,2,645,761,74.63863337713535,Fedora Spanish <trans-es@lists.fedoraproject.org>
+system-config-firewall,2807,0,7,330,0,1,3095,2814,99.75124378109453,Fedora Spanish <trans-es@lists.fedoraproject.org>
+system-config-httpd,877,0,0,227,0,0,1063,877,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+system-config-kdump,866,0,11,151,0,5,1052,877,98.74572405929305,Spanish <trans-es@lists.fedoraproject.org>
+system-config-keyboard,187,0,0,81,0,0,203,187,100.0,Fedora Spanish <fedora-trans-es@redhat.com>
+system-config-kickstart,1144,0,0,253,0,0,1305,1144,100.0,Spanish <trans-es@lists.fedoraproject.org>
+system-config-language,54,62,82,10,8,11,63,198,27.27272727272727,LANGUAGE <LL@li.org>
+system-config-network,3022,10,0,718,3,0,3556,3032,99.67018469656992,Spanish <fedora-trans-es@redhat.com>
+system-config-nfs,332,0,0,72,0,0,365,332,100.0,Spanish <trans-es@lists.fedoraproject.org>
+system-config-nfs-docs,1192,0,0,71,0,0,1337,1192,100.0,Fedora Spanish <trans-es@lists.fedoraproject.org>
+system-config-printer,3062,2,80,736,1,5,3526,3144,97.39185750636132,Spanish (http://www.transifex.com/projects/p/system-config-printer/language/es/)
+system-config-rootpassword,116,0,0,19,0,0,133,116,100.0,Spanish <fedora-trans-es@redhat.com>
+system-config-samba,571,0,0,134,0,0,647,571,100.0,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+system-config-samba-docs,1195,0,0,67,0,0,1284,1195,100.0,Fedora Spanish <trans-es@lists.fedoraproject.org>
+system-config-services,511,0,557,70,0,74,591,1068,47.846441947565545,Spanish (Spain) (http://www.transifex.net/projects/p/fedora/team/es_ES/)
+system-config-services-docs,638,0,0,28,0,0,689,638,100.0,LANGUAGE <LL@li.org>
+system-config-users,1436,0,85,172,0,8,1607,1521,94.41157133464826,Spanish <trans-es@lists.fedoraproject.org>
+system-config-users-docs,1061,0,0,82,0,0,1164,1061,100.0,Fedora Spanish <trans-es@lists.fedoraproject.org>
+system-switch-java,81,0,0,11,0,0,96,81,100.0,Spanish <fedora-trans-es@redhat.com>
+system-switch-mail,158,0,0,24,0,0,195,158,100.0,Spanish <fedora-trans-es@redhat.com>
+tagtool,952,1,5,207,1,3,1067,958,99.37369519832986,Spanish <ll@li.org>
+tali,6269,0,0,996,0,0,6705,6269,100.0,Español <gnome-es-list@gnome.org>
+tar,1355,1046,916,260,148,139,1775,3317,40.85016581248116,Spanish <es@li.org>
+teg,2378,0,0,583,0,0,2448,2378,100.0,Debian l10n spanish <debian-l10n-spanish@lists.debian.org >
+tellico,5790,0,0,1220,0,0,6629,5790,100.0,Spanish <kde-l10n-es@kde.org>
+terminator,726,0,0,254,0,0,873,726,100.0,LANGUAGE <LL@li.org>
+termit,50,0,0,22,0,0,66,50,100.0,
+texinfo,3208,2128,766,481,253,127,3949,6102,52.572926909210096,Spanish <es@li.org>
+texlive,609,0,570,167,0,128,763,1179,51.653944020356235,TL Translation Team <tex-live@tug.org>
+thunar-archive-plugin,86,0,0,13,0,0,93,86,100.0,Spanish <xfce-i18n@xfce.org>
+thunar-media-tags-plugin,156,0,0,58,0,0,173,156,100.0,Spanish <xfce-i18n@xfce.org>
+thunar-vcs-plugin,506,0,0,282,0,0,627,506,100.0,Spanish <xfce-i18n@xfce.org>
+thunar-vfs,341,0,46,67,0,19,368,387,88.11369509043928,Spanish/ES <xfce-i18n@xfce.org>
+thunar-volman,483,0,0,113,0,0,542,483,100.0,Spanish <xfce-i18n@xfce.org>
+tilda,880,10,24,187,3,11,1120,914,96.2800875273523,Spanish <kde-i18n-doc@kde.org>
+tinyca2,1737,154,40,399,34,11,2098,1931,89.95339202485758,spanish
+tomboy,7045,0,0,730,0,0,7846,7045,100.0,Español <gnome-es-list@gnome.org>
+tortoisehg,1750,0,10204,470,0,1830,2009,11954,14.639451229713904,Spanish <es@li.org>
+totem,6702,0,0,774,0,0,7558,6702,100.0,Español <gnome-es-list@gnome.org>
+totem-pl-parser,28,0,0,7,0,0,33,28,100.0,Español <gnome-es-list@gnome.org>
+trac,5257,579,7316,1108,95,276,5910,13152,39.97110705596107,es <LL@li.org>
+trac-accountmanager-plugin,601,0,408,102,0,65,704,1009,59.5639246778989,Spanish (Castilian) (http://www.transifex.net/projects/p/Trac_Plugin-L10N/team/es/)
+tracker,3139,0,0,521,0,0,3695,3139,100.0,Español <gnome-es-list@gnome.org>
+transifex,3908,194,2322,710,23,340,4410,6424,60.83437110834371,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+transmageddon,228,0,0,61,0,0,312,228,100.0,Español; Castellano <gnome-es-list@gnome.org>
+transmission,1809,0,0,494,0,0,2441,1809,100.0,Español <gnome-es-list@gnome.org>
+transmission-remote-gtk,802,0,0,346,0,0,966,802,100.0,LANGUAGE <LL@li.org>
+trytond,2605,0,0,1217,0,0,2890,2605,100.0,
+trytond-account,2327,0,0,1032,0,0,2587,2327,100.0,
+trytond-account-invoice,1006,0,0,379,0,0,1116,1006,100.0,
+trytond-account-invoice-history,2,0,0,1,0,0,2,2,100.0,
+trytond-account-invoice-line-standalone,24,0,0,8,0,0,32,24,100.0,
+trytond-account-product,202,0,0,71,0,0,227,202,100.0,
+trytond-account-statement,179,0,0,86,0,0,207,179,100.0,
+trytond-account-stock-anglo-saxon,46,0,0,8,0,0,43,46,100.0,
+trytond-account-stock-continental,207,0,0,55,0,0,205,207,100.0,
+trytond-analytic-account,193,0,0,100,0,0,193,193,100.0,
+trytond-analytic-invoice,2,0,0,1,0,0,2,2,100.0,
+trytond-analytic-purchase,162,0,0,96,0,0,186,162,100.0,
+trytond-analytic-sale,2,0,0,1,0,0,2,2,100.0,
+trytond-calendar,489,0,0,272,0,0,558,489,100.0,
+trytond-calendar-classification,2,0,0,2,0,0,2,2,100.0,
+trytond-calendar-scheduling,100,0,0,50,0,0,112,100,100.0,
+trytond-calendar-todo,203,0,0,128,0,0,230,203,100.0,
+trytond-company,132,0,0,85,0,0,135,132,100.0,
+trytond-company-work-time,18,0,0,5,0,0,23,18,100.0,
+trytond-country,6997,0,0,4910,0,0,7019,6997,100.0,
+trytond-currency,469,0,0,234,0,0,543,469,100.0,
+trytond-dashboard,38,2,0,24,1,0,52,40,95.0,
+trytond-google-maps,2,0,0,1,0,0,3,2,100.0,
+trytond-ldap-authentication,36,0,0,13,0,0,42,36,100.0,
+trytond-ldap-connection,64,0,0,33,0,0,73,64,100.0,
+trytond-party,301,0,0,156,0,0,329,301,100.0,
+trytond-party-siret,10,0,0,5,0,0,16,10,100.0,
+trytond-party-vcarddav,14,0,0,5,0,0,13,14,100.0,
+trytond-product,322,0,0,173,0,0,349,322,100.0,
+trytond-product-cost-fifo,23,0,0,4,0,0,29,23,100.0,
+trytond-product-cost-history,26,0,0,13,0,0,33,26,100.0,
+trytond-product-price-list,68,0,0,33,0,0,68,68,100.0,
+trytond-project,86,0,0,50,0,0,88,86,100.0,
+trytond-project-plan,91,0,6,50,0,1,104,97,93.81443298969072,
+trytond-project-revenue,64,0,0,28,0,0,87,64,100.0,
+trytond-purchase,635,0,0,316,0,0,702,635,100.0,
+trytond-purchase-invoice-line-standalone,49,4,0,21,3,0,53,53,92.45283018867924,
+trytond-sale,568,0,0,286,0,0,631,568,100.0,
+trytond-sale-opportunity,347,0,0,184,0,0,353,347,100.0,
+trytond-sale-price-list,5,0,0,2,0,0,4,5,100.0,
+trytond-stock,1264,0,0,577,0,0,1340,1264,100.0,
+trytond-stock-forecast,174,0,0,79,0,0,206,174,100.0,
+trytond-stock-inventory-location,17,0,0,11,0,0,15,17,100.0,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,29,0,0,17,0,0,36,29,100.0,
+trytond-stock-supply,239,0,0,102,0,0,287,239,100.0,
+trytond-stock-supply-day,29,0,0,19,0,0,39,29,100.0,
+trytond-timesheet,256,0,0,123,0,0,288,256,100.0,
+tumbler,278,0,0,44,0,0,352,278,100.0,Spanish (http://www.transifex.com/projects/p/xfce/language/es/)
+turba,1718,0,0,407,0,0,1968,1718,100.0,i18n@lists.horde.org
+turpial,858,0,0,227,0,0,917,858,100.0,Spanish (http://www.transifex.com/projects/p/turpial-1/language/es/)
+tuxmath,848,201,405,166,30,52,879,1454,58.32187070151307,Español <LL@li.org>
+tuxpaint,1168,59,20,233,4,15,1254,1247,93.66479550922213,Español <gablistas@gmail.com>
+tuxpaint-stamps,2709,2,0,649,1,0,2841,2711,99.926226484692,Español <gablistas@gmail.com>
+tuxtype2,63,6,11,30,1,9,69,80,78.75,Spanish
+tvtime,1082,110,35,238,7,6,1240,1227,88.18255908720457,Spanish <es@li.org>
+txt2regex,277,0,0,63,0,0,300,277,100.0,
+txt2tags,596,0,0,122,0,0,723,596,100.0,spanish <en@li.org>
+udisks2,1485,0,0,402,0,0,1670,1485,100.0,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+ufraw,2064,96,12,410,13,2,2492,2172,95.02762430939227,Spanish/Spain <ejorreto@gmail.com>
+uget,675,0,7,271,0,1,805,682,98.97360703812316,Spanish (http://www.transifex.com/projects/p/uget/language/es/)
+usermode,573,0,0,96,0,0,631,573,100.0,Spanish <trans-es@lists.fedoraproject.org>
+util-linux,3790,9801,7963,849,1744,913,4743,21554,17.58374315672265,Spanish <es@li.org>
+valyriatear,5320,1919,1924,1077,171,176,5463,9163,58.05958747135218,en_US <kde-i18n-doc@kde.org>
+vdr,1159,0,14,461,0,6,1229,1173,98.80647911338448,Spanish <vdr@linuxtv.org>
+vdr-epgsearch,2262,98,59,363,16,9,2380,2419,93.50971475816453,Spanish <vdr@linuxtv.org>
+vdr-femon,138,0,175,83,0,41,162,313,44.08945686900959,Spanish <vdr@linuxtv.org>
+vdr-live,897,0,10,304,0,4,1107,907,98.89746416758544,see developers in README
+vdr-osdteletext,31,0,13,15,0,5,35,44,70.45454545454545,Spanish <vdr@linuxtv.org>
+vdr-screenshot,27,0,8,11,0,3,31,35,77.14285714285715,Spanish <vdr@linuxtv.org>
+vdr-skinenigmang,267,13,42,108,4,19,291,322,82.91925465838509,<vdr@linuxtv.org>
+vdr-skinsoppalusikka,38,0,102,22,0,14,47,140,27.142857142857142,Spanish <vdr@linuxtv.org>
+vdr-streamdev,71,0,23,28,0,10,89,94,75.53191489361703,Spanish <vdr@linuxtv.org>
+vdr-sudoku,105,0,0,37,0,0,101,105,100.0,<vdr@linuxtv.org>
+vdr-ttxtsubs,33,2,12,16,1,7,35,47,70.2127659574468,Spanish <vdr@linuxtv.org>
+vdradmin-am,4129,42,29,483,1,9,4278,4200,98.30952380952381,Spanish <r_jung@web.de>
+vidalia,5102,0,5361,1054,0,249,5817,10463,48.76230526617605,Spanish (Castilian) (http://www.transifex.net/projects/p/torproject/team/es/)
+viewnior,387,0,0,122,0,0,497,387,100.0,Spanish <es@li.org>
+viking,1856,0,2279,505,0,551,2148,4135,44.8851269649335,Spanish <es@li.org>
+vim,8464,0,0,1733,0,0,11202,8464,100.0,vim-doc-es http://www.assembla.com/wiki/show/vim-doc-es
+vinagre,2433,0,0,340,0,0,2746,2433,100.0,
+vino,1228,0,0,134,0,0,1367,1228,100.0,Español <gnome-es-list@gnome.org>
+virt-manager,7630,40,43,1557,16,8,9319,7713,98.9238947231946,Spanish (http://www.transifex.com/projects/p/virt-manager/language/es/)
+virt-top,361,0,0,77,0,0,462,361,100.0,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+virt-v2v,2863,0,447,302,0,50,3261,3310,86.49546827794562,Spanish <trans-es@lists.fedoraproject.org>
+virt-viewer,603,0,627,128,0,130,719,1230,49.02439024390244,Spanish (Spain) (http://www.transifex.com/projects/p/fedora/language/es_ES/)
+virtaal,1433,0,0,426,0,0,1720,1433,100.0,Spanish <es@li.org>
+volume_key,745,0,0,151,0,0,1031,745,100.0,Spanish <trans-es@lists.fedoraproject.org>
+vorbis-tools,957,1084,2068,186,147,168,1299,4109,23.290338281820393,Spanish <es@li.org>
+vte,84,0,0,14,0,0,118,84,100.0,Español <gnome-es-list@gnome.org>
+vte3,84,0,0,14,0,0,118,84,100.0,Español <gnome-es-list@gnome.org>
+wallpapoz,395,0,0,101,0,0,443,395,100.0,Spanish
+wammu,5230,0,0,912,0,0,5918,5230,100.0,Spanish <https://hosted.weblate.org/projects/gammu/wammu-doc/es/>
+warmux,1630,384,730,291,76,105,1759,2744,59.40233236151603,Spanish <traductores@es.gnome.org>
+warzone2100,13104,37,40,2783,4,5,14702,13181,99.41582580987786,Spanish <warzone2100-project@lists.sourceforge.net>
+watchdog,97,0,0,6,0,0,105,97,100.0,Spanish <debian-l10n-spanish@list.debian.org>
+wcd,1171,0,217,231,0,7,1417,1388,84.36599423631124,Spanish <es@li.org>
+wdiff,993,0,0,150,0,0,1180,993,100.0,Spanish <es@li.org>
+webacula,983,0,0,341,0,0,1144,983,100.0,
+webkitgtk,2321,58,331,537,12,42,2929,2710,85.64575645756457,Español <gnome-es-list@gnome.org>
+webkitgtk3,2321,58,331,537,12,42,2929,2710,85.64575645756457,Español <gnome-es-list@gnome.org>
+weechat,10440,8004,6217,1445,375,218,12274,24661,42.334049714123516,weechat-dev <weechat-dev@nongnu.org>
+weld-core,1129,8264,23906,123,446,970,1270,33299,3.390492206973182,Spanish <fedora-trans-es@redhat.com>
+wesnoth,255926,0,0,16346,0,0,262161,255926,100.0,Spanish <kde-i18n-doc@kde.org>
+wget,2001,1026,104,369,142,21,2438,3131,63.90929415522197,Spanish <es@li.org>
+whaawmp,799,0,0,160,0,0,978,799,100.0,Spanish <es@li.org>
+whois,493,0,0,30,0,0,587,493,100.0,Debian l10n Spanish <debian-l10n-spanish@lists.debian.org>
+wicd,1138,0,0,254,0,0,1362,1138,100.0,es <LL@li.org>
+wicd-kde,358,0,0,122,0,0,443,358,100.0,Spanish <kde-l10n-es@kde.org>
+widelands,30919,0,3375,3011,0,318,32764,34294,90.15862833148655,Spanish <es@li.org>
+wine,13430,423,458,3114,92,55,16002,14311,93.84389630354273,Spanish
+wine-docs,1212,0,2,126,0,2,1443,1214,99.835255354201,ES
+wine-mono,943,736,5594,103,75,444,1214,7273,12.965763783858106,es <mono-list@lists.ximian.com>
+wlassistant,702,163,226,95,27,31,754,1091,64.34463794683776,Spanish <es@li.org>
+wol,293,0,5,30,0,1,322,298,98.3221476510067,
+workrave,992,160,126,176,51,25,1044,1278,77.62128325508607,
+wxGTK,6232,113,46,1434,25,16,7468,6391,97.51212642778908,wxWidgets translators <wx-translators@wxwidgets.org>
+wxGTK3,5388,1315,979,1264,370,211,6407,7682,70.13798489976568,wxWidgets translators <wx-translators@wxwidgets.org>
+wxMaxima,2887,0,0,772,0,0,3151,2887,100.0,<es@li.org>
+wxPython,8427,130,118,2106,32,30,9975,8675,97.14121037463977,wxWidgets translators <wx-translators@wxwidgets.org>
+xaos,382,211,314,168,82,104,464,907,42.11686879823594,Spanish <es@li.org>
+xarchiver,1131,0,0,277,0,0,1319,1131,100.0,Spanish <xfce-i18n@xfce.org>
+xboard,1056,92,1422,312,29,331,1211,2570,41.08949416342412,LANGUAGE <LL@li.org>
+xca,197,0,3072,94,0,602,211,3269,6.026307739369837,LANGUAGE <LL@li.org>
+xcdroast,4847,7,3190,694,2,152,5038,8044,60.25609149676777,Español <es@li.org>
+xchat,4195,487,345,1070,94,68,4921,5027,83.44937338372786,Spanish <es@li.org>
+xchat-gnome,6257,0,0,1241,0,0,7204,6257,100.0,Español <gnome-es-list@gnome.org>
+xchm,219,4,11,90,1,5,227,234,93.58974358974359,Spanish/Spain <es@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Spanish <es@li.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,96,81,100.0,Spanish <traductores@es.gnome.org>
+xdialog,20,0,1,14,0,1,18,21,95.23809523809523,Spanish
+xfburn,1285,5,10,279,3,1,1494,1300,98.84615384615385,Spanish <xfce-i18n@xfce.org>
+xfce4-appfinder,321,1,184,69,1,42,355,506,63.43873517786561,Spanish/ES <xfce-i18n@xfce.org>
+xfce4-battery-plugin,149,0,0,43,0,0,156,149,100.0,Spanish
+xfce4-clipman-plugin,399,0,0,67,0,0,452,399,100.0,Spanish (http://www.transifex.com/projects/p/xfce/language/es/)
+xfce4-cpufreq-plugin,23,0,0,7,0,0,34,23,100.0,Spanish
+xfce4-cpugraph-plugin,74,0,0,36,0,0,88,74,100.0,Spanish <xfce-i18n@xfce.org>
+xfce4-datetime-plugin,52,0,0,19,0,0,65,52,100.0,Debian l10n Spanish Team <debian-l10n-spanish@lists.debian.org>
+xfce4-dict,518,0,0,111,0,0,579,518,100.0,Spanish/es <xfce-i18n@xfce.org>
+xfce4-diskperf-plugin,164,19,0,36,2,0,189,183,89.61748633879782,Spanish <xfce-i18n@xfce.org>
+xfce4-embed-plugin,219,0,0,33,0,0,253,219,100.0,Spanish <xfce-i18n@xfce.org>
+xfce4-eyes-plugin,10,0,20,4,0,4,9,30,33.33333333333333,Spanish <es@li.org>
+xfce4-fsguard-plugin,71,0,0,19,0,0,88,71,100.0,Spanish
+xfce4-genmon-plugin,85,0,0,19,0,0,98,85,100.0,Spanish
+xfce4-mailwatch-plugin,660,0,0,108,0,0,785,660,100.0,Spanish (http://www.transifex.com/projects/p/xfce/language/es/)
+xfce4-mixer,162,2,17,33,1,2,180,181,89.50276243093923,Spanish/ES <xfce-i18n@xfce.org>
+xfce4-mount-plugin,299,6,14,44,1,5,324,319,93.73040752351098,Spanish
+xfce4-mpc-plugin,76,0,0,24,0,0,95,76,100.0,Spanish
+xfce4-netload-plugin,79,0,0,30,0,0,92,79,100.0,Debian l10n Spanish Team <debian-l10n-spanish@lists.debian.org>
+xfce4-notes-plugin,114,0,0,49,0,0,123,114,100.0,Spanish <xfce-i18n@xfce.org>
+xfce4-notifyd,98,0,0,29,0,0,124,98,100.0,Spanish
+xfce4-panel,1708,313,1184,394,94,243,1900,3205,53.291731669266774,Spanish/ES <xfce-i18n@xfce.org>
+xfce4-places-plugin,160,0,0,45,0,0,174,160,100.0,Spanish (http://www.transifex.com/projects/p/xfce/language/es/)
+xfce4-power-manager,763,0,0,213,0,0,959,763,100.0,Spanish/ES <xfce-i18n@xfce.org>
+xfce4-radio-plugin,65,0,0,29,0,0,77,65,100.0,Spanish
+xfce4-screenshooter,443,0,0,73,0,0,514,443,100.0,Spanish <xfce-i18n@xfce.org>
+xfce4-sensors-plugin,293,56,5,68,2,2,347,354,82.7683615819209,Spanish
+xfce4-session,1337,119,742,271,41,126,1508,2198,60.828025477707,Spanish/ES <xfce-i18n@xfce.org>
+xfce4-settings,1510,0,0,330,0,0,1771,1510,100.0,Spanish/ES <xfce-i18n@xfce.org>
+xfce4-smartbookmark-plugin,14,0,0,8,0,0,17,14,100.0,Spanish
+xfce4-systemload-plugin,75,0,0,24,0,0,122,75,100.0,Spanish (http://www.transifex.com/projects/p/xfce-panel-plugins/language/es/)
+xfce4-taskmanager,217,0,0,74,0,0,262,217,100.0,Spanish (http://www.transifex.com/projects/p/xfce-apps/language/es/)
+xfce4-terminal,2034,0,0,392,0,0,2383,2034,100.0,
+xfce4-time-out-plugin,88,0,0,31,0,0,91,88,100.0,Spanish
+xfce4-verve-plugin,47,0,0,10,0,0,57,47,100.0,Spanish <xfce-i18n@xfce.org>
+xfce4-wavelan-plugin,51,0,0,12,0,0,58,51,100.0,Spanish
+xfce4-weather-plugin,3668,0,0,330,0,0,4044,3668,100.0,Spanish (http://www.transifex.com/projects/p/xfce-panel-plugins/language/es/)
+xfce4-whiskermenu-plugin,229,0,0,85,0,0,314,229,100.0,Spanish (http://www.transifex.com/projects/p/xfce4-whiskermenu-plugin/language/es/)
+xfce4-xfswitch-plugin,20,0,0,3,0,0,17,20,100.0,Xfce Translation Team <xfce-i18n@xfce.org>
+xfce4-xkb-plugin,72,2,0,25,1,0,87,74,97.2972972972973,Spanish
+xfconf,451,0,0,67,0,0,511,451,100.0,Spanish/ES <xfce-i18n@xfce.org>
+xfdesktop,941,0,0,213,0,0,1112,941,100.0,Spanish (http://www.transifex.com/projects/p/xfce/language/es/)
+xfe,11602,0,0,2146,0,0,12512,11602,100.0,Spanish <kde-i18n-doc@kde.org>
+xfmpc,146,2,19,62,1,7,169,167,87.42514970059881,Spanish
+xfwm4,947,445,336,273,124,73,1237,1728,54.80324074074075,Spanish/ES <xfce-i18n@xfce.org>
+xiphos,2433,637,1487,712,149,189,2870,4557,53.39038841342989,Español <gnomesword-users@lists.sourceforge.net>
+xkeyboard-config,3164,0,0,938,0,0,3632,3164,100.0,Spanish <es@li.org>
+xlog,1358,64,40,323,3,7,1486,1462,92.88645690834473,Spanish <kde-l10n-es@kde.org>
+xmms,3177,66,200,1003,18,24,3723,3443,92.27417949462678,Español <es@li.org>
+xmoto,3300,0,539,701,0,121,3566,3839,85.95988538681948,<XMoto>
+xnoise,916,0,0,262,0,0,1080,916,100.0,SPANISH <ES@li.org>
+xournal,1015,0,1,281,0,1,1403,1016,99.9015748031496,Spanish <kde-i18n-doc@kde.org>
+xpad,197,0,173,62,0,16,283,370,53.24324324324324,Spanish <es@li.org>
+xsane,2037,979,208,536,150,42,2538,3224,63.18238213399504,Castellano <es@li.org>
+xscreensaver,5945,2032,3213,969,391,474,6616,11190,53.1277926720286,Spanish <traductores@es.gnome.org>
+yakuake,1482,0,38,216,0,4,1771,1520,97.5,Spanish <kde-l10n-es@kde.org>
+yelp,507,0,0,122,0,0,586,507,100.0,Español; Castellano <gnome-es-list@gnome.org>
+yelp-xsl,81,0,0,59,0,0,86,81,100.0,Español; Castellano <gnome-es-list@gnome.org>
+yum,3063,0,6,657,0,3,3846,3069,99.80449657869013,Spanish (Castilian) <trans-es@lists.fedoraproject.org>
+yum-rhn-plugin,45,38,63,7,3,7,54,146,30.82191780821918,Spanish <trans-es@lists.fedoraproject.org>
+yumex,1627,0,271,490,0,48,2005,1898,85.7218124341412,Spanish (Spain) (http://www.transifex.com/projects/p/yumex/language/es_ES/)
+zabbix,6383,54,4907,1901,8,957,8153,11344,56.267630465444284,Zabbix <info@zabbix.com>
+zanshin,322,0,0,84,0,0,327,322,100.0,Spanish <kde-l10n-es@kde.org>
+zarafa,5329,716,262,1552,128,46,5879,6307,84.49342000951324,es_ES <es@li.org>
+zathura,348,0,192,93,0,40,400,540,64.44444444444444,Spanish (Castilian) (http://www.transifex.net/projects/p/zathura/language/es/)
+zaz,229,0,0,107,0,0,231,229,100.0,SAM440ep-Flex / LG R510 <correoamidde-aminet000@yahoo.es>
+zenity,3674,0,0,517,0,0,4351,3674,100.0,Español <gnome-es-list@gnome.org>
+zeroinstall-injector,3919,924,1160,493,46,186,4262,6003,65.2840246543395,
+zif,894,0,26,236,0,3,1129,920,97.17391304347827,Spanish (http://www.transifex.com/projects/p/freedesktop/language/es/)
+zvbi,558,17,89,103,4,14,656,664,84.03614457831326,Spanish <es@li.org>

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iso-codes,598,90,11486,313,41,8181,481,12174,4.912107770658781,Kazakh
+jokosher,3,0,1928,1,0,379,2,1931,0.15535991714137753,Kazakh <kk@li.org>

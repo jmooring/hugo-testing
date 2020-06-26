@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bluedevil,556,0,0,187,0,0,493,556,100.0,Hebrew <kde-i18n-doc@kde.org>
+boost,1,0,0,1,0,0,1,1,100.0,
+clementine,0,0,5091,0,0,1352,0,5091,0.0,Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/)
+glpi,4295,0,6341,1417,0,1388,3945,10636,40.381722452049644,Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/)
+gnome-clocks,223,0,0,77,0,0,238,223,100.0,עברית <>
+gnome-color-manager,1793,0,0,343,0,0,1604,1793,100.0,עברית <>
+gnome-contacts,411,0,0,156,0,0,475,411,100.0,עברית <>
+kf5-kpeople,19,0,2,8,0,3,20,21,90.47619047619048,Hebrew <kde-i18n-doc@kde.org>
+konversation,5677,710,3863,1309,102,219,5442,10250,55.38536585365854,Hebrew <kde-i18n-doc@kde.org>
+kscreen,11,0,21,5,0,4,9,32,34.375,Hebrew <kde-i18n-doc@kde.org>
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+plasma-desktop,238,0,0,100,0,0,233,238,100.0,Hebrew <kde-i18n-doc@kde.org>
+plasma-systemsettings,186,0,0,43,0,0,178,186,100.0,Hebrew <kde-i18n-doc@kde.org>
+plasma-workspace,229,0,531,67,0,462,204,760,30.13157894736842,Hebrew <kde-i18n-doc@kde.org>
+poedit,1417,0,1099,387,0,145,1301,2516,56.31955484896661,Hebrew
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+python-flask-admin,326,0,0,95,0,0,299,326,100.0,Hebrew
+rygel,971,66,103,206,10,13,975,1140,85.17543859649123,עברית <>
+sddm-kcm,55,0,5,28,0,3,62,60,91.66666666666666,Hebrew <kde-i18n-doc@kde.org>
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>
+wxPython,360,4,2093,133,4,600,360,2457,14.652014652014653,Hebrew <he@li.org>

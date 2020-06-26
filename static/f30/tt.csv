@@ -1,0 +1,139 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,6,0,486,6,0,85,7,492,1.2195121951219512,http://littlesvr.ca/ostd/
+atril,16,0,1787,14,0,403,17,1803,0.8874098724348309,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+blueberry,31,0,117,9,0,28,24,148,20.945945945945947,Tatar <tt@li.org>
+caja,31,0,9374,27,0,1509,36,9405,0.329611908559277,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+calibre,188,0,158814,181,0,18067,188,159002,0.1182375064464598,Tatar (http://www.transifex.com/calibre/calibre/language/tt/)
+cinnamon-translations,531,0,11159,176,0,2614,481,11690,4.542343883661249,Tatar <tt@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+engrampa,23,0,1992,16,0,364,25,2015,1.141439205955335,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+eom,22,0,1758,17,0,325,24,1780,1.2359550561797752,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+gala,0,0,140,0,0,34,0,140,0.0,none
+gdk-pixbuf2,388,118,842,67,25,110,269,1348,28.783382789317507,Tatarish <tatarish.l10n@gmail.com>
+gimp,901,2895,10044,447,1184,1685,878,13840,6.510115606936416,Tatarish <tatarish.l10n@gmail.com>
+glib2,345,513,3919,81,101,565,297,4777,7.222105924220222,Tatarish <tatarish.l10n@gmail.com>
+gpicview,234,0,2,51,0,1,214,236,99.15254237288136,Tatar <>
+granite,0,0,250,0,0,83,0,250,0.0,
+gtk2,1141,1156,11407,411,424,1949,941,13704,8.326036193812026,Tatarish <tatarish.l10n@gmail.com>
+gtk3,695,1195,9963,307,430,1750,616,11853,5.863494473972834,Tatarish <tatarish.l10n@gmail.com>
+gtk4,695,1195,9963,307,430,1750,616,11853,5.863494473972834,Tatarish <tatarish.l10n@gmail.com>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,1023,4677,10009,646,3405,6132,902,15709,6.512190464065186,Tatarish <tatarish.l10n@gmail.com>
+isomaster,17,1,656,14,1,92,18,674,2.522255192878338,http://littlesvr.ca/ostd/
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Tatar <>
+kf5-kcmutils,514,52,0,68,4,0,365,566,90.81272084805654,Tatar <>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Tatar <>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Tatar <>
+kf5-kconfigwidgets,146,125,54,71,36,12,158,325,44.92307692307692,Tatar <>
+kf5-kcoreaddons,0,273,55,0,85,31,0,328,0.0,Tatar <>
+kf5-kdeclarative,74,34,8,11,3,2,65,116,63.793103448275865,Tatar <>
+kf5-kdelibs4support,894,609,3310,251,333,1780,867,4813,18.57469353833368,Tatar <>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Tatar <>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Tatar <>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Tatar <>
+kf5-khtml,1502,131,88,286,15,9,1216,1721,87.27484020918071,Tatar <>
+kf5-ki18n,42,80,2,42,66,2,48,124,33.87096774193548,Tatar <>
+kf5-kinit,103,31,0,10,4,0,63,134,76.86567164179104,Tatar <>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Tatar <>
+kf5-kjobwidgets,0,123,0,0,36,0,0,123,0.0,Tatar <>
+kf5-kjsembed,248,0,0,44,0,0,237,248,100.0,Tatar <>
+kf5-knewstuff,580,140,241,123,56,29,545,961,60.3537981269511,Tatar <>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Tatar <>
+kf5-knotifyconfig,86,43,0,16,1,0,64,129,66.66666666666666,Tatar <>
+kf5-kparts,104,0,0,26,0,0,89,104,100.0,Tatar <>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Tatar <>
+kf5-kross,82,18,0,29,6,0,72,100,82.0,Tatar <>
+kf5-kservice,80,65,22,12,12,3,60,167,47.90419161676647,Tatar <>
+kf5-ktextwidgets,453,3,6,119,1,2,413,462,98.05194805194806,Tatar <>
+kf5-kwidgetsaddons,0,1265,55,0,443,14,0,1320,0.0,Tatar <>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Tatar <>
+kf5-kxmlgui,1035,463,48,127,90,4,953,1546,66.94695989650712,Tatar <>
+kf5-sonnet,0,645,22,0,68,5,0,667,0.0,Tatar <>
+libfm,442,389,744,121,130,143,369,1575,28.063492063492063,
+libgnome,156,0,1338,56,0,172,144,1494,10.441767068273093,Tatarish <tatarish.l10n@gmail.com>
+libgnomecanvas,357,0,0,94,0,0,300,357,100.0,Tatarish <tatarish.l10n@gmail.com>
+libgnomeui,536,0,883,215,0,130,470,1419,37.77307963354475,Tatarish <tatarish.l10n@gmail.com>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Tatar (http://www.transifex.com/mate/MATE/language/tt/)
+libreoffice,10757,7564,81066,6635,4248,21099,11000,99387,10.823347117832311,LANGUAGE <LL@li.org>
+lxappearance,204,10,20,71,4,5,187,234,87.17948717948718,Tatar <>
+lxappearance-obconf,191,5,0,26,1,0,164,196,97.44897959183673,Tatar <>
+lxdm,30,0,17,18,0,7,32,47,63.829787234042556,Tatar <>
+lxinput,72,0,11,24,0,2,74,83,86.74698795180723,Tatar <>
+lxlauncher,51,0,7,11,0,6,39,58,87.93103448275862,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,99,97,100.0,Tatar <>
+lxmusic,93,0,110,43,0,46,94,203,45.812807881773395,Tatar <>
+lxrandr,94,50,23,25,8,8,90,167,56.287425149700596,Tatar <>
+lxsession,29,9,717,12,4,150,28,755,3.8410596026490067,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,42,43,100.0,LANGUAGE <LL@li.org>
+lxtask,122,0,8,48,0,3,124,130,93.84615384615384,Tatar <>
+lxterminal,94,36,72,47,17,34,125,202,46.53465346534654,Tatar <>
+mate-calc,9,0,1390,9,0,425,12,1399,0.6433166547533953,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-control-center,13,0,2672,10,0,624,14,2685,0.48417132216014896,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-desktop,51,0,2305,22,0,283,51,2356,2.164685908319185,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-panel,16,0,4484,13,0,605,15,4500,0.35555555555555557,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-polkit,1,0,121,1,0,19,1,122,0.819672131147541,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-sensors-applet,3,0,318,3,0,107,3,321,0.9345794392523363,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-session-manager,11,0,694,7,0,120,9,705,1.5602836879432624,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-system-monitor,19,0,1449,15,0,308,20,1468,1.2942779291553135,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-terminal,17,0,4608,15,0,515,18,4625,0.3675675675675676,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Tatar (http://www.transifex.com/mate/MATE/language/tt/)
+mate-utils,24,0,3759,20,0,655,26,3783,0.63441712926249,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mingw-atk,359,8,8,114,7,5,292,375,95.73333333333333,Tatarish <tatarish.l10n@gmail.com>
+mingw-gdk-pixbuf,388,118,842,67,25,110,269,1348,28.783382789317507,Tatarish <tatarish.l10n@gmail.com>
+mingw-glib2,345,513,3919,81,101,565,297,4777,7.222105924220222,Tatarish <tatarish.l10n@gmail.com>
+mingw-gtk2,1141,1156,11407,411,424,1949,941,13704,8.326036193812026,Tatarish <tatarish.l10n@gmail.com>
+mingw-gtk3,695,1195,9963,307,430,1750,616,11853,5.863494473972834,Tatarish <tatarish.l10n@gmail.com>
+nemo-extensions,1,0,7,1,0,1,1,8,12.5,Tatar <tt@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser,0,89,138,0,18,26,0,227,0.0,Tatar <https://hosted.weblate.org/projects/phpmyadmin/master/tt/>
+php-phpmyadmin-sql-parser5,0,106,162,0,20,30,0,268,0.0,Tatar <https://hosted.weblate.org/projects/phpmyadmin/master/tt/>
+pidgin,71,0,15685,56,0,3377,76,15756,0.45062198527545066,Tatar (http://www.transifex.com/pidgin/pidgin/language/tt/)
+pluma,78,0,5214,44,0,1094,77,5292,1.473922902494331,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+python-django,1500,0,1988,469,0,333,1362,3488,43.0045871559633,Tatar (http://www.transifex.com/django/django/language/tt/)
+python2-django1.11,1530,0,1894,473,0,320,1384,3424,44.68457943925234,Tatar (http://www.transifex.com/django/django/language/tt/)
+stardict,1118,643,1274,161,127,305,749,3035,36.836902800658976,tt <tatarish.l10n@gmail.com>
+supertux,2892,0,283,880,0,101,2555,3175,91.08661417322834,Tatar (http://www.transifex.com/arctic-games/supertux/language/tt/)
+supertuxkart,2310,0,3031,617,0,410,2035,5341,43.25032765399738,Tatar (http://www.transifex.com/supertuxkart/supertuxkart/language/tt/)
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+vocal,0,0,377,0,0,79,0,377,0.0,Tatar <tt@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+xreader,101,0,1568,21,0,360,86,1669,6.051527860994608,Tatar <tt@li.org>

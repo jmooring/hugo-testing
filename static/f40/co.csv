@@ -1,0 +1,36 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+audacity,18943,0,0,4398,0,0,23040,18943,100.0,Corsican (http://www.transifex.com/klyok/audacity/language/co/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+doublecmd,1722,0,0,335,0,0,2112,1722,100.0,Patriccollu di Santa Maria è Sichè
+elementary-code,0,0,1572,0,0,294,0,1572,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2538,0,0,551,0,2538,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,207,0,0,41,0,207,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+filezilla,10682,0,0,1850,0,0,13697,10682,100.0,Patriccollu di Santa Maria è Sichè
+gala,0,0,281,0,0,60,0,281,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,369,0,0,86,0,369,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+lazarus,1734,0,0,336,0,0,2137,1734,100.0,Patriccollu di Santa Maria è Sichè
+libfilezilla,934,0,0,161,0,0,1252,934,100.0,Patriccollu di Santa Maria è Sichè
+lightdm,0,0,84,0,0,4,0,84,0.0,Corsican <co@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+poedit,3279,1,0,711,1,0,3971,3280,99.96951219512195,Corsican
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+python-wxpython4,7833,4,0,1963,2,0,9985,7837,99.94896006124793,Patriccollu di Santa Maria è Sichè
+regextester,0,0,104,0,0,31,0,104,0.0,none
+vlc,13447,35,21297,3147,11,3127,16050,34779,38.66413640415193,Corsican (https://app.transifex.com/yaron/teams/16553/co/)
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,
+wxGTK,7833,4,0,1963,2,0,9985,7837,99.94896006124793,Patriccollu di Santa Maria è Sichè

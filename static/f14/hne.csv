@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+digikam,4654,3537,15462,1465,909,923,5408,23653,19.676151016784342,Hindi <kde-i18n-doc@lists.kde.org>
+k3b,5589,1012,13822,1661,187,672,6840,20423,27.36620476913284,Hindi <kde-i18n-doc@lists.kde.org>
+kcoloredit,174,37,67,71,12,12,198,278,62.589928057553955,Hindi <kde-i18n-doc@lists.kde.org>
+kgrab,152,12,206,48,2,3,182,370,41.08108108108108,Hindi <kde-i18n-doc@lists.kde.org>
+kiconedit,585,0,141,149,0,6,690,726,80.57851239669421,Hindi <kde-i18n-doc@lists.kde.org>
+kile,3214,638,7262,934,182,780,3706,11114,28.918481194889328,Hindi <kde-i18n-doc@lists.kde.org>
+kipi-plugins,2457,1507,2936,952,289,217,2710,6900,35.608695652173914,Hindi <kde-i18n-doc@lists.kde.org>
+konq-plugins,1300,83,215,447,24,45,1653,1598,81.35168961201502,Hindi <kde-i18n-doc@lists.kde.org>
+kopete-cryptography,55,0,353,19,0,22,74,408,13.480392156862745,Hindi <kde-i18n-doc@lists.kde.org>
+kphotoalbum,1798,173,4362,592,36,135,2166,6333,28.39096794568135,Hindi <kde-i18n-doc@lists.kde.org>
+rsibreak,382,52,870,95,12,56,448,1304,29.29447852760736,Hindi <kde-i18n-doc@lists.kde.org>

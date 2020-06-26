@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,626,0,8820,328,0,845,744,9446,6.6271437645564255,LANGUAGE <LL@li.org>
+aspell,600,398,728,115,62,116,565,1726,34.762456546929315,Tajik
+audacity,3724,306,6613,1079,61,1170,3826,10643,34.99013436061261,Tajik Language
+authconfig,14,22,1304,14,11,214,14,1340,1.0447761194029852,Tajik KDE & Software Localization http://www.kde.tj <victor.ibragimov@gmail.com>
+chkconfig,182,0,305,54,0,39,214,487,37.37166324435318,LANGUAGE <LL@li.org>
+firstboot,75,0,579,20,0,34,78,654,11.46788990825688,Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com>
+ibus,32,0,580,25,0,93,33,612,5.228758169934641,Tajik (http://www.transifex.net/projects/p/fedora/team/tg/)
+kaudiocreator,418,303,415,125,69,79,435,1136,36.79577464788733,<tajik>
+kcoloredit,8,92,178,5,29,61,65,278,2.877697841726619,Tajik
+kdiff3,1054,308,2155,222,101,314,1045,3517,29.968723343758885,Tajik
+kiconedit,678,15,33,133,7,15,734,726,93.38842975206612,Tajik
+koffice-kivio,5218,863,2336,1625,403,333,5222,8417,61.993584412498514,Tajik
+konq-plugins,1645,14,33,531,1,14,1821,1692,97.22222222222221,Tajik <kde-i18n-doc@kde.org>
+kpilot,4818,1082,1256,520,199,142,4339,7156,67.32811626607042,Tajik
+ksig,68,0,17,15,0,11,65,85,80.0,Tajik
+sssd,23,0,1576,10,0,261,20,1599,1.4383989993746091,Tajik (http://www.transifex.net/projects/p/fedora/team/tg/)
+system-config-language,47,9,267,9,2,45,45,323,14.551083591331269,Victor Ibragimov <victor.ibragimov@gmail.com>
+usermode,123,0,443,51,0,44,141,566,21.73144876325088,LANGUAGE <LL@li.org>
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net
+xmms,2590,453,400,901,68,76,2659,3443,75.22509439442346,Tajik
+yelp,92,80,434,38,45,65,95,606,15.181518151815181,Tajik

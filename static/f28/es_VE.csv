@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,36,0,1756,14,0,399,50,1792,2.0089285714285716,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+corebird,295,0,291,122,0,89,345,586,50.34129692832765,Spanish (Venezuela) (http://www.transifex.com/corebird/corebird/language/es_VE/)
+engrampa,7,0,1939,7,0,348,19,1946,0.3597122302158274,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+eom,14,0,1709,14,0,309,27,1723,0.812536273940801,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+glpi,10455,0,2540,2792,0,528,11640,12995,80.45402077722201,Spanish (Venezuela) (https://www.transifex.com/glpi/teams/1637/es_VE/)
+libgweather,662,0,0,234,0,0,733,662,100.0,Spanish <gnome-es-list@gnome.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+libmateweather,362,0,137,154,0,29,426,499,72.54509018036072,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-applets,1674,0,10514,383,0,868,2195,12188,13.734821135543157,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-control-center,19,0,2639,13,0,615,32,2658,0.7148231753197893,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-media,5,0,221,4,0,92,6,226,2.2123893805309733,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/)
+mate-panel,38,0,6494,27,0,733,84,6532,0.5817513778322106,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-power-manager,10,0,2714,10,0,430,23,2724,0.36710719530102787,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-sensors-applet,10,0,296,10,0,96,23,306,3.2679738562091507,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-session-manager,3,0,678,3,0,111,3,681,0.4405286343612335,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-settings-daemon,43,0,1721,6,0,247,45,1764,2.437641723356009,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-system-monitor,14,0,1319,10,0,303,30,1333,1.0502625656414104,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/)
+mate-utils,6,0,2522,4,0,178,32,2528,0.23734177215189875,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+mozo,17,0,25,8,0,8,20,42,40.476190476190474,Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/)
+openerp,21309,0,33371,4721,0,3651,23431,54680,38.970373079736646,Spanish (Venezuela) <es_VE@li.org>
+python-django,3064,0,421,711,0,89,3400,3485,87.91965566714491,Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/)
+python2-django1.11,3157,0,272,719,0,73,3498,3429,92.06765820939049,Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/)
+remmina,1628,0,696,471,0,109,2077,2324,70.05163511187608,Spanish (Venezuela)
+wicd,851,0,287,180,0,74,984,1138,74.78031634446397,es_VE <LL@li.org>
+xreader,28,0,1613,7,0,365,28,1641,1.7062766605728215,Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/)

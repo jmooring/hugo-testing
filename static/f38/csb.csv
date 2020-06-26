@@ -1,0 +1,105 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blinken,116,14,4,40,5,2,112,134,86.56716417910447,Kashubian
+bovo,60,4,17,21,1,3,56,81,74.07407407407408,Kaszëbsczi <i18n-csb@linuxcsb.org>
+cinnamon-desktop,223,5,3,26,3,2,219,231,96.53679653679653,Kashubian <csb@li.org>
+cinnamon-translations,952,0,10082,365,0,2149,945,11034,8.627877469639298,Kashubian <csb@li.org>
+dolphin,596,907,3643,195,281,275,574,5146,11.58181111542946,Kaszëbsczi <i18n-csb@linuxcsb.org>
+e16,115,3,2497,50,1,465,124,2615,4.397705544933078,Kashubian <csb@li.org>
+exaile,1026,368,3208,360,139,622,1020,4602,22.294654498044327,Kashubian <csb@li.org>
+file-roller,41,0,1514,21,0,319,45,1555,2.636655948553055,Kashubian <csb@li.org>
+gdk-pixbuf2,481,43,821,66,4,131,474,1345,35.762081784386616,Kashubian <csb@li.org>
+gdm,112,46,492,25,10,52,117,650,17.23076923076923,Kashubian <csb@li.org>
+gimp,108,559,13173,51,262,3003,115,13840,0.7803468208092486,Kashubian <csb@li.org>
+gnome-applets,848,17,2170,244,6,403,825,3035,27.940691927512358,Kashubian <csb@li.org>
+gnome-desktop3,235,0,0,31,0,0,231,235,100.0,Kashubian <csb@li.org>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Kashubian <csb@li.org>
+gnome-menus,95,0,0,37,0,0,87,95,100.0,Kashubian <csb@li.org>
+gnome-panel,222,15,3283,99,6,403,210,3520,6.306818181818182,Kashubian <csb@li.org>
+gnome-session,447,27,1,92,4,1,413,475,94.10526315789474,Kashubian <csb@li.org>
+iso-codes,107,11,871,93,3,329,105,989,10.819009100101113,Kashubian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/csb/>
+k3b,416,380,13908,128,117,1426,416,14704,2.8291621327529923,Kashubian <i18n-csb@linuxcsb.org>
+kalgebra,52,43,71,33,20,28,49,166,31.32530120481928,Kashubian
+kate,609,689,1196,156,149,193,540,2494,24.418604651162788,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kbounce,86,35,35,27,5,11,78,156,55.12820512820513,Kashubian
+kde-cli-tools,1612,336,187,158,30,29,1407,2135,75.50351288056206,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kdeplasma-addons,2,88,206,1,32,77,2,296,0.6756756756756757,Kashubian
+kdialog,185,85,121,41,14,23,192,391,47.31457800511509,Kashubian <i18n-csb@linuxcsb.org>
+keditbookmarks,341,119,6,96,35,1,342,466,73.17596566523605,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-audiocd-kio,173,2,3,12,1,1,149,178,97.19101123595506,Kashubian
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kbookmarks,0,79,151,0,28,21,0,230,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf5-kcmutils,108,123,35,16,18,4,88,266,40.6015037593985,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kconfig,0,50,239,0,5,99,0,289,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf5-kconfigwidgets,123,152,67,66,45,14,135,342,35.96491228070175,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kcoreaddons,0,307,75,0,90,42,0,382,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdeclarative,41,22,98,7,6,12,37,161,25.465838509316768,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdelibs4support,1173,1020,3160,629,702,1213,1176,5353,21.912946011582292,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Kashubian
+kf5-kglobalaccel,0,45,26,0,6,3,0,71,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-khtml,1098,388,181,241,27,21,936,1667,65.86682663467307,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-ki18n,42,80,2,42,66,2,43,124,33.87096774193548,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kiconthemes,0,0,41,0,0,19,0,41,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf5-kinit,78,31,7,6,4,1,55,116,67.24137931034483,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kio,4322,2170,5545,477,286,610,3630,12037,35.90595663371272,Kashubian <i18n-csb@linuxcsb.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kjsembed,222,14,12,41,2,1,218,248,89.51612903225806,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kldap,33,0,0,8,0,0,34,33,100.0,Kashubian
+kf5-knewstuff,151,259,1221,41,100,90,147,1631,9.258123850398528,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-knotifyconfig,43,86,0,15,2,0,41,129,33.33333333333333,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kparts,71,51,16,16,12,2,59,138,51.449275362318836,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kross,81,19,0,28,7,0,76,100,81.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kservice,44,79,50,7,15,6,43,173,25.43352601156069,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-ktextwidgets,433,13,27,108,9,13,407,473,91.5433403805497,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kwidgetsaddons,0,1153,140,0,428,35,0,1293,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kxmlgui,445,925,204,99,114,17,378,1574,28.27191867852605,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,16,15,100.0,Kashubian
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kfind,468,31,18,105,9,3,457,517,90.52224371373308,Kaszëbsczi <i18n-csb@linuxcsb.org>
+khelpcenter,211,22,32,78,7,5,208,265,79.62264150943396,Kaszëbsczi <i18n-csb@linuxcsb.org>
+khotkeys,399,35,17,117,11,8,390,451,88.470066518847,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kinfocenter,67,71,86,30,34,35,71,224,29.910714285714285,Kaszëbsczi
+kio-extras,418,294,225,59,27,31,423,937,44.61045891141943,Kashubian <i18n-csb@linuxcsb.org>
+kiriki,76,6,62,40,1,9,76,144,52.77777777777778,Kashubian
+klines,79,2,18,24,1,3,74,99,79.7979797979798,Kashubian
+kmahjongg,267,51,59,81,13,10,267,377,70.82228116710876,Kashubian <i18n-csb@linuxcsb.org>
+kmenuedit,235,18,32,50,6,11,195,285,82.45614035087719,Kaszëbsczi <i18n-csb@linuxcsb.org>
+knavalbattle,241,73,87,80,6,18,253,401,60.099750623441395,Kaszëbsczi <i18n-csb@linuxcsb.org>
+knetwalk,26,18,199,11,1,44,27,243,10.699588477366255,Kashubian <i18n-csb@linuxcsb.org>
+konqueror,4441,543,1277,528,72,114,3704,6261,70.9311611563648,Kashubian <i18n-csb@linuxcsb.org>
+konsole5,527,1366,2103,115,366,359,472,3996,13.188188188188189,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kpat,109,138,318,41,55,103,119,565,19.29203539823009,Kashubian
+ksysguard,901,61,131,197,26,14,790,1093,82.43366880146387,Kaszëbsczi <i18n-csb@linuxcsb.org>
+ktuberling,71,30,57,27,5,6,73,158,44.936708860759495,Kashubian
+kturtle,117,52,1369,15,4,330,105,1538,7.607282184655396,Kashubian
+kwin,617,511,1426,161,180,370,581,2554,24.158183241973376,Kaszëbsczi <i18n-csb@linuxcsb.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Kashubian
+libksysguard,1063,574,1847,127,59,174,960,3484,30.510907003444316,Kashubian <i18n-csb@linuxcsb.org>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Kashubian (http://www.transifex.com/mate/MATE/language/csb/)
+libmypaint,1,0,2302,1,0,161,1,2303,0.04342162396873643,Kashubian <https://hosted.weblate.org/projects/mypaint/libmypaint/csb/>
+lokalize,100,90,3975,59,40,590,98,4165,2.4009603841536618,Kaszëbsczi <i18n-csb@linuxcsb.org>
+mate-applets,2,0,1513,2,0,100,12,1515,0.132013201320132,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+mate-control-center,24,0,3307,15,0,1138,30,3331,0.720504353047133,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+mate-menu,6,0,302,5,0,105,6,308,1.948051948051948,Kashubian (http://www.transifex.com/mate/MATE/language/csb/)
+mate-panel,1,0,941,1,0,62,6,942,0.10615711252653928,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+mate-sensors-applet,2,0,311,2,0,107,8,313,0.6389776357827476,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Kashubian (http://app.transifex.com/mate/MATE/language/csb/)
+mingw-gdk-pixbuf,481,43,821,66,4,131,474,1345,35.762081784386616,Kashubian <csb@li.org>
+mypaint,14,13,6354,12,8,1250,14,6381,0.21940134775113618,Kashubian <https://hosted.weblate.org/projects/mypaint/mypaint/csb/>
+plasma-desktop,1979,585,1284,240,195,269,1711,3848,51.42931392931393,Kaszëbsczi <i18n-csb@linuxcsb.org>
+plasma-drkonqi,295,957,732,44,96,63,263,1984,14.868951612903224,Kaszëbsczi <i18n-csb@linuxcsb.org>
+plasma-oxygen,15,92,508,8,32,179,16,615,2.4390243902439024,Kaszëbsczi <i18n-csb@linuxcsb.org>
+plasma-sdk,159,102,110,46,19,15,155,371,42.857142857142854,Kashubian <i18n-csb@linuxcsb.org>
+plasma-systemsettings,111,26,75,28,6,20,100,212,52.358490566037744,Kaszëbsczi <i18n-csb@linuxcsb.org>
+plasma-workspace,2236,1144,5036,666,355,972,2272,8416,26.568441064638783,Kaszëbsczi <i18n-csb@linuxcsb.org>
+pluma-plugins,1,0,509,1,0,48,6,510,0.19607843137254902,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+python-apt,7,8,529,3,4,111,8,544,1.2867647058823528,Kashubian <csb@li.org>
+sweeper,172,46,10,38,8,4,147,228,75.43859649122807,Kashubian
+xdg-user-dirs-gtk,81,0,0,11,0,0,66,81,100.0,Kashubian <csb@li.org>

@@ -1,0 +1,166 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,264,89,3601,61,16,384,277,3954,6.676783004552352,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+LabPlot,0,1282,1819,0,685,594,0,3101,0.0,LANGUAGE <LL@li.org>
+abiword,4722,55,0,1549,2,0,5247,4777,98.84864978019678,unknown <email@address>
+alexandria,561,0,531,160,0,129,646,1092,51.373626373626365,Irish
+alleyoop,66,0,276,28,0,59,68,342,19.298245614035086,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+amarok,3236,57,9962,1212,22,1275,4120,13255,24.413428894756695,ga <LL@li.org>
+anjuta,223,387,6459,143,199,1599,226,7069,3.1546187579572784,Irish <ga@li.org>
+anjuta-gdl,44,0,633,29,0,109,48,677,6.499261447562777,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+apcupsd,0,0,647,0,0,103,0,647,0.0,LANGUAGE <LL@li.org>
+aspell,1694,17,15,289,2,2,1757,1726,98.1460023174971,Irish <ga@li.org>
+atk,24,26,320,24,15,84,25,370,6.486486486486487,Irish
+atomix,29,0,96,16,0,28,30,125,23.200000000000003,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+audacity,3425,843,1504,848,173,220,3896,5772,59.33818433818434,Mícheál Mac Lochlainn <micilsheainmhicil@eircom.net>
+avr-binutils,1616,0,0,288,0,0,1825,1616,100.0,Irish <ga@li.org>
+avr-gdb,1130,0,0,195,0,0,1275,1130,100.0,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+balsa,164,852,4332,99,307,881,184,5348,3.066566940912491,Gaeilge <gaeilge-a@listserv.heanet.ie>
+binutils,4038,0,0,708,0,0,4583,4038,100.0,Irish <ga@li.org>
+bison,835,39,14,139,5,6,1007,888,94.03153153153153,Irish <ga@li.org>
+bittorrent,81,0,3825,28,0,606,107,3906,2.0737327188940093,LANGUAGE <LL@li.org>
+blam,22,0,45,17,0,9,21,67,32.83582089552239,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+bug-buddy,50,28,1150,28,12,134,46,1228,4.071661237785016,Irish <ga@li.org>
+cflow,519,53,15,104,7,3,582,587,88.41567291311755,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+cinepaint,133,319,6953,98,173,1664,132,7405,1.7960837272113437,Irish <ga@li.org>
+compat-libgda,6,65,2161,5,43,421,6,2232,0.2688172043010753,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+control-center,373,209,2800,193,101,442,464,3382,11.028976936723831,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+coreutils,15966,16,0,1205,3,0,17342,15982,99.89988737329496,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+dasher,71,22,330,58,14,95,72,423,16.78486997635934,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+dia,315,218,5178,219,126,1701,335,5711,5.515671511118893,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+dialog,13,1,11,13,1,9,13,25,52.0,Irish <ga@li.org>
+digikamimageplugins,707,6,5015,382,3,441,945,5728,12.342877094972067,Irish <ga@li.org>
+doodle,732,0,0,112,0,0,859,732,100.0,Irish <ga@li.org>
+drgeo,171,7,1807,95,4,362,177,1985,8.614609571788414,Irish <ga@li.org>
+eel2,117,0,118,22,0,30,135,235,49.787234042553195,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+ekiga,151,12,5443,91,3,643,156,5606,2.6935426328933287,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+empathy,10,81,852,5,40,146,10,943,1.0604453870625663,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+eog,127,37,393,56,19,75,153,557,22.800718132854577,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+epiphany,1518,84,1130,596,39,130,1595,2732,55.56368960468521,Irish <ga@li.org>
+evolution,1860,2476,12866,1251,892,2137,2270,17202,10.812696198116498,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+evolution-data-server,337,725,3439,160,144,572,363,4501,7.487225061097534,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+file-roller,189,69,713,77,22,145,211,971,19.464469618949536,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+findutils,1147,69,19,115,5,2,1246,1235,92.8744939271255,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+firestarter,24,89,1791,15,44,315,26,1904,1.2605042016806722,Gaeilge <gaeilge-a@listserv.heanet.ie>
+flex,1057,0,0,155,0,0,1239,1057,100.0,Irish <ga@li.org>
+fslint,168,27,169,75,6,45,186,364,46.15384615384615,Gaeilge <ga@li.org>
+gail,57,0,113,44,0,59,59,170,33.52941176470588,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+galeon,1091,0,4238,576,0,797,1137,5329,20.472884218427474,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gallery2,2318,1986,8269,601,456,1052,2836,12573,18.436331822158593,Irish <gallery-devel@lists.sourceforge.net>
+gawk,1916,354,173,316,49,21,2101,2443,78.42816209578388,Irish <ga@li.org>
+gcalctool,68,31,816,64,29,285,68,915,7.431693989071038,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gcompris,123,2,3392,94,2,443,130,3517,3.497298834233722,Irish <ga@li.org>
+gconf-editor,78,44,198,30,20,44,104,320,24.375,Irish
+gdb,1130,0,0,195,0,0,1275,1130,100.0,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gdm,201,17,4836,132,7,523,221,5054,3.9770478828650577,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gedit,420,223,3563,227,104,689,472,4206,9.985734664764621,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gedit-plugins,6,91,377,6,21,69,6,474,1.2658227848101267,Irish
+genius,96,0,2685,45,0,412,105,2781,3.4519956850053934,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gettext,852,0,0,110,0,0,958,852,100.0,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gftp,49,12,3311,36,10,586,53,3372,1.453143534994069,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+ghex,167,0,704,94,0,150,180,871,19.173363949483353,Gaeilge <gaeilge-gnulinux@lists.sourceforge.net>
+gimp,699,1841,18289,481,872,4467,733,20829,3.355898026789572,Irish  <gaeilge-gnulinux@lists.sourceforge.net>
+glade2,394,71,5375,241,22,1037,408,5840,6.7465753424657535,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+glib2,79,95,1039,14,14,117,80,1213,6.512778235779059,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+glunarclock,226,0,0,70,0,0,240,226,100.0,Irish <ga@li.org>
+gnome-applet-timer,13,8,221,12,2,55,15,242,5.371900826446281,Irish <ga@li.org>
+gnome-applets,764,46,4357,428,17,830,862,5167,14.786142829494873,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-commander,241,2205,5446,154,921,348,256,7892,3.0537252914343638,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-desktop,153,4,163,57,1,15,178,320,47.8125,Irish
+gnome-games,261,739,6066,183,359,1156,277,7066,3.6937446928955566,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-icon-theme,22,7,23,22,3,21,28,52,42.30769230769231,Irish
+gnome-libs,254,18,813,194,18,183,261,1085,23.410138248847925,Irish <ga@li.org>
+gnome-mag,5,0,0,2,0,0,8,5,100.0,Irish
+gnome-media,156,59,1580,104,29,374,171,1795,8.690807799442897,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-mime-data,573,6,298,251,2,107,677,877,65.33637400228051,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-netstatus,53,7,352,35,4,69,59,412,12.864077669902912,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-nettool,33,51,436,25,25,130,35,520,6.346153846153846,Irish
+gnome-panel,724,112,3101,213,33,271,820,3937,18.38963677927356,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-session,70,12,434,40,5,56,98,516,13.565891472868216,Irish
+gnome-spell,37,10,40,28,7,26,46,87,42.5287356321839,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-system-monitor,85,7,410,55,2,86,97,502,16.93227091633466,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-terminal,342,42,4019,153,12,346,410,4403,7.7674312968430606,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-themes,74,0,27,27,0,7,89,101,73.26732673267327,Irish
+gnome-utils,351,164,2101,122,57,293,411,2616,13.417431192660551,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnome-vfs2,138,13,1131,56,5,187,145,1282,10.764430577223088,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gnotime,89,250,1669,52,98,279,101,2008,4.432270916334661,Gaeilge <gaeilge-a@listserv.heanet.ie>
+gnumeric,736,430,44572,552,215,3393,747,45738,1.6091652455288818,Gaeilge <ga@li.org>
+goffice,144,120,2765,132,79,947,145,3029,4.75404423902278,Gaeilge <ga@li.org>
+goffice04,102,199,3689,91,130,1144,101,3990,2.556390977443609,Gaeilge <ga@li.org>
+gok,89,39,1656,62,31,337,93,1784,4.988789237668161,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gossip,18,151,1797,13,75,337,18,1966,0.9155645981688708,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gthumb,228,13,2386,162,9,723,235,2627,8.679101636848117,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gtk+,202,0,0,105,0,0,231,202,100.0,Gaeilge <ga@li.org>
+gtk2,400,378,10824,218,173,1914,417,11602,3.4476814342354762,Gaeilge <gaeilge-gnulinux@lists.sourceforge.net>
+gtkhtml3,96,44,809,75,34,316,103,949,10.1159114857745,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gtkhtml38,96,44,809,75,34,316,103,949,10.1159114857745,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gtksourceview,31,23,671,28,15,251,31,725,4.275862068965517,Alastair McKinstry <gaeilge-gnulinux@lists.sourceforge.net>
+gtkspell,11,0,0,5,0,0,15,11,100.0,Irish <ga@li.org>
+gtranslator,53,4,1357,52,3,314,57,1414,3.7482319660537478,Irish
+gucharmap,50,2,463,37,1,195,50,515,9.70873786407767,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+gwenview,761,0,560,261,0,59,915,1321,57.607872823618465,ga <LL@li.org>
+inkscape,64,588,10996,58,324,2095,64,11648,0.5494505494505495,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+iso-codes,1415,4530,12045,906,3698,8013,1526,17990,7.865480822679266,Irish <ga@li.org>
+k3b,3220,22,17388,1192,3,1337,3888,20630,15.608337372758118,ga <LL@li.org>
+kaffeine,907,0,1447,440,0,218,1025,2354,38.53016142735769,Irish <gaeilge-gnulinux@lists.sourceforge.net>MIME-Version: 1.0
+katapult,75,0,352,37,0,45,86,427,17.56440281030445,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+kdebluetooth,119,147,1251,41,59,189,125,1517,7.844429795649307,ga <LL@li.org>
+kdetv,478,0,1728,240,0,243,527,2206,21.668177697189485,ga <LL@li.org>
+kdiff3,466,0,2495,190,0,317,546,2961,15.737926376224248,ga <LL@li.org>
+kdissert,214,0,1813,130,0,152,233,2027,10.557474099654662,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+kerry,468,0,234,152,0,31,515,702,66.66666666666666,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+keurocalc,291,0,0,116,0,0,362,291,100.0,ga <LL@li.org>
+kftpgrabber,931,13,1293,382,4,194,1159,2237,41.618238712561464,Irish <ga@li.org>
+kile,2174,205,8042,821,69,694,2424,10421,20.86172152384608,ga <LL@li.org>
+kiosktool,51,0,2238,34,0,204,62,2289,2.2280471821756227,ga <LL@li.org>
+kipi-plugins,2413,78,10449,1121,34,1126,2980,12940,18.64760432766615,ga <LL@li.org>
+kmplayer,357,0,894,203,0,185,396,1251,28.53717026378897,ga <LL@li.org>
+knemo,251,0,362,152,0,32,278,613,40.94616639477977,Irish <ga@li.org>
+knetstats,118,0,0,53,0,0,139,118,100.0,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+knetworkmanager,287,26,449,140,17,87,325,762,37.664041994750654,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+kphotoalbum,1106,0,4789,428,0,254,1326,5895,18.761662425784564,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+krecipes,475,0,2465,213,0,193,571,2940,16.156462585034014,ga <LL@li.org>
+kst,1188,874,5046,639,332,767,1320,7108,16.71356218345526,ga <LL@li.org>
+ksynaptics,214,0,441,76,0,58,257,655,32.671755725190835,ga <LL@li.org>
+leafpad,123,0,0,67,0,0,139,123,100.0,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libbonobo,37,4,483,12,1,95,40,524,7.061068702290077,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libbonoboui,60,3,297,32,1,80,60,360,16.666666666666664,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libextractor,729,19,23,345,9,8,798,771,94.55252918287937,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libgda,6,65,2216,5,43,428,6,2287,0.2623524267599475,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libgdl,44,0,633,29,0,109,48,677,6.499261447562777,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libgnome,177,0,1230,57,0,162,223,1407,12.57995735607676,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libgnomecanvas,132,0,225,49,0,45,184,357,36.97478991596639,Irish
+libgnomedb,3,206,2895,3,107,519,3,3104,0.09664948453608248,Irish <ga@li.org>
+libgnomeprint22,104,0,64,77,0,21,110,168,61.904761904761905,Irish
+libgnomeprintui22,137,44,246,57,26,52,164,427,32.08430913348946,Irish
+libgnomeui,372,61,986,161,18,166,441,1419,26.215644820295985,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libgsasl,479,23,0,55,1,0,568,502,95.4183266932271,Irish <ga@li.org>
+libgtop2,6,0,128,4,0,40,6,134,4.477611940298507,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+libkexif,25,0,0,14,0,0,32,25,100.0,ga <LL@li.org>
+libkipi,35,0,48,18,0,8,47,83,42.168674698795186,ga <LL@li.org>
+libwnck,26,33,14,11,13,6,41,73,35.61643835616438,Irish
+make,1869,87,41,378,12,4,2260,1997,93.59038557836755,Irish <ga@li.org>
+metacity,204,42,6673,59,12,393,271,6919,2.9484029484029484,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+mutt,4872,202,141,1038,30,21,5783,5215,93.4228187919463,Irish <ga@li.org>
+nano,2249,0,0,362,0,0,2445,2249,100.0,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+nautilus,953,187,5836,439,66,709,1109,6976,13.66112385321101,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+nautilus-cd-burner,52,91,444,12,19,69,77,587,8.858603066439523,Irish
+newt,4,0,0,4,0,0,6,4,100.0,Irish <ga@li.org>
+pan,56,438,1794,39,179,382,59,2288,2.4475524475524475,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+perl-libintl,19,0,0,19,0,0,27,19,100.0,Irish <guido@imperia.net>
+poedit,1154,0,0,272,0,0,1384,1154,100.0,LANGUAGE <LL@li.org>
+redhat-artwork,0,2,14,0,2,4,0,16,0.0,Irish <ga@li.org>
+rhythmbox,0,0,0,0,0,0,0,0,0.0,
+rsibreak,145,0,1208,61,0,92,192,1353,10.716925351071692,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+sed,502,0,3,80,0,1,599,505,99.4059405940594,Irish <ga@li.org>
+sharutils,1039,0,0,151,0,0,1256,1039,100.0,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+showimg,860,0,3445,432,0,447,1029,4305,19.97677119628339,ga <LL@li.org>
+stellarium,479,61,556,291,17,168,658,1096,43.70437956204379,Irish <ga@li.org>
+tar,2351,0,0,374,0,0,2913,2351,100.0,Irish <ga@li.org>
+totem,365,0,933,164,0,161,456,1298,28.120184899845917,Irish  <gaeilge-gnulinux@lists.sourceforge.net>
+tuxpaint,522,18,47,134,4,17,526,587,88.9267461669506,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+vim,7305,0,0,1538,0,0,8668,7305,100.0,Irish <ga@li.org>
+vte,5,0,91,1,0,17,6,96,5.208333333333334,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+wget,1800,0,0,319,0,0,2063,1800,100.0,Irish <ga@li.org>
+xmms,369,280,2596,201,147,669,377,3245,11.371340523882898,Irish <ga@li.org>
+yelp,33,55,518,19,31,98,45,606,5.445544554455446,Irish <gaeilge-gnulinux@lists.sourceforge.net>
+zenity,117,55,222,48,18,46,167,394,29.695431472081218,Irish

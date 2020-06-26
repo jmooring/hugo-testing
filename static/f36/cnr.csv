@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+scanmem,548,0,0,100,0,0,517,548,100.0,
+stellarium,0,0,151641,0,0,37855,0,151641,0.0,Montenegrin (https://www.transifex.com/stellarium/teams/80998/cnr/)

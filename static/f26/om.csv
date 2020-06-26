@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+cinnamon-translations,1954,0,14691,651,0,3209,1806,16645,11.739261039351156,Oromo <om@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+gala,0,0,683,0,0,77,0,683,0.0,Oromo <om@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Oromo (http://www.transifex.com/mate/MATE/language/om/)
+libreoffice,411256,32004,116312,52836,4932,19800,327563,559572,73.4947424102707,LANGUAGE <LL@li.org>
+mate-menu,284,12,4,107,1,2,255,300,94.66666666666667,Oromo <om@li.org>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mintmenu,822,0,2162,303,0,335,766,2984,27.546916890080432,Oromo <om@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+onboard,0,0,2318,0,0,510,0,2318,0.0,Oromo <om@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,4,0,68,2,0,20,3,72,5.555555555555555,Oromo <om@li.org>
+switchboard-plug-applications,34,0,51,16,0,13,32,85,40.0,Oromo <om@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>

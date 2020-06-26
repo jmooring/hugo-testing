@@ -1,0 +1,31 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,8,0,472,8,0,79,11,480,1.6666666666666667,http://littlesvr.ca/ostd/
+coreutils,11492,7095,1891,1179,320,139,17630,20478,56.11876159781228,Luganda <kbirabwa@yahoo.co.uk>
+findutils,123,396,2292,36,48,198,151,2811,4.375667022411953,Luganda <kompyuta@kizito.freeuk.com>
+gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+isomaster,19,0,655,14,0,93,19,674,2.8189910979228485,http://littlesvr.ca/ostd/
+libfm,1565,0,0,390,0,0,1823,1565,100.0,lg <kbirabwa@yahoo.co.uk>
+libgnomeui,332,0,894,129,0,191,309,1226,27.07993474714519,Luganda <kbirabwa@yahoo.co.uk>
+librfm,964,611,822,140,194,264,1512,2397,40.21693783896537,Luganda <kbirabwa@yahoo.co.uk>
+lxappearance,212,0,0,74,0,0,208,212,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxappearance-obconf,191,5,0,26,1,0,198,196,97.44897959183673,LANGUAGE <LL@li.org>
+lxinput,72,0,0,24,0,0,87,72,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxlauncher,51,0,0,11,0,0,34,51,100.0,LANGUAGE <LL@li.org>
+lxpanel,1014,0,0,341,0,0,1223,1014,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxpolkit,15,0,0,9,0,0,23,15,100.0,LANGUAGE <LL@li.org>
+lxrandr,122,0,0,27,0,0,123,122,100.0,LANGUAGE <LL@li.org>
+lxsession,36,0,0,14,0,0,36,36,100.0,LANGUAGE <LL@li.org>
+lxsession-edit,64,0,0,11,0,0,62,64,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,49,43,100.0,LANGUAGE <LL@li.org>
+lxterminal,144,0,0,85,0,0,217,144,100.0,lg <kbirabwa@yahoo.co.uk>
+mingw-gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+mingw-gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+pcmanfm,1209,0,1,295,0,1,1351,1210,99.91735537190083,lg <kbirabwa@yahoo.co.uk>
+rodent,53,431,9150,48,198,566,100,9634,0.5501349387585635,Luganda <kbirabwa@yahoo.co.uk>
+sugar,4,58,1671,2,44,373,4,1733,0.2308136180034622,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,20,56,0,19,21,0,76,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1515,72,4,279,8,4,1249,1591,95.22313010685104,LANGUAGE <LL@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>
+virtaal,1422,39,192,449,12,83,1461,1653,86.02540834845736,LANGUAGE <LL@li.org>

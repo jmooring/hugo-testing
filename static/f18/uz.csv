@@ -1,0 +1,75 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,35,42,100.0,Uzbek
+at-spi2-core,5,0,0,1,0,0,5,5,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+cinnamon,160,0,1536,109,0,443,173,1696,9.433962264150944,Uzbek <uz@li.org>
+clamtk,796,0,0,212,0,0,719,796,100.0,Uzbek <uz@li.org>
+clementine,1603,0,2648,603,0,592,1554,4251,37.70877440602211,
+control-center,1770,0,4562,706,0,822,1692,6332,27.953253316487682,Uzbek
+dasher,245,0,200,113,0,61,235,445,55.0561797752809,Uzbek
+deja-dup,14,0,1742,4,0,285,17,1756,0.7972665148063782,Uzbek <uz@li.org>
+drwright,16,6,360,6,2,50,24,382,4.18848167539267,Uzbek
+eog,1454,0,948,470,0,92,1316,2402,60.532889258950874,Uzbek
+epiphany,4822,0,1186,1364,0,140,4436,6008,80.25965379494008,Uzbek
+gdk-pixbuf2,310,60,2338,54,12,338,268,2708,11.447562776957163,Uzbek
+gdm,290,0,2336,134,0,336,278,2626,11.043412033511043,Uzbek
+gnome-backgrounds,38,0,4,25,0,2,39,42,90.47619047619048,Uzbek
+gnome-desktop,628,0,32,146,0,6,570,660,95.15151515151516,uzbek
+gnome-desktop3,549,0,16,104,0,3,538,565,97.16814159292035,Uzbek@cyrillic
+gnome-do,6,0,606,2,0,142,6,612,0.9803921568627451,Uzbek <uz@li.org>
+gnome-doc-utils,38,0,438,34,0,150,40,476,7.9831932773109235,Uzbek
+gnome-font-viewer,39,0,0,22,0,0,44,39,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+gnome-icon-theme,40,0,0,32,0,0,44,40,100.0,Uzbek
+gnome-mag,60,0,536,36,0,48,82,596,10.06711409395973,Uzbek
+gnome-menus,103,0,0,39,0,0,97,103,100.0,Uzbek@cyrillic
+gnome-nettool,784,0,306,292,0,78,750,1090,71.92660550458716,Uzbek
+gnome-panel,2352,86,6762,588,18,614,2032,9200,25.565217391304344,Uzbek
+gnome-session,386,0,1020,128,0,94,356,1406,27.453769559032715,Uzbek
+gnome-themes-standard,24,0,0,9,0,0,23,24,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+gnome-vfs2,900,0,2116,340,0,262,926,3016,29.84084880636605,Uzbek
+gtk2,5290,676,21442,2010,222,3336,4608,27408,19.300934033858727,Uzbek
+gtk3,4754,1052,17900,1846,310,2818,4110,23706,20.05399476925673,Uzbek
+gwibber,59,0,710,16,0,188,56,769,7.672301690507152,Uzbek <uz@li.org>
+homebank,19,0,1710,15,0,575,19,1729,1.098901098901099,Uzbek <uz@li.org>
+jmol,208,2,2761,102,1,871,198,2971,7.001009761023225,Uzbek <uz@li.org>
+koffice-kivio,6434,4244,6156,2558,1528,636,6294,16834,38.22026850421765,Uzbek <floss-uz-l10n@googlegroups.com>
+kpilot,28,184,14100,14,60,1648,22,14312,0.1956400223588597,Uzbek <floss-uz-l10n@googlegroups.com>
+ksig,65,2,18,15,1,10,50,85,76.47058823529412,Uzbek <floss-uz-l10n@googlegroups.com>
+libgnome-keyring,44,0,0,9,0,0,40,44,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+libgnomeui,585,0,705,208,0,122,514,1290,45.348837209302324,Uzbek
+libmateui,585,0,705,208,0,122,514,1290,45.348837209302324,Uzbek
+libreoffice,52324,3187,36260,20476,1052,6548,48677,91771,57.01583288838522,LANGUAGE <LL@li.org>
+libsoup,51,0,0,14,0,0,52,51,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+lightdm,35,0,44,10,0,7,26,79,44.303797468354425,Uzbek <uz@li.org>
+lightdm-gtk,56,0,1,18,0,1,49,57,98.24561403508771,Uzbek <uz@li.org>
+lxmenu-data,76,0,21,29,0,8,78,97,78.35051546391753,Uzbek
+mate-backgrounds,18,0,30,9,0,21,14,48,37.5,LANGUAGE <LL@li.org>
+mate-control-center,1465,0,4311,568,0,804,1396,5776,25.363573407202217,LANGUAGE <LL@li.org>
+mate-desktop,365,0,372,85,0,34,335,737,49.525101763907735,LANGUAGE <LL@li.org>
+mate-file-manager,8942,0,8288,1947,0,843,7436,17230,51.89785258270459,LANGUAGE <LL@li.org>
+mate-icon-theme,40,0,0,32,0,0,44,40,100.0,Uzbek
+mate-image-viewer,1324,0,1500,424,0,172,1202,2824,46.88385269121813,LANGUAGE <LL@li.org>
+mate-menu-editor,42,0,0,16,0,0,35,42,100.0,Uzbek
+mate-menus,107,0,58,44,0,14,109,165,64.84848484848484,Uzbek
+mate-panel,2054,43,6740,512,9,671,1780,8837,23.243182075364942,LANGUAGE <LL@li.org>
+mate-session-manager,386,0,1020,128,0,94,356,1406,27.453769559032715,Uzbek
+mate-vfs,900,0,2127,340,0,266,926,3027,29.73240832507433,Uzbek
+mingw-gdk-pixbuf,310,60,2338,54,12,338,268,2708,11.447562776957163,Uzbek
+mingw-gtk2,5290,676,21442,2010,222,3336,4608,27408,19.300934033858727,Uzbek
+mingw-gtk3,4754,1052,17900,1846,310,2818,4110,23706,20.05399476925673,Uzbek
+mingw-libsoup,51,0,0,14,0,0,52,51,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+nautilus,9486,0,6802,2044,0,584,7858,16288,58.23919449901768,Uzbek
+nemo,9486,0,6802,2044,0,584,7858,16288,58.23919449901768,Uzbek
+notification-daemon,17,0,0,7,0,0,16,17,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+pessulus,30,0,100,12,0,21,31,130,23.076923076923077,American English <kde-i18n-doc@kde.org>
+po4a,23,28,1850,5,7,189,22,1901,1.209889531825355,Uzbek <uzbadmin@gmail.com>
+poedit,951,274,300,227,67,60,833,1525,62.36065573770492,UZBEK <odjuraev@gmail.com>
+pootle,14,2,2408,2,1,456,35,2424,0.5775577557755776,LANGUAGE <LL@li.org>
+rednotebook,281,0,840,59,0,176,250,1121,25.066904549509367,Uzbek <uz@li.org>
+stellarium,0,0,11181,0,0,3145,0,11181,0.0,Uzbek <uz@li.org>
+sushi,24,0,0,11,0,0,21,24,100.0,Uzbek
+totem-pl-parser,28,0,0,7,0,0,21,28,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+transmission,55,0,1754,40,0,454,73,1809,3.0403537866224433,Uzbek <uz@li.org>
+vte3,80,0,0,13,0,0,76,80,100.0,Uzbek (Cyrillic) <uz@cyrillic@li.org>
+xmms,1748,30,1665,789,14,242,2045,3443,50.769677606738306,Uzbek <uz-li@yahoogroups.com>
+yelp,1140,0,930,500,0,198,1096,2070,55.072463768115945,Uzbek
+yelp-xsl,38,0,438,34,0,150,40,476,7.9831932773109235,Uzbek

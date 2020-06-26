@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+pootle,5453,0,0,2960,0,0,6504,5453,100.0,LANGUAGE <LL@li.org>
+sawfish,0,0,6617,0,0,1054,0,6617,0.0,Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/)
+stellarium,0,0,9286,0,0,2789,0,9286,0.0,Akan <ak@li.org>
+sugar-abacus,0,0,24,0,0,24,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,81,0,0,35,0,81,0.0,LANGUAGE <LL@li.org>
+sugar-clock,3,0,19,3,0,9,3,22,13.636363636363635,LANGUAGE <LL@li.org>
+sugar-finance,0,0,143,0,0,32,0,143,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,47,0,0,26,0,47,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,184,0,0,56,0,184,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,114,0,0,71,0,114,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,91,0,0,32,0,91,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,64,0,0,49,0,64,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,28,0,0,27,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,15,0,0,6,0,15,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,141,0,0,76,0,141,0.0,LANGUAGE <LL@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+virtaal,1428,49,174,456,13,73,1743,1651,86.49303452453059,LANGUAGE <LL@li.org>

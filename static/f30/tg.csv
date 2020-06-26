@@ -1,0 +1,269 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+NetworkManager-openconnect,10,0,3054,6,0,543,10,3064,0.3263707571801566,Tajik (http://www.transifex.net/projects/p/meego/language/tg/)
+abrt,10,0,3666,4,0,413,11,3676,0.2720348204570185,Tajik (http://www.transifex.com/projects/p/fedora-abrt/language/tg/)
+accerciser,218,3,378,132,2,87,238,599,36.39398998330551,
+aisleriot,39,6,2762,35,4,578,46,2807,1.389383683648023,
+anaconda,46,0,7765,16,0,1269,48,7811,0.5889130713096914,Tajik (http://www.transifex.com/projects/p/anaconda/language/tg/)
+anjuta,27,435,7681,24,327,1690,31,8143,0.3315731302959597,
+aspell,582,420,795,112,67,124,546,1797,32.38731218697829,Tajik
+audacity,2238,4310,10319,690,1358,1846,2302,16867,13.268512479990513,Tajik Language
+audit-viewer,166,0,445,93,0,92,168,611,27.168576104746318,LANGUAGE <LL@li.org>
+authconfig,23,0,906,13,0,124,26,929,2.4757804090419806,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+bijiben,309,0,0,103,0,0,329,309,100.0,Tajik <tg@li.org>
+blueberry,69,0,79,22,0,15,79,148,46.62162162162162,<>
+brasero,5546,0,0,968,0,0,5738,5546,100.0,
+calligra,12189,8965,8786,2801,2126,1076,11885,29940,40.71142284569138,Tajik <http://www.kde.tj>
+caribou,169,0,0,57,0,0,179,169,100.0,
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Tajik (http://www.transifex.com/projects/p/certmonger/language/tg/)
+cinnamon-translations,10248,0,12653,2464,0,2647,11099,22901,44.74913759224488,Tajik <tg@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,985,12,4,175,2,1,941,1001,98.4015984015984,Tajik <victor.ibragimov@gmail.com>
+deepin-mutter,56,0,2205,32,0,288,74,2261,2.476780185758514,
+deepin-terminal,80,0,0,13,0,0,86,80,100.0,Tajik <tg@li.org>
+deja-dup,0,0,2045,0,0,330,0,2045,0.0,Tajik <tg@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Tajik
+dnfdragora,164,0,695,120,0,244,185,859,19.09196740395809,Tajik (https://www.transifex.com/MageiaLinux/teams/9361/tg/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Tajik
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+entangle,0,0,953,0,0,229,0,953,0.0,Tajik
+eog,1559,0,0,292,0,0,1578,1559,100.0,<>
+epiphany,265,10,2219,172,6,399,309,2494,10.625501202886928,
+evince,1527,0,0,360,0,0,1563,1527,100.0,
+evolution,511,20115,621,200,4014,195,541,21247,2.405045418176684,Tajik <tg@li.org>
+evolution-data-server,1,0,5679,1,0,1163,1,5680,0.017605633802816902,Tajik <tg@li.org>
+expendable,40,0,187,26,0,67,50,227,17.62114537444934,Tajik (http://www.transifex.com/projects/p/expendable/language/tg/)
+file-roller,1195,0,0,268,0,0,1160,1195,100.0,
+folks,6,0,852,6,0,105,6,858,0.6993006993006993,
+freeipa,148,0,57069,99,0,4525,154,57217,0.25866438296310534,Tajik
+gala,0,0,140,0,0,34,0,140,0.0,none
+gcab,152,0,0,32,0,0,171,152,100.0,Tajik <victor.ibragimov@gmail.com>
+gcr,77,4,596,62,1,179,88,677,11.37370753323486,
+gdk-pixbuf2,9,0,1345,2,0,200,12,1354,0.6646971935007385,
+gedit,214,1,4147,150,1,603,257,4362,4.90600641907382,
+glib-networking,161,0,0,29,0,0,168,161,100.0,
+glib2,119,101,5244,79,27,758,115,5464,2.177891654465593,
+gnome-boxes,572,326,0,175,19,0,651,898,63.69710467706013,
+gnome-calculator,1464,0,0,535,0,0,1464,1464,100.0,
+gnome-calendar,342,0,0,105,0,0,367,342,100.0,Tajik <tg@li.org>
+gnome-contacts,411,0,0,156,0,0,473,411,100.0,
+gnome-control-center,5034,0,0,1464,0,0,5429,5034,100.0,Tajik <tg@li.org>
+gnome-desktop3,146,0,0,23,0,0,145,146,100.0,Tajik <tg@li.org>
+gnome-dictionary,825,0,0,178,0,0,814,825,100.0,
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,
+gnome-maps,485,0,0,111,0,0,491,485,100.0,Tajik <tg@li.org>
+gnome-mines,16,0,245,14,0,49,20,261,6.130268199233716,
+gnome-music,526,0,0,95,0,0,599,526,100.0,Tajik <tg@li.org>
+gnome-nettool,69,0,595,57,0,162,75,664,10.391566265060241,
+gnome-nibbles,38,0,488,33,0,97,46,526,7.224334600760455,
+gnome-online-accounts,687,0,0,147,0,0,741,687,100.0,Tajik <tg@li.org>
+gnome-photos,377,0,0,127,0,0,433,377,100.0,Tajik <tg@li.org>
+gnome-settings-daemon,401,0,3297,162,0,439,448,3698,10.843699296917253,Tajik <tg@li.org>
+gnome-shell,1614,0,336,407,0,37,1828,1950,82.76923076923077,
+gnome-sound-recorder,165,0,88,60,0,5,177,253,65.21739130434783,Tajik <tg@li.org>
+gnome-system-log,442,0,0,76,0,0,434,442,100.0,
+gnome-terminal,2182,0,0,437,0,0,2144,2182,100.0,
+gnome-themes-extra,12,0,0,5,0,0,12,12,100.0,
+gnome-tweaks,139,0,279,77,0,69,169,418,33.25358851674641,Tajik <tg@li.org>
+gnome-video-effects,11,0,245,11,0,57,15,256,4.296875,
+gnome-weather,195,0,0,42,0,0,220,195,100.0,Tajik <tg@li.org>
+granite,0,0,250,0,0,83,0,250,0.0,
+grilo,187,0,0,36,0,0,199,187,100.0,Tajik <tg@li.org>
+gtk-vnc,8,0,0,3,0,0,10,8,100.0,
+gtk3,14124,356,273,3159,58,53,13846,14753,95.73646038093948,
+gtk4,14124,356,273,3159,58,53,13846,14753,95.73646038093948,
+gtkhtml3,522,0,0,317,0,0,588,522,100.0,Tajik <tg@li.org>
+gtksourceview3,11,8,303,11,6,89,13,322,3.4161490683229814,
+gvfs,121,0,2527,71,0,514,134,2648,4.569486404833837,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hunspell,613,0,0,79,0,0,646,613,100.0,Tajik Hunspell <victor.ibragimov@gmail.com>
+iagno,10,0,107,9,0,29,12,117,8.547008547008547,
+ibus,36,6,2104,32,4,499,44,2146,1.6775396085740912,Tajik <trans-tg@lists.fedoraproject.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tajik
+initscripts,0,0,1001,0,0,157,0,1001,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+iso-codes,986,0,0,420,0,0,781,986,100.0,Tajik <https://hosted.weblate.org/projects/iso-codes/iso-3166-2/tg/>
+isomaster,6,0,668,5,0,102,8,674,0.8902077151335311,http://littlesvr.ca/ostd/
+json-glib,303,0,0,44,0,0,292,303,100.0,
+kactivitymanagerd,4,0,3,1,0,2,4,7,57.14285714285714,Tajik <kde-i18n-doc@kde.org>
+kaudiocreator,418,303,415,125,69,79,435,1136,36.79577464788733,<tajik>
+kcoloredit,8,92,178,5,29,61,65,278,2.877697841726619,Tajik
+kde-cli-tools,1570,293,242,161,24,32,1372,2105,74.58432304038006,Tajik <http://www.kde.tj>
+kdevelop,4,288,404,2,73,87,19,696,0.5747126436781609,
+kdiff3,908,378,2089,197,103,281,910,3375,26.9037037037037,Tajik
+kexi,440,3647,3224,140,899,438,475,7311,6.018328546026535,Tajik
+kf5-kauth,73,0,0,8,0,0,73,73,100.0,Tajik Language
+kf5-kbookmarks,230,0,0,49,0,0,245,230,100.0,English <kde-i18n-doc@kde.org>
+kf5-kcmutils,562,4,0,71,1,0,573,566,99.29328621908127,English <kde-i18n-doc@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,379,348,100.0,Tajik Language
+kf5-kcompletion,18,0,0,11,0,0,21,18,100.0,Tajik Language
+kf5-kconfig,261,0,6,100,0,1,321,267,97.75280898876404,English <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,316,6,3,114,3,2,399,325,97.23076923076923,English <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,322,3,3,114,1,1,341,328,98.17073170731707,English <kde-i18n-doc@kde.org>
+kf5-kdeclarative,113,3,0,15,1,0,114,116,97.41379310344827,English <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4785,28,0,2363,1,0,5595,4813,99.41824226054436,English <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,61,54,100.0,English <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,English <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Tajik Language
+kf5-kglobalaccel,71,0,0,9,0,0,79,71,100.0,English <kde-i18n-doc@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1825,1721,100.0,English <kde-i18n-doc@kde.org>
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,English <kde-i18n-doc@kde.org>
+kf5-kiconthemes,37,0,0,18,0,0,40,37,100.0,Tajik
+kf5-kinit,134,0,0,14,0,0,140,134,100.0,Tajik Language
+kf5-kio,7072,65,5181,1004,25,353,7023,12318,57.41191751907777,English <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Tajik Language
+kf5-kjobwidgets,123,0,0,36,0,0,147,123,100.0,English <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,254,248,100.0,English <kde-i18n-doc@kde.org>
+kf5-knewstuff,688,74,199,154,33,21,752,961,71.59209157127991,English <kde-i18n-doc@kde.org>
+kf5-knotifications,18,0,0,6,0,0,21,18,100.0,English <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,138,129,100.0,English <kde-i18n-doc@kde.org>
+kf5-kparts,104,0,0,26,0,0,119,104,100.0,English <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,17,15,100.0,English <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,113,100,100.0,English <kde-i18n-doc@kde.org>
+kf5-kservice,167,0,0,27,0,0,175,167,100.0,English <kde-i18n-doc@kde.org>
+kf5-ktexteditor,1520,2400,4804,301,472,490,1535,8724,17.423200366804217,English <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,533,462,100.0,English <kde-i18n-doc@kde.org>
+kf5-kwallet,1336,0,0,89,0,0,1448,1336,100.0,Tajik <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1320,0,0,457,0,0,1424,1320,100.0,Tajik Language
+kf5-kwindowsystem,2,0,0,1,0,0,3,2,100.0,English <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1322,224,0,155,66,0,1472,1546,85.51099611901681,English <kde-i18n-doc@kde.org>
+kf5-sonnet,667,0,0,73,0,0,748,667,100.0,English <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,523,8,5,321,4,4,532,536,97.57462686567165,English <kde-i18n-doc@kde.org>
+kgamma,126,4,0,15,1,0,117,130,96.92307692307692,Tajik
+khotkeys,168,14,256,98,6,25,174,438,38.35616438356164,Tajik
+kiconedit,678,15,33,133,7,15,734,726,93.38842975206612,Tajik
+kinfocenter,2423,234,103,827,55,48,2494,2760,87.78985507246377,Тоҷикӣ
+kjots,83,81,235,24,21,61,89,399,20.80200501253133,Tajik <rkovacs@khujand.org>
+kmenuedit,107,14,156,43,4,14,112,277,38.628158844765345,Tajik <kct_tj@yahoo.co.uk>
+koffice-kivio,5218,863,2336,1625,403,333,5222,8417,61.993584412498514,Tajik
+kpilot,4818,1082,1256,520,199,142,4339,7156,67.32811626607042,Tajik
+kreport,0,303,167,0,163,50,0,470,0.0,Tajik <http://www.kde.tj>
+ksig,68,0,17,15,0,11,65,85,80.0,Tajik
+kstars,4754,17255,37787,1224,7402,7741,4994,59796,7.950364572881129,Tajik
+ksysguard,825,138,130,188,36,13,832,1093,75.48032936870997,Tajik
+kwebkitpart,65,107,497,23,22,120,64,669,9.715994020926756,American English <kde-i18n-doc@lists.kde.org>
+kwin,1818,1237,2622,435,229,451,1885,5677,32.02395631495508,Tajik
+libbytesize,0,0,17,0,0,17,0,17,0.0,Tajik
+libgda,261,8,11053,202,2,1864,290,11322,2.305246422893482,
+libgdata,106,0,508,12,0,64,107,614,17.263843648208468,
+libgdl,26,0,613,18,0,74,27,639,4.068857589984351,Tajik <victor.ibragimov@gmail.com>
+libgnome-keyring,44,0,0,9,0,0,43,44,100.0,
+libgnomekbd,187,0,0,39,0,0,180,187,100.0,
+libgsf,5,0,697,2,0,145,5,702,0.7122507122507122,
+libksysguard,115,1277,1385,60,82,91,118,2777,4.141159524666907,Tajik <>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Tajik (http://www.transifex.com/mate/MATE/language/tg/)
+libosinfo,0,0,728,0,0,156,0,728,0.0,Tajik
+libpeas,105,0,0,26,0,0,107,105,100.0,
+libreoffice,166647,14532,385223,31882,5976,39815,135317,566402,29.422035939138635,LANGUAGE <LL@li.org>
+libsoup,79,0,0,20,0,0,92,79,100.0,
+libvirt,0,0,64065,0,0,9877,0,64065,0.0,Tajik
+libvirt-glib,0,0,153,0,0,30,0,153,0.0,Tajik (http://www.transifex.com/projects/p/libvirt-glib/language/tg/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Tajik <tg@li.org>
+lightdm-settings,0,0,305,0,0,62,0,305,0.0,Tajik <tg@li.org>
+mate-control-center,22,0,2682,13,0,623,27,2704,0.8136094674556213,Tajik (https://www.transifex.com/mate/teams/13566/tg/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Tajik (http://www.transifex.com/mate/MATE/language/tg/)
+mingw-atk,46,0,352,40,0,99,48,398,11.557788944723619,
+mingw-gdk-pixbuf,9,0,1345,2,0,200,12,1354,0.6646971935007385,
+mingw-glib-networking,161,0,0,29,0,0,168,161,100.0,
+mingw-glib2,119,101,5244,79,27,758,115,5464,2.177891654465593,
+mingw-gtk-vnc,8,0,0,3,0,0,10,8,100.0,
+mingw-gtk3,14124,356,273,3159,58,53,13846,14753,95.73646038093948,
+mingw-gtksourceview3,104,52,1000,97,29,504,118,1156,8.996539792387544,
+mingw-hunspell,613,0,0,79,0,0,646,613,100.0,Tajik Hunspell <victor.ibragimov@gmail.com>
+mingw-json-glib,303,0,0,44,0,0,292,303,100.0,
+mingw-libgsf,5,0,697,2,0,145,5,702,0.7122507122507122,
+mingw-libosinfo,0,0,728,0,0,156,0,728,0.0,Tajik
+mingw-libsoup,79,0,0,20,0,0,92,79,100.0,
+mingw-libvirt,0,0,63828,0,0,9849,0,63828,0.0,Tajik
+mingw-libvirt-glib,0,0,153,0,0,30,0,153,0.0,Tajik (http://www.transifex.com/projects/p/libvirt-glib/language/tg/)
+mingw-osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Tajik
+msitools,56,0,0,20,0,0,60,56,100.0,Tajik <tg@li.org>
+mutter,56,0,2205,32,0,288,74,2261,2.476780185758514,
+mutter328,56,0,2205,32,0,288,74,2261,2.476780185758514,
+nautilus,4685,1667,0,976,77,0,4949,6352,73.75629722921914,
+nautilus-sendto,45,0,0,8,0,0,52,45,100.0,
+nemiver,87,2,1183,68,1,267,104,1272,6.839622641509433,
+nemo-extensions,15,0,9,9,0,2,15,24,62.5,
+network-manager-applet,685,2358,1360,307,388,233,741,4403,15.557574381103793,Tajik <tg@li.org>
+newt,4,0,0,4,0,0,5,4,100.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,1942,0,376,448,0,62,2155,2318,83.77911993097497,Tajik <tg@li.org>
+openconnect,10,0,6690,6,0,1150,10,6700,0.1492537313432836,Tajik (http://www.transifex.net/projects/p/meego/language/tg/)
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Tajik
+pam,0,0,597,0,0,120,0,597,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+plasma-desktop,5988,1541,1589,1046,338,334,5474,9118,65.67229655626234,Tajik Language
+plasma-drkonqi,3298,637,80,303,65,9,3044,4015,82.14196762141968,Tajik <http://www.kde.tj>
+plasma-oxygen,16,111,494,9,37,175,21,621,2.576489533011272,Tajik Language
+plasma-sdk,34,11,318,19,6,53,36,363,9.366391184573002,Tajik <>
+plasma-systemsettings,179,21,24,41,5,9,169,224,79.91071428571429,Tajik <>
+plasma-workspace,699,281,849,175,71,113,721,1829,38.21760524876982,Tajik
+poedit,2772,0,41,620,0,3,3035,2813,98.54248133665126,Tajik
+polari,124,0,251,55,0,42,141,375,33.06666666666666,Tajik <tg@li.org>
+policycoreutils,20,0,4473,20,0,678,24,4493,0.44513687959047404,Tajik
+powerdevil,4,12,383,2,7,61,5,399,1.0025062656641603,Tajik <>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,0,0,1605,0,0,179,0,1605,0.0,Tajik
+python-SecretStorage,59,0,0,9,0,0,55,59,100.0,Tajik <tg@li.org>
+python-blivet,12,0,512,3,0,72,15,524,2.2900763358778624,Tajik (http://www.transifex.com/projects/p/blivet/language/tg/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Tajik
+python-meh,0,0,109,0,0,23,0,109,0.0,Tajik
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Tajik
+rygel,75,0,987,20,0,199,79,1062,7.062146892655368,Tajik <tg@li.org>
+seahorse,121,0,2303,101,0,465,147,2424,4.991749174917492,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+slick-greeter,199,0,12,41,0,6,225,211,94.3127962085308,Tajik <tg@li.org>
+snapd,0,0,4307,0,0,481,0,4307,0.0,Tajik <tg@li.org>
+sssd,87,6,39539,46,3,3168,83,39632,0.2195195801372628,Tajik (http://www.transifex.com/projects/p/sssd/language/tg/)
+stellarium,339,0,72296,278,0,27659,344,72635,0.4667171473807393,Tajik (https://www.transifex.com/stellarium/teams/80998/tg/)
+sushi,24,0,0,11,0,0,22,24,100.0,
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+tali,30,0,566,26,0,105,36,596,5.033557046979865,
+tracker,99,0,2976,74,0,449,91,3075,3.2195121951219514,
+tracker-miners,99,0,2976,74,0,449,91,3075,3.2195121951219514,
+usermode,177,0,396,59,0,37,196,573,30.89005235602094,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+vinagre,47,0,1383,34,0,226,60,1430,3.2867132867132867,
+vino,1090,0,0,110,0,0,1175,1090,100.0,
+vocal,0,0,377,0,0,79,0,377,0.0,Tajik <tg@li.org>
+vte291,80,0,0,13,0,0,86,80,100.0,Tajik <tg@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+xed,0,0,4625,0,0,998,0,4625,0.0,Tajik <tg@li.org>
+xmms,2590,453,400,901,68,76,2659,3443,75.22509439442346,Tajik
+yelp,448,0,0,104,0,0,436,448,100.0,Tajik

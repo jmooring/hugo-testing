@@ -1,0 +1,180 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3715,0,317,474,0,7,3140,4032,92.13789682539682,Malayalam <en@li.org>
+Miro,89,56,3471,71,5,573,100,3616,2.461283185840708,Malayalam <ml@li.org>
+alacarte,42,0,0,16,0,0,46,42,100.0,Malayalam <en@li.org>
+anaconda,10017,23,0,1254,4,0,8023,10040,99.77091633466135,<en@li.org>
+anjuta,198,305,6566,162,203,1576,191,7069,2.80096194652709,Malayalam <locale@gnu.org.in>
+atk,370,0,0,123,0,0,319,370,100.0,Malayalam
+atomix,18,0,107,10,0,34,18,125,14.399999999999999,Malayalam <locale@gnu.org.in>
+authconfig,1292,0,0,237,0,0,1131,1292,100.0,<en@li.org>
+balsa,1447,1125,2776,559,328,400,1308,5348,27.056843679880327,Malayalam <locale@gnu.org.in>
+bittorrent,17,0,3889,7,0,627,21,3906,0.4352278545826933,LANGUAGE <LL@li.org>
+bug-buddy,982,0,0,89,0,0,739,982,100.0,Malayalam <en@li.org>
+cheese,304,0,0,59,0,0,237,304,100.0,<en@li.org>
+chkconfig,430,0,0,88,0,0,365,430,100.0,Malayalam <en@li.org>
+compiz,66,0,0,11,0,0,55,66,100.0,Malayalam
+control-center,3724,0,0,857,0,0,3056,3724,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+dasher,443,0,0,173,0,0,452,443,100.0,Malayalam <en@li.org>
+dbmail,457,0,0,39,0,0,333,457,100.0,സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ്|Swathanthra Malayalam Computing <smc-discuss@googlegroups.com>
+deskbar-applet,958,0,164,221,0,10,837,1122,85.38324420677363,<en@li.org>
+devhelp,273,0,0,62,0,0,233,273,100.0,Malayalam <en@li.org>
+dia,169,320,5222,154,201,1691,178,5711,2.9592015408860095,Malayalam <en@li.org>
+drgeo,39,2,1944,39,2,420,40,1985,1.964735516372796,Malayalam <locale@gnu.org.in>
+eel2,157,0,78,46,0,6,140,235,66.80851063829788,Malayalam
+ekiga,2531,0,2636,591,0,185,2194,5167,48.9839365202245,Malayalam <en@li.org>
+empathy,4,60,879,4,37,150,5,943,0.4241781548250266,Malayalam <locale@gnu.org.in>
+eog,552,0,473,201,0,47,579,1025,53.85365853658537,Malayalam <en@li.org>
+epiphany,4244,0,0,917,0,0,3384,4244,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+evince,1002,0,0,292,0,0,960,1002,100.0,<en@li.org>
+evolution,15643,537,3901,4317,112,339,14305,20081,77.89950699666352,Malayalam
+evolution-data-server,4501,0,484,965,0,69,4153,4985,90.29087261785355,Malayalam
+evolution-exchange,832,0,393,147,0,39,719,1225,67.91836734693878,Malayalam
+evolution-webcal,180,0,0,29,0,0,126,180,100.0,Malayalam
+file-roller,952,0,0,239,0,0,859,952,100.0,Malayalam
+firestarter,12,32,1860,12,25,337,12,1904,0.6302521008403361,Malayalam <locale@gnu.org.in>
+firstboot,604,0,0,52,0,0,482,604,100.0,<en@li.org>
+gail,170,0,0,103,0,0,187,170,100.0,Malayalam
+galeon,1759,3,3189,776,3,497,1498,4951,35.52817612603514,Malayalam <locale@gnu.org.in>
+gcalctool,820,0,355,345,0,65,854,1175,69.7872340425532,<en@li.org>
+gcompris,38,11,3468,37,11,491,44,3517,1.0804663065112312,Malayalam <locale@gnu.org.in>
+gconf-editor,232,0,97,82,0,16,263,329,70.51671732522796,Malayalam
+gdm,5685,0,1874,879,0,95,4701,7559,75.20836089429818,Malayalam <en@li.org>
+gedit,4588,0,392,1053,0,39,3842,4980,92.1285140562249,"Malayalam <en@li.org>
+"
+gedit-plugins,235,0,59,46,0,6,185,294,79.93197278911565,Malayalam <locale@gnu.org.in>
+genius,24,0,3044,23,0,478,29,3068,0.7822685788787485,Malayalam <locale@gnu.org.in>
+gftp,63,24,3285,56,20,556,67,3372,1.8683274021352312,Malayalam <locale@gnu.org.in>
+ggz-gtk-client,4,0,0,4,0,0,4,4,100.0,Malayalam
+ghex,133,6,655,73,2,149,122,794,16.750629722921914,Malayalam <locale@gnu.org.in>
+glade2,165,110,5565,115,39,1146,145,5840,2.8253424657534243,Malayalam <locale@gnu.org.in>
+glade3,2936,0,271,853,0,18,2561,3207,91.5497349547864,<en@li.org>
+glib2,1674,7,477,251,3,86,1440,2158,77.57182576459685,Malayalam <smc-discuss@googlegroups.com>
+gnome-applets,3542,0,318,952,0,23,3306,3860,91.76165803108807,Malayalam
+gnome-backgrounds,18,0,0,9,0,0,15,18,100.0,Malayalam <en@li.org>
+gnome-build,159,17,0,53,6,0,119,176,90.3409090909091,Malayalam <en@li.org>
+gnome-desktop,288,0,0,70,0,0,245,288,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>
+gnome-doc-utils,213,0,0,80,0,0,217,213,100.0,Malayalam
+gnome-games,5338,0,2186,1546,0,237,4526,7524,70.94630515683147,<en@li.org>
+gnome-icon-theme,43,0,0,38,0,0,42,43,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+gnome-keyring,711,0,0,57,0,0,462,711,100.0,Malayalam
+gnome-keyring-manager,266,0,99,84,0,12,269,365,72.87671232876713,Malayalam
+gnome-mag,298,0,0,42,0,0,191,298,100.0,Malayalam
+gnome-media,1162,0,761,429,0,97,1074,1923,60.42641705668227,Malayalam <en@li.org>
+gnome-menus,165,0,0,58,0,0,140,165,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+gnome-mime-data,18,287,545,13,136,199,17,850,2.1176470588235294,Malayalam <locale@gnu.org.in>
+gnome-netstatus,425,0,0,110,0,0,378,425,100.0,Malayalam
+gnome-nettool,535,0,0,181,0,0,512,535,100.0,Malayalam
+gnome-panel,2016,0,2706,499,0,160,1726,4722,42.69377382465057,<en@li.org>
+gnome-pilot,28,5,1566,28,4,305,31,1599,1.7510944340212633,Malayalam <locale@gnu.org.in>
+gnome-pilot-conduits,4,0,205,4,0,46,4,209,1.9138755980861244,Malayalam <locale@gnu.org.in>
+gnome-power-manager,3575,0,0,482,0,0,2776,3575,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+gnome-screensaver,972,0,0,161,0,0,714,972,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+gnome-session,571,0,0,106,0,0,457,571,100.0,Malayalam
+gnome-settings-daemon,441,128,465,73,34,64,323,1034,42.649903288201166,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+gnome-system-monitor,847,0,0,210,0,0,800,847,100.0,Malayalam
+gnome-terminal,2041,0,2554,341,0,169,1675,4595,44.41784548422198,Malayalam
+gnome-themes,81,0,0,25,0,0,92,81,100.0,Malayalam
+gnome-utils,2610,0,1533,605,0,123,2228,4143,62.99782766111514,Malayalam <en@li.org>
+gnome-vfs2,1506,0,0,300,0,0,1253,1506,100.0,Malayalam
+gnome-volume-manager,741,0,425,142,0,50,710,1166,63.550600343053176,Malayalam
+gnomebaker,23,0,1163,10,0,281,16,1186,1.93929173693086,Malayalam <ml@li.org>
+gnomeradio,7,5,431,7,4,89,8,443,1.580135440180587,Malayalam <locale@gnu.org.in>
+gnumeric,2446,1777,42151,1081,722,1951,2269,46374,5.274507267003062,Malayalam <locale@gnu.org.in>
+goffice,683,648,2659,315,353,697,601,3990,17.11779448621554,Malayalam <locale@gnu.org.in>
+goffice04,683,648,2659,315,353,697,601,3990,17.11779448621554,Malayalam <locale@gnu.org.in>
+gok,117,0,1750,96,0,333,118,1867,6.266738082485271,Malayalam
+gossip,6,125,1835,6,70,349,7,1966,0.3051881993896236,Malayalam <locale@gnu.org.in>
+gthumb,212,5,2026,158,3,616,209,2243,9.451627284886314,Malayalam <locale@gnu.org.in>
+gtk2,8362,2,3728,1981,1,430,6507,12092,69.15315911346345,Malayalam
+gtk2-engines,58,0,25,27,0,6,56,83,69.87951807228916,Malayalam <en@li.org>
+gtkhtml3,920,0,0,398,0,0,945,920,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+gtksourceview,67,0,782,58,0,284,67,849,7.891637220259129,Malayalam
+gtksourceview2,67,0,782,58,0,284,67,849,7.891637220259129,Malayalam
+gucharmap,454,0,318,217,0,64,480,772,58.80829015544041,Malayalam
+gvfs,889,0,0,235,0,0,798,889,100.0,Malayalam <smc-discuss@googlegroups.com>
+hwbrowser,116,0,0,51,0,0,107,116,100.0,Malayalam
+im-chooser,457,0,0,94,0,0,372,457,100.0,<en@li.org>
+initscripts,3806,0,0,893,0,0,3680,3806,100.0,<en@li.org>
+iso-codes,956,86,291,424,23,133,790,1333,71.7179294823706,Malayalam
+kexec-tools,95,39,72,9,2,3,64,206,46.116504854368934,Malayalam <en@li.org>
+libbonobo,543,0,0,107,0,0,432,543,100.0,Malayalam <en@li.org>
+libbonoboui,361,0,0,114,0,0,357,361,100.0,Malayalam
+libgda,29,23,2235,29,14,433,30,2287,1.2680367293397463,Malayalam <locale@gnu.org.in>
+libgdl,43,13,629,30,6,104,40,685,6.2773722627737225,<ml@li.org>
+libgnome,1691,0,0,263,0,0,1312,1691,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+libgnomecanvas,357,0,0,94,0,0,265,357,100.0,Malayalam
+libgnomedb,14,103,2987,13,55,561,15,3104,0.4510309278350515,Malayalam <locale@gnu.org.in>
+libgnomekbd,183,0,94,43,0,7,149,277,66.06498194945848,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+libgnomeprint22,168,0,0,98,0,0,199,168,100.0,Malayalam
+libgnomeprintui22,395,0,77,144,0,7,405,472,83.6864406779661,Malayalam
+libgnomeui,1309,0,0,334,0,0,1036,1309,100.0,Malayalam
+libgtop2,134,0,0,44,0,0,129,134,100.0,Malayalam
+libgweather,10353,9,4,6759,5,4,10608,10366,99.87459000578815,Malayalam
+libuser,1064,0,0,225,0,0,1004,1064,100.0,<en@li.org>
+libvirt,2285,2005,2008,507,395,396,2069,6298,36.28135916163862,Malayalam
+libwnck,290,0,834,97,0,144,235,1124,25.800711743772244,
+metacity,921,0,7138,224,0,291,848,8059,11.428216900359846,Malayalam <en@li.org>
+mousetweaks,294,0,0,76,0,0,253,294,100.0,Swathanthra Malayalam Computing|||സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+nautilus,7174,0,388,1212,0,46,5305,7562,94.86908225337213,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+nautilus-cd-burner,1315,0,0,213,0,0,1049,1315,100.0,
+nautilus-open-terminal,24,0,0,5,0,0,21,24,100.0,Malayalam
+orca,1025,0,2072,540,0,549,1095,3097,33.09654504359057,<en@li.org>
+pam,445,39,33,96,8,6,391,517,86.073500967118,Malayalam <en@li.org>
+passwd,291,0,0,51,0,0,286,291,100.0,Malayalam <en@li.org>
+pessulus,88,0,0,30,0,0,134,88,100.0,Malayalam
+planner,183,421,485,122,171,62,179,1089,16.804407713498623,Malayalam <locale@gnu.org.in>
+pmount,0,0,723,0,0,63,0,723,0.0,Malayalam <ml@li.org>
+policycoreutils,1214,0,0,204,0,0,1048,1214,100.0,Malayalam
+publican,370,42,2933,41,3,207,268,3345,11.061285500747383,Malayalam
+publican-fedora,898,0,181,182,0,20,736,1079,83.22520852641334,Malayalam
+pykickstart,284,0,0,25,0,0,220,284,100.0,<en@li.org>
+redhat-menus,261,0,0,86,0,0,254,261,100.0,Malayalam <en@li.org>
+revisor,0,0,3891,0,0,657,0,3891,0.0,
+rhgb,59,0,0,11,0,0,55,59,100.0,Malayalam <en@li.org>
+rhpl,185,0,0,80,0,0,181,185,100.0,Malayalam
+rhpxl,130,0,0,44,0,0,123,130,100.0,<en@li.org>
+rhythmbox,54,3,686,46,3,198,62,743,7.267833109017497,Malayalam <locale@gnu.org.in>
+sabayon,1178,0,0,230,0,0,1091,1178,100.0,Malayalam
+scim,1173,0,0,281,0,0,937,1173,100.0,<en@li.org>
+seahorse,854,0,2706,308,0,450,876,3560,23.98876404494382,<en@li.org>
+setroubleshoot,147,110,287,57,34,56,151,544,27.02205882352941,Malayalam <en@li.org>
+setroubleshoot-plugins,4387,2665,848,164,57,15,3098,7900,55.53164556962026,Malayalam <en@li.org>
+setuptool,60,0,0,17,0,0,60,60,100.0,Malayalam
+smolt,50,0,753,20,0,70,47,803,6.226650062266501,Malayalam <en@li.org>
+sos,283,0,0,37,0,0,224,283,100.0,Malayalam
+sound-juicer,768,0,85,141,0,6,710,853,90.03516998827668,Malayalam
+specspo,305,1961,303028,59,412,16379,259,305294,0.09990369938485526,LANGUAGE <LL@li.org>
+stellarium,839,0,308,416,0,71,891,1147,73.14734088927636,Malayalam <ml@li.org>
+sugar,0,0,234,0,0,92,0,234,0.0,LANGUAGE <LL@li.org>
+sugar-journal,0,0,68,0,0,43,0,68,0.0,LANGUAGE <LL@li.org>
+switchdesk,137,0,0,19,0,0,103,137,100.0,Malayalam
+system-config-bind,9346,65,16,1054,6,5,7093,9427,99.14076588522329,Malayalam
+system-config-boot,46,0,0,10,0,0,41,46,100.0,Malayalam <en@li.org>
+system-config-date,1038,0,660,617,0,52,968,1698,61.130742049469966,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,367,398,100.0,Malayalam
+system-config-firewall,2350,0,0,276,0,0,1827,2350,100.0,<en@li.org>
+system-config-httpd,858,0,0,223,0,0,739,858,100.0,Malayalam
+system-config-kdump,383,0,0,35,0,0,272,383,100.0,Malayalam
+system-config-keyboard,78,0,0,12,0,0,63,78,100.0,Malayalam
+system-config-kickstart,1054,0,0,281,0,0,982,1054,100.0,Malayalam <en@li.org>
+system-config-language,49,0,0,11,0,0,38,49,100.0,Malayalam
+system-config-lvm,2049,35,58,320,4,12,1725,2142,95.65826330532214,Malayalam
+system-config-netboot,1103,0,0,165,0,0,950,1103,100.0,Malayalam
+system-config-network,2856,0,0,688,0,0,2721,2856,100.0,<en@li.org>
+system-config-nfs,332,0,1185,71,0,66,307,1517,21.88529993408042,LANGUAGE <LL@li.org>
+system-config-printer,2265,0,0,454,0,0,1948,2265,100.0,<en@li.org>
+system-config-rootpassword,116,0,0,19,0,0,92,116,100.0,<en@li.org>
+system-config-samba,432,0,1188,137,0,62,409,1620,26.666666666666668,LANGUAGE <LL@li.org>
+system-config-services,27,0,1060,13,0,98,28,1087,2.483900643974241,LANGUAGE <LL@li.org>
+system-config-users,1337,0,1054,172,0,77,1047,2391,55.91802593057298,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,140,134,100.0,Malayalam
+tomboy,779,0,1540,252,0,106,815,2319,33.592065545493746,Malayalam
+totem,1225,0,596,372,0,45,1147,1821,67.27073036792972,Malayalam
+totem-pl-parser,1225,0,596,372,0,45,1147,1821,67.27073036792972,Malayalam
+usermode,564,0,0,95,0,0,452,564,100.0,<en@li.org>
+vinagre,452,0,0,94,0,0,361,452,100.0,<en@li.org>
+vino,317,0,227,62,0,10,254,544,58.27205882352941,Malayalam
+virt-manager,1428,283,1052,370,84,142,1265,2763,51.68295331161781,Malayalam <en@li.org>
+vte,96,0,0,18,0,0,85,96,100.0,Malayalam
+yelp,307,0,650,140,0,99,321,957,32.07941483803553,Malayalam
+zenity,541,0,0,120,0,0,487,541,100.0,Malayalam

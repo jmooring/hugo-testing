@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,607,0,2743,221,0,665,676,3350,18.119402985074625,Somali <so@li.org>
+gcompris,2167,37,7399,623,2,502,2100,9603,22.565864833906073,Somali <mimursal@mimfi-tech.com>
+iso-codes,125,218,765,97,60,298,107,1108,11.281588447653428,Somali
+owncloud,0,0,1307,0,0,337,0,1307,0.0,Somali (http://www.transifex.com/projects/p/owncloud/language/so/)
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+budgie-control-center,0,0,1313,0,0,756,0,1313,0.0,
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,
+entangle,0,0,953,0,0,229,0,953,0.0,Iloko
+gnome-control-center,0,0,1313,0,0,756,0,1313,0.0,
+initial-setup,0,0,33,0,0,7,0,33,0.0,Iloko
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+policycoreutils,8,0,12163,8,0,1768,10,12171,0.06573001396762797,Iloko
+python-blivet,37,0,547,3,0,75,41,584,6.335616438356165,Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Iloko
+python-meh,0,0,109,0,0,23,0,109,0.0,Iloko
+redhat-menus,106,6,149,43,4,39,164,261,40.61302681992337,
+sos,0,0,122,0,0,30,0,122,0.0,none
+switchdesk,10,12,100,2,6,11,14,122,8.19672131147541,

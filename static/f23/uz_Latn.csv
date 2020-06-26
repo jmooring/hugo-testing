@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,0,0,151684,0,0,17694,0,151684,0.0,Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/)
+garcon,109,0,0,34,0,0,108,109,100.0,Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/)
+modem-manager-gui,1250,0,1861,348,0,191,1208,3111,40.18000642880103,Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/)
+quassel,0,0,5382,0,0,1211,0,5382,0.0,Uzbek (Latin) (http://www.transifex.com/ald/quassel/language/uz@Latn/)
+uget,721,20,344,286,5,71,775,1085,66.45161290322581,Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/)
+xfce4-xkb-plugin,43,0,0,17,0,0,49,43,100.0,Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/)

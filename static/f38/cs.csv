@@ -1,0 +1,1529 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,300,0,0,56,0,0,268,300,100.0,Czech (http://www.transifex.com/wildfire-games/0ad/language/cs/)
+GConf2,4088,0,0,497,0,0,3994,4088,100.0,Czech <gnome-cs-list@gnome.org>
+LabPlot,2785,0,10358,1434,0,2093,2836,13143,21.189987065357986,Czech <kde-i18n-doc@kde.org>
+ModemManager,134,7,6,17,1,1,166,147,91.15646258503402,čeština <gnome-cs-list@gnome.org>
+NetworkManager,1233,2986,24975,398,568,1285,1194,29194,4.223470576145783,Czech <gnome-cs-list@gnome.org>
+NetworkManager-fortisslvpn,317,2,2,57,1,2,282,321,98.75389408099689,Czech <gnome-cs-list@gnome.org>
+NetworkManager-iodine,80,0,0,25,0,0,93,80,100.0,čeština <gnome-cs-list@gnome.org>
+NetworkManager-l2tp,415,0,847,83,0,108,401,1262,32.88431061806656,Czech <gnome-cs-list@gnome.org>
+NetworkManager-libreswan,462,0,0,75,0,0,437,462,100.0,čeština <gnome-cs-list@gnome.org>
+NetworkManager-openconnect,6029,1852,1678,1081,311,210,6216,9559,63.071450988597135,Czech <gnome-cs-list@gnome.org>
+NetworkManager-openvpn,2061,54,42,287,8,9,1932,2157,95.54937413073714,Czech <gnome-cs-list@gnome.org>
+NetworkManager-pptp,517,0,0,86,0,0,493,517,100.0,Czech <gnome-cs-list@gnome.org>
+NetworkManager-ssh,297,0,0,73,0,0,282,297,100.0,Czech <gnome-cs-list@gnome.org>
+NetworkManager-sstp,834,10,34,141,3,5,784,878,94.98861047835992,Czech <gnome-cs-list@gnome.org>
+NetworkManager-vpnc,616,0,0,102,0,0,580,616,100.0,Czech <gnome-cs-list@gnome.org>
+PackageKit,1283,0,0,321,0,0,1319,1283,100.0,Czech (http://www.transifex.com/freedesktop/packagekit/language/cs/)
+Thunar,5430,0,0,976,0,0,5229,5430,100.0,Czech (https://app.transifex.com/xfce/teams/16840/cs/)
+WindowMaker,4840,0,48,928,0,34,4362,4888,99.01800327332242,czech <cs@li.org>
+Zim,2601,393,392,625,84,68,2354,3386,76.81630242173657,Czech <https://hosted.weblate.org/projects/zim/develop/cs/>
+a2ps,1491,41,0,181,3,0,1428,1532,97.32375979112271,Czech <translation-team-cs@lists.sourceforge.net>
+abattis-cantarell-fonts,27,0,0,3,0,0,22,27,100.0,čeština <gnome-cs-list@gnome.org>
+abrt,3676,0,0,417,0,0,3456,3676,100.0,Czech <https://translate.fedoraproject.org/projects/abrt/abrt/cs/>
+accerciser,4556,0,0,434,0,0,4351,4556,100.0,Czech <gnome-cs-list@gnome.org>
+accountsservice,59,0,0,10,0,0,59,59,100.0,Czech (http://www.transifex.com/freedesktop/accountsservice/language/cs/)
+aisleriot,23663,0,0,1604,0,0,20777,23663,100.0,Czech <gnome-cs-list@gnome.org>
+akonadi-calendar-tools,515,0,245,123,0,43,501,760,67.76315789473685,Czech <kde-i18n-doc@kde.org>
+akonadi-import-wizard,285,0,109,78,0,6,291,394,72.33502538071066,Czech <kde-i18n-doc@kde.org>
+akonadiconsole,271,0,520,188,0,189,284,791,34.260429835651074,Czech <kde-i18n-doc@kde.org>
+akregator,1853,0,0,430,0,0,1720,1853,100.0,Czech <kde-i18n-doc@kde.org>
+alacarte,48,0,0,21,0,0,44,48,100.0,čeština <gnome-cs-list@gnome.org>
+alexandria,900,102,175,252,28,34,843,1177,76.46559048428207,Czech <cs@li.org>
+alligator,171,0,0,77,0,0,179,171,100.0,Czech <kde-i18n-doc@kde.org>
+almanah,805,0,0,143,0,0,810,805,100.0,Czech <gnome-cs-list@gnome.org>
+amarok,15696,41,82,2777,1,2,15513,15819,99.22245401099943,Czech <kde-i18n-doc@kde.org>
+amtk,228,0,0,79,0,0,204,228,100.0,čeština <gnome-cs-list@gnome.org>
+anaconda,8260,142,337,1391,37,21,8114,8739,94.51882366403478,Czech <https://translate.fedoraproject.org/projects/anaconda/f38/cs/>
+analitza,382,0,610,130,0,92,361,992,38.50806451612903,Czech <kde-i18n-doc@kde.org>
+android-tools,15965,50,924,2479,8,128,15898,16939,94.24995572347837,Czech <translation-team-cs@lists.sourceforge.net>
+angelfish,424,0,265,152,0,21,427,689,61.53846153846154,Czech <kde-i18n-doc@kde.org>
+anjuta,25695,0,0,3156,0,0,23896,25695,100.0,čeština <gnome-cs-list@gnome.org>
+apostrophe,363,23,59,138,6,8,372,445,81.57303370786518,
+appeditor,583,0,0,119,0,0,523,583,100.0,
+appstream,1285,397,4400,282,49,337,1244,6082,21.127918447878987,Czech <https://hosted.weblate.org/projects/appstream/translations/cs/>
+apt,5502,2,52,734,1,11,4970,5556,99.0280777537797,Czech <debian-l10n-czech@lists.debian.org>
+apt-cacher-ng,394,0,0,25,0,0,312,394,100.0,Czech <debian-l10n-czech@lists.debian.org>
+aqualung,3594,0,0,955,0,0,3691,3594,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+arandr,173,0,0,38,0,0,154,173,100.0,Czech <https://hosted.weblate.org/projects/arandr/translations/cs/>
+ardour6,22076,0,268,4773,0,54,23217,22344,98.80057286072324,Czech <translation-team-cs@lists.sourceforge.net>
+ardour7,22076,0,268,4773,0,54,23217,22344,98.80057286072324,Czech <translation-team-cs@lists.sourceforge.net>
+ardour8,28268,0,0,5900,0,0,28780,28268,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+arianna,124,0,4,63,0,2,128,128,96.875,Czech <kde-i18n-doc@kde.org>
+ark,1962,0,0,368,0,0,1752,1962,100.0,Czech <kde-i18n-doc@kde.org>
+artikulate,215,0,114,114,0,30,213,329,65.34954407294833,Czech <kde-i18n-doc@kde.org>
+aspell,1706,33,58,290,7,6,1521,1797,94.93600445186422,Czech <translation-team-cs@lists.sourceforge.net>
+asunder,431,25,37,79,2,11,413,493,87.4239350912779,Czech <kde-i18n-doc@kde.org>
+at-spi2-core,447,0,0,171,0,0,422,447,100.0,Czech <gnome-cs-list@gnome.org>
+atomix,169,0,0,44,0,0,161,169,100.0,čeština <gnome-cs-list@gnome.org>
+atril,2340,8,5478,531,2,497,2283,7826,29.900332225913623,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+attr,212,142,0,27,3,0,214,354,59.887005649717516,Czech <translation-team-cs@lists.sourceforge.net>
+audacious,811,0,88,348,0,19,844,899,90.21134593993327,Czech (http://www.transifex.com/audacious/audacious/language/cs/)
+audacious-plugins,3800,0,284,909,0,57,3748,4084,93.04603330068561,Czech (http://www.transifex.com/audacious/audacious/language/cs/)
+audacity,17681,451,374,4144,105,54,17746,18506,95.54198638279478,Czech <translation-team-cs@lists.sourceforge.net>
+audex,3269,0,78,400,0,12,3201,3347,97.66955482521661,Czech <kde-i18n-doc@kde.org>
+audiotube,234,0,0,93,0,0,252,234,100.0,Czech <kde-i18n-doc@kde.org>
+authselect,5900,360,49,631,17,1,5300,6309,93.51719765414487,Czech <https://translate.fedoraproject.org/projects/authselect/master-application/cs/>
+avahi,642,2,224,133,2,33,607,868,73.963133640553,Czech (http://www.transifex.com/lennart/avahi/language/cs/)
+avogadro2,100,94,180,54,51,48,291,374,26.737967914438503,Czech <https://hosted.weblate.org/projects/avogadro/avogadroapp/cs/>
+avogadro2-libs,728,792,3092,395,251,743,851,4612,15.784908933217693,Czech <kde-i18n-doc@kde.org>
+b43-fwcutter,67,0,0,4,0,0,68,67,100.0,Czech <debian-l10n-czech@lists.debian.org>
+b43-tools,67,0,0,4,0,0,68,67,100.0,Czech <debian-l10n-czech@lists.debian.org>
+backintime,1115,788,100,230,100,19,1266,2003,55.666500249625564,Czech <https://translate.codeberg.org/projects/backintime/common/cs/>
+baloo-widgets,67,0,0,40,0,0,70,67,100.0,Czech <kde-i18n-doc@kde.org>
+balsa,19866,0,83,2315,0,28,18494,19949,99.58393904456364,čeština <gnome-cs-list@gnome.org>
+baobab,1411,0,0,150,0,0,1317,1411,100.0,Czech <gnome-cs-list@gnome.org>
+bash,11740,0,0,597,0,0,10611,11740,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+bibletime,4192,0,5404,334,0,312,3335,9596,43.6848686952897,Czech (http://www.transifex.com/bibletime/bibletime/language/cs/)
+bijiben,1277,0,0,246,0,0,1185,1277,100.0,Czech <gnome-cs-list@gnome.org>
+bison,92,44,47,23,9,14,99,183,50.27322404371585,Czech <translation-team-cs@lists.sourceforge.net>
+bitstower-markets,232,0,0,58,0,0,216,232,100.0,Czech <https://hosted.weblate.org/projects/markets/markets/cs/>
+blackbox-terminal,672,97,101,141,27,24,574,870,77.24137931034483,Czech <>
+bleachbit,1374,0,434,282,0,67,1367,1808,75.99557522123894,Czech <cs@li.org>
+blender,35717,0,0,11309,0,0,30693,35717,100.0,Taby <tabycz@gmail.com>
+blinken,134,0,0,47,0,0,139,134,100.0,Czech <kde-i18n-doc@kde.org>
+blivet-gui,1063,0,1,264,0,1,1078,1064,99.90601503759399,Czech <https://translate.fedoraproject.org/projects/blivet/blivet-gui/cs/>
+blogilo,382,0,1010,190,0,147,381,1392,27.442528735632184,Czech <kde-i18n-doc@kde.org>
+bluedevil,535,0,0,191,0,0,516,535,100.0,Czech <kde-i18n-doc@kde.org>
+bluefish,5012,46,39,1565,15,5,5258,5097,98.33235236413577,čeština <gnome-cs-list@gnome.org>
+blueman,1361,375,604,472,117,232,1416,2340,58.162393162393165,Czech <https://hosted.weblate.org/projects/blueman/blueman/cs/>
+boinc-client,17588,0,2730,3151,0,248,16285,20318,86.56363815336155,Czech (http://www.transifex.com/boinc/boinc/language/cs/)
+bomber,110,0,0,27,0,0,109,110,100.0,Czech <kde-i18n-doc@kde.org>
+bookworm,667,54,74,135,6,8,667,795,83.8993710691824,Czech <https://hosted.weblate.org/projects/bookworm/bookworm/cs/>
+boswars,176,19,21,50,6,17,165,216,81.48148148148148,Czech
+bottles,3225,32,194,643,8,25,3080,3451,93.45117357287742,Czech <https://hosted.weblate.org/projects/bottles/bottles/cs/>
+bovo,81,0,0,25,0,0,76,81,100.0,Czech <kde-i18n-doc@kde.org>
+brasero,7751,0,0,1113,0,0,6717,7751,100.0,Czech <gnome-cs-list@gnome.org>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+bubblemail,0,0,478,0,0,141,0,478,0.0,none
+budgie-control-center,7445,0,456,2387,0,134,7452,7901,94.228578660929,Czech (https://app.transifex.com/buddiesofbudgie/teams/129844/cs/)
+budgie-desktop,952,0,711,274,0,145,809,1663,57.245941070354775,Czech (https://app.transifex.com/buddiesofbudgie/teams/129844/cs/)
+budgie-desktop-view,0,0,17,0,0,7,0,17,0.0,Czech (https://www.transifex.com/buddiesofbudgie/teams/129844/cs/)
+budgie-screensaver,291,0,0,58,0,0,276,291,100.0,Czech <gnome-cs-list@gnome.org>
+byobu,158,0,19,41,0,3,132,177,89.26553672316385,Czech <cs@li.org>
+byzanz,236,0,0,52,0,0,225,236,100.0,Czech <gnome-cs-list@gnome.org>
+bzflag,2769,0,0,585,0,0,2692,2769,100.0,
+cairo-dock,5688,0,1776,699,0,128,4624,7464,76.20578778135048,Czech <cs@li.org>
+cairo-dock-plug-ins,3167,0,7036,620,0,1102,2781,10203,31.039890228364207,Czech <cs@li.org>
+caja,9675,0,0,1604,0,0,9238,9675,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+caja-actions,7359,0,11456,810,0,706,6565,18815,39.11241031092214,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+caja-extensions,760,0,0,145,0,0,720,760,100.0,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+calamares,521,0,0,91,0,0,562,521,100.0,Czech (Czech Republic) (https://app.transifex.com/calamares/teams/20061/cs_CZ/)
+calibre,129681,0,42814,11686,0,7773,112880,172495,75.17957042233108,Czech (http://www.transifex.com/calibre/calibre/language/cs/)
+calindori,340,0,210,153,0,33,370,550,61.81818181818181,Czech <kde-i18n-doc@kde.org>
+calligra,19996,0,15956,6232,0,1577,18316,35952,55.6186025812194,Czech <kde-i18n-doc@kde.org>
+calligraplan,3297,0,6646,1316,0,849,3127,9943,33.15900633611586,Czech <kde-i18n-doc@kde.org>
+calls,44,0,0,19,0,0,39,44,100.0,Czech <gnome-cs-list@gnome.org>
+camorama,455,132,248,96,29,44,420,835,54.49101796407185,Czech <cs@li.org>
+cantor,1288,0,2746,465,0,292,1313,4034,31.928606841844324,Czech <kde-i18n-doc@kde.org>
+caribou,169,0,0,57,0,0,174,169,100.0,Czech <gnome-cs-list@gnome.org>
+cataclysm-dda,18921,0,858635,2207,0,69514,18392,877556,2.156101718864665,Czech (https://www.transifex.com/cataclysm-dda-translators/teams/2217/cs/)
+catfish,967,0,110,145,0,15,910,1077,89.78644382544104,Czech (https://www.transifex.com/xfce/teams/16840/cs/)
+ccdciel,6906,71,49,1537,5,13,6264,7026,98.29205807002562,Czech <cz@li.org>
+ccsm,509,10,72,132,6,25,445,591,86.12521150592217,Czech <cs@li.org>
+cdcollect,1200,22,6,244,4,2,1061,1228,97.71986970684038,Czech <cs@li.org>
+celluloid,1469,66,75,286,13,12,1476,1610,91.24223602484473,Czech <https://hosted.weblate.org/projects/celluloid/celluloid/cs/>
+centerim,2805,50,9,802,14,1,2688,2864,97.93994413407822,Czech <translation-team-cs@lists.sourceforge.net>
+certmonger,18,27,2786,9,7,457,19,2831,0.6358177322500883,Czech (Czech Republic) (http://www.transifex.com/projects/p/fedora/language/cs_CZ/)
+cervisia,1615,0,0,420,0,0,1437,1615,100.0,Czech <kde-i18n-doc@kde.org>
+chatty,867,0,0,319,0,0,855,867,100.0,Czech
+cheese,2170,0,0,242,0,0,1949,2170,100.0,Czech <gnome-cs-list@gnome.org>
+chemtool,1124,0,60,226,0,35,1074,1184,94.93243243243244,cs
+chkconfig,592,1,0,107,1,0,540,593,99.83136593591905,Czech <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/cs/>
+cinnamon-control-center,1304,0,0,752,0,0,1298,1304,100.0,Czech <Czech <cs-users@lists.fedoraproject.org>>
+cinnamon-desktop,234,0,0,32,0,0,201,234,100.0,Czech <gnome-cs-list@gnome.org>
+cinnamon-translations,23673,0,0,5340,0,0,23298,23673,100.0,Czech <cs@li.org>
+clamtk,551,0,0,137,0,0,486,551,100.0,ITM <hudan@itmanagement.cz>
+clapper,253,0,0,103,0,0,277,253,100.0,Czech
+claws-mail,20864,0,0,4112,0,0,19146,20864,100.0,Czech <cs@li.org>
+clementine,3803,0,0,1061,0,0,3760,3803,100.0,Czech (http://app.transifex.com/davidsansome/clementine/language/cs/)
+clutter,3057,0,0,675,0,0,2742,3057,100.0,Czech <gnome-cs-list@gnome.org>
+cockpit,8449,483,96,2059,129,11,8588,9028,93.58661940629153,Czech <https://translate.fedoraproject.org/projects/cockpit/main/cs/>
+cockpit-machines,2960,30,105,658,8,18,3016,3095,95.63812600969305,Czech <https://translate.fedoraproject.org/projects/cockpit-machines/main/cs/>
+cockpit-ostree,170,27,62,67,13,16,199,259,65.63706563706563,Czech <https://translate.fedoraproject.org/projects/cockpit-ostree/main/cs/>
+cockpit-podman,1095,0,0,321,0,0,1149,1095,100.0,Czech <https://translate.fedoraproject.org/projects/cockpit-podman/main/cs/>
+codeblocks,613,0,0,79,0,0,615,613,100.0,Czech <https://hosted.weblate.org/projects/hunspell/translations/cs/>
+cogl,393,0,0,80,0,0,414,393,100.0,Czech <gnome-cs-list@gnome.org>
+coin,34,0,218,13,0,37,33,252,13.492063492063492,none
+colobot,59878,0,1671,4941,0,162,50238,61549,97.28508992834976,Czech <next_ghost@quick.cz>
+colord,1966,0,0,251,0,0,1868,1966,100.0,Czech (http://www.transifex.com/freedesktop/colord/language/cs/)
+colord-kde,259,0,23,91,0,13,246,282,91.84397163120568,Czech <kde-i18n-doc@kde.org>
+common-lisp-controller,57,0,0,7,0,0,49,57,100.0,Czech <debian-l10n-czech@lists.debian.org>
+compiz,2115,1584,686,499,249,131,2080,4385,48.23261117445838,Czech <opensuse-cz@opensuse.org>
+compiz-plugins-experimental,684,700,3089,215,230,447,633,4473,15.29175050301811,Czech <cs@li.org>
+compiz-plugins-extra,1117,163,2493,360,39,351,1035,3773,29.605088788762256,Czech <cs@li.org>
+compiz-plugins-main,1038,25,3155,337,9,465,996,4218,24.608819345661452,Czech <cs@li.org>
+console-setup,984,0,0,179,0,0,845,984,100.0,Czech <provoz@debian.cz>
+coolreader,695,0,6,269,0,4,733,701,99.14407988587732,Czech <kde-i18n-doc@kde.org>
+coreutils,19930,1354,262,1769,55,23,19467,21546,92.49976793836443,Czech <translation-team-cs@lists.sourceforge.net>
+cozy,1108,0,1642,208,0,140,1027,2750,40.29090909090909,Czech (https://www.transifex.com/geigi/teams/78138/cs/)
+cpeditor,490,0,157,354,0,29,489,647,75.73415765069552,Czech <kde-i18n-doc@kde.org>
+cpu-x,714,463,306,165,79,74,746,1483,48.14565070802427,Czech <https://hosted.weblate.org/projects/cpu-x/translations/cs/>
+cracklib,90,0,0,15,0,0,73,90,100.0,czech <suse@suse.cz>
+crrcsim,654,0,0,216,0,0,659,654,100.0,
+cryptsetup,5904,0,0,808,0,0,5970,5904,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+cups,1141,0,11901,527,0,3489,1101,13042,8.748658181260543,Czech
+cups-pk-helper,149,0,0,22,0,0,129,149,100.0,Czech (http://www.transifex.com/freedesktop/cups-pk-helper/language/cs/)
+cura,22850,0,656,2624,0,58,19609,23506,97.20922317706118,DenyCZ <www.github.com/DenyCZ>
+d-feet,198,0,0,57,0,0,204,198,100.0,Czech <gnome-cs-list@gnome.org>
+darktable,27127,0,0,4900,0,0,25498,27127,100.0,
+dasher,7203,0,0,472,0,0,6495,7203,100.0,Czech <gnome-cs-list@gnome.org>
+davfs2,749,182,63,109,21,9,755,994,75.35211267605634,<cs@li.org>
+davix,76,268,342,14,50,71,70,686,11.078717201166182,cz
+dayplanner,74,216,806,44,44,98,68,1096,6.751824817518248,Czech <cs@li.org>
+dconf-editor,2955,0,0,394,0,0,2874,2955,100.0,čeština <gnome-cs-list@gnome.org>
+dcraw,597,0,0,121,0,0,626,597,100.0,
+ddccontrol,1576,0,0,245,0,0,1486,1576,100.0,Czech <cs@li.org>
+debconf,785,17,60,86,4,4,695,862,91.06728538283063,Czech <debian-l10n-czech@lists.debian.org>
+deepin-daemon,1199,0,15,255,0,4,1291,1214,98.76441515650741,Czech (https://www.transifex.com/linuxdeepin/teams/3617/cs/)
+deepin-pw-check,63,0,10,13,0,2,81,73,86.3013698630137,Czech (https://www.transifex.com/linuxdeepin/teams/3617/cs/)
+deja-dup,3357,0,272,420,0,23,3280,3629,92.5048222650868,Czech <cs@li.org>
+deluge,1901,0,2439,716,0,617,1778,4340,43.80184331797235,Czech <cs@li.org>
+denemo,49796,0,0,6160,0,0,47983,49796,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+desktopfolder,367,0,0,115,0,0,338,367,100.0,Czech (https://www.transifex.com/ubuntu-budgie/teams/72251/cs/)
+devhelp,1161,0,0,150,0,0,1086,1161,100.0,čeština <gnome-cs-list@gnome.org>
+dia,6601,0,0,2359,0,0,6826,6601,100.0,Czech <gnome-cs-list@gnome.org>
+dialect,494,0,4,207,0,1,467,498,99.19678714859438,Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/>
+dialog,25,0,0,23,0,0,25,25,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+diffutils,1864,0,0,263,0,0,1853,1864,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+digikam,43955,7,18255,8476,1,1914,39457,62217,70.64789366250382,Czech <kde-i18n-doc@kde.org>
+dino,1040,0,78,267,0,27,1001,1118,93.02325581395348,none
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+dnf,4057,0,661,793,0,86,3916,4718,85.98982619754133,Czech <https://translate.fedoraproject.org/projects/dnf/dnf-master/cs/>
+dnf-plugins-core,1094,0,1043,195,0,121,1070,2137,51.19326158165652,Czech <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/cs/>
+dnf-plugins-extras,121,0,0,21,0,0,129,121,100.0,Czech <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/cs/>
+dnf5,2897,68,2427,441,13,380,2809,5392,53.72774480712166,LANGUAGE <LL@li.org>
+dnfdragora,1771,0,0,474,0,0,1778,1771,100.0,Czech (https://app.transifex.com/MageiaLinux/teams/9361/cs/)
+dolphin,2426,0,2863,678,0,98,2360,5289,45.86878426923804,Czech <kde-i18n-doc@kde.org>
+dolphin-emu,1307,0,14796,539,0,2101,1356,16103,8.116500031050116,Czech (http://app.transifex.com/delroth/dolphin-emu/language/cs/)
+dolphin-plugins,611,0,800,204,0,201,586,1411,43.30262225372076,Czech <kde-i18n-doc@kde.org>
+doublecmd,12106,3,126,3420,2,39,10861,12235,98.94564773191664,
+dpkg,11870,0,0,1451,0,0,11128,11870,100.0,Czech <debian-l10n-czech@lists.debian.org>
+dragon,248,0,0,82,0,0,239,248,100.0,Czech <kde-i18n-doc@kde.org>
+drawing,1535,153,218,467,27,11,1419,1906,80.53515215110178,Czech <gnome-cs-list@gnome.org>
+drgeo,1960,25,0,458,3,0,1751,1985,98.74055415617129,Czech <cs@li.org>
+duplicity,1933,0,384,289,0,41,1984,2317,83.426845058265,Czech
+dvdisaster,8805,0,1498,960,0,85,8389,10303,85.46054547219256,none (individual translator)
+e16,15,0,2600,9,0,507,15,2615,0.5736137667304015,Czech <cs@li.org>
+e2fsprogs,10626,0,0,1615,0,0,11048,10626,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+easyeffects,1100,336,2904,488,68,179,1096,4340,25.34562211981567,Czech <https://hosted.weblate.org/projects/easyeffects/main/cs/>
+easystroke,470,0,0,137,0,0,419,470,100.0,Czech <cs@li.org>
+easytag,7780,0,0,1188,0,0,7543,7780,100.0,Czech <gnome-cs-list@gnome.org>
+edgar,11364,0,110,1503,0,32,9597,11474,99.04131078961129,Czech <cs@li.org>
+efl,123,18,15,49,6,4,116,156,78.84615384615384,Czech <kde-i18n-doc@kde.org>
+eiciel,331,0,0,85,0,0,322,331,100.0,Czech <https://l10n.opensuse.org/projects/eiciel/master/cs/>
+eiskaltdcpp,935,6,2685,328,2,823,885,3626,25.785990071704358,Czech (https://www.transifex.com/tehnick/teams/11818/cs/)
+electrum,8818,0,3945,1708,0,719,7918,12763,69.09033926192902,Czech
+elementary-calculator,163,2,30,60,1,4,162,195,83.58974358974359,Czech <https://l10n.elementary.io/projects/calculator/calculator/cs/>
+elementary-calendar,572,3,0,205,1,0,586,575,99.47826086956522,Czech <https://l10n.elementary.io/projects/calendar/calendar/cs/>
+elementary-camera,112,5,16,31,1,3,116,133,84.21052631578947,Czech <https://l10n.elementary.io/projects/camera/camera/cs/>
+elementary-code,1102,1,511,244,1,45,1098,1614,68.27757125154895,Czech <https://l10n.elementary.io/projects/code/code/cs/>
+elementary-files,2396,0,94,541,0,10,2389,2490,96.22489959839358,Czech <https://l10n.elementary.io/projects/files/files/cs/>
+elementary-icon-theme,30,8,356,7,2,69,28,394,7.614213197969544,Czech <https://l10n.elementary.io/projects/desktop/icons-extra/cs/>
+elementary-mail,454,91,243,126,21,32,457,788,57.61421319796954,Czech <https://l10n.elementary.io/projects/mail/mail/cs/>
+elementary-music,20,18,167,12,8,17,20,205,9.75609756097561,Czech <https://l10n.elementary.io/projects/music/music/cs/>
+elementary-notifications,15,0,29,4,0,6,14,44,34.090909090909086,Czech <https://l10n.elementary.io/projects/desktop/notifications-extra/cs/>
+elementary-onboarding,216,13,88,49,3,14,206,317,68.13880126182966,Czech <https://l10n.elementary.io/projects/installer/onboarding/cs/>
+elinks,4762,4563,4043,1165,386,274,4674,13368,35.62238180730102,Czech <translation-team-cs@lists.souceforge.net>
+elisa-player,793,0,0,270,0,0,775,793,100.0,Czech <kde-i18n-doc@kde.org>
+emerald,631,60,5,209,10,1,616,696,90.66091954022988,Czech <cs@li.org>
+engrampa,2357,0,5481,465,0,428,2179,7838,30.071446797652463,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+enigma,10412,0,0,1087,0,0,8838,10412,100.0,Czech (http://www.transifex.com/michtrz/enigma/language/cs/)
+enlightenment,4678,3403,972,1707,472,205,4668,9053,51.67347840494864,Czech <kde-i18n-doc@kde.org>
+entangle,878,0,87,219,0,14,919,965,90.98445595854923,Czech <https://translate.stg.fedoraproject.org/projects/entangle/master/cs/>
+eog,6125,0,0,642,0,0,5479,6125,100.0,čeština <gnome-cs-list@gnome.org>
+eog-plugins,403,0,0,100,0,0,384,403,100.0,čeština <gnome-cs-list@gnome.org>
+eom,2760,0,2198,436,0,106,2573,4958,55.66760790641388,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+epiphany,7289,0,0,1049,0,0,6676,7289,100.0,čeština <gnome-cs-list@gnome.org>
+evince,8519,0,0,1008,0,0,7535,8519,100.0,čeština <gnome-cs-list@gnome.org>
+evolution,55487,0,0,7989,0,0,50693,55487,100.0,čeština <>
+evolution-data-server,8336,0,0,1538,0,0,8050,8336,100.0,Czech <gnome-cs-list@gnome.org>
+evolution-ews,1882,0,0,342,0,0,1955,1882,100.0,čeština <>
+evolution-mapi,1039,0,0,226,0,0,1023,1039,100.0,čeština <gnome-cs-list@gnome.org>
+exaile,3902,181,519,1042,40,39,3690,4602,84.78922207735768,Czech <https://hosted.weblate.org/projects/exaile/master/cs/>
+exif,296,0,0,68,0,0,273,296,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+exo,738,0,0,145,0,0,674,738,100.0,Czech (http://www.transifex.com/xfce/exo/language/cs/)
+falkon,4445,0,43,1417,0,12,4265,4488,99.04188948306596,Czech <kde-i18n-doc@kde.org>
+fantasdic,406,0,0,132,0,0,407,406,100.0,Czech <gnome-cs-list@gnome.org>
+fetchmail,4956,0,0,750,0,0,5031,4956,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+file-roller,3038,0,0,481,0,0,2628,3038,100.0,Czech <gnome-cs-list@gnome.org>
+filelight,262,0,0,88,0,0,274,262,100.0,Czech <kde-i18n-doc@kde.org>
+filezilla,10560,0,2,1827,0,1,9942,10562,99.9810641923878,Michal Molhanec <michal@molhanec.net>
+findutils,1839,529,170,193,36,18,1665,2538,72.45862884160756,Czech <translation-team-cs@lists.sourceforge.net>
+firewalld,2217,0,0,415,0,0,2057,2217,100.0,Czech <https://translate.fedoraproject.org/projects/firewalld/master/cs/>
+five-or-more,1550,0,0,195,0,0,1437,1550,100.0,čeština <gnome-cs-list@gnome.org>
+flare,3255,0,5821,601,0,1144,2830,9076,35.86381665932129,Czech (https://www.transifex.com/flareorg/teams/84925/cs/)
+flare-engine,269,0,1654,110,0,407,271,1923,13.988559542381696,Czech (https://www.transifex.com/flareorg/teams/84925/cs/)
+flatpak,5282,47,907,1098,6,120,5143,6236,84.70173187940988,Czech <gnome-cs-list@gnome.org>
+flatpak-kcm,48,0,152,25,0,37,52,200,24.0,Czech <kde-i18n-doc@kde.org>
+flatseal,439,0,4,133,0,2,409,443,99.09706546275395,none
+flaw,84,0,0,53,0,0,81,84,100.0,LANGUAGE <LL@li.org>
+focuswriter,129,0,0,7,0,0,130,129,100.0,Czech (http://www.transifex.com/gottcode/focuswriter/language/cs/)
+folder-color-switcher,65,0,0,23,0,0,52,65,100.0,Czech <cs@li.org>
+foliate,3216,0,0,981,0,0,3291,3216,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+folks,1056,0,0,130,0,0,1049,1056,100.0,Czech <gnome-cs-list@gnome.org>
+fondo,772,6,8,155,2,6,710,786,98.21882951653944,
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Czech
+four-in-a-row,1283,0,0,196,0,0,1190,1283,100.0,Czech <gnome-cs-list@gnome.org>
+foxtrotgps,982,0,13,297,0,3,1012,995,98.69346733668341,Czech
+fpc,203,0,2,13,0,1,175,205,99.02439024390245,
+fpm2,1459,45,108,398,8,20,1331,1612,90.50868486352357,<>
+fprintd,433,0,0,60,0,0,404,433,100.0,Czech <https://translate.fedoraproject.org/projects/fprintd/fprintd/cs/>
+fractal,866,0,0,240,0,0,834,866,100.0,čeština <gnome-cs-list@gnome.org>
+fragments,675,0,0,188,0,0,663,675,100.0,Czech <gnome-cs-list@gnome.org>
+freeciv,10804,32114,70613,2414,4469,2971,9694,113531,9.51634355374303,Czech <cs@li.org>
+freedink,248,10,5,54,1,1,239,263,94.29657794676805,Czech <translation-team-cs@lists.sourceforge.net>
+freeipa,292,0,59362,165,0,4676,296,59654,0.4894893888087974,Czech
+frescobaldi,0,0,0,0,0,0,0,0,0.0,
+frozen-bubble,698,0,0,148,0,0,698,698,100.0,Czech <cs@li.org>
+fuse-encfs,552,16,721,71,2,64,518,1289,42.823894491854155,Czech <cs@li.org>
+fwupd,4343,0,0,815,0,0,4670,4343,100.0,Czech (http://app.transifex.com/freedesktop/fwupd/language/cs/)
+gajim,6336,4,9,1709,2,5,5897,6349,99.79524334540872,Czech <https://translate.gajim.org/projects/gajim/master/cs/>
+gala,206,0,43,46,0,5,207,249,82.73092369477911,Czech <https://l10n.elementary.io/projects/desktop/gala/cs/>
+galculator,935,0,0,275,0,0,912,935,100.0,Czech (http://www.transifex.com/mate/MATE/language/cs/)
+gambas3,8350,0,3316,2580,0,944,7195,11666,71.57551860106291,LANGUAGE <LL@li.org>
+gamehub,52,0,1063,14,0,351,50,1115,4.663677130044843,Czech <https://hosted.weblate.org/projects/gamehub/translations/cs/>
+gammastep,595,285,65,82,54,13,609,945,62.96296296296296,Czech <cs@li.org>
+gammu,3663,336,18,1070,40,3,3611,4017,91.18745332337565,Czech <https://hosted.weblate.org/projects/gammu/gammu-docs/cs/>
+ganglia,59,0,0,4,0,0,48,59,100.0,Czech <debian-l10n-czech@lists.debian.org>
+ganyremote,433,27,50,134,5,9,402,510,84.90196078431373,Czech
+garcon,125,0,0,38,0,0,127,125,100.0,Czech (https://app.transifex.com/xfce/teams/16840/cs/)
+gaupol,2057,0,19,611,0,3,2134,2076,99.08477842003853,Czech (https://app.transifex.com/otsaloma/teams/64879/cs/)
+gbrainy,10449,0,0,1336,0,0,9944,10449,100.0,čeština <gnome-cs-list@gnome.org>
+gcab,128,0,0,31,0,0,134,128,100.0,čeština <gnome-cs-list@gnome.org>
+gcl,177,0,0,8,0,0,146,177,100.0,Czech <debian-l10n-czech@lists.debian.org>
+gcolor3,432,0,0,61,0,0,378,432,100.0,čeština <gnome-cs-list@gnome.org>
+gcompris-qt,25328,6,8819,3345,1,449,21026,34153,74.16039586566335,Czech <kde-i18n-doc@kde.org>
+gconf-editor,2834,0,0,238,0,0,2501,2834,100.0,Czech <gnome-cs-list@gnome.org>
+gcr,418,0,0,148,0,0,408,418,100.0,čeština <gnome-cs-list@gnome.org>
+gcr3,795,0,0,276,0,0,760,795,100.0,čeština <gnome-cs-list@gnome.org>
+gdk-pixbuf2,1325,0,0,198,0,0,1349,1325,100.0,čeština <gnome-cs-list@gnome.org>
+gdm,10097,0,0,454,0,0,8992,10097,100.0,Czech <gnome-cs-list@gnome.org>
+geany,5746,534,0,1265,88,0,5202,6280,91.4968152866242,Czech <geany-i18n@uvena.de>
+geary,5856,0,0,820,0,0,5683,5856,100.0,čeština <gnome-cs-list@gnome.org>
+gedit,10037,0,0,1149,0,0,9231,10037,100.0,čeština <gnome-cs-list@gnome.org>
+gedit-latex,468,0,0,226,0,0,479,468,100.0,Czech <gnome-cs-list@gnome.org>
+gedit-plugins,3135,0,0,363,0,0,2827,3135,100.0,čeština <gnome-cs-list@gnome.org>
+geeqie,2035,903,1232,699,258,201,1987,4170,48.80095923261391,Czech <cs@li.org>
+genius,8604,0,0,1122,0,0,7662,8604,100.0,čeština <gnome-cs-list@gnome.org>
+gettext,1237,1091,5804,189,112,564,1201,8132,15.211510083620267,Czech <translation-team-cs@lists.sourceforge.net>
+gftp,3334,0,0,593,0,0,3072,3334,100.0,Czech <gnome-cs-list@gnome.org>
+ggz-base-libs,48,0,0,11,0,0,47,48,100.0,<cs@li.org>
+ghex,3179,0,0,325,0,0,2880,3179,100.0,čeština <gnome-cs-list@gnome.org>
+ghostwriter,287,0,528,167,0,121,292,815,35.21472392638037,Czech <kde-i18n-doc@kde.org>
+gigolo,538,0,3,156,0,2,529,541,99.44547134935306,Czech (http://app.transifex.com/xfce/xfce-apps/language/cs/)
+gimagereader,1817,0,0,482,0,0,1946,1817,100.0,Czech <https://hosted.weblate.org/projects/gimagereader/translations/cs/>
+gimp,31651,1250,3596,8303,278,510,30101,36497,86.72219634490506,čeština <gnome-cs-list@gnome.org>
+gimp-help,41824,21467,200501,2866,1636,12930,32545,263792,15.854915994419846,none
+git-cola,2204,0,1308,654,0,202,2217,3512,62.75626423690205,
+gitg,2435,0,0,436,0,0,2258,2435,100.0,čeština <gnome-cs-list@gnome.org>
+gjots2,715,159,79,225,18,17,663,953,75.02623294858341,Czech
+gkrellm,3332,0,452,504,0,47,2717,3784,88.05496828752642,Czech <cs@li.org>
+glabels,8866,0,0,1261,0,0,8268,8866,100.0,Czech <gnome-cs-list@gnome.org>
+glade,8629,0,0,1921,0,0,8243,8629,100.0,Czech <gnome-cs-list@gnome.org>
+glib-networking,434,0,0,64,0,0,449,434,100.0,čeština <gnome-cs-list@gnome.org>
+glib2,7720,0,0,1214,0,0,7474,7720,100.0,čeština <gnome-cs-list@gnome.org>
+glibc,7833,0,0,1425,0,0,7965,7833,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+gliv,1034,0,0,260,0,0,981,1034,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+gmult,40,0,10,27,0,4,47,50,80.0,Czech <cs@li.org>
+gnome-2048,417,0,0,78,0,0,399,417,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-abrt,221,0,0,55,0,0,212,221,100.0,Czech <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/cs/>
+gnome-applets,19162,0,0,1797,0,0,17335,19162,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-bluetooth,318,0,0,92,0,0,332,318,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-bluetooth3.34,373,0,0,110,0,0,392,373,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-boxes,3981,0,0,490,0,0,3715,3981,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-break-timer,461,75,60,72,4,7,451,596,77.3489932885906,Czech <gnome-cs-list@gnome.org>
+gnome-builder,5405,0,0,1364,0,0,5448,5405,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-calculator,3726,0,0,916,0,0,3534,3726,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-calendar,895,0,0,260,0,0,939,895,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-characters,157,0,0,55,0,0,163,157,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-chess,2558,0,0,335,0,0,2327,2558,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-clocks,1315,0,0,224,0,0,1103,1315,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-color-manager,2330,0,0,371,0,0,2090,2330,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-commander,35594,0,0,5143,0,0,32865,35594,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-connections,530,0,0,105,0,0,528,530,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-console,239,0,0,74,0,0,238,239,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-contacts,747,0,0,220,0,0,708,747,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-control-center,8701,0,0,2634,0,0,8554,8701,100.0,Czech <Czech <cs-users@lists.fedoraproject.org>>
+gnome-desktop3,2977,0,6800,131,0,148,2609,9777,30.449012989669633,čeština <gnome-cs-list@gnome.org>
+gnome-devel-docs,172537,0,0,6670,0,0,158076,172537,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-dictionary,2161,0,0,323,0,0,1923,2161,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-directory-thumbnailer,85,0,0,12,0,0,83,85,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-disk-utility,4077,0,0,751,0,0,3989,4077,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-do,597,0,15,140,0,4,538,612,97.54901960784314,Czech <cs@li.org>
+gnome-doc-utils,251,0,0,101,0,0,150,251,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-extensions-app,2739,0,0,613,0,0,2752,2739,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-firmware,677,0,0,168,0,0,691,677,100.0,
+gnome-flashback,1456,0,0,269,0,0,1391,1456,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-font-viewer,539,0,0,209,0,0,572,539,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-games,833,0,0,244,0,0,863,833,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-icon-theme,43,0,0,38,0,0,46,43,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-initial-setup,881,0,0,130,0,0,786,881,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-keyring,469,0,0,98,0,0,426,469,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-klotski,1415,0,0,139,0,0,1288,1415,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-logs,663,0,0,149,0,0,610,663,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-mahjongg,1641,0,0,197,0,0,1537,1641,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-maps,1326,0,0,343,0,0,1307,1326,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-menus,81,0,0,38,0,0,78,81,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,926,887,100.0,Czech <cs@li.org>
+gnome-mines,1446,0,0,170,0,0,1342,1446,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-multi-writer,390,0,0,61,0,0,386,390,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-music,923,0,0,193,0,0,981,923,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-nettool,1178,0,0,241,0,0,1139,1178,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-network-displays,195,0,0,26,0,0,212,195,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-nibbles,1641,0,0,218,0,0,1472,1641,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-online-accounts,604,0,0,135,0,0,583,604,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-packagekit,3500,0,0,553,0,0,3277,3500,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-panel,5069,0,0,646,0,0,4554,5069,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-phone-manager,563,0,0,98,0,0,524,563,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-photos,1029,0,0,266,0,0,1032,1029,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-pomodoro,358,0,0,132,0,0,357,358,100.0,<>
+gnome-power-manager,430,0,0,123,0,0,472,430,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-remote-desktop,569,0,0,26,0,0,478,569,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-robots,1715,0,0,256,0,0,1659,1715,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-screenshot,417,0,0,64,0,0,383,417,100.0,čeština <gnome-cs-list@gnome.org>>
+gnome-session,435,0,0,68,0,0,404,435,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-settings-daemon,3864,0,0,538,0,0,3684,3864,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-shell,2739,0,0,613,0,0,2752,2739,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-shell-extension-appindicator,95,0,0,28,0,0,96,95,100.0,
+gnome-shell-extension-blur-my-shell,617,0,0,96,0,0,538,617,100.0,Czech <https://hosted.weblate.org/projects/blur-my-shell/blur-my-shell/cs/>
+gnome-shell-extension-bubblemail,0,0,98,0,0,27,0,98,0.0,none
+gnome-shell-extension-caffeine,260,0,44,66,0,6,248,304,85.52631578947368,Czech
+gnome-shell-extension-dash-to-dock,476,0,0,122,0,0,467,476,100.0,CZECH <jiri.doubravsky@gmail.com>
+gnome-shell-extension-dash-to-panel,842,211,145,213,59,60,759,1198,70.2838063439065,
+gnome-shell-extension-freon,104,0,0,32,0,0,103,104,100.0,
+gnome-shell-extension-gamemode,0,0,73,0,0,13,0,73,0.0,Czech (https://www.transifex.com/GameMode/teams/100322/cs/)
+gnome-shell-extension-gsconnect,820,4,5,257,1,2,844,829,98.91435464414958,Czech
+gnome-shell-extension-openweather,850,0,0,265,0,0,835,850,100.0,
+gnome-shell-extension-system-monitor-applet,116,48,27,86,6,14,118,191,60.73298429319372,
+gnome-shell-extension-vertical-workspaces,2409,0,0,304,0,0,2219,2409,100.0,
+gnome-shell-extensions,270,0,0,53,0,0,265,270,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-shell-frippery,22,0,0,8,0,0,24,22,100.0,Czech <cs@li.org>
+gnome-software,5064,0,0,981,0,0,5087,5064,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-sound-recorder,271,0,0,78,0,0,274,271,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-subtitles,1665,0,0,378,0,0,1619,1665,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-sudoku,1944,0,0,211,0,0,1774,1944,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-system-log,1602,0,0,160,0,0,1424,1602,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-system-monitor,6384,0,0,599,0,0,5637,6384,100.0,čeština <gnome-cs-list@gnome.org>>
+gnome-taquin,1364,0,0,213,0,0,1277,1364,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-terminal,8033,0,21,1036,0,12,7428,8054,99.73925999503352,čeština <gnome-cs-list@gnome.org>
+gnome-tetravex,1718,0,0,231,0,0,1587,1718,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-text-editor,1770,0,0,357,0,0,1684,1770,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-themes-extra,15,0,0,6,0,0,15,15,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-todo,737,0,0,157,0,0,743,737,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-tour,115,0,0,24,0,0,120,115,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-tweaks,518,0,0,151,0,0,560,518,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-usage,165,0,0,37,0,0,165,165,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-user-docs,66923,0,0,3929,0,0,58151,66923,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-user-share,49,0,0,10,0,0,47,49,100.0,čeština <gnome-cs-list@gnome.org>
+gnome-vfs2,1519,0,0,305,0,0,1354,1519,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-video-arcade,3682,0,0,364,0,0,3332,3682,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-video-effects,256,0,0,68,0,0,234,256,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-weather,214,0,0,44,0,0,233,214,100.0,čeština <gnome-cs-list@gnome.org>
+gnote,7448,0,0,916,0,0,7035,7448,100.0,Czech <gnome-cs-list@gnome.org>
+gnubg,11033,4170,4292,2356,740,471,10475,19495,56.59399846114388,Czech <cs@li.org>
+gnucash,10468,11724,16627,2363,1959,1430,9295,38819,26.966176356938615,Czech <https://hosted.weblate.org/projects/gnucash/gnucash/cs/>
+gnumeric,38562,0,0,6050,0,0,35952,38562,100.0,čeština <gnome-cs-list@gnome.org>
+gnupg1,8592,28,20,1290,4,3,8228,8640,99.44444444444444,Czech <translations.cs@gnupg.cz>
+gnupg2,13623,13,0,2197,3,0,13513,13636,99.90466412437665,Czech <gnupg-i18n@gnupg.org>
+gnutls,1784,165,58,384,34,6,1652,2007,88.88888888888889,Czech <translation-team-cs@lists.sourceforge.net>
+godot,11596,0,0,2742,0,0,10996,11596,100.0,Czech <https://hosted.weblate.org/projects/godot-engine/godot/cs/>
+godot3,16712,7971,260462,3506,2054,12458,15642,285145,5.860877799014537,Czech <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/cs/>
+goffice,6622,0,0,2123,0,0,6426,6622,100.0,čeština <gnome-cs-list@gnome.org>
+goocanvas2,1864,0,0,283,0,0,1637,1864,100.0,čeština <gnome-cs-list@gnome.org>
+goodvibes,72,31,241,38,5,78,77,344,20.930232558139537,Czech <https://hosted.weblate.org/projects/goodvibes/translations/cs/>
+gparted,9704,0,0,1000,0,0,8924,9704,100.0,čeština <gnome-cs-list@gnome.org>
+gpaste,168,26,1232,26,5,208,149,1426,11.781206171107995,Czech <https://hosted.weblate.org/projects/gpaste/gpaste/cs/>
+gphoto2,1267,316,202,266,45,34,1148,1785,70.98039215686275,Czech <translation-team-cs@lists.sourceforge.net>
+gpick,602,0,0,297,0,0,671,602,100.0,Czech <kde-i18n-doc@kde.org>
+gpicview,236,0,0,52,0,0,230,236,100.0,
+gpodder,1550,1402,2064,435,429,382,1559,5016,30.901116427432218,Czech (Czech Republic) (http://www.transifex.com/projects/p/gpodder/language/cs_CZ/)
+gpredict,5042,0,1082,965,0,178,4688,6124,82.33180927498367,Czech <cs@li.org>
+gpx-viewer,108,0,0,58,0,0,110,108,100.0,Czech <cs@li.org>
+gq,461,556,920,95,150,120,398,1937,23.799690242643262,unknown <LL@li.org>
+gramps,39514,33,370,6814,7,27,34227,39917,98.99040509056292,Czech <Czech <gnome-cs-list@gnome.org>>
+granatier,240,0,6,67,0,1,214,246,97.5609756097561,Czech <kde-i18n-doc@kde.org>
+granite,273,8,217,82,4,32,304,498,54.81927710843374,Czech <https://l10n.elementary.io/projects/desktop/granite/cs/>
+granite-7,128,6,166,51,1,23,149,300,42.66666666666667,Czech <https://l10n.elementary.io/projects/desktop/granite/cs/>
+grantlee-editor,325,0,205,129,0,29,309,530,61.32075471698113,Czech <kde-i18n-doc@kde.org>
+grass,33474,6519,84690,6099,1142,11879,32581,124683,26.847284714034792,<cs@li.org>
+grep,923,0,0,115,0,0,952,923,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+grilo,191,0,0,36,0,0,202,191,100.0,Czech <gnome-cs-list@gnome.org>
+grilo-plugins,1844,0,0,186,0,0,1713,1844,100.0,čeština <gnome-cs-list@gnome.org>
+grisbi,8655,4460,2190,1830,554,273,7596,15305,56.55014701078079,
+grsync,1155,5,0,160,2,0,1031,1160,99.56896551724138,Czech <gnome-cs-list@gnome.org>
+grub-customizer,1180,0,115,192,0,1,1080,1295,91.11969111969111,Czech <cs@li.org>
+gscan2pdf,2307,0,2,553,0,2,2270,2309,99.91338241663058,Czech <cs@li.org>
+gsettings-desktop-schemas,7207,0,0,630,0,0,6766,7207,100.0,čeština <gnome-cs-list@gnome.org>
+gspell,76,0,0,31,0,0,77,76,100.0,Czech <gnome-cs-list@gnome.org>
+gstreamer1,2055,39,113,370,7,9,2078,2207,93.11282283642954,Czech <translation-team-cs@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,194,0,3,28,0,1,211,197,98.47715736040608,Czech <translation-team-cs@lists.sourceforge.net>
+gstreamer1-plugins-base,930,36,106,193,8,20,923,1072,86.75373134328358,Czech <translation-team-cs@lists.sourceforge.net>
+gstreamer1-plugins-good,700,76,54,86,11,7,625,830,84.33734939759037,Czech <translation-team-cs@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,75,80,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+gthumb,8502,0,0,1510,0,0,7866,8502,100.0,čeština <gnome-cs-list@gnome.org>
+gtk+,202,0,0,105,0,0,196,202,100.0,Czech <cs@li.org>
+gtk-doc,7331,0,5341,423,0,137,6729,12672,57.85195707070707,čeština <gnome-cs-list@gnome.org>
+gtk-murrine-engine,134,0,0,46,0,0,145,134,100.0,Czech <gnome-cs-list@gnome.org>
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Czech <gnome-cs-list@gnome.org>
+gtk2,12400,0,0,2583,0,0,10758,12400,100.0,Czech <gnome-cs-list@gnome.org>
+gtk2-engines,119,0,0,47,0,0,119,119,100.0,Czech <gnome-cs-list@gnome.org>
+gtk3,16737,0,0,3942,0,0,14972,16737,100.0,čeština <gnome-cs-list@gnome.org>
+gtk4,4141,0,0,1498,0,0,4211,4141,100.0,čeština <gnome-cs-list@gnome.org>
+gtkhash,47,88,78,25,23,15,48,213,22.065727699530516,Czech <cs@li.org>
+gtkhtml3,522,0,0,317,0,0,527,522,100.0,Czech <gnome-cs-list@gnome.org>
+gtkpod,1042,286,6192,284,71,1007,961,7520,13.856382978723406,Czech (Czech Republic) <None>
+gtksourceview2,1426,0,0,549,0,0,1492,1426,100.0,Czech <gnome-cs-list@gnome.org>
+gtksourceview3,322,0,0,106,0,0,320,322,100.0,čeština <gnome-cs-list@gnome.org>
+gtksourceview4,308,0,0,94,0,0,306,308,100.0,čeština <gnome-cs-list@gnome.org>>
+gtksourceview5,371,0,0,112,0,0,365,371,100.0,čeština <gnome-cs-list@gnome.org>>
+gtkspell,15,0,0,6,0,0,15,15,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+gtkspell3,16,0,0,7,0,0,17,16,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+gtranslator,4022,0,0,512,0,0,3657,4022,100.0,čeština <gnome-cs-list@gnome.org>
+gtypist,419,99,38,75,9,7,393,556,75.35971223021582,Czech
+guake,1505,0,138,296,0,19,1411,1643,91.60073037127206,Czech <https://hosted.weblate.org/projects/guake/guake/cs/>
+guayadeque,3289,0,128,1009,0,35,2807,3417,96.25402399765876,Czech (Czech Republic) (http://www.transifex.com/anonbeat/guayadeque/language/cs_CZ/)
+gucharmap,3190,0,6,626,0,5,2974,3196,99.81226533166459,Czech <gnome-cs-list@gnome.org>
+guestfs-tools,166,0,197822,46,0,17750,167,197988,0.08384346526052083,Czech
+gummi,372,98,288,163,39,59,373,758,49.07651715039577,Czech <p.janouch@gmail.com>
+gupnp-tools,395,0,0,128,0,0,408,395,100.0,čeština <gnome-cs-list@gnome.org>
+gutenprint,1980,3236,11110,336,771,3717,1683,16326,12.127894156560089,Czech <translation-team-cs@lists.sourceforge.net>
+guvcview,435,82,535,212,29,174,436,1052,41.34980988593156,Czech <cs@li.org>
+gvfs,2102,0,0,405,0,0,2035,2102,100.0,čeština <gnome-cs-list@gnome.org>
+gwenview,1363,0,677,417,0,23,1393,2040,66.81372549019608,Czech <kde-i18n-doc@kde.org>
+haruna,722,0,355,294,0,32,765,1077,67.03806870937791,Czech <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+heaptrack,189,0,1187,79,0,126,183,1376,13.73546511627907,Czech <kde-i18n-doc@kde.org>
+hexchat,4127,0,1844,1212,0,234,3858,5971,69.11740077039022,Czech (http://www.transifex.com/hexchat/hexchat/language/cs/)
+hitori,926,0,0,105,0,0,832,926,100.0,Czech <gnome-cs-list@gnome.org>
+hivex,262,8,0,21,1,0,239,270,97.03703703703704,Czech
+homebank,2165,0,882,731,0,227,2047,3047,71.05349524122087,Czech <cs@li.org>
+hugin,10210,0,0,1800,0,0,9102,10210,100.0,Čeština
+hunspell,592,21,0,78,1,0,591,613,96.5742251223491,Czech <https://hosted.weblate.org/projects/hunspell/translations/cs/>
+iagno,4668,0,0,405,0,0,4172,4668,100.0,Czech <gnome-cs-list@gnome.org>
+ibus,1869,193,384,500,50,44,1745,2446,76.41046606704825,Czech
+ibus-anthy,37,0,703,30,0,170,37,740,5.0,Czech
+ibus-chewing,359,0,0,70,0,0,368,359,100.0,Czech
+ibus-libpinyin,314,114,32,127,23,17,307,460,68.26086956521739,Czech
+ibus-table,175,8,926,54,2,94,163,1109,15.779981965734896,Czech <https://translate.fedoraproject.org/projects/ibus-table/app/cs/>
+ibus-typing-booster,1698,124,364,197,18,28,1546,2186,77.67612076852699,Czech <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/cs/>
+icewm,2267,0,0,526,0,0,2240,2267,100.0,Czech <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/cs/>
+ikiwiki,3555,765,981,423,61,46,3117,5301,67.06281833616299,Czech <debian-l10n-czech@lists.debian.org>
+ikona,11,12,17,5,5,5,12,40,27.500000000000004,Czech <kde-i18n-doc@kde.org>
+im-chooser,239,0,14,56,0,1,204,253,94.46640316205533,LANGUAGE <LL@li.org>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+indent,261,0,0,52,0,0,278,261,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+initial-setup,106,0,0,20,0,0,79,106,100.0,Czech <https://translate.fedoraproject.org/projects/initial-setup/master/cs/>
+initscripts,1083,79,0,157,7,0,1021,1162,93.20137693631669,Czech <https://translate.fedoraproject.org/projects/fedora-sysv/initscripts/cs/>
+inkscape,31867,1874,15827,7927,461,2040,30621,49568,64.28946094254357,Josef Vybíral (josef.vybiral@gmail.com); Ivan Řihošek (osmdesat@seznam.cz); Tobiczech (tobiczech@gmail.com); Tomáš Marný (tomik.marny@gmail.com); Návody: Lukáš Hess
+iputils,1124,0,0,252,0,0,1226,1124,100.0,Czech <https://translate.fedoraproject.org/projects/iputils/iputils/cs/>
+iso-codes,3176,7998,12756,1804,5756,8149,2893,23930,13.272043460091934,Czech <https://hosted.weblate.org/projects/iso-codes/iso-15924/cs/>
+isoimagewriter,444,0,0,78,0,0,389,444,100.0,Czech <kde-i18n-doc@kde.org>
+isomaster,674,0,0,107,0,0,623,674,100.0,Czech <kde-i18n-doc@kde.org>
+itinerary,1362,0,450,517,0,101,1337,1812,75.16556291390728,Czech <kde-i18n-doc@kde.org>
+jmol,2752,169,245,929,44,48,2753,3166,86.92356285533796,Czech <Jmol-developers@lists.sf.net>
+jpilot,1566,592,916,515,108,140,1462,3074,50.943396226415096,Czech <translation-team-cs@lists.sourceforge.net>
+json-glib,307,0,0,47,0,0,283,307,100.0,čeština <gnome-cs-list@gnome.org>
+juk,1526,0,0,362,0,0,1405,1526,100.0,Czech <kde-i18n-doc@kde.org>
+k3b,18834,0,1345,2507,0,15,16861,20179,93.33465483918926,Czech <kde-i18n-doc@kde.org>
+kBuild,991,119,280,116,28,41,1031,1390,71.29496402877697,Czech <translation-team-cs@lists.sourceforge.net>
+kaccounts-integration,119,0,41,25,0,4,102,160,74.375,Czech <kde-i18n-doc@kde.org>
+kaccounts-providers,66,0,35,33,0,5,70,101,65.34653465346535,Czech <kde-i18n-doc@kde.org>
+kactivitymanagerd,11,0,0,5,0,0,11,11,100.0,Czech <kde-i18n-doc@kde.org>
+kaddressbook,645,0,492,200,0,34,584,1137,56.72823218997362,Czech <kde-i18n-doc@kde.org>
+kaffeine,935,0,458,403,0,94,957,1393,67.12132089016511,Czech <kde-i18n-doc@kde.org>
+kaidan,307,27,1460,159,5,215,310,1794,17.112597547380158,Czech <kde-i18n-doc@kde.org>
+kajongg,445,0,2013,195,0,316,423,2458,18.104149715215623,Czech <kde-i18n-doc@kde.org>
+kalarm,6955,0,1434,1120,0,108,6349,8389,82.9061866730242,Czech <kde-i18n-doc@kde.org>
+kalendar,1193,0,375,509,0,54,1183,1568,76.08418367346938,Czech <kde-i18n-doc@kde.org>
+kalgebra,238,0,19,119,0,5,225,257,92.60700389105058,Czech <kde-i18n-doc@kde.org>
+kalk,23,0,0,13,0,0,25,23,100.0,Czech <kde-i18n-doc@kde.org>
+kalzium,6535,0,2570,1157,0,144,5529,9105,71.77375068643602,Czech <kde-i18n-doc@kde.org>
+kamera,347,0,0,38,0,0,296,347,100.0,Czech <kde-i18n-doc@kde.org>
+kamoso,145,0,0,42,0,0,154,145,100.0,Czech <kde-i18n-doc@kde.org>
+kanagram,489,0,38,133,0,11,425,527,92.78937381404174,Czech <kde-i18n-doc@kde.org>
+kanyremote,414,43,43,129,8,8,387,500,82.8,Czech
+kapman,115,0,0,36,0,0,114,115,100.0,Czech <kde-i18n-doc@kde.org>
+kapow,102,0,0,4,0,0,94,102,100.0,Czech (http://www.transifex.com/gottcode/kapow/language/cs/)
+kapptemplate,102,0,170,35,0,17,92,272,37.5,Czech <kde-i18n-doc@kde.org>
+kasts,791,0,440,305,0,60,824,1231,64.25670186839967,Czech <kde-i18n-doc@kde.org>
+kate,4697,0,3278,1346,0,492,4489,7975,58.896551724137936,Czech <kde-i18n-doc@kde.org>
+katomic,184,0,0,59,0,0,188,184,100.0,Czech <kde-i18n-doc@kde.org>
+kaudiocreator,1136,0,0,273,0,0,1078,1136,100.0,Czech <kde-i18n-doc@kde.org>
+kbackup,583,0,111,130,0,11,557,694,84.00576368876081,Czech <kde-i18n-doc@kde.org>
+kbd,2450,0,0,338,0,0,2362,2450,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+kbibtex,1892,4,580,656,1,76,1924,2476,76.41357027463651,Czech <kde-i18n-doc@kde.org>
+kbilliards,133,0,75,38,0,26,114,208,63.942307692307686,český <cs@li.org>
+kblackbox,1367,0,0,103,0,0,1160,1367,100.0,Czech <kde-i18n-doc@kde.org>
+kblocks,114,0,44,34,0,3,121,158,72.15189873417721,Czech <kde-i18n-doc@kde.org>
+kbounce,156,0,0,43,0,0,158,156,100.0,Czech <kde-i18n-doc@kde.org>
+kbrickbuster,158,0,0,42,0,0,134,158,100.0,Czech <kde-i18n-doc@kde.org>
+kbruch,1203,0,144,194,0,4,1020,1347,89.30957683741649,Czech <kde-i18n-doc@kde.org>
+kcachegrind,446,0,3921,269,0,293,447,4367,10.212960842683765,Czech <kde-i18n-doc@kde.org>
+kcalc,982,0,88,340,0,10,898,1070,91.77570093457945,Czech <kde-i18n-doc@kde.org>
+kcharselect,88,0,0,34,0,0,96,88,100.0,Czech <kde-i18n-doc@kde.org>
+kchmviewer,320,138,514,69,39,99,258,972,32.92181069958848,<cs@li.org>
+kclock,177,0,177,97,0,43,183,354,50.0,Czech <kde-i18n-doc@kde.org>
+kcm_systemd,42,1,1342,31,1,136,42,1385,3.032490974729242,Czech <kde-i18n-doc@kde.org>
+kcm_wacomtablet,508,0,556,166,0,77,494,1064,47.744360902255636,Czech <kde-i18n-doc@kde.org>
+kcolorchooser,29,0,0,10,0,0,28,29,100.0,Czech <kde-i18n-doc@kde.org>
+kcoloredit,278,0,0,95,0,0,256,278,100.0,Czech <kde-i18n-doc@kde.org>
+kcron,500,0,2,179,0,1,457,502,99.60159362549801,Czech <kde-i18n-doc@kde.org>
+kdb,992,0,510,186,0,58,864,1502,66.04527296937417,Czech <kde-i18n-doc@kde.org>
+kdbg,228,76,559,83,32,74,199,863,26.41946697566628,Czech <flidr@kky.zcu.cz>
+kde-cli-tools,2204,0,46,231,0,4,1872,2250,97.95555555555555,Czech <kde-i18n-doc@kde.org>
+kde-connect,1407,0,0,386,0,0,1350,1407,100.0,Czech <kde-i18n-doc@kde.org>
+kde-dev-utils,95,0,0,34,0,0,95,95,100.0,Czech <kde-i18n-doc@kde.org>
+kde-inotify-survey,0,0,190,0,0,8,0,190,0.0,Czech <kde-i18n-doc@kde.org>
+kde-l10n,41055,0,8302,8003,0,1279,37171,49357,83.1796908239966,Czech <kde-i18n-doc@kde.org>
+kde-partitionmanager,1456,0,816,472,0,61,1378,2272,64.08450704225352,Czech <kde-i18n-doc@kde.org>
+kde-print-manager,969,0,0,275,0,0,893,969,100.0,Czech <kde-i18n-doc@kde.org>
+kde-style-breeze,255,0,11,100,0,1,265,266,95.86466165413535,Czech <kde-i18n-doc@kde.org>
+kdebugsettings,211,0,88,72,0,9,203,299,70.5685618729097,Czech <kde-i18n-doc@kde.org>
+kdecoration,39,0,0,15,0,0,37,39,100.0,Czech <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,256,0,736,61,0,49,232,992,25.806451612903224,Czech <kde-i18n-doc@kde.org>
+kdenlive,6830,0,8984,2351,0,1234,6860,15814,43.189578854179835,Czech <kde-i18n-doc@kde.org>
+kdepim-addons,3302,0,1288,837,0,121,2903,4590,71.93899782135075,Czech <kde-i18n-doc@kde.org>
+kdepim-runtime,4728,0,2668,889,0,264,4277,7396,63.926446727961064,Czech <kde-i18n-doc@kde.org>
+kdeplasma-addons,1799,0,100,666,0,14,1917,1899,94.73407056345445,Czech <kde-i18n-doc@kde.org>
+kdesdk-kioslaves,84,0,0,17,0,0,81,84,100.0,Czech <kde-i18n-doc@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Czech <kde-i18n-doc@kde.org>
+kdesvn,854,8,4075,342,1,571,844,4937,17.29795422321248,Czech <kde-i18n-doc@kde.org>
+kdevelop,4317,0,11536,1795,0,1341,4347,15853,27.231438844382765,Czech <kde-i18n-doc@kde.org>
+kdevelop-php,86,0,443,26,0,46,85,529,16.257088846880908,Czech <kde-i18n-doc@kde.org>
+kdf,195,0,0,71,0,0,199,195,100.0,Czech <kde-i18n-doc@kde.org>
+kdiagram,50,0,16,34,0,6,48,66,75.75757575757575,Czech <kde-i18n-doc@kde.org>
+kdialog,309,0,82,65,0,13,296,391,79.02813299232737,Czech <kde-i18n-doc@kde.org>
+kdiamond,122,0,0,32,0,0,121,122,100.0,Czech <kde-i18n-doc@kde.org>
+kdiff3,3378,0,136,632,0,9,3162,3514,96.12976664769494,Czech <kde-i18n-doc@kde.org>
+kdissert,89,0,1938,56,0,226,85,2027,4.390725209669463,Czech <suse@suse.cz>
+kdnssd,30,0,0,7,0,0,27,30,100.0,Czech <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,51,11,132,2,3,17,47,194,26.288659793814436,Czech <cs@li.org>
+keditbookmarks,466,0,0,132,0,0,462,466,100.0,Czech <kde-i18n-doc@kde.org>
+kernel,394,211,544,39,21,96,362,1149,34.29068755439513,Czech <diskuze@lists.l10n.cz>
+kernel-tools,394,211,544,39,21,96,362,1149,34.29068755439513,Czech <diskuze@lists.l10n.cz>
+kexi,3795,0,3585,1104,0,392,3487,7380,51.42276422764228,Czech <kde-i18n-doc@kde.org>
+keysmith,72,0,160,40,0,17,73,232,31.03448275862069,Czech <kde-i18n-doc@kde.org>
+kf5-akonadi-calendar,1281,0,941,293,0,77,1224,2222,57.650765076507646,Czech <kde-i18n-doc@kde.org>
+kf5-akonadi-contacts,876,0,240,256,0,20,835,1116,78.49462365591397,Czech <kde-i18n-doc@kde.org>
+kf5-akonadi-mime,580,0,0,114,0,0,569,580,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-akonadi-search,67,0,0,18,0,0,65,67,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-akonadi-server,1557,0,1039,377,0,64,1524,2596,59.9768875192604,Czech <kde-i18n-doc@kde.org>
+kf5-audiocd-kio,1003,0,0,210,0,0,1003,1003,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-baloo,530,0,330,141,0,38,467,860,61.627906976744185,Czech <kde-i18n-doc@kde.org>
+kf5-calendarsupport,1655,0,1124,301,0,90,1464,2779,59.55379632961497,Czech <kde-i18n-doc@kde.org>
+kf5-eventviews,1176,0,1773,198,0,109,1075,2949,39.87792472024415,Czech <kde-i18n-doc@kde.org>
+kf5-grantleetheme,8,0,6,4,0,2,8,14,57.14285714285714,Czech <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,1005,0,1203,301,0,119,933,2208,45.516304347826086,Czech <kde-i18n-doc@kde.org>
+kf5-kalarmcal,186,0,18,98,0,6,220,204,91.17647058823529,Czech <kde-i18n-doc@kde.org>
+kf5-karchive,124,0,364,27,0,55,117,488,25.40983606557377,Czech <kde-i18n-doc@kde.org>
+kf5-kauth,73,0,0,8,0,0,69,73,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kblog,243,0,0,27,0,0,188,243,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,202,230,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,1383,0,54,383,0,10,1513,1437,96.24217118997912,Czech <kde-i18n-doc@kde.org>
+kf5-kcmutils,266,0,0,38,0,0,244,266,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kcodecs,370,0,0,53,0,0,224,370,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,17,18,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kconfig,289,0,0,104,0,0,276,289,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,342,0,0,125,0,0,313,342,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,175,177,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,382,0,0,132,0,0,369,382,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kdav,31,0,154,7,0,13,27,185,16.756756756756758,Czech <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,43,48,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kdeclarative,122,0,39,19,0,6,107,161,75.77639751552795,Czech <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4949,0,404,2444,0,100,4624,5353,92.45283018867924,Czech <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,49,54,100.0,American English <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,18,19,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,American English <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,12,8,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kfilemetadata,169,0,130,106,0,29,177,299,56.52173913043478,Czech <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,58,71,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kholidays,150,0,0,97,0,0,147,150,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-khtml,1667,0,0,289,0,0,1435,1667,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kiconthemes,41,0,0,19,0,0,41,41,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kidentitymanagement,176,0,6,23,0,1,154,182,96.7032967032967,Czech <kde-i18n-doc@kde.org>
+kf5-kimap,118,0,0,51,0,0,112,118,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kinit,116,0,0,11,0,0,93,116,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kio,10805,0,1232,1300,0,73,9159,12037,89.7648915842818,Czech <kde-i18n-doc@kde.org>
+kf5-kipi-plugins,4498,0,177,1014,0,25,4124,4675,96.21390374331551,Czech <kde-i18n-doc@kde.org>
+kf5-kirigami,2,0,0,2,0,0,2,2,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kirigami2,112,0,0,48,0,0,114,112,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kirigami2-addons,93,5,288,37,4,9,89,386,24.093264248704664,Czech <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kitinerary,91,0,17,26,0,4,93,108,84.25925925925925,Czech <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,133,0,0,38,0,0,159,133,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,228,248,100.0,American English <kde-i18n-doc@kde.org>
+kf5-kldap,227,0,0,61,0,0,227,227,100.0,Czech <cs@li.org>
+kf5-kmailtransport,648,0,15,103,0,2,567,663,97.73755656108597,Czech <kde-i18n-doc@kde.org>
+kf5-kmime,159,0,0,10,0,0,126,159,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-knewstuff,612,0,1019,181,0,50,590,1631,37.522992029429794,Czech <kde-i18n-doc@kde.org>
+kf5-knotifications,21,0,0,8,0,0,18,21,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,100,129,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kpackage,353,0,99,69,0,4,315,452,78.09734513274337,Czech <kde-i18n-doc@kde.org>
+kf5-kparts,123,0,15,28,0,2,104,138,89.13043478260869,Czech <kde-i18n-doc@kde.org>
+kf5-kpeople,13,0,0,8,0,0,12,13,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,297,0,85,157,0,10,305,382,77.74869109947645,Czech <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,American English <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,93,100,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-kservice,173,0,0,28,0,0,149,173,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-ksmtp,36,0,50,9,0,3,35,86,41.86046511627907,Czech <kde-i18n-doc@kde.org>
+kf5-ktexteditor,6670,0,2563,1040,0,224,5779,9233,72.24087512184555,Czech <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,469,0,4,129,0,1,433,473,99.15433403805497,Czech <kde-i18n-doc@kde.org>
+kf5-ktnef,298,0,57,127,0,16,302,355,83.94366197183099,Czech <kde-i18n-doc@kde.org>
+kf5-kunitconversion,2979,0,2778,1316,0,1167,3617,5757,51.745700885878065,Czech <kde-i18n-doc@kde.org>
+kf5-kwallet,1354,0,106,96,0,14,1144,1460,92.73972602739727,Czech <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1231,0,62,441,0,22,1178,1293,95.20494972931168,Czech <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,American English <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1518,0,56,225,0,5,1359,1574,96.44218551461246,Czech <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,10,13,100.0,Czech <cs@li.org>
+kf5-libgravatar,23,0,0,10,0,0,24,23,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-libkcddb,400,0,0,211,0,0,390,400,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,14,15,100.0,Czech <cs@li.org>
+kf5-libkdepim,35,0,0,10,0,0,38,35,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,129,139,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-libkleo,873,0,1550,294,0,136,839,2423,36.029715229054894,Czech <kde-i18n-doc@kde.org>
+kf5-libksane,298,0,6,92,0,1,291,304,98.02631578947368,Czech <kde-i18n-doc@kde.org>
+kf5-libksieve,1131,0,1991,375,0,162,1068,3122,36.226777706598334,Czech <kde-i18n-doc@kde.org>
+kf5-libktorrent,465,0,0,105,0,0,456,465,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-mailcommon,1915,0,840,427,0,71,1748,2755,69.50998185117967,Czech <kde-i18n-doc@kde.org>
+kf5-mailimporter,1267,0,141,106,0,21,1149,1408,89.98579545454545,Czech <kde-i18n-doc@kde.org>
+kf5-messagelib,5835,0,1998,1197,0,174,5281,7833,74.49253159708924,Czech <kde-i18n-doc@kde.org>
+kf5-pimcommon,778,0,52,201,0,7,707,830,93.73493975903614,Czech <kde-i18n-doc@kde.org>
+kf5-plasma,316,0,46,102,0,3,306,362,87.29281767955801,Czech <kde-i18n-doc@kde.org>
+kf5-purpose,192,0,131,55,0,20,181,323,59.44272445820433,Czech <kde-i18n-doc@kde.org>
+kf5-solid,568,0,20,157,0,2,487,588,96.5986394557823,Czech <kde-i18n-doc@kde.org>
+kf5-sonnet,683,0,0,76,0,0,567,683,100.0,Czech <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,490,0,157,354,0,29,489,647,75.73415765069552,Czech <kde-i18n-doc@kde.org>
+kfind,517,0,0,117,0,0,484,517,100.0,Czech <kde-i18n-doc@kde.org>
+kflickr,216,0,116,70,0,17,221,332,65.06024096385542,Czech <cs@li.org>
+kfloppy,641,0,0,100,0,0,622,641,100.0,Czech <kde-i18n-doc@kde.org>
+kfourinline,392,0,0,157,0,0,382,392,100.0,Czech <kde-i18n-doc@kde.org>
+kgamma,130,0,0,16,0,0,112,130,100.0,Czech <kde-i18n-doc@kde.org>
+kgeography,9747,0,265,7145,0,92,9860,10012,97.35317618857371,Czech <kde-i18n-doc@kde.org>
+kget,2776,0,0,743,0,0,2628,2776,100.0,Czech <kde-i18n-doc@kde.org>
+kgoldrunner,1510,0,26501,344,0,664,1300,28011,5.390739352397272,Czech <kde-i18n-doc@kde.org>
+kgpg,3508,0,1764,621,0,77,3335,5272,66.5402124430956,Czech <kde-i18n-doc@kde.org>
+kgrab,370,0,0,53,0,0,313,370,100.0,Český <cs@li.org>
+kgraphviewer,1205,0,0,215,0,0,1102,1205,100.0,Czech <kde-i18n-doc@kde.org>
+khangman,383,0,92,107,0,13,385,475,80.63157894736842,Czech <kde-i18n-doc@kde.org>
+khelpcenter,238,0,27,88,0,2,244,265,89.81132075471699,Czech <kde-i18n-doc@kde.org>
+khotkeys,451,0,0,136,0,0,421,451,100.0,Czech <kde-i18n-doc@kde.org>
+kicad,35171,2681,3894,7373,418,234,32956,41746,84.24998802280457,Czech <https://hosted.weblate.org/projects/kicad/v7/cs/>
+kiconedit,709,5,12,152,1,2,623,726,97.65840220385675,Czech <kde-i18n-doc@kde.org>
+kid3,3147,0,42,1385,0,10,3302,3189,98.6829727187206,Czech <kde-i18n-doc@kde.org>
+kig,4472,0,3385,828,0,458,3732,7857,56.91739849815451,Czech <kde-i18n-doc@kde.org>
+kigo,164,0,340,84,0,47,168,504,32.53968253968254,Czech <kde-i18n-doc@kde.org>
+kile,12680,0,314,2158,0,25,10996,12994,97.5835000769586,Czech <kde-i18n-doc@kde.org>
+killbots,400,0,237,97,0,30,367,637,62.79434850863422,Czech <kde-i18n-doc@kde.org>
+kinfocenter,740,0,35,364,0,13,754,775,95.48387096774194,Czech <kde-i18n-doc@kde.org>
+kio-admin,3,0,0,1,0,0,3,3,100.0,Czech <kde-i18n-doc@kde.org>
+kio-extras,901,0,265,138,0,16,775,1166,77.27272727272727,Czech <kde-i18n-doc@kde.org>
+kio-gdrive,68,0,8,17,0,1,62,76,89.47368421052632,Czech <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Czech <kde-i18n-doc@lists.kde.org>
+kirigami-gallery,120,0,845,71,0,68,120,965,12.435233160621761,Czech <kde-i18n-doc@kde.org>
+kiriki,142,0,2,49,0,1,135,144,98.61111111111111,Czech <kde-i18n-doc@kde.org>
+kiten,471,0,212,140,0,33,513,683,68.96046852122987,Czech <kde-i18n-doc@kde.org>
+kjots,234,0,417,75,0,59,252,651,35.944700460829495,Czech <kde-i18n-doc@kde.org>
+kjournald,73,0,43,46,0,12,74,116,62.93103448275862,Czech <kde-i18n-doc@kde.org>
+kjumpingcube,181,0,232,57,0,38,160,413,43.82566585956417,Czech <kde-i18n-doc@kde.org>
+klamav,767,142,1594,174,37,208,691,2503,30.643228126248502,<cs@li.org>
+klavaro,1775,40,78,220,6,5,1568,1893,93.76650818806128,Czech <translation-team-cs@lists.sourceforge.net>
+kleopatra,3116,0,9413,966,0,937,3042,12529,24.870300901907573,Czech <kde-i18n-doc@kde.org>
+klettres,440,0,0,85,0,0,404,440,100.0,Czech <kde-i18n-doc@kde.org>
+klickety,174,0,4,61,0,1,165,178,97.75280898876404,Czech <kde-i18n-doc@kde.org>
+klines,99,0,0,28,0,0,87,99,100.0,Czech <kde-i18n-doc@kde.org>
+kmag,432,0,0,98,0,0,383,432,100.0,Czech <kde-i18n-doc@kde.org>
+kmahjongg,363,0,14,103,0,1,359,377,96.28647214854111,Czech <kde-i18n-doc@kde.org>
+kmail,6931,0,2188,1304,0,193,6399,9119,76.00614102423512,Czech <kde-i18n-doc@kde.org>
+kmail-account-wizard,448,0,367,97,0,34,397,815,54.969325153374236,Czech <kde-i18n-doc@kde.org>
+kmenuedit,285,0,0,67,0,0,234,285,100.0,Czech <kde-i18n-doc@kde.org>
+kmid2,915,80,27,306,18,9,955,1022,89.53033268101761,Czech <kde-i18n-doc@kde.org>
+kmines,135,0,21,43,0,2,128,156,86.53846153846155,Czech <kde-i18n-doc@kde.org>
+kmix,886,0,246,204,0,20,811,1132,78.26855123674912,Czech <kde-i18n-doc@kde.org>
+kmousetool,143,0,4,31,0,1,137,147,97.27891156462584,Czech <kde-i18n-doc@kde.org>
+kmouth,1496,0,0,208,0,0,1146,1496,100.0,Czech <kde-i18n-doc@kde.org>
+kmplayer,1248,0,0,370,0,0,1269,1248,100.0,Czech <kde-i18n-doc@kde.org>
+kmplot,2489,0,11,481,0,4,2186,2500,99.56,Czech <kde-i18n-doc@kde.org>
+kmymoney,14394,0,7657,2830,0,872,13173,22051,65.27595120402702,Czech <kde-i18n-doc@kde.org>
+knavalbattle,401,0,0,104,0,0,389,401,100.0,Czech <kde-i18n-doc@kde.org>
+knetwalk,243,0,0,56,0,0,242,243,100.0,Czech <kde-i18n-doc@kde.org>
+knights,796,0,0,234,0,0,735,796,100.0,Czech <kde-i18n-doc@kde.org>
+knotes,629,0,158,226,0,15,601,787,79.92376111817026,Czech <kde-i18n-doc@kde.org>
+koffice-kivio,5239,321,2857,1505,190,666,4699,8417,62.24307948200072,cs_CZ <cs@li.org>
+koko,250,0,53,125,0,11,253,303,82.50825082508251,Czech <kde-i18n-doc@kde.org>
+kolf,401,0,0,148,0,0,410,401,100.0,Czech <kde-i18n-doc@kde.org>
+kollision,90,0,19,26,0,4,106,109,82.56880733944955,Czech <kde-i18n-doc@kde.org>
+kolourpaint,2022,0,554,443,0,7,1783,2576,78.49378881987577,Czech <kde-i18n-doc@kde.org>
+kommit,243,0,1070,172,0,187,239,1313,18.507235338918505,Czech <kde-i18n-doc@kde.org>
+kompare,744,0,669,175,0,25,697,1413,52.653927813163484,Czech <kde-i18n-doc@kde.org>
+kongress,97,0,54,48,0,10,102,151,64.23841059602648,Czech <kde-i18n-doc@kde.org>
+konqueror,8007,0,1129,1182,0,91,7101,9136,87.64229422066549,Czech <kde-i18n-doc@kde.org>
+konquest,239,0,7,95,0,3,247,246,97.15447154471545,Czech <kde-i18n-doc@kde.org>
+konsole5,2774,0,1222,715,0,125,2541,3996,69.41941941941941,Czech <kde-i18n-doc@kde.org>
+kontact,252,0,240,69,0,18,249,492,51.21951219512195,Czech <kde-i18n-doc@kde.org>
+kontrast,59,0,269,24,0,22,57,328,17.98780487804878,Czech <kde-i18n-doc@kde.org>
+konversation,4333,0,6029,1241,0,407,4130,10362,41.816251688863154,Czech <kde-i18n-doc@kde.org>
+kopeninghours,16,0,144,8,0,12,16,160,10.0,Czech <kde-i18n-doc@kde.org>
+kopete,14795,0,2380,3042,0,253,12973,17175,86.14264919941775,Czech <kde-i18n-doc@kde.org>
+korganizer,3316,0,3578,640,0,241,3024,6894,48.0997969248622,Czech <kde-i18n-doc@kde.org>
+kosmindoormap,335,0,122,252,0,66,340,457,73.30415754923413,Czech <kde-i18n-doc@kde.org>
+koverartist,763,0,0,185,0,0,735,763,100.0,Czech <kde-i18n-doc@kde.org>
+kpat,481,0,84,161,0,38,485,565,85.13274336283186,Czech <kde-i18n-doc@kde.org>
+kphotoalbum,3991,283,4739,804,30,223,3812,9013,44.28048374570066,Czech <kde-i18n-doc@kde.org>
+kpilot,2424,661,4071,567,111,183,2154,7156,33.87367244270542,Czech <kde-i18n-doc@kde.org>
+kpipewire,16,0,0,3,0,0,16,16,100.0,Czech <kde-i18n-doc@kde.org>
+kpmcore,1106,0,2136,255,0,239,1051,3242,34.11474398519432,Czech <kde-i18n-doc@kde.org>
+kproperty,131,0,14,75,0,7,132,145,90.3448275862069,Czech <kde-i18n-doc@kde.org>
+krb5-auth-dialog,2936,0,0,430,0,0,2940,2936,100.0,Czech <gnome-cs-list@gnome.org>
+krdc,1093,0,69,254,0,6,1025,1162,94.06196213425129,Czech <kde-i18n-doc@kde.org>
+krecipes,2504,0,1142,636,0,129,2408,3646,68.67800329127812,Czech <kde-i18n-doc@kde.org>
+krecorder,93,0,43,52,0,7,88,136,68.38235294117648,Czech <kde-i18n-doc@kde.org>
+krename,2072,0,70,447,0,5,2006,2142,96.73202614379085,Czech <kde-i18n-doc@kde.org>
+kreport,302,0,153,169,0,24,309,455,66.37362637362637,Czech <kde-i18n-doc@kde.org>
+kreversi,424,0,1,139,0,1,405,425,99.76470588235294,Czech <kde-i18n-doc@kde.org>
+krfb,480,0,255,84,0,21,430,735,65.3061224489796,Czech <kde-i18n-doc@kde.org>
+krita,10497,4,25423,4455,2,4095,10283,35924,29.220020042311546,Czech <kde-i18n-doc@kde.org>
+kronometer,233,0,0,80,0,0,201,233,100.0,Czech <kde-i18n-doc@kde.org>
+kruler,158,0,0,44,0,0,141,158,100.0,Czech <kde-i18n-doc@kde.org>
+krusader,7652,0,447,1720,0,41,7269,8099,94.48080009877764,Czech <kde-i18n-doc@kde.org>
+ksanecore,27,0,32,6,0,4,22,59,45.76271186440678,Czech <kde-i18n-doc@kde.org>
+kscreen,207,0,212,66,0,13,209,419,49.40334128878281,Czech <kde-i18n-doc@kde.org>
+kscreenlocker,114,0,131,28,0,3,113,245,46.53061224489796,Czech <kde-i18n-doc@kde.org>
+ksensors,57,18,89,33,14,50,58,164,34.756097560975604,Czech <C@li.org>
+kshisen,578,0,89,70,0,5,541,667,86.65667166416792,Czech <kde-i18n-doc@kde.org>
+ksig,71,2,12,17,1,8,58,85,83.52941176470588,Czech <kde-czech-apps@lists.sf.net>
+ksirk,1339,0,4417,385,0,374,1212,5756,23.262682418346074,Czech <kde-i18n-doc@kde.org>
+ksnakeduel,241,0,0,55,0,0,245,241,100.0,Czech <kde-i18n-doc@kde.org>
+kspaceduel,165,0,0,81,0,0,166,165,100.0,Czech <kde-i18n-doc@kde.org>
+ksquares,260,0,0,78,0,0,203,260,100.0,Czech <kde-i18n-doc@kde.org>
+ksshaskpass,51,0,0,15,0,0,48,51,100.0,Czech <kde-i18n-doc@kde.org>
+kstars,16184,0,42575,7599,0,5042,15062,58759,27.54301468711176,Czech <kde-i18n-doc@kde.org>
+ksudoku,459,0,1287,104,0,59,462,1746,26.288659793814436,Czech <kde-i18n-doc@kde.org>
+ksysguard,990,0,103,233,0,4,876,1093,90.57639524245197,Czech <kde-i18n-doc@kde.org>
+ksystemlog,2119,0,982,429,0,59,1861,3101,68.33279587229926,Czech <kde-i18n-doc@kde.org>
+ksystemstats,353,0,125,163,0,19,348,478,73.84937238493724,Czech <kde-i18n-doc@kde.org>
+kteatime,203,0,0,67,0,0,232,203,100.0,Czech <kde-i18n-doc@kde.org>
+ktechlab,605,0,3099,370,0,563,607,3704,16.333693304535636,Czech <kde-i18n-doc@kde.org>
+ktextaddons,671,0,191,259,0,38,635,862,77.84222737819026,Czech <kde-i18n-doc@kde.org>
+ktikz,331,30,9,66,5,2,292,370,89.45945945945945,Czech <kde-i18n-doc@kde.org>
+ktimer,241,0,17,51,0,2,181,258,93.4108527131783,Czech <kde-i18n-doc@kde.org>
+ktorrent,7030,0,432,1348,0,13,6194,7462,94.21066738139909,Czech <kde-i18n-doc@kde.org>
+ktouch,854,0,110,245,0,14,814,964,88.58921161825725,Czech <kde-i18n-doc@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1037,1100,100.0,Czech <kde-i18n-doc@kde.org>
+ktp-approver,71,0,0,18,0,0,66,71,100.0,Czech <kde-i18n-doc@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,77,83,100.0,Czech <kde-i18n-doc@kde.org>
+ktp-common-internals,989,0,0,206,0,0,876,989,100.0,Czech <kde-i18n-doc@kde.org>
+ktp-contact-list,486,0,194,118,0,9,451,680,71.47058823529412,Czech <kde-i18n-doc@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,200,208,100.0,Czech <kde-i18n-doc@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,66,75,100.0,Czech <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,142,141,100.0,Czech <kde-i18n-doc@kde.org>
+ktp-kded-integration-module,296,0,194,50,0,9,255,490,60.40816326530612,Czech <kde-i18n-doc@kde.org>
+ktp-send-file,60,0,0,18,0,0,55,60,100.0,Czech <kde-i18n-doc@kde.org>
+ktp-text-ui,1439,0,0,320,0,0,1299,1439,100.0,Czech <kde-i18n-doc@kde.org>
+ktrip,76,0,27,35,0,7,83,103,73.7864077669903,Czech <kde-i18n-doc@kde.org>
+ktuberling,111,0,47,37,0,1,115,158,70.25316455696202,Czech <kde-i18n-doc@kde.org>
+kturtle,1538,0,0,349,0,0,1418,1538,100.0,Czech <kde-i18n-doc@kde.org>
+kubrick,1205,0,0,166,0,0,1205,1205,100.0,Czech <kde-i18n-doc@kde.org>
+kuserfeedback,340,0,817,158,0,112,345,1157,29.386343993085568,Czech <kde-i18n-doc@kde.org>
+kvirc,8084,0,16503,1844,0,1862,7490,24587,32.87916378574043,Czech (http://www.transifex.com/kvirc/KVIrc/language/cs/)
+kwalletmanager5,810,0,29,168,0,1,686,839,96.5435041716329,Czech <kde-i18n-doc@kde.org>
+kwave,5613,0,185,1283,0,22,5343,5798,96.8092445670921,Czech <kde-i18n-doc@kde.org>
+kweather,136,0,27,74,0,4,131,163,83.43558282208589,Czech <kde-i18n-doc@kde.org>
+kwebkitpart,609,0,60,163,0,2,557,669,91.03139013452915,Czech <kde-i18n-doc@kde.org>
+kwin,4285,0,1844,1089,0,141,4042,6129,69.91352586066243,Czech <kde-i18n-doc@kde.org>
+kwooty,1592,0,0,397,0,0,1676,1592,100.0,Czech <kde-i18n-de@kde.org>
+kwordquiz,243,0,9,91,0,1,247,252,96.42857142857143,Czech <kde-i18n-doc@kde.org>
+kxstitch,1975,4,37,562,1,8,1814,2016,97.96626984126983,Czech <kde-i18n-doc@kde.org>
+l3afpad,113,0,17,61,0,3,115,130,86.92307692307692,Czech <cs@li.org>
+lagrange,1845,0,0,657,0,0,2408,1845,100.0,LANGUAGE <LL@li.org>
+lasem,29,0,0,10,0,0,30,29,100.0,Czech <gnome-cs-list@gnome.org>
+latte-dock,1028,0,2498,472,0,302,1052,3526,29.154849688031764,Czech <kde-i18n-doc@kde.org>
+leafpad,125,0,0,68,0,0,135,125,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+lemonldap-ng,178,0,0,15,0,0,139,178,100.0,Czech <debian-l10n-czech@lists.debian.org>
+lftp,4025,5,3,500,1,1,4089,4033,99.8016364988842,Czech <translation-team-cs@lists.sourceforge.net>
+libadwaita,284,0,0,80,0,0,285,284,100.0,Czech <gnome-cs-list@gnome.org>
+libalkimia,205,0,336,52,0,47,172,541,37.89279112754159,Czech <kde-i18n-doc@kde.org>
+libappstream-glib,978,19,16,204,4,2,953,1013,96.54491609081934,Czech (http://www.transifex.com/freedesktop/appstream-glib/language/cs/)
+libbonobo,543,0,0,107,0,0,532,543,100.0,Czech <gnome-cs-list@gnome.org>
+libbonoboui,368,0,0,115,0,0,342,368,100.0,Czech <gnome-cs-list@gnome.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Czech
+libcryptui,752,0,0,192,0,0,698,752,100.0,Czech <gnome-cs-list@gnome.org>
+libdatovka,3517,0,0,536,0,0,3463,3517,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+libdnf,984,0,680,165,0,73,958,1664,59.13461538461539,Czech <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/cs/>
+libecpg,26381,0,8,4162,0,1,24782,26389,99.9696843381712,Czech <info@cspug.cx>
+libepc,147,0,0,26,0,0,146,147,100.0,Czech <gnome-cs-list@gnome.org>
+libexif,3296,273,4244,725,71,524,2934,7813,42.18610008959426,Czech <translation-team-cs@lists.sourceforge.net>
+libfilezilla,402,0,0,76,0,0,367,402,100.0,Michal Molhanec <michal@molhanec.net>
+libfm,1558,13,4,389,4,1,1421,1575,98.92063492063492,Czech <radek@fastlinux.eu>
+libgda,17925,0,0,2460,0,0,16682,17925,100.0,čeština <gnome-cs-list@gnome.org>
+libgda5,17319,0,0,2419,0,0,16060,17319,100.0,Czech <gnome-cs-list@gnome.org>
+libgdata,694,0,0,86,0,0,637,694,100.0,čeština <gnome-cs-list@gnome.org>
+libgdl,659,0,0,96,0,0,568,659,100.0,Czech <gnome-cs-list@gnome.org>
+libgnome,1773,0,0,273,0,0,1587,1773,100.0,Czech <gnome-cs-list@gnome.org>
+libgnome-games-support,43,0,0,14,0,0,47,43,100.0,Czech <gnome-cs-list@gnome.org>
+libgnome-keyring,44,0,0,9,0,0,36,44,100.0,Czech <gnome-cs-list@gnome.org>
+libgnomecanvas,378,0,0,95,0,0,347,378,100.0,Czech <gnome-cs-list@gnome.org>
+libgnomekbd,188,0,0,40,0,0,165,188,100.0,čeština <gnome-cs-list@gnome.org>
+libgnomeui,1309,0,0,334,0,0,1151,1309,100.0,Czech <gnome-cs-list@gnome.org>
+libgovirt,103,0,0,23,0,0,99,103,100.0,Czech <gnome-cs-list@gnome.org>
+libgpg-error,1627,5,4,489,2,2,1655,1636,99.44987775061125,Czech <translation-team-cs@lists.sourceforge.net>
+libgphoto2,10423,1651,1001,2231,520,255,11780,13075,79.717017208413,Czech <translation-team-cs@lists.sourceforge.net>
+libgsf,725,0,0,151,0,0,695,725,100.0,Czech <gnome-cs-list@gnome.org>
+libgtop2,126,0,0,40,0,0,133,126,100.0,Czech <gnome-cs-list@gnome.org>
+libguestfs,164,5,189564,44,1,16969,164,189733,0.08643725656580563,Czech <https://translate.fedoraproject.org/projects/libguestfs/libguestfs-master/cs/>
+libgweather,6394,0,0,4696,0,0,6337,6394,100.0,čeština <gnome-cs-list@gnome.org>
+libgweather4,6804,0,0,5039,0,0,6738,6804,100.0,čeština <gnome-cs-list@gnome.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libhandy,487,11,910,109,2,197,413,1408,34.58806818181818,Czech <gnome-cs-list@gnome.org>
+libidn,415,0,0,58,0,0,417,415,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+libidn1.34,414,0,14,58,0,2,416,428,96.72897196261682,Czech <translation-team-cs@lists.sourceforge.net>
+libidn2,322,0,0,41,0,0,327,322,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+libisds,3211,27,0,492,3,0,3181,3238,99.16615194564547,Czech <translation-team-cs@lists.sourceforge.net>
+libkdegames,370,0,0,132,0,0,332,370,100.0,Czech <kde-i18n-doc@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,187,171,100.0,Czech <kde-i18n-doc@kde.org>
+libkgapi,343,0,35,79,0,6,341,378,90.74074074074075,Czech <kde-i18n-doc@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Czech <cs@li.org>
+libkomparediff2,124,0,19,18,0,1,101,143,86.7132867132867,Czech <kde-i18n-doc@kde.org>
+libkrunfw,394,211,544,39,21,96,362,1149,34.29068755439513,Czech <diskuze@lists.l10n.cz>
+libkscreen-qt5,8,0,16,2,0,4,10,24,33.33333333333333,Czech <kde-i18n-doc@kde.org>
+libksysguard,1587,0,2755,571,0,161,1501,4342,36.54997696913865,Czech <kde-i18n-doc@kde.org>
+libmatekbd,308,0,0,91,0,0,299,308,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+libmatemixer,242,0,0,126,0,0,275,242,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+libmateweather,1054,0,5129,537,0,4061,995,6183,17.046741064208312,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+libmypaint,2303,0,0,162,0,0,2110,2303,100.0,Czech <https://hosted.weblate.org/projects/mypaint/libmypaint/cs/>
+libnma,800,4,3,179,2,2,746,807,99.13258983890955,čeština <gnome-cs-list@gnome.org>
+libosinfo,817,0,0,171,0,0,775,817,100.0,Czech <https://translate.fedoraproject.org/projects/libosinfo/libosinfo/cs/>
+libpanel,87,0,0,25,0,0,81,87,100.0,Czech <gnome-cs-list@gnome.org>
+libpeas,103,0,0,29,0,0,108,103,100.0,Czech <gnome-cs-list@gnome.org>
+libpq,20830,0,0,3412,0,0,19464,20830,100.0,
+libpwquality,345,0,0,51,0,0,293,345,100.0,Czech <https://translate.stg.fedoraproject.org/projects/libpwquality/app/cs/>
+libreoffice,736971,0,0,91740,0,0,620300,736971,100.0,Czech <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/cs/>
+libreport,4928,0,0,603,0,0,4506,4928,100.0,Czech <https://translate.fedoraproject.org/projects/abrt/libreport/cs/>
+libsecret,64,0,0,10,0,0,61,64,100.0,Czech <gnome-cs-list@gnome.org>
+libshumate,8,0,0,4,0,0,8,8,100.0,Czech <gnome-cs-list@gnome.org>
+libsoup,183,0,0,43,0,0,188,183,100.0,čeština <gnome-cs-list@gnome.org>
+libsoup3,180,0,0,38,0,0,181,180,100.0,čeština <gnome-cs-list@gnome.org>
+libuser,1437,0,0,301,0,0,1381,1437,100.0,Czech (http://www.transifex.com/projects/p/fedora/language/cs/)
+libvirt,56730,2723,9133,8767,425,1213,58931,68586,82.7136733444143,Czech <https://translate.fedoraproject.org/projects/libvirt/libvirt/cs/>
+libvirt-glib,158,0,0,31,0,0,153,158,100.0,Czech <https://translate.stg.fedoraproject.org/projects/libvirt-glib/application/cs/>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Czech (http://www.transifex.com/projects/p/fedora/language/cs/)
+libwnck,1124,0,0,241,0,0,1076,1124,100.0,Czech <gnome-cs-list@gnome.org>
+libwnck3,1086,0,0,231,0,0,1037,1086,100.0,Czech <gnome-cs-list@gnome.org>
+libxfce4ui,1018,0,0,211,0,0,1004,1018,100.0,Czech (https://app.transifex.com/xfce/teams/16840/cs/)
+libxfce4util,424,0,0,7,0,0,378,424,100.0,Czech (http://www.transifex.com/xfce/libxfce4util/language/cs/)
+libzypp,2696,0,0,976,0,0,2578,2696,100.0,Czech <https://l10n.opensuse.org/projects/libzypp/master/cs/>
+lifeograph,328,386,792,87,132,223,298,1506,21.779548472775563,Czech <cs@li.org>
+liferea,1681,275,263,447,47,45,1606,2219,75.75484452456061,Martin Picek <picek.martin@gnome-cesko.cz>
+light-locker,207,0,53,30,0,7,195,260,79.61538461538461,Czech (http://www.transifex.com/the_cavalry/light-locker/language/cs/)
+lightdm,163,0,0,21,0,0,135,163,100.0,Czech <cs@li.org>
+lightdm-gtk,89,0,0,25,0,0,81,89,100.0,Czech <cs@li.org>
+lightdm-gtk-greeter-settings,478,0,41,163,0,8,444,519,92.10019267822736,Czech <cs@li.org>
+lightdm-settings,355,0,0,74,0,0,342,355,100.0,Czech <cs@li.org>
+lightsoff,1152,0,0,119,0,0,1020,1152,100.0,Czech <gnome-cs-list@gnome.org>
+lilypond,4660,0,0,762,0,0,4903,4660,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+lincity-ng,1205,0,718,411,0,46,1148,1923,62.66250650026001,Czech <cs@li.org>
+lingot,1002,0,377,110,0,42,809,1379,72.66134880348079,Czech <diskuze@lists.l10n.cz>
+linphone,1742,23,88,450,3,12,1696,1853,94.00971397733406,Czech <translation-team-cs@lists.sourceforge.net>
+litmus,76,289,384,14,54,78,70,749,10.14686248331108,cz
+lokalize,2298,0,1867,578,0,111,2164,4165,55.17406962785114,Czech <kde-i18n-doc@kde.org>
+lollypop,1423,0,5,454,0,1,1470,1428,99.64985994397759,Czech <https://hosted.weblate.org/projects/gnumdk/lollypop/cs/>
+lskat,254,0,0,83,0,0,241,254,100.0,Czech <kde-i18n-doc@kde.org>
+lxappearance-obconf,196,0,0,27,0,0,161,196,100.0,Czech <cs@li.org>
+lxde-common,14,0,0,5,0,0,17,14,100.0,LANGUAGE <LL@li.org>
+lxdm,48,0,0,26,0,0,47,48,100.0,
+lxhotkey,449,0,0,193,0,0,530,449,100.0,Czech <kde-i18n-doc@kde.org>
+lxinput,83,0,0,26,0,0,79,83,100.0,
+lxlauncher,58,0,0,17,0,0,57,58,100.0,Czech
+lxmenu-data,97,0,0,37,0,0,98,97,100.0,Czech <gnome-cs-list@gnome.org>
+lxmusic,203,0,0,89,0,0,224,203,100.0,Czech
+lxpanel,1344,33,22,443,3,21,1332,1399,96.06862044317369,Czech <kde-i18n-doc@kde.org>
+lxrandr,167,0,0,41,0,0,167,167,100.0,Czech
+lxshortcut,43,0,0,19,0,0,45,43,100.0,Czech
+lxtask,130,0,0,51,0,0,144,130,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+lynx,8354,0,0,1265,0,0,7664,8354,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+lyx,25832,0,0,7298,0,0,23542,25832,100.0,Czech <LL@li.org>
+m4,67,465,639,21,69,107,76,1171,5.721605465414176,Czech <cs@li.org>
+magpie,1253,0,0,148,0,0,1229,1253,100.0,čeština <gnome-cs-list@gnome.org>
+mail-notification,1908,0,0,354,0,0,1681,1908,100.0,Pav Lucistnik <pav@FreeBSD.org>
+mailman3,1212,0,3428,201,0,200,2127,4640,26.120689655172413,Czech <https://hosted.weblate.org/projects/gnu-mailman/mailman/cs/>
+mailnag,167,0,40,51,0,15,164,207,80.67632850241546,Czech <cs@li.org>
+make,2593,0,0,477,0,0,2735,2593,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+malcontent,536,0,0,91,0,0,525,536,100.0,none
+maliit-keyboard,66,7,8,51,2,8,65,81,81.48148148148148,
+mame,3150,0,535,1034,0,254,3334,3685,85.48168249660787,MAME Language Team
+man-db,1230,40,3,246,7,1,1369,1273,96.62215239591517,Czech <translation-team-cs@lists.sourceforge.net>
+man-pages-l10n,118725,43517,206579,18392,2179,14424,107311,368821,32.19041215115192,Czech <translation-team-cs@lists.sourceforge.net>
+man2html,58,0,0,3,0,0,47,58,100.0,Czech <debian-l10n-czech@lists.debian.org>
+manafirewall,348,0,837,109,0,32,318,1185,29.367088607594937,Czech (https://www.transifex.com/MageiaLinux/teams/9361/cs/)
+marble,5838,0,5776,2285,0,1056,5683,11614,50.26691923540555,Czech <kde-i18n-doc@kde.org>
+marco,4303,0,0,430,0,0,3831,4303,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mariadb,144,0,0,10,0,0,120,144,100.0,Czech <debian-l10n-czech@lists.debian.org>
+markdownpart,23,0,0,9,0,0,23,23,100.0,Czech <kde-i18n-doc@kde.org>
+marker,202,0,0,80,0,0,186,202,100.0,
+massif-visualizer,104,0,253,54,0,55,103,357,29.13165266106443,Czech <kde-i18n-doc@kde.org>
+mate-applets,7004,37,8916,963,8,675,6731,15957,43.89296233627875,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+mate-backgrounds,55,0,0,29,0,0,56,55,100.0,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+mate-calc,1618,0,1705,523,0,226,1664,3323,48.690941919951854,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+mate-control-center,3646,7,4600,1210,1,299,3583,8253,44.17787471222586,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-desktop,2365,11,0,300,1,0,2212,2376,99.53703703703704,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+mate-media,239,0,0,99,0,0,242,239,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-menu,301,0,7,109,0,1,315,308,97.72727272727273,Czech (http://www.transifex.com/mate/MATE/language/cs/)
+mate-menus,103,0,0,39,0,0,102,103,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-notification-daemon,186,0,0,53,0,0,196,186,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-panel,5672,3,1045,728,1,85,5072,6720,84.4047619047619,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-polkit,123,0,0,21,0,0,104,123,100.0,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+mate-power-manager,2919,0,2200,427,0,124,2817,5119,57.022856026567695,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-screensaver,1101,0,0,176,0,0,1001,1101,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-sensors-applet,261,14,1885,16,8,202,261,2160,12.083333333333334,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+mate-session-manager,715,0,0,132,0,0,692,715,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-settings-daemon,2207,0,0,319,0,0,2030,2207,100.0,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-system-monitor,1883,0,3010,380,0,280,1775,4893,38.483547925608015,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-terminal,5017,0,3369,569,0,234,4302,8386,59.825900310040545,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-themes,74,0,0,23,0,0,75,74,100.0,Czech (http://app.transifex.com/mate/MATE/language/cs/)
+mate-user-admin,591,0,14,124,0,2,552,605,97.68595041322314,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+mate-user-guide,18024,0,24949,1493,0,1735,15240,42973,41.94261513043074,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mate-utils,5453,0,4607,825,0,301,4958,10060,54.20477137176939,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+mbox-importer,40,0,0,13,0,0,41,40,100.0,Czech <kde-i18n-doc@kde.org>
+mc,4394,0,0,1268,0,0,4642,4394,100.0,Czech (http://app.transifex.com/mc/mc/language/cs/)
+mcrypt,308,127,530,44,18,81,264,965,31.917098445595855,Czech <cs@li.org>
+mediawriter,845,0,0,162,0,0,784,845,100.0,Czech <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/cs/>
+meld,5999,0,0,755,0,0,5591,5999,100.0,čeština <gnome-cs-list@gnome.org>
+menulibre,670,25,178,138,1,27,593,873,76.74684994272624,Czech <cs@li.org>
+merkuro,1399,0,442,582,0,66,1378,1841,75.99130907115698,Czech <kde-i18n-doc@kde.org>
+metacity,1831,0,0,278,0,0,1759,1831,100.0,čeština <gnome-cs-list@gnome.org>
+midori,2666,0,875,644,0,152,2585,3541,75.28946625247104,Czech < >
+minder,2066,166,5160,867,48,541,2071,7392,27.9491341991342,none
+minetest,4767,909,3847,924,124,307,4672,9523,50.057754909167286,Czech <https://hosted.weblate.org/projects/minetest/minetest/cs/>
+mingw-GConf2,4088,0,0,497,0,0,3994,4088,100.0,Czech <gnome-cs-list@gnome.org>
+mingw-atk,440,0,0,169,0,0,417,440,100.0,Czech <gnome-cs-list@gnome.org>
+mingw-colord,1885,0,0,203,0,0,1767,1885,100.0,Czech (http://www.transifex.com/projects/p/colord/language/cs/)
+mingw-gdk-pixbuf,1325,0,0,198,0,0,1349,1325,100.0,čeština <gnome-cs-list@gnome.org>
+mingw-gettext,1237,1091,5804,189,112,564,1201,8132,15.211510083620267,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-glib-networking,434,0,0,64,0,0,449,434,100.0,čeština <gnome-cs-list@gnome.org>
+mingw-glib2,7693,0,0,1211,0,0,7440,7693,100.0,čeština <gnome-cs-list@gnome.org>
+mingw-goocanvas2,1864,0,0,283,0,0,1637,1864,100.0,čeština <gnome-cs-list@gnome.org>
+mingw-gstreamer,1914,3,0,347,1,0,1925,1917,99.8435054773083,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-gstreamer1,2055,39,113,370,7,9,2078,2207,93.11282283642954,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,194,0,3,28,0,1,211,197,98.47715736040608,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,930,36,106,193,8,20,923,1072,86.75373134328358,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,700,76,54,86,11,7,625,830,84.33734939759037,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-gtk2,12400,0,0,2583,0,0,10758,12400,100.0,Czech <gnome-cs-list@gnome.org>
+mingw-gtk3,16727,0,0,3939,0,0,14960,16727,100.0,čeština <gnome-cs-list@gnome.org>
+mingw-gtk4,4123,0,1,1487,0,1,4192,4124,99.97575169738118,čeština <gnome-cs-list@gnome.org>
+mingw-gtksourceview3,322,0,0,106,0,0,320,322,100.0,čeština <gnome-cs-list@gnome.org>
+mingw-hunspell,613,0,0,79,0,0,615,613,100.0,Czech <https://hosted.weblate.org/projects/hunspell/translations/cs/>
+mingw-json-glib,307,0,0,47,0,0,283,307,100.0,čeština <gnome-cs-list@gnome.org>
+mingw-libcharset,342,0,0,46,0,0,333,342,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-libgovirt,103,0,0,23,0,0,99,103,100.0,Czech <gnome-cs-list@gnome.org>
+mingw-libgpg-error,978,274,172,327,77,42,986,1424,68.67977528089888,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-libgsf,720,0,0,150,0,0,691,720,100.0,Czech <gnome-cs-list@gnome.org>
+mingw-libidn,415,0,0,58,0,0,417,415,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-libidn2,322,0,0,41,0,0,327,322,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+mingw-libsoup,183,0,0,43,0,0,188,183,100.0,čeština <gnome-cs-list@gnome.org>
+mingw-mediawriter,845,0,0,162,0,0,784,845,100.0,Czech <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/cs/>
+mingw-p11-kit,476,0,0,81,0,0,387,476,100.0,Czech (http://www.transifex.com/freedesktop/p11-kit/language/cs/)
+mingw-postgresql,20830,0,0,3412,0,0,19464,20830,100.0,
+mingw-sane-backends,3062,759,2148,584,260,397,2812,5969,51.2983749371754,
+mingw-spice-gtk,311,5,23,65,1,7,318,339,91.74041297935102,Czech < >
+mingw-wxWidgets,3581,994,1921,792,242,470,3267,6496,55.126231527093594,wxWidgets translators <wx-translators@wxwidgets.org>
+mingw-wxWidgets3,7624,71,105,1780,47,55,7055,7800,97.74358974358974,wxWidgets translators <wx-translators@wxwidgets.org>
+mingw-xz,1130,67,195,134,7,20,1130,1392,81.17816091954023,Czech <diskuze@lists.l10n.cz>
+minicom,1168,299,468,312,55,45,1199,1935,60.36175710594315,Czech <cs@li.org>
+minigalaxy,417,0,0,138,0,0,383,417,100.0,
+minuet,49,0,363,21,0,138,48,412,11.893203883495145,Czech <kde-i18n-doc@kde.org>
+mirage,608,145,64,186,50,9,577,817,74.4186046511628,Czech <translation-team-cs@lists.sourceforge.net>
+mkvtoolnix,17067,2170,5815,2358,279,426,15477,25052,68.12629730161265,Czech (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/cs/)
+mlocate,581,0,0,51,0,0,568,581,100.0,Czech (http://www.transifex.com/projects/p/fedora/language/cs/)
+modem-manager-gui,18,0,114,2,0,25,18,132,13.636363636363635,Czech (Czech Republic) (http://www.transifex.com/ethereal/modem-manager-gui/language/cs_CZ/)
+monodevelop,13351,4677,5270,3171,1291,836,11949,23298,57.30534809854924,cs <cs@li.org>
+moodle,11,33,8,9,3,2,11,52,21.153846153846153,i18n@lists.horde.org
+moserial,2485,0,0,234,0,0,2299,2485,100.0,Czech <gnome-cs-list@gnome.org>
+mousepad,1564,0,136,412,0,16,1475,1700,92.0,Czech (http://app.transifex.com/xfce/xfce-apps/language/cs/)
+mousetweaks,131,0,0,34,0,0,131,131,100.0,čeština <gnome-cs-list@gnome.org>
+mozo,46,0,0,24,0,0,42,46,100.0,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+msitools,85,0,0,29,0,0,93,85,100.0,čeština <gnome-cs-list@gnome.org>
+mtpaint,2730,0,729,767,0,240,2533,3459,78.92454466608847,Czech <en@li.org>
+muffin,1219,0,0,144,0,0,1196,1219,100.0,čeština <gnome-cs-list@gnome.org>
+multimedia-menus,56,0,0,22,0,0,60,56,100.0,Czech <fedora-cs-list@redhat.com>
+mutt,6717,8,4,1417,2,1,6685,6729,99.82166740971913,Czech <translation-team-cs@lists.sourceforge.net>
+mutter,1326,0,0,144,0,0,1294,1326,100.0,čeština <gnome-cs-list@gnome.org>
+mypaint,6381,0,0,1270,0,0,6012,6381,100.0,Czech <https://hosted.weblate.org/projects/mypaint/mypaint/cs/>
+naev-data,42629,3083,292151,3018,472,15174,37020,337863,12.617244267646946,Czech <https://hosted.weblate.org/projects/naev/naev-0-11-x/cs/>
+nano,3303,0,183,592,0,40,3189,3486,94.75043029259896,Czech <translation-team-cs@lists.sourceforge.net>
+nautilus,5495,0,0,1117,0,0,5627,5495,100.0,čeština <gnome-cs-list@gnome.org>
+ncmpc,561,73,79,217,25,34,569,713,78.68162692847125,Czech <https://hosted.weblate.org/projects/ncmpc/translations/cs/>
+ndisc6,939,87,6,107,2,1,918,1032,90.98837209302324,Czech <translation-team-cs@lists.sourceforge.net>
+needrestart,476,0,0,58,0,0,501,476,100.0,
+nemiver,4205,0,0,516,0,0,3850,4205,100.0,Czech <gnome-cs-list@gnome.org>
+neochat,699,0,2032,337,0,394,721,2731,25.59502013914317,Czech <kde-i18n-doc@kde.org>
+neomutt,8080,0,0,1636,0,0,8068,8080,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+neon,76,289,384,14,54,78,70,749,10.14686248331108,cz
+neovim,6800,3746,2784,1506,732,446,6784,13330,51.012753188297076,Czech <cs@li.org>
+net-tools,2928,0,0,608,0,0,3121,2928,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+network-manager-applet,4292,14,102,853,6,11,4156,4408,97.36842105263158,čeština <gnome-cs-list@gnome.org>
+newt,4,0,0,4,0,0,4,4,100.0,Czech
+nfoview,115,0,0,42,0,0,112,115,100.0,Czech (http://www.transifex.com/otsaloma/nfoview/language/cs/)
+nicotine+,87,4848,132,16,1239,23,79,5067,1.7169923031379515,Czech <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/cs/>
+notejot,489,0,0,116,0,0,458,489,100.0,čeština <>
+notes-up,193,6,98,95,4,40,183,297,64.98316498316498,none
+notification-daemon,33,0,0,11,0,0,32,33,100.0,Czech <gnome-cs-list@gnome.org>
+novnc,136,0,0,69,0,0,133,136,100.0,Czech
+nutty,0,0,608,0,0,152,0,608,0.0,
+obconf,686,0,52,144,0,12,581,738,92.95392953929539,Czech <diskuze@lists.l10n.cz>
+ocfs2-tools,186,0,0,16,0,0,173,186,100.0,Czech <debian-l10n-czech@lists.debian.org>
+office-runner,125,0,0,21,0,0,121,125,100.0,čeština <gnome-cs-list@gnome.org>
+okteta,752,0,1786,366,0,252,712,2538,29.629629629629626,Czech <kde-i18n-doc@kde.org>
+okular,4687,0,1025,1159,0,90,4295,5712,82.05532212885154,Czech <kde-i18n-doc@kde.org>
+onboard,1957,0,361,458,0,52,1794,2318,84.42622950819673,Czech <cs@li.org>
+onionshare,0,0,574,0,0,27,0,574,0.0,none
+openbox,473,0,33,90,0,4,419,506,93.47826086956522,Czech <cs@li.org>
+openconnect,5723,0,3808,1017,0,548,5922,9531,60.046165145315285,Czech <gnome-cs-list@gnome.org>
+openscad,541,179,795,244,66,175,529,1515,35.70957095709571,Czech <miro@hroncok.cz>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2270,0,34,901,0,11,2318,2304,98.52430555555556,Czech (https://www.transifex.com/xfce/teams/16840/cs/)
+orca,19439,0,0,2942,0,0,18850,19439,100.0,čeština <gnome-cs-list@gnome.org>
+oscap-anaconda-addon,166,0,225,34,0,17,146,391,42.45524296675192,Czech (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/cs/)
+osinfo-db-tools,222,0,0,43,0,0,218,222,100.0,Czech <https://translate.fedoraproject.org/projects/libosinfo/osinfo-db-tools/cs/>
+osmo,1645,0,126,669,0,29,1601,1771,92.88537549407114,Czech (http://www.transifex.com/projects/p/osmo/language/cs/)
+p11-kit,476,0,1288,81,0,232,387,1764,26.984126984126984,Czech (http://www.transifex.com/freedesktop/p11-kit/language/cs/)
+pacman,5061,0,128,880,0,18,4799,5189,97.53324339949894,Czech (http://www.transifex.com/toofishes/archlinux-pacman/language/cs/)
+palapeli,491,0,1034,118,0,68,434,1525,32.196721311475414,Czech <kde-i18n-doc@kde.org>
+pam,525,10,0,99,1,0,483,535,98.13084112149532,Czech <https://translate.fedoraproject.org/projects/linux-pam/master/cs/>
+pan,10003,0,0,1243,0,0,9445,10003,100.0,čeština <gnome-cs-list@gnome.org>
+paprefs,131,0,6,23,0,2,128,137,95.62043795620438,Czech <translation-team-cs@lists.sourceforge.net>
+parcellite,156,0,0,52,0,0,155,156,100.0,
+parley,2341,0,1092,584,0,145,2348,3433,68.19108651325372,Czech <kde-i18n-doc@kde.org>
+parole,1118,0,29,295,0,4,1167,1147,97.4716652136007,Czech (http://app.transifex.com/xfce/xfce-apps/language/cs/)
+parted,3455,574,575,445,63,62,3050,4604,75.04344048653346,Czech <translation-team-cs@lists.sourceforge.net>
+passwd,329,0,7,56,0,1,306,336,97.91666666666666,Czech (http://www.transifex.com/projects/p/fedora/language/cs/)
+pastebinit,58,0,137,10,0,19,49,195,29.743589743589745,Czech <cs@li.org>
+pavucontrol,183,61,286,76,22,51,190,530,34.52830188679245,Czech <translation-team-cs@lists.sourceforge.net>
+pbuilder,96,0,0,9,0,0,75,96,100.0,Czech <debian-l10n-czech@lists.debian.org>
+pcmanfm,1206,9,0,295,2,0,1152,1215,99.25925925925925,Czech <radek@fastlinux.eu>
+pdfarranger,434,0,92,146,0,32,412,526,82.50950570342205,Czech (Czech Republic)
+pdfmod,864,0,0,136,0,0,875,864,100.0,Czech <gnome-cs-list@gnome.org>
+peek,564,0,0,97,0,0,484,564,100.0,Czech <https://hosted.weblate.org/projects/peek/translations/cs/>
+perl-libintl-perl,19,0,0,19,0,0,19,19,100.0,Czech <guido.flohr@cantanea.com>
+pgadmin4,13020,15,251,2817,10,76,11889,13286,97.99789251844047,
+phd2,20407,71,269,3527,47,103,18902,20747,98.36120884947222,Stanislav Holub
+phodav,67,0,0,18,0,0,73,67,100.0,čeština <gnome-cs-list@gnome.org>
+phonon,92,0,0,22,0,0,86,92,100.0,Czech <kde-i18n-doc@kde.org>
+phonon-backend-gstreamer,104,0,0,15,0,0,91,104,100.0,Czech <kde-i18n-doc@kde.org>
+phonon-backend-vlc,27,0,0,3,0,0,24,27,100.0,Czech <kde-i18n-doc@kde.org>
+phonon-qt4,0,116,0,0,25,0,0,116,0.0,Czech <kde-i18n-doc@kde.org>
+phonon-qt4-backend-gstreamer,0,104,0,0,15,0,0,104,0.0,Czech <kde-i18n-doc@kde.org>
+phosh,269,0,0,106,0,0,280,269,100.0,Czech <gnome-cs-list@gnome.org>
+photocollage,46,0,0,20,0,0,41,46,100.0,none <none@none.com>
+php-phpmyadmin-sql-parser5,286,0,0,53,0,0,245,286,100.0,Czech <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/cs/>
+picard,1876,53,8811,758,14,1718,1897,10740,17.467411545623836,Czech <https://translations.metabrainz.org/projects/picard/app/cs/>
+picmi,162,0,40,98,0,19,160,202,80.19801980198021,Czech <kde-i18n-doc@kde.org>
+pidgin,13950,0,44,3190,0,1,12715,13994,99.68557953408603,Czech (http://www.transifex.com/pidgin/pidgin/language/cs/)
+pidgin-birthday-reminder,204,0,85,57,0,9,194,289,70.58823529411765,Czech (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/cs/)
+pidgin-guifications,407,66,32,165,21,6,384,505,80.5940594059406,CZ <g16fx@centrum.cz>
+pidgin-otr,1064,0,0,159,0,0,1000,1064,100.0,Czech
+pidgin-sipe,1119,0,0,273,0,0,1120,1119,100.0,Czech (http://www.transifex.com/stefanb/pidgin-sipe/language/cs/)
+pidgin-toobars,299,0,0,91,0,0,287,299,100.0,
+pim-data-exporter,744,0,66,193,0,12,684,810,91.85185185185185,Czech <kde-i18n-doc@kde.org>
+pim-sieve-editor,371,0,66,109,0,8,355,437,84.89702517162472,Czech <kde-i18n-doc@kde.org>
+pinfo,315,14,21,53,3,4,304,350,90.0,Czech <debian-l10n-czech@lists.debian.org>
+pingus,3773,891,731,380,30,36,3184,5395,69.93512511584801,czech
+pinta,1468,0,278,496,0,41,1362,1746,84.077892325315,Czech <cs@li.org>
+pioneers,2188,251,565,631,54,105,2019,3004,72.83621837549934,
+pipewire,690,0,0,118,0,0,778,690,100.0,čeština <gnome-cs-list@gnome.org>
+pipewire-media-session,5,0,0,3,0,0,6,5,100.0,čeština <gnome-cs-list@gnome.org>
+pitivi,10623,0,0,999,0,0,9639,10623,100.0,Czech <gnome-cs-list@gnome.org>
+plank,108,0,81,39,0,11,130,189,57.14285714285714,Czech <cs@li.org>
+plasma-applet-weather-widget,155,0,11,45,0,11,159,166,93.37349397590361,Martin Kotelnik <clearmartin@seznam.cz>
+plasma-bigscreen,220,0,15,91,0,5,218,235,93.61702127659575,Czech <kde-i18n-doc@kde.org>
+plasma-breeze,215,0,27,84,0,1,221,242,88.84297520661157,Czech <kde-i18n-doc@kde.org>
+plasma-browser-integration,102,0,21,22,0,1,85,123,82.92682926829268,Czech <kde-i18n-doc@kde.org>
+plasma-desktop,7982,0,680,1626,0,52,7275,8662,92.14961902562918,Czech <kde-i18n-doc@kde.org>
+plasma-dialer,50,0,87,26,0,28,52,137,36.496350364963504,Czech <kde-i18n-doc@kde.org>
+plasma-discover,1329,0,1681,500,0,169,1320,3010,44.15282392026578,Czech <kde-i18n-doc@kde.org>
+plasma-disks,38,0,177,13,0,10,40,215,17.674418604651162,Czech <kde-i18n-doc@kde.org>
+plasma-drkonqi,1861,0,123,192,0,11,1619,1984,93.80040322580645,Czech <kde-i18n-doc@kde.org>
+plasma-firewall,205,0,199,114,0,30,201,404,50.742574257425744,Czech <kde-i18n-doc@kde.org>
+plasma-integration,60,0,0,23,0,0,55,60,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,183,172,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-milou,8,0,2,3,0,1,8,10,80.0,Czech <kde-i18n-doc@kde.org>
+plasma-mobile,245,0,161,117,0,31,244,406,60.3448275862069,Czech <kde-i18n-doc@kde.org>
+plasma-nano,37,0,0,12,0,0,31,37,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-nm,3139,0,2231,1143,0,184,3014,5370,58.45437616387337,Czech <kde-i18n-doc@kde.org>
+plasma-oxygen,802,0,0,293,0,0,811,802,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-pa,276,0,0,95,0,0,269,276,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-pass,26,0,4,5,0,1,20,30,86.66666666666667,Czech <kde-i18n-doc@kde.org>
+plasma-phonebook,55,0,0,28,0,0,54,55,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-pk-updates,2081,0,0,400,0,0,1870,2081,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-sdk,618,0,227,219,0,44,609,845,73.13609467455622,Czech <kde-i18n-doc@kde.org>
+plasma-settings,1109,0,369,742,0,81,1093,1478,75.03382949932342,Czech <kde-i18n-doc@kde.org>
+plasma-systemmonitor,373,0,192,153,0,31,393,565,66.01769911504425,Czech <kde-i18n-doc@kde.org>
+plasma-systemsettings,212,0,0,54,0,0,207,212,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-thunderbolt,168,0,10,39,0,3,168,178,94.3820224719101,Czech <kde-i18n-doc@kde.org>
+plasma-vault,317,0,557,71,0,31,264,874,36.2700228832952,Czech <kde-i18n-doc@kde.org>
+plasma-welcome,1054,0,0,75,0,0,957,1054,100.0,Czech <kde-i18n-doc@kde.org>
+plasma-workspace,11920,0,979,3131,0,56,11342,12899,92.41026436157841,Czech <kde-i18n-doc@kde.org>
+plasmatube,136,0,2,53,0,1,138,138,98.55072463768117,Czech <kde-i18n-doc@kde.org>
+playonlinux,2694,0,34,446,0,3,2332,2728,98.75366568914956,Czech <cs@li.org>
+pluma,5716,0,7397,1496,0,594,5380,13113,43.59033020666514,Czech (https://app.transifex.com/mate/teams/13566/cs/)
+pluma-plugins,619,0,779,83,0,60,618,1398,44.27753934191702,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+plymouth,16,0,0,7,0,0,12,16,100.0,Czech <https://translate.fedoraproject.org/projects/plymouth/master/cs/>
+plymouth-kcm,112,0,0,24,0,0,98,112,100.0,Czech <kde-i18n-doc@kde.org>
+pmount,723,0,0,63,0,0,626,723,100.0,Czech <cs@li.org>
+po4a,1379,458,1177,143,50,65,1255,3014,45.75315195753152,Czech <https://hosted.weblate.org/projects/po4a/po4a/cs/>
+poedit,3167,0,1,689,0,1,3054,3168,99.96843434343434,Czech
+pogo,576,0,0,101,0,0,490,576,100.0,Czech <cs@li.org>
+polari,2028,0,0,268,0,0,1947,2028,100.0,čeština <gnome-cs-list@gnome.org>>
+policycoreutils,5299,50,1159,860,8,155,4811,6508,81.42286416717886,Czech
+polkit,230,0,0,26,0,0,220,230,100.0,čeština <gnome-cs-list@gnome.org>
+polkit-gnome,285,0,0,46,0,0,276,285,100.0,Czech <gnome-cs-list@gnome.org>
+polkit-kde,95,0,0,30,0,0,100,95,100.0,Czech <kde-i18n-doc@kde.org>
+popt,78,0,12,29,0,3,79,90,86.66666666666667,Czech <translation-team-cs@lists.sourceforge.net>
+postgresql,26381,0,8,4162,0,1,24782,26389,99.9696843381712,Czech <info@cspug.cx>
+postgresql-jdbc,709,325,1548,86,48,181,536,2582,27.45933384972889,
+poweradmin,309,0,1779,60,0,218,258,2088,14.798850574712644,Czech (http://www.transifex.net/projects/p/poweradmin/team/cs/)
+powerdevil,618,0,51,140,0,3,564,669,92.37668161434978,Czech <kde-i18n-doc@kde.org>
+powertop,403,128,181,109,38,57,382,712,56.60112359550562,Czech (Czech Republic) (http://www.transifex.com/projects/p/PowerTOP/language/cs_CZ/)
+pragha,878,0,12,274,0,2,807,890,98.65168539325843,Czech (http://www.transifex.com/p/Pragha/language/cs/)
+prusa-slicer,37605,0,0,6646,0,0,34903,37605,100.0,
+psad,493,0,0,30,0,0,517,493,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+psmisc,992,0,0,95,0,0,977,992,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+pspp,11,4,13569,2,3,2443,9,13584,0.08097762073027091,
+publican,40151,563,898,2787,17,99,34835,41612,96.48899355955012,Czech
+pulseaudio,2624,1062,100,512,37,23,2641,3786,69.3079767564712,čeština <gnome-cs-list@gnome.org>
+pulsecaster,214,0,0,21,0,0,198,214,100.0,Czech (http://www.transifex.com/stickster/pulsecaster/language/cs/)
+pulseeffects,759,71,14,346,32,9,788,844,89.92890995260665,Czech <translation-team-cs@lists.sourceforge.net>
+purple-telegram,642,0,14,134,0,4,619,656,97.86585365853658,Czech (Czech Republic) (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/cs_CZ/)
+pychess,5131,0,2461,1274,0,194,4961,7592,67.58429926238145,Czech (http://www.transifex.com/gbtami/pychess/language/cs/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,1265,152,211,150,13,17,1140,1628,77.7027027027027,Czech (http://www.transifex.com/projects/p/pykickstart/language/cs/)
+python-SecretStorage,59,0,0,9,0,0,55,59,100.0,Czech <gnome-cs-list@gnome.org>
+python-apt,169,160,215,43,39,36,192,544,31.066176470588236,Czech <cs@li.org>
+python-blivet,584,13,8,78,2,1,567,605,96.52892561983471,Czech <https://translate.fedoraproject.org/projects/blivet/blivet-master/cs/>
+python-caja,6,0,0,2,0,0,6,6,100.0,Czech (https://www.transifex.com/mate/teams/13566/cs/)
+python-colander,130,32,40,25,6,7,111,202,64.35643564356435,Petr Viktorin <encukou@gmail.com>
+python-django,3778,0,26,874,0,4,4017,3804,99.31650893796005,Czech (http://www.transifex.com/django/django/language/cs/)
+python-django-allauth,847,75,0,148,4,0,739,922,91.86550976138828,Czech <>
+python-django-angular,40,0,0,3,0,0,33,40,100.0,LANGUAGE <LL@li.org>
+python-django-contrib-comments,250,0,0,61,0,0,264,250,100.0,Czech (http://www.transifex.com/django/django-contrib-comments/language/cs/)
+python-django-debug-toolbar,355,0,2,136,0,1,407,357,99.43977591036415,Czech (http://www.transifex.com/projects/p/django-debug-toolbar/language/cs/)
+python-django-filter,83,0,5,40,0,2,75,88,94.31818181818183,TextTempearture
+python-django-formtools,32,0,0,11,0,0,30,32,100.0,Czech (http://www.transifex.com/projects/p/django-formtools/language/cs/)
+python-django-mailman3,355,0,0,72,0,0,299,355,100.0,Czech <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/cs/>
+python-django-rest-framework,561,0,141,95,0,30,531,702,79.91452991452992,Czech (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/cs/)
+python-django-reversion,119,0,0,21,0,0,108,119,100.0,LANGUAGE <LL@li.org>
+python-django-tables2,2,0,0,2,0,0,2,2,100.0,LANGUAGE <LL@li.org>
+python-django-taggit,28,0,1,11,0,1,27,29,96.55172413793103,LANGUAGE <LL@li.org>
+python-django3,3760,0,0,868,0,0,4007,3760,100.0,Czech (http://www.transifex.com/django/django/language/cs/)
+python-fedora,49,0,165,17,0,12,38,214,22.897196261682243,Czech (http://www.transifex.com/projects/p/python-fedora/language/cs/)
+python-flask-admin,320,0,47,97,0,15,303,367,87.19346049046321,Czech
+python-formencode,519,59,235,75,7,33,407,813,63.837638376383765,
+python-hyperkitty,951,0,0,265,0,0,842,951,100.0,Czech <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/cs/>
+python-manatools,4,0,0,4,0,0,4,4,100.0,Czech (https://www.transifex.com/MageiaLinux/teams/9361/cs/)
+python-meh,109,0,0,23,0,0,85,109,100.0,Czech <https://translate.fedoraproject.org/projects/python-meh/master/cs/>
+python-nikola,70,0,24,30,0,14,70,94,74.46808510638297,Czech (http://www.transifex.com/ralsina/nikola/language/cs/)
+python-postorius,1760,2,3292,192,1,438,1592,5054,34.823901859912944,Czech <https://hosted.weblate.org/projects/gnu-mailman/postorius/cs/>
+python-simpleline,42,0,0,16,0,0,41,42,100.0,Czech <https://translate.fedoraproject.org/projects/python-simpleline/master/cs/>
+python-sphinx,360,0,4623,154,0,604,357,4983,7.224563515954245,Czech (http://www.transifex.com/sphinx-doc/sphinx-1/language/cs/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Czech (https://www.transifex.com/sphinx-doc/teams/36659/cs/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Czech (https://www.transifex.com/sphinx-doc/teams/36659/cs/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Czech (https://www.transifex.com/sphinx-doc/teams/36659/cs/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Czech (https://www.transifex.com/sphinx-doc/teams/36659/cs/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Czech (https://www.transifex.com/sphinx-doc/teams/36659/cs/)
+python-uranium,695,0,0,164,0,0,616,695,100.0,DenyCZ <www.github.com/DenyCZ>
+python-wtforms,166,0,23,30,0,3,162,189,87.83068783068782,cz <ghostbarik@gmail.com>
+python-wxpython4,7848,46,47,1952,30,11,7354,7941,98.8288628636192,wxWidgets translators <wx-translators@wxwidgets.org>
+qmlkonsole,106,0,19,45,0,4,103,125,84.8,Czech <kde-i18n-doc@kde.org>
+qtwebkit,1059,6,28,252,2,8,1016,1093,96.88929551692588,Czech <gnome-cs-list@gnome.org>
+quadrapassel,1480,0,0,177,0,0,1348,1480,100.0,Czech <gnome-cs-list@gnome.org>
+quassel,4604,0,3758,1102,0,605,4361,8362,55.05859842143028,Czech (http://www.transifex.com/quassel/quassel/language/cs/)
+quitcount,154,12,0,39,1,0,233,166,92.7710843373494,
+quodlibet,4558,1451,1910,1204,278,207,4394,7919,57.55777244601591,Czech <https://hosted.weblate.org/projects/quodlibet/quodlibet/cs/>
+quota,3577,1117,286,468,58,44,3719,4980,71.82730923694778,Czech <translation-team-cs@lists.sourceforge.net>
+rabbitvcs,340,0,591,172,0,145,299,931,36.51987110633727,Czech <cs@li.org>
+radeontop,202,0,0,32,0,0,240,202,100.0,Czech <cs@li.org>
+rapid-photo-downloader,7924,0,162,905,0,19,7376,8086,97.99653722483305,Czech <cs@li.org>
+rawstudio,264,337,1005,125,149,228,271,1606,16.43835616438356,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,789,28,16,127,4,3,799,833,94.71788715486194,Czech (http://www.transifex.com/freedesktop/realmd/language/cs/)
+recode,518,235,1,69,7,3,529,754,68.70026525198939,Czech <translation-team-cs@lists.sourceforge.net>
+redhat-menus,261,0,0,86,0,0,259,261,100.0,Czech
+rednotebook,1997,92,437,436,17,91,1966,2526,79.05779889152811,Russian (gnome-cyr@gnome.org)
+redshift,1028,0,0,151,0,0,1054,1028,100.0,Czech <cs@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+regexxer,466,0,1,99,0,1,424,467,99.78586723768737,Czech <cs@li.org>
+rekonq,1729,0,473,509,0,84,1654,2202,78.51952770208901,Czech <kde-i18n-doc@kde.org>
+remmina,1837,3039,520,377,566,57,1914,5396,34.04373610081542,Czech <https://hosted.weblate.org/projects/remmina/remmina/cs/>
+renameutils,265,0,0,54,0,0,268,265,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+retrace-server,433,0,0,56,0,0,381,433,100.0,Czech <https://translate.fedoraproject.org/projects/abrt/retrace-server/cs/>
+revelation,971,152,1304,286,35,126,829,2427,40.0082406262876,Czech (http://www.transifex.com/hey_neken/revelation/language/cs/)
+rhythmbox,8327,0,12,1320,0,1,7729,8339,99.85609785345964,čeština <gnome-cs-list@gnome.org>
+ristretto,603,0,71,195,0,15,599,674,89.46587537091987,Czech (http://app.transifex.com/xfce/xfce-apps/language/cs/)
+rizin,1130,0,249,134,0,25,1130,1379,81.94343727338651,Czech <diskuze@lists.l10n.cz>
+rkward,5188,4,32997,1291,1,2947,5001,38189,13.58506376181623,Czech <kde-i18n-doc@kde.org>
+rocs,439,0,1041,175,0,139,423,1480,29.662162162162165,Czech <kde-i18n-doc@kde.org>
+rpm,2191,331,2207,434,64,410,2063,4729,46.33114823429901,Czech (http://www.transifex.com/rpm-team/rpm/language/cs/)
+rpm-ostree,156,5,1319,23,1,205,152,1480,10.54054054054054,Czech
+rsibreak,1145,0,64,158,0,2,914,1209,94.70636889991728,Czech <kde-i18n-doc@kde.org>
+rt,10264,0,3613,2415,0,764,9824,13877,73.96411328096852,Czech <cs@li.org>
+rteval-loads,394,211,544,39,21,96,362,1149,34.29068755439513,Czech <diskuze@lists.l10n.cz>
+rust,1130,0,249,134,0,25,1130,1379,81.94343727338651,Czech <diskuze@lists.l10n.cz>
+rust-coreos-installer,1130,0,249,134,0,25,1130,1379,81.94343727338651,Czech <diskuze@lists.l10n.cz>
+rust-rd-agent,394,211,544,39,21,96,362,1149,34.29068755439513,Czech <diskuze@lists.l10n.cz>
+rygel,1632,0,0,302,0,0,1674,1632,100.0,Czech <gnome-cs-list@gnome.org>
+sakura,167,0,41,62,0,8,164,208,80.28846153846155,Czech <gnome-cs-list@gnome.org>
+samba,187,67,270,31,18,79,174,524,35.68702290076336,Novell Language <language@novell.com>
+sane-backends,2941,899,2170,572,278,404,2704,6010,48.935108153078204,
+sawfish,6543,0,0,1036,0,0,6375,6543,100.0,Czech <gnome-cs-list@gnome.org>
+scratch,1444,0,26,603,0,23,1466,1470,98.2312925170068,LANGUAGE <LL@li.org>
+scummvm,4506,1714,4482,927,438,463,4132,10702,42.10427957391142,Czech <https://translations.scummvm.org/projects/scummvm/scummvm/cs/>
+sdcv,40,62,45,9,9,9,39,147,27.2108843537415,Czech <cs@li.org>
+sddm-kcm,120,0,91,37,0,4,108,211,56.872037914691944,Czech <kde-i18n-doc@kde.org>
+seahorse,8905,0,0,938,0,0,7873,8905,100.0,Czech <gnome-cs-list@gnome.org>
+seahorse-caja,487,0,0,121,0,0,499,487,100.0,Czech <gnome-cs-list@gnome.org>
+seahorse-nautilus,490,0,0,124,0,0,503,490,100.0,čeština <gnome-cs-list@gnome.org>
+secrets,998,0,0,294,0,0,1023,998,100.0,čeština <gnome-cs-list@gnome.org>
+sed,830,0,0,146,0,0,822,830,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+sensible-utils,13,76,232,9,7,27,13,321,4.049844236760125,Czech <debian-l10n-czech@lists.debian.org>
+setroubleshoot,578,10,52,158,2,8,503,640,90.3125,Czech (http://www.transifex.com/projects/p/fedora/language/cs/)
+setroubleshoot-plugins,5712,0,534,217,0,9,4996,6246,91.45052833813641,Czech (http://www.transifex.com/projects/p/fedora/language/cs/)
+setuptool,55,0,0,14,0,0,51,55,100.0,Czech <fedora-cs-list@redhat.com>
+shadow-utils,3876,595,267,586,59,27,3667,4738,81.80666948079359,Czech <debian-l10n-czech@lists.debian.org>
+shared-mime-info,1842,0,218,722,0,74,2014,2060,89.41747572815534,Czech (http://www.transifex.com/freedesktop/shared-mime-info/language/cs/)
+sharutils,2974,173,0,299,5,0,2806,3147,94.50270098506515,Czech <translation-team-cs@lists.sourceforge.net>
+shigofumi,7624,0,0,805,0,0,7441,7624,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+shotwell,13824,0,0,1643,0,0,13399,13824,100.0,čeština <gnome-cs-list@gnome.org>
+shutter,3093,0,0,606,0,0,2978,3093,100.0,Czech <cs@li.org>
+simple-ccsm,42,23,97,31,12,21,43,162,25.925925925925924,Czech <cs@li.org>
+simple-scan,2198,0,0,326,0,0,2082,2198,100.0,čeština <gnome-cs-list@gnome.org>
+skanlite,186,0,0,63,0,0,169,186,100.0,Czech <kde-i18n-doc@kde.org>
+skanpage,297,0,0,109,0,0,293,297,100.0,Czech <kde-i18n-doc@kde.org>
+skrooge,10192,0,1989,2260,0,240,9089,12181,83.67129135538954,Czech <kde-i18n-doc@kde.org>
+skychart,4736,86,1741,1545,10,325,4203,6563,72.16212098125857,
+slick-greeter,216,0,0,49,0,0,200,216,100.0,Czech <cs@li.org>
+smb4k,828,0,5734,367,0,319,837,6562,12.618104236513258,Czech <kde-i18n-doc@kde.org>
+snapd,2601,0,1706,361,0,120,2444,4307,60.39006268864638,Czech <cs@li.org>
+snapper,1092,0,0,252,0,0,1116,1092,100.0,Czech <https://l10n.opensuse.org/projects/snapper/master/cs/>
+solaar,0,0,0,0,0,0,0,0,0.0,Czech <kde-i18n-doc@kde.org>
+sos,54,34,35,11,7,12,50,123,43.90243902439025,Czech <Czech <cs-users@lists.fedoraproject.org>>
+sound-juicer,3563,0,0,328,0,0,3343,3563,100.0,Czech <gnome-cs-list@gnome.org>
+soundconverter,261,0,249,106,0,23,258,510,51.17647058823529,Czech <cs@li.org>
+soundkonverter,4062,0,0,570,0,0,3880,4062,100.0,Czech (http://www.transifex.com/hessijames/soundkonverter/language/cs/)
+spacebar,166,0,99,62,0,33,163,265,62.64150943396226,Czech <kde-i18n-doc@kde.org>
+spacefm,7375,0,1703,1565,0,57,7517,9078,81.24036131306454,Czech (http://www.transifex.com/ignorantguru/spacefm/language/cs/)
+sparkleshare,249,0,153,61,0,26,221,402,61.940298507462686,
+spice-gtk,311,5,23,65,1,7,318,339,91.74041297935102,Czech < >
+springlobby,1262,0,3308,533,0,674,1196,4570,27.61487964989059,Czech <cs@li.org>
+sssd,5352,145,38918,857,49,2572,5247,44415,12.049983113812901,Czech <https://translate.fedoraproject.org/projects/sssd/sssd-master/cs/>
+stardict,696,864,1475,101,140,352,549,3035,22.932454695222404,Czech <cs@li.org>
+startdde,24,0,0,6,0,0,23,24,100.0,Czech (https://www.transifex.com/linuxdeepin/teams/3617/cs/)
+stellarium,60178,0,91492,23537,0,14339,57824,151670,39.67693017735874,Czech (https://www.transifex.com/stellarium/teams/80998/cs/)
+step,1925,0,2345,700,0,296,2300,4270,45.08196721311475,Czech <kde-i18n-doc@kde.org>
+strawberry,3809,76,1337,1070,11,268,3732,5222,72.94140176177709,Czech
+subtitleeditor,3496,0,0,873,0,0,3230,3496,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+sudo,6246,0,0,945,0,0,5926,6246,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+sugar,293,8,2004,134,6,389,288,2305,12.711496746203904,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,81,0,253,35,0,36,72,334,24.251497005988025,LANGUAGE <LL@li.org>
+sugar-calculator,189,54,623,73,9,87,183,866,21.824480369515012,LANGUAGE <LL@li.org>
+sugar-chat,57,0,80,34,0,47,59,137,41.605839416058394,LANGUAGE <LL@li.org>
+sugar-clock,36,2,28,15,2,4,498,66,54.54545454545454,LANGUAGE <LL@li.org>
+sugar-dimensions,158,0,18,78,0,9,150,176,89.77272727272727,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,91,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,75,86,97,35,2,26,70,258,29.069767441860467,LANGUAGE <LL@li.org>
+sugar-flipsticks,21,0,130,18,0,27,22,151,13.90728476821192,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,21,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,66,77,100.0,LANGUAGE <LL@li.org>
+sugar-log,5,0,93,5,0,16,5,98,5.1020408163265305,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,55,2,85,45,2,27,55,142,38.732394366197184,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,9,0,266,7,0,60,9,275,3.272727272727273,LANGUAGE <LL@li.org>
+sugar-read,27,0,110,16,0,34,27,137,19.708029197080293,LANGUAGE <LL@li.org>
+sugar-record,31,0,31,19,0,5,35,62,50.0,LANGUAGE <LL@li.org>
+sugar-speak,34,0,193,34,0,40,34,227,14.977973568281937,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,5,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,118,2,93,97,2,24,117,213,55.39906103286385,LANGUAGE <LL@li.org>
+sugar-turtleart,110,52,1297,84,28,323,110,1459,7.539410555174777,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,23,0,37,13,0,10,23,60,38.333333333333336,LANGUAGE <LL@li.org>
+sugar-write,83,2,36,48,1,6,85,121,68.59504132231406,LANGUAGE <LL@li.org>
+supertux,4206,0,0,1173,0,0,3885,4206,100.0,Czech (http://www.transifex.com/arctic-games/supertux/language/cs/)
+supertuxkart,0,0,0,0,0,0,0,0,0.0,
+sushi,54,0,0,14,0,0,55,54,100.0,čeština <gnome-cs-list@gnome.org>
+svgpart,3,0,0,2,0,0,4,3,100.0,Czech <kde-i18n-doc@kde.org>
+sweeper,228,0,0,50,0,0,195,228,100.0,Czech <kde-i18n-doc@kde.org>
+swell-foop,992,0,0,147,0,0,955,992,100.0,Czech <gnome-cs-list@gnome.org>
+switchdesk,16,87,19,3,10,6,19,122,13.114754098360656,Czech <cs@li.org>
+sylpheed,7139,73,2,1771,25,1,6980,7214,98.96035486553923,Petr Kovar <pknbe@volny.cz>
+sympa,2073,6294,28061,547,1265,1741,1937,36428,5.690677500823543,Česky
+synapse,807,0,49,222,0,12,822,856,94.27570093457945,Czech <cs@li.org>
+synfigstudio,0,0,0,0,0,0,0,0,0.0,
+sysprof,1460,0,0,169,0,0,1263,1460,100.0,čeština <gnome-cs-list@gnome.org>
+sysstat,697,0,0,78,0,0,603,697,100.0,Czech  <translation-team-cs@lists.sourceforge.net>
+system-config-language,197,17,1,29,1,1,182,215,91.62790697674419,Czech <Czech <cs-users@lists.fedoraproject.org>>
+system-config-printer,3129,34,351,747,15,166,2831,3514,89.04382470119522,Czech (http://www.transifex.com/projects/p/system-config-printer/language/cs/)
+system-config-rootpassword,116,0,0,19,0,0,107,116,100.0,Czech <cs@li.org>
+system-switch-java,81,0,0,11,0,0,66,81,100.0,Czech <fedora-cs-list@redhat.com>
+system-switch-mail,9,88,4,6,8,3,11,101,8.91089108910891,Czech <fedora-cs-list@redhat.com>
+systemd,1528,0,0,193,0,0,1389,1528,100.0,Czech <https://translate.fedoraproject.org/projects/systemd/master/cs/>
+systemtap,4403,2602,3141,775,353,452,4259,10146,43.39641237926276,Czech
+tagtool,943,10,5,205,3,3,973,958,98.43423799582463,<cs@li.org>
+tali,2427,0,0,187,0,0,2128,2427,100.0,Czech <gnome-cs-list@gnome.org>
+tar,3605,44,9,589,4,1,3686,3658,98.55112083105521,Czech <translation-team-cs@lists.sourceforge.net>
+taxi,62,0,0,15,0,0,51,62,100.0,LANGUAGE <LL@li.org>
+tellico,5691,0,286,1235,0,66,4935,5977,95.21499079805923,Czech <kde-i18n-doc@kde.org>
+template-glib,23,0,0,4,0,0,23,23,100.0,Czech <gnome-cs-list@gnome.org>
+tepl,346,0,0,84,0,0,306,346,100.0,čeština <gnome-cs-list@gnome.org>
+terminator,1228,0,294,359,0,56,1161,1522,80.6833114323259,Czech (https://www.transifex.com/terminator/teams/109338/cs/)
+texi2html,211,492,940,34,71,76,229,1643,12.842361533779673,Czech <cs@li.org>
+texinfo,6530,42,5,998,10,1,6337,6577,99.2853884749886,Czech <translation-team-cs@lists.sourceforge.net>
+texlive,0,0,0,0,0,0,0,0,0.0,
+thonny,1648,0,339,393,0,64,1507,1987,82.93910417715148,
+thunar-archive-plugin,88,0,0,15,0,0,124,88,100.0,Czech (http://www.transifex.com/xfce/thunar-plugins/language/cs/)
+thunar-media-tags-plugin,158,0,0,60,0,0,156,158,100.0,Czech (http://www.transifex.com/xfce/thunar-plugins/language/cs/)
+thunar-vcs-plugin,774,0,0,307,0,0,892,774,100.0,Czech (http://www.transifex.com/xfce/thunar-plugins/language/cs/)
+thunar-volman,484,0,0,115,0,0,468,484,100.0,Czech (http://www.transifex.com/xfce/thunar-volman/language/cs/)
+thunderbird,976,303,348,327,87,75,985,1627,59.987707437000616,Czech <translation-team-cs@lists.sourceforge.net>
+tigervnc,1047,0,0,196,0,0,1037,1047,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+tilda,227,77,404,70,24,109,202,708,32.06214689265537,Czech <cs@li.org>
+tilix,2458,63,289,670,12,40,2335,2810,87.47330960854093,Czech <https://hosted.weblate.org/projects/tilix/manpage/cs/>
+timeshift,2870,0,0,567,0,0,3281,2870,100.0,Czech
+tokodon,532,0,625,274,0,160,541,1157,45.980985306828,Czech <kde-i18n-doc@kde.org>
+tomboy,7256,0,0,742,0,0,6673,7256,100.0,čeština <gnome-cs-list@gnome.org>
+toppler,543,0,0,222,0,0,517,543,100.0,Czech <debian-l10n-czech@lists.debian.org>
+torbrowser-launcher,228,0,0,48,0,0,212,228,100.0,
+tortoisehg,12350,0,893,2105,0,323,11182,13243,93.2568149210904,Czech <kde-i18n-doc@kde.org>
+totem,3209,0,0,552,0,0,2997,3209,100.0,čeština <gnome-cs-list@gnome.org>
+totem-pl-parser,29,0,0,8,0,0,25,29,100.0,Czech <gnome-cs-list@gnome.org>
+trac,3399,261,11357,910,62,725,3237,15017,22.634347739228875,cs <trac-dev@googlegroups.com>
+tracer,177,5,0,23,2,0,153,182,97.25274725274726,Czech (http://www.transifex.com/projects/p/tracer/language/cs/)
+tracker,600,0,0,114,0,0,594,600,100.0,čeština <gnome-cs-list@gnome.org>
+tracker-miners,1824,0,0,294,0,0,1973,1824,100.0,čeština <gnome-cs-list@gnome.org>>
+transmageddon,327,0,0,70,0,0,329,327,100.0,Czech <gnome-cs-list@gnome.org>
+transmission,939,0,1502,320,0,265,1115,2441,38.467841048750515,Czech (https://app.transifex.com/transmissionbt/teams/33778/cs/)
+transmission-remote-gtk,514,56,560,251,20,143,539,1130,45.48672566371682,Czech <cs@li.org>
+trojita,4949,0,4495,1526,0,433,4686,9444,52.40364252435409,Czech <kde-i18n-doc@kde.org>
+tumbler,144,0,4,24,0,1,155,148,97.2972972972973,Czech (http://www.transifex.com/xfce/tumbler/language/cs/)
+tuxanci,674,0,0,163,0,0,596,674,100.0,
+tuxmath,238,115,1102,71,13,165,222,1455,16.3573883161512,czech <cs@li.org>
+tuxpaint,1074,1062,1627,241,111,109,927,3763,28.541057666755247,Czech <cs@li.org>
+tuxpaint-stamps,3113,76,60,775,17,13,2522,3249,95.81409664512157,Czech <cs@li.org>
+tuxtype2,71,0,9,32,0,8,65,80,88.75,czech <cs@li.org>
+tvtime,1120,67,35,238,3,5,1096,1222,91.65302782324059,Lukáš Slánský <lukas@schnauzer.cz>
+udisks2,2158,0,29,512,0,5,2085,2187,98.67398262459992,Czech
+ufraw,2155,17,0,424,1,0,2112,2172,99.21731123388582,Czech <kde-i18n-doc@kde.org>
+ufw,879,0,0,181,0,0,882,879,100.0,Czech <cs@li.org>
+ufw-kde,199,0,616,131,0,59,200,815,24.41717791411043,Czech <kde-i18n-doc@kde.org>
+uget,1085,0,0,362,0,0,1068,1085,100.0,Czech (http://www.transifex.com/uget/uget/language/cs/)
+umbrello,2811,0,3321,1040,0,628,2642,6132,45.84148727984345,Czech <kde-i18n-doc@kde.org>
+usermode,573,0,0,96,0,0,514,573,100.0,Czech (http://www.transifex.com/projects/p/fedora/language/cs/)
+util-linux,29150,2052,87051,5036,576,5191,28989,118253,24.650537407084812,Czech <translation-team-cs@lists.sourceforge.net>
+vakzination,101,0,11,50,0,1,100,112,90.17857142857143,Czech <kde-i18n-doc@kde.org>
+wallpapoz,400,0,0,102,0,0,387,400,100.0,Czech
+warmux,1186,744,814,234,118,120,1299,2744,43.221574344023324,Čeština
+warzone2100,1041,0,14732,280,0,3058,1052,15773,6.599885880935777,Czech
+watchdog,97,23,5,6,1,1,85,125,77.60000000000001,Czech <debian-l10n-czech@lists.debian.org>
+wdiff,993,0,0,150,0,0,1035,993,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+webkitgtk,1295,491,837,350,86,134,1281,2623,49.37094929470072,Czech <gnome-cs-list@gnome.org>
+weechat,7117,9731,17489,1210,1044,1277,6748,34337,20.726912659813028,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,330246,9222,0,20721,556,0,284581,339468,97.28339637314858,Czech https://wiki.wesnoth.org/CzechTranslation
+wget,4037,54,9,644,10,1,4273,4100,98.46341463414635,Czech <translation-team-cs@lists.sourceforge.net>
+wget2,170,64,2397,51,16,413,187,2631,6.461421512732802,Czech <translation-team-cs@lists.sourceforge.net>
+whois,488,26,0,39,1,0,516,514,94.94163424124513,Czech <translation-team-cs@lists.sourceforge.net>
+widelands,72594,0,11008,7247,0,768,64066,83602,86.83285088873471,Czech (http://www.transifex.com/widelands/widelands/language/cs/)
+wike,492,5,0,136,1,0,452,497,98.99396378269618,
+wine,10712,2664,5936,2727,586,971,10040,19312,55.46810273405137,Czech
+wingpanel,16,0,0,3,0,0,19,16,100.0,Czech <https://l10n.elementary.io/projects/wingpanel/wingpanel/cs/>
+wireplumber,9,0,0,4,0,0,10,9,100.0,čeština <gnome-cs-list@gnome.org>
+wireshark,79,0,179,4,0,12,82,258,30.620155038759687,Czech (http://www.transifex.com/wireshark/wireshark/language/cs/)
+workrave,1359,5,34,269,2,3,1246,1398,97.21030042918454,Czech <translation-team-cs@lists.sourceforge.net>
+wxGTK,7848,46,47,1952,30,11,7354,7941,98.8288628636192,wxWidgets translators <wx-translators@wxwidgets.org>
+wxGTK3,7624,71,105,1780,47,55,7055,7800,97.74358974358974,wxWidgets translators <wx-translators@wxwidgets.org>
+wxMaxima,1773,2317,10007,491,631,1293,1640,14097,12.577144073207066,<cs@li.org>
+x-tile,732,0,0,150,0,0,722,732,100.0,Czech <kde-i18n-doc@kde.org>
+xaos,391,225,291,173,87,94,388,907,43.109151047409036,Czech
+xapps,73,0,0,36,0,0,72,73,100.0,Czech <cs@li.org>
+xarchiver,905,265,44,248,37,18,852,1214,74.54695222405272,Czech <translation-team-cs@lists.sourceforge.net>
+xawtv,126,0,0,24,0,0,119,126,100.0,Czech <debian-l10n-czech@lists.debian.org>
+xchm,142,28,69,59,12,27,139,239,59.41422594142259,čeština <cs@li.org>
+xdg-desktop-portal,254,0,0,36,0,0,214,254,100.0,Czech <gnome-cs-list@gnome.org>
+xdg-desktop-portal-gnome,194,0,0,59,0,0,207,194,100.0,Czech <gnome-cs-list@gnome.org>
+xdg-desktop-portal-gtk,240,0,0,64,0,0,248,240,100.0,Czech <gnome-cs-list@gnome.org>
+xdg-desktop-portal-kde,182,0,161,72,0,22,187,343,53.06122448979592,Czech <kde-i18n-doc@kde.org>
+xdg-desktop-portal-xapp,225,0,0,62,0,0,233,225,100.0,Czech <gnome-cs-list@gnome.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xdg-user-dirs-gtk,162,0,0,22,0,0,164,162,100.0,Czech <gnome-cs-list@gnome.org>
+xed,11334,0,0,1598,0,0,10160,11334,100.0,Czech <mate-cs-list@gnome.org>
+xfburn,1534,0,32,323,0,1,1466,1566,97.9565772669221,Czech (http://www.transifex.com/xfce/xfce-apps/language/cs/)
+xfce4-appfinder,443,0,12,87,0,2,375,455,97.36263736263736,Czech (http://www.transifex.com/xfce/xfce4-appfinder/language/cs/)
+xfce4-battery-plugin,145,0,0,42,0,0,164,145,100.0,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-calculator-plugin,42,0,0,17,0,0,44,42,100.0,Czech (https://www.transifex.com/xfce/teams/16840/cs/)
+xfce4-clipman-plugin,401,0,166,84,0,13,368,567,70.72310405643739,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-cpufreq-plugin,171,0,3,47,0,1,166,174,98.27586206896551,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-cpugraph-plugin,176,0,9,57,0,6,194,185,95.13513513513514,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-datetime-plugin,52,0,0,19,0,0,51,52,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-dict,531,0,0,121,0,0,510,531,100.0,Czech (http://app.transifex.com/xfce/xfce-apps/language/cs/)
+xfce4-diskperf-plugin,163,0,18,36,0,1,159,181,90.05524861878453,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-eyes-plugin,16,0,0,5,0,0,15,16,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,75,71,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-genmon-plugin,116,0,0,29,0,0,108,116,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-mailwatch-plugin,678,0,0,123,0,0,687,678,100.0,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-mount-plugin,380,0,0,56,0,0,347,380,100.0,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-mpc-plugin,57,0,42,18,0,17,66,99,57.57575757575758,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-netload-plugin,89,0,17,33,0,6,85,106,83.9622641509434,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-notes-plugin,167,0,6,63,0,2,150,173,96.53179190751445,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-notifyd,283,0,277,81,0,54,272,560,50.535714285714285,Czech (http://www.transifex.com/xfce/xfce-apps/language/cs/)
+xfce4-panel,1812,0,142,464,0,25,1727,1954,92.73285568065506,Czech (https://www.transifex.com/xfce/teams/16840/cs/)
+xfce4-panel-profiles,94,0,50,28,0,5,91,144,65.27777777777779,Czech (https://app.transifex.com/xfce/teams/16840/cs/)
+xfce4-places-plugin,162,0,0,47,0,0,142,162,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-power-manager,1047,0,0,213,0,0,1055,1047,100.0,Czech (https://app.transifex.com/xfce/teams/16840/cs/)
+xfce4-pulseaudio-plugin,119,0,71,30,0,15,111,190,62.63157894736842,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-screensaver,693,0,50,153,0,14,672,743,93.27052489905788,Czech (https://app.transifex.com/xfce/teams/16840/cs/)
+xfce4-screenshooter,678,0,55,107,0,6,602,733,92.49658935879945,Czech (http://app.transifex.com/xfce/xfce-apps/language/cs/)
+xfce4-sensors-plugin,392,0,41,85,0,2,400,433,90.5311778290993,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-session,734,0,48,161,0,6,700,782,93.86189258312021,Czech (https://app.transifex.com/xfce/teams/16840/cs/)
+xfce4-settings,2476,0,0,580,0,0,2261,2476,100.0,Czech (https://app.transifex.com/xfce/teams/16840/cs/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,26,22,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,120,129,100.0,Czech (https://www.transifex.com/xfce/teams/16840/cs/)
+xfce4-systemload-plugin,87,0,0,23,0,0,115,87,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-taskmanager,218,0,11,69,0,5,215,229,95.19650655021834,Czech (http://app.transifex.com/xfce/xfce-apps/language/cs/)
+xfce4-terminal,1459,0,150,365,0,32,1405,1609,90.67743940335612,Czech (http://app.transifex.com/xfce/xfce-apps/language/cs/)
+xfce4-time-out-plugin,115,0,0,39,0,0,127,115,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-timer-plugin,128,0,10,45,0,4,127,138,92.7536231884058,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-verve-plugin,88,0,0,27,0,0,88,88,100.0,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-wavelan-plugin,74,0,6,20,0,2,73,80,92.5,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-weather-plugin,3670,0,0,332,0,0,3252,3670,100.0,Czech (http://app.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfce4-whiskermenu-plugin,396,0,33,126,0,11,381,429,92.3076923076923,Czech (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/cs/)
+xfce4-xkb-plugin,57,0,0,22,0,0,55,57,100.0,Czech (http://www.transifex.com/xfce/xfce-panel-plugins/language/cs/)
+xfconf,448,0,10,66,0,1,419,458,97.81659388646288,Czech (http://app.transifex.com/xfce/xfconf/language/cs/)
+xfdesktop,1049,0,32,253,0,4,959,1081,97.03977798334876,Czech (https://www.transifex.com/xfce/teams/16840/cs/)
+xfe,3925,2278,37,1099,9,5,3659,6240,62.90064102564102,dvx-alone <arch_dvx@users.sourceforge.net>
+xfmpc,175,0,0,78,0,0,191,175,100.0,Czech (http://www.transifex.com/xfce/xfce-apps/language/cs/)
+xfpanel-switch,62,0,39,24,0,2,60,101,61.386138613861384,<Czech <cs@li.org>>
+xfwm4,656,0,10,176,0,2,641,666,98.49849849849849,Czech (http://www.transifex.com/xfce/xfwm4/language/cs/)
+xine-lib,10714,289,2404,870,48,286,9889,13407,79.9134780338629,Czech <cs@li.org>
+xine-ui,2948,1,1026,639,1,226,2857,3975,74.16352201257862,Czech <cs@li.org>
+xiphos,4547,198,236,1040,64,36,4375,4981,91.28689018269424,Czech (http://www.transifex.com/projects/p/xiphos/language/cs/)
+xkeyboard-config,4051,0,0,1258,0,0,4205,4051,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xlog,1335,133,42,319,12,9,1215,1510,88.41059602649007,Czech <cs@li.org>
+xmoto,2826,54,1055,588,10,243,2437,3935,71.81702668360865,Čeština <cs@li.org>
+xournal,1016,0,0,282,0,0,1009,1016,100.0,Czech <kde-czech-apps@lists.sourceforge.net>
+xournalpp,4160,0,436,855,0,35,3839,4596,90.51348999129678,Czech
+xpad,211,0,225,59,0,76,220,436,48.39449541284404,Czech <cs@li.org>
+xreader,3544,0,0,593,0,0,3140,3544,100.0,Czech <mate-cs-list@gnome.org>
+xsane,2358,764,102,588,113,27,2301,3224,73.13895781637717,Czech <cs@li.org>
+xsnow,4136,0,0,582,0,0,3818,4136,100.0,None
+xwaylandvideobridge,11,0,17,5,0,3,11,28,39.285714285714285,Czech <kde-i18n-doc@kde.org>
+xz,948,165,297,114,15,50,949,1410,67.23404255319149,Czech <diskuze@lists.l10n.cz>
+yakuake,1353,0,316,220,0,17,1181,1669,81.06650689035351,Czech <kde-i18n-doc@kde.org>
+yelp,351,0,0,74,0,0,293,351,100.0,čeština <gnome-cs-list@gnome.org>
+yelp-xsl,85,0,0,62,0,0,80,85,100.0,čeština <gnome-cs-list@gnome.org>
+zabbix,19376,0,4,3946,0,2,19224,19380,99.97936016511868,Zabbix <info@zabbix.com>
+zanshin,310,0,185,90,0,28,276,495,62.62626262626263,Czech <kde-i18n-doc@kde.org>
+zathura,787,0,17,171,0,2,758,804,97.88557213930348,Czech (http://www.transifex.com/pwmt/zathura/language/cs/)
+zenity,3842,0,119,538,0,9,3692,3961,96.99570815450643,Czech <gnome-cs-list@gnome.org>
+zypper,9647,0,0,1276,0,0,8962,9647,100.0,Czech <https://l10n.opensuse.org/projects/zypper/master/cs/>

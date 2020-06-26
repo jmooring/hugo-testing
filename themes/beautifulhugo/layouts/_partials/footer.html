@@ -1,0 +1,17 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <p class="credits copyright text-muted">
+          &copy; {{ .Site.Params.since }} - {{ time.Now.Year }}
+
+          &nbsp;&bull;&nbsp;<a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a> &nbsp;&bull;&nbsp; <a href="https://codeberg.org/jibecfed/localization-statistics">Contribute!</a>
+        <br />Website generation: {{ now.UTC | time.Format ":date_long" }}
+          {{ .Site.Params.release }}
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{- partialCached "footer_custom.html" . }}

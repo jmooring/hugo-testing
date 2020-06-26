@@ -1,0 +1,46 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,10416,0,0,1305,0,10416,0.0,none
+authconfig,0,0,1351,0,0,243,0,1351,0.0,none
+chkconfig,0,0,430,0,0,88,0,430,0.0,none
+firstboot,0,0,604,0,0,52,0,604,0.0,none
+hwbrowser,0,0,117,0,0,52,0,117,0.0,none
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imsettings,0,0,849,0,0,139,0,849,0.0,none
+initscripts,0,0,3871,0,0,909,0,3871,0.0,none
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1224,4284,2717,290,834,526,1224,8225,14.88145896656535,none
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pidgin,6288,6312,5389,1441,1635,791,6272,17989,34.9546945355495,
+policycoreutils,0,0,4363,0,0,713,0,4363,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+sahana,15009,0,14297,2418,0,2577,8293,29306,51.214768306831374,NovaSteps L10N Team <ravi.chhabra@gmail.com>
+setroubleshoot,0,0,582,0,0,162,0,582,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,60,0,0,17,0,60,0.0,none
+specspo,0,0,305294,0,0,16850,0,305294,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,46,0,0,10,0,46,0.0,none
+system-config-date,0,0,478,0,0,57,0,478,0.0,none
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-firewall,0,0,2497,0,0,303,0,2497,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,78,0,0,12,0,78,0.0,none
+system-config-kickstart,0,0,1054,0,0,281,0,1054,0.0,none
+system-config-language,0,0,45,0,0,10,0,45,0.0,none
+system-config-lvm,0,0,2142,0,0,336,0,2142,0.0,none
+system-config-netboot,0,0,1103,0,0,165,0,1103,0.0,none
+system-config-network,0,0,2894,0,0,688,0,2894,0.0,none
+system-config-nfs,0,0,1517,0,0,138,0,1517,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3005,0,0,663,0,3005,0.0,none
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,422,0,0,137,0,422,0.0,none
+system-config-services,0,0,384,0,0,53,0,384,0.0,none
+system-config-users,0,0,1337,0,0,172,0,1337,0.0,none
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none

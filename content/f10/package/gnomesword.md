@@ -1,0 +1,55 @@
+---
+title: "gnomesword - translation progress for f10"
+package: gnomesword
+date: 2026-01-17T07:49:34+00:00
+started_languages: 17
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 18
+release: f10
+---
+The package gnomesword (version 2.4.1):
+
+* represents 9950 source words to be translated
+* is translated into 17 languages in Fedora f10
+
+
+* contains 18 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [de]({{< ref "/f10/language/de.md" >}}) | 2415 | 2415 | 100.0 | /mnt/stockage/packages/f10/gnomesword/po/de.po | 
+ | [fr]({{< ref "/f10/language/fr.md" >}}) | 9950 | 9950 | 100.0 | /mnt/stockage/packages/f10/gnomesword/help/fr/fr.po/mnt/stockage/packages/f10/gnomesword/po/fr.po | 
+ | [he_IL]({{< ref "/f10/language/he_IL.md" >}}) | 2415 | 2415 | 100.0 | /mnt/stockage/packages/f10/gnomesword/po/he_IL.po | 
+ | [pt]({{< ref "/f10/language/pt.md" >}}) | 2432 | 2432 | 100.0 | /mnt/stockage/packages/f10/gnomesword/po/pt.po | 
+ | [pt_PT]({{< ref "/f10/language/pt_PT.md" >}}) | 2432 | 2432 | 100.0 | /mnt/stockage/packages/f10/gnomesword/po/pt_PT.po | 
+ | [cs]({{< ref "/f10/language/cs.md" >}}) | 2411 | 2415 | 99.8 | /mnt/stockage/packages/f10/gnomesword/po/cs.po | 
+ | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 1972 | 1983 | 99.4 | /mnt/stockage/packages/f10/gnomesword/po/nb_NO.po | 
+ | [nl]({{< ref "/f10/language/nl.md" >}}) | 2385 | 2415 | 98.8 | /mnt/stockage/packages/f10/gnomesword/po/nl.po | 
+ | [fi]({{< ref "/f10/language/fi.md" >}}) | 1409 | 1442 | 97.7 | /mnt/stockage/packages/f10/gnomesword/po/fi.po | 
+ | [sv]({{< ref "/f10/language/sv.md" >}}) | 1760 | 2338 | 75.3 | /mnt/stockage/packages/f10/gnomesword/po/sv_SE.po | 
+ | [uk]({{< ref "/f10/language/uk.md" >}}) | 913 | 1442 | 63.3 | /mnt/stockage/packages/f10/gnomesword/po/uk.po | 
+ | [ru]({{< ref "/f10/language/ru.md" >}}) | 764 | 1442 | 53.0 | /mnt/stockage/packages/f10/gnomesword/po/ru.po | 
+ | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 447 | 2432 | 18.4 | /mnt/stockage/packages/f10/gnomesword/po/en_GB.po | 
+ | [fa]({{< ref "/f10/language/fa.md" >}}) | 237 | 1731 | 13.7 | /mnt/stockage/packages/f10/gnomesword/po/fa.po | 
+ | [es]({{< ref "/f10/language/es.md" >}}) | 159 | 1633 | 9.7 | /mnt/stockage/packages/f10/gnomesword/po/es.po | 
+ | [sk]({{< ref "/f10/language/sk.md" >}}) | 101 | 1442 | 7.0 | /mnt/stockage/packages/f10/gnomesword/po/sk.po | 
+ | [bg]({{< ref "/f10/language/bg.md" >}}) | 96 | 1442 | 6.7 | /mnt/stockage/packages/f10/gnomesword/po/bg.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

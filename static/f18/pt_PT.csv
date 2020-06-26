@@ -1,0 +1,65 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+apt,3701,396,6,447,27,2,3999,4103,90.20229100658055,European Portuguese <geral@caixamagica.pt>
+ardour,3941,0,456,1153,0,154,4403,4397,89.62929269956788,Portuguese
+ardour3,1100,0,10739,456,0,2378,1238,11839,9.291325280851423,Portuguese
+arduino,1902,0,15,315,0,12,2130,1917,99.21752738654148,Portuguese (Portugal)
+audacious,560,0,5,233,0,1,668,565,99.11504424778761,Portuguese
+audacious-plugins,3762,0,0,809,0,0,4056,3762,100.0,Portuguese
+boinc-client,16052,0,0,2599,0,0,17533,16052,100.0,LANGUAGE <LL@li.org>
+boswars,215,0,0,67,0,0,249,215,100.0,
+bygfoot,3623,48,49,755,11,8,3706,3720,97.39247311827957,Portuguese <LL@li.org>
+cairo-clock,270,0,0,60,0,0,325,270,100.0,Alfredo Matos <alfredo.matos@digitalself.org>
+chemtool,1164,0,20,249,0,12,1491,1184,98.3108108108108,European Portuguese
+childsplay,1226,0,0,212,0,0,1222,1226,100.0,<pt@li.org>
+claws-mail,13442,2179,2958,2811,497,376,16039,18579,72.35050325636472,Portuguese
+colorhug-client,0,0,810,0,0,184,0,810,0.0,LANGUAGE <LL@li.org>
+darktable,6313,0,0,1568,0,0,7067,6313,100.0,
+drupal6-userpoints,48,0,0,14,0,0,56,48,100.0,Portuguese from Portugal <miguel.duarte@gmail.com>
+epdfview,480,0,4,136,0,1,522,484,99.17355371900827,
+filezilla,9565,0,0,1605,0,0,11396,9565,100.0,
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Portuguese (Portugal)
+fuse-encfs,757,8,550,101,2,36,907,1315,57.56653992395437,Portuguese (Portugal) <pt_PT@li.org>
+garcon,17,0,72,2,0,27,21,89,19.101123595505616,
+gnomebaker,1113,21,52,276,5,10,1219,1186,93.84485666104553,portuguese <pt@li.org>
+gourmet,55,132,3460,15,38,815,74,3647,1.508088840142583,Portuguese (Portugal) <pt_PT@li.org>
+homebank,365,0,1364,207,0,383,395,1729,21.110468478889533,Portuguese (Portugal) <pt_PT@li.org>
+horde,7073,0,0,1939,0,0,8110,7073,100.0,Portugal Portuguese <dev@lists.horde.org>
+hotot,29,13,53,9,7,21,32,95,30.526315789473685,
+im-chooser,54,0,183,14,0,40,71,237,22.78481012658228,LANGUAGE <LL@li.org>
+imp,5646,0,0,1134,0,0,6135,5646,100.0,Portuguese of Portugal <dev@lists.horde.org>
+imsettings,20,0,421,8,0,72,21,441,4.535147392290249,LANGUAGE <LL@li.org>
+ingo,767,0,0,207,0,0,869,767,100.0,Brazilian Portuguese <i18n@lists.horde.org>
+kronolith,1597,0,0,419,0,0,1665,1597,100.0,Portuguese of Portugal <dev@lists.horde.org>
+labyrinth,84,62,80,29,13,31,92,226,37.16814159292036,European Portuguese <pt-PT@li.org>
+openconnect,0,0,2573,0,0,469,0,2573,0.0,Portuguese (Portugal) (http://www.transifex.net/projects/p/meego/team/pt_PT/)
+openerp,0,0,35,0,0,8,0,35,0.0,
+owncloud,1934,0,628,706,0,141,2230,2562,75.487900078064,Portuguese (Portugal) (http://www.transifex.com/projects/p/owncloud/language/pt_PT/)
+pgadmin3,9634,5496,395,2689,1360,82,11072,15525,62.05475040257649,PgAdmin Developers <pgadmin-hackers@postgresql.org>
+phpesp,848,566,816,204,77,127,976,2230,38.026905829596416,pt_PT <jflemer@alum.rpi.edu>
+poedit,1525,0,0,354,0,0,1685,1525,100.0,Poedit translators <poedit@googlegroups.com>
+publican,0,0,169,0,0,27,0,169,0.0,None
+publican-fedora,107,0,0,6,0,0,106,107,100.0,pt <fedora-trans-pt@redhat.com>
+pulsecaster,100,0,47,14,0,6,113,147,68.02721088435374,pt_PT <LL@li.org>
+remmina,290,0,734,101,0,194,366,1024,28.3203125,Portuguese (Portugal) <pt_PT@li.org>
+rt3,2897,0,4803,700,0,1127,3183,7700,37.62337662337663,Portuguese (Portugal) <pt_PT@li.org>
+squirrelmail,6116,0,0,1181,0,0,6542,6116,100.0,Portugues Iberico <squirrelmail-i18n@lists.sourceforge.net>
+subdownloader,965,0,0,278,0,0,1016,965,100.0,SubDownloader <capiscuas@gmail.com>
+subsurface,1597,0,0,516,0,0,1830,1597,100.0,Portuguese (Portugal) (http://www.transifex.com/projects/p/subsurface/language/pt_PT/)
+subtitleeditor,304,644,869,150,222,174,324,1817,16.730875068794717,
+synaptic,2304,536,391,551,71,40,2543,3231,71.3091922005571,<pt@li.org>
+turba,1308,0,0,301,0,0,1438,1308,100.0,Portuguese of Portugal <dev@lists.horde.org>
+tuxpaint-stamps,2709,2,0,649,1,0,2738,2711,99.926226484692,<smarquespt@gmail.com>
+umit,1642,233,2718,337,109,431,1686,4593,35.75005443065534,pt_PT <LL@li.org>
+vdr-skinenigmang,1,0,321,1,0,130,1,322,0.3105590062111801,<vdr@linuxtv.org>
+vdr-skins,5,1,0,4,1,0,6,6,83.33333333333334,Portuguese
+wine,13444,211,477,3093,54,48,15099,14132,95.13161619020663,none
+xarchiver,1131,0,0,277,0,0,1226,1131,100.0,
+xchm,197,17,20,81,7,8,211,234,84.1880341880342,Portuguese Team
+xfce4-icon-theme,8,0,0,2,0,0,9,8,100.0,
+xfce4-mailwatch-plugin,659,0,0,110,0,0,786,659,100.0,
+xfce4-notifyd,69,6,13,20,1,5,76,88,78.4090909090909,
+xfce4-timer-plugin,94,0,0,32,0,0,102,94,100.0,
+xfce4-weather-plugin,1456,129,2009,279,3,42,1483,3594,40.51196438508626,
+xfce4-xfswitch-plugin,20,0,0,3,0,0,18,20,100.0,
+xfe,330,2080,3093,166,620,232,379,5503,5.996729056878067,European Portuguese
+zabbix,11291,0,23,2858,0,4,14135,11314,99.79671203818278,none

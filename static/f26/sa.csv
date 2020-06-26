@@ -1,0 +1,27 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+cinnamon-translations,1,0,5933,1,0,1499,1,5934,0.016852039096730706,Sanskrit <sa@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+harvey,0,0,57,0,0,12,0,57,0.0,none
+inkscape,23795,7685,6459,4957,2232,923,17357,37939,62.71910171591239,Hindi <Indlinux>
+iok,0,0,206,0,0,40,0,206,0.0,Sanskrit <LL@li.org>
+libreoffice,57905,8667,33377,17342,3432,10702,42000,99949,57.93454661877557,LANGUAGE <LL@li.org>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+onboard,7,0,2311,6,0,504,6,2318,0.30198446937014667,Sanskrit <sa@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+slick-greeter,66,0,145,26,0,21,45,211,31.27962085308057,Sanskrit <sa@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1515,0,0,279,0,0,1091,1515,100.0,
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>

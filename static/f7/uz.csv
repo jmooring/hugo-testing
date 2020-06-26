@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,3640,1,9614,1132,1,1376,3533,13255,27.461335345152772,Uzbek <floss-uz-l10n@googlegroups.com>
+gnome-desktop,301,0,29,68,0,8,272,330,91.21212121212122,Uzbek <floss-uz-l10n@googlegroups.com>
+gtk2,81,163,11358,64,106,2135,84,11602,0.698155490432684,Uzbek <kmashrab@uni-bremen.de>
+iso-codes,3,3,12014,3,3,8490,3,12020,0.02495840266222962,Uzbek
+k3b,2831,1807,15992,913,418,1201,2681,20630,13.722733882695104,Uzbek <floss-uz-l10n@googlegroups.com>
+kaffeine,1081,92,1181,416,34,208,1062,2354,45.92183517417162,Uzbek <kmashrab@uni-bremen.de>
+po4a,23,0,1590,5,0,158,22,1613,1.4259144451332921,Uzbek <uz@li.org>
+xmms,1796,1,1448,800,1,216,2090,3245,55.34668721109399,Uzbek <uz-li@yahoogroups.com>

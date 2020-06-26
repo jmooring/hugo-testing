@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iso-codes,761,4,5,483,2,1,739,770,98.83116883116884,Tamil <gnome-tamil-translation@googlegroups.com>
+libreoffice,518312,2598,13084,72534,593,1158,518308,533994,97.06326288310355,LANGUAGE <LL@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+pootle,317,59,2048,50,14,395,316,2424,13.077557755775576,LANGUAGE <LL@li.org>
+tuxpaint,492,559,196,141,66,45,480,1247,39.45469125902165,English (South African) <en_za@li.org>
+virtaal,73,0,1098,16,0,298,74,1171,6.23398804440649,English <translate-devel@lists.sourceforge.net>

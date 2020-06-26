@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,4,0,7239,1,0,1822,4,7243,0.05522573519259975,English (South Africa) <en_ZA@li.org>
+elementary-calendar,0,0,652,0,0,221,0,652,0.0,none
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+gala,0,0,281,0,0,60,0,281,0.0,none
+libreoffice,316710,15406,427977,42887,5660,45830,316142,760093,41.66726966305439,LANGUAGE <LL@li.org>
+wingpanel,2,0,55,1,0,9,2,57,3.508771929824561,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,none
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,none

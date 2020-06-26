@@ -1,0 +1,63 @@
+---
+title: "mnw-Mon (မန်) - translation progress for f41"
+date: 2026-01-20T02:16:32+00:00
+code: mnw
+name_english: Mon
+name_local: မန်
+progress: 4.41
+progress_d: 0.00
+release: f41
+territories:
+ - MM
+ - TH
+polib_error_count: 0
+could_not_process_count: 5
+---
+
+Language progress for Mon (mnw) in Fedora f41 is:
+
+* 4.41% when we only look on started packages for this language.
+* 0.00% when we compare to every single translatable string in Fedora f41.
+
+Possible scripts are: Mymr
+
+* Total translatable string in Fedora f41: 21691764
+* Source words to translate in started packages: 13790
+* Translated words: 608
+
+
+Download:
+
+
+
+
+* [mnw generated stats (540 Bytes)]({{% resource url="/f41/mnw.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [rhythmbox-alternative-toolbar]({{< ref "/f41/package/rhythmbox-alternative-toolbar.md" >}}) | 291 | 291 | 100.0 | Mon <mnw@li.org> | 
+ | [gnome-online-accounts-gtk]({{< ref "/f41/package/gnome-online-accounts-gtk.md" >}}) | 16 | 36 | 44.4 | Mon <mnw@li.org> | 
+ | [deja-dup]({{< ref "/f41/package/deja-dup.md" >}}) | 246 | 1623 | 15.2 | Mon <mnw@li.org> | 
+ | [snapd]({{< ref "/f41/package/snapd.md" >}}) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
+ | [cinnamon-translations]({{< ref "/f41/package/cinnamon-translations.md" >}}) | 7 | 7533 | 0.1 | Mon <mnw@li.org> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

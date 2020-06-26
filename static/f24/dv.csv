@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-do,162,0,450,68,0,76,156,612,26.47058823529412,Divehi <dv@li.org>
+gnome-menus,157,0,0,56,0,0,133,157,100.0,Divehi <dv@li.org>
+minetest,116,8,6282,30,5,989,133,6406,1.810802372775523,Dhivehi <https://hosted.weblate.org/projects/minetest/minetest/dv/>
+stellarium,14,0,23518,12,0,5795,15,23532,0.059493455719870816,Divehi <dv@li.org>

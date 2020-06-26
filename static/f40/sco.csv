@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+cinnamon-translations,966,0,8387,296,0,1839,966,9353,10.328236929327488,Scots <sco@li.org>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Scots (http://www.transifex.com/mate/MATE/language/sco/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,Scots (http://www.transifex.com/mate/MATE/language/sco/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Scots (http://app.transifex.com/mate/MATE/language/sco/)
+picard,16,20,7902,6,4,1164,22,7938,0.20156210632401111,Scots <https://translations.metabrainz.org/projects/picard/2/app/sco/>

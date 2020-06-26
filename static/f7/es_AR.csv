@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,2273,0,0,496,0,0,2492,2273,100.0,Spanish <es@li.org>
+aquamarine,97,0,0,42,0,0,123,97,100.0,es_AR <berilio@gmail.com>
+bacula,0,0,18155,0,0,2887,0,18155,0.0,Spanish
+bazaar,39,0,6485,9,0,399,44,6524,0.5977927651747394,Spanish (Argentina) <es_AR@li.org>
+beryl-core,565,15,0,145,9,0,785,580,97.41379310344827,es_AR <berilio@gmail.com>
+beryl-manager,264,7,10,65,1,2,345,281,93.95017793594306,es_AR <berilio@gmail.com>
+beryl-plugins,3874,351,216,867,116,23,5235,4441,87.23260526908354,es_AR <berilio@gmail.com>
+beryl-settings,131,0,5,87,0,3,144,136,96.32352941176471,es_AR <berilio@gmail.com>
+emerald,693,18,51,193,9,9,952,762,90.94488188976378,Spanish <es@li.org>
+exaile,664,0,0,186,0,0,740,664,100.0,Argentine Spanish <pablitens@gmail.com>
+gallery2,7931,1885,206,1120,476,22,9014,10022,79.13590101776093,Argentine Spanish <gallery-devel@lists.sourceforge.net>
+gimp-lqr-plugin,57,10,434,21,4,54,66,501,11.377245508982035,Español
+gnome-applets,3858,0,0,976,0,0,4893,3858,100.0,Spanish <traductores@es.gnome.org>
+gnomebaker,1069,0,117,255,0,36,1231,1186,90.13490725126475,Spanish (Argentina) <es_AR@li.org>
+kmymoney2,11000,0,0,1846,0,0,11823,11000,100.0,Spanish (Argentina) <en@li.org>
+libvisual,303,204,548,62,51,92,364,1055,28.720379146919434,Spanish
+libvisual-plugins,354,54,192,67,14,28,426,600,59.0,Spanish <es@li.org>
+mcrypt,956,6,3,141,1,1,1117,965,99.06735751295336,Argentinian <translation-es-AR@lists.sourceforge.net>
+speedcrunch,1,0,17,1,0,12,1,18,5.555555555555555,es_AR

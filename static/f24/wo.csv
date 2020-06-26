@@ -1,0 +1,23 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Wolof (http://www.transifex.com/projects/p/fedora-abrt/language/wo/)
+asunder,4,0,476,4,0,83,6,480,0.8333333333333334,http://littlesvr.ca/ostd/
+ccsm,399,53,127,101,14,36,424,579,68.9119170984456,Wolof <wo@li.org>
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Wolof (http://www.transifex.com/projects/p/certmonger/language/wo/)
+debconf,189,0,2,16,0,1,207,191,98.95287958115183,Wolof <debian-boot@lists.debian.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Wolof (http://www.transifex.com/projects/p/initial-setup/language/wo/)
+iso-codes,1005,58,25,426,16,7,1027,1088,92.37132352941177,Wolof
+isomaster,8,1,665,7,1,99,9,674,1.1869436201780417,http://littlesvr.ca/ostd/
+klavaro,1733,158,20,214,14,4,1948,1911,90.68550497121926,Wolof <wo@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Wolof (http://www.transifex.com/projects/p/libreport/language/wo/)
+newt,4,0,0,4,0,0,4,4,100.0,Wolof
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Wolof (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/wo/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Wolof (http://www.transifex.com/projects/p/python-meh/language/wo/)
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+sugar,0,0,1625,0,0,398,0,1625,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Wolof (http://www.transifex.com/projects/p/system-config-kickstart/language/wo/)
+tuxpaint,1591,0,0,291,0,0,1749,1591,100.0,
+tuxtype2,71,0,9,32,0,8,87,80,88.75,

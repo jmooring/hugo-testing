@@ -1,0 +1,539 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3821,0,154,1168,0,100,3705,3975,96.12578616352201,Bulgarian <None>
+GConf2,4024,0,0,485,0,0,4776,4024,100.0,Bulgarian <dict@fsa-bg.org>
+Miro,3326,0,10,721,0,3,3539,3336,99.70023980815348,Bulgarian <dict@fsa-bg.org>
+NetworkManager,2497,0,0,543,0,0,2799,2497,100.0,Bulgarian <dict@fsa-bg.org>
+NetworkManager-openconnect,56,0,0,17,0,0,62,56,100.0,Bulgarian <dict@fsa-bg.org>
+NetworkManager-openswan,133,0,0,33,0,0,149,133,100.0,Bulgarian <dict@fsa-bg.org>
+NetworkManager-openvpn,274,0,0,81,0,0,302,274,100.0,Bulgarian <dict@fsa-bg.org>
+NetworkManager-pptp,144,0,0,44,0,0,172,144,100.0,Bulgarian <dict@fsa-bg.org>
+NetworkManager-vpnc,156,0,0,41,0,0,183,156,100.0,Bulgarian <dict@fsa-bg.org>
+PackageKit,1604,0,1637,372,0,378,1833,3241,49.490897871027464,Bulgarian (Bulgaria) (http://www.transifex.net/projects/p/freedesktop/team/bg_BG/)
+WindowMaker,4880,3,32,955,1,12,5647,4915,99.28789420142421,Bulgarian <dict@linux.zonebg.com>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Bulgarian (Bulgaria) (http://www.transifex.net/projects/p/freedesktop/team/bg_BG/)
+agave,82,0,3,30,0,2,119,85,96.47058823529412,Bulgarian <dict@fsa-bg.org>
+ailurus,4396,0,3449,647,0,541,4511,7845,56.03569152326322,Vladimir Kolev <admin@vladimirkolev.com>
+akonadi-googledata,78,8,0,17,1,0,89,86,90.69767441860465,Bulgarian <dict@fsa-bg.org>
+alacarte,42,0,0,16,0,0,42,42,100.0,Bulgarian <dict@fsa-bg.org>
+anaconda,3624,0,5822,559,0,614,3572,9446,38.36544569129791,Bulgarian <trans-bg@lists.fedoraproject.org>
+anjuta,7985,0,0,2157,0,0,9377,7985,100.0,Bulgarian <dict@fsa-bg.org>
+aria2,2212,1609,1253,201,71,54,2345,5074,43.59479700433583,Bulgarian <bg@li.org>
+asunder,404,27,21,74,7,1,411,452,89.38053097345133,
+at-spi,61,0,0,7,0,0,62,61,100.0,Bulgarian <dict@fsa-bg.org>
+at-spi2-atk,7,0,0,1,0,0,11,7,100.0,Bulgarian <dict@fsa-bg.org>
+at-spi2-core,122,0,0,18,0,0,148,122,100.0,Bulgarian <dict@fsa-bg.org>
+atk,375,0,0,126,0,0,471,375,100.0,Bulgarian <dict@linux.zonebg.com>
+atomix,146,0,0,59,0,0,198,146,100.0,Bulgarian <dict@fsa-bg.org>
+audacious,301,147,381,109,67,113,311,829,36.308805790108565,Bulgarian <bg@li.org>
+audacity,9639,111,893,2211,18,81,10737,10643,90.5665695762473,.
+authconfig,768,292,280,152,55,32,847,1340,57.3134328358209,Bulgarian <dict@fsa-bg.org>
+avahi,829,16,20,153,8,4,955,865,95.83815028901735,Bulgarian <dict@fsa-bg.org>
+avant-window-navigator,153,0,1676,33,0,284,154,1829,8.365226899945325,Bulgarian <bg@li.org>
+avogadro,1134,0,3128,525,0,1020,1356,4262,26.60722665415298,Bulgarian <bg@li.org>
+awn-extras-applets,938,0,4415,306,0,845,963,5353,17.52288436390809,Svetoslav Stefanov <lfu.project@gmail.com>
+backintime,907,0,12,177,0,3,1042,919,98.69423286180631,Bulgarian <bg@li.org>
+bakery,72,0,0,20,0,0,74,72,100.0,<en@li.org>
+balsa,3353,0,2001,989,0,300,3771,5354,62.62607396339186,Bulgarian <dict@fsa-bg.org>
+banshee,2183,589,1468,692,110,158,2487,4240,51.48584905660377,Bulgarian <dict@fsa-bg.org>
+bash,1332,6515,3014,256,96,195,1813,10861,12.264064082497008,Bulgarian <dict@fsa-bg.org>
+bibletime,1140,3381,297,136,70,46,1069,4818,23.6612702366127,Bulgarian
+binutils,5216,1,6886,880,1,1017,5935,12103,43.09675287118896,Bulgarian <dict@fsa-bg.org>
+bittorrent,3904,0,0,633,0,0,4317,3904,100.0,LANGUAGE <LL@li.org>
+blam,330,0,0,93,0,0,378,330,100.0,Bulgarian <dict@fsa-bg.org>
+blender,11275,0,4756,2820,0,1658,11577,16031,70.33248081841433,Bulgarian <bg@li.org>
+bluefish,1279,975,1565,632,370,283,1542,3819,33.490442524220995,Not a member <bg@li.org>
+blueman,849,0,527,263,0,89,951,1376,61.70058139534884,Bulgarian <bg@li.org>
+boinc-client,1283,605,2616,289,89,497,1294,4504,28.48579040852576,LANGUAGE <LL@li.org>
+boswars,158,19,41,46,6,23,163,218,72.47706422018348,Bulgarian
+brasero,9004,0,0,1232,0,0,9392,9004,100.0,Bulgarian <dict-notifications@fsa-bg.org>
+bygfoot,3287,136,297,687,36,51,3346,3720,88.36021505376344,Bulgarian <dict@fsa-bg.org>
+byobu,114,0,63,30,0,14,111,177,64.40677966101694,Bulgarian <bg@li.org>
+bzr-explorer,283,0,1373,194,0,275,321,1656,17.08937198067633,Bulgarian <bg@li.org>
+calibre,1639,0,28010,485,0,2821,1758,29649,5.528011062767716,bg
+camorama,558,0,0,123,0,0,665,558,100.0,Bulgarian <dict@fsa-bg.org>
+caribou,23,0,0,11,0,0,34,23,100.0,Bulgarian <dict@fsa-bg.org>
+ccsm,305,0,261,120,0,19,359,566,53.88692579505301,Svetoslav Stefanov <lfu.project@gmail.bg>
+celestia,1816,72,91,774,40,28,2054,1979,91.76351692774128,Bulgarian <kumbarov@gmail.com>
+centerim,2806,49,9,803,13,1,2926,2864,97.97486033519553,Bulgarian <bg@li.org>
+certmonger,958,0,71,154,0,19,1046,1029,93.10009718172984,Bulgarian <trans-bg@lists.fedoraproject.org>
+cheese,294,0,0,72,0,0,347,294,100.0,Bulgarian <dict@fsa-bg.org>
+chemtool,1165,0,19,252,0,9,1159,1184,98.39527027027027,Svetoslav Stefanov <lfu.project@gmail.com>
+chkconfig,448,0,39,90,0,3,471,487,91.9917864476386,Bulgarian <trans-bg@lists.fedoraproject.org>
+choqok,934,217,763,233,89,151,1060,1914,48.79832810867293,Bulgarian <dict@fsa-bg.org>
+chromium-bsu,1034,0,0,180,0,0,1155,1034,100.0,Bulgarian <dict@fsa-bg.org>
+clamtk,778,0,0,211,0,0,807,778,100.0,Bulgarian <bg@li.org>
+claws-mail,9015,910,4833,2419,179,383,9796,14758,61.08551294213308,Bulgarian <dict@fsa-bg.org>
+clementine,3158,0,0,891,0,0,3379,3158,100.0,Bulgarian <bg@li.org>
+colord,25,0,363,8,0,91,34,388,6.443298969072164,LANGUAGE <LL@li.org>
+compiz,1303,877,1070,301,234,182,1465,3250,40.09230769230769,Bulgarian <i18n@suse.de>
+contacts,107,19,159,44,11,20,144,285,37.54385964912281,Bulgarian <dict@fsa-bg.org>
+control-center,2913,50,704,1303,31,166,3198,3667,79.43823288791928,Bulgarian <dict@fsa-bg.org>
+coreutils,10197,6363,2494,931,344,222,11289,19054,53.516322032119234,Bulgarian <dict@fsa-bg.org>
+dasher,528,0,0,199,0,0,691,528,100.0,Bulgarian <dict@fsa-bg.org>
+dc3dd,288,368,276,42,25,21,351,932,30.90128755364807,Bulgarian <dict@fsa-bg.org>
+decibel-audio-player,1002,0,492,195,0,42,954,1494,67.06827309236948,Bulgarian <bg@li.org>
+deja-dup,1408,0,217,268,0,12,1617,1625,86.64615384615385,Bulgarian <bg@li.org>
+deskbar-applet,1670,0,0,356,0,0,1776,1670,100.0,Bulgarian <dict@fsa-bg.org>
+devhelp,456,0,0,119,0,0,527,456,100.0,Bulgarian <dict@fsa-bg.org>
+dexter,221,0,7,91,0,1,235,228,96.9298245614035,Bulgarian <bg@li.org>
+dia,5686,0,0,2040,0,0,6568,5686,100.0,Bulgarian <dict@fsa-bg.org>
+dialog,3,0,22,3,0,20,3,25,12.0,Bulgarian <dict@linux.zonebg.com>
+digikam,2405,8294,12954,853,1451,993,2712,23653,10.16784340252822,Bulgarian <dict@fsa-bg.org>
+django-registration,81,0,0,15,0,0,78,81,100.0,LANGUAGE <LL@li.org>
+docky,570,0,29,167,0,6,626,599,95.15859766277129,Bulgarian <bg@li.org>
+drwright,104,40,47,13,9,7,164,191,54.45026178010471,Bulgarian <dict@fsa-bg.org>
+duplicity,1216,0,2040,182,0,292,1458,3256,37.34643734643734,Bulgarian <bg@li.org>
+e16,2034,6,778,309,3,217,2026,2818,72.17885024840312,Bulgarian
+easytag,3204,742,1369,724,133,134,3416,5315,60.28222013170272,Bulgarian <dict@fsa-bg.org>
+ekiga,5669,1970,2161,828,55,68,5708,9800,57.8469387755102,Bulgarian <bg@li.org>
+elinks,611,1872,9751,230,541,854,685,12234,4.994278240967795,Bulgarian <bg-team@bash.info>
+empathy,3874,0,0,849,0,0,4173,3874,100.0,Bulgarian <dict@fsa-bg.org>
+eog,1566,0,0,312,0,0,1661,1566,100.0,Bulgarian <dict@fsa-bg.org>
+eog-plugins,80,0,0,28,0,0,100,80,100.0,Bulgarian <dict@fsa-bg.org>
+epiphany,7913,0,0,1094,0,0,8275,7913,100.0,Bulgarian <dict@fsa-bg.org>
+epiphany-extensions,888,0,0,244,0,0,1029,888,100.0,Bulgarian <dict@fsa-bg.org>
+etoys,755,0,29239,295,0,4807,792,29994,2.517170100686804,
+evince,3172,0,0,518,0,0,3260,3172,100.0,Bulgarian <dict@fsa-bg.org>
+evolution,21837,0,0,4497,0,0,23488,21837,100.0,Bulgarian <dict@fsa-bg.org>
+evolution-data-server,4671,0,0,984,0,0,5436,4671,100.0,Bulgarian <dict@fsa-bg.org>
+evolution-exchange,2204,0,0,360,0,0,2420,2204,100.0,Bulgarian <dict@fsa-bg.org>
+evolution-mapi,341,0,0,67,0,0,430,341,100.0,Bulgarian <dict@fsa-bg.org>
+exaile,432,0,2334,205,0,528,495,2766,15.61822125813449,Bulgarian <bg@li.org>
+exo,12,2,1386,6,1,267,18,1400,0.8571428571428572,Bulgarian <LL@li.org>
+f-spot,3402,0,0,773,0,0,3683,3402,100.0,Bulgarian <dict@fsa-bg.org>
+file-roller,7258,0,0,782,0,0,7136,7258,100.0,<dict@fsa-bg.org>
+filezilla,9254,0,0,1569,0,0,9376,9254,100.0,Bulgarian <dict@fsa-bg.org>
+findutils,1319,511,279,124,39,33,1475,2109,62.541488857278324,Bulgarian <dict@fsa-bg.org>
+firstboot,600,54,0,53,1,0,555,654,91.74311926605505,Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>>
+flush,2630,0,10,601,0,2,3201,2640,99.62121212121212,Georgi Dobrev <gdd71@abv.bg>
+fpm2,510,213,25,129,64,8,515,748,68.18181818181817,Bulgarian
+fprintd,0,0,219,0,0,33,0,219,0.0,Bulgarian (Bulgaria) <None>
+freedink,18,64,0,4,11,0,20,82,21.951219512195124,Bulgarian <dict@fsa-bg.org>
+frozen-bubble,537,82,79,127,9,12,551,698,76.93409742120345,Bulgarian <lfu.project@gmail.com>
+fuse-encfs,461,4,850,55,1,83,478,1315,35.057034220532316,Bulgarian <bg@li.org>
+gajim,8690,1634,1318,1717,298,200,9136,11642,74.64353203916852,Bulgarian <dict@fsa-bg.org>
+gallery2,9093,699,8370,1376,154,889,9644,18162,50.066072018500165,Bisser Dobrev <bisser DOT dobrev AT gmail DOT com>
+gammu,54,65,16003,46,15,2170,64,16122,0.33494603647190174,none
+ganyremote,518,0,9,148,0,1,543,527,98.292220113852,Bulgarian <s.popov@rsc.bg>
+gcalctool,6942,0,227,1033,0,209,6761,7169,96.83358906402567,LANGUAGE <LL@li.org>
+gcompris,10938,0,0,1303,0,0,10027,10938,100.0,Bulgarian <dict@fsa-bg.org>
+gconf-editor,336,0,0,98,0,0,448,336,100.0,Bulgarian <dict@fsa-bg.org>
+gdeskcal,102,0,7,43,0,4,105,109,93.57798165137615,LANGUAGE <LL@li.org>
+gdesklets,910,0,618,160,0,44,941,1528,59.554973821989535,Bulgarian <dict@fsa-bg.org>
+gdk-pixbuf2,1313,0,0,200,0,0,1702,1313,100.0,Bulgarian <dict@fsa-bg.org>
+gdm,1094,0,0,205,0,0,1296,1094,100.0,Bulgarian <dict@fsa-bg.org>
+gdmap,128,11,0,49,5,0,137,139,92.08633093525181,Bulgarian
+geany,2175,2466,945,571,498,146,2171,5586,38.93662728249194,Bulgarian <bg@li.org>
+geda-gaf,64,0,1785,34,0,534,69,1849,3.461330448891293,Bulgarian <bg@li.org>
+gedit,10066,0,0,1235,0,0,9970,10066,100.0,Bulgarian <dict@fsa-bg.org>
+gedit-plugins,927,155,123,396,49,24,1275,1205,76.92946058091287,Bulgarian <dict@fsa-bg.org>
+geeqie,1593,519,797,630,177,182,1897,2909,54.76108628394637,Bulgarian <bg@li.org>
+gettext,6852,5,0,686,1,0,7144,6857,99.92708181420447,Bulgarian <dict@fsa-bg.org>
+gftp,3096,230,49,560,70,4,3475,3375,91.73333333333333,Bulgarian GNOME translation team <dict@fsa-bg.org>
+ggz-base-libs,74,0,0,17,0,0,85,74,100.0,Bulgarian <dict@fsa-bg.org>
+ggz-gtk-client,773,0,0,244,0,0,810,773,100.0,Bulgarian <dict@fsa-bg.org>
+ghex,677,0,0,201,0,0,699,677,100.0,Bulgarian <dict@linux.zonebg.com>
+gigolo,315,27,102,94,13,23,327,444,70.94594594594594,Bulgarian <xfce-i18n@xfce.org>
+gimp,25421,0,0,6630,0,0,27194,25421,100.0,Bulgarian <dict@fsa-bg.org>
+gkrellm,3389,0,395,516,0,35,3290,3784,89.56131078224101,Bulgarian <dict@fsa-bg.org>
+glade3,6293,0,0,1331,0,0,6936,6293,100.0,Bulgarian <dict@fsa-bg.org>
+glib-networking,86,0,0,16,0,0,122,86,100.0,Bulgarian <dict@fsa-bg.org>
+glib2,4594,0,0,719,0,0,5295,4594,100.0,Bulgarian <dict@fsa-bg.org>
+glibc,7409,0,0,1353,0,0,9078,7409,100.0,Bulgarian <dict@fsa-bg.org>
+gliv,893,19,122,229,6,25,979,1034,86.36363636363636,Bulgarian <dict@fsa-bg.org>
+glunarclock,226,0,0,70,0,0,233,226,100.0,Bulgarian <dict@fsa-bg.org>
+gmpc,21,0,4,12,0,1,25,25,84.0,Bulgarian <bg@li.org>
+gnome-activity-journal,316,0,0,94,0,0,344,316,100.0,Bulgarian <bg@li.org>
+gnome-applet-alarm-clock,89,0,328,47,0,63,92,417,21.34292565947242,Bulgarian <bg@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,27,29,75.86206896551724,Bulgarian
+gnome-applets,7592,0,0,1122,0,0,8397,7592,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-backgrounds,29,0,0,17,0,0,39,29,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-bluetooth,662,0,0,192,0,0,755,662,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-color-manager,1614,245,181,275,47,31,1588,2040,79.11764705882352,Bulgarian <dict@fsa-bg.org>
+gnome-commander,3269,228,4399,1012,59,352,3400,7896,41.40070921985816,ССТАНЕВ <sstpr@narod.ru>
+gnome-desktop,438,0,0,61,0,0,462,438,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-desktop3,384,0,0,49,0,0,403,384,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-disk-utility,4544,0,0,1077,0,0,5396,4544,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-do,509,0,103,132,0,12,567,612,83.16993464052288,Bulgarian <bg@li.org>
+gnome-do-plugins,459,0,1864,141,0,441,501,2323,19.758932414980627,Bulgarian <bg@li.org>
+gnome-doc-utils,251,0,0,101,0,0,131,251,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-games,6476,0,0,1472,0,0,6321,6476,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-icon-theme,20,0,0,16,0,0,22,20,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-keyring,1174,0,0,243,0,0,1105,1174,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-mag,298,0,0,42,0,0,347,298,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-media,1234,0,0,310,0,0,1466,1234,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-menus,161,0,0,57,0,0,207,161,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-mime-data,887,0,0,362,0,0,995,887,100.0,Bulgarian <dict@linux.zonebg.com>
+gnome-netstatus,1225,0,0,183,0,0,1328,1225,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-packagekit,4694,0,0,791,0,0,4844,4694,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-panel,3688,0,0,515,0,0,3806,3688,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-pilot-conduits,209,0,0,50,0,0,260,209,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-power-manager,2133,0,0,376,0,0,2278,2133,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-schedule,1113,36,189,215,7,21,1199,1338,83.18385650224215,Bulgarian
+gnome-screensaver,291,0,0,58,0,0,320,291,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-session,446,0,0,92,0,0,493,446,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-settings-daemon,2915,0,0,394,0,0,3015,2915,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-shell,964,0,0,239,0,0,1043,964,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-subtitles,718,0,0,268,0,0,819,718,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-system-monitor,4027,0,0,529,0,0,3992,4027,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-terminal,4204,0,0,493,0,0,4132,4204,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-themes,109,0,0,30,0,0,126,109,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-themes-standard,24,0,0,9,0,0,27,24,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-user-share,333,0,0,52,0,0,381,333,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-utils,3576,0,0,683,0,0,3919,3576,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-vfs2,1519,0,0,305,0,0,1702,1519,100.0,Bulgarian <dict@fsa-bg.org>
+gnome-video-effects,246,0,0,66,0,0,237,246,100.0,Bulgarian <dict@fsa-bg.org>
+gnomebaker,279,295,593,95,61,131,328,1167,23.90745501285347,Bulgarian <dict@fsa-bg.org>
+gnomeradio,401,0,0,90,0,0,464,401,100.0,Bulgarian <dict@fsa-bg.org>
+gnote,2005,0,69,308,0,4,2155,2074,96.67309546769528,Svetoslav Stefanov <lfu.project@gmail.com>
+gnotime,6,210,1792,7,86,336,6,2008,0.29880478087649404,Bulgarian <dict@linux.zonebg.com>
+gnubik,217,0,0,58,0,0,211,217,100.0,Bulgarian <dict@fsa-bg.org>
+gnucash,19745,2440,4495,2953,692,620,19314,26680,74.00674662668666,Bulgarian <dict@fsa-bg.org>
+gnumeric,4884,4058,26104,1522,1114,3006,5361,35046,13.93596986817326,Bulgarian <dict@fsa-bg.org>
+goffice,788,902,2909,357,400,803,824,4599,17.134159599913023,Bulgarian <dict@linux.zonebg.com>
+gok,1915,0,0,434,0,0,2189,1915,100.0,Bulgarian <dict@fsa-bg.org>
+gourmet,438,335,2874,195,125,548,569,3647,12.00987112695366,Bulgarian <dict@fsa-bg.org>
+gparted,2086,0,0,381,0,0,2219,2086,100.0,Bulgarian <dict@fsa-bg.org>
+gramps,27530,0,96,4815,0,19,28337,27626,99.65250126692247,Bulgarian <dict@fsa-bg.org>
+granule,197,10,148,48,4,35,7,355,55.49295774647888,Bulgarian <dict@linux.zonebg.com>
+grep,57,254,644,19,25,69,75,955,5.968586387434556,Bulgarian <bg@bulgaria.com>
+griffith,1220,12,622,368,5,81,1316,1854,65.80366774541531,Bulgarian <dict@fsa-bg.org>
+grip,899,27,121,234,6,29,961,1047,85.86437440305636,Bulgarian <dict@linux.zonebg.com>
+gscan2pdf,679,0,869,218,0,243,840,1548,43.86304909560724,Bulgarian <bg@li.org>
+gstreamer,1914,0,0,347,0,0,2153,1914,100.0,Bulgarian <dict@fsa-bg.org>
+gstreamer-plugins-bad-free,96,0,0,14,0,0,124,96,100.0,Bulgarian <dict@fsa-bg.org>
+gstreamer-plugins-base,902,0,0,176,0,0,970,902,100.0,Bulgarian <dict@fsa-bg.org>
+gstreamer-plugins-good,814,0,0,190,0,0,895,814,100.0,Bulgarian <dict@fsa-bg.org>
+gtg,1357,0,423,200,0,47,1180,1780,76.23595505617978,Bulgarian <bg@li.org>
+gthumb,2563,0,0,867,0,0,2926,2563,100.0,Bulgarian <dict@fsa-bg.org>
+gtk2,13699,5,0,2783,1,0,14808,13704,99.96351430239346,Bulgarian <dict@fsa-bg.org>
+gtk2-engines,119,0,0,47,0,0,171,119,100.0,Bulgarian <dict@fsa-bg.org>
+gtk3,12572,0,0,2647,0,0,13295,12572,100.0,Bulgarian <dict@fsa-bg.org>
+gtkhtml3,485,0,0,309,0,0,568,485,100.0,Bulgarian <dict@fsa-bg.org>
+gtksourceview,891,0,0,366,0,0,1068,891,100.0,Bulgarian <dict@fsa-bg.org>
+gtksourceview2,1413,0,0,538,0,0,1690,1413,100.0,Bulgarian <dict@fsa-bg.org>
+gtksourceview3,1482,0,0,590,0,0,1778,1482,100.0,Bulgarian <dict@fsa-bg.org>
+gtranslator,1225,0,0,331,0,0,1393,1225,100.0,Bulgarian <dict@fsa-bg.org>
+gucharmap,1435,0,1146,382,0,91,1650,2581,55.598605191786135,Bulgarian <dict@fsa-bg.org>
+gvfs,2011,0,0,469,0,0,2528,2011,100.0,Bulgarian <dict@fsa-bg.org>
+gwget,507,0,0,166,0,0,673,507,100.0,Bulgarian <dict@fsa-bg.org>
+gwibber,45,0,0,24,0,0,54,45,100.0,Bulgarian <bg@li.org>
+hamster-applet,717,0,0,181,0,0,812,717,100.0,Bulgarian <dict@fsa-bg.org>
+hello,109,66,18,15,12,3,125,193,56.476683937823836,Bulgarian <dict@fsa-bg.org>
+homebank,1376,0,133,504,0,30,1451,1509,91.18621603711067,Bulgarian <bg@li.org>
+horde,2661,0,0,518,0,0,2617,2661,100.0,i18n@lists.horde.org
+hugin,2732,1517,1856,594,338,230,3093,6105,44.75020475020475,Bulgarian <bg@li.org>
+icewm,0,0,0,0,0,0,0,0,0.0,Bulgarian
+ikiwiki,161,340,828,44,74,163,210,1329,12.114371708051166,Bulgarian <dict@fsa-bg.org>
+im-chooser,199,0,27,46,0,7,225,226,88.05309734513274,LANGUAGE <LL@li.org>
+imp,3028,0,0,676,0,0,3051,3028,100.0,BG i18n@lists.horde.org
+imsettings,197,0,207,40,0,34,200,404,48.76237623762376,LANGUAGE <LL@li.org>
+initscripts,2803,1154,392,639,346,85,3208,4349,64.45159806852149,Bulgarian <dict@fsa-bg.org>
+inkscape,11319,5877,9332,2647,1668,1263,11813,26528,42.668124246079614,Bulgarian <bg@li.org>
+ipplan,4513,0,3,747,0,3,4949,4516,99.93356953055802,Bulgarian <bg@li.org>
+iso-codes,2140,2489,14508,1178,2026,10151,1874,19137,11.182525996760202,Bulgarian <dict@fsa-bg.org>
+isomaster,674,0,0,107,0,0,539,674,100.0,American English <kde-i18n-doc@kde.org>
+istanbul,325,0,0,40,0,0,308,325,100.0,Bulgarian <ash@contact.bg>
+k3b,18127,2207,89,2385,122,13,17748,20423,88.75777309895706,Bulgarian <dict@fsa-bg.org>
+kaffeine,223,53,314,135,34,88,261,590,37.79661016949152,Bulgarian <dict@fsa-bg.org>
+kanyremote,498,0,0,140,0,0,515,498,100.0,Bulgarian <s.popov@rsc.bg>
+kaudiocreator,1043,0,93,265,0,8,1097,1136,91.81338028169014,Bulgarian <dict@fsa-bg.org>
+kcm-gtk,7,45,72,3,5,13,8,124,5.64516129032258,Bulgarian <dict@linux.zonebg.com>
+kcoloredit,133,14,131,54,3,38,152,278,47.84172661870504,Bulgarian <dict@fsa-bg.org>
+kde-partitionmanager,2732,0,0,453,0,0,3037,2732,100.0,<en@li.org>
+kdetv,2206,0,0,483,0,0,2489,2206,100.0,Bulgarian <bg@li.org>
+kdiff3,3429,0,88,632,0,5,3837,3517,97.49786750071084,Bulgarian <dict@fsa-bg.org>
+kdissert,2027,0,0,282,0,0,2056,2027,100.0,Bulgarian <dict@linux.zonebg.com>
+keurocalc,291,0,0,116,0,0,292,291,100.0,Bulgarian <dict@linux.zonebg.com>
+kexec-tools,95,39,72,9,2,3,94,206,46.116504854368934,Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>>
+kgrab,370,0,0,53,0,0,369,370,100.0,Bulgarian <dict@fsa-bg.org>
+kicad,13843,0,0,3491,0,0,14593,13843,100.0,KiCad Team <evgeniy_p_ivanov@yahoo.ca>
+kiconedit,726,0,0,155,0,0,719,726,100.0,Bulgarian <dict@fsa-bg.org>
+kile,6603,22,4540,1304,5,594,6480,11165,59.14017017465293,Bulgarian <dict@fsa-bg.org>
+kio_gopher,17,0,0,5,0,0,22,17,100.0,Bulgarian <dict@fsa-bg.org>
+kipi-plugins,1509,0,2655,742,0,292,1572,4164,36.23919308357348,Bulgarian <dict@fsa-bg.org>
+kmldonkey,1183,0,647,405,0,31,1316,1830,64.6448087431694,Bulgarian <dict@fsa-bg.org>
+kmplayer,463,2,783,230,1,139,555,1248,37.09935897435898,Bulgarian <dict@fsa-bg.org>
+kmymoney,1122,605,17352,672,318,2170,1188,19079,5.880811363278998,Bulgarian <dict@fsa-bg.org>
+knemo,225,294,667,111,92,144,257,1186,18.97133220910624,Bulgarian <dict@fsa-bg.org>
+knetstats,119,0,0,53,0,0,130,119,100.0,Bulgarian <dict@linux.zonebg.com>
+knights,439,12,162,144,2,36,438,613,71.61500815660685,Bulgarian <dict@fsa-bg.org>
+koffice-kivio,8415,0,2,2360,0,1,8722,8417,99.97623856480932,Bulgarian <dict@fsa-bg.org>
+konq-plugins,1692,0,0,546,0,0,1867,1692,100.0,Bulgarian <dict@linux.zonebg.com>
+konversation,5994,3169,1459,1239,252,145,6184,10622,56.43005083788364,Bulgarian <dict@fsa-bg.org>
+kpackagekit,1995,1172,479,456,164,53,2032,3646,54.71749862863412,Bulgarian <dict@fsa-bg.org>
+kphotoalbum,543,29,5761,311,14,438,632,6333,8.574135480814778,Bulgarian <dict@fsa-bg.org>
+kpilot,5362,873,921,594,158,109,4824,7156,74.93012856344326,Bulgarian <dict@linux.zonebg.com>
+krecipes,2985,35,67,556,8,4,3220,3087,96.6958211856171,Bulgarian <dict@linux.zonebg.com>
+kronolith,919,0,0,250,0,0,909,919,100.0,BG i18n@lists.horde.org
+krusader,7625,75,50,1663,24,10,7948,7750,98.38709677419355,Bulgarian <dict@fsa-bg.org>
+kshutdown,778,0,0,186,0,0,755,778,100.0,Bulgarian <dict@linux.zonebg.com>
+ksig,85,0,0,26,0,0,88,85,100.0,български <mailto:dict@fsa-bg.org>
+kst,1622,1515,4309,571,426,815,1807,7446,21.783507923717433,Bulgarian <dict@linux.zonebg.com>
+ktorrent,987,2322,4641,305,577,461,1025,7950,12.415094339622641,Bulgarian <dict@fsa-bg.org>
+kvirc,0,0,62,0,0,21,0,62,0.0,LANGUAGE <LL@li.org>
+leafpad,123,2,0,67,1,0,176,125,98.4,Bulgarian <dict@fsa-bg.org>
+leechcraft,722,39,20,143,7,6,790,781,92.44558258642766,Bulgarian < >
+libbonobo,543,0,0,107,0,0,652,543,100.0,Bulgarian <dict@fsa-bg.org>
+libbonoboui,368,0,0,115,0,0,485,368,100.0,Bulgarian <dict@fsa-bg.org>
+libfm,659,0,0,179,0,0,618,659,100.0,MIME-Version: 1.0
+libgdata,552,0,0,67,0,0,632,552,100.0,Bulgarian <dict@fsa-bg.org>
+libgdl,604,0,0,92,0,0,656,604,100.0,Bulgarian <dict@fsa-bg.org>
+libgnome,1773,0,0,273,0,0,2146,1773,100.0,Bulgarian <dict@fsa-bg.org>
+libgnome-keyring,44,0,0,9,0,0,46,44,100.0,Bulgarian <dict@fsa-bg.org>
+libgnome-media-profiles,460,0,0,51,0,0,541,460,100.0,Bulgarian <dict@fsa-bg.org>
+libgnomecanvas,378,0,0,95,0,0,388,378,100.0,Bulgarian <dict@fsa-bg.org>
+libgnomecups,11,0,0,10,0,0,11,11,100.0,Bulgarian <dict@fsa-bg.org>
+libgnomekbd,242,0,0,55,0,0,272,242,100.0,Bulgarian <dict@fsa-bg.org>
+libgnomeprint22,168,0,0,98,0,0,170,168,100.0,Bulgarian <dict@fsa-bg.org>
+libgnomeprintui22,481,0,0,154,0,0,495,481,100.0,Bulgarian <dict@fsa-bg.org>
+libgnomeui,1226,0,0,320,0,0,1316,1226,100.0,Bulgarian <dict@fsa-bg.org>
+libgtop2,126,0,0,40,0,0,147,126,100.0,Bulgarian <dict@fsa-bg.org>
+libgweather,6090,0,0,4555,0,0,6185,6090,100.0,Bulgarian <dict@fsa-bg.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,25,0,0,14,0,0,25,25,100.0,Bulgarian <dict@linux.zonebg.com>
+libktorrent,108,265,134,32,57,24,152,507,21.301775147928996,Bulgarian <dict@fsa-bg.org>
+liblicense,45,0,21,38,0,12,46,66,68.18181818181817,LANGUAGE <LL@li.org>
+libpeas,106,0,0,27,0,0,115,106,100.0,Bulgarian <dict@fsa-bg.org>
+libuser,1064,0,70,225,0,12,1231,1134,93.82716049382715,LANGUAGE <LL@li.org>
+libvirt,1867,7713,13582,411,1470,2096,2102,23162,8.0606165270702,Bulgarian <dict@fsa-bg.org>
+libwnck,1124,0,0,241,0,0,1319,1124,100.0,Bulgarian <dict@fsa-bg.org>
+libwnck3,1124,0,0,241,0,0,1319,1124,100.0,Bulgarian <dict@fsa-bg.org>
+liferea,943,845,623,233,172,126,1063,2411,39.11240149315637,Bulgarian <dict@fsa-bg.org>
+listen,1745,1,37,540,1,8,1965,1783,97.86876051598429,Bulgarian <bg@li.org>
+lxappearance-obconf,191,0,0,26,0,0,199,191,100.0,LANGUAGE <LL@li.org>
+lxdm,30,0,0,18,0,0,36,30,100.0,MIME-Version: 1.0
+lxinput,70,0,0,23,0,0,71,70,100.0,MIME-Version: 1.0
+lxmenu-data,97,0,0,37,0,0,116,97,100.0,Bulgarian <dict@fsa-bg.org>
+lxmusic,203,0,0,89,0,0,230,203,100.0,MIME-Version: 1.0
+lxpanel,892,0,0,297,0,0,953,892,100.0,MIME-Version: 1.0
+lxsession,36,0,0,14,0,0,35,36,100.0,MIME-Version: 1.0
+lxtask,122,0,0,48,0,0,133,122,100.0,MIME-Version: 1.0
+lxterminal,144,0,0,85,0,0,145,144,100.0,MIME-Version: 1.0
+mail-notification,915,0,534,192,0,51,1016,1449,63.14699792960663,Bulgarian <bg@li.org>
+man-db,19,138,158,5,28,57,21,315,6.031746031746032,Bulgarian <dict@fsa-bg.org>
+manaworld,3,11,3202,2,4,816,3,3216,0.09328358208955223,Bulgarian <bg@li.org>
+mc,1411,6,2438,509,2,614,1464,3855,36.601815823605705,Bulgarian (http://www.transifex.net/projects/p/mc/language/bg/)
+meld,1256,0,0,313,0,0,1420,1256,100.0,Bulgarian <dict@fsa-bg.org>
+metacity,3700,0,0,406,0,0,3988,3700,100.0,Bulgarian <dict@fsa-bg.org>
+mingw-gstreamer,1914,0,0,347,0,0,2153,1914,100.0,Bulgarian <dict@fsa-bg.org>
+mingw-gtk3,12572,0,0,2647,0,0,13295,12572,100.0,Bulgarian <dict@fsa-bg.org>
+mingw-wxWidgets,52,0,0,15,0,0,54,52,100.0,<wx-translators@wxwindows.org>
+mingw32-atk,375,0,0,126,0,0,471,375,100.0,Bulgarian <dict@linux.zonebg.com>
+mingw32-binutils,5216,1,6886,880,1,1017,5935,12103,43.09675287118896,Bulgarian <dict@fsa-bg.org>
+mingw32-gdk-pixbuf,1313,0,0,200,0,0,1702,1313,100.0,Bulgarian <dict@fsa-bg.org>
+mingw32-glib-networking,86,0,0,16,0,0,122,86,100.0,Bulgarian <dict@fsa-bg.org>
+mingw32-glib2,4594,0,0,719,0,0,5295,4594,100.0,Bulgarian <dict@fsa-bg.org>
+mingw32-gtk2,13699,5,0,2783,1,0,14808,13704,99.96351430239346,Bulgarian <dict@fsa-bg.org>
+mingw32-gtkhtml3,485,0,0,309,0,0,568,485,100.0,Bulgarian <dict@fsa-bg.org>
+mingw32-libvirt,1867,7713,13582,411,1470,2096,2102,23162,8.0606165270702,Bulgarian <dict@fsa-bg.org>
+mingw32-webkitgtk,1130,0,0,275,0,0,1393,1130,100.0,Bulgarian <dict@fsa-bg.org>
+mlocate,275,4,284,46,1,3,300,563,48.84547069271758,Bulgarian <dict@fsa-bg.org>
+moin,4131,412,431,821,29,70,4278,4974,83.0518697225573,
+monkey-bubble,309,0,0,86,0,0,372,309,100.0,Bulgarian <dict@fsa-bg.org>
+monsoon,310,26,31,159,13,16,330,367,84.46866485013625,BULGARIAN <ventsislav.mladenov@gmail.com>
+mousetweaks,237,0,0,64,0,0,293,237,100.0,Bulgarian <dict@fsa-bg.org>
+mutt,3656,929,792,846,158,116,4217,5377,67.99330481681235,
+mutter,2422,0,0,353,0,0,2709,2422,100.0,Bulgarian <dict@fsa-bg.org>
+mutter-mbl,2423,0,0,358,0,0,2707,2423,100.0,Bulgarian <dict@fsa-bg.org>
+nano,2102,295,292,344,37,38,2091,2689,78.17032354034957,Bulgarian <dict@fsa-bg.org>
+nautilus,7129,0,0,1128,0,0,7386,7129,100.0,Bulgarian <dict@fsa-bg.org>
+nautilus-actions,1132,320,102,135,24,11,1149,1554,72.84427284427284,Bulgarian <dict@fsa-bg.org>
+nautilus-image-converter,42,0,0,19,0,0,49,42,100.0,Svetoslav Stefanov <lfu.project@gmail.com>
+nautilus-open-terminal,24,0,0,5,0,0,21,24,100.0,Bulgarian <dict@fsa-bg.org>
+nautilus-sendto,310,0,0,65,0,0,313,310,100.0,Bulgarian <dict@fsa-bg.org>
+network-manager-netbook,473,0,0,144,0,0,504,473,100.0,Bulgarian <dict@fsa-bg.org>
+newt,4,0,0,4,0,0,4,4,100.0,Bulgarian <dict@linux.zonebg.com>
+nfoview,98,0,10,44,0,4,115,108,90.74074074074075,Svetoslav Stefanov <lfu.project@gmail.com>
+oggconvert,132,0,0,44,0,0,149,132,100.0,Bulgarian <bg@li.org>
+olpc-switch-desktop,153,0,5,12,0,2,131,158,96.83544303797468,LANGUAGE <LL@li.org>
+onboard,377,0,0,66,0,0,403,377,100.0,Bulgarian <bg@li.org>
+openconnect,0,0,1701,0,0,320,0,1701,0.0,Bulgarian (Bulgaria) (http://www.transifex.net/projects/p/meego/team/bg_BG/)
+orage,2,76,2283,2,39,758,2,2361,0.08470986869970351,Bulgarian <dict@fsa-bg.org>
+orca,4456,0,0,1414,0,0,5148,4456,100.0,Bulgarian <dict@fsa-bg.org>
+osmo,1703,0,2,702,0,2,1873,1705,99.88269794721407,Bulgarian
+pan,2268,0,0,542,0,0,2692,2268,100.0,Bulgarian <dict@fsa-bg.org>
+passwd,291,8,0,51,2,0,325,299,97.32441471571906,Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>>
+pcmanfm,548,0,0,151,0,0,552,548,100.0,Plural-Forms: nplurals=2; plural=(n!= 1);
+pessulus,130,0,0,33,0,0,154,130,100.0,Bulgarian <dict@fsa-bg.org>
+pgadmin3,6910,1956,810,2071,489,136,7899,9676,71.41380735841256,The pgAdmin Development Team <pgadmin-hackers@postgresql.org>
+phatch,1247,0,1306,435,0,389,1371,2553,48.844496670583624,Bulgarian <bg@li.org>
+picard,775,0,1595,471,0,626,799,2370,32.70042194092827,Bulgarian <bg@li.org>
+pidgin,4216,5584,8556,1361,1408,1134,4770,18356,22.96796687731532,Bulgarian <dict@fsa-bg.org>
+pidgin-libnotify,36,0,0,12,0,0,36,36,100.0,BULGARIAN <LL@li.org>
+pitivi,1461,2,0,339,1,0,1645,1463,99.86329460013671,Bulgarian <dict@fsa-bg.org>
+planner,1795,0,0,527,0,0,2116,1795,100.0,Bulgarian <dict@fsa-bg.org>
+poedit,1115,22,25,261,5,3,1249,1162,95.9552495697074,Bulgarian <dict@fsa-bg.org>
+policycoreutils,1180,238,52,210,38,12,1478,1470,80.27210884353741,Bulgarian <dict@fsa-bg.org>
+pondus,324,0,0,91,0,0,360,324,100.0,Bulgarian (http://www.transifex.net/projects/p/pondus/team/bg/)
+pootle,1027,408,2062,866,243,353,1077,3497,29.36802973977695,LANGUAGE <LL@li.org>
+postgresql-jdbc,1813,9,12,215,2,2,1939,1834,98.85496183206108,<bg@li.org>
+proftpd,823,0,0,198,0,0,898,823,100.0,Bulgarian
+psmisc,270,377,252,40,15,27,342,899,30.03337041156841,Bulgarian <dict@fsa-bg.org>
+publican,925,0,169,45,0,27,917,1094,84.55210237659963,Bulgarian <f0x1@mail.bg>
+publican-fedora,106,0,1,5,0,1,89,107,99.06542056074767,Bulgarian <f0x1@mail.bg>
+pychess,126,0,2965,65,0,573,119,3091,4.076350695567777,Bulgarian <bg@li.org>
+pykickstart,306,7,25,31,1,3,290,338,90.53254437869822,Bulgarian <dict@fsa-bg.org>
+pyroom,21,0,390,7,0,67,24,411,5.109489051094891,Bulgarian <bg@li.org>
+quodlibet,1354,350,581,392,104,97,1539,2285,59.25601750547046,Bulgarian <dict@fsa-bg.org>
+radiotray,58,0,59,27,0,16,77,117,49.572649572649574,Bulgarian (http://www.transifex.net/projects/p/radiotray/team/bg/)
+rapid-photo-downloader,70,0,1842,37,0,368,69,1912,3.6610878661087867,Bulgarian <bg@li.org>
+readahead,75,54,0,17,1,0,84,129,58.139534883720934,Bulgarian <fedora-trans-bg@redhat.com>
+redhat-menus,261,0,0,86,0,0,293,261,100.0,Bulgarian <bg@li.org>
+rednotebook,197,0,920,77,0,165,206,1117,17.636526410026857,Bulgarian <bg@li.org>
+regexxer,467,0,0,100,0,0,524,467,100.0,Bulgarian <dict@fsa-bg.org>
+remmina,772,0,58,202,0,18,912,830,93.01204819277108,Svetoslav Stefanov <lfu.project@gmail.com>
+remmina-plugins,179,0,15,71,0,4,219,194,92.26804123711341,Svetoslav Stefanov <lfu.project@gmail.com>
+rhn-client-tools,561,681,2949,95,132,189,574,4191,13.385826771653544,Български <en@li.org>
+rhnsd,0,0,20,0,0,5,0,20,0.0,LANGUAGE <LL@li.org>
+rhythmbox,5093,0,0,1206,0,0,5781,5093,100.0,Bulgarian <dict@fsa-bg.org>
+ristretto,57,78,173,21,30,73,67,308,18.506493506493506,
+rt3,7360,0,396,1752,0,83,8047,7756,94.89427539969057,Bulgarian <bg@li.org>
+rubyripper,1608,0,117,300,0,22,1658,1725,93.21739130434783,Bulgarian <aleximilian@gmail.com> <tolostoi@gmail.com>
+rygel,556,0,0,114,0,0,638,556,100.0,Bulgarian <dict-notifications@fsa-bg.org>
+sabayon,743,0,0,171,0,0,969,743,100.0,Bulgarian <dict@fsa-bg.org>
+sane-backends,3238,338,780,624,123,150,3316,4356,74.33425160697888,<>
+sawfish,2247,1624,2572,514,274,194,2457,6443,34.8750582027006,Bulgarian <dict@linux.zonebg.com>
+scribus,190,3281,10723,135,1418,1643,211,14194,1.3385937720163448,
+seahorse,3012,0,0,654,0,0,3242,3012,100.0,Bulgarian <dict@fsa-bg.org>
+seahorse-plugins,1165,0,0,245,0,0,1368,1165,100.0,Bulgarian <dict@fsa-bg.org>
+setroubleshoot,147,61,355,50,27,91,175,563,26.1101243339254,Bulgarian <dict@fsa-bg.org>
+setroubleshoot-plugins,690,2942,4206,20,75,270,648,7838,8.803266139321256,Bulgarian <dict@fsa-bg.org>
+setuptool,55,0,0,14,0,0,68,55,100.0,Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>>
+sh-elf-binutils,5216,1,6886,880,1,1017,5935,12103,43.09675287118896,Bulgarian <dict@fsa-bg.org>
+shared-mime-info,1489,0,0,595,0,0,2167,1489,100.0,Bulgarian <dict@fsa-bg.org>
+sharutils,652,376,27,107,39,5,786,1055,61.80094786729858,Bulgarian <dict@fsa-bg.org>
+shotwell,2302,0,1617,535,0,271,2465,3919,58.73947435570298,LANGUAGE <LL@li.org>
+shutter,1078,0,1912,240,0,358,1089,2990,36.05351170568562,Bulgarian <bg@li.org>
+simple-scan,651,0,0,118,0,0,718,651,100.0,Bulgarian <bg@li.org>
+skrooge,91,1818,4452,58,759,715,87,6361,1.4305926741078447,Bulgarian <dict@fsa-bg.org>
+smb4k,760,992,4610,282,176,217,786,6362,11.945928953159383,Bulgarian <dict@fsa-bg.org>
+smolt,319,355,292,64,26,42,365,966,33.02277432712215,Bulgarian <dict@fsa-bg.org>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,986,0,0,187,0,0,1224,986,100.0,Bulgarian <dict@fsa-bg.org>
+soundconverter,292,109,49,80,15,15,327,450,64.88888888888889,English (United Kingdom) <en_GB@li.org>
+spacechart,229,8,16,85,1,4,230,253,90.51383399209486,Bulgarian <dict@linux.zonebg.com>
+specspo,38284,30632,236378,3955,3862,9033,37628,305294,12.540043368032128,Bulgarian <dict@fsa-bg.org>
+squirrelmail,3321,1495,2134,874,270,222,3761,6950,47.78417266187051,Bulgarian <squirrelmail-i18n@lists.sourceforge.net>
+sssd,0,0,1599,0,0,271,0,1599,0.0,Bulgarian <trans-bg@lists.fedoraproject.org>
+stellarium,2483,0,1993,903,0,886,2662,4476,55.47363717605005,Bulgarian <bg@li.org>
+stratagus,211,8,26,59,2,8,220,245,86.12244897959184,Bulgarian
+straw,627,0,0,195,0,0,705,627,100.0,Bulgarian <dict@fsa-bg.org>
+subdownloader,968,0,0,272,0,0,1087,968,100.0,LANGUAGE <LL@li.org>
+subtitlecomposer,2170,3,6,569,2,3,2523,2179,99.58696649839376,Bulgarian <>
+subtitleeditor,2906,0,391,779,0,61,3089,3297,88.14073400060661,Svetoslav Stefanov <lfu.project@gmail.com>
+sugar,291,0,0,95,0,0,306,291,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,2,0,22,2,0,22,2,24,8.333333333333332,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,38,0,19,20,0,10,41,57,66.66666666666666,LANGUAGE <LL@li.org>
+sugar-calculator,555,11,27,116,2,9,515,593,93.59190556492412,Bulgarian <dict@fsa-bg.org>
+sugar-chat,19,0,31,9,0,24,20,50,38.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,30,31,100.0,Bulgarian <dict@fsa-bg.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,24,0,0,11,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,185,0,0,56,0,185,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,62,0,0,26,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-log,97,2,0,19,2,0,99,99,97.97979797979798,LANGUAGE <LL@li.org>
+sugar-measure,3,6,102,2,3,45,3,111,2.7027027027027026,LANGUAGE <LL@li.org>
+sugar-memorize,54,0,0,29,0,0,55,54,100.0,LANGUAGE <LL@li.org>
+sugar-moon,34,0,57,11,0,21,36,91,37.362637362637365,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,33,8,21,9,4,9,32,62,53.2258064516129,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,26,0,0,17,0,0,30,26,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-surf,47,0,0,26,0,0,51,47,100.0,LANGUAGE <LL@li.org>
+sugar-tamtam,1112,20,938,483,16,196,1366,2070,53.71980676328503,LANGUAGE <LL@li.org>
+sugar-terminal,1,0,12,1,0,6,1,13,7.6923076923076925,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1206,1,0,354,1,1208,0.16556291390728478,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,64,0,17,38,0,10,64,81,79.01234567901234,LANGUAGE <LL@li.org>
+supertuxkart,211,0,1447,88,0,201,227,1658,12.72617611580217,Bulgarian <bg@li.org>
+switchdesk,139,0,0,20,0,0,134,139,100.0,Bulgarian <dict@fsa-bg.org>
+sylpheed,3897,1814,1193,1074,483,166,4525,6904,56.44553881807648,Bulgarian <bg@li.org>
+synapse,554,0,27,157,0,8,595,581,95.35283993115318,Bulgarian <bg@li.org>
+synaptic,3218,7,6,660,1,1,3538,3231,99.59764778706283,Bulgarian <dict@fsa-bg.org>
+system-config-bind,9286,84,49,1050,7,7,9580,9419,98.58796050536151,Bulgarian <dict@fsa-bg.org>
+system-config-boot,46,2,71,10,1,12,61,119,38.655462184873954,Bulgarian <dict@fsa-bg.org>
+system-config-date,1747,0,53,801,0,14,1759,1800,97.05555555555556,Bulgarian <trans-bg@lists.fedoraproject.org>
+system-config-date-docs,208,0,531,37,0,23,198,739,28.146143437077132,LANGUAGE <LL@li.org>
+system-config-firewall,687,1248,879,125,97,109,750,2814,24.4136460554371,Bulgarian <dict@fsa-bg.org>
+system-config-httpd,866,0,0,225,0,0,944,866,100.0,Bulgarian <dict@fsa-bg.org>
+system-config-kdump,235,87,485,13,19,106,231,807,29.120198265179674,Bulgarian <dict@fsa-bg.org>
+system-config-keyboard,169,18,0,71,10,0,171,187,90.37433155080214,bulgarian <bg@li.org>
+system-config-kickstart,787,165,152,196,37,12,822,1104,71.28623188405797,Bulgarian <dict@fsa-bg.org>
+system-config-language,49,9,265,14,2,40,46,323,15.170278637770899,Bulgarian <dict@linux.zonebg.com>
+system-config-lvm,577,451,1114,124,71,141,551,2142,26.937441643323996,Bulgarian <Bulgarian translators' team <dict@fsa-bg.org>>
+system-config-netboot,1042,0,61,157,0,8,1048,1103,94.46962828649139,Bulgarian <bg@li.org>
+system-config-network,2697,114,211,661,31,26,2866,3022,89.24553275976174,Bulgarian <dict@fsa-bg.org>
+system-config-nfs,326,0,6,69,0,3,352,332,98.19277108433735,Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,850,782,1425,234,232,276,887,3057,27.805037618580307,Bulgarian <bg@li.org>
+system-config-rootpassword,116,0,0,19,0,0,111,116,100.0,Bulgarian <dict@fsa-bg.org>
+system-config-samba,571,0,0,134,0,0,624,571,100.0,Bulgarian <trans-bg@lists.fedoraproject.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,140,0,378,32,0,39,152,518,27.027027027027028,Bulgarian <trans-bg@lists.fedoraproject.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1168,0,288,156,0,18,1090,1456,80.21978021978022,Bulgarian <trans-bg@lists.fedoraproject.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,158,0,0,24,0,0,164,158,100.0,Bulgarian <Bulgarian Translators' Team <dict@fsa-bg.org>>
+tagtool,918,0,40,208,0,3,1077,958,95.82463465553236,Bulgarian <dict@linux.zonebg.com>
+tangogps,210,100,260,110,59,101,267,570,36.84210526315789,Svetoslav Stefanov <lfu.project@gmail.com>
+tar,2659,367,291,438,62,47,3107,3317,80.162797708773,Bulgarian <dict@fsa-bg.org>
+tasks,30,27,244,19,15,66,29,301,9.966777408637874,Bulgarian <bg@li.org>
+tellico,563,1735,3434,272,526,403,579,5732,9.82205163991626,Bulgarian <dict@fsa-bg.org>
+terminator,78,0,261,50,0,69,81,339,23.008849557522122,Bulgarian <bg@li.org>
+tomboy,3104,0,0,441,0,0,3337,3104,100.0,Bulgarian <dict@fsa-bg.org>
+totem,2775,0,4552,625,0,265,3028,7327,37.8736181247441,LANGUAGE <LL@li.org>
+totem-pl-parser,28,0,0,7,0,0,23,28,100.0,Bulgarian <dict@fsa-bg.org>
+transmission,1112,0,416,363,0,91,1363,1528,72.77486910994764,Bulgarian <bg@li.org>
+turba,644,0,0,147,0,0,624,644,100.0,BG i18n@lists.horde.org
+tuxmath,866,183,405,168,28,52,857,1454,59.55983493810179,
+tuxpaint,493,558,196,142,65,45,451,1247,39.53488372093023,Bulgarian <dict@fsa-bg.org>
+usermode,553,0,13,93,0,2,563,566,97.70318021201413,LANGUAGE <LL@li.org>
+vidalia,657,0,9718,271,0,1031,640,10375,6.332530120481927,translations@vidalia-project.net
+viewnior,387,0,0,122,0,0,401,387,100.0,Bulgarian <bg@li.org>
+vinagre,1686,0,0,287,0,0,1854,1686,100.0,Bulgarian <dict@fsa-bg.org>
+vino,1184,0,0,128,0,0,1259,1184,100.0,Bulgarian <dict@fsa-bg.org>
+virt-manager,501,1734,2405,149,529,410,529,4640,10.797413793103448,Bulgarian <dict@fsa-bg.org>
+virtaal,1171,0,0,314,0,0,1290,1171,100.0,Bulgarian <dict@fsa-bg.org>
+vte,80,0,0,13,0,0,104,80,100.0,Bulgarian <dict@fsa-bg.org>
+vte3,80,0,0,13,0,0,104,80,100.0,Bulgarian <dict@fsa-bg.org>
+wammu,3079,69,1134,659,10,121,3458,4282,71.90565156468939,Svetoslav Stefanov <lfu.project@gmail.com>
+wdiff,5,99,15,2,21,8,6,119,4.201680672268908,Bulgarian <dict@fsa-bg.org>
+webkitgtk,1130,0,0,275,0,0,1393,1130,100.0,Bulgarian <dict@fsa-bg.org>
+webkitgtk3,1130,0,0,275,0,0,1393,1130,100.0,Bulgarian <dict@fsa-bg.org>
+wesnoth,103489,43825,79594,7109,2009,5044,97864,226908,45.60835228374495,Bulgarian <bg@li.org>
+wget,424,458,1378,104,82,208,484,2260,18.761061946902654,Bulgarian <bg@bulgaria.com>
+wine,1359,1161,11274,541,427,2171,1400,13794,9.852109612875164,none
+workrave,993,156,78,177,44,20,961,1227,80.92909535452323,<i18n@workrave.org>
+wormux,1916,0,0,327,0,0,1781,1916,100.0,Bulgarian <thedeadly91@gmail.com>
+wxGTK,52,0,0,15,0,0,54,52,100.0,<wx-translators@wxwindows.org>
+wxPython,52,0,0,15,0,0,54,52,100.0,<wx-translators@wxwindows.org>
+xarchiver,1097,30,4,270,3,4,1099,1131,96.99381078691424,BULGARIAN <Enzo_01@abv.bg>
+xcdroast,4009,362,3673,526,61,261,3829,8044,49.838388861263056,Bulgarian
+xchat-gnome,1792,818,1291,644,157,179,1896,3901,45.936939246347094,Bulgarian <dict@fsa-bg.org>
+xchm,142,31,49,59,13,19,146,222,63.96396396396396,Bulgarian <dict@linux.zonebg.com>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Bulgarian <dict@fsa-bg.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,85,81,100.0,Bulgarian <dict@fsa-bg.org>
+xfce-utils,31,34,427,14,11,47,35,492,6.300813008130081,Bulgarian <dict@fsa-bg.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Bulgarian <bg@li.org>
+xfce4-panel,7,222,1275,7,73,264,8,1504,0.4654255319148936,Bulgarian <bg@li.org>
+xfce4-screenshooter,170,67,206,26,14,33,149,443,38.37471783295711,
+xfce4-xkb-plugin,64,0,0,18,0,0,71,64,100.0,Bulgarian <sasoiliev@mamul.org>
+xfdesktop,212,227,396,71,60,68,250,835,25.389221556886227,Bulgarian <dict@fsa-bg.org>
+xfprint,100,50,172,44,22,47,112,322,31.05590062111801,Bulgarian <dict@fsa-bg.org>
+xfwm4,41,413,383,23,121,86,40,837,4.898446833930705,Bulgarian <dict@fsa-bg.org>
+xiphos,59,8,3841,33,3,809,61,3908,1.5097236438075743,Xiphos Project
+xkeyboard-config,3139,0,0,931,0,0,4015,3139,100.0,Bulgarian <dict@fsa-bg.org>
+xmms,3424,15,4,1038,5,2,3669,3443,99.44815567818762,<bg@li.org>
+xpad,226,0,137,66,0,11,333,363,62.25895316804407,Bulgarian <dict@fsa-bg.org>
+yelp,937,0,0,323,0,0,1038,937,100.0,Bulgarian <dict@fsa-bg.org>
+yelp-xsl,146,0,0,70,0,0,107,146,100.0,Bulgarian <dict@fsa-bg.org>
+yum-rhn-plugin,0,0,100,0,0,12,0,100,0.0,LANGUAGE <LL@li.org>
+zeitgeist,22,0,0,3,0,0,25,22,100.0,Bulgarian <dict@fsa-bg.org>
+zenity,2983,0,0,407,0,0,3192,2983,100.0,Bulgarian <dict@fsa-bg.org>

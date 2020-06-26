@@ -1,0 +1,1582 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,212,0,0,44,0,0,243,212,100.0,Dutch (http://www.transifex.com/wildfire-games/0ad/language/nl/)
+GConf2,4088,0,0,497,0,0,4205,4088,100.0,Dutch <vertaling@vrijschrift.org>
+LabPlot,6988,0,0,2084,0,0,6482,6988,100.0,Dutch <kde-i18n-nl@kde.org>
+NetworkManager,106,113,11289,16,19,1676,100,11508,0.9210983663538407,Dutch <vertaling@vrijschrift.org>
+NetworkManager-fortisslvpn,19,1,154,7,1,25,21,174,10.919540229885058,Dutch <vertaling@vrijschrift.org>
+NetworkManager-l2tp,96,17,670,34,4,92,86,783,12.260536398467432,Dutch <vertaling@vrijschrift.org>
+NetworkManager-libreswan,139,0,0,36,0,0,130,139,100.0,Dutch <vertaling@vrijschrift.org>
+NetworkManager-openconnect,2398,123,2805,441,24,471,2481,5326,45.02440856177244,Dutch (http://www.transifex.com/projects/p/meego/language/nl/)
+NetworkManager-openvpn,449,0,308,110,0,26,417,757,59.313077939233814,Dutch <vertaling@vrijschrift.org>
+NetworkManager-pptp,110,0,0,39,0,0,101,110,100.0,Dutch <vertaling@vrijschrift.org>
+NetworkManager-ssh,32,38,216,13,15,41,32,286,11.188811188811188,Dutch <vertaling@vrijschrift.org>
+NetworkManager-sstp,110,0,0,39,0,0,101,110,100.0,Dutch <vertaling@vrijschrift.org>
+NetworkManager-vpnc,606,0,0,101,0,0,545,606,100.0,Dutch <vertaling@vrijschrift.org>
+PackageKit,1240,0,38,311,0,9,1245,1278,97.0266040688576,Dutch (http://www.transifex.com/freedesktop/packagekit/language/nl/)
+Thunar,4200,0,0,738,0,0,4194,4200,100.0,Dutch (https://www.transifex.com/xfce/teams/16840/nl/)
+WindowMaker,6048,0,726,1185,0,457,5538,6774,89.28255093002657,Dutch
+Zim,2815,0,0,690,0,0,2904,2815,100.0,Dutch <nl@li.org>
+a2ps,1384,128,0,175,4,0,1366,1512,91.53439153439153,Dutch <vertaling@vrijschrift.org>
+abrt,3969,0,0,476,0,0,4192,3969,100.0,Dutch (http://www.transifex.com/projects/p/fedora-abrt/language/nl/)
+accerciser,535,0,0,205,0,0,502,535,100.0,Dutch <vertaling@vrijschrift.org>
+accountsservice,59,0,0,10,0,0,57,59,100.0,Dutch (http://www.transifex.com/projects/p/freedesktop/language/nl/)
+agenda,0,0,43,0,0,13,0,43,0.0,Dutch <nl@li.org>
+ailurus,2060,0,5657,331,0,836,2086,7717,26.694311260852665,none
+aisleriot,3075,0,0,679,0,0,2414,3075,100.0,Dutch <gnome-nl-list@gnome.org>
+akonadi-calendar-tools,842,0,0,173,0,0,890,842,100.0,Dutch <kde-i18n-nl@kde.org>
+akonadi-import-wizard,391,0,0,83,0,0,394,391,100.0,Dutch <kde-i18n-nl@kde.org>
+akregator,1765,0,0,426,0,0,1715,1765,100.0,Dutch <kde-i18n-nl@kde.org>
+alacarte,42,0,0,16,0,0,36,42,100.0,Dutch <vertaling@vrijschrift.org>
+alexandria,1165,4,12,303,2,1,1165,1181,98.64521591871296,Dutch
+alleyoop,351,0,0,89,0,0,345,351,100.0,Dutch <vertaling@vrijschrift.org>
+almanah,785,0,0,157,0,0,810,785,100.0,<en@li.org>
+amarok,15819,0,0,2780,0,0,16080,15819,100.0,Dutch <kde-i18n-nl@kde.org>
+anaconda,7079,87,211,1180,7,33,7062,7377,95.96041751389454,Dutch (http://www.transifex.com/projects/p/anaconda/language/nl/)
+analitza,988,0,0,221,0,0,1014,988,100.0,Dutch <kde-i18n-nl@kde.org>
+anjuta,3643,1927,2335,1232,555,368,3385,7905,46.08475648323846,Dutch <vertaling@vrijschrift.org>
+appcenter,582,22,153,136,3,38,629,757,76.88243064729194,Dutch <https://weblate.elementary.io/projects/appcenter/appcenter/nl/>
+appstream,851,2,0,190,1,0,842,853,99.76553341148886,Dutch <https://hosted.weblate.org/projects/appstream/translations/nl/>
+apt-cacher-ng,394,0,0,25,0,0,417,394,100.0,Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+arandr,173,0,0,38,0,0,173,173,100.0,Dutch <https://hosted.weblate.org/projects/arandr/translations/nl/>
+arduino,3468,0,2718,691,0,489,3743,6186,56.06207565470417,Dutch (Netherlands) (http://www.transifex.com/mbanzi/arduino-ide-15/language/nl_NL/)
+aria2,299,0,7148,59,0,338,309,7447,4.015039613267088,Dutch <nl@li.org>
+ark,1850,0,0,335,0,0,1948,1850,100.0,Dutch <kde-i18n-nl@kde.org>
+arm-none-eabi-binutils-cs,1896,0,0,331,0,0,1971,1896,100.0,Dutch <vertaling@vrijschrift.org>
+arm-none-eabi-gcc-cs,5891,37009,54295,1072,5354,6142,5996,97195,6.061011368897577,Dutch <vertaling@vrijschrift.org>
+arm-none-eabi-gdb,1371,0,0,234,0,0,1419,1371,100.0,Dutch <vertaling@vrijschrift.org>
+artikulate,436,0,0,156,0,0,438,436,100.0,Dutch <kde-i18n-nl@kde.org>
+aspell,1726,0,0,293,0,0,1585,1726,100.0,Dutch <vertaling@vrijschrift.org>
+asunder,0,6,489,0,4,87,0,495,0.0,
+at-spi2-core,10,0,0,2,0,0,10,10,100.0,Dutch <vertaling@vrijschrift.org>
+atk,440,0,0,169,0,0,371,440,100.0,Dutch <gnome-nl-list@gnome.org>
+atomix,146,0,0,59,0,0,163,146,100.0,Dutch <vertaling@nl.linux.org>
+atril,2755,31,770,516,2,47,2809,3556,77.47469066366705,Dutch <vertaling@vrijschrift.org>
+attr,308,0,0,26,0,0,311,308,100.0,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+audacious,760,0,0,326,0,0,810,760,100.0,Dutch (http://www.transifex.com/audacious/audacious/language/nl/)
+audacious-plugins,3739,0,195,877,0,11,3861,3934,95.04321301474327,Dutch (http://www.transifex.com/audacious/audacious/language/nl/)
+audacity,16591,0,0,3775,0,0,16021,16591,100.0,Dutch (http://www.transifex.com/klyok/audacity/language/nl/)
+audex,3347,0,0,412,0,0,3440,3347,100.0,Dutch <kde-i18n-nl@kde.org>
+audience,100,0,6,45,0,3,147,106,94.33962264150944,Dutch <https://l10n.elementary.io/projects/videos/videos/nl/>
+audit-viewer,611,0,0,185,0,0,653,611,100.0,LANGUAGE <LL@li.org>
+authconfig,929,0,0,137,0,0,930,929,100.0,Dutch (http://www.transifex.com/projects/p/authconfig/language/nl/)
+autotest-framework,11,6,966,1,1,87,10,983,1.119023397761953,Dutch <vertaling@vrijschrift.org>
+avahi,865,2,1,165,2,1,846,868,99.65437788018433,Dutch (http://www.transifex.com/lennart/avahi/language/nl/)
+avogadro,3637,0,2970,1453,0,919,3973,6607,55.04767670652338,Dutch <nl@li.org>
+avr-binutils,1896,0,0,331,0,0,1971,1896,100.0,Dutch <vertaling@vrijschrift.org>
+avr-gcc,5891,37009,54306,1072,5354,6143,5996,97206,6.0603254943110505,Dutch <vertaling@vrijschrift.org>
+avr-gdb,1392,0,0,236,0,0,1440,1392,100.0,Dutch <vertaling@vrijschrift.org>
+axel,173,261,109,41,9,23,178,543,31.860036832412526,Dutch <nl@li.org>
+ayttm,1860,697,355,471,123,56,1893,2912,63.873626373626365,Nederlands <i18n@kde.nl>
+backintime,1969,0,14,334,0,2,2209,1983,99.29399899142713,Dutch <nl@li.org>
+backup-manager,947,38,78,149,7,11,910,1063,89.08748824082785,DUTCH
+bacula,85,185,504,23,21,73,88,774,10.981912144702841,LANGUAGE <LL@li.org>
+bakery,72,0,0,20,0,0,76,72,100.0,Dutch <vertaling@vrijschrift.org>
+ballerburg,294,0,0,85,0,0,291,294,100.0,Dutch <nl@li.org>
+baloo-widgets,412,0,0,125,0,0,408,412,100.0,Dutch <kde-i18n-nl@kde.org>
+balsa,4277,1441,486,1048,369,104,4322,6204,68.93939393939394,Dutch <nl@li.org>
+banshee,5801,0,0,1517,0,0,5496,5801,100.0,Dutch <vertaling@vrijschrift.org>
+baobab,246,0,0,64,0,0,258,246,100.0,Dutch <gnome-nl-list@gnome.org>
+bash,10354,973,29,563,12,6,10285,11356,91.17647058823529,Dutch <vertaling@vrijschrift.org>
+bibletime,1988,0,7732,253,0,391,2072,9720,20.45267489711934,Dutch (http://www.transifex.com/bibletime/bibletime/language/nl/)
+bijiben,309,0,0,103,0,0,311,309,100.0,Dutch <gnome-nl-list@gnome.org>
+binutils,1896,0,0,331,0,0,1971,1896,100.0,Dutch <vertaling@vrijschrift.org>
+bison,1416,0,0,213,0,0,1488,1416,100.0,Dutch <vertaling@vrijschrift.org>
+bleachbit,1260,0,0,267,0,0,1293,1260,100.0,Dutch <nl@li.org>
+blender,3431,0,0,1699,0,0,3662,3431,100.0,
+blinken,133,0,0,47,0,0,149,133,100.0,Dutch <kde-i18n-nl@kde.org>
+blivet-gui,0,0,762,0,0,220,0,762,0.0,Dutch
+blobwars,1256,0,0,370,0,0,1158,1256,100.0,Dutch Localization <debian-l10n-dutch@lists.debian.org>
+blogilo,1392,0,0,337,0,0,1409,1392,100.0,Dutch <kde-i18n-nl@kde.org>
+blueberry,141,0,0,34,0,0,145,141,100.0,Dutch <nl@li.org>
+bluedevil,573,0,0,191,0,0,584,573,100.0,Dutch <kde-i18n-nl@kde.org>
+bluefish,4920,17,8,1540,5,3,4585,4945,99.49443882709808,Dutch; Flemish <>
+blueman,1340,0,44,335,0,7,1349,1384,96.82080924855492,Dutch (http://www.transifex.com/mate/MATE/language/nl/)
+boinc-client,22078,0,392,3677,0,49,22683,22470,98.25545171339563,Dutch (http://www.transifex.com/boinc/boinc/language/nl/)
+bomber,103,0,0,27,0,0,104,103,100.0,Dutch <kde-i18n-nl@kde.org>
+boswars,230,6,0,84,2,0,217,236,97.45762711864407,Dutch <foppe.benedictus@gmail.com>
+bovo,81,0,0,25,0,0,95,81,100.0,Dutch <kde-i18n-nl@kde.org>
+bpython,13,0,329,3,0,58,13,342,3.8011695906432745,bpython developers
+brasero,5546,0,0,968,0,0,5419,5546,100.0,Dutch <gnome-nl-list@gnome.org>
+bygfoot,3720,0,0,774,0,0,3826,3720,100.0,Dutch <tobedeprez@scarlet.be>
+byobu,177,0,0,44,0,0,170,177,100.0,Dutch <nl@li.org>
+bzflag,1899,0,0,335,0,0,1917,1899,100.0,
+bzr,3,0,33246,1,0,2352,4,33249,0.009022827754218171,Dutch <nl@li.org>
+cairo-clock,270,0,0,60,0,0,288,270,100.0,Harm Hilvers <harm@tweakers.net>
+cairo-dock,7464,0,0,827,0,0,7715,7464,100.0,LANGUAGE <LL@li.org>
+cairo-dock-plug-ins,10203,0,0,1722,0,0,10238,10203,100.0,LANGUAGE <LL@li.org>
+caja,9356,0,0,1517,0,0,9514,9356,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+caja-actions,1132,320,102,135,24,11,1131,1554,72.84427284427284,Dutch <vertaling@vrijschrift.org>
+caja-extensions,570,0,0,131,0,0,645,570,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+caja-terminal,63,0,47,27,0,10,68,110,57.27272727272727,Dutch <nl@li.org>
+calamares,37,0,18,9,0,4,34,55,67.27272727272727,Dutch (https://www.transifex.com/calamares/teams/20061/nl/)
+calcurse,802,42,4116,185,8,373,786,4960,16.169354838709676,Dutch (http://www.transifex.com/lfleischer/calcurse/language/nl/)
+calibre,86704,0,70597,15318,0,2782,85905,157301,55.1198021627326,Dutch (http://www.transifex.com/calibre/calibre/language/nl/)
+calligra,35862,0,0,7755,0,0,37640,35862,100.0,Dutch <kde-i18n-nl@kde.org>
+calligraplan,9630,0,0,2041,0,0,9575,9630,100.0,Dutch <kde-i18n-nl@kde.org>
+camorama,586,0,0,137,0,0,626,586,100.0,Dutch <nl@li.org>
+cantor,2103,0,0,478,0,0,2025,2103,100.0,Dutch <kde-i18n-nl@kde.org>
+caribou,169,0,0,57,0,0,168,169,100.0,Dutch <gnome-nl-list@gnome.org>
+catfish,677,0,0,111,0,0,711,677,100.0,Dutch <nl@li.org>
+ccsm,549,5,25,135,3,13,565,579,94.81865284974094,Dutch <nl@li.org>
+celestia,2270,6,0,1085,1,0,2293,2276,99.73637961335676,Dutch <LL@li.org>
+centerim,2022,515,327,611,115,91,2032,2864,70.60055865921788,Nederlands <i18n@kde.nl>
+certmonger,1597,159,1099,261,21,195,1682,2855,55.936952714535906,Dutch (http://www.transifex.com/projects/p/certmonger/language/nl/)
+cervisia,1619,0,0,421,0,0,1729,1619,100.0,Dutch <kde-i18n-nl@kde.org>
+cflow,525,81,0,103,13,0,506,606,86.63366336633663,Dutch <vertaling@vrijschrift.org>
+cheese,2082,0,1,234,0,1,2183,2083,99.951992318771,Dutch <gnome-nl-list@gnome.org>
+chemtool,1132,0,52,227,0,34,1098,1184,95.6081081081081,NONE
+cherokee,5871,262,400,1133,43,74,5798,6533,89.86682994030308,none
+cherrytree,2909,0,0,703,0,0,2753,2909,100.0,Nederlands <>
+childsplay,1226,0,0,212,0,0,1209,1226,100.0,<en@li.org>
+chkconfig,524,0,31,96,0,7,545,555,94.41441441441441,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+choqok,2257,0,0,569,0,0,2440,2257,100.0,Dutch <kde-i18n-nl@kde.org>
+chrome-gnome-shell,313,0,0,49,0,0,333,313,100.0,Dutch <gnome-nl-list@gnome.org>
+chromium,258,0,0,49,0,0,270,258,100.0,Dutch <vertaling@nl.linux.org>
+chromium-native_client,8886,23889,37535,1608,3570,4459,9158,70310,12.638316029014366,Dutch <vertaling@vrijschrift.org>
+cinnamon-control-center,1313,0,0,756,0,0,1289,1313,100.0,Fedora
+cinnamon-desktop,226,5,3,27,3,2,226,234,96.58119658119658,Dutch <vertaling@nl.linux.org>
+cinnamon-translations,21554,0,0,4827,0,0,22337,21554,100.0,Dutch <nl@li.org>
+clamtk,472,0,0,141,0,0,502,472,100.0,LANGUAGE <LL@li.org>
+claws-mail,20145,14,0,3944,2,0,20080,20159,99.93055211071977,translators@lists.claws-mail.org
+clawsker,1374,0,0,253,0,0,1369,1374,100.0,nl_NL <LL@li.org>
+clisp,7577,3851,2850,1102,434,276,7437,14278,53.06765653452864,Dutch <vertaling@vrijschrift.org>
+clutter,1893,624,540,439,128,108,1867,3057,61.9234543670265,Dutch <nl@li.org>
+cockpit,391,0,7256,66,0,1990,372,7647,5.113116254740421,Dutch
+cogl,15,0,346,4,0,71,11,361,4.1551246537396125,Dutch <vertaling@vrijschrift.org>
+colord,386,0,1600,97,0,155,417,1986,19.436052366565963,Dutch (http://www.transifex.com/freedesktop/colord/language/nl/)
+colord-kde,369,0,0,120,0,0,342,369,100.0,Dutch <kde-i18n-nl@kde.org>
+colorhug-client,709,0,723,171,0,126,837,1432,49.511173184357546,Dutch (Netherlands) (http://www.transifex.com/hughsie/colorhug-client/language/nl_NL/)
+common-lisp-controller,5,42,10,2,4,1,4,57,8.771929824561402,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+compat-gcc-32,4827,7225,22438,845,1225,3120,4994,34490,13.99536097419542,Dutch <vertaling@nl.linux.org>
+compat-gcc-34,3376,8297,19206,603,1408,2689,3449,30879,10.93299653486188,Dutch <vertaling@nl.linux.org>
+compat-gtkhtml314,485,0,0,309,0,0,429,485,100.0,Dutch <vertaling@vrijschrift.org>
+compat-tracker1,3167,0,0,525,0,0,3147,3167,100.0,Dutch <gnome-nl-list@gnome.org>
+compat-wxGTK3-gtk2,7657,16,9,1835,7,3,7590,7682,99.67456391564696,wxWidgets translators <wx-translators@wxwidgets.org>
+compiz,2361,1436,588,563,205,111,2458,4385,53.842645381984035,Dutch <nl@li.org>
+compiz-plugins-experimental,1020,1453,2008,235,387,275,1036,4481,22.762776166034367,Dutch <nl@li.org>
+compiz-plugins-extra,2641,536,501,519,129,80,2694,3678,71.80532898314301,Dutch <nl@li.org>
+compiz-plugins-main,3409,363,446,654,87,70,3539,4218,80.82029397818872,Dutch <nl@li.org>
+console-setup,985,0,0,175,0,0,946,985,100.0,Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+control-center,6541,0,0,2255,0,0,6277,6541,100.0,Fedora
+corebird,586,0,0,211,0,0,620,586,100.0,Dutch (http://www.transifex.com/corebird/corebird/language/nl/)
+coreutils,20601,0,131,1741,0,3,21238,20732,99.36812656762493,Dutch <vertaling@vrijschrift.org>
+cpio,1795,86,21,293,15,5,1808,1902,94.37434279705573,Dutch <vertaling@vrijschrift.org>
+cracklib,93,0,3,15,0,1,93,96,96.875,Dutch <kde-i18n-nl@kde.org>
+cross-binutils,1896,0,0,331,0,0,1971,1896,100.0,Dutch <vertaling@vrijschrift.org>
+cross-gcc,5891,37102,54381,1072,5364,6149,5996,97374,6.0498695750405656,Dutch <vertaling@vrijschrift.org>
+cryptsetup,2500,7,0,394,1,0,2545,2507,99.7207818109294,Dutch <vertaling@vrijschrift.org>
+cups-pk-helper,149,0,0,22,0,0,164,149,100.0,Dutch (http://www.transifex.net/projects/p/freedesktop/language/nl/)
+cura,16529,0,0,1964,0,0,16806,16529,100.0,Dutch
+cura-lulzbot,15664,0,0,1866,0,0,15903,15664,100.0,Dutch
+darktable,10199,0,0,2305,0,0,9618,10199,100.0,Ger Siemerink <g.siemerink@gmail.com>
+dasher,634,0,0,209,0,0,599,634,100.0,nl <vertaling@vrijschrift.org>
+datamash,659,101,102,104,13,13,681,862,76.45011600928075,Dutch <vertaling@vrijschrift.org>
+dayplanner,1082,1,13,180,1,5,1087,1096,98.72262773722628,Dutch <vertaling@vrijschrift.org>
+dconf-editor,1494,0,0,195,0,0,1498,1494,100.0,Dutch <vertaling@vrijschrift.org>
+dcraw,634,0,0,126,0,0,653,634,100.0,
+debconf,857,2,1,91,2,1,909,860,99.65116279069768,Dutch <debian-l10n-dutch@lists.debian.org>
+decibel-audio-player,1401,0,93,210,0,27,1450,1494,93.77510040160642,Dutch <nl@li.org>
+deepin-terminal,373,0,0,151,0,0,367,373,100.0,Dutch (https://www.transifex.com/linuxdeepin/teams/3976/nl/)
+deja-dup,4192,0,0,498,0,0,4582,4192,100.0,Dutch <nl@li.org>
+deluge,2040,0,688,757,0,121,1993,2728,74.7800586510264,Dutch <nl@li.org>
+devhelp,393,0,0,117,0,0,351,393,100.0,Dutch <vertaling@vrijschrift.org>
+devilspie2,161,0,0,35,0,0,171,161,100.0,Dutch
+dia,4324,711,676,1611,276,159,4370,5711,75.7135352827876,Dutch <nl@li.org>
+dialog,25,0,0,23,0,0,23,25,100.0,Dutch <vertaling@vrijschrift.org>
+diction,457,0,0,73,0,0,491,457,100.0,Nederlands <hans.lodder@requirements-management.nl>
+diffutils,1886,0,0,266,0,0,1991,1886,100.0,Dutch <vertaling@vrijschrift.org>
+digikam,47665,0,0,7783,0,0,48476,47665,100.0,Dutch <kde-i18n-nl@kde.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,3101,126,0,647,17,0,3106,3227,96.09544468546638,Dutch
+dnf-plugins-extras,4,0,237,1,0,38,3,241,1.6597510373443984,Dutch
+dnfdragora,610,0,159,283,0,33,648,769,79.32379713914173,Dutch (https://www.transifex.com/MageiaLinux/teams/9361/nl/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Dutch
+dolphin,1568,0,0,517,0,0,1554,1568,100.0,Dutch <kde-i18n-nl@kde.org>
+dolphin-emu,4664,0,2301,1067,0,222,4931,6965,66.96338837042354,Dutch (http://www.transifex.com/delroth/dolphin-emu/language/nl/)
+dolphin-plugins,1202,0,0,331,0,0,1232,1202,100.0,Dutch <kde-i18n-nl@kde.org>
+doodle,684,0,0,108,0,0,713,684,100.0,Dutch <vertaling@vrijschrift.org>
+dos2unix,4136,74,621,376,6,18,3826,4831,85.61374456634238,Dutch <vertaling@vrijschrift.org>
+dpkg,61562,4,0,4222,1,0,67767,61566,99.99350290744891,Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+dragon,275,0,0,86,0,0,264,275,100.0,Dutch <kde-i18n-nl@kde.org>
+drgeo,1912,65,8,450,7,4,2024,1985,96.32241813602015,Dutch <vertaling@nl.linux.org>
+driconf,512,0,0,68,0,0,513,512,100.0,Dutch <vertaling@vrijschrift.org>
+drupal7-admin_theme,176,0,0,25,0,0,177,176,100.0,Davy Van Den Bremt <info@davyvandenbremt.be>
+drupal7-l10n_update,8,0,0,8,0,0,9,8,100.0,
+drupal8,8,0,0,8,0,0,9,8,100.0,
+duplicity,0,0,4378,0,0,618,0,4378,0.0,Dutch <nl@li.org>
+dwdiff,518,0,0,89,0,0,534,518,100.0,Dutch <>
+e16,2728,9,59,497,4,13,2845,2796,97.56795422031473,Dutch <nl@li.org>
+e2fsprogs,8873,521,656,1416,52,70,9315,10050,88.28855721393035,Dutch <vertaling@vrijschrift.org>
+easytag,2602,1656,1249,596,293,151,2386,5507,47.248955874341746,Dutch <nl@li.org>
+edgar,11466,0,8,1534,0,1,12398,11474,99.93027714833536,Dutch <nl@li.org>
+efl,118,21,155,44,8,74,121,294,40.136054421768705,Dutch <vistausss@gmail.com>
+eiciel,146,16,6,45,6,2,142,168,86.90476190476191,Novell language <language@novell.com>
+ejabberd,1626,85,525,387,21,100,1634,2236,72.71914132379248,
+ekiga,3991,112,89,664,30,15,3895,4192,95.20515267175573,Dutch <vertaling@vrijschrift.org>
+elementary-calculator,75,0,5,34,0,3,81,80,93.75,Dutch <https://l10n.elementary.io/projects/calculator/calculator/nl/>
+elementary-camera,24,0,38,4,0,12,25,62,38.70967741935484,Dutch <http://weblate.elementary.io/projects/desktop/camera/nl/>
+elementary-capnet-assist,0,0,66,0,0,10,0,66,0.0,none
+elementary-screenshot-tool,123,1,8,38,1,4,117,132,93.18181818181817,Dutch <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/nl/>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+elinks,359,1497,10389,171,474,980,363,12245,2.9318089015924866,Dutch <vertaling@nl.linux.org>
+emerald,645,38,10,208,5,6,673,693,93.07359307359307,Dutch <nl@li.org>
+empathy,4255,0,0,955,0,0,4227,4255,100.0,Dutch <vertaling@vrijschrift.org>
+engrampa,3668,0,3738,554,0,227,3608,7406,49.52741020793951,Dutch <nl@li.org>
+enigma,8927,90,14,960,5,4,8716,9031,98.848411028679,Dutch (http://www.transifex.com/projects/p/enigma/language/nl/)
+enlightenment,3085,3547,2054,1153,705,374,2903,8686,35.516923785401794,Dutch <kde-i18n-doc@kde.org>
+enscript,1427,398,8,199,7,2,1412,1833,77.8505182760502,Dutch <vertaling@vrijschrift.org>
+entangle,750,0,164,166,0,52,736,914,82.05689277899344,Dutch (http://www.transifex.com/projects/p/entangle/language/nl/)
+eog,1675,0,0,327,0,0,1623,1675,100.0,Dutch <gnome-nl-list@gnome.org>
+eom,1717,0,0,318,0,0,1772,1717,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+epiphany,3589,0,0,696,0,0,3568,3589,100.0,Dutch <gnome-nl-list@gnome.org>
+etckeeper,41,0,0,2,0,0,45,41,100.0,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+etherape,316,240,563,91,60,98,303,1119,28.239499553172475,Dutch <nl@li.org>
+evince,2627,31,770,495,2,47,2677,3428,76.63360560093349,Dutch <vertaling@vrijschrift.org>
+evolution,26243,0,0,5364,0,0,25431,26243,100.0,Dutch <gnome-nl-list@gnome.org>
+evolution-data-server,6440,0,0,1253,0,0,6365,6440,100.0,Dutch <gnome-nl-list@gnome.org>
+evolution-mapi,516,0,0,106,0,0,517,516,100.0,Dutch <vertaling@vrijschrift.org>
+exaile,3547,261,198,964,26,35,3535,4006,88.54218671992012,Dutch <https://hosted.weblate.org/projects/exaile/master/nl/>
+exif,296,0,0,68,0,0,274,296,100.0,Dutch <vertaling@vrijschrift.org>
+exo,1454,0,0,299,0,0,1357,1454,100.0,Dutch (http://www.transifex.com/xfce/exo/language/nl/)
+expendable,227,0,0,93,0,0,232,227,100.0,Dutch (http://www.transifex.com/projects/p/expendable/language/nl/)
+fakeroot,1467,71,5,93,2,2,1598,1543,95.07453013609852,Dutch <nl@li.org>
+falkon,794,0,0,241,0,0,809,794,100.0,Dutch <kde-i18n-doc@kde.org>
+feedreader,608,30,51,182,6,13,642,689,88.24383164005806,Dutch (http://www.transifex.com/dev-feedreader/feedreader/language/nl/)
+fetchmail,4192,124,66,678,6,8,4122,4382,95.66408032861708,Dutch <vertaling@vrijschrift.org>
+ffgtk,2382,10,8,631,5,4,2391,2400,99.25,nl <->
+fgrun,855,54,86,312,16,73,905,995,85.92964824120602,Dutch
+file-roller,1200,0,0,274,0,0,1179,1200,100.0,Dutch <gnome-nl-list@gnome.org>
+filelight,407,0,0,92,0,0,422,407,100.0,Dutch <kde-i18n-nl@kde.org>
+filezilla,10095,74,19,1741,13,4,9988,10188,99.08716136631331,en@li.org
+findutils,2510,38,20,230,6,3,2419,2568,97.74143302180686,Dutch <vertaling@vrijschrift.org>
+firewalld,2176,0,0,404,0,0,2160,2176,100.0,Dutch (http://www.transifex.com/projects/p/firewalld/language/nl/)
+five-or-more,465,0,0,101,0,0,542,465,100.0,Dutch <vertaling@vrijschrift.org>
+flare,2449,160,685,324,60,137,2541,3294,74.34729811778992,Dutch; Flemish <>
+flare-engine,273,136,189,96,46,84,279,598,45.65217391304348,Dutch; Flemish <>
+flaw,74,0,10,43,0,10,77,84,88.09523809523809,LANGUAGE <LL@li.org>
+fldigi,4812,789,1746,1386,274,417,4702,7347,65.49612086565946,Dutch
+flex,791,339,2,164,2,1,791,1132,69.87632508833921,Dutch <vertaling@vrijschrift.org>
+flumotion,1530,502,1305,385,108,203,1499,3337,45.84956547797423,
+focuswriter,129,0,0,7,0,0,113,129,100.0,Dutch (http://www.transifex.com/projects/p/focuswriter/language/nl/)
+folks,1056,0,0,130,0,0,1023,1056,100.0,Dutch <gnome-nl-list@gnome.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Dutch
+four-in-a-row,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+foxtrotgps,995,0,0,300,0,0,1027,995,100.0,
+fpc,3,0,0,3,0,0,3,3,100.0,
+fprintd,419,0,0,57,0,0,412,419,100.0,Dutch (http://www.transifex.com/freedesktop/fprintd/language/nl/)
+freeciv,35296,23641,39265,4805,2046,1285,34780,98202,35.94224150220973,Nederlands <nl@li.org>
+freedink,271,0,0,57,0,0,277,271,100.0,Dutch <vertaling@vrijschrift.org>
+freedink-data,13758,0,0,2219,0,0,14937,13758,100.0,Dutch <vertaling@vrijschrift.org>
+freedink-dfarc,773,0,0,134,0,0,802,773,100.0,Dutch <vertaling@vrijschrift.org>
+freeipa,4,0,52643,1,0,4259,4,52647,0.007597773852261288,Dutch
+frepple,2060,0,21,561,0,3,2002,2081,98.99086977414704,frepple
+frescobaldi,15376,0,311,2149,0,11,14624,15687,98.01746669216548,Nederlands <>
+frozen-bubble,210,101,387,52,22,74,244,698,30.08595988538682,LANGUAGE <LL@li.org>
+fslint,388,0,0,132,0,0,403,388,100.0,Dutch <vertaling@nl.linux.org>
+fuse-encfs,1053,24,212,122,3,12,1135,1289,81.6912335143522,Dutch <nl@li.org>
+fusionforge,6518,6635,18631,1418,1700,2990,6578,31784,20.507173420588977,FusionForge team <fusionforge-general@lists.fusionforge.org>
+fwbackups,178,0,3320,29,0,488,203,3498,5.088622069754145,Dutch (http://www.transifex.com/Magic/fwbackups/language/nl/)
+fwupd,443,0,0,104,0,0,472,443,100.0,Dutch (http://www.transifex.com/freedesktop/fwupd/language/nl/)
+gajim,11165,0,0,2231,0,0,10934,11165,100.0,none
+gala,512,131,51,65,6,8,513,694,73.77521613832853,Dutch <https://weblate.elementary.io/projects/desktop/gala/nl/>
+gallery2,16745,347,676,2394,58,77,17514,17768,94.24245835209365,Dutch <gallery-devel@lists.sourceforge.net>
+gambas3,7361,0,0,2428,0,0,7053,7361,100.0,
+gammu,255,150,3592,98,41,972,263,3997,6.3797848386289715,none
+ganyremote,441,10,66,130,1,18,446,517,85.29980657640233,Dutch
+garcon,109,0,0,34,0,0,104,109,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+gawk,4701,0,0,741,0,0,4761,4701,100.0,Dutch <vertaling@vrijschrift.org>
+gbrainy,10228,0,0,1306,0,0,10358,10228,100.0,Dutch <vertaling@vrijschrift.org>
+gcal,1795,17,3194,753,5,690,1585,5006,35.856971634039155,Dutch <vertaling@vrijschrift.org>
+gcc,5891,37102,54381,1072,5364,6149,5996,97374,6.0498695750405656,Dutch <vertaling@vrijschrift.org>
+gcl,177,0,0,8,0,0,182,177,100.0,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+gcompris,17459,0,0,1960,0,0,17269,17459,100.0,Dutch <gnome-nl-list@gnome.org>
+gcompris-qt,23313,0,0,1956,0,0,23095,23313,100.0,Dutch <kde-i18n-nl@kde.org>
+gconf-editor,336,0,0,98,0,0,337,336,100.0,Dutch <vertaling@nl.linux.org>
+gcr,677,0,0,242,0,0,641,677,100.0,Dutch <vertaling@vrijschrift.org>
+gdb,1371,0,0,234,0,0,1419,1371,100.0,Dutch <vertaling@vrijschrift.org>
+gdesklets,1186,0,342,171,0,33,1194,1528,77.61780104712042,Dutch <vertaling@vrijschrift.org>
+gdk-pixbuf2,1409,0,0,211,0,0,1349,1409,100.0,Dutch <vertaling@vrijschrift.org>
+gdm,626,0,0,85,0,0,568,626,100.0,Dutch <gnome-nl-list@gnome.org>
+geany,6023,14,0,1305,3,0,5823,6037,99.76809673678979,Dutch <geany-i18n@uvena.de>
+geany-plugins,1760,625,6084,463,217,1063,1794,8469,20.78167434171685,Dutch
+geary,2014,0,0,523,0,0,2033,2014,100.0,Dutch <gnome-nl-list@gnome.org>
+geda-gaf,3444,3,0,771,1,0,3631,3447,99.91296779808529,gEDA developers <geda-dev@seul.org>
+gedit,4266,0,0,722,0,0,4203,4266,100.0,Dutch <gnome-nl-list@gnome.org>
+gedit-plugins,902,160,143,387,51,31,724,1205,74.85477178423237,Dutch <vertaling@vrijschrift.org>
+geeqie,1926,721,1137,814,250,233,1901,3784,50.8985200845666,Dutch <vertaling@vrijschrift.org>
+genius,3931,268,1139,667,18,82,4024,5338,73.64181341326339,Dutch <vertaling@nl.linux.org>
+gettext,4172,38,3584,552,8,269,3977,7794,53.52835514498332,Dutch <vertaling@vrijschrift.org>
+gftp,3096,230,49,560,70,4,2983,3375,91.73333333333333,Dutch <vertaling@vrijschrift.org>
+ggz-base-libs,52,0,0,13,0,0,52,52,100.0,Dutch <vertaling@vrijschrift.org>
+ggz-gtk-client,665,0,0,244,0,0,657,665,100.0,Dutch <vertaling@vrijschrift.org>
+ghdl,6071,35320,51313,1100,5145,5949,6175,92704,6.548800483258543,Dutch <vertaling@vrijschrift.org>
+ghex,966,0,0,275,0,0,941,966,100.0,Dutch <vertaling@nl.linux.org>
+gigolo,521,0,0,142,0,0,544,521,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+gimp,26457,440,75,6708,124,7,25455,26972,98.09061248702358,Dutch <vertaling@vrijschrift.org>
+gimp-gap,5464,919,3215,1124,181,407,5364,9598,56.92852677641175,Dutch <vertaling@nl.linux.org>
+gimp-help,26718,3760,210413,948,212,13907,27726,240891,11.09132346164863,LANGUAGE <LL@li.org>
+gip,103,0,0,31,0,0,92,103,100.0,Dutch <vertaling@vrijschrift.org>
+gitg,693,198,263,131,37,38,651,1154,60.05199306759099,Dutch <vertaling@vrijschrift.org>
+gkrellm,3321,0,463,501,0,50,3382,3784,87.76427061310783,none <none>
+glabels,2341,0,5648,794,0,381,2142,7989,29.30279133808987,Dutch <vertaling@vrijschrift.org>
+glade,669,1103,1554,337,295,254,636,3326,20.11425135297655,Dutch <vertaling@vrijschrift.org>
+glade2,5840,0,0,1300,0,0,5707,5840,100.0,Dutch <vertaling@nl.linux.org>
+glade3,669,1103,1554,337,295,254,636,3326,20.11425135297655,Dutch <vertaling@vrijschrift.org>
+glib-networking,163,0,0,29,0,0,165,163,100.0,Dutch <vertaling@vrijschrift.org>
+glib2,3595,287,1551,619,43,177,3826,5433,66.1697036628014,Dutch <vertaling@vrijschrift.org>
+glibc,8028,0,0,1456,0,0,8164,8028,100.0,Dutch <vertaling@vrijschrift.org>
+glibc-arm-linux-gnu,8028,0,0,1456,0,0,8164,8028,100.0,Dutch <vertaling@vrijschrift.org>
+gliv,991,9,34,254,3,3,925,1034,95.84139264990328,Dutch <vertaling@vrijschrift.org>
+glom,275,0,0,60,0,0,259,275,100.0,Dutch <vertaling@vrijschrift.org>
+glpi,11162,0,122,2935,0,23,10785,11284,98.9188231123715,Dutch (Netherlands) (http://www.transifex.com/glpi/GLPI/language/nl_NL/)
+gmpc,25,0,0,13,0,0,24,25,100.0,Dutch <nl@li.org>
+gmusicbrowser,4533,0,815,1418,0,192,4645,5348,84.76065818997756,Nederlands <gijs.timmers@student.kuleuven.be>
+gnomad2,693,4,0,170,1,0,705,697,99.4261119081779,Dutch <nl@li.org>
+gnome-abrt,397,0,0,73,0,0,425,397,100.0,Dutch (http://www.transifex.com/projects/p/gnome-abrt/language/nl/)
+gnome-activity-journal,148,0,168,62,0,32,145,316,46.835443037974684,
+gnome-backgrounds,29,0,0,18,0,0,27,29,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-bluetooth,373,0,0,111,0,0,355,373,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-boxes,1147,0,0,273,0,0,1175,1147,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-builder,1988,2,21,518,1,7,1928,2011,98.85629040278468,Dutch <gnome-nl-list@gnome.org>
+gnome-calculator,1584,0,0,574,0,0,1652,1584,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-calendar,641,0,0,214,0,0,644,641,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-characters,186,0,0,58,0,0,215,186,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-chess,1390,0,0,237,0,0,1555,1390,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-clocks,1266,0,0,182,0,0,1246,1266,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-color-manager,1793,0,0,343,0,0,1667,1793,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-commander,7005,4,1510,1609,2,55,6702,8519,82.22796102828971,Dutch <vertaling@vrijschrift.org>
+gnome-contacts,417,0,0,144,0,0,422,417,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-desktop,438,0,0,61,0,0,466,438,100.0,Dutch <vertaling@nl.linux.org>
+gnome-desktop3,146,0,0,23,0,0,147,146,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-dictionary,664,0,0,141,0,0,652,664,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-disk-utility,3718,0,0,693,0,0,3797,3718,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-do,612,0,0,144,0,0,613,612,100.0,Dutch <nl@li.org>
+gnome-doc-utils,251,0,0,101,0,0,254,251,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-documents,1829,0,0,306,0,0,1882,1829,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-font-viewer,113,0,0,29,0,0,128,113,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-getting-started-docs,2508,0,0,338,0,0,2523,2508,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-hearts,407,2,0,105,1,0,372,409,99.51100244498777,Dutch <nl@li.org>
+gnome-icon-theme,51,0,0,46,0,0,50,51,100.0,Dutch <vertaling@nl.linux.org>
+gnome-initial-setup,766,0,0,120,0,0,743,766,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-keyring,553,0,0,112,0,0,541,553,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-klotski,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-libs,1034,4,47,383,4,8,1025,1085,95.2995391705069,Dutch <nl@li.org>
+gnome-logs,376,0,0,122,0,0,361,376,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-mahjongg,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-maps,1186,0,0,304,0,0,1216,1186,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-menus,70,0,0,27,0,0,59,70,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-mime-data,887,0,0,362,0,0,806,887,100.0,Dutch <vertaling@nl.linux.org>
+gnome-mines,344,0,0,72,0,0,416,344,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-mud,1309,0,0,275,0,0,1292,1309,100.0,Dutch <vertaling@nl.linux.org>
+gnome-multi-writer,344,0,0,52,0,0,332,344,100.0,Dutch (http://www.transifex.com/projects/p/gnome-multi-writer/language/nl/)
+gnome-music,528,0,0,113,0,0,516,528,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-nettool,664,0,0,219,0,0,615,664,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-nibbles,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-online-accounts,1195,0,0,341,0,0,1184,1195,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-packagekit,3593,0,0,583,0,0,3661,3593,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-phone-manager,513,0,0,90,0,0,513,513,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-photos,473,0,0,198,0,0,490,473,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-power-manager,432,0,0,144,0,0,367,432,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-robots,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-screensaver,291,0,0,58,0,0,287,291,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-screenshot,456,0,0,79,0,0,455,456,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-search-tool,1359,0,0,200,0,0,1246,1359,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-session,299,0,0,50,0,0,308,299,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-settings-daemon,2659,0,0,384,0,0,2698,2659,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-shell,1691,0,0,406,0,0,1607,1691,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-shell-extension-media-player-indicator,50,18,18,15,4,3,56,86,58.139534883720934,VDTT <vistausss@gmail.com>
+gnome-shell-extension-netspeed,29,0,0,17,0,0,26,29,100.0,Dutch <vistausss@outlook.com>
+gnome-shell-extension-openweather,328,214,77,108,59,34,322,619,52.988691437802906,
+gnome-shell-extension-pomodoro,336,0,0,112,0,0,344,336,100.0,Dutch
+gnome-shell-extensions,388,0,0,70,0,0,389,388,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-software,3709,0,0,767,0,0,3657,3709,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-sound-recorder,285,0,0,72,0,0,283,285,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-sudoku,398,0,0,71,0,0,493,398,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-system-log,522,0,0,94,0,0,523,522,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-system-monitor,1276,0,0,289,0,0,1258,1276,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-taquin,232,0,0,49,0,0,227,232,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-terminal,2554,0,0,487,0,0,2438,2554,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-tetravex,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-themes,109,0,0,30,0,0,109,109,100.0,Dutch <vertaling@nl.linux.org>
+gnome-themes-standard,24,0,0,9,0,0,27,24,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-todo,717,0,0,161,0,0,718,717,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-tweak-tool,596,0,0,176,0,0,559,596,100.0,Dutch <gnome-nl-list@gnome.org>
+gnome-user-docs,34801,14501,7116,2335,526,282,34957,56418,61.68421425786097,Dutch <gnome-nl-list@gnome.org>
+gnome-user-share,247,0,0,34,0,0,243,247,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-vfs2,1519,0,0,305,0,0,1452,1519,100.0,Dutch <vertaling@vrijschrift.org>
+gnome-video-effects,256,0,0,68,0,0,237,256,100.0,Dutch
+gnome-weather,192,0,0,42,0,0,209,192,100.0,Dutch <gnome-nl-list@gnome.org>
+gnomebaker,433,313,1607,153,69,356,429,2353,18.402039949001274,Dutch <nl@li.org>
+gnotime,118,324,1566,62,131,236,115,2008,5.876494023904383,"Dutch <NL@li.org>, Dennis Smit <area101.penguin.nl>"
+gnubik,266,13,0,82,1,0,255,279,95.3405017921147,Dutch <vertaling@vrijschrift.org>
+gnucash,32970,194,148,5393,40,30,31753,33312,98.97334293948127,Dutch <vertaling@vrijschrift.org>
+gnuchess,1058,10,47,137,4,7,1072,1115,94.88789237668162,Dutch <vertaling@vrijschrift.org>
+gnue-common,1454,208,470,204,23,46,1496,2132,68.19887429643528,<en@li.org>
+gnumed,8192,8996,12213,1478,1923,1464,8114,29401,27.862997857215742,Dutch <nl@li.org>
+gnumeric,10024,5214,19808,2436,1006,2200,9712,35046,28.60240826342521,Dutch <vertaling@vrijschrift.org>
+gnupg,8640,0,0,1297,0,0,9809,8640,100.0,Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+gnutls,1347,167,179,317,38,33,1254,1693,79.56290608387478,Dutch <vertaling@vrijschrift.org>
+gobby,900,0,0,190,0,0,965,900,100.0,Dutch <nl@li.org>
+godot,5306,308,1416,1460,91,341,5601,7030,75.47652916073969,Dutch <https://hosted.weblate.org/projects/godot-engine/godot/nl/>
+goffice,1797,1559,2845,745,588,668,1715,6201,28.979196903725207,Dutch <vertaling@vrijschrift.org>
+goffice08,2018,881,1700,821,333,406,1927,4599,43.87910415307675,Dutch <vertaling@vrijschrift.org>
+googsystray,759,0,0,199,0,0,771,759,100.0,Dutch
+gourmet,3582,157,200,859,17,16,3540,3939,90.93678598629094,Dutch <nl@li.org>
+gparted,2925,0,0,481,0,0,2996,2925,100.0,Dutch <gnome-nl-list@gnome.org>
+gpaste,1019,0,3,166,0,2,957,1022,99.706457925636,Vistaus <vistausss@outlook.com>
+gphoto2,1696,26,21,329,5,3,1718,1743,97.30349971313827,Dutch <vertaling@vrijschrift.org>
+gphotoframe,992,0,330,234,0,34,910,1322,75.03782148260211,Dutch (Netherlands) (http://www.transifex.com/projects/p/gphotoframe/language/nl_NL/)
+gpicview,236,0,0,52,0,0,241,236,100.0,Dutch
+gpodder,1136,163,580,329,44,129,1154,1879,60.45769026077701,Dutch (http://www.transifex.com/projects/p/gpodder/language/nl/)
+gpsdrive,2311,0,0,448,0,0,2183,2311,100.0,Dutch <vertaling@vrijschrift.org>
+gramps,37475,33,142,6294,33,56,37078,37650,99.53519256308101,nederlands <frederik.de.richter@gmail.com>
+granatier,242,0,0,67,0,0,257,242,100.0,Dutch <kde-i18n-nl@kde.org>
+granite,106,0,50,43,0,14,165,156,67.94871794871796,Dutch <https://weblate.elementary.io/projects/desktop/granite/nl/>
+grantlee-editor,530,0,0,158,0,0,546,530,100.0,Dutch <kde-i18n-nl@kde.org>
+grep,881,0,0,107,0,0,956,881,100.0,Dutch <vertaling@vrijschrift.org>
+grilo,194,0,0,37,0,0,180,194,100.0,Dutch <gnome-nl-list@gnome.org>
+grip,1122,25,24,286,6,7,1076,1171,95.81554227156278,Dutch <vertaling@vrijschrift.org>
+grisbi,1820,4280,6650,715,975,585,1890,12750,14.274509803921568,Dutch <en@li.org>
+grsync,1130,4,33,159,1,3,1002,1167,96.82947729220223,
+grub-customizer,1295,0,0,193,0,0,1360,1295,100.0,Dutch <nl@li.org>
+grub2,7115,4,0,1343,1,0,7054,7119,99.94381233319287,Dutch <vertaling@vrijschrift.org>
+gscan2pdf,1297,0,543,380,0,126,1308,1840,70.48913043478261,Dutch <nl@li.org>
+gspell,53,9,16,26,4,2,56,78,67.94871794871796,Dutch <gnome-nl-list@gnome.org>
+gstreamer,1914,3,0,347,1,0,1993,1917,99.8435054773083,Dutch <vertaling@vrijschrift.org>
+gstreamer-plugins-bad-free,96,0,0,14,0,0,106,96,100.0,Dutch <vertaling@vrijschrift.org>
+gstreamer-plugins-base,902,0,6,176,0,2,900,908,99.33920704845815,Dutch <vertaling@vrijschrift.org>
+gstreamer-plugins-good,814,0,0,190,0,0,794,814,100.0,Dutch <vertaling@vrijschrift.org>
+gstreamer1,2078,0,0,375,0,0,2181,2078,100.0,Dutch <vertaling@vrijschrift.org>
+gstreamer1-plugins-bad-free,208,0,0,31,0,0,242,208,100.0,Dutch <vertaling@vrijschrift.org>
+gstreamer1-plugins-base,912,33,4,191,5,2,911,949,96.10115911485775,Dutch <vertaling@vrijschrift.org>
+gstreamer1-plugins-good,761,0,0,107,0,0,760,761,100.0,Dutch <vertaling@vrijschrift.org>
+gstreamer1-plugins-ugly-free,118,0,0,13,0,0,121,118,100.0,Dutch <vertaling@vrijschrift.org>
+gtg,1601,0,1896,287,0,13,1589,3497,45.782098941950245,Dutch <nl@li.org>
+gthumb,5033,0,0,1423,0,0,5068,5033,100.0,Dutch <vertaling@vrijschrift.org>
+gtick,338,0,0,96,0,0,328,338,100.0,Dutch <vertaling@vrijschrift.org>
+gtk+,195,3,4,99,2,4,194,202,96.53465346534654,dutch <nl@li.org>
+gtk-gnutella,16138,96,150,2649,13,24,17193,16384,98.49853515625,Dutch (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/nl/)
+gtk-recordmydesktop,816,0,0,104,0,0,786,816,100.0,Dutch
+gtk2,11925,347,151,2508,58,20,11311,12423,95.99130644771793,Dutch <vertaling@vrijschrift.org>
+gtk2-engines,119,0,0,47,0,0,112,119,100.0,Dutch <vertaling@vrijschrift.org>
+gtk3,16036,0,0,3597,0,0,15484,16036,100.0,Dutch <gnome-nl-list@gnome.org>
+gtk4,15066,0,0,3339,0,0,14535,15066,100.0,Dutch <gnome-nl-list@gnome.org>
+gtkhash,22,0,96,15,0,27,19,118,18.64406779661017,Dutch <nl@li.org>
+gtkhtml3,485,0,0,309,0,0,429,485,100.0,Dutch <vertaling@vrijschrift.org>
+gtkpod,0,0,7520,0,0,1362,0,7520,0.0,Dutch (Netherlands) <None>
+gtksourceview2,1099,0,0,438,0,0,966,1099,100.0,Dutch <vertaling@vrijschrift.org>
+gtksourceview3,744,218,194,426,103,101,621,1156,64.3598615916955,Dutch; Flemish <gnome-nl-list@gnome.org>
+gtkspell,11,0,0,5,0,0,10,11,100.0,Dutch <vertaling@vrijschrift.org>
+gtkspell3,16,0,0,7,0,0,15,16,100.0,Dutch <vertaling@vrijschrift.org>
+gtranslator,1230,0,0,333,0,0,1199,1230,100.0,Dutch <vertaling@nl.linux.org>
+gtypist,285,169,102,57,18,16,292,556,51.2589928057554,Dutch (Nederlands) <nl@li.org>
+guake,396,236,434,79,46,69,396,1066,37.148217636022515,Dutch (http://www.transifex.com/projects/p/guake/language/nl/)
+guayadeque,3326,0,0,1019,0,0,3299,3326,100.0,Dutch (Netherlands) (http://www.transifex.com/projects/p/guayadeque/language/nl_NL/)
+gucharmap,1205,0,0,397,0,0,1145,1205,100.0,Dutch <gnome-nl-list@gnome.org>
+gummi,316,146,296,123,58,80,313,758,41.68865435356201,Dutch <LL@li.org>
+gutenprint,11653,3556,553,3311,1205,184,11404,15762,73.93097322674788,Dutch <vertaling@vrijschrift.org>
+gvfs,2139,0,0,411,0,0,2112,2139,100.0,Dutch <vertaling@vrijschrift.org>
+gvrng,373,0,0,121,0,0,379,373,100.0,Dutch <nl@li.org>
+gweled,151,0,5,43,0,1,168,156,96.7948717948718,Dutch <nl@li.org>
+gwenview,1305,0,0,362,0,0,1323,1305,100.0,Dutch <kde-i18n-nl@kde.org>
+gwget,525,0,0,175,0,0,546,525,100.0,Dutch <vertaling@vrijschrift.org>
+hamster-time-tracker,96,186,415,45,57,70,108,697,13.773314203730273,Dutch <vertaling@vrijschrift.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+heaptrack,1160,0,0,174,0,0,1130,1160,100.0,Dutch <kde-i18n-nl@kde.org>
+hex-a-hop,1173,0,3,212,0,2,1121,1176,99.74489795918367,Dutch <nl@li.org>
+hexalate,60,0,0,4,0,0,61,60,100.0,Dutch (http://www.transifex.com/gottcode/hexalate/language/nl/)
+hexchat,2908,0,3063,913,0,533,2909,5971,48.7020599564562,Dutch (http://www.transifex.com/hexchat/hexchat/language/nl/)
+hitori,174,0,0,36,0,0,175,174,100.0,Dutch <gnome-nl-list@gnome.org>
+hivex,262,8,0,21,1,0,283,270,97.03703703703704,Dutch <>
+homebank,2419,0,0,767,0,0,2388,2419,100.0,Dutch <vertaling@nl.linux.org>
+homerun,504,0,0,135,0,0,541,504,100.0,Dutch <kde-i18n-nl@kde.org>
+httping,1329,0,1,234,0,1,1420,1330,99.92481203007519,Dutch
+hugin,8729,0,0,1564,0,0,8654,8729,100.0,American English <kde-i18n-doc@lists.kde.org>
+hydrogen,381,1658,5730,52,68,248,308,7769,4.9041060625563135,
+iagno,321,0,0,71,0,0,429,321,100.0,Dutch <vertaling@vrijschrift.org>
+ibus,1396,0,0,228,0,0,1377,1396,100.0,Dutch <trans-nl@lists.fedoraproject.org>
+icewm,0,0,0,0,0,0,0,0,0.0,Dutch
+im-chooser,239,0,0,56,0,0,230,239,100.0,LANGUAGE <LL@li.org>
+imsettings,440,5,11,80,1,3,458,456,96.49122807017544,LANGUAGE <LL@li.org>
+indent,258,14,0,52,3,0,275,272,94.85294117647058,Dutch <vertaling@vrijschrift.org>
+initial-setup,33,0,0,7,0,0,33,33,100.0,Dutch (http://www.transifex.com/projects/p/initial-setup/language/nl/)
+initscripts,866,0,108,133,0,16,941,974,88.91170431211499,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+inkscape,36817,944,453,8013,100,32,35255,38214,96.34427173287277,Dutch
+insight,1371,0,0,234,0,0,1419,1371,100.0,Dutch <vertaling@vrijschrift.org>
+iok,142,5,59,36,1,3,154,206,68.93203883495146,Fedora
+ircp-tray,19,0,220,7,0,54,22,239,7.949790794979079,Dutch <nl@li.org>
+islamic-menus,5,0,0,2,0,0,6,5,100.0,Dutch <nl@li.org>
+iso-codes,10967,5532,6873,7346,4041,3948,10343,23372,46.923669347937704,Dutch <vertaling@vrijschrift.org>
+isoimagewriter,399,0,0,79,0,0,373,399,100.0,Dutch <kde-i18n-nl@kde.org>
+isomaster,674,0,0,107,0,0,699,674,100.0,
+jmol,2636,169,361,899,44,78,2573,3166,83.25963360707517,Dutch <jmol-developer@lists.sf.net>
+jpilot,1058,478,1538,409,122,232,1070,3074,34.41769681197137,Dutch <vertaling@vrijschrift.org>
+juk,1453,0,0,355,0,0,1399,1453,100.0,Dutch <kde-i18n-nl@kde.org>
+jwhois,401,11,28,65,2,4,391,440,91.13636363636364,Dutch <vertaling@nl.linux.org>
+jwm,239,86,32,66,19,11,231,357,66.94677871148458,Dutch
+k3b,20221,0,0,2520,0,0,19694,20221,100.0,Dutch <kde-i18n-nl@kde.org>
+k3guitune,206,2,4,86,2,4,208,212,97.16981132075472,Nederlands <nl@li.org>
+k4dirstat,547,0,0,165,0,0,489,547,100.0,Dutch (http://www.transifex.com/projects/p/k4dirstat/language/nl/)
+kBuild,493,9,3,79,1,1,476,505,97.62376237623762,Dutch <vertaling@vrijschrift.org>
+kaccounts-integration,82,0,0,12,0,0,86,82,100.0,Dutch <kde-i18n-nl@kde.org>
+kaccounts-providers,60,0,0,20,0,0,67,60,100.0,Dutch <kde-i18n-nl@kde.org>
+kactivitymanagerd,9,0,0,4,0,0,10,9,100.0,Dutch <kde-i18n-nl@kde.org>
+kaddressbook,745,0,0,167,0,0,720,745,100.0,Dutch <kde-i18n-nl@kde.org>
+kalarm,7336,0,0,1025,0,0,7653,7336,100.0,Dutch <kde-i18n-nl@kde.org>
+kalgebra,167,0,0,82,0,0,182,167,100.0,Dutch <kde-i18n-nl@kde.org>
+kalzium,10445,0,0,1533,0,0,10383,10445,100.0,Dutch <kde-i18n-nl@kde.org>
+kamera,342,0,0,37,0,0,364,342,100.0,Dutch <kde-i18n-nl@kde.org>
+kamoso,119,0,0,41,0,0,114,119,100.0,Dutch <kde-i18n-nl@kde.org>
+kanagram,528,0,0,145,0,0,554,528,100.0,Dutch <kde-i18n-nl@kde.org>
+kanyremote,339,118,27,115,19,10,342,484,70.0413223140496,Dutch
+kapman,114,0,0,36,0,0,122,114,100.0,Dutch <kde-i18n-doc@kde.org>
+kapow,102,0,0,4,0,0,90,102,100.0,Dutch (http://www.transifex.com/gottcode/kapow/language/nl/)
+kapptemplate,272,0,0,52,0,0,272,272,100.0,Dutch <kde-i18n-nl@kde.org>
+kate,4901,0,0,1180,0,0,5035,4901,100.0,Dutch <kde-i18n-nl@kde.org>
+katomic,185,0,0,59,0,0,186,185,100.0,Dutch <kde-i18n-nl@kde.org>
+kaudiocreator,1136,0,0,273,0,0,1151,1136,100.0,Dutch <kde-i18n-nl@kde.org>
+kbd,2430,0,0,275,0,0,2442,2430,100.0,Dutch <vertaling@vrijschrift.org>
+kbibtex,2294,0,0,666,0,0,2372,2294,100.0,Dutch <kde-i18n-nl@kde.org>
+kblackbox,1360,0,0,101,0,0,1355,1360,100.0,Dutch <kde-i18n-nl@kde.org>
+kblocks,159,0,0,38,0,0,153,159,100.0,Dutch <kde-i18n-nl@kde.org>
+kbounce,154,0,0,42,0,0,156,154,100.0,Dutch <kde-i18n-nl@kde.org>
+kbruch,1345,0,0,195,0,0,1344,1345,100.0,Dutch <kde-i18n-doc@kde.org>
+kcachegrind,4370,0,0,562,0,0,4421,4370,100.0,Dutch <kde-i18n-nl@kde.org>
+kcalc,976,0,0,326,0,0,1029,976,100.0,Dutch <kde-i18n-nl@kde.org>
+kcharselect,88,0,0,34,0,0,104,88,100.0,Dutch <kde-i18n-nl@kde.org>
+kchmviewer,962,10,0,206,1,0,893,972,98.97119341563786,Dutch <kde-i18n-doc@lists.kde.org>
+kcm_systemd,1372,11,2,165,2,1,1416,1385,99.06137184115524,Dutch <kde-i18n-nl@kde.org>
+kcm_wacomtablet,898,0,0,199,0,0,929,898,100.0,Dutch <kde-i18n-nl@kde.org>
+kcolorchooser,29,0,0,10,0,0,32,29,100.0,Dutch <kde-i18n-nl@kde.org>
+kcoloredit,278,0,0,95,0,0,253,278,100.0,Dutch <kde-i18n-nl@kde.org>
+kcron,534,0,0,190,0,0,552,534,100.0,Dutch <kde-i18n-nl@kde.org>
+kdb,1494,0,0,243,0,0,1520,1494,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-cli-tools,2188,0,0,228,0,0,2228,2188,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-connect,732,0,0,177,0,0,818,732,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-dev-utils,94,0,0,35,0,0,104,94,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-gtk-config,309,0,0,76,0,0,290,309,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-l10n,105160,0,0,21176,0,0,105867,105160,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-partitionmanager,2278,0,0,520,0,0,2205,2278,100.0,Dutch <kde-i18n-nl@kde.org>
+kde-print-manager,962,0,0,273,0,0,967,962,100.0,Dutch <kde-i18n-nl@kde.org>
+kdebugsettings,119,0,0,37,0,0,117,119,100.0,Dutch <kde-i18n-nl@kde.org>
+kdenetwork-filesharing,42,0,0,12,0,0,43,42,100.0,Dutch <kde-i18n-nl@kde.org>
+kdepim-addons,4105,0,0,811,0,0,4068,4105,100.0,Dutch <kde-i18n-nl@kde.org>
+kdepim-apps-libs,59,0,0,34,0,0,58,59,100.0,Dutch <kde-i18n-nl@kde.org>
+kdepim-runtime,7750,0,0,1339,0,0,7903,7750,100.0,Dutch <kde-i18n-nl@kde.org>
+kdeplasma-addons,1559,0,0,565,0,0,1609,1559,100.0,Dutch <kde-i18n-nl@kde.org>
+kdesdk-kioslaves,82,0,0,17,0,0,80,82,100.0,Dutch <kde-i18n-nl@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,7,4,100.0,Dutch <kde-i18n-nl@kde.org>
+kdesvn,4845,0,0,881,0,0,5158,4845,100.0,Dutch <kde-i18n-nl@kde.org>
+kdevelop,13994,0,0,2828,0,0,14442,13994,100.0,Dutch <kde-i18n-nl@kde.org>
+kdevelop-php,455,0,0,63,0,0,470,455,100.0,Dutch <kde-i18n-nl@kde.org>
+kdevelop-python,582,0,0,101,0,0,597,582,100.0,Dutch <kde-i18n-nl@kde.org>
+kdevplatform,8745,0,0,1812,0,0,9030,8745,100.0,Dutch <kde-i18n-nl@kde.org>
+kdf,181,0,0,69,0,0,179,181,100.0,Dutch <kde-i18n-nl@kde.org>
+kdiagram,65,0,0,39,0,0,62,65,100.0,Dutch <kde-i18n-nl@kde.org>
+kdialog,347,0,0,70,0,0,332,347,100.0,Dutch <kde-i18n-nl@kde.org>
+kdiamond,122,0,0,32,0,0,128,122,100.0,Dutch <kde-i18n-nl@kde.org>
+kdiff3,3770,0,0,663,0,0,3965,3770,100.0,Dutch <kde-i18n-nl@kde.org>
+kdissert,2027,0,0,282,0,0,2018,2027,100.0,Nederlands <kde-i18n-nl@kde.org>
+kdnssd,30,0,0,7,0,0,23,30,100.0,Dutch <kde-i18n-nl@kde.org>
+keditbookmarks,466,0,0,132,0,0,436,466,100.0,Dutch <kde-i18n-nl@kde.org>
+keurocalc,3042,0,0,342,0,0,3139,3042,100.0,Dutch <kde-i18n-nl@kde.org>
+kexec-tools,0,0,83,0,0,12,0,83,0.0,LANGUAGE <LL@li.org>
+kexi,7351,0,0,1493,0,0,7320,7351,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-akonadi-calendar,1807,0,0,251,0,0,1824,1807,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-akonadi-contacts,1398,0,0,286,0,0,1292,1398,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-akonadi-mime,572,0,0,107,0,0,551,572,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-akonadi-search,48,0,0,11,0,0,52,48,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-akonadi-server,2443,0,0,425,0,0,2434,2443,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-audiocd-kio,844,0,0,178,0,0,856,844,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-baloo,843,0,0,190,0,0,893,843,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-calendarsupport,2967,0,0,409,0,0,2921,2967,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-eventviews,2906,0,0,313,0,0,2923,2906,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,12,14,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-incidenceeditor,2361,0,0,434,0,0,2454,2361,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kalarmcal,40,0,0,20,0,0,40,40,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kauth,73,0,0,8,0,0,70,73,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kblog,243,0,0,27,0,0,250,243,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,222,230,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kcalendarutils,1630,0,0,427,0,0,1663,1630,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kcmutils,564,0,0,72,0,0,561,564,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,292,348,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,16,18,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kconfig,261,0,0,100,0,0,268,261,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kconfigwidgets,321,0,0,117,0,0,356,321,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,141,177,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kcoreaddons,301,0,0,95,0,0,312,301,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,51,48,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,137,109,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,4822,4813,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,47,54,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kdesu,19,0,0,7,0,0,19,19,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,20,8,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kfilemetadata,148,0,0,82,0,0,163,148,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,70,71,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kholidays,109,0,0,77,0,0,95,109,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1644,1721,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kiconthemes,37,0,0,18,0,0,34,37,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kidentitymanagement,165,0,0,21,0,0,158,165,100.0,Nederlands <kde-i18n-nl@kde.org>
+kf5-kimap,99,0,0,48,0,0,105,99,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kinit,134,0,0,14,0,0,141,134,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kio,12165,0,0,1360,0,0,12617,12165,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kirigami,2,0,0,2,0,0,2,2,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kirigami2,10,0,0,6,0,0,12,10,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kjobwidgets,123,0,0,36,0,0,132,123,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,258,248,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kldap,179,0,0,51,0,0,188,179,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kmailtransport,628,0,0,106,0,0,635,628,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kmime,159,0,0,10,0,0,166,159,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-knewstuff,690,0,0,158,0,0,707,690,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-knotifications,18,0,0,6,0,0,13,18,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,138,129,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,6,4,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kpackage,495,0,0,97,0,0,511,495,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kparts,104,0,0,26,0,0,122,104,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kpeople,21,0,0,11,0,0,23,21,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kpimtextedit,345,0,0,152,0,0,345,345,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kross,100,0,0,35,0,0,130,100,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kservice,170,0,0,28,0,0,200,170,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-ksmtp,68,0,0,9,0,0,71,68,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-ktexteditor,8377,0,0,1216,0,0,8539,8377,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,476,462,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-ktnef,355,0,0,143,0,0,340,355,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kunitconversion,5266,0,0,2244,0,0,5223,5266,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kwallet,1624,0,0,131,0,0,1710,1624,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kwidgetsaddons,1319,0,0,458,0,0,1272,1319,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kxmlgui,1596,0,0,228,0,0,1634,1596,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,10,13,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libgravatar,27,0,0,12,0,0,23,27,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libkcddb,557,0,0,251,0,0,551,557,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,15,15,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libkdepim,465,0,0,127,0,0,449,465,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,133,139,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libkleo,1150,0,0,290,0,0,1145,1150,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libksane,272,0,0,83,0,0,265,272,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libksieve,3353,0,0,553,0,0,3503,3353,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-libktorrent,471,0,0,106,0,0,545,471,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-mailcommon,2801,0,0,467,0,0,2868,2801,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-mailimporter,1408,0,0,127,0,0,1490,1408,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-messagelib,7600,0,0,1184,0,0,7585,7600,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-pimcommon,1009,0,0,242,0,0,1055,1009,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-plasma,506,0,0,148,0,0,510,506,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-purpose,256,0,0,68,0,0,267,256,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-solid,682,0,0,222,0,0,661,682,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-sonnet,663,0,0,72,0,0,658,663,100.0,Dutch <kde-i18n-nl@kde.org>
+kf5-syntax-highlighting,454,0,0,296,0,0,443,454,100.0,Dutch <kde-i18n-nl@kde.org>
+kfind,505,0,0,118,0,0,521,505,100.0,Dutch <kde-i18n-nl@kde.org>
+kflickr,332,0,0,87,0,0,341,332,100.0,Dutch <nl@li.org>
+kfloppy,641,0,0,100,0,0,740,641,100.0,Dutch <kde-i18n-nl@kde.org>
+kfourinline,392,0,0,157,0,0,373,392,100.0,Dutch <kde-i18n-nl@kde.org>
+kgamma,130,0,0,16,0,0,133,130,100.0,Dutch <kde-i18n-nl@kde.org>
+kgeography,9699,0,0,7133,0,0,9522,9699,100.0,Dutch <kde-i18n-nl@kde.org>
+kget,2953,0,0,794,0,0,2904,2953,100.0,Dutch <kde-i18n-nl@kde.org>
+kgoldrunner,23557,0,0,908,0,0,23666,23557,100.0,Dutch <kde-i18n-nl@kde.org>
+kgpg,5282,0,0,698,0,0,5278,5282,100.0,Dutch <kde-i18n-nl@kde.org>
+kgrab,370,0,0,53,0,0,399,370,100.0,Dutch <kde-i18n-doc@kde.org>
+kgraphviewer,1251,0,0,242,0,0,1207,1251,100.0,Dutch <kde-i18n-nl@kde.org>
+khangman,473,0,0,119,0,0,427,473,100.0,Dutch <kde-i18n-nl@kde.org>
+khelpcenter,256,0,0,87,0,0,237,256,100.0,Dutch <kde-i18n-nl@kde.org>
+khotkeys,436,0,0,129,0,0,441,436,100.0,Dutch <kde-i18n-nl@kde.org>
+kicad,11631,0,9663,2965,0,341,11226,21294,54.62102000563539,KiCad Team <xor.gate.engineering@gmail.com>
+kiconedit,726,0,0,155,0,0,761,726,100.0,Dutch <kde-i18n-nl@kde.org>
+kid3,2272,0,4,929,0,1,2217,2276,99.82425307557118,Dutch <kde-i18n-doc@kde.org>
+kig,7756,0,0,1291,0,0,7786,7756,100.0,Nederlands <kde-i18n-nl@kde.org>
+kigo,500,0,0,129,0,0,512,500,100.0,Dutch <kde-i18n-nl@kde.org>
+kile,11162,0,0,1902,0,0,10846,11162,100.0,Dutch <kde-i18n-nl@kde.org>
+killbots,641,0,0,128,0,0,650,641,100.0,Dutch <kde-i18n-nl@kde.org>
+kinfocenter,2919,0,0,1010,0,0,2625,2919,100.0,Dutch <kde-i18n-nl@kde.org>
+kio-extras,915,0,0,128,0,0,950,915,100.0,Dutch <kde-i18n-nl@kde.org>
+kio-gdrive,14,0,0,2,0,0,14,14,100.0,Dutch <kde-i18n-nl@kde.org>
+kio_gopher,17,0,0,5,0,0,20,17,100.0,Dutch <kde-i18n-nl@kde.org>
+kio_mtp,17,0,0,2,0,0,17,17,100.0,Dutch <kde-i18n-nl@kde.org>
+kiriki,144,0,0,50,0,0,157,144,100.0,Dutch <kde-i18n-nl@kde.org>
+kiten,641,0,0,179,0,0,657,641,100.0,Dutch <kde-i18n-nl@kde.org>
+kjots,399,0,0,106,0,0,382,399,100.0,Dutch <kde-i18n-nl@kde.org>
+kjumpingcube,412,0,0,95,0,0,418,412,100.0,Dutch <kde-i18n-nl@kde.org>
+klavaro,1911,0,0,232,0,0,1919,1911,100.0,Dutch <vertaling@vrijschrift.org>
+kleopatra,8614,0,0,1310,0,0,8600,8614,100.0,Dutch <kde-i18n-nl@kde.org>
+klettres,436,0,0,83,0,0,435,436,100.0,Dutch <kde-i18n-nl@kde.org>
+klickety,178,0,0,62,0,0,167,178,100.0,Dutch <kde-i18n-nl@kde.org>
+klines,99,0,0,28,0,0,106,99,100.0,Dutch <kde-i18n-nl@kde.org>
+kmag,432,0,0,98,0,0,441,432,100.0,Dutch <kde-i18n-nl@kde.org>
+kmahjongg,340,0,0,98,0,0,335,340,100.0,Dutch <kde-i18n-nl@kde.org>
+kmail,8645,0,0,1318,0,0,8724,8645,100.0,Dutch <kde-i18n-nl@kde.org>
+kmail-account-wizard,799,0,0,128,0,0,797,799,100.0,Dutch <kde-i18n-nl@kde.org>
+kmenuedit,277,0,0,61,0,0,269,277,100.0,Dutch <kde-i18n-nl@kde.org>
+kmid2,1022,0,0,333,0,0,904,1022,100.0,Dutch <kde-i18n-nl@kde.org>
+kmines,108,0,0,38,0,0,103,108,100.0,Dutch <kde-i18n-nl@kde.org>
+kmix,907,0,0,219,0,0,898,907,100.0,Dutch <kde-i18n-nl@kde.org>
+kmousetool,147,0,0,32,0,0,152,147,100.0,Dutch <kde-i18n-nl@kde.org>
+kmplayer,1248,1,0,370,1,0,1259,1249,99.919935948759,Dutch <kde-i18n-nl@kde.org>
+kmplot,2458,0,0,471,0,0,2378,2458,100.0,Dutch <kde-i18n-nl@kde.org>
+kmymoney,21026,0,0,3393,0,0,21362,21026,100.0,Dutch <kde-i18n-nl@kde.org>
+knavalbattle,399,0,0,102,0,0,404,399,100.0,Dutch <kde-i18n-nl@kde.org>
+knemo,1236,0,0,352,0,0,1238,1236,100.0,Dutch <kde-i18n-nl@kde.org>
+knetwalk,230,0,0,54,0,0,249,230,100.0,Dutch <kde-i18n-nl@kde.org>
+knights,757,0,0,219,0,0,742,757,100.0,Nederlands <kde-i18n-nl@kde.org>
+knotes,789,0,0,239,0,0,795,789,100.0,Dutch <kde-i18n-nl@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,8016,8417,100.0,Dutch <kde-i18n-nl@kde.org>
+kolf,396,0,0,147,0,0,411,396,100.0,Dutch <kde-i18n-nl@kde.org>
+kollision,109,0,0,30,0,0,134,109,100.0,Dutch <kde-i18n-nl@kde.org>
+kolourpaint,2623,0,0,452,0,0,2642,2623,100.0,Dutch <kde-i18n-nl@kde.org>
+komparator,2587,0,0,267,0,0,2650,2587,100.0,Nederlands <kde-i18n-nl@kde.org>
+kompare,1430,0,0,196,0,0,1476,1430,100.0,Dutch <kde-i18n-nl@kde.org>
+konqueror,9027,0,0,1390,0,0,9044,9027,100.0,Dutch <kde-i18n-nl@kde.org>
+konquest,246,0,0,98,0,0,249,246,100.0,Dutch <kde-i18n-nl@kde.org>
+konsole5,2651,0,0,548,0,0,2697,2651,100.0,Dutch <kde-i18n-nl@kde.org>
+kontact,598,0,0,98,0,0,671,598,100.0,Dutch <kde-i18n-nl@kde.org>
+konversation,10294,0,0,1638,0,0,10217,10294,100.0,Dutch <kde-i18n-nl@kde.org>
+korganizer,6590,0,0,885,0,0,6465,6590,100.0,Dutch <kde-i18n-nl@kde.org>
+koverartist,659,0,0,155,0,0,645,659,100.0,LANGUAGE <LL@li.org>
+kpat,436,0,0,132,0,0,456,436,100.0,Dutch <kde-i18n-nl@kde.org>
+kphotoalbum,9564,0,0,1019,0,0,9679,9564,100.0,Dutch <kde-i18n-nl@kde.org>
+kpilot,7156,0,0,861,0,0,7304,7156,100.0,Dutch <kde-i18n-nl@kde.org>
+kpmcore,3220,0,0,478,0,0,3492,3220,100.0,Dutch <kde-i18n-nl@kde.org>
+kproperty,145,0,0,82,0,0,139,145,100.0,Dutch <kde-i18n-nl@kde.org>
+krdc,1276,0,0,286,0,0,1272,1276,100.0,Dutch <kde-i18n-nl@kde.org>
+krecipes,3646,0,0,765,0,0,3648,3646,100.0,Dutch <kde-i18n-nl@kde.org>
+krename,697,701,660,152,169,118,690,2058,33.86783284742469,<en@li.org>
+kreport,514,0,0,234,0,0,466,514,100.0,Dutch <kde-i18n-nl@kde.org>
+kreversi,428,0,0,141,0,0,454,428,100.0,Dutch <kde-i18n-nl@kde.org>
+krfb,644,0,0,88,0,0,727,644,100.0,Dutch <kde-i18n-nl@kde.org>
+krita,25525,0,0,6181,0,0,25171,25525,100.0,Dutch <kde-i18n-nl@kde.org>
+kruler,184,0,0,47,0,0,188,184,100.0,Dutch <kde-i18n-nl@kde.org>
+krusader,7908,0,0,1721,0,0,8017,7908,100.0,Dutch <kde-i18n-nl@kde.org>
+kscreen,213,0,0,64,0,0,217,213,100.0,Dutch <kde-i18n-nl@kde.org>
+kscreenlocker,190,0,0,33,0,0,187,190,100.0,Dutch <kde-i18n-nl@kde.org>
+ksensors,95,0,65,69,0,26,97,160,59.375,Nederlands <i18n@kde.nl>
+kshisen,522,0,0,66,0,0,549,522,100.0,Dutch <kde-i18n-nl@kde.org>
+ksig,85,0,0,26,0,0,78,85,100.0,Dutch <kde-i18n-nl@kde.org>
+ksirk,5763,0,0,762,0,0,5936,5763,100.0,Dutch <kde-i18n-nl@kde.org>
+ksnakeduel,231,0,0,53,0,0,230,231,100.0,Dutch <kde-i18n-nl@kde.org>
+kspaceduel,165,0,0,81,0,0,158,165,100.0,Nederlands <kde-i18n-nl@kde.org>
+ksquares,257,0,0,76,0,0,245,257,100.0,Dutch <kde-i18n-nl@kde.org>
+ksshaskpass,43,0,0,12,0,0,47,43,100.0,Dutch <kde-i18n-nl@kde.org>
+kst,7288,0,0,1941,0,0,6846,7288,100.0,Dutch <kde-i18n-nl@kde.org>
+kstars,56712,0,0,15933,0,0,56950,56712,100.0,Dutch <kde-i18n-nl@kde.org>
+ksudoku,1659,0,0,158,0,0,1721,1659,100.0,Dutch <kde-i18n-nl@kde.org>
+ksysguard,1078,0,0,233,0,0,1076,1078,100.0,Dutch <kde-i18n-nl@kde.org>
+ksystemlog,3034,0,0,479,0,0,2868,3034,100.0,Dutch <kde-i18n-nl@kde.org>
+kteatime,201,0,0,65,0,0,215,201,100.0,Dutch <kde-i18n-nl@kde.org>
+ktimer,241,0,0,51,0,0,254,241,100.0,Dutch <kde-i18n-nl@kde.org>
+ktorrent,7538,0,0,1382,0,0,7512,7538,100.0,Dutch <kde-i18n-nl@kde.org>
+ktouch,871,0,0,242,0,0,834,871,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1102,1100,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-approver,71,0,0,18,0,0,68,71,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,91,83,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-common-internals,989,0,0,206,0,0,1099,989,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-contact-list,408,0,0,109,0,0,416,408,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-contact-runner,177,0,0,35,0,0,194,177,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,78,75,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,149,141,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-kded-integration-module,277,0,0,54,0,0,318,277,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-send-file,60,0,0,18,0,0,67,60,100.0,Dutch <kde-i18n-nl@kde.org>
+ktp-text-ui,1441,0,0,321,0,0,1469,1441,100.0,Dutch <kde-i18n-nl@kde.org>
+ktuberling,158,0,0,38,0,0,121,158,100.0,Dutch <kde-i18n-nl@kde.org>
+kturtle,1527,0,0,346,0,0,1627,1527,100.0,Dutch <kde-i18n-nl@kde.org>
+kubrick,1203,0,0,165,0,0,1296,1203,100.0,Dutch <kde-i18n-nl@kde.org>
+kupfer,1487,315,677,431,96,165,1404,2479,59.9838644614764,Dutch
+kvirc,6887,0,17719,1453,0,2254,7097,24606,27.989108347557508,Dutch (http://www.transifex.com/kvirc/KVIrc/language/nl/)
+kwalletmanager5,802,0,0,166,0,0,871,802,100.0,Dutch <kde-i18n-nl@kde.org>
+kwebkitpart,624,0,0,158,0,0,618,624,100.0,Dutch <kde-i18n-nl@kde.org>
+kwin,6231,0,0,1212,0,0,6471,6231,100.0,Dutch <kde-i18n-nl@kde.org>
+kwordquiz,2025,0,0,413,0,0,2075,2025,100.0,Dutch <kde-i18n-nl@kde.org>
+kxstitch,1966,0,0,560,0,0,1864,1966,100.0,Dutch <kde-i18n-nl@kde.org>
+l3afpad,113,0,17,61,0,3,123,130,86.92307692307692,Dutch <vertaling@vrijschrift.org>
+labyrinth,89,57,80,26,16,31,86,226,39.38053097345133,Dutch <nl@li.org>
+latexila,2195,0,0,552,0,0,2117,2195,100.0,Dutch <gnome-nl-list@gnome.org>
+lazarus,6760,3193,17567,2017,547,3709,6831,27520,24.563953488372093,
+ldm,50,0,5,17,0,2,48,55,90.9090909090909,Dutch <nl@li.org>
+leafpad,125,0,0,68,0,0,140,125,100.0,Dutch <vertaling@vrijschrift.org>
+lekhonee-gnome,112,0,0,44,0,0,122,112,100.0,Fedora
+libbonobo,543,0,0,107,0,0,544,543,100.0,Dutch <vertaling@vrijschrift.org>
+libbonoboui,368,0,0,115,0,0,377,368,100.0,Dutch <vertaling@vrijschrift.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Dutch
+libcryptui,3012,0,0,654,0,0,2843,3012,100.0,Dutch <vertaling@vrijschrift.org>
+libexif,6930,47,0,1172,5,0,6251,6977,99.32635803353878,Dutch <vertaling@vrijschrift.org>
+libextractor,1765,84,129,459,18,13,1636,1978,89.23154701718909,Dutch <vertaling@vrijschrift.org>
+libgda,281,3886,6975,85,883,1086,297,11142,2.5219888709387903,Dutch <vertaling@vrijschrift.org>
+libgdata,607,0,0,75,0,0,608,607,100.0,Dutch <vertaling@vrijschrift.org>
+libgdl,604,0,0,92,0,0,570,604,100.0,Dutch <vertaling@nl.linux.org>
+libgnome,1773,0,0,273,0,0,1651,1773,100.0,Dutch <vertaling@vrijschrift.org>
+libgnome-games-support,43,0,0,14,0,0,41,43,100.0,Dutch <gnome-nl-list@gnome.org>
+libgnome-keyring,44,0,0,9,0,0,43,44,100.0,Dutch <vertaling@vrijschrift.org>
+libgnomecanvas,378,0,0,95,0,0,329,378,100.0,Dutch <nl@li.org>
+libgnomekbd,242,0,0,55,0,0,208,242,100.0,Dutch <vertaling@vrijschrift.org>
+libgnomeui,1309,0,0,334,0,0,1203,1309,100.0,Dutch <vertaling@vrijschrift.org>
+libgpg-error,917,297,206,309,85,50,830,1420,64.5774647887324,Dutch <vertaling@vrijschrift.org>
+libgphoto2,9164,896,1352,1972,259,275,8515,11412,80.30143708377146,Dutch <vertaling@vrijschrift.org>
+libgsasl,577,0,0,69,0,0,512,577,100.0,Dutch <vertaling@vrijschrift.org>
+libgtop2,126,0,0,40,0,0,124,126,100.0,Dutch <vertaling@vrijschrift.org>
+libguestfs,3890,0,208843,610,0,17874,4172,212733,1.8285832475450448,Dutch (http://www.transifex.com/projects/p/libguestfs/language/nl/)
+libgweather,6370,0,0,4679,0,0,6205,6370,100.0,Dutch <vertaling@vrijschrift.org>
+libgxim,0,124,0,0,24,0,0,124,0.0,LANGUAGE <LL@li.org>
+libidn,414,0,14,58,0,2,417,428,96.72897196261682,Dutch <vertaling@vrijschrift.org>
+libidn2,40,109,133,6,11,19,36,282,14.184397163120568,Dutch <vertaling@vrijschrift.org>
+libkdegames,370,0,0,132,0,0,363,370,100.0,Dutch <kde-i18n-nl@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,182,171,100.0,Dutch <kde-i18n-nl@kde.org>
+libkexif,25,0,0,14,0,0,21,25,100.0,Dutch <kde-i18n-nl@kde.org>
+libkfbapi,42,0,0,6,0,0,44,42,100.0,Dutch <kde-i18n-nl@kde.org>
+libkgapi,302,0,0,68,0,0,356,302,100.0,Dutch <kde-i18n-nl@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Dutch <kde-i18n-nl@kde.org>
+libkomparediff2,143,0,0,19,0,0,146,143,100.0,Dutch <kde-i18n-nl@kde.org>
+libksysguard,3166,0,0,396,0,0,3031,3166,100.0,Dutch <kde-i18n-nl@kde.org>
+libktorrent,519,0,0,115,0,0,607,519,100.0,Dutch <kde-i18n-nl@kde.org>
+libmatekbd,251,0,0,43,0,0,217,251,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+libmatemixer,242,0,0,126,0,0,230,242,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+libmateweather,6124,0,0,4557,0,0,6004,6124,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+libmx,40,0,0,16,0,0,43,40,100.0,LANGUAGE <LL@li.org>
+libosinfo,0,0,662,0,0,145,0,662,0.0,Dutch
+libpaper,73,0,0,46,0,0,147,73,100.0,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+libpeas,106,0,0,27,0,0,99,106,100.0,Dutch <vertaling@vrijschrift.org>
+libpwquality,343,0,0,53,0,0,339,343,100.0,Dutch (http://www.transifex.com/projects/p/libpwquality/language/nl/)
+libqalculate,5708,576,994,1645,59,628,5707,7278,78.42813959879088,<kde-i18n-nl@kde.org>
+libreoffice,556342,0,0,76538,0,0,549003,556342,100.0,LANGUAGE <LL@li.org>
+libreport,4987,0,0,607,0,0,5224,4987,100.0,Dutch (http://www.transifex.com/projects/p/libreport/language/nl/)
+libsecret,59,0,0,9,0,0,55,59,100.0,Dutch <vertaling@vrijschrift.org>
+libsmbios,0,0,2178,0,0,361,0,2178,0.0,Dutch
+libsoup,155,0,0,36,0,0,141,155,100.0,Dutch <vertaling@vrijschrift.org>
+libuser,1385,34,18,292,6,3,1483,1437,96.3813500347947,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+libvirt,15459,5994,40830,2765,990,5907,16098,62283,24.820577043495014,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Dutch (http://www.transifex.com/projects/p/libvirt-glib/language/nl/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+libwnck,1124,0,0,241,0,0,1023,1124,100.0,Dutch <vertaling@vrijschrift.org>
+libwnck3,1084,0,0,230,0,0,992,1084,100.0,Dutch <vertaling@vrijschrift.org>
+libxfce4ui,871,0,0,169,0,0,863,871,100.0,Dutch (http://www.transifex.com/projects/p/libxfce4ui/language/nl/)
+libxfce4util,424,0,0,7,0,0,446,424,100.0,Dutch (Flemish)
+libzypp,2361,0,0,950,0,0,2420,2361,100.0,Dutch <https://l10n.opensuse.org/projects/libzypp/master/nl/>
+lifeograph,252,397,408,60,106,118,283,1057,23.841059602649008,Dutch <nl@li.org>
+liferea,1831,170,212,438,31,26,1690,2213,82.73836421147763,Dutch <vertaling@vrijschrift.org>
+light-locker,260,0,0,37,0,0,275,260,100.0,Dutch (http://www.transifex.com/the_cavalry/light-locker/language/nl/)
+lightdm,163,0,0,21,0,0,156,163,100.0,Dutch <nl@li.org>
+lightdm-gtk,68,0,19,22,0,3,63,87,78.16091954022988,Dutch <nl@li.org>
+lightdm-gtk-greeter-settings,488,0,31,168,0,3,496,519,94.02697495183044,Dutch <nl@li.org>
+lightdm-settings,271,0,0,59,0,0,243,271,100.0,Dutch <nl@li.org>
+lightsoff,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+lilypond,5633,87,7688,911,21,2346,5945,13408,42.01223150357995,LANGUAGE <LL@li.org>
+lilyterm,986,431,231,195,64,36,998,1648,59.83009708737864,Adrian Buyssens <howitzer@archlinux.us>
+lincity-ng,1923,0,0,457,0,0,1929,1923,100.0,Nederlands
+linphone,185,274,1394,50,122,293,191,1853,9.983810037776578,Nederlands <vertaling@nl.linux.org>
+linux_logo,10,4,40,10,4,9,10,54,18.51851851851852,LANGUAGE <LL@li.org>
+lokalize,3557,0,0,595,0,0,3639,3557,100.0,Dutch <kde-i18n-nl@kde.org>
+lollypop,1012,0,0,306,0,0,974,1012,100.0,Dutch <https://hosted.weblate.org/projects/gnumdk/lollypop/nl/>
+londonlaw,584,27,10,155,7,4,617,621,94.04186795491142,Dutch <nl@li.org>
+lordsawar,1618,4,1556,453,3,352,1572,3178,50.91252359974827,Dutch <vertaling@vrijschrift.org>
+lskat,254,0,0,83,0,0,249,254,100.0,Dutch <kde-i18n-nl@kde.org>
+lxappearance,234,0,0,80,0,0,222,234,100.0,Dutch
+lxappearance-obconf,196,0,0,27,0,0,195,196,100.0,Dutch
+lxde-common,14,0,0,5,0,0,18,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,43,47,100.0,Dutch
+lxhotkey,449,0,0,193,0,0,479,449,100.0,Dutch
+lxinput,83,0,0,26,0,0,76,83,100.0,Dutch
+lxlauncher,58,0,0,17,0,0,58,58,100.0,Dutch
+lxmenu-data,97,0,0,37,0,0,84,97,100.0,Dutch
+lxmusic,203,0,0,89,0,0,200,203,100.0,Dutch
+lxrandr,167,0,0,41,0,0,157,167,100.0,Dutch
+lxsession,755,0,0,166,0,0,758,755,100.0,Dutch
+lxshortcut,43,0,0,19,0,0,37,43,100.0,Dutch
+lxtask,130,0,0,51,0,0,127,130,100.0,Dutch
+lxterminal,202,0,0,98,0,0,209,202,100.0,Dutch
+lynx,8310,0,0,1250,0,0,8104,8310,100.0,Dutch <vertaling@vrijschrift.org>
+mail-notification,1866,33,9,349,4,1,2048,1908,97.79874213836479,Marcel J. Zwiebel <mj.zwiebel@nonux.nl>
+mailman,14018,621,9404,1062,33,345,14364,24043,58.30387222892318,Dutch <info@janveuger.com>
+make,2252,14,0,430,2,0,2300,2266,99.38217122683142,Dutch <vertaling@vrijschrift.org>
+man-db,6096,1177,2355,439,69,138,5868,9628,63.315330286663894,Dutch <vertaling@vrijschrift.org>
+man2html,58,0,0,3,0,0,57,58,100.0,dutch <debian-l10n-dutch@lists.debian.org>
+manaplus,604,0,3780,246,0,1160,619,4384,13.777372262773724,Dutch (http://www.transifex.com/projects/p/manaplus/language/nl/)
+marble,11395,0,0,3310,0,0,11091,11395,100.0,Dutch <kde-i18n-nl@kde.org>
+marco,4148,0,0,413,0,0,3985,4148,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mariadb,0,109,155,0,7,13,0,264,0.0,Debian-Dutch <debian-l10n-dutch@lists.debian.org>
+massif-visualizer,385,0,0,108,0,0,411,385,100.0,Dutch <kde-i18n-nl@kde.org>
+mate-applets,8106,26,519,1053,1,39,8151,8651,93.7001502716449,Dutch <nl@li.org>
+mate-backgrounds,51,0,0,28,0,0,48,51,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-calc,1371,0,0,420,0,0,1384,1371,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-control-center,2658,0,0,628,0,0,2642,2658,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-desktop,2223,0,82,296,0,3,2196,2305,96.44251626898048,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-media,226,0,0,96,0,0,186,226,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-menu,316,0,0,118,0,0,315,316,100.0,Dutch (http://www.transifex.com/mate/MATE/language/nl/)
+mate-menus,97,0,0,37,0,0,88,97,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-notification-daemon,139,0,0,37,0,0,125,139,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-panel,5040,56,200,663,6,9,5083,5296,95.16616314199395,
+mate-polkit,122,0,0,20,0,0,134,122,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-power-manager,2724,0,0,440,0,0,2816,2724,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-screensaver,983,0,0,156,0,0,964,983,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-sensors-applet,306,0,0,106,0,0,324,306,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-session-manager,681,0,0,114,0,0,668,681,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-settings-daemon,1764,0,0,253,0,0,1751,1764,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-system-monitor,1333,0,0,313,0,0,1300,1333,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-terminal,4649,0,0,525,0,0,4340,4649,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-themes,60,0,0,12,0,0,55,60,100.0,Dutch (http://www.transifex.com/mate/MATE/language/nl/)
+mate-user-guide,446,0,40375,126,0,2805,438,40821,1.0925749001739302,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mate-utils,3677,0,0,660,0,0,3671,3677,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+maya-calendar,427,0,0,172,0,0,490,427,100.0,Dutch <https://l10n.elementary.io/projects/calendar/calendar/nl/>
+mbox-importer,40,0,0,13,0,0,49,40,100.0,Dutch <kde-i18n-nl@kde.org>
+mc,3984,13,156,1187,1,30,3991,4153,95.93065254033229,Dutch (http://www.transifex.com/mc/mc/language/nl/)
+mcomix,163,311,2093,88,88,358,165,2567,6.349824698091157,LANGUAGE <LL@li.org>
+meld,883,0,0,227,0,0,881,883,100.0,Dutch <vertaling@nl.li.org>
+menulibre,673,0,176,138,0,26,664,849,79.26972909305064,Dutch <nl@li.org>
+mesa,244,0,145,47,0,19,252,389,62.724935732647815,Dutch <vertaling@nl.linux.org>
+metacity,2040,0,0,310,0,0,1915,2040,100.0,Dutch <vertaling@vrijschrift.org>
+midori,2841,0,700,683,0,113,2907,3541,80.23157300197684,Dutch (Flemish)
+minetest,5831,567,8,919,104,1,6108,6406,91.02403996253511,Dutch <https://hosted.weblate.org/projects/minetest/minetest/nl/>
+mingw-GConf2,4088,0,0,497,0,0,4205,4088,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-atk,375,0,0,126,0,0,320,375,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-binutils,1896,0,0,331,0,0,1971,1896,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-colord,386,0,1499,97,0,106,417,1885,20.477453580901855,Dutch (http://www.transifex.com/projects/p/colord/language/nl/)
+mingw-colorhug-client,667,0,742,144,0,150,800,1409,47.338537970191624,Dutch (Netherlands) (http://www.transifex.com/projects/p/colorhug-client/language/nl_NL/)
+mingw-gcc,5891,37102,54381,1072,5364,6149,5996,97374,6.0498695750405656,Dutch <vertaling@vrijschrift.org>
+mingw-gdb,1371,0,0,234,0,0,1419,1371,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-gdk-pixbuf,1409,0,0,211,0,0,1349,1409,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-gettext,4163,43,3577,550,9,268,3970,7783,53.48837209302325,Dutch <vertaling@vrijschrift.org>
+mingw-glib-networking,163,0,0,29,0,0,165,163,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-glib2,3595,287,1551,619,43,177,3826,5433,66.1697036628014,Dutch <vertaling@vrijschrift.org>
+mingw-gnutls,1347,167,179,317,38,33,1254,1693,79.56290608387478,Dutch <vertaling@vrijschrift.org>
+mingw-gstreamer,1914,3,0,347,1,0,1993,1917,99.8435054773083,Dutch <vertaling@vrijschrift.org>
+mingw-gstreamer-plugins-bad-free,96,0,0,14,0,0,106,96,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-gstreamer-plugins-base,902,0,6,176,0,2,900,908,99.33920704845815,Dutch <vertaling@vrijschrift.org>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,794,814,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-gstreamer1,2028,32,18,369,3,3,2124,2078,97.59384023099133,Dutch <vertaling@vrijschrift.org>
+mingw-gstreamer1-plugins-bad-free,158,42,8,22,7,2,181,208,75.96153846153845,Dutch <vertaling@vrijschrift.org>
+mingw-gstreamer1-plugins-base,912,33,4,191,5,2,911,949,96.10115911485775,Dutch <vertaling@vrijschrift.org>
+mingw-gstreamer1-plugins-good,747,14,0,105,2,0,746,761,98.16031537450722,Dutch <vertaling@vrijschrift.org>
+mingw-gtk2,11925,347,151,2508,58,20,11311,12423,95.99130644771793,Dutch <vertaling@vrijschrift.org>
+mingw-gtk3,16001,0,0,3575,0,0,15441,16001,100.0,Dutch <gnome-nl-list@gnome.org>
+mingw-gtksourceview3,744,218,194,426,103,101,621,1156,64.3598615916955,Dutch; Flemish <gnome-nl-list@gnome.org>
+mingw-gtkspell3,16,0,0,7,0,0,15,16,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-libgpg-error,925,229,121,311,62,30,839,1275,72.54901960784314,Dutch <vertaling@vrijschrift.org>
+mingw-libidn,414,0,14,58,0,2,417,428,96.72897196261682,Dutch <vertaling@vrijschrift.org>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Dutch
+mingw-libsoup,79,0,0,20,0,0,69,79,100.0,Dutch <vertaling@vrijschrift.org>
+mingw-libvirt,15459,5994,40830,2765,990,5907,16098,62283,24.820577043495014,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Dutch (http://www.transifex.com/projects/p/libvirt-glib/language/nl/)
+mingw-p11-kit,469,0,7,80,0,1,498,476,98.52941176470588,Dutch (http://www.transifex.com/freedesktop/p11-kit/language/nl/)
+mingw-qt5-qtwebkit,1382,644,605,320,137,115,1266,2631,52.527556062333716,Dutch <vertaling@vrijschrift.org>
+mingw-sane-backends,5623,19,0,1175,5,0,5862,5642,99.66323998582062,English <kde-i18n-doc@kde.org>
+mingw-webkitgtk,2407,161,131,533,27,26,2219,2699,89.18117821415339,Dutch <vertaling@vrijschrift.org>
+mingw-webkitgtk3,2407,161,131,533,27,26,2219,2699,89.18117821415339,Dutch <vertaling@vrijschrift.org>
+mingw-wxWidgets,6679,0,0,1523,0,0,6618,6679,100.0,wxWidgets translators <wx-translators@wxwidgets.org>
+mintmenu,7472,0,0,1228,0,0,8063,7472,100.0,Dutch <nl@li.org>
+mirage,802,15,0,240,5,0,796,817,98.1640146878825,
+mkvtoolnix,33747,2367,3137,3100,368,191,33929,39251,85.97742732669231,
+mlocate,406,175,0,50,1,0,415,581,69.87951807228916,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+moin,4974,26,44,920,7,6,5100,5044,98.61221252973831,
+monodevelop,8618,7768,6912,1844,2264,1190,8680,23298,36.99029959653189,Dutch
+moodle,421,0,0,65,0,0,438,421,100.0,Dutch <i18n@lists.horde.org>
+mousepad,1088,0,0,306,0,0,1053,1088,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+mousetweaks,237,0,0,64,0,0,212,237,100.0,Dutch <vertaling@nl.gnome.org>
+mozo,42,0,0,16,0,0,39,42,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+mpdris2,7,0,0,6,0,0,11,7,100.0,Jean-Philippe Braun <eon@patapon.info>
+mtpaint,2876,0,255,797,0,75,2816,3131,91.85563717662089,
+muffin,1870,32,136,257,3,12,1740,2038,91.75662414131502,Dutch <vertaling@vrijschrift.org>
+multimedia-menus,56,0,0,22,0,0,61,56,100.0,Fedora
+mutt,5727,33,30,1174,13,13,5933,5790,98.9119170984456,Dutch <vertaling@vrijschrift.org>
+mutter,814,0,0,125,0,0,814,814,100.0,Dutch <vertaling@vrijschrift.org>
+nacl-arm-binutils,1896,0,0,331,0,0,1971,1896,100.0,Dutch <vertaling@vrijschrift.org>
+nacl-arm-gcc,6421,25062,48923,1156,3776,5729,6521,80406,7.985722458522996,Dutch <vertaling@vrijschrift.org>
+nacl-binutils,1896,0,0,331,0,0,1971,1896,100.0,Dutch <vertaling@vrijschrift.org>
+nacl-gcc,5960,16836,31114,1088,2518,3739,6122,53910,11.055462808384345,Dutch <vertaling@vrijschrift.org>
+nano,3103,0,0,522,0,0,2900,3103,100.0,Dutch <vertaling@vrijschrift.org>
+nautilus,5984,0,0,1114,0,0,6207,5984,100.0,Dutch <gnome-nl-list@gnome.org>
+nautilus-image-converter,79,0,0,35,0,0,89,79,100.0,Dutch
+nautilus-pastebin,36,23,8,5,3,2,41,67,53.73134328358209,Dutch <nl@li.org>
+nautilus-sendto,45,0,0,8,0,0,41,45,100.0,Dutch <gnome-nl-list@gnome.org>
+ncmpc,129,26,622,69,9,198,136,777,16.602316602316602,Dutch <nl@li.org>
+nemiver,409,0,11,131,0,2,376,420,97.38095238095238,Dutch <vertaling@vrijschrift.org>
+nemo-extensions,32,0,0,13,0,0,36,32,100.0,Dutch <nl@li.org>
+neovim,4289,394,2145,927,65,379,4315,6828,62.8148799062683,Dutch <vertaling@vrijschrift.nl>
+nesc,1178,0,0,199,0,0,1228,1178,100.0,Dutch <vertaling@vrijschrift.org>
+net6,304,0,0,68,0,0,280,304,100.0,Dutch <nl@li.org>
+network-manager-applet,2366,1120,917,632,166,130,2307,4403,53.73608903020668,Dutch <gnome-nl-list@gnome.org>
+newsbeuter,1287,49,6,330,3,1,1289,1342,95.90163934426229,Dutch <vertalen@vrijschrift.org>
+newt,4,0,0,4,0,0,4,4,100.0,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+nicotine+,4978,0,0,1058,0,0,4981,4978,100.0,Dutch <>
+noise,1291,0,31,373,0,4,1425,1322,97.65506807866868,Dutch <https://weblate.elementary.io/projects/music/music/nl/>
+notejot,14,0,0,12,0,0,14,14,100.0,Dutch - vistausss@outlook.com
+notification-daemon,17,0,0,7,0,0,14,17,100.0,Dutch <vertaling@vrijschrift.org>
+novprog,71,0,0,5,0,0,97,71,100.0,Dutch (http://www.transifex.com/gottcode/novprog/language/nl/)
+obby,89,0,70,20,0,12,86,159,55.9748427672956,Dutch <nl@li.org>
+obconf,686,0,52,144,0,12,645,738,92.95392953929539,
+oggconvert,132,0,0,44,0,0,146,132,100.0,Dutch <nl@li.org>
+okteta,2513,0,0,603,0,0,2545,2513,100.0,Dutch <kde-i18n-nl@kde.org>
+okular,4520,0,0,884,0,0,4534,4520,100.0,Dutch <kde-i18n-nl@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,169,158,100.0,LANGUAGE <LL@li.org>
+onboard,1768,0,550,408,0,102,1751,2318,76.27264883520276,Dutch <nl@li.org>
+openbox,473,0,33,90,0,4,440,506,93.47826086956522,Dutch <vertaling@vrijschrift.org>
+openconnect,2396,0,2823,440,0,459,2478,5219,45.909178003448936,Dutch (http://www.transifex.com/projects/p/meego/language/nl/)
+openerp,63652,0,16463,12827,0,683,58755,80115,79.45078949010797,
+openerp-client,2507,0,5222,569,0,5,2476,7729,32.43627894941131,Dutch <nl@li.org>
+openerp7,51474,0,13224,10476,0,227,49748,64698,79.56041917833628,Dutch <nl@li.org>
+openjfx,2407,161,131,533,27,26,2219,2699,89.18117821415339,Dutch <vertaling@vrijschrift.org>
+openteacher,3961,0,196,555,0,11,4039,4157,95.28506134231417,LANGUAGE <LL@li.org>
+orage,2931,0,0,1030,0,0,3069,2931,100.0,Dutch (http://www.transifex.com/projects/p/xfce-apps/language/nl/)
+orca,5346,0,0,1740,0,0,5224,5346,100.0,Dutch <gnome-nl-list@gnome.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Dutch (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/nl/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Dutch
+osmo,1609,0,162,660,0,38,1529,1771,90.85262563523433,Dutch
+p11-kit,469,0,7,80,0,1,498,476,98.52941176470588,Dutch (http://www.transifex.com/freedesktop/p11-kit/language/nl/)
+pacman,5382,0,16,893,0,3,5514,5398,99.70359392367544,Dutch (http://www.transifex.com/toofishes/archlinux-pacman/language/nl/)
+palapeli,1512,0,0,180,0,0,1550,1512,100.0,Dutch <kde-i18n-nl@kde.org>
+pam,575,22,0,117,3,0,572,597,96.31490787269682,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+pam_krb5,7,0,0,4,0,0,7,7,100.0,Dutch (http://www.transifex.com/projects/p/pam_krb5/language/nl/)
+pan,236,1682,1250,83,451,218,262,3168,7.449494949494949,Dutch <vertaling@vrijschrift.org>
+pantheon-agent-geoclue2,43,0,0,11,0,0,46,43,100.0,Dutch <http://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/nl/>
+pantheon-agent-polkit,16,3,1,8,1,1,17,20,80.0,Dutch <http://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/nl/>
+pantheon-calculator,52,0,26,32,0,4,82,78,66.66666666666666,Dutch <https://l10n.elementary.io/projects/calculator/calculator/nl/>
+pantheon-files,1821,0,855,329,0,194,2115,2676,68.04932735426009,Dutch <nl@li.org>
+pantheon-greeter,29,0,0,10,0,0,27,29,100.0,Dutch <https://l10n.elementary.io/projects/desktop/greeter/nl/>
+pantheon-photos,3757,0,357,818,0,55,3767,4114,91.32231404958677,Dutch <https://l10n.elementary.io/projects/photos/photos/nl/>
+pantheon-terminal,188,0,36,51,0,7,268,224,83.92857142857143,Dutch <https://l10n.elementary.io/projects/terminal/terminal/nl/>
+paprefs,131,0,0,23,0,0,125,131,100.0,nl <nl@li.org>
+parley,3842,0,0,752,0,0,3699,3842,100.0,Dutch <kde-i18n-nl@kde.org>
+parole,1004,0,0,277,0,0,1014,1004,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+parted,4416,0,0,550,0,0,4407,4416,100.0,Dutch <vertaling@vrijschrift.org>
+passwd,329,0,7,56,0,1,357,336,97.91666666666666,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+pastebinit,183,0,0,27,0,0,191,183,100.0,Dutch <nl@li.org>
+pavucontrol,219,1,17,85,1,1,212,237,92.40506329113924,nl <nl@li.org>
+pbuilder,96,0,0,9,0,0,103,96,100.0,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+pcb,3175,0,0,494,0,0,3218,3175,100.0,Bert Timmerman <bert.timmerman@xs4all.nl>
+pcmanfm,1210,0,0,296,0,0,1233,1210,100.0,Dutch
+pdfmod,266,0,0,74,0,0,282,266,100.0,Dutch <vertaling@vrijschrift.org>
+perl-Log-Report,527,0,5,88,0,1,551,532,99.06015037593986,
+perl-Padre,4236,1,21,1065,1,5,4362,4258,99.4833255049319,ddn <ddn123456 at gmail.com>
+perl-libintl-perl,19,0,0,19,0,0,19,19,100.0,Dutch <guido.flohr@cantanea.com>
+pgadmin3,7673,7960,1265,2240,1934,228,7545,16898,45.407740561013135,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,2553,0,0,824,0,0,2423,2553,100.0,Stani <spe.stani.be@gmail.com>
+photoprint,1412,1,4,317,1,1,1456,1417,99.64714184897672,Dutch <>
+php-horde-Horde-Alarm,13,0,0,5,0,0,13,13,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Argv,60,0,0,13,0,0,65,60,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Browser,66,0,0,6,0,0,57,66,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Cli,16,0,0,5,0,0,16,16,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Compress,25,0,0,6,0,0,30,25,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Core,1036,0,0,260,0,0,1037,1036,100.0,Dutch <kde-i18n-doc@kde.org>
+php-horde-Horde-Data,53,0,0,8,0,0,59,53,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Date,42,0,0,12,0,0,42,42,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Form,0,0,0,0,0,0,0,0,0.0,i18n@lists.horde.org
+php-horde-Horde-Icalendar,3,0,0,1,0,0,3,3,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Image,0,0,0,0,0,0,0,0,0.0,i18n@lists.horde.org
+php-horde-Horde-Imap-Client,375,0,0,52,0,0,391,375,100.0,American English <kde-i18n-doc@kde.org>
+php-horde-Horde-Imsp,3,0,0,1,0,0,2,3,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Kolab-Storage,0,0,0,0,0,0,0,0,0.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,6,6,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Mime,42,0,0,11,0,0,43,42,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,45,47,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Nls,702,0,0,456,0,0,589,702,100.0,Dutch <kde-i18n-doc@kde.org>
+php-horde-Horde-Perms,17,0,0,5,0,0,22,17,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Prefs,30,0,0,9,0,0,30,30,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Rpc,59,0,0,8,0,0,73,59,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Service-Weather,539,0,0,206,0,0,472,539,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Share,8,0,0,1,0,0,7,8,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-SyncMl,3,0,0,1,0,0,11,3,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Token,64,0,0,4,0,0,67,64,100.0,Dutch <i18n@lists.horde.org>
+php-horde-Horde-Vfs,10,0,0,3,0,0,10,10,100.0,Dutch <i18n@lists.horde.org>
+php-horde-horde,3354,0,0,830,0,0,3316,3354,100.0,Dutch <kde-i18n-doc@kde.org>
+php-horde-imp,6584,0,0,1333,0,0,6575,6584,100.0,Dutch <kde-i18n-doc@kde.org>
+php-horde-kronolith,3726,0,0,774,0,0,3711,3726,100.0,Dutch <kde-i18n-doc@kde.org>
+php-horde-mnemo,514,0,0,143,0,0,524,514,100.0,Dutch <kde-i18n-doc@kde.org>
+php-horde-nag,1510,0,0,345,0,0,1485,1510,100.0,Dutch <kde-i18n-doc@kde.org>
+php-horde-passwd,155,0,0,31,0,0,166,155,100.0,<i18n@lists.horde.org>
+php-horde-turba,1811,0,0,429,0,0,1819,1811,100.0,Dutch <kde-i18n-doc@kde.org>
+php-phpmyadmin-sql-parser,227,0,0,44,0,0,223,227,100.0,Dutch <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/nl/>
+picard,2883,0,10,1237,0,8,2948,2893,99.65433805737989,Dutch (http://www.transifex.com/projects/p/musicbrainz/language/nl/)
+picmi,197,0,0,114,0,0,183,197,100.0,Dutch <kde-i18n-nl@kde.org>
+pidgin,15746,10,0,3432,1,0,15371,15756,99.93653211474994,Dutch (http://www.transifex.com/pidgin/pidgin/language/nl/)
+pidgin-birthday-reminder,204,0,85,57,0,9,212,289,70.58823529411765,Dutch (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/nl/)
+pidgin-guifications,442,32,31,183,4,5,475,505,87.52475247524752,Dutch <nl@li.org>
+pidgin-libnotify,21,13,2,7,4,1,23,36,58.333333333333336,
+pidgin-musictracker,333,0,0,60,0,0,333,333,100.0,Dutch <nl@li.org>
+pidgin-otr,1054,0,10,158,0,1,1151,1064,99.06015037593986,Paul Wouters <paul@cypherpunks.ca>
+pidgin-sipe,1064,0,55,256,0,17,1013,1119,95.08489722966935,Dutch (http://www.transifex.com/stefanb/pidgin-sipe/language/nl/)
+pim-data-exporter,739,0,0,186,0,0,825,739,100.0,Dutch <kde-i18n-nl@kde.org>
+pim-sieve-editor,435,0,0,117,0,0,428,435,100.0,Dutch <kde-i18n-nl@kde.org>
+pinfo,315,6,0,53,1,0,336,321,98.13084112149532,Dutch <nl@li.org>
+pingus,3062,400,1933,290,15,141,3061,5395,56.75625579240037,"Bas Wijnen <wijnen@debian.org>, Martijn Santen <martijn@jomarsoft.nl>, Giray Devlet <giray@devlet.cc>"
+pinta,1336,0,282,457,0,71,1293,1618,82.57107540173052,Dutch <nl@li.org>
+pioneers,2989,0,0,788,0,0,3059,2989,100.0,Bas Wijnen <shevek@fmf.nl> Roland Clobus <rclobus@rclobus.nl>
+pitivi,1463,0,0,340,0,0,1374,1463,100.0,Dutch <vertaling@vrijschrift.org>
+pix,3718,0,0,1202,0,0,3857,3718,100.0,Dutch <nl@li.org>
+plank,189,0,0,50,0,0,244,189,100.0,Dutch <nl@li.org>
+planner,1744,0,0,511,0,0,1725,1744,100.0,Dutch <nl@li.org>
+plasma-breeze,263,0,0,97,0,0,267,263,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-desktop,12502,154,0,2369,9,0,12273,12656,98.78318584070797,Dutch <kde-i18n-nl@kde.org>
+plasma-discover,1193,2,1,358,2,1,1393,1196,99.74916387959865,Dutch <kde-i18n-nl@kde.org>
+plasma-drkonqi,4015,0,0,377,0,0,4045,4015,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-integration,58,0,0,21,0,0,64,58,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,167,172,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-milou,42,0,0,17,0,0,40,42,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-nm,4372,0,0,1105,0,0,4413,4372,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-oxygen,808,0,0,295,0,0,804,808,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-pa,171,0,0,72,0,0,171,171,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-pk-updates,2081,0,0,400,0,0,2297,2081,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-sdk,854,0,0,250,0,0,841,854,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-systemsettings,224,0,0,55,0,0,214,224,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-user-manager,295,0,0,49,0,0,280,295,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-vault,518,0,0,62,0,0,536,518,100.0,Dutch <kde-i18n-nl@kde.org>
+plasma-workspace,7054,0,0,2254,0,0,6783,7054,100.0,Dutch <kde-i18n-nl@kde.org>
+playonlinux,2728,0,0,449,0,0,2754,2728,100.0,nl_NL.UTF-8 <LL@li.org>
+pluma,5068,0,0,1108,0,0,4905,5068,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+plymouth-kcm,122,0,0,24,0,0,123,122,100.0,Dutch <kde-i18n-nl@kde.org>
+pmount,723,0,0,63,0,0,708,723,100.0,Dutch <nl@li.org>
+pnmixer,358,0,0,108,0,0,321,358,100.0,Dutch <vertaling@vrijschrift.org>
+po4a,1854,0,0,195,0,0,2027,1854,100.0,Dutch <https://hosted.weblate.org/projects/po4a/po4a/nl/>
+poedit,2639,0,0,591,0,0,2624,2639,100.0,Dutch
+pogo,543,0,33,95,0,6,572,576,94.27083333333334,Dutch <nl@li.org>
+polari,790,0,0,180,0,0,852,790,100.0,Dutch <gnome-nl-list@gnome.org>
+policycoreutils,1378,96,6204,240,31,807,1464,7678,17.94738213076322,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+polkit-gnome,94,0,0,16,0,0,96,94,100.0,Dutch <gnome-nl-list@gnome.org>
+polkit-kde,92,0,0,28,0,0,95,92,100.0,Dutch <kde-i18n-nl@kde.org>
+popt,78,0,6,29,0,2,88,84,92.85714285714286,Dutch <vertaling@vrijschrift.org>
+postgresql-jdbc,68,339,1849,7,43,228,75,2256,3.0141843971631204,Dutch <ajkuiper@wxs.nl>
+poweradmin,2088,0,0,278,0,0,2022,2088,100.0,Dutch (http://www.transifex.com/projects/p/poweradmin/language/nl/)
+powerdevil,673,0,0,120,0,0,711,673,100.0,Dutch <kde-i18n-nl@kde.org>
+powertop,54,19,598,22,8,161,52,671,8.047690014903129,Dutch (Netherlands) (http://www.transifex.com/projects/p/PowerTOP/language/nl_NL/)
+pragha,750,0,140,244,0,32,769,890,84.26966292134831,Dutch (http://www.transifex.com/p/Pragha/language/nl/)
+printrun,293,293,2008,80,78,320,287,2594,11.295296838858905,NL <LL@li.org>
+prozilla,0,0,0,0,0,0,0,0,0.0,
+psmisc,646,346,0,80,5,0,678,992,65.12096774193549,Dutch <vertaling@vrijschrift.org>
+pspp,10371,9,0,2006,2,0,10134,10380,99.91329479768785,Dutch <vertaling@vrijschrift.org>
+publican,1726,66,3651,123,2,491,1887,5443,31.710453793863678,Fedora
+publican-fedora,7,0,100,2,0,6,7,107,6.5420560747663545,Fedora
+pulseaudio,2011,951,342,407,43,46,1932,3304,60.865617433414045,Dutch <vertaling@vrijschrift.org>
+pulsecaster,98,2,47,13,1,6,116,147,66.66666666666666,nl <LL@li.org>
+purple-telegram,644,0,0,123,0,0,625,644,100.0,Dutch (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/nl/)
+pybliographer,939,0,0,255,0,0,943,939,100.0,Dutch <vertaling@vrijschrift.org>
+pychess,762,0,3693,290,0,589,767,4455,17.104377104377104,Dutch (http://www.transifex.com/gbtami/pychess/language/nl/)
+pyhoca-gui,1838,0,0,398,0,0,1938,1838,100.0,X2Go i18n <x2go-i18n@lists.x2go.org>
+pykickstart,1437,0,0,159,0,0,1480,1437,100.0,Dutch (http://www.transifex.com/projects/p/pykickstart/language/nl/)
+pyroom,258,0,153,53,0,21,260,411,62.77372262773723,Dutch <nl@li.org>
+python-blivet,692,0,0,97,0,0,708,692,100.0,Dutch (http://www.transifex.com/projects/p/blivet/language/nl/)
+python-blivet1,707,0,0,132,0,0,724,707,100.0,Dutch
+python-caja,6,0,0,2,0,0,6,6,100.0,Dutch (https://www.transifex.com/mate/teams/13566/nl/)
+python-colander,155,18,0,29,4,0,161,173,89.59537572254335,nl <LL@li.org>
+python-django,3616,0,0,825,0,0,3671,3616,100.0,Dutch (http://www.transifex.com/django/django/language/nl/)
+python-django-avatar,119,0,0,21,0,0,102,119,100.0,LANGUAGE <LL@li.org>
+python-django-countries,439,0,0,264,0,0,355,439,100.0,Dutch (http://www.transifex.com/smileychris/django-countries/language/nl/)
+python-django-debug-toolbar,137,0,220,74,0,63,138,357,38.37535014005603,Dutch (http://www.transifex.com/projects/p/django-debug-toolbar/language/nl/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Dutch (http://www.transifex.com/projects/p/django-formtools/language/nl/)
+python-django-openstack-auth,44,0,0,10,0,0,55,44,100.0,Dutch (Netherlands)
+python-django-registration,81,0,0,15,0,0,88,81,100.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,569,0,13,98,0,3,571,582,97.76632302405498,Dutch (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/nl/)
+python-django-reversion,118,0,1,21,0,1,113,119,99.15966386554622,Dutch
+python-django-robots,211,0,1,17,0,1,194,212,99.52830188679245,Dutch (http://www.transifex.com/projects/p/django-robots/language/nl/)
+python-django-simple-captcha,11,0,0,3,0,0,14,11,100.0,Leon de Rijke <leon@cmsworks.nl>
+python-django-tables2,13,0,0,7,0,0,13,13,100.0,Dutch <nl@li.org>
+python-fedora,214,0,0,29,0,0,220,214,100.0,Dutch (http://www.transifex.com/projects/p/python-fedora/language/nl/)
+python-flask-admin,321,0,40,98,0,11,363,361,88.9196675900277,Dutch
+python-formencode,780,30,3,110,3,2,720,813,95.9409594095941,nl <LL@li.org>
+python-lettuce,7211,0,0,2285,0,0,7176,7211,100.0,
+python-meh,109,0,0,23,0,0,118,109,100.0,Dutch (http://www.transifex.com/projects/p/python-meh/language/nl/)
+python-rpm-generators,162,1,4245,63,1,788,155,4408,3.6751361161524496,Dutch (http://www.transifex.com/rpm-team/rpm/language/nl/)
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Dutch
+python-sphinx,1199,0,0,269,0,0,1196,1199,100.0,Dutch (http://www.transifex.com/sphinx-doc/sphinx-1/language/nl/)
+python-uranium,604,0,0,153,0,0,580,604,100.0,"Ultimaker <info@ultimaker.com>, Bothof <info@bothof.nl>"
+python-uranium-lulzbot,404,0,0,118,0,0,398,404,100.0,Ultimaker <info@ultimaker.com>
+python-wxpython4,7565,63,67,1764,43,46,7497,7695,98.31059129304744,wxWidgets translators <wx-translators@wxwidgets.org>
+qalculate-gtk,2163,182,371,699,46,44,2163,2716,79.63917525773195,<kde-i18n-nl@kde.org.>
+qalculate-kde,1420,0,0,596,0,0,1451,1420,100.0,<kde-i18n-nl@kde.org.>
+qt-recordmydesktop,816,0,0,104,0,0,786,816,100.0,Dutch
+qt5-qtwebengine,258,0,0,49,0,0,270,258,100.0,Dutch <vertaling@nl.linux.org>
+qtwebkit,1404,0,0,325,0,0,1286,1404,100.0,Dutch <vertaling@vrijschrift.org>
+quadrapassel,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+quassel,4332,0,1090,1021,0,204,4175,5422,79.89671707856878,Dutch (http://www.transifex.com/ald/quassel/language/nl/)
+quodlibet,4631,466,619,1151,121,105,4498,5716,81.01819454163751,Nederlands <en@li.org>
+rabbitvcs,1480,0,44,470,0,2,1424,1524,97.11286089238845,Dutch <vertaling@vrijschrift.org>
+radiotray,70,0,60,29,0,17,61,130,53.84615384615385,Dutch (http://www.transifex.com/projects/p/radiotray/language/nl/)
+rapid-photo-downloader,1830,0,2,408,0,1,1891,1832,99.89082969432314,Dutch <nl@li.org>
+rawstudio,1617,0,0,503,0,0,1572,1617,100.0,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,0,0,789,0,0,127,0,789,0.0,Dutch (http://www.transifex.com/freedesktop/realmd/language/nl/)
+recode,221,154,454,20,16,43,226,829,26.658624849215922,Dutch <nl@li.org>
+recutils,1867,0,0,209,0,0,1853,1867,100.0,Dutch <vertaling@vrijschrift.org>
+redhat-menus,261,0,0,86,0,0,228,261,100.0,Dutch <vertaling@nl.linux.org>
+rednotebook,976,0,171,214,0,26,1045,1147,85.09154315605929,Dutch <nl@li.org>
+redshift,819,0,207,122,0,29,834,1026,79.82456140350878,Dutch <nl@li.org>
+regexxer,466,0,1,99,0,1,457,467,99.78586723768737,Dutch <vertaling@nl.linux.org>
+rekonq,2202,0,0,593,0,0,2195,2202,100.0,Dutch <kde-i18n-nl@kde.org>
+remmina,770,0,1365,227,0,304,843,2135,36.0655737704918,Nederlands <>
+renameutils,265,0,0,54,0,0,306,265,100.0,Dutch <vertaling@vrijschrift.org>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Dutch
+revelation,620,0,1325,185,0,217,628,1945,31.876606683804624,Dutch (http://www.transifex.com/projects/p/revelation/language/nl/)
+rhn-client-tools,2701,147,1209,365,8,47,2832,4057,66.57628789746117,Dutch (http://www.transifex.com/projects/p/spacewalk/language/nl/)
+rhnsd,24,9,0,7,2,0,24,33,72.72727272727273,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+rhythmbox,3764,0,0,978,0,0,3845,3764,100.0,Dutch <gnome-nl-list@gnome.org>
+ristretto,761,0,0,198,0,0,792,761,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+rkward,34404,0,0,3891,0,0,34952,34404,100.0,Dutch <kde-i18n-nl@kde.org>
+rocs,1376,0,0,283,0,0,1424,1376,100.0,Dutch <kde-i18n-nl@kde.org>
+rpm,162,3,4285,63,2,799,155,4450,3.640449438202247,Dutch (http://www.transifex.com/rpm-team/rpm/language/nl/)
+rsibreak,1098,0,0,153,0,0,1063,1098,100.0,Dutch <kde-i18n-nl@kde.org>
+rt,4324,0,7084,1134,0,1444,4707,11408,37.903225806451616,Dutch <nl@li.org>
+rygel,1624,0,0,303,0,0,1597,1624,100.0,Dutch <gnome-nl-list@gnome.org>
+samba,187,67,270,31,18,79,185,524,35.68702290076336,Novell Language <language@novell.com>
+sane-backends,5623,19,0,1175,5,0,5862,5642,99.66323998582062,English <kde-i18n-doc@kde.org>
+sawfish,2370,1501,2572,539,249,194,2298,6443,36.78410678255471,Dutch <nl@li.org>
+scim,29405,520,2393,7192,45,667,25798,32318,90.98644718113744,Dutch <kde-i18n-doc@kde.org>
+scim-array,79,6,19,17,1,7,75,104,75.96153846153845,Nederlands
+scim-chewing,301,7,0,62,2,0,296,308,97.72727272727273,Nederlands
+scim-hangul,77,51,86,23,5,12,91,214,35.981308411214954,Nederlands
+scim-pinyin,204,430,0,58,28,0,257,634,32.17665615141956,Nederlands
+scim-tables,1040,115,0,167,4,0,1067,1155,90.04329004329004,Nederlands
+scratch,1463,0,7,621,0,5,1407,1470,99.52380952380952,Dutch <vertaling@vrijschrift.org>
+scratch-text-editor,568,0,322,174,0,39,740,890,63.82022471910113,Dutch <nl@li.org>
+screenshot-tool,93,0,53,33,0,11,106,146,63.6986301369863,Dutch <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/nl/>
+scummvm,4646,0,0,960,0,0,4661,4646,100.0,Dutch <https://translations.scummvm.org/projects/scummvm/scummvm/nl/>
+sddm-kcm,104,0,0,43,0,0,105,104,100.0,Dutch <kde-i18n-nl@kde.org>
+seahorse,2494,0,0,572,0,0,2438,2494,100.0,Dutch <vertaling@vrijschrift.org>
+seahorse-caja,411,10,0,109,1,0,402,421,97.62470308788599,Dutch <vertaling@vrijschrift.org>
+seahorse-nautilus,411,10,0,109,1,0,402,421,97.62470308788599,Dutch <vertaling@vrijschrift.org>
+sed,810,0,0,141,0,0,845,810,100.0,Dutch <vertaling@vrijschrift.org>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+setroubleshoot,661,0,0,181,0,0,664,661,100.0,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+setroubleshoot-plugins,6208,0,0,221,0,0,6359,6208,100.0,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+setuptool,55,0,0,14,0,0,58,55,100.0,Fedora
+sflphone,2259,0,908,703,0,110,2262,3167,71.32933375434165,LANGUAGE <LL@li.org>
+shadow-utils,3718,258,85,555,31,10,3999,4061,91.55380448165477,Debian Dutch l10n Team <debian-l10n-dutch@lists.debian.org>
+shared-mime-info,1618,0,297,638,0,105,1018,1915,84.49086161879895,Dutch (http://www.transifex.com/freedesktop/shared-mime-info/language/nl/)
+sharutils,2190,243,714,283,7,14,2103,3147,69.59008579599619,Dutch <vertaling@vrijschrift.org>
+shotwell,4483,0,0,942,0,0,4471,4483,100.0,"Dutch <vertaling@vrijschrift.org>
+nl/)"
+shutter,3093,0,0,606,0,0,3321,3093,100.0,Dutch <nl@li.org>
+simon,7833,0,3983,2066,0,385,7777,11816,66.2914691943128,Dutch <kde-i18n-nl@kde.org>
+simple-ccsm,11,4,80,9,1,13,11,95,11.578947368421053,Dutch <nl@li.org>
+simple-scan,848,0,1355,193,0,111,962,2203,38.49296413980935,Dutch <nl@li.org>
+simsu,81,0,0,4,0,0,77,81,100.0,Dutch (http://www.transifex.com/gottcode/simsu/language/nl/)
+skanlite,183,0,0,63,0,0,190,183,100.0,Dutch <kde-i18n-nl@kde.org>
+skrooge,11557,0,0,2416,0,0,11670,11557,100.0,Dutch <kde-i18n-nl@kde.org>
+skychart,6506,21,91,1899,4,39,6331,6618,98.30764581444545,LazPaint
+sleuthkit,6687,264,10,1172,1,1,6061,6961,96.0637839390892,Dutch <vertaling@vrijschrift.org>
+slick-greeter,211,0,0,47,0,0,197,211,100.0,Dutch <nl@li.org>
+slingshot-launcher,217,0,0,68,0,0,238,217,100.0,Dutch <https://weblate.elementary.io/projects/wingpanel/applications-menu/nl/>
+slrn,4678,394,279,866,42,42,4849,5351,87.42291160530742,Dutch <nl@li.org>
+smb4k,6557,0,0,733,0,0,6807,6557,100.0,Dutch <kde-i18n-nl@kde.org>
+smuxi,2476,0,0,556,0,0,2548,2476,100.0,Dutch (http://www.transifex.com/projects/p/smuxi/language/nl/)
+snap-photobooth,1,0,24,1,0,4,6,25,4.0,Dutch <nl@li.org>
+snapper,743,0,0,180,0,0,742,743,100.0,Dutch <http://10n.opensuse.org/projects/snapper/master/nl/>
+snownews,791,0,0,163,0,0,864,791,100.0,Dutch <nl@li.org>
+solfege,10082,0,0,1348,0,0,9671,10082,100.0,Dutch <vertaling@vrijschrift.org>
+sos,54,33,35,11,7,12,63,122,44.26229508196721,Fedora
+sound-juicer,1291,0,4632,238,0,112,1317,5923,21.796386966064492,Dutch <vertaling@vrijschrift.org>
+soundconverter,388,0,0,121,0,0,384,388,100.0,Dutch <vertaling@vrijschrift.org>
+soundkonverter,4003,0,59,559,0,11,3718,4062,98.54751354012802,Dutch (http://www.transifex.com/hessijames/soundkonverter/language/nl/)
+spacefm,2426,57,6239,631,10,927,2358,8722,27.814721394175645,Dutch (http://www.transifex.com/projects/p/spacefm/language/nl/)
+sparkleshare,402,0,0,87,0,0,398,402,100.0,
+spectacle,511,0,0,91,0,0,532,511,100.0,Dutch <kde-i18n-nl@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Dutch (Netherlands) (http://www.transifex.com/heldercorreia/speedcrunch/language/nl_NL/)
+squirrelmail,14671,0,0,2527,0,0,14321,14671,100.0,Dutch <squirrelmail-i18n@lists.sourceforge.net>
+sscg,84,0,10,31,0,3,94,94,89.36170212765957,Dutch <vertaling@vrijschrift.org>
+sssd,2816,14,32957,446,7,2567,2963,35787,7.8687791656188,Dutch (http://www.transifex.com/projects/p/sssd/language/nl/)
+stardict,1290,1870,7918,172,230,797,1202,11078,11.644701209604621,LANGUAGE <LL@li.org>
+steadyflow,423,0,47,88,0,5,465,470,90.0,Dutch <nl@li.org>
+stellarium,29575,0,37465,7158,0,19073,28713,67040,44.11545346062052,Dutch (https://www.transifex.com/stellarium/teams/80998/nl/)
+step,1905,0,0,675,0,0,1992,1905,100.0,Dutch <kde-i18n-nl@kde.org>
+subdownloader,968,0,0,272,0,0,1103,968,100.0,LANGUAGE <LL@li.org>
+subtitleeditor,348,573,896,164,196,186,330,1817,19.15244909190974,Dutch <LL@li.org>
+sudo,3508,95,259,527,14,28,3421,3862,90.83376488865873,Dutch <vertaling@vrijschrift.org>
+sugar,2219,0,0,508,0,0,2138,2219,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,34,0,0,25,0,0,34,34,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,189,0,0,52,0,0,200,189,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,887,871,100.0,English
+sugar-chat,137,0,0,81,0,0,137,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,59,7,0,20,1,0,56,66,89.39393939393939,LANGUAGE <LL@li.org>
+sugar-connect,36,0,0,9,0,0,49,36,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,109,0,0,23,0,0,111,109,100.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,108,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,189,0,0,40,0,0,187,189,100.0,LANGUAGE <LL@li.org>
+sugar-flip,17,0,0,7,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,77,0,0,33,0,0,79,77,100.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,68,0,0,23,0,0,69,68,100.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,119,0,0,33,0,0,120,119,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,52,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,87,77,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,236,0,0,62,0,0,244,236,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,72,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,281,0,0,94,0,0,279,281,100.0,LANGUAGE <LL@li.org>
+sugar-locosugar,74,0,0,12,0,0,75,74,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,99,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,154,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,140,142,100.0,LANGUAGE <LL@li.org>
+sugar-moon,117,0,0,33,0,0,117,117,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,192,0,0,91,0,0,175,192,100.0,LANGUAGE <LL@li.org>
+sugar-paint,96,0,0,55,0,0,97,96,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,51,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,105,109,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,85,0,0,30,0,0,98,85,100.0,LANGUAGE <LL@li.org>
+sugar-portfolio,60,0,0,21,0,0,56,60,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,11,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,142,137,100.0,LANGUAGE <LL@li.org>
+sugar-recall,47,0,0,9,0,0,44,47,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,64,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,29,0,0,8,0,0,29,29,100.0,Dutch
+sugar-speak,227,0,0,74,0,0,235,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,25,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,118,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,73,0,0,37,0,0,72,73,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,0,109,0,0,154,156,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1574,0,0,478,0,0,1563,1574,100.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,599,0,0,127,0,0,588,599,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,161,0,0,79,0,0,155,161,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,121,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,26,29,100.0,LANGUAGE <LL@li.org>
+sugar-yupana,30,0,0,16,0,0,30,30,100.0,LANGUAGE <LL@li.org>
+supertux,2980,0,0,918,0,0,2983,2980,100.0,Dutch (http://www.transifex.com/arctic-games/supertux/language/nl/)
+supertuxkart,3361,0,0,752,0,0,3262,3361,100.0,Dutch (http://www.transifex.com/supertuxkart/supertuxkart/language/nl/)
+sushi,24,0,0,11,0,0,26,24,100.0,Dutch <vertaling@vrijschrift.org>
+svgpart,22,0,0,7,0,0,23,22,100.0,Dutch <kde-i18n-nl@kde.org>
+sweeper,229,0,0,50,0,0,237,229,100.0,Dutch <kde-i18n-nl@kde.org>
+swell-foop,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+switchboard,58,0,3,16,0,2,58,61,95.08196721311475,Dutch <https://l10n.elementary.io/projects/switchboard/switchboard/nl/>
+switchboard-plug-a11y,182,5,2,65,2,1,155,189,96.29629629629629,Dutch <http://weblate.elementary.io/projects/desktop/switchboard-plug-a11y/nl/>
+switchboard-plug-about,78,0,39,25,0,12,70,117,66.66666666666666,Dutch <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/nl/>
+switchboard-plug-applications,85,0,6,29,0,2,78,91,93.4065934065934,Dutch <http://weblate.elementary.io/projects/desktop/switchboard-plug-applications/nl/>
+switchboard-plug-bluetooth,33,0,40,17,0,10,32,73,45.20547945205479,Dutch <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/nl/>
+switchboard-plug-display,47,0,57,22,0,19,51,104,45.19230769230769,Dutch <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/nl/>
+switchboard-plug-keyboard,353,0,50,139,0,17,353,403,87.59305210918114,Dutch <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/nl/>
+switchboard-plug-mouse-touchpad,52,0,15,25,0,2,55,67,77.61194029850746,Dutch <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/nl/>
+switchboard-plug-networking,442,0,0,128,0,0,445,442,100.0,Dutch <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/nl/>
+switchboard-plug-notifications,131,0,8,18,0,2,122,139,94.24460431654677,Dutch <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/nl/>
+switchboard-plug-onlineaccounts,115,0,46,31,0,18,128,161,71.42857142857143,Dutch <nl@li.org>
+switchboard-plug-pantheon-shell,121,2,21,44,1,8,120,144,84.02777777777779,Dutch <http://weblate.elementary.io/projects/desktop/switchboard-plug-pantheon-shell/nl/>
+switchboard-plug-printers,268,0,68,112,0,26,275,336,79.76190476190477,Dutch <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/nl/>
+switchboard-plug-sound,88,0,2,36,0,1,74,90,97.77777777777777,Dutch <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/nl/>
+switchdesk,139,0,0,20,0,0,139,139,100.0,Dutch <fedora-trans-list@redhat.com>
+sylpheed,6826,243,70,1719,35,17,6991,7139,95.61563244151841,
+synapse,414,0,410,129,0,98,438,824,50.24271844660194,Dutch <nl@li.org>
+synaptic,3116,98,17,646,12,4,3056,3231,96.44073042401733,Dutch <vertaling@vrijschrift.org>
+syncevolution,1132,0,0,163,0,0,1089,1132,100.0,Dutch (http://www.transifex.net/projects/p/meego/team/nl/)
+syncthing-gtk,1093,0,708,268,0,74,1075,1801,60.688506385341476,Dutch (http://www.transifex.com/syncthing-gtk/syncthing-gtk/language/nl/)
+synfig,3853,11,832,1003,4,171,4092,4696,82.04855195911414,Dutch (http://www.transifex.com/morevnaproject/synfig/language/nl/)
+synfigstudio,1859,0,4705,753,0,814,1763,6564,28.321145642900667,Dutch (http://www.transifex.com/morevnaproject/synfig/language/nl/)
+sysstat,702,0,0,76,0,0,665,702,100.0,Dutch <vertaling@vrijschrift.org>
+system-config-bind,9419,0,0,1064,0,0,9724,9419,100.0,nl <nl@li.org>
+system-config-firewall,2814,0,0,331,0,0,3048,2814,100.0,Fedora
+system-config-httpd,867,0,0,220,0,0,916,867,100.0,Fedora
+system-config-kdump,866,0,11,151,0,5,920,877,98.74572405929305,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+system-config-keyboard,187,0,0,81,0,0,184,187,100.0,Fedora
+system-config-kickstart,1144,0,0,253,0,0,1192,1144,100.0,Dutch (http://www.transifex.com/projects/p/system-config-kickstart/language/nl/)
+system-config-language,197,0,0,29,0,0,205,197,100.0,Fedora
+system-config-printer,3150,9,1,747,7,1,3102,3160,99.68354430379746,Dutch (http://www.transifex.com/projects/p/system-config-printer/language/nl/)
+system-config-rootpassword,116,0,0,19,0,0,113,116,100.0,Dutch <fedora-trans-list@redhat.com>
+system-config-users,1436,0,85,172,0,8,1529,1521,94.41157133464826,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+system-config-users-docs,1061,0,0,82,0,0,1185,1061,100.0,Fedora
+system-switch-java,81,0,0,11,0,0,88,81,100.0,Fedora
+system-switch-mail,158,0,0,24,0,0,173,158,100.0,<nl@li.org>
+tagtool,324,0,634,132,0,79,324,958,33.82045929018789,Dutch <vertaling@vrijschrift.org>
+tali,4683,0,0,987,0,0,4704,4683,100.0,Dutch <vertaling@vrijschrift.org>
+tanglet,128,0,0,6,0,0,114,128,100.0,Dutch (http://www.transifex.com/gottcode/tanglet/language/nl/)
+tar,3594,0,26,587,0,3,3762,3620,99.2817679558011,Dutch <vertaling@vrijschrift.org>
+tellico,5626,0,0,1186,0,0,5323,5626,100.0,Dutch <kde-i18n-nl@kde.org>
+terminator,1158,0,252,354,0,63,1129,1410,82.12765957446808,LANGUAGE <LL@li.org>
+texi2html,1017,384,595,98,67,168,955,1996,50.95190380761523,Dutch <guido@imperia.net>
+texinfo,5957,0,0,861,0,0,5829,5957,100.0,Dutch <vertaling@vrijschrift.org>
+texlive,1229,0,0,306,0,0,1224,1229,100.0,TL Translation Team <tex-live@tug.org>
+thunar-archive-plugin,86,0,0,13,0,0,92,86,100.0,Dutch (Flemish)
+thunar-media-tags-plugin,156,0,0,58,0,0,156,156,100.0,Dutch (Flemish)
+thunar-vcs-plugin,595,0,0,320,0,0,569,595,100.0,Dutch (http://www.transifex.com/projects/p/thunar-plugins/language/nl/)
+thunar-vfs,341,0,46,67,0,19,339,387,88.11369509043928,Dutch <xfce-i18n@xfce.org>
+thunar-volman,487,0,0,113,0,0,471,487,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+tigervnc,616,0,0,141,0,0,608,616,100.0,Dutch <vertaling@vrijschrift.org>
+tiled,29,0,20849,4,0,1337,27,20878,0.13890219369671425,Dutch <https://hosted.weblate.org/projects/tiled/documentation-index/nl/>
+tilix,1981,0,0,585,0,0,1981,1981,100.0,Dutch <https://hosted.weblate.org/projects/tilix/translations/nl/>
+timeshift,3015,14,22,585,5,4,3137,3051,98.82005899705014,Dutch <nl@li.org>
+tomboy,3278,0,0,471,0,0,3276,3278,100.0,Dutch <vertaling@vrijschrift.org>
+torbrowser-launcher,124,2,174,27,1,25,132,300,41.333333333333336,
+tortoisehg,9979,0,3005,2021,0,365,10551,12984,76.85613062230438,Dutch <nl@li.org>
+totem,1327,0,0,389,0,0,1257,1327,100.0,Dutch <gnome-nl-list@gnome.org>
+totem-pl-parser,28,0,0,7,0,0,27,28,100.0,Dutch <vertaling@vrijschrift.org>
+trac,5041,669,7437,1079,115,279,4864,13147,38.343348292386096,nl <LL@li.org>
+trac-accountmanager-plugin,488,0,720,94,0,110,474,1208,40.397350993377486,Dutch <trac-dev@googlegroups.com>
+tracker,2211,0,0,369,0,0,2182,2211,100.0,Dutch <gnome-nl-list@gnome.org>
+tracker-miners,827,0,0,118,0,0,858,827,100.0,Dutch <gnome-nl-list@gnome.org>
+transmission,1809,0,0,494,0,0,2037,1809,100.0,Ubuntu Dutch Translators
+trojita,4388,0,0,893,0,0,4672,4388,100.0,Dutch <kde-i18n-nl@kde.org>
+tryton,1043,317,214,261,74,86,1047,1574,66.26429479034307,
+trytond,964,338,1346,474,224,509,937,2648,36.40483383685801,
+trytond-account,1090,368,1285,534,265,421,950,2743,39.73751367116296,
+trytond-account-invoice,239,86,703,148,65,159,190,1028,23.249027237354085,
+trytond-account-invoice-history,0,0,2,0,0,1,0,2,0.0,
+trytond-account-invoice-line-standalone,0,4,6,0,2,2,0,10,0.0,
+trytond-account-product,105,121,70,37,27,31,95,296,35.47297297297297,
+trytond-account-statement,59,49,123,44,43,40,51,231,25.541125541125542,
+trytond-account-stock-anglo-saxon,0,26,48,0,2,10,0,74,0.0,
+trytond-account-stock-continental,0,144,181,0,22,47,0,325,0.0,
+trytond-analytic-account,0,56,128,0,45,50,0,184,0.0,
+trytond-analytic-invoice,0,0,13,0,0,3,0,13,0.0,
+trytond-analytic-purchase,0,0,22,0,0,4,0,22,0.0,
+trytond-analytic-sale,0,0,13,0,0,3,0,13,0.0,
+trytond-calendar,0,38,583,0,36,247,0,621,0.0,
+trytond-calendar-classification,0,0,2,0,0,2,0,2,0.0,
+trytond-calendar-scheduling,0,2,98,0,2,48,0,100,0.0,
+trytond-sale,246,71,219,140,44,82,234,536,45.8955223880597,
+trytond-sale-opportunity,0,82,238,0,72,102,0,320,0.0,
+trytond-sale-price-list,0,0,5,0,0,2,0,5,0.0,
+trytond-stock,0,206,997,0,201,362,0,1203,0.0,
+trytond-stock-forecast,0,34,140,0,27,54,0,174,0.0,
+trytond-stock-inventory-location,0,3,14,0,3,8,0,17,0.0,
+trytond-stock-location-sequence,0,1,0,0,1,0,0,1,0.0,
+trytond-stock-product-location,0,4,19,0,4,10,0,23,0.0,
+trytond-stock-supply,0,9,138,0,8,50,0,147,0.0,
+trytond-stock-supply-day,0,2,25,0,2,16,0,27,0.0,
+trytond-timesheet,111,58,109,54,30,47,108,278,39.92805755395683,
+tumbler,241,0,0,39,0,0,253,241,100.0,Dutch (http://www.transifex.com/xfce/tumbler/language/nl/)
+tuxmath,238,115,1102,71,13,165,235,1455,16.3573883161512,Dutch <LL@li.org>
+tuxpaint,1591,0,0,291,0,0,1689,1591,100.0,Dutch <vertaling@vrijschrift.org>
+tuxtype2,49,20,11,28,3,9,45,80,61.25000000000001,LANGUAGE <LL@li.org>
+tvtime,347,157,718,123,35,88,303,1222,28.39607201309329,Dutch <nl@li.org>
+udisks2,2009,0,0,491,0,0,2169,2009,100.0,Dutch
+ufraw,2062,98,12,411,12,2,2007,2172,94.93554327808471,American English <kde-i18n-doc@kde.org>
+ufw,879,0,0,181,0,0,876,879,100.0,Dutch <nl@li.org>
+ufw-kde,815,0,0,190,0,0,865,815,100.0,Dutch <kde-i18n-nl@kde.org>
+ultimatestunts,590,0,0,152,0,0,566,590,100.0,Dutch <cornware-cjp@users.sourceforge.net>
+umbrello,4934,0,0,1402,0,0,4836,4934,100.0,Dutch <kde-i18n-nl@kde.org>
+unetbootin,3159,0,0,178,0,0,3176,3159,100.0,LANGUAGE <LL@li.org>
+unixcw,85,0,0,6,0,0,88,85,100.0,Debian l10n Dutch <debian-l10n-dutch@lists.debian.org>
+usermode,573,0,0,96,0,0,567,573,100.0,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+util-linux,19858,1389,1732,3625,229,180,19770,22979,86.41803385699987,Dutch <vertaling@vrijschrift.org>
+valyriatear,9867,0,0,1520,0,0,9901,9867,100.0,Dutch (Netherlands) (http://www.transifex.com/projects/p/valyria-tear/language/nl_NL/)
+vdr,1355,0,14,514,0,6,1233,1369,98.97735573411249,Dutch <vdr@linuxtv.org>
+vdr-epgsearch,2189,116,114,346,22,20,2101,2419,90.49193881769327,Dutch <vdr@linuxtv.org>
+vdr-iptv,191,0,0,32,0,0,154,191,100.0,Dutch <vdr@linuxtv.org>
+vdr-live,60,52,802,26,21,264,63,914,6.564551422319474,see developers in README
+vdr-skinenigmang,267,13,54,108,4,22,227,334,79.94011976047905,<vdr@linuxtv.org>
+viewnior,375,0,50,121,0,23,373,425,88.23529411764706,Dutch <nl@li.org>
+viking,675,0,3460,189,0,867,735,4135,16.324062877871825,Dutch <nl@li.org>
+vim,5623,0,0,1213,0,0,5662,5623,100.0,Dutch <vertaling@vrijschrift.nl>
+vinagre,1510,0,0,277,0,0,1549,1510,100.0,Dutch <vertaling@vrijschrift.org>
+vino,1228,0,0,134,0,0,1280,1228,100.0,Dutch <vertaling@nl.linux.org>
+virt-manager,4270,67,4027,1012,14,710,4613,8364,51.0521281683405,Dutch (http://www.transifex.com/projects/p/virt-manager/language/nl/)
+virt-top,361,0,0,77,0,0,374,361,100.0,Dutch <>
+virt-viewer,452,0,332,95,0,74,482,784,57.6530612244898,Dutch (http://www.transifex.com/projects/p/virt-viewer/language/nl/)
+virtaal,1433,0,0,426,0,0,1393,1433,100.0,TOMTT (Tom's One-Man Translation Team)
+virtualplanet,339,24,128,181,12,62,325,491,69.04276985743381,Français <kde-i18n-doc@kde.org>
+visualboyadvance-m,554,0,1704,139,0,688,589,2258,24.53498671390611,Dutch (http://www.transifex.com/projects/p/vba-m/language/nl/)
+vocal,340,0,37,72,0,7,353,377,90.18567639257294,Dutch <nl@li.org>
+volume_key,745,10,8,151,2,1,817,763,97.64089121887287,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+vorbis-tools,3820,280,9,471,29,1,3685,4109,92.9666585543928,Dutch <vertaling@vrijschrift.org>
+vrms-rpm,27,0,0,25,0,0,324,27,100.0,
+vte,80,0,0,13,0,0,94,80,100.0,Dutch <vertaling@nl.linux.org>
+vte291,31,0,0,5,0,0,39,31,100.0,Dutch <gnome-nl-list@gnome.org>
+vte3,80,0,0,13,0,0,94,80,100.0,Dutch <vertaling@nl.linux.org>
+wammu,5040,206,44,897,17,9,4993,5290,95.27410207939508,Dutch <https://hosted.weblate.org/projects/gammu/wammu-doc/nl/>
+warmux,1630,384,730,291,76,105,1641,2744,59.40233236151603,Dutch <nl@li.org>
+warzone2100,12602,294,403,2688,77,87,12148,13299,94.7590044364238,Dutch <vertaling@vrijschrift.org>
+wastesedge,20101,0,0,1211,0,0,20524,20101,100.0,Dutch <vertaling@vrijschrift.org>
+watchdog,97,0,0,6,0,0,99,97,100.0,debian-l10n-dutch <debian-l10n-dutch@lists.debian.org>
+wcd,8027,25,17,651,2,4,7842,8069,99.47948940389144,Dutch <vertaling@vrijschrift.org>
+wdiff,993,0,0,150,0,0,1007,993,100.0,Dutch <vertaling@vrijschrift.org>
+webkitgtk4,2407,161,131,533,27,26,2219,2699,89.18117821415339,Dutch <vertaling@vrijschrift.org>
+wesnoth,107545,61976,107084,8146,3230,6053,107103,276605,38.880352849731565,Dutch <AI0867@gmail.com>
+wget,3097,450,386,530,63,42,3146,3933,78.74396135265701,Dutch <vertaling@vrijschrift.org>
+wicd,1138,0,0,254,0,0,1089,1138,100.0,nl <LL@li.org>
+wicd-kde,358,0,0,122,0,0,371,358,100.0,Dutch <kde-i18n-nl@kde.org>
+widelands,32145,0,8718,2982,0,788,31892,40863,78.66529623375669,Dutch (http://www.transifex.com/widelands/widelands/language/nl/)
+wine,12574,2094,1089,3116,223,153,12208,15757,79.79945421082694,Dutch
+wingpanel,8,0,0,2,0,0,5,8,100.0,Dutch <http://weblate.elementary.io/projects/desktop/wingpanel/nl/>
+wingpanel-applications-menu,217,0,8,68,0,4,238,225,96.44444444444444,Dutch <https://weblate.elementary.io/projects/wingpanel/applications-menu/nl/>
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,18,15,100.0,Dutch <http://weblate.elementary.io/projects/desktop/wingpanel-indicator-bluetooth/nl/>
+wingpanel-indicator-datetime,20,0,0,6,0,0,18,20,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,10,0,0,4,0,0,7,10,100.0,Dutch <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/nl/>
+wingpanel-indicator-network,70,0,6,19,0,3,62,76,92.10526315789474,Dutch <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/nl/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,13,16,100.0,Dutch <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/nl/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,14,16,100.0,Dutch <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/nl/>
+wingpanel-indicator-power,89,0,4,24,0,3,89,93,95.6989247311828,Dutch <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/nl/>
+wingpanel-indicator-session,54,0,3,17,0,1,46,57,94.73684210526315,Dutch <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-session/nl/>
+wingpanel-indicator-sound,14,0,0,6,0,0,14,14,100.0,LANGUAGE <LL@li.org>
+wireshark,79,0,179,4,0,12,79,258,30.620155038759687,Dutch (https://www.transifex.com/wireshark/teams/36457/nl/)
+workrave,1321,0,0,262,0,0,1313,1321,100.0,Raymond Penners <raymond@dotsphinx.com>
+wput,1021,21,21,131,2,2,1084,1063,96.04891815616182,Dutch <nl@li.org>
+wxGTK,6679,0,0,1523,0,0,6618,6679,100.0,wxWidgets translators <wx-translators@wxwidgets.org>
+wxGTK3,7565,63,67,1764,43,46,7497,7695,98.31059129304744,wxWidgets translators <wx-translators@wxwidgets.org>
+wxPython,9791,53,295,2486,21,75,9781,10139,96.56770884702634,wxWidgets translators <wx-translators@wxwidgets.org>
+xarchiver,979,152,0,255,22,0,947,1131,86.5605658709107,Dutch <vertaling@vrijschrift.org>
+xboard,2553,9,11,718,3,3,2440,2573,99.22269724057522,Dutch <vertaling@vrijschrift.org>
+xcdroast,8044,0,0,848,0,0,8243,8044,100.0,Dutch <eric.hameleers@sox.homeip.net>
+xconvers,278,0,0,101,0,0,299,278,100.0,nl <pg4i@amsat.org>
+xdg-desktop-portal-kde,11,0,0,8,0,0,12,11,100.0,Dutch <kde-i18n-nl@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Dutch <vertaling@vrijschrift.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,83,81,100.0,Dutch <vertaling@vrijschrift.org>
+xdialog,17,0,4,13,0,2,17,21,80.95238095238095,Dutch
+xed,4607,0,0,989,0,0,4490,4607,100.0,Dutch (http://www.transifex.com/projects/p/MATE/language/nl/)
+xfbib,342,0,0,75,0,0,345,342,100.0,Dutch (Flemish)
+xfburn,1413,0,0,306,0,0,1456,1413,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+xfce4-appfinder,322,0,0,70,0,0,344,322,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-battery-plugin,149,0,0,43,0,0,178,149,100.0,Dutch/Flemish
+xfce4-clipman-plugin,478,0,0,72,0,0,493,478,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,137,140,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-cpugraph-plugin,76,0,0,37,0,0,77,76,100.0,Dutch (Flemish)
+xfce4-datetime-plugin,52,0,0,19,0,0,53,52,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-dict,527,0,0,119,0,0,516,527,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,179,183,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-embed-plugin,219,0,0,33,0,0,221,219,100.0,Dutch (Flemish)
+xfce4-eyes-plugin,15,0,0,4,0,0,17,15,100.0,Dutch (Flemish)
+xfce4-fsguard-plugin,71,0,0,19,0,0,66,71,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-genmon-plugin,56,0,0,14,0,0,56,56,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,338,356,100.0,Dutch <vertaling@nl.linux.org>
+xfce4-mailwatch-plugin,685,0,0,111,0,0,632,685,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-mixer,181,0,0,36,0,0,180,181,100.0,Dutch (Flemish)
+xfce4-mount-plugin,374,0,0,56,0,0,406,374,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-mpc-plugin,76,0,0,24,0,0,76,76,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-netload-plugin,92,0,0,35,0,0,90,92,100.0,Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/)
+xfce4-notes-plugin,163,0,0,57,0,0,162,163,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-notifyd,259,0,0,74,0,0,250,259,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+xfce4-panel,1709,0,0,395,0,0,1687,1709,100.0,Dutch (http://www.transifex.com/xfce/xfce4-panel/language/nl/)
+xfce4-places-plugin,160,0,0,45,0,0,163,160,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-power-manager,1033,0,0,207,0,0,1001,1033,100.0,Dutch (http://www.transifex.com/xfce/xfce4-power-manager/language/nl/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,148,148,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-screenshooter,431,0,0,64,0,0,444,431,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+xfce4-sensors-plugin,358,0,0,74,0,0,365,358,100.0,Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/)
+xfce4-session,1066,0,0,208,0,0,1085,1066,100.0,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-settings,1664,0,0,374,0,0,1643,1664,100.0,Dutch (http://www.transifex.com/xfce/xfce4-settings/language/nl/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,20,22,100.0,Dutch (Flemish)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,123,129,100.0,Dutch (https://www.transifex.com/xfce/teams/16840/nl/)
+xfce4-systemload-plugin,75,0,0,24,0,0,68,75,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-taskmanager,257,0,0,85,0,0,260,257,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+xfce4-terminal,1647,0,0,390,0,0,1698,1647,100.0,Dutch (http://www.transifex.com/xfce/xfce-apps/language/nl/)
+xfce4-time-out-plugin,89,0,0,32,0,0,85,89,100.0,Dutch (Flemish)
+xfce4-timer-plugin,131,3,0,41,1,0,119,134,97.76119402985076,Dutch (http://www.transifex.com/projects/p/xfce/language/nl/)
+xfce4-verve-plugin,108,0,0,28,0,0,99,108,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,75,67,100.0,Dutch (http://www.transifex.com/projects/p/xfce-panel-plugins/language/nl/)
+xfce4-weather-plugin,3668,0,0,330,0,0,1932,3668,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfce4-whiskermenu-plugin,349,0,0,118,0,0,351,349,100.0,Dutch (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/nl/)
+xfce4-xkb-plugin,49,0,0,21,0,0,55,49,100.0,Dutch (http://www.transifex.com/xfce/xfce-panel-plugins/language/nl/)
+xfconf,452,0,0,67,0,0,465,452,100.0,Dutch (http://www.transifex.com/projects/p/xfconf/language/nl/)
+xfdesktop,976,0,0,221,0,0,949,976,100.0,Dutch (http://www.transifex.com/projects/p/xfdesktop/language/nl/)
+xfe,2641,809,2504,871,157,50,2655,5954,44.35673496808868,Dutch
+xfmpc,146,2,19,62,1,7,157,167,87.42514970059881,Dutch (Flemish)
+xfpanel-switch,62,0,0,24,0,0,66,62,100.0,Dutch <nl@li.org>
+xfwm4,673,0,0,173,0,0,684,673,100.0,Dutch (http://www.transifex.com/projects/p/xfwm4/language/nl/)
+xiphos,4641,115,48,1077,19,14,4489,4804,96.60699417152372,xiphos-devel <xiphos-devel@lists>
+xkeyboard-config,3608,0,0,1095,0,0,3500,3608,100.0,Dutch <vertaling@vrijschrift.org>
+xlog,1441,8,13,330,1,2,1483,1462,98.56361149110808,NL <nl@li.org>
+xmlcopyeditor,1031,288,367,345,77,68,1023,1686,61.15065243179122,Rob Elemans <relemans@gmail.com>
+xmms,2703,148,592,988,18,39,2644,3443,78.50711588730758,<en@li.org>
+xmoto,3320,0,519,705,0,117,3159,3839,86.48085438916384,
+xournal,440,0,576,214,0,68,447,1016,43.30708661417323,
+xpad,406,0,0,125,0,0,429,406,100.0,Dutch <vertaling@vrijschrift.org>
+xplayer,1957,0,0,493,0,0,1894,1957,100.0,Dutch <vertaling@vrijschrift.org>
+xplayer-plparser,28,0,0,7,0,0,27,28,100.0,Dutch <vertaling@vrijschrift.org>
+xreader,2605,31,770,475,2,47,2645,3406,76.4826776277158,Dutch <vertaling@vrijschrift.org>
+xsane,2325,788,111,576,121,31,2163,3224,72.11538461538461,Dutch <nl@li.org>
+xscreensaver,11024,0,0,1814,0,0,10568,11024,100.0,Nederlands <ubuntu-l10n-nl@lists.ubuntu.com>
+xviewer,1677,0,0,324,0,0,1628,1677,100.0,Dutch <vertaling@vrijschrift.org>
+yakuake,1573,0,0,221,0,0,1546,1573,100.0,Dutch <kde-i18n-nl@kde.org>
+yelp,448,0,0,104,0,0,415,448,100.0,Dutch <gnome-nl-list@gnome.org>
+yelp-xsl,80,0,0,58,0,0,79,80,100.0,Dutch <vertaling@vrijschrift.org>
+yum-rhn-plugin,66,81,0,11,6,0,69,147,44.89795918367347,Dutch (http://www.transifex.com/projects/p/fedora/language/nl/)
+zabbix,8402,19,7387,2056,5,1208,9524,15808,53.1503036437247,NL
+zanshin,893,0,0,245,0,0,923,893,100.0,Dutch <kde-i18n-nl@kde.org>
+zenity,891,0,0,196,0,0,843,891,100.0,Dutch <vertaling@vrijschrift.org>
+znc,8581,0,0,1722,0,0,9244,8581,100.0,Dutch
+zvbi,624,3,37,116,1,4,603,664,93.97590361445783,Dutch <ime@iae.nl>
+zypper,10071,0,0,956,0,0,10598,10071,100.0,Dutch <https://l10n.opensuse.org/projects/zypper/master/nl/>

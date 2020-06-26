@@ -1,0 +1,564 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4026,0,6,480,0,1,3967,4032,99.85119047619048,Nepali <info@mpp.org.np>
+NetworkManager,2,864,27585,2,206,2024,4,28451,0.007029629889986293,Nepali <info@mpp.org.np>
+abattis-cantarell-fonts,27,0,0,3,0,0,30,27,100.0,Nepali Translation Team <chautari@gmail.com>
+accerciser,224,220,222,144,57,27,244,666,33.633633633633636,Nepali Translation Team <chautari@gmail.com>
+aisleriot,2982,0,0,681,0,0,2179,2982,100.0,Nepali <info@mpp.org.np>
+akonadi-calendar-tools,219,186,78,55,38,16,248,483,45.3416149068323,Nepali <info@mpp.org.np>
+akregator,869,516,508,239,116,86,873,1893,45.905969360802956,Nepali <info@mpp.org.np>
+alleyoop,351,0,0,89,0,0,351,351,100.0,Nepali <info@mpp.org.np>
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Nepali (http://www.transifex.com/projects/p/fedora/language/ne/)
+anjuta,2766,3354,2278,925,932,202,2820,8398,32.936413431769466,Nepali Translation Team <chautari@gmail.com>
+apt,2264,1178,1976,367,161,183,2250,5418,41.78663713547435,Nepali <info@mpp.org.np>
+ark,46,748,1135,20,157,176,54,1929,2.3846552617936756,Nepali <info@mpp.org.np>
+asunder,17,0,475,15,0,76,18,492,3.4552845528455287,http://littlesvr.ca/ostd/
+at-spi2-core,10,0,0,2,0,0,11,10,100.0,Nepali Translation Team <chautari@gmail.com>
+atk,440,0,0,169,0,0,426,440,100.0,Nepali Translation Team <chautari@gmail.com>
+atril,1214,0,3177,381,0,356,1190,4391,27.647460715099065,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+balsa,5827,0,0,1410,0,0,5921,5827,100.0,Nepali <info@mpp.org.np>
+baobab,307,0,0,82,0,0,291,307,100.0,Nepali Translation Team <chautari@gmail.com>
+bijiben,353,37,0,118,7,0,366,390,90.51282051282051,Nepali Translation Team <chautari@gmail.com>
+blinken,116,14,4,40,5,2,128,134,86.56716417910447,Nepali <info@mpp.org.np>
+blueberry,138,0,34,32,0,7,138,172,80.23255813953489,Nepali <ne@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+brasero,1568,1355,2626,510,251,208,1553,5549,28.25734366552532,Nepali Translation Team <chautari@gmail.com>
+budgie-control-center,5673,0,907,1516,0,248,5684,6580,86.21580547112461,Nepali (https://www.transifex.com/buddiesofbudgie/teams/129844/ne/)
+budgie-desktop,339,45,836,123,12,187,367,1220,27.786885245901637,Nepali <http://translate.getsol.us/projects/budgie-desktop/translations/ne/>
+budgie-screensaver,991,0,0,163,0,0,898,991,100.0,Nepali <info@mpp.org.np>
+caja,4104,0,5571,872,0,732,3827,9675,42.41860465116279,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+caja-actions,108,0,18707,77,0,1439,127,18815,0.5740100983258039,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+caja-extensions,104,0,656,33,0,112,103,760,13.684210526315791,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+calamares,29,0,492,6,0,85,26,521,5.566218809980806,Nepali (Nepal) (https://www.transifex.com/calamares/teams/20061/ne_NP/)
+calligra,6955,11087,11695,2022,2656,1261,6510,29737,23.388371389178463,Nepali <info@mpp.org.np>
+calligraplan,152,820,1037,53,254,98,164,2009,7.565953210552514,Nepali <info@mpp.org.np>
+camorama,476,119,240,98,23,48,439,835,57.00598802395209,Nepali <info@mpp.org.np>
+caribou,35,45,91,25,19,13,37,171,20.46783625730994,Nepali Translation Team <chautari@gmail.com>
+cervisia,1526,64,25,395,17,8,1530,1615,94.48916408668731,Nepali <info@mpp.org.np>
+cheese,628,0,0,130,0,0,545,628,100.0,Nepali Translation Team <chautari@gmail.com>
+cinnamon-desktop,3,14,217,1,2,29,3,234,1.282051282051282,Nepali <info@mpp.org.np>
+cinnamon-translations,2617,0,20430,734,0,4458,2544,23047,11.355057057317655,Nepali <ne@li.org>
+clutter,706,1382,969,273,292,110,652,3057,23.094537127903173,Nepali Translation Team <chautari@gmail.com>
+cogl,161,61,171,37,22,21,170,393,40.966921119592875,Nepali Translation Team <chautari@gmail.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,353,176,455,116,19,44,339,984,35.8739837398374,Nepali <info@mpp.org.np>
+dasher,443,0,0,173,0,0,479,443,100.0,Nepali <info@mpp.org.np>
+dconf-editor,787,59,655,148,14,33,797,1501,52.43171219187208,Nepali Translation Team <chautari@gmail.com>
+debconf,735,65,62,83,6,5,747,862,85.26682134570765,Nepali <info@mpp.org.np>
+deepin-daemon,68,0,1035,25,0,219,75,1103,6.165004533091569,Nepali (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/ne/)
+deja-dup,1,0,1622,1,0,284,13,1623,0.06161429451632779,Nepali <ne@li.org>
+devhelp,230,36,147,82,10,9,207,413,55.690072639225185,Nepali Translation Team <chautari@gmail.com>
+dia,6152,0,0,2241,0,0,6413,6152,100.0,Nepali <info@mpp.org.np>
+digikam,1051,25831,32492,275,6172,3295,1020,59374,1.770135075959174,Nepali <info@mpp.org.np>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dolphin,191,918,3949,69,300,365,192,5058,3.776196124950573,Nepali <info@mpp.org.np>
+drgeo,1912,65,8,450,7,4,1806,1985,96.32241813602015,Nepali <info@mpp.org.np>
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,88,74,1446,40,28,239,90,1608,5.472636815920398,Nepali <ne@li.org>
+elementary-files,26,105,3538,9,15,640,23,3669,0.7086399563913873,Nepali <ne@li.org>
+elementary-greeter,0,0,219,0,0,48,0,219,0.0,
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+engrampa,939,0,6899,232,0,661,918,7838,11.9800969635111,Nepali (https://app.transifex.com/mate/teams/13566/ne/)
+entangle,0,0,953,0,0,229,0,953,0.0,Nepali
+eog,1765,415,4334,357,118,257,1675,6514,27.095486644151055,
+eom,733,0,4225,209,0,333,725,4958,14.784187172246874,Nepali (https://app.transifex.com/mate/teams/13566/ne/)
+epiphany,2142,609,1928,631,100,115,2197,4679,45.77901260953195,Nepali Translation Team <chautari@gmail.com>
+evince,1530,122,86,398,32,8,1454,1738,88.03222094361335,Nepali Translation Team <chautari@gmail.com>
+evolution,9397,11213,7926,3129,2039,543,9500,28536,32.930333613680965,Nepali Translation Team <chautari@gmail.com>
+evolution-data-server,2797,2116,1521,703,399,150,2973,6434,43.472179048803234,Nepali Translation Team <chautari@gmail.com>
+fcitx-table-other,2,0,22,2,0,20,2,24,8.333333333333332,Nepali (http://www.transifex.com/fcitx/fcitx/language/ne/)
+fcitx5-table-other,0,2,98,0,1,33,0,100,0.0,Nepali (http://www.transifex.com/fcitx/fcitx/language/ne/)
+file-roller,616,272,307,196,49,23,610,1195,51.54811715481171,Nepali Translation Team <chautari@gmail.com>
+filezilla,2775,0,0,523,0,0,2884,2775,100.0,Nepali <info@mpp.org.np>
+five-or-more,209,8,65,62,1,2,198,282,74.11347517730496,Nepali Translation Team <chautari@gmail.com>
+folks,1023,0,0,124,0,0,943,1023,100.0,Nepali Translation Team <chautari@gmail.com>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Nepali
+four-in-a-row,109,39,108,41,15,17,102,256,42.578125,Nepali <info@mpp.org.np>
+frozen-bubble,445,63,190,109,12,27,431,698,63.75358166189111,LANGUAGE <LL@li.org>
+gala,0,0,358,0,0,73,0,358,0.0,none
+gconf-editor,335,0,0,99,0,0,364,335,100.0,Nepali <info@mpp.org.np>
+gcr,795,0,0,276,0,0,803,795,100.0,Nepali Translation Team <chautari@gmail.com>
+gdk-pixbuf2,1325,0,0,198,0,0,1263,1325,100.0,Nepali <info@mpp.org.np>
+gdm,705,0,0,97,0,0,639,705,100.0,Nepali Translation Team <chautari@gmail.com>
+gedit,4179,0,0,723,0,0,4019,4179,100.0,Nepali Translation Team <chautari@gmail.com>
+gedit-plugins,786,186,233,359,56,54,827,1205,65.22821576763485,Nepali <info@mpp.org.np>
+gegl04,520,2996,5961,357,1016,558,560,9477,5.486968449931413,
+genius,6307,0,0,852,0,0,5956,6307,100.0,Nepali <info@mpp.org.np>
+gftp,3370,0,0,595,0,0,3251,3370,100.0,Nepali <info@mpp.org.np>
+ghex,970,0,0,276,0,0,977,970,100.0,Nepali <info@mpp.org.np>
+gimp,19819,9346,3610,5489,2482,453,19783,32775,60.4698703279939,Nepali Translation Team <chautari@gmail.com>
+gitg,812,506,1117,237,119,80,797,2435,33.347022587268995,Nepali Translation Team <chautari@gmail.com>
+glade,1814,2494,2557,805,724,245,1872,6865,26.423889293517846,Nepali Translation Team <chautari@gmail.com>
+glade2,5902,0,0,1311,0,0,5182,5902,100.0,Nepali <info@mpp.org.np>
+glib-networking,409,0,0,59,0,0,394,409,100.0,Nepali Translation Team <chautari@gmail.com>
+glib2,4590,1900,1259,824,282,111,4607,7749,59.23344947735192,Nepali Translation Team <chautari@gmail.com>
+gnome-applets,3740,0,0,941,0,0,3686,3740,100.0,Nepali <info@mpp.org.np>
+gnome-bluetooth,15,144,150,13,67,22,18,309,4.854368932038835,Nepali Translation Team <chautari@gmail.com>
+gnome-bluetooth3.34,15,144,150,13,67,22,18,309,4.854368932038835,Nepali Translation Team <chautari@gmail.com>
+gnome-books,307,146,193,146,37,22,328,646,47.523219814241486,Nepali Translation Team <chautari@gmail.com>
+gnome-boxes,1315,0,0,295,0,0,1306,1315,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-builder,1226,1413,1023,468,378,129,1258,3662,33.47897323866739,Nepali Translation Team <chautari@gmail.com>
+gnome-calculator,936,209,624,550,67,43,942,1769,52.9112492933861,Nepali <info@mpp.org.np>
+gnome-calendar,795,0,0,223,0,0,781,795,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-characters,181,0,0,58,0,0,193,181,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-chess,1513,0,0,257,0,0,1419,1513,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-clocks,129,19,75,59,5,13,130,223,57.847533632286996,Nepali Translation Team <chautari@gmail.com>
+gnome-color-manager,327,449,1020,151,109,85,333,1796,18.207126948775056,Nepali Translation Team <chautari@gmail.com>
+gnome-commander,1286,482,6128,449,206,768,1354,7896,16.286727456940223,Nepali <info@mpp.org.np>
+gnome-connections,184,0,0,58,0,0,184,184,100.0,
+gnome-console,233,0,0,69,0,0,261,233,100.0,Nepali Team <chautari@gmail.com>
+gnome-contacts,417,0,0,144,0,0,416,417,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-control-center,6471,109,54,1746,12,4,6469,6634,97.54296050648176,Nepali Translation Team <chautari@gmail.com>
+gnome-desktop3,160,0,0,35,0,0,153,160,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-dictionary,742,57,42,167,11,2,678,841,88.2282996432818,Nepali <info@mpp.org.np>
+gnome-disk-utility,389,745,2289,196,229,207,411,3423,11.364300321355536,Nepali Translation Team <chautari@gmail.com>
+gnome-do,27,0,585,12,0,132,33,612,4.411764705882353,Nepali <ne@li.org>
+gnome-doc-utils,238,0,0,92,0,0,239,238,100.0,Nepali <info@mpp.org.np>
+gnome-extensions-app,2767,0,0,596,0,0,2695,2767,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-font-viewer,113,0,0,29,0,0,110,113,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-icon-theme,43,0,0,38,0,0,42,43,100.0,Nepali <info@mpp.org.np>
+gnome-initial-setup,202,62,502,71,14,35,184,766,26.370757180156655,Nepali Translation Team <chautari@gmail.com>
+gnome-keyring,119,307,83,43,48,12,125,509,23.37917485265226,Nepali Translation Team <chautari@gmail.com>
+gnome-klotski,66,34,94,41,12,6,63,194,34.02061855670103,Nepali <info@mpp.org.np>
+gnome-logs,144,86,146,79,28,15,159,376,38.297872340425535,Nepali Translation Team <chautari@gmai.com>
+gnome-mahjongg,43,76,185,24,26,13,44,304,14.144736842105262,Nepali <info@mpp.org.np>
+gnome-maps,742,125,620,283,29,56,834,1487,49.89912575655683,Nepali Translation Team <chautari@gmail.com>
+gnome-menus,70,0,0,27,0,0,66,70,100.0,Nepali <info@mpp.org.np>
+gnome-mime-data,860,0,27,352,0,10,1160,887,96.95603156708005,Nepali <info@mpp.org.np>
+gnome-mines,150,95,99,55,14,3,145,344,43.604651162790695,Nepali Translation Team <chautari@gmail.com>
+gnome-music,123,11,258,59,3,7,125,392,31.377551020408163,Nepali Translation Team <chautari@gmail.com>
+gnome-nettool,545,0,0,185,0,0,535,545,100.0,Nepali <info@mpp.org.np>
+gnome-nibbles,144,106,197,53,36,21,142,447,32.21476510067114,Nepali <info@mpp.org.np>
+gnome-online-accounts,664,0,0,146,0,0,628,664,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-packagekit,700,890,2800,270,175,236,761,4390,15.945330296127564,Nepali Translation Team <chautari@gmail.com>
+gnome-panel,2719,460,341,356,87,65,2281,3520,77.24431818181819,Nepali <info@mpp.org.np>
+gnome-phone-manager,508,0,0,89,0,0,499,508,100.0,Nepali <info@mpp.org.np>
+gnome-photos,572,0,0,220,0,0,633,572,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-remote-desktop,445,0,0,24,0,0,431,445,100.0,Nepali Team <chautari@gmail.com>
+gnome-robots,384,94,119,69,21,7,355,597,64.321608040201,Nepali <info@mpp.org.np>
+gnome-screenshot,415,0,0,63,0,0,361,415,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-search-tool,1207,72,80,164,12,24,1121,1359,88.81530537159676,Nepali <info@mpp.org.np>
+gnome-session,432,0,0,67,0,0,457,432,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-settings-daemon,1641,1055,714,259,185,43,1510,3410,48.123167155425215,Nepali Translation Team <chautari@gmail.com
+gnome-shell,2767,0,0,596,0,0,2695,2767,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-shell-extension-just-perfection,565,0,2,138,0,1,537,567,99.64726631393297,Nepali <>
+gnome-shell-extensions,262,0,0,51,0,0,253,262,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-shell-frippery,20,0,0,6,0,0,16,20,100.0,
+gnome-software,2492,232,2029,710,43,160,2585,4753,52.43004418262151,Nepali Translation Team <chautari@gmail.com>
+gnome-sound-recorder,292,0,0,73,0,0,298,292,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-sudoku,24,118,257,14,36,22,27,399,6.015037593984962,Nepali <info@mpp.org.np>
+gnome-system-log,229,52,241,48,15,31,201,522,43.86973180076628,Nepali <info@mpp.org.np>
+gnome-system-monitor,1462,0,0,313,0,0,1357,1462,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-taquin,232,0,0,49,0,0,203,232,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-terminal,2198,432,0,474,42,0,2060,2630,83.57414448669202,Nepali Translation Team <chautari@gmail.com>
+gnome-tetravex,35,66,119,17,13,15,35,220,15.909090909090908,Nepali <info@mpp.org.np>
+gnome-text-editor,1006,0,3,269,0,1,1020,1009,99.70267591674926,Nepali Team <chautari@gmail.com>
+gnome-themes-extra,15,0,0,6,0,0,13,15,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-todo,209,152,356,88,34,39,253,717,29.14923291492329,Nepali Translation Team <chautari@gmail.com>
+gnome-tour,112,0,0,25,0,0,107,112,100.0,
+gnome-tweaks,395,133,129,127,41,9,414,657,60.12176560121766,Nepali Translation Team <chautari@gmail.com>
+gnome-user-share,52,0,0,10,0,0,47,52,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-vfs2,1508,0,0,301,0,0,1459,1508,100.0,Nepali <info@mpp.org.np>
+gnome-video-effects,256,0,0,68,0,0,217,256,100.0,Nepali Translation Team <chautari@gmail.com>
+gnome-weather,247,0,0,52,0,0,245,247,100.0,Nepali Translation Team <chautari@gmail.com>
+gnucash,11842,12296,12911,2467,1994,940,11231,37049,31.96307592647575,Nepali <https://hosted.weblate.org/projects/gnucash/gnucash/ne/>
+gnumeric,10108,5225,19713,2440,997,2205,9716,35046,28.842093248872906,Nepali <info@mpp.org.np>
+godot3,1,0,262552,1,0,11922,1,262553,0.00038087548037919966,Nepali <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/ne/>
+gparted,1274,0,0,279,0,0,1340,1274,100.0,Nepali <info@mpp.org.np>
+granite,0,0,498,0,0,118,0,498,0.0,
+grilo,191,0,0,36,0,0,192,191,100.0,Nepali Translation Team <chautari@gmail.com>
+grilo-plugins,494,0,0,120,0,0,530,494,100.0,Nepali Translation Team <chautari@gmail.com>
+gsettings-desktop-schemas,1623,605,4709,309,103,203,1550,6937,23.39628081303157,Nepali Translation Team <chautari@gmail.com>
+gspell,76,0,0,31,0,0,85,76,100.0,Nepali Translation Team <chautari@gmail.com>
+gthumb,3130,0,0,921,0,0,3174,3130,100.0,Nepali <info@mpp.org.np>
+gtk2,8161,2847,2696,1464,669,651,6963,13704,59.55195563339171,Nepali <info@mpp.org.np>
+gtk3,9489,4992,2250,2688,1000,249,8503,16731,56.71507979200287,Nepali Translation Team <chautari@gmail.com>
+gtk4,7533,4534,1150,2238,867,144,6923,13217,56.99477945070742,Nepali Translation Team <chautari@gmail.com>
+gtkhtml3,920,0,0,398,0,0,925,920,100.0,Nepali <info@mpp.org.np>
+gtksourceview2,817,0,0,347,0,0,827,817,100.0,Nepali <info@mpp.org.np>
+gtksourceview3,72,84,166,16,23,67,70,322,22.36024844720497,Nepali <info@mpp.org.np>
+gtksourceview4,308,0,0,94,0,0,315,308,100.0,Nepali <info@mpp.org.np>
+gtksourceview5,320,0,0,94,0,0,320,320,100.0,Nepali <info@mpp.org.np>
+gucharmap,933,43,229,366,12,19,949,1205,77.42738589211619,Nepali Translation Team <chautari@gmail.com>
+gvfs,2102,0,0,405,0,0,2121,2102,100.0,Nepali Translation Team <chautari@gmail.com>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hitori,56,34,84,23,7,6,49,174,32.18390804597701,Nepali Translation Team <chautari@gmail.com>
+iagno,95,98,128,41,22,8,85,321,29.595015576323984,Nepali <info@mpp.org.np>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Nepali
+inkscape,5828,13736,21365,1265,4507,2896,5823,40929,14.239292433238045,Nepali <info@mpp.org.np>
+iso-codes,1030,54,6,432,17,4,853,1090,94.4954128440367,Nepali <info@mpp.org.np>
+isomaster,34,1,639,23,1,83,37,674,5.044510385756676,http://littlesvr.ca/ostd/
+json-glib,239,14,50,36,3,5,219,303,78.87788778877888,Nepali Translation Team <chautari@gmail.com>
+juk,914,306,306,228,57,77,887,1526,59.8951507208388,Nepali <info@mpp.org.np>
+kaddressbook,103,403,645,51,118,70,116,1151,8.94874022589053,Nepali <info@mpp.org.np>
+kalarm,212,6330,1783,41,1019,158,215,8325,2.5465465465465464,Nepali <info@mpp.org.np>
+kalzium,1763,3806,3538,414,480,409,1512,9107,19.358735038981003,Nepali <info@mpp.org.np>
+kamera,143,195,4,24,9,4,137,342,41.812865497076025,Nepali <info@mpp.org.np>
+kanagram,134,238,155,41,45,58,132,527,25.426944971537,Nepali <info@mpp.org.np>
+kate,575,761,949,153,157,151,588,2285,25.164113785557984,Nepali <info@mpp.org.np>
+katomic,99,31,54,42,8,9,106,184,53.80434782608695,Nepali <info@mpp.org.np>
+kaudiocreator,589,168,379,161,43,69,608,1136,51.848591549295776,Nepali <info@mpp.org.np>
+kblackbox,705,200,462,54,19,30,591,1367,51.572787125091445,Nepali <info@mpp.org.np>
+kbounce,81,43,32,26,6,11,82,156,51.92307692307693,Nepali <info@mpp.org.np>
+kbruch,318,615,414,60,75,63,272,1347,23.608017817371937,Nepali <info@mpp.org.np>
+kcachegrind,953,691,92,161,25,10,868,1736,54.8963133640553,Nepali <info@mpp.org.np>
+kcalc,405,251,414,142,74,134,381,1070,37.850467289719624,Nepali <info@mpp.org.np>
+kcharselect,40,2,46,17,1,16,51,88,45.45454545454545,Nepali <info@mpp.org.np>
+kcoloredit,9,95,174,6,32,57,14,278,3.237410071942446,Nepali <info@mpp.org.np>
+kcron,194,182,149,99,55,34,202,525,36.952380952380956,Nepali <info@mpp.org.np>
+kde-cli-tools,918,799,418,131,44,42,860,2135,42.997658079625296,Nepali <info@mpp.org.np>
+kde-dev-utils,27,16,23,10,3,11,29,66,40.909090909090914,Nepali <info@mpp.org.np>
+kdenetwork-filesharing,0,90,687,0,35,64,0,777,0.0,Nepali <info@mpp.org.np>
+kdepim-addons,325,742,909,131,144,92,304,1976,16.447368421052634,Nepali <info@mpp.org.np>
+kdf,119,35,41,38,26,7,144,195,61.02564102564103,Nepali <info@mpp.org.np>
+kdialog,157,106,119,37,17,21,162,382,41.09947643979058,Nepali <info@mpp.org.np>
+kdnssd,7,9,14,1,1,5,5,30,23.333333333333332,Nepali <info@mpp.org.np>
+keditbookmarks,301,158,7,92,38,2,308,466,64.59227467811158,Nepali <info@mpp.org.np>
+kexi,1703,4299,1338,468,815,197,1746,7340,23.201634877384198,Nepali <info@mpp.org.np>
+kf5-audiocd-kio,577,219,61,135,28,13,585,857,67.32788798133022,Nepali <info@mpp.org.np>
+kf5-calendarsupport,756,1308,715,123,205,63,738,2779,27.204030226700255,Nepali <info@mpp.org.np>
+kf5-kauth,0,4,69,0,1,7,0,73,0.0,Nepali <info@mpp.org.np>
+kf5-kbookmarks,0,196,34,0,46,3,0,230,0.0,Nepali <info@mpp.org.np>
+kf5-kcmutils,55,208,3,11,25,2,53,266,20.676691729323306,Nepali <info@mpp.org.np>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Nepali <info@mpp.org.np>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Nepali <info@mpp.org.np>
+kf5-kconfig,0,41,248,0,6,98,0,289,0.0,Nepali <info@mpp.org.np>
+kf5-kconfigwidgets,117,161,64,63,49,13,140,342,34.21052631578947,Nepali <info@mpp.org.np>
+kf5-kcoreaddons,0,307,75,0,90,42,0,382,0.0,Nepali <info@mpp.org.np>
+kf5-kdeclarative,11,52,98,5,8,12,21,161,6.832298136645963,Nepali <info@mpp.org.np>
+kf5-kdelibs4support,1535,1325,2493,1027,794,723,1766,5353,28.675509060339998,Nepali <info@mpp.org.np>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Nepali <info@mpp.org.np>
+kf5-kdnssd,0,2,1,0,2,1,0,3,0.0,Nepali <info@mpp.org.np>
+kf5-kdoctools,8,0,0,4,0,0,13,8,100.0,Nepali <info@mpp.org.np>
+kf5-kglobalaccel,0,45,26,0,6,3,0,71,0.0,Nepali <info@mpp.org.np>
+kf5-kholidays,0,18,132,0,8,89,0,150,0.0,Nepali <info@mpp.org.np>
+kf5-khtml,973,497,197,199,63,27,943,1667,58.368326334733055,Nepali <info@mpp.org.np>
+kf5-ki18n,16,106,2,16,92,2,16,124,12.903225806451612,Nepali <info@mpp.org.np>
+kf5-kiconthemes,11,17,13,10,5,4,15,41,26.82926829268293,Nepali <info@mpp.org.np>
+kf5-kinit,78,31,7,6,4,1,65,116,67.24137931034483,Nepali <info@mpp.org.np>
+kf5-kio,5536,3487,3006,641,452,279,5005,12029,46.022113226369605,Nepali <info@mpp.org.np>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Nepali <info@mpp.org.np>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,Nepali <info@mpp.org.np>
+kf5-kjsembed,211,25,12,38,5,1,196,248,85.08064516129032,Nepali <info@mpp.org.np>
+kf5-kldap,33,0,0,8,0,0,33,33,100.0,Nepali <info@mpp.org.np>
+kf5-kmime,158,1,0,9,1,0,114,159,99.37106918238993,Nepali <info@mpp.org.np>
+kf5-knewstuff,99,339,1193,17,130,84,100,1631,6.069895769466585,Nepali <info@mpp.org.np>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Nepali <info@mpp.org.np>
+kf5-knotifyconfig,28,15,86,10,5,2,26,129,21.705426356589147,Nepali <info@mpp.org.np>
+kf5-kparts,71,60,7,16,13,1,80,138,51.449275362318836,Nepali <info@mpp.org.np>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Nepali <info@mpp.org.np>
+kf5-kross,59,41,0,23,12,0,71,100,59.0,Nepali <info@mpp.org.np>
+kf5-kservice,25,98,50,5,17,6,29,173,14.450867052023122,Nepali <info@mpp.org.np>
+kf5-ktexteditor,2194,2599,4436,372,460,431,1983,9229,23.772889803879078,Nepali <info@mpp.org.np>
+kf5-ktextwidgets,340,96,37,71,39,20,335,473,71.8816067653277,Nepali <info@mpp.org.np>
+kf5-kwidgetsaddons,0,1139,154,0,424,39,0,1293,0.0,Nepali <info@mpp.org.np>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Nepali <info@mpp.org.np>
+kf5-kxmlgui,342,1028,204,77,136,17,317,1574,21.72808132147395,Nepali <info@mpp.org.np>
+kf5-libkcddb,331,11,134,186,6,33,336,476,69.53781512605042,Nepali <info@mpp.org.np>
+kf5-libkdepim,24,0,11,9,0,1,28,35,68.57142857142857,Nepali <info@mpp.org.np>
+kf5-libkleo,255,152,1358,81,61,243,260,1765,14.44759206798867,Nepali <info@mpp.org.np>
+kf5-libksieve,278,0,2843,40,0,497,321,3121,8.907401473886575,Nepali <info@mpp.org.np>
+kf5-mailimporter,611,638,159,57,36,34,600,1408,43.39488636363637,Nepali <info@mpp.org.np>
+kf5-messagelib,761,1537,1413,154,452,192,734,3711,20.50660199407168,Nepali <info@mpp.org.np>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Nepali <info@mpp.org.np>
+kf5-syntax-highlighting,0,267,367,0,197,178,0,634,0.0,Nepali <info@mpp.org.np>
+kfind,337,151,14,77,32,6,342,502,67.13147410358566,Nepali <info@mpp.org.np>
+kfloppy,583,52,6,93,5,2,614,641,90.95163806552262,Nepali <info@mpp.org.np>
+kfourinline,183,107,102,78,39,40,204,392,46.683673469387756,Nepali <info@mpp.org.np>
+kgamma,130,0,0,16,0,0,124,130,100.0,Nepali <info@mpp.org.np>
+kgeography,4409,4398,1205,3159,3335,743,4315,10012,44.0371554135038,Nepali <info@mpp.org.np>
+kget,44,762,1945,14,270,449,44,2751,1.599418393311523,Nepali <info@mpp.org.np>
+kgoldrunner,5159,3675,19177,354,216,438,4113,28011,18.417764449680483,Nepali <info@mpp.org.np>
+kgpg,1595,2351,1326,338,232,127,1616,5272,30.25417298937785,Nepali <info@mpp.org.np>
+khangman,268,54,153,70,19,31,264,475,56.42105263157895,Nepali <info@mpp.org.np>
+khelpcenter,188,31,46,73,10,7,193,265,70.94339622641509,Nepali <info@mpp.org.np>
+khotkeys,98,107,246,33,64,39,91,451,21.729490022172946,Nepali <info@mpp.org.np>
+kiconedit,684,11,31,137,5,13,637,726,94.21487603305785,Nepali <info@mpp.org.np>
+kig,6571,1123,163,1074,172,40,5605,7857,83.63242968053964,Nepali <info@mpp.org.np>
+kinfocenter,56,82,86,30,34,35,63,224,25.0,Nepali <info@mpp.org.np>
+kio-extras,378,177,382,52,24,41,368,937,40.34151547491996,Nepali <info@mpp.org.np>
+kiten,272,126,285,81,42,50,292,683,39.82430453879942,Nepali <info@mpp.org.np>
+kjots,71,232,348,23,48,63,85,651,10.906298003072196,Nepali <info@mpp.org.np>
+kjumpingcube,101,49,263,30,12,53,99,413,24.455205811138015,Nepali <info@mpp.org.np>
+kleopatra,201,3459,8692,78,772,1006,226,12352,1.6272668393782381,Nepali <info@mpp.org.np>
+klettres,371,50,19,69,8,8,357,440,84.31818181818181,Nepali <info@mpp.org.np>
+klines,68,4,27,18,2,8,67,99,68.68686868686868,Nepali <info@mpp.org.np>
+kmag,243,115,74,44,26,28,234,432,56.25,Nepali <info@mpp.org.np>
+kmahjongg,237,71,58,72,17,15,249,366,64.75409836065575,Nepali <info@mpp.org.np>
+kmail,2768,3234,2274,435,577,262,2686,8276,33.44610923151281,Nepali <info@mpp.org.np>
+kmenuedit,190,15,80,40,5,22,160,285,66.66666666666666,Nepali <info@mpp.org.np>
+kmines,48,24,84,20,8,17,39,156,30.76923076923077,Nepali <info@mpp.org.np>
+kmix,272,216,604,64,48,99,294,1092,24.90842490842491,Nepali <info@mpp.org.np>
+kmousetool,94,33,20,22,4,6,101,147,63.94557823129252,Nepali <info@mpp.org.np>
+kmouth,1367,99,30,170,22,16,1196,1496,91.37700534759358,Nepali <info@mpp.org.np>
+kmplot,2180,290,30,408,66,11,1994,2500,87.2,Nepali <info@mpp.org.np>
+knavalbattle,50,87,264,18,17,69,58,401,12.468827930174564,Nepali <info@mpp.org.np>
+knetwalk,20,18,205,8,1,47,23,243,8.23045267489712,Nepali <info@mpp.org.np>
+knotes,172,176,264,82,59,52,192,612,28.104575163398692,Nepali <info@mpp.org.np>
+koffice-kivio,8413,0,4,2359,0,2,8378,8417,99.95247712961863,Nepali <info@mpp.org.np>
+kolf,336,49,16,128,14,6,339,401,83.79052369077307,Nepali <info@mpp.org.np>
+kolourpaint,1118,477,973,284,100,64,1102,2568,43.53582554517134,Nepali <info@mpp.org.np>
+kompare,425,662,326,48,125,27,401,1413,30.077848549186132,Nepali <info@mpp.org.np>
+konqueror,4373,1607,1029,626,177,128,4123,7009,62.39121129975745,Nepali <info@mpp.org.np>
+konquest,144,67,35,48,31,19,145,246,58.536585365853654,Nepali <info@mpp.org.np>
+konsole5,333,1195,2394,75,349,403,308,3922,8.49056603773585,Nepali <info@mpp.org.np>
+kontact,48,144,300,18,32,37,56,492,9.75609756097561,Nepali <info@mpp.org.np>
+kopete,8672,5534,4221,1702,1168,587,8193,18427,47.06137732674879,Nepali <info@mpp.org.np>
+korganizer,1689,2478,2745,244,421,222,1580,6912,24.43576388888889,Nepali <info@mpp.org.np>
+kpat,109,134,336,41,54,106,121,579,18.825561312607945,Nepali <info@mpp.org.np>
+kpilot,2309,812,4035,426,187,248,2220,7156,32.2666294019005,Nepali <info@mpp.org.np>
+krdc,318,292,552,63,64,133,298,1162,27.36660929432014,Nepali <info@mpp.org.np>
+kreport,0,288,123,0,153,19,0,411,0.0,Nepali <info@mpp.org.np>
+kreversi,130,61,234,44,12,84,138,425,30.58823529411765,Nepali <info@mpp.org.np>
+krfb,193,163,379,38,18,49,203,735,26.258503401360546,Nepali <info@mpp.org.np>
+krita,1199,13638,17766,463,5533,1966,1198,32603,3.6775756832193354,Nepali <info@mpp.org.np>
+kruler,12,37,109,4,5,35,13,158,7.59493670886076,Nepali <info@mpp.org.np>
+kshisen,125,70,466,39,11,25,118,661,18.910741301059,Nepali <info@mpp.org.np>
+ksig,85,0,0,26,0,0,91,85,100.0,Nepali <info@mpp.org.np>
+kspaceduel,152,13,0,72,9,0,158,165,92.12121212121212,Nepali <info@mpp.org.np>
+kstars,9368,18142,26143,1842,7391,2927,8617,53653,17.46034704489963,Nepali <info@mpp.org.np>
+ksysguard,710,254,129,150,52,35,643,1093,64.95882891125343,Nepali <info@mpp.org.np>
+kteatime,41,74,88,22,21,24,42,203,20.19704433497537,Nepali <info@mpp.org.np>
+ktimer,33,16,209,22,3,28,48,258,12.790697674418606,Nepali <info@mpp.org.np>
+ktouch,9,347,604,3,98,156,7,960,0.9375,Nepali <info@mpp.org.np>
+ktuberling,118,30,10,28,5,5,75,158,74.68354430379746,Nepali <info@mpp.org.np>
+kturtle,90,193,1255,24,68,257,85,1538,5.851755526657997,Nepali <info@mpp.org.np>
+kwalletmanager5,512,154,144,113,25,30,526,810,63.20987654320987,Nepali <info@mpp.org.np>
+kwin,1122,1183,2723,176,270,457,1049,5028,22.315035799522672,Nepali <info@mpp.org.np>
+kwordquiz,1357,379,322,272,90,53,1333,2058,65.93780369290573,Nepali <info@mpp.org.np>
+libadwaita,42,0,0,14,0,0,44,42,100.0,
+libbonobo,531,12,0,105,2,0,513,543,97.79005524861878,Nepali <info@mpp.org.np>
+libbonoboui,361,0,0,114,0,0,362,361,100.0,Nepali <info@mpp.org.np>
+libcryptui,3616,12,0,747,1,0,3679,3628,99.66923925027564,Nepali <info@mpp.org.np>
+libfilezilla,6,0,0,2,0,0,7,6,100.0,Nepali <info@mpp.org.np>
+libgda,0,0,0,0,0,0,0,0,0.0,
+libgnome,1656,0,0,256,0,0,1554,1656,100.0,Nepali <info@mpp.org.np>
+libgnomecanvas,378,0,0,95,0,0,362,378,100.0,Nepali <info@mpp.org.np>
+libgnomeui,1290,0,0,330,0,0,1286,1290,100.0,Nepali <info@mpp.org.np>
+libgtop2,126,0,0,40,0,0,132,126,100.0,Nepali <info@mpp.org.np>
+libgweather,4170,631,1394,3150,347,1089,4197,6195,67.31234866828088,Nepali Translation Team <chautari@gmail.com>
+libgweather4,4170,631,1394,3150,347,1089,4197,6195,67.31234866828088,Nepali Translation Team <chautari@gmail.com>
+libkdegames,269,53,48,105,22,5,289,370,72.70270270270271,Nepali <info@mpp.org.np>
+libkeduvocdocument,126,35,10,59,19,3,128,171,73.68421052631578,Nepali <info@mpp.org.np>
+libkomparediff2,108,16,19,10,8,1,90,143,75.52447552447552,Nepali <info@mpp.org.np>
+libksysguard,86,648,2750,34,84,242,88,3484,2.4684270952927667,Nepali <info@mpp.org.np>
+libmatekbd,13,0,295,13,0,78,14,308,4.220779220779221,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+libmatemixer,8,0,234,7,0,119,10,242,3.3057851239669422,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+libmateweather,3582,0,2561,2759,0,1816,3603,6143,58.310271854142925,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+libnma,12,147,729,8,53,126,14,888,1.3513513513513513,Nepali <info@mpp.org.np>
+libpeas,103,0,0,29,0,0,102,103,100.0,Nepali Translation Team <chautari@gmail.com>
+libreoffice,297931,10388,406595,44212,4421,41171,264233,714914,41.67368382770515,LANGUAGE <LL@li.org>
+libsecret,59,0,0,9,0,0,50,59,100.0,Nepali Translation Team <chautari@gmail.com>
+libsoup,183,0,0,43,0,0,190,183,100.0,Nepali Translation Team <chautari@gmail.com>
+libsoup3,180,0,0,38,0,0,186,180,100.0,Nepali Translation Team <chautari@gmail.com>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Nepali (http://www.transifex.com/projects/p/fedora/language/ne/)
+libwnck,1101,21,0,237,2,0,1033,1122,98.1283422459893,Nepali <info@mpp.org.np>
+libwnck3,1083,39,0,236,3,0,1017,1122,96.52406417112299,Nepali <info@mpp.org.np>
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Nepali (http://www.transifex.com/the_cavalry/light-locker/language/ne/)
+lightdm,0,0,84,0,0,4,0,84,0.0,Nepali <ne@li.org>
+lightdm-settings,45,0,276,20,0,45,42,321,14.018691588785046,Nepali <ne@li.org>
+lightsoff,40,0,56,14,0,4,35,96,41.66666666666667,Nepali Translation Team <chautari@gmail.com>
+lskat,195,49,10,65,13,5,198,254,76.77165354330708,Nepali <info@mpp.org.np>
+lxmenu-data,97,0,0,37,0,0,98,97,100.0,Nepali <info@mpp.org.np>
+maliit-keyboard,31,4,46,30,2,29,31,81,38.2716049382716,Nepali <ne@li.org>
+marco,2522,0,1781,325,0,105,2422,4303,58.610271903323266,Nepali (https://app.transifex.com/mate/teams/13566/ne/)
+mate-applets,1656,37,14264,421,8,1217,1694,15957,10.377890580936267,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-backgrounds,4,0,51,2,0,27,4,55,7.2727272727272725,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-calc,76,0,3247,64,0,685,105,3323,2.2870899789346977,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-control-center,1120,7,7126,385,1,1124,1175,8253,13.570822731128073,Nepali (https://app.transifex.com/mate/teams/13566/ne/)
+mate-desktop,594,0,1782,114,0,187,585,2376,25.0,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-media,20,0,219,16,0,83,21,239,8.368200836820083,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-menu,60,0,248,32,0,78,64,308,19.480519480519483,Nepali (http://www.transifex.com/mate/MATE/language/ne/)
+mate-menus,98,0,5,38,0,1,99,103,95.14563106796116,Nepali (https://app.transifex.com/mate/teams/13566/ne/)
+mate-notification-daemon,7,0,179,6,0,47,15,186,3.763440860215054,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-panel,3592,0,3128,471,0,343,3067,6720,53.45238095238095,Nepali (https://app.transifex.com/mate/teams/13566/ne/)
+mate-polkit,15,0,108,7,0,14,18,123,12.195121951219512,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-power-manager,33,0,5086,30,0,521,52,5119,0.6446571596014847,Nepali (https://app.transifex.com/mate/teams/13566/ne/)
+mate-screensaver,809,0,292,138,0,38,739,1101,73.4786557674841,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-sensors-applet,5,2,2153,5,2,219,13,2160,0.23148148148148145,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-session-manager,174,0,541,59,0,73,172,715,24.335664335664337,Nepali (https://app.transifex.com/mate/teams/13566/ne/)
+mate-settings-daemon,211,0,1995,51,0,268,211,2206,9.56482320942883,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-system-monitor,111,0,4736,73,0,575,132,4847,2.2900763358778624,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-terminal,3020,0,5366,367,0,436,2621,8386,36.01240162175054,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-themes,9,0,65,3,0,20,10,74,12.162162162162163,Nepali (http://www.transifex.com/mate/MATE/language/ne/)
+mate-user-admin,12,0,593,11,0,115,16,605,1.9834710743801653,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-user-guide,128,0,42841,78,0,3150,140,42969,0.2978891759175219,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+mate-utils,2728,0,7332,561,0,565,2588,10060,27.117296222664017,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+meld,865,0,0,242,0,0,927,865,100.0,Nepali <info@mpp.org.np>
+metacity,8059,0,0,515,0,0,7470,8059,100.0,Nepali <info@mpp.org.np>
+mingw-GConf2,4026,0,6,480,0,1,3967,4032,99.85119047619048,Nepali <info@mpp.org.np>
+mingw-atk,440,0,0,169,0,0,426,440,100.0,Nepali Translation Team <chautari@gmail.com>
+mingw-gdk-pixbuf,1325,0,0,198,0,0,1263,1325,100.0,Nepali <info@mpp.org.np>
+mingw-glib-networking,409,0,0,59,0,0,394,409,100.0,Nepali Translation Team <chautari@gmail.com>
+mingw-glib2,2831,2338,2461,624,362,214,2919,7630,37.10353866317169,Nepali Translation Team <chautari@gmail.com>
+mingw-gtk2,8161,2847,2696,1464,669,651,6963,13704,59.55195563339171,Nepali <info@mpp.org.np>
+mingw-gtk3,9489,4992,2250,2688,1000,249,8503,16731,56.71507979200287,Nepali Translation Team <chautari@gmail.com>
+mingw-gtksourceview3,72,84,166,16,23,67,70,322,22.36024844720497,Nepali <info@mpp.org.np>
+mingw-json-glib,239,14,50,36,3,5,219,303,78.87788778877888,Nepali Translation Team <chautari@gmail.com>
+mingw-libsoup,183,0,0,43,0,0,190,183,100.0,Nepali Translation Team <chautari@gmail.com>
+mingw-wxWidgets3,7489,114,92,1743,54,56,7593,7695,97.32293697205978,Him Prasad Gautam <himjee@yahoo.com>
+mousetweaks,114,0,0,30,0,0,102,114,100.0,Nepali Translation Team <chautari@gmail.com>
+mozo,13,0,33,11,0,13,15,46,28.26086956521739,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+muffin,8059,0,0,515,0,0,7471,8059,100.0,Nepali <info@mpp.org.np>
+mutter,1011,52,238,149,2,2,982,1301,77.70945426594928,Nepali Translation Team <chautari@gmail.com>
+nautilus,3976,1409,156,941,159,1,3850,5541,71.75600072189135,Nepali Translation Team <chautari@gmail.com>
+nemo-extensions,8,0,0,2,0,0,10,8,100.0,Nepali <ne@li.org>
+network-manager-applet,65,816,3424,29,221,609,71,4305,1.5098722415795587,Nepali <info@mpp.org.np>
+newt,4,0,0,4,0,0,6,4,100.0,Nepali <info@mpp.org.np>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,10,0,11,5,0,7,14,21,47.61904761904761,Nepali <info@mpp.org.np>
+okular,323,1120,2553,78,395,521,307,3996,8.083083083083082,Nepali <info@mpp.org.np>
+onboard,365,0,1953,184,0,326,379,2318,15.746333045729077,Nepali <ne@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,5093,556,88,1750,132,17,5011,5737,88.77462088199407,Nepali Translation Team <chautari@gmail.com>
+pam,0,20,515,0,3,97,0,535,0.0,Nepali (http://www.transifex.com/projects/p/fedora/language/ne/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+parley,579,1322,1532,204,322,203,595,3433,16.86571511797262,Nepali <info@mpp.org.np>
+php-phpmyadmin-sql-parser5,0,11,257,0,2,48,0,268,0.0,Nepali <https://hosted.weblate.org/projects/phpmyadmin/master/ne/>
+picard,45,0,1486,33,0,462,48,1531,2.939255388634879,Nepali (http://www.transifex.com/projects/p/musicbrainz/language/ne/)
+pidgin,6946,0,8889,1909,0,1548,7015,15835,43.86485633091253,Nepali (http://www.transifex.com/pidgin/pidgin/language/ne/)
+plank,46,0,143,18,0,32,45,189,24.33862433862434,Nepali <ne@li.org>
+plasma-desktop,2232,860,1203,247,151,275,2028,4295,51.967403958090806,Nepali <info@mpp.org.np>
+plasma-drkonqi,8,97,1879,3,25,175,9,1984,0.4032258064516129,Nepali <info@mpp.org.np>
+plasma-oxygen,4,25,586,1,6,212,4,615,0.6504065040650406,Nepali <info@mpp.org.np>
+plasma-sdk,31,26,193,11,8,44,33,250,12.4,Nepali <info@mpp.org.np>
+plasma-systemsettings,7,37,168,4,9,41,8,212,3.30188679245283,Nepali <info@mpp.org.np>
+plasma-workspace,1545,1235,2605,472,330,302,1624,5385,28.690807799442897,Nepali <info@mpp.org.np>
+pluma,3620,0,9493,954,0,1136,3627,13113,27.606192328223898,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+pluma-plugins,136,0,1262,17,0,126,108,1398,9.72818311874106,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+polari,285,137,310,111,30,29,306,732,38.9344262295082,Nepali Translation Team <chautari@gmail.com>
+policycoreutils,8,0,12163,8,0,1768,11,12171,0.06573001396762797,Nepali
+prusa-slicer,7253,192,63,1832,39,20,7379,7508,96.60362280234416,Him Prasad Gautam <himjee@yahoo.com>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-SecretStorage,59,0,0,9,0,0,50,59,100.0,Nepali Translation Team <chautari@gmail.com>
+python-apt,8,258,278,3,64,51,9,544,1.4705882352941175,Nepali <info@mpp.org.np>
+python-blivet,37,0,547,3,0,75,31,584,6.335616438356165,Nepali (http://www.transifex.com/projects/p/blivet/language/ne/)
+python-caja,1,0,5,1,0,1,1,6,16.666666666666664,Nepali (https://www.transifex.com/mate/teams/13566/ne/)
+python-django,2259,0,1519,632,0,236,2084,3778,59.79354155637904,Nepali (http://www.transifex.com/django/django/language/ne/)
+python-django-contrib-comments,81,0,163,32,0,28,78,244,33.19672131147541,Nepali (http://www.transifex.com/django/django-contrib-comments/language/ne/)
+python-django-formtools,5,0,27,3,0,8,6,32,15.625,Nepali (http://www.transifex.com/projects/p/django-formtools/language/ne/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,561,0,141,95,0,30,573,702,79.91452991452992,Nepali (Nepal) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ne_NP/)
+python-django3,2267,0,1496,631,0,231,2087,3763,60.24448578262025,Nepali (http://www.transifex.com/django/django/language/ne/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Nepali
+python-hyperkitty,0,0,926,0,0,263,0,926,0.0,LANGUAGE <LL@li.org>
+python-meh,0,0,109,0,0,23,0,109,0.0,Nepali
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+python-sphinx,295,0,4564,134,0,617,299,4859,6.071208067503601,Nepali (http://www.transifex.com/sphinx-doc/sphinx-1/language/ne/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Nepali (https://www.transifex.com/sphinx-doc/teams/36659/ne/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Nepali (https://www.transifex.com/sphinx-doc/teams/36659/ne/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Nepali (https://www.transifex.com/sphinx-doc/teams/36659/ne/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Nepali (https://www.transifex.com/sphinx-doc/teams/36659/ne/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Nepali (https://www.transifex.com/sphinx-doc/teams/36659/ne/)
+python-wxpython4,7489,114,92,1743,54,56,7593,7695,97.32293697205978,Him Prasad Gautam <himjee@yahoo.com>
+quadrapassel,229,74,125,57,17,5,200,428,53.50467289719626,Nepali <info@mpp.org.np>
+regexxer,466,0,1,99,0,1,437,467,99.78586723768737,Nepali <info@mpp.org.np>
+rhythmbox,3936,0,0,902,0,0,3934,3936,100.0,Nepali <info@mpp.org.np>
+rygel,1034,303,285,219,49,33,1089,1622,63.748458692971646,Nepali Translation Team <chautari@gmail.com>
+sawfish,2370,1501,2572,539,249,194,2326,6443,36.78410678255471,Nepali <info@mpp.org.np>
+scratch,1275,0,195,552,0,74,1332,1470,86.73469387755102,LANGUAGE <LL@li.org>
+seahorse,1541,562,284,430,99,21,1535,2387,64.55802262253874,Nepali Translation Team <chautari@gmail.com>
+seahorse-caja,406,15,0,107,3,0,473,421,96.43705463182897,Nepali <info@mpp.org.np>
+seahorse-nautilus,406,15,0,107,3,0,473,421,96.43705463182897,Nepali <info@mpp.org.np>
+shadow-utils,1013,1543,2154,207,224,240,1096,4710,21.50743099787686,Nepali <info@mpp.org.np>
+simple-scan,525,342,126,137,54,10,515,993,52.87009063444109,Nepali Translation Team <chautari@gmail.com>
+slick-greeter,211,0,0,47,0,0,212,211,100.0,Nepali <ne@li.org>
+sound-juicer,861,0,0,161,0,0,849,861,100.0,Nepali <info@mpp.org.np>
+stellarium,1840,0,149801,607,0,37248,1803,151641,1.213392156474832,Nepali (https://www.transifex.com/stellarium/teams/80998/ne/)
+sugar,2282,23,0,525,4,0,2218,2305,99.00216919739697,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,46,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,167,46,121,50,1,20,184,334,50.0,LANGUAGE <LL@li.org>
+sugar-calculator,774,0,92,156,0,13,748,866,89.37644341801386,LANGUAGE <LL@li.org>
+sugar-chat,56,3,78,34,1,46,57,137,40.87591240875913,LANGUAGE <LL@li.org>
+sugar-clock,59,7,0,20,1,0,51,66,89.39393939393939,LANGUAGE <LL@li.org>
+sugar-dimensions,132,0,44,71,0,16,119,176,75.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,91,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,188,0,70,39,0,24,175,258,72.86821705426357,LANGUAGE <LL@li.org>
+sugar-flipsticks,77,0,74,42,0,3,89,151,50.993377483443716,LANGUAGE <LL@li.org>
+sugar-fototoon,74,3,62,30,3,15,71,139,53.23741007194245,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,19,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,69,77,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,68,69,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,92,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,144,142,100.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,117,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,32,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,99,0,183,27,0,41,98,282,35.1063829787234,LANGUAGE <LL@li.org>
+sugar-portfolio,41,0,32,18,0,7,47,73,56.16438356164384,LANGUAGE <LL@li.org>
+sugar-read,122,0,15,46,0,4,117,137,89.05109489051095,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,71,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,223,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,7,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,155,4,54,108,2,13,163,213,72.76995305164318,LANGUAGE <LL@li.org>
+sugar-turtleart,1547,7,11,468,3,2,1493,1565,98.84984025559106,LANGUAGE <LL@li.org>
+sugar-typing-turtle,357,31,211,90,8,29,319,599,59.59933222036727,LANGUAGE <LL@li.org>
+sugar-view-slides,43,0,17,22,0,1,45,60,71.66666666666667,Nepali
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,122,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,37,29,100.0,LANGUAGE <LL@li.org>
+supertux,668,0,2198,229,0,666,618,2866,23.30774598743894,Nepali (http://www.transifex.com/arctic-games/supertux/language/ne/)
+sushi,54,0,0,14,0,0,51,54,100.0,Nepali Translation Team <chautari@gmail.com>
+sweeper,188,34,6,43,5,2,191,228,82.45614035087719,Nepali <info@mpp.org.np>
+swell-foop,340,0,0,72,0,0,314,340,100.0,Nepali <info@mpp.org.np>
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+synapse,12,0,844,9,0,225,9,856,1.4018691588785046,Nepali <ne@li.org>
+tali,438,0,0,100,0,0,400,438,100.0,Nepali Translation Team <chautari@gmail.com>
+timeshift,0,0,2870,0,0,567,0,2870,0.0,Nepali <ne@li.org>
+tomboy,2319,0,0,358,0,0,2393,2319,100.0,Nepali <info@mpp.org.np>
+totem,706,303,318,300,54,35,697,1327,53.20271288620949,Nepali Translation Team <chautari@gmail.com>
+totem-pl-parser,29,0,0,8,0,0,30,29,100.0,Nepali Translation Team <chautari@gmail.com>
+tracker,381,66,133,81,15,14,369,580,65.6896551724138,Nepali Translation Team <chautari@gmail.com>
+tracker-miners,646,340,824,151,60,78,636,1810,35.690607734806626,Nepali Translation Team <chautari@gmail.com>
+tuxpaint,1174,970,1619,255,103,103,1167,3763,31.198511825671005,none
+tuxtype2,71,0,9,32,0,8,74,80,88.75,LANGUAGE <LL@li.org>
+umbrello,2071,2691,985,614,776,228,2077,5747,36.036192796241515,Nepali <info@mpp.org.np>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none
+wxGTK,7126,352,337,1807,81,57,7244,7815,91.18362124120281,Him Prasad Gautam <himjee@yahoo.com>
+wxGTK3,7489,114,92,1743,54,56,7593,7695,97.32293697205978,Him Prasad Gautam <himjee@yahoo.com>
+xdg-desktop-portal-gnome,72,55,98,36,15,11,83,225,32.0,Nepali Team <chautari@gmail.com>
+xed,2510,0,1250,655,0,269,2480,3760,66.75531914893617,Nepali (http://www.transifex.com/projects/p/MATE/language/ne/)
+xfce4-whiskermenu-plugin,381,0,20,121,0,10,368,401,95.01246882793018,Nepali (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ne/)
+xfdesktop,328,0,657,120,0,112,324,985,33.2994923857868,Nepali (http://www.transifex.com/xfce/xfdesktop/language/ne/)
+xreader,542,0,1078,160,0,219,522,1620,33.45679012345679,Nepali (http://www.transifex.com/mate/MATE/language/ne/)
+yelp,348,0,0,73,0,0,328,348,100.0,Nepali <info@mpp.org.np>
+yelp-xsl,88,0,0,64,0,0,79,88,100.0,Nepali Translation Team <chautari@gmail.com>
+zenity,896,0,0,199,0,0,882,896,100.0,Nepali <info@mpp.org.np>

@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iok,137,0,69,33,0,7,161,206,66.50485436893204,Chhattisgarhi <LL@li.org>
+kcoloredit,174,37,67,71,12,12,198,278,62.589928057553955,Hindi <kde-i18n-doc@lists.kde.org>
+kgrab,152,12,206,48,2,3,182,370,41.08108108108108,Hindi <kde-i18n-doc@lists.kde.org>
+kiconedit,585,0,141,149,0,6,690,726,80.57851239669421,Hindi <kde-i18n-doc@lists.kde.org>
+stellarium,54,0,25879,46,0,6630,60,25933,0.20822889754367022,Chhattisgarhi <hne@li.org>

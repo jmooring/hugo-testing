@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,3,0,678,2,0,145,3,681,0.4405286343612335,ae (generated) <https://l10n.elementary.io/projects/appcenter/appcenter/ae/>
+audience,0,0,106,0,0,48,0,106,0.0,
+dippi,0,0,397,0,0,53,0,397,0.0,none
+harvey,0,0,57,0,0,12,0,57,0.0,none
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,
+pantheon-agent-polkit,0,0,0,0,0,0,0,0,0.0,
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,
+pantheon-files,0,0,0,0,0,0,0,0,0.0,
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,
+scratch-text-editor,0,0,0,0,0,0,0,0,0.0,
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,
+stellarium,0,0,25796,0,0,6664,0,25796,0.0,Avestan <ae@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,
+switchboard-plug-a11y,0,0,0,0,0,0,0,0,0.0,
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,
+switchboard-plug-display,0,0,0,0,0,0,0,0,0.0,
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,
+vocal,0,0,0,0,0,0,0,0,0.0,

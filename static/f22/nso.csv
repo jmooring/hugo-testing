@@ -1,0 +1,76 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Northern Sotho (http://www.transifex.com/projects/p/fedora-abrt/language/nso/)
+anaconda,200,0,6515,37,0,1081,272,6715,2.9784065524944157,Northern Sotho (http://www.transifex.com/projects/p/anaconda/language/nso/)
+caja,2968,0,6276,630,0,867,3877,9244,32.1073128515794,Northern Sotho (http://www.transifex.com/mate/MATE/language/nso/)
+calibre,67,0,146961,66,0,17167,71,147028,0.04556955137796882,Northern Sotho (http://www.transifex.com/calibre/calibre/language/nso/)
+certmonger,0,0,1669,0,0,270,0,1669,0.0,Northern Sotho (http://www.transifex.com/projects/p/certmonger/language/nso/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+cinnamon-session,15,40,377,3,14,58,21,432,3.4722222222222223,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+cinnamon-settings-daemon,313,196,525,47,42,82,460,1034,30.270793036750483,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+cinnamon-translations,4,0,1859,4,0,658,6,1863,0.2147074610842727,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+control-center,2626,347,409,571,95,70,3886,3382,77.64636309875813,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Northern Sotho
+entangle,0,0,934,0,0,209,0,934,0.0,Northern Sotho
+eog,554,5,55,149,2,7,815,614,90.22801302931596,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+eom,203,0,1528,61,0,266,314,1731,11.72732524552282,Northern Sotho (http://www.transifex.com/projects/p/MATE/language/nso/)
+gdk-pixbuf2,915,376,57,137,59,6,1487,1348,67.87833827893175,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gdm,5294,0,0,703,0,0,7606,5294,100.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-desktop,316,4,0,72,1,0,489,320,98.75,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-desktop3,316,4,0,72,1,0,489,320,98.75,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-mime-data,887,0,0,362,0,0,1561,887,100.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-session,513,3,0,100,1,0,736,516,99.4186046511628,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-settings-daemon,313,196,525,47,42,82,460,1034,30.270793036750483,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-vfs2,1263,19,0,247,1,0,1877,1282,98.5179407176287,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtk2,6886,3500,3318,1245,807,732,10225,13704,50.248102743724466,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtk3,5264,3283,3306,974,781,732,7727,11853,44.41069771365899,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtkspell3,10,0,6,5,0,2,11,16,62.5,Northern Sotho <LL@li.org>
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,440,0,0,80,0,440,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,85,0,0,18,0,85,0.0,Northern Sotho (http://www.transifex.com/projects/p/initial-setup/language/nso/)
+iso-codes,361,6796,15273,314,5172,9434,373,22430,1.6094516272848864,Northern Sotho <sepedi@translate.org.za>
+koffice-kivio,113,395,7909,95,232,2034,140,8417,1.3425210882737317,<en@li.org>
+libbonoboui,314,3,43,92,1,20,482,360,87.22222222222223,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libgnomeui,1270,83,66,314,19,12,1765,1419,89.49964763918253,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libosinfo,0,0,1871,0,0,554,0,1871,0.0,Northern Sotho
+libreoffice,40535,7377,50306,13226,3055,13951,53378,98218,41.2704392270256,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Northern Sotho (http://www.transifex.com/projects/p/libreport/language/nso/)
+librfm,141,636,1620,96,264,238,223,2397,5.88235294117647,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libvirt,932,4370,47222,219,769,7352,932,52524,1.7744269286421446,Northern Sotho (http://www.transifex.com/projects/p/fedora/language/nso/)
+libvirt-glib,0,0,138,0,0,29,0,138,0.0,Northern Sotho (http://www.transifex.com/projects/p/libvirt-glib/language/nso/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Northern Sotho (http://www.transifex.com/projects/p/fedora/language/nso/)
+mate-control-center,398,0,2353,139,0,516,624,2751,14.467466375863323,Northern Sotho (http://www.transifex.com/mate/MATE/language/nso/)
+mate-desktop,52,0,2361,12,0,322,91,2413,2.154993783671778,Northern Sotho (http://www.transifex.com/mate/MATE/language/nso/)
+mate-panel,2448,0,1868,297,0,301,3361,4316,56.7191844300278,Northern Sotho (http://www.transifex.com/mate/MATE/language/nso/)
+mate-session-manager,45,0,620,13,0,99,73,665,6.7669172932330826,Northern Sotho (http://www.transifex.com/projects/p/MATE/language/nso/)
+mate-settings-daemon,180,0,1555,29,0,213,249,1735,10.37463976945245,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,915,376,57,137,59,6,1487,1348,67.87833827893175,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw-gtk2,6886,3500,3318,1245,807,732,10225,13704,50.248102743724466,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw-gtk3,5264,3283,3306,974,781,732,7727,11853,44.41069771365899,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw-gtkspell3,10,0,6,5,0,2,11,16,62.5,Northern Sotho <LL@li.org>
+mingw-libvirt,932,4296,47246,219,759,7354,932,52474,1.7761176963829708,Northern Sotho (http://www.transifex.com/projects/p/fedora/language/nso/)
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Northern Sotho (http://www.transifex.com/projects/p/libvirt-glib/language/nso/)
+nautilus,3641,2671,1832,704,412,198,4773,8144,44.70776031434185,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Northern Sotho (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/nso/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Northern Sotho (http://www.transifex.com/projects/p/fedora/language/nso/)
+pykickstart,0,0,448,0,0,50,0,448,0.0,Northern Sotho (http://www.transifex.com/projects/p/pykickstart/language/nso/)
+python-blivet,45,0,633,6,0,134,54,678,6.637168141592921,Northern Sotho (http://www.transifex.com/projects/p/blivet/language/nso/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Northern Sotho
+python-meh,0,0,109,0,0,23,0,109,0.0,Northern Sotho
+redhat-menus,221,6,34,73,2,11,363,261,84.67432950191571,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+rodent,138,750,8746,93,297,422,191,9634,1.4324268216732405,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Northern Sotho (http://www.transifex.com/projects/p/fedora/language/nso/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Northern Sotho (http://www.transifex.com/projects/p/fedora/language/nso/)
+sos,0,0,267,0,0,36,0,267,0.0,none
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Northern Sotho (http://www.transifex.com/projects/p/system-config-kickstart/language/nso/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1515,72,4,279,8,4,1808,1591,95.22313010685104,LANGUAGE <LL@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+virt-viewer,0,0,692,0,0,148,0,692,0.0,Northern Sotho (http://www.transifex.com/projects/p/virt-viewer/language/nso/)
+virtaal,1663,0,0,548,0,0,2237,1663,100.0,LANGUAGE <LL@li.org>
+yelp,110,67,429,55,33,60,169,606,18.151815181518153,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deja-dup,271,0,1808,32,0,299,121,2079,13.035113035113035,Mon <mnw@li.org>
+snapd,48,0,4259,24,0,457,54,4307,1.1144648247039703,Mon <mnw@li.org>

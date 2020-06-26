@@ -1,0 +1,43 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora-abrt/language/ks/)
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+atril,536,0,1188,167,0,230,562,1724,31.09048723897912,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+audience,0,0,106,0,0,48,0,106,0.0,
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Kashmiri (http://www.transifex.com/projects/p/certmonger/language/ks/)
+eog,953,16,224,246,4,28,1020,1193,79.88264878457669,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+eom,710,0,1007,180,0,138,764,1717,41.3511939429237,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+evince,789,166,34,231,38,9,821,989,79.77755308392315,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+gnucash,29203,395,139,4586,26,13,31529,29737,98.20425732252748,NONE
+initial-setup,0,0,33,0,0,7,0,33,0.0,Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/)
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+libreoffice,41620,6865,52390,12877,2933,15661,43933,100875,41.25898389095415,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Kashmiri (http://www.transifex.com/projects/p/libreport/language/ks/)
+librfm,37,296,2064,31,137,430,72,2397,1.543596161869003,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+mate-menu,0,0,300,0,0,110,0,300,0.0,Kashmiri (http://www.transifex.com/projects/p/MATE/language/ks/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Kashmiri (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ks/)
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pidgin,0,0,18558,0,0,3948,0,18558,0.0,Kashmiri (http://www.transifex.com/projects/p/pidgin/language/ks/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/)
+rodent,36,239,9359,29,112,671,52,9634,0.37367656217562795,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Kashmiri (http://www.transifex.com/projects/p/system-config-kickstart/language/ks/)
+vocal,0,0,377,0,0,79,0,377,0.0,Kashmiri <ks@li.org>
+xreader,489,0,1164,150,0,234,511,1653,29.58257713248639,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+xviewer,519,0,1158,150,0,174,567,1677,30.94812164579606,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+yelp,753,90,192,212,32,105,787,1035,72.7536231884058,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>

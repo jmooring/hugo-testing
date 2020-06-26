@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+gnome-do,162,0,450,68,0,76,156,612,26.47058823529412,Divehi <dv@li.org>
+gnome-menus,157,0,0,56,0,0,133,157,100.0,Divehi <dv@li.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,276,14,696,203,5,214,258,986,27.99188640973631,Dhivehi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/dv/>
+minetest,327,213,8983,87,72,1196,291,9523,3.4337918723091465,Dhivehi <https://hosted.weblate.org/projects/minetest/minetest/dv/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pinta,17,0,1729,15,0,522,22,1746,0.9736540664375716,Divehi <dv@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none

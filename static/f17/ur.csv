@@ -1,0 +1,188 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,1911,0,3145,496,0,1092,2540,5056,37.796677215189874,Urdu (http://www.transifex.net/projects/p/django/language/ur/)
+NetworkManager,2082,0,0,438,0,0,2815,2082,100.0,urducoder.com <makkiabufaris@aol.com>
+Terminal,1125,15,51,252,8,9,1348,1191,94.45843828715365,urdu <makki.ma@gmail.com>
+Thunar,3497,240,149,620,43,15,3932,3886,89.9897066392177,urdu <makki.ma@gmail.com>
+abrt,1,0,1964,1,0,246,1,1965,0.05089058524173028,Urdu <trans-urdu@lists.fedoraproject.org>
+anaconda,1751,0,6546,338,0,690,2233,8297,21.104013498855007,Urdu <trans-urdu@lists.fedoraproject.org>
+asunder,443,11,0,80,3,0,581,454,97.57709251101322,Urdu <makkiabufaris@aol.com>
+authconfig,653,0,985,129,0,156,927,1638,39.865689865689866,Urdu <trans-urdu@lists.fedoraproject.org>
+calibre,14,0,39545,9,0,4135,23,39559,0.035390176698096514,Urdu <ur@li.org>
+chkconfig,410,0,77,84,0,9,432,487,84.18891170431212,Urdu <trans-urdu@lists.fedoraproject.org>
+cinnamon,255,0,1441,81,0,471,317,1696,15.035377358490564,Urdu <ur@li.org>
+clutter,1,0,2689,1,0,594,1,2690,0.03717472118959108,UrduWeb Localization Team <l10n@urduweb.org>
+control-center,0,0,1313,0,0,756,0,1313,0.0,none
+exo,2388,276,136,482,32,34,2760,2800,85.28571428571429,Urdu <makki.ma@gmail.com>
+file-roller,1159,0,0,259,0,0,1332,1159,100.0,Urdu <makki.ma@gmail.com>
+firstboot,124,0,447,12,0,38,159,571,21.71628721541156,Urdu <trans-urdu@lists.fedoraproject.org>
+garcon,0,9,80,0,1,28,0,89,0.0,Urdu <makki.ma@gmail.com>
+gcompris,0,0,0,0,0,0,0,0,0.0,
+gigolo,796,74,18,234,18,8,1016,888,89.63963963963964,Urdu <makki.ma@gmail.com>
+gnome-desktop,15,3,305,9,3,61,16,323,4.643962848297214,UrduWeb Localization Team <l10n@urduweb.org>
+gnome-desktop3,15,3,305,9,3,61,16,323,4.643962848297214,UrduWeb Localization Team <l10n@urduweb.org>
+gnome-do,22,0,590,11,0,133,29,612,3.594771241830065,Urdu <ur@li.org>
+gnomebaker,53,0,1133,21,0,270,34,1186,4.4688026981450255,Urdu <urd@li.org>
+gpicview,219,0,0,44,0,0,309,219,100.0,Urdu <makki.ma@gmail.com>
+gtk2,16,113,13575,16,84,2684,18,13704,0.11675423234092236,UrduWeb Localization Team <l10n@urduweb.org>
+gtk3,15,119,11719,15,87,2385,17,11853,0.12655024044545685,UrduWeb Localization Team <l10n@urduweb.org>
+homebank,4,0,1505,4,0,530,4,1509,0.26507620941020543,Urdu <ur@li.org>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+initscripts,0,0,4349,0,0,1070,0,4349,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+isomaster,674,0,0,107,0,0,843,674,100.0,Urdu <makkiabufaris@aol.com>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+klavaro,1898,6,9,224,6,3,2220,1913,99.21589127025614,Urdu <jessbody@gmail.com>
+libfm,0,0,859,0,0,260,0,859,0.0,LANGUAGE <LL@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,954,19717,13246,224,3532,1881,954,33917,2.812748769053867,none
+libxfce4menu,31,0,0,5,0,0,31,31,100.0,Urdu <makki.ma@gmail.com>
+libxfce4ui,218,36,44,50,8,4,278,298,73.15436241610739,Urdu <makki.ma@gmail.com>
+libxfce4util,826,0,22,8,0,6,1026,848,97.40566037735849,Urdu <makki.ma@gmail.com>
+libxfcegui4,278,0,0,88,0,0,344,278,100.0,Urdu <makki.ma@gmai.com>
+lxdm,0,0,30,0,0,18,0,30,0.0,LANGUAGE <LL@li.org>
+lxinput,120,10,14,42,4,2,138,144,83.33333333333334,Urdu <makki.ma@gmail.com>
+lxlauncher,51,0,0,11,0,0,59,51,100.0,Urdu <makki.ma@gmail.com>
+lxmenu-data,97,0,0,37,0,0,117,97,100.0,Urdu <makki.ma@gmail.com>
+lxmusic,196,0,7,87,0,2,251,203,96.55172413793103,Urdu <makki.ma@gmail.com>
+lxpanel,1686,160,128,564,56,52,2194,1974,85.41033434650456,Urdu <makki.ma@gmail.com>
+lxpolkit,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+lxrandr,154,68,22,42,6,6,220,244,63.114754098360656,Urdu <makki.ma@gmail.com>
+lxsession,72,0,0,28,0,0,86,72,100.0,Urdu <makki.ma@gmail.com>
+lxsession-edit,112,4,12,18,2,2,168,128,87.5,Urdu <makki.ma@gmail.com>
+lxshortcut,86,0,0,38,0,0,102,86,100.0,Urdu <makki.ma@gmail.com>
+lxtask,224,0,20,86,0,10,326,244,91.80327868852459,Urdu <makki.ma@gmail.com>
+lxterminal,140,52,96,102,30,38,192,288,48.61111111111111,Urdu <makki.ma@gmail.com>
+mate-desktop,2,0,405,1,0,42,3,407,0.4914004914004914,LANGUAGE <LL@li.org>
+mate-file-archiver,1154,0,0,259,0,0,1332,1154,100.0,Urdu <makki.ma@gmail.com>
+mingw-gtk2,16,113,13575,16,84,2684,18,13704,0.11675423234092236,UrduWeb Localization Team <l10n@urduweb.org>
+mingw-gtk3,15,119,11719,15,87,2385,17,11853,0.12655024044545685,UrduWeb Localization Team <l10n@urduweb.org>
+mingw-libvirt,954,19603,13072,224,3508,1860,954,33629,2.8368372535609145,none
+mousepad,135,0,0,64,0,0,173,135,100.0,Urdu <makki.ma@gmail.com>
+olpc-switch-desktop,158,0,0,14,0,0,160,158,100.0,LANGUAGE <LL@li.org>
+openerp,32,0,33936,9,0,3731,42,33968,0.09420631182289213,Urdu <ur@li.org>
+openerp-client,1072,0,6657,303,0,271,1230,7729,13.869840859102084,Urdu <ur@li.org>
+orage,1867,111,414,724,34,43,2300,2392,78.05183946488295,urdu <makki.ma@gmail.com>
+osmo,1685,6,8,701,2,2,2193,1699,99.17598587404356,urducoder.com <makkiabufaris@aol.com>
+passwd,0,0,315,0,0,55,0,315,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+pidgin,10352,4202,3802,2336,1012,555,11977,18356,56.39572891697537,"C-DAC,Gist,Urdu Team / BharateeyaOO.o <info.gist@cdac.in / bharateeyaoo@ncb.ernet.in>"
+poedit,1025,111,26,243,24,2,1330,1162,88.20998278829603,UrduWeb Localization Team <l10n@urduweb.org>
+policycoreutils,0,0,4303,0,0,730,0,4303,0.0,LANGUAGE <LL@li.org>
+pootle,661,71,2765,624,69,769,866,3497,18.90191592793823,LANGUAGE <LL@li.org>
+pykickstart,0,0,343,0,0,36,0,343,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+redhat-menus,216,11,34,71,4,11,397,261,82.75862068965517,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+rhn-client-tools,0,0,4348,0,0,433,0,4348,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+rhnsd,0,0,37,0,0,9,0,37,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+ristretto,110,224,414,46,72,156,120,748,14.705882352941178,Urdu <makki.ma@gmail.com>
+setroubleshoot,0,0,631,0,0,174,0,631,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+setroubleshoot-plugins,0,0,8291,0,0,399,0,8291,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+shutter,148,0,3037,55,0,553,193,3185,4.646781789638933,Urdu <ur@li.org>
+simple-scan,0,0,651,0,0,118,0,651,0.0,Urdu <ur@li.org>
+sos,0,0,267,0,0,36,0,267,0.0,none
+spacefm,694,0,7562,223,0,1274,824,8256,8.406007751937985,LANGUAGE <LL@li.org>
+spacewalk-backend,0,0,1895,0,0,223,0,1895,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+sugar,685,94,822,191,24,175,935,1601,42.78575890068707,LANGUAGE <LL@li.org>
+sugar-abacus,0,10,14,0,10,14,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-browse,28,18,35,19,2,14,36,81,34.5679012345679,LANGUAGE <LL@li.org>
+sugar-calculator,134,64,661,43,15,108,143,859,15.599534342258439,LANGUAGE <LL@li.org>
+sugar-chat,24,0,26,11,0,22,38,50,48.0,LANGUAGE <LL@li.org>
+sugar-clock,3,3,16,3,3,6,3,22,13.636363636363635,LANGUAGE <LL@li.org>
+sugar-connect,31,0,5,8,0,1,45,36,86.11111111111111,LANGUAGE <LL@li.org>
+sugar-finance,0,7,136,0,7,25,0,143,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,8,39,0,8,18,0,47,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,24,0,0,11,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,5,179,0,5,51,0,184,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,15,266,0,12,82,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,41,4,32,13,1,5,41,77,53.246753246753244,LANGUAGE <LL@li.org>
+sugar-measure,9,14,132,5,10,58,9,155,5.806451612903226,LANGUAGE <LL@li.org>
+sugar-memorize,24,23,67,13,22,36,40,114,21.052631578947366,LANGUAGE <LL@li.org>
+sugar-moon,0,0,91,0,0,32,0,91,0.0,LANGUAGE <LL@li.org>
+sugar-paint,41,5,18,37,3,9,56,64,64.0625,LANGUAGE <LL@li.org>
+sugar-physics,1,4,23,1,3,23,1,28,3.571428571428571,LANGUAGE <LL@li.org>
+sugar-pippy,40,16,53,12,2,17,55,109,36.69724770642202,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,24,0,36,15,0,16,31,60,40.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,3,12,0,3,3,0,15,0.0,LANGUAGE <LL@li.org>
+sugar-tamtam,1935,128,14,673,21,3,2239,2077,93.16321617717863,LANGUAGE <LL@li.org>
+sugar-terminal,3,0,14,2,0,7,3,17,17.647058823529413,LANGUAGE <LL@li.org>
+sugar-toolkit,68,1,4,35,1,1,70,73,93.15068493150685,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,75,1,0,39,1,0,77,76,98.68421052631578,Sugar Labs
+sugar-turtleart,2,0,2574,1,0,680,1,2576,0.07763975155279502,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,64,0,17,38,0,10,81,81,79.01234567901234,LANGUAGE <LL@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,41,2,76,9,1,13,73,119,34.45378151260504,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-date,12,0,1838,4,0,820,18,1850,0.6486486486486486,Urdu <trans-urdu@lists.fedoraproject.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,0,0,2814,0,0,331,0,2814,0.0,none
+system-config-httpd,816,42,0,204,19,0,1263,858,95.1048951048951,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,70,5,112,11,4,66,98,187,37.4331550802139,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-kickstart,726,176,202,183,40,22,935,1104,65.76086956521739,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-network,2299,329,404,585,78,58,3201,3032,75.8245382585752,SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com>
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,571,0,0,134,0,571,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,518,0,0,71,0,518,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+terminator,41,0,685,30,0,224,44,726,5.647382920110193,Urdu <ur@li.org>
+thunar-archive-plugin,172,0,0,26,0,0,168,172,100.0,Urdu <makki.ma@gmail.com>
+thunar-vcs-plugin,734,182,96,414,106,44,982,1012,72.5296442687747,Urdu <makki.ma@gmail.com>
+thunar-vfs,335,6,46,66,1,19,384,387,86.56330749354005,urdu <makki.ma@gmail.com>
+thunar-volman,520,206,246,136,38,58,640,972,53.49794238683128,Urdu <makki.ma@gmail.com>
+transmission,4,0,1805,2,0,492,11,1809,0.22111663902708678,Urdu <ur@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+xfburn,294,288,718,122,65,96,409,1300,22.615384615384613,Urdu <makki.ma@gmail.com>
+xfce-utils,152,104,728,48,20,76,198,984,15.447154471544716,Urdu <makki.ma@gmail.com>
+xfce4-appfinder,46,44,282,10,14,64,56,372,12.365591397849462,Urdu <makki.ma@gmail.com>
+xfce4-battery-plugin,246,30,22,62,14,10,312,298,82.5503355704698,Urdu <makki.ma@gmail.com>
+xfce4-clipman-plugin,440,70,184,78,14,30,558,694,63.40057636887608,Urdu <makki.ma@gmail.com>
+xfce4-cpufreq-plugin,23,0,0,7,0,0,32,23,100.0,Urdu <makki.ma@gmail.com>
+xfce4-cpugraph-plugin,90,0,52,50,0,20,98,142,63.38028169014085,Urdu <makki.ma@gmail.com>
+xfce4-datetime-plugin,51,1,0,18,1,0,52,52,98.07692307692307,Urdu <makki.ma@gmail.com>
+xfce4-dict,340,57,105,77,11,21,408,502,67.72908366533864,Urdu <makki.ma@gmail.com>
+xfce4-diskperf-plugin,272,16,78,62,6,8,304,366,74.31693989071039,Urdu <makki.ma@gmail.com>
+xfce4-eyes-plugin,9,0,0,3,0,0,11,9,100.0,Urdu <makki.ma@gmail.com>
+xfce4-fsguard-plugin,56,4,11,16,2,1,60,71,78.87323943661971,Urdu <makki.ma@gmail.com>
+xfce4-genmon-plugin,71,0,0,15,0,0,79,71,100.0,Urdu <makki.ma@gmail.com>
+xfce4-icon-theme,8,0,0,2,0,0,9,8,100.0,Urdu <makki.ma@gmail.com>
+xfce4-mixer,181,0,0,37,0,0,220,181,100.0,Urdu <makki.ma@gmail.com>
+xfce4-mount-plugin,283,11,4,42,1,1,330,298,94.96644295302013,Urdu <makki.ma@gmail.com>
+xfce4-mpc-plugin,70,14,68,28,4,16,82,152,46.05263157894737,Urdu <makki.ma@gmail.com>
+xfce4-netload-plugin,68,0,0,21,0,0,93,68,100.0,Urdu <makki.ma@gmail.com>
+xfce4-notes-plugin,97,2,12,38,2,7,108,111,87.38738738738738,Urdu <makki.ma@gmail.com>
+xfce4-panel,137,447,920,45,118,181,175,1504,9.10904255319149,urdu <makki.ma@gmail.com>
+xfce4-places-plugin,150,0,130,64,0,12,182,280,53.57142857142857,Urdu <makki.ma@gmail.com>
+xfce4-power-manager,650,36,8,149,5,1,845,694,93.65994236311239,Urdu <makki.ma@gmail.com>
+xfce4-radio-plugin,65,0,0,29,0,0,74,65,100.0,Urdu <makki.ma@gmail.com>
+xfce4-screenshooter,690,100,96,122,14,10,722,886,77.87810383747178,Urdu <makki.ma@gmail.com>
+xfce4-sensors-plugin,526,154,28,120,10,14,650,708,74.29378531073446,Urdu <makki.ma@gmail.com>
+xfce4-session,1774,192,298,362,48,50,2252,2264,78.35689045936395,Urdu <makki.ma@gmail.com>
+xfce4-settings,1960,204,390,398,68,66,2418,2554,76.74236491777604,Urdu <makki.ma@gmail.com>
+xfce4-smartbookmark-plugin,28,0,0,16,0,0,42,28,100.0,Urdu <makki.ma@gmail.com>
+xfce4-systemload-plugin,94,12,28,28,4,10,110,134,70.1492537313433,Urdu <makki.ma@gmail.com>
+xfce4-taskmanager,9,22,92,9,12,24,28,123,7.317073170731707,Urdu <makki.ma@gmail.com>
+xfce4-time-out-plugin,76,52,48,34,16,12,84,176,43.18181818181818,Urdu <makki.ma@gmail.com>
+xfce4-timer-plugin,94,0,0,32,0,0,98,94,100.0,Urdu <makki.ma@gmail.com>
+xfce4-verve-plugin,47,0,0,10,0,0,59,47,100.0,Urdu <makki.ma@gmail.com>
+xfce4-wavelan-plugin,98,0,0,22,0,0,130,98,100.0,Urdu <makki.ma@gmail.com>
+xfce4-weather-plugin,130,266,6792,90,120,438,144,7188,1.8085698386199223,Urdu <makki.ma@gmail.com>
+xfce4-wmdock-plugin,52,0,0,12,0,0,76,52,100.0,Urdu <makki.ma@gmail.com>
+xfce4-xkb-plugin,128,6,14,36,4,12,162,148,86.48648648648648,Urdu <makki.ma@gmail.com>
+xfconf,842,12,20,122,2,2,946,874,96.33867276887872,Urdu <makki.ma@gmail.com>
+xfdesktop,974,460,236,268,88,42,1124,1670,58.32335329341317,Urdu <makki.ma@gmail.com>
+xfmpc,234,18,82,100,10,30,340,334,70.05988023952095,Urdu <makki.ma@gmail.com>
+xfwm4,789,15,33,215,7,8,1026,837,94.26523297491039,urdu <makki.ma@gmail.com>
+yum,0,0,3069,0,0,660,0,3069,0.0,Urdu (http://www.transifex.net/projects/p/yum/team/ur/)
+yum-rhn-plugin,0,0,119,0,0,15,0,119,0.0,Urdu <trans-urdu@lists.fedoraproject.org>

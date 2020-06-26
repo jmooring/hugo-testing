@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+davfs2,5276,0,0,368,0,0,4881,5276,100.0,
+dpkg,26824,498,179,1632,24,5,25449,27501,97.5382713355878,de <debian-l10n-german@lists.debian.org>
+kde-i18n,181,0,0,26,0,0,64,181,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+kde-l10n,183,0,0,27,0,0,66,183,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+man-db,16421,140,81,743,3,2,15310,16642,98.67203461122462,Indonesian <translation-team-id@lists.sourceforge.net>
+mkvtoolnix,11451,31,45,590,2,2,1387,11527,99.34067840721784,none
+pida,7,0,0,3,0,0,8,7,100.0,
+po4a,0,36,0,0,16,0,0,36,0.0,LANGUAGE <LL@li.org>
+shadow-utils,7092,3445,4796,593,248,258,6932,15333,46.253179416943844,debian-l10n-german <http://lists.debian.org/debian-l10n-german/>
+wine-docs,0,38,0,0,15,0,0,38,0.0,LANGUAGE <LL@li.org>

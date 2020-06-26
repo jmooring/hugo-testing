@@ -1,0 +1,397 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4032,0,0,481,0,0,3302,4032,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager,13,1585,26161,8,380,1833,13,27759,0.04683165820094384,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-fortisslvpn,1,0,322,1,0,59,1,323,0.30959752321981426,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-l2tp,170,0,1065,41,0,145,142,1235,13.765182186234817,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-libreswan,5,42,418,3,12,61,4,465,1.0752688172043012,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-openvpn,9,110,1857,7,39,227,8,1976,0.4554655870445344,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-pptp,584,0,0,129,0,0,412,584,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-ssh,16,37,233,4,14,51,8,286,5.594405594405594,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-sstp,4,56,774,4,20,118,4,834,0.4796163069544364,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-vpnc,328,0,0,52,0,0,216,328,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+PackageKit,118,0,0,54,0,0,104,118,100.0,Georgian (http://www.transifex.com/freedesktop/packagekit/language/ka/)
+abrt,52,0,3624,14,0,403,45,3676,1.4145810663764962,Georgian (http://www.transifex.com/projects/p/fedora-abrt/language/ka/)
+accountsservice,59,0,0,10,0,0,52,59,100.0,Georgian (http://www.transifex.com/freedesktop/accountsservice/language/ka/)
+agenda,8,4,5,3,1,2,6,17,47.05882352941176,Georgian <ka@li.org>
+aisleriot,64,995,928,34,263,252,58,1987,3.2209360845495723,Georgian <gnome@inet.ge>
+alacarte,42,0,0,16,0,0,40,42,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+anaconda,669,150,7405,304,57,1011,606,8224,8.134727626459144,Georgian (http://www.transifex.com/projects/p/anaconda/language/ka/)
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+arm-none-eabi-binutils-cs,533,0,0,98,0,0,484,533,100.0,Georgian <(nothing)>
+asunder,13,0,479,12,0,79,14,492,2.642276422764228,http://littlesvr.ca/ostd/
+atk,370,1,4,123,1,2,300,375,98.66666666666667,Georgian <geognome@googlegroups.com>
+atomix,146,0,0,59,0,0,131,146,100.0,Georgian <www.gia.ge>
+atril,595,0,3794,209,0,527,492,4389,13.556618819776714,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+audacity,3354,5875,9277,889,1807,1607,2940,18506,18.123851723765267,<en@li.org>
+balsa,422,0,6439,314,0,1328,403,6861,6.15070689403877,
+baobab,22,157,361,11,42,73,24,540,4.074074074074074,Georgian <gnome@inet.ge>
+blender,20337,0,0,6065,0,0,18061,20337,100.0,LANGUAGE <LL@li.org>
+blueberry,13,0,153,7,0,30,11,166,7.83132530120482,Georgian <ka@li.org>
+boinc-client,4590,0,226,885,0,30,3922,4816,95.30730897009967,Georgian (http://www.transifex.com/boinc/boinc/language/ka/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,5384,0,4291,1151,0,453,4175,9675,55.64857881136951,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+caja-actions,95,0,18720,72,0,1444,99,18815,0.5049162901939941,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+caja-extensions,128,0,632,26,0,119,91,760,16.842105263157894,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+calibre,340,0,170134,77,0,19188,257,170474,0.19944390346915072,Georgian (http://www.transifex.com/calibre/calibre/language/ka/)
+cheese,651,0,0,120,0,0,503,651,100.0,ka <gnome-ge-list@gnome.org>
+chkconfig,593,0,0,108,0,0,507,593,100.0,Georgian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/ka/>
+chromium,8060,2069,1724,1592,526,369,5698,11853,67.99966253269214,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+cinnamon-control-center,166,53,1094,166,40,550,166,1313,12.642802741812641,Georgian <guiasher@mes.gov.ge>
+cinnamon-desktop,0,0,234,0,0,32,0,234,0.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+cinnamon-translations,1207,0,20575,342,0,4483,1024,21782,5.541272610412267,Georgian <ka@li.org>
+clementine,422,0,4829,211,0,1180,403,5251,8.036564463911636,Georgian (http://www.transifex.com/davidsansome/clementine/language/ka/)
+cockpit,7302,0,1,1948,0,1,6112,7303,99.98630699712447,Georgian <https://translate.fedoraproject.org/projects/cockpit/main/ka/>
+cockpit-composer,602,194,1215,204,54,56,535,2011,29.93535554450522,Georgian <https://translate.fedoraproject.org/projects/cockpit-composer/main/ka/>
+cockpit-machines,2550,0,0,577,0,0,2045,2550,100.0,Georgian <https://translate.fedoraproject.org/projects/cockpit-machines/main/ka/>
+cockpit-ostree,171,0,0,67,0,0,157,171,100.0,Georgian <https://translate.fedoraproject.org/projects/cockpit-ostree/main/ka/>
+cockpit-podman,920,0,4,279,0,2,808,924,99.56709956709958,Georgian <https://translate.fedoraproject.org/projects/cockpit-podman/main/ka/>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,256,215,513,75,32,72,217,984,26.01626016260163,Georgian
+cups-pk-helper,90,0,59,16,0,6,59,149,60.40268456375839,Georgian (http://www.transifex.com/projects/p/freedesktop/language/ka/)
+dasher,70,410,36,64,105,26,70,516,13.565891472868216,Georgian <gnome@inet.ge>
+deluge,1892,0,2448,691,0,642,1717,4340,43.594470046082954,Georgian <ka@li.org>
+digikam,2762,1,55259,2012,1,7301,2701,58022,4.760263348385095,Georgian <kde-i18n-doc@kde.org>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dnf,1673,0,3031,549,0,328,1514,4704,35.56547619047619,Georgian <https://translate.fedoraproject.org/projects/dnf/dnf-master/ka/>
+dnf-plugins-core,50,0,1775,21,0,254,43,1825,2.73972602739726,Georgian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/ka/>
+elementary-calculator,45,14,176,29,6,40,44,235,19.148936170212767,LANGUAGE <LL@li.org>
+elementary-calendar,302,116,470,132,33,93,283,888,34.00900900900901,LANGUAGE <LL@li.org>
+elementary-camera,0,0,205,0,0,47,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,27,0,63,3,0,13,20,90,30.0,Georgian <ka@li.org>
+elementary-code,203,108,1297,77,34,196,172,1608,12.624378109452735,LANGUAGE <LL@li.org>
+elementary-files,222,351,3096,88,81,495,190,3669,6.050695012264922,Georgian <ka@li.org>
+elementary-greeter,15,2,202,5,1,42,13,219,6.8493150684931505,Georgian <https://l10n.elementary.io/projects/desktop/greeter/ka/>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,477,47,681,184,14,156,433,1205,39.5850622406639,Georgian <https://weblate.elementary.io/projects/music/music/ka/>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,37,3,208,17,2,41,39,248,14.919354838709678,Georgian <ka@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,1,0,318,1,0,60,1,319,0.3134796238244514,Georgian <https://l10n.elementary.io/projects/desktop/sideload/ka/>
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,79,41,576,21,7,98,55,696,11.350574712643677,Georgian <ka@li.org>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,60,5,326,28,2,66,58,391,15.34526854219949,Georgian <ka@li.org>
+engrampa,810,0,7112,219,0,674,662,7922,10.224690734662964,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+entangle,0,0,953,0,0,229,0,953,0.0,Georgian
+eog,695,0,0,187,0,0,598,695,100.0,Georgian <gnome@inet.ge>
+eom,391,0,4570,141,0,401,348,4961,7.881475508969965,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+epiphany,3010,0,37,729,0,2,2578,3047,98.78569084345258,ka <gnome-ge-list@gnome.org>
+evince,842,0,0,251,0,0,685,842,100.0,Georgian <www.gia.ge>
+evolution,2936,15838,2463,1547,2975,404,2733,21237,13.824928191364128,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+evolution-data-server,295,3000,1611,160,519,339,287,4906,6.013045250713412,Georgian <gnome@inet.ge>
+exaile,108,69,3991,66,36,990,95,4168,2.5911708253358925,Georgian <https://hosted.weblate.org/projects/exaile/master/ka/>
+falkon,1043,1095,1501,389,394,382,952,3639,28.661720252816707,
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+file-roller,952,0,0,239,0,0,760,952,100.0,Georgian <www.gia.ge>
+filezilla,1031,0,0,366,0,0,901,1031,100.0,Georgian <www.gia.ge>
+firewalld,180,0,2037,82,0,333,170,2217,8.119079837618404,Georgian (http://www.transifex.com/projects/p/firewalld/language/ka/)
+five-or-more,29,162,91,15,34,16,21,282,10.28368794326241,Georgian <gnome@inet.ge>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Georgian
+four-in-a-row,21,102,133,14,29,30,20,256,8.203125,Georgian <gnome@inet.ge>
+fprintd,0,0,430,0,0,60,0,430,0.0,Georgian (http://www.transifex.com/freedesktop/fprintd/language/ka/)
+fragments,226,0,1780,95,0,431,213,2006,11.266201395812562,Georgian (https://www.transifex.com/transmissionbt/teams/33778/ka/)
+gala,28,21,309,11,3,59,31,358,7.82122905027933,Georgian <ka@li.org>
+gammastep,1,0,944,1,0,148,1,945,0.10582010582010583,Georgian <ka@li.org>
+garcon,122,0,0,36,0,0,113,122,100.0,Georgian (http://www.transifex.com/xfce/garcon/language/ka/)
+gconf-editor,332,0,0,98,0,0,262,332,100.0,Georgian <gnome@inet.ge>
+gcr,0,3,619,0,2,225,0,622,0.0,Georgian <ka@li.org>
+gdk-pixbuf2,1208,89,51,185,12,5,995,1348,89.61424332344214,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gdm,6,212,432,4,38,45,7,650,0.9230769230769231,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gedit,491,1693,2099,311,371,352,475,4283,11.463927153864113,Georgian <gnome@inet.ge>
+gedit-plugins,79,626,500,57,226,186,78,1205,6.556016597510374,Georgian <gnome@inet.ge>
+gegl04,578,0,9676,404,0,1677,559,10254,5.636824653793641,Georgian <(nothing)>
+gimagereader,0,0,1817,0,0,482,0,1817,0.0,none
+gimp,16456,0,10176,5043,0,1181,14242,26632,61.790327425653345,Georgian <(nothing)>
+glib2,1287,605,2885,193,120,434,1058,4777,26.941595143395435,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-abrt,0,0,221,0,0,55,0,221,0.0,none
+gnome-applets,3868,0,0,977,0,0,3403,3868,100.0,Georgian <www.gia.ge>
+gnome-bluetooth,321,0,193,118,0,37,284,514,62.45136186770428,Georgian <ka@li.org>
+gnome-calculator,1044,0,0,365,0,0,948,1044,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-chess,5,175,1210,4,56,177,5,1390,0.3597122302158274,Georgian <gnome@inet.ge>
+gnome-control-center,2149,375,1588,792,91,598,1836,4112,52.261673151750976,Georgian <guiasher@mes.gov.ge>
+gnome-desktop3,283,0,0,69,0,0,241,283,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-dictionary,637,163,33,133,37,13,431,833,76.47058823529412,Georgian <gnome@inet.ge>
+gnome-do,32,0,580,17,0,127,30,612,5.228758169934641,Georgian <ka@li.org>
+gnome-doc-utils,213,0,0,80,0,0,205,213,100.0,Georgian <geognome@googlegroups.com>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Georgian <gnome@inet.ge>
+gnome-icon-theme,53,0,0,47,0,0,56,53,100.0,Georgian <gnome@inet.ge>
+gnome-keyring,16,88,386,4,13,92,15,490,3.2653061224489797,Georgian <ka@li.org>
+gnome-klotski,3,49,142,3,17,39,3,194,1.5463917525773196,Georgian <gnome@inet.ge>
+gnome-mahjongg,12,84,208,9,26,28,12,304,3.9473684210526314,Georgian <gnome@inet.ge>
+gnome-menus,136,0,0,49,0,0,119,136,100.0,Georgian <http://geoubuntu.cjb.net/>
+gnome-mines,6,119,219,5,34,33,6,344,1.744186046511628,Georgian <gnome@inet.ge>
+gnome-nettool,501,19,0,177,3,0,450,520,96.34615384615385,Georgian <gnome@inet.ge>
+gnome-nibbles,17,184,246,13,52,45,17,447,3.803131991051454,Georgian <gnome@inet.ge>
+gnome-panel,2903,380,237,415,56,37,2112,3520,82.4715909090909,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-power-manager,0,71,361,0,31,113,0,432,0.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-robots,20,313,264,12,48,37,20,597,3.350083752093802,Georgian <gnome@inet.ge>
+gnome-screenshot,63,166,90,17,28,14,51,319,19.74921630094044,Georgian <gnome@inet.ge>
+gnome-search-tool,1152,72,135,147,12,41,666,1359,84.76821192052981,Georgian <gnome@inet.ge>
+gnome-session,434,0,280,88,0,26,335,714,60.78431372549019,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-settings-daemon,436,114,484,72,33,66,315,1034,42.16634429400386,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-shell-frippery,19,0,0,7,0,0,16,19,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-sudoku,4,80,315,4,22,46,4,399,1.0025062656641603,Georgian <gnome@inet.ge>
+gnome-system-log,220,61,241,46,17,31,133,522,42.1455938697318,Georgian <gnome@inet.ge>
+gnome-system-monitor,839,0,0,224,0,0,738,839,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-terminal,389,4177,36,184,311,20,342,4602,8.45284658843981,Georgian <Ubuntu-Georgian-Translators@googlegroups.com>
+gnome-tetravex,13,74,133,8,14,23,12,220,5.909090909090909,Georgian <gnome@inet.ge>
+gnome-vfs2,1508,0,0,301,0,0,1194,1508,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,ka <gnome-ge-list@gnome.org>
+godot,370,1455,13301,148,473,2582,367,15126,2.446119264841994,Georgian <https://hosted.weblate.org/projects/godot-engine/godot/ka/>
+granite,31,17,450,18,6,94,31,498,6.2248995983935735,Georgian <ka@li.org>
+gtk2,10129,1843,1732,1942,477,365,7294,13704,73.91272621132516,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gtk3,8060,2069,1724,1592,526,369,5698,11853,67.99966253269214,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gtk4,8060,2069,1724,1592,526,369,5698,11853,67.99966253269214,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gtkhtml3,915,0,0,406,0,0,795,915,100.0,Georgian <gnome@inet.ge>
+gucharmap,208,286,253,125,77,67,200,747,27.84471218206158,Georgian <gnome@inet.ge>
+gweled,107,0,49,36,0,8,97,156,68.58974358974359,Georgian <ka@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hello,16,94,76,2,17,11,17,186,8.60215053763441,Georgian <ka@li.org>
+iagno,10,96,216,6,28,38,9,322,3.1055900621118013,Georgian <gnome@inet.ge>
+ibus-m17n,57,0,0,24,0,0,55,57,100.0,none
+ibus-table,229,0,788,64,0,82,188,1017,22.517207472959686,Georgian <https://translate.fedoraproject.org/projects/ibus-table/app/ka/>
+ibus-typing-booster,1986,0,0,226,0,0,1563,1986,100.0,Georgian <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/ka/>
+im-chooser,2,0,251,1,0,56,2,253,0.7905138339920948,LANGUAGE <LL@li.org>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Georgian
+initscripts,16,19,1083,8,4,146,19,1118,1.4311270125223614,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+iso-codes,992,67,27,422,20,9,796,1086,91.34438305709024,Georgian
+isomaster,26,1,647,20,1,86,27,674,3.857566765578635,http://littlesvr.ca/ostd/
+kdiff3,1328,863,1209,290,147,154,1139,3400,39.05882352941176,<www.gia.ge>
+kdissert,881,0,1146,247,0,35,719,2027,43.46324617661569,ქართული <Georgianization@googlegroups.com>
+kdump-anaconda-addon,0,0,83,0,0,12,0,83,0.0,LANGUAGE <LL@li.org>
+kf5-kauth,73,0,0,8,0,0,61,73,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kcmutils,194,0,72,35,0,3,131,266,72.93233082706767,Georgian <kde-i18n-doc@kde.org>
+kf5-kcodecs,171,0,201,44,0,10,133,372,45.96774193548387,Georgian <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,18,18,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,106,170,66,61,51,13,100,342,30.994152046783626,Georgian <http://www.gia.ge>
+kf5-kcoreaddons,362,16,0,129,2,0,308,378,95.76719576719577,
+kf5-kdav,185,0,0,20,0,0,104,185,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,39,48,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kdeclarative,154,0,3,23,0,1,111,157,98.08917197452229,Georgian <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,442,947,3964,101,608,1835,368,5353,8.25705212030637,Georgian <http://www.gia.ge>
+kf5-kdesignerplugin,54,0,0,9,0,0,43,54,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,22,19,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,48,71,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-khtml,862,589,217,173,88,29,624,1668,51.67865707434053,Georgian <http://www.gia.ge>
+kf5-ki18n,1,97,26,1,87,22,1,124,0.8064516129032258,Georgian <http://www.gia.ge>
+kf5-kiconthemes,39,0,0,18,0,0,38,39,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kinit,116,0,0,11,0,0,79,116,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kio,2924,35,8949,721,6,633,2319,11908,24.55492106147128,Georgian <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,0,89,44,0,31,7,0,133,0.0,Georgian <http://www.gia.ge>
+kf5-kjsembed,0,88,160,0,19,25,0,248,0.0,Georgian <http://www.gia.ge>
+kf5-knewstuff,86,326,1240,13,124,93,75,1652,5.205811138014528,Georgian <http://www.gia.ge>
+kf5-knotifications,21,0,0,8,0,0,16,21,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,43,0,86,15,0,2,37,129,33.33333333333333,Georgian <kde-i18n-doc@kde.org>
+kf5-kparts,132,0,0,29,0,0,93,132,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kpeople,13,0,0,8,0,0,11,13,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kpty,0,11,4,0,3,1,0,15,0.0,Georgian <http://www.gia.ge>
+kf5-kross,9,58,33,7,20,8,9,100,9.0,Georgian <http://www.gia.ge>
+kf5-kservice,17,78,78,4,13,11,15,173,9.826589595375722,Georgian <http://www.gia.ge>
+kf5-ktexteditor,1538,2611,4728,278,491,472,1261,8877,17.325673087754872,Georgian <Georgianization@googlegroups.com>
+kf5-ktextwidgets,346,89,38,77,32,21,247,473,73.15010570824523,Georgian <http://www.gia.ge>
+kf5-kwidgetsaddons,0,847,457,0,296,171,0,1304,0.0,Georgian <http://www.gia.ge>
+kf5-kwindowsystem,2,0,0,1,0,0,3,2,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1543,19,12,223,6,1,1075,1574,98.03049555273189,Georgian <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,11,13,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-sonnet,178,0,505,64,0,12,175,683,26.061493411420205,Georgian <(nothing)>
+kf5-syntax-highlighting,0,251,361,0,186,176,0,612,0.0,Georgian <Georgianization@googlegroups.com>
+kio_gopher,16,1,0,4,1,0,13,17,94.11764705882352,Georgian <guiasher@mes.gov.ge>
+libbonobo,543,0,0,107,0,0,434,543,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libbonoboui,361,0,0,114,0,0,304,361,100.0,Georgian <www.gia.ge>
+libgnome,1656,0,0,256,0,0,1247,1656,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgnomecanvas,378,0,0,95,0,0,288,378,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgnomekbd,262,0,0,49,0,0,199,262,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgnomeui,1290,0,0,330,0,0,1042,1290,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgtop2,14,81,39,10,17,17,14,134,10.44776119402985,Georgian <gnome@inet.ge>
+libgweather,0,0,0,0,0,0,0,0,0.0,
+libmatekbd,147,0,161,37,0,54,119,308,47.72727272727273,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+libmatemixer,8,0,234,8,0,118,8,242,3.3057851239669422,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+libmateweather,3617,0,2526,2768,0,1807,3579,6143,58.88002604590591,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+libmypaint,1,2,2300,1,1,160,1,2303,0.04342162396873643,Georgian <https://hosted.weblate.org/projects/mypaint/libmypaint/ka/>
+libreoffice,115093,10530,570855,27300,4875,56394,88133,696478,16.52500150758531,LANGUAGE <LL@li.org>
+libreport,267,0,4661,123,0,480,244,4928,5.41801948051948,Georgian <https://translate.fedoraproject.org/projects/abrt/libreport/ka/>
+libuser,0,0,1478,0,0,307,0,1478,0.0,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+libwnck,621,0,501,152,0,87,529,1122,55.3475935828877,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libwnck3,621,0,501,152,0,87,529,1122,55.3475935828877,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libxfce4ui,288,0,669,96,0,96,305,957,30.094043887147336,Georgian (http://www.transifex.com/xfce/libxfce4ui/language/ka/)
+libzypp,77,36,2601,63,7,917,79,2714,2.8371407516580693,Georgian <>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Georgian (http://www.transifex.com/the_cavalry/light-locker/language/ka/)
+lightsoff,1,25,71,1,9,9,1,97,1.0309278350515463,Georgian <gnome@inet.ge>
+lollypop,15,0,1422,5,0,455,15,1437,1.0438413361169103,Georgian (http://www.transifex.com/gnumdk/lollypop/language/ka/)
+lxmenu-data,59,12,26,24,4,9,52,97,60.824742268041234,Georgian <http://geoubuntu.cjb.net/>
+maliit-keyboard,0,0,81,0,0,61,0,81,0.0,Georgian <ka@li.org>
+mame,0,0,3650,0,0,1283,0,3650,0.0,MAME Language Team
+manafirewall,6,0,1091,6,0,127,6,1097,0.5469462169553327,Georgian (https://www.transifex.com/MageiaLinux/teams/9361/ka/)
+marco,357,0,3946,116,0,314,335,4303,8.296537299558446,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-applets,1654,37,14266,422,8,1216,1469,15957,10.365356896659774,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-backgrounds,4,0,51,2,0,27,4,55,7.2727272727272725,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-calc,64,0,3259,58,0,691,74,3323,1.9259705085765875,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-control-center,1153,0,7095,504,0,1007,1027,8248,13.979146459747819,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-desktop,587,0,1789,111,0,190,468,2376,24.705387205387204,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-media,18,0,221,14,0,85,16,239,7.531380753138076,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-menu,54,0,254,29,0,81,51,308,17.532467532467532,Georgian (http://www.transifex.com/mate/MATE/language/ka/)
+mate-menus,60,0,43,25,0,14,53,103,58.252427184466015,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-notification-daemon,5,0,181,5,0,48,10,186,2.6881720430107525,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-panel,3769,0,2951,511,0,303,2747,6720,56.08630952380952,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-polkit,5,0,118,4,0,17,5,123,4.0650406504065035,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-power-manager,414,0,4705,83,0,468,358,5119,8.087517093182262,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-screensaver,501,0,600,91,0,85,357,1101,45.50408719346049,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-sensors-applet,4,2,2154,4,2,220,9,2160,0.1851851851851852,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-session-manager,241,0,474,78,0,54,217,715,33.70629370629371,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-settings-daemon,353,0,1853,62,0,257,267,2206,16.00181323662738,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-system-monitor,445,0,4402,169,0,479,402,4847,9.180936661852693,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-terminal,354,0,8032,186,0,617,327,8386,4.221321249701885,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-themes,21,0,53,7,0,16,20,74,28.37837837837838,Georgian (http://www.transifex.com/mate/MATE/language/ka/)
+mate-user-admin,9,0,619,8,0,123,9,628,1.4331210191082804,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-user-guide,117,0,42852,71,0,3157,122,42969,0.2722893248621099,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-utils,2270,0,7790,437,0,689,1503,10060,22.564612326043736,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mc,659,0,3691,327,0,939,628,4350,15.149425287356323,Georgian (http://www.transifex.com/mc/mc/language/ka/)
+mediawriter,0,0,845,0,0,162,0,845,0.0,none
+metacity,375,7054,630,118,360,37,356,8059,4.653182777019482,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+midori,35,0,3506,16,0,780,39,3541,0.9884213499011578,Georgian <ka@li.org>
+mingw-GConf2,4032,0,0,481,0,0,3302,4032,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw-atk,370,1,4,123,1,2,300,375,98.66666666666667,Georgian <geognome@googlegroups.com>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Georgian (http://www.transifex.com/projects/p/freedesktop/language/ka/)
+mingw-gdk-pixbuf,1208,89,51,185,12,5,995,1348,89.61424332344214,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw-glib2,1287,605,2885,193,120,434,1058,4777,26.941595143395435,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw-gtk2,10129,1843,1732,1942,477,365,7294,13704,73.91272621132516,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw-gtk3,8060,2069,1724,1592,526,369,5698,11853,67.99966253269214,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw-libidn2,315,0,7,40,0,1,268,322,97.82608695652173,Georgian <(nothing)>
+mingw-mediawriter,0,0,845,0,0,162,0,845,0.0,none
+mingw-p11-kit,156,0,320,31,0,50,107,476,32.773109243697476,Georgian (http://www.transifex.com/freedesktop/p11-kit/language/ka/)
+mingw-wxWidgets,51,0,0,15,0,0,47,51,100.0,Georgian
+mingw-wxWidgets3,51,0,0,15,0,0,47,51,100.0,Georgian
+mozo,41,0,5,20,0,4,40,46,89.13043478260869,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+muffin,375,7054,630,118,360,37,356,8059,4.653182777019482,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mutter,375,7054,630,118,360,37,356,8059,4.653182777019482,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mutter3.38,375,7054,630,118,360,37,356,8059,4.653182777019482,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mypaint,11,5,6365,10,3,1257,13,6381,0.17238677323303556,Georgian <https://hosted.weblate.org/projects/mypaint/mypaint/ka/>
+nautilus,6415,35,1948,1226,8,88,4739,8398,76.3872350559657,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+nemo-extensions,8,0,0,2,0,0,7,8,100.0,Georgian <ka@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Georgian (http://www.transifex.com/projects/p/newt/language/ka/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+p11-kit,156,0,320,31,0,50,107,476,32.773109243697476,Georgian (http://www.transifex.com/freedesktop/p11-kit/language/ka/)
+pam,61,45,429,23,9,68,57,535,11.401869158878505,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+passwd,212,0,124,42,0,15,200,336,63.095238095238095,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+php-phpmyadmin-sql-parser5,0,79,189,0,16,34,0,268,0.0,Georgian <https://hosted.weblate.org/projects/phpmyadmin/master/ka/>
+pidgin,2004,0,13831,851,0,2606,1833,15835,12.65550994632144,Georgian (http://www.transifex.com/pidgin/pidgin/language/ka/)
+pinta,30,0,1716,21,0,516,33,1746,1.718213058419244,Georgian <ka@li.org>
+plank,65,0,124,25,0,25,66,189,34.39153439153439,Georgian <ka@li.org>
+plasma-disks,167,0,48,22,0,1,121,215,77.67441860465117,Georgian <kde-i18n-doc@kde.org>
+plasma-firewall,358,0,55,144,0,4,317,413,86.68280871670703,Georgian <kde-i18n-doc@kde.org>
+plasma-integration,58,0,0,21,0,0,49,58,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-milou,10,0,0,4,0,0,8,10,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-mobile,2,0,0,2,0,0,2,2,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-nm,2197,0,741,692,0,27,1880,2938,74.77876106194691,Georgian <kde-i18n-doc@kde.org>
+plasma-systemsettings,218,0,0,56,0,0,185,218,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-workspace,5484,14,2010,1620,2,158,4502,7508,73.0420884389984,Georgian <kde-i18n-doc@kde.org>
+pluma,475,0,12638,278,0,1812,452,13113,3.6223594905818652,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+pluma-plugins,5,0,1393,5,0,138,10,1398,0.35765379113018597,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+poedit,1455,0,1465,527,0,125,1305,2920,49.82876712328767,Georgian
+policycoreutils,24,0,12147,24,0,1752,24,12171,0.1971900419028839,Georgian
+pulseeffects,155,47,642,33,8,346,109,844,18.364928909952607,
+pychess,33,0,7559,17,0,1451,35,7592,0.434668071654373,Georgian (http://www.transifex.com/gbtami/pychess/language/ka/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-apt,169,160,215,43,39,36,157,544,31.066176470588236,Georgian <geognome@googlegroups.com>
+python-blivet,24,0,560,11,0,67,24,584,4.10958904109589,Georgian (http://www.transifex.com/projects/p/blivet/language/ka/)
+python-django,2453,0,1293,657,0,200,2125,3746,65.48318206086492,Georgian (http://www.transifex.com/django/django/language/ka/)
+python-django-allauth,915,0,7,151,0,1,781,922,99.24078091106291,LANGUAGE <LL@li.org>
+python-django-contrib-comments,233,0,17,58,0,3,191,250,93.2,Georgian (http://www.transifex.com/django/django-contrib-comments/language/ka/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Georgian (http://www.transifex.com/projects/p/django-formtools/language/ka/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-fedora,0,0,214,0,0,29,0,214,0.0,Georgian
+python-meh,0,0,109,0,0,23,0,109,0.0,Georgian
+python-postorius,0,0,4999,0,0,607,0,4999,0.0,LANGUAGE <LL@li.org>
+python-wxpython4,51,0,0,15,0,0,47,51,100.0,Georgian
+quadrapassel,15,246,167,9,46,24,14,428,3.5046728971962615,Georgian <gnome@inet.ge>
+realmd,0,0,789,0,0,127,0,789,0.0,Georgian (http://www.transifex.com/freedesktop/realmd/language/ka/)
+redhat-menus,205,11,45,69,4,13,191,261,78.544061302682,Georgian <guiasher@mes.gov.ge>
+rednotebook,879,0,268,190,0,50,716,1147,76.63469921534438,Georgian <ka@li.org>
+redshift,1,0,1027,1,0,150,1,1028,0.09727626459143969,Georgian <ka@li.org>
+remmina,0,1539,3733,0,257,725,0,5272,0.0,Georgian <https://hosted.weblate.org/projects/remmina/remmina/ka/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,none
+setuptool,16,2,37,8,1,5,15,55,29.09090909090909,Georgian Internet Alliance <giasher@telenet.ge>
+shared-mime-info,503,0,1555,199,0,596,512,2058,24.441205053449952,Georgian (http://www.transifex.com/freedesktop/shared-mime-info/language/ka/)
+slick-greeter,0,0,211,0,0,47,0,211,0.0,Georgian <ka@li.org>
+snapper,0,79,1016,0,20,232,0,1095,0.0,Georgian <i18n@suse.de>
+sos,0,0,122,0,0,30,0,122,0.0,none
+sound-juicer,853,0,0,147,0,0,585,853,100.0,Georgian <gnome@inet.ge>
+stellarium,874,0,149145,297,0,37322,742,150019,0.5825928715696013,Georgian (https://www.transifex.com/stellarium/teams/80998/ka/)
+swell-foop,11,88,167,9,22,24,11,266,4.135338345864661,Georgian <gnome@inet.ge>
+switchboard,9,0,139,6,0,25,9,148,6.081081081081082,Georgian <ka@li.org>
+switchboard-plug-a11y,5,2,173,4,1,42,5,180,2.7777777777777777,LANGUAGE <LL@li.org>
+switchboard-plug-about,17,63,303,9,15,61,14,383,4.43864229765013,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/ka/>
+switchboard-plug-applications,37,19,171,19,10,34,35,227,16.299559471365637,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/ka/>
+switchboard-plug-bluetooth,7,0,199,7,0,46,8,206,3.3980582524271843,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/ka/>
+switchboard-plug-display,20,21,141,14,10,38,23,182,10.989010989010989,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/ka/>
+switchboard-plug-keyboard,16,28,592,14,9,191,16,636,2.515723270440252,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/ka/>
+switchboard-plug-mouse-touchpad,35,20,227,18,10,64,30,282,12.411347517730496,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/ka/>
+switchboard-plug-networking,175,67,290,58,21,68,153,532,32.89473684210527,Georgian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/ka/>
+switchboard-plug-notifications,121,3,18,15,2,4,80,142,85.2112676056338,Georgian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/ka/>
+switchboard-plug-onlineaccounts,1,2,319,1,1,74,1,322,0.3105590062111801,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/ka/>
+switchboard-plug-pantheon-shell,51,11,287,28,4,83,49,349,14.613180515759314,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/ka/>
+switchboard-plug-printers,67,46,293,45,22,86,69,406,16.502463054187192,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/ka/>
+switchboard-plug-sharing,1,0,140,1,0,31,1,141,0.7092198581560284,Georgian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/ka/>
+switchboard-plug-sound,0,1,192,0,1,56,0,193,0.0,Georgian <ka@li.org>
+switchdesk,16,12,94,3,6,10,16,122,13.114754098360656,Georgian Internet Alliance <giasher@telenet.ge>
+synapse,106,0,750,49,0,185,86,856,12.383177570093459,Georgian <ka@li.org>
+system-config-rootpassword,15,26,75,3,5,11,10,116,12.931034482758621,Georgian <guiasher@mes.gov.ge>
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Georgian <guiasher@mes.gov.ge>
+tali,11,251,159,6,56,35,11,421,2.6128266033254155,Georgian <gnome@inet.ge>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+terminator,200,0,1250,68,0,359,161,1450,13.793103448275861,Georgian (https://www.transifex.com/terminator/teams/109338/ka/)
+totem,1821,0,0,417,0,0,1421,1821,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+totem-pl-parser,15,4,10,4,1,3,10,29,51.724137931034484,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+transmission,226,0,1772,95,0,428,213,1998,11.31131131131131,Georgian (https://www.transifex.com/transmissionbt/teams/33778/ka/)
+tuxpaint,1521,371,394,291,43,46,968,2286,66.53543307086615,Gia Shervashidze <giasher@gmail.com>
+tuxpaint-stamps,3246,3,0,804,1,0,2031,3249,99.90766389658357,none
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+uget,552,0,533,235,0,127,515,1085,50.875576036866356,Georgian (Georgia) (http://www.transifex.com/uget/uget/language/ka_GE/)
+usermode,60,0,513,29,0,67,57,573,10.471204188481675,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+virt-top,7,0,408,5,0,79,7,415,1.6867469879518073,Georgian (http://www.transifex.com/projects/p/virttop/language/ka/)
+widelands,4,0,71317,3,0,6784,4,71321,0.005608446320158158,Georgian (http://www.transifex.com/widelands/widelands/language/ka/)
+wingpanel,6,0,13,1,0,3,5,19,31.57894736842105,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,123,16,276,44,6,65,108,415,29.63855421686747,Georgian <https://l10n.elementary.io/projects/wingpanel/applications-menu/ka/>
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,4,0,173,1,0,35,4,177,2.2598870056497176,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,11,42,0,4,12,0,53,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,12,17,121,4,4,37,11,150,8.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,10,14,110,4,5,25,9,134,7.462686567164178,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,86,2,103,22,1,29,46,191,45.0261780104712,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,48,9,51,14,3,10,33,108,44.44444444444444,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,4,4,88,2,2,19,4,96,4.166666666666666,LANGUAGE <LL@li.org>
+wxGTK,52,0,7813,16,0,1943,48,7865,0.6611570247933884,wxWidgets Team <wx-dev@wxwidgets.org>
+wxGTK3,51,0,0,15,0,0,47,51,100.0,Georgian
+xapps,27,0,46,23,0,13,26,73,36.986301369863014,Georgian <ka@li.org>
+xdg-desktop-portal-kde,247,0,0,57,0,0,215,247,100.0,Georgian <kde-i18n-doc@kde.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,48,81,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+xed,207,0,3553,123,0,801,193,3760,5.50531914893617,Georgian (http://www.transifex.com/projects/p/MATE/language/ka/)
+xfce4-notifyd,296,0,0,81,0,0,255,296,100.0,Georgian (http://www.transifex.com/xfce/xfce-apps/language/ka/)
+xfce4-panel,735,0,1112,278,0,179,649,1847,39.79426096372496,Georgian (https://www.transifex.com/xfce/teams/16840/ka/)
+xfce4-screenshooter,487,0,41,81,0,1,344,528,92.23484848484848,Georgian (http://www.transifex.com/xfce/xfce-apps/language/ka/)
+xfce4-whiskermenu-plugin,385,0,0,123,0,0,335,385,100.0,Georgian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ka/)
+xfce4-xkb-plugin,37,0,20,18,0,4,34,57,64.91228070175438,Georgian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ka/)
+xfdesktop,1036,0,5,245,0,1,883,1041,99.51969260326608,Georgian (http://www.transifex.com/xfce/xfdesktop/language/ka/)
+xfwm4,630,0,19,169,0,4,557,649,97.07241910631741,Georgian (http://www.transifex.com/xfce/xfwm4/language/ka/)
+xkeyboard-config,189,1408,2335,84,451,674,189,3932,4.806714140386572,Georgian <www.gia.ge>
+xreader,489,0,1131,144,0,235,394,1620,30.185185185185187,Georgian (http://www.transifex.com/mate/MATE/language/ka/)
+yelp,957,0,0,239,0,0,734,957,100.0,Georgian <www.gia.ge>
+yelp-xsl,213,0,0,80,0,0,205,213,100.0,Georgian <geognome@googlegroups.com>
+zabbix,484,21,16276,167,8,3464,473,16781,2.8842142899708003,none
+zenity,421,0,120,116,0,4,317,541,77.81885397412199,Georgian <gnome@inet.ge>
+zypper,56,1261,7926,32,90,1127,51,9243,0.6058638970031376,Georgian <>

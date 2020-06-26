@@ -1,0 +1,650 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+CableSwig,15,349,776,6,69,118,18,1140,1.3157894736842104,Greek <nls@tux.hellug.gr>
+Django,3975,2,0,1268,1,0,4351,3977,99.94971083731456,Greek <>
+GConf2,4035,0,0,484,0,0,4339,4035,100.0,Greek <team@gnome.gr>
+Miro,3336,0,0,724,0,0,3757,3336,100.0,LANGUAGE <LL@li.org>
+NetworkManager,2241,0,0,478,0,0,2383,2241,100.0,Greek <team@gnome.gr>
+NetworkManager-openconnect,53,0,0,16,0,0,61,53,100.0,Greek <team@gnome.gr>
+NetworkManager-openswan,139,0,0,36,0,0,159,139,100.0,Greek <team@gnome.gr>
+NetworkManager-openvpn,238,0,0,70,0,0,255,238,100.0,Greek <team@gnome.gr>
+NetworkManager-pptp,144,0,0,44,0,0,158,144,100.0,Greek <team@gnome.gr>
+NetworkManager-vpnc,143,0,0,37,0,0,164,143,100.0,Greek <team@gnome.gr>
+ORBit,8,0,0,2,0,0,9,8,100.0,Greek <nls@tux.hellug.gr>
+PackageKit,1193,0,426,275,0,100,1287,1619,73.68746139592342,LANGUAGE <LL@li.org>
+Terminal,1152,6,33,264,1,4,1238,1191,96.72544080604534,Greek <nls@tux.hellug.gr>
+Thunar,3865,0,0,685,0,0,3915,3865,100.0,Greek <nls@tux.hellug.gr>
+WindowMaker,1038,0,972,195,0,141,1137,2010,51.64179104477612,Greek
+Zim,1610,0,572,400,0,84,1763,2182,73.78551787351054,Greek <el@li.org>
+abrt,313,398,1023,85,77,149,352,1734,18.050749711649367,Greek Fedora team <fedora-trans-el@redhat.com>
+accountsdialog,744,9,24,153,1,3,798,777,95.75289575289575,Greek <team@gnome.gr>
+ailurus,821,0,7457,181,0,1072,888,8278,9.917854554240154,none
+alacarte,42,0,0,16,0,0,42,42,100.0,Greek <team@gnome.gr>
+alexandria,1177,4,0,304,2,0,1242,1181,99.66130397967824,Greek
+alleyoop,323,13,15,82,3,4,344,351,92.02279202279202,Greek <nls@tux.hellug.gr>
+almanah,714,0,0,146,0,0,768,714,100.0,Greek <team@gnome.gr>
+amarok,14395,5,0,2591,2,0,15519,14400,99.96527777777777,Greek <kde-i18n-el@kde.org>
+anaconda,7097,1432,1212,1020,108,76,7617,9741,72.85699620162201,Greek Fedora team <fedora-trans-el@redhat.com>
+anjuta,21858,0,0,2776,0,0,23289,21858,100.0,Greek <team@gnome.gr>
+ardour,6891,184,397,1540,56,187,7401,7472,92.22430406852249,Hellenic
+aria2,451,19,4160,39,1,280,502,4630,9.740820734341254,Greek <el@li.org>
+arm-gp2x-linux-gcc,459,10581,30003,93,1872,4127,483,41043,1.1183393026825523,Greek <nls@tux.hellug.gr>
+arm-gp2x-linux-glibc,4052,613,984,903,104,138,4753,5649,71.72950964772527,Greek <nls@tux.hellug.gr>
+asunder,404,27,21,74,7,1,451,452,89.38053097345133,<LL@li.org>
+at-spi,61,0,0,7,0,0,76,61,100.0,Greek <team@gnome.gr>
+at-spi2-atk,61,0,0,7,0,0,76,61,100.0,Greek <team@gnome.gr>
+atk,375,0,0,126,0,0,380,375,100.0,Greek <team@gnome.gr>
+atomix,125,0,0,44,0,0,129,125,100.0,Greek <nls@tux.hellug.gr>
+audacious,466,204,528,246,98,73,503,1198,38.898163606010016,Greek <nls@tux.hellug.gr>
+audacity,3586,450,5592,1015,165,986,3895,9628,37.245533859576234,Greek <audacity-translation@lists.sourceforge.net>
+audit-viewer,111,477,23,66,114,5,124,611,18.16693944353519,Greek Fedora team <fedora-trans-el@redhat.com>
+aumix,73,0,167,36,0,56,79,240,30.416666666666664,Greek <nls@hellug.gr>
+authconfig,1058,173,111,182,42,15,1130,1342,78.83755588673621,Greek Fedora team <fedora-trans-el@redhat.com>
+avahi,190,89,586,52,11,102,199,865,21.965317919075144,American English <fedora-trans-el@redhat.com>
+avant-window-navigator,139,3,1513,18,2,259,151,1655,8.398791540785497,Greek <el@li.org>
+avogadro,1733,0,2529,783,0,762,1900,4262,40.66166119192867,Greek <el@li.org>
+avr-gcc,436,14725,43934,84,2527,5456,462,59095,0.7377950757255267,Greek <nls@tux.hellug.gr>
+backintime,385,0,534,40,0,140,414,919,41.89336235038085,Greek <el@li.org>
+bakery,72,0,0,20,0,0,75,72,100.0,Greek <team@gnome.gr>
+balsa,3195,1614,829,835,385,129,3231,5638,56.669031571479245,Greek <i18ngr@lists.hellug.gr>
+bangarang,1088,0,0,356,0,0,1182,1088,100.0,Greek <kde-i18n-el@kde.org>
+banshee,4751,362,779,1318,76,120,5283,5892,80.6347589952478,Greek Team <gnome@gnome.gr>
+beagle,874,3,4,222,1,2,882,881,99.20544835414302,Greek <team@gnome.gr>
+bison,890,124,89,139,17,15,984,1103,80.68902991840436,Greek <team@lists.gnome.gr>
+bittorrent,1669,0,2239,344,0,290,1604,3908,42.707267144319346,LANGUAGE <LL@li.org>
+blam,357,0,0,103,0,0,359,357,100.0,Greek <team@gnome.gr>
+blender,12206,85,1606,3258,17,568,13608,13897,87.83190616679859,
+bluedevil,604,0,0,194,0,0,638,604,100.0,Greek <kde-i18n-el@kde.org>
+bluefish,385,1396,2038,249,638,398,392,3819,10.081173081958628,no team
+blueman,470,0,906,181,0,171,536,1376,34.156976744186046,Greek <el@li.org>
+boinc-client,2202,288,1640,558,44,191,2453,4130,53.31719128329298,BOINC Development Team <rwalton@ssl.berkeley.edu>
+brasero,9056,0,0,1254,0,0,9364,9056,100.0,Greek <team@gnome.gr>
+bygfoot,3720,0,0,774,0,0,3818,3720,100.0,<el@li.org>
+byzanz,249,0,0,42,0,0,287,249,100.0,Greek <team@gnome.gr>
+bzr-explorer,18,0,1619,11,0,453,17,1637,1.0995723885155773,Greek <el@li.org>
+calibre,2617,0,17381,511,0,2196,2683,19998,13.086308630863087,Greek <el@li.org>
+ccsm,549,0,0,135,0,0,593,549,100.0,Compiz Fusion translators <i18n@lists.compiz-fusion.org>
+celestia,1971,6,2,840,1,1,2146,1979,99.59575543203638,Hellenic <el@li.org>
+cgit,1887,11,13,417,5,1,2039,1911,98.74411302982732,Greek <i18n@lists.hellug.gr>
+cheese,3688,0,0,264,0,0,3738,3688,100.0,Greek <team@gnome.gr>
+childsplay,1226,0,0,212,0,0,1279,1226,100.0,Ελληνικά <kde-i18n-doc@kde.org>
+chkconfig,448,0,0,90,0,0,457,448,100.0,Greek <nls@tux.hellug.gr>
+chmsee,125,37,32,39,15,19,146,194,64.43298969072166,Greek <el@li.org>
+choqok,11,314,1589,5,88,380,11,1914,0.5747126436781609,Greek <kde-i18n-el@kde.org>
+cinepaint,573,2110,4722,333,924,678,608,7405,7.73801485482782,Greek <nls@hellug.gr>
+clamtk,365,0,440,126,0,93,392,805,45.3416149068323,Greek<LL@li.org>
+clementine,3158,0,0,891,0,0,3488,3158,100.0,<en@li.org>
+compat-gcc-32,147,5019,29324,48,1019,4123,164,34490,0.4262104957958829,Greek <nls@tux.hellug.gr>
+compat-gcc-34,552,5697,24630,132,1098,3470,581,30879,1.7876226561740989,Greek <nls@tux.hellug.gr>
+compat-libgda,51,1070,3821,40,270,680,53,4942,1.0319708619991905,Greek <nls@tux.hellug.gr>
+compiz,3250,0,0,717,0,0,3533,3250,100.0,Greek <jimdusis@yahoo.gr>
+compiz-fusion,8946,0,0,1729,0,0,9712,8946,100.0,Compiz Fusion Translators <i18n@lists.compiz-fusion.org>
+compiz-fusion-extras,8946,0,0,1729,0,0,9712,8946,100.0,Compiz Fusion Translators <i18n@lists.compiz-fusion.org>
+compiz-fusion-unsupported,8946,0,0,1729,0,0,9712,8946,100.0,Compiz Fusion Translators <i18n@lists.compiz-fusion.org>
+conduit,2977,0,0,391,0,0,3068,2977,100.0,Greek <team@gnome.gr>
+conglomerate,2722,247,3348,491,145,502,2784,6317,43.0900744024062,Greek <nls@tux.hellug.gr>
+contact-lookup-applet,259,0,0,55,0,0,301,259,100.0,Greek <team@lists.gnome.gr>
+contacts,284,1,0,74,1,0,314,285,99.64912280701755,Greek <team@gnome.gr>
+control-center,3771,0,0,835,0,0,4034,3771,100.0,Greek <team@gnome.gr>
+coreutils,1206,4954,12453,207,590,672,1440,18613,6.479342395100199,Greek <team@lists.gnome.gr>
+cracklib,93,0,0,15,0,0,67,93,100.0,Hellenic-Ελληνικά-Greek <hstg@billg.gr>
+dasher,577,0,5886,221,0,199,595,6463,8.927742534426738,Greek <team@gnome.gr>
+dc3dd,16,114,802,5,30,53,16,932,1.7167381974248928,Greek <team@lists.gnome.gr>
+decibel-audio-player,1401,0,93,210,0,27,1446,1494,93.77510040160642,Greek <el@li.org>
+deskbar-applet,3009,0,0,444,0,0,3120,3009,100.0,Greek <team@gnome.gr>
+desktop-effects,148,0,0,25,0,0,158,148,100.0,Greek <fedora-trans-el@redhat.com>
+devhelp,414,0,0,105,0,0,425,414,100.0,Greek <team@gnome.gr>
+dexter,221,0,7,91,0,1,222,228,96.9298245614035,Greek <el@li.org>
+dia,2317,1518,1876,873,643,530,2428,5711,40.570828226230084,Greek <team@gnome.gr>
+dialog,10,2,13,10,2,11,10,25,40.0,<i18ngr@hellug.gr>
+digikam,15021,4957,3675,2306,685,306,15717,23653,63.50568638227709,Ελληνικά <i18ngr@lists.hellug.gr>
+django-registration,81,0,0,15,0,0,84,81,100.0,
+docky,397,0,202,126,0,47,434,599,66.2771285475793,Greek <el@li.org>
+dpkg,7932,1753,334,1022,158,63,8825,10019,79.16957780217587,Greek <debian-l10n-greek@lists.debian.org>
+drgeo,311,904,770,98,225,138,286,1985,15.66750629722922,Greek <nls@tux.hellug.gr>
+drupal6-image,3039,0,0,339,0,0,3226,3039,100.0,Greek <kde-i18n-doc@kde.org>
+easystroke,511,0,0,140,0,0,532,511,100.0,Greek <el@li.org>
+easytag,4263,580,472,833,100,58,4753,5315,80.20696142991534,Modern Greek <el@li.org>
+ecore,55,0,55,23,0,12,58,110,50.0,Greek
+ejabberd,1752,0,10,408,0,2,1869,1762,99.43246311010215,
+ekiga,9575,0,0,891,0,0,10087,9575,100.0,Greek <team@gnome.gr>
+elinks,357,1498,10379,170,474,981,387,12234,2.918097106424718,Greek <nls@tux.hellug.gr>
+emerald,774,0,0,215,0,0,843,774,100.0,Greek <jimdusis@yahoo.gr>
+empathy,10419,0,0,1304,0,0,10786,10419,100.0,Greek <team@gnome.gr>
+enlightenment,3544,434,2778,1215,162,205,3853,6756,52.457075192421556,Ελληνικά
+eog,4881,0,0,548,0,0,5150,4881,100.0,Greek <team@gnome.gr>
+eog-plugins,80,0,0,28,0,0,95,80,100.0,Greek <team@gnome.gr>
+epdfview,463,5,16,128,2,7,466,484,95.66115702479338,Greek <nls@tux.hellug.gr>
+epiphany,9358,0,0,1227,0,0,9830,9358,100.0,Greek <team@gnome.gr>
+epiphany-extensions,1046,0,0,276,0,0,1148,1046,100.0,Greek <team@gnome.gr>
+etoys,28402,0,1592,4799,0,303,30313,29994,94.69227178769087,
+evince,3412,0,0,584,0,0,3534,3412,100.0,Greek <team@gnome.gr>
+evolution,57635,0,0,6891,0,0,60623,57635,100.0,Greek <team@gnome.gr>
+evolution-couchdb,48,0,0,12,0,0,61,48,100.0,Greek <team@gnome.gr>
+evolution-data-server,4584,0,0,963,0,0,5452,4584,100.0,Greek <team@gnome.gr>
+evolution-exchange,2204,0,0,360,0,0,2401,2204,100.0,Greek <team@lists.gnome.gr>
+evolution-mapi,518,0,0,107,0,0,608,518,100.0,Greek <team@gnome.gr>
+evolution-rss,708,0,0,193,0,0,822,708,100.0,Greek <team@gnome.gr>
+exaile,646,0,1779,245,0,429,683,2425,26.639175257731956,Greek <el@li.org>
+exo,1598,0,0,301,0,0,1650,1598,100.0,Greek <nls@tux.hellug.gr>
+f-spot,3405,0,0,839,0,0,3793,3405,100.0,Greek <team@gnome.gr>
+fetchmail,2606,1075,645,476,138,70,2847,4326,60.24040684234859,Greek <nls@tux.hellug.gr>
+file-roller,7148,0,0,780,0,0,7868,7148,100.0,Greek <team@gnome.gr>
+filezilla,9145,0,0,1549,0,0,9963,9145,100.0,Ydatografida <ydatografida@gmail.com>
+findutils,274,459,1376,39,43,114,315,2109,12.991939307728781,Greek <nls@tux.hellug.gr>
+firstboot,523,67,0,44,8,0,541,590,88.64406779661017,Greek <fedora-trans-el@redhat.com>
+fontforge,1738,2512,17245,540,343,3432,1911,21495,8.085601302628518,LANGUAGE <gr.c@li.org>
+freeciv,13625,9961,30106,2335,953,1982,13780,53692,25.37621992103107,Greek translation team <gr@li.org>
+freedink,5,77,0,2,13,0,6,82,6.097560975609756,Greek <nls@tux.hellug.gr>
+frozen-bubble,567,82,49,130,9,9,568,698,81.23209169054442,Greek
+fslint,341,0,47,122,0,10,377,388,87.88659793814433,Greek <el@li.org>
+fuse-encfs,561,8,746,83,2,54,601,1315,42.66159695817491,Greek <el@li.org>
+gajim,3672,3180,3982,883,689,531,3995,10834,33.89329887391545,<>
+galeon,222,2138,3636,136,751,535,229,5996,3.702468312208139,Greek <nls@tux.hellug.gr>
+gallery2,15975,56,1762,2221,10,312,17106,17793,89.78249873545776,Greek <gallery-devel@lists.sourceforge.net>
+gambas2,3226,0,26,1052,0,20,3352,3252,99.20049200492005,LANGUAGE <LL@li.org>
+gambas3,3844,0,142,1171,0,66,3987,3986,96.43753135975915,LANGUAGE <LL@li.org>
+gammu,53,65,16004,45,15,2171,57,16122,0.32874333209279244,none
+garcon,17,0,0,2,0,0,23,17,100.0,Greek <nls@tux.hellug.gr>
+gbrainy,7227,0,0,915,0,0,7131,7227,100.0,Greek <team@lists.gnome.gr>
+gcalctool,2748,0,0,496,0,0,2979,2748,100.0,Greek <team@gnome.gr>
+gcc,436,14725,43934,84,2527,5456,462,59095,0.7377950757255267,Greek <nls@tux.hellug.gr>
+gccxml,15,349,776,6,69,118,18,1140,1.3157894736842104,Greek <nls@tux.hellug.gr>
+gcompris,11210,0,0,1344,0,0,11960,11210,100.0,Ελληνικά <kde-i18n-doc@kde.org>
+gconf-editor,2834,0,0,238,0,0,2907,2834,100.0,Greek <team@gnome.gr>
+gdeskcal,19,0,55,19,0,13,19,74,25.675675675675674,LANGUAGE <LL@li.org>
+gdesklets,1186,0,342,171,0,33,1241,1528,77.61780104712042,Greek <nls@tux.hellug.gr>
+gdk-pixbuf2,1297,16,0,199,1,0,1543,1313,98.78141660319878,Greek <team@gnome.gr>
+gdm,10533,0,0,605,0,0,11028,10533,100.0,Greek <team@gnome.gr>
+geany,2539,1829,1218,652,360,203,2695,5586,45.45291800930899,Greek
+gedit,12581,0,0,1783,0,0,12925,12581,100.0,Greek <team@gnome.gr>
+gedit-plugins,143,4,15,36,2,6,141,162,88.27160493827161,el <fedora-trans-el@redhat.com>
+genius,605,169,2065,158,57,260,653,2839,21.31032053539979,Greek <nls@tux.hellug.gr>
+gettext,635,1366,4856,123,124,440,713,6857,9.26060959603325,Greek <simos@teiath.gr>
+gftp,3138,188,49,590,40,4,3198,3375,92.97777777777779,Greek <nls@tux.hellug.gr>
+ggz-base-libs,66,0,0,15,0,0,75,66,100.0,Greek <team@gnome.gr>
+ggz-gtk-client,813,0,0,244,0,0,856,813,100.0,Greek <team@gnome.gr>
+ghdl,435,12595,36878,86,2175,4810,459,49908,0.8716037509016591,Greek <nls@tux.hellug.gr>
+ghex,281,292,396,90,108,78,289,969,28.998968008255932,Greek <team@gnome.gr>
+gigolo,444,0,0,130,0,0,482,444,100.0,Greek <nls@tux.hellug.gr>
+gimp,12297,5505,6455,3440,2198,895,12924,24257,50.69464484478707,Greek <team@gnome.gr>
+git,1887,11,13,417,5,1,2039,1911,98.74411302982732,Greek <i18n@lists.hellug.gr>
+gitweb-caching,1887,11,13,417,5,1,2039,1911,98.74411302982732,Greek <i18n@lists.hellug.gr>
+glade2,938,749,4223,410,255,646,956,5910,15.87140439932318,Greek <gnomehellas@gmx.net>
+glade3,6282,0,0,1325,0,0,6976,6282,100.0,Greek <team@gnome.gr>
+glib2,4403,0,0,685,0,0,5014,4403,100.0,Greek
+glibc,4052,613,984,903,104,138,4753,5649,71.72950964772527,Greek <nls@tux.hellug.gr>
+gmpc,20,0,1424,8,0,463,25,1444,1.3850415512465373,Greek <el@li.org>
+gnochm,427,0,154,111,0,11,449,581,73.49397590361446,Greek <nls@tux.hellug.gr>
+gnome-activity-journal,272,0,44,78,0,16,286,316,86.07594936708861,Greek <el@li.org>
+gnome-applet-netspeed,698,0,420,124,0,6,835,1118,62.432915921288014,Greek <team@gnome.gr>
+gnome-applet-remmina,136,0,0,12,0,0,144,136,100.0,LANGUAGE <LL@li.org>
+gnome-applet-timer,161,0,119,47,0,22,169,280,57.49999999999999,"Greek, Modern (1453-) <el@li.org>"
+gnome-applet-window-picker,22,3,4,6,1,2,32,29,75.86206896551724,Greek
+gnome-applets,19835,0,0,2109,0,0,19707,19835,100.0,Greek <team@gnome.gr>
+gnome-backgrounds,23,0,0,17,0,0,21,23,100.0,Greek <team@lists.gnome.gr>
+gnome-bluetooth,2036,0,0,263,0,0,2113,2036,100.0,Greek <team@gnome.gr>
+gnome-chemistry-utils,4355,0,0,1207,0,0,4641,4355,100.0,Greek
+gnome-color-manager,4301,0,0,510,0,0,4475,4301,100.0,Greek team <team@gnome.gr>
+gnome-commander,705,885,6306,325,272,826,727,7896,8.928571428571429,Greek <nls@tux.hellug.gr>
+gnome-desktop,10014,0,0,303,0,0,10378,10014,100.0,Greek <team@gnome.gr>
+gnome-desktop3,9925,0,0,295,0,0,10275,9925,100.0,Greek <team@gnome.gr>
+gnome-devel-docs,26701,1,47837,1920,1,2156,29056,74539,35.82151625323656,Greek <team@gnome.gr>
+gnome-disk-utility,5071,0,0,1103,0,0,5272,5071,100.0,Greek <team@gnome.gr>
+gnome-do,473,0,139,119,0,25,562,612,77.2875816993464,Greek <el@li.org>
+gnome-doc-utils,251,0,0,101,0,0,256,251,100.0,Greek <team@gnome.gr>
+gnome-games,55121,0,0,3964,0,0,56175,55121,100.0,Greek <team@gnome.gr>
+gnome-gmail,55,0,304,18,0,29,69,359,15.32033426183844,LANGUAGE <LL@li.org>
+gnome-hearts,346,22,41,96,3,7,254,409,84.59657701711491,"Greek, Modern (1453-) <el@li.org>"
+gnome-icon-theme,43,0,0,38,0,0,50,43,100.0,<nls@tux.hellug.gr>
+gnome-keyring,1157,0,0,242,0,0,1218,1157,100.0,Greek <team@gnome.gr>
+gnome-libs,1034,3,48,383,3,9,1031,1085,95.2995391705069,Greek <nls@tux.hellug.gr>
+gnome-mag,298,0,0,42,0,0,340,298,100.0,Greek <team@gnome.gr>
+gnome-media,4897,0,0,586,0,0,4920,4897,100.0,Greek <team@gnome.gr>
+gnome-menus,125,0,0,46,0,0,128,125,100.0,Greek <team@gnome.gr>
+gnome-mime-data,887,0,0,362,0,0,945,887,100.0,Greek <nls@tux.hellug.gr>
+gnome-mud,970,33,77,226,4,4,1060,1080,89.81481481481481,Greek <team@gnome.gr>
+gnome-netstatus,1207,0,0,183,0,0,1168,1207,100.0,Greek <team@gnome.gr>
+gnome-nettool,1131,0,0,235,0,0,1154,1131,100.0,Greek <team@gnome.gr>
+gnome-packagekit,9033,0,0,1065,0,0,9622,9033,100.0,Greek <team@gnome.gr>
+gnome-panel,6400,0,0,790,0,0,6749,6400,100.0,Greek <team@gnome.gr>
+gnome-phone-manager,399,0,114,81,0,9,420,513,77.77777777777779,**Greek** <**team@gnome.gr**>
+gnome-pilot,612,671,465,141,139,60,648,1748,35.01144164759725,Greek <team@gnome.gr>
+gnome-pilot-conduits,114,41,54,30,14,6,130,209,54.54545454545454,Greek <gnomehellas@gmx.net>
+gnome-power-manager,5252,0,0,581,0,0,5774,5252,100.0,Greek <team@gnome.gr>
+gnome-schedule,61,249,846,28,79,104,62,1156,5.27681660899654,Greek <nls@tux.hellug.gr>
+gnome-screensaver,989,0,0,157,0,0,1058,989,100.0,Greek <team@gnome.gr>
+gnome-session,572,0,0,104,0,0,597,572,100.0,Greek <team@gnome.gr>
+gnome-settings-daemon,1988,0,0,283,0,0,2205,1988,100.0,Greek <users@el.openoffice.org>
+gnome-shell,135,0,9,50,0,5,133,144,93.75,Greek <<team AT BLOCKSPAM gnome DOT gr>>
+gnome-specimen,56,0,0,18,0,0,64,56,100.0,el <fedora-trans-el@redhat.com>
+gnome-subtitles,2382,0,0,400,0,0,2487,2382,100.0,Greek <team@gnome.gr>
+gnome-system-monitor,3817,0,0,533,0,0,3863,3817,100.0,Greek <team@gnome.gr>
+gnome-terminal,7896,0,0,771,0,0,7758,7896,100.0,Greek <team@gnome.gr>
+gnome-themes,109,0,0,30,0,0,120,109,100.0,Greek <team@gnome.gr>
+gnome-user-docs,78589,0,0,5424,0,0,81027,78589,100.0,Greek <team@gnome.gr>
+gnome-user-share,1458,0,0,106,0,0,1526,1458,100.0,Greek <team@gnome.gr>
+gnome-utils,9987,0,0,1125,0,0,10064,9987,100.0,Greek <team@gnome.gr>
+gnome-vfs2,1519,0,0,305,0,0,1628,1519,100.0,Greek <team@gnome.gr>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Greek <team@gnome.gr>
+gnomebaker,1152,0,34,288,0,3,1197,1186,97.13322091062395,Greek <nls@tux.hellug.gr>
+gnote,5573,286,7,495,18,5,5892,5866,95.00511421752472,Greek <team@gnome.gr>
+gnotime,114,337,1557,60,141,228,113,2008,5.677290836653386,Greek <nls@tux.hellug.gr>
+gnucash,15457,2350,8873,3292,432,541,16005,26680,57.934782608695656,Greek <team@gnome.gr>
+gnumed,2859,105,15692,866,31,2122,3047,18656,15.32482847341338,Greek <el@li.org>
+gnumeric,34013,621,412,5491,78,73,37082,35046,97.0524453575301,<team@lists.gnome.gr>
+gnupg,4448,2921,1260,637,473,184,4561,8629,51.54710858732182,Greek <nls@tux.hellug.gr>
+gnupg2,3265,4307,2919,538,764,439,3443,10491,31.121914021542274,Greek <nls@tux.hellug.gr>
+gobby,778,3,95,175,1,8,838,876,88.81278538812786,Greek <el@li.org>
+goffice,368,1187,3044,226,543,791,373,4599,8.001739508588823,Greek <nls@tux.hellug.gr>
+gok,1915,0,0,434,0,0,2033,1915,100.0,Greek <team@lists.gnome.gr>
+gourmet,2263,570,814,568,174,126,2418,3647,62.05100082259391,"Greek, Modern (1453-) <el@li.org>"
+gparted,1589,0,0,329,0,0,1772,1589,100.0,Greek <team@gnome.gr>
+gpodder,2355,0,5,611,0,2,2751,2360,99.78813559322035,Greek (http://www.transifex.net/projects/p/gpodder/team/el/)
+gpointing-device-settings,24,2,143,6,1,47,28,169,14.201183431952662,Greek <team@gnome.gr>
+gpsdrive,599,550,1356,144,123,189,695,2505,23.912175648702593,Greek <team@lists.gnome.gr>
+grass,0,0,44639,0,0,7435,0,44639,0.0,Greek <grass-translations@lists.osgeo.org>
+grep,57,253,640,19,25,68,67,950,6.0,Greek <nls@tux.hellug.gr>
+gretl,12722,650,345,3250,146,76,13432,13717,92.7462273091784,Greek
+griffith,1592,0,262,388,0,66,1689,1854,85.86839266450917,Greek <el@li.org>
+grisbi,9231,1457,505,1806,165,50,9782,11193,82.47118734923613,KASKAS <ttnfy17@yahoo.gr>
+gscan2pdf,781,0,846,262,0,246,815,1627,48.00245851259988,Greek <el@li.org>
+gstreamer-plugins-bad-free,72,0,0,12,0,0,68,72,100.0,Greek <team@lists.gnome.gr>
+gstreamer-plugins-base,891,0,0,174,0,0,924,891,100.0,Greek <team@lists.gnome.gr>
+gstreamer-plugins-good,788,0,0,187,0,0,878,788,100.0,Greek <team@lists.gnome.gr>
+gthumb,11125,87,124,1585,24,11,11328,11336,98.13867325335215,Ελληνικά <team@gnome.gr>
+gtk+,202,0,0,105,0,0,205,202,100.0,Greek <nls@tux.hellug.gr>
+gtk-doc,7279,0,0,331,0,0,7685,7279,100.0,Greek <team@gnome.gr>
+gtk-gnutella,7099,1726,4100,1262,400,501,7391,12925,54.924564796905216,Greek <i18ngr@lists.hellug.gr>
+gtk-recordmydesktop,816,0,0,104,0,0,910,816,100.0,<el@li.org>
+gtk-vnc,45,0,36,14,0,8,53,81,55.55555555555556,Greek <team@gnome.gr>
+gtk2,12399,5,0,2584,1,0,12987,12404,99.95969042244437,Greek <team@gnome.gr>
+gtk2-engines,119,0,0,47,0,0,150,119,100.0,Greek <team@gnome.gr>
+gtk3,11936,47,15,2476,10,3,12474,11998,99.48324720786798,Greek <team@gnome.gr>
+gtk3-engines,119,0,0,47,0,0,150,119,100.0,Greek <team@gnome.gr>
+gtkhtml3,485,0,0,309,0,0,507,485,100.0,Greek <team@gnome.gr>
+gtksourceview,849,0,0,342,0,0,872,849,100.0,Greek <team@gnome.gr>
+gtksourceview2,1413,0,0,538,0,0,1492,1413,100.0,Greek <team@gnome.gr>
+gtksourceview3,1413,0,0,538,0,0,1492,1413,100.0,Greek <team@gnome.gr>
+gtkspell,11,0,0,5,0,0,12,11,100.0,Greek <nls@tux.hellug.gr>
+gtranslator,4492,0,0,738,0,0,4796,4492,100.0,Greek <team@gnome.gr>
+guake,481,0,0,88,0,0,545,481,100.0,guake@lists.guake.org
+gucharmap,2538,0,0,459,0,0,2412,2538,100.0,Greek <team@gnome.gr>
+gummi,203,127,200,110,32,52,214,530,38.301886792452834,EL <mydimle@gmail.com>>
+gutenprint,148,2770,6665,115,881,1619,158,9583,1.5444015444015444,Greek <nls@tux.hellug.gr>
+gvfs,1983,0,0,463,0,0,2207,1983,100.0,Greek <team@gnome.gr>
+gwget,430,55,40,145,18,12,525,525,81.9047619047619,Greek <team@gnome.gr>
+gwibber,22,0,23,14,0,10,26,45,48.888888888888886,Greek <el@li.org>
+hamster-applet,1277,0,0,221,0,0,1329,1277,100.0,Greek <team@gnome.gr>
+hello,4,65,124,2,12,16,6,193,2.072538860103627,Greek <S.Xenitellis@rhbnc.ac.uk>
+help2man,291,230,2,44,3,1,298,523,55.64053537284895,Greek <team@lists.gnome.gr>
+hitori,172,0,0,28,0,0,190,172,100.0,Greek <team@gnome.gr>
+homebank,1395,0,114,501,0,33,1402,1509,92.44532803180915,Hellenic <christosvas@in.gr>
+horde,6358,0,0,1546,0,0,6688,6358,100.0,Greek <dev@lists.horde.org>
+icewm,413,30,933,148,2,97,491,1376,30.014534883720927,hellenic <en@li.org>
+im-chooser,132,6,75,29,2,17,126,213,61.97183098591549,Greek <fedora-trans-el@redhat.com>
+imp,6318,0,0,1276,0,0,6606,6318,100.0,Greek <dev@lists.horde.org>
+imsettings,0,77,902,0,13,142,0,979,0.0,Greek <fedora-trans-el@redhat.com>
+ingo,660,0,0,186,0,0,712,660,100.0,i18n@lists.horde.org
+initscripts,2810,1071,468,661,314,95,2962,4349,64.61255461025523,Greek Fedora team <fedora-trans-el@redhat.com>
+inkscape,1191,7498,17839,298,2682,2598,1268,26528,4.4895958986731,Greek <nls@tux.hellug.gr>
+iok,142,0,0,36,0,0,135,142,100.0,Greek <trans-el@lists.fedoraproject.org>
+iso-codes,1490,2666,15540,763,1815,11039,1486,19696,7.564987814784728,Greek
+isomaster,674,0,0,107,0,0,678,674,100.0,Mike Kranidis <mikek@openforall.com>
+jmol,765,0,1966,302,0,595,816,2731,28.011717319663127,Greek <el@li.org>
+jokosher,402,0,1657,100,0,309,401,2059,19.524040796503154,Greek <el@li.org>
+k3b,20423,0,0,2520,0,0,21506,20423,100.0,Greek <kde-i18n-el@kde.org>
+kBuild,121,168,216,16,39,26,131,505,23.96039603960396,Greek <nls@tux.hellug.gr>
+kaffeine,83,222,285,52,108,97,84,590,14.067796610169491,Greek <kde-i18n-el@kde.org>
+kamoso,63,46,44,19,13,17,64,153,41.17647058823529,American English <kde-i18n-doc@kde.org>
+kaudiocreator,1136,0,0,273,0,0,1187,1136,100.0,Greek <kde-i18n-el@kde.org>
+kbd,3695,0,0,488,0,0,4069,3695,100.0,Greek <team@lists.gnome.gr>
+kcoloredit,232,34,12,77,11,7,229,278,83.45323741007195,Greek <kde-i18n-el@kde.org>
+kde-partitionmanager,2732,0,0,453,0,0,2860,2732,100.0,Ελληνικά <i18ngr@lists.hellug.gr>
+kde-plasma-daisy,325,0,4,127,0,3,344,329,98.78419452887537,<en@li.org>
+kde-plasma-networkmanagement,2787,55,28,863,9,3,2959,2870,97.10801393728224,Greek <kde-i18n-el@kde.org>
+kdetv,2206,0,0,483,0,0,2517,2206,100.0,Greek <i18ngr@lists.hellug.gr>
+kdiff3,3644,0,0,650,0,0,3989,3644,100.0,Greek <kde-i18n-el@kde.org>
+kdissert,2027,0,0,282,0,0,2151,2027,100.0,Greek <i18ngr@lists.hellug.gr>
+kerry,49,9,644,34,4,145,50,702,6.98005698005698,Greek <el@li.org>
+keurocalc,291,0,0,116,0,0,308,291,100.0,Greek <i18ngr@lists.hellug.gr>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kgrab,370,0,0,53,0,0,382,370,100.0,Greek <kde-i18n-el@kde.org>
+kicad,12304,0,0,3098,0,0,13439,12304,100.0,
+kiconedit,726,0,0,155,0,0,748,726,100.0,Greek <kde-i18n-el@kde.org>
+kile,10083,612,419,1765,84,47,10433,11114,90.72341191290263,Greek <i18ngr@lists.hellug.gr>
+kio_gopher,17,0,0,5,0,0,19,17,100.0,greek <kde-i18n-el@kde.org>
+kio_sysinfo,131,23,14,57,5,10,133,168,77.97619047619048,Greek <kde-i18n-el@kde.org>
+kipi-plugins,9629,2269,2939,2124,409,343,10191,14837,64.89856439981129,greek <kde-i18n-el@kde.org>
+kmess,7252,122,28,1127,16,6,7613,7402,97.97352067008916,Greek <translators_team@mandrivalinux.gr>
+kmldonkey,1538,145,147,365,43,28,1575,1830,84.04371584699454,Greek <kde-i18n-el@kde.org>
+kmplayer,1163,75,10,355,12,3,1238,1248,93.18910256410257,Greek <kde-i18n-el@kde.org>
+kmymoney,6938,563,11292,1644,151,1354,7516,18793,36.91800138349385,Greek <kde-i18n-doc@kde.org>
+knemo,220,251,715,112,81,154,221,1186,18.54974704890388,Greek <i18ngr@lists.hellug.gr>
+knetstats,119,0,0,53,0,0,133,119,100.0,Greek <i18ngr@lists.hellug.gr>
+knights,553,1,1,166,1,1,567,555,99.63963963963964,Greek <kde-i18n-el@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,8952,8417,100.0,Greek <i18ngr@lists.hellug.gr>
+konq-plugins,1664,14,14,539,1,6,1837,1692,98.3451536643026,Greek <i18ngr@lists.hellug.gr>
+konversation,6092,2927,1164,1085,323,163,6486,10183,59.825198860846506,Greek <i18ngr@lists.hellug.gr>
+kopete-cryptography,384,24,0,40,1,0,402,408,94.11764705882352,Greek <kde-i18n-el@kde.org>
+kpackagekit,702,1961,983,127,430,116,706,3646,19.25397696105321,Greek <kde-i18n-el@kde.org>
+kphotoalbum,5334,818,181,700,42,21,5556,6333,84.22548555187115,Greek <kde-i18n-el@kde.org>
+kpilot,4982,106,2068,723,39,99,5388,7156,69.61989938513136,Greek <kde-i18n-el@kde.org>
+krecipes,3087,0,0,568,0,0,3269,3087,100.0,Greek <i18ngr@lists.hellug.gr>
+kronolith,1630,0,0,473,0,0,1691,1630,100.0,Greek <dev@lists.horde.org>
+krusader,5521,1366,863,1192,279,226,6143,7750,71.23870967741935,Greek <mageia_gr@list.mageia.org.uk>
+kshutdown,778,0,0,186,0,0,875,778,100.0,Greek <i18ngr@lists.hellug.gr>
+ksig,85,0,0,26,0,0,88,85,100.0,Greek <i18ngr@lists.hellug.gr>
+kst,6700,496,250,1634,127,51,6985,7446,89.9811979586355,Greek <i18ngr@lists.hellug.gr>
+ktorrent,7950,0,0,1343,0,0,8211,7950,100.0,Greek <kde-i18n-doc@kde.org>
+kwebkitpart,335,94,48,89,20,15,342,477,70.23060796645703,Ελληνικά <i18ngr@lists.hellug.gr>
+ldm,156,0,0,45,0,0,179,156,100.0,Greek
+leafpad,123,2,0,67,1,0,133,125,98.4,Greek <nls@tux.hellug.gr>
+libbonobo,543,0,0,107,0,0,610,543,100.0,Greek <team@gnome.gr>
+libbonoboui,368,0,0,115,0,0,385,368,100.0,Greek <team@gnome.gr>
+libepc,141,0,0,25,0,0,184,141,100.0,Greek <team@gnome.gr>
+libfm,659,0,0,179,0,0,659,659,100.0,Greek
+libgda,44,2748,6989,36,728,1061,46,9781,0.44985175339944794,Greek <nls@tux.hellug.gr>
+libgdata,357,0,0,43,0,0,387,357,100.0,Greek <team@gnome.gr>
+libgdl,602,0,0,93,0,0,657,602,100.0,Greek <team@gnome.gr>
+libgnome,1773,0,0,273,0,0,1914,1773,100.0,Greek <team@gnome.gr>
+libgnome-keyring,44,0,0,9,0,0,46,44,100.0,Greek <team@lists.gnome.gr>
+libgnomecanvas,378,0,0,95,0,0,393,378,100.0,Greek <team@gnome.gr>
+libgnomekbd,292,0,0,62,0,0,301,292,100.0,Greek <team@gnome.gr>
+libgnomeprint22,168,0,0,98,0,0,168,168,100.0,<nls@tux.hellug.gr>
+libgnomeprintui22,481,0,0,154,0,0,478,481,100.0,Greek <team@gnome.gr>
+libgnomeui,1309,0,0,334,0,0,1335,1309,100.0,Greek <team@gnome.gr>
+libgtop2,126,0,0,40,0,0,140,126,100.0,Greek <nls@tux.hellug.gr>
+libgweather,6090,0,0,4555,0,0,6117,6090,100.0,Greek <team@lists.gnome.gr>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,25,0,0,14,0,0,28,25,100.0,Greek <i18ngr@lists.hellug.gr>
+libktorrent,507,0,0,113,0,0,558,507,100.0,Greek <kde-i18n-doc@kde.org>
+libuser,1086,28,0,230,3,0,1217,1114,97.48653500897666,Greek <fedora-trans-el@redhat.com>
+libvirt,1695,3515,15336,330,623,2594,2316,20546,8.249780979266037,Greek <fedora-trans-el@redhat.com>
+libwnck,1124,0,0,241,0,0,1237,1124,100.0,Greek <team@gnome.gr>
+libxfce4menu,31,0,0,5,0,0,31,31,100.0,Greek <nls@tux.hellug.gr>
+libxfce4ui,109,18,9,25,4,1,106,136,80.14705882352942,Greek <nls@tux.hellug.gr>
+libxfcegui4,234,0,0,61,0,0,230,234,100.0,Greek <nls@tux.hellug.gr>
+liferea,1841,364,206,422,68,41,1956,2411,76.35835752799667,<team@gnome.gr>
+lilypond,4081,0,0,680,0,0,4549,4081,100.0,Greek <team@lists.gnome.gr>
+liveusb-creator,480,0,0,52,0,0,479,480,100.0,Greek <team@gnome.gr>
+ltsp,462,0,0,87,0,0,510,462,100.0,Greek
+lxappearance,191,0,0,58,0,0,208,191,100.0,Greek
+lxappearance-obconf,191,0,0,26,0,0,201,191,100.0,Greek
+lxdm,13,0,0,11,0,0,12,13,100.0,LANGUAGE <LL@li.org>
+lxinput,70,0,0,23,0,0,67,70,100.0,Greek <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,102,97,100.0,Greek <team@gnome.gr>
+lxmusic,203,0,0,89,0,0,226,203,100.0,Greek
+lxpanel,892,0,0,297,0,0,970,892,100.0,Greek
+lxsession,37,0,0,15,0,0,34,37,100.0,Greek
+lxtask,122,0,0,48,0,0,143,122,100.0,Greek <nls@tux.hellug.gr>
+lxterminal,144,0,0,85,0,0,155,144,100.0,Greek
+lyx,11039,1301,4614,3286,333,1556,11378,16954,65.11147811725846,LyX team <lyx-docs@lists.lyx.org>
+mailody,432,66,285,137,21,30,444,783,55.172413793103445,greek <kde-i18n-el@kde.org>
+man-db,5,126,177,2,28,59,6,308,1.6233766233766231,Greek <nls@tux.hellug.gr>
+marlin,659,372,421,232,118,98,647,1452,45.38567493112948,Greek <team@gnome.gr>
+mc,263,7,3391,101,4,988,272,3661,7.183829554766458,Greek (http://www.transifex.net/projects/p/mc/team/el/)
+mcrypt,956,6,3,141,1,1,1104,965,99.06735751295336,Hellenic <nls@hellug.gr>
+meld,858,0,7,240,0,2,898,865,99.1907514450867,Greek <team@gnome.gr>
+mercurial,1897,564,21398,315,35,1933,2254,23859,7.9508780753594035,Greek
+metacity,3798,0,0,404,0,0,4136,3798,100.0,Greek <team@gnome.gr>
+midori,2678,0,0,654,0,0,2870,2678,100.0,Greek <nls@tux.hellug.gr>
+mingw-wxWidgets,4403,867,1121,960,206,309,5300,6391,68.89375684556407,"Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr>"
+mingw32-atk,375,0,0,126,0,0,380,375,100.0,Greek <team@gnome.gr>
+mingw32-gcc,436,14585,43758,84,2512,5441,462,58779,0.7417615134656935,Greek <nls@tux.hellug.gr>
+mingw32-gdk-pixbuf,1297,16,0,199,1,0,1543,1313,98.78141660319878,Greek <team@gnome.gr>
+mingw32-gettext,757,1229,4858,145,101,438,847,6844,11.060783167738165,Greek <simos@teiath.gr>
+mingw32-glib2,4403,0,0,685,0,0,5014,4403,100.0,Greek
+mingw32-gtk-vnc,45,0,36,14,0,8,53,81,55.55555555555556,Greek <team@gnome.gr>
+mingw32-gtk2,12399,5,0,2584,1,0,12987,12404,99.95969042244437,Greek <team@gnome.gr>
+mingw32-gtkhtml3,713,0,0,366,0,0,743,713,100.0,Greek <team@gnome.gr>
+mingw32-iconv,15,32,289,4,9,33,16,336,4.464285714285714,Greek <nls@tux.hellug.gr>
+mlocate,9,193,361,2,36,12,12,563,1.5985790408525755,Greek <fedora-trans-el@redhat.com>
+mod_cluster,39,32,256,5,9,32,42,327,11.926605504587156,Greek <nls@tux.hellug.gr>
+moin,974,330,3667,225,73,621,1110,4971,19.5936431301549,
+mousepad,135,0,0,64,0,0,141,135,100.0,Greek <nls@tux.hellug.gr>
+mousetweaks,4715,0,0,293,0,0,5025,4715,100.0,Greek <team@gnome.gr>
+msp430-gcc,147,5019,29324,48,1019,4123,164,34490,0.4262104957958829,Greek <nls@tux.hellug.gr>
+multimedia-menus,56,0,0,22,0,0,61,56,100.0,Greek Fedora team <fedora-trans-el@redhat.com>
+mutt,3758,879,740,871,143,106,4161,5377,69.89027338664683,Greek <EL@li.org>
+mutter,3864,0,0,413,0,0,4231,3864,100.0,Greek <team@gnome.gr>
+mutter-mbl,3864,0,0,413,0,0,4231,3864,100.0,Greek <team@gnome.gr>
+nautilus,8891,0,0,1449,0,0,9147,8891,100.0,Greek <team@gnome.gr>
+nautilus-actions,1465,88,1,166,3,1,1668,1554,94.27284427284427,Greek <team@gnome.gr>
+nautilus-open-terminal,158,0,0,14,0,0,140,158,100.0,Greek <team@gnome.gr>
+nautilus-sendto,308,0,0,64,0,0,334,308,100.0,Greek <team@gnome.gr>
+nesc,15,362,801,6,71,122,18,1178,1.2733446519524618,Greek <nls@tux.hellug.gr>
+network-manager-netbook,473,0,0,144,0,0,511,473,100.0,Novell Language <language@novell.com>
+newt,4,0,0,4,0,0,4,4,100.0,Greek <debian-l10n-greek@lists.debian.org>
+notecase,245,261,650,86,94,176,244,1156,21.19377162629758,eNetExperts <mrigaki@gmail.gr>
+notification-daemon,99,0,0,20,0,0,114,99,100.0,Greek <team@lists.gnome.gr>
+ntfs-config,177,6,174,31,2,26,190,357,49.57983193277311,Greek <el@li.org>
+oggconvert,132,0,0,44,0,0,141,132,100.0,Greek <el@li.org>
+olpc-switch-desktop,153,0,5,12,0,2,159,158,96.83544303797468,LANGUAGE <LL@li.org>
+onboard,1,8,359,1,4,58,1,368,0.2717391304347826,Greek <el@li.org>
+orage,667,189,1254,489,71,209,727,2110,31.611374407582936,Greek <nls@tux.hellug.gr>
+orca,4411,0,0,1410,0,0,5139,4411,100.0,Greek <team@gnome.gr>
+osmo,1300,229,176,558,83,63,1226,1705,76.24633431085044,
+pam_krb5,7,0,0,4,0,0,7,7,100.0,Greek Fedora team <fedora-trans-el@redhat.com>
+pan,217,1359,712,84,389,127,247,2288,9.484265734265735,Greek <gnomehellas@gmx.net>
+paprefs,15,0,116,3,0,20,13,131,11.450381679389313,Greek <fedora-trans-el@redhat.com>
+passwd,299,0,0,53,0,0,339,299,100.0,Greek <fedora-el-list@redhat.com>
+pastebinit,165,0,0,25,0,0,191,165,100.0,Greek <el@li.org>
+pavucontrol,34,10,193,16,6,65,38,237,14.345991561181433,Greek <fedora-trans-el@redhat.com>
+pcmanfm,538,0,0,149,0,0,563,538,100.0,Greek
+pdfshuffler,108,0,0,32,0,0,116,108,100.0,Konstantinos Poulios <poulios.konstantinos@gmail.com>
+pessulus,130,0,0,33,0,0,142,130,100.0,Greek <team@gnome.gr>
+pgadmin3,3003,3408,3265,1016,1032,648,3041,9676,31.035551880942535,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,1122,0,1431,393,0,431,1116,2553,43.94829612220917,Greek <el@li.org>
+phpesp,848,564,818,204,76,128,972,2230,38.026905829596416,el_GR <jflemer@alum.rpi.edu>
+picard,509,0,802,315,0,290,522,1311,38.82532418001526,Greek <el@li.org>
+pidgin,14378,1439,2511,3131,353,418,15327,18328,78.44827586206897,Greek <i18ngr@lists.hellug.gr>
+pidgin-musictracker,333,0,0,60,0,0,364,333,100.0,Greek <el@li.org>
+pino,352,0,0,127,0,0,378,352,100.0,Greek
+pinta,442,0,536,247,0,109,469,978,45.194274028629856,Greek <el@li.org>
+pitivi,1334,0,0,301,0,0,1384,1334,100.0,Greek <team@gnome.gr>
+planner,1580,108,107,501,12,14,1668,1795,88.02228412256268,Greek <nls@tux.hellug.gr>
+pmount,28,0,695,5,0,58,36,723,3.872752420470263,"Greek, Modern (1453-) <el@li.org>"
+poedit,1143,19,0,266,3,0,1273,1162,98.36488812392426,Greek <poedit-translators@lists.sourceforge.net>
+policycoreutils,12,1043,415,4,173,83,11,1470,0.8163265306122449,Greek <fedora-trans-el@redhat.com>
+polkit-gnome,311,0,0,48,0,0,327,311,100.0,Greek <team@gnome.gr>
+pootle,2424,0,0,459,0,0,2613,2424,100.0,LANGUAGE <LL@li.org>
+preupgrade,415,89,293,56,6,59,453,797,52.0702634880803,Greek <trans-el@lists.fedoraproject.org>
+psad,327,100,5,24,5,1,364,432,75.69444444444444,Greek <velonis@freemail.gr>
+psmisc,340,381,178,46,14,22,384,899,37.81979977753059,Greek <team@lists.gnome.gr>
+publican,332,563,199,21,19,32,360,1094,30.347349177330894,Greek <fedora-trans-el@redhat.com>
+publican-fedora,106,0,1,5,0,1,103,107,99.06542056074767,Greek <fedora-trans-el@redhat.com>
+pulseaudio,223,84,2542,91,17,320,230,2849,7.827307827307828,Greek <fedora-trans-el@redhat.com>
+pulsecaster,15,0,0,4,0,0,20,15,100.0,LANGUAGE <LL@li.org>
+pybliographer,543,121,307,177,35,50,577,971,55.92173017507724,Greek <team@gnome.gr>
+pychess,61,174,1436,29,46,270,62,1671,3.6505086774386597,Greek <el@li.org>
+pykickstart,209,45,84,20,4,11,217,338,61.834319526627226,Greek <fedora-trans-el@redhat.com>
+pyroom,266,0,145,56,0,18,251,411,64.72019464720195,Greek <el@li.org>
+python-formencode,540,55,170,77,6,27,574,765,70.58823529411765,Greek <fedora-trans-el@redhat.com>
+python-meh,269,0,0,33,0,0,272,269,100.0,Greek <trans-el@lists.fedoraproject.org>
+qt-recordmydesktop,816,0,0,104,0,0,910,816,100.0,<el@li.org>
+quassel,325,0,3694,59,0,801,353,4019,8.086588703657627,Stefanos Michael Sofroniou <ssofroni@cytaney.com.cy>
+quitcount,166,0,0,40,0,0,196,166,100.0,Stella Korakaki <stella@tux.gr>
+radiotray,95,0,0,40,0,0,97,95,100.0,Greek (http://www.transifex.net/projects/p/radiotray/team/el/)
+recode,0,0,0,0,0,0,0,0,0.0,
+redhat-menus,261,0,0,86,0,0,271,261,100.0,Greek
+rednotebook,142,0,836,47,0,175,164,978,14.519427402862986,Greek <el@li.org>
+rekonq,1610,4,3,388,1,1,1711,1617,99.56709956709958,Greek <i18ngr@lists.hellug.gr>
+remmina,523,0,305,167,0,49,538,828,63.16425120772947,LANGUAGE <LL@li.org>
+revisor,331,0,4299,129,0,643,333,4630,7.14902807775378,Greek <fedora-trans-el@redhat.com>
+rhn-client-tools,235,880,3705,52,168,234,248,4820,4.875518672199171,Greek <nls@hellug.gr>
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+rhythmbox,10001,29,0,1609,6,0,11043,10030,99.71086739780658,Greek <team@gnome.gr>
+ristretto,306,0,0,124,0,0,363,306,100.0,Greek <nls@tux.hellug.gr>
+rkward,2496,750,1255,499,110,124,2699,4501,55.45434347922684,en_US <kde-i18n-doc@lists.kde.org>
+rsibreak,840,393,71,118,26,19,794,1304,64.41717791411043,Greek <kde-i18n-el@kde.org>
+rygel,554,0,0,123,0,0,661,554,100.0,Greek <team@lists.gnome.gr>
+sabayon,2178,0,0,274,0,0,2278,2178,100.0,Greek <team@gnome.gr>
+seahorse,6325,0,0,924,0,0,6736,6325,100.0,Greek <team@gnome.gr>
+seahorse-plugins,2668,0,0,358,0,0,2921,2668,100.0,Greek <team@gnome.gr>
+sectool,93,8,2310,53,3,300,102,2411,3.857320613853173,Greek <fedora-trans-el@redhat.com>
+sed,490,54,37,84,2,3,537,581,84.33734939759037,Greek <team@lists.gnome.gr>
+semantik,444,0,0,155,0,0,470,444,100.0,Ελληνικά <kde-i18n-doc@kde.org>
+setroubleshoot,17,28,518,14,9,145,17,563,3.019538188277087,Greek <team@gnome.gr>
+setroubleshoot-plugins,0,0,7818,0,0,364,0,7818,0.0,LANGUAGE <LL@li.org>
+setuptool,55,0,0,14,0,0,59,55,100.0,Greek <fedora-trans-el@redhat.com>
+shadow-utils,1041,1157,1023,199,119,94,1151,3221,32.31915554175722,Greek <debian-l10n-greek@lists.debian.org>
+shared-mime-info,955,44,10,367,16,4,1074,1009,94.64816650148661,Greek <nls@tux.hellug.gr>
+sharutils,470,436,142,60,62,28,545,1048,44.847328244274806,Greek <simos@teiath.gr>
+shotwell,3707,0,0,726,0,0,4056,3707,100.0,LANGUAGE <LL@li.org>
+shutter,652,0,2338,182,0,416,649,2990,21.80602006688963,Greek <el@li.org>
+simple-scan,553,0,98,101,0,17,637,651,84.94623655913979,Greek <el@li.org>
+skanlite,102,8,63,36,3,17,110,173,58.95953757225434,Greek <kde-i18n-el@kde.org>
+skrooge,4793,982,586,1196,227,109,4906,6361,75.34978776921868,Greek <i18ngr@lists.hellug.gr>
+skychart,294,320,2680,197,121,763,291,3294,8.925318761384334,<translation@ap-i.net>
+smolt,445,393,336,120,43,49,482,1174,37.9045996592845,Greek <fedora-trans-el@redhat.com>
+sonata,1133,3,0,356,1,0,1257,1136,99.73591549295774,noteam
+sos,180,76,11,32,2,2,200,267,67.41573033707866,Greek <trans-el@lists.fedoraproject.org>
+sound-juicer,3281,0,0,300,0,0,3448,3281,100.0,Greek <team@gnome.gr>
+soundconverter,292,109,49,80,15,15,342,450,64.88888888888889,Greek <el@li.org>
+specspo,64665,47788,192841,2224,6570,8056,64792,305294,21.181222035153,
+springlobby,2810,621,1264,789,185,190,2822,4695,59.850905218317365,Greek <el@li.org>
+squirrelmail,5726,70,1927,1301,15,183,6371,7723,74.14217273080409,Greek <squirrelmail-i18n@lists.sourceforge.net>
+sssd,0,0,10388,0,0,1039,0,10388,0.0,Greek <trans-el@lists.fedoraproject.org>
+stardict,695,858,887,127,119,215,649,2440,28.48360655737705,
+stellarium,2832,0,530,1173,0,274,2939,3362,84.23557406305771,"Greek, Modern (1453-) <el@li.org>"
+subdownloader,952,0,16,271,0,1,998,968,98.34710743801654,LANGUAGE <LL@li.org>
+subtitlecomposer,1414,547,218,362,151,61,1477,2179,64.89215236346948,ΕΛΛΗΝΙΚΑ <el@li.org>
+subtitleeditor,3297,0,0,840,0,0,3397,3297,100.0,Language el <>
+sugar,374,2,0,127,2,0,412,376,99.46808510638297,Greek <olpc@grnet.gr>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,57,0,0,30,0,0,65,57,100.0,Greek <olpc@grnet.gr>
+sugar-calculator,593,0,0,127,0,0,642,593,100.0,LANGUAGE <LL@li.org>
+sugar-chat,26,0,0,12,0,0,27,26,100.0,Greek <olpc-l10n-el@googlegroups.com>
+sugar-clock,37,1,0,16,1,0,36,38,97.36842105263158,LANGUAGE <LL@li.org>
+sugar-connect,36,0,0,9,0,0,44,36,100.0,Greek <olpc-l10n-el@googlegroups.com>
+sugar-finance,142,0,0,31,0,0,140,142,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,17,0,0,9,0,0,16,17,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,10,0,0,6,0,0,11,10,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,2,0,21,1,0,104,100,98.0,LANGUAGE <LL@li.org>
+sugar-memorize,50,0,0,25,0,0,54,50,100.0,LANGUAGE <LL@li.org>
+sugar-moon,90,0,0,31,0,0,97,90,100.0,LANGUAGE <LL@li.org>
+sugar-physics,22,0,0,22,0,0,22,22,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,52,0,0,16,0,0,60,52,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,85,0,0,30,0,0,114,85,100.0,LANGUAGE <LL@li.org>
+sugar-read,28,0,0,18,0,0,33,28,100.0,Greek <olpc@grnet.gr>
+sugar-surf,55,0,0,31,0,0,66,55,100.0,Greek <olpc@grnet.gr>
+sugar-tamtam,2074,0,3,696,0,1,2125,2077,99.85556090515166,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,0,4,0,0,6,6,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,71,0,0,36,0,0,82,71,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1208,0,0,355,0,0,1352,1208,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,Greek
+sugar-visualmatch,58,0,0,30,0,0,64,58,100.0,LANGUAGE <LL@li.org>
+sugar-write,69,0,0,42,0,0,78,69,100.0,Greek <olpc@grnet.gr>
+sweep,2224,34,141,499,15,24,2344,2399,92.70529387244684,Greek <EL@li.org>
+switchdesk,139,0,0,20,0,0,145,139,100.0,Greek <fedora-trans-el@redhat.com>
+sylpheed,4956,1222,726,1354,270,99,5515,6904,71.78447276940904,Greek <nls@tux.hellug.gr>
+synapse,65,0,470,44,0,102,65,535,12.149532710280374,Greek <el@li.org>
+synaptic,3116,98,17,646,12,4,3111,3231,96.44073042401733,Greek <team@gnome.gr>
+system-config-audit,1167,44,30,263,3,1,1299,1241,94.03706688154713,Greek <fedora-trans-el@redhat.com>
+system-config-bind,55,144,9220,51,44,969,59,9419,0.5839261068053934,Greek <en@li.org>
+system-config-boot,46,2,71,10,1,12,46,119,38.655462184873954,Greek Fedora team <fedora-trans-el@redhat.com>
+system-config-date,1730,0,70,808,0,7,1709,1800,96.11111111111111,Greek <trans-el@lists.fedoraproject.org>
+system-config-date-docs,356,6,377,46,4,10,357,739,48.17320703653586,Greek <fedora-trans-el@redhat.com>
+system-config-firewall,1365,3,1439,268,2,60,1498,2807,48.6284289276808,fedora project greek translation team <trans-el@list.fedora.project.org>
+system-config-httpd,115,462,281,68,116,39,118,858,13.403263403263404,Greek <nls@hellug.gr>
+system-config-kdump,235,87,485,13,19,106,230,807,29.120198265179674,greece <trans-el@lists.fedoraproject.org. >
+system-config-keyboard,169,18,0,71,10,0,160,187,90.37433155080214,Greek Fedora team <fedora-trans-el@redhat.com>
+system-config-kickstart,1086,15,3,242,2,1,1139,1104,98.36956521739131,Greek <fedora-trans-el@redhat.com>
+system-config-language,293,0,30,54,0,2,306,323,90.71207430340557,Greek <team@gnome.gr>
+system-config-lvm,97,13,2136,66,7,271,106,2246,4.3187889581478185,Greek
+system-config-netboot,100,995,8,52,109,4,106,1103,9.066183136899365,Greek <fedora-trans-el@redhat.com>
+system-config-network,3022,0,0,718,0,0,3220,3022,100.0,Greek <fedora-trans-el@redhat.com>
+system-config-nfs,332,0,0,72,0,0,346,332,100.0,Greek <nls@hellug.gr>
+system-config-nfs-docs,243,363,586,38,15,18,252,1192,20.385906040268456,Greek Fedora team <fedora-trans-el@redhat.com>
+system-config-printer,2784,7,329,670,1,86,2926,3120,89.23076923076924,Greek <trans-el@lists.fedoraproject.org>
+system-config-rootpassword,116,0,0,19,0,0,121,116,100.0,Greek <fedora-trans-el@redhat.com>
+system-config-samba,503,0,30,123,0,6,546,533,94.37148217636022,Greek <trans-el@lists.fedoraproject.org>
+system-config-samba-docs,1188,7,0,62,5,0,1207,1195,99.4142259414226,Greek Fedora team <trans-el@lists.fedoraproject.org>
+system-config-services,404,0,0,57,0,0,434,404,100.0,Greek Fedora team <fedora-trans-el@redhat.com>
+system-config-services-docs,93,0,545,16,0,12,95,638,14.576802507836991,Greek Fedora team <fedora-trans-el@redhat.com>
+system-config-users,1333,0,123,163,0,11,1378,1456,91.5521978021978,Greek <trans-el@lists.fedoraproject.org>
+system-config-users-docs,1054,5,2,77,3,2,1056,1061,99.3402450518379,Greek Fedora team <fedora-trans-el@redhat.com>
+system-switch-java,81,0,0,11,0,0,83,81,100.0,Greek <fedora-trans-el@redhat.com>
+system-switch-mail,158,0,0,24,0,0,188,158,100.0,Greek Fedora team <fedora-trans-el@redhat.com>
+tar,581,761,1964,122,105,318,713,3306,17.574107683000605,Greek <nls@tux.hellug.gr>
+tasks,26,31,244,17,17,66,25,301,8.637873754152823,Greek <nls@tux.hellug.gr>
+tasque,5,0,191,3,0,83,5,196,2.5510204081632653,Greek <team@gnome.gr>
+tellico,5467,88,66,1116,28,15,5670,5621,97.26027397260275,Ελληνικά <i18ngr@lists.hellug.gr>
+terminator,339,0,0,119,0,0,360,339,100.0,Greek <el@li.org>
+thunar-archive-plugin,86,0,0,13,0,0,98,86,100.0,Greek <nls@tux.hellug.gr>
+thunar-media-tags-plugin,144,0,0,49,0,0,118,144,100.0,Greek <nls@tux.hellug.gr>
+tilda,4,29,363,2,7,98,4,396,1.0101010101010102,"Greek, Modern (1453-) <el@li.org>"
+tomboy,5817,0,0,610,0,0,6496,5817,100.0,Greek <team@gnome.gr>
+totem,7251,0,0,876,0,0,7904,7251,100.0,Greek <team@gnome.gr>
+totem-pl-parser,28,0,0,7,0,0,24,28,100.0,Greek <team@gnome.gr>
+tracker,1388,0,0,291,0,0,1521,1388,100.0,Greek <team@gnome.gr>
+transifex,3728,605,1127,711,99,99,4021,5460,68.27838827838828,Greek <>
+transmission,1362,0,146,404,0,43,1676,1508,90.3183023872679,Greek <team@gnome.gr>
+tucan,110,0,4,40,0,1,109,114,96.49122807017544,LANGUAGE <LL@li.org>
+turba,1488,0,0,351,0,0,1500,1488,100.0,Greek <dev@lists.horde.org>
+tuxpaint,1214,0,0,245,0,0,1452,1214,100.0,ltee.org
+tuxpaint-stamps,1321,404,892,316,157,153,988,2617,50.47764615972488,
+tuxtype2,71,0,9,32,0,8,80,80,88.75,LANGUAGE <LL@li.org>
+usermode,566,0,0,95,0,0,582,566,100.0,Greek Fedora team <fedora-trans-el@redhat.com>
+vdr,601,0,206,260,0,68,582,807,74.4733581164808,Greek
+vdr-epgsearch,3,1,2404,3,1,379,3,2408,0.12458471760797342,<vdr@linuxtv.org>
+vidalia,3002,0,7373,858,0,444,3413,10375,28.934939759036144,translations@vidalia-project.net
+viewnior,387,0,0,122,0,0,399,387,100.0,Greek <el@li.org>
+viking,281,0,1754,147,0,415,287,2035,13.808353808353807,Greek <el@li.org>
+vinagre,3290,0,0,402,0,0,3568,3290,100.0,Greek <team@gnome.gr>
+vino,1215,0,0,136,0,0,1390,1215,100.0,Greek <team@gnome.gr>
+vte,80,0,0,13,0,0,79,80,100.0,Greek <nls@tux.hellug.gr>
+wammu,4167,62,53,770,14,6,4377,4282,97.31433909388136,Greek <el@li.org>
+wdiff,5,96,18,2,20,9,6,119,4.201680672268908,Greek <nls@tux.hellug.gr>
+wesnoth,34679,17187,175042,3096,1103,9963,32827,226908,15.283286618365151,<el@li.org>
+wget,424,471,1365,104,85,205,511,2260,18.761061946902654,Greek <nls@tux.hellug.gr>
+wine,332,405,11049,129,166,2260,339,11786,2.8169014084507045,none
+workrave,984,165,78,174,47,20,1036,1227,80.1955990220049,<en@li.org>
+wormux,1916,0,0,327,0,0,1971,1916,100.0,
+wxGTK,4403,867,1121,960,206,309,5300,6391,68.89375684556407,"Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr>"
+wxMaxima,2676,142,39,733,24,6,2889,2857,93.6646832341617,
+wxPython,5990,876,1800,1477,211,479,6974,8666,69.1207015924302,"Tsolakos Stavros <tsolako1@otenet.gr>, Nassos Yiannopoulos <nassosy@compulink.gr>"
+xarchiver,1131,0,0,277,0,0,1214,1131,100.0,Greek <nls@tux.hellug.gr>
+xcdroast,7664,0,380,826,0,22,8283,8044,95.27598209845848,Hellinic-Greek-Ελληνικά <hstg@billg.gr>
+xchat,4669,174,184,1142,52,38,4877,5027,92.87845633578675,Greek <nls@tux.hellug.gr>
+xchat-gnome,3172,328,401,867,65,48,3320,3901,81.31248397846707,Greek <nls@tux.hellug.gr>
+xdg-user-dirs,26,2,0,26,2,0,28,28,92.85714285714286,Greek <team@lists.gnome.gr>
+xdg-user-dirs-gtk,81,0,0,11,0,0,88,81,100.0,Greek <team@gnome.gr>
+xfburn,1122,5,173,268,3,12,1157,1300,86.3076923076923,Greek <nls@tux.hellug.gr>
+xfce-utils,114,5,12,33,1,2,125,131,87.02290076335878,Greek <nls@tux.hellug.gr>
+xfce4-appfinder,82,1,1,17,1,1,89,84,97.61904761904762,Greek <nls@tux.hellug.gr>
+xfce4-battery-plugin,123,0,0,31,0,0,143,123,100.0,Greek <nls@tux.hellug.gr>
+xfce4-clipman-plugin,225,0,9,41,0,1,228,234,96.15384615384616,Greek <nls@tux.hellug.gr>
+xfce4-datetime-plugin,48,0,0,19,0,0,50,48,100.0,Greek <nls@tux.hellug.gr>
+xfce4-icon-theme,8,0,0,2,0,0,9,8,100.0,Greek <nls@tux.hellug.gr>
+xfce4-mailwatch-plugin,659,0,0,110,0,0,709,659,100.0,Greek <nls@tux.hellug.gr>
+xfce4-mount-plugin,109,122,67,18,18,8,108,298,36.577181208053695,Greek <xfce-i18n@xfce.org>
+xfce4-netload-plugin,68,0,0,21,0,0,75,68,100.0,Greek <nls@tux.hellug.gr>
+xfce4-notes-plugin,114,0,0,49,0,0,119,114,100.0,Greek <nls@tux.hellug.gr>
+xfce4-notifyd,83,0,0,22,0,0,93,83,100.0,Greek
+xfce4-panel,537,3,0,166,1,0,578,540,99.44444444444444,Greek <nls@tux.hellug.gr>
+xfce4-places-plugin,43,0,0,19,0,0,44,43,100.0,Greek <nls@tux.hellug.gr>
+xfce4-power-manager,694,0,0,155,0,0,758,694,100.0,Greek <nls@tux.hellug.gr>
+xfce4-quicklauncher-plugin,28,0,15,9,0,8,30,43,65.11627906976744,Greek <nls@tux.hellug.gr>
+xfce4-remmina-plugin,136,0,0,12,0,0,144,136,100.0,LANGUAGE <LL@li.org>
+xfce4-screenshooter,448,0,0,75,0,0,443,448,100.0,Greek <nls@tux.hellug.gr>
+xfce4-sensors-plugin,27,106,213,16,30,25,32,346,7.803468208092486,Greek <nls@tux.hellug.gr>
+xfce4-session,962,0,28,198,0,1,1020,990,97.17171717171718,Greek <nls@tux.hellug.gr>
+xfce4-settings,1137,0,1,246,0,1,1236,1138,99.91212653778558,Greek <nls@tux.hellug.gr>
+xfce4-taskmanager,156,0,0,58,0,0,171,156,100.0,Greek <nls@tux.hellug.gr>
+xfce4-verve-plugin,47,0,0,10,0,0,40,47,100.0,Greek <xfce-i18n@xfce.org>
+xfce4-websearch-plugin,13,0,0,5,0,0,13,13,100.0,Greek <nls@tux.hellug.gr>
+xfce4-xfapplet-plugin,84,0,0,14,0,0,78,84,100.0,Greek <nls@tux.hellug.gr>
+xfce4-xfswitch-plugin,20,0,0,3,0,0,20,20,100.0,Greek <nls@tux.hellug.gr>
+xfce4-xkb-plugin,6,20,35,3,7,7,5,61,9.836065573770492,Greek <nls@tux.hellug.gr>
+xfdesktop,993,2,9,263,2,3,1063,1004,98.90438247011953,Greek <nls@tux.hellug.gr>
+xfprint,321,1,0,112,1,0,318,322,99.68944099378882,Greek <nls@tux.hellug.gr>
+xfwm4,797,0,0,224,0,0,932,797,100.0,el <nls@tux.hellug.gr>
+xkeyboard-config,701,13,1207,363,5,326,730,1921,36.49141072358147,Greek <team@lists.gnome.gr>
+xmms,3177,66,200,1003,18,24,3369,3443,92.27417949462678,Greek Localization Team <i18ngr@lists.hellug.gr>
+yakuake,1279,16,144,197,1,14,1348,1439,88.88116747741486,Greek <i18ngr@lists.hellug.gr>
+yelp,1094,0,0,357,0,0,1218,1094,100.0,Greek <team@gnome.gr>
+yelp-xsl,238,0,0,92,0,0,243,238,100.0,Greek <team@gnome.gr>
+yum-rhn-plugin,0,0,107,0,0,14,0,107,0.0,LANGUAGE <LL@li.org>
+zenity,3010,0,0,408,0,0,3046,3010,100.0,Greek <team@gnome.gr>

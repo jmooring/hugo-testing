@@ -1,0 +1,99 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,249,0,0,48,0,0,295,249,100.0,Portuguese (Portugal) (http://app.transifex.com/wildfire-games/0ad/language/pt_PT/)
+aegisub,5899,0,0,1454,0,0,6796,5899,100.0,Leinad4Mind <1060446@isep.ipp.pt> & RiCON <wiiaboo@gmail.com>
+anope,2337,13186,4673,344,1020,371,2484,20196,11.571598336304218,Portuguese
+audacious,911,0,0,372,0,0,1069,911,100.0,Portuguese (Portugal) (http://app.transifex.com/audacious/audacious/language/pt_PT/)
+audacious-plugins,4425,0,0,994,0,0,4778,4425,100.0,Portuguese (Portugal) (http://app.transifex.com/audacious/audacious/language/pt_PT/)
+audacity,19373,48,106,4474,13,18,21716,19527,99.21134838940954,Portuguese (Portugal) (https://app.transifex.com/audacity/teams/164520/pt_PT/)
+boinc-client,21342,0,0,3513,0,0,23839,21342,100.0,Portuguese (Portugal) (http://app.transifex.com/boinc/boinc/language/pt_PT/)
+boswars,196,10,10,60,4,9,230,216,90.74074074074075,
+budgie-control-center,6601,0,0,1770,0,0,7630,6601,100.0,Portuguese (Portugal) (https://app.transifex.com/buddiesofbudgie/teams/129844/pt_PT/)
+budgie-desktop-view,17,0,0,7,0,0,21,17,100.0,Portuguese (Portugal) (https://www.transifex.com/buddiesofbudgie/teams/129844/pt_PT/)
+calamares,478,0,0,83,0,0,633,478,100.0,Portuguese (Portugal) (https://app.transifex.com/calamares/teams/20061/pt_PT/)
+celluloid,1813,25,50,336,4,7,2227,1888,96.02754237288136,Portuguese (Portugal) <https://hosted.weblate.org/projects/celluloid/celluloid/pt_PT/>
+cgit,27071,0,8501,4078,0,1152,27534,35572,76.10199032947263,Git L10N Português <https://github.com/git-l10n-pt-PT/>
+chemtool,1164,0,20,249,0,12,1491,1184,98.3108108108108,European Portuguese
+cinnamon-translations,7546,0,240,1887,0,61,8618,7786,96.91754431030054,Portuguese <pt@li.org>
+clapper,393,0,55,141,0,19,489,448,87.72321428571429,Portuguese
+claws-mail,20932,0,0,4118,0,0,24716,20932,100.0,Portuguese <hugokarvalho@hotmail.com>
+clawsker,1440,0,0,262,0,0,1656,1440,100.0,Portuguese
+codeblocks,613,0,0,79,0,0,679,613,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/hunspell/translations/pt_PT/>
+colobot,40786,0,1228,3223,0,91,41419,42014,97.0771647546056,Portuguese <kde-i18n-pt_BR@kde.org>
+cura,23496,0,10,2678,0,4,26682,23506,99.95745767038203,LANGUAGE <LL@li.org>
+duplicity,1885,0,286,293,0,34,2112,2171,86.82634730538922,Portuguese
+eiciel,192,0,0,56,0,0,217,192,100.0,Portuguese (Portugal) <https://l10n.opensuse.org/projects/eiciel/master/pt_PT/>
+electrum,3604,0,9437,977,0,1471,3994,13041,27.635917490989954,Portuguese
+exiv2,44308,0,13,7343,0,2,49308,44321,99.97066853184721,Portuguese
+filezilla,9478,0,0,1669,0,0,11225,9478,100.0,enVide neFelibata <info@envidenefelibata.com>
+fontforge,1362,0,0,277,0,0,1463,1362,100.0,Portuguese
+fuse-encfs,730,16,543,97,2,38,867,1289,56.63304887509697,Portuguese (Portugal) <pt_PT@li.org>
+gammu,218,0,0,26,0,0,239,218,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/gammu/gammu-docs/pt_PT/>
+git,28623,25,7258,4344,2,936,29030,35906,79.71648192502646,Git L10N Português <https://codeberg.org/git-pt/Git-PO-pt_PT/>
+git-cinnabar,28623,25,7258,4344,2,936,29030,35906,79.71648192502646,Git L10N Português <https://codeberg.org/git-pt/Git-PO-pt_PT/>
+gnome-shell-extension-caffeine,59,63,230,22,12,54,69,352,16.761363636363637,Portuguese
+gnome-shell-extension-gsconnect,902,0,0,268,0,0,1060,902,100.0,Portuguese
+goodvibes,346,0,0,120,0,0,420,346,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/goodvibes/translations/pt_PT/>
+gramps,41201,0,0,7211,0,0,43693,41201,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/gramps-project/gramps/pt_PT/>
+grsync,1159,1,0,161,1,0,1268,1160,99.91379310344828,
+guayadeque,3432,5,0,1023,1,0,3557,3437,99.85452429444283,Portuguese (Portugal) (http://www.transifex.com/projects/p/guayadeque/language/pt_PT/)
+hunspell,592,21,0,78,1,0,657,613,96.5742251223491,Portuguese (Portugal) <https://hosted.weblate.org/projects/hunspell/translations/pt_PT/>
+ibus-anthy,122,0,583,49,0,145,134,705,17.30496453900709,Portuguese (Portugal) <https://translate.stg.fedoraproject.org/projects/ibus/ibus-anthy/pt_PT/>
+ibus-table,713,84,319,114,5,34,839,1116,63.888888888888886,Portuguese (Portugal) <https://translate.fedoraproject.org/projects/ibus-table/app/pt_PT/>
+libfilezilla,383,0,0,75,0,0,458,383,100.0,enVide neFelibata <info@envidenefelibata.com>
+libosinfo,375,6,436,94,2,75,491,817,45.89963280293758,Portuguese (Portugal) <https://translate.fedoraproject.org/projects/libosinfo/libosinfo/pt_PT/>
+lollypop,1363,0,65,443,0,12,1575,1428,95.44817927170868,Portuguese (Portugal) <https://hosted.weblate.org/projects/gnumdk/lollypop/pt_PT/>
+lyx,17544,6788,7377,5669,1793,832,18987,31709,55.32814027563152,Portuguese
+menulibre,277,0,596,104,0,62,294,873,31.729667812142036,Portuguese (Portugal) <pt_PT@li.org>
+mingw-colord,311,0,1574,92,0,111,359,1885,16.49867374005305,Portuguese (Portugal) (http://www.transifex.com/projects/p/colord/language/pt_PT/)
+mingw-exiv2,44308,0,13,7343,0,2,49308,44321,99.97066853184721,Portuguese
+mingw-hunspell,613,0,0,79,0,0,681,613,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/hunspell/translations/pt_PT/>
+minigalaxy,465,0,124,142,0,31,489,589,78.94736842105263,
+moserial,540,0,0,119,0,0,575,540,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mu,2461,12,69,310,3,3,2579,2542,96.81353265145555,
+nfoview,108,0,4,37,0,1,122,112,96.42857142857143,Portuguese (Portugal) (http://app.transifex.com/otsaloma/nfoview/language/pt_PT/)
+nicotine+,5038,0,0,1272,0,0,5768,5038,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/pt_PT/>
+noggin,681,340,777,130,49,117,771,1798,37.875417130144605,Portuguese (Portugal) <https://translate.fedoraproject.org/projects/fedora-infra/noggin/pt_PT/>
+onionshare,1008,248,3354,61,8,116,1087,4610,21.865509761388285,LANGUAGE <LL@li.org>
+osinfo-db-tools,52,0,170,14,0,29,71,222,23.423423423423422,Portuguese (Portugal) <https://translate.fedoraproject.org/projects/libosinfo/osinfo-db-tools/pt_PT/>
+pdfarranger,563,0,0,197,0,0,602,563,100.0,Portuguese (Portugal)
+perl-rdapper,301,0,0,138,0,0,366,301,100.0,
+picard,317,0,5853,83,0,1522,334,6170,5.137763371150729,Portuguese (Portugal) (http://app.transifex.com/musicbrainz/musicbrainz/language/pt_PT/)
+pinball,340,0,0,128,0,0,365,340,100.0,PortugueseLanguage: pt_PT
+pinta,1746,0,0,537,0,0,2008,1746,100.0,European Portuguese
+poedit,3331,0,0,721,0,0,3645,3331,100.0,Portuguese
+publican,1066,66,4311,78,2,536,1215,5443,19.58478780084512,trans-pt@fedoraproject.org
+pulsecaster,94,0,120,12,0,9,105,214,43.925233644859816,Portuguese (Portugal) (http://www.transifex.com/stickster/pulsecaster/language/pt_PT/)
+python-django-allauth,1732,103,146,298,19,20,1888,1981,87.43059061080262,Portuguese (Portugal) <https://hosted.weblate.org/projects/allauth/django-allauth/pt_PT/>
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,Portuguese (Portugal) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/pt_PT/)
+python-django-tables2,2,0,0,2,0,0,2,2,100.0,European Portuguese <en@li.org>
+python-flask-admin,330,0,37,101,0,11,353,367,89.91825613079018,Portuguese
+python-flask-security-too,258,7,1136,60,1,193,274,1401,18.41541755888651,
+python-formencode,591,70,152,84,8,23,615,813,72.69372693726937,Pedro Algarvio <ufs@ufsoft.org>
+python-humanize,130,0,2,66,0,1,147,132,98.48484848484848,
+python-sphinx,325,0,5474,140,0,718,368,5799,5.604414554233488,Portuguese (Portugal) (http://app.transifex.com/sphinx-doc/sphinx-1/language/pt_PT/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Portuguese (Portugal) (https://www.transifex.com/sphinx-doc/teams/36659/pt_PT/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Portuguese (Portugal) (https://www.transifex.com/sphinx-doc/teams/36659/pt_PT/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Portuguese (Portugal) (https://www.transifex.com/sphinx-doc/teams/36659/pt_PT/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Portuguese (Portugal) (https://www.transifex.com/sphinx-doc/teams/36659/pt_PT/)
+python-uranium,706,0,0,165,0,0,780,706,100.0,LANGUAGE <LL@li.org>
+qalculate-gtk,4600,39,32,1285,5,3,5002,4671,98.47998287304645,
+remmina,5016,257,134,957,36,25,5956,5407,92.76863325319032,Portuguese (Portugal) <https://hosted.weblate.org/projects/remmina/remmina/pt_PT/>
+rt,2871,0,11168,702,0,2509,3183,14039,20.450174513854265,Portuguese (Portugal) <pt_PT@li.org>
+scummvm,4510,1841,9250,1076,562,820,4793,15601,28.90840330748029,Portuguese (Portugal) <https://translations.scummvm.org/projects/scummvm/scummvm/pt_PT/>
+sigil,592,21,0,78,1,0,657,613,96.5742251223491,Portuguese (Portugal) <https://hosted.weblate.org/projects/hunspell/translations/pt_PT/>
+siril,1318,3258,57699,287,905,4287,1447,62275,2.11641910879165,
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Portuguese (Portugal) (http://www.transifex.com/heldercorreia/speedcrunch/language/pt_PT/)
+subtitleeditor,3961,0,0,966,0,0,4515,3961,100.0,Português <pt@li.org>
+tiled,29,0,0,4,0,0,26,29,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/tiled/documentation-index/pt_PT/>
+tilix,2810,0,0,722,0,0,3157,2810,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/tilix/manpage/pt_PT/>
+visualboyadvance-m,4,0,3293,2,0,906,6,3297,0.12132241431604489,Portuguese (Portugal) (http://app.transifex.com/bgk/vba-m/language/pt_PT/)
+vlc,34814,0,0,6291,0,0,40911,34814,100.0,Portuguese (Portugal) (https://app.transifex.com/yaron/teams/16553/pt_PT/)
+warzone2100,15193,0,2979,3220,0,633,17276,18172,83.60664758969844,Portuguese
+wesnoth,164237,58766,110729,12138,2866,5568,157261,333732,49.21224215837858,wesn-pt-trans <wesn-pt-trans-users@lists.sourceforge.net>
+wine,14411,2462,2755,3314,581,456,16189,19628,73.4206235989403,Portuguese (Portugal)
+xarchiver,1317,0,0,312,0,0,1436,1317,100.0,Portuguese (Portugal) <https://hosted.weblate.org/projects/xarchiver/translations/pt_PT/>
+xchm,195,17,29,80,7,11,208,241,80.91286307053942,Portuguese Team
+xfe,364,2799,4620,181,850,329,410,7783,4.67685982269048,European Portuguese
+xournalpp,1796,0,3742,532,0,534,2122,5538,32.43048031780426,Portuguese
+zabbix,12622,176,14802,3190,31,1884,15829,27600,45.73188405797101,none
+znc,8280,0,189,1658,0,53,9585,8469,97.76833156216792,Portuguese

@@ -1,0 +1,84 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora-abrt/language/ks/)
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+atril,591,0,3240,180,0,455,612,3831,15.426781519185592,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+audience,0,0,106,0,0,48,0,106,0.0,
+caja,42,0,9314,31,0,1486,67,9356,0.44890979050876445,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Kashmiri (http://www.transifex.com/projects/p/certmonger/language/ks/)
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,0,0,80,0,0,37,0,80,0.0,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,449,0,0,180,0,449,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+engrampa,10,0,1936,9,0,346,19,1946,0.513874614594039,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+eog,953,16,224,246,4,28,1020,1193,79.88264878457669,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+eom,687,0,1036,182,0,141,756,1723,39.872315728380734,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+evince,789,166,34,231,38,9,821,989,79.77755308392315,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+gnucash,27795,3010,3353,4479,433,282,30030,34158,81.3718601791674,NONE
+harvey,0,0,57,0,0,12,0,57,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/)
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+libreoffice,39227,14231,44622,13162,6666,11774,40744,98080,39.99490212071778,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Kashmiri (http://www.transifex.com/projects/p/libreport/language/ks/)
+mate-applets,2,0,1576,2,0,101,10,1578,0.12674271229404308,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-control-center,19,0,2639,17,0,611,29,2658,0.7148231753197893,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-media,3,0,223,3,0,93,3,226,1.3274336283185841,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Kashmiri (http://www.transifex.com/projects/p/MATE/language/ks/)
+mate-menus,1,0,96,1,0,36,1,97,1.0309278350515463,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-panel,10,0,5296,10,0,643,26,5306,0.18846588767433095,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-polkit,1,0,121,1,0,19,2,122,0.819672131147541,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-power-manager,8,0,2716,8,0,432,16,2724,0.2936857562408223,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-sensors-applet,4,0,302,4,0,102,11,306,1.3071895424836601,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-session-manager,3,0,678,2,0,112,4,681,0.4405286343612335,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-system-monitor,9,0,1324,7,0,306,18,1333,0.6751687921980495,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-terminal,24,0,4625,17,0,508,40,4649,0.5162400516240052,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+mate-utils,50,0,3627,28,0,632,69,3677,1.3598041881968996,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,111,0,0,54,0,111,0.0,none
+pantheon-agent-geoclue2,0,0,46,0,0,13,0,46,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,14,0,0,7,0,14,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pidgin,0,0,15756,0,0,3433,0,15756,0.0,Kashmiri (http://www.transifex.com/pidgin/pidgin/language/ks/)
+pluma,38,0,5030,27,0,1081,59,5068,0.749802683504341,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/)
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,252,0,0,93,0,252,0.0,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,none
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,none
+switchboard-plug-display,0,0,126,0,0,49,0,126,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,none
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,0,131,0,0,46,0,131,0.0,
+vocal,0,0,377,0,0,79,0,377,0.0,Kashmiri <ks@li.org>
+wingpanel,0,0,6,0,0,1,0,6,0.0,none
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none
+xreader,481,0,1160,146,0,226,503,1641,29.311395490554542,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+xviewer,519,0,1158,150,0,174,567,1677,30.94812164579606,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+yelp,753,90,192,212,32,105,787,1035,72.7536231884058,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>

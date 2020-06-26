@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gwibber,1,0,768,1,0,203,1,769,0.13003901170351106,Klingon <tlh@li.org>
+openerp,2,0,45883,1,0,6603,2,45885,0.0043587228941920015,
+tuxpaint,34,6,1207,32,6,214,33,1247,2.72654370489174,Bill Kendrick <nbs@sonic.net>

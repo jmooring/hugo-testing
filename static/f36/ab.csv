@@ -1,0 +1,94 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+at-spi2-core,10,0,0,2,0,0,8,10,100.0,Abkhazian
+blender,201,0,0,159,0,0,205,201,100.0,Abkhaz language team <daniel.abzakh@gmail.com>
+bookworm,14,781,0,4,145,0,4,795,1.7610062893081762,Abkhazian <https://hosted.weblate.org/projects/bookworm/bookworm/ab/>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,0,0,1608,0,0,307,0,1608,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,219,0,0,48,0,219,0.0,
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+epiphany,807,0,3872,288,0,558,740,4679,17.247275058773244,Abkhazian <daniel.abzakh@gmail.com>
+folks,52,0,932,11,0,111,57,984,5.284552845528456,Abkhazian <daniel.abzakh@gmail.com>
+gala,0,0,358,0,0,73,0,358,0.0,none
+gdk-pixbuf2,28,0,1297,6,0,192,21,1325,2.1132075471698113,Abkhazian <daniel.abzakh@gmail.com>
+gedit,1,0,3015,1,0,600,1,3016,0.03315649867374005,Abkhazian <ab@li.org>
+gimagereader,0,0,1817,0,0,482,0,1817,0.0,none
+gnome-bluetooth,27,0,291,23,0,69,28,318,8.49056603773585,Abkhazian <daniel.abzakh@gmail.com>
+gnome-characters,146,0,0,50,0,0,128,146,100.0,Abkhazian <ab@li.org>
+gnome-chess,11,0,1502,5,0,252,13,1513,0.7270323859881032,Abkhazian <ab@li.org>
+gnome-control-center,1259,0,5375,510,0,1252,1199,6634,18.9779921615918,Abkhazian <daniel.abzakh@gmail.com>
+gnome-desktop3,41,0,112,17,0,11,40,153,26.797385620915033,Abkhazian <ab@li.org>
+gnome-remote-desktop,164,0,0,13,0,0,119,164,100.0,Abkhazian <ab@li.org>
+gnome-session,435,0,0,68,0,0,357,435,100.0,
+gnome-shell,319,0,2548,137,0,497,290,2867,11.12661318451343,Abkhazian <daniel.abzakh@gmail.com>
+gnome-shell-extensions,0,0,0,0,0,0,0,0,0.0,
+gnome-tour,115,0,0,24,0,0,106,115,100.0,Abkhazian <ab@li.org>
+gnome-weather,205,0,0,49,0,0,186,205,100.0,Abkhazian <ab@li.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+grilo,191,0,0,36,0,0,169,191,100.0,Abkhazian <ab@li.org>
+grilo-plugins,494,0,0,120,0,0,424,494,100.0,Abkhazian <ab@li.org>
+gscan2pdf,0,0,1840,0,0,506,0,1840,0.0,Abkhazian <ab@li.org>
+gspell,76,0,0,31,0,0,69,76,100.0,Abkhazian <ab@li.org>
+gtk3,464,0,3990,221,0,1473,439,4454,10.417602155365962,Abkhazian <daniel.abzakh@gmail.com>
+gtksourceview4,308,0,0,94,0,0,287,308,100.0,Abkhazian <ab@li.org>
+gvfs,76,0,2021,26,0,378,63,2097,3.6242250834525516,Abkhazian <daniel.abzakh@gmail.com>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hitori,238,0,1,62,0,1,180,239,99.581589958159,Abkhazian <ab@li.org>
+iso-codes,0,72,914,0,50,372,0,986,0.0,Abkhazian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ab/>
+libadwaita,130,0,135,42,0,32,133,265,49.056603773584904,Abkhazian <daniel.abzakh@gmail.com>
+libpeas,103,0,0,29,0,0,77,103,100.0,Abkhazian <ab@li.org>
+libreoffice,30718,1023,135624,14902,646,22570,27871,167365,18.353897170854122,LANGUAGE <LL@li.org>
+libsecret,64,0,0,10,0,0,46,64,100.0,Abkhazian <ab@li.org>
+libsoup3,180,0,0,38,0,0,171,180,100.0,Abkhazian <ab@li.org>
+mutter,88,0,1213,24,0,129,113,1301,6.764027671022291,Abkhazian <daniel.abzakh@gmail.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+simple-scan,53,0,923,23,0,190,56,976,5.4303278688524586,Abkhazian <daniel.abzakh@gmail.com>
+sushi,54,0,0,14,0,0,43,54,100.0,Abkhazian <ab@li.org>
+swell-foop,334,4,2,69,2,1,246,340,98.23529411764706,Abkhazian <ab@li.org>
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+tali,438,0,0,100,0,0,324,438,100.0,Abkhazian <ab@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none
+xdg-desktop-portal-gnome,225,0,0,62,0,0,195,225,100.0,Abkhazian <ab@li.org>
+yelp,4,0,335,2,0,69,4,339,1.1799410029498525,Abkhazian <ab@li.org>
+yelp-xsl,88,0,0,64,0,0,88,88,100.0,Abkhazian <ab@li.org>

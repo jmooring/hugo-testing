@@ -1,0 +1,895 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3720,0,4,1183,0,4,3499,3724,99.89258861439313,Russian
+GConf2,4044,0,0,485,0,0,3926,4044,100.0,Russian <gnome-cyr@gnome.org>
+LabPlot,1552,974,724,666,461,222,1485,3250,47.753846153846155,<ru@li.org>
+Miro,3190,0,146,704,0,20,3133,3336,95.62350119904077,Russian <ru@li.org>
+NetworkManager,2389,0,0,496,0,0,2108,2389,100.0,Russian
+NetworkManager-openconnect,53,0,0,16,0,0,52,53,100.0,Russian <debian-l10n-russian@lists.debian.org>
+NetworkManager-openvpn,238,0,0,70,0,0,223,238,100.0,Russian <debian-l10n-russian@lists.debian.org>
+NetworkManager-pptp,144,0,0,44,0,0,138,144,100.0,Russian <debian-l10n-russian@lists.debian.org>
+NetworkManager-vpnc,143,0,0,37,0,0,139,143,100.0,Russian <debian-l10n-russian@lists.debian.org>
+PackageKit,1465,2,0,349,1,0,1299,1467,99.86366734832993,Russian <fedora-trans-ru@redhat.com>
+PySolFC,4593,133,241,2015,57,96,4738,4967,92.47030400644252,Russian <ru@li.org>
+R,17886,3,12,2928,1,1,16836,17901,99.91620579855875,Russian
+Terminal,1718,2,4476,453,1,193,1608,6196,27.727566171723694,LANGUAGE <LL@li.org>
+Thunar,3865,0,0,685,0,0,3505,3865,100.0,Russian <ru@li.org>
+WindowMaker,3930,8,450,775,1,53,3737,4388,89.56244302643573,Russian
+Zim,1247,0,0,346,0,0,1218,1247,100.0,Russian <ru@li.org>
+a2ps,1384,128,0,175,4,0,1374,1512,91.53439153439153,Russian <ru@li.org>
+abrt,1588,0,0,278,0,0,1397,1588,100.0,Russian
+agave,87,0,0,34,0,0,77,87,100.0,russian <ru@li.org>
+ailurus,8278,0,0,1253,0,0,7763,8278,100.0,gnome-cyr
+alacarte,42,0,0,16,0,0,38,42,100.0,<gnome-cyr@gnome.org>
+alexandria,1155,14,12,296,7,3,1054,1181,97.79847586790855,ru <->
+alleyoop,348,0,0,89,0,0,325,348,100.0,Russian <gnome-cyr@gnome.org>
+alsa-utils,407,130,1,34,1,1,373,538,75.65055762081785,Russian <ru@li.org>
+amarok,11858,71,110,2269,1,5,11162,12039,98.49655286983969,Russian <kde-russian@lists.kde.ru>
+anaconda,8869,0,8,1111,0,1,7488,8877,99.90987946378281,
+anjuta,7818,0,0,2124,0,0,7531,7818,100.0,Russian <gnome-cyr@gnome.org>
+apt,3476,569,68,436,29,13,3265,4113,84.51252127400923,ALT Linux Team <devel@altlinux.org>
+ardour,6232,376,3787,1768,82,470,6076,10395,59.951899951899954,Russian <gnome-cyr@lists.gnome.org>
+aria2,4175,0,455,306,0,14,3816,4630,90.17278617710583,<ru@li.org>
+ario,682,0,0,238,0,0,644,682,100.0,Russian <ru@li.org>
+arm-gp2x-linux-binutils,6367,0,0,979,0,0,6071,6367,100.0,Russian <ru@li.org>
+arm-gp2x-linux-gcc,18699,10341,10902,3002,1515,1388,17984,39942,46.8153823043413,Russian <ru@li.org>
+aspell,1726,0,0,293,0,0,1500,1726,100.0,Russian <ru@li.org>
+asunder,429,0,21,81,0,1,415,450,95.33333333333334,Russian <gnome-cyr@lists.gnome.org>
+at-spi,24,0,0,5,0,0,27,24,100.0,Russian <ru@li.org>
+atk,375,0,0,126,0,0,355,375,100.0,Russian <gnome-cyr@gnome.org>
+atomix,146,0,0,59,0,0,134,146,100.0,Russian <gnome-cyr@gnome.org>
+audacious,1297,0,0,413,0,0,1264,1297,100.0,Russian <kde-russian@lists.kde.ru>
+audacious-plugins,8912,0,0,1292,0,0,8505,8912,100.0,Russian <kde-russian@lists.kde.ru>
+audacity,7340,4,2284,1909,2,255,7347,9628,76.235978396344,Russian <gnome-cyr@lists.gnome.org>
+audex,2480,8,213,357,1,27,2011,2701,91.81784524250277,Russian <kde-russian@lists.kde.ru>
+audit-viewer,611,0,0,185,0,0,582,611,100.0,
+aumix,147,54,39,62,2,28,149,240,61.25000000000001,Russian <ru@li.org>
+authconfig,1357,0,0,242,0,0,1233,1357,100.0,Russian <fedora-trans-ru@redhat.com>
+avahi,662,18,146,124,6,25,651,826,80.1452784503632,Russian <ru@li.org>
+avant-window-navigator,826,0,829,168,0,111,747,1655,49.90936555891239,Russian <ru@li.org>
+avogadro,3938,0,480,1462,0,118,3983,4418,89.13535536441829,Russian <ru@li.org>
+avr-binutils,12909,0,0,1835,0,0,12527,12909,100.0,Russian <gnu@mx.ru>
+avr-gcc,26525,11515,14646,4095,1579,1465,25505,52686,50.345442812132255,Russian <gnu@mx.ru>
+awn-extras-applets,445,0,6783,149,0,774,384,7228,6.15661317100166,Russian
+axel,192,172,11,46,2,2,195,375,51.2,Russian <ru@li.org>
+babel,0,0,3,0,0,2,0,3,0.0,ru_RU <LL@li.org>
+backintime,355,0,86,108,0,11,363,441,80.49886621315193,Russian <ru@li.org>
+bakery,72,0,0,20,0,0,66,72,100.0,Russian <gnome-cyr@gnome.org>
+balsa,1143,1903,2302,374,566,347,1123,5348,21.37247569184742,Russian <ru@li.org>
+banshee,5389,0,0,1412,0,0,5161,5389,100.0,Russian <debian-l10n-russian@lists.debian.org>
+bash,461,138,9896,110,27,394,502,10495,4.392567889471176,Russian <ru@li.org>
+basket,4581,0,0,694,0,0,3394,4581,100.0,<ru@li.org>
+bauble,494,0,1545,94,0,287,457,2039,24.22756253065228,Russian <ru@li.org>
+beagle,997,0,0,298,0,0,1048,997,100.0,<gnome-cyr@gnome.org>
+bibletime,1168,3417,208,139,75,31,981,4793,24.368871270602963,russain <ru@li.org>
+bibus,1884,0,209,552,0,39,1616,2093,90.01433349259436,ru <azure@fast.net.ua>
+bilbo,1367,0,0,312,0,0,1211,1367,100.0,Ukrainian <pfactum@gmail.com>
+binutils,12909,0,0,1835,0,0,12527,12909,100.0,Russian <gnu@mx.ru>
+bisho,128,3,0,21,1,0,108,131,97.70992366412213,
+bison,413,255,344,80,27,48,406,1012,40.81027667984189,Russian <ru@li.org>
+bittorrent,3904,0,0,633,0,0,3579,3904,100.0,Russian <doc@lafox.net>
+blam,330,0,0,93,0,0,294,330,100.0,Russian <gnome-cyr@gnome.org>
+blender,12084,0,2386,3155,0,987,10870,14470,83.51071181755356,
+bluefish,2451,387,44,1011,31,14,2720,2882,85.04510756419154,<ru@li.org>
+blueman,1251,0,125,331,0,21,1322,1376,90.91569767441861,Russian <ru@li.org>
+bmpx,1298,598,934,335,153,150,1243,2830,45.86572438162544,none
+boinc-client,7444,149,0,1289,20,0,7219,7593,98.03766627156591,Russia
+bootconf,27,0,0,11,0,0,30,27,100.0,
+brasero,9051,0,0,1254,0,0,7524,9051,100.0,Russian <gnome-cyr@gnome.org>
+byobu,173,0,4,42,0,2,164,177,97.74011299435028,
+bzr-gtk,85,277,728,40,70,197,87,1090,7.79816513761468,Russian <ru@li.org>
+cairo-clock,270,0,0,60,0,0,244,270,100.0,Russian <gnome-cyr@gnome.org>
+calibre,9145,0,4002,1338,0,441,7643,13147,69.5595953449456,American English <kde-i18n-doc@lists.kde.org>
+catfish,76,0,0,28,0,0,74,76,100.0,Russian <ru@li.org>
+ccsm,549,0,0,135,0,0,500,549,100.0,Russian <kde-russian@lists.kde.ru>
+celestia,1894,0,0,790,0,0,1799,1894,100.0,Russian <leserg@ua.fm>
+centerim,2317,252,244,665,57,82,2152,2813,82.36757909704941,Russian <ru@li.org>
+certmonger,0,0,872,0,0,152,0,872,0.0,Russian
+cgit,1837,0,5,387,0,4,1721,1842,99.728555917481,Russian Translation <git@vger.kernel.org>
+cheese,2673,0,0,218,0,0,2248,2673,100.0,Russian <gnome-cyr@gnome.org>
+chemtool,1130,0,54,233,0,28,926,1184,95.4391891891892,russian <ru@li.org>
+childsplay,1226,0,0,212,0,0,1042,1226,100.0,<assetml@linux.isbeter.nl>
+chkconfig,448,0,0,90,0,0,424,448,100.0,Russian <fedora-trans-ru@redhat.com>
+chmsee,127,36,31,41,14,18,159,194,65.4639175257732,Russian <ru@li.org>
+cinepaint,1889,1698,3866,719,699,538,1870,7453,25.345498456997184,Russian <ru@li.org>
+clamtk,892,0,0,239,0,0,835,892,100.0,Russian <ru@li.org>
+claws-mail,14629,18,0,2944,8,0,13142,14647,99.87710794019253,Russian <ru@li.org>
+claws-mail-plugins,3037,164,98,607,23,20,2666,3299,92.05819945438012,Russian <ru@li.org>
+clementine,2065,0,46,630,0,8,1945,2111,97.82093794410233,Russian <kde-russian@lists.kde.ru>
+clisp,14218,6,3,1816,1,1,12905,14227,99.93674000140578,Russian <ru@li.org>
+coccinella,0,3831,877,0,937,354,0,4708,0.0,Russian
+comix,1326,0,0,262,0,0,1083,1326,100.0,Artyom Smirnov <smirnoffjr@gmail.com>
+common-lisp-controller,57,0,0,7,0,0,55,57,100.0,Russian <debian-l10n-russian@lists.debian.org>
+compat-libgda,1779,0,2518,415,0,459,1791,4297,41.40097742611124,Russian <gnome-cyr@gnome.org>
+compiz,2847,409,23,676,47,5,2912,3279,86.8252516010979,Russian <kde-russian@lists.kde.ru>
+compiz-fusion,734,2875,4797,204,891,537,694,8406,8.731858196526291,Russian <kde-russian@lists.kde.ru>
+compiz-fusion-extras,734,2875,4797,204,891,537,694,8406,8.731858196526291,Russian <kde-russian@lists.kde.ru>
+compiz-fusion-unsupported,734,2875,4797,204,891,537,694,8406,8.731858196526291,Russian <kde-russian@lists.kde.ru>
+conduit,287,6,34,116,3,15,283,327,87.76758409785933,
+conglomerate,3591,271,2455,782,122,234,3028,6317,56.846604400823175,Russian <gnome-cyr@gnome.org>
+contact-lookup-applet,259,0,0,55,0,0,225,259,100.0,Russian <gnome-cyr@gnome.org>
+contacts,121,0,0,55,0,0,103,121,100.0,Russian <RU@li.org>
+control-center,3475,0,0,803,0,0,3207,3475,100.0,Russian <gnome-cyr@gnome.org>
+coreutils,12518,4057,1769,1044,224,164,12017,18344,68.2402965547318,Russian <ru@li.org>
+cpio,1880,38,38,284,2,7,1800,1956,96.11451942740287,Russian <gnu@mx.ru>
+creox,265,0,0,104,0,0,275,265,100.0,Russian <ru@li.org>
+cryptkeeper,320,0,38,50,0,3,272,358,89.3854748603352,
+cups,6967,0,380,1414,0,31,7193,7347,94.82782087927045,Apple Inc.
+cycle,186,0,0,65,0,0,149,186,100.0,LANGUAGE <LL@li.org>
+darktable,1966,87,648,552,33,74,1898,2701,72.78785634950017,Russian <gnome-cyr@lists.gnome.org>
+dasher,6418,0,30,412,0,8,5797,6448,99.5347394540943,Russian <gnome-cyr@gnome.org>
+dates,72,0,0,40,0,0,63,72,100.0,Russian <RU@li.org>
+dbmail,457,0,0,39,0,0,377,457,100.0,Russian <debian-l10n-russian@lists.debian.org>
+dc3dd,364,290,278,44,22,22,373,932,39.05579399141631,Russian <ru@li.org>
+dcraw,617,0,0,123,0,0,632,617,100.0,
+decibel-audio-player,1401,0,93,210,0,27,1236,1494,93.77510040160642,Russian <ru@li.org>
+deluge,1998,0,0,689,0,0,1881,1998,100.0,Russian <ru@li.org>
+deskbar-applet,3009,0,0,444,0,0,2676,3009,100.0,Russian <gnome-cyr@gnome.org>
+desktop-effects,148,0,0,25,0,0,168,148,100.0,
+devhelp,404,0,0,102,0,0,369,404,100.0,Russian <gnome-cyr@gnome.org>
+dia,6258,0,0,2309,0,0,6373,6258,100.0,Russian <gnome-cyr@gnome.org>
+dialog,12,2,11,12,2,9,12,25,48.0,Russian <ru@li.org>
+diffutils,1339,0,3,179,0,1,1331,1342,99.77645305514157,Russian <ru@li.org>
+digikam,15542,4703,3201,2864,478,195,13612,23446,66.28849270664506,Russian <kde-russian@lists.kde.ru>
+django-profile,1032,0,69,354,0,15,893,1101,93.73297002724796,LANGUAGE <LL@li.org>
+dpkg,12330,3394,21796,1411,495,998,12296,37520,32.862473347547976,Russian <debian-l10n-russian@lists.debian.org>
+drgeo,702,654,629,197,153,111,597,1985,35.36523929471033,Russian <ru@li.org>
+driconf,450,35,27,59,8,1,421,512,87.890625,Russian <LL@li.org>
+drupal-cck,1127,0,0,164,0,0,952,1127,100.0,Russian Drupal Translation Team (RDTT) <translators@drupal.ru>
+drupal-service_links,404,0,0,89,0,0,385,404,100.0,Russian
+e16,2785,0,0,520,0,0,2673,2785,100.0,Russian <ru@li.org>
+easystroke,515,0,0,140,0,0,486,515,100.0,Russian <ru@li.org>
+easytag,4263,580,472,833,100,58,3903,5315,80.20696142991534,ALT Linux Translation <ru@li.org>
+eel2,153,0,0,29,0,0,120,153,100.0,<gnome-cyr@gnome.org>
+eina,99,28,881,37,7,209,99,1008,9.821428571428571,Russian <ru@li.org>
+ejabberd,1503,0,0,377,0,0,1370,1503,100.0,
+ekiga,9579,0,0,902,0,0,8098,9579,100.0,Russian <gnome-cyr@gnome.org>
+elinks,411,1752,10071,192,520,913,433,12234,3.3594899460519865,Russian <ru@li.org>
+elisa-plugins-bad,137,4,8,34,1,2,109,149,91.94630872483222,The Elisa Team <elisa@lists.fluendo.com>
+emelfm2,5788,49,89,1426,15,11,5300,5926,97.67127910901114,russian <alxorlov@pochta.ru>
+emerald,774,0,0,215,0,0,740,774,100.0,Russian <kde-russian@lists.kde.ru>
+empathy,3930,0,0,741,0,0,3380,3930,100.0,Russian <gnome-cyr@gnome.org>
+enigma,4893,38,364,590,7,60,3959,5295,92.40793201133144,Russian
+enlightenment,5965,17,0,1342,4,0,5476,5982,99.71581410899365,Russian <ru@li.org>
+enscript,1358,351,119,178,16,15,1323,1828,74.28884026258206,Russian <ru@li.org>
+eog,4410,0,100,510,0,3,3901,4510,97.78270509977827,Russian <gnome-cyr@gnome.org>
+epdfview,466,5,12,129,2,6,439,483,96.48033126293996,Russian <ru@li.org>
+epiphany,8896,0,0,1208,0,0,7719,8896,100.0,Russian <ru@li.org>
+epiphany-extensions,747,0,0,218,0,0,752,747,100.0,Russian <gnome-cyr@gnome.org>
+etckeeper,64,0,0,5,0,0,60,64,100.0,Russian <debian-l10n-russian@lists.debian.org>
+etoys,723,332,26634,252,121,4054,641,27689,2.6111452201235146,LANGUAGE <LL@li.org>
+evince,3178,0,0,537,0,0,2644,3178,100.0,Russian <gnome-cyr@gnome.org>
+evolution,56122,0,1486,6998,0,59,50394,57608,97.42049715317317,Russian <gnome-cyr@gnome.org>
+evolution-data-server,5099,0,0,1039,0,0,5112,5099,100.0,Russian <gnome-cyr@gnome.org>
+evolution-exchange,1347,0,0,197,0,0,1225,1347,100.0,Russian <gnome-cyr@gnome.org>
+evolution-mapi,333,0,0,65,0,0,331,333,100.0,Russian <gnome-cyr@gnome.org>
+evolution-rss,593,0,0,161,0,0,577,593,100.0,Russian <gnome-cyr@gnome.org>
+exaile,2425,0,0,674,0,0,2324,2425,100.0,Russian <ru@li.org>
+exiv2,3849,3488,12674,894,1127,1319,3409,20011,19.234421068412374,Russian <ru@li.org>
+exo,1598,0,0,301,0,0,1344,1598,100.0,Russian
+f-spot,7118,0,86,1148,0,5,6632,7204,98.80621876735147,Russian <gnome-cyr@gnome.org>
+fetchmail,3869,212,150,629,30,12,3786,4231,91.4441030489246,Russian <gnu@mx.ru>
+file-roller,6750,0,0,715,0,0,5696,6750,100.0,Russian <gnome-cyr@gnome.org>
+filezilla,9070,32,0,1536,4,0,7880,9102,99.6484289167216,Koptev Oleg <koptev.oleg@gmail.com>
+findutils,236,318,1551,64,33,122,228,2105,11.211401425178147,Russian <ru@li.org>
+firstboot,654,0,0,54,0,0,546,654,100.0,Russian <fedora-trans-ru@redhat.com>
+flex,614,372,83,133,9,15,611,1069,57.43685687558467,Russian <ru@li.org>
+fontforge,7072,1390,26757,2579,465,3374,6822,35219,20.08007041653653,Russian <ru@li.org>
+fpc,4,0,0,4,0,0,4,4,100.0,
+freeciv,47580,1067,4730,5063,85,113,42213,53377,89.13951702043951,Russian <freeciv.ru@freelists.org>
+freedink,73,6,0,14,1,0,66,79,92.40506329113924,Russian <ru@li.org>
+freedroidrpg,15374,4653,15920,1567,323,1331,12974,35947,42.76852032158456,Russian <ru@li.org>
+frescobaldi,2262,175,388,544,49,83,1984,2825,80.070796460177,Russian <kde-russian@lists.kde.ru>
+frozen-bubble,567,82,49,130,9,9,495,698,81.23209169054442,Russian
+fslint,385,0,3,131,0,1,359,388,99.22680412371135,Russian <LL@li.org>
+fuse-encfs,1112,8,195,126,2,11,1033,1315,84.56273764258555,Russian <ru@li.org>
+gajim,10564,0,0,2006,0,0,9641,10564,100.0,Русский <ru@li.org>
+galculator,350,53,395,202,13,47,317,798,43.859649122807014,Russian <ru@li.org>
+galeon,5735,0,0,1385,0,0,5718,5735,100.0,Russian <gnome-cyr@gnome.org>
+gallery2,17793,0,0,2543,0,0,16761,17793,100.0,Russian <gallery-devel@lists.sourceforge.net>
+gambas,2475,0,0,761,0,0,2291,2475,100.0,LANGUAGE <LL@li.org>
+gambas2,3338,0,76,1112,0,23,3067,3414,97.77387229056825,<ru@li.org>
+gammu,1034,1772,10467,293,538,1149,973,13273,7.790250885255783,none
+ganyremote,518,0,0,148,0,0,472,518,100.0,Russian <ru@li.org>
+gazpacho,321,169,218,113,48,62,296,708,45.33898305084746,Russian <gnome-cyr@gnome.org>
+gbirthday,127,0,0,43,0,0,151,127,100.0,Russian <ru@li.org>
+gcalctool,2976,473,4719,790,111,436,2707,8168,36.43486777668952,Russian <gnome-cyr@gnome.org>
+gcc,26525,11515,14646,4095,1579,1465,25505,52686,50.345442812132255,Russian <gnu@mx.ru>
+gcl,6544,0,0,987,0,0,6212,6544,100.0,Russian <ru@li.org>
+gcombust,2081,1449,479,334,83,43,1740,4009,51.908206535295584,Russian <ru@li.org>
+gcompris,10637,0,0,1266,0,0,8127,10637,100.0,Russian <kde-russian@lists.kde.ru>
+gconf-editor,2838,0,0,237,0,0,2438,2838,100.0,Russian <gnome-cyr@gnome.org
+gdb,5899,0,0,807,0,0,5845,5899,100.0,Russian <gnu@mx.ru>
+gdeskcal,102,0,7,43,0,4,69,109,93.57798165137615,Russian <ru@li.org>
+gdesklets,1086,0,318,178,0,13,932,1404,77.35042735042735,Russian <gnome-cyr@gnome.org>
+gdm,8962,0,0,551,0,0,7216,8962,100.0,Russian <gnome-cyr@gnome.org>
+gdmap,139,0,0,54,0,0,145,139,100.0,Russian
+geany,5198,0,5,1115,0,1,4717,5203,99.90390159523352,Russian <ru@li.org>
+geany-plugins,652,82,1539,169,36,315,624,2273,28.684557853057633,Russian <geany-i18n@uvena.de>
+geda-gaf,1081,338,434,363,106,80,1052,1853,58.33783054506206,Russian <ru@li.org>
+geda-gschem,1223,229,256,393,81,43,1182,1708,71.60421545667447,Russian <ru@li.org>
+gedit,12579,0,0,1780,0,0,10143,12579,100.0,Russian <gnome-cyr@gnome.org>
+gedit-plugins,198,0,0,54,0,0,178,198,100.0,Russian <gnome-cyr@gnome.org>
+geeqie,3533,21,60,1217,9,20,3570,3614,97.75871610403985,Russian <gnome-cyr@lists.gnome.org>
+gettext,6553,75,216,663,8,13,6079,6844,95.74810052600819,Russian <ru@li.org>
+gftp,3375,0,0,634,0,0,3130,3375,100.0,none
+ggz-base-libs,74,0,0,17,0,0,72,74,100.0,Russian <gnome-cyr@gnome.org>
+ggz-gtk-client,773,0,0,244,0,0,702,773,100.0,Russian <gnome-cyr@gnome.org>
+ghdl,27700,8912,12112,4425,1217,1229,26648,48724,56.85083326492077,Russian <gnu@mx.ru>
+ghex,970,0,0,276,0,0,894,970,100.0,Russian <gnome-cyr@gnome.org>
+gimp,26060,0,0,6741,0,0,23848,26060,100.0,Russian <gnome-cyr@lists.gnome.org>
+gimp-help,476,8,45,175,6,44,436,529,89.98109640831758,Russian <gnome-cyr@gnome.org>
+gimp-lqr-plugin,825,0,0,110,0,0,716,825,100.0,<gnome-cyr@lists.gnome.org>
+git,3225,0,2,758,0,2,3126,3227,99.93802293151533,Russian Translation <git@vger.kernel.org>
+git-cola,1837,0,5,387,0,4,1721,1842,99.728555917481,Russian Translation <git@vger.kernel.org>
+gitweb-caching,3224,0,2,758,0,2,3126,3226,99.93800371977682,Russian Translation <git@vger.kernel.org>
+gjots2,906,0,0,260,0,0,841,906,100.0,Russian <ru@li.org>
+gkrellm,3302,0,481,490,0,60,2752,3783,87.2852233676976,Russian <ru@li.org>
+gkrellm-sun,171,141,158,35,18,32,136,470,36.38297872340426,ru <ru@li.org>
+gkrellm-volume,244,0,4,29,0,2,177,248,98.38709677419355,none
+gkrellm-weather,99,0,1,17,0,1,90,100,99.0,ru <ru@li.org>
+glabels,1643,83,123,557,21,31,1670,1849,88.85884261763115,Russian <gnome-cyr@lists.gnome.org>
+glade2,5475,0,435,1235,0,76,4587,5910,92.63959390862944,<gnome-cyr@gnome.org>
+glade3,6282,0,0,1325,0,0,5496,6282,100.0,Russian <gnome-cyr@gnome.org>
+glib2,2453,0,0,400,0,0,2552,2453,100.0,Russian <gnome-cyr@gnome.org>
+glibc,7409,0,0,1353,0,0,7284,7409,100.0,Russian <gnu@mx.ru>
+gliv,996,6,6,253,1,1,923,1008,98.80952380952381,Russian <LL@li.org>
+glunarclock,113,37,76,45,6,19,108,226,50.0,Russian <gnome-cyr@gnome.org>
+gmpc,25,0,0,13,0,0,24,25,100.0,Russian <ru@li.org>
+gnochm,516,23,42,115,2,5,485,581,88.81239242685027,Russian <ru@li.org>
+gnome-activity-journal,0,0,171,0,0,37,0,171,0.0,Russian <ru@li.org>
+gnome-applet-alarm-clock,390,0,0,106,0,0,292,390,100.0,Russian <ru@li.org>
+gnome-applet-bubblemon,34,0,4,10,0,4,39,38,89.47368421052632,Russian <ru@li.org>
+gnome-applet-music,622,0,12,115,0,5,614,634,98.10725552050474,Russian
+gnome-applet-netspeed,144,0,0,53,0,0,141,144,100.0,Russian <ru@li.org>
+gnome-applet-remmina,136,0,0,12,0,0,140,136,100.0,Russian <ru@li.org>
+gnome-applet-sensors,294,0,4,85,0,3,261,298,98.65771812080537,Russian <gnome-cyr@gnome.org>
+gnome-applet-timer,272,0,11,69,0,2,258,283,96.113074204947,Russian <ru@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,21,29,75.86206896551724,Russian
+gnome-applets,15287,0,52,1762,0,14,12958,15339,99.66099484972945,Russian <gnome-cyr@gnome.org>
+gnome-backgrounds,23,0,0,17,0,0,23,23,100.0,Russian <gnome-cyr@gnome.org>
+gnome-bluetooth,593,0,0,157,0,0,624,593,100.0,Russian <ru@li.org>
+gnome-chemistry-utils,804,454,2763,364,156,571,725,4021,19.995026112907237,Russian <ru@li.org>
+gnome-commander,1528,2638,3730,523,674,226,1496,7896,19.3515704154002,<gnome-cyr@gnome.org>
+gnome-desktop,351,0,0,53,0,0,369,351,100.0,Russian <gnome-cyr@gnome.org>
+gnome-devel-docs,10859,0,0,387,0,0,9279,10859,100.0,Russian <gnome-cyr@gnome.org>
+gnome-disk-utility,4044,0,0,812,0,0,3634,4044,100.0,Russian <ru@li.org>
+gnome-do,470,0,0,119,0,0,448,470,100.0,Russian <ru@li.org>
+gnome-do-plugins,1667,0,656,488,0,94,1576,2323,71.7606543263022,Russian <ru@li.org>
+gnome-doc-utils,238,0,0,92,0,0,249,238,100.0,Russian <gnome-cyr@gnome.org>
+gnome-games,35049,0,22,3201,0,5,28829,35071,99.93727010920703,Russian <gnome-cyr@gnome.org>
+gnome-globalmenu,325,0,0,56,0,0,294,325,100.0,Russian <ru@li.org>
+gnome-hearts,332,0,77,88,0,18,214,409,81.17359413202934,Russian <ru@li.org>
+gnome-icon-theme,43,0,0,38,0,0,48,43,100.0,Russian <gnome-cyr@gnome.org>
+gnome-keyring,1823,0,0,276,0,0,1456,1823,100.0,Russian <gnome-cyr@gnome.org>
+gnome-libs,988,40,57,381,4,10,899,1085,91.05990783410138,Russian <ru@li.org>
+gnome-mag,298,0,0,42,0,0,251,298,100.0,Russian <gnome-cyr@gnome.org>
+gnome-media,4006,0,0,504,0,0,3417,4006,100.0,Russian <gnome-cyr@gnome.org>
+gnome-menus,165,0,0,58,0,0,166,165,100.0,Russian <gnome-cyr@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,1245,887,100.0,Russian <gnome-cyr@gnome.org>
+gnome-netstatus,1219,0,0,183,0,0,987,1219,100.0,Russian <ru@li.org>
+gnome-nettool,523,0,0,206,0,0,547,523,100.0,Russian <gnome-cyr@gnome.org>
+gnome-packagekit,5252,0,0,854,0,0,4678,5252,100.0,Russian
+gnome-panel,5802,0,0,760,0,0,5204,5802,100.0,Russian <gnome-cyr@gnome.org>
+gnome-pilot,1120,211,242,235,54,45,1056,1573,71.20152574698028,Russian <ru@li.org>
+gnome-pilot-conduits,89,53,67,24,16,10,86,209,42.58373205741627,Russian <ru@li.org>
+gnome-power-manager,4007,0,0,502,0,0,3488,4007,100.0,Russian <ru@li.org>
+gnome-scan,201,0,0,81,0,0,222,201,100.0,Russian <gnome-cyr@lists.gnome.org>
+gnome-schedule,513,347,296,124,56,31,457,1156,44.37716262975779,Russian <gnome-cyr@gnome.org>
+gnome-screensaver,989,0,0,157,0,0,846,989,100.0,Russian <gnome-cyr@gnome.org>
+gnome-session,679,0,0,113,0,0,632,679,100.0,Russian <ru@li.org>
+gnome-settings-daemon,1624,0,0,245,0,0,1448,1624,100.0,Russian <ru@li.org>
+gnome-specimen,62,0,0,23,0,0,65,62,100.0,Russian <gnome-cyr@gnome.org>
+gnome-subtitles,660,0,0,260,0,0,595,660,100.0,Russian <gnome-cyr@gnome.org>
+gnome-system-monitor,918,0,0,239,0,0,880,918,100.0,Russian <gnome-cyr@gnome.org>
+gnome-terminal,7607,0,8,726,0,2,6300,7615,99.89494418910046,Russian <gnome-cyr@gnome.org>
+gnome-themes,109,0,0,30,0,0,111,109,100.0,Russian <gnome-cyr@gnome.org>
+gnome-user-docs,47713,0,0,3540,0,0,39921,47713,100.0,Russian <gnome-cyr@gnome.org>
+gnome-user-share,288,0,0,46,0,0,284,288,100.0,<gnome-cyr@gnome.org>
+gnome-utils,9619,0,4,1106,0,1,8242,9623,99.95843292112647,Russian <gnome-cyr@gnome.org>
+gnome-vfs2,1508,0,0,301,0,0,1459,1508,100.0,Russian <gnome-cyr@gnome.org>
+gnomebaker,906,0,280,227,0,64,798,1186,76.39123102866779,Russian <ru@li.org>
+gnomeradio,396,0,0,89,0,0,372,396,100.0,Russian <gnome-cyr@gnome.org>
+gnomint,4412,0,0,701,0,0,4046,4412,100.0,Russian <ru@li.org>
+gnote,2074,0,0,312,0,0,1924,2074,100.0,Russian <gnome-cyr@gnome.org>
+gnotime,127,332,1549,67,138,224,131,2008,6.324701195219124,Russian <ru@li.org>
+gnubg,1825,586,14164,465,151,2411,1827,16575,11.010558069381599,Russian <ru@li.org>
+gnubik,178,37,2,54,3,1,148,217,82.02764976958525,Russian <ru@li.org>
+gnue-common,97,26,2009,25,6,242,90,2132,4.549718574108818,Russian
+gnumeric,29815,442,16117,3271,70,413,25874,46374,64.29249148229611,<gnome-cyr@gnome.org>
+gnupg,7649,442,532,1135,71,87,6965,8623,88.70462715992115,Russian <gnupg-ru@gnupg.org>
+gnupg2,9218,201,1013,1518,30,176,8370,10432,88.3627300613497,Russian <gnupg-ru@gnupg.org>
+gobby,778,3,95,175,1,8,663,876,88.81278538812786,Russian <ru@li.org>
+goffice,2159,201,1630,898,80,387,2062,3990,54.11027568922305,<gnome-cyr@gnome.org>
+gok,1937,0,0,443,0,0,1691,1937,100.0,Russian <gnome-cyr@gnome.org>
+googsystray,537,3,51,144,1,13,513,591,90.86294416243655,Russian
+gossip,2558,0,0,506,0,0,2350,2558,100.0,Russian <gnome-cyr@gnome.org>
+gourmet,543,395,2709,147,139,582,467,3647,14.88894982177132,Russian <ru@li.org>
+gpa,1619,197,226,292,55,24,1245,2042,79.28501469147893,Russian <moscow@hro.org>
+gparted,1420,0,0,302,0,0,1349,1420,100.0,Russian <gnome-cyr@gnome.org>
+gperiodic,1767,6,75,501,1,28,1452,1848,95.61688311688312,
+gphoto2,1373,98,15,278,16,2,1247,1486,92.3956931359354,Russian <gnu@mx.ru>
+gpicview,219,0,0,44,0,0,212,219,100.0,RUSSIAN <ru@li.org>
+gpodder,2419,0,0,631,0,0,2009,2419,100.0,
+gpsdrive,2480,25,0,455,1,0,2278,2505,99.00199600798403,Russian <gnu@mx.ru>
+gpx-viewer,70,0,0,22,0,0,65,70,100.0,Russian <ru@li.org>
+gqview,1717,4,0,667,2,0,1741,1721,99.76757699012202,Russian <ru@li.org>
+gramps,16415,6010,3426,3304,1005,267,14269,25851,63.49851069591118,
+granule,349,2,4,84,1,2,303,355,98.30985915492958,Russian <LL@li.org>
+grass,0,17031,27608,0,2636,4799,0,44639,0.0,Russian <grass-translations@lists.osgeo.org>
+grep,827,0,0,90,0,0,841,827,100.0,Russian <gnu@mx.ru>
+griffith,1812,27,37,444,4,3,1676,1876,96.58848614072495,Russian <ru@li.org>
+grip,944,38,65,243,9,17,882,1047,90.16236867239733,Russian <ru@li.org>
+grisbi,4380,438,6375,1332,113,576,3987,11193,39.13160010720986,Russian <ru@li.org>
+grsync,649,23,101,109,3,10,538,773,83.95860284605433,Russian <russian@free.ru>
+grub2,1589,91,7,268,1,1,1542,1687,94.1908713692946,Russian <gnu@mx.ru>
+gscan2pdf,1163,0,205,395,0,34,1182,1368,85.01461988304094,Russian <ru@li.org>
+gshutdown,489,0,3,98,0,3,488,492,99.39024390243902,GShutdown Team <gshutdown@gmail.com>
+gsql,0,0,966,0,0,315,0,966,0.0,ru <ru@li.org>
+gstreamer,1283,189,231,258,34,26,1231,1703,75.33763945977687,Russian <gnu@mx.ru>
+gstreamer-plugins-bad-free,72,0,0,12,0,0,66,72,100.0,Russian <gnu@mx.ru>
+gstreamer-plugins-base,581,79,7,123,12,1,519,667,87.10644677661169,Russian <gnu@mx.ru>
+gstreamer-plugins-good,517,110,123,94,41,45,457,750,68.93333333333334,Russian <gnu@mx.ru>
+gsynaptics,44,4,17,24,1,1,45,65,67.6923076923077,
+gtg,956,0,433,176,0,24,814,1389,68.82649388048956,Russian <ru@li.org>
+gthumb,3130,0,0,921,0,0,2910,3130,100.0,Russian <gnome-cyr@gnome.org>
+gtk+,202,0,0,105,0,0,189,202,100.0,Russian <ru@li.org>
+gtk-qt-engine,154,0,0,28,0,0,139,154,100.0,Русский <ru@li.org>
+gtk-recordmydesktop,710,0,106,90,0,14,577,816,87.00980392156863,Russian <ru@li.org>
+gtk2,13351,7,0,2731,2,0,11845,13358,99.94759694565055,Russian <gnome-cyr@gnome.org>
+gtk2-engines,119,0,0,47,0,0,128,119,100.0,Russian <gnome-cyr@gnome.org>
+gtkhtml3,695,0,0,362,0,0,665,695,100.0,Russian <gnome-cyr@gnome.org>
+gtklp,582,0,9,207,0,4,523,591,98.47715736040608,ru <ru@li.org>
+gtkpod,4675,1551,587,838,179,79,4426,6813,68.61881696756201,Russian <ru@li.org>
+gtksourceview,891,0,0,366,0,0,912,891,100.0,Russian <gnome-cyr@gnome.org>
+gtksourceview2,1120,0,0,448,0,0,1121,1120,100.0,Russian <gnome-cyr@gnome.org>
+gtkspell,11,0,0,5,0,0,11,11,100.0,Russian <ru@li.org>
+gtranslator,212,363,1279,87,111,267,212,1854,11.434735706580366,Russian <gnome-cyr@gnome.org>
+gtypist,486,14,10,76,3,1,493,510,95.29411764705881,Russian <ru@li.org>
+guake,523,0,0,96,0,0,472,523,100.0,Russian<guake@lists.guake.org>
+gucharmap,2403,0,0,429,0,0,2111,2403,100.0,Russian <gnome-cyr@gnome.org>
+guiloader,72,0,0,14,0,0,74,72,100.0,Russian
+guiloader-c++,39,0,0,9,0,0,43,39,100.0,Russian
+gutenprint,4675,442,4232,1736,159,639,4618,9349,50.005348165579214,Russian <gnu@mx.ru>
+gvfs,1858,0,0,445,0,0,1878,1858,100.0,Russian <ru@li.org>
+gwget,379,0,0,103,0,0,372,379,100.0,Russian <gnome-cyr@gnome.org>
+gwibber,26,0,19,16,0,8,28,45,57.77777777777777,Russian <ru@li.org>
+gxine,2702,7,27,663,3,8,2605,2736,98.75730994152046,Russian <ru@li.org>
+hamster-applet,553,0,0,144,0,0,547,553,100.0,Russian <gnome-cyr@gnome.org>
+hddtemp,170,182,51,18,3,5,155,403,42.18362282878412,Russian <ru@li.org>
+hello,134,40,0,26,1,0,139,174,77.01149425287356,Russian <ru@li.org>
+homebank,1449,0,58,515,0,19,1352,1507,96.15129396151293,Russian <ru@li.org>
+horde,2733,3092,2420,744,907,440,2506,8245,33.14736203759854,Russian <i18n@lists.horde.org>
+hornsey,66,0,4,21,0,2,59,70,94.28571428571428,
+hugin,4761,279,289,956,55,33,4572,5329,89.34133983861888,Russian <ru@li.org>
+hwbrowser,116,0,0,51,0,0,110,116,100.0,Russian <fedora-trans-ru@redhat.com>
+ibus,534,39,11,102,6,1,477,584,91.43835616438356,Russian
+ibus-pinyin,63,36,58,34,16,20,73,157,40.12738853503185,Russian
+icewm,752,40,593,234,7,11,728,1385,54.29602888086643,Russian
+im-chooser,152,0,0,34,0,0,129,152,100.0,Russian <fedora-trans-ru@redhat.com>
+imp,3042,2124,1491,700,443,217,2493,6657,45.69625957638576,Russian <i18n@lists.horde.org>
+imsettings,979,0,0,155,0,0,819,979,100.0,Russian
+incollector,309,114,166,127,38,21,288,589,52.46179966044142,Russian <ru@li.org>
+indent,258,14,0,52,3,0,262,272,94.85294117647058,Russian <gnu@mx.ru>
+ingo,252,0,631,110,0,126,231,883,28.53907134767837,Russian <i18n@lists.horde.org>
+initscripts,4242,0,0,1032,0,0,4096,4242,100.0,Russian <fedora-trans-ru@redhat.com>
+inkscape,24035,0,0,4980,0,0,22685,24035,100.0,Russian <gnome-cyr@lists.gnome.org>
+iok,142,0,0,36,0,0,126,142,100.0,
+ipplan,5128,0,0,823,0,0,4730,5128,100.0,Russian <ru@li.org>
+ircp-tray,205,0,0,60,0,0,196,205,100.0,
+iso-codes,3082,4850,5222,1684,4052,3289,2695,13154,23.430135320054738,Russian <gnu@mx.ru>
+isomaster,674,0,0,107,0,0,577,674,100.0,
+jack-rack,254,159,140,56,22,24,145,553,45.931283905967454,Russian <ru@li.org>
+jamin,2453,0,899,256,0,21,2123,3352,73.18019093078759,<ru@li.org>
+jmol,1117,0,1049,434,0,338,1063,2166,51.5697137580794,Russian <ru@li.org>
+joe,1403,251,17,323,60,5,1339,1671,83.96169958108916,Russian <ru@li.org>
+jokosher,2035,0,24,405,0,4,1550,2059,98.83438562408936,Russian <ru@li.org>
+jpilot,1224,309,794,440,88,118,1123,2327,52.59991405242802,Russian <gnu@mx.ru>
+jwhois,83,99,258,17,22,32,85,440,18.863636363636363,RU <RU@li.org>
+k3b,20621,0,0,2530,0,0,17866,20621,100.0,Russian <kde-russian@lists.kde.ru>
+kBuild,502,0,3,80,0,1,493,505,99.4059405940594,Russian <ru@li.org>
+kaffeine,489,4,14,233,2,3,503,507,96.44970414201184,Russian <kde-russian@lists.kde.ru>
+kanatest,403,1,2,209,1,2,377,406,99.26108374384236,Russian <ru@li.org>
+kanyremote,494,4,0,139,1,0,446,498,99.19678714859438,Russian <ru@li.org>
+kazehakase,1737,75,77,552,18,22,1568,1889,91.95341450502912,Ryo SHIMIZU <furyo@on-air.ne.jp>
+kbackup,462,71,0,96,7,0,400,533,86.67917448405254,Russian <kde-russian@lists.kde.ru>
+kbd,1150,451,205,187,31,34,1183,1806,63.67663344407531,LANGUAGE <RU@li.org>
+kbibtex,1760,181,435,440,62,87,1609,2376,74.07407407407408,Русский
+kbilliards,193,0,15,53,0,11,175,208,92.78846153846155,Русский <ru@li.org>
+kbluetooth,326,15,0,101,2,0,285,341,95.60117302052787,Russian <kde-russian@lists.kde.ru>
+kchmviewer,336,86,550,45,23,139,302,972,34.5679012345679,<en@li.org>
+kcm-gtk,38,0,86,14,0,7,34,124,30.64516129032258,Русский <ru@li.org>
+kcoloredit,133,17,128,52,8,35,124,278,47.84172661870504,Russian <kde-russian@lists.kde.ru>
+kdbg,132,70,664,57,27,106,136,866,15.242494226327944,ru@li.org
+kde-partitionmanager,2581,144,7,429,23,1,2458,2732,94.47291361639824,Russian <kde-russian@lists.kde.ru>
+kde-plasma-daisy,331,0,0,133,0,0,338,331,100.0,Russian <kde-russian@lists.kde.ru>
+kde-plasma-networkmanagement,2088,0,32,719,0,1,2006,2120,98.49056603773585,Russian <kde-russian@lists.kde.ru>
+kde-plasma-smooth-tasks,942,0,0,100,0,0,678,942,100.0,Russian <kde-russian@lists.kde.ru>
+kde-plasma-yawp,644,3018,320,425,918,102,638,3982,16.172777498744352,Russian <>
+kdesvn,926,352,2834,336,112,323,894,4112,22.519455252918288,Russian <ru@li.org>
+kdetv,2061,17,128,448,8,27,1817,2206,93.42701722574796,Russian <kde-russian@lists.kde.ru>
+kdiff3,1468,259,1683,341,77,205,1219,3410,43.049853372434015,<kde-russian@lists.kde.ru>
+kdissert,1924,13,90,273,1,8,1625,2027,94.9185989146522,Русский <ru@li.org>
+kexec-tools,206,0,0,14,0,0,172,206,100.0,
+kflickr,272,20,7,71,7,2,263,299,90.96989966555184,Russian <ru@li.org>
+kgtk,90,0,0,20,0,0,84,90,100.0,Russian <kde-i18n-ru@kde.org>
+kguitar,757,0,0,287,0,0,718,757,100.0,Russian <ru@li.org>
+kicad,11901,0,0,3017,0,0,11136,11901,100.0,KiCAD russian team <andrf@mail.ru>
+kiconedit,686,11,29,136,5,14,567,726,94.49035812672176,Russian <kde-russian@lists.kde.ru>
+kid3,1284,0,13,533,0,2,1280,1297,98.99768696993061,
+kile,5056,89,5807,1025,13,831,4405,10952,46.165084002921844,Russian <kde-russian@lists.kde.ru>
+kio_gopher,17,0,0,5,0,0,17,17,100.0,Russian <kde-russian@lists.kde.ru>
+kiosktool,2289,0,0,238,0,0,1829,2289,100.0,<kde-russian@lists.kde.ru>
+kipi-plugins,4380,4529,1368,1431,578,198,4063,10277,42.619441471246475,Russian <kde-russian@lists.kde.ru>
+klamav,358,138,2007,60,29,330,312,2503,14.302836596084697,Russian <ru@li.org>
+klavaro,1114,455,309,101,59,60,920,1878,59.31842385516507,<ru@li.org>
+kmess,7018,221,163,1101,27,21,6072,7402,94.81221291542826,Russian <kde-russian@lists.kde.ru>
+kmid,523,6,6,205,4,5,496,535,97.75700934579439,Russian <kde-russian@lists.kde.ru>
+kmplayer,1150,7,91,357,5,8,1069,1248,92.1474358974359,Russian <kde-russian@lists.kde.ru>
+kmymoney2,16796,0,0,2663,0,0,13028,16796,100.0,Russian <kde-russian@lists.kde.ru>
+knemo,387,188,528,193,36,78,383,1103,35.08612873980054,Russian <kde-russian@lists.kde.ru>
+knetstats,88,17,14,46,5,2,100,119,73.94957983193278,xUnion <xUnion@ukr.net>
+knutclient,552,47,41,188,15,15,494,640,86.25,Russian <ru@li.org>
+komparator,1358,219,1010,209,26,32,1133,2587,52.49323540780827,Russian
+konq-plugins,1692,0,0,546,0,0,1606,1692,100.0,Russian <kde-russian@lists.kde.ru>
+konversation,7977,911,956,1321,109,87,6610,9844,81.03413246647703,Russian <kde-russian@lists.kde.ru>
+koverartist,624,26,9,151,3,1,564,659,94.68892261001517,<ru@li.org>
+kpackagekit,2029,670,858,435,111,116,1852,3557,57.04245150407646,Russian <kde-russian@lists.kde.ru>
+kpilot,5258,931,967,594,158,109,4381,7156,73.47680268306317,Russian <kde-russian@lists.kde.ru>
+kradio4,3857,0,0,893,0,0,3694,3857,100.0,Russian <kde-russian@lists.kde.ru>
+krecipes,906,140,2041,344,45,179,823,3087,29.348882410106903,Russian <kde-russian@lists.kde.ru>
+krename,1574,25,4,321,4,2,1354,1603,98.19089207735496,Русский <ru@li.org>
+kronolith,658,0,0,204,0,0,569,658,100.0,Fedor A. Fetisov <faf@ssc.ru>
+krusader,6726,199,655,1549,48,74,6200,7580,88.7335092348285,Russian <kde-russian@lists.kde.ru>
+kshutdown,225,197,354,57,67,61,196,776,28.994845360824744,<ru@li.org>
+ksig,71,2,12,17,1,8,55,85,83.52941176470588,Russian <kde-russian@lists.kde.ru>
+kst,1035,1457,4954,445,521,846,959,7446,13.900080580177276,<kde-russian@lists.kde.ru>
+ktorrent,7144,104,314,1298,13,18,5942,7562,94.47236180904522,Russian <kde-russian@lists.kde.ru>
+kvirc,12739,189,177,2153,38,36,11389,13105,97.20717283479587,Russian <>
+kwebkitpart,155,0,322,63,0,61,148,477,32.494758909853246,Russian <kde-russian@lists.kde.ru>
+labyrinth,146,0,0,42,0,0,138,146,100.0,Russian <gnome-cyr@gnome.org>
+lazarus,19604,0,0,5236,0,0,18708,19604,100.0,
+ldm,184,0,0,52,0,0,196,184,100.0,Russian <debian-l10n-russian@lists.debian.org>
+leafpad,103,10,12,54,6,8,112,125,82.39999999999999,RUSSIAN <ru@li.org>
+lekhonee-gnome,20,20,60,13,9,15,20,100,20.0,Russian <fedora-trans-ru@redhat.com>
+libbonobo,547,0,0,108,0,0,538,547,100.0,<gnome-cyr@gnome.org>
+libbonoboui,368,0,0,115,0,0,351,368,100.0,Russian <gnome-cyr@gnome.org>
+libexif,2710,1129,3129,461,288,448,2320,6968,38.89207807118255,Russian <ru@li.org>
+libgda,263,1413,3561,100,290,573,287,5237,5.021959136910445,Russian <gnome-cyr@gnome.org>
+libgdl,613,0,0,98,0,0,546,613,100.0,Russian <gnome-cyr@gnome.org>
+libgnome,1772,0,0,273,0,0,1678,1772,100.0,Russian <gnome-cyr@gnome.org>
+libgnomecanvas,378,0,0,95,0,0,353,378,100.0,<gnome-cyr@gnome.org>
+libgnomekbd,246,0,0,51,0,0,221,246,100.0,Russian <ru@li.org>
+libgnomeprint22,168,0,0,98,0,0,180,168,100.0,Russian <gnome-cyr@gnome.org>
+libgnomeprintui22,481,0,0,154,0,0,406,481,100.0,Russian <gnome-cyr@gnome.org>
+libgnomeui,1309,0,0,334,0,0,1180,1309,100.0,Russian <gnome-cyr@gnome.org>
+libgphoto2,3764,2141,4327,688,512,850,3445,10232,36.786551993745114,Russian <ru@li.org>
+libgtop2,126,0,0,40,0,0,129,126,100.0,Russian <gnome-cyr@gnome.org>
+libgweather,6104,0,0,4561,0,0,5413,6104,100.0,Russian <gnome-cyr@gnome.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,25,0,0,14,0,0,24,25,100.0,Russian <kde-russian@lists.kde.ru>
+libktorrent,417,0,0,92,0,0,423,417,100.0,Russian <kde-russian@lists.kde.ru>
+libpaper,73,0,0,46,0,0,68,73,100.0,Russian <debian-l10n-russian@lists.debian.org>
+libunicap,147,0,9,91,0,3,165,156,94.23076923076923,Russian <ru@li.org>
+libunicapgtk,147,0,9,91,0,3,165,156,94.23076923076923,Russian <ru@li.org>
+libuser,1106,8,0,232,1,0,1082,1114,99.2818671454219,
+libvirt,14258,3234,2691,2649,554,296,13725,20183,70.64361095971857,Russian
+libwnck,1124,0,0,241,0,0,1075,1124,100.0,Russian <gnome-cyr@gnome.org>
+libxfce4menu,31,0,0,5,0,0,28,31,100.0,Russian
+libxfce4util,413,0,0,4,0,0,427,413,100.0,Russian
+libxfcegui4,234,0,0,61,0,0,229,234,100.0,Russian
+licq,29,1,0,15,1,0,24,30,96.66666666666667,Russian <ru@li.org>
+lifeograph,384,0,95,86,0,35,339,479,80.1670146137787,Russian <ru@li.org>
+liferea,1753,393,265,398,68,65,1430,2411,72.7084197428453,Russian
+lilypond,143,710,1660,43,150,262,143,2513,5.690409868682849,Russian <ru@li.org>
+lincity-ng,1973,3,0,489,2,0,1514,1976,99.84817813765183,ASM <asm@asm.pp.ru>
+linux_logo,45,0,0,15,0,0,45,45,100.0,LANGUAGE <LL@li.org>
+listen,1725,1,57,537,1,11,1580,1783,96.74705552439708,Russian <ru@li.org>
+liveusb-creator,480,0,0,52,0,0,378,480,100.0,Russian <fedora-trans-ru@redhat.com>
+logjam,2169,0,0,527,0,0,2021,2169,100.0,Russian <ru@li.org>
+ltsp,472,0,0,93,0,0,434,472,100.0,Russian <debian-l10n-russian@lists.debian.org>
+lxappearance,96,0,0,39,0,0,97,96,100.0,Russian
+lxdm,11,0,0,10,0,0,11,11,100.0,<hsh@runtu.org>
+lxinput,0,0,60,0,0,21,0,60,0.0,LANGUAGE <LL@li.org>
+lxlauncher,21,1,29,5,1,5,21,51,41.17647058823529,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,97,97,100.0,Russian <gnome-cyr@gnome.org>
+lxmusic,147,10,39,66,4,17,159,196,75.0,LANGUAGE <LL@li.org>
+lxpanel,881,14,0,296,3,0,831,895,98.43575418994413,Russian <hsh@runtu.org>
+lxrandr,102,0,0,22,0,0,99,102,100.0,Russian
+lxsession,37,0,0,15,0,0,34,37,100.0,Russian
+lxsession-edit,58,0,0,10,0,0,47,58,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,44,43,100.0,LANGUAGE <LL@li.org>
+lxtask,116,1,5,45,1,2,110,122,95.08196721311475,Russian <ru@li.org>
+lxterminal,129,0,0,76,0,0,133,129,100.0,Russian <gnu@mx.ru>
+lynx,7524,69,338,1084,31,85,6952,7931,94.86823855755895,Russian <ru@li.org>
+lyx,13260,1143,159,4139,520,55,12539,14562,91.05892047795633,Russian <kruvalig@gmail.com>
+mail-notification,12,26,678,3,3,132,18,716,1.675977653631285,Russian
+mailman,17923,2883,1098,1246,44,65,15924,21904,81.82523739956173,Russian <mailman-ru@only.mawhrin.net>
+make,1355,381,261,296,58,40,1407,1997,67.85177766649974,Russian <ru@li.org>
+manaworld,465,23,1996,170,10,526,414,2484,18.719806763285025,Russian <ru@li.org>
+meld,857,0,0,243,0,0,887,857,100.0,Russian <gnome-cyr@gnome.org>
+metacity,3810,0,0,405,0,0,3628,3810,100.0,Russian <gnome-cyr@gnome.org>
+metromap,247,0,0,72,0,0,244,247,100.0,RUSSIAN <RU@li.org>
+midori,2443,0,0,618,0,0,2201,2443,100.0,Russian <ru@li.org>
+minbar,418,0,0,105,0,0,429,418,100.0,Russian <abdurrauf@mail.ru>
+mingw32-atk,375,0,0,126,0,0,355,375,100.0,Russian <gnome-cyr@gnome.org>
+mingw32-binutils,12909,0,0,1835,0,0,12527,12909,100.0,Russian <gnu@mx.ru>
+mingw32-gcc,26525,11515,14646,4095,1579,1465,25505,52686,50.345442812132255,Russian <gnu@mx.ru>
+mingw32-gettext,6553,75,216,663,8,13,6079,6844,95.74810052600819,Russian <ru@li.org>
+mingw32-glib2,2199,159,105,351,32,20,2288,2463,89.28136419001218,Russian <gnome-cyr@gnome.org>
+mingw32-gtk2,13018,202,131,2658,47,26,11529,13351,97.50580480862857,Russian <gnome-cyr@gnome.org>
+mingw32-gtkhtml3,1261,0,0,560,0,0,1239,1261,100.0,Russian <gnome-cyr@gnome.org>
+mingw32-iconv,15,32,289,4,9,33,14,336,4.464285714285714,Russian <ru@li.org>
+minicom,1764,0,0,384,0,0,1709,1764,100.0,Russian <gnu@mx.ru>
+mirage,250,192,375,91,66,88,231,817,30.599755201958384,Russian <ru@li.org>
+moblin-panel-media,55,0,0,14,0,0,41,55,100.0,
+moblin-panel-status,36,19,21,13,2,2,32,76,47.368421052631575,
+moin,4526,0,0,736,0,0,4166,4526,100.0,
+monkey-bubble,309,0,0,86,0,0,296,309,100.0,Russian <gnome-cyr@gnome.org>
+monodevelop,5411,4446,5762,1401,1329,850,4813,15619,34.643703182021895,Russian <ru@li.org>
+mousepad,133,2,0,63,1,0,137,135,98.51851851851852,Russian <ru@li.org>
+mousetweaks,715,0,0,94,0,0,623,715,100.0,Russian <ru@li.org>
+msp430-binutils,7010,0,0,1028,0,0,6682,7010,100.0,Russian <gnu@mx.ru>
+mtpaint,3018,32,15,914,2,6,2846,3065,98.46655791190865,
+muine,488,0,0,123,0,0,475,488,100.0,Russian <compress@linux-online.ru>
+multimedia-menus,56,0,0,22,0,0,56,56,100.0,
+mutt,5353,0,0,1114,0,0,5129,5353,100.0,RUSSIAN <mutt-ru@woe.spb.ru>
+mutter,3864,0,0,413,0,0,3692,3864,100.0,Russian <gnome-cyr@gnome.org>
+nano,2249,0,0,362,0,0,1960,2249,100.0,Russian <gnu@mx.ru>
+nautilus,8620,0,0,1388,0,0,8027,8620,100.0,Russian <ru@li.org>
+nautilus-actions,1132,320,102,135,24,11,927,1554,72.84427284427284,Russian <gnome-cyr@gnome.org>
+nautilus-image-converter,42,0,0,19,0,0,43,42,100.0,Russian
+nautilus-open-terminal,24,0,0,5,0,0,17,24,100.0,Russian
+nautilus-pastebin,61,8,15,10,2,3,50,84,72.61904761904762,Russian <ru@li.org>
+nautilus-sendto,287,0,4,59,0,1,241,291,98.62542955326461,Russian <en@li.org>
+nautilus-terminal,79,0,31,33,0,4,83,110,71.81818181818181,Russian <ru@li.org>
+ncmpc,683,0,0,247,0,0,671,683,100.0,ru <ru@li.org>
+neon,0,154,520,0,29,104,0,674,0.0,ru
+network-manager-netbook,263,0,0,89,0,0,253,263,100.0,Novell Language <language@novell.com>
+newsbeuter,880,179,178,230,40,47,925,1237,71.13985448666128,ru <sergey.dryabzhinsky@gmail.com>
+newt,4,0,0,4,0,0,4,4,100.0,Russian <debian-l10n-russian@lists.debian.org>
+nmap,1296,22,509,273,1,37,1143,1827,70.93596059113301,Russian
+notecase,464,306,386,163,105,88,422,1156,40.13840830449827,Notecase
+notification-daemon,108,0,0,28,0,0,105,108,100.0,Russian <ru@li.org>
+nss-ldapd,438,0,0,26,0,0,341,438,100.0,Russian <debian-l10n-russian@lists.debian.org>
+nted,1229,3,60,496,1,33,1237,1292,95.12383900928792,Русский <ru@li.org>
+ntfs-config,29,36,292,5,12,42,31,357,8.123249299719888,Russian <ru@li.org>
+oggconvert,152,0,0,44,0,0,147,152,100.0,Russian <ru@li.org>
+olpc-switch-desktop,153,0,5,12,0,2,153,158,96.83544303797468,LANGUAGE <LL@li.org>
+openbox,474,30,0,94,1,0,414,504,94.04761904761905,None
+openscada,14360,0,177,3589,0,82,13850,14537,98.78241728004402,<ru@li.org>
+openswan,974,0,0,41,0,0,814,974,100.0,Russian <debian-l10n-russian@lists.debian.org>
+orage,2110,0,0,769,0,0,2042,2110,100.0,ru_RU <ru@li.org>
+orca,3809,0,0,1300,0,0,4031,3809,100.0,Russian <gnome-cyr@gnome.org>
+osmo,1426,116,71,605,35,21,1394,1613,88.40669559826411,Ukrainian <>
+oxine,1448,396,1102,554,186,365,1331,2946,49.15139171758317,Russian <ru@li.org>
+pam,599,0,0,120,0,0,618,599,100.0,
+pan,98,1123,1067,50,336,214,107,2288,4.283216783216783,Russian <ru@li.org>
+parcellite,149,0,0,51,0,0,158,149,100.0,
+parole,450,0,0,182,0,0,440,450,100.0,"Russia, ALT LInux"
+parted,4759,114,87,563,12,12,4239,4960,95.9475806451613,Russian <gnu@mx.ru>
+passwd,299,0,0,53,0,0,299,299,100.0,Russian <fedora-trans-ru@redhat.com>
+pavucontrol,198,12,27,72,8,7,204,237,83.54430379746836,Russian <fedora-trans-ru@redhat.com>
+pcb,4139,0,0,1013,0,0,3822,4139,100.0,LANGUAGE <LL@li.org>
+pcmanfm,1512,8,0,385,3,0,1396,1520,99.47368421052632,Russian <gnu@mx.ru>
+perl-Padre,647,0,0,252,0,0,626,647,100.0,Russian
+perl-libintl,19,0,0,19,0,0,19,19,100.0,Russian <guido@imperia.net>
+pessulus,124,0,0,32,0,0,121,124,100.0,<gnome-cyr@gnome.org>
+pgadmin3,8609,283,114,2481,34,16,7930,9006,95.59182767044193,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,1546,0,1007,523,0,301,1507,2553,60.55620838229534,Russian Ubuntu Translators
+photoprint,746,3,5,238,1,2,707,754,98.93899204244032,Russian <gnome-cyr@gnome.org>
+phpldapadmin,1488,0,1953,361,0,425,1293,3441,43.24324324324324,phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net>
+phpwapmail,82,0,0,60,0,0,82,82,100.0,<buc@citadel.stu.neva.ru>
+picard,1303,5,2,600,4,1,1315,1310,99.46564885496183,Russian <ru@li.org>
+pidgin,16986,1596,72,3739,297,13,16130,18654,91.05821807655194,
+pidgin-birthday-reminder,234,0,0,62,0,0,257,234,100.0,Russian
+pidgin-guifications,498,0,7,190,0,2,428,505,98.61386138613861,Russian <ru@li.org>
+pidgin-libnotify,36,0,0,12,0,0,37,36,100.0,Russian
+pidgin-musictracker,333,0,0,60,0,0,297,333,100.0,Russian <ru@li.org>
+pidgin-otr,550,0,0,100,0,0,479,550,100.0,Human Rights Network <moscow@hro.org>
+pidgin-sipe,663,0,0,173,0,0,627,663,100.0,Russian <ru@li.org>
+pinfo,315,10,0,53,2,0,297,325,96.92307692307692,Russian <debian-l10n-russian@lists.debian.org>
+pino,346,6,0,126,1,0,341,352,98.29545454545455,LANGUAGE <LL@li.org>
+pinot,310,26,241,136,11,90,306,577,53.7261698440208,Russian <ru@li.org>
+pitivi,1086,0,0,249,0,0,931,1086,100.0,Russian <gnome-cyr@gnome.org>
+planner,1744,0,0,511,0,0,1654,1744,100.0,Russian <gnome-cyr@gnome.org>
+pmount,501,0,222,48,0,15,451,723,69.29460580912863,Russian
+po4a,1686,3,37,170,1,6,1525,1726,97.68250289687138,Russian <debian-l10n-russian@lists.debian.org>
+poedit,1148,14,0,267,2,0,1095,1162,98.79518072289156,Russian <poedit-translators@lists.sourceforge.net>
+policycoreutils,1439,10,21,251,2,7,1312,1470,97.89115646258504,
+polkit-gnome,849,0,0,159,0,0,793,849,100.0,Russian <en@li.org>
+pootle,2424,0,0,459,0,0,2236,2424,100.0,Russian <ru@li.org>
+popt,68,0,7,25,0,2,69,75,90.66666666666666,Black Cat Linux Team <blackcat-support@blackcatlinux.com>
+postgresql,3422,23,132,480,3,21,3297,3577,95.66675985462678,pgsql-ru-general <pgsql-ru-general@postgresql.org>
+postgresql-jdbc,361,123,937,51,16,100,297,1421,25.404644616467277,pgsql-rus <pgsql-rus@yahoogroups.com>
+powertop,698,137,148,53,11,25,614,983,71.00712105798576,Russian <ru@li.org>
+preupgrade,801,0,0,122,0,0,767,801,100.0,Russian <trans-ru@lists.fedoraproject.org>
+prewikka,303,89,281,163,48,53,315,673,45.022288261515605,Russian <LL@li.org>
+proftpd,615,0,0,134,0,0,597,615,100.0,Alex Samorukov <samm@os2.kiev.ua>
+psad,327,100,5,24,5,1,299,432,75.69444444444444,Russian <ru@li.org>
+psmisc,58,369,272,13,14,32,63,699,8.297567954220316,woolfy <woolfy@users.sourceforge.net>
+publican,905,0,2472,64,0,320,656,3377,26.798933965057742,
+publican-fedora,107,0,0,6,0,0,87,107,100.0,Russian Fedora Team <fedora-localization@www.russianfedora.ru>
+publican-ovirt,0,0,288,0,0,27,0,288,0.0,none
+publican-redhat,220,0,0,13,0,0,174,220,100.0,Russian
+purple-msn-pecan,620,0,340,135,0,43,556,960,64.58333333333334,<en@li.org>
+pybackpack,1113,0,2,187,0,1,1031,1115,99.82062780269058,Russian <ru@li.org>
+pybliographer,420,36,68,135,17,21,404,524,80.1526717557252,Russian <ru@li.org>
+pychess,387,9,1275,79,4,262,315,1671,23.159784560143628,Russian <ru@li.org>
+pykickstart,284,0,0,25,0,0,246,284,100.0,Russian <fedora-trans-ru@redhat.com>
+pypar2,235,0,1,62,0,1,204,236,99.57627118644068,Russian <ru@li.org>
+pyroom,192,0,219,35,0,39,163,411,46.715328467153284,Russian <ru@li.org>
+python-fedora,0,0,968,0,0,123,0,968,0.0,ru <LL@li.org>
+python-formencode,536,55,170,76,6,27,411,761,70.43363994743758,RUSSIAN <RU@li.org>
+python-meh,0,0,269,0,0,33,0,269,0.0,LANGUAGE <LL@li.org>
+python-sphinx,388,4,5,126,1,2,392,397,97.73299748110831,ru <LL@li.org>
+pytrainer,451,0,106,171,0,28,412,557,80.96947935368043,Russian <es@li.org>
+qbzr,1070,0,211,380,0,35,1088,1281,83.52849336455894,Russian
+qdigidoc,16,0,0,2,0,0,21,16,100.0,Russian
+qt-recordmydesktop,710,0,106,90,0,14,577,816,87.00980392156863,Russian <ru@li.org>
+quarry,1807,0,0,447,0,0,1855,1807,100.0,Russian <ru@li.org>
+quassel,2715,0,1477,631,0,364,2475,4192,64.76622137404581,LANGUAGE <LL@li.org>
+quodlibet,1540,204,257,446,55,38,1542,2001,76.9615192403798,Russian
+rabbitvcs,820,0,111,273,0,44,677,931,88.07733619763695,Russian
+radiotray,84,0,0,35,0,0,84,84,100.0,Russian
+rapid-photo-downloader,1908,0,0,403,0,0,1788,1908,100.0,Russian <ru@li.org>
+rapidsvn,1143,158,118,360,49,27,1102,1419,80.54968287526427,RapidSVN Developers <dev@rapidsvn.tigris.org>
+rawstudio,585,143,218,259,61,39,613,946,61.83932346723044,Rawstudio development <rawstudio-dev@rawstudio.org>
+redhat-menus,261,0,0,86,0,0,269,261,100.0,Russian <fedora-trans-ru@redhat.com>
+rednotebook,1044,0,0,226,0,0,1038,1044,100.0,Czech <cs@li.org>
+redshift,326,0,122,54,0,23,325,448,72.76785714285714,Russian <ru@li.org>
+referencer,850,0,29,241,0,9,794,879,96.70079635949944,Russian <ru@li.org>
+rekonq,1221,20,111,305,3,5,1067,1352,90.31065088757396,Russian <kde-russian@lists.kde.ru>
+remmina,828,0,0,216,0,0,844,828,100.0,Russian <ru@li.org>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,4135,221,464,401,26,27,3384,4820,85.78838174273858,
+rhnsd,42,0,0,10,0,0,41,42,100.0,
+rhpl,185,0,0,80,0,0,174,185,100.0,
+rhythmbox,9429,0,0,1432,0,0,8480,9429,100.0,Russian <gnome-cyr@gnome.org>
+ristretto,143,4,40,47,2,8,129,187,76.47058823529412,Russian
+roundup,4647,0,21,471,0,13,4488,4668,99.55012853470437,Russian
+rpm,2883,582,433,568,120,71,2833,3898,73.96100564391996,Black Cat Linux Team <blackcat-support@blackcatlinux.com>
+rsibreak,870,290,45,123,16,15,681,1205,72.19917012448133,Russian <kde-russian@lists.kde.ru>
+rt3,6858,0,449,1672,0,96,6503,7307,93.85520733543177,Koptev Oleg <koptev.oleg@gmail.com>
+rubyripper,1434,36,50,271,5,14,1269,1520,94.34210526315789,Russian <rc.4096@gmail.com>
+sabayon,660,66,10,147,13,6,636,736,89.67391304347827,Russian <ru@li.org>
+sakura,86,20,21,35,4,7,76,127,67.71653543307087,Evgenij Vdovin <evdovin@pochta.ru>
+samba,198,0,0,33,0,0,199,198,100.0,Novell Language <language@novell.com>
+sane-backends,2770,309,1277,591,106,200,2627,4356,63.59044995408632,<ru@li.org>
+scim,1173,0,0,281,0,0,995,1173,100.0,
+scmxx,924,29,693,272,5,134,882,1646,56.13608748481167,Russian <ru@li.org>
+seahorse,7036,0,0,984,0,0,6145,7036,100.0,Russian <gnome-cyr@gnome.org>
+seahorse-plugins,6021,0,0,616,0,0,5284,6021,100.0,Russian <gnome-cyr@gnome.org>
+sed,490,54,37,84,2,3,481,581,84.33734939759037,Russian <gnu@mx.ru>
+sentinella,420,1,0,86,1,0,367,421,99.7624703087886,Russian <lanserx@users.sourceforge.net>
+sepostgresql,3422,23,132,480,3,21,3297,3577,95.66675985462678,pgsql-ru-general <pgsql-ru-general@postgresql.org>
+setroubleshoot,606,0,0,146,0,0,531,606,100.0,Russian
+setroubleshoot-plugins,8561,94,100,260,3,3,6645,8755,97.7841233580811,Russian
+setuptool,55,0,0,14,0,0,51,55,100.0,Russian <fedora-trans-ru@redhat.com>
+shadow-utils,9829,3680,5045,947,280,284,9048,18554,52.97509970895764,Russian <debian-l10n-russian@lists.debian.org>
+shared-mime-info,1387,0,0,561,0,0,1437,1387,100.0,Russian <gnu@mx.ru>
+sharutils,652,369,27,107,38,5,656,1048,62.213740458015266,Russian <ru@li.org>
+showimg,2669,998,638,629,161,89,2302,4305,61.997677119628335,Russian <kde-russian@lists.kde.ru>
+shutter,2735,0,28,554,0,9,2515,2763,98.98660875859574,Russian <ru@li.org>
+sirius,154,0,0,45,0,0,159,154,100.0,Russian <ru@li.org>
+sitecopy,327,433,1540,61,73,258,333,2300,14.217391304347826,ru
+skanlite,102,6,34,36,2,13,91,142,71.83098591549296,Russian <kde-russian@lists.kde.ru>
+skychart,3983,0,106,1253,0,49,3739,4089,97.40767913915383,<translation@ap-i.net>
+slrn,4600,431,320,814,44,92,4262,5351,85.96524014202953,Russian <ru@li.org>
+smart,918,71,3532,298,17,475,853,4521,20.305242203052423,Russian <l10n@alfey.net>
+smb4k,107,1337,5136,69,233,423,105,6580,1.6261398176291793,Russian <kde-russian@lists.kde.ru>
+smolt,1174,0,0,212,0,0,1008,1174,100.0,Russian <fedora-trans-ru@redhat.com>
+snownews,689,90,12,145,16,2,640,791,87.10493046776233,Russian
+solfege,5330,86,3294,1078,1,196,4808,8710,61.19402985074627,Russian <gnu@mx.ru>
+sonata,1087,15,34,344,4,9,1033,1136,95.68661971830986,badDron <andrew@infonet.by>
+sos,267,0,0,36,0,0,213,267,100.0,Russian
+sound-juicer,6165,0,0,391,0,0,5842,6165,100.0,Russian <gnome-cyr@gnome.org>
+soundconverter,368,45,37,84,10,15,351,450,81.77777777777779,Russian <gnome-cyr@gnome.org>
+soundtracker,1647,1,0,468,1,0,1523,1648,99.93932038834951,Russian <ru@li.org>
+specspo,74515,40037,190742,4336,4696,7818,63547,305294,24.40762019561472,<ru@li.org>
+spectrum,387,0,0,83,0,0,387,387,100.0,LANGUAGE <LL@li.org>
+speedcrunch,1,0,17,1,0,12,1,18,5.555555555555555,ru
+springlobby,3478,0,1217,897,0,267,3085,4695,74.07880724174653,Russian <ru@li.org>
+spu-binutils,7010,0,0,1028,0,0,6682,7010,100.0,Russian <gnu@mx.ru>
+squirrelmail,7217,623,1163,1413,125,191,6174,9003,80.16216816616684,Russian <kde-russian@lists.kde.ru>
+sssd,1042,48,172,179,9,23,994,1262,82.56735340729001,Russian <fedora-trans-ru@redhat.com>
+stardict,891,724,825,172,92,197,756,2440,36.51639344262295,ru <ru@li.org>
+stellarium,2407,0,0,941,0,0,2192,2407,100.0,Russian <ru@li.org>
+straw,77,126,370,27,52,67,81,573,13.438045375218149,Russian <ru@li.org>
+subdownloader,940,0,13,265,0,7,854,953,98.63588667366213,LANGUAGE <LL@li.org>
+subtitleeditor,3219,0,78,815,0,25,2753,3297,97.63421292083713,ru <none>
+sugar,229,0,5,90,0,2,213,234,97.86324786324786,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,36,0,16,20,0,7,35,52,69.23076923076923,LANGUAGE <LL@li.org>
+sugar-calculator,138,29,460,49,8,89,130,627,22.00956937799043,
+sugar-chat,19,0,2,9,0,1,19,21,90.47619047619048,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,30,31,100.0,LANGUAGE <LL@li.org>
+sugar-distance,78,0,1,15,0,1,69,79,98.73417721518987,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,37,1,2,10,1,1,33,40,92.5,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,21,0,6,14,0,3,19,27,77.77777777777779,LANGUAGE <LL@li.org>
+sugar-record,111,14,12,62,5,6,114,137,81.02189781021897,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,59,0,0,28,0,0,73,59,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,80,0,41,57,0,27,75,121,66.11570247933885,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,73,0,0,44,0,0,72,73,100.0,LANGUAGE <LL@li.org>
+sweep,1825,34,540,453,15,70,1797,2399,76.07336390162568,Russian <ru@li.org>
+swfdec-gnome,101,0,0,28,0,0,102,101,100.0,Russian <gnome-cyr@gnome.org>
+switchdesk,139,0,0,20,0,0,121,139,100.0,Russian <ru@li.org>
+sylpheed,6067,178,81,1527,58,18,5789,6326,95.9057856465381,Russian <Project-Id-Version: gtranslato>
+synaptic,3078,141,12,641,17,4,2900,3231,95.26462395543176,Russian <ru@li.org>
+synce-software-manager,133,0,1,11,0,2,89,134,99.25373134328358,Russian <ru@li.org>
+synce-trayicon,144,0,11,22,0,6,113,155,92.90322580645162,Russian <ru@li.org>
+synfig,1180,3,1090,469,3,270,1090,2273,51.9137703475583,Russian <gnome-cyr@lists.gnome.org>
+synfigstudio,2135,0,1301,787,0,242,2010,3436,62.13620488940629,Russian <gnome-cyr@lists.gnome.org>
+sysstat,447,0,0,51,0,0,450,447,100.0,Russian <gnu@mx.ru>
+system-config-audit,1241,0,0,267,0,0,1100,1241,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-bind,9419,0,0,1064,0,0,8314,9419,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-boot,50,0,69,13,0,10,42,119,42.016806722689076,<>
+system-config-date,1750,0,0,799,0,0,1787,1750,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-date-docs,728,0,0,53,0,0,603,728,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-display,415,0,0,69,0,0,344,415,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-firewall,2630,0,0,317,0,0,2274,2630,100.0,
+system-config-httpd,877,0,0,227,0,0,792,877,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-kdump,383,0,0,35,0,0,315,383,100.0,<ru@li.org>
+system-config-keyboard,187,0,0,81,0,0,173,187,100.0,<>
+system-config-kickstart,1039,0,0,264,0,0,909,1039,100.0,
+system-config-language,293,0,30,54,0,2,245,323,90.71207430340557,Russian <fedora-trans-ru@redhat.com>
+system-config-lvm,2246,0,0,344,0,0,2011,2246,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-netboot,1135,0,0,168,0,0,1035,1135,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-network,3022,0,0,718,0,0,2669,3022,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-nfs,332,0,0,72,0,0,298,332,100.0,
+system-config-nfs-docs,1185,0,0,66,0,0,976,1185,100.0,
+system-config-printer,3006,3,18,670,1,5,2689,3027,99.30624380574827,Russian <fedora-trans-ru@redhat.com>
+system-config-rootpassword,116,0,0,19,0,0,84,116,100.0,
+system-config-samba,535,0,0,130,0,0,495,535,100.0,Russian
+system-config-samba-docs,1188,0,0,62,0,0,945,1188,100.0,
+system-config-services,404,0,0,57,0,0,321,404,100.0,Russian <fedora-trans-ru@redhat.com>
+system-config-services-docs,638,0,0,28,0,0,507,638,100.0,
+system-config-users,1370,0,0,170,0,0,1146,1370,100.0,Russian
+system-config-users-docs,1054,0,0,77,0,0,856,1054,100.0,
+system-switch-java,81,0,0,11,0,0,73,81,100.0,
+system-switch-mail,134,0,0,20,0,0,108,134,100.0,
+tagtool,958,0,0,211,0,0,921,958,100.0,Russian <docteam@lafox.net>
+tangogps,183,115,272,96,71,103,177,570,32.10526315789474,
+tar,2961,64,222,491,10,31,2926,3247,91.19186941792424,Russian <gnu@mx.ru>
+tasks,89,0,380,53,0,147,89,469,18.976545842217483,Russian <ru@li.org>
+tasque,135,0,0,67,0,0,128,135,100.0,Russian <ru@li.org>
+tellico,5493,0,4,1127,0,2,4557,5497,99.92723303620157,Russian <kde-russian@lists.kde.ru>
+terminator,232,0,204,111,0,89,235,436,53.21100917431193,Russian (Russian Federation) <ru_RU@li.org>
+termit,33,0,10,13,0,2,29,43,76.74418604651163,ru_RU
+texlive,4382,0,0,564,0,0,4135,4382,100.0,Russian <ru@li.org>
+tgif,2439,554,13682,662,178,1724,2281,16675,14.626686656671664,Russian
+thunar-archive-plugin,52,12,22,8,2,3,67,86,60.46511627906976,Russian
+thunar-media-tags-plugin,144,0,0,49,0,0,137,144,100.0,Russian <ru@li.org>
+thunar-shares-plugin,180,1,0,33,1,0,198,181,99.4475138121547,ru_RU <ru@li.org>
+tigervnc,186,0,0,46,0,0,203,186,100.0,Russian
+tilda,396,0,0,107,0,0,387,396,100.0,Russian <ru@li.org>
+tin,7537,1,2160,1144,1,144,6994,9698,77.71705506289956,Russian <ru@li.org>
+tinyerp,352,313,473,131,116,86,327,1138,30.931458699472756,LANGUAGE <LL@li.org>
+tomboy,6912,0,0,669,0,0,6035,6912,100.0,Russian <gnome-cyr@gnome.org>
+tortoisehg,5769,0,253,1434,0,47,5646,6022,95.79873796081037,Russian <ru@li.org>
+totem,7246,0,0,867,0,0,6041,7246,100.0,Russian <gnome-cyr@gnome.org>
+totem-pl-parser,28,0,0,7,0,0,23,28,100.0,Russian <gnome-cyr@gnome.org>
+tpb,658,8,0,123,1,0,601,666,98.7987987987988,none
+tracker,755,46,57,169,15,13,720,858,87.99533799533799,Russian <gnome-cyr@gnome.org>
+transifex,14,137,1822,7,53,357,11,1973,0.7095793208312215,russian team <fedora-trans-ru@redhat.com>
+transmission,1642,0,0,449,0,0,1894,1642,100.0,Russian <gnome-cyr@gnome.org>
+tucan,114,0,0,41,0,0,114,114,100.0,
+turba,421,198,314,130,72,44,336,933,45.12325830653805,Russian <i18n@lists.horde.org>
+tuxmath,288,20,743,80,4,115,291,1051,27.402473834443384,
+tuxpaint,752,0,9,176,0,10,641,761,98.8173455978975,Dmitriy Ivanov <ace22b@myrealbox.com>
+tuxpaint-stamps,2296,149,172,537,59,30,1675,2617,87.7340466182652,
+tuxtype2,69,0,11,31,0,9,65,80,86.25,LANGUAGE <LL@li.org>
+tvtime,357,157,710,129,35,83,349,1224,29.166666666666668,Alexander Belov <asbel@mail.ru>
+ucview,480,0,0,149,0,0,465,480,100.0,Russian <ru@li.org>
+ufraw,2000,0,1,407,0,1,1937,2001,99.95002498750625,Russian <gnome-cyr@lists.gnome.org>
+uget,385,41,35,161,17,14,378,461,83.51409978308027,Russian <ru@li.org>
+unicap,147,0,9,91,0,3,165,156,94.23076923076923,Russian <ru@li.org>
+usermode,564,0,0,95,0,0,502,564,100.0,"Russian <fedora-trans-ru@redhat,com>"
+util-linux-ng,9708,2364,1732,1704,295,166,9407,13804,70.32744132135613,Russian <ru@li.org>
+vdr,832,0,0,337,0,0,784,832,100.0,Russian
+vdr-epgsearch,3,0,2278,3,0,364,3,2281,0.131521262604121,<vdr@linuxtv.org>
+vdr-femon,57,0,258,38,0,86,66,315,18.095238095238095,<vdr@linuxtv.org>
+vdr-osdteletext,40,1,0,18,1,0,37,41,97.5609756097561,Russian
+vdr-remote,48,0,0,11,0,0,49,48,100.0,<vdr@linuxtv.org>
+vdr-skinsoppalusikka,116,0,21,29,0,4,107,137,84.67153284671532,Russian <de@li.org>
+vdr-streamdev,69,0,15,27,0,6,69,84,82.14285714285714,<vdr@linuxtv.org>
+vdr-ttxtsubs,110,0,0,56,0,0,111,110,100.0,<vdr@linuxtv.org>
+vdradmin-am,3655,120,307,403,44,25,2960,4082,89.53944145026948,Allrussian <LL.org>
+vidalia,3698,0,5608,962,0,249,3288,9306,39.7378035675908,translations@vidalia-project.net
+viewnior,356,0,31,109,0,13,342,387,91.98966408268734,Russian <ru@li.org>
+viking,277,0,1466,109,0,370,256,1743,15.89213998852553,Russian <ru@li.org>
+vim,6704,0,0,1426,0,0,6933,6704,100.0,vassily ragosin <vrr@users.sourceforge.net>
+vinagre,1164,0,0,209,0,0,1062,1164,100.0,Russian <ru@li.org>
+vino,1215,0,0,136,0,0,1100,1215,100.0,Russian <gnome-cyr@gnome.org>
+virt-manager,587,1241,1922,171,373,327,505,3750,15.653333333333332,
+virt-top,351,0,0,73,0,0,336,351,100.0,Russian <fedora-trans-ru@redhat.com>
+virtaal,1171,0,0,314,0,0,1080,1171,100.0,Translate.org.za
+volume_key,726,0,0,149,0,0,719,726,100.0,Russian <fedora-trans-ru@redhat.com>
+vorbis-tools,1511,1089,776,246,49,91,1545,3376,44.757109004739334,Russian <ru@li.org>
+vte,116,0,0,20,0,0,134,116,100.0,<gnome-cyr@gnome.org>
+wallpapoz,387,0,8,100,0,1,416,395,97.9746835443038,Russian <translation-team-de@lists.sourceforge.net>
+wammu,1834,89,2359,323,31,436,1803,4282,42.830453059318074,Russian <ru@li.org>
+warzone2100,11052,89,1597,2574,24,121,10062,12738,86.76401318888367,Russian <>
+watchdog,97,0,0,6,0,0,78,97,100.0,Russian <debian-l10n-russian@lists.debian.org>
+webacula,970,0,13,328,0,13,928,983,98.67751780264497,
+webkitgtk,618,67,408,147,14,101,530,1093,56.541628545288205,Russian
+weechat,1266,6334,4477,194,849,336,1094,12077,10.482735778753002,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,173402,3627,35607,11702,178,1229,143572,212636,81.54874997648564,<ru@li.org>
+wget,1651,429,180,301,69,24,1631,2260,73.05309734513274,Russian <gnu@mx.ru>
+whaawmp,375,0,382,87,0,64,326,757,49.53764861294584,Russian <ru@li.org>
+widelands,5538,7060,4696,802,305,468,4893,17294,32.022666820862725,Russian <ru@li.org>
+workrave,998,146,31,181,38,15,821,1175,84.93617021276596,Sergey Kirkinsky <ksa@pfr.altai.ru>
+wormux,1317,508,91,258,55,14,1414,1916,68.73695198329854,Russian <ru@li.org>
+wput,1060,3,0,134,1,0,1067,1063,99.71777986829727,<ru@li.org>
+wxGTK,4815,802,874,1027,194,283,4553,6491,74.17963333846865,wx-translators <wx-translators@wxwidgets.org>
+wxMaxima,1163,833,837,376,266,114,1094,2833,41.05188845746559,
+wxPython,6545,828,1369,1577,204,406,6166,8742,74.86845115534203,wx-translators <wx-translators@wxwidgets.org>
+x-tile,510,0,0,104,0,0,462,510,100.0,Russian
+xarchiver,1131,0,0,277,0,0,1011,1131,100.0,ru_RU <ru@li.org>
+xcdroast,8037,7,0,844,4,0,6947,8044,99.91297861760319,Russian <ru@li.org>
+xchat,5013,10,4,1229,2,1,4484,5027,99.7215038790531,Russian <gnu@mx.ru>
+xchat-gnome,4030,0,0,1040,0,0,3707,4030,100.0,Russian <gnome-cyr@gnome.org>
+xchm,145,28,72,60,12,20,127,245,59.183673469387756,Russian <ru@li.org>
+xdg-user-dirs,26,2,0,26,2,0,30,28,92.85714285714286,Russian <gnu@mx.ru>
+xdialog,20,0,1,14,0,1,19,21,95.23809523809523,Russian
+xdrawchem,940,350,1119,311,66,159,921,2409,39.02034039020341,Russian <ru@li.org>
+xfburn,1285,5,10,279,3,1,1095,1300,98.84615384615385,Russian <ru@li.org>
+xfce-utils,131,0,0,36,0,0,132,131,100.0,Russian <ru@li.org>
+xfce4-appfinder,84,0,0,19,0,0,86,84,100.0,Russian
+xfce4-clipman-plugin,12,21,201,4,8,30,13,234,5.128205128205128,Russian <xfce-i18n-ru@xfce.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Russian
+xfce4-icon-theme,8,0,0,2,0,0,8,8,100.0,Russian <ru@li.org>
+xfce4-mailwatch-plugin,215,45,399,66,7,37,228,659,32.62518968133536,Russian <ru@li.org>
+xfce4-mixer,42,23,116,12,7,18,40,181,23.204419889502763,Russian <ru@li.org>
+xfce4-mount-plugin,13,27,258,7,9,28,13,298,4.3624161073825505,Russian <xfce-i18n@xfce.org>
+xfce4-mpc-plugin,80,0,0,24,0,0,76,80,100.0,Russian <xfce4-dev@xfce.org>
+xfce4-panel,540,0,0,167,0,0,525,540,100.0,Russian
+xfce4-places-plugin,75,0,0,32,0,0,82,75,100.0,Russian <xfce-i18n-ru@xfce.org>
+xfce4-power-manager,694,0,0,155,0,0,666,694,100.0,Russian
+xfce4-quicklauncher-plugin,28,0,15,9,0,8,30,43,65.11627906976744,Russian <ru@li.org>
+xfce4-radio-plugin,56,0,0,23,0,0,55,56,100.0,Russian
+xfce4-remmina-plugin,136,0,0,12,0,0,140,136,100.0,Russian <ru@li.org>
+xfce4-screenshooter,454,0,3,76,0,1,415,457,99.34354485776805,Russian
+xfce4-sensors-plugin,259,20,67,64,3,4,249,346,74.85549132947978,Russian <ru@li.org>
+xfce4-session,953,0,35,192,0,5,834,988,96.45748987854252,ru_RU <ru@li.org>
+xfce4-settings,1128,0,0,237,0,0,987,1128,100.0,Russian
+xfce4-taskmanager,21,4,42,15,2,14,22,67,31.343283582089555,Russian <ru@li.org>
+xfce4-timer-plugin,81,7,6,28,2,2,64,94,86.17021276595744,Russian <ru@li.org>
+xfce4-verve-plugin,39,8,0,9,1,0,35,47,82.97872340425532,ru_RU <ru@li.org>
+xfce4-websearch-plugin,13,0,0,5,0,0,17,13,100.0,Russian <ru@li.org>
+xfce4-xfapplet-plugin,84,0,0,14,0,0,69,84,100.0,Russian
+xfce4-xfswitch-plugin,20,0,0,3,0,0,17,20,100.0,Russian <xfce-i18n-ru@xfce.org>
+xfce4-xkb-plugin,64,0,0,18,0,0,58,64,100.0,Russian <xfce-i18n-ru@xfce.org>
+xfconf,431,0,0,62,0,0,394,431,100.0,Russian
+xfdesktop,1002,0,2,266,0,2,952,1004,99.800796812749,Russian <ru@li.org>
+xfprint,264,1,57,108,1,4,264,322,81.98757763975155,Russian <ru@li.org>
+xfwm4,797,0,0,224,0,0,862,797,100.0,Russian
+xine-ui,2868,60,47,618,10,8,2674,2975,96.40336134453781,Russian <docteam@lafox.net>
+xiphos,2593,208,1014,725,39,62,2382,3815,67.96854521625164,Russian <kde-russian@lists.kde.ru>
+xkeyboard-config,1907,0,0,692,0,0,2094,1907,100.0,Russian <gnu@mx.ru>
+xmlcopyeditor,1354,0,0,406,0,0,1416,1354,100.0,team <team@email.com>
+xmms,3140,65,238,986,17,42,3100,3443,91.19953528899217,Russian
+xmoto,3307,0,222,702,0,44,2864,3529,93.70926608104278,ru
+xneur,1355,0,0,209,0,0,1381,1355,100.0,Russian
+xpad,363,0,0,77,0,0,336,363,100.0,RU <RU@li.org>
+xqf,1274,58,172,390,24,26,1251,1504,84.70744680851064,Russian
+xsane,2358,764,102,588,113,27,2301,3224,73.13895781637717,Russian <ru@li.org>
+xscreensaver,739,312,10139,229,137,1468,730,11190,6.604110813226096,Russian
+yakuake,819,0,469,151,0,48,699,1288,63.58695652173913,Russian <kde-russian@lists.kde.ru>
+yelp,1094,0,0,357,0,0,1051,1094,100.0,Russian <ru@li.org>
+yum,2527,38,0,560,9,0,2381,2565,98.51851851851852,ru <fedora-localization@www.russianfedora.ru>
+yum-arch,1176,0,0,186,0,0,1045,1176,100.0,Russian <ru@li.org>
+yum-rhn-plugin,62,0,45,9,0,5,51,107,57.943925233644855,
+yumex,10,11,587,2,3,188,11,608,1.644736842105263,Russian <fedora-trans-ru@redhat.com>
+zaz,193,0,36,89,0,18,180,229,84.27947598253274,RUSSIAN <RU@li.org>
+zenity,2889,0,0,382,0,0,2629,2889,100.0,Russian <gnome-cyr@gnome.org>

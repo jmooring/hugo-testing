@@ -1,0 +1,96 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+LabPlot,14953,1331,400,2968,113,48,16276,16684,89.6247902181731,Português Brasileiro <pt_BR@li.org>
+Miro,2353,0,983,547,0,177,2599,3336,70.53357314148681,Breton <br@li.org>
+alacarte,33,0,9,15,0,1,35,42,78.57142857142857,Breton <br@li.org>
+audacious,195,174,928,141,95,177,228,1297,15.034695451040864,Brezhoneg <LL@li.org>
+banshee,1159,393,2650,522,136,436,1421,4202,27.58210376011423,Breton <br@li.org>
+brasero,5249,0,253,955,0,37,6003,5502,95.40167211922937,An Drouizig <drouizig@drouizig.org>
+control-center,1778,242,1225,542,43,201,2071,3245,54.7919876733436,Brenux <brenux@free.fr>
+deskbar-applet,425,41,1199,205,7,145,500,1665,25.525525525525527,Breton <br@li.org>
+eel2,217,2,16,49,1,2,234,235,92.34042553191489,GNOME Breton Team <jeremy.lefloch@gmail.com>
+eina,13,4,991,10,2,241,13,1008,1.2896825396825395,Breton <br@li.org>
+empathy,833,45,1399,376,16,179,956,2277,36.583223539745276,Brenux <brenux@free.fr>
+eog,467,0,973,183,0,111,555,1440,32.43055555555556,Breton <br@li.org>
+epiphany,1751,0,1250,574,0,163,1984,3001,58.347217594135294,Brenux <brenux@free.fr>
+evince,572,15,673,199,4,122,677,1260,45.3968253968254,Breton
+fantasdic,69,0,0,34,0,0,92,69,100.0,GNOME Breton team <jeremy.lefloch@gmail.com>
+file-roller,1062,5,210,248,1,37,1164,1277,83.1636648394675,Brenux <brenux@free.fr>
+frozen-bubble,96,1,601,52,1,95,110,698,13.753581661891118,br <LL@li.org>
+gajim,2990,2876,4698,693,656,657,3239,10564,28.30367285119273,
+gcompris,10243,1,0,1190,1,0,11270,10244,99.99023818820774,An Drouizig <drouizig@drouizig.org>
+gconf-editor,244,4,88,84,1,13,308,336,72.61904761904762,Brenux <brenux@free.fr>
+gdm,187,8,1108,77,2,154,247,1303,14.351496546431312,Breton <br@li.org>
+gedit,2495,787,1681,787,103,214,2806,4963,50.27201289542616,Brenux <brenux@free.fr>
+glunarclock,231,0,0,71,0,0,270,231,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gnome-applets,1849,0,1518,505,0,286,2200,3367,54.91535491535492,Breton <brenux@free.fr>
+gnome-desktop,339,0,0,51,0,0,397,339,100.0,GNOME Breton Team <jeremy.lefloch@gmail.com>
+gnome-do,76,0,394,24,0,95,76,470,16.170212765957448,Breton <br@li.org>
+gnome-games,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+gnome-mag,24,0,274,16,0,26,30,298,8.053691275167784,GNOME Breton Team <francis.tyers@hp.com>
+gnome-media,574,9,607,203,4,80,652,1190,48.23529411764706,Brenux <brenux@free.fr>
+gnome-menus,161,0,0,57,0,0,190,161,100.0,GNOME Breton Team <jeremy.lefloch@gmail.com>
+gnome-panel,1786,0,2811,422,0,203,2126,4597,38.85142484228845,Brenux <brenux@free.fr>
+gnome-screensaver,386,7,589,86,3,66,445,982,39.307535641547865,Breton <br@li.org>
+gnome-session,668,7,0,112,1,0,732,675,98.96296296296296,Brenux <brenux@free.fr>
+gnome-settings-daemon,129,20,1469,65,6,172,160,1618,7.972805933250927,GNOME Breton team <jeremy.lefloch@gmail.com>
+gnome-themes,36,0,73,14,0,16,50,109,33.02752293577982,Breton <br@li.org>
+gnome-utils,399,13,3902,210,3,513,499,4314,9.248956884561892,Breton <br@li.org>
+gparted,318,0,1087,141,0,159,361,1405,22.63345195729537,Breton <br@li.org>
+gtk2,1334,40,11984,695,14,2024,1551,13358,9.98652492888157,brenux <brenux@free.fr>
+gucharmap,178,0,625,116,0,182,206,803,22.166874221668742,Breton <br@li.org>
+homebank,75,0,1432,67,0,467,79,1507,4.97677504976775,Breton <br@li.org>
+inkscape,24035,0,0,4980,0,0,28105,24035,100.0,An Drouizig - www.drouizig.org <alan.monfort@free.fr>
+iso-codes,1872,100,11182,1263,40,7722,1878,13154,14.231412498099438,Breton <brenux@free.fr>
+k3b,2915,823,16883,1104,193,1233,3727,20621,14.136074875127298,br <LL@li.org>
+kcoloredit,9,90,179,6,29,60,14,278,3.237410071942446,br <LL@li.org>
+kdetv,478,0,1728,228,0,255,572,2206,21.668177697189485,br <LL@li.org>
+kdiff3,341,66,3003,146,37,440,475,3410,10.0,br <LL@li.org>
+kdissert,243,0,1784,131,0,151,280,2027,11.988159842131228,br <LL@li.org>
+kerry,166,23,513,91,7,85,197,702,23.646723646723647,br <LL@li.org>
+keurocalc,195,0,96,86,0,30,214,291,67.0103092783505,br <LL@li.org>
+kftpgrabber,607,85,1545,303,27,250,735,2237,27.134555207867677,br <LL@li.org>
+kiconedit,642,7,77,136,2,17,663,726,88.42975206611571,Brezhoneg <Suav.Icb@wanadoo.fr>
+kio_gopher,8,1,8,2,1,2,11,17,47.05882352941176,br <LL@li.org>
+kiosktool,123,3,2163,57,2,179,149,2289,5.373525557011796,br <LL@li.org>
+kmid,523,3,9,210,1,3,544,535,97.75700934579439,Brezhoneg <Suav.Icb@wanadoo.fr>
+knemo,102,114,887,67,57,183,111,1103,9.247506799637353,br <LL@li.org>
+knetstats,61,0,58,42,0,11,80,119,51.26050420168067,br <LL@li.org>
+konq-plugins,547,38,963,283,13,210,678,1548,35.33591731266149,br <LL@li.org>
+kpilot,564,502,6090,208,145,508,670,7156,7.881498043599776,Breton <LL@li.org>
+krecipes,640,33,2414,318,11,239,781,3087,20.732102364755427,br <LL@li.org>
+ksig,30,0,55,16,0,10,37,85,35.294117647058826,br <LL@li.org>
+kst,1406,1159,4881,719,350,743,1634,7446,18.882621541767392,br <LL@li.org>
+leafpad,125,0,0,68,0,0,158,125,100.0,Breton Team <brenux@free.fr>
+libbonobo,470,0,73,101,0,6,585,543,86.55616942909761,GNOME Breton Team <jeremy.lefloch@gmail.com>
+libbonoboui,86,0,282,49,0,66,97,368,23.369565217391305,Breton <br@li.org>
+libgnome,203,3,1611,56,1,224,235,1817,11.172261970280681,Breton <br@li.org>
+libgnomeui,129,32,1258,89,12,244,144,1419,9.090909090909092,br <LL@li.org>
+libkexif,25,0,0,14,0,0,31,25,100.0,br <LL@li.org>
+listen,380,1,1402,190,1,358,427,1783,21.31239484015704,French <traduc@traduc.org>
+lxmenu-data,59,12,26,24,4,9,76,97,60.824742268041234,GNOME Breton Team <jeremy.lefloch@gmail.com>
+metacity,745,5,3115,165,2,246,899,3865,19.27554980595084,Brenux <brenux@free.fr>
+mingw32-gtk2,1334,40,11977,695,14,2022,1551,13351,9.99176091678526,brenux <brenux@free.fr>
+mutter,628,54,1755,155,10,195,741,2437,25.7693885925318,Brenux <brenux@free.fr>
+nautilus,3142,0,5480,838,0,551,3480,8622,36.44166086754813,Breton <br@li.org>
+nautilus-sendto,98,0,218,33,0,34,112,316,31.0126582278481,Breton <br@li.org>
+pessulus,86,0,44,30,0,3,108,130,66.15384615384615,Brenux <Brenux@free.fr>
+poedit,1017,119,26,242,25,2,1140,1162,87.52151462994836,Breton <drouizig@drouizig.org>
+pootle,134,199,2091,65,44,350,149,2424,5.528052805280528,LANGUAGE <LL@li.org>
+pyroom,16,0,395,6,0,68,17,411,3.8929440389294405,Breton <br@li.org>
+rhythmbox,2283,14,2240,731,3,335,2733,4537,50.31959444566895,Breton <br@li.org>
+sabayon,114,16,606,54,3,109,137,736,15.489130434782608,Brenux <brenux@free.fr>
+seahorse,929,13,2117,381,3,272,1137,3059,30.36940176528277,Britton <br@li.org>
+seahorse-plugins,457,0,702,152,0,95,556,1159,39.43054357204487,Breton <br@li.org>
+showimg,1332,82,2891,527,20,332,1614,4305,30.940766550522646,br <LL@li.org>
+sound-juicer,550,16,456,158,2,38,664,1022,53.8160469667319,GNOME Breton team <jeremy.lefloch@gmail.com>
+soundconverter,46,29,375,27,6,76,51,450,10.222222222222223,Breton <br@li.org>
+stellarium,950,0,434,328,0,83,1059,1384,68.64161849710982,Breton <jeremy.lefloch@gmail.com>
+swfdec-gnome,25,0,76,13,0,15,28,101,24.752475247524753,Brenux <brenux@free.fr>
+tomboy,260,6,2585,137,5,272,314,2851,9.119607155384076,Breton translation team <Brenux@free.fr>
+totem,924,63,1712,353,13,237,1062,2699,34.23490181548722,GNOME Breton team <jeremy.lefloch@gmail.com>
+totem-pl-parser,28,0,0,7,0,0,23,28,100.0,Brenux <brenux@free.fr>
+transmission,17,0,1625,14,0,435,26,1642,1.0353227771010962,Breton <br@li.org>
+tuxpaint,399,190,172,109,26,51,415,761,52.431011826544015,Breton <drouizig@drouizig.org>
+tuxpaint-stamps,0,0,2617,0,0,626,0,2617,0.0,
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>
+yelp,176,42,876,100,22,235,215,1094,16.087751371115175,Britton

@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+akonadi-googledata,57,24,5,12,5,1,50,86,66.27906976744185,Serbian <kde-i18n-sr@kde.org>
+amarok,14347,53,0,2589,4,0,13935,14400,99.63194444444444,Serbian <kde-i18n-sr@kde.org>
+bluedevil,601,3,0,192,2,0,586,604,99.50331125827815,Serbian <kde-i18n-sr@kde.org>
+k3b,20429,0,0,2522,0,0,18838,20429,100.0,Serbian <kde-i18n-sr@kde.org>
+kaffeine,448,74,68,205,43,9,461,590,75.9322033898305,Serbian <kde-i18n-sr@kde.org>
+kaudiocreator,1123,8,5,270,1,2,1042,1136,98.8556338028169,Serbian <kde-i18n-sr@kde.org>
+kde-l10n,236916,0,0,48303,0,0,227527,236916,100.0,Serbian <kde-i18n-sr@kde.org>
+kmid2,947,0,0,311,0,0,902,947,100.0,sr <kde-i18n-sr@kde.org>
+knemo,912,119,155,263,38,46,860,1186,76.89713322091062,Serbian <kde-i18n-sr@kde.org>
+knights,555,0,0,168,0,0,522,555,100.0,Serbian <kde-i18n-sr@kde.org>
+konversation,10108,19,57,1558,7,6,9349,10184,99.25373134328358,Serbian <kde-i18n-sr@kde.org>
+ktorrent,7950,0,0,1343,0,0,6661,7950,100.0,Serbian <kde-i18n-sr@kde.org>
+kwebkitpart,457,18,2,121,2,1,429,477,95.80712788259959,Serbian <kde-i18n-sr@kde.org>
+libktorrent,507,0,0,113,0,0,543,507,100.0,Serbian <kde-i18n-sr@kde.org>
+polkit-kde,82,0,10,22,0,4,71,92,89.13043478260869,Serbian <kde-i18n-sr@kde.org>
+rekonq,1422,62,133,345,19,26,1381,1617,87.94063079777365,Serbian <kde-i18n-sr@kde.org>

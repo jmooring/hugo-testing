@@ -1,0 +1,77 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,1,0,8016,1,0,1352,1,8017,0.012473493825620557,Tibetan (http://www.transifex.com/projects/p/anaconda/language/bo/)
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,503,51,447,124,11,43,246,1001,50.24975024975025,bo <translation-team-bo@lists.sourceforge.net>
+deja-dup,0,0,1623,0,0,285,0,1623,0.0,Tibetan <bo@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+duplicity,0,0,2215,0,0,319,0,2215,0.0,Tibetan <bo@li.org>
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,86,0,1065,5,0,252,15,1151,7.471763683753258,Tibetan <https://l10n.elementary.io/projects/code/code/bo/>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,3023,0,0,585,0,3023,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+entangle,0,0,953,0,0,229,0,953,0.0,Tibetan
+fragments,0,0,2006,0,0,526,0,2006,0.0,Tibetan (https://www.transifex.com/transmissionbt/teams/33778/bo/)
+gala,0,0,197,0,0,42,0,197,0.0,none
+granite,0,0,269,0,0,88,0,269,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tibetan
+libreoffice,267149,15282,308220,38485,6511,35100,68581,590651,45.22958566056774,LANGUAGE <LL@li.org>
+libvirt-glib,0,0,158,0,0,31,0,158,0.0,Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+lightdm,0,0,163,0,0,21,0,163,0.0,Tibetan <bo@li.org>
+lightdm-gtk,0,0,87,0,0,25,0,87,0.0,Tibetan <bo@li.org>
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/)
+nautilus,6259,823,321,1031,115,46,2219,7403,84.54680534918276,Tibetan <bo@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-fedora,0,0,214,0,0,29,0,214,0.0,Tibetan
+python-meh,0,0,109,0,0,23,0,109,0.0,Tibetan
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/)
+simple-scan,325,0,264,87,0,58,208,589,55.178268251273344,Tibetan <bo@li.org>
+slick-greeter,0,0,211,0,0,47,0,211,0.0,Tibetan <bo@li.org>
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,25,11,177,21,8,94,23,213,11.737089201877934,LANGUAGE <LL@li.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+transmission,0,0,1998,0,0,523,0,1998,0.0,Tibetan (https://www.transifex.com/transmissionbt/teams/33778/bo/)
+tuxpaint,61,41,1560,58,20,227,110,1662,3.6702767749699152,none
+virt-viewer,0,0,854,0,0,193,0,854,0.0,Tibetan
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none

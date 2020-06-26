@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,4,0,6833,1,0,1679,4,6837,0.0585051923358198,English (South Africa) <en_ZA@li.org>
+iso-codes,738,21,12,475,7,5,716,771,95.71984435797665,Tamil <gnome-tamil-translation@googlegroups.com>
+libreoffice,350262,16049,224340,47630,5987,26479,349604,590651,59.30100854819512,LANGUAGE <LL@li.org>
+tuxpaint,583,1019,60,176,107,22,571,1662,35.07821901323707,English (South African) <en_za@li.org>

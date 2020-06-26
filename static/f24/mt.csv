@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,316,0,151948,289,0,17444,316,152264,0.20753428256186623,Maltese (http://www.transifex.com/calibre/calibre/language/mt/)
+dnfdragora,146,0,403,108,0,160,151,549,26.59380692167577,Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/)
+gettext,368,20,50,72,2,14,366,438,84.01826484018264,Maltese <translation-team-mt@lists.sourceforge.net>
+gnome-do,62,0,550,16,0,128,62,612,10.130718954248366,Maltese <mt@li.org>
+gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,60,40,134,10,7,17,55,234,25.64102564102564,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-good,362,249,158,47,32,30,342,769,47.074122236671,Maltese <translation-team-mt@lists.sourceforge.net>
+iso-codes,752,7099,7856,633,5218,4330,757,15707,4.787674285350481,Maltese <mt@li.org>
+koffice-kivio,1910,1752,4755,559,762,1040,1775,8417,22.69217060710467,Maltese <mt@li.org>
+libkexif,21,4,0,13,1,0,22,25,84.0,Maltese <mt@li.org>
+mingw-gettext,368,20,50,72,2,14,366,438,84.01826484018264,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,60,40,134,10,7,17,55,234,25.64102564102564,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,362,249,158,47,32,30,342,769,47.074122236671,Maltese <translation-team-mt@lists.sourceforge.net>
+oggconvert,123,0,9,40,0,4,118,132,93.18181818181817,Maltese <mt@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+stellarium,68,0,23464,65,0,5742,69,23532,0.28896821349651536,Maltese <mt@li.org>
+sysstat,412,0,0,51,0,0,432,412,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+transmission,19,0,1790,11,0,483,19,1809,1.0503040353786623,Maltese <mt@li.org>

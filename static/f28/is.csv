@@ -1,0 +1,725 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,1159,133,2662,178,22,261,1217,3954,29.312089023773396,Icelandic <gnome@techattack.nu>
+Thunar,3640,0,561,723,0,16,3357,4201,86.64603665793858,Icelandic (https://www.transifex.com/xfce/teams/16840/is/)
+abrt,0,0,3230,0,0,390,0,3230,0.0,Icelandic (http://www.transifex.com/projects/p/fedora-abrt/language/is/)
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+aisleriot,3075,0,0,679,0,0,2196,3075,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+akonadi-calendar-tools,347,96,97,77,17,16,341,540,64.25925925925927,Icelandic <kde-isl@molar.is>
+akregator,870,468,436,226,118,87,856,1774,49.04171364148816,Icelandic <kde-isl@molar.is>
+anaconda,119,0,7432,24,0,1231,115,7551,1.575950205270825,Icelandic (http://www.transifex.com/projects/p/anaconda/language/is/)
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+ark,432,734,684,98,134,103,437,1850,23.35135135135135,Icelandic <kde-isl@molar.is>
+asunder,13,0,482,13,0,78,13,495,2.6262626262626263,http://littlesvr.ca/ostd/
+atk,31,96,248,31,48,47,32,375,8.266666666666666,Icelandic <gnome@techattack.nu>
+atomix,125,0,0,44,0,0,127,125,100.0,Icelandic <gnome@techattack.nu>
+atril,193,0,3638,99,0,536,217,3831,5.037849125554685,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+audience,0,0,106,0,0,48,0,106,0.0,
+authconfig,615,16,298,96,2,39,574,929,66.20021528525297,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+backintime,686,0,1297,244,0,92,741,1983,34.5940494200706,Icelandic <translation-team-is@lists.sourceforge.net>
+baobab,247,0,0,65,0,0,245,247,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+bijiben,309,0,0,103,0,0,325,309,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+blinken,81,26,26,26,12,9,70,133,60.902255639097746,Icelandic <kde-isl@molar.is>
+blivet-gui,0,0,815,0,0,223,0,815,0.0,Icelandic
+blueberry,141,0,0,34,0,0,166,141,100.0,Icelandic <is@li.org>
+bomber,0,24,79,0,9,18,0,103,0.0,Icelandic <translation-team-is@lists.sourceforge.net>
+bovo,0,7,74,0,5,20,0,81,0.0,Icelandic <translation-team-is@lists.sourceforge.net>
+brasero,2636,0,2910,669,0,299,2505,5546,47.529751172015864,Icelandic <translation-team-is@lists.sourceforge.org>
+byobu,177,0,0,44,0,0,173,177,100.0,Icelandic <is@li.org>
+caja,7178,0,2178,1343,0,174,6929,9356,76.72082086361694,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+caja-extensions,278,0,292,73,0,58,279,570,48.771929824561404,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+calamares,50,0,393,11,0,73,45,443,11.286681715575622,Icelandic (https://www.transifex.com/calamares/teams/20061/is/)
+calibre,28471,0,130289,11066,0,7168,27271,158760,17.933358528596624,Icelandic (http://www.transifex.com/calibre/calibre/language/is/)
+calligra,2278,12984,13877,654,3511,1538,1962,29139,7.817701362435224,Icelandic <kde-isl@molar.is>
+catfish,391,0,286,99,0,12,378,677,57.754800590841946,Icelandic <is@li.org>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Icelandic (http://www.transifex.com/projects/p/certmonger/language/is/)
+cervisia,40,25,0,10,6,0,45,65,61.53846153846154,Icelandic <kde-isl@molar.is>
+cgit,81,0,0,14,0,0,80,81,100.0,Git Mailing List <git@vger.kernel.org>
+cheese,614,0,0,123,0,0,566,614,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+chkconfig,477,0,78,91,0,12,481,555,85.94594594594595,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+choqok,0,1011,1246,0,291,278,0,2257,0.0,Icelandic <kde-isl@molar.is>
+cinnamon-control-center,1298,9,6,750,5,1,1154,1313,98.85757806549886,Icelandic <rglug@rglug.org>
+cinnamon-desktop,16,1,217,3,1,28,18,234,6.837606837606838,Icelandic <kde-isl@molar.is>
+cinnamon-translations,22473,0,0,5031,0,0,22377,22473,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+clementine,511,0,4580,246,0,1106,533,5091,10.037320762129248,Icelandic (http://www.transifex.com/davidsansome/clementine/language/is/)
+clipit,218,0,0,74,0,0,220,218,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+colord,388,0,1598,112,0,140,337,1986,19.536757301107755,Icelandic (http://www.transifex.com/freedesktop/colord/language/is/)
+console-setup,985,0,0,175,0,0,914,985,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+dconf-editor,136,39,1289,19,17,151,118,1464,9.289617486338798,Icelandic <translation-team-is@lists.sourceforge.net>
+debconf,191,0,0,17,0,0,197,191,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+deepin-metacity,1767,0,429,279,0,34,1764,2196,80.46448087431693,Icelandic <translation-team-is@lists.sourceforge.net>
+deepin-mutter,599,73,6247,130,22,312,631,6919,8.657320422026304,Icelandic <gnome@techattack.nu>
+deepin-terminal,31,0,0,5,0,0,39,31,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+deluge,1179,0,1549,437,0,441,1205,2728,43.21847507331378,Icelandic <is@li.org>
+devhelp,184,0,38,45,0,8,155,222,82.88288288288288,Icelandic <gnome@techattack.nu>
+dia,136,94,5481,100,63,1883,140,5711,2.3813692873402204,Icelandic <gnome@techattack.nu>
+dialog,25,0,0,23,0,0,28,25,100.0,Icelandic <(nothing)>
+digikam,45116,139,1630,7548,11,43,42660,46885,96.22693825317266,Icelandic <translation-team-is@lists.sourceforge.net>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Icelandic
+dnfdragora,177,0,682,124,0,240,159,859,20.60535506402794,Icelandic (https://www.transifex.com/MageiaLinux/teams/9361/is/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Icelandic
+dolphin,1475,56,65,474,25,14,1412,1596,92.41854636591479,Icelandic <translation-team-is@lists.sourceforge.net>
+dragon,275,3,0,86,1,0,272,278,98.92086330935251,Icelandic <translation-team-is@lists.sourceforge.net>
+ekiga,86,0,6256,49,0,747,89,6342,1.3560391043834754,Icelandic <gnome@techattack.nu>
+elementary-calculator,15,0,65,9,0,28,17,80,18.75,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,449,0,0,180,0,449,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,Icelandic <is@li.org>
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+elinks,349,1471,10425,165,470,990,341,12245,2.850142915475704,Icelandic <kde-isl@mmedia.is>
+empathy,1597,0,2616,616,0,334,1631,4213,37.90647994303347,Icelandic <translation-team-is@lists.sourceforge.net>
+engrampa,717,0,7102,194,0,626,706,7819,9.169970584473717,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+entangle,0,0,953,0,0,229,0,953,0.0,Icelandic
+eog,1675,0,0,327,0,0,1590,1675,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+eom,1596,0,3525,321,0,220,1519,5121,31.165787932044527,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+epiphany,518,83,1988,266,28,301,517,2589,20.00772499034376,Icelandic <translation-team-is@lists.sourceforge.net>
+evince,1560,0,0,392,0,0,1581,1560,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+evolution,5659,1759,17244,2141,635,2392,5505,24662,22.946233071121565,Icelandic <translation-team-is@lists.sourceforge.net>
+evolution-data-server,766,154,4502,314,46,737,686,5422,14.127628181482848,Icelandic <translation-team-is@lists.sourceforge.net>
+exif,296,0,0,68,0,0,293,296,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+exo,1197,0,254,274,0,24,1091,1451,82.4948311509304,Icelandic (http://www.transifex.com/xfce/exo/language/is/)
+falkon,3236,452,467,1078,98,136,3278,4155,77.8820697954272,
+file-roller,1201,0,0,275,0,0,1158,1201,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+filezilla,2101,18,7071,773,4,783,2168,9190,22.861806311207836,icelandic <openoffice@openoffice.is>
+five-or-more,85,88,109,22,28,15,66,282,30.141843971631204,Icelandic <gnome@techattack.nu>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Icelandic
+four-in-a-row,87,49,120,30,21,22,83,256,33.984375,Icelandic <gnome@techattack.nu>
+fwbackups,3,0,3495,3,0,514,3,3498,0.08576329331046312,Icelandic (http://www.transifex.com/Magic/fwbackups/language/is/)
+garcon,109,0,0,34,0,0,106,109,100.0,Icelandic (http://www.transifex.com/xfce/garcon/language/is/)
+gaupol,1488,0,512,532,0,66,1536,2000,74.4,Icelandic (https://www.transifex.com/otsaloma/teams/64879/is/)
+gcr,0,0,622,0,0,227,0,622,0.0,Icelandic <gnome@techattack.nu>
+gdesklets,48,0,1480,21,0,183,44,1528,3.1413612565445024,Icelandic <gnome@techattack.nu>
+gdk-pixbuf2,1409,0,0,211,0,0,1383,1409,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gdm,629,0,0,88,0,0,636,629,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gedit,3867,0,399,712,0,10,3581,4266,90.64697609001406,Icelandic <translation-team-is@lists.sourceforge.net>
+gedit-plugins,4,207,994,4,98,367,4,1205,0.33195020746887965,Icelandic <gnome@techattack.nu>
+gegl03,626,0,6543,345,0,1139,600,7169,8.732040730924815,Icelandic <translation-team-is@lists.sourceforge.net>
+gegl04,626,0,6543,345,0,1139,600,7169,8.732040730924815,Icelandic <translation-team-is@lists.sourceforge.net>
+ggz-gtk-client,7,0,0,7,0,0,7,7,100.0,Icelandic <gnome@techattack.nu>
+gigolo,202,0,319,105,0,37,196,521,38.771593090211134,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+gimp,22992,16,6116,6357,12,1013,21822,29124,78.94519983518748,Icelandic <translation-team-is@lists.sourceforge.net>
+gimp-gap,1113,27,15760,649,12,1898,1137,16900,6.585798816568047,Icelandic <translation-team-is@lists.sourceforge.net>
+git,81,0,0,14,0,0,80,81,100.0,Git Mailing List <git@vger.kernel.org>
+git-cinnabar,81,0,0,14,0,0,80,81,100.0,Git Mailing List <git@vger.kernel.org>
+glib2,788,917,4034,163,160,589,744,5739,13.730615089736888,Icelandic <translation-team-is@lists.sourceforge.net>
+glpi,1720,0,11275,634,0,2686,1587,12995,13.235859946133127,Icelandic (Iceland) (https://www.transifex.com/glpi/teams/1637/is_IS/)
+gnome-backgrounds,29,0,0,18,0,0,25,29,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-bluetooth,373,0,0,111,0,0,359,373,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-calendar,649,0,12,219,0,1,641,661,98.18456883509835,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-characters,186,0,0,58,0,0,192,186,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-chess,15,184,1191,7,64,166,9,1390,1.079136690647482,Icelandic <gnome@techattack.nu>
+gnome-clocks,283,0,0,100,0,0,276,283,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-color-manager,1796,0,0,345,0,0,1706,1796,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-contacts,433,0,0,157,0,0,433,433,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-control-center,6526,9,6,2249,5,1,6248,6541,99.77067726647302,Icelandic <rglug@rglug.org>
+gnome-desktop,249,0,102,42,0,11,259,351,70.94017094017094,Icelandic <kde-isl@molar.is>
+gnome-desktop3,146,0,0,23,0,0,137,146,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-dictionary,167,0,494,77,0,61,177,661,25.264750378214828,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-disk-utility,817,0,2688,315,0,334,841,3505,23.309557774607704,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-do,473,0,139,119,0,25,499,612,77.2875816993464,Icelandic <is@li.org>
+gnome-documents,655,0,0,208,0,0,668,655,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-font-viewer,113,0,0,29,0,0,113,113,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-icon-theme,34,2,16,31,1,14,35,52,65.38461538461539,Icelandic <gnome@techattack.nu>
+gnome-initial-setup,849,0,0,126,0,0,800,849,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-keyring,0,0,490,0,0,109,0,490,0.0,Icelandic <gnome@techattack.nu>
+gnome-klotski,1,51,142,1,26,32,1,194,0.5154639175257731,Icelandic <gnome@techattack.nu>
+gnome-mahjongg,2736,1448,2882,677,496,525,2162,7066,38.720634022077554,Icelandic <gnome@techattack.nu>
+gnome-maps,1186,0,0,304,0,0,1202,1186,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-menus,161,0,0,57,0,0,157,161,100.0,Icelandic
+gnome-mime-data,857,21,9,351,8,3,760,887,96.61781285231116,Icelandic <gnome@techattack.nu>
+gnome-mines,344,0,0,72,0,0,337,344,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-music,529,0,0,114,0,0,522,529,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-nibbles,2736,1448,2882,677,496,525,2162,7066,38.720634022077554,Icelandic <gnome@techattack.nu>
+gnome-online-accounts,812,0,331,291,0,43,791,1143,71.0411198600175,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-packagekit,700,0,2893,261,0,322,707,3593,19.482326746451434,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-photos,535,0,0,216,0,0,579,535,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-power-manager,7,65,360,3,23,118,5,432,1.6203703703703702,Icelandic
+gnome-robots,597,0,0,97,0,0,556,597,100.0,Icelandic <translation-team-is@lists.sourceforge.org>
+gnome-screensaver,955,0,0,152,0,0,915,955,100.0,Icelandic
+gnome-screenshot,457,0,0,80,0,0,478,457,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-session,299,0,0,50,0,0,323,299,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-settings-daemon,1509,0,907,357,0,49,1537,2416,62.45860927152318,Icelandic <translation-team-is@lists.sourceforge.org>
+gnome-shell,1422,0,269,393,0,13,1455,1691,84.09225310467178,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-shell-extensions,388,0,0,70,0,0,385,388,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-software,325,2,2129,222,2,325,347,2456,13.232899022801304,Icelandic <translation-team-is@lists.sourceforge.org>
+gnome-sudoku,398,0,0,71,0,0,363,398,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-system-monitor,1408,31,0,301,3,0,1250,1439,97.84572619874913,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-terminal,1638,0,916,402,0,85,1541,2554,64.13469068128425,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-tetravex,2736,1448,2882,677,496,525,2162,7066,38.720634022077554,Icelandic <gnome@techattack.nu>
+gnome-themes,95,0,6,32,0,2,95,101,94.05940594059405,Icelandic <gnome@techattack.nu>
+gnome-themes-extra,15,0,0,6,0,0,16,15,100.0,Icelandic <translation-team-is@lists.sourceforge.org>
+gnome-todo,447,0,270,129,0,32,461,717,62.34309623430963,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-tweaks,436,0,0,150,0,0,453,436,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-user-share,52,0,0,10,0,0,50,52,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnome-vfs2,225,77,980,66,20,162,223,1282,17.550702028081123,Icelandic <gnome@techattack.nu>
+gnome-weather,192,0,0,42,0,0,204,192,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gnomebaker,23,0,1163,10,0,281,22,1186,1.93929173693086,Icelandic <is@li.org>
+gnubg,1109,2464,9603,334,645,1685,1086,13176,8.416818457802064,none
+godot,2,82,6946,1,29,1862,2,7030,0.028449502133712664,Icelandic <https://hosted.weblate.org/projects/godot-engine/godot/is/>
+gourmet,1,0,3938,1,0,891,5,3939,0.02538715410002539,Icelandic <is@li.org>
+gparted,2595,0,0,447,0,0,2636,2595,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gphoto2,220,0,1523,103,0,234,236,1743,12.621916236374068,Icelandic <translation-team-is@lists.sourceforge.net>
+gpicview,0,0,236,0,0,52,0,236,0.0,LANGUAGE <LL@li.org>
+gramps,28591,0,9116,5823,0,578,26866,37707,75.82411753785769,Icelandic <translation-team-is@lists.sourceforge.net>
+granatier,0,30,212,0,13,54,0,242,0.0,Icelandic <kde-isl@molar.is>
+gsettings-desktop-schemas,957,0,5275,169,0,391,1004,6232,15.35622593068036,Icelandic <translation-team-is@lists.sourceforge.net>
+gtg,29,0,3468,18,0,282,39,3497,0.829282241921647,Icelandic <is@li.org>
+gthumb,3424,0,0,1133,0,0,3264,3424,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gtk2,1455,2059,10190,284,567,1933,1394,13704,10.617338003502628,is <kde-isl@molar.is>
+gtk3,5393,133,10519,1909,27,1663,5169,16045,33.61171704580867,Icelandic <translation-team-is@lists.sourceforge.net>
+gtk4,4792,191,10696,1754,39,1705,4612,15679,30.563173671790295,Icelandic <translation-team-is@lists.sourceforge.net>
+gtkspell3,15,0,0,6,0,0,16,15,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gtranslator,1393,1,0,365,1,0,1260,1394,99.92826398852223,Icelandic <gnome@techattack.nu>
+guayadeque,3326,0,0,1019,0,0,2885,3326,100.0,Icelandic (Iceland) (http://www.transifex.com/projects/p/guayadeque/language/is_IS/)
+gucharmap,1248,0,0,420,0,0,1117,1248,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+gwenview,1144,48,270,350,17,15,1123,1462,78.24897400820794,Icelandic <translation-team-is@lists.sourceforge.net>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+homebank,603,0,1833,288,0,490,595,2436,24.75369458128079,Icelandic <is@li.org>
+iagno,277,0,44,70,0,1,273,321,86.29283489096574,Icelandic <translation-team-is@lists.sourceforge.org>
+im-chooser,12,0,227,7,0,49,14,239,5.02092050209205,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Icelandic
+initscripts,740,54,180,111,10,28,765,974,75.97535934291582,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+inkscape,27561,0,10653,7320,0,825,26696,38214,72.12278222640917,Icelandic <translation-team-is@lists.sourceforge.net>
+iso-codes,4457,3125,15790,2384,2546,10405,3806,23372,19.06982714359062,Icelandic <https://hosted.weblate.org/projects/iso-codes/iso-15924/is/>
+isomaster,21,1,652,18,1,88,22,674,3.115727002967359,http://littlesvr.ca/ostd/
+juk,1284,105,64,327,13,15,1185,1453,88.36889194769442,Icelandic <kde-isl@molar.is>
+k3b,8835,4185,7201,1467,654,399,7794,20221,43.69220117699422,Icelandic <translation-team-is@lists.sourceforge.net>
+kactivitymanagerd,8,0,1,3,0,1,9,9,88.88888888888889,Icelandic <translation-team-is@lists.sourceforge.net>
+kaddressbook,75,291,384,35,85,48,63,750,10.0,Icelandic <kde-isl@molar.is>
+kajongg,0,117,2327,0,91,419,0,2444,0.0,Icelandic <kde-isl@molar.is>
+kalarm,100,4962,2207,21,813,186,88,7269,1.3757050488375293,Icelandic <kde-isl@molar.is>
+kalzium,255,892,8753,169,337,847,243,9900,2.5757575757575757,Icelandic <kde-isl@molar.is>
+kamera,342,0,0,37,0,0,309,342,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kamoso,0,16,103,0,10,31,0,119,0.0,Icelandic <kde-isl@molar.is>
+kapman,0,24,90,0,12,24,0,114,0.0,Icelandic <kde-isl@molar.is>
+kate,1165,806,880,279,188,126,1127,2851,40.86285513854788,Icelandic <kde-isl@molar.is>
+katomic,31,44,110,14,21,24,33,185,16.756756756756758,icelandic <kde-isl@molar.is>
+kaudiocreator,589,168,379,161,43,69,586,1136,51.848591549295776,Icelandic <kde-isl@molar.is>
+kblackbox,22,70,1272,8,22,72,20,1364,1.6129032258064515,icelandic <kde-isl@molar.is>
+kblocks,0,28,131,0,13,25,0,159,0.0,Icelandic <kde-isl@molar.is>
+kbounce,44,51,59,11,15,16,50,154,28.57142857142857,icelandic <kde-isl@molar.is>
+kbrickbuster,0,21,131,0,12,28,0,152,0.0,Icelandic <kde-isl@molar.is>
+kbruch,47,303,995,10,66,119,47,1345,3.494423791821561,Icelandic <kde-isl@molar.is>
+kcalc,185,371,420,71,175,80,149,976,18.954918032786885,icelandic <kde-isl@molar.is>
+kcharselect,72,9,7,28,2,4,77,88,81.81818181818183,Icelandic <kde-isl@molar.is>
+kcolorchooser,29,0,0,10,0,0,32,29,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kcoloredit,278,0,0,95,0,0,278,278,100.0,Icelandic <kde-isl@molar.is>
+kcron,201,165,168,95,66,29,188,534,37.640449438202246,Icelandic <kde-isl@molar.is>
+kde-cli-tools,1749,94,254,174,12,30,1578,2097,83.40486409155938,Icelandic <kde-isl@molar.is>
+kde-dev-utils,33,19,13,12,8,5,32,65,50.76923076923077,Icelandic <kde-isl@molar.is>
+kde-l10n,58695,11746,29148,12595,3593,3580,55788,99589,58.93723202361707,Icelandic <kde-isl@molar.is>
+kde-partitionmanager,34,496,1769,24,203,296,29,2299,1.4789038712483689,Icelandic <translation-team-is@lists.sourceforge.net>
+kdenetwork-filesharing,15,9,18,3,3,6,14,42,35.714285714285715,Icelandic <kde-isl@molar.is>
+kdepim-addons,217,801,953,116,151,90,207,1971,11.009639776763064,Icelandic <kde-isl@molar.is>
+kdepim-runtime,105,64,50,13,4,6,94,219,47.94520547945205,Icelandic <kde-isl@molar.is>
+kdeplasma-addons,86,673,512,36,271,177,78,1271,6.766325727773406,<en@li.org>
+kdevelop,34,226,434,12,55,95,34,694,4.899135446685879,Icelandic <kde-isl@molar.is>
+kdf,180,0,1,68,0,1,181,181,99.4475138121547,Icelandic <kde-isl@molar.is>
+kdialog,259,47,41,58,5,7,234,347,74.63976945244957,Icelandic <translation-team-is@lists.sourceforge.net>
+kdiamond,0,16,106,0,8,24,0,122,0.0,Icelandic <kde-isl@molar.is>
+kdiff3,0,174,3470,0,106,544,0,3644,0.0,icelandic <kde-isl@molar.is>
+kdnssd,21,9,0,6,1,0,21,30,70.0,icelandic <kde-isl@molar.is>
+keditbookmarks,466,0,0,132,0,0,492,466,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kexec-tools,51,8,24,2,2,8,48,83,61.44578313253012,is <kde-isl@molar.is>
+kf5-audiocd-kio,839,0,2,176,0,1,805,841,99.76218787158146,Icelandic <kde-isl@molar.is>
+kf5-calendarsupport,766,1347,863,96,246,75,666,2976,25.739247311827956,Icelandic <kde-isl@molar.is>
+kf5-kalarmcal,1,39,0,1,19,0,1,40,2.5,Icelandic <kde-isl@molar.is>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Icelandic <kde-isl@molar.is>
+kf5-kbookmarks,0,203,27,0,46,3,0,230,0.0,Icelandic <kde-isl@molar.is>
+kf5-kcmutils,561,2,0,70,2,0,526,563,99.64476021314387,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Icelandic <kde-isl@molar.is>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Icelandic <kde-isl@molar.is>
+kf5-kconfig,242,4,15,96,3,1,251,261,92.72030651340997,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kconfigwidgets,301,16,4,107,8,2,306,321,93.76947040498442,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kcoreaddons,301,15,17,95,13,17,311,333,90.39039039039038,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kdeclarative,74,31,4,11,2,1,92,109,67.88990825688074,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kdelibs4support,3607,905,301,1631,627,106,3430,4813,74.9428630791606,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Icelandic <kde-isl@molar.is>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Icelandic <kde-isl@molar.is>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Icelandic <kde-isl@molar.is>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Icelandic <kde-isl@molar.is>
+kf5-kholidays,0,18,91,0,8,69,0,109,0.0,Icelandic <kde-isl@molar.is>
+kf5-khtml,1522,92,107,301,4,5,1389,1721,88.43695525857059,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kiconthemes,25,11,1,16,1,1,25,37,67.56756756756756,Icelandic <kde-isl@molar.is>
+kf5-kinit,131,3,0,13,1,0,136,134,97.76119402985076,Icelandic <kde-isl@molar.is>
+kf5-kio,8062,2243,1881,966,219,160,7570,12186,66.1578860988019,Icelandic <kde-isl@molar.is>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Icelandic <kde-isl@molar.is>
+kf5-kjobwidgets,0,123,0,0,36,0,0,123,0.0,Icelandic <kde-isl@molar.is>
+kf5-kjsembed,248,0,0,44,0,0,263,248,100.0,Icelandic <kde-isl@molar.is>
+kf5-kldap,20,10,3,5,2,1,17,33,60.60606060606061,Icelandic <kde-isl@molar.is>
+kf5-knewstuff,569,61,60,127,24,7,592,690,82.46376811594203,Icelandic <kde-isl@molar.is>
+kf5-knotifications,18,0,0,6,0,0,26,18,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-knotifyconfig,129,0,0,17,0,0,117,129,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kparts,104,0,0,26,0,0,110,104,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kpty,15,0,0,4,0,0,21,15,100.0,Icelandic <kde-isl@molar.is>
+kf5-kross,82,18,0,29,6,0,99,100,82.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kservice,92,56,22,13,12,3,109,170,54.11764705882353,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-ktexteditor,3563,1707,3058,642,308,250,3262,8328,42.78338136407301,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-ktextwidgets,459,3,0,121,1,0,448,462,99.35064935064936,Icelandic <kde-isl@molar.is>
+kf5-kunitconversion,628,3017,1667,344,1205,717,542,5312,11.822289156626505,Icelandic <kde-isl@molar.is>
+kf5-kwallet,534,316,648,53,9,46,527,1498,35.647530040053404,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-kwidgetsaddons,0,1271,48,0,446,12,0,1319,0.0,Icelandic <kde-isl@molar.is>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Icelandic <kde-isl@molar.is>
+kf5-kxmlgui,1511,91,0,227,1,0,1465,1602,94.31960049937578,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-libkcddb,557,0,0,251,0,0,539,557,100.0,icelandic <kde-isl@molar.is>
+kf5-libkcompactdisc,15,0,0,10,0,0,17,15,100.0,Icelandic <kde-isl@molar.is>
+kf5-libkdepim,59,105,301,18,54,55,67,465,12.688172043010754,Icelandic <kde-isl@molar.is>
+kf5-libkleo,282,92,829,91,34,183,263,1203,23.44139650872818,Icelandic <kde-isl@molar.is>
+kf5-libksane,272,0,0,83,0,0,266,272,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-libksieve,438,8,2852,66,6,485,419,3298,13.28077622801698,Icelandic <en@li.org>
+kf5-libktorrent,24,357,90,10,84,12,29,471,5.095541401273886,<is@li.org>
+kf5-mailimporter,581,668,159,55,38,34,541,1408,41.26420454545455,Icelandic <kde-isl@molar.is>
+kf5-messagelib,740,1352,1229,149,384,136,677,3321,22.282445046672688,icelandic <kde-isl@molar.is>
+kf5-solid,470,2,210,207,1,14,445,682,68.91495601173021,Icelandic <translation-team-is@lists.sourceforge.net>
+kf5-sonnet,0,645,22,0,68,5,0,667,0.0,Icelandic <kde-isl@molar.is>
+kf5-syntax-highlighting,0,291,221,0,210,106,0,512,0.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kfind,495,6,0,115,1,0,494,501,98.80239520958084,Icelandic <translation-team-is@lists.sourceforge.net>
+kfloppy,611,24,6,97,1,2,584,641,95.3198127925117,Icelandic <kde-isl@molar.is>
+kfourinline,110,140,142,52,56,49,93,392,28.061224489795915,icelandic <kde-isl@molar.is>
+kgamma,130,0,0,16,0,0,110,130,100.0,íslenska <kde-isl@molar.is>
+kgeography,1273,6438,1987,896,4912,1323,1167,9698,13.126417818106825,Icelandic <kde-isl@molar.is>
+kget,265,1054,1599,65,426,299,257,2918,9.0815627141878,icelandic <kde-isl@molar.is>
+kgoldrunner,1186,1989,20382,264,220,424,1095,23557,5.034596935093603,icelandic <kde-isl@molar.is>
+kgpg,1164,2576,1542,261,312,125,1067,5282,22.03710715638016,icelandic <kde-isl@molar.is>
+kgrab,370,0,0,53,0,0,343,370,100.0,Icelandic <kde-isl@molar.is>
+kgraphviewer,487,50,723,167,12,64,474,1260,38.65079365079365,Icelandic <kde-isl@molar.is>
+khangman,81,180,212,25,60,34,72,473,17.12473572938689,Icelandic <kde-isl@molar.is>
+khelpcenter,256,0,0,87,0,0,233,256,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+khotkeys,314,15,107,118,7,4,320,436,72.01834862385321,Icelandic <kde-isl@molar.is>
+kiconedit,726,0,0,155,0,0,650,726,100.0,<is@li.org>
+kig,1324,4130,2421,331,704,266,1172,7875,16.812698412698413,íslenska <kde-isl@molar.is>
+kigo,0,41,459,0,31,98,0,500,0.0,Icelandic <kde-isl@molar.is>
+killbots,0,47,594,0,40,88,0,641,0.0,Icelandic <kde-isl@molar.is>
+kinfocenter,1786,409,565,478,240,212,1654,2760,64.71014492753623,Icelandic <kde-isl@molar.is>
+kio-extras,696,29,165,105,8,13,668,890,78.20224719101122,icelandic <kde-isl@molar.is>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Icelandic <kde-isl@molar.is>
+kiriki,0,19,125,0,8,42,0,144,0.0,Icelandic <kde-isl@molar.is>
+kiten,111,135,395,24,57,98,125,641,17.31669266770671,íslenska <kde-isl@molar.is>
+kjots,132,67,200,35,18,53,137,399,33.08270676691729,Icelandic <kde-isl@molar.is>
+kjumpingcube,86,59,267,23,18,54,75,412,20.87378640776699,icelandic <kde-isl@molar.is>
+kleopatra,137,1968,6708,55,524,775,132,8813,1.554521729263588,Icelandic <kde-isl@molar.is>
+klettres,330,39,67,70,4,9,303,436,75.68807339449542,Icelandic <translation-team-is@lists.sourceforge.net>
+klickety,0,120,58,0,47,15,0,178,0.0,Icelandic <kde-isl@molar.is>
+klines,35,17,47,8,10,10,35,99,35.35353535353536,icelandic <kde-isl@molar.is>
+kmag,399,33,0,93,5,0,353,432,92.36111111111111,Icelandic <kde-isl@molar.is>
+kmahjongg,184,73,83,49,27,22,178,340,54.11764705882353,icelandic <kde-isl@molar.is>
+kmail,2995,2961,2031,434,521,193,2789,7987,37.49843495680481,Icelandic <kde-isl@molar.is>
+kmenuedit,254,14,9,53,4,4,222,277,91.69675090252709,icelandic <kde-isl@molar.is>
+kmines,108,0,0,38,0,0,98,108,100.0,Icelandic <kde-isl@molar.is>
+kmix,877,12,18,214,2,3,858,907,96.69239250275635,Icelandic <translation-team-is@lists.sourceforge.net>
+kmousetool,101,42,4,26,5,1,91,147,68.70748299319727,icelandic <kde-isl@molar.is>
+kmouth,1420,86,15,191,10,6,1256,1521,93.35963182117028,Icelandic <kde-isl@molar.is>
+kmplot,26,425,2016,17,143,313,29,2467,1.053911633563032,Icelandic <kde-isl@molar.is>
+knavalbattle,260,56,83,83,4,15,269,399,65.16290726817043,Icelandic <kde-isl@molar.is>
+knemo,0,502,734,0,178,174,0,1236,0.0,icelandic <kde-isl@molar.is>
+knetwalk,13,28,189,4,7,43,10,230,5.6521739130434785,icelandic <kde-isl@molar.is>
+knotes,135,197,282,62,74,57,142,614,21.986970684039086,icelandic <kde-isl@molar.is>
+koffice-kivio,4404,265,3748,1195,61,1105,4132,8417,52.32268028988951,Icelandic <kde-isl@mmedia.is>
+kolf,356,24,16,134,7,6,351,396,89.8989898989899,<is@li.org>
+kollision,0,14,95,0,9,21,0,109,0.0,Icelandic <kde-isl@molar.is>
+kolourpaint,2623,0,0,452,0,0,2560,2623,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kompare,601,213,616,146,18,32,565,1430,42.02797202797203,Icelandic <kde-isl@molar.is>
+konqueror,8146,190,145,1253,12,7,7731,8481,96.04999410446882,icelandic <translation-team-is@lists.sourceforge.net>
+konquest,104,86,56,30,40,28,92,246,42.27642276422765,icelandic <kde-isl@molar.is>
+konsole5,308,845,1650,111,246,205,297,2803,10.988226899750266,Icelandic <translation-team-is@lists.sourceforge.net>
+kontact,42,177,380,15,48,35,51,599,7.0116861435726205,icelandic <kde-isl@molar.is>
+korganizer,538,2156,3653,149,420,273,523,6347,8.47644556483378,Icelandic <kde-isl@molar.is>
+kpat,315,9,112,110,2,20,330,436,72.24770642201835,Icelandic <kde-isl@molar.is>
+kphotoalbum,1240,840,7484,394,234,391,1246,9564,12.965286491007946,Icelandic <translation-team-is@lists.sourceforge.net>
+kpilot,1242,2654,3260,297,356,208,1137,7156,17.356064840693126,Icelandic <kde-isl@molar.is>
+kpmcore,0,1507,1664,0,223,254,0,3171,0.0,Icelandic <translation-team-is@lists.sourceforge.net>
+krdc,278,805,211,47,205,43,241,1294,21.483771251931994,Icelandic <kde-isl@molar.is>
+kreport,0,286,184,0,163,50,0,470,0.0,Icelandic <kde-isl@molar.is>
+kreversi,134,57,237,46,10,85,138,428,31.308411214953267,Icelandic <kde-isl@molar.is>
+krfb,157,220,267,31,25,32,156,644,24.37888198757764,Icelandic <kde-isl@molar.is>
+krita,2644,10348,12562,1050,3930,1204,2394,25554,10.346716756672144,Icelandic <translation-team-is@lists.sourceforge.net>
+kruler,184,0,0,47,0,0,168,184,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+kshisen,29,82,457,20,21,29,42,568,5.105633802816902,icelandic <kde-isl@molar.is>
+ksig,71,2,12,17,1,8,68,85,83.52941176470588,Icelandic <kde-isl@molar.is>
+ksirk,0,675,5088,0,232,530,0,5763,0.0,Icelandic <kde-isl@molar.is>
+ksnakeduel,0,69,162,0,22,31,0,231,0.0,Icelandic <kde-isl@molar.is>
+kspaceduel,139,16,10,65,12,4,129,165,84.24242424242424,icelandic <kde-isl@molar.is>
+ksquares,0,49,208,0,27,49,0,257,0.0,Icelandic <kde-isl@molar.is>
+kstars,1546,20149,35017,638,7692,7603,1420,56712,2.7260544505572013,Icelandic <kde-isl@molar.is>
+ksudoku,0,58,1601,0,25,133,0,1659,0.0,Icelandic <kde-isl@molar.is>
+ksysguard,816,239,27,161,69,7,756,1082,75.41589648798521,Icelandic <kde-isl@molar.is>
+ksystemlog,0,179,2855,0,119,360,0,3034,0.0,Icelandic <kde-isl@molar.is>
+kteatime,175,23,3,58,5,2,175,201,87.06467661691542,Icelandic <kde-isl@molar.is>
+ktimer,24,62,172,17,15,21,22,258,9.30232558139535,icelandic <kde-isl@molar.is>
+ktorrent,169,5876,1493,74,1160,148,160,7538,2.2419739984080658,Icelandic <kde-isl@molar.is>
+ktouch,5,316,550,3,93,146,5,871,0.5740528128587831,Icelandic <kde-isl@molar.is>
+ktuberling,44,89,25,17,16,5,54,158,27.848101265822784,icelandic <kde-isl@molar.is>
+kubrick,0,17,1186,0,11,154,0,1203,0.0,Icelandic <kde-isl@molar.is>
+kwalletmanager5,587,83,132,120,20,26,573,802,73.19201995012469,Icelandic <kde-isl@molar.is>
+kwin,2656,1111,2313,578,210,397,2502,6080,43.684210526315795,Icelandic <kde-isl@molar.is>
+libbonobo,468,15,41,97,4,7,454,524,89.31297709923665,is <is@li.org>
+libbonoboui,314,7,39,92,3,18,277,360,87.22222222222223,is <is@li.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Icelandic
+libfm,1412,13,150,376,4,14,1304,1575,89.65079365079364,Icelandic <translation-team-is@lists.sourceforge.net>
+libgnome,1292,0,115,209,0,10,1215,1407,91.82658137882018,icelandic <gnome@techattack.nu>
+libgnomecanvas,339,18,0,92,2,0,303,357,94.9579831932773,Icelandic
+libgnomeui,1178,113,128,298,23,24,1056,1419,83.01620859760395,Icelandic <gnome@techattack.nu>
+libgweather,6370,0,0,4679,0,0,6104,6370,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,361,7,2,128,3,1,328,370,97.56756756756756,Icelandic <kde-isl@molar.is>
+libkeduvocdocument,0,2,169,0,2,79,0,171,0.0,Icelandic <kde-isl@molar.is>
+libkexif,0,0,25,0,0,14,0,25,0.0,LANGUAGE <LL@li.org>
+libkmahjongg,0,7,0,0,7,0,0,7,0.0,icelandic <kde-isl@molar.is>
+libkomparediff2,38,74,31,12,5,2,33,143,26.573426573426573,Icelandic <kde-isl@molar.is>
+libksysguard,107,125,2551,64,46,120,111,2783,3.8447718289615525,Icelandic <kde-isl@molar.is>
+libktorrent,24,417,78,10,93,12,29,519,4.624277456647398,<is@li.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+libmatemixer,7,0,235,7,0,119,8,242,2.8925619834710745,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+libmateweather,499,0,0,183,0,0,461,499,100.0,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+libosinfo,0,0,662,0,0,145,0,662,0.0,Icelandic
+libpeas,56,0,55,27,0,7,62,111,50.45045045045045,Icelandic <translation-team-is@lists.sourceforge.net>
+libreoffice,145042,932,414887,49624,118,28034,136643,560861,25.860596475775637,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Icelandic (http://www.transifex.com/projects/p/libreport/language/is/)
+libuser,985,38,414,211,7,83,1064,1437,68.5455810716771,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+libvirt,922,3663,59306,217,660,9005,922,63891,1.4430827503091204,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Icelandic (http://www.transifex.com/projects/p/libvirt-glib/language/is/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+libwnck,33,27,13,17,8,5,43,73,45.20547945205479,Icelandic <gnome@techattack.nu>
+libwnck3,33,27,13,17,8,5,43,73,45.20547945205479,Icelandic <gnome@techattack.nu>
+libxfce4ui,850,0,0,164,0,0,840,850,100.0,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+libxfce4util,424,0,0,7,0,0,413,424,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+light-locker,7,0,253,2,0,35,5,260,2.6923076923076925,Icelandic (http://www.transifex.com/the_cavalry/light-locker/language/is/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Icelandic <is@li.org>
+lightdm-gtk,68,0,19,22,0,3,59,87,78.16091954022988,Icelandic <is@li.org>
+lightdm-settings,271,0,0,59,0,0,231,271,100.0,Icelandic <is@li.org>
+lightsoff,96,0,0,18,0,0,101,96,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+lokalize,2187,0,1370,549,0,46,2133,3557,61.48439696373348,Icelandic <translation-team-is@lists.sourceforge.net>
+lskat,100,95,59,25,37,21,89,254,39.37007874015748,icelandic <kde-isl@molar.is>
+lxappearance,234,0,0,80,0,0,235,234,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+lxappearance-obconf,0,0,196,0,0,27,0,196,0.0,LANGUAGE <LL@li.org>
+lxde-common,14,0,0,5,0,0,15,14,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+lxdm,47,0,0,25,0,0,44,47,100.0,Icelandic <kde-i18n-doc@kde.org>
+lxinput,83,0,0,26,0,0,71,83,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+lxlauncher,58,0,0,17,0,0,57,58,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+lxmenu-data,97,0,0,37,0,0,92,97,100.0,Icelandic
+lxmusic,203,0,0,89,0,0,209,203,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+lxpanel,1283,31,84,419,7,41,1245,1398,91.77396280400572,Icelandic <translation-team-is@lists.sourceforge.net>
+lxrandr,167,0,0,41,0,0,160,167,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+lxsession,343,0,412,135,0,31,343,755,45.43046357615894,Icelandic <translation-team-is@lists.sourceforge.net>
+lxtask,104,0,26,47,0,4,103,130,80.0,Icelandic <translation-team-is@lists.sourceforge.net>
+lxterminal,74,4,124,46,2,50,77,202,36.633663366336634,Icelandic <translation-team-is@lists.sourceforge.net>
+marble,0,1398,9986,0,827,2464,0,11384,0.0,Icelandic <kde-isl@molar.is>
+marco,580,0,3568,138,0,275,600,4148,13.982642237222759,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-applets,1916,0,14420,472,0,1107,1921,16336,11.72869735553379,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-backgrounds,30,0,0,21,0,0,27,30,100.0,Icelandic (http://www.transifex.com/mate/MATE/language/is/)
+mate-calc,24,0,2971,23,0,635,51,2995,0.8013355592654423,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-control-center,1931,0,5984,557,0,440,1992,7915,24.39671509791535,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-desktop,1730,0,575,255,0,44,1575,2305,75.05422993492408,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-media,20,0,206,16,0,80,20,226,8.849557522123893,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-menu,297,0,19,109,0,9,312,316,93.9873417721519,Icelandic (http://www.transifex.com/mate/MATE/language/is/)
+mate-menus,97,0,0,37,0,0,93,97,100.0,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-notification-daemon,130,0,9,34,0,3,130,139,93.5251798561151,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-panel,4047,0,2485,564,0,196,3727,6532,61.95652173913043,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-polkit,122,0,0,20,0,0,114,122,100.0,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-power-manager,909,0,4337,134,0,447,905,5246,17.32748760960732,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-screensaver,983,0,0,156,0,0,930,983,100.0,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-sensors-applet,16,0,2199,16,0,208,44,2215,0.7223476297968396,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-session-manager,396,0,285,100,0,14,402,681,58.14977973568281,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-settings-daemon,351,0,1413,100,0,153,342,1764,19.897959183673468,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-system-monitor,94,0,4236,57,0,548,113,4330,2.1709006928406467,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-terminal,165,0,8288,103,0,687,190,8453,1.9519697148941206,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-themes,7,0,53,2,0,10,8,60,11.666666666666666,Icelandic (http://www.transifex.com/mate/MATE/language/is/)
+mate-user-guide,123,0,44558,75,0,3330,130,44681,0.2752847966697254,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+mate-utils,274,0,9828,128,0,958,331,10102,2.7123341912492576,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+menulibre,28,0,821,14,0,150,31,849,3.297997644287397,Icelandic <is@li.org>
+metacity,1767,0,429,279,0,34,1764,2196,80.46448087431693,Icelandic <translation-team-is@lists.sourceforge.net>
+mingw-GConf2,1159,133,2662,178,22,261,1217,3954,29.312089023773396,Icelandic <gnome@techattack.nu>
+mingw-atk,31,96,248,31,48,47,32,375,8.266666666666666,Icelandic <gnome@techattack.nu>
+mingw-gdk-pixbuf,1409,0,0,211,0,0,1383,1409,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+mingw-glib2,788,917,4034,163,160,589,744,5739,13.730615089736888,Icelandic <translation-team-is@lists.sourceforge.net>
+mingw-gtk2,1455,2059,10190,284,567,1933,1394,13704,10.617338003502628,is <kde-isl@molar.is>
+mingw-gtk3,5393,133,10519,1909,27,1663,5169,16045,33.61171704580867,Icelandic <translation-team-is@lists.sourceforge.net>
+mingw-gtkspell3,15,0,0,6,0,0,16,15,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Icelandic
+mingw-libvirt,922,3663,59306,217,660,9005,922,63891,1.4430827503091204,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Icelandic (http://www.transifex.com/projects/p/libvirt-glib/language/is/)
+moodle,0,12,40,0,6,8,0,52,0.0,i18n@lists.horde.org
+mousepad,1023,0,65,297,0,9,945,1088,94.02573529411765,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+mozo,42,0,0,16,0,0,37,42,100.0,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+muffin,599,73,6247,130,22,312,631,6919,8.657320422026304,Icelandic <gnome@techattack.nu>
+multimedia-menus,56,0,0,22,0,0,66,56,100.0,Icelandic <kde-isl@molar.is>
+mutter,470,0,353,101,0,27,535,823,57.108140947752126,Icelandic <translation-team-is@lists.sourceforge.org>
+nautilus,5912,0,72,1110,0,4,5894,5984,98.79679144385027,Icelandic <translation-team-is@lists.sourceforge.net>
+nautilus-sendto,56,0,0,10,0,0,51,56,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+nemo-extensions,8,0,0,2,0,0,9,8,100.0,Icelandic <is@li.org>
+network-manager-applet,1964,988,1451,594,159,175,1973,4403,44.60595048830343,Icelandic <translation-team-is@lists.sourceforge.net>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+okteta,39,554,1918,23,267,311,40,2511,1.5531660692951015,Icelandic <kde-isl@molar.is>
+okular,3986,12,502,846,3,25,3825,4500,88.57777777777778,Icelandic <translation-team-is@lists.sourceforge.net>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+onboard,1,0,2317,1,0,509,2,2318,0.04314063848144953,Icelandic <is@li.org>
+openerp,980,0,33262,292,0,3502,947,34242,2.8619823608434087,Icelandic <is@li.org>
+optimizer,0,0,111,0,0,54,0,111,0.0,none
+orca,209,355,4475,139,273,1207,217,5039,4.147648342925184,Icelandic <translation-team-is@lists.sourceforge.net>
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Icelandic
+pacman,137,0,5261,74,0,822,148,5398,2.537977028529085,Icelandic (http://www.transifex.com/toofishes/archlinux-pacman/language/is/)
+palapeli,0,28,1484,0,18,162,0,1512,0.0,Icelandic <kde-isl@molar.is>
+pam,0,0,597,0,0,120,0,597,0.0,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+pantheon-agent-geoclue2,0,0,46,0,0,13,0,46,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,20,0,0,10,0,20,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,16,0,36,10,0,22,28,52,30.76923076923077,LANGUAGE <LL@li.org>
+pantheon-files,157,0,2330,46,0,446,171,2487,6.312826698833937,Icelandic <is@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pantheon-terminal,62,0,126,24,0,27,68,188,32.97872340425532,Icelandic <is@li.org>
+parley,172,1404,2274,91,413,249,176,3850,4.467532467532467,Icelandic <kde-isl@molar.is>
+parole,682,0,417,262,0,37,708,1099,62.05641492265697,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+passwd,56,0,280,17,0,40,50,336,16.666666666666664,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+pgadmin3,2,0,16896,1,0,4401,2,16898,0.011835720203574387,LANGUAGE <LL@li.org>
+php-horde-Horde-Alarm,0,4,9,0,2,3,0,13,0.0,i18n@lists.horde.org
+php-horde-Horde-Argv,1,3,56,1,3,9,1,60,1.6666666666666667,i18n@lists.horde.org
+php-horde-Horde-Browser,0,45,21,0,3,3,0,66,0.0,i18n@lists.horde.org
+php-horde-Horde-Cli,0,8,3,0,2,1,0,11,0.0,i18n@lists.horde.org
+php-horde-Horde-Compress,0,3,22,0,1,5,0,25,0.0,i18n@lists.horde.org
+php-horde-Horde-Core,52,235,484,32,80,99,45,771,6.744487678339818,i18n@lists.horde.org
+php-horde-Horde-Crypt,5,69,322,4,26,67,4,396,1.2626262626262625,i18n@lists.horde.org
+php-horde-Horde-Data,0,0,7,0,0,2,0,7,0.0,i18n@lists.horde.org
+php-horde-Horde-Date,0,7,29,0,2,9,0,36,0.0,i18n@lists.horde.org
+php-horde-Horde-Exception,0,2,2,0,1,1,0,4,0.0,i18n@lists.horde.org
+php-horde-Horde-Form,5,180,368,5,55,86,5,553,0.9041591320072333,i18n@lists.horde.org
+php-horde-Horde-Icalendar,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Image,5,55,521,5,34,246,5,581,0.8605851979345954,i18n@lists.horde.org
+php-horde-Horde-Imsp,0,7,7,0,1,1,0,14,0.0,i18n@lists.horde.org
+php-horde-Horde-Itip,0,1,55,0,1,9,0,56,0.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,0,0,120,0,0,9,0,120,0.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,0,3,3,0,2,3,0,6,0.0,i18n@lists.horde.org
+php-horde-Horde-Mime,0,10,38,0,5,7,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,1,5,41,1,4,15,1,47,2.127659574468085,i18n@lists.horde.org
+php-horde-Horde-Nls,17,49,364,13,40,210,13,430,3.953488372093023,i18n@lists.horde.org
+php-horde-Horde-Perms,2,3,1,2,2,1,2,6,33.33333333333333,i18n@lists.horde.org
+php-horde-Horde-Prefs,3,24,5,2,4,2,3,32,9.375,i18n@lists.horde.org
+php-horde-Horde-Rpc,0,0,48,0,0,7,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Share,1,2,45,1,2,9,1,48,2.083333333333333,i18n@lists.horde.org
+php-horde-Horde-SyncMl,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,0,0,1,0,0,1,0,1,0.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,35,0,0,2,0,35,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,0,2,8,0,1,2,0,10,0.0,i18n@lists.horde.org
+php-horde-horde,79,955,2440,44,335,555,81,3474,2.274035693724813,Icelandic <support@snerpa.is>
+php-horde-imp,2872,0,0,706,0,0,2855,2872,100.0,Icelandic <support@snerpa.is>
+php-horde-turba,141,269,0,69,64,0,134,410,34.390243902439025,support@snerpa.is
+picard,475,0,2019,214,0,453,455,2494,19.04570970328789,Icelandic (http://www.transifex.com/musicbrainz/musicbrainz/language/is/)
+pix,3718,0,0,1202,0,0,3509,3718,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+planner,1795,0,0,527,0,0,1777,1795,100.0,Icelandic
+plasma-desktop,7821,1080,908,1385,212,229,7247,9809,79.73289835865022,Icelandic <kde-isl@molar.is>
+plasma-drkonqi,630,185,3200,155,40,182,622,4015,15.69115815691158,Icelandic <translation-team-is@lists.sourceforge.net>
+plasma-nm,2,30,11,2,13,5,2,43,4.651162790697675,Icelandic <kde-isl@molar.is>
+plasma-oxygen,16,262,343,9,134,78,17,621,2.576489533011272,Icelandic <kde-isl@molar.is>
+plasma-sdk,225,101,111,64,18,14,214,437,51.48741418764302,Icelandic <kde-isl@molar.is>
+plasma-systemsettings,179,21,24,41,5,9,168,224,79.91071428571429,Icelandic <translation-team-is@lists.sourceforge.net>
+plasma-workspace,1809,570,3079,563,191,686,1738,5458,33.1440087944302,icelandic <kde-isl@molar.is>
+pluma,3024,0,9716,764,0,1004,2793,12740,23.736263736263734,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+poedit,2774,0,0,620,0,0,2768,2774,100.0,Icelandic
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+polkit-kde,24,31,39,12,7,11,26,94,25.53191489361702,Icelandic <translation-team-is@lists.sourceforge.net>
+popt,61,8,15,24,2,5,68,84,72.61904761904762,is <kde-isl@mmedia.is>
+powerdevil,0,18,381,0,10,60,0,399,0.0,Icelandic <translation-team-is@lists.sourceforge.net>
+publican,524,0,4853,40,0,574,559,5377,9.745211084247723,icelandic <kde-isl@molar.is>
+publican-fedora,6,0,101,1,0,7,10,107,5.607476635514018,icelandic <kde-isl@molar.is>
+pychess,140,0,4315,60,0,819,132,4455,3.1425364758698096,Icelandic (http://www.transifex.com/gbtami/pychess/language/is/)
+pykickstart,171,0,1350,14,0,156,164,1521,11.242603550295858,Icelandic (http://www.transifex.com/projects/p/pykickstart/language/is/)
+python-blivet,43,0,479,5,0,69,36,522,8.237547892720306,Icelandic (http://www.transifex.com/projects/p/blivet/language/is/)
+python-blivet1,51,0,656,8,0,124,42,707,7.213578500707214,Icelandic
+python-caja,6,0,0,2,0,0,6,6,100.0,Icelandic (https://www.transifex.com/mate/teams/13566/is/)
+python-django,3222,0,434,746,0,78,3184,3656,88.12910284463895,Icelandic (http://www.transifex.com/django/django/language/is/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Icelandic (http://www.transifex.com/projects/p/django-formtools/language/is/)
+python-django-registration,65,0,0,13,0,0,49,65,100.0,Icelandic
+python-fedora,0,0,214,0,0,29,0,214,0.0,Icelandic
+python-lettuce,4788,0,2071,1182,0,1024,4623,6859,69.80609418282549,<dagurp@gmail.com>
+python-meh,0,0,109,0,0,23,0,109,0.0,Icelandic
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Icelandic
+python2-django1.11,3276,0,337,751,0,68,3239,3613,90.67257127041239,Icelandic (http://www.transifex.com/django/django/language/is/)
+quadrapassel,2736,1448,2882,677,496,525,2162,7066,38.720634022077554,Icelandic <gnome@techattack.nu>
+redhat-menus,261,0,0,86,0,0,233,261,100.0,Icelandic <kde-isl@molar.is>
+rhn-client-tools,891,58,3108,171,5,244,848,4057,21.962040916933695,Icelandic (http://www.transifex.com/projects/p/spacewalk/language/is/)
+rhnsd,20,0,13,5,0,4,20,33,60.60606060606061,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+rhythmbox,1099,0,124,312,0,14,994,1223,89.86099754701553,Icelandic <is@li.org>
+ristretto,583,0,178,185,0,13,565,761,76.60972404730617,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+rpm,338,30,4082,75,6,783,339,4450,7.595505617977529,Icelandic (http://www.transifex.com/rpm-team/rpm/language/is/)
+rsibreak,0,35,1140,0,21,137,0,1175,0.0,Icelandic <translation-team-is@lists.sourceforge.net>
+rt,2958,0,8450,938,0,1640,3206,11408,25.92917251051893,Icelandic <is@li.org>
+scratch,1464,0,6,622,0,4,1398,1470,99.59183673469387,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+seahorse,1034,0,1460,375,0,197,1023,2494,41.45950280673617,Icelandic <translation-team-is@lists.sourceforge.net>
+sequeler,0,0,252,0,0,93,0,252,0.0,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+setuptool,55,0,0,14,0,0,52,55,100.0,icelandic <kde-isl@molar.is>
+shutter,11,0,155,3,0,14,12,166,6.626506024096386,Icelandic <is@li.org>
+skanlite,183,0,0,63,0,0,172,183,100.0,Icelandic <kde-isl@molar.is>
+skychart,4201,0,1326,1289,0,377,3868,5527,76.00868463904469,
+slick-greeter,211,0,0,47,0,0,198,211,100.0,Icelandic <is@li.org>
+slingshot-launcher,75,0,142,29,0,39,76,217,34.56221198156682,Icelandic <is@li.org>
+smb4k,458,1233,4581,225,242,219,448,6272,7.302295918367347,Icelandic <kde-isl@molar.is>
+snap-photobooth,1,0,24,1,0,4,7,25,4.0,Icelandic <is@li.org>
+sos,0,0,122,0,0,30,0,122,0.0,none
+squirrelmail,3055,1455,2368,900,236,215,2919,6878,44.41698168072114,Icelandic <is@li.org>
+sscg,61,8,25,24,2,8,68,94,64.8936170212766,is <kde-isl@mmedia.is>
+stellarium,12908,0,55288,4084,0,22645,11739,68196,18.92779635169218,Icelandic (https://www.transifex.com/stellarium/teams/80998/is/)
+subdownloader,130,0,838,77,0,195,134,968,13.429752066115702,Icelandic <is@li.org>
+sugar,1753,0,552,477,0,52,1723,2305,76.05206073752711,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,28,0,0,23,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,168,0,21,51,0,1,194,189,88.88888888888889,LANGUAGE <LL@li.org>
+sugar-calculator,98,0,773,63,0,101,104,871,11.251435132032148,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,134,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,1,0,65,1,0,20,1,66,1.5151515151515151,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,33,31,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,96,0,25,42,0,4,91,121,79.33884297520662,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,61,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,69,0,0,22,0,69,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,4,0,277,3,0,91,4,281,1.4234875444839856,LANGUAGE <LL@li.org>
+sugar-log,0,0,98,0,0,21,0,98,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,102,0,53,61,0,12,97,155,65.80645161290323,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,114,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,2,1,271,2,1,63,2,274,0.7299270072992701,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,142,137,100.0,LANGUAGE <LL@li.org>
+sugar-record,10,8,44,8,2,14,11,62,16.129032258064516,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,227,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,7,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,159,0,0,111,0,0,159,159,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,3,0,1456,2,0,433,2,1459,0.205620287868403,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,127,121,100.0,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,24,24,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+svgpart,22,0,0,7,0,0,22,22,100.0,Icelandic <kde-isl@molar.is>
+sweeper,229,0,0,50,0,0,241,229,100.0,Icelandic <kde-isl@molar.is>
+swell-foop,14,67,185,12,21,22,14,266,5.263157894736842,Icelandic <gnome@techattack.nu>
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,none
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,none
+switchboard-plug-display,0,0,126,0,0,49,0,126,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,6,2,396,6,1,150,7,404,1.4851485148514851,Icelandic <is@li.org>
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,0,131,0,0,46,0,131,0.0,
+switchdesk,137,0,0,19,0,0,121,137,100.0,<is@li.org>
+system-config-bind,42,439,8938,23,124,917,40,9419,0.4459072088332095,Icelandic <kde-isl@molar.is>
+system-config-firewall,472,617,1725,110,86,135,481,2814,16.773276474769013,Icelandic <rglug@rglug.org>
+system-config-httpd,877,0,0,227,0,0,827,877,100.0,Icelandic <rglug@rglug.org>
+system-config-kdump,23,0,854,4,0,152,22,877,2.6225769669327255,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+system-config-keyboard,187,0,0,81,0,0,175,187,100.0,Icelandic <kde-isl@molar.is>
+system-config-kickstart,1063,0,65,235,0,14,996,1128,94.23758865248227,Icelandic (http://www.transifex.com/projects/p/system-config-kickstart/language/is/)
+system-config-language,52,45,100,12,5,12,54,197,26.39593908629442,Icelandic <rglug@rglug.org>
+system-config-printer,429,7,3014,146,3,750,408,3450,12.434782608695652,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+system-config-rootpassword,116,0,0,19,0,0,101,116,100.0,icelandic <kde-isl@molar.is>
+system-config-users,1320,0,201,164,0,16,1207,1521,86.78500986193293,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,74,81,100.0,Icelandic <rglug@rglug.org>
+system-switch-mail,134,0,0,20,0,0,122,134,100.0,Icelandic <kde-isl@molar.is>
+tali,2736,1448,2882,677,496,525,2162,7066,38.720634022077554,Icelandic <gnome@techattack.nu>
+terminator,209,0,1201,92,0,325,196,1410,14.822695035460992,Icelandic <is@li.org>
+thunar-vcs-plugin,283,0,312,204,0,116,311,595,47.56302521008403,Icelandic (http://www.transifex.com/xfce/thunar-plugins/language/is/)
+thunar-volman,487,0,0,113,0,0,455,487,100.0,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+timeshift,1558,18,1475,460,6,128,1582,3051,51.06522451655196,Icelandic <is@li.org>
+tomboy,538,0,0,73,0,0,467,538,100.0,Icelandic <is@li.org>
+totem,1398,0,0,396,0,0,1371,1398,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+totem-pl-parser,29,0,0,8,0,0,29,29,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+tracker,245,0,1966,84,0,285,234,2211,11.08095884215287,Icelandic <is@li.org>
+transmission,893,0,916,288,0,206,1039,1809,49.36428966279712,Icelandic <is@li.org>
+tumbler,241,0,0,39,0,0,248,241,100.0,Icelandic (http://www.transifex.com/xfce/tumbler/language/is/)
+tuxpaint-stamps,607,1076,1588,141,390,282,342,3271,18.557016202996028,
+usermode,570,0,3,95,0,1,575,573,99.47643979057592,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+vinagre,721,0,786,200,0,75,697,1507,47.84339747843397,Icelandic <translation-team-is@lists.sourceforge.net>
+vino,742,0,231,87,0,7,707,973,76.2589928057554,Icelandic <translation-team-is@lists.sourceforge.net>
+virt-manager,23,0,8321,16,0,1730,23,8344,0.275647171620326,Icelandic (http://www.transifex.com/projects/p/virt-manager/language/is/)
+virt-viewer,0,0,784,0,0,169,0,784,0.0,Icelandic
+virtaal,1433,0,0,426,0,0,1366,1433,100.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Icelandic <is@li.org>
+vte,96,0,0,18,0,0,128,96,100.0,Icelandic <gnome@techattack.nu>
+vte291,31,0,0,5,0,0,39,31,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+vte3,80,0,0,13,0,0,97,80,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+wesnoth,7158,9821,259626,2293,1345,13791,6777,276605,2.5878057157318195,
+wingpanel,0,0,6,0,0,1,0,6,0.0,none
+wingpanel-applications-menu,75,0,150,29,0,43,76,225,33.33333333333333,Icelandic <is@li.org>
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none
+xapps,42,0,0,25,0,0,40,42,100.0,Icelandic <is@li.org>
+xdg-user-dirs,28,0,0,28,0,0,30,28,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+xed,4059,0,554,857,0,136,3766,4613,87.99046173856493,Icelandic <translation-team-is@lists.sourceforge.net>
+xfburn,656,0,686,234,0,68,662,1342,48.8822652757079,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+xfce4-appfinder,322,0,0,70,0,0,302,322,100.0,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+xfce4-battery-plugin,149,0,0,43,0,0,176,149,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-clipman-plugin,445,0,33,71,0,1,440,478,93.09623430962343,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,136,140,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-datetime-plugin,52,0,0,19,0,0,47,52,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-dict,507,0,20,109,0,10,447,527,96.20493358633776,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,181,183,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-eyes-plugin,15,0,0,4,0,0,14,15,100.0,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,64,71,100.0,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+xfce4-genmon-plugin,56,0,0,14,0,0,54,56,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-mailwatch-plugin,47,14,596,23,7,80,46,657,7.15372907153729,Icelandic <translation-team-is@lists.sourceforge.net>
+xfce4-mixer,28,22,131,9,10,17,28,181,15.469613259668508,Icelandic <translation-team-is@lists.sourceforge.net>
+xfce4-mpc-plugin,76,0,0,24,0,0,74,76,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-netload-plugin,92,0,0,35,0,0,85,92,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-notes-plugin,92,0,71,49,0,8,93,163,56.44171779141104,Icelandic (http://www.transifex.com/projects/p/xfce-panel-plugins/language/is/)
+xfce4-notifyd,107,0,0,32,0,0,118,107,100.0,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+xfce4-panel,1709,0,0,395,0,0,1587,1709,100.0,Icelandic (https://www.transifex.com/xfce/teams/16840/is/)
+xfce4-places-plugin,160,0,0,45,0,0,163,160,100.0,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+xfce4-power-manager,597,0,420,182,0,20,604,1017,58.70206489675516,Icelandic (http://www.transifex.com/xfce/xfce4-power-manager/language/is/)
+xfce4-pulseaudio-plugin,35,0,91,14,0,14,26,126,27.77777777777778,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-screenshooter,548,0,0,81,0,0,514,548,100.0,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+xfce4-sensors-plugin,264,2,91,70,1,3,290,357,73.94957983193278,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-session,1066,0,0,208,0,0,1034,1066,100.0,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+xfce4-settings,1664,0,0,374,0,0,1603,1664,100.0,Icelandic (http://www.transifex.com/xfce/xfce4-settings/language/is/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,24,22,100.0,Icelandic (http://www.transifex.com/projects/p/xfce/language/is/)
+xfce4-systemload-plugin,73,0,0,22,0,0,74,73,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-taskmanager,210,0,47,74,0,11,205,257,81.71206225680933,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+xfce4-terminal,482,0,971,219,0,142,452,1453,33.17274604267034,Icelandic (http://www.transifex.com/xfce/xfce-apps/language/is/)
+xfce4-time-out-plugin,89,0,0,32,0,0,94,89,100.0,Icelandic (http://www.transifex.com/projects/p/xfce-panel-plugins/language/is/)
+xfce4-timer-plugin,134,0,0,42,0,0,129,134,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-verve-plugin,103,0,0,25,0,0,99,103,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,61,67,100.0,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-weather-plugin,1096,0,2572,286,0,44,1034,3668,29.880043620501635,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfce4-whiskermenu-plugin,168,2,179,72,1,45,167,349,48.13753581661891,Icelandic (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/is/)
+xfce4-xkb-plugin,35,0,13,13,0,8,33,48,72.91666666666666,Icelandic (http://www.transifex.com/xfce/xfce-panel-plugins/language/is/)
+xfconf,66,0,385,15,0,52,62,451,14.634146341463413,Icelandic <translation-team-is@lists.sourceforge.net>
+xfdesktop,976,0,0,221,0,0,932,976,100.0,Icelandic (http://www.transifex.com/projects/p/xfdesktop/language/is/)
+xfwm4,673,0,0,173,0,0,652,673,100.0,Icelandic (http://www.transifex.com/projects/p/xfwm4/language/is/)
+xplayer,1952,0,0,493,0,0,1887,1952,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+xplayer-plparser,1291,49,61,318,9,11,1131,1401,92.1484653818701,Icelandic <rglug@rglug.org>
+xreader,1641,0,0,372,0,0,1613,1641,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+xviewer,1677,0,0,324,0,0,1583,1677,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+yelp,448,0,0,104,0,0,418,448,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+yelp-xsl,81,0,0,59,0,0,79,81,100.0,Icelandic <translation-team-is@lists.sourceforge.net>
+yum-rhn-plugin,35,21,91,5,2,10,30,147,23.809523809523807,Icelandic (http://www.transifex.com/projects/p/fedora/language/is/)
+zenity,139,125,130,55,34,23,119,394,35.27918781725889,Icelandic <gnome@techattack.nu>

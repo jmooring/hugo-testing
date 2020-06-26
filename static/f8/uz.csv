@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,3641,0,9551,1133,0,1370,3534,13192,27.60006064281383,Uzbek <floss-uz-l10n@googlegroups.com>
+bug-buddy,593,0,379,74,0,16,492,972,61.008230452674894,Uzbek
+dasher,245,0,198,113,0,60,235,443,55.30474040632054,Uzbek
+gnome-desktop,301,0,29,68,0,8,272,330,91.21212121212122,Uzbek <floss-uz-l10n@googlegroups.com>
+gnome-menus,107,0,58,44,0,14,109,165,64.84848484848484,Uzbek
+gnome-panel,2352,86,6762,588,18,614,2032,9200,25.565217391304344,Uzbek
+gtk2,146,341,23697,118,210,4496,154,24184,0.6037049288785974,Uzbek <kmashrab@uni-bremen.de>
+iso-codes,3,3,12168,3,3,8529,3,12174,0.02464268112370626,Uzbek
+k3b,2831,1807,15992,913,418,1201,2681,20630,13.722733882695104,Uzbek <floss-uz-l10n@googlegroups.com>
+kaffeine,1081,92,1181,416,34,208,1062,2354,45.92183517417162,Uzbek <kmashrab@uni-bremen.de>
+po4a,23,0,1590,5,0,158,22,1613,1.4259144451332921,Uzbek <uz@li.org>
+xmms,1796,1,1448,800,1,216,2090,3245,55.34668721109399,Uzbek <uz-li@yahoogroups.com>

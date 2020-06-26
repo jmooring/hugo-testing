@@ -1,0 +1,75 @@
+---
+title: "kk-Kazakh (Қазақ тілі) - translation progress for f10"
+date: 2026-01-17T07:56:32+00:00
+code: kk
+name_english: Kazakh
+name_local: Қазақ тілі
+progress: 47.97
+progress_d: 0.14
+release: f10
+territories:
+ - AF
+ - CN
+ - IR
+ - KZ
+ - MN
+ - TR
+polib_error_count: 0
+could_not_process_count: 30
+---
+
+Language progress for Kazakh (kk) in Fedora f10 is:
+
+* 47.97% when we only look on started packages for this language.
+* 0.14% when we compare to every single translatable string in Fedora f10.
+
+Possible scripts are: CyrlArab
+
+* Total translatable string in Fedora f10: 5351743
+* Source words to translate in started packages: 15234
+* Translated words: 7307
+
+
+Download:
+
+
+
+
+* [kk generated stats (1.1 kB)]({{% resource url="/f10/kk.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 1998 | 1998 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-menus]({{< ref "/f10/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
+ | [gparted]({{< ref "/f10/package/gparted.md" >}}) | 1434 | 1434 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lxmenu-data]({{< ref "/f10/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
+ | [kmid]({{< ref "/f10/package/kmid.md" >}}) | 523 | 535 | 97.8 | Kazakh | 
+ | [xfburn]({{< ref "/f10/package/xfburn.md" >}}) | 1168 | 1296 | 90.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [ksig]({{< ref "/f10/package/ksig.md" >}}) | 71 | 85 | 83.5 | Kazakh | 
+ | [konq-plugins]({{< ref "/f10/package/konq-plugins.md" >}}) | 1205 | 1598 | 75.4 | Kazakh | 
+ | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 593 | 1077 | 55.1 | Kazakh | 
+ | [blueman]({{< ref "/f10/package/blueman.md" >}}) | 32 | 1034 | 3.1 | Kazakh <kk@li.org> | 
+ | [transmission]({{< ref "/f10/package/transmission.md" >}}) | 12 | 1111 | 1.1 | Kazakh <kk@li.org> | 
+ | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 14 | 2661 | 0.5 | Kazakh <kk@li.org> | 
+ | [jokosher]({{< ref "/f10/package/jokosher.md" >}}) | 3 | 2151 | 0.1 | Kazakh <kk@li.org> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+sugar-calculator,1,0,870,1,0,163,1,871,0.1148105625717566,LANGUAGE <LL@li.org>
+sugar-chat,1,0,54,1,0,33,1,55,1.8181818181818181,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-read,1,0,113,1,0,41,1,114,0.8771929824561403,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,0,0,1459,0,0,435,0,1459,0.0,LANGUAGE <LL@li.org>
+sugar-write,20,0,101,15,0,40,28,121,16.528925619834713,LANGUAGE <LL@li.org>

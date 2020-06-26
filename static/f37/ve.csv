@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+calibre,47,0,170920,47,0,19284,49,170967,0.02749068533693637,Venda (http://www.transifex.com/calibre/calibre/language/ve/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,319,9311,13277,275,6985,7970,321,22907,1.3925874186929759,Venda <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ve/>
+koffice-kivio,1896,1809,4712,555,785,1021,2336,8417,22.52584056076987,<en@li.org>
+libreoffice,29293,14818,124289,9530,7519,21271,36470,168400,17.394893111638954,LANGUAGE <LL@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+tuxpaint,353,1556,1854,127,170,164,367,3763,9.380813180972629,LANGUAGE <LL@li.org>

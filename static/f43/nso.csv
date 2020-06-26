@@ -1,0 +1,69 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,13,0,6015,13,0,953,14,6028,0.21566025215660253,Northern Sotho
+atril,75,0,4289,53,0,681,118,4364,1.7186067827681026,Northern Sotho (https://www.transifex.com/mate/teams/13566/nso/)
+budgie-session,513,3,0,100,1,0,736,516,99.4186046511628,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+caja,2954,0,7202,637,0,959,3889,10156,29.0862544308783,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+caja-actions,55,0,18757,42,0,1474,87,18812,0.29236657452689774,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+caja-extensions,12,0,833,11,0,170,27,845,1.4201183431952662,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+calibre,67,0,170900,66,0,19265,71,170967,0.039188849310100776,Northern Sotho (http://www.transifex.com/calibre/calibre/language/nso/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+cinnamon-translations,5,0,3202,5,0,808,9,3207,0.1559089491736826,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+engrampa,100,0,7715,57,0,826,162,7815,1.2795905310300704,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+eog,554,5,55,149,2,7,815,614,90.22801302931596,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+eom,232,0,1547,87,0,254,365,1779,13.041034288926362,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+gdk-pixbuf2,915,376,57,137,59,6,1487,1348,67.87833827893175,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gdk-pixbuf2-modules-extra,915,376,57,137,59,6,1487,1348,67.87833827893175,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gdm,21,224,405,7,35,45,37,650,3.230769230769231,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-control-center,2626,347,409,571,95,70,3886,3382,77.64636309875813,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-desktop3,316,4,0,72,1,0,489,320,98.75,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-mime-data,887,0,0,362,0,0,1561,887,100.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-panel,1861,940,719,250,126,132,2607,3520,52.86931818181818,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-session,513,3,0,100,1,0,736,516,99.4186046511628,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-settings-daemon,313,196,525,47,42,82,460,1034,30.270793036750483,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-shell-frippery,4,0,0,1,0,0,7,4,100.0,
+gnome-vfs2,1263,19,0,247,1,0,1877,1282,98.5179407176287,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtk2,6886,3500,3318,1245,807,732,10225,13704,50.248102743724466,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtk3,5264,3283,3306,974,781,732,7727,11853,44.41069771365899,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtk4,399,501,1532,84,260,477,562,2432,16.40625,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtkspell3,10,0,6,5,0,2,11,16,62.5,Northern Sotho <LL@li.org>
+imsettings,0,0,500,0,0,92,0,500,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Northern Sotho
+iso-codes,356,7243,15190,310,5354,9498,368,22789,1.562157181096143,Northern Sotho <sepedi@translate.org.za>
+libbonoboui,314,3,43,92,1,20,482,360,87.22222222222223,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libgnomeui,1270,83,66,314,19,12,1765,1419,89.49964763918253,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libreoffice,34904,13306,129790,12406,5922,21584,44810,178000,19.608988764044945,LANGUAGE <LL@li.org>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Northern Sotho (http://www.transifex.com/projects/p/fedora/language/nso/)
+marco,19,0,4152,8,0,425,30,4171,0.4555262526971949,Northern Sotho (https://www.transifex.com/mate/teams/13566/nso/)
+mate-applets,63,0,16044,56,0,1594,182,16107,0.3911342894393742,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-calc,18,0,3188,17,0,707,40,3206,0.561447286338116,Northern Sotho (https://www.transifex.com/mate/teams/13566/nso/)
+mate-control-center,441,7,7812,194,4,1329,686,8260,5.338983050847458,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-desktop,58,0,2354,17,0,278,109,2412,2.404643449419569,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-media,7,0,237,7,0,93,9,244,2.8688524590163933,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-menu,16,0,292,15,0,95,23,308,5.194805194805195,Northern Sotho (http://www.transifex.com/mate/MATE/language/nso/)
+mate-menus,4,0,99,4,0,35,5,103,3.8834951456310676,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-panel,2156,0,4597,296,0,526,3003,6753,31.92655116244632,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-polkit,1,0,122,1,0,20,1,123,0.8130081300813009,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-power-manager,18,0,5102,17,0,535,42,5120,0.3515625,Northern Sotho (https://www.transifex.com/mate/teams/13566/nso/)
+mate-sensors-applet,10,0,2212,10,0,217,30,2222,0.45004500450045004,Northern Sotho (https://www.transifex.com/mate/teams/13566/nso/)
+mate-session-manager,79,0,638,33,0,100,118,717,11.01813110181311,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-settings-daemon,184,0,2019,32,0,286,260,2203,8.35224693599637,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-system-monitor,33,0,1526,25,0,307,57,1559,2.116741500962155,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-terminal,55,0,4669,38,0,507,90,4724,1.1642675698560543,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Northern Sotho (http://app.transifex.com/mate/MATE/language/nso/)
+mate-user-admin,5,0,600,5,0,121,5,605,0.8264462809917356,Northern Sotho (https://www.transifex.com/mate/teams/13566/nso/)
+mate-utils,146,0,9816,77,0,995,236,9962,1.465569162818711,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+mingw-gdk-pixbuf,915,376,57,137,59,6,1487,1348,67.87833827893175,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw-gtk2,6886,3500,3318,1245,807,732,10225,13704,50.248102743724466,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw-gtk3,5264,3283,3306,974,781,732,7727,11853,44.41069771365899,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw-gtk4,399,501,1532,84,260,477,562,2432,16.40625,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+nautilus,3641,2671,1832,704,412,198,4773,8144,44.70776031434185,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+pluma,133,0,5574,75,0,1374,177,5707,2.33047135097249,Northern Sotho (https://app.transifex.com/mate/teams/13566/nso/)
+pluma-plugins,3,0,1138,3,0,127,14,1141,0.26292725679228746,Northern Sotho (https://www.transifex.com/mate/teams/13566/nso/)
+policycoreutils,13,0,6104,13,0,958,14,6117,0.2125224783390551,Northern Sotho
+python-blivet,37,0,568,3,0,78,42,605,6.115702479338843,Northern Sotho (http://www.transifex.com/projects/p/blivet/language/nso/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Northern Sotho
+redhat-menus,221,6,34,73,2,11,363,261,84.67432950191571,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+sos,0,0,123,0,0,30,0,123,0.0,none
+yelp,110,67,429,55,33,60,169,606,18.151815181518153,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bzflag,97,0,0,59,0,0,85,97,100.0,
+pootle,39,123,2262,19,31,409,37,2424,1.608910891089109,LANGUAGE <LL@li.org>

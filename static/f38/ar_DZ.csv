@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-shell-extension-dash-to-dock,357,66,0,79,17,0,305,423,84.39716312056737,Faissal Chamekh <chamfay@gmail.com>
+python-django,3754,0,94,862,0,27,4727,3848,97.55717255717255,Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/)
+python-django-taggit,30,0,0,13,0,0,29,30,100.0,
+python-django3,3766,0,15,853,0,14,4840,3781,99.60327955567311,Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/)
+siril,4243,5650,33020,715,1003,2019,3967,42913,9.887446694474868,Arabic (Algeria) <https://weblate.pixls.us/projects/siril/siril-application-1-2/ar_DZ/>

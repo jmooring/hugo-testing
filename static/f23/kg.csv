@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,74,0,0,30,0,0,75,74,100.0,Kikongo <lundombe01@zaya-dio.com>
+bzflag,97,0,0,59,0,0,85,97,100.0,
+cinnamon-desktop,205,0,26,22,0,9,226,231,88.74458874458875,"Kikongo, kg <lundombe01@zaya-dio.com>"
+gnome-desktop3,384,0,0,49,0,0,392,384,100.0,"Kikongo, kg <lundombe01@zaya-dio.com>"
+gnome-menus,125,0,0,46,0,0,135,125,100.0,Kikongo <lundombe01@zaya-dio.com>
+gtk3,3245,748,9290,983,278,1470,3196,13283,24.429722201309943,GNOME kikongo Team <lundombe01@zaya-dio.com>
+librfm,54,313,2030,50,154,394,74,2397,2.252816020025031,Kikongo <lundombe01@zaya-dio.com>
+mingw-gtk3,3245,748,9290,983,278,1470,3196,13283,24.429722201309943,GNOME kikongo Team <lundombe01@zaya-dio.com>
+nautilus-sendto,39,6,230,11,2,44,34,275,14.181818181818182,kg (Kikongo) <kongo@kintuadi.org>
+rodent,69,338,9227,55,161,596,76,9634,0.7162134108366203,Kikongo <lundombe01@zaya-dio.com>
+stellarium,2,0,17166,2,0,4566,2,17168,0.011649580615097856,Kongo <kg@li.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,55,81,100.0,kikongo <lundombe01@zaya-dio.com>

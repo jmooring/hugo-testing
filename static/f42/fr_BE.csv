@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+budgie-desktop,1638,0,221,412,0,69,1992,1859,88.11188811188812,French (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/fr_BE/)
+intltool,9,0,1,2,0,1,10,10,90.0,NONE <kenneth@gnu.org>
+mame,824,0,2861,319,0,969,1092,3685,22.36092265943012,MAME Language Team

@@ -1,0 +1,31 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Iloko (http://www.transifex.com/projects/p/fedora-abrt/language/ilo/)
+anaconda,223,0,6492,38,0,1080,234,6715,3.3209233060312733,Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/)
+certmonger,0,0,1669,0,0,270,0,1669,0.0,Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/)
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,
+control-center,0,0,1313,0,0,756,0,1313,0.0,
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Iloko
+entangle,0,0,934,0,0,209,0,934,0.0,Iloko
+initial-setup,0,0,85,0,0,18,0,85,0.0,Iloko (http://www.transifex.com/projects/p/initial-setup/language/ilo/)
+libosinfo,0,0,1871,0,0,554,0,1871,0.0,Iloko
+libreport,0,0,3501,0,0,452,0,3501,0.0,Iloko (http://www.transifex.com/projects/p/libreport/language/ilo/)
+libvirt-glib,0,0,138,0,0,29,0,138,0.0,Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/)
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Iloko (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ilo/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+pykickstart,0,0,448,0,0,50,0,448,0.0,Iloko (http://www.transifex.com/projects/p/pykickstart/language/ilo/)
+python-blivet,45,0,633,6,0,134,52,678,6.637168141592921,Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Iloko
+python-meh,0,0,109,0,0,23,0,109,0.0,Iloko
+redhat-menus,106,6,149,43,4,39,164,261,40.61302681992337,
+sos,0,0,267,0,0,36,0,267,0.0,none
+switchdesk,30,0,107,14,0,5,39,137,21.897810218978105,
+system-config-date,0,0,1347,0,0,768,0,1347,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Iloko (http://www.transifex.com/projects/p/system-config-kickstart/language/ilo/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+virt-viewer,0,0,692,0,0,148,0,692,0.0,Iloko (http://www.transifex.com/projects/p/virt-viewer/language/ilo/)

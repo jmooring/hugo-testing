@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,57381,4742,103677,21855,1890,14133,56751,165800,34.60856453558504,LANGUAGE <LL@li.org>
+mate-menu,0,0,308,0,0,110,0,308,0.0,Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/)
+sugar-typing-turtle,599,0,0,127,0,0,606,599,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,5,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,137,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,27,29,100.0,LANGUAGE <LL@li.org>

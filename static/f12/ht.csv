@@ -1,0 +1,30 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+etoys,18049,772,8868,3371,248,808,18441,27689,65.18473039835314,LANGUAGE <LL@li.org>
+homebank,103,0,1404,54,0,480,112,1507,6.83477106834771,Haitian; Haitian Creole <ht@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+pootle,206,191,1726,82,41,298,213,2123,9.703250117757891,LANGUAGE <LL@li.org>
+sugar,182,16,121,48,5,63,181,319,57.05329153605015,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,46,0,4,25,0,3,98,50,92.0,LANGUAGE <LL@li.org>
+sugar-calculator,15,0,549,5,0,112,29,564,2.6595744680851063,LANGUAGE <LL@li.org>
+sugar-chat,21,3,0,10,1,0,27,24,87.5,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,76,0,0,15,0,76,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,100,0,0,22,0,0,105,100,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,50,0,0,25,0,0,68,50,100.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,52,0,0,16,0,0,55,52,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,26,0,0,17,0,0,27,26,100.0,LANGUAGE <LL@li.org>
+sugar-record,137,0,0,73,0,0,159,137,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,69,0,0,42,0,0,75,69,100.0,LANGUAGE <LL@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>

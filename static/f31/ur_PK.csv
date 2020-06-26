@@ -1,0 +1,69 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Thunar,3158,0,1251,564,0,198,3585,4409,71.62621909730098,Urdu (Pakistan) (https://www.transifex.com/xfce/teams/16840/ur_PK/)
+atril,10,0,1798,10,0,410,25,1808,0.5530973451327433,Urdu (Pakistan) (https://www.transifex.com/mate/teams/13566/ur_PK/)
+engrampa,868,0,1167,182,0,241,995,2035,42.65356265356265,Urdu (Pakistan) (https://www.transifex.com/mate/teams/13566/ur_PK/)
+eom,7,0,1762,7,0,334,20,1769,0.395703787450537,Urdu (Pakistan) (https://www.transifex.com/mate/teams/13566/ur_PK/)
+exo,1127,0,327,235,0,64,1308,1454,77.51031636863824,Urdu (Pakistan) (http://www.transifex.com/xfce/exo/language/ur_PK/)
+gigolo,333,0,134,96,0,31,430,467,71.30620985010707,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-apps/language/ur_PK/)
+godot,45,414,9157,11,155,2171,64,9616,0.46797004991680535,Urdu (Pakistan) <https://hosted.weblate.org/projects/godot-engine/godot/ur_PK/>
+gpicview,219,0,17,44,0,8,309,236,92.79661016949152,Urdu <makki.ma@gmail.com>
+libfm,0,0,1575,0,0,394,0,1575,0.0,LANGUAGE <LL@li.org>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Urdu (Pakistan) (http://www.transifex.com/mate/MATE/language/ur_PK/)
+libxfce4ui,281,0,631,94,0,83,378,912,30.811403508771928,Urdu (Pakistan) (http://www.transifex.com/xfce/libxfce4ui/language/ur_PK/)
+libxfce4util,413,0,11,4,0,3,513,424,97.40566037735849,Urdu (Pakistan) (http://www.transifex.com/xfce/libxfce4util/language/ur_PK/)
+lxappearance,0,0,234,0,0,80,0,234,0.0,LANGUAGE <LL@li.org>
+lxappearance-obconf,0,0,196,0,0,27,0,196,0.0,LANGUAGE <LL@li.org>
+lxdm,0,0,47,0,0,25,0,47,0.0,LANGUAGE <LL@li.org>
+lxinput,60,5,18,21,2,3,69,83,72.28915662650603,Urdu <makki.ma@gmail.com>
+lxlauncher,41,10,7,10,1,6,42,58,70.6896551724138,Urdu <makki.ma@gmail.com>
+lxmusic,195,1,7,86,1,2,250,203,96.05911330049261,Urdu <makki.ma@gmail.com>
+lxrandr,74,59,34,20,10,11,106,167,44.31137724550898,Urdu <makki.ma@gmail.com>
+lxsession,29,9,717,12,4,150,33,755,3.8410596026490067,Urdu <makki.ma@gmail.com>
+lxtask,112,0,18,43,0,8,163,130,86.15384615384616,Urdu <makki.ma@gmail.com>
+mate-applets,2,0,1513,2,0,100,26,1515,0.132013201320132,Urdu (Pakistan) (https://www.transifex.com/mate/teams/13566/ur_PK/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,Urdu (Pakistan) (http://www.transifex.com/mate/MATE/language/ur_PK/)
+mate-panel,1,0,941,1,0,62,13,942,0.10615711252653928,Urdu (Pakistan) (https://www.transifex.com/mate/teams/13566/ur_PK/)
+mate-polkit,1,0,122,1,0,20,2,123,0.8130081300813009,Urdu (Pakistan) (https://www.transifex.com/mate/teams/13566/ur_PK/)
+mate-sensors-applet,2,0,311,2,0,107,14,313,0.6389776357827476,Urdu (Pakistan) (https://www.transifex.com/mate/teams/13566/ur_PK/)
+mate-session-manager,3,0,709,3,0,128,4,712,0.42134831460674155,Urdu (Pakistan) (https://www.transifex.com/mate/teams/13566/ur_PK/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Urdu (Pakistan) (http://www.transifex.com/mate/MATE/language/ur_PK/)
+orage,1792,0,809,715,0,127,2212,2601,68.89657823913879,Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/)
+osmo,1599,0,172,657,0,41,2080,1771,90.28797289666855,urducoder.com <makkiabufaris@aol.com>
+pgadmin3,1373,8833,6692,552,2406,1444,1615,16898,8.125221919753816,urdu <pgadmin-hackers@postgresql.org>
+spacefm,453,8,8261,171,3,1394,539,8722,5.193762898417794,Urdu (Pakistan) (http://www.transifex.com/projects/p/spacefm/language/ur_PK/)
+thunar-archive-plugin,86,0,0,13,0,0,84,86,100.0,Urdu (Pakistan) (http://www.transifex.com/xfce/thunar-plugins/language/ur_PK/)
+thunar-media-tags-plugin,142,0,14,48,0,10,165,156,91.02564102564102,Urdu (Pakistan) (http://www.transifex.com/xfce/thunar-plugins/language/ur_PK/)
+thunar-vcs-plugin,367,0,228,207,0,113,491,595,61.680672268907564,Urdu (Pakistan) (http://www.transifex.com/xfce/thunar-plugins/language/ur_PK/)
+thunar-vfs,335,6,46,66,1,19,384,387,86.56330749354005,urdu <makki.ma@gmail.com>
+thunar-volman,252,0,247,69,0,51,309,499,50.50100200400801,Urdu (Pakistan) (http://www.transifex.com/xfce/thunar-volman/language/ur_PK/)
+xfbib,342,0,0,75,0,0,393,342,100.0,Urdu <makki.ma@gmail.com>
+xfburn,291,0,1038,120,0,171,406,1329,21.896162528216703,Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/)
+xfce4-battery-plugin,124,0,23,32,0,10,157,147,84.35374149659864,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-clipman-plugin,197,0,281,36,0,36,250,478,41.21338912133891,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-cpugraph-plugin,45,0,31,25,0,12,49,76,59.210526315789465,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-datetime-plugin,51,0,1,18,0,1,52,52,98.07692307692307,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-dict,326,0,201,77,0,42,390,527,61.859582542694504,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-apps/language/ur_PK/)
+xfce4-diskperf-plugin,134,0,47,30,0,7,149,181,74.03314917127072,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-fsguard-plugin,56,0,15,16,0,3,60,71,78.87323943661971,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-genmon-plugin,16,0,40,9,0,5,17,56,28.57142857142857,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-mailwatch-plugin,647,10,0,109,1,0,814,657,98.4779299847793,Urdu <makki.ma@gmail.com>
+xfce4-mount-plugin,210,0,164,40,0,16,245,374,56.14973262032086,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-mpc-plugin,35,0,43,14,0,10,41,78,44.871794871794876,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-panel,134,503,1095,43,134,217,172,1732,7.736720554272518,urdu <makki.ma@gmail.com>
+xfce4-places-plugin,77,0,85,34,0,13,95,162,47.53086419753087,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-power-manager,650,36,8,149,5,1,845,694,93.65994236311239,Urdu <makki.ma@gmail.com>
+xfce4-screenshooter,195,0,261,43,0,33,197,456,42.76315789473684,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-apps/language/ur_PK/)
+xfce4-sensors-plugin,255,0,104,56,0,19,316,359,71.03064066852369,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-session,480,0,360,80,0,78,592,840,57.14285714285714,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce4-session/language/ur_PK/)
+xfce4-smartbookmark-plugin,14,0,8,8,0,1,21,22,63.63636363636363,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-systemload-plugin,42,0,45,12,0,11,50,87,48.275862068965516,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-taskmanager,9,22,92,9,12,24,28,123,7.317073170731707,Urdu <makki.ma@gmail.com>
+xfce4-terminal,699,113,285,154,35,93,848,1097,63.719234275296266,urdu <makki.ma@gmail.com>
+xfce4-time-out-plugin,41,0,59,19,0,16,63,100,41.0,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-timer-plugin,66,0,68,25,0,17,72,134,49.25373134328358,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-verve-plugin,47,0,0,10,0,0,59,47,100.0,Urdu <makki.ma@gmail.com>
+xfce4-wavelan-plugin,40,0,27,9,0,9,52,67,59.70149253731343,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfce4-xkb-plugin,33,0,15,12,0,9,42,48,68.75,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur_PK/)
+xfconf,241,0,217,39,0,29,274,458,52.62008733624454,Urdu (Pakistan) (http://www.transifex.com/xfce/xfconf/language/ur_PK/)
+xfmpc,122,0,53,55,0,23,177,175,69.71428571428572,Urdu (Pakistan) (http://www.transifex.com/xfce/xfce-apps/language/ur_PK/)
+xfwm4,437,0,195,122,0,47,564,632,69.14556962025317,Urdu (Pakistan) (https://www.transifex.com/xfce/teams/16840/ur_PK/)

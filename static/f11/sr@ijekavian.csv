@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,11697,0,0,2174,0,0,11366,11697,100.0,Serbian <kde-i18n-sr@kde.org>
+at-spi,15,0,0,4,0,0,18,15,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+atk,359,8,8,114,7,5,336,375,95.73333333333333,Serbian (sr) <gnom@prevod.org>
+file-roller,799,138,34,205,32,7,766,971,82.28630278063852,Serbian (sr) <serbiangnome-lista@nongnu.org>
+glib2,731,455,1164,80,80,212,662,2350,31.106382978723406,Serbian (sr) <serbiagnome-lista@nongnu.org>
+gnome-mime-data,887,0,0,362,0,0,943,887,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-panel,3423,331,183,445,46,26,3150,3937,86.94437388874778,Serbian (sr) <serbiagnome-lista@nongnu.org>
+gnome-vfs2,747,352,183,165,51,32,706,1282,58.268330733229334,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gtk2,6917,3096,2915,1250,727,666,6475,12928,53.504022277227726,Serbian (sr) <serbiangnome-lista@nongnu.org>
+kmid2,947,0,0,311,0,0,902,947,100.0,sr <kde-i18n-sr@kde.org>
+knemo,1091,2,4,300,1,2,1033,1097,99.45305378304467,Serbian <kde-i18n-sr@kde.org>
+konq-plugins,1692,0,0,546,0,0,1705,1692,100.0,Serbian <kde-i18n-sr@kde.org>
+libbonoboui,314,7,39,92,3,18,323,360,87.22222222222223,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgnome,1407,0,0,219,0,0,1370,1407,100.0,Serbian (sr) <gnom@prevod.org>
+libgnomecanvas,357,0,0,94,0,0,369,357,100.0,Serbian (sr) <serbiagnome-lista@nongnu.org>
+libgnomeui,1270,83,66,314,19,12,1175,1419,89.49964763918253,Serbian (sr) <gnom@prevod.org>
+mingw32-atk,359,8,8,114,7,5,336,375,95.73333333333333,Serbian (sr) <gnom@prevod.org>
+mingw32-glib2,731,455,1164,80,80,212,662,2350,31.106382978723406,Serbian (sr) <serbiagnome-lista@nongnu.org>
+mingw32-gtk2,6917,3096,2915,1250,727,666,6475,12928,53.504022277227726,Serbian (sr) <serbiangnome-lista@nongnu.org>
+nautilus,6241,524,211,1094,97,23,5750,6976,89.46387614678899,Serbian (sr) <serbiangnome-lista@nongnu.org>

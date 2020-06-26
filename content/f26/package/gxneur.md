@@ -1,0 +1,45 @@
+---
+title: "gxneur - translation progress for f26"
+package: gxneur
+date: 2026-01-17T17:03:27+00:00
+started_languages: 7
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 7
+release: f26
+---
+The package gxneur (version 0.20.0):
+
+* represents 929 source words to be translated
+* is translated into 7 languages in Fedora f26
+
+
+* contains 7 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ru]({{< ref "/f26/language/ru.md" >}}) | 929 | 929 | 100.0 | /mnt/stockage/packages/f26/gxneur/po/ru.po | 
+ | [uk]({{< ref "/f26/language/uk.md" >}}) | 363 | 929 | 39.1 | /mnt/stockage/packages/f26/gxneur/po/uk.po | 
+ | [he]({{< ref "/f26/language/he.md" >}}) | 314 | 929 | 33.8 | /mnt/stockage/packages/f26/gxneur/po/he.po | 
+ | [de]({{< ref "/f26/language/de.md" >}}) | 287 | 929 | 30.9 | /mnt/stockage/packages/f26/gxneur/po/de.po | 
+ | [be]({{< ref "/f26/language/be.md" >}}) | 281 | 929 | 30.2 | /mnt/stockage/packages/f26/gxneur/po/be.po | 
+ | [ro]({{< ref "/f26/language/ro.md" >}}) | 89 | 929 | 9.6 | /mnt/stockage/packages/f26/gxneur/po/ro.po | 
+ | [es]({{< ref "/f26/language/es.md" >}}) | 76 | 929 | 8.2 | /mnt/stockage/packages/f26/gxneur/po/es.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

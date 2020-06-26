@@ -1,0 +1,188 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4044,0,0,485,0,0,4088,4044,100.0,Oriya <oriya-it@googlegroups.com>
+GConf2-dbus,1644,0,2373,241,0,238,1777,4017,40.926064227035106,Oriya <oriya-group@lists.sarovar.org>
+NetworkManager,714,0,963,259,0,116,819,1677,42.57602862254025,Oriya <oriya-it@googlegroups.com>
+NetworkManager-openconnect,52,0,0,19,0,0,60,52,100.0,Oriya <oriya-it@googlegroups.com>
+NetworkManager-vpnc,139,0,0,36,0,0,158,139,100.0,Oriya <oriya-it@googlegroups.com>
+PackageKit,1000,0,0,207,0,0,977,1000,100.0,Oriya <oriya-it@googlegroups.com>
+alacarte,42,0,0,16,0,0,50,42,100.0,Oriya
+anaconda,8997,0,0,1133,0,0,9541,8997,100.0,Oriya <oriya-it@googlegroups.com>
+anjuta,507,0,7376,358,0,1793,651,7883,6.431561588227833,Oriya <oriya-it@googlegroups.com>
+at-spi,20,0,0,4,0,0,20,20,100.0,Oriya <oriya-it@googlegroups.com>
+atk,370,1,4,123,1,2,319,375,98.66666666666667,Oriya <oriya-group@lists.sarovar.org>
+audit,1241,0,0,267,0,0,1259,1241,100.0,Oriya <oriya-it@googlegroups.com>
+authconfig,1357,0,0,242,0,0,1845,1357,100.0,Oriya <oriya-it@googlegroups.com>
+brasero,5280,0,0,961,0,0,5113,5280,100.0,Oriya <oriya-it@googlegroups.com>
+bug-buddy,1010,0,0,89,0,0,917,1010,100.0,Oriya <oriya-it@googlegroups.com>
+ccsm,348,18,183,107,8,20,350,549,63.387978142076506,gist oriya team <info.gist@cdac.in>
+cheese,527,0,0,99,0,0,541,527,100.0,Oriya <oriya-it@googlegroups.com>
+chkconfig,423,9,16,86,2,2,482,448,94.41964285714286,Oriya
+compiz,66,0,0,11,0,0,68,66,100.0,Oriya <oriya-group@lists.sarovar.org>
+control-center,826,5,2354,340,4,425,1003,3185,25.934065934065938,Oriya <oriya-it@googlegroups.com>
+dasher,528,0,0,199,0,0,604,528,100.0,Oriya
+deskbar-applet,1242,0,412,334,0,21,1272,1654,75.0906892382104,Oriya <oriya-it@googlegroups.com>
+devhelp,309,0,0,71,0,0,313,309,100.0,Oriya <oriya-group@lists.sarovar.org>
+eel2,161,0,0,31,0,0,130,161,100.0,Oriya
+ekiga,4043,0,0,667,0,0,3886,4043,100.0,Oriya <oriya-it@googlegroups.com>
+emerald,762,12,0,214,1,0,847,774,98.44961240310077,gist oriya team <info.gist@cdac.in>
+empathy,1720,0,146,462,0,6,1821,1866,92.17577706323688,Oriya <oriya-it@googlegroups.com>
+eog,783,35,437,216,2,67,825,1255,62.39043824701195,Oriya <oriya-it@googlegroups.com>
+epiphany,3575,0,664,883,0,33,3774,4239,84.33592828497287,Oriya <oriya-it@googlegroups.com>
+evince,1155,0,0,312,0,0,1267,1155,100.0,Oriya <oriya-it@googlegroups.com>
+evolution,22130,0,0,5052,0,0,22430,22130,100.0,Oriya <oriya-it@googlegroups.com>
+evolution-data-server,5091,0,0,1040,0,0,5357,5091,100.0,Oriya <oriya-it@googlegroups.com>
+evolution-exchange,1339,0,0,196,0,0,1387,1339,100.0,Oriya <oriya-it@googlegroups.com>
+evolution-mapi,284,0,0,50,0,0,299,284,100.0,Oriya <oriya-it@googlegroups.com>
+evolution-rss,494,0,172,177,0,7,579,666,74.17417417417418,Oriya <oriya-it@googlegroups.com>
+f-spot,1537,0,2016,552,0,334,1745,3553,43.259217562623135,Oriya <oriya-it@googlegroups.com>
+file-roller,1267,0,0,284,0,0,1355,1267,100.0,Oriya <oriya-it@googlegroups.com>
+firstboot,654,0,0,54,0,0,663,654,100.0,Oriya <oriya-it@googlegroups.com>
+gcalctool,1111,0,262,400,0,9,1242,1373,80.91769847050256,Oriya <oriya-it@googlegroups.com>
+gconf-editor,336,0,0,98,0,0,386,336,100.0,Oriya <oriya-it@googlegroups.com>
+gdm,1314,0,0,236,0,0,1347,1314,100.0,Oriya <oriya-it@googlegroups.com>
+gedit,4942,0,0,1098,0,0,4926,4942,100.0,Oriya <oriya-it@googlegroups.com>
+gedit-plugins,281,0,0,52,0,0,282,281,100.0,Oriya <oriya-group@lists.sarovar.org>
+ggz-gtk-client,5,0,0,5,0,0,7,5,100.0,Oriya <oriya-group@lists.sarovar.org>
+gimp,3131,9264,9036,1107,2922,1679,3763,21431,14.609677569875416,Oriya <oriya-it@googlegroups.com>
+glade3,428,162,4023,281,81,837,491,4613,9.278127032300022,Oriya <oriya-it@googlegroups.com>
+glib2,2350,0,0,372,0,0,2380,2350,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-applets,3374,0,0,793,0,0,3594,3374,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-backgrounds,23,0,0,17,0,0,27,23,100.0,Oriya
+gnome-bluetooth,349,0,176,129,0,20,386,525,66.47619047619048,Oriya <oriya-it@googlegroups.com>
+gnome-desktop,349,0,0,52,0,0,324,349,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-doc-utils,238,0,0,92,0,0,242,238,100.0,Oriya
+gnome-games,5712,176,2488,1446,89,384,5753,8376,68.19484240687679,Oriya <oriya-it@googlegroups.com>
+gnome-icon-theme,20,0,0,16,0,0,22,20,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-keyring,1823,0,0,276,0,0,1800,1823,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-mag,298,0,0,42,0,0,299,298,100.0,Oriya
+gnome-media,1190,0,0,287,0,0,1257,1190,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-menus,157,0,0,56,0,0,182,157,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-netstatus,418,0,0,106,0,0,430,418,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-nettool,523,0,0,206,0,0,563,523,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-packagekit,3727,418,229,712,54,31,3546,4374,85.20804755372656,Oriya
+gnome-panel,4487,0,0,615,0,0,3941,4487,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-power-manager,1982,0,1302,303,0,170,2024,3284,60.353227771010964,Oriya <oriya-it@googlegroups.com>
+gnome-screensaver,975,0,0,154,0,0,1015,975,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-session,256,87,336,46,29,38,250,679,37.702503681885126,Oriya <oriya-it@googlegroups.com>
+gnome-settings-daemon,349,49,915,86,6,126,370,1313,26.580350342726582,Oriya <oriya-it@googlegroups.com>
+gnome-system-monitor,918,0,0,239,0,0,957,918,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-terminal,3555,0,330,406,0,25,3772,3885,91.5057915057915,Oriya <oriya-it@googlegroups.com>
+gnome-themes,109,0,0,30,0,0,116,109,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-user-share,289,0,0,47,0,0,303,289,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-utils,4314,0,0,726,0,0,4596,4314,100.0,Oriya <oriya-it@googlegroups.com>
+gnome-vfs2,1508,0,0,301,0,0,1452,1508,100.0,Oriya
+gnote,1631,0,443,289,0,23,1762,2074,78.64030858244936,Oriya <oriya-it@googlegroups.com>
+gok,1539,0,421,430,0,13,1693,1960,78.52040816326532,Oriya <oriya-it@googlegroups.com>
+gst-mixer,2022,0,129,593,0,3,2064,2151,94.00278940027894,Oriya <oriya-it@googlegroups.com>
+gstreamer-plugins-base,56,137,503,15,20,107,58,696,8.045977011494253,Oriya <gora_mohanty@yahoo.co.in>
+gstreamer-plugins-good,35,170,276,26,21,35,41,481,7.276507276507277,Oriya <gora_mohanty@yahoo.co.in>
+gtk2,11527,0,1401,2530,0,113,10838,12928,89.16305693069307,Oriya <oriya-it@googlegroups.com>
+gtk2-engines,119,0,0,47,0,0,147,119,100.0,Oriya <oriya-it@googlegroups.com>
+gtkhtml3,1261,0,0,560,0,0,1461,1261,100.0,Oriya <oriya-it@googlegroups.com>
+gtksourceview,51,0,798,42,0,300,56,849,6.007067137809187,Oriya <oriya-group@lists.sarovar.org>
+gtksourceview2,1099,0,0,438,0,0,1076,1099,100.0,Oriya <oriya-it@googlegroups.com>
+gucharmap,803,0,0,298,0,0,883,803,100.0,Oriya <oriya-it@googlegroups.com>
+gvfs,1243,0,98,321,0,3,1292,1341,92.69202087994034,Oriya <oriya-it@googlegroups.com>
+hamster-applet,250,0,0,101,0,0,300,250,100.0,Oriya <oriya-it@googlegroups.com>
+hwbrowser,116,0,0,51,0,0,125,116,100.0,Oriya <oriya-group@lists.sarovar.org>
+ibus,449,0,0,84,0,0,433,449,100.0,Oriya <oriya-it@googlegroups.com>
+im-chooser,152,0,0,34,0,0,157,152,100.0,Oriya
+imsettings,979,0,0,155,0,0,974,979,100.0,Oriya <oriya-it@googlegroups.com>
+initscripts,4169,0,0,991,0,0,5304,4169,100.0,Oriya <oriya-it@googlegroups.com>
+iok,142,0,0,36,0,0,169,142,100.0,Oriya <oriya-it@googlegroups.com>
+kexec-tools,206,0,0,14,0,0,227,206,100.0,Oriya <oriya-group@lists.sarovar.org>
+libbonobo,543,0,0,107,0,0,495,543,100.0,Oriya <oriya-group@lists.sarovar.org>
+libbonoboui,368,0,0,115,0,0,386,368,100.0,Oriya <oriya-it@googlegroups.com>
+libgdl,211,0,391,64,0,29,197,602,35.04983388704319,Oriya <oriya-it@googlegroups.com>
+libgnome,1772,0,0,273,0,0,1624,1772,100.0,Oriya <oriya-it@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,374,378,100.0,Oriya <oriya-group@lists.sarovar.org>
+libgnomekbd,235,0,0,49,0,0,255,235,100.0,Oriya <oriya-it@googlegroups.com>
+libgnomeprint22,168,0,0,98,0,0,168,168,100.0,Oriya <oriya-group@lists.sarovar.org>
+libgnomeprintui22,481,0,0,154,0,0,520,481,100.0,Oriya <oriya-it@googlegroups.com>
+libgnomeui,1226,0,0,320,0,0,1350,1226,100.0,Oriya
+libgtop2,126,0,0,40,0,0,133,126,100.0,Oriya <oriya-it@googlegroups.com>
+libgweather,6104,0,0,4561,0,0,6144,6104,100.0,Oriya <oriya-it@googlegroups.com>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libuser,1026,31,7,218,6,1,1451,1064,96.42857142857143,Oriya <oriya-group@lists.sarovar.org>
+libvirt,5093,3314,1006,1035,636,163,5303,9413,54.106023584404554,Oriya
+libwnck,1124,0,0,241,0,0,1073,1124,100.0,Oriya <oriya-it@googlegroups.com>
+lxmenu-data,97,0,0,37,0,0,106,97,100.0,Oriya
+metacity,3318,181,365,399,6,8,3007,3864,85.86956521739131,Oriya <oriya-it@googlegroups.com>
+mingw32-atk,370,1,4,123,1,2,319,375,98.66666666666667,Oriya <oriya-group@lists.sarovar.org>
+mingw32-glib2,2350,0,0,372,0,0,2380,2350,100.0,Oriya <oriya-it@googlegroups.com>
+mingw32-gtk2,11527,0,1401,2530,0,113,10838,12928,89.16305693069307,Oriya <oriya-it@googlegroups.com>
+mingw32-gtkhtml3,1261,0,0,560,0,0,1461,1261,100.0,Oriya <oriya-it@googlegroups.com>
+mousetweaks,426,0,0,94,0,0,461,426,100.0,Oriya
+nautilus,7649,0,549,1309,0,14,7800,8198,93.30324469382776,Oriya <oriya-it@googlegroups.com>
+nautilus-cd-burner,1306,0,0,210,0,0,1308,1306,100.0,Oriya <oriya-group@lists.sarovar.org>
+nautilus-open-terminal,166,0,0,16,0,0,138,166,100.0,Oriya <oriya-it@googlegroups.com>
+nautilus-sendto,319,0,0,68,0,0,291,319,100.0,Oriya <oriya-it@googlegroups.com>
+orca,1404,277,2023,562,158,547,1577,3704,37.904967602591796,Oriya <oriya-it@googlegroups.com>
+pam,500,25,74,107,4,9,590,599,83.47245409015025,Oriya
+paprefs,99,0,0,19,0,0,113,99,100.0,Oriya <oriya-it@googlegroups.com>
+passwd,291,8,0,51,2,0,350,299,97.32441471571906,Oriya <oriya-group@lists.sarovar.org>
+pavucontrol,202,0,0,73,0,0,257,202,100.0,Oriya <oriya-it@googlegroups.com>
+pessulus,124,0,0,32,0,0,163,124,100.0,Oriya <oriya-it@googlegroups.com>
+pidgin,18106,28,11,3979,6,3,18823,18145,99.78506475613116,Oriya <oriya-it@googlegroups.com>
+policycoreutils,3875,167,321,664,25,24,4515,4363,88.81503552601421,Oriya
+publican,851,0,0,42,0,0,768,851,100.0,Oriya <oriya-it@googlegroups.com>
+publican-fedora,107,0,0,7,0,0,109,107,100.0,Oriya <oriya-group@lists.sarovar.org>
+publican-ovirt,288,0,0,27,0,0,279,288,100.0,Oriya <oriya-group@lists.sarovar.org>
+pulseaudio,2703,4,0,386,1,0,2802,2707,99.85223494643517,Oriya <oriya-it@googlegroups.com>
+pykickstart,284,0,0,25,0,0,271,284,100.0,Oriya
+redhat-menus,261,0,0,86,0,0,300,261,100.0,Oriya <oriya-group@lists.sarovar.org>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,4135,221,464,401,26,27,4309,4820,85.78838174273858,Oriya <oriya-group@lists.sarovar.org>
+rhnsd,42,0,0,10,0,0,45,42,100.0,Oriya <oriya-group@lists.sarovar.org>
+rhpl,185,0,0,80,0,0,193,185,100.0,Oriya <oriya-group@lists.sarovar.org>
+rhpxl,120,0,0,43,0,0,152,120,100.0,Oriya <oriya-group@lists.sarovar.org>
+rhythmbox,687,0,3823,331,0,727,817,4510,15.23281596452328,Oriya <oriya-it@googlegroups.com>
+sabayon,1178,0,0,230,0,0,1372,1178,100.0,Oriya <oriya-it@googlegroups.com>
+seahorse,264,66,2719,120,25,501,329,3049,8.658576582486061,Oriya <oriya-it@googlegroups.com>
+seahorse-plugins,887,0,272,230,0,17,1021,1159,76.53149266609147,Oriya <oriya-it@googlegroups.com>
+setroubleshoot,593,0,0,168,0,0,653,593,100.0,Oriya <oriya-it@googlegroups.com>
+setroubleshoot-plugins,2995,0,5281,147,0,100,2638,8276,36.1889801836636,Oriya <oriya-it@googlegroups.com>
+setuptool,73,0,0,19,0,0,78,73,100.0,Oriya
+smolt,1174,0,0,212,0,0,1166,1174,100.0,Oriya <oriya-it@googlegroups.com>
+sos,174,76,17,31,2,3,179,267,65.1685393258427,Oriya <oriya-it@googlegroups.com>
+sound-juicer,1024,0,0,198,0,0,1087,1024,100.0,Oriya <oriya-it@googlegroups.com>
+swfdec-gnome,101,0,0,28,0,0,128,101,100.0,Oriya
+switchdesk,139,0,0,20,0,0,178,139,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-config-bind,9434,0,0,1065,0,0,9301,9434,100.0,Oriya
+system-config-boot,46,0,0,10,0,0,51,46,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-config-date,1038,0,0,617,0,0,1109,1038,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,484,398,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-config-firewall,2497,0,0,303,0,0,2560,2497,100.0,Oriya <oriya-it@googlegroups.com>
+system-config-httpd,858,0,0,223,0,0,1135,858,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-config-kdump,383,0,0,35,0,0,381,383,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-config-keyboard,78,0,0,12,0,0,98,78,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-config-kickstart,1039,0,0,264,0,0,1112,1039,100.0,Oriya <oriya-it@googlegroups.com>
+system-config-language,49,0,0,11,0,0,51,49,100.0,Oriya <oriya-group@lists.sarovar.org>
+system-config-lvm,2228,0,0,343,0,0,2437,2228,100.0,Oriya <oriya-it@googlegroups.com>
+system-config-netboot,1135,0,0,168,0,0,1288,1135,100.0,Oriya
+system-config-network,2934,0,0,704,0,0,3625,2934,100.0,Oriya <oriya-it@googlegroups.com>
+system-config-nfs,332,0,0,72,0,0,451,332,100.0,Oriya
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,3006,0,0,670,0,0,3131,3006,100.0,Oriya <oriya-it@googlegroups.com>
+system-config-rootpassword,15,26,75,3,5,11,20,116,12.931034482758621,Oriya <oriya-group@lists.sarovar.org>
+system-config-samba,422,0,0,137,0,0,598,422,100.0,Oriya <oriya-it@googlegroups.com>
+system-config-samba-docs,123,0,1065,32,0,30,122,1188,10.353535353535353,Oriya <oriya-it@googlegroups.com>
+system-config-services,336,0,48,50,0,3,327,384,87.5,Oriya <oriya-it@googlegroups.com>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1337,0,0,172,0,0,1513,1337,100.0,Oriya <oriya-it@googlegroups.com>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,82,81,100.0,Oriya
+system-switch-mail,134,0,0,20,0,0,169,134,100.0,Oriya <oriya-group@lists.sarovar.org>
+tomboy,1262,0,1389,242,0,153,1439,2651,47.60467748019615,Oriya <oriya-it@googlegroups.com>
+totem,2815,0,0,601,0,0,2838,2815,100.0,Oriya <oriya-it@googlegroups.com>
+totem-pl-parser,28,0,0,7,0,0,30,28,100.0,Oriya <oriya-it@googlegroups.com>
+tuxtype2,71,0,9,32,0,8,71,80,88.75,Oriya
+usermode,562,0,0,94,0,0,660,562,100.0,Oriya <oriya-group@lists.sarovar.org>
+vinagre,938,0,0,168,0,0,957,938,100.0,Oriya <oriya-it@googlegroups.com>
+vino,1054,0,0,112,0,0,1045,1054,100.0,Oriya <oriya-it@googlegroups.com>
+virt-manager,2154,1105,173,519,138,32,2276,3432,62.76223776223776,Oriya
+vte,108,0,0,19,0,0,111,108,100.0,Oriya
+yelp,1035,0,0,349,0,0,1056,1035,100.0,Oriya
+yum-rhn-plugin,62,0,45,9,0,5,63,107,57.943925233644855,Oriya <oriya-group@lists.sarovar.org>
+zenity,582,0,0,135,0,0,591,582,100.0,Oriya <oriya-it@googlegroups.com>

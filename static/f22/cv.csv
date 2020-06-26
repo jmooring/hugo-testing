@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Chuvash (http://www.transifex.com/projects/p/MATE/language/cv/)
+mintmenu,43,0,1867,36,0,354,48,1910,2.2513089005235605,Chuvash <cv@li.org>
+stellarium,108,0,15717,98,0,4165,106,15825,0.6824644549763034,Chuvash <cv@li.org>

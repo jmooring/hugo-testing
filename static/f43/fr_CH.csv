@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+enlightenment,1537,4420,2768,590,1153,517,1935,8725,17.616045845272208,Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net>
+maliit-keyboard,66,8,7,51,3,7,73,81,81.48148148148148,

@@ -1,0 +1,234 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,English (United States) (http://www.transifex.com/projects/p/fedora-abrt/language/en_US/)
+ardour3,7129,0,4771,1965,0,887,8191,11900,59.90756302521009,American English <kde-i18n-doc@kde.org>
+babel,0,0,3,0,0,2,0,3,0.0,en_US <LL@li.org>
+baobab,210,0,0,57,0,0,192,210,100.0,American English <kde-i18n-doc@kde.org>
+brasero,5546,0,0,968,0,0,4597,5546,100.0,"Tamil <>
+com>>"
+caja,1025,0,8198,185,0,1308,1025,9223,11.113520546459938,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+cheese,613,0,0,120,0,0,500,613,100.0,American English <kde-i18n-doc@kde.org>
+cinnamon-desktop,231,0,0,31,0,0,196,231,100.0,American English <gnome-tamil-translation@googlegroups.com>
+cinnamon-translations,603,0,1260,186,0,476,565,1863,32.367149758454104,American English <kde-i18n-doc@kde.org>
+clutter,3045,0,8,672,0,3,2493,3053,99.737962659679,American English <kde-i18n-doc@kde.org>
+colorhug-client,1409,0,0,294,0,0,1409,1409,100.0,English (United States) (http://www.transifex.com/projects/p/colorhug-client/language/en_US/)
+compiz,0,224,3045,0,88,633,0,3269,0.0,English <i18n@suse.de>
+console-setup,979,0,2,171,0,2,985,981,99.79612640163099,American English <kde-i18n-doc@kde.org>
+debconf,191,0,0,17,0,0,165,191,100.0,Sinhala <info@hanthana.org>
+digikam,6194,6800,18646,1612,1662,1166,5754,31640,19.576485461441216,American English <kde-i18n-he@kde.org>
+e16,9,0,2819,3,0,524,9,2828,0.31824611032531824,American English <en@li.org>
+edgar,11473,0,2,1534,0,1,11474,11475,99.98257080610021,
+ejabberd,1826,0,0,421,0,0,2104,1826,100.0,American English <kde-i18n-doc@kde.org>
+eog,1616,0,0,327,0,0,1334,1616,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+eom,1544,0,187,314,0,13,1544,1731,89.19699595609474,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+epiphany,2461,0,0,570,0,0,2259,2461,100.0,Tamil <<gnome-tamil-translation@googlegroups.com>>
+evince,1525,0,0,355,0,0,1311,1525,100.0,Tamil <kde-i18n-doc@kde.org>
+evolution-ews,1165,0,0,239,0,0,1012,1165,100.0,American English <kde-i18n-doc@kde.org>
+firefox,6,0,0,2,0,0,30,6,100.0,
+firewalld,1559,5,8,304,1,5,1559,1572,99.17302798982189,English (United States) (http://www.transifex.com/projects/p/firewalld/language/en_US/)
+gcin,224,0,0,172,0,0,641,224,100.0,LANGUAGE <LL@li.org>
+gedit,4084,0,0,684,0,0,3444,4084,100.0,Tamil <kde-i18n-doc@kde.org>
+gjots2,785,31,138,234,10,13,785,954,82.28511530398322,<en@li.org>
+glib2,3049,333,2058,563,42,235,2629,5440,56.04779411764705,American English <kde-i18n-doc@kde.org>
+glpi,265,0,10371,81,0,2724,263,10636,2.491538172245205,English (United States) (http://www.transifex.com/glpi/GLPI/language/en_US/)
+gnome-backgrounds,60,0,0,36,0,0,56,60,100.0,American English <kde-i18n-doc@kde.org>
+gnome-bluetooth,308,0,0,101,0,0,336,308,100.0,American English <kde-i18n-doc@kde.org>
+gnome-desktop3,180,0,0,35,0,0,172,180,100.0,English <en@li.org>
+gnome-dictionary,841,0,0,180,0,0,681,841,100.0,American English <kde-i18n-doc@kde.org>
+gnome-disk-utility,3423,0,0,632,0,0,2869,3423,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-font-viewer,109,0,0,26,0,0,95,109,100.0,Tamil <kde-i18n-doc@kde.org>
+gnome-getting-started-docs,2639,0,0,339,0,0,2245,2639,100.0,American English <kde-i18n-doc@kde.org>
+gnome-power-manager,480,0,0,147,0,0,417,480,100.0,American English <kde-i18n-doc@kde.org>
+gnome-screenshot,354,0,0,75,0,0,306,354,100.0,American English <kde-i18n-doc@kde.org>
+gnome-session,323,0,0,59,0,0,293,323,100.0,American English <>
+gnome-shell,1486,0,0,375,0,0,1497,1486,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell-extensions,358,0,0,68,0,0,365,358,100.0,American English <kde-i18n-doc@kde.org>
+gnome-system-monitor,1289,0,0,292,0,0,1142,1289,100.0,Tamil <kde-i18n-doc@kde.org>
+gnomebaker,271,275,621,91,51,145,349,1167,23.221936589545844,English (United States) <en_US@li.org>
+gnubg,5866,2377,4857,1204,537,913,5867,13100,44.778625954198475,none
+gnubik,35,0,250,5,0,80,36,285,12.280701754385964,American <john@darrington.wattle.id.au>
+gpredict,5019,489,244,962,66,31,5020,5752,87.25660639777469,US English
+gramps,16130,2610,18309,3872,584,1734,14920,37049,43.536937569165154,Arabic <>
+gucharmap,1205,0,0,397,0,0,1112,1205,100.0,American English <kde-i18n-doc@kde.org>
+gvfs,2704,0,0,596,0,0,2387,2704,100.0,American English <kde-i18n-doc@kde.org>
+icecat,6,0,0,2,0,0,30,6,100.0,
+ignuit,16,0,773,5,0,223,16,789,2.027883396704689,<trmusson@gmail.com>
+initial-setup,0,0,85,0,0,18,0,85,0.0,English (United States) (http://www.transifex.com/projects/p/initial-setup/language/en_US/)
+iso-codes,2189,28,3,903,6,1,1993,2220,98.6036036036036,Sinhala <info@hanthana.org>
+java-gnome,2,0,0,2,0,0,2,2,100.0,
+kamoso,153,8,4,49,1,1,133,165,92.72727272727272,American English <kde-i18n-doc@kde.org>
+kde-cli-tools,121,19,201,33,2,14,123,341,35.483870967741936,American English <kde-translation@bengalinux.org>
+kde-l10n,117387,198,49825,28049,82,5990,108655,167410,70.11946717639329,American English <kde-i18n-doc@kde.org>
+kdeplasma-addons,107,0,0,41,0,0,109,107,100.0,American English <kde-i18n-el@kde.org>
+kdiff3,126,0,0,13,0,0,134,126,100.0,American English <kde-i18n-el@kde.org>
+kf5-kactivities,54,35,58,18,14,22,60,147,36.734693877551024,American English <kde-i18n-doc@kde.org>
+kf5-kauth,58,46,70,8,8,8,53,174,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kbookmarks,115,399,140,37,92,15,109,654,17.584097859327215,American English <kde-i18n-doc@kde.org>
+kf5-kcmutils,1606,83,0,209,4,0,1690,1689,95.08584961515689,American English <kde-translation@bengalinux.org>
+kf5-kcodecs,348,114,582,53,74,32,215,1044,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kcompletion,20,40,0,12,24,0,19,60,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kconfigwidgets,723,171,57,289,43,10,792,951,76.02523659305994,American English <kde-translation@bengalinux.org>
+kf5-kcoreaddons,252,489,54,78,139,23,251,795,31.69811320754717,American English <kde-translation@bengalinux.org>
+kf5-kdeclarative,208,68,51,33,5,4,213,327,63.608562691131496,American English <kde-translation@bengalinux.org>
+kf5-kdelibs4support,4759,0,54,2357,0,7,4430,4813,98.87803864533555,Czech <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,106,2,9,16,2,49,162,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kdnssd,3,6,0,3,6,0,3,9,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kdoctools,8,0,0,4,0,0,16,8,100.0,American English <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,66,134,13,7,16,4,53,213,30.985915492957744,American English <kde-translation@bengalinux.org>
+kf5-khtml,4592,356,221,882,32,22,4724,5169,88.83729928419424,American English <kde-translation@bengalinux.org>
+kf5-ki18n,208,160,4,194,132,4,208,372,55.91397849462365,American English <kde-translation@bengalinux.org>
+kf5-kiconthemes,96,0,15,58,0,2,123,111,86.48648648648648,American English <kde-i18n-doc@kde.org>
+kf5-kinit,275,120,7,33,8,1,268,402,68.40796019900498,American English <kde-translation@bengalinux.org>
+kf5-kitemviews,7,14,0,4,8,0,7,21,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kjobwidgets,141,264,18,45,88,2,162,423,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kjsembed,744,0,0,132,0,0,788,744,100.0,American English <kde-translation@bengalinux.org>
+kf5-knewstuff,1545,200,274,370,43,37,1779,2019,76.52303120356612,American English <kde-translation@bengalinux.org>
+kf5-knotifications,18,36,0,6,12,0,15,54,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-knotifyconfig,258,129,0,48,3,0,256,387,66.66666666666666,American English <kde-translation@bengalinux.org>
+kf5-kparts,312,0,0,78,0,0,326,312,100.0,American English <kde-translation@bengalinux.org>
+kf5-kpty,45,0,0,12,0,0,56,45,100.0,American English <kde-translation@bengalinux.org>
+kf5-kross,264,36,0,93,12,0,290,300,88.0,American English <kde-translation@bengalinux.org>
+kf5-kservice,330,136,44,52,26,6,319,510,64.70588235294117,American English <kde-translation@bengalinux.org>
+kf5-ktexteditor,9388,1633,6463,1843,397,696,9065,17484,53.694806680393505,Czech <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,1175,192,19,335,22,9,1280,1386,84.77633477633478,American English <kde-translation@bengalinux.org>
+kf5-kunitconversion,757,0,3629,389,0,1469,748,4386,17.259461924304606,American English <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1254,2378,151,430,831,35,1174,3783,33.1482950039651,American English <kde-translation@bengalinux.org>
+kf5-kwindowsystem,2,4,0,1,2,0,2,6,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kxmlgui,3450,1065,99,596,73,9,3685,4614,74.77243172951886,American English <kde-translation@bengalinux.org>
+kf5-solid,434,0,243,197,0,23,425,677,64.10635155096011,American English <kde-i18n-doc@kde.org>
+kf5-sonnet,665,1294,36,73,138,8,545,1995,33.33333333333333,American English <kde-translation@bengalinux.org>
+kgamma,38,0,92,15,0,1,38,130,29.230769230769234,American English <kde-i18n-doc@kde.org>
+khelpcenter,465,0,0,132,0,0,432,465,100.0,American English <kde-i18n-doc@kde.org>
+kimchi,1,0,3647,1,0,580,1,3648,0.027412280701754384,English
+kinfocenter,1435,34,438,549,11,19,1447,1907,75.2490823282643,American English <kde-i18n-doc@kde.org>
+kmenuedit,281,0,0,62,0,0,230,281,100.0,American English <kde-i18n-doc@kde.org>
+kphotoalbum,304,62,9406,204,26,761,349,9772,3.1109291854277528,American English <kde-i18n-doc@kde.org>
+krb5,0,0,0,0,0,0,0,0,0.0,English
+kscreenlocker,19,9,96,4,1,11,21,124,15.32258064516129,American English <kde-i18n-doc@kde.org>
+ksysguard,994,0,88,230,0,3,886,1082,91.86691312384472,American English <kde-i18n-doc@kde.org>
+kwin,1068,141,593,335,58,97,1068,1802,59.26748057713651,American English <kde-i18n-doc@kde.org>
+libksysguard,700,317,1786,174,18,34,672,2803,24.97324295397788,American English <kde-i18n-doc@kde.org>
+libmatekbd,284,0,8,60,0,2,284,292,97.26027397260275,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+libreport,0,0,3501,0,0,452,0,3501,0.0,English (United States) (http://www.transifex.com/projects/p/libreport/language/en_US/)
+librfm,14,42,2341,14,26,558,23,2397,0.5840634125990822,
+listen,617,274,892,275,106,168,614,1783,34.604598990465504,English (United States) <en_US@li.org>
+mate-applet-lockkeys,26,1,18,9,1,2,26,45,57.77777777777777,Bulgarian
+mate-applet-softupd,37,3,0,11,1,0,37,40,92.5,English
+mate-calc,34,0,1378,24,0,417,34,1412,2.4079320113314444,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+mate-desktop,63,0,2333,14,0,321,63,2396,2.6293823038397326,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+mate-power-manager,206,0,2552,49,0,394,206,2758,7.4691805656272665,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+mate-session-manager,564,0,101,104,0,8,564,665,84.81203007518798,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+mate-settings-daemon,166,0,1569,43,0,199,166,1735,9.56772334293948,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+mate-terminal,50,0,1297,18,0,322,50,1347,3.711952487008166,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+metamorphose2,37,0,1710,8,0,530,39,1747,2.117916428162564,ianaré sévi
+mingw-colorhug-client,1409,0,0,294,0,0,1409,1409,100.0,English (United States) (http://www.transifex.com/projects/p/colorhug-client/language/en_US/)
+mingw-glib2,3049,333,2058,563,42,235,2629,5440,56.04779411764705,American English <kde-i18n-doc@kde.org>
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,English (United States) (http://www.transifex.com/projects/p/libvirt-glib/language/en_US/)
+mingw-sane-backends,4870,0,0,1033,0,0,4983,4870,100.0,American English <sane-devel@lists.alioth.debian.org>
+mingw-wine-gecko,6,0,0,2,0,0,30,6,100.0,
+mintmenu,0,0,862,0,0,148,0,862,0.0,English (United States) <en_US@li.org>
+modem-manager-gui,2416,0,0,484,0,0,2416,2416,100.0,English (United States) (http://www.transifex.com/projects/p/modem-manager-gui/language/en_US/)
+mozjs24,6,0,0,2,0,0,30,6,100.0,
+mozjs31,6,0,0,2,0,0,30,6,100.0,
+muon,116,20,10,19,4,5,105,146,79.45205479452055,American English <kde-i18n-doc@kde.org>
+mutter,1829,0,0,237,0,0,1425,1829,100.0,"American English <kde-i18n-doc@kde.org>
+com>>"
+olpc-switch-desktop,158,0,0,14,0,0,158,158,100.0,LANGUAGE <LL@li.org>
+openconnect,1539,0,3183,281,0,542,1539,4722,32.59212198221093,English (United States) (http://www.transifex.com/projects/p/meego/language/en_US/)
+openerp,38,0,10678,4,0,1568,38,10716,0.3546099290780142,English (United States) <en_US@li.org>
+openerp7,9,0,10648,2,0,1609,9,10657,0.08445153420287135,English (United States) <en_US@li.org>
+openstack-nova,3956,1342,7369,630,238,977,3956,12667,31.23075708533986,en_US <LL@li.org>
+orca,3897,0,0,1201,0,0,3642,3897,100.0,Tamil <<gnome-tamil-translation@googlegroups.com>>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,English (United States) (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/en_US/)
+php,1,0,0,1,0,0,1,1,100.0,
+php-horde-Horde-Crypt,353,0,0,82,0,0,382,353,100.0,American English <kde-i18n-doc@kde.org>
+php-horde-Horde-Itip,56,0,0,10,0,0,59,56,100.0,American English <kde-i18n-doc@kde.org>
+php-horde-ingo,979,0,0,253,0,0,1002,979,100.0,American English <kde-i18n-doc@kde.org>
+phpesp,3,0,2227,1,0,407,1,2230,0.13452914798206278,en_US <jflemer@alum.rpi.edu>
+plasma-desktop,4002,204,1506,711,50,58,3620,5712,70.06302521008404,American English <kde-i18n-doc@kde.org>
+plasma-nm,5,0,1637,4,0,480,5,1642,0.3045066991473812,American English <kde-i18n-doc@kde.org>
+plasma-oxygen,542,51,36,201,18,11,517,629,86.16852146263912,American English <kde-i18n-doc@kde.org>
+plasma-workspace,1034,98,1332,344,45,794,1032,2464,41.964285714285715,American English <kde-i18n-doc@kde.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,English (United States) (http://www.transifex.com/projects/p/fedora/language/en_US/)
+powerdevil,345,46,152,83,6,13,362,543,63.53591160220995,American English <Arabic <doc@arabeyes.org>>
+powertop,241,36,334,62,10,104,241,611,39.44353518821604,English (United States) (http://www.transifex.com/projects/p/PowerTOP/language/en_US/)
+proftpd,833,0,0,200,0,0,833,833,100.0,none
+pykickstart,0,0,448,0,0,50,0,448,0.0,English (United States) (http://www.transifex.com/projects/p/pykickstart/language/en_US/)
+python-django-rest-framework,0,0,495,0,0,75,0,495,0.0,LANGUAGE <LL@li.org>
+python-kitchen,200,0,0,2,0,0,200,200,100.0,English (United States) (http://www.transifex.com/projects/p/kitchen/language/en_US/)
+python-meh,0,0,109,0,0,23,0,109,0.0,English (United States) (http://www.transifex.com/projects/p/python-meh/language/en_US/)
+python-nevow,14,0,0,4,0,0,19,14,100.0,LANGUAGE <LL@li.org>
+quassel,70,0,5312,10,0,1201,70,5382,1.3006317354143442,English (United States) (http://www.transifex.com/ald/quassel/language/en_US/)
+rekonq,1385,290,527,468,70,55,1492,2202,62.89736603088102,American English <kde-i18n-doc@kde.org>
+rodent,12,50,9572,12,28,772,12,9634,0.12455885405854267,
+scilab,0,0,43,0,0,11,0,43,0.0,
+seahorse,2424,0,0,566,0,0,2167,2424,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+seamonkey,6,0,0,2,0,0,30,6,100.0,
+skanlite,179,4,0,62,1,0,170,183,97.81420765027322,American English <kde-i18n-doc@kde.org>
+skychart,4194,0,515,1366,0,115,3930,4709,89.0634954342748,American English <kde-i18n-doc@kde.org>
+stellarium,12,0,15813,9,0,4254,12,15825,0.07582938388625592,English (United States) <en_US@li.org>
+sugar,1733,0,0,419,0,0,1733,1733,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,34,0,0,25,0,0,34,34,100.0,LANGUAGE <LL@li.org>
+sugar-browse,189,0,0,52,0,0,189,189,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,869,871,100.0,LANGUAGE <LL@li.org>
+sugar-calendario,43,0,0,27,0,0,43,43,100.0,LANGUAGE <LL@li.org>
+sugar-chat,55,0,0,34,0,0,55,55,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,596,66,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,109,0,0,23,0,0,109,109,100.0,LANGUAGE <LL@li.org>
+sugar-finance,164,0,0,39,0,0,164,164,100.0,LANGUAGE <LL@li.org>
+sugar-flip,17,0,0,7,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,100,0,0,40,0,0,100,100,100.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,68,0,0,23,0,0,68,68,100.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,119,0,0,33,0,0,119,119,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,51,0,0,13,0,0,51,51,100.0,LANGUAGE <LL@li.org>
+sugar-implode,78,0,0,21,0,0,78,78,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,236,0,0,62,0,0,236,236,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,0,20,0,0,65,65,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,298,0,0,102,0,0,298,298,100.0,LANGUAGE <LL@li.org>
+sugar-locosugar,74,0,0,12,0,0,74,74,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,98,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,162,0,0,75,0,0,162,162,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,142,142,100.0,LANGUAGE <LL@li.org>
+sugar-moon,117,0,0,33,0,0,117,117,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,192,0,0,91,0,0,192,192,100.0,LANGUAGE <LL@li.org>
+sugar-paint,96,0,0,55,0,0,96,96,100.0,LANGUAGE <LL@li.org>
+sugar-physics,86,0,0,38,0,0,86,86,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,109,109,100.0,English
+sugar-portfolio,60,0,0,21,0,0,60,60,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,10,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,124,0,0,47,0,0,124,124,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,62,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,29,0,0,8,0,0,29,29,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,227,227,100.0,LANGUAGE <LL@li.org>
+sugar-starchart,311,0,0,182,0,0,311,311,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,15,0,0,8,0,0,15,15,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,0,40,0,0,76,76,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1574,0,0,478,0,0,1574,1574,100.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,599,0,0,127,0,0,599,599,100.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,161,0,0,79,0,0,161,161,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,121,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,29,29,100.0,LANGUAGE <LL@li.org>
+sugar-yupana,30,0,0,16,0,0,30,30,100.0,LANGUAGE <LL@li.org>
+syncevolution,1132,0,0,163,0,0,1132,1132,100.0,English (United States) (http://www.transifex.net/projects/p/meego/team/en_US/)
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,English (United States) (http://www.transifex.com/projects/p/system-config-kickstart/language/en_US/)
+thunderbird,6,0,0,2,0,0,30,6,100.0,
+thunderbird-lightning,6,0,0,2,0,0,30,6,100.0,
+totem,1446,0,0,384,0,0,1258,1446,100.0,Tamil <kde-i18n-doc@kde.org>
+trac,0,0,13224,0,0,1488,0,13224,0.0,en_US <trac-dev@googlegroups.com>
+tuxpaint,1515,0,0,279,0,0,1607,1515,100.0,American English <kde-i18n-doc@kde.org>
+udiskie,298,26,104,74,5,8,298,428,69.62616822429906,English t_glaesle@gmx.de
+vinagre,3014,0,0,550,0,0,2769,3014,100.0,American English <kde-i18n-doc@kde.org>
+vino,1228,0,0,134,0,0,920,1228,100.0,American English <<gnome-tamil-translation@googlegroups.com>>
+virt-viewer,0,0,692,0,0,148,0,692,0.0,English (United States) (http://www.transifex.com/projects/p/virt-viewer/language/en_US/)
+wesnoth,18393,0,0,1142,0,0,14997,18393,100.0,American English <kde-l10n-hu@kde.org>
+whaawmp,132,0,667,29,0,131,137,799,16.520650813516895,English (United States) <en_US@li.org>
+widelands,73,0,4867,5,0,1019,74,4940,1.4777327935222673,English (United States) <en_US@li.org>
+wine,14570,0,0,3296,0,0,14570,14570,100.0,English (United States)
+wxPython,0,0,2457,0,0,737,0,2457,0.0,LANGUAGE <LL@li.org>
+xmlcopyeditor,0,0,1354,0,0,406,0,1354,0.0,LANGUAGE <LL@li.org>
+xulrunner,6,0,0,2,0,0,30,6,100.0,
+yelp,452,0,0,104,0,0,353,452,100.0,American English <kde-i18n-doc@kde.org>
+zabbix,10994,64,4461,2763,11,538,11005,15519,70.84219344029898,
+zenity,775,0,0,178,0,0,644,775,100.0,American English <<gnome-tamil-translation@googlegroups.com>>

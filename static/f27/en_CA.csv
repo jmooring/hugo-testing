@@ -1,0 +1,311 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4032,0,0,481,0,0,4030,4032,100.0,Canadian English <adamw@gnome.org>
+NetworkManager,6,1023,10479,4,266,1441,6,11508,0.05213764337851929,Canadian English <adamw@gnome.org>
+accerciser,363,0,0,166,0,0,366,363,100.0,en_CA <adamw@gnome.org>
+ailurus,683,0,7823,89,0,1035,688,8506,8.029626146249706,none
+aisleriot,2292,0,0,568,0,0,2294,2292,100.0,Canadian English
+alacarte,42,0,0,16,0,0,42,42,100.0,Canadian English <adamw@gnome.org>
+alleyoop,351,0,0,89,0,0,353,351,100.0,Canadian English <adamw@gnome.org>
+anjuta,7910,0,0,1989,0,0,7907,7910,100.0,Canadian English
+appcenter,676,25,56,161,5,11,676,757,89.2998678996037,English (Canada) <https://weblate.elementary.io/projects/appcenter/appcenter/en_CA/>
+at-spi2-core,5,0,0,1,0,0,5,5,100.0,English
+atk,370,1,4,123,1,2,361,375,98.66666666666667,Canadian English <adamw@gnome.org>
+atomix,146,0,0,59,0,0,149,146,100.0,Canadian English <adamw@gnome.org>
+atril,692,0,1100,218,0,195,697,1792,38.61607142857143,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+audience,72,0,34,34,0,14,81,106,67.9245283018868,English (Canada) <en_CA@li.org>
+avahi,1,1,866,1,1,166,1,868,0.1152073732718894,
+avogadro,4316,0,2291,1774,0,598,4480,6607,65.32465566823066,English (Canada) <en_CA@li.org>
+backintime,353,0,1630,99,0,237,355,1983,17.801311144730207,English (Canada) <en_CA@li.org>
+bakery,72,0,0,20,0,0,72,72,100.0,Canadian English <adamw@gnome.org>
+balsa,5802,0,0,1395,0,0,5805,5802,100.0,Canadian English <adamw@gnome.org>
+banshee,2133,0,0,443,0,0,2135,2133,100.0,Canadian English <adamw@gnome.org>
+baobab,22,157,361,11,42,73,25,540,4.074074074074074,Canadian English <adamw@gnome.org>
+bleachbit,488,0,690,114,0,146,489,1178,41.42614601018676,English (Canada) <en_CA@li.org>
+blueberry,24,0,117,7,0,27,24,141,17.02127659574468,English (Canada) <en_CA@li.org>
+brasero,5493,0,0,971,0,0,5494,5493,100.0,English
+caja,4078,0,5278,864,0,653,4082,9356,43.58700299273194,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+caja-actions,1303,201,50,154,12,4,1303,1554,83.84813384813384,Canadian English <adamw@gnome.org>
+caja-extensions,97,0,473,30,0,101,95,570,17.017543859649123,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+calibre,1359,0,155942,172,0,17928,1369,157301,0.8639487352273666,English (Canada) (http://www.transifex.com/calibre/calibre/language/en_CA/)
+camorama,586,0,0,137,0,0,594,586,100.0,Canadian English <adamw@gnome.org>
+capnet-assist,27,0,5,3,0,2,27,32,84.375,English (Canada) <en_CA@li.org>
+cinnamon-desktop,0,14,220,0,2,30,0,234,0.0,Canadian English <adamw@gnome.org>
+cinnamon-translations,1427,0,10732,433,0,2446,1441,12159,11.736162513364585,English (Canada) <en_CA@li.org>
+clamtk,464,0,0,140,0,0,467,464,100.0,English (Canada) <en_CA@li.org>
+cogl,15,0,346,4,0,71,15,361,4.1551246537396125,Canadian English
+compat-gtkhtml314,915,0,0,406,0,0,916,915,100.0,Canadian English <adamw@gnome.org>
+control-center,3477,0,0,754,0,0,3483,3477,100.0,Canadian English <adamw@gnome.org>
+dasher,443,0,0,173,0,0,446,443,100.0,Canadian English <adamw@gnome.org>
+deja-dup,907,0,1196,144,0,193,920,2103,43.12886352829292,English (Canada) <en_CA@li.org>
+deluge,2645,0,83,860,0,18,2646,2728,96.9574780058651,English (Canada) <en_CA@li.org>
+devhelp,456,0,0,119,0,0,463,456,100.0,Canadian English
+dia,5368,140,203,1935,54,57,5394,5711,93.99404657678166,Canadian English <adamw@gnome.org>
+dippi,381,12,4,50,2,1,381,397,95.96977329974811,none
+drgeo,1985,0,0,461,0,0,1988,1985,100.0,Canadian English <adamw@gnome.org>
+ekiga,5103,0,0,769,0,0,5107,5103,100.0,Canadian English <adamw@gnome.org>
+elementary-calculator,78,0,2,36,0,1,78,80,97.5,LANGUAGE <LL@li.org>
+elementary-camera,57,5,0,15,1,0,57,62,91.93548387096774,English (Canada) <https://weblate.elementary.io/projects/camera/camera/en_CA/>
+elementary-capnet-assist,32,0,34,5,0,5,32,66,48.484848484848484,English (Canada) <https://weblate.elementary.io/projects/desktop/capnet-assist/en_CA/>
+elementary-screenshot-tool,123,1,8,38,1,4,123,132,93.18181818181817,English (Canada) <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/en_CA/>
+elementary-shortcut-overlay,82,0,0,37,0,0,82,82,100.0,English (Canada) <https://weblate.elementary.io/projects/desktop/shortcut-overlay/en_CA/>
+empathy,4552,109,93,1082,45,13,4556,4754,95.75094657130838,Canadian English
+engrampa,938,0,1007,215,0,139,947,1945,48.22622107969152,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+eog,1607,0,0,323,0,0,1610,1607,100.0,Canadian English
+eom,718,0,999,191,0,127,723,1717,41.817122888759464,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+epiphany,2291,0,0,651,0,0,2298,2291,100.0,Canadian English
+evince,1437,0,0,366,0,0,1440,1437,100.0,Canadian English
+evolution,18293,69,0,4482,12,0,18272,18362,99.62422394074719,Canadian English <adamw@gnome.org>
+evolution-data-server,5044,0,0,1041,0,0,5044,5044,100.0,Canadian English <adamw@gnome.org>
+exaile,1205,118,2683,354,37,634,1198,4006,30.079880179730406,English (Canada) <https://hosted.weblate.org/projects/exaile/master/en_CA/>
+feedreader,0,0,689,0,0,201,0,689,0.0,
+file-roller,1084,0,0,253,0,0,1093,1084,100.0,Canadian English <adamw@gnome.org>
+five-or-more,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+four-in-a-row,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gala,520,131,43,66,6,7,521,694,74.92795389048992,English (Canada) <en_CA@li.org>
+gcompris,10251,0,0,1191,0,0,10255,10251,100.0,Canadian English <adamw@gnome.org>
+gconf-editor,329,0,0,98,0,0,332,329,100.0,Canadian English <adamw@gnome.org>
+gcr,0,35,587,0,10,217,0,622,0.0,Canadian English <adamw@gnome.org>
+gdesklets,1186,0,342,171,0,33,1192,1528,77.61780104712042,Canadian English <adamw@gnome.org>
+gdk-pixbuf2,1166,131,51,175,22,5,1168,1348,86.49851632047478,Canadian English <adamw@gnome.org>
+gdm,30,217,403,8,33,46,31,650,4.615384615384616,Canadian English <adamw@gnome.org>
+geary,398,0,703,151,0,176,399,1101,36.14895549500454,English (Canada) (http://www.transifex.com/projects/p/geary/language/en_CA/)
+gedit,4339,0,0,1028,0,0,4344,4339,100.0,Canadian English <adamw@gnome.org>
+gedit-plugins,751,254,200,340,77,52,754,1205,62.32365145228216,Canadian English <adamw@gnome.org>
+genius,5927,0,0,809,0,0,5914,5927,100.0,Canadian English <adamw@gnome.org>
+gftp,3096,230,49,560,70,4,3097,3375,91.73333333333333,Canadian English <adamw@gnome.org>
+ggz-gtk-client,7,0,0,7,0,0,7,7,100.0,Canadian English <adamw@gnome.org>
+ghex,966,0,0,275,0,0,965,966,100.0,Canadian English <adamw@gnome.org>
+gimp,21300,4699,1127,5406,1462,181,21292,27126,78.5224507852245,Canadian English <adamw@gnome.org>
+gimp-gap,9779,0,0,1722,0,0,9815,9779,100.0,Canadian English <adamw@gnome.org>
+glade,3197,0,0,868,0,0,3193,3197,100.0,Canadian English <adamw@gnome.org>
+glade2,5902,0,0,1311,0,0,5902,5902,100.0,Canadian English <adamw@gnome.org>
+glade3,3197,0,0,868,0,0,3193,3197,100.0,Canadian English <adamw@gnome.org>
+glib-networking,4,0,0,1,0,0,4,4,100.0,Canadian English <nicolasd@git.gnome.org>
+glib2,4777,0,0,747,0,0,4780,4777,100.0,Canadian English <adamw@gnome.org>
+glom,1217,0,0,290,0,0,1213,1217,100.0,Canadian English <adamw@gnome.org>
+gmpc,18,0,0,11,0,0,18,18,100.0,English (Canada) <en_CA@li.org>
+gnome-backgrounds,18,0,0,9,0,0,19,18,100.0,Canadian English <adamw@gnome.org>
+gnome-calculator,1399,0,0,433,0,0,1402,1399,100.0,Canadian English
+gnome-chess,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gnome-commander,1068,540,6288,389,217,817,1071,7896,13.5258358662614,Canadian English <adamw@gnome.org>
+gnome-contacts,309,0,0,145,0,0,310,309,100.0,English
+gnome-desktop,330,0,0,76,0,0,330,330,100.0,Canadian English <adamw@gnome.org>
+gnome-desktop3,330,0,0,76,0,0,330,330,100.0,Canadian English <adamw@gnome.org>
+gnome-dictionary,633,164,36,132,37,14,635,833,75.99039615846338,Canadian English <adamw@gnome.org>
+gnome-do,612,0,0,144,0,0,612,612,100.0,English (Canada) <en_CA@li.org>
+gnome-doc-utils,238,0,0,92,0,0,238,238,100.0,Canadian English <adamw@gnome.org>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Canadian English <adamw@gnome.org>
+gnome-icon-theme,43,0,0,38,0,0,43,43,100.0,Canadian English <adamw@gnome.org>
+gnome-keyring,28,182,280,8,26,75,28,490,5.714285714285714,Canadian English <adamw@gnome.org>
+gnome-klotski,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gnome-mahjongg,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gnome-menus,136,0,0,49,0,0,135,136,100.0,Canadian English <adamw@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,887,887,100.0,Canadian English <adamw@gnome.org>
+gnome-mines,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gnome-mud,1039,0,0,175,0,0,1042,1039,100.0,Canadian English <adamw@gnome.org>
+gnome-nettool,501,19,0,177,3,0,504,520,96.34615384615385,Canadian English <adamw@gnome.org>
+gnome-nibbles,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gnome-online-accounts,398,52,15,132,33,3,398,465,85.59139784946237,Canadian English
+gnome-phone-manager,502,0,0,112,0,0,505,502,100.0,Canadian English <adamw@gnome.org>
+gnome-power-manager,18,180,234,10,50,84,18,432,4.166666666666666,Canadian English <adamw@gnome.org>
+gnome-robots,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gnome-screensaver,1164,0,0,168,0,0,1159,1164,100.0,Canadian English <adamw@gnome.org>
+gnome-screenshot,55,171,93,14,29,16,55,319,17.24137931034483,Canadian English <adamw@gnome.org>
+gnome-search-tool,1167,69,123,149,11,40,1167,1359,85.8719646799117,Canadian English <adamw@gnome.org>
+gnome-session,888,0,0,126,0,0,887,888,100.0,Canadian English <adamw@gnome.org>
+gnome-settings-daemon,398,127,509,62,33,76,400,1034,38.49129593810445,Canadian English <adamw@gnome.org>
+gnome-shell-extension-netspeed,24,3,2,15,1,1,24,29,82.75862068965517,English
+gnome-sudoku,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gnome-system-log,220,61,241,46,17,31,223,522,42.1455938697318,Canadian English <adamw@gnome.org>
+gnome-system-monitor,645,0,0,177,0,0,644,645,100.0,Canadian English <adamw@gnome.org>
+gnome-terminal,4597,0,0,511,0,0,4609,4597,100.0,Canadian English <adamw@gnome.org>
+gnome-tetravex,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+gnome-themes,104,0,0,36,0,0,104,104,100.0,Canadian English <adamw@gnome.org>
+gnome-themes-standard,24,0,0,9,0,0,24,24,100.0,Canadian English
+gnome-user-share,70,0,0,15,0,0,70,70,100.0,Canadian English <adamw@gnome.org>
+gnome-vfs2,1508,0,0,301,0,0,1511,1508,100.0,Canadian English <adamw@gnome.org>
+gnomebaker,772,0,414,203,0,88,773,1186,65.09274873524453,English (Canada) <en_CA@li.org>
+gnumed,842,1387,27172,186,424,4255,842,29401,2.8638481684296453,English (Canada) <en_CA@li.org>
+gnumeric,9681,5364,20001,2355,1042,2245,9671,35046,27.623694572847114,Canadian English <adamw@gnome.org>
+goffice,1810,1544,2847,749,583,669,1809,6201,29.188840509595227,English/Canada <adamw@FreeBSD.org>
+goffice08,2032,864,1703,826,327,407,2031,4599,44.1835181561209,English/Canada <adamw@FreeBSD.org>
+gourmet,40,6,3893,25,3,864,52,3939,1.0154861640010155,English (Canada) <en_CA@li.org>
+gparted,2074,0,0,378,0,0,2079,2074,100.0,Canadian English
+granite,136,0,20,48,0,9,152,156,87.17948717948718,English (Canada) <en_CA@li.org>
+gtg,2156,0,1341,281,0,19,2157,3497,61.65284529596797,English (Canada) <en_CA@li.org>
+gthumb,2578,0,0,870,0,0,2581,2578,100.0,Canadian English <adamw@gnome.org>
+gtk2,11354,1364,986,2087,414,283,11358,13704,82.85172212492704,Canadian English <adamw@gnome.org>
+gtk3,9202,1577,1074,1732,456,299,9204,11853,77.63435417193959,Canadian English <adamw@gnome.org>
+gtk4,9202,1577,1074,1732,456,299,9204,11853,77.63435417193959,Canadian English <adamw@gnome.org>
+gtkhtml3,915,0,0,406,0,0,916,915,100.0,Canadian English <adamw@gnome.org>
+gtksourceview2,863,0,0,357,0,0,866,863,100.0,Canadian English <adamw@gnome.org>
+gtksourceview3,447,324,385,252,167,211,447,1156,38.667820069204154,Canadian English <adamw@gnome.org>
+gtranslator,1225,0,0,331,0,0,1231,1225,100.0,Canadian English <adamw@gnome.org>
+gucharmap,555,0,0,263,0,0,559,555,100.0,Canadian English <adamw@gnome.org>
+gwget,521,0,0,173,0,0,527,521,100.0,Canadian English <adamw@gnome.org>
+gxmessage,22,0,245,3,0,35,22,267,8.239700374531834,LANGUAGE <LL@li.org>
+hamster-time-tracker,683,7,7,167,4,1,683,697,97.99139167862266,Canadian English
+harvey,57,0,0,12,0,0,57,57,100.0,none
+homebank,594,0,1825,287,0,480,595,2419,24.555601488218272,English (Canada) <en_CA@li.org>
+iagno,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+inkscape,291,10352,27571,153,4008,3984,291,38214,0.7615010205683781,Canadian English <adamw@gnome.org>
+libbonobo,547,0,0,108,0,0,546,547,100.0,Canadian English <adamw@gnome.org>
+libbonoboui,361,0,0,114,0,0,365,361,100.0,Canadian English <adamw@gnome.org>
+libcryptui,3327,0,0,660,0,0,3374,3327,100.0,Canadian English <adamw@gnome.org>
+libexif,705,0,6272,59,0,1118,705,6977,10.104629496918447,none
+libgda,222,3585,7335,71,855,1128,222,11142,1.992460958535272,Canadian English <adamw@gnome.org>
+libgdl,686,0,0,142,0,0,686,686,100.0,Canadian English <adamw@gnome.org>
+libgnome,1656,0,0,256,0,0,1659,1656,100.0,Canadian English <adamw@gnome.org>
+libgnomecanvas,378,0,0,95,0,0,377,378,100.0,Canadian English <adamw@gnome.org>
+libgnomeui,1290,0,0,330,0,0,1290,1290,100.0,Canadian English <adamw@gnome.org>
+libgtop2,134,0,0,44,0,0,134,134,100.0,Canadian English <adamw@gnome.org>
+libgweather,6763,0,0,4569,0,0,6763,6763,100.0,Canadian English <adamw@gnome.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+libmatemixer,5,0,237,5,0,121,5,242,2.066115702479339,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+libmateweather,6670,0,132,4549,0,24,6670,6802,98.05939429579536,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+libmypaint,346,0,1191,22,0,84,346,1537,22.5113858165257,English (Canada) <https://hosted.weblate.org/projects/mypaint/libmypaint/en_CA/>
+libwnck,88,0,0,33,0,0,88,88,100.0,Canadian English <adamw@gnome.org>
+libwnck3,88,0,0,33,0,0,88,88,100.0,Canadian English <adamw@gnome.org>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,English (Canada) (http://www.transifex.com/the_cavalry/light-locker/language/en_CA/)
+lightdm,0,0,163,0,0,21,0,163,0.0,English (Canada) <en_CA@li.org>
+lightdm-gtk,35,0,52,12,0,13,35,87,40.229885057471265,English (Canada) <en_CA@li.org>
+lightsoff,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+lxmenu-data,59,12,26,24,4,9,59,97,60.824742268041234,Canadian English <adamw@gnome.org>
+marco,2533,0,1615,316,0,97,2534,4148,61.065573770491795,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-applets,1663,0,826,376,0,184,1670,2489,66.8139815186822,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-backgrounds,4,0,26,2,0,19,5,30,13.333333333333334,English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/)
+mate-calc,1167,0,204,405,0,15,1170,1371,85.12035010940919,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-control-center,632,0,2026,228,0,400,635,2658,23.777276147479306,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-desktop,669,0,1636,122,0,177,672,2305,29.023861171366594,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-media,19,0,207,15,0,81,19,226,8.4070796460177,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-menu,53,0,263,29,0,89,53,316,16.77215189873418,English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/)
+mate-menus,60,0,37,25,0,12,60,97,61.855670103092784,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-notification-daemon,2,0,137,1,0,36,2,139,1.4388489208633095,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-panel,2896,0,1468,389,0,201,2898,4364,66.36113657195234,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-polkit,3,0,119,2,0,18,3,122,2.459016393442623,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-power-manager,749,0,1975,112,0,328,751,2724,27.496328928046992,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-screensaver,453,0,530,75,0,81,453,983,46.08341810783316,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-sensors-applet,13,0,293,13,0,93,16,306,4.248366013071895,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-session-manager,137,0,544,42,0,72,137,681,20.11747430249633,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-settings-daemon,235,0,1529,44,0,209,236,1764,13.321995464852607,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-system-monitor,365,0,968,131,0,182,364,1333,27.38184546136534,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-terminal,3028,0,1621,344,0,181,3034,4649,65.13228651322865,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-themes,7,0,53,2,0,10,7,60,11.666666666666666,English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/)
+mate-user-guide,96,0,40720,61,0,2868,99,40816,0.2352018816150529,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+mate-utils,2161,0,1516,396,0,264,2160,3677,58.77073701387,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+maya-calendar,427,0,0,172,0,0,453,427,100.0,English (Canada) <https://l10n.elementary.io/projects/calendar/calendar/en_CA/>
+meld,871,0,0,219,0,0,868,871,100.0,Canadian English <adamw@gnome.org>
+metacity,8059,0,0,515,0,0,8060,8059,100.0,Canadian English <adamw@gnome.org>
+midori,2841,0,700,683,0,113,2856,3541,80.23157300197684,English (Canada) <en_CA@li.org>
+mingw-GConf2,4032,0,0,481,0,0,4030,4032,100.0,Canadian English <adamw@gnome.org>
+mingw-atk,370,1,4,123,1,2,361,375,98.66666666666667,Canadian English <adamw@gnome.org>
+mingw-gdk-pixbuf,1166,131,51,175,22,5,1168,1348,86.49851632047478,Canadian English <adamw@gnome.org>
+mingw-glib-networking,4,0,0,1,0,0,4,4,100.0,Canadian English <nicolasd@git.gnome.org>
+mingw-glib2,4777,0,0,747,0,0,4780,4777,100.0,Canadian English <adamw@gnome.org>
+mingw-gtk2,11354,1364,986,2087,414,283,11358,13704,82.85172212492704,Canadian English <adamw@gnome.org>
+mingw-gtk3,9202,1577,1074,1732,456,299,9204,11853,77.63435417193959,Canadian English <adamw@gnome.org>
+mingw-gtksourceview3,447,324,385,252,167,211,447,1156,38.667820069204154,Canadian English <adamw@gnome.org>
+mintmenu,2084,0,5236,631,0,555,2109,7320,28.469945355191257,English (Canada) <en_CA@li.org>
+mozo,42,0,0,16,0,0,42,42,100.0,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+muffin,8059,0,0,515,0,0,8060,8059,100.0,Canadian English <adamw@gnome.org>
+mutter,8059,0,0,515,0,0,8060,8059,100.0,Canadian English <adamw@gnome.org>
+mypaint,1408,0,5449,149,0,1037,1411,6857,20.533761120023332,English (Canada) <https://hosted.weblate.org/projects/mypaint/libmypaint/en_CA/>
+nautilus,7325,0,0,1192,0,0,7330,7325,100.0,English
+nautilus-sendto,173,0,0,39,0,0,171,173,100.0,Canadian English <adamw@gnome.org>
+nemo-extensions,1,0,7,1,0,1,1,8,12.5,English (Canada) <en_CA@li.org>
+network-manager-applet,56,748,3599,24,197,707,56,4403,1.2718600953895072,Canadian English <adamw@gnome.org>
+noise,1276,0,46,358,0,19,1303,1322,96.52042360060514,English (Canada) <en_CA@li.org>
+onboard,332,0,1986,124,0,386,332,2318,14.322691975841243,English (Canada) <en_CA@li.org>
+openerp-client,435,0,7294,169,0,405,435,7729,5.628153706818476,English (Canada) <en_CA@li.org>
+orca,708,181,415,327,64,118,705,1304,54.29447852760736,Canadian English <adamw@gnome.org>
+pan,1670,692,806,440,173,139,1669,3168,52.714646464646464,Canadian English <adamw@gnome.org>
+pantheon-agent-geoclue2,43,0,0,11,0,0,43,43,100.0,English (Canada) <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/en_CA/>
+pantheon-agent-polkit,16,3,1,8,1,1,16,20,80.0,English (Canada) <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/en_CA/>
+pantheon-calculator,52,0,0,32,0,0,67,52,100.0,LANGUAGE <LL@li.org>
+pantheon-files,2299,0,188,451,0,41,2323,2487,92.44069159630077,English (Canada) <en_CA@li.org>
+pantheon-greeter,11,0,18,6,0,4,11,29,37.93103448275862,English (Canada) <en_CA@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pantheon-terminal,188,0,0,51,0,0,200,188,100.0,English (Canada) <en_CA@li.org>
+picard,1657,0,1236,743,0,502,1666,2893,57.276183892153476,English (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/en_CA/)
+pidgin,277,0,15479,47,0,3386,277,15756,1.758060421426758,English (Canada) (http://www.transifex.com/pidgin/pidgin/language/en_CA/)
+pinta,1618,0,0,528,0,0,1631,1618,100.0,English (Australia) <en_AU@li.org>
+pix,461,0,3257,221,0,981,470,3718,12.399139322216245,Canadian English <adamw@gnome.org>
+plank,23,0,166,10,0,40,36,189,12.16931216931217,English (Canada) <en_CA@li.org>
+planner,1591,0,0,491,0,0,1603,1591,100.0,Canadian English <adamw@gnome.org>
+pluma,2441,0,2627,747,0,361,2450,5068,48.164956590370956,English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/)
+pybliographer,971,0,0,262,0,0,970,971,100.0,Canadian English <adamw@gnome.org>
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,English (Canada) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en_CA/)
+quadrapassel,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+quodlibet,1142,1133,3441,364,383,630,1142,5716,19.979006298110566,Joe Wreschnig <piman@sacredchao.net>
+regexxer,466,0,1,99,0,1,469,467,99.78586723768737,Canadian English <adamw@gnome.org>
+rhythmbox,3889,0,0,891,0,0,3899,3889,100.0,Canadian English <adamw@gnome.org>
+sawfish,2370,1501,2572,539,249,194,2370,6443,36.78410678255471,Canadian English <adamw@gnome.org>
+scratch-text-editor,590,0,91,181,0,17,616,681,86.63729809104258,English (Canada) <en_CA@li.org>
+screenshot-tool,129,0,17,39,0,5,141,146,88.35616438356165,English (Canada) <en_CA@li.org>
+seahorse,3327,0,0,660,0,0,3374,3327,100.0,Canadian English <adamw@gnome.org>
+seahorse-caja,216,134,71,49,39,22,223,421,51.306413301662715,Canadian English <adamw@gnome.org>
+seahorse-nautilus,216,134,71,49,39,22,223,421,51.306413301662715,Canadian English <adamw@gnome.org>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+shutter,2224,0,703,502,0,87,2231,2927,75.98223436966177,English (Canada) <en_CA@li.org>
+sleuthkit,704,0,6257,59,0,1115,704,6961,10.113489441172245,none
+slick-greeter,195,0,16,40,0,7,198,211,92.41706161137441,English (Canada) <en_CA@li.org>
+slingshot-launcher,217,0,0,68,0,0,217,217,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/applications-menu/en_CA/>
+snap-photobooth,1,0,24,1,0,4,17,25,4.0,English (Canada) <en_CA@li.org>
+sound-juicer,702,0,0,146,0,0,711,702,100.0,Canadian English <adamw@gnome.org>
+soundconverter,5,0,383,1,0,120,5,388,1.2886597938144329,English (Canada) <en_CA@li.org>
+steadyflow,423,0,47,88,0,5,432,470,90.0,English (Canada) <en_CA@li.org>
+stellarium,39767,0,27273,19108,0,7123,39782,67040,59.31831742243436,English (Canada) (https://www.transifex.com/stellarium/teams/80998/en_CA/)
+subdownloader,14,0,954,11,0,261,14,968,1.4462809917355373,English (Canada) <en_CA@li.org>
+swell-foop,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+switchboard,58,0,3,16,0,2,58,61,95.08196721311475,English (Canada) <en_CA@li.org>
+switchboard-plug-a11y,184,5,0,66,2,0,184,189,97.35449735449735,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/en_CA/>
+switchboard-plug-about,117,0,0,37,0,0,117,117,100.0,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/en_CA/>
+switchboard-plug-applications,91,0,0,31,0,0,91,91,100.0,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/en_CA/>
+switchboard-plug-bluetooth,73,0,0,27,0,0,73,73,100.0,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/en_CA/>
+switchboard-plug-display,104,0,0,41,0,0,104,104,100.0,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/en_CA/>
+switchboard-plug-keyboard,397,3,3,154,1,1,397,403,98.51116625310173,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/en_CA/>
+switchboard-plug-mouse-touchpad,67,0,0,27,0,0,67,67,100.0,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/en_CA/>
+switchboard-plug-networking,434,8,0,124,4,0,434,442,98.19004524886877,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/en_CA/>
+switchboard-plug-notifications,139,0,0,20,0,0,139,139,100.0,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/en_CA/>
+switchboard-plug-onlineaccounts,121,0,40,32,0,17,121,161,75.15527950310559,English (Canada) <en_CA@li.org>
+switchboard-plug-pantheon-shell,138,2,4,51,1,1,138,144,95.83333333333334,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/en_CA/>
+switchboard-plug-printers,335,0,1,137,0,1,335,336,99.70238095238095,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/en_CA/>
+switchboard-plug-sound,84,4,2,34,2,1,84,90,93.33333333333333,English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/en_CA/>
+system-switch-java,81,0,0,11,0,0,81,81,100.0,Canadian English
+tali,4224,0,0,899,0,0,4227,4224,100.0,Canadian English
+terminator,266,0,1144,101,0,316,266,1410,18.865248226950353,English (Canada) <en_CA@li.org>
+tomboy,3278,0,0,471,0,0,3281,3278,100.0,English
+totem,2453,0,0,561,0,0,2456,2453,100.0,Canadian English
+totem-pl-parser,1795,0,0,372,0,0,1810,1795,100.0,Canadian English <adamw@gnome.org>
+trader,1843,0,0,209,0,0,1843,1843,100.0,English (Canadian) <(nothing)>
+transmission,1642,0,167,441,0,53,1672,1809,90.76838032061913,English (Canada) <en_CA@li.org>
+tuxpaint,1591,0,0,291,0,0,1591,1591,100.0,
+vino,544,0,0,72,0,0,542,544,100.0,Canadian English <adamw@gnome.org>
+vocal,115,0,262,34,0,45,124,377,30.50397877984085,English (Canada) <en_CA@li.org>
+vte,108,0,0,19,0,0,108,108,100.0,Canadian English <adamw@gnome.org>
+vte291,108,0,0,19,0,0,108,108,100.0,Canadian English <adamw@gnome.org>
+vte3,108,0,0,19,0,0,108,108,100.0,Canadian English <adamw@gnome.org>
+webkitgtk4,1441,587,593,337,123,110,1441,2621,54.9790156428844,Canadian English
+wicd,0,0,1138,0,0,254,0,1138,0.0,en_CA <LL@li.org>
+widelands,582,0,40281,87,0,3683,572,40863,1.4242713457161735,English (Canada) (http://www.transifex.com/widelands/widelands/language/en_CA/)
+wingpanel,8,0,0,2,0,0,8,8,100.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,225,0,0,72,0,0,225,225,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/applications-menu/en_CA/>
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,15,15,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/en_CA/>
+wingpanel-indicator-datetime,20,0,0,6,0,0,20,20,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,10,0,0,4,0,0,10,10,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/en_CA/>
+wingpanel-indicator-network,76,0,0,22,0,0,76,76,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/en_CA/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,16,16,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/en_CA/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,16,16,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/en_CA/>
+wingpanel-indicator-power,93,0,0,27,0,0,93,93,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/en_CA/>
+wingpanel-indicator-session,57,0,0,18,0,0,57,57,100.0,English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/en_CA/>
+wingpanel-indicator-sound,14,0,0,6,0,0,14,14,100.0,LANGUAGE <LL@li.org>
+xed,1953,0,2654,570,0,419,1957,4607,42.39201215541567,English (Canada) (http://www.transifex.com/projects/p/MATE/language/en_CA/)
+xfce4-hardware-monitor-plugin,363,0,0,132,0,0,366,363,100.0,Canadian English <adamw@gnome.org>
+xplayer,1619,0,338,431,0,62,1619,1957,82.72866632600919,Canadian English
+xplayer-plparser,1795,0,0,372,0,0,1810,1795,100.0,Canadian English <adamw@gnome.org>
+xreader,590,0,1052,170,0,202,591,1642,35.931790499390985,English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/)
+xviewer,1512,0,165,296,0,28,1512,1677,90.16100178890876,Canadian English
+yelp,792,0,0,183,0,0,800,792,100.0,Canadian English <adamw@gnome.org>
+yelp-xsl,238,0,0,92,0,0,238,238,100.0,Canadian English <adamw@gnome.org>
+zenity,559,0,0,130,0,0,568,559,100.0,Canadian English <adamw@gnome.org>

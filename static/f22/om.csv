@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,1469,0,11783,466,0,2758,1366,13252,11.085119227286446,Oromo <om@li.org>
+libreoffice,451866,5333,84741,57820,1769,15791,361272,541940,83.379340886445,LANGUAGE <LL@li.org>
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Oromo (http://www.transifex.com/projects/p/MATE/language/om/)
+mintmenu,978,0,2185,351,0,316,898,3163,30.920012646221938,Oromo <om@li.org>

@@ -1,0 +1,57 @@
+---
+title: "fantasdic - translation progress for f41"
+package: fantasdic
+date: 2026-01-20T01:23:50+00:00
+started_languages: 18
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 19
+release: f41
+---
+The package fantasdic (version 1.0):
+
+* represents 492 source words to be translated
+* is translated into 19 languages in Fedora f41
+
+
+* contains 19 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [br]({{< ref "/f41/language/br.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/br.po | 
+ | [cs]({{< ref "/f41/language/cs.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/cs.po | 
+ | [de]({{< ref "/f41/language/de.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/de.po | 
+ | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/en_GB.po | 
+ | [error]({{< ref "/f41/language/error.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/sr@Latn.po | 
+ | [es]({{< ref "/f41/language/es.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/es.po | 
+ | [fi]({{< ref "/f41/language/fi.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/fi.po | 
+ | [fr]({{< ref "/f41/language/fr.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/fr.po | 
+ | [it]({{< ref "/f41/language/it.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/it.po | 
+ | [ja]({{< ref "/f41/language/ja.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/ja.po | 
+ | [pt]({{< ref "/f41/language/pt.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/pt.po | 
+ | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/pt_BR.po | 
+ | [sr]({{< ref "/f41/language/sr.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/sr.po | 
+ | [sv]({{< ref "/f41/language/sv.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/sv.po | 
+ | [vi]({{< ref "/f41/language/vi.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f41/fantasdic/po/vi.po | 
+ | [ar]({{< ref "/f41/language/ar.md" >}}) | 375 | 398 | 94.2 | /mnt/stockage/packages/f41/fantasdic/po/ar.po | 
+ | [ca]({{< ref "/f41/language/ca.md" >}}) | 267 | 328 | 81.4 | /mnt/stockage/packages/f41/fantasdic/po/ca.po | 
+ | [oc]({{< ref "/f41/language/oc.md" >}}) | 113 | 398 | 28.4 | /mnt/stockage/packages/f41/fantasdic/po/oc.po | 
+ | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 57 | 390 | 14.6 | /mnt/stockage/packages/f41/fantasdic/po/nb.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

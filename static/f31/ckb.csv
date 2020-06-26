@@ -1,0 +1,83 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appstream,94,19,795,67,5,125,94,908,10.352422907488986,Kurdish Sorani <https://hosted.weblate.org/projects/appstream/translations/ckb/>
+arandr,10,0,163,9,0,29,10,173,5.780346820809249,Kurdish Sorani <https://hosted.weblate.org/projects/arandr/translations/ckb/>
+baobab,190,0,85,62,0,11,171,275,69.0909090909091,Kurdish Sorani <ckb@li.org>
+blueberry,12,0,150,6,0,30,13,162,7.4074074074074066,Kurdish (Sorani) <ckb@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,11,0,1218,4,0,270,15,1229,0.8950366151342555,Kurdish (Sorani) <ckb@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,26,0,79,17,0,27,25,105,24.761904761904763,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,240,0,0,42,0,240,0.0,none
+elementary-camera,0,0,65,0,0,18,0,65,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,152,125,874,59,22,176,155,1151,13.205907906168548,LANGUAGE <LL@li.org>
+elementary-files,13,2,2896,6,2,551,12,2911,0.4465819306080384,Sorani <https://weblate.elementary.io/projects/files/files/ckb/>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,LANGUAGE <LL@li.org>
+elementary-music,94,6,1208,68,3,295,101,1308,7.186544342507645,Kurdish (Sorani) <ckb@li.org>
+elementary-photos,8,0,3902,4,0,802,7,3910,0.20460358056265981,LANGUAGE <LL@li.org>
+elementary-planner,0,0,2639,0,0,508,0,2639,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,24,0,188,10,0,45,21,212,11.320754716981133,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,1,0,223,1,0,43,1,224,0.4464285714285714,Sorani <https://l10n.elementary.io/projects/desktop/sideload/ckb/>
+elementary-terminal,100,14,328,23,4,63,80,442,22.624434389140273,Kurdish (Sorani) <ckb@li.org>
+elementary-videos,0,0,215,0,0,41,0,215,0.0,none
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+file-roller,688,0,519,218,0,58,618,1207,57.000828500414244,Kurdish (Sorani) <ckb@li.org>
+fragments,233,0,1773,101,0,425,239,2006,11.615154536390827,Central Kurdish (https://www.transifex.com/transmissionbt/teams/33778/ckb/)
+gala,0,0,140,0,0,34,0,140,0.0,Kurdish (Sorani) <ckb@li.org>
+gnome-bluetooth,312,0,62,107,0,4,300,374,83.42245989304813,Kurdish (Sorani) <ckb@li.org>
+gnome-control-center,4510,0,1647,1400,0,297,4393,6157,73.24995939580965,Kurdish (Sorani) <ckb@li.org>
+gnome-desktop3,76,0,83,28,0,6,74,159,47.79874213836478,Kurdish Sorani <ckb@li.org>
+gnome-initial-setup,581,0,271,101,0,21,493,852,68.1924882629108,Kurdish Sorani <ckb@li.org>
+gnome-online-accounts,513,0,226,131,0,29,510,739,69.41813261163735,Kurdish (Sorani) <ckb@li.org>
+gnome-shell,929,0,1436,337,0,197,897,2365,39.28118393234673,Kurdish (Sorani) <ckb@li.org>
+gnome-weather,130,0,64,38,0,3,143,194,67.0103092783505,Kurdish Sorani <ckb@li.org>
+granite,37,5,227,21,3,64,40,269,13.754646840148698,Kurdish (Sorani) <ckb@li.org>
+gspell,65,0,13,31,0,1,67,78,83.33333333333334,Kurdish (Sorani) <ckb@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+homebank,408,0,2084,236,0,563,397,2492,16.37239165329053,Kurdish (Sorani) <ckb@li.org>
+iso-codes,255,8,719,191,2,227,241,982,25.967413441955195,Sorani <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ckb/>
+lightdm,0,0,163,0,0,21,0,163,0.0,Kurdish (Sorani) <ckb@li.org>
+mate-menu,5,0,303,2,0,108,5,308,1.6233766233766231,Kurdish (Sorani) <ckb@li.org>
+midori,289,0,3252,107,0,689,262,3541,8.161536289183847,Kurdish (Sorani) <ckb@li.org>
+mypaint,402,0,4918,169,0,911,415,5320,7.55639097744361,Kurdish Sorani <https://hosted.weblate.org/projects/mypaint/mypaint/ckb/>
+nautilus,1469,0,4142,601,0,524,1419,5611,26.180716449830687,Kurdish (Sorani) <ckb@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser,0,55,172,0,12,32,0,227,0.0,Kurdish Sorani <https://hosted.weblate.org/projects/phpmyadmin/master/ckb/>
+php-phpmyadmin-sql-parser5,0,74,194,0,15,35,0,268,0.0,Kurdish Sorani <https://hosted.weblate.org/projects/phpmyadmin/master/ckb/>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+remmina,2601,38,519,657,13,28,2548,3158,82.36225459151362,Central Kurdish <https://hosted.weblate.org/projects/remmina/remmina/ckb/>
+slick-greeter,22,0,189,9,0,38,25,211,10.42654028436019,Kurdish (Sorani) <ckb@li.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,148,0,0,38,0,148,0.0,Kurdish (Sorani) <ckb@li.org>
+switchboard-plug-display,17,18,104,11,9,32,23,139,12.23021582733813,Kurdish (Sorani) <ckb@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,
+switchboard-plug-mouse-touchpad,1,0,231,1,0,72,1,232,0.43103448275862066,Sorani <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/ckb/>
+switchboard-plug-networking,1,0,473,1,0,136,1,474,0.21097046413502107,Sorani <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/ckb/>
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,34,0,0,7,0,34,0.0,none
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+transmission,251,0,1558,103,0,391,256,1809,13.875069098949696,Kurdish (Sorani) <ckb@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Kurdish (Sorani) <ckb@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,12,0,116,3,0,22,11,128,9.375,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,16,0,22,7,0,6,15,38,42.10526315789473,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,14,0,103,11,0,21,16,117,11.965811965811966,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,7,2,36,3,1,7,8,45,15.555555555555555,LANGUAGE <LL@li.org>

@@ -1,0 +1,1528 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,212,0,0,44,0,0,190,212,100.0,Swedish (http://www.transifex.com/wildfire-games/0ad/language/sv/)
+GConf2,4088,0,0,497,0,0,3991,4088,100.0,Swedish <tp-sv@listor.tp-sv.se>
+LabPlot,10538,0,0,2871,0,0,9400,10538,100.0,Swedish <kde-i18n-doc@kde.org>
+ModemManager,134,7,6,17,1,1,135,147,91.15646258503402,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager,18964,2797,2555,1800,190,105,16695,24316,77.9898009541043,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-fortisslvpn,286,28,9,46,12,2,261,323,88.54489164086688,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-iodine,75,0,0,21,0,0,68,75,100.0,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-l2tp,432,0,710,87,0,92,391,1142,37.828371278458846,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-libreswan,256,15,194,53,6,17,226,465,55.053763440860216,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-openconnect,5506,0,856,963,0,153,5232,6362,86.54511160012575,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-openvpn,1854,0,0,256,0,0,1693,1854,100.0,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-pptp,509,0,0,84,0,0,465,509,100.0,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-ssh,115,87,84,29,22,18,99,286,40.20979020979021,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-sstp,509,0,0,84,0,0,465,509,100.0,Swedish <tp-sv@listor.tp-sv.se>
+NetworkManager-vpnc,606,0,0,101,0,0,536,606,100.0,Swedish <tp-sv@listor.tp-sv.se>
+PackageKit,1282,0,0,321,0,0,1207,1282,100.0,Swedish (http://www.transifex.com/freedesktop/packagekit/language/sv/)
+Thunar,4409,0,0,762,0,0,4163,4409,100.0,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+WindowMaker,629,0,0,114,0,0,594,629,100.0,Swedish
+Zim,2636,60,244,643,17,30,2573,2940,89.65986394557824,Swedish <sv@li.org>
+a2ps,1142,321,49,162,11,6,1162,1512,75.52910052910053,Swedish <sv@li.org>
+abattis-cantarell-fonts,27,0,0,3,0,0,24,27,100.0,Swedish <tp-sv@listor.tp-sv.se>
+abook,530,110,158,141,29,40,528,798,66.41604010025063,none
+abrt,3676,0,0,417,0,0,3491,3676,100.0,Swedish <https://translate.fedoraproject.org/projects/abrt/abrt/sv/>
+accerciser,4610,0,0,444,0,0,4181,4610,100.0,Swedish <tp-sv@listor.tp-sv.se>
+accountsservice,59,0,0,10,0,0,52,59,100.0,Swedish (http://www.transifex.com/freedesktop/accountsservice/language/sv/)
+acl,395,105,0,49,3,0,380,500,79.0,Swedish <tp-sv@listor.tp-sv.se>
+agenda,5,0,12,2,0,4,4,17,29.411764705882355,Swedish <sv@li.org>
+aisleriot,23775,0,0,1609,0,0,21723,23775,100.0,Swedish <tp-sv@listor.tp-sv.se>
+akonadi-calendar-tools,785,0,0,172,0,0,786,785,100.0,Swedish <kde-i18n-doc@kde.org>
+akonadi-import-wizard,391,0,0,83,0,0,360,391,100.0,Swedish <kde-i18n-doc@kde.org>
+akregator,1786,0,0,432,0,0,1698,1786,100.0,Swedish <kde-i18n-doc@kde.org>
+alacarte,45,0,0,20,0,0,42,45,100.0,Swedish <tp-sv@listor.tp-sv.se>
+alexandria,1072,39,67,281,11,13,1018,1178,91.00169779286928,Swedish <sv@li.org>
+alleyoop,351,0,0,92,0,0,327,351,100.0,Swedish <tp-sv@listor.tp-sv.se>
+almanah,805,0,0,143,0,0,810,805,100.0,Swedish
+amarok,15819,0,0,2780,0,0,15167,15819,100.0,Swedish <kde-i18n-doc@kde.org>
+amtk,11,0,0,3,0,0,12,11,100.0,Swedish <tp-sv@listor.tp-sv.se>
+anaconda,7488,256,14,1261,22,3,6868,7758,96.51972157772622,Swedish <tp-sv@listor.tp-sv.se>
+analitza,992,0,0,222,0,0,987,992,100.0,Swedish <kde-i18n-doc@kde.org>
+anjuta,9965,721,8212,2349,68,363,9186,18898,52.73044766641972,Swedish <tp-sv@listor.tp-sv.se>
+apostrophe,451,0,2,148,0,1,412,453,99.55849889624724,
+appstream,851,209,2205,193,20,122,766,3265,26.064318529862174,Swedish <https://hosted.weblate.org/projects/appstream/translations/sv/>
+apt,4023,591,789,599,52,59,3902,5403,74.45863409217101,Swedish <debian-l10n-swedish@debian.org>
+arandr,173,0,0,38,0,0,169,173,100.0,Swedish <https://hosted.weblate.org/projects/arandr/translations/sv/>
+ardour5,3036,1,16465,1188,1,3069,2699,19502,15.567634088811404,Svenska <sv@li.org>
+arduino,1656,0,1548,399,0,208,1649,3204,51.68539325842697,Swedish (http://www.transifex.com/mbanzi/arduino-ide-15/language/sv/)
+aria2,407,0,7079,24,0,375,444,7486,5.436815388725621,Swedish <sv@li.org>
+ark,1901,0,0,341,0,0,1838,1901,100.0,Swedish <kde-i18n-doc@kde.org>
+arm-none-eabi-binutils-cs,58125,3301,4861,9266,503,652,52571,66287,87.68687676316624,Swedish <tp-sv@listor.tp-sv.se>
+arm-none-eabi-gcc-cs,113703,0,0,14207,0,0,105985,113703,100.0,Swedish <tp-sv-list@lists.sourceforge.net>
+artikulate,363,0,0,161,0,0,328,363,100.0,Swedish <kde-i18n-doc@kde.org>
+aspell,1706,33,58,290,7,6,1487,1797,94.93600445186422,Swedish <tp-sv@listor.tp-sv.se>
+asunder,490,0,2,90,0,1,457,492,99.59349593495935,Swedish <tp-sv@listor.tp-sv.se>
+at-spi2-core,10,0,0,2,0,0,13,10,100.0,Swedish <tp-sv@listor.tp-sv.se>
+atk,440,0,0,169,0,0,326,440,100.0,Swedish <tp-sv@listor.tp-sv.se>
+atomix,169,0,0,44,0,0,171,169,100.0,Swedish <tp-sv@listor.tp-sv.se>
+atril,2311,0,1535,500,0,141,2193,3846,60.08840353614144,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+attr,208,138,2,22,7,1,206,348,59.77011494252874,Swedish <tp-sv@listor.tp-sv.se>
+audacious,780,0,0,333,0,0,738,780,100.0,Swedish (http://www.transifex.com/audacious/audacious/language/sv/)
+audacious-plugins,3725,0,253,890,0,10,3436,3978,93.64002011060835,Swedish (http://www.transifex.com/audacious/audacious/language/sv/)
+audacity,16024,548,295,3753,96,45,15259,16867,95.00207505780519,"swedish <musselasse@gmail.com, anton_r_3@hotmail.com>"
+audex,3347,0,0,412,0,0,2985,3347,100.0,Swedish <kde-i18n-doc@kde.org>
+authselect,6148,0,0,635,0,0,5827,6148,100.0,Swedish <https://translate.fedoraproject.org/projects/authselect/master-application/sv/>
+avahi,868,0,0,168,0,0,807,868,100.0,Swedish (http://www.transifex.com/lennart/avahi/language/sv/)
+avogadro,974,0,5633,472,0,1900,1055,6607,14.74194036627819,Swedish <sv@li.org>
+avogadro2,137,67,258,84,25,40,209,462,29.653679653679653,Swedish <sv@li.org>
+avogadro2-libs,138,140,2371,132,62,634,187,2649,5.209513023782559,Swedish <sv@li.org>
+avr-binutils,58125,3301,4861,9266,503,652,52571,66287,87.68687676316624,Swedish <tp-sv@listor.tp-sv.se>
+avr-gcc,113703,0,0,14207,0,0,105985,113703,100.0,Swedish <tp-sv-list@lists.sourceforge.net>
+avr-gdb,9985,0,0,1547,0,0,9206,9985,100.0,Swedish <tp-sv@listor.tp-sv.se>
+b43-fwcutter,67,0,0,4,0,0,66,67,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+b43-tools,67,0,0,4,0,0,66,67,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+backintime,1972,0,0,349,0,0,1913,1972,100.0,Swedish <sv@li.org>
+bacula,0,0,773,0,0,117,0,773,0.0,Swedish <bacula-devel@lists.soureforge.net>
+baloo-widgets,52,0,0,31,0,0,55,52,100.0,Swedish <kde-i18n-doc@kde.org>
+balsa,6458,36,0,1492,9,0,6213,6494,99.44564213119803,Swedish <tp-sv@listor.tp-sv.se>
+banshee,5218,0,0,1379,0,0,5021,5218,100.0,Swedish <tp-sv@listor.tp-sv.se>
+baobab,1381,0,0,141,0,0,1305,1381,100.0,Swedish <tp-sv@listor.tp-sv.se>
+bareftp,448,0,0,160,0,0,422,448,100.0,Swedish <>
+bash,11184,323,0,584,2,0,10408,11507,97.19301294863996,Swedish <tp-sv@listor.tp-sv.se>
+bijiben,1288,0,0,245,0,0,1309,1288,100.0,Swedish <tp-sv@listor.tp-sv.se>
+binutils,57492,840,3486,9142,168,514,52128,61818,93.00203824128894,Swedish <tp-sv@listor.tp-sv.se>
+bison,1556,0,0,257,0,0,1429,1556,100.0,Swedish <tp-sv@listor.tp-sv.se>
+bleachbit,1803,0,0,350,0,0,1728,1803,100.0,Swedish <tp-sv@listor.tp-sv.se>
+blender,24573,0,0,7858,0,0,14276,24573,100.0,
+blinken,133,0,0,47,0,0,138,133,100.0,Swedish <sv@li.org>
+blobwars,1168,0,0,353,0,0,1088,1168,100.0,
+blogilo,1392,0,0,337,0,0,1342,1392,100.0,Swedish <kde-i18n-doc@kde.org>
+blueberry,162,0,0,36,0,0,171,162,100.0,Swedish <sv@li.org>
+bluedevil,618,0,0,194,0,0,585,618,100.0,Swedish <kde-i18n-doc@kde.org>
+bluefish,674,1687,2584,339,697,512,632,4945,13.629929221435793,Swedish <sv@li.org>
+blueman,1333,53,346,377,27,111,1286,1732,76.96304849884527,Swedish <https://hosted.weblate.org/projects/blueman/stable/sv/>
+boinc-client,23779,0,240,3827,0,25,22693,24019,99.00079104042632,Swedish (http://www.transifex.com/boinc/boinc/language/sv/)
+bomber,110,0,0,27,0,0,101,110,100.0,Swedish <kde-i18n-doc@kde.org>
+bookworm,795,0,0,149,0,0,748,795,100.0,Swedish <https://hosted.weblate.org/projects/bookworm/bookworm/sv/>
+boswars,200,6,10,61,3,9,193,216,92.5925925925926,
+bottles,1508,33,19,332,6,3,1432,1560,96.66666666666667,Swedish <https://hosted.weblate.org/projects/bottles/bottles/sv/>
+bovo,81,0,0,25,0,0,85,81,100.0,Swedish <kde-i18n-doc@kde.org>
+brasero,7751,0,0,1113,0,0,7164,7751,100.0,Swedish <tp-sv@listor.tp-sv.se>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+bygfoot,3707,0,13,772,0,2,3543,3720,99.6505376344086,Swedish <tp-sv@listor.tp-sv.se>
+byobu,177,0,0,44,0,0,157,177,100.0,Swedish <sv@li.org>
+byzanz,236,0,0,52,0,0,256,236,100.0,Swedish <tp-sv@listor.tp-sv.se>
+bzflag,1931,0,0,346,0,0,1850,1931,100.0,
+cacti,1350,27325,666,836,3342,43,1280,29341,4.601070174840666,
+cairo-clock,270,0,0,60,0,0,245,270,100.0,Swedish <sv@li.org>
+cairo-dock,1360,0,6104,230,0,597,1150,7464,18.220793140407288,Swedish
+cairo-dock-plug-ins,2993,0,7210,579,0,1143,2679,10203,29.33450945800255,Cairo-Dock
+caja,9435,0,190,1586,0,9,9055,9625,98.02597402597402,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+caja-actions,743,1289,5670,214,110,372,665,7702,9.646844975331083,Swedish <tp-sv@listor.tp-sv.se>
+caja-extensions,667,3,1,142,3,1,653,671,99.40387481371089,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+calamares,0,0,443,0,0,84,0,443,0.0,Swedish (https://www.transifex.com/calamares/teams/20061/sv/)
+calibre,156713,0,4261,16778,0,1701,143360,160974,97.35298868140197,Swedish (http://www.transifex.com/calibre/calibre/language/sv/)
+calligra,35862,0,0,7755,0,0,32848,35862,100.0,Swedish <kde-i18n-doc@kde.org>
+calligraplan,9616,0,0,2065,0,0,8583,9616,100.0,Swedish <kde-i18n-doc@kde.org>
+camorama,500,94,181,114,20,32,461,775,64.51612903225806,Swedish <tp-sv@listor.tp-sv.se>
+cantor,2695,0,0,577,0,0,2519,2695,100.0,Swedish <kde-i18n-doc@kde.org>
+caribou,169,0,0,57,0,0,155,169,100.0,Swedish <tp-sv@listor.tp-sv.se>
+catfish,784,0,3,117,0,1,704,787,99.61880559085134,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+ccsm,561,5,25,147,3,13,521,591,94.9238578680203,Swedish <sv@li.org>
+celestia,2262,6,8,1083,1,2,2140,2276,99.38488576449912,Swedish <tp-sv@listor.tp-sv.se>
+centerim,1908,623,333,574,152,91,1768,2864,66.62011173184358,swedish <sv@li.org>
+certmonger,2458,156,217,414,21,38,2244,2831,86.82444365948429,Swedish (http://www.transifex.com/projects/p/certmonger/language/sv/)
+cervisia,1619,0,0,421,0,0,1520,1619,100.0,Swedish <kde-i18n-doc@kde.org>
+cflow,545,28,21,106,5,2,481,594,91.75084175084174,Swedish <tp-sv@listor.tp-sv.se>
+cgit,35890,0,0,5658,0,0,34558,35890,100.0,Swedish <tp-sv@listor.tp-sv.se>
+cheese,2103,0,0,243,0,0,2008,2103,100.0,Swedish <tp-sv@listor.tp-sv.se>
+chkconfig,524,0,31,96,0,7,539,555,94.41441441441441,Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)
+choqok,2265,82,3,567,17,3,2282,2350,96.38297872340425,Swedish <kde-i18n-doc@kde.org>
+chrome-gnome-shell,313,0,0,49,0,0,304,313,100.0,Swedish <tp-sv@listor.tp-sv.se>
+chromium-bsu,934,37,121,170,6,14,981,1092,85.53113553113553,Swedish <tp-sv@listor.tp-sv.se>
+cinnamon-control-center,1304,0,0,752,0,0,1203,1304,100.0,Swedish <tp-sv@listor.tp-sv.se>
+cinnamon-desktop,232,0,2,31,0,1,233,234,99.14529914529915,Swedish <tp-sv@listor.tp-sv.se>
+cinnamon-translations,22933,0,0,5109,0,0,22075,22933,100.0,Swedish <sv@li.org>
+clamtk,448,0,0,138,0,0,448,448,100.0,Launchpad Swedish Translators <lp-l10n-sv@lists.launchpad.net>
+classified-ads,1950,0,0,418,0,0,1907,1950,100.0,Swedish
+claws-mail,20735,0,0,4051,0,0,19297,20735,100.0,Swedish
+clawsker,1511,0,0,272,0,0,1331,1511,100.0,Swedish
+clementine,5251,0,0,1391,0,0,5067,5251,100.0,Swedish (http://www.transifex.com/davidsansome/clementine/language/sv/)
+clipit,218,0,0,74,0,0,205,218,100.0,Svenska Språkfiler <https://svenskasprakfiler.se>
+clisp,12059,214,1508,1396,30,223,11109,13781,87.50453522966403,Swedish <tp-sv@listor.tp-sv.se>
+clutter,3057,0,0,675,0,0,2402,3057,100.0,Swedish <tp-sv@listor.tp-sv.se>
+cockpit,5157,715,1947,1466,205,403,4854,7819,65.95472566824402,Swedish <https://translate.fedoraproject.org/projects/cockpit/master/sv/>
+cockpit-podman,477,0,0,175,0,0,479,477,100.0,Swedish <https://translate.fedoraproject.org/projects/cockpit-podman/master/sv/>
+cogl,393,0,0,80,0,0,340,393,100.0,Swedish <tp-sv@listor.tp-sv.se>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,1990,0,0,253,0,0,1728,1990,100.0,Swedish (http://www.transifex.com/freedesktop/colord/language/sv/)
+colord-kde,369,0,0,120,0,0,312,369,100.0,Swedish <kde-i18n-doc@kde.org>
+colorhug-client,333,0,1099,74,0,223,252,1432,23.25418994413408,Swedish (http://www.transifex.com/hughsie/colorhug-client/language/sv/)
+common-lisp-controller,57,0,0,7,0,0,71,57,100.0,Swedish <sv@li.org>
+compiz,2114,1675,596,518,254,107,1960,4385,48.20980615735462,Swedish <sv@li.org>
+compiz-plugins-experimental,1175,1257,2041,272,345,275,1108,4473,26.268723451822044,Swedish <sv@li.org>
+compiz-plugins-extra,2946,443,384,609,84,57,2584,3773,78.08110257089848,Swedish <sv@li.org>
+compiz-plugins-main,3772,171,275,746,32,33,3384,4218,89.4262683736368,Swedish <sv@li.org>
+coreutils,21194,0,0,1798,0,0,20436,21194,100.0,Swedish <tp-sv@listor.tp-sv.se>
+cozy,817,0,451,186,0,54,726,1268,64.43217665615141,Swedish (https://www.transifex.com/geigi/teams/78138/sv/)
+cpio,1872,30,7,310,3,1,1845,1909,98.06181246726034,Swedish <tp-sv@listor.tp-sv.se>
+cppi,596,0,0,61,0,0,590,596,100.0,Swedish <tp-sv@listor.tp-sv.se>
+cross-binutils,57492,840,3486,9142,168,514,52128,61818,93.00203824128894,Swedish <tp-sv@listor.tp-sv.se>
+cross-gcc,106421,0,0,13480,0,0,99073,106421,100.0,Swedish <tp-sv@listor.tp-sv.se>
+cryptsetup,5823,39,67,843,5,7,5606,5929,98.21217743295665,Swedish <tp-sv@listor.tp-sv.se>
+cups-pk-helper,149,0,0,22,0,0,166,149,100.0,Swedish (http://www.transifex.com/projects/p/freedesktop/language/sv/)
+d-feet,189,0,0,55,0,0,172,189,100.0,Swedish <tp-sv@listor.tp-sv.se>
+dar,8286,2881,1983,954,346,201,7770,13150,63.01140684410647,Swedish <kde-i18n-doc@kde.org>
+dasher,952,35,6246,249,11,211,898,7233,13.161896861606525,Swedish <tp-sv@listor.tp-sv.se>
+datamash,735,50,91,116,5,12,705,876,83.9041095890411,Swedish <tp-sv@listor.tp-sv.se>
+dayplanner,1082,1,13,180,1,5,1008,1096,98.72262773722628,Swedish <tp-sv@listor.tp-sv.se>
+dconf-editor,2955,0,0,394,0,0,2902,2955,100.0,Swedish <tp-sv@listor.tp-sv.se>
+dcraw,553,0,0,110,0,0,505,553,100.0,
+debconf,785,17,60,86,4,4,728,862,91.06728538283063,Swedish <debian-boot@lists.debian.org>
+deepin-daemon,942,22,1579,397,7,274,883,2543,37.04286276051907,Swedish (Sweden) (http://www.transifex.com/projects/p/dde-daemon/language/sv_SE/)
+deepin-qml-widgets,18,0,0,13,0,0,19,18,100.0,Swedish (Sweden) (http://www.transifex.com/projects/p/deepin-qml-widgets/language/sv_SE/)
+deepin-terminal,439,0,19,167,0,2,442,458,95.85152838427948,Swedish (https://www.transifex.com/linuxdeepin/teams/3976/sv/)
+deja-dup,3362,0,0,418,0,0,3314,3362,100.0,Swedish <sv@li.org>
+deluge,4184,0,147,1278,0,52,3823,4331,96.60586469637497,Swedish <tp-sv@listor.tp-sv.se>
+denemo,81,3470,19046,41,929,1935,69,22597,0.35845466212329075,Swedish <sv@li.org>
+devhelp,1111,0,0,139,0,0,1008,1111,100.0,Swedish <tp-sv@listor.tp-sv.se>
+devilspie2,161,0,0,35,0,0,157,161,100.0,Swedish
+dia,4652,674,929,1808,244,259,4150,6255,74.37250199840128,Swedish <tp-sv@listor.tp-sv.se>
+dialog,25,0,0,23,0,0,27,25,100.0,Swedish <tp-sv@listor.tp-sv.se>
+diffutils,1886,0,0,266,0,0,1862,1886,100.0,Swedish <tp-sv@listor.tp-sv.se>
+digikam,51194,164,0,7812,14,0,45842,51358,99.68067292340045,Swedish <kde-i18n-doc@kde.org>
+dino,837,0,2,219,0,1,818,839,99.761620977354,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,4439,0,0,857,0,0,4326,4439,100.0,Swedish <https://translate.fedoraproject.org/projects/dnf/dnf-master/sv/>
+dnf-plugins-core,1464,0,0,219,0,0,1360,1464,100.0,Swedish <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/sv/>
+dnf-plugins-extras,382,0,0,57,0,0,383,382,100.0,Swedish <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/sv/>
+dnfdragora,558,0,1213,293,0,181,529,1771,31.507622811970638,Swedish (https://www.transifex.com/MageiaLinux/teams/9361/sv/)
+dolphin,4532,0,0,664,0,0,4146,4532,100.0,Swedish <kde-i18n-doc@kde.org>
+dolphin-emu,11367,0,241,2002,0,41,10844,11608,97.92384562370778,Swedish (http://www.transifex.com/delroth/dolphin-emu/language/sv/)
+dolphin-plugins,1368,0,0,382,0,0,1338,1368,100.0,Swedish <kde-i18n-doc@kde.org>
+dos2unix,5170,0,0,417,0,0,4589,5170,100.0,Swedish <tp-sv@listor.tp-sv.se>
+dpkg,35202,26233,11512,3277,1288,647,32457,72947,48.25695367869823,Svenska <debian-l10n-swedish@lists.debian.org>
+dragon,280,0,0,88,0,0,262,280,100.0,Swedish <kde-i18n-doc@kde.org>
+drawing,1453,0,0,444,0,0,1343,1453,100.0,Svenska Språkfiler <contactform@svenskasprakfiler.se>
+drgeo,1891,90,4,441,18,2,1835,1985,95.26448362720403,Swedish <sv@li.org>
+duff,197,35,0,31,4,0,196,232,84.91379310344827,
+duplicity,1652,0,563,249,0,70,1606,2215,74.5823927765237,Swedish <sv@li.org>
+dvdisaster,3104,0,7199,478,0,567,2864,10303,30.127147432786565,Swedish <tp-sv@listor.tp-sv.se>
+e16,1645,6,1139,233,3,277,1517,2790,58.96057347670251,Swedish <sv@li.org>
+e2fsprogs,10359,0,0,1579,0,0,10081,10359,100.0,Swedish <tp-sv@listor.tp-sv.se>
+easytag,7763,0,0,1187,0,0,7048,7763,100.0,Swedish <tp-sv@listor.tp-sv.se>
+edgar,4,0,11470,4,0,1531,4,11474,0.03486142583231654,Swedish <sv@li.org>
+eiciel,168,0,0,53,0,0,172,168,100.0,Swedish <http://l10n.opensuse.org/projects/eiciel/master/sv/>
+eiskaltdcpp,3626,0,0,1153,0,0,3371,3626,100.0,Swedish (Sweden) (https://www.transifex.com/tehnick/teams/11818/sv_SE/)
+ejabberd,998,323,898,283,74,151,951,2219,44.975214060387565,
+ekiga,6495,2120,1184,890,41,21,5948,9799,66.2822737013981,Swedish <tp-sv@listor.tp-sv.se>
+electrum,481,0,6405,208,0,1039,452,6886,6.985187336625036,Swedish
+elementary-calculator,78,6,46,36,3,15,84,130,60.0,Swedish <https://weblate.elementary.io/projects/calculator/calculator/sv/>
+elementary-calendar,364,106,233,152,27,50,371,703,51.778093883357045,Swedish <https://weblate.elementary.io/projects/calendar/calendar/sv/>
+elementary-camera,59,4,2,15,2,1,58,65,90.76923076923077,Swedish <https://weblate.elementary.io/projects/camera/camera/sv/>
+elementary-capnet-assist,66,0,16,10,0,4,56,82,80.48780487804879,Swedish <https://weblate.elementary.io/projects/desktop/capnet-assist/sv/>
+elementary-code,699,99,353,176,20,61,656,1151,60.72980017376195,Swedish <https://weblate.elementary.io/projects/code/code/sv/>
+elementary-files,1477,561,873,355,77,127,1490,2911,50.73857780831329,Swedish <https://weblate.elementary.io/projects/files/files/sv/>
+elementary-greeter,17,2,147,6,1,30,16,166,10.240963855421686,Swedish <https://l10n.elementary.io/projects/desktop/greeter/sv/>
+elementary-music,1100,32,176,319,9,38,1063,1308,84.09785932721712,Swedish <https://weblate.elementary.io/projects/music/music/sv/>
+elementary-notifications,2,0,1,1,0,1,2,3,66.66666666666666,Swedish <https://l10n.elementary.io/projects/desktop/notifications-extra/sv/>
+elementary-photos,3418,312,180,754,26,26,3469,3910,87.41687979539641,Swedish <https://weblate.elementary.io/projects/photos/photos/sv/>
+elementary-planner,1396,0,1602,362,0,211,1306,2998,46.56437625083389,Swedish <https://hosted.weblate.org/projects/planner/translations/sv/>
+elementary-screenshot-tool,129,0,83,41,0,14,120,212,60.84905660377359,Swedish <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/sv/>
+elementary-shortcut-overlay,81,2,12,35,1,3,69,95,85.26315789473684,Swedish <https://weblate.elementary.io/projects/desktop/shortcut-overlay/sv/>
+elementary-sideload,3,0,221,2,0,42,3,224,1.3392857142857142,Swedish <https://l10n.elementary.io/projects/desktop/sideload/sv/>
+elementary-terminal,158,14,270,37,4,49,150,442,35.74660633484163,Swedish <https://weblate.elementary.io/projects/terminal/terminal/sv/>
+elementary-videos,148,7,191,51,3,36,145,346,42.77456647398844,Swedish <https://weblate.elementary.io/projects/videos/videos/sv/>
+elinks,357,1498,10390,170,474,981,337,12245,2.9154757043691304,Swedish <sv@li.org>
+elisa-player,355,0,0,127,0,0,339,355,100.0,Swedish <kde-i18n-doc@kde.org>
+emerald,652,39,5,215,4,1,559,696,93.67816091954023,Swedish <sv@li.org>
+engrampa,2300,0,5517,504,0,382,2158,7817,29.42305232186261,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+enigma,1832,5,7194,407,2,560,1759,9031,20.285682648654635,Swedish (http://www.transifex.com/projects/p/enigma/language/sv/)
+enlightenment,1330,4306,3049,537,1261,429,1238,8685,15.313759355210133,Swedish
+enscript,1398,427,8,194,12,2,1333,1833,76.2684124386252,Swedish <tp-sv@listor.tp-sv.se>
+entangle,911,0,42,216,0,13,849,953,95.59286463798531,Swedish (http://www.transifex.com/projects/p/entangle/language/sv/)
+eog,6514,0,0,732,0,0,5967,6514,100.0,Swedish <tp-sv@listor.tp-sv.se>
+eog-plugins,428,0,0,111,0,0,403,428,100.0,Swedish <tp-sv@listor.tp-sv.se>
+eom,2198,0,2753,388,0,154,2028,4951,44.39507170268633,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+epiphany,7022,0,0,979,0,0,6542,7022,100.0,Swedish <tp-sv@listor.tp-sv.se>
+erlang-gettext,0,0,0,0,0,0,0,0,0.0,Swedish
+etherape,322,226,571,93,54,102,298,1119,28.775692582663094,Swedish <tp-sv@listor.tp-sv.se>
+evince,9101,0,0,1099,0,0,8582,9101,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution,52251,0,0,7503,0,0,48464,52251,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution-data-server,7673,0,0,1437,0,0,7250,7673,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution-ews,1419,0,0,283,0,0,1359,1419,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution-mapi,1039,0,0,226,0,0,1026,1039,100.0,Swedish <tp-sv@listor.tp-sv.se>
+evolution-rss,883,0,0,225,0,0,845,883,100.0,Swedish <tp-sv@listor.tp-sv.se>
+exif,296,0,0,68,0,0,274,296,100.0,Swedish <tp-sv@listor.tp-sv.se>
+exiv2,35017,1703,1292,5602,345,139,27785,38012,92.12090918657266,tp-sv
+exo,1460,0,0,300,0,0,1302,1460,100.0,Swedish (http://www.transifex.com/xfce/exo/language/sv/)
+fakeroot,1472,71,0,95,2,0,1416,1543,95.39857420609202,Swedish <tp-sv@listor.tp-sv.se>
+falkon,4309,0,0,1370,0,0,4158,4309,100.0,Swedish <kde-i18n-doc@kde.org>
+fantasdic,492,0,0,153,0,0,459,492,100.0,Swedish <tp-sv@listor.tp-sv.se>
+feedreader,602,101,671,186,28,103,584,1374,43.8136826783115,Swedish <https://hosted.weblate.org/projects/feedreader/translations/sv/>
+fetchmail,4688,0,0,726,0,0,4422,4688,100.0,Swedish <tp-sv-list@lists.sourceforge.net>
+file-roller,2917,0,0,453,0,0,2694,2917,100.0,Swedish <tp-sv@listor.tp-sv.se>
+filelight,419,0,0,94,0,0,389,419,100.0,Swedish <kde-i18n-doc@kde.org>
+filezilla,9621,0,0,1684,0,0,9198,9621,100.0,Swedish <tp-sv@listor.tp-sv.se>
+findutils,2163,360,111,210,26,11,2026,2634,82.11845102505694,Swedish <tp-sv@listor.tp-sv.se>
+firewalld,2217,0,0,415,0,0,2024,2217,100.0,Swedish <https://translate.fedoraproject.org/projects/firewalld/master/sv/>
+fish,5114,0,88465,997,0,12001,4609,93579,5.464901313328845,Swedish <tp-sv@listor.tp-sv.se>
+five-or-more,1550,0,0,195,0,0,1454,1550,100.0,Swedish <tp-sv@listor.tp-sv.se>
+flare,3106,3,5482,443,2,1288,2934,8591,36.15411477127226,Swedish (https://www.transifex.com/flareorg/teams/84925/sv/)
+flare-engine,273,0,1082,115,0,342,287,1355,20.14760147601476,Swedish (https://www.transifex.com/flareorg/teams/84925/sv/)
+flatpak,3196,1021,1255,748,174,179,3102,5472,58.40643274853801,Swedish <tp-sv@listor.tp-sv.se>
+flex,791,329,11,164,2,3,768,1131,69.93810786914236,Swedish <tp-sv@listor.tp-sv.se>
+focuswriter,129,0,0,7,0,0,114,129,100.0,Swedish (http://www.transifex.com/gottcode/focuswriter/language/sv/)
+foliate,3089,28,99,941,5,35,2908,3216,96.05099502487562,
+folks,1056,0,0,130,0,0,997,1056,100.0,Swedish <tp-sv@listor.tp-sv.se>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Swedish
+four-in-a-row,1277,0,0,194,0,0,1218,1277,100.0,Swedish <tp-sv@listor.tp-sv.se>
+fpc,201,0,0,10,0,0,177,201,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+fprintd,419,0,0,57,0,0,344,419,100.0,Swedish (http://www.transifex.com/freedesktop/fprintd/language/sv/)
+fragments,2005,0,1,525,0,1,2108,2006,99.95014955134596,Swedish (https://www.transifex.com/transmissionbt/teams/33778/sv/)
+freeciv,18255,29504,58546,3325,3368,2415,16850,106305,17.172287286581064,Swedish <freeciv.sv@freelists.org>
+freedink,70,0,0,13,0,0,66,70,100.0,Swedish <tp-sv@listor.tp-sv.se>
+freedink-data,13770,0,0,2221,0,0,13676,13770,100.0,Swedish <tp-sv@listor.tp-sv.se>
+freedroidrpg,64968,0,12145,6734,0,981,60007,77113,84.25038579746605,Swedish (https://www.transifex.com/arctic-games/teams/9511/sv/)
+frescobaldi,3221,315,17628,1184,124,1283,3033,21164,15.219240219240218,dag.odenhall@gmail.com
+frogr,1542,0,0,300,0,0,1542,1542,100.0,Swedish <tp-sv@listor.tp-sv.se>
+frozen-bubble,698,0,0,148,0,0,662,698,100.0,LANGUAGE <LL@li.org>
+fuse-encfs,755,16,518,102,2,33,696,1289,58.572536850271526,Swedish <sv@li.org>
+fvwm,248,0,0,112,0,0,233,248,100.0,Swedish
+fwupd,1897,0,0,390,0,0,1862,1897,100.0,Swedish (http://www.transifex.com/freedesktop/fwupd/language/sv/)
+gajim,5418,2664,2718,1315,563,317,5259,10800,50.16666666666667,Swedish <tp-sv@listor.tp-sv.se>
+gala,53,0,87,20,0,14,51,140,37.857142857142854,Swedish <https://l10n.elementary.io/projects/desktop/gala/sv/>
+galculator,916,0,19,274,0,1,839,935,97.96791443850267,Swedish (http://www.transifex.com/mate/MATE/language/sv/)
+gambas3,4125,1041,1975,1290,296,648,3720,7141,57.76501890491528,LANGUAGE <LL@li.org>
+gammastep,386,248,311,75,50,24,355,945,40.84656084656085,Swedish <tp-sv@listor.tp-sv.se>
+gammu,3745,261,11,1079,33,1,3331,4017,93.22877769479712,Swedish <https://hosted.weblate.org/projects/gammu/gammu-docs/sv/>
+ganglia,59,0,0,4,0,0,54,59,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+ganyremote,480,0,37,142,0,7,438,517,92.84332688588007,Swedish
+garcon,122,0,0,36,0,0,119,122,100.0,Swedish (http://www.transifex.com/xfce/garcon/language/sv/)
+gawk,4925,63,11,766,3,1,5000,4999,98.51970394078816,Swedish <tp-sv@listor.tp-sv.se>
+gbrainy,10449,0,0,1336,0,0,9730,10449,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gcab,127,0,0,30,0,0,126,127,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gcal,4998,8,0,1445,3,0,4169,5006,99.84019176987616,Swedish <tp-sv@listor.tp-sv.se>
+gcc,113780,0,0,14220,0,0,106111,113780,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gcl,177,0,0,8,0,0,157,177,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+gcolor3,223,0,55,31,0,7,218,278,80.2158273381295,Swedish
+gcompris-qt,27234,0,0,2439,0,0,24747,27234,100.0,Swedish <kde-i18n-doc@kde.org>
+gconf-editor,2834,0,0,238,0,0,2564,2834,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gcr,748,0,0,266,0,0,652,748,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gdb,11804,0,0,1851,0,0,10849,11804,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gdbm,739,19,58,205,4,15,747,816,90.56372549019608,Swedish <tp-sv@listor.tp-sv.se>
+gdk-pixbuf2,1420,0,0,213,0,0,1361,1420,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gdm,9989,0,0,443,0,0,8696,9989,100.0,Swedish <tp-sv@listor.tp-sv.se>
+geany,6069,0,0,1320,0,0,5378,6069,100.0,Swedish <geany-i18n@uvena.de>
+geary,5167,0,0,787,0,0,4941,5167,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gedit,10939,0,0,1318,0,0,10214,10939,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gedit-latex,221,19,228,130,8,88,194,468,47.22222222222222,Swedish <tp-sv@listor.tp-sv.se>
+gedit-plugins,3191,0,0,371,0,0,2944,3191,100.0,Swedish <tp-sv@listor.tp-sv.se>
+geeqie,3204,603,541,1185,148,117,2916,4348,73.68905243790248,Swedish
+gegl04,9322,227,0,1924,21,0,8071,9549,97.6227877264635,Swedish <tp-sv@listor.tp-sv.se>
+genius,8610,0,0,1125,0,0,8092,8610,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gentoo,2211,42,0,597,1,0,2083,2253,98.1358189081225,Swedish <sv@li.org>
+gettext,7584,333,204,821,27,16,6665,8121,93.38751385297377,Swedish <tp-sv-list@lists.sourceforge.net>
+gftp,3375,0,0,634,0,0,3181,3375,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ggz-base-libs,74,0,0,17,0,0,79,74,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ggz-gtk-client,862,0,0,268,0,0,859,862,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ghdl,113780,0,0,14220,0,0,106111,113780,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ghex,3301,0,0,421,0,0,3107,3301,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gigolo,467,0,0,127,0,0,435,467,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+gimagereader,903,332,326,316,41,69,880,1561,57.847533632286996,Swedish <https://hosted.weblate.org/projects/gimagereader/translations/sv/>
+gimp,39508,0,0,9520,0,0,35776,39508,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gimp-help,37274,3488,199754,5083,497,9284,34521,240516,15.497513678923646,Swedish <tp-sv@listor.tp-sv.se>
+gimp-save-for-web,98,0,0,43,0,0,95,98,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gip,103,0,0,31,0,0,84,103,100.0,Swedish <tp-sv@listor.tp-sv.se>
+girara,0,0,226,0,0,54,0,226,0.0,Swedish (http://www.transifex.com/pwmt/girara/language/sv/)
+git,36564,0,0,5697,0,0,35163,36564,100.0,Swedish <tp-sv@listor.tp-sv.se>
+git-cinnabar,38469,0,0,5962,0,0,36952,38469,100.0,Swedish <tp-sv@listor.tp-sv.se>
+git-cola,155,707,1894,68,280,381,168,2756,5.624092888243832,Swedish
+gitg,2159,0,0,383,0,0,2060,2159,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gitweb-caching,3383,0,0,809,0,0,3479,3383,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gjots2,722,164,67,229,17,14,703,953,75.7607555089192,Swedish <LL@li.org>
+gkrellm,3132,80,572,464,13,74,2687,3784,82.76955602536998,Swedish <sv@li.org>
+glabels,2858,0,0,872,0,0,2304,2858,100.0,Swedish <tp-sv@listor.tp-sv.se>
+glade,8739,0,0,1896,0,0,7954,8739,100.0,Swedish <tp-sv@listor.tp-sv.se>
+glade2,5206,403,301,1188,79,44,4285,5910,88.08798646362098,Swedish <sv@li.org>
+glade3,5145,0,822,1201,0,28,4623,5967,86.22423328305682,Swedish <tp-sv@listor.tp-sv.se>
+glib-networking,272,0,0,41,0,0,260,272,100.0,Swedish <tp-sv@listor.tp-sv.se>
+glib2,7324,0,0,1160,0,0,7009,7324,100.0,Swedish <tp-sv@listor.tp-sv.se>
+glibc,8091,0,0,1465,0,0,7820,8091,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gliv,950,19,65,246,6,8,845,1034,91.87620889748548,Swedish <tp-sv@listor.tp-sv.se>
+glom,2247,108,4050,588,22,232,2089,6405,35.08196721311476,Swedish <tp-sv@listor.tp-sv.se>
+glpi,7386,0,6386,2174,0,1347,6759,13772,53.63055474876561,Swedish (Sweden) (https://www.transifex.com/glpi/teams/1637/sv_SE/)
+gmpc,9,0,16,3,0,10,12,25,36.0,Swedish <sv@li.org>
+gnokii,3963,1448,306,959,195,63,3840,5717,69.3195732027287,Swedish <tp-sv@listor.tp-sv.se>
+gnomad2,703,0,0,171,0,0,691,703,100.0,Swedish <sv@li.org>
+gnome-2048,417,0,0,78,0,0,395,417,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-abrt,224,0,0,56,0,0,210,224,100.0,Swedish <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/sv/>
+gnome-applets,19723,0,0,1935,0,0,17753,19723,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-backgrounds,27,0,0,15,0,0,27,27,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-bluetooth,373,0,0,110,0,0,337,373,100.0,Svenska <tp-sv@listor.tp-sv.se>
+gnome-books,421,0,0,143,0,0,440,421,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-boxes,4419,0,0,571,0,0,4188,4419,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-break-timer,475,61,60,73,3,7,434,596,79.69798657718121,Swedish <tp-sv@listor.tp-sv.se>
+gnome-builder,5148,0,0,1337,0,0,4849,5148,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-calculator,3647,0,0,868,0,0,3317,3647,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-calendar,799,0,0,224,0,0,784,799,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-characters,188,0,0,57,0,0,191,188,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-chess,2532,0,0,348,0,0,2353,2532,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-clocks,1346,0,0,223,0,0,1337,1346,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-color-manager,2330,0,0,371,0,0,2036,2330,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-commander,27987,2415,4758,4620,208,220,23533,35160,79.59897610921502,Swedish <tp-sv@listor.tp-sv.se>
+gnome-contacts,581,0,0,170,0,0,556,581,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-control-center,7516,0,0,2425,0,0,6903,7516,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-desktop,10014,0,0,303,0,0,9326,10014,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-desktop3,9743,0,0,273,0,0,9098,9743,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-devel-docs,52437,2093,118662,3311,126,3260,48429,173192,30.276802623677767,Swedish <tp-sv@listor.tp-sv.se>
+gnome-dictionary,2109,0,0,303,0,0,1995,2109,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-directory-thumbnailer,85,0,0,12,0,0,87,85,100.0,Swedish <gnome-se-list@gnome.org>
+gnome-disk-utility,3969,0,0,745,0,0,3806,3969,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-do,546,0,66,137,0,7,546,612,89.2156862745098,Swedish <sv@li.org>
+gnome-doc-utils,251,0,0,101,0,0,247,251,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-documents,1832,0,0,307,0,0,1812,1832,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-extensions-app,2519,0,0,560,0,0,2415,2519,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-flashback,1302,0,0,246,0,0,1250,1302,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-font-viewer,536,0,0,203,0,0,491,536,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-games,1089,0,0,261,0,0,1034,1089,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-getting-started-docs,2121,0,0,274,0,0,1960,2121,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-gmail,61,17,109,14,3,14,55,187,32.62032085561498,LANGUAGE <LL@li.org>
+gnome-icon-theme,45,0,0,40,0,0,44,45,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-initial-setup,819,0,0,120,0,0,786,819,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-keyring,469,0,0,98,0,0,449,469,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-klotski,1358,0,0,119,0,0,1293,1358,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-latex,3565,0,0,683,0,0,3143,3565,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-logs,652,0,0,145,0,0,610,652,100.0,Swedish <gnome-se-list@gnome.org>
+gnome-mahjongg,1641,0,0,197,0,0,1551,1641,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-maps,1394,0,0,353,0,0,1332,1394,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-menus,81,0,0,38,0,0,72,81,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-mime-data,888,0,0,362,0,0,496,888,100.0,Swedish <sv@li.org>
+gnome-mines,1473,0,0,171,0,0,1418,1473,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-mud,1070,0,0,246,0,0,1024,1070,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-multi-writer,386,0,0,58,0,0,344,386,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-music,1178,0,0,201,0,0,1176,1178,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-nettool,1177,0,0,240,0,0,1079,1177,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-nibbles,1685,0,0,193,0,0,1590,1685,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-online-accounts,669,0,0,148,0,0,646,669,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-packagekit,3500,0,0,553,0,0,3138,3500,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-panel,5358,0,0,641,0,0,4911,5358,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-passwordsafe,1050,0,0,290,0,0,1011,1050,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-phone-manager,559,0,0,97,0,0,516,559,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-photos,1486,0,0,311,0,0,1357,1486,100.0,Türkçe <gnome-turk@gnome.org>
+gnome-power-manager,489,0,0,151,0,0,426,489,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-robots,1715,0,0,256,0,0,1602,1715,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-screensaver,291,0,0,58,0,0,267,291,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-screenshot,455,0,0,78,0,0,444,455,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-search-tool,3069,0,0,344,0,0,2730,3069,100.0,
+gnome-session,414,0,0,66,0,0,387,414,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-settings-daemon,3196,0,0,456,0,0,3091,3196,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-shell,2519,0,0,560,0,0,2415,2519,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-shell-extension-caffeine,76,21,23,18,3,4,66,120,63.33333333333333,
+gnome-shell-extension-dash-to-dock,450,0,2,111,0,2,426,452,99.5575221238938,
+gnome-shell-extension-desktop-icons,136,0,0,43,0,0,123,136,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-shell-extension-openweather,619,0,0,201,0,0,558,619,100.0,
+gnome-shell-extension-pomodoro,341,0,0,128,0,0,358,341,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-shell-extensions,266,0,0,54,0,0,259,266,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-software,3900,0,0,771,0,0,3628,3900,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-sound-recorder,302,0,0,75,0,0,291,302,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-subtitles,3010,0,0,507,0,0,2729,3010,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-sudoku,1891,0,0,209,0,0,1842,1891,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-system-log,1759,0,0,176,0,0,1550,1759,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-system-monitor,5555,0,0,535,0,0,4817,5555,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-taquin,1373,0,0,211,0,0,1304,1373,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-terminal,7980,0,0,1031,0,0,7315,7980,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-tetravex,1729,0,0,230,0,0,1734,1729,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-themes,109,0,0,30,0,0,126,109,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-themes-extra,15,0,0,6,0,0,16,15,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-todo,684,0,0,149,0,0,678,684,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-tweaks,660,0,0,184,0,0,632,660,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-usage,263,0,0,61,0,0,274,263,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-user-docs,67109,0,0,3935,0,0,61718,67109,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-user-share,49,0,0,10,0,0,47,49,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-vfs2,1519,0,0,305,0,0,1315,1519,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-video-arcade,3682,0,0,364,0,0,3286,3682,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-video-effects,256,0,0,68,0,0,233,256,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnome-weather,195,0,0,41,0,0,201,195,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnomint,1544,0,2868,302,0,399,1421,4412,34.99546690843155,Swedish <tp-sv@listor.tp-sv.se>
+gnote,7442,0,0,911,0,0,7071,7442,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnubik,266,13,0,82,1,0,247,279,95.3405017921147,Swedish <tp-sv@listor.tp-sv.se>
+gnucash,11693,4247,21711,3014,826,1928,10485,37651,31.056280045682715,Swedish <tp-sv@listor.tp-sv.se>
+gnuchess,1137,0,0,148,0,0,1070,1137,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gnucobol,4606,1915,2039,810,310,275,4142,8560,53.80841121495327,Swedish <tp-sv@listor.tp-sv.se>
+gnumeric,62812,654,109862,10044,26,4888,54485,173328,36.238807347918396,Swedish <tp-sv@listor.tp-sv.se>
+gnupg1,8318,198,124,1254,29,14,8180,8640,96.27314814814815,Swedish <tp-sv@listor.tp-sv.se>
+gnupg2,7964,3793,1754,1373,607,224,7800,13511,58.94456368884613,Swedish <tp-sv@listor.tp-sv.se>
+gnutls,1244,315,259,280,67,47,1045,1818,68.42684268426844,Swedish <tp-sv@listor.tp-sv.se>
+goaccess,997,3,0,223,1,0,925,1000,99.7,none
+godot,607,2990,6019,266,884,1187,620,9616,6.3123960066555735,Swedish <https://hosted.weblate.org/projects/godot-engine/godot/sv/>
+goffice,6621,0,0,2122,0,0,5621,6621,100.0,Swedish <tp-sv@listor.tp-sv.se>
+goocanvas2,1864,0,0,283,0,0,1432,1864,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gparted,9675,0,0,995,0,0,8465,9675,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gpaste,1021,24,78,167,4,12,867,1123,90.91718610863758,Svenska Språkfiler <contactform@svenskasprakfiler.se>
+gphoto2,1674,87,0,335,5,0,1604,1761,95.05962521294718,Swedish <tp-sv@listor.tp-sv.se>
+gphotoframe,319,9,991,128,2,137,286,1319,24.184988627748293,LANGUAGE <LL@li.org>
+gpicview,236,0,0,52,0,0,224,236,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gpodder,1163,426,588,336,129,102,1181,2177,53.42214056040423,Swedish (http://www.transifex.com/projects/p/gpodder/language/sv/)
+gpsdrive,2311,0,0,448,0,0,2154,2311,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gradio,309,0,0,101,0,0,291,309,100.0,Swedish <https://hosted.weblate.org/projects/gradio/translations/sv/>
+gramps,39867,16,34,6846,1,1,36096,39917,99.87474008567779,
+granatier,247,0,0,68,0,0,234,247,100.0,Swedish <kde-i18n-doc@kde.org>
+granite,122,4,143,52,2,34,118,269,45.353159851301115,Swedish <https://weblate.elementary.io/projects/desktop/granite/sv/>
+grantlee-editor,530,0,0,158,0,0,526,530,100.0,Swedish <kde-i18n-doc@kde.org>
+grilo,191,0,0,36,0,0,179,191,100.0,Swedish <tp-sv@listor.tp-sv.se>
+grilo-plugins,1844,0,0,186,0,0,1815,1844,100.0,Swedish <tp-sv@listor.tp-sv.se>
+grisbi,0,0,14496,0,0,2548,0,14496,0.0,LANGUAGE <LL@li.org>
+grsync,1166,1,0,162,1,0,1064,1167,99.91431019708654,Swedish <tp-sv@listor.tp-sv.se>
+grub-customizer,1295,0,0,193,0,0,1202,1295,100.0,Svenska Språkfiler <eson@svenskasprakfiler.se>
+grub2,6769,0,0,1300,0,0,6360,6769,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gscan2pdf,1188,0,1121,356,0,199,1158,2309,51.45084452143786,Swedish <sv@li.org>
+gsettings-desktop-schemas,6603,0,0,596,0,0,5969,6603,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gshutdown,276,67,149,69,13,19,278,492,56.09756097560976,
+gspell,78,0,0,32,0,0,77,78,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gstreamer1,2110,0,0,378,0,0,1970,2110,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gstreamer1-plugins-bad-free,197,0,0,29,0,0,197,197,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gstreamer1-plugins-base,992,0,0,205,0,0,823,992,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gstreamer1-plugins-good,802,0,0,98,0,0,791,802,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,75,80,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gthumb,8566,0,0,1538,0,0,7741,8566,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtick,89,200,49,36,24,36,94,338,26.331360946745562,Swedish <sv@li.org>
+gtk+,202,0,0,105,0,0,188,202,100.0,Swedish <sv@li.org>
+gtk-doc,12610,0,0,555,0,0,11854,12610,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtk-murrine-engine,16,2,90,8,1,28,14,108,14.814814814814813,Swedish <tp-sv@listor.tp-sv.se>
+gtk-vnc,81,0,0,22,0,0,79,81,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtk2,12381,0,0,2582,0,0,10576,12381,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtk2-engines,119,0,0,47,0,0,102,119,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtk3,16731,0,0,3937,0,0,14382,16731,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtk4,12842,206,41,3238,38,5,11098,13089,98.11291924516769,Swedish <tp-sv@listor.tp-sv.se>
+gtkhash,125,69,19,39,19,5,123,213,58.68544600938967,Swedish <https://hosted.weblate.org/projects/gtkhash/translations/sv/>
+gtkhtml3,522,0,0,317,0,0,469,522,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtkpod,4670,1373,1477,798,311,253,4470,7520,62.10106382978723,Svenska <sv@li.org>
+gtksourceview2,1413,0,0,538,0,0,1192,1413,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtksourceview3,322,0,0,106,0,0,280,322,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtksourceview4,322,0,0,106,0,0,280,322,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtkspell,15,0,0,6,0,0,17,15,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtkspell3,16,0,0,7,0,0,18,16,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gtranslator,3858,0,0,521,0,0,3323,3858,100.0,Swedish <tp-sv@listor.tp-sv.se>
+guake,1142,0,64,256,0,5,1040,1206,94.69320066334991,Swedish <https://hosted.weblate.org/projects/guake/guake/sv/>
+guayadeque,565,0,2761,290,0,729,553,3326,16.98737221888154,Swedish (Sweden) (http://www.transifex.com/projects/p/guayadeque/language/sv_SE/)
+gucharmap,3170,0,0,618,0,0,2771,3170,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gummi,669,73,16,234,19,8,602,758,88.25857519788917,LANGUAGE <LL@li.org>
+gupnp-tools,346,0,0,121,0,0,298,346,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gutenprint,10474,5831,21,2904,1917,3,9645,16326,64.15533504838908,Swedish <tp-sv@listor.tp-sv.se>
+gvfs,2066,0,0,401,0,0,2009,2066,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gwenview,1525,0,0,398,0,0,1463,1525,100.0,Swedish <kde-i18n-doc@kde.org>
+gwget,379,0,0,103,0,0,386,379,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gxmessage,243,0,0,12,0,0,225,243,100.0,Swedish <tp-sv@listor.tp-sv.se>
+gydl,94,0,0,8,0,0,94,94,100.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hddtemp,403,0,0,26,0,0,403,403,100.0,Swedish <sv@li.org>
+heaptrack,1170,0,0,185,0,0,1041,1170,100.0,Swedish <kde-i18n-doc@kde.org>
+heimdal,181,0,2495,30,0,448,195,2676,6.763826606875935,Swedish
+hello,31,131,24,9,17,4,28,186,16.666666666666664,Swedish <tp-sv@listor.tp-sv.se>
+help2man,2674,0,0,220,0,0,2497,2674,100.0,Swedish <tp-sv@listor.tp-sv.se>
+hexchat,5676,0,295,1378,0,68,5302,5971,95.05945402780104,Swedish (http://www.transifex.com/hexchat/hexchat/language/sv/)
+hitori,890,0,0,99,0,0,879,890,100.0,Swedish <tp-sv@listor.tp-sv.se>
+homebank,2771,11,10,856,3,6,2660,2792,99.24785100286533,Swedish <sv@li.org>
+hugin,4853,1985,2486,974,468,245,4354,9324,52.04847704847705,Svenska <se@li.org>
+iagno,1942,0,0,266,0,0,1880,1942,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ibus,2168,0,0,544,0,0,1783,2168,100.0,Swedish
+ibus-typing-booster,1875,0,0,202,0,0,1688,1875,100.0,Swedish <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/sv/>
+icewm,1882,157,68,456,10,11,1802,2107,89.32130991931656,Swedish <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/sv/>
+ikiwiki,161,380,988,44,81,185,176,1529,10.5297580117724,Swedish <tp-sv@listor.tp-sv.se>
+im-chooser,239,0,15,56,0,2,209,254,94.09448818897637,Swedish (http://www.transifex.net/projects/p/im-chooser/team/sv/)
+imsettings,0,0,485,0,0,88,0,485,0.0,LANGUAGE <LL@li.org>
+indent,261,0,0,52,0,0,263,261,100.0,Swedish <sv@li.org>
+initial-setup,106,0,0,20,0,0,89,106,100.0,Swedish (http://www.transifex.com/projects/p/initial-setup/language/sv/)
+initscripts,864,0,108,132,0,16,851,972,88.88888888888889,Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)
+inkscape,15185,13196,12548,3366,3861,1441,14329,40929,37.10083315008918,Svenska <tp-sv@listor.tp-sv.se>
+insight,11804,0,0,1851,0,0,10849,11804,100.0,Swedish <tp-sv@listor.tp-sv.se>
+iso-codes,23269,137,87,15263,79,44,22256,23493,99.04652449665858,Swedish <tp-sv@listor.tp-sv.se>
+isoimagewriter,266,38,86,48,5,18,208,390,68.2051282051282,Swedish <kde-i18n-doc@kde.org>
+isomaster,674,0,0,107,0,0,662,674,100.0,Swedish <tp-sv@listor.tp-sv.se>
+jmol,2636,172,358,888,45,88,2414,3166,83.25963360707517,Swedish <sv@li.org>
+jpilot,669,626,1779,260,189,314,627,3074,21.76317501626545,Swedish <sv@li.org>
+json-glib,303,0,0,44,0,0,259,303,100.0,Swedish <tp-sv@listor.tp-sv.se>
+juk,1484,0,0,358,0,0,1388,1484,100.0,Swedish <kde-i18n-doc@kde.org>
+jwhois,440,0,0,71,0,0,423,440,100.0,Swedish <tp-sv@listor.tp-sv.se>
+k3b,20175,0,0,2518,0,0,18142,20175,100.0,Swedish <kde-i18n-doc@kde.org>
+kBuild,502,0,3,80,0,1,509,505,99.4059405940594,Swedish <sv@li.org>
+kaccounts-integration,51,0,0,10,0,0,45,51,100.0,Swedish <kde-i18n-doc@kde.org>
+kaccounts-providers,82,0,0,27,0,0,73,82,100.0,Swedish <kde-i18n-doc@kde.org>
+kactivitymanagerd,7,0,0,3,0,0,6,7,100.0,Swedish <kde-i18n-doc@kde.org>
+kaddressbook,763,0,0,175,0,0,641,763,100.0,Swedish <kde-i18n-doc@kde.org>
+kajongg,2444,0,0,510,0,0,2331,2444,100.0,Swedish <kde-i18n-doc@kde.org>
+kalarm,7275,0,0,1022,0,0,6818,7275,100.0,Swedish <kde-i18n-doc@kde.org>
+kalgebra,240,0,0,114,0,0,249,240,100.0,Swedish <kde-i18n-doc@kde.org>
+kalzium,10476,0,0,1558,0,0,9153,10476,100.0,Swedish <kde-i18n-doc@kde.org>
+kamera,347,0,0,38,0,0,323,347,100.0,Swedish <kde-i18n-doc@kde.org>
+kamoso,102,0,0,27,0,0,103,102,100.0,Swedish <kde-i18n-doc@kde.org>
+kanagram,528,0,0,145,0,0,507,528,100.0,Swedish <kde-i18n-doc@kde.org>
+kanyremote,456,24,26,137,6,3,423,506,90.11857707509881,Swedish
+kapman,114,0,0,36,0,0,117,114,100.0,Swedish <sv@li.org>
+kapptemplate,272,0,0,52,0,0,218,272,100.0,Swedish <kde-i18n-doc@kde.org>
+kate,6001,0,0,1449,0,0,5601,6001,100.0,Swedish <kde-i18n-doc@kde.org>
+katomic,185,0,0,59,0,0,173,185,100.0,Swedish <kde-i18n-doc@kde.org>
+kaudiocreator,1136,0,0,273,0,0,1055,1136,100.0,Swedish <kde-i18n-doc@kde.org>
+kbackup,689,0,0,135,0,0,645,689,100.0,Swedish <kde-i18n-doc@kde.org>
+kbd,1875,584,192,261,18,9,1798,2651,70.72802715956243,Swedish <tp-sv@listor.tp-sv.se>
+kbibtex,2481,0,0,729,0,0,2306,2481,100.0,Swedish <kde-i18n-doc@kde.org>
+kblackbox,1364,0,0,102,0,0,1277,1364,100.0,Swedish <kde-i18n-doc@kde.org>
+kblocks,159,0,0,38,0,0,145,159,100.0,Swedish <kde-i18n-doc@kde.org>
+kbounce,154,0,0,42,0,0,157,154,100.0,Swedish <kde-i18n-doc@kde.org>
+kbrickbuster,152,0,0,40,0,0,145,152,100.0,Swedish <kde-i18n-doc@kde.org>
+kbruch,1345,0,0,195,0,0,1233,1345,100.0,Swedish <kde-i18n-doc@kde.org>
+kcachegrind,4372,0,0,563,0,0,4035,4372,100.0,Swedish <kde-i18n-doc@kde.org>
+kcalc,1026,0,0,337,0,0,933,1026,100.0,Swedish <kde-i18n-doc@kde.org>
+kcharselect,88,0,0,34,0,0,104,88,100.0,Swedish <kde-i18n-doc@kde.org>
+kchmviewer,475,166,331,81,44,82,438,972,48.86831275720165,Swedish <tp-sv@listor.tp-sv.se>
+kcm_systemd,1372,11,2,165,2,1,1251,1385,99.06137184115524,Swedish <kde-i18n-doc@kde.org>
+kcm_wacomtablet,1056,0,0,240,0,0,955,1056,100.0,Swedish <kde-i18n-doc@kde.org>
+kcolorchooser,29,0,0,10,0,0,28,29,100.0,Swedish <kde-i18n-doc@kde.org>
+kcoloredit,278,0,0,95,0,0,255,278,100.0,Swedish <kde-i18n-doc@kde.org>
+kcron,534,0,0,190,0,0,479,534,100.0,Swedish <sv@li.org>
+kdb,1494,0,0,243,0,0,1396,1494,100.0,Swedish <kde-i18n-doc@kde.org>
+kdbg,114,92,657,44,38,107,122,863,13.20973348783314,(None)
+kde-cli-tools,2196,0,0,229,0,0,1999,2196,100.0,Swedish <kde-i18n-doc@kde.org>
+kde-connect,1196,0,0,315,0,0,1142,1196,100.0,Swedish <kde-i18n-doc@kde.org>
+kde-dev-utils,96,0,0,35,0,0,96,96,100.0,Swedish <kde-i18n-doc@kde.org>
+kde-l10n,105160,0,0,21176,0,0,96743,105160,100.0,Swedish <kde-i18n-doc@kde.org>
+kde-partitionmanager,2214,0,0,523,0,0,2046,2214,100.0,Swedish <kde-i18n-doc@kde.org>
+kde-print-manager,980,0,0,277,0,0,873,980,100.0,Swedish <kde-i18n-doc@kde.org>
+kdebugsettings,203,0,0,55,0,0,190,203,100.0,Swedish <kde-i18n-doc@kde.org>
+kdecoration,27,0,0,15,0,0,28,27,100.0,Swedish <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,63,0,0,16,0,0,59,63,100.0,Swedish <kde-i18n-doc@kde.org>
+kdepim-addons,4562,0,0,961,0,0,4082,4562,100.0,Swedish <kde-i18n-doc@kde.org>
+kdepim-apps-libs,357,0,0,66,0,0,292,357,100.0,Swedish <kde-i18n-doc@kde.org>
+kdepim-runtime,7760,0,0,1192,0,0,7004,7760,100.0,Swedish <kde-i18n-doc@kde.org>
+kdeplasma-addons,1676,0,0,641,0,0,1648,1676,100.0,Swedish <kde-i18n-doc@kde.org>
+kdesdk-kioslaves,82,0,0,17,0,0,80,82,100.0,Swedish <sv@li.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Swedish <kde-i18n-doc@kde.org>
+kdesvn,4937,0,0,914,0,0,4806,4937,100.0,Swedish <kde-i18n-doc@kde.org>
+kdevelop,15296,0,0,3024,0,0,14308,15296,100.0,Swedish <kde-i18n-doc@kde.org>
+kdevelop-php,529,0,0,72,0,0,520,529,100.0,Swedish <kde-i18n-doc@kde.org>
+kdevelop-python,582,0,0,101,0,0,524,582,100.0,Swedish <kde-i18n-doc@kde.org>
+kdf,181,0,0,69,0,0,167,181,100.0,Swedish <kde-i18n-doc@kde.org>
+kdiagram,66,0,0,40,0,0,69,66,100.0,Swedish <kde-i18n-doc@kde.org>
+kdialog,379,0,0,75,0,0,322,379,100.0,Swedish <kde-i18n-doc@kde.org>
+kdiamond,122,0,0,32,0,0,123,122,100.0,Swedish <kde-i18n-doc@kde.org>
+kdiff3,3595,0,0,620,0,0,3417,3595,100.0,Swedish <kde-i18n-doc@kde.org>
+kdissert,2027,0,0,282,0,0,1908,2027,100.0,Swedish <sv@li.org>
+kdnssd,30,0,0,7,0,0,18,30,100.0,Swedish <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,51,8,24,2,2,8,43,83,61.44578313253012,Swedish <sv@li.org>
+keditbookmarks,466,0,0,132,0,0,450,466,100.0,Swedish <kde-i18n-doc@kde.org>
+kexi,7351,0,0,1493,0,0,6747,7351,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-akonadi-calendar,1877,0,0,288,0,0,1806,1877,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-akonadi-contacts,1480,0,0,314,0,0,1321,1480,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-akonadi-mime,572,0,0,107,0,0,562,572,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-akonadi-search,48,0,0,11,0,0,48,48,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-akonadi-server,2525,0,0,431,0,0,2306,2525,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-audiocd-kio,997,0,0,209,0,0,897,997,100.0,Swedish <sv@li.org>
+kf5-baloo,910,0,0,205,0,0,824,910,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-calendarsupport,2969,0,0,414,0,0,2671,2969,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-eventviews,2954,0,0,318,0,0,2547,2954,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,14,14,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,2481,0,0,454,0,0,2254,2481,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kalarmcal,198,0,0,101,0,0,188,198,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kauth,73,0,0,8,0,0,68,73,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kblog,243,0,0,27,0,0,235,243,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,216,230,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,1468,0,0,414,0,0,1356,1468,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kcmutils,566,0,0,72,0,0,535,566,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kcodecs,372,0,0,54,0,0,330,372,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,16,18,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kconfig,271,0,0,103,0,0,271,271,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,324,0,0,119,0,0,333,324,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,135,177,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,490,0,0,175,0,0,404,490,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kdav,185,0,0,20,0,0,155,185,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,45,48,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kdeclarative,116,0,0,16,0,0,112,116,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,4603,4813,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,46,54,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,20,19,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Swedish <sv@li.org>
+kf5-kfilemetadata,302,0,0,134,0,0,290,302,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,63,71,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kholidays,139,0,0,90,0,0,118,139,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1540,1721,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-ki18n,124,0,0,110,0,0,136,124,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kiconthemes,37,0,0,18,0,0,33,37,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kidentitymanagement,181,0,0,23,0,0,175,181,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kimap,110,0,0,49,0,0,122,110,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kinit,134,0,0,14,0,0,120,134,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kio,12420,0,0,1385,0,0,11455,12420,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kipi-plugins,5695,0,0,1230,0,0,5373,5695,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kirigami,2,0,0,2,0,0,2,2,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kirigami2,46,0,0,23,0,0,42,46,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,8,7,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kitinerary,106,0,0,24,0,0,85,106,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,133,0,0,38,0,0,136,133,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,245,248,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kldap,182,0,0,54,0,0,177,182,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kmailtransport,654,0,0,109,0,0,561,654,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kmime,159,0,0,10,0,0,136,159,100.0,Swedish <sv@li.org>
+kf5-knewstuff,1498,0,0,243,0,0,1337,1498,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-knotifications,20,0,0,7,0,0,20,20,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,119,129,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,5,4,100.0,Swedish <sv@li.org>
+kf5-kpackage,504,0,0,100,0,0,459,504,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kparts,123,0,0,28,0,0,119,123,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kpeople,21,0,0,11,0,0,22,21,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,396,0,0,187,0,0,364,396,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,20,15,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,108,100,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kservice,167,0,0,27,0,0,161,167,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-ksmtp,97,0,0,13,0,0,85,97,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-ktexteditor,8756,0,0,1260,0,0,7839,8756,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,473,0,0,130,0,0,448,473,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-ktnef,355,0,0,143,0,0,272,355,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kunitconversion,5735,0,0,2473,0,0,5214,5735,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kwallet,1462,0,0,112,0,0,1305,1462,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1273,0,0,456,0,0,1155,1273,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1545,0,0,221,0,0,1445,1545,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-libgravatar,22,0,0,10,0,0,19,22,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-libkcddb,557,0,0,251,0,0,516,557,100.0,Swedish <sv@li.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,15,15,100.0,Swedish <sv@li.org>
+kf5-libkdepim,465,0,0,127,0,0,423,465,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,124,139,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-libkleo,1301,0,0,323,0,0,1207,1301,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-libksane,272,0,0,83,0,0,246,272,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-libksieve,3318,0,0,561,0,0,3110,3318,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-libktorrent,471,0,0,106,0,0,499,471,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-mailcommon,2861,0,0,484,0,0,2710,2861,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-mailimporter,1408,0,0,127,0,0,1275,1408,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-messagelib,7842,0,0,1256,0,0,7260,7842,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-pimcommon,1041,0,0,248,0,0,986,1041,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-plasma,507,0,0,148,0,0,485,507,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-purpose,255,0,0,66,0,0,242,255,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-solid,682,0,0,223,0,0,584,682,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-sonnet,667,0,0,73,0,0,644,667,100.0,Swedish <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,587,0,0,348,0,0,538,587,100.0,Swedish <kde-i18n-doc@kde.org>
+kfind,505,0,0,117,0,0,495,505,100.0,Swedish <kde-i18n-doc@kde.org>
+kflickr,78,0,254,34,0,53,85,332,23.49397590361446,Swedish <sv@li.org>
+kfloppy,641,0,0,100,0,0,595,641,100.0,Swedish <kde-i18n-doc@kde.org>
+kfourinline,392,0,0,157,0,0,351,392,100.0,Swedish <kde-i18n-doc@kde.org>
+kgamma,130,0,0,16,0,0,112,130,100.0,Swedish <sv@li.org>
+kgeography,9682,0,0,7116,0,0,9437,9682,100.0,Swedish <kde-i18n-doc@kde.org>
+kget,2946,0,0,793,0,0,2856,2946,100.0,Swedish <kde-i18n-doc@kde.org>
+kgoldrunner,23556,0,0,908,0,0,22162,23556,100.0,Swedish <kde-i18n-doc@kde.org>
+kgpg,5282,0,0,698,0,0,4749,5282,100.0,Swedish <kde-i18n-doc@kde.org>
+kgrab,370,0,0,53,0,0,329,370,100.0,Swedish <sv@li.org>
+kgraphviewer,1205,0,0,215,0,0,1088,1205,100.0,Swedish <kde-i18n-doc@kde.org>
+khangman,475,0,0,121,0,0,388,475,100.0,Swedish <kde-i18n-doc@kde.org>
+khelpcenter,265,0,0,90,0,0,239,265,100.0,Swedish <kde-i18n-doc@kde.org>
+khotkeys,438,0,0,129,0,0,403,438,100.0,Swedish <kde-i18n-doc@kde.org>
+kicad,574,4264,20319,342,1496,3815,589,25157,2.2816711054577254,
+kiconedit,726,0,0,155,0,0,695,726,100.0,Swedish <sv@li.org>
+kid3,21308,0,0,2495,0,0,18826,21308,100.0,Swedish <kde-i18n-doc@kde.org>
+kig,7877,0,0,1302,0,0,7420,7877,100.0,Svenska <sv@li.org>
+kigo,500,0,0,129,0,0,476,500,100.0,Swedish <kde-i18n-doc@kde.org>
+kile,12994,0,0,2183,0,0,11438,12994,100.0,Swedish <kde-i18n-doc@kde.org>
+killbots,641,0,0,128,0,0,629,641,100.0,Swedish <kde-i18n-doc@kde.org>
+kinfocenter,2612,0,0,1015,0,0,2217,2612,100.0,Swedish <kde-i18n-doc@kde.org>
+kio-extras,1076,0,0,136,0,0,965,1076,100.0,Swedish <kde-i18n-doc@kde.org>
+kio-gdrive,42,0,0,8,0,0,40,42,100.0,Swedish <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,17,17,100.0,Swedish <sv@li.org>
+kio_mtp,17,0,0,2,0,0,17,17,100.0,Swedish <kde-i18n-doc@kde.org>
+kiriki,144,0,0,50,0,0,131,144,100.0,Swedish <kde-i18n-doc@kde.org>
+kiten,641,0,0,179,0,0,601,641,100.0,Swedish <kde-i18n-doc@kde.org>
+kjots,399,0,0,106,0,0,389,399,100.0,Swedish <kde-i18n-doc@kde.org>
+kjumpingcube,412,0,0,95,0,0,364,412,100.0,Swedish <kde-i18n-doc@kde.org>
+klavaro,1992,0,5,237,0,1,1861,1997,99.74962443665498,Swedish <tp-sv@listor.tp-sv.se>
+kleopatra,8684,0,0,1349,0,0,8171,8684,100.0,Swedish <kde-i18n-doc@kde.org>
+klettres,438,0,0,84,0,0,393,438,100.0,Swedish <kde-i18n-doc@kde.org>
+klickety,178,0,0,62,0,0,157,178,100.0,Swedish <kde-i18n-doc@kde.org>
+klines,99,0,0,28,0,0,96,99,100.0,Swedish <kde-i18n-doc@kde.org>
+kmag,432,0,0,98,0,0,385,432,100.0,Swedish <kde-i18n-doc@kde.org>
+kmahjongg,355,0,0,101,0,0,342,355,100.0,Swedish <kde-i18n-doc@kde.org>
+kmail,8854,0,0,1378,0,0,8226,8854,100.0,Swedish <kde-i18n-doc@kde.org>
+kmail-account-wizard,808,0,0,130,0,0,712,808,100.0,Swedish <kde-i18n-doc@kde.org>
+kmenuedit,273,0,0,63,0,0,244,273,100.0,Swedish <kde-i18n-doc@kde.org>
+kmid2,1022,0,0,333,0,0,866,1022,100.0,Swedish <kde-i18n-doc@kde.org>
+kmines,119,0,0,42,0,0,114,119,100.0,Swedish <kde-i18n-doc@kde.org>
+kmix,920,0,0,202,0,0,819,920,100.0,Swedish <kde-i18n-doc@kde.org>
+kmousetool,147,0,0,32,0,0,125,147,100.0,Swedish <kde-i18n-doc@kde.org>
+kmouth,1515,0,0,204,0,0,1359,1515,100.0,Swedish <kde-i18n-doc@kde.org>
+kmplayer,1249,0,0,371,0,0,1139,1249,100.0,Swedish <kde-i18n-doc@kde.org>
+kmplot,2491,0,0,480,0,0,2194,2491,100.0,Swedish <kde-i18n-doc@kde.org>
+kmymoney,21824,0,0,3637,0,0,19739,21824,100.0,Swedish <kde-i18n-doc@kde.org>
+knavalbattle,399,0,0,102,0,0,397,399,100.0,Swedish <kde-i18n-doc@kde.org>
+knetwalk,230,0,0,54,0,0,220,230,100.0,Swedish <kde-i18n-doc@kde.org>
+knotes,790,0,0,239,0,0,759,790,100.0,Swedish <kde-i18n-doc@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,7787,8417,100.0,Swedish <sv@li.org>
+kolf,401,0,0,148,0,0,385,401,100.0,Swedish <kde-i18n-doc@kde.org>
+kollision,109,0,0,30,0,0,108,109,100.0,Swedish <kde-i18n-doc@kde.org>
+kolourpaint,2585,0,0,449,0,0,2470,2585,100.0,Swedish <kde-i18n-doc@kde.org>
+kompare,1430,0,0,196,0,0,1307,1430,100.0,Swedish <kde-i18n-doc@kde.org>
+konqueror,8460,0,0,1161,0,0,7924,8460,100.0,Swedish <kde-i18n-doc@kde.org>
+konquest,246,0,0,98,0,0,251,246,100.0,Swedish <kde-i18n-doc@kde.org>
+konsole5,2986,0,0,625,0,0,2672,2986,100.0,Swedish <kde-i18n-doc@kde.org>
+kontact,600,0,0,99,0,0,578,600,100.0,Swedish <kde-i18n-doc@kde.org>
+konversation,10294,0,0,1638,0,0,9601,10294,100.0,Swedish <kde-i18n-doc@kde.org>
+kopete,18427,0,0,3457,0,0,16671,18427,100.0,Svenska <sv@li.org>
+korganizer,6786,0,0,909,0,0,5978,6786,100.0,Swedish <kde-i18n-doc@kde.org>
+kpat,473,0,0,140,0,0,476,473,100.0,Swedish <kde-i18n-doc@kde.org>
+kphotoalbum,9448,0,0,1004,0,0,8715,9448,100.0,Swedish <kde-i18n-doc@kde.org>
+kpilot,7156,0,0,861,0,0,6384,7156,100.0,Swedish <sv@li.org>
+kpmcore,3226,0,0,491,0,0,3084,3226,100.0,Swedish <kde-i18n-doc@kde.org>
+kproperty,145,0,0,82,0,0,150,145,100.0,Swedish <kde-i18n-doc@kde.org>
+krb5-auth-dialog,2959,0,0,435,0,0,2770,2959,100.0,Swedish <tp-sv@listor.tp-sv.se>
+krdc,1327,0,0,297,0,0,1204,1327,100.0,Swedish <kde-i18n-doc@kde.org>
+krecipes,3646,0,0,765,0,0,3431,3646,100.0,Swedish <kde-i18n-doc@kde.org>
+krecorder,84,0,0,37,0,0,92,84,100.0,Swedish <kde-i18n-doc@kde.org>
+krename,2142,0,0,452,0,0,2024,2142,100.0,Swedish <kde-i18n-doc@kde.org>
+kreport,455,0,0,193,0,0,402,455,100.0,Swedish <kde-i18n-doc@kde.org>
+kreversi,428,0,0,141,0,0,433,428,100.0,Swedish <kde-i18n-doc@kde.org>
+krfb,676,0,0,91,0,0,660,676,100.0,Swedish <kde-i18n-doc@kde.org>
+krita,27841,0,0,6806,0,0,25095,27841,100.0,Swedish <kde-i18n-doc@kde.org>
+kruler,184,0,0,47,0,0,152,184,100.0,Swedish <kde-i18n-doc@kde.org>
+krusader,7929,0,0,1738,0,0,7319,7929,100.0,Swedish <kde-i18n-doc@kde.org>
+kscreen,254,0,0,58,0,0,230,254,100.0,Swedish <kde-i18n-doc@kde.org>
+kscreenlocker,243,0,0,33,0,0,224,243,100.0,Swedish <kde-i18n-doc@kde.org>
+kshisen,568,0,0,70,0,0,540,568,100.0,Swedish <kde-i18n-doc@kde.org>
+ksig,85,0,0,26,0,0,71,85,100.0,Swedish <sv@li.org>
+ksirk,5763,0,0,762,0,0,5177,5763,100.0,Swedish <kde-i18n-doc@kde.org>
+ksnakeduel,231,0,0,53,0,0,203,231,100.0,Swedish <kde-i18n-doc@kde.org>
+kspaceduel,165,0,0,81,0,0,159,165,100.0,Swedish <kde-i18n-doc@kde.org>
+ksquares,257,0,0,76,0,0,202,257,100.0,Swedish <kde-i18n-doc@kde.org>
+ksshaskpass,43,0,0,12,0,0,40,43,100.0,Swedish <kde-i18n-doc@kde.org>
+kst,7288,0,0,1941,0,0,6431,7288,100.0,Swedish <kde-i18n-doc@kde.org>
+kstars,59774,12,10,16362,2,3,54813,59796,99.96320824135394,Swedish <kde-i18n-doc@kde.org>
+ksudoku,1746,0,0,163,0,0,1670,1746,100.0,Swedish <kde-i18n-doc@kde.org>
+ksysguard,1093,0,0,237,0,0,1014,1093,100.0,Swedish <kde-i18n-doc@kde.org>
+ksystemlog,3034,0,0,479,0,0,2527,3034,100.0,Swedish <kde-i18n-doc@kde.org>
+kteatime,203,0,0,67,0,0,202,203,100.0,Swedish <kde-i18n-doc@kde.org>
+ktechlab,3733,0,0,939,0,0,3240,3733,100.0,Swedish <kde-i18n-doc@kde.org>
+ktimer,258,0,0,53,0,0,255,258,100.0,Swedish <kde-i18n-doc@kde.org>
+ktorrent,7574,0,0,1390,0,0,7080,7574,100.0,Swedish <kde-i18n-doc@kde.org>
+ktouch,948,0,0,253,0,0,857,948,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,978,1100,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-approver,71,0,0,18,0,0,68,71,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,76,83,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-common-internals,989,0,0,206,0,0,956,989,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-contact-list,680,0,0,127,0,0,621,680,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,194,208,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,80,75,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,125,141,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-kded-integration-module,490,0,0,59,0,0,446,490,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-send-file,60,0,0,18,0,0,59,60,100.0,Swedish <kde-i18n-doc@kde.org>
+ktp-text-ui,1441,0,0,321,0,0,1367,1441,100.0,Swedish <kde-i18n-doc@kde.org>
+ktuberling,158,0,0,38,0,0,119,158,100.0,Swedish <kde-i18n-doc@kde.org>
+kturtle,1531,0,0,347,0,0,1420,1531,100.0,Swedish <kde-i18n-doc@kde.org>
+kubrick,1205,0,0,166,0,0,1378,1205,100.0,Swedish <kde-i18n-doc@kde.org>
+kuserfeedback,1141,7,0,268,1,0,1033,1148,99.39024390243902,Swedish <kde-i18n-doc@kde.org>
+kwalletmanager5,800,0,0,165,0,0,765,800,100.0,Swedish <kde-i18n-doc@kde.org>
+kwave,5798,0,0,1305,0,0,5070,5798,100.0,Swedish <kde-i18n-doc@kde.org>
+kwebkitpart,669,0,0,165,0,0,623,669,100.0,Swedish <kde-i18n-doc@kde.org>
+kwin,6058,0,0,1244,0,0,5530,6058,100.0,Swedish <kde-i18n-doc@kde.org>
+kwordquiz,2026,0,0,414,0,0,1809,2026,100.0,Swedish <kde-i18n-doc@kde.org>
+kxstitch,2014,0,0,570,0,0,1658,2014,100.0,Swedish <kde-i18n-doc@kde.org>
+l3afpad,113,0,17,61,0,3,127,130,86.92307692307692,Swedish <tp-sv@listor.tp-sv.se>
+lasem,25,0,0,8,0,0,28,25,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lazarus,151,0,0,4,0,0,70,151,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+lazpaint,1969,4,1,826,3,16,1915,1974,99.7467071935157,
+leafpad,121,2,2,66,1,1,136,125,96.8,Swedish <tp-sv@listor.tp-sv.se>
+libalkimia,541,0,0,99,0,0,518,541,100.0,Swedish <kde-i18n-doc@kde.org>
+libappstream-glib,459,0,0,99,0,0,415,459,100.0,Swedish (http://www.transifex.com/freedesktop/appstream-glib/language/sv/)
+libbonobo,547,0,0,108,0,0,511,547,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libbonoboui,368,0,0,115,0,0,316,368,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Swedish
+libconfuse,153,5,0,28,1,0,141,158,96.83544303797468,None <troglobit@gmail.com>
+libcryptui,3012,0,0,654,0,0,2912,3012,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libdnf,1186,0,0,190,0,0,1261,1186,100.0,Swedish <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/sv/>
+libecpg,67973,0,0,9315,0,0,62118,67973,100.0,Swedish <pgsql-translators@postgresql.org>
+libepc,147,0,0,26,0,0,143,147,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libexif,6976,0,18,1176,0,2,5695,6994,99.74263654561052,Swedish <tp-sv@listor.tp-sv.se>
+libextractor,367,236,1375,145,110,235,334,1978,18.554095045500503,Swedish <tp-sv@listor.tp-sv.se>
+libfilezilla,383,0,0,75,0,0,345,383,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgda,11547,0,0,2088,0,0,10489,11547,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgdata,694,0,0,86,0,0,661,694,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgdl,659,0,0,96,0,0,588,659,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnome,1773,0,0,273,0,0,1529,1773,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnome-games-support,43,0,0,14,0,0,43,43,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnome-keyring,44,0,0,9,0,0,39,44,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnomecanvas,378,0,0,95,0,0,303,378,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnomekbd,188,0,0,40,0,0,140,188,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgnomeui,1309,0,0,334,0,0,1154,1309,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgovirt,103,0,0,23,0,0,84,103,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgpg-error,789,362,273,274,109,63,688,1424,55.40730337078652,Swedish <tp-sv@listor.tp-sv.se>
+libgphoto2,12076,240,83,2700,78,31,10668,12399,97.3949512057424,Swedish <tp-sv-list@lists.sourceforge.net>
+libgpod,891,146,16,149,33,3,889,1053,84.61538461538461,Svenska <sv@li.org>
+libgsasl,577,0,0,69,0,0,538,577,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgsf,720,0,0,150,0,0,647,720,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgtop2,126,0,0,40,0,0,100,126,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgweather,6373,0,0,4681,0,0,6243,6373,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libidn,428,0,0,60,0,0,400,428,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libidn1.34,428,0,0,60,0,0,400,428,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libidn2,250,62,3,35,4,1,216,315,79.36507936507937,Swedish <tp-sv@listor.tp-sv.se>
+libkdegames,370,0,0,132,0,0,352,370,100.0,Swedish <kde-i18n-doc@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,174,171,100.0,Swedish <kde-i18n-doc@kde.org>
+libkfbapi,42,0,0,6,0,0,38,42,100.0,Swedish <kde-i18n-doc@kde.org>
+libkgapi,360,0,0,81,0,0,353,360,100.0,Swedish <kde-i18n-doc@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Swedish <sv@li.org>
+libkomparediff2,143,0,0,19,0,0,134,143,100.0,Swedish <kde-i18n-doc@kde.org>
+libksysguard,3436,0,0,473,0,0,3104,3436,100.0,Swedish <kde-i18n-doc@kde.org>
+libmatekbd,293,0,15,80,0,11,245,308,95.12987012987013,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+libmatemixer,242,0,0,126,0,0,223,242,100.0,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+libmateweather,6119,0,23,4552,0,22,6012,6142,99.62552914360143,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+libmodulemd,1792,0,0,99,0,0,1631,1792,100.0,Swedish
+libmypaint,2303,0,0,162,0,0,2065,2303,100.0,Swedish <https://hosted.weblate.org/projects/mypaint/libmypaint/sv/>
+libmypaint2,2311,0,0,162,0,0,2065,2311,100.0,Swedish <https://hosted.weblate.org/projects/mypaint/libmypaint/sv/>
+libnma,873,30,14,184,8,3,845,917,95.20174482006543,Swedish <tp-sv@listor.tp-sv.se>
+libosinfo,0,0,783,0,0,168,0,783,0.0,Swedish
+libpaper,73,0,0,46,0,0,76,73,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+libpeas,103,0,0,29,0,0,99,103,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libpq,68005,0,0,9321,0,0,62140,68005,100.0,Swedish <pgsql-translators@postgresql.org>
+libpwquality,333,0,12,50,0,1,279,345,96.52173913043478,Swedish (http://www.transifex.com/projects/p/libpwquality/language/sv/)
+libqalculate,9435,0,1558,2420,0,893,8292,10993,85.82734467388337,Swedish
+libreport,4928,0,0,603,0,0,4598,4928,100.0,Swedish <https://translate.fedoraproject.org/projects/abrt/libreport/sv/>
+libsecret,59,0,0,9,0,0,51,59,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libsoup,179,0,0,40,0,0,166,179,100.0,Swedish <tp-sv@listor.tp-sv.se>
+libuser,1385,34,18,292,6,3,1404,1437,96.3813500347947,Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)
+libxfce4ui,754,0,158,169,0,8,694,912,82.67543859649122,Swedish (http://www.transifex.com/xfce/libxfce4ui/language/sv/)
+libxfce4util,424,0,0,7,0,0,456,424,100.0,Swedish (http://www.transifex.com/xfce/libxfce4util/language/sv/)
+libzypp,2339,0,19,941,0,3,2364,2358,99.19423240033926,Swedish <https://l10n.opensuse.org/projects/libzypp/master/sv/>
+lifeograph,245,351,448,58,111,119,239,1044,23.467432950191572,Swedish <sv@li.org>
+liferea,1820,130,292,430,30,53,1708,2242,81.17752007136485,Swedish <tp-sv@listor.tp-sv.se>
+light-locker,260,0,0,37,0,0,219,260,100.0,Swedish (http://www.transifex.com/the_cavalry/light-locker/language/sv/)
+lightdm,79,0,84,17,0,4,81,163,48.466257668711656,Swedish <sv@li.org>
+lightdm-gtk,68,0,19,22,0,3,70,87,78.16091954022988,Swedish <sv@li.org>
+lightdm-gtk-greeter-settings,0,0,519,0,0,171,0,519,0.0,Swedish <sv@li.org>
+lightdm-settings,310,0,0,63,0,0,252,310,100.0,Swedish <sv@li.org>
+lightsoff,1137,0,0,110,0,0,1085,1137,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lilypond,5368,0,0,862,0,0,5140,5368,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lincity-ng,1895,0,0,477,0,0,1785,1895,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lingot,77,0,1302,31,0,121,72,1379,5.583756345177665,Swedish <sv@li.org>
+linphone,1075,195,583,238,67,160,1011,1853,58.01403130059363,SWEDISH <SE@li.org>
+linsmith,599,30,45,329,19,19,533,674,88.87240356083086,Svenska <sv@li.org>
+lokalize,3942,0,0,649,0,0,3699,3942,100.0,Swedish <kde-i18n-doc@kde.org>
+lollypop,1433,0,0,460,0,0,1386,1433,100.0,Swedish <https://hosted.weblate.org/projects/gnumdk/lollypop/sv/>
+lordsawar,7170,0,0,1874,0,0,6844,7170,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lskat,254,0,0,83,0,0,238,254,100.0,Swedish <kde-i18n-doc@kde.org>
+lxappearance,207,7,20,73,2,5,196,234,88.46153846153845,LANGUAGE <LL@li.org>
+lxappearance-obconf,196,0,0,27,0,0,163,196,100.0,Swedish
+lxde-common,14,0,0,5,0,0,17,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,48,47,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lxinput,72,0,11,24,0,2,71,83,86.74698795180723,LANGUAGE <LL@li.org>
+lxlauncher,51,0,7,11,0,6,42,58,87.93103448275862,Swedish <tp-sv@listor.tp-sv.se>
+lxmenu-data,97,0,0,37,0,0,90,97,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lxmusic,203,0,0,89,0,0,197,203,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lxrandr,167,0,0,41,0,0,171,167,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lxsession,734,21,0,165,1,0,709,755,97.21854304635762,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,33,43,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lxtask,130,0,0,51,0,0,137,130,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lynx,8197,0,0,1236,0,0,7143,8197,100.0,Swedish <tp-sv@listor.tp-sv.se>
+lyx,25527,137,38,7265,19,5,22558,25702,99.31911913469769,Swedish <lyx-docs@lists.lyx.org>
+mail-notification,2185,0,0,381,0,0,1977,2185,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mailman,14236,5074,5141,1076,219,186,14245,24451,58.22256758414789,Swedish <information@arvika.se>
+mailnag,181,0,26,60,0,6,182,207,87.43961352657004,Swedish <https://hosted.weblate.org/projects/mailnag/mailnag/sv/>
+make,2252,14,0,430,2,0,2138,2266,99.38217122683142,Swedish <tp-sv@listor.tp-sv.se>
+man-db,7684,1315,458,577,42,22,7107,9457,81.25198265834831,Swedish <tp-sv@listor.tp-sv.se>
+man2html,58,0,0,3,0,0,58,58,100.0,Swedish <sv@li.org>
+marble,11455,0,0,3322,0,0,10391,11455,100.0,Swedish <kde-i18n-doc@kde.org>
+marco,3977,0,362,417,0,14,3687,4339,91.65706383959437,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mariadb,192,9,63,15,1,4,171,264,72.72727272727273,Swedish <debian-l10n-swedish@lists.debian.org>
+massif-visualizer,357,0,0,109,0,0,323,357,100.0,Swedish <kde-i18n-doc@kde.org>
+mate-applets,6507,9,9337,773,3,826,6190,15853,41.04585882798209,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-backgrounds,51,0,14,28,0,3,48,65,78.46153846153847,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-calc,1368,0,1810,495,0,224,1257,3178,43.04594084329767,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-control-center,3653,0,4949,1160,0,352,3434,8602,42.46686817019298,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-desktop,2224,0,0,285,0,0,2007,2224,100.0,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-media,231,0,8,97,0,2,207,239,96.65271966527197,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-menu,301,0,7,109,0,1,318,308,97.72727272727273,Swedish (http://www.transifex.com/mate/MATE/language/sv/)
+mate-menus,97,0,0,37,0,0,92,97,100.0,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-notification-daemon,146,0,6,40,0,1,141,152,96.05263157894737,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-panel,5265,0,1462,655,0,147,4906,6727,78.26668648729003,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-polkit,123,0,0,21,0,0,110,123,100.0,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-power-manager,2919,3,2217,425,1,128,2779,5139,56.80093403385873,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-screensaver,999,0,21,161,0,8,904,1020,97.94117647058823,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-sensors-applet,657,0,1503,122,0,104,632,2160,30.416666666666664,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-session-manager,655,0,57,123,0,8,614,712,91.99438202247191,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-settings-daemon,1930,0,267,291,0,27,1745,2197,87.84706417842513,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-system-monitor,1731,0,3180,368,0,290,1552,4911,35.247403787416005,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-terminal,5097,0,3275,566,0,232,4645,8372,60.88150979455327,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-themes,70,0,4,21,0,2,66,74,94.5945945945946,Swedish (http://www.transifex.com/mate/MATE/language/sv/)
+mate-user-admin,20,0,608,16,0,115,20,628,3.1847133757961785,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-user-guide,32386,0,10584,2008,0,1221,29513,42970,75.36886199674191,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mate-utils,5177,0,5127,734,0,395,4666,10304,50.24262422360248,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+mbox-importer,40,0,0,13,0,0,39,40,100.0,Swedish <kde-i18n-doc@kde.org>
+mc,4066,0,223,1216,0,57,3923,4289,94.80065283282816,Swedish (http://www.transifex.com/mc/mc/language/sv/)
+meld,6130,0,0,788,0,0,5622,6130,100.0,Swedish <tp-sv@listor.tp-sv.se>
+menulibre,695,0,154,146,0,18,657,849,81.86101295641932,Swedish <sv@li.org>
+mercurial,16909,46,33946,2039,1,2196,15690,50901,33.21938665252156,Swedish
+metacity,1876,0,0,283,0,0,1714,1876,100.0,Swedish <tp-sv@listor.tp-sv.se>
+midori,3200,0,341,746,0,50,3144,3541,90.369951990963,Swedish
+minetest,1207,835,7607,392,146,818,1107,9649,12.509068297232872,Swedish <https://hosted.weblate.org/projects/minetest/minetest/sv/>
+mingw-GConf2,4088,0,0,497,0,0,3991,4088,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-atk,440,0,0,169,0,0,326,440,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-binutils,54352,2983,3548,8714,461,521,49379,60883,89.27286763135851,Swedish <tp-sv@listor.tp-sv.se>
+mingw-colord,276,0,1609,67,0,136,242,1885,14.64190981432361,Swedish (http://www.transifex.com/projects/p/colord/language/sv/)
+mingw-colorhug-client,333,0,1076,74,0,220,252,1409,23.63378282469837,Swedish (http://www.transifex.com/projects/p/colorhug-client/language/sv/)
+mingw-exiv2,35017,1703,1292,5602,345,139,27785,38012,92.12090918657266,tp-sv
+mingw-gcc,106421,0,0,13480,0,0,99073,106421,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gdb,9985,0,0,1547,0,0,9206,9985,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gdk-pixbuf,1420,0,0,213,0,0,1361,1420,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gettext,7541,76,26,820,2,2,6599,7643,98.66544550569148,Swedish <tp-sv@listor.tp-sv.se>
+mingw-glib-networking,272,0,0,41,0,0,260,272,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-glib2,7324,0,0,1159,0,0,7009,7324,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gnutls,1244,315,259,280,67,47,1045,1818,68.42684268426844,Swedish <tp-sv@listor.tp-sv.se>
+mingw-goocanvas2,1864,0,0,283,0,0,1432,1864,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gstreamer,1898,5,14,343,2,3,1758,1917,99.00886802295254,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gstreamer-plugins-bad-free,72,4,20,12,1,1,68,96,75.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gstreamer-plugins-base,667,0,241,136,0,42,578,908,73.45814977973568,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,781,814,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gstreamer1,2078,0,0,375,0,0,1938,2078,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gstreamer1-plugins-bad-free,194,0,3,28,0,1,194,197,98.47715736040608,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gstreamer1-plugins-base,939,5,24,196,1,5,778,968,97.00413223140497,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gstreamer1-plugins-good,726,25,43,89,4,4,727,794,91.43576826196474,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gtk-vnc,81,0,0,22,0,0,79,81,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gtk2,12381,0,0,2582,0,0,10576,12381,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gtk3,16682,0,0,3922,0,0,14358,16682,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gtksourceview3,322,0,0,106,0,0,280,322,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-gtkspell3,16,0,0,7,0,0,18,16,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-json-glib,303,0,0,44,0,0,259,303,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-libcharset,303,33,0,45,1,0,297,336,90.17857142857143,Swedish <tp-sv@listor.tp-sv.se>
+mingw-libconfuse,148,0,0,27,0,0,135,148,100.0,None <troglobit@gmail.com>
+mingw-libgovirt,103,0,0,23,0,0,84,103,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-libgpg-error,789,362,273,274,109,63,688,1424,55.40730337078652,Swedish <tp-sv@listor.tp-sv.se>
+mingw-libgsf,720,0,0,150,0,0,647,720,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-libidn,428,0,0,60,0,0,400,428,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-libidn2,250,62,3,35,4,1,216,315,79.36507936507937,Swedish <tp-sv@listor.tp-sv.se>
+mingw-libosinfo,0,0,783,0,0,168,0,783,0.0,Swedish
+mingw-libsoup,179,0,0,40,0,0,166,179,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mingw-libvirt,3177,0,0,659,0,0,2869,3177,100.0,Swedish (http://www.transifex.com/projects/p/libvirt/language/sv/)
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Swedish (http://www.transifex.com/projects/p/libvirt-glib/language/sv/)
+mingw-osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Swedish
+mingw-p11-kit,476,0,0,81,0,0,406,476,100.0,Swedish (http://www.transifex.com/freedesktop/p11-kit/language/sv/)
+mingw-postgresql,66485,0,0,9077,0,0,60796,66485,100.0,Swedish <sv@li.org>
+mingw-sane-backends,4629,454,725,994,102,107,4023,5808,79.7004132231405,Swedish <sv@li.org>
+mingw-wxWidgets,6359,109,33,1467,24,14,6012,6501,97.81572065836025,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+mingw-wxWidgets3,7700,47,58,1804,36,43,7197,7805,98.65470852017937,wxWidgets translators <wx-translators@googlegroups.com>
+minicom,1181,259,349,314,47,30,1163,1789,66.0145332588038,Swedish <tp-sv@listor.tp-sv.se>
+minigalaxy,227,0,0,76,0,0,225,227,100.0,
+minuet,412,0,0,159,0,0,381,412,100.0,Swedish <kde-i18n-doc@kde.org>
+mkvtoolnix,2191,3212,17956,530,762,1567,2020,23359,9.379682349415642,Swedish (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/sv/)
+mlocate,406,175,0,50,1,0,402,581,69.87951807228916,Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)
+monodevelop,2316,7727,13255,804,2384,2110,2150,23298,9.9407674478496,Swedish <tp-sv@listor.tp-sv.se>
+monotone,11938,0,0,1579,0,0,12015,11938,100.0,Richard Levitte <richard@levitte.org>
+moodle,0,12,40,0,5,9,0,52,0.0,i18n@lists.horde.org
+moserial,2420,0,0,212,0,0,2239,2420,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mousepad,1100,0,0,308,0,0,966,1100,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+mousetweaks,131,0,0,34,0,0,101,131,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mozo,43,0,0,17,0,0,36,43,100.0,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+msitools,72,0,0,26,0,0,60,72,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mtpaint,2689,0,770,741,0,266,2490,3459,77.73923099161607,Swedish <sv@li.org>
+mu,1943,0,0,255,0,0,1814,1943,100.0,
+muffin,2071,0,0,283,0,0,1882,2071,100.0,Swedish <tp-sv@listor.tp-sv.se>
+multimedia-menus,56,0,0,22,0,0,50,56,100.0,Swedish <sv@li.org>
+mutt,4482,1257,822,982,218,184,4426,6561,68.3127572016461,Swedish <sv@li.org>
+mutter,1219,0,0,144,0,0,1145,1219,100.0,Swedish <tp-sv@listor.tp-sv.se>
+mypaint,6301,16,256,1254,7,19,5746,6573,95.86185912064506,Swedish <https://hosted.weblate.org/projects/mypaint/mypaint/sv/>
+nacl-binutils,13548,0,0,2143,0,0,12549,13548,100.0,Swedish <sv@li.org>
+nano,3196,0,136,564,0,30,2972,3332,95.91836734693877,Swedish <tp-sv@listor.tp-sv.se>
+nautilus,5649,0,0,1126,0,0,5582,5649,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus-image-converter,79,0,0,35,0,0,89,79,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus-search-tool,11,0,0,2,0,0,11,11,100.0,Swedish <tp-sv@listor.tp-sv.se>
+nautilus-sendto,56,0,0,10,0,0,46,56,100.0,Swedish <tp-sv@listor.tp-sv.se>
+ncmpc,603,27,83,242,12,22,563,713,84.57223001402524,Swedish <https://hosted.weblate.org/projects/ncmpc/translations/sv/>
+nemiver,1426,54,2725,375,14,127,1299,4205,33.912009512485135,Swedish <tp-sv@listor.tp-sv.se>
+nemo-extensions,295,0,0,60,0,0,290,295,100.0,Svenska Språkfiler <eson@svenskasprakfiler.se>
+neovim,6847,0,0,1375,0,0,6624,6847,100.0,Swedish <tp-sv@listor.tp-sv.se>
+network-manager-applet,4252,28,198,889,10,20,3778,4478,94.95310406431443,Swedish <tp-sv@listor.tp-sv.se>
+neverball,1166,0,1569,215,0,144,1137,2735,42.63254113345521,Swedish (http://www.transifex.com/projects/p/neverball/language/sv/)
+newsbeuter,1136,140,66,299,20,15,1130,1342,84.64977645305514,
+newsboat,1405,55,101,336,13,9,1420,1561,90.00640614990391,Niklas Grahn <terra.unknown@yahoo.com>
+newt,4,0,0,4,0,0,4,4,100.0,Swedish <sv@li.org>
+nfoview,115,0,0,42,0,0,101,115,100.0,Swedish (http://www.transifex.com/otsaloma/nfoview/language/sv/)
+nicotine+,868,0,3708,279,0,731,834,4576,18.96853146853147,Swedish <markus@samsonrourke.com>
+nordugrid-arc,26948,0,0,4150,0,0,25269,26948,100.0,Swedish
+notification-daemon,33,0,0,11,0,0,29,33,100.0,Swedish <tp-sv@listor.tp-sv.se>
+novnc,139,0,0,71,0,0,141,139,100.0,none
+nutty,119,5,484,54,3,95,113,608,19.572368421052634,Swedish <https://hosted.weblate.org/projects/nutty/translations/sv/>
+obconf,622,0,116,138,0,18,518,738,84.28184281842819,Swedish
+ocfs2-tools,87,42,57,7,3,6,77,186,46.774193548387096,Swedish <tp-sv@listor.tp-sv.se>
+okteta,2527,0,0,613,0,0,2306,2527,100.0,Swedish <kde-i18n-doc@kde.org>
+okular,5058,0,0,1044,0,0,4672,5058,100.0,Swedish <kde-i18n-doc@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,145,158,100.0,LANGUAGE <LL@li.org>
+onboard,2076,0,242,472,0,38,1917,2318,89.55996548748921,Swedish <sv@li.org>
+openbox,506,0,0,94,0,0,440,506,100.0,None
+openconnect,6701,0,76,1154,0,9,6301,6777,98.87855983473514,Swedish <tp-sv@listor.tp-sv.se>
+opensp,4379,126,1266,595,17,110,3862,5771,75.87939698492463,Swedish <sv@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2915,0,0,1021,0,0,2881,2915,100.0,Swedish (http://www.transifex.com/projects/p/xfce/language/sv/)
+orca,19375,0,0,2920,0,0,18236,19375,100.0,Swedish <tp-sv@listor.tp-sv.se>
+osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Swedish
+osmo,1177,0,594,521,0,177,1093,1771,66.45962732919256,Swedish
+p11-kit,476,0,0,81,0,0,406,476,100.0,Swedish (http://www.transifex.com/freedesktop/p11-kit/language/sv/)
+pacman,4570,28,601,804,1,94,4523,5199,87.9015195229852,Swedish (http://www.transifex.com/toofishes/archlinux-pacman/language/sv/)
+pal,1151,0,0,207,0,0,1143,1151,100.0,Swedish <sv@li.org>
+palapeli,1512,0,0,180,0,0,1385,1512,100.0,Swedish <kde-i18n-doc@kde.org>
+pam,575,22,0,117,3,0,541,597,96.31490787269682,Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)
+pan,3509,0,0,805,0,0,3444,3509,100.0,Swedish <tp-sv@listor.tp-sv.se>
+pantheon-agent-geoclue2,99,0,2,17,0,1,84,101,98.01980198019803,Swedish <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/sv/>
+pantheon-agent-polkit,16,5,27,8,2,5,13,48,33.33333333333333,Swedish <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/sv/>
+paprefs,136,0,0,24,0,0,115,136,100.0,Swedish <tp-sv@listor.tp-sv.se>
+parcellite,156,0,0,52,0,0,152,156,100.0,Swedish <tp-sv@listor.tp-sv.se>
+parley,3850,0,0,753,0,0,3521,3850,100.0,Swedish <kde-i18n-doc@kde.org>
+parole,1088,0,0,301,0,0,1028,1088,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+parted,4216,186,272,529,20,21,4000,4674,90.20111253744116,Swedish <tp-sv@listor.tp-sv.se>
+passwd,329,0,7,56,0,1,311,336,97.91666666666666,Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)
+pastebinit,195,0,0,29,0,0,188,195,100.0,Swedish <sv@li.org>
+pavucontrol,420,0,0,132,0,0,402,420,100.0,Swedish <tp-sv@listor.tp-sv.se>
+pbuilder,96,0,0,9,0,0,99,96,100.0,swedish <debian-l10n-swedish@lists.debian.org>
+pdfarranger,323,0,0,119,0,0,321,323,100.0,Swedish
+pdfmod,487,0,374,118,0,15,517,861,56.56213704994193,Swedish <tp-sv@listor.tp-sv.se>
+peek,564,0,0,97,0,0,494,564,100.0,Swedish <https://hosted.weblate.org/projects/peek/translations/sv/>
+pgadmin3,8408,9843,5038,2203,2656,1018,7768,23289,36.102881188543954,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phodav,63,0,0,17,0,0,69,63,100.0,Swedish <tp-sv@listor.tp-sv.se>
+phonon,327,0,0,59,0,0,279,327,100.0,Swedish <kde-i18n-doc@kde.org>
+phonon-backend-gstreamer,104,0,0,15,0,0,93,104,100.0,Swedish <kde-i18n-doc@kde.org>
+phonon-qt4,116,0,0,25,0,0,104,116,100.0,Swedish <kde-i18n-doc@kde.org>
+phonon-qt4-backend-gstreamer,104,0,0,15,0,0,93,104,100.0,Swedish <kde-i18n-doc@kde.org>
+phosh,48,0,26,16,0,15,47,74,64.86486486486487,Swedish
+php-horde-Horde-Alarm,1,4,8,1,2,2,1,13,7.6923076923076925,i18n@lists.horde.org
+php-horde-Horde-Argv,1,3,56,1,3,9,1,60,1.6666666666666667,i18n@lists.horde.org
+php-horde-Horde-Browser,52,0,14,5,0,1,43,66,78.78787878787878,i18n@lists.horde.org
+php-horde-Horde-Cli,2,6,3,1,1,1,2,11,18.181818181818183,i18n@lists.horde.org
+php-horde-Horde-Compress,7,18,0,2,4,0,7,25,28.000000000000004,i18n@lists.horde.org
+php-horde-Horde-Core,771,0,0,211,0,0,691,771,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,237,73,86,62,15,20,200,396,59.84848484848485,i18n@lists.horde.org
+php-horde-Horde-Data,7,0,0,2,0,0,5,7,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,4,12,20,4,3,4,4,36,11.11111111111111,i18n@lists.horde.org
+php-horde-Horde-Exception,0,4,0,0,2,0,0,4,0.0,i18n@lists.horde.org
+php-horde-Horde-Form,192,158,203,68,42,36,158,553,34.719710669077756,i18n@lists.horde.org
+php-horde-Horde-Icalendar,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Image,22,122,437,22,72,191,22,581,3.7865748709122204,i18n@lists.horde.org
+php-horde-Horde-Imsp,7,7,0,1,1,0,6,14,50.0,i18n@lists.horde.org
+php-horde-Horde-Itip,2,17,37,2,3,5,2,56,3.571428571428571,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,10,6,104,1,1,7,11,120,8.333333333333332,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,0,8,40,0,3,9,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,1,4,42,1,3,16,1,47,2.127659574468085,i18n@lists.horde.org
+php-horde-Horde-Nls,84,41,305,76,23,164,80,430,19.53488372093023,i18n@lists.horde.org
+php-horde-Horde-Perms,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,22,10,0,7,1,0,19,32,68.75,i18n@lists.horde.org
+php-horde-Horde-Rpc,6,18,24,1,3,3,6,48,12.5,i18n@lists.horde.org
+php-horde-Horde-Share,5,11,32,5,2,5,5,48,10.416666666666668,i18n@lists.horde.org
+php-horde-Horde-SyncMl,0,3,0,0,1,0,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,35,0,0,2,0,35,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,5,2,3,1,1,1,6,10,50.0,i18n@lists.horde.org
+php-horde-horde,3617,6,0,972,3,0,3322,3623,99.8343913883522,Swedish <i18n@lists.horde.org>
+php-horde-imp,6825,13,12,1384,2,1,6015,6850,99.63503649635037,Swedish <i18n@lists.horde.org>
+php-horde-ingo,885,0,24,235,0,4,783,909,97.35973597359737,Swedish <i18n@lists.horde.org>
+php-horde-kronolith,3649,0,0,786,0,0,3334,3649,100.0,Swedish <i18n@lists.horde.org>
+php-horde-mnemo,537,0,0,153,0,0,479,537,100.0,Swedish <i18n@lists.horde.org>
+php-horde-nag,1421,0,0,338,0,0,1195,1421,100.0,Swedish <dev@lists.horde.org>
+php-horde-passwd,154,0,0,25,0,0,141,154,100.0,Swedish <SE@li.org>
+php-horde-turba,1770,0,1,420,0,1,1515,1771,99.94353472614343,Swedish <dev@lists.horde.org>
+php-horde-wicked,673,0,0,176,0,0,669,673,100.0,i18n@lists.horde.org
+php-phpmyadmin-sql-parser5,156,46,66,31,11,8,126,268,58.2089552238806,Swedish <https://hosted.weblate.org/projects/phpmyadmin/master/sv/>
+picard,2795,0,7906,1141,0,1897,2639,10701,26.11905429399122,Swedish (http://www.transifex.com/musicbrainz/musicbrainz/language/sv/)
+picmi,197,0,0,114,0,0,174,197,100.0,Swedish <kde-i18n-doc@kde.org>
+pidgin,15746,10,0,3432,1,0,14584,15756,99.93653211474994,Swedish (http://www.transifex.com/pidgin/pidgin/language/sv/)
+pidgin-guifications,442,32,31,183,4,5,427,505,87.52475247524752,Swedish <sv@li.org>
+pidgin-libnotify,36,0,0,12,0,0,33,36,100.0,swedish
+pidgin-musictracker,315,0,18,57,0,3,279,333,94.5945945945946,Swedish <sv@li.org>
+pidgin-otr,625,0,0,113,0,0,608,625,100.0,Swedish <tp-sv@listor.tp-sv.se>
+pidgin-sipe,1119,0,0,273,0,0,1063,1119,100.0,Swedish (http://www.transifex.com/stefanb/pidgin-sipe/language/sv/)
+pim-data-exporter,750,0,0,188,0,0,721,750,100.0,Swedish <kde-i18n-doc@kde.org>
+pim-sieve-editor,432,0,0,115,0,0,402,432,100.0,Swedish <kde-i18n-doc@kde.org>
+pinfo,83,40,198,22,8,24,84,321,25.85669781931464,Swedish <sv@li.org>
+pingus,2265,91,3039,209,2,235,2136,5395,41.98331788693234,sv <Jan Morens epostadress - jan.moren@lucs.lu.se>
+pinta,1543,0,143,522,0,10,1470,1686,91.51838671411625,Swedish <sv@li.org>
+pioneers,2266,204,534,643,44,103,2140,3004,75.43275632490013,Swedish <tp-sv@listor.tp-sv.se>
+piper,492,0,0,116,0,0,462,492,100.0,Swedish <>
+pitivi,9983,0,0,849,0,0,8920,9983,100.0,Swedish <tp-sv@listor.tp-sv.se>
+plank,189,0,0,50,0,0,219,189,100.0,Swedish <tp-sv@listor.tp-sv.se>
+plasma-breeze,266,0,0,101,0,0,254,266,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-browser-integration,105,0,0,22,0,0,88,105,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-desktop,11648,0,0,2386,0,0,10788,11648,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-discover,1506,0,0,441,0,0,1403,1506,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-drkonqi,3966,0,0,352,0,0,3550,3966,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-integration,58,0,0,21,0,0,61,58,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,171,172,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-milou,42,0,0,17,0,0,37,42,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-nm,5033,0,0,1247,0,0,4496,5033,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-oxygen,807,0,0,294,0,0,795,807,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-pa,232,0,0,85,0,0,214,232,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-pass,26,0,0,5,0,0,21,26,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-pk-updates,2081,0,0,400,0,0,1857,2081,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-sdk,883,0,0,259,0,0,788,883,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-systemsettings,199,0,0,52,0,0,175,199,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-thunderbolt,178,0,0,42,0,0,160,178,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-user-manager,141,0,0,39,0,0,127,141,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-vault,690,0,0,83,0,0,607,690,100.0,Swedish <kde-i18n-doc@kde.org>
+plasma-workspace,7588,0,0,2392,0,0,7011,7588,100.0,Swedish <kde-i18n-doc@kde.org>
+playonlinux,2482,0,246,422,0,27,2408,2728,90.98240469208211,sv_SE.UTF-8 <LL@li.org>
+pluma,5412,0,7708,1334,0,742,4919,13120,41.25,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+plymouth-kcm,117,0,0,25,0,0,106,117,100.0,Swedish <kde-i18n-doc@kde.org>
+pmount,723,0,0,63,0,0,660,723,100.0,Swedish <sv@li.org>
+po4a,1541,393,412,155,47,37,1419,2346,65.68627450980392,Swedish <https://hosted.weblate.org/projects/po4a/po4a/sv/>
+poedit,2791,0,0,622,0,0,2568,2791,100.0,Swedish
+pogo,576,0,0,101,0,0,528,576,100.0,Launchpad Swedish Translators <lp-l10n-sv@lists.launchpad.net>
+polari,2008,0,0,259,0,0,1968,2008,100.0,Swedish <tp-sv@listor.tp-sv.se>
+policycoreutils,236,0,0,28,0,0,211,236,100.0,Swedish
+polkit,228,0,0,26,0,0,215,228,100.0,Swedish <tp-sv@listor.tp-sv.se>
+polkit-gnome,94,0,0,16,0,0,85,94,100.0,Swedish <tp-sv@listor.tp-sv.se>
+polkit-kde,95,0,0,30,0,0,92,95,100.0,Swedish <kde-i18n-doc@kde.org>
+popt,78,0,6,29,0,2,75,84,92.85714285714286,Swedish <tp-sv@listor.tp-sv.se>
+postgresql,68230,0,0,9354,0,0,62358,68230,100.0,Swedish <pgsql-translators@postgresql.org>
+powerdevil,609,0,0,127,0,0,566,609,100.0,Swedish <kde-i18n-doc@kde.org>
+pragha,288,0,602,114,0,162,265,890,32.359550561797754,Swedish (http://www.transifex.com/p/Pragha/language/sv/)
+procps-ng,4640,0,0,805,0,0,4447,4640,100.0,Swedish <tp-sv@listor.tp-sv.se>
+psmisc,1028,0,0,96,0,0,1017,1028,100.0,Swedish <tp-sv@listor.tp-sv.se>
+publican,527,0,4850,41,0,573,496,5377,9.801004277478148,Swedish <tp-sv@listor.tp-sv.se>
+pulseaudio,3704,0,0,534,0,0,3367,3704,100.0,Swedish <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/sv/>
+pulseeffects,205,190,341,58,108,185,195,736,27.853260869565215,
+pychess,293,0,4162,120,0,759,279,4455,6.576879910213243,Swedish (http://www.transifex.com/gbtami/pychess/language/sv/)
+pyhoca-gui,1812,47,6,396,5,1,1526,1865,97.15817694369974,X2Go i18n <x2go-i18n@lists.x2go.org>
+pykickstart,1493,70,55,171,4,3,1333,1618,92.27441285537701,Swedish (http://www.transifex.com/projects/p/pykickstart/language/sv/)
+python-SecretStorage,59,0,0,9,0,0,51,59,100.0,Swedish <tp-sv@listor.tp-sv.se>
+python-blivet,558,0,0,76,0,0,556,558,100.0,Swedish (http://www.transifex.com/projects/p/blivet/language/sv/)
+python-caja,6,0,1,2,0,1,5,7,85.71428571428571,Swedish (https://www.transifex.com/mate/teams/13566/sv/)
+python-colander,130,8,23,25,2,3,121,161,80.74534161490683,sv <LL@li.org>
+python-django,3397,0,373,829,0,32,3246,3770,90.10610079575598,Swedish (http://www.transifex.com/django/django/language/sv/)
+python-django-contrib-comments,250,0,0,61,0,0,246,250,100.0,Swedish (http://www.transifex.com/django/django-contrib-comments/language/sv/)
+python-django-debug-toolbar,64,0,293,47,0,90,61,357,17.92717086834734,Swedish (Sweden) (http://www.transifex.com/projects/p/django-debug-toolbar/language/sv_SE/)
+python-django-formtools,32,0,0,11,0,0,27,32,100.0,Swedish (http://www.transifex.com/projects/p/django-formtools/language/sv/)
+python-django-helpdesk,248,0,2994,140,0,347,212,3242,7.649599012954966,Swedish (http://www.transifex.com/projects/p/django-helpdesk/language/sv/)
+python-django-registration,81,0,0,15,0,0,60,81,100.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,582,0,0,101,0,0,560,582,100.0,Swedish (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/sv/)
+python-django-reversion,120,0,0,23,0,0,116,120,100.0,LANGUAGE <LL@li.org>
+python-django-tables2,2,0,0,2,0,0,2,2,100.0,Swedish <sv@li.org>
+python-fedora,214,0,0,29,0,0,205,214,100.0,Swedish (http://www.transifex.com/projects/p/python-fedora/language/sv/)
+python-flask-admin,333,0,34,104,0,8,357,367,90.73569482288828,Swedish
+python-formencode,157,0,668,22,0,95,136,825,19.03030303030303,LANGUAGE <LL@li.org>
+python-meh,109,0,0,23,0,0,103,109,100.0,Swedish (http://www.transifex.com/projects/p/python-meh/language/sv/)
+python-nikola,80,0,14,34,0,10,76,94,85.1063829787234,Swedish (http://www.transifex.com/ralsina/nikola/language/sv/)
+python-simpleline,16,0,26,6,0,10,17,42,38.095238095238095,Swedish
+python-sphinx,384,0,4048,149,0,539,329,4432,8.664259927797833,Swedish (http://www.transifex.com/sphinx-doc/sphinx-1/language/sv/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Swedish (https://www.transifex.com/sphinx-doc/teams/36659/sv/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Swedish (https://www.transifex.com/sphinx-doc/teams/36659/sv/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Swedish (https://www.transifex.com/sphinx-doc/teams/36659/sv/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Swedish (https://www.transifex.com/sphinx-doc/teams/36659/sv/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Swedish (https://www.transifex.com/sphinx-doc/teams/36659/sv/)
+python-wtforms,183,0,5,34,0,1,169,188,97.3404255319149,sv <LL@li.org>
+python-wxpython4,7700,47,58,1804,36,43,7197,7805,98.65470852017937,wxWidgets translators <wx-translators@googlegroups.com>
+qalculate-gtk,3704,0,71,1068,0,4,3320,3775,98.11920529801324,Swedish
+qalculate-kde,1378,0,42,557,0,39,1249,1420,97.04225352112677,Swedish
+qtwebkit,684,74,335,165,16,81,602,1093,62.580054894785,Swedish <tp-sv@listor.tp-sv.se>
+quadrapassel,1462,0,0,174,0,0,1400,1462,100.0,Swedish <tp-sv@listor.tp-sv.se>
+quassel,1568,0,6210,697,0,953,1419,7778,20.159424016456672,Swedish (http://www.transifex.com/quassel/quassel/language/sv/)
+quodlibet,1835,1080,2801,540,330,507,1717,5716,32.102869139258225,SWEDISH
+rabbitvcs,993,0,531,326,0,146,921,1524,65.15748031496062,Swedish <sv@li.org>
+rapid-photo-downloader,915,0,6672,266,0,586,869,7587,12.060102807433768,Swedish <sv@li.org>
+rawstudio,1100,214,292,385,70,47,1044,1606,68.4931506849315,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,778,0,11,125,0,2,769,789,98.60583016476554,Swedish (http://www.transifex.com/freedesktop/realmd/language/sv/)
+recode,605,156,0,75,2,0,601,761,79.5006570302234,Swedish <tp-sv@listor.tp-sv.se>
+recutils,1867,0,0,209,0,0,1749,1867,100.0,Swedish <tp-sv@listor.tp-sv.se>
+redhat-menus,261,0,0,86,0,0,225,261,100.0,Swedish <sv@li.org>
+rednotebook,1060,0,87,234,0,6,988,1147,92.41499564080209,Swedish <sv@li.org>
+redshift,718,0,310,131,0,20,679,1028,69.8443579766537,Swedish <tp-sv@listor.tp-sv.se>
+regexxer,467,0,0,100,0,0,452,467,100.0,Swedish <tp-sv@listor.tp-sv.se>
+rekonq,2202,0,0,593,0,0,2104,2202,100.0,Swedish <kde-i18n-doc@kde.org>
+remmina,2998,213,579,720,26,45,2554,3790,79.10290237467018,Swedish <https://hosted.weblate.org/projects/remmina/remmina/sv/>
+renameutils,1302,379,0,168,8,0,1260,1681,77.45389649018442,Swedish <tp-sv@listor.tp-sv.se>
+retrace-server,433,0,0,56,0,0,371,433,100.0,Swedish <https://translate.fedoraproject.org/projects/abrt/retrace-server/sv/>
+revelation,1409,172,846,321,36,90,1316,2427,58.0552121961269,Swedish (http://www.transifex.com/hey_neken/revelation/language/sv/)
+rhythmbox,8378,0,0,1341,0,0,7803,8378,100.0,Swedish <tp-sv@listor.tp-sv.se>
+rhythmbox-alternative-toolbar,294,0,0,60,0,0,266,294,100.0,Swedish <sv@li.org>
+ristretto,759,0,0,196,0,0,737,759,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+rkward,36057,0,0,4052,0,0,31882,36057,100.0,Swedish <kde-i18n-doc@kde.org>
+rocs,1453,0,0,303,0,0,1315,1453,100.0,Swedish <kde-i18n-doc@kde.org>
+rpm,4142,86,308,801,18,54,3897,4536,91.31393298059965,Swedish (http://www.transifex.com/rpm-team/rpm/language/sv/)
+rpm-ostree,1186,0,0,190,0,0,1261,1186,100.0,Swedish <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/sv/>
+rsibreak,1175,0,0,158,0,0,1062,1175,100.0,Swedish <kde-i18n-doc@kde.org>
+rt,9538,0,2158,2269,0,373,9492,11696,81.54924760601915,Swedish <sv@li.org>
+rygel,1624,0,0,303,0,0,1670,1624,100.0,Swedish <tp-sv@listor.tp-sv.se>
+sakura,198,0,5,67,0,1,169,203,97.53694581280789,Swedish <sv@li.org>
+samba,187,67,270,31,18,79,182,524,35.68702290076336,Novell Language <language@novell.com>
+sane-backends,4581,553,826,987,124,127,3981,5960,76.86241610738254,Swedish <sv@li.org>
+sawfish,2454,1457,2532,582,226,174,2251,6443,38.087847276113614,Swedish <tp-sv@listor.tp-sv.se>
+scalpel,442,0,5,29,0,1,438,447,98.88143176733782,Swedish <tp-sv@listor.tp-sv.se>
+schroot,609,587,469,152,119,87,621,1665,36.57657657657658,Swedish <tp-sv@listor.tp-sv.se>
+scratch,1464,0,6,622,0,4,1396,1470,99.59183673469387,LANGUAGE <LL@li.org>
+scummvm,4395,668,1788,899,216,271,3944,6851,64.15121880017516,Swedish <https://translations.scummvm.org/projects/scummvm/scummvm/sv/>
+sdcc,9119,0,0,1398,0,0,8364,9119,100.0,Swedish <tp-sv@listor.tp-sv.se>
+sddm-kcm,143,0,0,40,0,0,134,143,100.0,Swedish <kde-i18n-doc@kde.org>
+seahorse,9225,0,0,1002,0,0,8438,9225,100.0,Swedish <tp-sv@listor.tp-sv.se>
+seahorse-caja,421,0,0,110,0,0,406,421,100.0,Swedish <tp-sv@listor.tp-sv.se>
+seahorse-nautilus,421,0,0,110,0,0,406,421,100.0,Swedish <tp-sv@listor.tp-sv.se>
+sed,788,0,0,137,0,0,775,788,100.0,Swedish <tp-sv@listor.tp-sv.se>
+setroubleshoot,583,0,52,159,0,8,545,635,91.81102362204724,Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)
+setroubleshoot-plugins,5933,0,313,218,0,8,5380,6246,94.98879282740954,Swedish <tp-sv@listor.tp-sv.se>
+setuptool,55,0,0,14,0,0,46,55,100.0,Swedish <sv@li.org>
+sflphone,2770,0,397,698,0,115,2537,3167,87.46447742342912,Swedish <tp-sv@listor.tp-sv.se>
+shadow-utils,5369,2956,13066,893,361,657,5080,21391,25.099340844280306,Swedish <debian-l10n-swedish@lists.debian.org>
+shared-mime-info,1911,0,80,749,0,24,1044,1991,95.98191863385233,Swedish (http://www.transifex.com/freedesktop/shared-mime-info/language/sv/)
+sharutils,472,193,2482,111,37,156,474,3147,14.9984111852558,Swedish <tp-sv@listor.tp-sv.se>
+shotwell,14126,0,0,1679,0,0,13158,14126,100.0,Swedish <tp-sv@listor.tp-sv.se>
+shutter,3093,0,0,606,0,0,3009,3093,100.0,Swedish <sv@li.org>
+simple-ccsm,60,17,85,41,7,16,53,162,37.03703703703704,Swedish <sv@li.org>
+simple-scan,2192,0,0,300,0,0,2018,2192,100.0,Swedish <tp-sv@listor.tp-sv.se>
+sirius,154,0,0,45,0,0,159,154,100.0,LANGUAGE <LL@li.org>
+skanlite,186,0,0,63,0,0,176,186,100.0,Swedish <kde-i18n-doc@kde.org>
+skrooge,11965,3,43,2468,1,4,11053,12011,99.61701773374408,Swedish <kde-i18n-doc@kde.org>
+skychart,4721,0,19,1486,0,5,4213,4740,99.59915611814345,Swedish <sv@li.org>
+slick-greeter,211,0,0,47,0,0,194,211,100.0,Swedish <sv@li.org>
+slrn,4509,563,279,824,48,78,4385,5351,84.264623434872,Swedish <sv@li.org>
+smb4k,6046,0,0,667,0,0,5353,6046,100.0,Swedish <kde-i18n-doc@kde.org>
+snapd,2132,0,2175,334,0,147,1999,4307,49.500812630601345,Swedish <sv@li.org>
+snapper,827,0,0,200,0,0,854,827,100.0,Swedish <https://l10n.opensuse.org/projects/snapper/master/sv/>
+solaar,0,0,0,0,0,0,0,0,0.0,none
+sos,54,33,35,11,7,12,58,122,44.26229508196721,Swedish <tp-sv@listor.tp-sv.se>
+sound-juicer,3563,0,0,328,0,0,3228,3563,100.0,Swedish <tp-sv@listor.tp-sv.se>
+soundconverter,240,28,239,99,5,25,226,507,47.337278106508876,Swedish <tp-sv@listor.tp-sv.se>
+soundkonverter,4062,0,0,570,0,0,3550,4062,100.0,Swedish (Sweden) (http://www.transifex.com/hessijames/soundkonverter/language/sv_SE/)
+soundmodem,91,0,0,50,0,0,87,91,100.0,Swedish <tp-sv@listor.tp-sv.se>
+soundtracker,1233,613,1438,355,158,246,1134,3284,37.54567600487211,Swedish <sv@li.org>
+spacefm,9078,0,0,1622,0,0,8687,9078,100.0,Swedish (http://www.transifex.com/ignorantguru/spacefm/language/sv/)
+sparkleshare,395,0,7,85,0,2,374,402,98.2587064676617,
+spectacle,696,0,0,157,0,0,696,696,100.0,Swedish <kde-i18n-doc@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Swedish (Sweden) (http://www.transifex.com/heldercorreia/speedcrunch/language/sv_SE/)
+springlobby,768,0,3802,261,0,946,758,4570,16.805251641137854,Swedish
+squirrelmail,9749,0,0,1857,0,0,8720,9749,100.0,Swedish <squirrelmail-i18n@lists.sourceforge.net>
+sscg,78,0,16,29,0,5,75,94,82.97872340425532,Swedish <tp-sv@listor.tp-sv.se>
+sssd,41168,579,560,3370,40,25,35651,42307,97.30777412721298,Swedish <https://translate.fedoraproject.org/projects/sssd/sssd-master/sv/>
+stardict,702,858,1475,102,139,352,550,3035,23.13014827018122,Swedish <tp-sv@listor.tp-sv.se>
+stellarium,52216,0,76437,22956,0,12932,48227,128653,40.58669444163758,Swedish (https://www.transifex.com/stellarium/teams/80998/sv/)
+step,4243,0,0,991,0,0,3699,4243,100.0,Swedish <kde-i18n-doc@kde.org>
+stratagus,245,0,0,69,0,0,244,245,100.0,Swedish <tp-sv@listor.tp-sv.se>
+strawberry,4555,0,0,1210,0,0,4418,4555,100.0,Swedish
+subversion,36250,0,0,3686,0,0,34055,36250,100.0,Swedish <dev@subversion.apache.org>
+sudo,5223,0,0,764,0,0,4787,5223,100.0,Swedish <tp-sv@listor.tp-sv.se>
+sugar,2305,0,0,529,0,0,2106,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,29,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,332,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,834,23,9,156,6,7,800,866,96.30484988452656,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,134,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,48,9,9,15,3,3,46,66,72.72727272727273,LANGUAGE <LL@li.org>
+sugar-colordeducto,109,0,0,23,0,0,101,109,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,106,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,253,258,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,121,0,18,46,0,2,117,139,87.05035971223022,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,110,0,40,30,0,4,105,150,73.33333333333333,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,53,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,84,77,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,165,2,69,52,1,9,162,236,69.91525423728814,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,69,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,246,0,35,87,0,7,236,281,87.54448398576513,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,92,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,8,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,141,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,146,142,100.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,100,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,50,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,282,0,0,68,0,0,262,282,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,73,0,0,25,0,0,67,73,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,142,137,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,65,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,224,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,71,0,0,17,0,0,66,71,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,113,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,161,0,52,112,0,11,163,213,75.5868544600939,LANGUAGE <LL@li.org>
+sugar-turtleart,427,361,671,152,82,201,390,1459,29.266620973269365,LANGUAGE <LL@li.org>
+sugar-typing-turtle,599,0,0,127,0,0,547,599,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,111,7,40,61,3,14,101,158,70.25316455696202,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,118,121,100.0,LANGUAGE <LL@li.org>
+supertux,3490,0,0,960,0,0,3263,3490,100.0,Swedish (http://www.transifex.com/arctic-games/supertux/language/sv/)
+supertuxkart,2812,0,2744,697,0,361,2719,5556,50.61195104391649,Swedish (http://www.transifex.com/supertuxkart/supertuxkart/language/sv/)
+sushi,33,0,0,13,0,0,34,33,100.0,Swedish <tp-sv@listor.tp-sv.se>
+svgpart,22,0,0,7,0,0,22,22,100.0,Swedish <sv@li.org>
+sweeper,228,0,0,50,0,0,207,228,100.0,Swedish <kde-i18n-doc@kde.org>
+swell-foop,1630,0,0,136,0,0,1594,1630,100.0,Swedish <tp-sv@listor.tp-sv.se>
+switchboard,59,2,63,17,1,8,53,124,47.58064516129033,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard/sv/>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,78,14,4,23,4,2,70,96,81.25,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/sv/>
+switchboard-plug-applications,80,0,15,30,0,4,62,95,84.21052631578947,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/sv/>
+switchboard-plug-bluetooth,70,18,100,28,7,16,70,188,37.234042553191486,Swedish <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/sv/>
+switchboard-plug-display,97,2,40,42,1,9,88,139,69.7841726618705,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/sv/>
+switchboard-plug-keyboard,383,35,112,150,13,30,380,530,72.26415094339622,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/sv/>
+switchboard-plug-mouse-touchpad,76,23,133,37,6,30,73,232,32.758620689655174,Swedish <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/sv/>
+switchboard-plug-networking,338,66,70,105,14,18,307,474,71.30801687763713,Swedish <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/sv/>
+switchboard-plug-notifications,131,0,11,18,0,3,108,142,92.25352112676056,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/sv/>
+switchboard-plug-onlineaccounts,160,0,0,56,0,0,166,160,100.0,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/sv/>
+switchboard-plug-pantheon-shell,132,5,44,49,3,13,124,181,72.92817679558011,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/sv/>
+switchboard-plug-printers,330,8,24,136,3,5,287,362,91.16022099447514,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/sv/>
+switchboard-plug-sharing,132,0,8,29,0,3,118,140,94.28571428571428,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/sv/>
+switchboard-plug-sound,90,8,54,38,4,9,72,152,59.210526315789465,Swedish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/sv/>
+switchdesk,16,87,19,3,10,6,12,122,13.114754098360656,Swedish <tp-sv@listor.tp-sv.se>
+sylpheed,7139,73,2,1771,25,1,6528,7214,98.96035486553923,Swedish <sv@li.org>
+sympa,13844,2229,21059,2056,393,1146,12502,37132,37.28320586017451,Svenska
+synapse,795,0,61,220,0,14,782,856,92.87383177570094,
+syncevolution,1132,0,0,163,0,0,1050,1132,100.0,Swedish (http://www.transifex.net/projects/p/meego/team/sv/)
+synfig,2995,11,1690,798,4,376,2716,4696,63.77768313458262,Swedish (Sweden) (http://www.transifex.com/morevnaproject/synfig/language/sv_SE/)
+synfigstudio,2541,0,4023,872,0,695,2365,6564,38.71115173674588,Swedish (Sweden) (http://www.transifex.com/morevnaproject/synfig/language/sv_SE/)
+sysprof,1698,0,0,240,0,0,1591,1698,100.0,Swedish <tp-sv@listor.tp-sv.se>
+sysstat,788,0,0,81,0,0,744,788,100.0,Swedish <tp-sv@listor.tp-sv.se>
+system-config-language,197,17,1,29,1,1,157,215,91.62790697674419,Swedish <tp-sv@listor.tp-sv.se>
+system-config-printer,3465,0,0,921,0,0,3147,3465,100.0,Swedish <https://translate.fedoraproject.org/projects/system-config-printer/master/sv/>
+system-config-rootpassword,116,0,0,19,0,0,107,116,100.0,Swedish <tp-sv@listor.tp-sv.se>
+system-switch-java,81,0,0,11,0,0,69,81,100.0,Swedish <tp-sv@listor.tp-sv.se>
+system-switch-mail,9,88,4,6,8,3,8,101,8.91089108910891,Swedish <tp-sv@listor.tp-sv.se>
+systemd,1032,0,0,121,0,0,1020,1032,100.0,Swedish
+tagtool,958,0,0,211,0,0,901,958,100.0,Swedish <sv@li.org>
+tali,2441,0,0,196,0,0,2225,2441,100.0,Swedish <tp-sv@listor.tp-sv.se>
+tar,3626,19,11,589,1,3,3555,3656,99.17943107221006,Swedish <tp-sv@listor.tp-sv.se>
+taxi,62,0,0,15,0,0,67,62,100.0,LANGUAGE <LL@li.org>
+tellico,5785,0,0,1234,0,0,5000,5785,100.0,Swedish <kde-i18n-doc@kde.org>
+template-glib,23,0,0,4,0,0,22,23,100.0,Swedish <tp-sv@listor.tp-sv.se>
+tepl,217,0,0,76,0,0,205,217,100.0,Swedish <tp-sv@listor.tp-sv.se>
+terminator,729,0,721,255,0,172,675,1450,50.275862068965516,Swedish (https://www.transifex.com/terminator/teams/109338/sv/)
+texi2html,938,420,285,61,68,52,919,1643,57.09068776628119,Swedish <tp-sv@listor.tp-sv.se>
+texinfo,6117,0,0,874,0,0,5800,6117,100.0,Swedish <tp-sv@listor.tp-sv.se>
+thunar-archive-plugin,86,0,0,13,0,0,88,86,100.0,Swedish (http://www.transifex.com/xfce/thunar-plugins/language/sv/)
+thunar-media-tags-plugin,156,0,0,58,0,0,140,156,100.0,Swedish (http://www.transifex.com/xfce/thunar-plugins/language/sv/)
+thunar-vcs-plugin,774,0,0,307,0,0,736,774,100.0,Swedish (http://www.transifex.com/xfce/thunar-plugins/language/sv/)
+thunar-vfs,387,0,0,86,0,0,375,387,100.0,Swedish <tp-sv@listor.tp-sv.se>
+thunar-volman,499,0,0,120,0,0,443,499,100.0,Swedish (http://www.transifex.com/xfce/thunar-volman/language/sv/)
+thunderbird,789,380,427,274,115,92,688,1596,49.43609022556391,Swedish <tp-sv@listor.tp-sv.se>
+tigervnc,697,0,0,154,0,0,636,697,100.0,Swedish <tp-sv@listor.tp-sv.se>
+tilda,104,21,542,41,10,135,97,667,15.592203898050974,Swedish <tp-sv@listor.tp-sv.se>
+tilix,1919,82,107,566,30,19,1836,2108,91.03415559772297,Swedish <https://hosted.weblate.org/projects/tilix/translations/sv/>
+timeshift,3005,0,0,599,0,0,2811,3005,100.0,Svenska Språkfiler <eson@svenskasprakfiler.se>
+tin,1044,389,9806,353,97,1092,1033,11239,9.289082658599519,Swedish <tp-sv@listor.tp-sv.se>
+tomboy,7256,0,0,742,0,0,6914,7256,100.0,Swedish <tp-sv@listor.tp-sv.se>
+toppler,530,5,17,205,2,8,541,552,96.01449275362319,Swedish <tp-sv@listor.tp-sv.se>
+tortoisehg,271,0,12972,92,0,2336,265,13243,2.046364116891943,Swedish <sv@li.org>
+totem,3188,0,0,537,0,0,2951,3188,100.0,Swedish <tp-sv@listor.tp-sv.se>
+totem-pl-parser,29,0,0,8,0,0,23,29,100.0,Swedish <tp-sv@listor.tp-sv.se>
+trac,13278,0,0,1495,0,0,12117,13278,100.0,sv <trac-dev@googlegroups.com>
+trac-accountmanager-plugin,893,1,314,157,1,46,817,1208,73.92384105960265,Swedish <trac-dev@googlegroups.com>
+trackballs,512,110,1009,160,49,291,489,1631,31.39178418148375,
+tracker,2243,0,0,374,0,0,2120,2243,100.0,Swedish <tp-sv@listor.tp-sv.se>
+tracker-miners,763,0,0,110,0,0,715,763,100.0,Swedish <tp-sv@listor.tp-sv.se>
+trader,2001,0,0,236,0,0,1876,2001,100.0,Swedish <tp-sv@listor.tp-sv.se>
+transmageddon,203,0,0,59,0,0,215,203,100.0,Swedish <tp-sv@listor.tp-sv.se>
+transmission,1998,0,0,523,0,0,2098,1998,100.0,Swedish (https://www.transifex.com/transmissionbt/teams/33778/sv/)
+transmission-remote-gtk,618,43,308,290,15,91,589,969,63.77708978328174,LANGUAGE <LL@li.org>
+tre,424,0,5,29,0,1,422,429,98.83449883449883,Swedish <tp-sv@listor.tp-sv.se>
+trojita,4772,0,0,978,0,0,4411,4772,100.0,Swedish <kde-i18n-doc@kde.org>
+trustedqsl,4191,0,0,639,0,0,3892,4191,100.0,TQSL Developers
+tumbler,241,0,0,39,0,0,234,241,100.0,Swedish (http://www.transifex.com/xfce/tumbler/language/sv/)
+tuxmath,428,170,857,119,22,108,430,1455,29.41580756013746,Swedish <tp-sv@listor.tp-sv.se>
+tuxpaint,1584,54,24,295,5,5,1625,1662,95.30685920577618,Svenska <debian-l10n-swedish@lists.debian.org>
+tuxpaint-stamps,3246,3,0,804,1,0,2789,3249,99.90766389658357,Svenska <debian-l10n-swedish@lists.debian.org>
+tuxtype2,71,0,9,32,0,8,62,80,88.75,Swedish <tp-sv@listor.tp-sv.se>
+tvtime,1065,116,41,231,8,7,964,1222,87.15220949263502,Per von Zweigbergk <pvz@e.kth.se>
+udisks2,2158,0,0,512,0,0,2064,2158,100.0,Swedish
+ufraw,511,128,1533,180,33,212,482,2172,23.52670349907919,Swedish <LL@li.org>
+ufw,767,0,112,163,0,18,796,879,87.25824800910125,Swedish <sv@li.org>
+ufw-kde,815,0,0,190,0,0,755,815,100.0,Swedish <kde-i18n-doc@kde.org>
+uget,1085,0,0,362,0,0,1091,1085,100.0,Swedish (http://www.transifex.com/uget/uget/language/sv/)
+umbrello,6437,0,0,1706,0,0,5989,6437,100.0,Swedish <kde-i18n-doc@kde.org>
+upower,113,0,0,19,0,0,107,113,100.0,Swedish <tp-sv@listor.tp-sv.se>
+usermode,573,0,0,96,0,0,531,573,100.0,Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)
+util-linux,22960,978,276,4197,139,39,21983,24214,94.82117783100685,Swedish <tp-sv@listor.tp-sv.se>
+vdr,1353,0,75,513,0,28,1248,1428,94.74789915966386,Swedish <vdr@linuxtv.org>
+vdr-extrecmenung,0,0,308,0,0,95,0,308,0.0,<vdr@linuxtv.org>
+watchdog,97,23,5,6,1,1,91,125,77.60000000000001,swedish <debian-l10n-swedish@lists.debian.org>
+wdiff,993,0,0,150,0,0,988,993,100.0,Swedish <tp-sv@listor.tp-sv.se>
+webkit2gtk3,2160,0,0,533,0,0,1786,2160,100.0,Swedish <tp-sv@listor.tp-sv.se>
+wesnoth,153845,49937,92165,10947,2472,5005,146865,295947,51.98397010275488,Swedish
+wget,4004,53,13,647,3,1,3842,4070,98.37837837837839,Swedish <tp-sv-list@lists.sourceforge.net>
+wicd-kde,358,0,0,122,0,0,337,358,100.0,Swedish <kde-i18n-doc@kde.org>
+widelands,40483,0,18456,3790,0,1435,37225,58939,68.68626885423913,Swedish (http://www.transifex.com/widelands/widelands/language/sv/)
+wine,14823,986,1408,3334,205,361,13155,17217,86.0951385258756,Swedish
+wingpanel,6,0,13,1,0,3,4,19,31.57894736842105,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,199,9,86,62,4,20,198,294,67.68707482993197,Swedish <https://weblate.elementary.io/projects/wingpanel/applications-menu/sv/>
+wingpanel-indicator-bluetooth,11,0,19,7,0,11,11,30,36.666666666666664,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,12,0,116,3,0,22,9,128,9.375,Swedish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/sv/>
+wingpanel-indicator-keyboard,5,0,33,2,0,8,3,38,13.157894736842104,Swedish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/sv/>
+wingpanel-indicator-network,76,0,21,22,0,5,64,97,78.35051546391753,Swedish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/sv/>
+wingpanel-indicator-nightlight,12,0,19,4,0,4,12,31,38.70967741935484,Swedish <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/sv/>
+wingpanel-indicator-notifications,16,0,22,7,0,6,11,38,42.10526315789473,Swedish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/sv/>
+wingpanel-indicator-power,90,0,27,25,0,7,90,117,76.92307692307693,Swedish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/sv/>
+wingpanel-indicator-session,57,0,24,18,0,7,51,81,70.37037037037037,Swedish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/sv/>
+wingpanel-indicator-sound,7,2,44,3,1,9,4,53,13.20754716981132,Swedish <sv@li.org>
+wireshark,258,0,0,16,0,0,233,258,100.0,Swedish (https://www.transifex.com/wireshark/teams/36457/sv/)
+wol,298,0,0,31,0,0,287,298,100.0,
+workrave,1043,133,145,198,42,22,986,1321,78.9553368660106,Swedish <tp-sv@listor.tp-sv.se>
+wxGTK3,7700,47,58,1804,36,43,7197,7805,98.65470852017937,wxWidgets translators <wx-translators@googlegroups.com>
+xapps,69,0,0,34,0,0,62,69,100.0,Swedish <sv@li.org>
+xarchiver,905,245,42,248,32,17,886,1192,75.92281879194631,Swedish <tp-sv@listor.tp-sv.se>
+xawtv,126,0,0,24,0,0,107,126,100.0,Swedish <debian-l10n-swedish@lists.debian.org>
+xchm,172,17,45,71,7,18,165,234,73.50427350427351,Swedish <tp-sv@listor.tp-sv.se>
+xdg-desktop-portal,221,0,0,32,0,0,180,221,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xdg-desktop-portal-gtk,120,34,86,40,8,16,115,240,50.0,Swedish <tp-sv@listor.tp-sv.se>
+xdg-desktop-portal-kde,82,0,0,31,0,0,78,82,100.0,Swedish <kde-i18n-doc@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xdg-user-dirs-gtk,81,0,0,11,0,0,75,81,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xdialog,20,0,1,14,0,1,23,21,95.23809523809523,Swedish <forsberg@cendio.se>
+xed,12195,0,0,1675,0,0,11274,12195,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xfbib,208,2,132,50,2,23,184,342,60.81871345029239,Swedish <tp-sv@listor.tp-sv.se>
+xfburn,1567,0,0,320,0,0,1463,1567,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+xfce4-appfinder,396,0,10,79,0,2,380,406,97.53694581280789,Swedish (http://www.transifex.com/xfce/xfce4-appfinder/language/sv/)
+xfce4-battery-plugin,144,0,3,41,0,1,160,147,97.95918367346938,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-calculator-plugin,27,0,8,12,0,3,26,35,77.14285714285715,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xfce4-clipman-plugin,478,0,0,72,0,0,440,478,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-cpufreq-plugin,146,0,0,42,0,0,116,146,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-cpugraph-plugin,76,0,0,37,0,0,70,76,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-datetime-plugin,52,0,0,19,0,0,54,52,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-dict,529,0,0,121,0,0,474,529,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,169,181,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-embed-plugin,219,0,0,33,0,0,195,219,100.0,Swedish (http://www.transifex.com/projects/p/xfce-panel-plugins/language/sv/)
+xfce4-eyes-plugin,16,0,0,5,0,0,19,16,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,68,71,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-genmon-plugin,56,0,0,14,0,0,54,56,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,344,356,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xfce4-mailwatch-plugin,130,0,527,44,0,66,114,657,19.7869101978691,Swedish <tp-sv@listor.tp-sv.se>
+xfce4-mount-plugin,374,0,0,56,0,0,350,374,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-mpc-plugin,73,0,5,23,0,1,68,78,93.58974358974359,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-netload-plugin,91,0,0,35,0,0,83,91,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-notes-plugin,163,0,0,57,0,0,171,163,100.0,Swedish (http://www.transifex.com/projects/p/xfce-panel-plugins/language/sv/)
+xfce4-notifyd,296,0,0,81,0,0,262,296,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+xfce4-panel,1691,0,0,413,0,0,1598,1691,100.0,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xfce4-panel-profiles,99,0,0,26,0,0,88,99,100.0,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xfce4-places-plugin,162,0,0,47,0,0,149,162,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-power-manager,1033,0,13,208,0,2,919,1046,98.75717017208413,Swedish (http://www.transifex.com/xfce/xfce4-power-manager/language/sv/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,128,148,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-screensaver,697,0,0,152,0,0,628,697,100.0,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xfce4-screenshooter,405,0,51,62,0,14,330,456,88.81578947368422,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+xfce4-sensors-plugin,359,0,0,75,0,0,329,359,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-session,707,0,91,144,0,19,722,798,88.59649122807018,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xfce4-settings,1787,0,153,421,0,32,1606,1940,92.11340206185567,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,20,22,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,115,129,100.0,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xfce4-systemload-plugin,87,0,0,23,0,0,79,87,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-taskmanager,259,0,0,88,0,0,245,259,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+xfce4-terminal,1725,0,0,403,0,0,1661,1725,100.0,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+xfce4-time-out-plugin,106,0,0,38,0,0,102,106,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-timer-plugin,134,0,0,42,0,0,114,134,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-verve-plugin,108,0,0,28,0,0,98,108,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,65,67,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-weather-plugin,3676,0,0,337,0,0,3308,3676,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfce4-whiskermenu-plugin,313,0,73,104,0,19,324,386,81.0880829015544,Swedish (Sweden) (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/sv_SE/)
+xfce4-xkb-plugin,57,0,0,22,0,0,50,57,100.0,Swedish (http://www.transifex.com/xfce/xfce-panel-plugins/language/sv/)
+xfconf,458,0,0,68,0,0,425,458,100.0,Swedish (http://www.transifex.com/xfce/xfconf/language/sv/)
+xfdashboard,0,0,6878,0,0,921,0,6878,0.0,Swedish (Sweden) (http://www.transifex.com/xfdashboard/xfdashboard/language/sv_SE/)
+xfdesktop,1037,0,0,246,0,0,974,1037,100.0,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xfe,3046,618,2373,978,94,20,2824,6037,50.455524267020046,Swedish
+xfmpc,173,0,2,76,0,2,182,175,98.85714285714286,Swedish (http://www.transifex.com/xfce/xfce-apps/language/sv/)
+xfpanel-switch,62,0,39,24,0,2,54,101,61.386138613861384,Swedish <sv@li.org>
+xfwm4,632,0,0,169,0,0,583,632,100.0,Swedish (https://www.transifex.com/xfce/teams/16840/sv/)
+xiphos,4576,177,228,1054,53,33,4262,4981,91.8691025898414,Xiphos Dev Team <xiphos-devel@crosswire.org>
+xkeyboard-config,3973,0,0,1186,0,0,3833,3973,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xlog,1435,11,19,329,2,3,1314,1465,97.95221843003414,Swedish <kde-i18n-doc@kde.org>
+xmlcopyeditor,937,306,443,304,89,97,898,1686,55.575326215895615,LANGUAGE <LL@li.org>
+xmms,2958,212,273,952,47,46,2834,3443,85.91344757478943,Swedish <sv@li.org>
+xmoto,3355,0,484,710,0,112,3191,3839,87.39255014326648,Svenska <sv@li.org>
+xpad,191,0,222,50,0,77,207,413,46.246973365617436,Swedish <tp-sv@listor.tp-sv.se>
+xreader,3592,0,0,596,0,0,3332,3592,100.0,Swedish <tp-sv@listor.tp-sv.se>
+xsane,1938,970,316,503,161,64,1806,3224,60.11166253101737,LANGUAGE <sv@li.org>
+xscreensaver,1767,1175,8248,317,520,997,1649,11190,15.79088471849866,Swedish <sv@li.org>
+yakuake,1614,0,0,229,0,0,1444,1614,100.0,Swedish <kde-i18n-doc@kde.org>
+yelp,351,0,0,74,0,0,317,351,100.0,Swedish <tp-sv@listor.tp-sv.se>
+yelp-xsl,85,0,0,62,0,0,84,85,100.0,Swedish <tp-sv@listor.tp-sv.se>
+yp-tools,782,44,79,129,7,14,706,905,86.40883977900552,Swedish <tp-sv@listor.tp-sv.se>
+ypbind,268,57,32,55,8,6,263,357,75.07002801120449,Swedish <tp-sv@listor.tp-sv.se>
+zabbix,707,20,15253,386,4,3049,747,15980,4.424280350438048,Zabbix <info@zabbix.com>
+zanshin,507,0,0,127,0,0,577,507,100.0,Swedish <kde-i18n-doc@kde.org>
+zathura,723,0,2,160,0,2,655,725,99.72413793103449,Swedish (http://www.transifex.com/pwmt/zathura/language/sv/)
+zenity,3888,0,0,546,0,0,3383,3888,100.0,Swedish <tp-sv@listor.tp-sv.se>
+zypper,8965,3,261,1220,1,27,8584,9229,97.13945172824792,Swedish <https://l10n.opensuse.org/projects/zypper/master/sv/>

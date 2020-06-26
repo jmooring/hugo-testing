@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+lightdm,0,0,79,0,0,17,0,79,0.0,Mari (Meadow) <mhr@li.org>
+pidgin,16581,1644,131,3608,271,24,15253,18356,90.33013728481151,Mari <muter@lists.linux-ink.ru>

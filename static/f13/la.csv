@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+byobu,14,0,163,8,0,36,12,177,7.909604519774012,Latin <la@li.org>
+gedit,207,0,4735,17,0,1076,121,4942,4.188587616349656,Latin <la@li.org>
+gnome-applet-alarm-clock,25,0,392,15,0,95,21,417,5.995203836930456,Latin <la@li.org>
+gnome-do-plugins,0,0,2323,0,0,582,0,2323,0.0,Latin <la@li.org>
+gnome-panel,3,0,4579,3,0,626,3,4582,0.06547359231776517,Latin <gnome-latin-list@gnome.org>
+libgnomeprintui22,6,0,475,6,0,148,7,481,1.2474012474012475,Latin <la@li.org>
+libgnomeui,1,0,1308,1,0,333,3,1309,0.07639419404125286,Latin <la@li.org>
+libgtop2,24,0,102,5,0,35,15,126,19.047619047619047,Latin <la@li.org>
+metacity,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mutter,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mutter-mbl,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+warzone2100,9,115,12614,5,50,2664,8,12738,0.0706547338671691,Latin
+wesnoth,14899,34399,177624,2666,1692,9804,11518,226922,6.5656921761662606,Latin
+widelands,8590,0,16186,1667,0,940,7948,24776,34.670649015175975,Latin <la@li.org>
+yelp,13,0,1022,13,0,336,24,1035,1.2560386473429952,Latin <la@li.org>

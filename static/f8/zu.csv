@@ -1,0 +1,33 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,5182,3449,1572,778,306,161,3859,10203,50.788983632265015,Zulu <zulu@translate.org.za>
+compiz,1,174,2182,1,70,513,1,2357,0.04242681374628765,Novell Language <language@novell.com>
+control-center,2619,352,411,564,100,72,2251,3382,77.43938497930219,Zulu <translate-discuss-zu@lists.sourceforge.net>
+eog,557,2,55,150,1,7,474,614,90.71661237785015,Zulu <translate-discuss-zu@lists.sourceforge.net>
+firstboot,241,167,190,41,10,8,184,598,40.30100334448161,Zulu <zulu@translate.org.za>
+gdm,5299,0,2,706,0,1,3792,5301,99.96227126957177,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-desktop,316,4,0,72,1,0,260,320,98.75,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-mime-data,834,53,0,342,20,0,951,887,94.02480270574972,
+gnome-panel,3578,250,109,462,35,20,2725,3937,90.88138176276352,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-session,513,3,0,100,1,0,424,516,99.4186046511628,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-vfs2,1263,19,0,247,1,0,1009,1282,98.5179407176287,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gwenview,52,253,1016,30,77,213,53,1321,3.936411809235428,<en@li.org>
+im-chooser,0,0,172,0,0,24,0,172,0.0,none
+iso-codes,166,4082,13968,158,3542,9163,177,18216,0.9112867808519982,Zulu <zulu@translate.org.za>
+libbonoboui,314,7,39,92,3,18,262,360,87.22222222222223,Zulu <translate-discuss-zu@lists.sourceforge.net>
+libgnomeui,1270,83,66,314,19,12,1023,1419,89.49964763918253,Zulu <translate-discuss-zu@lists.sourceforge.net>
+libvirt,1290,656,351,308,127,72,1290,2297,56.160208968219415,none
+nautilus,6674,174,128,1171,36,7,4763,6976,95.67087155963303,Zulu <translate-discuss-zu@lists.sourceforge.net>
+pam,406,67,64,91,11,13,346,537,75.60521415270019,Novell Language <language@novell.com>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,213,14,34,70,5,11,221,261,81.60919540229885,Zulu <zulu@translate.org.za>
+rhgb,87,34,0,23,6,0,81,121,71.900826446281,Zulu <zulu@translate.org.za>
+rhpl,136,46,3,58,21,1,122,185,73.51351351351352,Zulu <zulu@translate.org.za>
+rhpxl,102,31,3,36,5,2,102,136,75.0,Zulu <zulu@translate.org.za>
+setroubleshoot,0,0,507,0,0,136,0,507,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7829,0,0,233,0,7829,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,78,0,0,12,0,0,76,78,100.0,Zulu <zulu@translate.org.za>
+system-config-language,45,0,0,10,0,0,39,45,100.0,Zulu <zulu@translate.org.za>
+system-config-rootpassword,50,0,0,9,0,0,48,50,100.0,Zulu <zulu@translate.org.za>
+system-config-soundcard,64,47,113,12,3,36,58,224,28.57142857142857,Zulu <zulu@translate.org.za>
+yelp,92,80,434,38,45,65,85,606,15.181518151815181,Zulu <translate-discuss-zu@lists.sourceforge.net>

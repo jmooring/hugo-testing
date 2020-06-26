@@ -1,0 +1,42 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+calibre,317,0,156984,290,0,17810,317,157301,0.20152446583302078,Maltese (http://www.transifex.com/calibre/calibre/language/mt/)
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnfdragora,146,0,584,108,0,199,151,730,20.0,Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/)
+gettext,368,20,50,72,2,14,366,438,84.01826484018264,Maltese <translation-team-mt@lists.sourceforge.net>
+gnome-do,62,0,550,16,0,128,62,612,10.130718954248366,Maltese <mt@li.org>
+gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,43,43,122,7,7,17,39,208,20.673076923076923,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-good,354,256,151,45,33,29,333,761,46.517739816031536,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,74,24,20,9,3,1,65,118,62.71186440677966,Maltese <translation-team-mt@lists.sourceforge.net>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,752,7099,7857,633,5218,4331,757,15708,4.787369493251846,Maltese <mt@li.org>
+koffice-kivio,1910,1752,4755,559,762,1040,1775,8417,22.69217060710467,Maltese <mt@li.org>
+libkexif,21,4,0,13,1,0,22,25,84.0,Maltese <mt@li.org>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-gettext,368,20,50,72,2,14,366,438,84.01826484018264,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,43,43,122,7,7,17,39,208,20.673076923076923,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,354,256,151,45,33,29,333,761,46.517739816031536,Maltese <translation-team-mt@lists.sourceforge.net>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+oggconvert,123,0,9,40,0,4,118,132,93.18181818181817,Maltese <mt@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+stellarium,67,0,25729,64,0,6600,68,25796,0.2597301907272445,Maltese <mt@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+sysstat,412,0,0,51,0,0,432,412,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+transmission,19,0,1790,11,0,483,19,1809,1.0503040353786623,Maltese <mt@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Maltese <mt@li.org>

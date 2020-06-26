@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+caja,46,0,9196,27,0,1469,49,9242,0.49772776455312706,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+deluge,0,0,2644,0,0,858,0,2644,0.0,Piemontese <pms@li.org>
+eom,146,0,1585,51,0,276,173,1731,8.434430964760255,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-control-center,8,0,2754,7,0,649,9,2762,0.2896451846488052,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-media,25,0,200,14,0,82,23,225,11.11111111111111,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-panel,11,0,4376,8,0,597,12,4387,0.25074082516526097,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-session-manager,4,0,677,4,0,110,4,681,0.5873715124816447,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-settings-daemon,7,0,1697,6,0,241,7,1704,0.41079812206572774,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-system-monitor,9,0,1298,6,0,302,9,1307,0.6885998469778117,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-terminal,13,0,4374,10,0,496,14,4387,0.2963300661043994,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-utils,32,0,3644,18,0,644,35,3676,0.8705114254624592,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mozo,2,0,40,2,0,14,2,42,4.761904761904762,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+pluma,85,0,4973,53,0,1062,101,5058,1.6805061289047054,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

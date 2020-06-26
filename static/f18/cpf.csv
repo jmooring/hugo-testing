@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+warmux,902,728,1114,173,125,174,980,2744,32.87172011661808,<fr@li.org>
+wormux,940,600,376,182,81,64,1033,1916,49.06054279749478,<fr@li.org>

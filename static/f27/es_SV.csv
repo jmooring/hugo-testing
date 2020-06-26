@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,8,0,1784,7,0,406,22,1792,0.4464285714285714,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+engrampa,6,0,1939,6,0,348,18,1945,0.30848329048843187,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+eom,10,0,1707,10,0,308,23,1717,0.5824111822947,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+libmateweather,362,0,137,154,0,29,426,499,72.54509018036072,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-applets,1651,0,838,364,0,196,2070,2489,66.33186018481318,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-control-center,17,0,2641,11,0,617,30,2658,0.6395786305492852,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-media,4,0,222,3,0,93,5,226,1.7699115044247788,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Spanish (El Salvador) (http://www.transifex.com/projects/p/MATE/language/es_SV/)
+mate-panel,32,0,4332,23,0,567,53,4364,0.7332722273143905,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-power-manager,10,0,2714,10,0,430,23,2724,0.36710719530102787,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-sensors-applet,9,0,297,9,0,97,22,306,2.941176470588235,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-session-manager,3,0,678,3,0,111,3,681,0.4405286343612335,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-settings-daemon,43,0,1721,6,0,247,45,1764,2.437641723356009,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)
+mate-system-monitor,14,0,1319,10,0,303,30,1333,1.0502625656414104,Spanish (El Salvador) (https://www.transifex.com/mate/teams/13566/es_SV/)

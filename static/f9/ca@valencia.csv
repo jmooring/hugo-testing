@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+filezilla,6641,0,0,1125,0,0,7614,6641,100.0,Softwarevalencia
+inkscape,10408,2392,4373,2258,690,517,12141,17173,60.60676643568392,Catalan <tradgnome@softcatala.org>
+pidgin,14073,976,605,3003,212,121,16896,15654,89.90034495975469,Catalan <tradgnome@softcatala.net>
+wesnoth,91066,34177,74566,6478,1397,4038,89172,199809,45.576525581930746,none

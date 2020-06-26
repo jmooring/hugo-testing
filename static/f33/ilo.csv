@@ -1,0 +1,19 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,66,17,7934,14,4,1335,77,8017,0.8232505924909567,Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/)
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,
+entangle,0,0,953,0,0,229,0,953,0.0,Iloko
+gnome-control-center,0,0,1313,0,0,756,0,1313,0.0,
+initial-setup,0,0,33,0,0,7,0,33,0.0,Iloko
+libvirt-glib,0,0,158,0,0,31,0,158,0.0,Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/)
+policycoreutils,8,0,4485,8,0,690,10,4493,0.17805475183618963,Iloko
+python-blivet,37,0,521,3,0,73,41,558,6.630824372759856,Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Iloko
+python-meh,0,0,109,0,0,23,0,109,0.0,Iloko
+redhat-menus,106,6,149,43,4,39,164,261,40.61302681992337,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+sos,0,0,122,0,0,30,0,122,0.0,none
+switchdesk,10,12,100,2,6,11,14,122,8.19672131147541,
+virt-viewer,0,0,854,0,0,193,0,854,0.0,Iloko

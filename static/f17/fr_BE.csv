@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+intltool,9,0,1,2,0,1,10,10,90.0,NONE <kenneth@gnu.org>
+jpoker,256,38,63,111,23,17,300,357,71.70868347338936,<pokersource-users@gna.org>
+openerp,52,0,11442,15,0,1771,78,11494,0.4524099530189664,French (Belgium) <fr_BE@li.org>
+zarafa,3199,0,184,1007,0,43,3744,3383,94.56104049660064,fr_FR <fr@li.org>

@@ -1,0 +1,698 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,5051,0,5,1583,0,5,5046,5056,99.90110759493672,English (United Kingdom) (http://www.transifex.net/projects/p/django/language/en_GB/)
+GConf2,4088,0,0,497,0,0,4088,4088,100.0,British English <en@li.org>
+NetworkManager,2615,0,0,576,0,0,2615,2615,100.0,British English <en@li.org>
+NetworkManager-l2tp,763,0,0,134,0,0,763,763,100.0,en_GB <en@li.org>
+NetworkManager-openconnect,56,0,0,17,0,0,56,56,100.0,British English <en@li.org>
+NetworkManager-openswan,303,0,0,54,0,0,303,303,100.0,en_GB <en@li.org>
+NetworkManager-openvpn,101,0,0,37,0,0,101,101,100.0,British English <en@li.org>
+NetworkManager-pptp,144,0,0,44,0,0,144,144,100.0,British English <en@li.org>
+NetworkManager-vpnc,156,0,0,41,0,0,156,156,100.0,British English <en@li.org>
+PackageKit,268,0,1310,63,0,307,268,1578,16.983523447401776,LANGUAGE <LL@li.org>
+R,109,8,11373,19,2,1898,109,11490,0.9486510008703221,English
+Terminal,1193,0,0,270,0,0,1201,1193,100.0,English/GB
+Thunar,3886,0,0,678,0,0,3887,3886,100.0,English/GB <xfce-i18n@xfce.org>
+Zim,2379,0,149,547,0,33,2414,2528,94.10601265822784,English (United Kingdom) <en_GB@li.org>
+abrt,1436,0,529,194,0,53,1439,1965,73.07888040712469,English (United Kingdom) (http://www.transifex.com/projects/p/fedora/language/en_GB/)
+accerciser,2099,0,0,317,0,0,2116,2099,100.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+accountsservice,0,0,59,0,0,10,0,59,0.0,English (United Kingdom) (http://www.transifex.net/projects/p/freedesktop/language/en_GB/)
+ailurus,3706,0,3949,518,0,650,3719,7655,48.41280209013716,none
+aisleriot,21089,0,0,1390,0,0,21103,21089,100.0,British English <en@li.org>
+akonadi-googledata,78,8,0,17,1,0,78,86,90.69767441860465,British English <kde-i18n-doc@kde.org>
+alacarte,42,0,0,16,0,0,42,42,100.0,en_GB <en@li.org>
+alleyoop,351,0,0,92,0,0,351,351,100.0,British English <en@li.org>
+almanah,727,0,0,144,0,0,730,727,100.0,British English <en@li.org>
+amarok,11889,2127,2268,2212,398,227,11888,16284,73.01031687546057,British English <kde-i18n-doc@kde.org>
+anaconda,8076,0,221,994,0,34,8070,8297,97.33638664577559,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+anjuta,7967,0,0,2003,0,0,7960,7967,100.0,British English <en@li.org>
+apper,3085,876,286,597,133,36,3080,4247,72.63951024252412,British English <kde-i18n-doc@kde.org>
+arm-gp2x-linux-glibc,64,0,5305,10,0,1078,64,5369,1.1920283106723784,
+aspell,1555,87,84,267,13,13,1558,1726,90.09269988412515,English (British) <en_gb@li.org>
+at-spi,61,0,0,7,0,0,61,61,100.0,British English <en@li.org>
+at-spi2-atk,7,0,0,1,0,0,7,7,100.0,British English <en@li.org>
+at-spi2-core,122,0,0,18,0,0,122,122,100.0,British English <en@li.org>
+atk,398,0,0,139,0,0,398,398,100.0,British English <en@li.org>
+atomix,125,0,0,44,0,0,125,125,100.0,
+audex,1303,1340,848,303,97,25,1305,3491,37.32454883987396,British English <kde-i18n-doc@kde.org>
+audit-viewer,611,0,0,185,0,0,614,611,100.0,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+authconfig,736,0,902,144,0,141,736,1638,44.93284493284494,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+avahi,758,87,20,152,9,4,758,865,87.6300578034682,British English <en@li.org>
+avogadro,4262,0,0,1545,0,0,4462,4262,100.0,American English <kde-i18n-doc@kde.org>
+ayttm,10,0,2902,3,0,647,10,2912,0.3434065934065934,Philip S Tellis <philip.tellis@gmx.net>
+backintime,557,0,362,131,0,49,524,919,60.60935799782372,English (United Kingdom) <en_GB@li.org>
+bakery,72,0,0,20,0,0,72,72,100.0,English/GB <en_gb@li.org>
+balsa,5886,0,0,1424,0,0,5886,5886,100.0,<en@li.org>
+banshee,11052,0,0,1821,0,0,11061,11052,100.0,British English <en_GB@li.org>
+baobab,2449,0,0,217,0,0,2467,2449,100.0,British English <en@li.org>
+bisho,164,0,0,26,0,0,164,164,100.0,/n <margie@linux.intel.com>
+bluedevil,439,74,104,141,25,32,439,617,71.15072933549432,British English <kde-i18n-doc@kde.org>
+blueman,1615,0,0,380,0,0,1644,1615,100.0,English (United Kingdom) <en_GB@li.org>
+brasero,9003,0,0,1232,0,0,9014,9003,100.0,British English <en@li.org>
+byobu,177,0,0,44,0,0,177,177,100.0,English (United Kingdom) <en_GB@li.org>
+byzanz,249,0,0,42,0,0,252,249,100.0,en_GB <en@li.org>
+bzr,862,0,32237,69,0,2271,860,33099,2.604308287259434,English (United Kingdom) <en_GB@li.org>
+bzr-explorer,1560,0,96,459,0,10,1560,1656,94.20289855072464,English (United Kingdom) <en_GB@li.org>
+cairo-clock,270,0,0,60,0,0,275,270,100.0,Ubuntu English Translation Team <ubuntu-l10n-eng@lists.ubuntu.com>
+calibre,38689,0,11366,7061,0,4790,38705,50055,77.29297772450305,English (United Kingdom) <en_GB@li.org>
+camorama,586,0,0,137,0,0,597,586,100.0,
+caribou,200,0,0,60,0,0,201,200,100.0,British English <en@li.org>
+ccsm,548,0,1,134,0,1,552,549,99.81785063752277,gb <dave@cirt.net>
+cheese,2842,0,0,220,0,0,2836,2842,100.0,British English <en@li.org>
+chkconfig,448,0,39,90,0,3,448,487,91.9917864476386,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+choqok,1642,181,209,425,49,46,1641,2032,80.80708661417323,British English <kde-i18n-doc@kde.org>
+chronojump,5025,0,0,1224,0,0,5061,5025,100.0,British English <en@li.org>
+cinepaint,172,488,6747,45,184,1710,165,7407,2.3221277170244363,"English, British"
+cinnamon,1240,0,456,433,0,119,1250,1696,73.11320754716981,English (United Kingdom) <en_GB@li.org>
+clamtk,796,0,0,212,0,0,798,796,100.0,English (United Kingdom) <en_GB@li.org>
+claws-mail,478,45,14491,78,12,2931,470,15014,3.1836952177967235,Paul Mangan <paul@claws-mail.org>
+claws-mail-plugins,13,0,345,1,0,41,13,358,3.6312849162011176,Paul Mangan <paul@claws-mail.org>
+clementine,1252,0,2687,432,0,665,1252,3939,31.78471693323178,
+clutter,2690,0,0,595,0,0,2690,2690,100.0,British English <en@li.org>
+cogl,361,0,0,75,0,0,361,361,100.0,British English <en@li.org>
+colord,471,0,7,120,0,2,471,478,98.5355648535565,English (United Kingdom) (http://www.transifex.com/projects/p/freedesktop/language/en_GB/)
+colord-gtk,0,0,5,0,0,1,0,5,0.0,English (United Kingdom) (http://www.transifex.net/projects/p/freedesktop/language/en_GB/)
+colorhug-client,508,0,382,110,0,90,514,890,57.078651685393254,LANGUAGE <LL@li.org>
+compat-gcc-296,337,60,5370,64,13,816,337,5767,5.843592855904283,English <en@li.org>
+compat-libgda,5435,0,0,1038,0,0,5435,5435,100.0,English/GB <en@li.org>
+compiz,0,1022,2228,0,341,376,0,3250,0.0,English <i18n@suse.de>
+compiz-plugins-extra,7286,759,901,1430,170,129,7288,8946,81.4442208808406,en_GB <dave@cirt.net>
+compiz-plugins-main,7286,759,901,1430,170,129,7288,8946,81.4442208808406,en_GB <dave@cirt.net>
+compiz-plugins-unsupported,7286,759,901,1430,170,129,7288,8946,81.4442208808406,en_GB <dave@cirt.net>
+conduit,834,0,0,297,0,0,835,834,100.0,British English <en@li.org>
+conglomerate,2994,266,3057,513,155,470,3005,6317,47.395915782808295,English/GB <en@li.org>
+contacts,284,1,0,74,1,0,291,285,99.64912280701755,British English <en@li.org>
+control-center,4295,67,23,1738,19,3,4294,4385,97.94754846066135,British English <en@li.org>
+cryptkeeper,0,0,358,0,0,53,0,358,0.0,English
+dasher,6489,0,0,421,0,0,6506,6489,100.0,British English <en@li.org>
+dates,233,0,6,70,0,2,236,239,97.48953974895397,English/GB <en@li.org>
+dbus-java,634,0,0,106,0,0,634,634,100.0,
+decibel-audio-player,0,0,1494,0,0,237,0,1494,0.0,English (United Kingdom) <en_GB@li.org>
+deja-dup,3748,0,0,443,0,0,3765,3748,100.0,English (United Kingdom) <en_GB@li.org>
+devhelp,456,0,0,119,0,0,467,456,100.0,British English <en@li.org>
+dexter,221,0,7,91,0,1,232,228,96.9298245614035,English (United Kingdom) <en_GB@li.org>
+dia,6028,0,0,2197,0,0,6033,6028,100.0,English/GB <en@li.org>
+diction,457,0,0,73,0,0,457,457,100.0,English <en@li.org>
+digikam,37170,3273,1895,5843,552,263,37184,42338,87.79347158580944,British English <kde-i18n-doc@kde.org>
+docky,591,0,8,171,0,2,597,599,98.6644407345576,English (United Kingdom) <en_GB@li.org>
+drgeo,1912,65,8,450,7,4,1912,1985,96.32241813602015,
+drwright,128,20,43,18,5,6,128,191,67.01570680628272,British English <en@li.org>
+duplicity,3390,0,12,492,0,2,3392,3402,99.64726631393297,English (United Kingdom) <en_GB@li.org>
+ekiga,10013,0,0,968,0,0,9979,10013,100.0,British English <en@li.org>
+emerald,774,0,0,215,0,0,776,774,100.0,beryl-project <ixce@beryl-project.org>
+empathy,6754,0,0,1173,0,0,6777,6754,100.0,British English <en@li.org>
+enscript,1625,204,0,197,11,0,1625,1829,88.84636413340623,English (British) <en_gb@li.org>
+eog,4881,0,0,558,0,0,4917,4881,100.0,British English <en@li.org>
+eog-plugins,150,0,0,56,0,0,150,150,100.0,British English <en@li.org>
+epiphany,7664,0,0,963,0,0,7686,7664,100.0,en_GB <en@li.org>
+epiphany-extensions,888,0,0,244,0,0,889,888,100.0,British English <en@li.org>
+evince,3412,0,0,588,0,0,3435,3412,100.0,British English <en@li.org>
+evolution,26777,9402,9518,5107,941,643,26840,45697,58.596844431800776,English/GB <en@li.org>
+evolution-data-server,4960,0,0,1042,0,0,4960,4960,100.0,British English <en@li.org>
+evolution-exchange,2204,0,0,360,0,0,2205,2204,100.0,British English <en@li.org>
+evolution-mapi,516,0,0,106,0,0,517,516,100.0,British English <en@li.org>
+evolution-rss,608,0,0,164,0,0,629,608,100.0,British English <en@li.org>
+exaile,2905,0,770,765,0,184,2899,3675,79.04761904761905,English (United Kingdom) <en_GB@li.org>
+exo,1400,0,0,274,0,0,1400,1400,100.0,English/GB
+expendable,226,0,0,92,0,0,226,226,100.0,English/GB <en@li.org>
+f-spot,3473,0,0,778,0,0,3484,3473,100.0,British English <en@li.org>
+fantasdic,398,0,0,128,0,0,398,398,100.0,
+fetchmail,3651,382,312,600,52,34,3651,4345,84.02761795166859,English (British) <en_gb@li.org>
+file-roller,7310,0,0,813,0,0,7339,7310,100.0,British English <en@li.org>
+firewalld,101,0,134,1,0,30,101,235,42.97872340425532,British English <en@li.org>
+firstboot,525,9,37,46,1,3,525,571,91.94395796847635,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/team/en_GB/)
+folks,968,0,0,119,0,0,968,968,100.0,British English <en@li.org>
+fontforge,2141,0,0,175,0,0,2141,2141,100.0,LANGUAGE <LL@li.org>
+fprintd,219,0,0,33,0,0,219,219,100.0,LANGUAGE <LL@li.org>
+freeciv,12933,0,57307,322,0,5980,12934,70240,18.4125854214123,
+frogr,459,94,115,95,26,36,462,668,68.7125748502994,LANGUAGE <LL@li.org>
+fuse-encfs,1080,8,227,124,2,13,1081,1315,82.12927756653993,English (United Kingdom) <en_GB@li.org>
+gallery2,17786,4,3,2541,1,1,17786,17793,99.96065868600012,British <gallery-translations@lists.sourceforge.net>
+garcon,89,0,0,29,0,0,89,89,100.0,English/GB
+gbrainy,8128,0,0,1048,0,0,8136,8128,100.0,British English <en@li.org>
+gcalctool,1399,0,0,433,0,0,1413,1399,100.0,British English <en@li.org>
+gcompris,10249,0,0,1194,0,0,10263,10249,100.0,<en@li.org>
+gconf-editor,2834,0,0,238,0,0,2845,2834,100.0,British English <en@li.org>
+gcr,422,117,83,153,39,35,422,622,67.84565916398714,British English <en@li.org>
+gdesklets,1528,0,0,204,0,0,1528,1528,100.0,English/GB <en@li.org>
+gdk-pixbuf2,1345,0,0,201,0,0,1345,1345,100.0,British English <en@li.org>
+gdm,8936,0,0,510,0,0,8938,8936,100.0,en_GB <en@li.org>
+geany,5435,182,83,1194,39,19,5435,5700,95.35087719298245,British English <geany-i18n@uvena.de>
+geda-gaf,3447,0,0,772,0,0,3447,3447,100.0,English (United Kingdom) <en_GB@li.org>
+gedit,4351,0,0,748,0,0,4376,4351,100.0,British English <en@li.org>
+gedit-plugins,1640,0,0,498,0,0,1642,1640,100.0,British English <en@li.org>
+genius,7004,0,0,988,0,0,7020,7004,100.0,British English <en@li.org>
+gftp,3375,0,0,634,0,0,3375,3375,100.0,<en@li.org>
+ggz-base-libs,74,0,0,17,0,0,74,74,100.0,British English
+ggz-gtk-client,864,0,0,269,0,0,865,864,100.0,British English
+ghex,969,0,0,276,0,0,973,969,100.0,British English <en@li.org>
+giggle,481,0,0,149,0,0,481,481,100.0,British English <en@li.org>
+gimp,28744,0,0,7353,0,0,28754,28744,100.0,British English <en@li.org>
+gimp-help,3915,0,0,240,0,0,3917,3915,100.0,British English <en_GB@li.org>
+gitg,1042,0,0,175,0,0,1049,1042,100.0,British English <en@li.org>
+glade,5935,0,0,1230,0,0,5956,5935,100.0,en_GB <en@li.org>
+glade2,5910,0,0,1311,0,0,5910,5910,100.0,
+glade3,5967,0,0,1229,0,0,5987,5967,100.0,en_GB <en@li.org>
+glib-networking,135,0,0,24,0,0,135,135,100.0,British English <en@li.org>
+glib2,5204,4,0,802,1,0,5214,5208,99.9231950844854,British English <en@li.org>
+glibc,64,0,5305,10,0,1078,64,5369,1.1920283106723784,
+glom,6598,0,0,854,0,0,6601,6598,100.0,en_GB <en@li.org>
+gmpc,458,0,986,106,0,365,465,1444,31.71745152354571,English (United Kingdom) <en_GB@li.org>
+gnash,14971,171,1,2382,26,1,14971,15143,98.86416165885228,LANGUAGE <LL@li.org>
+gnome-abrt,9,0,306,2,0,51,9,315,2.857142857142857,LANGUAGE <LL@li.org>
+gnome-activity-journal,316,0,0,94,0,0,316,316,100.0,English (United Kingdom) <en_GB@li.org>
+gnome-applets,18748,0,0,2052,0,0,18823,18748,100.0,en_GB <en@li.org>
+gnome-backgrounds,30,0,0,18,0,0,30,30,100.0,British English <en@li.org>
+gnome-bluetooth,459,0,0,141,0,0,459,459,100.0,British English <en@li.org>
+gnome-boxes,361,0,0,97,0,0,364,361,100.0,British English <en@li.org>
+gnome-color-manager,1904,0,0,338,0,0,1903,1904,100.0,British English <en@li.org>
+gnome-commander,7928,0,0,1429,0,0,7941,7928,100.0,<en@li.org>
+gnome-contacts,335,0,0,150,0,0,337,335,100.0,British English <en@li.org>
+gnome-desktop,438,0,0,61,0,0,438,438,100.0,British English <en@li.org>
+gnome-desktop3,466,0,0,69,0,0,466,466,100.0,British English <en@li.org>
+gnome-devel-docs,3495,0,0,187,0,0,3502,3495,100.0,British English <en@li.org>
+gnome-dictionary,2020,0,0,287,0,0,2048,2020,100.0,en_GB <en@li.org>
+gnome-disk-utility,2286,0,0,426,0,0,2296,2286,100.0,British English <en@li.org>
+gnome-do,612,0,0,144,0,0,612,612,100.0,English (United Kingdom) <en_GB@li.org>
+gnome-do-plugins,2323,0,0,582,0,0,2323,2323,100.0,English (United Kingdom) <en_GB@li.org>
+gnome-doc-utils,251,0,0,101,0,0,252,251,100.0,British English <en@li.org>
+gnome-documents,188,0,0,72,0,0,191,188,100.0,British English <en@li.org>
+gnome-dvb-daemon,807,0,1,199,0,1,827,808,99.87623762376238,English (United Kingdom) <en_GB@li.org>
+gnome-font-viewer,32,0,0,18,0,0,32,32,100.0,British English <en@li.org>
+gnome-games,32135,2,0,2305,1,0,32222,32137,99.99377664374397,British English <en@li.org>
+gnome-hearts,394,2,13,103,1,2,399,409,96.33251833740832,English (United Kingdom) <en_GB@li.org>
+gnome-icon-theme,43,0,0,38,0,0,43,43,100.0,<en@li.org>
+gnome-keyring,553,0,0,112,0,0,555,553,100.0,British English <en@li.org>
+gnome-libs,5,0,1080,2,0,393,5,1085,0.4608294930875576,
+gnome-mag,298,0,0,42,0,0,302,298,100.0,<en@li.org>
+gnome-media,4059,0,0,528,0,0,4082,4059,100.0,British English <en@li.org>
+gnome-menus,161,0,0,57,0,0,161,161,100.0,British English <en@li.org>
+gnome-mime-data,887,0,0,362,0,0,887,887,100.0,
+gnome-mud,1080,0,0,234,0,0,1095,1080,100.0,
+gnome-nettool,1177,0,0,240,0,0,1202,1177,100.0,English/GB <en@li.org>
+gnome-online-accounts,321,0,0,57,0,0,321,321,100.0,British English <en@li.org>
+gnome-packagekit,5196,0,0,851,0,0,5203,5196,100.0,British English <en@li.org>
+gnome-panel,5508,0,0,688,0,0,5523,5508,100.0,British English <en@li.org>
+gnome-phone-manager,502,0,0,112,0,0,505,502,100.0,English/GB <en@li.org>
+gnome-pilot,1748,0,0,340,0,0,1748,1748,100.0,
+gnome-pilot-conduits,209,0,0,50,0,0,209,209,100.0,
+gnome-power-manager,432,0,0,144,0,0,433,432,100.0,British English <en@li.org>
+gnome-schedule,1060,86,192,204,5,34,1064,1338,79.22272047832585,English/GB <en@li.org>
+gnome-screensaver,291,0,0,58,0,0,291,291,100.0,British English <en@li.org>
+gnome-screenshot,339,0,0,64,0,0,339,339,100.0,British English <en@li.org>
+gnome-search-tool,3179,0,0,358,0,0,3182,3179,100.0,en_GB <en@li.org>
+gnome-session,458,17,0,96,1,0,458,475,96.42105263157895,British English <en@li.org>
+gnome-settings-daemon,3943,0,0,582,0,0,3943,3943,100.0,British English <en@li.org>
+gnome-shell,1450,0,0,355,0,0,1451,1450,100.0,British English <en@li.org>
+gnome-shell-extensions,422,0,0,53,0,0,422,422,100.0,British English <en@li.org>
+gnome-specimen,56,0,0,18,0,0,58,56,100.0,English <en@li.org>
+gnome-subtitles,611,0,0,240,0,0,610,611,100.0,
+gnome-system-log,1759,0,0,176,0,0,1788,1759,100.0,British English <en@li.org>
+gnome-system-monitor,1135,0,0,293,0,0,1154,1135,100.0,British English <en@li.org>
+gnome-terminal,7859,0,0,768,0,0,7883,7859,100.0,British English <en@li.org>
+gnome-themes,109,0,0,30,0,0,109,109,100.0,
+gnome-themes-standard,24,0,0,9,0,0,24,24,100.0,British English <en@li.org>
+gnome-user-share,1457,0,0,106,0,0,1467,1457,100.0,British English <en@li.org>
+gnome-vfs2,1519,0,0,305,0,0,1519,1519,100.0,British English <en@li.org>
+gnome-video-effects,256,0,0,68,0,0,256,256,100.0,British English <en@li.org>
+gnomeradio,401,0,0,90,0,0,414,401,100.0,English/GB <en_gb@li.org>
+gnote,2404,0,0,356,0,0,2333,2404,100.0,British English <en@li.org>
+gnucash,20944,645,4723,3384,115,590,20948,26312,79.59866220735786,British English <kde-i18n-doc@kde.org>
+gnumeric,36875,0,0,5901,0,0,36875,36875,100.0,Sugar Labs
+gobby,49,0,851,7,0,183,49,900,5.444444444444444,British English translation team <crew@0x539.de>
+goffice,5499,352,350,1722,158,121,5499,6201,88.67924528301887,Sugar Labs
+goffice08,4435,106,58,1525,31,4,4435,4599,96.4340073929115,British English <en@li.org>
+gok,1915,0,0,434,0,0,1936,1915,100.0,British English <en@li.org>
+goocanvas,0,0,1730,0,0,271,0,1730,0.0,
+goocanvas2,0,0,1730,0,0,271,0,1730,0.0,
+gourmet,118,219,3310,37,55,776,119,3647,3.235536057033178,English (United Kingdom) <en_GB@li.org>
+gparted,2086,0,0,381,0,0,2093,2086,100.0,British English <en@li.org>
+gphoto2,736,281,599,167,42,109,736,1616,45.54455445544555,English (British) <en_gb@li.org>
+gphotoframe,478,140,701,114,32,121,481,1319,36.23957543593632,LANGUAGE <LL@li.org>
+gpointing-device-settings,120,19,30,31,10,13,121,169,71.00591715976331,English/GB <en@li.org>
+gpredict,6031,0,11,1087,0,1,6048,6042,99.81794107911288,British English
+grhino,503,0,0,215,0,0,503,503,100.0,Kriang Lerdsuwanakij <lerdsuwa@users.sourceforge.net>
+griffith,1840,10,4,448,4,2,1835,1854,99.24487594390507,English (United Kingdom) <en_GB@li.org>
+gscan2pdf,1113,0,435,357,0,104,1111,1548,71.89922480620154,English (United Kingdom) <en_GB@li.org>
+gstreamer,685,405,827,151,78,119,685,1917,35.732916014606154,English (British) <en_gb@li.org>
+gstreamer-plugins-bad-free,25,37,34,4,6,4,25,96,26.041666666666668,English (British) <en_gb@li.org>
+gstreamer-plugins-base,40,131,737,13,18,147,40,908,4.405286343612335,English (British) <en_gb@li.org>
+gstreamer-plugins-good,35,221,558,26,42,122,35,814,4.2997542997543,English (British) <en_gb@li.org>
+gtg,1795,0,0,244,0,0,1800,1795,100.0,English (United Kingdom) <en_GB@li.org>
+gthumb,3479,0,0,965,0,0,3495,3479,100.0,English/GB <en@li.org>
+gtk-doc,6632,0,0,282,0,0,6664,6632,100.0,British English <en@li.org>
+gtk-vnc,81,0,0,22,0,0,81,81,100.0,British English <en_GB@li.org>
+gtk2,12441,0,0,2588,0,0,12431,12441,100.0,British English <en@li.org>
+gtk2-engines,119,0,0,47,0,0,119,119,100.0,en_GB <en@li.org>
+gtk3,13130,0,0,2803,0,0,13186,13130,100.0,British English <en@li.org>
+gtkhash,118,0,0,42,0,0,131,118,100.0,English (United Kingdom) <en_GB@li.org>
+gtkhtml3,488,0,0,310,0,0,488,488,100.0,British English <en@li.org>
+gtksourceview,891,0,0,366,0,0,891,891,100.0,English/GB <en@li.org>
+gtksourceview2,1413,0,0,538,0,0,1417,1413,100.0,British English <en@li.org>
+gtksourceview3,1547,0,0,626,0,0,1555,1547,100.0,British English <en@li.org>
+gtranslator,1884,0,0,475,0,0,1902,1884,100.0,British English <en@li.org>
+gucharmap,2586,0,0,481,0,0,2582,2586,100.0,British English <en@li.org>
+gutenprint,8115,1551,257,2116,541,82,8090,9923,81.77970371863348,British English
+gvfs,2445,0,0,545,0,0,2443,2445,100.0,British English <en@li.org>
+gwget,541,0,0,190,0,0,549,541,100.0,English/GB <en@li.org>
+gwibber,769,0,0,204,0,0,769,769,100.0,English (United Kingdom) <en_GB@li.org>
+gxmessage,22,0,245,3,0,35,22,267,8.239700374531834,LANGUAGE <LL@li.org>
+hamster-applet,717,0,0,181,0,0,725,717,100.0,British English <en@li.org>
+harmonyseq,1285,0,582,235,0,62,1296,1867,68.82699517943225,English (United Kingdom) <en_GB@li.org>
+hexchat,5488,0,75,1371,0,20,5489,5563,98.6518065791839,English (United Kingdom) (http://www.transifex.com/projects/p/hexchat/language/en_GB/)
+hitori,923,0,0,79,0,0,931,923,100.0,British English <en@li.org>
+homebank,1509,0,0,534,0,0,1521,1509,100.0,English (United Kingdom) <en_GB@li.org>
+hugin,593,45,6120,52,4,1220,593,6758,8.774785439479135,British English <en_GB@li.org>
+ibus,522,52,29,102,4,5,525,603,86.56716417910447,English (British)
+im-chooser,54,0,172,14,0,39,54,226,23.893805309734514,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+initscripts,4344,0,5,1069,0,1,4318,4349,99.88503104161876,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+inkscape,26528,0,0,5578,0,0,26525,26528,100.0,British English <en@li.org>
+iptux,188,0,611,82,0,158,188,799,23.52941176470588,English (United Kingdom) <en_GB@li.org>
+istanbul,350,0,0,45,0,0,353,350,100.0,en_GB <en@li.org>
+jmol,2494,0,237,847,0,50,2484,2731,91.32186012449652,English (United Kingdom) <en_GB@li.org>
+k3b,20429,0,0,2522,0,0,20415,20429,100.0,British English <kde-i18n-doc@kde.org>
+kaffeine,527,57,6,229,27,1,527,590,89.32203389830508,British English <kde-i18n-doc@kde.org>
+kamoso,69,17,67,22,6,21,69,153,45.09803921568628,messages <kde-i18n-doc@kde.org>
+kaudiocreator,1123,8,5,270,1,2,1124,1136,98.8556338028169,British English <kde-i18n-doc@kde.org>
+kcoloredit,278,0,0,95,0,0,282,278,100.0,British English <kde-i18n-doc@kde.org>
+kdevelop,3160,215,619,606,62,54,3160,3994,79.11867801702553,British English <kde-i18n-doc@kde.org>
+kdevelop-php,353,6,12,57,2,4,353,371,95.14824797843666,British English <kde-i18n-doc@kde.org>
+kdevplatform,6280,1076,985,1363,241,147,6279,8341,75.29073252607601,British English <kde-i18n-doc@kde.org>
+kdiff3,3546,37,61,637,6,7,3546,3644,97.31064763995609,British English <kde-i18n-doc@kde.org>
+keurocalc,239,37,15,98,10,8,239,291,82.13058419243985,British English <kde-en-gb@kde.me.uk>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kgrab,370,0,0,53,0,0,370,370,100.0,British English <kde-i18n-doc@kde.org>
+kiconedit,726,0,0,155,0,0,726,726,100.0,British English <kde-i18n-doc@kde.org>
+kile,10727,294,141,1849,35,18,10730,11162,96.10284895180075,British English <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,17,17,100.0,British English <kde-i18n-doc@kde.org>
+kio_sysinfo,144,10,14,58,4,10,144,168,85.71428571428571,en_GB <kde-i18n-doc@kde.org>
+klavaro,803,432,678,106,65,62,636,1913,41.97595399895452,en_GB <GB@li.org>
+kmid2,1018,0,4,332,0,1,1018,1022,99.60861056751467,British English <kde-i18n-doc@kde.org>
+kmldonkey,1830,0,0,436,0,0,1830,1830,100.0,British English <kde-i18n-doc@kde.org>
+kmplayer,1248,1,0,370,1,0,1243,1249,99.919935948759,British English <kde-i18n-doc@kde.org>
+kmymoney,17445,625,1084,2972,128,81,17445,19154,91.07758170617105,British English <kde-i18n-doc@kde.org>
+knemo,1186,0,0,347,0,0,1186,1186,100.0,British English <kde-i18n-doc@kde.org>
+koffice-kivio,7870,282,265,2264,38,59,7868,8417,93.50124747534751,British English <kde-en-gb@kde.me.uk>
+konversation,9969,354,299,1569,44,23,9973,10622,93.85238184899266,British English <kde-i18n-doc@kde.org>
+kopete-cryptography,408,0,0,41,0,0,408,408,100.0,British English <kde-i18n-doc@kde.org>
+kphotoalbum,5103,1017,1410,695,56,86,5099,7530,67.76892430278885,British English <kde-i18n-doc@kde.org>
+kpilot,7156,0,0,861,0,0,7157,7156,100.0,British English <kde-en-gb@kde.me.uk>
+krecipes,1974,404,709,347,90,131,1973,3087,63.94557823129252,British English <kde-en-gb@kde.me.uk>
+krusader,5159,2137,660,1290,358,89,5159,7956,64.84414278531926,British English <kde-i18n-doc@kde.org>
+ksig,71,2,12,17,1,8,72,85,83.52941176470588,British English <kde-en-gb@kde.me.uk>
+ktorrent,5503,992,1244,1176,130,83,5491,7739,71.10737821423957,British English <kde-i18n-doc@kde.org>
+ktp-accounts-kcm,30,16,447,6,8,101,30,493,6.085192697768763,British English <kde-i18n-doc@kde.org>
+ktp-call-ui,29,35,161,23,14,34,29,225,12.88888888888889,British English <kde-i18n-doc@kde.org>
+kupfer,147,0,19,38,0,5,158,166,88.55421686746988,British English
+kwebkitpart,432,91,101,115,19,24,432,624,69.23076923076923,British English <kde-i18n-doc@kde.org>
+kxstitch,780,0,1,286,0,1,781,781,99.8719590268886,<en@li.org>
+ladspa-blop-plugins,0,0,377,0,0,109,0,377,0.0,English <idontknow@somewhere.org>
+ladspa-swh-plugins,0,0,1076,0,0,401,0,1076,0.0,English <en@translate.freefriends.org>
+libbonobo,543,0,0,107,0,0,543,543,100.0,British English <en@li.org>
+libbonoboui,368,0,0,115,0,0,383,368,100.0,
+libbtctl,12,0,28,3,0,5,12,40,30.0,
+libcryptui,3012,0,0,654,0,0,3034,3012,100.0,British English <en@li.org>
+libepc,141,0,0,25,0,0,140,141,100.0,
+libexif,6930,47,0,1172,5,0,6930,6977,99.32635803353878,English (United Kingdom) <en_GB@li.org>
+libfm,859,0,0,260,0,0,858,859,100.0,English UK en_GB <yorvik.ubunto@gmail.com>
+libgda,1560,3480,4741,381,767,677,1560,9781,15.949289438707698,English/GB <en@li.org>
+libgdata,597,0,0,74,0,0,597,597,100.0,British English <en@li.org>
+libgdl,592,0,0,86,0,0,592,592,100.0,British English <en@li.org>
+libgnome,1773,0,0,273,0,0,1773,1773,100.0,British English <en@li.org>
+libgnome-keyring,44,0,0,9,0,0,44,44,100.0,British English <en@li.org>
+libgnome-media-profiles,460,0,0,51,0,0,460,460,100.0,British English <en@li.org>
+libgnomecanvas,378,0,0,95,0,0,378,378,100.0,
+libgnomecups,210,0,0,54,0,0,210,210,100.0,
+libgnomekbd,242,0,0,55,0,0,241,242,100.0,British English <en@li.org>
+libgnomeprint22,168,0,0,98,0,0,168,168,100.0,
+libgnomeprintui22,481,0,0,154,0,0,481,481,100.0,English/GB <en@li.org>
+libgnomeui,1309,0,0,334,0,0,1309,1309,100.0,<en@li.org>
+libgsf,249,0,0,35,0,0,250,249,100.0,Sugar Labs
+libgtop2,126,0,0,40,0,0,126,126,100.0,English/GB <en@li.org>
+libguestfs,543,0,8073,45,0,889,543,8616,6.302228412256268,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+libgweather,6090,0,0,4555,0,0,6089,6090,100.0,British English <en@li.org>
+libgxim,44,5,81,6,2,18,44,130,33.84615384615385,none
+libkexif,21,4,0,13,1,0,21,25,84.0,British English <kde-en-gb@kde.me.uk>
+libktorrent,274,194,51,70,37,8,274,519,52.79383429672448,British English <kde-i18n-doc@kde.org>
+libmate,1773,0,0,273,0,0,1773,1773,100.0,LANGUAGE <LL@li.org>
+libmatecanvas,378,0,0,95,0,0,378,378,100.0,LANGUAGE <LL@li.org>
+libmatecomponent,543,0,0,107,0,0,543,543,100.0,LANGUAGE <LL@li.org>
+libmatecomponentui,368,0,0,115,0,0,383,368,100.0,LANGUAGE <LL@li.org>
+libmatekbd,292,0,0,62,0,0,291,292,100.0,British English <en@li.org>
+libmatekeyring,44,0,0,9,0,0,44,44,100.0,LANGUAGE <LL@li.org>
+libmateui,1223,0,0,319,0,0,1223,1223,100.0,LANGUAGE <LL@li.org>
+libmateweather,6074,0,16,4554,0,1,6073,6090,99.73727422003284,LANGUAGE <LL@li.org>
+libmatewnck,1124,0,0,241,0,0,1124,1124,100.0,<en@li.org>
+libmx,40,0,0,16,0,0,40,40,100.0,British English <margie@linux.intel.com>
+libpeas,105,0,0,26,0,0,105,105,100.0,British English <en@li.org>
+libreoffice,531817,0,0,73700,0,0,533935,531817,100.0,LANGUAGE <LL@li.org>
+libreport,760,0,1584,156,0,168,760,2344,32.42320819112628,English (United Kingdom) (http://www.transifex.com/projects/p/fedora/language/en_GB/)
+libsocialweb,148,0,0,12,0,0,148,148,100.0,British English <margie@linux.intel.com>
+libuser,1026,0,463,218,0,90,1026,1489,68.90530557421089,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+libvirt,1404,14379,18134,316,2622,2699,1404,33917,4.1395170563434265,English (British) <en_GB@li.org>
+libwnck,1124,0,0,241,0,0,1124,1124,100.0,<en@li.org>
+libwnck3,1084,0,0,230,0,0,1084,1084,100.0,British English <en@li.org>
+libxfce4menu,31,0,0,5,0,0,32,31,100.0,English/GB
+libxfce4ui,149,0,0,31,0,0,149,149,100.0,English/GB
+libxfce4util,424,0,0,7,0,0,424,424,100.0,
+libxfcegui4,139,0,0,44,0,0,139,139,100.0,
+lightdm,79,0,0,17,0,0,79,79,100.0,English (United Kingdom) <en_GB@li.org>
+lightdm-gtk,56,0,0,18,0,0,56,56,100.0,English (United Kingdom) <en_GB@li.org>
+listen,424,1,1358,182,1,366,441,1783,23.780145821648908,UK English <en_GB@li.org>
+liveusb-creator,480,0,0,52,0,0,480,480,100.0,British English <en@li.org>
+logjam,10,0,2306,4,0,585,10,2316,0.4317789291882556,<none>
+lucidlife,39,0,0,15,0,0,39,39,100.0,English
+lxappearance,212,0,0,74,0,0,213,212,100.0,en_GB <LL@li.org>
+lxappearance-obconf,184,0,0,25,0,0,184,184,100.0,<yorvyik.ubunto@gmail.com>
+lxinput,72,0,0,24,0,0,71,72,100.0,English UK en_GB
+lxmenu-data,97,0,0,37,0,0,97,97,100.0,English (British) <en@li.org>
+lxpanel,987,0,0,336,0,0,989,987,100.0,English UK en_GB <yorvik.ubunto@googlemail.com>
+lxpolkit,15,0,0,9,0,0,15,15,100.0,English UK en_GB <yorvik.ubunto@gmail.com>
+lxrandr,122,0,0,27,0,0,121,122,100.0,English UK en_GB
+lxsession,36,0,0,14,0,0,36,36,100.0,English UK en_GB <yorvik.ubunto@gmail.com>
+lxsession-edit,64,0,0,11,0,0,64,64,100.0,English UK en_GB <yorvik.ubunto@gmail.com>
+lxshortcut,43,0,0,19,0,0,43,43,100.0,English UK en_GB <yorvik.ubunto@gmail.com>
+lxterminal,144,0,0,85,0,0,143,144,100.0,English UK en_GB <yorvik.ubunto@gmail.com>
+mana,1828,1014,573,482,262,131,1837,3415,53.52855051244509,English (United Kingdom) <en_GB@li.org>
+manaplus,758,0,3674,278,0,1105,758,4432,17.102888086642597,LANGUAGE <LL@li.org>
+manaworld,1878,913,459,492,236,102,1887,3250,57.78461538461539,English (United Kingdom) <en_GB@li.org>
+mate-applet-lockkeys,26,1,18,9,1,2,26,45,57.77777777777777,Bulgarian
+mate-applet-softupd,34,3,1,8,1,1,34,38,89.47368421052632,English
+mate-applets,15624,0,357,1673,0,91,15691,15981,97.76609724047306,en_GB <en@li.org>
+mate-backgrounds,23,0,7,17,0,4,22,30,76.66666666666667,LANGUAGE <LL@li.org>
+mate-bluetooth,655,0,0,179,0,0,656,655,100.0,British English <en@li.org>
+mate-calc,1404,0,0,433,0,0,1418,1404,100.0,British English <en@li.org>
+mate-character-map,2538,0,0,459,0,0,2534,2538,100.0,British English <en@li.org>
+mate-conf,3988,0,44,482,0,2,3988,4032,98.90873015873017,LANGUAGE <LL@li.org>
+mate-conf-editor,2834,0,0,238,0,0,2845,2834,100.0,British English <en@li.org>
+mate-control-center,2789,0,56,614,0,14,2809,2845,98.03163444639719,en_GB <en@li.org>
+mate-desktop,267,0,140,37,0,6,267,407,65.6019656019656,LANGUAGE <LL@li.org>
+mate-dialogs,2980,0,0,406,0,0,3005,2980,100.0,British English <en@li.org>
+mate-doc-utils,251,0,0,101,0,0,252,251,100.0,LANGUAGE <LL@li.org>
+mate-document-viewer,3411,0,0,583,0,0,3433,3411,100.0,British English <en@li.org>
+mate-file-archiver,7124,0,0,778,0,0,7153,7124,100.0,British English <en@li.org>
+mate-file-manager,8050,0,1036,1365,0,111,8069,9086,88.59784283513096,LANGUAGE <LL@li.org>
+mate-file-manager-open-terminal,24,0,58,5,0,2,24,82,29.268292682926827,LANGUAGE <LL@li.org>
+mate-file-manager-sendto,310,0,0,65,0,0,310,310,100.0,British English <en@li.org>
+mate-file-manager-share,222,0,0,35,0,0,222,222,100.0,en_GB <en@li.org>
+mate-icon-theme,43,0,0,38,0,0,43,43,100.0,<en@li.org>
+mate-image-viewer,4896,0,0,549,0,0,4932,4896,100.0,British English <en@li.org>
+mate-keyring,1075,0,98,217,0,26,1074,1173,91.64535379369138,LANGUAGE <LL@li.org>
+mate-media,2867,0,0,410,0,0,2891,2867,100.0,en_GB <en@li.org>
+mate-menu-editor,42,0,0,16,0,0,42,42,100.0,LANGUAGE <LL@li.org>
+mate-menus,161,0,0,57,0,0,161,161,100.0,British English <en@li.org>
+mate-mime-data,887,0,0,362,0,0,887,887,100.0,LANGUAGE <LL@li.org>
+mate-panel,5723,0,250,703,0,31,5756,5973,95.81449857692952,British English <en@li.org>
+mate-polkit,311,0,0,48,0,0,311,311,100.0,
+mate-power-manager,6716,0,0,641,0,0,6730,6716,100.0,British English <en@li.org>
+mate-screensaver,989,0,0,157,0,0,994,989,100.0,British English <en@li.org>
+mate-session-manager,572,0,0,104,0,0,572,572,100.0,British English <en@li.org>
+mate-settings-daemon,1650,0,85,233,0,9,1650,1735,95.10086455331412,LANGUAGE <LL@li.org>
+mate-system-monitor,933,0,0,244,0,0,955,933,100.0,British English <en@li.org>
+mate-terminal,7896,0,0,771,0,0,7921,7896,100.0,British English <en@li.org>
+mate-text-editor,4955,0,31,1097,0,8,4994,4986,99.37825912555155,LANGUAGE <LL@li.org>
+mate-themes,95,0,13,22,0,8,97,108,87.96296296296296,LANGUAGE <LL@li.org>
+mate-user-share,326,0,0,51,0,0,329,326,100.0,British English <en@li.org>
+mate-utils,10065,0,0,1123,0,0,10097,10065,100.0,British English <en@li.org>
+mate-vfs,1519,0,0,305,0,0,1519,1519,100.0,LANGUAGE <LL@li.org>
+mate-window-manager,2076,0,40,322,0,4,2076,2116,98.10964083175804,LANGUAGE <LL@li.org>
+meld,849,0,0,238,0,0,849,849,100.0,<en@li.org>
+metacity,2040,0,0,310,0,0,2040,2040,100.0,British English <en@li.org>
+midori,2699,0,0,652,0,0,2710,2699,100.0,British English <en_GB@li.org>
+mingw-atk,398,0,0,139,0,0,398,398,100.0,British English <en@li.org>
+mingw-gdk-pixbuf,1345,0,0,201,0,0,1345,1345,100.0,British English <en@li.org>
+mingw-glib-networking,135,0,0,24,0,0,135,135,100.0,British English <en@li.org>
+mingw-glib2,5204,4,0,802,1,0,5214,5208,99.9231950844854,British English <en@li.org>
+mingw-goocanvas2,0,0,1730,0,0,271,0,1730,0.0,
+mingw-gstreamer,685,405,827,151,78,119,685,1917,35.732916014606154,English (British) <en_gb@li.org>
+mingw-gstreamer-plugins-bad-free,25,37,34,4,6,4,25,96,26.041666666666668,English (British) <en_gb@li.org>
+mingw-gstreamer-plugins-base,40,131,737,13,18,147,40,908,4.405286343612335,English (British) <en_gb@li.org>
+mingw-gstreamer-plugins-good,35,221,558,26,42,122,35,814,4.2997542997543,English (British) <en_gb@li.org>
+mingw-gtk-vnc,81,0,0,22,0,0,81,81,100.0,British English <en_GB@li.org>
+mingw-gtk2,12441,0,0,2588,0,0,12431,12441,100.0,British English <en@li.org>
+mingw-gtk3,13130,0,0,2803,0,0,13186,13130,100.0,British English <en@li.org>
+mingw-gtkhtml3,488,0,0,310,0,0,488,488,100.0,British English <en@li.org>
+mingw-gtksourceview3,1547,0,0,626,0,0,1555,1547,100.0,British English <en@li.org>
+mingw-libgsf,249,0,0,35,0,0,250,249,100.0,Sugar Labs
+mingw-libvirt,1409,14263,17957,317,2597,2678,1409,33629,4.189836153320051,English (British) <en_GB@li.org>
+mingw-webkitgtk,1443,29,0,336,7,0,1443,1472,98.02989130434783,Sugar Labs
+mingw-webkitgtk3,1443,29,0,336,7,0,1443,1472,98.02989130434783,Sugar Labs
+miredo,334,0,249,27,0,45,335,583,57.289879931389365,N/A
+mlocate,563,0,9,50,0,1,563,572,98.42657342657343,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+mousepad,135,0,0,64,0,0,135,135,100.0,English/GB
+mousetweaks,3782,0,0,218,0,0,3785,3782,100.0,British English <en@li.org>
+muffin,2071,0,0,283,0,0,2071,2071,100.0,British English <en@li.org>
+mutter,2071,0,0,283,0,0,2071,2071,100.0,British English <en@li.org>
+nautilus,7403,0,0,1192,0,0,7421,7403,100.0,British English <en@li.org>
+nautilus-actions,1465,88,1,166,3,1,1467,1554,94.27284427284427,en_GB <en@li.org>
+nautilus-open-terminal,166,0,0,16,0,0,166,166,100.0,British English <en@li.org>
+nautilus-sendto,310,0,0,65,0,0,310,310,100.0,British English <en@li.org>
+nemiver,670,0,0,199,0,0,673,670,100.0,en_GB <en@li.org>
+nemo,7403,0,0,1192,0,0,7421,7403,100.0,British English <en@li.org>
+net6,304,0,0,68,0,0,304,304,100.0,English (United Kingdom) <en_GB@li.org>
+nip2,18,0,3263,5,0,846,18,3281,0.5486132276744895,en_GB <LL@li.org>
+notification-daemon,17,0,0,7,0,0,17,17,100.0,British English <en@li.org>
+ntfs-config,247,0,110,41,0,18,247,357,69.187675070028,English (United Kingdom) <en_GB@li.org>
+obby,159,0,0,32,0,0,159,159,100.0,English (United Kingdom) <en_GB@li.org>
+openconnect,2579,0,27,473,0,2,2579,2606,98.96392939370683,English (United Kingdom) (http://www.transifex.com/projects/p/meego/language/en_GB/)
+openerp,14509,0,26120,2681,0,2339,14377,40629,35.71094538383913,English (United Kingdom) <en_GB@li.org>
+openerp-client,7729,0,0,574,0,0,3172,7729,100.0,English (United Kingdom) <en_GB@li.org>
+openstack-nova,733,84,8090,150,15,1373,734,8907,8.229482429549792,English (United Kingdom) <en_GB@li.org>
+orage,2289,22,81,794,2,5,2289,2392,95.69397993311036,British English <en_gb@li.org>
+orca,4090,0,0,1170,0,0,4101,4090,100.0,British English <en@li.org>
+osmo,1685,6,8,701,2,2,1685,1699,99.17598587404356,English UK en_GB <yorvik.ubunto@gmail.com>
+pan,2016,589,563,522,127,103,2027,3168,63.63636363636363,
+passwd,276,0,39,50,0,5,276,315,87.61904761904762,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/team/en_GB/)
+pastebinit,183,0,0,27,0,0,181,183,100.0,English (United Kingdom) <en_GB@li.org>
+pcmanfm,792,7,0,200,1,0,789,799,99.12390488110138,
+pessulus,146,0,0,35,0,0,146,146,100.0,British English <en@li.org>
+phatch,715,0,1838,318,0,506,716,2553,28.00626713670192,English (United Kingdom) <en_GB@li.org>
+picard,1600,0,81,650,0,18,1620,1681,95.18143961927424,English (United Kingdom) (http://www.transifex.com/projects/p/musicbrainz/language/en_GB/)
+pidgin,18076,216,64,3841,47,15,18095,18356,98.4746132054914,<en_GB@li.org>
+pidgin-guifications,442,32,31,183,4,5,444,505,87.52475247524752,English (British) <en_GB@li.org>
+pidgin-musictracker,333,0,0,60,0,0,333,333,100.0,English (United Kingdom) <en_GB@li.org>
+pinta,1074,0,237,377,0,69,1103,1311,81.92219679633868,English (United Kingdom) <en_GB@li.org>
+pioneers,2797,0,0,745,0,0,2793,2797,100.0,English (United Kingdom) <en_GB@li.org>
+pitivi,1546,0,0,406,0,0,1552,1546,100.0,British English <en@li.org>
+planner,1792,0,0,524,0,0,1806,1792,100.0,English (British) <en_gb@li.org>
+pmount,723,0,0,63,0,0,723,723,100.0,English (United Kingdom) <en_GB@li.org>
+pogo,0,0,576,0,0,101,0,576,0.0,English (United Kingdom) <en_GB@li.org>
+policycoreutils,1379,0,2924,241,0,489,1379,4303,32.0474087845689,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+polkit-gnome,311,0,0,48,0,0,311,311,100.0,
+polkit-kde,86,0,6,24,0,2,86,92,93.47826086956522,British English <kde-i18n-doc@kde.org>
+pootle,2424,0,0,459,0,0,2424,2424,100.0,
+powertop,91,8,346,27,2,94,91,445,20.44943820224719,English (United Kingdom) (http://www.transifex.com/projects/p/PowerTOP/language/en_GB/)
+preupgrade,801,0,0,122,0,0,804,801,100.0,British English <en@li.org>
+pspp,608,236,8045,84,28,1583,609,8889,6.839914501068736,John Darrington <john@darrington.wattle.id.au>
+publican-fedora,106,0,1,5,0,1,106,107,99.06542056074767,None
+pybliographer,971,0,0,262,0,0,971,971,100.0,English/GB <en@li.org>
+pykickstart,332,0,11,34,0,2,332,343,96.7930029154519,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/team/en_GB/)
+pyroom,411,0,0,74,0,0,413,411,100.0,English (United Kingdom) <en_GB@li.org>
+python-ase,3370,0,0,640,0,0,3370,3370,100.0,English (British) <ase-developers@listserv.fysik.dtu.dk>
+qbzr,1160,18,584,391,8,134,1160,1762,65.83427922814982,English (United Kingdom) <en_GB@li.org>
+qtwebkit,1443,29,0,336,7,0,1443,1472,98.02989130434783,Sugar Labs
+quarry,1807,0,0,447,0,0,1804,1807,100.0,
+quassel,4617,0,46,1044,0,9,4612,4663,99.0135106154836,
+quodlibet,1615,162,726,469,59,149,1616,2503,64.522572912505,Joe Wreschnig <piman@sacredchao.net>
+qutim,7165,0,1320,2782,0,357,7165,8485,84.44313494401887,English (United Kingdom) <en_GB@li.org>
+radiotray,23,0,94,9,0,34,26,117,19.65811965811966,English (United Kingdom) (http://www.transifex.net/projects/p/radiotray/team/en_GB/)
+rapid-photo-downloader,77,0,1333,28,0,267,77,1410,5.460992907801419,English (United Kingdom) <en_GB@li.org>
+redhat-menus,261,0,0,86,0,0,261,261,100.0,
+rednotebook,1056,0,0,233,0,0,1078,1056,100.0,English (United Kingdom) <en_GB@li.org>
+regexxer,467,0,0,100,0,0,470,467,100.0,English/GB <en@li.org>
+repsnapper,0,0,1257,0,0,475,0,1257,0.0,British English <gb@li.org>
+resapplet,106,0,0,22,0,0,106,106,100.0,en_GB <en@li.org>
+retrace-server,104,5,272,19,1,31,104,381,27.296587926509186,English (British)
+rhn-client-tools,0,0,4348,0,0,433,0,4348,0.0,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/team/en_GB/)
+rhnsd,0,0,37,0,0,9,0,37,0.0,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/team/en_GB/)
+rhythmbox,4089,0,0,1033,0,0,4100,4089,100.0,British English <en@li.org>
+ristretto,385,0,0,138,0,0,389,385,100.0,English/GB
+rsibreak,1304,0,0,163,0,0,1304,1304,100.0,British English <kde-i18n-doc@kde.org>
+rt3,7551,0,0,1808,0,0,7554,7551,100.0,English (United Kingdom) <en_GB@li.org>
+rygel,556,0,0,114,0,0,556,556,100.0,British English <en@li.org>
+sabayon,743,0,0,171,0,0,754,743,100.0,British English <en@li.org>
+sane-backends,4133,201,417,824,79,104,4084,4751,86.99221216585981,British English <kde-i18n-doc@kde.org>
+sawfish,6281,146,16,965,15,2,6281,6443,97.48564333385069,British English <en@li.org>
+seahorse,5705,0,0,836,0,0,5733,5705,100.0,en_GB <en@li.org>
+seahorse-nautilus,421,0,0,110,0,0,421,421,100.0,British English <en@li.org>
+seahorse-plugins,2674,0,0,356,0,0,2688,2674,100.0,British English <en@li.org>
+setroubleshoot,552,0,79,165,0,9,552,631,87.48019017432647,English (United Kingdom) (http://www.transifex.com/projects/p/fedora/language/en_GB/)
+setroubleshoot-plugins,3356,0,4935,83,0,316,3356,8291,40.477626341816425,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+setuptool,47,8,0,13,1,0,47,55,85.45454545454545,
+shared-mime-info,829,0,840,358,0,296,829,1669,49.670461354104255,LANGUAGE <LL@li.org>
+shotwell,4208,0,218,876,0,14,4208,4426,95.07455942159963,LANGUAGE <LL@li.org>
+shutter,3351,0,0,625,0,0,3395,3351,100.0,English (United Kingdom) <en_GB@li.org>
+simple-scan,651,0,0,118,0,0,673,651,100.0,English (United Kingdom) <en_GB@li.org>
+skanlite,158,8,9,54,3,2,158,175,90.28571428571428,British English <kde-i18n-doc@kde.org>
+skrooge,3662,2685,1167,929,665,229,3645,7514,48.73569337237157,British English <kde-i18n-doc@kde.org>
+sleuthkit,6276,613,72,1041,124,9,6276,6961,90.15945984772303,English (United Kingdom) <en_GB@li.org>
+smb4k,5231,778,353,539,110,26,5231,6362,82.22257151839044,British English <kde-i18n-doc@kde.org>
+sos,174,76,17,31,2,3,174,267,65.1685393258427,none
+sound-juicer,2806,0,0,292,0,0,2812,2806,100.0,British English <en@li.org>
+soundconverter,462,0,0,129,0,0,462,462,100.0,English (United Kingdom) <en_GB@li.org>
+spacewalk-backend,0,0,1895,0,0,223,0,1895,0.0,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/team/en_GB/)
+steadyflow,423,0,47,88,0,5,441,470,90.0,English (United Kingdom) <en_GB@li.org>
+stellarium,9286,0,0,2789,0,0,9288,9286,100.0,English (United Kingdom) <en_GB@li.org>
+subtitleeditor,1817,0,0,546,0,0,1822,1817,100.0,English (United Kingdom) <en_GB@li.org>
+sugar-abacus,29,0,0,25,0,0,29,29,100.0,LANGUAGE <LL@li.org>
+sugar-browse,81,0,0,35,0,0,81,81,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,859,0,0,166,0,0,857,859,100.0,LANGUAGE <LL@li.org>
+sugar-chat,50,0,0,33,0,0,50,50,100.0,LANGUAGE <LL@li.org>
+sugar-clock,22,0,0,12,0,0,552,22,100.0,LANGUAGE <LL@li.org>
+sugar-finance,143,0,0,32,0,0,143,143,100.0,LANGUAGE <LL@li.org>
+sugar-flip,17,0,0,7,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,75,0,0,32,0,0,75,75,100.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,68,0,0,23,0,0,67,68,100.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,81,0,0,31,0,0,81,81,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,0,11,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,200,0,0,56,0,0,200,200,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,298,0,0,102,0,0,298,298,100.0,LANGUAGE <LL@li.org>
+sugar-locosugar,74,0,0,12,0,0,74,74,100.0,LANGUAGE <LL@li.org>
+sugar-log,77,0,0,19,0,0,77,77,100.0,LANGUAGE <LL@li.org>
+sugar-measure,162,0,0,75,0,0,162,162,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,114,0,0,71,0,0,114,114,100.0,LANGUAGE <LL@li.org>
+sugar-moon,91,0,0,32,0,0,91,91,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,192,0,0,91,0,0,192,192,100.0,LANGUAGE <LL@li.org>
+sugar-paint,65,0,0,50,0,0,65,65,100.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,0,27,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,109,109,100.0,LANGUAGE <LL@li.org>
+sugar-portfolio,42,0,0,19,0,0,42,42,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,10,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,62,0,0,32,0,0,62,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,24,0,0,6,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,17,0,0,9,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2576,0,0,681,0,0,2577,2576,100.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,158,0,0,78,0,0,157,158,100.0,LANGUAGE <LL@li.org>
+sugar-write,80,0,0,47,0,0,80,80,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,23,0,0,6,0,0,23,23,100.0,LANGUAGE <LL@li.org>
+sugar-yupana,28,0,0,15,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sushi,15,0,0,9,0,0,15,15,100.0,British English <en@li.org>
+switchdesk,137,0,0,19,0,0,136,137,100.0,en_GB
+synapse,11,0,700,6,0,190,11,711,1.5471167369901548,English (United Kingdom) <en_GB@li.org>
+syncevolution,1132,0,0,163,0,0,1132,1132,100.0,English (United Kingdom) (http://www.transifex.net/projects/p/meego/team/en_GB/)
+synfig,3936,0,53,999,0,8,3922,3989,98.67134620205566,English (United Kingdom) <en_GB@li.org>
+synfigstudio,3922,0,45,1164,0,16,3926,3967,98.8656415427275,LANGUAGE <LL@li.org>
+system-config-bind,9286,84,49,1050,7,7,9295,9419,98.58796050536151,
+system-config-boot,119,0,0,23,0,0,119,119,100.0,
+system-config-date,1555,1,294,768,1,55,1555,1850,84.05405405405405,English (United Kingdom) (http://www.transifex.com/projects/p/fedora/language/en_GB/)
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,2663,30,121,320,3,8,2666,2814,94.63397299218195,British English <en@li.org>
+system-config-httpd,858,0,0,223,0,0,858,858,100.0,
+system-config-kdump,235,87,485,13,19,106,235,807,29.120198265179674,British English <en@li.org>
+system-config-keyboard,169,18,0,71,10,0,169,187,90.37433155080214,en_GB
+system-config-kickstart,770,170,164,191,37,17,770,1104,69.7463768115942,
+system-config-language,293,0,30,54,0,2,293,323,90.71207430340557,British English <en@li.org>
+system-config-lvm,2246,0,0,344,0,0,2246,2246,100.0,British English <en@li.org>
+system-config-network,2457,314,261,622,57,42,2457,3032,81.03562005277045,
+system-config-nfs,306,0,26,68,0,4,306,332,92.16867469879519,
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,3052,5,0,740,2,0,3055,3057,99.83644095518483,<en@li.org>
+system-config-rootpassword,15,26,75,3,5,11,15,116,12.931034482758621,en_GB
+system-config-samba,299,0,272,105,0,29,299,571,52.364273204903675,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,397,0,121,56,0,15,408,518,76.64092664092664,English (United Kingdom) (http://www.transifex.com/projects/p/fedora/language/en_GB/)
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1373,0,79,169,0,4,1384,1452,94.55922865013774,English (United Kingdom) (http://www.transifex.com/projects/p/fedora/language/en_GB/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,81,81,100.0,British English
+system-switch-mail,0,134,0,0,20,0,0,134,0.0,none
+tagtool,952,1,5,207,1,3,952,958,99.37369519832986,
+tellico,5427,210,128,1117,61,31,5427,5765,94.13703382480486,British English <kde-i18n-doc@kde.org>
+terminator,326,0,400,118,0,136,326,726,44.90358126721763,English (United Kingdom) <en_GB@li.org>
+thunar-archive-plugin,86,0,0,13,0,0,86,86,100.0,British English <xfce-i18n@xfce.org
+thunar-vcs-plugin,495,5,6,278,2,2,495,506,97.82608695652173,English/GB
+thunar-vfs,387,0,0,86,0,0,387,387,100.0,English/GB <xfce-i18n@xfce.org>
+thunar-volman,466,20,0,114,2,0,466,486,95.88477366255144,English/GB
+tilda,335,0,61,96,0,11,338,396,84.59595959595958,English (United Kingdom) <en_GB@li.org>
+tomboy,6994,0,0,737,0,0,7013,6994,100.0,en_GB <en@li.org>
+tortoisehg,2070,0,8425,504,0,1579,2069,10495,19.723677941877085,English (United Kingdom) <en_GB@li.org>
+totem,6953,0,0,827,0,0,6976,6953,100.0,British English <en@li.org>
+totem-pl-parser,28,0,0,7,0,0,28,28,100.0,English/GB <en@li.org>
+trac,5685,0,0,1161,0,0,5683,5685,100.0,en_GB <trac-dev@googlegroups.com>
+tracker,3200,0,0,536,0,0,3201,3200,100.0,Sugar Labs
+transifex,1404,15,5005,341,6,726,1398,6424,21.85554171855542,English (United Kingdom) (http://www.transifex.net/projects/p/transifex/team/en_GB/)
+transmission,1809,0,0,494,0,0,1869,1809,100.0,English (United Kingdom) <en_GB@li.org>
+tumbler,293,0,0,47,0,0,293,293,100.0,en_GB
+tuxmath,798,138,518,154,19,75,798,1454,54.88308115543329,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+tuxpaint,1187,49,11,243,4,5,1186,1247,95.18845228548516,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+tuxpaint-stamps,2709,2,0,649,1,0,2737,2711,99.926226484692,English (Great Britain)
+tuxtype2,79,0,1,39,0,1,79,80,98.75,LANGUAGE <LL@li.org>
+usermode,524,0,48,86,0,10,527,572,91.6083916083916,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+viking,89,0,3300,27,0,831,90,3389,2.626143405134258,English (United Kingdom) <en_GB@li.org>
+vim,515,0,0,80,0,0,538,515,100.0,Mike Williams <mrw@eandem.co.uk>
+vinagre,1419,0,0,256,0,0,1431,1419,100.0,British English <en@li.org>
+vino,1209,0,0,131,0,0,1231,1209,100.0,British English <en@li.org>
+vips,13,0,2626,3,0,580,13,2639,0.49261083743842365,
+virtaal,1433,0,0,426,0,0,1436,1433,100.0,English <translate-devel@lists.sourceforge.net>
+volume_key,720,0,25,145,0,6,719,745,96.64429530201343,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/language/en_GB/)
+vorbis-tools,957,1084,2068,186,147,168,957,4109,23.290338281820393,English (British) <en_gb@li.org>
+vte,80,0,0,13,0,0,80,80,100.0,British English <en@li.org>
+vte3,80,0,0,13,0,0,80,80,100.0,British English <en@li.org>
+warzone2100,8203,1761,3037,1960,469,346,8201,13001,63.09514652719022,English (United Kingdom) <en_GB@li.org>
+wdiff,98,685,89,14,90,15,98,872,11.238532110091743,English (British) <en_gb@li.org>
+webkitgtk,1443,29,0,336,7,0,1443,1472,98.02989130434783,Sugar Labs
+webkitgtk3,1443,29,0,336,7,0,1443,1472,98.02989130434783,Sugar Labs
+wesnoth,245252,121,0,15324,3,0,245254,245373,99.95068732093588,English (British) <http://wiki.wesnoth.org/EnglishGBTranslation>
+wget,426,513,1400,106,91,205,426,2339,18.212911500641297,English (British) <en_gb@li.org>
+whaawmp,565,0,234,115,0,45,572,799,70.71339173967459,English (United Kingdom) <en_GB@li.org>
+wicd,1058,0,0,231,0,0,1058,1058,100.0,en_GB <LL@li.org>
+wicd-kde,329,9,15,113,4,5,329,353,93.20113314447592,British English <kde-i18n-doc@kde.org>
+widelands,22348,0,13236,2450,0,696,22368,35584,62.8035071942446,English (United Kingdom) <en_GB@li.org>
+wxPython,30,0,2245,6,0,686,23,2275,1.3186813186813187,English (United Kingdom) <en_GB@li.org>
+xarchiver,1101,30,0,274,3,0,1104,1131,97.34748010610079,English/GB
+xchat-gnome,4064,0,0,1050,0,0,4076,4064,100.0,British English <en@li.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,81,81,100.0,en_GB <en@li.org>
+xfburn,1300,0,0,283,0,0,1300,1300,100.0,English/GB
+xfce-utils,492,0,0,72,0,0,492,492,100.0,English/GB
+xfce4-appfinder,23,22,141,5,7,32,23,186,12.365591397849462,
+xfce4-battery-plugin,149,0,0,43,0,0,149,149,100.0,British English <xfce-i18n@xfce.org>
+xfce4-clipman-plugin,250,16,81,45,3,13,251,347,72.04610951008645,British English <xfce-i18n@xfce.org>
+xfce4-cpufreq-plugin,23,0,0,7,0,0,23,23,100.0,English/GB
+xfce4-cpugraph-plugin,74,0,0,36,0,0,74,74,100.0,English/GB
+xfce4-datetime-plugin,52,0,0,19,0,0,52,52,100.0,English/GB
+xfce4-dict,340,57,105,77,11,21,344,502,67.72908366533864,English/GB
+xfce4-diskperf-plugin,153,8,22,33,3,2,153,183,83.60655737704919,English/GB
+xfce4-eyes-plugin,9,0,0,3,0,0,9,9,100.0,English/GB
+xfce4-fsguard-plugin,71,0,0,19,0,0,71,71,100.0,English/GB
+xfce4-genmon-plugin,71,0,0,15,0,0,71,71,100.0,English/GB
+xfce4-icon-theme,8,0,0,2,0,0,8,8,100.0,English/GB
+xfce4-mailwatch-plugin,572,33,54,98,5,7,564,659,86.79817905918058,English/GB
+xfce4-mount-plugin,298,0,0,44,0,0,299,298,100.0,British English <xfce-i18n@xfce.org>
+xfce4-mpc-plugin,69,5,2,21,1,2,69,76,90.78947368421053,English/GB
+xfce4-netload-plugin,68,0,0,21,0,0,68,68,100.0,English/GB
+xfce4-notes-plugin,109,1,1,45,1,1,109,111,98.1981981981982,English/GB
+xfce4-notifyd,94,0,0,27,0,0,94,94,100.0,en_GB
+xfce4-panel,1504,0,0,344,0,0,1508,1504,100.0,
+xfce4-places-plugin,140,0,0,38,0,0,140,140,100.0,
+xfce4-power-manager,746,0,0,208,0,0,750,746,100.0,
+xfce4-radio-plugin,65,0,0,29,0,0,65,65,100.0,English/GB
+xfce4-screenshooter,443,0,0,73,0,0,443,443,100.0,English/GB <en@li.org>
+xfce4-sensors-plugin,293,56,5,68,2,2,293,354,82.7683615819209,English/GB
+xfce4-session,1132,0,0,230,0,0,1131,1132,100.0,English/GB
+xfce4-settings,1277,0,0,266,0,0,1277,1277,100.0,en_GB
+xfce4-smartbookmark-plugin,14,0,0,8,0,0,14,14,100.0,English/GB
+xfce4-systemload-plugin,70,0,0,22,0,0,70,70,100.0,English/GB
+xfce4-taskmanager,9,22,92,9,12,24,10,123,7.317073170731707,English/GB
+xfce4-time-out-plugin,88,0,0,31,0,0,91,88,100.0,English/GB
+xfce4-timer-plugin,94,0,0,32,0,0,94,94,100.0,English/GB
+xfce4-verve-plugin,47,0,0,10,0,0,47,47,100.0,British English
+xfce4-wavelan-plugin,49,0,0,11,0,0,49,49,100.0,English/GB
+xfce4-weather-plugin,70,139,3385,50,63,211,70,3594,1.9476905954368393,British English <xfce-i18n@xfce.org>
+xfce4-websearch-plugin,13,0,0,5,0,0,13,13,100.0,English/GB
+xfce4-wmdock-plugin,52,0,0,12,0,0,52,52,100.0,none <LL@li.org>
+xfce4-xkb-plugin,72,2,0,25,1,0,72,74,97.2972972972973,English/GB
+xfconf,437,0,0,63,0,0,437,437,100.0,en_GB
+xfdesktop,835,0,0,199,0,0,833,835,100.0,
+xfmpc,131,0,36,56,0,14,134,167,78.44311377245509,English/GB
+xfwm4,837,0,0,230,0,0,837,837,100.0,
+xiphos,3908,0,0,845,0,0,3898,3908,100.0,British English <gnomesword-devel@lists.sourceforge.net>
+xkeyboard-config,1040,119,36,366,42,15,1061,1195,87.02928870292888,English <en_gb@li.org>
+xmms,3177,65,201,1003,17,25,3177,3443,92.27417949462678,British English
+xpad,226,0,144,66,0,12,241,370,61.08108108108108,English (British) <en_gb@li.org>
+yakuake,1439,0,0,212,0,0,1440,1439,100.0,British English <kde-i18n-doc@kde.org>
+yelp-xsl,80,0,0,58,0,0,80,80,100.0,British English <en@li.org>
+yum,3063,0,6,657,0,3,3063,3069,99.80449657869013,English (United Kingdom) (http://www.transifex.net/projects/p/yum/team/en_GB/)
+yum-rhn-plugin,0,0,119,0,0,15,0,119,0.0,English (United Kingdom) (http://www.transifex.net/projects/p/fedora/team/en_GB/)
+zenity,3085,0,0,427,0,0,3110,3085,100.0,British English <en@li.org>
+zif,0,0,874,0,0,233,0,874,0.0,English (United Kingdom) (http://www.transifex.net/projects/p/freedesktop/language/en_GB/)

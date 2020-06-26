@@ -1,0 +1,26 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,12039,0,0,2275,0,0,11744,12039,100.0,Serbian <kde-i18n-sr@kde.org>
+at-spi,15,0,0,4,0,0,18,15,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+atk,359,8,8,114,7,5,336,375,95.73333333333333,Serbian (sr) <gnom@prevod.org>
+file-roller,799,138,34,205,32,7,766,971,82.28630278063852,Serbian (sr) <serbiangnome-lista@nongnu.org>
+glib2,669,519,1265,74,95,231,613,2453,27.27272727272727,Serbian (sr) <serbiagnome-lista@nongnu.org>
+gnome-mime-data,887,0,0,362,0,0,943,887,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-panel,3423,331,183,445,46,26,3150,3937,86.94437388874778,Serbian (sr) <serbiagnome-lista@nongnu.org>
+gnome-vfs2,747,352,183,165,51,32,706,1282,58.268330733229334,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gtk2,6917,3257,3184,1250,772,711,6475,13358,51.781703847881424,Serbian (sr) <serbiangnome-lista@nongnu.org>
+kaffeine,489,4,14,233,2,3,499,507,96.44970414201184,Serbian <kde-i18n-sr@kde.org>
+kde-l10n,243136,0,0,50166,0,0,229893,243136,100.0,Serbian <kde-i18n-sr@kde.org>
+kmid2,947,0,0,311,0,0,902,947,100.0,sr <kde-i18n-sr@kde.org>
+knemo,1052,28,23,292,4,11,1003,1103,95.37624660018132,Serbian <kde-i18n-sr@kde.org>
+konq-plugins,1692,0,0,546,0,0,1705,1692,100.0,Serbian <kde-i18n-sr@kde.org>
+ktorrent,7562,0,0,1329,0,0,6364,7562,100.0,Serbian <kde-i18n-sr@kde.org>
+kwebkitpart,457,18,2,121,2,1,429,477,95.80712788259959,Serbian <kde-i18n-sr@kde.org>
+libbonoboui,314,7,39,92,3,18,323,360,87.22222222222223,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgnome,1407,0,0,219,0,0,1370,1407,100.0,Serbian (sr) <gnom@prevod.org>
+libgnomecanvas,357,0,0,94,0,0,369,357,100.0,Serbian (sr) <serbiagnome-lista@nongnu.org>
+libgnomeui,1270,83,66,314,19,12,1175,1419,89.49964763918253,Serbian (sr) <gnom@prevod.org>
+libktorrent,417,0,0,92,0,0,460,417,100.0,Serbian <kde-i18n-sr@kde.org>
+mingw32-atk,359,8,8,114,7,5,336,375,95.73333333333333,Serbian (sr) <gnom@prevod.org>
+mingw32-glib2,669,519,1275,74,95,234,613,2463,27.161997563946404,Serbian (sr) <serbiagnome-lista@nongnu.org>
+mingw32-gtk2,6917,3252,3182,1250,771,710,6475,13351,51.80885326941802,Serbian (sr) <serbiangnome-lista@nongnu.org>
+nautilus,6241,524,211,1094,97,23,5750,6976,89.46387614678899,Serbian (sr) <serbiangnome-lista@nongnu.org>

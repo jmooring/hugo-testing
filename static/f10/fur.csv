@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,44,42,100.0,FRIULIAN <massimo.furlani@libero.it>
+eog,1183,17,5,274,4,2,1409,1205,98.17427385892115,Friulian language team
+file-roller,1149,0,0,257,0,0,1306,1149,100.0,Friulian Language Team
+gdm,154,11,1132,43,9,175,186,1297,11.87355435620663,FRIULIAN <massimo.furlani@libero.it>
+gnome-backgrounds,18,0,0,9,0,0,19,18,100.0,Friulian <massimo.furlani@libero.it>
+gnome-desktop,288,0,0,70,0,0,367,288,100.0,Friulian <massimo.furlani@libero.it>
+gnome-icon-theme,43,0,0,38,0,0,44,43,100.0,FRIULIAN <massimo.furlani@libero.it>
+gnome-menus,165,0,0,58,0,0,204,165,100.0,FRIULIAN <massimo.furlani@libero.it>
+gnome-netstatus,409,4,4,102,1,3,502,417,98.08153477218225,Friulian Language Team
+gnome-panel,3319,31,1372,561,7,91,3851,4722,70.28801355357899,FRIULIAN <massimo.furlani@libero.it>
+gnome-session,897,0,2,129,0,1,1029,899,99.77753058954394,Friulian <massimo.furlani@libero.it>
+gnome-terminal,3987,0,672,435,0,65,4360,4659,85.57630392788153,Friulian <massimo.furlani@libero.it>
+gnome-themes,85,0,0,26,0,0,102,85,100.0,Friulian <massimo.furlani@libero.it>
+gtk2-engines,99,0,0,45,0,0,138,99,100.0,FRIULIAN <massimo.furlani@libero.it>
+libgnome,1082,0,572,186,0,69,1295,1654,65.41717049576783,FRIULIAN <massimo.furlani@libero.it>
+libgnomeprintui22,403,0,78,141,0,13,439,481,83.78378378378379,Friulian Language Team
+libgnomeui,1309,0,0,334,0,0,1487,1309,100.0,Friulian <massimo.furlani@libero.it>
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,FRIULIAN <massimo.furlani@libero.it>
+nautilus,3256,5,4371,762,3,498,3589,7632,42.662473794549264,Friulian Language Team
+poedit,1031,105,26,244,23,2,1225,1162,88.7263339070568,Klenje <adecorte@fastwebnet.it>
+yelp,307,0,728,103,0,246,344,1035,29.66183574879227,Friulian Language Team

@@ -1,0 +1,379 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Afrikaans (http://www.transifex.com/projects/p/fedora-abrt/language/af/)
+adwaita-icon-theme,43,0,0,38,0,0,39,43,100.0,Afrikaans localisation list<translate-discuss-af@lists.sourceforge.net>
+aisleriot,1893,50,44,525,12,12,1642,1987,95.26925012581782,translate-discuss-af@lists.sourceforge.net
+alacarte,42,0,0,16,0,0,42,42,100.0,translate-discuss-af@lists.sourceforge.net
+anaconda,203,0,6512,38,0,1080,215,6715,3.0230826507818316,Afrikaans (http://www.transifex.com/projects/p/anaconda/language/af/)
+asunder,16,0,464,15,0,72,16,480,3.3333333333333335,http://littlesvr.ca/ostd/
+atk,334,31,10,108,12,6,288,375,89.06666666666668,Afrikaans <servine_lauvi@hotmail.com>
+atomix,108,0,0,53,0,0,110,108,100.0,translate-discuss-af@lists.sourceforge.net
+atril,850,0,797,245,0,144,878,1647,51.608986035215544,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+audacity,1926,1715,8595,617,536,1631,1889,12236,15.740438051650866,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+avogadro,27,0,538,17,0,229,54,565,4.778761061946903,Afrikaans <af@li.org>
+baobab,229,5,306,45,2,79,236,540,42.407407407407405,translate-discuss-af@lists.sourceforge.net
+bash,45,804,10329,15,233,312,51,11178,0.40257648953301123,Afrikaans <i18n@af.org.za>
+blueman,2,0,1444,2,0,349,13,1446,0.13831258644536654,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+brasero,4286,129,1131,805,11,152,4324,5546,77.28092318788316,translate-discuss-af@lists.sourceforge.net
+caja,5120,0,4124,1017,0,480,5290,9244,55.3872782345305,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+calibre,1723,0,145305,396,0,16837,1692,147028,1.171885627227467,Afrikaans (http://www.transifex.com/calibre/calibre/language/af/)
+certmonger,0,0,3338,0,0,540,0,3338,0.0,Afrikaans (http://www.transifex.com/projects/p/certmonger/language/af/)
+cheese,193,0,101,71,0,1,190,294,65.64625850340136,translate-discuss-af@lists.sourceforge.net
+cinnamon-desktop,223,5,3,26,3,2,237,231,96.53679653679653,translate-discuss-af@lists.sourceforge.net
+cinnamon-session,294,105,33,56,11,8,300,432,68.05555555555556,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+cinnamon-settings-daemon,509,85,486,102,22,66,496,1080,47.129629629629626,translate-discuss-af@lists.sourceforge.net
+cinnamon-translations,2516,0,10736,736,0,2488,2652,13252,18.985813462118927,Afrikaans <af@li.org>
+clamtk,796,0,0,212,0,0,880,796,100.0,Afrikaans <af@li.org>
+clementine,4975,0,116,1320,0,32,5408,5091,97.72146925947752,Afrikaans (http://www.transifex.com/davidsansome/clementine/language/af/)
+compat-gtkhtml314,611,0,84,313,0,49,566,695,87.9136690647482,translate-discuss-af@lists.sourceforge.net
+compat-wxGTK3-gtk2,5344,1028,1310,1378,202,265,5575,7682,69.56521739130434,translate-discuss-af@lists.sourceforge.net
+control-center,4289,108,549,1325,26,103,4163,4946,86.7165386170643,translate-discuss-af@lists.sourceforge.net
+coreutils,1638,2496,16344,366,396,876,1860,20478,7.998828010547905,Afrikaans <i18n@af.org.za>
+dasher,411,0,115,161,0,37,372,526,78.13688212927757,<translate-discuss-af@lists.sourceforge.net>
+dc3dd,32,207,632,10,26,51,37,871,3.6739380022962114,Afrikaans <i18n@af.org.za>
+deluge,830,0,1898,418,0,460,833,2728,30.425219941348974,Afrikaans <af@li.org>
+dexter,149,0,79,48,0,44,144,228,65.35087719298247,Afrikaans <af@li.org>
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Afrikaans
+elinks,2443,575,9227,758,32,835,2355,12245,19.95100040832993,<translate-discuss-af@translate.sourceforge.net>
+engrampa,1000,0,938,219,0,137,1043,1938,51.59958720330238,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+entangle,0,0,934,0,0,209,0,934,0.0,Afrikaans
+eog,1243,10,11,305,1,2,1229,1264,98.33860759493672,translate-discuss-af@lists.sourceforge.net
+eom,759,0,972,210,0,117,765,1731,43.84748700173311,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+evince,1429,0,96,345,0,10,1469,1525,93.70491803278689,translate-discuss-af@lists.sourceforge.net
+evolution,8282,49,13799,2577,13,2462,7988,22130,37.424310890194306,translate-discuss-af@lists.sourceforge.net
+exaile,2310,130,1566,799,53,173,2389,4006,57.66350474288567,Afrikaans <af@li.org>
+feedreader,0,0,0,0,0,0,0,0,0.0,
+file-roller,1091,11,223,259,3,29,1150,1325,82.33962264150944,translate-discuss-af@lists.sourceforge.net
+five-or-more,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Afrikaans
+four-in-a-row,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+freedink,12,71,0,3,12,0,11,83,14.457831325301203,Afrikaans <i18n@af.org.za>
+frozen-bubble,210,101,387,52,22,74,236,698,30.08595988538682,Afrikaans
+gallery2,10557,2028,4981,1707,246,531,10890,17566,60.09905499259934,Afrikaans <gallery-translations@lists.sourceforge.net>
+gammu,51,172,3796,38,47,1029,48,4019,1.2689723811893505,none
+gbrainy,9596,109,29,1200,12,7,9734,9734,98.58228888432299,translate-discuss-af@lists.sourceforge.net
+gcompris,11865,0,15,1384,0,2,11633,11880,99.87373737373737,translate-discuss-af@lists.sourceforge.net
+gcr,157,186,279,72,66,89,136,622,25.241157556270092,translate-discuss-af@lists.sourceforge.net
+gdk-pixbuf2,1180,72,96,183,8,11,1152,1348,87.53709198813057,translate-discuss-af@lists.sourceforge.net
+gdm,626,0,0,83,0,0,609,626,100.0,translate-discuss-af@lists.sourceforge.net
+geda-gaf,1129,14,910,393,5,187,1153,2053,54.99269361909401,Afrikaans <af@li.org>
+gedit,3589,49,685,675,11,47,3604,4323,83.02105019662271,translate-discuss-af@lists.sourceforge.net
+gedit-plugins,102,281,822,59,119,291,85,1205,8.464730290456432,Afrikaans localisation list <translate-discuss-af@lists.sourceforge.net>
+gettext,376,0,24,73,0,8,300,400,94.0,Afrikaans <i18n@af.org.za>
+ggz-base-libs,74,0,0,17,0,0,86,74,100.0,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+ggz-gtk-client,772,0,0,243,0,0,785,772,100.0,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+glib2,327,261,4189,113,46,588,383,4777,6.845300397739167,translate-discuss-af@lists.sourceforge.net
+gnome-backgrounds,29,0,0,17,0,0,29,29,100.0,translate-discuss-af@lists.sourceforge.net
+gnome-bluetooth,642,0,20,185,0,7,645,662,96.97885196374622,translate-discuss-af@lists.sourceforge.net
+gnome-calculator,1044,159,176,350,37,41,1011,1379,75.7070340826686,translate-discuss-af@lists.sourceforge.net
+gnome-chess,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+gnome-clocks,168,0,0,69,0,0,168,168,100.0,translate-discuss-af@lists.sourceforge.net
+gnome-contacts,186,8,16,99,5,3,192,210,88.57142857142857,translate-discuss-af@lists.sourceforge.net
+gnome-desktop,285,0,0,71,0,0,294,285,100.0,translate-discuss-af@lists.sourceforge.net
+gnome-desktop3,235,0,0,31,0,0,249,235,100.0,translate-discuss-af@lists.sourceforge.net
+gnome-dictionary,381,51,401,113,6,64,393,833,45.73829531812726,translate-discuss-af@lists.sourceforge.net
+gnome-do,473,0,139,119,0,25,514,612,77.2875816993464,Afrikaans <af@li.org>
+gnome-documents,55,0,2,20,0,2,58,57,96.49122807017544,translate-discuss-af@lists.sourceforge.net
+gnome-font-viewer,47,0,0,25,0,0,48,47,100.0,translate-discuss-af@lists.sourceforge.net
+gnome-icon-theme,43,0,0,38,0,0,39,43,100.0,Afrikaans localisation list<translate-discuss-af@lists.sourceforge.net>
+gnome-initial-setup,298,14,60,80,1,6,317,372,80.10752688172043,translate-discuss-af@lists.sourceforge.net
+gnome-keyring,474,4,12,100,3,6,460,490,96.73469387755102,translate-discuss-af@lists.sourceforge.net
+gnome-klotski,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+gnome-mahjongg,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+gnome-maps,157,26,0,31,1,0,150,183,85.79234972677595,translate-discuss-af@lists.sourceforge.net
+gnome-menus,70,0,0,27,0,0,59,70,100.0,translate-discuss-af@lists.sourceforge.net
+gnome-mime-data,883,0,4,360,0,2,526,887,99.54904171364149,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gnome-mines,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+gnome-music,154,0,194,52,0,1,153,348,44.252873563218394,translate-discuss-af@lists.sourceforge.net
+gnome-nettool,537,0,36,180,0,17,503,573,93.717277486911,translate-discuss-zu@lists.sourceforge.net
+gnome-nibbles,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+gnome-online-accounts,150,0,558,61,0,81,159,708,21.1864406779661,translate-discuss-af@lists.sourceforge.net
+gnome-packagekit,1483,11,3296,305,3,500,1463,4790,30.96033402922756,translate-discuss-af@lists.sourceforge.net
+gnome-power-manager,218,4,210,112,2,30,201,432,50.46296296296296,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gnome-robots,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+gnome-screensaver,277,2,4,56,1,1,277,283,97.87985865724382,translate-discuss-af@lists.sourceforge.net
+gnome-screenshot,241,0,110,55,0,16,257,351,68.66096866096866,translate-discuss-af@lists.sourceforge.net
+gnome-search-tool,427,29,903,105,6,89,417,1359,31.42016188373804,translate-discuss-af@lists.sourceforge.net
+gnome-session,429,2,0,86,1,0,430,431,99.53596287703016,translate-discuss-af@lists.sourceforge.net
+gnome-settings-daemon,509,85,486,102,22,66,496,1080,47.129629629629626,translate-discuss-af@lists.sourceforge.net
+gnome-shell,1322,23,119,340,5,12,1329,1464,90.30054644808743,translate-discuss-af@lists.sourceforge.net
+gnome-shell-extensions,130,0,208,46,0,20,129,338,38.46153846153847,translate-discuss-af@lists.sourceforge.net
+gnome-software,1007,0,36,373,0,10,971,1043,96.5484180249281,translate-discuss-af@lists.sourceforge.net
+gnome-sudoku,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+gnome-system-log,125,0,397,13,0,81,127,522,23.946360153256705,translate-discuss-af@lists.sourceforge.net
+gnome-tetravex,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+gnome-themes,102,0,7,25,0,5,107,109,93.57798165137615,translate-discuss-af@lists.sourceforge.net
+gnome-themes-standard,24,0,0,9,0,0,23,24,100.0,translate-discuss-af@lists.sourceforge.net
+gnome-user-share,109,7,131,24,1,9,116,247,44.12955465587044,translate-discuss-af@lists.sourceforge.net
+gnome-vfs2,1141,260,107,262,27,12,1042,1508,75.6631299734748,translate-discuss-swedish@lists.kde.org
+gnome-video-effects,229,7,10,63,2,1,232,246,93.08943089430895,translate-discuss-af@lists.sourceforge.net
+gnomebaker,270,10,906,90,5,196,275,1186,22.765598650927487,Afrikaans <af@li.org>
+gourmet,1788,60,2091,418,13,461,1934,3939,45.39223153084539,Afrikaans <af@li.org>
+gpicview,15,0,204,7,0,37,17,219,6.8493150684931505,LANGUAGE <LL@li.org>
+grep,43,253,647,15,26,71,42,943,4.559915164369035,Afrikaans <i18n@af.org.za>
+gstreamer,863,335,719,186,68,94,876,1917,45.01825769431404,Afrikaans <i18n@af.org.za>
+gstreamer-plugins-bad-free,25,37,34,4,6,4,30,96,26.041666666666668,Afrikaans <i18n@af.org.za>
+gstreamer-plugins-base,37,134,737,12,19,147,38,908,4.074889867841409,Afrikaans <i18n@af.org.za>
+gstreamer-plugins-good,35,216,563,26,41,123,34,814,4.2997542997543,Afrikaans <i18n@af.org.za>
+gstreamer1,751,386,865,168,77,119,767,2002,37.51248751248751,Afrikaans <i18n@af.org.za>
+gstreamer1-plugins-bad-free,19,60,407,3,10,44,23,486,3.909465020576132,Afrikaans <i18n@af.org.za>
+gstreamer1-plugins-base,8,107,704,2,14,146,9,819,0.9768009768009768,Afrikaans <i18n@af.org.za>
+gstreamer1-plugins-good,13,240,506,4,34,69,11,759,1.7127799736495388,Afrikaans <i18n@af.org.za>
+gtg,279,0,3218,92,0,208,286,3497,7.978267086073777,Translate.org.za
+gtick,89,200,49,36,24,36,86,338,26.331360946745562,Afrikaans <i18n@af.org.za>
+gtk2,8637,2738,2329,1907,513,364,8244,13704,63.025394045534156,translate-discuss-af@lists.sourceforge.net
+gtk2-engines,55,4,60,27,1,19,52,119,46.21848739495798,translate-discuss-af@lists.sourceforge.net
+gtk3,6995,2907,2581,1669,575,452,6681,12483,56.03620924457262,translate-discuss-af@lists.sourceforge.net
+gtkhtml3,611,0,84,313,0,49,566,695,87.9136690647482,translate-discuss-af@lists.sourceforge.net
+gtkspell,11,0,0,5,0,0,12,11,100.0,Afrikaans <i18n@af.org.za>
+gtkspell3,11,0,0,5,0,0,12,11,100.0,Afrikaans <i18n@af.org.za>
+gucharmap,675,29,99,244,10,44,625,803,84.05977584059777,translate-discuss-af@lists.sourceforge.net
+gvfs,711,3,1269,210,1,252,733,1983,35.854765506807865,translate-discuss-af@lists.sourceforge.net
+gwibber,240,0,529,79,0,125,240,769,31.209362808842656,Afrikaans <af@li.org>
+hamster-time-tracker,697,0,0,172,0,0,721,697,100.0,translate-discuss-af@lists.sourceforge.net
+hexchat,178,0,5584,122,0,1292,189,5762,3.089205137105172,Afrikaans (http://www.transifex.com/projects/p/hexchat/language/af/)
+homebank,294,10,1835,184,4,494,299,2139,13.744740532959327,Afrikaans <af@li.org>
+iagno,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,440,0,0,80,0,440,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,85,0,0,18,0,85,0.0,Afrikaans (http://www.transifex.com/projects/p/initial-setup/language/af/)
+iso-codes,1071,5412,9297,625,4270,5326,985,15780,6.7870722433460084,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+isomaster,29,1,644,23,1,83,31,674,4.302670623145401,http://littlesvr.ca/ostd/
+kBuild,204,136,165,38,29,14,199,505,40.396039603960396,Afrikaans <i18n@af.org.za>
+kaudiocreator,91,402,643,29,103,141,95,1136,8.01056338028169,AFRIKAANS <AF@lia.org.za>
+kcoloredit,8,92,178,5,29,61,10,278,2.877697841726619,AFRIKAANS <AF@lia.org.za>
+kde-cli-tools,791,603,293,101,23,36,845,1687,46.88796680497925,AFRIKAANS <AF@lia.org.za>
+kf5-kauth,0,6,52,0,2,6,0,58,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kbookmarks,0,192,26,0,45,3,0,218,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kcmutils,31,152,380,7,23,41,34,563,5.506216696269982,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kconfig,0,41,213,0,6,90,0,254,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kconfigwidgets,111,149,57,63,41,10,127,317,35.01577287066246,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kcoreaddons,0,210,55,0,62,18,0,265,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kdeclarative,10,42,57,4,6,4,13,109,9.174311926605505,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kdelibs4support,1182,1509,2122,757,955,652,1399,4813,24.558487429877417,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kdesignerplugin,0,43,11,0,5,4,0,54,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kdoctools,8,0,0,4,0,0,11,8,100.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kglobalaccel,0,49,22,0,7,2,0,71,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-khtml,999,511,213,195,90,27,1001,1723,57.9802669762043,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-ki18n,0,95,29,0,85,25,0,124,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kiconthemes,30,3,4,13,3,4,31,37,81.08108108108108,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kinit,99,28,7,10,3,1,113,134,73.88059701492537,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kio,6529,3486,1700,731,389,166,6936,11715,55.73196756295348,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kjobwidgets,0,97,44,0,38,7,0,141,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kjsembed,0,88,160,0,19,25,0,248,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-knewstuff,95,240,338,20,89,41,109,673,14.115898959881129,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-knotifyconfig,0,29,100,0,11,6,0,129,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kparts,44,51,9,13,12,1,47,104,42.30769230769231,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kpty,0,11,4,0,3,1,0,15,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kross,9,58,33,7,20,8,12,100,9.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kservice,17,81,72,4,14,10,23,170,10.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-ktexteditor,2050,2374,4318,462,483,523,2136,8742,23.450011439029968,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-ktextwidgets,317,117,28,69,37,16,348,462,68.61471861471861,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kwidgetsaddons,0,1006,255,0,349,83,0,1261,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-kxmlgui,345,917,276,91,105,30,363,1538,22.431729518855654,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kf5-sonnet,0,616,49,0,57,16,0,665,0.0,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+khelpcenter,645,88,35,139,20,13,760,768,83.984375,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+khotkeys,99,107,227,33,64,31,101,433,22.863741339491916,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kiconedit,493,147,86,91,25,39,517,726,67.90633608815428,AFRIKAANS <AF@lia.org.za>
+kinfocenter,756,384,100,218,36,51,820,1240,60.967741935483865,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kmenuedit,176,14,91,34,4,24,186,281,62.63345195729537,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+koffice-kivio,1640,1662,5115,544,751,1066,1773,8417,19.484376856362122,AFRIKAANS <AF@lia.org.za>
+kpilot,417,1536,5203,109,354,398,437,7156,5.82727780883175,AFRIKAANS <AF@lia.org.za>
+ksysguard,583,286,213,117,62,54,612,1082,53.881700554528656,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+kwin,1420,1083,1673,257,133,174,1532,4176,34.00383141762452,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+lazarus,363,173,20959,241,73,4412,380,21495,1.688764829030007,English <en@li.org>
+libbonoboui,366,0,2,113,0,2,337,368,99.45652173913044,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+libfm,0,0,1565,0,0,390,0,1565,0.0,LANGUAGE <LL@li.org>
+libgnome-keyring,44,0,0,9,0,0,43,44,100.0,translate-discuss-af@lists.sourceforge.net
+libgnome-media-profiles,138,0,322,33,0,18,132,460,30.0,translate-discuss-af@lists.sourceforge.net
+libgnomeprintui22,470,2,9,149,2,3,446,481,97.71309771309772,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+libgnomeui,1198,28,0,316,4,0,1118,1226,97.71615008156607,translate-discuss-af@lists.sourceforge.net
+libgweather,274,11,198,133,5,7,233,483,56.7287784679089,translate-discuss-af@lists.sourceforge.net
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmateweather,384,0,106,165,0,9,328,490,78.36734693877551,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+libosinfo,0,0,1871,0,0,554,0,1871,0.0,Afrikaans
+libreoffice,54035,4103,40084,16303,1705,12228,51377,98222,55.01313351387673,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Afrikaans (http://www.transifex.com/projects/p/libreport/language/af/)
+librfm,446,682,1269,236,240,122,578,2397,18.60659157279933,Afrikaans <i18n@af.org.za>
+libvirt,932,4370,47222,219,769,7352,932,52524,1.7744269286421446,Afrikaans (http://www.transifex.com/projects/p/fedora/language/af/)
+libvirt-glib,0,0,138,0,0,29,0,138,0.0,Afrikaans (http://www.transifex.com/projects/p/libvirt-glib/language/af/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Afrikaans (http://www.transifex.com/projects/p/fedora/language/af/)
+light-locker,7,0,227,2,0,31,6,234,2.9914529914529915,Afrikaans (http://www.transifex.com/projects/p/light-locker/language/af/)
+lightdm,0,0,79,0,0,17,0,79,0.0,Afrikaans <af@li.org>
+lightsoff,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+lxdm,11,1,18,10,1,7,11,30,36.666666666666664,LANGUAGE <LL@li.org>
+lxinput,70,2,0,23,1,0,61,72,97.22222222222221,LANGUAGE <LL@li.org>
+lxlauncher,51,0,0,11,0,0,49,51,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,88,97,100.0,translate-discuss-af@lists.sourceforge.net
+lxmusic,185,0,18,84,0,5,177,203,91.13300492610837,LANGUAGE <LL@li.org>
+lxpanel,787,72,155,268,24,49,774,1014,77.61341222879685,translate-discuss-af@lists.sourceforge.net
+lxpolkit,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+lxrandr,111,0,11,24,0,3,107,122,90.98360655737704,LANGUAGE <LL@li.org>
+lxsession,35,0,1,13,0,1,36,36,97.22222222222221,LANGUAGE <LL@li.org>
+lxsession-edit,62,2,0,10,1,0,74,64,96.875,LANGUAGE <LL@li.org>
+lxshortcut,38,0,5,18,0,1,36,43,88.37209302325581,LANGUAGE <LL@li.org>
+lxtask,114,0,8,46,0,2,108,122,93.44262295081968,LANGUAGE <LL@li.org>
+lxterminal,93,19,32,63,9,13,86,144,64.58333333333334,LANGUAGE <LL@li.org>
+man-db,13,140,82,4,27,23,12,235,5.531914893617021,Afrikaans <i18n@af.org.za>
+mate-applets,1311,0,1109,339,0,220,1340,2420,54.17355371900826,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+mate-backgrounds,25,0,5,19,0,2,24,30,83.33333333333334,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+mate-calc,1029,0,383,341,0,100,995,1412,72.87535410764873,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+mate-control-center,1573,0,1178,414,0,241,1550,2751,57.179207560886944,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+mate-desktop,57,0,2356,14,0,320,75,2413,2.3622047244094486,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+mate-icon-theme,43,0,0,38,0,0,39,43,100.0,Afrikaans localisation list<translate-discuss-af@lists.sourceforge.net>
+mate-media,127,0,52,56,0,21,121,179,70.94972067039106,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+mate-menus,97,0,0,37,0,0,89,97,100.0,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+mate-netspeed,63,0,84,14,0,43,60,147,42.857142857142854,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+mate-notification-daemon,56,0,96,20,0,17,63,152,36.84210526315789,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+mate-panel,3969,0,347,550,0,48,4090,4316,91.96014828544949,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+mate-session-manager,45,0,620,13,0,99,42,665,6.7669172932330826,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+mate-settings-daemon,308,0,1427,69,0,173,288,1735,17.752161383285305,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+mate-themes,7,0,48,2,0,8,9,55,12.727272727272727,Afrikaans (http://www.transifex.com/mate/MATE/language/af/)
+mate-utils,1263,0,2403,306,0,356,1289,3666,34.45171849427169,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+midori,287,0,3254,77,0,719,305,3541,8.105055069189495,Afrikaans <af@li.org>
+mingw-adwaita-icon-theme,43,0,0,38,0,0,39,43,100.0,Afrikaans localisation list<translate-discuss-af@lists.sourceforge.net>
+mingw-atk,334,31,10,108,12,6,288,375,89.06666666666668,Afrikaans <servine_lauvi@hotmail.com>
+mingw-gdk-pixbuf,1180,72,96,183,8,11,1152,1348,87.53709198813057,translate-discuss-af@lists.sourceforge.net
+mingw-gettext,376,0,24,73,0,8,300,400,94.0,Afrikaans <i18n@af.org.za>
+mingw-glib2,327,261,4189,113,46,588,383,4777,6.845300397739167,translate-discuss-af@lists.sourceforge.net
+mingw-gstreamer,863,335,719,186,68,94,876,1917,45.01825769431404,Afrikaans <i18n@af.org.za>
+mingw-gstreamer-plugins-bad-free,25,37,34,4,6,4,30,96,26.041666666666668,Afrikaans <i18n@af.org.za>
+mingw-gstreamer-plugins-base,37,134,737,12,19,147,38,908,4.074889867841409,Afrikaans <i18n@af.org.za>
+mingw-gstreamer-plugins-good,35,216,563,26,41,123,34,814,4.2997542997543,Afrikaans <i18n@af.org.za>
+mingw-gstreamer1,751,386,865,168,77,119,767,2002,37.51248751248751,Afrikaans <i18n@af.org.za>
+mingw-gstreamer1-plugins-bad-free,19,60,407,3,10,44,23,486,3.909465020576132,Afrikaans <i18n@af.org.za>
+mingw-gstreamer1-plugins-base,8,107,704,2,14,146,9,819,0.9768009768009768,Afrikaans <i18n@af.org.za>
+mingw-gstreamer1-plugins-good,13,247,506,4,35,69,11,766,1.6971279373368149,Afrikaans <i18n@af.org.za>
+mingw-gtk2,8637,2738,2329,1907,513,364,8244,13704,63.025394045534156,translate-discuss-af@lists.sourceforge.net
+mingw-gtk3,6995,2907,2581,1669,575,452,6681,12483,56.03620924457262,translate-discuss-af@lists.sourceforge.net
+mingw-gtkhtml3,611,0,84,313,0,49,566,695,87.9136690647482,translate-discuss-af@lists.sourceforge.net
+mingw-gtkspell3,11,0,0,5,0,0,12,11,100.0,Afrikaans <i18n@af.org.za>
+mingw-libvirt,932,4296,47246,219,759,7354,932,52474,1.7761176963829708,Afrikaans (http://www.transifex.com/projects/p/fedora/language/af/)
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Afrikaans (http://www.transifex.com/projects/p/libvirt-glib/language/af/)
+mingw-wxWidgets,3909,921,1561,825,248,402,4145,6391,61.164137067751525,wxWidgets translators <wx-translators@wxwidgets.org>
+mintmenu,2734,0,2327,776,0,292,2904,5061,54.02094447737601,Afrikaans <af@li.org>
+mozo,42,0,0,16,0,0,43,42,100.0,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+nautilus,5225,341,704,957,54,43,5480,6270,83.33333333333334,translate-discuss-af@lists.sourceforge.net
+nautilus-sendto,31,0,14,6,0,2,37,45,68.88888888888889,translate-discuss-af@lists.sourceforge.net
+network-manager-applet,1111,11,1354,260,7,272,1008,2476,44.87075928917609,translate-discuss-af@lists.sourceforge.net
+notification-daemon,15,0,2,6,0,1,14,17,88.23529411764706,translate-discuss-af@lists.sourceforge.net
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+openbox,473,0,33,90,0,4,502,506,93.47826086956522,Afrikaans
+openerp,254,0,23680,76,0,2336,276,23934,1.0612517757165538,Afrikaans <af@li.org>
+openerp7,151,0,23218,58,0,2381,157,23369,0.6461551628225427,Afrikaans <af@li.org>
+openteacher,51,0,56,33,0,15,50,107,47.66355140186916,Afrikaans <af@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Afrikaans (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/af/)
+pastebinit,118,0,65,17,0,10,128,183,64.48087431693989,Afrikaans <af@li.org>
+pgadmin3,7603,7763,1532,2329,1843,230,7643,16898,44.993490353888035,translate.org.za
+picard,21,0,1660,19,0,649,28,1681,1.2492563950029745,LANGUAGE <LL@li.org>
+pidgin,17735,0,823,3778,0,170,17468,18558,95.56525487660308,Afrikaans (http://www.transifex.com/projects/p/pidgin/language/af/)
+pinta,40,0,1578,26,0,502,51,1618,2.4721878862793574,Afrikaans <af@li.org>
+pioneers,2987,0,2,787,0,1,3084,2989,99.93308798929408,Afrikaans
+plasma-desktop,3454,2911,2571,491,388,655,3559,8936,38.65264100268577,Afrikaans <af@li.org>
+plasma-oxygen,4,38,571,1,9,208,4,613,0.6525285481239804,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+plasma-workspace,195,363,4459,48,85,422,224,5017,3.8867849312338048,AFRIKAANS <translate-discuss-af@lists.sourceforge.net>
+pluma,2121,0,2878,489,0,620,2076,4999,42.42848569713943,Afrikaans (http://www.transifex.com/projects/p/MATE/language/af/)
+po4a,180,165,1596,22,31,154,189,1941,9.273570324574962,Afrikaans <ubuntu-l10n-af@lists.launchpad.net>
+poedit,461,0,2000,113,0,411,486,2461,18.732222673709874,Afrikaans
+policycoreutils,0,0,15356,0,0,2156,0,15356,0.0,Afrikaans (South Africa) (http://www.transifex.com/projects/p/fedora/language/af_ZA/)
+pychess,112,0,2979,40,0,598,117,3091,3.6234228405046913,Afrikaans <af@li.org>
+pykickstart,0,0,448,0,0,50,0,448,0.0,Afrikaans (http://www.transifex.com/projects/p/pykickstart/language/af/)
+python-blivet,45,0,633,6,0,134,42,678,6.637168141592921,Afrikaans (http://www.transifex.com/projects/p/blivet/language/af/)
+python-django,1520,0,1807,441,0,305,1635,3327,45.68680492936579,Afrikaans (http://www.transifex.com/projects/p/django/language/af/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Afrikaans
+python-meh,0,0,109,0,0,23,0,109,0.0,Afrikaans
+quadrapassel,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+redhat-menus,221,6,34,73,2,11,184,261,84.67432950191571,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+renameutils,82,106,77,16,22,16,81,265,30.943396226415093,Afrikaans <i18n@af.org.za>
+rhythmbox,3821,7,974,966,1,165,3960,4802,79.57101207830071,translate-discuss-af@lists.sourceforge.net
+rodent,662,883,8257,312,276,284,644,9802,6.753723729851051,
+rygel,250,6,336,74,1,55,275,592,42.22972972972973,translate-discuss-af@lists.sourceforge.net
+sed,149,156,243,34,32,25,148,548,27.189781021897808,Afrikaans <i18n@af.org.za>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Afrikaans (http://www.transifex.com/projects/p/fedora/language/af/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Afrikaans (http://www.transifex.com/projects/p/fedora/language/af/)
+shotwell,1039,0,3407,217,0,712,1153,4446,23.36932073774179,Afrikaans (South Africa) (http://www.transifex.com/projects/p/shotwell/language/af_ZA/)
+shutter,51,0,2397,24,0,477,64,2448,2.083333333333333,Afrikaans <af@li.org>
+simple-scan,240,0,340,78,0,66,280,580,41.37931034482759,Afrikaans <af@li.org>
+sos,0,0,267,0,0,36,0,267,0.0,none
+spacefm,0,0,8722,0,0,1568,0,8722,0.0,Afrikaans (http://www.transifex.com/projects/p/spacefm/language/af/)
+stellarium,3058,0,12904,1159,0,3116,3013,15962,19.158000250595165,Afrikaans <af@li.org>
+sugar,425,104,1204,146,65,208,440,1733,24.52394691286786,Sugar Labs
+sugar-abacus,12,0,22,12,0,13,12,34,35.294117647058826,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,5,0,184,3,0,49,5,189,2.6455026455026456,LANGUAGE <LL@li.org>
+sugar-calculator,25,9,837,20,9,135,25,871,2.8702640642939152,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,27,0,28,11,0,23,29,55,49.09090909090909,LANGUAGE <LL@li.org>
+sugar-clock,1,0,58,1,0,17,1,59,1.694915254237288,LANGUAGE <LL@li.org>
+sugar-connect,0,0,36,0,0,9,0,36,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,5,0,138,5,0,27,5,143,3.4965034965034967,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,6,0,45,3,0,10,6,51,11.76470588235294,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,3,0,62,3,0,17,3,65,4.615384615384616,LANGUAGE <LL@li.org>
+sugar-labyrinth,10,2,269,8,1,85,10,281,3.558718861209965,LANGUAGE <LL@li.org>
+sugar-log,3,0,95,3,0,18,3,98,3.061224489795918,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,7,0,148,5,0,68,7,155,4.516129032258064,LANGUAGE <LL@li.org>
+sugar-memorize,28,0,114,28,0,46,29,142,19.718309859154928,LANGUAGE <LL@li.org>
+sugar-moon,1,0,116,1,0,32,1,117,0.8547008547008548,LANGUAGE <LL@li.org>
+sugar-paint,26,41,29,25,25,5,27,96,27.083333333333332,LANGUAGE <LL@li.org>
+sugar-physics,2,0,46,2,0,26,2,48,4.166666666666666,LANGUAGE <LL@li.org>
+sugar-pippy,1,0,108,1,0,30,1,109,0.9174311926605505,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,1,0,9,1,0,4,1,10,10.0,LANGUAGE <LL@li.org>
+sugar-read,25,0,99,15,0,32,25,124,20.161290322580644,LANGUAGE <LL@li.org>
+sugar-record,12,8,42,10,2,12,12,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,36,0,191,35,0,39,37,227,15.859030837004406,LANGUAGE <LL@li.org>
+sugar-terminal,1,0,14,1,0,7,1,15,6.666666666666667,LANGUAGE <LL@li.org>
+sugar-toolkit,1,1,71,2,1,34,1,73,1.36986301369863,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,75,1,0,39,1,0,78,76,98.68421052631578,LANGUAGE <LL@li.org>
+sugar-turtleart,388,343,843,125,80,273,380,1574,24.650571791613725,AF <walter@sugarlabs.org>
+sugar-typing-turtle,241,23,335,65,7,55,263,599,40.23372287145242,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-write,73,0,48,43,0,12,67,121,60.33057851239669,AF <af@translate.sugarlabs.org>
+swell-foop,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+sysstat,234,0,0,25,0,0,248,234,100.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Afrikaans (http://www.transifex.com/projects/p/system-config-kickstart/language/af/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+tali,4649,17,17,973,2,12,4518,4683,99.27396967755712,translate-discuss-af@lists.sourceforge.net
+terminator,287,0,1024,104,0,289,289,1311,21.891685736079328,Afrikaans <af@li.org>
+tomboy,2996,76,31,431,7,2,3071,3103,96.55172413793103,translate-discuss-af@lists.sourceforge.net
+totem,1964,24,756,515,9,97,1914,2744,71.5743440233236,translate-discuss-af@lists.sourceforge.net
+totem-pl-parser,28,0,0,7,0,0,26,28,100.0,translate-discuss-af@lists.sourceforge.net
+tuxpaint,1591,0,0,291,0,0,1673,1591,100.0,translate-discuss-af@lists.sourceforge.net
+tuxpaint-stamps,2561,105,45,609,35,6,2239,2711,94.46698635189968,
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+vim,6687,0,0,1423,0,0,7205,6687,100.0,Danie Roux <droux@tuks.co.za>
+virt-viewer,0,0,692,0,0,148,0,692,0.0,Afrikaans (http://www.transifex.com/projects/p/virt-viewer/language/af/)
+virtaal,1442,0,1,429,0,1,1331,1443,99.93069993069993,translate-discuss-af@lists.sourceforge.net
+wammu,1629,945,2656,407,177,328,1597,5230,31.147227533460804,none
+wdiff,5,97,18,2,20,9,4,120,4.166666666666666,Afrikaans <i18n@af.org.za>
+wesnoth,17682,33388,204946,2565,2075,11715,18798,256016,6.90659958752578,Afrikaans
+wxGTK,3909,921,1561,825,248,402,4145,6391,61.164137067751525,wxWidgets translators <wx-translators@wxwidgets.org>
+wxGTK3,5344,1028,1310,1378,202,265,5575,7682,69.56521739130434,translate-discuss-af@lists.sourceforge.net
+wxPython,5353,1028,1310,1379,202,265,5584,7691,69.60083214146405,translate-discuss-af@lists.sourceforge.net
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,translate-discuss-af@lists.sourceforge.net
+xdg-user-dirs-gtk,78,0,3,10,0,1,84,81,96.29629629629629,Afrikaans localisation list<translate-discuss-af@lists.sourceforge.net>
+xkeyboard-config,896,0,0,362,0,0,881,896,100.0,Afrikaans <i18n@af.org.za>
+xmms,2419,459,565,859,97,89,2291,3443,70.25849549811211,Afrikaans <lia@af.org.za>
+xpad,61,0,345,16,0,109,73,406,15.024630541871922,Afrikaans <i18n@af.org.za>
+yelp,780,88,32,277,19,14,723,900,86.66666666666667,translate-discuss-af@lists.sourceforge.net
+zaf,445,231,0,38,12,0,455,676,65.8284023668639,Afrikaans <en@li.org>
+zenity,88,0,598,27,0,134,82,686,12.82798833819242,translate-discuss-af@lists.sourceforge.net

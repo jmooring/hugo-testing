@@ -1,0 +1,41 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,12,0,2296,6,0,296,14,2308,0.5199306759098787,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+anaconda,120,12,5238,40,6,688,119,5370,2.2346368715083798,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+aspell,600,391,735,115,61,117,565,1726,34.762456546929315,Tajik
+audacity,3724,306,6613,1079,61,1170,3826,10643,34.99013436061261,Tajik Language
+audit-viewer,166,0,445,93,0,92,168,611,27.168576104746318,LANGUAGE <LL@li.org>
+authconfig,104,0,1534,63,0,222,110,1638,6.349206349206349,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+chkconfig,487,0,0,93,0,0,541,487,100.0,Tajik (http://www.transifex.net/projects/p/fedora/language/tg/)
+firstboot,41,0,530,15,0,35,43,571,7.180385288966725,LANGUAGE <LL@li.org>
+freeipa,155,0,0,105,0,0,161,155,100.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+ibus,19,2,663,16,1,99,20,684,2.7777777777777777,Tajik (http://www.transifex.net/projects/p/fedora/team/tg/)
+kaudiocreator,418,303,415,125,69,79,435,1136,36.79577464788733,<tajik>
+kcoloredit,8,92,178,5,29,61,65,278,2.877697841726619,Tajik
+kdiff3,1054,308,2155,222,101,314,1045,3517,29.968723343758885,Tajik
+kiconedit,678,15,33,133,7,15,734,726,93.38842975206612,Tajik
+koffice-kivio,5218,863,2336,1625,403,333,5222,8417,61.993584412498514,Tajik
+kpilot,4818,1082,1256,520,199,142,4339,7156,67.32811626607042,Tajik
+ksig,68,0,17,15,0,11,65,85,80.0,Tajik
+kwebkitpart,65,107,452,23,22,113,64,624,10.416666666666668,American English <kde-i18n-doc@lists.kde.org>
+libreoffice,206225,11275,314466,38598,2963,32084,170670,531966,38.76657530744446,LANGUAGE <LL@li.org>
+mingw-libgsf,5,0,697,2,0,145,5,702,0.7122507122507122,
+openconnect,0,0,5146,0,0,938,0,5146,0.0,Tajik (Tajikistan) (http://www.transifex.net/projects/p/meego/language/tg_TJ/)
+poedit,1422,29,74,334,10,10,1571,1525,93.24590163934427,Tajik Poedit Team <victor.ibragimov@gmail.com>
+preupgrade,0,0,768,0,0,114,0,768,0.0,Tajik (http://www.transifex.net/projects/p/fedora/language/tg/)
+pykickstart,0,0,343,0,0,36,0,343,0.0,Tajik (http://www.transifex.net/projects/p/fedora/language/tg/)
+python-meh,0,0,64,0,0,15,0,64,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+rhn-client-tools,0,0,4348,0,0,433,0,4348,0.0,Tajik (http://www.transifex.net/projects/p/fedora/team/tg/)
+rhnsd,0,0,37,0,0,9,0,37,0.0,Tajik (http://www.transifex.net/projects/p/fedora/team/tg/)
+spacewalk-backend,0,0,1895,0,0,223,0,1895,0.0,Tajik (http://www.transifex.net/projects/p/fedora/language/tg/)
+sssd,87,0,18143,46,0,1663,83,18230,0.47723532638507954,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+stellarium,381,0,10800,295,0,2850,376,11181,3.4075664072980953,Tajik <tg@li.org>
+system-config-date,0,0,1850,0,0,824,0,1850,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+system-config-kickstart,0,0,1148,0,0,254,0,1148,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+system-config-language,47,9,267,9,2,45,45,323,14.551083591331269,Victor Ibragimov <victor.ibragimov@gmail.com>
+system-config-network,0,0,3032,0,0,721,0,3032,0.0,Tajik (http://www.transifex.net/projects/p/fedora/language/tg/)
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+usermode,177,0,396,59,0,37,196,573,30.89005235602094,Tajik (http://www.transifex.com/projects/p/fedora/language/tg/)
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+xmms,2590,453,400,901,68,76,2659,3443,75.22509439442346,Tajik
+yelp,92,80,434,38,45,65,95,606,15.181518151815181,Tajik
+yum-rhn-plugin,0,0,119,0,0,15,0,119,0.0,Tajik (http://www.transifex.net/projects/p/fedora/team/tg/)

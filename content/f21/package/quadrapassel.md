@@ -1,0 +1,123 @@
+---
+title: "quadrapassel - translation progress for f21"
+package: quadrapassel
+date: 2026-01-17T12:13:53+00:00
+started_languages: 84
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 108
+release: f21
+---
+The package quadrapassel (version 3.14.0):
+
+* represents 9160 source words to be translated
+* is translated into 85 languages in Fedora f21
+
+
+* contains 108 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ast]({{< ref "/f21/language/ast.md" >}}) | 4689 | 4689 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/ast.po | 
+ | [be]({{< ref "/f21/language/be.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/be.po | 
+ | [bg]({{< ref "/f21/language/bg.md" >}}) | 4268 | 4268 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/bg.po | 
+ | [ca@valencia]({{< ref "/f21/language/ca@valencia.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/ca@valencia.po | 
+ | [cs]({{< ref "/f21/language/cs.md" >}}) | 1486 | 1486 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/cs/cs.po/mnt/stockage/packages/f21/quadrapassel/po/cs.po | 
+ | [da]({{< ref "/f21/language/da.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/da.po | 
+ | [de]({{< ref "/f21/language/de.md" >}}) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/de/de.po/mnt/stockage/packages/f21/quadrapassel/po/de.po | 
+ | [dz]({{< ref "/f21/language/dz.md" >}}) | 7524 | 7524 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/dz.po | 
+ | [el]({{< ref "/f21/language/el.md" >}}) | 1486 | 1486 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/el/el.po/mnt/stockage/packages/f21/quadrapassel/po/el.po | 
+ | [en_CA]({{< ref "/f21/language/en_CA.md" >}}) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/en_CA.po | 
+ | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 5931 | 5931 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/en_GB/en_GB.po/mnt/stockage/packages/f21/quadrapassel/po/en_GB.po | 
+ | [eo]({{< ref "/f21/language/eo.md" >}}) | 4245 | 4245 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/eo.po | 
+ | [es]({{< ref "/f21/language/es.md" >}}) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/es/es.po/mnt/stockage/packages/f21/quadrapassel/po/es.po | 
+ | [et]({{< ref "/f21/language/et.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/et.po | 
+ | [eu]({{< ref "/f21/language/eu.md" >}}) | 2074 | 2074 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/eu/eu.po/mnt/stockage/packages/f21/quadrapassel/po/eu.po | 
+ | [fa]({{< ref "/f21/language/fa.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/fa.po | 
+ | [fi]({{< ref "/f21/language/fi.md" >}}) | 2136 | 2136 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/fi/fi.po/mnt/stockage/packages/f21/quadrapassel/po/fi.po | 
+ | [fr]({{< ref "/f21/language/fr.md" >}}) | 1486 | 1486 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/fr/fr.po/mnt/stockage/packages/f21/quadrapassel/po/fr.po | 
+ | [gl]({{< ref "/f21/language/gl.md" >}}) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/gl/gl.po/mnt/stockage/packages/f21/quadrapassel/po/gl.po | 
+ | [gu]({{< ref "/f21/language/gu.md" >}}) | 8518 | 8518 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/gu.po | 
+ | [hu]({{< ref "/f21/language/hu.md" >}}) | 1486 | 1486 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/hu/hu.po/mnt/stockage/packages/f21/quadrapassel/po/hu.po | 
+ | [id]({{< ref "/f21/language/id.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/id.po | 
+ | [it]({{< ref "/f21/language/it.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/it/it.po/mnt/stockage/packages/f21/quadrapassel/po/it.po | 
+ | [ja]({{< ref "/f21/language/ja.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/ja/ja.po/mnt/stockage/packages/f21/quadrapassel/po/ja.po | 
+ | [ko]({{< ref "/f21/language/ko.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/ko.po | 
+ | [lt]({{< ref "/f21/language/lt.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/lt.po | 
+ | [lv]({{< ref "/f21/language/lv.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/lv.po | 
+ | [mk]({{< ref "/f21/language/mk.md" >}}) | 4513 | 4513 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/mk.po | 
+ | [mr]({{< ref "/f21/language/mr.md" >}}) | 8518 | 8518 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/mr.po | 
+ | [ne]({{< ref "/f21/language/ne.md" >}}) | 7325 | 7325 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/ne.po | 
+ | [nl]({{< ref "/f21/language/nl.md" >}}) | 4683 | 4683 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/nl.po | 
+ | [pa]({{< ref "/f21/language/pa.md" >}}) | 4286 | 4286 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/pa.po | 
+ | [pl]({{< ref "/f21/language/pl.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/pl.po | 
+ | [pt]({{< ref "/f21/language/pt.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/pt.po | 
+ | [ru]({{< ref "/f21/language/ru.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/ru.po | 
+ | [sk]({{< ref "/f21/language/sk.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/sk.po | 
+ | [sr]({{< ref "/f21/language/sr.md" >}}) | 4414 | 4414 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/sr@latin/sr@latin.po/mnt/stockage/packages/f21/quadrapassel/help/sr/sr.po/mnt/stockage/packages/f21/quadrapassel/po/sr@latin.po/mnt/stockage/packages/f21/quadrapassel/po/sr.po | 
+ | [ta]({{< ref "/f21/language/ta.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/ta.po | 
+ | [te]({{< ref "/f21/language/te.md" >}}) | 4246 | 4246 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/te.po | 
+ | [th]({{< ref "/f21/language/th.md" >}}) | 4286 | 4286 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/th.po | 
+ | [ug]({{< ref "/f21/language/ug.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/ug.po | 
+ | [uk]({{< ref "/f21/language/uk.md" >}}) | 4246 | 4246 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/uk.po | 
+ | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 2137 | 2137 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/help/zh_CN/zh_CN.po/mnt/stockage/packages/f21/quadrapassel/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 870 | 870 | 100.0 | /mnt/stockage/packages/f21/quadrapassel/po/zh_TW.po/mnt/stockage/packages/f21/quadrapassel/po/zh_HK.po | 
+ | [nn]({{< ref "/f21/language/nn.md" >}}) | 7033 | 7039 | 99.9 | /mnt/stockage/packages/f21/quadrapassel/po/nn.po | 
+ | [km]({{< ref "/f21/language/km.md" >}}) | 4251 | 4268 | 99.6 | /mnt/stockage/packages/f21/quadrapassel/po/km.po | 
+ | [af]({{< ref "/f21/language/af.md" >}}) | 4649 | 4683 | 99.3 | /mnt/stockage/packages/f21/quadrapassel/po/af.po | 
+ | [as]({{< ref "/f21/language/as.md" >}}) | 8435 | 8518 | 99.0 | /mnt/stockage/packages/f21/quadrapassel/po/as.po | 
+ | [kn]({{< ref "/f21/language/kn.md" >}}) | 6238 | 6373 | 97.9 | /mnt/stockage/packages/f21/quadrapassel/po/kn.po | 
+ | [ro]({{< ref "/f21/language/ro.md" >}}) | 7900 | 8152 | 96.9 | /mnt/stockage/packages/f21/quadrapassel/help/ro/ro.po/mnt/stockage/packages/f21/quadrapassel/po/ro.po | 
+ | [tr]({{< ref "/f21/language/tr.md" >}}) | 4179 | 4436 | 94.2 | /mnt/stockage/packages/f21/quadrapassel/po/tr.po | 
+ | [hi]({{< ref "/f21/language/hi.md" >}}) | 5954 | 6373 | 93.4 | /mnt/stockage/packages/f21/quadrapassel/po/hi.po | 
+ | [or]({{< ref "/f21/language/or.md" >}}) | 5870 | 6381 | 92.0 | /mnt/stockage/packages/f21/quadrapassel/po/or.po | 
+ | [vi]({{< ref "/f21/language/vi.md" >}}) | 3916 | 4286 | 91.4 | /mnt/stockage/packages/f21/quadrapassel/po/vi.po | 
+ | [bn]({{< ref "/f21/language/bn.md" >}}) | 6322 | 7094 | 89.1 | /mnt/stockage/packages/f21/quadrapassel/po/bn.po | 
+ | [error]({{< ref "/f21/language/error.md" >}}) | 6108 | 6962 | 87.7 | /mnt/stockage/packages/f21/quadrapassel/po/en@shaw.po | 
+ | [ar]({{< ref "/f21/language/ar.md" >}}) | 3520 | 4286 | 82.1 | /mnt/stockage/packages/f21/quadrapassel/po/ar.po | 
+ | [mai]({{< ref "/f21/language/mai.md" >}}) | 5900 | 7576 | 77.9 | /mnt/stockage/packages/f21/quadrapassel/po/mai.po | 
+ | [he]({{< ref "/f21/language/he.md" >}}) | 321 | 436 | 73.6 | /mnt/stockage/packages/f21/quadrapassel/po/he.po | 
+ | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 320 | 435 | 73.6 | /mnt/stockage/packages/f21/quadrapassel/po/nb.po | 
+ | [cy]({{< ref "/f21/language/cy.md" >}}) | 6082 | 8298 | 73.3 | /mnt/stockage/packages/f21/quadrapassel/po/cy.po | 
+ | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 6243 | 8518 | 73.3 | /mnt/stockage/packages/f21/quadrapassel/po/bn_IN.po | 
+ | [ml]({{< ref "/f21/language/ml.md" >}}) | 3074 | 4237 | 72.6 | /mnt/stockage/packages/f21/quadrapassel/po/ml.po | 
+ | [sq]({{< ref "/f21/language/sq.md" >}}) | 4581 | 7066 | 64.8 | /mnt/stockage/packages/f21/quadrapassel/po/sq.po | 
+ | [hr]({{< ref "/f21/language/hr.md" >}}) | 3868 | 7577 | 51.0 | /mnt/stockage/packages/f21/quadrapassel/po/hr.po | 
+ | [xh]({{< ref "/f21/language/xh.md" >}}) | 3605 | 7066 | 51.0 | /mnt/stockage/packages/f21/quadrapassel/po/xh.po | 
+ | [sv]({{< ref "/f21/language/sv.md" >}}) | 997 | 2080 | 47.9 | /mnt/stockage/packages/f21/quadrapassel/help/sv/sv.po/mnt/stockage/packages/f21/quadrapassel/po/sv.po | 
+ | [az]({{< ref "/f21/language/az.md" >}}) | 2964 | 7066 | 41.9 | /mnt/stockage/packages/f21/quadrapassel/po/az.po | 
+ | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 635 | 1524 | 41.7 | /mnt/stockage/packages/f21/quadrapassel/help/pt_BR/pt_BR.po/mnt/stockage/packages/f21/quadrapassel/po/pt_BR.po | 
+ | [is]({{< ref "/f21/language/is.md" >}}) | 2736 | 7066 | 38.7 | /mnt/stockage/packages/f21/quadrapassel/po/is.po | 
+ | [ca]({{< ref "/f21/language/ca.md" >}}) | 535 | 1523 | 35.1 | /mnt/stockage/packages/f21/quadrapassel/help/ca/ca.po/mnt/stockage/packages/f21/quadrapassel/po/ca.po | 
+ | [mn]({{< ref "/f21/language/mn.md" >}}) | 1758 | 7066 | 24.9 | /mnt/stockage/packages/f21/quadrapassel/po/mn.po | 
+ | [ms]({{< ref "/f21/language/ms.md" >}}) | 1592 | 7066 | 22.5 | /mnt/stockage/packages/f21/quadrapassel/po/ms.po | 
+ | [sl]({{< ref "/f21/language/sl.md" >}}) | 448 | 2137 | 21.0 | /mnt/stockage/packages/f21/quadrapassel/help/sl/sl.po/mnt/stockage/packages/f21/quadrapassel/po/sl.po | 
+ | [si]({{< ref "/f21/language/si.md" >}}) | 1249 | 7203 | 17.3 | /mnt/stockage/packages/f21/quadrapassel/po/si.po | 
+ | [ga]({{< ref "/f21/language/ga.md" >}}) | 1091 | 8518 | 12.8 | /mnt/stockage/packages/f21/quadrapassel/po/ga.po | 
+ | [oc]({{< ref "/f21/language/oc.md" >}}) | 1115 | 9160 | 12.2 | /mnt/stockage/packages/f21/quadrapassel/help/oc/oc.po/mnt/stockage/packages/f21/quadrapassel/po/oc.po | 
+ | [br]({{< ref "/f21/language/br.md" >}}) | 994 | 8518 | 11.7 | /mnt/stockage/packages/f21/quadrapassel/po/br.po | 
+ | [wa]({{< ref "/f21/language/wa.md" >}}) | 648 | 7066 | 9.2 | /mnt/stockage/packages/f21/quadrapassel/po/wa.po | 
+ | [tg]({{< ref "/f21/language/tg.md" >}}) | 25 | 325 | 7.7 | /mnt/stockage/packages/f21/quadrapassel/po/tg.po | 
+ | [kk]({{< ref "/f21/language/kk.md" >}}) | 342 | 6977 | 4.9 | /mnt/stockage/packages/f21/quadrapassel/po/kk.po | 
+ | [ka]({{< ref "/f21/language/ka.md" >}}) | 218 | 7066 | 3.1 | /mnt/stockage/packages/f21/quadrapassel/po/ka.po | 
+ | [am]({{< ref "/f21/language/am.md" >}}) | 109 | 7066 | 1.5 | /mnt/stockage/packages/f21/quadrapassel/po/am.po | 
+ | [ku]({{< ref "/f21/language/ku.md" >}}) | 70 | 7038 | 1.0 | /mnt/stockage/packages/f21/quadrapassel/po/ku.po | 
+ | [rw]({{< ref "/f21/language/rw.md" >}}) | 67 | 7066 | 0.9 | /mnt/stockage/packages/f21/quadrapassel/po/rw.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

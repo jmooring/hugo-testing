@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,31,0,135,9,0,28,40,166,18.67469879518072,Papiamento <pap@li.org>
+cinnamon-translations,2087,0,8897,487,0,1977,2441,10984,19.000364166059725,Papiamento <pap@li.org>
+iso-codes,0,233,749,0,183,237,0,982,0.0,Papiamento <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/pap/>
+nemo-extensions,1,0,7,1,0,1,1,8,12.5,Papiamento <pap@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,188,158,100.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,573,0,26,125,0,2,661,599,95.65943238731218,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,119,2,0,53,2,0,130,121,98.34710743801654,Suares
+sugar-xoeditor,1,0,28,1,0,6,1,29,3.4482758620689653,LANGUAGE <LL@li.org>

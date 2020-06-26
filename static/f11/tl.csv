@@ -1,0 +1,25 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,13,0,2761,8,0,593,16,2774,0.4686373467916366,Tagalog <tl@li.org>
+deluge,6,0,1992,4,0,685,8,1998,0.3003003003003003,Tagalog <tl@li.org>
+dpkg,5495,2730,1794,792,280,171,6488,10019,54.845792993312706,Tagalog <debian-tl@banwa.upm.edu.ph>
+exaile,19,0,2157,1,0,586,21,2176,0.8731617647058824,Tagalog <tl@li.org>
+glib2,1044,376,930,122,73,177,1245,2350,44.42553191489362,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-hearts,340,0,69,90,0,16,296,409,83.12958435207824,Tagalog <tl@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+iso-codes,930,89,60,404,23,21,923,1079,86.19091751621872,Tagalog <debian-tl@banwa.upm.edu.ph>
+jokosher,1274,2,1095,236,1,235,1464,2371,53.73260227752004,Tagalog <tl@li.org>
+mingw32-glib2,1044,376,930,122,73,177,1245,2350,44.42553191489362,Tagalog <debian-tl@banwa.upm.edu.ph>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+pgadmin3,1297,2517,5192,405,768,1358,1426,9006,14.401510104374863,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,666,0,1887,253,0,571,813,2553,26.08695652173913,Tagalog <tl@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+shadow-utils,1288,1402,578,231,96,51,1569,3268,39.4124847001224,Tagalog <debian-tl@banwa.upm.edu.ph>
+stellarium,186,3,2250,108,2,826,222,2439,7.626076260762607,Tagalog <tl@li.org>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+tuxpaint,197,14,550,93,6,87,220,761,25.88699080157687,LANGUAGE <LL@li.org>
+wesnoth,1645,748,210243,562,193,12354,2007,212636,0.7736225286404936,
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>

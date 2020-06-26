@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+manaplus,0,0,4384,0,0,1406,0,4384,0.0,Vlaams (http://www.transifex.com/projects/p/manaplus/language/vls/)
+php-phpmyadmin-sql-parser,0,0,227,0,0,44,0,227,0.0,West Flemish <https://hosted.weblate.org/projects/phpmyadmin/master/vls/>
+php-phpmyadmin-sql-parser5,0,0,268,0,0,50,0,268,0.0,West Flemish <https://hosted.weblate.org/projects/phpmyadmin/master/vls/>

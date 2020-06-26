@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gwenview,12,112,1197,8,54,258,15,1321,0.9084027252081757,<en@li.org>
+iso-codes,328,5989,11056,282,5196,6874,332,17373,1.8879871064295168,Venda <venda@translate.org.za>
+tuxpaint,587,0,0,155,0,0,614,587,100.0,LANGUAGE <LL@li.org>

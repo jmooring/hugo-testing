@@ -1,0 +1,282 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3832,72,50,443,11,7,3414,3954,96.91451694486595,Mongolian <openmn-translation@lists.sourceforge.net>
+aisleriot,772,625,590,246,204,99,596,1987,38.85254151987921,Mongolian <openmn-core@lists.sf.net>
+alacarte,42,0,0,16,0,0,40,42,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+alleyoop,285,0,57,76,0,11,259,342,83.33333333333334,Mongolian <openmn-core@lists.sf.net>
+anaconda,0,0,7193,0,0,1195,0,7193,0.0,Mongolian
+aspell,1526,126,145,262,21,20,1261,1797,84.91930996104618,Mongolian <openmn-translation@lists.sourceforge.net>
+asunder,12,0,480,12,0,79,14,492,2.4390243902439024,http://littlesvr.ca/ostd/
+atk,375,0,0,126,0,0,298,375,100.0,Mongolian <openmn-translation@lists.sf.net>
+atril,1224,0,2622,344,0,297,1197,3846,31.825273010920434,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+baobab,14,135,391,8,41,77,13,540,2.5925925925925926,Mongolian <openmn-core@lists.sf.net>
+blueberry,2,0,160,2,0,34,2,162,1.2345679012345678,Mongolian <mn@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,3130,0,6495,691,0,904,2749,9625,32.51948051948052,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+caja-extensions,12,0,659,11,0,135,14,671,1.7883755588673622,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+calibre,239,0,160735,201,0,18278,242,160974,0.14847118168151377,Mongolian (http://www.transifex.com/calibre/calibre/language/mn/)
+cinnamon-desktop,108,0,126,13,0,19,89,234,46.15384615384615,Mongolian <openmn-core@lists.sf.net>
+cinnamon-translations,119,0,3451,15,0,872,87,3570,3.3333333333333335,Mongolian <openmn-translation@lists.sourceforge.net>
+clamtk,118,0,433,35,0,102,62,551,21.415607985480946,Mon <mnw@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dasher,311,0,0,113,0,0,293,311,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+deepin-daemon,882,0,181,203,0,25,838,1063,82.97271872060207,Mongolian (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/mn/)
+deepin-terminal,324,0,187,133,0,45,332,511,63.405088062622305,Mongolian (https://www.transifex.com/linuxdeepin/teams/3976/mn/)
+dia,426,221,5064,185,101,1760,405,5711,7.459289091227456,Mongolian <openmn-core@lists.sf.net>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+ekiga,6342,0,0,796,0,0,5041,6342,100.0,Mongolian <openmn-gnome@lists.sf.net>
+elementary-calculator,24,3,103,13,1,40,25,130,18.461538461538463,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,703,0,0,229,0,703,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,65,0,0,18,0,65,0.0,
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1151,0,0,257,0,1151,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,15,2,149,5,1,31,14,166,9.036144578313253,Mongolian <https://l10n.elementary.io/projects/desktop/greeter/mn/>
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,2998,0,0,573,0,2998,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,1,0,223,1,0,43,1,224,0.4464285714285714,Mongolian <https://l10n.elementary.io/projects/desktop/sideload/mn/>
+elementary-terminal,71,14,357,18,4,68,50,442,16.063348416289593,Mongolian <mn@li.org>
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+engrampa,704,0,7113,198,0,688,606,7817,9.006012536778815,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+entangle,0,0,953,0,0,229,0,953,0.0,Mongolian
+eog,324,143,90,88,30,32,280,557,58.16876122082585,Mongolian <openmn-core@lists.sf.net>
+eom,212,0,1557,107,0,234,212,1769,11.98417184850198,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+epiphany,3054,0,0,758,0,0,2643,3054,100.0,Mongolian <openmn-translation@lists.sf.net>
+evince,1392,0,0,333,0,0,1342,1392,100.0,mongolian <gnome-l10n@lists.opensource.mn>
+evolution,1817,2864,12521,1030,960,2290,1768,17202,10.562725264504127,Mongolian <openmn-gnome@lists.sf.net>
+evolution-data-server,585,737,3182,202,139,536,581,4504,12.988454706927177,Mongolian <openmn-gnome@lists.sf.net>
+file-roller,785,152,34,203,34,7,658,971,80.84449021627188,<openmn-translation@lists.sf.net>
+five-or-more,39,90,153,16,28,21,40,282,13.829787234042554,Mongolian <openmn-core@lists.sf.net>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Mongolian
+four-in-a-row,76,42,138,28,21,24,71,256,29.6875,Mongolian <openmn-core@lists.sf.net>
+gala,40,0,100,15,0,19,40,140,28.57142857142857,Mongolian <mn@li.org>
+gconf-editor,336,0,0,98,0,0,317,336,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+gcr,0,9,613,0,5,222,0,622,0.0,Mongolian <openmn-translation@lists.sf.net>
+gdk-pixbuf2,915,376,57,137,59,6,859,1348,67.87833827893175,Mongolian <openmn-gnome@lists.sf.net>
+gdm,21,224,405,7,35,45,21,650,3.230769230769231,Mongolian <openmn-core@lists.sf.net>
+geany,913,1885,3271,258,478,584,747,6069,15.043664524633382,Монгол <tsetsee.yugi@gmail.com>
+gedit,2180,1293,732,507,211,301,1901,4205,51.843043995243754,Mongolian <openmn-core@lists.sf.net>
+gedit-plugins,20,327,858,9,138,322,19,1205,1.6597510373443984,Mongolian <openmn-core@lists.sf.net>
+ggz-gtk-client,7,0,0,7,0,0,7,7,100.0,Mongolian <openmn-core@lists.sf.net>
+glib2,902,769,3106,131,142,474,774,4777,18.882143604772867,Mongolian <openmn-translation@lists.sf.net>
+gnome-applets,3716,258,1168,1061,52,147,3492,5142,72.26760015558149,Mongolian <openmn-core@lists.sf.net>
+gnome-backgrounds,23,0,0,17,0,0,23,23,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+gnome-bluetooth,230,0,284,87,0,68,231,514,44.74708171206226,Mongolian <mn@li.org>
+gnome-calculator,392,368,155,181,142,55,372,915,42.841530054644814,Mongolian <openmn-core@lists.sf.net>
+gnome-chess,10,180,1200,6,63,168,11,1390,0.7194244604316548,Mongolian <openmn-core@lists.sf.net>
+gnome-control-center,3548,0,0,778,0,0,3064,3548,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+gnome-desktop,349,0,0,53,0,0,301,349,100.0,Mongolian <openmn-core@lists.sf.net>
+gnome-desktop3,349,0,0,53,0,0,301,349,100.0,Mongolian <openmn-core@lists.sf.net>
+gnome-dictionary,10,408,415,9,88,86,13,833,1.2004801920768309,Mongolian <openmn-core@lists.sf.net>
+gnome-doc-utils,213,0,0,80,0,0,224,213,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+gnome-font-viewer,2,5,25,2,4,12,2,32,6.25,Mongolian <openmn-core@lists.sf.net>
+gnome-icon-theme,36,2,14,33,1,12,36,52,69.23076923076923,Mongolian <openmn-core@lists.sf.net>
+gnome-keyring,25,165,300,7,20,82,29,490,5.1020408163265305,Mongolian <openmn-translation@lists.sf.net>
+gnome-klotski,2,46,146,2,27,30,6,194,1.0309278350515463,Mongolian <openmn-core@lists.sf.net>
+gnome-mahjongg,17,63,224,10,29,24,21,304,5.592105263157895,Mongolian <openmn-core@lists.sf.net>
+gnome-menus,125,0,0,46,0,0,119,125,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+gnome-mime-data,887,0,0,362,0,0,981,887,100.0,Mongolian <openmn-core@lists.sf.net>
+gnome-mines,11,101,232,7,36,29,14,344,3.1976744186046515,Mongolian <openmn-core@lists.sf.net>
+gnome-nettool,487,31,2,174,4,2,476,520,93.65384615384616,Mongolian <openmn-translation@lists.sf.net>
+gnome-nibbles,70,140,237,24,53,33,54,447,15.659955257270694,Mongolian <openmn-core@lists.sf.net>
+gnome-panel,2235,845,440,321,103,84,1709,3520,63.49431818181818,Mongolian <openmn-translation@lists.sourceforge.net>
+gnome-robots,95,181,321,26,48,23,82,597,15.912897822445563,Mongolian <openmn-core@lists.sf.net>
+gnome-screensaver,1256,0,83,197,0,4,1050,1339,93.80134428678119,Mongolian <openmn-translation@lists.sourceforge.net>
+gnome-screenshot,0,22,297,1,7,51,0,319,0.0,Mongolian <openmn-core@lists.sf.net>
+gnome-search-tool,320,284,755,64,50,86,276,1359,23.5467255334805,Mongolian <openmn-core@lists.sf.net>
+gnome-session,513,3,0,100,1,0,408,516,99.4186046511628,Mongolian <openmn-core@lists.sf.net>
+gnome-settings-daemon,408,129,497,70,32,69,328,1034,39.458413926499034,Mongolian <openmn-translation@lists.sourceforge.net>
+gnome-sudoku,3,94,302,3,31,38,7,399,0.7518796992481203,Mongolian <openmn-core@lists.sf.net>
+gnome-system-log,18,149,355,5,35,54,14,522,3.4482758620689653,Mongolian <openmn-core@lists.sf.net>
+gnome-system-monitor,498,0,0,142,0,0,452,498,100.0,Mongolian <openmn-core@lists.sf.net>
+gnome-terminal,3480,45,897,474,2,45,2757,4422,78.69742198100407,Монгол <openmn-translation@lists.sf.net>
+gnome-tetravex,9,59,152,5,17,23,13,220,4.090909090909091,Mongolian <openmn-core@lists.sf.net>
+gnome-themes,95,0,6,32,0,2,103,101,94.05940594059405,Mongolian <openmn-kdemn@lists.sourceforge.net>
+gnome-vfs2,1123,149,10,209,30,9,960,1282,87.597503900156,Mongolian <openmn-gnome@lists.sf.net>
+granite,1,0,268,1,0,87,1,269,0.37174721189591076,Mongolian <https://l10n.elementary.io/projects/desktop/granite/mn/>
+gtk2,6867,3529,3308,1242,814,728,5648,13704,50.10945709281961,Mongolian <openmn-gnome@lists.sf.net>
+gtk3,5260,3297,3296,972,787,728,4205,11853,44.37695098287354,Mongolian <openmn-gnome@lists.sf.net>
+gtk4,5260,3297,3296,972,787,728,4205,11853,44.37695098287354,Mongolian <openmn-gnome@lists.sf.net>
+gtkhtml3,915,0,0,406,0,0,954,915,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+gtksourceview2,455,0,270,180,0,114,479,725,62.758620689655174,Mongolian <openmn-core@lists.sf.net>
+gtksourceview3,4,12,306,3,8,95,4,322,1.2422360248447204,Mongolian <openmn-core@lists.sf.net>
+gtksourceview4,455,0,270,180,0,114,479,725,62.758620689655174,Mongolian <openmn-core@lists.sf.net>
+gtkspell,11,0,0,5,0,0,14,11,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+gtkspell3,11,0,0,5,0,0,14,11,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+gucharmap,507,0,0,238,0,0,566,507,100.0,Mongolian <openmn-core@lists.sf.net>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iagno,19,88,215,10,31,31,18,322,5.900621118012422,Mongolian <openmn-core@lists.sf.net>
+ibus,116,33,2019,32,5,507,97,2168,5.350553505535055,Mongolian
+im-chooser,14,0,240,3,0,55,13,254,5.511811023622047,LANGUAGE <LL@li.org>
+imsettings,0,0,485,0,0,88,0,485,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Mongolian
+inkscape,247,11424,29258,140,4344,4184,250,40929,0.6034840821911114,Mongolian <openmn-gnome@lists.sf.net>
+iso-codes,728,6382,8943,554,4687,5112,730,16053,4.534977885753442,Mongolian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mn/>
+isomaster,26,1,647,20,1,86,26,674,3.857566765578635,http://littlesvr.ca/ostd/
+libbonobo,543,0,0,107,0,0,472,543,100.0,Mongolian <openmn-translation@lists.sf.net>
+libbonoboui,368,0,0,115,0,0,349,368,100.0,Mongolian <openmn-translation@lists.sf.net>
+libgnome,1773,0,0,273,0,0,1487,1773,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+libgnome-keyring,44,0,0,9,0,0,36,44,100.0,Mongolian <openmn-gnome@lists.sf.net>
+libgnomecanvas,378,0,0,95,0,0,299,378,100.0,Mongolian <openmn-translation@lists.sf.net>
+libgnomeui,1309,0,0,334,0,0,1080,1309,100.0,Mongolian <openmn-translation@lists.sf.net>
+libgtop2,118,16,0,42,2,0,109,134,88.05970149253731,Mongolian <openmn-core@lists.sf.net>
+libgweather,3834,63,205,2776,25,56,3840,4102,93.46660165772794,Mongolian <openmn-core@lists.sf.net>
+libmatekbd,10,0,298,10,0,81,10,308,3.2467532467532463,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+libmatemixer,5,0,237,5,0,121,5,242,2.066115702479339,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+libmateweather,1835,0,4307,1455,0,3119,1843,6142,29.876261803972646,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+libmypaint,2,0,2301,2,0,160,3,2303,0.08684324793747286,Mongolian <https://hosted.weblate.org/projects/mypaint/libmypaint/mn/>
+libmypaint2,2,0,2309,2,0,160,3,2311,0.08654262224145391,Mongolian <https://hosted.weblate.org/projects/mypaint/libmypaint/mn/>
+libosinfo,0,0,783,0,0,168,0,783,0.0,Mongolian
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Mongolian (http://www.transifex.com/the_cavalry/light-locker/language/mn/)
+lightsoff,1,25,71,1,9,9,5,97,1.0309278350515463,Mongolian <openmn-core@lists.sf.net>
+lxmenu-data,59,12,26,24,4,9,57,97,60.824742268041234,Mongolian <openmn-translation@lists.sourceforge.net>
+marco,1902,0,2437,266,0,165,1782,4339,43.834985019589766,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-applets,813,0,15040,269,0,1333,830,15853,5.128366870623856,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-backgrounds,30,0,35,21,0,10,32,65,46.15384615384615,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-calc,52,0,3126,46,0,673,71,3178,1.6362492133417241,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-control-center,849,0,7753,297,0,1215,815,8602,9.869797721460126,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-desktop,1120,0,1104,173,0,112,966,2224,50.35971223021583,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-icon-theme,4,0,0,2,0,0,3,4,100.0,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-media,20,0,219,16,0,83,21,239,8.368200836820083,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-menu,33,0,275,25,0,85,33,308,10.714285714285714,Mongolian (http://www.transifex.com/mate/MATE/language/mn/)
+mate-menus,97,0,0,37,0,0,92,97,100.0,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-notification-daemon,3,0,149,2,0,39,4,152,1.9736842105263157,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-panel,3080,0,3647,439,0,363,2370,6727,45.78563995837669,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-polkit,3,0,120,3,0,18,4,123,2.4390243902439024,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-power-manager,24,0,5115,22,0,532,42,5139,0.46701692936368944,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-screensaver,632,0,388,114,0,55,549,1020,61.96078431372549,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-sensors-applet,14,0,2146,14,0,212,30,2160,0.6481481481481481,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-session-manager,161,0,551,53,0,78,154,712,22.6123595505618,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-settings-daemon,329,0,1868,59,0,259,278,2197,14.974965862539827,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-system-monitor,153,0,4758,87,0,571,178,4911,3.1154551007941356,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-terminal,2117,0,6255,309,0,489,1624,8372,25.286669851887243,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-themes,9,0,65,3,0,20,11,74,12.162162162162163,Mongolian (http://www.transifex.com/mate/MATE/language/mn/)
+mate-user-admin,9,0,619,8,0,123,11,628,1.4331210191082804,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-user-guide,87,0,44593,56,0,3351,96,44680,0.19471799462846912,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mate-utils,537,0,9767,178,0,951,543,10304,5.211568322981367,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+mc,1164,0,3125,421,0,852,1188,4289,27.139193285148057,Mongolian (http://www.transifex.com/mc/mc/language/mn/)
+metacity,3177,3713,29,382,75,7,2974,6919,45.9170400346871,Mongolian <openmn-core@lists.sf.net>
+mingw-GConf2,3832,72,50,443,11,7,3414,3954,96.91451694486595,Mongolian <openmn-translation@lists.sourceforge.net>
+mingw-atk,375,0,0,126,0,0,298,375,100.0,Mongolian <openmn-translation@lists.sf.net>
+mingw-gdk-pixbuf,915,376,57,137,59,6,859,1348,67.87833827893175,Mongolian <openmn-gnome@lists.sf.net>
+mingw-glib2,902,769,3106,131,142,474,774,4777,18.882143604772867,Mongolian <openmn-translation@lists.sf.net>
+mingw-gtk2,6867,3529,3308,1242,814,728,5648,13704,50.10945709281961,Mongolian <openmn-gnome@lists.sf.net>
+mingw-gtk3,5260,3297,3296,972,787,728,4205,11853,44.37695098287354,Mongolian <openmn-gnome@lists.sf.net>
+mingw-gtksourceview3,4,12,306,3,8,95,4,322,1.2422360248447204,Mongolian <openmn-core@lists.sf.net>
+mingw-gtkspell3,11,0,0,5,0,0,14,11,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+mingw-libosinfo,0,0,783,0,0,168,0,783,0.0,Mongolian
+mingw-libvirt,0,0,0,0,0,0,0,0,0.0,Mongolian
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Mongolian (http://www.transifex.com/projects/p/libvirt-glib/language/mn/)
+mingw-osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Mongolian
+mozo,42,0,1,16,0,1,40,43,97.67441860465115,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+muffin,3177,3713,29,382,75,7,2974,6919,45.9170400346871,Mongolian <openmn-core@lists.sf.net>
+mutter,3177,3713,29,382,75,7,2974,6919,45.9170400346871,Mongolian <openmn-core@lists.sf.net>
+mypaint,16,21,6536,14,13,1253,18,6573,0.24342005172676098,Mongolian <https://hosted.weblate.org/projects/mypaint/mypaint/mn/>
+nautilus,6597,465,144,1174,75,13,5791,7206,91.54870940882599,Mongolian <openmn-core@lists.sf.net>
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,69,0,89,10,0,4,50,158,43.67088607594937,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Mongolian
+pam,0,0,597,0,0,120,0,597,0.0,Mongolian (http://www.transifex.com/projects/p/fedora/language/mn/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser5,10,107,151,2,19,29,12,268,3.731343283582089,Mongolian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/mn/>
+pidgin,5612,0,10144,1709,0,1724,5150,15756,35.618177202335616,Mongolian (http://www.transifex.com/pidgin/pidgin/language/mn/)
+pluma,1089,0,12031,318,0,1758,984,13120,8.300304878048781,Mongolian (https://www.transifex.com/mate/teams/13566/mn/)
+policycoreutils,8,0,4485,8,0,690,8,4493,0.17805475183618963,Mongolian
+python-django,3410,0,359,835,0,26,3209,3769,90.47492703634916,Mongolian (http://www.transifex.com/django/django/language/mn/)
+python-django-contrib-comments,250,0,0,61,0,0,237,250,100.0,Mongolian (http://www.transifex.com/django/django-contrib-comments/language/mn/)
+python-django-formtools,32,0,0,11,0,0,30,32,100.0,Mongolian (http://www.transifex.com/projects/p/django-formtools/language/mn/)
+python-django-mptt,188,0,0,22,0,0,154,188,100.0,Bayarkhuu Bataa <bbayarkhuu@gmail.com>
+python-fedora,0,0,214,0,0,29,0,214,0.0,Mongolian
+python-meh,0,0,109,0,0,23,0,109,0.0,Mongolian
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Mongolian
+quadrapassel,90,105,233,25,33,21,73,428,21.02803738317757,Mongolian <openmn-core@lists.sf.net>
+rednotebook,45,0,1102,37,0,203,56,1147,3.9232781168265043,Mongolian <mn@li.org>
+rhythmbox,453,0,669,185,0,107,430,1122,40.37433155080214,LANGUAGE <LL@li.org>
+scratch,1209,0,261,518,0,108,1172,1470,82.24489795918367,LANGUAGE <mongolr_uul_us@yahoo.com>
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Mongolian (http://www.transifex.com/projects/p/fedora/language/mn/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Mongolian (http://www.transifex.com/projects/p/fedora/language/mn/)
+setuptool,47,0,8,13,0,1,50,55,85.45454545454545,Mongolian <openmn-linux@lists.sf.net>
+sound-juicer,853,0,0,147,0,0,806,853,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+stellarium,438,0,128215,343,0,35545,461,128653,0.3404506696307121,Mongolian (https://www.transifex.com/stellarium/teams/80998/mn/)
+sugar,755,26,1524,263,8,258,741,2305,32.75488069414317,LANGUAGE <LL@li.org>
+sugar-abacus,20,0,8,15,0,8,22,28,71.42857142857143,LANGUAGE <LL@li.org>
+sugar-browse,71,0,263,35,0,36,68,334,21.25748502994012,LANGUAGE <LL@li.org>
+sugar-calculator,445,27,394,107,8,54,378,866,51.38568129330254,LANGUAGE <LL@li.org>
+sugar-chat,74,0,63,48,0,33,72,137,54.01459854014598,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,72,4,23,14,1,11,76,99,72.72727272727273,LANGUAGE <LL@li.org>
+sugar-finance,2,0,256,2,0,61,2,258,0.7751937984496124,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,150,0,0,34,0,150,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,17,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,6,0,63,5,0,17,8,69,8.695652173913043,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,41,4,53,13,1,7,35,98,41.83673469387755,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-measure,9,8,138,5,4,64,10,155,5.806451612903226,LANGUAGE <LL@li.org>
+sugar-memorize,56,8,78,43,7,24,62,142,39.436619718309856,LANGUAGE <LL@li.org>
+sugar-paint,37,0,69,34,0,27,44,106,34.90566037735849,LANGUAGE <LL@li.org>
+sugar-physics,13,0,35,13,0,15,14,48,27.083333333333332,LANGUAGE <LL@li.org>
+sugar-pippy,38,15,222,14,1,52,40,275,13.818181818181818,LANGUAGE <LL@li.org>
+sugar-playgo,30,0,55,15,0,15,30,85,35.294117647058826,LANGUAGE <LL@li.org>
+sugar-portfolio,15,0,58,9,0,16,17,73,20.54794520547945,LANGUAGE <LL@li.org>
+sugar-read,53,0,84,27,0,23,48,137,38.68613138686132,LANGUAGE <LL@li.org>
+sugar-record,23,2,37,15,1,8,25,62,37.096774193548384,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,52,0,175,45,0,29,57,227,22.90748898678414,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,6,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,5,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,179,0,34,119,0,4,235,213,84.03755868544602,LANGUAGE <LL@li.org>
+sugar-turtleart,252,16,1191,155,9,271,257,1459,17.272104180945853,Mongolian
+sugar-typing-turtle,440,38,121,96,5,26,387,599,73.45575959933221,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,1,0,157,1,0,77,1,158,0.6329113924050633,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,74,0,47,44,0,11,78,121,61.15702479338842,LANGUAGE <LL@li.org>
+supertuxkart,0,0,5556,0,0,1058,0,5556,0.0,Mongolian (Mongolia) (http://www.transifex.com/supertuxkart/supertuxkart/language/mn_MN/)
+swell-foop,13,58,195,11,22,22,17,266,4.887218045112782,Mongolian <openmn-core@lists.sf.net>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+system-config-language,193,17,5,26,1,4,179,215,89.76744186046511,Mongolian <openmn-linux@lists.sf.net>
+system-config-rootpassword,9,32,75,2,6,11,7,116,7.758620689655173,Mongolian <openmn-linux@lists.sf.net>
+tali,104,102,215,35,33,29,94,421,24.70308788598575,Mongolian <openmn-core@lists.sf.net>
+totem-pl-parser,28,0,0,7,0,0,25,28,100.0,Mongolian <openmn-gnome@lists.sf.net>
+tuxmath,792,138,525,153,19,77,673,1455,54.43298969072165,
+tuxpaint,0,0,1662,0,0,305,0,1662,0.0,LANGUAGE <LL@li.org>
+tuxpaint-stamps,0,0,3249,0,0,805,0,3249,0.0,
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none
+xed,557,0,4083,149,0,855,474,4640,12.004310344827585,Mongolian (http://www.transifex.com/projects/p/MATE/language/mn/)
+xreader,1097,0,576,264,0,119,1031,1673,65.57083084279736,Mongolian (http://www.transifex.com/mate/MATE/language/mn/)
+yelp,92,80,434,38,45,65,90,606,15.181518151815181,Mongolian <openmn-core@lists.sf.net>
+yelp-xsl,213,0,0,80,0,0,224,213,100.0,Mongolian <openmn-translation@lists.sourceforge.net>
+zenity,256,71,67,80,21,11,227,394,64.9746192893401,Mongolian <openmn-core@lists.sf.net>

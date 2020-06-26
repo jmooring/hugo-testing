@@ -1,0 +1,133 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+atril,52,0,3779,38,0,597,65,3831,1.357347950926651,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+audience,0,0,106,0,0,48,0,106,0.0,
+caja,3009,0,6347,647,0,870,3198,9356,32.16117999144934,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+caja-extensions,4,0,566,4,0,127,5,570,0.7017543859649122,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Igbo
+cinnamon-translations,8,0,313,2,0,66,7,321,2.4922118380062304,Igbo
+deepin-metacity,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+deepin-mutter,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,0,0,80,0,0,37,0,80,0.0,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,449,0,0,180,0,449,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+engrampa,42,0,1904,22,0,333,44,1946,2.158273381294964,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+eom,28,0,1695,26,0,297,32,1723,1.625072547881602,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+epiphany,1949,511,544,536,146,70,2038,3004,64.88015978695073,Igbo
+gnome-desktop,203,14,132,29,3,20,227,349,58.16618911174785,Igbo
+gnome-desktop3,203,14,132,29,3,20,227,349,58.16618911174785,Igbo
+gnome-menus,116,15,26,42,5,9,121,157,73.88535031847134,<en@li.org>
+gnome-session,117,86,519,20,28,65,131,722,16.20498614958449,Igbo
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,9,0,665,8,0,99,10,674,1.3353115727002967,http://littlesvr.ca/ostd/
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+libmateweather,3,0,496,3,0,180,3,499,0.6012024048096193,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+marco,1966,0,2182,271,0,142,1881,4148,47.396335583413695,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-applets,52,0,16284,52,0,1527,67,16336,0.31831537708129287,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-calc,4,0,1620,4,0,234,4,1624,0.24630541871921183,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-control-center,43,0,7872,38,0,959,48,7915,0.5432722678458622,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-desktop,56,0,2249,15,0,284,58,2305,2.4295010845986984,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-media,5,0,221,5,0,91,7,226,2.2123893805309733,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-menu,15,0,301,13,0,105,18,316,4.746835443037975,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+mate-menus,59,0,38,24,0,13,63,97,60.824742268041234,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-notification-daemon,2,0,137,1,0,36,2,139,1.4388489208633095,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-panel,2671,0,3861,335,0,425,2672,6532,40.890998162890384,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-power-manager,14,0,5232,14,0,567,15,5246,0.2668699961875715,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-sensors-applet,9,0,2206,9,0,215,10,2215,0.40632054176072235,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-session-manager,60,0,621,21,0,93,70,681,8.81057268722467,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-system-monitor,13,0,1320,12,0,301,16,1333,0.9752438109527383,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-terminal,28,0,8425,23,0,767,31,8453,0.3312433455577901,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+mate-utils,126,0,9976,71,0,1015,144,10102,1.2472777667788557,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+metacity,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+mozo,3,0,39,2,0,14,3,42,7.142857142857142,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+muffin,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+mutter,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+nautilus,3745,2655,1744,723,386,205,3973,8144,45.98477406679764,Igbo
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+olpc-switch-desktop,0,2,156,0,1,13,0,158,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,111,0,0,54,0,111,0.0,none
+pantheon-agent-geoclue2,0,0,46,0,0,13,0,46,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,20,0,0,10,0,20,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pluma,49,0,5019,31,0,1077,54,5068,0.9668508287292817,Igbo (https://www.transifex.com/mate/teams/13566/ig/)
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,252,0,0,93,0,252,0.0,
+sugar,4459,0,0,1024,0,0,4722,4459,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,34,23,0,25,31,62,45.16129032258064,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,1,1741,0,1,327,0,1742,0.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,52,81,0,34,164,189,72.4867724867725,LANGUAGE <LL@li.org>
+sugar-clock,7,7,118,2,1,39,6,132,5.303030303030303,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,447,0,0,103,0,447,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,109,0,0,29,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,1,0,133,1,0,41,1,134,0.7462686567164178,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,196,0,0,42,0,196,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,155,73,0,73,182,310,50.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,101,1,94,58,1,54,112,196,51.53061224489795,LANGUAGE <LL@li.org>
+sugar-physics,0,0,96,0,0,56,0,96,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,383,0,0,97,0,383,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,11,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,251,0,0,92,0,251,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,454,0,0,148,0,454,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,130,4,0,30,7,136,4.411764705882353,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,308,0,7,216,0,4,336,315,97.77777777777777,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,2916,1,0,869,1,2918,0.06854009595613435,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,6,0,0,6,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-write,108,13,121,47,8,55,119,242,44.62809917355372,LANGUAGE <LL@li.org>
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,none
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,none
+switchboard-plug-display,0,0,126,0,0,49,0,126,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,none
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,0,131,0,0,46,0,131,0.0,
+vocal,0,0,377,0,0,79,0,377,0.0,Igbo <ig@li.org>
+wingpanel,0,0,6,0,0,1,0,6,0.0,none
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none

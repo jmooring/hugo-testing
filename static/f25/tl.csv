@@ -1,0 +1,88 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Tagalog (http://www.transifex.com/projects/p/fedora-abrt/language/tl/)
+appcenter,155,4,522,65,1,81,242,681,22.760646108663728,LANGUAGE <LL@li.org>
+asunder,4,0,476,4,0,83,5,480,0.8333333333333334,http://littlesvr.ca/ostd/
+audience,56,0,50,24,0,24,85,106,52.83018867924528,Tagalog <tl@li.org>
+blivet-gui,0,0,713,0,0,187,0,713,0.0,Tagalog
+blueberry,24,0,117,7,0,27,33,141,17.02127659574468,Tagalog <tl@li.org>
+capnet-assist,27,0,5,3,0,2,25,32,84.375,Tagalog <tl@li.org>
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Tagalog (http://www.transifex.com/projects/p/certmonger/language/tl/)
+cinnamon-translations,2170,0,18867,706,0,3674,2827,21037,10.315159005561629,Tagalog <tl@li.org>
+console-setup,59,185,741,43,35,97,64,985,5.98984771573604,Tagalog <debian-tl@banwa.upm.edu.ph>
+debconf,743,50,2,83,3,1,897,795,93.45911949685535,Tagalog <debian-tl@banwa.upm.edu.ph>
+deluge,5,0,2639,3,0,855,7,2644,0.18910741301059003,Tagalog <tl@li.org>
+dnfdragora,147,0,449,109,0,172,167,596,24.664429530201343,Tagalog (https://www.transifex.com/MageiaLinux/teams/9361/tl/)
+dpkg,4054,4001,2935,577,514,276,4787,10990,36.88808007279345,Tagalog <debian-tl@banwa.upm.edu.ph>
+exaile,20,0,3986,2,0,1023,22,4006,0.4992511233150275,Tagalog <tl@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Tagalog
+gala,175,0,508,40,0,37,207,683,25.622254758418737,Tagalog <tl@li.org>
+glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-do,377,0,235,107,0,37,513,612,61.60130718954249,Tagalog <tl@li.org>
+gnome-hearts,340,0,69,90,0,16,296,409,83.12958435207824,Tagalog <tl@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+granite,71,0,85,38,0,19,91,156,45.51282051282051,Tagalog <tl@li.org>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tagalog (http://www.transifex.com/projects/p/initial-setup/language/tl/)
+iso-codes,885,118,85,390,32,27,880,1088,81.34191176470588,Tagalog <debian-tl@banwa.upm.edu.ph>
+isomaster,11,0,663,10,0,97,12,674,1.6320474777448073,http://littlesvr.ca/ostd/
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+libreport,0,0,3501,0,0,452,0,3501,0.0,Tagalog (http://www.transifex.com/projects/p/libreport/language/tl/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Tagalog <tl@li.org>
+mate-menu,241,12,47,99,1,10,359,300,80.33333333333333,Tagalog <tl@li.org>
+maya-calendar,210,0,184,108,0,56,245,394,53.299492385786806,LANGUAGE <LL@li.org>
+mingw-glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+mintmenu,2105,0,5028,635,0,516,2714,7133,29.51072480022431,Tagalog <tl@li.org>
+mtpaint,944,0,2187,365,0,507,1130,3131,30.150111785372086,Tagalog <tl@li.org>
+nemo-extensions,1,0,7,1,0,1,2,8,12.5,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+noise,604,0,718,240,0,137,796,1322,45.688350983358546,LANGUAGE <LL@li.org>
+onboard,2,0,2316,2,0,508,4,2318,0.08628127696289906,Tagalog <tl@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Tagalog (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/tl/)
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,49,0,29,31,0,5,71,78,62.82051282051282,LANGUAGE <LL@li.org>
+pantheon-files,1069,0,1418,261,0,231,1296,2487,42.983514274225975,Tagalog <tl@li.org>
+pantheon-greeter,29,0,0,10,0,0,35,29,100.0,Tagalog <https://weblate.elementary.io/projects/desktop/greeter/tl/>
+pantheon-photos,228,0,3886,40,0,833,260,4114,5.5420515313563445,LANGUAGE <LL@li.org>
+pantheon-terminal,165,0,59,51,0,7,199,224,73.66071428571429,Tagalog <tl@li.org>
+pgadmin3,1297,8617,6984,405,2290,1707,1426,16898,7.675464552017991,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,666,0,1887,253,0,571,813,2553,26.08695652173913,Tagalog <tl@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Tagalog (http://www.transifex.com/projects/p/python-meh/language/tl/)
+rednotebook,77,0,1070,17,0,223,106,1147,6.713164777680906,Tagalog <tl@li.org>
+scratch-text-editor,609,0,281,186,0,27,804,890,68.42696629213482,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+shadow-utils,1069,1149,1705,210,178,194,1323,3923,27.249553912821824,Tagalog <debian-tl@banwa.upm.edu.ph>
+siril,547,17,7858,112,11,1093,557,8422,6.494894324388506,
+slingshot-launcher,46,0,171,21,0,47,63,217,21.19815668202765,Tagalog <tl@li.org>
+snap-photobooth,8,0,17,3,0,2,13,25,32.0,Tagalog <tl@li.org>
+stellarium,98,0,23448,77,0,5736,110,23546,0.41620657436507263,Tagalog <tl@li.org>
+switchboard,24,0,38,11,0,7,50,62,38.70967741935484,Tagalog <tl@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,27,0,45,14,0,8,40,72,37.5,Tagalog <tl@li.org>
+switchboard-plug-applications,24,0,61,11,0,18,36,85,28.235294117647058,Tagalog <tl@li.org>
+switchboard-plug-display,18,0,15,9,0,6,20,33,54.54545454545454,LANGUAGE <LL@li.org>
+switchboard-plug-mouse-touchpad,37,0,8,17,0,4,41,45,82.22222222222221,Tagalog <tl@li.org>
+switchboard-plug-networking,127,0,305,51,0,74,172,432,29.398148148148145,Tagalog <tl@li.org>
+switchboard-plug-notifications,4,3,124,3,2,13,8,131,3.0534351145038165,Tagalog <tl@li.org>
+switchboard-plug-onlineaccounts,58,0,103,23,0,26,84,161,36.024844720496894,Tagalog <tl@li.org>
+switchboard-plug-pantheon-shell,70,0,62,30,0,21,79,132,53.03030303030303,Tagalog <tl@li.org>
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Tagalog (http://www.transifex.com/projects/p/system-config-kickstart/language/tl/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+transmission,1,0,1808,1,0,493,13,1809,0.055279159756771695,Tagalog <tl@li.org>
+tuxmath,860,180,414,167,26,55,1008,1454,59.147180192572215,LANGUAGE <LL@li.org>
+tuxpaint,186,49,1356,90,21,180,209,1591,11.69076052796983,LANGUAGE <LL@li.org>
+ufw,0,0,879,1,0,180,0,879,0.0,Tagalog <tl@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+wesnoth,951,1908,253157,456,576,15323,1177,256016,0.3714611586775826,
+wingpanel-indicator-datetime,20,0,0,6,0,0,25,20,100.0,Tagalog <tl@li.org>
+wingpanel-indicator-network,76,12,13,22,2,7,109,101,75.24752475247524,Tagalog <tl@li.org>
+wingpanel-indicator-notifications,12,0,17,6,0,5,15,29,41.37931034482759,Tagalog <tl@li.org>
+wingpanel-indicator-power,89,0,0,24,0,0,104,89,100.0,Tagalog <tl@li.org>
+wingpanel-indicator-session,47,2,5,13,1,3,50,54,87.03703703703704,Tagalog <tl@li.org>
+wingpanel-indicator-sound,15,0,0,7,0,0,17,15,100.0,Tagalog <tl@li.org>
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>

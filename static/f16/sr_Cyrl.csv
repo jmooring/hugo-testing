@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+im-chooser,54,0,172,14,0,39,57,226,23.893805309734514,LANGUAGE <LL@li.org>
+imsettings,60,0,344,13,0,61,61,404,14.85148514851485,LANGUAGE <LL@li.org>
+wine,2219,2292,9601,823,664,1694,2124,14112,15.724206349206348,none

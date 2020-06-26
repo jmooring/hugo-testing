@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+cinnamon-translations,341,0,5986,160,0,1468,425,6327,5.3896001264422315,Tsonga <translate-discuss-ts@lists.sourceforge.net>
+eog,1589,0,0,320,0,0,1886,1589,100.0,ts
+exaile,1,0,4005,1,0,1024,1,4006,0.024962556165751375,Tsonga <ts@li.org>
+isomaster,6,0,668,5,0,102,7,674,0.8902077151335311,http://littlesvr.ca/ostd/
+kde-i18n,5,0,0,5,0,0,5,5,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Tsonga (http://www.transifex.com/mate/MATE/language/ts/)
+libreoffice,32273,11136,57444,9422,5356,16659,42753,100853,32.00003966168582,LANGUAGE <LL@li.org>
+mate-menu,13,0,287,7,0,103,17,300,4.333333333333334,Tsonga (http://www.transifex.com/mate/MATE/language/ts/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mintmenu,17,0,363,8,0,119,23,380,4.473684210526316,Tsonga <ts@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Tsonga <ts@li.org>
+xviewer,1494,0,183,293,0,31,1755,1677,89.08765652951699,ts

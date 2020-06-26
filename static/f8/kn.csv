@@ -1,0 +1,79 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,2037,0,0,465,0,0,1683,2037,100.0,Kannada <translation@sampada.info>
+anaconda,10203,0,0,1245,0,0,7768,10203,100.0,Kannada <en@li.org>
+atk,21,21,328,21,13,89,27,370,5.675675675675676,Kannada <LL@li.org>
+atomix,125,0,0,44,0,0,113,125,100.0,Kannada <LL@li.org>
+authconfig,879,31,223,210,1,12,789,1133,77.58164165931156,
+chkconfig,430,0,0,88,0,0,399,430,100.0,Kannada <en@li.org>
+compiz,66,0,0,11,0,0,55,66,100.0,Kannada <en@li.org>
+devhelp,5,1,203,5,1,45,6,209,2.3923444976076556,Kannada <LL@li.org>
+eel2,12,19,204,7,3,42,13,235,5.106382978723404,Kannada <LL@li.org>
+eog,38,48,471,21,26,103,34,557,6.822262118491921,Kannada <LL@li.org>
+file-roller,82,55,834,50,22,172,90,971,8.444902162718847,Kannada <LL@li.org>
+firstboot,598,0,0,59,0,0,445,598,100.0,Kannada <en@li.org>
+gconf-editor,3,8,309,3,5,86,3,320,0.9375,Kannada <LL@li.org>
+gdm,7179,0,0,938,0,0,5855,7179,100.0,Kannada <en@li.org>
+gedit,2145,340,2677,594,82,455,1860,5162,41.55366137156141,Kannada <en@li.org>
+gedit-plugins,445,0,2964,263,0,378,470,3409,13.05368143150484,Kannada <LL@li.org>
+glib2,1316,40,0,168,5,0,1163,1356,97.05014749262537,Kannada <en@li.org>
+gnome-desktop,41,0,289,28,0,48,45,330,12.424242424242424,Kannada <en@li.org>
+gnome-icon-theme,15,0,37,15,0,31,15,52,28.846153846153843,Kannada <LL@li.org>
+gnome-mag,5,0,0,2,0,0,6,5,100.0,Kannada <LL@li.org>
+gnome-menus,154,8,3,56,1,1,150,165,93.33333333333333,Kannada <en@li.org>
+gnome-panel,513,9,4078,212,2,396,482,4600,11.152173913043478,Kannada <en@li.org>
+gnome-session,49,9,458,31,4,66,49,516,9.496124031007753,Kannada <LL@li.org>
+gnome-spell,55,14,18,37,7,17,48,87,63.2183908045977,Kannada <LL@li.org>
+hwbrowser,116,0,0,51,0,0,109,116,100.0,kannada
+im-chooser,70,45,57,8,6,10,56,172,40.69767441860465,Kannada <en@li.org>
+initscripts,3427,0,306,813,0,44,3481,3733,91.80283953924457,Kannada <en@li.org>
+iso-codes,934,133,11107,407,66,8062,766,12174,7.672088056513882,Kannada
+kexec-tools,206,0,0,14,0,0,182,206,100.0,Kannada <en@li.org>
+kudzu,73,0,0,13,0,0,63,73,100.0,Kannada <en@li.org>
+libbonoboui,44,7,309,32,3,78,49,360,12.222222222222221,Kannada <LL@li.org>
+libgnomecanvas,32,0,325,22,0,72,41,357,8.96358543417367,Kannada <LL@li.org>
+libgnomeprintui22,41,32,354,30,21,84,44,427,9.601873536299765,Kannada <LL@li.org>
+libgnomeui,206,22,1191,112,12,221,207,1419,14.517265680056376,Kannada <LL@li.org>
+libuser,534,16,502,128,4,90,539,1052,50.760456273764255,Kannada <en@li.org>
+libvirt,1472,21,804,360,4,143,1434,2297,64.08358728776665,Kannada <en@li.org>
+libwnck,30,29,14,15,9,6,30,73,41.0958904109589,Kannada <LL@li.org>
+nautilus,2027,35,4899,661,12,486,1791,6961,29.119379399511562,Kannada <en@li.org>
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pidgin,4903,1482,9269,1545,449,1342,4124,15654,31.321068097610834,Kannada <translation@sampada.info>
+planner,5,26,1058,5,20,330,6,1089,0.4591368227731864,Kannada <LL@li.org>
+po4a,174,40,1399,33,7,123,149,1613,10.787352758834471,Kannada <kn@li.org>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,240,43,1,22,2,1,196,284,84.50704225352112,Kannada <en@li.org>
+redhat-menus,261,0,0,86,0,0,258,261,100.0,Kannada <en@li.org>
+rhgb,121,0,0,29,0,0,113,121,100.0,Kannada <en@li.org>
+rhpl,185,0,0,80,0,0,185,185,100.0,Kannada <en@li.org>
+rhpxl,136,0,0,43,0,0,135,136,100.0,Kannada <en@li.org>
+setroubleshoot,42,59,406,14,14,108,46,507,8.284023668639055,Kannada <en@li.org>
+setroubleshoot-plugins,151,586,7092,8,22,203,118,7829,1.928726529569549,Kannada <en@li.org>
+setuptool,60,0,0,17,0,0,60,60,100.0,Kannada <en@li.org>
+specspo,0,0,305294,0,0,16850,0,305294,0.0,LANGUAGE <LL@li.org>
+stellarium,17,13,1066,10,7,459,13,1096,1.551094890510949,Kannada <kn@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,LANGUAGE <LL@li.org>
+system-config-bind,0,0,9415,0,0,1060,0,9415,0.0,LANGUAGE <LL@li.org>
+system-config-boot,46,0,0,10,0,0,45,46,100.0,Kannada <en@li.org>
+system-config-date,938,34,26,600,6,3,1006,998,93.9879759519038,Kannada <en@li.org>
+system-config-display,0,0,398,0,0,63,0,398,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,2917,7,32,275,2,2,2420,2956,98.68064952638701,Kannada <en@li.org>
+system-config-httpd,5,4,849,3,2,218,5,858,0.5827505827505828,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,78,0,0,12,0,78,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,1028,12,14,271,2,8,938,1054,97.53320683111954,Kannada <en@li.org>
+system-config-language,49,0,0,11,0,0,34,49,100.0,Kannada <en@li.org>
+system-config-lvm,0,0,2084,0,0,323,0,2084,0.0,LANGUAGE <LL@li.org>
+system-config-network,2341,2,668,639,1,93,2190,3011,77.74825639322485,Kannada <en@li.org>
+system-config-nfs,318,0,0,73,0,0,301,318,100.0,kannada
+system-config-printer,1234,44,7,308,14,4,1118,1285,96.03112840466926,Kannada <en@li.org>
+system-config-rootpassword,0,0,50,0,0,9,0,50,0.0,LANGUAGE <LL@li.org>
+system-config-samba,383,9,31,133,2,3,393,423,90.54373522458629,kannada
+system-config-services,232,0,0,62,0,0,235,232,100.0,kannada <en@li.org>
+system-config-soundcard,224,0,0,51,0,0,197,224,100.0,Kannada <en@li.org>
+system-config-users,845,253,88,142,18,5,731,1186,71.24789207419899,Kannada <en@li.org>
+system-switch-mail,134,0,0,20,0,0,127,134,100.0,Kannada <en@li.org>
+usermode,570,0,0,96,0,0,481,570,100.0,Kannada <en@li.org>
+virt-manager,810,507,1462,206,149,227,716,2779,29.147175242893127,Kannada <en@li.org>
+vte,44,5,47,9,1,8,33,96,45.83333333333333,Kannada <LL@li.org>
+yelp,24,68,514,11,35,102,22,606,3.9603960396039604,Kannada <LL@li.org>
+zenity,114,60,220,49,19,44,107,394,28.934010152284262,Gnome Kannada Team <indlinux-hindi-gnome@lists.sourceforge.net>

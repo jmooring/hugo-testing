@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cacti,24981,6038,1583,3710,723,118,24161,32602,76.62413348874301,Arabic (Saudi Arabia) <http://translate.cacti.net/projects/cacti/core-v1-2-x/ar_SA/>
+clapper,253,0,0,103,0,0,257,253,100.0,Arabic
+gimagereader,1544,150,123,439,22,21,1587,1817,84.97523390203632,Arabic (Saudi Arabia) <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/>
+gnome-shell-extension-gsconnect,757,0,67,257,0,3,813,824,91.86893203883496,Arabic
+mate-themes,0,0,74,0,0,23,0,74,0.0,Arabic (Saudi Arabia) (http://www.transifex.com/mate/MATE/language/ar_SA/)
+pidgin,85,0,13924,51,0,3139,84,14009,0.6067528017702906,Arabic (Saudi Arabia) (http://www.transifex.com/pidgin/pidgin/language/ar_SA/)
+poedit,2833,0,334,637,0,52,2755,3167,89.4537417113988,Arabic
+python-flask-admin,320,0,47,97,0,15,362,367,87.19346049046321,Arabic
+texi2html,12,0,7,12,0,7,16,19,63.1578947368421,Arabic <guido@imperia.net>
+warzone2100,12961,0,2812,2684,0,654,15090,15773,82.17206618905725,Arabic
+xournalpp,4596,0,0,890,0,0,4724,4596,100.0,Arabic

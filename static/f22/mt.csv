@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,316,0,146712,289,0,16944,316,147028,0.2149250482901216,Maltese (http://www.transifex.com/calibre/calibre/language/mt/)
+gettext,376,0,24,73,0,8,373,400,94.0,Maltese <translation-team-mt@lists.sourceforge.net>
+gnome-do,62,0,550,16,0,128,62,612,10.130718954248366,Maltese <mt@li.org>
+gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,60,40,386,10,7,40,55,486,12.345679012345679,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-good,362,249,148,47,32,28,342,759,47.69433465085639,Maltese <translation-team-mt@lists.sourceforge.net>
+iso-codes,755,7083,7942,635,5219,4367,760,15780,4.784537389100127,Maltese <mt@li.org>
+koffice-kivio,1910,1752,4755,559,762,1040,1775,8417,22.69217060710467,Maltese <mt@li.org>
+libkexif,21,4,0,13,1,0,22,25,84.0,Maltese <mt@li.org>
+mingw-gettext,376,0,24,73,0,8,373,400,94.0,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,60,40,386,10,7,40,55,486,12.345679012345679,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,362,256,148,47,33,28,342,766,47.25848563968668,Maltese <translation-team-mt@lists.sourceforge.net>
+oggconvert,123,0,9,40,0,4,118,132,93.18181818181817,Maltese <mt@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+stellarium,73,0,15752,69,0,4194,75,15825,0.46129541864139023,Maltese <mt@li.org>
+sysstat,412,0,0,51,0,0,432,412,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+transmission,19,0,1790,11,0,483,19,1809,1.0503040353786623,Maltese <mt@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

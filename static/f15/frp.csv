@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+exaile,2,0,2174,2,0,585,2,2176,0.09191176470588235,Franco-Provençal <frp@li.org>
+lxdm,0,0,30,0,0,18,0,30,0.0,LANGUAGE <LL@li.org>
+lxinput,60,3,7,21,1,1,69,70,85.71428571428571,LANGUAGE <LL@li.org>
+lxmusic,116,9,78,65,4,20,156,203,57.14285714285714,LANGUAGE <LL@li.org>
+lxpanel,782,38,72,270,12,15,983,892,87.66816143497758,LXDE Traduccion Arpitan <alekcxjo+arpitan@gmail.com>
+lxsession,23,6,7,12,1,1,24,36,63.888888888888886,LANGUAGE <LL@li.org>
+lxtask,43,0,79,25,0,23,50,122,35.24590163934426,LANGUAGE <LL@li.org>
+lxterminal,56,34,54,44,18,23,68,144,38.88888888888889,LANGUAGE <LL@li.org>
+oggconvert,89,0,43,39,0,5,111,132,67.42424242424242,Franco-Provençal <frp@li.org>

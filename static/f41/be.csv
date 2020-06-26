@@ -1,0 +1,810 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,3838,4088,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+NetworkManager-l2tp,199,0,1095,46,0,155,189,1294,15.378670788253476,Belarusian <i18n-bel-gnome@googlegroups.com>
+NetworkManager-openvpn,163,391,1600,56,54,190,157,2154,7.567316620241411,Belarusian <i18n-bel-gnome@googlegroups.com>
+Thunar,4323,0,1097,800,0,174,3961,5420,79.76014760147602,Belarusian (https://www.transifex.com/xfce/teams/16840/be/)
+WindowMaker,0,0,0,0,0,0,0,0,0.0,
+a2ps,589,872,71,130,42,12,571,1532,38.44647519582246,Belarusian <i18n@mova.org>
+abrt,9,0,3667,3,0,414,13,3676,0.24483133841131663,Belarusian <https://translate.fedoraproject.org/projects/abrt/abrt/be/>
+accerciser,658,0,0,224,0,0,633,658,100.0,Belarusian <i18n@mova.org>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Belarusian (http://www.transifex.com/freedesktop/accountsservice/language/be/)
+aisleriot,3075,0,0,679,0,0,2425,3075,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+akonadi-calendar-tools,9,0,449,9,0,94,9,458,1.9650655021834063,Belarusian <i18n@mova.org>
+akonadi-server,0,213,2427,0,75,362,0,2640,0.0,Belarusian <i18n@mova.org>
+akregator,803,603,487,207,151,77,696,1893,42.419440042260966,Belarusian <i18n@mova.org>
+alacarte,138,0,0,26,0,0,124,138,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+amarok,208,3150,10802,135,1192,1166,207,14160,1.4689265536723164,Belarusian <i18n@mova.org>
+anaconda,6175,936,1155,1104,146,112,5537,8266,74.70360512944593,Belarusian <https://translate.fedoraproject.org/projects/anaconda/master/be/>
+anaconda-webui,44,474,669,16,135,91,46,1187,3.7068239258635214,Belarusian <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/be/>
+android-tools,26,0,6002,26,0,940,26,6028,0.43132050431320507,Belarusian
+ark,1958,0,25,368,0,3,1834,1983,98.73928391326274,Belarusian
+arm-none-eabi-gcc-cs,221,15378,127656,65,2693,14595,216,143255,0.15427035705560016,Belarusian <i18n@tut.by>
+aspell,404,336,1058,80,57,166,327,1798,22.469410456062292,Belarusian <i18n@mova.org>
+asunder,17,0,476,15,0,77,17,493,3.4482758620689653,http://littlesvr.ca/ostd/
+at-spi2-core,464,0,0,175,0,0,456,464,100.0,Belarusian
+atomix,168,0,0,43,0,0,153,168,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+atril,1378,8,2978,399,2,333,1236,4364,31.57653528872594,Belarusian (https://www.transifex.com/mate/teams/13566/be/)
+audacious,668,0,243,297,0,75,679,911,73.32601536772778,Belarusian (http://app.transifex.com/audacious/audacious/language/be/)
+audacious-plugins,837,0,3588,411,0,583,828,4425,18.915254237288135,Belarusian (http://app.transifex.com/audacious/audacious/language/be/)
+audacity,2923,6327,9999,870,1993,1536,2904,19249,15.185204426203958,Patricia Clausnitzer <by.marcis@gmail.com>
+audiocd-kio,200,8,556,34,5,134,178,764,26.17801047120419,Belarusian <i18n@mova.org>
+avr-gcc,221,15350,121622,65,2677,13970,216,137193,0.1610869359223867,Belarusian <i18n@tut.by>
+baobab,280,0,0,78,0,0,283,280,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+bijiben,390,0,0,125,0,0,373,390,100.0,
+bison,54,72,57,14,15,17,53,183,29.508196721311474,Belarusian <i18n@mova.org>
+bleachbit,576,69,1278,145,15,204,496,1923,29.95319812792512,
+blender,442,0,0,94,0,0,401,442,100.0,Belarusian <https://translate.blender.org/projects/blender-ui/ui/be/>
+blinken,109,21,4,34,11,2,105,134,81.34328358208955,Belarusian <i18n@mova.org>
+blueman,1564,378,423,513,111,200,1508,2365,66.13107822410149,Belarusian <https://hosted.weblate.org/projects/blueman/2-4/be/>
+bookworm,667,54,74,135,6,8,608,795,83.8993710691824,Belarusian <https://hosted.weblate.org/projects/bookworm/bookworm/be/>
+bottles,440,0,3011,190,0,486,428,3451,12.749927557229787,Belarusian <https://hosted.weblate.org/projects/bottles/bottles/be/>
+bovo,9,3,70,4,2,20,6,82,10.975609756097562,Belarusian <i18n@mova.org>
+brasero,5549,0,0,969,0,0,4790,5549,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+bubblemail,0,0,478,0,0,141,0,478,0.0,none
+budgie-control-center,6135,0,466,1634,0,136,5837,6601,92.94046356612634,Belarusian (https://app.transifex.com/buddiesofbudgie/teams/129844/be/)
+budgie-desktop,373,250,597,128,42,152,343,1220,30.573770491803277,Belarusian <http://translate.getsol.us/projects/budgie-desktop/translations/be/>
+budgie-screensaver,291,0,0,58,0,0,250,291,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+budgie-session,435,0,0,68,0,0,394,435,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+cairo-dock,2744,0,4720,401,0,426,2200,7464,36.763129689174704,Belarusian <be@li.org>
+caja,7157,0,2999,1377,0,219,6008,10156,70.47065773926742,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+caja-actions,136,0,18676,84,0,1432,142,18812,0.7229428024665108,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+caja-extensions,572,0,273,141,0,40,514,845,67.6923076923077,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+calamares,427,0,51,74,0,9,397,478,89.3305439330544,Belarusian (https://app.transifex.com/calamares/teams/20061/be/)
+calendarsupport,39,1980,740,17,298,70,39,2759,1.4135556361000363,Belarusian (Official spelling) <i18n@mova.org>
+calibre,1038,0,178416,479,0,19671,953,179454,0.5784212110067204,Belarusian (http://app.transifex.com/calibre/calibre/language/be/)
+calligra,281,21574,6419,182,4033,1213,285,28274,0.9938459361957983,Belarusian (Official spelling) <i18n@mova.org>
+calligraplan,67,3043,5784,54,1064,822,70,8894,0.7533168428153811,Belarusian <i18n@mova.org>
+calls,14,0,0,8,0,0,13,14,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+camorama,372,83,380,76,26,67,355,835,44.550898203592816,Belarusian <i18n@mova.org>
+caribou,171,0,0,57,0,0,159,171,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+catfish,468,0,92,120,0,24,403,560,83.57142857142857,Belarusian (https://app.transifex.com/xfce/teams/16840/be/)
+cervisia,1471,107,37,380,26,14,1295,1615,91.08359133126936,Belarusian <i18n@mova.org>
+chatty,1165,264,0,380,37,0,1174,1429,81.5255423372988,Belarusian <Belarusian>
+cheese,628,0,0,130,0,0,531,628,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+chkconfig,367,66,164,75,12,22,345,597,61.47403685092128,Belarusian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/be/>
+cinnamon-desktop,234,0,0,32,0,0,230,234,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+cinnamon-translations,21701,0,2076,5105,0,280,19976,23777,91.2688732809017,Belarusian <be@li.org>
+clementine,2948,0,855,867,0,194,2684,3803,77.51774914541151,Belarusian (http://app.transifex.com/davidsansome/clementine/language/be/)
+clutter,3057,0,0,675,0,0,2357,3057,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+cogl,393,0,0,80,0,0,361,393,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+console-setup,940,52,0,179,1,0,774,992,94.75806451612904,Belarusian <i18n@mova.org>
+coreutils,2380,4899,14767,453,524,917,2302,22046,10.795609180803774,Belarusian <i18n@mova.org>
+cozy,789,0,0,177,0,0,759,789,100.0,Belarusian (Belarus) (https://app.transifex.com/geigi/teams/78138/be_BY/)
+cpeditor,0,258,389,0,190,193,0,647,0.0,Belarusian <i18n@mova.org>
+cracklib,90,0,0,15,0,0,66,90,100.0,Belarusian
+cross-gcc,221,15363,121701,65,2679,13979,216,137285,0.1609789853225043,Belarusian <i18n@tut.by>
+crow-translate,1429,37,108,495,4,12,1371,1574,90.78780177890724,Belarusian
+dasher,1211,0,5,247,0,1,1187,1216,99.58881578947368,Belarusian <i18n-bel-gnome@googlegroups.com>
+dconf-editor,2931,0,0,389,0,0,2700,2931,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+debconf,191,0,0,17,0,0,170,191,100.0,Belarusian (Official spelling) <debian-l10n-belarusian@lists.debian.org>
+deja-dup,1989,0,0,325,0,0,1881,1989,100.0,Bel <be@li.org>
+deluge,4257,0,133,1323,0,18,3851,4390,96.97038724373577,Belarusian <be@li.org>
+devhelp,386,0,0,97,0,0,346,386,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+dia,1242,1047,3422,630,471,945,1226,5711,21.74750481526878,Belarusian <i18n@mova.org>
+dialect,973,41,0,587,9,0,940,1014,95.95660749506904,
+digikam,15418,1575,46473,5815,292,4465,15096,63466,24.293322408848834,Belarusian
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+dnf,0,0,4718,0,0,879,0,4718,0.0,none
+dnf-plugins-extras,121,0,0,21,0,0,115,121,100.0,Belarusian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/be/>
+dolphin,6108,217,95,869,26,12,5633,6420,95.14018691588785,Belarusian
+doublecmd,12421,22,151,3504,13,50,11370,12594,98.62632999841195,Belarusian
+dragon,6,21,221,4,14,64,5,248,2.4193548387096775,Belarusian <i18n@mova.org>
+eiskaltdcpp,3474,5,147,1133,2,18,3484,3626,95.8080529509101,Belarusian (https://www.transifex.com/tehnick/teams/11818/be/)
+electrum,269,0,12772,91,0,2357,236,13041,2.0627252511310483,Belarusian
+elementary-calculator,174,0,0,62,0,0,169,174,100.0,Belarusian <https://l10n.elementaryos.org/projects/calculator/calculator/be/>
+elementary-calendar,30,39,583,18,13,190,31,652,4.601226993865031,Belarusian <be@li.org>
+elementary-camera,141,0,0,36,0,0,137,141,100.0,Belarusian <https://l10n.elementaryos.org/projects/camera/camera/be/>
+elementary-code,121,199,1277,57,62,190,117,1597,7.576706324358172,LANGUAGE <LL@li.org>
+elementary-files,212,211,2183,51,61,449,209,2606,8.135072908672294,Belarusian <be@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,6,6,219,4,3,38,5,231,2.5974025974025974,Belarusian <be@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+elinks,439,1951,11143,212,584,1049,472,13533,3.2439222640951746,Belarusian <i18n@tut.by>
+elisa-player,808,6,0,299,2,0,847,814,99.26289926289927,Belarusian
+engrampa,1371,0,6444,322,0,561,1165,7815,17.543186180422264,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+enigma,9015,0,1397,962,0,125,7911,10412,86.5827890895121,Belarusian (http://www.transifex.com/michtrz/enigma/language/be/)
+eog,1642,0,0,316,0,0,1460,1642,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+eog-plugins,403,0,0,100,0,0,389,403,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+eom,1188,0,3770,308,0,234,1053,4958,23.961274707543364,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+epiphany,4958,0,0,943,0,0,4540,4958,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+evince,1837,0,0,453,0,0,1761,1837,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+evolution,27062,0,0,5454,0,0,23862,27062,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+evolution-data-server,5681,0,0,1166,0,0,5467,5681,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+exaile,2882,723,997,817,183,121,2827,4602,62.62494567579313,Belarusian <https://hosted.weblate.org/projects/exaile/master/be/>
+exo,738,0,0,145,0,0,635,738,100.0,Belarusian (http://www.transifex.com/xfce/exo/language/be/)
+fheroes2,4382,1173,16244,905,216,2016,3672,21799,20.101839533923574,
+file-roller,1307,0,0,299,0,0,1169,1307,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+findutils,2426,70,13,239,7,1,2277,2509,96.69190912714228,Belarusian <debian-l10n-belarusian@lists.debian.org>
+five-or-more,282,0,0,65,0,0,264,282,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+flare,5786,0,32,1249,0,8,5001,5818,99.44998281196288,Belarusian (https://www.transifex.com/flareorg/teams/84925/be/)
+flare-engine,1699,0,224,443,0,74,1456,1923,88.35153406136246,Belarusian (https://www.transifex.com/flareorg/teams/84925/be/)
+folder-color-switcher,65,0,0,23,0,0,51,65,100.0,Belarusian <be@li.org>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Belarusian
+four-in-a-row,256,0,0,73,0,0,237,256,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+fprintd,433,0,0,60,0,0,410,433,100.0,Belarusian <https://translate.fedoraproject.org/projects/fprintd/fprintd/be/>
+fragments,850,0,0,239,0,0,806,850,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+freedink,5,65,0,2,11,0,5,70,7.142857142857142,Belarusian <i18n@mova.org>
+fuse-encfs,216,7,1066,41,1,95,212,1289,16.757176105508144,Belarusian <be@li.org>
+g4music,388,0,0,127,0,0,407,388,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gajim,421,3210,2718,148,1001,567,386,6349,6.630965506378958,Belarusian <i18n@mova.org>
+gala,28,6,285,11,1,55,31,319,8.77742946708464,Belarusian <https://l10n.elementary.io/projects/desktop/gala/be/>
+gammastep,595,285,65,82,54,13,547,945,62.96296296296296,Belarusian <be@li.org>
+garcon,122,0,3,36,0,2,118,125,97.6,Belarusian (https://www.transifex.com/xfce/teams/16840/be/)
+gcc,221,15363,121701,65,2679,13979,216,137285,0.1609789853225043,Belarusian <i18n@tut.by>
+gcc13,221,14899,115384,65,2604,13387,216,130504,0.16934346839943604,Belarusian <i18n@tut.by>
+gcompris-qt,31355,1222,2719,3421,75,441,26016,35296,88.83442883046237,Belarusian
+gconf-editor,336,0,0,98,0,0,309,336,100.0,Belarusian <i18n@mova.org>
+gcr,505,0,0,176,0,0,488,505,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gcr3,795,0,0,276,0,0,754,795,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gdk-pixbuf2,1409,0,0,211,0,0,1436,1409,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gdk-pixbuf2-modules-extra,1409,0,0,211,0,0,1436,1409,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gdm,955,0,59,143,0,8,913,1014,94.18145956607495,Belarusian <i18n-bel-gnome@googlegroups.com>
+geany,5183,748,421,1185,130,62,4725,6352,81.5963476070529,Belarusian <geany-i18n@uvena.de>
+geany-plugins,94,678,8307,24,214,1608,88,9079,1.0353563167749753,Belarusian <geany-i18n@uvena.de>
+geary,2585,0,0,649,0,0,2651,2585,100.0,Belarusian
+gedit,4271,0,0,721,0,0,3896,4271,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gedit-plugins,1673,0,0,509,0,0,1582,1673,100.0,Belarusian <i18n@mova.org>
+geeqie,1346,2253,2802,581,774,527,1315,6401,21.027964380565535,Belarusian (Official spelling) <i18n@mova.org>
+gettext,1222,1471,5515,159,164,517,1164,8208,14.887914230019494,Belarusian <i18n@tut.by>
+gftp,688,0,2126,175,0,347,638,2814,24.449182658137882,Belarusian <i18n@mova.org>
+ghdl,221,14899,115384,65,2604,13387,216,130504,0.16934346839943604,Belarusian <i18n@tut.by>
+ghex,687,65,435,176,15,41,644,1187,57.87700084245998,Belarusian <i18n-bel-gnome@googlegroups.com>
+gigolo,538,0,3,156,0,2,475,541,99.44547134935306,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+gimagereader,1817,0,0,482,0,0,1728,1817,100.0,Belarusian <https://hosted.weblate.org/projects/gimagereader/translations/be/>
+gimp,36292,1940,7117,9087,403,964,34714,45349,80.02822553970319,Belarusian
+glib-networking,460,0,0,68,0,0,474,460,100.0,Belarusian
+glib2,4349,0,3344,808,0,403,4227,7693,56.53191212790849,Belarusian <i18n-bel-gnome@googlegroups.com>
+glibc,3535,0,0,656,0,0,3429,3535,100.0,Belarusian <debian-l10n-belarusian@lists.debian.org>
+gnome-applets,3308,0,0,783,0,0,3117,3308,100.0,Belarusian <i18n@mova.org>
+gnome-bluetooth,316,0,0,92,0,0,284,316,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-bluetooth3.34,373,0,0,111,0,0,347,373,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-boxes,1174,0,0,249,0,0,1125,1174,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-builder,1929,0,3946,688,0,756,1876,5875,32.83404255319149,Belarusian <Belarusian>
+gnome-calculator,1928,0,0,732,0,0,1868,1928,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-calendar,1098,0,0,293,0,0,1237,1098,100.0,Belarusian
+gnome-characters,161,0,0,56,0,0,162,161,100.0,Belarusian
+gnome-chess,1473,0,0,243,0,0,1330,1473,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-clocks,379,0,0,149,0,0,370,379,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-connections,513,0,0,96,0,0,508,513,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-console,346,0,0,104,0,0,389,346,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-contacts,764,0,0,220,0,0,713,764,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-control-center,8103,0,0,2056,0,0,7758,8103,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-desktop3,193,0,0,40,0,0,191,193,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-dictionary,664,0,0,141,0,0,590,664,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-disk-utility,4091,0,0,754,0,0,3817,4091,100.0,Belarusian
+gnome-do,35,0,577,12,0,132,38,612,5.718954248366013,Belarusian <be@li.org>
+gnome-doc-utils,251,0,0,101,0,0,256,251,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-extensions-app,3255,0,0,684,0,0,3006,3255,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-font-viewer,315,0,223,115,0,93,310,538,58.550185873605955,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-initial-setup,915,0,0,135,0,0,804,915,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-keyring,469,0,0,98,0,0,429,469,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-klotski,194,0,0,59,0,0,176,194,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-logs,398,0,0,127,0,0,364,398,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-mahjongg,283,0,0,72,0,0,264,283,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-maps,1450,0,0,439,0,0,1447,1450,100.0,Belarusian
+gnome-menus,70,0,0,27,0,0,84,70,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-mime-data,887,0,0,362,0,0,1056,887,100.0,Belarusian <i18n@mova.org>
+gnome-mines,344,0,0,72,0,0,299,344,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-music,385,0,0,122,0,0,408,385,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-nettool,664,0,0,219,0,0,625,664,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-nibbles,735,0,0,177,0,0,630,735,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-online-accounts,658,0,0,146,0,0,656,658,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-online-accounts-gtk,36,0,0,14,0,0,42,36,100.0,Belarusian <be@li.org>
+gnome-packagekit,4390,0,0,682,0,0,3957,4390,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-panel,3447,33,40,502,1,5,2910,3520,97.92613636363636,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-photos,572,0,0,220,0,0,583,572,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-power-manager,432,0,0,144,0,0,387,432,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-remote-desktop,853,0,0,47,0,0,758,853,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-robots,597,0,0,97,0,0,505,597,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-screenshot,457,0,0,80,0,0,394,457,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-session,429,0,0,68,0,0,397,429,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-settings-daemon,3882,0,0,538,0,0,3529,3882,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-shell,3255,0,0,684,0,0,3006,3255,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-shell-extension-blur-my-shell,153,0,824,19,0,139,121,977,15.660184237461616,Belarusian <https://hosted.weblate.org/projects/blur-my-shell/blur-my-shell/be/>
+gnome-shell-extension-bubblemail,0,0,133,0,0,37,0,133,0.0,none
+gnome-shell-extension-gsconnect,731,0,171,249,0,19,723,902,81.04212860310422,Belarusian
+gnome-shell-extension-just-perfection,712,0,0,165,0,0,699,712,100.0,Belarusian
+gnome-shell-extension-openweather,272,251,327,115,79,71,272,850,32.0,
+gnome-shell-extensions,324,0,0,75,0,0,327,324,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-shell-frippery,17,0,0,5,0,0,23,17,100.0,
+gnome-software,6026,0,0,1122,0,0,5741,6026,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-sound-recorder,292,0,0,73,0,0,287,292,100.0,
+gnome-sudoku,491,7,57,134,1,7,466,555,88.46846846846846,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-system-log,420,0,0,66,0,0,372,420,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-system-monitor,1457,0,0,361,0,0,1488,1457,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-terminal,2785,0,0,541,0,0,2544,2785,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-tetravex,220,0,0,45,0,0,174,220,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-text-editor,1078,0,0,293,0,0,1021,1078,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-themes-extra,15,0,0,6,0,0,15,15,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-todo,711,0,0,146,0,0,697,711,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-tour,138,0,0,23,0,0,138,138,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-tweaks,452,0,0,130,0,0,472,452,100.0,
+gnome-usage,419,0,0,58,0,0,338,419,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-user-share,32,0,0,7,0,0,37,32,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-vfs2,1508,11,0,301,4,0,1339,1519,99.27583936800526,Belarusian <i18n@mova.org>
+gnome-video-effects,256,0,0,68,0,0,175,256,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnome-weather,236,0,0,48,0,0,230,236,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gnupg1,451,1125,7064,117,229,951,443,8640,5.219907407407407,Belarusian <i18n@mova.org>
+gparted,2800,0,0,480,0,0,2493,2800,100.0,Belarusian
+granite,31,17,450,18,6,94,31,498,6.2248995983935735,Belarusian <be@li.org>
+granite-7,130,0,466,50,0,62,145,596,21.812080536912752,Belarusian <https://l10n.elementaryos.org/projects/desktop/granite/be/>
+grep,933,0,0,116,0,0,941,933,100.0,Belarusian <debian-l10n-belarusian@lists.debian.org>
+grilo,191,0,0,36,0,0,186,191,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+grilo-plugins,494,0,0,120,0,0,468,494,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+grip,661,185,251,189,41,49,634,1097,60.255241567912485,Belarusian <i18n@mova.org>
+gscan2pdf,134,0,2516,61,0,562,114,2650,5.056603773584905,Belarusian <be@li.org>
+gsettings-desktop-schemas,1089,28,6351,200,4,460,1067,7468,14.582217461167648,Belarusian <i18n-bel-gnome@googlegroups.com>
+gspell,76,0,0,31,0,0,72,76,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gstreamer1,170,104,1949,41,18,332,164,2223,7.647323436797121,Belarusian <i18n@mova.org>
+gthumb,2863,34,711,1091,6,103,2686,3608,79.35144124168514,Belarusian <i18n-bel-gnome@googlegroups.com>
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gtk2,6509,3317,2620,1613,608,366,5700,12446,52.29792704483368,Belarusian <i18n-bel-gnome@googlegroups.com>
+gtk3,16737,0,0,3942,0,0,14399,16737,100.0,Belarusian
+gtk4,4447,212,335,1577,28,66,4328,4994,89.04685622747297,Belarusian
+gtkhtml3,849,12,88,390,7,28,821,949,89.46259220231822,Belarusian <i18n@mova.org>
+gtksourceview2,348,0,377,134,0,160,330,725,48.0,Belarusian <i18n@mova.org>
+gtksourceview3,320,2,0,105,1,0,314,322,99.37888198757764,Belarusian <i18n-bel-gnome@googlegroups.com>
+gtksourceview4,308,0,0,94,0,0,293,308,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gtksourceview5,371,0,0,112,0,0,352,371,100.0,Belarusian
+gtkspell,11,0,0,5,0,0,12,11,100.0,Belarusian <i18n@mova.org>
+gtkspell3,15,0,0,6,0,0,15,15,100.0,Belarusian <i18n@mova.org>
+gtranslator,1110,0,107,266,0,5,1041,1217,91.20788824979458,Belarusian <i18n-bel-gnome@googlegroups.com>
+gucharmap,1147,0,0,365,0,0,1198,1147,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+gvfs,2097,0,0,404,0,0,2017,2097,100.0,Belarusian
+gwenview,1950,119,6,448,5,3,2091,2075,93.97590361445783,Belarusian
+harvey,0,0,216,0,0,38,0,216,0.0,none
+hexchat,2947,0,3024,862,0,584,2674,5971,49.35521688159437,Belarusian (http://www.transifex.com/hexchat/hexchat/language/be/)
+hitori,236,0,0,62,0,0,190,236,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+homebank,602,0,2696,225,0,826,550,3298,18.253486961795026,Belarusian <be@li.org>
+iagno,321,0,0,71,0,0,286,321,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+icewm,411,623,1468,158,95,273,437,2502,16.426858513189448,Belarusian <i18n@mova.org>
+imsettings,0,0,500,0,0,92,0,500,0.0,LANGUAGE <LL@li.org>
+initial-setup,106,0,0,20,0,0,93,106,100.0,Belarusian <https://translate.fedoraproject.org/projects/initial-setup/master/be/>
+inkscape,24077,557,15876,5604,149,3297,22955,40510,59.43470747963466,Belarusian <i18n@mova.org>
+iso-codes,8386,1384,14039,5564,758,9316,7558,23809,35.22197488344744,Belarusian <https://hosted.weblate.org/projects/iso-codes/iso-15924/be/>
+isomaster,42,1,631,26,1,80,41,674,6.231454005934718,http://littlesvr.ca/ostd/
+json-glib,313,0,0,48,0,0,282,313,100.0,Belarusian
+juk,106,78,1251,72,48,218,106,1435,7.386759581881533,Belarusian <i18n@mova.org>
+k3b,3364,1214,15567,952,302,1265,3028,20145,16.698932737652022,Belarusian <i18n@mova.org>
+kBuild,31,251,603,12,25,67,31,885,3.5028248587570623,Belarusian <i18n@mova.org>
+kaddressbook,84,414,652,43,125,72,83,1150,7.304347826086957,Belarusian (Official spelling) <i18n@mova.org>
+kaffeine,10,180,1203,8,104,385,9,1393,0.7178750897343862,Belarusian <i18n@mova.org>
+kalarm,3,5989,2570,2,1018,233,3,8562,0.0350385423966363,Belarusian <i18n@mova.org>
+kalgebra,11,15,140,9,11,61,10,166,6.626506024096386,Belarusian <i18n@mova.org>
+kalzium,77,510,8506,62,146,1089,75,9093,0.8468052347959968,Belarusian <i18n@mova.org>
+kamera,10,0,257,10,0,26,10,267,3.7453183520599254,Belarusian <i18n@mova.org>
+kanagram,125,225,177,36,43,65,106,527,23.719165085388994,Belarusian <i18n@mova.org>
+kate,732,45,2609,232,19,421,673,3386,21.618428824571765,Belarusian
+katomic,0,64,120,0,30,29,0,184,0.0,Belarusian <i18n@mova.org>
+kblackbox,14,75,1275,5,22,75,9,1364,1.0263929618768328,Belarusian <i18n@mova.org>
+kbounce,63,42,51,18,8,17,56,156,40.38461538461539,Belarusian <i18n@mova.org>
+kbruch,15,11,1321,14,9,175,14,1347,1.1135857461024499,Belarusian <i18n@mova.org>
+kcachegrind,4,631,508,2,166,15,5,1143,0.3499562554680665,Belarusian <i18n@mova.org>
+kcalc,123,483,505,52,169,171,110,1111,11.071107110711072,Belarusian (Official spelling) <i18n@mova.org>
+kcharselect,92,0,0,36,0,0,108,92,100.0,Belarusian
+kcolorchooser,29,0,0,10,0,0,31,29,100.0,Belarusian
+kcoloredit,9,28,241,6,13,76,8,278,3.237410071942446,Belarusian <i18n@mova.org>
+kcron,436,0,0,191,0,0,394,436,100.0,Belarusian
+kde-cli-tools,703,457,443,100,34,35,595,1603,43.8552713661884,Belarusian <i18n@mova.org>
+kde-dev-utils,0,39,27,0,11,13,0,66,0.0,Belarusian (Official spelling) <i18n@mova.org>
+kdenetwork-filesharing,878,0,29,106,0,3,810,907,96.8026460859978,Belarusian
+kdepim-addons,38,529,973,9,102,115,32,1540,2.4675324675324677,Belarusian (Official spelling) <i18n@mova.org>
+kdeplasma-addons,27,135,1049,14,50,350,23,1211,2.2295623451692816,Belarusian
+kdevelop,7,47,642,4,24,134,7,696,1.0057471264367817,Belarusian <i18n@mova.org>
+kdf,4,131,42,2,52,17,5,177,2.2598870056497176,Belarusian
+kdialog,403,0,0,78,0,0,420,403,100.0,Belarusian
+kdnssd,30,0,0,7,0,0,26,30,100.0,Belarusian
+keditbookmarks,466,4,0,132,1,0,434,470,99.14893617021276,Belarusian
+kexi,57,5845,1438,20,1218,242,46,7340,0.776566757493188,Belarusian <i18n@mova.org>
+kf5-akonadi-server,0,212,2312,0,75,353,0,2524,0.0,Belarusian <i18n@mova.org>
+kf5-calendarsupport,39,2000,740,17,304,70,39,2779,1.4033825116948542,Belarusian (Official spelling) <i18n@mova.org>
+kf5-kauth,73,0,0,8,0,0,70,73,100.0,Belarusian
+kf5-kbookmarks,230,0,0,49,0,0,213,230,100.0,Belarusian
+kf5-kcmutils,266,0,0,38,0,0,260,266,100.0,Belarusian
+kf5-kcodecs,370,0,0,53,0,0,308,370,100.0,Belarusian
+kf5-kcompletion,18,0,0,11,0,0,17,18,100.0,Belarusian
+kf5-kconfig,289,0,0,104,0,0,287,289,100.0,Belarusian
+kf5-kconfigwidgets,342,0,0,125,0,0,341,342,100.0,Belarusian
+kf5-kcontacts,42,47,88,33,28,47,44,177,23.728813559322035,Belarusian <i18n@mova.org>
+kf5-kcoreaddons,382,0,0,132,0,0,390,382,100.0,Belarusian
+kf5-kdeclarative,161,0,0,25,0,0,143,161,100.0,Belarusian
+kf5-kdelibs4support,1058,1297,2998,596,811,1137,1067,5353,19.764617971231086,Belarusian <i18n@mova.org>
+kf5-kdesignerplugin,0,14,40,0,5,4,0,54,0.0,Belarusian <i18n@mova.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Belarusian
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Belarusian
+kf5-kglobalaccel,0,45,26,0,6,3,0,71,0.0,Belarusian <i18n@mova.org>
+kf5-kholidays,150,0,0,97,0,0,143,150,100.0,Belarusian
+kf5-khtml,1667,0,0,289,0,0,1455,1667,100.0,Belarusian
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Belarusian
+kf5-kiconthemes,41,0,0,19,0,0,42,41,100.0,Belarusian
+kf5-kidentitymanagement,182,0,0,24,0,0,166,182,100.0,Belarusian
+kf5-kinit,116,0,0,11,0,0,90,116,100.0,Belarusian
+kf5-kio,11837,200,0,1360,13,0,10319,12037,98.33845642601977,Belarusian
+kf5-kipi-plugins,3,4,976,2,3,157,3,983,0.3051881993896236,Belarusian <i18n@mova.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Belarusian
+kf5-kjobwidgets,133,0,0,38,0,0,200,133,100.0,Belarusian
+kf5-kjsembed,106,16,126,23,4,17,90,248,42.74193548387097,Belarusian <i18n@mova.org>
+kf5-kldap,227,0,0,61,0,0,232,227,100.0,Belarusian
+kf5-kmailtransport,28,55,580,15,32,58,27,663,4.223227752639517,Belarusian (Official spelling) <i18n@mova.org>
+kf5-kmime,6,1,152,3,1,6,6,159,3.7735849056603774,Belarusian <i18n@mova.org>
+kf5-knewstuff,97,341,1193,16,131,84,82,1631,5.947271612507664,Belarusian <i18n@mova.org>
+kf5-knotifications,21,0,0,8,0,0,18,21,100.0,Belarusian
+kf5-knotifyconfig,129,0,0,17,0,0,104,129,100.0,Belarusian
+kf5-kparts,71,48,19,16,12,2,55,138,51.449275362318836,Belarusian <i18n@mova.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Belarusian
+kf5-kross,64,36,0,24,11,0,55,100,64.0,Belarusian <i18n@mova.org>
+kf5-kservice,173,0,0,28,0,0,159,173,100.0,Belarusian
+kf5-ktexteditor,919,1948,6366,197,472,595,802,9233,9.953427921585616,Belarusian <i18n@mova.org>
+kf5-ktextwidgets,473,0,0,130,0,0,465,473,100.0,Belarusian
+kf5-ktnef,17,131,207,8,65,70,21,355,4.788732394366197,Belarusian <i18n@mova.org>
+kf5-kwallet,133,8,1194,27,3,58,109,1335,9.962546816479401,Belarusian <i18n@mova.org>
+kf5-kwidgetsaddons,1293,0,0,463,0,0,1329,1293,100.0,Belarusian
+kf5-kwindowsystem,2,0,0,1,0,0,3,2,100.0,Belarusian
+kf5-kxmlgui,1574,0,0,230,0,0,1479,1574,100.0,Belarusian
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Belarusian
+kf5-libkcddb,21,7,372,19,5,187,23,400,5.25,Belarusian <i18n@mova.org>
+kf5-libkdepim,35,0,0,10,0,0,37,35,100.0,Belarusian
+kf5-libkleo,30,44,2349,22,29,379,27,2423,1.2381345439537763,Belarusian <i18n@mova.org>
+kf5-libksieve,6,0,3116,2,0,535,7,3122,0.19218449711723257,Belarusian <i18n@mova.org>
+kf5-libktorrent,5,66,394,5,24,76,5,465,1.0752688172043012,Belarusian <i18n@mova.org>
+kf5-mailimporter,4,0,1404,5,0,122,4,1408,0.2840909090909091,Belarusian <i18n@mova.org>
+kf5-messagelib,231,2070,1391,74,533,190,204,3692,6.256771397616467,Belarusian <i18n@mova.org>
+kf5-plasma,362,0,0,105,0,0,359,362,100.0,Belarusian
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Belarusian <i18n@mova.org>
+kf5-syntax-highlighting,0,258,389,0,190,193,0,647,0.0,Belarusian <i18n@mova.org>
+kf6-kauth,73,0,0,8,0,0,70,73,100.0,Belarusian
+kf6-kbookmarks,179,0,0,38,0,0,157,179,100.0,Belarusian
+kf6-kcmutils,198,0,2,44,0,1,182,200,99.0,Belarusian
+kf6-kcodecs,370,0,0,53,0,0,308,370,100.0,Belarusian
+kf6-kcolorscheme,1,0,0,1,0,0,1,1,100.0,Belarusian
+kf6-kcompletion,18,0,0,11,0,0,17,18,100.0,Belarusian
+kf6-kconfig,545,0,5,203,0,1,543,550,99.0909090909091,Belarusian
+kf6-kconfigwidgets,312,0,0,117,0,0,316,312,100.0,Belarusian
+kf6-kcontacts,42,42,84,33,24,43,44,168,25.0,Belarusian <i18n@mova.org>
+kf6-kcoreaddons,373,54,47,131,17,13,384,474,78.69198312236287,Belarusian
+kf6-kdeclarative,169,0,0,21,0,0,146,169,100.0,Belarusian
+kf6-kdnssd,3,0,0,3,0,0,3,3,100.0,Belarusian
+kf6-kdoctools,8,0,0,4,0,0,10,8,100.0,Belarusian
+kf6-kglobalaccel,34,0,0,5,0,0,29,34,100.0,Belarusian
+kf6-kholidays,150,0,0,97,0,0,143,150,100.0,Belarusian
+kf6-ki18n,124,0,0,110,0,0,124,124,100.0,Belarusian
+kf6-kiconthemes,46,0,0,22,0,0,46,46,100.0,Belarusian
+kf6-kio,8161,374,184,1092,61,21,7125,8719,93.60018350728294,Belarusian
+kf6-kitemviews,6,0,0,3,0,0,6,6,100.0,Belarusian
+kf6-kjobwidgets,136,0,3,40,0,1,203,139,97.84172661870504,Belarusian
+kf6-knewstuff,1,189,844,1,74,55,1,1034,0.09671179883945842,Belarusian <i18n@mova.org>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,Belarusian
+kf6-knotifyconfig,19,0,0,7,0,0,14,19,100.0,Belarusian
+kf6-kparts,57,0,0,11,0,0,56,57,100.0,Belarusian
+kf6-kpty,15,0,0,4,0,0,19,15,100.0,Belarusian
+kf6-kservice,45,0,0,12,0,0,46,45,100.0,Belarusian
+kf6-ktexteditor,866,2162,6435,189,524,606,771,9463,9.15143189263447,Belarusian <i18n@mova.org>
+kf6-ktextwidgets,473,0,0,130,0,0,465,473,100.0,Belarusian
+kf6-kwallet,102,8,950,18,3,47,78,1060,9.622641509433963,Belarusian <i18n@mova.org>
+kf6-kwidgetsaddons,1277,0,0,466,0,0,1309,1277,100.0,Belarusian
+kf6-kwindowsystem,2,0,0,1,0,0,3,2,100.0,Belarusian
+kf6-kxmlgui,1265,4,20,194,2,4,1209,1289,98.13809154383243,Belarusian
+kf6-sonnet,684,0,0,77,0,0,601,684,100.0,Belarusian
+kf6-syntax-highlighting,637,73,17,395,12,10,641,727,87.62035763411279,Belarusian
+kfind,517,0,0,117,0,0,523,517,100.0,Belarusian
+kfloppy,0,597,44,0,91,9,0,641,0.0,Belarusian (Official spelling) <i18n@mova.org>
+kfourinline,27,204,153,15,86,53,25,384,7.03125,Belarusian <i18n@mova.org>
+kgamma,38,0,0,15,0,0,34,38,100.0,Belarusian
+kgeography,110,4405,5528,95,3514,3631,107,10043,1.095290251916758,Belarusian <i18n@mova.org>
+kget,68,446,2253,50,227,465,67,2767,2.4575352367184675,Belarusian <i18n@mova.org>
+kgoldrunner,56,3221,24770,16,482,519,45,28047,0.19966484829036973,Belarusian <i18n@mova.org>
+kgpg,57,3507,1348,30,530,127,56,4912,1.1604234527687296,Belarusian
+kgrab,35,0,335,22,0,31,36,370,9.45945945945946,Belarusian <i18n@mova.org>
+kgraphviewer,24,19,1146,8,8,196,18,1189,2.0185029436501263,Belarusian <i18n@mova.org>
+khangman,5,7,437,3,3,110,4,449,1.1135857461024499,Belarusian <i18n@mova.org>
+khelpcenter,221,0,0,84,0,0,226,221,100.0,Belarusian
+kiconedit,53,0,673,41,0,114,54,726,7.300275482093664,Belarusian <i18n@mova.org>
+kidentitymanagement,260,0,0,54,0,0,258,260,100.0,Belarusian
+kig,73,51,7333,57,19,1200,68,7457,0.9789459568190961,Belarusian <i18n@mova.org>
+kimagemapeditor,4,564,52,2,170,17,5,620,0.6451612903225806,Belarusian <i18n@mova.org>
+kinfocenter,16,23,123,12,15,51,17,162,9.876543209876543,Belarusian <i18n@mova.org>
+kio-admin,3,0,0,1,0,0,4,3,100.0,Belarusian
+kio-extras,2769,57,78,263,10,5,2397,2904,95.35123966942149,Belarusian
+kio-extras-kf5,1130,0,0,146,0,0,1036,1130,100.0,Belarusian
+kio-gdrive,78,0,0,19,0,0,74,78,100.0,Belarusian
+kiriki,5,0,140,3,0,48,4,145,3.4482758620689653,Belarusian <i18n@mova.org>
+kiten,19,30,602,16,16,140,17,651,2.9185867895545314,Belarusian <i18n@mova.org>
+kjots,11,242,398,6,52,76,12,651,1.6897081413210446,Belarusian <i18n@mova.org>
+kjumpingcube,0,133,280,0,33,62,0,413,0.0,Belarusian (Official spelling) <i18n@mova.org>
+kldap,208,7,0,61,1,0,219,215,96.74418604651163,Belarusian
+kleopatra,32,2856,10763,22,714,1248,30,13651,0.23441506116768002,Belarusian <i18n@mova.org>
+klettres,16,12,412,13,6,66,15,440,3.6363636363636362,Belarusian <i18n@mova.org>
+klines,52,10,37,12,5,11,38,99,52.52525252525253,Belarusian <i18n@mova.org>
+kmag,18,12,402,13,8,77,17,432,4.166666666666666,Belarusian <i18n@mova.org>
+kmahjongg,17,231,111,7,63,29,17,359,4.735376044568245,Belarusian <i18n@mova.org>
+kmail,637,285,8392,258,88,1185,670,9314,6.839166845608761,Belarusian
+kmailtransport,19,66,584,9,37,61,19,669,2.8400597907324365,Belarusian (Official spelling) <i18n@mova.org>
+kmenuedit,264,0,49,63,0,10,240,313,84.34504792332268,Belarusian
+kmime,152,0,0,6,0,0,111,152,100.0,Belarusian
+kmines,1,63,100,1,23,24,1,164,0.6097560975609756,Belarusian <i18n@mova.org>
+kmix,79,144,936,43,45,139,83,1159,6.816220880069025,Belarusian <i18n@mova.org>
+kmousetool,12,1,134,8,1,23,12,147,8.16326530612245,Belarusian <i18n@mova.org>
+kmouth,62,11,1401,36,6,160,56,1474,4.2062415196743554,Belarusian <i18n@mova.org>
+kmplot,106,60,2335,80,23,383,104,2501,4.238304678128749,Belarusian <i18n@mova.org>
+knavalbattle,0,154,247,0,48,56,0,401,0.0,Belarusian (Official spelling) <i18n@mova.org>
+knetwalk,12,22,202,4,3,49,10,236,5.084745762711865,Belarusian <i18n@mova.org>
+knotes,168,176,257,80,59,51,182,601,27.953410981697168,Belarusian <i18n@mova.org>
+koffice-kivio,8,8023,386,4,2292,65,10,8417,0.09504574076274207,Belarusian
+kolf,36,335,34,13,121,16,30,405,8.88888888888889,Belarusian <i18n@mova.org>
+kolourpaint,71,61,2523,61,34,360,73,2655,2.6741996233521657,Belarusian <i18n@mova.org>
+kompare,0,1100,313,0,172,28,0,1413,0.0,Belarusian <i18n@mova.org>
+konqueror,1504,889,4610,439,158,379,1371,7003,21.476510067114095,Belarusian <i18n@mova.org>
+konquest,74,123,51,25,48,26,72,248,29.838709677419356,Belarusian <i18n@mova.org>
+konsole,4234,60,5,885,10,2,3893,4299,98.48802046987672,Belarusian
+konsole5,3932,27,37,828,7,5,3610,3996,98.3983983983984,Belarusian
+kontact,11,169,310,5,39,43,9,490,2.2448979591836733,Belarusian <i18n@mova.org>
+kopete,5290,6842,5043,1014,1505,776,4539,17175,30.800582241630277,Belarusian (Official spelling) <i18n@mova.org>
+kpat,11,180,398,4,79,130,9,589,1.8675721561969438,Belarusian (Official spelling) <i18n@mova.org>
+kphotoalbum,128,394,8521,70,179,859,121,9043,1.4154594714143538,Belarusian (Official spelling) <i18n@mova.org>
+kpilot,28,205,6923,16,120,725,29,7156,0.3912800447177194,Belarusian <i18n@mova.org>
+krdc,6,60,1119,4,29,262,5,1185,0.5063291139240507,Belarusian <i18n@mova.org>
+kreport,0,266,145,0,145,27,0,411,0.0,Belarusian (Official spelling) <i18n@mova.org>
+kreversi,59,42,303,20,21,92,45,404,14.603960396039604,Belarusian <i18n@mova.org>
+krfb,10,0,724,6,0,98,9,734,1.3623978201634876,Belarusian <i18n@mova.org>
+krita,53,15464,20612,26,6293,2264,57,36129,0.1466965595504996,Belarusian (Official spelling) <i18n@mova.org>
+kruler,158,0,0,44,0,0,137,158,100.0,Belarusian
+kshisen,40,48,579,20,12,43,41,667,5.997001499250374,Belarusian <i18n@mova.org>
+ksig,25,0,60,16,0,10,25,85,29.411764705882355,Belarusian <i18n@mova.org>
+ksirk,40,57,1558,33,27,261,43,1655,2.416918429003021,Belarusian <i18n@mova.org>
+kspaceduel,58,94,13,36,39,6,57,165,35.15151515151515,Belarusian <i18n@mova.org>
+ksquares,19,16,258,12,8,67,18,293,6.484641638225256,Belarusian <i18n@mova.org>
+kstars,67,15539,45384,49,6998,5975,68,60990,0.10985407443843254,Belarusian <i18n@mova.org>
+ksudoku,16,27,1701,6,11,146,15,1744,0.9174311926605505,Belarusian <i18n@mova.org>
+ksystemlog,60,112,2929,49,48,391,60,3101,1.9348597226701063,Belarusian <i18n@mova.org>
+kteatime,37,63,103,20,19,28,43,203,18.226600985221676,Belarusian <i18n@mova.org>
+ktimer,258,0,0,53,0,0,227,258,100.0,Belarusian
+ktnef,17,131,207,8,65,70,21,355,4.788732394366197,Belarusian <i18n@mova.org>
+ktorrent,113,827,6552,89,361,918,113,7492,1.5082754938601175,Belarusian <i18n@mova.org>
+ktouch,4,20,940,2,10,247,3,964,0.4149377593360996,Belarusian <i18n@mova.org>
+ktuberling,21,42,95,7,16,15,20,158,13.291139240506327,Belarusian <i18n@mova.org>
+kturtle,32,47,1459,24,39,286,32,1538,2.080624187256177,Belarusian <i18n@mova.org>
+kwalletmanager5,4,627,197,2,123,43,5,828,0.4830917874396135,Belarusian
+kwin,5910,192,246,1144,41,40,5739,6348,93.10018903591683,Belarusian
+kwin-x11,5625,119,183,1108,32,31,5533,5927,94.90467352792307,Belarusian
+kwordquiz,10,21,223,6,13,74,8,254,3.937007874015748,Belarusian <i18n@mova.org>
+leafpad,125,0,0,68,0,0,125,125,100.0,Belarusian <i18n@mova.org>
+libadwaita,337,0,0,101,0,0,328,337,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libbonobo,500,0,24,105,0,3,466,524,95.41984732824427,Belarusian <i18n@mova.org>
+libbonoboui,360,0,0,113,0,0,333,360,100.0,Belarusian <i18n@mova.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Belarusian
+libexif,638,90,7085,220,38,1062,637,7813,8.165877383847434,Belarusian <be@li.org>
+libgdata,684,0,0,84,0,0,617,684,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libgdl,604,0,0,92,0,0,503,604,100.0,Belarusian <i18n@mova.org>
+libgedit-gtksourceview,301,2,16,90,1,3,287,319,94.35736677115987,Belarusian <i18n-bel-gnome@googlegroups.com>
+libgnome,1496,0,0,234,0,0,1331,1496,100.0,Belarusian <i18n@mova.org>
+libgnome-games-support,43,0,0,14,0,0,42,43,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libgnome-games-support1,43,0,0,14,0,0,45,43,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libgnome-keyring,44,0,0,9,0,0,40,44,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libgnomecanvas,357,0,0,94,0,0,337,357,100.0,Belarusian <i18n@mova.org>
+libgnomekbd,242,0,0,55,0,0,230,242,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libgnomeui,1309,0,0,334,0,0,1137,1309,100.0,Belarusian <i18n@mova.org>
+libgtop2,126,0,0,40,0,0,156,126,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libgweather,5581,15,1374,4109,11,1039,4911,6970,80.07173601147775,Belarusian
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkcddb,21,7,372,19,5,187,23,400,5.25,Belarusian <i18n@mova.org>
+libkcompactdisc,15,0,0,10,0,0,16,15,100.0,Belarusian
+libkdegames,42,252,22,23,93,8,47,316,13.291139240506327,Belarusian (Official spelling) <i18n@mova.org>
+libkdepim,36,0,0,11,0,0,38,36,100.0,Belarusian
+libkeduvocdocument,171,0,0,81,0,0,169,171,100.0,Belarusian
+libkleo,22,61,2934,17,40,484,20,3017,0.7292011932383162,Belarusian <i18n@mova.org>
+libkmahjongg,5,3,3,5,3,3,5,11,45.45454545454545,Belarusian <i18n@mova.org>
+libkomparediff2,143,0,0,19,0,0,118,143,100.0,Belarusian
+libksane,284,0,0,92,0,0,304,284,100.0,Belarusian
+libksieve,6,2,3124,2,2,539,7,3132,0.19157088122605362,Belarusian <i18n@mova.org>
+libksysguard,22,1,579,15,1,112,21,602,3.6544850498338874,Belarusian <i18n@mova.org>
+libktorrent,5,66,394,5,24,76,5,465,1.0752688172043012,Belarusian <i18n@mova.org>
+libmatekbd,155,0,153,46,0,45,145,308,50.324675324675326,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+libmatemixer,242,0,0,126,0,0,237,242,100.0,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+libmateweather,6064,0,79,4504,0,71,6035,6143,98.71398339573499,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+libmypaint,3,2,2298,3,1,158,3,2303,0.13026487190620928,Belarusian <https://hosted.weblate.org/projects/mypaint/libmypaint/be/>
+libnma,284,248,275,77,54,52,247,807,35.19206939281288,Belarusian <be-i18n-gnome@googlegroups.com>
+libpanel,107,0,0,29,0,0,96,107,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libpeas,103,0,0,29,0,0,90,103,100.0,Belarusian
+libpeas1,103,0,0,29,0,0,90,103,100.0,Belarusian
+libplasma,227,0,0,52,0,0,205,227,100.0,Belarusian
+libreoffice,106962,4979,61474,30050,1064,7924,95080,173415,61.679785485684626,Belarusian <https://translations.documentfoundation.org/projects/libo_ui-24-8/accessibilitymessages/be/>
+libsecret,64,0,0,10,0,0,57,64,100.0,Belarusian
+libshumate,22,0,0,10,0,0,20,22,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libsoup,183,0,0,43,0,0,186,183,100.0,Belarusian
+libsoup3,172,0,0,37,0,0,170,172,100.0,Belarusian
+libspelling,7,0,0,4,0,0,7,7,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Belarusian (http://www.transifex.com/projects/p/fedora/language/be/)
+libwnck,1124,0,0,241,0,0,967,1124,100.0,Belarusian <i18n@mova.org>
+libwnck3,1086,0,0,231,0,0,1013,1086,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+libxfce4ui,979,0,39,201,0,10,907,1018,96.16895874263261,Belarusian (https://app.transifex.com/xfce/teams/16840/be/)
+libxfce4util,424,0,0,7,0,0,308,424,100.0,Belarusian (http://www.transifex.com/xfce/libxfce4util/language/be/)
+libzypp,110,186,2578,98,111,801,108,2874,3.8274182324286707,Belarusian <i18n@suse.de>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Belarusian (http://www.transifex.com/the_cavalry/light-locker/language/be/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Belarusian <be@li.org>
+lightdm-gtk,61,0,28,20,0,5,49,89,68.53932584269663,Belarusian <be@li.org>
+lightdm-settings,355,0,0,74,0,0,297,355,100.0,Belarusian <be@li.org>
+lightsoff,143,0,0,27,0,0,124,143,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+lokalize,214,476,3444,79,195,406,192,4134,5.176584421867441,Belarusian <i18n@mova.org>
+loupe,423,0,0,160,0,0,429,423,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+lskat,55,132,79,21,38,30,49,266,20.676691729323306,Belarusian <i18n@mova.org>
+lxdm,48,0,0,26,0,0,49,48,100.0,LANGUAGE <LL@li.org>
+lxinput,72,0,11,24,0,2,71,83,86.74698795180723,LANGUAGE <LL@li.org>
+lxlauncher,51,0,7,11,0,6,45,58,87.93103448275862,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,94,97,100.0,Belarusian <i18n@mova.org>
+lxshortcut,43,0,0,19,0,0,43,43,100.0,LANGUAGE <LL@li.org>
+magpie,1069,0,0,137,0,0,990,1069,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+mailimporter,4,0,1401,5,0,121,4,1405,0.2846975088967972,Belarusian <i18n@mova.org>
+make,210,472,1911,68,94,315,204,2593,8.098727342846123,Belarusian <i18n@mova.org>
+maliit-keyboard,66,7,8,51,2,8,68,81,81.48148148148148,
+mame,3602,0,83,1241,0,47,3674,3685,97.74762550881954,MAME Language Team
+man-db,13,113,85,4,23,24,12,211,6.161137440758294,Belarusian <i18n@mova.org>
+manafirewall,13,0,1084,12,0,121,13,1097,1.1850501367365542,Belarusian (https://www.transifex.com/MageiaLinux/teams/9361/be/)
+marble,9,580,10810,4,320,3001,6,11399,0.07895429423633653,Belarusian <i18n@mova.org>
+marco,2784,0,1387,371,0,62,2588,4171,66.74658355310477,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-applets,2212,0,13894,549,0,1106,2075,16106,13.734012169377872,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-backgrounds,30,0,25,21,0,8,30,55,54.54545454545454,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-calc,924,0,2403,422,0,329,968,3327,27.77276825969342,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-control-center,2570,19,5671,673,6,848,2301,8260,31.113801452784507,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-desktop,1419,6,987,224,2,69,1250,2412,58.83084577114428,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-media,206,0,38,87,0,13,196,244,84.42622950819673,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-menu,283,0,25,101,0,9,272,308,91.88311688311688,Belarusian (http://www.transifex.com/mate/MATE/language/be/)
+mate-menus,98,0,5,38,0,1,97,103,95.14563106796116,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-notification-daemon,89,0,97,35,0,18,90,186,47.8494623655914,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-panel,3986,2,2765,581,1,240,3393,6753,59.025618243743516,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-polkit,123,0,0,21,0,0,104,123,100.0,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-power-manager,1379,3,3741,317,1,234,1209,5123,26.917821588912744,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-screensaver,886,0,215,153,0,23,757,1101,80.47229791099001,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-sensors-applet,308,0,1852,114,0,112,310,2160,14.25925925925926,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-session-manager,536,0,181,119,0,14,448,717,74.75592747559274,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-settings-daemon,869,0,1334,191,0,127,763,2203,39.446209714026324,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-system-monitor,1206,0,3688,317,0,344,1252,4894,24.642419288925215,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-terminal,3839,0,4399,509,0,256,3099,8238,46.60111677591649,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-themes,58,0,16,12,0,11,52,74,78.37837837837837,Belarusian (http://app.transifex.com/mate/MATE/language/be/)
+mate-user-admin,17,0,588,14,0,112,17,605,2.809917355371901,Belarusian (https://www.transifex.com/mate/teams/13566/be/)
+mate-user-guide,145,0,42828,87,0,3141,156,42973,0.3374211714332255,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mate-utils,2687,0,7214,595,0,476,2322,9901,27.13867286132714,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+mc,4429,0,0,1271,0,0,4327,4429,100.0,Belarusian (http://app.transifex.com/mc/mc/language/be/)
+mediawriter,830,1,5,152,1,2,733,836,99.28229665071771,Belarusian <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/be/>
+messagelib,180,2060,1380,62,578,193,166,3620,4.972375690607735,Belarusian <i18n@mova.org>
+metacity,2040,0,0,310,0,0,1996,2040,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+metadata-cleaner,4,0,714,2,0,89,4,718,0.5571030640668524,Belarusian <https://hosted.weblate.org/projects/metadata-cleaner/application/be/>
+minetest,3961,2947,3544,730,392,341,3602,10452,37.89705319556066,Belarusian <https://hosted.weblate.org/projects/minetest/minetest/be/>
+mingw-GConf2,4088,0,0,497,0,0,3838,4088,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+mingw-atk,440,0,0,169,0,0,431,440,100.0,Belarusian
+mingw-gcc,221,15350,121622,65,2677,13970,216,137193,0.1610869359223867,Belarusian <i18n@tut.by>
+mingw-gdk-pixbuf,1409,0,0,211,0,0,1436,1409,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+mingw-gettext,1222,1471,5515,159,164,517,1164,8208,14.887914230019494,Belarusian <i18n@tut.by>
+mingw-glib-networking,283,0,0,43,0,0,321,283,100.0,Belarusian
+mingw-glib2,4349,0,3344,808,0,403,4227,7693,56.53191212790849,Belarusian <i18n-bel-gnome@googlegroups.com>
+mingw-gsettings-desktop-schemas,536,0,6627,128,0,501,576,7163,7.482898226999861,Belarusian <i18n-bel-gnome@googlegroups.com>
+mingw-gstreamer1,170,104,1949,41,18,332,164,2223,7.647323436797121,Belarusian <i18n@mova.org>
+mingw-gtk2,6509,3317,2620,1613,608,366,5700,12446,52.29792704483368,Belarusian <i18n-bel-gnome@googlegroups.com>
+mingw-gtk3,16737,0,0,3942,0,0,14399,16737,100.0,Belarusian
+mingw-gtk4,3871,99,169,1408,39,48,3737,4139,93.5250060401063,Belarusian
+mingw-gtksourceview3,320,2,0,105,1,0,314,322,99.37888198757764,Belarusian <i18n-bel-gnome@googlegroups.com>
+mingw-json-glib,307,0,0,47,0,0,274,307,100.0,Belarusian
+mingw-libsoup,183,0,0,43,0,0,186,183,100.0,Belarusian
+mkvtoolnix,44305,317,110,4134,13,7,38991,44732,99.04542609317714,Belarusian (http://app.transifex.com/moritz-bunkus/mkvtoolnix/language/be/)
+mousepad,1434,0,266,383,0,45,1232,1700,84.35294117647058,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+mousetweaks,114,0,0,30,0,0,115,114,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+mozo,43,0,3,21,0,3,41,46,93.47826086956522,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+muffin,1069,0,0,137,0,0,990,1069,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+mutter,1358,0,0,147,0,0,1265,1358,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+mypaint,18,13,6350,15,8,1247,19,6381,0.2820874471086037,Belarusian <https://hosted.weblate.org/projects/mypaint/mypaint/be/>
+nautilus,5473,0,0,1133,0,0,5608,5473,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+network-manager-applet,4287,103,49,853,15,6,3848,4439,96.57580536156793,Belarusian
+noggin,0,0,1798,0,0,296,0,1798,0.0,none
+notification-daemon,17,0,0,7,0,0,16,17,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+obconf,692,0,46,147,0,9,595,738,93.76693766937669,Belarusian <i18n@mova.org>
+okteta,18,43,2463,12,27,567,18,2524,0.7131537242472267,Belarusian (Official spelling) <i18n@mova.org>
+okular,5671,93,100,1238,21,22,5126,5864,96.7087312414734,Belarusian
+openbox,473,0,33,90,0,4,436,506,93.47826086956522,Belarusian <i18n@mova.org>
+orage,2177,0,127,893,0,19,2048,2304,94.48784722222221,Belarusian (https://www.transifex.com/xfce/teams/16840/be/)
+orca,4450,489,556,1477,115,175,4537,5495,80.98271155595997,Belarusian <i18n-bel-gnome@googlegroups.com>
+pam,0,20,524,0,3,98,0,544,0.0,Belarusian (http://www.transifex.com/projects/p/fedora/language/be/)
+papers,1609,0,0,414,0,0,1570,1609,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+parley,29,503,2901,26,214,489,32,3433,0.8447422079813574,Belarusian
+parole,1118,0,29,295,0,4,1047,1147,97.4716652136007,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+pavucontrol,421,11,434,130,5,44,452,866,48.61431870669746,Belarusian <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/be/>
+phonon,327,0,0,59,0,0,295,327,100.0,Belarusian
+phosh,643,0,0,233,0,0,679,643,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+phosh-mobile-settings,637,0,0,177,0,0,582,637,100.0,Belarusian <Belarusian>
+pinta,1746,0,0,537,0,0,1634,1746,100.0,Belarusian <i18n@mova.org>
+piper,481,0,0,115,0,0,413,481,100.0,
+pipewire,647,0,0,108,0,0,657,647,100.0,Belarusian <>
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,Belarusian <>
+plasma-desktop,6546,306,558,1466,71,71,6223,7410,88.34008097165992,Belarusian
+plasma-discover,3596,35,61,715,12,11,3390,3692,97.39978331527628,Belarusian
+plasma-drkonqi,4,98,1878,2,27,181,3,1980,0.20202020202020202,Belarusian <i18n@mova.org>
+plasma-nm,5558,5,13,1329,1,4,5210,5576,99.67718794835008,Belarusian
+plasma-oxygen,4,25,586,1,6,212,5,615,0.6504065040650406,Belarusian <i18n@mova.org>
+plasma-print-manager,1057,87,20,287,18,7,1042,1164,90.80756013745705,Belarusian
+plasma-sdk,801,40,104,254,15,41,828,945,84.76190476190476,Belarusian
+plasma-settings,63,2,7,16,1,3,65,72,87.5,Belarusian
+plasma-systemmonitor,485,130,74,175,19,8,531,689,70.39187227866474,Belarusian
+plasma-systemsettings,128,0,2,35,0,1,122,130,98.46153846153847,Belarusian
+plasma-thunderbolt,172,1,1,37,1,1,166,174,98.85057471264368,Belarusian
+plasma-vault,628,0,0,99,0,0,525,628,100.0,Belarusian
+plasma-welcome,1210,203,202,118,12,22,1088,1615,74.92260061919505,Belarusian
+plasma-workspace,12365,183,347,2990,39,40,12047,12895,95.88987979837145,Belarusian
+plasma-workspace-x11,12365,183,347,2990,39,40,12047,12895,95.88987979837145,Belarusian
+plasma5support,402,0,0,182,0,0,435,402,100.0,Belarusian
+plasmatube,343,43,131,144,16,31,367,517,66.34429400386847,Belarusian
+pluma,3946,0,9167,1074,0,1016,3494,13113,30.092274841760087,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+pluma-plugins,150,0,1255,19,0,126,114,1405,10.676156583629894,Belarusian (https://app.transifex.com/mate/teams/13566/be/)
+plymouth,16,0,0,7,0,0,14,16,100.0,Belarusian <https://translate.fedoraproject.org/projects/plymouth/master/be/>
+plymouth-kcm,93,0,0,20,0,0,89,93,100.0,Belarusian
+poedit,3331,0,0,721,0,0,3322,3331,100.0,Belarusian
+polari,854,0,0,200,0,0,836,854,100.0,Belarusian
+policycoreutils,26,0,6091,26,0,945,26,6117,0.4250449566781102,Belarusian
+polkit-kde,59,0,0,23,0,0,56,59,100.0,Belarusian
+powerdevil,1373,276,114,275,41,35,1426,1763,77.87861599546227,Belarusian
+prusa-slicer,42229,0,3022,7242,0,335,39643,45251,93.32169454818678,Дзмітры К <dzmitry@lidacity.by>
+ptyxis,1389,0,255,372,0,31,1391,1644,84.48905109489051,Belarusian <Belarusian>
+pulseaudio,2513,1164,109,502,44,26,2420,3786,66.37612255678816,Belarusian <>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-apt,544,0,0,118,0,0,546,544,100.0,Belarusian <be@li.org>
+python-caja,6,0,0,2,0,0,6,6,100.0,Belarusian (https://www.transifex.com/mate/teams/13566/be/)
+python-django,3844,0,0,885,0,0,4042,3844,100.0,Belarusian (http://www.transifex.com/django/django/language/be/)
+python-django-contrib-comments,233,0,11,58,0,2,232,244,95.49180327868852,Belarusian (http://www.transifex.com/django/django-contrib-comments/language/be/)
+python-django-filter,83,0,5,40,0,2,76,88,94.31818181818183,TextTempearture
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Belarusian (http://www.transifex.com/projects/p/django-formtools/language/be/)
+python-django-mailman3,0,0,437,0,0,74,0,437,0.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,Belarusian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/be/)
+python-django4.2,3844,0,0,885,0,0,4042,3844,100.0,Belarusian (http://www.transifex.com/django/django/language/be/)
+python-django5,3952,0,0,921,0,0,4157,3952,100.0,Belarusian (http://app.transifex.com/django/django/language/be/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Belarusian
+python-flask-admin,367,0,0,112,0,0,339,367,100.0,Belarusian
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-meh,109,0,0,23,0,0,88,109,100.0,Belarusian <https://translate.fedoraproject.org/projects/python-meh/master/be/>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+quadrapassel,428,0,0,79,0,0,332,428,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+rapid-photo-downloader,627,0,7459,231,0,693,589,8086,7.754142963146178,Belarusian <be@li.org>
+recode,402,346,6,60,15,4,376,754,53.315649867374006,Belarusian <i18n@mova.org>
+redhat-menus,216,11,34,71,4,11,211,261,82.75862068965517,Belarusian <i18n@mova.org>
+rednotebook,77,5,1196,39,3,234,80,1278,6.025039123630673,Belarusian <be@li.org>
+redshift,1028,0,0,151,0,0,940,1028,100.0,Belarusian <be@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,0,0,5407,0,0,1018,0,5407,0.0,none
+renameutils,9,179,77,7,31,16,8,265,3.3962264150943398,Belarusian <i18n@mova.org>
+rhythmbox,3781,0,0,952,0,0,3658,3781,100.0,Belarussian <i18n-bel-gnome@googlegroups.com>
+ristretto,603,0,71,195,0,15,551,674,89.46587537091987,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+rygel,1632,0,0,302,0,0,1625,1632,100.0,
+sawfish,2349,1522,2572,531,257,194,2306,6443,36.45817165916498,Belarusian <i18n@mova.org>
+scummvm,5995,2286,7320,1257,601,600,5366,15601,38.427023908723804,Belarusian <https://translations.scummvm.org/projects/scummvm/scummvm/be/>
+seahorse,2378,0,0,540,0,0,2259,2378,100.0,Belarusian
+setuptool,47,0,8,13,0,1,43,55,85.45454545454545,Belarusian <i18n@mova.org>
+shared-mime-info,3316,0,337,1304,0,128,3437,3653,90.77470572132493,Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net>
+showtime,215,0,0,69,0,0,209,215,100.0,Belarusian <Belarusian>
+shutter,54,0,2394,24,0,477,51,2448,2.2058823529411766,Belarusian <be@li.org>
+simple-scan,967,0,0,214,0,0,865,967,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+skanlite,186,0,0,63,0,0,179,186,100.0,Belarusian
+skanpage,338,0,20,120,0,2,338,358,94.41340782122904,Belarusian
+slick-greeter,216,0,0,49,0,0,198,216,100.0,Belarusian <be@li.org>
+slrn,4084,845,422,758,85,107,3665,5351,76.32218276957578,Belarusian <i18n@mova.org>
+snapper,1,135,932,1,45,255,1,1068,0.09363295880149813,Belarusian <i18n@suse.de>
+snapshot,250,0,0,87,0,0,250,250,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+sos,0,0,123,0,0,30,0,123,0.0,none
+sound-juicer,922,0,212,201,0,3,853,1134,81.30511463844798,Belarusian <i18n-bel-gnome@googlegroups.com>
+squeekboard,13,0,0,6,0,0,10,13,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+stellarium,39345,0,121385,11211,0,27471,36422,160730,24.478939836993714,Belarusian (https://app.transifex.com/stellarium/teams/80998/be/)
+step,39,161,1697,30,94,552,39,1897,2.055877701634159,Belarusian <i18n@mova.org>
+sugar,1,0,2304,1,0,528,1,2305,0.04338394793926247,LANGUAGE <LL@li.org>
+sugar-stopwatch,2,0,3,2,0,3,2,5,40.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,65,13,135,60,9,54,65,213,30.51643192488263,LANGUAGE <LL@li.org>
+supertux,1324,0,1560,366,0,529,1145,2884,45.90846047156727,Belarusian (http://www.transifex.com/arctic-games/supertux/language/be/)
+supertuxkart,5959,0,0,1110,0,0,5649,5959,100.0,Belarusian (http://www.transifex.com/supertuxkart/supertuxkart/language/be/)
+sushi,54,0,0,14,0,0,52,54,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+svgpart,3,0,0,2,0,0,4,3,100.0,Belarusian
+sweeper,228,0,0,50,0,0,210,228,100.0,Belarusian
+swell-foop,339,0,0,72,0,0,285,339,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+switchdesk,16,85,21,3,9,7,15,122,13.114754098360656,Belorussian
+sylpheed,6874,281,59,1730,52,15,6298,7214,95.28694205711116,Belarusian <i18n@mova.org>
+synapse,185,0,671,80,0,154,187,856,21.61214953271028,Belarusian <be@li.org>
+sysstat,851,0,0,83,0,0,835,851,100.0,Belarusian <debian-l10n-belarusian@lists.debian.org>
+system-config-rootpassword,15,26,75,3,5,11,12,116,12.931034482758621,Belarusian <i18n@mova.org>
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Belarusian <i18n@mova.org>
+systemd,1480,70,286,187,10,36,1245,1836,80.61002178649237,Belarusian <https://translate.fedoraproject.org/projects/systemd/master/be/>
+tali,438,0,0,100,0,0,370,438,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+tecla,16,0,0,6,0,0,16,16,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+terminator,69,0,1453,16,0,399,58,1522,4.533508541392904,Belarusian (https://www.transifex.com/terminator/teams/109338/be/)
+thunar-archive-plugin,88,0,0,15,0,0,131,88,100.0,Belarusian (http://www.transifex.com/xfce/thunar-plugins/language/be/)
+thunar-media-tags-plugin,158,0,0,60,0,0,136,158,100.0,Belarusian (http://www.transifex.com/xfce/thunar-plugins/language/be/)
+thunar-vcs-plugin,774,0,0,307,0,0,772,774,100.0,Belarusian (http://www.transifex.com/xfce/thunar-plugins/language/be/)
+thunar-volman,484,0,0,115,0,0,410,484,100.0,Belarusian (http://www.transifex.com/xfce/thunar-volman/language/be/)
+timeshift,2870,0,0,567,0,0,2609,2870,100.0,Belarusian <be@li.org>
+torbrowser-launcher,228,0,0,48,0,0,196,228,100.0,Belarusian <debian-l10n-belarusian@lists.debian.org>
+totem,1376,0,0,392,0,0,1272,1376,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+totem-pl-parser,29,0,0,8,0,0,22,29,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+tracker,600,0,0,114,0,0,587,600,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+tracker-miners,1836,6,0,305,1,0,1759,1842,99.6742671009772,Belarusian
+transmission,1133,0,1308,372,0,213,1290,2441,46.41540352314625,Belarusian (https://app.transifex.com/transmissionbt/teams/33778/be/)
+tuba,37,0,2542,5,0,749,35,2579,1.4346645986816595,Belarusian <https://hosted.weblate.org/projects/tuba/tuba/be/>
+tumbler,144,0,4,24,0,1,124,148,97.2972972972973,Belarusian (http://www.transifex.com/xfce/tumbler/language/be/)
+tuxpaint,1149,1494,2712,253,150,212,918,5355,21.45658263305322,none
+uget,793,0,292,316,0,46,800,1085,73.08755760368663,Belarusian (http://www.transifex.com/uget/uget/language/be/)
+umbrello,23,4450,1225,17,1365,227,24,5698,0.40365040365040367,Belarusian <i18n@mova.org>
+usermode,451,0,122,74,0,22,383,573,78.70855148342059,LANGUAGE <LL@li.org>
+video-downloader,155,0,0,64,0,0,158,155,100.0,Belarusian <https://hosted.weblate.org/projects/video-downloader/gui/be/>
+vinagre,1473,0,0,266,0,0,1276,1473,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+vlc,28949,38,5792,5309,12,964,24649,34779,83.23701083987464,Belarusian (https://app.transifex.com/yaron/teams/16553/be/)
+vorbis-tools,901,918,1977,171,128,141,860,3796,23.735511064278185,Belarusian <i18n@mova.org>
+vte,116,0,0,20,0,0,103,116,100.0,Belarusian <i18n@mova.org>
+vte291,46,0,0,9,0,0,46,46,100.0,Belarusian <i18n-bel-googlegroups.com>
+wdiff,5,97,18,2,20,9,5,120,4.166666666666666,Belarusian <i18n@mova.org>
+wget1,3910,106,84,604,26,25,3773,4100,95.36585365853658,Belarusian <i18n@mova.org>
+wingpanel,6,0,51,1,0,9,6,57,10.526315789473683,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,3,0,77,3,0,27,3,80,3.75,Belarusian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/be/>
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,LANGUAGE <LL@li.org>
+wireplumber,10,0,0,5,0,0,10,10,100.0,Belarusian <>
+xapps,73,0,0,36,0,0,68,73,100.0,Belarusian <be@li.org>
+xchm,193,19,29,81,7,10,172,241,80.08298755186722,Belarusian <i18n@mova.org>
+xdg-desktop-portal,166,21,116,24,4,18,141,303,54.78547854785478,Belarusian <i18n-bel-gnome@googlegroups.com>
+xdg-desktop-portal-gnome,211,0,0,62,0,0,216,211,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+xdg-desktop-portal-gtk,240,0,0,64,0,0,248,240,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+xdg-user-dirs,28,0,0,28,0,0,36,28,100.0,Belarusian <i18n@mova.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,77,81,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+xed,3775,0,0,928,0,0,3465,3775,100.0,Belarusian (http://www.transifex.com/projects/p/MATE/language/be/)
+xfburn,1513,0,53,319,0,5,1291,1566,96.61558109833972,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+xfce4-appfinder,435,0,20,86,0,3,359,455,95.6043956043956,Belarusian (http://www.transifex.com/xfce/xfce4-appfinder/language/be/)
+xfce4-battery-plugin,145,0,0,42,0,0,154,145,100.0,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-calculator-plugin,39,0,0,16,0,0,38,39,100.0,Belarusian (https://app.transifex.com/xfce/teams/16840/be/)
+xfce4-clipman-plugin,401,0,166,84,0,13,330,567,70.72310405643739,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-cpufreq-plugin,168,0,6,47,0,1,156,174,96.55172413793103,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-cpugraph-plugin,157,0,28,55,0,8,168,185,84.86486486486487,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-datetime-plugin,52,0,0,19,0,0,51,52,100.0,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-dict,531,0,0,121,0,0,482,531,100.0,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+xfce4-diskperf-plugin,163,0,18,36,0,1,161,181,90.05524861878453,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-eyes-plugin,16,0,0,5,0,0,15,16,100.0,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,63,71,100.0,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-genmon-plugin,102,0,14,27,0,2,89,116,87.93103448275862,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-mailwatch-plugin,678,0,0,123,0,0,617,678,100.0,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-mount-plugin,380,0,0,56,0,0,308,380,100.0,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-mpc-plugin,73,0,18,23,0,5,67,91,80.21978021978022,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-netload-plugin,89,0,17,33,0,6,84,106,83.9622641509434,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-notes-plugin,167,0,6,63,0,2,145,173,96.53179190751445,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-notifyd,279,0,283,80,0,56,240,562,49.644128113879006,Belarusian (http://www.transifex.com/xfce/xfce-apps/language/be/)
+xfce4-panel,1809,0,145,463,0,26,1611,1954,92.57932446264073,Belarusian (https://www.transifex.com/xfce/teams/16840/be/)
+xfce4-panel-profiles,94,0,50,28,0,5,91,144,65.27777777777779,Belarusian (https://app.transifex.com/xfce/teams/16840/be/)
+xfce4-places-plugin,162,0,0,47,0,0,151,162,100.0,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-power-manager,1026,0,3,210,0,2,881,1029,99.70845481049562,Belarusian (https://app.transifex.com/xfce/teams/16840/be/)
+xfce4-pulseaudio-plugin,119,0,76,30,0,16,104,195,61.02564102564103,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-screensaver,650,0,107,152,0,15,579,757,85.86525759577279,Belarusian (https://app.transifex.com/xfce/teams/16840/be/)
+xfce4-screenshooter,300,0,273,52,0,37,257,573,52.35602094240838,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+xfce4-sensors-plugin,380,0,53,82,0,5,324,433,87.75981524249423,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-session,740,0,41,163,0,4,649,781,94.75032010243278,Belarusian (https://app.transifex.com/xfce/teams/16840/be/)
+xfce4-settings,2422,0,54,569,0,11,2120,2476,97.81906300484653,Belarusian (https://www.transifex.com/xfce/teams/16840/be/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,23,22,100.0,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,117,129,100.0,Belarusian (https://www.transifex.com/xfce/teams/16840/be/)
+xfce4-systemload-plugin,87,0,0,23,0,0,100,87,100.0,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-taskmanager,218,0,11,69,0,5,196,229,95.19650655021834,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+xfce4-terminal,972,0,660,280,0,121,867,1632,59.55882352941176,Belarusian (http://app.transifex.com/xfce/xfce-apps/language/be/)
+xfce4-time-out-plugin,106,0,9,38,0,1,108,115,92.17391304347827,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-timer-plugin,128,0,10,45,0,4,124,138,92.7536231884058,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-verve-plugin,88,0,0,27,0,0,86,88,100.0,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-wavelan-plugin,74,0,6,20,0,2,66,80,92.5,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-weather-plugin,3537,0,61,316,0,5,2896,3598,98.30461367426348,Belarusian (http://app.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfce4-whiskermenu-plugin,325,0,104,107,0,30,298,429,75.75757575757575,Belarusian (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/be/)
+xfce4-xkb-plugin,57,0,0,22,0,0,56,57,100.0,Belarusian (http://www.transifex.com/xfce/xfce-panel-plugins/language/be/)
+xfconf,448,0,10,66,0,1,393,458,97.81659388646288,Belarusian (http://app.transifex.com/xfce/xfconf/language/be/)
+xfdashboard,1043,0,40,153,0,3,836,1083,96.30655586334257,Belarusian (https://www.transifex.com/xfce/teams/16840/be/)
+xfdesktop,1031,0,50,247,0,10,917,1081,95.37465309898242,Belarusian (https://www.transifex.com/xfce/teams/16840/be/)
+xfmpc,175,0,0,78,0,0,165,175,100.0,Belarusian (http://www.transifex.com/xfce/xfce-apps/language/be/)
+xfwm4,656,0,10,176,0,2,669,666,98.49849849849849,Belarusian (http://www.transifex.com/xfce/xfwm4/language/be/)
+xpad,384,0,52,119,0,16,381,436,88.07339449541286,Belarusian <be@li.org>
+xreader,1625,0,0,380,0,0,1402,1625,100.0,Belarusian (http://www.transifex.com/mate/MATE/language/be/)
+xscreensaver,128,121,12565,26,52,2058,104,12814,0.998907444982051,Belarusian <i18n@mova.org>
+yakuake,1671,0,0,238,0,0,1446,1671,100.0,Belarusian
+yelp,348,0,0,73,0,0,292,348,100.0,Belarusian
+yelp-xsl,88,0,0,64,0,0,80,88,100.0,Belarusian
+zenity,896,0,0,199,0,0,861,896,100.0,Belarusian <i18n-bel-gnome@googlegroups.com>
+zypper,1403,326,8314,221,85,979,1349,10043,13.969929303992831,Belarusian <https://l10n.opensuse.org/projects/zypper/master/be/>

@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+audacity,7267,471,2895,1486,20,563,9339,10633,68.34383522994452,Catalan <ca@li.org>
+filezilla,7359,0,0,1262,0,0,8445,7359,100.0,Softwarevalencia
+gimp,25702,5,10,6672,1,1,32030,25717,99.9416728234242,Catalan <gimp@llistes.softcatala.org>
+gnome-panel,4582,0,0,629,0,0,5247,4582,100.0,Catalan <tradgnome@softcatala.org>
+gtk2,11469,656,635,2312,148,103,13205,12760,89.88244514106583,Catalan <tradgnome@softcatala.org>
+inkscape,10408,2392,4373,2258,690,517,12141,17173,60.60676643568392,Catalan <tradgnome@softcatala.org>
+libwnck,1124,0,0,241,0,0,1429,1124,100.0,Catalan <tradgnome@softcatala.org>
+mingw32-gtk2,10800,861,739,1992,195,126,12752,12400,87.09677419354838,Catalan <tradgnome@softcatala.org>
+nautilus,8218,0,0,1289,0,0,9209,8218,100.0,Catalan <tradgnome@softcatala.org>
+pidgin,18068,0,17,3878,0,3,21994,18085,99.90599944705558,Catalan <tradgnome@softcatala.net>
+poedit,1164,0,0,270,0,0,1482,1164,100.0,Pau <paubcrespo@gmail.com>
+virtaal,1011,0,0,254,0,0,1249,1011,100.0,Softcatalà
+wesnoth,9631,2025,200971,1477,91,11539,10419,212627,4.529528234890207,Catalan <wesnoth-ca@lists.ettin.org>

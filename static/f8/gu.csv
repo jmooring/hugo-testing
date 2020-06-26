@@ -1,0 +1,167 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4032,0,0,481,0,0,4410,4032,100.0,Gujarati <fedora-trans-gu@redhat.com>
+NetworkManager,32,43,37,8,9,9,31,112,28.57142857142857,Gujarati
+alacarte,74,0,0,30,0,0,82,74,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+alleyoop,177,0,165,49,0,38,204,342,51.75438596491229,Gujarati
+anaconda,10203,0,0,1245,0,0,10721,10203,100.0,Gujarati <fedora-trans-gu@redhat.com>
+at-spi,4,0,0,2,0,0,4,4,100.0,Gujarati
+atk,370,0,0,123,0,0,441,370,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+atomix,146,0,0,59,0,0,175,146,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+authconfig,1133,0,0,223,0,0,1260,1133,100.0,Gujarati <fedora-trans-gu@redhat.com>
+blam,268,0,0,83,0,0,322,268,100.0,Gujarati
+bug-buddy,972,0,0,90,0,0,988,972,100.0,Gujarati <fedora-trans-gu@redhat.com>
+chkconfig,430,0,0,88,0,0,462,430,100.0,Gujarati <fedora-trans-gu@redhat.com>
+compiz,66,0,0,11,0,0,75,66,100.0,Gujarati <fedora-trans-gu@redhat.com>
+control-center,3725,0,0,857,0,0,4147,3725,100.0,Gujarati <fedora-trans-gu@redhat.com>
+dasher,443,0,0,173,0,0,498,443,100.0,Gujarati <fedora-trans-gu@redhat.com>
+deskbar-applet,910,0,0,188,0,0,915,910,100.0,Gujarati <fedora-trans-gu@redhat.com>
+devhelp,309,0,0,71,0,0,319,309,100.0,Gujarati <fedora-trans-gu@redhat.com>
+dia,785,218,4708,209,53,1784,955,5711,13.745403607074067,Gujarati
+drgeo,1898,55,32,444,7,10,2062,1985,95.61712846347608,Gujarati
+eel2,226,0,0,49,0,0,207,226,100.0,Gujarati <fedora-trans-gu@redhat.com>
+ekiga,5167,0,0,776,0,0,5237,5167,100.0,Gujarati <fedora-trans-gu@redhat.com>
+eog,995,0,0,245,0,0,1074,995,100.0,Gujarati <fedora-trans-gu@redhat.com>
+epiphany,4071,0,0,887,0,0,4387,4071,100.0,Gujarati <fedora-trans-gu@redhat.com>
+evince,1012,0,0,294,0,0,1050,1012,100.0,Gujarati <fedora-trans-gu@redhat.com>
+evolution,20086,0,0,4769,0,0,21977,20086,100.0,Gujarati <fedora-trans-gu@redhat.com>
+evolution-data-server,5044,0,0,1042,0,0,5671,5044,100.0,Gujarati <fedora-trans-gu@redhat.com>
+evolution-exchange,1307,0,0,194,0,0,1425,1307,100.0,Gujarati <fedora-trans-gu@redhat.com>
+evolution-webcal,184,0,0,30,0,0,198,184,100.0,Gujarati <fedora-trans-gu@redhat.com>
+fast-user-switch-applet,842,0,0,99,0,0,837,842,100.0,Gujarati <fedora-trans-gu@redhat.com>
+file-roller,1084,0,0,253,0,0,1195,1084,100.0,Gujarati <fedora-trans-gu@redhat.com>
+firstboot,598,0,0,59,0,0,610,598,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gail,170,0,0,103,0,0,198,170,100.0,Gujarati
+gcalctool,1049,0,0,366,0,0,1132,1049,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gcompris,4667,0,0,735,0,0,4266,4667,100.0,
+gconf-editor,335,0,0,99,0,0,382,335,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gdm,7177,0,0,938,0,0,7775,7177,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gedit,5096,0,0,1110,0,0,5402,5096,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gedit-plugins,281,0,0,52,0,0,279,281,100.0,Gujarati
+gimp,21511,2,3,5879,1,1,23991,21516,99.97676147982897,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+glib2,1356,0,0,173,0,0,1372,1356,100.0,Gujarati <fedora-trans-gu@redhat.com>
+glom,159,5,111,50,3,7,153,275,57.81818181818181,Gujarati
+gnome-applets,3740,0,0,941,0,0,3932,3740,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-backgrounds,18,0,0,9,0,0,18,18,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+gnome-desktop,330,0,0,76,0,0,371,330,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-doc-utils,238,0,0,92,0,0,242,238,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-games,7325,0,0,1767,0,0,7301,7325,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-icon-theme,51,0,0,46,0,0,52,51,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-keyring,661,0,0,61,0,0,623,661,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-keyring-manager,284,0,0,87,0,0,337,284,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-mag,298,0,0,42,0,0,278,298,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-media,1923,0,0,526,0,0,1988,1923,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-menus,165,0,0,58,0,0,173,165,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-mime-data,887,0,0,362,0,0,947,887,100.0,Gujarati
+gnome-netstatus,425,0,0,110,0,0,447,425,100.0,Gujarati <gu@li.org>
+gnome-nettool,545,0,0,185,0,0,576,545,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-panel,4600,0,0,610,0,0,4608,4600,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-phone-manager,327,0,63,90,0,2,349,390,83.84615384615385,Gujarati
+gnome-power-manager,3438,0,0,464,0,0,3579,3438,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-screensaver,991,0,0,163,0,0,1031,991,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-session,888,0,0,126,0,0,977,888,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-system-monitor,839,0,0,224,0,0,903,839,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-terminal,4599,0,0,513,0,0,4602,4599,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-themes,85,0,0,26,0,0,96,85,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-user-share,75,0,0,16,0,0,75,75,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-utils,4143,0,0,728,0,0,4189,4143,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-vfs2,1508,0,0,301,0,0,1569,1508,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-volume-manager,1169,0,0,193,0,0,1296,1169,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+gok,1942,0,0,439,0,0,2121,1942,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gthumb,2610,0,0,882,0,0,3084,2610,100.0,Gujarati
+gtk2,12092,0,0,2412,0,0,11610,12092,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gtk2-engines,83,0,0,33,0,0,92,83,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gtkhtml3,920,0,0,398,0,0,1061,920,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gtkhtml38,915,0,0,406,0,0,1053,915,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+gtksourceview,891,0,0,366,0,0,937,891,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gtksourceview2,826,0,0,349,0,0,837,826,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gucharmap,776,0,0,283,0,0,859,776,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+hwbrowser,116,0,0,51,0,0,127,116,100.0,Gujarati <fedora-trans-gu@redhat.com>
+im-chooser,172,0,0,24,0,0,183,172,100.0,Gujarati <fedora-trans-gu@redhat.com>
+initscripts,3733,0,0,857,0,0,5167,3733,100.0,Gujarati <fedora-trans-gu@redhat.com>
+iso-codes,1077,21,11076,448,21,8066,1061,12174,8.846722523410547,Gujarati <team@utkarsh.org>
+kexec-tools,206,0,0,14,0,0,230,206,100.0,Gujarati <fedora-trans-gu@redhat.com>
+kudzu,73,0,0,13,0,0,82,73,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libbonobo,547,0,0,108,0,0,566,547,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libbonoboui,361,0,0,114,0,0,416,361,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+libgnome,1656,0,0,256,0,0,1663,1656,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libgnomecanvas,378,0,0,95,0,0,365,378,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libgnomecups,210,0,0,54,0,0,206,210,100.0,Gujarati
+libgnomekbd,262,0,0,49,0,0,250,262,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libgnomeprint22,168,0,0,98,0,0,156,168,100.0,Gujarati <gu@li.org>
+libgnomeprintui22,481,0,0,154,0,0,483,481,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libgnomeui,1309,0,0,334,0,0,1408,1309,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libgtop2,126,0,0,40,0,0,156,126,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libuser,1039,13,0,220,2,0,1188,1052,98.76425855513308,Gujarati <fedora-trans-gu@redhat.com>
+libvirt,2277,11,9,502,3,2,2322,2297,99.12929908576405,Gujarati <fedora-trans-gu@redhat.com>
+libwnck,1122,0,0,239,0,0,1168,1122,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libxfcegui4,78,0,3,23,0,2,100,81,96.29629629629629,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+metacity,8059,0,0,515,0,0,8747,8059,100.0,Gujarati <fedora-trans-gu@redhat.com>
+mousepad,113,4,18,58,2,4,179,135,83.7037037037037,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+nautilus,6969,0,0,1160,0,0,7479,6969,100.0,Gujarati <fedora-trans-gu@redhat.com>
+nautilus-actions,1228,0,0,147,0,0,1175,1228,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+nautilus-cd-burner,1306,0,0,210,0,0,1363,1306,100.0,Gujarati <fedora-trans-gu@redhat.com>
+nautilus-open-terminal,24,0,0,5,0,0,19,24,100.0,Gujarati <fedora-trans-gu@redhat.com>
+orage,48,25,791,16,12,511,57,864,5.555555555555555,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+orca,2510,0,0,934,0,0,2781,2510,100.0,Gujarati <fedora-trans-gu@redhat.com>
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pessulus,88,0,0,30,0,0,132,88,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+pidgin,8660,3731,3263,1874,959,503,9318,15654,55.321323623355056,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+pirut,804,0,0,177,0,0,1021,804,100.0,Gujarati <fedora-trans-gu@redhat.com>
+policycoreutils,1214,0,0,204,0,0,1343,1214,100.0,Gujarati <fedora-trans-gu@redhat.com>
+pykickstart,284,0,0,25,0,0,288,284,100.0,Gujarati <fedora-trans-gu@redhat.com>
+redhat-menus,261,0,0,86,0,0,275,261,100.0,Gujarati <fedora-trans-gu@redhat.com>
+revisor,0,0,3200,0,0,588,0,3200,0.0,
+rhgb,121,0,0,29,0,0,185,121,100.0,Gujarati <fedora-trans-gu@redhat.com>
+rhpl,185,0,0,80,0,0,178,185,100.0,Gujarati <fedora-trans-gu@redhat.com>
+rhpxl,136,0,0,43,0,0,157,136,100.0,Gujarati <fedora-trans-gu@redhat.com>
+sabayon,1178,0,0,230,0,0,1352,1178,100.0,Gujarati <fedora-trans-gu@redhat.com>
+seahorse,3630,0,0,750,0,0,4084,3630,100.0,Gujarati <fedora-trans-gu@redhat.com>
+setroubleshoot,187,91,229,68,26,42,234,507,36.883629191321496,Gujarati <fedora-trans-gu@redhat.com>
+setroubleshoot-plugins,4413,2856,560,165,58,10,4567,7829,56.36735215225443,Gujarati <fedora-trans-gu@redhat.com>
+setuptool,60,0,0,17,0,0,64,60,100.0,Gujarati <fedora-trans-gu@redhat.com>
+smolt,756,0,0,85,0,0,804,756,100.0,Gujarati <fedora-trans-gu@redhat.com>
+sound-juicer,861,0,0,161,0,0,996,861,100.0,Gujarati <fedora-trans-gu@redhat.com>
+specspo,66954,44415,193925,3487,5287,8076,68811,305294,21.93099111020852,Gujarati <fedora-trans-gu@redhat.com>
+switchdesk,137,0,0,19,0,0,142,137,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-bind,9305,14,97,1053,2,6,9390,9416,98.82115548003398,Gujarati <fedora-trans-gu@redhat.com>
+system-config-boot,46,0,0,10,0,0,47,46,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-date,997,1,0,608,1,0,1123,998,99.8997995991984,Gujarati <fedora-trans-gu@redhat.com>
+system-config-display,398,0,0,63,0,0,464,398,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-firewall,2956,0,0,279,0,0,3154,2956,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-httpd,858,0,0,223,0,0,943,858,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-keyboard,78,0,0,12,0,0,81,78,100.0,Gujarati
+system-config-kickstart,1054,0,0,281,0,0,1116,1054,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-language,49,0,0,11,0,0,54,49,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-lvm,2049,33,2,320,2,1,2231,2084,98.32053742802303,Gujarati <fedora-trans-gu@redhat.com>
+system-config-netboot,1088,0,0,161,0,0,1129,1088,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-network,3011,0,0,733,0,0,3491,3011,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-nfs,318,0,0,73,0,0,377,318,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-printer,1285,0,0,326,0,0,1363,1285,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-rootpassword,50,0,0,9,0,0,52,50,100.0,Gujarati
+system-config-samba,423,0,0,138,0,0,524,423,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-services,221,0,0,55,0,0,261,221,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-soundcard,224,0,0,51,0,0,231,224,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-config-users,1186,0,0,165,0,0,1261,1186,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-switch-mail,134,0,0,20,0,0,159,134,100.0,Gujarati <fedora-trans-gu@redhat.com>
+tomboy,2319,0,0,358,0,0,2457,2319,100.0,Gujarati <fedora-trans-gu@redhat.com>
+totem,1970,0,0,431,0,0,2028,1970,100.0,Gujarati <fedora-trans-gu@redhat.com>
+tuxpaint,591,0,0,159,0,0,587,591,100.0,Gujarati <team@utkarsh.org>
+tuxpaint-stamps,1497,178,233,355,77,67,1211,1908,78.45911949685535,Gujarati <team@utkarsh.org>
+usermode,570,0,0,96,0,0,631,570,100.0,Gujarati <fedora-trans-gu@redhat.com>
+vino,838,0,0,84,0,0,898,838,100.0,Gujarati <fedora-trans-gu@redhat.com>
+virt-manager,1072,465,1242,240,143,199,1147,2779,38.57502698812523,Gujarati <fedora-trans-gu@redhat.com>
+vte,116,0,0,20,0,0,133,116,100.0,Gujarati <fedora-trans-gu@redhat.com>
+xfce-mcs-manager,20,6,4,5,1,1,21,30,66.66666666666666,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfce-mcs-plugins,265,33,177,80,16,37,271,475,55.78947368421052,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfce-utils,63,20,36,20,7,7,74,119,52.94117647058824,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfce4-appfinder,14,4,30,14,3,11,15,48,29.166666666666668,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Gujarati
+xfce4-mailwatch-plugin,529,7,87,92,2,7,567,623,84.91171749598716,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfce4-mixer,156,2,68,71,2,21,171,226,69.02654867256636,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfce4-panel,106,158,314,43,57,60,103,578,18.33910034602076,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfce4-session,706,15,17,115,6,8,834,738,95.6639566395664,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfdesktop,390,321,367,117,83,88,447,1078,36.178107606679035,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfprint,175,47,102,79,16,19,189,324,54.01234567901234,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xfwm4,410,105,131,134,29,27,528,646,63.46749226006192,Gujarati <fedora-trans-gu@redhat.com>
+yelp,837,0,0,238,0,0,870,837,100.0,Gujarati <fedora-trans-gu@redhat.com>
+zenity,559,0,0,130,0,0,591,559,100.0,Gujarati <fedora-trans-gu@redhat.com>

@@ -1,0 +1,124 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,53,10,11,26,2,2,57,74,71.62162162162163,Marathi
+anaconda,10203,0,0,1245,0,0,9444,10203,100.0,marathi
+at-spi,4,0,0,2,0,0,4,4,100.0,Marathi <marathiopensource@yahoogroups.com>
+atk,30,98,242,30,49,44,34,370,8.108108108108109,Marathi <www.indictrans.org>
+authconfig,1133,0,0,223,0,0,1056,1133,100.0,marathi
+bug-buddy,85,59,612,19,12,42,80,756,11.243386243386242,Marathi
+chkconfig,430,0,0,88,0,0,411,430,100.0,marathi
+compiz,66,0,0,11,0,0,64,66,100.0,Marathi
+control-center,1592,1638,315,538,162,77,1527,3545,44.908321579689705,Marathi
+dasher,198,12,101,97,2,14,209,311,63.665594855305464,Marathi
+deskbar-applet,241,258,233,109,17,31,245,732,32.92349726775956,Marathi
+drgeo,1909,68,8,449,8,4,1809,1985,96.1712846347607,Marathi
+eel2,235,0,0,52,0,0,193,235,100.0,<marathiopensource@yahoogroups.com>
+ekiga,1190,2974,2178,195,465,136,1123,6342,18.76379690949227,Marathi <www.indictrans.org>
+epiphany,1626,877,1463,636,85,154,1549,3966,40.998487140695914,Marathi
+evince,809,38,0,243,8,0,750,847,95.51357733175915,
+evolution,4693,9697,4481,2317,1204,1070,4678,18871,24.86884637804038,Marathi
+evolution-data-server,2024,2880,46,591,424,9,2117,4950,40.88888888888889,Marathi
+evolution-webcal,94,0,86,23,0,6,83,180,52.22222222222223,Marathi
+fast-user-switch-applet,642,186,220,100,7,8,572,1048,61.25954198473282,Marathi
+file-roller,803,149,0,229,10,0,736,952,84.34873949579831,Marathi
+firstboot,598,0,0,59,0,0,526,598,100.0,marathi
+gcalctool,262,376,377,174,64,119,274,1015,25.8128078817734,Marathi
+gcompris,0,0,0,0,0,0,0,0,0.0,
+gconf-editor,212,117,0,58,40,0,204,329,64.43768996960486,
+gdm,4980,6,304,681,1,16,4982,5290,94.1398865784499,Marathi
+gedit,4554,395,543,1124,47,66,4286,5492,82.92061179898033,Marathi
+gnome-applets,3788,0,0,952,0,0,3426,3788,100.0,Marathi
+gnome-backgrounds,18,0,0,9,0,0,18,18,100.0,Marathi
+gnome-desktop,323,0,0,73,0,0,323,323,100.0,Marathi
+gnome-doc-utils,213,0,0,80,0,0,211,213,100.0,Marathi
+gnome-games,4632,701,1733,1079,250,369,3835,7066,65.55335409000848,Marathi
+gnome-icon-theme,49,0,0,44,0,0,49,49,100.0,Marathi
+gnome-keyring,711,0,0,57,0,0,599,711,100.0,Marathi
+gnome-keyring-manager,365,0,0,96,0,0,340,365,100.0,
+gnome-mag,5,0,0,2,0,0,7,5,100.0,Marathi
+gnome-media,877,891,19,421,80,4,887,1787,49.076664801343036,Marathi
+gnome-menus,136,0,0,49,0,0,141,136,100.0,Marathi
+gnome-netstatus,338,0,87,107,0,3,333,425,79.52941176470588,Marathi
+gnome-panel,2407,243,1435,416,56,77,2255,4085,58.922888616891065,Marathi
+gnome-session,444,62,57,90,11,2,456,563,78.86323268206039,Marathi
+gnome-system-monitor,763,0,84,206,0,4,720,847,90.08264462809917,Marathi
+gnome-terminal,203,4194,198,101,353,56,197,4595,4.4178454842219805,Marathi
+gnome-themes,72,5,3,22,1,1,76,80,90.0,Marathi
+gnome-vfs2,209,25,1048,62,9,177,227,1282,16.302652106084242,Marathi <www.indictrans.org>
+gnumeric,2604,2355,40779,808,1034,2318,2458,45738,5.693296602387512,terna localization Team <hbcse.net>
+goffice,132,503,2394,100,260,798,135,3029,4.357873885770881,terna localization Team <hbcse.net>
+goffice04,90,626,3274,61,328,976,93,3990,2.2556390977443606,terna localization Team <hbcse.net>
+gok,406,1200,261,265,110,54,416,1867,21.74611676486342,Marathi
+grass,109,2060,23944,32,412,3535,109,26113,0.4174166124152721,Marathi <www.janabhaaratii.org.in>
+gtk2,5445,3322,3325,1378,579,455,4981,12092,45.0297717499173,Marathi
+gtkhtml3,912,0,0,405,0,0,885,912,100.0,Marathi
+gtkhtml38,912,0,0,405,0,0,885,912,100.0,Marathi
+gtksourceview,508,177,164,263,25,54,504,849,59.835100117785636,Marathi
+gtksourceview2,508,0,341,263,0,79,504,849,59.835100117785636,Marathi
+gucharmap,10,0,762,9,0,272,10,772,1.2953367875647668,Marathi
+hwbrowser,116,0,0,51,0,0,119,116,100.0,Marathi
+im-chooser,70,45,57,8,6,10,60,172,40.69767441860465,Marathi
+initscripts,3733,0,0,857,0,0,4324,3733,100.0,marathi
+iso-codes,1189,2406,8579,651,2105,5779,1171,12174,9.766715952028914,"Marathi, janabhaaratii, C-DAC, Mumbai <janabhaaratii@cdacmumbai.in>"
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kudzu,73,0,0,13,0,0,82,73,100.0,Marathi
+libbonoboui,282,33,45,90,4,19,304,360,78.33333333333333,Marathi <www.indictrans.org>
+libgnomeprint22,168,0,0,98,0,0,172,168,100.0,
+libgnomeprintui22,471,0,1,150,0,1,426,472,99.78813559322035,<marathiopensource@yahoogroups.com>
+libgnomeui,961,175,283,247,46,52,865,1419,67.72374911909796,Marathi <www.indictrans.org>
+libuser,359,233,460,85,51,86,360,1052,34.125475285171106,marathi
+libvirt,2277,11,9,502,3,2,2192,2297,99.12929908576405,marathi
+libwnck,36,45,6,14,16,2,41,87,41.37931034482759,Marathi
+libxfcegui4,78,0,3,23,0,2,75,81,96.29629629629629,Marathi <LL@li.org>
+metacity,448,0,6816,143,0,339,434,7264,6.167400881057269,Marathi
+orage,50,35,779,18,16,505,52,864,5.787037037037037,Marathi <LL@li.org>
+orca,541,440,342,379,62,71,548,1323,40.89191232048375,Marathi
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pessulus,75,0,13,26,0,4,98,88,85.22727272727273,Marathi
+pirut,815,0,0,178,0,0,841,815,100.0,marathi
+policycoreutils,1214,0,0,204,0,0,1257,1214,100.0,Marathi
+pykickstart,240,43,1,22,2,1,223,284,84.50704225352112,marathi
+redhat-menus,261,0,0,86,0,0,260,261,100.0,marathi
+rhgb,121,0,0,29,0,0,161,121,100.0,marathi
+rhpl,185,0,0,80,0,0,173,185,100.0,Marathi
+rhpxl,136,0,0,43,0,0,155,136,100.0,Marathi
+setroubleshoot,40,139,328,16,42,78,47,507,7.889546351084813,Marathi
+setroubleshoot-plugins,13,6579,1237,7,190,36,13,7829,0.1660493038702261,Marathi
+setuptool,60,0,0,17,0,0,60,60,100.0,Marathi
+specspo,0,0,305294,0,0,16850,0,305294,0.0,LANGUAGE <LL@li.org>
+switchdesk,137,0,0,19,0,0,130,137,100.0,Marathi <en@li.org>
+system-config-bind,1630,1421,6365,433,137,491,1544,9416,17.310960067969415,Marathi
+system-config-boot,41,0,5,9,0,1,37,46,89.13043478260869,Marathi <en@li.org>
+system-config-date,931,34,33,597,6,6,971,998,93.28657314629258,Marathi
+system-config-display,398,0,0,63,0,0,393,398,100.0,Marathi
+system-config-firewall,1298,444,1214,117,49,113,1186,2956,43.9106901217862,Marathi
+system-config-httpd,858,0,0,223,0,0,834,858,100.0,Marathi
+system-config-keyboard,78,0,0,12,0,0,72,78,100.0,Marathi <en@li.org>
+system-config-kickstart,1002,35,17,271,7,3,947,1054,95.06641366223909,Marathi
+system-config-language,49,0,0,11,0,0,42,49,100.0,Marathi
+system-config-lvm,0,409,1675,0,74,249,0,2084,0.0,Marathi
+system-config-netboot,1018,5,65,146,1,14,911,1088,93.56617647058823,Marathi
+system-config-network,3011,0,0,733,0,0,2940,3011,100.0,marathi
+system-config-nfs,318,0,0,73,0,0,306,318,100.0,Marathi
+system-config-printer,342,313,630,156,56,114,322,1285,26.6147859922179,Marathi
+system-config-rootpassword,50,0,0,9,0,0,49,50,100.0,Marathi <en@li.org>
+system-config-samba,383,9,31,133,2,3,377,423,90.54373522458629,Marathi
+system-config-services,232,0,0,62,0,0,233,232,100.0,Marathi
+system-config-soundcard,224,0,0,51,0,0,217,224,100.0,Marathi
+system-config-users,771,314,101,134,25,6,685,1186,65.00843170320405,Marathi
+system-switch-mail,134,0,0,20,0,0,142,134,100.0,Marathi <en@li.org>
+totem,530,0,1291,222,0,195,550,1821,29.104887424492038,Marathi
+usermode,570,0,0,96,0,0,550,570,100.0,marathi
+virt-manager,810,507,1462,206,149,227,747,2779,29.147175242893127,Marathi
+vte,82,5,9,15,1,2,89,96,85.41666666666666,Marathi
+xfce-mcs-manager,20,6,4,5,1,1,20,30,66.66666666666666,Marathi <LL@li.org>
+xfce-mcs-plugins,205,27,243,66,14,53,195,475,43.15789473684211,Marathi <LL@li.org>
+xfce-utils,20,9,90,11,3,20,23,119,16.80672268907563,Marathi <LL@li.org>
+xfce4-appfinder,14,4,30,14,3,11,16,48,29.166666666666668,Marathi <LL@li.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Marathi <LL@li.org>
+xfce4-mixer,149,2,75,68,2,24,164,226,65.929203539823,Marathi <LL@li.org>
+xfce4-panel,106,156,316,43,56,61,98,578,18.33910034602076,Marathi <en@li.org>
+xfce4-session,564,17,157,95,8,26,551,738,76.42276422764228,Marathi <LL@li.org>
+xfdesktop,286,275,517,101,87,100,284,1078,26.53061224489796,Marathi <LL@li.org>
+xfprint,175,47,102,79,16,19,191,324,54.01234567901234,Marathi <LL@li.org>
+xfwm4,405,110,131,133,30,27,403,646,62.693498452012385,Marathi <LL@li.org>
+yelp,794,141,22,161,68,10,732,957,82.96760710553815,

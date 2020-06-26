@@ -1,0 +1,1258 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,300,0,0,56,0,0,276,300,100.0,Slovak (http://www.transifex.com/wildfire-games/0ad/language/sk/)
+GConf2,3957,0,47,461,0,16,3742,4004,98.82617382617383,Slovak <sk-i18n@lists.linux.sk>
+LabPlot,813,3026,7158,526,1141,1341,815,10997,7.392925343275439,Slovak <kde-i18n-doc@kde.org>
+ModemManager,147,0,0,19,0,0,148,147,100.0,Slovak <gnome-sk-list@gnome.org>
+NetworkManager,1707,1480,23801,476,285,1439,1725,26988,6.325033348154735,Slovak <sk-i18n@lists.linux.sk>
+NetworkManager-l2tp,157,0,1078,48,0,138,175,1235,12.712550607287449,Slovak <sk-i18n@lists.linux.sk>
+NetworkManager-openvpn,180,14,1782,79,4,190,177,1976,9.109311740890687,Slovak <sk-i18n@lists.linux.sk>
+NetworkManager-ssh,2,21,263,1,11,57,2,286,0.6993006993006993,Slovak <sk-i18n@lists.linux.sk>
+NetworkManager-vpnc,143,4,9,37,1,3,154,156,91.66666666666666,Slovak <gnome-sk-list@gnome.org>
+PackageKit,1282,0,0,321,0,0,1283,1282,100.0,Slovak (http://www.transifex.com/freedesktop/packagekit/language/sk/)
+Thunar,4413,0,0,784,0,0,4134,4413,100.0,Slovak (https://www.transifex.com/xfce/teams/16840/sk/)
+WindowMaker,4991,0,25,958,0,21,4491,5016,99.50159489633174,Slovak <sk@li.org>
+Zim,989,183,2123,336,47,355,960,3295,30.01517450682853,Slovak <sk-i18n@lists.linux.sk>
+abattis-cantarell-fonts,27,0,0,3,0,0,26,27,100.0,Slovak <gnome-sk-list@gnome.org>
+abrt,2072,118,1486,259,17,141,1995,3676,56.36561479869423,Slovak <https://translate.fedoraproject.org/projects/abrt/abrt/sk/>
+accerciser,658,0,0,224,0,0,651,658,100.0,Slovak <gnome-sk-list@gnome.org>
+accountsservice,59,0,0,10,0,0,61,59,100.0,Slovak (http://www.transifex.com/freedesktop/accountsservice/language/sk/)
+aisleriot,3075,0,0,679,0,0,2444,3075,100.0,slovenčina <>
+akonadi-calendar-tools,785,0,0,172,0,0,765,785,100.0,Slovak <kde-sk@linux.sk>
+akonadi-import-wizard,394,0,0,84,0,0,358,394,100.0,Slovak <kde-sk@linux.sk>
+akregator,1807,0,0,439,0,0,1717,1807,100.0,Slovak <kde-i18n-doc@kde.org>
+alacarte,45,0,0,20,0,0,41,45,100.0,Slovak <sk-i18n@lists.linux.sk>
+alexandria,1023,65,124,278,15,31,955,1212,84.4059405940594,Slovak <sk@li.org>
+alleyoop,351,0,0,92,0,0,335,351,100.0,Slovak <gnome-sk-list@gnome.org>
+alligator,18,14,104,12,6,47,20,136,13.23529411764706,Slovak <kde-sk@linux.sk>
+alsa-utils,1812,48,17,323,5,3,1934,1877,96.53702717101758,Slovak
+amarok,15696,41,82,2777,1,2,15510,15819,99.22245401099943,Slovak <kde-sk@linux.sk>
+anaconda,8018,0,0,1358,0,0,7490,8018,100.0,Slovak <https://translate.fedoraproject.org/projects/anaconda/f34/sk/>
+analitza,992,0,0,222,0,0,867,992,100.0,Slovak <kde-sk@linux.sk>
+android-tools,1052,46,6580,171,12,895,945,7678,13.701484761656681,Slovak (http://www.transifex.com/projects/p/fedora/language/sk/)
+anjuta,8401,0,0,2061,0,0,8295,8401,100.0,slovenčina <>
+appstream,1366,361,2777,289,36,176,1307,4504,30.32859680284192,Slovak (http://www.transifex.com/freedesktop/appstream-glib/language/sk/)
+apt,3499,727,1187,521,82,107,3407,5413,64.64067984481802,Slovak <sk-i18n@lists.linux.sk>
+arandr,173,0,0,38,0,0,158,173,100.0,Slovak <https://hosted.weblate.org/projects/arandr/translations/sk/>
+arduino,3204,0,0,607,0,0,3101,3204,100.0,Slovak (http://www.transifex.com/mbanzi/arduino-ide-15/language/sk/)
+aria2,125,0,7361,18,0,381,117,7486,1.6697835960459526,Slovak <sk@li.org>
+ark,1923,0,0,343,0,0,1723,1923,100.0,Slovak <kde-i18n-doc@kde.org>
+arm-none-eabi-binutils-cs,7582,0,0,1106,0,0,7268,7582,100.0,Slovak <sk-i18n@lists.linux.sk>
+artikulate,338,0,0,149,0,0,324,338,100.0,Slovak <kde-sk@linux.sk>
+aspell,1706,33,58,290,7,6,1501,1797,94.93600445186422,Slovak <sk-i18n@lists.linux.sk>
+asunder,429,27,36,78,3,10,427,492,87.1951219512195,slovenčina <slovenska-lokalizacia-xfce@googlegroups.com>
+at-spi2-core,10,0,0,2,0,0,11,10,100.0,Slovak <gnome-sk-list@gnome.org>
+atk,440,0,0,169,0,0,415,440,100.0,Slovak <gnome-sk-list@gnome.org>
+atomix,156,0,0,50,0,0,157,156,100.0,Slovak <sk-i18n@lists.linux.sk>
+atril,2545,0,1844,523,0,213,2343,4389,57.985873775347464,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+audacious,747,0,112,323,0,36,778,859,86.9615832363213,Slovak (http://www.transifex.com/audacious/audacious/language/sk/)
+audacious-plugins,3721,0,533,875,0,110,3731,4254,87.47061589092618,Slovak (http://www.transifex.com/audacious/audacious/language/sk/)
+audacity,16376,767,883,3989,141,81,15702,18026,90.84655497614557,jozefM
+audex,342,577,2428,167,143,102,348,3347,10.218105766357933,Slovak <kde-sk@linux.sk>
+avahi,865,2,1,165,2,1,870,868,99.65437788018433,Slovak (http://www.transifex.com/lennart/avahi/language/sk/)
+avogadro,2047,0,4560,935,0,1437,2149,6607,30.9822915090056,Slovak <sk@li.org>
+avogadro2,141,57,266,81,25,46,206,464,30.387931034482758,Slovak <sk@li.org>
+avogadro2-libs,225,200,3551,197,82,915,308,3976,5.6589537223340045,Slovak <sk@li.org>
+avr-binutils,7582,0,0,1106,0,0,7268,7582,100.0,Slovak <sk-i18n@lists.linux.sk>
+backintime,418,0,1554,130,0,219,402,1972,21.196754563894523,Tomáš Vadina <kyberdev@gmail.com>
+baloo-widgets,52,0,0,31,0,0,54,52,100.0,Slovak <kde-i18n-doc@kde.org>
+balsa,6047,0,0,1472,0,0,6013,6047,100.0,Slovak <sk-i18n@lists.linux.sk>
+baobab,307,0,0,82,0,0,311,307,100.0,slovenčina <gnome-sk-list@gnome.org>
+bareftp,385,0,63,149,0,11,344,448,85.9375,Slovak <None>
+bash,5214,6316,169,480,86,28,4935,11699,44.56791178733225,Slovak <sk-i18n@lists.linux.sk>
+bijiben,390,0,0,125,0,0,396,390,100.0,slovenčina <>
+binutils,7582,0,0,1106,0,0,7268,7582,100.0,Slovak <sk-i18n@lists.linux.sk>
+bison,17,96,57,7,20,17,20,170,10.0,Slovak <sk-i18n@rak.isternet.sk>
+bleachbit,1231,0,580,278,0,72,1153,1811,67.97349530646052,Slovak <sk@li.org>
+blender,130690,0,0,26984,0,0,121737,130690,100.0,Jozef Matta
+blinken,133,0,0,47,0,0,134,133,100.0,Slovak <kde-sk@linux.sk>
+blivet-gui,1031,0,0,258,0,0,1018,1031,100.0,Slovak <https://translate.fedoraproject.org/projects/blivet/blivet-gui/sk/>
+blogilo,1392,0,0,337,0,0,1281,1392,100.0,Slovak <kde-sk@linux.sk>
+blueberry,166,0,0,37,0,0,170,166,100.0,Slovak <sk@li.org>
+bluedevil,517,0,0,187,0,0,494,517,100.0,Slovak <kde-i18n-doc@kde.org>
+bluefish,976,1601,2368,439,661,448,962,4945,19.737108190091,Slovak <sk-i18n@lists.linux.sk>
+blueman,1252,128,477,360,52,167,1266,1857,67.42057081313946,Slovak <https://hosted.weblate.org/projects/blueman/blueman/sk/>
+boinc-client,17816,0,2466,3171,0,227,15932,20282,87.84143575584262,Slovak (http://www.transifex.com/boinc/boinc/language/sk/)
+bomber,110,0,0,27,0,0,100,110,100.0,Slovak <kde-i18n-doc@kde.org>
+bookworm,87,0,708,19,0,130,90,795,10.943396226415095,Slovak <https://hosted.weblate.org/projects/bookworm/bookworm/sk/>
+bottles,0,0,2086,0,0,486,0,2086,0.0,none
+bovo,81,0,0,25,0,0,72,81,100.0,Slovak <kde-sk@linux.sk>
+brasero,5549,0,0,969,0,0,5121,5549,100.0,Slovak <gnome-sk-list@gnome.org>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+bubblemail,0,0,466,0,0,135,0,466,0.0,none
+bzflag,3663,0,0,1013,0,0,3599,3663,100.0,
+cairo-dock,5177,0,2287,719,0,108,4279,7464,69.35959271168275,Slovak <sk@li.org>
+cairo-dock-plug-ins,8265,0,1938,1596,0,126,7212,10203,81.00558659217877,Slovak <sk@li.org>
+caja,8674,0,1001,1503,0,101,8003,9675,89.65374677002585,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+caja-actions,507,0,18308,97,0,1419,431,18815,2.6946585171405792,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+caja-extensions,559,0,201,122,0,23,517,760,73.55263157894737,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+calamares,306,0,184,64,0,21,340,490,62.44897959183674,Slovak (https://www.transifex.com/calamares/teams/20061/sk/)
+calibre,30966,0,130096,4777,0,13707,27152,161062,19.226136518856094,Slovak (http://www.transifex.com/calibre/calibre/language/sk/)
+calligra,35819,77,56,7766,25,18,31554,35952,99.63006230529595,Slovak <kde-i18n-doc@kde.org>
+calligraplan,9163,123,657,2107,27,31,8308,9943,92.15528512521371,Slovak <kde-i18n-doc@kde.org>
+cantor,2535,150,955,553,43,113,2415,3640,69.64285714285714,Slovak <kde-i18n-doc@kde.org>
+caribou,169,0,0,57,0,0,170,169,100.0,Slovak <gnome-sk-list@gnome.org>
+catfish,607,0,440,130,0,24,590,1047,57.97516714422159,Slovak (https://www.transifex.com/xfce/teams/16840/sk/)
+ccsm,560,5,26,146,3,14,539,591,94.75465313028765,Slovak <sk.cfteam@gmail.com>
+celestia,2207,242,191,1062,121,62,2327,2640,83.59848484848484,Slovak <acelists@atlas.sk>
+cervisia,1619,0,0,421,0,0,1463,1619,100.0,Slovak <kde-sk@linux.sk>
+cheese,628,0,0,130,0,0,583,628,100.0,slovenčina <>
+chkconfig,554,19,0,102,5,0,546,573,96.68411867364746,Slovak <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/sk/>
+choqok,336,890,1124,211,244,132,347,2350,14.297872340425533,Slovak <kde-sk@linux.sk>
+chrome-gnome-shell,329,0,0,47,0,0,354,329,100.0,Slovak <gnome-sk-list@gnome.org>
+chromium,12201,64,496,2978,28,134,11460,12761,95.61162918266594,Slovak <gnome-sk-list@gnome.org>
+cinnamon-control-center,1313,0,0,756,0,0,1307,1313,100.0,Slovak <fedora-trans-sk@redhat.com>
+cinnamon-desktop,234,0,0,32,0,0,211,234,100.0,Slovak <gnome-sk-list@gnome.org>
+cinnamon-translations,22785,0,489,5099,0,122,21999,23274,97.89894302655323,slovenčina <gnome-sk-list@gnome.org>
+clamtk,470,0,0,146,0,0,419,470,100.0,Tomáš Vadina <kyberdev@gmail.com>
+claws-mail,21143,0,0,4125,0,0,19728,21143,100.0,slovenčina <linux@slavino.sk>
+clementine,5247,0,4,1389,0,2,4985,5251,99.92382403351743,Slovak (http://www.transifex.com/davidsansome/clementine/language/sk/)
+clutter,3057,0,0,675,0,0,2724,3057,100.0,slovenčina <>
+cockpit,3614,721,2716,1270,187,429,3751,7051,51.2551411147355,Slovak <https://translate.fedoraproject.org/projects/cockpit/main/sk/>
+cockpit-composer,443,47,1562,172,18,138,435,2052,21.58869395711501,Slovak <https://translate.fedoraproject.org/projects/cockpit-composer/master/sk/>
+cockpit-machines,888,136,1291,311,37,185,883,2315,38.358531317494595,Slovak <https://translate.fedoraproject.org/projects/cockpit-machines/main/sk/>
+cockpit-podman,315,145,292,118,47,65,308,752,41.888297872340424,Slovak <https://translate.fedoraproject.org/projects/cockpit-podman/main/sk/>
+cogl,393,0,0,80,0,0,436,393,100.0,Slovak <gnome-sk-list@gnome.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,334,0,1656,89,0,164,319,1990,16.78391959798995,Slovak (http://www.transifex.com/freedesktop/colord/language/sk/)
+colord-kde,369,0,0,120,0,0,330,369,100.0,Slovak <kde-sk@linux.sk>
+compiz,2544,1413,428,609,197,73,2542,4385,58.015963511972636,Slovak <sk-i18n@lists.linux.sk>
+console-setup,967,15,2,177,1,1,819,984,98.27235772357723,x
+coreutils,3774,5370,12050,678,490,630,3889,21194,17.806926488628857,Slovak <sk-i18n@lists.linux.sk>
+cracklib,93,0,3,15,0,1,80,96,96.875,Slovak <sk-i18n@linux.sk>
+cross-binutils,0,0,0,0,0,0,0,0,0.0,
+cups-pk-helper,149,0,0,22,0,0,127,149,100.0,Slovak (http://www.transifex.com/freedesktop/cups-pk-helper/language/sk/)
+dasher,311,0,0,113,0,0,309,311,100.0,Slovak <sk-i18n@lists.linux.sk>
+dayplanner,224,434,438,80,57,49,216,1096,20.437956204379564,Slovak <sk-i18n@linux.sk>
+dconf-editor,2955,0,0,394,0,0,2878,2955,100.0,Slovak <gnome-sk-list@gnome.org>
+debconf,752,50,60,85,5,4,703,862,87.23897911832947,Slovak <sk-i18n@lists.linux.sk>
+deepin-daemon,1072,0,80,234,0,20,1033,1152,93.05555555555556,Slovak (https://www.transifex.com/linuxdeepin/teams/3617/sk/)
+deepin-editor,303,33,0,45,1,0,326,336,90.17857142857143,Slovak <sk-i18n@lists.linux.sk>
+deja-dup,3052,0,418,395,0,35,2905,3470,87.95389048991355,Slovak <sk@li.org>
+deluge,0,0,4331,0,0,1330,0,4331,0.0,Slovak <sk@li.org>
+devhelp,393,0,0,117,0,0,379,393,100.0,slovenčina <>
+dia,6412,0,194,2300,0,62,6405,6606,97.06327580986982,Slovenský <sk@li.org>
+dialect,232,0,134,155,0,32,241,366,63.387978142076506,Slovak <https://hosted.weblate.org/projects/dialect/dialect/sk/>
+dialog,25,0,0,23,0,0,25,25,100.0,Slovak <sk-i18n@lists.linux.sk>
+digikam,32940,13303,8677,6403,1883,480,30010,54920,59.97815003641661,Slovak <kde-i18n-doc@kde.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,998,111,3512,230,17,629,985,4621,21.597056914087858,Slovak <https://translate.fedoraproject.org/projects/dnf/dnf-master/sk/>
+dnf-plugins-core,0,0,1655,0,0,254,0,1655,0.0,none
+dnfdragora,862,0,909,372,0,102,883,1771,48.67306606437041,Slovak (https://www.transifex.com/MageiaLinux/teams/9361/sk/)
+dolphin,4746,0,0,712,0,0,4231,4746,100.0,Slovak <kde-i18n-doc@kde.org>
+dolphin-plugins,1407,0,0,401,0,0,1370,1407,100.0,Slovak <kde-sk@linux.sk>
+doublecmd,10855,22,1358,3249,2,210,10447,12235,88.72088271352678,Jozef Gaál <preklady@mayday.sk>
+dpkg,7874,3484,461,1087,295,62,7966,11819,66.62154158558253,Slovak <debian-l10n-slovak@lists.debian.org>
+dragon,191,90,0,41,48,0,174,281,67.97153024911033,Slovak <kde-i18n-doc@kde.org>
+dvdbackup,1024,0,0,112,0,0,1031,1024,100.0,Slovak <sk@li.org>
+e16,522,0,2283,101,0,414,473,2805,18.609625668449198,Slovak <sk@li.org>
+edgar,2245,0,9229,267,0,1268,1894,11474,19.56597524838766,Slovak <sk@li.org>
+eiskaltdcpp,1674,5,1947,588,2,563,1680,3626,46.166574738003305,Slovak (https://www.transifex.com/tehnick/teams/11818/sk/)
+ejabberd,1332,229,624,319,57,121,1176,2185,60.961098398169334,
+electrum,7494,0,1506,1410,0,233,7034,9000,83.26666666666667,Slovak
+elementary-calculator,227,0,8,73,0,2,222,235,96.59574468085106,Slovak <https://l10n.elementary.io/projects/calculator/calculator/sk/>
+elementary-calendar,838,7,16,251,2,2,856,861,97.32868757259001,Slovak <https://l10n.elementary.io/projects/calendar/calendar/sk/>
+elementary-camera,151,0,8,37,0,2,146,159,94.9685534591195,Slovak <https://l10n.elementary.io/projects/camera/camera/sk/>
+elementary-capnet-assist,27,0,54,3,0,11,21,81,33.33333333333333,Slovak <sk@li.org>
+elementary-code,1497,0,111,296,0,11,1540,1608,93.09701492537313,Slovak <https://l10n.elementary.io/projects/code/code/sk/>
+elementary-files,2067,114,1332,432,30,187,2129,3513,58.838599487617415,Slovak <https://l10n.elementary.io/projects/files/files/sk/>
+elementary-greeter,15,2,183,5,1,39,16,200,7.5,Slovak <https://l10n.elementary.io/projects/desktop/greeter/sk/>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,608,18,32,147,2,4,598,658,92.40121580547113,Slovak <https://l10n.elementary.io/projects/mail/mail/sk/>
+elementary-music,858,139,208,285,21,48,814,1205,71.20331950207469,Slovak <https://weblate.elementary.io/projects/music/music/sk/>
+elementary-notifications,0,0,36,0,0,10,0,36,0.0,none
+elementary-photos,3018,736,257,681,91,46,3312,4011,75.24308152580403,Slovak (http://www.transifex.com/projects/p/shotwell/language/sk/)
+elementary-screenshot-tool,238,0,10,57,0,3,232,248,95.96774193548387,Slovak <https://l10n.elementary.io/projects/screenshot/screenshot/sk/>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,1,0,318,1,0,60,1,319,0.3134796238244514,Slovak <https://l10n.elementary.io/projects/desktop/sideload/sk/>
+elementary-tasks,312,11,41,68,2,7,303,364,85.71428571428571,Slovak <https://l10n.elementary.io/projects/tasks/tasks/sk/>
+elementary-terminal,358,0,285,69,0,48,335,643,55.676516329704505,Slovak <https://l10n.elementary.io/projects/terminal/terminal/sk/>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,380,8,3,94,1,1,387,391,97.18670076726342,Slovak <https://l10n.elementary.io/projects/videos/videos/sk/>
+elinks,2832,3871,5542,795,433,397,2802,12245,23.127807268272765,Slovak <sk-i18n@lists.linux.sk>
+elisa-player,572,0,0,221,0,0,578,572,100.0,Slovak <kde-i18n-doc@kde.org>
+emerald,652,39,5,215,4,1,635,696,93.67816091954023,Slovak <sk-i18n@lists.linux.sk>
+engrampa,2270,0,5568,445,0,448,2064,7838,28.961469762694563,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+enigma,8927,90,14,960,5,4,7389,9031,98.848411028679,Slovak (http://www.transifex.com/projects/p/enigma/language/sk/)
+enlightenment,1958,4444,2651,768,1159,457,1896,9053,21.628189550425272,Slovakian
+entangle,0,0,953,0,0,229,0,953,0.0,Slovak
+eog,1730,0,0,338,0,0,1617,1730,100.0,slovenčina <gnome-sk-list@gnome.org>
+eog-plugins,428,0,0,111,0,0,418,428,100.0,Slovak <gnome-sk-list@gnome.org>
+eom,2068,0,2893,353,0,189,1831,4961,41.68514412416852,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+epiphany,2656,294,1465,658,35,111,2635,4415,60.158550396375986,slovenčina <>
+evince,1738,0,0,438,0,0,1679,1738,100.0,slovenčina <gnome-sk-list@gnome.org>
+evolution,26536,619,978,5497,76,75,25243,28133,94.3233924572566,slovenčina <>
+evolution-data-server,6712,254,766,1367,30,51,6849,7732,86.8080703569581,Slovak <gnome-sk-list@gnome.org>
+evolution-ews,129,89,950,30,26,184,109,1168,11.044520547945206,Slovak <gnome-sk-list@gnome.org>
+evolution-mapi,974,0,0,217,0,0,1026,974,100.0,Slovak <gnome-sk-list@gnome.org>
+evolution-rss,686,110,85,186,7,31,772,881,77.86606129398412,Slovak <gnome-sk-list@gnome.org>
+exaile,1891,516,1660,580,157,328,1835,4067,46.49618883698057,Slovak <https://hosted.weblate.org/projects/exaile/master/sk/>
+exif,296,0,0,68,0,0,283,296,100.0,Slovak <sk-i18n@lists.linux.sk>
+exiv2,9069,7381,21562,2003,2335,1748,8406,38012,23.85825528780385,Slovak <sk-i18n@lists.linux.sk>
+exo,739,0,0,145,0,0,677,739,100.0,Slovak (http://www.transifex.com/xfce/exo/language/sk/)
+falkon,4388,0,0,1393,0,0,4272,4388,100.0,Slovak <kde-sk@linux.sk>
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+file-roller,1292,0,0,302,0,0,1199,1292,100.0,slovenčina <gnome-sk-list@gnome.org>
+filelight,434,0,0,97,0,0,426,434,100.0,Slovak <kde-i18n-doc@kde.org>
+filezilla,7846,0,0,1387,0,0,7645,7846,100.0,Slovak <sk-i18n@lists.linux.sk>
+findutils,1460,257,932,154,20,74,1401,2649,55.11513778784447,Slovak <sk-i18n@lists.linux.sk>
+firewalld,2217,0,0,415,0,0,2029,2217,100.0,Slovak <https://translate.fedoraproject.org/projects/firewalld/master/sk/>
+five-or-more,286,0,0,69,0,0,274,286,100.0,Slovak <gnome-sk-list@gnome.org>
+flare,0,0,5271,0,0,1216,0,5271,0.0,Slovak (https://www.transifex.com/flareorg/teams/84925/sk/)
+flare-engine,108,0,1247,42,0,415,105,1355,7.970479704797048,Slovak (https://www.transifex.com/flareorg/teams/84925/sk/)
+flatpak,509,1623,3607,140,367,651,535,5739,8.869140965324968,Slovak <gnome-sk-list@gnome.org>
+focuswriter,129,0,0,7,0,0,108,129,100.0,Slovak (http://www.transifex.com/gottcode/focuswriter/language/sk/)
+folks,1056,0,0,130,0,0,1093,1056,100.0,Slovak <gnome-sk-list@gnome.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Slovak
+four-in-a-row,480,0,0,136,0,0,472,480,100.0,slovenčina <>
+foxtrotgps,259,144,592,119,59,122,248,995,26.030150753768844,Slovenský <>
+fpc,275,0,0,53,0,0,244,275,100.0,<dusan.halicky@gmail.com>
+fprintd,419,0,0,57,0,0,337,419,100.0,Slovak (http://www.transifex.com/freedesktop/fprintd/language/sk/)
+fragments,1622,0,384,464,0,62,1827,2006,80.85742771684946,Slovak (https://www.transifex.com/transmissionbt/teams/33778/sk/)
+freedink,5,65,0,2,11,0,5,70,7.142857142857142,Slovak <sk-i18n@rak.isternet.sk>
+freeipa,2769,0,55255,781,0,3896,2608,58024,4.7721632427960845,Slovak
+frozen-bubble,698,0,0,148,0,0,698,698,100.0,Slovak <sk-i18n@lists.linux.sk>
+fuse-encfs,390,16,883,68,2,67,373,1289,30.256012412723045,Slovak <sk@li.org>
+fwupd,237,0,0,52,0,0,235,237,100.0,Slovak (http://www.transifex.com/freedesktop/fwupd/language/sk/)
+gajim,1871,4686,3070,630,1093,496,1799,9627,19.434922613482914,Slovak <sk-i18n@lists.linux.sk>
+gala,29,21,308,12,3,58,35,358,8.100558659217876,Slovak <https://l10n.elementary.io/projects/desktop/gala/sk/>
+galculator,935,0,0,275,0,0,933,935,100.0,Slovak (http://www.transifex.com/mate/MATE/language/sk/)
+gammu,3207,494,316,980,85,48,3147,4017,79.83569828230023,none
+ganyremote,484,0,23,145,0,3,466,507,95.46351084812623,Slovak
+garcon,122,0,0,36,0,0,121,122,100.0,Slovak (http://www.transifex.com/xfce/garcon/language/sk/)
+gbrainy,8151,276,142,1082,30,25,7869,8569,95.1219512195122,Slovak <gnome-sk-list@gnome.org>
+gconf-editor,336,0,0,98,0,0,328,336,100.0,Slovak <gnome-sk-list@gnome.org>
+gcr,754,0,0,269,0,0,728,754,100.0,Slovak <gnome-sk-list@gnome.org>
+gdk-pixbuf2,1385,0,0,207,0,0,1390,1385,100.0,Slovak <gnome-sk-list@gnome.org>
+gdm,705,0,0,97,0,0,719,705,100.0,Slovak <sk-i18n@lists.linux.sk>
+geany,6142,0,14,1328,0,1,5765,6156,99.772579597141,Slovak
+geary,2501,0,176,644,0,17,2637,2677,93.42547627941727,Slovak <gnome-sk-list@gnome.org>
+gedit,4010,0,0,700,0,0,3816,4010,100.0,slovenčina <gnome-sk-list@gnome.org>
+gedit-plugins,1089,0,0,187,0,0,1027,1089,100.0,Slovak <gnome-sk-list@gnome.org>
+geeqie,5132,0,0,1661,0,0,5158,5132,100.0,Peter Tuhársky <tuharsky@misbb.sk>
+gegl04,151,0,7018,68,0,1416,159,7169,2.106290975031385,Slovak <gnome-sk-list@gnome.org>
+gettext,7717,306,98,833,23,8,7321,8121,95.02524319665065,Slovak <sk-i18n@lists.linux.sk>
+gftp,898,338,2139,225,95,314,855,3375,26.607407407407408,Slovak <sk-i18n@lists.linux.sk>
+ghex,647,89,243,176,27,32,582,979,66.08784473953013,Slovak <sk-i18n@linux.sk>
+gigolo,455,0,12,119,0,8,436,467,97.4304068522484,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+gimp,25960,4899,8170,6960,1217,1281,24946,39029,66.5146429578006,Slovak <gnome-sk-list@gnome.org>
+gimp-save-for-web,2,3,77,2,2,36,2,82,2.4390243902439024,Slovak <sk-i18n@lists.linux.sk>
+gip,108,0,0,32,0,0,103,108,100.0,Slovak <sk-i18n@lists.linux.sk>
+gitg,2056,0,0,368,0,0,1868,2056,100.0,slovenčina <>
+glabels,2124,2,389,693,1,106,2158,2515,84.45328031809144,Slovak <gnome-sk-list@gnome.org>
+glade,6838,4,23,1766,2,6,6544,6865,99.6067006554989,slovenčina <>
+glade2,5050,461,329,1150,93,57,4200,5840,86.47260273972603,Slovak <sk-i18n@linux.sk>
+glib-networking,283,0,0,43,0,0,350,283,100.0,Slovak <gnome-sk-list@gnome.org>
+glib2,6975,350,140,1132,26,21,6983,7465,93.43603482920295,Slovak <gnome-sk-list@gnome.org>
+glibc,4777,0,0,981,0,0,4971,4777,100.0,Slovak <sk-i18n@lists.linux.sk>
+gliv,671,163,200,175,47,38,652,1034,64.8936170212766,Slovak <sk-i18n@lists.linux.sk>
+gnome-2048,382,0,0,69,0,0,353,382,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-abrt,221,0,0,55,0,0,220,221,100.0,Slovak <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/sk/>
+gnome-applets,2602,112,1156,636,9,94,2468,3870,67.23514211886304,Slovak
+gnome-bluetooth,373,0,0,110,0,0,389,373,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-books,421,0,0,143,0,0,433,421,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-boxes,1496,0,0,314,0,0,1521,1496,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-builder,2702,300,680,743,89,145,2612,3682,73.38403041825094,slovenčina <>
+gnome-calculator,1724,0,0,627,0,0,1704,1724,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-calendar,796,0,0,223,0,0,865,796,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-characters,186,0,0,58,0,0,191,186,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-chess,1505,0,0,256,0,0,1386,1505,100.0,slovenčina <>
+gnome-clocks,339,2,0,137,2,0,342,341,99.41348973607037,Slovak <gnome-sk-list@gnome.org>
+gnome-color-manager,1796,0,0,345,0,0,1599,1796,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-commander,8501,0,71,1655,0,2,7760,8572,99.17172188520766,Slovak <sk-i18n@lists.linux.sk>
+gnome-connections,180,0,0,55,0,0,190,180,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-contacts,581,0,0,170,0,0,550,581,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-control-center,7494,0,0,2429,0,0,7369,7494,100.0,Slovak <fedora-trans-sk@redhat.com>
+gnome-desktop,438,0,0,61,0,0,414,438,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-desktop3,160,0,0,35,0,0,137,160,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-dictionary,664,0,0,138,0,0,640,664,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-directory-thumbnailer,85,0,0,12,0,0,84,85,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-disk-utility,3980,0,0,748,0,0,3907,3980,100.0,slovenčina <>
+gnome-do,612,0,0,144,0,0,613,612,100.0,Slovak <sk-i18n@lists.linux.sk>
+gnome-doc-utils,46,0,155,30,0,45,48,201,22.885572139303484,Slovak <sk-i18n@lists.linux.sk>
+gnome-extensions-app,2671,6,90,589,1,6,2666,2767,96.53053848933864,Slovak <gnome-sk-list@gnome.org>
+gnome-flashback,1196,47,59,237,4,5,1197,1302,91.85867895545314,Slovak <gnome-sk-list@gnome.org>
+gnome-font-viewer,325,0,211,117,0,86,327,536,60.634328358208954,Slovak <gnome-sk-list@gnome.org>
+gnome-games,854,0,0,246,0,0,880,854,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-icon-theme,43,0,0,38,0,0,45,43,100.0,Slovak <sk-i18n@lists.linux.sk>
+gnome-initial-setup,842,0,0,125,0,0,773,842,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-keyring,469,0,0,98,0,0,443,469,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-klotski,275,0,0,85,0,0,273,275,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-logs,380,0,0,123,0,0,370,380,100.0,slovenčina <>
+gnome-mahjongg,329,0,0,74,0,0,311,329,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-maps,1494,0,0,365,0,0,1512,1494,100.0,Slovak <kde-i18n-doc@kde.org>
+gnome-menus,70,0,0,27,0,0,70,70,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,901,887,100.0,Slovak <sk-i18n@linux.sk>
+gnome-mines,362,0,0,80,0,0,359,362,100.0,slovenčina <>
+gnome-multi-writer,390,0,0,61,0,0,364,390,100.0,Slovak (http://www.transifex.com/projects/p/gnome-multi-writer/language/sk/)
+gnome-music,675,0,0,130,0,0,712,675,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-nettool,644,0,0,219,0,0,668,644,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-nibbles,588,0,0,145,0,0,551,588,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-online-accounts,669,0,0,148,0,0,689,669,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-packagekit,3500,0,0,553,0,0,3294,3500,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-panel,2900,203,218,462,10,17,2496,3321,87.32309545317676,Slovak <gnome-sk-list@gnome.org>
+gnome-phone-manager,508,0,0,89,0,0,458,508,100.0,Slovak <sk-i18n@lists.linux.sk>
+gnome-photos,572,0,0,220,0,0,611,572,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-power-manager,450,0,36,148,0,2,472,486,92.5925925925926,Slovak <gnome-sk-list@gnome.org>
+gnome-radio,1236,0,0,315,0,0,1249,1236,100.0,Slovak <kde-i18n-doc@kde.org>
+gnome-robots,596,0,0,96,0,0,588,596,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-screenshot,417,0,0,64,0,0,411,417,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-search-tool,1359,0,0,200,0,0,1156,1359,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-session,414,0,0,66,0,0,401,414,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-settings-daemon,3417,0,0,489,0,0,3309,3417,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-shell,2767,0,0,596,0,0,2756,2767,100.0,Slovak <kde-i18n-doc@kde.org>
+gnome-shell-extension-appindicator,95,0,0,28,0,0,96,95,100.0,
+gnome-shell-extension-bubblemail,0,0,98,0,0,27,0,98,0.0,none
+gnome-shell-extension-caffeine,17,50,115,3,10,23,24,182,9.340659340659341,Slovak
+gnome-shell-extension-dash-to-dock,297,53,73,71,12,13,269,423,70.2127659574468,
+gnome-shell-extension-gsconnect,526,1,3,217,1,1,579,530,99.24528301886792,
+gnome-shell-extension-openweather,585,3,13,204,1,4,578,601,97.33777038269551,
+gnome-shell-extension-sound-output-device-chooser,52,4,69,21,1,13,49,125,41.6,
+gnome-shell-extension-system-monitor-applet,131,48,12,93,6,7,143,191,68.58638743455498,
+gnome-shell-extensions,262,0,0,51,0,0,261,262,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-shell-frippery,22,0,0,8,0,0,27,22,100.0,Slovak <sk-i18n@lists.linux.sk>
+gnome-software,3666,16,245,756,3,20,3818,3927,93.353705118411,slovenčina <>
+gnome-sound-recorder,271,0,0,78,0,0,277,271,100.0,Slovak <kde-i18n-doc@kde.org>
+gnome-subtitles,1089,0,0,324,0,0,1060,1089,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-sudoku,399,0,0,71,0,0,388,399,100.0,slovenčina <gnome-sk-list@gnome.org>
+gnome-system-log,436,0,0,70,0,0,399,436,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-system-monitor,1472,35,42,325,3,8,1381,1549,95.02905100064558,slovenčina <gnome-sk-list@gnome.org>
+gnome-taquin,431,0,0,111,0,0,431,431,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-terminal,2627,0,0,513,0,0,2481,2627,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-tetravex,274,110,595,87,9,68,257,979,27.987742594484168,Slovak <gnome-sk-list@gnome.org>
+gnome-themes-extra,15,0,0,6,0,0,15,15,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-todo,684,0,0,149,0,0,710,684,100.0,slovenčina <>
+gnome-tour,142,0,0,26,0,0,141,142,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-tweaks,597,0,63,181,0,3,666,660,90.45454545454545,Slovak <gnome-sk-list@gnome.org>
+gnome-usage,165,0,0,37,0,0,154,165,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-user-share,52,0,0,10,0,0,51,52,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-vfs2,1519,0,0,305,0,0,1415,1519,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-video-effects,256,0,0,68,0,0,221,256,100.0,Slovak <gnome-sk-list@gnome.org>
+gnome-weather,247,0,0,52,0,0,255,247,100.0,Slovak <gnome-sk-list@gnome.org>
+gnote,1429,649,1159,269,90,167,1371,3237,44.1458140253321,Slovak <gnome-sk-list@gnome.org>
+gnucash,8610,8636,19870,2547,1704,1319,7857,37116,23.19754283866796,Slovak <sk-i18n@lists.linux.sk>
+gnumeric,6391,5295,23360,1715,1286,2641,5886,35046,18.2360326428123,Slovak <sk-i18n@linux.sk>
+gnupg1,4435,2925,1280,635,475,187,4213,8640,51.331018518518526,Slovak <sk-i18n@lists.linux.sk>
+gnupg2,2519,6403,4497,423,1121,640,2463,13419,18.771890602876518,Slovak <sk-i18n@lists.linux.sk>
+godot,5416,803,6997,1358,266,1286,5234,13216,40.98062953995157,Slovak <https://hosted.weblate.org/projects/godot-engine/godot/sk/>
+goffice,1588,1659,2954,660,633,708,1576,6201,25.6087727785841,Slovak <sk-i18n@linux.sk>
+goodvibes,47,0,291,10,0,109,47,338,13.905325443786982,Slovak <https://hosted.weblate.org/projects/goodvibes/translations/sk/>
+gparted,3026,0,0,507,0,0,2886,3026,100.0,Slovak <gnome-sk-list@gnome.org>
+gphoto2,800,442,519,179,66,95,735,1761,45.428733674048836,Slovak <sk-i18n@lists.linux.sk>
+gpicview,234,0,2,51,0,1,221,236,99.15254237288136,Slovak <sk-i18n@lists.linux.sk>
+gpodder,2150,19,52,551,6,20,2218,2221,96.80324178298065,Slovak (http://www.transifex.com/projects/p/gpodder/language/sk/)
+gradio,309,0,0,101,0,0,317,309,100.0,Slovak <https://hosted.weblate.org/projects/gradio/translations/sk/>
+gramps,34733,3386,1798,5984,573,291,30125,39917,87.01305208307237,<sk-i18n@linux.sk>
+granatier,247,0,0,68,0,0,206,247,100.0,Slovak <kde-sk@linux.sk>
+granite,43,17,438,26,6,86,42,498,8.634538152610443,Slovak <>
+grantlee-editor,530,0,0,158,0,0,478,530,100.0,Slovak <kde-i18n-doc@kde.org>
+grep,314,511,37,64,32,7,322,862,36.42691415313225,Slovak <sk-i18n@lists.linux.sk>
+grilo,191,0,0,36,0,0,209,191,100.0,Slovak <gnome-sk-list@gnome.org>
+grilo-plugins,540,0,0,132,0,0,499,540,100.0,Slovak <gnome-sk-list@gnome.org>
+grub-customizer,1180,0,115,192,0,1,1073,1295,91.11969111969111,Slovak <sk@li.org>
+gscan2pdf,1837,0,793,494,0,125,1876,2630,69.84790874524714,slovenčina <>
+gsettings-desktop-schemas,6311,0,0,566,0,0,6038,6311,100.0,Slovak <gnome-sk-list@gnome.org>
+gspell,76,0,0,31,0,0,78,76,100.0,slovenčina <gnome-sk-list@gnome.org>
+gstreamer1,2008,37,65,364,5,9,1987,2110,95.16587677725119,Slovak <sk-i18n@lists.linux.sk>
+gstreamer1-plugins-bad-free,152,42,3,21,7,1,140,197,77.15736040609137,Slovak <sk-i18n@lists.linux.sk>
+gstreamer1-plugins-base,887,28,61,186,4,14,804,976,90.8811475409836,Slovak <sk-i18n@lists.linux.sk>
+gstreamer1-plugins-good,686,57,59,83,8,7,644,802,85.53615960099751,Slovak <sk-i18n@lists.linux.sk>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,73,80,100.0,Slovak <sk-i18n@lists.linux.sk>
+gthumb,3477,0,2,964,0,1,3311,3479,99.94251221615407,Slovak <sk-i18n@lists.linux.sk>
+gtk+,202,0,0,105,0,0,197,202,100.0,Slovak <sk@li.org>
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Slovak <gnome-sk-list@gnome.org>
+gtk2,12587,803,314,2602,136,46,11078,13704,91.84909515469936,Slovak <gnome-sk-list@gnome.org>
+gtk3,16535,17,140,3859,8,57,15417,16692,99.05942966690631,slovenčina <>
+gtk4,12323,177,619,3020,86,196,11566,13119,93.93246436466194,Slovak <gnome-sk-list@gnome.org>
+gtkhtml3,522,0,0,317,0,0,525,522,100.0,Slovak <sk-i18n@lists.linux.sk>
+gtksourceview2,765,0,0,312,0,0,786,765,100.0,Slovak <sk-i18n@lists.linux.sk>
+gtksourceview3,320,2,0,105,1,0,327,322,99.37888198757764,slovenčina <>
+gtksourceview4,308,0,0,94,0,0,315,308,100.0,slovenčina <>
+gtkspell,11,0,0,5,0,0,11,11,100.0,Slovak <sk-i18n@lists.linux.sk>
+gtkspell3,11,0,0,5,0,0,11,11,100.0,Slovak <sk-i18n@lists.linux.sk>
+gtranslator,1201,0,0,273,0,0,1211,1201,100.0,slovenčina <gnome-sk-list@gnome.org>
+guayadeque,3326,0,0,1019,0,0,2866,3326,100.0,Slovak (Slovakia) (http://www.transifex.com/projects/p/guayadeque/language/sk_SK/)
+gucharmap,1430,9,13,495,4,2,1385,1452,98.48484848484848,Slovak <gnome-sk-list@gnome.org>
+guitarix,905,0,1966,445,0,480,918,2871,31.522117729014283,
+gupnp-tools,395,0,0,128,0,0,404,395,100.0,Slovak <gnome-sk-list@gnome.org>
+gutenprint,10085,4851,1390,3100,1348,376,9866,16326,61.77263261055984,Slovak <sk-i18n@lists.linux.sk>
+gvfs,2078,0,0,403,0,0,2092,2078,100.0,Slovak <gnome-sk-list@gnome.org>
+gwenview,1620,0,0,418,0,0,1638,1620,100.0,Slovak <kde-i18n-doc@kde.org>
+gxmessage,177,66,0,11,1,0,168,243,72.8395061728395,slovak <matis@hq.sk>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+heaptrack,974,111,85,150,13,22,829,1170,83.24786324786325,Slovak <kde-i18n-doc@kde.org>
+hello,165,21,0,27,3,0,168,186,88.70967741935483,Slovak <sk-i18n@lists.linux.sk>
+hexchat,2332,0,3639,728,0,718,2140,5971,39.05543460056941,Slovak (http://www.transifex.com/hexchat/hexchat/language/sk/)
+hitori,239,0,0,63,0,0,213,239,100.0,Slovak <gnome-sk-list@gnome.org>
+homebank,697,0,2118,316,0,556,634,2815,24.760213143872114,Slovak <sk@li.org>
+hugin,9467,36,0,1696,1,0,8797,9503,99.62117226139114,Slovak <kornel@lyx.org>
+iagno,498,27,276,127,1,21,511,801,62.172284644194754,Slovak <gnome-sk-list@gnome.org>
+icewm,2243,0,0,517,0,0,2227,2243,100.0,Slovak <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/sk/>
+ikona,14,16,126,14,7,29,14,156,8.974358974358974,Slovak <kde-i18n-doc@kde.org>
+im-chooser,52,0,202,13,0,45,44,254,20.47244094488189,LANGUAGE <LL@li.org>
+imsettings,0,0,485,0,0,88,0,485,0.0,LANGUAGE <LL@li.org>
+indent,261,0,0,52,0,0,267,261,100.0,Slovak <sk-i18n@lists.linux.sk>
+initial-setup,106,0,0,20,0,0,79,106,100.0,Slovak
+initscripts,927,25,166,138,4,16,915,1118,82.91592128801432,Slovak (http://www.transifex.com/projects/p/fedora/language/sk/)
+inkscape,29922,7632,6051,6998,1347,812,28570,43605,68.62057103543172,x
+iso-codes,2933,3823,16478,1653,3006,10611,2699,23234,12.623741069122838,Slovak
+isoimagewriter,254,50,86,46,7,18,233,390,65.12820512820512,Slovak <kde-i18n-doc@kde.org>
+isomaster,674,0,0,107,0,0,610,674,100.0,Slovak <sk@li.org>
+json-glib,307,0,0,47,0,0,301,307,100.0,Slovak <gnome-sk-list@gnome.org>
+juk,1484,0,0,358,0,0,1387,1484,100.0,sk
+k3b,20180,0,0,2518,0,0,18747,20180,100.0,Slovak <kde-sk@linux.sk>
+k3guitune,212,0,0,92,0,0,208,212,100.0,Slovak <sk@li.org>
+kBuild,204,136,165,38,29,14,231,505,40.396039603960396,Slovak <sk-i18n@lists.linux.sk>
+kaccounts-integration,27,47,90,6,10,18,23,164,16.463414634146343,Slovak <kde-i18n-doc@kde.org>
+kaccounts-providers,82,5,14,27,3,8,80,101,81.1881188118812,Slovak <kde-i18n-doc@kde.org>
+kactivitymanagerd,11,0,0,5,0,0,11,11,100.0,Slovak <kde-i18n-doc@kde.org>
+kaddressbook,1087,27,26,217,10,7,934,1140,95.35087719298245,Slovak <kde-i18n-doc@kde.org>
+kajongg,2436,8,0,509,1,0,2309,2444,99.67266775777414,Slovak <kde-sk@linux.sk>
+kalarm,7203,424,453,1046,57,23,6494,8080,89.14603960396039,Slovak <kde-sk@linux.sk>
+kalgebra,240,0,0,114,0,0,227,240,100.0,Slovak <kde-i18n-doc@kde.org>
+kalzium,9542,942,0,1438,122,0,8131,10484,91.0148798168638,Slovak <kde-i18n-doc@kde.org>
+kamera,347,0,0,38,0,0,300,347,100.0,Slovak <kde-sk@linux.sk>
+kamoso,142,0,0,41,0,0,155,142,100.0,Slovak <kde-i18n-doc@kde.org>
+kanagram,528,0,0,145,0,0,484,528,100.0,Slovak <kde-sk@linux.sk>
+kanyremote,410,64,23,130,12,3,398,497,82.49496981891348,Slovak
+kapman,114,0,0,36,0,0,109,114,100.0,Slovak <kde-sk@linux.sk>
+kapptemplate,272,0,0,52,0,0,226,272,100.0,Slovak <kde-sk@linux.sk>
+kate,6431,7,425,1545,3,94,6152,6863,93.70537665743844,Slovak <kde-i18n-doc@kde.org>
+katomic,181,3,0,58,1,0,180,184,98.36956521739131,Slovak <kde-sk@linux.sk>
+kaudiocreator,589,168,379,161,43,69,563,1136,51.848591549295776,Slovak <kde-sk@linux.sk>
+kbackup,689,0,0,135,0,0,610,689,100.0,Slovak <kde-i18n-doc@kde.org>
+kbibtex,2457,24,0,727,2,0,2341,2481,99.03264812575574,Slovak <kde-i18n-doc@kde.org>
+kblackbox,1364,0,0,102,0,0,1179,1364,100.0,Slovak <kde-i18n-doc@kde.org>
+kblocks,147,0,0,36,0,0,155,147,100.0,Slovak <kde-sk@linux.sk>
+kbounce,153,0,0,42,0,0,146,153,100.0,Slovak <kde-i18n-doc@kde.org>
+kbrickbuster,152,0,0,40,0,0,125,152,100.0,Slovak <kde-sk@linux.sk>
+kbruch,1347,0,0,198,0,0,1091,1347,100.0,Slovak <kde-i18n-doc@kde.org>
+kcachegrind,4367,0,0,562,0,0,3809,4367,100.0,Slovak <kde-sk@linux.sk>
+kcalc,1026,0,0,337,0,0,962,1026,100.0,Slovak <kde-i18n-doc@kde.org>
+kcharselect,88,0,0,34,0,0,96,88,100.0,Slovak <kde-sk@linux.sk>
+kclock,24,9,1,9,3,1,28,34,70.58823529411765,Slovak <kde-i18n-doc@kde.org>
+kcm_systemd,68,11,1306,47,6,115,68,1385,4.909747292418772,Slovak <kde-sk@linux.sk>
+kcm_wacomtablet,925,78,61,212,18,13,868,1064,86.93609022556392,Slovak <kde-sk@linux.sk>
+kcolorchooser,29,0,0,10,0,0,31,29,100.0,Slovak <kde-sk@linux.sk>
+kcoloredit,8,92,178,5,29,61,10,278,2.877697841726619,Slovak <kde-sk@linux.sk>
+kcron,534,0,0,190,0,0,500,534,100.0,Slovak <kde-i18n-doc@kde.org>
+kdb,1494,8,0,243,1,0,1447,1502,99.46737683089214,Slovak <kde-sk@linux.sk>
+kdbg,59,74,730,30,31,128,53,863,6.836616454229433,Slovak <bednar@isternet.sk>
+kde-cli-tools,2250,0,0,239,0,0,1963,2250,100.0,Slovak <kde-i18n-doc@kde.org>
+kde-connect,1243,6,13,339,1,1,1280,1262,98.49445324881141,Slovak <kde-i18n-doc@kde.org>
+kde-dev-utils,96,0,0,35,0,0,92,96,100.0,Slovak <kde-sk@linux.sk>
+kde-l10n,105160,0,0,21176,0,0,95745,105160,100.0,Slovak <kde-sk@linux.sk>
+kde-partitionmanager,2214,0,0,523,0,0,2084,2214,100.0,Slovak <kde-sk@linux.sk>
+kde-print-manager,969,0,0,275,0,0,883,969,100.0,Slovak <kde-i18n-doc@kde.org>
+kde-style-breeze,266,0,0,101,0,0,271,266,100.0,Slovak <kde-i18n-doc@kde.org>
+kdebugsettings,206,0,0,56,0,0,198,206,100.0,Slovak <kde-i18n-doc@kde.org>
+kdecoration,39,0,0,15,0,0,37,39,100.0,Slovak <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,119,0,326,31,0,18,101,445,26.741573033707866,Slovak <kde-i18n-doc@kde.org>
+kdepim-addons,4115,249,49,836,67,14,3594,4413,93.24722411058237,Slovak <kde-sk@linux.sk>
+kdepim-apps-libs,329,5,0,53,3,0,279,334,98.50299401197606,Slovak <kde-sk@linux.sk>
+kdepim-runtime,6995,197,854,1123,28,81,6206,8046,86.93760874968929,Slovak <kde-sk@linux.sk>
+kdeplasma-addons,1658,0,0,612,0,0,1760,1658,100.0,Slovak <kde-i18n-doc@kde.org>
+kdesdk-kioslaves,82,0,0,17,0,0,76,82,100.0,Slovak <kde-sk@linux.sk>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Slovak <kde-sk@linux.sk>
+kdesvn,4793,144,0,857,57,0,4634,4937,97.08324893660118,Slovak <kde-sk@linux.sk>
+kdevelop,8221,6898,177,1418,1559,47,7490,15296,53.74607740585774,Slovak <kde-sk@linux.sk>
+kdevelop-php,529,0,0,72,0,0,483,529,100.0,Slovak <kde-sk@linux.sk>
+kdevelop-python,582,0,0,101,0,0,520,582,100.0,Slovak <kde-sk@linux.sk>
+kdf,181,0,0,69,0,0,180,181,100.0,Slovak <kde-sk@linux.sk>
+kdiagram,66,0,0,40,0,0,61,66,100.0,Slovak <kde-sk@linux.sk>
+kdialog,382,0,0,75,0,0,378,382,100.0,Slovak <kde-i18n-doc@kde.org>
+kdiamond,122,0,0,32,0,0,125,122,100.0,Slovak <kde-sk@linux.sk>
+kdiff3,2914,680,23,552,66,8,2794,3617,80.56400331766658,Slovak <kde-sk@linux.sk>
+kdissert,0,0,2027,0,0,282,0,2027,0.0,Slovak <sk@li.org>
+kdnssd,30,0,0,7,0,0,24,30,100.0,Slovak <kde-sk@linux.sk>
+kdump-anaconda-addon,0,0,83,0,0,12,0,83,0.0,LANGUAGE <LL@li.org>
+keditbookmarks,463,3,0,131,1,0,442,466,99.35622317596567,Slovak <kde-sk@linux.sk>
+kexi,4748,2393,239,1249,219,28,4432,7380,64.3360433604336,Slovak <kde-sk@linux.sk>
+keysmith,11,7,207,8,5,43,11,225,4.888888888888889,Slovak <kde-sk@linux.sk>
+kf5-akonadi-calendar,1867,0,0,288,0,0,1635,1867,100.0,Slovak <kde-sk@linux.sk>
+kf5-akonadi-contacts,1597,0,0,322,0,0,1398,1597,100.0,Slovak <kde-sk@linux.sk>
+kf5-akonadi-mime,567,0,0,110,0,0,551,567,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Slovak <kde-sk@linux.sk>
+kf5-akonadi-search,48,0,0,11,0,0,47,48,100.0,Slovak <kde-sk@linux.sk>
+kf5-akonadi-server,2540,0,0,435,0,0,2373,2540,100.0,Slovak <kde-sk@linux.sk>
+kf5-audiocd-kio,1000,0,0,210,0,0,945,1000,100.0,Slovak <kde-sk@linux.sk>
+kf5-baloo,802,0,34,157,0,14,707,836,95.93301435406698,Slovak <kde-i18n-doc@kde.org>
+kf5-calendarsupport,2936,33,17,406,12,14,2554,2986,98.32551908908238,Slovak <kde-i18n-doc@kde.org>
+kf5-eventviews,2954,0,0,317,0,0,2589,2954,100.0,Slovak <kde-sk@linux.sk>
+kf5-grantleetheme,14,0,0,6,0,0,14,14,100.0,Slovak <kde-sk@linux.sk>
+kf5-incidenceeditor,2454,38,44,447,12,1,2090,2536,96.76656151419559,Slovak <kde-sk@linux.sk>
+kf5-kalarmcal,204,0,0,104,0,0,231,204,100.0,Slovak <kde-sk@linux.sk>
+kf5-kauth,73,0,0,8,0,0,63,73,100.0,Slovak <kde-sk@linux.sk>
+kf5-kblog,243,0,0,27,0,0,183,243,100.0,Slovak <kde-sk@linux.sk>
+kf5-kbookmarks,230,0,0,49,0,0,202,230,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,1475,0,0,417,0,0,1541,1475,100.0,Slovak <kde-sk@linux.sk>
+kf5-kcmutils,234,13,0,25,2,0,213,247,94.73684210526315,Slovak <kde-i18n-doc@kde.org>
+kf5-kcodecs,235,137,0,49,5,0,200,372,63.17204301075269,Slovak <kde-sk@linux.sk>
+kf5-kcompletion,15,3,0,9,2,0,15,18,83.33333333333334,Slovak <kde-sk@linux.sk>
+kf5-kconfig,262,15,10,102,1,1,257,287,91.28919860627178,Slovak <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,332,8,0,122,3,0,321,340,97.6470588235294,Slovak <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,180,177,100.0,Slovak <kde-sk@linux.sk>
+kf5-kcoreaddons,418,113,0,150,39,0,418,531,78.71939736346516,Slovak <kde-i18n-doc@kde.org>
+kf5-kdav,171,14,0,19,1,0,119,185,92.43243243243244,Slovak <kde-sk@linux.sk>
+kf5-kdbusaddons,48,0,0,6,0,0,40,48,100.0,Slovak <kde-sk@linux.sk>
+kf5-kdeclarative,101,28,22,13,5,4,96,151,66.88741721854305,Slovak <kde-sk@linux.sk>
+kf5-kdelibs4support,4813,319,221,2364,105,75,4678,5353,89.91219876704652,Slovak <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,57,54,100.0,Slovak <kde-sk@linux.sk>
+kf5-kdesu,19,0,0,7,0,0,22,19,100.0,Slovak <kde-sk@linux.sk>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Slovak <kde-sk@linux.sk>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Slovak <kde-sk@linux.sk>
+kf5-kfilemetadata,302,0,0,134,0,0,318,302,100.0,Slovak <kde-sk@linux.sk>
+kf5-kglobalaccel,71,0,0,9,0,0,59,71,100.0,Slovak <kde-sk@linux.sk>
+kf5-kholidays,139,0,0,90,0,0,133,139,100.0,Slovak <kde-sk@linux.sk>
+kf5-khtml,1721,0,0,310,0,0,1500,1721,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Slovak <kde-sk@linux.sk>
+kf5-kiconthemes,23,4,12,12,3,3,24,39,58.97435897435898,Slovak <kde-sk@linux.sk>
+kf5-kidentitymanagement,181,0,0,23,0,0,160,181,100.0,Slovak <kde-sk@linux.sk>
+kf5-kimap,111,0,0,50,0,0,105,111,100.0,Slovak <kde-sk@linux.sk>
+kf5-kinit,116,0,0,11,0,0,89,116,100.0,Slovak <kde-sk@linux.sk>
+kf5-kio,11232,515,138,1338,14,5,9684,11885,94.50567942785023,Slovak <kde-i18n-doc@kde.org>
+kf5-kipi-plugins,4325,405,965,1027,112,91,4015,5695,75.94381035996489,Slovak <kde-sk@linux.sk>
+kf5-kirigami,2,0,0,2,0,0,2,2,100.0,Slovak <kde-sk@linux.sk>
+kf5-kirigami2,62,28,4,26,12,2,64,94,65.95744680851064,Slovak <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Slovak <kde-sk@linux.sk>
+kf5-kitinerary,111,0,0,29,0,0,114,111,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,123,10,0,36,2,0,147,133,92.4812030075188,Slovak <kde-sk@linux.sk>
+kf5-kjsembed,248,0,0,44,0,0,237,248,100.0,Slovak <kde-sk@linux.sk>
+kf5-kldap,176,6,47,50,3,9,195,229,76.85589519650655,Slovak <kde-sk@linux.sk>
+kf5-kmailtransport,654,0,0,109,0,0,563,654,100.0,Slovak <kde-sk@linux.sk>
+kf5-kmime,159,0,0,10,0,0,129,159,100.0,Slovak <kde-sk@linux.sk>
+kf5-knewstuff,1588,0,73,230,0,1,1389,1661,95.60505719446117,Slovak <kde-i18n-doc@kde.org>
+kf5-knotifications,20,1,0,7,1,0,16,21,95.23809523809523,Slovak <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,104,129,100.0,Slovak <kde-sk@linux.sk>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Slovak <kde-sk@linux.sk>
+kf5-kpackage,486,0,0,94,0,0,432,486,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-kparts,132,0,0,29,0,0,115,132,100.0,Slovak <kde-sk@linux.sk>
+kf5-kpeople,13,0,0,8,0,0,12,13,100.0,Slovak <kde-sk@linux.sk>
+kf5-kpimtextedit,408,0,0,197,0,0,406,408,100.0,Slovak <kde-sk@linux.sk>
+kf5-kpty,15,0,0,4,0,0,18,15,100.0,Slovak <kde-sk@linux.sk>
+kf5-kross,100,0,0,35,0,0,96,100,100.0,Slovak <kde-sk@linux.sk>
+kf5-kservice,167,0,6,27,0,1,162,173,96.53179190751445,Slovak <kde-i18n-doc@kde.org>
+kf5-ksmtp,97,0,0,13,0,0,89,97,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-ktexteditor,8052,348,278,1120,49,31,6987,8678,92.78635630329569,Slovak <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,463,10,0,122,8,0,446,473,97.88583509513742,Slovak <kde-i18n-doc@kde.org>
+kf5-ktnef,355,0,0,143,0,0,373,355,100.0,Slovak <kde-sk@linux.sk>
+kf5-kunitconversion,5735,0,0,2473,0,0,6916,5735,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-kwallet,1386,74,0,108,2,0,1195,1460,94.93150684931507,Slovak <kde-sk@linux.sk>
+kf5-kwidgetsaddons,1176,104,14,446,16,3,1118,1294,90.88098918083463,Slovak <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Slovak <kde-sk@linux.sk>
+kf5-kxmlgui,1512,49,2,224,2,1,1351,1563,96.73704414587331,Slovak <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Slovak <kde-sk@linux.sk>
+kf5-libgravatar,27,0,0,12,0,0,28,27,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-libkcddb,476,0,0,225,0,0,481,476,100.0,Slovak <kde-sk@linux.sk>
+kf5-libkcompactdisc,15,0,0,10,0,0,14,15,100.0,Slovak <kde-sk@linux.sk>
+kf5-libkdepim,35,0,0,10,0,0,34,35,100.0,Slovak <kde-sk@linux.sk>
+kf5-libkgeomap,139,0,0,46,0,0,126,139,100.0,Slovak <kde-sk@linux.sk>
+kf5-libkleo,1257,53,25,308,17,5,1190,1335,94.15730337078652,Slovak <kde-i18n-doc@kde.org>
+kf5-libksane,263,15,12,77,7,8,257,290,90.6896551724138,Slovak <kde-sk@linux.sk>
+kf5-libksieve,3254,102,12,536,34,3,2805,3368,96.61520190023754,Slovak <kde-sk@linux.sk>
+kf5-libktorrent,465,0,0,105,0,0,505,465,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-mailcommon,2817,80,72,467,32,8,2536,2969,94.88043112158977,Slovak <kde-i18n-doc@kde.org>
+kf5-mailimporter,1397,11,0,122,5,0,1274,1408,99.21875,Slovak <kde-sk@linux.sk>
+kf5-messagelib,7986,34,85,1314,6,13,7685,8105,98.53177051202961,Slovak <kde-sk@linux.sk>
+kf5-pimcommon,1013,94,148,242,35,51,919,1255,80.71713147410358,Slovak <kde-i18n-doc@kde.org>
+kf5-plasma,392,0,0,122,0,0,366,392,100.0,Slovak <kde-i18n-doc@kde.org>
+kf5-purpose,264,2,62,67,1,8,242,328,80.48780487804879,Slovak <kde-sk@linux.sk>
+kf5-solid,559,4,0,154,2,0,474,563,99.28952042628775,Slovak <kde-sk@linux.sk>
+kf5-sonnet,667,16,0,73,3,0,535,683,97.65739385065886,Slovak <kde-sk@linux.sk>
+kf5-syntax-highlighting,606,0,6,357,0,5,603,612,99.01960784313727,Slovak <kde-i18n-doc@kde.org>
+kfind,499,3,0,114,1,0,494,502,99.40239043824701,Slovak <kde-i18n-doc@kde.org>
+kfloppy,641,0,0,100,0,0,604,641,100.0,Slovak <kde-sk@linux.sk>
+kfourinline,392,0,0,157,0,0,390,392,100.0,Slovak <kde-sk@linux.sk>
+kgamma,130,0,0,16,0,0,117,130,100.0,Slovak <kde-sk@linux.sk>
+kgeography,9670,0,0,7099,0,0,9666,9670,100.0,Slovak <kde-i18n-doc@kde.org>
+kget,2936,4,0,791,2,0,2814,2940,99.8639455782313,Slovak <kde-i18n-doc@kde.org>
+kgoldrunner,23547,7,0,907,1,0,19420,23554,99.97028105629617,Slovak <kde-i18n-doc@kde.org>
+kgpg,5268,0,0,696,0,0,4745,5268,100.0,Slovak <kde-i18n-doc@kde.org>
+kgrab,0,0,370,0,0,53,0,370,0.0,Slovak <kde-sk@linux.sk>
+kgraphviewer,902,288,15,188,20,7,824,1205,74.85477178423237,Slovak <kde-sk@linux.sk>
+khangman,476,0,0,121,0,0,462,476,100.0,Slovak <kde-sk@linux.sk>
+khelpcenter,260,5,0,89,1,0,277,265,98.11320754716981,Slovak <kde-i18n-doc@kde.org>
+khotkeys,451,0,0,136,0,0,419,451,100.0,Slovak <kde-i18n-doc@kde.org>
+kicad,24500,8861,3612,5424,1487,300,23541,36973,66.26457144402671,Slovak <https://hosted.weblate.org/projects/kicad/v6/sk/>
+kiconedit,726,0,0,155,0,0,645,726,100.0,Slovak <kde-sk@linux.sk>
+kig,7855,0,0,1284,0,0,6393,7855,100.0,Slovak <kde-sk@linux.sk>
+kigo,500,4,0,129,2,0,456,504,99.20634920634922,Slovak <kde-sk@linux.sk>
+kile,12994,0,0,2183,0,0,11385,12994,100.0,Slovak <kde-sk@linux.sk>
+killbots,444,193,0,64,63,0,391,637,69.70172684458399,Slovak <kde-sk@linux.sk>
+kinfocenter,742,0,0,359,0,0,775,742,100.0,Slovak <kde-i18n-doc@kde.org>
+kio-extras,1112,25,21,132,3,3,1021,1158,96.02763385146805,Slovak <kde-sk@linux.sk>
+kio-gdrive,63,0,0,15,0,0,64,63,100.0,Slovak <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Slovak <kde-sk@linux.sk>
+kio_mtp,17,0,0,2,0,0,14,17,100.0,Slovak <kde-sk@linux.sk>
+kirigami-gallery,856,0,0,101,0,0,696,856,100.0,Slovak <kde-i18n-doc@kde.org>
+kiriki,144,0,0,50,0,0,137,144,100.0,Slovak <kde-sk@linux.sk>
+kiten,653,0,0,172,0,0,642,653,100.0,Slovak <kde-sk@linux.sk>
+kjots,117,230,304,39,45,50,113,651,17.972350230414747,Slovak <kde-sk@linux.sk>
+kjumpingcube,412,0,0,95,0,0,365,412,100.0,Slovak <kde-i18n-doc@kde.org>
+kleopatra,8479,438,322,1303,99,38,7782,9239,91.7740015153155,Slovak <kde-i18n-doc@kde.org>
+klettres,438,0,0,84,0,0,391,438,100.0,Slovak <kde-i18n-doc@kde.org>
+klickety,178,0,0,62,0,0,167,178,100.0,Slovak <kde-sk@linux.sk>
+klines,99,0,0,28,0,0,83,99,100.0,Slovak <kde-sk@linux.sk>
+kmag,432,0,0,98,0,0,368,432,100.0,Slovak <kde-sk@linux.sk>
+kmahjongg,355,0,0,101,0,0,342,355,100.0,Slovak <kde-i18n-doc@kde.org>
+kmail,8934,0,0,1385,0,0,7928,8934,100.0,Slovak <kde-sk@linux.sk>
+kmail-account-wizard,816,0,0,131,0,0,712,816,100.0,Slovak <kde-sk@linux.sk>
+kmenuedit,277,0,0,63,0,0,247,277,100.0,Slovak <kde-i18n-doc@kde.org>
+kmines,140,0,16,44,0,1,132,156,89.74358974358975,Slovak <kde-i18n-doc@kde.org>
+kmix,830,110,150,187,15,8,778,1090,76.14678899082568,Slovak <kde-i18n-doc@kde.org>
+kmousetool,147,0,0,32,0,0,128,147,100.0,Slovak <kde-sk@linux.sk>
+kmouth,1515,0,0,204,0,0,1216,1515,100.0,Slovak <kde-i18n-doc@kde.org>
+kmplayer,0,0,1249,0,0,371,0,1249,0.0,Slovak <kde-sk@linux.sk>
+kmplot,2493,0,0,481,0,0,2202,2493,100.0,Slovak <kde-i18n-doc@kde.org>
+kmymoney,18948,1850,1293,3259,320,129,17117,22091,85.77248653297723,Slovak <kde-i18n-doc@kde.org>
+knavalbattle,399,0,0,102,0,0,392,399,100.0,Slovak <kde-sk@linux.sk>
+knetwalk,230,0,13,54,0,2,215,243,94.65020576131687,Slovak <kde-sk@linux.sk>
+knotes,727,54,0,226,13,0,679,781,93.08578745198463,Slovak <kde-i18n-doc@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,7861,8417,100.0,Slovak <kde-sk@linux.sk>
+kolf,401,0,0,148,0,0,407,401,100.0,Slovak <kde-i18n-doc@kde.org>
+kollision,106,0,3,29,0,1,118,109,97.24770642201835,Slovak <kde-sk@linux.sk>
+kolourpaint,2564,0,0,448,0,0,2229,2564,100.0,Slovak <kde-i18n-doc@kde.org>
+kompare,550,880,0,77,128,0,577,1430,38.46153846153847,Slovak <kde-sk@linux.sk>
+kongress,12,4,139,9,1,49,12,155,7.741935483870968,Slovak <kde-sk@linux.sk>
+konqueror,7418,188,1189,1079,27,126,6439,8795,84.34337691870381,Slovak <kde-i18n-doc@kde.org>
+konquest,242,3,0,97,1,0,250,245,98.77551020408163,Slovak <kde-sk@linux.sk>
+konsole5,3411,5,0,707,1,0,3042,3416,99.85362997658079,Slovak <kde-i18n-doc@kde.org>
+kontact,600,0,0,99,0,0,574,600,100.0,Slovak <kde-sk@linux.sk>
+konversation,10240,105,0,1643,1,0,8942,10345,98.98501691638472,Slovak <kde-i18n-doc@kde.org>
+kopete,18405,22,0,3456,1,0,16191,18427,99.88060997449395,Slovak <kde-sk@linux.sk>
+korganizer,6552,339,524,849,79,41,5770,7415,88.36142953472691,Slovak <kde-i18n-doc@kde.org>
+kpat,477,23,46,141,11,29,474,546,87.36263736263736,Slovak <kde-i18n-doc@kde.org>
+kphotoalbum,7728,964,781,900,83,70,6776,9473,81.579225166262,Slovak <kde-i18n-doc@kde.org>
+kpilot,5393,859,904,605,152,104,4544,7156,75.36333147009503,Slovak <kde-sk@linux.sk>
+kpmcore,2670,360,207,428,42,23,2544,3237,82.483781278962,sk
+kproperty,137,8,0,79,3,0,136,145,94.48275862068965,Slovak <kde-sk@linux.sk>
+krdc,1142,0,34,259,0,3,1103,1176,97.10884353741497,sk
+krecipes,3646,0,0,765,0,0,3420,3646,100.0,Slovak <kde-sk@linux.sk>
+krecorder,45,11,28,27,8,2,45,84,53.57142857142857,Slovak <kde-sk@linux.sk>
+krename,2142,0,0,452,0,0,1947,2142,100.0,Slovak <kde-i18n-doc@kde.org>
+kreport,455,0,0,193,0,0,448,455,100.0,Slovak <kde-i18n-doc@kde.org>
+kreversi,425,4,0,140,1,0,404,429,99.06759906759906,Slovak <kde-sk@linux.sk>
+krfb,676,0,0,91,0,0,637,676,100.0,Slovak <kde-i18n-doc@kde.org>
+krita,27090,449,333,6601,167,37,25330,27872,97.1943168771527,Slovak <kde-i18n-doc@kde.org>
+kruler,184,0,0,47,0,0,158,184,100.0,Slovak <kde-i18n-doc@kde.org>
+krusader,7929,0,0,1738,0,0,7574,7929,100.0,Slovak <kde-i18n-doc@kde.org>
+kscreen,315,0,0,66,0,0,301,315,100.0,Slovak <kde-i18n-doc@kde.org>
+kscreenlocker,230,0,0,34,0,0,205,230,100.0,Slovak <kde-i18n-doc@kde.org>
+kshisen,562,5,0,69,1,0,505,567,99.11816578483244,Slovak <kde-i18n-doc@kde.org>
+ksig,71,2,12,17,1,8,60,85,83.52941176470588,Slovak <kde-i18n-doc@kde.org>
+ksirk,5763,0,0,762,0,0,5190,5763,100.0,Slovak <kde-i18n-doc@kde.org>
+ksnakeduel,237,0,0,56,0,0,238,237,100.0,Slovak <kde-i18n-doc@kde.org>
+kspaceduel,162,3,0,80,1,0,172,165,98.18181818181819,Slovak <kde-sk@linux.sk>
+ksquares,257,0,0,76,0,0,207,257,100.0,Slovak <kde-sk@linux.sk>
+ksshaskpass,50,0,0,14,0,0,48,50,100.0,Slovak <kde-sk@linux.sk>
+kstars,29138,9445,23759,8905,2387,5479,26947,62342,46.7389560809727,Slovak <kde-sk@linux.sk>
+ksudoku,1744,2,0,161,2,0,1545,1746,99.88545246277205,Slovak <kde-i18n-doc@kde.org>
+ksysguard,1093,0,0,237,0,0,953,1093,100.0,Slovak <kde-i18n-doc@kde.org>
+ksystemlog,3034,0,0,479,0,0,2575,3034,100.0,Slovak <kde-i18n-doc@kde.org>
+ksystemstats,390,0,0,150,0,0,374,390,100.0,Slovak <kde-i18n-doc@kde.org>
+kteatime,203,0,0,67,0,0,229,203,100.0,Slovak <kde-i18n-doc@kde.org>
+ktechlab,2173,365,1195,704,80,155,1980,3733,58.21055451379588,Slovak <kde-sk@linux.sk>
+ktimer,258,0,0,53,0,0,193,258,100.0,Slovak <kde-i18n-doc@kde.org>
+ktorrent,7395,20,193,1375,4,19,6486,7608,97.20031545741324,Slovak <kde-i18n-doc@kde.org>
+ktouch,948,0,0,253,0,0,880,948,100.0,Slovak <kde-i18n-doc@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1031,1100,100.0,Slovak <kde-sk@linux.sk>
+ktp-approver,71,0,0,18,0,0,68,71,100.0,Slovak <kde-sk@linux.sk>
+ktp-auth-handler,83,0,0,24,0,0,74,83,100.0,Slovak <kde-sk@linux.sk>
+ktp-common-internals,989,0,0,206,0,0,887,989,100.0,Slovak <kde-sk@linux.sk>
+ktp-contact-list,407,0,273,110,0,17,376,680,59.85294117647059,Slovak <kde-i18n-doc@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,201,208,100.0,Slovak <kde-i18n-doc@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,64,75,100.0,Slovak <kde-sk@linux.sk>
+ktp-filetransfer-handler,141,0,0,39,0,0,139,141,100.0,Slovak <kde-sk@linux.sk>
+ktp-kded-integration-module,217,0,273,42,0,17,193,490,44.285714285714285,Slovak <kde-sk@linux.sk>
+ktp-send-file,60,0,0,18,0,0,55,60,100.0,Slovak <kde-sk@linux.sk>
+ktp-text-ui,1439,0,0,320,0,0,1279,1439,100.0,Slovak <kde-sk@linux.sk>
+ktuberling,158,0,0,38,0,0,157,158,100.0,Slovak <kde-i18n-doc@kde.org>
+kturtle,1455,76,0,269,78,0,1301,1531,95.03592423252776,Slovak <kde-i18n-doc@kde.org>
+kubrick,1202,3,0,165,1,0,1193,1205,99.75103734439834,Slovak <kde-sk@linux.sk>
+kuserfeedback,410,11,727,138,3,128,402,1148,35.714285714285715,Slovak <kde-sk@linux.sk>
+kwalletmanager5,800,0,0,165,0,0,716,800,100.0,Slovak <kde-sk@linux.sk>
+kwave,5798,0,0,1305,0,0,5260,5798,100.0,Slovak <opensuse-translation@opensuse.org>
+kwebkitpart,669,0,0,165,0,0,587,669,100.0,Slovak <kde-sk@linux.sk>
+kwin,5789,2,4,1224,1,2,5366,5795,99.89646246764453,Slovak <kde-i18n-doc@kde.org>
+kwordquiz,2026,0,0,414,0,0,1806,2026,100.0,Slovak <kde-sk@linux.sk>
+kxstitch,1966,45,3,560,7,3,1776,2014,97.61668321747766,Slovak <kde-sk@linux.sk>
+l3afpad,113,0,17,61,0,3,129,130,86.92307692307692,Slovak <sk-i18n@linux.sk>
+lagrange,224,0,0,80,0,0,223,224,100.0,Slovak <http://weblate.skyjake.fi/projects/lagrange/ui/sk/>
+latte-dock,1127,906,1493,412,187,175,1107,3526,31.962563811684632,Slovak <kde-i18n-doc@kde.org>
+lazarus,8957,4054,14568,2796,456,2878,8479,27579,32.47760977555386,Slovenský <sk@li.org>
+lazpaint,764,0,832,218,0,129,673,1596,47.86967418546366,Slovenský <sk@li.org>
+leafpad,121,2,2,66,1,1,135,125,96.8,Slovak <sk-i18n@linux.sk>
+libalkimia,322,0,219,72,0,27,297,541,59.51940850277264,Slovak <kde-sk@linux.sk>
+libappstream-glib,843,95,75,179,18,13,799,1013,83.21816386969397,Slovak (http://www.transifex.com/freedesktop/appstream-glib/language/sk/)
+libbonobo,543,0,0,107,0,0,516,543,100.0,Slovak <sk-i18n@lists.linux.sk>
+libbonoboui,368,0,0,115,0,0,338,368,100.0,Slovak <sk-l18n@lists.linux.sk>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Slovak
+libcryptui,3012,0,0,654,0,0,2729,3012,100.0,Slovak <gnome-sk-list@gnome.org>
+libdnf,2,0,1439,1,0,223,1,1441,0.13879250520471895,Slovak
+libexif,6977,0,18,1177,0,2,6232,6995,99.74267333809864,Slovak <sk-i18n@lists.linux.sk>
+libfilezilla,54,0,429,11,0,78,56,483,11.180124223602485,Slovak <sk-i18n@lists.linux.sk>
+libfm,1244,93,238,341,24,29,1187,1575,78.98412698412697,Slovak <sk-i18n@lists.linux.sk>
+libgda,78,2850,8214,37,684,1333,81,11142,0.7000538502961766,Slovak <sk-i18n@linux.sk>
+libgdata,694,0,0,86,0,0,653,694,100.0,Slovak <gnome-sk-list@gnome.org>
+libgdl,223,1,461,89,1,51,201,685,32.55474452554745,Slovak <sk-i18n@lists.linux.sk>
+libgnome,1773,0,0,273,0,0,1626,1773,100.0,Slovak <gnome-sk-list@gnome.org>
+libgnome-games-support,43,0,0,14,0,0,43,43,100.0,Slovak <gnome-sk-list@gnome.org>
+libgnome-keyring,44,0,0,9,0,0,38,44,100.0,Slovak <gnome-sk-list@gnome.org>
+libgnomecanvas,378,0,0,95,0,0,355,378,100.0,Slovak <sk-i18n@lists.linux.sk>
+libgnomekbd,188,0,0,40,0,0,170,188,100.0,Slovak <gnome-sk-list@gnome.org>
+libgnomeui,1309,0,0,334,0,0,1190,1309,100.0,Slovak <sk-i18n@lists.linux.sk>
+libgphoto2,405,50,7,69,5,2,386,462,87.66233766233766,Slovak <sk-i18n@lists.linux.sk>
+libgsasl,495,32,50,59,2,8,482,577,85.78856152512998,Slovak <sk-i18n@lists.linux.sk>
+libgsf,720,0,0,150,0,0,721,720,100.0,Slovak <gnome-sk-list@gnome.org>
+libgtop2,126,0,0,40,0,0,138,126,100.0,Slovak <sk-i18n@lists.linux.sk>
+libgweather,6388,0,0,4691,0,0,6339,6388,100.0,Slovak <gnome-sk-list@gnome.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,370,0,0,132,0,0,330,370,100.0,Slovak <kde-sk@linux.sk>
+libkeduvocdocument,171,0,0,81,0,0,179,171,100.0,Slovak <kde-sk@linux.sk>
+libkgapi,321,31,22,74,6,4,315,374,85.8288770053476,Slovak <kde-sk@linux.sk>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Slovak <kde-sk@linux.sk>
+libkomparediff2,131,12,0,13,6,0,111,143,91.6083916083916,Slovak <kde-sk@linux.sk>
+libksysguard,3767,51,284,572,15,16,3351,4102,91.83325207215992,Slovak <kde-i18n-doc@kde.org>
+libmatekbd,265,0,43,57,0,34,260,308,86.03896103896103,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+libmatemixer,242,0,0,126,0,0,242,242,100.0,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+libmateweather,575,0,5568,246,0,4329,554,6143,9.360247436106137,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+libmypaint,2303,0,0,162,0,0,2063,2303,100.0,Slovak <https://hosted.weblate.org/projects/mypaint/libmypaint/sk/>
+libmypaint2,1397,60,854,102,12,48,1264,2311,60.45002163565556,Slovak <https://hosted.weblate.org/projects/mypaint/mypaint/sk/>
+libnma,698,98,121,163,15,17,732,917,76.11777535441658,Slovak <gnome-sk-list@gnome.org>
+libpaper,73,0,0,46,0,0,70,73,100.0,Slovak <sk-i18n@lists.linux.sk>
+libpeas,103,0,0,29,0,0,107,103,100.0,slovenčina <>
+libpwquality,333,0,12,50,0,1,283,345,96.52173913043478,Slovak (http://www.transifex.com/projects/p/libpwquality/language/sk/)
+libreport,2299,57,2572,376,5,222,2168,4928,46.651785714285715,Slovak <https://translate.stg.fedoraproject.org/projects/abrt/libreport/sk/>
+libsecret,59,0,0,9,0,0,51,59,100.0,Slovak <gnome-sk-list@gnome.org>
+libsoup,183,0,0,43,0,0,210,183,100.0,Slovak <gnome-sk-list@gnome.org>
+libxfce4ui,697,0,260,179,0,13,688,957,72.83176593521421,Slovak (http://www.transifex.com/xfce/libxfce4ui/language/sk/)
+libxfce4util,424,0,0,7,0,0,376,424,100.0,Slovak (http://www.transifex.com/xfce/libxfce4util/language/sk/)
+libzypp,2376,0,338,946,0,41,2379,2714,87.54605747973471,Slovak <https://l10n.opensuse.org/projects/libzypp/master/sk/>
+liferea,1165,396,655,313,97,113,1098,2216,52.57220216606498,Slovak <sk-i18n@lists.linux.sk>
+light-locker,260,0,0,37,0,0,272,260,100.0,Slovak (http://www.transifex.com/the_cavalry/light-locker/language/sk/)
+lightdm,163,0,0,21,0,0,150,163,100.0,Slovak <sk@li.org>
+lightdm-gtk,61,0,28,20,0,5,55,89,68.53932584269663,Slovak <sk@li.org>
+lightdm-settings,321,0,0,65,0,0,279,321,100.0,Slovak <sk@li.org>
+lightsoff,104,0,0,18,0,0,109,104,100.0,Slovak <gnome-sk-list@gnome.org>
+lilyterm,1648,0,0,295,0,0,1445,1648,100.0,slovenčina <debian-l10n-slovak@lists.debian.org>
+lokalize,4087,0,0,678,0,0,3620,4087,100.0,Slovak <kde-sk@linux.sk>
+lollypop,1437,0,0,460,0,0,1455,1437,100.0,Slovak <https://hosted.weblate.org/projects/gnumdk/lollypop/sk/>
+lskat,254,0,0,83,0,0,245,254,100.0,Slovak <kde-sk@linux.sk>
+lxdm,11,1,35,10,1,14,10,47,23.404255319148938,LANGUAGE <LL@li.org>
+lxinput,70,2,11,23,1,2,65,83,84.33734939759037,Slovak <sk-i18n@lists.linux.sk>
+lxlauncher,51,0,7,11,0,6,49,58,87.93103448275862,Slovak <sk-i18n@lists.linux.sk>
+lxmenu-data,97,0,0,37,0,0,99,97,100.0,Slovak <sk-i18n@lists.linux.sk>
+lxmusic,202,1,0,88,1,0,214,203,99.50738916256158,Slovak <sk-i18n@lists.linux.sk>
+lxpanel,1399,0,0,467,0,0,1428,1399,100.0,Slovak <sk-i18n@lists.linux.sk>
+lxrandr,154,1,12,36,1,4,153,167,92.21556886227546,Slovak <sk-i18n@lists.linux.sk>
+lxshortcut,43,0,0,19,0,0,43,43,100.0,Slovak <sk-i18n@lists.linux.sk>
+lxtask,129,0,1,50,0,1,134,130,99.23076923076923,Slovak <sk-i18n@lists.linux.sk>
+lxterminal,197,7,8,96,3,3,194,212,92.9245283018868,Slovak <sk-i18n@lists.linux.sk>
+lyx,25702,0,0,7289,0,0,24339,25702,100.0,Slovak <kornel@lyx.org>
+mailman,15536,1423,7492,1208,72,201,13206,24451,63.539323545049285,Slovak
+malcontent,3,0,581,2,0,96,3,584,0.5136986301369862,none
+mame,2980,0,484,980,0,241,3192,3464,86.02771362586606,MAME Language Team
+man-db,5,103,98,2,23,25,5,206,2.4271844660194173,Slovak <sk-i18n@rak.isternet.sk>
+manafirewall,26,0,1071,25,0,108,27,1097,2.3701002734731085,Slovak (https://www.transifex.com/MageiaLinux/teams/9361/sk/)
+marble,11476,0,0,3326,0,0,10840,11476,100.0,Slovak <kde-sk@linux.sk>
+marco,3872,0,431,408,0,22,3600,4303,89.98373227980478,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+massif-visualizer,357,0,0,109,0,0,334,357,100.0,Slovak <kde-sk@linux.sk>
+mate-applets,7924,0,7996,841,0,797,6761,15920,49.77386934673367,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-backgrounds,51,0,4,28,0,1,49,55,92.72727272727272,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-calc,1362,0,1961,490,0,259,1344,3323,40.9870598856455,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-control-center,3567,0,4681,1117,0,394,3391,8248,43.24684772065955,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-desktop,2179,1,196,283,1,17,2027,2376,91.7087542087542,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-media,216,0,23,90,0,9,215,239,90.3765690376569,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-menu,301,0,7,109,0,1,311,308,97.72727272727273,Slovak (http://www.transifex.com/mate/MATE/language/sk/)
+mate-menus,103,0,0,39,0,0,104,103,100.0,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-notification-daemon,136,0,50,40,0,13,149,186,73.11827956989248,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-panel,5392,0,1328,662,0,152,4717,6720,80.23809523809524,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-polkit,123,0,0,21,0,0,119,123,100.0,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-power-manager,2888,0,2231,401,0,150,2775,5119,56.417268997851146,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-screensaver,999,12,90,161,2,13,896,1101,90.73569482288828,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-sensors-applet,436,14,1710,18,8,200,349,2160,20.185185185185187,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-session-manager,690,0,25,123,0,9,668,715,96.5034965034965,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-settings-daemon,1924,0,282,278,0,41,1759,2206,87.2166817769719,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-system-monitor,1698,0,3149,347,0,301,1517,4847,35.03197854342893,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-terminal,4880,0,3506,550,0,253,4137,8386,58.19222513713331,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-themes,63,0,11,14,0,9,60,74,85.13513513513513,Slovak (http://www.transifex.com/mate/MATE/language/sk/)
+mate-user-admin,20,0,608,16,0,115,20,628,3.1847133757961785,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-user-guide,612,0,42357,129,0,3099,534,42969,1.4242826223556517,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mate-utils,5326,0,4734,759,0,367,4644,10060,52.942345924453285,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mbox-importer,40,0,0,13,0,0,35,40,100.0,Slovak <kde-i18n-doc@kde.org>
+mc,4038,0,251,1211,0,62,4130,4289,94.1478200046631,Slovak (http://www.transifex.com/mc/mc/language/sk/)
+meld,2128,0,0,427,0,0,2040,2128,100.0,Slovak <gnome-sk-list@gnome.org>
+menulibre,670,25,178,138,1,27,619,873,76.74684994272624,Slovak <sk@li.org>
+metacity,3798,0,0,404,0,0,3516,3798,100.0,Slovak <gnome-sk-list@gnome.org>
+midori,3294,0,247,764,0,32,3151,3541,93.02456933069755,slovenčina <slovenska-lokalizacia-xfce@googlegroups.com>
+minetest,9649,0,0,1356,0,0,9310,9649,100.0,Slovak <https://hosted.weblate.org/projects/minetest/minetest/sk/>
+mingw-GConf2,3957,0,47,461,0,16,3742,4004,98.82617382617383,Slovak <sk-i18n@lists.linux.sk>
+mingw-atk,440,0,0,169,0,0,415,440,100.0,Slovak <gnome-sk-list@gnome.org>
+mingw-binutils,7582,0,0,1106,0,0,7268,7582,100.0,Slovak <sk-i18n@lists.linux.sk>
+mingw-colord,303,0,1582,75,0,128,290,1885,16.074270557029177,Slovak (http://www.transifex.com/projects/p/colord/language/sk/)
+mingw-exiv2,9069,7381,21562,2003,2335,1748,8406,38012,23.85825528780385,Slovak <sk-i18n@lists.linux.sk>
+mingw-gdk-pixbuf,1385,0,0,207,0,0,1390,1385,100.0,Slovak <gnome-sk-list@gnome.org>
+mingw-gettext,7717,306,98,833,23,8,7321,8121,95.02524319665065,Slovak <sk-i18n@lists.linux.sk>
+mingw-glib-networking,283,0,0,43,0,0,350,283,100.0,Slovak <gnome-sk-list@gnome.org>
+mingw-glib2,6975,350,140,1132,26,21,6983,7465,93.43603482920295,Slovak <gnome-sk-list@gnome.org>
+mingw-gstreamer,1875,5,37,340,2,6,1900,1917,97.80907668231612,Slovak <sk-i18n@lists.linux.sk>
+mingw-gstreamer1,2008,37,65,364,5,9,1987,2110,95.16587677725119,Slovak <sk-i18n@lists.linux.sk>
+mingw-gstreamer1-plugins-bad-free,152,42,3,21,7,1,140,197,77.15736040609137,Slovak <sk-i18n@lists.linux.sk>
+mingw-gstreamer1-plugins-base,887,28,61,186,4,14,804,976,90.8811475409836,Slovak <sk-i18n@lists.linux.sk>
+mingw-gstreamer1-plugins-good,686,57,59,83,8,7,644,802,85.53615960099751,Slovak <sk-i18n@lists.linux.sk>
+mingw-gtk-vnc,8,0,0,3,0,0,8,8,100.0,Slovak <gnome-sk-list@gnome.org>
+mingw-gtk2,12587,803,314,2602,136,46,11078,13704,91.84909515469936,Slovak <gnome-sk-list@gnome.org>
+mingw-gtk3,16535,17,140,3859,8,57,15417,16692,99.05942966690631,slovenčina <>
+mingw-gtksourceview3,320,2,0,105,1,0,327,322,99.37888198757764,slovenčina <>
+mingw-gtkspell3,11,0,0,5,0,0,11,11,100.0,Slovak <sk-i18n@lists.linux.sk>
+mingw-json-glib,307,0,0,47,0,0,301,307,100.0,Slovak <gnome-sk-list@gnome.org>
+mingw-libcharset,303,33,0,45,1,0,326,336,90.17857142857143,Slovak <sk-i18n@lists.linux.sk>
+mingw-libgsf,720,0,0,150,0,0,721,720,100.0,Slovak <gnome-sk-list@gnome.org>
+mingw-libsoup,183,0,0,43,0,0,210,183,100.0,Slovak <gnome-sk-list@gnome.org>
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Slovak (http://www.transifex.com/projects/p/libvirt-glib/language/sk/)
+mingw-p11-kit,476,0,0,81,0,0,409,476,100.0,Slovak (http://www.transifex.com/freedesktop/p11-kit/language/sk/)
+mingw-wxWidgets,4749,86,1556,1137,22,316,4638,6391,74.30762009075262,Slovak <sk-i18n@lists.linux.sk>
+mingw-wxWidgets3,4071,1328,2296,979,386,488,3954,7695,52.90448343079922,Slovak <sk-i18n@lists.linux.sk>
+minuet,412,0,0,159,0,0,397,412,100.0,Slovak <kde-i18n-doc@kde.org>
+modem-manager-gui,1834,0,1469,477,0,90,1790,3303,55.525280048440806,Slovak (Slovakia) (http://www.transifex.com/ethereal/modem-manager-gui/language/sk_SK/)
+moodle,46,0,0,13,0,0,41,46,100.0,i18n@lists.horde.org
+mousepad,1011,0,582,301,0,105,927,1593,63.465160075329564,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+mousetweaks,114,0,0,30,0,0,110,114,100.0,Slovak <gnome-sk-list@gnome.org>
+mozo,43,0,3,21,0,3,41,46,93.47826086956522,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+mtpaint,2365,0,1094,630,0,377,2215,3459,68.37236195432206,Slovak <sk@li.org>
+muffin,3798,0,0,404,0,0,3516,3798,100.0,Slovak <gnome-sk-list@gnome.org>
+multimedia-menus,56,0,0,22,0,0,61,56,100.0,Slovak <fedora-trans-sk@redhat.com>
+mutt,2155,2278,2128,518,449,417,1998,6561,32.84560280445054,Slovak <sk@li.org>
+mutter,831,6,478,138,1,13,807,1315,63.19391634980989,Slovak <gnome-sk-list@gnome.org>
+mutter3.38,840,0,379,135,0,9,816,1219,68.90894175553733,Slovak <gnome-sk-list@gnome.org>
+mypaint,5211,268,902,1151,54,65,4879,6381,81.66431593794076,Slovak <https://hosted.weblate.org/projects/mypaint/mypaint/sk/>
+nano,3449,0,0,624,0,0,3263,3449,100.0,Slovak <sk-i18n@lists.linux.sk>
+nautilus,5525,0,0,1095,0,0,5693,5525,100.0,Slovak <sk-i18n@lists.linux.sk>
+ncmpc,546,76,91,211,26,39,555,713,76.57784011220197,sk <sk@li.org>
+nemiver,1341,0,0,340,0,0,1301,1341,100.0,Slovak <gnome-sk-list@gnome.org>
+nemo-extensions,32,0,0,13,0,0,34,32,100.0,Slovak <sk@li.org>
+neochat,492,104,244,176,37,54,470,840,58.57142857142858,Slovak <kde-i18n-doc@kde.org>
+neovim,11330,1362,930,2354,240,144,11828,13622,83.17427690500661,Slovak <sk-i18n@lists.linux.sk>
+network-manager-applet,2677,404,1224,708,43,107,2748,4305,62.1835075493612,Slovak <gnome-sk-list@gnome.org>
+newsboat,1181,381,376,304,57,62,1187,1938,60.9391124871001,
+newt,4,0,0,4,0,0,4,4,100.0,Slovak <sk-i18n@lists.linux.sk>
+nicotine+,603,4802,0,210,1087,0,620,5405,11.156336725254395,Slovak <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/sk/>
+notification-daemon,33,0,0,11,0,0,32,33,100.0,Slovak <gnome-sk-list@gnome.org>
+nuntius,47,0,0,4,0,0,45,47,100.0,
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,2531,7,0,616,2,0,2230,2538,99.72419227738378,Slovak <kde-i18n-doc@kde.org>
+okular,5240,0,4,1132,0,3,4753,5244,99.92372234935164,Slovak <kde-i18n-doc@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,123,158,100.0,LANGUAGE <LL@li.org>
+onboard,934,0,1384,214,0,296,973,2318,40.29335634167386,Slovak <sk@li.org>
+openbox,378,0,128,85,0,9,339,506,74.70355731225297,Slovak <sk@sk.org>
+openconnect,19,0,6681,4,0,1152,19,6700,0.28358208955223885,Slovak (http://www.transifex.net/projects/p/meego/language/sk/)
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,5518,0,92,1774,0,83,5543,5610,98.36007130124777,slovenčina <>
+p11-kit,476,0,0,81,0,0,409,476,100.0,Slovak (http://www.transifex.com/freedesktop/p11-kit/language/sk/)
+pacman,4552,0,637,794,0,104,4458,5189,87.72403160531894,Slovak (http://www.transifex.com/toofishes/archlinux-pacman/language/sk/)
+palapeli,1513,0,0,181,0,0,1305,1513,100.0,Slovak <kde-i18n-doc@kde.org>
+pam,525,0,0,99,0,0,491,525,100.0,Slovak <https://translate.fedoraproject.org/projects/linux-pam/master/sk/>
+pan,235,1682,1251,82,451,219,253,3168,7.417929292929292,Slovak <sk-i18n@lists.linux.sk>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,16,5,35,8,2,6,16,56,28.57142857142857,Slovak <>
+paprefs,131,0,0,23,0,0,122,131,100.0,Slovak <fedora-trans-sk@redhat.com>
+parley,3850,0,0,753,0,0,3544,3850,100.0,Slovak <kde-sk@linux.sk>
+parole,924,0,164,296,0,5,1007,1088,84.92647058823529,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+parted,3946,280,305,508,31,26,3650,4531,87.08894283822556,Slovak <sk-i18n@lists.linux.sk>
+passwd,329,0,7,56,0,1,314,336,97.91666666666666,Slovak (http://www.transifex.com/projects/p/fedora/language/sk/)
+pastebinit,125,0,70,17,0,12,113,195,64.1025641025641,Slovak <sk@li.org>
+pavucontrol,219,1,17,85,1,1,229,237,92.40506329113924,Slovak <fedora-trans-sk@redhat.com>
+pbuilder,96,0,0,9,0,0,88,96,100.0,slovenčina <debian-l10n-slovak@lists.debian.org>
+pcmanfm,787,95,333,229,23,45,771,1215,64.77366255144032,Slovak <sk-i18n@lists.linux.sk>
+perl-SVK,3437,0,10147,531,0,1185,1413,13584,25.301825677267374,LANGUAGE <LL@li.org>
+pgadmin3,7696,9600,5993,2132,2573,1172,7327,23289,33.04564386620293,Slovak <sk-i18n@linux.sk>
+phonon,327,0,0,59,0,0,282,327,100.0,Slovak <kde-i18n-doc@kde.org>
+phonon-backend-gstreamer,104,0,0,15,0,0,84,104,100.0,Slovak <kde-i18n-doc@kde.org>
+phonon-qt4,0,116,0,0,25,0,0,116,0.0,Slovak <kde-sk@linux.sk>
+phonon-qt4-backend-gstreamer,0,104,0,0,15,0,0,104,0.0,Slovak <kde-sk@linux.sk>
+phosh,48,0,26,16,0,15,44,74,64.86486486486487,Slovak
+php-horde-Horde-Alarm,13,0,0,5,0,0,15,13,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,60,0,0,13,0,0,55,60,100.0,i18n@lists.horde.org
+php-horde-Horde-Browser,66,0,0,6,0,0,52,66,100.0,i18n@lists.horde.org
+php-horde-Horde-Cli,16,0,0,5,0,0,15,16,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,25,0,0,6,0,0,25,25,100.0,i18n@lists.horde.org
+php-horde-Horde-Core,1036,0,0,260,0,0,960,1036,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,352,0,0,82,0,0,340,352,100.0,i18n@lists.horde.org
+php-horde-Horde-Data,53,0,0,8,0,0,46,53,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,42,0,0,12,0,0,54,42,100.0,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,3,4,100.0,i18n@lists.horde.org
+php-horde-Horde-Form,560,0,0,148,0,0,533,560,100.0,i18n@lists.horde.org
+php-horde-Horde-Icalendar,3,0,0,1,0,0,2,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,582,0,0,285,0,0,592,582,100.0,i18n@lists.horde.org
+php-horde-Horde-Imsp,3,0,0,1,0,0,4,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,56,0,0,10,0,0,38,56,100.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,68,15,37,5,2,2,53,120,56.666666666666664,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,7,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,42,0,0,11,0,0,38,42,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,56,47,100.0,i18n@lists.horde.org
+php-horde-Horde-Nls,430,0,0,263,0,0,394,430,100.0,i18n@lists.horde.org
+php-horde-Horde-Perms,17,0,0,5,0,0,17,17,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,30,0,0,9,0,0,28,30,100.0,i18n@lists.horde.org
+php-horde-Horde-Rpc,59,0,0,8,0,0,65,59,100.0,i18n@lists.horde.org
+php-horde-Horde-Share,8,0,0,1,0,0,4,8,100.0,i18n@lists.horde.org
+php-horde-Horde-SyncMl,3,0,0,1,0,0,5,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,64,0,0,4,0,0,57,64,100.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,9,10,100.0,i18n@lists.horde.org
+php-horde-horde,3324,60,86,831,12,12,3127,3470,95.79250720461096,Slovak <vix@vazka.sk>
+php-horde-imp,6749,27,57,1386,4,2,6277,6833,98.77067174008488,Slovak <vix@vazka.sk>
+php-horde-ingo,954,30,23,252,4,5,942,1007,94.73684210526315,i18n@lists.horde.org
+php-horde-kronolith,3581,0,0,779,0,0,3275,3581,100.0,Slovak <vix@vazka.sk>
+php-horde-mnemo,505,0,0,141,0,0,480,505,100.0,Slovak <vix@vazka.sk>
+php-horde-nag,1356,0,0,334,0,0,1300,1356,100.0,Slovak <vix@vazka.sk>
+php-horde-passwd,326,0,0,65,0,0,322,326,100.0,Slovak <vix@vazka.sk>
+php-horde-turba,1789,54,15,427,9,2,1635,1858,96.28632938643703,Slovak <vix@vazka.sk>
+php-horde-wicked,620,46,5,166,7,2,582,671,92.39940387481371,<i18n@lists.horde.org>
+php-phpmyadmin-sql-parser5,223,29,16,42,6,2,196,268,83.2089552238806,Slovak <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/sk/>
+picard,1327,0,9713,669,0,2413,1340,11040,12.019927536231883,Slovak (http://www.transifex.com/musicbrainz/musicbrainz/language/sk/)
+picmi,197,2,1,114,1,1,190,200,98.5,Slovak <kde-sk@linux.sk>
+pidgin,15047,0,788,3299,0,158,14465,15835,95.02368171771393,Slovak (http://www.transifex.com/pidgin/pidgin/language/sk/)
+pidgin-birthday-reminder,289,0,0,66,0,0,314,289,100.0,Slovak (https://www.transifex.com/kgraefe/teams/58292/sk/)
+pidgin-guifications,415,58,32,171,15,6,374,505,82.17821782178217,Slovak
+pidgin-otr,755,0,3,119,0,1,693,758,99.6042216358839,Slovak <sk-i18n@lists.linux.sk>
+pim-data-exporter,813,0,0,220,0,0,741,813,100.0,Slovak <kde-sk@linux.sk>
+pim-sieve-editor,441,0,0,117,0,0,409,441,100.0,Slovak <kde-sk@linux.sk>
+pinta,1746,0,0,537,0,0,1647,1746,100.0,Slovak <sk@li.org>
+pioneers,2520,0,484,703,0,87,2293,3004,83.88814913448735,
+pipewire,160,24,463,73,11,24,160,647,24.72952086553323,Slovak <https://translate.fedoraproject.org/projects/pipewire/pipewire/sk/>
+pitivi,2300,44,9,492,7,3,2322,2353,97.74755631109223,Slovak <gnome-sk-list@gnome.org>
+plank,170,0,19,45,0,5,177,189,89.94708994708994,Slovak <sk@li.org>
+plasma-breeze,243,0,0,91,0,0,248,243,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-browser-integration,701,0,0,84,0,0,631,701,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-desktop,8037,113,0,1595,2,0,7302,8150,98.61349693251533,Slovak <kde-i18n-doc@kde.org>
+plasma-discover,1982,0,0,529,0,0,1968,1982,100.0,Slovak <sk-i18n@lists.linux.sk>
+plasma-disks,215,0,0,23,0,0,185,215,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-drkonqi,4052,0,0,351,0,0,3504,4052,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-firewall,402,0,0,143,0,0,415,402,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-integration,58,0,0,21,0,0,54,58,100.0,Slovak <kde-sk@linux.sk>
+plasma-mediacenter,172,0,0,87,0,0,178,172,100.0,Slovak <kde-sk@linux.sk>
+plasma-milou,10,0,0,4,0,0,10,10,100.0,Slovak <kde-sk@linux.sk>
+plasma-nm,5317,0,0,1301,0,0,5026,5317,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-oxygen,805,0,0,293,0,0,798,805,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-pa,235,0,0,84,0,0,226,235,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-pass,26,0,4,5,0,1,21,30,86.66666666666667,Slovak <kde-sk@linux.sk>
+plasma-pk-updates,2081,0,0,400,0,0,1916,2081,100.0,Slovak <kde-sk@linux.sk>
+plasma-sdk,750,23,65,234,7,18,731,838,89.49880668257757,Slovak <kde-i18n-doc@kde.org>
+plasma-systemmonitor,529,7,0,176,2,0,546,536,98.69402985074626,Slovak <kde-i18n-doc@kde.org>
+plasma-systemsettings,210,8,0,54,2,0,211,218,96.3302752293578,Slovak <kde-i18n-doc@kde.org>
+plasma-thunderbolt,178,0,0,42,0,0,164,178,100.0,Slovak <kde-sk@linux.sk>
+plasma-vault,874,0,0,102,0,0,732,874,100.0,Slovak <kde-i18n-doc@kde.org>
+plasma-workspace,11558,0,0,2951,0,0,11046,11558,100.0,Slovak <kde-i18n-doc@kde.org>
+playonlinux,1949,0,779,400,0,49,1707,2728,71.4442815249267,sk_SK.UTF-8 <LL@li.org>
+pluma,5487,0,7626,1183,0,907,5289,13113,41.843971631205676,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+pluma-plugins,188,0,1210,20,0,123,179,1398,13.447782546494993,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+plymouth,14,0,2,5,0,2,15,16,87.5,Slovak
+plymouth-kcm,112,0,0,24,0,0,98,112,100.0,Slovak <kde-i18n-doc@kde.org>
+pmount,723,0,0,63,0,0,644,723,100.0,Slovak <sk@li.org>
+poedit,2916,0,0,650,0,0,2877,2916,100.0,Slovak
+pogo,1,0,575,1,0,100,6,576,0.1736111111111111,Slovak <sk@li.org>
+polari,867,0,0,199,0,0,980,867,100.0,Slovak <gnome-sk-list@gnome.org>
+policycoreutils,1827,46,10298,328,12,1436,1647,12171,15.011091939857039,Slovak
+polkit,228,0,0,26,0,0,245,228,100.0,Slovak <gnome-sk-list@gnome.org>
+polkit-gnome,94,0,0,16,0,0,84,94,100.0,Slovak <gnome-sk-list@gnome.org>
+polkit-kde,95,0,0,30,0,0,97,95,100.0,Slovak <kde-i18n-doc@kde.org>
+popt,8,5,71,2,1,28,8,84,9.523809523809524,Slovak <sk-i18n@rak.isternet.sk>
+powerdevil,642,0,0,139,0,0,598,642,100.0,Slovak <kde-sk@linux.sk>
+publican,523,0,4854,39,0,575,460,5377,9.726613353170913,Slovak <sk-i18n@lists.linux.sk>
+pulseaudio,1243,0,2283,364,0,162,1190,3526,35.25241066364152,Slovak <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/sk/>
+pulseeffects,768,64,12,349,30,8,759,844,90.99526066350711,
+pychess,658,0,6934,218,0,1250,610,7592,8.667017913593256,Slovak (http://www.transifex.com/gbtami/pychess/language/sk/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,1594,99,4,177,5,1,1431,1697,93.9304655274013,Slovak <https://translate.fedoraproject.org/projects/pykickstart/master/sk/>
+python-SecretStorage,59,0,0,9,0,0,51,59,100.0,Slovak <gnome-sk-list@gnome.org>
+python-apt,544,0,0,118,0,0,555,544,100.0,Slovak <debian-l10n-slovak@lists.debian.org>
+python-blivet,558,0,0,76,0,0,556,558,100.0,Slovak <https://translate.fedoraproject.org/projects/blivet/blivet-master/sk/>
+python-caja,6,0,0,2,0,0,6,6,100.0,Slovak (https://www.transifex.com/mate/teams/13566/sk/)
+python-django,3324,0,431,811,0,47,3565,3755,88.52197070572569,Slovak (http://www.transifex.com/django/django/language/sk/)
+python-django-contrib-comments,250,0,0,61,0,0,287,250,100.0,Slovak (http://www.transifex.com/django/django-contrib-comments/language/sk/)
+python-django-debug-toolbar,355,0,2,136,0,1,392,357,99.43977591036415,Slovak (http://www.transifex.com/projects/p/django-debug-toolbar/language/sk/)
+python-django-filter,85,0,0,41,0,0,80,85,100.0,LANGUAGE <LL@li.org>
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Slovak (http://www.transifex.com/projects/p/django-formtools/language/sk/)
+python-django-rest-framework,473,0,229,70,0,55,488,702,67.37891737891738,Slovak (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/sk/)
+python-django-reversion,117,0,0,21,0,0,108,117,100.0,Slovak <LL@li.org>
+python-django-robots,32,0,180,13,0,5,30,212,15.09433962264151,Slovak (http://www.transifex.com/projects/p/django-robots/language/sk/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Slovak
+python-flask-admin,360,0,7,108,0,4,366,367,98.09264305177112,Slovak
+python-formencode,532,70,211,76,8,31,422,813,65.43665436654366,sk <LL@li.org>
+python-meh,109,0,0,23,0,0,94,109,100.0,Slovak
+python-nikola,93,0,1,43,0,1,99,94,98.93617021276596,Slovak (http://www.transifex.com/ralsina/nikola/language/sk/)
+python-simpleline,42,0,0,16,0,0,39,42,100.0,Slovak
+python-sphinx,1859,0,2722,412,0,296,1728,4581,40.580659244706396,Slovak (http://www.transifex.com/sphinx-doc/sphinx-1/language/sk/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Slovak (https://www.transifex.com/sphinx-doc/teams/36659/sk/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Slovak (https://www.transifex.com/sphinx-doc/teams/36659/sk/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Slovak (https://www.transifex.com/sphinx-doc/teams/36659/sk/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Slovak (https://www.transifex.com/sphinx-doc/teams/36659/sk/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Slovak (https://www.transifex.com/sphinx-doc/teams/36659/sk/)
+python-wtforms,178,0,24,33,0,3,183,202,88.11881188118812,sk <LL@li.org>
+python-wxpython4,4071,1328,2296,979,386,488,3954,7695,52.90448343079922,Slovak <sk-i18n@lists.linux.sk>
+quadrapassel,440,0,0,80,0,0,396,440,100.0,Slovak <gnome-sk-list@gnome.org>
+quodlibet,7680,1,5,1646,1,1,7657,7686,99.92193598750976,Slovak <https://hosted.weblate.org/projects/quodlibet/quodlibet/sk/>
+rabbitvcs,672,0,852,249,0,223,622,1524,44.09448818897638,Slovak <sk@li.org>
+rapid-photo-downloader,833,77,6826,211,5,652,763,7736,10.767838676318512,Slovak <sk@li.org>
+realmd,0,0,789,0,0,127,0,789,0.0,Slovak (http://www.transifex.com/freedesktop/realmd/language/sk/)
+recode,423,333,5,64,12,1,441,761,55.584756898817346,Slovak <sk-i18n@lists.linux.sk>
+redhat-menus,261,0,0,86,0,0,256,261,100.0,Slovak <sk-i18n@lists.linux.sk>
+rednotebook,478,0,669,116,0,124,431,1147,41.67393199651264,Slovak <sk@li.org>
+rekonq,2202,0,0,593,0,0,2088,2202,100.0,Slovak <kde-sk@linux.sk>
+remmina,5076,0,58,966,0,1,5118,5134,98.87027658745617,Slovak <https://hosted.weblate.org/projects/remmina/remmina/sk/>
+renameutils,9,179,77,7,31,16,8,265,3.3962264150943398,Slovak <sk-i18n@rak.isternet.sk>
+retrace-server,433,0,0,56,0,0,369,433,100.0,Slovak <https://translate.fedoraproject.org/projects/abrt/retrace-server/sk/>
+rhythmbox,3746,0,0,968,0,0,3856,3746,100.0,slovenčina <>
+rhythmbox-alternative-toolbar,294,0,0,60,0,0,317,294,100.0,Slovak <sk@li.org>
+ristretto,628,0,11,198,0,3,632,639,98.27856025039124,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+rkward,899,264,34894,628,160,3264,903,36057,2.493274537537787,Slovak <kde-sk@linux.sk>
+rocs,1452,0,0,302,0,0,1248,1452,100.0,Slovak <kde-sk@linux.sk>
+rpm,3036,169,1431,600,34,256,3030,4636,65.48748921484038,Slovak (http://www.transifex.com/rpm-team/rpm/language/sk/)
+rpm-ostree,2,0,1439,1,0,223,1,1441,0.13879250520471895,Slovak
+rsibreak,137,170,868,53,50,55,126,1175,11.659574468085106,Slovak <kde-sk@linux.sk>
+rt,3395,0,8448,1066,0,1655,3245,11843,28.666722958709784,Slovak <sk@li.org>
+rygel,1641,0,0,304,0,0,1764,1641,100.0,Slovak <gnome-sk-list@gnome.org>
+sagator,147,0,0,52,0,0,141,147,100.0,Slovak <sk-i18n@linux.sk>
+sawfish,2370,1501,2572,539,249,194,2131,6443,36.78410678255471,Slovak <sk-i18n@linux.sk>
+scratch,834,4,632,336,2,288,839,1470,56.734693877551024,LANGUAGE <LL@li.org>
+sdcv,43,59,45,9,9,9,43,147,29.25170068027211,Slovak <sk-i18n@lists.linux.sk>
+sddm-kcm,185,0,0,45,0,0,174,185,100.0,Slovak <kde-i18n-doc@kde.org>
+seahorse,2512,8,131,599,2,13,2354,2651,94.7566955865711,Slovak <gnome-sk-list@gnome.org>
+seahorse-caja,421,0,0,110,0,0,440,421,100.0,Slovak <gnome-sk-list@gnome.org>
+seahorse-nautilus,421,0,0,110,0,0,440,421,100.0,Slovak <gnome-sk-list@gnome.org>
+sed,830,0,0,146,0,0,870,830,100.0,Slovak <sk-i18n@lists.linux.sk>
+setroubleshoot,583,0,52,159,0,8,537,635,91.81102362204724,Slovak (http://www.transifex.com/projects/p/fedora/language/sk/)
+setroubleshoot-plugins,162,0,6084,17,0,209,128,6246,2.5936599423631126,Slovak
+setuptool,55,0,0,14,0,0,55,55,100.0,Slovak <fedora-trans-sk@redhat.com>
+shadow-utils,2372,996,1094,384,133,133,2402,4462,53.16001792917974,Slovak <sk-i18n@lists.linux.sk>
+shared-mime-info,1917,0,141,750,0,45,2034,2058,93.14868804664724,Slovak (http://www.transifex.com/freedesktop/shared-mime-info/language/sk/)
+shotwell,4550,406,1837,1021,48,183,5070,6793,66.98071544236714,slovenčina <gnome-sk-list@gnome.org>
+shutter,3093,0,0,606,0,0,2990,3093,100.0,Slovak <sk-i18n@lists.linux.sk>
+simple-ccsm,141,10,11,60,2,2,138,162,87.03703703703704,Slovak <sk@li.org>
+simple-scan,1328,0,1021,268,0,45,1304,2349,56.534695615155385,slovenčina <>
+skanlite,183,0,0,62,0,0,174,183,100.0,Slovak <kde-i18n-doc@kde.org>
+skrooge,1061,4071,6926,685,1134,660,1059,12058,8.799137502073313,Slovak <kde-sk@linux.sk>
+skychart,886,68,5594,301,7,1570,793,6548,13.530849114233353,Slovenský <sk@li.org>
+slick-greeter,211,0,0,47,0,0,191,211,100.0,Slovak <sk@li.org>
+smb4k,5899,109,428,653,15,14,5152,6436,91.65630826600373,Slovak <kde-sk@linux.sk>
+snapper,1095,0,0,252,0,0,1081,1095,100.0,Slovak <https://l10n.opensuse.org/projects/snapper/master/sk/>
+solaar,0,0,0,0,0,0,0,0,0.0,none
+sos,54,33,35,11,7,12,56,122,44.26229508196721,Slovak <fedora-trans-sk@redhat.com>
+sound-juicer,1254,0,0,226,0,0,1324,1254,100.0,slovenčina <>
+soundconverter,256,95,156,103,9,17,250,507,50.4930966469428,Slovak <sk@li.org>
+soundtracker,1103,928,1708,324,271,305,1067,3739,29.499866274404923,Slovak <sk-i18n@lists.linux.sk>
+spacefm,453,8,8261,171,3,1394,418,8722,5.193762898417794,Slovak (http://www.transifex.com/projects/p/spacefm/language/sk/)
+sparkleshare,159,0,243,47,0,40,143,402,39.55223880597015,
+spectacle,897,0,0,186,0,0,906,897,100.0,Slovak <kde-i18n-doc@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Slovak (http://www.transifex.com/heldercorreia/speedcrunch/language/sk/)
+squirrelmail,4123,1634,1121,1004,194,153,3971,6878,59.94475138121547,Slovak <sk-i18n@lists.linux.sk>
+stardict,2193,363,479,434,68,91,2035,3035,72.25700164744646,<sk-i18n@lists.linux.sk>
+stellarium,145097,0,0,36982,0,0,127672,145097,100.0,Slovak (https://www.transifex.com/stellarium/teams/80998/sk/)
+step,2009,98,1710,800,78,100,2355,3817,52.6329578202777,Slovak <kde-i18n-doc@kde.org>
+sudo,1160,0,2351,179,0,348,1211,3511,33.039020222158925,Slovak <sk-i18n@lists.linux.sk>
+sugar,517,49,1739,174,3,352,470,2305,22.429501084598698,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,29,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,299,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,1,865,0,1,168,0,866,0.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,133,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,57,66,100.0,LANGUAGE <LL@li.org>
+sugar-colordeducto,109,0,0,23,0,0,97,109,100.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,89,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,246,0,12,58,0,5,230,258,95.34883720930233,LANGUAGE <LL@li.org>
+sugar-flip,17,0,0,7,0,0,15,17,100.0,LANGUAGE <LL@li.org>
+sugar-flipsticks,8,0,143,7,0,38,8,151,5.298013245033113,LANGUAGE <LL@li.org>
+sugar-fototoon,3,0,136,3,0,45,3,139,2.158273381294964,LANGUAGE <LL@li.org>
+sugar-implode,3,0,74,3,0,17,3,77,3.896103896103896,LANGUAGE <LL@li.org>
+sugar-log,41,4,53,13,1,7,36,98,41.83673469387755,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,6,0,149,4,0,69,4,155,3.870967741935484,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,142,142,100.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,109,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,3,0,45,3,0,25,3,48,6.25,LANGUAGE <LL@li.org>
+sugar-pippy,16,35,223,9,4,53,16,274,5.839416058394161,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,125,137,100.0,LANGUAGE <LL@li.org>
+sugar-record,3,0,59,3,0,21,3,62,4.838709677419355,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,201,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,71,0,0,17,0,0,62,71,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,22,0,99,8,0,18,17,121,18.181818181818183,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,161,0,52,112,0,11,182,213,75.5868544600939,LANGUAGE <LL@li.org>
+sugar-turtleart,4,0,1455,2,0,433,3,1459,0.2741603838245374,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,599,0,0,127,0,0,543,599,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,122,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,26,29,100.0,LANGUAGE <LL@li.org>
+supertux,1708,0,1155,428,0,467,1591,2863,59.65770171149144,Slovak (http://www.transifex.com/arctic-games/supertux/language/sk/)
+supertuxkart,3944,0,1974,882,0,222,3930,5918,66.64413653261236,Slovak (http://www.transifex.com/supertuxkart/supertuxkart/language/sk/)
+sushi,54,0,0,14,0,0,54,54,100.0,Slovak <gnome-sk-list@gnome.org>
+svgpart,22,0,0,7,0,0,26,22,100.0,Slovak <kde-sk@linux.sk>
+sweeper,228,0,0,50,0,0,204,228,100.0,Slovak <kde-i18n-doc@kde.org>
+swell-foop,340,0,0,72,0,0,338,340,100.0,Slovak <gnome-sk-list@gnome.org>
+switchboard,16,0,108,8,0,18,18,124,12.903225806451612,Slovak <sk@li.org>
+switchboard-plug-a11y,86,14,80,25,5,17,80,180,47.77777777777778,LANGUAGE <LL@li.org>
+switchboard-plug-about,383,0,0,85,0,0,370,383,100.0,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/sk/>
+switchboard-plug-applications,209,0,18,61,0,2,217,227,92.07048458149781,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/sk/>
+switchboard-plug-bluetooth,9,0,197,9,0,44,9,206,4.368932038834951,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/sk/>
+switchboard-plug-display,160,0,22,59,0,3,176,182,87.91208791208791,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/sk/>
+switchboard-plug-keyboard,631,0,5,213,0,1,667,636,99.21383647798741,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/sk/>
+switchboard-plug-mouse-touchpad,282,0,0,92,0,0,277,282,100.0,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/sk/>
+switchboard-plug-networking,522,0,0,145,0,0,517,522,100.0,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/sk/>
+switchboard-plug-notifications,129,2,11,17,1,3,106,142,90.84507042253522,Slovak <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/sk/>
+switchboard-plug-onlineaccounts,322,0,0,76,0,0,315,322,100.0,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/sk/>
+switchboard-plug-pantheon-shell,319,4,13,104,4,2,337,336,94.94047619047619,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/sk/>
+switchboard-plug-printers,144,53,165,76,17,51,144,362,39.77900552486188,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/sk/>
+switchboard-plug-sharing,71,2,68,23,1,8,68,141,50.35460992907801,Slovak <sk@li.org>
+switchboard-plug-sound,173,0,20,55,0,2,174,193,89.63730569948186,Slovak <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/sk/>
+switchdesk,16,87,19,3,10,6,19,122,13.114754098360656,Slovak <sk-i18n@lists.linux.sk>
+sylpheed,3899,2020,1295,1077,539,181,3805,7214,54.04768505683394,Slovak <sk-i18n@lists.linux.sk>
+synapse,746,0,110,208,0,26,754,856,87.14953271028037,Slovak <sk@li.org>
+syncevolution,327,0,792,55,0,105,296,1119,29.2225201072386,slovak <sk-i18n@lists.linux.sk>
+synfig,190,0,9300,107,0,2215,175,9490,2.0021074815595363,Slovak (http://www.transifex.com/morevnaproject/synfig/language/sk/)
+synfigstudio,3392,0,10512,1093,0,2173,3329,13904,24.395857307249713,Slovak (http://www.transifex.com/morevnaproject/synfig/language/sk/)
+sysprof,456,13,365,155,5,57,475,834,54.67625899280576,Slovak <gnome-sk-list@gnome.org>
+sysstat,788,0,35,80,0,1,795,823,95.74726609963548,Slovak <sk-i18n@lists.linux.sk>
+system-config-language,197,17,1,29,1,1,196,215,91.62790697674419,Slovak <fedora-trans-sk@redhat.com>
+system-config-printer,3377,44,44,888,21,12,3218,3465,97.46031746031746,Slovak <https://translate.fedoraproject.org/projects/system-config-printer/master/sk/>
+system-config-rootpassword,116,0,0,19,0,0,96,116,100.0,Slovak <sk-i18n@lists.linux.sk>
+system-switch-java,81,0,0,11,0,0,71,81,100.0,Slovak <fedora-trans-sk@redhat.com>
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Slovak <fedora-trans-sk@redhat.com>
+systemd,372,401,733,47,43,99,360,1506,24.701195219123505,Slovak <https://translate.fedoraproject.org/projects/systemd/master/sk/>
+tali,438,0,0,100,0,0,423,438,100.0,Slovak <gnome-sk-list@gnome.org>
+tar,567,795,2296,117,112,365,620,3658,15.500273373428103,Slovak <sk-i18n@lists.linux.sk>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+tellico,5704,124,34,1221,31,10,5048,5862,97.30467417263733,Slovak <kde-sk@linux.sk>
+terminator,1228,0,222,382,0,45,1138,1450,84.6896551724138,Slovak (https://www.transifex.com/terminator/teams/109338/sk/)
+texlive,0,0,0,0,0,0,0,0,0.0,
+thonny,1813,0,0,421,0,0,1694,1813,100.0,
+thunar-archive-plugin,88,0,0,15,0,0,93,88,100.0,Slovak (http://www.transifex.com/xfce/thunar-plugins/language/sk/)
+thunar-media-tags-plugin,156,0,0,58,0,0,149,156,100.0,Slovak (http://www.transifex.com/xfce/thunar-plugins/language/sk/)
+thunar-vcs-plugin,595,0,0,320,0,0,746,595,100.0,Slovak (http://www.transifex.com/xfce/thunar-plugins/language/sk/)
+thunar-volman,484,0,0,115,0,0,465,484,100.0,Slovak (http://www.transifex.com/xfce/thunar-volman/language/sk/)
+tigervnc,82,62,656,33,13,109,90,800,10.25,Slovak <sk@li.org>
+tilda,104,21,542,41,10,135,94,667,15.592203898050974,Slovak <sk@li.org>
+timeshift,0,0,3005,0,0,599,0,3005,0.0,Slovak <sk@li.org>
+tomboy,3278,0,0,471,0,0,3216,3278,100.0,Slovak <gnome-sk-list@gnome.org>
+totem,1372,0,0,385,0,0,1382,1372,100.0,Slovak <gnome-sk-list@gnome.org>
+totem-pl-parser,29,0,0,8,0,0,25,29,100.0,Slovak <gnome-sk-list@gnome.org>
+trackballs,695,111,825,234,47,219,654,1631,42.61189454322501,Slovak <LL@li.org>
+tracker,583,0,0,116,0,0,612,583,100.0,Slovak <sk-i18n@lists.linux.sk>
+tracker-miners,1810,0,0,289,0,0,1869,1810,100.0,Slovak <sk-i18n@lists.linux.sk>
+transmageddon,327,0,0,70,0,0,339,327,100.0,slovenčina <gnome-sk-list@gnome.org>
+transmission,1615,0,383,462,0,61,1819,1998,80.83083083083083,Slovak (https://www.transifex.com/transmissionbt/teams/33778/sk/)
+trojita,3481,592,681,718,149,120,3400,4754,73.22254943205722,Slovak <kde-i18n-doc@kde.org>
+tumbler,241,0,0,39,0,0,256,241,100.0,Slovak (http://www.transifex.com/xfce/tumbler/language/sk/)
+tuxmath,1042,87,326,187,17,45,915,1455,71.61512027491409,sk <l10n@soit.sk>
+tuxpaint,1087,546,115,243,47,28,1008,1748,62.18535469107551,Slovak <sk-i18n@lists.linux.sk>
+tuxpaint-stamps,2828,122,299,725,39,41,2022,3249,87.04216682056017,LANGUAGE <LL@li.org>
+tvtime,1222,0,0,246,0,0,1301,1222,100.0,Slovak
+udiskie,374,30,209,95,7,20,365,613,61.011419249592166,Slovak
+udisks2,2158,0,29,512,0,5,2001,2187,98.67398262459992,Slovak
+ufw,758,0,121,175,0,6,798,879,86.23435722411831,Slovak <sk-i18n@lists.linux.sk>
+ufw-kde,815,0,0,190,0,0,758,815,100.0,Slovak <kde-sk@linux.sk>
+uget,960,0,125,342,0,20,965,1085,88.47926267281106,Slovak (Slovakia) (http://www.transifex.com/uget/uget/language/sk_SK/)
+umbrello,5372,1056,72,1467,244,16,5044,6500,82.64615384615385,Slovak <kde-sk@linux.sk>
+urjtag,1164,1507,2149,157,213,313,1137,4820,24.149377593360995,Slovak <sk-i18n@lists.linux.sk>
+virtualplanet,337,24,130,179,12,64,312,491,68.63543788187373,
+visualboyadvance-m,0,0,4786,0,0,1790,0,4786,0.0,Slovak (Slovakia) (http://www.transifex.com/bgk/vba-m/language/sk_SK/)
+volume_key,34,0,729,12,0,142,34,763,4.456094364351245,Slovak (http://www.transifex.com/projects/p/fedora/language/sk/)
+vorbis-tools,1026,867,1903,185,118,137,1049,3796,27.02845100105374,Slovak <sk-i18n@lists.linux.sk>
+vte,80,0,0,13,0,0,83,80,100.0,Slovak <gnome-sk-list@gnome.org>
+vte291,46,0,0,9,0,0,44,46,100.0,Slovak <gnome-sk-list@gnome.org>
+warmux,1621,386,737,289,76,107,1752,2744,59.07434402332361,zrebec <zrebec@zrebec.sk>
+warzone2100,1788,0,12750,458,0,2630,1739,14538,12.29880313660751,Slovak
+wdiff,103,764,126,16,106,28,99,993,10.372608257804632,Slovak <sk-i18n@rak.isternet.sk>
+wesnoth,205124,32527,61632,13989,1411,3078,179154,299283,68.53847361861516,none
+wget,3859,128,84,598,28,25,3971,4071,94.7924342913289,Slovak <sk-i18n@rak.isternet.sk>
+wget2,448,1039,1003,105,190,166,434,2490,17.991967871485944,Slovak <sk-i18n@lists.linux.sk>
+widelands,40189,0,22231,3979,0,1638,34420,62420,64.3848125600769,Slovak (http://www.transifex.com/widelands/widelands/language/sk/)
+wine,2003,1662,15358,862,520,2840,1910,19023,10.529359196761815,Slovak
+wingpanel,16,0,3,3,0,1,16,19,84.21052631578947,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,407,1,7,113,1,1,410,415,98.0722891566265,Slovak <https://l10n.elementary.io/projects/wingpanel/applications-menu/sk/>
+wingpanel-indicator-bluetooth,78,0,0,29,0,0,74,78,100.0,Slovak <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/sk/>
+wingpanel-indicator-datetime,147,13,17,30,2,4,140,177,83.05084745762711,Slovak <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/sk/>
+wingpanel-indicator-keyboard,2,11,40,1,4,11,2,53,3.7735849056603774,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,117,0,14,39,0,2,122,131,89.31297709923665,Slovak <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-network/sk/>
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,96,0,5,28,0,2,100,101,95.04950495049505,Slovak <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/sk/>
+wingpanel-indicator-power,185,0,6,51,0,1,220,191,96.8586387434555,Slovak <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-power/sk/>
+wingpanel-indicator-session,48,9,51,14,3,10,32,108,44.44444444444444,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,87,0,9,22,0,1,96,96,90.625,Slovak <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-sound/sk/>
+wireshark,79,0,179,4,0,12,64,258,30.620155038759687,Slovak (https://www.transifex.com/wireshark/teams/36457/sk/)
+workrave,1373,0,25,271,0,3,1216,1398,98.21173104434907,Slovak
+wxGTK,3928,1333,2247,954,397,540,3817,7508,52.31752797016516,Slovak <sk-i18n@lists.linux.sk>
+wxGTK3,4071,1328,2296,979,386,488,3954,7695,52.90448343079922,Slovak <sk-i18n@lists.linux.sk>
+xapps,50,0,23,30,0,6,46,73,68.4931506849315,Slovak <sk@li.org>
+xarchiver,900,258,56,243,38,22,888,1214,74.13509060955519,Slovak <sk-i18n@lists.linux.sk>
+xca,3523,0,0,876,0,0,3113,3523,100.0,slovenčina <linux@slavino.sk>
+xchm,139,31,64,58,13,25,138,234,59.401709401709404,Slovak <vvasil@post.sk>
+xdg-desktop-portal,221,0,0,32,0,0,188,221,100.0,Slovak <gnome-sk-list@gnome.org>
+xdg-desktop-portal-gtk,239,1,0,63,1,0,226,240,99.58333333333333,Slovak <gnome-sk-list@gnome.org>
+xdg-desktop-portal-kde,134,0,4,37,0,2,123,138,97.10144927536231,Slovak <kde-i18n-doc@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Slovak <sk-i18n@lists.linux.sk>
+xdg-user-dirs-gtk,81,0,0,11,0,0,71,81,100.0,Slovak <gnome-sk-list@gnome.org>
+xed,3719,0,41,910,0,14,3528,3760,98.90957446808511,Slovak (http://www.transifex.com/projects/p/MATE/language/sk/)
+xfburn,1430,0,137,308,0,12,1339,1567,91.25717932354817,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+xfce4-appfinder,430,0,3,83,0,1,370,433,99.30715935334872,Slovak (http://www.transifex.com/xfce/xfce4-appfinder/language/sk/)
+xfce4-battery-plugin,147,0,0,42,0,0,176,147,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-calculator-plugin,42,0,0,17,0,0,43,42,100.0,Slovak (https://www.transifex.com/xfce/teams/16840/sk/)
+xfce4-clipman-plugin,478,0,0,72,0,0,398,478,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-cpufreq-plugin,167,0,0,47,0,0,163,167,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-cpugraph-plugin,181,0,0,59,0,0,192,181,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-datetime-plugin,52,0,0,19,0,0,55,52,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-dict,526,0,3,120,0,1,491,529,99.4328922495274,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,177,181,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-eyes-plugin,16,0,0,5,0,0,14,16,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,80,71,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-genmon-plugin,85,0,15,19,0,7,85,100,85.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-mailwatch-plugin,689,0,0,112,0,0,707,689,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-mount-plugin,383,0,0,57,0,0,359,383,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-mpc-plugin,78,0,0,24,0,0,85,78,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-netload-plugin,91,0,0,35,0,0,88,91,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-notes-plugin,163,0,0,57,0,0,155,163,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-notifyd,273,0,23,79,0,2,262,296,92.22972972972973,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+xfce4-panel,1847,0,0,457,0,0,1715,1847,100.0,Slovak (https://www.transifex.com/xfce/teams/16840/sk/)
+xfce4-panel-profiles,68,0,31,25,0,1,68,99,68.68686868686868,Slovak (https://www.transifex.com/xfce/teams/16840/sk/)
+xfce4-places-plugin,162,0,0,47,0,0,147,162,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-power-manager,1064,0,0,214,0,0,1013,1064,100.0,Slovak (http://www.transifex.com/xfce/xfce4-power-manager/language/sk/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,151,148,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-screensaver,315,0,381,86,0,66,282,696,45.258620689655174,Slovak (https://www.transifex.com/xfce/teams/16840/sk/)
+xfce4-screenshooter,273,0,255,58,0,24,230,528,51.70454545454546,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+xfce4-sensors-plugin,433,0,0,87,0,0,435,433,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-session,756,0,0,163,0,0,711,756,100.0,Slovak (http://www.transifex.com/xfce/xfce4-session/language/sk/)
+xfce4-settings,2418,0,8,567,0,2,2193,2426,99.67023907666942,Slovak (https://www.transifex.com/xfce/teams/16840/sk/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,25,22,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,112,129,100.0,Slovak (https://www.transifex.com/xfce/teams/16840/sk/)
+xfce4-systemload-plugin,95,0,0,26,0,0,126,95,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-taskmanager,249,0,0,86,0,0,232,249,100.0,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+xfce4-terminal,1374,0,348,357,0,45,1301,1722,79.79094076655052,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+xfce4-time-out-plugin,106,0,0,38,0,0,116,106,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-timer-plugin,135,0,0,48,0,0,127,135,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-verve-plugin,87,0,0,26,0,0,90,87,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,63,67,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-weather-plugin,755,0,2920,261,0,75,768,3675,20.54421768707483,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfce4-whiskermenu-plugin,387,0,0,124,0,0,326,387,100.0,Slovak (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/sk/)
+xfce4-xkb-plugin,57,0,0,22,0,0,57,57,100.0,Slovak (http://www.transifex.com/xfce/xfce-panel-plugins/language/sk/)
+xfconf,454,0,4,67,0,1,421,458,99.12663755458514,Slovak (http://www.transifex.com/xfce/xfconf/language/sk/)
+xfdesktop,1036,0,5,245,0,1,957,1041,99.51969260326608,Slovak (http://www.transifex.com/xfce/xfdesktop/language/sk/)
+xfmpc,173,0,2,76,0,2,188,175,98.85714285714286,Slovak (http://www.transifex.com/xfce/xfce-apps/language/sk/)
+xfwm4,632,0,17,170,0,3,607,649,97.38058551617874,Slovak (http://www.transifex.com/xfce/xfwm4/language/sk/)
+xiphos,3106,134,1741,988,29,123,3063,4981,62.356956434450915,
+xkeyboard-config,825,1748,1359,262,550,397,802,3932,20.98168870803662,Slovak <sk-i18n@lists.linux.sk>
+xlog,1335,133,42,319,12,9,1245,1510,88.41059602649007,slovak <sk-i18n@lists.linux.sk>
+xmlcopyeditor,982,301,403,322,84,84,949,1686,58.244365361803084,Viliam Búr <viliam@bur.sk>
+xmms,2930,230,283,938,53,54,2830,3443,85.10020331106594,Slovak <pcernak@naex.sk>
+xmoto,3698,103,45,801,15,9,3386,3846,96.15184607384295,<sk@li.org>
+xpad,170,0,243,45,0,82,177,413,41.162227602905574,Slovak <sk-i18n@lists.linux.sk>
+xreader,1620,0,0,379,0,0,1529,1620,100.0,Slovak (http://www.transifex.com/mate/MATE/language/sk/)
+xsane,3147,20,57,709,1,18,3085,3224,97.61166253101737,Slovak <sk-i18n@lists.linux.sk>
+xscreensaver,217,1338,10945,170,583,1257,219,12500,1.736,Slovak <sk-i18n@lists.linux.sk>
+yad,1231,81,17,283,12,4,1170,1329,92.6260346124906,slovenčina <debian-l10n-slovak@lists.debian.org>
+yakuake,1674,0,0,238,0,0,1395,1674,100.0,Slovak <kde-i18n-doc@kde.org>
+yelp,348,0,0,73,0,0,310,348,100.0,Slovak <gnome-sk-list@gnome.org>
+yelp-xsl,88,0,0,64,0,0,89,88,100.0,Slovak <gnome-sk-list@gnome.org>
+zabbix,10933,42,5806,2480,6,1153,11092,16781,65.15106370299743,Zabbix translation team
+zanshin,21,346,140,13,82,32,22,507,4.142011834319527,Slovak <kde-sk@linux.sk>
+zenity,896,0,0,199,0,0,920,896,100.0,slovenčina <>
+zypper,9243,0,0,1249,0,0,8876,9243,100.0,Slovak <https://l10n.opensuse.org/projects/zypper/master/sk/>

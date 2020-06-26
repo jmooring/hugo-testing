@@ -1,0 +1,65 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,2689,344,2361,925,113,675,3040,5394,49.85168705969596,unknown <email@address>
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/fedora/language/es_MX/)
+atril,93,0,2232,37,0,475,165,2325,4.0,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+audacious,878,0,33,363,0,9,1028,911,96.37760702524699,Spanish (Mexico) (http://app.transifex.com/audacious/audacious/language/es_MX/)
+audacious-plugins,3991,0,434,959,0,35,4461,4425,90.19209039548024,Spanish (Mexico) (http://app.transifex.com/audacious/audacious/language/es_MX/)
+bookworm,715,17,63,139,2,8,768,795,89.937106918239,Spanish (Mexico) <https://hosted.weblate.org/projects/bookworm/bookworm/es_MX/>
+budgie-desktop,1638,0,221,412,0,69,1921,1859,88.11188811188812,Spanish (Mexico) (https://app.transifex.com/buddiesofbudgie/teams/129844/es_MX/)
+budgie-desktop-view,0,0,17,0,0,7,0,17,0.0,Spanish (Mexico) (https://www.transifex.com/buddiesofbudgie/teams/129844/es_MX/)
+caja,1115,0,9041,310,0,1286,1253,10156,10.978731784166996,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+caja-actions,72,0,7007,24,0,715,146,7079,1.017092809718887,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+caja-extensions,278,0,567,78,0,103,308,845,32.899408284023664,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+calamares,216,0,262,48,0,35,286,478,45.18828451882845,Spanish (Mexico) (https://app.transifex.com/calamares/teams/20061/es_MX/)
+calibre,153571,0,31947,18554,0,2035,166323,185518,82.77956855938507,Spanish (Mexico) (http://app.transifex.com/calibre/calibre/language/es_MX/)
+duplicity,2228,0,149,336,0,15,2710,2377,93.73159444678166,"Spanish, Mexico"
+easyeffects,651,621,3925,300,206,306,751,5197,12.526457571675968,Spanish (Mexico) <https://hosted.weblate.org/projects/easyeffects/main/es_MX/>
+engrampa,87,0,1939,35,0,383,163,2026,4.294175715695952,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+eom,39,0,1740,32,0,309,85,1779,2.1922428330522767,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+focuswriter,129,0,0,7,0,0,134,129,100.0,Spanish (Mexico) (http://www.transifex.com/gottcode/focuswriter/language/es_MX/)
+galculator,101,0,834,52,0,223,102,935,10.802139037433154,Spanish (Mexico) (http://www.transifex.com/mate/MATE/language/es_MX/)
+gamehub,1115,0,0,365,0,0,1353,1115,100.0,Spanish (Mexico) <https://hosted.weblate.org/projects/gamehub/translations/es_MX/>
+gentoo,1412,411,430,427,77,94,1622,2253,62.67199289835774,Language es-MX
+gnome-shell-extension-system-monitor-applet,55,12,124,40,6,60,62,191,28.79581151832461,
+gpodder,1494,425,717,401,137,130,1767,2636,56.676783004552355,Spanish (Mexico) (http://www.transifex.com/projects/p/gpodder/language/es_MX/)
+imsettings,143,0,357,30,0,62,111,500,28.599999999999998,LANGUAGE <LL@li.org>
+inkscape,444,17574,33510,200,6087,4624,494,51528,0.8616674429436424,none <none>
+kicad,43479,7561,3111,8506,1357,240,53572,54151,80.29214603608428,Spanish (Mexico) <https://hosted.weblate.org/projects/kicad/v9/es_MX/>
+lagrange,912,0,0,328,0,0,1100,912,100.0,LANGUAGE <LL@li.org>
+libgweather,664,0,0,235,0,0,735,664,100.0,Spanish <gnome-es-list@gnome.org>
+mame,0,0,3685,0,0,1288,0,3685,0.0,MAME Language Team
+marco,10,0,4161,3,0,430,16,4171,0.2397506593143131,Spanish (Mexico) (http://www.transifex.com/mate/MATE/language/es_MX/)
+mate-applets,1710,0,13136,415,0,1102,2611,14846,11.518254075171763,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-backgrounds,30,0,25,21,0,8,31,55,54.54545454545454,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-calc,21,0,3306,21,0,730,110,3327,0.6311992786293958,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-control-center,137,5,8118,68,3,1456,245,8260,1.6585956416464893,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-desktop,32,6,2374,11,2,282,87,2412,1.3266998341625207,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-media,12,0,232,8,0,92,13,244,4.918032786885246,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-menu,21,0,287,15,0,95,22,308,6.8181818181818175,Spanish (Mexico) (http://www.transifex.com/mate/MATE/language/es_MX/)
+mate-menus,97,0,6,37,0,2,114,103,94.1747572815534,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-notification-daemon,112,0,74,33,0,20,167,186,60.215053763440864,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-panel,145,0,6671,61,0,762,320,6816,2.127347417840376,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-power-manager,16,0,5107,15,0,537,106,5123,0.3123170017567832,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-screensaver,13,0,1088,6,0,170,16,1101,1.1807447774750226,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-sensors-applet,16,0,2206,16,0,211,105,2222,0.7200720072007201,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-session-manager,458,0,259,102,0,31,555,717,63.877266387726635,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-settings-daemon,49,0,2154,9,0,309,53,2203,2.224239673172946,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-system-monitor,516,0,4378,192,0,469,708,4894,10.543522680833673,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-terminal,60,0,8468,35,0,775,162,8528,0.7035647279549718,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-themes,10,0,64,4,0,19,13,74,13.513513513513514,Spanish (Mexico) (http://app.transifex.com/mate/MATE/language/es_MX/)
+mate-user-admin,5,0,600,4,0,122,5,605,0.8264462809917356,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-user-guide,1,0,5,1,0,2,1,6,16.666666666666664,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mate-utils,110,0,7908,47,0,875,324,8018,1.3719131953105512,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+mozo,35,0,11,15,0,9,37,46,76.08695652173914,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+pluma,85,0,5622,49,0,1400,140,5707,1.489398983704223,Spanish (Mexico) (https://app.transifex.com/mate/teams/13566/es_MX/)
+pluma-plugins,1,0,509,1,0,48,45,510,0.19607843137254902,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/fedora/language/es_MX/)
+pulsecaster,3,0,211,1,0,20,6,214,1.4018691588785046,Spanish (Mexico) (http://www.transifex.com/stickster/pulsecaster/language/es_MX/)
+python-django-contrib-comments,240,0,10,60,0,1,250,250,96.0,Spanish (Mexico) (http://www.transifex.com/django/django-contrib-comments/language/es_MX/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Spanish (Mexico) (http://www.transifex.com/projects/p/django-formtools/language/es_MX/)
+python-django4.2,2302,0,1454,654,0,202,2590,3756,61.28860489882854,Spanish (Mexico) (http://www.transifex.com/django/django/language/es_MX/)
+python-django5,2302,0,1454,654,0,202,2590,3756,61.28860489882854,Spanish (Mexico) (http://www.transifex.com/django/django/language/es_MX/)
+tidy,28,0,7311,1,0,468,23,7339,0.3815233683063088,
+tuxpaint,448,2047,2860,137,218,260,452,5355,8.366013071895424,Español <ggabriel@internet.com.uy>
+vlc,34703,0,111,6262,0,29,39233,34814,99.68116275061757,Spanish (Mexico) (https://app.transifex.com/yaron/teams/16553/es_MX/)

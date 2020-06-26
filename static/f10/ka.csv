@@ -1,0 +1,202 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,2978,0,0,969,0,0,2576,2978,100.0,Georgian <ka@li.org>
+GConf2,4032,0,0,481,0,0,3302,4032,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+Miro,42,0,2619,25,0,561,42,2661,1.5783540022547913,Aiet Kolkhi <aietkolkhi@gmail.com>
+NetworkManager,952,0,0,192,0,0,736,952,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-openvpn,402,0,0,99,0,0,296,402,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-pptp,584,0,0,129,0,0,412,584,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-vpnc,328,0,0,52,0,0,216,328,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+Thunar,3,0,3799,3,0,670,3,3802,0.07890583903208837,Georgian <xfce-i18n@xfce.org>
+alacarte,42,0,0,16,0,0,40,42,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+anaconda,463,260,9693,233,107,965,435,10416,4.445084485407066,Georgian <ka@li.org>
+at-spi,4,0,0,2,0,0,4,4,100.0,Georgian <aiet@qartuli.net>
+atk,370,0,0,123,0,0,300,370,100.0,Georgian <geognome@googlegroups.com>
+audacious,356,798,1224,198,311,176,334,2378,14.970563498738434,Georgian <giomac@gmail.com>
+audacity,8668,438,1527,1786,11,272,7686,10633,81.5197968588357,<en@li.org>
+authconfig,308,55,988,123,13,107,277,1351,22.797927461139896,Georgian <guiasher@mes.gov.ge>
+avant-window-navigator,150,0,443,61,0,79,138,593,25.29510961214165,Georgian <ka@li.org>
+beagle,103,125,565,70,37,99,98,793,12.988650693568726,Georgian <gnome@inet.ge>
+bittorrent,56,0,3850,19,0,615,78,3906,1.4336917562724014,LANGUAGE <LL@li.org>
+bluez-gnome,55,4,572,32,1,156,65,631,8.716323296354993,Georgian <ka@li.org>
+bmpx,810,0,1466,321,0,221,745,2276,35.58875219683655,Georgian <guiasher@mes.gov.ge>
+bug-buddy,830,0,0,80,0,0,552,830,100.0,Georgian <www.gia.ge>
+chkconfig,231,13,186,53,2,33,215,430,53.72093023255814,Georgian <guiasher@mes.gov.ge>
+compat-wxGTK26,51,0,0,15,0,0,47,51,100.0,Georgian
+compiz,66,0,0,11,0,0,57,66,100.0,Georgian <guiasher@mes.gov.ge>
+control-center,3156,0,0,770,0,0,2524,3156,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+dasher,70,410,36,64,105,26,70,516,13.565891472868216,Georgian <gnome@inet.ge>
+deluge,488,0,1510,203,0,486,453,1998,24.424424424424423,Georgian <ka@li.org>
+deskbar-applet,731,0,0,156,0,0,609,731,100.0,Georgian <www.gia.ge>
+eel2,235,0,0,52,0,0,158,235,100.0,Georgian <www.gia.ge>
+ekiga,5176,0,0,777,0,0,3671,5176,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+eog,695,0,0,187,0,0,598,695,100.0,Georgian <gnome@inet.ge>
+epiphany,3788,0,0,844,0,0,3213,3788,100.0,English <geognome@googlegroups.com>
+evince,842,0,0,251,0,0,685,842,100.0,Georgian <www.gia.ge>
+evolution,2941,15833,2463,1548,2974,404,2705,21237,13.848472006403917,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+evolution-data-server,292,3000,1611,159,519,339,285,4903,5.955537426065674,Georgian <gnome@inet.ge>
+evolution-exchange,1225,0,0,186,0,0,905,1225,100.0,Georgian <www.gia.ge>
+evolution-webcal,180,0,0,29,0,0,148,180,100.0,Georgian <geognome@googlegroups.com>
+exaile,455,0,2208,205,0,505,426,2663,17.08599324070597,Georgian <ka@li.org>
+exo,4,0,1472,3,0,285,4,1476,0.27100271002710025,Georgian <delphi.knight@gmail.com>
+f-spot,227,1786,439,158,430,99,232,2452,9.257748776508972,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+file-roller,952,0,0,239,0,0,760,952,100.0,Georgian <www.gia.ge>
+filezilla,1353,635,4872,449,191,523,1172,6860,19.723032069970845,Georgian <www.gia.ge>
+firstboot,56,69,479,10,4,38,36,604,9.271523178807946,Georgian <guiasher@mes.gov.ge>
+fuse-encfs,8,7,1296,2,1,135,7,1311,0.6102212051868803,Georgian <ka@li.org>
+gcalctool,1044,0,0,365,0,0,948,1044,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gcompris,10429,0,0,1203,0,0,7030,10429,100.0,Georgian <giasher@telenet.ge>
+gconf-editor,332,0,0,98,0,0,262,332,100.0,Georgian <gnome@inet.ge>
+gdm,10,502,811,7,105,120,11,1323,0.7558578987150416,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gedit,491,1693,2099,311,371,352,475,4283,11.463927153864113,Georgian <gnome@inet.ge>
+ggz-gtk-client,5,0,0,5,0,0,6,5,100.0,Georgian <gnome@inet.ge>
+gimp,2135,0,0,999,0,0,2010,2135,100.0,Georgian <gnome@inet.ge>
+glib2,1335,252,610,171,54,123,1088,2197,60.76467910787437,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-applets,3868,0,0,977,0,0,3415,3868,100.0,Georgian <www.gia.ge>
+gnome-backgrounds,18,0,0,9,0,0,18,18,100.0,Georgian <gnome@inet.ge>
+gnome-desktop,283,0,0,69,0,0,241,283,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-doc-utils,213,0,0,80,0,0,205,213,100.0,Georgian <geognome@googlegroups.com>
+gnome-games,218,3765,3083,136,737,825,200,7066,3.0851967166713843,Georgian <gnome@inet.ge>
+gnome-icon-theme,53,0,0,47,0,0,56,53,100.0,Georgian <gnome@inet.ge>
+gnome-keyring,124,162,425,13,9,35,81,711,17.440225035161745,Georgian <ka@li.org>
+gnome-keyring-manager,179,168,58,86,24,9,177,405,44.19753086419753,Georgian <gnome@inet.ge>
+gnome-mag,5,0,0,2,0,0,5,5,100.0,Georgian <aiet@qartuli.net>
+gnome-media,414,675,706,192,117,198,367,1795,23.064066852367688,Georgian <ka@li.org>
+gnome-menus,136,0,0,49,0,0,119,136,100.0,Georgian <http://geoubuntu.cjb.net/>
+gnome-netstatus,128,42,247,68,11,27,96,417,30.69544364508393,Georgian <ka@li.org>
+gnome-nettool,501,19,0,177,3,0,450,520,96.34615384615385,Georgian <gnome@inet.ge>
+gnome-panel,4574,0,8,628,0,1,3385,4582,99.8254037538193,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-power-manager,1074,1078,1286,121,155,188,900,3438,31.239092495637,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-screensaver,632,357,2,109,52,2,445,991,63.773965691220994,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-session,434,0,280,88,0,26,335,714,60.78431372549019,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-settings-daemon,436,114,484,72,33,66,315,1034,42.16634429400386,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-system-monitor,839,0,0,224,0,0,738,839,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-terminal,382,4177,36,179,311,20,335,4595,8.313384113166485,Georgian <Ubuntu-Georgian-Translators@googlegroups.com>
+gnome-themes,104,0,0,36,0,0,98,104,100.0,Georgian <gnome@inet.ge>
+gnome-utils,3476,0,25,570,0,3,2190,3501,99.28591830905455,Georgian <gnome@inet.ge>
+gnome-vfs2,1508,0,0,301,0,0,1194,1508,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-volume-manager,36,938,178,17,134,32,34,1152,3.125,<ka@li.org>
+gnomebaker,1186,0,0,291,0,0,938,1186,100.0,Georgian <geognome@googlegroups.com>
+gok,244,1507,115,173,189,67,243,1866,13.076098606645232,Georgian <gnome@inet.ge>
+gtk2,10571,963,1226,2206,183,174,7540,12760,82.84482758620689,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gtkhtml3,915,0,0,406,0,0,795,915,100.0,Georgian <gnome@inet.ge>
+gucharmap,208,286,253,125,77,67,200,747,27.84471218206158,Georgian <gnome@inet.ge>
+hello,95,25,54,17,3,7,91,174,54.59770114942529,Georgian <ka@li.org>
+homebank,389,0,976,197,0,249,346,1365,28.498168498168496,Georgian <ka@li.org>
+hwbrowser,69,0,47,42,0,9,67,116,59.48275862068966,Georgian <guiasher@mes.gov.ge>
+im-chooser,4,45,103,2,9,23,4,152,2.631578947368421,Georgian <guiasher@mes.gov.ge>
+imsettings,0,15,834,0,4,135,0,849,0.0,Georgian <guiasher@mes.gov.ge>
+initscripts,210,207,3454,66,65,778,198,3871,5.424954792043399,Georgian <guiasher@mes.gov.ge>
+iso-codes,215,33,829,175,11,262,207,1077,19.96285979572888,Georgian
+k3b,113,16158,4350,57,2250,223,112,20621,0.5479850637699433,Georgian <guiasher@mes.gov.ge>
+kaffeine,12,2004,338,11,620,27,12,2354,0.5097706032285472,Georgian <guiasher@mes.gov.ge>
+kdetv,1886,19,301,456,3,24,1235,2206,85.49410698096102,ქართული <Georgianization@googlegroups.com>
+kdiff3,2043,284,1083,389,79,155,1731,3410,59.91202346041056,<www.gia.ge>
+kdissert,881,0,1146,247,0,35,719,2027,43.46324617661569,ქართული <Georgianization@googlegroups.com>
+kerry,373,52,61,99,16,19,310,486,76.74897119341564,ქართული <Georgianization@googlegroups.com>
+keurocalc,239,37,15,98,10,8,228,291,82.13058419243985,<www.gia.ge>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kftpgrabber,1631,189,417,428,65,87,1344,2237,72.91014751899866,Georgian <www.gia.ge>
+kio_gopher,16,1,0,4,1,0,13,17,94.11764705882352,Georgian <guiasher@mes.gov.ge>
+kmplayer,638,342,271,266,46,76,602,1251,50.99920063948841,Georgian <guiasher@mes.gov.ge>
+knemo,533,15,68,158,8,19,440,616,86.52597402597402,<www.gia.ge>
+knetstats,52,0,66,36,0,17,54,118,44.06779661016949,Georgian <guiasher@mes.gov.ge>
+knetworkmanager,41,7,360,21,4,160,44,408,10.049019607843137,Georgian <i18n@suse.de>
+konversation,6860,1302,893,1006,242,114,4634,9055,75.75924903368305,<www.gia.ge>
+krecipes,2710,131,246,487,40,41,2136,3087,87.78749595076125,<www.gia.ge>
+kst,0,120,7277,0,65,1734,0,7397,0.0,Georgian <guiasher@mes.gov.ge>
+ksynaptics,259,389,7,90,40,4,220,655,39.541984732824424,ქართული <Georgianization@googlegroups.com>
+libbonobo,543,0,0,107,0,0,434,543,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libbonoboui,361,0,0,114,0,0,304,361,100.0,Georgian <www.gia.ge>
+libgnome,1656,0,0,256,0,0,1247,1656,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgnomecanvas,357,0,0,94,0,0,269,357,100.0,Georgian <ka@li.org>
+libgnomedb,12,383,2709,4,172,453,10,3104,0.3865979381443299,Georgian <aiet@qartuli.com>
+libgnomekbd,262,0,0,49,0,0,199,262,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgnomeprint22,168,0,0,98,0,0,145,168,100.0,Georgian <gnome@inet.ge>
+libgnomeprintui22,472,0,0,151,0,0,344,472,100.0,Georgian <gnome@inet.ge>
+libgnomeui,1290,0,0,330,0,0,1042,1290,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgtop2,14,81,39,10,17,17,14,134,10.44776119402985,Georgian <gnome@inet.ge>
+libgweather,10348,9,4,6758,5,4,10273,10361,99.87452948557089,Georgian <www.gia.ge>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1224,4284,2717,290,834,526,1224,8225,14.88145896656535,none
+libwnck,621,0,501,152,0,87,529,1122,55.3475935828877,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libxfce4util,5,0,408,1,0,3,5,413,1.2106537530266344,Georgian <delphi.knight@gmail.com>
+libxfcegui4,81,0,0,25,0,0,72,81,100.0,Georgian <delphi.knight@gmail.com>
+lxmenu-data,59,12,26,24,4,9,52,97,60.824742268041234,Georgian <http://geoubuntu.cjb.net/>
+metacity,375,7054,630,118,360,37,356,8059,4.653182777019482,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw32-atk,370,1,4,123,1,2,300,375,98.66666666666667,Georgian <geognome@googlegroups.com>
+mingw32-glib2,1335,255,735,171,55,142,1088,2325,57.41935483870968,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw32-gtk2,10216,1068,1116,1958,194,161,7360,12400,82.38709677419355,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mousepad,135,0,0,64,0,0,128,135,100.0,Georgian <delphi.knight@gmail.com>
+nautilus,6117,0,2101,1186,0,103,4550,8218,74.43416889754198,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+nautilus-cd-burner,1306,0,0,210,0,0,1059,1306,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+nautilus-open-terminal,82,0,0,7,0,0,48,82,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+nautilus-sendto,85,0,0,28,0,0,69,85,100.0,Georgian <ka@li.org>
+orage,864,0,0,539,0,0,884,864,100.0,Georgian <delphi.knight@gmail.com>
+passwd,89,0,202,21,0,30,84,291,30.584192439862544,Georgian <guiasher@mes.gov.ge>
+pessulus,88,0,0,30,0,0,80,88,100.0,Georgian <gnome@inet.ge>
+phatch,92,0,1401,56,0,452,90,1493,6.162089752176826,Georgian <ka@li.org>
+pidgin,2226,3230,12533,932,1080,1855,2008,17989,12.374228695313803,Georgian <ka@li.org>
+poedit,1039,97,26,245,22,2,893,1162,89.41480206540447,Georgian <aiet@qartuli.net>
+policycoreutils,0,0,4363,0,0,713,0,4363,0.0,LANGUAGE <LL@li.org>
+pykickstart,4,0,280,1,0,24,3,284,1.4084507042253522,Georgian <guiasher@mes.gov.ge>
+redhat-menus,205,11,45,69,4,13,191,261,78.544061302682,Georgian <guiasher@mes.gov.ge>
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+rhpxl,0,0,130,0,0,44,0,130,0.0,none
+sabayon,766,48,364,159,6,65,629,1178,65.02546689303905,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+setroubleshoot,0,0,582,0,0,162,0,582,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+setuptool,20,2,38,10,1,6,19,60,33.33333333333333,Georgian Internet Alliance <giasher@telenet.ge>
+sound-juicer,853,0,0,147,0,0,585,853,100.0,Georgian <gnome@inet.ge>
+specspo,48,638,304608,9,157,16684,34,305294,0.01572254941138706,Georgian <guiasher@mes.gov.ge>
+squirrelmail,5765,0,2,1116,0,1,5163,5767,99.96531992370383,Georgian <squirrelmail-i18n@lists.sourceforge.net>
+stellarium,2328,0,81,907,0,13,1986,2409,96.63760896637609,Georgian <ka@li.org>
+switchdesk,56,0,81,16,0,3,48,137,40.87591240875913,Georgian Internet Alliance <giasher@telenet.ge>
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,41,0,5,9,0,1,28,46,89.13043478260869,Georgian <giomac@gmail.com>
+system-config-date,251,25,762,191,19,407,247,1038,24.18111753371869,Georgian <guiasher@mes.gov.ge>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,29,0,369,15,0,48,27,398,7.2864321608040195,Georgian <guiasher@mes.gov.ge>
+system-config-firewall,30,113,2354,16,46,241,30,2497,1.2014417300760913,Georgian <guiasher@mes.gov.ge>
+system-config-httpd,790,19,49,201,7,15,653,858,92.07459207459208,Georgian <guiasher@mes.gov.ge>
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,78,0,0,12,0,0,61,78,100.0,Georgian Internet Alliance <guiasher@mes.gov.ge>
+system-config-kickstart,0,0,1054,0,0,281,0,1054,0.0,none
+system-config-language,45,0,0,10,0,0,32,45,100.0,Georgian Internet Alliance <guiasher@mes.gov.ge>
+system-config-netboot,10,0,1093,3,0,162,10,1103,0.9066183136899365,none
+system-config-network,636,121,2137,321,52,315,615,2894,21.976503109882515,Georgian <guiasher@mes.gov.ge>
+system-config-nfs,195,58,1264,59,2,77,168,1517,12.854317732366512,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3005,0,0,663,0,3005,0.0,none
+system-config-rootpassword,15,26,75,3,5,11,10,116,12.931034482758621,Georgian <guiasher@mes.gov.ge>
+system-config-samba,0,0,422,0,0,137,0,422,0.0,none
+system-config-services,24,0,360,10,0,43,23,384,6.25,Georgian <guiasher@mes.gov.ge>
+system-config-users,41,2,1294,22,1,149,40,1337,3.066566940912491,Georgian <guiasher@mes.gov.ge>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,112,134,100.0,Georgian <guiasher@mes.gov.ge>
+totem,1821,0,0,417,0,0,1421,1821,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+totem-pl-parser,1821,0,0,417,0,0,1421,1821,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+transmission,338,0,773,143,0,214,302,1111,30.423042304230425,Georgian <ka@li.org>
+tuxpaint,491,162,108,130,21,35,354,761,64.5203679369251,Gia Shervashidze <giasher@telenet.ge>
+tuxpaint-stamps,942,479,1196,251,184,191,587,2617,35.995414596866645,Gia Shervashidze <giasher@telenet.ge>
+usermode,60,2,502,29,1,65,57,564,10.638297872340425,Georgian <ka@li.org>
+vino,544,0,0,72,0,0,457,544,100.0,Georgian <gnome@inet.ge>
+vte,96,0,0,18,0,0,90,96,100.0,Georgian <aiet@qartuli.net>
+wxGTK,51,0,0,15,0,0,47,51,100.0,Georgian
+wxPython,51,0,0,15,0,0,47,51,100.0,Georgian
+xchat-gnome,430,86,3385,174,30,776,376,3901,11.022814662906947,Georgian
+xdg-user-dirs-gtk,81,0,0,11,0,0,46,81,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+xfce-mcs-manager,30,0,0,7,0,0,29,30,100.0,Georgian <delphi.knight@gmail.com>
+xfce-mcs-plugins,475,0,65,133,0,13,392,540,87.96296296296296,Georgian <delphi.knight@gmail.com>
+xfce-utils,119,0,0,34,0,0,106,119,100.0,Georgian <delphi.knight@gmail.com>
+xfce4-appfinder,48,0,0,28,0,0,48,48,100.0,Georgian <delphi.knight@gmail.com>
+xfce4-icon-theme,8,0,0,2,0,0,5,8,100.0,Georgian <delphi.knight@gmail.com>
+xfce4-mixer,226,0,0,94,0,0,222,226,100.0,Georgian <delphi.knight@gmail.com>
+xfce4-panel,578,0,0,160,0,0,503,578,100.0,Georgian <delphi.knight@gmail.com>
+xfce4-places-plugin,4,3,36,3,1,15,5,43,9.30232558139535,
+xfce4-session,4,0,734,4,0,125,5,738,0.5420054200542005,Georgian <delphi.knight@gmail.com>
+xfdesktop,3,0,1075,3,0,285,3,1078,0.27829313543599254,Georgian <delphi.knight@gmail.com>
+xfprint,4,0,319,4,0,109,4,323,1.238390092879257,Georgian <delphi.knight@gmail.com>
+xfwm4,2,0,644,2,0,188,2,646,0.30959752321981426,Georgian <delphi.knight@gmail.com>
+xkeyboard-config,1388,0,0,500,0,0,1445,1388,100.0,Georgian <www.gia.ge>
+xmms,2668,411,364,910,70,65,2678,3443,77.49056055765321,Georgian
+yelp,957,0,0,239,0,0,734,957,100.0,Georgian <www.gia.ge>
+zenity,421,0,120,116,0,4,317,541,77.81885397412199,Georgian <gnome@inet.ge>

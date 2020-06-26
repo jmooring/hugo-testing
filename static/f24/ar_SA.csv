@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+childsplay,1065,21,140,129,9,74,833,1226,86.86786296900489,Arabic <>
+glpi,3793,0,6843,1130,0,1675,3880,10636,35.66190297104174,Arabic (Saudi Arabia) (http://www.transifex.com/glpi/GLPI/language/ar_SA/)
+poedit,2524,0,5,537,0,2,2373,2529,99.80229339659945,Arabic
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+python-flask-admin,321,0,40,98,0,11,363,361,88.9196675900277,Arabic
+texi2html,12,0,7,12,0,7,16,19,63.1578947368421,Arabic <guido@imperia.net>
+texinfo,12,0,7,12,0,7,16,19,63.1578947368421,Arabic <guido@imperia.net>

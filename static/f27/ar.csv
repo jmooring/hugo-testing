@@ -1,0 +1,1056 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+4Pane,575,0,12000,277,0,1599,587,12575,4.572564612326044,Arabic (http://www.transifex.com/davidgh/4Pane/language/ar/)
+GConf2,3940,91,4,474,9,1,3574,4035,97.64560099132589,Arabic <doc@arabeyes.org>
+NetworkManager,2,442,11064,2,130,1579,2,11508,0.01737921445950643,Arabic <doc@arabeyes.org>
+NetworkManager-fortisslvpn,1,0,173,1,0,32,1,174,0.5747126436781609,Arabic <doc@arabeyes.org>
+NetworkManager-l2tp,33,29,721,14,10,106,39,783,4.21455938697318,Arabic <doc@arabeyes.org>
+NetworkManager-libreswan,89,12,32,16,6,11,92,133,66.9172932330827,Arabic <doc@arabeyes.org>
+NetworkManager-openconnect,48,0,3016,10,0,539,51,3064,1.5665796344647518,Arabic (http://www.transifex.com/projects/p/meego/language/ar/)
+NetworkManager-openvpn,33,97,919,10,37,122,34,1049,3.145853193517636,Arabic <doc@arabeyes.org>
+NetworkManager-pptp,11,55,46,7,16,18,13,112,9.821428571428571,Arabic <doc@arabeyes.org>
+NetworkManager-ssh,19,41,226,5,16,48,19,286,6.643356643356643,Arabic <doc@arabeyes.org>
+NetworkManager-sstp,11,55,46,7,16,18,13,112,9.821428571428571,Arabic <doc@arabeyes.org>
+NetworkManager-vpnc,89,12,32,16,6,11,92,133,66.9172932330827,Arabic <doc@arabeyes.org>
+PackageKit,0,0,1328,0,0,326,0,1328,0.0,Arabic (http://www.transifex.com/projects/p/freedesktop/language/ar/)
+Thunar,4201,0,0,739,0,0,4458,4201,100.0,Arabic (https://www.transifex.com/xfce/teams/16840/ar/)
+Zim,2619,0,196,652,0,38,2602,2815,93.0373001776199,Arabic <ar@li.org>
+abrt,20,0,3949,6,0,470,23,3969,0.5039052658100277,Arabic (http://www.transifex.com/projects/p/fedora-abrt/language/ar/)
+accerciser,535,0,0,205,0,0,509,535,100.0,Arabic <doc@arabeyes.org>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Arabic (http://www.transifex.com/projects/p/freedesktop/language/ar/)
+ailurus,1354,0,6924,269,0,984,1321,8278,16.356607876298625,none
+aisleriot,1751,138,98,495,28,26,1524,1987,88.12279818822346,Arabic <doc@arabeyes.org>
+akonadi-calendar-tools,177,18,345,47,3,60,173,540,32.77777777777778,Arabic <doc@arabeyes.org>
+akonadi-import-wizard,387,0,4,82,0,1,377,391,98.9769820971867,Arabic <doc@arabeyes.org>
+akregator,1427,172,166,353,47,26,1465,1765,80.8498583569405,Arabic <Arabic <doc@arabeyes.org>>
+alacarte,42,0,0,16,0,0,40,42,100.0,Arabic <doc@arabeyes.org>
+alleyoop,17,179,155,10,57,22,16,351,4.843304843304843,Arabeyes <doc@arabeyes.org>
+almanah,43,152,208,25,16,14,58,403,10.669975186104217,Arabeyes <doc@arabeyes.org>
+anaconda,2901,30,4412,597,2,617,2802,7343,39.50701348222797,Arabic (http://www.transifex.com/projects/p/anaconda/language/ar/)
+analitza,0,57,931,0,14,207,0,988,0.0,<en@li.org>
+anjuta,5886,163,1753,1665,42,278,5643,7802,75.4421943091515,Arabic <doc@arabeyes.org>
+appcenter,206,25,526,67,9,101,186,757,27.212681638044916,Arabic <https://weblate.elementary.io/projects/appcenter/appcenter/ar/>
+appstream,117,0,736,33,0,158,138,853,13.716295427901523,Arabic <https://hosted.weblate.org/projects/appstream/translations/ar/>
+arandr,173,0,0,38,0,0,153,173,100.0,Arabic <https://hosted.weblate.org/projects/arandr/translations/ar/>
+arduino,2798,0,295,539,0,51,2791,3093,90.46233430326544,Arabic (http://www.transifex.com/mbanzi/arduino-ide-15/language/ar/)
+aria2,74,0,7373,11,0,386,68,7447,0.9936887337182757,Arabic <ar@li.org>
+ark,609,617,624,117,122,96,568,1850,32.91891891891892,Arabic <Arabic <doc@arabeyes.org>>
+asunder,427,29,39,77,4,10,446,495,86.26262626262627,Arabic <doc@arabeyes.org>
+atk,375,0,0,126,0,0,341,375,100.0,Arabic <doc@arabeyes.org>
+atomix,8,116,22,6,50,3,8,146,5.47945205479452,Arabeyes <doc@arabeyes.org>
+atril,1633,0,159,391,0,22,1470,1792,91.12723214285714,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+audacious,731,0,29,319,0,7,769,760,96.1842105263158,Arabic (http://www.transifex.com/audacious/audacious/language/ar/)
+audacious-plugins,3882,0,52,872,0,16,3908,3934,98.67819013726486,Arabic (http://www.transifex.com/audacious/audacious/language/ar/)
+audacity,13108,1899,1584,3021,524,230,13124,16591,79.00669037429931,ar@li.org
+audience,38,0,68,14,0,34,54,106,35.84905660377358,Arabic <ar@li.org>
+audit-viewer,611,0,0,185,0,0,620,611,100.0,LANGUAGE <LL@li.org>
+authconfig,456,16,457,78,2,57,458,929,49.08503767491927,Arabic (http://www.transifex.com/projects/p/fedora/language/ar/)
+avahi,262,2,604,91,2,75,267,868,30.184331797235025,Arabic (http://www.transifex.com/lennart/avahi/language/ar/)
+avogadro,969,0,5638,551,0,1821,1226,6607,14.666263054336309,Arabic <ar@li.org>
+backintime,750,0,1233,182,0,154,759,1983,37.821482602118,Arabic <ar@li.org>
+bakery,58,0,0,16,0,0,52,58,100.0,Arabic <doc@arabeyes.org>
+baloo-widgets,261,34,117,105,5,15,380,412,63.3495145631068,Arabic <doc@arabeyes.org>
+balsa,175,3648,2143,136,1094,218,186,5966,2.9332886356017434,Arabeyes <doc@arabeyes.org>
+banshee,1056,1175,1158,350,356,196,1077,3389,31.159634110357036,Arabic <support@eglug.org>
+baobab,210,0,0,57,0,0,230,210,100.0,Arabic <doc@arabeyes.org>
+bibletime,6093,0,3627,551,0,93,5439,9720,62.68518518518519,Arabic (http://www.transifex.com/bibletime/bibletime/language/ar/)
+bijiben,310,0,0,102,0,0,305,310,100.0,Arabic <doc@arabeyes.org>
+bleachbit,1063,0,115,250,0,10,1102,1178,90.2376910016978,Arabic <ar@li.org>
+blender,57624,0,0,14710,0,0,52409,57624,100.0,"Yousef Harfoush, Amine Moussaoui <bat3a@msn.com>"
+blinken,104,29,0,33,14,0,97,133,78.19548872180451,<en@li.org>
+blivet-gui,0,0,762,0,0,220,0,762,0.0,Arabic
+blogilo,1071,96,225,241,12,84,927,1392,76.9396551724138,Arabic <doc@arabeyes.org>
+bluedevil,538,8,27,180,3,8,500,573,93.89179755671903,Arabic <doc@arabeyes.org>
+bluefish,0,0,4905,0,0,1539,0,4905,0.0,none
+blueman,791,0,593,248,0,94,796,1384,57.153179190751445,Arabic (http://www.transifex.com/mate/MATE/language/ar/)
+bomber,65,9,29,20,1,6,60,103,63.10679611650486,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+bovo,67,0,14,21,0,4,55,81,82.71604938271605,Arabic <doc@arabeyes.org>
+brasero,5182,0,364,946,0,22,4531,5546,93.43671114316625,Arabic <doc@arabeyes.org>
+byzanz,0,109,140,0,32,10,0,249,0.0,Arabeyes <doc@arabeyes.org>
+bzr,0,0,33249,0,0,2353,0,33249,0.0,Arabic <ar@li.org>
+cairo-dock,1853,0,5611,446,0,381,1602,7464,24.825830653804932,Arabic <ar@li.org>
+cairo-dock-plug-ins,843,0,9360,178,0,1544,783,10203,8.262275801234932,Arabic <ar@li.org>
+caja,8371,0,985,1427,0,90,7180,9356,89.47199657973492,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+caja-actions,683,111,760,114,19,37,562,1554,43.95109395109395,Arabic <doc@arabeyes.org>
+caja-extensions,533,0,37,124,0,7,485,570,93.50877192982456,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+calamares,0,0,55,0,0,13,0,55,0.0,Arabic (https://www.transifex.com/calamares/teams/20061/ar/)
+calibre,5716,0,151585,1004,0,17096,5299,157301,3.633797623664185,Arabic (http://www.transifex.com/calibre/calibre/language/ar/)
+calligra,19710,7846,6424,3855,1916,1339,17730,33980,58.00470865214832,Arabic <doc@arabeyes.org>
+calligraplan,10,914,1143,6,275,100,11,2067,0.48379293662312534,<en@li.org>
+camorama,5,338,243,6,103,28,5,586,0.8532423208191127,Arabeyes <doc@arabeyes.org>
+caribou,169,0,0,57,0,0,170,169,100.0,Arabic <doc@arabeyes.org>
+catfish,135,0,542,62,0,49,136,677,19.940915805022154,Arabic <ar@li.org>
+ccsm,549,5,25,135,3,13,480,579,94.81865284974094,Arabic <ar@li.org>
+celestia,1585,471,220,667,335,84,1708,2276,69.63971880492092,Arabic <ar@li.org>
+certmonger,0,0,2855,0,0,477,0,2855,0.0,Arabic (http://www.transifex.com/projects/p/certmonger/language/ar/)
+cervisia,1460,130,29,364,47,10,1362,1619,90.17912291537986,<en@li.org>
+cheese,530,0,84,119,0,4,502,614,86.31921824104235,Arabic <doc@arabeyes.org>
+chkconfig,453,0,102,90,0,13,442,555,81.62162162162161,Arabic <trans-ar@lists.fedoraproject.org>
+choqok,1556,114,587,420,19,130,1457,2257,68.94107221976074,Arabic <doc@arabeyes.org>
+cinnamon-control-center,1298,9,6,750,5,1,1298,1313,98.85757806549886,Arabic <fedora-trans-ar@redhat.com>
+cinnamon-desktop,137,0,97,23,0,9,123,234,58.54700854700855,Arabic <doc@arabeyes.org>
+clamtk,162,0,282,55,0,88,168,444,36.486486486486484,Arabic <ar@li.org>
+clutter,1,0,3056,1,0,674,1,3057,0.03271180896303566,Arabic <doc@arabeyes.org>
+cogl,15,0,346,4,0,71,15,361,4.1551246537396125,Arabic <doc@arabeyes.org>
+compat-gtkhtml314,485,0,0,309,0,0,490,485,100.0,Arabic <doc@arabeyes.org>
+compat-tracker1,729,253,1064,172,60,164,754,2046,35.63049853372434,Arabic <doc@arabeyes.org>
+compat-wxGTK3-gtk2,1893,659,5240,629,227,1019,1846,7792,24.294147843942504,arabictranslationteam@googlegroups.com
+compiz,6,13,4366,5,7,867,6,4385,0.13683010262257697,Arabic <opensuse-translation@opensuse.org>
+compiz-plugins-experimental,60,580,3841,25,183,689,60,4481,1.3389868332961392,Arabic <ar@li.org>
+compiz-plugins-extra,563,229,2886,127,68,533,505,3678,15.307232191408374,Arabic <ar@li.org>
+compiz-plugins-main,590,103,3525,112,35,664,581,4218,13.987671882408726,Arabic <ar@li.org>
+console-setup,980,3,2,172,1,2,848,985,99.49238578680203,American English <okhayat@gmail.com>
+control-center,6132,16,393,2173,7,75,5858,6541,93.74713346583091,Arabic <fedora-trans-ar@redhat.com>
+corebird,153,0,433,85,0,126,154,586,26.109215017064848,Arabic (http://www.transifex.com/corebird/corebird/language/ar/)
+dasher,519,3,93,197,1,14,527,615,84.39024390243902,Arabic <doc@arabeyes.org>
+dconf-editor,46,33,1294,13,16,154,44,1373,3.3503277494537507,Arabic <doc@arabeyes.org>
+debconf,762,38,60,86,4,4,692,860,88.60465116279069,Arabic <support@arabeyes.org>
+decibel-audio-player,210,0,1284,93,0,144,223,1494,14.056224899598394,Arabic <ar@li.org>
+deepin-terminal,222,0,151,123,0,28,237,373,59.51742627345844,Arabic (https://www.transifex.com/linuxdeepin/teams/3976/ar/)
+deja-dup,1028,0,3164,213,0,285,1293,4192,24.52290076335878,Arabic <ar@li.org>
+deluge,2082,0,646,735,0,143,2039,2728,76.31964809384164,Arabic <ar@li.org>
+devhelp,455,0,0,119,0,0,407,455,100.0,Arabic <doc@arabeyes.org>
+dia,2245,2253,1760,1269,762,278,2380,6258,35.8740811760946,Arabeyes <doc@arabeyes.org>
+dialog,4,0,21,4,0,19,4,25,16.0,Arabic <support@arabeyes.org>
+digikam,15128,5876,22953,3671,771,2552,14420,43957,34.41545146393066,Arabic <doc@arabeyes.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,80,0,3021,21,0,626,71,3101,2.579812963560142,Arabic
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Arabic
+dnfdragora,176,0,593,123,0,193,185,769,22.886866059817944,Arabic (https://www.transifex.com/MageiaLinux/teams/9361/ar/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Arabic
+dolphin,1491,12,65,495,7,15,1504,1568,95.08928571428571,Arabic <doc@arabeyes.org>
+dolphin-emu,6744,0,221,1269,0,20,6660,6965,96.82699210337401,Arabic (http://www.transifex.com/delroth/dolphin-emu/language/ar/)
+dragon,221,7,47,71,4,11,204,275,80.36363636363636,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+e16,494,2,2300,191,2,321,496,2796,17.668097281831187,Arabic <ar@li.org>
+edgar,1,0,11473,1,0,1534,1,11474,0.008715356458079134,Arabic <ar@li.org>
+eiciel,146,16,6,45,6,2,150,168,86.90476190476191,Novell language <language@novell.com>
+ekiga,3750,241,269,650,26,39,3436,4260,88.02816901408451,Arabic <doc@arabeyes.org>
+elementary-calculator,0,0,53,0,0,32,0,53,0.0,LANGUAGE <LL@li.org>
+elementary-camera,24,0,38,4,0,12,15,62,38.70967741935484,Arabic <https://l10n.elementary.io/projects/camera/camera/ar/>
+elementary-capnet-assist,0,0,66,0,0,10,0,66,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+emerald,645,38,10,208,5,6,674,693,93.07359307359307,Arabic <ar@li.org>
+empathy,4001,0,204,929,0,7,3892,4205,95.14863258026159,Arabic <doc@arabeyes.org>
+engrampa,1659,0,286,321,0,33,1483,1945,85.29562982005142,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+enlightenment,4789,3098,799,1728,370,134,5245,8686,55.13469951646327,Arabic <almusalimalmusalimah@gmail.com>
+entangle,0,0,914,0,0,218,0,914,0.0,Arabic
+eog,4387,0,561,551,0,10,3776,4948,88.66208569118837,Arabic <doc@arabeyes.org>
+eog-plugins,149,0,0,55,0,0,138,149,100.0,Arabic <doc@arabeyes.org>
+eom,4509,0,481,542,0,10,3692,4990,90.36072144288578,Arabic <doc@arabeyes.org>
+epiphany,2328,0,454,584,0,32,2196,2782,83.68080517613228,Arabic <doc@arabeyes.org>
+evince,1701,0,0,397,0,0,1584,1701,100.0,Arabic <doc@arabeyes.org>
+evolution,18426,1993,3181,4137,258,231,17422,23600,78.07627118644068,Arabic <doc@arabeyes.org>
+evolution-data-server,3632,862,177,755,197,32,3702,4671,77.75636908584886,Arabic <doc@arabeyes.org>
+exaile,1258,201,2547,456,35,534,1252,4006,31.402895656515227,Arabic <https://hosted.weblate.org/projects/exaile/master/ar/>
+exo,1410,0,44,291,0,8,1260,1454,96.97386519944979,Arabic (http://www.transifex.com/xfce/exo/language/ar/)
+falkon,3060,385,428,1050,87,114,3150,3873,79.00852052672347,
+fantasdic,375,15,8,121,4,3,415,398,94.22110552763819,Arabeyes <doc@arabeyes.org>
+fcitx-table-other,1,0,23,1,0,21,1,24,4.166666666666666,Arabic (http://www.transifex.com/fcitx/fcitx/language/ar/)
+feedreader,0,0,689,0,0,201,0,689,0.0,
+file-roller,1181,0,0,269,0,0,1078,1181,100.0,Arabic <doc@arabeyes.org>
+filezilla,10185,29,0,1759,4,0,10439,10214,99.71607597415311,Awadh Al-Ghaamdi <awadh_al_ghaamdi@hotmail.com>
+firewalld,212,0,1964,34,0,370,171,2176,9.742647058823529,Arabic (http://www.transifex.com/projects/p/firewalld/language/ar/)
+five-or-more,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+focuswriter,0,0,129,0,0,7,0,129,0.0,Arabic (http://www.transifex.com/projects/p/focuswriter/language/ar/)
+folks,41,0,810,13,0,96,40,851,4.81786133960047,Arabic <doc@arabeyes.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Arabic
+four-in-a-row,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+fprintd,151,0,268,23,0,34,113,419,36.0381861575179,Arabic (http://www.transifex.com/freedesktop/fprintd/language/ar/)
+freeciv,8759,32513,56930,2336,3796,2004,8826,98202,8.919370277591089,Arabic <freeciv-i18n@freeciv.org>
+fuse-encfs,846,24,419,104,3,30,825,1289,65.6322730799069,Arabic <ar@li.org>
+fvwm,180,0,68,65,0,47,192,248,72.58064516129032,Arabic
+gala,0,0,694,0,0,79,0,694,0.0,Arabic <ar@li.org>
+gallery2,3938,766,13046,826,173,1521,3823,17750,22.185915492957747,Arabic <gallery-translations@lists.sourceforge.net>
+gambas3,1205,341,4809,503,108,1300,1156,6355,18.96144767899292,LANGUAGE <LL@li.org>
+gammu,1005,58,2934,301,9,801,1180,3997,25.143857893420062,none
+garcon,109,0,0,34,0,0,108,109,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+gbrainy,5163,383,637,658,57,101,5054,6183,83.50315380883066,Arabic <support@arabeyes.org>
+gcompris,11679,1,201,1371,1,15,9178,11881,98.29980641360156,Arabic <doc@arabeyes.org>
+gcompris-qt,3201,2252,17860,465,198,1293,2507,23313,13.730536610474841,Arabic <doc@arabeyes.org>
+gconf-editor,336,0,0,98,0,0,328,336,100.0,Arabic <doc@arabeyes.org>
+gcr,375,162,85,143,48,36,369,622,60.28938906752411,Arabeyes
+gdesklets,919,0,609,164,0,40,839,1528,60.14397905759162,Arabic <support@eglug.org>
+gdk-pixbuf2,1266,82,0,195,7,0,1236,1348,93.91691394658753,Arabic <doc@arabeyes.org>
+gdm,614,12,0,83,2,0,524,626,98.08306709265176,Arabic <doc@arabeyes.org>
+geany,2133,364,3540,771,105,432,2029,6037,35.33211860195461,فيصل شامخ <chamfay@gmail.com>
+geary,486,0,615,177,0,150,516,1101,44.141689373297005,Arabic (http://www.transifex.com/projects/p/geary/language/ar/)
+geda-gaf,2568,20,859,658,7,107,2628,3447,74.49956483899042,gEDA developers <geda-dev@seul.org>
+gedit,8589,74,2794,1218,5,168,7539,11457,74.96726891856507,Arabic <doc@arabeyes.org>
+gedit-plugins,5420,62,2637,674,3,153,4389,8119,66.75698977706614,Arabic <doc@arabeyes.org>
+geeqie,792,1256,1736,342,498,457,1023,3784,20.930232558139537,<youssef@devcabal.org>
+genius,267,1415,4965,48,340,515,337,6647,4.016849706634572,Arabeyes <doc@arabeyes.org>
+gftp,1959,565,851,451,142,41,1677,3375,58.044444444444444,Arabic <doc@arabeyes.org>
+ggz-base-libs,74,0,0,17,0,0,78,74,100.0,Arabic <doc@arabeyes.org>
+ggz-gtk-client,859,0,0,267,0,0,826,859,100.0,Arabic <doc@arabeyes.org>
+ghex,107,669,193,45,204,27,108,969,11.042311661506709,Arabeyes <doc@arabeyes.org>
+gigolo,521,0,0,142,0,0,463,521,100.0,فريق تعريب إكسفس
+gimp,25902,322,2678,7084,68,188,24519,28902,89.62009549512145,Arabic <doc@arabeyes.org>
+gimp-gap,255,2810,8137,167,986,747,270,11202,2.2763792179967863,en_US <kde-i18n-doc@lists.kde.org>
+glabels,841,0,1467,339,0,425,761,2308,36.43847487001733,linuxac <dr.hatim@hotmail.com>
+glade,2923,859,822,825,224,149,2593,4604,63.48827106863597,Arabic <doc@arabeyes.org>
+glade2,568,3871,1471,207,963,141,489,5910,9.61082910321489,Arabeyes <doc@arabeyes.org>
+glade3,2923,859,822,825,224,149,2593,4604,63.48827106863597,Arabic <doc@arabeyes.org>
+glib-networking,153,0,0,28,0,0,161,153,100.0,Arabic <doc@arabeyes.org>
+glib2,2279,0,2992,407,0,408,2313,5271,43.23657749952571,Arabic <doc@arabeyes.org>
+glom,69,1192,2050,53,415,186,67,3311,2.0839625490788283,Arabeyes <doc@arabeyes.org>
+gmpc,100,0,1378,54,0,454,107,1478,6.7658998646820026,Arabic <ar@li.org>
+gnome-abrt,14,32,351,12,9,52,16,397,3.5264483627204033,ar
+gnome-backgrounds,30,0,0,18,0,0,29,30,100.0,Arabic <doc@arabeyes.org>
+gnome-bluetooth,372,0,0,110,0,0,398,372,100.0,Arabic <doc@arabeyes.org>
+gnome-boxes,1016,0,0,239,0,0,1045,1016,100.0,Arabic <doc@arabeyes.org>
+gnome-calculator,545,160,876,257,65,251,557,1581,34.471853257432,Arabic <doc@arabeyes.org>
+gnome-calendar,424,0,0,138,0,0,458,424,100.0,Arabic <doc@arabeyes.org>
+gnome-characters,161,0,0,47,0,0,160,161,100.0,Arabic <doc@arabeyes.org>
+gnome-chess,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+gnome-clocks,273,0,0,95,0,0,268,273,100.0,Arabic <doc@arabeyes.org>
+gnome-color-manager,304,0,2109,97,0,286,294,2413,12.598425196850393,Arabic <doc@arabeyes.org>
+gnome-commander,7242,280,680,1399,86,34,6520,8202,88.29553767373811,Arabic <doc@arabeyes.org>
+gnome-contacts,380,0,53,155,0,2,423,433,87.75981524249423,Arabic <doc@arabeyes.org>
+gnome-desktop,2927,0,5413,135,0,131,2258,8340,35.09592326139089,Arabic <doc@arabeyes.org>
+gnome-desktop3,2656,0,5481,100,0,136,2011,8137,32.64102248986113,Arabic <doc@arabeyes.org>
+gnome-dictionary,833,0,0,183,0,0,750,833,100.0,Arabic <doc@arabeyes.org>
+gnome-disk-utility,930,602,2001,237,130,285,925,3533,26.323238041324654,Arabic <doc@arabeyes.org>
+gnome-do,612,0,0,144,0,0,566,612,100.0,American English <doc@arabeyes.org>
+gnome-doc-utils,251,0,0,101,0,0,252,251,100.0,Arabic <doc@arabeyes.org>
+gnome-documents,647,0,0,204,0,0,700,647,100.0,Arabic <doc@arabeyes.org>
+gnome-dvb-daemon,809,0,0,200,0,0,765,809,100.0,Arabic <doc@arabeyes.org>
+gnome-font-viewer,46,0,0,23,0,0,53,46,100.0,Arabic <doc@arabeyes.org>
+gnome-icon-theme,20,0,0,16,0,0,21,20,100.0,Arabic <doc@arabeyes.org>
+gnome-initial-setup,765,0,0,120,0,0,676,765,100.0,Arabic <doc@arabeyes.org>
+gnome-keyring,532,0,21,107,0,5,502,553,96.20253164556962,Arabic <doc@arabeyes.org>
+gnome-klotski,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+gnome-logs,113,0,2,36,0,1,115,115,98.26086956521739,Arabic <doc@arabeyes.org>
+gnome-mahjongg,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+gnome-maps,1180,0,6,303,0,1,1124,1186,99.49409780775717,Arabic <doc@arabeyes.org>
+gnome-menus,70,0,0,27,0,0,67,70,100.0,Arabic <doc@arabeyes.org>
+gnome-mime-data,887,0,0,362,0,0,965,887,100.0,Arabic <doc@arabeyes.org>
+gnome-mines,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+gnome-mud,117,601,440,46,166,46,134,1158,10.103626943005182,Arabeyes <doc@arabeyes.org>
+gnome-music,390,0,0,68,0,0,385,390,100.0,Arabic <doc@arabeyes.org>
+gnome-nettool,636,0,27,212,0,6,667,663,95.92760180995475,Arabic <doc@arabeyes.org>
+gnome-nibbles,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+gnome-online-accounts,805,34,313,260,5,50,875,1152,69.87847222222221,Arabic <doc@arabeyes.org>
+gnome-packagekit,4991,79,18,781,22,4,5674,5088,98.0935534591195,Arabic <doc@arabeyes.org>Language: ar
+gnome-phone-manager,334,22,197,73,4,19,300,553,60.397830018083184,Arabic <doc@arabeyes.org>
+gnome-photos,467,0,30,196,0,4,508,497,93.96378269617706,Arabic <doc@arabeyes.org>
+gnome-power-manager,250,0,182,126,0,18,386,432,57.870370370370374,Arabic <doc@arabeyes.org>
+gnome-robots,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+gnome-screensaver,291,0,0,58,0,0,286,291,100.0,Arabic <doc@arabeyes.org>
+gnome-screenshot,355,0,0,76,0,0,320,355,100.0,Arabic <doc@arabeyes.org>
+gnome-search-tool,1359,0,0,200,0,0,1252,1359,100.0,Arabic <doc@arabeyes.org>
+gnome-session,256,0,67,58,0,1,217,323,79.25696594427245,Arabic <doc@arabeyes.org>
+gnome-settings-daemon,1683,80,1381,318,23,149,1582,3144,53.53053435114504,Arabic <doc@arabeyes.org>
+gnome-shell,1130,0,0,349,0,0,1348,1130,100.0,Arabic <doc@arabeyes.org>
+gnome-shell-extension-openweather,463,97,59,168,14,19,492,619,74.79806138933765,Arabic <doc@arabeyes.org>
+gnome-shell-extension-system-monitor-applet,116,27,14,86,2,6,115,157,73.88535031847134,Arabic <mfawwaz93@gmail.com>
+gnome-shell-extensions,221,0,163,59,0,10,207,384,57.552083333333336,Arabic <doc@arabeyes.org>
+gnome-software,2455,0,0,548,0,0,2308,2455,100.0,Arabic <doc@arabeyes.org>
+gnome-sound-recorder,274,0,0,69,0,0,299,274,100.0,Arabic <doc@arabeyes.org>
+gnome-subtitles,238,214,182,124,93,30,236,634,37.53943217665615,Arabic <doc@arabeyes.org>
+gnome-sudoku,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+gnome-system-log,522,0,0,94,0,0,459,522,100.0,Arabic <doc@arabeyes.org>
+gnome-system-monitor,1058,91,127,266,14,9,1200,1276,82.9153605015674,Arabic <doc@arabeyes.org>
+gnome-terminal,1870,493,191,424,36,27,1708,2554,73.21848081440876,Arabic <doc@arabeyes.org>
+gnome-tetravex,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+gnome-themes,109,0,0,30,0,0,122,109,100.0,Arabic <doc@arabeyes.org>
+gnome-themes-standard,24,0,0,9,0,0,23,24,100.0,Arabic <doc@arabeyes.org>
+gnome-todo,338,0,0,91,0,0,313,338,100.0,Arabic <doc@arabeyes.org>
+gnome-tweak-tool,545,0,51,175,0,1,574,596,91.44295302013423,Arabic <doc@arabeyes.org>
+gnome-user-share,247,0,0,34,0,0,214,247,100.0,Arabic <doc@arabeyes.org>
+gnome-vfs2,1508,0,0,301,0,0,1423,1508,100.0,Arabic <doc@arabeyes.org>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Arabic <doc@arabeyes.org>
+gnome-weather,97,2,93,36,1,5,101,192,50.520833333333336,Arabic <doc@arabeyes.org>
+gnote,2841,0,130,430,0,12,2606,2971,95.62436889936049,Arabic <doc@arabeyes.org>
+gnubik,223,13,43,69,1,13,290,279,79.92831541218638,Arabic <(nothing)>
+gnucash,31013,716,1051,4915,149,190,28247,32780,94.60951799877975,<ashalash@msn.com>
+gnumed,81,93,29227,30,38,4797,74,29401,0.27550083330498965,LANGUAGE <LL@li.org>
+gnumeric,302,7478,27266,235,2390,3017,311,35046,0.8617245905381498,Arabeyes <doc@arabeyes.org>
+gnusim8085,193,17,358,61,2,82,201,568,33.978873239436616,Arabic <ar@li.org>
+godot,3970,25,3035,1101,13,778,4156,7030,56.47226173541963,Arabic <https://hosted.weblate.org/projects/godot-engine/godot/ar/>
+goffice,184,2786,3231,114,1148,739,189,6201,2.967263344621835,Arabic <doc@arabeyes.org>
+goffice08,193,2231,2175,120,954,486,198,4599,4.196564470537073,Arabic <doc@arabeyes.org>
+gourmet,2623,113,1203,633,12,247,2727,3939,66.5905052043666,Arabic <ar@li.org>
+gparted,2891,0,0,476,0,0,2733,2891,100.0,Arabic <doc@arabeyes.org>
+gpicview,236,0,0,52,0,0,237,236,100.0,Arabic <doc@arabeyes.org>
+gpx-viewer,31,0,77,19,0,39,34,108,28.703703703703702,Arabic <ar@li.org>
+granatier,57,0,185,13,0,54,43,242,23.553719008264462,Arabic <doc@arabeyes.org>
+granite,75,0,81,23,0,34,93,156,48.07692307692308,Arabic <ar@li.org>
+grantlee-editor,359,33,8,115,1,2,328,400,89.75,Arabic <doc@arabeyes.org>
+grass,1640,36212,39038,285,6011,4947,1473,76890,2.132917154376382,Arabic <grass-translations@lists.osgeo.org>
+grub-customizer,198,0,1097,48,0,145,185,1295,15.28957528957529,Arabic <ar@li.org>
+gspell,78,0,0,32,0,0,83,78,100.0,Arabic <doc@arabeyes.org>
+gtg,134,0,3363,53,0,247,122,3497,3.831855876465542,Arabic <ar@li.org>
+gthumb,253,2117,1124,158,697,108,250,3494,7.240984544934173,Arabeyes <doc@arabeyes.org>
+gtk-recordmydesktop,553,0,263,74,0,30,482,816,67.76960784313727,Arabic <anas_h_34 [at] hotmail [dot] com>
+gtk2,11568,617,219,2443,109,33,9837,12404,93.26023863269913,Arabic <doc@arabeyes.org>
+gtk2-engines,119,0,0,47,0,0,128,119,100.0,Arabic <doc@arabeyes.org>
+gtk3,11560,920,798,2663,174,197,9982,13278,87.06130441331526,Arabic <doc@arabeyes.org>
+gtk4,11548,933,795,2640,178,200,9958,13276,86.98403133473937,Arabic <doc@arabeyes.org>
+gtkhtml3,485,0,0,309,0,0,490,485,100.0,Arabic <doc@arabeyes.org>
+gtksourceview2,1120,0,0,448,0,0,1143,1120,100.0,Arabic <doc@arabeyes.org>
+gtksourceview3,575,278,303,320,144,166,603,1156,49.740484429065745,Arabic <doc@arabeyes.org>
+gtranslator,649,294,938,213,99,161,660,1881,34.50292397660819,Arabic <doc@arabeyes.org>
+gucharmap,1093,0,235,424,0,21,1092,1328,82.30421686746988,Arabic <doc@arabeyes.org>
+gummi,210,73,475,104,34,123,30,758,27.70448548812665,www.linuxac.org
+gvfs,1654,33,324,401,9,59,1688,2011,82.24763799104923,Arabic <doc@arabeyes.org>
+gweled,27,0,129,8,0,36,34,156,17.307692307692307,Arabic <ar@li.org>
+gwenview,966,63,276,324,21,17,1061,1305,74.02298850574712,Arabic <Arabic <doc@arabeyes.org>>
+gwget,526,15,9,175,7,5,540,550,95.63636363636364,Arabic <doc@arabeyes.org>
+hamster-time-tracker,483,61,153,153,8,11,530,697,69.29698708751793,Arabic <doc@arabeyes.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hitori,171,0,3,35,0,1,140,174,98.27586206896551,Arabic <doc@arabeyes.org>
+homebank,521,0,1898,230,0,537,505,2419,21.537825547747,Arabic <ar@li.org>
+iagno,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+ibus,117,0,730,41,0,114,109,847,13.81345926800472,Arabic <AR@li.org>
+im-chooser,52,0,187,13,0,43,45,239,21.75732217573222,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Arabic
+initscripts,666,54,254,101,10,38,701,974,68.37782340862422,Arabic <trans-ar@lists.fedoraproject.org>
+inkscape,14693,1049,22472,4481,381,3283,14259,38214,38.44925943371539,Arabic (http://www.transifex.com/projects/p/arabic-inkscape/language/ar/)
+iok,142,5,59,36,1,3,150,206,68.93203883495146,Arabic <trans-ar@lists.fedoraproject.org>
+islamic-menus,5,0,0,2,0,0,6,5,100.0,Arabic <ar@li.org>
+iso-codes,1241,4046,10805,623,3191,6551,1068,16092,7.711906537409893,Arabic
+isomaster,674,0,0,107,0,0,635,674,100.0,Abdellah Chelli <sneetsher@gmail.com>
+jmol,406,31,2729,247,16,758,428,3166,12.823752368919772,Arabic <ar@li.org>
+juk,1038,250,165,289,25,41,1037,1453,71.43840330350997,Arabic
+kaccounts-integration,22,2,58,6,1,5,16,82,26.82926829268293,Arabic <doc@arabeyes.org>
+kaccounts-providers,25,0,35,15,0,5,23,60,41.66666666666667,Arabic <doc@arabeyes.org>
+kactivitymanagerd,4,5,0,2,2,0,4,9,44.44444444444444,Arabic <doc@arabeyes.org>
+kaddressbook,737,8,0,165,2,0,622,745,98.9261744966443,Arabic <doc@arabeyes.org>
+kalarm,1681,1152,4503,380,189,456,1514,7336,22.914394765539804,Arabic <doc@arabeyes.org>
+kalgebra,136,24,0,70,9,0,139,160,85.0,Arabic <doc@arabeyes.org>
+kalzium,5498,2680,1730,1072,124,160,4649,9908,55.49051271699636,Arabic <doc@arabeyes.org>
+kamera,283,59,0,34,3,0,245,342,82.7485380116959,Arabic <kde-i18n-doc@kde.org>
+kamoso,39,3,77,18,1,22,35,119,32.773109243697476,Arabic <doc@arabeyes.org>
+kanagram,115,289,124,32,66,47,101,528,21.78030303030303,<en@li.org>
+kapman,108,0,6,34,0,2,121,114,94.73684210526315,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kapow,0,0,102,0,0,4,0,102,0.0,Arabic (http://www.transifex.com/projects/p/kapow/language/ar/)
+kate,4599,89,150,1105,16,43,4349,4838,95.05994212484498,Arabic <doc@arabeyes.org>
+katomic,112,19,54,45,5,9,124,185,60.54054054054055,<en@li.org>
+kaudiocreator,351,433,352,109,103,61,349,1136,30.897887323943664,<en@li.org>
+kblackbox,797,562,1,63,37,1,724,1360,58.602941176470594,<en@li.org>
+kblocks,69,17,73,22,7,9,75,159,43.39622641509434,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kbounce,90,34,30,26,6,10,87,154,58.44155844155844,<en@li.org>
+kbruch,47,883,415,10,122,63,43,1345,3.494423791821561,<en@li.org>
+kcachegrind,0,1646,90,0,187,9,0,1736,0.0,<en@li.org>
+kcalc,844,19,113,320,2,4,800,976,86.47540983606558,Arabic <Arabic <doc@arabeyes.org>>
+kcharselect,72,9,7,28,2,4,94,88,81.81818181818183,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kcolorchooser,14,10,5,6,2,2,19,29,48.275862068965516,Arabic <kde-i18n-doc@kde.org>
+kcoloredit,8,96,174,5,33,57,11,278,2.877697841726619,<en@li.org>
+kcron,196,246,92,99,66,25,236,534,36.70411985018727,<en@li.org>
+kde-cli-tools,1728,252,117,178,16,22,1504,2097,82.40343347639485,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kde-connect,508,109,81,129,8,31,463,698,72.77936962750717,Arabic <doc@arabeyes.org>
+kde-dev-utils,35,17,13,16,4,5,40,65,53.84615384615385,Arabic <doc@arabeyes.org>
+kde-gtk-config,256,12,41,64,3,9,234,309,82.84789644012946,Arabic <doc@arabeyes.org>
+kde-l10n,70975,13715,14295,14230,3014,3035,66639,98985,71.70278324998736,Arabic <doc@arabeyes.org>
+kde-partitionmanager,1643,388,247,366,61,93,1603,2278,72.12467076382791,Arabic <doc@arabeyes.org>
+kde-print-manager,730,14,218,213,3,57,707,962,75.88357588357589,Arabic <doc@arabeyes.org>
+kdebugsettings,47,0,72,24,0,13,43,119,39.49579831932773,Arabic <doc@arabeyes.org>
+kdenetwork-filesharing,4,28,10,3,5,4,4,42,9.523809523809524,Arabic <doc@arabeyes.org>
+kdepim-addons,2782,244,247,536,37,39,2374,3273,84.99847234952644,Arabic <doc@arabeyes.org>
+kdepim-apps-libs,57,0,2,32,0,2,72,59,96.61016949152543,Arabic <doc@arabeyes.org>
+kdepim-runtime,2632,0,0,426,0,0,2314,2632,100.0,Arabic <doc@arabeyes.org>
+kdeplasma-addons,1244,79,225,452,26,83,1397,1548,80.36175710594316,Arabic <doc@arabeyes.org>
+kdevelop,708,10,1,182,4,1,667,719,98.47009735744089,Arabic <doc@arabeyes.org>
+kdevplatform,14,0,0,6,0,0,14,14,100.0,Arabic <doc@arabeyes.org>
+kdf,180,0,1,68,0,1,205,181,99.4475138121547,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kdiagram,42,0,23,29,0,10,43,65,64.61538461538461,Arabic <doc@arabeyes.org>
+kdialog,221,78,48,51,9,10,192,347,63.68876080691642,Arabic <doc@arabeyes.org>
+kdiamond,116,6,0,31,1,0,114,122,95.08196721311475,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kdiff3,277,37,3203,83,17,537,272,3517,7.876030707989765,Arabic <doc@arabeyes.org>
+kdnssd,21,9,0,6,1,0,21,30,70.0,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+keditbookmarks,405,61,0,125,7,0,380,466,86.9098712446352,Arabic <doc@arabeyes.org>
+keurocalc,265,0,26,104,0,12,268,291,91.06529209621993,Arabic <ar@li.org>
+kexec-tools,0,0,83,0,0,12,0,83,0.0,LANGUAGE <LL@li.org>
+kexi,99,5896,1316,47,1236,194,93,7311,1.3541239228559705,<en@li.org>
+kf5-akonadi-calendar,1807,0,0,251,0,0,1719,1807,100.0,Arabic <doc@arabeyes.org>
+kf5-akonadi-contacts,1398,0,0,286,0,0,1466,1398,100.0,Arabic <doc@arabeyes.org>
+kf5-akonadi-mime,304,72,196,73,10,24,257,572,53.14685314685315,Arabic <doc@arabeyes.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Arabic <doc@arabeyes.org>
+kf5-akonadi-search,48,0,0,11,0,0,45,48,100.0,Arabic <doc@arabeyes.org>
+kf5-akonadi-server,72,482,1889,13,146,266,77,2443,2.9471960704052393,Arabic <doc@arabeyes.org>
+kf5-audiocd-kio,775,43,23,155,19,3,775,841,92.15219976218788,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kf5-baloo,506,54,101,119,10,29,421,661,76.55068078668684,Arabic <doc@arabeyes.org>
+kf5-calendarsupport,2361,168,438,342,14,53,1988,2967,79.57532861476238,Arabic <doc@arabeyes.org>
+kf5-grantleetheme,12,2,0,5,1,0,14,14,85.71428571428571,Arabic <doc@arabeyes.org>
+kf5-kalarmcal,40,0,0,20,0,0,88,40,100.0,Arabic <doc@arabeyes.org>
+kf5-kauth,61,12,0,7,1,0,53,73,83.56164383561644,Arabic <doc@arabeyes.org>
+kf5-kblog,144,0,99,16,0,11,111,243,59.25925925925925,Arabic <doc@arabeyes.org>
+kf5-kbookmarks,175,0,55,40,0,9,150,230,76.08695652173914,Arabic <doc@arabeyes.org>
+kf5-kcalendarutils,0,0,1630,0,0,427,0,1630,0.0,<en@li.org>
+kf5-kcmutils,302,257,5,43,28,1,251,564,53.54609929078015,Arabic <doc@arabeyes.org>
+kf5-kcodecs,348,0,0,53,0,0,287,348,100.0,Arabic <doc@arabeyes.org>
+kf5-kcompletion,18,0,0,11,0,0,17,18,100.0,Arabic <doc@arabeyes.org>
+kf5-kconfig,162,2,97,76,1,23,164,261,62.06896551724138,Arabic <doc@arabeyes.org>
+kf5-kconfigwidgets,321,0,0,117,0,0,309,321,100.0,Arabic <doc@arabeyes.org>
+kf5-kcontacts,151,12,14,94,7,7,153,177,85.31073446327684,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kf5-kcoreaddons,301,0,0,95,0,0,351,301,100.0,Arabic <doc@arabeyes.org>
+kf5-kdbusaddons,42,6,0,5,1,0,35,48,87.5,Arabic <doc@arabeyes.org>
+kf5-kdeclarative,109,0,0,14,0,0,88,109,100.0,Arabic <doc@arabeyes.org>
+kf5-kdelibs4support,3362,1008,443,1539,663,162,3949,4813,69.85248285892375,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kf5-kdesignerplugin,14,0,40,3,0,6,13,54,25.925925925925924,Arabic <kde-i18n-doc@kde.org>
+kf5-kdesu,4,0,15,2,0,5,4,19,21.052631578947366,Arabic <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Arabic <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,<en@li.org>
+kf5-kfilemetadata,95,5,48,55,4,23,102,148,64.1891891891892,Arabic <doc@arabeyes.org>
+kf5-kglobalaccel,65,0,6,8,0,1,49,71,91.54929577464789,Arabic <doc@arabeyes.org>
+kf5-kholidays,96,0,13,65,0,12,90,109,88.07339449541286,Arabic <doc@arabeyes.org>
+kf5-khtml,1590,41,90,287,13,10,1455,1721,92.38814642649622,Arabic <doc@arabeyes.org>
+kf5-ki18n,74,0,50,60,0,50,76,124,59.67741935483871,Arabic <doc@arabeyes.org>
+kf5-kiconthemes,25,11,1,16,1,1,27,37,67.56756756756756,Arabic <doc@arabeyes.org>
+kf5-kidentitymanagement,165,0,0,21,0,0,136,165,100.0,Arabic <doc@arabeyes.org>
+kf5-kinit,108,26,0,11,3,0,90,134,80.59701492537313,Arabic <doc@arabeyes.org>
+kf5-kio,4981,4424,2760,945,242,173,4324,12165,40.94533497739417,Arabic <doc@arabeyes.org>
+kf5-kirigami2,2,4,4,2,2,2,2,10,20.0,Arabic <doc@arabeyes.org>
+kf5-kitemviews,1,1,5,1,1,2,2,7,14.285714285714285,Arabic <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,88,9,26,29,1,6,160,123,71.54471544715447,Arabic <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,267,248,100.0,Arabic <doc@arabeyes.org>
+kf5-kldap,33,129,17,8,37,6,36,179,18.435754189944134,Arabic <doc@arabeyes.org>
+kf5-kmailtransport,0,525,103,0,78,28,0,628,0.0,<en@li.org>
+kf5-kmime,132,27,0,9,1,0,96,159,83.01886792452831,Arabic <doc@arabeyes.org>
+kf5-knewstuff,548,29,113,126,11,21,536,690,79.42028985507247,Arabic <doc@arabeyes.org>
+kf5-knotifications,18,0,0,6,0,0,15,18,100.0,Arabic <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,43,86,0,15,2,0,39,129,33.33333333333333,Arabic <doc@arabeyes.org>
+kf5-kontactinterface,4,0,0,2,0,0,7,4,100.0,Arabic <kde-i18n-doc@kde.org>
+kf5-kpackage,202,65,228,60,15,22,183,495,40.80808080808081,Arabic <doc@arabeyes.org>
+kf5-kparts,104,0,0,26,0,0,88,104,100.0,Arabic <doc@arabeyes.org>
+kf5-kpeople,20,0,1,10,0,1,19,21,95.23809523809523,Arabic <doc@arabeyes.org>
+kf5-kpimtextedit,345,0,0,152,0,0,337,345,100.0,Arabic <doc@arabeyes.org>
+kf5-kpty,15,0,0,4,0,0,18,15,100.0,Arabic <doc@arabeyes.org>
+kf5-kross,82,18,0,29,6,0,75,100,82.0,Arabic <doc@arabeyes.org>
+kf5-kservice,92,3,75,13,1,14,86,170,54.11764705882353,Arabic <doc@arabeyes.org>
+kf5-ktexteditor,6053,524,1800,1039,52,125,5188,8377,72.25737137400023,Arabic <doc@arabeyes.org>
+kf5-ktextwidgets,455,3,4,117,1,4,460,462,98.48484848484848,Arabic <doc@arabeyes.org>
+kf5-ktnef,353,2,0,141,2,0,368,355,99.43661971830986,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kf5-kunitconversion,3353,693,1220,1207,251,786,6665,5266,63.67261678693505,Arabic <doc@arabeyes.org>
+kf5-kwallet,534,316,648,53,9,46,469,1498,35.647530040053404,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kf5-kwidgetsaddons,877,138,304,349,37,72,876,1319,66.48976497346474,Arabic <doc@arabeyes.org>
+kf5-kwindowsystem,2,0,0,1,0,0,3,2,100.0,Arabic <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1197,123,276,194,16,18,1178,1596,75.0,Arabic <doc@arabeyes.org>
+kf5-kxmlrpcclient,0,13,0,0,2,0,0,13,0.0,<en@li.org>
+kf5-libkcddb,426,7,124,218,4,29,429,557,76.48114901256733,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kf5-libkcompactdisc,15,0,0,10,0,0,17,15,100.0,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kf5-libkdepim,397,0,68,107,0,20,396,465,85.3763440860215,Arabic <doc@arabeyes.org>
+kf5-libkgeomap,120,9,10,35,3,8,106,139,86.33093525179856,Arabic <Arabic <doc@arabeyes.org>>
+kf5-libkleo,261,136,753,83,51,156,261,1150,22.695652173913043,<en@li.org>
+kf5-libksane,233,0,39,80,0,3,302,272,85.66176470588235,Arabic <kde-i18n-doc@kde.org>
+kf5-libksieve,259,280,2814,40,41,472,230,3353,7.724425887265135,Arabic <doc@arabeyes.org>
+kf5-libktorrent,347,59,65,86,13,7,344,471,73.67303609341825,Arabic <doc@arabeyes.org>
+kf5-mailimporter,8,1241,159,1,92,34,18,1408,0.5681818181818182,<en@li.org>
+kf5-messagelib,3920,208,2461,744,23,272,3476,6589,59.493094551525274,Arabic <doc@arabeyes.org>
+kf5-plasma,367,8,131,115,4,29,327,506,72.5296442687747,Arabic <doc@arabeyes.org>
+kf5-solid,364,58,260,174,17,31,351,682,53.3724340175953,Arabic <doc@arabeyes.org>
+kf5-sonnet,305,9,349,65,2,5,274,663,46.003016591251885,Arabic <Arabic <doc@arabeyes.org>>
+kf5-syntax-highlighting,0,164,290,0,111,185,0,454,0.0,Arabic <doc@arabeyes.org>
+kfind,492,11,2,113,4,1,544,505,97.42574257425743,Arabic <doc@arabeyes.org>
+kflickr,327,0,5,84,0,3,324,332,98.49397590361446,Arabic <ar@li.org>
+kfloppy,611,24,6,97,1,2,642,641,95.3198127925117,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kfourinline,216,77,99,88,31,38,223,392,55.10204081632652,Arabic <doc@arabeyes.org>
+kgamma,130,0,0,16,0,0,113,130,100.0,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kgeography,7364,1632,703,5361,1253,519,7473,9699,75.92535312918858,Arabeyes
+kget,1387,453,1078,511,100,179,1421,2918,47.53255654557916,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kgoldrunner,435,9142,13980,101,527,280,294,23557,1.8465848792291037,Arabic <doc@arabeyes.org>
+kgpg,2348,1909,1025,479,149,70,2315,5282,44.452858765619084,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kgrab,0,368,2,0,51,2,0,370,0.0,<en@li.org>
+khangman,258,68,147,61,14,44,224,473,54.54545454545454,Arabic <doc@arabeyes.org>
+khelpcenter,215,18,23,79,6,2,232,256,83.984375,Arabic <doc@arabeyes.org>
+khotkeys,280,21,135,104,12,13,280,436,64.22018348623854,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kiconedit,678,46,2,133,21,1,629,726,93.38842975206612,<en@li.org>
+kig,30,7609,117,21,1238,32,41,7756,0.3867973182052605,<en@li.org>
+kinfocenter,2583,199,137,891,43,76,2625,2919,88.48920863309353,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kio-extras,818,33,64,108,9,11,730,915,89.39890710382514,<en@li.org>
+kio-gdrive,2,0,12,1,0,1,2,14,14.285714285714285,Arabic <doc@arabeyes.org>
+kio_gopher,16,1,0,4,1,0,21,17,94.11764705882352,Arabic <doc@arabeyes.org>
+kiriki,53,16,75,25,9,16,51,144,36.80555555555556,<en@li.org>
+kiten,0,343,298,0,102,77,0,641,0.0,<en@li.org>
+kjots,209,77,113,60,17,29,195,399,52.38095238095239,<en@li.org>
+kjumpingcube,107,58,247,29,17,49,88,412,25.970873786407765,<en@li.org>
+klavaro,1733,0,178,201,0,31,1251,1911,90.68550497121926,Arabic <(nothing)>
+kleopatra,142,2192,6280,39,506,765,136,8614,1.6484792198746225,<en@li.org>
+klettres,403,8,25,71,1,11,343,436,92.43119266055045,Arabic <doc@arabeyes.org>
+klines,64,8,27,16,4,8,56,99,64.64646464646465,<en@li.org>
+kmag,228,145,59,39,37,22,204,432,52.77777777777778,<en@li.org>
+kmahjongg,231,81,28,69,22,7,217,340,67.94117647058823,<en@li.org>
+kmail,4589,801,3071,976,67,220,4215,8461,54.23708781467912,Arabic <doc@arabeyes.org>
+kmail-account-wizard,794,0,5,127,0,1,666,799,99.37421777221527,Arabic <doc@arabeyes.org>
+kmenuedit,254,14,9,53,4,4,231,277,91.69675090252709,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kmines,104,0,4,37,0,1,103,108,96.29629629629629,Arabic <doc@arabeyes.org>
+kmix,771,85,51,185,19,15,719,907,85.00551267916208,Arabic <doc@arabeyes.org>
+kmousetool,47,96,4,19,12,1,52,147,31.97278911564626,<en@li.org>
+kmplot,1972,486,0,408,63,0,1533,2458,80.22782750203417,<en@li.org>
+knavalbattle,25,241,133,12,60,30,37,399,6.265664160401002,<en@li.org>
+knemo,166,221,849,85,98,169,171,1236,13.430420711974108,Arabic <doc@arabeyes.org>
+knetwalk,115,18,97,28,1,25,160,230,50.0,Arabic <doc@arabeyes.org>
+knotes,643,14,5,208,3,1,619,662,97.1299093655589,Arabic <doc@arabeyes.org>
+koffice-kivio,1562,1561,5294,445,734,1182,1497,8417,18.55768088392539,Arabic <doc@arabeyes.org>
+kolf,260,120,16,104,37,6,263,396,65.65656565656566,<en@li.org>
+kolourpaint,1693,880,50,388,51,13,1626,2623,64.54441479222265,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kompare,331,783,316,96,78,22,380,1430,23.146853146853147,Arabic <doc@arabeyes.org>
+konqueror,7747,896,384,1252,91,47,6913,9027,85.8203168272959,Arabic <doc@arabeyes.org>
+konquest,167,44,35,59,20,19,202,246,67.88617886178862,<en@li.org>
+konsole5,1796,445,410,437,64,47,1699,2651,67.74801961523953,Arabic <Arabic <doc@arabeyes.org>>
+kontact,495,103,0,96,2,0,450,598,82.77591973244147,Arabic <doc@arabeyes.org>
+korganizer,702,3391,2194,192,457,180,706,6287,11.16589788452362,Arabic <doc@arabeyes.org>
+kpat,235,72,129,77,20,35,254,436,53.899082568807344,<en@li.org>
+kphotoalbum,1133,4053,4378,341,382,296,1240,9564,11.84650773734839,Arabic <doc@arabeyes.org>
+kpilot,733,2485,3938,160,455,246,712,7156,10.243152599217439,<en@li.org>
+kpmcore,166,1827,1227,67,209,202,170,3220,5.15527950310559,Arabic <doc@arabeyes.org>
+krdc,761,282,233,172,59,55,720,1276,59.639498432601876,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+kreport,0,292,178,0,164,49,0,470,0.0,Arabic <doc@arabeyes.org>
+kreversi,0,189,239,0,55,86,0,428,0.0,<en@li.org>
+krfb,207,161,276,41,14,33,212,644,32.142857142857146,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+krita,9177,5521,10827,3100,1942,1139,8758,25525,35.95298726738492,Arabic <doc@arabeyes.org>
+kruler,130,41,13,38,3,6,101,184,70.65217391304348,Arabic <kde-i18n-doc@kde.org>
+kscreen,140,17,56,34,2,28,148,213,65.72769953051643,Arabic <doc@arabeyes.org>
+kscreenlocker,71,23,96,15,5,13,60,190,37.368421052631575,Arabic <doc@arabeyes.org>
+kshisen,0,488,34,0,51,15,0,522,0.0,<en@li.org>
+ksig,67,18,0,15,11,0,60,85,78.82352941176471,<en@li.org>
+ksirk,0,1395,1290,0,249,251,0,2685,0.0,<en@li.org>
+kspaceduel,138,25,2,64,15,2,145,165,83.63636363636363,<en@li.org>
+ksquares,168,47,42,61,7,8,138,257,65.36964980544747,Arabic <doc@arabeyes.org>
+ksshaskpass,28,0,15,8,0,4,30,43,65.11627906976744,Arabic <doc@arabeyes.org>
+kstars,14353,14280,28079,6386,3013,6534,14396,56712,25.308576668077304,Arabic <kde-i18n-doc@kde.org>
+ksudoku,324,66,1269,86,11,61,401,1659,19.529837251356238,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+ksysguard,841,21,216,197,8,28,729,1078,78.01484230055658,Arabic <doc@arabeyes.org>
+ksystemlog,1557,17,1460,326,2,151,1406,3034,51.318391562293996,Arabic <doc@arabeyes.org>
+kteatime,175,23,3,58,5,2,256,201,87.06467661691542,Arabic <Arabic <doc@arabeyes.org>>
+ktimer,241,0,0,51,0,0,205,241,100.0,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+ktorrent,6292,524,722,1220,82,80,5476,7538,83.47041655611568,Arabic <doc@arabeyes.org>
+ktouch,749,58,64,214,9,19,718,871,85.99311136624569,Arabic <doc@arabeyes.org>
+ktp-accounts-kcm,403,7,413,137,1,100,372,823,48.96719319562576,Arabic <doc@arabeyes.org>
+ktp-approver,58,0,13,14,0,4,66,71,81.69014084507043,Arabic <doc@arabeyes.org>
+ktp-auth-handler,69,0,14,20,0,4,62,83,83.13253012048193,Arabic <doc@arabeyes.org>
+ktp-common-internals,17,2,17,6,1,3,15,36,47.22222222222222,Arabic <doc@arabeyes.org>
+ktp-contact-list,203,34,171,67,2,40,191,408,49.754901960784316,Arabic <doc@arabeyes.org>
+ktp-desktop-applets,33,0,4,8,0,2,28,37,89.1891891891892,Arabic <doc@arabeyes.org>
+ktp-kded-integration-module,139,0,138,34,0,20,114,277,50.18050541516246,Arabic <doc@arabeyes.org>
+ktp-send-file,52,0,8,15,0,3,56,60,86.66666666666667,Arabic <doc@arabeyes.org>
+ktp-text-ui,390,20,697,94,2,117,329,1107,35.230352303523034,Arabic <doc@arabeyes.org>
+ktuberling,69,79,10,26,7,5,67,158,43.67088607594937,<en@li.org>
+kturtle,994,423,110,218,90,38,846,1527,65.09495743287492,amin
+kwalletmanager5,747,32,23,159,2,5,661,802,93.14214463840399,<en@li.org>
+kwebkitpart,506,44,74,137,8,13,475,624,81.08974358974359,Arabic <kde-i18n-doc@kde.org>
+kwin,3217,361,2633,743,113,349,2981,6211,51.795202060859765,Arabic <doc@arabeyes.org>
+kwordquiz,2003,21,1,406,6,1,1646,2025,98.91358024691358,<en@li.org>
+lazarus,656,275,22484,336,46,4708,714,23415,2.80162289130899,Arabic
+libbonobo,543,0,0,107,0,0,508,543,100.0,Arabic <doc@arabeyes.org>
+libbonoboui,368,0,0,115,0,0,357,368,100.0,Arabic <doc@arabeyes.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Arabic
+libcryptui,3002,0,9,650,0,3,2858,3011,99.70109598140154,Arabic <doc@arabeyes.org>
+libepc,23,23,100,8,6,12,25,146,15.753424657534246,Arabeyes <doc@arabeyes.org>
+libgda,23,4160,6959,21,1056,977,25,11142,0.20642613534374438,Arabeyes <doc@arabeyes.org>
+libgdata,403,0,194,55,0,19,333,597,67.50418760469012,Arabic <doc@arabeyes.org>
+libgdl,602,0,0,93,0,0,532,602,100.0,Arabeyes <doc@arabeyes.org>
+libgnome,1773,0,0,273,0,0,1643,1773,100.0,Arabic <doc@arabeyes.org>
+libgnome-keyring,44,0,0,9,0,0,42,44,100.0,Arabic <doc@arabeyes.org>
+libgnomecanvas,378,0,0,95,0,0,361,378,100.0,Arabic <doc@arabeyes.org>
+libgnomekbd,242,0,0,55,0,0,231,242,100.0,Arabic <doc@arabeyes.org>
+libgnomeui,1226,0,0,320,0,0,1052,1226,100.0,Arabic <doc@arabeyes.org>
+libgtop2,126,0,0,40,0,0,171,126,100.0,Arabic <doc@arabeyes.org>
+libgweather,4732,920,703,3618,702,348,4727,6355,74.46105428796224,Arabic <doc@arabeyes.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,344,22,4,122,7,3,315,370,92.97297297297298,<en@li.org>
+libkeduvocdocument,0,160,11,0,77,4,0,171,0.0,<en@li.org>
+libkexif,15,0,10,11,0,3,17,25,60.0,<ar@li.org>
+libkfbapi,0,0,42,0,0,6,0,42,0.0,<en@li.org>
+libkgapi,302,0,0,68,0,0,347,302,100.0,Arabic <doc@arabeyes.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,<en@li.org>
+libkomparediff2,38,86,19,12,6,1,34,143,26.573426573426573,Arabic <doc@arabeyes.org>
+libksysguard,1628,298,1240,295,30,71,1489,3166,51.42135186355022,Arabic <doc@mail.org>
+libktorrent,0,376,143,0,88,27,0,519,0.0,<en@li.org>
+libmatekbd,181,0,70,37,0,6,180,251,72.11155378486056,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+libmatemixer,209,0,33,109,0,17,226,242,86.36363636363636,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+libmateweather,4168,1346,605,3184,1010,358,4125,6119,68.11570518058507,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+libmypaint,789,0,748,57,0,49,713,1537,51.33376707872479,Arabic <https://hosted.weblate.org/projects/mypaint/libmypaint/ar/>
+libosinfo,0,0,662,0,0,145,0,662,0.0,Arabic
+libpeas,105,0,0,26,0,0,85,105,100.0,Arabic <doc@arabeyes.org>
+libpwquality,18,0,325,6,0,47,29,343,5.247813411078718,Arabic (http://www.transifex.com/projects/p/libpwquality/language/ar/)
+libreoffice,88449,2480,465417,28533,880,47129,81547,556346,15.898200040981692,LANGUAGE <LL@li.org>
+libreport,233,0,4754,56,0,551,224,4987,4.672147583717666,Arabic (http://www.transifex.com/projects/p/libreport/language/ar/)
+libsecret,59,0,0,9,0,0,49,59,100.0,Arabic <doc@arabeyes.org>
+libuser,981,38,418,211,7,83,1061,1437,68.26722338204593,Arabic (http://www.transifex.com/projects/p/fedora/language/ar/)
+libvirt,926,4741,56616,218,837,8607,926,62283,1.486762037795225,Arabic (http://www.transifex.com/projects/p/fedora/language/ar/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Arabic (http://www.transifex.com/projects/p/libvirt-glib/language/ar/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Arabic <trans-ar@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1093,1124,100.0,Arabic <doc@arabeyes.org>
+libwnck3,1124,0,0,241,0,0,1093,1124,100.0,Arabic <doc@arabeyes.org>
+libxfce4ui,850,0,0,164,0,0,813,850,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+libxfce4util,424,0,0,7,0,0,330,424,100.0,فريق تعريب إكسفس
+libzypp,2335,3,23,943,1,6,2521,2361,98.89877170690386,Arabic <https://l10n.opensuse.org/projects/libzypp/master/ar/>
+lifeograph,220,360,477,60,100,124,209,1057,20.813623462630083,Arabic <ar@li.org>
+liferea,1953,68,192,456,10,29,1854,2213,88.25124265702667,Arabic <doc@arabeyes.org>
+light-locker,7,0,253,2,0,35,5,260,2.6923076923076925,Arabic (http://www.transifex.com/the_cavalry/light-locker/language/ar/)
+lightdm,124,0,39,20,0,1,116,163,76.07361963190185,Arabic <ar@li.org>
+lightdm-gtk,35,0,52,12,0,13,35,87,40.229885057471265,Arabic <ar@li.org>
+lightdm-gtk-greeter-settings,315,0,204,127,0,44,313,519,60.69364161849711,Arabic <ar@li.org>
+lightsoff,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+lokalize,3557,0,0,595,0,0,3112,3557,100.0,Arabic <doc@arabeyes.org>
+lollypop,1011,1,0,305,1,0,1099,1012,99.90118577075098,Arabic <https://hosted.weblate.org/projects/gnumdk/lollypop/ar/>
+lskat,233,21,0,79,4,0,240,254,91.73228346456693,Arabic <doc@arabeyes.org>
+lxappearance,227,2,5,75,2,3,233,234,97.00854700854701,Arabic <doc@arabeyes.org>
+lxappearance-obconf,196,0,0,27,0,0,166,196,100.0,Arabic <doc@arabeyes.org>
+lxde-common,14,0,0,5,0,0,15,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,52,47,100.0,Arabic <doc@arabeyes.org>
+lxinput,81,2,0,24,2,0,81,83,97.59036144578313,Arabic <doc@arabeyes.org>
+lxlauncher,58,0,0,17,0,0,49,58,100.0,Arabic <doc@arabeyes.org>
+lxmenu-data,97,0,0,37,0,0,92,97,100.0,Arabic <doc@arabeyes.org>
+lxmusic,202,1,0,88,1,0,212,203,99.50738916256158,Arabic <doc@arabeyes.org>
+lxrandr,94,50,23,25,8,8,114,167,56.287425149700596,Arabic <doc@arabeyes.org>
+lxsession,490,84,181,122,12,32,461,755,64.90066225165563,Arabic <doc@arabeyes.org>
+lxshortcut,43,0,0,19,0,0,43,43,100.0,Arabic
+lxtask,125,0,5,49,0,2,142,130,96.15384615384616,Arabic
+lxterminal,161,40,1,80,17,1,171,202,79.70297029702971,Arabic <trans-ar@lists.fedoraproject.org>
+lyx,15648,1000,8677,5857,112,1259,15358,25325,61.78874629812439,Hatim Alahmady <dr.hatim@hotmail.com>
+mailman,13011,1579,9453,1027,66,347,11620,24043,54.115542985484346,Arabic
+manaplus,145,0,4239,73,0,1333,153,4384,3.307481751824817,Arabic (http://www.transifex.com/projects/p/manaplus/language/ar/)
+marble,28,3596,7713,11,1211,2065,29,11337,0.24697891858516363,<en@li.org>
+marco,3237,0,911,371,0,42,2832,4148,78.03760848601736,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mariadb,119,50,95,8,5,7,102,264,45.07575757575758,Arabic <support@arabeyes.org>
+mate-applets,3299,0,807,642,0,85,2896,4106,80.34583536288359,Arabic <LL@li.org>
+mate-backgrounds,30,0,0,21,0,0,29,30,100.0,Arabic (http://www.transifex.com/mate/MATE/language/ar/)
+mate-calc,1293,0,78,414,0,6,1240,1371,94.31072210065645,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-control-center,2469,0,189,582,0,46,2231,2658,92.88939051918736,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-desktop,2029,0,276,280,0,19,1855,2305,88.02603036876356,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-media,206,0,20,88,0,8,202,226,91.1504424778761,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-menu,298,0,18,110,0,8,304,316,94.30379746835443,Arabic (http://www.transifex.com/mate/MATE/language/ar/)
+mate-menus,97,0,0,37,0,0,96,97,100.0,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-notification-daemon,139,0,0,37,0,0,128,139,100.0,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-panel,4804,124,384,642,1,36,4025,5312,90.4367469879518,Arabic <en@li.org>
+mate-polkit,122,0,0,20,0,0,93,122,100.0,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-power-manager,2654,0,70,418,0,22,2445,2724,97.43024963289281,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-screensaver,873,0,110,147,0,9,734,983,88.80976602238047,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-sensors-applet,304,0,2,105,0,1,301,306,99.34640522875817,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-session-manager,570,0,111,110,0,4,499,681,83.70044052863436,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-settings-daemon,1425,0,339,220,0,33,1254,1764,80.78231292517006,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-system-monitor,3397,0,777,525,0,68,2899,4174,81.3847628174413,Arabic
+mate-terminal,4160,0,489,496,0,29,3433,4649,89.4816089481609,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-themes,48,0,12,8,0,4,46,60,80.0,Arabic (http://www.transifex.com/mate/MATE/language/ar/)
+mate-user-guide,1098,0,39723,177,0,2754,886,40821,2.6897920188138458,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+mate-utils,3607,0,70,653,0,7,3072,3677,98.09627413652434,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+maya-calendar,70,0,324,24,0,140,94,394,17.766497461928935,Arabic <ar@li.org>
+meld,41,392,483,27,146,68,50,916,4.475982532751091,Arabeyes <doc@arabeyes.org>
+metacity,2040,0,0,310,0,0,1871,2040,100.0,Arabic <doc@arabeyes.org>
+midori,2638,0,903,653,0,143,2623,3541,74.49872917255013,Arabic <herr.linux88@gmail.com>
+mingw-GConf2,3940,91,4,474,9,1,3574,4035,97.64560099132589,Arabic <doc@arabeyes.org>
+mingw-atk,375,0,0,126,0,0,341,375,100.0,Arabic <doc@arabeyes.org>
+mingw-gdk-pixbuf,1266,82,0,195,7,0,1236,1348,93.91691394658753,Arabic <doc@arabeyes.org>
+mingw-glib-networking,153,0,0,28,0,0,161,153,100.0,Arabic <doc@arabeyes.org>
+mingw-glib2,2279,0,2992,407,0,408,2313,5271,43.23657749952571,Arabic <doc@arabeyes.org>
+mingw-gtk2,11568,617,219,2443,109,33,9837,12404,93.26023863269913,Arabic <doc@arabeyes.org>
+mingw-gtk3,11548,933,795,2640,178,200,9958,13276,86.98403133473937,Arabic <doc@arabeyes.org>
+mingw-gtksourceview3,575,278,303,320,144,166,603,1156,49.740484429065745,Arabic <doc@arabeyes.org>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Arabic
+mingw-libvirt,926,4741,56616,218,837,8607,926,62283,1.486762037795225,Arabic (http://www.transifex.com/projects/p/fedora/language/ar/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Arabic (http://www.transifex.com/projects/p/libvirt-glib/language/ar/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Arabic (http://www.transifex.com/freedesktop/p11-kit/language/ar/)
+mingw-qt5-qtwebkit,1073,646,912,258,139,175,959,2631,40.782972253895856,Arabic <doc@arabeyes.org>
+mingw-webkitgtk,1073,638,912,258,137,175,959,2623,40.90735798703775,Arabic <doc@arabeyes.org>
+mingw-webkitgtk3,1073,638,912,258,137,175,959,2623,40.90735798703775,Arabic <doc@arabeyes.org>
+mingw-wxWidgets,110,0,0,30,0,0,115,110,100.0,
+mintmenu,3181,0,4291,824,0,404,3100,7472,42.57226980728051,Arabic <ar@li.org>
+mlocate,397,175,9,49,1,1,458,581,68.33046471600689,Arabic <trans-ar@lists.fedoraproject.org>
+modem-manager-gui,523,0,2785,215,0,354,528,3308,15.810157194679563,Arabic (http://www.transifex.com/ethereal/modem-manager-gui/language/ar/)
+moin,4971,29,44,919,8,6,4459,5044,98.55273592386995,
+moodle,0,3,49,0,2,12,0,52,0.0,i18n@lists.horde.org
+mousepad,1030,0,58,300,0,6,982,1088,94.66911764705883,Arabic (http://www.transifex.com/xfce/xfce-apps/language/ar/)
+mousetweaks,114,0,0,30,0,0,102,114,100.0,Arabic <doc@arabeyes.org>
+mozo,42,0,0,16,0,0,40,42,100.0,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+muffin,2253,0,146,340,0,11,2065,2399,93.91413088786994,Arabic <doc@arabeyes.org>
+multimedia-menus,56,0,0,22,0,0,59,56,100.0,Arabic <trans-ar@lists.fedoraproject.org>
+mutter,347,148,466,84,18,29,363,961,36.10822060353798,Arabic <doc@arabeyes.org>
+mypaint,526,0,1011,33,0,73,461,1537,34.222511385816524,Arabic <https://hosted.weblate.org/projects/mypaint/libmypaint/ar_AR/>
+nautilus,4903,617,464,1066,20,28,5824,5984,81.93516042780749,Arabic <doc@arabeyes.org>
+nautilus-sendto,31,0,14,6,0,2,33,45,68.88888888888889,Arabic <doc@arabeyes.org>
+nemiver,112,410,380,65,136,48,120,902,12.416851441241686,Arabic <doc@arabeyes.org>
+nemo-extensions,238,0,7,45,0,1,209,245,97.14285714285714,Arabic <ar@li.org>
+network-manager-applet,892,1392,2119,278,269,381,916,4403,20.258914376561435,Arabic <doc@arabeyes.org>
+newt,4,0,0,4,0,0,4,4,100.0,Arabic <support@arabeyes.org>
+noise,740,0,582,269,0,108,826,1322,55.975794251134644,Arabic <https://l10n.elementary.io/projects/music/music/ar/>
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Arabic <doc@arabeyes.org>
+obconf,311,0,427,98,0,58,310,738,42.140921409214094,Arabic <herr.linux88@gmail.com>
+oggconvert,132,0,0,44,0,0,133,132,100.0,Arabic <ar@li.org>
+okteta,601,779,1131,230,141,230,583,2511,23.934687375547593,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+okular,3509,434,538,751,53,70,3244,4481,78.30841330060254,Arabic <Arabic <doc@arabeyes.org>>
+olpc-switch-desktop,158,0,0,14,0,0,134,158,100.0,LANGUAGE <LL@li.org>
+onboard,850,0,1468,264,0,246,894,2318,36.6695427092321,Arabic <ar@li.org>
+openbox,344,0,162,82,0,12,361,506,67.98418972332016,Arabic <herr.linux88@gmail.com>
+openconnect,48,0,5171,10,0,889,51,5219,0.9197164207702625,Arabic (http://www.transifex.com/projects/p/meego/language/ar/)
+openerp,32052,0,25195,7550,0,1500,29102,57247,55.98896012018098,
+openerp-client,2514,0,5215,573,0,1,2339,7729,32.526846940095744,Arabic <ar@li.org>
+openerp7,18497,0,35216,5120,0,2797,16868,53713,34.43672853871502,Arabic <ar@li.org>
+openjfx,1073,638,912,258,137,175,959,2623,40.90735798703775,Arabic <doc@arabeyes.org>
+openteacher,222,0,325,99,0,85,268,547,40.58500914076782,Arabic <ar@li.org>
+openvas-gsa,1492,47,5868,393,10,1534,1492,7407,20.1431078709329,LANGUAGE <LL@li.org>
+orage,2458,0,473,826,0,204,2405,2931,83.86216308427159,Arabic (http://www.transifex.com/projects/p/xfce-apps/language/ar/)
+orca,2817,561,487,908,157,99,2898,3865,72.88486416558861,Arabic
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Arabic (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ar/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Arabic
+oyranos,0,2,45,0,1,22,0,47,0.0,Arabic <support@arabeyes.org>
+p11-kit,0,0,476,0,0,81,0,476,0.0,Arabic (http://www.transifex.com/freedesktop/p11-kit/language/ar/)
+pacman,3425,0,1973,636,0,260,3493,5398,63.44942571322713,Arabic (http://www.transifex.com/toofishes/archlinux-pacman/language/ar/)
+pam,367,27,203,84,4,32,420,597,61.47403685092128,Arabic <trans-ar@lists.fedoraproject.org>
+pan,70,1381,1717,50,449,253,79,3168,2.20959595959596,Arabeyes <doc@arabeyes.org>
+pantheon-agent-geoclue2,30,0,13,10,0,1,22,43,69.76744186046511,Arabic <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/ar/>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,1,0,51,1,0,31,13,52,1.9230769230769231,LANGUAGE <LL@li.org>
+pantheon-files,1821,0,666,329,0,163,2693,2487,73.22074788902292,Arabic <ar@li.org>
+pantheon-greeter,4,0,25,3,0,7,4,29,13.793103448275861,Arabic <ar@li.org>
+pantheon-photos,3165,12,793,706,4,145,4155,3970,79.72292191435768,Arabic <https://l10n.elementary.io/projects/photos/photos/ar/>
+pantheon-terminal,36,0,152,19,0,32,52,188,19.148936170212767,Arabic <ar@li.org>
+parley,0,1913,1929,0,524,228,0,3842,0.0,<en@li.org>
+parole,711,0,207,262,0,11,758,918,77.45098039215686,Arabic (http://www.transifex.com/projects/p/xfce-apps/language/ar/)
+passwd,267,0,69,49,0,8,291,336,79.46428571428571,Arabic <trans-ar@lists.fedoraproject.org>
+pcmanfm,1184,26,0,295,1,0,1200,1210,97.85123966942149,Arabic <doc@arabeyes.org>
+perl-Padre,2494,916,1695,647,280,260,2403,5105,48.854064642507346,Arabic
+perl-libintl-perl,31,0,7,31,0,7,35,38,81.57894736842105,Arabic <guido.flohr@cantanea.com>
+pgadmin3,3471,8545,4882,1206,2247,949,3406,16898,20.54089241330335,Arabic <support@arabeyes.org>
+phatch,361,0,2192,191,0,633,369,2553,14.140227183705445,Arabic <ar@li.org>
+phd2,1783,659,5240,599,227,1019,1731,7682,23.210101536058318,arabictranslationteam@googlegroups.com
+php-horde-Horde-Alarm,1,0,12,1,0,4,2,13,7.6923076923076925,i18n@lists.horde.org
+php-horde-Horde-Argv,2,2,56,2,2,9,3,60,3.3333333333333335,i18n@lists.horde.org
+php-horde-Horde-Browser,0,0,66,0,0,6,0,66,0.0,i18n@lists.horde.org
+php-horde-Horde-Cli,0,2,9,0,1,2,0,11,0.0,i18n@lists.horde.org
+php-horde-Horde-Compress,0,0,25,0,0,6,0,25,0.0,i18n@lists.horde.org
+php-horde-Horde-Core,56,87,628,33,30,148,58,771,7.263294422827498,i18n@lists.horde.org
+php-horde-Horde-Crypt,2,22,372,2,9,86,2,396,0.5050505050505051,i18n@lists.horde.org
+php-horde-Horde-Data,0,0,7,0,0,2,0,7,0.0,i18n@lists.horde.org
+php-horde-Horde-Date,4,0,32,4,0,7,4,36,11.11111111111111,i18n@lists.horde.org
+php-horde-Horde-Exception,0,2,2,0,1,1,0,4,0.0,i18n@lists.horde.org
+php-horde-Horde-Form,3,49,501,3,15,128,5,553,0.5424954792043399,i18n@lists.horde.org
+php-horde-Horde-Icalendar,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Image,3,22,556,3,15,267,3,581,0.5163511187607573,i18n@lists.horde.org
+php-horde-Horde-Imsp,0,7,7,0,1,1,0,14,0.0,i18n@lists.horde.org
+php-horde-Horde-Itip,0,3,53,0,1,9,0,56,0.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,0,6,114,0,1,8,0,120,0.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,0,1,47,0,1,11,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,0,2,45,0,1,19,0,47,0.0,i18n@lists.horde.org
+php-horde-Horde-Nls,0,2,428,0,2,261,0,430,0.0,i18n@lists.horde.org
+php-horde-Horde-Perms,0,0,6,0,0,5,0,6,0.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,2,11,19,1,2,5,2,32,6.25,i18n@lists.horde.org
+php-horde-Horde-Rpc,0,0,48,0,0,7,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Share,3,0,45,3,0,9,3,48,6.25,i18n@lists.horde.org
+php-horde-Horde-SyncMl,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,0,0,1,0,0,1,0,1,0.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,35,0,0,2,0,35,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,0,5,5,0,1,2,0,10,0.0,i18n@lists.horde.org
+php-horde-horde,127,366,2981,57,121,756,124,3474,3.6557282671272313,Arabic <i18n@lists.horde.org>
+php-horde-imp,2295,0,0,497,0,0,2110,2295,100.0,Arabic <i18n@lists.horde.org>
+php-horde-kronolith,766,0,0,224,0,0,695,766,100.0,Arabic <i18n@lists.horde.org>
+php-horde-nag,353,0,0,97,0,0,348,353,100.0,Arabic <i18n@lists.horde.org>
+php-horde-passwd,154,0,0,30,0,0,137,154,100.0,Arabic <i18n@lists.horde.org>
+php-horde-turba,699,0,0,166,0,0,617,699,100.0,Arabic <i18n@lists.horde.org>
+php-phpmyadmin-sql-parser,222,5,0,43,1,0,218,227,97.79735682819384,Arabic <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ar/>
+picard,275,0,1406,196,0,472,268,1681,16.35930993456276,LANGUAGE <LL@li.org>
+pidgin,12544,0,3212,2868,0,565,11896,15756,79.61411525767961,Arabic (http://www.transifex.com/pidgin/pidgin/language/ar/)
+pidgin-otr,550,0,0,100,0,0,508,550,100.0,Arabic <doc@arabeyes.org>
+pidgin-sipe,53,0,1066,23,0,250,55,1119,4.736371760500447,Arabic (http://www.transifex.com/stefanb/pidgin-sipe/language/ar/)
+pinta,1109,0,509,401,0,127,1162,1618,68.54140914709518,Arabic <ar@li.org>
+pitivi,24,454,987,16,121,204,22,1465,1.6382252559726962,Arabeyes <doc@arabeyes.org>
+plank,105,0,84,40,0,10,135,189,55.55555555555556,Arabic <ar@li.org>
+planner,1834,0,0,533,0,0,1811,1834,100.0,Arabic <doc@arabeyes.org>
+plasma-breeze,263,0,0,97,0,0,274,263,100.0,Arabic <doc@arabeyes.org>
+plasma-desktop,9563,1553,1492,1933,176,247,9113,12608,75.84866751269035,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+plasma-discover,1172,9,15,350,4,7,1120,1196,97.9933110367893,Arabic <doc@arabeyes.org>
+plasma-drkonqi,3095,769,151,306,61,10,2699,4015,77.08592777085927,Arabic <doc@arabeyes.org>
+plasma-integration,54,2,2,19,1,1,49,58,93.10344827586206,Arabic <doc@arabeyes.org>
+plasma-mediacenter,134,1,37,62,1,24,141,172,77.90697674418605,Arabic <doc@arabeyes.org>
+plasma-milou,33,0,9,14,0,3,28,42,78.57142857142857,Arabic <doc@arabeyes.org>
+plasma-nm,1732,403,1770,510,113,306,1738,3905,44.35339308578745,Arabic <doc@arabeyes.org>
+plasma-oxygen,635,77,96,240,24,31,652,808,78.5891089108911,Arabic <doc@arabeyes.org>
+plasma-pa,66,27,78,35,12,25,67,171,38.59649122807017,Arabic <doc@arabeyes.org>
+plasma-sdk,500,95,147,158,19,40,482,742,67.38544474393531,Arabic <doc@arabeyes.org>
+plasma-systemsettings,171,19,34,38,4,13,164,224,76.33928571428571,Arabic <doc@arabeyes.org>
+plasma-user-manager,270,3,22,40,1,8,472,295,91.52542372881356,Arabic <doc@arabeyes.org>
+plasma-vault,205,22,291,38,5,19,148,518,39.575289575289574,Arabic <doc@arabeyes.org>
+plasma-workspace,5856,223,959,1847,74,329,6070,7038,83.20545609548167,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+playonlinux,113,0,2615,54,0,395,114,2728,4.142228739002932,Arabic <ar@li.org>
+pluma,9142,62,3055,1600,3,174,7756,12259,74.57378252712293,Arabic <doc@arabeyes.org>
+pogo,73,0,503,35,0,66,87,576,12.67361111111111,Arabic <ar@li.org>
+polari,374,0,189,118,0,20,498,563,66.42984014209591,Arabic <doc@arabeyes.org>
+policycoreutils,1380,96,6202,241,31,806,1419,7678,17.973430580880436,Arabic <trans-ar@lists.fedoraproject.org>
+polkit-gnome,311,0,0,48,0,0,251,311,100.0,Arabic <doc@arabeyes.org>
+polkit-kde,79,8,5,21,4,3,77,92,85.86956521739131,Arabic <doc@arabeyes.org>
+powerdevil,427,99,138,79,20,20,387,664,64.30722891566265,Arabic <Arabic <doc@arabeyes.org>>
+publican,528,0,4849,44,0,570,438,5377,9.819602008554956,ar <core@ojuba.org>
+publican-fedora,6,0,100,1,0,6,10,106,5.660377358490567,Arabic <core@ojuba.org>
+pybliographer,47,545,379,37,178,47,46,971,4.840370751802266,Arabeyes <doc@arabeyes.org>
+pychess,131,0,4324,61,0,818,124,4455,2.940516273849607,Arabic (http://www.transifex.com/gbtami/pychess/language/ar/)
+pykickstart,283,0,1154,28,0,131,253,1437,19.693806541405706,Arabic (http://www.transifex.com/projects/p/pykickstart/language/ar/)
+pyroom,21,0,390,7,0,67,26,411,5.109489051094891,Arabic <ar@li.org>
+python-blivet,48,0,644,7,0,90,41,692,6.9364161849710975,Arabic (http://www.transifex.com/projects/p/blivet/language/ar/)
+python-blivet1,46,0,661,7,0,125,39,707,6.506364922206506,Arabic
+python-caja,6,0,0,2,0,0,5,6,100.0,Arabic (https://www.transifex.com/mate/teams/13566/ar/)
+python-django,3423,0,189,777,0,42,4383,3612,94.76744186046511,Arabic (http://www.transifex.com/django/django/language/ar/)
+python-django-countries,439,0,0,264,0,0,398,439,100.0,Arabic (http://www.transifex.com/smileychris/django-countries/language/ar/)
+python-django-formtools,15,0,17,5,0,6,14,32,46.875,Arabic (http://www.transifex.com/projects/p/django-formtools/language/ar/)
+python-django-helpdesk,235,0,3007,37,0,450,222,3242,7.248611967921037,Arabic (http://www.transifex.com/projects/p/django-helpdesk/language/ar/)
+python-django-openstack-auth,42,0,0,9,0,0,39,42,100.0,Arabic
+python-django-registration,81,0,0,15,0,0,80,81,100.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,229,0,353,48,0,53,242,582,39.34707903780069,Arabic (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ar/)
+python-django-reversion,117,0,0,21,0,0,89,117,100.0,LANGUAGE <LL@li.org>
+python-fedora,0,0,214,0,0,29,0,214,0.0,Arabic
+python-imdb,71,0,250,71,0,250,75,321,22.118380062305295,Arabic (http://www.transifex.com/davide_alberani/imdbpy/language/ar/)
+python-lettuce,6574,0,1038,1671,0,778,6521,7612,86.36363636363636,Arabic <support@arabeyes.org>
+python-meh,83,0,26,20,0,3,72,109,76.14678899082568,Arabic (http://www.transifex.com/projects/p/python-meh/language/ar/)
+python-oslo-policy,12,0,0,2,0,0,11,12,100.0,Arabic
+python-rpm-generators,268,0,4140,99,0,753,283,4408,6.0798548094373865,Arabic (http://www.transifex.com/rpm-team/rpm/language/ar/)
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Arabic
+python-wxpython4,1854,699,5252,593,256,1034,1805,7805,23.75400384368994,arabictranslationteam@googlegroups.com
+qt-recordmydesktop,553,0,263,74,0,30,482,816,67.76960784313727,Arabic <anas_h_34 [at] hotmail [dot] com>
+qtwebkit,1093,0,0,262,0,0,975,1093,100.0,Arabic <doc@arabeyes.org>
+quadrapassel,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+qutim,282,0,56,99,0,20,285,338,83.4319526627219,Arabic <ar@li.org>
+radiotray,53,0,77,25,0,21,59,130,40.76923076923077,Arabic (http://www.transifex.com/projects/p/radiotray/language/ar/)
+rapid-photo-downloader,560,0,1178,159,0,229,574,1738,32.22094361334868,Arabic <ar@li.org>
+realmd,0,0,789,0,0,127,0,789,0.0,Arabic (http://www.transifex.com/freedesktop/realmd/language/ar/)
+redhat-menus,253,0,0,81,0,0,249,253,100.0,Arabic <support@arabeyes.org>
+rednotebook,3,0,1144,3,0,237,30,1147,0.26155187445510025,Arabic <ar@li.org>
+redshift,13,0,1013,2,0,149,16,1026,1.267056530214425,Arabic <ar@li.org>
+regexxer,0,192,275,0,70,30,0,467,0.0,Arabic <doc@arabeyes.org>
+remmina,1,0,2134,1,0,530,6,2135,0.046838407494145196,Arabic <ar@li.org>
+repsnapper,768,0,489,352,0,123,832,1257,61.09785202863962,arabeyes.org
+resapplet,0,91,15,0,20,2,0,106,0.0,Arabic <doc@arabeyes.org>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Arabic
+rhn-client-tools,568,58,3431,103,5,312,548,4057,14.000492975104759,Arabic (http://www.transifex.com/projects/p/spacewalk/language/ar/)
+rhnsd,0,0,33,0,0,9,0,33,0.0,Arabic <trans-ar@lists.fedoraproject.org>
+rhythmbox,3436,2,94,898,1,17,3577,3532,97.28199320498301,<doc@arabeyes.org>
+ristretto,545,0,216,184,0,14,517,761,71.61629434954008,Arabic (http://www.transifex.com/xfce/xfce-apps/language/ar/)
+rpm,268,3,4179,99,2,763,283,4450,6.02247191011236,Arabic (http://www.transifex.com/rpm-team/rpm/language/ar/)
+rsibreak,4,1008,86,2,127,24,4,1098,0.36429872495446264,<en@li.org>
+rt,2828,0,8580,790,0,1788,2761,11408,24.78962131837307,Arabic <ar@li.org>
+rygel,302,216,250,71,39,46,298,768,39.32291666666667,Arabic <doc@arabeyes.org>
+samba,187,67,270,31,18,79,221,524,35.68702290076336,Novell Language <language@novell.com>
+sawfish,46,0,6571,12,0,1042,46,6617,0.6951790841771196,Arabic (http://www.transifex.net/projects/p/sawfish-master/team/ar/)
+scratch,1467,0,3,625,0,1,1601,1470,99.79591836734694,
+scratch-text-editor,182,0,499,69,0,129,236,681,26.725403817914835,Arabic <ar@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sddm-kcm,52,2,50,27,1,15,53,104,50.0,Arabic <doc@arabeyes.org>
+seahorse,2424,0,0,566,0,0,2355,2424,100.0,Arabic <doc@arabeyes.org>
+seahorse-caja,411,10,0,109,1,0,526,421,97.62470308788599,Arabic <doc@arabeyes.org>
+seahorse-nautilus,411,10,0,109,1,0,526,421,97.62470308788599,Arabic <doc@arabeyes.org>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Arabic (http://www.transifex.com/projects/p/fedora/language/ar/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Arabic (http://www.transifex.com/projects/p/fedora/language/ar/)
+setuptool,55,0,0,14,0,0,57,55,100.0,Arabic <support@arabeyes.org>
+sflphone,932,0,129,296,0,41,952,1061,87.8416588124411,Arabic <ar@li.org>
+shared-mime-info,1533,0,382,608,0,135,1599,1915,80.05221932114883,Arabic (http://www.transifex.com/freedesktop/shared-mime-info/language/ar/)
+shotwell,4415,0,73,934,0,8,5799,4488,98.37344028520499,Arabic <doc@arabeyes.org>
+shutter,3050,0,43,603,0,3,3374,3093,98.60976398318785,Arabic <ar@li.org>
+simple-scan,524,0,1421,138,0,119,513,1945,26.940874035989715,Arabic <ar@li.org>
+slingshot-launcher,12,0,205,4,0,64,10,217,5.529953917050691,Arabic <ar@li.org>
+snap-photobooth,1,0,24,1,0,4,6,25,4.0,Arabic <ar@li.org>
+snapper,743,0,0,180,0,0,787,743,100.0,Arabic <http://l10n.opensuse.org/projects/snapper/master/ar/>
+sos,54,33,35,11,7,12,55,122,44.26229508196721,Arabic <fedora-trans-ar@redhat.com>
+sound-juicer,2764,0,462,289,0,9,2416,3226,85.6788592684439,Arabic <doc@arabeyes.org>
+soundconverter,319,0,69,112,0,9,321,388,82.21649484536083,Arabic <ar@li.org>
+spacefm,474,8,8240,181,3,1384,462,8722,5.434533363907361,Arabic (http://www.transifex.com/projects/p/spacefm/language/ar/)
+sparkleshare,183,0,219,42,0,45,161,402,45.52238805970149,
+spectacle,390,59,62,73,8,10,346,511,76.32093933463796,Arabic <doc@arabeyes.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Arabic (http://www.transifex.com/heldercorreia/speedcrunch/language/ar/)
+springlobby,167,256,5256,103,132,1150,181,5679,2.940658566649058,Arabic <ar@li.org>
+squirrelmail,3137,1273,2468,903,210,238,3111,6878,45.609188717650476,BizNas / Arabic
+stardict,695,515,1825,154,125,314,647,3035,22.899505766062603,arabeyes.org <bashir.storm@gmail.com>
+steadyflow,326,0,144,74,0,19,311,470,69.36170212765957,Arabic <ar@li.org>
+stellarium,55726,0,11314,23274,0,2957,55164,67040,83.12350835322195,Arabic (https://www.transifex.com/stellarium/teams/80998/ar/)
+step,556,0,216,186,0,40,519,772,72.02072538860104,Arabic <doc@arabeyes.org>
+subdownloader,968,0,0,272,0,0,972,968,100.0,Arabic <ar@li.org>
+sugar,1366,14,353,370,1,48,1217,1733,78.82285054818234,Arabic <doc@arabeyes.org>
+sugar-abacus,23,0,11,23,0,2,29,34,67.64705882352942,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,Arabic <doc@arabeyes.org>
+sugar-browse,70,4,115,32,1,19,96,189,37.03703703703704,Arabic <doc@arabeyes.org>
+sugar-calculator,335,65,471,78,16,70,343,871,38.46153846153847,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,74,3,60,35,1,45,68,137,54.01459854014598,Arabic <doc@arabeyes.org>
+sugar-clock,37,0,29,9,0,12,28,66,56.060606060606055,LANGUAGE <LL@li.org>
+sugar-connect,36,0,0,9,0,0,26,36,100.0,Arabic <doc@arabeyes.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,72,4,23,14,1,11,59,99,72.72727272727273,Arabic <doc@arabeyes.org>
+sugar-finance,14,0,175,13,0,27,14,189,7.4074074074074066,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,20,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,9,0,69,9,0,12,10,78,11.538461538461538,Arabic
+sugar-infoslicer,1,0,235,1,0,61,2,236,0.423728813559322,LANGUAGE <LL@li.org>
+sugar-jukebox,6,0,63,5,0,17,9,69,8.695652173913043,Arabic <doc@arabeyes.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,77,0,21,19,0,2,71,98,78.57142857142857,Arabic <doc@arabeyes.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-measure,3,6,146,2,3,68,3,155,1.935483870967742,LANGUAGE <LL@li.org>
+sugar-memorize,68,8,66,51,7,16,68,142,47.88732394366197,Arabic <doc@arabeyes.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,94,0,2,54,0,1,102,96,97.91666666666666,Arabic <doc@arabeyes.org>
+sugar-physics,17,0,31,16,0,12,17,48,35.41666666666667,LANGUAGE <LL@li.org>
+sugar-pippy,108,1,0,30,1,0,93,109,99.08256880733946,Arabic <doc@arabeyes.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,119,0,18,45,0,5,114,137,86.86131386861314,Arabic <doc@arabeyes.org>
+sugar-record,57,0,5,22,0,2,69,62,91.93548387096774,Arabic <doc@arabeyes.org>
+sugar-ruler,1,0,28,1,0,7,1,29,3.4482758620689653,Arabic
+sugar-speak,224,0,3,73,0,1,225,227,98.6784140969163,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,5,121,4.958677685950414,Arabic <doc@arabeyes.org>
+sugar-toolkit,72,1,0,36,1,0,110,73,98.63013698630137,Arabic <doc@arabeyes.org>
+sugar-toolkit-gtk3,121,9,26,80,8,21,161,156,77.56410256410257,Arabic <doc@arabeyes.org>
+sugar-turtleart,60,23,1491,42,17,419,63,1574,3.8119440914866582,LANGUAGE <LL@li.org>
+sugar-typing-turtle,5,2,592,3,1,123,4,599,0.8347245409015025,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,Arabic
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,2,1,0,2,1,0,2,3,66.66666666666666,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,137,121,100.0,Arabic <doc@arabeyes.org>
+supertux,301,0,2679,159,0,759,308,2980,10.100671140939598,Arabic (http://www.transifex.com/arctic-games/supertux/language/ar/)
+supertuxkart,2485,0,876,580,0,172,2274,3361,73.93632847366855,Arabic (http://www.transifex.com/supertuxkart/supertuxkart/language/ar/)
+sushi,15,0,0,9,0,0,22,15,100.0,Arabic <doc@arabeyes.org>
+svgpart,22,0,0,7,0,0,26,22,100.0,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+sweeper,229,0,0,50,0,0,233,229,100.0,Arabic <linuxac-kde-arabic-team@googlegroups.com>
+swell-foop,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+switchboard,4,0,57,3,0,15,5,61,6.557377049180328,Arabic <ar@li.org>
+switchboard-plug-a11y,0,0,189,0,0,68,0,189,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,5,6,106,3,3,31,7,117,4.273504273504273,Arabic <ar@li.org>
+switchboard-plug-applications,31,0,60,14,0,17,37,91,34.065934065934066,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,73,0,0,27,0,73,0.0,Arabic <ar@li.org>
+switchboard-plug-display,0,0,104,0,0,41,0,104,0.0,Arabic <ar@li.org>
+switchboard-plug-keyboard,2,0,401,2,0,154,3,403,0.49627791563275436,Arabic <ar@li.org>
+switchboard-plug-mouse-touchpad,0,0,67,0,0,27,0,67,0.0,none
+switchboard-plug-networking,0,0,442,0,0,128,0,442,0.0,Arabic <ar@li.org>
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,2,0,159,2,0,47,2,161,1.2422360248447204,Arabic <ar@li.org>
+switchboard-plug-pantheon-shell,15,0,129,6,0,47,12,144,10.416666666666668,Arabic <ar@li.org>
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sound,0,0,90,0,0,37,0,90,0.0,Arabic <ar@li.org>
+switchdesk,137,0,0,19,0,0,128,137,100.0,Arabic <support@arabeyes.org>
+synapse,469,0,355,149,0,78,476,824,56.917475728155345,Badry Darkoush
+synaptic,1085,1240,906,319,246,97,1018,3231,33.580934695140826,Arabic <support@arabeyes.org>
+syncevolution,566,0,0,111,0,0,653,566,100.0,ITSOFTEX <info@itsoftex.com>
+synfig,1,0,4695,1,0,1177,1,4696,0.02129471890971039,Arabic (http://www.transifex.com/morevnaproject/synfig/language/ar/)
+synfigstudio,171,0,6393,46,0,1521,191,6564,2.6051188299817185,Arabic (http://www.transifex.com/morevnaproject/synfig/language/ar/)
+system-config-bind,18,436,8965,8,125,931,27,9419,0.19110308949994692,Arabic <support@arabeyes.org>
+system-config-firewall,2686,30,98,322,3,6,2374,2814,95.45131485429992,Arabic <fedora-trans-ar@redhat.com>
+system-config-httpd,867,0,0,220,0,0,807,867,100.0,Arabic <fedora-trans-ar@redhat.com>
+system-config-kdump,714,0,163,120,0,36,690,877,81.41391106043329,Arabic <trans-ar@lists.fedoraproject.org>
+system-config-keyboard,187,0,0,81,0,0,178,187,100.0,Arabic <support@arabeyes.org>
+system-config-kickstart,1144,0,0,253,0,0,1080,1144,100.0,Arabic (http://www.transifex.com/projects/p/system-config-kickstart/language/ar/)
+system-config-language,114,0,83,22,0,7,104,197,57.868020304568525,Arabic <support@arabeyes.org>
+system-config-printer,3051,8,101,731,5,19,2950,3160,96.55063291139241,Arabic (http://www.transifex.com/projects/p/system-config-printer/language/ar/)
+system-config-rootpassword,15,26,75,3,5,11,17,116,12.931034482758621,Arabic <support@arabeyes.org>
+system-config-users,652,0,869,108,0,72,591,1521,42.86653517422748,Arabic <trans-ar@lists.fedoraproject.org>
+system-config-users-docs,1061,0,0,82,0,0,884,1061,100.0,Arabic <trans-ar@lists.fedoraproject.org>
+system-switch-java,81,0,0,11,0,0,73,81,100.0,Arabic <trans-ar@lists.fedoraproject.org>
+system-switch-mail,134,0,0,20,0,0,122,134,100.0,Arabic <support@arabeyes.org>
+tali,3520,14,752,823,4,82,3395,4286,82.12785814279047,Arabic <doc@arabeyes.org>
+terminator,582,0,828,207,0,210,567,1410,41.27659574468085,Arabic <ar@li.org>
+texi2html,19,0,0,19,0,0,19,19,100.0,Arabic <guido@imperia.net>
+texinfo,19,0,0,19,0,0,19,19,100.0,Arabic <guido@imperia.net>
+thunar-archive-plugin,86,0,0,13,0,0,143,86,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+thunar-media-tags-plugin,156,0,0,58,0,0,144,156,100.0,Arabic Xfce Translation Team <herr.linux88@gmail.com>
+thunar-vcs-plugin,584,0,11,315,0,5,668,595,98.15126050420167,Arabic (http://www.transifex.com/xfce/thunar-plugins/language/ar/)
+thunar-vfs,281,0,106,61,0,25,265,387,72.60981912144703,Arabic <doc@arabeyes.org>
+thunar-volman,487,0,0,113,0,0,469,487,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+timeshift,14,0,3037,8,0,586,16,3051,0.4588659455916093,Arabic <ar@li.org>
+tomboy,3147,30,101,463,2,6,3117,3278,96.00366076876145,Arabic <doc@arabeyes.org>
+tortoisehg,67,0,12917,22,0,2364,65,12984,0.5160197165742452,Arabic <ar@li.org>
+totem,1962,0,0,501,0,0,1912,1962,100.0,Arabic <doc@arabeyes.org>
+totem-pl-parser,28,0,0,7,0,0,22,28,100.0,Arabic <doc@arabeyes.org>
+tracker,729,253,1064,172,60,164,754,2046,35.63049853372434,Arabic <doc@arabeyes.org>
+tracker-miners,729,253,1064,172,60,164,754,2046,35.63049853372434,Arabic <doc@arabeyes.org>
+transmission,1543,0,266,453,0,41,2214,1809,85.29574350469873,Arabic <ar@li.org>
+trojita,2518,329,1541,594,67,232,2331,4388,57.383773928897,Arabic <doc@arabeyes.org>
+tumbler,228,0,13,37,0,2,211,241,94.6058091286307,Arabic (http://www.transifex.com/xfce/tumbler/language/ar/)
+tuxmath,346,124,985,96,15,138,334,1455,23.780068728522334,
+tuxpaint,1088,401,102,227,39,25,919,1591,68.38466373350094,none
+tuxtype2,57,11,12,27,3,10,60,80,71.25,LANGUAGE <LL@li.org>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+ufw,10,0,869,7,0,174,10,879,1.1376564277588168,Arabic <ar@li.org>
+uget,996,48,15,354,11,5,980,1059,94.05099150141642,Arabic (http://www.transifex.com/uget/uget/language/ar/)
+umbrello,19,3361,1225,16,1085,244,21,4605,0.4125950054288816,<en@li.org>
+unetbootin,2274,0,885,158,0,20,2527,3159,71.98480531813865,LANGUAGE <LL@li.org>
+usermode,570,0,3,95,0,1,554,573,99.47643979057592,Arabic <trans-ar@lists.fedoraproject.org>
+vdr,1086,0,197,453,0,54,1079,1283,84.64536243180046,Arabic <ar@li.org>
+viewnior,425,0,0,144,0,0,402,425,100.0,Arabic <ar@li.org>
+vinagre,1374,10,123,259,1,15,1258,1507,91.17451891174518,Arabic <doc@arabeyes.org>
+vino,831,100,159,97,3,10,837,1090,76.23853211009174,Arabic <doc@arabeyes.org>
+virt-viewer,0,0,784,0,0,169,0,784,0.0,Arabic
+virtaal,1448,0,0,428,0,0,1352,1448,100.0,Arabic <doc@arabeyes.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Arabic <ar@li.org>
+vte,80,0,0,13,0,0,84,80,100.0,Arabic <doc@arabeyes.org>
+vte291,80,0,0,13,0,0,84,80,100.0,Arabic <doc@arabeyes.org>
+vte3,80,0,0,13,0,0,84,80,100.0,Arabic <doc@arabeyes.org>
+wammu,742,98,4450,285,11,627,810,5290,14.026465028355387,Arabic <http://hosted.weblate.org/projects/gammu/wammu-doc/ar/>
+webkitgtk4,1073,638,912,258,137,175,959,2623,40.90735798703775,Arabic <doc@arabeyes.org>
+wesnoth,456,1318,274831,163,540,16726,413,276605,0.16485602212541348,none
+whaawmp,33,0,766,18,0,142,36,799,4.130162703379224,Arabic <ar@li.org>
+widelands,1503,0,39360,312,0,3458,1374,40863,3.678144042287644,Arabic (http://www.transifex.com/widelands/widelands/language/ar/)
+wine,12274,2381,1102,3116,219,157,11878,15757,77.89553849082948,Linux Arab Community linuxac.org - AND - Arab Eyes Team arabeyes.org
+wingpanel,0,0,8,0,0,2,0,8,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,12,0,213,4,0,68,10,225,5.333333333333334,Arabic <ar@li.org>
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,7,0,13,2,0,4,7,20,35.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,15,0,78,7,0,20,15,93,16.129032258064516,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,LANGUAGE <LL@li.org>
+wlassistant,702,163,226,95,27,31,664,1091,64.34463794683776,Arabic
+wxGTK,110,0,0,30,0,0,115,110,100.0,
+wxGTK3,1854,699,5252,593,256,1034,1805,7805,23.75400384368994,arabictranslationteam@googlegroups.com
+wxPython,1893,659,5240,629,227,1019,1846,7792,24.294147843942504,arabictranslationteam@googlegroups.com
+xdg-user-dirs,26,2,0,26,2,0,30,28,92.85714285714286,Arabic <doc@arabeyes.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,63,81,100.0,Arabic <doc@arabeyes.org>
+xed,4467,62,2660,512,3,154,3506,7189,62.136597579635556,Arabic <doc@arabeyes.org>
+xfbib,342,0,0,75,0,0,315,342,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfburn,1342,0,0,302,0,0,1252,1342,100.0,Arabic (http://www.transifex.com/xfce/xfce-apps/language/ar/)
+xfce4-appfinder,322,0,0,70,0,0,281,322,100.0,Arabic (http://www.transifex.com/projects/p/xfce4-appfinder/language/ar/)
+xfce4-battery-plugin,149,0,0,43,0,0,140,149,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-clipman-plugin,350,0,0,62,0,0,295,350,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-cpufreq-plugin,140,0,0,39,0,0,142,140,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfce4-cpugraph-plugin,71,0,0,35,0,0,100,71,100.0,http://www.vertaal.com.ar/files/opensuse-11-4/ar/list/
+xfce4-datetime-plugin,52,0,0,19,0,0,48,52,100.0,Arabic Xfce Translation Team <herr.linux88@gmail.com>
+xfce4-dict,507,0,20,109,0,10,498,527,96.20493358633776,Arabic (http://www.transifex.com/xfce/xfce-apps/language/ar/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,173,183,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-embed-plugin,219,0,0,33,0,0,177,219,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-eyes-plugin,15,0,0,4,0,0,13,15,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,70,71,100.0,Arabic Xfce Translation Team
+xfce4-genmon-plugin,25,0,31,11,0,3,22,56,44.642857142857146,Arabic (http://www.transifex.com/xfce/xfce-panel-plugins/language/ar/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,343,356,100.0,
+xfce4-mailwatch-plugin,685,0,0,111,0,0,698,685,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfce4-mixer,94,29,58,12,11,13,72,181,51.93370165745856,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-mount-plugin,275,83,16,45,8,3,244,374,73.52941176470588,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-mpc-plugin,76,0,0,24,0,0,74,76,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-netload-plugin,84,0,8,30,0,5,83,92,91.30434782608695,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-notes-plugin,163,0,0,57,0,0,155,163,100.0,Arabeyes <doc@arabeyes.org>
+xfce4-notifyd,175,0,51,54,0,11,157,226,77.43362831858407,Arabic (http://www.transifex.com/xfce/xfce-apps/language/ar/)
+xfce4-panel,1709,0,0,395,0,0,1563,1709,100.0,Arabic (http://www.transifex.com/xfce/xfce4-panel/language/ar/)
+xfce4-places-plugin,160,0,0,45,0,0,145,160,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfce4-power-manager,841,0,176,180,0,22,801,1017,82.69419862340216,Arabic (http://www.transifex.com/xfce/xfce4-power-manager/language/ar/)
+xfce4-screenshooter,420,0,128,69,0,12,345,548,76.64233576642336,Arabic (http://www.transifex.com/xfce/xfce-apps/language/ar/)
+xfce4-sensors-plugin,355,1,2,72,1,1,365,358,99.16201117318437,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfce4-session,1066,0,0,208,0,0,958,1066,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfce4-settings,1664,0,0,374,0,0,1523,1664,100.0,Arabic (http://www.transifex.com/xfce/xfce4-settings/language/ar/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,22,22,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfce4-systemload-plugin,70,0,0,22,0,0,110,70,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-taskmanager,220,0,37,76,0,9,212,257,85.60311284046692,Arabic (http://www.transifex.com/xfce/xfce-apps/language/ar/)
+xfce4-terminal,1327,0,126,339,0,22,1240,1453,91.32828630419822,Arabic (http://www.transifex.com/xfce/xfce-apps/language/ar/)
+xfce4-time-out-plugin,89,0,0,32,0,0,113,89,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-timer-plugin,131,3,0,41,1,0,122,134,97.76119402985076,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfce4-verve-plugin,47,0,0,10,0,0,45,47,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-wavelan-plugin,51,0,0,12,0,0,51,51,100.0,http://www.vertaal.com.ar/files/factory/ar/list/
+xfce4-weather-plugin,3522,0,146,316,0,14,3111,3668,96.0196292257361,Arabic (http://www.transifex.com/xfce/xfce-panel-plugins/language/ar/)
+xfce4-whiskermenu-plugin,184,2,163,73,1,44,171,349,52.72206303724928,Arabic (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ar/)
+xfce4-xkb-plugin,43,0,0,17,0,0,46,43,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfconf,451,0,0,67,0,0,417,451,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xfdesktop,936,0,38,216,0,4,865,974,96.09856262833677,Arabic (http://www.transifex.com/projects/p/xfdesktop/language/ar/)
+xfmpc,146,2,19,62,1,7,170,167,87.42514970059881,Arabic Xfce Translation Team <herr.linux88@gmail.com>
+xfwm4,649,0,0,170,0,0,614,649,100.0,Arabic (http://www.transifex.com/projects/p/xfce/language/ar/)
+xiphos,3159,467,1178,774,154,182,3116,4804,65.75770191507078,Arabic <support@crosswire.org>
+xpad,173,0,233,41,0,84,173,406,42.610837438423644,Arabic <ar@li.org>
+xplayer-plparser,28,0,0,7,0,0,22,28,100.0,Arabic <doc@arabeyes.org>
+xviewer,2827,0,420,228,0,6,2290,3247,87.06498306128734,Arabic <doc@arabeyes.org>
+xviewer-plugins,147,0,0,55,0,0,138,147,100.0,Arabic <doc@arabeyes.org>
+yelp,430,0,18,99,0,5,351,448,95.98214285714286,Arabic <doc@arabeyes.org>
+yelp-xsl,80,0,0,58,0,0,79,80,100.0,Arabic <doc@arabeyes.org>
+yum-rhn-plugin,0,0,147,0,0,17,0,147,0.0,Arabic <trans-ar@lists.fedoraproject.org>
+zenity,674,0,0,159,0,0,658,674,100.0,Arabic <doc@arabeyes.org>
+zypper,10071,0,0,956,0,0,12148,10071,100.0,Arabic <https://l10n.opensuse.org/projects/zypper/master/ar/>

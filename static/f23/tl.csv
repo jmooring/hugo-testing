@@ -1,0 +1,55 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Tagalog (http://www.transifex.com/projects/p/fedora-abrt/language/tl/)
+asunder,4,0,476,4,0,83,5,480,0.8333333333333334,http://littlesvr.ca/ostd/
+blivet-gui,0,0,713,0,0,187,0,713,0.0,Tagalog
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Tagalog (http://www.transifex.com/projects/p/certmonger/language/tl/)
+cinnamon-translations,856,0,12585,288,0,2927,1053,13441,6.368573766832824,Tagalog <tl@li.org>
+console-setup,60,182,741,44,34,97,65,983,6.1037639877924725,Tagalog <debian-tl@banwa.upm.edu.ph>
+debconf,743,50,2,83,3,1,897,795,93.45911949685535,Tagalog <debian-tl@banwa.upm.edu.ph>
+deluge,5,0,2639,3,0,855,7,2644,0.18910741301059003,Tagalog <tl@li.org>
+dpkg,4054,4001,2935,577,514,276,4787,10990,36.88808007279345,Tagalog <debian-tl@banwa.upm.edu.ph>
+exaile,20,0,3986,2,0,1023,22,4006,0.4992511233150275,Tagalog <tl@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Tagalog
+glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-do,377,0,235,107,0,37,513,612,61.60130718954249,Tagalog <tl@li.org>
+gnome-hearts,340,0,69,90,0,16,296,409,83.12958435207824,Tagalog <tl@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,440,0,0,80,0,440,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tagalog (http://www.transifex.com/projects/p/initial-setup/language/tl/)
+iso-codes,895,127,89,393,34,29,889,1111,80.55805580558055,Tagalog <debian-tl@banwa.upm.edu.ph>
+isomaster,11,0,663,10,0,97,12,674,1.6320474777448073,http://littlesvr.ca/ostd/
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+libreport,0,0,3501,0,0,452,0,3501,0.0,Tagalog (http://www.transifex.com/projects/p/libreport/language/tl/)
+lightdm,0,0,79,0,0,17,0,79,0.0,Tagalog <tl@li.org>
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Tagalog (http://www.transifex.com/projects/p/MATE/language/tl/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+mingw-glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Tagalog (http://www.transifex.com/projects/p/libvirt-glib/language/tl/)
+mintmenu,3318,0,2337,882,0,278,4146,5655,58.673740053050395,Tagalog <tl@li.org>
+mtpaint,944,0,2187,365,0,507,1130,3131,30.150111785372086,Tagalog <tl@li.org>
+nemo-extensions,1,0,0,1,0,0,2,1,100.0,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Tagalog (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/tl/)
+pgadmin3,1297,8617,6984,405,2290,1707,1426,16898,7.675464552017991,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,666,0,1887,253,0,571,813,2553,26.08695652173913,Tagalog <tl@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Tagalog (http://www.transifex.com/projects/p/python-meh/language/tl/)
+python-nikola,5,0,78,4,0,30,6,83,6.024096385542169,Tagalog (http://www.transifex.com/projects/p/nikola/language/tl/)
+rednotebook,77,0,1070,17,0,223,106,1147,6.713164777680906,Tagalog <tl@li.org>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+shadow-utils,1069,1149,1705,210,178,194,1323,3923,27.249553912821824,Tagalog <debian-tl@banwa.upm.edu.ph>
+stellarium,63,0,17105,62,0,4506,66,17168,0.36696178937558244,Tagalog <tl@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Tagalog (http://www.transifex.com/projects/p/system-config-kickstart/language/tl/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+transmission,1,0,1808,1,0,493,13,1809,0.055279159756771695,Tagalog <tl@li.org>
+tuxmath,860,180,414,167,26,55,1008,1454,59.147180192572215,LANGUAGE <LL@li.org>
+tuxpaint,186,49,1356,90,21,180,209,1591,11.69076052796983,LANGUAGE <LL@li.org>
+wesnoth,951,1908,253157,456,576,15323,1177,256016,0.3714611586775826,
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>

@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,324,0,5331,152,0,1311,402,5655,5.729442970822282,Tsonga <translate-discuss-ts@lists.sourceforge.net>
+eog,1589,0,0,320,0,0,1886,1589,100.0,ts
+exaile,1,0,4005,1,0,1024,1,4006,0.024962556165751375,Tsonga <ts@li.org>
+isomaster,6,0,668,5,0,102,7,674,0.8902077151335311,http://littlesvr.ca/ostd/
+kde-i18n,5,0,0,5,0,0,5,5,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Tsonga (http://www.transifex.com/mate/MATE/language/ts/)
+libreoffice,33471,10947,56600,10023,5290,16485,44825,101018,33.13369894474253,LANGUAGE <LL@li.org>
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Tsonga (http://www.transifex.com/mate/MATE/language/ts/)
+mintmenu,17,0,365,8,0,122,23,382,4.450261780104712,Tsonga <ts@li.org>
+xviewer,1495,0,182,294,0,30,1756,1677,89.14728682170544,ts

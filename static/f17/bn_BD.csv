@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+firstboot,0,0,571,0,0,50,0,571,0.0,LANGUAGE <LL@li.org>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+rhn-client-tools,0,0,4348,0,0,433,0,4348,0.0,LANGUAGE <LL@li.org>
+rhnsd,0,0,37,0,0,9,0,37,0.0,LANGUAGE <LL@li.org>
+spacewalk-backend,0,0,1895,0,0,223,0,1895,0.0,LANGUAGE <LL@li.org>
+squirrelmail,18710,0,0,3291,0,0,19807,18710,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+system-config-date,0,0,503,0,0,56,0,503,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,518,0,0,71,0,518,0.0,Bengali (Bangladesh) (http://www.transifex.net/projects/p/fedora/team/bn_BD/)
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,LANGUAGE <LL@li.org>
+yum-rhn-plugin,0,0,119,0,0,15,0,119,0.0,LANGUAGE <LL@li.org>

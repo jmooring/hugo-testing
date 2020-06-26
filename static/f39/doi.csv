@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnucash,14324,13686,11218,2717,1950,1130,16930,39228,36.514734373406746,NONE
+inkscape,15931,15520,18117,3534,4474,2420,19453,49568,32.13968689477082,LANGUAGE <LL@li.org>
+libreoffice,45611,14949,110628,15021,6365,17376,49722,171188,26.643806808888478,LANGUAGE <LL@li.org>
+tuxpaint,1120,1020,1623,245,109,107,1293,3763,29.763486579856497,Dogri

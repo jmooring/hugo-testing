@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iso-codes,130,266,11624,80,94,8322,139,12020,1.0815307820299502,Swahili
+tuxpaint,359,108,120,96,19,40,282,587,61.158432708688245,Swahili
+tuxpaint-stamps,729,257,363,172,94,56,670,1349,54.04002965159377,Swahili

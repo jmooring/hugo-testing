@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Serbian (Cyrillic)
+im-chooser,54,0,183,14,0,40,57,237,22.78481012658228,LANGUAGE <LL@li.org>
+publican,1058,66,4319,76,2,538,1029,5443,19.43781003123278,Serbian <trans-sr@lists.fedoraproject.org>
+wine,2218,2388,9783,822,712,1734,2123,14389,15.41455278337619,Serbian (Cyrillic)

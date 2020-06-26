@@ -1,0 +1,29 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gtkspell3,10,0,6,5,0,2,10,16,62.5,Songhai <LL@li.org>
+iso-codes,262,0,724,212,0,208,266,986,26.57200811359026,Songhai languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/son/>
+mingw-gtkspell3,10,0,6,5,0,2,10,16,62.5,Songhai <LL@li.org>
+sugar-abacus,23,0,5,18,0,5,23,28,82.14285714285714,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,1,98,0,1,25,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,6,252,0,6,57,0,258,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,97,0,24,35,0,11,92,121,80.16528925619835,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,7,70,0,7,13,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,5,231,0,5,57,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,44,9,228,26,6,62,46,281,15.658362989323843,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,1,0,141,1,0,73,1,142,0.7042253521126761,LANGUAGE <LL@li.org>
+sugar-paint,0,0,106,0,0,61,0,106,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,0,0,73,0,0,25,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,1,0,226,1,0,73,1,227,0.4405286343612335,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+tuxpaint,1591,0,0,291,0,0,1539,1591,100.0,Songhay Localization Team
+tuxpaint-stamps,3271,0,0,813,0,0,2710,3271,100.0,Songhay Localization Team <abdoulseydou@hotmail.com>
+virtaal,1653,0,0,544,0,0,1694,1653,100.0,LANGUAGE <LL@li.org>

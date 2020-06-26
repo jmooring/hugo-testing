@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+budgie-desktop,1259,0,382,320,0,89,1453,1641,76.72151127361366,Spanish (Latin America) (https://www.transifex.com/buddiesofbudgie/teams/129844/es_419/)
+cawbird,129,48,1056,44,19,274,153,1233,10.46228710462287,Spanish (Latin America) (http://www.transifex.com/cawbird/cawbird/language/es_419/)
+deepin-daemon,853,0,250,194,0,50,1070,1103,77.33454215775159,Spanish (Latin America) (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/es_419/)
+dnfdragora,4,0,35,1,0,8,4,39,10.256410256410255,Spanish (Latin America) (https://www.transifex.com/MageiaLinux/teams/9361/es_419/)
+freeciv,1089,82,112303,95,2,9737,1165,113474,0.9596912067962706,Español; Español para Latinoamérica y el Caribe (es-419)
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Spanish (Latin America) (http://www.transifex.com/mate/MATE/language/es_419/)
+manafirewall,4,0,1093,4,0,129,4,1097,0.3646308113035551,Spanish (Latin America) (https://www.transifex.com/MageiaLinux/teams/9361/es_419/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,Spanish (Latin America) (http://www.transifex.com/mate/MATE/language/es_419/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Spanish (Latin America) (http://www.transifex.com/mate/MATE/language/es_419/)
+pacman,4382,0,807,771,0,127,5707,5189,84.44787049527848,Spanish (Latin America) (http://www.transifex.com/toofishes/archlinux-pacman/language/es_419/)
+picard,398,0,3815,270,0,1166,427,4213,9.446949916923806,Spanish (Latin America) (http://www.transifex.com/musicbrainz/musicbrainz/language/es_419/)
+stellarium,409,0,151232,150,0,37705,466,151641,0.26971597391206864,Spanish (Latin America) (https://www.transifex.com/stellarium/teams/80998/es_419/)
+tryton,691,41,103,292,25,47,807,835,82.75449101796407,
+wesnoth,0,0,317340,0,0,19695,0,317340,0.0,LANGUAGE <LL@li.org>

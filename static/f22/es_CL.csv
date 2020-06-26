@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,9,0,95,4,0,37,9,104,8.653846153846153,Spanish (Chile) (http://www.transifex.com/projects/p/0ad/language/es_CL/)
+libgweather,447,9,4,170,5,4,534,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmateweather,490,0,0,174,0,0,564,490,100.0,Spanish (Chile) (http://www.transifex.com/mate/MATE/language/es_CL/)
+mate-applets,2031,0,389,468,0,91,2401,2420,83.92561983471074,Spanish (Chile) (http://www.transifex.com/mate/MATE/language/es_CL/)
+mate-desktop,273,0,2140,34,0,300,297,2413,11.313717364276833,Spanish (Chile) (http://www.transifex.com/mate/MATE/language/es_CL/)
+mate-icon-theme,4,0,0,2,0,0,6,4,100.0,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+mate-notification-daemon,107,0,45,28,0,9,130,152,70.39473684210526,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/freedesktop/language/es_CL/)
+mozo,42,0,0,16,0,0,46,42,100.0,Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/)
+openerp,7505,0,28746,1768,0,2453,8140,36251,20.702877162009322,Spanish (Chile) <es_CL@li.org>
+openerp7,5068,0,30550,1345,0,2921,5488,35618,14.228760738952214,Spanish (Chile) <es_CL@li.org>
+p11-kit,0,0,476,0,0,81,0,476,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/freedesktop/language/es_CL/)
+python-kiwi,208,3,19,62,3,9,215,230,90.43478260869566,Español/Chile <es@li.org>
+rabbitvcs,859,0,72,297,0,20,938,931,92.26638023630504,Spanish
+realmd,0,0,778,0,0,125,0,778,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/freedesktop/language/es_CL/)
+simsu,0,0,81,0,0,4,0,81,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/simsu/language/es_CL/)
+tanglet,0,0,125,0,0,5,0,125,0.0,Spanish (Chile) (http://www.transifex.com/projects/p/tanglet/language/es_CL/)
+wicd,285,0,853,80,0,174,325,1138,25.04393673110721,es_CL <LL@li.org>
+zathura,242,0,298,68,0,65,267,540,44.81481481481481,Spanish (Chile) (http://www.transifex.net/projects/p/zathura/language/es_CL/)

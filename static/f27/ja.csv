@@ -1,0 +1,1564 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+4Pane,532,0,12043,252,0,1624,285,12575,4.230616302186879,Japanese (http://www.transifex.com/davidgh/4Pane/language/ja/)
+DivFix++,549,0,0,102,0,0,163,549,100.0,Neroma_King <Neroma_King at Asp_01.net>
+GConf2,4074,0,0,496,0,0,1646,4074,100.0,Japanese <gnome-translation@gnome.gr.jp>
+LabPlot,0,0,6988,0,0,2084,0,6988,0.0,Japanese <kde-jp@kde.org>
+NetworkManager,11480,28,0,1708,3,0,6246,11508,99.7566909975669,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-fortisslvpn,92,1,81,23,1,9,47,174,52.87356321839081,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-iodine,79,1,0,24,1,0,44,80,98.75,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-l2tp,273,44,466,58,9,63,142,783,34.86590038314176,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-libreswan,82,0,0,27,0,0,51,82,100.0,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-openvpn,451,25,573,118,4,47,253,1049,42.99332697807436,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-pptp,273,2,5,62,1,3,149,280,97.5,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-ssh,19,41,226,5,15,49,9,286,6.643356643356643,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-sstp,273,2,5,62,1,3,149,280,97.5,Japanese <gnome-translation@gnome.gr.jp>
+NetworkManager-vpnc,439,0,0,83,0,0,256,439,100.0,Japanese <gnome-translation@gnome.gr.jp>
+PackageKit,1109,0,169,286,0,34,331,1278,86.77621283255085,Japanese (http://www.transifex.com/freedesktop/packagekit/language/ja/)
+R,35244,1116,1077,5177,153,128,15855,37437,94.14215882682907,RjpWiki Message Translation Team <mokada@md.tsukuba.ac.jp>
+Thunar,4201,0,0,739,0,0,1170,4201,100.0,Japanese (https://www.transifex.com/xfce/teams/16840/ja/)
+WindowMaker,3927,0,318,769,0,43,1223,4245,92.50883392226147,Japanese
+Zim,2315,0,500,580,0,110,749,2815,82.2380106571936,Japanese <ja@li.org>
+a2ps,1374,106,32,169,3,7,645,1512,90.87301587301587,Japanese <translation-team-ja@lists.sourceforge.net>
+abook,573,80,145,148,25,37,289,798,71.80451127819549,japanese
+abrt,3969,0,0,476,0,0,1407,3969,100.0,Japanese (http://www.transifex.com/projects/p/fedora-abrt/language/ja/)
+accerciser,608,298,3660,226,39,176,306,4566,13.31581252737626,Japanese
+accountsservice,59,0,0,10,0,0,12,59,100.0,Japanese (http://www.transifex.com/projects/p/freedesktop/language/ja/)
+ailurus,100,0,6602,22,0,1031,39,6702,1.4920919128618322,none
+aisleriot,2995,0,4,652,0,2,1276,2999,99.86662220740247,Japanese <gnome-translation@gnome.gr.jp>
+akonadi-calendar-tools,389,75,378,86,13,74,175,842,46.19952494061758,Japanese <kde-jp@kde.org>
+akonadi-import-wizard,0,0,391,0,0,83,0,391,0.0,Japanese <kde-jp@kde.org>
+akregator,1369,162,234,346,46,34,482,1765,77.56373937677054,Japanese <kde-jp@kde.org>
+alacarte,42,0,0,16,0,0,16,42,100.0,Japanese <gnome-translation@gnome.gr.jp>
+alexandria,1073,39,69,281,11,14,306,1181,90.85520745131245,Japanese Translators
+alleyoop,351,0,0,92,0,0,149,351,100.0,Japanese <takeshi.aihana@gmail.com>
+alsa-utils,1617,486,223,280,22,56,807,2326,69.51848667239898,Japanese <LL@li.org>
+amarok,11310,2163,2346,2238,321,221,4152,15819,71.49630191541817,Japanese <kde-jp@kde.org>
+anaconda,7061,0,316,1167,0,53,2246,7377,95.71641588721702,Japanese (http://www.transifex.com/projects/p/anaconda/language/ja/)
+analitza,0,389,599,0,126,95,0,988,0.0,Japanese <kde-jp@kde.org>
+anjuta,8460,1325,6947,2062,147,400,3029,16732,50.56179775280899,Japanese <gnome-translation@gnome.gr.jp>
+appcenter,757,0,0,177,0,0,222,757,100.0,Japanese <https://weblate.elementary.io/projects/appcenter/appcenter/ja/>
+appeditor,324,0,4,86,0,1,95,328,98.78048780487805,none
+appstream,15,15,823,9,2,180,9,853,1.7584994138335288,Japanese (http://www.transifex.com/freedesktop/appstream/language/ja/)
+apt,3424,416,263,420,12,44,1427,4103,83.45113331708505,Japanese <gnome-translation@gnome.gr.jp>
+apt-cacher-ng,394,0,0,25,0,0,81,394,100.0,Japanese <debian-japanese@lists.debian.org>
+arandr,73,0,100,24,0,14,26,173,42.19653179190752,Japanese <ja@li.org>
+ardour5,20809,0,1,4529,0,1,8496,20810,99.99519461797213,Japanese <ardour-dev@lists.ardour.org>
+arduino,3093,0,0,590,0,0,736,3093,100.0,Japanese (Japan) (http://www.transifex.com/mbanzi/arduino-ide-15/language/ja_JP/)
+aria2,3598,0,3849,268,0,129,1673,7447,48.31475762051833,Japanese <ja@li.org>
+ark,514,636,700,110,119,106,193,1850,27.783783783783782,Japanese <kde-jp@kde.org>
+arm-none-eabi-binutils-cs,20165,170,23344,3173,42,3791,11914,43679,46.16634996222441,Japanese <translation-team-ja@lists.sourceforge.net>
+arm-none-eabi-gcc-cs,16725,29851,50619,2797,4371,5400,8167,97195,17.207675291938887,Japanese <translation-team-ja@lists.sourceforge.net>
+arm-none-eabi-gdb,6811,0,1419,1013,0,286,4307,8230,82.75820170109355,Japanese <translation-team-ja@lists.sourceforge.net>
+artikulate,0,0,436,0,0,156,0,436,0.0,Japanese <kde-jp@kde.org>
+aspell,1726,0,0,293,0,0,611,1726,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+asunder,431,25,39,79,2,10,171,495,87.07070707070706,Japanese <ja@li.org>
+at-spi2-core,5,0,0,1,0,0,1,5,100.0,Japanese <gnome-translation@gnome.gr.jp>
+atk,398,0,0,139,0,0,157,398,100.0,Japanese <gnome-translation@gnome.gr.jp>
+atomix,146,0,0,59,0,0,77,146,100.0,Japanese <translation@gnome.gr.jp>
+atril,3559,0,0,565,0,0,1253,3559,100.0,Japanese <mate-translation@mate.gr.jp>
+audacious,760,0,0,326,0,0,403,760,100.0,Japanese (http://www.transifex.com/audacious/audacious/language/ja/)
+audacious-plugins,3934,0,0,888,0,0,2389,3934,100.0,Japanese (http://www.transifex.com/audacious/audacious/language/ja/)
+audacity,9609,4164,2818,2245,1067,463,3970,16591,57.916942920860706,Atsushi YOSHIDA
+audex,0,0,3347,0,0,412,0,3347,0.0,Japanese <kde-jp@kde.org>
+audience,182,0,0,62,0,0,92,182,100.0,Japanese <https://l10n.elementary.io/projects/videos/videos/ja/>
+audit-viewer,611,0,0,185,0,0,306,611,100.0,LANGUAGE <LL@li.org>
+authconfig,879,16,34,130,2,5,175,929,94.6178686759957,Japanese (http://www.transifex.com/projects/p/authconfig/language/ja/)
+authd,196,0,0,29,0,0,55,196,100.0,ja <http://bugzilla.redhat.com/>
+autotest-framework,983,0,0,89,0,0,263,983,100.0,Japanese <ja@li.org>
+avahi,865,2,1,165,2,1,449,868,99.65437788018433,Japanese (http://www.transifex.com/lennart/avahi/language/ja/)
+avogadro,6557,0,50,2349,0,23,3440,6607,99.2432268805812,Japanese <ja@li.org>
+avr-binutils,20165,170,23344,3173,42,3791,11914,43679,46.16634996222441,Japanese <translation-team-ja@lists.sourceforge.net>
+avr-gcc,16725,29851,50630,2797,4371,5401,8167,97206,17.20572804147892,Japanese <translation-team-ja@lists.sourceforge.net>
+avr-gdb,2156,724,495,366,87,51,1325,3375,63.88148148148149,Japanese <ja@li.org>
+axel,212,258,73,50,7,16,125,543,39.042357274401475,debian-japanese@lists.debian.org
+b43-fwcutter,67,0,0,4,0,0,10,67,100.0,Japanese <debian-japanese@lists.debian.org>
+backintime,532,0,1451,135,0,201,208,1983,26.82803832576904,Japanese <ja@li.org>
+bakery,72,0,0,20,0,0,20,72,100.0,Japanese <gnome-translation@gnome.gr.jp>
+baloo-widgets,0,0,412,0,0,125,0,412,0.0,Japanese <kde-jp@kde.org>
+balsa,2901,2014,1326,767,524,235,1249,6241,46.4829354270149,Japanese <gnome-translation@gnome.gr.jp>
+banshee,10976,184,0,1839,2,0,2229,11160,98.35125448028674,Japanese <gnome-translation@gnome.gr.jp>
+baobab,210,0,0,57,0,0,116,210,100.0,Japanese <gnome-translation@gnome.gr.jp>
+bareftp,448,0,0,160,0,0,197,448,100.0,Japanese <None>
+bash,6279,5009,68,519,50,12,2507,11356,55.2923564635435,Japanese <translation-team-ja@lists.sourceforge.net>
+bijiben,309,0,0,103,0,0,123,309,100.0,Japanese <gnome-translation@gnome.gr.jp>
+binutils,21473,170,24839,3416,42,4033,12716,46482,46.19637709220773,Japanese <translation-team-ja@lists.sourceforge.net>
+bison,371,576,469,79,98,36,223,1416,26.20056497175141,Japanese <translation-team-ja@lists.sourceforge.net>
+bleachbit,1211,0,49,263,0,4,409,1260,96.11111111111111,Japanese <ja@li.org>
+blender,109446,0,0,23757,0,0,26110,109446,100.0,Japanese Translation Team (https://sites.google.com/site/blugjp/blender-translators)
+blinken,133,0,0,47,0,0,72,133,100.0,Japanese <kde-jp@kde.org>
+blivet-gui,285,0,480,100,0,121,140,765,37.254901960784316,Japanese (http://www.transifex.com/dlehman/blivet/language/ja/)
+blogilo,195,13,1184,94,3,240,116,1392,14.00862068965517,Japanese <kde-jp@kde.org>
+blueberry,141,0,0,34,0,0,57,141,100.0,Japanese <ja@li.org>
+bluedevil,161,50,362,59,18,114,89,573,28.097731239092493,Japanese <kde-jp@kde.org>
+bluefish,4905,0,0,1539,0,0,2115,4905,100.0,
+blueman,1320,0,64,329,0,13,543,1384,95.37572254335261,Japanese (http://www.transifex.com/mate/MATE/language/ja/)
+boinc-client,18051,0,2217,2788,0,195,4773,20268,89.0615748963884,Japanese (http://www.transifex.com/boinc/boinc/language/ja/)
+bomber,65,9,29,20,1,6,36,103,63.10679611650486,Japanese <kde-jp@kde.org>
+bovo,60,4,17,21,1,3,27,81,74.07407407407408,Japanese <kde-jp@kde.org>
+brasero,7750,0,0,1113,0,0,1911,7750,100.0,Japanese <gnome-translation@gnome.gr.jp>
+byobu,65,0,112,22,0,22,24,177,36.72316384180791,Japanese <ja@li.org>
+byzanz,249,0,0,42,0,0,89,249,100.0,Japanese <gnome-translation@gnome.gr.jp>
+bzr,8332,0,24917,585,0,1768,1687,33249,25.059400282715274,Japanese <ja@li.org>
+cairo-clock,270,0,2491,60,0,1,104,2761,9.779065555957986,Japanese <gnome-translation@gnome.gr.jp>
+cairo-dock,6859,0,605,745,0,82,1212,7464,91.89442658092176,
+cairo-dock-plug-ins,9238,0,965,1600,0,122,2194,10203,90.54199745172988,
+caja,9356,0,0,1517,0,0,2457,9356,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+caja-actions,13,1148,7005,7,134,631,9,8166,0.15919666911584618,Japanese <gnome-translation@gnome.gr.jp>
+caja-extensions,570,0,0,131,0,0,204,570,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+calamares,55,0,0,13,0,0,29,55,100.0,Japanese (https://www.transifex.com/calamares/teams/20061/ja/)
+calibre,67663,0,89638,7958,0,10142,12899,157301,43.01498401154474,Japanese (http://www.transifex.com/calibre/calibre/language/ja/)
+calligra,26856,2813,6193,6674,337,744,11797,35862,74.88706709051364,Japanese <kde-jp@kde.org>
+calligraplan,3932,887,4811,1208,264,569,1644,9630,40.83073727933541,Japanese <kde-jp@kde.org>
+camorama,586,0,0,137,0,0,216,586,100.0,Japanese <gnome-translation@gnome.gr.jp>
+cantor,0,0,2103,0,0,478,0,2103,0.0,Japanese <kde-jp@kde.org>
+capnet-assist,32,0,0,5,0,0,5,32,100.0,Japanese <ja@li.org>
+caribou,171,0,0,57,0,0,75,171,100.0,Japanese <gnome-translation@gnome.gr.jp>
+catfish,516,0,161,103,0,8,133,677,76.21861152141803,Japanese <ja@li.org>
+ccsm,549,5,25,135,3,13,249,579,94.81865284974094,Japanese <ja@li.org>
+celestia,2270,6,0,1085,1,0,1281,2276,99.73637961335676,<aqua@aqsp.net>
+certmonger,1219,146,4345,200,18,736,522,5710,21.34851138353765,Japanese (http://www.transifex.com/projects/p/certmonger/language/ja/)
+cervisia,1579,33,7,410,9,2,646,1619,97.52933909820877,Japanese <kde-jp@kde.org>
+cgit,3675,0,2,857,0,1,1411,3677,99.94560783247212,Japanese
+cheese,614,0,0,123,0,0,175,614,100.0,Japanese <gnome-translation@gnome.gr.jp>
+cherokee,1694,776,4063,615,174,461,630,6533,25.92989438236645,Logue <logue@hotmail.co.jp>
+cherrytree,2909,0,0,703,0,0,971,2909,100.0,Japanese
+chkconfig,516,8,31,95,1,7,295,555,92.97297297297298,Japanese <trans-ja@lists.fedoraproject.org>
+choqok,937,422,898,236,148,185,363,2257,41.51528577758086,Japanese <kde-jp@kde.org>
+chromium-native_client,66734,6178,80964,10632,947,11408,35961,153876,43.36868647482389,Japanese <translation-team-ja@lists.sourceforge.net>
+cinnamon-control-center,1313,0,0,756,0,0,912,1313,100.0,Japanese <>
+cinnamon-desktop,234,0,0,32,0,0,129,234,100.0,Japanese <gnome-translation@gnome.gr.jp>
+cinnamon-translations,13284,0,7110,3231,0,1280,4824,20394,65.13680494263019,Japanese <https://launchpad.net/~linuxmint-translation-team-japanese>
+clamtk,464,0,0,140,0,0,155,464,100.0,Japanese <ja@li.org>
+clipit,210,0,8,70,0,4,99,218,96.3302752293578,Japanese (http://www.transifex.net/projects/p/clipit/language/ja/)
+clutter,2947,85,25,653,14,8,743,3057,96.40170101406608,Japanese <gnome-translation@gnome.gr.jp>
+clutter-gtk,5,0,0,1,0,0,4,5,100.0,Japanese <takeshi.aihana@gmail.com>
+cmyktool,489,0,372,131,0,60,143,861,56.79442508710801,Japanese <LL@li.org>
+cockpit,7318,0,329,2002,0,54,3018,7647,95.69765921276317,Japanese
+cogl,378,0,0,76,0,0,119,378,100.0,Japanese <gnome-translation@gnome.gr.jp>
+colord,520,0,1466,127,0,125,163,1986,26.183282980866064,Japanese (http://www.transifex.com/freedesktop/colord/language/ja/)
+colord-kde,0,0,369,0,0,120,0,369,0.0,Japanese <kde-jp@kde.org>
+colorhug-client,440,0,968,98,0,196,109,1408,31.25,Japanese (Japan) (http://www.transifex.com/projects/p/colorhug-client/language/ja_JP/)
+comix,1326,0,0,262,0,0,278,1326,100.0,
+compat-gcc-32,16180,7391,5986,2683,1226,846,7339,29557,54.74168555672091,Japanese <ja@li.org>
+compat-gcc-34,10402,10430,10047,1782,1687,1231,4722,30879,33.686324038990904,Japanese <ja@li.org>
+compat-gtkhtml314,485,0,0,309,0,0,333,485,100.0,Japanese <gnome-translation@gnome.gr.jp>
+compat-tracker1,3120,16,0,518,3,0,960,3136,99.48979591836735,Japanese <gnome-translation@gnome.gr.jp>
+compat-wxGTK3-gtk2,6763,682,343,1590,215,69,3147,7788,86.83872624550591,Japanese <wx-translators@wxwindows.org>
+compiz,3140,949,296,693,135,51,1009,4385,71.60775370581528,Japanese <opensuse-ja@opensuse.org>
+compiz-plugins-experimental,1935,1009,1537,417,289,191,501,4481,43.18232537380049,Japanese <ja@li.org>
+compiz-plugins-extra,3403,193,82,683,34,11,709,3678,92.5231103860794,Japanese <ja@li.org>
+compiz-plugins-main,4145,22,51,796,6,9,996,4218,98.26932195353248,Japanese <ja@li.org>
+console-setup,985,0,0,175,0,0,310,985,100.0,Debian L10n Japanese <debian-japanese@lists.debian.org>
+control-center,6513,13,15,2247,7,1,2825,6541,99.5719308974163,Japanese <>
+corebird,329,0,257,131,0,80,155,586,56.14334470989761,Japanese (Japan) (http://www.transifex.com/corebird/corebird/language/ja_JP/)
+coreutils,10472,8130,2130,1160,402,182,5259,20732,50.51128689947907,Japanese <translation-team-ja@lists.sourceforge.net>
+cpio,1795,86,21,293,15,5,846,1902,94.37434279705573,Japanese <translation-team-ja@lists.sourceforge.net>
+cppi,596,0,0,61,0,0,359,596,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+cracklib,93,0,3,15,0,1,15,96,96.875,Novell Language <language@novell.com>
+cross-binutils,21473,170,24839,3416,42,4033,12716,46482,46.19637709220773,Japanese <translation-team-ja@lists.sourceforge.net>
+cross-gcc,16717,29898,50759,2796,4377,5412,8163,97374,17.16782714071518,Japanese <translation-team-ja@lists.sourceforge.net>
+cups,7384,0,1230,1576,0,356,4691,8614,85.72091943348038,OPFC TRANSCUPS <opfc-transcups@sourceforge.jp>
+cups-pk-helper,149,0,0,22,0,0,22,149,100.0,Japanese (http://www.transifex.net/projects/p/freedesktop/language/ja/)
+cura,16378,151,0,1956,8,0,2235,16529,99.0864541109565,Japanese
+cura-lulzbot,18537,160,0,2451,11,0,4959,18697,99.14424774027918,TEAM
+cutter,10420,0,10000,1080,0,2512,1558,20420,51.02840352595494,Japanese
+darktable,10019,0,0,2277,0,0,3484,10019,100.0,
+dasher,539,36,639,179,11,57,241,1214,44.398682042833606,Japanese <gnome-translation@gnome.gr.jp>
+davix,32,245,409,6,45,84,11,686,4.664723032069971,ja
+dconf-editor,52,39,1282,15,17,151,28,1373,3.7873270211216314,Japanese <gnome-translation@gnome.gr.jp>
+dcraw,552,0,0,111,0,0,367,552,100.0,
+debconf,795,5,60,87,3,4,263,860,92.44186046511628,Debian L10n Japanese <debian-l10n-japanese@lists.debian.org>
+debhelper,12442,2783,4593,839,112,159,3670,19818,62.781309920274495,Debian JP Project <debian-doc@debian.or.jp>
+decibel-audio-player,64,0,1430,41,0,196,46,1494,4.28380187416332,Japanese <ja@li.org>
+deepin-terminal,51,0,322,39,0,112,40,373,13.672922252010725,Japanese (https://www.transifex.com/linuxdeepin/teams/3976/ja/)
+deja-dup,4147,0,45,493,0,5,1166,4192,98.92652671755725,Japanese <ja@li.org>
+deluge,2142,0,586,796,0,82,961,2728,78.51906158357771,Japanese <ja@li.org>
+denemo,5505,9142,30372,1143,2342,2260,1644,45019,12.2281703280837,Japanese <translation-team-ja@lists.sourceforge.net>
+devhelp,443,0,0,107,0,0,202,443,100.0,Japanese <gnome-translation@gnome.gr.jp>
+devilspie2,161,0,0,35,0,0,45,161,100.0,Japanese
+dia,6601,0,0,2359,0,0,3768,6601,100.0,Japanese <gnome-translation@gnome.gr.jp>
+dialog,25,0,0,23,0,0,23,25,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+diffuse,987,0,0,186,0,0,355,987,100.0,Japanese
+diffutils,1542,285,59,207,47,12,791,1886,81.76033934252386,Japanese <translation-team-ja@lists.sourceforge.net>
+digikam,19823,9994,17848,4046,1803,1934,6288,47665,41.5881674184412,Japanese <kde-jp@kde.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,997,30,2154,325,3,330,501,3181,31.342345174473436,Japanese (http://www.transifex.com/projects/p/dnf/language/ja/)
+dnf-plugins-core,35,44,791,10,7,122,12,870,4.022988505747127,Japanese
+dnf-plugins-extras,8,2,231,2,1,36,2,241,3.319502074688797,Japanese
+dnfdragora,769,0,0,316,0,0,514,769,100.0,Japanese (https://www.transifex.com/MageiaLinux/teams/9361/ja/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Japanese
+dolphin,1333,71,164,466,23,28,644,1568,85.01275510204081,Japanese <kde-jp@kde.org>
+dolphin-emu,6721,0,244,1279,0,10,2750,6965,96.49676956209619,Japanese (http://www.transifex.com/delroth/dolphin-emu/language/ja/)
+dolphin-plugins,0,0,1202,0,0,331,0,1202,0.0,Japanese <kde-jp@kde.org>
+dos2unix,993,0,0,120,0,0,691,993,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+dpkg,31234,21101,9231,2836,926,461,10152,61566,50.732547185134656,Japanese <debian-japanese@lists.debian.org>
+dragon,227,6,42,73,3,10,122,275,82.54545454545455,Japanese <kde-jp@kde.org>
+drgeo,1525,200,260,393,33,35,663,1985,76.82619647355163,Japanese <translation@gnome.gr.jp>
+duplicity,0,0,2189,0,0,309,0,2189,0.0,Japanese <ja@li.org>
+e16,2776,0,20,506,0,8,869,2796,99.28469241773963,Japanese <ja@li.org>
+easystroke,421,0,49,127,0,10,176,470,89.57446808510639,Japanese <ja@li.org>
+easytag,4165,1165,177,842,174,24,1586,5507,75.63101507172689,Japanese <gnome-translation@gnome.gr.jp>
+eb,1073,0,11,235,0,1,547,1084,98.98523985239852,
+ebview,1025,0,0,292,0,0,315,1025,100.0,Japanese <ja@li.org>
+edgar,11474,0,0,1535,0,0,3278,11474,100.0,Japanese <ja@li.org>
+efl,116,18,160,42,6,78,69,294,39.455782312925166,Enlightenment Team
+eiciel,146,16,6,45,6,2,46,168,86.90476190476191,Novell language <language@novell.com>
+ejabberd,1664,74,498,391,19,98,568,2236,74.4186046511628,
+ekiga,3809,299,311,656,47,36,1167,4419,86.1959719393528,Japanese <gnome-translation@gnome.gr.jp>
+elementary-calculator,80,0,0,37,0,0,40,80,100.0,Japanese <https://weblate.elementary.io/projects/calculator/calculator/ja/>
+elementary-camera,61,0,1,15,0,1,24,62,98.38709677419355,Japanese <https://weblate.elementary.io/projects/camera/camera/ja/>
+elementary-capnet-assist,66,0,0,10,0,0,13,66,100.0,Japanese <https://weblate.elementary.io/projects/desktop/capnet-assist/ja/>
+elementary-screenshot-tool,131,0,1,42,0,1,44,132,99.24242424242425,Japanese <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/ja/>
+elementary-shortcut-overlay,81,0,1,36,0,1,36,82,98.78048780487805,Japanese <https://weblate.elementary.io/projects/desktop/shortcut-overlay/ja/>
+elfutils,3074,1063,3993,542,174,466,1613,8130,37.810578105781055,Japanese <jp@li.org>
+emelfm2,5018,12,1210,1486,5,89,1875,6240,80.41666666666667,Japanese <ja@li.org>
+emerald,641,42,10,207,6,6,261,693,92.4963924963925,Japanese <gnome-translation@gnome.gr.jp>
+empathy,10760,46,0,1441,2,0,2370,10806,99.57431056820285,Japanese <gnome-translation@gnome.gr.jp>
+engrampa,7701,0,0,829,0,0,1597,7701,100.0,Japanese <mate-translation@mate.gr.jp>
+enlightenment,2759,3630,2297,1042,820,370,1281,8686,31.76375777112595,E17-jp <LL@li.org>
+entangle,705,0,209,156,0,62,264,914,77.13347921225383,Japanese (http://www.transifex.com/projects/p/entangle/language/ja/)
+eog,6541,10,0,741,2,0,1359,6551,99.84735154938177,Japanese <gnome-translation@gnome.gr.jp>
+eog-plugins,225,2,46,73,1,3,98,273,82.41758241758241,Japanese <gnome-translation@gnome.gr.jp>
+eom,3252,0,54,431,0,21,872,3306,98.36660617059891,LANGUAGE <LL@li.org>
+epiphany,2749,0,0,611,0,0,919,2749,100.0,Japanese <gnome-translation@gnome.gr.jp>
+etckeeper,41,0,0,2,0,0,12,41,100.0,Japanese <debian-japanese@lists.debian.org>
+evince,8688,0,4,1023,0,1,2272,8692,99.95398067188219,Japanese <gnome-translation@gnome.gr.jp>
+evolution,17082,6374,2103,4133,847,268,5232,25559,66.83360068860284,Japanese <gnome-translation@gnome.gr.jp>
+evolution-data-server,5039,388,289,1023,76,48,2210,5716,88.1560531840448,Japanese <gnome-translation@gnome.gr.jp>
+evolution-ews,1109,2,24,226,1,7,382,1135,97.70925110132158,Japanese <gnome-translation@gnome.gr.jp>
+evolution-mapi,431,82,62,95,14,12,176,575,74.95652173913044,Japanese <takeshi.aihana@gmail.com>
+exaile,1586,110,2310,533,42,450,699,4006,39.59061407888168,Japanese <https://hosted.weblate.org/projects/exaile/master/ja/>
+exo,1451,0,0,298,0,0,566,1451,100.0,Japanese (http://www.transifex.com/xfce/exo/language/ja/)
+expendable,227,0,0,93,0,0,102,227,100.0,Japanese (http://www.transifex.com/projects/p/expendable/language/ja/)
+falkon,3607,443,126,1196,93,37,1564,4176,86.37452107279694,
+fantasdic,304,0,0,101,0,0,129,304,100.0,Japanese <ja@li.org>
+fcitx,2889,0,504,704,0,52,1122,3393,85.14588859416446,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-anthy,356,0,0,143,0,0,152,356,100.0,Japanese (http://www.transifex.com/projects/p/fcitx/language/ja/)
+fcitx-chewing,38,0,17,19,0,7,31,55,69.0909090909091,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-cloudpinyin,63,0,0,15,0,0,34,63,100.0,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-configtool,102,0,4,31,0,2,38,106,96.22641509433963,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-hangul,37,0,0,18,0,0,27,37,100.0,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-kkc,118,0,0,46,0,0,53,118,100.0,Japanese (http://www.transifex.com/projects/p/fcitx/language/ja/)
+fcitx-libpinyin,211,0,50,86,0,17,131,261,80.84291187739464,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-m17n,45,0,0,17,0,0,23,45,100.0,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-qt5,99,0,0,33,0,0,51,99,100.0,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-skk,55,0,15,27,0,6,27,70,78.57142857142857,Japanese (http://www.transifex.com/projects/p/fcitx/language/ja/)
+fcitx-sunpinyin,87,0,17,36,0,4,103,104,83.65384615384616,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-table-extra,24,0,0,20,0,0,24,24,100.0,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-table-other,24,0,0,22,0,0,23,24,100.0,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+fcitx-unikey,54,0,42,24,0,18,38,96,56.25,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+feedreader,264,5,420,104,4,93,106,689,38.31640058055152,Japanese <https://hosted.weblate.org/projects/feedreader/translations/ja/>
+fetchmail,4382,0,0,692,0,0,2306,4382,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+fgrun,914,0,81,354,0,47,402,995,91.85929648241206,FlightGear.jpn.org
+file-roller,2996,14,0,453,7,0,671,3010,99.53488372093024,Japanese <gnome-translation@gnome.gr.jp>
+filelight,345,28,34,76,5,11,128,407,84.76658476658476,Japanese <kde-jp@kde.org>
+filezilla,10708,0,0,1838,0,0,3386,10708,100.0,Japanese
+findutils,1866,208,494,180,18,41,809,2568,72.66355140186917,Japanese <translation-team-ja@lists.sourceforge.net>
+firewalld,2131,0,45,401,0,3,672,2176,97.93198529411765,Japanese (http://www.transifex.com/projects/p/firewalld/language/ja/)
+five-or-more,1569,0,0,217,0,0,530,1569,100.0,Japanese <gnome-translation@gnome.gr.jp>
+flare,2400,184,710,316,62,143,346,3294,72.85974499089252,Paul Wortmann <www.physhexgames.co.nr>
+flare-engine,488,64,46,188,18,20,253,598,81.60535117056857,Paul Wortmann <www.physhexgames.co.nr>
+flaw,84,0,0,53,0,0,53,84,100.0,
+focuswriter,129,0,0,7,0,0,9,129,100.0,Japanese (http://www.transifex.com/projects/p/focuswriter/language/ja/)
+folks,843,0,8,109,0,1,315,851,99.05992949471211,Japanese <gnome-translation@gnome.gr.jp>
+fontforge,20110,4376,17218,4556,1108,1583,6955,41704,48.220794168425094,LANGUAGE <ja.c@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Japanese
+four-in-a-row,253,0,0,72,0,0,118,253,100.0,Japanese <gnome-translation@gnome.gr.jp>
+foxtrotgps,925,33,37,282,7,11,551,995,92.96482412060301,LANGUAGE <LL@li.org>
+fpc,199,0,0,9,0,0,47,199,100.0,Japanese <debian-japanese@lists.debian.org>
+fprintd,419,0,0,57,0,0,79,419,100.0,Japanese (http://www.transifex.com/freedesktop/fprintd/language/ja/)
+freeciv,89318,994,7890,7645,149,342,11413,98202,90.95334107248325,SAWADA Katsuya <ama@petmail.net>
+freedink,83,0,0,15,0,0,49,83,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+freeipa,421,0,52226,137,0,4123,230,52647,0.7996656979505005,Japanese
+frepple,1016,3,1062,347,2,215,389,2081,48.82268140317155,frepple
+frogr,579,21,64,168,6,10,252,664,87.19879518072288,Japanese <gnome-translation@gnome.gr.jp>
+frozen-bubble,436,61,201,109,11,28,146,698,62.46418338108882,Japanese
+fuse-encfs,623,9,657,83,1,53,265,1289,48.33204034134989,Japanese <ja@li.org>
+fusionforge,1293,5257,25234,418,1511,4179,551,31784,4.06808457085326,FusionForge team <fusionforge-general@lists.fusionforge.org>
+gajim,11165,0,0,2231,0,0,3908,11165,100.0,LANGUAGE <LL@li.org>
+gala,499,94,101,69,5,5,81,694,71.90201729106627,Japanese <https://weblate.elementary.io/projects/desktop/gala/ja/>
+galculator,935,0,0,275,0,0,464,935,100.0,Japanese (http://www.transifex.com/mate/MATE/language/ja/)
+gallery2,17786,4,3,2541,1,1,3939,17793,99.96065868600012,Japanese <gallery-devel@lists.sourceforge.net>
+gambas3,2012,0,3354,749,0,864,898,5366,37.49534103615356,LANGUAGE <LL@li.org>
+ganglia,59,0,0,4,0,0,8,59,100.0,Japanese <debian-japanese@lists.debian.org>
+garcon,122,0,0,36,0,0,44,122,100.0,Japanese (http://www.transifex.com/xfce/garcon/language/ja/)
+gauche,82,0,0,10,0,0,18,82,100.0,
+gawk,2659,703,1339,408,119,214,1358,4701,56.562433524781966,Japanese <translation-team-ja@lists.sourceforge.net>
+gcc,16717,29898,50759,2796,4377,5412,8163,97374,17.16782714071518,Japanese <translation-team-ja@lists.sourceforge.net>
+gcl,177,0,0,8,0,0,43,177,100.0,Japanese <debian-japanese@lists.debian.org>
+gcompris,6763,1942,3942,848,202,432,1262,12647,53.47513244247648,Japanese <translation@gnome.gr.jp>
+gcompris-qt,0,0,23313,0,0,1956,0,23313,0.0,Japanese <kde-jp@kde.org>
+gconf-editor,336,0,0,98,0,0,135,336,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gcr,669,0,2,240,0,2,295,671,99.70193740685544,Japanese <gnome-translation@gnome.gr.jp>
+gdb,6811,0,1419,1013,0,286,4307,8230,82.75820170109355,Japanese <translation-team-ja@lists.sourceforge.net>
+gdbm,249,239,291,79,56,79,144,779,31.964056482670088,Japanese <translation-team-ja@lists.sourceforge.net>
+gdesklets,870,0,658,155,0,49,284,1528,56.937172774869104,Japanese <gnome-translation@gnome.gr.jp>
+gdk-pixbuf2,1354,0,0,202,0,0,518,1354,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gdm,650,0,0,87,0,0,177,650,100.0,Japanese <gnome-translation@gnome.gr.jp>
+geany,5900,83,54,1288,11,9,1763,6037,97.73066092430015,Japanese <ja@li.org>
+geany-plugins,5695,937,1837,1306,220,217,1849,8469,67.24524737277129,Japanese
+geary,626,0,475,216,0,111,307,1101,56.85740236148955,Japanese (Japan) (http://www.transifex.com/projects/p/geary/language/ja_JP/)
+geda-gaf,749,0,1304,299,0,286,328,2053,36.48319532391622,Japanese <ja@li.org>
+gedit,4581,1182,6089,792,165,366,1225,11852,38.65170435369558,Japanese <gnome-translation@gnome.gr.jp>
+gedit-cossa,88,0,0,41,0,0,58,88,100.0,Japanese <takeshi.aihana@gmail.com>
+gedit-plugins,1278,1302,6662,478,203,424,1315,9242,13.828175719541225,Japanese <gnome-translation@gnome.gr.jp>
+geeqie,1159,1074,1551,511,400,386,609,3784,30.62896405919662,Japanese <gnome-translation@gnome.gr.jp>
+genius,2545,1556,3587,475,199,373,974,7688,33.10353798126951,Japanese <gnome-translation@gnome.gr.jp>
+gentoo,455,85,1713,239,29,330,289,2253,20.195295162006214,Japanese <LL@li.org>
+gettext,7794,0,0,829,0,0,3644,7794,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+gftp,2953,230,192,552,70,12,1155,3375,87.4962962962963,Japanese <gnome-translation@gnome.gr.jp>
+ggz-base-libs,74,0,0,17,0,0,18,74,100.0,Japanese <gnome-translation@gnome.gr.jp>
+ggz-gtk-client,773,0,0,244,0,0,309,773,100.0,Japanese <gnome-translation@gnome.gr.jp>
+ghdl,17705,28244,46755,2952,4158,5084,8686,92704,19.09842078011736,Japanese <translation-team-ja@lists.sourceforge.net>
+ghex,2367,453,393,339,35,51,660,3213,73.66946778711485,LANGUAGE <LL@li.org>
+gigolo,521,0,0,142,0,0,191,521,100.0,Japanese
+gimp,29027,11,25,7374,1,3,11125,29063,99.87613116333482,Japanese <gnome-translation@gnome.gr.jp>
+gimp-focusblur-plugin,119,0,0,48,0,0,49,119,100.0,Japanese <LL@li.org>
+gimp-gap,2317,1410,6051,737,257,727,1147,9778,23.696052362446306,Japanese <translation@gnome.gr.jp>
+gimp-help,224558,0,440,14709,0,48,52737,224998,99.80444270615739,Japanese <gnome-translation@gnome.gr.jp>
+gimp-save-for-web,89,0,9,36,0,7,37,98,90.81632653061224,Japanese <LL@li.org>
+git,3675,0,2,857,0,1,1411,3677,99.94560783247212,Japanese
+git-cinnabar,3675,0,2,857,0,1,1411,3677,99.94560783247212,Japanese
+git-cola,143,595,1339,61,233,293,71,2077,6.884930187770823,Japanese
+gitg,306,0,389,85,0,44,133,695,44.02877697841727,Japanese <gnome-translation@gnome.gr.jp>
+gitweb-caching,3368,0,0,804,0,0,1307,3368,100.0,Japanese
+gkrellm,3367,22,395,515,1,35,1220,3784,88.9799154334038,Japanese <gnome-translation@gnome.gr.jp>
+glabels,2276,30,16,746,15,8,1131,2322,98.01894918173988,Japanese <gnome-translation@gnome.gr.jp>
+glade,7042,301,799,1599,54,137,2619,8142,86.48980594448538,Japanese <gnome-translation@gnome.gr.jp>
+glade2,5840,0,0,1300,0,0,1676,5840,100.0,Japanese <gnome-translation@gnome.gr.jp>
+glade3,6505,0,0,1383,0,0,2487,6505,100.0,Japanese <gnome-translation@gnome.gr.jp>
+glib-networking,157,0,0,28,0,0,68,157,100.0,Japanese <gnome-translation@gnome.gr.jp>
+glib2,4054,660,731,647,92,101,1737,5445,74.4536271808999,Japanese <gnome-translation@gnome.gr.jp>
+glibc,7726,0,56,1403,0,10,3458,7782,99.28039064507838,Japanese <translation-team-ja@lists.sourceforge.net>
+glibc-arm-linux-gnu,7726,0,56,1403,0,10,3458,7782,99.28039064507838,Japanese <translation-team-ja@lists.sourceforge.net>
+glpi,10521,0,763,2798,0,160,3323,11284,93.23821339950372,Japanese (Japan) (http://www.transifex.com/glpi/GLPI/language/ja_JP/)
+gmpc,25,0,0,13,0,0,13,25,100.0,Japanese <ja@li.org>
+gmusicbrowser,3988,0,1360,1224,0,386,1625,5348,74.56993268511593,Japanese
+gnome-abrt,397,0,0,73,0,0,144,397,100.0,Japanese (http://www.transifex.com/projects/p/gnome-abrt/language/ja/)
+gnome-activity-journal,0,0,316,0,0,94,0,316,0.0,Japanese <ja@li.org>
+gnome-backgrounds,30,0,0,18,0,0,20,30,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-bluetooth,309,0,0,102,0,0,141,309,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-boxes,1072,0,0,260,0,0,456,1072,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-builder,836,0,2826,358,0,617,383,3662,22.829055161114145,Japanese <gnome-translation@gnome.gr.jp>
+gnome-calculator,2751,285,66,759,13,6,1137,3102,88.68471953578336,Japanese <gnome-translation@gnome.gr.jp>
+gnome-calendar,364,0,0,120,0,0,154,364,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-characters,186,0,0,58,0,0,81,186,100.0,Japanese
+gnome-chess,4297,53,5,357,3,2,1097,4355,98.66819747416761,Japanese <gnome-translation@gnome.gr.jp>
+gnome-clocks,269,0,0,93,0,0,116,269,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-color-manager,1793,0,0,343,0,0,422,1793,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-commander,3278,368,4873,1001,82,583,1178,8519,38.47869468247447,Japanese <gnome-translation@gnome.gr.jp>
+gnome-contacts,433,0,0,157,0,0,210,433,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-desktop,438,0,0,61,0,0,188,438,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-desktop3,146,0,0,23,0,0,99,146,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-devel-docs,5219,447,8502,323,23,345,990,14168,36.8365330321852,Japanese <gnome-translation@gnome.gr.jp>
+gnome-dictionary,659,0,0,137,0,0,240,659,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-disk-utility,3519,14,0,650,2,0,1085,3533,99.60373620152845,Japanese <gnome-translation@gnome.gr.jp>
+gnome-do,392,0,220,111,0,33,129,612,64.05228758169935,Japanese <ja@li.org>
+gnome-doc-utils,251,0,0,101,0,0,225,251,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-documents,1599,97,0,293,6,0,473,1696,94.28066037735849,Japanese <gnome-translation@gnome.gr.jp>
+gnome-font-viewer,130,0,0,30,0,0,120,130,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-getting-started-docs,2501,0,0,337,0,0,487,2501,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-gmail,2,0,185,1,0,30,2,187,1.06951871657754,LANGUAGE <LL@li.org>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-initial-setup,766,0,0,120,0,0,145,766,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-keyring,553,0,0,112,0,0,187,553,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-klotski,120,0,0,57,0,0,108,120,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-libs,2013,80,114,763,8,20,984,2207,91.20978704123243,Japanese <translation@gnome.gr.jp>
+gnome-logs,37,0,103,22,0,20,25,140,26.42857142857143,Japanese <gnome-translation@gnome.gr.jp>
+gnome-mahjongg,171,0,0,54,0,0,107,171,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-maps,548,98,457,139,29,100,201,1103,49.68268359020852,Japanese <gnome-translation@gnome.gr.jp>
+gnome-menus,70,0,0,27,0,0,31,70,100.0,Japanese <trans-ja@lists.fedoraproject.org>
+gnome-mime-data,887,0,0,362,0,0,721,887,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-mines,586,27,953,107,4,78,194,1566,37.42017879948914,Japanese <gnome-translation@gnome.gr.jp>
+gnome-music,458,0,0,85,0,0,312,458,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-nettool,663,0,0,218,0,0,394,663,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-nibbles,260,0,0,80,0,0,147,260,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-online-accounts,1219,0,0,341,0,0,568,1219,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-packagekit,4282,0,108,678,0,4,955,4390,97.53986332574031,Japanese <gnome-translation@gnome.gr.jp>
+gnome-photos,419,0,5,174,0,5,233,424,98.82075471698113,Japanese <gnome-translation@gnome.gr.jp>
+gnome-power-manager,432,0,0,144,0,0,178,432,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-robots,629,0,0,107,0,0,205,629,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-screensaver,286,0,0,56,0,0,82,286,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-screenshot,455,0,0,78,0,0,127,455,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-search-tool,3069,0,0,344,0,0,842,3069,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-session,319,0,0,59,0,0,105,319,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-settings-daemon,3729,0,0,606,0,0,962,3729,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-shell,1627,4,60,386,2,18,551,1691,96.21525724423418,Japanese <gnome-translation@gnome.gr.jp>
+gnome-shell-extension-dash-to-dock,431,0,0,98,0,0,130,431,100.0,Japanese <>
+gnome-shell-extension-openweather,424,0,195,178,0,23,205,619,68.49757673667204,Japanese <takeshi.aihana@gmail.com>
+gnome-shell-extension-sustmi,11,0,0,6,0,0,8,11,100.0,
+gnome-shell-extension-topicons-plus,41,0,0,11,0,0,29,41,100.0,Jimmy Scionti <jimmy.scionti@gmail.com>
+gnome-shell-extension-windowoverlay-icons,11,0,0,6,0,0,8,11,100.0,
+gnome-shell-extensions,378,0,0,68,0,0,108,378,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-software,2142,436,1098,510,78,174,680,3676,58.26985854189336,Japanese <gnome-translation@gnome.gr.jp>
+gnome-sound-recorder,253,0,0,65,0,0,85,253,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-sudoku,462,0,0,112,0,0,193,462,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-system-log,421,121,661,67,5,61,156,1203,34.995843724023274,Japanese <gnome-translation@gnome.gr.jp>
+gnome-system-monitor,1285,0,0,291,0,0,451,1285,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-terminal,2522,5,27,485,1,1,819,2554,98.74706342991387,Japanese <gnome-translation@gnome.gr.jp>
+gnome-tetravex,108,0,0,40,0,0,94,108,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-themes,109,0,0,30,0,0,36,109,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-themes-standard,24,0,0,9,0,0,9,24,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-todo,101,0,273,39,0,61,47,374,27.00534759358289,Japanese <gnome-translation@gnome.gr.jp>
+gnome-tweak-tool,591,0,1,174,0,1,224,592,99.83108108108108,Japanese <gnome-translation@gnome.gr.jp>
+gnome-user-docs,27509,15161,13312,1739,729,636,3394,55982,49.13900896716802,Japanese <gnome-translation@gnome.gr.jp>
+gnome-user-share,52,0,0,10,0,0,14,52,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-vfs2,1519,0,0,305,0,0,689,1519,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-video-effects,256,0,0,68,0,0,69,256,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnome-weather,192,0,0,42,0,0,62,192,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnomebaker,26,47,1113,18,18,255,17,1186,2.1922428330522767,Japanese <ja@li.org>
+gnote,3394,0,0,516,0,0,1013,3394,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gnotime,127,337,1544,67,142,220,75,2008,6.324701195219124,Japanese <translation@gnome.gr.jp>
+gnubg,2685,2426,8065,875,644,1145,1342,13176,20.377959927140253,Japanese <gnubg-ja@kinchan.com>
+gnucash,21022,5227,6589,4094,691,479,5111,32838,64.01729703392411,Japanese <translation-team-ja@lists.sourceforge.net>
+gnumeric,6853,4852,24130,2011,1102,2645,2640,35835,19.123761685503,Japanese <gnome-translation@gnome.gr.jp>
+gnupg,8640,0,0,1297,0,0,2294,8640,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+gnupg2,13397,4,36,2191,1,2,3892,13437,99.70231450472575,none
+gobby,784,0,116,179,0,11,196,900,87.1111111111111,Chikahiro Masami <cmasa.z321@gmail.com>
+gobby05,922,72,479,206,23,53,216,1473,62.59334691106585,Japanese
+godot,3014,3453,563,878,929,85,1049,7030,42.87339971550498,Japanese <https://hosted.weblate.org/projects/godot-engine/godot/ja/>
+goffice,1849,1435,2917,798,559,644,1243,6201,29.81777132720529,Japanese <gnome-translation@gnome.gr.jp>
+goffice08,2070,706,1823,877,286,397,1396,4599,45.00978473581213,Japanese <gnome-translation@gnome.gr.jp>
+golang-github-ojii-gettext.go,7,0,0,2,0,0,2,7,100.0,
+goocanvas,1234,385,111,203,54,14,269,1730,71.32947976878613,
+goocanvas2,1234,385,111,203,54,14,269,1730,71.32947976878613,
+googsystray,503,39,217,135,11,53,190,759,66.27140974967062,Japanese Team <lagfer@youck.org>
+gourmet,33,2,3904,23,1,868,34,3939,0.8377760853008377,Japanese <ja@li.org>
+gparted,1268,239,1011,284,42,108,550,2518,50.35742652899127,Japanese <gnome-translation@gnome.gr.jp>
+gphoto2,1501,119,123,297,21,19,603,1743,86.11589213998853,Japanese <translation-team-ja@lists.sourceforge.net>
+gphotoframe,3552,0,0,442,0,0,838,3552,100.0,Japanese <LL@li.org>
+gpicview,236,0,0,52,0,0,82,236,100.0,Japanese <hironao@users.sourceforge.net>
+gpsdrive,676,838,991,165,137,154,248,2505,26.98602794411178,Japanese <translation-team-ja@lists.sourceforge.net>
+gq,2634,0,26,470,0,9,957,2660,99.02255639097744,Japanese - common <LL@li.org>
+gramps,9432,5038,23078,2768,1313,2257,3273,37548,25.119846596356666,Japanese <k.yanmar@gmail.com>
+granatier,66,22,154,22,4,41,36,242,27.27272727272727,Japanese <kde-jp@kde.org>
+granite,156,0,0,57,0,0,99,156,100.0,Japanese <https://weblate.elementary.io/projects/desktop/granite/ja/>
+grantlee-editor,0,0,530,0,0,158,0,530,0.0,Japanese <kde-jp@kde.org>
+grass,29167,1151,70442,5820,186,9795,9978,100760,28.94700277888051,Japanese <grass-translations@lists.osgeo.org>
+grep,881,0,0,107,0,0,528,881,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+gretl,12050,725,3172,3056,201,765,4603,15947,75.56280178089922,Shintaro Nakagawa <s-nakagawa@shimonoseki-cu.ac.jp>
+grilo,184,0,0,35,0,0,76,184,100.0,Japanese <gnome-translation@gnome.gr.jp>
+grilo-plugins,480,0,3,124,0,1,190,483,99.37888198757764,日本語 Japanese <gnome-translation@gnome.gr.jp>>
+grip,891,172,108,241,37,21,429,1171,76.08881298035867,Japanese <gnome-translation@gnome.gr.jp>
+groonga,88285,0,7326,6749,0,3020,22488,95611,92.33770172888057,Japanese
+grub-customizer,576,0,719,170,0,23,198,1295,44.478764478764475,Japanese <ja@li.org>
+grub2,1063,1597,4459,231,399,714,408,7119,14.931872453996348,Japanese <translation-team-ja@lists.sourceforge.net>
+gscan2pdf,947,0,893,320,0,186,387,1840,51.46739130434783,Japanese <ja@li.org>
+gsettings-desktop-schemas,1337,612,692,166,79,35,293,2641,50.62476334721696,Japanese <gnome-translation@gnome.gr.jp>
+gspell,53,9,16,26,4,2,29,78,67.94871794871796,Japanese <gnome-translation@gnome.gr.jp>
+gstreamer,646,134,1137,159,32,157,256,1917,33.69848721961398,Japanese <translation-team-ja@lists.sourceforge.net>
+gstreamer-plugins-bad-free,96,0,0,14,0,0,28,96,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+gstreamer-plugins-base,699,11,198,144,2,32,316,908,76.98237885462555,Japanese <translation-team-ja@lists.sourceforge.net>
+gstreamer-plugins-good,708,70,36,160,21,9,255,814,86.97788697788698,Japanese <translation-team-ja@lists.sourceforge.net>
+gstreamer1,692,94,1292,175,18,182,272,2078,33.301251203079886,Japanese <translation-team-ja@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,73,39,96,10,6,15,20,208,35.09615384615385,Japanese <translation-team-ja@lists.sourceforge.net>
+gstreamer1-plugins-base,448,80,421,94,21,83,197,949,47.20758693361433,Japanese <translation-team-ja@lists.sourceforge.net>
+gstreamer1-plugins-good,599,113,49,82,16,9,184,761,78.71222076215506,Japanese <translation-team-ja@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,118,0,0,13,0,0,31,118,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+gtg,279,0,3218,98,0,202,107,3497,7.978267086073777,
+gthumb,3812,0,0,1204,0,0,1520,3812,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gtk+,404,0,0,210,0,0,252,404,100.0,Japanese <translation@gnome.gr.jp>
+gtk-gnutella,11008,64,5312,1927,11,748,2950,16384,67.1875,Japanese (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/ja/)
+gtk-recordmydesktop,553,0,263,74,0,30,104,816,67.76960784313727,
+gtk-vnc,8,0,0,3,0,0,5,8,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gtk2,12364,29,36,2574,5,7,3646,12429,99.47702952771743,Japanese <gnome-translation@gnome.gr.jp>
+gtk2-engines,119,0,0,47,0,0,51,119,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gtk3,12819,954,671,2924,206,115,4036,14444,88.74965383550263,Japanese <gnome-translation@gnome.gr.jp>
+gtk4,12819,954,671,2924,206,115,4036,14444,88.74965383550263,Japanese <gnome-translation@gnome.gr.jp>
+gtkhash,1,0,117,1,0,41,5,118,0.847457627118644,Japanese <ja@li.org>
+gtkhtml3,488,0,34,310,0,7,334,522,93.48659003831418,Japanese <gnome-translation@gnome.gr.jp>
+gtkpod,2170,2000,3350,386,467,509,742,7520,28.856382978723406,jp <jp@li.gtkpod.org>
+gtksourceview2,1099,0,0,438,0,0,573,1099,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gtksourceview3,1031,78,47,602,17,11,712,1156,89.18685121107266,Japanese <gnome-translation@gnome.gr.jp>
+gtkspell,11,0,0,5,0,0,6,11,100.0,Japanese <ja@li.org>
+gtkspell3,16,0,0,7,0,0,12,16,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+gtranslator,4053,71,184,624,17,20,1310,4308,94.08077994428969,Japanese <gnome-translation@gnome.gr.jp>
+guake,451,75,540,114,12,68,157,1066,42.30769230769231,Japanese <translation-team-ja@lists.sourceforge.net>
+guayadeque,3326,0,0,1019,0,0,1128,3326,100.0,Japanese (Japan) (http://www.transifex.com/projects/p/guayadeque/language/ja_JP/)
+gucharmap,1094,15,121,371,7,31,556,1230,88.9430894308943,Japanese <gnome-translation@gnome.gr.jp>
+gupnp-tools,250,0,0,94,0,0,118,250,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gutenprint,3254,6571,5937,975,1702,2023,1999,15762,20.644588250222053,Japanese <translation-team-ja@lists.sourceforge.net>
+gvfs,2640,0,0,583,0,0,1062,2640,100.0,Japanese <gnome-translation@gnome.gr.jp>
+gweled,106,0,50,35,0,9,57,156,67.94871794871796,Japanese <ja@li.org>
+gwenview,1020,67,218,313,21,28,449,1305,78.16091954022988,Japanese <kde-jp@kde.org>
+gwget,128,14,12,38,8,4,48,154,83.11688311688312,Japanese <ja@li.org>
+hamster-time-tracker,693,4,0,169,3,0,214,697,99.4261119081779,Japanese <gnome-translation@gnome.gr.jp>
+harmonyseq,1718,0,149,295,0,2,406,1867,92.01928227102303,Japanese <ja@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+heaptrack,0,0,1160,0,0,174,0,1160,0.0,Japanese <kde-jp@kde.org>
+help2man,567,0,0,49,0,0,288,567,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+hex-a-hop,1072,0,104,172,0,42,295,1176,91.15646258503402,Japanese
+hexchat,3553,0,2418,1078,0,368,1490,5971,59.5042706414336,Japanese (Japan) (http://www.transifex.com/hexchat/hexchat/language/ja_JP/)
+hibernate3,38655,15109,25399,1782,693,1134,9514,79163,48.829630003915966,none
+hibernate4,38655,15109,25399,1782,693,1134,9514,79163,48.829630003915966,none
+hivex,262,8,0,21,1,0,111,270,97.03703703703704,Japanese (http://www.transifex.com/projects/p/hivex/language/ja/)
+homebank,617,0,1802,278,0,489,318,2419,25.506407606448946,Team Puppy Linux Japanese
+hugin,5612,1134,1983,1073,306,185,1700,8729,64.29144231870777,日本語 <ja@li.org>
+iagno,4256,1,29,905,1,3,1587,4286,99.30004666355576,Japanese <gnome-translation@gnome.gr.jp>
+ibus,1396,0,0,228,0,0,421,1396,100.0,Japanese <trans-ja@lists.fedoraproject.org>
+ibus-anthy,740,0,0,200,0,0,277,740,100.0,Japanese <gnome-translation@gnome.gr.jp>
+ibus-chewing,134,0,225,46,0,24,72,359,37.32590529247911,Japanese
+ibus-fep,19,0,0,4,0,0,10,19,100.0,LANGUAGE <LL@li.org>
+ibus-handwrite,15,0,24,5,0,9,8,39,38.46153846153847,ja <microcai@fedoraproject.org>
+ibus-input-pad,103,0,0,32,0,0,42,103,100.0,Japanese
+ibus-kkc,270,0,0,82,0,0,114,270,100.0,Japanese
+ibus-skk,86,0,0,40,0,0,50,86,100.0,Japanese
+ibus-table,16,0,1079,10,0,129,10,1095,1.461187214611872,Japanese
+ibus-typing-booster,70,0,1024,37,0,85,39,1094,6.39853747714808,Japanese
+ibus-xkbc,61,0,0,28,0,0,29,61,100.0,LANGUAGE <LL@li.org>
+icewm,0,0,0,0,0,0,0,0,0.0,Japanese
+im-chooser,235,0,4,53,0,3,81,239,98.32635983263597,Japanese (http://www.transifex.net/projects/p/im-chooser/team/ja/)
+imsettings,440,5,11,80,1,3,170,456,96.49122807017544,LANGUAGE <LL@li.org>
+indent,210,47,15,45,8,2,115,272,77.20588235294117,Japanese <translation-team-ja@lists.sourceforge.net>
+initial-setup,33,0,0,7,0,0,9,33,100.0,Japanese (http://www.transifex.com/projects/p/initial-setup/language/ja/)
+initscripts,777,54,143,120,10,19,425,974,79.7741273100616,Japanese <trans-ja@lists.fedoraproject.org>
+inkscape,31749,2622,3843,6988,678,479,10849,38214,83.08211650180563,Japanese <inkscape-translator@lists.sourceforge.net>
+input-pad,921,0,1299,400,0,617,528,2220,41.486486486486484,Japanese <trans-ja@lists.fedoraproject.org>
+insight,6811,0,1419,1013,0,286,4307,8230,82.75820170109355,Japanese <translation-team-ja@lists.sourceforge.net>
+iok,142,5,59,36,1,3,47,206,68.93203883495146,Japanese <fedora-trans-ja@redhat.com>
+ipplan,1354,0,3582,453,0,343,629,4936,27.431118314424634,Japanese <ja@li.org>
+isight-firmware-tools,319,0,0,56,0,0,149,319,100.0,LANGUAGE <LL@li.org>
+iso-codes,5839,6886,10389,4007,5023,6190,4149,23114,25.261746127887857,Japanese
+isoimagewriter,0,0,399,0,0,79,0,399,0.0,Japanese <kde-jp@kde.org>
+isomaster,674,0,0,107,0,0,232,674,100.0,Japanese <jp@li.org>
+jmol,2688,169,309,913,44,64,1225,3166,84.90208464939988,Japanese <Jmol-developers@lists.sf.net>
+jpilot,1581,584,909,519,107,137,766,3074,51.43135979180221,Japanese <translation-team-ja@lists.sourceforge.net>
+json-glib,226,0,0,27,0,0,72,226,100.0,Japanese <gnome-translation@gnome.gr.jp>
+juk,1071,229,153,305,17,33,376,1453,73.7095664143152,Japanese <kde-jp@kde.org>
+k3b,18145,1925,151,2369,131,20,6154,20221,89.73344542802037,Japanese <kde-jp@kde.org>
+k4dirstat,369,23,155,122,9,34,146,547,67.45886654478977,<Kdeveloper@kde.gr.jp>
+kBuild,493,9,3,79,1,1,177,505,97.62376237623762,Japanese <translation-team-ja@lists.sourceforge.net>
+kaccounts-integration,0,0,82,0,0,12,0,82,0.0,Japanese <kde-jp@kde.org>
+kaccounts-providers,0,0,60,0,0,20,0,60,0.0,Japanese <kde-jp@kde.org>
+kactivitymanagerd,0,4,5,0,2,2,0,9,0.0,Japanese <kde-jp@kde.org>
+kaddressbook,186,188,371,79,37,51,93,745,24.966442953020135,Japanese <kde-jp@kde.org>
+kalarm,5550,814,972,862,89,74,1149,7336,75.65430752453653,Japanese <kde-jp@kde.org>
+kalgebra,97,7,63,54,3,25,71,167,58.08383233532935,Japanese <kde-jp@kde.org>
+kalzium,5754,2156,2535,936,204,393,1340,10445,55.08855911919579,Japanese <kde-jp@kde.org>
+kamera,342,0,0,37,0,0,71,342,100.0,Japanese <kde-jp@kde.org>
+kamoso,19,13,87,8,6,27,14,119,15.966386554621847,Japanese <kde-jp@kde.org>
+kanagram,238,174,116,73,29,43,95,528,45.07575757575758,Japanese <kde-jp@kde.org>
+kapman,108,0,6,34,0,2,60,114,94.73684210526315,Japanese <kde-jp@kde.org>
+kapptemplate,175,54,43,36,9,7,61,272,64.33823529411765,Japanese <kde-jp@kde.org>
+kasumi,193,0,0,56,0,0,58,193,100.0,Takashi Nakamoto <bluedwarf@bpost.plala.or.jp>
+kate,1783,416,2702,454,70,656,699,4901,36.38033054478677,Japanese <kde-jp@kde.org>
+katomic,179,0,6,57,0,2,102,185,96.75675675675676,Japanese <kde-jp@kde.org>
+kaudiocreator,763,74,299,206,23,44,308,1136,67.16549295774648,Japanese <Kdeveloper@kde.gr.jp>
+kbibtex,0,0,2294,0,0,666,0,2294,0.0,Japanese <kde-jp@kde.org>
+kblackbox,1327,32,1,99,1,1,222,1360,97.57352941176471,Japanese <kde-jp@kde.org>
+kblocks,78,8,73,27,2,9,49,159,49.056603773584904,Japanese <kde-jp@kde.org>
+kbounce,121,0,33,32,0,10,69,154,78.57142857142857,Japanese <kde-jp@kde.org>
+kbruch,1125,213,7,177,14,4,277,1345,83.64312267657994,Japanese <kde-jp@kde.org>
+kcachegrind,0,0,4370,0,0,562,0,4370,0.0,Japanese <kde-jp@kde.org>
+kcalc,794,20,162,307,3,16,348,976,81.35245901639344,Japanese <kde-jp@kde.org>
+kcharselect,72,9,7,28,2,4,49,88,81.81818181818183,Japanese <kde-jp@kde.org>
+kcm-fcitx,205,0,46,54,0,9,86,251,81.67330677290838,Japanese (http://www.transifex.com/fcitx/fcitx/language/ja/)
+kcm_systemd,0,0,1385,0,0,168,0,1385,0.0,Japanese <kde-jp@kde.org>
+kcm_wacomtablet,219,17,662,72,5,122,105,898,24.387527839643653,Japanese <kde-jp@kde.org>
+kcolorchooser,14,6,9,6,1,3,13,29,48.275862068965516,Japanese <kde-jp@kde.org>
+kcoloredit,232,34,12,77,11,7,108,278,83.45323741007195,Japanese <Kdeveloper@kde.gr.jp>
+kcron,534,0,0,190,0,0,270,534,100.0,Japanese <kde-jp@kde.org>
+kdb,0,0,1494,0,0,243,0,1494,0.0,Japanese <kde-jp@kde.org>
+kdbg,128,65,662,53,25,120,60,855,14.97076023391813,Japanese <Kdeveloper@kde.gr.jp>
+kde-cli-tools,1861,59,268,179,7,42,534,2188,85.05484460694699,Japanese <kde-jp@kde.org>
+kde-connect,0,0,732,0,0,177,0,732,0.0,Japanese <kde-jp@kde.org>
+kde-dev-utils,43,9,42,18,2,15,32,94,45.744680851063826,Japanese <kde-jp@kde.org>
+kde-gtk-config,0,0,309,0,0,76,0,309,0.0,Japanese <kde-jp@kde.org>
+kde-l10n,76128,5042,23990,17027,910,3239,28261,105160,72.39254469379992,Japanese <kde-jp@kde.org>
+kde-partitionmanager,774,618,886,168,200,152,225,2278,33.977172958735736,Japanese <kde-jp@kde.org>
+kde-print-manager,0,0,962,0,0,273,0,962,0.0,Japanese <kde-jp@kde.org>
+kdebugsettings,0,0,119,0,0,37,0,119,0.0,Japanese <kde-jp@kde.org>
+kdenetwork-filesharing,31,2,9,8,1,3,16,42,73.80952380952381,Japanese <kde-jp@kde.org>
+kdepim-addons,763,356,2986,239,60,512,382,4105,18.58708891595615,Japanese <kde-jp@kde.org>
+kdepim-apps-libs,0,0,59,0,0,34,0,59,0.0,Japanese <kde-jp@kde.org>
+kdepim-runtime,2735,453,4562,409,68,862,839,7750,35.29032258064516,Japanese <kde-jp@kde.org>
+kdeplasma-addons,255,483,821,106,168,291,153,1559,16.3566388710712,Japanese <kde-jp@kde.org>
+kdesdk-kioslaves,39,0,43,14,0,3,29,82,47.5609756097561,Japanese <kde-jp@kde.org>
+kdesdk-thumbnailers,0,0,4,0,0,4,0,4,0.0,Japanese <kde-jp@kde.org>
+kdesvn,0,4423,422,0,823,58,0,4845,0.0,Japanese <kde-jp@kde.org>
+kdevelop,2046,1354,10594,711,391,1726,1074,13994,14.620551664999285,Japanese <kde-jp@kde.org>
+kdevelop-php,16,0,439,3,0,60,5,455,3.5164835164835164,Japanese <kde-jp@kde.org>
+kdevelop-python,0,0,582,0,0,101,0,582,0.0,Japanese <kde-jp@kde.org>
+kdevplatform,1292,927,6526,502,298,1012,656,8745,14.774156660949114,Japanese <kde-jp@kde.org>
+kdf,180,0,1,68,0,1,108,181,99.4475138121547,Japanese <kde-jp@kde.org>
+kdiagram,0,0,65,0,0,39,0,65,0.0,Japanese <kde-jp@kde.org>
+kdialog,205,53,89,46,7,17,79,347,59.0778097982709,Japanese <kde-jp@kde.org>
+kdiamond,122,0,0,32,0,0,51,122,100.0,Japanese <kde-jp@kde.org>
+kdiff3,3091,52,627,588,10,65,1052,3770,81.9893899204244,Japanese <Kdeveloper@kde.gr.jp>
+kdnssd,21,9,0,6,1,0,14,30,70.0,Japanese <kde-jp@kde.org>
+keditbookmarks,418,48,0,127,5,0,200,466,89.69957081545064,Japanese <kde-jp@kde.org>
+keurocalc,291,0,0,116,0,0,140,291,100.0,Japanese <Kdeveloper@kde.gr.jp>
+kexec-tools,83,0,0,12,0,0,30,83,100.0,Japanese <jp@li.org>
+kexi,2684,3387,1280,802,507,184,942,7351,36.51203917834308,Japanese <kde-jp@kde.org>
+kf5-akonadi-calendar,280,50,1477,53,12,186,97,1807,15.49529607083564,Japanese <kde-jp@kde.org>
+kf5-akonadi-contacts,28,722,648,14,209,63,21,1398,2.0028612303290414,Japanese <kde-jp@kde.org>
+kf5-akonadi-mime,0,0,572,0,0,107,0,572,0.0,Japanese <kde-jp@kde.org>
+kf5-akonadi-notes,0,0,2,0,0,1,0,2,0.0,Japanese <kde-jp@kde.org>
+kf5-akonadi-search,0,0,48,0,0,11,0,48,0.0,Japanese <kde-jp@kde.org>
+kf5-akonadi-server,982,840,621,163,152,110,358,2443,40.196479738027016,Japanese <kde-jp@kde.org>
+kf5-audiocd-kio,818,0,26,174,0,4,339,844,96.91943127962085,Japanese <kde-jp@kde.org>
+kf5-baloo,2,2,668,2,1,159,2,672,0.2976190476190476,Japanese <kde-jp@kde.org>
+kf5-calendarsupport,1562,428,977,253,69,87,420,2967,52.64577013818672,Japanese <kde-jp@kde.org>
+kf5-eventviews,0,0,2906,0,0,313,0,2906,0.0,Japanese <kde-jp@kde.org>
+kf5-grantleetheme,0,0,14,0,0,6,0,14,0.0,Japanese <kde-jp@kde.org>
+kf5-incidenceeditor,0,0,2361,0,0,434,0,2361,0.0,Japanese <kde-jp@kde.org>
+kf5-kalarmcal,0,40,0,0,20,0,0,40,0.0,Japanese <kde-jp@kde.org>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Japanese <kde-jp@kde.org>
+kf5-kblog,224,19,0,26,1,0,46,243,92.18106995884774,Japanese <kde-jp@kde.org>
+kf5-kbookmarks,203,0,27,46,0,3,66,230,88.26086956521739,Japanese <kde-jp@kde.org>
+kf5-kcalendarutils,749,607,274,266,116,45,440,1630,45.95092024539878,Japanese <kde-jp@kde.org>
+kf5-kcmutils,563,1,0,71,1,0,137,564,99.822695035461,Japanese <kde-jp@kde.org>
+kf5-kcodecs,321,27,0,34,19,0,47,348,92.24137931034483,Japanese <kde-jp@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,13,18,100.0,Japanese <kde-jp@kde.org>
+kf5-kconfig,0,35,226,0,4,96,0,261,0.0,Japanese <kde-jp@kde.org>
+kf5-kconfigwidgets,218,42,61,92,11,14,112,321,67.91277258566979,Japanese <kde-jp@kde.org>
+kf5-kcontacts,175,0,2,107,0,1,123,177,98.87005649717514,Japanese <kde-jp@kde.org>
+kf5-kcoreaddons,0,236,65,0,67,28,0,301,0.0,Japanese <kde-jp@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,18,48,100.0,Japanese <kde-jp@kde.org>
+kf5-kdeclarative,70,0,39,9,0,5,24,109,64.22018348623854,Japanese <kde-jp@kde.org>
+kf5-kdelibs4support,4463,166,184,2264,51,49,3196,4813,92.72802825680448,Japanese <kde-jp@kde.org>
+kf5-kdesignerplugin,24,29,1,6,2,1,16,54,44.44444444444444,Japanese <kde-jp@kde.org>
+kf5-kdesu,19,0,0,7,0,0,18,19,100.0,Japanese <kde-jp@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Japanese <kde-jp@kde.org>
+kf5-kdoctools,0,8,0,0,4,0,0,8,0.0,Japanese <kde-jp@kde.org>
+kf5-kfilemetadata,0,0,148,0,0,82,0,148,0.0,Japanese <kde-jp@kde.org>
+kf5-kglobalaccel,10,56,5,3,4,2,3,71,14.084507042253522,Japanese <kde-jp@kde.org>
+kf5-kholidays,0,58,51,0,43,34,0,109,0.0,Japanese <kde-jp@kde.org>
+kf5-khtml,1553,20,148,294,4,12,500,1721,90.23823358512493,Japanese <kde-jp@kde.org>
+kf5-ki18n,122,0,2,108,0,2,123,124,98.38709677419355,Japanese <kde-jp@kde.org>
+kf5-kiconthemes,25,11,1,16,1,1,20,37,67.56756756756756,Japanese <kde-jp@kde.org>
+kf5-kidentitymanagement,165,0,0,21,0,0,33,165,100.0,Japanese <kde-jp@kde.org>
+kf5-kimap,33,0,66,20,0,28,23,99,33.33333333333333,Japanese <kde-jp@kde.org>
+kf5-kinit,131,3,0,13,1,0,41,134,97.76119402985076,Japanese <kde-jp@kde.org>
+kf5-kio,8848,2121,1196,1054,179,127,2004,12165,72.73325113029182,Japanese <kde-jp@kde.org>
+kf5-kirigami2,0,0,10,0,0,6,0,10,0.0,Japanese <kde-jp@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,4,7,100.0,Japanese <kde-jp@kde.org>
+kf5-kjobwidgets,123,0,0,36,0,0,85,123,100.0,Japanese <kde-jp@kde.org>
+kf5-kjsembed,238,0,10,43,0,1,118,248,95.96774193548387,Japanese <kde-jp@kde.org>
+kf5-kldap,173,0,6,49,0,2,88,179,96.64804469273743,Japanese <kde-jp@kde.org>
+kf5-kmailtransport,465,54,109,67,9,30,114,628,74.04458598726114,Japanese <kde-jp@kde.org>
+kf5-kmime,159,0,0,10,0,0,45,159,100.0,Japanese <kde-jp@kde.org>
+kf5-knewstuff,586,46,58,125,14,19,196,690,84.92753623188406,Japanese <kde-jp@kde.org>
+kf5-knotifications,18,0,0,6,0,0,8,18,100.0,Japanese <kde-jp@kde.org>
+kf5-knotifyconfig,86,43,0,16,1,0,17,129,66.66666666666666,Japanese <kde-jp@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,6,4,100.0,Japanese <kde-jp@kde.org>
+kf5-kpackage,115,58,322,19,10,68,33,495,23.232323232323232,Japanese <kde-jp@kde.org>
+kf5-kparts,104,0,0,26,0,0,55,104,100.0,Japanese <kde-jp@kde.org>
+kf5-kpeople,0,0,21,0,0,11,0,21,0.0,Japanese <kde-jp@kde.org>
+kf5-kpimtextedit,10,3,332,4,2,146,6,345,2.898550724637681,Japanese <kde-jp@kde.org>
+kf5-kpty,15,0,0,4,0,0,8,15,100.0,Japanese <kde-jp@kde.org>
+kf5-kross,100,0,0,35,0,0,65,100,100.0,Japanese <kde-jp@kde.org>
+kf5-kservice,127,21,22,23,2,3,56,170,74.70588235294117,Japanese <kde-jp@kde.org>
+kf5-ksmtp,0,0,68,0,0,9,0,68,0.0,Japanese <kde-jp@kde.org>
+kf5-ktexteditor,3986,1345,3046,705,271,240,1054,8377,47.58266682583264,Japanese <kde-jp@kde.org>
+kf5-ktextwidgets,453,0,9,119,0,3,165,462,98.05194805194806,Japanese <kde-jp@kde.org>
+kf5-ktnef,355,0,0,143,0,0,207,355,100.0,Japanese <kde-jp@kde.org>
+kf5-kunitconversion,4233,745,288,1790,328,126,3668,5266,80.38359285985568,Japanese <kde-jp@kde.org>
+kf5-kwallet,534,316,774,53,9,69,121,1624,32.88177339901478,Japanese <kde-jp@kde.org>
+kf5-kwidgetsaddons,1262,29,28,444,9,5,534,1319,95.67854435178165,Japanese <kde-jp@kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Japanese <kde-jp@kde.org>
+kf5-kxmlgui,1358,155,83,194,26,8,351,1596,85.08771929824562,Japanese <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,9,13,100.0,Japanese <kde-jp@kde.org>
+kf5-libgravatar,0,0,27,0,0,12,0,27,0.0,Japanese <kde-jp@kde.org>
+kf5-libkcddb,414,19,124,209,13,29,245,557,74.32675044883304,Japanese <kde-jp@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,11,15,100.0,Japanese <kde-jp@kde.org>
+kf5-libkdepim,175,103,187,74,20,33,100,465,37.634408602150536,Japanese <kde-jp@kde.org>
+kf5-libkgeomap,0,0,139,0,0,46,0,139,0.0,Japanese <kde-jp@kde.org>
+kf5-libkleo,677,56,417,157,23,110,223,1150,58.869565217391305,Japanese <kde-jp@kde.org>
+kf5-libksane,196,0,76,67,0,16,96,272,72.05882352941177,Japanese <kde-jp@kde.org>
+kf5-libksieve,451,2,2900,73,1,479,178,3353,13.450641216820758,Japanese <kde-jp@kde.org>
+kf5-libktorrent,202,143,126,62,24,20,118,471,42.88747346072187,Japanese <kde-jp@kde.org>
+kf5-mailcommon,388,320,2093,112,98,257,195,2801,13.85219564441271,Japanese <kde-jp@kde.org>
+kf5-mailimporter,973,376,59,76,27,24,349,1408,69.10511363636364,Japanese <kde-jp@kde.org>
+kf5-messagelib,2015,426,5159,540,107,537,780,7600,26.513157894736842,Japanese <kde-jp@kde.org>
+kf5-pimcommon,0,0,1009,0,0,242,0,1009,0.0,Japanese <kde-jp@kde.org>
+kf5-plasma,308,2,196,108,1,39,132,506,60.86956521739131,Japanese <kde-jp@kde.org>
+kf5-purpose,0,0,119,0,0,42,0,119,0.0,Japanese <kde-jp@kde.org>
+kf5-solid,0,329,353,0,179,43,0,682,0.0,Japanese <kde-jp@kde.org>
+kf5-sonnet,0,645,18,0,68,4,0,663,0.0,Japanese <kde-jp@kde.org>
+kf5-syntax-highlighting,0,286,168,0,205,91,0,454,0.0,Japanese <kde-jp@kde.org>
+kfind,495,8,2,114,3,1,210,505,98.01980198019803,Japanese <kde-jp@kde.org>
+kfloppy,611,24,6,97,1,2,227,641,95.3198127925117,Japanese <kde-jp@kde.org>
+kfourinline,232,61,99,90,29,38,128,392,59.183673469387756,Japanese <kde-jp@kde.org>
+kgamma,130,0,0,16,0,0,29,130,100.0,Japanese <kde-jp@kde.org>
+kgeography,8137,875,687,5929,695,509,9314,9699,83.89524693267347,Japanese <kde-jp@kde.org>
+kget,2205,498,250,654,91,49,928,2953,74.669827294277,Japanese <kde-jp@kde.org>
+kgoldrunner,3080,860,19617,520,64,324,740,23557,13.07466994948423,Japanese <kde-jp@kde.org>
+kgpg,4050,509,723,584,55,59,1126,5282,76.67550170390004,Japanese <kde-jp@kde.org>
+kgrab,358,12,0,51,2,0,106,370,96.75675675675676,Japanese <Kdeveloper@kde.gr.jp>
+khangman,230,41,202,71,14,34,127,473,48.625792811839325,Japanese <kde-jp@kde.org>
+khelpcenter,220,13,23,81,4,2,118,256,85.9375,Japanese <kde-jp@kde.org>
+khotkeys,421,15,0,122,7,0,172,436,96.55963302752293,Japanese <kde-jp@kde.org>
+kicad,82894,0,0,8896,0,0,23863,82894,100.0,kicad_jp <kicad@kicad.jp>
+kiconedit,724,0,2,154,0,1,249,726,99.72451790633609,Japanese <Kdeveloper@kde.gr.jp>
+kig,6741,853,162,1119,133,39,1903,7756,86.91335740072202,Japanese <kde-jp@kde.org>
+kigo,311,45,144,93,22,14,116,500,62.2,Japanese <kde-jp@kde.org>
+kile,9591,951,620,1703,123,76,3217,11162,85.92546138684824,Japanese <Kdeveloper@kde.gr.jp>
+killbots,0,0,641,0,0,128,0,641,0.0,Japanese <kde-jp@kde.org>
+kimchi,3946,0,0,617,0,0,1302,3946,100.0,English
+kinfocenter,2425,53,441,796,20,194,1297,2919,83.07639602603632,Japanese <kde-jp@kde.org>
+kio-extras,804,19,92,103,4,21,216,915,87.8688524590164,Japanese <kde-jp@kde.org>
+kio-gdrive,0,0,14,0,0,2,0,14,0.0,Japanese <kde-jp@kde.org>
+kio_gopher,0,0,17,0,0,5,0,17,0.0,Japanese <Kdeveloper@kde.gr.jp>
+kiriki,70,6,68,34,1,15,55,144,48.61111111111111,Japanese <kde-jp@kde.org>
+kita,602,12,76,215,12,67,230,690,87.2463768115942,<ja@li.org>
+kiten,327,63,251,99,20,60,157,641,51.014040561622465,Japanese <kde-jp@kde.org>
+kjots,328,25,46,90,5,11,135,399,82.20551378446115,Japanese <kde-jp@kde.org>
+kjumpingcube,129,36,247,36,10,49,80,412,31.31067961165049,Japanese <kde-jp@kde.org>
+kleopatra,4901,1257,2456,853,215,242,1736,8614,56.89575110285582,Japanese <kde-jp@kde.org>
+klettres,387,41,8,74,6,3,126,436,88.76146788990825,Japanese <kde-jp@kde.org>
+klickety,0,0,178,0,0,62,0,178,0.0,Japanese <kde-jp@kde.org>
+klines,92,5,2,26,1,1,48,99,92.92929292929293,Japanese <kde-jp@kde.org>
+kmag,367,51,14,87,8,3,125,432,84.95370370370371,Japanese <kde-jp@kde.org>
+kmahjongg,277,35,28,85,6,7,127,340,81.47058823529412,Japanese <kde-jp@kde.org>
+kmail,5232,1287,2126,757,207,354,1310,8645,60.52053209947946,Japanese <kde-jp@kde.org>
+kmail-account-wizard,236,61,502,48,16,64,75,799,29.536921151439298,Japanese <kde-jp@kde.org>
+kmenuedit,254,14,9,53,4,4,105,277,91.69675090252709,Japanese <kde-jp@kde.org>
+kmines,102,0,6,36,0,2,59,108,94.44444444444444,Japanese <kde-jp@kde.org>
+kmix,535,91,281,149,22,48,256,907,58.98566703417861,Japanese <kde-jp@kde.org>
+kmousetool,101,42,4,26,5,1,44,147,68.70748299319727,Japanese <kde-jp@kde.org>
+kmplayer,1076,80,93,341,14,16,556,1249,86.14891913530825,Japanese <Kdeveloper@kde.gr.jp>
+kmplot,2309,139,10,437,29,5,696,2458,93.93816110659073,Japanese <kde-jp@kde.org>
+knavalbattle,241,73,85,80,6,16,124,399,60.40100250626567,Japanese <kde-jp@kde.org>
+knemo,891,181,164,254,58,40,337,1236,72.0873786407767,Japanese <kde-jp@kde.org>
+knetwalk,107,18,105,26,1,27,48,230,46.52173913043478,Japanese <kde-jp@kde.org>
+knotes,228,136,425,93,52,94,137,789,28.89733840304182,Japanese <kde-jp@kde.org>
+koffice-kivio,7508,4,905,2045,1,315,3093,8417,89.20042770583343,Japanese <Kdeveloper@kde.gr.jp>
+kolf,358,22,16,135,6,6,169,396,90.40404040404042,Japanese <kde-jp@kde.org>
+kollision,93,0,16,27,0,3,58,109,85.3211009174312,Japanese <kde-jp@kde.org>
+kolourpaint,1990,589,44,432,10,10,674,2623,75.8673274876096,Japanese <kde-jp@kde.org>
+kompare,1097,57,276,174,10,12,420,1430,76.7132867132867,Japanese <kde-jp@kde.org>
+konqueror,7529,618,880,1155,71,164,2053,9027,83.40533953694472,Japanese <kde-jp@kde.org>
+konquest,183,32,31,70,12,16,130,246,74.39024390243902,Japanese <kde-jp@kde.org>
+konsole5,2083,227,341,474,38,36,703,2651,78.57412297246323,Japanese <kde-jp@kde.org>
+kontact,188,56,354,60,11,27,105,598,31.438127090301005,Japanese <kde-jp@kde.org>
+korganizer,3611,1159,1820,529,139,217,869,6590,54.79514415781487,Japanese <kde-jp@kde.org>
+kpat,292,9,135,103,2,27,181,436,66.97247706422019,Japanese <kde-jp@kde.org>
+kphotoalbum,2597,2434,4533,409,288,322,650,9564,27.153910497699705,Japanese <kde-jp@kde.org>
+kpilot,3460,80,3616,707,15,139,1437,7156,48.35103409726104,Japanese <Kdeveloper@kde.gr.jp>
+kpmcore,47,1905,1268,38,245,195,41,3220,1.4596273291925466,Japanese <kde-jp@kde.org>
+kproperty,0,0,145,0,0,82,0,145,0.0,Japanese <kde-jp@kde.org>
+krdc,1019,133,124,247,16,23,434,1276,79.858934169279,Japanese <kde-jp@kde.org>
+krecipes,3388,117,141,702,46,17,1106,3646,92.92375205704883,Japanese <kde-jp@kde.org>
+kreetingkard,333,0,12,146,0,5,170,345,96.52173913043478,LANGUAGE <LL@li.org>
+krename,659,667,732,153,164,122,365,2058,32.02137998056365,<ja@li.org>
+kreport,0,239,275,0,133,101,0,514,0.0,Japanese <kde-jp@kde.org>
+kreversi,141,57,230,48,10,83,86,428,32.94392523364486,Japanese <kde-jp@kde.org>
+krfb,223,154,267,43,13,32,76,644,34.62732919254658,Japanese <kde-jp@kde.org>
+krita,17916,3289,4320,4784,1008,389,5694,25525,70.1900097943193,Japanese <kde-jp@kde.org>
+kruler,115,41,28,34,3,10,55,184,62.5,Japanese <kde-jp@kde.org>
+krusader,1726,4679,1503,622,827,272,819,7908,21.82599898836621,Japanese <kde-jp@kde.org>
+kscreen,116,2,95,37,1,26,57,213,54.460093896713616,Japanese <kde-jp@kde.org>
+kscreenlocker,0,0,190,0,0,33,0,190,0.0,Japanese <kde-jp@kde.org>
+kshisen,512,10,0,64,2,0,116,522,98.08429118773945,Japanese <kde-jp@kde.org>
+ksig,85,0,0,26,0,0,32,85,100.0,Japanese <Kdeveloper@kde.gr.jp>
+ksirk,154,43,5566,96,11,655,107,5763,2.67221933020996,Japanese <kde-jp@kde.org>
+ksnakeduel,218,8,5,49,2,2,137,231,94.37229437229438,Japanese <kde-jp@kde.org>
+kspaceduel,165,0,0,81,0,0,119,165,100.0,Japanese <kde-jp@kde.org>
+ksquares,251,0,6,73,0,3,97,257,97.66536964980544,Japanese <kde-jp@kde.org>
+ksshaskpass,0,0,43,0,0,12,0,43,0.0,Japanese <kde-jp@kde.org>
+kstars,17928,8526,30258,5926,2699,7308,7387,56712,31.61235717308506,Japanese <kde-jp@kde.org>
+ksudoku,273,83,1303,64,15,79,147,1659,16.455696202531644,Japanese <kde-jp@kde.org>
+ksysguard,1011,45,22,206,19,8,310,1078,93.7847866419295,Japanese <kde-jp@kde.org>
+ksystemlog,2942,61,31,466,5,8,797,3034,96.9676994067238,Japanese <kde-jp@kde.org>
+kteatime,169,27,5,55,7,3,96,201,84.07960199004975,Japanese <kde-jp@kde.org>
+ktimer,80,6,155,31,1,19,38,241,33.19502074688796,Japanese <kde-jp@kde.org>
+ktorrent,4454,1586,1498,980,269,133,1638,7538,59.08729105863624,Japanese <kde-jp@kde.org>
+ktouch,38,410,423,18,117,107,33,871,4.3628013777267505,Japanese <kde-jp@kde.org>
+ktp-accounts-kcm,0,0,1100,0,0,309,0,1100,0.0,Japanese <kde-jp@kde.org>
+ktp-approver,0,0,71,0,0,18,0,71,0.0,Japanese <kde-jp@kde.org>
+ktp-auth-handler,0,0,83,0,0,24,0,83,0.0,Japanese <kde-jp@kde.org>
+ktp-common-internals,0,0,989,0,0,206,0,989,0.0,Japanese <kde-jp@kde.org>
+ktp-contact-list,0,0,408,0,0,109,0,408,0.0,Japanese <kde-jp@kde.org>
+ktp-contact-runner,0,0,177,0,0,35,0,177,0.0,Japanese <kde-jp@kde.org>
+ktp-desktop-applets,0,0,75,0,0,22,0,75,0.0,Japanese <kde-jp@kde.org>
+ktp-filetransfer-handler,0,0,141,0,0,39,0,141,0.0,Japanese <kde-jp@kde.org>
+ktp-kded-integration-module,0,0,277,0,0,54,0,277,0.0,Japanese <kde-jp@kde.org>
+ktp-send-file,0,0,60,0,0,18,0,60,0.0,Japanese <kde-jp@kde.org>
+ktp-text-ui,0,0,1441,0,0,321,0,1441,0.0,Japanese <kde-jp@kde.org>
+ktuberling,102,3,53,33,1,4,59,158,64.55696202531645,Japanese <kde-jp@kde.org>
+kturtle,1205,153,169,291,26,29,477,1527,78.91290111329404,Japanese <kde-jp@kde.org>
+kubernetes,125,0,0,16,0,0,19,125,100.0,
+kubrick,1072,8,123,148,2,15,358,1203,89.11055694098089,Japanese <kde-jp@kde.org>
+kvirc,3521,188,20683,1196,51,2435,1912,24392,14.435060675631354,Japanese (http://www.transifex.com/kvirc/KVIrc/language/ja/)
+kwalletmanager5,594,72,136,121,18,27,188,802,74.06483790523691,Japanese <kde-jp@kde.org>
+kwebkitpart,0,0,624,0,0,158,0,624,0.0,Japanese <Kdeveloper@kde.gr.jp>
+kwin,3169,709,2353,676,125,411,876,6231,50.8586101749318,Japanese <kde-jp@kde.org>
+kwordquiz,1546,228,251,320,50,43,418,2025,76.34567901234568,Japanese <kde-jp@kde.org>
+kxstitch,0,0,1966,0,0,560,0,1966,0.0,Japanese <kde-jp@kde.org>
+l3afpad,130,0,0,64,0,0,90,130,100.0,Japanese <ja@li.org>
+lazarus,27095,288,589,6125,41,108,8162,27972,96.86472186472187,Japanese Lazarus ML
+ldm,54,0,1,18,0,1,22,55,98.18181818181819,Japanese <fedora-trans-ja@redhat.com>
+leafpad,125,0,0,68,0,0,82,125,100.0,Japanese <ja@li.org>
+lftp,1658,1200,1167,269,125,106,746,4025,41.192546583850934,Japanese <ja@li.org>
+libbonobo,543,0,0,107,0,0,215,543,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libbonoboui,368,0,0,115,0,0,186,368,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Japanese
+libcryptui,3012,0,0,654,0,0,945,3012,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libepc,146,0,0,26,0,0,58,146,100.0,Japanese <takeshi.aihana@gmail.com>
+libexif,1894,80,5003,728,24,425,1376,6977,27.146337967607852,Japanese <translation-team-ja@lists.sourceforge.net>
+libgda,316,3469,7357,114,822,1118,180,11142,2.8361155986357924,Japanese <translation@gnome.gr.jp>
+libgdata,659,0,12,81,0,1,129,671,98.21162444113264,Japanese <gnome-translation@gnome.gr.jp>
+libgdl,588,16,0,88,4,0,157,604,97.35099337748345,Japanese <gnome-translation@gnome.gr.jp>
+libgnome,1773,0,0,273,0,0,513,1773,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libgnome-keyring,44,0,0,9,0,0,12,44,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libgnomecanvas,378,0,0,95,0,0,128,378,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libgnomekbd,242,0,0,55,0,0,77,242,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libgnomeui,1226,0,0,320,0,0,432,1226,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libgpg-error,1413,0,7,443,0,1,537,1420,99.50704225352112,none
+libgphoto2,5526,3032,2854,1228,658,620,2985,11412,48.42271293375394,Japanese <translation-team-ja@lists.sourceforge.net>
+libgpod,650,282,121,90,55,40,358,1053,61.72839506172839,n/a
+libgsf,692,4,0,145,1,0,276,696,99.42528735632183,Japanese <gnome-translation@gnome.gr.jp>
+libgtop2,126,0,0,40,0,0,49,126,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libguestfs,36637,948,175148,6087,195,12202,21698,212733,17.222057696737224,Japanese (http://www.transifex.com/projects/p/libguestfs/language/ja/)
+libgweather,6091,0,0,4511,0,0,5073,6091,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libidn,160,59,209,39,9,12,47,428,37.38317757009346,Japanese <translation-team-ja@lists.sourceforge.net>
+libidn2,16,31,235,2,8,26,2,282,5.673758865248227,Japanese <translation-team-ja@lists.sourceforge.net>
+libkdegames,361,7,2,128,3,1,156,370,97.56756756756756,Japanese <kde-jp@kde.org>
+libkeduvocdocument,146,19,6,76,4,1,99,171,85.38011695906432,Japanese <kde-jp@kde.org>
+libkexif,25,0,0,14,0,0,19,25,100.0,Japanese <Kdeveloper@kde.gr.jp>
+libkfbapi,0,0,42,0,0,6,0,42,0.0,Japanese <Kdeveloper@kde.gr.jp>
+libkgapi,0,0,302,0,0,68,0,302,0.0,Japanese <kde-jp@kde.org>
+libkkc,272,0,0,59,0,0,82,272,100.0,Japanese
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Japanese <kde-jp@kde.org>
+libkomparediff2,124,0,19,18,0,1,36,143,86.7132867132867,Japanese <kde-jp@kde.org>
+libksysguard,1047,718,1401,153,27,216,272,3166,33.07012002526848,Japanese <kde-jp@kde.org>
+libktorrent,228,153,138,64,27,24,128,519,43.93063583815029,Japanese <Kdeveloper@kde.gr.jp>
+libmatekbd,251,0,0,43,0,0,91,251,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+libmatemixer,242,0,0,126,0,0,157,242,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+libmateweather,6085,0,0,4520,0,0,5079,6085,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+libmx,40,0,0,16,0,0,16,40,100.0,
+libmypaint,996,539,2,89,16,1,221,1537,64.80156148340924,Japanese <https://hosted.weblate.org/projects/mypaint/libmypaint/ja/>
+libosinfo,494,0,168,118,0,27,236,662,74.62235649546828,Japanese (http://www.transifex.com/projects/p/libosinfo/language/ja/)
+libpaper,73,0,0,46,0,0,48,73,100.0,Japanese <debian-japanese@lists.debian.org>
+libpeas,99,9,3,30,3,1,48,111,89.1891891891892,Japanese <gnome-translation@gnome.gr.jp>
+libpwquality,343,0,0,53,0,0,86,343,100.0,LANGUAGE <LL@li.org>
+libreoffice,473119,26,83200,68779,21,7741,130031,556345,85.04057733960043,LANGUAGE <LL@li.org>
+libreport,2507,0,2480,390,0,217,1055,4987,50.27070382995789,Japanese (http://www.transifex.com/projects/p/libreport/language/ja/)
+libsecret,44,0,0,6,0,0,6,44,100.0,Japanese <takeshi.aihana@gmail.com>
+libskk,38,0,0,9,0,0,16,38,100.0,Japanese
+libsmbios,0,0,2178,0,0,361,0,2178,0.0,Japanese
+libsoup,51,0,0,14,0,0,31,51,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libuser,1374,45,18,290,8,3,609,1437,95.61586638830897,Japanese (http://www.transifex.com/projects/p/fedora/language/ja/)
+libvirt,37037,4009,21237,6076,616,2970,17024,62283,59.46566478814444,Japanese (http://www.transifex.com/projects/p/libvirt/language/ja/)
+libvirt-glib,121,0,24,25,0,4,52,145,83.44827586206897,Japanese (http://www.transifex.com/projects/p/libvirt-glib/language/ja/)
+libvirt-sandbox,519,0,98,94,0,17,211,617,84.11669367909238,Japanese <trans-ja@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,455,1124,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libwnck3,1086,0,0,231,0,0,443,1086,100.0,Japanese <gnome-translation@gnome.gr.jp>
+libxfce4ui,871,0,0,169,0,0,306,871,100.0,Japanese (http://www.transifex.com/projects/p/libxfce4ui/language/ja/)
+libxfce4util,424,0,0,7,0,0,420,424,100.0,Japanese <xfce-users-jp@ml.fdiary.net>
+libzypp,2361,0,0,950,0,0,1245,2361,100.0,Japanese <https://l10n.opensuse.org/projects/libzypp/master/ja/>
+liferea,1850,82,281,457,9,29,648,2213,83.59692724807954,Japanese <translation-team-ja@lists.sourceforge.net>
+light-locker,44,0,216,9,0,28,11,260,16.923076923076923,Japanese (http://www.transifex.com/the_cavalry/light-locker/language/ja/)
+lightdm,79,0,84,17,0,4,36,163,48.466257668711656,Japanese <ja@li.org>
+lightdm-gtk,35,0,52,12,0,13,12,87,40.229885057471265,Japanese <ja@li.org>
+lightdm-gtk-greeter-settings,455,0,64,158,0,13,223,519,87.66859344894027,Japanese <ja@li.org>
+lightdm-settings,20,0,251,9,0,50,10,271,7.380073800738007,Japanese <ja@li.org>
+lightsoff,39,0,0,12,0,0,57,39,100.0,Japanese <gnome-translation@gnome.gr.jp>
+lilypond,3883,528,8997,829,266,2183,2102,13408,28.96032219570406,日本語 <LL@li.org>
+lincity-ng,1807,34,82,429,10,18,556,1923,93.96775871034842,MH35 <mh35jp@gmail.com>
+linphone,125,237,1491,39,110,316,49,1853,6.7458175930922835,<ja@li.org>
+logjam,2154,56,106,520,32,37,921,2316,93.00518134715026,Japanese <gnome-translation@gnome.gr.jp>
+lokalize,1480,217,1860,432,54,109,558,3557,41.60809671071127,Japanese <kde-jp@kde.org>
+lollypop,1012,0,0,306,0,0,464,1012,100.0,Japanese <https://hosted.weblate.org/projects/gnumdk/lollypop/ja/>
+lskat,249,4,1,81,1,1,141,254,98.03149606299213,Japanese <kde-jp@kde.org>
+lxappearance,234,0,0,80,0,0,95,234,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+lxappearance-obconf,196,0,0,27,0,0,90,196,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+lxde-common,14,0,0,5,0,0,9,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,26,47,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+lxinput,83,0,0,26,0,0,28,83,100.0,ja_JP <LL@li.org>
+lxlauncher,58,0,0,17,0,0,18,58,100.0,ja_JP <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,38,97,100.0,Japanese <gnome-translation@gnome.gr.jp>
+lxmusic,203,0,0,89,0,0,113,203,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+lxrandr,167,0,0,41,0,0,69,167,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+lxsession,755,0,0,166,0,0,251,755,100.0,ja_JP <LL@li.org>
+lxshortcut,43,0,0,19,0,0,20,43,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+lxtask,129,0,1,50,0,1,93,130,99.23076923076923,Japanese <hironao@users.sourceforge.net>
+lxterminal,132,4,66,66,2,30,78,202,65.34653465346535,Japanese <translation-team-ja@lists.sourceforge.net>
+lynx,7433,245,371,1083,49,86,3709,8049,92.34687538824699,Japanese <translation-team-ja@lists.sourceforge.net>
+lyx,24936,252,137,7167,48,13,8733,25325,98.46396841066141,Japanese <lyx-docs@list.lyx.org>
+m17n-db,107,0,1258,5,0,55,23,1365,7.8388278388278385,ja <ja@li.org>
+mail-notification,1816,0,0,344,0,0,507,1816,100.0,
+mailman,24043,0,0,1440,0,0,7066,24043,100.0,Japanese <mailman-users-jp@googlegroups.com>
+make,2252,14,0,430,2,0,1365,2266,99.38217122683142,Japanese <translation-team-ja@lists.sourceforge.net>
+man-db,6425,801,2402,522,39,85,1909,9628,66.7324470294973,Japanese <translation-team-ja@lists.sourceforge.net>
+man2html,58,0,0,3,0,0,12,58,100.0,Japanese <debian-japanese@lists.debian.org>
+manaplus,3670,0,714,1196,0,210,1484,4384,83.71350364963503,Japanese (http://www.transifex.com/projects/p/manaplus/language/ja/)
+marble,240,2059,9096,106,974,2230,176,11395,2.106186924089513,Japanese <kde-jp@kde.org>
+marco,3940,0,208,402,0,11,1112,4148,94.98553519768564,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mariadb,192,9,63,15,1,4,45,264,72.72727272727273,Japanese <debian-japanese@lists.debian.org>
+mate-applets,2376,0,113,541,0,19,791,2489,95.4600241060667,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-backgrounds,30,0,0,21,0,0,21,30,100.0,Japanese (http://www.transifex.com/mate/MATE/language/ja/)
+mate-calc,1315,347,1288,429,44,185,642,2950,44.57627118644068,Japanese <mate-translation@gnome.gr.jp>
+mate-control-center,2827,0,66,633,0,15,931,2893,97.71863117870723,Japanese <mate-translation@mate.gr.jp>
+mate-desktop,2156,0,149,291,0,8,572,2305,93.53579175704989,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-media,216,0,10,93,0,3,104,226,95.57522123893806,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-menu,316,0,0,118,0,0,138,316,100.0,Japanese (http://www.transifex.com/mate/MATE/language/ja/)
+mate-menus,97,0,0,37,0,0,38,97,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-notification-daemon,139,0,0,37,0,0,44,139,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-panel,6170,0,125,757,0,17,1831,6295,98.01429706115965,Japanese <mate-translation@mate.gr.jp>
+mate-polkit,122,0,0,20,0,0,30,122,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-power-manager,2463,0,261,403,0,37,730,2724,90.41850220264317,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-screensaver,971,0,12,153,0,3,243,983,98.7792472024415,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-sensors-applet,304,0,2,105,0,1,158,306,99.34640522875817,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-session-manager,643,0,38,112,0,2,177,681,94.41997063142438,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-settings-daemon,1594,0,170,242,0,11,331,1764,90.36281179138322,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-system-monitor,1316,0,17,309,0,4,600,1333,98.72468117029257,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-terminal,4314,0,335,508,0,17,975,4649,92.79414927941492,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-themes,55,0,5,10,0,2,10,60,91.66666666666666,Japanese (http://www.transifex.com/mate/MATE/language/ja/)
+mate-user-guide,31271,0,9550,1885,0,1046,3417,40821,76.60517870703805,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mate-utils,3607,0,70,653,0,7,1024,3677,98.09627413652434,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+maya-calendar,427,0,0,172,0,0,221,427,100.0,Japanese <https://weblate.elementary.io/projects/calendar/calendar/ja/>
+mbox-importer,0,0,40,0,0,13,0,40,0.0,Japanese <kde-jp@kde.org>
+mc,1606,0,2547,604,0,614,925,4153,38.67084035636889,Japanese (http://www.transifex.com/mc/mc/language/ja/)
+mcomix,1941,143,483,428,52,54,624,2567,75.61355668095052,Japanese
+meld,1256,0,0,313,0,0,491,1256,100.0,Japanese <gnome-translation@gnome.gr.jp>
+menulibre,849,0,0,164,0,0,298,849,100.0,Japanese <ja@li.org>
+mercurial,68145,44,4764,5755,10,261,29035,72953,93.40945540279358,Japanese
+metacity,2040,0,0,310,0,0,830,2040,100.0,Japanese <gnome-translation@gnome.gr.jp>
+midori,3192,0,349,743,0,53,1135,3541,90.1440271109856,Japanese <xfce-users-jp@googlegroups.com>
+minetest,1515,972,3919,494,127,403,596,6406,23.649703403059632,Japanese <https://hosted.weblate.org/projects/minetest/minetest/ja/>
+mingw-GConf2,4074,0,0,496,0,0,1646,4074,100.0,Japanese <gnome-translation@gnome.gr.jp>
+mingw-atk,398,0,0,139,0,0,157,398,100.0,Japanese <gnome-translation@gnome.gr.jp>
+mingw-binutils,21473,170,24839,3416,42,4033,12716,46482,46.19637709220773,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-colord,545,0,1340,134,0,69,175,1885,28.912466843501328,Japanese (http://www.transifex.com/projects/p/colord/language/ja/)
+mingw-colorhug-client,440,0,969,98,0,196,109,1409,31.227821149751595,Japanese (Japan) (http://www.transifex.com/projects/p/colorhug-client/language/ja_JP/)
+mingw-gcc,16717,29898,50759,2796,4377,5412,8163,97374,17.16782714071518,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gdb,6811,0,1419,1013,0,286,4307,8230,82.75820170109355,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gdbm,301,169,229,92,40,61,185,699,43.06151645207439,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gdk-pixbuf,1354,0,0,202,0,0,518,1354,100.0,Japanese <gnome-translation@gnome.gr.jp>
+mingw-gettext,7783,0,0,827,0,0,3637,7783,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-glib-networking,157,0,0,28,0,0,68,157,100.0,Japanese <gnome-translation@gnome.gr.jp>
+mingw-glib2,4054,660,731,647,92,101,1737,5445,74.4536271808999,Japanese <gnome-translation@gnome.gr.jp>
+mingw-goocanvas2,1234,385,111,203,54,14,269,1730,71.32947976878613,
+mingw-gstreamer,646,134,1137,159,32,157,256,1917,33.69848721961398,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,96,0,0,14,0,0,28,96,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gstreamer-plugins-base,699,11,198,144,2,32,316,908,76.98237885462555,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,708,70,36,160,21,9,255,814,86.97788697788698,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gstreamer1,692,94,1292,175,18,182,272,2078,33.301251203079886,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,73,39,96,10,6,15,20,208,35.09615384615385,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,448,80,421,94,21,83,197,949,47.20758693361433,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,599,113,49,82,16,9,184,761,78.71222076215506,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-gtk-vnc,8,0,0,3,0,0,5,8,100.0,Japanese <gnome-translation@gnome.gr.jp>
+mingw-gtk2,12364,29,36,2574,5,7,3646,12429,99.47702952771743,Japanese <gnome-translation@gnome.gr.jp>
+mingw-gtk3,12819,954,671,2924,206,115,4036,14444,88.74965383550263,Japanese <gnome-translation@gnome.gr.jp>
+mingw-gtksourceview3,1031,78,47,602,17,11,712,1156,89.18685121107266,Japanese <gnome-translation@gnome.gr.jp>
+mingw-gtkspell3,16,0,0,7,0,0,12,16,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-libgpg-error,1275,0,0,403,0,0,495,1275,100.0,none
+mingw-libgsf,692,4,0,145,1,0,276,696,99.42528735632183,Japanese <gnome-translation@gnome.gr.jp>
+mingw-libidn,160,59,209,39,9,12,47,428,37.38317757009346,Japanese <translation-team-ja@lists.sourceforge.net>
+mingw-libosinfo,1372,0,677,397,0,207,1094,2049,66.95949243533431,Japanese (http://www.transifex.com/projects/p/libosinfo/language/ja/)
+mingw-libsoup,51,0,0,14,0,0,31,51,100.0,Japanese <gnome-translation@gnome.gr.jp>
+mingw-libvirt,37037,4009,21237,6076,616,2970,17024,62283,59.46566478814444,Japanese (http://www.transifex.com/projects/p/libvirt/language/ja/)
+mingw-libvirt-glib,121,0,24,25,0,4,52,145,83.44827586206897,Japanese (http://www.transifex.com/projects/p/libvirt-glib/language/ja/)
+mingw-p11-kit,476,0,0,81,0,0,95,476,100.0,Japanese (http://www.transifex.com/freedesktop/p11-kit/language/ja/)
+mingw-postgresql,50467,0,28,7223,0,2,14182,50495,99.94454896524408,jpug-doc <jpug-doc@ml.postgresql.jp>
+mingw-sane-backends,2560,279,2803,674,114,392,698,5642,45.373980857851826,Japanese <japanese@li.org>
+mingw-webkitgtk,2681,0,0,580,0,0,902,2681,100.0,none
+mingw-webkitgtk3,2681,0,0,580,0,0,902,2681,100.0,none
+mingw-wxWidgets,6497,0,0,1504,0,0,3092,6497,100.0,Japanese <wx-translators@wxwindows.org>
+minicom,1346,333,110,355,20,16,828,1789,75.2375628842929,Japanese <translation-team-ja@lists.sourceforge.net>
+mintmenu,2956,0,4516,819,0,409,1249,7472,39.5610278372591,Japanese <https://launchpad.net/~linuxmint-translation-team-japanese>
+mkvtoolnix,28105,5462,5684,2550,746,363,4137,39251,71.60327125423555,Japanese <boiled.sugar@gmail.com>
+mlocate,406,175,0,50,1,0,202,581,69.87951807228916,Japanese <trans-ja@lists.fedoraproject.org>
+moin,4964,26,54,916,7,10,1399,5044,98.41395717684377,
+mono,1113,1051,5559,117,105,443,336,7723,14.41149812249126,
+monodevelop,13776,4963,4559,3099,1400,799,4630,23298,59.12953901622456,Atsushi Enomoto <atsushi@ximian.com>
+monotone,3424,0,8292,528,0,1009,1650,11716,29.22499146466371,Japanese <gnome-translation@gnome.gr.jp>
+moodle,429,0,0,65,0,0,87,429,100.0,i18n@lists.horde.org
+moserial,480,0,0,118,0,0,178,480,100.0,Japanese <takeshi.aihana@gmail.com>
+mousepad,1088,0,0,306,0,0,417,1088,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+mousetweaks,114,0,0,30,0,0,39,114,100.0,Japanese <gnome-translation@gnome.gr.jp>
+mozo,42,0,0,16,0,0,16,42,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+mtpaint,2880,27,224,799,9,64,1199,3131,91.98339188757585,Puppy Linux Japanese
+muffin,2511,0,0,361,0,0,969,2511,100.0,Japanese <gnome-translation@gnome.gr.jp>
+multimedia-menus,56,0,0,22,0,0,24,56,100.0,Japanese <fedora-trans-ja@redhat.com>
+mutt,5678,0,112,1198,0,2,2485,5790,98.06563039723662,mutt-j <mutt-j-users@lists.osdn.me>
+mutter,474,133,207,79,25,21,168,814,58.23095823095823,Japanese <gnome-translation@gnome.gr.jp>
+mypaint,3682,855,2320,850,82,254,1239,6857,53.696952019833745,Japanese <https://hosted.weblate.org/projects/mypaint/mypaint/ja/>
+nacl-arm-binutils,20165,170,23344,3173,42,3791,11914,43679,46.16634996222441,Japanese <translation-team-ja@lists.sourceforge.net>
+nacl-arm-gcc,25864,13372,41170,4202,2017,4442,11667,80406,32.1667537248464,Japanese <translation-team-ja@lists.sourceforge.net>
+nacl-binutils,20165,170,23344,3173,42,3791,11914,43679,46.16634996222441,Japanese <translation-team-ja@lists.sourceforge.net>
+nacl-gcc,5365,18096,30449,928,2917,3500,2202,53910,9.951771470970137,Japanese <ja@li.org>
+nano,2893,152,58,472,38,12,794,3103,93.23235578472446,Japanese <translation-team-ja@lists.sourceforge.net>
+nautilus,5759,156,69,1108,1,5,1523,5984,96.23997326203208,Japanese <gnome-translation@gnome.gr.jp>
+nautilus-image-converter,79,0,0,35,0,0,43,79,100.0,Japanese <takeshi.aihana@gmail.com>
+nautilus-sendto,45,0,0,8,0,0,16,45,100.0,Japanese <gnome-translation@gnome.gr.jp>
+nemiver,1265,2,5,333,1,2,425,1272,99.4496855345912,Japanese <gnome-translation@gnome.gr.jp>
+nemo-extensions,32,0,0,13,0,0,17,32,100.0,Japanese <ja@li.org>
+neon,32,251,411,6,46,84,11,694,4.610951008645533,ja
+neovim,19930,0,0,3862,0,0,10228,19930,100.0,vim-jp (https://github.com/vim-jp/lang-ja)
+nesc,499,407,272,94,66,39,251,1178,42.35993208828523,Japanese <ja@li.org>
+network-manager-applet,4403,0,0,928,0,0,1882,4403,100.0,Japanese <gnome-translation@gnome.gr.jp>
+newt,4,0,0,4,0,0,4,4,100.0,Japanese <debian-doc@debian.or.jp>
+nmap,3393,0,125,474,0,7,1203,3518,96.44684479818079,bogus.jp <bogus@bogus.jp>
+noise,1322,0,0,377,0,0,557,1322,100.0,Japanese <https://l10n.elementary.io/projects/music/music/ja/>
+notejot,14,0,0,12,0,0,12,14,100.0,Japanese <>
+notification-daemon,17,0,0,7,0,0,8,17,100.0,Japanese <gnome-translation@gnome.gr.jp>
+obconf,175,0,563,56,0,100,110,738,23.712737127371277,Japanese
+ocaml-gettext,193,0,370,35,0,46,102,563,34.280639431616336,Japanese
+ochusha,2908,14,0,791,2,0,910,2922,99.52087611225188,ochusha-developers <ochusha-developers@lists.sourceforge.jp>
+oggconvert,124,0,8,41,0,3,69,132,93.93939393939394,Japanese <ja@li.org>
+okteta,1139,309,1065,341,94,168,430,2513,45.32431356943892,Japanese <kde-jp@kde.org>
+okular,2886,618,1016,688,66,130,1179,4520,63.84955752212389,Japanese <kde-jp@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,16,158,100.0,LANGUAGE <LL@li.org>
+onboard,1622,0,696,388,0,122,454,2318,69.97411561691112,Japanese <ja@li.org>
+openbox,486,0,20,92,0,2,157,506,96.04743083003953,Japanese <ja@li.org>
+openerp,56690,0,1059,8929,0,222,13360,57749,98.16620201215606,Japanese <ja@li.org>
+openerp-client,2326,0,5403,567,0,7,768,7729,30.094449475999486,Japanese <ja@li.org>
+openerp7,21728,0,28236,5382,0,2032,6238,49964,43.48731086382195,Japanese <ja@li.org>
+openjfx,2682,14,12,582,3,2,900,2708,99.03988183161005,Japanese <gnome-translation@gnome.gr.jp>
+openpts,3,0,0,1,0,0,2,3,100.0,Japanese
+opensp,5364,343,64,680,30,12,1414,5771,92.94749610119564,Japanese <translation@gnome.gr.jp>
+openteacher,227,0,233,98,0,71,103,460,49.34782608695652,Japanese <ja@li.org>
+orage,2931,0,0,1030,0,0,1421,2931,100.0,Japanese (http://www.transifex.com/projects/p/xfce-apps/language/ja/)
+orca,3273,492,311,1021,98,49,2415,4076,80.29931305201178,Japanese <gnome-translation@gnome.gr.jp>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Japanese (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ja/)
+osinfo-db-tools,56,0,0,12,0,0,32,56,100.0,Japanese (http://www.transifex.com/projects/p/libosinfo/language/ja/)
+osmo,1541,0,230,640,0,58,719,1771,87.01298701298701,Japanese Puppy Linux Team
+oyranos,2,0,45,1,0,22,2,47,4.25531914893617,Japanese <translation-team-ja@lists.sourceforge.net>
+p11-kit,476,0,0,81,0,0,95,476,100.0,Japanese (http://www.transifex.com/freedesktop/p11-kit/language/ja/)
+pacman,5398,0,0,896,0,0,2378,5398,100.0,Japanese (http://www.transifex.com/toofishes/archlinux-pacman/language/ja/)
+palapeli,470,58,984,119,7,54,152,1512,31.084656084656086,Japanese <kde-jp@kde.org>
+pam,575,22,0,117,3,0,192,597,96.31490787269682,Japanese <trans-ja@lists.fedoraproject.org>
+pam_krb5,7,0,0,4,0,0,6,7,100.0,Japanese (http://www.transifex.com/projects/p/pam_krb5/language/ja/)
+pan,244,1662,1262,91,443,218,135,3168,7.7020202020202015,Japanese <translation@gnome.gr.jp>
+pantheon-agent-geoclue2,45,0,1,12,0,1,16,46,97.82608695652173,Japanese <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/ja/>
+pantheon-agent-polkit,16,3,1,8,1,1,9,20,80.0,LANGUAGE <LL@li.org>
+pantheon-calculator,78,0,0,36,0,0,64,78,100.0,Japanese <https://l10n.elementary.io/projects/calculator/calculator/ja/>
+pantheon-files,2637,0,39,516,0,7,941,2676,98.54260089686099,Japanese <ja@li.org>
+pantheon-greeter,29,0,0,10,0,0,11,29,100.0,Japanese <ja@li.org>
+pantheon-photos,4057,27,30,866,1,6,1642,4114,98.6144871171609,Japanese <https://l10n.elementary.io/projects/photos/photos/ja/>
+pantheon-terminal,224,0,0,58,0,0,104,224,100.0,Japanese <https://l10n.elementary.io/projects/terminal/terminal/ja/>
+parcellite,156,0,0,52,0,0,79,156,100.0,JAPANESE
+parley,2148,739,955,512,125,115,716,3842,55.90838105153566,Japanese <kde-jp@kde.org>
+parole,964,0,0,275,0,0,390,964,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+parted,4416,0,0,550,0,0,1666,4416,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+passwd,306,0,30,54,0,3,137,336,91.07142857142857,Japanese <trans-ja@lists.fedoraproject.org>
+pastebinit,171,0,12,26,0,1,37,183,93.44262295081968,Japanese <ja@li.org>
+pavucontrol,219,0,0,85,0,0,126,219,100.0,Japanese <fedora-trans-ja@redhat.com>
+pbuilder,1177,1228,4228,113,62,198,283,6633,17.744610281923716,Japanese <debian-japanese@lists.debian.org>
+pcmanfm,1210,0,0,296,0,0,375,1210,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+pdfmod,316,0,0,89,0,0,129,316,100.0,Japanese <takeshi.aihana@gmail.com>
+pdfshuffler,41,23,61,18,5,20,21,125,32.800000000000004,Japanese <LL@li.org>
+perl-Locale-Msgfmt,1243,0,19,426,0,8,527,1262,98.49445324881141,Japanese
+perl-Padre,1478,0,0,504,0,0,578,1478,100.0,Japanese
+perl-Text-Xslate,5,0,0,2,0,0,4,5,100.0,Jaapanese
+pgRouting,2050,0,10643,460,0,941,694,12693,16.15063420783109,Japanese (http://www.transifex.com/projects/p/pgrouting/language/ja/)
+pgadmin3,13597,2394,907,3745,502,155,4924,16898,80.46514380400048,pgadmin3 <z-saito@guitar.ocn.ne.jp>
+phatch,0,0,2553,0,0,824,0,2553,0.0,Japanese <ja@li.org>
+phd2,11505,691,4200,2460,214,549,4246,16396,70.16955354964625,Japanese
+php-horde-Horde-Alarm,18,0,0,6,0,0,6,18,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,60,0,0,13,0,0,30,60,100.0,i18n@lists.horde.org
+php-horde-Horde-Auth,209,0,0,15,0,0,38,209,100.0,i18n@lists.horde.org
+php-horde-Horde-Browser,66,0,0,6,0,0,12,66,100.0,i18n@lists.horde.org
+php-horde-Horde-Cli,16,0,0,5,0,0,8,16,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,25,0,0,6,0,0,14,25,100.0,i18n@lists.horde.org
+php-horde-Horde-Core,1035,0,0,261,0,0,355,1035,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,350,2,0,81,1,0,119,352,99.43181818181817,i18n@lists.horde.org
+php-horde-Horde-Data,53,0,0,8,0,0,9,53,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,105,0,0,35,0,0,42,105,100.0,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,2,4,100.0,i18n@lists.horde.org
+php-horde-Horde-Form,560,0,0,148,0,0,177,560,100.0,i18n@lists.horde.org
+php-horde-Horde-Icalendar,3,0,0,1,0,0,1,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,559,0,23,270,0,15,309,582,96.04810996563575,i18n@lists.horde.org
+php-horde-Horde-Imap-Client,383,0,0,52,0,0,71,383,100.0,i18n@lists.horde.org
+php-horde-Horde-Imsp,3,0,0,1,0,0,1,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,56,0,0,10,0,0,10,56,100.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,347,0,0,40,0,0,171,347,100.0,i18n@lists.horde.org
+php-horde-Horde-ListHeaders,7,0,0,7,0,0,7,7,100.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,5,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,42,0,0,11,0,0,14,42,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,28,47,100.0,i18n@lists.horde.org
+php-horde-Horde-Nls,702,0,0,456,0,0,457,702,100.0,i18n@lists.horde.org
+php-horde-Horde-Perms,17,0,0,5,0,0,5,17,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,30,0,0,9,0,0,11,30,100.0,i18n@lists.horde.org
+php-horde-Horde-Rpc,31,0,0,5,0,0,9,31,100.0,i18n@lists.horde.org
+php-horde-Horde-Service-Weather,442,0,85,183,0,22,183,527,83.87096774193549,i18n@lists.horde.org
+php-horde-Horde-Share,8,0,0,1,0,0,4,8,100.0,i18n@lists.horde.org
+php-horde-Horde-Smtp,77,0,0,13,0,0,16,77,100.0,i18n@lists.horde.org
+php-horde-Horde-SyncMl,3,0,0,1,0,0,1,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,64,0,0,4,0,0,6,64,100.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,4,10,100.0,i18n@lists.horde.org
+php-horde-horde,3473,0,0,856,0,0,1168,3473,100.0,i18n@lists.horde.org
+php-horde-imp,6833,0,0,1392,0,0,1994,6833,100.0,i18n@lists.horde.org
+php-horde-ingo,1007,0,0,261,0,0,367,1007,100.0,i18n@lists.horde.org
+php-horde-kronolith,3790,0,0,789,0,0,1214,3790,100.0,i18n@lists.horde.org
+php-horde-mnemo,575,0,0,145,0,0,193,575,100.0,i18n@lists.horde.org
+php-horde-nag,1618,0,0,377,0,0,540,1618,100.0,i18n@lists.horde.org
+php-horde-passwd,342,0,0,65,0,0,93,342,100.0,Japanese <LL@li.org>
+php-horde-turba,1858,0,0,438,0,0,645,1858,100.0,i18n@lists.horde.org
+php-horde-wicked,499,144,28,123,40,12,168,671,74.36661698956782,i18n@lists.horde.org
+php-phpmyadmin-sql-parser,150,23,54,33,5,6,47,227,66.07929515418502,Japanese <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ja/>
+picard,1654,0,1239,797,0,448,872,2893,57.17248530936744,Japanese (http://www.transifex.com/projects/p/musicbrainz/language/ja/)
+picmi,0,0,197,0,0,114,0,197,0.0,Japanese <kde-jp@kde.org>
+pidgin,12255,0,3501,2833,0,600,4652,15756,77.77989337395277,Japanese (http://www.transifex.com/pidgin/pidgin/language/ja/)
+pidgin-guifications,442,32,31,183,4,5,212,505,87.52475247524752,
+pidgin-sipe,334,0,785,135,0,138,142,1119,29.848078641644328,Japanese (http://www.transifex.com/stefanb/pidgin-sipe/language/ja/)
+pim-data-exporter,0,0,739,0,0,186,0,739,0.0,Japanese <kde-jp@kde.org>
+pim-sieve-editor,0,0,435,0,0,117,0,435,0.0,Japanese <kde-jp@kde.org>
+pinfo,169,124,28,40,7,7,58,321,52.64797507788161,Japanese <ja@li.org>
+pinta,1362,0,256,481,0,47,589,1618,84.17799752781211,Japanese <ja@li.org>
+pioneers,2987,0,2,787,0,1,1176,2989,99.93308798929408,Japanese <gnome-translation@gnome.gr.jp>
+pitivi,1584,17,2,394,9,1,587,1603,98.81472239550843,Japanese <gnome-translation@gnome.gr.jp>
+pix,3718,0,0,1202,0,0,1518,3718,100.0,Japanese <gnome-translation@gnome.gr.jp>
+plank,133,0,56,45,0,5,75,189,70.37037037037037,Japanese <ja@li.org>
+planner,1844,0,0,535,0,0,737,1844,100.0,Japanese <gnome-translation@gnome.gr.jp>
+plasma-breeze,93,6,164,46,3,48,47,263,35.361216730038024,Japanese <kde-jp@kde.org>
+plasma-desktop,8762,1179,2715,1680,178,520,2570,12656,69.23198482932996,Japanese <kde-jp@kde.org>
+plasma-discover,0,0,1196,0,0,361,0,1196,0.0,Japanese <kde-jp@kde.org>
+plasma-drkonqi,1765,124,2126,243,16,118,388,4015,43.960149439601494,Japanese <kde-jp@kde.org>
+plasma-integration,0,0,58,0,0,21,0,58,0.0,Japanese <kde-jp@kde.org>
+plasma-mediacenter,0,0,172,0,0,87,0,172,0.0,Japanese <kde-jp@kde.org>
+plasma-milou,0,0,42,0,0,17,0,42,0.0,Japanese <kde-jp@kde.org>
+plasma-nm,24,12,4336,17,4,1084,19,4372,0.5489478499542544,Japanese <kde-i18n-doc@kde.org>
+plasma-oxygen,457,161,190,193,43,59,205,808,56.559405940594054,Japanese <kde-jp@kde.org>
+plasma-pa,0,0,171,0,0,72,0,171,0.0,Japanese <kde-jp@kde.org>
+plasma-pk-updates,1976,0,105,370,0,30,473,2081,94.95434887073523,Japanese <kde-jp@kde.org>
+plasma-sdk,188,75,591,59,14,177,92,854,22.01405152224824,Japanese <kde-jp@kde.org>
+plasma-systemsettings,179,21,24,41,5,9,61,224,79.91071428571429,Japanese <kde-jp@kde.org>
+plasma-user-manager,0,0,295,0,0,49,0,295,0.0,Japanese <kde-jp@kde.org>
+plasma-vault,0,0,518,0,0,62,0,518,0.0,Japanese <kde-jp@kde.org>
+plasma-workspace,4501,651,1902,1305,130,819,1590,7054,63.807768641905305,Japanese <kde-jp@kde.org>
+playonlinux,888,0,1840,226,0,223,248,2728,32.55131964809384,Japanese <>
+pluma,12502,0,392,1785,0,19,2706,12894,96.95982627578718,Japanese <LL@li.org>
+plymouth-kcm,0,0,122,0,0,24,0,122,0.0,Japanese <kde-jp@kde.org>
+po4a,23062,1723,415,1453,43,22,5780,25200,91.51587301587301,Japanese <debian-japanese@lists.debian.org>
+poedit,2639,0,0,591,0,0,927,2639,100.0,Japanese
+pogo,576,0,0,101,0,0,127,576,100.0,Japanese <ja@li.org>
+polari,558,0,5,137,0,1,214,563,99.11190053285968,Japanese <gnome-translation@gnome.gr.jp>
+policycoreutils,5781,550,1347,832,109,137,2126,7678,75.2930450638187,Japanese <trans-ja@lists.fedoraproject.org>
+polkit-gnome,94,0,0,16,0,0,22,94,100.0,Japanese <gnome-translation@gnome.gr.jp>
+polkit-kde,0,0,92,0,0,28,0,92,0.0,Japanese <kde-jp@kde.org>
+popt,68,10,6,26,3,2,26,84,80.95238095238095,Japanese <ja@li.org>
+postgis,97362,26743,23969,5688,423,1768,30827,148074,65.75225900563233,Japanese (http://www.transifex.com/postgis/postgis/language/ja/)
+postgresql,50467,0,28,7223,0,2,14182,50495,99.94454896524408,jpug-doc <jpug-doc@ml.postgresql.jp>
+postgresql-jdbc,1966,195,95,238,22,18,498,2256,87.14539007092199,PostgreSQL <z-saito@guitar.ocn.ne.jp>
+poweradmin,1889,0,0,257,0,0,416,1889,100.0,Japanese (http://www.transifex.com/projects/p/poweradmin/language/ja/)
+powerdevil,660,0,13,117,0,3,160,673,98.06835066864784,Japanese <kde-jp@kde.org>
+pragha,211,0,679,92,0,184,118,890,23.70786516853933,Japanese (http://www.transifex.com/p/Pragha/language/ja/)
+proftpd,814,0,19,196,0,4,420,833,97.71908763505402,Taizo ITO <taizoster@gmail.com>
+psad,123,143,227,21,7,2,74,493,24.94929006085193,Japanese <gnome-translation@gnome.gr.jp>
+psmisc,203,512,277,34,21,30,87,992,20.463709677419356,Japanese <translation-team-ja@lists.sourceforge.net>
+pspp,10147,132,101,1939,48,21,4101,10380,97.7552986512524,Japanese <translation-team-ja@lists.sourceforge.net>
+publican,1997,95,3351,161,6,449,556,5443,36.6893257394819,Japanese <fedora-trans-ja@redhat.com>
+publican-fedora,7,0,100,2,0,6,3,107,6.5420560747663545,Japanese <fedora-trans-ja@redhat.com>
+publican-jboss,120,3,109,9,1,4,23,232,51.724137931034484,Japanese
+pulseaudio,3304,0,0,496,0,0,1617,3304,100.0,Japanese <jp@li.org>
+pulsecaster,145,2,0,19,1,0,23,147,98.63945578231292,ja <LL@li.org>
+puppetlabs-stdlib,12,0,0,2,0,0,4,12,100.0,Japanese (Japan) (https://www.transifex.com/puppet/teams/29089/ja_JP/)
+pybliographer,562,0,409,188,0,75,265,971,57.87847579814625,Japanese <gnome-translation@gnome.gr.jp>
+pychess,176,0,4279,81,0,798,91,4455,3.950617283950617,Japanese (http://www.transifex.com/gbtami/pychess/language/ja/)
+pykickstart,334,0,1103,34,0,125,128,1437,23.2428670842032,Japanese (http://www.transifex.com/projects/p/pykickstart/language/ja/)
+pyroom,21,0,390,7,0,67,13,411,5.109489051094891,Japanese <ja@li.org>
+python-blivet,486,0,206,79,0,18,256,692,70.23121387283237,Japanese (http://www.transifex.com/projects/p/blivet/language/ja/)
+python-blivet1,562,12,133,118,2,12,308,707,79.4908062234795,Japanese
+python-caja,6,0,0,2,0,0,3,6,100.0,Japanese (https://www.transifex.com/mate/teams/13566/ja/)
+python-colander,173,0,0,33,0,0,89,173,100.0,ja <LL@li.org>
+python-django,3613,0,0,819,0,0,1227,3613,100.0,Japanese (http://www.transifex.com/django/django/language/ja/)
+python-django-avatar,119,0,0,21,0,0,40,119,100.0,LANGUAGE <LL@li.org>
+python-django-countries,438,0,1,263,0,1,267,439,99.77220956719817,Japanese (http://www.transifex.com/smileychris/django-countries/language/ja/)
+python-django-extensions,42,0,0,14,0,0,20,42,100.0,LANGUAGE <LL@li.org>
+python-django-formtools,15,0,17,5,0,6,5,32,46.875,Japanese (http://www.transifex.com/projects/p/django-formtools/language/ja/)
+python-django-openstack-auth,84,0,0,16,0,0,22,84,100.0,Japanese
+python-django-registration,81,0,0,15,0,0,16,81,100.0,Japanese <LL@li.org>
+python-django-rest-framework,567,0,15,97,0,4,131,582,97.42268041237114,Japanese (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ja/)
+python-django-robots,44,0,168,14,0,4,14,212,20.754716981132077,Japanese (http://www.transifex.com/projects/p/django-robots/language/ja/)
+python-django-simple-captcha,11,0,0,3,0,0,3,11,100.0,Keisuke URAGO <bravo@resourcez.org>
+python-fedora,214,0,0,29,0,0,61,214,100.0,Japanese (http://www.transifex.com/projects/p/python-fedora/language/ja/)
+python-flask-admin,343,0,18,103,0,6,131,361,95.01385041551247,Japanese
+python-formencode,581,70,162,83,8,24,91,813,71.46371463714637,ja <LL@li.org>
+python-lettuce,7442,0,248,2316,0,136,3245,7690,96.77503250975292,Japanese <django-ja@googlegroups.com>
+python-meh,83,0,26,20,0,3,28,109,76.14678899082568,Japanese (http://www.transifex.com/projects/p/python-meh/language/ja/)
+python-oslo-i18n,6,0,0,1,0,0,1,6,100.0,Japanese
+python-oslo-log,75,0,0,8,0,0,32,75,100.0,Japanese
+python-oslo-policy,96,0,0,8,0,0,23,96,100.0,Japanese
+python-pylons,26,0,0,6,0,0,6,26,100.0,LANGUAGE <LL@li.org>
+python-rpm-generators,3297,10,1101,654,2,196,1662,4408,74.79582577132487,Japanese (http://www.transifex.com/rpm-team/rpm/language/ja/)
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Japanese
+python-sphinx,1199,0,0,269,0,0,591,1199,100.0,Japanese (http://www.transifex.com/sphinx-doc/sphinx-1/language/ja/)
+python-uranium,604,0,0,153,0,0,169,604,100.0,Japanese
+python-wxpython4,6671,729,401,1519,251,112,3068,7801,85.5146776054352,Japanese <wx-translators@wxwindows.org>
+qt-recordmydesktop,553,0,263,74,0,30,104,816,67.76960784313727,
+qt3,482,0,0,200,0,0,364,482,100.0,
+quadrapassel,2027,0,0,159,0,0,622,2027,100.0,Japanese <gnome-translation@gnome.gr.jp>
+quassel,1181,0,4241,622,0,603,682,5422,21.781630394688307,Japanese (http://www.transifex.com/ald/quassel/language/ja/)
+quilt,3631,0,0,182,0,0,1169,3631,100.0,Quilt
+quodlibet,1064,1102,3550,329,383,665,367,5716,18.614415675297412,Japanese
+rabbitvcs,826,0,698,273,0,199,291,1524,54.199475065616795,Japanese <ja@li.org>
+radiotray,130,0,0,46,0,0,62,130,100.0,Japanese (http://www.transifex.com/projects/p/radiotray/language/ja/)
+rapid-photo-downloader,1831,0,0,409,0,0,466,1831,100.0,Japanese <ja@li.org>
+rapidsvn,1391,5,23,431,1,4,570,1419,98.02677942212826,Hisateru Tanaka <tanakahisateru@gmail.com>
+ravada,102,0,153,59,0,35,61,255,40.0,
+rawstudio,1302,219,85,413,72,17,548,1606,81.07098381070983,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,60,0,729,17,0,110,22,789,7.604562737642586,Japanese (http://www.transifex.com/freedesktop/realmd/language/ja/)
+redhat-menus,261,0,0,86,0,0,110,261,100.0,Japanese <fedora-trans-ja@redhat.com>
+rednotebook,1125,0,22,236,0,4,381,1147,98.0819529206626,Japanese <ja@li.org>
+redshift,0,0,1026,0,0,151,0,1026,0.0,Japanese <ja@li.org>
+regexxer,466,0,1,99,0,1,155,467,99.78586723768737,Japanese <gnome-translation@gnome.gr.jp>
+remmina,770,0,1365,227,0,304,444,2135,36.0655737704918,Japanese <ja@li.org>
+renameutils,265,0,0,54,0,0,200,265,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+resapplet,106,0,0,22,0,0,31,106,100.0,Novell Language <language@novell.com>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Japanese
+rhn-client-tools,2775,728,4611,381,21,438,841,8114,34.20014789253143,LANGUAGE <LL@li.org>
+rhnsd,24,9,33,7,2,9,13,66,36.36363636363637,LANGUAGE <LL@li.org>
+rhythmbox,8527,43,0,1360,3,0,2643,8570,99.49824970828472,Japanese <gnome-translation@gnome.gr.jp>
+rhythmbox-alternative-toolbar,91,0,219,35,0,23,36,310,29.354838709677416,Japanese <ja@li.org>
+ristretto,761,0,0,198,0,0,257,761,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+rkward,0,0,34404,0,0,3891,0,34404,0.0,Japanese <kde-jp@kde.org>
+rocs,0,0,1376,0,0,283,0,1376,0.0,Japanese <kde-jp@kde.org>
+root,211,0,0,11,0,0,30,211,100.0,Japanese <debian-japanese@lists.debian.org>
+rpm,3297,60,1093,654,14,196,1662,4450,74.08988764044943,Japanese (http://www.transifex.com/rpm-team/rpm/language/ja/)
+rsibreak,737,277,84,105,25,23,146,1098,67.12204007285975,Japanese <Kdeveloper@kde.gr.jp>
+rt,3052,0,8356,927,0,1651,1103,11408,26.753155680224406,Japanese <ja@li.org>
+ruby-gnome2,7,0,0,4,0,0,4,7,100.0,ja_JP.UTF-8
+rygel,1221,0,4,241,0,2,452,1225,99.67346938775509,Japanese <gnome-translation@gnome.gr.jp>
+sakura,185,13,7,64,3,2,71,205,90.2439024390244,Japanese <ja@li.org>
+samba,524,0,0,128,0,0,168,524,100.0,Japanese <debian-japanese@lists.debian.org>
+sane-backends,2560,279,2803,674,114,392,698,5642,45.373980857851826,Japanese <japanese@li.org>
+sawfish,2542,2394,3288,621,441,289,740,8224,30.909533073929964,Japanese <gnome-translation@gnome.gr.jp>
+scanmem,322,52,174,54,18,28,150,548,58.75912408759124,Japanese
+scilab,39804,239,12814,6090,28,1646,18413,52857,75.30506839207673,Japanese <z-saito@guitar.ocn.ne.jp>
+scim-anthy,1915,0,1,342,0,1,468,1916,99.94780793319416,Japanese <ja@li.org>
+scim-hangul,77,58,79,23,7,10,29,214,35.981308411214954,Japanese <ja@li.org>
+scim-pinyin,204,430,0,58,28,0,68,634,32.17665615141956,Japanese <ja@li.org>
+scim-tables,1040,52,63,167,3,1,195,1155,90.04329004329004,Japanese <ja@li.org>
+scratch,1464,0,6,622,0,4,868,1470,99.59183673469387,LANGUAGE <LL@li.org>
+scratch-text-editor,868,0,22,209,0,4,345,890,97.52808988764045,Japanese <ja@li.org>
+screenshot-tool,146,0,0,44,0,0,66,146,100.0,Japanese <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/ja/>
+sdcc,6811,0,1419,1013,0,286,4307,8230,82.75820170109355,Japanese <translation-team-ja@lists.sourceforge.net>
+sddm-kcm,55,2,47,29,1,13,35,104,52.88461538461539,Japanese <kde-jp@kde.org>
+seahorse,2494,0,0,572,0,0,794,2494,100.0,Japanese <gnome-translation@gnome.gr.jp>
+seahorse-caja,411,10,0,109,1,0,165,421,97.62470308788599,Japanese <gnome-translation@gnome.gr.jp>
+seahorse-nautilus,411,10,0,109,1,0,165,421,97.62470308788599,Japanese <gnome-translation@gnome.gr.jp>
+sed,667,88,55,113,12,16,396,810,82.34567901234567,Japanese <translation-team-ja@lists.sourceforge.net>
+sensible-utils,61,18,27,12,1,2,24,106,57.54716981132076,Japanese <debian-japanese@lists.debian.org>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+setroubleshoot,642,0,19,180,0,1,331,661,97.12556732223904,Japanese (http://www.transifex.com/projects/p/fedora/language/ja/)
+setroubleshoot-plugins,4104,0,2104,150,0,71,1394,6208,66.1082474226804,Japanese (http://www.transifex.com/projects/p/fedora/language/ja/)
+setuptool,55,0,0,14,0,0,29,55,100.0,Japanese <fedora-trans-ja@redhat.com>
+sflphone,521,0,2646,205,0,608,295,3167,16.45089990527313,Japanese <ja@li.org>
+shadow-utils,3723,253,85,556,30,10,2080,4061,91.67692686530411,Japanese <debian-japanese@lists.debian.org>
+shared-mime-info,1661,0,254,655,0,88,1455,1915,86.73629242819844,Japanese (http://www.transifex.com/freedesktop/shared-mime-info/language/ja/)
+sharutils,377,166,2604,94,33,177,226,3147,11.979663171274229,Japanese <translation-team-ja@lists.sourceforge.net>
+shotwell,4717,0,37,975,0,7,1497,4754,99.22170803533866,Japanese <https://l10n.gnome.org/teams/ja/>
+shutter,2249,0,844,528,0,78,726,3093,72.71257678629162,Japanese
+simple-ccsm,84,0,11,21,0,2,28,95,88.42105263157895,Japanese <ja@li.org>
+simple-scan,613,0,1332,153,0,104,341,1945,31.516709511568124,Japanese <ja@li.org>
+skanlite,87,30,66,33,10,20,49,183,47.540983606557376,Japanese <Kdeveloper@kde.gr.jp>
+skf,704,0,0,119,0,0,380,704,100.0,
+skrooge,0,0,11557,0,0,2416,0,11557,0.0,Japanese <kde-jp@kde.org>
+skychart,16,0,4900,15,0,1566,15,4916,0.32546786004882017,Japanese <ja@li.org>
+sleuthkit,1894,63,5004,728,21,425,1376,6961,27.208734377244646,Japanese <translation-team-ja@lists.sourceforge.net>
+slick-greeter,197,0,14,40,0,7,54,211,93.36492890995261,Japanese <ja@li.org>
+slingshot-launcher,217,0,0,68,0,0,89,217,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/applications-menu/ja/>
+smb4k,3670,1305,1582,428,156,149,785,6557,55.97071831630319,Japanese <kde-jp@kde.org>
+snap-photobooth,25,0,0,5,0,0,25,25,100.0,Japanese <ja@li.org>
+snapd,0,0,3717,0,0,413,0,3717,0.0,Japanese <ja@li.org>
+snapper,743,0,0,180,0,0,396,743,100.0,Japanese <https://l10n.opensuse.org/projects/snapper/master/ja/>
+snownews,704,8,18,141,1,11,264,730,96.43835616438356,Japanese <iwata@quasiquote.org>
+sos,54,33,35,11,7,12,19,122,44.26229508196721,Japanese <jp@li.org>
+sound-juicer,3332,0,0,308,0,0,1235,3332,100.0,Japanese <gnome-translation@gnome.gr.jp>
+soundconverter,240,0,148,91,0,30,111,388,61.855670103092784,Japanese <ja@li.org>
+soundtracker,1569,11,68,452,7,10,546,1648,95.20631067961165,Debian Japanese project <debian-japanese@lists.debian.org>
+spacefm,543,12,8167,220,5,1343,317,8722,6.225636321944508,Japanese (http://www.transifex.com/projects/p/spacefm/language/ja/)
+sparkleshare,199,0,203,49,0,38,58,402,49.50248756218906,
+spectacle,0,0,511,0,0,91,0,511,0.0,Japanese <kde-jp@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Japanese (Japan) (http://www.transifex.com/heldercorreia/speedcrunch/language/ja_JP/)
+spyder,5989,0,0,1172,0,0,1648,5989,100.0,Japanese <s.ohnishi77+github@gmail.com>
+squirrelmail,4668,1478,3040,1361,201,229,1799,9186,50.816459830176356,Japanese <squirrelmail-i18n@lists.sourceforge.net>
+sscg,78,0,16,29,0,5,31,94,82.97872340425532,Japanese <translation-team-ja@lists.sourceforge.net>
+sssd,11571,200,24016,1425,21,1574,3906,35787,32.33297007293151,Japanese (http://www.transifex.com/projects/p/sssd/language/ja/)
+steadyflow,192,0,278,48,0,45,71,470,40.85106382978723,Japanese <ja@li.org>
+stellarium,27048,0,39992,7769,0,18462,8217,67040,40.346062052505964,Japanese (https://www.transifex.com/stellarium/teams/80998/ja/)
+step,749,716,440,218,387,70,346,1905,39.31758530183727,Japanese <kde-jp@kde.org>
+subdownloader,100,0,868,77,0,195,85,968,10.330578512396695,LANGUAGE <LL@li.org>
+subscription-manager,5940,0,0,1040,0,0,2039,5940,100.0,Japanese
+subversion,12500,5185,2175,1646,315,182,5261,19860,62.94058408862034,Japanese <dev@subversion.tigris.org>
+sudo,4125,0,0,596,0,0,1804,4125,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+sugar,1396,90,247,348,19,52,444,1733,80.55395268320831,LANGUAGE <LL@li.org>
+sugar-abacus,18,0,16,18,0,7,23,34,52.94117647058824,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,63,0,126,29,0,23,30,189,33.33333333333333,LANGUAGE <LL@li.org>
+sugar-calculator,390,81,400,95,11,58,108,871,44.776119402985074,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,76,3,58,52,1,28,56,137,55.47445255474452,LANGUAGE <LL@li.org>
+sugar-clock,0,1,65,0,1,20,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-connect,0,31,0,0,8,0,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,79,0,20,16,0,10,18,99,79.7979797979798,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,25,0,94,13,0,20,13,119,21.008403361344538,LANGUAGE <LL@li.org>
+sugar-imageviewer,31,0,27,15,0,1,15,58,53.44827586206896,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,6,0,63,5,0,17,6,69,8.695652173913043,LANGUAGE <LL@li.org>
+sugar-labyrinth,236,0,45,83,0,11,100,281,83.98576512455516,LANGUAGE <LL@li.org>
+sugar-log,81,0,17,20,0,1,35,98,82.6530612244898,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-measure,13,4,138,7,2,64,7,155,8.38709677419355,LANGUAGE <LL@li.org>
+sugar-memorize,30,8,104,17,7,50,17,142,21.12676056338028,LANGUAGE <LL@li.org>
+sugar-moon,91,0,26,32,0,1,53,117,77.77777777777779,LANGUAGE <LL@li.org>
+sugar-paint,37,0,53,34,0,18,34,90,41.11111111111111,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,42,15,52,14,1,16,16,109,38.53211009174312,LANGUAGE <LL@li.org>
+sugar-playgo,85,0,0,30,0,0,47,85,100.0,LANGUAGE <LL@li.org>
+sugar-read,54,0,83,28,0,22,34,137,39.416058394160586,LANGUAGE <LL@li.org>
+sugar-record,20,2,40,12,1,11,14,62,32.25806451612903,LANGUAGE <LL@li.org>
+sugar-ruler,4,0,25,4,0,4,4,29,13.793103448275861,LANGUAGE <LL@li.org>
+sugar-speak,12,0,215,11,0,63,11,227,5.286343612334802,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,4,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit,73,0,0,37,0,0,48,73,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,145,9,2,101,6,2,120,156,92.94871794871796,LANGUAGE <LL@li.org>
+sugar-turtleart,254,287,918,54,52,329,59,1459,17.40918437285812,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,85,0,36,49,0,6,50,121,70.24793388429752,LANGUAGE <LL@li.org>
+supertux,2043,0,937,562,0,356,771,2980,68.55704697986577,Japanese (http://www.transifex.com/arctic-games/supertux/language/ja/)
+supertuxkart,1775,0,1586,426,0,326,583,3361,52.81166319547753,Japanese (http://www.transifex.com/supertuxkart/supertuxkart/language/ja/)
+sushi,24,0,0,11,0,0,15,24,100.0,Japanese <gnome-translation@gnome.gr.jp>
+svgpart,22,0,0,7,0,0,18,22,100.0,Japanese <kde-jp@kde.org>
+sweep,2384,13,2,532,5,1,805,2399,99.37473947478117,Puppy Linux Japanese
+sweeper,225,0,4,49,0,1,67,229,98.2532751091703,Japanese <kde-jp@kde.org>
+swell-foop,139,0,0,42,0,0,95,139,100.0,Japanese <gnome-translation@gnome.gr.jp>
+switchboard,61,0,0,18,0,0,24,61,100.0,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard/ja/>
+switchboard-plug-a11y,189,0,0,68,0,0,71,189,100.0,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/ja/>
+switchboard-plug-about,117,0,0,37,0,0,45,117,100.0,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/ja/>
+switchboard-plug-applications,85,0,6,29,0,2,34,91,93.4065934065934,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/ja/>
+switchboard-plug-bluetooth,69,0,4,25,0,2,28,73,94.52054794520548,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/ja/>
+switchboard-plug-display,104,0,0,41,0,0,46,104,100.0,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/ja/>
+switchboard-plug-keyboard,396,0,7,154,0,2,245,403,98.26302729528535,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/ja/>
+switchboard-plug-mouse-touchpad,67,0,0,27,0,0,28,67,100.0,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/ja/>
+switchboard-plug-networking,442,0,0,128,0,0,177,442,100.0,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/ja/>
+switchboard-plug-notifications,131,0,8,18,0,2,21,139,94.24460431654677,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/ja/>
+switchboard-plug-onlineaccounts,161,0,0,49,0,0,70,161,100.0,Japanese <ja@li.org>
+switchboard-plug-pantheon-shell,135,0,9,51,0,2,59,144,93.75,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/ja/>
+switchboard-plug-printers,336,0,0,138,0,0,158,336,100.0,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/ja/>
+switchboard-plug-sound,90,0,0,37,0,0,38,90,100.0,Japanese <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/ja/>
+switchdesk,139,0,0,20,0,0,30,139,100.0,Japanese <fedora-trans-ja@redhat.com>
+sylpheed,7139,0,0,1771,0,0,2741,7139,100.0,Japanese <ja@li.org>
+synapse,266,0,558,107,0,120,110,824,32.28155339805826,Japanese <ja@li.org>
+synaptic,2277,580,374,553,76,33,836,3231,70.47353760445682,Project Vine <Vine@vinelinux.org>
+syncevolution,1132,0,0,163,0,0,272,1132,100.0,Japanese (http://www.transifex.net/projects/p/meego/team/ja/)
+synfig,642,1,8749,264,1,2091,306,9392,6.835604770017036,Japanese (http://www.transifex.com/morevnaproject/synfig/language/ja/)
+synfigstudio,1978,0,11150,772,0,2362,967,13128,15.067032297379646,Japanese (http://www.transifex.com/morevnaproject/synfig/language/ja/)
+sysstat,702,0,0,76,0,0,500,702,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+system-config-bind,9434,0,0,1065,0,0,2681,9434,100.0,Japanese <fedora-trans-ja@redhat.com>
+system-config-firewall,2814,0,0,331,0,0,858,2814,100.0,Japanese
+system-config-httpd,877,0,0,227,0,0,269,877,100.0,ja <fedora-trans-ja@redhat.com>
+system-config-kdump,866,0,11,151,0,5,337,877,98.74572405929305,Japanese <trans-ja@lists.fedoraproject.org>
+system-config-keyboard,187,0,0,81,0,0,135,187,100.0,<ja@li.org>
+system-config-kickstart,1144,0,0,253,0,0,497,1144,100.0,Japanese (http://www.transifex.com/projects/p/system-config-kickstart/language/ja/)
+system-config-language,197,0,0,29,0,0,43,197,100.0,Japanese <jp@li.org>
+system-config-printer,3051,8,101,731,5,19,1218,3160,96.55063291139241,Japanese (http://www.transifex.com/projects/p/system-config-printer/language/ja/)
+system-config-rootpassword,116,0,0,19,0,0,22,116,100.0,Japanese <fedora-trans-ja@redhat.com>
+system-config-users,1436,0,85,172,0,8,428,1521,94.41157133464826,Japanese <trans-ja@lists.fedoraproject.org>
+system-config-users-docs,1061,0,0,82,0,0,323,1061,100.0,Japanese <jp@li.org>
+system-switch-java,81,0,0,11,0,0,38,81,100.0,Japanese <jp@li.org>
+system-switch-mail,158,0,0,24,0,0,52,158,100.0,Japanese <fedora-trans-ja@redhat.com>
+tali,4256,1,29,905,1,3,1587,4286,99.30004666355576,Japanese <gnome-translation@gnome.gr.jp>
+tar,3594,0,26,587,0,3,1655,3620,99.2817679558011,Japanese <translation-team-ja@lists.sourceforge.net>
+tellico,0,0,5626,0,0,1186,0,5626,0.0,Japanese <kde-jp@kde.org>
+terminator,753,0,657,266,0,151,284,1410,53.404255319148945,Japanese <ja@li.org>
+termit,50,0,0,22,0,0,25,50,100.0,
+texi2html,358,1010,609,85,89,140,189,1977,18.108244815376835,Unknown
+texinfo,1939,2551,899,294,242,114,714,5389,35.98070142883652,Japanese <translation-team-ja@lists.sourceforge.net>
+texlive,1226,0,3,304,0,2,454,1229,99.75589910496339,Japanese <tldoc@tug.org>
+tgif,0,0,0,0,0,0,0,0,0.0,
+thunar-archive-plugin,86,0,0,13,0,0,14,86,100.0,Japanese <xfce-i18n@xfce.org>
+thunar-media-tags-plugin,156,0,0,58,0,0,71,156,100.0,Japanese <xfce-i18n@xfce.org>
+thunar-vfs,387,0,0,86,0,0,184,387,100.0,Japanese <xfce-users-jp@ml.fdiary.net>
+thunar-volman,487,0,0,113,0,0,193,487,100.0,Japanese (http://www.transifex.com/projects/p/xfce/language/ja/)
+tilix,350,64,1567,212,36,337,272,1981,17.6678445229682,Japanese <https://hosted.weblate.org/projects/tilix/translations/ja/>
+tomboy,3278,3,34,471,1,2,915,3315,98.88386123680242,Japanese <gnome-translation@gnome.gr.jp>
+tomoe,73,0,1,19,0,1,19,74,98.64864864864865,Tomoe project
+tomoe-gtk,48,4,171,26,2,34,26,223,21.524663677130047,Japanese <ja@li.org>
+tortoisehg,8653,0,4331,1985,0,401,2935,12984,66.64356130622305,LANGUAGE <LL@li.org>
+totem,2353,1834,1763,491,89,81,930,5950,39.54621848739496,Japanese <gnome-translation@gnome.gr.jp>
+totem-pl-parser,29,0,0,8,0,0,13,29,100.0,Japanese <gnome-translation@gnome.gr.jp>
+trac,14897,0,0,1682,0,0,4960,14897,100.0,ja <LL@li.org>
+trac-accountmanager-plugin,1208,0,0,204,0,0,291,1208,100.0,Japanese <trac-dev@googlegroups.com>
+trac-spamfilter-plugin,91,0,2545,40,0,388,47,2636,3.452200303490137,Japanese (http://www.transifex.com/hasienda/Trac_Plugin-L10N/language/ja/)
+trac-tickettemplate-plugin,48,0,0,18,0,0,19,48,100.0,ja <LL@li.org>
+trac-workflowadmin-plugin,254,0,0,52,0,0,72,254,100.0,OpenGroove <trac@opengroove.com>
+tracker,3120,16,0,518,3,0,960,3136,99.48979591836735,Japanese <gnome-translation@gnome.gr.jp>
+tracker-miners,3120,16,0,518,3,0,960,3136,99.48979591836735,Japanese <gnome-translation@gnome.gr.jp>
+trafficserver,35150,51,63324,1981,1,3577,9654,98525,35.67622430855113,LANGUAGE <LL@li.org>
+transmission,1710,0,99,483,0,11,857,1809,94.5273631840796,Japanese <ja@li.org>
+trojita,0,0,4388,0,0,893,0,4388,0.0,Japanese <kde-jp@kde.org>
+trustedqsl,4027,0,0,626,0,0,1247,4027,100.0,TQSL Developers
+tryton,1054,287,233,258,74,89,321,1574,66.96315120711563,
+trytond,0,0,2648,0,0,1207,0,2648,0.0,
+trytond-account,0,0,2743,0,5,1215,0,2743,0.0,
+trytond-account-invoice,0,0,1028,0,2,370,0,1028,0.0,
+trytond-account-invoice-history,0,0,2,0,0,1,0,2,0.0,
+trytond-account-invoice-line-standalone,0,0,10,0,0,4,0,10,0.0,
+trytond-account-product,0,0,296,0,0,95,0,296,0.0,
+trytond-account-statement,0,0,231,0,1,126,0,231,0.0,
+trytond-account-stock-anglo-saxon,0,0,74,0,0,12,0,74,0.0,
+trytond-account-stock-continental,0,0,325,0,0,69,0,325,0.0,
+trytond-analytic-account,0,0,184,0,0,95,0,184,0.0,
+trytond-analytic-invoice,0,0,13,0,0,3,0,13,0.0,
+trytond-analytic-purchase,0,0,22,0,0,4,0,22,0.0,
+trytond-analytic-sale,0,0,13,0,0,3,0,13,0.0,
+trytond-calendar,0,0,621,0,0,283,0,621,0.0,
+trytond-calendar-classification,0,0,2,0,0,2,0,2,0.0,
+trytond-calendar-scheduling,0,0,100,0,0,50,0,100,0.0,
+trytond-sale,0,0,536,0,0,266,0,536,0.0,
+trytond-sale-opportunity,0,0,320,0,0,174,0,320,0.0,
+trytond-sale-price-list,0,0,5,0,0,2,0,5,0.0,
+trytond-stock,0,0,1203,0,9,554,0,1203,0.0,
+trytond-stock-forecast,0,0,174,0,0,81,0,174,0.0,
+trytond-stock-inventory-location,0,0,17,0,0,11,0,17,0.0,
+trytond-stock-location-sequence,0,0,1,0,0,1,0,1,0.0,
+trytond-stock-product-location,0,0,23,0,0,14,0,23,0.0,
+trytond-stock-supply,0,0,147,0,0,58,0,147,0.0,
+trytond-stock-supply-day,0,0,27,0,0,18,0,27,0.0,
+trytond-timesheet,0,0,278,0,0,131,0,278,0.0,
+tumbler,241,0,0,39,0,0,102,241,100.0,Japanese (http://www.transifex.com/xfce/tumbler/language/ja/)
+tuna,1342,0,0,117,0,0,330,1342,100.0,Japanese <LL@li.org>
+turpial,858,0,0,227,0,0,229,858,100.0,Japanese (http://www.transifex.com/projects/p/turpial-1/language/ja/)
+tuxmath,238,115,1102,71,13,165,127,1455,16.3573883161512,Japanese <ja@li.org>
+tuxpaint,1591,0,0,291,0,0,783,1591,100.0,japanese <shin1@wmail.plala.or.jp>
+tuxtype2,0,0,80,0,0,40,0,80,0.0,LANGUAGE <LL@li.org>
+udisks2,1461,207,341,396,28,67,729,2009,72.72274763563962,Japanese
+ufraw,1617,233,322,341,34,50,551,2172,74.4475138121547,Japanese <tyaoknok@gmail.com>
+ufw,154,0,725,32,0,149,78,879,17.51990898748578,Japanese <ja@li.org>
+ufw-kde,0,0,815,0,0,190,0,815,0.0,Japanese <kde-jp@kde.org>
+uget,996,48,15,354,11,5,491,1059,94.05099150141642,Japanese (http://www.transifex.com/uget/uget/language/ja/)
+uim,6263,0,42,1835,0,8,2775,6305,99.33386201427439,Japanese <anthy-dev@lists.sourceforge.jp>
+umbrello,3090,933,911,956,270,176,1176,4934,62.626672071341716,Japanese <kde-jp@kde.org>
+unetbootin,3159,0,0,178,0,0,673,3159,100.0,LANGUAGE <LL@li.org>
+unixcw,85,0,0,6,0,0,18,85,100.0,Japanese <debian-japanese@lists.debian.org>
+usermode,573,0,0,96,0,0,150,573,100.0,Japanese <trans-ja@lists.fedoraproject.org>
+util-linux,17687,3483,1809,3190,586,258,9029,22979,76.97027720962618,Japanese <translation-team-ja@lists.sourceforge.net>
+variety,3145,0,1050,421,0,74,741,4195,74.97020262216924,Japanese <ja@li.org>
+vdr,72,0,0,7,0,0,24,72,100.0,Japanese <debian-japanese@lists.debian.org>
+viewnior,404,0,21,133,0,11,158,425,95.05882352941177,Team Puppy linux Japan
+viking,52,0,4083,36,0,1020,41,4135,1.2575574365175333,Japanese <ja@li.org>
+vim,30405,0,0,5889,0,0,15576,30405,100.0,Japanese <https://github.com/vim-jp/lang-ja>
+vinagre,1510,0,0,277,0,0,491,1510,100.0,Japanese <gnome-translation@gnome.gr.jp>
+vino,1090,0,0,110,0,0,302,1090,100.0,Japanese <translation@gnome.gr.jp>
+virt-manager,7876,151,337,1652,25,59,3047,8364,94.16547106647538,Japanese (http://www.transifex.com/projects/p/virt-manager/language/ja/)
+virt-top,361,0,0,77,0,0,189,361,100.0,Japanese <None>
+virt-viewer,630,0,154,137,0,32,353,784,80.35714285714286,Japanese (http://www.transifex.com/projects/p/virt-viewer/language/ja/)
+virtaal,1433,0,0,426,0,0,658,1433,100.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+volume_key,745,10,8,151,2,1,334,763,97.64089121887287,Japanese <trans-ja@lists.fedoraproject.org>
+vte,80,0,0,13,0,0,36,80,100.0,Japanese <gnome-translation@gnome.gr.jp>
+vte291,80,0,0,13,0,0,36,80,100.0,Japanese <gnome-translation@gnome.gr.jp>
+vte3,80,0,0,13,0,0,36,80,100.0,Japanese <gnome-translation@gnome.gr.jp>
+w3m,880,0,0,222,0,0,332,880,100.0,Japanese
+wallpapoz,395,0,0,101,0,0,115,395,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+warmux,1635,380,729,292,76,104,502,2744,59.58454810495627,Japanese (Japan) <akicks@gmail.com>
+watchdog,97,0,0,6,0,0,25,97,100.0,Japanese <debian-japanese@lists.debian.org>
+wdiff,120,0,0,31,0,0,68,120,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+webkitgtk4,2682,14,12,582,3,2,900,2708,99.03988183161005,Japanese <gnome-translation@gnome.gr.jp>
+weechat,30240,0,0,2253,0,0,12796,30240,100.0,Japanese <https://github.com/l/weechat/tree/master/translation/ja_JP>
+wesnoth,269112,0,7493,17087,0,342,30548,276605,97.2910829522243,Japanese (https://www.transifex.com/wesnoth-jp/teams/60513/ja/)
+wget,3685,167,81,607,22,6,1829,3933,93.69438087973558,Japanese <translation-team-ja@lists.sourceforge.net>
+whaawmp,12,0,787,2,0,158,6,799,1.5018773466833542,Japanese <ja@li.org>
+whois,123,143,227,21,7,2,74,493,24.94929006085193,Japanese <gnome-translation@gnome.gr.jp>
+wicd,1102,0,36,246,0,8,413,1138,96.8365553602812,ja <LL@li.org>
+widelands,7251,0,33612,1283,0,2487,1538,40863,17.744658982453565,Japanese (http://www.transifex.com/widelands/widelands/language/ja/)
+wine,15754,0,3,3491,0,1,6216,15757,99.98096084280003,Japanese
+wine-mono,1120,783,5370,118,79,425,339,7273,15.399422521655437,
+wingpanel,8,0,0,2,0,0,2,8,100.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,225,0,0,72,0,0,92,225,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/applications-menu/ja/>
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,11,15,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/ja/>
+wingpanel-indicator-datetime,20,0,0,6,0,0,8,20,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,10,0,0,4,0,0,4,10,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/ja/>
+wingpanel-indicator-network,76,0,0,22,0,0,35,76,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/ja/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,11,16,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/ja/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,7,16,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/ja/>
+wingpanel-indicator-power,93,0,0,27,0,0,45,93,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/ja/>
+wingpanel-indicator-session,57,0,0,18,0,0,18,57,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/ja/>
+wingpanel-indicator-sound,14,0,0,6,0,0,6,14,100.0,Japanese <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/ja/>
+wireshark,79,0,179,4,0,12,14,258,30.620155038759687,Japanese (https://www.transifex.com/wireshark/teams/36457/ja/)
+workrave,987,166,168,175,53,34,209,1321,74.71612414837244,Masanobu Yokota <masanobu.yokota@nifty.com>
+wxGTK,6497,0,0,1504,0,0,3092,6497,100.0,Japanese <wx-translators@wxwindows.org>
+wxGTK3,6671,729,401,1519,251,112,3068,7801,85.5146776054352,Japanese <wx-translators@wxwindows.org>
+wxGlade,2012,0,0,435,0,0,564,2012,100.0,ja <brian_nt@nifty.com>
+wxMaxima,3104,234,1863,781,64,207,978,5201,59.68083060949817,Japanese <maxima-discuss@lists.sourceforge.net>
+wxPython,8866,719,660,2229,229,153,3842,10245,86.53977550024402,Japanese <wx-translators@wxwindows.org>
+xarchiver,1131,0,0,277,0,0,370,1131,100.0,Japanese <xfce-users-jp@ml.fdiary.net>
+xcdroast,8044,0,0,848,0,0,1778,8044,100.0,Japanese
+xdg-desktop-portal-kde,0,0,11,0,0,8,0,11,0.0,Japanese <kde-jp@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Japanese <translation-team-ja@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,11,81,100.0,Japanese Takeshi AIHANA <takeshi.aihana@gmail.com>
+xed,11137,0,1294,1488,0,197,2206,12431,89.5905397795833,Japanese <LL@li.org>
+xfbib,176,9,157,37,7,31,50,342,51.461988304093566,Japanese <xfce-i18n@xfce.org>
+xfburn,1413,0,0,306,0,0,490,1413,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+xfce4-appfinder,312,0,7,66,0,3,87,319,97.80564263322884,Japanese (http://www.transifex.com/projects/p/xfce/language/ja/)
+xfce4-battery-plugin,147,0,0,42,0,0,58,147,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-clipman-plugin,442,0,36,70,0,2,109,478,92.46861924686193,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,64,140,100.0,Japanese <xfce-users-jp@googlegroups.com>
+xfce4-cpugraph-plugin,74,0,0,36,0,0,49,74,100.0,Japanese <xfce-i18n@xfce.org>
+xfce4-datetime-plugin,52,0,0,19,0,0,22,52,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-dict,527,0,0,119,0,0,220,527,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,93,183,100.0,Japanese <xfce-users-jp@ml.fdiary.net>
+xfce4-eyes-plugin,15,0,0,4,0,0,6,15,100.0,Japanese <xfce-users-jp@googlegroups.com>
+xfce4-fsguard-plugin,71,0,0,19,0,0,41,71,100.0,Japanese <xfce-users-jp@ml.fdiary.net>
+xfce4-genmon-plugin,56,0,0,14,0,0,30,56,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,187,356,100.0,Japanese <gnome-translation@gnome.gr.jp>
+xfce4-mailwatch-plugin,685,0,0,111,0,0,241,685,100.0,Japanese (http://www.transifex.com/projects/p/xfce/language/ja/)
+xfce4-mixer,181,0,0,36,0,0,57,181,100.0,xfce-i18n@xfce.org <LL@li.org>
+xfce4-mount-plugin,374,0,0,56,0,0,115,374,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-mpc-plugin,76,0,0,24,0,0,56,76,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-netload-plugin,92,0,0,35,0,0,62,92,100.0,Japanese (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ja/)
+xfce4-notes-plugin,163,0,0,57,0,0,76,163,100.0,Japanese <xfce-i18n@xfce.org>
+xfce4-notifyd,243,0,0,70,0,0,88,243,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+xfce4-panel,1709,0,0,395,0,0,585,1709,100.0,Japanese (http://www.transifex.com/xfce/xfce4-panel/language/ja/)
+xfce4-places-plugin,160,0,0,45,0,0,57,160,100.0,Japanese (http://www.transifex.com/projects/p/xfce/language/ja/)
+xfce4-power-manager,1033,0,0,207,0,0,364,1033,100.0,Japanese (http://www.transifex.com/xfce/xfce4-power-manager/language/ja/)
+xfce4-pulseaudio-plugin,129,0,0,29,0,0,54,129,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-screenshooter,431,0,0,64,0,0,99,431,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+xfce4-sensors-plugin,358,0,0,74,0,0,155,358,100.0,Japanese (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ja/)
+xfce4-session,1066,0,0,208,0,0,336,1066,100.0,Japanese (http://www.transifex.com/projects/p/xfce/language/ja/)
+xfce4-settings,1662,0,0,359,0,0,521,1662,100.0,Japanese (https://www.transifex.com/xfce/teams/16840/ja/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,13,22,100.0,Japanese <xfce-users-jp@googlegroups.com>
+xfce4-systemload-plugin,75,0,0,24,0,0,47,75,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-taskmanager,257,0,0,85,0,0,134,257,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+xfce4-terminal,1647,0,0,390,0,0,571,1647,100.0,Japanese (http://www.transifex.com/xfce/xfce-apps/language/ja/)
+xfce4-time-out-plugin,90,0,0,33,0,0,51,90,100.0,Japanese <xfce-i18n@xfce.org>
+xfce4-timer-plugin,131,3,0,41,1,0,73,134,97.76119402985076,Japanese (http://www.transifex.com/projects/p/xfce/language/ja/)
+xfce4-verve-plugin,108,0,0,28,0,0,55,108,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,24,67,100.0,Japanese (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ja/)
+xfce4-weather-plugin,3668,0,0,330,0,0,816,3668,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfce4-whiskermenu-plugin,255,0,94,96,0,22,122,349,73.06590257879655,Japanese (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ja/)
+xfce4-xkb-plugin,42,0,0,15,0,0,15,42,100.0,Japanese (http://www.transifex.com/xfce/xfce-panel-plugins/language/ja/)
+xfconf,452,0,0,67,0,0,173,452,100.0,Japanese (http://www.transifex.com/projects/p/xfconf/language/ja/)
+xfdesktop,979,0,0,222,0,0,341,979,100.0,Japanese (http://www.transifex.com/projects/p/xfdesktop/language/ja/)
+xfe,1293,3840,821,527,417,134,653,5954,21.716493113873025,Japanese <karl@garagedori.com>
+xfmpc,146,2,19,62,1,7,113,167,87.42514970059881,JAPANESE <xfce-i18n@xfce.org>
+xfpanel-switch,62,0,0,24,0,0,28,62,100.0,Japanese <ja@li.org>
+xfwm4,673,0,0,173,0,0,220,673,100.0,Japanese (http://www.transifex.com/projects/p/xfwm4/language/ja/)
+xiphos,335,178,4291,94,46,970,109,4804,6.973355537052456,Japanese <ja@li.org>
+xkeyboard-config,3068,96,167,937,19,38,2313,3331,92.10447313119184,Japanese <translation-team-ja@lists.sourceforge.net>
+xmms,3177,65,201,1003,17,25,1822,3443,92.27417949462678,Japanese <ja@li.org>
+xournal,1042,0,21,279,0,12,394,1063,98.02445907808091,Japanese
+xpad,206,0,200,57,0,68,92,406,50.73891625615764,Japanese <ja@li.org>
+xplayer,3095,1621,1736,616,68,74,1133,6452,47.96962182269064,Japanese <gnome-translation@gnome.gr.jp>
+xplayer-plparser,28,0,0,7,0,0,11,28,100.0,Japanese <gnome-translation@gnome.gr.jp>
+xreader,3281,0,128,509,0,15,1106,3409,96.24523320621883,Japanese <mate-translation@mate.gr.jp>
+xsane,2037,979,208,536,150,42,656,3224,63.18238213399504,
+xscreensaver,1066,215,9712,197,115,1533,356,10993,9.697079959974529,Japanese <translation@gnome.gr.jp>
+xviewer,6703,20,0,753,1,0,1369,6723,99.70251375873865,Japanese <gnome-translation@gnome.gr.jp>
+xviewer-plugins,223,2,46,73,1,3,96,271,82.28782287822878,Japanese <gnome-translation@gnome.gr.jp>
+yash,1957,0,0,354,0,0,744,1957,100.0,Japanese
+yelp,448,0,0,104,0,0,168,448,100.0,Japanese <gnome-translation@gnome.gr.jp>
+yelp-xsl,81,0,0,59,0,0,55,81,100.0,Japanese <gnome-translation@gnome.gr.jp>
+yum,2450,0,619,578,0,82,1152,3069,79.83056370153145,Japanese (http://www.transifex.net/projects/p/yum/team/ja/)
+yum-rhn-plugin,60,39,195,10,3,21,22,294,20.408163265306122,LANGUAGE <LL@li.org>
+zabbix,15808,0,0,3269,0,0,4134,15808,100.0,Zabbix
+zanshin,0,0,893,0,0,245,0,893,0.0,Japanese <kde-jp@kde.org>
+zenity,3722,9,2,510,2,2,1468,3733,99.7053308331101,Japanese <gnome-translation@gnome.gr.jp>
+zypper,10071,0,0,956,0,0,3199,10071,100.0,Japanese <https://l10n.opensuse.org/projects/zypper/master/ja/>

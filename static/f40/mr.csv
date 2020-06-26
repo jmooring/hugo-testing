@@ -1,0 +1,723 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4024,0,0,485,0,0,3849,4024,100.0,Marathi <fedora-trans-mr@redhat.com>
+NetworkManager,4330,4323,20541,739,634,878,4179,29194,14.831814756456808,Marathi <kde-i18n-doc@kde.org>
+NetworkManager-fortisslvpn,6,18,297,4,7,49,9,321,1.8691588785046727,marathi
+NetworkManager-l2tp,79,0,1215,35,0,166,98,1294,6.105100463678516,marathi
+NetworkManager-libreswan,14,23,428,8,8,60,22,465,3.010752688172043,marathi
+NetworkManager-openconnect,34,5,3202,9,2,585,33,3241,1.0490589324282629,marathi
+NetworkManager-openvpn,59,193,1902,28,34,238,68,2154,2.7390900649953576,marathi
+NetworkManager-pptp,66,25,438,25,7,62,76,529,12.476370510396976,marathi
+NetworkManager-ssh,37,36,213,16,13,40,43,286,12.937062937062937,marathi
+NetworkManager-sstp,61,42,775,24,15,110,73,878,6.947608200455581,marathi
+NetworkManager-vpnc,139,0,0,36,0,0,163,139,100.0,marathi
+PackageKit,863,0,0,237,0,0,908,863,100.0,Marathi (http://app.transifex.com/freedesktop/packagekit/language/mr/)
+abrt,2125,118,1433,270,18,129,2016,3676,57.80739934711643,Marathi (http://www.transifex.com/projects/p/fedora-abrt/language/mr/)
+accerciser,540,0,0,207,0,0,570,540,100.0,marathi
+accountsservice,0,0,59,0,0,10,0,59,0.0,Marathi (http://www.transifex.com/freedesktop/accountsservice/language/mr/)
+aisleriot,1788,180,19,478,64,7,1557,1987,89.98490186210367,Marathi <fedora-trans-mr@redhat.com>
+akonadi-calendar,70,62,2060,37,31,284,84,2192,3.1934306569343067,Marathi <kde-i18n-doc@kde.org>
+akonadi-calendar-tools,26,2,430,18,1,84,26,458,5.676855895196507,Marathi <kde-i18n-doc@kde.org>
+akonadi-contacts,38,153,937,36,75,169,39,1128,3.368794326241135,Marathi <kde-i18n-doc@kde.org>
+akonadi-import-wizard,29,38,327,17,9,58,37,394,7.3604060913705585,Marathi <kde-i18n-doc@kde.org>
+akonadi-mime,80,151,350,24,29,62,88,581,13.769363166953527,Marathi <kde-i18n-doc@kde.org>
+akonadi-notes,2,0,0,1,0,0,2,2,100.0,Marathi <kde-i18n-doc@kde.org>
+akonadi-server,92,102,2518,42,45,363,100,2712,3.392330383480826,Marathi <kde-i18n-doc@kde.org>
+akregator,101,122,1670,69,45,321,127,1893,5.335446381405177,Marathi <kde-i18n-doc@kde.org>
+alacarte,42,0,0,16,0,0,43,42,100.0,marathi
+amarok,499,563,13245,319,319,1859,565,14307,3.487803173271825,Marathi <kde-i18n-doc@kde.org>
+anaconda,2151,573,5495,419,109,820,2013,8219,26.17106703978586,Marathi <https://translate.fedoraproject.org/projects/anaconda/master/mr/>
+anaconda-webui,6,306,754,6,92,110,10,1066,0.5628517823639775,Marathi <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/mr/>
+analitza,0,67,932,0,44,179,0,999,0.0,Marathi <kde-i18n-doc@kde.org>
+android-tools,5033,50,945,810,8,148,4658,6028,83.49369608493696,Marathi
+anjuta,7325,0,0,1998,0,0,7531,7325,100.0,marathi
+apt,2448,1111,2007,401,153,194,2475,5566,43.98131512756019,"Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii@cdacmumbai.in>"
+ark,168,310,1505,72,98,201,196,1983,8.472012102874432,American English <kde-i18n-doc@kde.org>
+artikulate,12,63,254,10,36,98,13,329,3.64741641337386,Marathi <kde-i18n-doc@kde.org>
+asunder,14,0,479,13,0,79,15,493,2.839756592292089,http://littlesvr.ca/ostd/
+at-spi2-core,471,0,0,140,0,0,450,471,100.0,marathi
+atril,1250,8,3106,365,2,367,1225,4364,28.64344637946838,Marathi (https://www.transifex.com/mate/teams/13566/mr/)
+audacity,14788,1136,3019,3641,286,471,15564,18943,78.06577627619701,Marathi (http://www.transifex.com/klyok/audacity/language/mr/)
+audex,44,70,2501,34,38,343,49,2615,1.6826003824091778,Marathi <kde-i18n-doc@kde.org>
+audiocd-kio,569,49,146,160,8,5,574,764,74.47643979057592,Marathi <kde-i18n-doc@kde.org>
+baloo-widgets,22,20,25,12,10,18,24,67,32.83582089552239,American English <kde-i18n-doc@kde.org>
+baobab,210,0,0,57,0,0,217,210,100.0,Marathi <fedora-trans-mr@redhat.com>
+blinken,27,8,99,20,1,26,30,134,20.149253731343283,Marathi <kde-i18n-doc@kde.org>
+blogilo,163,15,1214,106,7,224,195,1392,11.709770114942529,Marathi <kde-i18n-doc@kde.org>
+blueman,545,289,1531,189,124,511,579,2365,23.044397463002113,Marathi <https://hosted.weblate.org/projects/blueman/blueman/mr/>
+bomber,61,23,26,19,5,3,62,110,55.45454545454545,Marathi <kde-i18n-doc@kde.org>
+bookworm,241,1,553,52,1,96,231,795,30.31446540880503,Marathi <https://hosted.weblate.org/projects/bookworm/bookworm/mr/>
+bovo,59,23,0,19,7,0,59,82,71.95121951219512,Marathi <kde-i18n-doc@kde.org>
+brasero,5546,0,0,968,0,0,5220,5546,100.0,Marathi <fedora-trans-mr@redhat.com>
+budgie-control-center,4207,0,3707,1677,0,849,4223,7914,53.15895880717716,Marathi (https://app.transifex.com/buddiesofbudgie/teams/129844/mr/)
+budgie-screensaver,270,0,0,54,0,0,259,270,100.0,Marathi <fedora-trans-mr@redhat.com>
+budgie-session,323,0,0,59,0,0,320,323,100.0,Marathi <fedora-trans-mr@redhat.com>
+caja,7912,0,2244,1377,0,219,7252,10156,77.90468688460024,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+caja-actions,137,0,18675,85,0,1431,171,18812,0.7282585583669998,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+caja-extensions,472,0,373,119,0,62,448,845,55.857988165680474,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+calamares,0,0,478,0,0,83,0,478,0.0,Marathi (https://app.transifex.com/calamares/teams/20061/mr/)
+calendarsupport,1048,511,1200,165,90,130,953,2759,37.98477709314969,Marathi <kde-i18n-doc@kde.org>
+calibre,36558,0,148536,12527,0,7891,36853,185094,19.751045414762228,Marathi (http://app.transifex.com/calibre/calibre/language/mr/)
+calligra,4599,2686,22819,2205,1106,2795,4958,30104,15.277039596066968,American English <kde-i18n-doc@kde.org>
+calligraplan,443,1559,7941,329,596,1240,498,9943,4.455395755808106,Marathi <kde-i18n-doc@kde.org>
+cantor,81,203,3703,62,110,595,106,3987,2.0316027088036117,Marathi <kde-i18n-doc@kde.org>
+caribou,171,0,0,57,0,0,159,171,100.0,Marathi <mr@li.org>
+cervisia,102,94,1419,46,56,318,101,1615,6.315789473684211,Marathi <kde-i18n-doc@kde.org>
+cheese,613,0,0,120,0,0,513,613,100.0,Marathi <fedora-trans-mr@redhat.com>
+chkconfig,477,66,54,88,12,9,457,597,79.89949748743719,Marathi <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/mr/>
+cinnamon-control-center,1313,0,0,756,0,0,1318,1313,100.0,Marathi <fedora-trans-mr@redhat.com>
+cinnamon-desktop,234,0,0,32,0,0,232,234,100.0,Marathi <maajhe-sanganak@freelists.org>
+cinnamon-translations,5990,0,16103,1543,0,3411,6025,22093,27.1126601185896,Marathi <mr@li.org>
+clamtk,83,0,351,31,0,111,92,434,19.12442396313364,Marathi <mr@li.org>
+clementine,24,0,3779,12,0,1049,24,3803,0.6310807257428346,Marathi (http://app.transifex.com/davidsansome/clementine/language/mr/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,25,0,363,8,0,91,23,388,6.443298969072164,LANGUAGE <LL@li.org>
+colord-kde,105,76,101,59,25,20,112,282,37.234042553191486,Marathi <kde-i18n-doc@kde.org>
+console-setup,984,1,0,179,1,0,811,985,99.8984771573604,CDAC_DI
+cpeditor,0,137,510,0,96,287,0,647,0.0,Marathi <kde-i18n-doc@kde.org>
+cpu-x,723,497,406,177,98,71,757,1626,44.464944649446494,Marathi <https://hosted.weblate.org/projects/cpu-x/translations/mr/>
+cracklib,90,0,0,15,0,0,66,90,100.0,Marathi <fedora-trans-mr@redhat.com>
+dasher,615,0,0,212,0,0,645,615,100.0,Marathi <fedora-trans-mr@redhat.com>
+dconf-editor,130,33,1301,17,16,154,123,1464,8.879781420765028,Marathi
+debconf,733,67,62,82,7,5,737,862,85.03480278422273,"Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii@cdacmumbai.in>"
+deja-dup,63,0,1560,37,0,248,97,1623,3.8817005545286505,Marathi <mr@li.org>
+dia,5462,0,1143,1973,0,388,5667,6605,82.69492808478425,marathi
+digikam,465,11281,50964,332,4350,5794,524,62710,0.7415085313347154,American English <kde-i18n-doc@kde.org>
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+dnf,134,32,4552,57,6,816,156,4718,2.840186519711742,Marathi
+dnf-plugins-core,8,0,2129,5,0,311,9,2137,0.37435657463734207,Marathi <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/mr/>
+dolphin,864,1026,4387,281,288,313,858,6277,13.76453719929903,Marathi <kde-i18n-doc@kde.org>
+dolphin-plugins,222,121,1164,77,34,318,255,1507,14.731254147312542,Marathi <kde-i18n-doc@kde.org>
+dpkg,2176,5437,2001,311,648,241,2203,9614,22.633659246931558,Marathi <janabhaaratii@cdacmumbai.in>
+dragon,152,83,13,35,43,4,139,248,61.29032258064516,Marathi <kde-i18n-doc@kde.org>
+drgeo,1909,68,8,449,8,4,1809,1985,96.1712846347607,Marathi
+elementary-calculator,175,0,20,63,0,2,183,195,89.74358974358975,Marathi <https://l10n.elementary.io/projects/calculator/calculator/mr/>
+elementary-calendar,509,19,124,200,7,14,584,652,78.06748466257669,Marathi <https://l10n.elementary.io/projects/calendar/calendar/mr/>
+elementary-camera,128,5,0,34,1,0,123,133,96.2406015037594,Marathi <https://l10n.elementary.io/projects/camera/camera/mr/>
+elementary-code,398,243,931,141,48,105,424,1572,25.318066157760814,Marathi <https://l10n.elementary.io/projects/code/code/mr/>
+elementary-files,1965,256,317,404,83,64,1877,2538,77.42316784869976,Marathi <https://l10n.elementary.io/projects/files/files/mr/>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,250,144,467,86,39,82,274,861,29.036004645760745,Marathi <https://l10n.elementary.io/projects/mail/mail/mr/>
+elementary-music,111,22,74,29,3,9,121,207,53.62318840579711,Marathi <https://l10n.elementary.io/projects/music/music/mr/>
+elementary-notifications,1,0,39,1,0,7,1,40,2.5,Marathi <https://l10n.elementary.io/projects/desktop/notifications-extra/mr/>
+elementary-onboarding,250,17,50,53,3,10,249,317,78.86435331230284,Marathi <https://l10n.elementary.io/projects/installer/onboarding/mr/>
+engrampa,1128,0,6771,258,0,625,1052,7899,14.280288644132169,Marathi (https://www.transifex.com/mate/teams/13566/mr/)
+eog,1746,0,0,339,0,0,1605,1746,100.0,Marathi <maajhe-sanganak@freelists.org>
+eog-plugins,79,0,0,27,0,0,78,79,100.0,marathi
+eom,1519,0,3439,314,0,228,1465,4958,30.63735377168213,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+epiphany,2413,0,0,574,0,0,2356,2413,100.0,Marathi
+eventviews,92,29,3162,55,17,250,103,3283,2.8023149558330793,Marathi <kde-i18n-doc@kde.org>
+evince,1525,0,0,355,0,0,1480,1525,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution,21278,0,0,4432,0,0,20020,21278,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution-data-server,5396,0,0,1074,0,0,5486,5396,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution-ews,1165,0,0,239,0,0,1175,1165,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution-mapi,1034,0,0,231,0,0,1059,1034,100.0,Marathi <maajhe-sanganak@freelists.org>
+exaile,112,4,4486,32,1,1088,113,4602,2.4337244676227727,Marathi <https://hosted.weblate.org/projects/exaile/master/mr/>
+file-roller,1195,0,0,268,0,0,1167,1195,100.0,Marathi <fedora-trans-mr@redhat.com>
+filelight,15,43,210,9,17,60,17,268,5.597014925373134,Marathi <kde-i18n-doc@kde.org>
+firewalld,1485,10,722,291,1,123,1397,2217,66.98240866035182,Marathi (http://www.transifex.com/projects/p/firewalld/language/mr/)
+five-or-more,159,47,76,47,12,6,161,282,56.38297872340425,Marathi <fedora-trans-mr@redhat.com>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Marathi
+four-in-a-row,109,51,96,41,17,15,116,256,42.578125,Marathi <fedora-trans-mr@redhat.com>
+fprintd,405,28,0,56,4,0,386,433,93.53348729792148,Marathi <https://translate.fedoraproject.org/projects/fprintd/fprintd/mr/>
+freeipa,103,0,0,24,0,0,100,103,100.0,Marathi
+gala,77,49,155,24,11,25,73,281,27.402135231316727,Marathi <https://l10n.elementary.io/projects/desktop/gala/mr/>
+galculator,806,0,129,236,0,39,811,935,86.20320855614973,Marathi (http://www.transifex.com/mate/MATE/language/mr/)
+gamehub,274,0,841,88,0,277,305,1115,24.573991031390136,Marathi <https://hosted.weblate.org/projects/gamehub/translations/mr/>
+gconf-editor,336,0,0,98,0,0,387,336,100.0,marathi
+gcr,115,205,302,59,71,97,113,622,18.488745980707396,Marathi <fedora-trans-mr@redhat.com>
+gcr3,115,205,302,59,71,97,113,622,18.488745980707396,Marathi <fedora-trans-mr@redhat.com>
+gdk-pixbuf2,1288,60,0,197,5,0,1322,1348,95.54896142433235,Marathi <fedora-trans-mr@redhat.com>
+gdm,619,15,16,81,3,3,533,650,95.23076923076923,Marathi <maajhe-sanganak@freelists.org>
+gedit,4083,0,0,683,0,0,3807,4083,100.0,Marathi <maajhe-sanganak@freelists.org>
+gedit-plugins,890,192,123,387,58,24,936,1205,73.85892116182573,Marathi <fedora-trans-mr@redhat.com>
+gegl04,6617,51,1787,1490,11,256,5825,8455,78.26138379657007,Marathi
+gftp,3334,0,0,593,0,0,3318,3334,100.0,marathi
+gimp,38287,0,0,9323,0,0,38563,38287,100.0,Marathi
+gimp3,36633,418,405,9015,74,49,34911,37456,97.80275523280649,Marathi
+glade,3361,0,0,910,0,0,3214,3361,100.0,marathi
+glib-networking,135,0,0,24,0,0,124,135,100.0,Marathi <fedora-trans-mr@redhat.com>
+glib2,5703,0,0,905,0,0,5424,5703,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-abrt,195,0,26,48,0,7,182,221,88.23529411764706,Marathi (http://www.transifex.com/projects/p/gnome-abrt/language/mr/)
+gnome-applets,3367,0,0,791,0,0,3191,3367,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-bluetooth,309,0,0,102,0,0,309,309,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-bluetooth3.34,309,0,0,102,0,0,309,309,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-boxes,950,0,0,208,0,0,929,950,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-calculator,1337,0,0,428,0,0,1299,1337,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-chess,809,277,304,112,82,43,813,1390,58.20143884892086,Marathi <fedora-trans-mr@redhat.com>
+gnome-clocks,223,0,0,77,0,0,226,223,100.0,Marathi <sshedmak@redhat.com>
+gnome-color-manager,1792,0,0,342,0,0,1522,1792,100.0,Marathi <mr@li.org>
+gnome-commander,275,0,10038,40,0,1856,245,10313,2.666537380005818,Marathi
+gnome-contacts,405,0,0,155,0,0,421,405,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-control-center,6259,0,0,2210,0,0,6278,6259,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-desktop3,146,0,0,23,0,0,148,146,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-dictionary,841,0,0,180,0,0,763,841,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-disk-utility,3423,0,0,632,0,0,3032,3423,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-do,473,0,139,119,0,25,450,612,77.2875816993464,Marathi <mr@li.org>
+gnome-doc-utils,249,0,0,99,0,0,248,249,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-extensions-app,1485,0,0,374,0,0,1403,1485,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-font-viewer,109,0,0,26,0,0,99,109,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-icon-theme,43,0,0,38,0,0,43,43,100.0,marathi
+gnome-initial-setup,585,0,0,103,0,0,545,585,100.0,Marathi <kde-i18n-doc@kde.org>
+gnome-keyring,553,0,0,112,0,0,492,553,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-klotski,65,35,94,40,13,6,78,194,33.50515463917525,Marathi <fedora-trans-mr@redhat.com>
+gnome-mahjongg,87,45,172,38,13,12,105,304,28.618421052631575,Marathi <fedora-trans-mr@redhat.com>
+gnome-menus,70,0,0,27,0,0,69,70,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-mines,94,104,146,26,32,14,94,344,27.325581395348834,Marathi <fedora-trans-mr@redhat.com>
+gnome-nettool,617,0,0,213,0,0,620,617,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-nibbles,129,121,197,46,43,21,134,447,28.859060402684566,Marathi <fedora-trans-mr@redhat.com>
+gnome-online-accounts,692,0,0,147,0,0,655,692,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-packagekit,4390,0,0,681,0,0,4056,4390,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-panel,3520,0,0,508,0,0,3098,3520,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-power-manager,480,0,0,147,0,0,401,480,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-robots,384,94,119,69,21,7,344,597,64.321608040201,Marathi <fedora-trans-mr@redhat.com>
+gnome-screenshot,354,0,0,75,0,0,317,354,100.0,Marathi <sshedmak@redhat.com>
+gnome-session,323,0,0,59,0,0,320,323,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-settings-daemon,2607,0,0,429,0,0,2318,2607,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-shell,1485,0,0,374,0,0,1403,1485,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-shell-extensions,358,0,0,68,0,0,346,358,100.0,Marathi <mr@li.org>
+gnome-shell-frippery,19,0,0,7,0,0,19,19,100.0,Marathi <marathiopensource@yahoogroups.com>
+gnome-software,2,0,3602,1,0,729,2,3604,0.05549389567147614,Marathi (http://www.transifex.com/endless-os/gnome-software/language/mr/)
+gnome-sudoku,23,120,256,13,38,21,46,399,5.764411027568922,Marathi <fedora-trans-mr@redhat.com>
+gnome-system-log,420,0,0,66,0,0,382,420,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-system-monitor,1289,0,0,292,0,0,1164,1289,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-terminal,2209,0,0,442,0,0,2040,2209,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-tetravex,34,81,105,16,14,15,51,220,15.454545454545453,Marathi <fedora-trans-mr@redhat.com>
+gnome-themes-extra,24,0,0,9,0,0,23,24,100.0,Marathi <mr@li.org>
+gnome-user-docs,44257,12746,656,2559,563,23,33981,57659,76.75644738895923,Marathi <kde-i18n-doc@kde.org>
+gnome-user-share,160,0,0,29,0,0,160,160,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-vfs2,1508,0,0,301,0,0,1417,1508,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Marathi <fedora-trans-mr@redhat.com>
+gnote,3592,0,0,543,0,0,3400,3592,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnucash,22133,8564,8900,3665,1301,915,20390,39597,55.89564866025204,Marathi <https://hosted.weblate.org/projects/gnucash/gnucash/mr/>
+gnumeric,2315,4067,28664,686,1464,3492,2182,35046,6.6056040632311825,terna localization Team <hbcse.net>
+gnusim8085,17,0,546,6,0,135,15,563,3.019538188277087,Marathi <https://hosted.weblate.org/projects/gnusim8085/translations/mr/>
+godot3,169,689,284287,64,335,17619,177,285145,0.05926809167265777,Marathi <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/mr/>
+goffice,86,1117,4998,57,531,1413,89,6201,1.3868730849862927,terna localization Team <hbcse.net>
+goodvibes,153,5,186,68,3,50,158,344,44.47674418604651,Marathi <https://hosted.weblate.org/projects/goodvibes/translations/mr/>
+granatier,8,15,220,5,12,49,9,243,3.292181069958848,Marathi <kde-i18n-doc@kde.org>
+granite,324,25,149,95,3,20,326,498,65.06024096385542,Marathi <https://l10n.elementary.io/projects/desktop/granite/mr/>
+granite-7,103,12,254,45,4,37,110,369,27.91327913279133,Marathi <https://l10n.elementary.io/projects/desktop/granite/mr/>
+grantlee-editor,30,32,81,10,14,24,29,143,20.97902097902098,Marathi <kde-i18n-doc@kde.org>
+gtk2,13677,27,0,2781,3,0,11936,13704,99.80297723292469,Marathi <maajhe-sanganak@freelists.org>
+gtk2-engines,119,0,0,47,0,0,124,119,100.0,marathi
+gtk3,14572,0,0,3183,0,0,12445,14572,100.0,Marathi <maajhe-sanganak@freelists.org>
+gtk4,3231,0,0,1142,0,0,3362,3231,100.0,Marathi <maajhe-sanganak@freelists.org>
+gtkhtml3,695,0,0,362,0,0,756,695,100.0,Marathi <fedora-trans-mr@redhat.com>
+gtksourceview2,1120,0,0,448,0,0,1088,1120,100.0,Marathi <fedora-trans-mr@redhat.com>
+gtksourceview3,94,83,145,20,25,61,94,322,29.19254658385093,Marathi <fedora-trans-mr@redhat.com>
+gtksourceview4,1124,0,0,449,0,0,1092,1124,100.0,Marathi <fedora-trans-mr@redhat.com>
+gtksourceview5,1124,0,0,449,0,0,1092,1124,100.0,Marathi <fedora-trans-mr@redhat.com>
+gucharmap,1205,0,0,397,0,0,1202,1205,100.0,Marathi <maajhe-sanganak@freelists.org>
+guestfs-tools,2564,0,13169,424,0,1325,2420,15733,16.29695544397127,Marathi (http://www.transifex.com/projects/p/libguestfs/language/mr/)
+gvfs,2704,0,0,596,0,0,2677,2704,100.0,Marathi <maajhe-sanganak@freelists.org>
+gwenview,875,266,934,286,71,99,924,2075,42.168674698795186,Marathi <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hivex,270,0,0,22,0,0,259,270,100.0,Marathi <https://translate.fedoraproject.org/projects/hivex/master/mr/>
+iagno,34,107,181,16,33,23,52,322,10.559006211180124,Marathi <fedora-trans-mr@redhat.com>
+ibus,911,98,1587,158,17,427,844,2596,35.092449922958394,Marathi <fedora-trans-mr@redhat.com>
+im-chooser,229,0,33,52,0,6,210,262,87.40458015267176,Marathi (http://www.transifex.net/projects/p/im-chooser/team/mr/)
+imsettings,440,10,50,80,2,10,396,500,88.0,Marathi (http://www.transifex.net/projects/p/imsettings/team/mr/)
+incidenceeditor,101,76,2047,75,40,308,124,2224,4.5413669064748206,Marathi <kde-i18n-doc@kde.org>
+initial-setup,33,0,73,7,0,13,30,106,31.132075471698112,Marathi (http://www.transifex.com/projects/p/initial-setup/language/mr/)
+initscripts,720,89,353,107,15,42,722,1162,61.96213425129088,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+inkscape,17348,15567,16653,3965,4307,2156,17195,49568,34.998386055519696,Hindi <Indlinux>
+iso-codes,11853,3003,1052,8275,1427,568,11843,15908,74.50968066381695,Marathi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mr/>
+isomaster,32,1,641,22,1,84,40,674,4.747774480712167,http://littlesvr.ca/ostd/
+juk,1004,169,262,303,18,17,1079,1435,69.96515679442508,Marathi <kde-i18n-doc@kde.org>
+k3b,450,346,19349,267,184,2068,467,20145,2.2338049143708116,Marathi <kde-i18n-doc@kde.org>
+kactivitymanagerd,8,6,1,3,3,1,10,15,53.333333333333336,American English <kde-i18n-doc@kde.org>
+kaddressbook,946,85,119,174,28,38,831,1150,82.26086956521739,Marathi <kde-i18n-doc@kde.org>
+kaffeine,58,95,1240,44,70,383,65,1393,4.1636755204594404,Marathi <kde-i18n-doc@kde.org>
+kaidan,0,0,1794,0,0,379,0,1794,0.0,
+kajongg,53,28,2418,49,23,447,76,2499,2.1208483393357342,Marathi <kde-i18n-doc@kde.org>
+kalarm,133,389,8040,90,172,991,144,8562,1.5533753795842093,Marathi <kde-i18n-doc@kde.org>
+kalgebra,23,30,113,20,16,45,26,166,13.855421686746988,Marathi <kde-i18n-doc@kde.org>
+kalzium,86,125,8882,67,88,1142,93,9093,0.9457824700318926,Marathi <kde-i18n-doc@kde.org>
+kamera,208,59,0,33,3,0,189,267,77.90262172284645,American English <kde-i18n-doc@kde.org>
+kamoso,19,38,88,8,11,23,18,145,13.10344827586207,American English <kde-i18n-doc@kde.org>
+kanagram,17,44,466,11,24,109,21,527,3.225806451612903,Marathi <kde-i18n-doc@kde.org>
+kapman,33,12,70,13,7,16,34,115,28.695652173913043,Marathi <kde-i18n-doc@kde.org>
+kapptemplate,8,7,211,4,5,43,8,226,3.5398230088495577,Marathi <kde-i18n-doc@kde.org>
+kate,689,662,5452,288,233,965,735,6803,10.127884756724974,American English <kde-i18n-doc@kde.org>
+katomic,38,36,110,19,20,20,40,184,20.652173913043477,Marathi <kde-i18n-doc@kde.org>
+kblackbox,6,17,1341,4,10,88,6,1364,0.43988269794721413,Marathi <kde-i18n-doc@kde.org>
+kblocks,125,32,0,26,11,0,122,157,79.61783439490446,Marathi <kde-i18n-doc@kde.org>
+kbounce,30,2,124,17,2,24,31,156,19.230769230769234,Marathi <kde-i18n-doc@kde.org>
+kbrickbuster,31,25,102,16,9,17,31,158,19.62025316455696,Marathi <kde-i18n-doc@kde.org>
+kbruch,17,15,1315,17,12,169,20,1347,1.2620638455827766,Marathi <kde-i18n-doc@kde.org>
+kcachegrind,39,283,3733,35,160,395,50,4055,0.9617755856966708,Marathi <kde-i18n-doc@kde.org>
+kcalc,617,149,345,277,58,57,571,1111,55.535553555355534,Marathi <kde-i18n-doc@kde.org>
+kcalutils,54,99,1286,39,53,302,59,1439,3.7526059763724806,Marathi <kde-i18n-doc@kde.org>
+kcharselect,23,9,60,13,2,21,28,92,25.0,Marathi <kde-i18n-doc@kde.org>
+kcm_wacomtablet,125,76,780,55,35,132,131,981,12.7420998980632,Marathi <kde-i18n-doc@kde.org>
+kcolorchooser,14,10,5,6,2,2,14,29,48.275862068965516,American English <kde-i18n-doc@kde.org>
+kcron,112,105,219,81,68,42,108,436,25.688073394495415,Marathi <kde-i18n-doc@kde.org>
+kde-cli-tools,1207,304,92,128,25,16,1097,1603,75.29631940112289,Marathi <kde-i18n-doc@kde.org>
+kde-dev-utils,42,16,38,19,3,12,49,96,43.75,Marathi <kde-i18n-doc@kde.org>
+kde-l10n,28952,1041,42165,7192,344,5302,28245,72158,40.123063277807034,Marathi <kde-i18n-doc@kde.org>
+kde-partitionmanager,181,102,2006,119,39,378,197,2289,7.907383136740935,Marathi <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,0,10,897,0,6,103,0,907,0.0,American English <kde-i18n-doc@kde.org>
+kdenlive,181,5692,22811,147,2406,3266,188,28684,0.6310138056059127,Marathi <kde-i18n-doc@kde.org>
+kdepim-addons,827,80,650,107,31,96,767,1557,53.114964675658314,Marathi <kde-i18n-doc@kde.org>
+kdepim-runtime,329,99,5270,123,47,685,358,5698,5.773955773955774,Marathi <kde-i18n-doc@kde.org>
+kdeplasma-addons,136,507,744,58,199,213,146,1387,9.805335255948089,Marathi <kde-i18n-doc@kde.org>
+kdesdk-kioslaves,9,0,75,4,0,13,9,84,10.714285714285714,Marathi <kde-i18n-doc@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Marathi <kde-i18n-doc@kde.org>
+kdevelop,211,940,10462,102,526,1703,224,11613,1.8169293033669165,Marathi <kde-i18n-doc@kde.org>
+kdevelop-php,21,6,508,10,2,62,23,535,3.925233644859813,Marathi <kde-i18n-doc@kde.org>
+kdf,78,6,93,46,3,22,89,177,44.06779661016949,Marathi <kde-i18n-doc@kde.org>
+kdialog,217,98,88,49,12,17,218,403,53.84615384615385,Marathi <kde-i18n-doc@kde.org>
+kdiamond,39,11,74,17,4,12,38,124,31.451612903225808,Marathi <kde-i18n-doc@kde.org>
+kdiff3,25,162,3195,17,83,512,31,3382,0.7392075694855115,Marathi <kde-i18n-doc@kde.org>
+kdnssd,21,9,0,6,1,0,19,30,70.0,Marathi <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,83,11,100,14,3,5,77,194,42.78350515463917,Marathi <fedora-trans-mr@redhat.com>
+keditbookmarks,385,23,62,125,6,2,450,470,81.91489361702128,Marathi <kde-i18n-doc@kde.org>
+kexi,258,779,6328,191,226,1077,321,7365,3.5030549898167007,Marathi <kde-i18n-doc@kde.org>
+kf5-akonadi-calendar,84,43,2021,45,20,281,107,2148,3.910614525139665,Marathi <kde-i18n-doc@kde.org>
+kf5-akonadi-contacts,40,117,959,37,63,176,43,1116,3.584229390681003,Marathi <kde-i18n-doc@kde.org>
+kf5-akonadi-mime,91,137,352,29,23,62,103,580,15.689655172413794,Marathi <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Marathi <kde-i18n-doc@kde.org>
+kf5-akonadi-server,92,96,2408,42,42,357,100,2596,3.5439137134052388,Marathi <kde-i18n-doc@kde.org>
+kf5-calendarsupport,1057,501,1221,166,89,136,959,2779,38.0352644836272,Marathi <kde-i18n-doc@kde.org>
+kf5-eventviews,100,19,2830,60,11,236,115,2949,3.39097999321804,Marathi <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,110,60,2038,81,31,308,136,2208,4.981884057971015,Marathi <kde-i18n-doc@kde.org>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Marathi <kde-i18n-doc@kde.org>
+kf5-kblog,6,0,237,2,0,25,6,243,2.4691358024691357,Marathi <kde-i18n-doc@kde.org>
+kf5-kbookmarks,57,58,115,20,17,12,52,230,24.782608695652176,American English <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,54,99,1284,39,53,301,59,1437,3.7578288100208765,Marathi <kde-i18n-doc@kde.org>
+kf5-kcmutils,183,34,49,22,13,3,170,266,68.796992481203,Marathi <kde-i18n-doc@kde.org>
+kf5-kcodecs,27,28,315,19,17,17,27,370,7.297297297297297,Marathi <kde-i18n-doc@kde.org>
+kf5-kcompletion,15,3,0,9,2,0,16,18,83.33333333333334,Marathi <kde-i18n-doc@kde.org>
+kf5-kconfig,0,50,239,0,5,99,0,289,0.0,Marathi <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,291,41,10,102,19,4,359,342,85.08771929824562,Marathi <kde-i18n-doc@kde.org>
+kf5-kcontacts,38,12,127,36,10,62,38,177,21.468926553672315,Marathi <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,182,137,63,66,36,30,172,382,47.64397905759162,Marathi <kde-i18n-doc@kde.org>
+kf5-kdeclarative,14,38,109,7,7,11,21,161,8.695652173913043,Marathi <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,3488,263,1602,2138,98,308,3537,5353,65.15972351952176,Marathi <kde-i18n-doc@kde.org>
+kf5-knotifications,10,11,0,2,6,0,10,21,47.61904761904761,Marathi <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,43,0,86,15,0,2,44,129,33.33333333333333,Marathi <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Marathi <kde-i18n-doc@kde.org>
+kf5-kpackage,179,56,217,39,11,23,187,452,39.60176991150443,Marathi <kde-i18n-doc@kde.org>
+kf5-kparts,104,27,7,26,3,1,100,138,75.36231884057972,Marathi <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,34,16,332,26,11,130,39,382,8.900523560209423,Marathi <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,18,15,100.0,Marathi <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,100,100,100.0,Marathi <kde-i18n-doc@kde.org>
+kf5-kservice,124,21,28,22,2,4,130,173,71.67630057803468,Marathi <kde-i18n-doc@kde.org>
+kf5-ksmtp,2,3,81,2,1,9,3,86,2.3255813953488373,Marathi <kde-i18n-doc@kde.org>
+kf5-ktexteditor,1098,608,7527,441,166,657,1196,9233,11.892126069533196,Marathi <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,414,13,46,119,9,2,433,473,87.52642706131078,Marathi <kde-i18n-doc@kde.org>
+kf5-ktnef,11,2,342,10,2,131,12,355,3.0985915492957745,Marathi <kde-i18n-doc@kde.org>
+kf5-kunitconversion,757,405,4595,389,167,1927,748,5757,13.149209657807887,American English <kde-i18n-doc@kde.org>
+kf5-kwallet,534,311,490,53,7,28,505,1335,40.0,Marathi <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,782,448,63,304,142,17,824,1293,60.47950502706884,Marathi <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Marathi <kde-i18n-doc@kde.org>
+kf5-kxmlgui,506,371,697,114,95,21,472,1574,32.14739517153748,Marathi <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Marathi <kde-i18n-doc@kde.org>
+kf5-libkcddb,394,0,6,209,0,2,387,400,98.5,Marathi <kde-i18n-doc@kde.org>
+kf5-libkdepim,2,0,33,2,0,8,2,35,5.714285714285714,Marathi <kde-i18n-doc@kde.org>
+kf5-libkgapi,0,12,366,0,4,81,0,378,0.0,Marathi <kde-i18n-doc@kde.org>
+kf5-libkgeomap,29,0,110,14,0,32,29,139,20.863309352517987,Marathi <kde-i18n-doc@kde.org>
+kf5-libkleo,35,39,2349,22,26,382,43,2423,1.4444903012794057,Marathi <kde-i18n-doc@kde.org>
+kf5-libksieve,105,166,2851,74,82,381,117,3122,3.3632286995515694,Marathi <kde-i18n-doc@kde.org>
+kf5-libktorrent,40,0,425,23,0,82,50,465,8.60215053763441,Marathi <kde-i18n-doc@kde.org>
+kf5-mailcommon,107,69,2579,74,40,384,126,2755,3.8838475499092557,Marathi <kde-i18n-doc@kde.org>
+kf5-mailimporter,11,2,1395,8,1,118,13,1408,0.78125,Marathi <kde-i18n-doc@kde.org>
+kf5-messagelib,687,222,6855,355,102,895,792,7764,8.848531684698608,Marathi <kde-i18n-doc@kde.org>
+kf5-pimcommon,28,40,762,22,23,163,43,830,3.3734939759036147,Marathi <kde-i18n-doc@kde.org>
+kf5-plasma,17,17,328,10,6,89,17,362,4.696132596685083,Marathi <kde-i18n-doc@kde.org>
+kf5-solid,283,34,271,119,11,29,273,588,48.12925170068027,American English <kde-i18n-doc@kde.org>
+kf5-sonnet,219,22,442,64,4,8,227,683,32.06442166910688,Marathi <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,0,137,510,0,96,287,0,647,0.0,Marathi <kde-i18n-doc@kde.org>
+kf6-kauth,0,34,39,0,3,5,0,73,0.0,Marathi <kde-i18n-doc@kde.org>
+kf6-kbookmarks,50,46,83,17,14,7,45,179,27.932960893854748,American English <kde-i18n-doc@kde.org>
+kf6-kcmutils,31,38,54,7,14,5,32,123,25.203252032520325,Marathi <kde-i18n-doc@kde.org>
+kf6-kcodecs,27,28,315,19,17,17,27,370,7.297297297297297,Marathi <kde-i18n-doc@kde.org>
+kf6-kcompletion,15,3,0,9,2,0,16,18,83.33333333333334,Marathi <kde-i18n-doc@kde.org>
+kf6-kconfig,0,50,500,0,5,199,0,550,0.0,Marathi <kde-i18n-doc@kde.org>
+kf6-kconfigwidgets,241,57,14,81,31,5,290,312,77.24358974358975,Marathi <kde-i18n-doc@kde.org>
+kf6-kcontacts,32,12,124,30,10,60,32,168,19.047619047619047,Marathi <kde-i18n-doc@kde.org>
+kf6-kcoreaddons,169,176,107,63,50,43,162,452,37.389380530973455,Marathi <kde-i18n-doc@kde.org>
+kf6-kdeclarative,9,46,114,4,8,9,10,169,5.325443786982249,Marathi <kde-i18n-doc@kde.org>
+kf6-kdnssd,3,0,0,3,0,0,3,3,100.0,Marathi <kde-i18n-doc@kde.org>
+kf6-kdoctools,8,0,0,4,0,0,16,8,100.0,American English <kde-i18n-doc@kde.org>
+kf6-kglobalaccel,22,12,0,4,1,0,25,34,64.70588235294117,Marathi <kde-i18n-doc@kde.org>
+kf6-kholidays,0,14,136,0,13,84,0,150,0.0,Marathi <kde-i18n-doc@kde.org>
+kf6-ki18n,123,1,0,109,1,0,123,124,99.19354838709677,Marathi <kde-i18n-doc@kde.org>
+kf6-kiconthemes,11,6,29,10,4,8,12,46,23.91304347826087,American English <kde-i18n-doc@kde.org>
+kf6-kio,949,656,6935,333,202,586,1035,8540,11.112412177985949,Marathi <kde-i18n-doc@kde.org>
+kf6-kitemviews,0,6,0,0,3,0,0,6,0.0,Marathi <kde-i18n-doc@kde.org>
+kf6-kjobwidgets,123,13,0,36,4,0,136,136,90.44117647058823,Marathi <kde-i18n-doc@kde.org>
+kf6-knewstuff,105,157,776,18,65,48,103,1038,10.115606936416185,Marathi <kde-i18n-doc@kde.org>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,Marathi <kde-i18n-doc@kde.org>
+kf6-knotifyconfig,19,0,0,7,0,0,17,19,100.0,Marathi <kde-i18n-doc@kde.org>
+kf6-kpackage,142,58,138,25,13,20,149,338,42.01183431952663,Marathi <kde-i18n-doc@kde.org>
+kf6-kparts,35,15,7,8,2,1,35,57,61.40350877192983,Marathi <kde-i18n-doc@kde.org>
+kf6-kpty,15,0,0,4,0,0,18,15,100.0,Marathi <kde-i18n-doc@kde.org>
+kf6-kservice,36,0,9,11,0,1,43,45,80.0,Marathi <kde-i18n-doc@kde.org>
+kf6-ktexteditor,1073,788,7602,428,220,671,1163,9463,11.338898869280355,Marathi <kde-i18n-doc@kde.org>
+kf6-ktextwidgets,407,20,46,115,13,2,421,473,86.04651162790698,Marathi <kde-i18n-doc@kde.org>
+kf6-kunitconversion,757,425,4667,389,172,1943,748,5849,12.942383313386904,American English <kde-i18n-doc@kde.org>
+kf6-kwallet,534,316,486,53,8,27,505,1336,39.970059880239525,Marathi <kde-i18n-doc@kde.org>
+kf6-kwidgetsaddons,773,441,63,297,151,18,807,1277,60.53249804228661,Marathi <kde-i18n-doc@kde.org>
+kf6-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Marathi <kde-i18n-doc@kde.org>
+kf6-kxmlgui,413,297,564,101,75,20,388,1274,32.417582417582416,Marathi <kde-i18n-doc@kde.org>
+kf6-solid,282,34,289,118,11,37,272,605,46.611570247933884,American English <kde-i18n-doc@kde.org>
+kf6-sonnet,213,24,447,62,6,9,222,684,31.140350877192986,Marathi <kde-i18n-doc@kde.org>
+kf6-syntax-highlighting,0,149,553,0,101,306,0,702,0.0,Marathi <kde-i18n-doc@kde.org>
+kfind,184,98,235,73,35,9,197,517,35.5899419729207,Marathi <kde-i18n-doc@kde.org>
+kfloppy,28,0,613,17,0,83,32,641,4.368174726989079,Marathi <kde-i18n-doc@kde.org>
+kfourinline,43,31,310,33,20,101,49,384,11.197916666666668,Marathi <kde-i18n-doc@kde.org>
+kgamma,38,0,0,15,0,0,38,38,100.0,American English <kde-i18n-doc@kde.org>
+kgeography,4630,2321,3092,3460,1613,2167,4615,10043,46.101762421587175,Hindi <kde-i18n-doc@kde.org>
+kget,964,45,1758,441,19,282,1113,2767,34.83917600289122,American English <kde-i18n-doc@kde.org>
+kgoldrunner,58,130,27859,43,74,900,59,28047,0.20679573572931154,Marathi <kde-i18n-doc@kde.org>
+kgpg,159,31,4722,104,19,564,195,4912,3.236970684039088,Marathi <kde-i18n-doc@kde.org>
+kgraphviewer,67,15,1107,39,9,164,74,1189,5.634987384356602,Marathi <kde-i18n-doc@kde.org>
+khangman,161,25,263,60,9,47,164,449,35.85746102449889,Marathi <kde-i18n-doc@kde.org>
+khelpcenter,181,23,17,70,8,6,208,221,81.90045248868778,Marathi <kde-i18n-doc@kde.org>
+kidentitymanagement,11,11,238,7,6,41,11,260,4.230769230769231,Marathi <kde-i18n-doc@kde.org>
+kig,58,75,7324,46,53,1177,71,7457,0.7777926780206518,Marathi <kde-i18n-doc@kde.org>
+kigo,47,21,440,29,12,92,54,508,9.251968503937007,Marathi <kde-i18n-doc@kde.org>
+kile,253,322,12293,194,205,1777,308,12868,1.9661175007771214,Marathi <kde-i18n-doc@kde.org>
+killbots,7,54,576,4,36,87,7,637,1.098901098901099,Marathi <kde-i18n-doc@kde.org>
+kimap,16,1,101,16,1,34,22,118,13.559322033898304,Marathi <kde-i18n-doc@kde.org>
+kinfocenter,19,61,82,13,32,33,19,162,11.728395061728394,American English <kde-i18n-doc@kde.org>
+kio-extras,674,467,1567,108,67,78,650,2708,24.889217134416544,Marathi <kde-i18n-doc@kde.org>
+kio-extras-kf5,506,300,175,80,26,22,492,981,51.58002038735984,Marathi <kde-i18n-doc@kde.org>
+kio_gopher,5,0,12,2,0,3,6,17,29.411764705882355,Marathi <kde-i18n-doc@kde.org>
+kiriki,21,6,118,13,6,32,21,145,14.482758620689657,Marathi <kde-i18n-doc@kde.org>
+kiten,25,25,601,18,17,137,28,651,3.840245775729647,Marathi <kde-i18n-doc@kde.org>
+kjots,20,19,612,13,8,113,23,651,3.0721966205837172,Marathi <kde-i18n-doc@kde.org>
+kjumpingcube,35,6,372,21,3,71,35,413,8.47457627118644,Marathi <kde-i18n-doc@kde.org>
+kldap,36,12,167,26,7,29,36,215,16.74418604651163,Marathi <kde-i18n-doc@kde.org>
+kleopatra,73,1934,11644,47,576,1361,83,13651,0.53475935828877,Marathi <kde-i18n-doc@kde.org>
+klettres,45,2,393,27,1,57,51,440,10.227272727272728,Marathi <kde-i18n-doc@kde.org>
+klickety,24,10,144,15,8,39,24,178,13.48314606741573,Marathi <kde-i18n-doc@kde.org>
+klines,22,11,66,12,6,10,22,99,22.22222222222222,Marathi <kde-i18n-doc@kde.org>
+kmag,78,0,354,42,0,56,100,432,18.055555555555554,Marathi <kde-i18n-doc@kde.org>
+kmahjongg,27,14,318,16,8,75,30,359,7.520891364902507,Marathi <kde-i18n-doc@kde.org>
+kmail,3770,2766,2471,524,584,325,3688,9007,41.85633396247363,Marathi <kde-i18n-doc@kde.org>
+kmail-account-wizard,13,36,229,8,20,62,15,278,4.676258992805756,Marathi <kde-i18n-doc@kde.org>
+kmailtransport,32,15,622,24,12,71,42,669,4.783258594917788,Marathi <kde-i18n-doc@kde.org>
+kmenuedit,147,19,112,50,5,9,169,278,52.87769784172662,Marathi <kde-i18n-doc@kde.org>
+kmime,0,0,152,0,0,6,0,152,0.0,Marathi <kde-i18n-doc@kde.org>
+kmines,51,4,109,26,3,19,49,164,31.097560975609756,Marathi <kde-i18n-doc@kde.org>
+kmix,506,283,370,131,53,43,487,1159,43.65832614322692,American English <kde-i18n-doc@kde.org>
+kmousetool,32,0,115,18,0,14,45,147,21.768707482993197,Marathi <kde-i18n-doc@kde.org>
+kmouth,64,0,1410,47,0,155,92,1474,4.341926729986431,Marathi <kde-i18n-doc@kde.org>
+kmplot,48,91,2362,37,62,387,57,2501,1.919232307077169,Marathi <kde-i18n-doc@kde.org>
+kmymoney,548,650,20853,363,407,2932,581,22051,2.485148065847354,Marathi <kde-i18n-doc@kde.org>
+knavalbattle,24,8,369,15,4,85,28,401,5.985037406483791,Marathi <kde-i18n-doc@kde.org>
+knetwalk,29,4,203,13,2,41,29,236,12.288135593220339,Marathi <kde-i18n-doc@kde.org>
+knights,58,34,706,44,25,169,61,798,7.268170426065162,Marathi <kde-i18n-doc@kde.org>
+knotes,75,59,467,41,31,118,86,601,12.479201331114808,Marathi <kde-i18n-doc@kde.org>
+kolf,18,33,354,13,24,113,19,405,4.444444444444445,Marathi <kde-i18n-doc@kde.org>
+kollision,39,4,66,16,2,12,44,109,35.77981651376147,Marathi <kde-i18n-doc@kde.org>
+kolourpaint,2359,182,114,427,12,16,2444,2655,88.85122410546138,Marathi <kde-i18n-doc@kde.org>
+kompare,8,101,1304,5,59,136,8,1413,0.5661712668082095,Marathi <kde-i18n-doc@kde.org>
+konqueror,2635,301,5488,674,83,472,2807,8424,31.279677113010447,Marathi <kde-i18n-doc@kde.org>
+konquest,29,5,214,21,4,74,35,248,11.693548387096774,Marathi <kde-i18n-doc@kde.org>
+konsole,990,870,2439,260,246,391,981,4299,23.02861130495464,Marathi <kde-i18n-doc@kde.org>
+konsole5,1018,766,2212,264,222,354,1002,3996,25.475475475475474,Marathi <kde-i18n-doc@kde.org>
+kontact,289,107,94,48,27,12,274,490,58.97959183673469,Marathi <kde-i18n-doc@kde.org>
+kontactinterface,4,0,0,2,0,0,4,4,100.0,Marathi <kde-i18n-doc@kde.org>
+konversation,331,25,10042,243,14,1392,435,10398,3.183304481631083,Marathi <kde-i18n-doc@kde.org>
+kopete,946,227,16002,635,159,2501,1154,17175,5.508005822416303,Marathi <kde-i18n-doc@kde.org>
+korganizer,3519,2079,1542,500,347,144,3399,7140,49.28571428571429,Marathi <kde-i18n-doc@kde.org>
+kpat,27,10,552,15,7,191,27,589,4.584040747028863,Marathi <kde-i18n-doc@kde.org>
+kphotoalbum,267,232,8544,178,102,828,300,9043,2.9525599911533784,American English <kde-i18n-doc@kde.org>
+kpimtextedit,20,36,218,15,25,83,24,274,7.2992700729927,Marathi <kde-i18n-doc@kde.org>
+kpmcore,66,1405,1816,49,191,258,75,3287,2.0079099482811076,Marathi <kde-i18n-doc@kde.org>
+krdc,172,34,986,77,19,200,187,1192,14.429530201342283,American English <kde-i18n-doc@kde.org>
+kreport,0,12,32,0,7,14,0,44,0.0,Marathi <kde-i18n-doc@kde.org>
+kreversi,50,20,334,23,11,99,51,404,12.376237623762377,Marathi <kde-i18n-doc@kde.org>
+krfb,200,34,500,50,10,44,197,734,27.247956403269757,American English <kde-i18n-doc@kde.org>
+krita,2678,14598,18710,1008,5522,2028,2652,35986,7.441782915578281,American English <kde-i18n-doc@kde.org>
+kruler,104,41,13,35,3,6,85,158,65.82278481012658,American English <kde-i18n-doc@kde.org>
+krusader,275,504,7320,196,252,1313,318,8099,3.3954809235708114,Marathi <kde-i18n-doc@kde.org>
+kscreenlocker,16,12,182,3,1,12,16,210,7.6190476190476195,American English <kde-i18n-doc@kde.org>
+kshisen,34,5,628,24,2,49,35,667,5.097451274362818,Marathi <kde-i18n-doc@kde.org>
+ksirk,118,43,4564,92,25,464,130,4725,2.497354497354497,Marathi <kde-i18n-doc@kde.org>
+ksmtp,2,3,81,2,1,9,3,86,2.3255813953488373,Marathi <kde-i18n-doc@kde.org>
+ksnakeduel,19,4,220,9,3,44,19,243,7.818930041152264,Marathi <kde-i18n-doc@kde.org>
+kspaceduel,22,13,130,15,11,55,26,165,13.333333333333334,Marathi <kde-i18n-doc@kde.org>
+ksquares,35,4,254,21,3,63,35,293,11.945392491467576,Marathi <kde-i18n-doc@kde.org>
+kstars,293,7922,50544,255,3727,8659,319,58759,0.49864701577630666,Marathi <kde-i18n-doc@kde.org>
+ksudoku,24,29,1691,13,16,134,26,1744,1.3761467889908259,Marathi <kde-i18n-doc@kde.org>
+ksystemlog,252,19,2830,147,8,333,312,3101,8.126410835214447,American English <kde-i18n-doc@kde.org>
+kteatime,58,7,138,25,4,38,60,203,28.57142857142857,Marathi <kde-i18n-doc@kde.org>
+ktimer,31,0,227,23,0,30,35,258,12.015503875968992,Marathi <kde-i18n-doc@kde.org>
+ktnef,11,2,342,10,2,131,12,355,3.0985915492957745,Marathi <kde-i18n-doc@kde.org>
+ktorrent,291,62,7139,223,31,1114,339,7492,3.8841430859583554,Marathi <kde-i18n-doc@kde.org>
+ktouch,34,35,895,28,27,204,36,964,3.5269709543568464,Marathi <kde-i18n-doc@kde.org>
+ktp-contact-runner,35,8,165,19,4,20,39,208,16.826923076923077,Marathi <kde-i18n-doc@kde.org>
+ktuberling,60,7,91,26,3,9,64,158,37.9746835443038,Marathi <kde-i18n-doc@kde.org>
+kturtle,34,86,1418,27,71,251,40,1538,2.2106631989596877,Marathi <kde-i18n-doc@kde.org>
+kubrick,14,15,1184,8,8,152,16,1213,1.1541632316570487,Marathi <kde-i18n-doc@kde.org>
+kwalletmanager5,168,62,598,74,22,72,195,828,20.28985507246377,American English <kde-i18n-doc@kde.org>
+kwebkitpart,328,21,320,122,2,41,374,669,49.02840059790732,Marathi <kde-i18n-doc@kde.org>
+kwin,1050,1037,4319,293,353,580,1082,6406,16.390883546674992,Marathi <kde-i18n-doc@kde.org>
+kwin-x11,1050,1037,4319,293,353,580,1082,6406,16.390883546674992,Marathi <kde-i18n-doc@kde.org>
+kwordquiz,10,22,222,5,15,73,9,254,3.937007874015748,Marathi <kde-i18n-doc@kde.org>
+libbonobo,543,0,0,107,0,0,517,543,100.0,marathi
+libbonoboui,368,0,0,115,0,0,387,368,100.0,marathi
+libcryptui,3042,0,0,655,0,0,3044,3042,100.0,Marathi <fedora-trans-mr@redhat.com>
+libdnf,2,0,1662,1,0,237,3,1664,0.1201923076923077,Marathi
+libgdata,597,0,0,74,0,0,506,597,100.0,Marathi <fedora-trans-mr@redhat.com>
+libgdl,611,0,0,96,0,0,499,611,100.0,marathi
+libgedit-gtksourceview,93,76,150,19,18,57,93,319,29.153605015673982,Marathi <fedora-trans-mr@redhat.com>
+libgnome-keyring,44,0,0,9,0,0,38,44,100.0,Marathi <mr@li.org>
+libgnomecanvas,378,0,0,95,0,0,324,378,100.0,marathi
+libgnomekbd,187,0,0,39,0,0,162,187,100.0,Marathi <fedora-trans-mr@redhat.com>
+libgnomeui,1309,0,0,334,0,0,1245,1309,100.0,marathi
+libgtop2,126,0,0,40,0,0,127,126,100.0,marathi
+libguestfs,2299,645,4461,395,13,553,2180,7405,31.04659014179608,Marathi (http://www.transifex.com/projects/p/libguestfs/language/mr/)
+libgweather,6108,0,0,4521,0,0,6071,6108,100.0,Marathi <fedora-trans-mr@redhat.com>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkcddb,393,1,6,208,1,2,386,400,98.25,Marathi <kde-i18n-doc@kde.org>
+libkcompactdisc,15,0,0,10,0,0,22,15,100.0,Marathi <kde-i18n-doc@kde.org>
+libkdegames,23,15,278,20,11,93,34,316,7.2784810126582276,Marathi <kde-i18n-doc@kde.org>
+libkdepim,2,0,34,2,0,9,2,36,5.555555555555555,Marathi <kde-i18n-doc@kde.org>
+libkeduvocdocument,28,0,143,19,0,62,28,171,16.374269005847953,Marathi <kde-i18n-doc@kde.org>
+libkgapi,0,12,366,0,4,81,0,378,0.0,Marathi <kde-i18n-doc@kde.org>
+libkleo,25,63,2929,16,38,487,28,3017,0.8286377195889957,Marathi <kde-i18n-doc@kde.org>
+libkmahjongg,5,3,3,5,3,3,5,11,45.45454545454545,Marathi <kde-i18n-doc@kde.org>
+libkomparediff2,0,16,127,0,6,13,0,143,0.0,Marathi <kde-i18n-doc@kde.org>
+libksane,216,21,47,67,11,14,224,284,76.05633802816901,American English <kde-i18n-doc@kde.org>
+libksieve,62,244,2826,51,118,374,73,3132,1.979565772669221,Marathi <kde-i18n-doc@kde.org>
+libksysguard,33,7,552,23,4,98,36,592,5.574324324324325,American English <kde-i18n-doc@kde.org>
+libktorrent,40,0,425,23,0,82,50,465,8.60215053763441,Marathi <kde-i18n-doc@kde.org>
+libmatekbd,187,0,121,47,0,44,177,308,60.71428571428571,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+libmatemixer,12,0,230,11,0,115,14,242,4.958677685950414,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+libmateweather,6037,0,106,4499,0,76,6011,6143,98.27445873351782,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+libmypaint,119,2,2182,24,1,137,113,2303,5.167173252279635,Marathi <https://hosted.weblate.org/projects/mypaint/libmypaint/mr/>
+libnma,197,330,280,62,67,54,204,807,24.411400247831473,Marathi <fedora-trans-mr@redhat.com>
+libpeas,110,0,0,31,0,0,115,110,100.0,Marathi <mr@li.org>
+libpeas1,110,0,0,31,0,0,115,110,100.0,Marathi <mr@li.org>
+libplasma,3,19,250,2,6,46,3,272,1.1029411764705883,Marathi <kde-i18n-doc@kde.org>
+libpwquality,333,0,12,50,0,1,273,345,96.52173913043478,Marathi <sshedmak@redhat.com>
+libreoffice,58609,12598,99878,19692,4468,14576,57388,171085,34.25724055294152,LANGUAGE <LL@li.org>
+libreport,2431,39,2458,378,4,221,2364,4928,49.330357142857146,Marathi (http://www.transifex.com/projects/p/libreport/language/mr/)
+libsoup,110,0,0,25,0,0,108,110,100.0,Marathi <maajhe-sanganak@freelists.org>
+libsoup3,110,0,0,25,0,0,108,110,100.0,Marathi <maajhe-sanganak@freelists.org>
+libuser,990,38,409,212,7,82,1013,1437,68.89352818371609,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+libvirt,34406,16295,18547,5660,2468,2312,33030,69248,49.68518946395564,Marathi (http://www.transifex.com/projects/p/libvirt/language/mr/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+libwnck,1124,0,0,241,0,0,1091,1124,100.0,marathi
+libwnck3,1086,0,0,231,0,0,1049,1086,100.0,Marathi <maajhe-sanganak@freelists.org>
+libzypp,1163,304,1283,751,68,177,1160,2750,42.29090909090909,AgreeYa Solutions <linux_team@agreeya.com>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Marathi (http://www.transifex.com/the_cavalry/light-locker/language/mr/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Marathi <mr@li.org>
+lightdm-settings,39,0,316,13,0,61,37,355,10.985915492957748,Marathi <mr@li.org>
+lightsoff,10,33,54,5,10,4,28,97,10.309278350515463,Marathi <fedora-trans-mr@redhat.com>
+lokalize,74,170,3890,63,101,516,79,4134,1.7900338655055636,Marathi <kde-i18n-doc@kde.org>
+lskat,55,23,188,34,10,45,59,266,20.676691729323306,Marathi <kde-i18n-doc@kde.org>
+lxmenu-data,97,0,0,37,0,0,98,97,100.0,marathi
+magpie,1829,0,0,237,0,0,1679,1829,100.0,Marathi <maajhe-sanganak@freelists.org>
+mailcommon,77,186,2540,59,90,365,89,2803,2.7470567249375666,Marathi <kde-i18n-doc@kde.org>
+mailimporter,11,2,1392,8,1,117,13,1405,0.7829181494661922,Marathi <kde-i18n-doc@kde.org>
+maliit-keyboard,37,4,40,34,2,25,37,81,45.67901234567901,Marathi <mr@li.org>
+manafirewall,2,0,1095,2,0,131,2,1097,0.18231540565177756,Marathi (https://www.transifex.com/MageiaLinux/teams/9361/mr/)
+marble,38,1148,10244,18,674,2637,39,11430,0.3324584426946631,Marathi <kde-i18n-doc@kde.org>
+marco,3174,0,997,369,0,64,2938,4171,76.09685926636298,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+massif-visualizer,18,3,339,11,3,97,22,360,5.0,Marathi <kde-i18n-doc@kde.org>
+mate-applets,2079,0,14027,518,0,1137,2018,16106,12.908232956662113,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-backgrounds,30,0,25,21,0,8,30,55,54.54545454545454,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-calc,1286,0,2041,472,0,279,1278,3327,38.65344153892396,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-control-center,2811,22,5427,1035,7,485,2789,8260,34.03147699757869,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-desktop,1359,6,1047,202,2,91,1212,2412,56.343283582089555,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-media,136,0,108,59,0,41,152,244,55.73770491803278,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-menu,64,0,244,35,0,75,67,308,20.77922077922078,Marathi (http://www.transifex.com/mate/MATE/language/mr/)
+mate-menus,98,0,5,38,0,1,99,103,95.14563106796116,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-notification-daemon,81,0,105,31,0,22,84,186,43.54838709677419,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-panel,3833,2,2918,560,1,261,3426,6753,56.75995853694654,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-polkit,104,0,19,18,0,3,106,123,84.5528455284553,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-power-manager,2254,3,2866,372,1,179,1941,5123,43.99765762248683,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-screensaver,868,0,233,147,0,29,790,1101,78.83742052679382,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-sensors-applet,302,0,1858,112,0,114,301,2160,13.981481481481481,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-session-manager,437,0,280,103,0,30,445,717,60.94839609483961,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-settings-daemon,1177,0,1026,207,0,111,1084,2203,53.427144802541996,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-system-monitor,551,0,4343,209,0,452,552,4894,11.258684102983246,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-terminal,4003,0,4235,507,0,258,3283,8238,48.59189123573683,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-themes,10,0,64,4,0,19,11,74,13.513513513513514,Marathi (http://app.transifex.com/mate/MATE/language/mr/)
+mate-user-admin,19,0,586,15,0,111,25,605,3.1404958677685952,Marathi (https://www.transifex.com/mate/teams/13566/mr/)
+mate-user-guide,147,0,42826,87,0,3141,155,42973,0.34207525655644244,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+mate-utils,3139,0,6762,609,0,462,2931,9901,31.703868296131706,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+messagelib,616,423,6583,319,197,870,705,7622,8.081868276043034,Marathi <kde-i18n-doc@kde.org>
+metacity,2040,0,0,310,0,0,1965,2040,100.0,Marathi <maajhe-sanganak@freelists.org>
+minetest,355,59,9262,113,19,1203,361,9676,3.6688714344770563,Marathi <https://hosted.weblate.org/projects/minetest/minetest/mr/>
+mingw-GConf2,4024,0,0,485,0,0,3849,4024,100.0,Marathi <fedora-trans-mr@redhat.com>
+mingw-atk,375,0,0,126,0,0,347,375,100.0,marathi
+mingw-colord,25,0,363,8,0,91,23,388,6.443298969072164,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,1288,60,0,197,5,0,1322,1348,95.54896142433235,Marathi <fedora-trans-mr@redhat.com>
+mingw-glib-networking,135,0,0,24,0,0,124,135,100.0,Marathi <fedora-trans-mr@redhat.com>
+mingw-glib2,5703,0,0,905,0,0,5424,5703,100.0,Marathi <maajhe-sanganak@freelists.org>
+mingw-gtk2,13677,27,0,2781,3,0,11936,13704,99.80297723292469,Marathi <maajhe-sanganak@freelists.org>
+mingw-gtk3,14572,0,0,3183,0,0,12445,14572,100.0,Marathi <maajhe-sanganak@freelists.org>
+mingw-gtk4,3231,0,0,1142,0,0,3362,3231,100.0,Marathi <maajhe-sanganak@freelists.org>
+mingw-gtksourceview3,94,83,145,20,25,61,94,322,29.19254658385093,Marathi <fedora-trans-mr@redhat.com>
+mingw-libsoup,110,0,0,25,0,0,108,110,100.0,Marathi <maajhe-sanganak@freelists.org>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Marathi (http://www.transifex.com/freedesktop/p11-kit/language/mr/)
+mousetweaks,715,0,0,94,0,0,631,715,100.0,Marathi <fedora-trans-mr@redhat.com>
+mozo,43,0,3,21,0,3,54,46,93.47826086956522,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+muffin,1829,0,0,237,0,0,1679,1829,100.0,Marathi <maajhe-sanganak@freelists.org>
+multimedia-menus,56,0,0,22,0,0,57,56,100.0,Marathi <fedora-trans-mr@redhat.com>
+mutter,1829,0,0,237,0,0,1679,1829,100.0,Marathi <maajhe-sanganak@freelists.org>
+mypaint,340,16,6025,147,8,1115,360,6381,5.328318445384736,Marathi <https://hosted.weblate.org/projects/mypaint/mypaint/mr/>
+nautilus,6114,0,0,1030,0,0,5696,6114,100.0,Marathi <maajhe-sanganak@freelists.org>
+network-manager-applet,898,1482,2059,273,292,309,961,4439,20.229781482315836,Marathi <fedora-trans-mr@redhat.com>
+newt,4,0,0,4,0,0,4,4,100.0,"Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii [at] cdacmumbai [dot] in>"
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Marathi <mr@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+obs-cef,0,0,0,0,0,0,0,0,0.0,
+okteta,273,106,2159,154,78,386,307,2538,10.756501182033098,Marathi <kde-i18n-doc@kde.org>
+okular,1703,1262,2865,480,375,413,1593,5830,29.21097770154374,Marathi <kde-i18n-doc@kde.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,541,440,342,379,62,71,548,1323,40.89191232048375,Marathi
+paprefs,131,0,6,23,0,2,152,137,95.62043795620438,Marathi <fedora-trans-mr@redhat.com>
+parley,73,150,3210,50,94,585,80,3433,2.1264200407806584,Marathi <kde-i18n-doc@kde.org>
+pavucontrol,179,67,620,74,24,81,190,866,20.669745958429562,Marathi <fedora-trans-mr@redhat.com>
+phonon,0,261,66,0,52,7,0,327,0.0,American English <kde-i18n-doc@kde.org>
+phonon-backend-vlc,0,27,0,0,3,0,0,27,0.0,American English <kde-i18n-doc@kde.org>
+picard,529,4,10207,375,2,2113,539,10740,4.925512104283054,Marathi <https://translations.metabrainz.org/projects/picard/2/app/mr/>
+picmi,22,16,164,17,11,88,25,202,10.891089108910892,Marathi <kde-i18n-doc@kde.org>
+pidgin,13483,0,511,3082,0,109,13486,13994,96.34843504359011,Marathi (http://app.transifex.com/pidgin/pidgin/language/mr/)
+pim-data-exporter,11,53,730,7,22,171,12,794,1.385390428211587,Marathi <kde-i18n-doc@kde.org>
+pimcommon,14,54,847,12,35,171,18,915,1.530054644808743,Marathi <kde-i18n-doc@kde.org>
+pipewire,104,281,262,45,31,32,106,647,16.0741885625966,Marathi <fedora-trans-mr@redhat.com>
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,Marathi <fedora-trans-mr@redhat.com>
+pitivi,10,0,1003,2,0,216,10,1013,0.9871668311944718,marathi
+plasma-desktop,1372,957,2534,230,297,546,1315,4863,28.213037219823157,Marathi <kde-i18n-doc@kde.org>
+plasma-discover,42,434,3052,31,169,493,54,3528,1.1904761904761905,Marathi <kde-i18n-doc@kde.org>
+plasma-drkonqi,329,323,1273,58,64,78,330,1925,17.09090909090909,Marathi <kde-i18n-doc@kde.org>
+plasma-mediacenter,0,0,83,0,0,37,0,83,0.0,Marathi <kde-i18n-doc@kde.org>
+plasma-nm,37,67,2564,19,29,631,38,2668,1.3868065967016492,Marathi <kde-i18n-doc@kde.org>
+plasma-oxygen,524,55,52,193,22,16,499,631,83.04278922345483,American English <kde-i18n-doc@kde.org>
+plasma-print-manager,285,86,481,132,24,83,295,852,33.45070422535211,American English <kde-i18n-doc@kde.org>
+plasma-sdk,32,0,339,18,0,62,43,371,8.62533692722372,Marathi <kde-i18n-doc@kde.org>
+plasma-systemsettings,47,19,62,16,3,16,57,128,36.71875,Marathi <kde-i18n-doc@kde.org>
+plasma-workspace,4946,1252,3205,1459,386,427,5254,9403,52.600233967882595,Marathi <kde-i18n-doc@kde.org>
+plasma-workspace-x11,4946,1252,3205,1459,386,427,5254,9403,52.600233967882595,Marathi <kde-i18n-doc@kde.org>
+plasma5support,248,18,17,152,9,4,259,283,87.63250883392226,American English <kde-i18n-doc@kde.org>
+pluma,3983,0,9130,1045,0,1045,3893,13113,30.374437581026463,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+pluma-plugins,188,0,1217,20,0,125,133,1405,13.380782918149468,Marathi (https://app.transifex.com/mate/teams/13566/mr/)
+pogo,371,0,205,89,0,12,350,576,64.40972222222221,Marathi <mr@li.org>
+policycoreutils,4894,380,843,788,54,129,4512,6117,80.00653915317967,Marathi
+polkit-gnome,94,0,0,16,0,0,95,94,100.0,Marathi <maajhe-sanganak@freelists.org>
+polkit-kde,22,3,34,10,2,11,24,59,37.28813559322034,Marathi <kde-i18n-doc@kde.org>
+powerdevil,98,306,1194,30,64,207,108,1598,6.132665832290362,American English <kde-i18n-doc@kde.org>
+publican,1750,66,3627,123,2,491,1512,5443,32.15138710270072,Marathi
+pulseaudio,1358,1920,508,342,111,119,1379,3786,35.868991019545696,Marathi <fedora-trans-mr@redhat.com>
+pychess,0,0,7592,0,0,1468,0,7592,0.0,Marathi (http://www.transifex.com/gbtami/pychess/language/mr/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,128,43,1457,13,1,166,118,1628,7.862407862407863,Marathi (http://www.transifex.com/projects/p/pykickstart/language/mr/)
+python-blivet,326,13,266,56,2,23,343,605,53.884297520661164,Marathi (http://www.transifex.com/projects/p/blivet/language/mr/)
+python-django,23,0,3430,22,0,751,23,3453,0.666087460179554,Marathi (http://www.transifex.com/django/django/language/mr/)
+python-django-mailman3,55,0,300,12,0,60,54,355,15.492957746478872,Marathi <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/mr/>
+python-django4.2,23,0,3430,22,0,751,23,3453,0.666087460179554,Marathi (http://www.transifex.com/django/django/language/mr/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Marathi
+python-hyperkitty,8,0,943,4,0,261,9,951,0.8412197686645636,Marathi <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/mr/>
+python-meh,1,0,108,1,0,22,3,109,0.9174311926605505,Marathi (http://www.transifex.com/projects/p/python-meh/language/mr/)
+python-nikola,94,0,0,44,0,0,97,94,100.0,Marathi (http://www.transifex.com/ralsina/nikola/language/mr/)
+python-postorius,1,2,5051,1,1,629,1,5054,0.019786307874950535,Marathi <https://hosted.weblate.org/projects/gnu-mailman/postorius/mr/>
+qtwebkit,1821,0,0,423,0,0,1598,1821,100.0,Marathi <kde-i18n-doc@kde.org>
+quadrapassel,228,74,126,56,17,6,198,428,53.271028037383175,Marathi <fedora-trans-mr@redhat.com>
+quassel,17,0,8345,6,0,1701,17,8362,0.2033006457785219,Marathi (http://www.transifex.com/quassel/quassel/language/mr/)
+realmd,0,0,833,0,0,134,0,833,0.0,Marathi (http://www.transifex.com/freedesktop/realmd/language/mr/)
+redhat-menus,261,0,0,86,0,0,260,261,100.0,marathi
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,52,4719,625,12,923,65,62,5396,0.9636767976278725,Marathi <https://hosted.weblate.org/projects/remmina/remmina/mr/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Marathi
+rhythmbox,4517,0,0,1061,0,0,4603,4517,100.0,marathi
+rocs,29,80,1371,18,35,261,31,1480,1.9594594594594597,Marathi <kde-i18n-doc@kde.org>
+rpm-ostree,2,0,1478,1,0,228,3,1480,0.13513513513513514,Marathi
+scons,44,0,0,19,0,0,47,44,100.0,
+scratch,1215,62,193,523,23,80,1246,1470,82.6530612244898,LANGUAGE <LL@li.org>
+seahorse,3042,0,0,655,0,0,3044,3042,100.0,Marathi <fedora-trans-mr@redhat.com>
+seahorse-caja,411,10,0,109,1,0,460,421,97.62470308788599,marathi
+seahorse-nautilus,411,10,0,109,1,0,460,421,97.62470308788599,marathi
+setroubleshoot,510,10,120,147,2,19,499,640,79.6875,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+setroubleshoot-plugins,2331,0,3915,119,0,107,1913,6246,37.319884726224785,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+setuptool,55,0,0,14,0,0,55,55,100.0,marathi
+shared-mime-info,0,0,2266,0,0,871,0,2266,0.0,Marathi (http://app.transifex.com/freedesktop/shared-mime-info/language/mr/)
+shotwell,4273,12,268,905,2,39,4280,4553,93.85020865363497,Marathi (http://www.transifex.com/projects/p/shotwell/language/mr/)
+skanlite,130,49,7,52,7,4,128,186,69.89247311827957,American English <kde-i18n-doc@kde.org>
+skladnik,4,13,137,2,10,35,4,154,2.5974025974025974,Marathi <kde-i18n-doc@kde.org>
+skrooge,201,686,11294,173,335,1992,217,12181,1.6501108283392167,Marathi <kde-i18n-doc@kde.org>
+skychart,41,0,4987,25,0,1529,41,5028,0.8154335719968178,Marathi <mr@li.org>
+slick-greeter,70,0,146,16,0,33,69,216,32.407407407407405,Marathi <mr@li.org>
+smb4k,68,193,6269,47,117,504,77,6530,1.0413476263399695,Marathi <kde-i18n-doc@kde.org>
+snapper,3,385,704,3,94,155,3,1092,0.27472527472527475,Marathi <i18n@suse.de>
+sos,54,34,35,11,7,12,58,123,43.90243902439025,Marathi <fedora-trans-mr@redhat.com>
+sound-juicer,1022,0,0,198,0,0,1031,1022,100.0,Marathi <fedora-trans-mr@redhat.com>
+stellarium,2707,0,157710,1092,0,37442,2504,160417,1.6874770130347783,Marathi (https://app.transifex.com/stellarium/teams/80998/mr/)
+step,48,264,1585,38,161,477,66,1897,2.530311017395888,Marathi <kde-i18n-doc@kde.org>
+subscription-manager,2006,802,1594,363,129,200,1844,4402,45.57019536574284,Marathi <sshedmak@redhat.com>
+subscription-manager-cockpit,21,63,427,16,26,74,25,511,4.10958904109589,Marathi <sshedmak@redhat.com>
+sugar,493,86,1726,163,14,352,490,2305,21.3882863340564,LANGUAGE <LL@li.org>
+sugar-browse,62,0,272,28,0,43,69,334,18.562874251497004,LANGUAGE <LL@li.org>
+sugar-calculator,358,66,442,82,15,72,340,866,41.339491916859124,LANGUAGE <LL@li.org>
+sugar-chat,54,3,80,33,1,47,63,137,39.416058394160586,LANGUAGE <LL@li.org>
+sugar-clock,6,7,53,5,1,15,6,66,9.090909090909092,LANGUAGE <LL@li.org>
+sugar-distance,95,0,4,25,0,1,98,99,95.95959595959596,LANGUAGE <LL@li.org>
+sugar-imageviewer,2,0,56,1,0,15,2,58,3.4482758620689653,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-log,37,8,53,12,2,7,35,98,37.755102040816325,LANGUAGE <LL@li.org>
+sugar-memorize,51,8,83,40,7,27,58,142,35.91549295774648,LANGUAGE <LL@li.org>
+sugar-pippy,37,15,223,13,1,53,31,275,13.454545454545455,LANGUAGE <LL@li.org>
+sugar-read,24,0,113,14,0,36,26,137,17.51824817518248,LANGUAGE <LL@li.org>
+sugar-record,12,8,42,10,2,12,14,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-speak,24,0,203,24,0,50,25,227,10.572687224669604,LANGUAGE <LL@li.org>
+sugar-srilanka,369,10,80,165,2,30,327,459,80.3921568627451,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,1,0,120,1,0,25,1,121,0.8264462809917356,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,147,5,61,101,4,18,152,213,69.01408450704226,LANGUAGE <LL@li.org>
+sugar-turtleart,332,23,1104,142,4,289,350,1459,22.7553118574366,LANGUAGE <walter@sugarlabs.org>
+sugar-write,79,0,42,46,0,9,96,121,65.28925619834712,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,25,24,100.0,Marathi <maajhe-sanganak@freelists.org>
+svgpart,3,0,0,2,0,0,4,3,100.0,American English <kde-i18n-doc@kde.org>
+sweeper,25,3,200,15,1,34,28,228,10.964912280701753,Marathi <kde-i18n-doc@kde.org>
+swell-foop,64,66,136,26,16,13,73,266,24.06015037593985,Marathi <fedora-trans-mr@redhat.com>
+switchdesk,16,85,21,3,9,7,15,122,13.114754098360656,Marathi <fedora-trans-mr@redhat.com>
+system-config-language,197,17,1,29,1,1,195,215,91.62790697674419,Marathi <fedora-trans-mr@redhat.com>
+system-config-printer,3021,51,442,722,24,182,3009,3514,85.97040409789413,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+system-config-rootpassword,116,0,0,19,0,0,109,116,100.0,marathi
+system-switch-java,81,0,0,11,0,0,74,81,100.0,marathi
+system-switch-mail,9,88,4,6,8,3,12,101,8.91089108910891,marathi
+tali,315,31,75,80,10,7,295,421,74.82185273159145,Marathi <fedora-trans-mr@redhat.com>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+tellico,183,302,4873,137,173,953,203,5358,3.41545352743561,Marathi <kde-i18n-doc@kde.org>
+terminator,1,0,1521,1,0,414,2,1522,0.0657030223390276,Marathi (https://www.transifex.com/terminator/teams/109338/mr/)
+tiled,0,0,26610,0,0,1626,0,26610,0.0,none
+tilix,0,0,2429,0,0,660,0,2429,0.0,none
+tomboy,2870,0,0,415,0,0,2756,2870,100.0,Marathi <fedora-trans-mr@redhat.com>
+transmission,144,0,2297,69,0,516,179,2441,5.899221630479311,Marathi (https://app.transifex.com/transmissionbt/teams/33778/mr/)
+vinagre,1507,0,0,275,0,0,1378,1507,100.0,Marathi <maajhe-sanganak@freelists.org>
+virt-manager,3540,655,3152,820,122,509,3637,7347,48.18293180890159,Marathi <https://translate.fedoraproject.org/projects/virt-manager/virt-manager/mr/>
+virt-top,294,0,121,68,0,16,312,415,70.8433734939759,Marathi <None>
+virt-v2v,26,13,5693,5,2,545,27,5732,0.45359385903698535,Marathi (http://www.transifex.com/projects/p/libguestfs/language/mr/)
+virt-viewer,251,0,495,54,0,122,243,746,33.64611260053619,Marathi (http://www.transifex.com/projects/p/virt-viewer/language/mr/)
+vlc,30054,38,4687,5524,12,749,28246,34779,86.41421547485551,Marathi (https://app.transifex.com/yaron/teams/16553/mr/)
+volume_key,745,10,8,151,2,1,735,763,97.64089121887287,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+vte,108,0,0,19,0,0,112,108,100.0,marathi
+vte291,108,0,0,19,0,0,112,108,100.0,marathi
+webkit2gtk4.0,1526,0,0,365,0,0,1440,1526,100.0,Marathi <kde-i18n-doc@kde.org>
+webkitgtk,1526,0,0,365,0,0,1440,1526,100.0,Marathi <kde-i18n-doc@kde.org>
+wesnoth,337,907,338494,175,292,20836,337,339738,0.0991940848536225,Marathi <sujitrjadhav@gmail.com>
+wingpanel,18,0,39,4,0,6,19,57,31.57894736842105,Marathi <https://weblate.elementary.io/projects/wingpanel/wingpanel/mr/>
+wingpanel-indicator-a11y,24,0,31,10,0,7,25,55,43.63636363636363,Marathi <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/mr/>
+wingpanel-indicator-bluetooth,24,19,37,17,5,8,28,80,30.0,Marathi <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mr/>
+wingpanel-indicator-datetime,41,17,45,11,3,11,36,103,39.80582524271845,Marathi <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/mr/>
+wingpanel-indicator-keyboard,19,11,26,7,4,6,18,56,33.92857142857143,Marathi <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mr/>
+wireplumber,3,0,0,2,0,0,3,3,100.0,Marathi <fedora-trans-mr@redhat.com>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Marathi <fedora-trans-mr@redhat.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,79,81,100.0,Marathi <fedora-trans-mr@redhat.com>
+xed,2728,0,1047,708,0,220,2651,3775,72.26490066225165,Marathi (http://www.transifex.com/projects/p/MATE/language/mr/)
+xreader,1244,0,381,305,0,75,1187,1625,76.55384615384615,Marathi (http://www.transifex.com/mate/MATE/language/mr/)
+yakuake,31,86,1554,21,32,185,33,1671,1.8551765409934171,Marathi <kde-i18n-doc@kde.org>
+yelp,452,0,0,104,0,0,378,452,100.0,Marathi <fedora-trans-mr@redhat.com>
+yelp-xsl,249,0,0,99,0,0,248,249,100.0,Marathi <fedora-trans-mr@redhat.com>
+zanshin,5,48,442,3,25,90,6,495,1.0101010101010102,Marathi <kde-i18n-doc@kde.org>
+zenity,582,0,0,135,0,0,559,582,100.0,marathi
+zypper,192,2977,6709,48,397,825,192,9878,1.9437133022879125,Marathi <https://l10n.opensuse.org/projects/zypper/master/mr/>

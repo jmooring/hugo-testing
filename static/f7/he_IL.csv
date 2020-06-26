@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,2333,33,2338,897,12,630,2214,4704,49.59608843537415,unknown <email@address>
+exaile,1165,0,168,366,0,20,1124,1333,87.39684921230307,Hebrew <LL@li.org>
+filezilla,3417,34,1460,616,15,181,3076,4911,69.57849725106902,ABZPMGDNHM7 (please do not remove)
+freeciv,268,148,32863,94,63,3568,250,33279,0.8053126596352054,Hebrew
+horde,207,0,6896,168,0,1764,186,7103,2.9142615796142475,i18n@lists.horde.org
+imp,72,0,5575,59,0,1076,76,5647,1.275013281388348,i18n@lists.horde.org
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>

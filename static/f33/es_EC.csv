@@ -1,0 +1,63 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,8,0,1799,7,0,412,22,1807,0.44272274488101826,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+engrampa,9,0,2026,9,0,414,22,2035,0.4422604422604423,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+eom,14,0,1755,14,0,327,27,1769,0.791407574901074,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+libgweather,664,0,0,235,0,0,735,664,100.0,Spanish <gnome-es-list@gnome.org>
+libmatekbd,1,0,307,1,0,90,1,308,0.3246753246753247,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+libmateweather,362,0,137,154,0,29,426,499,72.54509018036072,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+lollypop,5,0,1432,3,0,457,7,1437,0.3479471120389701,Spanish (Ecuador) <https://hosted.weblate.org/projects/gnumdk/lollypop/es_EC/>
+mate-applets,1642,9,10307,374,3,901,2157,11958,13.731393209566816,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-calc,7,0,1547,7,0,474,20,1554,0.45045045045045046,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-control-center,18,0,3272,12,0,1124,32,3290,0.547112462006079,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-media,4,0,235,3,0,96,5,239,1.6736401673640167,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-menu,4,0,304,4,0,106,4,308,1.2987012987012987,Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/)
+mate-panel,37,0,6690,27,0,775,83,6727,0.5500222982012785,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-power-manager,8,0,2668,8,0,406,21,2676,0.29895366218236175,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-sensors-applet,10,0,303,10,0,99,23,313,3.1948881789137378,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-session-manager,5,0,707,5,0,126,5,712,0.7022471910112359,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-settings-daemon,43,0,2154,6,0,312,45,2197,1.957214383249886,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-system-monitor,17,0,1496,13,0,315,34,1513,1.1235955056179776,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Spanish (Ecuador) (http://www.transifex.com/mate/MATE/language/es_EC/)
+mate-utils,6,0,2522,4,0,178,32,2528,0.23734177215189875,Spanish (Ecuador) (https://www.transifex.com/mate/teams/13566/es_EC/)
+trytond,2648,0,0,1207,0,0,3281,2648,100.0,
+trytond-account,2743,0,0,1220,0,0,3427,2743,100.0,
+trytond-account-invoice,1028,0,0,372,0,0,1250,1028,100.0,
+trytond-account-invoice-history,2,0,0,1,0,0,3,2,100.0,
+trytond-account-invoice-line-standalone,10,0,0,4,0,0,16,10,100.0,
+trytond-account-product,296,0,0,95,0,0,371,296,100.0,
+trytond-account-statement,231,0,0,127,0,0,357,231,100.0,
+trytond-account-stock-anglo-saxon,74,0,0,12,0,0,82,74,100.0,
+trytond-account-stock-continental,325,0,0,69,0,0,385,325,100.0,
+trytond-analytic-account,184,0,0,95,0,0,210,184,100.0,
+trytond-analytic-invoice,13,0,0,3,0,0,13,13,100.0,
+trytond-analytic-purchase,22,0,0,4,0,0,24,22,100.0,
+trytond-analytic-sale,13,0,0,3,0,0,13,13,100.0,
+trytond-company,118,0,0,77,0,0,142,118,100.0,
+trytond-company-work-time,18,0,0,5,0,0,23,18,100.0,
+trytond-country,7539,0,0,5243,0,0,7590,7539,100.0,
+trytond-currency,469,0,0,233,0,0,564,469,100.0,
+trytond-dashboard,35,0,0,22,0,0,68,35,100.0,
+trytond-google-maps,2,0,0,1,0,0,2,2,100.0,
+trytond-ldap-authentication,10,0,0,1,0,0,9,10,100.0,
+trytond-party,268,0,0,152,0,0,331,268,100.0,
+trytond-party-siret,18,0,0,5,0,0,25,18,100.0,
+trytond-product,375,0,0,210,0,0,444,375,100.0,
+trytond-product-cost-fifo,24,0,0,4,0,0,28,24,100.0,
+trytond-product-cost-history,27,0,0,14,0,0,38,27,100.0,
+trytond-product-price-list,74,0,0,32,0,0,102,74,100.0,
+trytond-project,143,0,0,62,0,0,164,143,100.0,
+trytond-project-plan,83,0,0,46,0,0,107,83,100.0,
+trytond-project-revenue,12,0,0,8,0,0,16,12,100.0,
+trytond-purchase,571,0,0,291,0,0,709,571,100.0,
+trytond-purchase-invoice-line-standalone,51,0,0,22,0,0,65,51,100.0,
+trytond-sale,536,0,0,266,0,0,658,536,100.0,
+trytond-sale-opportunity,320,0,0,174,0,0,393,320,100.0,
+trytond-sale-price-list,5,0,0,2,0,0,8,5,100.0,
+trytond-stock,1203,0,0,563,0,0,1564,1203,100.0,
+trytond-stock-forecast,174,0,0,81,0,0,224,174,100.0,
+trytond-stock-inventory-location,17,0,0,11,0,0,17,17,100.0,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,23,0,0,14,0,0,32,23,100.0,
+trytond-stock-supply,147,0,0,58,0,0,192,147,100.0,
+trytond-stock-supply-day,27,0,0,18,0,0,36,27,100.0,
+trytond-timesheet,278,0,0,131,0,0,348,278,100.0,

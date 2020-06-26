@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+eog,953,16,224,246,4,28,1020,1193,79.88264878457669,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+evince,789,166,34,231,38,9,821,989,79.77755308392315,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+yelp,753,90,192,212,32,105,787,1035,72.7536231884058,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>

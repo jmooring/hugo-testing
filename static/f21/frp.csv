@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+exaile,3,0,4003,3,0,1022,3,4006,0.07488766849725412,Franco-Provençal <frp@li.org>
+lxdm,0,0,30,0,0,18,0,30,0.0,LANGUAGE <LL@li.org>
+lxinput,60,5,7,21,2,1,69,72,83.33333333333334,LANGUAGE <LL@li.org>
+lxlauncher,42,0,9,10,0,1,45,51,82.35294117647058,LANGUAGE <LL@li.org>
+lxmusic,116,9,78,65,4,20,156,203,57.14285714285714,LANGUAGE <LL@li.org>
+lxpanel,754,105,155,260,38,43,944,1014,74.35897435897436,LXDE Traduccion Arpitan <alekcxjo+arpitan@gmail.com>
+lxpolkit,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+lxrandr,36,5,81,14,2,11,45,122,29.508196721311474,LANGUAGE <LL@li.org>
+lxsession,23,6,7,12,1,1,24,36,63.888888888888886,LANGUAGE <LL@li.org>
+lxsession-edit,13,0,51,5,0,6,12,64,20.3125,LANGUAGE <LL@li.org>
+lxshortcut,23,0,20,12,0,7,29,43,53.48837209302325,LANGUAGE <LL@li.org>
+lxtask,43,0,79,25,0,23,50,122,35.24590163934426,LANGUAGE <LL@li.org>
+lxterminal,59,31,54,45,17,23,74,144,40.97222222222222,LANGUAGE <LL@li.org>
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Franco-Provençal (Arpitan) (http://www.transifex.com/projects/p/MATE/language/frp/)
+oggconvert,89,0,43,39,0,5,111,132,67.42424242424242,Franco-Provençal <frp@li.org>

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+perl-libintl,12,0,7,12,0,7,16,19,63.1578947368421,Arabic <guido@imperia.net>
+pgadmin3,3471,1191,2669,1206,404,551,3406,7331,47.34688309916792,Arabic <support@arabeyes.org>

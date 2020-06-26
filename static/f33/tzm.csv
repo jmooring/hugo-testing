@@ -1,0 +1,26 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cpu-x,53,4,847,34,2,190,55,904,5.8628318584070795,Central Atlas Tamazight <https://hosted.weblate.org/projects/cpu-x/translations/tzm/>
+godot,4,0,13212,4,0,2906,4,13216,0.03026634382566586,Central Atlas Tamazight <https://hosted.weblate.org/projects/godot-engine/godot/tzm/>
+stellarium,45,0,141359,21,0,36398,44,141404,0.03182371078611638,Central Atlas Tamazight (https://www.transifex.com/stellarium/teams/80998/tzm/)
+sugar,11,1,2293,10,1,518,11,2305,0.4772234273318872,LANGUAGE <LL@li.org>
+sugar-abacus,3,0,25,3,0,20,3,28,10.714285714285714,LANGUAGE <LL@li.org>
+sugar-browse,14,0,320,9,0,62,14,334,4.191616766467066,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,1,0,138,1,0,47,1,139,0.7194244604316548,LANGUAGE <LL@li.org>
+sugar-getiabooks,3,0,147,1,0,33,3,150,2.0,LANGUAGE <LL@li.org>
+sugar-implode,1,0,76,1,0,19,1,77,1.2987012987012987,LANGUAGE <LL@li.org>
+sugar-infoslicer,2,0,234,2,0,60,2,236,0.847457627118644,LANGUAGE <LL@li.org>
+sugar-labyrinth,10,0,271,8,0,86,10,281,3.558718861209965,LANGUAGE <LL@li.org>
+sugar-measure,5,0,150,3,0,70,5,155,3.225806451612903,LANGUAGE <LL@li.org>
+sugar-memorize,2,0,140,2,0,72,2,142,1.4084507042253522,LANGUAGE <LL@li.org>
+sugar-paint,5,0,101,5,0,56,5,106,4.716981132075472,LANGUAGE <LL@li.org>
+sugar-physics,2,0,46,2,0,26,2,48,4.166666666666666,LANGUAGE <LL@li.org>
+sugar-pippy,5,0,269,4,0,62,5,274,1.824817518248175,LANGUAGE <LL@li.org>
+sugar-record,2,0,60,2,0,22,2,62,3.225806451612903,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,3,0,224,3,0,71,3,227,1.3215859030837005,LANGUAGE <LL@li.org>
+sugar-stopwatch,1,0,4,1,0,4,2,5,20.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,5,0,208,4,0,119,5,213,2.3474178403755865,LANGUAGE <LL@li.org>
+sugar-typing-turtle,2,1,596,2,1,124,2,599,0.333889816360601,LANGUAGE <LL@li.org>
+sugar-visualmatch,1,0,157,1,0,77,1,158,0.6329113924050633,LANGUAGE <LL@li.org>

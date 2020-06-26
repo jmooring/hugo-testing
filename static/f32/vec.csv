@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+slick-greeter,197,0,14,40,0,7,197,211,93.36492890995261,Venetian <vec@li.org>
+tuxpaint,1198,418,46,262,33,10,1258,1662,72.08182912154031,none
+tuxpaint-stamps,3220,29,0,800,5,0,3283,3249,99.10741766697446,none

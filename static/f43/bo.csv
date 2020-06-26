@@ -1,0 +1,41 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+console-setup,503,52,439,124,12,44,246,994,50.6036217303823,bo <translation-team-bo@lists.sourceforge.net>
+deepin-daemon,1200,0,35,250,0,6,282,1235,97.16599190283401,Tibetan (https://app.transifex.com/linuxdeepin/teams/3617/bo/)
+deepin-pw-check,67,0,17,12,0,1,17,84,79.76190476190477,Tibetan (https://www.transifex.com/linuxdeepin/teams/3617/bo/)
+deja-dup,0,0,1623,0,0,285,0,1623,0.0,Tibetan <bo@li.org>
+dippi,0,0,1653,0,0,266,0,1653,0.0,none
+elementary-code,2,50,2176,2,3,379,2,2228,0.08976660682226212,Tibetan <https://l10n.elementary.io/projects/code/code/bo/>
+elementary-files,0,0,2656,0,0,567,0,2656,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,231,0,0,45,0,231,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,42,0,0,9,0,42,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,303,0,0,70,0,303,0.0,none
+gala,0,0,319,0,0,67,0,319,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tibetan
+libreoffice,230560,14425,535932,33277,6091,57788,57280,780917,29.524264422467432,LANGUAGE <LL@li.org>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+lightdm,0,0,163,0,0,21,0,163,0.0,Tibetan <bo@li.org>
+lightdm-gtk,0,0,89,0,0,25,0,89,0.0,Tibetan <bo@li.org>
+nautilus,6259,823,321,1031,115,46,2219,7403,84.54680534918276,Tibetan <bo@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tibetan <trans-bo@lists.fedoraproject.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,467,0,0,79,0,467,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,937,0,0,259,0,937,0.0,LANGUAGE <LL@li.org>
+python-meh,0,0,109,0,0,23,0,109,0.0,Tibetan
+python-postorius,0,0,5165,0,0,642,0,5165,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+simple-scan,325,0,264,87,0,58,208,589,55.178268251273344,Tibetan <bo@li.org>
+slick-greeter,0,0,216,0,0,49,0,216,0.0,Tibetan <bo@li.org>
+sugar-toolkit-gtk3,25,11,177,21,8,94,23,213,11.737089201877934,LANGUAGE <LL@li.org>
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,

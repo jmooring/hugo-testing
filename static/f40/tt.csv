@@ -1,0 +1,132 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,6,0,487,6,0,86,7,493,1.2170385395537524,http://littlesvr.ca/ostd/
+at-spi2-core,359,8,8,114,7,5,292,375,95.73333333333333,Tatarish <tatarish.l10n@gmail.com>
+atril,17,0,2308,15,0,497,18,2325,0.7311827956989247,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+budgie-desktop,196,4,1020,78,2,242,180,1220,16.065573770491802,Tatar <http://translate.getsol.us/projects/budgie-desktop/translations/tt/>
+caja,31,5,10120,27,3,1566,36,10156,0.3052382827884994,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+calibre,175,0,170792,174,0,19157,176,170967,0.1023589347651886,Tatar (http://www.transifex.com/calibre/calibre/language/tt/)
+cinnamon-translations,614,0,18104,246,0,4054,567,18718,3.280264985575382,Tatar <tt@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-code,0,0,1572,0,0,294,0,1572,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2538,0,0,551,0,2538,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,207,0,0,41,0,207,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+engrampa,24,0,2002,17,0,401,26,2026,1.1846001974333662,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+eom,22,0,1757,17,0,324,24,1779,1.2366498032602586,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+gala,0,0,281,0,0,60,0,281,0.0,none
+gdk-pixbuf2,388,118,842,67,25,110,269,1348,28.783382789317507,Tatarish <tatarish.l10n@gmail.com>
+gimp,901,2895,10044,447,1184,1685,878,13840,6.510115606936416,Tatarish <tatarish.l10n@gmail.com>
+gimp3,901,2895,10044,447,1184,1685,878,13840,6.510115606936416,Tatarish <tatarish.l10n@gmail.com>
+glib2,345,513,3919,81,101,565,297,4777,7.222105924220222,Tatarish <tatarish.l10n@gmail.com>
+gpicview,234,2,20,51,1,6,214,256,91.40625,Tatar <>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,369,0,0,86,0,369,0.0,
+gtk2,1141,1156,11407,411,424,1949,941,13704,8.326036193812026,Tatarish <tatarish.l10n@gmail.com>
+gtk3,695,1195,9963,307,430,1750,616,11853,5.863494473972834,Tatarish <tatarish.l10n@gmail.com>
+gtk4,186,359,1887,87,208,526,161,2432,7.6480263157894735,Tatarish <tatarish.l10n@gmail.com>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hunspell,12,0,601,3,0,76,12,613,1.957585644371941,Tatar <https://hosted.weblate.org/projects/hunspell/translations/tt/>
+iso-codes,1012,4861,10035,641,3482,6147,894,15908,6.3615790797083225,Tatarish <tatarish.l10n@gmail.com>
+isomaster,17,1,656,14,1,92,18,674,2.522255192878338,http://littlesvr.ca/ostd/
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Tatar <>
+kf5-kcmutils,183,80,3,22,14,2,140,266,68.796992481203,Tatar <>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Tatar <>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Tatar <>
+kf5-kconfigwidgets,141,142,59,69,43,13,153,342,41.228070175438596,Tatar <>
+kf5-kcoreaddons,0,309,73,0,92,40,0,382,0.0,Tatar <>
+kf5-kdeclarative,62,62,37,9,8,8,57,161,38.50931677018634,Tatar <>
+kf5-kdelibs4support,894,658,3801,251,359,1934,867,5353,16.700915374556324,Tatar <>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Tatar <>
+kf5-knotifyconfig,86,43,0,16,1,0,64,129,66.66666666666666,Tatar <>
+kf5-kparts,104,27,7,26,3,1,89,138,75.36231884057972,Tatar <>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Tatar <>
+kf5-kross,82,18,0,29,6,0,72,100,82.0,Tatar <>
+kf5-kservice,80,65,28,12,12,4,60,173,46.24277456647399,Tatar <>
+kf5-ktextwidgets,450,13,10,118,9,3,409,473,95.13742071881607,Tatar <>
+kf5-kwidgetsaddons,0,1212,81,0,442,21,0,1293,0.0,Tatar <>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Tatar <>
+kf5-kxmlgui,949,546,79,120,100,10,846,1574,60.29224904701398,Tatar <>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Tatar <>
+kf6-kauth,0,34,39,0,3,5,0,73,0.0,Tatar <>
+kf6-kcmutils,31,84,8,7,15,4,22,123,25.203252032520325,Tatar <>
+kf6-kcodecs,0,55,315,0,36,17,0,370,0.0,Tatar <>
+kf6-kcompletion,0,18,0,0,11,0,0,18,0.0,Tatar <>
+kf6-kconfigwidgets,91,158,63,48,55,14,102,312,29.166666666666668,Tatar <>
+kf6-kcoreaddons,0,335,117,0,103,53,0,452,0.0,Tatar <>
+kf6-kdeclarative,57,70,42,6,9,6,48,169,33.72781065088758,Tatar <>
+kf6-kdnssd,0,3,0,0,3,0,0,3,0.0,Tatar <>
+kf6-kglobalaccel,0,34,0,0,5,0,0,34,0.0,Tatar <>
+kf6-ki18n,42,80,2,42,66,2,48,124,33.87096774193548,Tatar <>
+kf6-kitemviews,0,6,0,0,3,0,0,6,0.0,Tatar <>
+kf6-kjobwidgets,0,136,0,0,40,0,0,136,0.0,Tatar <>
+kf6-knewstuff,94,165,779,17,64,50,85,1038,9.05587668593449,Tatar <>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,Tatar <>
+kf6-knotifyconfig,19,0,0,7,0,0,14,19,100.0,Tatar <>
+kf6-kparts,35,15,7,8,2,1,25,57,61.40350877192983,Tatar <>
+kf6-kpty,15,0,0,4,0,0,15,15,100.0,Tatar <>
+kf6-kservice,4,32,9,2,9,1,6,45,8.88888888888889,Tatar <>
+kf6-ktextwidgets,443,20,10,114,13,3,401,473,93.65750528541226,Tatar <>
+kf6-kwidgetsaddons,0,1196,81,0,444,22,0,1277,0.0,Tatar <>
+kf6-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Tatar <>
+kf6-kxmlgui,660,538,76,104,80,12,611,1274,51.80533751962323,Tatar <>
+kf6-sonnet,0,657,27,0,71,6,0,684,0.0,Tatar <>
+libgnome,156,0,1338,56,0,172,144,1494,10.441767068273093,Tatarish <tatarish.l10n@gmail.com>
+libgnomecanvas,357,0,0,94,0,0,300,357,100.0,Tatarish <tatarish.l10n@gmail.com>
+libgnomeui,536,0,883,215,0,130,470,1419,37.77307963354475,Tatarish <tatarish.l10n@gmail.com>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Tatar (http://www.transifex.com/mate/MATE/language/tt/)
+libreoffice,9785,7073,154227,6109,3912,28715,10018,171085,5.719379255925417,LANGUAGE <LL@li.org>
+lxdm,31,0,17,19,0,7,34,48,64.58333333333334,Tatar <>
+lxinput,72,0,11,24,0,2,74,83,86.74698795180723,Tatar <>
+lxlauncher,51,0,7,11,0,6,39,58,87.93103448275862,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,99,97,100.0,Tatar <>
+lxmusic,93,0,110,43,0,46,94,203,45.812807881773395,Tatar <>
+lxshortcut,43,0,0,19,0,0,42,43,100.0,LANGUAGE <LL@li.org>
+mate-calc,10,0,1572,10,0,476,13,1582,0.6321112515802781,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-control-center,12,1,3325,9,1,1160,13,3338,0.35949670461354105,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+mate-desktop,45,0,2367,20,0,275,46,2412,1.8656716417910446,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-menu,2,0,306,2,0,108,2,308,0.6493506493506493,Tatar (http://www.transifex.com/mate/MATE/language/tt/)
+mate-panel,16,0,4695,13,0,641,15,4711,0.3396306516663129,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-polkit,1,0,122,1,0,20,1,123,0.8130081300813009,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-screensaver,8,0,1093,4,0,172,8,1101,0.7266121707538601,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-sensors-applet,3,0,310,3,0,106,3,313,0.9584664536741214,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-session-manager,11,0,706,7,0,126,9,717,1.5341701534170153,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-system-monitor,19,0,1540,15,0,317,20,1559,1.2187299550994226,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-terminal,19,0,4705,17,0,528,20,4724,0.4022015241320914,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Tatar (http://app.transifex.com/mate/MATE/language/tt/)
+mate-utils,11,0,3709,11,0,638,12,3720,0.2956989247311828,Tatar (https://www.transifex.com/mate/teams/13566/tt/)
+minetest,160,60,9456,99,34,1202,167,9676,1.6535758577924762,Tatar <https://hosted.weblate.org/projects/minetest/minetest/tt/>
+mingw-atk,359,8,8,114,7,5,292,375,95.73333333333333,Tatarish <tatarish.l10n@gmail.com>
+mingw-gdk-pixbuf,388,118,842,67,25,110,269,1348,28.783382789317507,Tatarish <tatarish.l10n@gmail.com>
+mingw-glib2,345,513,3919,81,101,565,297,4777,7.222105924220222,Tatarish <tatarish.l10n@gmail.com>
+mingw-gtk2,1141,1156,11407,411,424,1949,941,13704,8.326036193812026,Tatarish <tatarish.l10n@gmail.com>
+mingw-gtk3,695,1195,9963,307,430,1750,616,11853,5.863494473972834,Tatarish <tatarish.l10n@gmail.com>
+mingw-gtk4,186,359,1887,87,208,526,161,2432,7.6480263157894735,Tatarish <tatarish.l10n@gmail.com>
+mingw-hunspell,12,0,601,3,0,76,12,613,1.957585644371941,Tatar <https://hosted.weblate.org/projects/hunspell/translations/tt/>
+mozo,5,0,41,5,0,19,6,46,10.869565217391305,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+obs-cef,0,0,0,0,0,0,0,0,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pidgin,69,0,13925,55,0,3136,74,13994,0.4930684579105331,Tatar (http://app.transifex.com/pidgin/pidgin/language/tt/)
+pluma,76,0,5631,43,0,1406,75,5707,1.3316979148414227,Tatar (https://app.transifex.com/mate/teams/13566/tt/)
+python-django,1463,0,2053,465,0,346,1328,3516,41.60978384527873,Tatar (http://www.transifex.com/django/django/language/tt/)
+python-django-contrib-comments,0,0,244,0,0,60,0,244,0.0,Tatar (http://www.transifex.com/django/django-contrib-comments/language/tt/)
+python-django4.2,1463,0,2053,465,0,346,1328,3516,41.60978384527873,Tatar (http://www.transifex.com/django/django/language/tt/)
+regextester,0,0,104,0,0,31,0,104,0.0,none
+sigil,12,0,601,3,0,76,12,613,1.957585644371941,Tatar <https://hosted.weblate.org/projects/hunspell/translations/tt/>
+slick-greeter,4,0,212,3,0,46,6,216,1.8518518518518516,Tatar <tt@li.org>
+stellarium,485,0,35766,463,0,6066,526,36251,1.3378941270585638,Tatar (https://app.transifex.com/stellarium/teams/80998/tt/)
+supertux,2696,0,383,837,0,121,2393,3079,87.56089639493342,Tatar (http://www.transifex.com/arctic-games/supertux/language/tt/)
+supertuxkart,2189,0,3770,651,0,459,1945,5959,36.734351401241824,Tatar (http://www.transifex.com/supertuxkart/supertuxkart/language/tt/)
+vlc,3855,26,30898,1281,9,4995,3548,34779,11.084274993530578,Tatar (https://app.transifex.com/yaron/teams/16553/tt/)
+warzone2100,236,0,16982,123,0,3565,232,17218,1.3706586130793355,Tatar
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,
+xed,28,0,3747,25,0,903,30,3775,0.7417218543046358,Tatar <tt@li.org>
+xreader,101,0,1524,21,0,359,86,1625,6.2153846153846155,Tatar <tt@li.org>

@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+duplicity,2232,0,145,338,0,13,2276,2377,93.89987379049222,"German, Austria"
+enigma,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+fuse-encfs,1041,24,224,118,3,16,984,1289,80.76027928626843,German (Austria) <de_AT@li.org>
+ganyremote,477,0,33,145,0,3,489,510,93.52941176470588,Austrian
+gramps,41201,0,0,7211,0,0,38795,41201,100.0,German (Austria) <https://hosted.weblate.org/projects/gramps-project/gramps/de_AT/>
+kanyremote,462,0,38,138,0,7,469,500,92.4,Austrian
+perl-libintl-perl,3,0,0,3,0,0,3,3,100.0,German <de@li.org>
+pingus,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+supertux,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+texi2html,5,0,1660,5,0,198,5,1665,0.3003003003003003,German <guido@imperia.net>
+texinfo,3,0,0,3,0,0,3,3,100.0,German <de@li.org>
+widelands,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,357 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4017,0,0,479,0,0,4023,4017,100.0,Indonesia <id@li.org>
+GConf2-dbus,4017,0,0,479,0,0,4023,4017,100.0,Indonesia <id@li.org>
+Miro,707,0,2067,255,0,346,680,2774,25.48666186012978,Indonesian <id@li.org>
+NetworkManager,1011,0,0,194,0,0,950,1011,100.0,Indonesian <id@li.org>
+Terminal,1553,0,0,281,0,0,1527,1553,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+Thunar,3865,0,0,685,0,0,3557,3865,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+alacarte,42,0,0,16,0,0,39,42,100.0,indonesia <contact@id.gnome.org>
+alleyoop,346,0,0,89,0,0,318,346,100.0,Indonesian <l10n@gnome.linux.or.id>
+anaconda,6301,881,1815,910,93,130,5782,8997,70.03445592975436,Fedora Trans ID <fedora-trans-id@redhat.com>
+anjuta,436,0,6805,106,0,1861,426,7241,6.021267780693274,Indonesian
+aria2,1679,944,2007,174,39,107,1557,4630,36.2634989200864,Indonesian <id@li.org>
+ario,131,18,533,29,8,201,134,682,19.208211143695014,Indonesian <id@li.org>
+arm-gp2x-linux-binutils,921,0,0,179,0,0,929,921,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+at-spi,15,0,0,4,0,0,15,15,100.0,Indonesia <sukarelawan@gnome.linux.or.id>
+atk,365,1,9,119,1,6,337,375,97.33333333333334,Indonesia <kontak@id.gnome.org>
+audacity,9627,0,0,2159,0,0,9366,9627,100.0,Audacityn' Indonesia <lukmanulhakim14@gmail.com>
+authconfig,1305,47,5,234,6,2,1283,1357,96.16801768607222,Fedora Indonesia <fedora-trans-id@redhat.com>
+avant-window-navigator,173,0,420,65,0,75,167,593,29.17369308600337,Indonesian <id@li.org>
+avr-binutils,921,0,0,179,0,0,929,921,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+avr-gcc,49908,0,0,7071,0,0,49997,49908,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+avr-gdb,434,0,0,86,0,0,449,434,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+backintime,52,0,389,32,0,87,58,441,11.791383219954648,Indonesian <id@li.org>
+balsa,3922,1553,149,1098,216,27,3820,5624,69.73684210526315,Indonesian <l10n@id.gnome.org>
+bash,9890,521,84,520,5,6,9367,10495,94.23535016674607,Indonesian <translation-team-id@lists.sourceforge.net>
+binutils,39981,0,0,6264,0,0,40745,39981,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+bison,653,252,107,123,20,12,645,1012,64.52569169960475,Indonesian <translation-team-id@lists.sourceforge.net>
+blueman,32,0,1344,20,0,332,51,1376,2.3255813953488373,Indonesian <id@li.org>
+bluez-gnome,451,11,169,144,3,42,470,631,71.47385103011094,Indonesian <id@li.org>
+bug-buddy,830,0,0,80,0,0,745,830,100.0,Indonesia <kontak@id.gnome.org>
+byobu,177,0,0,44,0,0,167,177,100.0,Indonesian <id@li.org>
+bzr-gtk,144,0,946,70,0,237,156,1090,13.211009174311927,Indonesian <id@li.org>
+ccsm,224,36,289,78,8,49,213,549,40.80145719489982,Andi Darmawan <belutz@ubuntu.com>
+cflow,584,5,0,113,1,0,584,589,99.15110356536503,Indonesian <translation-team-id@lists.sourceforge.net>
+chkconfig,423,9,16,86,2,2,424,448,94.41964285714286,Fedora Trans ID <fedora-trans-id@redhat.com>
+claws-mail,14807,24,0,2990,2,0,13772,14831,99.83817679185489,MSulchan Darmawan <bleketux@gmail.com>
+claws-mail-plugins,3403,0,0,655,0,0,3190,3403,100.0,<claws-mail-translators@dotsrc.org>
+comix,1300,0,26,259,0,3,1231,1326,98.0392156862745,Indonesia <id@li.org>
+compat-wxGTK26,3996,663,675,856,131,126,4001,5334,74.9156355455568,ID <i-am-the-boss@bpdp.org>
+compiz,66,0,0,11,0,0,58,66,100.0,Indonesian <id@li.org>
+control-center,3558,0,2,779,0,2,3499,3560,99.9438202247191,Indonesia <kontak@id.gnome.org>
+coreutils,17919,0,16,1394,0,1,17678,17935,99.91078896013381,Indonesian <translation-team-id@lists.sourceforge.net>
+dasher,311,0,0,113,0,0,311,311,100.0,Indonesia <kontak@id.gnome.org>
+deluge,123,0,1875,71,0,618,122,1998,6.156156156156156,Indonesian <id@li.org>
+deskbar-applet,732,0,0,157,0,0,663,732,100.0,Indonesian <kontak@id.gnome.org>
+dia,4210,1050,451,1755,202,89,4181,5711,73.71738749781123,Indonesia <l10n@id.gnome.org>
+dialog,25,0,0,23,0,0,27,25,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+diffutils,1342,0,0,180,0,0,1320,1342,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+dpkg,5608,2678,1733,800,277,166,5584,10019,55.973650064876736,Debian Indonesia L10N Team <debian-l10n-id@gurame.fisika.ui.ac.id>
+e2fsprogs,5782,0,0,898,0,0,5769,5782,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+eel2,231,4,0,51,1,0,206,235,98.29787234042553,Indonesia <sukarelawan@gnome.linux.or.id>
+eina,4,8,996,1,2,250,5,1008,0.3968253968253968,Indonesian <id@li.org>
+ekiga,6342,0,0,796,0,0,5528,6342,100.0,Indonesian <sukarelawan@gnome.linux.or.id>
+elinks,359,1497,10378,171,474,980,389,12234,2.934444989373876,Indonesian <translation-team-id@lists.sourceforge.net>
+eog,818,0,0,192,0,0,781,818,100.0,Indonesia <kontak@id.gnome.org>
+epiphany,3957,0,9,872,0,3,3571,3966,99.77307110438728,Indonesian <kontak@id.gnome.org>
+evince,806,0,0,243,0,0,773,806,100.0,Indonesia <kontak@id.gnome.org>
+evolution,18870,0,0,4591,0,0,17936,18870,100.0,Indonesian <kontak@id.gnome.org>
+evolution-data-server,4985,0,0,1034,0,0,5034,4985,100.0,Indonesian <kontak@id.gnome.org>
+evolution-exchange,1907,0,1,323,0,1,1876,1908,99.94758909853249,Indonesian <sukarelawan@gnome.linux.or.id>
+exaile,1749,0,676,475,0,199,1658,2425,72.12371134020619,Indonesian <id@li.org>
+exo,1598,0,0,301,0,0,1475,1598,100.0,Indonesian <id@li.org>
+fetchmail,2012,33,1926,313,2,328,1974,3971,50.66733820196424,Indonesian <translation-team-id@lists.sourceforge.net>
+file-roller,957,0,0,242,0,0,927,957,100.0,Indonesia <kontak@id.gnome.org>
+filezilla,8520,10,0,1441,2,0,8047,8530,99.88276670574443,Bahasa Indonesia <willysr@gmail.com>
+findutils,236,312,1534,64,32,120,257,2082,11.33525456292027,Indonesian <translation-team-id@lists.sourceforge.net>
+firstboot,528,87,39,48,3,3,467,654,80.73394495412845,Fedora Indonesia Translation Team <fedora-trans-id@redhat.com>
+fuse-encfs,111,167,1033,19,25,94,114,1311,8.466819221967963,Indonesian <id@li.org>
+gambas,1896,0,5,589,0,1,1560,1901,99.7369805365597,LANGUAGE <LL@li.org>
+gambas2,929,0,1353,364,0,422,840,2282,40.70990359333918,LANGUAGE <LL@li.org>
+gammu,21,0,13141,7,0,1967,22,13162,0.15955022033125663,none
+gcalctool,1015,0,0,357,0,0,1023,1015,100.0,Indonesia <kontak@id.gnome.org>
+gcc,53220,475,215,7261,61,23,53233,53910,98.72008903728437,Indonesian <translation-team-id@lists.sourceforge.net>
+gcl,921,0,0,179,0,0,929,921,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gcompris,10218,0,0,1189,0,0,8546,10218,100.0,Bahasa Indonesia <umarsaid@gmail.com>
+gconf-editor,334,0,0,98,0,0,338,334,100.0,Indonesia <id@li.org>
+gdb,6333,0,0,893,0,0,6458,6333,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gdm,5508,0,0,781,0,0,5045,5508,100.0,Indonesian <kontak@id.gnome.org>
+gedit,3436,1084,422,889,143,66,3330,4942,69.52650748684744,Indonesia <kontak@id.gnome.org>
+geeqie,597,1046,1266,194,409,386,591,2909,20.52251632863527,Indonesian <translation-team-id@lists.sourceforge.net>
+gettext,1131,951,4762,166,88,430,1047,6844,16.52542372881356,Indonesian <translation-team-id@lists.sourceforge.net>
+ggz-gtk-client,4,0,0,4,0,0,5,4,100.0,
+ghdl,49908,0,0,7071,0,0,49997,49908,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+ghex,964,0,0,272,0,0,905,964,100.0,Indonesian <l10n@gnome.linux.or.id>
+gimp,502,2179,17099,214,845,4722,540,19780,2.537917087967644,Indonesian <sukarelawan@gnome.linux.or.id>
+glib2,1044,376,930,122,73,177,1059,2350,44.42553191489362,Indonesia <sukarelawan@gnome.linux.or.id>
+glibc,7409,0,0,1353,0,0,7791,7409,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gmpc,538,0,578,284,0,129,586,1116,48.2078853046595,Indonesian <id@li.org>
+gnome-applet-netspeed,143,0,0,54,0,0,141,143,100.0,INDONESIA <useindesign@gmail.com>
+gnome-applet-remmina,24,0,0,8,0,0,24,24,100.0,Indonesian <id@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,20,29,75.86206896551724,Indonesian
+gnome-applets,3823,26,10,967,1,7,3667,3859,99.0671158331174,Indonesian <kontak@id.gnome.org>
+gnome-backgrounds,18,0,0,9,0,0,20,18,100.0,Indonesian <kontak@id.gnome.org>
+gnome-bluetooth,248,0,265,94,0,61,274,513,48.343079922027286,Indonesian <id@li.org>
+gnome-desktop,323,0,0,73,0,0,342,323,100.0,Indonesia <id@li.org>
+gnome-do,294,0,176,81,0,38,277,470,62.5531914893617,Indonesian <id@li.org>
+gnome-doc-utils,212,0,1,79,0,1,213,213,99.53051643192488,Indonesian <sukarelawan@gnome.linux.or.id>
+gnome-games,4933,915,1637,1110,348,320,4242,7485,65.90514362057448,Indonesian <id@li.org>
+gnome-globalmenu,325,0,0,56,0,0,313,325,100.0,Indonesian <id@li.org>
+gnome-hearts,359,0,50,95,0,11,240,409,87.77506112469437,Indonesian <id@li.org>
+gnome-icon-theme,53,0,0,47,0,0,55,53,100.0,Indonesia <id@li.org>
+gnome-keyring,524,165,22,41,9,7,449,711,73.69901547116737,Indonesia <sukarelawan@gnome.linux.or.id>
+gnome-mag,5,0,0,2,0,0,8,5,100.0,Indonesia <sukarelawan@gnome.linux.or.id>
+gnome-media,1786,0,0,507,0,0,1588,1786,100.0,Indonesian <kontak@id.gnome.org>
+gnome-menus,165,0,0,58,0,0,174,165,100.0,Indonesian <sukarelawan@gnome.linux.or.id>
+gnome-mime-data,887,0,0,362,0,0,912,887,100.0,Indonesia <id@li.org>
+gnome-netstatus,404,13,0,104,2,0,373,417,96.88249400479616,Indonesian <sukarelawan@gnome.linux.or.id>
+gnome-nettool,487,31,2,174,4,2,472,520,93.65384615384616,Indonesian <l10n@gnome.linux.or.id>
+gnome-panel,4065,0,1,548,0,1,3611,4066,99.9754058042302,Indonesian <kontak@id.gnome.org>
+gnome-power-manager,3016,51,144,416,6,12,2697,3211,93.92712550607287,Indonesian <id@li.org>
+gnome-screensaver,1225,6,27,193,1,3,1073,1258,97.37678855325915,Indonesian <kontak@id.gnome.org>
+gnome-session,567,0,0,102,0,0,540,567,100.0,Indonesia <id@li.org>
+gnome-settings-daemon,408,129,497,70,32,69,372,1034,39.458413926499034,Indonesia <kontak@id.gnome.org>
+gnome-system-monitor,755,0,90,194,0,16,778,845,89.3491124260355,Indonesia <kontak@id.gnome.org>
+gnome-themes,101,0,0,34,0,0,108,101,100.0,Indonesia <l10n@gnome.linux.or.id>
+gnome-utils,4045,34,2,714,1,2,3559,4081,99.11786326880666,Indonesian <kontak@id.gnome.org>
+gnome-vfs2,1506,0,0,300,0,0,1393,1506,100.0,Indonesia <kontak@id.gnome.org>
+gnote,2074,0,0,312,0,0,1946,2074,100.0,Indonesian <id@li.org>
+gnubiff,1181,0,0,222,0,0,1206,1181,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gnupg,4467,2791,1137,640,455,171,4127,8395,53.21024419297201,Indonesian <translation-team-id@lists.sourceforge.net>
+gnupg2,3280,4177,2797,541,739,423,3100,10254,31.98751706651063,Indonesian <translation-team-id@lists.sourceforge.net>
+gok,1856,0,0,428,0,0,1759,1856,100.0,Indonesian <sukarelawan@gnome.linux.or.id>
+gpicview,219,0,0,44,0,0,242,219,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gpsdrive,2311,0,0,448,0,0,2224,2311,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gqview,639,685,397,208,285,176,634,1721,37.12957582800697,Indonesian <translation-team-id@lists.sourceforge.net>
+grep,408,164,255,57,22,11,440,827,49.334945586457074,Indonesian <translation-team-id@lists.sourceforge.net>
+griffith,691,0,1185,201,0,250,651,1876,36.83368869936034,Indonesian <id@li.org>
+gst-mixer,1786,0,0,507,0,0,1588,1786,100.0,Indonesian <kontak@id.gnome.org>
+gstreamer,1518,0,0,292,0,0,1485,1518,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer-plugins-base,696,0,0,142,0,0,705,696,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer-plugins-good,481,0,0,82,0,0,463,481,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gthumb,2604,0,16,877,0,6,2555,2620,99.38931297709924,Indonesia <l10n@gnome.linux.or.id>
+gtk2,8977,2274,1677,1688,574,381,8465,12928,69.43842821782178,Indonesia <sukarelawan@gnome.linux.or.id>
+gtkhtml3,912,0,0,405,0,0,927,912,100.0,Indonesian <kontak@id.gnome.org>
+gtksourceview,821,0,0,332,0,0,807,821,100.0,Indonesia <kontak@id.gnome.org>
+gtksourceview2,821,0,0,332,0,0,807,821,100.0,Indonesia <kontak@id.gnome.org>
+gtkspell,15,0,0,6,0,0,16,15,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gtranslator,178,38,1198,114,13,242,195,1414,12.588401697312587,Indonesian <id@li.org>
+gucharmap,772,0,0,281,0,0,781,772,100.0,Indonesian <kontak@id.gnome.org>
+gwibber,179,0,303,65,0,43,179,482,37.136929460580916,Indonesian <id@li.org>
+hello,125,40,9,24,1,2,128,174,71.83908045977012,Indonesian <translation-team-id@lists.sourceforge.net>
+homebank,958,13,487,388,11,119,926,1458,65.70644718792867,Indonesian <id@li.org>
+horde,3111,0,0,916,0,0,3340,3111,100.0,id <id@li.org>
+hwbrowser,116,0,0,51,0,0,126,116,100.0,LDP Indonesia <http://www.linux.or.id>
+icewm,511,224,641,148,1,98,525,1376,37.13662790697674,Indonesia
+im-chooser,152,0,0,34,0,0,145,152,100.0,Fedora Trans ID <fedora-trans-id@redhat.com>
+imp,2320,0,0,500,0,0,2115,2320,100.0,UPT TI UNEJ <uptti@unej.ac.id>
+imsettings,0,77,902,0,13,142,0,979,0.0,Indonesian
+initscripts,1835,1552,782,388,458,145,1864,4169,44.0153514032142,LDP Indonesia <http://www.linux.or.id>
+inkscape,429,1903,21703,117,819,4044,429,24035,1.7848970251716247,Indonesian <id@li.org>
+insight,434,0,0,86,0,0,449,434,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+iso-codes,4495,5493,9362,2642,4815,5984,4317,19350,23.22997416020672,Indonesian <translation-team-id@lists.sourceforge.net>
+isomaster,674,0,0,107,0,0,598,674,100.0,Indonesian <LL@li.org>
+jokosher,8,0,2055,5,0,407,8,2063,0.3877847794474067,Indonesian <id@li.org>
+jwhois,401,11,28,65,2,4,398,440,91.13636363636364,Indonesian <translation-team-id@lists.sourceforge.net>
+kBuild,204,136,165,38,29,14,207,505,40.396039603960396,Indonesian <translation-team-id@lists.sourceforge.net>
+kbd,2054,0,0,273,0,0,2086,2054,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+kexec-tools,95,39,72,9,2,3,83,206,46.116504854368934,LANGUAGE <LL@li.org>
+lazarus,16306,0,3121,4285,0,869,16052,19427,83.93473001492768,Indonesian <ade999@gmail.com>
+libbonobo,494,6,24,103,2,3,495,524,94.27480916030534,Indonesia <id@li.org>
+libbonoboui,360,0,0,113,0,0,352,360,100.0,Indonesia <sukarelawan@gnome.linux.or.id>
+libgnome,1517,0,0,237,0,0,1436,1517,100.0,Indonesia <kontak@id.gnome.org>
+libgnomecanvas,357,0,0,94,0,0,341,357,100.0,Indonesia <id@li.org>
+libgnomeprint22,168,0,0,98,0,0,173,168,100.0,Indonesia <id@li.org>
+libgnomeprintui22,463,0,9,148,0,3,416,472,98.09322033898306,Indonesia <id@li.org>
+libgnomeui,1411,4,4,343,1,1,1329,1419,99.43622269203665,Indonesia <id@li.org>
+libgsasl,518,0,0,60,0,0,518,518,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+libgtop2,112,22,0,41,3,0,112,134,83.5820895522388,Indonesia <id@li.org>
+libgweather,10353,9,4,6759,5,4,10374,10366,99.87459000578815,Indonesian <kontak@id.gnome.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libuser,1052,12,0,222,3,0,1110,1064,98.87218045112782,Linux Indonesia <http://www.linux.or.id>
+libvirt,1039,3483,4891,254,690,890,982,9413,11.037926272176776,LDP Linux Indonesia <http://linux.or.id>
+libwnck,87,0,0,32,0,0,111,87,100.0,Indonesia <kontak@id.gnome.org>
+libxfce4menu,31,0,0,5,0,0,27,31,100.0,Indonesian <id@li.org>
+libxfce4util,413,0,0,4,0,0,368,413,100.0,Indonesian <id@li.org>
+libxfcegui4,234,0,0,61,0,0,215,234,100.0,Indonesian <id@li.org>
+lxappearance,96,0,0,39,0,0,103,96,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxdm,10,0,1,9,0,1,13,11,90.9090909090909,LANGUAGE <LL@li.org>
+lxlauncher,51,0,0,11,0,0,42,51,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxmenu-data,97,0,0,37,0,0,98,97,100.0,Indonesian <sukarelawan@gnome.linux.or.id>
+lxpanel,874,14,7,294,3,2,889,895,97.6536312849162,Indonesian <translation-team-id@lists.sourceforge.net>
+lxrandr,102,0,0,22,0,0,101,102,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxsession,37,0,0,15,0,0,32,37,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxsession-edit,58,0,0,10,0,0,58,58,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxshortcut,43,0,0,19,0,0,45,43,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxtask,112,0,0,43,0,0,121,112,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxterminal,100,0,0,67,0,0,113,100,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lyx,14458,0,0,4742,0,0,14442,14458,100.0,
+make,1332,395,270,292,60,42,1407,1997,66.70005007511267,Indonesian <translation-team-id@lists.sourceforge.net>
+manaworld,212,26,2246,96,16,594,202,2484,8.53462157809984,Indonesian <id@li.org>
+metacity,7255,0,9,480,0,2,7110,7264,99.8761013215859,Indonesian <sukarelawan@gnome.linux.or.id>
+midori,1955,0,0,517,0,0,1920,1955,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+minbar,412,0,6,99,0,6,425,418,98.56459330143541,Indonesian
+mingw32-atk,365,1,9,119,1,6,337,375,97.33333333333334,Indonesia <kontak@id.gnome.org>
+mingw32-binutils,921,0,0,179,0,0,929,921,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw32-gcc,53529,0,0,7294,0,0,53540,53529,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw32-gettext,1131,951,4762,166,88,430,1047,6844,16.52542372881356,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw32-glib2,1044,376,930,122,73,177,1059,2350,44.42553191489362,Indonesia <sukarelawan@gnome.linux.or.id>
+mingw32-gtk2,8977,2274,1677,1688,574,381,8465,12928,69.43842821782178,Indonesia <sukarelawan@gnome.linux.or.id>
+mingw32-gtkhtml3,912,0,0,405,0,0,927,912,100.0,Indonesian <kontak@id.gnome.org>
+mingw32-iconv,15,32,289,4,9,33,15,336,4.464285714285714,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw32-libidn,386,27,0,55,2,0,387,413,93.46246973365618,Indonesian <translation-team-id@lists.sourceforge.net>
+moin,2894,736,896,568,71,97,2825,4526,63.941670349094125,
+monodevelop,7016,3580,2215,1849,824,347,6492,12811,54.76543595347748,Indonesian <id@li.org>
+mousepad,135,0,0,64,0,0,142,135,100.0,Indonesian <id@li.org>
+msp430-binutils,921,0,0,179,0,0,929,921,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+mutt,4914,183,179,1067,19,13,5052,5276,93.13874147081123,Indonesian <web@linux.or.id>
+nano,685,1129,435,170,131,61,641,2249,30.45798132503335,Indonesian <translation-team-id@lists.sourceforge.net>
+nautilus,7196,4,0,1208,1,0,6582,7200,99.94444444444444,Indonesia <sukarelawan@gnome.linux.or.id>
+nautilus-cd-burner,1267,0,0,204,0,0,1112,1267,100.0,Indonesian <kontak@id.gnome.org>
+newt,4,0,0,4,0,0,4,4,100.0,Debian Indonesia <debid@yahoogroups.com>
+notecase,263,251,642,97,85,174,267,1156,22.750865051903112,M. Yusuf Hamdan <udan_hamdan@yahoo.co.uk>
+nssbackup,58,0,1943,10,0,318,62,2001,2.898550724637681,Indonesian <id@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+orage,2110,0,0,769,0,0,2120,2110,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+parole,450,0,0,182,0,0,470,450,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+parted,4604,177,55,531,29,9,4531,4836,95.20264681555004,Indonesian <translation-team-id@lists.sourceforge.net>
+passwd,26,8,265,9,2,42,36,299,8.695652173913043,none
+pcmanfm,1520,0,0,388,0,0,1433,1520,100.0,LANGUAGE <LL@li.org>
+pessulus,76,0,8,26,0,3,90,84,90.47619047619048,Indonesian <kontak@id.gnome.org>
+pgadmin3,3003,2972,3031,1016,915,600,2953,9006,33.34443704197202,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,44,0,2509,10,0,814,41,2553,1.7234625930278105,Indonesian <id@li.org>
+pidgin,12539,3885,1720,2891,821,275,12069,18144,69.10824514991182,Rai S. Regawa <raireg@yahoo.com>
+pidgin-musictracker,19,14,300,6,1,53,21,333,5.7057057057057055,Indonesian <id@li.org>
+planner,166,71,873,31,28,306,142,1110,14.954954954954955,Indonesian <en@li.org>
+pmount,714,9,0,62,1,0,742,723,98.7551867219917,Indonesian <id@li.org>
+po4a,1282,163,281,132,17,28,1274,1726,74.27578215527231,Indonesian <id@li.org>
+poedit,1143,19,0,266,3,0,1091,1162,98.36488812392426,Indonesia <mdk-id@yahoogroups.com>
+policycoreutils,0,0,4363,0,0,713,0,4363,0.0,
+powertop,983,0,0,89,0,0,902,983,100.0,Indonesian
+publican,851,0,0,42,0,0,831,851,100.0,Fedora Indonesia <trans-id@lists.fedoraproject.org>
+publican-fedora,106,0,0,6,0,0,95,106,100.0,Fedora Indonesia <trans-id@lists.fedoraproject.org>
+pykickstart,284,0,0,25,0,0,265,284,100.0,Fedora Trans ID <fedora-trans-id@redhat.com>
+pyroom,16,0,395,6,0,68,19,411,3.8929440389294405,Indonesian <id@li.org>
+qof,554,14,133,35,2,13,475,701,79.0299572039943,Indonesian <translation-team-id@lists.sourceforge.net>
+redhat-menus,253,0,0,81,0,0,246,253,100.0,Indonesian <fedora-trans-id@redhat.com>
+rednotebook,781,0,0,183,0,0,697,781,100.0,Indonesian <id@li.org>
+remmina,74,0,754,21,0,195,69,828,8.937198067632849,Indonesian <id@li.org>
+rhn-client-tools,10,46,4764,5,17,432,9,4820,0.2074688796680498,BlankOn <http://www.blankonlinux.or.id>
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+rhpl,185,0,0,80,0,0,189,185,100.0,BlankOn <http://www.blankonlinux.or.id>
+rhpxl,120,0,0,43,0,0,120,120,100.0,Fedora Indonesian <fedora-trans-id@gmail.com>
+rhythmbox,1250,0,0,331,0,0,1305,1250,100.0,Indonesian
+ristretto,187,0,0,57,0,0,195,187,100.0,Indonesian <id@li.org>
+rt3,4266,0,3486,1195,0,703,4609,7752,55.030959752321984,rt-devel <rt-devel@lists.bestpractical.com>
+sabayon,617,147,52,151,5,11,640,816,75.61274509803921,Indonesian <kontak@id.gnome.org>
+sbackup,128,0,585,16,0,96,117,713,17.952314165497896,Indonesian <id@li.org>
+sed,490,54,37,84,2,3,503,581,84.33734939759037,Indonesian <translation-team-id@lists.sourceforge.net>
+setroubleshoot,0,0,593,0,0,168,0,593,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+setuptool,73,0,0,19,0,0,77,73,100.0,Indonesian <fedora-trans-id@redhat.com>
+shadow-utils,1050,1555,663,201,119,58,1114,3268,32.1297429620563,Debian Indonesia <debid@yahoogroups.com>
+shared-mime-info,1387,0,0,561,0,0,1465,1387,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+skychart,864,0,0,201,0,0,824,864,100.0,Zaenal Mutaqin <ade999@gmail.com>
+smolt,319,355,292,64,26,42,305,966,33.02277432712215,INDONESIAN <fedora-trans-id@redhat.com>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,853,0,0,147,0,0,825,853,100.0,Indonesian <kontak@id.gnome.org>
+specspo,2120,66064,237110,201,6367,10282,1856,305294,0.6944125990029283,Indonesia <http://linux.or.id>
+speedcrunch,1,0,17,1,0,12,1,18,5.555555555555555,id
+spu-binutils,921,0,0,179,0,0,929,921,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+squirrelmail,6644,306,804,1321,99,101,6526,7754,85.68480784111426,Bahasa Indonesia <squirrelmail-i18n@lists.sourceforge.net>
+stellarium,2362,53,24,922,7,7,2393,2439,96.84296842968429,Indonesian <id@li.org>
+subdownloader,384,0,569,151,0,121,374,953,40.29380902413431,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+switchdesk,139,0,0,20,0,0,131,139,100.0,Fedora Trans ID <fedora-trans-id@redhat.com>
+system-config-bind,1375,3,8041,356,2,706,1350,9419,14.598152670134834,Linux Indonesia <http://www.linux.or.id>
+system-config-boot,46,0,0,10,0,0,41,46,100.0,Fedora Trans ID <fedora-trans-id@redhat.com>
+system-config-date,1017,21,0,596,21,0,1016,1038,97.97687861271676,Linux Indonesia <http://linux.or.id>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,385,398,100.0,Linux Indonesia <http://www.linux.or.id>
+system-config-firewall,343,377,1777,90,55,158,339,2497,13.736483780536643,Bahasa Indonesia <viribus@traderweb.net>
+system-config-httpd,816,42,0,204,19,0,775,858,95.1048951048951,Bahasa Indonesia <fedora-translation-id@traderweb.net>
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,78,0,0,12,0,0,73,78,100.0,BlankOn <http://www.blankonlinux.or.id>
+system-config-kickstart,997,23,19,260,3,1,954,1039,95.95765158806545,Linux Indonesia <http://www.linux.or.id>
+system-config-language,45,0,0,10,0,0,39,45,100.0,BlankOn <http://www.blankonlinux.or.id>
+system-config-lvm,2084,10,142,323,4,17,1973,2236,93.20214669051879,LDP Indonesia <http://linux.or.id>
+system-config-netboot,1135,0,0,168,0,0,1038,1135,100.0,Bahasa Indonesia <fedora-trans-id@redhat.com>
+system-config-network,2899,34,1,689,14,1,2785,2934,98.80708929788685,Fedora Trans ID <fedora-trans-id@redhat.com>
+system-config-nfs,306,0,26,68,0,4,309,332,92.16867469879519,viribus <viribus@traderweb.net>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,17,638,2351,15,254,401,17,3006,0.5655355954757153,Linux Indonesia <http://linux.or.id>
+system-config-rootpassword,15,26,75,3,5,11,12,116,12.931034482758621,BlankOn <http://www.blankonlinux.or.id>
+system-config-samba,361,1,60,130,1,6,366,422,85.54502369668246,Linux Indonesia <http://linux.or.id>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,24,0,360,10,0,43,23,384,6.25,Linux Indonesia <http:/www.linux.or.id>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,832,259,246,138,20,14,773,1337,62.228870605833954,Linux Indonesia <http://linux.or.id>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,69,81,100.0,Fedora Trans ID <fedora-trans-id@redhat.com>
+system-switch-mail,134,0,0,20,0,0,133,134,100.0,BlankOn <http://www.blankonlinux.or.id>
+tar,3185,48,14,527,3,2,3307,3247,98.09054511857099,Indonesian <translation-team-id@lists.sourceforge.net>
+tasks,34,0,0,23,0,0,36,34,100.0,Indonesian
+terminator,269,0,0,88,0,0,286,269,100.0,Indonesian <id@li.org>
+thunar-shares-plugin,181,0,0,34,0,0,179,181,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+thunar-vcs-plugin,367,91,40,207,53,19,399,498,73.69477911646585,Indonesian <id@li.org>
+thunar-volman,370,0,0,85,0,0,342,370,100.0,Indonesian <id@li.org>
+totem,1838,0,0,378,0,0,1701,1838,100.0,Indonesian <kontak@id.gnome.org>
+totem-pl-parser,1838,0,0,378,0,0,1701,1838,100.0,Indonesian <kontak@id.gnome.org>
+transmission,369,0,1273,157,0,292,376,1642,22.472594397076737,Indonesian <id@li.org>
+tuxpaint,491,161,109,130,20,36,428,761,64.5203679369251,Indonesia <translation-team-id@lists.sourceforge.net>
+tuxpaint-stamps,0,0,2617,0,0,626,0,2617,0.0,
+umit,1959,1185,1449,268,288,321,1779,4593,42.6518615284128,Bahasa Indonesia <id_ID@li.org>
+usermode,562,0,0,94,0,0,493,562,100.0,Fedora Trans ID <fedora-trans-id@redhat.com>
+util-linux-ng,12137,78,68,1929,17,5,12293,12283,98.81136530163641,Indonesian <translation-team-id@lists.sourceforge.net>
+vidalia,0,0,2927,0,0,657,0,2927,0.0,LANGUAGE <LL@li.org>
+viking,613,0,1130,239,0,240,611,1743,35.169248422260466,Indonesian <id@li.org>
+vino,765,0,70,88,0,5,679,835,91.61676646706587,Indonesian <l10n@gnome.linux.or.id>
+vte,108,0,0,19,0,0,132,108,100.0,Indonesia <sukarelawan@gnome.linux.or.id>
+wallpapoz,400,0,0,102,0,0,465,400,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+wammu,15,0,4267,4,0,786,15,4282,0.3503035964502569,none
+wesnoth,20780,21,191835,1989,3,11117,18906,212636,9.772569085197238,none
+wget,2260,0,0,394,0,0,2373,2260,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+wxGTK,3896,1137,1358,834,265,376,3901,6391,60.96072602096698,ID <i-am-the-boss@bpdp.org>
+wxPython,3896,1137,1358,834,265,376,3901,6391,60.96072602096698,ID <i-am-the-boss@bpdp.org>
+wxdfast,1047,0,106,302,0,25,958,1153,90.80659150043365,Arif Rahman <frozenman89@gmail.com>
+xarchiver,1131,0,0,277,0,0,1104,1131,100.0,Indonesian <id@li.org>
+xcdroast,3743,362,3939,512,61,275,3287,8044,46.53157633018399,Indonesian
+xdialog,21,0,0,15,0,0,21,21,100.0,Indonesian
+xfburn,1235,8,53,265,3,13,1151,1296,95.2932098765432,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce-utils,131,0,0,36,0,0,133,131,100.0,Indonesian <id@li.org>
+xfce4-appfinder,84,0,0,19,0,0,82,84,100.0,Indonesian <id@li.org>
+xfce4-battery-plugin,123,0,0,31,0,0,122,123,100.0,Indonesian <id@li.org>
+xfce4-clipman-plugin,211,14,9,37,4,1,184,234,90.17094017094017,Indonesian <id@li.org>
+xfce4-dict,386,0,0,84,0,0,363,386,100.0,Indonesian <id@li.org>
+xfce4-fsguard-plugin,64,0,0,19,0,0,67,64,100.0,Indonesian <id@li.org>
+xfce4-icon-theme,8,0,0,2,0,0,7,8,100.0,Indonesian <id@li.org>
+xfce4-mailwatch-plugin,659,0,0,110,0,0,647,659,100.0,Indonesian <id@li.org>
+xfce4-mixer,181,0,0,37,0,0,167,181,100.0,
+xfce4-mpc-plugin,22,10,48,9,2,13,21,80,27.500000000000004,Indonesian <id@li.org>
+xfce4-notes-plugin,98,0,5,39,0,1,94,103,95.14563106796116,Indonesian <id@li.org>
+xfce4-notifyd,83,0,0,22,0,0,80,83,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce4-panel,537,3,0,166,1,0,516,540,99.44444444444444,Indonesian <id@li.org>
+xfce4-places-plugin,75,0,0,32,0,0,77,75,100.0,Indonesian <id@li.org>
+xfce4-power-manager,694,0,0,155,0,0,656,694,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce4-radio-plugin,52,0,0,22,0,0,55,52,100.0,Indonesian <id@li.org>
+xfce4-remmina-plugin,24,0,0,8,0,0,24,24,100.0,Indonesian <id@li.org>
+xfce4-screenshooter,209,14,0,36,1,0,187,223,93.72197309417041,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce4-sensors-plugin,239,54,34,59,4,2,234,327,73.08868501529052,Indonesian <id@li.org>
+xfce4-session,990,0,0,199,0,0,934,990,100.0,Indonesian <id@li.org>
+xfce4-settings,1138,0,0,247,0,0,1072,1138,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce4-taskmanager,67,0,0,31,0,0,75,67,100.0,Indonesian <id@li.org>
+xfce4-timer-plugin,94,0,0,32,0,0,92,94,100.0,Indonesian <id@li.org>
+xfce4-verve-plugin,47,0,0,10,0,0,44,47,100.0,Indonesian <id@li.org>
+xfce4-wavelan-plugin,49,0,0,11,0,0,49,49,100.0,Indonesian <id@li.org>
+xfce4-weather-plugin,511,31,13,240,10,7,574,555,92.07207207207207,Indonesian <id@li.org>
+xfce4-xfswitch-plugin,20,0,0,3,0,0,18,20,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce4-xkb-plugin,61,0,0,17,0,0,76,61,100.0,Indonesian <id@li.org>
+xfconf,421,0,0,61,0,0,374,421,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfdesktop,1004,0,0,268,0,0,979,1004,100.0,Indonesian <id@li.org>
+xfmpc,53,4,67,19,1,35,58,124,42.74193548387097,Indonesian <id@li.org>
+xfprint,322,0,0,113,0,0,315,322,100.0,Indonesian <id@li.org>
+xfwm4,797,0,0,224,0,0,871,797,100.0,Indonesian <id@li.org>
+xmms,2824,235,384,923,52,70,2680,3443,82.02149288411269,Indonesia <rac@linux-mandrake.com>
+yelp,957,0,3,237,0,3,905,960,99.6875,Indonesia <kontak@id.gnome.org>
+yum-rhn-plugin,0,0,107,0,0,14,0,107,0.0,LANGUAGE <LL@li.org>
+zenity,541,0,0,120,0,0,504,541,100.0,Indonesia <kontak@id.gnome.org>

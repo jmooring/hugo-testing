@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,2640,0,976,503,0,146,2732,3616,73.00884955752213,Frisian <fy@li.org>
+bluez-gnome,46,2,630,22,1,173,52,678,6.784660766961652,Frisian <fy@li.org>
+konq-plugins,1377,179,0,479,11,0,1370,1556,88.49614395886888,Frysk <kde-i18n-fry@kde.org>
+ksig,85,0,0,26,0,0,76,85,100.0,Frysk <kde-i18n-fry@kde.org>
+picard,21,169,443,19,90,154,25,633,3.3175355450236967,Frisian <fy@li.org>

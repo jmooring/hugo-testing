@@ -1,0 +1,32 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,36,42,100.0,Bodo <brx@li.org>
+anaconda,0,0,7236,0,0,1198,0,7236,0.0,Bodo
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Bodo (http://www.transifex.com/projects/p/certmonger/language/brx/)
+entangle,0,0,953,0,0,229,0,953,0.0,Bodo
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Bodo
+gnucash,25540,5922,4817,4205,821,413,22934,36279,70.3988533311282,NONE
+initial-setup,0,0,33,0,0,7,0,33,0.0,Bodo
+inkscape,20458,10624,9847,4533,2810,1325,19681,40929,49.98411883994234,Hindi <Indlinux>
+libosinfo,0,0,777,0,0,167,0,777,0.0,Bodo
+libreoffice,38658,13722,51827,13017,6023,13448,39681,104207,37.097315919276056,LANGUAGE <LL@li.org>
+libvirt,0,0,64581,0,0,9968,0,64581,0.0,Bodo
+libvirt-glib,0,0,153,0,0,30,0,153,0.0,Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+mingw-libosinfo,0,0,777,0,0,167,0,777,0.0,Bodo
+mingw-libvirt,0,0,64090,0,0,9884,0,64090,0.0,Bodo
+mingw-libvirt-glib,0,0,153,0,0,30,0,153,0.0,Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/)
+mingw-osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Bodo
+mypaint,305,0,5015,102,0,978,315,5320,5.733082706766917,Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/>
+osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Bodo
+pam,0,0,597,0,0,120,0,597,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+php-phpmyadmin-sql-parser,0,0,227,0,0,44,0,227,0.0,Bodo <https://hosted.weblate.org/projects/phpmyadmin/master/brx/>
+php-phpmyadmin-sql-parser5,0,0,268,0,0,50,0,268,0.0,Bodo <https://hosted.weblate.org/projects/phpmyadmin/master/brx/>
+pidgin,18248,0,0,3891,0,0,18491,18248,100.0,Gist bodo team <info.gist@cdac.in>
+policycoreutils,1,0,4492,1,0,697,2,4493,0.022256843979523704,Bodo
+pykickstart,0,0,1605,0,0,179,0,1605,0.0,Bodo
+python-fedora,0,0,214,0,0,29,0,214,0.0,Bodo
+python-meh,0,0,109,0,0,23,0,109,0.0,Bodo
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Bodo
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+virt-viewer,0,0,835,0,0,183,0,835,0.0,Bodo

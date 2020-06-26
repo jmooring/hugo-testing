@@ -1,0 +1,739 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4074,0,0,496,0,0,4733,4074,100.0,Hindi <kde-i18n-doc@kde.org>
+NetworkManager,4442,5015,17531,748,664,788,4987,26988,16.45916703720172,Hindi <kde-i18n-doc@kde.org>
+PackageKit,877,0,0,239,0,0,1118,877,100.0,Hindi (http://www.transifex.com/freedesktop/packagekit/language/hi/)
+abrt,2128,100,1448,274,15,128,2568,3676,57.889009793253535,Hindi <https://translate.fedoraproject.org/projects/abrt/abrt/hi/>
+accerciser,556,0,0,204,0,0,718,556,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Hindi (http://www.transifex.com/freedesktop/accountsservice/language/hi/)
+aisleriot,2807,0,0,617,0,0,3104,2807,100.0,Hindi <kde-i18n-doc@kde.org>
+akonadi-calendar-tools,785,0,0,172,0,0,928,785,100.0,English <kde-i18n-doc@kde.org>
+akregator,852,413,542,241,118,80,1094,1807,47.149972329828444,Hindi <indlinux-hindi@lists.sourceforge.net>
+alacarte,42,0,0,16,0,0,55,42,100.0,Hindi <hindi.sf.net>
+anaconda,2250,198,5570,436,48,874,2644,8018,28.061860813170362,Hindi <https://translate.fedoraproject.org/projects/anaconda/master/hi/>
+android-tools,5415,453,1810,770,89,219,6784,7678,70.52617869236781,Hindi <indlinux-hindi@lists.sourceforge.net>
+anjuta,2171,5809,54,1060,957,26,2444,8034,27.02265372168285,Hindi <Indlinux>
+arduino,1306,0,1898,251,0,356,1577,3204,40.76154806491885,Hindi (http://www.transifex.com/mbanzi/arduino-ide-15/language/hi/)
+ark,93,600,1230,26,118,199,107,1923,4.83619344773791,Hindi <indlinux-hindi@lists.sourceforge.net>
+artikulate,15,0,323,14,0,135,15,338,4.437869822485207,English <kde-i18n-doc@kde.org>
+asunder,17,0,475,15,0,76,18,492,3.4552845528455287,http://littlesvr.ca/ostd/
+at-spi2-core,5,0,0,1,0,0,5,5,100.0,Hindi <kde-i18n-doc@kde.org>
+atk,398,0,0,139,0,0,432,398,100.0,Hindi <kde-i18n-doc@kde.org>
+atomix,125,0,0,44,0,0,152,125,100.0,Gnome Hindi Team<indlinux-hindi-gnome@lists.sourceforge.net>
+atril,852,0,3537,291,0,445,1001,4389,19.41216678058783,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+audacity,18026,0,0,4211,0,0,21339,18026,100.0,Hindi (http://www.transifex.com/klyok/audacity/language/hi/)
+avogadro,236,0,6371,148,0,2224,325,6607,3.5719691236567277,Hindi <hi@li.org>
+avogadro2,7,9,448,5,5,142,25,464,1.5086206896551724,Hindi <hi@li.org>
+avogadro2-libs,114,15,3847,112,7,1075,186,3976,2.8672032193158956,Hindi <hi@li.org>
+balsa,1860,1954,1534,516,527,244,2336,5348,34.77935676888556,Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net>
+baobab,210,0,0,57,0,0,245,210,100.0,Hindi <kde-i18n-doc@kde.org>
+bleachbit,1811,0,0,350,0,0,2241,1811,100.0,Hindi <hi@li.org>
+blender,3622,0,0,1786,0,0,4204,3622,100.0,Hindi <www.anisecrets.com>
+blinken,123,6,4,41,4,2,148,133,92.4812030075188,Hindi <indlinux-hindi@lists.sourceforge.net>
+blueberry,166,0,0,37,0,0,173,166,100.0,Hindi <hi@li.org>
+blueman,79,75,1703,49,40,490,97,1857,4.254173397953688,Hindi (http://www.transifex.com/mate/MATE/language/hi/)
+bookworm,93,37,665,32,9,108,97,795,11.69811320754717,Hindi <https://hosted.weblate.org/projects/bookworm/bookworm/hi/>
+bottles,307,102,1677,62,29,395,351,2086,14.717162032598274,Hindi <https://hosted.weblate.org/projects/bottles/bottles/hi/>
+bovo,53,9,19,18,3,4,66,81,65.4320987654321,Hindi <indlinux-hindi@lists.sourceforge.net>
+brasero,5549,0,0,969,0,0,6445,5549,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+cacti,827,29773,73,578,3755,5,1004,30673,2.6961823101750726,
+caja,6672,0,3003,1225,0,379,7692,9675,68.96124031007751,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+caja-actions,139,0,18676,84,0,1432,189,18815,0.7387722561785809,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+caja-extensions,105,0,655,39,0,106,124,760,13.815789473684212,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+calamares,490,0,0,85,0,0,593,490,100.0,Hindi (https://www.transifex.com/calamares/teams/20061/hi/)
+calibre,1148,0,159914,557,0,17927,1159,161062,0.712768995790441,Hindi (http://www.transifex.com/calibre/calibre/language/hi/)
+calligra,24572,13677,29211,8272,3284,2519,28339,67460,36.42454788022532,Hindi <kde-i18n-doc@lists.kde.org>
+calligraplan,590,3599,5141,273,1159,607,682,9330,6.32368703108253,Hindi <indlinux-hindi@lists.sourceforge.net>
+camorama,31,14,730,11,9,146,35,775,4.0,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+caribou,171,0,0,57,0,0,199,171,100.0,hindi
+cawbird,63,37,1133,25,12,300,80,1233,5.109489051094891,Hindi (India) (http://www.transifex.com/cawbird/cawbird/language/hi_IN/)
+ccsm,510,10,71,133,6,24,632,591,86.29441624365482,Hindi <hi@li.org>
+cervisia,1524,70,25,394,19,8,1862,1619,94.13218035824583,Hindi <indlinux-hindi@lists.sourceforge.net>
+cheese,628,0,0,130,0,0,689,628,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+chkconfig,502,19,52,93,5,9,600,573,87.60907504363001,Hindi <indlinux-hindi@lists.sourceforge.net>
+chromium,13891,0,0,3057,0,0,15172,13891,100.0,Hindi <kde-i18n-doc@kde.org>
+cinnamon-control-center,1313,0,0,756,0,0,1317,1313,100.0,Hindi <hindi@hindi>
+cinnamon-desktop,341,1,126,44,1,19,394,468,72.86324786324786,Hindi <hindi.sf.net>
+cinnamon-translations,22851,0,423,5175,0,46,25155,23274,98.18252126836813,Hindi <hi@li.org>
+clementine,101,0,5150,47,0,1344,109,5251,1.9234431536850123,Hindi (http://www.transifex.com/davidsansome/clementine/language/hi/)
+clutter,2853,179,25,638,29,8,2889,3057,93.32679097154073,Hindi <kde-i18n-doc@kde.org>
+cogl,378,0,0,76,0,0,510,378,100.0,Hindi <kde-i18n-doc@kde.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,25,0,363,8,0,91,28,388,6.443298969072164,Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/)
+compiz,1480,2314,591,280,493,106,1857,4385,33.75142531356899,Hindi <hi@li.org>
+compiz-plugins-experimental,999,1398,2076,229,378,285,1107,4473,22.334004024144868,Hindi <hi@li.org>
+compiz-plugins-extra,2440,668,665,486,159,105,2638,3773,64.67002385369732,Hindi <hi@li.org>
+compiz-plugins-main,3358,399,461,646,98,67,3786,4218,79.61119013750593,Hindi <hi@li.org>
+console-setup,951,27,6,174,3,2,958,984,96.64634146341463,
+cozy,1572,0,0,266,0,0,1752,1572,100.0,Hindi (https://www.transifex.com/geigi/teams/78138/hi/)
+cracklib,93,0,3,15,0,1,105,96,96.875,Hindi <Red Hat>
+dasher,615,0,0,212,0,0,718,615,100.0,Hindi <hindi.sf.net>
+dconf-editor,131,39,1294,18,17,152,151,1464,8.94808743169399,Hindi <kde-i18n-doc@kde.org>
+debconf,191,0,0,17,0,0,245,191,100.0,American English <kde-i18n-doc@kde.org>
+deepin-daemon,853,0,250,194,0,50,1003,1103,77.33454215775159,Hindi (India) (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/hi_IN/)
+deja-dup,1,0,1622,1,0,284,14,1623,0.06161429451632779,Hindi <hi@li.org>
+deluge,1201,0,1415,439,0,412,1389,2616,45.90978593272171,Hindi <hi@li.org>
+devhelp,408,0,0,111,0,0,424,408,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+dialect,366,0,0,187,0,0,448,366,100.0,Hindi <https://hosted.weblate.org/projects/dialect/dialect/hi/>
+dialog,25,0,0,23,0,0,29,25,100.0,<elinks@knopper.net>
+digikam,1917,18966,34037,880,5215,2671,2232,54920,3.4905316824471964,kde-hindi
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,0,0,1748,0,0,470,0,1748,0.0,Hindi (http://www.transifex.com/projects/p/dnf/language/hi/)
+dnfdragora,187,0,1584,120,0,354,208,1771,10.559006211180124,Hindi (https://www.transifex.com/MageiaLinux/teams/9361/hi/)
+dolphin,2128,0,2475,564,0,123,2546,4603,46.23071909624158,kde-hindi
+drgeo,1870,90,25,447,9,5,2135,1985,94.20654911838791,Hindi
+edgar,2,0,11472,2,0,1533,2,11474,0.01743071291615827,Hindi <hi@li.org>
+efl,5,0,0,4,0,0,9,5,100.0,
+eiciel,12,0,180,7,0,49,16,192,6.25,Hindi <https://l10n.opensuse.org/projects/eiciel/master/hi/>
+elementary-calculator,71,16,148,33,7,35,80,235,30.21276595744681,Hindi <https://weblate.elementary.io/projects/calculator/calculator/hi/>
+elementary-calendar,334,32,495,129,11,115,368,861,38.79210220673635,Hindi <https://l10n.elementary.io/projects/calendar/calendar/hi/>
+elementary-camera,55,5,99,13,2,24,65,159,34.59119496855346,Hindi <https://l10n.elementary.io/projects/camera/camera/hi/>
+elementary-capnet-assist,0,0,81,0,0,14,0,81,0.0,none
+elementary-code,467,85,1056,147,18,142,582,1608,29.04228855721393,Hindi <https://l10n.elementary.io/projects/code/code/hi/>
+elementary-files,43,190,3280,16,33,600,52,3513,1.224025049814973,Hindi <https://weblate.elementary.io/projects/files/files/hi/>
+elementary-greeter,15,2,183,5,1,39,19,200,7.5,Hindi <https://l10n.elementary.io/projects/desktop/greeter/hi/>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,60,68,530,30,28,95,68,658,9.118541033434651,Hindi <https://weblate.elementary.io/projects/mail/mail/hi/>
+elementary-music,120,30,1055,71,21,262,133,1205,9.95850622406639,Hindi <https://weblate.elementary.io/projects/music/music/hi/>
+elementary-notifications,0,0,36,0,0,10,0,36,0.0,none
+elementary-photos,2489,715,807,587,89,142,2993,4011,62.05435053602593,Hindi <https://weblate.elementary.io/projects/photos/photos/hi/>
+elementary-screenshot-tool,80,3,165,24,2,34,83,248,32.25806451612903,Hindi <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/hi/>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,3,9,118,2,5,38,3,130,2.307692307692308,Hindi <https://weblate.elementary.io/projects/desktop/shortcut-overlay/hi/>
+elementary-sideload,1,0,318,1,0,60,2,319,0.3134796238244514,Hindi <https://l10n.elementary.io/projects/desktop/sideload/hi/>
+elementary-tasks,0,0,364,0,0,77,0,364,0.0,none
+elementary-terminal,139,42,462,38,7,72,160,643,21.61741835147745,Hindi <https://l10n.elementary.io/projects/terminal/terminal/hi/>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,58,2,331,11,1,84,71,391,14.83375959079284,Hindi <https://weblate.elementary.io/projects/videos/videos/hi/>
+elisa-player,558,12,2,216,4,1,655,572,97.55244755244755,kde-hindi
+emerald,652,39,5,215,4,1,774,696,93.67816091954023,gist bengali team <info.gist@cdac.in>
+engrampa,1084,0,6754,263,0,630,1262,7838,13.83005868844093,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+entangle,0,0,953,0,0,229,0,953,0.0,Hindi
+eog,1616,0,0,327,0,0,1857,1616,100.0,Hindi <kde-i18n-doc@kde.org>
+eom,1015,0,3946,252,0,290,1185,4961,20.459584761136867,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+epiphany,2461,0,0,570,0,0,2957,2461,100.0,Hindi <kde-i18n-doc@kde.org>
+evince,1525,0,0,355,0,0,1817,1525,100.0,Hindi <kde-i18n-doc@kde.org>
+evolution,21169,0,0,4441,0,0,25462,21169,100.0,Hindi <kde-i18n-doc@kde.org>
+evolution-data-server,5396,0,0,1074,0,0,6550,5396,100.0,Hindi <kde-i18n-doc@kde.org>
+evolution-ews,1165,0,0,239,0,0,1449,1165,100.0,Hindi <kde-i18n-doc@kde.org>
+evolution-mapi,1034,0,0,231,0,0,1274,1034,100.0,Hindi <hindi.sf.net>
+evolution-rss,704,0,0,192,0,0,873,704,100.0,Hindi <hindi.sf.net>
+exaile,280,151,3636,115,53,897,320,4067,6.884681583476763,Hindi <https://hosted.weblate.org/projects/exaile/master/hi/>
+fcitx-table-other,2,0,22,2,0,20,2,24,8.333333333333332,Hindi (http://www.transifex.com/fcitx/fcitx/language/hi/)
+fcitx5-table-other,0,0,100,0,0,34,0,100,0.0,Hindi (http://www.transifex.com/fcitx/fcitx/language/hi/)
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+file-roller,1195,0,0,268,0,0,1409,1195,100.0,Hindi <kde-i18n-doc@kde.org>
+firewalld,1486,10,721,292,1,122,1664,2217,67.02751465944971,Hindi (http://www.transifex.com/projects/p/firewalld/language/hi/)
+five-or-more,465,0,0,101,0,0,530,465,100.0,Hindi <kde-i18n-doc@kde.org>
+folks,1003,0,0,123,0,0,1165,1003,100.0,Hindi <kde-i18n-doc@kde.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Hindi
+four-in-a-row,427,0,0,106,0,0,474,427,100.0,Hindi <kde-i18n-doc@kde.org>
+fprintd,0,0,419,0,0,57,0,419,0.0,Hindi (http://www.transifex.com/freedesktop/fprintd/language/hi/)
+fragments,1205,0,801,371,0,155,1499,2006,60.06979062811565,Hindi (https://www.transifex.com/transmissionbt/teams/33778/hi/)
+freeipa,93,0,57931,19,0,4658,107,58024,0.16027850544602235,Hindi
+fwupd,82,0,0,17,0,0,109,82,100.0,Hindi (http://www.transifex.com/freedesktop/fwupd/language/hi/)
+gala,29,0,329,12,0,61,33,358,8.100558659217876,Hindi <https://l10n.elementary.io/projects/desktop/gala/hi/>
+gamehub,19,0,1096,5,0,360,20,1115,1.7040358744394617,Hindi <https://hosted.weblate.org/projects/gamehub/translations/hi/>
+gammastep,28,70,847,5,14,130,36,945,2.9629629629629632,Hindi <hi@li.org>
+garcon,122,0,0,36,0,0,141,122,100.0,Hindi (http://www.transifex.com/xfce/garcon/language/hi/)
+gbrainy,4235,0,1773,694,0,104,4617,6008,70.48934753661784,Hindi <indlinux-hindi@lists.sourceforge.net>
+gconf-editor,336,0,0,98,0,0,420,336,100.0,Hindi <hindi.sf.net>
+gcr,677,0,0,242,0,0,798,677,100.0,Hindi <kde-i18n-doc@kde.org>
+gdk-pixbuf2,1354,0,0,202,0,0,1605,1354,100.0,Hindi <kde-i18n-doc@kde.org>
+gdm,578,15,57,80,3,4,697,650,88.92307692307693,Hindi <kde-i18n-doc@kde.org>
+geany,276,139,5741,122,36,1171,322,6156,4.483430799220272,Hindi
+geary,137,0,964,41,0,286,158,1101,12.443233424159855,Hindi (India) (http://www.transifex.com/projects/p/geary/language/hi_IN/)
+gedit,4083,0,0,683,0,0,4844,4083,100.0,Hindi <kde-i18n-doc@kde.org>
+gedit-plugins,788,186,231,360,56,53,870,1205,65.39419087136929,Hindi <hindi.sf.net>
+genius,169,16,2596,75,5,377,201,2781,6.076950737144912,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+ggz-base-libs,74,0,0,17,0,0,81,74,100.0,Hindi <hindi.sf.net>
+gimagereader,139,40,1382,61,1,364,160,1561,8.904548366431776,Hindi <https://hosted.weblate.org/projects/gimagereader/translations/hi/>
+gimp,275,1630,11935,207,822,2287,330,13840,1.9869942196531793,Hindi <fedora-trans-hi@redhat.com>
+glade,2982,312,2767,716,106,446,3117,6061,49.19980201286916,
+glib-networking,161,0,0,29,0,0,195,161,100.0,Hindi <kde-i18n-doc@kde.org>
+glib2,5703,0,0,905,0,0,6753,5703,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-abrt,221,0,0,55,0,0,265,221,100.0,Hindi <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/hi/>
+gnome-activity-journal,0,0,316,0,0,94,0,316,0.0,Hindi <hi@li.org>
+gnome-applets,3367,0,0,791,0,0,3722,3367,100.0,Hindi <hindi.sf.net>
+gnome-bluetooth,309,0,0,102,0,0,361,309,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-books,460,0,0,151,0,0,550,460,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-boxes,950,0,0,208,0,0,1187,950,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-calculator,1337,0,0,428,0,0,1519,1337,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-chess,1204,0,0,190,0,0,1353,1204,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-clocks,223,0,0,77,0,0,269,223,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-color-manager,1792,0,0,342,0,0,2093,1792,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-contacts,405,0,0,155,0,0,449,405,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-control-center,6259,0,0,2210,0,0,7190,6259,100.0,Hindi <hindi@hindi>
+gnome-desktop,351,0,0,53,0,0,426,351,100.0,Hindi <hindi.sf.net>
+gnome-desktop3,146,0,0,23,0,0,172,146,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-dictionary,841,0,0,180,0,0,881,841,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-disk-utility,3423,0,0,632,0,0,4135,3423,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-do,482,0,130,125,0,19,614,612,78.75816993464052,Hindi <hi@li.org>
+gnome-doc-utils,249,0,0,99,0,0,256,249,100.0,Hindi <hindi.sf.net>
+gnome-extensions-app,1485,0,0,374,0,0,1722,1485,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-font-viewer,109,0,0,26,0,0,121,109,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-icon-theme,20,0,0,16,0,0,20,20,100.0,Hindi <hindi.sf.net>
+gnome-initial-setup,585,0,0,103,0,0,721,585,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-keyring,553,0,0,112,0,0,619,553,100.0,Hindi <hindi.sf.net>
+gnome-klotski,120,0,0,57,0,0,132,120,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-mahjongg,170,0,0,53,0,0,208,170,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-maps,249,0,0,50,0,0,291,249,100.0,Hindi <hi@li.org>
+gnome-menus,70,0,0,27,0,0,70,70,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-mime-data,887,0,0,362,0,0,899,887,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+gnome-mines,261,0,0,63,0,0,318,261,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-nettool,664,0,0,219,0,0,738,664,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-nibbles,526,0,0,130,0,0,599,526,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-online-accounts,692,0,0,147,0,0,845,692,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-packagekit,4390,0,0,681,0,0,5228,4390,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-panel,3520,0,0,508,0,0,3872,3520,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-power-manager,480,0,0,147,0,0,514,480,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-radio,249,0,0,50,0,0,291,249,100.0,Hindi <hi@li.org>
+gnome-robots,823,0,0,163,0,0,915,823,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-screenshot,354,0,0,75,0,0,384,354,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-search-tool,1249,0,0,186,0,0,1431,1249,100.0,Hindi <Indlinux>
+gnome-session,323,0,0,59,0,0,424,323,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-settings-daemon,2607,0,0,429,0,0,2968,2607,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-shell,1485,0,0,374,0,0,1722,1485,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-shell-extensions,358,0,0,68,0,0,429,358,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-shell-frippery,19,0,0,7,0,0,27,19,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+gnome-software,3604,0,0,730,0,0,4467,3604,100.0,Hindi (http://www.transifex.com/endless-os/gnome-software/language/hi/)
+gnome-sudoku,469,0,0,111,0,0,591,469,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-system-log,420,0,0,66,0,0,437,420,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-system-monitor,1289,0,0,292,0,0,1417,1289,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-terminal,2045,0,164,423,0,19,2348,2209,92.57582616568583,Hindi <kde-i18n-doc@kde.org>
+gnome-tetravex,117,0,0,40,0,0,150,117,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-themes-extra,12,0,0,5,0,0,11,12,100.0,Hindi <Indlinux>
+gnome-user-docs,3044,49,43704,163,2,2114,3623,46797,6.504690471611428,indlinux-hindi@lists.sourceforge.net
+gnome-user-share,160,0,0,29,0,0,186,160,100.0,Hindi <kde-i18n-doc@kde.org>
+gnome-vfs2,1508,0,0,301,0,0,1671,1508,100.0,Hindi <hindi.sf.net>
+gnome-video-effects,256,0,0,68,0,0,267,256,100.0,Hindi <kde-i18n-doc@kde.org>
+gnote,3592,0,0,543,0,0,4277,3592,100.0,Hindi <kde-i18n-doc@kde.org>
+gnucash,24164,6490,6012,3903,964,495,28813,36666,65.90301641848033,Hindi <https://hosted.weblate.org/projects/gnucash/gnucash/hi/>
+godot,3857,492,8867,939,169,1802,4576,13216,29.184322033898308,Hindi <https://hosted.weblate.org/projects/godot-engine/godot/hi/>
+gradio,45,0,264,18,0,83,53,309,14.563106796116504,Hindi <https://hosted.weblate.org/projects/gradio/translations/hi/>
+granite,18,10,470,12,4,102,21,498,3.614457831325301,Hindi <https://l10n.elementary.io/projects/desktop/granite/hi/>
+gsettings-desktop-schemas,5290,0,0,468,0,0,6120,5290,100.0,Hindi <kde-i18n-doc@kde.org>
+gthumb,315,0,2280,211,0,666,446,2595,12.138728323699421,Hindi <fedora-trans-hi@redhat.com>
+gtk2,13259,295,150,2717,49,18,14598,13704,96.75277291301809,Hindi <hindi.sf.net>
+gtk2-engines,119,0,0,47,0,0,137,119,100.0,Hindi <hindi.sf.net>
+gtk3,13891,0,0,3057,0,0,15172,13891,100.0,Hindi <kde-i18n-doc@kde.org>
+gtk4,13891,0,0,3057,0,0,15172,13891,100.0,Hindi <kde-i18n-doc@kde.org>
+gtkhtml3,458,21,9,302,4,4,618,488,93.85245901639344,Hindi <fedora-trans-hi@redhat.com>
+gtksourceview2,1120,0,0,448,0,0,1169,1120,100.0,Hindi <hindi.sf.net>
+gtksourceview3,127,82,113,40,21,45,128,322,39.44099378881988,Hindi <kde-i18n-doc@kde.org>
+gtksourceview4,1608,0,0,670,0,0,1676,1608,100.0,Hindi <kde-i18n-doc@kde.org>
+gucharmap,1130,0,75,395,0,2,1201,1205,93.7759336099585,Hindi <kde-i18n-doc@kde.org>
+guestfs-tools,1414,0,14319,266,0,1483,1530,15733,8.987478548274327,Hindi (http://www.transifex.com/projects/p/libguestfs/language/hi/)
+gvfs,2704,0,0,596,0,0,3161,2704,100.0,Hindi <kde-i18n-doc@kde.org>
+gwenview,83,401,1136,31,182,205,97,1620,5.1234567901234565,Hindi <indlinux-hindi@lists.sourceforge.net>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hexchat,2332,0,3639,728,0,718,2521,5971,39.05543460056941,Hindi (http://www.transifex.com/hexchat/hexchat/language/hi/)
+hivex,262,8,0,21,1,0,293,270,97.03703703703704,Hindi <indlinux-hindi@lists.sourceforge.net>
+iagno,117,0,0,38,0,0,150,117,100.0,Hindi <kde-i18n-doc@kde.org>
+ibus,560,103,1629,120,16,419,660,2292,24.43280977312391,Hindi <indlinux-hindi@lists.sourceforge.net>
+icewm,262,0,1978,85,0,253,264,2240,11.696428571428571,Hindi <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/hi/>
+im-chooser,229,0,25,52,0,6,265,254,90.15748031496062,Hindi (http://www.transifex.net/projects/p/im-chooser/team/hi/)
+imsettings,440,5,40,80,1,7,516,485,90.72164948453609,Hindi (http://www.transifex.net/projects/p/imsettings/team/hi/)
+initial-setup,33,0,73,7,0,13,36,106,31.132075471698112,Hindi (http://www.transifex.com/projects/p/initial-setup/language/hi/)
+initscripts,738,79,301,110,14,34,901,1118,66.01073345259391,Hindi <indlinux-hindi@lists.sourceforge.net>
+inkscape,20254,11316,12035,4693,2924,1540,25940,43605,46.448801742919386,hindi
+iso-codes,1295,4035,10375,675,3001,6507,1291,15705,8.245781598217128,American English <kde-i18n-doc@kde.org>
+isomaster,32,1,641,24,1,82,40,674,4.747774480712167,http://littlesvr.ca/ostd/
+json-glib,226,0,0,27,0,0,234,226,100.0,Hindi <kde-i18n-doc@kde.org>
+juk,829,97,558,252,45,61,1018,1484,55.86253369272237,Hindi <indlinux-hindi@lists.sourceforge.net>
+k3b,4000,1905,14275,1120,418,980,5175,20180,19.821605550049554,Hindi <indlinux-hindi@lists.sourceforge.net>
+kactivitymanagerd,11,0,0,5,0,0,11,11,100.0,kde-hindi
+kalarm,2653,1817,3610,558,360,208,3063,8080,32.834158415841586,Hindi <indlinux-hindi@lists.sourceforge.net>
+kalgebra,52,39,71,33,19,28,63,162,32.098765432098766,Hindi <indlinux-hindi@lists.sourceforge.net>
+kalzium,1145,2198,6604,395,424,564,1217,9947,11.51100834422439,Hindi <indlinux-hindi@lists.sourceforge.net>
+kamera,105,40,197,26,5,6,123,342,30.701754385964914,Hindi <indlinux-hindi@lists.sourceforge.net>
+kanagram,175,202,151,63,35,47,207,528,33.14393939393939,Hindi <indlinux-hindi@lists.sourceforge.net>
+kapman,55,0,59,27,0,9,61,114,48.24561403508772,Hindi <indlinux-hindi@lists.sourceforge.net>
+kate,1204,401,1109,330,99,142,1418,2714,44.362564480471626,kde-hindi
+katomic,104,26,54,42,8,9,115,184,56.52173913043478,Hindi <indlinux-hindi@lists.sourceforge.net>
+kaudiocreator,1026,136,1110,333,64,149,1264,2272,45.15845070422535,Hindi <kde-i18n-doc@lists.kde.org>
+kblackbox,286,95,983,54,21,27,301,1364,20.967741935483872,Hindi <indlinux-hindi@lists.sourceforge.net>
+kblocks,58,8,81,21,2,13,61,147,39.455782312925166,kde-hindi
+kbounce,86,37,30,25,7,10,97,153,56.209150326797385,Hindi <indlinux-hindi@lists.sourceforge.net>
+kbruch,300,448,599,60,68,70,306,1347,22.271714922049,Hindi <indlinux-hindi@lists.sourceforge.net>
+kcachegrind,377,40,1319,153,13,30,426,1736,21.71658986175115,Hindi <indlinux-hindi@lists.sourceforge.net>
+kcalc,429,183,414,197,72,68,446,1026,41.812865497076025,Hindi <indlinux-hindi@lists.sourceforge.net>
+kcharselect,36,6,46,15,3,16,42,88,40.909090909090914,Hindi <indlinux-hindi@lists.sourceforge.net>
+kcolorchooser,29,0,0,10,0,0,31,29,100.0,Hindi <kde-i18n-doc@kde.org>
+kcoloredit,9,95,174,6,32,57,14,278,3.237410071942446,Hindi <indlinux-hindi@lists.sourceforge.net>
+kcron,204,212,118,103,61,26,239,534,38.20224719101123,Hindi <indlinux-hindi@lists.sourceforge.net>
+kde-cli-tools,945,361,829,154,33,34,1069,2135,44.26229508196721,kde-hindi
+kde-dev-utils,38,16,13,17,3,5,49,67,56.71641791044776,Hindi <indlinux-hindi@lists.sourceforge.net>
+kde-l10n,42360,9693,42688,11769,2985,4334,48993,94741,44.7113710009394,Hindi <en@li.org>
+kdecoration,39,0,0,15,0,0,49,39,100.0,kde-hindi
+kdenetwork-filesharing,0,55,390,0,16,33,0,445,0.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+kdepim-addons,286,225,573,133,44,62,301,1084,26.383763837638373,Hindi <indlinux-hindi@lists.sourceforge.net>
+kdepim-runtime,111,64,44,14,4,5,115,219,50.68493150684932,Hindi <indlinux-hindi@lists.sourceforge.net>
+kdeplasma-addons,74,2,419,39,1,145,86,495,14.949494949494948,kde-hindi
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,English <kde-i18n-doc@kde.org>
+kdevelop,230,95,371,78,31,53,236,696,33.04597701149425,Hindi <indlinux-hindi@lists.sourceforge.net>
+kdf,140,14,27,57,7,5,172,181,77.34806629834254,Hindi <indlinux-hindi@lists.sourceforge.net>
+kdialog,382,0,0,75,0,0,445,382,100.0,kde-hindi
+kdiamond,87,9,26,18,3,11,110,122,71.31147540983606,Hindi <indlinux-hindi@lists.sourceforge.net>
+kdiff3,884,490,2026,258,127,206,1172,3400,26.0,kde-hindi
+kdnssd,30,0,0,7,0,0,31,30,100.0,Hindi <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,83,0,0,12,0,0,86,83,100.0,Hindi <fedora-trans-hi@redhat.com>
+keditbookmarks,466,0,0,132,0,0,608,466,100.0,kde-hindi
+kexi,3304,6171,5205,977,1515,468,4068,14680,22.506811989100818,Hindi <kde-i18n-doc@lists.kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Kde-hindi
+kf5-audiocd-kio,392,51,411,137,21,18,475,854,45.90163934426229,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-calendarsupport,379,676,1931,122,198,112,470,2986,12.692565304755526,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kalarmcal,3,37,0,3,17,0,3,40,7.5,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kauth,73,0,0,8,0,0,78,73,100.0,Kde-hindi
+kf5-kblog,183,31,29,23,2,2,197,243,75.30864197530865,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kbookmarks,230,0,0,49,0,0,256,230,100.0,kde-hindi
+kf5-kcmutils,247,0,0,27,0,0,277,247,100.0,kde-hindi
+kf5-kcodecs,372,0,0,54,0,0,408,372,100.0,kde-hindi
+kf5-kcompletion,18,0,0,11,0,0,23,18,100.0,kde-hindi
+kf5-kconfig,262,15,10,102,1,1,328,287,91.28919860627178,kde-hindi
+kf5-kconfigwidgets,327,8,5,121,3,1,459,340,96.17647058823529,kde-hindi
+kf5-kcontacts,41,57,79,31,37,40,45,177,23.163841807909606,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kcoreaddons,516,15,0,186,3,0,545,531,97.17514124293785,kde-hindi
+kf5-kdav,185,0,0,20,0,0,170,185,100.0,kde-hindi
+kf5-kdbusaddons,48,0,0,6,0,0,61,48,100.0,kde-hindi
+kf5-kdeclarative,107,7,37,15,2,5,139,151,70.86092715231787,kde-hindi
+kf5-kdelibs4support,1544,1180,2629,1003,730,811,1741,5353,28.843639080889222,kde-hindi
+kf5-kdesignerplugin,54,0,0,9,0,0,63,54,100.0,Hindi <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,21,19,100.0,Kde-hindi
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Hindi <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,24,8,100.0,Hindi <Indlinux-hindi@lists.sourceforge.net>
+kf5-kglobalaccel,71,0,0,9,0,0,75,71,100.0,kde-hindi
+kf5-kholidays,139,0,0,90,0,0,132,139,100.0,kde-hindi
+kf5-khtml,1099,43,579,273,14,23,1295,1721,63.85822196397444,kde-hindi
+kf5-ki18n,124,0,0,110,0,0,126,124,100.0,kde-hindi
+kf5-kiconthemes,39,0,0,18,0,0,48,39,100.0,kde-hindi
+kf5-kidentitymanagement,1,7,173,1,3,19,1,181,0.5524861878453038,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kinit,116,0,0,11,0,0,129,116,100.0,kde-hindi
+kf5-kio,4143,1882,5860,651,366,340,4670,11885,34.85906604964241,kde-hindi
+kf5-kipi-plugins,54,125,1581,24,26,247,63,1760,3.0681818181818183,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kirigami2,60,28,6,25,12,3,71,94,63.829787234042556,kde-hindi
+kf5-kitemviews,7,0,0,4,0,0,8,7,100.0,Hindi <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,133,0,0,38,0,0,160,133,100.0,kde-hindi
+kf5-kjsembed,248,0,0,44,0,0,277,248,100.0,kde-hindi
+kf5-kldap,97,37,95,32,16,14,107,229,42.35807860262008,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kmailtransport,176,68,410,42,30,37,211,654,26.911314984709477,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kmime,7,0,152,4,0,6,7,159,4.40251572327044,Hindi <kde-i18n-doc@kde.org>
+kf5-knewstuff,197,215,1249,63,85,83,237,1661,11.860325105358218,kde-hindi
+kf5-knotifications,20,1,0,7,1,0,31,21,95.23809523809523,kde-hindi
+kf5-knotifyconfig,129,0,0,17,0,0,140,129,100.0,kde-hindi
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Hindi <kde-i18n-doc@kde.org>
+kf5-kparts,123,9,0,28,1,0,145,132,93.18181818181817,kde-hindi
+kf5-kpeople,13,0,0,8,0,0,16,13,100.0,kde-hindi
+kf5-kpty,15,0,0,4,0,0,18,15,100.0,Hindi <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,115,100,100.0,kde-hindi
+kf5-kservice,173,0,0,28,0,0,214,173,100.0,kde-hindi
+kf5-ktexteditor,1672,2095,4911,377,465,358,1861,8678,19.26711223784282,kde-hindi
+kf5-ktextwidgets,473,0,0,130,0,0,576,473,100.0,kde-hindi
+kf5-ktnef,353,2,0,141,2,0,402,355,99.43661971830986,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-kwallet,295,85,955,48,4,36,351,1335,22.09737827715356,kde-hindi
+kf5-kwidgetsaddons,1289,2,3,462,2,1,1497,1294,99.61360123647604,kde-hindi
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Hindi <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1429,7,127,224,1,2,1673,1563,91.42674344209853,kde-hindi
+kf5-kxmlrpcclient,13,0,0,2,0,0,13,13,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-libkcddb,314,9,153,189,5,31,338,476,65.96638655462185,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-libkcompactdisc,15,0,0,10,0,0,22,15,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-libkdepim,35,0,0,10,0,0,42,35,100.0,Hindi <kde-i18n-doc@kde.org>
+kf5-libkleo,281,115,939,96,55,179,347,1335,21.04868913857678,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-libksane,5,42,243,4,20,68,5,290,1.7241379310344827,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-libksieve,335,6,3027,58,5,510,390,3368,9.946555819477435,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-libktorrent,18,167,280,10,44,51,27,465,3.870967741935484,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-mailimporter,231,148,1029,48,26,53,313,1408,16.40625,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-messagelib,642,1218,1779,154,413,198,754,3639,17.642209398186314,Hindi <indlinux-hindi@lists.sourceforge.net>
+kf5-sonnet,667,16,0,73,3,0,824,683,97.65739385065886,kde-hindi
+kf5-syntax-highlighting,0,265,347,0,197,165,0,612,0.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+kfind,225,69,208,73,31,11,296,502,44.820717131474105,Hindi <indlinux-hindi@lists.sourceforge.net>
+kfloppy,317,99,225,68,18,14,373,641,49.453978159126365,Hindi <indlinux-hindi@lists.sourceforge.net>
+kgamma,130,0,0,16,0,0,147,130,100.0,kde-hindi
+kgeography,4290,4150,1230,3132,3233,734,4293,9670,44.36401240951396,Hindi <indlinux-hindi@lists.sourceforge.net>
+kget,217,800,1888,80,283,426,281,2905,7.46987951807229,Hindi <indlinux-hindi@lists.sourceforge.net>
+kgoldrunner,1174,368,22012,336,139,433,1324,23554,4.9842914154708335,Hindi <indlinux-hindi@lists.sourceforge.net>
+kgrab,148,16,206,46,4,3,180,370,40.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+kgraphviewer,358,300,1752,92,68,270,463,2410,14.854771784232366,Hindi <indlinux-hindi@lists.sourceforge.net>
+khangman,205,68,203,66,21,34,211,476,43.0672268907563,Hindi <indlinux-hindi@lists.sourceforge.net>
+khelpcenter,211,22,32,78,7,5,260,265,79.62264150943396,Hindi <kde-i18n-doc@kde.org>
+khotkeys,223,36,192,99,10,27,238,451,49.44567627494457,Hindi <en@li.org>
+kiconedit,576,9,141,145,4,6,654,726,79.33884297520662,Hindi <indlinux-hindi@lists.sourceforge.net>
+kig,5490,1003,1362,1046,159,79,5773,7855,69.89178866963718,Hindi <indlinux-hindi@lists.sourceforge.net>
+kile,5311,4305,16372,1491,1177,1698,6112,25988,20.436355240880406,indlinux-hindi <indlinux-hindi@sourceforge.net>
+kinfocenter,211,131,123,111,65,52,226,465,45.376344086021504,Hindi <indlinux-hindi@lists.sourceforge.net>
+kio-extras,508,241,382,78,23,34,592,1131,44.9160035366932,Hindi <indlinux-hindi@lists.sourceforge.net>
+kio-gdrive,63,0,0,15,0,0,78,63,100.0,kde-hindi
+kiriki,53,16,75,25,9,16,57,144,36.80555555555556,Hindi <indlinux-hindi@lists.sourceforge.net>
+kiten,248,90,315,81,40,51,315,653,37.97856049004594,Hindi <indlinux-hindi@lists.sourceforge.net>
+kjots,69,236,346,22,50,62,73,651,10.599078341013826,Hindi <indlinux-hindi@lists.sourceforge.net>
+kjumpingcube,118,47,247,32,14,49,119,412,28.640776699029125,Hindi <indlinux-hindi@lists.sourceforge.net>
+kleopatra,280,2272,6687,91,548,801,333,9239,3.030631020673233,Hindi <indlinux-hindi@lists.sourceforge.net>
+klettres,217,30,191,62,7,15,249,438,49.54337899543379,Hindi <indlinux-hindi@lists.sourceforge.net>
+klines,88,0,11,27,0,1,99,99,88.88888888888889,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmag,249,31,152,64,9,25,315,432,57.638888888888886,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmahjongg,268,49,38,81,12,8,315,355,75.49295774647888,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmail,1537,1669,4942,439,466,271,2057,8148,18.863524791359843,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmenuedit,142,18,117,48,5,10,169,277,51.26353790613718,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmines,79,17,60,28,5,12,90,156,50.641025641025635,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmix,257,294,539,77,57,76,288,1090,23.57798165137615,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmousetool,54,19,74,23,5,4,76,147,36.734693877551024,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmouth,593,186,736,113,41,50,729,1515,39.14191419141914,Hindi <indlinux-hindi@lists.sourceforge.net>
+kmplot,2120,160,213,429,34,18,2278,2493,85.03810669875652,Hindi <indlinux-hindi@lists.sourceforge.net>
+knavalbattle,196,47,156,63,15,24,240,399,49.122807017543856,Hindi <indlinux-hindi@lists.sourceforge.net>
+knetwalk,20,24,199,8,4,44,22,243,8.23045267489712,Hindi <indlinux-hindi@lists.sourceforge.net>
+knotes,196,146,262,84,57,51,235,604,32.450331125827816,Hindi <indlinux-hindi@lists.sourceforge.net>
+koffice-kivio,3853,1423,3141,1477,522,362,4327,8417,45.77640489485565,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+kolf,338,47,16,129,13,6,416,401,84.28927680798004,Hindi <indlinux-hindi@lists.sourceforge.net>
+kolourpaint,1204,277,1083,358,61,29,1625,2564,46.957878315132604,Hindi <indlinux-hindi@lists.sourceforge.net>
+kompare,252,441,737,49,124,32,297,1430,17.622377622377623,Hindi <indlinux-hindi@lists.sourceforge.net>
+konqueror,2885,590,3434,604,131,181,3488,6909,41.7571283832682,Hindi <indlinux-hindi@lists.sourceforge.net>
+konquest,153,57,35,52,27,19,177,245,62.44897959183674,Hindi <indlinux-hindi@lists.sourceforge.net>
+konsole5,479,1079,1858,106,306,296,553,3416,14.022248243559718,kde-hindi
+kontact,56,135,409,22,39,38,65,600,9.333333333333334,Hindi <indlinux-hindi@lists.sourceforge.net>
+konversation,1757,2669,5919,480,667,497,2129,10345,16.984050265828905,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+kopete,6485,3336,8606,1902,883,672,7661,18427,35.192923427579096,Hindi <indlinux-hindi@lists.sourceforge.net>
+korganizer,618,1649,4723,226,382,293,820,6990,8.841201716738198,Hindi <indlinux-hindi@lists.sourceforge.net>
+kpat,105,133,308,39,53,89,125,546,19.230769230769234,Hindi <indlinux-hindi@lists.sourceforge.net>
+kphotoalbum,967,982,7524,300,325,428,1190,9473,10.207959463739048,Hindi <indlinux-hindi@lists.sourceforge.net>
+krdc,333,291,552,107,71,84,392,1176,28.316326530612244,Hindi <indlinux-hindi@lists.sourceforge.net>
+kreport,0,536,286,0,292,52,0,822,0.0,Hindi <kde-i18n-doc@lists.kde.org>
+kreversi,368,0,61,134,0,7,400,429,85.78088578088578,Hindi <kde-i18n-doc@kde.org>
+krfb,117,82,477,36,14,41,141,676,17.307692307692307,Hindi <indlinux-hindi@lists.sourceforge.net>
+krita,11023,4606,12243,4409,1464,932,13712,27872,39.548650975889785,kde-hindi
+kruler,16,14,154,6,4,37,18,184,8.695652173913043,Hindi <indlinux-hindi@lists.sourceforge.net>
+kscreenlocker,36,0,2,15,0,1,48,38,94.73684210526315,kde-hindi
+kshisen,94,74,399,35,13,22,103,567,16.57848324514991,Hindi <indlinux-hindi@lists.sourceforge.net>
+ksirk,211,442,2032,109,96,295,232,2685,7.8584729981378025,Hindi <indlinux-hindi@lists.sourceforge.net>
+kspaceduel,147,18,0,69,12,0,165,165,89.0909090909091,Hindi <indlinux-hindi@lists.sourceforge.net>
+ksquares,144,9,104,52,5,19,153,257,56.03112840466926,Hindi <indlinux-hindi@lists.sourceforge.net>
+ksshaskpass,50,0,0,14,0,0,55,50,100.0,kde-hindi
+kstars,6117,15827,40398,1664,7400,7707,6949,62342,9.812004748002952,Hindi <indlinux-hindi@lists.sourceforge.net>
+ksudoku,392,27,1327,106,4,53,451,1746,22.451317296678123,Hindi <kde-i18n-doc@kde.org>
+ksysguard,541,149,403,145,50,42,618,1093,49.4967978042086,Hindi <indlinux-hindi@lists.sourceforge.net>
+kteatime,162,23,18,52,8,7,190,203,79.80295566502463,Hindi <indlinux-hindi@lists.sourceforge.net>
+ktimer,33,16,209,22,3,28,40,258,12.790697674418606,Hindi <indlinux-hindi@lists.sourceforge.net>
+ktorrent,189,848,6571,147,347,904,223,7608,2.4842271293375395,Hindi <indlinux-hindi@lists.sourceforge.net>
+ktouch,25,400,523,8,103,142,26,948,2.6371308016877637,Hindi <indlinux-hindi@lists.sourceforge.net>
+ktuberling,69,14,75,26,5,7,90,158,43.67088607594937,Hindi <indlinux-hindi@lists.sourceforge.net>
+kturtle,454,614,463,109,163,75,539,1531,29.653821032005222,Hindi <indlinux-hindi@lists.sourceforge.net>
+kwalletmanager5,509,157,134,112,26,27,618,800,63.625,Hindi <indlinux-hindi@lists.sourceforge.net>
+kwin,958,937,3725,257,328,588,1162,5620,17.04626334519573,Hindi <indlinux-hindi@lists.sourceforge.net>
+kwordquiz,1230,386,410,265,89,60,1564,2026,60.710760118460016,Hindi <indlinux-hindi@lists.sourceforge.net>
+libbonobo,543,0,0,107,0,0,600,543,100.0,Hindi <hindi.sf.net>
+libbonoboui,368,0,0,115,0,0,419,368,100.0,Hindi <hindi.sf.net>
+libcryptui,3042,0,0,655,0,0,3622,3042,100.0,Hindi <hindi.sf.net>
+libdnf,2,0,1439,1,0,223,2,1441,0.13879250520471895,Hindi
+libgdata,614,0,0,76,0,0,721,614,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+libgdl,141,0,472,59,0,39,162,613,23.00163132137031,Hindi <hindi.sf.net>
+libgnome,1772,0,0,273,0,0,1949,1772,100.0,Hindi <hindi.sf.net>
+libgnome-keyring,44,0,0,9,0,0,49,44,100.0,Hindi <Indlinux>
+libgnomecanvas,378,0,0,95,0,0,408,378,100.0,Hindi <hindi.sf.net>
+libgnomekbd,187,0,0,39,0,0,187,187,100.0,Hindi <kde-i18n-doc@kde.org>
+libgnomeui,1226,0,0,320,0,0,1337,1226,100.0,Hindi <hindi.sf.net>
+libgtop2,126,0,0,40,0,0,145,126,100.0,Hindi <hindi.sf.net>
+libguestfs,1414,0,14319,266,0,1483,1530,15733,8.987478548274327,Hindi (http://www.transifex.com/projects/p/libguestfs/language/hi/)
+libgweather,6107,0,0,4520,0,0,6240,6107,100.0,Hindi <kde-i18n-doc@kde.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,321,45,4,107,22,3,366,370,86.75675675675676,Hindi <indlinux-hindi@lists.sourceforge.net>
+libkeduvocdocument,123,38,10,58,20,3,137,171,71.9298245614035,Hindi <indlinux-hindi@lists.sourceforge.net>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+libkomparediff2,68,16,59,8,8,3,72,143,47.55244755244755,Hindi <indlinux-hindi@lists.sourceforge.net>
+libksysguard,358,996,2093,106,61,175,379,3447,10.385842761821875,Hindi <en@li.org>
+libmatekbd,185,0,123,45,0,46,181,308,60.064935064935064,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+libmatemixer,25,0,217,21,0,105,25,242,10.330578512396695,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+libmateweather,5950,0,193,4487,0,88,6071,6143,96.85821259970699,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+libmypaint,3,2,2298,3,1,158,3,2303,0.13026487190620928,Hindi <https://hosted.weblate.org/projects/mypaint/libmypaint/hi/>
+libmypaint2,3,2,2306,3,1,158,3,2311,0.1298139333621809,Hindi <https://hosted.weblate.org/projects/mypaint/libmypaint/hi/>
+libnma,379,249,289,89,55,51,445,917,41.33042529989095,Hindi <kde-i18n-doc@kde.org>
+libpeas,110,0,0,31,0,0,135,110,100.0,Hindi <kde-i18n-doc@kde.org>
+libpwquality,333,0,12,50,0,1,343,345,96.52173913043478,Hindi (http://www.transifex.com/projects/p/libpwquality/language/hi/)
+libreport,2317,39,2572,365,4,234,2838,4928,47.01704545454545,Hindi <https://translate.fedoraproject.org/projects/abrt/libreport/hi/>
+libsoup,110,0,0,25,0,0,148,110,100.0,Hindi <kde-i18n-doc@kde.org>
+libxfce4util,424,0,0,7,0,0,426,424,100.0,Hindi (http://www.transifex.com/xfce/libxfce4util/language/hi/)
+libzypp,1163,403,1148,747,81,159,1205,2714,42.85187914517318,Hindi <https://l10n.opensuse.org/projects/libzypp/master/hi/>
+light-locker,68,0,192,13,0,24,81,260,26.153846153846157,Hindi (http://www.transifex.com/the_cavalry/light-locker/language/hi/)
+lightdm,51,0,112,14,0,7,68,163,31.28834355828221,Hindi <hi@li.org>
+lightdm-gtk,28,0,61,10,0,15,35,89,31.46067415730337,Hindi <hi@li.org>
+lightdm-settings,321,0,0,65,0,0,336,321,100.0,Hindi <hi@li.org>
+lightsoff,39,0,0,12,0,0,46,39,100.0,Hindi <kde-i18n-doc@kde.org>
+lskat,174,80,0,48,35,0,214,254,68.50393700787401,Hindi <indlinux-hindi@lists.sourceforge.net>
+lxmenu-data,97,0,0,37,0,0,107,97,100.0,Hindi <hindi.sf.net>
+malcontent,506,0,78,77,0,21,689,584,86.64383561643835,Hindi (https://www.transifex.com/endless-os/teams/9016/hi/)
+mame,0,0,3464,0,0,1221,0,3464,0.0,MAME Language Team
+manafirewall,1185,0,0,141,0,0,1142,1185,100.0,Hindi (https://www.transifex.com/MageiaLinux/teams/9361/hi/)
+marble,47,3528,7843,20,1203,2080,54,11418,0.41163075845156766,Hindi <indlinux-hindi@lists.sourceforge.net>
+marco,3187,0,1116,370,0,60,3587,4303,74.06460608877528,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-applets,1976,0,13944,502,0,1136,2421,15920,12.412060301507537,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-backgrounds,30,0,25,21,0,8,32,55,54.54545454545454,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-calc,1279,0,2044,465,0,284,1486,3323,38.48931688233524,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-control-center,2481,0,5767,981,0,530,2879,8248,30.080019398642094,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-desktop,1139,0,1237,180,0,121,1298,2376,47.93771043771044,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-media,120,0,119,53,0,46,152,239,50.2092050209205,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-menu,63,0,245,34,0,76,69,308,20.454545454545457,Hindi (http://www.transifex.com/mate/MATE/language/hi/)
+mate-menus,98,0,5,38,0,1,86,103,95.14563106796116,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-notification-daemon,120,0,66,35,0,18,147,186,64.51612903225806,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-panel,3863,0,2857,540,0,274,4314,6720,57.48511904761905,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-polkit,104,0,19,18,0,3,134,123,84.5528455284553,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-power-manager,1348,0,3771,283,0,268,1369,5119,26.333268216448523,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-screensaver,889,12,200,152,2,22,1004,1101,80.74477747502272,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-sensors-applet,15,14,2131,11,8,207,31,2160,0.6944444444444444,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-session-manager,429,0,286,102,0,30,537,715,60.0,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-settings-daemon,1082,0,1124,182,0,137,1226,2206,49.048050770625565,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-system-monitor,524,0,4323,201,0,447,631,4847,10.81081081081081,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-terminal,3543,0,4843,444,0,359,4035,8386,42.24898640591462,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-themes,10,0,64,4,0,19,14,74,13.513513513513514,Hindi (http://www.transifex.com/mate/MATE/language/hi/)
+mate-user-admin,12,0,616,10,0,121,17,628,1.910828025477707,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-user-guide,163,0,42806,93,0,3135,194,42969,0.37934324745746933,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+mate-utils,3312,0,6748,668,0,458,3714,10060,32.92246520874752,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+metacity,2040,0,0,310,0,0,2380,2040,100.0,Hindi <kde-i18n-doc@kde.org>
+midori,31,0,3510,13,0,783,37,3541,0.875458909912454,Hindi <hi@li.org>
+minetest,1412,82,8155,446,16,894,1790,9649,14.633640791791896,Hindi <https://hosted.weblate.org/projects/minetest/minetest/hi/>
+mingw-GConf2,4074,0,0,496,0,0,4733,4074,100.0,Hindi <kde-i18n-doc@kde.org>
+mingw-atk,398,0,0,139,0,0,432,398,100.0,Hindi <kde-i18n-doc@kde.org>
+mingw-colord,25,0,363,8,0,91,28,388,6.443298969072164,Hindi (http://www.transifex.net/projects/p/freedesktop/team/hi/)
+mingw-gdk-pixbuf,1354,0,0,202,0,0,1605,1354,100.0,Hindi <kde-i18n-doc@kde.org>
+mingw-glib-networking,161,0,0,29,0,0,195,161,100.0,Hindi <kde-i18n-doc@kde.org>
+mingw-glib2,5703,0,0,905,0,0,6753,5703,100.0,Hindi <kde-i18n-doc@kde.org>
+mingw-gtk2,13259,295,150,2717,49,18,14598,13704,96.75277291301809,Hindi <hindi.sf.net>
+mingw-gtk3,13891,0,0,3057,0,0,15172,13891,100.0,Hindi <kde-i18n-doc@kde.org>
+mingw-gtksourceview3,127,82,113,40,21,45,128,322,39.44099378881988,Hindi <kde-i18n-doc@kde.org>
+mingw-json-glib,226,0,0,27,0,0,234,226,100.0,Hindi <kde-i18n-doc@kde.org>
+mingw-libsoup,110,0,0,25,0,0,148,110,100.0,Hindi <kde-i18n-doc@kde.org>
+mingw-libvirt,19328,27573,20259,3341,4494,2514,22997,67160,28.779035139964265,Hindi (http://www.transifex.com/projects/p/fedora/language/hi/)
+mingw-libvirt-glib,121,0,37,25,0,6,166,158,76.58227848101265,Hindi (http://www.transifex.com/projects/p/libvirt-glib/language/hi/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Hindi (http://www.transifex.com/freedesktop/p11-kit/language/hi/)
+mingw-wxWidgets,5256,311,824,1305,46,124,6915,6391,82.2406509153497,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+mingw-wxWidgets3,4497,1472,1726,1082,406,365,5935,7695,58.44054580896686,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+mousetweaks,114,0,0,30,0,0,125,114,100.0,Hindi <kde-i18n-doc@kde.org>
+mozo,41,0,5,20,0,4,65,46,89.13043478260869,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+muffin,3864,0,0,413,0,0,4314,3864,100.0,Hindi <hindi.sf.net>
+multimedia-menus,56,0,0,22,0,0,60,56,100.0,Hindi <hindi.sf.net>
+mutter,1829,0,0,237,0,0,2137,1829,100.0,Hindi <kde-i18n-doc@kde.org>
+mutter3.38,1829,0,0,237,0,0,2137,1829,100.0,Hindi <kde-i18n-doc@kde.org>
+mypaint,19,20,6342,17,12,1241,23,6381,0.2977589719479706,Hindi <https://hosted.weblate.org/projects/mypaint/mypaint/hi/>
+nautilus,6114,0,0,1030,0,0,7276,6114,100.0,Hindi <kde-i18n-doc@kde.org>
+nemiver,144,0,1121,99,0,234,190,1265,11.383399209486166,Hindi <hindi>
+nemo-extensions,25,0,7,12,0,1,31,32,78.125,Hindi <hi@li.org>
+network-manager-applet,1246,1193,1866,342,256,260,1480,4305,28.943089430894307,Hindi <kde-i18n-doc@kde.org>
+newt,4,0,0,4,0,0,5,4,100.0,Ravishankar Shrivastava <raviratlami@yahoo.com>
+nmap,3518,0,0,481,0,0,3386,3518,100.0,Hindi
+notification-daemon,17,0,0,7,0,0,23,17,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,7,4,10,4,2,6,8,21,33.33333333333333,Hindi <indlinux-hindi@lists.sourceforge.net>
+okular,1731,662,2718,608,206,278,2067,5111,33.868127567990605,kde-hindi
+olpc-switch-desktop,158,0,0,14,0,0,169,158,100.0,LANGUAGE <LL@li.org>
+onboard,81,0,2237,27,0,483,93,2318,3.4943917169974115,Hindi <hi@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,3897,0,0,1201,0,0,4548,3897,100.0,Hindi <kde-i18n-doc@kde.org>
+p11-kit,0,0,476,0,0,81,0,476,0.0,Hindi (http://www.transifex.com/freedesktop/p11-kit/language/hi/)
+pacman,5189,0,0,898,0,0,5470,5189,100.0,Hindi (http://www.transifex.com/toofishes/archlinux-pacman/language/hi/)
+pam,352,159,14,75,22,2,407,525,67.04761904761905,Hindi <https://translate.fedoraproject.org/projects/linux-pam/master/hi/>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+paprefs,131,0,0,23,0,0,169,131,100.0,Hindi <hindi.sf.net>
+parley,467,1286,2097,191,331,231,563,3850,12.12987012987013,Hindi <indlinux-hindi@lists.sourceforge.net>
+passwd,267,0,69,49,0,8,327,336,79.46428571428571,Hindi <indlinux-hindi@lists.sourceforge.net>
+pavucontrol,219,1,17,85,1,1,247,237,92.40506329113924,Hindi <hindi.sf.net>
+pgadmin3,5466,1865,15958,1411,576,3890,7140,23289,23.470307870668556,The pgAdmin Development Team <pgadmin-hackers@postgresql.org>
+php-phpmyadmin-sql-parser5,107,56,105,22,11,17,116,268,39.92537313432835,Hindi <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/hi/>
+picard,103,0,1943,56,0,685,141,2046,5.034213098729228,Hindi (http://www.transifex.com/musicbrainz/musicbrainz/language/hi/)
+pidgin,14265,0,1570,3122,0,335,16585,15835,90.08525418377012,Hindi (http://www.transifex.com/pidgin/pidgin/language/hi/)
+pidgin-sipe,173,0,946,70,0,203,197,1119,15.460232350312781,Hindi (http://www.transifex.com/stefanb/pidgin-sipe/language/hi/)
+pinta,88,0,1658,58,0,479,112,1746,5.040091638029782,Hindi <hi@li.org>
+pipewire,104,281,262,45,31,32,109,647,16.0741885625966,Hindi <hindi.sf.net>
+plasma-breeze,243,0,0,91,0,0,318,243,100.0,kde-hindi
+plasma-desktop,2810,545,2662,568,175,347,3197,6017,46.701013794249626,kde-hindi
+plasma-discover,250,7,1107,129,3,224,342,1364,18.328445747800586,kde-hindi
+plasma-drkonqi,1753,463,1836,206,66,79,1991,4052,43.262586377097726,Hindi <kde-l10n-hi@kde.org>
+plasma-integration,58,0,0,21,0,0,70,58,100.0,kde-hindi
+plasma-milou,10,0,0,4,0,0,10,10,100.0,kde-hindi
+plasma-oxygen,183,258,177,104,79,36,198,618,29.61165048543689,Hindi <en@li.org>
+plasma-pass,26,0,4,5,0,1,30,30,86.66666666666667,Hindi <kde-i18n-doc@kde.org>
+plasma-sdk,107,118,138,37,23,18,111,363,29.476584022038566,kde-hindi
+plasma-systemsettings,218,0,0,56,0,0,274,218,100.0,kde-hindi
+plasma-workspace,11359,122,77,2929,15,7,13364,11558,98.27824883197785,Hindi <kde-l10n-hi@kde.org>
+playonlinux,3,0,2725,1,0,448,6,2728,0.10997067448680353,Hindi <hi@li.org>
+pluma,3835,0,9278,1004,0,1086,4439,13113,29.245786623960957,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+pluma-plugins,139,0,1259,18,0,125,159,1398,9.94277539341917,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+policycoreutils,9033,453,2685,1334,89,353,10822,12171,74.21740202119793,Hindi
+polkit-gnome,94,0,0,16,0,0,123,94,100.0,Hindi <kde-i18n-doc@kde.org>
+powerdevil,7,118,212,4,28,50,10,337,2.0771513353115725,kde-hindi
+powertop,371,99,228,98,28,76,488,698,53.15186246418339,Hindi (http://www.transifex.com/projects/p/PowerTOP/language/hi/)
+publican,1749,67,3627,122,3,491,2109,5443,32.13301488149917,Hindi <hindi.sf.net>
+pulseaudio,2011,951,342,407,43,46,2239,3304,60.865617433414045,Hindi <hindi.sf.net>
+pychess,90,0,7502,43,0,1425,109,7592,1.1854583772391991,Hindi (http://www.transifex.com/gbtami/pychess/language/hi/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,186,43,1468,22,1,160,203,1697,10.960518562168533,Hindi (http://www.transifex.com/projects/p/pykickstart/language/hi/)
+python-blivet,206,0,352,24,0,52,239,558,36.91756272401434,Hindi (http://www.transifex.com/projects/p/blivet/language/hi/)
+python-caja,6,0,0,2,0,0,6,6,100.0,Hindi (https://www.transifex.com/mate/teams/13566/hi/)
+python-django,1902,0,1630,555,0,261,2155,3532,53.85050962627407,Hindi (http://www.transifex.com/django/django/language/hi/)
+python-django-contrib-comments,233,0,11,58,0,2,299,244,95.49180327868852,Hindi (http://www.transifex.com/django/django-contrib-comments/language/hi/)
+python-django-formtools,5,0,27,3,0,8,6,32,15.625,Hindi (http://www.transifex.com/projects/p/django-formtools/language/hi/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Hindi
+python-meh,1,0,108,1,0,22,2,109,0.9174311926605505,Hindi (http://www.transifex.com/projects/p/python-meh/language/hi/)
+python-nikola,94,0,0,44,0,0,102,94,100.0,Hindi (http://www.transifex.com/ralsina/nikola/language/hi/)
+python-sphinx,4216,0,4946,672,0,744,5121,9162,46.01615367823619,Hindi (India) (http://www.transifex.com/sphinx-doc/sphinx-1/language/hi_IN/)
+python-sphinxcontrib-applehelp,0,0,178,0,0,28,0,178,0.0,Hindi (India) (https://www.transifex.com/sphinx-doc/teams/36659/hi_IN/)
+python-sphinxcontrib-devhelp,0,0,36,0,0,4,0,36,0.0,Hindi (India) (https://www.transifex.com/sphinx-doc/teams/36659/hi_IN/)
+python-sphinxcontrib-htmlhelp,0,0,50,0,0,10,0,50,0.0,Hindi (India) (https://www.transifex.com/sphinx-doc/teams/36659/hi_IN/)
+python-sphinxcontrib-qthelp,0,0,66,0,0,6,0,66,0.0,Hindi (India) (https://www.transifex.com/sphinx-doc/teams/36659/hi_IN/)
+python-sphinxcontrib-serializinghtml,0,0,36,0,0,4,0,36,0.0,Hindi (India) (https://www.transifex.com/sphinx-doc/teams/36659/hi_IN/)
+python-wxpython4,4497,1472,1726,1082,406,365,5935,7695,58.44054580896686,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+quadrapassel,229,71,128,57,14,8,272,428,53.50467289719626,Hindi <Indlinux>
+quassel,74,0,8288,48,0,1659,88,8362,0.8849557522123894,Hindi (http://www.transifex.com/quassel/quassel/language/hi/)
+ravada,508,0,0,143,0,0,637,508,100.0,Hindi <https://hosted.weblate.org/projects/ravada/translation/hi/>
+realmd,0,0,789,0,0,127,0,789,0.0,Hindi (http://www.transifex.com/freedesktop/realmd/language/hi/)
+redhat-menus,261,0,0,86,0,0,292,261,100.0,Hindi <hindi.sf.net>
+rednotebook,0,0,1147,0,0,240,0,1147,0.0,Hindi <hi@li.org>
+redshift,59,0,969,10,0,141,73,1028,5.739299610894942,Hindi <hi@li.org>
+remmina,0,4343,791,0,864,103,0,5134,0.0,Hindi <https://hosted.weblate.org/projects/remmina/remmina/hi/>
+retrace-server,1,0,432,1,0,55,1,433,0.23094688221709006,Hindi <https://translate.fedoraproject.org/projects/abrt/retrace-server/hi/>
+rhythmbox,4545,0,0,1070,0,0,5515,4545,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+rpm-ostree,2,0,1439,1,0,223,2,1441,0.13879250520471895,Hindi
+rsibreak,674,222,1454,164,40,112,776,2350,28.680851063829788,Hindi <kde-i18n-doc@lists.kde.org>
+rygel,669,0,0,142,0,0,819,669,100.0,Hindi <kde-i18n-doc@kde.org>
+sawfish,0,0,6617,0,0,1054,0,6617,0.0,Hindi (India) (http://www.transifex.net/projects/p/sawfish-master/team/hi_IN/)
+scummvm,435,434,8152,104,138,1440,528,9021,4.822081809112072,Hindi <https://translations.scummvm.org/projects/scummvm/scummvm/hi/>
+sddm-kcm,30,33,122,11,13,21,39,185,16.216216216216218,kde-hindi
+seahorse,2424,0,0,566,0,0,2936,2424,100.0,Hindi <kde-i18n-doc@kde.org>
+seahorse-caja,411,10,0,109,1,0,502,421,97.62470308788599,Hindi <hindi.sf.net>
+seahorse-nautilus,411,10,0,109,1,0,502,421,97.62470308788599,Hindi <hindi.sf.net>
+sequeler,406,0,0,134,0,0,485,406,100.0,Hindi <https://hosted.weblate.org/projects/sequeler/translations/hi/>
+setroubleshoot,510,0,125,147,0,20,591,635,80.31496062992126,Hindi (http://www.transifex.com/projects/p/fedora/language/hi/)
+setroubleshoot-plugins,2314,0,3932,118,0,108,2524,6246,37.04771053474224,Hindi (http://www.transifex.com/projects/p/fedora/language/hi/)
+setuptool,55,0,0,14,0,0,65,55,100.0,Hindi <hindi.sf.net>
+shared-mime-info,0,0,2058,0,0,795,0,2058,0.0,Hindi (http://www.transifex.com/freedesktop/shared-mime-info/language/hi/)
+shotwell,4191,21,341,885,5,56,5083,4553,92.04919833077092,Hindi (http://www.transifex.com/projects/p/shotwell/language/hi/)
+shutter,538,0,2555,127,0,479,656,3093,17.39411574523117,Hindi <hi@li.org>
+slick-greeter,211,0,0,47,0,0,223,211,100.0,Hindi <hi@li.org>
+snapper,22,356,717,9,88,155,35,1095,2.009132420091324,Hindi <https://l10n.opensuse.org/projects/snapper/master/hi/>
+sos,54,33,35,11,7,12,66,122,44.26229508196721,Hindi <bhashaghar@googlegroups.com>
+sound-juicer,1022,0,0,198,0,0,1122,1022,100.0,Hindi <hindi.sf.net>
+soundconverter,33,7,467,19,4,106,39,507,6.508875739644971,Hindi <hi@li.org>
+stellarium,1336,0,143761,546,0,36436,1486,145097,0.9207633514131927,Hindi (https://www.transifex.com/stellarium/teams/80998/hi/)
+subscription-manager,3915,787,2106,742,125,310,4680,6808,57.50587544065805,Hindi <kde-i18n-doc@kde.org>
+sugar,2305,0,0,529,0,0,2782,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,34,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,225,47,62,54,2,15,284,334,67.36526946107784,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-calculator,790,11,65,160,2,7,871,866,91.22401847575058,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-chat,137,0,0,81,0,0,165,137,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-clock,66,0,0,21,0,0,591,66,100.0,LANGUAGE <LL@li.org>
+sugar-colordeducto,97,11,1,20,2,1,115,109,88.9908256880734,LANGUAGE <LL@li.org>
+sugar-deducto,100,7,0,20,3,0,125,107,93.45794392523365,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,122,99,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-finance,149,90,19,53,4,6,171,258,57.751937984496124,LANGUAGE <LL@li.org>
+sugar-flip,17,0,0,7,0,0,18,17,100.0,LANGUAGE <LL@li.org>
+sugar-flipsticks,149,2,0,44,1,0,179,151,98.67549668874173,LANGUAGE <LL@li.org>
+sugar-fototoon,134,0,5,47,0,1,168,139,96.40287769784173,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,82,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,105,77,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,76,69,100.0,LANGUAGE <LL@li.org>
+sugar-locosugar,73,0,1,11,0,1,75,74,98.64864864864865,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,115,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,10,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,14,10,131,9,5,59,15,155,9.032258064516128,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-memorize,142,0,0,74,0,0,171,142,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,167,2,14,76,1,13,176,183,91.2568306010929,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,125,106,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-physics,48,0,0,28,0,0,52,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,99,0,183,27,0,41,119,282,35.1063829787234,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-playgo,85,0,0,30,0,0,113,85,100.0,LANGUAGE <LL@li.org>
+sugar-portfolio,73,0,0,25,0,0,96,73,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,6,4,0,3,2,0,8,10,60.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,157,137,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-recall,47,0,0,9,0,0,69,47,100.0,LANGUAGE <LL@li.org>
+sugar-record,54,8,0,22,2,0,75,62,87.09677419354838,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-speak,227,0,0,74,0,0,274,227,100.0,LANGUAGE <LL@li.org>
+sugar-srilanka,403,20,36,183,6,8,422,459,87.7995642701525,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,150,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,161,0,52,112,0,11,174,213,75.5868544600939,LANGUAGE <LL@li.org>
+sugar-turtleart,1648,0,0,498,0,0,2047,1648,100.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,599,0,0,127,0,0,674,599,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,131,121,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-xoeditor,29,0,0,7,0,0,33,29,100.0,LANGUAGE <LL@li.org>
+supertux,0,0,2866,0,0,895,0,2866,0.0,Hindi (India) (http://www.transifex.com/arctic-games/supertux/language/hi_IN/)
+sushi,24,0,0,11,0,0,30,24,100.0,Hindi <kde-i18n-doc@kde.org>
+svgpart,22,0,0,7,0,0,25,22,100.0,Hindi <kde-i18n-doc@kde.org>
+sweeper,184,38,6,41,7,2,244,228,80.7017543859649,Hindi <indlinux-hindi@lists.sourceforge.net>
+swell-foop,66,64,136,28,13,14,85,266,24.81203007518797,Hindi <Indlinux>
+switchboard,42,0,82,13,0,13,51,124,33.87096774193548,Hindi <https://weblate.elementary.io/projects/switchboard/switchboard/hi/>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,28,68,287,10,17,58,37,383,7.310704960835509,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/hi/>
+switchboard-plug-applications,1,0,226,1,0,62,1,227,0.4405286343612335,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/hi/>
+switchboard-plug-bluetooth,1,0,205,1,0,52,1,206,0.48543689320388345,Hindi <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/hi/>
+switchboard-plug-display,3,0,179,3,0,59,4,182,1.6483516483516485,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/hi/>
+switchboard-plug-keyboard,6,1,629,5,1,208,7,636,0.9433962264150944,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/hi/>
+switchboard-plug-mouse-touchpad,4,0,278,3,0,89,5,282,1.4184397163120568,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/hi/>
+switchboard-plug-networking,40,16,466,25,9,111,44,522,7.662835249042145,Hindi <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/hi/>
+switchboard-plug-notifications,1,0,141,1,0,20,1,142,0.7042253521126761,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/hi/>
+switchboard-plug-onlineaccounts,3,5,314,2,3,71,3,322,0.9316770186335404,Hindi <https://weblate.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/hi/>
+switchboard-plug-pantheon-shell,26,1,309,13,1,96,34,336,7.738095238095238,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/hi/>
+switchboard-plug-printers,3,0,359,3,0,141,3,362,0.8287292817679558,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/hi/>
+switchboard-plug-sharing,1,0,140,1,0,31,1,141,0.7092198581560284,Hindi <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/hi/>
+switchboard-plug-sound,0,1,192,0,1,56,0,193,0.0,Hindi <hi@li.org>
+switchdesk,16,87,19,3,10,6,21,122,13.114754098360656,Hindi <hindi.sf.net>
+synapse,116,0,740,63,0,171,140,856,13.551401869158877,Hindi <hi@li.org>
+synfig,0,0,4745,0,0,1161,0,4745,0.0,Hindi (India) (http://www.transifex.com/morevnaproject/synfig/language/hi_IN/)
+synfigstudio,0,0,6952,0,0,1633,0,6952,0.0,Hindi (India) (http://www.transifex.com/morevnaproject/synfig/language/hi_IN/)
+system-config-language,91,26,98,17,3,11,110,215,42.32558139534884,Hindi <hindi@hindi>
+system-config-printer,3026,37,402,724,18,179,3499,3465,87.33044733044733,Hindi (http://www.transifex.com/projects/p/system-config-printer/language/hi/)
+system-config-rootpassword,116,0,0,19,0,0,136,116,100.0,Hindi <hindi.sf.net>
+system-switch-java,81,0,0,11,0,0,85,81,100.0,Hindi <hindi.sf.net>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Hindi <hindi.sf.net>
+tali,315,30,76,80,9,8,353,421,74.82185273159145,Hindi <Indlinux>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+terminator,29,0,1421,11,0,416,33,1450,2.0,Hindi (https://www.transifex.com/terminator/teams/109338/hi/)
+terminology,355,182,441,103,37,93,392,978,36.29856850715746,Hindi
+timeshift,0,0,3005,0,0,599,0,3005,0.0,Hindi <hi@li.org>
+tomboy,2870,0,0,415,0,0,3366,2870,100.0,Hindi <hindi.sf.net>
+totem,1446,0,0,384,0,0,1652,1446,100.0,Hindi <kde-i18n-doc@kde.org>
+totem-pl-parser,28,0,0,7,0,0,27,28,100.0,Hindi <hindi.sf.net>
+transmission,1205,0,793,371,0,152,1499,1998,60.310310310310314,Hindi (https://www.transifex.com/transmissionbt/teams/33778/hi/)
+trustedqsl,4339,0,0,659,0,0,5459,4339,100.0,
+tumbler,241,0,0,39,0,0,240,241,100.0,Hindi (http://www.transifex.com/xfce/tumbler/language/hi/)
+tuxmath,869,182,404,171,27,51,993,1455,59.72508591065292,Gautam Gupta <admin@gaut.am>
+tuxpaint,1198,447,103,262,38,18,1317,1748,68.53546910755148,Hindi
+tuxpaint-stamps,3148,69,32,783,14,8,3358,3249,96.89135118498,none
+tuxtype2,71,0,9,32,0,8,83,80,88.75,Hindi <hindi.sf.net>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+umbrello,2374,2126,1226,823,626,160,2829,5726,41.46000698567936,Hindi <indlinux-hindi@lists.sourceforge.net>
+volume_key,745,10,8,151,2,1,834,763,97.64089121887287,Hindi <indlinux-hindi@lists.sourceforge.net>
+vte,84,0,0,14,0,0,110,84,100.0,Hindi <hindi.sf.net>
+vte291,84,0,0,14,0,0,110,84,100.0,Hindi <hindi.sf.net>
+webkit2gtk3,1526,0,0,365,0,0,1775,1526,100.0,Hindi <kde-i18n-doc@kde.org>
+widelands,26,0,62394,5,0,5612,30,62420,0.04165331624479334,Hindi (http://www.transifex.com/widelands/widelands/language/hi/)
+wine,13,221,18789,10,108,4104,22,19023,0.06833832728801977,Hindi
+wingpanel,6,0,13,1,0,3,8,19,31.57894736842105,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,121,16,278,43,6,66,143,415,29.156626506024097,Hindi <https://l10n.elementary.io/projects/wingpanel/applications-menu/hi/>
+wingpanel-indicator-bluetooth,11,8,59,7,3,19,21,78,14.102564102564102,Hindi <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/hi/>
+wingpanel-indicator-datetime,4,0,173,1,0,35,4,177,2.2598870056497176,Hindi <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/hi/>
+wingpanel-indicator-keyboard,0,11,42,0,4,12,0,53,0.0,Hindi <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/hi/>
+wingpanel-indicator-network,0,6,125,0,3,38,0,131,0.0,Hindi <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-network/hi/>
+wingpanel-indicator-nightlight,12,8,25,4,2,6,11,45,26.666666666666668,Hindi <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/hi/>
+wingpanel-indicator-notifications,10,12,79,4,4,22,11,101,9.900990099009901,Hindi <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/hi/>
+wingpanel-indicator-power,90,2,99,25,1,26,128,191,47.12041884816754,Hindi <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/hi/>
+wingpanel-indicator-session,53,7,48,16,2,9,62,108,49.074074074074076,Hindi <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/hi/>
+wingpanel-indicator-sound,4,4,88,2,2,19,4,96,4.166666666666666,Hindi <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/hi/>
+wxGTK,4297,1546,1665,1047,426,418,5659,7508,57.23228556206713,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+wxGTK3,4497,1472,1726,1082,406,365,5935,7695,58.44054580896686,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+xapps,73,0,0,36,0,0,72,73,100.0,Hindi <hi@li.org>
+xdg-user-dirs,28,0,0,28,0,0,30,28,100.0,Hindi <fedora-trans-hi@redhat.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,97,81,100.0,Hindi <fedora-trans-hi@redhat.com>
+xed,3760,0,0,924,0,0,4209,3760,100.0,Hindi (http://www.transifex.com/projects/p/MATE/language/hi/)
+xfce4-appfinder,433,0,0,84,0,0,443,433,100.0,Hindi (http://www.transifex.com/xfce/xfce4-appfinder/language/hi/)
+xfce4-calculator-plugin,35,0,7,15,0,2,45,42,83.33333333333334,Hindi (https://www.transifex.com/xfce/teams/16840/hi/)
+xfce4-eyes-plugin,16,0,0,5,0,0,20,16,100.0,Hindi (http://www.transifex.com/xfce/xfce-panel-plugins/language/hi/)
+xfce4-genmon-plugin,61,0,39,14,0,12,70,100,61.0,Hindi (http://www.transifex.com/xfce/xfce-panel-plugins/language/hi/)
+xfce4-panel-profiles,99,0,0,26,0,0,131,99,100.0,Hindi (https://www.transifex.com/xfce/teams/16840/hi/)
+xfce4-session,757,0,0,164,0,0,807,757,100.0,Hindi (http://www.transifex.com/xfce/xfce4-session/language/hi/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,24,22,100.0,Hindi (http://www.transifex.com/xfce/xfce-panel-plugins/language/hi/)
+xournalpp,1109,0,2925,242,0,561,1313,4034,27.491323748140807,Hindi
+xreader,1620,0,0,379,0,0,1743,1620,100.0,Hindi (http://www.transifex.com/mate/MATE/language/hi/)
+yakuake,325,256,1093,104,39,95,396,1674,19.41457586618877,kde-hindi
+yelp,452,0,0,104,0,0,484,452,100.0,Hindi <kde-i18n-doc@kde.org>
+yelp-xsl,81,0,0,59,0,0,92,81,100.0,Hindi <kde-i18n-doc@kde.org>
+zenity,742,0,0,171,0,0,833,742,100.0,Hindi <kde-i18n-doc@kde.org>
+zypper,60,2986,6197,44,408,797,78,9243,0.6491398896462187,Hindi <en@li.org>

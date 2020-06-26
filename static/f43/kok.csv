@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnucash,22063,8565,8950,3584,1352,933,18732,39578,55.74561625145282,
+inkscape,16350,16276,18902,3745,4617,2549,14672,51528,31.73032137866791,Konkani
+iso-codes,247,4184,10384,237,3052,6525,242,14815,1.6672291596355044,Konkani
+libreoffice,41958,13149,122893,14534,5547,19831,42347,178000,23.57191011235955,Konkani <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/kok/>

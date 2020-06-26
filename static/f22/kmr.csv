@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+mate-desktop,12,0,2401,6,0,328,12,2413,0.49730625777041026,Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/)
+mate-menus,11,0,86,7,0,30,11,97,11.34020618556701,Kurdish (Iraq) (http://www.transifex.com/projects/p/MATE/language/ku_IQ/)
+mozo,8,0,34,5,0,11,10,42,19.047619047619047,Kurdish (Iraq) (http://www.transifex.com/projects/p/MATE/language/ku_IQ/)
+pidgin,123,0,18435,95,0,3853,126,18558,0.662786938247656,Kurdish (Iraq) (http://www.transifex.com/projects/p/pidgin/language/ku_IQ/)

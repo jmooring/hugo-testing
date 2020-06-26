@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+ccsm,418,43,71,106,7,14,447,532,78.57142857142857,Wolof
+iso-codes,1076,0,6,447,0,2,1104,1082,99.44547134935306,Wolof
+newt,4,0,0,4,0,0,4,4,100.0,Wolof

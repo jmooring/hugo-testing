@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,48,0,19267,31,0,4350,52,19315,0.24851151954439551,Shan <shn@li.org>
+deja-dup,0,0,1623,0,0,285,0,1623,0.0,Shan <shn@li.org>
+lightdm,0,0,163,0,0,21,0,163,0.0,Shan <shn@li.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,467,0,0,79,0,467,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,937,0,0,259,0,937,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5165,0,0,642,0,5165,0.0,LANGUAGE <LL@li.org>
+remmina,3,30,5374,1,18,999,3,5407,0.0554836323284631,Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/>
+shutter,361,0,2253,103,0,415,274,2614,13.810252486610558,Shan <shn@li.org>
+simple-scan,4,0,585,4,0,141,8,589,0.6791171477079796,Shan <shn@li.org>
+slick-greeter,60,0,156,24,0,25,39,216,27.77777777777778,Shan <shn@li.org>

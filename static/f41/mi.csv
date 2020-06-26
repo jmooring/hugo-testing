@@ -1,0 +1,115 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,39,0,2286,33,0,479,46,2325,1.6774193548387095,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+budgie-session,8,0,508,6,0,95,8,516,1.550387596899225,Māori <maori@nzlinux.org.nz>
+caja,188,0,9968,121,0,1475,211,10156,1.8511224891689642,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+caja-actions,17,0,7062,16,0,723,19,7079,0.2401469134058483,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+calibre,31,0,170936,31,0,19300,69,170967,0.01813215415840484,Maori (http://www.transifex.com/calibre/calibre/language/mi/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Māori <maori@nzlinux.org.nz>
+cinnamon-translations,0,0,187,0,0,39,0,187,0.0,Māori <maori@nzlinux.org.nz>
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-code,0,0,1597,0,0,309,0,1597,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2606,0,0,561,0,2606,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,231,0,0,45,0,231,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+engrampa,35,0,1991,28,0,390,40,2026,1.7275419545903257,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+eom,26,0,1753,21,0,320,34,1779,1.4614952220348512,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+epiphany,114,122,2496,98,76,591,166,2732,4.172767203513909,GNOME Māori Team <maori@nzlinux.org.nz>
+gala,0,0,319,0,0,67,0,319,0.0,none
+gdk-pixbuf2,741,359,248,118,58,26,839,1348,54.97032640949555,GNOME Māori Team <maori@nzlinux.org.nz>
+gdk-pixbuf2-modules-extra,741,359,248,118,58,26,839,1348,54.97032640949555,GNOME Māori Team <maori@nzlinux.org.nz>
+gdm,0,2,648,0,1,86,0,650,0.0,Maori <maori@nzlinux.org.nz>
+gedit,68,232,3906,54,131,835,74,4206,1.6167379933428434,GNOME Māori Team <maori@nzlinux.org.nz>
+gedit-plugins,1,157,1047,1,75,393,1,1205,0.08298755186721991,GNOME Māori Team <maori@nzlinux.org.nz>
+gnome-desktop3,20,4,296,14,1,58,27,320,6.25,Māori <maori@nzlinux.org.nz>
+gnome-panel,3,15,3502,4,10,494,6,3520,0.08522727272727272,Māori <maori@nzlinux.org.nz>
+gnome-session,8,0,508,6,0,95,8,516,1.550387596899225,Māori <maori@nzlinux.org.nz>
+gnome-terminal,0,58,38,0,11,7,0,96,0.0,Maori <maori@nzlinux.org.nz>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+gtk2,1019,1045,11640,205,423,2156,1136,13704,7.435785172212493,GNOME Māori Team <maori@nzlinux.org.nz>
+gtk3,212,736,10905,57,372,2058,201,11853,1.7885767316291232,GNOME Māori Team <maori@nzlinux.org.nz>
+gtk4,211,500,1721,56,252,513,200,2432,8.675986842105262,GNOME Māori Team <maori@nzlinux.org.nz>
+gucharmap,0,87,420,0,40,198,0,507,0.0,Maori <maori@nzlinux.org.nz>
+harvey,0,0,216,0,0,38,0,216,0.0,none
+iso-codes,449,4305,11154,260,3216,6794,445,15908,2.8224792557203924,Maori <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mi/>
+isomaster,8,1,665,8,1,98,9,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libgnomeui,80,8,1331,58,4,283,96,1419,5.637773079633545,Māori <maori@nzlinux.org.nz>
+libgtop2,0,34,100,0,8,36,0,134,0.0,Maori <maori@nzlinux.org.nz>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Maori (http://www.transifex.com/mate/MATE/language/mi/)
+libwnck,0,11,62,0,6,24,0,73,0.0,Maori <maori@nzlinux.org.nz>
+libwnck3,0,11,62,0,6,24,0,73,0.0,Maori <maori@nzlinux.org.nz>
+lightdm,0,0,163,0,0,21,0,163,0.0,Maori <mi@li.org>
+mate-applets,28,2,11625,28,1,1258,52,11655,0.24024024024024024,Maori (https://www.transifex.com/mate/teams/13566/mi/)
+mate-calc,12,0,1570,12,0,474,16,1582,0.7585335018963337,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-control-center,32,2,3304,29,1,1140,41,3338,0.9586578789694428,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-desktop,4,0,2408,2,0,293,5,2412,0.16583747927031509,Maori (http://www.transifex.com/mate/MATE/language/mi/)
+mate-media,3,0,241,3,0,97,5,244,1.2295081967213115,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-menu,11,0,297,10,0,100,19,308,3.571428571428571,Maori (http://www.transifex.com/mate/MATE/language/mi/)
+mate-menus,2,0,101,2,0,37,6,103,1.9417475728155338,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-panel,25,0,5565,24,0,692,36,5590,0.4472271914132379,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-polkit,1,0,122,1,0,20,1,123,0.8130081300813009,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-power-manager,3,0,2457,3,0,137,6,2460,0.12195121951219512,Maori (https://www.transifex.com/mate/teams/13566/mi/)
+mate-sensors-applet,7,0,2215,7,0,220,12,2222,0.31503150315031503,Maori (https://www.transifex.com/mate/teams/13566/mi/)
+mate-session-manager,9,0,708,8,0,125,11,717,1.2552301255230125,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-system-monitor,16,0,1543,14,0,318,21,1559,1.0262989095574084,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-terminal,27,0,4697,22,0,523,29,4724,0.5715495342929721,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Maori (http://app.transifex.com/mate/MATE/language/mi/)
+mate-user-admin,3,0,602,3,0,123,3,605,0.49586776859504134,Maori (https://www.transifex.com/mate/teams/13566/mi/)
+mate-utils,40,0,6840,27,0,822,47,6880,0.5813953488372093,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+minetest,44,26,10382,27,14,1422,50,10452,0.42097206276310756,Maori <https://hosted.weblate.org/projects/minetest/minetest/mi/>
+mingw-gdk-pixbuf,741,359,248,118,58,26,839,1348,54.97032640949555,GNOME Māori Team <maori@nzlinux.org.nz>
+mingw-gtk2,1019,1045,11640,205,423,2156,1136,13704,7.435785172212493,GNOME Māori Team <maori@nzlinux.org.nz>
+mingw-gtk3,212,736,10905,57,372,2058,201,11853,1.7885767316291232,GNOME Māori Team <maori@nzlinux.org.nz>
+mingw-gtk4,211,500,1721,56,252,513,200,2432,8.675986842105262,GNOME Māori Team <maori@nzlinux.org.nz>
+mozo,7,0,39,7,0,17,8,46,15.217391304347828,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+nautilus,244,170,6562,167,78,969,285,6976,3.4977064220183482,GNOME Māori Team <maori@nzlinux.org.nz>
+pluma,66,0,5641,53,0,1396,77,5707,1.1564745049938672,Maori (https://app.transifex.com/mate/teams/13566/mi/)
+pluma-plugins,0,16,615,0,8,73,0,631,0.0,GNOME Māori Team <maori@nzlinux.org.nz>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,437,0,0,74,0,437,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-nikola,94,0,0,44,0,0,121,94,100.0,Maori (http://app.transifex.com/ralsina/nikola/language/mi/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,55,0,161,19,0,30,54,216,25.462962962962965,Maori <mi@li.org>
+sugar,1513,5,787,369,3,157,1841,2305,65.63991323210412,LANGUAGE <LL@li.org>
+sugar-abacus,22,0,6,22,0,1,30,28,78.57142857142857,LANGUAGE <LL@li.org>
+sugar-browse,82,0,252,35,0,36,102,334,24.550898203592812,LANGUAGE <LL@li.org>
+sugar-calculator,774,0,92,156,0,13,886,866,89.37644341801386,LANGUAGE <LL@li.org>
+sugar-chat,56,3,78,34,1,46,70,137,40.87591240875913,LANGUAGE <LL@li.org>
+sugar-clock,29,9,28,14,3,4,34,66,43.93939393939394,LANGUAGE <LL@li.org>
+sugar-dimensions,165,0,11,82,0,5,216,176,93.75,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,118,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,162,0,96,38,0,25,190,258,62.7906976744186,LANGUAGE <LL@li.org>
+sugar-flipsticks,1,0,150,1,0,44,2,151,0.6622516556291391,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,16,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,93,77,100.0,LANGUAGE <LL@li.org>
+sugar-log,77,0,21,19,0,2,98,98,78.57142857142857,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,114,0,28,71,0,3,134,142,80.28169014084507,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,99,0,183,27,0,41,129,282,35.1063829787234,LANGUAGE <LL@li.org>
+sugar-read,98,0,39,35,0,15,105,137,71.53284671532847,LANGUAGE <LL@li.org>
+sugar-record,31,2,29,19,1,4,43,62,50.0,LANGUAGE <LL@li.org>
+sugar-speak,147,0,80,69,0,5,172,227,64.75770925110133,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,6,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,137,40,0,83,87,213,35.68075117370892,LANGUAGE <LL@li.org>
+sugar-turtleart,1368,2,89,416,2,17,1757,1459,93.76285126799178,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,43,0,17,22,0,1,52,60,71.66666666666667,LANGUAGE <LL@li.org>
+sugar-write,86,4,31,50,2,3,89,121,71.07438016528926,LANGUAGE <LL@li.org>
+sugar-yupana,0,1,29,0,1,15,0,30,0.0,LANGUAGE <LL@li.org>
+vte,0,58,38,0,11,7,0,96,0.0,Maori <maori@nzlinux.org.nz>
+vte291,0,58,38,0,11,7,0,96,0.0,Maori <maori@nzlinux.org.nz>
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,
+xed,30,0,3745,19,0,909,32,3775,0.7947019867549668,MATE Māori Team <maori@nzlinux.org.nz>
+zenity,0,99,295,0,34,78,0,394,0.0,Maori <maori@nzlinux.org.nz>

@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,141,0,31,34,0,5,158,172,81.97674418604652,Silesian <szl@li.org>
+cinnamon-translations,0,0,13502,0,0,3076,0,13502,0.0,Silesian <szl@li.org>
+deja-dup,1351,0,272,225,0,60,1288,1623,83.24091189155884,Silesian <szl@li.org>
+gnome-menus,103,0,0,39,0,0,93,103,100.0,Silesian <szl@li.org>
+granite,109,4,385,56,2,60,116,498,21.88755020080321,Silesian <https://l10n.elementary.io/projects/desktop/granite/szl/>
+libreoffice,94587,0,73808,31139,0,7176,89620,168395,56.16972000356305,Silesian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/szl/>
+mc,0,0,4408,0,0,1273,0,4408,0.0,Silesian (http://www.transifex.com/mc/mc/language/szl/)
+midori,0,0,3541,0,0,796,0,3541,0.0,Silesian <szl@li.org>
+polkit-gnome,94,0,0,16,0,0,70,94,100.0,Silesian <ubuntu-l10n-szl@lists.launchpad.net>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+slick-greeter,55,0,156,19,0,28,53,211,26.066350710900476,Silesian <szl@li.org>
+supertuxkart,0,0,0,0,0,0,0,0,0.0,

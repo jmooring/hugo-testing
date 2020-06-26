@@ -1,0 +1,42 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+epiphany,2479,267,184,642,75,26,2845,2930,84.6075085324232,Yoruba
+gnome-desktop,328,8,28,90,2,1,357,364,90.10989010989012,amo@wazobiasoft.org
+gnome-desktop3,328,8,28,90,2,1,357,364,90.10989010989012,amo@wazobiasoft.org
+gnome-menus,116,15,26,42,5,9,152,157,73.88535031847134,Yoruba
+gnome-panel,3229,878,398,414,119,85,3612,4505,71.67591564927858,Yoruba
+gnome-session,117,86,519,20,28,65,148,722,16.20498614958449,
+metacity,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+mutter,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+mutter-mbl,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+nautilus,3745,2655,1744,723,386,205,4535,8144,45.98477406679764,Yoruba
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+sugar,9,0,233,8,0,91,18,242,3.71900826446281,Yoruba
+sugar-abacus,0,1,23,0,1,23,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,57,0,0,30,0,57,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,593,0,0,127,0,593,0.0,LANGUAGE <LL@li.org>
+sugar-chat,0,0,50,0,0,33,0,50,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,24,0,0,11,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,185,0,0,56,0,185,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,62,0,0,26,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,99,0,0,21,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,53,0,0,25,0,53,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,91,0,0,32,0,91,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,62,0,0,22,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,27,0,0,17,0,27,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-surf,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2070,0,0,695,0,2070,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,13,0,0,7,0,13,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1206,2,0,353,1,1208,0.16556291390728478,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,81,0,0,48,0,81,0.0,LANGUAGE <LL@li.org>

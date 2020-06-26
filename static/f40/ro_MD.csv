@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,1264,0,14340,369,0,3273,1525,15604,8.100487054601384,Moldavian <mo@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-calculator,45,14,136,29,6,30,48,195,23.076923076923077,Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/>
+elementary-calendar,351,81,220,139,31,51,429,652,53.83435582822086,Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/>
+elementary-camera,25,8,100,6,2,27,33,133,18.796992481203006,Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/>
+elementary-code,199,187,1186,88,50,156,206,1572,12.659033078880407,Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/>
+elementary-files,1148,834,556,275,174,102,1222,2538,45.23246650906225,Moldovan <https://weblate.elementary.io/projects/files/files/mo/>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,13,14,180,10,8,23,13,207,6.280193236714976,Moldovan <https://weblate.elementary.io/projects/music/music/mo/>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+gala,1,0,280,1,0,59,3,281,0.3558718861209964,Moldovan <https://l10n.elementary.io/projects/desktop/gala/mo/>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,369,0,0,86,0,369,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,33,0,1728,27,0,886,31,1761,1.8739352640545146,Moldavian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ro_MD/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,11,8,61,7,3,20,12,80,13.750000000000002,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/>
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,2,11,43,1,4,12,2,56,3.571428571428571,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/>

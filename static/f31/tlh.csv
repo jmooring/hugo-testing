@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,56,0,12991,25,0,2900,55,13047,0.42921744462328504,Klingon <tlh@li.org>
+deluge,3,0,2613,2,0,849,3,2616,0.11467889908256881,Klingon; tlhIngan-Hol <tlh@li.org>
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,Klingon <tlh@li.org>
+geeqie,4,0,4344,4,0,1446,4,4348,0.09199632014719411,
+tuxpaint,34,6,1551,32,6,253,33,1591,2.1370207416719045,Bill Kendrick <nbs@sonic.net>

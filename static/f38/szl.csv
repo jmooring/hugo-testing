@@ -1,0 +1,29 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,0,0,15535,0,0,3707,0,15535,0.0,Silesian <szl@li.org>
+deja-dup,1351,0,272,225,0,60,1288,1623,83.24091189155884,Silesian <szl@li.org>
+elementary-calculator,76,14,105,36,6,23,76,195,38.97435897435898,Silesian <https://l10n.elementary.io/projects/calculator/calculator/szl/>
+elementary-calendar,480,21,74,187,7,12,482,575,83.47826086956522,Silesian <https://l10n.elementary.io/projects/calendar/calendar/szl/>
+elementary-camera,54,5,74,13,2,20,52,133,40.6015037593985,Silesian <https://l10n.elementary.io/projects/camera/camera/szl/>
+elementary-code,322,125,1167,122,32,136,313,1614,19.950433705080545,Silesian <https://l10n.elementary.io/projects/code/code/szl/>
+elementary-files,1719,328,443,360,100,91,1762,2490,69.03614457831326,Silesian <https://l10n.elementary.io/projects/files/files/szl/>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,223,135,430,79,33,67,224,788,28.299492385786802,Silesian <https://l10n.elementary.io/projects/mail/mail/szl/>
+elementary-music,7,9,189,7,5,25,7,205,3.414634146341464,Silesian <https://l10n.elementary.io/projects/music/music/szl/>
+elementary-notifications,1,0,43,1,0,9,1,44,2.272727272727273,Silesian <https://l10n.elementary.io/projects/desktop/notifications-extra/szl/>
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+folder-color-switcher,49,0,16,20,0,3,39,65,75.38461538461539,Silesian <szl@li.org>
+gala,70,12,167,20,4,27,72,249,28.11244979919679,Silesian <https://l10n.elementary.io/projects/desktop/gala/szl/>
+gnome-menus,103,0,0,39,0,0,93,103,100.0,Silesian <szl@li.org>
+granite,109,4,385,56,2,60,116,498,21.88755020080321,Silesian <https://l10n.elementary.io/projects/desktop/granite/szl/>
+granite-7,62,4,234,37,2,36,73,300,20.666666666666668,Silesian <https://l10n.elementary.io/projects/desktop/granite/szl/>
+libreoffice,93639,0,75291,30960,0,7526,88763,168930,55.43065174924525,Silesian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/szl/>
+mc,0,0,4394,0,0,1268,0,4394,0.0,Silesian (http://app.transifex.com/mc/mc/language/szl/)
+midori,0,0,3541,0,0,796,0,3541,0.0,Silesian <szl@li.org>
+polkit-gnome,94,0,0,16,0,0,70,94,100.0,Silesian <ubuntu-l10n-szl@lists.launchpad.net>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+slick-greeter,138,0,78,45,0,4,125,216,63.888888888888886,Silesian <szl@li.org>
+supertuxkart,0,0,0,0,0,0,0,0,0.0,
+wingpanel,16,0,0,3,0,0,15,16,100.0,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel/szl/>

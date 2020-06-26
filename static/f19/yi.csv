@@ -1,0 +1,38 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,1,0,3953,1,0,460,1,3954,0.025290844714213456,Yiddish <raphael@cs.uky.edu>
+atk,31,96,248,31,48,47,32,375,8.266666666666666,Yiddish <raphael@cs.uky.edu>
+calibre,3,0,51098,2,0,5658,3,51101,0.005870726600262226,Yiddish <yi@li.org>
+cinnamon-desktop,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+cinnamon-translations,49,0,3301,38,0,848,52,3350,1.462686567164179,Yiddish <yi@li.org>
+clutter,1,0,2997,1,0,662,1,2998,0.033355570380253496,None <>
+elementary,1,0,52,1,0,34,1,53,1.8867924528301887,General
+gdk-pixbuf2,769,495,96,115,76,12,723,1360,56.544117647058826,None <>
+gimp,123,3590,20760,104,1448,5071,139,24473,0.5025946961958077,Yiddish <raphael@cs.uky.edu>
+glade2,399,107,5334,139,24,1137,410,5840,6.832191780821918,Yiddish <>
+glib2,688,715,3374,105,127,515,692,4777,14.402344567720327,Yiddish <raphael@cs.uky.edu>
+gnome-desktop,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+gnome-desktop3,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+gnome-mime-data,1,0,826,1,0,340,1,827,0.12091898428053204,Yiddish <raphael@cs.uky.edu>
+gnome-vfs2,209,25,1048,62,9,177,198,1282,16.302652106084242,Yiddish <raphael@cs.uky.edu>
+gnomebaker,0,0,1186,0,0,291,0,1186,0.0,Yiddish <yi@li.org>
+gourmet,0,0,3647,0,0,868,0,3647,0.0,Yiddish <yi@li.org>
+gtk2,5223,4277,4204,963,951,870,5195,13704,38.11295971978984,None <>
+gtk3,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+libbonobo,460,17,47,93,5,10,434,524,87.78625954198473,Yiddish <raphael@cs.uky.edu>
+libbonoboui,282,33,45,90,4,19,260,360,78.33333333333333,Yiddish <raphael@cs.uky.edu>
+libgnome,401,24,982,78,9,132,375,1407,28.50035536602701,Yiddish <raphael@cs.uky.edu>
+libgnomecanvas,339,18,0,92,2,0,352,357,94.9579831932773,Yiddish <raphael@cs.uky.edu>
+libgnomeui,40,29,1350,31,9,305,43,1419,2.8188865398167726,Yiddish <raphael@cs.uky.edu>
+mate-conf,1,0,4031,1,0,483,1,4032,0.0248015873015873,LANGUAGE <LL@li.org>
+mate-desktop,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+mate-file-manager,27,0,9384,25,0,1496,27,9411,0.2868983104877271,LANGUAGE <LL@li.org>
+mate-panel,77,215,3645,29,67,421,75,3937,1.9558039116078234,Yiddish <raphael@cs.uky.edu>
+mingw-GConf2,1,0,3953,1,0,460,1,3954,0.025290844714213456,Yiddish <raphael@cs.uky.edu>
+mingw-atk,31,96,248,31,48,47,32,375,8.266666666666666,Yiddish <raphael@cs.uky.edu>
+mingw-gdk-pixbuf,769,495,96,115,76,12,723,1360,56.544117647058826,None <>
+mingw-glib2,688,715,3374,105,127,515,692,4777,14.402344567720327,Yiddish <raphael@cs.uky.edu>
+mingw-gtk2,5223,4277,4204,963,951,870,5195,13704,38.11295971978984,None <>
+mingw-gtk3,3879,3864,4110,736,894,857,3874,11853,32.72589217919514,None <>
+nautilus,31,59,6886,29,32,1153,31,6976,0.44438073394495414,Yiddish <raphael@cs.uky.edu>
+pmount,0,0,723,0,0,63,0,723,0.0,Yiddish <yi@li.org>
+xnoise,0,2,914,0,2,260,0,916,0.0,Yiddish

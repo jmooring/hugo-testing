@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gtg,2,0,3495,2,0,298,3,3497,0.057191878753217046,Lojban <jbo@li.org>
+supertux,229,0,2751,81,0,837,343,2980,7.684563758389262,Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/)

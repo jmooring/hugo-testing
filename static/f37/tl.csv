@@ -1,0 +1,50 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+apt,2318,1134,1993,383,151,180,2767,5445,42.57116620752984,Tagalog <debian-tl@banwa.upm.edu.ph>
+asunder,4,0,488,4,0,87,5,492,0.8130081300813009,http://littlesvr.ca/ostd/
+blueberry,24,0,148,7,0,32,33,172,13.953488372093023,Tagalog <tl@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,1634,0,18327,569,0,3943,2167,19961,8.185962627122889,Tagalog <tl@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,67,180,737,49,32,98,73,984,6.808943089430894,Tagalog <debian-tl@banwa.upm.edu.ph>
+debconf,733,67,62,82,7,5,885,862,85.03480278422273,Tagalog <debian-tl@banwa.upm.edu.ph>
+deluge,6,0,4334,4,0,1329,8,4340,0.1382488479262673,Tagalog <tl@li.org>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+exaile,20,0,4148,2,0,1090,22,4168,0.47984644913627633,Tagalog <tl@li.org>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Tagalog
+fragments,1,0,2005,1,0,525,13,2006,0.049850448654037885,Tagalog (https://www.transifex.com/transmissionbt/teams/33778/tl/)
+glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-do,377,0,235,107,0,37,513,612,61.60130718954249,Tagalog <tl@li.org>
+godot3,3924,3166,278055,1205,1378,15435,5107,285145,1.3761419628610005,Tagalog <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/tl/>
+granite,38,17,443,23,6,89,51,498,7.630522088353414,Tagalog <https://weblate.elementary.io/projects/desktop/granite/tl/>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tagalog (http://www.transifex.com/projects/p/initial-setup/language/tl/)
+iso-codes,875,128,87,388,36,29,872,1090,80.27522935779817,Tagalog <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/tl/>
+isomaster,11,0,663,10,0,97,12,674,1.6320474777448073,http://littlesvr.ca/ostd/
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Tagalog <tl@li.org>
+manafirewall,13,0,1084,12,0,121,14,1097,1.1850501367365542,Tagalog (https://www.transifex.com/MageiaLinux/teams/9361/tl/)
+mate-control-center,22,0,3309,13,0,1140,36,3331,0.6604623236265386,Tagalog (https://www.transifex.com/mate/teams/13566/tl/)
+mate-menu,6,0,302,5,0,105,7,308,1.948051948051948,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Tagalog (http://app.transifex.com/mate/MATE/language/tl/)
+midori,490,0,3051,142,0,654,604,3541,13.83789889861621,Tagalog <tl@li.org>
+mingw-glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+mtpaint,943,0,2516,364,0,643,1128,3459,27.26221451286499,Tagalog <tl@li.org>
+nemo-extensions,1,0,7,1,0,1,2,8,12.5,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,2,0,2316,2,0,508,4,2318,0.08628127696289906,Tagalog <tl@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+python-apt,544,0,0,118,0,0,652,544,100.0,Tagalog <tl@li.org>
+python-meh,0,0,109,0,0,23,0,109,0.0,Tagalog (http://www.transifex.com/projects/p/python-meh/language/tl/)
+rednotebook,69,0,1194,13,0,259,97,1263,5.463182897862233,Tagalog <tl@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+shadow-utils,986,1584,2152,204,228,239,1237,4722,20.880982634476915,Tagalog <debian-tl@banwa.upm.edu.ph>
+siril,547,23,8232,112,14,1122,557,8802,6.214496705294251,
+tuxmath,860,180,415,167,26,56,1008,1455,59.106529209621996,LANGUAGE <LL@li.org>
+tuxpaint,186,101,3476,90,43,328,209,3763,4.942864735583311,none
+ufw,0,0,879,1,0,180,0,879,0.0,Tagalog <tl@li.org>
+wesnoth,682,2611,336090,344,841,20091,850,339383,0.20095290571419314,

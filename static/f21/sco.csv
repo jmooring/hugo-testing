@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bzr,23,0,33226,2,0,2351,23,33249,0.06917501278233933,Scots <sco@li.org>
+gnomad2,697,0,0,171,0,0,698,697,100.0,Scots <sco@li.org>
+mintmenu,15,0,847,4,0,144,16,862,1.740139211136891,Scots <sco@li.org>
+picard,29,0,1652,8,0,660,35,1681,1.7251635930993456,Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/)
+pyroom,21,0,390,7,0,67,22,411,5.109489051094891,Scots <sco@li.org>
+stellarium,53,0,15772,40,0,4223,53,15825,0.334913112164297,Scots <sco@li.org>
+vidalia,2,0,10367,1,0,1297,2,10369,0.019288263091908574,translations@vidalia-project.net

@@ -1,0 +1,44 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+atril,510,0,3881,176,0,561,527,4391,11.614666363015258,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,43,0,9632,32,0,1572,69,9675,0.4444444444444444,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+engrampa,15,0,2034,13,0,415,30,2049,0.7320644216691069,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+eog,953,16,224,246,4,28,1020,1193,79.88264878457669,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+eom,680,0,1099,180,0,161,742,1779,38.223721191680724,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+evince,789,166,34,231,38,9,821,989,79.77755308392315,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+gnucash,23906,6956,6187,3805,1078,518,25788,37049,64.52535830926611,NONE
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/)
+libmatekbd,3,0,305,3,0,88,3,308,0.974025974025974,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+libreoffice,33510,12676,122214,11772,5901,20647,34045,168400,19.899049881235154,LANGUAGE <LL@li.org>
+mate-applets,2,0,1513,2,0,100,10,1515,0.132013201320132,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-calc,8,0,1570,8,0,476,19,1578,0.5069708491761723,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-control-center,25,0,3306,23,0,1130,41,3331,0.7505253677574302,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-media,3,0,236,3,0,96,3,239,1.2552301255230125,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+mate-menu,1,0,307,1,0,109,1,308,0.3246753246753247,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+mate-menus,2,0,101,2,0,37,3,103,1.9417475728155338,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+mate-panel,12,2,5606,12,1,696,31,5620,0.21352313167259787,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-polkit,1,0,122,1,0,20,2,123,0.8130081300813009,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-power-manager,9,0,2647,9,0,402,19,2656,0.338855421686747,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+mate-sensors-applet,4,0,309,4,0,105,11,313,1.2779552715654952,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-session-manager,8,0,707,7,0,125,14,715,1.118881118881119,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+mate-system-monitor,10,0,1502,8,0,311,21,1512,0.6613756613756614,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+mate-terminal,31,0,4688,21,0,522,51,4719,0.6569188387370205,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Kashmiri (http://app.transifex.com/mate/MATE/language/ks/)
+mate-utils,56,0,3823,31,0,673,76,3879,1.4436710492394949,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+mozo,3,0,43,3,0,21,7,46,6.521739130434782,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pidgin,0,0,14009,0,0,3190,0,14009,0.0,Kashmiri (http://www.transifex.com/pidgin/pidgin/language/ks/)
+pluma,43,0,5664,32,0,1417,71,5707,0.7534606623444893,Kashmiri (https://app.transifex.com/mate/teams/13566/ks/)
+pluma-plugins,1,0,509,1,0,48,5,510,0.19607843137254902,Kashmiri (https://www.transifex.com/mate/teams/13566/ks/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/)
+regextester,0,0,104,0,0,31,0,104,0.0,none
+tuxpaint,1120,1020,1623,245,109,107,1182,3763,29.763486579856497,Kashmiri-PA
+xreader,464,0,1159,144,0,236,486,1623,28.58903265557609,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+yelp,753,90,192,212,32,105,787,1035,72.7536231884058,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>

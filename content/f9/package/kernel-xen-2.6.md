@@ -1,0 +1,39 @@
+---
+title: "kernel-xen-2.6 - translation progress for f9"
+package: kernel-xen-2.6
+date: 2026-01-17T07:35:42+00:00
+started_languages: 1
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 1
+release: f9
+---
+The package kernel-xen-2.6 (version 2.6.25):
+
+* represents 22 source words to be translated
+* is translated into 1 languages in Fedora f9
+
+
+* contains 1 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [en]({{< ref "/f9/language/en.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f9/kernel-xen-2.6/tools/python/xen/xm/messages/en/xen-xm.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

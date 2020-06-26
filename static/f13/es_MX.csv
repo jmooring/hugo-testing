@@ -1,0 +1,23 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bittorrent,3614,0,290,597,0,36,4283,3904,92.57172131147541,LANGUAGE <LL@li.org>
+entertrack,2545,0,0,886,0,0,2626,2545,100.0,
+galculator,101,7,690,52,3,207,102,798,12.656641604010025,Spanish <es@li.org>
+gallery2,7731,2650,100,1085,562,12,8814,10481,73.76204560633526,Mexican Spanish <gallery-devel@lists.sourceforge.net>
+gentoo,1828,151,128,497,28,54,2111,2107,86.75842429995254,Language es-MX
+gnome-applets,3858,0,0,976,0,0,4894,3858,100.0,Spanish <traductores@es.gnome.org>
+gnomebaker,1059,44,83,266,6,19,1250,1186,89.29173693086003,Spanish (Mexico) <es_MX@li.org>
+gnue-common,153,403,1576,25,60,188,165,2132,7.176360225140713,Espa~ol/Mexico
+inkscape,724,7412,15899,300,2412,2268,832,24035,3.012273767422509,none <none>
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+liblicense,44,0,22,37,0,13,42,66,66.66666666666666,LANGUAGE <LL@li.org>
+libmx,40,0,0,16,0,0,46,40,100.0,
+radiotray,28,0,67,12,0,28,32,95,29.47368421052631,Spanish (Mexican) <None>
+tuxpaint,594,540,113,149,65,38,612,1247,47.634322373696875,Español <ggabriel@internet.com.uy>
+xfce-utils,20,9,102,11,3,22,23,131,15.267175572519085,Spanish <es@li.org>
+xfce4-appfinder,2,1,81,2,1,16,2,84,2.380952380952381,Spanish <es@li.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Spanish <es@li.org>
+xfce4-panel,19,189,332,12,69,86,22,540,3.5185185185185186,Spanish <es@li.org>
+xfce4-session,271,110,609,63,37,99,250,990,27.373737373737374,Spanish <es@li.org>
+xfdesktop,56,290,658,24,90,154,70,1004,5.577689243027888,Spanish <es@li.org>
+xfprint,144,76,102,63,29,21,161,322,44.72049689440994,Spanish <es@li.org>
+xfwm4,87,412,298,40,120,64,100,797,10.915934755332497,Spanish <es@li.org>

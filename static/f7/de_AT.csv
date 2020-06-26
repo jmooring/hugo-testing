@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gdeskcal,85,0,0,33,0,0,82,85,100.0,
+gnomebaker,1008,0,178,242,0,49,938,1186,84.99156829679595,German (Austria) <de_AT@li.org>
+gourmet,1448,59,2019,363,16,412,1341,3526,41.06636415201361,German (Austria) <de_AT@li.org>
+gpsdrive,673,287,1417,142,68,199,676,2377,28.31299957930164,german <de@li.org>
+perl-libintl,5,0,17,5,0,17,5,22,22.727272727272727,German <guido@imperia.net>
+tetex,1,0,4381,1,0,563,1,4382,0.022820629849383843,German <de@li.org>
+texinfo,1,0,4580,1,0,579,1,4581,0.021829294913774284,German <de@li.org>

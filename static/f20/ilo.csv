@@ -1,0 +1,25 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,2722,0,0,328,0,2722,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+anaconda,119,0,5041,28,0,784,134,5160,2.306201550387597,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+certmonger,0,0,1669,0,0,270,0,1669,0.0,Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/)
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,
+control-center,0,0,1313,0,0,756,0,1313,0.0,
+entangle,0,0,916,0,0,201,0,916,0.0,Iloko (http://www.transifex.com/projects/p/entangle/language/ilo/)
+initial-setup,0,0,29,0,0,5,0,29,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+libreport,0,0,3139,0,0,417,0,3139,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+libvirt-sandbox,0,0,583,0,0,104,0,583,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+liveusb-creator,0,0,480,0,0,52,0,480,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+pykickstart,0,0,383,0,0,40,0,383,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+python-blivet,120,0,705,11,0,117,134,825,14.545454545454545,Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+redhat-menus,106,6,149,43,4,39,164,261,40.61302681992337,
+sos,0,0,267,0,0,36,0,267,0.0,none
+switchdesk,30,0,107,14,0,5,39,137,21.897810218978105,
+system-config-date,0,0,1347,0,0,768,0,1347,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+virt-viewer,0,0,615,0,0,129,0,615,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)

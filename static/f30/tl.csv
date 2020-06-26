@@ -1,0 +1,96 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,4,0,488,4,0,87,5,492,0.8130081300813009,http://littlesvr.ca/ostd/
+blueberry,24,0,124,7,0,30,33,148,16.216216216216218,Tagalog <tl@li.org>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Tagalog (http://www.transifex.com/projects/p/certmonger/language/tl/)
+cinnamon-translations,1745,0,17437,602,0,3712,2291,19182,9.097070169950996,Tagalog <tl@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,67,180,754,49,32,97,73,1001,6.693306693306693,Tagalog <debian-tl@banwa.upm.edu.ph>
+debconf,743,55,62,83,6,5,897,860,86.39534883720931,Tagalog <debian-tl@banwa.upm.edu.ph>
+deluge,5,0,2639,3,0,855,7,2644,0.18910741301059003,Tagalog <tl@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnfdragora,147,0,673,109,0,246,167,820,17.926829268292682,Tagalog (https://www.transifex.com/MageiaLinux/teams/9361/tl/)
+dpkg,3856,4453,2823,539,556,285,4536,11132,34.638878907653606,Tagalog <debian-tl@banwa.upm.edu.ph>
+elementary-calculator,77,2,26,35,1,8,102,105,73.33333333333333,Tagalog <https://weblate.elementary.io/projects/calculator/calculator/tl/>
+elementary-calendar,158,82,392,83,29,106,182,632,25.0,Tagalog <https://weblate.elementary.io/projects/calendar/calendar/tl/>
+elementary-camera,59,4,2,15,2,1,67,65,90.76923076923077,Tagalog <https://weblate.elementary.io/projects/camera/camera/tl/>
+elementary-capnet-assist,27,0,55,3,0,11,25,82,32.926829268292686,Tagalog <tl@li.org>
+elementary-code,259,131,705,92,33,122,341,1095,23.652968036529682,Tagalog <https://weblate.elementary.io/projects/scratch/scratch/tl/>
+elementary-files,610,733,1309,168,107,256,719,2652,23.001508295625943,Tagalog <https://weblate.elementary.io/projects/files/files/tl/>
+elementary-greeter,29,20,27,10,3,5,35,76,38.15789473684211,Tagalog <https://weblate.elementary.io/projects/desktop/greeter/tl/>
+elementary-music,657,22,629,244,7,115,854,1308,50.22935779816514,Tagalog <https://weblate.elementary.io/projects/music/music/tl/>
+elementary-photos,237,14,3659,42,5,759,270,3910,6.061381074168798,Tagalog <https://weblate.elementary.io/projects/photos/photos/tl/>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,1,0,223,1,0,43,1,224,0.4464285714285714,Tagalog <https://l10n.elementary.io/projects/desktop/sideload/tl/>
+elementary-terminal,102,14,326,26,4,60,115,442,23.076923076923077,Tagalog <https://weblate.elementary.io/projects/terminal/terminal/tl/>
+elementary-videos,148,7,167,51,3,32,197,322,45.962732919254655,Tagalog <https://weblate.elementary.io/projects/videos/videos/tl/>
+exaile,20,0,4048,2,0,1072,22,4068,0.4916420845624385,Tagalog <tl@li.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Tagalog
+fragments,1,0,2005,1,0,525,13,2006,0.049850448654037885,Tagalog (https://www.transifex.com/transmissionbt/teams/33778/tl/)
+gala,31,0,109,14,0,20,44,140,22.142857142857142,Tagalog <https://l10n.elementary.io/projects/desktop/gala/tl/>
+glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-do,377,0,235,107,0,37,513,612,61.60130718954249,Tagalog <tl@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+granite,53,17,180,31,6,46,69,250,21.2,Tagalog <https://weblate.elementary.io/projects/desktop/granite/tl/>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+im-chooser,0,0,254,0,0,58,0,254,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,485,0,0,88,0,485,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Tagalog (http://www.transifex.com/projects/p/initial-setup/language/tl/)
+iso-codes,888,116,86,392,31,28,885,1090,81.46788990825688,Tagalog <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/tl/>
+isomaster,11,0,663,10,0,97,12,674,1.6320474777448073,http://littlesvr.ca/ostd/
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Tagalog <tl@li.org>
+mate-control-center,22,0,2682,13,0,623,36,2704,0.8136094674556213,Tagalog (https://www.transifex.com/mate/teams/13566/tl/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Tagalog (http://www.transifex.com/mate/MATE/language/tl/)
+midori,490,0,3051,142,0,654,604,3541,13.83789889861621,Tagalog <tl@li.org>
+mingw-glib2,1021,676,3080,150,129,468,1212,4777,21.373246807619843,Tagalog <debian-tl@banwa.upm.edu.ph>
+mtpaint,944,0,2187,365,0,507,1130,3131,30.150111785372086,Tagalog <tl@li.org>
+nemo-extensions,1,0,7,1,0,1,2,8,12.5,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,2,0,2316,2,0,508,4,2318,0.08628127696289906,Tagalog <tl@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Tagalog (http://www.transifex.com/projects/p/python-meh/language/tl/)
+rednotebook,77,0,1070,17,0,223,106,1147,6.713164777680906,Tagalog <tl@li.org>
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Tagalog (http://www.transifex.com/projects/p/fedora/language/tl/)
+shadow-utils,1015,1271,1807,209,186,204,1265,4093,24.798436354752017,Tagalog <debian-tl@banwa.upm.edu.ph>
+siril,547,23,8232,112,14,1122,557,8802,6.214496705294251,
+stellarium,99,0,72536,65,0,27872,117,72635,0.1362979279961451,Tagalog (https://www.transifex.com/stellarium/teams/80998/tl/)
+switchboard,20,0,104,9,0,17,28,124,16.129032258064516,Tagalog <https://weblate.elementary.io/projects/switchboard/switchboard/tl/>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,74,0,22,21,0,8,99,96,77.08333333333334,Tagalog <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/tl/>
+switchboard-plug-applications,24,15,56,11,8,15,36,95,25.263157894736842,Tagalog <tl@li.org>
+switchboard-plug-bluetooth,8,3,136,5,1,32,11,147,5.442176870748299,Tagalog <tl@li.org>
+switchboard-plug-display,17,14,108,8,7,37,19,139,12.23021582733813,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,3,0,437,3,0,165,4,440,0.6818181818181818,Tagalog <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/tl/>
+switchboard-plug-mouse-touchpad,42,18,172,19,9,45,48,232,18.103448275862068,Tagalog <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/tl/>
+switchboard-plug-networking,81,44,331,38,15,79,107,456,17.763157894736842,Tagalog <tl@li.org>
+switchboard-plug-notifications,5,3,133,4,2,15,10,141,3.546099290780142,Tagalog <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/tl/>
+switchboard-plug-onlineaccounts,54,2,104,22,1,33,78,160,33.75,Tagalog <https://weblate.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/tl/>
+switchboard-plug-pantheon-shell,62,1,118,24,1,40,69,181,34.25414364640884,Tagalog <tl@li.org>
+switchboard-plug-printers,4,0,355,4,0,139,5,359,1.1142061281337048,Tagalog <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/tl/>
+switchboard-plug-sharing,1,0,139,1,0,31,2,140,0.7142857142857143,Tagalog <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/tl/>
+switchboard-plug-sound,2,1,139,2,1,46,2,142,1.4084507042253522,Tagalog <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/tl/>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+transmission,1,0,1808,1,0,493,13,1809,0.055279159756771695,Tagalog <tl@li.org>
+tuxmath,860,180,415,167,26,56,1008,1455,59.106529209621996,LANGUAGE <LL@li.org>
+tuxpaint,186,49,1356,90,21,180,209,1591,11.69076052796983,LANGUAGE <LL@li.org>
+ufw,0,0,879,1,0,180,0,879,0.0,Tagalog <tl@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+wesnoth,689,2311,288932,342,730,16972,859,291932,0.23601386624282367,
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,50,5,206,24,3,54,65,261,19.157088122605366,Tagalog <https://weblate.elementary.io/projects/wingpanel/applications-menu/tl/>
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,12,0,89,3,0,18,16,101,11.881188118811881,Tagalog <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/tl/>
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,30,34,33,10,6,11,36,97,30.927835051546392,Tagalog <tl@li.org>
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,11,0,27,5,0,8,14,38,28.947368421052634,Tagalog <tl@li.org>
+wingpanel-indicator-power,89,0,23,24,0,7,104,112,79.46428571428571,Tagalog <tl@li.org>
+wingpanel-indicator-session,57,0,24,18,0,7,66,81,70.37037037037037,Tagalog <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/tl/>
+wingpanel-indicator-sound,12,2,30,5,1,6,13,44,27.27272727272727,Tagalog <tl@li.org>

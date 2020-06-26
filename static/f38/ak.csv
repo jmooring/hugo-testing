@@ -1,0 +1,34 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+elementary-calculator,1,1,193,1,1,63,4,195,0.5128205128205128,Akan <https://l10n.elementary.io/projects/calculator/calculator/ak/>
+elementary-calendar,344,107,124,139,32,35,544,575,59.82608695652174,Akan <https://l10n.elementary.io/projects/calendar/calendar/ak/>
+elementary-camera,17,3,113,2,1,32,27,133,12.781954887218044,ak (generated) <http://weblate.elementary.io/projects/desktop/camera/ak/>
+elementary-code,46,117,1451,19,26,245,51,1614,2.8500619578686495,LANGUAGE <LL@li.org>
+elementary-files,368,581,1541,108,133,310,543,2490,14.779116465863455,Akan <ak@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,10,32,746,3,14,162,16,788,1.2690355329949239,Akan <ak@li.org>
+elementary-music,6,3,196,3,2,32,6,205,2.9268292682926833,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+gala,7,0,242,5,0,46,14,249,2.8112449799196786,Akan <https://l10n.elementary.io/projects/desktop/gala/ak/>
+gnome-menus,70,0,0,27,0,0,74,70,100.0,Akan <akan-translators@lists.launchpad.net>
+granite,43,17,438,26,6,86,61,498,8.634538152610443,Akan <ak@li.org>
+granite-7,14,12,274,11,5,59,14,300,4.666666666666667,Akan <ak@li.org>
+gtkspell3,10,0,6,5,0,2,18,16,62.5,Akan <LL@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,0,67,922,0,44,381,0,989,0.0,Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+sawfish,0,0,6617,0,0,1054,0,6617,0.0,Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/)
+sugar-clock,3,0,63,3,0,18,3,66,4.545454545454546,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-speak,16,0,211,16,0,58,27,227,7.048458149779736,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,60,19,134,56,13,54,102,213,28.169014084507044,LANGUAGE <LL@li.org>
+tilix,1,2,2426,1,1,658,2,2429,0.04116920543433512,Akan <https://hosted.weblate.org/projects/tilix/translations/ak/>
+tuxpaint,1120,1020,1623,245,109,107,1051,3763,29.763486579856497,none
+tuxpaint-stamps,165,3,3081,24,1,780,109,3249,5.078485687903971,LANGUAGE <LL@li.org>
+wingpanel,6,0,10,1,0,2,14,16,37.5,Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel/ak/>

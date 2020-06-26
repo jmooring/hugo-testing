@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,7700,821,356,987,93,32,7533,8877,86.74101610904586,German <fedora-trans-de@redhat.com>
+desktop-effects,66,0,0,11,0,0,57,66,100.0,German <fedora-trans-de@redhat.com>
+fuse-encfs,1080,8,227,124,2,13,1001,1315,82.12927756653993,German (Switzerland) <de_CH@li.org>
+gnomebaker,271,0,915,90,0,201,229,1186,22.849915682967957,German (Switzerland) <de_CH@li.org>
+hwbrowser,116,0,0,51,0,0,110,116,100.0,<en@li.org>
+iok,134,0,0,35,0,0,133,134,100.0,German <fedora-trans-de@redhat.com>
+liblicense,45,0,21,38,0,12,43,66,68.18181818181817,LANGUAGE <LL@li.org>
+libuser,1078,16,20,228,3,2,1139,1114,96.76840215439856,German <fedora-trans-de@redhat.com>
+pgadmin3,2152,3239,3615,764,1011,756,1915,9006,23.89518099045081,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+php-gettext,18,0,0,2,0,0,15,18,100.0,
+publican,354,563,177,24,19,29,354,1094,32.35831809872029,<fedora-trans-de@redhat.com>
+publican-fedora,106,0,1,5,0,1,106,107,99.06542056074767,<de@li.org>
+pulseaudio,2041,566,242,378,28,22,1822,2849,71.63917163917164,German <fedora-trans-de@redhat.com>
+pykickstart,284,0,0,25,0,0,287,284,100.0,German <fedora-trans-de@redhat.com>
+sectool,2411,0,0,356,0,0,2429,2411,100.0,German <fedora-trans-de@redhat.com>
+sos,174,76,17,31,2,3,175,267,65.1685393258427,German <fedora-trans-de@redhat.com>
+system-config-samba,379,0,156,116,0,14,349,535,70.8411214953271,German <fedora-trans-de@redhat.com>
+system-config-users-docs,1054,0,0,77,0,0,1043,1054,100.0,German <fedora-trans-de@redhat.com>
+usermode,562,0,0,94,0,0,507,562,100.0,German <fedora-trans-de@redhat.com>
+vidalia,0,0,2730,0,0,576,0,2730,0.0,LANGUAGE <LL@li.org>
+volume_key,186,186,354,49,47,53,184,726,25.6198347107438,German <fedora-trans-de@redhat.com>

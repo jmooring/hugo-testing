@@ -1,0 +1,76 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,6,0,486,5,0,86,6,492,1.2195121951219512,http://littlesvr.ca/ostd/
+atk,348,9,18,111,8,7,291,375,92.80000000000001,Turkmen <kakilikgroup@yahoo.com>
+atril,65,0,2287,46,0,469,61,2352,2.7636054421768708,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,2452,0,7223,559,0,1045,2028,9675,25.343669250645995,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+caja-actions,50,0,18765,40,0,1476,49,18815,0.26574541589157585,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+caja-extensions,3,0,757,3,0,142,5,760,0.39473684210526316,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+chromium,0,0,0,0,0,0,0,0,0.0,
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Turkmen <kakilikgroup@yahoo.com>
+cinnamon-translations,1,0,320,1,0,67,1,321,0.3115264797507788,Turkmen <kakilikgroup@yahoo.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dasher,141,22,260,93,12,62,139,423,33.33333333333333,Turkmen <kakilikgroup@yahoo.com>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+engrampa,576,0,7346,166,0,727,492,7922,7.270891189093663,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+eog,143,79,335,60,24,66,139,557,25.673249551166965,Turkmne <kakilikgroup@yahoo.com>
+eom,86,0,1693,56,0,285,92,1779,4.834176503653738,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+epiphany,1702,0,1080,573,0,207,1598,2782,61.179007907979866,Turkmen <kakilikgroup@yahoo.com>
+file-roller,702,77,192,194,13,37,608,971,72.29660144181257,Turkmen <kakilikgroup@yahoo.com>
+gdk-pixbuf2,92,119,1137,18,26,158,81,1348,6.824925816023739,Turkmen <kakilikgroup@yahoo.com>
+gedit,2502,906,798,526,179,315,2118,4206,59.486447931526385,Turkmen <kakilikgroup@yahoo.com>
+gedit-plugins,20,318,867,9,132,328,17,1205,1.6597510373443984,Turkmen <kakilikgroup@yahoo.com>
+gnome-calculator,294,175,446,164,79,135,281,915,32.131147540983605,Tuekmen <kakilikgroup@yahoo.com>
+gnome-desktop3,291,4,25,69,1,3,256,320,90.9375,Turkmen <kakilikgroup@yahoo.com>
+gnome-icon-theme,36,2,14,33,1,12,37,52,69.23076923076923,Turkmen <kakilikgroup@yahoo.com>
+gnome-mime-data,625,0,262,262,0,100,592,887,70.46223224351748,Turkmen <kakilikgroup@yahoo.com>
+gnome-session,44,0,472,26,0,75,44,516,8.527131782945736,Turkmen <kakilikgroup@yahoo.com>
+granite,0,0,498,0,0,118,0,498,0.0,
+gtk2,215,1145,12344,82,468,2234,216,13704,1.5688849970811443,Turkmen <kakilikgroup@yahoo.com>
+gtk3,79,1074,10700,40,456,1991,80,11853,0.6664979330127394,Turkmen <kakilikgroup@yahoo.com>
+gtk4,73,427,1932,35,239,547,74,2432,3.0016447368421053,Turkmen <kakilikgroup@yahoo.com>
+gtranslator,1291,0,131,345,0,24,1205,1422,90.78762306610409,Turkmen <kakilikgroup@yahoo.com>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,713,130,247,337,39,77,562,1090,65.41284403669725,Turkmen <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/tk/>
+isomaster,19,1,654,16,1,90,22,674,2.8189910979228485,http://littlesvr.ca/ostd/
+libgnomeui,443,49,927,179,17,149,397,1419,31.219168428470756,Turkmen <kakilikgroup@yahoo.com>
+libmatekbd,7,0,301,7,0,84,7,308,2.272727272727273,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+libmatemixer,2,0,240,2,0,124,3,242,0.8264462809917356,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+marco,49,0,4254,34,0,396,47,4303,1.138740413664885,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+mate-applets,41,3,11587,35,2,1248,39,11631,0.35250623334193104,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+mate-calc,33,0,3290,33,0,716,35,3323,0.9930785434848028,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+mate-control-center,67,0,8186,52,0,1458,67,8253,0.8118260026656974,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+mate-desktop,58,0,2318,17,0,284,57,2376,2.441077441077441,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+mate-media,8,0,231,7,0,92,8,239,3.3472803347280333,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+mate-menu,15,0,293,14,0,96,15,308,4.870129870129871,Turkmen (http://www.transifex.com/mate/MATE/language/tk/)
+mate-menus,3,0,100,3,0,36,3,103,2.912621359223301,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+mate-panel,51,0,5506,38,0,670,51,5557,0.9177613820406695,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+mate-power-manager,14,0,5102,14,0,537,14,5116,0.2736512900703675,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+mate-sensors-applet,8,0,2214,8,0,219,9,2222,0.36003600360036003,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+mate-session-manager,32,0,683,20,0,112,32,715,4.475524475524476,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+mate-system-monitor,32,0,1480,24,0,295,32,1512,2.1164021164021163,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+mate-terminal,97,0,4622,67,0,476,97,4719,2.055520237338419,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Turkmen (http://app.transifex.com/mate/MATE/language/tk/)
+mate-user-admin,4,0,601,4,0,122,4,605,0.6611570247933884,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+mate-utils,136,0,6903,73,0,831,134,7039,1.9320926267935787,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+metacity,49,0,6870,35,0,429,50,6919,0.7081948258418846,Turkmen <kakilikgroup@yahoo.com>
+mingw-atk,348,9,18,111,8,7,291,375,92.80000000000001,Turkmen <kakilikgroup@yahoo.com>
+mingw-gdk-pixbuf,92,119,1137,18,26,158,81,1348,6.824925816023739,Turkmen <kakilikgroup@yahoo.com>
+mingw-gtk2,215,1145,12344,82,468,2234,216,13704,1.5688849970811443,Turkmen <kakilikgroup@yahoo.com>
+mingw-gtk3,79,1074,10700,40,456,1991,80,11853,0.6664979330127394,Turkmen <kakilikgroup@yahoo.com>
+mozo,9,0,37,8,0,16,10,46,19.565217391304348,Turkmen (https://www.transifex.com/mate/teams/13566/tk/)
+muffin,49,0,6870,35,0,429,50,6919,0.7081948258418846,Turkmen <kakilikgroup@yahoo.com>
+mutter,49,0,6870,35,0,429,50,6919,0.7081948258418846,Turkmen <kakilikgroup@yahoo.com>
+nautilus,5001,321,1654,994,81,139,4101,6976,71.68864678899082,Turkmen <kakilikgroup@yahoo.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+php-phpmyadmin-sql-parser5,0,57,234,0,10,44,0,291,0.0,Turkmen <http://hosted.weblate.org/projects/phpmyadmin/master/tk/>
+pluma,1076,0,4631,281,0,1168,947,5707,18.854038899596986,Turkmen (https://app.transifex.com/mate/teams/13566/tk/)
+pluma-plugins,0,20,604,0,9,70,0,624,0.0,Turkmen <kakilikgroup@yahoo.com>
+python-django,1904,0,172,466,0,20,1667,2076,91.71483622350675,Turkmen (http://www.transifex.com/django/django/language/tk/)
+python-django3,1959,0,91,467,0,16,1716,2050,95.5609756097561,Turkmen (http://www.transifex.com/django/django/language/tk/)
+regextester,0,0,104,0,0,31,0,104,0.0,none
+sugar-toolkit-gtk3,17,3,193,17,1,105,19,213,7.981220657276995,LANGUAGE <LL@li.org>
+visualboyadvance-m,0,0,2393,0,0,895,0,2393,0.0,Turkmen (http://www.transifex.com/bgk/vba-m/language/tk/)
+xed,658,0,3101,130,0,793,444,3759,17.50465549348231,Turkmen (http://www.transifex.com/projects/p/MATE/language/tk/)

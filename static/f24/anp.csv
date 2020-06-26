@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blivet-gui,0,0,699,0,0,187,0,699,0.0,Angika
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Angika
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Angika
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Angika
+entangle,0,0,935,0,0,209,0,935,0.0,Angika
+initial-setup,0,0,33,0,0,7,0,33,0.0,Angika
+libbytesize,0,0,17,0,0,17,0,17,0.0,Angika
+libosinfo,0,0,2049,0,0,604,0,2049,0.0,Angika
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Angika
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Angika
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Angika
+pykickstart,0,0,1355,0,0,149,0,1355,0.0,Angika
+python-blivet,0,0,696,0,0,131,0,696,0.0,Angika
+python-fedora,0,0,214,0,0,29,0,214,0.0,Angika
+python-meh,0,0,109,0,0,23,0,109,0.0,Angika
+virt-viewer,0,0,751,0,0,165,0,751,0.0,Angika

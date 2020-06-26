@@ -1,0 +1,692 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4024,0,0,485,0,0,4807,4024,100.0,gnome-albanian-perkthyesit@lists.sourceforge.net
+NetworkManager,0,408,28786,0,107,2144,0,29194,0.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+PackageKit,1136,0,0,293,0,0,1291,1136,100.0,Albanian (http://app.transifex.com/freedesktop/packagekit/language/sq/)
+R,196,648,13941,33,100,2160,215,14785,1.3256679066621577,Albanian <https://translate.rx.studio/projects/r-project/base-c/sq/>
+Thunar,5430,0,0,976,0,0,5844,5430,100.0,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+Zim,0,0,3386,0,0,777,0,3386,0.0,none
+abrt,3304,281,91,377,28,12,3923,3676,89.88030467899891,Albanian
+accerciser,535,0,0,205,0,0,629,535,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Albanian (http://www.transifex.com/freedesktop/accountsservice/language/sq/)
+aisleriot,1190,434,363,348,134,67,1053,1987,59.889280322093605,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+akonadi-calendar-tools,20,4,434,15,2,86,27,458,4.366812227074235,Albanian <sq@li.org>
+akonadi-server,15,0,57,4,0,9,24,72,20.833333333333336,Albanian <sq@li.org>
+akregator,748,445,700,221,113,101,921,1893,39.51399894347596,Albanian <sq@li.org>
+alacarte,42,0,0,16,0,0,47,42,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+amarok,711,1192,12404,389,419,1689,808,14307,4.969595302998532,Albanian <translation-team-sq@lists.sourceforge.net>
+anaconda,4024,1160,3035,808,177,363,4788,8219,48.95972746076165,Albanian <https://translate.fedoraproject.org/projects/anaconda/master/sq/>
+anaconda-webui,16,357,693,10,108,90,22,1066,1.5009380863039399,Albanian <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/sq/>
+android-tools,41,2,5985,41,1,924,49,6028,0.6801592568015925,Albanian
+anjuta,1559,5284,320,590,1224,147,1833,7163,21.764623760994,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+arandr,173,0,0,38,0,0,198,173,100.0,Albanian <https://hosted.weblate.org/projects/arandr/translations/sq/>
+ark,219,355,1409,79,95,197,246,1983,11.043872919818456,sq
+aspell,1508,12,278,265,2,36,1594,1798,83.87096774193549,Albanian <translation-team-sq@lists.sourceforge.net>
+asunder,492,0,1,91,0,1,587,493,99.79716024340772,<LL@li.org>
+at-spi2-core,497,0,0,144,0,0,576,497,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+atomix,146,0,0,59,0,0,166,146,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+atril,1106,8,3250,337,2,395,1234,4364,25.343721356553623,Albanian (https://www.transifex.com/mate/teams/13566/sq/)
+audacious,823,0,89,349,0,24,919,912,90.24122807017544,Albanian (http://app.transifex.com/audacious/audacious/language/sq/)
+audacious-plugins,1430,0,2778,539,0,443,1505,4208,33.9828897338403,Albanian (http://app.transifex.com/audacious/audacious/language/sq/)
+audacity,187,0,17470,128,0,4005,206,17657,1.05907005720111,Albanian (http://www.transifex.com/klyok/audacity/language/sq/)
+audiocd-kio,637,25,102,145,15,13,747,764,83.37696335078533,Albanian <sq@li.org>
+avogadro2,58,84,273,44,47,76,90,415,13.975903614457833,Albanian <sq@li.org>
+avogadro2-libs,126,69,5081,124,39,1417,149,5276,2.3881728582259285,Albanian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sq/>
+balsa,2387,3349,53,675,692,33,2701,5789,41.23337363966142,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+baobab,23,128,389,12,40,74,23,540,4.2592592592592595,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+bison,52,0,0,9,0,0,66,52,100.0,Albanian <translation-team-sq@lists.sourceforge.net>
+bleachbit,1098,147,678,245,27,92,1295,1923,57.09828393135725,
+blinken,121,13,0,43,4,0,146,134,90.29850746268657,Albanian <sq@li.org>
+blivet-gui,419,114,578,121,22,124,500,1111,37.71377137713771,Albanian
+blueman,685,347,1333,274,160,390,853,2365,28.964059196617338,Albanian <https://hosted.weblate.org/projects/blueman/blueman/sq/>
+bomber,56,23,31,17,5,5,66,110,50.90909090909091,Albanian <sq@li.org>
+bookworm,183,25,587,36,4,109,174,795,23.0188679245283,Albanian <https://hosted.weblate.org/projects/bookworm/bookworm/sq/>
+bovo,13,6,63,8,3,15,18,82,15.853658536585366,Albanian <sq@li.org>
+budgie-control-center,551,54,708,551,38,167,551,1313,41.96496572734196,Albanian <besnik@programeshqip.org>
+budgie-desktop,980,0,879,275,0,206,1164,1859,52.71651425497579,Albanian (https://app.transifex.com/buddiesofbudgie/teams/129844/sq/)
+budgie-desktop-view,17,0,0,7,0,0,20,17,100.0,Albanian (https://www.transifex.com/buddiesofbudgie/teams/129844/sq/)
+budgie-screensaver,1167,0,0,168,0,0,1267,1167,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+budgie-session,811,0,0,115,0,0,885,811,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+caja,6486,0,3670,1229,0,367,7122,10156,63.863725876329255,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+caja-actions,188,0,18624,86,0,1430,216,18812,0.9993621092919412,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+caja-extensions,161,0,684,55,0,126,163,845,19.053254437869825,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+calamares,473,0,5,82,0,1,510,478,98.9539748953975,Albanian (https://app.transifex.com/calamares/teams/20061/sq/)
+calendarsupport,4,163,2592,5,72,308,4,2759,0.14498006524102935,Albanian <sq@li.org>
+calibre,2759,0,175031,804,0,19133,2961,177790,1.5518308116317003,Albanian (http://app.transifex.com/calibre/calibre/language/sq/)
+calligra,100,52,516,44,25,196,113,668,14.97005988023952,Albanian <sq@li.org>
+camorama,455,132,248,96,29,44,531,835,54.49101796407185,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+catfish,1103,0,1,162,0,1,1372,1104,99.90942028985508,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+cervisia,96,6,1513,36,2,382,111,1615,5.944272445820433,Albanian <sq@li.org>
+cheese,527,0,0,99,0,0,567,527,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+chkconfig,472,85,40,87,14,8,519,597,79.06197654941374,Albanian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/sq/>
+cinnamon-control-center,551,54,708,551,38,167,551,1313,41.96496572734196,Albanian <besnik@programeshqip.org>
+cinnamon-desktop,4,1,229,2,1,29,5,234,1.7094017094017095,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+cinnamon-translations,7146,0,14947,2048,0,2906,8227,22093,32.34508667903861,sq
+claws-mail,20742,0,190,4059,0,59,22926,20932,99.09229887253966,
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,185,0,1781,29,0,222,191,1966,9.409969481180061,Albanian (https://app.transifex.com/freedesktop/teams/12151/sq/)
+console-setup,951,28,6,174,4,2,1001,985,96.5482233502538,Albanian <debian-l10n-albanian@lists.debian.org>
+cpeditor,0,260,387,0,198,185,0,647,0.0,Albanian <sq@li.org>
+cracklib,90,0,0,15,0,0,106,90,100.0,Albanian
+crow-translate,1244,84,246,383,33,95,1463,1574,79.03430749682337,
+darktable,29558,0,0,5246,0,0,32001,29558,100.0,Albanian
+dasher,410,81,801,152,27,70,504,1292,31.73374613003096,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+debconf,191,0,0,17,0,0,217,191,100.0,Debian L10n Albanian <debian-l10n-albanian@lists.debian.org>
+deepin-daemon,1193,0,21,252,0,7,1380,1214,98.27018121911037,Albanian (https://www.transifex.com/linuxdeepin/teams/3617/sq/)
+deepin-pw-check,84,0,0,13,0,0,107,84,100.0,Albanian (https://www.transifex.com/linuxdeepin/teams/3617/sq/)
+deja-dup,978,0,645,194,0,91,1152,1623,60.258780036968574,Albanian <sq@li.org>
+devhelp,456,0,0,119,0,0,513,456,100.0,gnome-albanian-perkthyesit@lists.sourceforge.net
+dia,326,3622,1763,271,1047,728,368,5711,5.7082822623008225,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+dialog,37,0,0,25,0,0,47,37,100.0,Albanian <translation-team-sq@lists.sourceforge.net>
+digikam,324,10941,51445,245,3970,6261,370,62710,0.5166640089299952,sq
+dino,1075,0,43,282,0,12,1227,1118,96.15384615384616,none
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+dnf,91,16,4611,20,3,856,103,4718,1.9287833827893175,Albanian
+dnf-plugins-core,14,0,2123,6,0,310,13,2137,0.6551240056153487,Albanian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/sq/>
+dnfdragora,1771,0,0,474,0,0,1930,1771,100.0,Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/)
+dolphin,920,551,4806,388,159,335,1110,6277,14.656683128883225,sq
+dragon,92,83,73,26,43,13,112,248,37.096774193548384,Albanian <sq@li.org>
+drgeo,356,1454,175,114,264,83,382,1985,17.934508816120907,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+elementary-calculator,69,14,112,32,6,27,83,195,35.38461538461539,LANGUAGE <LL@li.org>
+elementary-calendar,330,125,197,137,37,47,433,652,50.61349693251533,Albanian <sq@li.org>
+elementary-camera,17,3,113,2,1,32,19,133,12.781954887218044,Albanian <sq@li.org>
+elementary-code,118,209,1245,56,63,175,133,1572,7.506361323155216,Albanian <sq@li.org>
+elementary-files,563,939,1036,175,177,199,620,2538,22.18282111899133,sq
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,38,158,665,19,62,126,42,861,4.413472706155633,Albanian <sq@li.org>
+elementary-music,13,16,178,10,9,22,14,207,6.280193236714976,Albanian <sq@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+engrampa,1065,0,6750,249,0,634,1160,7815,13.62763915547025,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+eog,1223,0,0,282,0,0,1354,1223,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+eog-plugins,10,0,0,3,0,0,10,10,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+eom,1673,0,3285,330,0,212,1808,4958,33.743444937474784,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+epiphany,3011,0,0,755,0,0,3382,3011,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+evince,1048,0,0,291,0,0,1192,1048,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+evolution,16669,3458,1728,4235,631,142,18819,21855,76.27087622969572,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+evolution-data-server,5021,0,0,1042,0,0,6248,5021,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+exaile,44,9,4549,22,4,1095,44,4602,0.9561060408518035,Albanian <https://hosted.weblate.org/projects/exaile/master/sq/>
+exo,734,0,4,143,0,2,748,738,99.45799457994579,Albanian (http://www.transifex.com/xfce/exo/language/sq/)
+fetchmail,4940,0,16,746,0,4,5669,4956,99.6771589991929,Albanian <translation-team-sq@lists.sourceforge.net>
+file-roller,1205,0,0,270,0,0,1292,1205,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+firewalld,141,0,2076,86,0,329,152,2217,6.359945872801083,Albanian
+five-or-more,157,45,80,39,16,10,191,282,55.673758865248224,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Albanian
+four-in-a-row,100,40,116,39,14,20,112,256,39.0625,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+fprintd,0,0,433,0,0,60,0,433,0.0,Albanian (http://www.transifex.com/freedesktop/fprintd/language/sq/)
+gala,26,0,255,10,0,50,36,281,9.252669039145907,Albanian <https://l10n.elementary.io/projects/desktop/gala/sq/>
+garcon,125,0,0,38,0,0,134,125,100.0,Albanian (https://www.transifex.com/xfce/teams/16840/sq/)
+gcompris-qt,35161,0,135,3930,0,7,36310,35296,99.61752039891206,Albanian <kde-i18n-doc@kde.org>
+gconf-editor,335,0,0,99,0,0,423,335,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gcr,11,159,452,6,48,173,10,622,1.7684887459807075,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gcr3,11,159,452,6,48,173,10,622,1.7684887459807075,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gdk-pixbuf2,1208,89,51,185,12,5,1474,1348,89.61424332344214,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gdm,175,176,299,37,23,27,207,650,26.923076923076923,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gedit,4942,0,0,1093,0,0,5720,4942,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gedit-plugins,786,186,233,359,56,54,1024,1205,65.22821576763485,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+genius,89,2685,293,53,380,91,109,3067,2.9018584936419956,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gettext,456,0,0,91,0,0,460,456,100.0,Albanian <translation-team-sq@lists.sourceforge.net>
+gftp,89,2965,50,63,460,34,108,3104,2.8672680412371134,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+ghemical,1864,296,18,418,89,5,2243,2178,85.58310376492194,Albanian <FOSS-in-EDU@googlegroups.com>
+ghex,432,483,49,146,108,18,489,964,44.81327800829876,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gigolo,541,0,0,158,0,0,587,541,100.0,Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/)
+gimagereader,1621,141,55,451,17,14,2022,1817,89.21298844248761,Albanian <https://hosted.weblate.org/projects/gimagereader/translations/sq/>
+glade,3207,0,0,871,0,0,3508,3207,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+glib2,2080,476,2221,358,98,291,2542,4777,43.54197194892191,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-abrt,215,0,6,53,0,2,271,221,97.28506787330316,Albanian
+gnome-applets,3020,0,0,677,0,0,3401,3020,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-calculator,1128,0,0,399,0,0,1306,1128,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-chess,20,183,1187,9,64,164,21,1390,1.4388489208633095,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-commander,261,2648,4987,164,930,329,326,7896,3.3054711246200608,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-control-center,3331,54,708,1275,38,167,3754,4093,81.38284876618617,Albanian <besnik@programeshqip.org>
+gnome-desktop3,285,0,0,71,0,0,350,285,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-dictionary,21,425,387,18,92,73,27,833,2.5210084033613445,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-do,132,0,480,43,0,101,154,612,21.568627450980394,Albanian <sq@li.org>
+gnome-doc-utils,238,0,0,92,0,0,242,238,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-icon-theme,43,0,0,38,0,0,56,43,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-keyring,148,150,192,25,24,60,180,490,30.20408163265306,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-klotski,58,34,102,38,12,9,68,194,29.896907216494846,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-mahjongg,39,76,189,20,26,17,45,304,12.828947368421053,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-menus,165,0,0,58,0,0,186,165,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-mime-data,887,0,0,362,0,0,1001,887,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-mines,36,100,208,15,32,25,43,344,10.465116279069768,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-nettool,573,0,0,197,0,0,677,573,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-nibbles,111,116,220,40,40,30,114,447,24.832214765100673,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-panel,2868,391,261,399,66,43,3121,3520,81.47727272727273,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-robots,321,155,121,52,36,9,339,597,53.768844221105525,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-screenshot,43,168,108,11,33,15,52,319,13.479623824451412,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-session,811,0,0,115,0,0,885,811,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-settings-daemon,408,120,506,70,28,73,399,1034,39.458413926499034,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-shell-frippery,19,0,0,7,0,0,28,19,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-sudoku,5,102,292,5,35,32,9,399,1.2531328320802004,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-system-log,74,152,296,26,31,37,91,522,14.17624521072797,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-system-monitor,645,0,0,177,0,0,806,645,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-terminal,4548,0,0,493,0,0,4706,4548,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-tetravex,25,65,130,13,12,20,30,220,11.363636363636363,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-user-share,61,0,0,13,0,0,77,61,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-vfs2,1508,0,0,301,0,0,1693,1508,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gnome-video-effects,11,2,13,10,2,11,14,26,42.30769230769231,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+godot,42,0,0,20,0,0,46,42,100.0,Albanian <https://hosted.weblate.org/projects/godot-engine/godot/sq/>
+godot3,1849,4515,16228,541,1681,3873,2215,22592,8.184313031161473,Albanian <https://hosted.weblate.org/projects/godot-engine/godot/sq/>
+gramps,10894,17136,12671,2569,3151,1396,12437,40701,26.765927127097616,Albanian <https://hosted.weblate.org/projects/gramps-project/gramps/sq/>
+granite,43,17,438,26,6,86,47,498,8.634538152610443,Albanian <sq@li.org>
+granite-7,14,12,343,11,5,70,14,369,3.7940379403794036,Albanian <sq@li.org>
+gretl,16568,2115,1889,4188,500,254,19954,20572,80.53665175967333,albanian <artur.bala.al@gmail.com>
+gstreamer1,633,418,1172,143,73,175,747,2223,28.475033738191634,Albanian <translation-team-sq@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,30,32,135,5,5,19,36,197,15.228426395939088,Albanian <translation-team-sq@lists.sourceforge.net>
+gstreamer1-plugins-base,8,106,966,2,15,206,9,1080,0.7407407407407408,Albanian <begraj@hotmail.com>
+gstreamer1-plugins-good,10,233,582,1,31,72,13,825,1.2121212121212122,Albanian <begraj@hotmail.com>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,107,80,100.0,Albanian <translation-team-sq@lists.sourceforge.net>
+gthumb,687,1716,202,356,435,87,791,2605,26.37236084452975,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtk2,12509,736,459,2564,148,72,14047,13704,91.27991827203736,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtk2-engines,99,0,0,45,0,0,149,99,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtk3,10285,1015,553,2190,208,89,11420,11853,86.77128153210157,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtk4,2102,107,223,744,41,36,2391,2432,86.43092105263158,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtkhtml3,915,0,0,406,0,0,1070,915,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtksourceview2,821,0,0,332,0,0,1042,821,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtksourceview3,4,15,303,3,10,93,5,322,1.2422360248447204,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtksourceview4,821,0,0,332,0,0,1042,821,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtksourceview5,821,0,0,332,0,0,1042,821,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gtkspell,15,0,0,6,0,0,17,15,100.0,Albanian <translation-team-sq@lists.sourceforge.net>
+gtkspell3,16,0,0,7,0,0,17,16,100.0,Albanian <translation-team-sq@lists.sourceforge.net>
+gtranslator,1432,0,0,372,0,0,1712,1432,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gucharmap,782,0,0,285,0,0,879,782,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gvfs,1245,0,0,312,0,0,1532,1245,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+gwenview,203,202,1670,134,86,236,227,2075,9.783132530120483,Albanian <sq@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hexchat,5963,0,8,1442,0,4,6508,5971,99.86601909227934,Albanian (http://www.transifex.com/hexchat/hexchat/language/sq/)
+homebank,0,0,3163,0,0,997,0,3163,0.0,Albanian <sq@li.org>
+iagno,25,90,207,14,29,29,31,322,7.763975155279502,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+ibus,20,2,2574,13,1,588,22,2596,0.7704160246533128,Albanian
+imsettings,0,0,500,0,0,92,0,500,0.0,LANGUAGE <LL@li.org>
+initial-setup,33,0,73,7,0,13,35,106,31.132075471698112,Albanian
+inkscape,61,11076,38431,58,4542,5828,69,49568,0.12306326662362814,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+iso-codes,1978,9,21822,997,3,14638,2031,23809,8.307782771220968,Albanian <https://hosted.weblate.org/projects/iso-codes/iso-15924/sq/>
+isomaster,674,0,0,107,0,0,755,674,100.0,Albanian <translation-team-sq@lists.sourceforge.net>
+juk,190,29,1216,127,14,197,222,1435,13.240418118466899,Albanian <sq@li.org>
+k3b,719,270,19156,279,120,2120,840,20145,3.5691238520724746,Albanian <sq@li.org>
+kaddressbook,4,0,1146,2,0,238,9,1150,0.34782608695652173,Albanian <sq@li.org>
+kaffeine,33,63,1297,21,40,436,40,1393,2.3689877961234744,Albanian <sq@li.org>
+kalarm,45,185,8332,16,72,1165,57,8562,0.5255781359495445,Albanian <sq@li.org>
+kalzium,58,90,8945,49,41,1207,65,9093,0.6378532937424393,Albanian <sq@li.org>
+kamera,18,0,249,12,0,24,19,267,6.741573033707865,Albanian <sq@li.org>
+kanagram,125,83,319,57,27,60,148,527,23.719165085388994,Albanian <sq@li.org>
+kapman,97,12,6,27,7,2,115,115,84.34782608695653,Albanian <sq@li.org>
+kapptemplate,19,15,192,8,8,36,23,226,8.4070796460177,Albanian <sq@li.org>
+kate,254,326,3634,153,120,597,293,4214,6.027527289985762,Albanian <sq@li.org>
+katomic,79,37,68,27,20,12,98,184,42.934782608695656,Albanian <sq@li.org>
+kblackbox,259,71,1034,44,25,33,284,1364,18.988269794721408,Albanian <sq@li.org>
+kblocks,35,3,119,12,2,23,43,157,22.29299363057325,Albanian <sq@li.org>
+kbounce,98,16,42,27,4,12,114,156,62.82051282051282,Albanian <sq@li.org>
+kbrickbuster,29,10,119,16,5,21,37,158,18.354430379746837,Albanian <sq@li.org>
+kbruch,14,7,1326,13,3,182,21,1347,1.0393466963622866,Albanian <sq@li.org>
+kcachegrind,70,12,1061,62,7,114,79,1143,6.124234470691164,Albanian <sq@li.org>
+kcalc,180,70,861,135,41,216,199,1111,16.2016201620162,Albanian <sq@li.org>
+kcharselect,72,9,11,28,2,6,84,92,78.26086956521739,Albanian <sq@li.org>
+kcolorchooser,14,6,9,6,1,3,19,29,48.275862068965516,Albanian <sq@li.org>
+kcron,100,94,242,78,63,50,108,436,22.93577981651376,Albanian <sq@li.org>
+kde-cli-tools,319,117,1167,69,15,85,370,1603,19.900187149095448,Albanian <sq@li.org>
+kde-dev-utils,35,7,54,15,2,17,41,96,36.45833333333333,Albanian <sq@li.org>
+kdenetwork-filesharing,0,0,907,0,0,109,0,907,0.0,Albanian <sq@li.org>
+kdepim-addons,0,0,881,0,0,119,0,881,0.0,Albanian <sq@li.org>
+kdepim-runtime,130,138,1720,43,42,216,158,1988,6.539235412474849,Albanian <sq@li.org>
+kdeplasma-addons,124,564,529,71,211,151,134,1217,10.18898931799507,sq
+kdesdk-kioslaves,17,0,67,8,0,9,22,84,20.238095238095237,Albanian <sq@li.org>
+kdf,115,10,52,56,5,10,151,177,64.97175141242938,Albanian <sq@li.org>
+kdialog,25,3,375,12,2,64,31,403,6.20347394540943,Albanian <sq@li.org>
+kdiamond,33,17,74,17,6,10,41,124,26.61290322580645,Albanian <sq@li.org>
+kdnssd,21,9,0,6,1,0,24,30,70.0,Albanian <sq@li.org>
+kdump-anaconda-addon,0,0,194,0,0,22,0,194,0.0,LANGUAGE <LL@li.org>
+keditbookmarks,66,51,353,44,20,69,84,470,14.042553191489363,Albanian <sq@li.org>
+kexi,58,348,6934,49,156,1275,68,7340,0.7901907356948229,Albanian <sq@li.org>
+kf5-akonadi-server,15,0,57,4,0,9,24,72,20.833333333333336,Albanian <sq@li.org>
+kf5-calendarsupport,4,161,2614,5,72,314,4,2779,0.1439366678661389,Albanian <sq@li.org>
+kf5-kauth,10,0,63,2,0,6,16,73,13.698630136986301,Albanian <sq@li.org>
+kf5-kbookmarks,33,127,70,4,38,7,38,230,14.347826086956522,sq
+kf5-kcmutils,26,63,177,6,18,14,27,266,9.774436090225564,Albanian <sq@li.org>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Albanian <sq@li.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Albanian <kde-i18n-doc@kde.org>
+kf5-kconfig,0,24,265,0,3,101,0,289,0.0,Albanian <sq@li.org>
+kf5-kconfigwidgets,107,130,105,62,45,18,124,342,31.28654970760234,Albanian <sq@li.org>
+kf5-kcontacts,177,0,0,108,0,0,238,177,100.0,kdeshqip
+kf5-kcoreaddons,0,248,134,0,62,70,0,382,0.0,Albanian <sq@li.org>
+kf5-kdeclarative,8,21,132,4,7,14,9,161,4.968944099378882,Albanian <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,1065,61,4227,629,46,1869,1157,5353,19.895385764991595,kdeshqip
+kf5-knotifications,20,1,0,7,1,0,22,21,95.23809523809523,kdeshqip
+kf5-knotifyconfig,29,11,89,11,3,3,34,129,22.48062015503876,Albanian <sq@li.org>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,kdeshqip
+kf5-kparts,40,43,55,11,12,7,37,138,28.985507246376812,Albanian <sq@li.org>
+kf5-kpimtextedit,10,5,367,4,3,160,13,382,2.6178010471204187,Albanian <sq@li.org>
+kf5-kpty,4,11,0,1,3,0,5,15,26.666666666666668,Albanian <sq@li.org>
+kf5-kross,37,21,42,19,9,7,40,100,37.0,Albanian <sq@li.org>
+kf5-kservice,20,69,84,3,15,10,22,173,11.560693641618498,Albanian <sq@li.org>
+kf5-ktexteditor,67,217,8949,39,94,1131,79,9233,0.7256579659915521,Albanian <sq@li.org>
+kf5-ktextwidgets,365,49,59,105,16,9,406,473,77.16701902748414,Albanian <sq@li.org>
+kf5-ktnef,34,0,321,25,0,118,44,355,9.577464788732394,Albanian <sq@li.org>
+kf5-kwallet,280,190,865,37,2,49,323,1335,20.973782771535582,sq
+kf5-kwidgetsaddons,0,1054,239,0,410,53,0,1293,0.0,Albanian <sq@li.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,kdeshqip
+kf5-kxmlgui,317,259,998,85,96,49,363,1574,20.13977128335451,Albanian <sq@li.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,18,13,100.0,Albanian <sq@li.org>
+kf5-libkcddb,237,5,158,173,3,35,255,400,59.25,Albanian <sq@li.org>
+kf5-libkdepim,10,0,25,5,0,5,14,35,28.57142857142857,Albanian <sq@li.org>
+kf5-libkleo,54,47,2322,36,33,361,62,2423,2.228642179116797,Albanian <sq@li.org>
+kf5-libksieve,2,0,3120,1,0,536,3,3122,0.06406149903907751,Albanian <sq@li.org>
+kf5-mailimporter,3,0,1405,4,0,123,3,1408,0.2130681818181818,Albanian <sq@li.org>
+kf5-purpose,19,0,0,7,0,0,21,19,100.0,sq
+kf5-sonnet,0,483,200,0,69,7,0,683,0.0,Albanian <sq@li.org>
+kf5-syntax-highlighting,0,260,387,0,198,185,0,647,0.0,Albanian <sq@li.org>
+kf6-kauth,0,0,73,0,0,8,0,73,0.0,Albanian <sq@li.org>
+kf6-kbookmarks,0,112,67,0,33,5,0,179,0.0,Albanian <sq@li.org>
+kf6-kcmutils,2,65,56,2,18,6,2,123,1.6260162601626018,Albanian <sq@li.org>
+kf6-kcodecs,0,55,315,0,36,17,0,370,0.0,Albanian <sq@li.org>
+kf6-kcompletion,0,18,0,0,11,0,0,18,0.0,Albanian <sq@li.org>
+kf6-kconfig,0,24,526,0,3,201,0,550,0.0,Albanian <sq@li.org>
+kf6-kconfigwidgets,73,146,93,43,57,17,91,312,23.397435897435898,Albanian <sq@li.org>
+kf6-kcontacts,168,0,0,100,0,0,225,168,100.0,kdeshqip
+kf6-kcoreaddons,373,28,51,131,10,15,371,452,82.52212389380531,Albanian <kde-i18n-sq@kde.org>
+kf6-kdeclarative,7,12,150,3,4,14,8,169,4.142011834319527,Albanian <sq@li.org>
+kf6-kdnssd,0,3,0,0,3,0,0,3,0.0,Albanian <sq@li.org>
+kf6-kdoctools,8,0,0,4,0,0,16,8,100.0,Albanian <sq@li.org>
+kf6-kglobalaccel,0,12,22,0,3,2,0,34,0.0,Albanian <sq@li.org>
+kf6-kholidays,98,8,44,73,4,20,107,150,65.33333333333333,sq
+kf6-ki18n,41,81,2,41,67,2,41,124,33.064516129032256,Albanian <sq@li.org>
+kf6-kiconthemes,0,1,45,0,1,21,0,46,0.0,Albanian <sq@li.org>
+kf6-kio,8439,15,86,1107,4,10,8677,8540,98.81733021077284,Albanian <kde-i18n-sq@kde.org>
+kf6-kitemviews,0,6,0,0,3,0,0,6,0.0,Albanian <sq@li.org>
+kf6-kjobwidgets,0,94,42,0,34,6,0,136,0.0,Albanian <sq@li.org>
+kf6-knewstuff,4,144,890,4,63,64,5,1038,0.3853564547206166,Albanian <sq@li.org>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,kdeshqip
+kf6-knotifyconfig,19,0,0,7,0,0,20,19,100.0,Albanian <sq@li.org>
+kf6-kparts,50,0,7,10,0,1,46,57,87.71929824561403,sq
+kf6-kpty,4,11,0,1,3,0,5,15,26.666666666666668,Albanian <sq@li.org>
+kf6-kservice,0,34,11,0,10,2,0,45,0.0,Albanian <sq@li.org>
+kf6-ktexteditor,65,274,9124,38,112,1169,77,9463,0.6868857656134418,Albanian <sq@li.org>
+kf6-ktextwidgets,358,56,59,101,20,9,399,473,75.68710359408034,Albanian <sq@li.org>
+kf6-kwallet,273,197,866,35,4,49,316,1336,20.434131736526943,Albanian <sq@li.org>
+kf6-kwidgetsaddons,386,675,216,195,224,47,458,1277,30.227094753328114,sq
+kf6-kwindowsystem,2,0,0,1,0,0,2,2,100.0,kdeshqip
+kf6-kxmlgui,1267,5,2,194,1,1,1358,1274,99.45054945054946,Albanian <kde-i18n-sq@kde.org>
+kf6-purpose,19,0,0,7,0,0,21,19,100.0,sq
+kf6-sonnet,0,479,205,0,69,8,0,684,0.0,Albanian <sq@li.org>
+kf6-syntax-highlighting,0,266,436,0,202,205,0,702,0.0,Albanian <sq@li.org>
+kfind,68,81,368,36,32,49,93,517,13.152804642166343,Albanian <sq@li.org>
+kfloppy,46,24,571,27,1,72,52,641,7.17628705148206,Albanian <sq@li.org>
+kgamma,38,0,0,15,0,0,44,38,100.0,Albanian <sq@li.org>
+kgeography,8558,973,512,6344,598,298,8717,10043,85.21358159912377,sq
+kget,389,89,2289,227,36,479,465,2767,14.05854716299241,Albanian <sq@li.org>
+kgoldrunner,83,50,27914,26,24,967,92,28047,0.2959318287160837,Albanian <sq@li.org>
+kgpg,189,91,4632,122,50,515,222,4912,3.847719869706841,Albanian <sq@li.org>
+khangman,271,42,136,68,15,33,302,449,60.35634743875279,Albanian <sq@li.org>
+khelpcenter,39,10,172,28,4,52,52,221,17.647058823529413,Albanian <sq@li.org>
+kidentitymanagement,6,1,253,5,1,48,11,260,2.307692307692308,Albanian <sq@li.org>
+kig,45,9,7403,30,5,1241,53,7457,0.6034598363953332,Albanian <sq@li.org>
+kimap,36,0,82,33,0,18,36,118,30.508474576271187,Albanian <sq@li.org>
+kinfocenter,19,35,108,13,21,44,23,162,11.728395061728394,Albanian <sq@li.org>
+kio-extras,151,133,2399,38,36,170,187,2683,5.6280283265001865,Albanian <sq@li.org>
+kio-extras-kf5,149,34,771,36,7,75,185,954,15.618448637316561,Albanian <sq@li.org>
+kiten,58,30,563,33,18,121,67,651,8.90937019969278,Albanian <sq@li.org>
+kjumpingcube,48,56,309,23,14,58,60,413,11.62227602905569,Albanian <sq@li.org>
+kldap,33,12,137,24,7,23,39,182,18.13186813186813,Albanian <sq@li.org>
+kleopatra,110,1903,11638,70,559,1355,129,13651,0.8058017727639,Albanian <sq@li.org>
+klettres,43,8,389,30,3,52,50,440,9.772727272727273,Albanian <sq@li.org>
+klines,30,14,55,14,6,8,38,99,30.303030303030305,Albanian <sq@li.org>
+kmag,44,2,386,25,1,72,51,432,10.185185185185185,Albanian <sq@li.org>
+kmahjongg,36,36,287,21,14,64,42,359,10.027855153203342,Albanian <sq@li.org>
+kmail,22,658,7808,14,249,1043,32,8488,0.25918944392082943,Albanian <sq@li.org>
+kmenuedit,87,21,170,40,6,18,117,278,31.294964028776977,Albanian <sq@li.org>
+kmime,0,0,152,0,0,6,0,152,0.0,Albanian <sq@li.org>
+kmines,38,4,122,21,3,24,42,164,23.170731707317074,Albanian <sq@li.org>
+kmix,79,50,1030,56,19,152,88,1159,6.816220880069025,Albanian <sq@li.org>
+kmousetool,18,10,119,11,2,19,24,147,12.244897959183673,Albanian <sq@li.org>
+kmouth,64,0,1410,42,0,160,75,1474,4.341926729986431,Albanian <sq@li.org>
+kmplot,1302,196,1003,326,45,115,1354,2501,52.059176329468215,Albanian <sq@li.org>
+knavalbattle,169,91,141,59,24,21,203,401,42.14463840399002,Albanian <sq@li.org>
+knetwalk,19,19,198,10,2,44,24,236,8.050847457627118,Albanian <sq@li.org>
+knotes,114,74,413,63,38,89,136,601,18.96838602329451,Albanian <sq@li.org>
+kolf,39,45,321,25,31,94,46,405,9.62962962962963,Albanian <sq@li.org>
+kollision,27,4,78,13,2,15,37,109,24.770642201834864,Albanian <sq@li.org>
+kolourpaint,154,48,2453,122,24,309,176,2655,5.800376647834275,kdeshqip
+kompare,83,73,1257,25,52,123,89,1413,5.874026893135174,Albanian <sq@li.org>
+konqueror,1958,327,4665,442,78,441,2207,6950,28.172661870503596,Albanian <sq@li.org>
+konquest,38,42,168,24,21,54,46,248,15.32258064516129,Albanian <sq@li.org>
+konsole,215,363,3721,145,176,576,251,4299,5.001163061177018,sq
+konsole5,70,275,3651,40,121,679,84,3996,1.7517517517517518,kdeshqip
+kontact,8,27,455,5,12,70,14,490,1.6326530612244898,Albanian <sq@li.org>
+kontactinterface,4,0,0,2,0,0,4,4,100.0,kdeshqip
+konversation,26,29,10343,13,18,1618,37,10398,0.2500480861704174,Albanian <sq@li.org>
+kopete,388,46,16741,144,15,3136,446,17175,2.2590975254730714,Albanian <sq@li.org>
+korganizer,47,329,6764,36,139,816,55,7140,0.6582633053221288,Albanian <sq@li.org>
+kpat,128,27,434,51,17,145,159,589,21.731748726655347,Albanian <sq@li.org>
+kpimtextedit,8,3,263,3,2,118,11,274,2.9197080291970803,Albanian <sq@li.org>
+krdc,202,33,957,89,16,191,233,1192,16.946308724832214,Albanian <sq@li.org>
+kreversi,61,22,321,26,12,95,71,404,15.099009900990099,Albanian <sq@li.org>
+krfb,23,2,709,14,2,88,30,734,3.1335149863760217,Albanian <sq@li.org>
+krita,76,13435,22475,62,5651,2845,82,35986,0.21119324181626187,Albanian <sq@li.org>
+kruler,16,1,141,6,1,37,21,158,10.126582278481013,Albanian <sq@li.org>
+kshisen,42,13,612,26,4,45,53,667,6.296851574212893,Albanian <sq@li.org>
+ksnakeduel,28,13,202,11,6,39,33,243,11.522633744855968,Albanian <sq@li.org>
+kspaceduel,46,16,103,29,12,40,54,165,27.878787878787882,Albanian <sq@li.org>
+ksquares,58,6,229,30,4,53,70,293,19.795221843003414,Albanian <sq@li.org>
+kstars,1961,8694,48104,889,3445,8307,2229,58759,3.337361085110366,kdeshqip
+ktimer,32,16,210,20,4,29,42,258,12.4031007751938,Albanian <sq@li.org>
+ktnef,34,0,321,25,0,118,44,355,9.577464788732394,Albanian <sq@li.org>
+ktorrent,542,689,6261,308,208,852,628,7492,7.234383342231713,Albanian <sq@li.org>
+ktouch,964,0,0,259,0,0,1083,964,100.0,Albanian kde-i18n-sq@kde.org
+ktuberling,27,5,126,13,2,23,33,158,17.088607594936708,Albanian <sq@li.org>
+kturtle,1426,91,21,261,83,5,1399,1538,92.71781534460338,Albanian <sq@li.org>
+kwalletmanager5,108,62,658,46,23,99,137,828,13.043478260869565,Albanian <sq@li.org>
+kwin,127,509,5583,95,208,872,166,6219,2.0421289596398133,Albanian <sq@li.org>
+kwin-x11,127,509,5583,95,208,872,166,6219,2.0421289596398133,Albanian <sq@li.org>
+kwordquiz,19,45,190,11,24,58,25,254,7.480314960629922,Albanian <sq@li.org>
+leafpad,125,0,0,68,0,0,143,125,100.0,Albanian <translation-team-sq@lists.sourceforge.net>
+libbonobo,543,0,0,107,0,0,653,543,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libbonoboui,368,0,0,115,0,0,459,368,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Albanian
+libcryptui,7,1352,945,2,271,205,10,2304,0.3038194444444445,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libdnf,2,0,1662,1,0,237,4,1664,0.1201923076923077,Albanian
+libexif,637,27,7149,213,12,1095,710,7813,8.153078202995008,Albanian <sq@li.org>
+libgda,28,2929,8185,20,706,1328,33,11142,0.2513013821576019,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libgda5,28,2929,8185,20,706,1328,33,11142,0.2513013821576019,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libgdl,604,0,0,92,0,0,678,604,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libgedit-gtksourceview,4,13,302,3,8,83,5,319,1.2539184952978055,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libghemical,752,102,38,187,23,7,988,892,84.30493273542601,Albanian <FOSS-in-EDU@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,468,378,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libgnomekbd,235,0,0,49,0,0,286,235,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libgnomeui,1226,0,0,320,0,0,1393,1226,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libgtop2,126,0,0,40,0,0,162,126,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libgweather,7284,0,0,4745,0,0,7405,7284,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkcddb,236,6,158,172,4,35,254,400,59.0,Albanian <sq@li.org>
+libkcompactdisc,15,0,0,10,0,0,21,15,100.0,Albanian <sq@li.org>
+libkdegames,75,28,213,43,16,65,83,316,23.734177215189874,Albanian <sq@li.org>
+libkdepim,2,16,18,2,5,4,4,36,5.555555555555555,Albanian <sq@li.org>
+libkeduvocdocument,71,7,93,51,1,29,79,171,41.52046783625731,Albanian <sq@li.org>
+libkleo,41,81,2895,28,53,460,49,3017,1.3589658601259529,Albanian <sq@li.org>
+libkmahjongg,5,3,3,5,3,3,5,11,45.45454545454545,Albanian <sq@li.org>
+libkomparediff2,0,10,133,0,5,14,0,143,0.0,Albanian <sq@li.org>
+libksane,139,23,122,44,14,34,181,284,48.943661971830984,Albanian <sq@li.org>
+libksieve,2,2,3128,1,2,540,3,3132,0.06385696040868455,Albanian <sq@li.org>
+libksysguard,30,7,555,20,4,101,45,592,5.0675675675675675,Albanian <sq@li.org>
+libmatekbd,254,0,54,52,0,39,306,308,82.46753246753246,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+libmatemixer,10,0,232,10,0,116,10,242,4.132231404958678,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+libmateweather,5420,0,723,3935,0,640,5500,6143,88.23050626729611,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+libmypaint,2,2,2299,2,1,159,3,2303,0.08684324793747286,Albanian <https://hosted.weblate.org/projects/mypaint/libmypaint/sq/>
+libnma,0,41,766,0,18,165,0,807,0.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libpwquality,54,0,291,8,0,43,50,345,15.65217391304348,Albanian
+libreoffice,71513,7439,681141,27487,3190,63700,82597,760093,9.40845396550159,Albanian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/sq/>
+libreport,0,0,4928,0,0,603,0,4928,0.0,none
+libuser,0,0,1478,0,0,307,0,1478,0.0,Albanian (http://www.transifex.com/projects/p/fedora/language/sq/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Albanian (http://www.transifex.com/projects/p/fedora/language/sq/)
+libwnck,88,0,0,33,0,0,131,88,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libwnck3,88,0,0,33,0,0,131,88,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+libxfce4ui,1018,0,0,211,0,0,1133,1018,100.0,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+libxfce4util,424,0,0,7,0,0,439,424,100.0,Albanian (http://www.transifex.com/xfce/libxfce4util/language/sq/)
+libxfce4windowing,63,0,0,19,0,0,78,63,100.0,Albanian (https://www.transifex.com/xfce/teams/16840/sq/)
+liferea,2192,6,3,532,1,3,2435,2201,99.5910949568378,Albanian <translation-team-sq@lists.sourceforge.net>
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Albanian (http://www.transifex.com/the_cavalry/light-locker/language/sq/)
+lightdm,39,0,124,13,0,8,43,163,23.92638036809816,Albanian <sq@li.org>
+lightdm-gtk,28,0,61,10,0,15,31,89,31.46067415730337,Albanian <sq@li.org>
+lightdm-settings,324,0,31,66,0,8,359,355,91.26760563380282,Albanian <sq@li.org>
+lightsoff,2,24,71,2,8,9,5,97,2.0618556701030926,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+lokalize,153,108,3873,128,53,499,179,4134,3.7010159651669086,sq
+lskat,54,20,192,33,8,48,62,266,20.30075187969925,Albanian <sq@li.org>
+lxmenu-data,97,0,0,37,0,0,110,97,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+magpie,8009,306,272,515,25,22,8481,8587,93.26889484103877,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mailimporter,3,0,1402,4,0,122,3,1405,0.21352313167259787,Albanian <sq@li.org>
+mailman3,451,0,4189,111,0,290,486,4640,9.719827586206897,Albanian <https://hosted.weblate.org/projects/gnu-mailman/mailman/sq/>
+maliit-keyboard,38,4,39,35,2,24,38,81,46.913580246913575,
+mame,0,0,3685,0,0,1288,0,3685,0.0,MAME Language Team
+manafirewall,1185,0,0,141,0,0,1256,1185,100.0,Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/)
+marco,3093,0,1078,363,0,70,3620,4171,74.15487892591705,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-applets,2354,0,13752,499,0,1156,2678,16106,14.615671178442815,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-backgrounds,55,0,0,29,0,0,58,55,100.0,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-calc,215,0,3112,154,0,597,254,3327,6.462278328824766,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-control-center,2119,7,6134,855,4,668,2379,8260,25.653753026634384,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-desktop,1093,6,1313,180,2,113,1346,2412,45.3150912106136,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-icon-theme,4,0,0,2,0,0,6,4,100.0,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-media,51,0,193,31,0,69,56,244,20.901639344262296,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-menu,94,0,214,46,0,64,105,308,30.519480519480517,Albanian (http://www.transifex.com/mate/MATE/language/sq/)
+mate-menus,98,0,5,38,0,1,111,103,95.14563106796116,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-notification-daemon,103,0,83,32,0,21,119,186,55.376344086021504,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-panel,3663,5,3085,527,2,293,3985,6753,54.24255886272768,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-polkit,123,0,0,21,0,0,130,123,100.0,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-power-manager,372,0,4751,67,0,485,374,5123,7.261370290845208,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-screensaver,469,0,632,82,0,94,534,1101,42.59763851044505,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-sensors-applet,70,0,2090,24,0,202,94,2160,3.2407407407407405,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-session-manager,204,0,513,67,0,66,235,717,28.451882845188287,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-settings-daemon,365,0,1838,65,0,253,369,2203,16.568315932818884,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-system-monitor,579,0,4315,197,0,464,698,4894,11.830813240702902,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-terminal,3132,0,5106,384,0,381,3176,8238,38.01893663510561,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-themes,62,0,12,13,0,10,85,74,83.78378378378379,Albanian (http://app.transifex.com/mate/MATE/language/sq/)
+mate-user-admin,14,0,591,13,0,113,15,605,2.3140495867768593,Albanian (https://www.transifex.com/mate/teams/13566/sq/)
+mate-user-guide,233,0,42740,85,0,3143,282,42973,0.5422009168547692,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mate-utils,1634,0,8267,325,0,746,1791,9901,16.503383496616504,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+mediawriter,275,223,338,41,59,55,304,836,32.89473684210527,Albanian <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/sq/>
+meld,673,103,198,184,34,34,751,974,69.0965092402464,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+metacity,8009,306,272,515,25,22,8481,8587,93.26889484103877,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mingw-GConf2,4024,0,0,485,0,0,4807,4024,100.0,gnome-albanian-perkthyesit@lists.sourceforge.net
+mingw-atk,375,0,0,126,0,0,431,375,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Albanian (http://www.transifex.com/projects/p/freedesktop/language/sq/)
+mingw-gdk-pixbuf,1208,89,51,185,12,5,1474,1348,89.61424332344214,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mingw-gettext,440,16,0,89,2,0,444,456,96.49122807017544,Albanian <translation-team-sq@lists.sourceforge.net>
+mingw-glib2,2080,476,2221,358,98,291,2542,4777,43.54197194892191,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mingw-gstreamer1,633,418,1172,143,73,175,747,2223,28.475033738191634,Albanian <translation-team-sq@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,30,32,135,5,5,19,36,197,15.228426395939088,Albanian <translation-team-sq@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,8,106,966,2,15,206,9,1080,0.7407407407407408,Albanian <begraj@hotmail.com>
+mingw-gstreamer1-plugins-good,10,233,582,1,31,72,13,825,1.2121212121212122,Albanian <begraj@hotmail.com>
+mingw-gtk2,12509,736,459,2564,148,72,14047,13704,91.27991827203736,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mingw-gtk3,10285,1015,553,2190,208,89,11420,11853,86.77128153210157,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mingw-gtk4,2102,107,223,744,41,36,2391,2432,86.43092105263158,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mingw-gtksourceview3,4,15,303,3,10,93,5,322,1.2422360248447204,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mingw-libcharset,15,31,296,4,8,34,15,342,4.385964912280701,Albanian <translation-team-sq@lists.sourceforge.net>
+mingw-mediawriter,275,225,345,41,62,59,304,845,32.544378698224854,Albanian <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/sq/>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Albanian (http://www.transifex.com/freedesktop/p11-kit/language/sq/)
+mingw-wxWidgets,5025,485,881,1052,144,279,5471,6391,78.62619308402441,<wx-translators@wxwidgets.org>
+mingw-wxWidgets3,4325,1645,1725,919,477,457,4697,7695,56.2053281351527,<wx-translators@wxwidgets.org>
+mousepad,1700,0,2,429,0,1,1847,1702,99.88249118683902,Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/)
+mousetweaks,426,0,0,94,0,0,497,426,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mozo,41,0,5,20,0,4,45,46,89.13043478260869,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+muffin,8009,306,272,515,25,22,8481,8587,93.26889484103877,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mutter,8009,306,272,515,25,22,8481,8587,93.26889484103877,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+mypaint,14,5,6362,13,3,1254,18,6381,0.21940134775113618,Albanian <https://hosted.weblate.org/projects/mypaint/mypaint/sq/>
+nano,3418,0,68,615,0,17,3784,3486,98.04934021801492,Albanian <translation-team-sq@lists.sourceforge.net>
+nautilus,8379,0,0,1320,0,0,9223,8379,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+network-manager-applet,2,258,4179,1,78,795,3,4439,0.04505519261094841,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+newt,4,0,0,4,0,0,4,4,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+nicotine+,590,27,4421,382,13,877,651,5038,11.710996427153631,Albanian <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/sq/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+obs-cef,0,0,0,0,0,0,0,0,0.0,
+okteta,31,3,22,20,1,9,42,56,55.35714285714286,Albanian <sq@li.org>
+okular,236,27,1344,69,9,110,335,1607,14.685749844430616,Albanian <sq@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2300,0,4,909,0,3,2500,2304,99.82638888888889,Albanian (https://www.transifex.com/xfce/teams/16840/sq/)
+orca,485,1623,390,218,487,233,571,2498,19.41553242594075,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+parley,198,144,3091,145,74,510,218,3433,5.767550247596854,Albanian <sq@li.org>
+parole,1138,0,9,295,0,4,1320,1147,99.21534437663469,Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/)
+pastebinit,13,0,182,3,0,26,15,195,6.666666666666667,Albanian <sq@li.org>
+phonon,0,96,231,0,26,33,0,327,0.0,Albanian <sq@li.org>
+phonon-backend-gstreamer,0,37,67,0,2,13,0,104,0.0,Albanian <sq@li.org>
+picard,3408,117,13540,1017,45,3061,3711,17065,19.970700263697626,Albanian <https://translations.metabrainz.org/projects/picard/2/app/sq/>
+pidgin,13933,0,61,3182,0,9,15112,13994,99.56409889952836,Albanian (http://app.transifex.com/pidgin/pidgin/language/sq/)
+pingus,54,0,5341,52,0,394,65,5395,1.0009267840593143,Albanian <sq@li.org>
+pinta,12,0,1734,9,0,528,23,1746,0.6872852233676976,Albanian <sq@li.org>
+plank,55,0,134,30,0,20,79,189,29.100529100529098,Albanian <sq@li.org>
+plasma-desktop,265,338,3315,130,140,564,347,3918,6.763654925982644,Albanian <sq@li.org>
+plasma-drkonqi,18,36,1871,11,10,179,25,1925,0.935064935064935,Albanian <sq@li.org>
+plasma-oxygen,9,4,602,3,2,214,13,615,1.4634146341463417,Albanian <sq@li.org>
+plasma-sdk,38,11,322,21,5,54,55,371,10.242587601078167,Albanian <sq@li.org>
+plasma-systemsettings,7,2,119,4,1,30,13,128,5.46875,Albanian <sq@li.org>
+plasma-workspace,3868,926,4128,1257,303,559,4167,8922,43.35350818202197,Albanian <sq@li.org>
+plasma-workspace-x11,3868,926,4128,1257,303,559,4167,8922,43.35350818202197,Albanian <sq@li.org>
+plasma5support,28,0,0,18,0,0,36,28,100.0,Albanian <sq@li.org>
+pluma,4075,0,9038,1013,0,1077,4765,13113,31.076031419202316,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+pluma-plugins,131,0,1274,16,0,129,146,1405,9.323843416370106,Albanian (https://app.transifex.com/mate/teams/13566/sq/)
+poedit,5065,0,26,1044,0,2,5572,5091,99.48929483402082,Albanian
+policycoreutils,41,2,6074,41,1,929,49,6117,0.6702632009154814,Albanian
+powerdevil,45,70,778,14,18,131,49,893,5.039193729003359,Albanian <sq@li.org>
+prusa-slicer,7148,0,360,1748,0,143,7816,7508,95.20511454448588,<wx-translators@wxwidgets.org>
+purple-telegram,656,0,0,138,0,0,720,656,100.0,Albanian (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/sq/)
+pychess,4563,0,3029,1123,0,345,4843,7592,60.1027397260274,Albanian (http://www.transifex.com/gbtami/pychess/language/sq/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-apt,3,18,523,1,7,110,3,544,0.5514705882352942,Albanian <sq@li.org>
+python-blivet,43,0,562,5,0,76,37,605,7.107438016528926,Albanian (http://www.transifex.com/projects/p/blivet/language/sq/)
+python-caja,6,0,0,2,0,0,7,6,100.0,Albanian (https://www.transifex.com/mate/teams/13566/sq/)
+python-django,3849,0,32,885,0,10,4225,3881,99.17547023962896,Albanian (http://www.transifex.com/django/django/language/sq/)
+python-django-contrib-comments,250,0,0,61,0,0,281,250,100.0,Albanian (http://www.transifex.com/django/django-contrib-comments/language/sq/)
+python-django-formtools,32,0,0,11,0,0,35,32,100.0,Albanian (http://www.transifex.com/projects/p/django-formtools/language/sq/)
+python-django-mailman3,355,0,0,72,0,0,379,355,100.0,Albanian <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/sq/>
+python-django4.2,3849,0,32,885,0,10,4225,3881,99.17547023962896,Albanian (http://www.transifex.com/django/django/language/sq/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Albanian
+python-hyperkitty,889,48,14,254,7,4,987,951,93.48054679284962,Albanian <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/sq/>
+python-manatools,4,0,0,4,0,0,4,4,100.0,Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/)
+python-meh,109,0,0,23,0,0,120,109,100.0,Albanian
+python-nikola,86,0,8,38,0,6,104,94,91.48936170212765,Albanian (http://www.transifex.com/ralsina/nikola/language/sq/)
+python-postorius,4925,109,20,599,24,8,5369,5054,97.44756628413138,Albanian <https://hosted.weblate.org/projects/gnu-mailman/postorius/sq/>
+python-sphinx,4732,0,230,708,0,47,5201,4962,95.36477226924627,Albanian (http://app.transifex.com/sphinx-doc/sphinx-1/language/sq/)
+python-sphinxcontrib-htmlhelp,25,0,0,5,0,0,30,25,100.0,Albanian (https://www.transifex.com/sphinx-doc/teams/36659/sq/)
+python-sphinxcontrib-serializinghtml,18,0,0,2,0,0,16,18,100.0,Albanian (https://www.transifex.com/sphinx-doc/teams/36659/sq/)
+python-wxpython4,7692,0,145,1909,0,56,8554,7837,98.14980222023733,<wx-translators@wxwidgets.org>
+quadrapassel,215,80,133,50,18,11,200,428,50.23364485981309,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+quassel,627,0,7735,341,0,1366,658,8362,7.4982061707725425,Albanian (http://www.transifex.com/quassel/quassel/language/sq/)
+rapid-photo-downloader,8086,0,0,924,0,0,9109,8086,100.0,Albanian <sq@li.org>
+realmd,0,0,833,0,0,134,0,833,0.0,Albanian (http://www.transifex.com/freedesktop/realmd/language/sq/)
+redhat-menus,5,0,256,2,0,84,4,261,1.9157088122605364,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,297,4253,846,130,771,99,307,5396,5.504077094143811,Albanian <https://hosted.weblate.org/projects/remmina/remmina/sq/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,none
+rhythmbox-alternative-toolbar,62,0,229,31,0,26,76,291,21.305841924398624,Albanian <sq@li.org>
+ristretto,674,0,0,210,0,0,770,674,100.0,Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/)
+rpm-ostree,2,0,1478,1,0,228,4,1480,0.13513513513513514,Albanian
+seahorse,7,1352,945,2,271,205,10,2304,0.3038194444444445,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+seahorse-caja,0,171,250,0,54,56,0,421,0.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+seahorse-nautilus,0,171,250,0,54,56,0,421,0.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+shadow-utils,28,737,4080,7,115,567,31,4845,0.5779153766769866,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+shared-mime-info,1696,0,570,658,0,213,1806,2266,74.84554280670785,Albanian (http://app.transifex.com/freedesktop/shared-mime-info/language/sq/)
+shutter,51,0,2397,29,0,472,60,2448,2.083333333333333,Albanian <sq@li.org>
+simple-scan,506,0,83,136,0,9,616,589,85.90831918505943,Albanian <sq@li.org>
+skanlite,69,38,79,26,11,26,81,186,37.096774193548384,Albanian <sq@li.org>
+slick-greeter,211,0,5,47,0,2,239,216,97.68518518518519,Albanian <sq@li.org>
+snapd,22,0,4285,4,0,477,24,4307,0.5107963779893196,Albanian <sq@li.org>
+sos,0,0,123,0,0,30,0,123,0.0,none
+sound-juicer,852,0,0,149,0,0,987,852,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+soundconverter,213,0,297,89,0,40,259,510,41.76470588235294,Albanian <sq@li.org>
+startdde,24,0,0,6,0,0,28,24,100.0,Albanian (https://www.transifex.com/linuxdeepin/teams/3617/sq/)
+stellarium,10140,0,150590,4104,0,34578,10778,160730,6.308716481055186,Albanian (https://app.transifex.com/stellarium/teams/80998/sq/)
+step,77,88,1732,46,47,583,92,1897,4.059040590405904,Albanian <sq@li.org>
+sudo,166,0,1370,40,0,196,204,1536,10.807291666666668,Albanian <translation-team-sq@lists.sourceforge.net>
+sugar,2294,0,11,526,0,3,2516,2305,99.52277657266812,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,31,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,371,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,550,0,316,125,0,44,590,866,63.51039260969977,LANGUAGE <LL@li.org>
+sugar-chat,120,0,17,68,0,13,137,137,87.59124087591242,LANGUAGE <LL@li.org>
+sugar-clock,59,0,7,20,0,1,64,66,89.39393939393939,LANGUAGE <LL@li.org>
+sugar-colordeducto,109,0,0,23,0,0,115,109,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,107,0,0,23,0,0,114,107,100.0,LANGUAGE <LL@li.org>
+sugar-dimensions,172,0,4,85,0,2,178,176,97.72727272727273,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,113,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,272,258,100.0,LANGUAGE <LL@li.org>
+sugar-flipsticks,149,0,2,44,0,1,178,151,98.67549668874173,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,73,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,83,77,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,100,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,11,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,163,142,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,51,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,282,0,0,68,0,0,310,282,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,150,137,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,71,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,237,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,71,0,0,17,0,0,66,71,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,125,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,213,0,0,123,0,0,232,213,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,125,20,1314,86,11,338,131,1459,8.567511994516792,LANGUAGE <LL@li.org>
+sugar-view-slides,60,0,0,23,0,0,71,60,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,143,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,29,29,100.0,LANGUAGE <LL@li.org>
+sugar-yupana,28,0,2,15,0,1,31,30,93.33333333333333,LANGUAGE <LL@li.org>
+supertux,840,0,2026,272,0,623,957,2866,29.309141660851363,Albanian (http://www.transifex.com/arctic-games/supertux/language/sq/)
+supertuxkart,89,0,5870,31,0,1079,110,5959,1.4935391844269172,Albanian (http://www.transifex.com/supertuxkart/supertuxkart/language/sq/)
+svgpart,3,0,0,2,0,0,3,3,100.0,Albanian <sq@li.org>
+sweeper,31,3,194,18,1,31,45,228,13.596491228070176,Albanian <sq@li.org>
+swell-foop,22,83,161,16,20,19,28,266,8.270676691729323,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+switchdesk,0,0,122,0,0,19,0,122,0.0,none
+system-config-language,197,17,1,29,1,1,251,215,91.62790697674419,Albanian
+system-switch-mail,0,0,101,0,0,17,0,101,0.0,none
+tali,230,70,121,57,22,18,234,421,54.63182897862233,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+taxi,11,0,51,6,0,9,12,62,17.741935483870968,LANGUAGE <LL@li.org>
+terminator,21,0,1501,7,0,408,21,1522,1.3797634691195795,Albanian (https://www.transifex.com/terminator/teams/109338/sq/)
+thonny,1885,0,25,438,0,3,2172,1910,98.69109947643979,
+thunar-archive-plugin,88,0,0,15,0,0,92,88,100.0,Albanian (http://www.transifex.com/xfce/thunar-plugins/language/sq/)
+thunar-media-tags-plugin,158,0,0,60,0,0,176,158,100.0,Albanian (http://www.transifex.com/xfce/thunar-plugins/language/sq/)
+thunar-volman,484,0,0,115,0,0,506,484,100.0,Albanian (http://www.transifex.com/xfce/thunar-volman/language/sq/)
+tokodon,3192,0,20,968,0,8,3640,3212,99.37733499377335,Albanian <kde-i18n-sq@kde.org>
+tomboy,899,0,0,137,0,0,1069,899,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+transmission,929,0,1512,317,0,268,1170,2441,38.05817287996723,Albanian (https://app.transifex.com/transmissionbt/teams/33778/sq/)
+vinagre,730,0,0,126,0,0,791,730,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+vlc,3006,35,31738,957,11,5317,3148,34779,8.643146726472871,Albanian (https://app.transifex.com/yaron/teams/16553/sq/)
+vte,116,0,0,20,0,0,167,116,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+vte291,116,0,0,20,0,0,167,116,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+wingpanel,6,0,51,1,0,9,8,57,10.526315789473683,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,2,0,78,2,0,28,2,80,2.5,Albanian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/sq/>
+wingpanel-indicator-datetime,4,0,99,1,0,24,5,103,3.8834951456310676,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,LANGUAGE <LL@li.org>
+wxGTK,7692,0,145,1909,0,56,8554,7837,98.14980222023733,<wx-translators@wxwidgets.org>
+xarchiver,670,446,201,204,70,38,704,1317,50.87319665907365,Albanian <translation-team-sq@lists.sourceforge.net>
+xdg-user-dirs,26,2,0,26,2,0,32,28,92.85714285714286,Albanian <translation-team-sq@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,100,81,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+xed,2645,0,1130,675,0,253,2995,3775,70.06622516556291,Albanian (http://www.transifex.com/projects/p/MATE/language/sq/)
+xfburn,1556,0,10,320,0,4,1705,1566,99.36143039591315,Albanian (http://www.transifex.com/xfce/xfce-apps/language/sq/)
+xfce4-appfinder,455,0,0,89,0,0,511,455,100.0,Albanian (http://www.transifex.com/xfce/xfce4-appfinder/language/sq/)
+xfce4-battery-plugin,145,0,0,42,0,0,177,145,100.0,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-calculator-plugin,38,0,1,15,0,1,41,39,97.43589743589743,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+xfce4-clipman-plugin,446,0,121,88,0,9,500,567,78.65961199294532,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-cpufreq-plugin,174,0,0,48,0,0,189,174,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-cpugraph-plugin,179,0,9,60,0,4,193,188,95.2127659574468,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-datetime-plugin,50,0,2,17,0,2,51,52,96.15384615384616,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-dict,531,0,0,121,0,0,571,531,100.0,Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,207,181,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-docklike-plugin,152,0,1,42,0,1,169,153,99.34640522875817,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+xfce4-eyes-plugin,16,0,0,5,0,0,18,16,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,84,71,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-genmon-plugin,116,0,0,29,0,0,131,116,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-mailwatch-plugin,678,0,0,123,0,0,796,678,100.0,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-mount-plugin,380,0,0,56,0,0,400,380,100.0,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-mpc-plugin,98,0,1,34,0,1,109,99,98.98989898989899,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-netload-plugin,106,0,0,39,0,0,113,106,100.0,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-notes-plugin,173,0,0,65,0,0,180,173,100.0,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-notifyd,552,0,8,133,0,2,607,560,98.57142857142858,Albanian (http://www.transifex.com/xfce/xfce-apps/language/sq/)
+xfce4-panel,1951,0,3,488,0,1,2077,1954,99.84646878198568,Albanian (https://www.transifex.com/xfce/teams/16840/sq/)
+xfce4-panel-profiles,145,0,0,34,0,0,155,145,100.0,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+xfce4-places-plugin,162,0,0,47,0,0,174,162,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-power-manager,1029,0,0,212,0,0,1152,1029,100.0,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+xfce4-pulseaudio-plugin,194,0,1,45,0,1,203,195,99.48717948717949,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-screensaver,757,0,0,167,0,0,798,757,100.0,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+xfce4-screenshooter,569,0,4,88,0,1,601,573,99.30191972076788,Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/)
+xfce4-sensors-plugin,433,0,0,87,0,0,491,433,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-session,772,0,9,165,0,2,838,781,98.84763124199743,Albanian (https://app.transifex.com/xfce/teams/16840/sq/)
+xfce4-settings,2456,0,20,572,0,8,2661,2476,99.19224555735056,Albanian (https://www.transifex.com/xfce/teams/16840/sq/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,29,22,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,147,129,100.0,Albanian (https://www.transifex.com/xfce/teams/16840/sq/)
+xfce4-systemload-plugin,87,0,0,23,0,0,97,87,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-taskmanager,227,0,2,73,0,1,239,229,99.12663755458514,Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/)
+xfce4-terminal,1522,0,94,381,0,19,1757,1616,94.18316831683168,Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/)
+xfce4-time-out-plugin,115,0,0,39,0,0,126,115,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-timer-plugin,138,0,0,49,0,0,142,138,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-verve-plugin,88,0,0,27,0,0,92,88,100.0,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-wavelan-plugin,80,0,0,22,0,0,88,80,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-weather-plugin,3548,0,50,314,0,7,3816,3598,98.61033907726515,Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfce4-xkb-plugin,65,0,0,24,0,0,70,65,100.0,Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/)
+xfconf,458,0,0,67,0,0,493,458,100.0,Albanian (http://app.transifex.com/xfce/xfconf/language/sq/)
+xfdashboard,1106,0,0,157,0,0,1300,1106,100.0,Albanian (https://www.transifex.com/xfce/teams/16840/sq/)
+xfdesktop,1081,0,0,257,0,0,1135,1081,100.0,Albanian (https://www.transifex.com/xfce/teams/16840/sq/)
+xfmpc,175,0,0,78,0,0,194,175,100.0,Albanian (http://www.transifex.com/xfce/xfce-apps/language/sq/)
+xfwm4,661,0,9,178,0,1,750,670,98.65671641791045,Albanian (http://www.transifex.com/xfce/xfwm4/language/sq/)
+xkeyboard-config,3947,0,117,1252,0,13,4301,4064,97.12106299212599,Albanian <translation-team-sq@lists.sourceforge.net>
+xreader,860,0,765,248,0,132,950,1625,52.92307692307693,Albanian (http://www.transifex.com/mate/MATE/language/sq/)
+yelp,1035,0,0,349,0,0,1130,1035,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+yelp-xsl,238,0,0,92,0,0,242,238,100.0,albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>
+zenity,582,0,0,135,0,0,701,582,100.0,Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net>

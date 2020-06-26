@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,174,0,3162,70,0,654,187,3336,5.215827338129497,Luxembourgish <lb@li.org>
+geany,4521,520,545,971,157,87,4570,5586,80.9344790547798,Letzebuergesch
+gnome-do,473,0,139,119,0,25,484,612,77.2875816993464,Luxembourgish <lb@li.org>
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net

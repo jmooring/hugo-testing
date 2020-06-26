@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gimagereader,0,0,1443,0,0,419,0,1443,0.0,none
+godot,4265,277,2488,1302,91,499,4288,7030,60.66856330014224,Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot/sr_Cyrl/>
+minetest,1615,102,4689,391,30,603,1623,6406,25.21073993131439,Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/>
+mypaint,161,29,5130,66,12,1002,168,5320,3.026315789473684,Serbian (cyrillic) <https://hosted.weblate.org/projects/mypaint/mypaint/sr@cyrillic/>
+publican,1058,66,4319,76,2,538,1029,5443,19.43781003123278,Serbian <trans-sr@lists.fedoraproject.org>
+wine,2192,2804,11448,817,807,2074,2091,16444,13.330090002432499,Serbian (Cyrillic)

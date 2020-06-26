@@ -1,0 +1,346 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4035,0,0,484,0,0,4233,4035,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+PackageKit,0,0,1328,0,0,326,0,1328,0.0,Welsh (http://www.transifex.com/projects/p/freedesktop/language/cy/)
+aisleriot,1575,304,108,425,91,33,1559,1987,79.26522395571213,Cymraeg <gnome-cy@www.linux.org.uk>
+alacarte,42,0,0,16,0,0,45,42,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+alexandria,555,243,383,143,62,101,574,1181,46.994072819644366,Welsh <cy@pengwyn.linux.org.uk>
+anaconda,66,0,7745,14,0,1271,67,7811,0.8449622327486879,Welsh (http://www.transifex.com/projects/p/anaconda/language/cy/)
+asunder,12,0,480,11,0,80,12,492,2.4390243902439024,http://littlesvr.ca/ostd/
+atril,691,0,3151,267,0,372,718,3842,17.985424258198854,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+audacity,1042,3417,12408,340,1112,2442,1082,16867,6.1777435228552795,Audacity Cymru <f00@hushmail.com>
+authconfig,300,16,613,48,2,87,322,929,32.29278794402583,Welsh (http://www.transifex.com/projects/p/fedora/language/cy/)
+blivet-gui,0,0,925,0,0,242,0,925,0.0,Welsh
+blueberry,144,0,4,36,0,1,196,148,97.2972972972973,Welsh <cy@li.org>
+blueman,328,0,1007,148,0,187,415,1335,24.56928838951311,Welsh (http://www.transifex.com/mate/MATE/language/cy/)
+cairo-dock,76,0,7388,62,0,765,89,7464,1.0182207931404073,Welsh <cy@li.org>
+caja,1132,0,8391,451,0,1117,1144,9523,11.88701039588365,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+caja-extensions,19,0,565,13,0,122,21,584,3.2534246575342465,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+calibre,878,0,158124,296,0,17952,861,159002,0.5521943120212324,Welsh (http://www.transifex.com/calibre/calibre/language/cy/)
+calligra,12226,8891,8823,2828,2160,1015,13523,29940,40.83500334001336,Cymraeg <cy@li.org>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Welsh (http://www.transifex.com/projects/p/certmonger/language/cy/)
+cinnamon-control-center,539,70,704,539,51,166,543,1313,41.05102817974105,Cymraeg <Cy@li.org>
+cinnamon-desktop,3,0,231,1,0,31,3,234,1.282051282051282,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+cinnamon-translations,22871,0,30,5106,0,5,25294,22901,99.86900135365268,Cymraeg
+clementine,2,0,5125,2,0,1359,2,5127,0.03900916715428126,Welsh (http://www.transifex.com/davidsansome/clementine/language/cy/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,984,12,5,174,2,2,1041,1001,98.30169830169831,Welsh <>
+dasher,559,0,0,200,0,0,639,559,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+debconf,191,0,0,17,0,0,206,191,100.0,Welsh <daf@muse.19inch.net>
+deepin-metacity,7924,0,0,517,0,0,8196,7924,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+deepin-mutter,7924,0,0,517,0,0,8196,7924,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+deepin-terminal,96,0,0,18,0,0,105,96,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+deja-dup,48,0,1997,31,0,299,65,2045,2.34718826405868,Welsh <cy@li.org>
+deluge,88,0,2556,63,0,795,89,2644,3.3282904689863844,Welsh <cy@li.org>
+dialog,12,2,11,12,2,9,12,25,48.0,Welsh <cy@pengwyn.linux.org.uk>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Welsh
+dnfdragora,214,0,645,158,0,206,231,859,24.912689173457508,Welsh (https://www.transifex.com/MageiaLinux/teams/9361/cy/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Welsh
+ekiga,5171,0,0,775,0,0,5396,5171,100.0,Cymraeg <gnome-cy@www.linux.org.uk>
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,LANGUAGE <LL@li.org>
+elementary-files,236,33,2383,67,16,448,329,2652,8.89894419306184,Welsh <https://l10n.elementary.io/projects/files/files/cy/>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,135,12,295,34,3,53,156,442,30.542986425339368,Welsh <https://l10n.elementary.io/projects/terminal/terminal/cy/>
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+engrampa,856,0,6940,233,0,610,838,7796,10.979989738327347,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+entangle,0,0,953,0,0,229,0,953,0.0,Welsh
+eog,706,0,0,187,0,0,807,706,100.0,Cymraeg <gnome-cy@lists.linux.org.uk>
+eom,368,0,1412,138,0,204,423,1780,20.674157303370784,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+epiphany,3788,0,0,844,0,0,4130,3788,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+evince,730,0,0,218,0,0,767,730,100.0,Cymraeg <gnome-cy@lists.linux.org.uk>
+evolution,15864,3720,2914,3919,540,256,17116,22498,70.51293448306517,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+evolution-data-server,4906,0,0,1018,0,0,5441,4906,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+exaile,0,0,4068,0,0,1074,0,4068,0.0,Welsh <cy@li.org>
+file-roller,957,0,0,242,0,0,941,957,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+filezilla,8964,0,0,1572,0,0,9694,8964,100.0,Cymraeg <cymrodor@gmail.com>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Welsh
+fprintd,0,0,419,0,0,57,0,419,0.0,Welsh (http://www.transifex.com/freedesktop/fprintd/language/cy/)
+fragments,151,0,1855,71,0,455,170,2006,7.5274177467597205,Welsh (https://www.transifex.com/transmissionbt/teams/33778/cy/)
+gala,0,0,140,0,0,34,0,140,0.0,none
+gambas3,527,355,5406,237,110,1522,553,6288,8.381043256997456,Cymraeg <cy@li.org>
+garcon,122,0,0,36,0,0,122,122,100.0,Welsh (http://www.transifex.com/xfce/garcon/language/cy/)
+gconf-editor,336,0,0,98,0,0,335,336,100.0,gnome-cy <gnome-cy@pengwyn.linux.org.uk>
+gcr,0,9,613,0,5,222,0,622,0.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+gdk-pixbuf2,1162,135,51,175,22,5,1357,1348,86.20178041543026,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gedit,3827,747,388,953,100,50,4389,4962,77.1261588069327,Cymraeg <gnome-cy-list@gnome.org>
+gedit-plugins,701,261,243,332,79,58,818,1205,58.17427385892117,Cymraeg <gnome-cy-list@gnome.org>
+ggz-base-libs,72,0,0,16,0,0,81,72,100.0,Cymraeg <gnome-cy@www.linux.org.uk>
+ggz-gtk-client,855,0,0,266,0,0,937,855,100.0,Cymraeg <gnome-cy@www.linux.org.uk>
+glib2,1620,503,2654,270,101,376,1788,4777,33.912497383294955,Welsh <gnome-cy@pengwyn.linux.org.uk>
+gnome-calculator,895,0,0,349,0,0,977,895,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+gnome-control-center,4030,70,704,1302,51,166,4246,4804,83.88842631140716,Cymraeg <Cy@li.org>
+gnome-desktop,323,0,0,73,0,0,336,323,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gnome-desktop3,323,0,0,73,0,0,336,323,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gnome-dictionary,673,135,25,141,33,9,722,833,80.79231692677071,Cymraeg <gnome-cy@lists.linux.org.uk>
+gnome-do,33,0,579,22,0,122,36,612,5.392156862745098,Welsh <cy@li.org>
+gnome-doc-utils,213,0,0,80,0,0,214,213,100.0,Welsh <gnome-cy@lists.linux.org.uk>
+gnome-icon-theme,53,0,0,47,0,0,70,53,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+gnome-mime-data,887,0,0,362,0,0,935,887,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gnome-mines,84,114,146,23,35,14,93,344,24.418604651162788,Cymraeg <gnome-cy@www.linux.org.uk>
+gnome-nettool,520,0,0,180,0,0,567,520,100.0,Cymraeg <gnome-cy@lists.linux.org.uk>
+gnome-nibbles,142,106,199,51,36,23,169,447,31.767337807606268,Cymraeg <gnome-cy@www.linux.org.uk>
+gnome-screensaver,1167,0,0,168,0,0,1273,1167,100.0,Welsh <gnome-cy@lists.linux.org.uk>
+gnome-search-tool,1178,76,105,150,14,36,1238,1359,86.68138337012509,Cymraeg <gnome-cy@lists.linux.org.uk>
+gnome-settings-daemon,408,120,506,70,28,73,410,1034,39.458413926499034,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gnome-system-log,229,99,194,49,23,22,244,522,43.86973180076628,Cymraeg <gnome-cy@lists.linux.org.uk>
+gnome-terminal,3183,365,355,339,65,38,3289,3903,81.55265180630285,Cymraeg <gnome-cy@lists.linux.org.uk>
+gnome-themes,104,0,0,36,0,0,106,104,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+gnome-vfs2,1519,0,0,305,0,0,1671,1519,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+granite,0,0,250,0,0,83,0,250,0.0,
+grub-customizer,48,0,1247,35,0,158,50,1295,3.7065637065637063,Welsh <cy@li.org>
+gtk2,11787,1124,793,2408,238,138,12406,13704,86.01138353765324,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gtk3,9637,1335,881,2051,282,154,10025,11853,81.30431114485785,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gtk4,9637,1335,881,2051,282,154,10025,11853,81.30431114485785,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gtkhtml3,927,0,0,417,0,0,971,927,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+gtksourceview2,818,0,0,329,0,0,871,818,100.0,Cymraeg <gnome-cy@www.linux.org.uk>
+gtksourceview3,4,15,303,3,10,93,4,322,1.2422360248447204,Cymraeg <gnome-cy@www.linux.org.uk>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+homebank,2356,5,79,758,1,25,2565,2440,96.55737704918033,Welsh <cy@li.org>
+iagno,35,93,194,17,29,26,44,322,10.869565217391305,Cymraeg <gnome-cy@www.linux.org.uk>
+im-chooser,0,0,254,0,0,58,0,254,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,485,0,0,88,0,485,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Welsh
+initscripts,701,54,217,106,10,32,818,972,72.11934156378601,<XX@li.org>
+iso-codes,1326,5207,9559,686,4162,5517,1193,16092,8.240119313944817,Welsh
+isomaster,26,1,647,21,1,85,25,674,3.857566765578635,http://littlesvr.ca/ostd/
+kaudiocreator,66,28,1042,51,17,205,69,1136,5.809859154929577,cy <LL@li.org>
+kcoloredit,6,58,214,4,12,79,7,278,2.158273381294964,cy <LL@li.org>
+kde-cli-tools,603,695,402,81,38,44,596,1700,35.47058823529412,Cymraeg <cy@li.org>
+kdevelop,5,100,591,3,38,121,6,696,0.7183908045977011,cy <LL@li.org>
+kdiff3,93,65,3217,47,34,500,99,3375,2.7555555555555555,cy <LL@li.org>
+kdump-anaconda-addon,0,0,83,0,0,12,0,83,0.0,LANGUAGE <LL@li.org>
+kexi,335,3701,3275,164,896,417,371,7311,4.58213650663384,Cymraeg <cy@li.org>
+kf5-kauth,0,4,69,0,1,7,0,73,0.0,Cymraeg
+kf5-kbookmarks,0,192,38,0,45,4,0,230,0.0,Cymraeg <cy@li.org>
+kf5-kcmutils,23,155,388,6,24,42,20,566,4.063604240282685,Cymraeg
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Cymraeg
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Cymraeg
+kf5-kconfig,0,41,226,0,6,95,0,267,0.0,Cymraeg <cy@li.org>
+kf5-kconfigwidgets,109,156,60,62,46,11,115,325,33.53846153846154,Cymraeg
+kf5-kcoreaddons,0,237,91,0,81,35,0,328,0.0,Cymraeg
+kf5-kdeclarative,9,46,61,3,8,5,10,116,7.758620689655173,Cymraeg
+kf5-kdelibs4support,1141,1547,2125,737,974,653,1166,4813,23.70662788281737,Cymraeg
+kf5-kdesignerplugin,0,43,11,0,5,4,0,54,0.0,Cymraeg
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Cymraeg
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Cymraeg <cy@li.org>
+kf5-kglobalaccel,0,49,22,0,7,2,0,71,0.0,Cymraeg
+kf5-kholidays,0,4,105,0,2,75,0,109,0.0,cy <LL@li.org>
+kf5-khtml,711,532,478,176,97,37,742,1721,41.313190005810576,Cymraeg
+kf5-ki18n,0,95,29,0,85,25,0,124,0.0,Cymraeg
+kf5-kiconthemes,15,15,7,11,5,2,16,37,40.54054054054054,Cymraeg <cy@li.org>
+kf5-kinit,32,31,71,7,4,3,29,134,23.88059701492537,Cymraeg
+kf5-kio,5023,4533,2762,598,538,246,4977,12318,40.77772365643773,Cymraeg <cy@li.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Cymraeg
+kf5-kjobwidgets,0,79,44,0,29,7,0,123,0.0,Cymraeg
+kf5-kjsembed,0,88,160,0,19,25,0,248,0.0,Cymraeg
+kf5-knewstuff,18,308,635,15,124,69,17,961,1.8730489073881373,Cymraeg
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Cymraeg
+kf5-knotifyconfig,0,29,100,0,11,6,0,129,0.0,Cymraeg
+kf5-kparts,44,51,9,13,12,1,42,104,42.30769230769231,Cymraeg
+kf5-kpty,0,11,4,0,3,1,0,15,0.0,Cymraeg
+kf5-kross,9,58,33,7,20,8,11,100,9.0,Cymraeg
+kf5-kservice,17,78,72,4,13,10,16,167,10.179640718562874,Cymraeg
+kf5-ktexteditor,331,1001,7392,108,352,803,321,8724,3.794131132508024,Cymraeg <cy@li.org>
+kf5-ktextwidgets,303,57,102,66,35,21,323,462,65.5844155844156,Cymraeg
+kf5-kwidgetsaddons,0,1053,267,0,369,88,0,1320,0.0,Cymraeg
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Cymraeg
+kf5-kxmlgui,248,992,306,54,141,26,237,1546,16.041397153945667,Cymraeg
+kf5-sonnet,0,614,53,0,56,17,0,667,0.0,Cymraeg
+kf5-syntax-highlighting,0,120,416,0,74,255,0,536,0.0,Cymraeg <cy@li.org>
+kgamma,12,0,118,8,0,8,10,130,9.230769230769232,cy <LL@li.org>
+khotkeys,43,120,275,26,70,33,47,438,9.817351598173515,Cymraeg <cy@li.org>
+kiconedit,76,2,648,47,2,106,73,726,10.46831955922865,cy <LL@li.org>
+kinfocenter,725,373,105,213,34,54,770,1203,60.26600166251039,Cymraeg <cy@li.org>
+kio_gopher,7,1,9,2,1,2,7,17,41.17647058823529,cy <LL@li.org>
+kjots,23,17,359,13,10,83,25,399,5.764411027568922,cy <LL@li.org>
+kmenuedit,146,14,117,28,4,29,147,277,52.707581227436826,Cymraeg <cy@li.org>
+koffice-kivio,5497,785,2135,1867,239,255,5565,8417,65.30830462159915,Cymraeg <cy@li.org>
+kpilot,123,254,6779,74,108,679,131,7156,1.718837339295696,cy <LL@li.org>
+kreport,0,305,165,0,164,49,0,470,0.0,Cymraeg <cy@li.org>
+krita,386,11551,14825,254,4772,1441,390,26762,1.4423436215529484,Cymraeg <cy@li.org>
+ksig,71,2,12,17,1,8,66,85,83.52941176470588,Cymraeg <cy@li.org>
+kstars,936,15281,43579,605,7218,8544,953,59796,1.56532209512342,Cymraeg <cy@li.org>
+ksysguard,526,332,235,110,67,60,502,1093,48.12442817932296,Cymraeg <cy@li.org>
+kwin,932,1321,2039,190,180,352,939,4292,21.714818266542405,Cymraeg <cy@li.org>
+libbonobo,543,0,0,107,0,0,589,543,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+libbonoboui,368,0,0,115,0,0,409,368,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Welsh
+libcryptui,7,0,2956,7,0,624,7,2963,0.23624704691191362,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+libfilezilla,304,0,0,64,0,0,356,304,100.0,Cymraeg <cymrodor@gmail.com>
+libgnome,1772,0,0,273,0,0,1870,1772,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+libgnomecanvas,378,0,0,95,0,0,419,378,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+libgnomeui,1226,0,0,320,0,0,1268,1226,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+libgweather,10384,0,0,6784,0,0,10941,10384,100.0,Cymraeg <gnome-cy@lists.linux.org.uk>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,38,0,213,14,0,29,36,251,15.139442231075698,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+libmatemixer,7,0,235,7,0,119,8,242,2.8925619834710745,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+libmateweather,10405,0,13,6785,0,1,10961,10418,99.87521597235553,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+libosinfo,0,0,728,0,0,156,0,728,0.0,Welsh
+libreoffice,99387,0,0,31982,0,0,99749,99387,100.0,LANGUAGE <LL@li.org>
+libuser,904,25,508,197,5,99,1036,1437,62.908837856645796,Welsh (http://www.transifex.com/projects/p/fedora/language/cy/)
+libvirt,0,0,64065,0,0,9877,0,64065,0.0,Welsh (http://www.transifex.com/projects/p/fedora/language/cy/)
+libvirt-glib,0,0,153,0,0,30,0,153,0.0,Welsh (http://www.transifex.com/projects/p/libvirt-glib/language/cy/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Welsh (http://www.transifex.com/projects/p/fedora/language/cy/)
+libwnck,88,0,0,33,0,0,104,88,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+libwnck3,88,0,0,33,0,0,104,88,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+libxfce4ui,752,0,160,168,0,9,761,912,82.45614035087719,Welsh (http://www.transifex.com/xfce/libxfce4ui/language/cy/)
+libxfce4util,424,0,0,7,0,0,423,424,100.0,Welsh (http://www.transifex.com/xfce/libxfce4util/language/cy/)
+libzypp,77,496,1785,72,335,537,88,2358,3.265479219677693,Welsh <i18n@suse.de>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Welsh (http://www.transifex.com/the_cavalry/light-locker/language/cy/)
+lightdm,0,0,84,0,0,4,0,84,0.0,Welsh <cy@li.org>
+lightdm-settings,305,0,0,62,0,0,312,305,100.0,Welsh <cy@li.org>
+lxmenu-data,59,12,26,24,4,9,61,97,60.824742268041234,Welsh <cy@pengwyn.linux.org.uk>
+marco,2852,0,1366,359,0,63,3120,4218,67.61498340445709,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-applets,1690,0,14137,419,0,1177,1893,15827,10.677955392683389,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-backgrounds,30,0,21,21,0,7,38,51,58.82352941176471,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-calc,75,0,3103,64,0,655,88,3178,2.3599748269351792,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-control-center,1260,0,7273,718,0,754,1322,8533,14.766201804757998,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-desktop,1335,0,1021,209,0,96,1408,2356,56.66383701188455,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-media,58,0,180,40,0,60,68,238,24.369747899159663,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-menus,97,0,0,37,0,0,102,97,100.0,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-notification-daemon,10,0,129,6,0,31,11,139,7.194244604316546,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-panel,3200,0,3468,490,0,298,3367,6668,47.990401919616076,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-polkit,3,0,119,2,0,18,3,122,2.459016393442623,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-power-manager,1364,0,3830,277,0,304,1459,5194,26.26107046592222,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-screensaver,469,0,527,83,0,75,523,996,47.08835341365462,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-sensors-applet,17,0,2150,17,0,210,29,2167,0.7844946931241348,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-session-manager,229,0,476,74,0,53,255,705,32.4822695035461,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-settings-daemon,241,0,1599,48,0,226,245,1840,13.097826086956522,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-system-monitor,407,0,4072,161,0,454,436,4479,9.08684974324626,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-terminal,3104,0,5309,388,0,405,3215,8413,36.895281112563886,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-themes,9,0,61,3,0,18,9,70,12.857142857142856,Welsh (http://www.transifex.com/mate/MATE/language/cy/)
+mate-user-admin,12,0,558,11,0,118,12,570,2.1052631578947367,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-user-guide,106,0,43082,68,0,3169,120,43188,0.2454385477447439,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+mate-utils,2435,0,7773,476,0,625,2464,10208,23.85384012539185,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+metacity,7924,0,0,517,0,0,8196,7924,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+midori,11,0,3530,6,0,790,24,3541,0.31064670996893534,Welsh <cy@li.org>
+mingw-GConf2,4035,0,0,484,0,0,4233,4035,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+mingw-atk,375,0,0,126,0,0,382,375,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+mingw-gdk-pixbuf,1162,135,51,175,22,5,1357,1348,86.20178041543026,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+mingw-glib2,1620,503,2654,270,101,376,1788,4777,33.912497383294955,Welsh <gnome-cy@pengwyn.linux.org.uk>
+mingw-gtk2,11787,1124,793,2408,238,138,12406,13704,86.01138353765324,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+mingw-gtk3,9637,1335,881,2051,282,154,10025,11853,81.30431114485785,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+mingw-gtksourceview3,119,369,668,96,209,325,125,1156,10.294117647058822,Cymraeg <gnome-cy@www.linux.org.uk>
+mingw-libosinfo,0,0,728,0,0,156,0,728,0.0,Welsh
+mingw-libvirt,0,0,63828,0,0,9849,0,63828,0.0,Welsh (http://www.transifex.com/projects/p/fedora/language/cy/)
+mingw-libvirt-glib,0,0,153,0,0,30,0,153,0.0,Welsh (http://www.transifex.com/projects/p/libvirt-glib/language/cy/)
+mingw-osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Welsh
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Welsh (http://www.transifex.com/freedesktop/p11-kit/language/cy/)
+mozo,42,0,0,16,0,0,43,42,100.0,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+muffin,7924,0,0,517,0,0,8196,7924,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+mutter,7924,0,0,517,0,0,8196,7924,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+mutter328,7924,0,0,517,0,0,8196,7924,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+nautilus,7004,1,0,1162,1,0,7511,7005,99.9857244825125,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+nemo-extensions,8,0,0,2,0,0,7,8,100.0,Welsh <cy@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Welsh <cy@pengwyn.linux.org.uk>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,5,0,12,3,0,6,6,17,29.411764705882355,cy <LL@li.org>
+onboard,3,0,2315,3,0,507,3,2318,0.12942191544434856,Welsh <cy@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Welsh
+p11-kit,0,0,476,0,0,81,0,476,0.0,Welsh (http://www.transifex.com/freedesktop/p11-kit/language/cy/)
+pam,0,0,597,0,0,120,0,597,0.0,Welsh (http://www.transifex.com/projects/p/fedora/language/cy/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+passwd,0,0,336,0,0,57,0,336,0.0,LANGUAGE <LL@li.org>
+pastebinit,0,0,195,0,0,29,0,195,0.0,Welsh <cy@li.org>
+php-phpmyadmin-sql-parser,0,66,161,0,15,29,0,227,0.0,Welsh <https://hosted.weblate.org/projects/phpmyadmin/master/cy/>
+php-phpmyadmin-sql-parser5,0,83,185,0,17,33,0,268,0.0,Welsh <https://hosted.weblate.org/projects/phpmyadmin/master/cy/>
+picard,329,0,4130,211,0,1239,347,4459,7.378335949764521,Welsh (http://www.transifex.com/musicbrainz/musicbrainz/language/cy/)
+plasma-desktop,1798,2637,3676,278,393,803,1823,8111,22.16742695105412,Cymraeg <cy@li.org>
+plasma-drkonqi,8,101,3906,3,23,351,8,4015,0.199252801992528,Cymraeg <cy@li.org>
+plasma-oxygen,0,6,615,0,2,219,0,621,0.0,cy <LL@li.org>
+plasma-workspace,158,250,407,32,57,55,155,815,19.38650306748466,Cymraeg <cy@li.org>
+pluma,3026,0,9660,903,0,874,3245,12686,23.853066372379,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+policycoreutils,14,0,4479,14,0,684,15,4493,0.31159581571333184,Welsh
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,0,0,1605,0,0,179,0,1605,0.0,Welsh
+pyroom,21,0,390,7,0,67,24,411,5.109489051094891,Welsh <cy@li.org>
+python-blivet,37,0,487,3,0,72,32,524,7.061068702290077,Welsh (http://www.transifex.com/projects/p/blivet/language/cy/)
+python-caja,6,0,0,2,0,0,5,6,100.0,Welsh (https://www.transifex.com/mate/teams/13566/cy/)
+python-django,2737,0,751,671,0,131,3209,3488,78.4690366972477,Welsh (http://www.transifex.com/django/django/language/cy/)
+python-django-formtools,15,0,17,5,0,6,18,32,46.875,Welsh (http://www.transifex.com/projects/p/django-formtools/language/cy/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Welsh
+python-meh,0,0,109,0,0,23,0,109,0.0,Welsh
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Welsh
+python-sphinx,337,0,4223,115,0,588,367,4560,7.390350877192982,Welsh (http://www.transifex.com/sphinx-doc/sphinx-1/language/cy/)
+python-wtforms,183,0,5,34,0,1,202,188,97.3404255319149,cy <LL@li.org>
+python2-django1.11,2777,0,667,676,0,121,3251,3444,80.63298490127758,Welsh (http://www.transifex.com/django/django/language/cy/)
+realmd,0,0,789,0,0,127,0,789,0.0,Welsh (http://www.transifex.com/freedesktop/realmd/language/cy/)
+redhat-menus,261,0,0,86,0,0,263,261,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+rednotebook,76,0,1071,27,0,213,95,1147,6.6259808195292065,Welsh <cy@li.org>
+rhythmbox,1249,4,0,328,1,0,1334,1253,99.68076616121309,Welsh <gnome-cy@pengwyn.linux.org.uk>
+seahorse,7,0,2956,7,0,624,7,2963,0.23624704691191362,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Welsh (http://www.transifex.com/projects/p/fedora/language/cy/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Welsh (http://www.transifex.com/projects/p/fedora/language/cy/)
+setuptool,47,8,0,13,1,0,47,55,85.45454545454545,Cymraeg <Cy@li.org>
+shared-mime-info,344,0,1647,145,0,628,357,1991,17.27774987443496,Welsh (http://www.transifex.com/freedesktop/shared-mime-info/language/cy/)
+shutter,267,0,2826,60,0,546,299,3093,8.63239573229874,Welsh <cy@li.org>
+slick-greeter,211,0,0,47,0,0,200,211,100.0,Welsh <cy@li.org>
+snapd,0,0,4307,0,0,481,0,4307,0.0,Welsh <cy@li.org>
+sos,0,0,122,0,0,30,0,122,0.0,none
+sound-juicer,695,0,0,141,0,0,765,695,100.0,Welsh <gnome-cy@lists.linux.org.uk>
+squirrelmail,2653,1741,2484,755,310,286,2999,6878,38.572259377726084,Welsh Cymraeg <squirrelmail-i18n@lists.sourceforge.net>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+switchdesk,17,85,20,4,9,6,20,122,13.934426229508196,Cymraeg <Cy@li.org>
+system-config-bind,18,436,8965,8,125,931,17,9419,0.19110308949994692,Cymraeg <Cy@li.org>
+system-config-firewall,59,582,2173,15,70,246,72,2814,2.0966595593461266,Cymraeg <cy@li.org>
+system-config-httpd,816,42,0,204,19,0,832,858,95.1048951048951,Cymraeg <Cy@li.org>
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,169,18,0,71,10,0,173,187,90.37433155080214,Cymraeg <Cy@li.org>
+system-config-printer,12,0,3438,12,0,887,12,3450,0.34782608695652173,Welsh (http://www.transifex.com/projects/p/system-config-printer/language/cy/)
+system-config-rootpassword,15,26,75,3,5,11,16,116,12.931034482758621,Cymraeg <Cy@li.org>
+system-config-users,531,0,990,102,0,78,549,1521,34.9112426035503,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Cymraeg <Cy@li.org>
+tali,276,51,94,68,20,9,294,421,65.55819477434679,Cymraeg <gnome-cy@www.linux.org.uk>
+tuxpaint,302,940,349,89,104,98,306,1591,18.981772470144563,none
+tuxpaint-stamps,676,1066,1529,161,388,264,601,3271,20.666462855395903,Cymraeg <cy@li.org>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+usermode,521,0,52,83,0,13,510,573,90.92495636998254,LANGUAGE <LL@li.org>
+vino,544,0,0,72,0,0,584,544,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+vocal,0,0,377,0,0,79,0,377,0.0,Welsh <cy@li.org>
+vte,96,0,0,18,0,0,105,96,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+vte291,96,0,0,18,0,0,105,96,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+wicd,18,0,1120,5,0,249,18,1138,1.5817223198594026,Welsh <cy@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+xapps,69,0,0,34,0,0,72,69,100.0,Welsh <cy@li.org>
+xed,4625,0,0,998,0,0,5312,4625,100.0,Welsh (http://www.transifex.com/projects/p/MATE/language/cy/)
+xfce4-hardware-monitor-plugin,393,0,0,137,0,0,404,393,100.0,Cymraeg <gnome-cy@pengwyn.linux.org.uk>
+xfce4-whiskermenu-plugin,246,12,128,91,4,28,244,386,63.730569948186535,Welsh (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/cy/)
+xiphos,2059,693,2083,664,201,260,2124,4835,42.585315408479836,Gnomesword-developers <gnomesword-developers@lists>
+xmms,3177,65,201,1003,17,25,3139,3443,92.27417949462678,Cymraeg/Welsh <rhoslyn.prys@meddal.org.uk>
+xreader,288,0,1381,115,0,266,296,1669,17.25584182144997,Welsh (http://www.transifex.com/mate/MATE/language/cy/)
+yelp,956,0,0,238,0,0,964,956,100.0,Welsh <gnome-cy@pengwyn.linux.org.uk>
+zypper,7,430,8792,7,94,1147,7,9229,0.07584787084191137,Welsh <i18n@suse.de>

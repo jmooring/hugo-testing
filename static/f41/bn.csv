@@ -1,0 +1,506 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4024,0,0,485,0,0,4139,4024,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+R,179,12,5036,33,1,838,166,5227,3.424526497034628,none
+Thunar,3178,0,2242,564,0,410,3213,5420,58.634686346863475,Bengali (https://www.transifex.com/xfce/teams/16840/bn/)
+abrt,1442,758,1476,174,73,170,1572,3676,39.22742110990207,Bengali <https://translate.fedoraproject.org/projects/abrt/abrt/bn/>
+accerciser,535,0,0,205,0,0,629,535,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+aisleriot,1973,0,14,545,0,4,2071,1987,99.29542023150478,Bangla <ankur-bd-l10n@googlegroups.com>
+alacarte,42,0,0,16,0,0,53,42,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+anaconda,1431,512,6323,160,67,1135,1448,8266,17.3118799903218,Bengali <https://translate.fedoraproject.org/projects/anaconda/master/bn/>
+anaconda-webui,2,213,972,2,53,187,4,1187,0.16849199663016007,Bengali <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/bn/>
+android-tools,43,4,5981,41,2,923,59,6028,0.7133377571333777,Bengali
+appstream,163,2,6920,126,2,650,178,7085,2.3006351446718423,Bengali <https://hosted.weblate.org/projects/appstream/translations/bn/>
+aria2,15,0,7481,3,0,397,18,7496,0.20010672358591247,Bengali <bn@li.org>
+asunder,14,0,479,13,0,79,15,493,2.839756592292089,http://littlesvr.ca/ostd/
+at-spi2-core,375,0,0,126,0,0,346,375,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+atomix,146,0,0,59,0,0,193,146,100.0,Bangla <gnome-translation@BengaLinux.Org>
+atril,1139,8,3217,334,2,398,1295,4364,26.099908340971584,Bengali (https://www.transifex.com/mate/teams/13566/bn/)
+audacity,67,1923,17259,55,770,3574,81,19249,0.3480700296119279,Bangladeshi <makl10n@yahoo.com>
+audiocd-kio,27,6,145,4,1,9,28,178,15.168539325842698,Bengali <kde-translation@bengalinux.org>
+baobab,526,10,4,122,2,2,596,540,97.4074074074074,Bengali <ankur-bd-l10n@googlegroups.com>
+bleachbit,1830,31,62,352,5,7,2077,1923,95.16380655226209,
+blinken,94,20,20,28,12,7,99,134,70.1492537313433,Bangla <kde-translation@BengaLinux.Org>
+bookworm,75,11,709,18,2,129,77,795,9.433962264150944,Bengali <https://hosted.weblate.org/projects/bookworm/bookworm/bn/>
+bottles,527,360,2564,115,120,441,570,3451,15.270935960591133,Bengali <https://hosted.weblate.org/projects/bottles/bottles/bn/>
+brasero,5408,0,0,986,0,0,5606,5408,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+budgie-control-center,539,70,704,539,51,166,597,1313,41.05102817974105,Bangla <redhat-translation@bengalinux.org>
+budgie-desktop,843,0,1016,249,0,232,864,1859,45.34696073157611,Bengali (https://app.transifex.com/buddiesofbudgie/teams/129844/bn/)
+budgie-screensaver,291,0,0,58,0,0,281,291,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+budgie-session,446,0,0,92,0,0,500,446,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+cairo-dock,432,0,7032,122,0,705,448,7464,5.787781350482315,Bengali <bn@li.org>
+caja,6959,0,3197,1252,0,344,7287,10156,68.52107128790863,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+caja-actions,135,0,18677,82,0,1434,192,18812,0.7176270465660217,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+caja-extensions,126,0,719,58,0,123,147,845,14.911242603550296,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+calamares,35,0,443,10,0,73,42,478,7.322175732217573,Bengali (https://app.transifex.com/calamares/teams/20061/bn/)
+calibre,5180,0,170685,1574,0,18108,4749,175865,2.945441105393342,Bengali (http://www.transifex.com/calibre/calibre/language/bn/)
+ccsm,487,33,71,132,7,24,543,591,82.40270727580372,gist bengali team <info.gist@cdac.in>
+cheese,651,0,0,120,0,0,671,651,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+chkconfig,451,66,80,85,12,12,460,597,75.54438860971524,Bengali <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bn/>
+cinnamon-desktop,226,5,3,27,3,2,216,234,96.58119658119658,Bengali <ankur-bd-l10n@googlegroups.com>
+cinnamon-translations,4954,0,18823,1348,0,4037,5330,23777,20.835260966480213,Bengali <bn@li.org>
+clementine,458,0,3345,143,0,918,520,3803,12.043123849592426,Bengali (http://app.transifex.com/davidsansome/clementine/language/bn/)
+compiz,2025,1764,596,432,340,107,2114,4385,46.18015963511973,gist bengali team <info.gist@cdac.in>
+compiz-plugins-experimental,41,499,3933,16,159,717,34,4473,0.9166107757657053,gist bengali team <info.gist@cdac.in>
+compiz-plugins-extra,308,222,3243,86,76,588,292,3773,8.16326530612245,gist bengali team <info.gist@cdac.in>
+compiz-plugins-main,165,70,3983,39,28,744,156,4218,3.911806543385491,gist bengali team <info.gist@cdac.in>
+console-setup,908,80,4,174,5,1,819,992,91.53225806451613,Bengali
+cpeditor,0,254,393,0,187,196,0,647,0.0,Bengali <kde-translation@bengalinux.org>
+dasher,614,0,0,210,0,0,748,614,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+debconf,737,65,60,84,6,4,761,862,85.49883990719258,Bengali<ankur-bd-l10n@googlegroups.com>
+deepin-daemon,892,0,343,182,0,74,974,1235,72.22672064777328,Bengali (https://app.transifex.com/linuxdeepin/teams/3617/bn/)
+deja-dup,685,0,938,143,0,142,754,1623,42.205791743684536,Bengali <bn@li.org>
+deluge,50,0,4340,29,0,1312,59,4390,1.1389521640091116,Bengali <bn@li.org>
+devhelp,414,0,0,105,0,0,419,414,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+dialect,781,170,147,606,39,29,790,1098,71.12932604735883,
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+dnf,0,0,4718,0,0,879,0,4718,0.0,none
+dnfdragora,152,0,1619,112,0,362,165,1771,8.582721626199886,Bengali (https://www.transifex.com/MageiaLinux/teams/9361/bn/)
+dolphin,459,1180,4638,175,332,375,487,6277,7.312410387127609,Bengali <kde-translation@bengalinux.org>
+elementary-calculator,69,14,91,32,6,24,80,174,39.6551724137931,Bengali <https://weblate.elementary.io/projects/calculator/calculator/bn/>
+elementary-calendar,28,18,606,18,7,196,24,652,4.294478527607362,Bengali <https://weblate.elementary.io/projects/calendar/calendar/bn/>
+elementary-camera,17,3,121,2,1,33,19,141,12.056737588652481,bn (generated) <https://l10n.elementary.io/projects/camera/camera/bn/>
+elementary-code,123,212,1262,59,65,185,145,1597,7.701941139636818,LANGUAGE <LL@li.org>
+elementary-files,20,9,2577,8,8,545,21,2606,0.7674597083653107,Bengali <https://weblate.elementary.io/projects/files/files/bn/>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,2,9,220,2,5,38,2,231,0.8658008658008658,Bengali <https://weblate.elementary.io/projects/music/music/bn/>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,68,10,2784,30,6,626,87,2862,2.375960866526904,Bengali (http://www.transifex.com/projects/p/shotwell/language/bn/)
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+emerald,652,39,5,215,4,1,734,696,93.67816091954023,Bangla <bn@li.org>
+engrampa,1118,0,6697,259,0,624,1243,7815,14.305822136916188,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+eog,1527,0,0,305,0,0,1615,1527,100.0,Bengali<ankur-bd-l10n@googlegroups.com>
+eom,1219,0,3739,295,0,247,1343,4958,24.586526825332797,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+epiphany,1132,382,1075,352,101,142,1375,2589,43.72344534569332,Bengali <ankur-bd-l10n@googlegroups.com>
+evince,1392,0,0,333,0,0,1523,1392,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+evolution,22130,0,0,4736,0,0,24293,22130,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+evolution-data-server,4910,0,0,997,0,0,5506,4910,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+evolution-mapi,341,0,0,67,0,0,409,341,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+exaile,8,6,4588,7,4,1110,10,4602,0.1738374619730552,Bengali <bn@li.org>
+exo,708,0,30,137,0,8,726,738,95.9349593495935,Bengali (http://www.transifex.com/xfce/exo/language/bn/)
+fcitx-table-other,3,0,21,2,0,20,2,24,12.5,Bengali (http://www.transifex.com/fcitx/fcitx/language/bn/)
+file-roller,1370,0,0,297,0,0,1466,1370,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+five-or-more,159,47,76,47,12,6,205,282,56.38297872340425,Bangla <ankur-bd-l10n@googlegroups.com>
+folder-color-switcher,65,0,0,23,0,0,63,65,100.0,Bengali <bn@li.org>
+four-in-a-row,109,51,96,41,17,15,150,256,42.578125,Bangla <ankur-bd-l10n@googlegroups.com>
+gala,0,0,319,0,0,67,0,319,0.0,none
+gammu,9,33,3975,3,6,1104,9,4017,0.22404779686333084,none
+garcon,99,0,26,31,0,7,97,125,79.2,Bengali (https://www.transifex.com/xfce/teams/16840/bn/)
+gconf-editor,336,0,0,98,0,0,423,336,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gcr,175,184,263,79,64,84,183,622,28.135048231511256,Bengali <ankur-bd-l10n@googlegroups.com>
+gcr3,175,184,263,79,64,84,183,622,28.135048231511256,Bengali <ankur-bd-l10n@googlegroups.com>
+gdk-pixbuf2,1266,82,0,195,7,0,1254,1348,93.91691394658753,Bengali <ankur-bd-l10n@googlegroups.com>
+gdk-pixbuf2-modules-extra,1266,82,0,195,7,0,1254,1348,93.91691394658753,Bengali <ankur-bd-l10n@googlegroups.com>
+gdm,258,57,335,49,12,26,280,650,39.69230769230769,Bengali <ankur-bd-l10n@googlegroups.com>
+gedit,5003,0,0,1107,0,0,5417,5003,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gedit-plugins,831,149,225,371,47,51,876,1205,68.96265560165975,Bengali <ankur-bd-l10n@googlegroups.com>
+gftp,2947,0,108,533,0,15,3156,3055,96.46481178396073,Bangla <gnome-translation@bengalinux.org>
+gimagereader,205,0,1612,39,0,443,201,1817,11.282333516785911,Bengali <https://hosted.weblate.org/projects/gimagereader/translations/bn/>
+gimp,21121,0,2489,5934,0,213,23118,23610,89.4578568403219,Bengali <ankur-bd-l10n@googlegroups.com>
+glade,166,0,2954,100,0,726,191,3120,5.32051282051282,Bengali (India) <en@li.org>
+glib2,2552,301,1924,447,57,243,2699,4777,53.42265019886958,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-abrt,9,0,212,3,0,52,11,221,4.072398190045249,Bengali <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/bn/>
+gnome-applets,3352,0,0,788,0,0,3575,3352,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-bluetooth,318,0,0,92,0,0,322,318,100.0,Bengali
+gnome-bluetooth3.34,662,0,0,192,0,0,719,662,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-calculator,1327,0,0,267,0,0,1384,1327,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-characters,161,0,0,56,0,0,173,161,100.0,Bengali <bn@li.org>
+gnome-chess,125,277,988,40,82,115,143,1390,8.992805755395683,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-control-center,2891,70,704,1281,51,166,3032,3665,78.88130968622102,Bangla <redhat-translation@bengalinux.org>
+gnome-desktop3,235,0,0,31,0,0,225,235,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-dictionary,803,27,3,176,4,3,829,833,96.3985594237695,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-disk-utility,4544,0,0,1075,0,0,4689,4544,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-do,4,0,608,3,0,141,5,612,0.6535947712418301,Bengali <bn@li.org>
+gnome-doc-utils,251,0,0,101,0,0,254,251,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-extensions-app,566,35,363,206,7,26,558,964,58.713692946058096,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-keyring,480,4,6,104,2,3,485,490,97.95918367346938,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-klotski,65,35,94,40,13,6,86,194,33.50515463917525,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-mahjongg,87,45,172,38,13,12,130,304,28.618421052631575,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-menus,95,0,0,37,0,0,94,95,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-mime-data,887,0,0,362,0,0,951,887,100.0,Bengali (bn) <gnome-translation@bengalinux.org>
+gnome-mines,94,104,146,26,32,14,109,344,27.325581395348834,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-nettool,617,0,0,213,0,0,681,617,100.0,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-nibbles,129,121,197,46,43,21,173,447,28.859060402684566,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-packagekit,4694,0,0,791,0,0,4649,4694,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-panel,3270,109,141,459,16,33,3150,3520,92.89772727272727,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-power-manager,379,0,53,140,0,4,391,432,87.73148148148148,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-robots,384,94,119,69,21,7,450,597,64.321608040201,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-screenshot,263,56,0,50,9,0,300,319,82.44514106583071,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-session,446,0,0,92,0,0,500,446,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-settings-daemon,1752,0,0,288,0,0,1844,1752,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-shell,566,35,363,206,7,26,558,964,58.713692946058096,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-shell-frippery,17,0,0,5,0,0,20,17,100.0,
+gnome-software,2332,0,1272,467,0,263,2293,3604,64.70588235294117,Bengali (http://www.transifex.com/endless-os/gnome-software/language/bn/)
+gnome-sudoku,23,120,256,13,38,21,54,399,5.764411027568922,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-system-log,504,0,18,90,0,4,530,522,96.55172413793103,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-system-monitor,933,0,0,244,0,0,1055,933,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-terminal,4225,0,0,497,0,0,4203,4225,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-tetravex,34,81,105,16,14,15,60,220,15.454545454545453,Bangla <ankur-bd-l10n@googlegroups.com>
+gnome-tour,138,0,0,23,0,0,135,138,100.0,Bengali <bn@li.org>
+gnome-user-share,32,0,0,7,0,0,35,32,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-vfs2,1519,0,0,305,0,0,1555,1519,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-video-effects,11,2,13,10,2,11,13,26,42.30769230769231,Bengali <ankur-bd-l10n@googlegroups.com>
+gnome-weather,235,0,0,48,0,0,240,235,100.0,Bengali <bn@li.org>
+godot,7043,0,0,1999,0,0,7801,7043,100.0,Bengali <https://hosted.weblate.org/projects/godot-engine/godot/bn/>
+godot3,4007,8460,10125,1182,3082,1831,4650,22592,17.73636685552408,Bengali <https://hosted.weblate.org/projects/godot-engine/godot/bn/>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+grass,127,48,128792,54,11,19609,134,128967,0.09847480363193685,Bengali <https://weblate.osgeo.org/projects/grass-gis/grasslibs/bn/>
+gtk2,13699,5,0,2783,1,0,13443,13704,99.96351430239346,Bengali <ankur-bd-l10n@googlegroups.com>
+gtk2-engines,119,0,0,47,0,0,131,119,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gtk3,11523,353,111,2443,69,20,11282,11987,96.12913990156002,Bengali <ankur-bd-l10n@googlegroups.com>
+gtk4,2753,498,3,711,172,3,2948,3254,84.60356484326982,Bengali <ankur-bd-l10n@googlegroups.com>
+gtkhtml3,713,0,0,366,0,0,883,713,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gtksourceview2,1413,0,0,538,0,0,1495,1413,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gtksourceview3,103,86,133,26,25,55,110,322,31.987577639751553,Bengali <ankur-bd-l10n@googlegroups.com>
+gtksourceview4,1413,0,0,538,0,0,1495,1413,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gtksourceview5,1413,0,0,538,0,0,1495,1413,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gucharmap,863,0,0,324,0,0,913,863,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gvfs,1936,0,0,458,0,0,2102,1936,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+gwenview,368,211,1496,193,73,190,401,2075,17.734939759036145,American English <kde-translation@bengalinux.org>
+harvey,0,0,216,0,0,38,0,216,0.0,none
+iagno,34,107,181,16,33,23,65,322,10.559006211180124,Bangla <ankur-bd-l10n@googlegroups.com>
+ibus,539,185,1925,114,30,469,569,2649,20.347300868252173,Bengali <https://translate.fedoraproject.org/projects/ibus/ibus/bn/>
+ibus-m17n,57,0,0,24,0,0,62,57,100.0,Bengali <https://translate.fedoraproject.org/projects/ibus-m17n/app/bn/>
+ibus-typing-booster,2151,229,196,241,23,23,2325,2576,83.50155279503106,Bengali <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/bn/>
+imsettings,0,0,500,0,0,92,0,500,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Bengali
+initscripts,720,89,353,107,15,42,788,1162,61.96213425129088,Bengali <info@ankur.org.bd>
+inkscape,19286,23498,59886,4636,7419,9659,20397,102670,18.78445505016071,Bengali <core@bengalinux.org>
+islamic-menus,5,0,0,2,0,0,6,5,100.0,Bengali <bn@li.org>
+iso-codes,4344,5613,6588,2711,4016,3837,4144,16545,26.255666364460563,Bengali <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bn/>
+isomaster,33,1,640,23,1,83,50,674,4.896142433234421,http://littlesvr.ca/ostd/
+json-glib,226,0,0,27,0,0,184,226,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+juk,574,115,746,182,47,109,618,1435,40.0,Bengali <kde-translation@bengalinux.org>
+kaddressbook,56,315,779,31,119,90,57,1150,4.869565217391305,Bengali <kde-translation@bengalinux.org>
+kalzium,802,1597,6694,290,405,602,802,9093,8.819971406576489,Bengali <kde-translation@bengalinux.org>
+kanagram,121,225,181,35,40,69,125,527,22.960151802656547,Bangla <kde-translation@BengaLinux.Org>
+katomic,14,39,131,6,18,35,12,184,7.608695652173914,Bengali <kde-translation@bengalinux.org>
+kblackbox,14,72,1278,4,20,78,9,1364,1.0263929618768328,Bengali <kde-translation@bengalinux.org>
+kbounce,29,61,66,8,14,21,30,156,18.58974358974359,Bangla <kde-translation@BengaLinux.Org>
+kbruch,198,736,413,42,92,64,157,1347,14.699331848552339,Bangla <kde-translation@BengaLinux.Org>
+kde-cli-tools,193,170,578,47,9,28,206,941,20.51009564293305,Bengali <kde-translation@bengalinux.org>
+kdepim-addons,11,269,598,2,75,41,9,878,1.2528473804100226,Bengali <kde-translation@bengalinux.org>
+kdialog,90,119,194,24,15,39,87,403,22.332506203473944,Bengali <kde-translation@bengalinux.org>
+kdnssd,7,9,14,1,1,5,4,30,23.333333333333332,Bengali <kde-translation@bengalinux.org>
+kf5-kauth,0,38,35,0,4,4,0,73,0.0,American English <kde-translation@bengalinux.org>
+kf5-kbookmarks,0,148,82,0,43,6,0,230,0.0,Bengali <kde-translation@bengalinux.org>
+kf5-kcmutils,145,118,3,19,17,2,137,266,54.51127819548872,American English <kde-translation@bengalinux.org>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,American English <kde-translation@bengalinux.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,American English <kde-translation@bengalinux.org>
+kf5-kconfig,0,56,233,0,7,97,0,289,0.0,Bengali <kde-translation@bengalinux.org>
+kf5-kconfigwidgets,244,80,18,96,24,5,280,342,71.34502923976608,American English <kde-translation@bengalinux.org>
+kf5-kcoreaddons,0,311,71,0,93,39,0,382,0.0,American English <kde-translation@bengalinux.org>
+kf5-kdeclarative,13,68,80,6,9,10,18,161,8.074534161490684,American English <kde-translation@bengalinux.org>
+kf5-kdelibs4support,1117,1241,2995,585,774,1185,1130,5353,20.866803661498228,en_US <kde-translation@bengalinux.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,American English <kde-translation@bengalinux.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,American English <kde-translation@bengalinux.org>
+kf5-kdoctools,8,0,0,4,0,0,15,8,100.0,Bengali <kde-translation@bengalinux.org>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,American English <kde-translation@bengalinux.org>
+kf5-khtml,1131,405,131,254,24,11,1135,1667,67.84643071385723,American English <kde-translation@bengalinux.org>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,American English <kde-translation@bengalinux.org>
+kf5-kiconthemes,6,18,17,5,6,8,7,41,14.634146341463413,Bengali <kde-translation@bengalinux.org>
+kf5-kinit,14,95,7,4,6,1,14,116,12.068965517241379,American English <kde-translation@bengalinux.org>
+kf5-kio,1494,2008,8535,332,399,642,1511,12037,12.4117304976323,en_US <kde-translation@bengalinux.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,American English <kde-translation@bengalinux.org>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,American English <kde-translation@bengalinux.org>
+kf5-kjsembed,248,0,0,44,0,0,248,248,100.0,American English <kde-translation@bengalinux.org>
+kf5-kldap,3,25,5,2,4,2,3,33,9.090909090909092,Bengali <kde-translation@bengalinux.org>
+kf5-knewstuff,147,328,1156,56,97,78,173,1631,9.012875536480687,American English <kde-translation@bengalinux.org>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,American English <kde-translation@bengalinux.org>
+kf5-knotifyconfig,43,86,0,15,2,0,44,129,33.33333333333333,American English <kde-translation@bengalinux.org>
+kf5-kparts,104,27,7,26,3,1,101,138,75.36231884057972,American English <kde-translation@bengalinux.org>
+kf5-kpty,15,0,0,4,0,0,14,15,100.0,American English <kde-translation@bengalinux.org>
+kf5-kross,82,18,0,29,6,0,80,100,82.0,American English <kde-translation@bengalinux.org>
+kf5-kservice,80,65,28,12,12,4,78,173,46.24277456647399,American English <kde-translation@bengalinux.org>
+kf5-ktexteditor,463,3256,5514,122,567,575,450,9233,5.014621466478935,Bengali <kde-translation@bengalinux.org>
+kf5-ktextwidgets,260,199,14,94,29,7,273,473,54.96828752642706,American English <kde-translation@bengalinux.org>
+kf5-kwallet,275,570,490,43,17,28,291,1335,20.59925093632959,Bengali <kde-translation@bengalinux.org>
+kf5-kwidgetsaddons,0,1170,123,0,436,27,0,1293,0.0,American English <kde-translation@bengalinux.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,American English <kde-translation@bengalinux.org>
+kf5-kxmlgui,358,1086,130,100,117,13,346,1574,22.744599745870396,American English <kde-translation@bengalinux.org>
+kf5-messagelib,308,1391,1993,99,448,250,327,3692,8.342361863488625,Bengali <kde-translation@bengalinux.org>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,American English <kde-translation@bengalinux.org>
+kf5-syntax-highlighting,0,254,393,0,187,196,0,647,0.0,Bengali <kde-translation@bengalinux.org>
+kf6-kauth,0,38,35,0,4,4,0,73,0.0,American English <kde-translation@bengalinux.org>
+kf6-kbookmarks,0,110,69,0,32,6,0,179,0.0,Bengali <kde-translation@bengalinux.org>
+kf6-kcmutils,11,104,8,5,17,4,11,123,8.94308943089431,American English <kde-translation@bengalinux.org>
+kf6-kcodecs,0,55,315,0,36,17,0,370,0.0,American English <kde-translation@bengalinux.org>
+kf6-kcompletion,0,18,0,0,11,0,0,18,0.0,American English <kde-translation@bengalinux.org>
+kf6-kconfig,0,67,483,0,10,194,0,550,0.0,Bengali <kde-translation@bengalinux.org>
+kf6-kconfigwidgets,210,88,14,77,35,5,239,312,67.3076923076923,American English <kde-translation@bengalinux.org>
+kf6-kcoreaddons,0,355,119,0,108,53,0,474,0.0,American English <kde-translation@bengalinux.org>
+kf6-kdeclarative,9,75,85,4,9,8,13,169,5.325443786982249,American English <kde-translation@bengalinux.org>
+kf6-kdnssd,0,3,0,0,3,0,0,3,0.0,American English <kde-translation@bengalinux.org>
+kf6-kdoctools,8,0,0,4,0,0,15,8,100.0,Bengali <kde-translation@bengalinux.org>
+kf6-kglobalaccel,0,34,0,0,5,0,0,34,0.0,American English <kde-translation@bengalinux.org>
+kf6-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,American English <kde-translation@bengalinux.org>
+kf6-kiconthemes,6,18,22,5,6,11,7,46,13.043478260869565,Bengali <kde-translation@bengalinux.org>
+kf6-kio,1024,1420,6275,235,378,561,1011,8719,11.744466108498681,en_US <kde-translation@bengalinux.org>
+kf6-kitemviews,0,6,0,0,3,0,0,6,0.0,American English <kde-translation@bengalinux.org>
+kf6-kjobwidgets,0,118,21,0,38,3,0,139,0.0,American English <kde-translation@bengalinux.org>
+kf6-knewstuff,39,177,818,10,67,53,42,1034,3.771760154738878,American English <kde-translation@bengalinux.org>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,American English <kde-translation@bengalinux.org>
+kf6-knotifyconfig,19,0,0,7,0,0,19,19,100.0,American English <kde-translation@bengalinux.org>
+kf6-kparts,35,15,7,8,2,1,34,57,61.40350877192983,American English <kde-translation@bengalinux.org>
+kf6-kpty,15,0,0,4,0,0,14,15,100.0,American English <kde-translation@bengalinux.org>
+kf6-kservice,4,32,9,2,9,1,5,45,8.88888888888889,American English <kde-translation@bengalinux.org>
+kf6-ktexteditor,432,3447,5584,118,614,587,419,9463,4.5651484730001055,Bengali <kde-translation@bengalinux.org>
+kf6-ktextwidgets,253,206,14,90,33,7,265,473,53.48837209302325,American English <kde-translation@bengalinux.org>
+kf6-kwallet,244,575,241,34,18,16,258,1060,23.0188679245283,Bengali <kde-translation@bengalinux.org>
+kf6-kwidgetsaddons,0,1154,123,0,438,28,0,1277,0.0,American English <kde-translation@bengalinux.org>
+kf6-kwindowsystem,0,2,0,0,1,0,0,2,0.0,American English <kde-translation@bengalinux.org>
+kf6-kxmlgui,265,880,144,87,95,18,270,1289,20.55857253685027,American English <kde-translation@bengalinux.org>
+kf6-sonnet,0,657,27,0,71,6,0,684,0.0,American English <kde-translation@bengalinux.org>
+kf6-syntax-highlighting,0,276,451,0,195,222,0,727,0.0,Bengali <kde-translation@bengalinux.org>
+kfind,256,98,163,70,38,9,239,517,49.51644100580271,Bengali <kde-translation@bengalinux.org>
+kgoldrunner,997,2282,24768,186,312,519,1025,28047,3.554747388312476,Bengali <kde-translation@bengalinux.org>
+khangman,103,80,266,29,21,66,107,449,22.93986636971047,Bengali <kde-translation@bengalinux.org>
+khelpcenter,104,39,78,46,17,21,108,221,47.05882352941176,Bengali <kde-translation@bengalinux.org>
+kig,5405,1784,268,908,286,82,5407,7457,72.4822314603728,Bangla <kde-translation@BengaLinux.Org>
+kinfocenter,19,56,59,13,30,30,22,134,14.17910447761194,Bengali <kde-translation@bengalinux.org>
+kio-extras,161,324,1506,38,60,76,172,1991,8.086388749372176,Bengali <kde-translation@bengalinux.org>
+kio-extras-kf5,35,57,170,20,9,19,46,262,13.358778625954198,Bengali <kde-translation@bengalinux.org>
+klavaro,1024,592,277,103,75,53,949,1893,54.094030639197044,Bangla/Bengali <l10n@ankur.org.bd>
+kldap,3,25,5,2,4,2,3,33,9.090909090909092,Bengali <kde-translation@bengalinux.org>
+klettres,268,74,98,43,15,27,283,440,60.909090909090914,Bangla <kde-translation@BengaLinux.Org>
+kmahjongg,128,115,116,28,39,32,140,359,35.65459610027855,Bangla <kde-translation@BengaLinux.Org>
+kmail,504,2299,5685,156,717,433,557,8488,5.937794533459001,Bengali <kde-translation@bengalinux.org>
+kmenuedit,88,18,207,29,5,39,81,313,28.115015974440894,Bengali <kde-translation@bengalinux.org>
+kmines,34,25,105,12,9,27,21,164,20.73170731707317,Bangla <kde-translation@bengalinux.org>
+kmplot,1098,946,457,209,137,140,1037,2501,43.90243902439025,Bengali <kde-translation@bengalinux.org>
+knavalbattle,31,127,243,15,35,54,37,401,7.73067331670823,Bangla <kde-translation@BengaLinux.Org>
+konqueror,2296,1502,2198,431,143,188,2337,5996,38.29219479653102,Bengali <kde-translation@bengalinux.org>
+konsole,518,1534,2247,126,400,371,528,4299,12.04931379390556,Bengali <kde-translation@bengalinux.org>
+konsole5,526,1443,2027,129,376,335,536,3996,13.163163163163164,Bengali <kde-translation@bengalinux.org>
+kopete,24,0,0,4,0,0,21,24,100.0,Bengali <kde-translation@bengalinux.org>
+kreversi,28,68,308,9,27,97,26,404,6.9306930693069315,Bangla <kde-translation@BengaLinux.Org>
+kshisen,25,61,581,18,13,44,25,667,3.7481259370314843,Bangla <kde-translation@BengaLinux.Org>
+kstars,5967,21954,33069,1248,8075,3699,6277,60990,9.783571077225774,Bengali <kde-translation@bengalinux.org>
+kteatime,35,65,103,18,21,28,36,203,17.24137931034483,Bangla <kde-translation@BengaLinux.Org>
+ktouch,12,373,579,6,111,142,9,964,1.2448132780082988,Bangla <kde-translation@BengaLinux.Org>
+kturtle,1434,92,12,262,84,3,1296,1538,93.23797139141743,American English <kde-i18n-doc@kde.org>
+kwin,675,1199,2246,125,279,470,639,4120,16.38349514563107,Bengali <kde-translation@bengalinux.org>
+kwin-x11,703,1220,1849,128,280,414,667,3772,18.6373276776246,Bengali <kde-translation@bengalinux.org>
+kwordquiz,30,91,133,12,35,46,30,254,11.811023622047244,Bangla <kde-translation@BengaLinux.Org>
+libbonobo,543,0,0,107,0,0,530,543,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libbonoboui,368,0,0,115,0,0,420,368,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libcryptui,3061,0,0,657,0,0,3354,3061,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libdnf,141,5,1518,23,1,214,141,1664,8.473557692307693,Bengali <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/bn/>
+libgdl,600,0,0,92,0,0,573,600,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libgedit-gtksourceview,101,77,141,24,18,52,108,319,31.661442006269592,Bengali <ankur-bd-l10n@googlegroups.com>
+libgnome,1773,0,0,273,0,0,1816,1773,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libgnome-keyring,88,0,0,18,0,0,80,88,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+libgnomecanvas,378,0,0,95,0,0,371,378,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libgnomekbd,286,0,0,59,0,0,282,286,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libgnomeui,1226,0,0,320,0,0,1292,1226,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libgtop2,126,0,0,40,0,0,143,126,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libgweather,6090,0,0,4555,0,0,6079,6090,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,140,75,101,55,35,34,170,316,44.303797468354425,Bengali <kde-translation@bengalinux.org>
+libmatekbd,180,0,128,43,0,48,184,308,58.44155844155844,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+libmatemixer,12,0,230,11,0,115,13,242,4.958677685950414,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+libmateweather,5998,0,145,4531,0,44,6001,6143,97.63958977698192,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+libmypaint,2,2,2299,2,1,159,2,2303,0.08684324793747286,Bengali <https://hosted.weblate.org/projects/mypaint/libmypaint/bn/>
+libpeas,103,0,0,24,0,0,121,103,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libreoffice,279693,15469,473226,38828,5895,50646,260829,768388,36.39996980692046,LANGUAGE <LL@li.org>
+libreport,4,0,4924,3,0,600,6,4928,0.08116883116883117,Bengali <https://translate.fedoraproject.org/projects/abrt/libreport/bn/>
+libuser,996,38,403,213,7,81,1165,1437,69.31106471816284,Bengali (http://www.transifex.com/projects/p/fedora/language/bn/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Bengali <info@ankur.org.bd>
+libwnck,1124,0,0,241,0,0,1196,1124,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+libwnck3,1106,18,0,240,1,0,1180,1124,98.39857651245552,Bengali <ankur-bd-l10n@googlegroups.com>
+libxfce4ui,344,0,674,107,0,104,356,1018,33.79174852652259,Bengali (https://app.transifex.com/xfce/teams/16840/bn/)
+libxfce4util,424,0,0,7,0,0,376,424,100.0,Bengali (http://www.transifex.com/xfce/libxfce4util/language/bn/)
+libzypp,1164,290,1420,752,66,192,1199,2874,40.50104384133611,AgreeYa Solutions <linux_team@agreeya.com>
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Bengali (http://www.transifex.com/the_cavalry/light-locker/language/bn/)
+lightdm,35,0,128,10,0,11,41,163,21.472392638036812,Bengali <bn@li.org>
+lightdm-gtk,28,0,61,10,0,15,33,89,31.46067415730337,Bengali <bn@li.org>
+lightdm-settings,319,0,36,64,0,10,297,355,89.85915492957747,Bengali <bn@li.org>
+lightsoff,10,33,54,5,10,4,32,97,10.309278350515463,Bangla <ankur-bd-l10n@googlegroups.com>
+lollypop,801,0,627,252,0,203,869,1428,56.09243697478992,Bengali <https://hosted.weblate.org/projects/gnumdk/lollypop/bn/>
+lxdm,10,1,37,10,1,15,13,48,20.833333333333336,Bengali <ankur-bd-l10n@googlegroups.com>
+lxinput,70,2,11,23,1,2,68,83,84.33734939759037,Bengali <ankur-bd-l10n@googlegroups.com>
+lxlauncher,51,0,7,11,0,6,47,58,87.93103448275862,Bengali <ankur-bd-l10n@googlegroups.com>
+lxmenu-data,97,0,0,37,0,0,96,97,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+lxshortcut,43,0,0,19,0,0,55,43,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+magpie,5430,1489,0,439,25,0,5572,6919,78.47954906778436,Bengali <gnome-trans@bengalinux.org>
+mailman3,13,0,4627,4,0,397,12,4640,0.2801724137931034,Bengali <https://hosted.weblate.org/projects/gnu-mailman/mailman/bn/>
+malcontent,1,0,583,1,0,97,1,584,0.17123287671232876,none
+maliit-keyboard,33,4,44,31,2,28,33,81,40.74074074074074,
+manafirewall,14,0,1083,13,0,120,16,1097,1.276207839562443,Bengali (https://www.transifex.com/MageiaLinux/teams/9361/bn/)
+marco,3156,0,1015,367,0,66,3181,4171,75.66530807959721,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-applets,1845,0,14261,461,0,1194,2252,16106,11.455358251583261,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-backgrounds,26,0,29,18,0,11,31,55,47.27272727272727,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-calc,725,0,2602,182,0,569,824,3327,21.791403666967238,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-control-center,2483,11,5766,962,6,559,2963,8260,30.06053268765133,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-desktop,1119,6,1287,175,2,118,1204,2412,46.39303482587065,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-media,120,0,124,53,0,47,165,244,49.18032786885246,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-menu,64,0,244,35,0,75,72,308,20.77922077922078,Bengali (http://www.transifex.com/mate/MATE/language/bn/)
+mate-menus,98,0,5,38,0,1,97,103,95.14563106796116,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-notification-daemon,8,0,178,7,0,46,38,186,4.301075268817205,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-panel,3612,2,3139,529,1,292,3651,6753,53.48733896046202,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-polkit,5,0,118,4,0,17,8,123,4.0650406504065035,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-power-manager,1398,3,3722,289,1,262,1628,5123,27.288698028498924,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-screensaver,868,0,233,147,0,29,895,1101,78.83742052679382,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-sensors-applet,22,0,2138,22,0,204,78,2160,1.0185185185185186,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-session-manager,429,0,288,102,0,31,478,717,59.83263598326359,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-settings-daemon,1099,0,1104,186,0,132,1226,2203,49.88651838402179,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-system-monitor,548,0,4346,207,0,454,675,4894,11.197384552513281,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-terminal,3829,0,4409,482,0,283,3848,8238,46.47972808934207,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-themes,9,0,65,3,0,20,11,74,12.162162162162163,Bengali (http://app.transifex.com/mate/MATE/language/bn/)
+mate-user-admin,17,0,588,13,0,113,21,605,2.809917355371901,Bengali (https://www.transifex.com/mate/teams/13566/bn/)
+mate-user-guide,142,0,42831,85,0,3143,194,42973,0.33044004374840014,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+mate-utils,3139,0,6762,609,0,462,3436,9901,31.703868296131706,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+messagelib,201,1467,1952,77,504,252,225,3620,5.552486187845304,Bengali <kde-translation@bengalinux.org>
+metacity,3798,0,0,404,0,0,3847,3798,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+metadata-cleaner,413,0,305,58,0,33,425,718,57.5208913649025,Bengali <https://hosted.weblate.org/projects/metadata-cleaner/application/bn/>
+mingw-GConf2,4024,0,0,485,0,0,4139,4024,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+mingw-atk,375,0,0,126,0,0,346,375,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+mingw-gdk-pixbuf,1266,82,0,195,7,0,1254,1348,93.91691394658753,Bengali <ankur-bd-l10n@googlegroups.com>
+mingw-glib2,2552,301,1924,447,57,243,2699,4777,53.42265019886958,Bengali <ankur-bd-l10n@googlegroups.com>
+mingw-gtk2,13699,5,0,2783,1,0,13443,13704,99.96351430239346,Bengali <ankur-bd-l10n@googlegroups.com>
+mingw-gtk3,11523,353,111,2443,69,20,11282,11987,96.12913990156002,Bengali <ankur-bd-l10n@googlegroups.com>
+mingw-gtk4,2753,498,3,711,172,3,2948,3254,84.60356484326982,Bengali <ankur-bd-l10n@googlegroups.com>
+mingw-gtksourceview3,103,86,133,26,25,55,110,322,31.987577639751553,Bengali <ankur-bd-l10n@googlegroups.com>
+mingw-json-glib,226,0,0,27,0,0,184,226,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+mousetweaks,730,0,0,97,0,0,752,730,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+mozo,43,0,3,21,0,3,66,46,93.47826086956522,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+muffin,5430,1489,0,439,25,0,5572,6919,78.47954906778436,Bengali <gnome-trans@bengalinux.org>
+mutter,5430,1489,0,439,25,0,5572,6919,78.47954906778436,Bengali <gnome-trans@bengalinux.org>
+mypaint,18,20,6343,16,12,1242,24,6381,0.2820874471086037,Bengali <https://hosted.weblate.org/projects/mypaint/mypaint/bn/>
+nautilus,7063,66,0,1121,7,0,7293,7129,99.07420395567401,Bengali <ankur-bd-l10n@googlegroups.com>
+newt,4,0,0,4,0,0,5,4,100.0,Bangla <core@BengaLinux.Org>
+notification-daemon,34,0,0,14,0,0,41,34,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+onionshare,37,0,1753,5,0,66,39,1790,2.067039106145251,none
+orca,4011,0,0,1315,0,0,4162,4011,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+pam,347,173,24,74,24,3,375,544,63.78676470588235,Bengali <info@ankur.org.bd>
+papers,1392,0,0,333,0,0,1523,1392,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+parley,245,1423,1765,101,392,236,258,3433,7.136615205359743,Bengali <kde-translation@bengalinux.org>
+phonon,0,230,5,0,34,3,0,235,0.0,Bengali <kde-translation@bengalinux.org>
+picard,386,0,0,258,0,0,375,386,100.0,Bengali <https://translations.metabrainz.org/projects/musicbrainz/countries/bn/>
+pidgin,13261,0,733,3036,0,155,13917,13994,94.76204087466057,Bengali (http://app.transifex.com/pidgin/pidgin/language/bn/)
+pinta,37,0,1709,20,0,517,57,1746,2.1191294387170676,Bengali <bn@li.org>
+plasma-desktop,49,382,2189,17,121,353,47,2620,1.870229007633588,Bengali <kde-translation@bengalinux.org>
+plasma-drkonqi,70,1387,523,19,136,55,74,1980,3.535353535353535,Bengali <kde-translation@bengalinux.org>
+plasma-workspace,2593,2213,1473,900,514,152,2606,6279,41.296384774645645,Bengali <kde-translation@bengalinux.org>
+plasma-workspace-x11,2593,2213,1473,900,514,152,2606,6279,41.296384774645645,Bengali <kde-translation@bengalinux.org>
+playonlinux,259,0,2469,42,0,407,290,2728,9.494134897360704,Bengali <bn@li.org>
+pluma,4504,0,8609,1088,0,1002,4930,13113,34.347593990696254,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+pluma-plugins,188,0,1217,20,0,125,199,1405,13.380782918149468,Bengali (https://app.transifex.com/mate/teams/13566/bn/)
+pogo,523,0,53,88,0,13,470,576,90.79861111111111,Bengali <bn@li.org>
+policycoreutils,43,4,6070,41,2,928,59,6117,0.7029589668137977,Bengali
+powerdevil,4,90,185,2,21,35,4,279,1.4336917562724014,American English <kde-translation@bengalinux.org>
+pychess,211,0,7381,90,0,1378,257,7592,2.779241306638567,Bengali (http://www.transifex.com/gbtami/pychess/language/bn/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,186,43,1409,22,1,158,186,1638,11.355311355311356,Bengali (http://www.transifex.com/projects/p/pykickstart/language/bn/)
+python-apt,25,230,289,9,54,55,27,544,4.595588235294118,Bengali <bn@li.org>
+python-blivet,206,10,389,24,1,56,225,605,34.049586776859506,Bengali (http://www.transifex.com/projects/p/blivet/language/bn/)
+python-django,1695,0,1863,570,0,258,1778,3558,47.63912310286678,Bengali (http://www.transifex.com/django/django/language/bn/)
+python-django-contrib-comments,209,0,35,51,0,9,212,244,85.65573770491804,Bengali (http://www.transifex.com/django/django-contrib-comments/language/bn/)
+python-django-mailman3,0,0,437,0,0,74,0,437,0.0,LANGUAGE <LL@li.org>
+python-django4.2,1695,0,1863,570,0,258,1778,3558,47.63912310286678,Bengali (http://www.transifex.com/django/django/language/bn/)
+python-django5,1695,0,1863,570,0,258,1778,3558,47.63912310286678,Bengali (http://www.transifex.com/django/django/language/bn/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Bengali
+python-hyperkitty,89,2,860,22,1,242,90,951,9.35856992639327,Bengali <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/bn/>
+python-meh,2,0,107,2,0,21,3,109,1.834862385321101,Bengali (http://www.transifex.com/projects/p/python-meh/language/bn/)
+python-nikola,0,0,94,0,0,44,0,94,0.0,Bengali (http://app.transifex.com/ralsina/nikola/language/bn/)
+python-postorius,23,7,5024,6,2,623,24,5054,0.45508508112386226,Bengali <https://hosted.weblate.org/projects/gnu-mailman/postorius/bn/>
+python-sphinx,224,0,4823,99,0,668,219,5047,4.438280166435506,Bengali (http://app.transifex.com/sphinx-doc/sphinx-1/language/bn/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Bengali (https://www.transifex.com/sphinx-doc/teams/36659/bn/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Bengali (https://www.transifex.com/sphinx-doc/teams/36659/bn/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Bengali (https://www.transifex.com/sphinx-doc/teams/36659/bn/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Bengali (https://www.transifex.com/sphinx-doc/teams/36659/bn/)
+quadrapassel,229,74,125,57,17,5,289,428,53.50467289719626,Bangla <ankur-bd-l10n@googlegroups.com>
+quearcode,80,0,0,20,0,0,80,80,100.0,
+redhat-menus,240,11,10,76,5,5,280,261,91.95402298850574,Bangla <redhat-translation@BengaLinux.Org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,67,4679,661,13,930,75,63,5407,1.239134455335676,Bengali <https://hosted.weblate.org/projects/remmina/remmina/bn/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,none
+rpm-ostree,141,5,1334,23,1,205,141,1480,9.527027027027026,Bengali <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/bn/>
+scons,42,0,0,18,0,0,45,42,100.0,
+seahorse,3061,0,0,657,0,0,3354,3061,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+seahorse-caja,411,10,0,109,1,0,492,421,97.62470308788599,Bengali <ankur-bd-l10n@googlegroups.com>
+seahorse-nautilus,411,10,0,109,1,0,492,421,97.62470308788599,Bengali <ankur-bd-l10n@googlegroups.com>
+setroubleshoot,423,10,207,137,2,29,486,640,66.09375,Bengali (http://www.transifex.com/projects/p/fedora/language/bn/)
+setroubleshoot-plugins,2115,15,4118,106,1,119,2025,6248,33.85083226632523,Bengali (http://www.transifex.com/projects/p/fedora/language/bn/)
+setuptool,47,0,8,13,0,1,52,55,85.45454545454545,Bangla <redhat-translation@bengalinux.org>
+shotwell,114,0,4439,53,0,893,132,4553,2.5038436195914784,Bengali (http://www.transifex.com/projects/p/shotwell/language/bn/)
+shutter,204,0,2889,58,0,548,230,3093,6.595538312318137,Bengali <bn@li.org>
+slick-greeter,211,0,5,47,0,2,229,216,97.68518518518519,Bengali <bn@li.org>
+snapd,4,0,4303,2,0,479,8,4307,0.09287206872533085,Bengali <bn@li.org>
+snapper,3,441,624,3,109,189,3,1068,0.2808988764044944,Bengali <i18n@suse.de>
+sos,0,0,123,0,0,30,0,123,0.0,none
+sound-juicer,1022,0,0,198,0,0,1107,1022,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+stellarium,72242,0,135719,13235,0,32762,64424,207961,34.738244190016395,Bengali (https://app.transifex.com/stellarium/teams/80998/bn/)
+sugar,1318,27,960,329,7,193,1324,2305,57.18004338394794,Bengali <core@bengalinux.org>
+sugar-abacus,28,0,0,23,0,0,24,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,38,19,277,24,3,44,49,334,11.377245508982035,LANGUAGE <LL@li.org>
+sugar-calculator,344,71,451,80,15,74,315,866,39.722863741339495,Bengali <core@bengalinux.org>
+sugar-chat,137,0,0,81,0,0,146,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,587,66,100.0,LANGUAGE <LL@li.org>
+sugar-dimensions,133,0,43,71,0,16,130,176,75.56818181818183,LANGUAGE <LL@li.org>
+sugar-distance,79,0,20,17,0,9,83,99,79.7979797979798,Bengali <ankur-bd-l10n@googlegroups.com>
+sugar-finance,43,91,124,19,5,39,43,258,16.666666666666664,Bengali <ankur-bd-l10n@googlegroups.com>
+sugar-flipsticks,77,0,74,42,0,3,96,151,50.993377483443716,Bengali <ankur-bd-l10n@googlegroups.com>
+sugar-imageviewer,16,0,42,8,0,8,18,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-log,41,4,53,13,1,7,44,98,41.83673469387755,LANGUAGE <LL@li.org>
+sugar-memorize,24,8,110,13,7,54,35,142,16.901408450704224,Bengali <ankur-bd-l10n@googlegroups.com>
+sugar-pippy,38,15,222,14,1,52,37,275,13.818181818181818,Bengali <core@bengalinux.org>
+sugar-read,51,0,86,26,0,24,57,137,37.22627737226277,LANGUAGE <LL@li.org>
+sugar-record,12,10,40,10,3,11,12,62,19.35483870967742,Bengali <core@bengalinux.org>
+sugar-speak,219,8,0,66,8,0,226,227,96.47577092511013,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,6,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,9,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,142,9,62,97,7,19,149,213,66.66666666666666,LANGUAGE <LL@li.org>
+sugar-turtleart,81,45,1333,58,27,350,100,1459,5.551747772446881,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,4,0,56,3,0,20,6,60,6.666666666666667,Bengali <ankur-bd-l10n@googlegroups.com>
+sugar-write,63,0,58,37,0,18,67,121,52.066115702479344,LANGUAGE <LL@li.org>
+supertux,0,0,63,0,0,17,0,63,0.0,Bengali (https://www.transifex.com/arctic-games/teams/95/bn/)
+sweeper,127,57,44,27,12,11,123,228,55.70175438596491,Bengali <kde-translation@bengalinux.org>
+swell-foop,79,58,129,30,15,10,95,266,29.69924812030075,Bangla <ankur-bd-l10n@googlegroups.com>
+switchdesk,17,85,20,4,9,6,18,122,13.934426229508196,Bengali <redhat-translation@bengalinux.org>
+system-config-language,36,0,179,9,0,22,30,215,16.74418604651163,Arabic <support@arabeyes.org>
+system-config-printer,3236,76,202,842,25,61,3589,3514,92.08878770631759,Bengali <https://translate.fedoraproject.org/projects/system-config-printer/master/bn/>
+system-config-rootpassword,15,26,75,3,5,11,14,116,12.931034482758621,Bengali <redhat-translation@bengalinux.org>
+system-switch-mail,9,88,4,6,8,3,11,101,8.91089108910891,Bangla <redhat-translation@bengalinux.org>
+tali,315,31,75,80,10,7,356,421,74.82185273159145,Bangla <ankur-bd-l10n@googlegroups.com>
+terminator,158,0,1364,54,0,361,174,1522,10.38107752956636,Bengali (https://www.transifex.com/terminator/teams/109338/bn/)
+totem,2611,0,0,592,0,0,2766,2611,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+totem-pl-parser,28,0,0,7,0,0,28,28,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+transmission,928,0,1513,316,0,269,1173,2441,38.0172060630889,Bengali (https://app.transifex.com/transmissionbt/teams/33778/bn/)
+tumbler,78,0,70,15,0,10,73,148,52.702702702702695,Bengali (http://www.transifex.com/xfce/tumbler/language/bn/)
+tuxpaint,1129,1525,2701,249,153,213,1073,5355,21.083099906629318,Bengali
+usermode,570,0,3,95,0,1,596,573,99.47643979057592,Bengali <info@ankur.org.bd>
+vinagre,1599,0,0,272,0,0,1615,1599,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+virt-viewer,161,0,585,35,0,141,194,746,21.58176943699732,Bengali (http://www.transifex.com/projects/p/virt-viewer/language/bn/)
+vlc,25711,35,9033,4792,11,1482,26032,34779,73.92679490497139,Bengali (Bangladesh) (https://app.transifex.com/yaron/teams/16553/bn_BD/)
+volume_key,745,10,8,151,2,1,816,763,97.64089121887287,Bengali <info@ankur.org.bd>
+vte,84,0,0,14,0,0,107,84,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+vte291,84,0,0,14,0,0,107,84,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+wesnoth,23599,597,315542,4133,56,17114,22474,339738,6.946235039942544,Bengali < >
+wike,340,1,152,91,1,42,349,493,68.96551724137932,
+wingpanel,6,0,51,1,0,9,9,57,10.526315789473683,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,14,8,58,10,3,17,21,80,17.5,Bengali <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/bn/>
+wingpanel-indicator-datetime,4,0,99,1,0,24,4,103,3.8834951456310676,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,LANGUAGE <LL@li.org>
+xapps,73,0,0,36,0,0,80,73,100.0,Bengali <bn@li.org>
+xed,2952,0,823,729,0,199,3160,3775,78.19867549668874,Bengali (http://www.transifex.com/projects/p/MATE/language/bn/)
+xfce4-appfinder,23,16,147,5,4,35,25,186,12.365591397849462,Bengali <ankur-bd-l10n@googlegroups.com>
+xfce4-panel,1054,0,895,297,0,192,1218,1949,54.079014879425344,Bengali (https://www.transifex.com/xfce/teams/16840/bn/)
+xfce4-session,465,0,316,93,0,74,477,781,59.53905249679897,Bengali (https://app.transifex.com/xfce/teams/16840/bn/)
+xfce4-settings,1292,0,1143,287,0,284,1306,2435,53.059548254620125,Bengali (http://www.transifex.com/xfce/xfce4-settings/language/bn/)
+xfconf,302,0,164,45,0,23,306,466,64.8068669527897,Bengali (http://www.transifex.com/xfce/xfconf/language/bn/)
+xfdesktop,322,198,334,87,46,67,340,854,37.704918032786885,Bengali <ankur-bd-l10n@googlegroups.com>
+xfwm4,475,0,191,136,0,42,576,666,71.32132132132132,Bengali (http://www.transifex.com/xfce/xfwm4/language/bn/)
+xreader,1089,0,536,269,0,111,1178,1625,67.0153846153846,Bengali (http://www.transifex.com/mate/MATE/language/bn/)
+yelp,1094,0,0,357,0,0,1162,1094,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+yelp-xsl,80,0,0,57,0,0,86,80,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+yudit,271,4,24,107,1,6,343,299,90.63545150501672,LANGUAGE <LL@li.org>
+zenity,592,0,0,136,0,0,667,592,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+zypper,57,2959,7027,35,397,853,71,10043,0.5675594941750473,AgreeYa Solutions <linux_team@agreeya.com>

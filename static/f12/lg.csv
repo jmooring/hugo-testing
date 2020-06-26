@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+findutils,248,306,1551,67,30,122,313,2105,11.78147268408551,Luganda <kompyuta@kizito.freeuk.com>
+pootle,6476,54,287,3995,7,250,7216,6817,94.99779961860055,LANGUAGE <LL@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>
+virtaal,1389,0,0,430,0,0,1424,1389,100.0,LANGUAGE <LL@li.org>

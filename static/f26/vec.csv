@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,99805,0,152,31474,0,10,113144,99957,99.8479346118831,LANGUAGE <LL@li.org>
+slick-greeter,197,0,14,40,0,7,197,211,93.36492890995261,Venetian <vec@li.org>
+tuxpaint,1591,0,0,291,0,0,1596,1591,100.0,none

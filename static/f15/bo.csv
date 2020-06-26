@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnomebaker,0,0,1186,0,0,291,0,1186,0.0,Tibetan <bo@li.org>
+pootle,4,4,2416,4,4,451,4,2424,0.16501650165016502,LANGUAGE <LL@li.org>
+stellarium,0,0,1957,0,0,560,0,1957,0.0,Tibetan <bo@li.org>
+tuxpaint,61,30,1156,58,14,180,110,1247,4.891740176423416,LANGUAGE <LL@li.org>
+vidalia,0,0,8645,0,0,926,0,8645,0.0,LANGUAGE <LL@li.org>

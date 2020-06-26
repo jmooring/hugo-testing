@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+childsplay,1065,21,140,129,9,74,833,1226,86.86786296900489,Arabic <>
+perl-libintl,12,0,7,12,0,7,16,19,63.1578947368421,Arabic <guido@imperia.net>
+pgadmin3,3471,2174,3361,1206,658,667,3406,9006,38.54097268487675,Arabic <support@arabeyes.org>
+publican,353,475,266,22,16,34,300,1094,32.26691042047532,ar <core@ojuba.org>
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None

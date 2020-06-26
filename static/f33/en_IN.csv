@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+efl,5,0,0,4,0,0,6,5,100.0,
+stellarium,26475,0,114929,15570,0,20849,26475,141404,18.722949845831803,English (India) (https://www.transifex.com/stellarium/teams/80998/en_IN/)

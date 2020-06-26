@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+corebird,423,0,0,152,0,0,493,423,100.0,Spanish (Venezuela) (http://www.transifex.com/corebird/corebird/language/es_VE/)
+glpi,4004,0,6632,1259,0,1546,4341,10636,37.64573147799925,Spanish (Venezuela) (http://www.transifex.com/glpi/GLPI/language/es_VE/)
+libgweather,447,9,4,170,5,4,539,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmateweather,361,0,129,153,0,21,425,490,73.67346938775509,Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/)
+lxdm,11,1,18,10,1,7,11,30,36.666666666666664,LANGUAGE <LL@li.org>
+lxinput,60,5,7,21,2,1,75,72,83.33333333333334,LANGUAGE <LL@li.org>
+lxmusic,196,0,7,87,0,2,256,203,96.55172413793103,pcman.tw@gmail.com
+lxpolkit,0,15,0,0,9,0,0,15,0.0,Spanish
+mate-applets,1727,0,693,407,0,152,2076,2420,71.36363636363636,Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/)
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/)
+openerp,21309,0,33371,4721,0,3651,23431,54680,38.970373079736646,Spanish (Venezuela) <es_VE@li.org>
+openerp7,16650,0,32910,3697,0,3725,18313,49560,33.595641646489106,Spanish (Venezuela) <es_VE@li.org>
+python-django,216,0,3111,95,0,651,233,3327,6.4923354373309285,Spanish (Venezuela) (http://www.transifex.com/projects/p/django/language/es_VE/)
+wicd,851,0,287,180,0,74,984,1138,74.78031634446397,es_VE <LL@li.org>

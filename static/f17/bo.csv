@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+console-setup,501,51,427,124,11,36,244,979,51.174668028600614,bo <translation-team-bo@lists.sourceforge.net>
+deja-dup,0,0,1675,0,0,286,0,1675,0.0,Tibetan <bo@li.org>
+gnomebaker,0,0,1186,0,0,291,0,1186,0.0,Tibetan <bo@li.org>
+libreoffice,404306,14431,113080,59356,3021,11323,107341,531817,76.02351936850458,LANGUAGE <LL@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Tibetan <bo@li.org>
+nautilus,6259,823,321,1031,115,46,2219,7403,84.54680534918276,Tibetan <bo@li.org>
+nemo,6259,823,321,1031,115,46,2219,7403,84.54680534918276,Tibetan <bo@li.org>
+pootle,4,4,2416,4,4,451,4,2424,0.16501650165016502,LANGUAGE <LL@li.org>
+stellarium,0,0,9286,0,0,2789,0,9286,0.0,Tibetan <bo@li.org>
+transmission,0,0,1809,0,0,494,0,1809,0.0,Tibetan <bo@li.org>
+tuxpaint,61,30,1156,58,14,180,110,1247,4.891740176423416,LANGUAGE <LL@li.org>
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>

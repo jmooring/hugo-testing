@@ -1,0 +1,100 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Burmese (http://www.transifex.com/projects/p/fedora-abrt/language/my/)
+arduino,0,0,2566,0,0,462,0,2566,0.0,Burmese (Myanmar) (http://www.transifex.com/projects/p/arduino-ide-15/language/my_MM/)
+asunder,10,0,470,9,0,78,9,480,2.083333333333333,http://littlesvr.ca/ostd/
+audacity,5395,2267,4574,1340,680,764,4437,12236,44.09120627656097,Burmese <my@li.org>
+authconfig,0,0,1715,0,0,296,0,1715,0.0,Burmese (http://www.transifex.com/projects/p/fedora/language/my/)
+bleachbit,409,0,578,132,0,91,255,987,41.4387031408308,Burmese <my@li.org>
+blivet-gui,0,0,713,0,0,187,0,713,0.0,Burmese
+brasero,4765,18,769,935,4,54,1866,5552,85.8249279538905,Burmese <my-l10n-team@googlegroups.com>
+bzr,0,0,33099,0,0,2340,0,33099,0.0,Burmese <my@li.org>
+calibre,460,0,151224,80,0,17614,234,151684,0.3032620447773002,Burmese (http://www.transifex.com/calibre/calibre/language/my/)
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Burmese (http://www.transifex.com/projects/p/certmonger/language/my/)
+chkconfig,0,0,487,0,0,93,0,487,0.0,LANGUAGE <LL@li.org>
+cinnamon-translations,668,0,12773,179,0,3036,437,13441,4.969868313369541,Burmese <my@li.org>
+clementine,4507,0,584,1227,0,125,1490,5091,88.52877627185228,Burmese (http://www.transifex.com/davidsansome/clementine/language/my/)
+control-center,1049,0,2315,368,0,422,605,3364,31.183115338882285,Burmese <my-l10n-team@googlegroups.com>
+deja-dup,23,0,4077,4,0,484,11,4100,0.5609756097560975,Burmese <my@li.org>
+empathy,3928,78,82,897,48,26,2545,4088,96.08610567514677,Burmese <LL@li.org>
+eog,225,0,1400,126,0,190,222,1625,13.846153846153847,Burmese <my-l10n-team@googlegroups.com>
+evince,1084,31,378,324,6,41,722,1493,72.60549229738781,Burmese <my-l10n-team@googlegroups.com>
+file-roller,1035,0,348,267,0,38,440,1383,74.83731019522777,Burmese <my-l10n-team@googlegroups.com>
+gdk-pixbuf2,1192,89,67,184,12,6,942,1348,88.4272997032641,Burmese <my@li.org>
+gedit,1513,0,3491,475,0,633,1137,5004,30.235811350919267,Burmese <LL@li.org>
+gimp,25600,1510,456,6720,337,65,20501,27566,92.86802582891968,Burmese <burmait@burmait.net>
+gnome-calculator,352,0,789,160,0,99,241,1141,30.850131463628394,Burmese <LL@li.org>
+gnome-do,612,0,0,144,0,0,287,612,100.0,Burmese <my@li.org>
+gnome-online-accounts,329,69,67,104,45,19,261,465,70.75268817204301,Burmese <LL@li.org>
+gnome-power-manager,56,0,2796,27,0,414,41,2852,1.9635343618513323,Burmese <my-l10n-team@googlegroups.com>
+gnome-screensaver,113,0,876,42,0,115,74,989,11.425682507583417,Burmese <my-l10n-team@googlegroups.com>
+gnome-tweak-tool,111,0,0,41,0,0,108,111,100.0,MM L10N Team <mm.l10n.team@gmail.com>
+gtk2,13010,443,251,2670,77,37,9363,13704,94.93578517221249,Burmese <my@li.org>
+gtk3,10766,767,320,2291,144,52,7671,11853,90.82932590905256,Burmese <my@li.org>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,440,0,0,80,0,440,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Burmese (http://www.transifex.com/projects/p/initial-setup/language/my/)
+initscripts,0,0,1003,0,0,158,0,1003,0.0,<XX@li.org>
+isomaster,25,1,648,17,1,89,26,674,3.7091988130563793,http://littlesvr.ca/ostd/
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Burmese (http://www.transifex.com/mate/MATE/language/my/)
+libreoffice,63206,2774,33719,19533,1291,10596,41548,99699,63.39682444156912,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Burmese (http://www.transifex.com/projects/p/libreport/language/my/)
+librfm,182,642,1573,117,266,215,222,2397,7.592824363788068,Burmese <my-l10n-team@googlegroups.com>
+light-locker,0,0,260,0,0,37,0,260,0.0,Burmese (http://www.transifex.com/the_cavalry/light-locker/language/my/)
+lightdm,0,0,79,0,0,17,0,79,0.0,Burmese <my@li.org>
+mate-calc,278,0,1134,130,0,311,183,1412,19.688385269121813,LANGUAGE <LL@li.org>
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Burmese (http://www.transifex.com/projects/p/MATE/language/my/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Burmese (http://www.transifex.com/mate/MATE/language/my/)
+mingw-gdk-pixbuf,1192,89,67,184,12,6,942,1348,88.4272997032641,Burmese <my@li.org>
+mingw-gtk2,13010,443,251,2670,77,37,9363,13704,94.93578517221249,Burmese <my@li.org>
+mingw-gtk3,10766,767,320,2291,144,52,7671,11853,90.82932590905256,Burmese <my@li.org>
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Burmese (http://www.transifex.com/projects/p/libvirt-glib/language/my/)
+mintmenu,18,0,1061,9,0,181,12,1079,1.6682113067655238,Burmese <my@li.org>
+nautilus,797,0,8094,288,0,1161,572,8891,8.964121021257451,Burmese <my-l10n-team@googlegroups.com>
+nautilus-open-terminal,8,0,158,3,0,13,7,166,4.819277108433735,Burmese <my-l10n-team@googlegroups.com>
+nemo-extensions,1,0,0,1,0,0,1,1,100.0,Burmese <my@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Burmese (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/my/)
+passwd,0,0,315,0,0,55,0,315,0.0,LANGUAGE <LL@li.org>
+pidgin,18127,0,431,3867,0,81,13987,18558,97.67755146028667,Burmese (Myanmar) (http://www.transifex.com/projects/p/pidgin/language/my_MM/)
+pidgin-otr,1064,0,0,159,0,0,819,1064,100.0,MM L10N Team <mm.l10n.team@gmail.com>
+pogo,340,0,236,84,0,17,197,576,59.02777777777778,Burmese <my@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Burmese (http://www.transifex.com/projects/p/fedora/language/my/)
+python-django,420,0,2907,177,0,569,248,3327,12.623985572587918,Burmese (http://www.transifex.com/projects/p/django/language/my/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Burmese (http://www.transifex.com/projects/p/python-meh/language/my/)
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rednotebook,1,0,1146,1,0,239,11,1147,0.08718395815170009,Burmese <my@li.org>
+remmina,30,0,1120,16,0,326,35,1150,2.608695652173913,Burmese <my@li.org>
+rhn-client-tools,0,0,4057,0,0,420,0,4057,0.0,Burmese (http://www.transifex.com/projects/p/spacewalk/language/my/)
+rhnsd,0,0,37,0,0,9,0,37,0.0,LANGUAGE <LL@li.org>
+rodent,128,729,8777,96,303,413,142,9634,1.3286277766244552,Burmese <my-l10n-team@googlegroups.com>
+sahana,15009,0,14297,2418,0,2577,8293,29306,51.214768306831374,NovaSteps L10N Team <ravi.chhabra@gmail.com>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Burmese (http://www.transifex.com/projects/p/fedora/language/my/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Burmese (http://www.transifex.com/projects/p/fedora/language/my/)
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+simple-scan,498,0,141,109,0,37,437,639,77.93427230046949,Burmese <my@li.org>
+sos,0,0,267,0,0,36,0,267,0.0,none
+steadyflow,66,0,404,27,0,66,68,470,14.042553191489363,Burmese <my@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-date,0,0,503,0,0,56,0,503,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,0,0,2814,0,0,331,0,2814,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Burmese (http://www.transifex.com/projects/p/system-config-kickstart/language/my/)
+system-config-network,0,0,3032,0,0,721,0,3032,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,571,0,0,134,0,571,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,534,0,0,72,0,534,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+totem,434,80,2053,189,29,365,361,2567,16.90689520841449,Burmese <my-l10n-team@googlegroups.com>
+transmission,1,0,1808,1,0,493,6,1809,0.055279159756771695,Burmese <my@li.org>
+vidalia,10313,0,150,1291,0,12,7584,10463,98.56637675618848,translations@vidalia-project.net
+widelands,27,0,571,10,0,48,22,598,4.51505016722408,Burmese <my@li.org>
+yum-rhn-plugin,0,0,147,0,0,17,0,147,0.0,LANGUAGE <LL@li.org>

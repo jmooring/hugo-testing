@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+digikam,0,0,16526,0,0,2136,0,16526,0.0,<en@li.org>
+iso-codes,814,5270,6255,664,4333,3631,816,12339,6.596968960207472,Maltese <mt@li.org>
+kdebluetooth,0,0,1517,0,0,289,0,1517,0.0,<en@li.org>
+kdetv,0,0,2206,0,0,483,0,2206,0.0,<en@li.org>
+kile,0,339,10082,0,134,1450,0,10421,0.0,Maltese <mt@li.org>
+kiosktool,0,0,2289,0,0,238,0,2289,0.0,<en@li.org>
+kipi-plugins,859,242,8110,182,58,1142,814,9211,9.325806101400499,Maltese <mt@li.org>
+kmplayer,0,16,1235,0,4,384,0,1251,0.0,Maltese <mt@li.org>
+kphotoalbum,0,31,5997,0,12,719,0,6028,0.0,Maltese <mt@li.org>
+krecipes,0,0,2940,0,0,406,0,2940,0.0,<en@li.org>
+kst,1,759,6057,1,343,1319,1,6817,0.014669209329617133,Maltese <mt@li.org>
+ksynaptics,472,69,114,102,16,16,416,655,72.06106870229007,Maltese <mt@li.org>
+libkexif,21,4,0,13,1,0,22,25,84.0,Maltese <mt@li.org>
+libkipi,69,14,0,23,3,0,69,83,83.13253012048193,Maltese <mt@li.org>
+showimg,6,60,4239,2,30,847,5,4305,0.13937282229965156,Maltese <mt@li.org>
+stellarium,810,0,337,394,0,93,805,1147,70.61900610287707,Maltese <mt@li.org>

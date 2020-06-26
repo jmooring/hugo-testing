@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+dnf-plugin-system-upgrade,0,0,203,0,0,35,0,203,0.0,Twi
+entangle,0,0,934,0,0,209,0,934,0.0,Twi
+tuxpaint,489,558,200,138,65,49,554,1247,39.21411387329591,

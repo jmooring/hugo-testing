@@ -1,0 +1,68 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Lao (http://www.transifex.com/projects/p/fedora-abrt/language/lo/)
+authconfig,0,0,1715,0,0,296,0,1715,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+blueberry,27,0,114,8,0,26,12,141,19.148936170212767,Lao <lo@li.org>
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Lao (http://www.transifex.com/projects/p/certmonger/language/lo/)
+chkconfig,0,0,487,0,0,93,0,487,0.0,LANGUAGE <LL@li.org>
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,none
+cinnamon-desktop,204,1,26,21,1,9,111,231,88.31168831168831,Lao <lo@li.org>
+cinnamon-translations,2600,0,10951,791,0,2435,1233,13551,19.18677588369862,Lao <lo@li.org>
+clamtk,46,0,418,32,0,108,32,464,9.913793103448276,Lao <lo@li.org>
+console-setup,979,0,4,171,0,4,296,983,99.59308240081384,Lao <lo@li.org>
+control-center,0,0,1313,0,0,756,0,1313,0.0,none
+feedreader,0,0,0,0,0,0,0,0,0.0,
+filezilla,7892,703,1223,1435,140,90,2531,9818,80.38297005500102,
+gnome-desktop,351,0,0,53,0,0,200,351,100.0,Lao <lo@li.org>
+gnome-desktop3,433,5,0,59,2,0,240,438,98.85844748858447,Lao <lo@li.org>
+gnome-menus,95,0,0,37,0,0,57,95,100.0,Lao <lo@li.org>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Lao (http://www.transifex.com/projects/p/initial-setup/language/lo/)
+initscripts,0,0,1003,0,0,158,0,1003,0.0,<XX@li.org>
+koffice-kivio,2000,1806,4611,597,778,986,1091,8417,23.761435190685518,Vilaphone Manivanh <en@li.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Lao (http://www.transifex.com/mate/MATE/language/lo/)
+libmx,16,0,24,9,0,8,10,40,40.0,Lao <lo@li.org>
+libreoffice,38870,6327,55176,12407,2818,16446,17318,100373,38.72555368475586,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Lao (http://www.transifex.com/projects/p/libreport/language/lo/)
+mate-desktop,165,0,2236,26,0,306,99,2401,6.872136609745939,Lao (http://www.transifex.com/mate/MATE/language/lo/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Lao (http://www.transifex.com/mate/MATE/language/lo/)
+mintmenu,1403,0,2004,419,0,369,659,3407,41.17992368652774,Lao <lo@li.org>
+nemo-extensions,1,0,7,1,0,1,1,8,12.5,Lao <lo@li.org>
+onboard,0,0,2318,0,0,510,0,2318,0.0,Lao <lo@li.org>
+openerp,429,0,14231,146,0,2328,173,14660,2.926330150068213,Lao <lo@li.org>
+openerp-client,11,0,7718,5,0,569,5,7729,0.14232112821839824,Lao <lo@li.org>
+openerp7,222,0,15412,101,0,2603,108,15634,1.4199820903159779,Lao <lo@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Lao (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/lo/)
+passwd,0,0,315,0,0,55,0,315,0.0,LANGUAGE <LL@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Lao (http://www.transifex.com/projects/p/python-meh/language/lo/)
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhn-client-tools,0,0,4057,0,0,420,0,4057,0.0,Lao (http://www.transifex.com/projects/p/spacewalk/language/lo/)
+rhnsd,0,0,37,0,0,9,0,37,0.0,LANGUAGE <LL@li.org>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+snapper,0,52,691,0,12,168,0,743,0.0,Lao <i18n@suse.de>
+sos,0,0,267,0,0,36,0,267,0.0,none
+stellarium,231,0,23301,194,0,5613,199,23532,0.9816420193778685,Lao <lo@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-date,0,0,1850,0,0,824,0,1850,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,0,0,2814,0,0,331,0,2814,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Lao (http://www.transifex.com/projects/p/system-config-kickstart/language/lo/)
+system-config-network,0,0,3032,0,0,721,0,3032,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,571,0,0,134,0,571,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,534,0,0,72,0,534,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+yum-rhn-plugin,0,0,147,0,0,17,0,147,0.0,LANGUAGE <LL@li.org>

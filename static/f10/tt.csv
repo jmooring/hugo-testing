@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atk,359,7,4,114,6,3,292,370,97.02702702702702,Tatarish <tatarish.l10n@gmail.com>
+gimp,1781,20,8128,900,6,1501,1743,9929,17.937355222076746,Tatarish <tatarish.l10n@gmail.com>
+glib2,310,261,1626,50,52,246,262,2197,14.110150204824762,Tatarish <tatarish.l10n@gmail.com>
+gtk2,1325,696,10739,538,231,1794,1083,12760,10.384012539184953,Tatarish <tatarish.l10n@gmail.com>
+iso-codes,1070,3145,8153,665,2637,5334,938,12368,8.651358344113842,Tatarish <tatarish.l10n@gmail.com>
+libgnome,156,0,1338,56,0,172,144,1494,10.441767068273093,Tatarish <tatarish.l10n@gmail.com>
+libgnomecanvas,357,0,0,94,0,0,300,357,100.0,Tatarish <tatarish.l10n@gmail.com>
+libgnomeui,536,0,883,215,0,130,470,1419,37.77307963354475,Tatarish <tatarish.l10n@gmail.com>
+mingw32-atk,359,8,8,114,7,5,292,375,95.73333333333333,Tatarish <tatarish.l10n@gmail.com>
+mingw32-glib2,310,264,1751,50,53,265,262,2325,13.333333333333334,Tatarish <tatarish.l10n@gmail.com>
+mingw32-gtk2,1142,778,10480,412,249,1652,942,12400,9.20967741935484,Tatarish <tatarish.l10n@gmail.com>
+poedit,1031,105,26,244,23,2,867,1162,88.7263339070568,Tatarish <tatarish.l10n@gmail.com>
+stardict,891,801,748,172,89,200,705,2440,36.51639344262295,tt <tatarish.l10n@gmail.com>

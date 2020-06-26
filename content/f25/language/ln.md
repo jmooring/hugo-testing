@@ -1,0 +1,87 @@
+---
+title: "ln-Lingala (Lingála) - translation progress for f25"
+date: 2026-01-17T16:30:47+00:00
+code: ln
+name_english: Lingala
+name_local: Lingála
+progress: 45.35
+progress_d: 0.07
+release: f25
+territories:
+ - AO
+ - CD
+ - CF
+ - CG
+polib_error_count: 0
+could_not_process_count: 33
+---
+
+Language progress for Lingala (ln) in Fedora f25 is:
+
+* 45.35% when we only look on started packages for this language.
+* 0.07% when we compare to every single translatable string in Fedora f25.
+
+Possible scripts are: Latn
+
+* Total translatable string in Fedora f25: 14474492
+* Source words to translate in started packages: 23753
+* Translated words: 10772
+
+
+Download:
+
+
+
+
+* [ln generated stats (2.0 kB)]({{% resource url="/f25/ln.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [gedit]({{< ref "/f25/package/gedit.md" >}}) | 4280 | 4280 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [gnome-characters]({{< ref "/f25/package/gnome-characters.md" >}}) | 155 | 155 | 100.0 | lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [gnome-documents]({{< ref "/f25/package/gnome-documents.md" >}}) | 646 | 646 | 100.0 | lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [gnome-themes-standard]({{< ref "/f25/package/gnome-themes-standard.md" >}}) | 10 | 10 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [gnome-user-share]({{< ref "/f25/package/gnome-user-share.md" >}}) | 52 | 52 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [nautilus]({{< ref "/f25/package/nautilus.md" >}}) | 5489 | 5489 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [nautilus-sendto]({{< ref "/f25/package/nautilus-sendto.md" >}}) | 45 | 45 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [openerp]({{< ref "/f25/package/openerp.md" >}}) | 57 | 851 | 6.7 | Lingala <ln@li.org> | 
+ | [openerp7]({{< ref "/f25/package/openerp7.md" >}}) | 38 | 1127 | 3.4 | Lingala <ln@li.org> | 
+ | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience]({{< ref "/f25/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
+ | [lightdm]({{< ref "/f25/package/lightdm.md" >}}) | 0 | 84 | 0.0 | Lingala <ln@li.org> | 
+ | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise]({{< ref "/f25/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | Lingala <ln@li.org> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

@@ -1,0 +1,25 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deluge,1998,0,0,689,0,0,2220,1998,100.0,Asturian <ast@li.org>
+epiphany,4225,14,0,913,3,0,4421,4239,99.6697334276952,Asturian <ast@li.org>
+evolution,17291,0,4554,4592,0,406,18833,21845,79.15312428473335,Asturian <ast@li.org>
+glunarclock,138,17,76,48,4,19,154,231,59.74025974025974,Ricardo Mones Lastra <mones@aic.uniovi.es>
+gnome-applet-window-picker,22,3,4,6,1,2,26,29,75.86206896551724,Asturian
+gnome-applets,2957,157,258,668,47,78,3646,3372,87.69276393831554,Asturian <xspuente@gmail.com>
+gnome-desktop,285,0,0,71,0,0,332,285,100.0,Asturian <xspuente@gmail.com>
+gnome-do,111,0,122,35,0,31,120,233,47.63948497854077,Asturian <ast@li.org>
+gnome-menus,157,0,0,56,0,0,182,157,100.0,Asturian <xspuente@gmail.com>
+gnome-panel,4582,0,0,629,0,0,4836,4582,100.0,Asturian <xspuente@gmail.com>
+gnome-power-manager,592,0,2759,111,0,355,667,3351,17.666368248284094,Asturian <xspuente@gmail.com>
+gnome-screensaver,966,0,0,154,0,0,997,966,100.0,Asturian <xspuente@gmail.com>
+gnome-session,703,6,5,112,1,1,789,714,98.45938375350141,Asturian <xspuente@gmail.com>
+gtk2,3700,0,9060,978,0,1585,3874,12760,28.996865203761757,Asturian <xspuente@gmail.com>
+homebank,1365,0,0,446,0,0,1450,1365,100.0,Asturian <ast@li.org>
+listen,1066,125,551,444,34,58,1223,1742,61.19402985074627,Softastur <alministradores@softastur.org
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,Asturian <xspuente@gmail.com>
+mingw32-gtk2,3031,5,9364,657,5,1651,3442,12400,24.443548387096776,Asturian <xspuente@gmail.com>
+nautilus,7757,0,461,1247,0,42,7835,8218,94.39036261864202,Asturian <xspuente@gmail.com>
+nautilus-sendto,285,0,5,59,0,1,305,290,98.27586206896551,Asturian <xspuente@gmail.com>
+poedit,999,137,26,243,24,2,1055,1162,85.97246127366608,Softastur
+quitcount,166,0,0,40,0,0,169,166,100.0,None
+tuxpaint,761,0,0,186,0,0,751,761,100.0,Asturian
+tuxpaint-stamps,2604,13,0,624,2,0,2607,2617,99.50324799388612,Asturian <alarmes@wanadoo.es>

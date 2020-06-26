@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,0,0,7238,0,0,1806,0,7238,0.0,Moroccan Arabic <ary@li.org>
+tilix,83,71,2275,41,12,607,93,2429,3.417044051049815,Arabic (Morocco) <https://hosted.weblate.org/projects/tilix/translations/ar_MA/>

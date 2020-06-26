@@ -1,0 +1,147 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4032,0,0,481,0,0,4069,4032,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+abiword,4134,77,433,1396,24,100,3865,4644,89.01808785529715,Karl Ove Hufthammer <karl@huftis.org>
+amarok,12754,6,432,2497,2,4,11846,13192,96.67980594299576,Norwegian Nynorsk <nn@li.org>
+anaconda,199,2304,7700,104,597,544,195,10203,1.95040674311477,Norwegian (nynorsk)
+at-spi,15,0,0,4,0,0,12,15,100.0,Norsk nynorsk <i18n-nn@lister.ping.uio.no>
+atk,370,0,0,123,0,0,294,370,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+authconfig,5,324,804,5,98,120,5,1133,0.44130626654898497,Norwegian (Nynorsk)
+balsa,135,2249,2964,95,752,440,133,5348,2.524308152580404,Norwegian (Nynorsk)
+basket,4581,0,0,694,0,0,4341,4581,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+bibletime,3126,19,292,573,8,39,2839,3437,90.9514111143439,nynorsk <nn@li.org>
+bittorrent,37,0,3869,12,0,622,37,3906,0.9472606246799795,LANGUAGE <LL@li.org>
+bug-buddy,851,0,0,81,0,0,787,851,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+chkconfig,6,137,287,6,23,59,6,430,1.3953488372093024,Norwegian (Nynorsk)
+cinepaint,473,2273,4659,298,970,667,484,7405,6.387575962187711,Norwegian (Nynorsk) <nn@li.org>
+control-center,3545,0,0,777,0,0,3387,3545,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+cycle,199,0,0,65,0,0,204,199,100.0,<magnio@pvv.org>
+dasher,311,0,0,113,0,0,307,311,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+dia,752,2244,2715,414,933,699,732,5711,13.16757135352828,Norwegian Nynorsk <nn@li.org>
+digikam,1192,5255,9490,352,845,867,1133,15937,7.479450335696806,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+eel2,235,0,0,52,0,0,212,235,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+eog,819,0,0,192,0,0,906,819,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+epiphany,3966,0,0,875,0,0,3694,3966,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+evince,847,0,0,251,0,0,855,847,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+evolution,18876,0,0,4593,0,0,17599,18876,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+evolution-data-server,4982,0,3,1032,0,1,4921,4985,99.93981945837513,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+evolution-exchange,1225,0,0,186,0,0,1189,1225,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+exaile,1226,75,28,356,21,8,1220,1329,92.24981188863808,Norwegian Nynorsk <i18n-no@skolelinux.no
+file-roller,952,0,0,239,0,0,963,952,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+frozen-bubble,616,0,0,137,0,0,639,616,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gail,170,0,0,103,0,0,178,170,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+galeon,3830,0,0,1223,0,0,3712,3830,100.0,Norwegian/Nynorsk <no@li.org>
+gcompris,10250,0,0,1191,0,0,8841,10250,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gdm,5475,0,0,778,0,0,5323,5475,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gedit,4880,0,0,1123,0,0,4544,4880,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gedit-plugins,17,713,1516,16,215,197,23,2246,0.7569011576135352,Norwegian (Nynorsk)
+gettext,180,1075,5133,29,102,475,164,6388,2.817783343769568,Norwegian-nynorsk <no@li.org>
+ghex,26,210,156,24,66,24,28,392,6.63265306122449,Norwegian (Nynorsk)
+glade2,138,2732,2970,116,803,381,135,5840,2.363013698630137,Norwegian (Nynorsk)
+glib2,1182,61,113,140,9,24,1182,1356,87.16814159292035,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-applets,3868,0,0,977,0,0,3616,3868,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-backgrounds,18,0,0,9,0,0,12,18,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-desktop,323,0,0,73,0,0,334,323,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-games,3094,1223,2749,764,407,527,2847,7066,43.78714973110671,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-icon-theme,52,0,0,46,0,0,51,52,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-keyring-manager,365,0,0,96,0,0,331,365,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-libs,988,40,57,381,4,10,978,1085,91.05990783410138,Norwegian <no@li.org>
+gnome-mag,5,0,0,2,0,0,3,5,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-media,1793,0,0,507,0,0,1645,1793,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-menus,84,0,52,37,0,12,81,136,61.76470588235294,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-mime-data,887,0,0,362,0,0,612,887,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-netstatus,425,0,0,110,0,0,398,425,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-panel,4085,0,0,549,0,0,3863,4085,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-pilot,29,636,908,21,182,131,30,1573,1.8436109345200253,Norwegian (Nynorsk)
+gnome-pilot-conduits,14,4,191,8,2,40,13,209,6.698564593301436,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-schedule,990,0,8,209,0,1,931,998,99.19839679358718,Norwegian/Nynorsk <nn@li.org>
+gnome-session,566,0,0,105,0,0,539,566,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-system-monitor,634,0,11,173,0,4,600,645,98.29457364341086,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-terminal,4599,0,0,513,0,0,4222,4599,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-themes,95,0,6,32,0,2,107,101,94.05940594059405,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-utils,1421,467,728,279,94,99,1402,2616,54.31957186544343,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-vfs2,1506,0,0,300,0,0,1362,1506,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnome-volume-manager,440,0,684,64,0,119,421,1124,39.14590747330961,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gnotime,1023,309,340,252,60,48,948,1672,61.18421052631579,Norwegian/Nynorsk <no@li.org>
+gnumeric,5332,2922,37484,1793,878,1489,5201,45738,11.657702566793477,Norwegian/Nynorsk <no@li.org>
+goffice,487,899,1643,243,394,521,491,3029,16.077913502806208,Norwegian/Nynorsk <no@li.org>
+goffice04,434,1049,2507,197,476,692,439,3990,10.87719298245614,Norwegian/Nynorsk <no@li.org>
+gthumb,898,1405,260,412,366,87,836,2563,35.03706593835349,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gtk+,202,0,0,105,0,0,203,202,100.0,Norwegian <no@li.org>
+gtk-qt-engine,155,0,0,28,0,0,130,155,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gtk2,6538,2471,3083,1232,497,683,6008,12092,54.068805822031095,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+gtkhtml3,641,104,204,334,28,63,652,949,67.54478398314015,Norwegian/Nynorsk <no@li.org>
+gtkhtml38,641,104,204,334,28,63,652,949,67.54478398314015,Norwegian/Nynorsk <no@li.org>
+gtranslator,878,417,119,273,64,32,862,1414,62.0933521923621,Norwegian/Nynorsk <nn@li.org>
+gucharmap,423,23,61,212,7,19,400,507,83.4319526627219,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+horde,461,1285,5295,152,385,1387,432,7041,6.547365431046727,Norwegian Nynorsk <nynorsk@orsta.org>
+im-chooser,0,0,172,0,0,24,0,172,0.0,none
+imp,1628,1955,2007,405,407,313,1535,5590,29.123434704830053,Norwegian Nynorsk <nynorsk@orsta.org>
+initscripts,53,1310,2370,20,400,437,50,3733,1.4197696222877043,Norwegian (Nynorsk)
+inkscape,7550,2106,1992,1549,614,314,7317,11648,64.8179945054945,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+iso-codes,1928,3661,7410,1046,2832,5051,1570,12999,14.83191014693438,Norwegian Nynorsk
+isomaster,655,0,0,101,0,0,597,655,100.0,<oversettelse@ubuntu.no>
+k3b,12439,2581,5610,1826,363,343,11730,20630,60.29568589432864,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+kaffeine,2280,58,16,638,13,7,2107,2354,96.85641461342396,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+kdbg,165,26,231,64,12,78,159,422,39.09952606635071,Norsk (nynorsk)
+kerry,384,38,64,102,12,20,357,486,79.01234567901234,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+kile,9632,193,245,1421,47,44,8357,10070,95.65044687189672,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+kipi-plugins,241,30,403,81,4,46,241,674,35.75667655786351,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+kronolith,301,311,886,129,115,163,281,1498,20.093457943925234,Norwegian Nynorsk <nynorsk@orsta.org>
+kudzu,0,25,48,0,5,8,0,73,0.0,Norwegian (nynorsk)
+libbonobo,543,0,0,107,0,0,497,543,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libbonoboui,361,0,0,114,0,0,342,361,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libgnome,1547,22,87,244,4,8,1424,1656,93.41787439613528,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libgnomecanvas,357,0,0,94,0,0,301,357,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libgnomeprint22,158,6,4,95,1,2,150,168,94.04761904761905,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libgnomeprintui22,472,0,0,151,0,0,456,472,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libgnomeui,1309,0,0,334,0,0,1176,1309,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libgtop2,118,16,0,42,2,0,105,134,88.05970149253731,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libkexif,21,4,0,13,1,0,17,25,84.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+libvirt,1290,656,351,308,127,72,1290,2297,56.160208968219415,none
+libwnck,73,0,0,30,0,0,79,73,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+lyx,8940,346,361,3441,97,38,8803,9647,92.67129677619985,Nynorsk <nn@li.org>
+metacity,6923,0,9,471,0,2,6417,6932,99.87016733987305,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+nano,293,1336,620,101,155,106,265,2249,13.02801244997777,Norwegian nynorsk <i18n-nn@lister.ping.uio.no>
+nautilus,6737,0,37,1111,0,3,6272,6774,99.45379391792146,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+nautilus-cd-burner,587,0,0,100,0,0,580,587,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+neon,76,224,187,14,44,38,72,487,15.605749486652979,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+newt,4,0,0,4,0,0,4,4,100.0,Irish <nn@li.org>
+notecase,161,260,735,73,90,193,188,1156,13.927335640138407,NoteCase team
+parted,1304,1473,2009,194,125,238,1245,4786,27.246134559130798,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pidgin,14776,521,357,3145,118,73,14212,15654,94.39120991439887,
+pingus,1951,42,267,195,17,63,1809,2260,86.32743362831859,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+planner,102,419,568,64,187,104,110,1089,9.366391184573002,Norwegian/Nynorsk <nn@li.org>
+poedit,1134,0,0,266,0,0,1016,1134,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+sabayon,816,0,0,167,0,0,784,816,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+setroubleshoot,0,0,507,0,0,136,0,507,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7829,0,0,233,0,7829,0.0,LANGUAGE <LL@li.org>
+shadow-utils,1479,295,1141,293,62,45,1519,2915,50.737564322469986,Norwegian (Nynorsk) <i18n-nn@lister.ping.uio.no>
+shared-mime-info,945,0,0,408,0,0,606,945,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+sharutils,35,61,943,6,14,131,33,1039,3.368623676612127,Norwegian-nynorsk <no@li.org>
+sound-juicer,697,0,0,142,0,0,678,697,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+specspo,2393,46521,256380,89,5494,11267,1958,305294,0.7838345987801922,Norwegian <no@li.org>
+squirrelmail,15108,4,0,2621,1,0,13821,15112,99.97353096876654,Norwegian Nynorsk <squirrelmail-i18n@lists.sourceforge.net>
+stellarium,907,120,69,422,22,32,913,1096,82.75547445255475,Norwegian Nynorsk <nn@li.org>
+supertux,687,64,0,97,1,0,707,751,91.4780292942743,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+switchdesk,4,3,130,2,1,16,3,137,2.9197080291970803,<en@li.org>
+sysstat,223,0,0,25,0,0,217,223,100.0,
+system-config-bind,2,450,8964,2,131,928,2,9416,0.021240441801189464,Norwegian (Nynorsk)
+system-config-date,9,43,945,5,12,591,7,997,0.9027081243731194,Norwegian
+system-config-httpd,39,544,275,34,155,34,38,858,4.545454545454546,Norwegian (Nynorsk)
+system-config-printer,3,167,1115,3,89,234,3,1285,0.23346303501945526,Norwegian (nynorsk)
+tellico,5140,0,10,1049,0,2,4340,5150,99.80582524271846,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+totem,1782,0,0,372,0,0,1637,1782,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+turba,83,526,643,36,123,135,83,1252,6.6293929712460065,Norwegian Nynorsk <nynorsk@orsta.org>
+tuxpaint,591,0,0,159,0,0,622,591,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+tuxpaint-stamps,1789,0,119,492,0,7,1602,1908,93.76310272536688,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+vino,315,0,225,58,0,12,301,540,58.333333333333336,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+vte,96,0,0,18,0,0,104,96,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+xdg-user-dirs-gtk,52,0,0,8,0,0,46,52,100.0,Norwegian bokmal <i18n-nb@lister.ping.uio.no>
+xmms,2368,542,335,842,103,72,2229,3245,72.97380585516179,nynorsk <nn@li.org>
+xmoto,1932,462,239,461,54,19,1905,2633,73.37637675655147,English <en@li.org>
+yelp,792,0,0,185,0,0,731,792,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>
+zenity,434,0,0,119,0,0,382,434,100.0,Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>

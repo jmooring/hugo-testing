@@ -1,0 +1,118 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appstream,225,23,6837,77,9,692,217,7085,3.1757233592095977,Kurdish (Central) <https://hosted.weblate.org/projects/appstream/translations/ckb/>
+arandr,10,0,163,9,0,29,10,173,5.780346820809249,Kurdish Sorani <https://hosted.weblate.org/projects/arandr/translations/ckb/>
+at-spi2-core,198,0,242,118,0,51,199,440,45.0,Kurdish (Sorani) <ckb@li.org>
+baobab,190,0,85,62,0,11,171,275,69.0909090909091,Kurdish Sorani <ckb@li.org>
+bijiben,82,0,334,50,0,77,86,416,19.71153846153846,Central Kurdish <kurdish-ckb@zkurd.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+bottles,798,859,1794,176,263,237,778,3451,23.123732251521297,Kurdish (Central) <https://hosted.weblate.org/projects/bottles/bottles/ckb/>
+brasero,141,0,4943,92,0,850,147,5084,2.773406766325728,Central Kurdish <kurdish-ckb@zkurd.org>
+breezy,23,0,36617,4,0,2548,23,36640,0.06277292576419215,"Kurdish, Central <ckb@li.org>"
+budgie-control-center,3568,0,3033,1120,0,650,3461,6601,54.05241630056052,Central Kurdish (https://app.transifex.com/buddiesofbudgie/teams/129844/ckb/)
+budgie-session,137,0,277,34,0,32,115,414,33.091787439613526,Kurdish Sorani <ckb@li.org>
+cheese,310,0,318,99,0,31,295,628,49.36305732484077,Kurdish Sorani <ckb@li.org>
+cinnamon-translations,11,0,8751,4,0,2154,15,8762,0.12554211367267748,"Kurdish, Central <ckb@li.org>"
+deja-dup,809,0,814,208,0,77,785,1623,49.84596426370918,Kurdish (Sorani) <ckb@li.org>
+dialect,456,4,423,395,1,115,455,883,51.642129105322766,
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-calculator,130,2,42,55,1,6,147,174,74.71264367816092,Sorani <https://l10n.elementary.io/projects/calculator/calculator/ckb/>
+elementary-calendar,552,22,78,205,7,9,604,652,84.66257668711657,Sorani <https://l10n.elementary.io/projects/calendar/calendar/ckb/>
+elementary-camera,123,10,8,33,2,1,131,141,87.2340425531915,Kurdish (Central) <https://l10n.elementary.io/projects/camera/camera/ckb/>
+elementary-code,863,161,573,188,41,80,909,1597,54.03882279273638,Kurdish (Central) <https://l10n.elementary.io/projects/code/code/ckb/>
+elementary-files,1989,176,441,427,54,80,1810,2606,76.32386799693016,Kurdish (Central) <https://l10n.elementary.io/projects/files/files/ckb/>
+elementary-icon-theme,8,0,341,2,0,61,7,349,2.292263610315186,Kurdish (Central) <https://l10n.elementary.io/projects/desktop/icons-extra/ckb/>
+elementary-mail,303,84,474,100,27,80,299,861,35.19163763066202,Kurdish (Central) <https://l10n.elementary.io/projects/mail/mail/ckb/>
+elementary-music,44,24,163,16,4,25,48,231,19.047619047619047,Kurdish (Central) <https://l10n.elementary.io/projects/music/music/ckb/>
+elementary-notifications,15,0,25,4,0,4,13,40,37.5,Kurdish (Central) <https://l10n.elementary.io/projects/desktop/notifications-extra/ckb/>
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,9,4,2849,5,1,656,8,2862,0.3144654088050315,Kurdish (Central) <https://l10n.elementary.io/projects/photos/photos/ckb/>
+elementary-screenshot,57,2,69,20,2,15,56,128,44.53125,Kurdish (Central) <https://l10n.elementary.io/projects/screenshot/screenshot/ckb/>
+eog,713,0,1020,259,0,82,683,1733,41.142527409117136,Kurdish (Sorani) <ckb@li.org>
+epiphany,143,0,4061,113,0,659,149,4204,3.401522359657469,Central Kurdish <kurdish-ckb@zkurd.org>
+evolution,979,0,27029,581,0,5040,1011,28008,3.495429877177949,Central Kurdish <kurdish-ckb@zkurd.org>
+file-roller,716,0,491,225,0,51,652,1207,59.32062966031483,Kurdish (Sorani) <ckb@li.org>
+gala,105,69,145,35,8,24,106,319,32.9153605015674,Kurdish (Central) <https://l10n.elementary.io/projects/desktop/gala/ckb/>
+gcr,419,0,288,182,0,75,378,707,59.264497878359265,Kurdish (Sorani) <ckb@li.org>
+gcr3,419,0,288,182,0,75,378,707,59.264497878359265,Kurdish (Sorani) <ckb@li.org>
+gdm,114,0,515,29,0,59,115,629,18.124006359300477,Kurdish Sorani <ckb@li.org>
+gedit,209,0,2807,131,0,470,223,3016,6.929708222811672,Central Kurdish <kurdish-ckb@zkurd.org>
+gimagereader,58,0,1759,19,0,463,67,1817,3.1920748486516235,Kurdish (Central) <https://hosted.weblate.org/projects/gimagereader/translations/ckb/>
+gimp,572,0,23667,455,0,5128,588,24239,2.359833326457362,Central Kurdish <kurdish-ckb@zkurd.org>
+gnome-2048,118,0,264,50,0,19,125,382,30.89005235602094,Kurdish (Sorani) <ckb@li.org>
+gnome-bluetooth,312,0,62,107,0,4,300,374,83.42245989304813,Kurdish (Sorani) <ckb@li.org>
+gnome-bluetooth3.34,312,0,62,107,0,4,300,374,83.42245989304813,Kurdish (Sorani) <ckb@li.org>
+gnome-calendar,618,0,48,210,0,2,627,666,92.7927927927928,Kurdish (Sorani) <ckb@li.org>
+gnome-characters,186,0,0,57,0,0,179,186,100.0,Kurdish (Sorani) <ckb@li.org>
+gnome-clocks,129,0,201,84,0,49,138,330,39.09090909090909,Central Kurdish <kurdish-ckb@zkurd.org>
+gnome-control-center,4510,0,1647,1400,0,297,4393,6157,73.24995939580965,Kurdish (Sorani) <ckb@li.org>
+gnome-desktop3,76,0,83,28,0,6,74,159,47.79874213836478,Kurdish Sorani <ckb@li.org>
+gnome-extensions-app,929,0,1436,337,0,197,897,2365,39.28118393234673,Kurdish (Sorani) <ckb@li.org>
+gnome-font-viewer,460,0,76,174,0,29,465,536,85.82089552238806,Kurdish (Sorani) <ckb@li.org>
+gnome-initial-setup,821,0,256,146,0,17,715,1077,76.23026926648096,Kurdish (Sorani) <ckb@li.org>
+gnome-keyring,389,0,120,87,0,16,363,509,76.42436149312377,Kurdish (Sorani) <ckb@li.org>
+gnome-mahjongg,190,0,139,67,0,7,195,329,57.75075987841946,Kurdish (Sorani) <ckb@li.org>
+gnome-menus,70,0,0,27,0,0,70,70,100.0,Kurdish Sorani <ckb@li.org>
+gnome-mines,234,0,131,72,0,6,210,365,64.10958904109589,Kurdish (Sorani) <ckb@li.org>
+gnome-online-accounts,513,0,226,131,0,29,510,739,69.41813261163735,Kurdish (Sorani) <ckb@li.org>
+gnome-photos,134,0,435,98,0,120,138,569,23.550087873462214,Central Kurdish <kurdish-ckb@zkurd.org>
+gnome-power-manager,433,0,0,124,0,0,383,433,100.0,Kurdish (Sorani) <ckb@li.org>
+gnome-screenshot,218,0,249,60,0,21,226,467,46.680942184154176,Kurdish (Sorani) <ckb@li.org>
+gnome-session,137,0,277,34,0,32,115,414,33.091787439613526,Kurdish Sorani <ckb@li.org>
+gnome-settings-daemon,48,0,694,21,0,116,46,742,6.46900269541779,Central Kurdish <kurdish-ckb@zkurd.org>
+gnome-shell,929,0,1436,337,0,197,897,2365,39.28118393234673,Kurdish (Sorani) <ckb@li.org>
+gnome-software,157,0,3743,124,0,647,165,3900,4.0256410256410255,Central Kurdish <kurdish-ckb@zkurd.org>
+gnome-sound-recorder,181,0,116,66,0,8,186,297,60.94276094276094,Kurdish (Sorani) <ckb@li.org>
+gnome-terminal,31,0,0,5,0,0,30,31,100.0,Kurdish (Sorani) <ckb@li.org>
+gnome-todo,204,0,480,79,0,70,192,684,29.82456140350877,Kurdish (Sorani) <ckb@li.org>
+gnome-tweaks,335,0,323,145,0,38,356,658,50.911854103343465,Kurdish (Sorani) <ckb@li.org>
+gnome-user-share,49,0,0,10,0,0,54,49,100.0,Central Kurdish <kurdish-ckb@zkurd.org>
+gnome-video-effects,190,0,66,55,0,13,145,256,74.21875,Kurdish (Sorani) <ckb@li.org>
+gnome-weather,130,0,64,38,0,3,143,194,67.0103092783505,Kurdish Sorani <ckb@li.org>
+granite,21,5,472,12,3,103,21,498,4.216867469879518,Kurdish (Sorani) <ckb@li.org>
+granite-7,82,27,487,44,3,65,98,596,13.758389261744966,Kurdish (Central) <https://l10n.elementary.io/projects/desktop/granite/ckb/>
+gspell,65,0,13,31,0,1,67,78,83.33333333333334,Kurdish (Sorani) <ckb@li.org>
+gtk3,1180,0,15502,649,0,3273,1136,16682,7.073492387003956,Kurdish Sorani <ckb@li.org>
+harvey,0,0,216,0,0,38,0,216,0.0,none
+homebank,415,0,2883,213,0,838,403,3298,12.583383869011522,Kurdish (Sorani) <ckb@li.org>
+hunspell,40,0,573,17,0,62,40,613,6.525285481239804,Kurdish (Central) <https://hosted.weblate.org/projects/hunspell/translations/ckb/>
+iso-codes,273,13,703,196,4,225,253,989,27.603640040444894,Central Kurdish <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ckb/>
+libreoffice,25596,9,147810,14255,5,24778,25941,173415,14.759968860825188,Central Kurdish <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/ckb/>
+libsecret,59,0,0,9,0,0,52,59,100.0,Kurdish (Sorani) <ckb@li.org>
+libwnck3,489,0,597,163,0,68,453,1086,45.027624309392266,Kurdish (Sorani) <ckb@li.org>
+lightdm,0,0,163,0,0,21,0,163,0.0,Kurdish (Sorani) <ckb@li.org>
+maliit-keyboard,31,4,46,31,2,28,31,81,38.2716049382716,Kurdish (Sorani) <ckb@li.org>
+mate-menu,5,0,303,2,0,108,5,308,1.6233766233766231,Kurdish (Sorani) <ckb@li.org>
+mingw-atk,198,0,242,118,0,51,199,440,45.0,Kurdish (Sorani) <ckb@li.org>
+mingw-gtk3,1180,0,15502,649,0,3273,1136,16682,7.073492387003956,Kurdish Sorani <ckb@li.org>
+mingw-hunspell,40,0,573,17,0,62,40,613,6.525285481239804,Kurdish (Central) <https://hosted.weblate.org/projects/hunspell/translations/ckb/>
+mypaint,379,109,5893,162,48,1060,396,6381,5.9395079141200435,Sorani <https://hosted.weblate.org/projects/mypaint/mypaint/ckb/>
+nautilus,1481,0,2984,610,0,446,1441,4465,33.16909294512878,Kurdish Sorani <ckb@li.org>
+onionshare,598,0,4010,41,0,144,627,4608,12.977430555555555,none
+orca,655,0,5061,347,0,1539,657,5716,11.459062281315607,Kurdish (Sorani) <ckb@li.org>
+polari,78,0,759,48,0,143,88,837,9.31899641577061,Central Kurdish <kurdish-ckb@zkurd.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django,3738,0,106,870,0,15,3388,3844,97.24245577523412,Central Kurdish (http://app.transifex.com/django/django/language/ckb/)
+python-django-mailman3,0,0,437,0,0,74,0,437,0.0,LANGUAGE <LL@li.org>
+python-django4.2,3738,0,106,870,0,15,3388,3844,97.24245577523412,Central Kurdish (http://app.transifex.com/django/django/language/ckb/)
+python-django5,3952,0,0,921,0,0,3595,3952,100.0,Central Kurdish (http://app.transifex.com/django/django/language/ckb/)
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,540,3211,1656,77,741,200,498,5407,9.987053819123357,Kurdish (Central) <https://hosted.weblate.org/projects/remmina/remmina/ckb/>
+rhythmbox-alternative-toolbar,165,0,127,51,0,7,155,292,56.5068493150685,Kurdish (Sorani) <ckb@li.org>
+sigil,40,0,573,17,0,62,40,613,6.525285481239804,Kurdish (Central) <https://hosted.weblate.org/projects/hunspell/translations/ckb/>
+slick-greeter,22,0,194,9,0,40,25,216,10.185185185185185,Kurdish (Sorani) <ckb@li.org>
+sushi,23,0,10,12,0,1,22,33,69.6969696969697,Kurdish (Sorani) <ckb@li.org>
+terminator,1,0,1521,1,0,414,1,1522,0.0657030223390276,Central Kurdish (https://www.transifex.com/terminator/teams/109338/ckb/)
+totem-pl-parser,29,0,0,8,0,0,26,29,100.0,Kurdish (Sorani) <ckb@li.org>
+transmission,177,0,2264,88,0,497,182,2441,7.251126587464155,Central Kurdish (https://app.transifex.com/transmissionbt/teams/33778/ckb/)
+video-downloader,151,3,1,62,1,1,165,155,97.41935483870968,Kurdish (Central) <https://hosted.weblate.org/projects/video-downloader/gui/ckb/>
+vte291,31,0,0,5,0,0,30,31,100.0,Kurdish (Sorani) <ckb@li.org>
+wingpanel,18,0,39,4,0,6,20,57,31.57894736842105,Kurdish (Central) <https://l10n.elementary.io/projects/wingpanel/wingpanel/ckb/>
+wingpanel-indicator-a11y,35,0,20,14,0,3,37,55,63.63636363636363,Kurdish (Central) <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/ckb/>
+wingpanel-indicator-bluetooth,37,0,43,20,0,10,34,80,46.25,Kurdish (Central) <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/ckb/>
+wingpanel-indicator-datetime,49,0,54,11,0,14,38,103,47.57281553398058,Kurdish (Central) <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ckb/>
+wingpanel-indicator-keyboard,33,0,23,10,0,7,30,56,58.92857142857143,Kurdish (Central) <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/ckb/>
+xapps,19,0,54,13,0,23,19,73,26.027397260273972,"Kurdish, Central <ckb@li.org>"
+yelp,351,0,0,74,0,0,303,351,100.0,Kurdish (Sorani) <ckb@li.org>
+yelp-xsl,67,0,21,53,0,11,76,88,76.13636363636364,Kurdish (Sorani) <ckb@li.org>

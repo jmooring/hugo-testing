@@ -1,0 +1,754 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3975,0,0,1268,0,0,4185,3975,100.0,Portuguese <>
+GConf2,4024,0,0,485,0,0,4602,4024,100.0,Portuguese <gnome_pt@yahoogroups.com>
+LabPlot,0,1817,1433,0,963,386,0,3250,0.0,LANGUAGE <LL@li.org>
+Miro,3336,0,0,724,0,0,3760,3336,100.0,Portuguese <pt@li.org>
+NetworkManager,2495,0,0,542,0,0,2875,2495,100.0,Portuguese <gnome_pt@yahoogroups.com>
+NetworkManager-openconnect,56,0,0,17,0,0,68,56,100.0,Portuguese <gnome_pt@yahoogroups.com>
+NetworkManager-openswan,139,0,0,36,0,0,160,139,100.0,Portuguese <gnome_pt@yahoogroups.com>
+NetworkManager-openvpn,276,0,0,82,0,0,306,276,100.0,Portuguese <gnome_pt@yahoogroups.com>
+NetworkManager-pptp,144,0,0,44,0,0,156,144,100.0,Portuguese <gnome_pt@yahoogroups.com>
+NetworkManager-vpnc,156,0,0,41,0,0,177,156,100.0,Portuguese <gnome_pt@yahoogroups.com>
+PackageKit,1552,0,68,363,0,12,1873,1620,95.80246913580247,LANGUAGE <LL@li.org>
+Terminal,6200,0,0,653,0,0,6565,6200,100.0,
+Thunar,3887,0,0,679,0,0,3993,3887,100.0,
+WindowMaker,4153,0,0,750,0,0,4568,4153,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+a2ps,1384,128,0,175,4,0,1504,1512,91.53439153439153,Portuguese <pt@li.org>
+abrt,426,80,1096,100,10,121,502,1602,26.591760299625467,Portuguese <trans-pt@lists.fedoraproject.org>
+aeskulap,0,0,313,0,0,130,0,313,0.0,LANGUAGE <LL@li.org>
+ailurus,8278,0,0,1253,0,0,8884,8278,100.0,
+akonadi-googledata,86,0,0,18,0,0,119,86,100.0,Portuguese <kde-i18n-pt@kde.org>
+alacarte,42,0,0,16,0,0,47,42,100.0,Portuguese <gnome_pt@yahoogroups.com>
+alexandria,1067,45,69,280,12,14,1153,1181,90.3471634208298,Lígia Moreira <ligia.moreira@netvisao.pt>
+alleyoop,342,0,0,87,0,0,388,342,100.0,Portuguese <gnome_pt@yahoogroups.com>
+amarok,14400,0,0,2593,0,0,17303,14400,100.0,pt <kde-i18n-pt@kde.org>
+anaconda,9100,0,346,1153,0,20,10089,9446,96.33707389371162,Portuguese <trans-pt@lists.fedoraproject.org>
+anjuta,8034,0,0,2043,0,0,9541,8034,100.0,Portuguese <gnome_pt@yahoogroups.com>
+ardour,1365,1453,1587,521,448,341,1577,4405,30.98751418842225,Portuguese
+aria2,351,125,4598,49,15,262,369,5074,6.9176192353173045,Portuguese <pt@li.org>
+ario,780,0,0,279,0,0,925,780,100.0,Portuguese <pt@li.org>
+asunder,443,9,0,80,2,0,499,452,98.00884955752213,
+at-spi,61,0,0,7,0,0,69,61,100.0,Portuguese <gnome_pt@yahoogroups.com>
+at-spi2-atk,7,0,0,1,0,0,8,7,100.0,Portuguese <gnome_pt@yahoogroups.com>
+at-spi2-core,122,0,0,18,0,0,140,122,100.0,Portuguese <gnome_pt@yahoogroups.com>
+atk,375,0,0,126,0,0,448,375,100.0,Portuguese <gnome_pt@yahoogroups.com>
+atomix,125,0,0,44,0,0,139,125,100.0,Portuguese <gnome_pt@yahoogroups.org>
+audacious,599,65,165,219,33,37,735,829,72.25572979493366,Portuguese <traduz@debianpt.org>
+audex,3487,4,0,424,1,0,4245,3491,99.88541965052994,Portuguese <kde-i18n-pt@kde.org>
+audit-viewer,611,0,0,185,0,0,676,611,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+authconfig,1332,0,8,237,0,2,1539,1340,99.40298507462687,trans-pt@lists.fedoraproject.org
+avant-window-navigator,171,4,1654,19,3,295,169,1829,9.349371241115364,Portuguese <pt@li.org>
+avogadro,2991,0,1271,1060,0,485,3515,4262,70.17832003754107,Portuguese <pt@li.org>
+awn-extras-applets,54,0,5299,17,0,1134,54,5353,1.0087801232953484,Portuguese <pt@li.org>
+backintime,294,0,625,97,0,83,320,919,31.991294885745376,Portuguese <pt@li.org>
+balsa,4230,1362,40,1038,299,7,4728,5632,75.1065340909091,
+banshee,5890,0,0,1525,0,0,6870,5890,100.0,gnome_pt@yahoogroups.com
+banshee-community-extensions,1137,0,19,269,0,3,1338,1156,98.35640138408304,LANGUAGE <LL@li.org>
+basket,4194,327,112,620,46,39,4530,4633,90.52449816533563,Português <pt@li.org>
+bibus,603,577,703,225,153,175,736,1883,32.023366967604886,pt <LL@li.org>
+bison,134,13,956,34,3,134,149,1103,12.14868540344515,Portuguese <translation-team-pt@lists.sourceforge.net>
+bittorrent,3640,0,264,601,0,32,4013,3904,93.23770491803278,Portugese <bugs@bittorrent.com>
+blam,219,0,0,72,0,0,234,219,100.0,Portuguese <gnome_pt@yahoogroups.com>
+bluedevil,617,0,0,198,0,0,740,617,100.0,Portuguese <kde-i18n-pt@kde.org>
+bluefish,1359,919,1541,670,338,277,1597,3819,35.58523173605656,Portuguese <translation-team-pt@lists.sourceforge.net>
+blueman,766,0,610,241,0,111,882,1376,55.66860465116279,Portuguese <pt@li.org>
+brasero,5493,0,0,971,0,0,5925,5493,100.0,gnome_pt@yahoogroups.com
+byobu,177,0,0,44,0,0,211,177,100.0,Portuguese <pt@li.org>
+bzflag,0,0,0,0,0,0,0,0,0.0,
+bzr-explorer,0,0,1656,0,0,469,0,1656,0.0,Portuguese <pt@li.org>
+calibre,13941,0,15708,2055,0,1251,15653,29649,47.02013558636042,Portuguese <pt@li.org>
+camorama,586,0,0,137,0,0,694,586,100.0,Portuguese <gnome_pt@yahoogroups.com>
+ccsm,549,0,0,135,0,0,605,549,100.0,Portuguese (Portugal) <pt@li.org>
+celestia,1971,6,2,840,1,1,2425,1979,99.59575543203638,Portuguese <zeraeiro@gmail.com>
+certmonger,1029,0,0,173,0,0,1160,1029,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+cheese,294,0,0,72,0,0,341,294,100.0,Portuguese <gnome_pt@yahoogroups.com>
+chkconfig,487,0,0,93,0,0,563,487,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+choqok,1914,0,0,473,0,0,2351,1914,100.0,Portuguese <kde-i18n-pt@kde.org>
+chronojump,1796,0,0,554,0,0,1996,1796,100.0,Portuguese <gnome_pt@yahoogroups.com>
+cinepaint,1941,1706,3760,724,702,513,2238,7407,26.20494127176995,Portuguese <pt@li.org>
+clamtk,557,0,248,173,0,46,602,805,69.19254658385093,LANGUAGE <LL@li.org>
+clementine,3158,0,0,891,0,0,3547,3158,100.0,
+coccinella,5046,49,263,1313,14,10,5442,5358,94.17693169092945,Portuguese <en@li.org>
+colord,25,0,363,8,0,91,30,388,6.443298969072164,LANGUAGE <LL@li.org>
+common-lisp-controller,57,0,0,7,0,0,67,57,100.0,Native Portuguese <traduz@debianpt.org>
+compat-libgda,2291,0,0,477,0,0,2710,2291,100.0,Portuguese <gnome_pt@yahoogroups.com>
+compiz,3250,0,0,717,0,0,3874,3250,100.0,
+compiz-fusion,8406,0,0,1632,0,0,10022,8406,100.0,
+conduit,834,0,0,297,0,0,1029,834,100.0,
+conglomerate,2777,282,3258,485,155,498,2901,6317,43.96074085800222,Portuguese <gnome_pt@yahoogroups.com>
+contacts,284,1,0,74,1,0,288,285,99.64912280701755,Portuguese <gnome_pt@yahoogroups.com>
+control-center,3900,0,0,1518,0,0,4386,3900,100.0,Portuguese <gnome_pt@yahoogroups.com>
+coreutils,12280,5272,1502,1058,269,170,13089,19054,64.44840978272279,Portuguese <translation-team-pt@lists.sourceforge.net>
+cpufrequtils,583,0,0,54,0,0,652,583,100.0,
+cpupowerutils,473,146,530,48,15,93,536,1149,41.166231505657095,
+cracklib,93,0,0,15,0,0,103,93,100.0,portuguese
+cups,6981,0,366,1415,0,30,7838,7347,95.01837484687627,Apple Inc.
+dasher,528,0,0,199,0,0,656,528,100.0,Portuguese <gnome_pt@yahoogroups.com>
+dbmail,443,14,0,38,1,0,509,457,96.93654266958424,Portuguese <traduz@debianpt.org>
+dc3dd,375,279,278,48,18,22,430,932,40.236051502145926,Portuguese <translation-team-pt@lists.sourceforge.net>
+dcraw,624,0,0,124,0,0,728,624,100.0,
+decibel-audio-player,1049,0,445,164,0,73,1118,1494,70.21419009370817,Portuguese <pt@li.org>
+deja-dup,61,0,1564,19,0,261,109,1625,3.7538461538461543,Portuguese <pt@li.org>
+deskbar-applet,1670,0,0,356,0,0,1856,1670,100.0,Portuguese <gnome_pt@yahoogroups.com>
+devhelp,456,0,0,119,0,0,526,456,100.0,Portuguese <gnome_pt@yahoogroups.com>
+dexter,138,0,90,69,0,23,156,228,60.526315789473685,Portuguese <pt@li.org>
+dia,4429,704,578,1640,271,135,5225,5711,77.55209245316057,Portuguese <gnome_pt@yahoogroups.com>
+dialog,10,2,13,10,2,11,10,25,40.0,Portuguese <pt @ li.org>
+digikam,23653,0,0,3297,0,0,27403,23653,100.0,pt <kde-i18n-pt@kde.org>
+docky,582,0,17,169,0,4,641,599,97.16193656093489,Portuguese <pt@li.org>
+dpkg,8563,1198,258,1046,145,52,9828,10019,85.46761153807765,Portuguese <traduz@debianpt.org>
+drgeo,1910,66,9,448,8,5,2046,1985,96.22166246851386,Portuguese <gnome_pt@yahoogroups.com>
+drupal-service_links,249,0,0,60,0,0,268,249,100.0,Portuguese <<mailto:traduz@debianpt.org>traduz@debianpt.org>
+drupal6-cck,1255,0,40,179,0,2,1350,1295,96.91119691119691,Fernando Silva <fernando.silva@openquest.pt>
+drwright,112,36,43,14,9,6,125,191,58.63874345549738,Portuguese <gnome_pt@yahoogroups.com>
+duplicity,1186,0,2070,212,0,262,1710,3256,36.42506142506142,Portuguese <pt@li.org>
+e16,3988,11,1637,710,6,342,4566,5636,70.75940383250531,Portuguese <pt@li.org>
+ecore,110,0,0,35,0,0,119,110,100.0,
+ejabberd,435,522,869,137,124,160,522,1826,23.822562979189485,
+ekiga,4267,0,0,728,0,0,4581,4267,100.0,Portuguese <gnome_pt@yahoogroups.com>
+elinks,479,1821,9934,217,548,860,562,12234,3.915317966323361,Portuguese <translation-team-pt@lists.sourceforge.net>
+emerald,774,0,0,215,0,0,946,774,100.0,Portuguese
+emerillon,404,0,0,86,0,0,447,404,100.0,gnome_pt@yahoogroups.com
+empathy,3874,0,0,849,0,0,4293,3874,100.0,Portuguese <gnome_pt@yahoogroups.com>
+enigma,4932,38,325,592,7,58,4926,5295,93.1444759206799,Krishnamurti Nunes <krishnalelis@gmail.com>
+enlightenment,4996,0,1749,1502,0,77,5968,6745,74.06968124536694,
+eog,1566,0,0,312,0,0,1784,1566,100.0,Portuguese <gnome_pt@yahoogroups.com>
+eog-plugins,149,0,0,55,0,0,181,149,100.0,Portuguese <gnome_pt@yahoogroups.com>
+epiphany,2268,0,0,638,0,0,2489,2268,100.0,Portuguese <gnome_pt@yahoogroups.com>
+epiphany-extensions,746,0,0,227,0,0,860,746,100.0,gnome_pt@yahoogroups.com
+etckeeper,64,0,0,5,0,0,72,64,100.0,Portuguese <traduz@debianpt.org>
+etoys,28754,0,1240,4871,0,231,30288,29994,95.86583983463359,
+evince,1419,0,0,364,0,0,1629,1419,100.0,Portuguese <gnome_pt@yahoogroups.com>
+evolution,21837,0,0,4497,0,0,24701,21837,100.0,Portuguese <gnome_pt@yahoogroups.com>
+evolution-couchdb,53,0,0,13,0,0,83,53,100.0,gnome_pt@yahoogroups.com
+evolution-data-server,4671,0,0,984,0,0,5622,4671,100.0,Portuguese <gnome_pt@yahoogroups.com>
+evolution-exchange,2204,0,0,360,0,0,2533,2204,100.0,Portuguese <gnome_pt@yahoogroups.com>
+evolution-mapi,516,0,0,106,0,0,631,516,100.0,Portuguese <gnome_pt@yahoogroups.com>
+evolution-rss,700,0,0,158,0,0,832,700,100.0,gnome_pt@yahoogroups.com
+exaile,1172,0,1594,351,0,382,1441,2766,42.371655820679685,Portuguese <pt@li.org>
+exo,2214,0,0,321,0,0,2410,2214,100.0,<xfce-i18n@xfce.org>
+f-spot,3473,0,0,778,0,0,3780,3473,100.0,Portuguese <gnome_pt@yahoogroups.com>
+fantasdic,492,0,0,153,0,0,592,492,100.0,Portuguese <gnome_pt@yahoogroups.com>
+fgrun,783,34,138,330,8,75,948,955,81.98952879581152,Portuguese
+file-roller,1519,0,0,335,0,0,1611,1519,100.0,Portuguese <gnome_pt@yahoogroups.com>
+findutils,1230,755,124,131,50,15,1311,2109,58.32147937411095,Portuguese <translation-team-pt@lists.sourceforge.net>
+firewalld,369,0,246,27,0,63,374,615,60.0,trans-pt@lists.fedoraproject.org
+firstboot,590,0,0,52,0,0,655,590,100.0,pt <morais@kde.org>
+fotoxx,1377,0,364,505,0,116,1535,1741,79.0924755887421,Portuguese
+freeciv,10659,15514,27519,1968,1988,1314,11481,53692,19.8521194963868,
+freedink,0,49,33,0,10,5,0,82,0.0,Português <pt@li.org>
+freeipa,0,0,12012,0,0,1329,0,12012,0.0,Portuguese <trans-pt@lists.fedoraproject.org>
+frozen-bubble,210,101,387,52,22,74,232,698,30.08595988538682,LANGUAGE <LL@li.org>
+fslint,206,0,182,88,0,44,213,388,53.09278350515464,Helder Garcia <hlbog@sounerd.com.br>
+fuse-encfs,596,8,711,82,2,55,689,1315,45.32319391634981,Portuguese <pt@li.org>
+gajim,2549,3620,5473,585,852,778,2659,11642,21.89486342552826,none
+galculator,624,155,0,230,30,0,711,779,80.10269576379974,Portuguese Portugal <pt@li.org>
+gallery2,4407,1582,6734,935,278,756,4669,12723,34.63805706201368,Portuguese Portugal<gallery-devel@lists.sourceforge.net>
+gambas,1898,0,3,588,0,2,2026,1901,99.84218832193582,Portuguese <pt@li.org>
+gambas2,939,12,1386,366,6,419,1022,2337,40.17971758664955,Portuguese <pt@li.org>
+gambas3,1085,0,2953,525,0,720,1186,4038,26.869737493808817,Portuguese <pt@li.org>
+garcon,86,0,0,27,0,0,113,86,100.0,
+gbirthday,24,5,93,15,1,25,26,122,19.672131147540984,
+gbrainy,6982,0,0,935,0,0,7443,6982,100.0,Portuguese <pt@li.org>
+gcalctool,1379,0,0,428,0,0,1525,1379,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gcl,177,0,0,8,0,0,198,177,100.0,Portuguese <traduz@debianpt.org>
+gcompris,10645,0,0,1267,0,0,13456,10645,100.0,IFILP-TEC <tec.ifilp.org/info?gcompris>
+gconf-editor,336,0,0,98,0,0,413,336,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gdesklets,943,0,585,167,0,37,1003,1528,61.71465968586387,Portuguese <gnome_pt@yahoogroups.com>
+gdk-pixbuf2,1313,0,0,200,0,0,1523,1313,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gdm,1094,0,0,205,0,0,1338,1094,100.0,Portuguese <gnome_pt@yahoogroups.com>
+geany,11172,0,0,2430,0,0,12768,11172,100.0,Portuguese <geany-i18n@uvena.de>
+geany-plugins,5135,1,0,1044,1,0,5847,5136,99.98052959501558,Portuguese
+geda-gaf,158,0,1691,81,0,487,180,1849,8.545159545700379,Portuguese <pt@li.org>
+gedit,4323,0,0,734,0,0,4671,4323,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gedit-collaboration,119,0,0,30,0,0,148,119,100.0,gnome_pt@yahoogroups.com
+gedit-plugins,1640,0,0,498,0,0,1975,1640,100.0,gnome_pt@yahoogroups.com
+genius,2781,0,0,457,0,0,3046,2781,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gettext,981,1007,4869,134,119,434,1224,6857,14.30654805308444,Portuguese <translation-team-pt@lists.sourceforge.net>
+gftp,3375,0,0,634,0,0,3591,3375,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gget,644,0,0,149,0,0,756,644,100.0,Portuguese <gnome_pt@yahoogroups.com>
+ggz-base-libs,74,0,0,17,0,0,97,74,100.0,Portuguese <gnome_pt@yahoogroups.com>
+ggz-gtk-client,859,0,0,267,0,0,938,859,100.0,Portuguese <gnome_pt@yahoogroups.com>
+ghex,909,0,0,256,0,0,947,909,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gigolo,444,0,0,130,0,0,503,444,100.0,
+gimp,25851,156,119,6680,47,25,30810,26126,98.94740871162826,<pt@li.org>
+glabels,1502,301,335,506,104,103,1729,2138,70.25257249766138,Portuguese <>
+glade2,5422,251,167,1219,52,29,5792,5840,92.84246575342465,Portuguese <gnome_pt@yahoogroups.com>
+glade3,4208,0,0,1087,0,0,4960,4208,100.0,Portuguese <gnome_pt@yahoogroups.com>
+glib-networking,86,0,0,16,0,0,109,86,100.0,Portuguese <gnome_pt@yahoogroups.com>
+glib2,4589,0,0,718,0,0,5474,4589,100.0,Portuguese <gnome_pt@yahoogroups.com>
+glom,4068,0,0,728,0,0,4484,4068,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gmpc,8,0,6,4,0,2,11,14,57.14285714285714,Portuguese <pt@li.org>
+gmusicbrowser,4685,0,33,1445,0,10,5142,4718,99.30055108096651,Portuguese (http://www.transifex.net/projects/p/gmusicbrowser/team/pt/)
+gnokii,925,162,4488,241,46,909,1131,5575,16.591928251121075,Portuguese <pedros@avelas-lab.com>
+gnome-activity-journal,0,0,316,0,0,94,0,316,0.0,Portuguese <pt@li.org>
+gnome-applet-alarm-clock,48,0,369,20,0,90,53,417,11.510791366906476,Portuguese <pt@li.org>
+gnome-applet-bubblemon,11,0,27,4,0,10,14,38,28.947368421052634,Unknown
+gnome-applet-timer,258,0,22,67,0,2,278,280,92.14285714285714,Portuguese <pt@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,28,29,75.86206896551724,Portuguese
+gnome-applets,3407,0,0,796,0,0,4184,3407,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-backgrounds,29,0,0,17,0,0,36,29,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-bluetooth,662,0,0,192,0,0,736,662,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-color-manager,1904,0,0,338,0,0,2183,1904,100.0,gnome_pt@yahoogroups.com
+gnome-commander,1019,608,6269,371,239,813,1120,7896,12.905268490374874,Portuguese <gnome_pt@yahoogroups.com>
+gnome-desktop,438,0,0,61,0,0,496,438,100.0,Português <gnome_pt@yahoogroups.com>
+gnome-desktop3,438,0,0,61,0,0,496,438,100.0,Português <gnome_pt@yahoogroups.com>
+gnome-disk-utility,4544,0,0,1077,0,0,5121,4544,100.0,gnome_pt@yahoogroups.com
+gnome-do,473,0,139,119,0,25,553,612,77.2875816993464,Portuguese <pt@li.org>
+gnome-do-plugins,1655,0,668,432,0,150,1848,2323,71.24408092983211,Portuguese <pt@li.org>
+gnome-doc-utils,251,0,0,101,0,0,254,251,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-games,6381,0,0,1457,0,0,6797,6381,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-globalmenu,136,0,189,38,0,18,182,325,41.84615384615385,Portuguese <pt@li.org>
+gnome-gmail,271,0,88,40,0,7,332,359,75.4874651810585,LANGUAGE <LL@li.org>
+gnome-hearts,355,22,32,91,7,8,371,409,86.79706601466992,Portuguese <pt@li.org>
+gnome-icon-theme,43,0,0,38,0,0,47,43,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-keyring,1174,0,0,243,0,0,1284,1174,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-libs,1085,0,0,395,0,0,1196,1085,100.0,Portuguese <none@none.org>
+gnome-mag,298,0,0,42,0,0,326,298,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-media,1234,0,0,310,0,0,1412,1234,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-menus,161,0,0,57,0,0,210,161,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-mime-data,887,0,0,362,0,0,1036,887,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-mud,1289,0,0,260,0,0,1357,1289,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-netstatus,418,0,0,106,0,0,493,418,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-packagekit,4694,0,0,791,0,0,5126,4694,100.0,gnome_pt@yahoogroups.com
+gnome-paint,167,0,0,54,0,0,179,167,100.0,Portuguese <traduz@debianpt.org>
+gnome-panel,4375,0,260,603,0,3,4678,4635,94.39050701186623,Portuguese <gnome_pt@yahoogroups.com>
+gnome-phone-manager,390,0,0,92,0,0,465,390,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-pilot,1422,139,12,319,12,3,1617,1573,90.40050858232676,Portuguese
+gnome-pilot-conduits,161,0,0,45,0,0,170,161,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-power-manager,2133,0,0,376,0,0,2459,2133,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-scan,240,0,0,88,0,0,313,240,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-schedule,141,596,601,38,114,91,166,1338,10.538116591928251,Portuguese <gnome_pt@yahoogroups.com>
+gnome-screensaver,291,0,0,58,0,0,342,291,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-session,446,0,0,92,0,0,535,446,100.0,Português <gnome_pt@yahoogroups.com>
+gnome-settings-daemon,2916,0,0,394,0,0,3190,2916,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-shell,964,0,0,239,0,0,1049,964,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-shell-extensions,73,0,0,19,0,0,90,73,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-specimen,29,3,24,14,1,3,37,56,51.78571428571429,Tradutores Ubuntu-PT <tradutores@ubuntu-pt.org>
+gnome-subtitles,893,0,0,288,0,0,1008,893,100.0,gnome_pt@yahoogroups.com
+gnome-system-monitor,935,0,0,244,0,0,1196,935,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-terminal,4204,0,0,493,0,0,4544,4204,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-themes,109,0,0,30,0,0,128,109,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-themes-standard,24,0,0,9,0,0,27,24,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-tweak-tool,7,0,0,4,0,0,8,7,100.0,gnome_pt@yahoogroups.com
+gnome-user-share,326,0,0,51,0,0,362,326,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-utils,3576,0,0,683,0,0,4037,3576,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-vfs2,1519,0,0,305,0,0,1641,1519,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Portuguese <gnome_pt@yahoogroups.com>
+gnomebaker,894,208,72,215,62,12,1038,1174,76.14991482112437,Portuguese <pt@li.org>
+gnomeradio,443,0,0,100,0,0,466,443,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnote,4087,0,0,599,0,0,4686,4087,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gnotime,1087,341,580,268,72,89,1143,2008,54.133466135458164,Portuguese <gnome_pt@yahoogroups.com>
+gnubiff,1044,137,0,221,1,0,1256,1181,88.39966130397968,l10n portuguese <debian-l10n-portuguese@lists.debian.org>
+gnucash,5068,10295,11434,1454,1952,865,5476,26797,18.912564839347688,Portuguese <translation-team-pt@lists.sourceforge.net>
+gnumed,8114,848,10851,1393,162,1605,8587,19813,40.95290970574875,Portuguese <pt@li.org>
+gnumeric,7440,4870,22736,1999,1071,2572,8167,35046,21.22924156822462,Portuguese <gnome_pt@yahoogroups.com>
+gnupg,3912,3108,1609,566,511,217,4250,8629,45.33549658129563,pt <morais@kde.org>
+gnupg2,2770,4482,3239,470,799,472,3107,10491,26.403584024401866,pt <morais@kde.org>
+gobby,668,34,198,165,9,16,688,900,74.22222222222223,Portuguese <pt@li.org>
+goffice,1895,936,1768,754,370,436,1997,4599,41.20460969776038,Portuguese <gnome_pt@yahoogroups.com>
+gok,1915,0,0,434,0,0,2144,1915,100.0,Portuguese <gnome_pt@yahoogroups.com>
+googsystray,0,0,556,0,0,147,0,556,0.0,Portuguese
+gourmet,1588,526,1533,418,160,290,1778,3647,43.54263778448039,Portuguese <pt@li.org>
+gparted,2273,0,0,403,0,0,2487,2273,100.0,gnome_pt@yahoogroups.com
+gpicview,219,0,0,44,0,0,245,219,100.0,Portuguese PT <alvarommorais@gmail.com>
+gpodder,2360,0,0,613,0,0,2626,2360,100.0,Portuguese (http://www.transifex.net/projects/p/gpodder/team/pt/)
+gpointing-device-settings,156,2,11,51,1,2,172,169,92.3076923076923,Português <gnome_pt@yahoogroups.com>
+gramps,20499,6458,4247,4120,830,297,22490,31204,65.69350083322651,Portuguese <>
+grass,27570,56548,27104,5337,9331,3597,30789,111222,24.788261315207425,Portuguese <grass-translations@lists.osgeo.org>
+grep,57,254,644,19,25,69,77,955,5.968586387434556,Portuguese <translation-team-pt@lists.sourceforge.net>
+gretl,27984,0,12,7166,0,2,32942,27996,99.95713673381911,Portuguese <translation-team-pt@lists.sourceforge.net>
+greylistd,350,0,0,14,0,0,378,350,100.0,Portuguese <traduz@debianpt.org>
+griffith,1840,10,4,448,4,2,2007,1854,99.24487594390507,Portuguese <pt@li.org>
+gscan2pdf,507,0,1041,222,0,239,565,1548,32.751937984496124,Portuguese <pt@li.org>
+gshutdown,391,101,0,90,11,0,417,492,79.47154471544715,
+gtg,1290,0,490,172,0,75,1327,1780,72.47191011235955,Portuguese <pt@li.org>
+gthumb,2639,469,460,801,92,62,2999,3568,73.96300448430493,Portuguese <gnome_pt@yahoogroups.com>
+gtk+,194,0,8,100,0,5,204,202,96.03960396039604,Portuguese <pt@li.org>
+gtk-murrine-engine,134,0,0,46,0,0,193,134,100.0,gnome_pt@yahoogroups.com
+gtk-recordmydesktop,553,0,263,74,0,30,531,816,67.76960784313727,
+gtk-vnc,81,0,0,22,0,0,102,81,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gtk2,12381,0,0,2582,0,0,14177,12381,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gtk2-engines,119,0,0,47,0,0,182,119,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gtk3,12572,0,0,2647,0,0,14460,12572,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gtkhtml3,485,0,0,309,0,0,553,485,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gtksourceview,891,0,0,366,0,0,1075,891,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gtksourceview2,1413,0,0,538,0,0,1723,1413,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gtksourceview3,1482,0,0,590,0,0,1807,1482,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gtkspell,11,0,0,5,0,0,12,11,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+gtranslator,1703,11,0,403,2,0,1940,1714,99.35822637106185,gnome_pt@yahoogroups.com
+gucharmap,896,0,0,337,0,0,967,896,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gummi,719,53,15,238,12,11,778,787,91.35959339263025,Portuguese
+gutenprint,1968,3438,4177,334,807,1474,2054,9583,20.53636648231243,Portuguese <gnome_pt@yahoogroups.com>
+gvfs,2011,0,0,469,0,0,2447,2011,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gwget,379,0,0,103,0,0,449,379,100.0,Portuguese <gnome_pt@yahoogroups.com>
+gwibber,22,0,23,14,0,10,24,45,48.888888888888886,Portuguese <pt@li.org>
+hamster-applet,717,0,0,181,0,0,831,717,100.0,Portuguese <gnome_pt@yahoogroups.com>
+hddtemp,403,0,0,26,0,0,443,403,100.0,Portuguese <traduz@debianpt.org>
+hello,4,65,124,2,12,16,4,193,2.072538860103627,Português <pt@li.org>
+homebank,1509,0,0,534,0,0,1576,1509,100.0,Portuguese <pt@li.org>
+hotssh,150,0,0,58,0,0,165,150,100.0,Portuguese <gnome_pt@yahoogroups.com>
+initscripts,4349,0,0,1070,0,0,6068,4349,100.0,trans-pt@lists.fedoraproject.org
+inkscape,10959,5944,9625,2600,1670,1308,11948,26528,41.31106755126658,
+iok,142,0,0,36,0,0,179,142,100.0,trans-pt@fedoraproject.org
+ipplan,0,0,0,0,0,0,0,0,0.0,
+iso-codes,2152,5198,5921,1188,4327,3564,2230,13271,16.215808906638536,Portuguese
+isomaster,674,0,0,107,0,0,671,674,100.0,pt <LL@li.org>
+java-gnome,25,0,0,6,0,0,27,25,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+jmol,1288,0,1443,573,0,324,1431,2731,47.16221164408642,Portugal@Folding <Jmol-developers@lists.sourceforge.net>
+jpoker,256,38,63,111,23,17,289,357,71.70868347338936,<pokersource-users@gna.org>
+k3b,20429,0,0,2522,0,0,24065,20429,100.0,pt <kde-i18n-pt@kde.org>
+kaffeine,590,0,0,257,0,0,739,590,100.0,Portuguese
+kamoso,153,0,0,49,0,0,168,153,100.0,Portuguese <kde-i18n-pt@kde.org>
+kanatest,326,55,25,187,18,7,338,406,80.29556650246306,Portuguese
+kaudiocreator,1136,0,0,273,0,0,1302,1136,100.0,pt <kde-i18n-pt@kde.org>
+kbackup,443,107,77,94,15,11,500,627,70.65390749601276,Portuguese <kde-i18n-pt@kde.org>
+kcoloredit,278,0,0,95,0,0,338,278,100.0,pt <kde-i18n-pt@kde.org>
+kdbg,52,31,783,26,14,150,51,866,6.0046189376443415,
+kde-partitionmanager,2732,0,0,453,0,0,3421,2732,100.0,Portuguese <kde-i18n-pt@kde.org>
+kde-plasma-daisy,325,0,4,127,0,3,365,329,98.78419452887537,Portuguese <kde-i18n-doc@lists.kde.org>
+kde-plasma-networkmanagement,3615,0,0,1034,0,0,4462,3615,100.0,Portuguese <kde-i18n-pt@kde.org>
+kdetv,2206,0,0,483,0,0,2728,2206,100.0,pt <kde-i18n-pt@kde.org>
+kdevelop,3546,0,0,668,0,0,4388,3546,100.0,Portuguese <kde-i18n-pt@kde.org>
+kdevelop-php,359,0,0,59,0,0,454,359,100.0,Portuguese <kde-i18n-pt@kde.org>
+kdevplatform,7249,0,0,1569,0,0,8624,7249,100.0,Portuguese <kde-i18n-pt@kde.org>
+kdiff3,3770,0,0,663,0,0,4630,3770,100.0,pt <kde-i18n-pt@kde.org>
+kdissert,2027,0,0,282,0,0,2250,2027,100.0,pt <kde-i18n-pt@kde.org>
+kernel,473,146,530,48,15,93,536,1149,41.166231505657095,
+keurocalc,3042,0,0,342,0,0,3254,3042,100.0,pt <kde-i18n-pt@kde.org>
+kexec-tools,95,39,72,9,2,3,109,206,46.116504854368934,pt <kde-i18n-pt@kde.org>
+kgrab,370,0,0,53,0,0,393,370,100.0,Portuguese <kde-i18n-doc@kde.org>
+kicad,11693,0,14,2964,0,14,12852,11707,99.88041342786367,kicad team
+kiconedit,726,0,0,155,0,0,771,726,100.0,pt <kde-i18n-pt@kde.org>
+kile,11165,0,0,1903,0,0,12407,11165,100.0,pt <kde-i18n-pt@kde.org>
+kio_gopher,17,0,0,5,0,0,21,17,100.0,pt <kde-i18n-pt@kde.org>
+kio_sysinfo,168,0,0,72,0,0,212,168,100.0,Portuguese <kde-i18n-pt@kde.org>
+kipi-plugins,16077,0,0,3081,0,0,18571,16077,100.0,pt <kde-i18n-pt@kde.org>
+klog,106,279,1353,84,147,259,110,1738,6.098964326812428,PT
+kmess,7252,122,28,1127,16,6,7581,7402,97.97352067008916,Portuguese <kde-i18n-doc@kde.org>
+kmid2,947,0,0,311,0,0,1145,947,100.0,pt <kde-i18n-pt@kde.org>
+kmldonkey,1830,0,0,436,0,0,2134,1830,100.0,pt <kde-i18n-pt@kde.org>
+kmplayer,1248,0,0,370,0,0,1507,1248,100.0,Portuguese <kde-i18n-pt@kde.org>
+kmymoney,19079,0,0,3160,0,0,21572,19079,100.0,português <pt@li.org>
+knemo,1186,0,0,347,0,0,1400,1186,100.0,pt <kde-i18n-doc@kde.org>
+knetstats,119,0,0,53,0,0,150,119,100.0,pt <kde-i18n-pt@kde.org>
+knights,613,0,0,182,0,0,702,613,100.0,pt <kde-i18n-pt@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,9681,8417,100.0,pt <kde-i18n-pt@kde.org>
+konq-plugins,1692,0,0,546,0,0,1955,1692,100.0,pt <kde-i18n-pt@kde.org>
+konversation,10622,0,0,1636,0,0,12025,10622,100.0,<pt@li.org>
+kopete-cryptography,408,0,0,41,0,0,463,408,100.0,pt <kde-i18n-pt@kde.org>
+koverartist,507,47,105,131,8,16,610,659,76.93474962063733,<pt@li.org>
+kpackagekit,3646,0,0,673,0,0,4332,3646,100.0,Portuguese <kde-i18n-pt@kde.org>
+kphotoalbum,6333,0,0,763,0,0,7089,6333,100.0,pt <kde-i18n-pt@kde.org>
+kpilot,7156,0,0,861,0,0,8349,7156,100.0,pt <kde-i18n-pt@kde.org>
+kradio4,1324,426,2111,414,84,331,1735,3861,34.291634291634296,Português <pt@li.org>
+krecipes,3087,0,0,568,0,0,3464,3087,100.0,pt <kde-i18n-pt@kde.org>
+krename,1872,105,81,392,29,18,2080,2058,90.96209912536443,Portuguese <traduz@debianpt.org>
+krusader,7750,0,0,1697,0,0,9509,7750,100.0,krusader-i18n <krusader-i18n@googlegroups.com>
+ksig,85,0,0,26,0,0,83,85,100.0,pt <kde-i18n-pt@kde.org>
+kst,7065,214,167,1725,56,31,8265,7446,94.88315874294923,pt <kde-i18n-pt@kde.org>
+ktorrent,7950,0,0,1343,0,0,8832,7950,100.0,Portuguese <kde-i18n-doc@kde.org>
+kvirc,11821,188,1639,2225,4,160,13378,13648,86.61342321219226,Portuguese <>
+latexila,1194,56,0,402,7,0,1234,1250,95.52000000000001,
+ldm,156,0,0,45,0,0,181,156,100.0,Portuguese <traduz@debianpt.org>
+leafpad,103,10,12,54,6,8,130,125,82.39999999999999,
+libbonobo,543,0,0,107,0,0,623,543,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libbonoboui,368,0,0,115,0,0,430,368,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libexif,420,43,6498,170,22,982,428,6961,6.0336158597902605,Portuguese <pt@li.org>
+libfm,659,0,0,179,0,0,612,659,100.0,
+libgda,8611,569,601,1590,142,93,9959,9781,88.03803292096923,Portuguese <gnome_pt@yahoogroups.com>
+libgdata,552,0,0,67,0,0,573,552,100.0,gnome_pt@yahoogroups.com
+libgdl,604,0,0,92,0,0,632,604,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgnome,1773,0,0,273,0,0,2116,1773,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgnome-keyring,44,0,0,9,0,0,47,44,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgnome-media-profiles,460,0,0,51,0,0,523,460,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgnomecanvas,378,0,0,95,0,0,463,378,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgnomecups,206,4,0,53,1,0,210,210,98.09523809523809,Portuguese <gnome_pt@hotmail.com>
+libgnomekbd,242,0,0,55,0,0,296,242,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgnomeprint22,168,0,0,98,0,0,172,168,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgnomeprintui22,481,0,0,154,0,0,533,481,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgnomeui,1226,0,0,320,0,0,1358,1226,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgsf,843,0,0,110,0,0,1230,843,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgtop2,126,0,0,40,0,0,142,126,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgweather,6090,0,0,4555,0,0,6336,6090,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,25,0,0,14,0,0,32,25,100.0,pt <kde-i18n-pt@kde.org>
+libktorrent,507,0,0,113,0,0,720,507,100.0,Portuguese <kde-i18n-pt@kde.org>
+liblicense,30,0,36,24,0,26,28,66,45.45454545454545,LANGUAGE <LL@li.org>
+libpaper,73,0,0,46,0,0,88,73,100.0,Portuguese <traduz@debianpt.org>
+libpeas,106,0,0,27,0,0,114,106,100.0,gnome_pt@yahoogroups.com
+libreport,383,0,270,68,0,29,387,653,58.652373660030634,LANGUAGE <LL@li.org>
+libuser,1134,0,0,237,0,0,1437,1134,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+libvirt,1914,7719,13529,423,1467,2087,2584,23162,8.263535100595803,Portuguese <kde-i18n-pt@kde.org>
+libwnck,1124,0,0,241,0,0,1362,1124,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libwnck3,1124,0,0,241,0,0,1362,1124,100.0,Portuguese <gnome_pt@yahoogroups.com>
+libxfce4menu,31,0,0,5,0,0,36,31,100.0,
+libxfce4ui,149,0,0,31,0,0,163,149,100.0,
+libxfce4util,424,0,0,7,0,0,412,424,100.0,
+libxfcegui4,139,0,0,44,0,0,159,139,100.0,
+licq,29,1,0,15,1,0,29,30,96.66666666666667,Brasil <thiago@linuxmail.org>
+liferea,2408,0,3,530,0,1,2790,2411,99.87557030277893,Portuguese <liferea-devel@lists.sourceforge.net>
+listen,719,1,1063,306,1,242,814,1783,40.32529444756029,pt_BR <gnome-l10n-br@listas.cipsga.org.br>
+liveusb-creator,480,0,0,52,0,0,542,480,100.0,PT <fedora-trans-pt@redhat.com>
+ltsp,462,0,0,87,0,0,538,462,100.0,Portuguese <traduz@debianpt.org>
+lxappearance,191,0,0,58,0,0,225,191,100.0,
+lxappearance-obconf,191,0,0,26,0,0,234,191,100.0,
+lxdm,30,0,0,18,0,0,38,30,100.0,
+lxinput,70,0,0,23,0,0,70,70,100.0,Portuguese
+lxlauncher,51,0,0,11,0,0,51,51,100.0,Portuguese PT <alvarommorais@gmail.com>
+lxmenu-data,97,0,0,37,0,0,122,97,100.0,Portuguese <gnome_pt@yahoogroups.com>
+lxmusic,203,0,0,89,0,0,246,203,100.0,Portuguese PT <alvarommorais@gmail.com>
+lxpanel,892,0,0,297,0,0,1076,892,100.0,Portuguese PT <alvarommorais@gmail.com>
+lxpolkit,15,0,0,9,0,0,17,15,100.0,
+lxrandr,102,0,0,22,0,0,119,102,100.0,Portuguese <alvarommorais@gmail.com>
+lxsession,36,0,0,14,0,0,37,36,100.0,Portuguese PT <alvarommorais@gmail.com>
+lxsession-edit,58,0,0,10,0,0,64,58,100.0,Portuguese
+lxshortcut,43,0,0,19,0,0,54,43,100.0,Portuguese
+lxtask,122,0,0,48,0,0,146,122,100.0,Portuguese PT
+lxterminal,144,0,0,85,0,0,171,144,100.0,Portuguese
+lyx,12908,2561,1785,4343,607,270,14004,17254,74.81163788107106,American English <kde-i18n-doc@kde.org>
+mail-notification,2431,0,0,407,0,0,2785,2431,100.0,Duarte Henriques <duarte_henriques@myrealbox.com>
+mailman,11719,8610,1683,1147,131,81,12809,22012,53.23914228602581,
+man-db,0,100,215,0,24,66,0,315,0.0,Português <pt@li.org>
+manaworld,1870,905,475,490,235,105,1983,3250,57.53846153846154,Portuguese <pt@li.org>
+mc,1225,6,2624,401,2,722,1411,3855,31.776913099870296,Portuguese (http://www.transifex.net/projects/p/mc/language/pt/)
+me-tv,1886,0,51,282,0,9,2030,1937,97.36706246773362,Portuguese <pt@li.org>
+meego-panel-myzone,151,0,0,35,0,0,159,151,100.0,
+meego-panel-status,119,0,0,24,0,0,136,119,100.0,
+meego-panel-zones,33,0,0,7,0,0,34,33,100.0,
+meld,712,0,0,203,0,0,775,712,100.0,Portuguese <gnome_pt@yahoogroups.com>
+metacity,3700,0,0,406,0,0,4237,3700,100.0,Portuguese <gnome_pt@yahoogroups.com>
+midori,2584,0,0,632,0,0,2815,2584,100.0,Portuguese
+mingw-gtk3,12572,0,0,2647,0,0,14460,12572,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mingw-wxWidgets,6249,109,33,1437,24,14,7274,6391,97.77812548896885,Portuguese <opensuse-pt@opensuse.org>
+mingw32-atk,375,0,0,126,0,0,448,375,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mingw32-gdk-pixbuf,1313,0,0,200,0,0,1523,1313,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mingw32-gettext,1049,884,4911,153,98,433,1310,6844,15.327293980128578,Portuguese <translation-team-pt@lists.sourceforge.net>
+mingw32-glib-networking,86,0,0,16,0,0,109,86,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mingw32-glib2,4589,0,0,718,0,0,5474,4589,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mingw32-gtk-vnc,81,0,0,22,0,0,102,81,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mingw32-gtk2,12381,0,0,2582,0,0,14177,12381,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mingw32-gtkhtml3,485,0,0,309,0,0,553,485,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mingw32-libvirt,1914,7719,13529,423,1467,2087,2584,23162,8.263535100595803,Portuguese <kde-i18n-pt@kde.org>
+mingw32-webkitgtk,1093,0,0,262,0,0,1283,1093,100.0,gnome_pt@yahoogroups.com
+mlocate,563,0,0,50,0,0,667,563,100.0,pt <fedora-trans-pt@redhat.com>
+moin,2716,975,1283,548,155,217,2995,4974,54.60394049055086,
+monkey-bubble,276,0,0,79,0,0,343,276,100.0,Portuguese <gnome_pt@yahoogroups.com>
+monodevelop,4317,5340,6966,1153,1611,1027,4872,16623,25.970041508752935,
+monodevelop-boo,39,6,67,13,4,21,41,112,34.82142857142857,
+monotone,11711,0,5,1536,0,1,13205,11716,99.95732331853876,Portuguese <traduz@debianpt.org>
+mousetweaks,237,0,0,64,0,0,303,237,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mtpaint,491,0,2640,190,0,682,514,3131,15.681890769722134,Portuguese <pt@li.org>
+multimedia-menus,56,0,0,22,0,0,64,56,100.0,PT <fedora-trans-pt@redhat.com>
+mutter,2422,0,0,353,0,0,2851,2422,100.0,Portuguese <gnome_pt@yahoogroups.com>
+mutter-mbl,3864,0,0,413,0,0,4407,3864,100.0,Portuguese <gnome_pt@yahoogroups.com>
+nautilus,7176,0,0,1135,0,0,7580,7176,100.0,Portuguese <gnome_pt@yahoogroups.com>
+nautilus-actions,3499,0,0,319,0,0,3659,3499,100.0,Portuguese <gnome_pt@yahoogroups.com>
+nautilus-open-terminal,166,0,0,16,0,0,185,166,100.0,Portuguese <gnome_pt@yahoogroups.com>
+nautilus-sendto,319,0,0,68,0,0,350,319,100.0,Portuguese <gnome_pt@yahoogroups.com>
+net6,275,0,29,63,0,5,318,304,90.46052631578947,Portuguese <pt@li.org>
+netactview,203,0,76,63,0,19,203,279,72.75985663082437,PT-BR <rodrigo.orph@overflow.biz>
+network-manager-netbook,473,0,0,144,0,0,522,473,100.0,Portuguese <gnome_pt@yahoogroups.com>
+newt,4,0,0,4,0,0,4,4,100.0,Portuguese &lt;traduz@debianpt.org&gt;
+notecase,314,262,580,116,90,150,322,1156,27.162629757785467,eSkiSo <Editor@eskiso.com>
+notification-daemon,114,0,0,30,0,0,131,114,100.0,gnome_pt@yahoogroups.com
+nss-pam-ldapd,518,0,0,29,0,0,543,518,100.0,Portuguese <traduz@debianpt.org>
+ntfs-config,29,0,328,5,0,54,35,357,8.123249299719888,Portuguese (Portugal) <pt_PT@li.org>
+nx,58,0,91,2,0,6,76,149,38.92617449664429,Portuguese <traduz@debianPT.org>
+oggconvert,132,0,0,44,0,0,152,132,100.0,Portuguese <pt@li.org>
+olpc-switch-desktop,153,0,5,12,0,2,172,158,96.83544303797468,LANGUAGE <LL@li.org>
+onboard,368,0,9,63,0,3,426,377,97.61273209549071,Portuguese <pt@li.org>
+openbox,504,0,0,95,0,0,581,504,100.0,None
+openconnect,20,0,1707,6,0,312,22,1727,1.1580775911986103,Portuguese (http://www.transifex.net/projects/p/meego/language/pt/)
+openswan,974,0,0,41,0,0,1004,974,100.0,Portuguese <traduz@debianpt.org>
+orage,2307,0,54,796,0,3,2516,2361,97.712833545108,
+orca,4456,0,0,1414,0,0,5413,4456,100.0,Portuguese <gnome_pt@yahoogroups.com>
+osmo,955,392,358,439,157,108,1134,1705,56.01173020527859,Portuguese
+pam,599,3,0,120,1,0,728,602,99.5016611295681,pt <fedora-trans-pt@redhat.com>
+pan,2342,0,0,565,0,0,2783,2342,100.0,Portuguese <gnome_pt@yahoogroups.com>
+paprefs,51,70,10,8,13,2,63,131,38.93129770992366,pt <fedora-trans-pt@redhat.com>
+parole,450,0,0,182,0,0,503,450,100.0,Portuguese
+parted,885,1484,2770,130,165,320,972,5139,17.221249270286048,Portuguese <pt@li.org>
+partimage,1448,1488,451,276,104,82,1670,3387,42.751697667552406,Portuguese <PT@li.org>
+passwd,299,0,0,53,0,0,372,299,100.0,pt <fedora-trans-pt@redhat.com>
+pastebinit,160,0,5,24,0,1,187,165,96.96969696969697,Portuguese <pt@li.org>
+pavucontrol,219,1,17,85,1,1,265,237,92.40506329113924,pt <fedora-trans-pt@redhat.com>
+pcmanfm,548,0,0,151,0,0,595,548,100.0,
+perl-libintl,19,0,0,19,0,0,19,19,100.0,Portuguese <guido@imperia.net>
+pessulus,130,0,0,33,0,0,161,130,100.0,Portuguese <gnome_pt@yahoogroups.com>
+phatch,887,0,1666,369,0,455,962,2553,34.743439091265174,Portuguese <pt@li.org>
+photoprint,530,92,795,168,44,107,575,1417,37.4029640084686,Krishnamurti Lelis Lima Vieira Nunes <krishna@colivre.coop.br>
+picard,1211,0,1159,592,0,505,1386,2370,51.09704641350211,Portuguese <pt@li.org>
+pidgin,8952,5480,3924,2021,1279,603,9742,18356,48.76879494443234,
+pidgin-birthday-reminder,240,0,0,63,0,0,270,240,100.0,Portuguese <pt@li.org>
+pidgin-guifications,415,58,32,171,15,6,430,505,82.17821782178217,
+pidgin-libnotify,39,0,0,13,0,0,35,39,100.0,
+pidgin-musictracker,115,0,218,34,0,26,137,333,34.53453453453454,Portuguese <pt@li.org>
+pidgin-sipe,839,0,0,209,0,0,908,839,100.0,English <LL@li.org>
+pingus,1319,666,843,149,64,73,1355,2828,46.640735502121636,Portuguese
+pinot,575,0,18,236,0,5,694,593,96.964586846543,Portuguese <pt@li.org>
+pinta,958,0,34,350,0,10,1131,992,96.57258064516128,European Portuguese <pt_BR@li.org>
+pioneers,2524,13,17,692,4,3,2637,2554,98.82537196554424,Portuguese <pt@li.org>
+pitivi,1603,0,0,404,0,0,1748,1603,100.0,gnome_pt@yahoogroups.com
+planner,1239,0,0,403,0,0,1398,1239,100.0,Portuguese <gnome_pt@yahoogroups.com>
+pmount,723,0,0,63,0,0,855,723,100.0,Portuguese <pt@li.org>
+po4a,1812,0,89,186,0,15,1965,1901,95.31825355076276,Portuguese-Traduz <l10n@debianpt.org>
+policycoreutils,1180,238,52,210,38,12,1597,1470,80.27210884353741,pt <kde-i18n-pt@kde.org>
+polkit-gnome,311,0,0,48,0,0,318,311,100.0,Portuguese <gnome_pt@yahoogroups.com>
+polkit-kde,92,0,0,26,0,0,112,92,100.0,Portuguese <kde-i18n-pt@kde.org>
+pootle,2974,90,479,1239,19,91,3317,3543,83.9401637030765,LANGUAGE <LL@li.org>
+popt,68,0,7,25,0,2,77,75,90.66666666666666,pt <morais@kde.org>
+postler,881,0,0,264,0,0,963,881,100.0,
+preupgrade,801,0,0,122,0,0,936,801,100.0,trans-pt@fedoraproject.org
+psmisc,20,72,807,4,11,67,21,899,2.2246941045606228,Portuguese <pt@li.org>
+publican,919,0,6,44,0,1,1022,925,99.35135135135134,trans-pt@fedoraproject.org
+publican-jboss,232,0,0,14,0,0,258,232,100.0,<en@li.org>
+publican-redhat,220,0,0,13,0,0,241,220,100.0,<en@li.org>
+pulseaudio,2756,57,36,388,23,17,3081,2849,96.73569673569673,pt <fedora-trans-pt@redhat.com>
+purple-msn-pecan,654,0,306,143,0,35,747,960,68.125,Portuguese <pt@li.org>
+pv,235,6,40,41,1,17,270,281,83.62989323843416,LANGUAGE <LL@li.org>
+pybliographer,971,0,0,262,0,0,1106,971,100.0,Portuguese <gnome_pt@yahoogroups.com>
+pychess,788,0,2303,190,0,448,833,3091,25.49336784212229,Portuguese <pt@li.org>
+pykickstart,338,0,0,35,0,0,362,338,100.0,trans-pt@lists.fedoraproject.org
+pyroom,69,0,342,14,0,60,70,411,16.78832116788321,Portuguese <pt@li.org>
+python-meh,269,0,0,33,0,0,308,269,100.0,pt <fedora-trans-pt@redhat.com>
+qt-recordmydesktop,553,0,263,74,0,30,531,816,67.76960784313727,
+quassel,4192,0,0,995,0,0,4739,4192,100.0,Portuguese <kde-i18n-doc@kde.org>
+radiotray,117,0,0,43,0,0,123,117,100.0,Portuguese (http://www.transifex.net/projects/p/radiotray/team/pt/)
+rapid-photo-downloader,13,0,1910,10,0,397,14,1923,0.6760270410816432,Portuguese <pt@li.org>
+recode,221,154,454,20,16,43,240,829,26.658624849215922,Portuguese <pt@li.org>
+redhat-menus,261,0,0,86,0,0,315,261,100.0,Portuguese <gnome_pt@yahoogroups.com>
+rednotebook,1,0,1116,1,0,241,24,1117,0.08952551477170993,Portuguese <pt@li.org>
+referencer,351,0,528,122,0,128,388,879,39.93174061433447,Portuguese <pt@li.org>
+regexxer,466,0,1,99,0,1,529,467,99.78586723768737,Portuguese <gnome_pt@yahoogroups.com>
+rekonq,1617,0,0,390,0,0,1895,1617,100.0,Portuguese <kde-i18n-pt@kde.org>
+retrace-server,0,0,123,0,0,23,0,123,0.0,Portuguese
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,3027,598,566,307,63,46,3410,4191,72.22619899785255,pt <kde@poli.org>
+rhnsd,20,0,0,5,0,0,22,20,100.0,pt <kde-i18n-pt@kde.org>
+rhythmbox,9699,0,52,1568,0,13,10887,9751,99.46672136191161,Portuguese <gnome_pt@yahoogroups.com>
+ristretto,308,0,0,124,0,0,361,308,100.0,
+rpm,2168,1059,627,430,210,108,2723,3854,56.25324338349766,pt <morais@kde.org
+rsibreak,1304,0,0,163,0,0,1392,1304,100.0,pt <kde-i18n-pt@kde.org>
+rt3,4768,0,3212,1269,0,663,5160,7980,59.74937343358396,rt-devel <rt-devel@lists.bestpractical.com>
+rygel,556,0,0,114,0,0,657,556,100.0,Portuguese <gnome_pt@yahoogroups.com>
+sabayon,743,0,0,171,0,0,910,743,100.0,Portuguese <gnome_pt@yahoogroups.com>
+sane-backends,414,248,3694,145,83,669,475,4356,9.50413223140496,pt <morais@inocam.com>
+sawfish,2370,1501,2572,539,249,194,2855,6443,36.78410678255471,Portuguese <gnome_pt@yahoogroups.com>
+schroot,1597,0,10,350,0,2,1911,1607,99.37772246421905,Portuguese <traduz@debianpt.org>
+seahorse,3012,0,0,654,0,0,3369,3012,100.0,Portuguese <gnome_pt@yahoogroups.com>
+seahorse-plugins,1165,0,0,245,0,0,1380,1165,100.0,Portuguese <gnome_pt@yahoogroups.com>
+sed,490,54,37,84,2,3,554,581,84.33734939759037,Portuguese <translation-team-pt@lists.sourceforge.net>
+sentinella,354,0,81,81,0,7,365,435,81.37931034482759,pt <marcoalves@horrorhotel.org>
+setroubleshoot,292,69,202,91,19,58,347,563,51.865008880994665,fedora-trans-pt@redhat.com
+setroubleshoot-plugins,7288,1585,6803,182,50,498,7999,15676,46.49145190099515,trans-pt@lists.fedoraproject.org
+setuptool,55,0,0,14,0,0,67,55,100.0,pt <fedora-trans-pt@redhat.com>
+shadow-utils,2652,297,272,348,35,29,3114,3221,82.33467867122012,Portuguese <traduz@debianpt.org>
+shared-mime-info,966,0,0,371,0,0,1225,966,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+sharutils,178,236,641,42,36,73,236,1055,16.872037914691944,Portugese <pt@li.org>
+shotwell,3919,0,0,806,0,0,4197,3919,100.0,LANGUAGE <LL@li.org>
+shutter,1481,0,1509,326,0,272,1643,2990,49.53177257525084,
+simple-scan,651,0,0,118,0,0,742,651,100.0,Portuguese <pt@li.org>
+skanlite,173,0,0,56,0,0,205,173,100.0,pt <kde-i18n-pt@kde.org>
+skrooge,6361,0,0,1532,0,0,7404,6361,100.0,Portuguese <kde-i18n-pt@kde.org>
+skychart,4803,59,823,1411,7,275,5119,5685,84.48548812664907,<translation@ap-i.net>
+smb4k,6362,0,0,675,0,0,7185,6362,100.0,Portuguese <kde-i18n-pt@kde.org>
+smolt,1174,0,0,212,0,0,1325,1174,100.0,trans-pt@lists.fedoraproject.org
+sos,267,0,0,36,0,0,309,267,100.0,PT <fedora-trans-pt@redhat.com>
+sound-juicer,986,0,0,187,0,0,1109,986,100.0,Portuguese <gnome_pt@yahoogroups.com>
+soundconverter,292,109,49,80,15,15,358,450,64.88888888888889,Portuguese <pt@li.org>
+specspo,119148,18290,167856,10978,1421,4451,151087,305294,39.02729827641552,<en@li.org>
+speedcrunch,18,0,0,13,0,0,19,18,100.0,pt
+splix,318,0,0,205,0,0,369,318,100.0,
+springlobby,1371,0,3324,495,0,669,1465,4695,29.201277955271564,Portuguese <pt@li.org>
+sssd,1099,131,9304,191,35,825,1287,10534,10.43288399468388,fedora-trans-pt@redhat.com
+stellarium,3781,0,695,1632,0,157,4215,4476,84.4727435210009,Portuguese <pt@li.org>
+straw,554,0,0,145,0,0,588,554,100.0,Portuguese <gnome_pt@yahoogroups.com>
+subdownloader,968,0,0,272,0,0,1026,968,100.0,SubDownloader <capiscuas@gmail.com>
+subtitleeditor,383,587,847,168,201,177,424,1817,21.07870115575124,
+sugar,917,1,0,263,1,0,1072,918,99.89106753812636,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,24,0,0,24,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,57,0,0,30,0,0,62,57,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+sugar-calculator,585,1,7,125,1,1,601,593,98.65092748735245,LANGUAGE <LL@li.org>
+sugar-chat,50,0,0,33,0,0,65,50,100.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,35,31,100.0,LANGUAGE <LL@li.org>
+sugar-finance,142,0,0,31,0,0,147,142,100.0,LANGUAGE <LL@li.org>
+sugar-flip,14,0,0,7,0,0,16,14,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,0,11,0,0,42,24,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,185,0,0,56,0,185,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,12,0,3,7,0,3,15,15,80.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,246,0,8,91,0,2,272,254,96.8503937007874,LANGUAGE <LL@li.org>
+sugar-log,42,4,32,14,1,5,49,78,53.84615384615385,LANGUAGE <LL@li.org>
+sugar-measure,3,6,102,2,3,45,3,111,2.7027027027027026,LANGUAGE <LL@li.org>
+sugar-memorize,50,0,0,25,0,0,54,50,100.0,LANGUAGE <LL@li.org>
+sugar-moon,33,0,58,10,0,22,40,91,36.26373626373626,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,125,109,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,64,0,0,29,0,0,73,64,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,13,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,57,0,0,29,0,0,66,57,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+sugar-ruler,15,0,0,6,0,0,15,15,100.0,Portuguese
+sugar-surf,53,0,0,29,0,0,59,53,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+sugar-tamtam,2061,14,2,692,3,2,2330,2077,99.22965816080885,LANGUAGE <LL@li.org>
+sugar-terminal,13,0,0,7,0,0,14,13,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,78,0,0,40,0,0,86,78,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2059,1,0,547,1,0,2307,2060,99.9514563106796,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,Portuguese
+sugar-visualmatch,135,0,0,71,0,0,145,135,100.0,LANGUAGE <LL@li.org>
+sugar-write,81,0,0,48,0,0,92,81,100.0,LANGUAGE <LL@li.org>
+supertux,136,0,201,61,0,26,147,337,40.35608308605341,português <pt@li.org>
+supertuxkart,1620,0,38,285,0,4,1766,1658,97.708082026538,Portuguese <pt@li.org>
+switchdesk,139,0,0,20,0,0,166,139,100.0,pt <morais@kde.org>
+synapse,405,0,176,117,0,48,473,581,69.70740103270224,Português de Portugal <>
+sysstat,234,0,0,25,0,0,260,234,100.0,Brazilian portuguese <lie-br@conectiva.com.br>
+system-config-audit,1241,0,0,267,0,0,1454,1241,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+system-config-bind,9419,0,0,1064,0,0,10940,9419,100.0,pt <morais@kde.org>
+system-config-boot,119,0,0,23,0,0,146,119,100.0,pt <fedora-trans-pt@redhat.com>
+system-config-date,1800,0,0,815,0,0,1928,1800,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+system-config-date-docs,739,0,0,60,0,0,766,739,100.0,pt <fedora-trans-pt@redhat.com>
+system-config-firewall,2807,0,7,330,0,1,3041,2814,99.75124378109453,trans-pt@lists.fedoraproject.org
+system-config-httpd,877,0,0,227,0,0,1025,877,100.0,pt <fedora-trans-pt@redhat.com>
+system-config-kdump,807,0,0,138,0,0,959,807,100.0,trans-pt@fedoraproject.org
+system-config-keyboard,187,0,0,81,0,0,210,187,100.0,pt <fedora-trans-pt@redhat.com>
+system-config-kickstart,1104,0,0,245,0,0,1254,1104,100.0,trans-pt@lists.fedoraproject.org
+system-config-language,293,0,30,54,0,2,325,323,90.71207430340557,pt <fedora-trans-pt@redhat.com>
+system-config-lvm,2246,0,0,344,0,0,2606,2246,100.0,trans-pt@fedoraproject.org
+system-config-netboot,1135,0,0,168,0,0,1335,1135,100.0,pt <morais@kde.org>
+system-config-network,3022,0,0,718,0,0,3528,3022,100.0,trans-pt@fedoraproject.org
+system-config-nfs,332,0,0,72,0,0,386,332,100.0,pt <morais@kde.org>
+system-config-nfs-docs,1192,0,0,71,0,0,1292,1192,100.0,pt <fedora-trans-pt@redhat.com>
+system-config-printer,2737,230,90,692,28,22,3095,3057,89.53222113182859,trans-pt@fedoraproject.org
+system-config-rootpassword,116,0,0,19,0,0,135,116,100.0,pt <kde@poli.org>
+system-config-samba,571,0,0,134,0,0,637,571,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+system-config-samba-docs,1195,0,0,67,0,0,1232,1195,100.0,pt <fedora-trans-pt@redhat.com>
+system-config-services,518,0,0,71,0,0,564,518,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+system-config-services-docs,638,0,0,28,0,0,647,638,100.0,pt <fedora-trans-pt@redhat.com>
+system-config-users,1456,0,0,174,0,0,1597,1456,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+system-config-users-docs,1061,0,0,82,0,0,1104,1061,100.0,pt <fedora-trans-pt@redhat.com>
+system-switch-java,81,0,0,11,0,0,92,81,100.0,pt <fedora-trans-pt@redhat.com>
+system-switch-mail,158,0,0,24,0,0,205,158,100.0,pt <morais@kde.org>
+tagtool,958,0,0,211,0,0,1046,958,100.0,Portugal <pt@li.org>
+tar,168,748,2401,35,126,386,220,3317,5.064817606270727,Portuguese <pt@li.org>
+tasks,26,31,244,17,17,66,29,301,8.637873754152823,Portuguese <traduz@debianpt.org>
+tasque,245,0,0,101,0,0,266,245,100.0,Portuguese <gnome_pt@yahoogroups.com>
+teg,2378,0,0,583,0,0,2513,2378,100.0,Português
+tellico,5732,0,0,1201,0,0,6397,5732,100.0,portuguese <pt@li.org>
+terminator,339,0,0,119,0,0,356,339,100.0,Portuguese <pt@li.org>
+thunar-archive-plugin,86,0,0,13,0,0,87,86,100.0,
+thunar-vcs-plugin,506,0,0,282,0,0,525,506,100.0,
+thunar-vfs,387,0,0,86,0,0,387,387,100.0,<xfce-i18n@xfce.org>
+thunar-volman,466,20,0,114,2,0,457,486,95.88477366255144,
+tilda,394,2,0,106,1,0,477,396,99.4949494949495,Portuguese <pt@li.org>
+tinyerp,276,388,474,81,163,89,284,1138,24.253075571177504,<pt@li.org>
+tomboy,6208,0,0,882,0,0,7015,6208,100.0,Portuguese <gnome_pt@yahoogroups.com>
+toppler,472,5,75,186,2,27,495,552,85.5072463768116,
+tortoisehg,6905,0,5688,1903,0,935,7991,12593,54.832049551338045,Portuguese <pt@li.org>
+totem,2744,0,0,621,0,0,3171,2744,100.0,Portuguese <gnome_pt@yahoogroups.com>
+totem-pl-parser,28,0,0,7,0,0,29,28,100.0,Portuguese <gnome_pt@yahoogroups.com>
+trac,1849,6,1693,514,3,280,1997,3548,52.11386696730552,pt_PT <trac-dev@googlegroups.com>
+tracker,2018,0,0,375,0,0,2310,2018,100.0,Portuguese <gnome_pt@yahoogroups.com>
+transifex,3345,136,2943,645,20,408,3446,6424,52.070361145703615,Portuguese (http://www.transifex.net/projects/p/transifex/team/pt/)
+transmission,1245,0,283,406,0,48,1522,1528,81.47905759162303,Portuguese <gnome_pt@yahoogroups.com>
+tucan,114,0,0,41,0,0,129,114,100.0,
+tumbler,293,0,0,47,0,0,345,293,100.0,
+turpial,603,7,2,182,4,1,647,612,98.52941176470588,LANGUAGE <LL@li.org>
+tuxmath,798,138,518,154,19,75,822,1454,54.88308115543329,Portuguese <pt@li.org>
+tuxpaint,1247,0,0,252,0,0,1228,1247,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+tuxtype2,79,0,1,39,0,1,89,80,98.75,<pt@li.org>
+tvtime,1159,59,6,239,6,2,1364,1224,94.68954248366013,Português <helder.correia@netcabo.org>
+ufraw,1945,46,148,392,10,18,2267,2139,90.93034128097241,Portuguese
+usermode,566,0,0,95,0,0,633,566,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+vdr-epgsearch,38,0,2387,5,0,380,37,2425,1.5670103092783505,Portuguese <vdr@linuxtv.org>
+vdr-osdteletext,41,0,3,19,0,1,48,44,93.18181818181817,Portuguese <vdr@linuxtv.org>
+vidalia,3461,0,6914,917,0,385,3972,10375,33.35903614457831,translations@vidalia-project.net
+viewnior,387,0,0,122,0,0,425,387,100.0,Portuguese <pt@li.org>
+vinagre,2788,0,0,370,0,0,3075,2788,100.0,Portuguese <gnome_pt@yahoogroups.com>
+vino,1184,0,0,128,0,0,1340,1184,100.0,Portuguese <gnome_pt@yahoogroups.com>
+virt-manager,502,1739,2399,150,530,408,585,4640,10.818965517241379,pt <kde-i18n-pt@kde.org>
+virt-top,361,0,0,77,0,0,451,361,100.0,Portuguese <en@li.org>
+virtaal,1433,0,0,426,0,0,1675,1433,100.0,Individual
+volume_key,739,0,0,151,0,0,871,739,100.0,Portuguese <trans-pt@lists.fedoraproject.org>
+vte,80,0,0,13,0,0,98,80,100.0,pt <gnome_pt@yahoogroups.com>
+vte3,80,0,0,13,0,0,98,80,100.0,pt <gnome_pt@yahoogroups.com>
+wallpapoz,0,0,0,0,0,0,0,0,0.0,
+warzone2100,11259,968,595,2429,221,87,12816,12822,87.81001403837155,Portugese <warzone-dev@gna.org>
+watchdog,97,0,0,6,0,0,108,97,100.0,Portuguese <traduz@debianpt.org>
+wavbreaker,613,31,0,138,6,0,749,644,95.1863354037267,português <pt@li.org>
+wdiff,0,68,51,0,17,14,0,119,0.0,Português <pt@li.org>
+webacula,981,2,0,340,1,0,973,983,99.79654120040692,Samuel Rios Carvalho <samuel.rios.carvalho@gmail.com>
+webkitgtk,1093,0,0,262,0,0,1283,1093,100.0,gnome_pt@yahoogroups.com
+webkitgtk3,1093,0,0,262,0,0,1283,1093,100.0,gnome_pt@yahoogroups.com
+weechat,9292,1656,4784,1164,33,404,10688,15732,59.06432748538012,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,411,307,226190,139,142,13881,471,226908,0.18113067851287745,none
+wget,1631,443,186,289,72,33,1815,2260,72.16814159292035,Portuguese <translation-team-pt@lists.sourceforge.net>
+whaawmp,32,0,725,17,0,134,38,757,4.227212681638045,Portuguese <pt@li.org>
+wicd-kde,353,0,0,122,0,0,470,353,100.0,Portuguese <kde-i18n-pt@kde.org>
+widelands,27033,0,6554,2716,0,215,28678,33587,80.48649775210647,Portuguese <pt@li.org>
+wormux,1865,6,45,318,2,7,2015,1916,97.33820459290187,Portuguese <kde-i18n-doc@kde.org>
+wxGTK,6249,109,33,1437,24,14,7274,6391,97.77812548896885,Portuguese <opensuse-pt@opensuse.org>
+wxPython,6249,109,33,1437,24,14,7274,6391,97.77812548896885,Portuguese <opensuse-pt@opensuse.org>
+xaos,685,216,6,270,83,1,837,907,75.52370452039692,Portuguese <zeliagarcia@seed.pr.gov.br>
+xchat,4016,572,439,1043,100,89,4407,5027,79.88860155162124,Portuguese <translation-team-pt@lists.sourceforge.net>
+xchat-gnome,3384,266,251,890,53,37,3772,3901,86.74698795180723,Portuguese <translation-team-pt@lists.sourceforge.net>
+xdg-user-dirs,26,2,0,26,2,0,30,28,92.85714285714286,Portuguese <translation-team-pt@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,88,81,100.0,Portuguese <gnome_pt@yahoogroups.com>
+xdx,291,0,1,90,0,1,316,292,99.65753424657534,Português/Portugal
+xfburn,1300,0,0,283,0,0,1343,1300,100.0,
+xfce-utils,492,0,0,72,0,0,561,492,100.0,
+xfce4-appfinder,71,0,0,19,0,0,82,71,100.0,
+xfce4-battery-plugin,127,0,0,32,0,0,137,127,100.0,
+xfce4-cellmodem-plugin,166,10,3,41,2,1,195,179,92.73743016759776,LANGUAGE <LL@li.org>
+xfce4-clipman-plugin,234,0,0,42,0,0,232,234,100.0,
+xfce4-cpugraph-plugin,71,0,0,35,0,0,80,71,100.0,
+xfce4-dict,502,0,0,109,0,0,527,502,100.0,
+xfce4-diskperf-plugin,185,0,0,38,0,0,212,185,100.0,
+xfce4-eyes-plugin,9,0,0,3,0,0,8,9,100.0,Portuguese <pt@li.org>
+xfce4-fsguard-plugin,71,0,0,19,0,0,86,71,100.0,
+xfce4-genmon-plugin,86,0,0,19,0,0,84,86,100.0,
+xfce4-mixer,181,0,0,37,0,0,203,181,100.0,
+xfce4-mpc-plugin,80,0,0,24,0,0,93,80,100.0,
+xfce4-netload-plugin,68,0,0,21,0,0,71,68,100.0,
+xfce4-notes-plugin,114,0,0,49,0,0,119,114,100.0,
+xfce4-notifyd,94,0,0,27,0,0,108,94,100.0,
+xfce4-panel,1519,0,0,347,0,0,1651,1519,100.0,
+xfce4-places-plugin,75,0,0,32,0,0,79,75,100.0,
+xfce4-power-manager,746,0,0,208,0,0,872,746,100.0,
+xfce4-radio-plugin,118,0,0,34,0,0,132,118,100.0,
+xfce4-screenshooter,443,0,0,73,0,0,480,443,100.0,
+xfce4-sensors-plugin,322,19,5,65,2,4,346,346,93.0635838150289,
+xfce4-session,1132,0,0,230,0,0,1201,1132,100.0,
+xfce4-settings,1277,0,0,266,0,0,1391,1277,100.0,
+xfce4-systemload-plugin,63,0,0,18,0,0,75,63,100.0,
+xfce4-taskmanager,156,0,0,58,0,0,162,156,100.0,
+xfce4-time-out-plugin,88,0,0,31,0,0,87,88,100.0,
+xfce4-verve-plugin,47,0,0,10,0,0,54,47,100.0,
+xfce4-wavelan-plugin,49,0,0,11,0,0,53,49,100.0,
+xfce4-weather-plugin,549,9,0,253,5,0,624,558,98.38709677419355,
+xfce4-wmdock-plugin,52,0,0,12,0,0,49,52,100.0,
+xfce4-xkb-plugin,64,0,0,18,0,0,69,64,100.0,
+xfconf,437,0,0,63,0,0,482,437,100.0,
+xfdesktop,835,0,0,199,0,0,963,835,100.0,
+xfmpc,31,1,98,14,1,41,41,130,23.846153846153847,
+xfprint,322,0,0,113,0,0,350,322,100.0,
+xfwm4,837,0,0,230,0,0,1068,837,100.0,
+xiphos,3815,70,23,823,18,4,4106,3908,97.62026612077788,Xiphos Project
+xlog,1358,56,27,323,2,5,1485,1441,94.24011103400416,Spanish <kde-es@kybs.de>
+xmms,2547,530,366,895,84,66,2859,3443,73.9761835608481,<pt@li.org>
+xmoto,3794,0,0,813,0,0,3850,3794,100.0,Portuguese <LuisG280@hotmail.com>
+xnoise,563,0,0,144,0,0,608,563,100.0,shkn <shuerhaaken@googlemail.com>
+xpad,363,0,0,77,0,0,449,363,100.0,Portuguese <pt@li.org>
+xsane,2008,979,237,521,150,57,2364,3224,62.28287841191067,Portuguese <pt@li.org>
+xscreensaver,5590,2140,3460,897,431,506,5774,11190,49.955317247542446,Potuguese <gnome_pt@yahoogroups.com>
+yakuake,1439,0,0,212,0,0,1665,1439,100.0,pt <kde-i18n-pt@kde.org>
+yelp,937,0,0,323,0,0,1089,937,100.0,Portuguese <gnome_pt@yahoogroups.com>
+yelp-xsl,249,0,0,99,0,0,252,249,100.0,Portuguese <gnome_pt@yahoogroups.com>
+yum,61,554,1834,11,168,347,74,2449,2.490812576561862,pt <kde-i18n-pt@kde.org>
+yum-rhn-plugin,56,0,44,8,0,4,67,100,56.00000000000001,pt <kde-i18n-pt@kde.org>
+yumex,762,0,0,237,0,0,875,762,100.0,Portuguese (http://www.transifex.net/projects/p/yumex/team/pt/)
+zanshin,322,0,0,84,0,0,356,322,100.0,Portuguese <kde-i18n-pt@kde.org>
+zarafa,2821,497,2973,981,148,594,2989,6291,44.84183754570021,pt_PT <pt@li.org>
+zeitgeist,22,0,0,3,0,0,22,22,100.0,Portuguese <pt@li.org>
+zenity,674,0,0,159,0,0,819,674,100.0,Portuguese <gnome_pt@yahoogroups.com>

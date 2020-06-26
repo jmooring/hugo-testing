@@ -1,0 +1,64 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+akonadi-googledata,57,24,5,12,5,1,50,86,66.27906976744185,Serbian <kde-i18n-sr@kde.org>
+amarok,16284,0,0,2837,0,0,16240,16284,100.0,Serbian <kde-i18n-sr@kde.org>
+at-spi,15,0,0,4,0,0,18,15,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+atk,359,8,8,114,7,5,336,375,95.73333333333333,Serbian (sr) <gnom@prevod.org>
+bluedevil,617,0,0,198,0,0,604,617,100.0,Serbian <kde-i18n-sr@kde.org>
+file-roller,799,138,34,205,32,7,766,971,82.28630278063852,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gdk-pixbuf2,912,376,57,136,59,6,881,1345,67.80669144981412,Serbian (sr) <serbiangnome-lista@nongnu.org>
+glib2,706,736,3335,106,134,507,648,4777,14.779150094201382,Serbian (sr) <serbiagnome-lista@nongnu.org>
+gnome-mime-data,887,0,0,362,0,0,943,887,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-panel,3423,331,183,445,46,26,3150,3937,86.94437388874778,Serbian (sr) <serbiagnome-lista@nongnu.org>
+gnome-vfs2,747,352,183,165,51,32,706,1282,58.268330733229334,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gtk2,6886,3508,3310,1245,811,728,6448,13704,50.248102743724466,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gtk3,5264,3291,3298,974,785,728,4900,11853,44.41069771365899,Serbian (sr) <serbiangnome-lista@nongnu.org>
+k3b,20429,0,0,2522,0,0,18805,20429,100.0,Serbian <kde-i18n-sr@kde.org>
+kaffeine,448,74,68,205,43,9,461,590,75.9322033898305,Serbian <kde-i18n-sr@kde.org>
+kaudiocreator,1123,8,5,270,1,2,1042,1136,98.8556338028169,Serbian <kde-i18n-sr@kde.org>
+kde-l10n,293092,10,9,57723,2,2,280352,293111,99.99351781407044,Serbian <kde-i18n-sr@kde.org>
+kde-plasma-networkmanagement,3699,0,0,1039,0,0,3580,3699,100.0,Serbian <kde-i18n-sr@kde.org>
+kmid2,923,79,20,308,17,8,876,1022,90.31311154598825,Serbian <kde-i18n-sr@kde.org>
+knemo,1186,0,0,347,0,0,1161,1186,100.0,Serbian <kde-i18n-sr@kde.org>
+knights,757,0,0,219,0,0,703,757,100.0,Serbian <kde-i18n-sr@kde.org>
+konversation,10622,0,0,1636,0,0,9869,10622,100.0,Serbian <kde-i18n-sr@kde.org>
+krusader,7956,0,0,1737,0,0,7647,7956,100.0,Serbian <kde-i18n-sr@kde.org>
+kshutdown,504,0,0,122,0,0,486,504,100.0,Serbian <kde-i18n-sr@kde.org>
+ktorrent,7739,0,0,1389,0,0,6884,7739,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-accounts-kcm,990,0,0,263,0,0,929,990,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-approver,70,0,0,17,0,0,69,70,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-auth-handler,62,0,0,21,0,0,59,62,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-call-ui,225,0,0,71,0,0,210,225,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-common-internals,781,0,0,168,0,0,730,781,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-contact-applet,15,0,0,9,0,0,16,15,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-contact-list,405,0,0,111,0,0,393,405,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-contact-runner,177,0,0,35,0,0,181,177,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-desktop-applets,7,0,0,3,0,0,7,7,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-filetransfer-handler,139,0,0,38,0,0,147,139,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-kded-integration-module,225,0,0,49,0,0,229,225,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-presence-applet,19,0,0,12,0,0,19,19,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-send-file,59,0,0,17,0,0,58,59,100.0,Serbian <kde-i18n-sr@kde.org>
+ktp-text-ui,463,0,0,108,0,0,427,463,100.0,Serbian <kde-i18n-sr@kde.org>
+kwebkitpart,624,0,0,158,0,0,586,624,100.0,Serbian <kde-i18n-sr@kde.org>
+libbonoboui,314,7,39,92,3,18,323,360,87.22222222222223,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgnome,1407,0,0,219,0,0,1370,1407,100.0,Serbian (sr) <gnom@prevod.org>
+libgnomecanvas,357,0,0,94,0,0,369,357,100.0,Serbian (sr) <serbiagnome-lista@nongnu.org>
+libgnomeui,1270,83,66,314,19,12,1175,1419,89.49964763918253,Serbian (sr) <gnom@prevod.org>
+libktorrent,519,0,0,115,0,0,553,519,100.0,Serbian <kde-i18n-sr@kde.org>
+libmate,1407,0,0,219,0,0,1370,1407,100.0,Serbian (sr) <gnom@prevod.org>
+libmatecanvas,357,0,0,94,0,0,369,357,100.0,Serbian (sr) <serbiamate-lista@nongnu.org>
+libmatecomponentui,314,7,39,92,3,18,323,360,87.22222222222223,Serbian (sr) <serbianmate-lista@nongnu.org>
+libmateui,1270,83,66,314,19,12,1175,1419,89.49964763918253,Serbian (sr) <gnom@prevod.org>
+mate-file-archiver,794,138,34,205,32,7,762,966,82.19461697722568,Serbian (sr) <serbianmate-lista@nongnu.org>
+mate-file-manager,6241,523,211,1094,97,23,5750,6975,89.47670250896057,Serbian (sr) <serbianmate-lista@nongnu.org>
+mate-mime-data,887,0,0,362,0,0,943,887,100.0,Serbian (sr) <serbianmate-lista@nongnu.org>
+mate-panel,3423,331,183,445,46,26,3150,3937,86.94437388874778,Serbian (sr) <serbiamate-lista@nongnu.org>
+mate-vfs,747,352,183,165,51,32,706,1282,58.268330733229334,Serbian (sr) <serbianmate-lista@nongnu.org>
+mingw-atk,359,8,8,114,7,5,336,375,95.73333333333333,Serbian (sr) <gnom@prevod.org>
+mingw-gdk-pixbuf,912,376,57,136,59,6,881,1345,67.80669144981412,Serbian (sr) <serbiangnome-lista@nongnu.org>
+mingw-glib2,706,736,3335,106,134,507,648,4777,14.779150094201382,Serbian (sr) <serbiagnome-lista@nongnu.org>
+mingw-gtk2,6886,3508,3310,1245,811,728,6448,13704,50.248102743724466,Serbian (sr) <serbiangnome-lista@nongnu.org>
+mingw-gtk3,5264,3291,3298,974,785,728,4900,11853,44.41069771365899,Serbian (sr) <serbiangnome-lista@nongnu.org>
+nautilus,6241,524,211,1094,97,23,5750,6976,89.46387614678899,Serbian (sr) <serbiangnome-lista@nongnu.org>
+nemo,6241,524,211,1094,97,23,5750,6976,89.46387614678899,Serbian (sr) <serbiangnome-lista@nongnu.org>
+polkit-kde,82,0,10,22,0,4,71,92,89.13043478260869,Serbian <kde-i18n-sr@kde.org>
+rekonq,2185,0,0,587,0,0,2135,2185,100.0,Serbian <kde-i18n-sr@kde.org>

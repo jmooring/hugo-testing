@@ -1,0 +1,39 @@
+{{ define "main" }}
+  <div class="container" role="main">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          {{ partial "breadcrumb.html" . }}
+      </div>
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ .Content }}
+      <p>
+          Column explanation:
+          <ul>
+            <li>Package: package name in Fedora operating system</li>
+            <li>Languages: number of identified languages</li>
+            <li>No language: number of translation files for which no language could be deducted</li>
+            <li>File parsing errors: file for which po stats could not be extracted</li>
+            <li>Polib errors: polib could not open the file to extract metadata</li>
+          </ul>
+      </p>
+          <table class="contents sortable">
+              <caption>Click on columns headers to sort values</caption>
+          <tr>
+              <th>Package</th>
+              <th>Language</th>
+              <th>No language</th>
+              <th>File parsing errors</th>
+              <th>Polib errors</th>
+          </tr>
+          {{ range sort .Pages "Title" "asc" }}
+            <tr>
+                <td><a href="{{ .Permalink }}">{{ .Params.package }}</a></td>
+                <td>{{ .Params.started_languages }}</td>
+                <td>{{ .Params.no_languages }}</td>
+                <td>{{ .Params.could_not_process_count }}</td>
+                <td>{{ .Params.polib_error_count }}</td>
+            </tr>
+          {{ end }}
+      </table>
+      </div>
+  </div>
+{{ end }}

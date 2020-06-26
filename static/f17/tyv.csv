@@ -1,0 +1,19 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-do,4,0,608,1,0,143,4,612,0.6535947712418301,Tuvinian <tyv@li.org>
+sugar-abacus,0,0,24,0,0,24,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,81,0,0,35,0,81,0.0,LANGUAGE <LL@li.org>
+sugar-clock,3,0,19,3,0,9,3,22,13.636363636363635,LANGUAGE <LL@li.org>
+sugar-finance,1,0,142,1,0,31,1,143,0.6993006993006993,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,47,0,0,26,0,47,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,184,0,0,56,0,184,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,114,0,0,71,0,114,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,91,0,0,32,0,91,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,64,0,0,49,0,64,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,28,0,0,27,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,15,0,0,6,0,15,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,141,0,0,76,0,141,0.0,LANGUAGE <LL@li.org>
+terminator,9,0,717,5,0,249,13,726,1.2396694214876034,Tuvinian <tyv@li.org>

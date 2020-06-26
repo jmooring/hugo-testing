@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,72,153,97855,55,128,31419,74,98080,0.0734094616639478,LANGUAGE <LL@li.org>
+stellarium,124,0,68072,109,0,26620,135,68196,0.1818288462666432,Sakha (Yakut) (https://www.transifex.com/stellarium/teams/80998/sah/)
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,30,10,119,30,5,76,30,159,18.867924528301888,LANGUAGE <LL@li.org>

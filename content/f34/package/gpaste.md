@@ -1,0 +1,53 @@
+---
+title: "gpaste - translation progress for f34"
+package: gpaste
+date: 2026-01-18T01:53:13+00:00
+started_languages: 15
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 15
+release: f34
+---
+The package gpaste (version 3.40.3):
+
+* represents 1236 source words to be translated
+* is translated into 15 languages in Fedora f34
+
+
+* contains 15 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [tr]({{< ref "/f34/language/tr.md" >}}) | 1234 | 1236 | 99.8 | /mnt/stockage/packages/f34/gpaste/po/tr.po | 
+ | [fr]({{< ref "/f34/language/fr.md" >}}) | 1227 | 1236 | 99.3 | /mnt/stockage/packages/f34/gpaste/po/fr.po | 
+ | [pl]({{< ref "/f34/language/pl.md" >}}) | 1203 | 1236 | 97.3 | /mnt/stockage/packages/f34/gpaste/po/pl.po | 
+ | [it]({{< ref "/f34/language/it.md" >}}) | 1067 | 1236 | 86.3 | /mnt/stockage/packages/f34/gpaste/po/it.po | 
+ | [sv]({{< ref "/f34/language/sv.md" >}}) | 945 | 1236 | 76.5 | /mnt/stockage/packages/f34/gpaste/po/sv.po | 
+ | [nl]({{< ref "/f34/language/nl.md" >}}) | 936 | 1236 | 75.7 | /mnt/stockage/packages/f34/gpaste/po/nl_NL.po | 
+ | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 833 | 1236 | 67.4 | /mnt/stockage/packages/f34/gpaste/po/pt_BR.po | 
+ | [es]({{< ref "/f34/language/es.md" >}}) | 737 | 1236 | 59.6 | /mnt/stockage/packages/f34/gpaste/po/es.po | 
+ | [de]({{< ref "/f34/language/de.md" >}}) | 675 | 1236 | 54.6 | /mnt/stockage/packages/f34/gpaste/po/de.po | 
+ | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 532 | 1236 | 43.0 | /mnt/stockage/packages/f34/gpaste/po/nb_NO.po | 
+ | [ja]({{< ref "/f34/language/ja.md" >}}) | 421 | 1236 | 34.1 | /mnt/stockage/packages/f34/gpaste/po/ja.po | 
+ | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 87 | 1236 | 7.0 | /mnt/stockage/packages/f34/gpaste/po/zh_Hant.po | 
+ | [sl]({{< ref "/f34/language/sl.md" >}}) | 86 | 1236 | 7.0 | /mnt/stockage/packages/f34/gpaste/po/sl.po | 
+ | [cs]({{< ref "/f34/language/cs.md" >}}) | 67 | 1236 | 5.4 | /mnt/stockage/packages/f34/gpaste/po/cs.po | 
+ | [ar]({{< ref "/f34/language/ar.md" >}}) | 0 | 1236 | 0.0 | /mnt/stockage/packages/f34/gpaste/po/ar.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

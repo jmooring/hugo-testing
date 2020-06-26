@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+boost,1,0,0,1,0,0,1,1,100.0,
+ceph,1,0,0,1,0,0,1,1,100.0,
+clapper,75,0,219,45,0,73,88,294,25.510204081632654,Hebrew
+clementine,0,0,3803,0,0,1061,0,3803,0.0,Hebrew (Israel) (http://app.transifex.com/davidsansome/clementine/language/he_IL/)
+coolreader,545,0,156,210,0,63,520,701,77.74607703281026,Hebrew
+duplicity,19,0,2358,4,0,347,18,2377,0.7993268826251577,Hebrew
+electrum,6418,0,6623,1277,0,1171,5838,13041,49.21401732995936,Hebrew
+gnome-shell-extension-gsconnect,818,0,84,257,0,11,825,902,90.68736141906874,Hebrew
+libecpg,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+libpq,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+mingw-postgresql,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+poedit,3279,0,52,709,0,12,3045,3331,98.43890723506455,Hebrew
+postgresql15,271,0,0,41,0,0,299,271,100.0,
+postgresql16,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/)
+python-flask-admin,320,0,47,97,0,15,311,367,87.19346049046321,Hebrew
+visualboyadvance-m,1509,0,1784,570,0,336,1648,3293,45.82447616155481,Hebrew (Israel) (http://app.transifex.com/bgk/vba-m/language/he_IL/)
+warzone2100,2477,0,14741,393,0,3295,2250,17218,14.386107561853873,Hebrew
+xournalpp,1408,0,3350,437,0,468,1376,4758,29.592265657839427,Hebrew

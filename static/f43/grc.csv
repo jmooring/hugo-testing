@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnuradio,88,8,14,85,4,10,256,110,80.0,US English <sdhitefield@gmail.com>
+wesnoth,135335,4146,290329,9209,219,17112,102543,429810,31.487168748982107,

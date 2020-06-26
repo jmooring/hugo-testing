@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,125,17,7875,20,4,1329,119,8017,1.5591867282025695,German (Switzerland) (http://www.transifex.com/projects/p/anaconda/language/de_CH/)
+atril,131,0,2219,13,0,501,117,2350,5.574468085106383,German (Switzerland) (https://www.transifex.com/mate/teams/13566/de_CH/)
+cmake-fedora,0,0,0,0,0,0,0,0,0.0,
+entangle,0,0,953,0,0,229,0,953,0.0,German (Switzerland)
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,German (Switzerland)
+fuse-encfs,1041,24,224,118,3,16,972,1289,80.76027928626843,German (Switzerland) <de_CH@li.org>
+grub2,2104,670,4638,398,180,799,1954,7412,28.386400431732326,German <translation-team-de@lists.sourceforge.net>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,German (Switzerland)
+libmatekbd,0,0,308,0,0,91,0,308,0.0,German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/)
+libuser,938,38,461,204,7,90,990,1437,65.27487821851079,German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/)
+mate-desktop,104,0,2272,9,0,292,108,2376,4.377104377104377,German (Switzerland) (https://www.transifex.com/mate/teams/13566/de_CH/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/)
+mc,0,0,4350,0,0,1266,0,4350,0.0,German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/)
+pam,0,20,515,0,3,97,0,535,0.0,German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/)
+pgadmin3,7372,10214,5703,1852,2774,1251,7044,23289,31.654429129632017,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+php-php-gettext,18,0,0,2,0,0,15,18,100.0,
+policycoreutils,7,0,4486,7,0,691,7,4493,0.15579790785666592,German (Switzerland)
+publican,593,0,8473,59,0,1080,597,9066,6.540922126626958,<fedora-trans-de@redhat.com>
+pykickstart,128,43,1526,13,1,169,133,1697,7.542722451384797,German (Switzerland) (http://www.transifex.com/projects/p/pykickstart/language/de_CH/)
+python-blivet,52,0,532,7,0,71,41,584,8.904109589041095,German (Switzerland) (http://www.transifex.com/projects/p/blivet/language/de_CH/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,German (Switzerland)
+python-meh,0,0,109,0,0,23,0,109,0.0,German (Switzerland)
+python-wtforms,183,0,19,34,0,2,159,202,90.5940594059406,de_CH <LL@li.org>
+usermode,551,0,22,92,0,4,496,573,96.16055846422339,LANGUAGE <LL@li.org>

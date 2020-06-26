@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deluge,17,0,1981,14,0,675,17,1998,0.8508508508508509,Latin <la@li.org>
+evolution-data-server,3,0,5108,3,0,1060,4,5111,0.05869692819409117,Latin <la@li.org>
+gdm,4,0,1319,3,0,229,4,1323,0.30234315948601664,Latin <la@li.org>
+gedit,207,0,4735,17,0,1076,121,4942,4.188587616349656,Latin <la@li.org>
+gnome-games,109,0,7467,40,0,1746,103,7576,1.4387539598732841,Latin <la@li.org>
+gnome-panel,3,0,4579,3,0,626,3,4582,0.06547359231776517,Latin <gnome-latin-list@gnome.org>
+warzone2100,18,34,9182,11,24,2222,20,9234,0.1949317738791423,Latin
+wesnoth,23077,20452,169098,2345,1035,9727,17733,212627,10.853278276042083,Latin

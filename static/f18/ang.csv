@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+at-spi,4,0,0,2,0,0,3,4,100.0,Old English <modean52@comcast.net>
+gdk-pixbuf2,223,169,962,42,33,127,183,1354,16.469719350073856,Old English <modean52@comcast.net>
+gnome-mag,5,0,0,2,0,0,5,5,100.0,Old English <modean52@comcast.net>
+gtk2,403,646,12655,111,225,2448,354,13704,2.940747227086982,Old English <modean52@comcast.net>
+gtk3,158,510,11185,57,199,2231,144,11853,1.3329958660254788,Old English <modean52@comcast.net>
+libgnomecanvas,14,0,343,12,0,82,12,357,3.9215686274509802,Old English <modean52@comcast.net>
+libgweather,51,0,3612,46,0,2655,57,3663,1.3923013923013923,Old English <modean52@comcast.net>
+libmatecanvas,14,0,343,12,0,82,12,357,3.9215686274509802,Old English <modean52@comcast.net>
+libmateweather,51,0,3612,46,0,2655,57,3663,1.3923013923013923,Old English <modean52@comcast.net>
+mingw-gdk-pixbuf,223,169,962,42,33,127,183,1354,16.469719350073856,Old English <modean52@comcast.net>
+mingw-gtk2,403,646,12655,111,225,2448,354,13704,2.940747227086982,Old English <modean52@comcast.net>
+mingw-gtk3,158,510,11185,57,199,2231,144,11853,1.3329958660254788,Old English <modean52@comcast.net>
+vte,27,0,69,6,0,12,31,96,28.125,Old English <modean52@comcast.net>
+vte3,27,0,69,6,0,12,31,96,28.125,Old English <modean52@comcast.net>
+wesnoth,6387,635,483734,1894,193,28567,5981,490756,1.3014614187090938,Old English <http://wiki.wesnoth.org/OldEnglishTranslation>

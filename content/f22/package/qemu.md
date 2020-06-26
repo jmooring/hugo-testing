@@ -1,0 +1,45 @@
+---
+title: "qemu - translation progress for f22"
+package: qemu
+date: 2026-01-17T13:13:34+00:00
+started_languages: 6
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 7
+release: f22
+---
+The package qemu (version 2.3.1):
+
+* represents 32 source words to be translated
+* is translated into 7 languages in Fedora f22
+
+
+* contains 7 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [de]({{< ref "/f22/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/de_DE.po | 
+ | [fr]({{< ref "/f22/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/fr_FR.po | 
+ | [hu]({{< ref "/f22/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f22/qemu/po/hu.po | 
+ | [it]({{< ref "/f22/language/it.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f22/qemu/po/it.po | 
+ | [tr]({{< ref "/f22/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f22/qemu/po/tr.po | 
+ | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f22/qemu/po/zh_CN.po | 
+ | [error]({{< ref "/f22/language/error.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f22/qemu/po/messages.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

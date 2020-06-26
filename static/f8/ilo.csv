@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,7037,2643,523,1018,181,46,8339,10203,68.96991081054593,Joseph Maza <joemaza@comcast.net>
+firstboot,499,2,97,56,1,2,589,598,83.4448160535117,
+kudzu,73,0,0,13,0,0,99,73,100.0,
+redhat-menus,106,6,149,43,4,39,164,261,40.61302681992337,
+rhgb,95,26,0,24,5,0,131,121,78.51239669421489,
+specspo,7,551,304736,2,99,16749,9,305294,0.0022928717891606124,
+system-config-date,0,0,551,0,0,551,0,551,0.0,

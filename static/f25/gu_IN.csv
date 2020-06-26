@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+pgadmin3,2,0,16896,1,0,4401,2,16898,0.011835720203574387,LANGUAGE <LL@li.org>
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+publican-jboss,120,3,109,9,1,4,119,232,51.724137931034484,Gujarati

@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+sugar,0,0,915,0,0,261,0,915,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,57,0,0,30,0,57,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,1,0,592,1,0,126,1,593,0.16863406408094433,LANGUAGE <LL@li.org>
+sugar-chat,0,0,26,0,0,12,0,26,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,24,0,0,11,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,1,0,0,1,0,1,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,99,0,0,21,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,90,0,0,61,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,90,0,0,31,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,52,0,0,16,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,57,0,0,29,0,57,0.0,LANGUAGE <LL@li.org>
+sugar-surf,0,0,53,0,0,29,0,53,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,13,0,0,7,0,13,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,78,0,0,40,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1206,2,0,353,1,1208,0.16556291390728478,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,75,0,0,45,0,75,0.0,LANGUAGE <LL@li.org>

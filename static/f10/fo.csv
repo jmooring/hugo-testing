@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,0,0,2661,0,0,586,0,2661,0.0,Faroese <fo@li.org>
+iso-codes,149,35,893,114,12,322,136,1077,13.834726090993502,Faroese
+isomaster,495,177,0,105,1,0,508,672,73.66071428571429,<LL@li.org>
+squirrelmail,8037,0,2,1602,0,1,7945,8039,99.97512128374176,Faroese <squirrelmail-i18n@lists.sourceforge.net>
+tuxpaint,761,0,0,186,0,0,746,761,100.0,Faroese <morshus@morshus.com>

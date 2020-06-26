@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iok,0,0,206,0,0,40,0,206,0.0,Sanskrit <LL@li.org>
+libreoffice,64533,5091,28592,19726,2082,8422,47590,98216,65.70518041866904,LANGUAGE <LL@li.org>
+tuxpaint,1515,0,0,279,0,0,1091,1515,100.0,

@@ -1,0 +1,44 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,83,0,1633,23,0,372,91,1716,4.836829836829837,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+caja,110,0,9132,35,0,1461,131,9242,1.1902185674096515,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+caja-extensions,11,0,545,5,0,122,16,556,1.9784172661870503,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+cinnamon-translations,189,0,13252,74,0,3141,225,13441,1.4061453760880886,Franco-Provençal <frp@li.org>
+engrampa,31,0,1907,10,0,345,38,1938,1.5995872033023735,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+eom,7,0,1724,5,0,322,9,1731,0.4043905257076834,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+exaile,3,0,4003,3,0,1022,3,4006,0.07488766849725412,Franco-Provençal <frp@li.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+libmatemixer,4,0,238,3,0,123,6,242,1.6528925619834711,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+libmateweather,6,0,493,6,0,177,6,499,1.2024048096192386,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+lxinput,60,5,18,21,2,3,69,83,72.28915662650603,LANGUAGE <LL@li.org>
+lxlauncher,42,0,16,10,0,7,45,58,72.41379310344827,LANGUAGE <LL@li.org>
+lxmenu-data,53,0,44,28,0,9,57,97,54.63917525773196,LANGUAGE <LL@li.org>
+lxmusic,115,10,78,64,5,20,155,203,56.65024630541872,LANGUAGE <LL@li.org>
+lxpanel,724,203,379,251,73,100,892,1306,55.4364471669219,LXDE Traduccion Arpitan <alekcxjo+arpitan@gmail.com>
+lxpolkit,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+lxrandr,33,14,120,13,7,21,39,167,19.760479041916167,LANGUAGE <LL@li.org>
+lxsession,16,15,724,10,5,151,16,755,2.119205298013245,LANGUAGE <LL@li.org>
+lxsession-edit,13,0,51,5,0,6,12,64,20.3125,LANGUAGE <LL@li.org>
+lxshortcut,23,0,20,12,0,7,29,43,53.48837209302325,LANGUAGE <LL@li.org>
+lxtask,125,0,5,49,0,2,152,130,96.15384615384616,LANGUAGE <LL@li.org>
+lxterminal,58,53,136,44,29,58,73,247,23.481781376518217,LANGUAGE <LL@li.org>
+mate-applets,12,0,2609,9,0,617,18,2621,0.45784051888592137,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-backgrounds,4,0,26,3,0,18,4,30,13.333333333333334,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-control-center,17,0,2745,10,0,646,24,2762,0.6154960173787111,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-desktop,13,0,2388,7,0,325,22,2401,0.5414410662224073,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-media,5,0,220,4,0,92,6,225,2.2222222222222223,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-menus,11,0,86,7,0,30,11,97,11.34020618556701,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-notification-daemon,2,0,137,1,0,36,3,139,1.4388489208633095,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-panel,94,0,4293,28,0,577,113,4387,2.142694324139503,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-screensaver,21,0,962,10,0,146,31,983,2.136317395727365,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-session-manager,26,0,655,9,0,105,30,681,3.81791483113069,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-settings-daemon,14,0,1690,6,0,241,20,1704,0.8215962441314555,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-system-monitor,15,0,1292,9,0,299,23,1307,1.1476664116296864,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-terminal,42,0,4345,16,0,490,54,4387,0.9573740597219056,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-user-guide,1,0,4,1,0,1,1,5,20.0,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mate-utils,28,0,3648,10,0,652,36,3676,0.7616974972796519,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+mintmenu,644,0,3484,222,0,660,806,4128,15.60077519379845,Franco-Provençal <frp@li.org>
+mozo,5,0,37,4,0,12,5,42,11.904761904761903,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)
+nemo-extensions,1,0,0,1,0,0,1,1,100.0,Franco-Provençal <frp@li.org>
+oggconvert,89,0,43,39,0,5,111,132,67.42424242424242,Franco-Provençal <frp@li.org>
+python-caja,1,0,5,1,0,1,1,6,16.666666666666664,Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)

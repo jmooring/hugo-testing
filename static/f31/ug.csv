@@ -1,0 +1,695 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,3801,4088,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+NetworkManager-fortisslvpn,6,20,297,4,8,48,7,323,1.8575851393188854,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+NetworkManager-l2tp,67,0,1072,30,0,148,71,1139,5.88235294117647,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+NetworkManager-openconnect,2314,104,2908,427,20,489,2171,5326,43.44723995493804,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+NetworkManager-openvpn,77,31,941,28,14,127,71,1049,7.340324118207817,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+NetworkManager-pptp,102,0,42,38,0,6,106,144,70.83333333333334,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+NetworkManager-ssh,24,10,252,7,6,56,23,286,8.391608391608392,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+NetworkManager-sstp,102,0,42,38,0,6,106,144,70.83333333333334,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+NetworkManager-vpnc,114,0,42,38,0,3,118,156,73.07692307692307,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+Thunar,3555,0,854,633,0,129,2683,4409,80.63052846450442,Uighur (https://www.transifex.com/xfce/teams/16840/ug/)
+accerciser,598,0,0,221,0,0,590,598,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+agenda,5,0,12,2,0,4,4,17,29.411764705882355,Uyghur <ug@li.org>
+aisleriot,2807,0,0,617,0,0,2135,2807,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+akonadi-calendar-tools,14,8,461,13,2,94,20,483,2.898550724637681,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+akonadi-import-wizard,41,30,320,17,9,57,41,391,10.485933503836318,Uyghur <kde-i18n-doc@kde.org>
+akregator,227,61,1488,125,20,286,236,1776,12.781531531531531,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+alacarte,42,0,0,16,0,0,38,42,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+analitza,0,67,925,0,43,179,0,992,0.0,Uyghur <kde-i18n-doc@kde.org>
+anjuta,8136,0,7,2040,0,1,7230,8143,99.9140365958492,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ark,229,455,1217,84,108,149,216,1901,12.046291425565492,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+artikulate,35,20,382,29,16,109,44,437,8.009153318077804,Uyghur <kde-i18n-doc@kde.org>
+asunder,16,0,476,14,0,77,17,492,3.2520325203252036,http://littlesvr.ca/ostd/
+at-spi2-core,96,0,0,14,0,0,115,96,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+atk,398,0,0,139,0,0,343,398,100.0,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+atril,204,0,3643,97,0,545,233,3847,5.302833376657135,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+audex,123,4,3220,75,2,335,135,3347,3.674932775619958,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+avogadro,379,0,6228,327,0,2045,427,6607,5.736340245194491,Uyghur <ug@li.org>
+avogadro2,53,49,360,43,19,87,71,462,11.471861471861471,Uyghur <ug@li.org>
+avogadro2-libs,58,133,2458,57,75,696,81,2649,2.1895054737636843,Uyghur <ug@li.org>
+baloo-widgets,22,18,11,12,9,10,19,51,43.13725490196079,
+baobab,184,0,0,57,0,0,166,184,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+bleachbit,70,0,910,57,0,164,78,980,7.142857142857142,Uyghur <ug@li.org>
+blinken,133,0,0,47,0,0,141,133,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+blogilo,214,13,1165,131,6,200,234,1392,15.373563218390803,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+blueberry,24,0,138,7,0,29,21,162,14.814814814814813,Uyghur <ug@li.org>
+bomber,70,9,24,21,1,5,66,103,67.96116504854369,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+bovo,52,4,25,20,1,4,53,81,64.19753086419753,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+brasero,5515,0,0,977,0,0,4331,5515,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+bzr,2,0,33247,1,0,2352,3,33249,0.006015218502812114,Uyghur <ug@li.org>
+caja,6950,0,2681,1255,0,346,5632,9631,72.16280760045686,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+caja-extensions,95,3,573,32,3,111,76,671,14.157973174366617,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+calibre,50,0,160924,19,0,18460,49,160974,0.031060916669772762,Uyghur (http://www.transifex.com/calibre/calibre/language/ug/)
+calligra,5021,827,29929,2884,343,4490,5159,35777,14.034156022025323,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+calligraplan,714,1902,6988,453,682,928,748,9604,7.434402332361516,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+cantor,224,58,2498,157,22,366,254,2780,8.057553956834532,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+caribou,200,0,0,60,0,0,195,200,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+cervisia,201,5,1413,116,4,301,200,1619,12.415071031500927,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+cheese,574,0,0,125,0,0,442,574,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+choqok,247,60,1950,166,31,372,266,2257,10.943730615861764,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+cinnamon-desktop,234,0,0,32,0,0,198,234,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+cinnamon-translations,2155,0,8196,461,0,2102,1752,10351,20.81924451743793,Uyghur <ug@li.org>
+clamtk,104,0,263,43,0,85,107,367,28.337874659400548,Uyghur <ug@li.org>
+clutter,372,6,2679,153,2,520,339,3057,12.168792934249264,Uighur <ug@li.org>
+cogl,295,0,98,69,0,11,332,393,75.06361323155217,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord-kde,167,8,194,79,2,39,173,369,45.25745257452575,Uyghur <kde-i18n-doc@kde.org>
+console-setup,980,15,6,172,3,3,832,1001,97.9020979020979,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+dasher,634,0,0,209,0,0,596,634,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+dconf-editor,131,39,1294,18,17,152,115,1464,8.94808743169399,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+debconf,191,0,0,17,0,0,174,191,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+deepin-daemon,415,0,648,126,0,102,426,1063,39.040451552210726,Uighur (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/ug/)
+deepin-terminal,103,0,404,32,0,145,108,507,20.315581854043394,Uighur (https://www.transifex.com/linuxdeepin/teams/3976/ug/)
+deja-dup,1281,0,798,215,0,116,1065,2079,61.61616161616161,Uyghur <ug@li.org>
+devhelp,415,0,0,108,0,0,387,415,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dolphin,1041,340,2879,342,119,155,904,4260,24.43661971830986,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+dolphin-plugins,71,14,1130,49,2,288,75,1215,5.843621399176955,Uyghur <kde-i18n-doc@kde.org>
+dragon,267,4,7,82,2,3,237,278,96.0431654676259,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+duplicity,44,0,2171,33,0,286,47,2215,1.9864559819413092,Uyghur <ug@li.org>
+ekiga,4179,0,85,713,0,3,3423,4264,98.00656660412757,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+elementary-calculator,75,0,30,34,0,10,75,105,71.42857142857143,LANGUAGE <LL@li.org>
+elementary-calendar,335,119,249,138,35,56,330,703,47.652916073968704,
+elementary-camera,0,0,65,0,0,18,0,65,0.0,Uyghur <ug@li.org>
+elementary-capnet-assist,32,0,50,5,0,9,24,82,39.02439024390244,Uyghur <ug@li.org>
+elementary-code,312,290,549,99,41,117,295,1151,27.106863596872284,
+elementary-files,1264,578,1069,292,95,172,1059,2911,43.421504637581585,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+elementary-greeter,15,2,149,5,1,31,12,166,9.036144578313253,Uyghur <https://l10n.elementary.io/projects/desktop/greeter/ug/>
+elementary-music,960,137,211,297,19,50,936,1308,73.39449541284404,
+elementary-photos,3060,643,207,684,82,40,2626,3910,78.26086956521739,
+elementary-planner,0,0,2639,0,0,508,0,2639,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,118,1,93,35,1,19,116,212,55.660377358490564,
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,1,0,223,1,0,43,1,224,0.4464285714285714,Uyghur <https://l10n.elementary.io/projects/desktop/sideload/ug/>
+elementary-terminal,142,14,286,30,4,56,122,442,32.126696832579185,Uyghur <ug@li.org>
+elementary-videos,163,5,178,53,2,35,180,346,47.10982658959538,Uyghur <ug@li.org>
+engrampa,1156,0,6752,267,0,621,939,7908,14.618108244815378,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+eog,1616,0,0,327,0,0,1263,1616,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+eom,231,0,1538,109,0,232,267,1769,13.058224985867723,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+epiphany,2461,0,0,570,0,0,2118,2461,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+evince,1523,0,0,368,0,0,1298,1523,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+evolution,21006,0,110,4420,0,7,17442,21116,99.47906800530404,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+evolution-data-server,5571,0,96,1157,0,6,5390,5667,98.30598200105875,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+evolution-mapi,516,0,0,106,0,0,444,516,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+exiv2,4663,4415,28934,2058,1644,2384,4763,38012,12.267178785646637,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+exo,1306,0,148,276,0,23,1090,1454,89.82118294360384,Uighur (http://www.transifex.com/xfce/exo/language/ug/)
+file-roller,1325,0,0,292,0,0,996,1325,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+filelight,59,18,342,34,5,55,67,419,14.081145584725538,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+five-or-more,465,0,0,101,0,0,447,465,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+folks,858,0,0,111,0,0,778,858,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+four-in-a-row,426,1,0,105,1,0,396,427,99.76580796252928,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+fragments,1430,0,576,426,0,100,1324,2006,71.28614157527417,Uighur (https://www.transifex.com/transmissionbt/teams/33778/ug/)
+gala,41,0,99,16,0,18,46,140,29.28571428571429,Uyghur <https://l10n.elementary.io/projects/desktop/gala/ug/>
+garcon,109,0,13,35,0,1,106,122,89.34426229508196,Uighur (http://www.transifex.com/xfce/garcon/language/ug/)
+gbrainy,5432,0,2971,937,0,162,4391,8403,64.64357967392598,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gconf-editor,336,0,0,98,0,0,288,336,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gcr,677,0,0,242,0,0,643,677,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gdk-pixbuf2,1354,0,0,202,0,0,1107,1354,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gdm,558,23,69,75,4,8,454,650,85.84615384615385,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gedit,4362,0,0,754,0,0,3285,4362,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gigolo,455,0,12,119,0,8,391,467,97.4304068522484,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+glade,4367,0,0,1131,0,0,3986,4367,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+glade3,542,0,3777,333,0,776,558,4319,12.549201203982404,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+glib-networking,161,0,0,29,0,0,137,161,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+glib2,5426,0,38,860,0,4,5080,5464,99.30453879941435,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-applets,3407,0,0,796,0,0,3070,3407,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-backgrounds,24,0,0,18,0,0,30,24,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-bluetooth,303,0,0,95,0,0,266,303,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-books,301,0,0,121,0,0,267,301,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-boxes,750,0,0,167,0,0,718,750,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-calculator,1078,0,0,334,0,0,1026,1078,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-chess,1099,0,105,186,0,4,949,1204,91.27906976744185,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-clocks,127,0,1,59,0,1,126,128,99.21875,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-color-manager,1681,0,57,329,0,7,1328,1738,96.72036823935558,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-contacts,344,0,0,151,0,0,326,344,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-control-center,4462,2,137,1432,2,17,4192,4601,96.97891762660291,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-desktop3,232,0,0,36,0,0,200,232,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-dictionary,801,0,0,179,0,0,600,801,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-disk-utility,3775,0,88,734,0,3,3382,3863,97.7219777375097,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-doc-utils,251,0,0,101,0,0,261,251,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-documents,301,0,0,121,0,0,267,301,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-font-viewer,46,0,0,24,0,0,63,46,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-gmail,0,0,187,0,0,31,0,187,0.0,Uyghur <ug@li.org>
+gnome-icon-theme,4,0,0,2,0,0,5,4,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-initial-setup,318,0,0,83,0,0,269,318,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-keyring,553,0,0,112,0,0,504,553,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-klotski,120,0,0,57,0,0,128,120,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-mahjongg,159,0,11,51,0,2,155,170,93.52941176470588,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-menus,70,0,0,27,0,0,65,70,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-mines,261,0,0,63,0,0,215,261,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-nettool,664,0,0,219,0,0,625,664,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-nibbles,526,0,0,130,0,0,474,526,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-online-accounts,795,0,0,151,0,0,768,795,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-packagekit,5048,0,0,811,0,0,3788,5048,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-panel,3377,81,62,485,7,16,2665,3520,95.9375,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-power-manager,432,1,0,144,1,0,340,433,99.76905311778292,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-robots,822,1,0,162,1,0,736,823,99.87849331713244,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-screensaver,291,0,0,58,0,0,217,291,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-screenshot,343,0,0,71,0,0,303,343,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-search-tool,1359,0,0,200,0,0,1046,1359,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-session,563,0,0,110,0,0,463,563,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-settings-daemon,0,0,0,0,0,0,0,0,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-shell,1550,0,158,378,0,3,1320,1708,90.74941451990632,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-sudoku,469,0,0,111,0,0,404,469,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-system-log,420,0,0,66,0,0,331,420,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-system-monitor,1280,0,0,308,0,0,1149,1280,100.0,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-terminal,2308,0,0,433,0,0,1973,2308,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-tetravex,116,1,0,39,1,0,98,117,99.14529914529915,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-themes,101,0,0,34,0,0,120,101,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-themes-extra,24,0,0,9,0,0,23,24,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-user-share,224,0,0,29,0,0,183,224,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gnome-video-effects,28,0,228,17,0,51,30,256,10.9375,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gpicview,236,0,0,52,0,0,211,236,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+granatier,52,0,195,23,0,45,47,247,21.052631578947366,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+granite,84,17,168,38,6,44,83,269,31.226765799256505,Uyghur <ug@li.org>
+grantlee-editor,74,20,306,46,5,67,92,400,18.5,Uyghur <kde-i18n-doc@kde.org>
+gsettings-desktop-schemas,3600,0,1690,428,0,40,2844,5290,68.05293005671076,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gtk2,2577,616,9188,878,253,1451,2330,12381,20.814150714804942,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gtk3,13338,0,53,2840,0,7,11036,13391,99.60421178403406,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gtk4,13338,0,53,2840,0,7,11036,13391,99.60421178403406,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gtkhtml3,488,0,0,310,0,0,514,488,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gtksourceview3,127,82,113,40,21,45,120,322,39.44099378881988,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gtksourceview4,1608,0,0,670,0,0,1570,1608,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gucharmap,1071,0,0,363,0,0,1140,1071,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gvfs,2640,0,8,583,0,2,2364,2648,99.69788519637463,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+gwenview,259,68,1194,177,28,189,285,1521,17.02827087442472,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iagno,103,0,14,37,0,1,100,117,88.03418803418803,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+iso-codes,1053,30,3,439,9,3,859,1086,96.96132596685084,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+isomaster,28,1,645,21,1,85,28,674,4.154302670623145,http://littlesvr.ca/ostd/
+jmol,105,16,3045,92,9,920,113,3166,3.3164876816171827,Uyghur <ug@li.org>
+json-glib,208,0,18,25,0,2,167,226,92.03539823008849,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+juk,1291,94,112,327,12,24,1092,1497,86.23914495657982,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+k3b,971,61,19189,498,26,1997,934,20221,4.801938578705307,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kactivitymanagerd,4,2,1,1,1,1,3,7,57.14285714285714,
+kaddressbook,68,21,661,46,10,112,75,750,9.066666666666666,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kajongg,108,37,2299,84,25,401,110,2444,4.4189852700491,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kalarm,438,206,6625,221,62,737,427,7269,6.025588113908379,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kalgebra,58,9,102,43,4,36,69,169,34.319526627218934,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kalzium,634,17,9791,367,7,1157,623,10442,6.071633786630914,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kamera,16,0,326,11,0,26,17,342,4.678362573099415,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kamoso,8,13,81,4,5,18,13,102,7.8431372549019605,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kanagram,225,186,117,73,29,43,196,528,42.61363636363637,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kapman,56,0,58,23,0,13,49,114,49.122807017543856,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kapptemplate,15,13,244,9,5,38,20,272,5.514705882352941,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kate,2134,560,1922,672,136,262,1961,4616,46.23050259965338,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+katomic,54,0,131,26,0,33,56,185,29.18918918918919,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kaudiocreator,95,0,1041,79,0,194,104,1136,8.362676056338028,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kblackbox,44,0,1320,24,0,78,43,1364,3.225806451612903,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kblocks,32,1,126,13,1,24,33,159,20.125786163522015,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kbounce,42,0,112,18,0,24,43,154,27.27272727272727,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kbrickbuster,36,0,116,20,0,20,41,152,23.684210526315788,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kbruch,64,0,1281,57,0,138,70,1345,4.758364312267658,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kcachegrind,79,340,3953,68,184,311,87,4372,1.8069533394327537,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kcalc,150,1,841,131,1,196,161,992,15.120967741935484,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kcharselect,23,9,56,13,2,19,30,88,26.136363636363637,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kcm_wacomtablet,66,50,872,38,25,159,68,988,6.680161943319838,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kcolorchooser,14,6,9,6,1,3,19,29,48.275862068965516,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kcron,534,0,0,190,0,0,492,534,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kde-cli-tools,1272,83,750,152,10,55,1002,2105,60.427553444180525,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kde-dev-utils,22,7,67,14,1,20,26,96,22.916666666666664,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kde-l10n,58943,205,45209,14572,33,6332,51146,104357,56.482075950822654,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kde-partitionmanager,180,123,1923,131,46,347,196,2226,8.086253369272237,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kde-print-manager,287,14,679,124,6,147,300,980,29.28571428571429,Uyghur <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,22,4,29,8,2,4,21,55,40.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdepim-addons,226,78,1858,77,20,308,209,2162,10.453283996299723,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdepim-apps-libs,4,6,13,4,3,3,4,23,17.391304347826086,Uyghur <kde-i18n-doc@kde.org>
+kdepim-runtime,1313,140,4562,340,43,504,1177,6015,21.828761429758934,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdeplasma-addons,67,308,903,49,134,305,70,1278,5.242566510172144,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdesdk-kioslaves,35,0,47,5,0,12,40,82,42.68292682926829,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdesdk-thumbnailers,0,0,4,0,0,4,0,4,0.0,Uyghur <kde-i18n-doc@kde.org>
+kdesvn,180,86,4671,130,45,739,201,4937,3.6459388292485317,Uyghur <kde-i18n-doc@kde.org>
+kdevelop,1038,446,10455,558,197,1630,1046,11939,8.694195493759945,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdevelop-php,26,5,498,9,2,61,28,529,4.914933837429111,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdevelop-python,17,2,563,10,1,90,23,582,2.9209621993127146,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdf,83,0,98,47,0,22,84,181,45.85635359116022,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdialog,232,65,62,51,10,12,232,359,64.62395543175488,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdiamond,32,0,90,14,0,18,37,122,26.229508196721312,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdiff3,133,38,3337,69,20,509,137,3508,3.79133409350057,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kdnssd,14,0,16,5,0,2,14,30,46.666666666666664,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+keditbookmarks,216,8,242,103,2,27,245,466,46.3519313304721,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kexi,497,421,6418,324,191,976,516,7336,6.7748091603053435,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-akonadi-calendar,169,12,1696,72,5,211,165,1877,9.003729355354288,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-akonadi-contacts,384,87,948,153,38,106,328,1419,27.061310782241016,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-akonadi-mime,104,23,445,33,3,71,80,572,18.181818181818183,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Uyghur <kde-i18n-doc@kde.org>
+kf5-akonadi-server,278,27,2209,99,13,317,241,2514,11.05807478122514,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-audiocd-kio,766,83,2,173,1,1,732,851,90.0117508813161,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-calendarsupport,149,88,2739,83,48,286,141,2976,5.006720430107527,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-eventviews,294,7,2655,116,3,200,274,2956,9.945872801082544,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-grantleetheme,0,0,14,0,0,6,0,14,0.0,Uyghur <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,181,70,2247,118,27,311,173,2498,7.245796637309848,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kalarmcal,22,63,113,18,32,51,27,198,11.11111111111111,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kblog,17,0,226,2,0,25,18,243,6.995884773662551,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kbookmarks,0,203,27,0,46,3,0,230,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kcalendarutils,588,681,361,243,121,63,551,1630,36.07361963190184,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kcmutils,514,52,0,68,4,0,397,566,90.81272084805654,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kconfig,0,44,225,0,5,97,0,269,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kconfigwidgets,293,26,5,103,13,3,273,324,90.4320987654321,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kcontacts,94,0,83,74,0,34,95,177,53.10734463276836,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kcoreaddons,148,273,69,54,85,36,157,490,30.20408163265306,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kdeclarative,74,34,8,11,3,2,62,116,63.793103448275865,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kdelibs4support,3691,58,1064,1583,24,757,3595,4813,76.68813629752754,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kdoctools,8,0,0,4,0,0,12,8,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kholidays,0,46,93,0,32,58,0,139,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-khtml,1502,131,88,286,15,9,1213,1721,87.27484020918071,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kiconthemes,25,11,1,16,1,1,28,37,67.56756756756756,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kidentitymanagement,9,0,172,6,0,17,10,181,4.972375690607735,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kimap,20,1,89,20,1,28,24,110,18.181818181818183,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kinit,108,26,0,11,3,0,84,134,80.59701492537313,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kio,7213,1155,4042,950,208,227,5489,12410,58.12248186946011,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kipi-plugins,573,94,4838,296,27,857,564,5505,10.408719346049047,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kjobwidgets,0,133,0,0,38,0,0,133,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kjsembed,248,0,0,44,0,0,224,248,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kldap,25,0,157,22,0,32,26,182,13.736263736263737,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kmailtransport,68,2,584,45,2,62,71,654,10.397553516819572,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kmime,5,0,154,3,0,7,5,159,3.1446540880503147,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-knewstuff,591,157,740,124,60,54,454,1488,39.71774193548387,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-knotifications,0,20,0,0,7,0,0,20,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-knotifyconfig,86,43,0,16,1,0,66,129,66.66666666666666,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kontactinterface,4,0,0,2,0,0,9,4,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kpackage,160,61,278,46,13,40,154,499,32.06412825651302,Uyghur <kde-i18n-doc@kde.org>
+kf5-kparts,104,19,0,26,2,0,88,123,84.5528455284553,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kpimtextedit,42,14,316,31,10,122,44,372,11.29032258064516,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kross,82,18,0,29,6,0,80,100,82.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kservice,92,53,22,13,11,3,81,167,55.08982035928144,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-ksmtp,1,3,93,1,1,11,1,97,1.0309278350515463,Uyghur <kde-i18n-doc@kde.org>
+kf5-ktexteditor,4050,1055,3619,734,192,337,3532,8724,46.42365887207703,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-ktextwidgets,456,13,4,120,9,1,380,473,96.40591966173362,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-ktnef,50,0,305,34,0,109,52,355,14.084507042253522,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kunitconversion,4267,1097,371,1799,461,213,3500,5735,74.40278988666086,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kwallet,373,12,951,54,3,32,328,1336,27.91916167664671,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kwidgetsaddons,0,1210,57,0,438,15,0,1267,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kxmlgui,1036,461,48,128,89,4,762,1545,67.05501618122977,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-kxmlrpcclient,6,0,7,1,0,1,6,13,46.15384615384615,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-libkcddb,506,0,51,234,0,17,507,557,90.84380610412927,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-libkcompactdisc,15,0,0,10,0,0,16,15,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-libkdepim,117,30,318,57,16,54,117,465,25.161290322580644,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-libkgeomap,16,0,123,11,0,35,16,139,11.510791366906476,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-libkleo,150,37,1021,66,21,222,136,1208,12.417218543046356,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-libksane,80,0,192,50,0,33,66,272,29.411764705882355,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-libksieve,282,83,2934,150,27,380,287,3299,8.548044862079418,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-libktorrent,56,0,415,28,0,78,55,471,11.8895966029724,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-mailcommon,258,54,2519,147,22,302,243,2831,9.113387495584599,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-mailimporter,10,2,1396,8,1,118,11,1408,0.7102272727272727,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-messagelib,577,339,6672,306,100,769,558,7588,7.6041117554032684,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-pimcommon,175,42,815,105,21,122,171,1032,16.95736434108527,Uyghur <kde-i18n-doc@kde.org>
+kf5-plasma,217,43,246,67,14,67,205,506,42.88537549407115,Uyghur <kde-i18n-doc@kde.org>
+kf5-solid,0,435,247,0,198,25,0,682,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-sonnet,0,645,22,0,68,5,0,667,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kf5-syntax-highlighting,0,304,238,0,221,113,0,542,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kfind,247,16,241,104,4,9,235,504,49.007936507936506,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kfloppy,26,0,615,16,0,84,33,641,4.05616224648986,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kfourinline,111,0,281,65,0,92,112,392,28.316326530612244,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kgamma,15,0,115,9,0,7,14,130,11.538461538461538,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kgeography,9140,265,288,6765,184,180,8855,9693,94.29485195501908,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kget,655,25,2266,376,10,407,646,2946,22.233536999321114,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kgoldrunner,136,0,23420,100,0,808,150,23556,0.5773475972151468,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kgpg,209,29,5044,135,18,545,207,5282,3.9568345323741005,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kgraphviewer,123,18,1064,58,4,153,127,1205,10.207468879668049,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+khangman,51,14,410,25,7,89,57,475,10.73684210526316,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+khelpcenter,203,24,38,76,8,6,213,265,76.60377358490567,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+khotkeys,125,1,312,77,1,51,132,438,28.538812785388128,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kig,233,16,7628,134,5,1163,205,7877,2.957978925987051,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kigo,68,2,430,45,2,82,72,500,13.600000000000001,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kile,601,83,12310,406,30,1747,611,12994,4.625211636139757,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+killbots,53,14,574,37,14,77,57,641,8.268330733229329,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kinfocenter,1305,93,1031,631,40,260,1427,2429,53.725813091807325,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kio-extras,407,36,600,91,9,31,362,1043,39.02205177372963,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kio_gopher,8,0,9,3,0,2,8,17,47.05882352941176,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kiriki,34,0,110,19,0,31,32,144,23.61111111111111,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kiten,76,0,565,57,0,122,93,641,11.856474258970358,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kjots,78,7,314,40,4,62,83,399,19.548872180451127,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kjumpingcube,40,0,372,25,0,70,47,412,9.70873786407767,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kleopatra,422,299,8041,215,119,1011,439,8762,4.816251997260899,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+klettres,47,0,391,30,0,54,51,438,10.730593607305936,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+klickety,48,3,127,29,3,30,57,178,26.96629213483146,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+klines,33,0,66,16,0,12,34,99,33.33333333333333,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmag,405,5,22,96,1,1,342,432,93.75,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmahjongg,50,14,276,30,6,62,53,340,14.705882352941178,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmail,643,278,7759,318,91,915,627,8680,7.407834101382489,Uyghur <kde-i18n-doc@kde.org>
+kmail-account-wizard,336,55,408,69,12,47,287,799,42.052565707133915,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmenuedit,87,0,186,37,0,26,92,273,31.868131868131865,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmines,39,0,80,20,0,22,40,119,32.773109243697476,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmix,681,153,102,156,30,23,614,936,72.75641025641025,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmousetool,28,0,119,11,0,21,35,147,19.047619047619047,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmouth,109,0,1406,60,0,144,107,1515,7.194719471947194,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmplayer,1248,1,0,370,1,0,1152,1249,99.919935948759,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmplot,151,14,2326,109,6,365,156,2491,6.061822561220393,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kmymoney,1060,451,19906,726,228,2634,1117,21417,4.949339309894009,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+knavalbattle,59,0,340,31,0,71,66,399,14.786967418546364,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+knetwalk,60,2,168,15,1,38,41,230,26.08695652173913,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+knotes,113,80,421,62,34,97,125,614,18.403908794788272,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kolf,69,0,332,50,0,98,74,401,17.206982543640898,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kollision,24,0,85,13,0,17,26,109,22.018348623853214,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kolourpaint,215,2,2368,156,1,292,249,2585,8.317214700193423,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kompare,95,5,1330,60,4,132,100,1430,6.643356643356643,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+konqueror,4347,113,3876,959,28,167,3747,8336,52.14731285988484,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+konquest,38,0,208,26,0,72,41,246,15.447154471544716,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+konsole5,1005,423,1450,246,116,227,864,2878,34.920083391243914,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kontact,55,5,539,30,1,67,62,599,9.181969949916526,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kopete,1542,35,16850,863,13,2581,1466,18427,8.368155424105932,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+korganizer,456,164,5749,218,73,554,450,6369,7.159679698539802,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kpat,48,0,425,32,0,108,53,473,10.14799154334038,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kphotoalbum,269,116,9063,194,54,756,302,9448,2.8471634208298053,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kpmcore,161,1143,1736,77,155,241,201,3040,5.296052631578947,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+krdc,187,24,1116,91,10,196,190,1327,14.091936699321778,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kreport,0,283,231,0,164,70,0,514,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kreversi,46,13,369,27,6,108,49,428,10.74766355140187,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+krfb,18,17,641,11,6,74,23,676,2.6627218934911245,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+krita,823,9819,15477,617,3995,1548,899,26119,3.1509629005704656,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kruler,31,23,130,17,1,29,34,184,16.847826086956523,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+krusader,565,258,7115,373,97,1272,562,7938,7.117661879566642,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kscreenlocker,2,0,202,1,0,19,2,204,0.9803921568627451,Uyghur <kde-i18n-doc@kde.org>
+kshisen,41,4,523,24,1,45,45,568,7.21830985915493,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ksirk,656,0,5107,232,0,530,556,5763,11.382960263751517,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ksnakeduel,47,0,184,18,0,35,44,231,20.346320346320347,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kspaceduel,37,0,128,30,0,51,45,165,22.424242424242426,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ksquares,50,0,207,29,0,47,55,257,19.45525291828794,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kstars,1126,8376,50294,933,4765,10669,1172,59796,1.883069101612148,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ksudoku,67,5,1674,36,3,124,63,1746,3.8373424971363117,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ksysguard,666,31,396,203,11,23,594,1093,60.933211344922235,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ksystemlog,2806,98,130,431,16,32,2181,3034,92.48516809492419,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kteatime,140,14,49,52,4,11,110,203,68.96551724137932,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ktimer,27,0,231,22,0,31,33,258,10.465116279069768,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ktorrent,619,29,6926,389,15,986,614,7574,8.172696065487193,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ktouch,101,7,840,70,3,180,117,948,10.654008438818567,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ktp-accounts-kcm,175,15,848,117,8,157,190,1038,16.859344894026975,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ktp-approver,8,2,61,6,1,11,14,71,11.267605633802818,Uyghur <kde-i18n-doc@kde.org>
+ktp-auth-handler,42,0,41,17,0,7,42,83,50.602409638554214,Uyghur <kde-i18n-doc@kde.org>
+ktp-common-internals,69,3,917,44,3,159,87,989,6.976744186046512,Uyghur <kde-i18n-doc@kde.org>
+ktp-contact-list,56,9,615,27,4,96,61,680,8.235294117647058,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ktp-contact-runner,15,2,191,8,2,33,15,208,7.211538461538461,Uyghur <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,26,0,115,15,0,24,33,141,18.439716312056735,Uyghur <kde-i18n-doc@kde.org>
+ktp-kded-integration-module,14,0,476,9,0,50,16,490,2.857142857142857,Uyghur <kde-i18n-doc@kde.org>
+ktp-send-file,16,0,44,6,0,12,17,60,26.666666666666668,Uyghur <kde-i18n-doc@kde.org>
+ktp-text-ui,77,7,1098,44,4,199,95,1182,6.514382402707277,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+ktuberling,30,0,128,14,0,24,37,158,18.9873417721519,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kturtle,134,0,1397,99,0,248,152,1531,8.752449379490528,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kubrick,26,4,1173,16,1,148,33,1203,2.1612635078969245,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kwalletmanager5,120,7,673,62,3,100,123,800,15.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kwebkitpart,532,0,137,149,0,16,469,669,79.52167414050822,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kwin,1710,401,3849,519,157,535,1630,5960,28.691275167785236,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+kwordquiz,156,9,1861,93,5,316,159,2026,7.699901283316881,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libbonobo,543,0,0,107,0,0,497,543,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libbonoboui,368,0,0,115,0,0,327,368,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libcryptui,649,0,43,184,0,2,576,692,93.78612716763006,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libfm,890,190,495,239,72,83,733,1575,56.507936507936506,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgdata,614,0,0,76,0,0,544,614,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgdl,604,0,0,92,0,0,482,604,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgnome,1773,0,0,273,0,0,1548,1773,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgnome-keyring,44,0,0,9,0,0,42,44,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgnomecanvas,378,0,0,95,0,0,353,378,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgnomekbd,242,0,0,55,0,0,216,242,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgnomeui,1226,0,0,320,0,0,1028,1226,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgtop2,126,0,0,40,0,0,121,126,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libgweather,6107,0,0,4523,0,0,5970,6107,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libkdegames,106,0,264,62,0,70,106,370,28.64864864864865,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libkeduvocdocument,47,7,117,38,1,42,45,171,27.485380116959064,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libkfbapi,0,0,42,0,0,6,0,42,0.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libkgapi,0,10,334,0,3,74,0,344,0.0,Uyghur <kde-i18n-doc@kde.org>
+libkmahjongg,7,0,0,7,0,0,8,7,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libkomparediff2,32,0,111,5,0,14,19,143,22.377622377622377,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libksysguard,485,134,2817,162,15,296,381,3436,14.115250291036089,Uyghur <kde-i18n-doc@kde.org>
+libktorrent,56,0,463,28,0,87,55,519,10.789980732177264,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libmatekbd,6,0,302,6,0,85,6,308,1.948051948051948,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+libmatemixer,12,0,230,11,0,115,14,242,4.958677685950414,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+libmateweather,29,0,470,24,0,159,30,499,5.811623246492986,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+libpeas,105,0,0,26,0,0,89,105,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libreoffice,107996,11780,457478,33535,4158,41236,100051,577254,18.70857542780128,LANGUAGE <LL@li.org>
+libsoup,79,0,0,20,0,0,79,79,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libwnck,216,0,866,79,0,151,220,1082,19.963031423290204,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libwnck3,1082,0,0,230,0,0,991,1082,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+libxfce4ui,718,0,194,162,0,15,695,912,78.72807017543859,Uighur (http://www.transifex.com/xfce/libxfce4ui/language/ug/)
+libxfce4util,424,0,0,7,0,0,376,424,100.0,Uighur (http://www.transifex.com/xfce/libxfce4util/language/ug/)
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Uighur (http://www.transifex.com/the_cavalry/light-locker/language/ug/)
+lightdm,79,0,84,17,0,4,70,163,48.466257668711656,Uyghur <ug@li.org>
+lightdm-gtk,35,0,52,12,0,13,32,87,40.229885057471265,Uyghur <ug@li.org>
+lightsoff,39,0,0,12,0,0,39,39,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lokalize,366,42,3497,159,18,459,371,3905,9.372599231754162,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lskat,87,0,167,41,0,42,85,254,34.25196850393701,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lxappearance,207,7,20,73,2,5,195,234,88.46153846153845,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lxappearance-obconf,196,0,0,27,0,0,175,196,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lxdm,47,0,0,25,0,0,51,47,100.0,LANGUAGE <LL@li.org>
+lxinput,72,0,11,24,0,2,69,83,86.74698795180723,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lxmenu-data,97,0,0,37,0,0,98,97,100.0,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+lxmusic,203,0,0,89,0,0,204,203,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lxrandr,94,50,23,25,8,8,92,167,56.287425149700596,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lxsession,97,78,580,26,29,111,83,755,12.847682119205297,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+lxtask,129,0,1,50,0,1,135,130,99.23076923076923,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+marble,140,1618,9670,70,980,2253,147,11428,1.2250612530626532,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+marco,63,0,4276,27,0,404,79,4339,1.4519474533302605,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+massif-visualizer,20,1,336,16,1,92,27,357,5.602240896358544,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mate-applets,1876,9,13968,460,3,1139,2073,15853,11.833722323850376,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-backgrounds,3,0,62,1,0,30,4,65,4.615384615384616,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-calc,909,0,2269,415,0,304,942,3178,28.602894902454373,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-control-center,2320,0,6282,594,0,918,2165,8602,26.97047198325971,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-desktop,80,0,2144,24,0,261,103,2224,3.597122302158273,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-media,137,0,102,60,0,39,135,239,57.32217573221757,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-menu,59,0,249,31,0,79,62,308,19.155844155844157,Uighur (http://www.transifex.com/mate/MATE/language/ug/)
+mate-menus,97,0,0,37,0,0,104,97,100.0,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-notification-daemon,1,0,151,1,0,40,1,152,0.6578947368421052,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-panel,3858,18,2851,537,4,261,3194,6727,57.35097368812249,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-polkit,4,0,119,3,0,18,4,123,3.2520325203252036,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-power-manager,34,0,5102,23,0,530,80,5136,0.661993769470405,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-screensaver,30,0,990,13,0,156,27,1020,2.941176470588235,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-sensors-applet,22,0,2138,22,0,204,75,2160,1.0185185185185186,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-session-manager,431,0,281,101,0,30,374,712,60.53370786516854,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-settings-daemon,71,0,2126,25,0,293,67,2197,3.23167956304051,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-system-monitor,566,0,4346,213,0,446,631,4912,11.522801302931596,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-terminal,3973,0,4399,495,0,303,3194,8372,47.455805064500716,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-themes,9,0,61,3,0,18,11,70,12.857142857142856,Uighur (http://www.transifex.com/mate/MATE/language/ug/)
+mate-user-admin,12,0,558,9,0,120,13,570,2.1052631578947367,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-user-guide,126,0,42844,77,0,3152,167,42970,0.2932278333721201,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+mate-utils,3287,0,7017,659,0,470,2710,10304,31.900232919254655,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+mbox-importer,12,2,26,6,1,6,18,40,30.0,Uyghur <kde-i18n-doc@kde.org>
+metacity,2040,0,0,310,0,0,1819,2040,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+midori,2312,0,1229,573,0,223,2104,3541,65.29229031347077,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-GConf2,4088,0,0,497,0,0,3801,4088,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-atk,398,0,0,139,0,0,343,398,100.0,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+mingw-exiv2,4663,4415,28934,2058,1644,2384,4763,38012,12.267178785646637,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-gdk-pixbuf,1354,0,0,202,0,0,1107,1354,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-glib-networking,161,0,0,29,0,0,137,161,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-glib2,5426,0,38,860,0,4,5080,5464,99.30453879941435,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-gtk2,2577,616,9188,878,253,1451,2330,12381,20.814150714804942,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-gtk3,13338,0,53,2840,0,7,11036,13391,99.60421178403406,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-gtksourceview3,802,180,174,469,76,85,875,1156,69.37716262975778,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-json-glib,208,0,18,25,0,2,167,226,92.03539823008849,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mingw-libsoup,79,0,0,20,0,0,79,79,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mousepad,893,0,207,242,0,66,780,1100,81.18181818181817,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+mousetweaks,114,0,0,30,0,0,109,114,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mozo,42,0,2,16,0,2,38,44,95.45454545454545,Uighur (https://www.transifex.com/mate/teams/13566/ug/)
+muffin,2485,0,26,359,0,2,2195,2511,98.96455595380327,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mutter,2144,0,117,313,0,7,1968,2261,94.82529854046882,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+mutter328,2144,0,117,313,0,7,1968,2261,94.82529854046882,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+nautilus,6381,0,0,1076,0,0,4988,6381,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+nautilus-sendto,38,0,0,7,0,0,32,38,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+nemiver,1272,0,0,336,0,0,1178,1272,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+nemo-extensions,25,0,7,12,0,1,20,32,78.125,Uyghur <ug@li.org>
+network-manager-applet,1566,1410,1890,418,295,289,1490,4866,32.182490752157825,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+notification-daemon,17,0,0,7,0,0,20,17,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,359,34,2134,233,17,363,385,2527,14.206569054214482,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+okular,544,153,4339,318,73,646,644,5036,10.802223987291502,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+olpc-switch-desktop,158,0,0,14,0,0,126,158,100.0,LANGUAGE <LL@li.org>
+onboard,1635,0,683,437,0,73,1505,2318,70.53494391716998,Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+openconnect,2166,0,4561,394,0,763,2019,6727,32.19860264605322,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,1951,0,650,755,0,87,1794,2601,75.00961168781238,Uighur (http://www.transifex.com/projects/p/xfce/language/ug/)
+orca,3897,0,0,1201,0,0,3448,3897,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+palapeli,57,3,1452,24,2,154,57,1512,3.7698412698412698,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,16,5,27,8,2,5,17,48,33.33333333333333,LANGUAGE <LL@li.org>
+parley,220,70,3560,146,32,575,220,3850,5.714285714285714,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+parole,366,0,722,178,0,123,376,1088,33.63970588235294,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+pastebinit,91,0,104,16,0,13,73,195,46.666666666666664,Uyghur <ug@li.org>
+php-phpmyadmin-sql-parser,2,60,165,1,13,30,2,227,0.881057268722467,Uyghur <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ug/>
+php-phpmyadmin-sql-parser5,29,79,160,4,16,30,24,268,10.820895522388058,Uyghur <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ug/>
+picmi,49,0,148,39,0,75,55,197,24.873096446700508,Uyghur <kde-i18n-doc@kde.org>
+pim-data-exporter,17,24,684,12,10,160,24,725,2.344827586206897,Uyghur <kde-i18n-doc@kde.org>
+plasma-desktop,4752,1160,3569,1094,318,478,4292,9481,50.12129522202299,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+plasma-discover,44,240,1153,37,93,286,48,1437,3.0619345859429368,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+plasma-drkonqi,3141,525,300,271,62,19,2440,3966,79.19818456883509,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+plasma-mediacenter,12,4,67,7,2,28,11,83,14.457831325301203,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+plasma-nm,343,302,3933,230,143,669,370,4578,7.492354740061162,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+plasma-oxygen,324,61,251,156,25,51,331,636,50.943396226415096,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+plasma-sdk,225,38,174,64,9,23,224,437,51.48741418764302,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+plasma-systemsettings,148,21,30,35,5,12,122,199,74.37185929648241,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+plasma-user-manager,22,11,108,9,5,25,20,141,15.602836879432624,Uyghur <kde-i18n-doc@kde.org>
+plasma-workspace,1783,412,3464,607,153,784,1755,5659,31.50733345113978,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+pluma,302,0,12824,175,0,1903,340,13126,2.3007770836507695,Uyghur (https://www.transifex.com/mate/teams/13566/ug/)
+pogo,576,0,0,101,0,0,440,576,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+polkit-gnome,94,0,0,16,0,0,85,94,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+polkit-kde,57,8,30,16,4,10,62,95,60.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+powerdevil,107,92,410,44,24,59,132,609,17.569786535303777,Uyghur <kde-i18n-doc@kde.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+quadrapassel,325,0,0,79,0,0,260,325,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+rednotebook,1099,0,48,229,0,11,986,1147,95.8151700087184,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+remmina,432,672,2054,160,126,412,434,3158,13.679544015199493,Uyghur <https://hosted.weblate.org/projects/remmina/remmina/ug/>
+ristretto,540,0,219,182,0,14,512,759,71.14624505928853,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+rocs,55,135,1233,39,65,191,66,1423,3.865073787772312,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+rsibreak,38,3,1134,26,2,130,49,1175,3.234042553191489,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+rygel,676,0,0,143,0,0,667,676,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+seahorse,2424,0,0,566,0,0,2023,2424,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+seahorse-caja,411,10,0,109,1,0,365,421,97.62470308788599,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+seahorse-nautilus,411,10,0,109,1,0,365,421,97.62470308788599,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+sflphone,131,51,1924,103,32,341,145,2106,6.220322886989553,Uyghur <kde-i18n-doc@kde.org>
+shutter,74,0,3019,13,0,593,74,3093,2.392499191723246,Uyghur <ug@li.org>
+simple-scan,435,0,154,126,0,19,414,589,73.85398981324278,Uyghur Computer Science Association <ubuntu-l10n-ug@lists.launchpad.net>
+skanlite,87,8,91,41,3,19,84,186,46.774193548387096,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+skrooge,525,300,11126,397,150,1919,574,11951,4.392937829470337,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+slick-greeter,199,0,12,41,0,6,163,211,94.3127962085308,Uyghur <ug@li.org>
+smb4k,134,128,5752,104,57,488,149,6014,2.228134353175923,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+snapd,0,0,4307,0,0,481,0,4307,0.0,Uyghur <ug@li.org>
+sound-juicer,986,0,0,187,0,0,868,986,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+squirrelmail,2776,1661,2611,792,314,277,2498,7048,39.38706015891033,XinJiang University / Uighur
+stellarium,375,0,126712,301,0,35155,386,127087,0.29507345361838744,Uyghur (https://www.transifex.com/stellarium/teams/80998/ug/)
+step,101,311,1495,70,203,405,113,1907,5.29627687467226,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+sugar,1,0,2304,1,0,528,1,2305,0.04338394793926247,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,7,864,0,7,157,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-chat,1,1,135,1,1,79,1,137,0.7299270072992701,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,258,0,0,63,0,258,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,121,0,0,46,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,150,0,0,34,0,150,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,2,56,0,1,15,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,2,67,0,2,20,0,69,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,3,95,0,3,18,0,98,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,106,0,0,61,0,106,0.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,2,1,271,1,1,64,2,274,0.7299270072992701,LANGUAGE <LL@li.org>
+sugar-read,0,7,130,0,7,43,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,61,21,131,56,13,54,65,213,28.638497652582164,LANGUAGE <LL@li.org>
+sugar-turtleart,0,6,1453,0,6,429,0,1459,0.0,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,121,0,0,55,0,121,0.0,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,19,24,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+svgpart,22,0,0,7,0,0,28,22,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+sweeper,37,0,192,20,0,30,42,229,16.157205240174672,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+swell-foop,138,0,0,41,0,0,117,138,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+switchboard,58,0,66,16,0,10,57,124,46.774193548387096,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,91,14,20,27,5,6,83,125,72.8,
+switchboard-plug-about,41,49,6,18,8,3,49,96,42.70833333333333,Uyghur <ug@li.org>
+switchboard-plug-applications,65,15,15,22,8,4,71,95,68.42105263157895,Uyghur <ug@li.org>
+switchboard-plug-bluetooth,5,0,143,5,0,33,6,148,3.3783783783783785,Uyghur <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/ug/>
+switchboard-plug-display,32,18,89,14,9,29,34,139,23.021582733812952,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,262,109,159,111,34,48,285,530,49.43396226415094,Uyghur <ug@li.org>
+switchboard-plug-mouse-touchpad,53,22,157,26,11,36,54,232,22.844827586206897,Uyghur <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/ug/>
+switchboard-plug-networking,303,91,80,93,23,21,284,474,63.92405063291139,Uyghur <ug@li.org>
+switchboard-plug-notifications,128,3,11,16,2,3,99,142,90.14084507042254,Uyghur <ug@li.org>
+switchboard-plug-onlineaccounts,141,9,10,44,3,9,139,160,88.125,Uyghur <ug@li.org>
+switchboard-plug-pantheon-shell,117,7,57,41,4,20,120,181,64.64088397790056,Uyghur <ug@li.org>
+switchboard-plug-printers,220,56,86,99,18,27,230,362,60.773480662983424,
+switchboard-plug-sharing,130,2,8,28,1,3,106,140,92.85714285714286,Uyghur <ug@li.org>
+switchboard-plug-sound,3,0,149,3,0,48,3,152,1.9736842105263157,Uyghur <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/ug/>
+tali,583,0,13,129,0,2,495,596,97.81879194630872,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+tellico,477,84,5224,313,42,879,476,5785,8.245462402765774,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+thunar-archive-plugin,86,0,0,13,0,0,51,86,100.0,Uighur (http://www.transifex.com/xfce/thunar-plugins/language/ug/)
+thunar-media-tags-plugin,154,0,2,57,0,1,151,156,98.71794871794873,Uighur (http://www.transifex.com/xfce/thunar-plugins/language/ug/)
+thunar-vcs-plugin,527,0,68,291,0,29,603,595,88.57142857142857,Uighur (http://www.transifex.com/xfce/thunar-plugins/language/ug/)
+thunar-vfs,341,3,43,67,1,18,287,387,88.11369509043928,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+thunar-volman,481,0,18,115,0,5,421,499,96.39278557114228,Uighur (http://www.transifex.com/xfce/thunar-volman/language/ug/)
+tomboy,3278,0,0,471,0,0,2633,3278,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+totem,2040,0,0,521,0,0,1792,2040,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+totem-pl-parser,28,0,0,7,0,0,21,28,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+transmission,1574,0,235,453,0,41,1460,1809,87.00939745715866,Uyghur <ug@li.org>
+trojita,184,184,4404,137,99,742,203,4772,3.8558256496227994,Uyghur <kde-i18n-doc@kde.org>
+tumbler,228,0,13,37,0,2,241,241,94.6058091286307,Uighur (http://www.transifex.com/xfce/tumbler/language/ug/)
+umbrello,464,181,4482,310,86,1035,464,5127,9.050126779793251,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+vinagre,1429,1,0,259,1,0,1253,1430,99.93006993006993,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+vino,1228,0,0,134,0,0,950,1228,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+vocal,0,0,377,0,0,79,0,377,0.0,Uyghur <ug@li.org>
+vte,80,0,0,13,0,0,79,80,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+vte291,80,0,0,13,0,0,79,80,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+wingpanel,6,0,13,1,0,3,7,19,31.57894736842105,Uyghur <ug@li.org>
+wingpanel-applications-menu,154,5,135,51,3,32,148,294,52.38095238095239,Uyghur <ug@li.org>
+wingpanel-indicator-bluetooth,11,0,16,7,0,5,9,27,40.74074074074074,Uyghur <ug@li.org>
+wingpanel-indicator-datetime,12,0,116,3,0,22,11,128,9.375,Uyghur <ug@li.org>
+wingpanel-indicator-keyboard,7,3,14,3,1,5,9,24,29.166666666666668,Uyghur <ug@li.org>
+wingpanel-indicator-network,35,34,28,12,6,9,33,97,36.08247422680412,Uyghur <ug@li.org>
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,16,0,22,7,0,6,14,38,42.10526315789473,Uyghur <ug@li.org>
+wingpanel-indicator-power,86,0,31,22,0,10,53,117,73.50427350427351,Uyghur <ug@li.org>
+wingpanel-indicator-session,52,2,27,16,1,8,35,81,64.19753086419753,Uyghur <ug@li.org>
+wingpanel-indicator-sound,7,2,36,3,1,7,6,45,15.555555555555555,Uyghur <ug@li.org>
+wxPython,2370,46,41,710,19,8,1864,2457,96.45909645909646,Uyghur <ug@li.org>
+xarchiver,770,172,250,224,30,43,666,1192,64.59731543624162,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+xfbib,312,0,30,71,0,4,270,342,91.22807017543859,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+xfburn,1274,0,139,286,0,20,1086,1413,90.16277423920735,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+xfce4-appfinder,318,0,88,70,0,11,255,406,78.32512315270937,Uighur (http://www.transifex.com/xfce/xfce4-appfinder/language/ug/)
+xfce4-battery-plugin,144,0,3,41,0,1,149,147,97.95918367346938,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-clipman-plugin,322,0,156,58,0,14,238,478,67.36401673640168,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-cpufreq-plugin,78,0,67,24,0,17,109,145,53.79310344827586,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-cpugraph-plugin,76,0,0,37,0,0,87,76,100.0,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-datetime-plugin,52,0,0,19,0,0,44,52,100.0,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-dict,511,0,16,113,0,6,425,527,96.9639468690702,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,175,181,100.0,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-embed-plugin,207,0,12,30,0,3,187,219,94.52054794520548,Uighur (http://www.transifex.com/projects/p/xfce/language/ug/)
+xfce4-eyes-plugin,9,0,6,3,0,1,7,15,60.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+xfce4-fsguard-plugin,71,0,0,19,0,0,64,71,100.0,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-genmon-plugin,25,0,31,11,0,3,25,56,44.642857142857146,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-mailwatch-plugin,657,0,0,110,0,0,595,657,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+xfce4-mpc-plugin,56,0,22,21,0,3,55,78,71.7948717948718,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-netload-plugin,82,0,9,29,0,6,83,91,90.10989010989012,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-notes-plugin,163,0,0,57,0,0,144,163,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+xfce4-notifyd,88,0,10,26,0,3,86,98,89.79591836734694,Uighur (http://www.transifex.com/projects/p/xfce/language/ug/)
+xfce4-panel,1578,0,113,377,0,36,1392,1691,93.31756357185098,Uighur (https://www.transifex.com/xfce/teams/16840/ug/)
+xfce4-places-plugin,159,0,3,46,0,1,134,162,98.14814814814815,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-power-manager,409,0,637,125,0,85,360,1046,39.101338432122375,Uighur (http://www.transifex.com/xfce/xfce4-power-manager/language/ug/)
+xfce4-screenshooter,239,0,217,50,0,26,197,456,52.41228070175439,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+xfce4-sensors-plugin,299,0,60,70,0,5,267,359,83.28690807799443,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-session,635,0,163,125,0,38,558,798,79.57393483709274,Uighur (https://www.transifex.com/xfce/teams/16840/ug/)
+xfce4-settings,1334,0,606,303,0,150,1163,1940,68.76288659793815,Uighur (https://www.transifex.com/xfce/teams/16840/ug/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,20,22,100.0,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-systemload-plugin,61,0,26,18,0,5,59,87,70.11494252873564,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-taskmanager,171,0,88,66,0,22,172,259,66.02316602316603,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+xfce4-terminal,732,0,990,205,0,197,660,1722,42.508710801393725,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+xfce4-time-out-plugin,91,0,9,33,0,2,87,100,91.0,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-timer-plugin,66,0,68,25,0,17,79,134,49.25373134328358,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-verve-plugin,47,0,0,10,0,0,44,47,100.0,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+xfce4-wavelan-plugin,40,0,27,9,0,9,27,67,59.70149253731343,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfce4-weather-plugin,262,150,3182,130,40,154,271,3594,7.289927657206455,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+xfce4-xkb-plugin,33,0,15,12,0,9,35,48,68.75,Uighur (http://www.transifex.com/xfce/xfce-panel-plugins/language/ug/)
+xfconf,415,0,43,64,0,4,362,458,90.61135371179039,Uighur (http://www.transifex.com/xfce/xfconf/language/ug/)
+xfdesktop,636,0,401,169,0,77,560,1037,61.330761812921885,Uyghur (https://www.transifex.com/xfce/teams/16840/ug/)
+xfmpc,171,0,4,74,0,4,175,175,97.71428571428571,Uighur (http://www.transifex.com/xfce/xfce-apps/language/ug/)
+xfwm4,531,0,101,147,0,22,483,632,84.01898734177216,Uyghur (https://www.transifex.com/xfce/teams/16840/ug/)
+yakuake,79,60,1463,44,16,166,82,1602,4.931335830212235,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+yelp,507,0,0,122,0,0,397,507,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+yelp-xsl,81,0,0,59,0,0,89,81,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+zanshin,17,72,804,11,39,195,23,893,1.9036954087346025,Uyghur Computer Science Association <UKIJ@yahoogroups.com>
+zenity,775,0,0,178,0,0,712,775,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>

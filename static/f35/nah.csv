@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iso-codes,234,8,740,182,2,236,222,982,23.828920570264767,Nahuatl languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/nah/>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Nahuatl (http://www.transifex.com/mate/MATE/language/nah/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,Nahuatl (http://www.transifex.com/mate/MATE/language/nah/)
+mate-menus,1,0,102,1,0,38,1,103,0.9708737864077669,Nahuatl (https://www.transifex.com/mate/teams/13566/nah/)
+mate-sensors-applet,2,0,311,2,0,107,2,313,0.6389776357827476,Nahuatl (https://www.transifex.com/mate/teams/13566/nah/)
+mate-system-monitor,200,0,4647,71,0,577,183,4847,4.126263668248401,Nahuatl (https://www.transifex.com/mate/teams/13566/nah/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Nahuatl (http://www.transifex.com/mate/MATE/language/nah/)
+mozo,1,0,45,1,0,23,1,46,2.1739130434782608,Nahuatl (https://www.transifex.com/mate/teams/13566/nah/)
+olpc-switch-desktop,158,0,0,14,0,0,153,158,100.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,491,108,0,111,16,0,386,599,81.96994991652755,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,140,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,35,29,100.0,LANGUAGE <LL@li.org>

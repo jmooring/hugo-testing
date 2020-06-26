@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calamares,0,0,29,0,0,6,0,29,0.0,French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/)
+enlightenment,1537,4418,2760,590,1152,516,1935,8715,17.63625932300631,Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net>
+maliit-keyboard,66,8,7,51,3,7,73,81,81.48148148148148,

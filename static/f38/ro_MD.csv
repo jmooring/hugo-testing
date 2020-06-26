@@ -1,0 +1,24 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,1282,0,14255,375,0,3232,1543,15537,8.251271159168438,Moldavian <mo@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+elementary-calculator,45,14,136,29,6,30,48,195,23.076923076923077,Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/>
+elementary-calendar,351,72,152,139,27,40,429,575,61.04347826086956,Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/>
+elementary-camera,25,8,100,6,2,27,33,133,18.796992481203006,Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/>
+elementary-code,224,153,1237,97,37,156,236,1614,13.878562577447337,Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/>
+elementary-files,1150,831,509,277,175,99,1225,2490,46.1847389558233,Moldovan <https://weblate.elementary.io/projects/files/files/mo/>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,788,0,0,179,0,788,0.0,
+elementary-music,12,10,183,9,6,22,12,205,5.853658536585367,Moldovan <https://weblate.elementary.io/projects/music/music/mo/>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+gala,0,0,249,0,0,51,0,249,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,300,0,0,75,0,300,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,30,0,959,26,0,399,30,989,3.0333670374115265,Moldovan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mo/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+wingpanel,0,0,16,0,0,3,0,16,0.0,none

@@ -1,0 +1,487 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,4445,4088,100.0,gu_IN <kde-i18n-doc@kde.org>
+NetworkManager,3834,5095,19522,670,715,847,4111,28451,13.475800499103721,American English <kde-i18n-doc@kde.org>
+NetworkManager-fortisslvpn,6,18,297,4,7,49,7,321,1.8691588785046727,Gujarati
+NetworkManager-l2tp,100,0,1135,34,0,152,119,1235,8.097165991902834,Gujarati
+NetworkManager-libreswan,14,23,428,8,8,60,18,465,3.010752688172043,Gujarati
+NetworkManager-openconnect,54,5,3182,16,2,578,66,3241,1.666152422091947,Gujarati
+NetworkManager-openvpn,36,46,1891,21,16,234,37,1973,1.824632539280284,Gujarati
+NetworkManager-pptp,144,0,0,44,0,0,171,144,100.0,Gujarati
+NetworkManager-ssh,24,10,252,7,6,56,25,286,8.391608391608392,Gujarati
+NetworkManager-sstp,90,48,740,26,17,106,104,878,10.250569476082005,Gujarati
+NetworkManager-vpnc,156,0,0,41,0,0,183,156,100.0,Gujarati
+PackageKit,877,0,0,239,0,0,1112,877,100.0,Gujarati (http://www.transifex.com/freedesktop/packagekit/language/gu/)
+abrt,2126,111,1439,271,16,130,2348,3676,57.83460282916213,Gujarati (http://www.transifex.com/projects/p/fedora-abrt/language/gu/)
+accerciser,363,0,0,166,0,0,420,363,100.0,Gujarati <fedora-trans-gu@redhat.com>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Gujarati (http://www.transifex.com/freedesktop/accountsservice/language/gu/)
+aisleriot,1788,180,19,478,64,7,1747,1987,89.98490186210367,Gujarati
+alacarte,42,0,0,16,0,0,48,42,100.0,Gujarati <fedora-trans-gu@redhat.com>
+alleyoop,177,0,165,49,0,38,204,342,51.75438596491229,Gujarati
+anaconda,3107,565,4567,719,115,536,3686,8239,37.710887243597526,Gujarati <https://translate.fedoraproject.org/projects/anaconda/master/gu/>
+android-tools,5868,558,1252,842,111,125,6714,7678,76.42615264391769,Gujarati <trans-gu@lists.fedoraproject.org>
+anjuta,2049,108,5726,792,45,1314,2468,7883,25.99264239502727,Gujarati
+asunder,17,0,475,15,0,76,20,492,3.4552845528455287,http://littlesvr.ca/ostd/
+at-spi2-core,122,0,0,18,0,0,143,122,100.0,Gujarati
+atk,398,0,0,139,0,0,470,398,100.0,gu_IN <kde-i18n-doc@kde.org>
+atomix,146,0,0,59,0,0,175,146,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+atril,1237,0,3154,364,0,373,1333,4391,28.171259394215443,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+baobab,210,0,0,57,0,0,227,210,100.0,American English <kde-i18n-doc@kde.org>
+blinken,121,13,0,43,4,0,123,134,90.29850746268657,American English <kde-i18n-doc@kde.org>
+bomber,70,9,31,21,1,5,71,110,63.63636363636363,American English <kde-i18n-doc@kde.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+brasero,5546,0,0,968,0,0,5899,5546,100.0,American English <kde-i18n-doc@kde.org>
+budgie-control-center,4209,0,3684,1679,0,841,4593,7893,53.32573166096542,Gujarati (https://www.transifex.com/buddiesofbudgie/teams/129844/gu/)
+budgie-screensaver,286,0,0,56,0,0,313,286,100.0,gu_IN <kde-i18n-doc@kde.org>
+caja,6974,0,2701,1256,0,348,7419,9675,72.0826873385013,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+caja-actions,136,0,18679,83,0,1433,170,18815,0.7228275312250864,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+caja-extensions,121,0,639,41,0,104,135,760,15.921052631578947,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+calamares,0,0,521,0,0,91,0,521,0.0,Gujarati (https://www.transifex.com/calamares/teams/20061/gu/)
+calibre,640,0,170993,573,0,18808,652,171633,0.37288866360198797,Gujarati (http://www.transifex.com/calibre/calibre/language/gu/)
+camorama,258,70,507,67,18,84,266,835,30.898203592814372,Gujarati
+caribou,169,0,0,57,0,0,170,169,100.0,gu_IN <kde-i18n-doc@kde.org>
+ccsm,310,179,102,106,34,23,361,591,52.45346869712352,gist Gujarati team <info.gist@cdac.in>
+certmonger,120,7,2704,33,3,437,124,2831,4.2387848816672555,Gujarati (http://www.transifex.com/projects/p/certmonger/language/gu/)
+cheese,614,0,0,123,0,0,591,614,100.0,American English <kde-i18n-doc@kde.org>
+chkconfig,500,30,63,92,7,9,544,593,84.31703204047217,Gujarati <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/gu/>
+cinnamon-control-center,1313,0,0,756,0,0,1388,1313,100.0,fedora-trans-gu@lists.fedoraproject.org
+cinnamon-desktop,231,0,3,31,0,1,253,234,98.71794871794873,gu_IN <kde-i18n-doc@kde.org>
+cinnamon-translations,2168,0,8341,487,0,2103,2397,10509,20.62993624512323,Gujarati <gu@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,25,0,363,8,0,91,25,388,6.443298969072164,LANGUAGE <LL@li.org>
+compiz,2143,1651,591,487,286,106,2294,4385,48.87115165336374,gist Gujarati team <info.gist@cdac.in>
+compiz-plugins-experimental,999,1398,2076,229,378,285,1006,4473,22.334004024144868,gist Gujarati team <info.gist@cdac.in>
+compiz-plugins-extra,2440,668,665,486,159,105,2333,3773,64.67002385369732,gist Gujarati team <info.gist@cdac.in>
+compiz-plugins-main,3358,399,461,646,98,67,3362,4218,79.61119013750593,gist Gujarati team <info.gist@cdac.in>
+console-setup,951,27,6,174,3,2,888,984,96.64634146341463,
+cracklib,93,0,3,15,0,1,80,96,96.875,Gujarati <fedora-trans-gu@redhat.com>
+dasher,615,0,0,212,0,0,689,615,100.0,Gujarati
+debconf,191,0,0,17,0,0,187,191,100.0,Gujarati <debian-boot@lists.debian.org>
+devhelp,309,0,0,71,0,0,319,309,100.0,Gujarati <fedora-trans-gu@redhat.com>
+dia,2297,149,3809,1023,41,1247,2754,6255,36.72262190247802,Gujarati
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dnf,176,25,4503,78,5,794,224,4704,3.741496598639456,Gujarati (http://www.transifex.com/projects/p/dnf/language/gu/)
+dolphin,696,812,3550,232,232,270,744,5058,13.76037959667853,Gujarati <kde-i18n-doc@kde.org>
+drgeo,1898,55,32,444,7,10,2062,1985,95.61712846347608,Gujarati
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,93,42,1473,41,18,248,103,1608,5.7835820895522385,Gujarati <gu@li.org>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,2,0,217,1,0,47,3,219,0.91324200913242,Gujarati <gu@li.org>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-photos,2893,706,412,672,88,58,3291,4011,72.12665170780353,Gujarati <https://l10n.elementary.io/projects/photos/photos/gu/>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+emerald,639,52,5,210,9,1,945,696,91.8103448275862,gist gujarati team <info.gist@cdac.in>
+engrampa,1081,0,6757,262,0,631,1179,7838,13.791783618269967,Gujarati (https://app.transifex.com/mate/teams/13566/gu/)
+entangle,0,0,953,0,0,229,0,953,0.0,Gujarati
+eog,1615,0,0,326,0,0,1689,1615,100.0,gu_IN <kde-i18n-doc@kde.org>
+eog-plugins,100,0,0,32,0,0,105,100,100.0,Gujarati
+eom,1018,0,3940,256,0,286,1064,4958,20.53247277127874,Gujarati (https://app.transifex.com/mate/teams/13566/gu/)
+epiphany,1423,167,974,499,22,72,1645,2564,55.499219968798755,American English <kde-i18n-doc@kde.org>
+evince,1525,0,0,355,0,0,1678,1525,100.0,American English <kde-i18n-doc@kde.org>
+evolution,21053,0,0,4423,0,0,23033,21053,100.0,American English <kde-i18n-doc@kde.org>
+evolution-data-server,5667,0,0,1163,0,0,6278,5667,100.0,American English <kde-i18n-doc@kde.org>
+evolution-ews,1165,0,0,239,0,0,1307,1165,100.0,American English <kde-i18n-doc@kde.org>
+evolution-mapi,1036,0,0,232,0,0,1167,1036,100.0,American English <kde-i18n-doc@kde.org>
+evolution-rss,728,0,0,198,0,0,849,728,100.0,Gujarati
+exaile,120,45,4003,62,19,1011,130,4168,2.8790786948176583,Gujarati <https://hosted.weblate.org/projects/exaile/master/gu/>
+fcitx-table-other,2,0,22,2,0,20,2,24,8.333333333333332,Gujarati (http://www.transifex.com/fcitx/fcitx/language/gu/)
+fcitx5-table-other,0,2,98,0,1,33,0,100,0.0,Gujarati (http://www.transifex.com/fcitx/fcitx/language/gu/)
+file-roller,1198,0,0,270,0,0,1319,1198,100.0,American English <kde-i18n-doc@kde.org>
+firewalld,1486,10,721,292,1,122,1546,2217,67.02751465944971,Gujarati (http://www.transifex.com/projects/p/firewalld/language/gu/)
+five-or-more,159,47,76,47,12,6,179,282,56.38297872340425,Gujarati
+folks,1003,0,0,123,0,0,1052,1003,100.0,American English <kde-i18n-doc@kde.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Gujarati
+four-in-a-row,109,51,96,41,17,15,125,256,42.578125,Gujarati
+fprintd,0,0,433,0,0,60,0,433,0.0,Gujarati (http://www.transifex.com/freedesktop/fprintd/language/gu/)
+gala,0,0,358,0,0,73,0,358,0.0,none
+gconf-editor,336,0,0,98,0,0,385,336,100.0,Gujarati
+gcr,157,197,268,76,64,87,172,622,25.241157556270092,Gujarati
+gdk-pixbuf2,1192,89,67,184,12,6,1226,1348,88.4272997032641,Gujarati
+gdm,622,0,0,84,0,0,636,622,100.0,American English <kde-i18n-doc@kde.org>
+gedit,4184,0,0,712,0,0,4421,4184,100.0,American English <kde-i18n-doc@kde.org>
+gedit-plugins,902,186,117,390,56,23,1036,1205,74.85477178423237,Gujarati
+gftp,3334,0,0,593,0,0,3608,3334,100.0,Gujarati
+ggz-base-libs,74,0,0,17,0,0,79,74,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gimagereader,0,0,1817,0,0,482,0,1817,0.0,none
+gimp,15910,6066,3811,4358,1775,540,17585,25787,61.697754682592,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+glade,1560,0,1807,498,0,410,1689,3367,46.33204633204633,Gujarati
+glib-networking,86,0,0,16,0,0,110,86,100.0,Gujarati
+glib2,5697,0,0,904,0,0,6111,5697,100.0,American English <kde-i18n-doc@kde.org>
+gnome-abrt,112,4,105,23,2,30,126,221,50.678733031674206,Gujarati (http://www.transifex.com/projects/p/gnome-abrt/language/gu/)
+gnome-applets,3507,0,0,842,0,0,3737,3507,100.0,Gujarati
+gnome-bluetooth,309,0,0,102,0,0,355,309,100.0,American English <kde-i18n-doc@kde.org>
+gnome-bluetooth3.34,309,0,0,102,0,0,355,309,100.0,American English <kde-i18n-doc@kde.org>
+gnome-books,301,0,0,121,0,0,332,301,100.0,American English <kde-i18n-doc@kde.org>
+gnome-boxes,950,0,0,208,0,0,1058,950,100.0,American English <kde-i18n-doc@kde.org>
+gnome-calculator,1337,0,0,428,0,0,1332,1337,100.0,American English <kde-i18n-doc@kde.org>
+gnome-characters,161,0,0,47,0,0,173,161,100.0,Gujarati <gu@li.org>
+gnome-chess,809,277,304,112,82,43,988,1390,58.20143884892086,Gujarati
+gnome-clocks,223,0,0,77,0,0,245,223,100.0,American English <kde-i18n-doc@kde.org>
+gnome-color-manager,1793,0,0,343,0,0,1825,1793,100.0,American English <kde-i18n-doc@kde.org>
+gnome-contacts,433,0,0,157,0,0,490,433,100.0,American English <kde-i18n-doc@kde.org>
+gnome-control-center,6259,0,0,2210,0,0,6894,6259,100.0,fedora-trans-gu@lists.fedoraproject.org
+gnome-desktop3,146,0,0,23,0,0,163,146,100.0,American English <kde-i18n-doc@kde.org>
+gnome-dictionary,841,0,0,180,0,0,805,841,100.0,American English <kde-i18n-doc@kde.org>
+gnome-disk-utility,3533,0,0,652,0,0,3852,3533,100.0,American English <kde-i18n-doc@kde.org>
+gnome-do,415,0,197,102,0,42,468,612,67.81045751633987,Gujarati <gu@li.org>
+gnome-doc-utils,251,0,0,101,0,0,257,251,100.0,Gujarati
+gnome-extensions-app,1485,0,0,374,0,0,1573,1485,100.0,American English <kde-i18n-doc@kde.org>
+gnome-font-viewer,109,0,0,26,0,0,120,109,100.0,American English <kde-i18n-doc@kde.org>
+gnome-icon-theme,51,0,0,46,0,0,52,51,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-initial-setup,585,0,0,103,0,0,615,585,100.0,American English <kde-i18n-doc@kde.org>
+gnome-keyring,553,0,0,112,0,0,599,553,100.0,gu_IN <kde-i18n-doc@kde.org>
+gnome-klotski,65,35,94,40,13,6,68,194,33.50515463917525,Gujarati
+gnome-mahjongg,87,45,172,38,13,12,117,304,28.618421052631575,Gujarati
+gnome-menus,70,0,0,27,0,0,68,70,100.0,American English <kde-i18n-doc@kde.org>
+gnome-mime-data,887,0,0,362,0,0,947,887,100.0,Gujarati
+gnome-mines,94,104,146,26,32,14,90,344,27.325581395348834,Gujarati
+gnome-nettool,644,0,0,219,0,0,686,644,100.0,Gujarati
+gnome-nibbles,129,121,197,46,43,21,137,447,28.859060402684566,Gujarati
+gnome-online-accounts,699,0,0,153,0,0,752,699,100.0,American English <kde-i18n-doc@kde.org>
+gnome-packagekit,4390,0,0,681,0,0,4819,4390,100.0,American English <kde-i18n-doc@kde.org>
+gnome-panel,3427,0,0,507,0,0,3436,3427,100.0,American English <kde-i18n-doc@kde.org>
+gnome-phone-manager,327,0,63,90,0,2,349,390,83.84615384615385,Gujarati
+gnome-photos,135,1,323,73,1,117,168,459,29.411764705882355,Gujarati <gu@li.org>
+gnome-power-manager,480,0,0,147,0,0,475,480,100.0,American English <kde-i18n-doc@kde.org>
+gnome-robots,384,94,119,69,21,7,399,597,64.321608040201,Gujarati
+gnome-screenshot,455,0,0,78,0,0,440,455,100.0,American English <kde-i18n-doc@kde.org>
+gnome-search-tool,1249,0,0,186,0,0,1358,1249,100.0,gu_IN <kde-i18n-doc@kde.org>
+gnome-session,298,0,0,50,0,0,343,298,100.0,American English <kde-i18n-doc@kde.org>
+gnome-settings-daemon,2303,0,0,405,0,0,2321,2303,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell,1485,0,0,374,0,0,1573,1485,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell-extensions,352,0,0,65,0,0,408,352,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell-frippery,17,0,0,5,0,0,25,17,100.0,
+gnome-sudoku,23,120,256,13,38,21,38,399,5.764411027568922,Gujarati
+gnome-system-log,420,0,0,66,0,0,401,420,100.0,American English <kde-i18n-doc@kde.org>
+gnome-system-monitor,1280,0,0,308,0,0,1348,1280,100.0,American English <kde-i18n-doc@kde.org>
+gnome-terminal,2073,93,43,427,9,6,2232,2209,93.84336803983703,American English <kde-i18n-doc@kde.org>
+gnome-tetravex,34,81,105,16,14,15,43,220,15.454545454545453,Gujarati
+gnome-themes-extra,24,0,0,9,0,0,24,24,100.0,gu_IN <kde-i18n-doc@kde.org>
+gnome-user-docs,39284,9639,8947,2515,412,223,39210,57870,67.88318645239329,American English <kde-i18n-doc@kde.org>
+gnome-user-share,52,0,0,10,0,0,56,52,100.0,American English <kde-i18n-doc@kde.org>
+gnome-vfs2,1508,0,0,301,0,0,1569,1508,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gnome-video-effects,11,2,13,10,2,11,14,26,42.30769230769231,Gujarati
+gnote,2954,133,501,451,24,67,3325,3588,82.32998885172799,American English <kde-i18n-doc@kde.org>
+gnucash,15070,12929,9050,2873,1729,799,15505,37049,40.67586169667198,NONE
+gnumeric,1649,820,32577,601,266,4775,1983,35046,4.70524453575301,Gujarati
+gnusim8085,529,18,16,136,3,2,576,563,93.96092362344582,Gujarati <gu@li.org>
+gparted,1069,163,60,249,28,7,1146,1292,82.73993808049536,Gujarati <fedora-trans-gu@redhat.com>
+granite,1,0,497,1,0,117,2,498,0.2008032128514056,Gujarati <https://l10n.elementary.io/projects/desktop/granite/gu/>
+gscan2pdf,559,0,1281,193,0,313,716,1840,30.380434782608695,Gujarati <gu@li.org>
+gsettings-desktop-schemas,1128,86,4451,246,12,238,1131,5665,19.9117387466902,American English <kde-i18n-doc@kde.org>
+gthumb,3134,0,0,922,0,0,3698,3134,100.0,Gujarati
+gtk-doc,2707,0,4570,232,0,99,2833,7277,37.1993953552288,Gujarati
+gtk2,12006,308,90,2524,50,11,11873,12404,96.79135762657208,Gujarati
+gtk2-engines,119,0,0,47,0,0,135,119,100.0,Gujarati <fedora-trans-gu@redhat.com>
+gtk3,13691,492,389,3043,86,54,13547,14572,93.95415866044469,American English <kde-i18n-doc@kde.org>
+gtk4,13691,492,389,3043,86,54,13547,14572,93.95415866044469,American English <kde-i18n-doc@kde.org>
+gtkhtml3,488,0,0,310,0,0,705,488,100.0,gu_IN <kde-i18n-doc@kde.org>
+gtksourceview2,1120,0,0,448,0,0,1121,1120,100.0,Gujarati
+gtksourceview3,162,79,81,67,21,18,174,322,50.31055900621118,American English <kde-i18n-doc@kde.org>
+gtksourceview4,1405,152,335,633,75,100,1409,1892,74.2600422832981,American English <kde-i18n-doc@kde.org>
+gtksourceview5,1405,152,335,633,75,100,1409,1892,74.2600422832981,American English <kde-i18n-doc@kde.org>
+gucharmap,1068,26,111,363,10,24,1126,1205,88.63070539419087,American English <kde-i18n-doc@kde.org>
+guestfs-tools,1617,0,14116,312,0,1437,1629,15733,10.277760122036483,Gujarati (http://www.transifex.com/projects/p/libguestfs/language/gu/)
+gvfs,2706,0,0,597,0,0,3018,2706,100.0,American English <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hexchat,2426,0,3545,743,0,703,2517,5971,40.629710266287056,Gujarati (http://www.transifex.com/hexchat/hexchat/language/gu/)
+hivex,205,8,57,18,1,3,212,270,75.92592592592592,Gujarati <trans-gu@lists.fedoraproject.org>
+iagno,34,107,181,16,33,23,44,322,10.559006211180124,Gujarati
+ibus,911,60,1345,158,7,402,900,2316,39.33506044905008,Gujarati (http://www.transifex.com/projects/p/ibus/language/gu/)
+ikiwiki,302,366,861,84,76,150,327,1529,19.7514715500327,Gujarati <team@utkarsh.org>
+im-chooser,229,0,24,52,0,5,236,253,90.51383399209486,Gujarati (http://www.transifex.net/projects/p/im-chooser/team/gu/)
+imsettings,440,10,40,80,2,7,423,490,89.79591836734694,Gujarati (http://www.transifex.net/projects/p/imsettings/team/gu/)
+initial-setup,33,0,73,7,0,13,38,106,31.132075471698112,Gujarati (http://www.transifex.com/projects/p/initial-setup/language/gu/)
+initscripts,738,79,301,110,14,34,862,1118,66.01073345259391,Gujarati <trans-gu@lists.fedoraproject.org>
+inkscape,20198,10547,10184,4526,2792,1350,20732,40929,49.348872437635904,Gujarati <info.gist@cdac.in>
+iso-codes,2900,728,12081,1828,377,7980,2888,15709,18.460754981220955,Gujarati <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gu/>
+isomaster,32,1,641,22,1,84,41,674,4.747774480712167,http://littlesvr.ca/ostd/
+kalzium,642,312,8153,351,150,802,669,9107,7.049522345448556,Gujarati <kde-i18n-doc@kde.org>
+kanagram,216,195,116,69,32,43,223,527,40.98671726755218,Gujarati <kde-i18n-doc@kde.org>
+kapman,99,10,6,29,5,2,96,115,86.08695652173914,American English <kde-i18n-doc@kde.org>
+kblocks,66,19,73,20,8,9,63,158,41.77215189873418,American English <kde-i18n-doc@kde.org>
+kbrickbuster,71,21,66,26,5,11,69,158,44.936708860759495,American English <kde-i18n-doc@kde.org>
+kde-cli-tools,586,316,1233,130,28,59,621,2135,27.447306791569087,Gujarati <kde-i18n-doc@kde.org>
+kdialog,179,86,117,40,15,20,191,382,46.8586387434555,Gujarati
+kdiamond,75,6,41,30,1,1,80,122,61.47540983606557,American English <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,83,11,100,14,3,5,92,194,42.78350515463917,Gujarati
+keditbookmarks,341,119,6,96,35,1,392,466,73.17596566523605,Gujarati <kde-i18n-doc@lists.kde.org>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Gujarati <team@utkarsh.org>
+kf5-kbookmarks,0,164,66,0,45,4,0,230,0.0,Gujarati <kde-i18n-doc@kde.org>
+kf5-kcmutils,142,121,3,19,17,2,142,266,53.383458646616546,Gujarati <team@utkarsh.org>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Gujarati <team@utkarsh.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Gujarati <team@utkarsh.org>
+kf5-kconfig,0,50,239,0,5,99,0,289,0.0,Gujarati
+kf5-kconfigwidgets,139,144,59,68,44,13,203,342,40.643274853801174,Gujarati <team@utkarsh.org>
+kf5-kcoreaddons,0,307,75,0,90,42,0,382,0.0,Gujarati <team@utkarsh.org>
+kf5-kdeclarative,41,40,80,7,8,10,42,161,25.465838509316768,Gujarati <team@utkarsh.org>
+kf5-kdelibs4support,2016,1065,2272,1270,689,585,2369,5353,37.661124603026344,Gujarati <team@utkarsh.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Gujarati <team@utkarsh.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Gujarati <team@utkarsh.org>
+kf5-kdoctools,8,0,0,4,0,0,13,8,100.0,Gujarati <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Gujarati <team@utkarsh.org>
+kf5-khtml,1137,388,142,247,27,15,1188,1667,68.20635872825434,Gujarati <team@utkarsh.org>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,Gujarati <team@utkarsh.org>
+kf5-kiconthemes,11,17,13,10,5,4,12,41,26.82926829268293,Gujarati <kde-i18n-doc@kde.org>
+kf5-kinit,78,31,7,6,4,1,70,116,67.24137931034483,Gujarati <team@utkarsh.org>
+kf5-kio,2541,1117,8371,597,279,496,2713,12029,21.123950453071743,Gujarati <kde-i18n-doc@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Gujarati <team@utkarsh.org>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,Gujarati <team@utkarsh.org>
+kf5-kjsembed,222,14,12,41,2,1,221,248,89.51612903225806,Gujarati <team@utkarsh.org>
+kf5-knewstuff,160,255,1216,45,97,89,183,1631,9.809932556713672,Gujarati <team@utkarsh.org>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Gujarati <team@utkarsh.org>
+kf5-knotifyconfig,43,86,0,15,2,0,45,129,33.33333333333333,Gujarati <team@utkarsh.org>
+kf5-kparts,88,27,23,24,3,3,104,138,63.76811594202898,Gujarati <team@utkarsh.org>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Gujarati <team@utkarsh.org>
+kf5-kross,82,18,0,29,6,0,85,100,82.0,Gujarati <team@utkarsh.org>
+kf5-kservice,66,79,28,9,15,4,63,173,38.15028901734104,Gujarati <team@utkarsh.org>
+kf5-ktexteditor,902,1131,7196,339,335,589,1008,9229,9.773539928486292,Gujarati <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,446,13,14,114,9,7,491,473,94.29175475687104,Gujarati <team@utkarsh.org>
+kf5-kwallet,348,135,852,44,8,36,374,1335,26.06741573033708,Gujarati <kde-i18n-doc@lists.kde.org>
+kf5-kwidgetsaddons,0,1160,133,0,434,29,0,1293,0.0,Gujarati <team@utkarsh.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Gujarati <team@utkarsh.org>
+kf5-kxmlgui,481,963,130,103,114,13,495,1574,30.559085133418044,Gujarati <team@utkarsh.org>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Gujarati <team@utkarsh.org>
+kf5-syntax-highlighting,0,282,352,0,208,167,0,634,0.0,Gujarati <kde-i18n-doc@kde.org>
+kfind,422,26,54,104,8,3,475,502,84.06374501992032,Gujarati <kde-i18n-doc@kde.org>
+kflickr,22,0,310,12,0,75,26,332,6.626506024096386,Gujarati <gu@li.org>
+kgeography,5664,2135,2213,3908,1579,1750,5610,10012,56.57211346384339,Gujarati <kde-i18n-doc@kde.org>
+khangman,221,54,200,69,19,32,219,475,46.526315789473685,Gujarati <kde-i18n-doc@kde.org>
+khelpcenter,195,24,46,75,8,7,237,265,73.58490566037736,Gujarati <kde-i18n-doc@lists.kde.org>
+khotkeys,174,20,257,101,9,26,208,451,38.58093126385809,Gujarati
+kinfocenter,214,120,127,106,65,55,232,461,46.420824295010846,Gujarati <kde-i18n-doc@lists.kde.org>
+kio-extras,411,193,411,60,24,51,447,1015,40.49261083743843,Gujarati <kde-i18n-doc@kde.org>
+klettres,383,46,11,73,7,5,363,440,87.04545454545455,Gujarati <kde-i18n-doc@kde.org>
+kmenuedit,235,18,32,50,6,11,237,285,82.45614035087719,Gujarati <kde-i18n-doc@kde.org>
+kollision,82,0,27,23,0,7,86,109,75.22935779816514,American English <kde-i18n-doc@kde.org>
+konqueror,2479,313,3380,475,57,161,2685,6172,40.16526247569669,Gujarati <kde-i18n-doc@kde.org>
+konsole5,448,1151,2323,127,330,370,467,3922,11.422743498215196,Gujarati
+kstars,422,16738,36493,310,7497,4353,450,53653,0.7865357016383054,Gujarati <kde-i18n-doc@kde.org>
+ksysguard,447,83,563,170,31,36,495,1093,40.896614821591946,Gujarati
+ktouch,27,373,560,15,114,128,26,960,2.8125,Gujarati <kde-i18n-doc@kde.org>
+kwin,588,708,4503,232,282,651,660,5799,10.139679255043973,Gujarati
+libbonobo,547,0,0,108,0,0,566,547,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libbonoboui,368,0,0,115,0,0,423,368,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libcryptui,3042,0,0,655,0,0,3407,3042,100.0,Gujarati
+libdnf,2,0,1478,1,0,228,2,1480,0.13513513513513514,Gujarati
+libgnome,1772,0,0,273,0,0,1762,1772,100.0,Gujarati
+libgnome-keyring,44,0,0,9,0,0,45,44,100.0,Gujarati
+libgnomecanvas,378,0,0,95,0,0,365,378,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libgnomekbd,242,0,0,55,0,0,224,242,100.0,Gujarati
+libgnomeui,1226,0,0,320,0,0,1330,1226,100.0,Gujarati
+libgtop2,126,0,0,40,0,0,156,126,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libguestfs,1606,9,5797,301,2,652,1617,7412,21.667566109012412,Gujarati (http://www.transifex.com/projects/p/libguestfs/language/gu/)
+libgweather,6151,0,0,4561,0,0,6177,6151,100.0,American English <kde-i18n-doc@kde.org>
+libgweather4,6151,0,0,4561,0,0,6177,6151,100.0,American English <kde-i18n-doc@kde.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,Gujarati <None>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,American English <kde-i18n-doc@kde.org>
+libksysguard,414,206,2871,132,36,198,419,3491,11.859066170151818,Gujarati <gu@li.org>
+libmatekbd,176,0,132,43,0,48,166,308,57.14285714285714,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+libmatemixer,12,0,230,11,0,115,15,242,4.958677685950414,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+libmateweather,5947,0,196,4484,0,91,5970,6143,96.8093765261273,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+libmypaint,3,2,2298,3,1,158,3,2303,0.13026487190620928,Gujarati <https://hosted.weblate.org/projects/mypaint/libmypaint/gu/>
+libnma,289,342,257,85,55,47,329,888,32.54504504504504,American English <kde-i18n-doc@kde.org>
+libpeas,110,0,0,31,0,0,126,110,100.0,American English <kde-i18n-doc@kde.org>
+libpwquality,333,0,12,50,0,1,298,345,96.52173913043478,LANGUAGE <LL@li.org>
+libreoffice,296637,12878,405399,45755,4384,39665,298995,714914,41.49268303600153,LANGUAGE <LL@li.org>
+libreport,2421,39,2468,376,4,223,2658,4928,49.127435064935064,Gujarati (http://www.transifex.com/projects/p/libreport/language/gu/)
+libsoup,110,0,0,25,0,0,124,110,100.0,American English <kde-i18n-doc@kde.org>
+libsoup3,110,0,0,25,0,0,124,110,100.0,American English <kde-i18n-doc@kde.org>
+libuser,996,38,403,213,7,81,1147,1437,69.31106471816284,Gujarati (http://www.transifex.com/projects/p/fedora/language/gu/)
+libvirt,31280,19975,17057,5217,3089,2098,33592,68312,45.789905141117224,Gujarati (http://www.transifex.com/projects/p/libvirt/language/gu/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Gujarati <trans-gu@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1172,1124,100.0,Gujarati <fedora-trans-gu@redhat.com>
+libwnck3,1086,0,0,231,0,0,1133,1086,100.0,American English <kde-i18n-doc@kde.org>
+libzypp,1162,422,1130,746,85,156,1162,2714,42.81503316138541,AgreeYa Solutions<linux_team@agreeya.com>
+light-locker,44,0,216,9,0,28,46,260,16.923076923076923,Gujarati (http://www.transifex.com/the_cavalry/light-locker/language/gu/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Gujarati <gu@li.org>
+lightsoff,10,33,54,5,10,4,19,97,10.309278350515463,Gujarati
+lxmenu-data,97,0,0,37,0,0,97,97,100.0,Gujarati <fedora-trans-gu@redhat.com>
+manafirewall,2,0,1095,2,0,131,2,1097,0.18231540565177756,Gujarati (https://www.transifex.com/MageiaLinux/teams/9361/gu/)
+marble,183,1942,9302,80,981,2242,204,11427,1.6014702021527958,Gujarati <kde-i18n-doc@kde.org>
+marco,3133,0,1170,365,0,65,3360,4303,72.80966767371602,Gujarati (https://app.transifex.com/mate/teams/13566/gu/)
+mate-applets,1845,37,14075,461,8,1177,2003,15957,11.562323745064862,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-backgrounds,26,0,29,18,0,11,31,55,47.27272727272727,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-calc,1275,0,2048,461,0,288,1275,3323,38.3689437255492,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-control-center,2474,7,5772,979,1,530,2870,8253,29.976978068581122,Gujarati (https://app.transifex.com/mate/teams/13566/gu/)
+mate-desktop,1184,0,1192,181,0,120,1193,2376,49.831649831649834,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-media,124,0,115,55,0,44,159,239,51.88284518828452,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-menu,81,0,227,44,0,66,89,308,26.2987012987013,Gujarati (http://www.transifex.com/mate/MATE/language/gu/)
+mate-menus,103,0,0,39,0,0,103,103,100.0,Gujarati (https://app.transifex.com/mate/teams/13566/gu/)
+mate-notification-daemon,8,0,178,7,0,46,14,186,4.301075268817205,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-panel,3862,0,2858,540,0,274,3904,6720,57.47023809523809,Gujarati (https://app.transifex.com/mate/teams/13566/gu/)
+mate-polkit,97,0,26,17,0,4,118,123,78.86178861788618,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-power-manager,1348,0,3771,283,0,268,1503,5119,26.333268216448523,Gujarati (https://app.transifex.com/mate/teams/13566/gu/)
+mate-screensaver,868,0,233,147,0,29,908,1101,78.83742052679382,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-sensors-applet,5,2,2153,5,2,219,6,2160,0.23148148148148145,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-session-manager,437,0,278,103,0,29,522,715,61.11888111888112,Gujarati (https://app.transifex.com/mate/teams/13566/gu/)
+mate-settings-daemon,1082,0,1124,182,0,137,1179,2206,49.048050770625565,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-system-monitor,518,0,4329,199,0,449,563,4847,10.687022900763358,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-terminal,3938,0,4448,496,0,307,3950,8386,46.95921774385881,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-themes,50,0,24,9,0,14,44,74,67.56756756756756,Gujarati (http://www.transifex.com/mate/MATE/language/gu/)
+mate-user-admin,12,0,593,10,0,116,19,605,1.9834710743801653,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-user-guide,141,0,42828,84,0,3144,152,42969,0.32814354534664525,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+mate-utils,3248,0,6812,650,0,476,3315,10060,32.286282306163024,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+metacity,3595,87,18,395,5,6,3889,3700,97.16216216216216,Gujarati
+mingw-GConf2,4088,0,0,497,0,0,4445,4088,100.0,gu_IN <kde-i18n-doc@kde.org>
+mingw-atk,398,0,0,139,0,0,470,398,100.0,gu_IN <kde-i18n-doc@kde.org>
+mingw-colord,25,0,363,8,0,91,25,388,6.443298969072164,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,1192,89,67,184,12,6,1226,1348,88.4272997032641,Gujarati
+mingw-glib-networking,86,0,0,16,0,0,110,86,100.0,Gujarati
+mingw-glib2,5697,0,0,904,0,0,6111,5697,100.0,American English <kde-i18n-doc@kde.org>
+mingw-gtk2,12006,308,90,2524,50,11,11873,12404,96.79135762657208,Gujarati
+mingw-gtk3,13691,492,389,3043,86,54,13547,14572,93.95415866044469,American English <kde-i18n-doc@kde.org>
+mingw-gtksourceview3,162,79,81,67,21,18,174,322,50.31055900621118,American English <kde-i18n-doc@kde.org>
+mingw-libsoup,110,0,0,25,0,0,124,110,100.0,American English <kde-i18n-doc@kde.org>
+mingw-libvirt,31659,20291,16514,5269,3139,2031,34011,68464,46.2418205188128,Gujarati (http://www.transifex.com/projects/p/libvirt/language/gu/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Gujarati (http://www.transifex.com/freedesktop/p11-kit/language/gu/)
+mlocate,140,0,441,24,0,27,147,581,24.096385542168676,Gujarati <trans-gu@lists.fedoraproject.org>
+mousetweaks,114,0,0,30,0,0,101,114,100.0,Gujarati
+mozo,41,0,5,20,0,4,62,46,89.13043478260869,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+muffin,1677,102,259,246,9,17,1815,2038,82.28655544651619,gu_IN <kde-i18n-doc@kde.org>
+multimedia-menus,56,0,0,22,0,0,60,56,100.0,Gujarati
+mutter,1829,0,0,237,0,0,1942,1829,100.0,American English <kde-i18n-doc@kde.org>
+mypaint,17,12,6352,16,7,1247,26,6381,0.2664159222692368,Gujarati <https://hosted.weblate.org/projects/mypaint/mypaint/gu/>
+nautilus,6114,0,0,1030,0,0,6546,6114,100.0,American English <kde-i18n-doc@kde.org>
+nemo-extensions,246,0,0,46,0,0,286,246,100.0,gu_IN <kde-i18n-doc@kde.org>
+network-manager-applet,1208,1194,1903,353,251,255,1367,4305,28.060394889663183,American English <kde-i18n-doc@kde.org>
+newt,4,0,0,4,0,0,5,4,100.0,Gujarati
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Gujarati
+nutty,0,0,608,0,0,152,0,608,0.0,
+onionshare,0,0,574,0,0,27,0,574,0.0,none
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,1066,874,1853,445,339,516,1175,3793,28.104402847350386,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+p11-kit,0,0,476,0,0,81,0,476,0.0,Gujarati (http://www.transifex.com/freedesktop/p11-kit/language/gu/)
+pam,352,159,24,75,22,3,383,535,65.7943925233645,Gujarati <trans-gu@lists.fedoraproject.org>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+paprefs,131,0,6,23,0,2,153,137,95.62043795620438,Gujarati
+passwd,267,0,69,49,0,8,300,336,79.46428571428571,Gujarati <trans-gu@lists.fedoraproject.org>
+pavucontrol,183,61,286,76,22,51,199,530,34.52830188679245,Gujarati
+php-phpmyadmin-sql-parser5,77,29,162,15,6,29,76,268,28.73134328358209,Gujarati <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/gu/>
+pidgin,14481,0,1354,3216,0,241,15988,15835,91.4493211240922,Gujarati (http://www.transifex.com/pidgin/pidgin/language/gu/)
+pipewire,104,281,262,45,31,32,105,647,16.0741885625966,Gujarati
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,Gujarati
+pitivi,9,0,1004,2,0,216,13,1013,0.8884501480750246,Gujarati <fedora-trans-gu@redhat.com>
+plasma-desktop,2038,806,2405,328,215,345,2119,5249,38.82644313202515,Gujarati
+plasma-drkonqi,185,300,1499,41,59,103,197,1984,9.324596774193548,Gujarati
+plasma-oxygen,4,3,608,1,1,217,6,615,0.6504065040650406,Gujarati
+plasma-sdk,141,106,124,46,20,14,143,371,38.00539083557952,Gujarati <kde-i18n-doc@kde.org>
+plasma-systemsettings,111,26,75,28,6,20,121,212,52.358490566037744,Gujarati
+plasma-workspace,2545,1972,5177,1012,649,713,2752,9694,26.25335258923045,Gujarati
+pluma,3828,0,9285,1000,0,1090,4113,13113,29.19240448409975,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+pluma-plugins,188,0,1210,20,0,123,173,1398,13.447782546494993,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+policycoreutils,9486,558,2127,1406,111,259,10547,12171,77.93936406211486,Gujarati
+polkit-gnome,94,0,0,16,0,0,112,94,100.0,gu_IN <kde-i18n-doc@kde.org>
+powerdevil,62,160,332,27,42,52,86,554,11.191335740072201,Gujarati
+publican,1770,67,3606,129,3,484,1847,5443,32.51883152673158,Gujarati
+pulseaudio,1376,1868,508,343,109,119,1498,3752,36.67377398720683,Gujarati
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,186,43,1472,22,1,161,186,1701,10.934744268077601,Gujarati (http://www.transifex.com/projects/p/pykickstart/language/gu/)
+python-blivet,326,0,258,56,0,22,358,584,55.821917808219176,Gujarati (http://www.transifex.com/projects/p/blivet/language/gu/)
+python-caja,6,0,0,2,0,0,5,6,100.0,Gujarati (https://www.transifex.com/mate/teams/13566/gu/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-fedora,0,0,214,0,0,29,0,214,0.0,Gujarati
+python-hyperkitty,0,0,926,0,0,263,0,926,0.0,LANGUAGE <LL@li.org>
+python-meh,1,0,108,1,0,22,3,109,0.9174311926605505,Gujarati (http://www.transifex.com/projects/p/python-meh/language/gu/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+qtwebkit,1072,3,18,258,1,3,1092,1093,98.0786825251601,Gujarati <fedora-trans-gu@redhat.com>
+quadrapassel,228,74,126,56,17,6,230,428,53.271028037383175,Gujarati
+realmd,0,0,789,0,0,127,0,789,0.0,Gujarati (http://www.transifex.com/freedesktop/realmd/language/gu/)
+redhat-menus,261,0,0,86,0,0,275,261,100.0,Gujarati <fedora-trans-gu@redhat.com>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Gujarati
+rhythmbox,4503,15,19,1057,8,4,5122,4537,99.25060612739696,Gujarati
+rpm,0,0,4615,0,0,887,0,4615,0.0,Gujarati (http://www.transifex.com/rpm-team/rpm/language/gu/)
+rpm-ostree,2,0,1478,1,0,228,2,1480,0.13513513513513514,Gujarati
+rygel,377,0,179,84,0,30,378,556,67.80575539568345,Gujarati
+seahorse,3042,0,0,655,0,0,3407,3042,100.0,Gujarati
+seahorse-caja,411,10,0,109,1,0,501,421,97.62470308788599,Gujarati
+seahorse-nautilus,411,10,0,109,1,0,501,421,97.62470308788599,Gujarati
+setroubleshoot,522,10,108,148,2,18,564,640,81.5625,Gujarati (http://www.transifex.com/projects/p/fedora/language/gu/)
+setroubleshoot-plugins,2331,0,3915,119,0,107,2407,6246,37.319884726224785,Gujarati (http://www.transifex.com/projects/p/fedora/language/gu/)
+setuptool,55,0,0,14,0,0,59,55,100.0,Gujarati <fedora-trans-gu@redhat.com>
+shared-mime-info,0,0,2058,0,0,795,0,2058,0.0,Gujarati (http://www.transifex.com/freedesktop/shared-mime-info/language/gu/)
+shotwell,4553,0,0,946,0,0,5150,4553,100.0,Gujarati (http://www.transifex.com/projects/p/shotwell/language/gu/)
+skychart,4830,16,15,1513,4,2,5227,4861,99.362271137626,Gujarati <gu@li.org>
+slick-greeter,58,0,153,20,0,27,63,211,27.488151658767773,Gujarati <gu@li.org>
+snapper,3,385,704,3,94,155,3,1092,0.27472527472527475,Gujarati <i18n@suse.de>
+sos,54,33,35,11,7,12,68,122,44.26229508196721,Gujarati
+sound-juicer,1037,0,0,195,0,0,1180,1037,100.0,gu_IN <kde-i18n-doc@kde.org>
+stellarium,1300,0,150341,775,0,37080,1332,151641,0.8572879366398269,Gujarati (https://www.transifex.com/stellarium/teams/80998/gu/)
+step,577,891,419,175,378,121,649,1887,30.5776364599894,Gujarati <kde-i18n-doc@kde.org>
+subscription-manager,2034,769,1567,365,126,200,2147,4370,46.54462242562929,Gujarati
+subscription-manager-cockpit,21,63,427,16,26,74,26,511,4.10958904109589,Gujarati
+sugar,18,0,2287,4,0,525,19,2305,0.7809110629067245,LANGUAGE <LL@li.org>
+sugar-calculator,0,1,870,0,1,163,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-chat,2,0,135,2,0,79,2,137,1.4598540145985401,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,27,0,115,27,0,47,28,142,19.014084507042252,LANGUAGE <LL@li.org>
+sugar-speak,25,0,202,25,0,49,26,227,11.013215859030836,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,6,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,125,27,61,97,12,14,132,213,58.68544600938967,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,28,24,100.0,gu_IN <kde-i18n-doc@kde.org>
+swell-foop,64,66,136,26,16,13,68,266,24.06015037593985,Gujarati
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+switchdesk,16,87,19,3,10,6,19,122,13.114754098360656,Gujarati <fedora-trans-gu@redhat.com>
+system-config-language,61,107,47,14,9,8,77,215,28.37209302325581,Gujarati
+system-config-printer,3028,44,442,725,21,182,3341,3514,86.16960728514513,Gujarati (http://www.transifex.com/projects/p/fedora/language/gu/)
+system-config-rootpassword,116,0,0,19,0,0,125,116,100.0,Gujarati <fedora-trans-gu@redhat.com>
+system-switch-java,81,0,0,11,0,0,80,81,100.0,Gujarati
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Gujarati <fedora-trans-gu@redhat.com>
+tali,315,31,75,80,10,7,312,421,74.82185273159145,Gujarati
+tomboy,3104,0,0,441,0,0,3390,3104,100.0,Gujarati
+totem,1389,0,0,391,0,0,1486,1389,100.0,American English <kde-i18n-doc@kde.org>
+totem-pl-parser,28,0,0,7,0,0,26,28,100.0,Gujarati
+tuxpaint,1687,548,1528,343,46,72,1591,3763,44.83125166090885,Gujarati <team@utkarsh.org>
+tuxpaint-stamps,3246,3,0,804,1,0,2461,3249,99.90766389658357,Gujarati <team@utkarsh.org>
+tuxtype2,71,0,9,32,0,8,80,80,88.75,Gujarati
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+usermode,564,0,9,94,0,2,621,573,98.42931937172776,Gujarati <trans-gu@lists.fedoraproject.org>
+webkit2gtk3,1545,0,0,368,0,0,1592,1545,100.0,Gujarati
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none
+wireplumber,3,0,0,2,0,0,3,3,100.0,Gujarati
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Gujarati <indianoss-gujarati@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,76,81,100.0,Gujarati
+xed,2665,0,1095,681,0,243,2855,3760,70.87765957446808,Gujarati (http://www.transifex.com/projects/p/MATE/language/gu/)
+xreader,1176,0,444,295,0,84,1261,1620,72.5925925925926,Gujarati (http://www.transifex.com/mate/MATE/language/gu/)
+yelp,448,0,0,104,0,0,420,448,100.0,American English <kde-i18n-doc@kde.org>
+yelp-xsl,249,0,0,99,0,0,255,249,100.0,Gujarati
+zenity,674,0,0,159,0,0,694,674,100.0,Gujarati
+zypper,60,3102,6081,38,421,790,81,9243,0.6491398896462187,AgreeYa Solutions<linux_team@agreeya.com>

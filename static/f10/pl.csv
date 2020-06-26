@@ -1,0 +1,747 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3236,0,0,1017,0,0,2947,3236,100.0,
+GConf2,4004,0,0,477,0,0,3907,4004,100.0,Polish <gnome-l10n@lists.aviary.pl>
+LabPlot,2369,496,13819,993,248,1888,2363,16684,14.199232797890193,LANGUAGE <LL@li.org>
+Miro,2661,0,0,586,0,0,2641,2661,100.0,Piotr Szmitkowski <pszmitkowski@gmail.com>
+NetworkManager,1469,0,2,341,0,2,1414,1471,99.8640380693406,Aviary.pl <gnomepl@aviary.pl>
+NetworkManager-openconnect,52,0,0,19,0,0,48,52,100.0,Aviary.pl <gnomepl@aviary.pl>
+NetworkManager-openvpn,182,0,0,57,0,0,171,182,100.0,Aviary.pl <gnomepl@aviary.pl>
+NetworkManager-pptp,115,0,0,42,0,0,114,115,100.0,Aviary.pl <gnomepl@aviary.pl>
+NetworkManager-vpnc,139,0,0,36,0,0,136,139,100.0,Aviary.pl <gnomepl@aviary.pl>
+PackageKit,740,115,0,135,12,0,642,855,86.54970760233918,Polish <pl@li.org>
+PolicyKit-gnome,754,0,0,142,0,0,668,754,100.0,Polish <pl@li.org>
+Terminal,1450,0,0,252,0,0,1351,1450,100.0,Polish <pl@li.org>
+Thunar,3780,22,0,672,1,0,3344,3802,99.42135718043134,Polish <xfce-i18n@xfce.org>
+WindowMaker,1419,11,0,281,1,0,1408,1430,99.23076923076923,Polish <pl@li.org>
+Zim,1175,0,72,334,0,12,1107,1247,94.2261427425822,Polish <pl@li.org>
+a2ps,962,354,196,150,17,12,915,1512,63.62433862433863,Polish <jec@dcs.ed.ac.uk>
+acheck,274,0,0,30,0,0,282,274,100.0,Polish <pl@li.org>
+acl,484,0,0,51,0,0,490,484,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+alacarte,42,0,0,16,0,0,40,42,100.0,Aviary.pl <gnomepl@aviary.pl>
+alexandria,1156,0,6,299,0,2,1101,1162,99.48364888123923,Polish <pl@li.org>
+alleyoop,268,0,74,70,0,17,259,342,78.3625730994152,Polish <pl@li.org>
+amarok,9419,1,10,1887,1,1,9220,9430,99.88335100742312,Polish <kde-i18n-doc@kde.org>
+anaconda,10170,0,0,1250,0,0,8821,10170,100.0,Polish <pl@li.org>
+anjuta,6686,147,492,1870,48,80,6497,7325,91.2764505119454,Aviary.pl gnome-l10n@aviary.pl
+apollon,1102,161,301,193,30,36,954,1564,70.46035805626599,<pl@li.org>
+ardour,4348,56,4996,1489,15,668,4183,9400,46.25531914893617,Polish <pzaryk@gmail.com>
+aria2,419,149,3429,71,24,232,395,3997,10.482862146609957,Polish <pl@li.org>
+arm-gp2x-linux-glibc,6326,0,0,1256,0,0,6521,6326,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+asunder,420,0,0,78,0,0,369,420,100.0,
+at-spi,15,0,0,4,0,0,16,15,100.0,Polish <pl@li.org>
+atk,370,0,0,123,0,0,340,370,100.0,Polish <translators@gnomepl.org>
+atomix,125,0,0,44,0,0,130,125,100.0,Polish <pl@li.org>
+attr,344,0,0,30,0,0,337,344,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+audacious,1728,312,338,558,80,47,1701,2378,72.66610597140453,
+audacity,7895,1796,942,1617,289,163,7356,10633,74.24997648829117,<en@li.org>
+audit-viewer,606,0,0,184,0,0,597,606,100.0,Polish <pl@li.org>
+aumix,171,54,15,76,2,14,179,240,71.25,PL <pl@li.org>
+authconfig,1351,0,0,243,0,0,1253,1351,100.0,Polish <pl@li.org>
+avant-window-navigator,152,0,441,62,0,78,146,593,25.632377740303543,Polish <pl@li.org>
+backintime,109,0,332,48,0,71,98,441,24.71655328798186,Polish <pl@li.org>
+bakery,72,0,0,20,0,0,67,72,100.0,Tomasz Dominikowski <dominikowski@gmail.com>
+balsa,4674,512,162,1135,121,31,4564,5348,87.39715781600599,Polish <translation-team-pl@lists.sourceforge.net>
+banshee,3754,0,1,996,0,1,3664,3755,99.97336884154461,Aviary.pl <gnomepl@aviary.pl>
+basket,2746,1320,515,588,61,45,2508,4581,59.943243833224194,Polish <kde-transl@mer.chemia.polsl.gliwice.pl>
+bauble,1237,0,802,260,0,121,1109,2039,60.66699362432565,Polish <pl@li.org>
+beagle,1238,0,0,304,0,0,1181,1238,100.0,Aviary.pl <gnomepl@aviary.pl>
+bilbo,817,0,480,212,0,75,732,1297,62.99151888974557,Polish <pl@li.org>
+bison,835,39,14,139,5,6,873,888,94.03153153153153,Polish <translation-team-pl@lists.sourceforge.net>
+bittorrent,3904,0,0,633,0,0,3756,3904,100.0,LANGUAGE <LL@li.org>
+blam,305,0,0,89,0,0,256,305,100.0,Polish
+bleachbit,682,0,0,138,0,0,652,682,100.0,Polish <pipaceliny@gmail.com>
+blender,3902,0,0,1030,0,0,3428,3902,100.0,
+blobwars,1235,0,0,365,0,0,1187,1235,100.0,
+bluefish,2882,0,0,1056,0,0,3004,2882,100.0,None
+blueman,773,0,261,254,0,33,838,1034,74.75822050290135,Polish <pl@li.org>
+bluez-gnome,631,0,0,189,0,0,636,631,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+bmpx,1996,383,438,514,59,62,1949,2817,70.85552005679801,polski <pl@li.org>
+boinc-client,5518,39,75,1071,32,9,5911,5632,97.97585227272727,
+boswars,171,13,31,50,3,14,165,215,79.53488372093022,Polish <LL@li.org>
+brasero,8021,32,361,1162,1,6,7164,8414,95.32921321606845,Polish <gnomepl@aviary.pl>
+bug-buddy,989,0,0,85,0,0,859,989,100.0,Aviary.pl <gnomepl@aviary.pl>
+bygfoot,3382,15,0,700,1,0,2899,3397,99.55843391227553,Polish <kdei18n-pl-devel@lists.sourceforge.net>
+bzr-gtk,5,3,1082,4,2,301,10,1090,0.45871559633027525,Polish <pl@li.org>
+cairo-clock,270,0,0,60,0,0,249,270,100.0,Polski <pl@li.org>
+catfish,76,0,0,28,0,0,71,76,100.0,Polish <pl@li.org>
+ccsm,549,0,0,135,0,0,489,549,100.0,pl_PL <pl@li.org>
+centerim,2246,270,240,659,67,67,2135,2756,81.49492017416546,Polish
+cflow,587,0,0,114,0,0,558,587,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+cheese,527,0,0,99,0,0,500,527,100.0,Aviary.pl <gnomepl@aviary.pl>
+chemtool,1177,1,6,257,1,3,1136,1184,99.40878378378379,<pl@li.org>
+childsplay,1226,0,0,212,0,0,1087,1226,100.0,<en@li.org>
+chkconfig,430,0,0,88,0,0,440,430,100.0,Polish <pl@li.org>
+cinepaint,1942,1701,3762,725,699,511,1925,7405,26.225523295070897,Polish <pl@li.org>
+claws-mail,14707,51,76,2960,7,24,14218,14834,99.14385870297964,Polish <pl@li.org>
+claws-mail-plugins,1327,191,167,264,44,50,1229,1685,78.75370919881306,<pl@li.org>
+coccinella,4669,0,39,1281,0,10,4395,4708,99.17162276975361,Polish
+comix,1527,0,77,279,0,17,1363,1604,95.19950124688279,Kamil Leduchowski <nierozwazny@o2.pl>
+compat-wxGTK26,5444,0,0,1143,0,0,5434,5444,100.0,wxWidgets translators <wx-translators@wxwidgets.org>
+compiz,66,0,0,11,0,0,73,66,100.0,Polish <pl@li.org>
+compiz-fusion,6710,542,278,1320,116,36,6430,7530,89.11022576361222,pl_PL <pl@li.org>
+compiz-fusion-extras,6710,542,278,1320,116,36,6430,7530,89.11022576361222,pl_PL <pl@li.org>
+conduit,563,0,0,221,0,0,557,563,100.0,Aviary.pl <gnomepl@aviary.pl>
+conglomerate,2084,444,3789,305,213,620,1876,6317,32.990343517492484,Polish <translation-team-pl@lists.sourceforge.net>
+contact-lookup-applet,221,0,26,49,0,3,206,247,89.47368421052632,Polish
+contacts,246,0,0,60,0,0,231,246,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+control-center,2972,0,0,724,0,0,2808,2972,100.0,Aviary.pl <team@aviary.pl>
+cpio,1210,189,514,180,20,85,1218,1913,63.2514375326712,Polish <translation-team-pl@lists.sourceforge.net>
+cracklib,93,0,0,15,0,0,76,93,100.0,Polish <i18n@suse.de>
+cups,4544,0,0,732,0,0,4589,4544,100.0,Polish <pl@li.org>
+dasher,460,0,0,181,0,0,450,460,100.0,Polish <translators@gnomepl.org>
+dates,225,0,0,70,0,0,218,225,100.0,Aviary.pl <gnomepl@aviary.pl>
+dc3dd,364,290,278,44,22,22,365,932,39.05579399141631,Polish <translation-team-pl@lists.sourceforge.net>
+dcraw,596,0,0,119,0,0,620,596,100.0,
+deluge,1998,0,0,689,0,0,2013,1998,100.0,Polish <pl@li.org>
+deskbar-applet,1520,0,0,332,0,0,1366,1520,100.0,Aviary.pl <gnomepl@aviary.pl>
+devhelp,360,0,0,91,0,0,332,360,100.0,Aviary.pl <gnome-l10n@lists.aviary.pl>
+dia,3537,940,1234,1330,384,332,3693,5711,61.933111539135,Polish <translation-team-pl@lists.sourceforge.net>
+dialog,12,2,11,12,2,9,13,25,48.0,Polish <po@lists.intersec.pl>
+diffutils,1342,0,0,180,0,0,1304,1342,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+digikam,19663,21,9,2556,7,1,17136,19693,99.84766160564668,Polish <kde-transl@mer.chemia.polsl.gliwice.pl>
+django-pagination,2,0,0,2,0,0,2,2,100.0,PL <pl@li.org>
+dnsmasq,1755,0,0,301,0,0,1992,1755,100.0,Polski <pl@li.org>
+dopewars,2801,576,1870,518,4,340,2393,5247,53.38288545835715,Polish <pl@li.org>
+drgeo,1838,102,45,430,19,12,1704,1985,92.59445843828715,Polish <pl@li.org>
+drivel,961,0,0,301,0,0,839,961,100.0,Polish
+drupal-views,6195,0,0,955,0,0,5115,6195,100.0,Polish <bopajdowski@gmail.com>
+e16,1720,635,558,259,148,130,1634,2913,59.04565739787161,Polshi <pl@li.org>
+e2fsprogs,5498,196,51,870,17,5,5564,5745,95.7006092254134,Polish <translation-team-pl@lists.sourceforge.net>
+easystroke,515,0,0,140,0,0,497,515,100.0,Polish <pl@li.org>
+easytag,4596,417,211,845,70,31,4297,5224,87.97856049004594,Polish <translation-team-pl@lists.sourceforge.net>
+eboard,2044,0,239,496,0,46,2048,2283,89.53131844064826,
+eel2,161,0,0,31,0,0,137,161,100.0,Aviary.pl <gnomepl@aviary.pl>
+ekg2,3954,74,1177,625,21,239,4187,5205,75.96541786743516,Polski
+ekiga,4216,0,0,653,0,0,3694,4216,100.0,Aviary.pl <gnomepl@aviary.pl>
+elinks,11786,224,70,1612,5,3,10715,12080,97.56622516556291,Polish <translation-team-pl@lists.sourceforge.net>
+elisa-plugins-bad,340,3,0,96,2,0,301,343,99.12536443148689,The Elisa Team <elisa@lists.fluendo.com>
+emerald,677,11,86,209,4,2,719,774,87.46770025839793,pl_PL <pl@li.org>
+empathy,1409,0,0,385,0,0,1283,1409,100.0,Aviary.pl <gnomepl@aviary.pl>
+entertainer,119,0,622,65,0,121,125,741,16.059379217273953,Polish <pl@li.org>
+eog,1223,0,0,282,0,0,1128,1223,100.0,Aviary.pl <gnomepl@aviary.pl>
+epdfview,466,0,1,129,0,1,435,467,99.78586723768737,Polish <none@none.org>
+epiphany,4246,0,0,918,0,0,3851,4246,100.0,Polish <translators@gnomepl.org>
+epiphany-extensions,178,0,0,34,0,0,195,178,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+evince,1048,0,0,291,0,0,1026,1048,100.0,Aviary.pl <gnomepl@aviary.pl>
+evolution,21855,0,0,5008,0,0,19633,21855,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+evolution-data-server,5111,0,0,1063,0,0,5396,5111,100.0,Polish <translators@gnomepl.org>
+evolution-exchange,1347,0,0,197,0,0,1265,1347,100.0,Polish <translators@gnomepl.org>
+evolution-webcal,184,0,0,30,0,0,153,184,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+exaile,2530,0,133,690,0,20,2511,2663,95.0056327450244,Piotr Zaryk (Aviary.pl) <pzaryk@aviary.pl>
+exiv2,4205,4567,6979,1077,1175,438,3824,15751,26.696717668719444,Polish <translation-team-pl@lists.sourceforge.net>
+exo,1461,2,13,285,1,2,1304,1476,98.98373983739837,Polish <pl@li.org>
+expendable,226,0,0,92,0,0,229,226,100.0,Polish <fedora-trans-pl@redhat.com>
+f-spot,3437,0,0,870,0,0,3372,3437,100.0,Aviary.pl <gnomepl@aviary.pl>
+fetchmail,3943,9,0,638,2,0,4255,3952,99.77226720647774,Polish <translation-team-pl@lists.sourceforge.net>
+file-roller,1205,0,0,270,0,0,1115,1205,100.0,Aviary.pl <gnomepl@aviary.pl>
+filezilla,7388,24,0,1268,5,0,6768,7412,99.67620075553157,.angelo <angelo.cpp@gmail.com>
+findutils,2034,48,0,214,2,0,1960,2082,97.69452449567724,Polish <translation-team-pl@lists.sourceforge.net>
+firestarter,468,556,880,80,119,175,393,1904,24.579831932773107,Polish <pl@li.org>
+firstboot,587,0,0,51,0,0,485,587,100.0,Polish <pl@li.org>
+flex,1069,0,0,157,0,0,1100,1069,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+fontforge,29691,80,2110,5652,47,224,27731,31881,93.13070480850664,Polish <pl@li.org>
+freeciv,27913,4550,6698,3407,597,326,23901,39161,71.27754653864814,none
+freedink-dfarc,721,8,1,126,1,1,650,730,98.76712328767124,
+frescobaldi,2396,131,266,589,33,46,2199,2793,85.78589330469029,Polish <kde-i18n-doc@kde.org>
+frozen-bubble,567,82,49,130,9,9,561,698,81.23209169054442,PL_pl <pl@li.org>
+fuse-encfs,544,209,558,79,24,35,538,1311,41.49504195270786,Polish <pl@li.org>
+gajim,8954,659,533,1731,162,47,8385,10146,88.2515276956436,Polish <translation-team-pl@lists.sourceforge.net>
+galculator,611,140,28,221,29,10,600,779,78.43388960205392,POLISH <glum@poczta.fm>
+galeon,5495,0,0,1364,0,0,5307,5495,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gallery2,17790,0,0,2543,0,0,16250,17790,100.0,Polish <gallery-devel@lists.sourceforge.net>
+gambas,2435,0,0,753,0,1,2231,2435,100.0,LANGUAGE <LL@li.org>
+gambas2,1395,94,1449,526,6,470,1318,2938,47.481279782164734,LANGUAGE <LL@li.org>
+gammu,623,597,2511,207,140,688,648,3731,16.69793621013133,Language =pl
+ganyremote,491,0,1,139,0,1,447,492,99.79674796747967,Polish
+gaupol,1481,0,3,445,0,2,1384,1484,99.7978436657682,Polish <translation-team-pl@lists.sourceforge.net>
+gawk,2460,22,3,390,1,1,2592,2485,98.99396378269618,Polish <translation-team-pl@lists.sourceforge.net>
+gcalctool,1176,0,0,410,0,0,1171,1176,100.0,Polish <translators@gnomepl.org>
+gcombust,3760,93,156,443,5,12,3238,4009,93.78897480668496,polish <pl@pl.org>
+gcompris,8256,0,0,1027,0,0,7108,8256,100.0,pl.
+gconf-editor,329,0,0,97,0,0,318,329,100.0,Polish <translators@gnomepl.org>
+gdeskcal,99,0,0,44,0,0,96,99,100.0,Polish <pl@li.org>
+gdesklets,37,78,1265,11,17,153,33,1380,2.681159420289855,Polish <translation-team-pl@lists.sourceforge.net>
+gdm,1323,0,0,232,0,0,1228,1323,100.0,Polish <gnomepl@aviary.pl>
+geany,2571,1528,1083,678,283,138,2487,5182,49.614048629872634,polski <geany-i18n@uvena.de>
+gedit,4942,0,0,1093,0,0,4717,4942,100.0,Aviary.pl <gnomepl@aviary.pl>
+gedit-plugins,198,0,0,54,0,0,185,198,100.0,Aviary.pl <gnomepl@aviary.pl>
+geeqie,1174,892,1548,508,368,370,1193,3614,32.48478140564471,Polish <translation-team-pl@lists.sourceforge.net>
+genchemlab,305,0,0,112,0,0,321,305,100.0,Polish <pl@li.org>
+genius,195,5,505,54,1,77,206,705,27.659574468085108,Polish <gnomepl@pandora.info.bielsko.pl>
+gentoo,1930,42,70,555,9,4,1858,2042,94.51518119490694,Polish <translators@gnome.pl>
+gettext,6850,0,0,686,0,0,6438,6850,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gftp,2805,271,296,544,57,31,2585,3372,83.18505338078292,Polish <pl@li.org>
+gg2,1480,20,18,471,4,4,1527,1518,97.49670619235836,GNU Gadu Team
+ggz-gtk-client,409,0,0,106,0,0,344,409,100.0,Polish <translators@gnomepl.org>
+ghex,892,3,14,252,1,3,811,909,98.12981298129813,Polish <translation-team-pl@lists.sourceforge.net>
+giggle,312,0,0,108,0,0,290,312,100.0,polski <pl@li.org>
+gimp,24964,165,926,6599,28,113,23569,26055,95.81270389560545,Polish <gnome-l10n@lists.aviary.pl>
+gkrellm,3584,64,133,536,4,9,3249,3781,94.78973816450674,Polish <pl@li.org>
+gkrellm-volume,248,0,0,31,0,0,208,248,100.0,none <none>
+glabels,285,269,1202,93,115,369,266,1756,16.23006833712984,Polish <pl@li.org>
+glade2,5445,181,214,1226,41,33,4798,5840,93.23630136986301,Polish <translation-team-pl@lists.sourceforge.net>
+glade3,3197,0,0,868,0,0,2944,3197,100.0,Polish <gnome-l10n@lists.aviary.pl>
+glib2,1907,0,290,299,0,49,2001,2197,86.80018206645425,Aviary.pl <gnomepl@aviary.pl>
+glibc,7234,0,0,1326,0,0,7502,7234,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gmpc,889,0,0,315,0,0,934,889,100.0,pl_PL <mazdac@gmail.com>
+gmusicbrowser,2608,91,168,895,22,36,2520,2867,90.96616672479945,tizzilzol team <tizzilzol@gmail.com>
+gnochm,417,16,148,111,1,10,412,581,71.77280550774526,Polish
+gnokii,5210,0,33,1170,0,7,5180,5243,99.37058935723823,Polish <pl@li.org>
+gnomad2,697,0,0,171,0,0,726,697,100.0,Polish <pl@li.org>
+gnome-applet-music,634,0,0,120,0,0,536,634,100.0,Piotr Zaryk (Aviary.pl) <pzaryk@aviary.pl>
+gnome-applet-netspeed,143,0,0,54,0,0,149,143,100.0,Polish <kde-i18n-doc@lists.kde.org>
+gnome-applet-sensors,163,0,135,69,0,19,163,298,54.69798657718121,Polish
+gnome-applet-timer,283,0,0,71,0,0,272,283,100.0,Polish
+gnome-applet-window-picker,22,3,4,6,1,2,22,29,75.86206896551724,Polish
+gnome-applets,3020,0,0,677,0,0,2857,3020,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-backgrounds,23,0,0,17,0,0,20,23,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-bluetooth,366,0,0,70,0,0,321,366,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gnome-build,176,0,0,59,0,0,177,176,100.0,Polish <pl@li.org>
+gnome-chemistry-utils,4007,0,0,1086,0,0,3787,4007,100.0,Polish <kde-i18n-doc@lists.kde.org>
+gnome-commander,6878,315,1159,1428,87,80,6232,8352,82.35153256704982,Polish <pl@li.org>
+gnome-desktop,285,0,0,71,0,0,277,285,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-do,204,6,23,61,2,3,204,233,87.55364806866953,Polish <pl@li.org>
+gnome-doc-utils,238,0,0,92,0,0,235,238,100.0,Polish <gnome-l10n@aviary.pl>
+gnome-games,6741,35,748,1686,9,88,5722,7524,89.5933014354067,Polish <pl@li.org>
+gnome-hearts,340,0,69,90,0,16,221,409,83.12958435207824,Polish <pl@li.org>
+gnome-icon-theme,20,0,0,16,0,0,20,20,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-keyring,1717,0,0,211,0,0,1480,1717,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-keyring-manager,284,0,0,87,0,0,289,284,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gnome-libs,988,40,57,381,4,10,921,1085,91.05990783410138,Polish <pl@li.org>
+gnome-lirc-properties,654,0,0,239,0,0,651,654,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-mag,298,0,0,42,0,0,284,298,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-media,1938,0,0,525,0,0,1779,1938,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-menus,157,0,0,56,0,0,153,157,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-mime-data,887,0,0,362,0,0,1015,887,100.0,GNOME PL Team <translation-team-pl@lists.sourceforge.net>
+gnome-mount,790,0,0,170,0,0,691,790,100.0,Polish <pl@li.org>
+gnome-netstatus,418,0,0,106,0,0,388,418,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-nettool,573,0,0,197,0,0,547,573,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+gnome-packagekit,7781,0,0,962,0,0,6891,7781,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-panel,4582,0,0,629,0,0,3953,4582,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-phone-manager,513,0,0,90,0,0,448,513,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+gnome-pilot,1573,0,0,334,0,0,1607,1573,100.0,Polish <pl@li.org>
+gnome-pilot-conduits,154,23,32,38,10,2,152,209,73.68421052631578,Polish <translators@gnome.pl>
+gnome-power-manager,3351,0,0,466,0,0,2966,3351,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-scan,241,0,0,89,0,0,249,241,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+gnome-screensaver,966,0,0,154,0,0,852,966,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-session,714,0,0,114,0,0,655,714,100.0,Polish <gnomepl@aviary.pl>
+gnome-settings-daemon,1080,0,0,190,0,0,924,1080,100.0,Aviary.pl <gnome-l10n@aviary.pl>
+gnome-subtitles,718,0,0,268,0,0,696,718,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-system-monitor,913,0,0,238,0,0,851,913,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-terminal,3377,0,0,381,0,0,2833,3377,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-themes,96,0,0,28,0,0,106,96,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-user-share,270,0,0,43,0,0,267,270,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-utils,4174,0,0,739,0,0,3629,4174,100.0,Polish <gnomepl@aviary.pl>
+gnome-vfs2,1508,0,0,301,0,0,1461,1508,100.0,Polish <translators@gnomepl.org>
+gnome-volume-manager,1221,0,0,204,0,0,1138,1221,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gnomebaker,906,0,280,227,0,64,808,1186,76.39123102866779,Polish <pl@li.org>
+gnomecatalog,100,0,27,50,0,14,95,127,78.74015748031496,LANGUAGE <LL@li.org>
+gnomeradio,443,0,0,100,0,0,442,443,100.0,Polish <pl@li.org>
+gnotime,491,269,1248,188,81,160,497,2008,24.45219123505976,Polish <pl@li.org>
+gnubik,178,37,2,54,3,1,152,217,82.02764976958525,Polish <translation-team-pl@lists.sourceforge.net>
+gnucash,5557,5701,13236,1629,1033,1182,5018,24494,22.687188699273293,
+gnumeric,24473,5660,16228,2074,810,872,22381,46361,52.787903625892454,Polish <translation-team-pl@lists.sourceforge.net>
+gnupg,8376,19,0,1264,2,0,8101,8395,99.7736748064324,Polish <pl@li.org>
+gnupg2,9361,552,229,1552,95,39,9322,10142,92.29934924078091,Polish <translation-team-pl@lists.sourceforge.net>
+gnutls,805,32,11,171,14,6,742,848,94.92924528301887,Polish <translation-team-pl@lists.sourceforge.net>
+gobby,409,42,425,128,4,52,381,876,46.68949771689498,Polish <pl@li.org>
+goffice,1551,621,1818,635,308,422,1538,3990,38.87218045112782,Polish <translation-team-pl@lists.sourceforge.net>
+goffice04,1551,621,1818,635,308,422,1538,3990,38.87218045112782,Polish <translation-team-pl@lists.sourceforge.net>
+gok,1942,0,0,439,0,0,1784,1942,100.0,Polish <translators@gnomepl.org>
+gonvert,229,246,10004,106,56,1329,209,10479,2.185323027006394,Polish <pl@li.org>
+gossip,191,634,1141,73,191,161,179,1966,9.715157680569684,Polish <translation-team-pl@lists.sourceforge.net>
+gourmet,2912,218,396,658,43,90,2733,3526,82.58650028360749,Polish <pl@li.org>
+gpa,1641,46,29,362,7,7,1581,1716,95.62937062937063,Polish <pl@li.org>
+gparted,1470,0,0,310,0,0,1402,1470,100.0,Polish <gnomepl@aviary.pl>
+gperiodic,1840,5,0,527,2,0,1769,1845,99.7289972899729,Polish <pl@li.org>
+gphoto2,1392,0,0,284,0,0,1342,1392,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gpicview,219,0,0,44,0,0,195,219,100.0,Polish
+gqview,1522,2,197,606,1,62,1554,1721,88.43695525857059,Polish <translation-team-pl@lists.sourceforge.net>
+gramps,23605,0,0,4186,0,0,22027,23605,100.0,Łukasz Rymarczyk <yenidai@poczta.onet.pl>
+grass,13347,12287,19005,2546,2307,2582,13120,44639,29.899863348193286,Polska <translation@grass.itc.it>
+grep,622,0,0,51,0,0,629,622,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+grisbi,5886,15,25,1466,8,4,5416,5926,99.32500843739453,Polish
+griv,120,0,36,25,0,5,115,156,76.92307692307693,
+gscan2pdf,540,0,775,206,0,204,552,1315,41.06463878326996,Polish <none@none.org>
+gshutdown,387,101,4,86,11,4,344,492,78.65853658536585,3ED noteam <kas1987@o2.pl>
+gstreamer,1360,2,0,266,1,0,1339,1362,99.85315712187959,Polish <translation-team-pl@lists.sourceforge.net>
+gstreamer-plugins-base,607,0,0,128,0,0,628,607,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gstreamer-plugins-good,548,0,0,85,0,0,555,548,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gsynaptics,65,0,0,26,0,0,65,65,100.0,
+gtg,944,0,0,130,0,0,798,944,100.0,Polish <ponton@jabster.pl>
+gthumb,2610,0,0,882,0,0,2467,2610,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gtk+,202,0,0,105,0,0,201,202,100.0,Polish <gnomepl@pandora.info.bielsko.pl>
+gtk-recordmydesktop,816,0,0,104,0,0,730,816,100.0,<pl@li.org>
+gtk2,12293,346,121,2471,70,22,11084,12760,96.34012539184953,Aviary.pl <gnomepl@aviary.pl>
+gtk2-engines,99,0,0,45,0,0,111,99,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gtkhtml3,921,0,0,399,0,0,885,921,100.0,Polish <gnome-l10n@lists.aviary.pl>
+gtklp,591,0,0,211,0,0,567,591,100.0,Polish <pl@li.org>
+gtksourceview,891,0,0,366,0,0,903,891,100.0,Polish <translators@gnomepl.org>
+gtksourceview2,999,0,0,388,0,0,969,999,100.0,Polish <gnome-l10n@lists.aviary.pl>
+gtkspell,11,0,0,5,0,0,12,11,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gtranslator,1414,0,0,369,0,0,1387,1414,100.0,Polish <pl@li.org>
+gtweakui,146,0,106,39,0,40,150,252,57.936507936507944,Polish <unknown@email.pl>
+guake,421,11,0,68,2,0,391,432,97.45370370370371,Polish <pl@li.org>
+gucharmap,803,0,0,298,0,0,811,803,100.0,<en@li.org>
+guidance-power-manager,388,55,0,66,2,0,447,443,87.58465011286681,<pl@li.org>
+gutenprint,314,1670,6822,157,547,1646,306,8806,3.5657506245741537,Polish <pl@li.org>
+gvfs,1245,0,0,312,0,0,1335,1245,100.0,Aviary.pl <gnomepl@aviary.pl>
+gwget,453,0,0,151,0,0,456,453,100.0,Polish <translators@gnomepl.org>
+gwibber,401,0,81,96,0,12,418,482,83.19502074688798,Polish <pl@li.org>
+gxine,1563,255,918,486,43,145,1565,2736,57.127192982456144,Polish <pl@li.org>
+hamster-applet,206,0,0,88,0,0,221,206,100.0,Aviary.pl <gnomepl@aviary.pl>
+hello,174,0,0,27,0,0,162,174,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+help2man,284,0,0,29,0,0,283,284,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+homebank,1365,0,0,446,0,0,1267,1365,100.0,Polish <pl@li.org>
+horde,3178,1576,1705,993,407,402,2965,6459,49.202662950921194,Polish <pl@li.org>
+hugin,4329,25,0,822,4,0,4183,4354,99.42581534221405,Polish <pl@li.org>
+hwbrowser,116,0,0,51,0,0,109,116,100.0,Polish <pl@li.org>
+ibus,253,0,19,55,0,1,245,272,93.01470588235294,Polish <pl@li.org>
+icewm,870,506,0,244,3,0,855,1376,63.22674418604651,Bart's Garage <>
+ikiwiki,333,223,459,88,51,88,371,1015,32.80788177339902,Debian L10n Polish <debian-l10n-polish@lists.debian.org>
+im-chooser,152,0,0,34,0,0,135,152,100.0,Polish <pl@li.org>
+imp,6078,0,0,1233,0,0,5462,6078,100.0,Polish <i18n@lists.horde.org>
+imsettings,716,24,109,130,4,5,674,849,84.33451118963487,Polish <pl@li.org>
+incollector,596,0,0,188,0,0,545,596,100.0,Polish <pl@li.org>
+indent,87,93,104,21,16,23,93,284,30.633802816901408,Polish <pl@li.org>
+ingo,869,0,0,234,0,0,839,869,100.0,i18n@lists.horde.org
+initng-conf-gtk,120,0,0,41,0,0,121,120,100.0,Polish
+initscripts,3871,0,0,909,0,0,3964,3871,100.0,Polish <pl@li.org>
+inkscape,17169,0,4,3464,0,1,17536,17173,99.97670762243057,Polish <inkscapeplteam@gmail.com>
+iok,125,4,0,34,1,0,130,129,96.89922480620154,Polish <pl@li.org>
+ircp-tray,169,0,32,50,0,9,169,201,84.07960199004975,PolishMIME-Version: 1.0
+iso-codes,2106,4131,13192,1061,3638,8765,1823,19429,10.839466776468166,Polish
+isomaster,672,0,0,106,0,0,633,672,100.0,polish <LL@li.org>
+jmol,922,147,1092,422,84,261,931,2161,42.665432670060156,Polish <pl@li.org>
+jokosher,1329,91,731,245,17,141,1204,2151,61.785216178521615,Polish
+jwhois,401,11,28,65,2,4,419,440,91.13636363636364,Polish <translation-team-pl@lists.sourceforge.net>
+k3b,20585,7,29,2528,1,1,19985,20621,99.82542068764852,<pl@li.org>
+kBuild,502,0,3,80,0,1,533,505,99.4059405940594,Polish <translation-team-pl@lists.sourceforge.net>
+kaffeine,2354,0,0,658,0,0,2434,2354,100.0,Polish <pl@li.org>
+kanatest,406,0,0,212,0,0,389,406,100.0,Polish
+kanyremote,471,0,1,132,0,1,423,472,99.78813559322035,Polish
+kasablanca,686,0,37,100,0,4,589,723,94.88243430152143,Polish
+kbd,1654,0,0,216,0,0,1637,1654,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+kcoloredit,219,47,12,75,13,7,206,278,78.77697841726618,<pl@li.org>
+kdbg,142,58,666,57,25,108,147,866,16.397228637413395,
+kde-plasma-runcommand,12,0,2,6,0,1,12,14,85.71428571428571,LANGUAGE <LL@li.org>
+kde-plasma-yawp,3094,16,285,907,5,166,3015,3395,91.1340206185567,Polish <kde-i18n-doc@kde.org>
+kdetv,2170,11,25,471,4,8,2130,2206,98.36808703535812,Polish <pl@li.org>
+kdiff3,2206,284,920,404,79,140,2116,3410,64.69208211143696,polish <pl@li.org>
+kdissert,1986,13,28,278,1,3,1709,2027,97.97730636408485,Polish <pl@li.org>
+kerry,334,39,113,97,13,24,350,486,68.72427983539094,<pl@li.org>
+keurocalc,207,66,18,94,13,9,210,291,71.1340206185567,Polish <pl@li.org>
+kexec-tools,95,39,72,9,2,3,75,206,46.116504854368934,Polish <pl@li.org>
+kflickr,299,0,0,80,0,0,278,299,100.0,Polish <pl@li.org>
+kftpgrabber,561,643,1033,220,170,190,524,2237,25.07822977201609,Polish <pl@li.org>
+kgrab,356,14,0,50,3,0,310,370,96.21621621621622,<pl@li.org>
+kicad,6028,0,1,2182,0,1,6165,6029,99.98341350140986,Mateusz Skowroński <skowri@gmail.com>
+kiconedit,724,0,2,154,0,1,652,726,99.72451790633609,<pl@li.org>
+kid3,976,6,108,438,3,31,1017,1090,89.54128440366974,
+kile,888,3984,5567,228,703,656,763,10439,8.506561931219466,<pl@li.org>
+kio_gopher,16,1,0,4,1,0,15,17,94.11764705882352,Polish <pl@li.org>
+kipi-plugins,5934,5020,607,1720,414,179,5574,11561,51.327739814894905,<pl@li.org>
+klamav,559,140,1804,144,35,240,517,2503,22.333200159808232,Polish <pl@li.org>
+klavaro,1144,418,346,114,39,68,946,1908,59.958071278826,Polish <translation-team-pl@lists.sourceforge.net>
+kmid,535,0,0,214,0,0,525,535,100.0,<pl@li.org>
+kmplayer,1159,90,2,378,9,1,1162,1251,92.6458832933653,Polski <pl@li.org>
+kmymoney2,8091,3579,4501,1413,734,409,7007,16171,50.03401150207161,polish <pl@li.org>
+knemo,366,12,238,141,7,37,363,616,59.41558441558441,Polish <pl@li.org>
+knetstats,118,0,0,53,0,0,117,118,100.0,Polish <pl@li.org>
+knetworkmanager,29,155,224,20,81,84,45,408,7.107843137254902,<pl@li.org>
+konq-plugins,1414,136,142,458,36,52,1385,1692,83.56973995271868,<pl@li.org>
+kooldock,613,0,0,120,0,0,538,613,100.0,Polish <pl@li.org>
+kover,456,0,0,124,0,0,394,456,100.0,Polish <kde-transl@mer.chemia.polsl.gliwice.pl>
+koverartist,583,58,18,139,12,4,544,659,88.46737481031866,Polish
+kphotoalbum,5149,687,259,716,20,11,4585,6095,84.47908121410993,<pl@li.org>
+kpowersave,1699,0,0,316,0,0,1583,1699,100.0,<pl@li.org>
+kradio4,109,156,3097,31,40,717,85,3362,3.2421177870315288,LANGUAGE <LL@li.org>
+krecipes,686,568,1833,187,138,243,630,3087,22.22222222222222,Polish <pl@li.org>
+krename,1591,0,12,324,0,3,1460,1603,99.25140361821585,Polski <pl@li.org>
+kronolith,1545,155,135,443,20,11,1387,1835,84.19618528610354,i18n@lists.horde.org
+krusader,6416,337,570,1343,74,164,6287,7323,87.61436569711867,krusader-i18n <krusader-i18n@googlegroups.com>
+kshutdown,776,0,0,185,0,0,722,776,100.0,Polish <pl@li.org>
+ksig,71,2,12,17,1,8,55,85,83.52941176470588,Polish <pl@li.org>
+kst,4422,1759,1216,1026,500,273,4026,7397,59.780992294173316,Polish <pl@li.org>
+ksynaptics,128,143,384,44,44,46,119,655,19.541984732824428,<pl@li.org>
+ktorrent,6617,123,55,1179,26,8,5843,6795,97.3804267844003,<pl@li.org>
+kvirc,243,1773,7329,76,521,1173,182,9345,2.6003210272873196,Polish <pl@li.org>
+labyrinth,83,8,55,21,4,17,76,146,56.849315068493155,Tomasz Dominikowski <dominikowski@gmail.com>
+lazarus,7798,0,7401,2050,0,1586,7615,15199,51.30600697414304,
+ldm,70,18,96,21,6,25,79,184,38.04347826086957,Polish <pl@li.org>
+leafpad,121,2,2,66,1,1,137,125,96.8,Polish <pl@li.org>
+lftp,3495,23,149,420,3,4,3512,3667,95.30951731660758,Polish <translation-team-pl@lists.sourceforge.net>
+libbonobo,547,0,0,108,0,0,540,547,100.0,Polish <translators@gnomepl.org>
+libbonoboui,368,0,0,115,0,0,350,368,100.0,Polish <gnome-l10n@lists.aviary.pl>
+libexif,5391,15,0,868,3,0,4922,5406,99.72253052164261,Polish <translation-team-pl@lists.sourceforge.net>
+libgda,1713,158,416,345,40,91,1720,2287,74.90161783996501,Polish <pl@li.org>
+libgdl,600,0,13,96,0,2,523,613,97.87928221859707,Polish <pl@li.org>
+libgnome,1691,0,0,263,0,0,1572,1691,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+libgnomecanvas,378,0,0,95,0,0,366,378,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+libgnomecups,11,0,0,10,0,0,11,11,100.0,Tomasz Dominikowski <dominikowski@gmail.com>
+libgnomedb,287,457,2360,69,111,449,261,3104,9.246134020618557,Polish <pl@li.org>
+libgnomekbd,277,0,0,50,0,0,258,277,100.0,Polish <gnome-l10n@lists.aviary.pl>
+libgnomeprint22,168,0,0,98,0,0,164,168,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+libgnomeprintui22,481,0,0,154,0,0,405,481,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+libgnomeui,1309,0,0,334,0,0,1172,1309,100.0,Polish <gnome-l10n@lists.aviary.pl>
+libgpg-error,734,4,2,254,1,2,778,740,99.1891891891892,Polish <translation-team-pl@lists.sourceforge.net>
+libgphoto2,8665,539,7,1709,29,2,8662,9211,94.07230485289328,Polish <translation-team-pl@lists.sourceforge.net>
+libgsasl,502,0,16,56,0,4,498,518,96.91119691119691,Polish <translation-team-pl@lists.sourceforge.net>
+libgtop2,126,0,0,40,0,0,143,126,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+libgweather,7284,0,0,4745,0,0,7289,7284,100.0,Aviary.pl <gnomepl@aviary.pl>
+libgxim,44,5,81,6,2,18,38,130,33.84615384615385,Polish <pl@li.org>
+libidn,215,0,0,49,0,0,227,215,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+libkexif,25,0,0,14,0,0,24,25,100.0,Polish <pl@li.org>
+liblicense,44,0,22,37,0,13,41,66,66.66666666666666,LANGUAGE <LL@li.org>
+libuser,1064,0,0,225,0,0,1155,1064,100.0,Polish <pl@li.org>
+libvirt,8222,3,0,1649,1,0,8909,8225,99.96352583586626,Polish <pl@li.org>
+libwnck,432,0,692,127,0,114,414,1124,38.43416370106761,Polish <translation-team-pl@lists.sourceforge.net>
+libxfce4util,413,0,0,4,0,0,374,413,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+libxfcegui4,81,0,0,25,0,0,76,81,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+liferea,0,0,0,0,0,0,0,0,0.0,
+lincity-ng,1612,5,306,388,3,66,1382,1923,83.82735309412377,<pl@li.org>
+linphone,309,137,352,77,39,94,253,798,38.721804511278194,Polski <pl@li.org>
+linux_logo,54,0,0,23,0,0,54,54,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+listen,936,118,688,385,33,118,948,1742,53.73134328358209,French <traduc@traduc.org>
+liveusb-creator,591,0,0,71,0,0,544,591,100.0,Polish <pl@li.org>
+lxappearance,96,0,0,39,0,0,95,96,100.0,Polish
+lxlauncher,51,0,0,11,0,0,46,51,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,92,97,100.0,Aviary.pl <gnomepl@aviary.pl>
+lxpanel,901,4,0,293,2,0,888,905,99.55801104972376,Polish
+lxrandr,102,0,0,22,0,0,94,102,100.0,
+lxsession,37,0,0,15,0,0,34,37,100.0,Polish
+lxsession-edit,58,0,0,10,0,0,49,58,100.0,Polish
+lxsession-lite,7,4,29,5,2,9,7,40,17.5,Polish
+lxshortcut,43,0,0,19,0,0,44,43,100.0,LANGUAGE <LL@li.org>
+lxtask,112,0,0,43,0,0,121,112,100.0,Polish
+lxterminal,100,0,0,67,0,0,105,100,100.0,Polish
+lyx,10990,1501,1174,3725,620,293,10720,13665,80.42444200512257,Polski <pl@li.org>
+mail-notification,1945,0,240,364,0,17,1886,2185,89.01601830663616,Polish
+mailman,12473,883,8549,1178,23,154,10088,21905,56.94133759415658,Polish <sawickib@iem.pw.edu.pl>
+make,1869,87,41,378,12,4,1852,1997,93.59038557836755,Polish <translation-team-pl@lists.sourceforge.net>
+manaworld,2453,4,27,700,1,5,2321,2484,98.75201288244766,<pl@li.org>
+mc,3415,38,26,974,7,4,3465,3479,98.16039091693015,Polish
+mcrypt,162,292,511,21,29,93,147,965,16.787564766839377,Polish <pl@li.org>
+me-tv,553,0,355,149,0,44,564,908,60.90308370044053,Polish <pl@li.org>
+metacity,7924,0,0,517,0,0,7899,7924,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+metamonitor,305,0,0,119,0,0,308,305,100.0,polish <pl@li.org>
+midori,709,0,478,240,0,93,653,1187,59.730412805391744,pl <LL@li.org>
+mingw32-atk,370,1,4,123,1,2,340,375,98.66666666666667,Polish <translators@gnomepl.org>
+mingw32-gettext,6850,0,0,686,0,0,6438,6850,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+mingw32-glib2,1907,3,415,299,1,68,2001,2325,82.02150537634408,Aviary.pl <gnomepl@aviary.pl>
+mingw32-gnutls,943,0,0,221,0,0,881,943,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+mingw32-gtk2,11619,549,232,2149,114,50,10640,12400,93.70161290322581,Aviary.pl <gnomepl@aviary.pl>
+mingw32-iconv,15,32,289,4,9,33,15,336,4.464285714285714,Polish <translation-team-pl@lists.sourceforge.net>
+mingw32-libgpg-error,734,4,2,254,1,2,778,740,99.1891891891892,Polish <translation-team-pl@lists.sourceforge.net>
+mingw32-libidn,386,27,0,55,2,0,399,413,93.46246973365618,Polish <translation-team-pl@lists.sourceforge.net>
+minicom,1764,0,0,384,0,0,1753,1764,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+mirage,742,0,0,239,0,0,723,742,100.0,Polish <dominikowski@gmail.com>
+mlocate,563,0,0,50,0,0,583,563,100.0,Polish <pl@li.org>
+moin,3673,60,9,631,3,3,3400,3742,98.1560662747194,
+monodevelop,3165,2358,4603,980,685,634,2991,10126,31.256172229903218,Polish <gnomepl@pandora.info.bielsko.pl>
+mousepad,135,0,0,64,0,0,138,135,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+mousetweaks,426,0,0,94,0,0,403,426,100.0,Aviary.pl <gnomepl@aviary.pl>
+mtpaint,2079,0,815,702,0,134,1900,2894,71.83828610919143,Polish <pl@li.org>
+muine,489,0,0,126,0,0,509,489,100.0,Aviary.pl <gnomepl@aviary.pl>
+mutt,5088,108,5,1083,4,1,5046,5201,97.82734089598154,POLISH <pl@li.org>
+mysql-gui-tools,19503,0,838,3093,0,166,16371,20341,95.88024187601395,
+namazu,1,0,1051,1,0,156,1,1052,0.09505703422053231,developers@namazu.org
+nano,684,1124,441,169,131,62,658,2249,30.41351711871943,Polish <translation-team-pl@lists.sourceforge.net>
+nautilus,8218,0,0,1289,0,0,7389,8218,100.0,Polish <gnomepl@aviary.pl>
+nautilus-actions,1558,0,0,170,0,0,1403,1558,100.0,Polish
+nautilus-cd-burner,1315,0,0,213,0,0,1200,1315,100.0,Aviary.pl <gnomepl@aviary.pl>
+nautilus-image-converter,42,0,0,19,0,0,46,42,100.0,Polish
+nautilus-open-terminal,24,0,0,5,0,0,18,24,100.0,Polish
+nautilus-sendto,290,0,0,60,0,0,260,290,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+nautilus-share,214,0,0,34,0,0,191,214,100.0,Tomasz Dominikowski <dominikowski@gmail.com>
+neon,492,8,4,95,1,1,507,504,97.61904761904762,Polish Neon Translator Arfrever Frehtes Taifersar Arahesis <Arfrever.FTA@gmail.com>
+newt,4,0,0,4,0,0,4,4,100.0,Polish <pl@li.org>
+notecase,1034,73,49,339,12,5,999,1156,89.44636678200692,Piotr Kwiliński <euvcp@hotmail.com>
+notification-daemon,31,0,0,6,0,0,30,31,100.0,Polish <pl@li.org>
+nssbackup,446,14,1541,70,5,253,460,2001,22.28885557221389,Polish <pl@li.org>
+ntfs-config,357,0,0,59,0,0,331,357,100.0,Polish <pl@li.org>
+ocaml-libvirt,1113,0,0,251,0,0,1050,1113,100.0,Polish <pl@li.org>
+oggconvert,122,26,4,39,4,1,123,152,80.26315789473685,Polish <pl@li.org>
+openbox,332,0,171,70,0,26,326,503,66.00397614314116,Polish <pl@li.org>
+orage,864,0,0,539,0,0,844,864,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+orca,3559,0,123,1174,0,89,3773,3682,96.65942422596416,Polish <gnome-l10n@aviary.pl>
+osmo,1405,0,0,584,0,0,1362,1405,100.0,Polish
+pam,517,0,0,110,0,0,502,517,100.0,Polish <pl@li.org>
+pam_krb5,7,0,0,4,0,0,7,7,100.0,Polish <pl@li.org>
+pan,298,1318,672,100,376,124,322,2288,13.024475524475523,Polish <translation-team-pl@lists.sourceforge.net>
+paprefs,99,0,0,19,0,0,88,99,100.0,Polish <pl@li.org>
+parted,4605,177,54,532,29,8,4396,4836,95.22332506203473,Polish <translation-team-pl@lists.sourceforge.net>
+partimage,1072,118,1692,159,12,195,1029,2882,37.196391394864676,Polonais <pl@li.org>
+passwd,291,0,0,51,0,0,286,291,100.0,Polish <pl@li.org>
+pavucontrol,184,0,0,65,0,0,250,184,100.0,Polish <pl@li.org>
+pcmanfm,1520,0,0,388,0,0,1380,1520,100.0,Polish
+pessulus,88,0,0,30,0,0,99,88,100.0,Polish <translators@gnomepl.org>
+pgadmin3,8179,548,251,2411,81,33,7672,8978,91.10046781020273,pl <>
+phatch,1489,0,4,506,0,2,1435,1493,99.73208305425318,Polish <pl@li.org>
+phpldapadmin,2690,0,0,558,0,0,2486,2690,100.0,phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net>
+picard,371,84,138,174,6,31,431,593,62.563237774030355,Polish <pl@li.org>
+pida,184,0,9,52,0,8,175,193,95.33678756476684,Polish
+pidgin,18085,0,0,3881,0,0,17392,18085,100.0,Polish <pl@li.org>
+pidgin-libnotify,36,0,0,12,0,0,36,36,100.0,Polish <pl@li.org>
+pidgin-musictracker,19,0,307,9,0,49,21,326,5.828220858895705,Polish <pl@li.org>
+pinfo,307,18,0,51,4,0,319,325,94.46153846153847,
+planner,795,436,222,287,117,47,763,1453,54.7143840330351,Polish <pl@li.org>
+pmount,723,0,0,63,0,0,689,723,100.0,Polish <pl@li.org>
+po4a,1613,0,0,163,0,0,1501,1613,100.0,Polish <debian-l10n-polish@lists.debian.org>
+poedit,1162,0,0,269,0,0,1108,1162,100.0,Polish <private>
+policycoreutils,4363,0,0,713,0,0,4350,4363,100.0,Polish <pl@li.org>
+polyester,126,2,4269,62,1,4,150,4397,2.8655901751193995,Polish <pl@li.org>
+polyester3,4471,0,2,98,0,2,4487,4473,99.95528727923094,Polish <pl@li.org>
+pondus,254,3,11,71,2,5,236,268,94.77611940298507,Polish
+popt,75,0,0,27,0,0,73,75,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+postgresql,7744,0,15487,1201,0,1918,7573,23231,33.33476819766691,SunSoft <info@sunsoft.pl>
+postgresql-jdbc,674,0,558,79,0,59,599,1232,54.7077922077922,<pl@li.org>
+powertop,790,0,0,62,0,0,710,790,100.0,Polish <pl@li.org>
+prewikka,411,0,262,235,0,29,437,673,61.06983655274889,
+psad,338,89,5,25,4,1,322,432,78.24074074074075,Polish <translation-team-pl@lists.sourceforge.net>
+psmisc,577,107,15,55,2,2,585,699,82.54649499284692,Polish <translation-team-pl@lists.sourceforge.net>
+publican,1036,0,0,26,0,0,950,1036,100.0,Polish <pl@li.org>
+publican-fedora,106,0,0,6,0,0,86,106,100.0,Polish <fedora-trans-pl@redhat.com>
+pv,96,117,72,31,27,11,121,285,33.68421052631579,LANGUAGE <LL@li.org>
+pychess,1612,0,59,333,0,12,1393,1671,96.4691801316577,Polish <pl@li.org>
+pykickstart,284,0,0,25,0,0,243,284,100.0,Polish <pl@li.org>
+pypar2,233,3,0,62,1,0,206,236,98.72881355932203,
+pyroom,75,0,336,17,0,57,75,411,18.248175182481752,Polish <pl@li.org>
+python-fedora,635,0,0,76,0,0,598,635,100.0,Polish <pl@li.org>
+python-formencode,540,0,0,77,0,0,441,540,100.0,Robert Wojciechowicz <rw@smsnet.pl>
+python-kiwi,200,2,22,55,2,15,191,224,89.28571428571429,Polish
+python-sphinx,388,9,17,119,3,5,361,414,93.71980676328504,
+python-virtinst,2462,340,128,332,51,21,2342,2930,84.02730375426621,Polish <pl@li.org>
+pytrainer,307,0,30,112,0,5,304,337,91.0979228486647,LANGUAGE <LL@li.org>
+qt-recordmydesktop,816,0,0,104,0,0,730,816,100.0,<pl@li.org>
+quarry,1802,5,0,446,1,0,1824,1807,99.72329828444937,Polish <pl@li.org>
+quodlibet,1807,9,8,503,4,4,1788,1824,99.06798245614034,Polish <gnomepl@pandora.info.bielsko.pl>
+quota,3958,0,0,463,0,0,4174,3958,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+rapid-photo-downloader,1341,0,4,260,0,1,1312,1345,99.70260223048328,Polish <pl@li.org>
+rawstudio,590,3,11,253,1,3,618,604,97.68211920529801,Rawstudio development <rawstudio-dev@rawstudio.org>
+readahead,116,0,0,18,0,0,120,116,100.0,Polish <pl@li.org>
+recode,672,115,42,62,7,10,664,829,81.0615199034982,Polish <pl@li.org>
+redhat-menus,261,0,0,86,0,0,259,261,100.0,Polish <pl@li.org>
+referencer,688,0,191,220,0,30,662,879,78.2707622298066,Polish <pl@li.org>
+regexxer,466,0,1,99,0,1,450,467,99.78586723768737,Polish <pl@li.org>
+resapplet,72,34,0,21,1,0,62,106,67.9245283018868,<pl@li.org>
+revisor,4457,0,0,744,0,0,4240,4457,100.0,Polish <pl@li.org>
+rhpl,185,0,0,80,0,0,181,185,100.0,Polish <pl@li.org>
+rhpxl,130,0,0,44,0,0,142,130,100.0,Polish <pl@li.org>
+rhythmbox,4214,0,0,960,0,0,4178,4214,100.0,Aviary.pl <gnomepl@aviary.pl>
+ristretto,187,0,0,57,0,0,164,187,100.0,Polish
+rkward,222,442,3267,60,152,399,188,3931,5.647417959806665,LANG <LL@li.org>
+rosegarden4,7052,2297,1721,1887,281,172,6951,11070,63.70370370370371,Polish <pl@li.org>
+rpm,3837,13,0,746,2,0,4063,3850,99.66233766233766,Polish <pl@li.org>
+rsibreak,880,298,45,127,18,15,762,1223,71.95421095666394,Polish <pl@li.org>
+rt3,5414,0,3371,1609,0,542,5693,8785,61.62777461582243,rt-devel <rt-devel@lists.bestpractical.com>
+sabayon,1178,0,0,230,0,0,1199,1178,100.0,Polish <translators@gnomepl.org>
+sane-backends,3617,243,422,700,79,90,3390,4282,84.46987389070529,Polish <translation-team-pl@lists.sourceforge.net>
+sbackup,683,5,25,103,1,8,684,713,95.79242636746143,Polish <pl@li.org>
+seahorse,2964,0,0,632,0,0,2699,2964,100.0,Polish <gnomepl@aviary.pl>
+seahorse-plugins,3560,0,0,758,0,0,3395,3560,100.0,Polish <gnome-l10n@lists.aviary.pl>
+sectool,2411,0,0,356,0,0,2255,2411,100.0,Polish <pl@li.org>
+sed,502,0,3,80,0,1,533,505,99.4059405940594,Polish <translation-team-pl@lists.sourceforge.net>
+sepostgresql,7744,0,15487,1201,0,1918,7573,23231,33.33476819766691,SunSoft <info@sunsoft.pl>
+setroubleshoot,582,0,0,162,0,0,588,582,100.0,Polish <pl@li.org>
+setroubleshoot-plugins,8276,0,0,247,0,0,7061,8276,100.0,Polish <pl@li.org>
+setuptool,60,0,0,17,0,0,61,60,100.0,Polish <pl@li.org>
+shadow-utils,4660,1364,10512,722,144,521,4665,16536,28.180938558297047,Polish <translation-team-pl@lists.sourceforge.net>
+shared-mime-info,1140,0,0,478,0,0,1285,1140,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+sharutils,1039,0,0,151,0,0,1079,1039,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+showimg,2721,995,589,647,159,73,2635,4305,63.20557491289198,Polish <pl@li.org>
+skanlite,20,52,37,12,11,15,19,109,18.34862385321101,<pl@li.org>
+skrooge,1813,1433,807,501,430,164,1584,4053,44.73229706390328,Polish <kde-i18n-doc@kde.org>
+slrn,4509,563,279,824,48,78,4268,5351,84.264623434872,Polish <pl@li.org>
+smb4k,4466,667,1447,630,43,52,3756,6580,67.87234042553192,Polish <pl@li.org>
+smolt,1174,0,0,212,0,0,1109,1174,100.0,Polish <pl@li.org>
+snownews,791,0,0,163,0,0,728,791,100.0,Polish <pox@wp.pl>
+solfege,3753,2,330,893,1,153,3461,4085,91.87270501835985,Polish <translation-team-pl@lists.sourceforge.net>
+sonata,1136,0,0,357,0,0,1205,1136,100.0,Tomasz Dominikowski <dominikowski@gmail.com>
+sound-juicer,6139,0,0,388,0,0,5902,6139,100.0,Aviary.pl <gnomepl@aviary.pl>
+soundconverter,448,0,0,114,0,0,435,448,100.0,Piotr Zaryk (Aviary.pl) <pzaryk@aviary.pl>
+soundtracker,1345,23,280,397,10,62,1297,1648,81.61407766990291,Polish <translation-team-pl@lists.sourceforge.net>
+specspo,23783,37066,244445,2889,4636,9325,21728,305294,7.790195680229549,Polish <pl@li.org>
+springlobby,159,175,5145,114,95,1105,155,5479,2.901989414126666,Polish <pl@li.org>
+squirrelmail,5306,0,613,1124,0,18,4915,5919,89.64352086501098,Polish <squirrelmail-i18n@lists.sourceforge.net>
+stellarium,2409,0,0,920,0,0,2337,2409,100.0,
+stratagus,211,8,26,59,2,8,205,245,86.12244897959184,Polish <LL@li.org>
+subdownloader,47,0,0,41,0,0,49,47,100.0,LANGUAGE <LL@li.org>
+subtitlecomposer,2157,14,8,564,6,4,2258,2179,98.99036255162919,American English <kde-i18n-doc@kde.org>
+subtitleeditor,2152,0,313,608,0,69,2059,2465,87.30223123732252,Polish <none@none.org>
+subversion,17992,0,0,1994,0,0,18431,17992,100.0,Polish <dev@subversion.tigris.org>
+sugar,154,93,5,78,23,2,156,252,61.111111111111114,Polish <pl@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,45,0,7,24,0,3,42,52,86.53846153846155,LANGUAGE <LL@li.org>
+sugar-calculator,6,0,557,2,0,114,7,563,1.0657193605683837,LANGUAGE <LL@li.org>
+sugar-chat,18,0,3,9,0,1,18,21,85.71428571428571,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-journal,66,1,1,41,1,1,66,68,97.05882352941177,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,40,0,0,12,0,40,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-record,66,12,59,36,4,33,69,137,48.175182481751825,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+sugar-write,66,7,0,41,3,0,64,73,90.41095890410958,LANGUAGE <LL@li.org>
+sweep,2296,13,90,479,5,54,2173,2399,95.7065443934973,Poland <LL@li.org>
+swfdec-gnome,101,0,0,28,0,0,105,101,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+switchdesk,137,0,0,19,0,0,113,137,100.0,Polish <pl@li.org>
+sylpheed,5293,745,233,1401,169,14,5152,6271,84.40440121192793,POLISH <pl@li.org>
+synaptic,2739,372,120,610,31,21,2846,3231,84.77251624883937,Polish <translation-team-pl@lists.sourceforge.net>
+sysstat,234,0,0,25,0,0,236,234,100.0,Polish
+system-config-bind,4066,0,5353,721,0,343,3727,9419,43.1680645503769,Polish <pl@li.org>
+system-config-boot,46,0,0,10,0,0,39,46,100.0,Polish <pl@li.org>
+system-config-date,1038,0,0,617,0,0,999,1038,100.0,Polish <pl@li.org>
+system-config-date-docs,660,0,0,52,0,0,526,660,100.0,Polish <pl@li.org>
+system-config-display,398,0,0,63,0,0,374,398,100.0,Polish <pl@li.org>
+system-config-firewall,2497,0,0,303,0,0,2238,2497,100.0,Polish <pl@li.org>
+system-config-httpd,858,0,0,223,0,0,839,858,100.0,Polish <pl@li.org>
+system-config-kdump,383,0,0,35,0,0,335,383,100.0,Polish <pl@li.org>
+system-config-keyboard,78,0,0,12,0,0,73,78,100.0,Polish <pl@li.org>
+system-config-kickstart,1054,0,0,281,0,0,972,1054,100.0,Polish <pl@li.org>
+system-config-language,49,0,0,11,0,0,44,49,100.0,Polish <pl@li.org>
+system-config-lvm,2236,0,0,344,0,0,2069,2236,100.0,Polish <pl@li.org>
+system-config-netboot,1103,0,0,165,0,0,983,1103,100.0,Polish <pl@li.org>
+system-config-network,2920,0,0,700,0,0,2640,2920,100.0,Polish <pl@li.org>
+system-config-nfs,1517,0,0,138,0,0,1320,1517,100.0,Polish <pl@li.org>
+system-config-printer,3005,0,0,663,0,0,2842,3005,100.0,Polish <pl@li.org>
+system-config-rootpassword,116,0,0,19,0,0,97,116,100.0,Polish <pl@li.org>
+system-config-samba,422,0,0,137,0,0,386,422,100.0,Polish <pl@li.org>
+system-config-services,377,0,7,52,0,1,360,384,98.17708333333334,Polish <pl@li.org>
+system-config-users,1337,0,0,172,0,0,1187,1337,100.0,Polish <pl@li.org>
+system-config-users-docs,1054,0,0,77,0,0,831,1054,100.0,Polish <pl@li.org>
+system-switch-java,81,0,0,11,0,0,76,81,100.0,Polish <pl@li.org>
+system-switch-mail,134,0,0,20,0,0,125,134,100.0,Polish <pl@li.org>
+tagtool,958,0,0,211,0,0,979,958,100.0,Polski <pl@li.org>
+tar,3153,0,17,519,0,2,3275,3170,99.46372239747635,Polish <translation-team-pl@lists.sourceforge.net>
+tasks,246,0,0,65,0,0,234,246,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+tasque,185,0,0,82,0,0,186,185,100.0,Aviary.pl <gnomepl@aviary.pl>
+tastymenu,612,0,0,134,0,0,562,612,100.0,Polish <pl@li.org>
+teg,2378,0,0,583,0,0,2213,2378,100.0,Polish <pl@li.org>
+tellico,4059,800,717,826,186,99,3462,5576,72.79411764705883,<pl@li.org>
+terminator,139,0,91,54,0,15,139,230,60.43478260869565,Polish <pl@li.org>
+texinfo,4625,0,0,575,0,0,4386,4625,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+texlive,4382,0,0,564,0,0,4189,4382,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+thunar-archive-plugin,86,0,0,13,0,0,73,86,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+thunar-media-tags-plugin,144,0,0,49,0,0,115,144,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+thunar-vcs-plugin,114,99,285,86,63,130,125,498,22.89156626506024,Polish
+thunar-volman,370,0,0,85,0,0,328,370,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+tilda,321,32,43,87,11,9,315,396,81.06060606060606,Polish <pl@li.org>
+tinyerp,1125,10,3,328,3,2,1022,1138,98.85764499121265,PL <laborm@rz.onet.pl>
+tomboy,6268,0,48,658,0,12,5421,6316,99.24002533248891,Aviary.pl <gnome-l10n@aviary.pl>
+totem,5021,0,0,700,0,0,4442,5021,100.0,Aviary.pl <gnomepl@aviary.pl>
+totem-pl-parser,35,0,0,8,0,0,33,35,100.0,Aviary.pl <gnomepl@aviary.pl>
+tracker,1299,29,17,272,6,3,1240,1345,96.57992565055761,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+transifex,15,182,1514,12,72,273,18,1711,0.8766803039158386,Polish <pl@li.org>
+transmission,862,0,249,306,0,51,997,1111,77.58775877587759,Piotr Zaryk (Aviary.pl) <pzaryk@aviary.pl>
+tucan,114,0,0,41,0,0,120,114,100.0,exc1te <dawidpachla(at)gmail(dot)com>
+turba,1461,0,0,341,0,0,1348,1461,100.0,Polish <i18n@lists.horde.org>
+tuxmath,287,28,657,77,8,94,290,972,29.526748971193417,Polish <pl@li.org>
+tuxpaint,552,123,86,153,15,18,467,761,72.53613666228647,Polish <translation-team-pl@lists.sourceforge.net>
+tuxpaint-stamps,390,594,1633,111,234,281,301,2617,14.902560183416124,
+tvtime,1048,49,127,218,5,24,1019,1224,85.62091503267973,Kamil 'Ci' Grzebien <limak_84@o2.pl>
+ufraw,1922,6,4,388,1,2,1814,1932,99.4824016563147,Polish <tomaszg@alpha.uwb.edu.pl>
+uget,46,0,411,35,0,157,43,457,10.065645514223196,Polski
+urlgfe,421,1,1,164,1,1,427,423,99.52718676122932,Polski
+usermode,564,0,0,95,0,0,494,564,100.0,Polish <pl@li.org>
+util-linux-ng,478,165,11494,100,35,1794,493,12137,3.9383702727197822,Polish <translation-team-pl@lists.sourceforge.net>
+vdr,793,0,14,322,0,6,771,807,98.26517967781908,Polish
+vdr-remote,48,0,0,11,0,0,52,48,100.0,<vdr@linuxtv.org>
+vdr-skinsoppalusikka,37,0,100,21,0,12,42,137,27.00729927007299,<vdr@linuxtv.org>
+vidalia,2602,323,0,611,45,0,2356,2925,88.95726495726495,none
+viewnior,140,43,165,40,15,52,122,348,40.229885057471265,Siyan Panayotov <xsisqox@gmail.com>
+viking,849,0,894,293,0,186,827,1743,48.709122203098104,Polish <pl@li.org>
+vim,8313,0,0,1714,0,0,8448,8313,100.0,Polish <mikmach@wp.pl>
+vinagre,730,0,0,126,0,0,690,730,100.0,Aviary.pl <gnomepl@aviary.pl>
+vino,1031,0,0,113,0,0,887,1031,100.0,Aviary.pl <gnomepl@aviary.pl>
+virt-df,102,0,3,23,0,1,99,105,97.14285714285714,Polish <pl@li.org>
+virt-manager,3272,0,0,687,0,0,3041,3272,100.0,Polish <pl@li.org>
+virt-mem,20,0,328,2,0,32,15,348,5.747126436781609,Polish <pl@li.org>
+virt-top,1113,0,0,251,0,0,1050,1113,100.0,Polish <pl@li.org>
+vte,116,0,0,20,0,0,127,116,100.0,Polish <pl@li.org>
+wallpapoz,400,0,0,102,0,0,380,400,100.0,Polish <pl@li.org>
+wammu,2984,632,643,621,94,74,2908,4259,70.06339516318386,Polish <pl@li.org>
+warzone2100,668,97,8469,255,26,1976,671,9234,7.234134719514837,Polish <pl@li.org>
+weechat,9989,0,0,1206,0,0,9704,9989,100.0,Polish
+wesnoth,212627,0,0,13107,0,0,178436,212627,100.0,<z.banach@wsisiz.edu.pl>
+wget,2260,0,0,394,0,0,2356,2260,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+widelands,9495,2006,5793,1265,97,213,8092,17294,54.90343471724297,Language <widelands-public@lists.sourceforge.net>
+wlassistant,1082,0,9,143,0,10,989,1091,99.17506874427131,Polish <en@li.org>
+workrave,1093,44,23,202,15,12,905,1160,94.22413793103448,Polish <kde-transl@mer.chemia.polsl.gliwice.pl>
+wormux,1811,0,0,317,0,0,1995,1811,100.0,<pl@li.org>
+wxGTK,5330,496,675,1118,143,244,5320,6501,81.98738655591448,wxWidgets translators <wx-translators@wxwidgets.org>
+wxMaxima,1248,671,572,396,198,43,1237,2491,50.10036130068246,polski <pl@li.org>
+wxPython,5330,496,675,1118,143,244,5320,6501,81.98738655591448,wxWidgets translators <wx-translators@wxwidgets.org>
+wxdfast,1141,0,0,325,0,0,1075,1141,100.0,Marcin Trybus <mtrybus@o2.pl>
+xarchiver,1131,0,0,277,0,0,1074,1131,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xcdroast,8044,0,0,848,0,0,7109,8044,100.0,polski <pl@li.org>
+xchat-gnome,1215,266,2420,520,49,411,1165,3901,31.145860035888234,English <en@li.org>
+xchm,221,15,9,84,6,2,223,245,90.20408163265307,Polish <translation-team-pl@lists.sourceforge.net>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Polish <pl@li.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,64,81,100.0,Tomasz Dominikowski (Aviary.pl) <dominikowski@gmail.com>
+xdialog,21,0,0,15,0,0,20,21,100.0,Polish
+xdrawchem,2404,0,0,533,0,0,2446,2404,100.0,Polish <pl@li.org>
+xdx,291,0,1,90,0,1,288,292,99.65753424657534,Polish <gnomepl@pandora.info.bielsko.pl>
+xfburn,616,147,533,191,32,58,598,1296,47.53086419753087,Polish
+xfce-mcs-manager,30,0,0,7,0,0,26,30,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce-mcs-plugins,540,0,0,146,0,0,451,540,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce-utils,119,0,0,34,0,0,108,119,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-appfinder,48,0,0,28,0,0,41,48,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-battery-plugin,123,0,0,31,0,0,109,123,100.0,Polish <xfce-i18n@xfce.org>
+xfce4-clipman-plugin,85,0,0,26,0,0,64,85,100.0,Polish <xfce-i18n@xfce.org>
+xfce4-cpugraph-plugin,44,0,0,25,0,0,41,44,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-dict,379,0,7,82,0,2,342,386,98.18652849740933,Polish
+xfce4-diskperf-plugin,185,0,0,38,0,0,161,185,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-eyes-plugin,9,0,0,3,0,0,7,9,100.0,none <none@none>
+xfce4-fsguard-plugin,51,3,10,12,1,6,55,64,79.6875,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-genmon-plugin,71,0,0,15,0,0,60,71,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-icon-theme,8,0,0,2,0,0,5,8,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-mixer,226,0,0,94,0,0,217,226,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-modemlights-plugin,22,2,112,12,1,2,23,136,16.176470588235293,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-mount-plugin,269,25,4,39,4,1,207,298,90.26845637583892,Polish <xfce-i18n@xfce.org>
+xfce4-mpc-plugin,22,0,0,9,0,0,18,22,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-netload-plugin,41,16,4,16,1,2,42,61,67.21311475409836,pl <LL@li.org>
+xfce4-notes-plugin,19,24,42,4,10,16,12,85,22.35294117647059,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-panel,578,0,0,160,0,0,497,578,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-places-plugin,7,3,33,5,1,13,7,43,16.27906976744186,
+xfce4-quicklauncher-plugin,28,0,15,9,0,8,28,43,65.11627906976744,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-radio-plugin,52,0,0,22,0,0,50,52,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-screenshooter,0,61,161,0,12,25,0,222,0.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-screenshooter-plugin,7,18,69,3,5,15,9,94,7.446808510638298,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-sensors-plugin,39,53,7,21,18,3,40,99,39.39393939393939,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-session,738,0,0,129,0,0,572,738,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-systemload-plugin,54,0,0,18,0,0,50,54,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-taskmanager,38,14,15,20,5,6,43,67,56.71641791044776,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-timer-plugin,94,0,0,32,0,0,82,94,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-verve-plugin,47,0,0,10,0,0,41,47,100.0,Polish <xfce-i18n@xfce.org>
+xfce4-volstatus-icon,46,34,117,19,14,23,43,197,23.3502538071066,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-wavelan-plugin,37,0,0,8,0,0,33,37,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-weather-plugin,200,38,317,100,11,146,194,555,36.03603603603604,Polish
+xfce4-websearch-plugin,13,0,0,5,0,0,11,13,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-xfapplet-plugin,84,0,0,14,0,0,65,84,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-xkb-plugin,6,20,35,3,7,7,6,61,9.836065573770492,Polish <translation-team-pl@lists.sourceforge.net>
+xfce4-xmms-plugin,52,0,0,15,0,0,52,52,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfdesktop,1078,0,0,288,0,0,962,1078,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfprint,323,0,0,113,0,0,281,323,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfsprogs,14377,0,0,1559,0,0,14458,14377,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfwm4,646,0,0,190,0,0,659,646,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xine-lib,469,922,10306,81,155,695,478,11697,4.009575104727707,Polish <pl@li.org>
+xine-ui,2832,50,133,621,9,13,2738,3015,93.93034825870646,<pl@li.org>
+xlog,1358,56,27,323,2,5,1284,1441,94.24011103400416,Polish <PL@li.org>
+xmms,3177,65,201,1003,17,25,3214,3443,92.27417949462678,<pl@li.org>
+xmoto,2696,66,655,553,15,150,2148,3417,78.89961954931226,Polish
+xqf,1482,22,0,434,6,0,1420,1504,98.5372340425532,Polish <xqf-developer@lists.sourceforge.net>
+xsane,2323,788,113,574,121,33,2351,3224,72.05334987593052,polski <pl@li.org>
+xscreensaver,1089,748,9353,469,379,986,1121,11190,9.731903485254692,Polish <pl@li.org>
+yakuake,876,75,337,148,12,39,724,1288,68.01242236024845,<pl@li.org>
+yelp,1035,0,0,349,0,0,970,1035,100.0,Aviary.pl & GNOME-PL <gnome-l10n@aviary.pl>
+yum,2295,0,0,476,0,0,2297,2295,100.0,Polish <pl@li.org>
+yumex,575,0,0,218,0,0,593,575,100.0,Polish <pl@li.org>
+zenity,582,0,0,135,0,0,595,582,100.0,Aviary.pl <gnomepl@aviary.pl>
+zvbi,515,53,96,94,10,17,505,664,77.56024096385542,Polish <pl@li.org>

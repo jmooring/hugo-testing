@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,330,17,17,65,2,2,340,364,90.65934065934066,
+exaile,2355,0,0,618,0,0,2294,2355,100.0,Serbian <gnome@prevod.org>
+isomaster,654,1,17,99,1,6,589,672,97.32142857142857,
+libvirt,2331,0,6,516,0,1,2245,2337,99.74326059050064,Serbian (sr) <fedora-trans-sr@redhat.com>
+pidgin,15667,0,64,3330,0,11,15413,15731,99.59316000254275,Serbian <gnome@prevod.org>
+pirut,803,0,0,176,0,0,815,803,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+smolt,744,14,45,83,1,6,724,803,92.65255292652553,Serbian (sr) <fedora-trans-sr@redhat.com>
+wesnoth,119063,4,0,6884,1,0,102399,119067,99.99664054691895,Serbian

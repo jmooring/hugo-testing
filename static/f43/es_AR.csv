@@ -1,0 +1,59 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,216,3,4145,100,1,633,284,4364,4.949587534372136,Spanish (Argentina) (https://www.transifex.com/mate/teams/13566/es_AR/)
+audacious,829,0,82,352,0,20,999,911,90.99890230515916,Spanish (Argentina) (http://app.transifex.com/audacious/audacious/language/es_AR/)
+audacious-plugins,1428,0,2997,513,0,481,1721,4425,32.271186440677965,Spanish (Argentina) (http://app.transifex.com/audacious/audacious/language/es_AR/)
+budgie-desktop,1638,0,221,412,0,69,1942,1859,88.11188811188812,Spanish (Argentina) (https://app.transifex.com/buddiesofbudgie/teams/129844/es_AR/)
+caja,290,0,9866,137,0,1459,329,10156,2.855454903505317,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+caja-actions,88,0,18724,38,0,1478,132,18812,0.4677865192430364,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+caja-extensions,34,0,811,26,0,155,34,845,4.023668639053255,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+calamares,478,0,0,83,0,0,638,478,100.0,Spanish (Argentina) (https://app.transifex.com/calamares/teams/20061/es_AR/)
+cataclysm-dda,707093,0,418567,61964,0,25529,802796,1125660,62.8158591404154,Spanish (Argentina) (https://app.transifex.com/cataclysm-dda-translators/teams/2217/es_AR/)
+cinnamon-translations,131,0,7402,40,0,1844,158,7533,1.7390150006637461,Spanish (Argentina) <es_AR@li.org>
+deepin-daemon,622,22,805,291,7,140,721,1449,42.92615596963423,Spanish (Argentina) (http://www.transifex.com/projects/p/dde-daemon/language/es_AR/)
+emerald,563,64,69,185,16,19,797,696,80.89080459770115,Argentine Spanish <es_AR@li.org>
+engrampa,76,0,1950,31,0,387,116,2026,3.751233958538993,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+eom,47,0,4914,37,0,505,78,4961,0.947389639185648,Spanish (Argentina) (https://www.transifex.com/mate/teams/13566/es_AR/)
+gambas3,213,0,114,35,0,5,224,327,65.13761467889908,LANGUAGE <LL@li.org>
+gnome-shell-extension-freon,94,0,0,27,0,0,118,94,100.0,
+godot,12930,0,0,2835,0,0,15170,12930,100.0,Spanish (Argentina) <https://hosted.weblate.org/projects/godot-engine/godot/es_AR/>
+godot3,15971,3786,2835,3551,1635,909,18691,22592,70.6931657223796,Spanish (Argentina) <https://hosted.weblate.org/projects/godot-engine/godot/es_AR/>
+libgweather,664,0,0,235,0,0,735,664,100.0,Spanish <gnome-es-list@gnome.org>
+libvisual,300,204,549,61,51,93,361,1053,28.49002849002849,Spanish
+marco,21,0,4150,9,0,424,28,4171,0.5034763845600575,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-applets,1690,0,14416,408,0,1247,2279,16106,10.492983981125047,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-backgrounds,51,0,4,28,0,1,53,55,92.72727272727272,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-calc,199,0,3128,101,0,650,242,3327,5.98136459272618,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-control-center,112,7,8141,73,4,1450,158,8260,1.3559322033898304,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-desktop,159,6,2247,16,2,277,192,2412,6.592039800995026,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-media,12,0,232,11,0,89,13,244,4.918032786885246,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-menu,19,0,289,15,0,95,19,308,6.1688311688311686,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+mate-menus,97,0,6,37,0,2,120,103,94.1747572815534,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-notification-daemon,133,0,53,38,0,15,172,186,71.50537634408603,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-panel,141,0,6612,68,0,754,226,6753,2.087960906263883,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-polkit,123,0,0,21,0,0,131,123,100.0,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-power-manager,20,0,5103,19,0,533,46,5123,0.3903962521959789,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-screensaver,97,0,1004,34,0,142,124,1101,8.810172570390554,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-sensors-applet,12,0,2210,12,0,215,37,2222,0.54005400540054,Spanish (Argentina) (https://www.transifex.com/mate/teams/13566/es_AR/)
+mate-session-manager,74,0,643,26,0,107,100,717,10.320781032078104,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-settings-daemon,47,0,2156,10,0,308,49,2203,2.133454380390377,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-system-monitor,49,0,4845,35,0,626,85,4894,1.0012259910093992,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-terminal,64,0,8174,35,0,730,109,8238,0.7768875940762321,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-themes,60,0,14,12,0,11,65,74,81.08108108108108,Spanish (Argentina) (http://app.transifex.com/mate/MATE/language/es_AR/)
+mate-user-admin,5,0,600,4,0,122,5,605,0.8264462809917356,Spanish (Argentina) (https://www.transifex.com/mate/teams/13566/es_AR/)
+mate-user-guide,5,0,1,2,0,1,5,6,83.33333333333334,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mate-utils,115,0,9786,46,0,1025,223,9901,1.1614988385011615,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+mcrypt,956,6,3,141,1,1,1117,965,99.06735751295336,Argentinian <translation-es-AR@lists.sourceforge.net>
+pidgin,13736,0,258,3137,0,54,16166,13994,98.1563527225954,Spanish (Argentina) (http://app.transifex.com/pidgin/pidgin/language/es_AR/)
+pluma,83,0,13296,63,0,2046,124,13379,0.6203752148890052,Spanish (Argentina) (https://www.transifex.com/mate/teams/13566/es_AR/)
+pluma-plugins,5,0,1400,5,0,140,17,1405,0.3558718861209964,Spanish (Argentina) (https://app.transifex.com/mate/teams/13566/es_AR/)
+python-caja,6,0,0,2,0,0,6,6,100.0,Spanish (Argentina) (https://www.transifex.com/mate/teams/13566/es_AR/)
+python-django-filter,9,4,75,5,4,33,9,88,10.227272727272728,Spanish (Argentina)
+python-django-formtools,32,0,0,11,0,0,43,32,100.0,Spanish (Argentina) (http://www.transifex.com/django/django-formtools/language/es_AR/)
+python-django-mptt,188,0,0,22,0,0,184,188,100.0,Spanish (Argentina)
+python-django-reversion,119,0,0,22,0,0,121,119,100.0,Spanish (Argentina)
+python-django5,3933,0,15,922,0,1,4661,3948,99.62006079027356,Spanish (Argentina) (http://app.transifex.com/django/django/language/es_AR/)
+soundkonverter,2546,0,1516,483,0,87,2672,4062,62.67848350566223,Spanish (Argentina) (http://www.transifex.com/hessijames/soundkonverter/language/es_AR/)
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Spanish (Argentina) (http://www.transifex.com/heldercorreia/speedcrunch/language/es_AR/)
+supertux,3498,0,708,978,0,195,4084,4206,83.16690442225392,Spanish (Argentina) (http://www.transifex.com/arctic-games/supertux/language/es_AR/)
+xfe,3026,4202,555,958,295,107,3543,7783,38.879609405113705,Spanish <kde-i18n-doc@kde.org>

@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,2722,0,0,328,0,2722,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+alacarte,42,0,0,16,0,0,36,42,100.0,Bodo <brx@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Bodo
+iok,87,0,119,20,0,20,105,206,42.23300970873786,Bodo <LL@li.org>
+libreoffice,54804,6460,33931,17841,3106,8241,57001,95195,57.57025053836862,LANGUAGE <LL@li.org>
+libreport,0,0,3139,0,0,417,0,3139,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+liveusb-creator,0,0,480,0,0,52,0,480,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)

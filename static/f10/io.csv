@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,43,42,100.0,Ido <gnome-ido@lists.mterry.name>
+duplicity,42,0,1191,31,0,154,44,1233,3.40632603406326,Ido
+gnome-menus,86,0,79,44,0,14,90,165,52.121212121212125,Ido <gnome-ido@lists.mterry.name>
+gtk2,1795,138,10827,653,46,1864,1502,12760,14.067398119122258,Ido <gnome-ido@lists.mterry.name>
+lxmenu-data,52,0,45,29,0,8,55,97,53.608247422680414,Ido <gnome-ido@lists.mterry.name>
+mingw32-gtk2,1171,139,11090,351,51,1911,1109,12400,9.443548387096774,Ido <gnome-ido@lists.mterry.name>
+nautilus,1293,34,6127,452,13,766,1226,7454,17.346391199356052,Ido <gnome-ido@lists.mterry.name>

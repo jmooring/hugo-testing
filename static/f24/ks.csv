@@ -1,0 +1,29 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora-abrt/language/ks/)
+atril,536,0,1225,167,0,236,562,1761,30.437251561612722,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Kashmiri (http://www.transifex.com/projects/p/certmonger/language/ks/)
+eog,953,16,224,246,4,28,1020,1193,79.88264878457669,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+eom,724,0,1007,189,0,138,782,1731,41.825534373194685,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+evince,789,166,34,231,38,9,821,989,79.77755308392315,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+gnucash,29203,395,139,4586,26,13,31529,29737,98.20425732252748,NONE
+initial-setup,0,0,33,0,0,7,0,33,0.0,Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/)
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+libreoffice,43457,6250,51311,13673,2733,15392,46112,101018,43.01906590904591,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Kashmiri (http://www.transifex.com/projects/p/libreport/language/ks/)
+librfm,37,296,2064,31,137,430,72,2397,1.543596161869003,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Kashmiri (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ks/)
+pam,0,0,606,0,0,122,0,606,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+pidgin,0,0,18558,0,0,3948,0,18558,0.0,Kashmiri (http://www.transifex.com/projects/p/pidgin/language/ks/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/)
+rodent,36,239,9359,29,112,671,52,9634,0.37367656217562795,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+system-config-date,0,0,1850,0,0,824,0,1850,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Kashmiri (http://www.transifex.com/projects/p/system-config-kickstart/language/ks/)
+system-config-samba,0,0,571,0,0,134,0,571,0.0,Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/)
+xreader,489,0,1148,150,0,230,511,1637,29.871716554673185,Kashmiri (http://www.transifex.com/mate/MATE/language/ks/)
+xviewer,520,0,1157,151,0,173,569,1677,31.007751937984494,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>
+yelp,753,90,192,212,32,105,787,1035,72.7536231884058,Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net>

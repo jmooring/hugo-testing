@@ -1,0 +1,98 @@
+---
+title: "NetworkManager-openvpn - translation progress for f39"
+package: NetworkManager-openvpn
+date: 2026-01-18T07:57:03+00:00
+started_languages: 60
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 60
+release: f39
+---
+The package NetworkManager-openvpn (version 1.10.2):
+
+* represents 2157 source words to be translated
+* is translated into 60 languages in Fedora f39
+
+
+* contains 60 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [da]({{< ref "/f39/language/da.md" >}}) | 2152 | 2157 | 99.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/da.po | 
+ | [hr]({{< ref "/f39/language/hr.md" >}}) | 2152 | 2157 | 99.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/hr.po | 
+ | [pl]({{< ref "/f39/language/pl.md" >}}) | 2152 | 2157 | 99.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/pl.po | 
+ | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 2152 | 2157 | 99.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/pt_BR.po | 
+ | [sr]({{< ref "/f39/language/sr.md" >}}) | 2152 | 2157 | 99.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/sr.po | 
+ | [sv]({{< ref "/f39/language/sv.md" >}}) | 2152 | 2157 | 99.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/sv.po | 
+ | [tr]({{< ref "/f39/language/tr.md" >}}) | 2152 | 2157 | 99.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/tr.po | 
+ | [uk]({{< ref "/f39/language/uk.md" >}}) | 2152 | 2157 | 99.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/uk.po | 
+ | [id]({{< ref "/f39/language/id.md" >}}) | 2062 | 2157 | 95.6 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/id.po | 
+ | [cs]({{< ref "/f39/language/cs.md" >}}) | 2061 | 2157 | 95.5 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/cs.po | 
+ | [es]({{< ref "/f39/language/es.md" >}}) | 2061 | 2157 | 95.5 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/es.po | 
+ | [nl]({{< ref "/f39/language/nl.md" >}}) | 2061 | 2157 | 95.5 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/nl.po | 
+ | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 2061 | 2157 | 95.5 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/zh_CN.po | 
+ | [ca]({{< ref "/f39/language/ca.md" >}}) | 2047 | 2157 | 94.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ca.po | 
+ | [it]({{< ref "/f39/language/it.md" >}}) | 2047 | 2157 | 94.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/it.po | 
+ | [lt]({{< ref "/f39/language/lt.md" >}}) | 2047 | 2157 | 94.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/lt.po | 
+ | [ru]({{< ref "/f39/language/ru.md" >}}) | 2047 | 2157 | 94.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ru.po | 
+ | [eu]({{< ref "/f39/language/eu.md" >}}) | 1884 | 2157 | 87.3 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/eu.po | 
+ | [hu]({{< ref "/f39/language/hu.md" >}}) | 1820 | 2157 | 84.4 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/hu.po | 
+ | [de]({{< ref "/f39/language/de.md" >}}) | 1801 | 2157 | 83.5 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/de.po | 
+ | [gl]({{< ref "/f39/language/gl.md" >}}) | 1722 | 2157 | 79.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/gl.po | 
+ | [lv]({{< ref "/f39/language/lv.md" >}}) | 1722 | 2157 | 79.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/lv.po | 
+ | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 1665 | 2157 | 77.2 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/sr@latin.po | 
+ | [fur]({{< ref "/f39/language/fur.md" >}}) | 1464 | 2157 | 67.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/fur.po | 
+ | [he]({{< ref "/f39/language/he.md" >}}) | 1079 | 2157 | 50.0 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/he.po | 
+ | [sl]({{< ref "/f39/language/sl.md" >}}) | 821 | 2157 | 38.1 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/sl.po | 
+ | [el]({{< ref "/f39/language/el.md" >}}) | 708 | 2157 | 32.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/el.po | 
+ | [pt]({{< ref "/f39/language/pt.md" >}}) | 685 | 2157 | 31.8 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/pt.po | 
+ | [fr]({{< ref "/f39/language/fr.md" >}}) | 615 | 2157 | 28.5 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/fr.po | 
+ | [bs]({{< ref "/f39/language/bs.md" >}}) | 571 | 2157 | 26.5 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/bs.po | 
+ | [ja]({{< ref "/f39/language/ja.md" >}}) | 433 | 2157 | 20.1 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ja.po | 
+ | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 391 | 2157 | 18.1 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/en_GB.po | 
+ | [fi]({{< ref "/f39/language/fi.md" >}}) | 360 | 2157 | 16.7 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/fi.po | 
+ | [ka]({{< ref "/f39/language/ka.md" >}}) | 281 | 2157 | 13.0 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ka.po | 
+ | [sk]({{< ref "/f39/language/sk.md" >}}) | 178 | 2157 | 8.3 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/sk.po | 
+ | [be]({{< ref "/f39/language/be.md" >}}) | 163 | 2157 | 7.6 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/be.po | 
+ | [pa]({{< ref "/f39/language/pa.md" >}}) | 153 | 2157 | 7.1 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/pa.po | 
+ | [et]({{< ref "/f39/language/et.md" >}}) | 122 | 2157 | 5.7 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/et.po | 
+ | [bg]({{< ref "/f39/language/bg.md" >}}) | 120 | 2157 | 5.6 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/bg.po | 
+ | [fa]({{< ref "/f39/language/fa.md" >}}) | 120 | 2157 | 5.6 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/fa.po | 
+ | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 108 | 2157 | 5.0 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/nb.po | 
+ | [ro]({{< ref "/f39/language/ro.md" >}}) | 68 | 2157 | 3.2 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ro.po | 
+ | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 63 | 2157 | 2.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ca@valencia.po | 
+ | [kn]({{< ref "/f39/language/kn.md" >}}) | 63 | 2157 | 2.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/kn.po | 
+ | [ta]({{< ref "/f39/language/ta.md" >}}) | 63 | 2157 | 2.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ta.po | 
+ | [te]({{< ref "/f39/language/te.md" >}}) | 63 | 2157 | 2.9 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/te.po | 
+ | [as]({{< ref "/f39/language/as.md" >}}) | 59 | 2157 | 2.7 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/as.po | 
+ | [mr]({{< ref "/f39/language/mr.md" >}}) | 59 | 2157 | 2.7 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/mr.po | 
+ | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 50 | 2157 | 2.3 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/zh_TW.po | 
+ | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 50 | 2157 | 2.3 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/zh_HK.po | 
+ | [ko]({{< ref "/f39/language/ko.md" >}}) | 43 | 2157 | 2.0 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ko.po | 
+ | [ps]({{< ref "/f39/language/ps.md" >}}) | 43 | 2157 | 2.0 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ps.po | 
+ | [gu]({{< ref "/f39/language/gu.md" >}}) | 36 | 2157 | 1.7 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/gu.po | 
+ | [ug]({{< ref "/f39/language/ug.md" >}}) | 36 | 2157 | 1.7 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ug.po | 
+ | [eo]({{< ref "/f39/language/eo.md" >}}) | 24 | 2157 | 1.1 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/eo.po | 
+ | [ar]({{< ref "/f39/language/ar.md" >}}) | 12 | 2157 | 0.6 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/ar.po | 
+ | [dz]({{< ref "/f39/language/dz.md" >}}) | 12 | 2157 | 0.6 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/dz.po | 
+ | [mk]({{< ref "/f39/language/mk.md" >}}) | 12 | 2157 | 0.6 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/mk.po | 
+ | [vi]({{< ref "/f39/language/vi.md" >}}) | 12 | 2157 | 0.6 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/vi.po | 
+ | [th]({{< ref "/f39/language/th.md" >}}) | 11 | 2157 | 0.5 | /mnt/stockage/packages/f39/NetworkManager-openvpn/po/th.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

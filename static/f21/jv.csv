@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+backintime,13,0,1479,6,0,294,19,1492,0.871313672922252,Javanese <jv@li.org>
+calibre,107,0,144306,19,0,16957,98,144413,0.07409305256451981,Javanese (http://www.transifex.com/projects/p/calibre/language/jv/)
+cinnamon-translations,516,0,10623,105,0,2396,451,11139,4.632372744411526,Javanese <jv@li.org>
+edgar,1,0,11474,1,0,1534,1,11475,0.008714596949891067,Javanese <jv@li.org>
+gmpc,23,0,1455,17,0,491,48,1478,1.5561569688768606,Javanese <jv@li.org>
+gnome-do,29,0,583,15,0,129,29,612,4.738562091503268,Javanese <jv@li.org>
+islamic-menus,5,0,0,2,0,0,7,5,100.0,Javanese <jv@li.org>
+isomaster,11,1,662,10,1,96,10,674,1.6320474777448073,http://littlesvr.ca/ostd/
+jmol,155,5,1552,58,2,508,159,1712,9.05373831775701,Javanese <jv@li.org>
+libreoffice,0,0,5,0,0,1,0,5,0.0,LANGUAGE <LL@li.org>
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Javanese (http://www.transifex.com/projects/p/MATE/language/jv/)
+mintmenu,2653,0,1907,760,0,258,2667,4560,58.17982456140351,Javanese <jv@li.org>
+pychess,89,0,3002,49,0,589,87,3091,2.879327078615335,Javanese <jv@li.org>
+stellarium,196,0,15766,163,0,4112,199,15962,1.2279163012153866,Javanese <jv@li.org>
+terminator,270,0,456,105,0,149,292,726,37.1900826446281,Javanese <jv@li.org>
+tortoisehg,30,0,11921,12,0,2284,33,11951,0.25102501882687644,Javanese <jv@li.org>
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>
+viking,0,0,4135,0,0,1056,0,4135,0.0,Javanese <jv@li.org>
+whaawmp,799,0,0,160,0,0,773,799,100.0,Javanese <jv@li.org>
+widelands,38,0,2599,9,0,119,40,2637,1.441031475161168,Javanese <jv@li.org>

@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,141,0,0,34,0,0,141,141,100.0,Scots <sco@li.org>
+bzr,23,0,33226,2,0,2351,23,33249,0.06917501278233933,Scots <sco@li.org>
+cinnamon-translations,1110,0,7165,321,0,1543,1110,8275,13.413897280966767,Scots <sco@li.org>
+gnomad2,697,0,0,171,0,0,698,697,100.0,Scots <sco@li.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Scots (http://www.transifex.com/mate/MATE/language/sco/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Scots (http://www.transifex.com/mate/MATE/language/sco/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Scots (http://www.transifex.com/mate/MATE/language/sco/)
+picard,29,0,1652,8,0,660,35,1681,1.7251635930993456,Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/)
+pyroom,21,0,390,7,0,67,22,411,5.109489051094891,Scots <sco@li.org>
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,0,159,0,0,111,0,159,0.0,LANGUAGE <LL@li.org>
+supertuxkart,19,0,3342,7,0,745,18,3361,0.5653079440642665,Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/)

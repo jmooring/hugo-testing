@@ -1,0 +1,58 @@
+---
+title: "kdevelop-php - translation progress for f14"
+package: kdevelop-php
+date: 2026-01-17T09:13:57+00:00
+started_languages: 20
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 39
+release: f14
+---
+The package kdevelop-php (version 1.2.3):
+
+* represents 718 source words to be translated
+* is translated into 20 languages in Fedora f14
+
+
+* contains 39 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ca]({{< ref "/f14/language/ca.md" >}}) | 718 | 718 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/ca/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/ca@valencia/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/ca/kdevphpdocs.po/mnt/stockage/packages/f14/kdevelop-php/po/ca@valencia/kdevphpdocs.po | 
+ | [da]({{< ref "/f14/language/da.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/da/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/da/kdevphpdocs.po | 
+ | [de]({{< ref "/f14/language/de.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/de/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/de/kdevphpdocs.po | 
+ | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/en_GB/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/en_GB/kdevphpdocs.po | 
+ | [es]({{< ref "/f14/language/es.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/es/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/es/kdevphpdocs.po | 
+ | [et]({{< ref "/f14/language/et.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/et/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/et/kdevphpdocs.po | 
+ | [fr]({{< ref "/f14/language/fr.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/fr/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/fr/kdevphpdocs.po | 
+ | [it]({{< ref "/f14/language/it.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/it/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/it/kdevphpdocs.po | 
+ | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/nb/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/nb/kdevphpdocs.po | 
+ | [nds]({{< ref "/f14/language/nds.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/nds/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/nds/kdevphpdocs.po | 
+ | [nl]({{< ref "/f14/language/nl.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/nl/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/nl/kdevphpdocs.po | 
+ | [pt]({{< ref "/f14/language/pt.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/pt/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/pt/kdevphpdocs.po | 
+ | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/pt_BR/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/pt_BR/kdevphpdocs.po | 
+ | [sv]({{< ref "/f14/language/sv.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/sv/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/sv/kdevphpdocs.po | 
+ | [uk]({{< ref "/f14/language/uk.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/uk/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/uk/kdevphpdocs.po | 
+ | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/kdevelop-php/po/zh_TW/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/zh_TW/kdevphpdocs.po | 
+ | [gl]({{< ref "/f14/language/gl.md" >}}) | 125 | 127 | 98.4 | /mnt/stockage/packages/f14/kdevelop-php/po/gl/kdevphpdocs.po | 
+ | [ru]({{< ref "/f14/language/ru.md" >}}) | 125 | 127 | 98.4 | /mnt/stockage/packages/f14/kdevelop-php/po/ru/kdevphpdocs.po | 
+ | [th]({{< ref "/f14/language/th.md" >}}) | 204 | 232 | 87.9 | /mnt/stockage/packages/f14/kdevelop-php/po/th/kdevphp.po | 
+ | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 244 | 359 | 68.0 | /mnt/stockage/packages/f14/kdevelop-php/po/zh_CN/kdevphp.po/mnt/stockage/packages/f14/kdevelop-php/po/zh_CN/kdevphpdocs.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

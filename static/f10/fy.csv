@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,414,0,2247,167,0,419,427,2661,15.558060879368659,Frisian <fy@li.org>
+bluez-gnome,46,2,583,22,1,166,52,631,7.290015847860539,Frisian <fy@li.org>
+deluge,46,0,1952,33,0,656,44,1998,2.3023023023023024,Frisian <fy@li.org>
+konq-plugins,1404,74,120,447,24,45,1403,1598,87.85982478097623,Frysk <kde-i18n-fry@kde.org>
+ksig,85,0,0,26,0,0,76,85,100.0,Frysk <kde-i18n-fry@kde.org>
+phatch,234,0,1259,99,0,409,225,1493,15.67314132618888,Frisian <fy@li.org>
+picard,20,1,572,18,1,192,52,593,3.372681281618887,Frisian <fy@li.org>
+squirrelmail,16319,0,0,2864,0,0,16054,16319,100.0,<kde-i18n-nl@kde.org>
+stellarium,34,0,1413,17,0,395,34,1447,2.349689011748445,Frisian <fy@li.org>
+terminator,44,0,186,10,0,59,43,230,19.130434782608695,Frisian <fy@li.org>
+warzone2100,634,26,8574,195,7,2055,619,9234,6.865930257743123,Frisian <fy@li.org>

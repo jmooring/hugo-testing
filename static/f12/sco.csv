@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnomad2,697,0,0,171,0,0,698,697,100.0,Scots <sco@li.org>
+picard,29,0,1281,8,0,597,39,1310,2.213740458015267,Scots <sco@li.org>
+pyroom,21,0,390,7,0,67,22,411,5.109489051094891,Scots <sco@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>

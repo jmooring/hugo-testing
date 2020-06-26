@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+stellarium,0,0,7138,0,0,2491,0,7138,0.0,Samoan <sm@li.org>
+sugar-abacus,3,0,21,3,0,21,3,24,12.5,LANGUAGE <LL@li.org>
+sugar-clock,0,1,37,0,1,16,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-finance,7,0,136,7,0,25,7,143,4.895104895104895,LANGUAGE <LL@li.org>
+sugar-infoslicer,2,0,182,2,0,54,2,184,1.0869565217391304,LANGUAGE <LL@li.org>
+sugar-labyrinth,27,2,225,12,2,79,27,254,10.62992125984252,LANGUAGE <LL@li.org>
+sugar-measure,1,0,154,1,0,72,2,155,0.6451612903225806,LANGUAGE <LL@li.org>
+sugar-memorize,22,2,90,14,1,56,19,114,19.298245614035086,LANGUAGE <LL@li.org>
+sugar-moon,2,0,89,2,0,30,2,91,2.197802197802198,LANGUAGE <LL@li.org>
+sugar-physics,6,0,22,6,0,21,6,28,21.428571428571427,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,3,0,125,3,0,67,3,128,2.34375,LANGUAGE <LL@li.org>

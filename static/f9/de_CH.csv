@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,3127,83,1434,1094,25,401,2755,4644,67.33419465977606,unknown <email@address>
+fuse-encfs,265,14,1031,51,2,76,237,1310,20.229007633587788,German (Switzerland) <de_CH@li.org>
+gnomebaker,271,0,915,90,0,201,229,1186,22.849915682967957,German (Switzerland) <de_CH@li.org>
+gnucash,24163,0,0,3669,0,0,21730,24163,100.0,Swiss German <de_CH@li.org>
+pgadmin3,2152,2273,2906,764,761,636,1915,7331,29.3547947074069,pgAdmin Developers <pgadmin-hackers@postgresql.org>

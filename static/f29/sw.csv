@@ -1,0 +1,123 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,41,42,100.0,Swahili <sw@li.org>
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+blueman,95,0,1240,37,0,298,119,1335,7.116104868913857,Swahili (http://www.transifex.com/mate/MATE/language/sw/)
+cinnamon-translations,70,0,6478,36,0,1582,69,6548,1.069028711056811,Swahili <sw@li.org>
+dialog,25,0,0,23,0,0,26,25,100.0,Swahili <translation-team-sw@lists.sourceforge.net>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,0,0,80,0,0,37,0,80,0.0,LANGUAGE <LL@li.org>
+elementary-calendar,107,79,298,52,28,104,107,484,22.107438016528928,Swahili <sw@li.org>
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-code,0,0,812,0,0,198,0,812,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2818,0,0,548,0,2818,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,LANGUAGE <LL@li.org>
+elementary-music,43,4,1090,12,2,315,63,1137,3.781882145998241,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3775,0,0,793,0,3775,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,129,0,0,41,0,129,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+elementary-terminal,42,0,244,10,0,56,35,286,14.685314685314685,Swahili <sw@li.org>
+elementary-videos,0,0,150,0,0,52,0,150,0.0,
+ephemeral,0,0,1809,0,0,207,0,1809,0.0,none
+exaile,52,8,4008,10,3,1061,44,4068,1.27826941986234,Swahili <sw@li.org>
+feedreader,31,0,768,19,0,202,35,799,3.879849812265332,Swahili <https://hosted.weblate.org/projects/feedreader/translations/sw/>
+gammu,35,33,3927,6,6,1099,33,3995,0.8760951188986232,none
+gnome-do,16,0,596,6,0,138,15,612,2.6143790849673203,Swahili <sw@li.org>
+granite,0,0,150,0,0,68,0,150,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+ibus-typing-booster,187,0,1591,58,0,135,231,1778,10.517435320584926,Swahili <https://translate.stg.fedoraproject.org/projects/ibus-typing-booster/app/sw/>
+iso-codes,262,269,559,167,78,206,273,1090,24.036697247706424,Swahili <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/sw/>
+isomaster,8,0,666,8,0,99,11,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Swahili (http://www.transifex.com/mate/MATE/language/sw/)
+mate-applets,2,0,1513,2,0,100,10,1515,0.132013201320132,Swahili (https://www.transifex.com/mate/teams/13566/sw/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Swahili (http://www.transifex.com/projects/p/MATE/language/sw/)
+mate-panel,1,0,941,1,0,62,5,942,0.10615711252653928,Swahili (https://www.transifex.com/mate/teams/13566/sw/)
+mate-sensors-applet,2,0,307,2,0,107,6,309,0.6472491909385114,Swahili (https://www.transifex.com/mate/teams/13566/sw/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Swahili (http://www.transifex.com/mate/MATE/language/sw/)
+minetest,5075,547,784,814,95,115,5284,6406,79.22260380892912,Swahili <https://hosted.weblate.org/projects/minetest/minetest/sw/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,99,0,0,17,0,99,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,20,0,0,10,0,20,0.0,LANGUAGE <LL@li.org>
+pantheon-greeter,0,0,29,0,0,10,0,29,0.0,LANGUAGE <LL@li.org>
+pidgin,178,0,15578,145,0,3288,182,15756,1.1297283574511299,Swahili (http://www.transifex.com/pidgin/pidgin/language/sw/)
+python-django,2205,0,1283,618,0,184,2139,3488,63.21674311926605,Swahili (http://www.transifex.com/django/django/language/sw/)
+python-django-formtools,32,0,0,11,0,0,32,32,100.0,Swahili (http://www.transifex.com/projects/p/django-formtools/language/sw/)
+python2-django1.11,2259,0,1165,623,0,170,2183,3424,65.97546728971963,Swahili (http://www.transifex.com/django/django/language/sw/)
+sequeler,0,0,1352,0,0,275,0,1352,0.0,
+slick-greeter,0,0,211,0,0,47,0,211,0.0,Swahili <sw@li.org>
+stellarium,31,0,72604,24,0,27913,41,72635,0.042679149170510085,Swahili (https://www.transifex.com/stellarium/teams/80998/sw/)
+sugar,392,15,1898,144,8,377,392,2305,17.00650759219089,LANGUAGE <LL@li.org>
+sugar-abacus,21,1,6,21,1,1,21,28,75.0,LANGUAGE <LL@li.org>
+sugar-browse,22,0,312,16,0,55,25,334,6.58682634730539,LANGUAGE <LL@li.org>
+sugar-calculator,701,21,149,114,14,36,694,871,80.48220436280138,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,30,0,107,12,0,69,35,137,21.897810218978105,LANGUAGE <LL@li.org>
+sugar-clock,24,10,32,10,4,7,41,66,36.36363636363637,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,75,4,20,15,1,10,66,99,75.75757575757575,LANGUAGE <LL@li.org>
+sugar-finance,25,0,233,20,0,43,28,258,9.689922480620156,LANGUAGE <LL@li.org>
+sugar-fototoon,5,3,113,4,3,39,5,121,4.132231404958678,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,64,0,86,25,0,9,65,150,42.66666666666667,LANGUAGE <LL@li.org>
+sugar-imageviewer,7,0,51,4,0,12,15,58,12.068965517241379,LANGUAGE <LL@li.org>
+sugar-implode,1,0,76,1,0,19,1,77,1.2987012987012987,LANGUAGE <LL@li.org>
+sugar-infoslicer,2,0,234,2,0,60,2,236,0.847457627118644,LANGUAGE <LL@li.org>
+sugar-jukebox,3,0,66,3,0,19,4,69,4.3478260869565215,LANGUAGE <LL@li.org>
+sugar-labyrinth,2,1,278,2,1,91,2,281,0.7117437722419928,LANGUAGE <LL@li.org>
+sugar-log,9,0,89,7,0,14,10,98,9.183673469387756,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-memorize,68,8,66,51,7,16,75,142,47.88732394366197,LANGUAGE <LL@li.org>
+sugar-paint,48,1,57,39,1,21,63,106,45.28301886792453,LANGUAGE <LL@li.org>
+sugar-physics,0,2,46,0,2,26,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,2,0,272,2,0,64,2,274,0.7299270072992701,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,17,0,120,13,0,37,17,137,12.408759124087592,LANGUAGE <LL@li.org>
+sugar-record,3,7,52,2,7,15,3,62,4.838709677419355,LANGUAGE <LL@li.org>
+sugar-ruler,4,0,25,4,0,4,5,29,13.793103448275861,LANGUAGE <LL@li.org>
+sugar-speak,1,0,226,1,0,73,1,227,0.4405286343612335,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,7,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit,72,1,0,36,1,0,71,73,98.63013698630137,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,147,4,8,103,3,5,151,159,92.45283018867924,LANGUAGE <LL@li.org>
+sugar-turtleart,45,4,1410,41,3,391,46,1459,3.0843043180260454,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,2,1,596,2,1,124,2,599,0.333889816360601,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,3,155,0,3,75,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,16,0,105,13,0,42,19,121,13.223140495867769,LANGUAGE <LL@li.org>
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,94,0,0,28,0,94,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,Swahili <sw@li.org>
+switchboard-plug-display,0,0,113,0,0,47,0,113,0.0,Swahili <sw@li.org>
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,0,0,161,0,0,49,0,161,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,Swahili <sw@li.org>
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,0,131,0,0,46,0,131,0.0,
+synapse,79,0,777,36,0,198,78,856,9.228971962616821,Swahili <sw@li.org>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+transmission,1,0,1808,1,0,493,6,1809,0.055279159756771695,Swahili <sw@li.org>
+tuxpaint,1515,0,0,279,0,0,1273,1515,100.0,LANGUAGE <LL@li.org>
+tuxpaint-stamps,654,1114,1503,170,387,256,614,3271,19.9938856618771,LANGUAGE <LL@li.org>
+tuxtype2,63,6,11,30,1,9,72,80,78.75,LANGUAGE <LL@li.org>
+virtaal,1012,149,492,274,48,222,1071,1653,61.22202056866304,tzLUG Translators
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+wammu,36,12,5242,9,3,911,36,5290,0.6805293005671078,none
+wingpanel,0,0,6,0,0,1,0,6,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,0,0,222,0,0,73,0,222,0.0,Swahili <sw@li.org>
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,12,2,0,3,1,0,13,14,85.71428571428571,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,LANGUAGE <LL@li.org>

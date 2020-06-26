@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,205,98,3313,90,10,549,199,3616,5.669247787610619,"German, Low <nds@li.org>"
+amarok,13255,0,0,2509,0,0,13032,13255,100.0,Low Saxon <kde-i18n-nds@kde.org>
+deluge,129,0,2223,75,0,455,127,2352,5.48469387755102,"German, Low <nds@li.org>"
+digikam,15764,173,0,2055,9,0,14575,15937,98.91447574825877,Low Saxon <kde-i18n-nds@kde.org>
+digikamimageplugins,5728,0,0,826,0,0,5331,5728,100.0,Low Saxon <kde-i18n-nds@kde.org>
+fuse-encfs,257,44,1009,35,8,86,269,1310,19.61832061068702,"German, Low <nds@li.org>"
+homebank,2,1,1079,1,1,380,1,1082,0.18484288354898337,"German, Low <nds@li.org>"
+k3b,20601,0,29,2531,0,1,18744,20630,99.85942801745031,Low Saxon <kde-i18n-nds@kde.org>
+kile,10328,93,0,1579,5,0,9720,10421,99.10757125035985,Low Saxon <kde-i18n-nds@kde.org>
+kipi-plugins,3793,774,8749,439,555,1371,3659,13316,28.484529888855516,Low Saxon <kde-i18n-nds@kde.org>
+kphotoalbum,5895,0,0,682,0,0,5500,5895,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kst,423,6269,416,100,1458,180,451,7108,5.951041080472707,Low Saxon <kde-i18n-nds@kde.org>
+ktorrent,3618,9,18,874,1,3,3581,3645,99.25925925925925,Low Saxon <kde-i18n-nds@kde.org>

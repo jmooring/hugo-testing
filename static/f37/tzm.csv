@@ -1,0 +1,25 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cpu-x,51,32,1291,32,16,255,53,1374,3.711790393013101,Central Atlas Tamazight <https://hosted.weblate.org/projects/cpu-x/translations/tzm/>
+iso-codes,9,0,2511,9,0,1262,9,2520,0.35714285714285715,Tamazight (Central Atlas) <https://hosted.weblate.org/projects/iso-codes/iso-15924/tzm/>
+mate-user-admin,28,0,577,20,0,106,31,605,4.628099173553719,Central Atlas Tamazight (https://www.transifex.com/mate/teams/13566/tzm/)
+python-nikola,8,0,86,5,0,39,8,94,8.51063829787234,Central Atlas Tamazight (http://www.transifex.com/ralsina/nikola/language/tzm/)
+stellarium,48,0,151593,24,0,37831,47,151641,0.03165370842977823,Central Atlas Tamazight (https://www.transifex.com/stellarium/teams/80998/tzm/)
+sugar,11,1,2293,10,1,518,11,2305,0.4772234273318872,LANGUAGE <LL@li.org>
+sugar-abacus,3,0,25,3,0,20,3,28,10.714285714285714,LANGUAGE <LL@li.org>
+sugar-browse,14,0,320,9,0,62,14,334,4.191616766467066,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-dimensions,1,0,160,1,0,78,1,161,0.6211180124223602,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-flipsticks,3,0,148,3,0,42,3,151,1.9867549668874174,LANGUAGE <LL@li.org>
+sugar-fototoon,1,0,138,1,0,47,1,139,0.7194244604316548,LANGUAGE <LL@li.org>
+sugar-implode,1,0,76,1,0,19,1,77,1.2987012987012987,LANGUAGE <LL@li.org>
+sugar-memorize,2,0,140,2,0,72,2,142,1.4084507042253522,LANGUAGE <LL@li.org>
+sugar-paint,5,0,101,5,0,56,5,106,4.716981132075472,LANGUAGE <LL@li.org>
+sugar-physics,2,0,46,2,0,26,2,48,4.166666666666666,LANGUAGE <LL@li.org>
+sugar-pippy,5,0,269,4,0,62,5,274,1.824817518248175,LANGUAGE <LL@li.org>
+sugar-record,2,0,60,2,0,22,2,62,3.225806451612903,LANGUAGE <LL@li.org>
+sugar-speak,3,0,224,3,0,71,3,227,1.3215859030837005,LANGUAGE <LL@li.org>
+sugar-stopwatch,1,0,4,1,0,4,2,5,20.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,5,0,208,4,0,119,5,213,2.3474178403755865,LANGUAGE <LL@li.org>
+sugar-typing-turtle,2,1,596,2,1,124,2,599,0.333889816360601,LANGUAGE <LL@li.org>
+sugar-view-slides,5,0,55,3,0,20,6,60,8.333333333333332,LANGUAGE <LL@li.org>

@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,58520,5288,35374,22583,2100,7246,58145,99182,59.002641608356356,LANGUAGE <LL@li.org>
+mate-themes,0,0,70,0,0,21,0,70,0.0,Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/)
+sugar-abacus,28,0,0,23,0,0,32,28,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,893,871,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,212,258,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,121,0,0,46,0,0,114,121,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,57,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,71,77,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,78,69,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,8,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,203,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,160,142,100.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,128,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,52,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,274,0,0,66,0,0,264,274,100.0,LANGUAGE <LL@li.org>
+sugar-portfolio,73,0,0,25,0,0,67,73,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,66,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,197,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,7,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,71,0,0,17,0,0,68,71,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,5,3,100.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,334 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3155,8,553,789,5,391,2740,3716,84.90312163616792,Latvian translators' team <reinis.veips@wot.lv>
+GConf2,4044,0,0,485,0,0,3423,4044,100.0,Latvian <locale@laka.lv>
+Miro,1729,0,1607,483,0,241,1638,3336,51.828537170263786,Latvian <locale@laka.lv>
+NetworkManager,2263,0,0,480,0,0,2071,2263,100.0,Latviešu <lata-l10n@googlegroups.com>
+NetworkManager-openconnect,53,0,0,16,0,0,50,53,100.0,Latviešu <kde-i18n-doc@kde.org>
+NetworkManager-openvpn,238,0,0,70,0,0,219,238,100.0,Latviešu <kde-i18n-doc@kde.org>
+NetworkManager-pptp,144,0,0,44,0,0,136,144,100.0,Latviešu <kde-i18n-doc@kde.org>
+NetworkManager-vpnc,143,0,0,37,0,0,131,143,100.0,Latviešu <kde-i18n-doc@kde.org>
+Terminal,1193,0,0,270,0,0,1038,1193,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+Thunar,3865,0,0,685,0,0,3257,3865,100.0,Latvian <RPrieditis@gmail.com>
+alacarte,42,0,0,16,0,0,40,42,100.0,Latvian <locale@laka.lv>
+alleyoop,348,0,0,89,0,0,303,348,100.0,Latvian <locale@laka.lv>
+amarok,8864,1050,2125,1861,241,173,7744,12039,73.62737768917684,Latvian
+anaconda,2812,3043,3897,503,322,377,2311,9752,28.835110746513536,Latvian
+anjuta,884,0,7021,490,0,1665,833,7905,11.182795698924732,Latvian <locale@laka.lv>
+asunder,332,76,42,61,17,4,275,450,73.77777777777777,
+at-spi,61,0,0,7,0,0,54,61,100.0,Latviešu <kde-i18n-doc@kde.org>
+atk,375,0,0,126,0,0,337,375,100.0,Latvian <locale@laka.lv>
+atomix,125,0,0,44,0,0,118,125,100.0,Latvian <ll10nt@ttc.lv>
+audacious,1297,0,0,413,0,0,1203,1297,100.0,Latvian <kde-i18n-doc@kde.org>
+audacious-plugins,8814,47,0,1271,6,0,7756,8861,99.4695858255276,Latvian <kde-i18n-doc@kde.org>
+authconfig,82,35,1208,22,16,201,64,1325,6.188679245283018,Latvian
+avant-window-navigator,23,0,1632,2,0,277,18,1655,1.3897280966767371,Latvian <lv@li.org>
+balsa,2825,1141,1382,738,344,205,2477,5348,52.82348541510845,Latvian <ll10nt@os.lv>
+banshee,4365,0,74,996,0,12,3968,4439,98.33295787339492,Latvian <locale@laka.lv>
+beagle,1286,0,0,358,0,0,1235,1286,100.0,Latvian <locale@laka.lv>
+blam,330,0,0,93,0,0,269,330,100.0,Latvian <locale@laka.lv>
+blueman,16,0,1360,12,0,340,20,1376,1.1627906976744187,Latvian <lv@li.org>
+boinc-client,860,729,2541,218,83,492,789,4130,20.823244552058114,BOINC@Latvia <boinc_at_latvia at mac.com>
+brasero,5408,0,0,986,0,0,4368,5408,100.0,Latviešu <lata-l10n@googlegroups.com>
+calibre,1204,0,18794,376,0,2331,1029,19998,6.020602060206021,Latvian <ivars_a@inbox.lv>
+camorama,558,0,0,123,0,0,453,558,100.0,Latvian <locale@laka.lv>
+celestia,1894,0,0,790,0,0,1867,1894,100.0,Latviešu <LL@li.org>
+cheese,651,0,0,120,0,0,561,651,100.0,Latviešu <lata-l10n@googlegroups.com>
+chkconfig,423,9,16,86,2,2,389,448,94.41964285714286,Latvian
+control-center,3245,0,0,781,0,0,2816,3245,100.0,Latviešu <kde-i18n-doc@kde.org>
+dasher,314,0,0,121,0,0,277,314,100.0,Latvian <locale@laka.lv>
+deskbar-applet,1315,0,339,321,0,34,1211,1654,79.50423216444982,Latvian <locale@laka.lv>
+devhelp,21,7,181,9,4,38,19,209,10.047846889952153,Latvian <ll10nt@os.lv>
+dia,1361,398,3944,463,146,1432,1292,5703,23.86463264948273,Latvian <lv@li.org>
+dialog,25,0,0,23,0,0,25,25,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+digikam,15458,1319,6876,2735,259,303,13073,23653,65.35323214814188,Latvian <locale@laka.lv>
+eina,145,23,840,44,6,203,138,1008,14.384920634920634,Latvian <lv@li.org>
+ekiga,5054,0,0,757,0,0,4136,5054,100.0,Latvian <locale@laka.lv>
+emerillon,246,0,113,72,0,3,232,359,68.52367688022284,American English <kde-i18n-doc@kde.org>
+empathy,3175,0,0,715,0,0,2765,3175,100.0,Latviešu <kde-i18n-doc@kde.org>
+eog,1527,0,0,305,0,0,1268,1527,100.0,Latviešu <kde-i18n-doc@kde.org>
+epiphany,3966,0,0,875,0,0,3387,3966,100.0,Latvian <locale@laka.lv>
+evince,1392,0,0,333,0,0,1181,1392,100.0,Latviešu <kde-i18n-doc@kde.org>
+evolution,22119,0,0,4733,0,0,19059,22119,100.0,Latviešu <kde-i18n-doc@kde.org>
+evolution-data-server,4985,0,0,1034,0,0,4559,4985,100.0,Latvian <locale@laka.lv>
+evolution-exchange,1225,0,0,186,0,0,1061,1225,100.0,Latvian <locale@laka.lv>
+evolution-mapi,341,0,0,67,0,0,283,341,100.0,Latviešu <lata-l10n@googlegroups.com>
+exaile,910,0,1515,298,0,376,828,2425,37.52577319587629,Latvian <lv@li.org>
+exo,1598,0,0,301,0,0,1317,1598,100.0,Latvian <RPrieditis@gmail.com>
+f-spot,1890,652,902,556,168,148,1736,3444,54.87804878048781,Latvian <locale@laka.lv>
+file-roller,1370,0,0,297,0,0,1186,1370,100.0,Latviešu <lata-l10n@googlegroups.com>
+filezilla,5124,255,3766,1223,38,288,4484,9145,56.030617823947516,Latvian <ssimss@gmail.com>
+firstboot,167,105,382,22,5,27,128,654,25.535168195718654,latvian <locale@laka.lv>
+fuse-encfs,1038,8,269,117,2,20,931,1315,78.93536121673004,Latvian <lv@li.org>
+galeon,4441,0,0,1188,0,0,3958,4441,100.0,Latvian <ll10nt@os.lv>
+gallery2,3670,373,10661,1036,79,809,3371,14704,24.959194776931447,Latvian <gallery-translations@lists.sourceforge.net>
+garcon,17,0,0,2,0,0,15,17,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+gcalctool,799,0,566,347,0,61,834,1365,58.53479853479854,Latvian <locale@laka.lv>
+gconf-editor,336,0,0,98,0,0,298,336,100.0,Latvian <locale@laka.lv>
+gdesklets,1227,0,301,181,0,23,1017,1528,80.30104712041884,Latvian <locale@laka.lv>
+gdm,1312,0,0,235,0,0,1152,1312,100.0,Latviešu <lata-l10n@googlegroups.com>
+gedit,5004,0,0,1108,0,0,4352,5004,100.0,Latviešu <kde-i18n-doc@kde.org>
+gedit-plugins,230,0,0,63,0,0,209,230,100.0,Latvian <locale@laka.lv>
+genius,6253,0,0,845,0,0,4992,6253,100.0,<lv@li.org>
+gettext,366,0,0,71,0,0,366,366,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+gftp,3219,107,49,622,8,4,2803,3375,95.37777777777777,Latvian <locale@laka.lv>
+ggz-base-libs,72,0,0,16,0,0,68,72,100.0,Latvian <locale@laka.lv>
+ggz-gtk-client,861,0,0,268,0,0,750,861,100.0,Latvian <locale@laka.lv>
+ghex,966,0,0,275,0,0,844,966,100.0,Latvian <locale@laka.lv>
+gigolo,462,33,5,122,8,3,416,500,92.4,Latviešu <rprieditis@gmail.com>
+gimp,13468,0,0,3244,0,0,11829,13468,100.0,Latviešu <lata-l10n@googlegroups.com>
+glade2,1163,170,4507,391,45,864,997,5840,19.914383561643838,Latvian <ll10nt@os.lv>
+glade3,570,0,4035,358,0,837,554,4605,12.37785016286645,Latvian <locale@laka.lv>
+glib2,649,529,1345,71,95,249,527,2523,25.723345223939752,Latvian <ll10nt@os.lv>
+glunarclock,226,0,0,70,0,0,200,226,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+gmpc,32,0,1371,23,0,442,57,1403,2.2808267997148968,Latvian <lv@li.org>
+gnome-applet-timer,167,0,113,56,0,13,157,280,59.64285714285714,Latvian <lv@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,20,29,75.86206896551724,Latvian
+gnome-applets,3249,0,0,773,0,0,2985,3249,100.0,Latvian <locale@laka.lv>
+gnome-backgrounds,23,0,0,17,0,0,22,23,100.0,Latvian <locale@laka.lv>
+gnome-bluetooth,593,0,0,157,0,0,549,593,100.0,Latvian <lata-l10n@googlegroups.com>
+gnome-desktop,349,0,0,53,0,0,298,349,100.0,Latviešu <kde-i18n-doc@kde.org>
+gnome-do,50,0,420,24,0,95,48,470,10.638297872340425,Latvian <lv@li.org>
+gnome-doc-utils,238,0,0,92,0,0,237,238,100.0,Latvian <locale@laka.lv>
+gnome-games,7429,0,0,1767,0,0,6214,7429,100.0,Latvian <locale@laka.lv>
+gnome-icon-theme,20,0,0,16,0,0,20,20,100.0,Latvian <locale@laka.lv>
+gnome-keyring,1246,0,0,237,0,0,1021,1246,100.0,Latviešu <lata-l10n@googlegroups.com>
+gnome-libs,988,40,57,381,4,10,901,1085,91.05990783410138,Latvian <peterisk@apollo.lv>
+gnome-mag,298,0,0,42,0,0,263,298,100.0,Latvian <locale@laka.lv>
+gnome-media,2141,0,0,594,0,0,1912,2141,100.0,Latvian <locale@laka.lv>
+gnome-menus,157,0,0,56,0,0,146,157,100.0,Latvian <locale@laka.lv>
+gnome-mime-data,797,21,9,330,8,3,784,827,96.37243047158404,Latvian <ll10nt@os.lv>
+gnome-netstatus,418,0,0,106,0,0,370,418,100.0,Latvian <locale@laka.lv>
+gnome-nettool,523,0,0,206,0,0,498,523,100.0,Latvian <locale@laka.lv>
+gnome-packagekit,5361,0,0,872,0,0,4978,5361,100.0,Latviešu <lata-l10n@googlegroups.com>
+gnome-panel,4487,0,0,615,0,0,3792,4487,100.0,Latvian <locale@laka.lv>
+gnome-phone-manager,521,0,0,92,0,0,422,521,100.0,Latvian <locale@laka.lv>
+gnome-pilot,1713,0,0,334,0,0,1528,1713,100.0,Latviešu <en@li.org>
+gnome-pilot-conduits,191,0,18,48,0,2,168,209,91.38755980861244,Latvian <locale@laka.lv>
+gnome-power-manager,2184,317,285,355,47,25,1891,2786,78.39195979899498,Latvian <locale@laka.lv>
+gnome-screensaver,989,0,0,157,0,0,811,989,100.0,Latviešu <kde-i18n-doc@kde.org>
+gnome-session,621,0,58,112,0,1,545,679,91.4580265095729,Latvian <locale@laka.lv>
+gnome-settings-daemon,412,126,496,72,30,69,340,1034,39.845261121856865,Latvian <locale@laka.lv>
+gnome-system-monitor,918,0,0,239,0,0,816,918,100.0,Latvian <locale@laka.lv>
+gnome-terminal,3815,0,113,449,0,3,3166,3928,97.12321792260693,Latviešu <kde-i18n-doc@kde.org>
+gnome-themes,109,0,0,30,0,0,105,109,100.0,Latvian <locale@laka.lv>
+gnome-user-share,326,0,0,51,0,0,280,326,100.0,Latviešu <lata-l10n@googlegroups.com>
+gnome-utils,4172,0,114,720,0,3,3417,4286,97.3401773215119,Latvian <locale@laka.lv>
+gnome-vfs2,1508,0,0,301,0,0,1322,1508,100.0,Latvian <locale@laka.lv>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Latviešu <lata-l10n@googlegroups.com>
+gnomebaker,23,185,971,11,22,257,20,1179,1.9508057675996608,Latvian <lv@li.org>
+gnomeradio,443,0,0,100,0,0,378,443,100.0,Latvian <ll10nt@os.lv>
+gnotime,854,362,792,220,91,118,751,2008,42.52988047808765,Latvian <peterisk@apollo.lv>
+gnucash,24748,684,880,3914,110,65,20014,26312,94.05594405594405,Latvian <translation-team-lv@lists.sourceforge.net>
+gnumeric,414,2428,32204,158,881,4603,385,35046,1.1813045711350796,Latvian <ll10nt@os.lv>
+goffice,6,620,3973,5,339,1216,6,4599,0.1304631441617743,Latvian <ll10nt@os.lv>
+gok,1867,0,0,429,0,0,1710,1867,100.0,Latvian <locale@laka.lv>
+gourmet,0,0,3647,0,0,868,0,3647,0.0,Latvian <lv@li.org>
+gparted,1581,0,0,325,0,0,1431,1581,100.0,Latviešu <kde-i18n-doc@kde.org>
+grass,3674,10774,30191,701,2006,4728,3388,44639,8.230471112704137,Latvian <grass-translations@lists.osgeo.org>
+griffith,169,0,1707,129,0,322,168,1876,9.008528784648187,Latvian <lv@li.org>
+gstreamer-plugins-bad-free,72,0,0,12,0,0,63,72,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+gstreamer-plugins-base,667,0,0,136,0,0,585,667,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+gstreamer-plugins-good,750,0,0,180,0,0,663,750,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+gthumb,2575,0,543,880,0,39,2325,3118,82.58499037844771,Latvian <locale@laka.lv>
+gtk2,11846,330,1528,2565,58,161,9702,13704,86.44191476941039,Latviešu <kde-i18n-doc@kde.org>
+gtkhtml3,713,0,0,366,0,0,666,713,100.0,Latviešu <lata-l10n@googlegroups.com>
+gtksourceview,849,0,0,342,0,0,804,849,100.0,Latvian <locale@laka.lv>
+gtksourceview2,891,0,0,366,0,0,840,891,100.0,Latvian <locale@laka.lv>
+gtkspell,11,0,0,5,0,0,10,11,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+gucharmap,772,0,0,281,0,0,735,772,100.0,Latvian <locale@laka.lv>
+gvfs,366,0,968,135,0,189,352,1334,27.436281859070466,en_US <locale@laka.lv>
+gwget,543,0,0,192,0,0,489,543,100.0,Latvian <locale@laka.lv>
+gwibber,22,0,23,14,0,10,22,45,48.888888888888886,Latvian <lv@li.org>
+hamster-applet,644,0,0,163,0,0,619,644,100.0,Latviešu <lata-l10n@googlegroups.com>
+hello,65,8,101,13,2,12,59,174,37.35632183908046,Latvian <translations@lv.quite.net>
+homebank,1476,0,33,527,0,7,1300,1509,97.8131212723658,gnome-gimp.doc.lv.2010-12-13 <kde-i18n-doc@kde.org>
+horde,773,0,0,172,0,0,588,773,100.0,Latvian <i18n@lists.horde.org>
+icewm,815,558,3,242,4,1,775,1376,59.229651162790695,
+im-chooser,2,63,148,1,11,36,2,213,0.9389671361502347,none
+imp,2166,0,0,479,0,0,1711,2166,100.0,Latvian <i18n@lists.horde.org>
+imsettings,0,77,902,0,13,142,0,979,0.0,none
+ingo,626,0,0,179,0,0,517,626,100.0,i18n@lists.horde.org
+initscripts,2170,750,1487,571,234,282,1870,4407,49.23984570002269,Latvian
+iso-codes,1512,4890,12387,725,4293,8182,1223,18789,8.047261695672999,Latvian <translation-team-lv@lists.sourceforge.net>
+isomaster,674,0,0,107,0,0,599,674,100.0,Latvian <rprieditis@gmail.com>
+jokosher,1242,0,817,308,0,101,1075,2059,60.32054395337543,Latvian <lv@li.org>
+k3b,4183,1217,129,702,111,22,3666,5529,75.6556339301863,Latvian <locale@laka.lv>
+kcoloredit,278,0,0,95,0,0,255,278,100.0,Latvian <locale@laka.lv>
+kde-partitionmanager,1352,178,1202,321,25,107,1177,2732,49.487554904831626,Latvian <locale@laka.lv>
+kde-plasma-networkmanagement,8,592,1613,6,262,424,9,2213,0.36150022593764125,Lavtian <locale@laka.lv>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kgrab,370,0,0,53,0,0,290,370,100.0,Latvian <locale@laka.lv>
+kiconedit,49,33,644,24,15,116,46,726,6.749311294765841,Latvian <locale@laka.lv>
+kio_gopher,17,0,0,5,0,0,15,17,100.0,Latvian <locale@laka.lv>
+kipi-plugins,1552,1089,1122,373,174,113,1392,3763,41.243688546372574,Latvian <locale@laka.lv>
+kmplayer,470,25,753,186,10,174,434,1248,37.66025641025641,Lavtian <locale@laka.lv>
+koffice-kivio,4386,1009,3022,1398,252,711,3991,8417,52.10882737317334,Latvian <locale@laka.lv>
+konq-plugins,1665,18,9,538,3,5,1580,1692,98.40425531914893,Latvian <locale@laka.lv>
+kpilot,79,583,6494,28,194,639,62,7156,1.1039686975964227,Lavtian <locale@laka.lv>
+kronolith,775,0,0,227,0,0,625,775,100.0,Latvian <ivars@kraslava.lv>
+ktorrent,7562,0,0,1329,0,0,6235,7562,100.0,Latvian <locale@laka.lv>
+leafpad,125,0,0,68,0,0,126,125,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+libbonobo,543,0,0,107,0,0,467,543,100.0,Latvian <locale@laka.lv>
+libbonoboui,368,0,0,115,0,0,318,368,100.0,Latvian <locale@laka.lv>
+libgdl,602,0,0,93,0,0,506,602,100.0,en_US <locale@laka.lv>
+libgnome,1358,0,414,232,0,41,1148,1772,76.63656884875847,Latvian <locale@laka.lv>
+libgnome-keyring,44,0,0,9,0,0,35,44,100.0,Latviešu <lata-l10n@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,323,378,100.0,Latvian <locale@laka.lv>
+libgnomekbd,286,0,0,59,0,0,239,286,100.0,Latviešu <lata-l10n@googlegroups.com>
+libgnomeprint22,168,0,0,98,0,0,161,168,100.0,Latvian <locale@laka.lv>
+libgnomeprintui22,481,0,0,154,0,0,397,481,100.0,Latvian <locale@laka.lv>
+libgnomeui,1226,0,0,320,0,0,1018,1226,100.0,Latvian <locale@laka.lv>
+libgtop2,126,0,0,40,0,0,125,126,100.0,Latvian <locale@laka.lv>
+libgweather,3885,9,2208,2933,5,1622,3852,6102,63.667649950835795,Latvian <locale@laka.lv>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libktorrent,417,0,0,92,0,0,373,417,100.0,Latvian <locale@laka.lv>
+libuser,256,8,850,64,2,167,231,1114,22.980251346499102,Latvian
+libvirt,1103,11086,7994,259,2054,1186,1103,20183,5.464995293068424,none
+libwnck,88,0,0,33,0,0,104,88,100.0,Latvian <locale@laka.lv>
+libxfce4menu,31,0,0,5,0,0,25,31,100.0,Latvian <rprieditis@inbox.lv>
+libxfce4ui,128,8,0,29,1,0,100,136,94.11764705882352,Latvian <translation-team-lv@lists.sourceforge.net>
+libxfce4util,424,0,0,7,0,0,347,424,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+libxfcegui4,234,0,0,61,0,0,184,234,100.0,Latvian <RPrieditis@gmail.com>
+listen,181,1,1601,87,1,461,173,1783,10.151430173864274,Latvian <lv@li.org>
+lxmenu-data,86,9,2,34,2,1,80,97,88.65979381443299,Latvian <locale@laka.lv>
+metacity,3821,0,0,406,0,0,3274,3821,100.0,Latviešu <kde-i18n-doc@kde.org>
+mingw32-atk,375,0,0,126,0,0,337,375,100.0,Latvian <locale@laka.lv>
+mingw32-glib2,649,529,1345,71,95,249,527,2523,25.723345223939752,Latvian <ll10nt@os.lv>
+mingw32-gtk2,11846,330,1528,2565,58,161,9702,13704,86.44191476941039,Latviešu <kde-i18n-doc@kde.org>
+mingw32-gtkhtml3,912,0,0,405,0,0,839,912,100.0,Latvian <locale@laka.lv>
+moin,3626,488,857,731,31,157,3066,4971,72.94306980486823,
+monkey-bubble,309,0,0,86,0,0,279,309,100.0,Latvian <locale@laka.lv>
+mousepad,135,0,0,64,0,0,128,135,100.0,Latvian <RPrieditis@gmail.com>
+mutter,3607,0,201,410,0,1,3098,3808,94.72163865546219,Latvian <locale@laka.lv>
+mutter-mbl,3607,0,201,410,0,1,3098,3808,94.72163865546219,Latvian <locale@laka.lv>
+nautilus,8796,0,0,1416,0,0,7466,8796,100.0,Latviešu <lata-l10n@googlegroups.com>
+nautilus-actions,1132,320,102,135,24,11,905,1554,72.84427284427284,Latvian <locale@laka.lv>
+nautilus-sendto,310,0,0,65,0,0,255,310,100.0,American English <kde-i18n-doc@kde.org>
+nautilus-terminal,108,0,2,36,0,1,108,110,98.18181818181819,Latvian <lv@li.org>
+network-manager-netbook,473,0,0,144,0,0,424,473,100.0,Latviešu <kde-i18n-doc@kde.org>
+neverball,441,51,2179,195,7,188,417,2671,16.510670160988393,Latvian
+oggconvert,132,0,0,44,0,0,120,132,100.0,Latviešu <kde-i18n-doc@kde.org>
+openbox,504,0,0,95,0,0,433,504,100.0,Latvian <locale@laka.lv>
+orage,1885,66,159,735,16,18,1759,2110,89.33649289099526,Latvian <RPrieditis@gmail.com>
+orca,2098,0,411,784,0,148,1986,2509,83.61897170187326,Latvian <locale@laka.lv>
+pan,220,1229,839,82,364,154,210,2288,9.615384615384617,Latvian <ll10nt@os.lv>
+parole,357,22,60,153,7,17,346,439,81.32118451025056,Latvian <translation-team-lv@lists.sourceforge.net>
+pessulus,146,0,0,35,0,0,126,146,100.0,Latviešu <lata-l10n@googlegroups.com>
+pgadmin3,6276,607,2793,2136,154,406,5794,9676,64.86151302190987,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+pino,320,8,24,117,2,8,273,352,90.9090909090909,
+pitivi,1306,0,0,296,0,0,1129,1306,100.0,American English <kde-i18n-doc@kde.org>
+planner,1744,0,0,511,0,0,1575,1744,100.0,Latvian <locale@laka.lv>
+poedit,1017,119,26,242,25,2,895,1162,87.52151462994836,Latvian <ll10nt@os.lv>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,1790,10,624,412,4,43,1572,2424,73.84488448844884,LANGUAGE <LL@li.org>
+publican,332,563,199,21,19,32,276,1094,30.347349177330894,Latvian <kde-i18n-doc@kde.org>
+publican-fedora,106,0,1,5,0,1,78,107,99.06542056074767,Latvian <kde-i18n-doc@kde.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+pyroom,5,0,406,3,0,71,5,411,1.2165450121654502,Latvian <lv@li.org>
+redhat-menus,252,0,1,80,0,1,225,253,99.60474308300395,Latvian
+rhn-client-tools,0,0,4820,0,0,454,0,4820,0.0,LANGUAGE <LL@li.org>
+rhnsd,42,0,0,10,0,0,41,42,100.0,Latvian <locale@laka.lv>
+rhythmbox,4797,0,0,1131,0,0,4298,4797,100.0,Latviešu <lata-i10n@googlegroups.com>
+ristretto,76,30,81,23,10,24,65,187,40.64171122994652,Latvian <rprieditis@inbox.lv>
+sabayon,497,93,146,122,17,27,474,736,67.52717391304348,Latvian <locale@laka.lv>
+seahorse,3061,0,0,657,0,0,2695,3061,100.0,Latviešu <lata-l10n@googlegroups.com>
+seahorse-plugins,1148,0,0,243,0,0,1041,1148,100.0,Latviešu <lata-l10n@googlegroups.com>
+setroubleshoot,0,0,563,0,0,168,0,563,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7818,0,0,364,0,7818,0.0,LANGUAGE <LL@li.org>
+setuptool,47,8,0,13,1,0,43,55,85.45454545454545,Latvian <locale@laka.lv>
+shared-mime-info,1436,0,0,579,0,0,1397,1436,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+shotwell,1551,0,0,363,0,0,1462,1551,100.0,Latviešu <lata-i10n@googlegroups.com>
+skanlite,81,20,41,31,4,16,73,142,57.04225352112676,Latvian <locale@laka.lv>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,1022,0,0,198,0,0,881,1022,100.0,Latviešu <kde-i18n-doc@kde.org>
+squirrelmail,6014,0,0,1164,0,0,5250,6014,100.0,Latvian <squirrelmail-i18n@lists.sourceforge.net>
+stellarium,468,0,1939,166,0,775,427,2407,19.443290402991277,Latvian <lv@li.org>
+switchdesk,137,0,0,19,0,0,112,137,100.0,latvian <locale@laka.lv>
+sysstat,447,0,0,51,0,0,434,447,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+system-config-boot,41,2,76,9,1,13,33,119,34.45378151260504,latvian <locale@laka.lv>
+system-config-date,793,105,852,576,40,183,825,1750,45.31428571428571,latvian <locale@laka.lv>
+system-config-date-docs,0,0,728,0,0,53,0,728,0.0,LANGUAGE <LL@li.org>
+system-config-display,255,152,8,61,5,3,227,415,61.44578313253012,latvian <locale@laka.lv>
+system-config-firewall,8,117,2682,5,26,299,8,2807,0.28500178126113285,latvian <locale@laka.lv>
+system-config-kdump,224,65,518,12,18,108,152,807,27.757125154894673,Latvian <locale@laka.lv>
+system-config-keyboard,169,18,0,71,10,0,154,187,90.37433155080214,latvian <locale@laka.lv>
+system-config-language,36,9,278,7,2,47,25,323,11.145510835913312,latvian <locale@laka.lv>
+system-config-nfs,306,0,26,68,0,4,263,332,92.16867469879519,Latvian <locale@laka.lv>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,439,0,2671,115,0,640,370,3110,14.115755627009646,LANGUAGE <LL@li.org>
+system-config-rootpassword,116,0,0,19,0,0,94,116,100.0,Latvian
+system-config-samba,319,9,207,110,2,18,280,535,59.62616822429907,JAST <jast@cc.lv>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,24,0,380,10,0,47,22,404,5.9405940594059405,Latvian <locale@laka.lv>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1278,0,178,157,0,17,995,1456,87.77472527472527,Latvian
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,134,134,100.0,JAST <jast@cc.lv>
+terminator,218,0,0,100,0,0,205,218,100.0,Latvian <lv@li.org>
+thunar-vcs-plugin,404,61,33,224,40,15,412,498,81.12449799196787,Latvian <translation-team-lv@lists.sourceforge.net>
+thunar-volman,370,0,0,85,0,0,326,370,100.0,Latvian <rprieditis@inbox.lv>
+tomboy,3056,0,0,436,0,0,2663,3056,100.0,Latviešu <lata-l10n@googlegroups.com>
+totem,2611,0,0,592,0,0,2294,2611,100.0,Latviešu <lata-l10n@googlegroups.com>
+totem-pl-parser,28,0,0,7,0,0,20,28,100.0,American English <kde-i18n-doc@kde.org>
+transifex,3899,110,649,743,20,54,3198,4658,83.70545298411335,Latvian <translation-team-lv@lists.sourceforge.net>
+transmission,1642,0,0,449,0,0,1690,1642,100.0,Latviešu <lata-l10n@googlegroups.com>
+tumbler,165,35,45,28,5,7,136,245,67.3469387755102,Latvian <translation-team-lv@lists.sourceforge.net>
+turba,502,0,0,114,0,0,342,502,100.0,Latvian <i18n@lists.horde.org>
+tuxpaint,489,558,200,138,65,49,465,1247,39.21411387329591,Valoda <raivucis@gmail.com>
+tuxpaint-stamps,979,746,892,272,201,153,634,2617,37.40924722965227,
+usermode,564,0,0,95,0,0,479,564,100.0,Latvian
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net
+viking,21,0,1905,10,0,515,21,1926,1.0903426791277258,Latvian <lv@li.org>
+vinagre,1609,0,0,274,0,0,1364,1609,100.0,Latviešu <lata-l10n@googlegroups.com>
+vino,1215,0,0,136,0,0,1044,1215,100.0,Latviešu <lata-l10n@googlegroups.com>
+vte,84,0,0,14,0,0,75,84,100.0,Latvian <lata-i18n@groups.google.com>
+webkitgtk,688,0,0,167,0,0,614,688,100.0,Latviešu <lata-l10n@googlegroups.com>
+wesnoth,36478,124,190320,3159,5,10998,31192,226922,16.075127136196578,none
+wormux,625,795,496,154,89,84,687,1916,32.620041753653446,Latvian <locale@laka.lv>
+wxGTK,535,419,5437,207,113,1155,503,6391,8.371146925363792,wxWidgets translators <wx-translators@wxwindows.org>
+wxPython,2773,436,5457,887,120,1160,2715,8666,31.998615278098313,wxWidgets translators <wx-translators@wxwindows.org>
+xcdroast,4092,267,3685,452,42,354,3244,8044,50.87021382396818,<lv@li.org>
+xchat-gnome,310,3119,472,157,742,81,285,3901,7.946680338374776,Latvian <locale@laka.lv>
+xchm,142,31,49,59,13,19,119,222,63.96396396396396,
+xdg-user-dirs,26,2,0,26,2,0,26,28,92.85714285714286,Latvian <translation-team-lv@lists.sourceforge.net>
+xfburn,1285,5,10,279,3,1,1094,1300,98.84615384615385,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce-utils,131,0,0,36,0,0,114,131,100.0,Latvian <rprieditis@gmail.com>
+xfce4-appfinder,84,0,0,19,0,0,78,84,100.0,Latvian <rprieditis@gmail.com>
+xfce4-battery-plugin,123,0,0,31,0,0,115,123,100.0,Latvian <rprieditis@inbox.lv>
+xfce4-clipman-plugin,234,0,0,42,0,0,187,234,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-cpugraph-plugin,44,0,0,25,0,0,42,44,100.0,Latvian <rprieditis@inbox.lv>
+xfce4-datetime-plugin,48,0,0,19,0,0,45,48,100.0,Latvian <rprieditis@inbox.lv>
+xfce4-dict,340,57,105,77,11,21,301,502,67.72908366533864,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-diskperf-plugin,185,0,0,38,0,0,166,185,100.0,Latvian <rprieditis@inbox.lv>
+xfce4-fsguard-plugin,62,2,0,18,1,0,65,64,96.875,Latvian <rprieditis@inbox.lv>
+xfce4-genmon-plugin,71,0,0,15,0,0,67,71,100.0,Latvian <Lrprieditis@inbox.lv>
+xfce4-icon-theme,8,0,0,2,0,0,5,8,100.0,Latvian <rprieditis@inbox.lv>
+xfce4-mount-plugin,283,11,4,42,1,1,230,298,94.96644295302013,Latvian <rprieditis@inbox.lv>
+xfce4-mpc-plugin,80,0,0,24,0,0,75,80,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-netload-plugin,68,0,0,21,0,0,65,68,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-notes-plugin,114,0,0,49,0,0,102,114,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-panel,540,0,0,167,0,0,486,540,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-places-plugin,43,0,0,19,0,0,44,43,100.0,
+xfce4-radio-plugin,52,0,0,22,0,0,50,52,100.0,Latvian <rprieditis@inbox.lv>
+xfce4-screenshooter,448,0,0,75,0,0,336,448,100.0,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-sensors-plugin,322,19,5,65,2,4,296,346,93.0635838150289,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-session,990,0,0,199,0,0,854,990,100.0,Latvian <rprieditis@gmail.com>
+xfce4-settings,1138,0,0,247,0,0,961,1138,100.0,Latvian <rprieditis@gmail.com>
+xfce4-systemload-plugin,51,4,8,16,1,1,52,63,80.95238095238095,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-taskmanager,9,22,92,9,12,24,10,123,7.317073170731707,Latvian <translation-team-lv@lists.sourceforge.net>
+xfce4-timer-plugin,94,0,0,32,0,0,82,94,100.0,Latvian <rprieditis@inbox.lv>
+xfce4-verve-plugin,47,0,0,10,0,0,40,47,100.0,Latvian <rprieditis@inbox.lv>
+xfce4-wavelan-plugin,37,0,12,8,0,3,28,49,75.51020408163265,Latvian <rprieditis@inbox>
+xfce4-weather-plugin,511,31,13,240,10,7,501,555,92.07207207207207,Latvian <RPrieditis@inbox.lv>
+xfce4-xkb-plugin,6,20,35,3,7,7,6,61,9.836065573770492,Latvian <rprieditis@inbox.lv>
+xfconf,431,0,0,62,0,0,355,431,100.0,latvian <rprieditis@gmail.com>
+xfdesktop,1004,0,0,268,0,0,880,1004,100.0,Latvian <rprieditis@gmail.com>
+xfprint,321,1,0,112,1,0,275,322,99.68944099378882,Latvian <RPrieditis@gmail.com>
+xfwm4,797,0,0,224,0,0,741,797,100.0,Latvian <rprieditis@gmail.com>
+xiphos,243,27,3545,149,12,665,230,3815,6.36959370904325,Latvian <lv@li.org>
+xmms,1313,500,1630,622,153,270,1276,3443,38.135347081033984,Latvian
+xmoto,2697,58,836,560,13,190,2318,3591,75.10442773600668,Latvian
+xpad,38,0,325,21,0,56,45,363,10.46831955922865,Latvian <lv@li.org>
+yelp,1094,0,0,357,0,0,993,1094,100.0,Latvian <lata-i18n@groups.google.com>
+yum-rhn-plugin,55,0,52,8,0,6,44,107,51.4018691588785,LANGUAGE <LL@li.org>
+zenity,592,0,0,136,0,0,539,592,100.0,Latviešu <lata-l10n@googlegroups.com>

@@ -1,0 +1,126 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,15696,41,82,2777,1,2,16045,15819,99.22245401099943,Serbian <kde-i18n-sr@kde.org>
+atk,359,8,8,114,7,5,336,375,95.73333333333333,Serbian (sr) <gnom@prevod.org>
+bluedevil,573,0,0,191,0,0,548,573,100.0,Serbian <kde-i18n-sr@kde.org>
+falkon,3209,443,466,1069,94,140,3118,4118,77.92617775619233,
+file-roller,799,138,34,205,32,7,766,971,82.28630278063852,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gdk-pixbuf2,915,376,57,137,59,6,884,1348,67.87833827893175,Serbian (sr) <serbiangnome-lista@nongnu.org>
+glib2,706,736,3335,106,134,507,648,4777,14.779150094201382,Serbian (sr) <serbiagnome-lista@nongnu.org>
+gnome-mime-data,887,0,0,362,0,0,943,887,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-vfs2,747,352,183,165,51,32,706,1282,58.268330733229334,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gtk2,6886,3508,3310,1245,811,728,6448,13704,50.248102743724466,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gtk3,5264,3291,3298,974,785,728,4900,11853,44.41069771365899,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gtk4,5264,3291,3298,974,785,728,4900,11853,44.41069771365899,Serbian (sr) <serbiangnome-lista@nongnu.org>
+kactivitymanagerd,9,0,0,4,0,0,10,9,100.0,Serbian <kde-i18n-sr@kde.org>
+kaudiocreator,1123,8,5,270,1,2,1042,1136,98.8556338028169,Serbian <kde-i18n-sr@kde.org>
+kde-cli-tools,2188,0,0,228,0,0,1853,2188,100.0,Serbian <kde-i18n-sr@kde.org>
+kde-connect,579,100,41,151,5,17,548,720,80.41666666666667,Serbian <kde-i18n-sr@kde.org>
+kde-gtk-config,309,0,0,76,0,0,285,309,100.0,Serbian <kde-i18n-sr@kde.org>
+kde-l10n,102050,0,0,20502,0,0,99136,102050,100.0,Serbian <kde-i18n-sr@kde.org>
+kde-partitionmanager,2299,0,0,523,0,0,2278,2299,100.0,Serbian <kde-i18n-sr@kde.org>
+kdeplasma-addons,982,585,45,323,256,17,958,1612,60.9181141439206,Serbian <kde-i18n-sr@kde.org>
+kf5-baloo,506,48,114,123,7,34,437,668,75.74850299401199,Serbian <kde-i18n-sr@kde.org>
+kf5-kauth,73,0,0,8,0,0,65,73,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,213,230,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kcmutils,563,1,0,71,1,0,542,564,99.822695035461,Serbian <kde-i18n-sr@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,269,348,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,18,18,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kconfig,259,2,0,99,1,0,264,261,99.23371647509579,Serbian <kde-i18n-sr@kde.org>
+kf5-kconfigwidgets,321,0,0,117,0,0,333,321,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kcoreaddons,301,0,32,95,0,30,314,333,90.39039039039038,Serbian <kde-i18n-sr@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,42,48,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,95,109,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,4799,4813,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,48,54,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdesu,19,0,0,7,0,0,18,19,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kfilemetadata,135,5,25,70,4,13,134,165,81.81818181818183,Serbian <kde-i18n-sr@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,58,71,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kholidays,109,0,0,77,0,0,105,109,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1555,1721,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kiconthemes,26,11,0,17,1,0,27,37,70.27027027027027,Serbian <kde-i18n-sr@kde.org>
+kf5-kinit,134,0,0,14,0,0,122,134,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kio,11747,170,280,1287,31,27,10712,12197,96.31056817250143,Serbian <kde-i18n-sr@kde.org>
+kf5-kirigami2,6,4,0,4,2,0,6,10,60.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,8,7,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kjobwidgets,123,0,0,36,0,0,147,123,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,255,248,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-knewstuff,689,1,0,157,1,0,718,690,99.85507246376811,Serbian <kde-i18n-sr@kde.org>
+kf5-knotifications,18,0,0,6,0,0,17,18,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,109,129,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kpackage,427,68,0,95,2,0,427,495,86.26262626262627,Serbian <kde-i18n-sr@kde.org>
+kf5-kparts,104,0,0,26,0,0,94,104,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kpeople,21,0,0,11,0,0,19,21,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kross,100,0,0,35,0,0,99,100,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kservice,170,0,0,28,0,0,164,170,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-ktexteditor,8211,70,1,1186,7,1,7199,8282,99.14271914996378,Serbian <kde-i18n-sr@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,445,462,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kunitconversion,5266,26,20,2244,10,12,8408,5312,99.1340361445783,Serbian <kde-i18n-sr@kde.org>
+kf5-kwallet,1624,0,0,131,0,0,1397,1624,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kwidgetsaddons,1315,4,0,456,2,0,1213,1319,99.69673995451099,Serbian <kde-i18n-sr@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-kxmlgui,1511,91,0,227,1,0,1440,1602,94.31960049937578,Serbian <kde-i18n-sr@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,10,13,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-libktorrent,471,0,0,106,0,0,530,471,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-plasma,493,4,6,142,2,3,486,503,98.01192842942345,Serbian <kde-i18n-sr@kde.org>
+kf5-solid,682,0,0,222,0,0,597,682,100.0,Serbian <kde-i18n-sr@kde.org>
+kf5-sonnet,663,0,4,72,0,1,585,667,99.40029985007496,Serbian <kde-i18n-sr@kde.org>
+kf5-syntax-highlighting,440,7,64,287,5,23,435,511,86.10567514677103,Serbian <kde-i18n-sr@kde.org>
+kgamma,130,0,0,16,0,0,105,130,100.0,Serbian <kde-i18n-sr@kde.org>
+khotkeys,436,0,0,129,0,0,397,436,100.0,Serbian <kde-i18n-sr@kde.org>
+kid3,1897,3,433,823,1,129,1908,2333,81.31161594513502,Serbian <kde-i18n-sr@lists.kde.org>
+kinfocenter,2916,5,4,1009,2,3,2782,2925,99.6923076923077,Serbian <kde-i18n-sr@kde.org>
+kmenuedit,277,0,0,61,0,0,259,277,100.0,Serbian <kde-i18n-sr@kde.org>
+kmid2,923,79,20,308,17,8,876,1022,90.31311154598825,Serbian <kde-i18n-sr@kde.org>
+knemo,1236,0,0,352,0,0,1212,1236,100.0,Serbian <kde-i18n-sr@kde.org>
+knights,757,0,0,219,0,0,703,757,100.0,Serbian <kde-i18n-sr@kde.org>
+konversation,10294,0,0,1638,0,0,9643,10294,100.0,Serbian <kde-i18n-sr@kde.org>
+kpmcore,3203,0,0,479,0,0,3188,3203,100.0,Serbian <kde-i18n-sr@kde.org>
+krusader,7787,36,112,1718,10,13,7525,7935,98.13484562066793,Serbian <kde-i18n-sr@kde.org>
+kscreen,175,0,18,53,0,6,171,193,90.67357512953367,Serbian <kde-i18n-sr@kde.org>
+kscreenlocker,189,62,1,32,2,1,171,252,75.0,Serbian <kde-i18n-sr@kde.org>
+ksshaskpass,43,0,0,12,0,0,37,43,100.0,Serbian <kde-i18n-sr@kde.org>
+ksysguard,1059,15,8,228,6,3,878,1082,97.87430683918669,Serbian <kde-i18n-sr@kde.org>
+ktorrent,7538,0,0,1382,0,0,6664,7538,100.0,Serbian <kde-i18n-sr@kde.org>
+kwebkitpart,642,0,0,147,0,0,590,642,100.0,Serbian <kde-i18n-sr@kde.org>
+kwin,6202,20,17,1200,9,10,5558,6239,99.40695624298766,Serbian <kde-i18n-sr@kde.org>
+libbonoboui,314,7,39,92,3,18,323,360,87.22222222222223,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgnome,1407,0,0,219,0,0,1370,1407,100.0,Serbian (sr) <gnom@prevod.org>
+libgnomecanvas,357,0,0,94,0,0,369,357,100.0,Serbian (sr) <serbiagnome-lista@nongnu.org>
+libgnomeui,1270,83,66,314,19,12,1175,1419,89.49964763918253,Serbian (sr) <gnom@prevod.org>
+libksysguard,3166,0,0,396,0,0,2711,3166,100.0,Serbian <kde-i18n-sr@kde.org>
+libktorrent,519,0,0,115,0,0,553,519,100.0,Serbian <kde-i18n-sr@kde.org>
+mingw-atk,359,8,8,114,7,5,336,375,95.73333333333333,Serbian (sr) <gnom@prevod.org>
+mingw-gdk-pixbuf,915,376,57,137,59,6,884,1348,67.87833827893175,Serbian (sr) <serbiangnome-lista@nongnu.org>
+mingw-glib2,706,736,3335,106,134,507,648,4777,14.779150094201382,Serbian (sr) <serbiagnome-lista@nongnu.org>
+mingw-gtk2,6886,3508,3310,1245,811,728,6448,13704,50.248102743724466,Serbian (sr) <serbiangnome-lista@nongnu.org>
+mingw-gtk3,5264,3291,3298,974,785,728,4900,11853,44.41069771365899,Serbian (sr) <serbiangnome-lista@nongnu.org>
+nautilus,6241,524,211,1094,97,23,5750,6976,89.46387614678899,Serbian (sr) <serbiangnome-lista@nongnu.org>
+plasma-applet-redshift-control,62,0,0,30,0,0,64,62,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-breeze,259,2,6,94,1,6,255,267,97.00374531835206,Serbian <kde-i18n-sr@kde.org>
+plasma-browser-integration,11,0,0,3,0,0,11,11,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-desktop,11333,261,391,2234,47,92,11228,11985,94.5598664997914,Serbian <kde-i18n-sr@kde.org>
+plasma-discover,1112,47,103,331,17,36,1272,1262,88.11410459587957,Serbian <kde-i18n-sr@kde.org>
+plasma-drkonqi,4010,5,0,376,1,0,3551,4015,99.87546699875467,Serbian <kde-i18n-sr@kde.org>
+plasma-integration,58,0,0,21,0,0,54,58,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,185,172,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-milou,42,0,0,17,0,0,36,42,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-nm,4372,0,0,1105,0,0,4188,4372,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-oxygen,808,0,0,295,0,0,806,808,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-pa,169,2,13,71,1,3,168,184,91.84782608695652,Serbian <kde-i18n-sr@kde.org>
+plasma-sdk,851,0,1,249,0,1,837,852,99.88262910798123,Serbian <kde-i18n-sr@kde.org>
+plasma-systemsettings,224,0,0,55,0,0,234,224,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-user-manager,295,0,0,49,0,0,345,295,100.0,Serbian <kde-i18n-sr@kde.org>
+plasma-vault,469,56,110,54,10,9,404,635,73.85826771653544,Serbian <kde-i18n-sr@kde.org>
+plasma-workspace,6903,114,47,2209,24,17,6780,7064,97.72083805209513,Serbian <kde-i18n-sr@kde.org>
+plymouth-kcm,122,0,0,24,0,0,116,122,100.0,Serbian <kde-i18n-sr@kde.org>
+polkit-kde,90,2,2,27,1,2,77,94,95.74468085106383,Serbian <kde-i18n-sr@kde.org>
+powerdevil,673,0,0,120,0,0,623,673,100.0,Serbian <kde-i18n-sr@kde.org>
+rekonq,2202,0,0,593,0,0,2155,2202,100.0,Serbian <kde-i18n-sr@kde.org>
+sddm-kcm,104,0,0,43,0,0,105,104,100.0,Serbian <kde-i18n-sr@kde.org>
+wesnoth,2,0,16266,1,0,959,1,16268,0.012294074256208508,LANGUAGE <LL@li.org>
+xdg-desktop-portal-kde,7,4,49,5,2,16,9,60,11.666666666666666,Serbian <kde-i18n-sr@kde.org>
+yakuake,1573,0,0,221,0,0,1397,1573,100.0,Serbian <kde-i18n-sr@kde.org>

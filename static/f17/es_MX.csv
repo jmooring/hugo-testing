@@ -1,0 +1,28 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,5051,0,5,1583,0,5,5627,5056,99.90110759493672,Spanish (Mexico) (http://www.transifex.net/projects/p/django/language/es_MX/)
+audacious,716,0,0,291,0,0,869,716,100.0,Spanish (Mexican)
+audacious-plugins,3092,0,0,762,0,0,3709,3092,100.0,Spanish (Mexican)
+bisho,164,0,0,26,0,0,171,164,100.0,
+galculator,101,7,690,52,3,207,102,798,12.656641604010025,Spanish <es@li.org>
+gallery2,7731,2650,100,1085,562,12,8814,10481,73.76204560633526,Mexican Spanish <gallery-devel@lists.sourceforge.net>
+gentoo,1467,372,412,436,68,89,1689,2251,65.1710350955131,Language es-MX
+gnome-applets,3858,0,0,976,0,0,4894,3858,100.0,Spanish <traductores@es.gnome.org>
+gnomebaker,1059,44,83,266,6,19,1250,1186,89.29173693086003,Spanish (Mexico) <es_MX@li.org>
+gnue-common,153,403,1576,25,60,188,165,2132,7.176360225140713,Espa~ol/Mexico
+hotot,23,9,63,7,6,24,23,95,24.210526315789473,ktrionix-labs <ktrionixlabs@gmail.com>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,178,0,226,33,0,41,144,404,44.05940594059406,LANGUAGE <LL@li.org>
+inkscape,716,8098,17714,296,2732,2550,820,26528,2.699034981905911,none <none>
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmateweather,395,0,70,166,0,15,469,465,84.94623655913979,LANGUAGE <LL@li.org>
+libmx,40,0,0,16,0,0,46,40,100.0,
+lilyterm,473,446,417,91,66,78,548,1336,35.40419161676647,lilyterm
+mate-applets,2555,0,744,552,0,180,3118,3299,77.44771142770537,LANGUAGE <LL@li.org>
+openconnect,0,0,2573,0,0,469,0,2573,0.0,Spanish (Mexican) (http://www.transifex.net/projects/p/meego/team/es_MX/)
+openerp,18282,0,36765,4135,0,4403,20091,55047,33.211619161807185,Spanish (Mexico) <es_MX@li.org>
+pulsecaster,7,8,132,2,2,16,12,147,4.761904761904762,es_MX <LL@li.org>
+python-django-helpdesk,2945,0,0,444,0,0,3232,2945,100.0,Spanish (Mexican) (http://www.transifex.net/projects/p/django-helpdesk/team/es_MX/)
+radiotray,66,0,51,29,0,14,74,117,56.41025641025641,Spanish (Mexican) (http://www.transifex.net/projects/p/radiotray/team/es_MX/)
+tuxpaint,594,540,113,149,65,38,612,1247,47.634322373696875,Español <ggabriel@internet.com.uy>
+wicd,851,0,207,180,0,51,964,1058,80.43478260869566,es_MX <LL@li.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Spanish <es@li.org>

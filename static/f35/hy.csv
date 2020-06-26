@@ -1,0 +1,296 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4025,0,0,483,0,0,3888,4025,100.0,<norik@freenet.am>
+Thunar,12721,0,518,2245,0,107,9094,13239,96.08731777324572,Armenian (https://www.transifex.com/xfce/teams/16840/hy/)
+WindowMaker,2258,0,10,366,0,1,2008,2268,99.55908289241623,Armenian <norayr@arnet.am>
+accerciser,535,0,0,205,0,0,531,535,100.0,<norik@freenet.am>
+alacarte,42,0,0,16,0,0,39,42,100.0,<norik@freenet.am>
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Armenian (http://www.transifex.com/projects/p/fedora/language/hy/)
+anjuta,7981,0,0,2154,0,0,7563,7981,100.0,<norik@freenet.am>
+asunder,14,0,478,13,0,78,15,492,2.8455284552845526,http://littlesvr.ca/ostd/
+atk,375,0,0,126,0,0,338,375,100.0,<norik@freenet.am>
+atril,1435,0,2954,401,0,335,1283,4389,32.695374800637964,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+audacity,6055,6620,5831,1502,1789,1012,5805,18506,32.71911812385173,Armenian <aramvardanyan@gmx.com>
+blueberry,138,0,28,32,0,5,108,166,83.13253012048193,Armenian <hy@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,7900,0,1775,1415,0,189,7004,9675,81.65374677002583,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+caja-actions,140,0,18675,84,0,1432,138,18815,0.7440871644964124,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+caja-extensions,547,0,213,120,0,25,487,760,71.97368421052632,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+calibre,624,0,169850,252,0,19013,552,170474,0.36603822283750015,Armenian (http://www.transifex.com/calibre/calibre/language/hy/)
+catfish,1680,0,474,256,0,64,1362,2154,77.99442896935933,Eastern Armenian (https://www.transifex.com/xfce/teams/16840/hye/)
+chromium,11213,182,458,2121,76,290,9605,11853,94.60052307432717,<norik@freenet.am>
+cinnamon-desktop,108,0,123,13,0,18,93,231,46.75324675324675,<norayr@arnet.am>
+cinnamon-translations,338,0,10424,197,0,2453,341,10762,3.1406801709719385,Armenian <hy@li.org>
+clementine,43,0,5208,23,0,1368,48,5251,0.8188916396876786,Armenian (http://www.transifex.com/davidsansome/clementine/language/hy/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,10,6,968,7,1,171,9,984,1.0162601626016259,Armenian
+deepin-daemon,6,0,1097,6,0,238,6,1103,0.543970988213962,Armenian (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/hy/)
+deja-dup,1,0,1622,1,0,284,9,1623,0.06161429451632779,Armenian <hy@li.org>
+devhelp,414,0,0,105,0,0,369,414,100.0,<norik@freenet.am>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+electrum,440,0,8560,203,0,1440,422,9000,4.888888888888889,Armenian
+elementary-calculator,12,5,218,8,2,65,12,235,5.106382978723404,LANGUAGE <LL@li.org>
+elementary-calendar,150,79,659,78,27,153,145,888,16.89189189189189,Armenian <hy@li.org>
+elementary-camera,0,0,205,0,0,47,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,2,0,1606,2,0,305,2,1608,0.12437810945273632,LANGUAGE <LL@li.org>
+elementary-files,9,10,3650,6,6,652,10,3669,0.24529844644317253,Armenian <hy@li.org>
+elementary-greeter,6,0,213,2,0,46,6,219,2.73972602739726,Armenian <https://l10n.elementary.io/projects/desktop/greeter/hy/>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,349,74,782,179,18,157,336,1205,28.962655601659755,Armenian <hy@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,1,0,318,1,0,60,1,319,0.3134796238244514,Armenian <https://l10n.elementary.io/projects/desktop/sideload/hy/>
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,65,41,590,14,7,105,56,696,9.339080459770114,Armenian <hy@li.org>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,34,5,352,20,2,74,34,391,8.695652173913043,Armenian <hy@li.org>
+engrampa,1542,0,6296,341,0,552,1340,7838,19.673386067874457,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+eom,1630,0,3331,328,0,214,1467,4961,32.856278976012895,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+epiphany,1241,0,1760,367,0,385,1046,3001,41.35288237254249,ARMENIAN <armenian-gnome@arnet.am>
+exo,2211,0,6,432,0,3,1795,2217,99.72936400541272,Armenian (http://www.transifex.com/xfce/exo/language/hy/)
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+file-roller,955,0,3,239,0,2,837,958,99.68684759916493,<norik@freenet.am>
+filezilla,9670,0,0,1692,0,0,7721,9670,100.0,Hrant Ohanyan <h.ohanyan@haysoft.org>
+focuswriter,129,0,0,7,0,0,152,129,100.0,Armenian (http://www.transifex.com/gottcode/focuswriter/language/hy/)
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Armenian
+fragments,50,0,1956,24,0,502,66,2006,2.4925224327018944,Armenian (https://www.transifex.com/transmissionbt/teams/33778/hy/)
+gala,1,0,357,1,0,72,1,358,0.27932960893854747,Armenian <https://l10n.elementary.io/projects/desktop/gala/hy/>
+garcon,366,0,0,108,0,0,315,366,100.0,Eastern Armenian (http://www.transifex.com/xfce/garcon/language/hye/)
+gdk-pixbuf2,1250,98,0,194,8,0,1187,1348,92.7299703264095,<norik@freenet.am>
+gdm,1,40,609,1,9,77,1,650,0.15384615384615385,Armenian <norik@freenet.am>
+gedit,415,0,3917,156,0,877,357,4332,9.579870729455218,Armenian <norik@@freenet.am>
+gedit-plugins,5,55,1145,3,16,450,4,1205,0.4149377593360996,Armenian <norik@@freenet.am>
+gigolo,951,0,141,271,0,45,769,1092,87.08791208791209,Eastern Armenian (http://www.transifex.com/xfce/xfce-apps/language/hye/)
+glade,4298,0,0,1103,0,0,4031,4298,100.0,<norik@freenet.am>
+glib2,4085,304,388,643,42,62,3998,4777,85.51392087083944,Armenian <norik@freenet.am>
+gnome-applets,3327,13,4,780,4,1,3126,3344,99.49162679425837,<norayr@arnet.am>
+gnome-bluetooth,664,0,0,181,0,0,631,664,100.0,<norayr@arnet.am>
+gnome-calculator,361,0,767,119,0,137,351,1128,32.00354609929078,<norik@freenet.am>
+gnome-control-center,1906,0,0,480,0,0,1762,1906,100.0,<norayr@arnet.am>
+gnome-desktop3,345,4,0,52,1,0,326,349,98.8538681948424,<norayr@arnet.am>
+gnome-disk-utility,4544,0,0,1075,0,0,4122,4544,100.0,<norayr@arnet.am>
+gnome-menus,151,6,0,55,1,0,136,157,96.17834394904459,<norik@freenet.am>
+gnome-panel,3020,308,192,451,30,27,2615,3520,85.79545454545455,<norayr@arnet.am>
+gnome-session,570,0,0,103,0,0,546,570,100.0,<norik@freenet.am>
+gnome-shell-frippery,16,0,0,4,0,0,15,16,100.0,
+gnome-terminal,261,170,3463,117,47,273,236,3894,6.702619414483821,<norik@freenet.am>
+granite,31,17,450,18,6,94,31,498,6.2248995983935735,Armenian <hy@li.org>
+gtk2,1676,1279,10749,315,463,2006,1527,13704,12.230005837711618,<norik@freenet.am>
+gtk3,11213,182,458,2121,76,290,9605,11853,94.60052307432717,<norik@freenet.am>
+gtk4,11213,182,458,2121,76,290,9605,11853,94.60052307432717,<norik@freenet.am>
+gtkspell,11,0,0,5,0,0,10,11,100.0,Armenian <translation-team-hy@lists.sourceforge.net>
+gtkspell3,11,0,0,5,0,0,10,11,100.0,Armenian <translation-team-hy@lists.sourceforge.net>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Armenian (http://www.transifex.com/projects/p/initial-setup/language/hy/)
+inkscape,1128,9053,33424,385,3403,5369,1017,43605,2.586859305125559,Inkscape Armenian Translators <edo248@gmail.com>
+iso-codes,1059,24,3,440,8,3,856,1086,97.51381215469614,Armenian
+isomaster,21,1,652,18,1,88,23,674,3.115727002967359,http://littlesvr.ca/ostd/
+jmol,79,1,3086,68,1,952,77,3166,2.4952621604548324,Armenian <hy@li.org>
+kf5-kauth,0,38,35,0,4,4,0,73,0.0,Armenian Language: hy
+kf5-kcmutils,183,80,3,22,14,2,150,266,68.796992481203,Armenian Language: hy
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,Armenian Language: hy
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Armenian Language: hy
+kf5-kconfigwidgets,201,82,59,87,25,13,179,342,58.77192982456141,Armenian Language: hy
+kf5-kcoreaddons,0,307,71,0,93,38,0,378,0.0,Armenian Language: hy
+kf5-kdeclarative,62,62,33,9,8,7,59,157,39.490445859872615,Armenian Language: hy
+kf5-kdelibs4support,730,580,4043,224,371,1949,686,5353,13.63721277788156,Armenian <translation-team-hy@lists.sourceforge.net>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Armenian Language: hy
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Armenian Language: hy
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Armenian Language: hy
+kf5-khtml,1449,131,88,266,15,9,1083,1668,86.87050359712231,Armenian Language: hy
+kf5-ki18n,42,80,2,42,66,2,43,124,33.87096774193548,Armenian Language: hy
+kf5-kinit,90,26,0,8,3,0,52,116,77.58620689655173,Armenian Language: hy
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Armenian Language: hy
+kf5-kjobwidgets,0,133,0,0,38,0,0,133,0.0,Armenian Language: hy
+kf5-kjsembed,248,0,0,44,0,0,255,248,100.0,Armenian Language: hy
+kf5-knewstuff,345,214,1093,75,84,71,328,1652,20.883777239709442,Armenian Language: hy
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Armenian Language: hy
+kf5-knotifyconfig,86,43,0,16,1,0,59,129,66.66666666666666,Armenian Language: hy
+kf5-kparts,104,28,0,26,3,0,73,132,78.78787878787878,Armenian Language: hy
+kf5-kpty,15,0,0,4,0,0,14,15,100.0,Armenian Language: hy
+kf5-kross,82,18,0,29,6,0,72,100,82.0,Armenian Language: hy
+kf5-kservice,92,53,28,13,11,4,74,173,53.179190751445084,Armenian Language: hy
+kf5-ktextwidgets,450,13,10,118,9,3,410,473,95.13742071881607,Armenian Language: hy
+kf5-kwidgetsaddons,0,1227,77,0,447,20,0,1304,0.0,Armenian Language: hy
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Armenian Language: hy
+kf5-kxmlgui,957,538,79,121,99,10,806,1574,60.800508259212194,Armenian Language: hy
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Armenian Language: hy
+libbonobo,543,0,0,107,0,0,508,543,100.0,Armenian <norik@freenet.am>
+libfilezilla,383,0,0,75,0,0,343,383,100.0,Hrant Ohanyan <h.ohanyan@haysoft.org>
+libgdl,604,0,0,92,0,0,530,604,100.0,<norik@freenet.am>
+libgnomeui,362,0,1058,139,0,206,305,1420,25.492957746478872,
+libgweather,0,0,0,0,0,0,0,0,0.0,
+libmatekbd,256,0,52,54,0,37,241,308,83.11688311688312,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+libmatemixer,242,0,0,126,0,0,234,242,100.0,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+libmateweather,477,0,23,173,0,11,475,500,95.39999999999999,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+libmypaint,0,0,2303,0,0,162,0,2303,0.0,none
+libuser,0,0,1140,0,0,238,0,1140,0.0,LANGUAGE <LL@li.org>
+libxfce4ui,2096,0,775,498,0,78,1773,2871,73.00592128178334,Eastern Armenian (http://www.transifex.com/xfce/libxfce4ui/language/hye/)
+libxfce4util,1272,0,0,21,0,0,726,1272,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/libxfce4util/language/hy_AM/)
+lightdm,0,0,84,0,0,4,0,84,0.0,Armenian <hy@li.org>
+lxmenu-data,85,12,0,33,4,0,73,97,87.62886597938144,<norik@freenet.am>
+manafirewall,3,0,1094,3,0,130,3,1097,0.27347310847766637,Armenian (https://www.transifex.com/MageiaLinux/teams/9361/hy/)
+marco,3650,0,653,383,0,47,3323,4303,84.82454101789449,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-applets,2605,37,13315,632,8,1006,2405,15957,16.32512377013223,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-backgrounds,30,0,25,21,0,8,30,55,54.54545454545454,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-calc,1299,0,2024,476,0,273,1235,3323,39.091182666265425,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-control-center,2580,0,5668,666,0,845,2447,8248,31.28031037827352,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-desktop,1991,1,384,268,1,32,1791,2376,83.79629629629629,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-media,206,0,33,87,0,12,198,239,86.19246861924687,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-menu,294,0,14,107,0,3,287,308,95.45454545454545,Armenian (http://www.transifex.com/mate/MATE/language/hy/)
+mate-menus,98,0,5,38,0,1,86,103,95.14563106796116,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-notification-daemon,136,0,50,40,0,13,125,186,73.11827956989248,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-panel,4272,0,2448,617,0,197,3728,6720,63.57142857142857,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-polkit,123,0,0,21,0,0,105,123,100.0,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-power-manager,2444,0,2675,386,0,165,2281,5119,47.7436999413948,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-screensaver,987,0,114,158,0,18,855,1101,89.64577656675749,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-sensors-applet,15,14,2131,11,8,207,16,2160,0.6944444444444444,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-session-manager,652,0,63,121,0,11,619,715,91.18881118881119,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-settings-daemon,1783,0,423,262,0,57,1607,2206,80.82502266545785,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-system-monitor,958,0,3889,277,0,371,900,4847,19.76480297090984,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-terminal,4176,0,4210,527,0,276,3727,8386,49.79728118292392,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-themes,18,0,56,8,0,15,18,74,24.324324324324326,Armenian (http://www.transifex.com/mate/MATE/language/hy/)
+mate-user-admin,12,0,616,11,0,120,12,628,1.910828025477707,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-user-guide,146,0,42823,88,0,3140,151,42969,0.3397798412809235,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+mate-utils,3467,0,6593,700,0,426,3095,10060,34.463220675944335,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+metacity,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+mingw-GConf2,4025,0,0,483,0,0,3888,4025,100.0,<norik@freenet.am>
+mingw-atk,375,0,0,126,0,0,338,375,100.0,<norik@freenet.am>
+mingw-gdk-pixbuf,1250,98,0,194,8,0,1187,1348,92.7299703264095,<norik@freenet.am>
+mingw-glib2,4085,304,388,643,42,62,3998,4777,85.51392087083944,Armenian <norik@freenet.am>
+mingw-gtk2,1676,1279,10749,315,463,2006,1527,13704,12.230005837711618,<norik@freenet.am>
+mingw-gtk3,11213,182,458,2121,76,290,9605,11853,94.60052307432717,<norik@freenet.am>
+mingw-gtkspell3,11,0,0,5,0,0,10,11,100.0,Armenian <translation-team-hy@lists.sourceforge.net>
+mousepad,1922,0,1386,570,0,274,1433,3308,58.10157194679565,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-apps/language/hy_AM/)
+mozo,43,0,3,21,0,3,41,46,93.47826086956522,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+muffin,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+mutter,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+mutter3.38,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+mypaint,7,5,6369,7,3,1260,7,6381,0.10970067387556809,Armenian <https://hosted.weblate.org/projects/mypaint/mypaint/hy/>
+nautilus,6554,262,0,1140,28,0,5928,6816,96.15610328638498,<norik@freenet.am>
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,158,0,0,14,0,0,134,158,100.0,LANGUAGE <LL@li.org>
+onboard,10,0,2308,9,0,501,11,2318,0.4314063848144953,Armenian <hy@li.org>
+openscad,1282,148,85,399,48,38,1240,1515,84.62046204620462,Agarak Armath Engineering Laboratories
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+parole,2176,0,0,602,0,0,2000,2176,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-apps/language/hye/)
+passwd,0,0,336,0,0,57,0,336,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser5,55,41,172,10,10,30,43,268,20.522388059701495,Armenian <https://hosted.weblate.org/projects/phpmyadmin/master/hy/>
+pinta,3,0,1743,3,0,534,12,1746,0.1718213058419244,Armenian <hy@li.org>
+plasma-workspace,50,34,1694,20,14,449,48,1778,2.81214848143982,Armenian <translation-team-hy@lists.sourceforge.net>
+pluma,4618,0,8495,1122,0,968,4258,13113,35.216960268435905,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+pluma-plugins,188,0,1210,20,0,123,160,1398,13.447782546494993,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+poedit,2916,0,4,650,0,2,2452,2920,99.86301369863013,Armenian
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Armenian (http://www.transifex.com/projects/p/fedora/language/hy/)
+printrun,2658,0,1,496,0,1,2520,2659,99.96239187664536,"Armath Engineering Labs, info@armath.am"
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-caja,6,0,0,2,0,0,6,6,100.0,Armenian (https://www.transifex.com/mate/teams/13566/hy/)
+python-django,2546,0,890,656,0,136,2372,3436,74.09778812572759,Armenian (http://www.transifex.com/django/django/language/hy/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,561,0,141,95,0,30,541,702,79.91452991452992,Armenian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/hy/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Armenian (http://www.transifex.com/projects/p/python-meh/language/hy/)
+python-postorius,0,0,4999,0,0,607,0,4999,0.0,LANGUAGE <LL@li.org>
+redhat-menus,221,6,34,73,2,11,198,261,84.67432950191571,Armenian <en@li.org>
+rednotebook,1147,0,0,240,0,0,976,1147,100.0,LANGUAGE <LL@li.org>
+ristretto,1164,0,160,382,0,30,1029,1324,87.91540785498489,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-apps/language/hy_AM/)
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+shutter,48,0,2400,19,0,482,55,2448,1.9607843137254901,Armenian <hy@li.org>
+simple-scan,5,0,584,5,0,140,10,589,0.8488964346349746,Armenian <hy@li.org>
+slick-greeter,179,0,32,39,0,8,166,211,84.83412322274881,Armenian <hy@li.org>
+sos,0,0,122,0,0,30,0,122,0.0,none
+stellarium,2196,0,147823,899,0,36720,2050,150019,1.4638145834860918,Armenian (https://www.transifex.com/stellarium/teams/80998/hy/)
+sugar-typing-turtle,599,0,0,127,0,0,487,599,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,114,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,26,29,100.0,LANGUAGE <LL@li.org>
+supertux,5,0,58,1,0,16,5,63,7.936507936507936,Armenian (https://www.transifex.com/arctic-games/teams/95/hy/)
+switchboard,9,0,139,6,0,25,9,148,6.081081081081082,Armenian <hy@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,11,32,340,6,13,66,10,383,2.8720626631853787,Armenian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/hy/>
+switchboard-plug-applications,20,19,188,12,10,41,20,227,8.81057268722467,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,1,0,205,1,0,52,1,206,0.48543689320388345,Armenian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/hy/>
+switchboard-plug-display,17,11,154,11,5,46,21,182,9.340659340659341,Armenian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/hy/>
+switchboard-plug-keyboard,5,0,631,5,0,209,5,636,0.7861635220125787,Armenian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/hy/>
+switchboard-plug-mouse-touchpad,3,0,279,2,0,90,4,282,1.0638297872340425,Armenian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/hy/>
+switchboard-plug-networking,2,0,530,2,0,145,2,532,0.37593984962406013,Armenian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/hy/>
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,3,18,301,3,5,68,5,322,0.9316770186335404,Armenian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/hy/>
+switchboard-plug-pantheon-shell,7,0,342,6,0,109,7,349,2.005730659025788,Armenian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/hy/>
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,Armenian <hy@li.org>
+switchdesk,0,0,122,0,0,19,0,122,0.0,none
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-switch-mail,0,0,101,0,0,17,0,101,0.0,none
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+terminator,36,0,1414,19,0,408,31,1450,2.4827586206896552,Armenian (https://www.transifex.com/terminator/teams/109338/hy/)
+thonny,1813,0,0,421,0,0,1688,1813,100.0,
+thunar-archive-plugin,176,0,0,30,0,0,126,176,100.0,Eastern Armenian (http://www.transifex.com/xfce/thunar-plugins/language/hye/)
+thunar-volman,968,0,0,230,0,0,830,968,100.0,Eastern Armenian (http://www.transifex.com/xfce/thunar-volman/language/hye/)
+trac,4890,710,7522,1049,120,300,4596,13122,37.265660722450846,hy_AM <trac-dev@googlegroups.com>
+transmission,50,0,1948,24,0,499,66,1998,2.5025025025025025,Armenian (https://www.transifex.com/transmissionbt/teams/33778/hy/)
+tumbler,482,0,0,78,0,0,396,482,100.0,Eastern Armenian (http://www.transifex.com/xfce/tumbler/language/hye/)
+tuxpaint,1178,692,416,259,70,51,992,2286,51.531058617672784,Armenian <ararat.info@gmail.com>
+tuxpaint-stamps,3220,29,0,800,5,0,2348,3249,99.10741766697446,none
+wingpanel,0,0,19,0,0,4,0,19,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,47,14,354,21,4,90,43,415,11.325301204819278,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,LANGUAGE <LL@li.org>
+xed,227,0,3533,73,0,851,183,3760,6.037234042553191,Armenian <norik@@freenet.am>
+xfburn,1413,0,0,306,0,0,1182,1413,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-apps/language/hy_AM/)
+xfce4-appfinder,818,0,48,160,0,8,634,866,94.45727482678984,Eastern Armenian (http://www.transifex.com/xfce/xfce4-appfinder/language/hye/)
+xfce4-battery-plugin,298,0,0,88,0,0,254,298,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-calculator-plugin,72,0,12,32,0,2,74,84,85.71428571428571,Eastern Armenian (https://www.transifex.com/xfce/teams/16840/hye/)
+xfce4-clipman-plugin,780,0,282,140,0,44,620,1062,73.44632768361582,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-cpufreq-plugin,276,0,36,80,0,4,244,312,88.46153846153845,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-cpugraph-plugin,150,0,212,76,0,42,148,362,41.43646408839779,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-datetime-plugin,104,0,0,38,0,0,86,104,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfce4-dict,1058,0,0,242,0,0,913,1058,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-apps/language/hye/)
+xfce4-diskperf-plugin,362,0,0,74,0,0,358,362,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfce4-eyes-plugin,32,0,0,10,0,0,28,32,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,70,71,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-genmon-plugin,158,0,42,38,0,14,150,200,79.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfce4-mpc-plugin,78,0,0,24,0,0,86,78,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfce4-netload-plugin,91,0,0,35,0,0,83,91,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-notes-plugin,326,0,0,114,0,0,260,326,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfce4-notifyd,626,0,0,165,0,0,522,626,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-apps/language/hye/)
+xfce4-panel,3331,0,363,839,0,75,2669,3694,90.17325392528424,Armenian (Armenia) (https://www.transifex.com/xfce/teams/16840/hy_AM/)
+xfce4-panel-profiles,198,0,0,52,0,0,190,198,100.0,Armenian (Armenia) (https://www.transifex.com/xfce/teams/16840/hy_AM/)
+xfce4-power-manager,2103,0,25,421,0,7,1877,2128,98.82518796992481,Eastern Armenian (http://www.transifex.com/xfce/xfce4-power-manager/language/hye/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,141,148,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfce4-screensaver,646,0,50,149,0,3,511,696,92.81609195402298,Armenian (Armenia) (https://www.transifex.com/xfce/teams/16840/hy_AM/)
+xfce4-screenshooter,946,0,110,160,0,4,641,1056,89.58333333333334,Eastern Armenian (http://www.transifex.com/xfce/xfce-apps/language/hye/)
+xfce4-sensors-plugin,382,0,484,142,0,32,348,866,44.1108545034642,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-session,1478,0,34,323,0,3,1262,1512,97.75132275132276,Eastern Armenian (http://www.transifex.com/xfce/xfce4-session/language/hye/)
+xfce4-settings,4594,0,258,1076,0,62,3798,4852,94.68260511129432,Eastern Armenian (https://www.transifex.com/xfce/teams/16840/hye/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,22,22,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-systemload-plugin,76,0,11,20,0,3,77,87,87.35632183908046,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-taskmanager,386,0,70,127,0,19,334,456,84.64912280701753,Eastern Armenian (http://www.transifex.com/xfce/xfce-apps/language/hye/)
+xfce4-terminal,3348,0,376,796,0,72,2812,3724,89.90332975295381,Eastern Armenian (http://www.transifex.com/xfce/xfce-apps/language/hye/)
+xfce4-time-out-plugin,211,0,1,75,0,1,186,212,99.52830188679245,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-timer-plugin,135,0,0,48,0,0,113,135,100.0,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-verve-plugin,174,0,0,52,0,0,166,174,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfce4-wavelan-plugin,134,0,0,36,0,0,126,134,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfce4-weather-plugin,1062,0,2614,203,0,134,940,3676,28.89009793253536,Eastern Armenian (http://www.transifex.com/xfce/xfce-panel-plugins/language/hye/)
+xfce4-xkb-plugin,114,0,0,44,0,0,112,114,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/hy_AM/)
+xfconf,916,0,0,136,0,0,836,916,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfconf/language/hy_AM/)
+xfdesktop,2061,0,21,488,0,4,1637,2082,98.9913544668588,Armenian (Armenia) (http://www.transifex.com/xfce/xfdesktop/language/hy_AM/)
+xfmpc,175,0,0,78,0,0,178,175,100.0,Armenian (Armenia) (http://www.transifex.com/xfce/xfce-apps/language/hy_AM/)
+xfwm4,1260,0,38,338,0,8,1092,1298,97.07241910631741,Armenian (Armenia) (http://www.transifex.com/xfce/xfwm4/language/hy_AM/)
+xreader,1114,0,506,322,0,57,1003,1620,68.76543209876543,Armenian (http://www.transifex.com/mate/MATE/language/hy/)

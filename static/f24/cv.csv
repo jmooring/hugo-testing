@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Chuvash (http://www.transifex.com/mate/MATE/language/cv/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Chuvash (http://www.transifex.com/mate/MATE/language/cv/)
+mintmenu,43,0,1867,36,0,354,48,1910,2.2513089005235605,Chuvash <cv@li.org>
+stellarium,3939,0,20063,2099,0,3849,3710,24002,16.411132405632863,Chuvash <cv@li.org>

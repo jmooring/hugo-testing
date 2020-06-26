@@ -1,0 +1,60 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+elementary-calculator,5,2,228,5,1,69,5,235,2.127659574468085,LANGUAGE <LL@li.org>
+elementary-calendar,34,58,796,27,21,210,32,888,3.8288288288288284,LANGUAGE <LL@li.org>
+elementary-camera,0,0,205,0,0,47,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,1,0,1607,1,0,306,1,1608,0.06218905472636816,Southern Sami <sma@li.org>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,219,0,0,48,0,219,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,19,14,1172,10,5,339,17,1205,1.5767634854771784,Southern Sami <sma@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,1,0,318,1,0,60,1,319,0.3134796238244514,Southern Sami <https://l10n.elementary.io/projects/desktop/sideload/sma/>
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,11,12,673,7,3,116,11,696,1.5804597701149428,Southern Sami <sma@li.org>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,10,0,381,6,0,90,8,391,2.557544757033248,Southern Sami <sma@li.org>
+gala,0,0,358,0,0,73,0,358,0.0,Southern Sami <sma@li.org>
+granite,6,5,487,6,3,109,6,498,1.2048192771084338,Southern Sami <sma@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+plank,22,0,167,9,0,41,29,189,11.64021164021164,Southern Sami <sma@li.org>
+switchboard,0,0,148,0,0,31,0,148,0.0,Southern Sami <sma@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,10,31,342,5,12,68,8,383,2.610966057441253,Southern Sami <sma@li.org>
+switchboard-plug-applications,2,1,224,2,1,60,2,227,0.881057268722467,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,1,0,205,1,0,52,1,206,0.48543689320388345,Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/sma/>
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,Southern Sami <sma@li.org>
+switchboard-plug-keyboard,1,0,635,1,0,213,1,636,0.15723270440251574,Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/sma/>
+switchboard-plug-mouse-touchpad,1,0,281,1,0,91,1,282,0.3546099290780142,Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/sma/>
+switchboard-plug-networking,1,0,531,1,0,146,1,532,0.18796992481203006,Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/sma/>
+switchboard-plug-notifications,2,3,137,2,2,17,2,142,1.4084507042253522,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,1,3,318,1,1,74,1,322,0.3105590062111801,Southern Sami <sma@li.org>
+switchboard-plug-pantheon-shell,5,6,338,5,3,107,5,349,1.4326647564469914,Southern Sami <sma@li.org>
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,Southern Sami <sma@li.org>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,8,0,407,8,0,107,8,415,1.9277108433734942,Southern Sami <sma@li.org>
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,LANGUAGE <LL@li.org>

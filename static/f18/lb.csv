@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+flaw,84,0,0,53,0,0,87,84,100.0,LANGUAGE <LL@li.org>
+geany,4386,698,616,954,194,104,4434,5700,76.94736842105263,Letzebuergesch
+gnome-do,473,0,139,119,0,25,484,612,77.2875816993464,Luxembourgish <lb@li.org>
+gwibber,460,0,309,136,0,68,477,769,59.81794538361509,Luxembourgish <lb@li.org>
+libreoffice,11035,2055,518788,5595,1165,66868,10828,531878,2.0747239028499016,LANGUAGE <LL@li.org>
+lightdm,42,0,37,15,0,2,44,79,53.16455696202531,Luxembourgish <lb@li.org>
+lightdm-gtk,56,0,1,18,0,1,55,57,98.24561403508771,Luxembourgish <lb@li.org>
+owncloud,867,0,1725,389,0,472,931,2592,33.449074074074076,Luxembourgish (http://www.transifex.com/projects/p/owncloud/language/lb/)
+stellarium,2,0,11179,2,0,3143,2,11181,0.017887487702352205,Luxembourgish <lb@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

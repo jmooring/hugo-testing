@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,36,42,100.0,Bodo <brx@li.org>
+android-tools,1,0,12194,1,0,1776,2,12195,0.008200082000820008,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Bodo
+gnucash,22359,8212,8657,3663,1259,875,20018,39228,56.997552768430715,Bodo <https://hosted.weblate.org/projects/gnucash/gnucash/brx/>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Bodo
+inkscape,17351,15564,16653,3968,4304,2156,16716,49568,35.00443834732086,Hindi <Indlinux>
+libreoffice,37099,12743,121346,12416,5577,20769,37994,171188,21.671495665584036,LANGUAGE <LL@li.org>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+mypaint,283,43,6055,89,17,1164,295,6381,4.4350415295408245,Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/>
+pidgin,13140,0,854,3022,0,169,13335,13994,93.89738459339718,Bodo (http://www.transifex.com/pidgin/pidgin/language/brx/)
+policycoreutils,1,0,12194,1,0,1776,2,12195,0.008200082000820008,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Bodo
+python-meh,0,0,109,0,0,23,0,109,0.0,Bodo
+tuxpaint,1120,1020,1623,245,109,107,1047,3763,29.763486579856497,Bodo
+vlc,29997,38,4744,5509,12,764,27736,34779,86.25032347106011,Bodo (https://app.transifex.com/yaron/teams/16553/brx/)

@@ -1,0 +1,42 @@
+---
+title: "fcitx-cloudpinyin - translation progress for f20"
+package: fcitx-cloudpinyin
+date: 2026-01-17T11:01:07+00:00
+started_languages: 4
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 4
+release: f20
+---
+The package fcitx-cloudpinyin (version 0.3.2):
+
+* represents 65 source words to be translated
+* is translated into 4 languages in Fedora f20
+
+
+* contains 4 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/zh_CN.po | 
+ | [de]({{< ref "/f20/language/de.md" >}}) | 57 | 65 | 87.7 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/de.po | 
+ | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 57 | 65 | 87.7 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/zh_TW.po | 
+ | [ja]({{< ref "/f20/language/ja.md" >}}) | 45 | 65 | 69.2 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/ja.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

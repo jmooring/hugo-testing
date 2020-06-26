@@ -1,0 +1,42 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Balochi (http://www.transifex.com/projects/p/fedora-abrt/language/bal/)
+authconfig,915,3,797,162,1,133,1099,1715,53.352769679300295,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+blivet-gui,0,0,699,0,0,187,0,699,0.0,Baluchi
+certmonger,0,0,2478,0,0,415,0,2478,0.0,Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/)
+chkconfig,423,0,90,86,0,10,447,513,82.45614035087719,Balochi <trans-bal@lists.fedoraproject.org>
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Baluchi
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Baluchi
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Baluchi
+entangle,0,0,935,0,0,209,0,935,0.0,Baluchi
+initial-setup,0,0,33,0,0,7,0,33,0.0,Baluchi
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Baluchi
+libosinfo,0,0,2049,0,0,604,0,2049,0.0,Baluchi
+libreport,0,0,3501,0,0,452,0,3501,0.0,Balochi (http://www.transifex.com/projects/p/libreport/language/bal/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/)
+newt,4,0,0,4,0,0,4,4,100.0,Balochi <fedora-trans-bal@redhat.com>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Balochi (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/bal/)
+pam,0,0,606,0,0,122,0,606,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+pessulus,88,0,0,30,0,0,129,88,100.0,Balochi <mostafa@daneshvar.org.uk>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+pykickstart,0,0,1355,0,0,149,0,1355,0.0,Baluchi
+python-blivet,0,0,696,0,0,131,0,696,0.0,Baluchi
+python-fedora,0,0,214,0,0,29,0,214,0.0,Baluchi
+python-meh,0,0,109,0,0,23,0,109,0.0,Baluchi
+rhnsd,0,0,37,0,0,9,0,37,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+setuptool,55,0,0,14,0,0,67,55,100.0,Balochi <fedora-trans-bal@redhat.com>
+system-config-date,0,0,503,0,0,56,0,503,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Balochi (http://www.transifex.com/projects/p/system-config-kickstart/language/bal/)
+system-config-network,0,0,3032,0,0,721,0,3032,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,534,0,0,72,0,534,0.0,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,158,0,0,24,0,0,179,158,100.0,Balochi <fedora-trans-bal@redhat.com>
+virt-viewer,0,0,751,0,0,165,0,751,0.0,Baluchi

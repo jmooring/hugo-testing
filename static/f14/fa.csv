@@ -1,0 +1,285 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+DivFix++,551,0,0,104,0,0,676,551,100.0,MXAmin <amin.solhizadeh gmail.com>
+Django,1989,0,1986,555,0,713,2128,3975,50.03773584905661,Persian <None>
+GConf2,3752,24,178,444,4,13,4159,3954,94.89124936772888,Persian <farsi@lists.sharif.edu>
+Miro,261,0,3075,125,0,599,339,3336,7.823741007194244,Persian <fa@li.org>
+abrt,422,43,1269,157,8,146,473,1734,24.336793540945788,Persian <trans-fa@lists.fedoraproject.org>
+ailurus,11,0,8495,6,0,1118,17,8506,0.12932047966141547,none
+alacarte,74,0,0,30,0,0,89,74,100.0,Persian
+anaconda,9581,129,31,1179,23,2,10573,9741,98.35745816651269,Farsi (Persian) <trans-fa@lists.fedoraproject.org>
+at-spi,15,0,0,4,0,0,18,15,100.0,Persian <farsi@lists.sharif.edu>
+atk,349,7,19,110,6,10,329,375,93.06666666666666,Persian <farsi@lists.sharif.edu>
+atomix,101,0,24,39,0,5,108,125,80.80000000000001,Persian <farsi@lists.sharif.edu>
+audacity,4070,192,5366,1084,55,1027,4902,9628,42.27253842958039,Persian
+authconfig,460,235,647,107,50,82,575,1342,34.277198211624444,Persian <fa@li.org>
+avant-window-navigator,6,2,1647,6,1,272,9,1655,0.36253776435045315,Persian <fa@li.org>
+bittorrent,371,0,3535,128,0,506,472,3906,9.498207885304659,LANGUAGE <LL@li.org>
+blueman,23,0,1353,18,0,334,32,1376,1.6715116279069766,Persian <fa@li.org>
+boinc-client,0,0,4130,0,0,793,0,4130,0.0,LANGUAGE <LL@li.org>
+bzr-explorer,261,0,1376,117,0,347,316,1637,15.94379963347587,Persian <fa@li.org>
+calibre,390,0,19608,40,0,2667,519,19998,1.9501950195019502,Persian <fa@li.org>
+camorama,64,0,464,32,0,92,73,528,12.121212121212121,Persian <farsi@lists.sharif.edu>
+ccsm,195,114,208,69,12,45,231,517,37.71760154738878,l10n.ir
+choqok,12,0,1902,6,0,467,12,1914,0.6269592476489028,Farsi (Persian) <kde-i18n-doc@kde.org>
+compat-libgda,118,51,2118,46,25,405,127,2287,5.159597726278968,Persian <farsi@lists.sharif.edu>
+compiz-fusion,39,79,8828,6,26,1697,38,8946,0.4359490274983233,l10n.ir
+compiz-fusion-extras,39,79,8828,6,26,1697,38,8946,0.4359490274983233,l10n.ir
+compiz-fusion-unsupported,39,79,8828,6,26,1697,38,8946,0.4359490274983233,l10n.ir
+control-center,3050,29,396,695,5,54,3272,3475,87.76978417266187,
+dasher,302,0,7,110,0,2,341,309,97.73462783171522,Persian <farsi@lists.sharif.edu>
+decibel-audio-player,9,0,1485,6,0,231,14,1494,0.6024096385542169,Persian <fa@li.org>
+deskbar-applet,790,0,0,171,0,0,895,790,100.0,Persian
+digikam,3060,11261,9332,908,1614,775,3301,23653,12.937048154568132,Persian <kde-i18n-fa@kde.org>
+ekiga,4765,0,1158,753,0,40,5226,5923,80.44909674151613,
+emerald,2,0,772,1,0,214,3,774,0.2583979328165375,l10n.ir
+eog,820,0,1,191,0,1,882,821,99.87819732034104,Persian
+epiphany,3683,0,283,852,0,23,4110,3966,92.86434694906707,Persian
+etoys,1,0,29993,1,0,5101,1,29994,0.0033340001333600055,
+evince,732,0,0,219,0,0,825,732,100.0,Persian
+evolution,16655,0,1721,4325,0,176,18370,18376,90.63452329124945,Persian
+evolution-data-server,3317,945,803,768,147,133,3977,5065,65.48864758144126,Persian
+evolution-exchange,1783,21,145,306,6,14,2026,1949,91.48281169830682,Persian <farsi@lists.sharif.edu
+exaile,514,0,2290,216,0,543,584,2804,18.33095577746077,Persian <fa@li.org>
+f-spot,1978,0,3,545,0,2,2124,1981,99.84856133266027,
+file-roller,957,0,0,242,0,0,986,957,100.0,
+filezilla,7788,630,684,1368,84,88,9534,9102,85.56361239288069,Barnamenevis.org <http://barnamenevis.org/forum/showthread.php?t=207094>
+firstboot,654,0,0,54,0,0,744,654,100.0,Persian(fa) <fedora-trans-fa@redhat.com>
+freeciv,5094,3886,44712,1980,848,2442,5345,53692,9.487446919466587,Farsi(Persian)
+frozen-bubble,447,61,190,110,11,27,512,698,64.04011461318052,Persian <farsi@lists.sharif.edu>
+gallery2,2441,188,6523,873,57,566,2587,9152,26.671765734265733,PERSIAN <gallery-translations@lists.sourceforge.net>
+gambas2,1881,176,1424,709,35,411,2099,3481,54.03619649525998,LANGUAGE <LL@li.org>
+gambas3,1326,215,3245,582,66,860,1553,4786,27.705808608441284,LANGUAGE <LL@li.org>
+gcalctool,879,0,136,351,0,6,973,1015,86.60098522167488,Persian
+gcompris,10020,0,0,1163,0,0,10885,10020,100.0,
+gconf-editor,334,0,0,98,0,0,361,334,100.0,Persian <farsi@lists.sharif.edu>
+gdk-pixbuf2,997,269,47,151,42,7,1042,1313,75.93297791317593,Persian <farsi@lists.sharif.edu>
+gdm,189,347,779,38,81,110,193,1315,14.372623574144486,Persian
+geany,5317,145,124,1148,49,18,5341,5586,95.18438954529181,Moein Owhadi Kareshk <moein.owhadi@gmail.com>
+geda-gaf,121,0,1720,60,0,506,121,1841,6.572514937533949,Persian <fa@li.org>
+gedit,4148,2,56,992,1,27,4395,4206,98.62101759391345,
+ggz-gtk-client,7,0,0,7,0,0,8,7,100.0,Persian
+gimp,16482,4487,4361,4948,994,683,18302,25330,65.06908803789972,Persian
+glib2,1091,561,2038,131,112,317,1188,3690,29.56639566395664,Persian
+gnome-applet-timer,72,0,208,20,0,49,72,280,25.71428571428571,Persian <fa@li.org>
+gnome-applets,3900,58,112,931,3,34,4304,4070,95.82309582309583,
+gnome-backgrounds,18,0,0,9,0,0,21,18,100.0,Persian <farsi@lists.sharif.edu>
+gnome-desktop,320,0,3,70,0,3,342,323,99.07120743034056,Persian <farsi@lists.sharif.edu>
+gnome-desktop3,320,0,3,70,0,3,342,323,99.07120743034056,Persian <farsi@lists.sharif.edu>
+gnome-do,473,0,139,119,0,25,542,612,77.2875816993464,Persian <fa@li.org>
+gnome-do-plugins,921,0,1402,231,0,351,1016,2323,39.64700817907878,Persian <fa@li.org>
+gnome-doc-utils,238,0,0,92,0,0,247,238,100.0,Persian
+gnome-games,4068,675,2323,995,270,433,3996,7066,57.57146900651004,Persian
+gnome-gmail,19,0,340,6,0,41,22,359,5.2924791086350975,Persian <fa@li.org>
+gnome-icon-theme,53,0,0,47,0,0,71,53,100.0,Persian <farsi@lists.sharif.edu>
+gnome-keyring,524,165,22,41,9,7,548,711,73.69901547116737,Persian <farsi@lists.sahrif.edu>
+gnome-mag,5,0,0,2,0,0,5,5,100.0,Persian <farsi@lists.sharif.edu>
+gnome-media,1479,143,173,445,25,37,1602,1795,82.39554317548746,Persian <farsi@lists.sharif.edu>
+gnome-menus,157,0,0,56,0,0,169,157,100.0,Persian
+gnome-mime-data,355,9,463,171,4,166,348,827,42.926239419588875,Persian <farsi@lists.sharif.edu>
+gnome-netstatus,378,13,26,89,2,15,394,417,90.64748201438849,Persian <farsi@lists.sharif.edu>
+gnome-nettool,429,54,37,156,9,15,463,520,82.5,Persian <farsi@lists.sharif.edu>
+gnome-panel,3668,577,337,547,34,48,3984,4582,80.05237887385421,Persian
+gnome-power-manager,1092,903,791,121,156,150,1193,2786,39.19597989949749,Persian
+gnome-screensaver,1324,0,15,198,0,3,1518,1339,98.87976101568334,Persian
+gnome-session,530,0,39,100,0,4,593,569,93.14586994727593,Persian
+gnome-settings-daemon,375,132,527,56,35,80,393,1034,36.2669245647969,
+gnome-system-monitor,75,49,378,45,24,74,82,502,14.940239043824702,Persian <farsi@lists.sharif.edu>
+gnome-terminal,4297,0,125,511,0,10,4511,4422,97.17322478516508,
+gnome-themes,92,0,9,32,0,2,111,101,91.0891089108911,Persian <farsi@lists.sharif.edu>
+gnome-utils,4073,0,8,716,0,1,4296,4081,99.80396961529037,Persian
+gnome-vfs2,190,30,1062,56,10,182,207,1282,14.82059282371295,Persian <farsi@lists.sharif.edu>
+gnomebaker,729,13,444,176,6,109,880,1186,61.46711635750422,Persian <fa@li.org>
+gnucash,4212,908,21192,1541,225,2323,4577,26312,16.007905138339922,Perisan <mehdi@ashian.ir>
+gok,1639,0,234,408,0,26,1799,1873,87.50667378537106,Persian <farsi@lists.sharif.edu>
+gourmet,32,81,3534,8,23,837,32,3647,0.8774335069920483,Persian <fa@li.org>
+gpicview,0,0,219,0,0,44,0,219,0.0,LANGUAGE <LL@li.org>
+griffith,102,0,1752,47,0,407,107,1854,5.501618122977346,Persian <fa@li.org>
+grisbi,232,732,10229,155,257,1609,263,11193,2.072724023943536,farsi <en@li.org>
+gscan2pdf,30,0,1597,26,0,482,32,1627,1.843884449907806,Persian <fa@li.org>
+gthumb,2530,0,19,852,0,10,2768,2549,99.25460965084348,Persian <farsi@lists.sharif.edu>
+gtk2,2729,2230,8745,627,644,1513,2742,13704,19.91389375364857,Persian <farsi@lists.sharif.edu>
+gtk3,1552,1974,8472,423,596,1470,1502,11998,12.935489248208034,Persian <farsi@lists.sharif.edu>
+gtkhtml3,909,0,10,407,0,5,976,919,98.91186071817192,Persian <farsi@lists.sharif.edu>
+gtksourceview,728,0,37,294,0,18,825,765,95.16339869281045,Persian <farsi@lists.sharif.edu>
+gtksourceview2,728,0,37,294,0,18,825,765,95.16339869281045,Persian <farsi@lists.sharif.edu>
+gtksourceview3,728,0,37,294,0,18,825,765,95.16339869281045,Persian <farsi@lists.sharif.edu>
+gtranslator,131,0,1288,97,0,272,138,1419,9.231853417899929,Persian <farsi@lists.sharif.edu>
+guake,523,0,0,96,0,0,579,523,100.0,guake@lists.guake.org <>
+gucharmap,466,0,41,214,0,24,471,507,91.91321499013807,Persian <farsi@lists.sharif.edu>
+hello,30,91,72,5,15,10,41,193,15.544041450777202,Persian <translation-team-fa@lists.sourceforge.net>
+homebank,739,0,770,277,0,257,801,1509,48.972829688535455,Persian <fa@li.org>
+horde,6053,0,848,1578,0,318,6678,6901,87.71192580785393,Persian <i18n@lists.horde.org>
+im-chooser,132,6,75,29,2,17,143,213,61.97183098591549,none
+imp,5359,0,53,1086,0,16,5833,5412,99.02069475240208,Persian <i18n@lists.horde.org>
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+inkscape,3665,269,22594,910,123,4545,4149,26528,13.815591073582631,Farsi <fa@li.org>
+iso-codes,1797,4897,5964,1068,3938,3785,1624,12658,14.196555537999684,Persian
+jokosher,107,0,1952,25,0,384,100,2059,5.19669742593492,Persian <fa@li.org>
+kaudiocreator,677,83,376,168,34,71,754,1136,59.595070422535215,Farsi (Persian) <kde-i18n-doc@kde.org>
+kcoloredit,7,92,179,4,29,62,7,278,2.5179856115107913,Persian <kde-i18n-fa@kde.org>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kiconedit,694,0,32,144,0,11,712,726,95.59228650137742,Persian <kde-i18n-fa@kde.org>
+koffice-kivio,7963,0,454,2161,0,200,8447,8417,94.60615421171438,Persian <kde-i18n-fa@kde.org>
+konq-plugins,1389,74,135,438,24,54,1468,1598,86.92115143929912,Persian <kde-i18n-fa@kde.org>
+kpilot,1854,417,4885,337,137,387,1934,7156,25.908328675237563,Persian <kde-i18n-fa@kde.org>
+ksig,78,0,7,23,0,3,75,85,91.76470588235294,Persian <kde-i18n-fa@kde.org>
+labyrinth,146,0,0,42,0,0,151,146,100.0,
+libbonobo,307,15,202,65,4,39,334,524,58.587786259541986,Persian <farsi@lists.sharif.edu>
+libbonoboui,326,0,34,109,0,4,367,360,90.55555555555556,Persian <farsi@lists.sharif.edu>
+libfm,659,0,0,179,0,0,751,659,100.0,LANGUAGE <LL@li.org>
+libgda,37,1526,8218,23,417,1385,38,9781,0.37828442899499026,Persian <farsi@lists.sharif.edu>
+libgnome,1385,0,22,215,0,4,1547,1407,98.4363894811656,Persian
+libgnomecanvas,344,13,0,93,1,0,403,357,96.35854341736695,Persian <farsi@lists.sharif.edu>
+libgnomeprint22,154,6,8,93,1,4,165,168,91.66666666666666,Persian <farsi@lists.sharif.edu>
+libgnomeprintui22,410,11,6,125,6,4,427,427,96.01873536299766,Persian <farsi@lists.sharif.edu>
+libgnomeui,1220,83,116,302,19,24,1267,1419,85.97603946441156,Persian <farsi@lists.sharif.edu>
+libgtop2,112,19,3,40,3,1,136,134,83.5820895522388,Persian <farsi@lists.sharif.edu>
+libgweather,5818,35,4498,4112,12,2636,5779,10351,56.20712974591827,
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1098,11343,8105,258,2092,1197,1098,20546,5.34410590869269,none
+libwnck,47,21,5,21,7,2,63,73,64.38356164383562,Persian <farsi@lists.sharif.edu>
+libxfcegui4,78,10,146,23,6,32,87,234,33.33333333333333,Persian <translation-team-fa@lists.sourceforge.net>
+liveusb-creator,480,0,0,52,0,0,557,480,100.0,Persian <trans-fa@lists.fedoraproject.org>
+lxappearance,191,0,0,58,0,0,215,191,100.0,Persian <trans-fa@lists.fedoraproject.org>
+lxappearance-obconf,191,0,0,26,0,0,209,191,100.0,Persian <trans-fa@lists.fedoraproject.org>
+lxdm,13,0,0,11,0,0,17,13,100.0,LANGUAGE <LL@li.org>
+lxinput,67,3,0,22,1,0,71,70,95.71428571428572,LANGUAGE <LL@li.org>
+lxlauncher,0,0,51,0,0,11,0,51,0.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,101,97,100.0,Persian
+lxmusic,191,10,2,85,2,2,237,203,94.08866995073892,LANGUAGE <LL@li.org>
+lxpanel,747,46,99,254,14,29,873,892,83.74439461883408,LANGUAGE <LL@li.org>
+lxrandr,0,0,102,0,0,22,0,102,0.0,LANGUAGE <LL@li.org>
+lxsession,37,0,0,15,0,0,40,37,100.0,LANGUAGE <LL@li.org>
+lxsession-edit,0,0,58,0,0,10,0,58,0.0,LANGUAGE <LL@li.org>
+lxshortcut,0,0,43,0,0,19,0,43,0.0,LANGUAGE <LL@li.org>
+lxtask,106,16,0,42,6,0,131,122,86.88524590163934,LANGUAGE <LL@li.org>
+lxterminal,144,0,0,85,0,0,183,144,100.0,LANGUAGE <LL@li.org>
+me-tv,139,0,1798,45,0,246,148,1937,7.176045431078988,Persian <fa@li.org>
+metacity,6867,0,261,450,0,18,7494,7128,96.33838383838383,Persian
+minbar,418,0,0,105,0,0,435,418,100.0,<en@li.org>
+mingw32-atk,349,7,19,110,6,10,329,375,93.06666666666666,Persian <farsi@lists.sharif.edu>
+mingw32-gdk-pixbuf,997,269,47,151,42,7,1042,1313,75.93297791317593,Persian <farsi@lists.sharif.edu>
+mingw32-glib2,1091,561,2038,131,112,317,1188,3690,29.56639566395664,Persian
+mingw32-gtk2,2729,2230,8745,627,644,1513,2742,13704,19.91389375364857,Persian <farsi@lists.sharif.edu>
+mingw32-gtkhtml3,909,0,10,407,0,5,976,919,98.91186071817192,Persian <farsi@lists.sharif.edu>
+mlocate,563,0,0,50,0,0,601,563,100.0,Persian <trans-fa@lists.fedoraproject.org>
+moin,4551,32,388,812,5,102,5385,4971,91.5509957754979,
+multimedia-menus,56,0,0,22,0,0,84,56,100.0,Persian <trans-fa@lists.fedoraporject.org>
+mutter,6867,0,261,450,0,18,7494,7128,96.33838383838383,Persian
+mutter-mbl,6867,0,261,450,0,18,7494,7128,96.33838383838383,Persian
+nautilus,4670,1971,1251,846,303,155,4826,7892,59.17384693360365,Persian
+ntfs-config,0,0,357,0,0,59,0,357,0.0,Persian <fa@li.org>
+orage,12,56,2042,7,29,733,12,2110,0.5687203791469194,Persian <translation-team-fa@lists.sourceforge.net>
+pam_krb5,7,0,0,4,0,0,11,7,100.0,Persian <mohsen.saeedi@gmail.com>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pcmanfm,538,0,0,149,0,0,630,538,100.0,Persian <trans-fa@lists.fedoraproject.org>
+perl-Padre,210,0,1056,131,0,304,233,1266,16.587677725118482,Persian <translation-team-fa@lists.sourceforge.net>
+pgadmin3,2159,3686,3831,766,1127,803,2419,9676,22.312939231087224,Persian <abbasizad@hotmail.com>
+phatch,103,0,2450,90,0,734,111,2553,4.034469251860556,Persian <fa@li.org>
+picard,42,0,1269,35,0,570,62,1311,3.203661327231121,Persian <fa@li.org>
+pidgin,10289,4555,3484,2355,1022,525,11444,18328,56.13814927979048,Persian
+pino,343,6,3,125,1,1,376,352,97.44318181818183,Persian <LL@li.org>
+planner,1591,0,0,491,0,0,1739,1591,100.0,Persian <farsi@lists.sharif.edu>
+pmount,10,0,713,2,0,61,6,723,1.3831258644536653,Persian <fa@li.org>
+poedit,1112,19,31,264,3,2,1192,1162,95.69707401032701,Persian | Compietion By man4toman <abbasizad@hotmail.com | man4toman@gmail.com>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,1818,237,1488,1066,43,240,1978,3543,51.31244707874683,LANGUAGE <LL@li.org>
+preupgrade,801,0,0,122,0,0,928,801,100.0,Persian <trans-fa@lists.fedoraproject.org>
+publican,1145,4,2419,91,2,320,1300,3568,32.09080717488789,Persian <trans-fa@lists.fedoraproject.org>
+publican-fedora,107,0,0,6,0,0,105,107,100.0,Persian <trans-fa@lists.fedoraproject.org>
+pykickstart,209,45,84,20,4,11,220,338,61.834319526627226,fedoraproject.ir <sadidsahami@gmail.com>
+rabbitvcs,20,0,1504,15,0,457,27,1524,1.3123359580052494,Persian <fa@li.org>
+rapid-photo-downloader,72,0,1840,33,0,372,94,1912,3.765690376569038,Persian <fa@li.org>
+redhat-menus,253,0,0,81,0,0,277,253,100.0,Persian <fedora-trans-fa@redhatc.om>
+referencer,129,0,750,85,0,165,161,879,14.675767918088736,Persian <fa@li.org>
+rhn-client-tools,0,0,4820,0,0,454,0,4820,0.0,LANGUAGE <LL@li.org>
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+sabayon,496,93,147,121,17,28,599,736,67.3913043478261,Persian
+setroubleshoot,0,0,563,0,0,168,0,563,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7818,0,0,364,0,7818,0.0,LANGUAGE <LL@li.org>
+setuptool,55,0,0,14,0,0,63,55,100.0,Persian <trans-fa@lists.fedoraproject.org>
+solfege,221,422,3349,122,204,678,226,3992,5.536072144288577,Persian <translation-team-fa@lists.sourceforge.net>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,627,0,0,126,0,0,707,627,100.0,Persian <farsi@lists.sharif.edu>
+soundconverter,24,0,426,19,0,91,46,450,5.333333333333334,Persian <fa@li.org>
+specspo,2295,20224,282775,328,3091,13431,2330,305294,0.7517343937319436,Persian
+squirrelmail,6036,0,0,1165,0,0,6817,6036,100.0,Persian <persian (AT) gnu (DOT) org>
+sssd,0,0,20776,0,0,2078,0,20776,0.0,Persian (http://www.transifex.net/projects/p/fedora/team/fa/)
+stellarium,2167,0,1195,838,0,609,2075,3362,64.45568114217728,American English <kde-i18n-doc@kde.org>
+sugar,229,0,5,90,0,2,292,234,97.86324786324786,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,34,1,22,18,1,11,47,57,59.64912280701754,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,593,0,0,127,0,593,0.0,LANGUAGE <LL@li.org>
+sugar-chat,21,0,0,10,0,0,25,21,100.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,32,31,100.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,48,3,1,25,1,1,73,52,92.3076923076923,LANGUAGE <LL@li.org>
+sugar-moon,0,0,90,0,0,31,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,37,1,2,10,1,1,46,40,92.5,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,25,0,0,16,0,0,27,25,100.0,LANGUAGE <LL@li.org>
+sugar-surf,48,1,3,25,1,1,60,52,92.3076923076923,LANGUAGE <LL@li.org>
+sugar-tamtam,254,30,1786,142,13,540,315,2070,12.270531400966183,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1,0,1207,2,0,353,1,1208,0.08278145695364239,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,59,10,0,38,4,0,60,69,85.5072463768116,LANGUAGE <LL@li.org>
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,46,2,71,10,1,12,53,119,38.655462184873954,none <farsi@lists.sharif.edu>
+system-config-date,922,0,1344,566,0,302,1160,2266,40.68843777581642,LANGUAGE <LL@li.org>
+system-config-date-docs,638,0,0,28,0,0,662,638,100.0,Persian <trans-fa@lists.fedoraproject.org>
+system-config-firewall,63,194,2550,17,57,256,86,2807,2.2443890274314215,Persian
+system-config-httpd,670,33,155,176,17,30,729,858,78.08857808857809,
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,70,15,102,11,14,56,71,187,37.4331550802139,Persian <fa@li.org>
+system-config-kickstart,667,188,249,171,45,29,760,1104,60.416666666666664,Persian <fa@li.org>
+system-config-language,293,0,30,54,0,2,353,323,90.71207430340557,none
+system-config-lvm,568,390,1184,118,64,154,599,2142,26.517273576097107,Persian
+system-config-network,2258,203,561,587,46,85,2605,3022,74.71872931833224,Persian
+system-config-nfs,56,83,193,17,26,29,59,332,16.867469879518072,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,778,7,2335,338,1,418,893,3120,24.935897435897438,Persian <None>
+system-config-rootpassword,15,26,75,3,5,11,12,116,12.931034482758621,Persian
+system-config-samba,533,0,0,129,0,0,602,533,100.0,Persian (http://www.transifex.net/projects/p/fedora/team/fa/)
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,12,2,390,8,1,48,15,404,2.9702970297029703,none
+system-config-services-docs,638,0,0,28,0,0,662,638,100.0,Persian <trans-fa@lists.fedoraproject.org>
+system-config-users,882,0,2030,143,0,205,951,2912,30.288461538461537,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+terminator,122,0,217,69,0,50,137,339,35.9882005899705,Persian <fa@li.org>
+tortoisehg,40,0,6261,16,0,1498,45,6301,0.6348198698619267,Persian <fa@li.org>
+totem,1264,0,414,320,0,39,1391,1678,75.32777115613825,Persian <farsi@lists.sharif.edu>
+totem-pl-parser,1264,0,414,320,0,39,1391,1678,75.32777115613825,Persian <farsi@lists.sharif.edu>
+transifex,1676,328,3456,377,66,466,1940,5460,30.695970695970697,Persian <trans-fa@lists.fedoraproject.org>
+transmission,66,0,1442,38,0,409,86,1508,4.376657824933687,Persian <fa@li.org>
+turba,1113,0,0,273,0,0,1189,1113,100.0,Persian <i18n@lists.horde.org>
+usermode,566,0,0,95,0,0,620,566,100.0,Persian
+vidalia,9236,0,70,1198,0,13,10839,9306,99.24779712013755,translations@vidalia-project.net
+vino,540,0,0,70,0,0,616,540,100.0,Persian <farsi@lists.sharif.edu>
+vte,59,0,37,12,0,6,75,96,61.458333333333336,Persian <farsi@lists.sharif.edu>
+whaawmp,28,0,729,25,0,126,34,757,3.6988110964332894,Persian <fa@li.org>
+widelands,16,0,4429,3,0,941,16,4445,0.35995500562429694,Persian <fa@li.org>
+wine,178,411,11197,44,151,2360,194,11786,1.5102664177838112,none
+wormux,912,594,410,174,77,76,721,1916,47.59916492693111,Wormux Fa <behdadp@farsiweb.info>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Persian <translation-team-fa@lists.sourceforge.net>
+xfce-utils,20,9,102,11,3,22,28,131,15.267175572519085,Persian <translation-team-fa@lists.sourceforge.net>
+xfce4-appfinder,2,1,81,2,1,16,2,84,2.380952380952381,Persian <translation-team-fa@lists.sourceforge.net>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Persian <fa@li.org>
+xfce4-panel,18,179,343,11,63,93,21,540,3.3333333333333335,Persian <translation-team-fa@lists.sourceforge.net>
+xfce4-session,271,110,609,63,37,99,262,990,27.373737373737374,Persian <translation-team-fa@lists.sourceforge.net>
+xfdesktop,56,284,664,24,89,155,66,1004,5.577689243027888,Persian <translation-team-fa@lists.sourceforge.net>
+xfprint,144,76,102,63,29,21,167,322,44.72049689440994,Persian <translation-team-fa@lists.sourceforge.net>
+xfwm4,87,412,298,40,120,64,101,797,10.915934755332497,Persian <translation-team-fa@lists.sourceforge.net>
+xiphos,4644,289,10582,924,24,452,5762,15515,29.932323557847244,LANGUAGE <LL@li.org>
+yelp,957,0,3,237,0,3,968,960,99.6875,Persian
+yelp-xsl,238,0,0,92,0,0,247,238,100.0,Persian
+yum-rhn-plugin,0,0,107,0,0,14,0,107,0.0,LANGUAGE <LL@li.org>
+zenity,271,69,54,81,20,11,275,394,68.78172588832487,Persian <farsi@lists.sharif.edu>

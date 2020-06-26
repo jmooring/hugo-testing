@@ -1,0 +1,424 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,2295,242,1417,345,33,83,2161,3954,58.04248861911988,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+NetworkManager,2518,0,0,550,0,0,2398,2518,100.0,Malay <gnome-ms@googlegroups.com>
+PackageKit,6,0,1572,2,0,368,6,1578,0.38022813688212925,LANGUAGE <LL@li.org>
+WindowMaker,2052,0,362,363,0,20,1950,2414,85.00414250207126,Projek Gabai (Bahasa Melayu) <gabai-penyumbang@lists.sourceforge.net>
+ailurus,441,0,7276,59,0,1108,453,7717,5.714655954386419,none
+aisleriot,667,578,742,208,192,149,617,1987,33.568193256165074,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+alacarte,42,0,0,16,0,0,49,42,100.0,Malay <ms@li.org>
+alleyoop,328,14,0,85,2,0,306,342,95.90643274853801,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+anaconda,1873,0,6424,376,0,652,1708,8297,22.574424490779798,LANGUAGE <LL@li.org>
+anjuta,3302,1870,1897,894,640,407,3221,7069,46.71099165369925,Projek Gabai <gabai-penyumbang@lists.sf.net>
+aspell,95,0,1631,25,0,268,86,1726,5.504055619930475,Malay <translation-team-ms@lists.sourceforge.net>
+at-spi,15,0,0,4,0,0,15,15,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+at-spi2-atk,7,0,0,1,0,0,8,7,100.0,Pasukan Terjemahan Malaysia <gnome-ms@googlegroups.com>
+at-spi2-core,5,0,0,1,0,0,4,5,100.0,Malay <gnome-ms@googlegroups.com>
+atk,121,19,235,74,10,42,124,375,32.266666666666666,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+atomix,125,0,0,44,0,0,146,125,100.0,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+audit-viewer,48,0,563,29,0,156,55,611,7.855973813420622,LANGUAGE <LL@li.org>
+authconfig,762,0,876,148,0,137,719,1638,46.52014652014652,LANGUAGE <LL@li.org>
+avahi,94,200,571,40,68,57,95,865,10.867052023121387,Malay <translation-team-ms@lists.sourceforge.net>
+avr-binutils,524,0,0,97,0,0,525,524,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+balsa,2957,1142,1249,828,295,164,2751,5348,55.29169783096485,<mypenguin99@yahoogroups.com>
+baobab,15,134,391,9,40,77,24,540,2.7777777777777777,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+binutils,524,0,0,97,0,0,525,524,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+bisho,127,16,0,24,2,0,129,143,88.81118881118881,Malaysia
+bison,782,274,233,134,25,37,774,1289,60.66718386346005,Malay <translation-team-ms@lists.sourceforge.net>
+bluedevil,4,65,548,2,42,154,4,617,0.6482982171799028,Malay <kedidiemas@yahoogroups.com>
+brasero,256,1796,3356,56,576,354,219,5408,4.733727810650888,Malay <ms@li.org>
+bzr,18,0,33081,4,0,2336,18,33099,0.054382307622586785,Malay <ms@li.org>
+calibre,462,0,49593,96,0,11755,437,50055,0.9229847168115073,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+camorama,306,96,157,95,22,16,297,559,54.74060822898033,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+caribou,23,0,0,11,0,0,26,23,100.0,Malay <gnome-ms@googlegroups.com>
+centerim,1574,743,547,477,188,152,1514,2864,54.95810055865922,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+cheese,372,197,82,95,16,9,333,651,57.14285714285714,Malay <ms@li.org>
+chkconfig,423,0,64,86,0,7,415,487,86.85831622176592,LANGUAGE <LL@li.org>
+choqok,4,261,1767,4,142,374,5,2032,0.19685039370078738,Malay <kedidiemas@yahoogroups.com>
+cinnamon,1238,0,458,432,0,120,1321,1696,72.99528301886792,Malay <ms@li.org>
+clamtk,796,0,0,212,0,0,758,796,100.0,Malay <ms@li.org>
+clementine,2166,0,1773,661,0,436,2201,3939,54.98857578065499,
+colord,0,0,388,0,0,99,0,388,0.0,LANGUAGE <LL@li.org>
+compat-libgda,1422,272,593,308,54,114,1300,2287,62.17752514210756,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+control-center,2032,407,2233,1073,125,354,1965,4672,43.49315068493151,Malay <gabai-penyumbang@lists.sf.net>
+coreutils,1481,3598,14378,296,464,785,1494,19457,7.611656473248702,Malay <translation-team-ms@lists.sourceforge.net>
+cross-binutils,524,0,0,97,0,0,525,524,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+dasher,260,91,72,112,26,29,257,423,61.46572104018912,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+dc3dd,32,151,688,10,27,50,36,871,3.6739380022962114,Malay <translation-team-ms@lists.sourceforge.net>
+deja-dup,1643,0,32,282,0,4,1436,1675,98.08955223880596,Malay <ms@li.org>
+devhelp,111,0,98,25,0,26,109,209,53.110047846889955,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+dexter,228,0,0,92,0,0,215,228,100.0,Malay <ms@li.org>
+dia,3448,1072,1191,1306,429,311,3486,5711,60.3747154613903,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+dialog,25,0,0,23,0,0,26,25,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+diffutils,527,978,275,104,104,37,546,1780,29.606741573033705,Malay <translation-team-ms@lists.sourceforge.net>
+digikam,3,1383,26518,3,712,3233,3,27904,0.010751146788990827,Malay <kedidiemas@yahoogroups.com>
+drwright,44,40,107,11,7,11,39,191,23.036649214659686,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+duplicity,1695,0,6,246,0,1,1700,1701,99.64726631393297,Malay <ms@li.org>
+ekiga,2524,1920,1898,545,159,92,2350,6342,39.79817092399874,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+empathy,357,738,2048,180,176,344,344,3143,11.358574610244988,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+eog,481,41,35,141,3,6,460,557,86.35547576301616,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+epiphany,1537,669,867,467,181,93,1438,3073,50.01627074520013,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+evince,1437,0,0,366,0,0,1355,1437,100.0,Malay <gnome-ms@googlegroups.com>
+evolution,9222,4077,3903,2838,983,459,8881,17202,53.61004534356471,Projek Gabai <gabai-penyumbang@lists.sf.net>
+evolution-data-server,3008,1120,376,597,211,69,3200,4504,66.78507992895204,Projek Gabai <gabai-penyumbang@lists.sf.net>
+evolution-exchange,624,340,944,182,73,69,621,1908,32.70440251572327,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+evolution-mapi,296,45,0,60,7,0,289,341,86.80351906158357,Malay <ms@li.org>
+exaile,3675,0,0,949,0,0,3653,3675,100.0,Malay <ms@li.org>
+expendable,15,99,112,11,45,36,15,226,6.637168141592921,Malay <translation-team-ms@lists.sourceforge.net>
+file-roller,872,77,22,228,13,3,781,971,89.8043254376931,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+findutils,55,59,2016,16,10,173,58,2130,2.5821596244131455,Malay <translation-team-ms@lists.sourceforge.net>
+firstboot,223,0,348,15,0,35,190,571,39.05429071803853,LANGUAGE <LL@li.org>
+freedink,12,70,0,3,12,0,14,82,14.634146341463413,Malay <translation-team-ms@lists.sourceforge.net>
+fslint,388,0,0,132,0,0,379,388,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+garcon,86,0,0,27,0,0,89,86,100.0,Malay <>
+gcalctool,768,57,90,328,30,20,757,915,83.93442622950819,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gcompris,1045,169,2303,269,55,215,966,3517,29.712823429058854,<gabai-penyumbang@lists.sf.net>
+gconf-editor,320,0,0,94,0,0,310,320,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gcr,106,172,344,54,66,107,100,622,17.041800643086816,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gdesklets,29,0,1499,9,0,195,26,1528,1.8979057591623036,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gdk-pixbuf2,867,355,123,131,56,14,823,1345,64.46096654275092,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+gdm,5251,0,43,702,0,1,4666,5294,99.18775972799395,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+gedit,2390,884,932,541,176,303,2105,4206,56.823585354255826,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gedit-plugins,20,322,863,9,134,326,19,1205,1.6597510373443984,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gettext,366,0,0,71,0,0,329,366,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+gftp,1561,594,1220,387,161,86,1441,3375,46.251851851851846,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+ggz-gtk-client,6,0,0,6,0,0,6,6,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+ghex,790,0,0,223,0,0,687,790,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gimp,8788,10640,4866,2660,3150,766,8569,24294,36.173540791965095,Projek Gabai <gabai-penyumbang@lists.sf.net>
+glade,30,102,1319,15,54,339,26,1451,2.067539627842867,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+glade2,5050,461,329,1150,93,57,4363,5840,86.47260273972603,Projek Gabai <gabai-penyumbang@lists.sf.net>
+glade3,30,102,1319,15,54,339,26,1451,2.067539627842867,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+glib2,698,744,3335,105,135,507,651,4777,14.611680971320911,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gmpc,808,0,636,314,0,157,859,1444,55.95567867036011,Malay <ms@li.org>
+gnome-applet-alarm-clock,390,0,27,106,0,4,358,417,93.5251798561151,Malay <ms@li.org>
+gnome-applets,2435,535,1100,690,135,143,2318,4070,59.82800982800983,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gnome-backgrounds,20,0,3,15,0,2,23,23,86.95652173913044,Malay <ms@li.org>
+gnome-bluetooth,519,9,169,160,2,29,486,697,74.46197991391679,Malay <ms@li.org>
+gnome-desktop,349,0,0,53,0,0,332,349,100.0,Projek Gabai <gabai-penyumbang@lists.sf.net>
+gnome-desktop3,377,0,0,61,0,0,360,377,100.0,Projek Gabai <gabai-penyumbang@lists.sf.net>
+gnome-dictionary,13,398,422,12,84,87,25,833,1.56062424969988,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+gnome-disk-utility,1288,0,3256,515,0,562,1281,4544,28.345070422535212,Malay Translation Team <gnome-ms@googlegroups.com>
+gnome-do,612,0,0,144,0,0,595,612,100.0,Malay <ms@li.org>
+gnome-font-viewer,2,5,25,2,4,12,2,32,6.25,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+gnome-games,1592,1417,4057,508,509,681,1451,7066,22.53042739881121,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gnome-gmail,359,0,0,47,0,0,338,359,100.0,Malay <ms@li.org>
+gnome-icon-theme,45,0,7,39,0,7,45,52,86.53846153846155,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gnome-keyring,289,33,168,71,9,29,254,490,58.97959183673469,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gnome-libs,1085,0,0,395,0,0,1041,1085,100.0,Malay <gabai-penyumbang@lists.sourceforge.net>
+gnome-mag,5,0,0,2,0,0,5,5,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gnome-media,1332,147,316,424,40,43,1214,1795,74.20612813370474,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gnome-menus,67,1,0,26,1,0,66,68,98.52941176470588,ms <sebol@ikhlas.com>
+gnome-mime-data,887,0,0,362,0,0,883,887,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gnome-nettool,422,129,66,175,18,20,408,617,68.39546191247973,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gnome-online-accounts,304,0,0,54,0,0,326,304,100.0,Malay <gnome-ms@googlegroups.com>
+gnome-packagekit,284,13,4410,135,2,668,264,4707,6.03356702783089,Malay <ms@li.org>
+gnome-panel,4465,42,49,611,5,11,3845,4556,98.00263388937664,ms <sebol@ikhlas.com>
+gnome-pilot,1547,26,0,331,3,0,1609,1573,98.34710743801654,Projek Gabai <gabai-penyumbang@lists.sf.net>
+gnome-pilot-conduits,86,0,75,31,0,14,91,161,53.41614906832298,Projek Gabai <gabai-penyumbang@lists.sf.net>
+gnome-screensaver,985,0,0,149,0,0,859,985,100.0,Malay <ms@li.org>
+gnome-screenshot,0,22,297,1,7,51,0,319,0.0,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+gnome-search-tool,362,287,710,74,47,79,321,1359,26.637233259749816,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+gnome-session,513,3,0,100,1,0,448,516,99.4186046511628,Projek Gabai <gabai-penyumbang@lists.sf.net>
+gnome-settings-daemon,207,218,609,37,49,85,187,1034,20.01934235976789,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gnome-shell,1005,8,8,247,3,2,950,1021,98.43290891283057,GNOME Malay Team <gnome-ms@googlegroups.com>
+gnome-system-log,20,147,355,7,33,54,29,522,3.8314176245210727,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+gnome-system-monitor,502,0,0,143,0,0,487,502,100.0,ms <sebol@ikhlas.com>
+gnome-terminal,3691,68,663,484,11,26,3219,4422,83.46901854364542,ms <sebol@ikhlas.com>
+gnome-themes,95,0,6,32,0,2,91,101,94.05940594059405,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gnome-vfs2,426,6,0,154,2,0,446,432,98.61111111111111,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+gnome-video-effects,8,5,13,7,5,11,9,26,30.76923076923077,Malay <ms@li.org>
+gnomebaker,246,316,623,46,66,178,222,1185,20.759493670886076,Malay <ms@li.org>
+gnomeradio,443,0,0,100,0,0,402,443,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gnubik,45,75,158,13,16,53,42,278,16.18705035971223,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gnumeric,1863,4032,29151,800,1346,3496,1833,35046,5.315870570107858,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gnutls,852,208,167,192,53,35,787,1227,69.43765281173594,Malay <translation-team-ms@lists.sourceforge.net>
+goffice,288,1034,4879,153,509,1339,293,6201,4.644412191582003,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+goffice08,318,759,3522,167,395,998,323,4599,6.914546640574038,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gok,415,340,1029,203,106,121,412,1784,23.26233183856502,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gpicview,219,0,0,44,0,0,230,219,100.0,LANGUAGE <LL@li.org>
+gtg,607,0,1173,129,0,118,567,1780,34.10112359550562,Malay <ms@li.org>
+gthumb,2218,6,155,780,4,43,2074,2379,93.2324506094998,Malay <translation-team-ms@lists.sourceforge.net>
+gtk2,6341,3609,3754,1165,831,788,5467,13704,46.27116170461179,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+gtk3,4845,3380,3628,912,803,772,4110,11853,40.87572766388256,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+gtkhtml3,890,23,36,407,10,8,841,949,93.78292939936776,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+gtksourceview,572,82,71,231,27,36,563,725,78.89655172413794,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gtksourceview2,572,0,153,231,0,63,563,725,78.89655172413794,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gtksourceview3,572,0,153,231,0,63,563,725,78.89655172413794,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gtkspell,15,0,0,6,0,0,15,15,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+gucharmap,467,5,46,219,2,14,467,518,90.15444015444015,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+gweled,151,0,5,43,0,1,157,156,96.7948717948718,Malay <ms@li.org>
+gwibber,739,0,30,199,0,5,732,769,96.09882964889466,Malay <ms@li.org>
+hello,109,66,18,15,12,3,104,193,56.476683937823836,Malay <translation-team-ms@lists.sourceforge.net>
+hexchat,1120,0,4443,540,0,851,1044,5563,20.133021750853857,LANGUAGE <LL@li.org>
+homebank,1509,0,0,534,0,0,1445,1509,100.0,Malay <ms@li.org>
+im-chooser,2,0,224,1,0,52,2,226,0.8849557522123894,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+initscripts,1805,0,2544,404,0,666,1767,4349,41.50379397562658,<XX@li.org>
+iso-codes,523,2988,8973,343,2609,5763,491,12484,4.189362383851329,Malay
+k3b,25,333,20071,14,253,2255,26,20429,0.12237505506877477,Malay <kedidiemas@yahoogroups.com>
+kaudiocreator,561,177,398,152,48,73,524,1136,49.38380281690141,Malay <kedidiemas@yahoogroups.com>
+kcoloredit,8,92,178,5,29,61,8,278,2.877697841726619,Malay <kedidiemas@yahoogroups.com>
+kexec-tools,95,39,72,9,2,3,83,206,46.116504854368934,LANGUAGE <LL@li.org>
+kiconedit,675,15,36,132,7,16,624,726,92.97520661157024,Malay <kedidiemas@yahoogroups.com>
+kile,37,550,10575,15,327,1560,35,11162,0.3314818132951084,Malay <kedidiemas@yahoogroups.com>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Malay <kedidiemas@yahoogroups.com>
+kio_sysinfo,0,0,168,0,0,72,0,168,0.0,Malay <kde-i18n-doc@kde.org>
+kmymoney,5,943,18206,5,657,2519,5,19154,0.026104207998329333,Malay <kedidiemas@yahoogroups.com>
+knemo,2,61,769,2,36,134,2,832,0.2403846153846154,Malay <kedidiemas@yahoogroups.com>
+knetstats,6,52,61,6,24,23,12,119,5.042016806722689,Malay <kedidiemas@yahoogroups.com>
+koffice-kivio,6049,558,1810,1882,206,273,5952,8417,71.86646073422834,Malay <kedidiemas@yahoogroups.com>
+kpilot,5140,1006,1010,574,169,118,4751,7156,71.8278367803242,Malay <kedidiemas@yahoogroups.com>
+ksig,71,2,12,17,1,8,66,85,83.52941176470588,Malay <kedidiemas@yahoogroups.com>
+ktorrent,56,601,7082,44,295,1050,55,7739,0.7236077012533919,Malay <kedidiemas@yahoogroups.com>
+kwebkitpart,9,206,409,7,71,80,9,624,1.4423076923076923,Malay <kedidiemas@yahoogroups.com>
+libbonobo,485,15,24,101,4,3,485,524,92.55725190839695,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+libbonoboui,314,7,39,92,3,18,287,360,87.22222222222223,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+libcryptui,304,399,1601,117,114,247,295,2304,13.194444444444445,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+libfm,0,0,859,0,0,260,0,859,0.0,LANGUAGE <LL@li.org>
+libgda,96,2373,7312,49,581,1195,98,9781,0.9814947346897045,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+libgnome,1110,0,297,197,0,22,995,1407,78.89125799573561,Malay <gabai-penyumbang@lists.sourceforge.net>
+libgnome-keyring,44,0,0,9,0,0,38,44,100.0,Malay <ms@li.org>
+libgnome-media-profiles,172,27,261,27,4,20,143,460,37.391304347826086,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+libgnomecanvas,357,0,0,94,0,0,327,357,100.0,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+libgnomekbd,183,0,103,47,0,12,166,286,63.98601398601399,Malay <ms@li.org>
+libgnomeprint22,127,0,41,86,0,12,125,168,75.59523809523809,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+libgnomeprintui22,366,37,24,97,22,16,302,427,85.71428571428571,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+libgnomeui,1261,92,66,313,20,12,1121,1419,88.86539816772375,Malay <gabai-penyumbang@lists.sourceforge.net>
+libgtop2,110,22,2,40,3,1,110,134,82.08955223880598,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+libgweather,6046,1062,2172,4729,913,1425,6075,9280,65.15086206896552,Pasukan Terjemahan Malaysia <gnome-ms@googlegroups.com>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libktorrent,6,204,309,5,54,56,6,519,1.1560693641618496,Malay <kedidiemas@yahoogroups.com>
+libmate,707,0,1066,147,0,126,657,1773,39.87591652566272,LANGUAGE <LL@li.org>
+libmatecanvas,353,0,25,93,0,2,323,378,93.38624338624338,LANGUAGE <LL@li.org>
+libmatecomponent,475,0,68,99,0,8,477,543,87.47697974217311,LANGUAGE <LL@li.org>
+libmatecomponentui,314,0,54,92,0,23,287,368,85.32608695652173,LANGUAGE <LL@li.org>
+libmatekbd,183,0,103,47,0,12,166,286,63.98601398601399,Malay <ms@li.org>
+libmatekeyring,44,0,0,9,0,0,38,44,100.0,LANGUAGE <LL@li.org>
+libmateui,1126,0,97,294,0,25,993,1223,92.06868356500408,LANGUAGE <LL@li.org>
+libmateweather,701,1062,2357,481,913,1480,727,4120,17.014563106796114,LANGUAGE <LL@li.org>
+libmatewnck,47,21,5,21,7,2,49,73,64.38356164383562,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+libpwquality,0,0,324,0,0,51,0,324,0.0,LANGUAGE <LL@li.org>
+libuser,1026,0,463,218,0,90,1014,1489,68.90530557421089,LANGUAGE <LL@li.org>
+libvirt,129,14597,19191,48,2752,2837,123,33917,0.3803402423563405,Malay <ms@li.org>
+libwnck,47,21,5,21,7,2,49,73,64.38356164383562,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+libwnck3,47,21,5,21,7,2,49,73,64.38356164383562,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+libxfce4ui,149,0,0,31,0,0,132,149,100.0,Malay <>
+lightdm,79,0,0,17,0,0,76,79,100.0,Malay <ms@li.org>
+lightdm-gtk,56,0,0,18,0,0,53,56,100.0,Malay <ms@li.org>
+liveusb-creator,9,33,248,3,12,24,11,290,3.103448275862069,Malay <translation-team-ms@lists.sourceforge.net>
+lxdm,0,0,30,0,0,18,0,30,0.0,LANGUAGE <LL@li.org>
+lxinput,60,5,7,21,2,1,63,72,83.33333333333334,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,96,97,100.0,ms <sebol@ikhlas.com>
+lxmusic,172,2,29,76,2,11,172,203,84.72906403940887,LANGUAGE <LL@li.org>
+lxpanel,742,143,102,250,49,37,757,987,75.177304964539,LANGUAGE <LL@li.org>
+lxpolkit,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+lxrandr,77,34,11,21,3,3,86,122,63.114754098360656,LANGUAGE <LL@li.org>
+lxsession,36,0,0,14,0,0,31,36,100.0,LANGUAGE <LL@li.org>
+lxsession-edit,56,2,6,9,1,1,54,64,87.5,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,47,43,100.0,LANGUAGE <LL@li.org>
+lxtask,112,0,10,43,0,5,124,122,91.80327868852459,LANGUAGE <LL@li.org>
+lxterminal,71,25,48,52,14,19,88,144,49.30555555555556,LANGUAGE <LL@li.org>
+man-db,13,139,82,4,27,23,15,234,5.555555555555555,Malay <translation-team-ms@lists.sourceforge.net>
+mate-applets,1395,0,1904,347,0,385,1282,3299,42.28554107305244,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-backgrounds,20,0,10,15,0,6,23,30,66.66666666666666,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-bluetooth,519,9,169,160,2,29,486,697,74.46197991391679,Malay <ms@li.org>
+mate-calc,768,57,90,328,30,20,757,915,83.93442622950819,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+mate-character-map,467,5,46,219,2,14,467,518,90.15444015444015,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+mate-conf,2066,0,1966,318,0,166,1952,4032,51.24007936507936,LANGUAGE <LL@li.org>
+mate-conf-editor,320,0,0,94,0,0,310,320,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+mate-control-center,1006,0,1604,367,0,241,964,2610,38.54406130268199,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-desktop,170,0,237,28,0,15,157,407,41.76904176904177,LANGUAGE <LL@li.org>
+mate-dialogs,257,0,374,74,0,75,231,631,40.729001584786054,LANGUAGE <LL@li.org>
+mate-doc-utils,251,0,0,101,0,0,251,251,100.0,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-document-viewer,364,639,389,100,210,23,339,1392,26.14942528735632,Malay <ms@li.org>
+mate-file-archiver,867,77,22,228,13,3,776,966,89.75155279503106,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+mate-file-manager,3601,0,5485,744,0,732,3233,9086,39.63240149680828,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-file-manager-sendto,217,0,0,50,0,0,189,217,100.0,Malay <ms@li.org>
+mate-icon-theme,45,0,7,39,0,7,45,52,86.53846153846155,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+mate-image-viewer,186,0,1437,56,0,259,190,1623,11.460258780036968,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-keyring,652,0,521,149,0,94,554,1173,55.58397271952259,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-media,267,0,653,64,0,165,236,920,29.02173913043478,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-menu-editor,42,0,0,16,0,0,49,42,100.0,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-menus,67,1,0,26,1,0,66,68,98.52941176470588,ms <sebol@ikhlas.com>
+mate-mime-data,887,0,0,362,0,0,883,887,100.0,LANGUAGE <LL@li.org>
+mate-netspeed,134,0,3,47,0,3,122,137,97.8102189781022,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-panel,3993,0,244,552,0,30,3427,4237,94.24120840217135,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-polkit,289,0,0,47,0,0,263,289,100.0,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-power-manager,2232,0,526,401,0,42,1964,2758,80.92820884699057,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-screensaver,989,0,0,157,0,0,930,989,100.0,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-session-manager,513,3,0,100,1,0,448,516,99.4186046511628,Projek Gabai <gabai-penyumbang@lists.sf.net>
+mate-settings-daemon,207,218,609,37,49,85,187,1034,20.01934235976789,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+mate-system-monitor,502,0,0,143,0,0,487,502,100.0,ms <sebol@ikhlas.com>
+mate-terminal,3691,68,663,484,11,26,3219,4422,83.46901854364542,ms <sebol@ikhlas.com>
+mate-text-editor,951,0,4035,263,0,842,848,4986,19.0734055354994,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-themes,109,0,0,30,0,0,108,109,100.0,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-utils,3855,0,66,682,0,6,3433,3921,98.31675592960978,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+mate-vfs,426,0,1093,154,0,151,446,1519,28.04476629361422,LANGUAGE <LL@li.org>
+mate-window-manager,1168,0,948,206,0,120,1084,2116,55.19848771266541,Malay (http://www.transifex.com/projects/p/MATE/language/ms/)
+metacity,2010,41,4868,322,11,131,1886,6919,29.0504408151467,Projek Gabai (Bahasa Melayu) <gabai-penyumbang@lists.sourceforge.net>
+mingw-atk,121,19,235,74,10,42,124,375,32.266666666666666,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+mingw-binutils,524,0,0,97,0,0,525,524,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+mingw-gdk-pixbuf,867,355,123,131,56,14,823,1345,64.46096654275092,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+mingw-gettext,366,0,0,71,0,0,329,366,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+mingw-glib2,698,744,3335,105,135,507,651,4777,14.611680971320911,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+mingw-gnutls,852,208,167,192,53,35,787,1227,69.43765281173594,Malay <translation-team-ms@lists.sourceforge.net>
+mingw-gtk2,6341,3609,3754,1165,831,788,5467,13704,46.27116170461179,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+mingw-gtk3,4845,3380,3628,912,803,772,4110,11853,40.87572766388256,Projek Gabai <gabai-penyumbang@list.sourceforge.net>
+mingw-gtkhtml3,890,23,36,407,10,8,841,949,93.78292939936776,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+mingw-gtksourceview3,572,0,153,231,0,63,563,725,78.89655172413794,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+mingw-libvirt,129,14486,19014,48,2728,2816,123,33629,0.38359749026138157,Malay <ms@li.org>
+mingw-w64-tools,524,0,0,97,0,0,525,524,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+mingw-wxWidgets,6234,109,48,1435,24,16,5822,6391,97.5434204349867,ms_MY <ms@li.org>
+mlocate,165,0,407,31,0,20,157,572,28.846153846153843,LANGUAGE <LL@li.org>
+msp430-binutils,524,0,0,97,0,0,525,524,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+muffin,2010,41,4868,322,11,131,1886,6919,29.0504408151467,Projek Gabai (Bahasa Melayu) <gabai-penyumbang@lists.sourceforge.net>
+mutter,2010,41,4868,322,11,131,1886,6919,29.0504408151467,Projek Gabai (Bahasa Melayu) <gabai-penyumbang@lists.sourceforge.net>
+nano,2389,166,134,390,18,11,2138,2689,88.84343622164373,Malay <translation-team-ms@lists.sourceforge.net>
+nautilus,3885,2513,1632,850,336,78,3568,8030,48.38107098381071,Gnome Malay Translation Team <gnome-ms@googlegroups.com>
+nautilus-sendto,217,0,0,50,0,0,189,217,100.0,Malay <ms@li.org>
+nemo,3885,2513,1632,850,336,78,3568,8030,48.38107098381071,Gnome Malay Translation Team <gnome-ms@googlegroups.com>
+newt,4,0,0,4,0,0,4,4,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Malay <gnome-ms@googlegroups.com>
+oggconvert,132,0,0,44,0,0,129,132,100.0,Malay <ms@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+openconnect,0,0,5146,0,0,938,0,5146,0.0,Malay (http://www.transifex.net/projects/p/meego/team/ms/)
+orage,3,83,2306,3,43,755,4,2392,0.1254180602006689,Malay <translation-team-ms@list.sourceforge.net>
+orca,940,0,3079,456,0,860,924,4019,23.388902712117442,Malay <ms@li.org>
+pam,11,193,398,3,59,59,11,602,1.8272425249169437,Malay <translation-team-ms@lists.sourceforge.net>
+pam_krb5,7,0,0,4,0,0,10,7,100.0,LANGUAGE <LL@li.org>
+pan,232,1683,1253,82,451,219,255,3168,7.3232323232323235,Projek Gabai <gabai-penyumbang@lists.sf.net>
+paprefs,51,56,24,8,12,3,47,131,38.93129770992366,Malay <ms@li.org>
+passwd,225,0,90,41,0,14,226,315,71.42857142857143,LANGUAGE <LL@li.org>
+pastebinit,4,0,179,1,0,26,3,183,2.185792349726776,Malay <ms@li.org>
+pcmanfm,31,56,712,9,18,174,32,799,3.879849812265332,LANGUAGE <LL@li.org>
+pessulus,130,0,0,33,0,0,118,130,100.0,Malay <ms@li.org>
+phatch,271,0,2282,179,0,645,272,2553,10.614962788875832,Malay <ms@li.org>
+pidgin,55,0,18301,18,0,3885,52,18356,0.29962954892133364,Malay <kedidiemas@yahoogroups.com>
+pinta,1021,0,290,369,0,77,1067,1311,77.8794813119756,Malay <ms@li.org>
+planner,919,170,0,327,28,0,856,1089,84.38934802571167,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+poedit,1043,93,26,249,18,2,974,1162,89.7590361445783,Malay <ms@li.org>
+pogo,576,0,0,101,0,0,526,576,100.0,Malay <ms@li.org>
+policycoreutils,417,0,3886,65,0,665,405,4303,9.69091331629096,LANGUAGE <LL@li.org>
+polkit-kde,19,16,57,5,10,11,19,92,20.652173913043477,Malay <kedidiemas@yahoogroups.com>
+pootle,1114,173,2256,880,47,422,1141,3543,31.4422805532035,LANGUAGE <LL@li.org>
+publican,0,0,1094,0,0,72,0,1094,0.0,LANGUAGE <kde-i18n-doc@kde.org>
+publican-fedora,0,0,107,0,0,6,0,107,0.0,LANGUAGE <LL@li.org>
+pykickstart,193,0,150,17,0,19,178,343,56.268221574344025,LANGUAGE <LL@li.org>
+redhat-menus,261,0,0,86,0,0,249,261,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+rednotebook,1056,0,0,233,0,0,993,1056,100.0,Malay <ms@li.org>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,166,0,4182,38,0,395,147,4348,3.8178472861085555,LANGUAGE <LL@li.org>
+rhnsd,20,0,17,5,0,4,20,37,54.054054054054056,LANGUAGE <LL@li.org>
+rhythmbox,1021,0,0,282,0,0,931,1021,100.0,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+rpm,164,1173,2517,53,283,412,173,3854,4.25531914893617,Malay <translation-team-ms@lists.sourceforge.net>
+sawfish,740,2149,3554,235,426,321,698,6443,11.485332919447462,Projek Gabai (Bahasa Melayu) <gabai-penyumbang@lists.sourceforge.net>
+seahorse,304,399,1601,117,114,247,295,2304,13.194444444444445,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+seahorse-nautilus,5,167,249,3,50,57,5,421,1.187648456057007,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+seahorse-plugins,304,399,1601,117,114,247,295,2304,13.194444444444445,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+setroubleshoot,40,0,591,18,0,156,45,631,6.3391442155309035,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8291,0,0,399,0,8291,0.0,LANGUAGE <LL@li.org>
+setuptool,47,8,0,13,1,0,48,55,85.45454545454545,Malay <gabai-penyumbang@lists.sf.net>
+sh-elf-binutils,524,0,0,97,0,0,525,524,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+shared-mime-info,646,0,1023,269,0,385,647,1669,38.705811863391254,LANGUAGE <LL@li.org>
+shutter,3351,0,0,625,0,0,3187,3351,100.0,Malay <ms@li.org>
+simple-scan,23,0,628,19,0,99,29,651,3.5330261136712746,Malay <ms@li.org>
+skrooge,8,2323,5183,8,922,893,8,7514,0.10646792653713069,Malay <kedidiemas@yahoogroups.com>
+smolt,15,103,848,15,36,81,15,966,1.5527950310559007,Malay <translation-team-ms@lists.sourceforge.net>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,465,8,123,116,2,9,428,596,78.02013422818791,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+soundconverter,462,0,0,129,0,0,453,462,100.0,Malay <ms@li.org>
+spacefm,694,0,7562,223,0,1274,691,8256,8.406007751937985,LANGUAGE <LL@li.org>
+squirrelmail,3202,1606,2070,881,256,214,3203,6878,46.55423088107008,SquirrelMail Melayu <squirrelmail_melayu@tjp54.org>
+steadyflow,423,0,47,88,0,5,424,470,90.0,Malay <ms@li.org>
+stellarium,9200,0,86,2768,0,21,8567,9286,99.07387465001078,Malay <ms@li.org>
+sugar,802,5,787,203,4,182,774,1594,50.31367628607277,LANGUAGE <LL@li.org>
+sugar-abacus,24,0,0,24,0,0,25,24,100.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,81,0,0,35,0,81,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,30,12,817,12,12,142,29,859,3.4924330616996504,LANGUAGE <LL@li.org>
+sugar-calendario,2,0,41,2,0,25,2,43,4.651162790697675,LANGUAGE <LL@li.org>
+sugar-chat,6,0,44,3,0,30,6,50,12.0,LANGUAGE <LL@li.org>
+sugar-clock,3,8,11,3,2,7,3,22,13.636363636363635,LANGUAGE <LL@li.org>
+sugar-finance,143,0,0,32,0,0,124,143,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,1,0,46,1,0,25,1,47,2.127659574468085,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,24,0,0,11,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,159,0,25,47,0,9,172,184,86.41304347826086,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,77,0,0,19,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,114,0,0,71,0,114,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,91,0,0,32,0,91,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,64,0,0,49,0,64,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,28,0,0,27,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,109,0,0,31,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,60,0,0,31,0,60,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,15,0,0,6,0,15,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,73,0,0,37,0,0,64,73,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,71,0,0,35,0,0,62,71,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,2574,1,0,680,1,2576,0.07763975155279502,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,81,0,0,48,0,81,0.0,LANGUAGE <LL@li.org>
+switchdesk,137,0,0,19,0,0,123,137,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-bind,870,8331,218,256,778,30,758,9419,9.236649325830767,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-boot,46,2,71,10,1,12,44,119,38.655462184873954,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-date,790,1,1059,576,1,247,780,1850,42.7027027027027,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,66,599,2149,20,78,233,67,2814,2.345415778251599,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-httpd,858,0,0,223,0,0,786,858,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-kdump,235,87,485,13,19,106,194,807,29.120198265179674,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-keyboard,169,18,0,71,10,0,166,187,90.37433155080214,Malay <gabai-penyumbang@lists.sf.net>
+system-config-kickstart,775,177,152,194,39,12,706,1104,70.19927536231883,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-language,36,9,278,7,2,47,30,323,11.145510835913312,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-lvm,653,78,1505,211,30,103,633,2236,29.203935599284435,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-network,1563,1110,359,460,221,40,1465,3032,51.55013192612137,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-nfs,306,0,26,68,0,4,297,332,92.16867469879519,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,93,824,2140,66,329,347,92,3057,3.042198233562316,Malay <translation-team-ms@lists.sourceforge.net>
+system-config-rootpassword,15,26,75,3,5,11,12,116,12.931034482758621,Malay <gabai-penyumbang@lists.sf.net>
+system-config-samba,299,0,272,105,0,29,280,571,52.364273204903675,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,24,0,494,10,0,61,23,518,4.633204633204633,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,782,0,670,126,0,47,666,1452,53.85674931129476,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,131,134,100.0,Malay <translation-team-ms@lists.sourceforge.net>
+tar,561,729,2027,116,108,323,562,3317,16.912873078082605,Malay <translation-team-ms@lists.sourceforge.net>
+tellico,44,371,5350,23,238,948,43,5765,0.7632263660017345,Malay <kedidiemas@yahoogroups.com>
+terminator,726,0,0,254,0,0,716,726,100.0,Malay <ms@li.org>
+tomboy,202,641,2214,66,237,134,215,3057,6.607785410533203,Malay <ms@li.org>
+totem,685,430,1496,226,141,225,619,2611,26.23515894293374,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+totem-pl-parser,1526,7,0,353,1,0,1335,1533,99.54337899543378,Projek Gabai <gabai-penyumbang@lists.sourceforge.org>
+transifex,2,0,6016,2,0,1017,2,6018,0.03323363243602526,LANGUAGE <LL@li.org>
+transmission,1809,0,0,494,0,0,1876,1809,100.0,Malay <ms@li.org>
+tumbler,343,0,0,55,0,0,313,343,100.0,Malay <>
+tuxpaint,316,617,314,90,76,86,284,1247,25.340817963111466,Malay <kedidiemas@yahoogroups.com>
+tuxpaint-stamps,382,793,1536,104,267,279,298,2711,14.090741423828845,Malay <kedidiemas@yahoogroups.com>
+umit,1800,1344,1449,265,291,321,1620,4593,39.19007184846506,Bahasa Melayu <ms_MY@li.org>
+usermode,544,0,28,92,0,4,503,572,95.1048951048951,LANGUAGE <LL@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+vinagre,191,0,1433,64,0,216,180,1624,11.761083743842365,Malay <ms@li.org>
+vino,313,0,227,61,0,9,261,540,57.96296296296296,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+virt-manager,27,0,4914,23,0,1124,35,4941,0.546448087431694,LANGUAGE <LL@li.org>
+vte,96,0,0,18,0,0,101,96,100.0,ms <sebol@ikhlas.com>
+vte3,96,0,0,18,0,0,101,96,100.0,ms <sebol@ikhlas.com>
+wdiff,132,771,89,20,107,23,130,992,13.306451612903224,Malay <translation-team-ms@lists.sourceforge.net>
+widelands,82,0,11825,73,0,1912,93,11907,0.6886705299403711,Malay <ms@li.org>
+wxGTK,6234,109,48,1435,24,16,5822,6391,97.5434204349867,ms_MY <ms@li.org>
+wxPython,6234,109,48,1435,24,16,5822,6391,97.5434204349867,ms_MY <ms@li.org>
+xchat-gnome,1352,102,2447,543,37,400,1224,3901,34.6577800563958,Malay <translation-team-ms@lists.sourceforge.net>
+xfce-utils,492,0,0,72,0,0,469,492,100.0,Malay <>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Malay <translation-team-ms@list.sourceforge.net>
+xfce4-panel,1504,0,0,344,0,0,1419,1504,100.0,Malay <>
+xfce4-session,1132,0,0,230,0,0,1075,1132,100.0,Malay <>
+xfconf,437,0,0,63,0,0,403,437,100.0,Malay <>
+xfdesktop,835,0,0,199,0,0,777,835,100.0,Malay <>
+xfwm4,837,0,0,230,0,0,889,837,100.0,Malay <>
+xmms,391,324,2728,197,168,680,400,3443,11.356375254138833,Malay <kedidiemas@yahoogroups.com>
+xnoise,0,8,913,0,3,259,0,921,0.0,
+yelp,172,74,360,73,34,41,170,606,28.38283828382838,Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>
+yum,91,0,2978,28,0,632,91,3069,2.965135223199739,LANGUAGE <LL@li.org>
+yum-rhn-plugin,51,0,68,7,0,8,43,119,42.857142857142854,LANGUAGE <LL@li.org>
+zenity,272,70,52,82,20,10,245,394,69.03553299492386,Projek Gabai <gabai-penyumbang@lists.sourceforge.net>
+zif,516,0,358,151,0,82,520,874,59.03890160183066,LANGUAGE <LL@li.org>

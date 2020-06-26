@@ -1,0 +1,771 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3832,72,50,443,11,7,3670,3954,96.91451694486595,Bosnian <lokal@linux.org.ba>
+LabPlot,2115,3909,4973,606,1413,989,2142,10997,19.232517959443484,Bosnian <kde-i18n-doc@kde.org>
+NetworkManager,0,372,27387,0,97,2124,0,27759,0.0,Bosnian <lokal@linux.org.ba>
+NetworkManager-fortisslvpn,43,56,224,10,15,35,43,323,13.312693498452013,Bosnian <bs@li.org>
+NetworkManager-iodine,75,0,0,21,0,0,78,75,100.0,Bosnian <bs@li.org>
+NetworkManager-l2tp,403,0,832,79,0,107,396,1235,32.631578947368425,Bosnian <bs@li.org>
+NetworkManager-libreswan,62,31,372,19,8,49,63,465,13.333333333333334,Bosnian <bs@li.org>
+NetworkManager-openconnect,4586,0,1776,815,0,301,4629,6362,72.08425023577492,Bosnian <bs@li.org>
+NetworkManager-openvpn,574,416,986,106,48,119,569,1976,29.048582995951417,Bosnian <bs@li.org>
+NetworkManager-pptp,410,0,0,74,0,0,411,410,100.0,Bosnian <bs@li.org>
+NetworkManager-sstp,260,99,475,47,22,73,265,834,31.17505995203837,Bosnian <bs@li.org>
+NetworkManager-vpnc,494,0,0,91,0,0,482,494,100.0,Bosnian <bs@li.org>
+WindowMaker,1356,0,8,267,0,1,1379,1364,99.41348973607037,Bosanski <lugzdk@lugzdk.ba>
+abrt,1160,22,2494,130,6,281,1188,3676,31.556039173014145,Bosnian <https://translate.fedoraproject.org/projects/abrt/abrt/bs/>
+accerciser,658,0,0,224,0,0,640,658,100.0,Bosnian <bs@li.org>
+aisleriot,3028,0,0,656,0,0,2259,3028,100.0,Bosnian <bs@li.org>
+akonadi-calendar-tools,544,188,53,125,37,10,574,785,69.29936305732484,Bosnian <bs@li.org>
+akonadi-import-wizard,240,71,83,58,17,9,233,394,60.913705583756354,Bosnian <bs@li.org>
+akregator,1413,245,250,344,62,41,1403,1908,74.05660377358491,Bosnian <bs@li.org>
+alacarte,45,0,0,20,0,0,41,45,100.0,Bosnian <bs@li.org>
+almanah,784,0,0,138,0,0,796,784,100.0,Bosnian <bs@li.org>
+amarok,15626,111,82,2771,7,2,15340,15819,98.77994816360072,bosanski <bs@li.org>
+anaconda,93,17,7907,18,4,1331,79,8017,1.1600349257827116,Bosnian (http://www.transifex.com/projects/p/anaconda/language/bs/)
+analitza,539,0,453,159,0,63,492,992,54.33467741935484,Bosnian
+android-tools,1052,46,6580,171,12,895,1076,7678,13.701484761656681,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+anjuta,8397,0,0,2059,0,0,8290,8397,100.0,Bosnian <gnom@prevod.org>
+apt,251,419,4743,77,85,548,246,5413,4.636985036024386,Bosnian <lokal@lugbih.org>
+arandr,172,0,1,37,0,1,152,173,99.42196531791907,Bosnian <bs@li.org>
+ark,541,716,674,109,129,108,510,1931,28.016571724495083,Bosanski <lokal@lugbih.org>
+artikulate,133,105,100,67,49,33,142,338,39.349112426035504,bosanski <bs@li.org>
+asunder,429,27,36,78,3,10,419,492,87.1951219512195,CROATIAN <codemaster@lavabit.com>
+at-spi2-core,10,0,0,2,0,0,10,10,100.0,Bosnian <bs@li.org>
+atk,440,0,0,169,0,0,430,440,100.0,Bosnian <lokal@linux.org.ba>
+atomix,156,0,0,50,0,0,148,156,100.0,Bosnian <bs@li.org>
+atril,886,0,3503,286,0,450,813,4389,20.186830713146502,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+audacity,2383,5478,10645,698,1676,1929,2365,18506,12.876904787636443,Bosnian <bhld@lists.linux.org.ba>
+audex,3300,22,25,404,5,3,3069,3347,98.59575739468181,Bosnian
+avogadro,3191,0,2851,1224,0,902,3150,6042,52.81363786825555,Bosnian <bs@li.org>
+avogadro2,9,0,455,3,0,149,9,464,1.9396551724137931,Bosnian <https://hosted.weblate.org/projects/avogadro/avogadroapp/bs/>
+avogadro2-libs,299,249,3428,235,103,856,326,3976,7.520120724346077,Bosnian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/bs/>
+backintime,127,0,1845,55,0,294,123,1972,6.440162271805273,Bosnian <bs@li.org>
+baloo-widgets,23,16,13,13,8,10,24,52,44.230769230769226,Bosnian
+baobab,210,0,0,57,0,0,217,210,100.0,<lokal@linux.org.ba>
+bijiben,309,0,0,103,0,0,319,309,100.0,Bosnian <bs@li.org>
+bleachbit,1818,0,0,352,0,0,1694,1818,100.0,Bosnian <bs@li.org>
+blinken,126,8,0,46,1,0,138,134,94.02985074626866,Bosnian <bs@li.org>
+blogilo,1351,28,13,327,7,3,1260,1392,97.05459770114942,Bosnian <bs@li.org>
+blueberry,124,0,42,31,0,6,117,166,74.69879518072288,Bosnian <bs@li.org>
+bluedevil,132,134,59,43,30,13,128,325,40.61538461538461,Bosnian <bs@li.org>
+blueman,236,119,1508,126,64,403,237,1863,12.66774020397209,Bosnian (http://www.transifex.com/mate/MATE/language/bs/)
+bomber,75,9,26,23,1,3,73,110,68.18181818181817,Bosnian <bs@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+bovo,77,4,0,24,1,0,68,81,95.06172839506173,Bosnian <bs@li.org>
+brasero,5546,0,0,968,0,0,5058,5546,100.0,Bosnian <bs@li.org>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+caja,3314,0,6361,731,0,873,2949,9675,34.253229974160206,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+caja-actions,102,0,18713,67,0,1449,97,18815,0.5421206484188148,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+caja-extensions,114,0,646,45,0,100,108,760,15.0,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+calibre,9885,0,160589,6712,0,12553,9489,170474,5.798538193507515,Bosnian (http://www.transifex.com/calibre/calibre/language/bs/)
+calligra,34185,1126,641,7476,203,130,30825,35952,95.0851134846462,Bosnian <kde-i18n-doc@kde.org>
+calligraplan,5885,1226,2832,1481,328,356,5647,9943,59.187367997586236,Bosnian <bs@li.org>
+camorama,455,132,248,96,29,44,439,835,54.49101796407185,Bosnian <lokal@linux.org.ba>
+cantor,1300,752,1607,383,134,216,1349,3659,35.52883301448483,Bosnian <bs@li.org>
+caribou,169,0,0,57,0,0,169,169,100.0,Bosnian <bs@li.org>
+cervisia,1579,33,7,410,9,2,1522,1619,97.52933909820877,Bosanski <lokal@lugbih.org>
+cheese,613,0,0,120,0,0,578,613,100.0,Bosnian <bs@li.org>
+chkconfig,397,30,166,80,7,21,395,593,66.94772344013491,Bosnian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bs/>
+chromium,13762,0,0,2949,0,0,12942,13762,100.0,Bosnian <lokal@linux.org.ba>
+cinnamon-control-center,550,59,704,550,40,166,562,1313,41.88880426504189,Bosnian <lokal@linux.org.ba>
+cinnamon-desktop,3,0,231,1,0,31,3,234,1.282051282051282,Bosnian <lokal@lugbih.org>
+cinnamon-translations,10703,0,11079,2541,0,2284,10698,21782,49.13690202919842,Bosnian <bs@li.org>
+clamtk,769,0,0,210,0,0,725,769,100.0,Bosnian <bs@li.org>
+clementine,2282,0,2969,721,0,670,2322,5251,43.458388878308895,Bosnian (http://www.transifex.com/davidsansome/clementine/language/bs/)
+clutter,2936,121,0,657,18,0,2583,3057,96.04187111547269,Bosnian <bs@li.org>
+cogl,378,0,0,76,0,0,382,378,100.0,Bosnian <bs@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord-kde,361,8,0,118,2,0,359,369,97.8319783197832,Bosnian
+console-setup,946,30,8,171,4,4,820,984,96.13821138211382,Bosnian <lokal@linux.org.ba>
+d-feet,109,0,0,36,0,0,112,109,100.0,Bosnian <bs@li.org>
+dasher,1292,0,0,249,0,0,1280,1292,100.0,Bosnian <bs@li.org>
+dconf-editor,136,39,1289,19,17,151,125,1464,9.289617486338798,Bosnian <prevod@linux.org.ba>
+debconf,737,65,60,84,6,4,681,862,85.49883990719258,Bosnian <lokal@linux.org.ba>
+deja-dup,1506,0,1869,229,0,185,1479,3375,44.62222222222223,Bosnian <bs@li.org>
+deluge,163,0,4177,83,0,1250,166,4340,3.7557603686635943,Bosnian <bs@li.org>
+devhelp,443,0,0,107,0,0,404,443,100.0,Bosnian <bs@li.org>
+dia,303,145,5263,72,27,1947,297,5711,5.3055506916476975,Bosnian <lokal@linux.org.ba>
+digikam,21313,21936,14773,3348,4612,1354,19837,58022,36.73261866188687,Bosnian <bs@li.org>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dnfdragora,154,0,1578,116,0,349,165,1732,8.891454965357967,Bosnian (https://www.transifex.com/MageiaLinux/teams/9361/bs/)
+dpkg,134,607,11084,62,106,1276,135,11825,1.1331923890063424,Bosnian <lokal@linux.org.ba>
+dragon,174,90,9,37,47,4,163,273,63.73626373626373,Bosnian <bs@li.org>
+duplicity,656,0,1559,87,0,232,666,2215,29.61625282167043,Bosnian <bs@li.org>
+e16,1968,21,816,354,5,156,1921,2805,70.16042780748664,Bosnian <lokal@linux.org.ba>
+easytag,5310,0,0,1029,0,0,5121,5310,100.0,Bosnian <bs@li.org>
+elementary-calculator,71,16,148,33,7,35,73,235,30.21276595744681,Bosnian <https://weblate.elementary.io/projects/calculator/calculator/bs/>
+elementary-calendar,358,103,427,149,27,82,440,888,40.31531531531532,Bosnian <https://weblate.elementary.io/projects/calendar/calendar/bs/>
+elementary-camera,55,5,145,13,2,32,49,205,26.82926829268293,Bosnian <https://weblate.elementary.io/projects/camera/camera/bs/>
+elementary-capnet-assist,66,7,17,10,1,5,75,90,73.33333333333333,Bosnian <https://weblate.elementary.io/projects/desktop/capnet-assist/bs/>
+elementary-code,400,200,1008,138,31,138,397,1608,24.875621890547265,Bosnian <https://weblate.elementary.io/projects/code/code/bs/>
+elementary-files,1229,649,1791,302,102,260,1254,3669,33.49686563096211,Bosnian <https://weblate.elementary.io/projects/files/files/bs/>
+elementary-greeter,31,11,177,12,2,34,31,219,14.15525114155251,Bosnian <https://weblate.elementary.io/projects/desktop/greeter/bs/>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,33,112,513,15,45,93,35,658,5.015197568389058,Bosnian <bs@li.org>
+elementary-music,1002,15,188,308,5,41,1085,1205,83.15352697095436,Bosnian <https://weblate.elementary.io/projects/music/music/bs/>
+elementary-notifications,2,0,48,1,0,13,2,50,4.0,Bosnian <https://l10n.elementary.io/projects/desktop/notifications-extra/bs/>
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,3248,481,282,735,41,42,3414,4011,80.97731239092496,Bosnian <https://weblate.elementary.io/projects/photos/photos/bs/>
+elementary-screenshot-tool,116,4,128,36,2,22,109,248,46.774193548387096,Bosnian <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/bs/>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,72,23,35,31,8,6,79,130,55.38461538461539,Bosnian <https://weblate.elementary.io/projects/desktop/shortcut-overlay/bs/>
+elementary-sideload,3,0,316,2,0,59,3,319,0.9404388714733543,Bosnian <https://l10n.elementary.io/projects/desktop/sideload/bs/>
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,130,42,524,35,7,84,121,696,18.67816091954023,Bosnian <https://weblate.elementary.io/projects/terminal/terminal/bs/>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,150,7,234,51,3,42,153,391,38.36317135549872,Bosnian <https://weblate.elementary.io/projects/videos/videos/bs/>
+elisa-player,0,0,676,0,0,236,0,676,0.0,none
+engrampa,743,0,7095,207,0,686,672,7838,9.479459045674917,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+entangle,0,0,953,0,0,229,0,953,0.0,Bosnian
+eog,1502,0,0,288,0,0,1472,1502,100.0,Bosnian <lokal@linux.org.ba>
+eog-plugins,416,0,0,101,0,0,397,416,100.0,Bosnian <bs@li.org>
+eom,346,0,1433,137,0,204,346,1779,19.44912872400225,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+epiphany,2615,0,0,596,0,0,2505,2615,100.0,Bosnian <bs@li.org>
+evince,1532,0,0,360,0,0,1473,1532,100.0,Bosnian <bs@li.org>
+evolution,23235,0,0,4962,0,0,21506,23235,100.0,Bosnian <lokal@lugbih.org>
+evolution-data-server,5383,0,0,1082,0,0,5461,5383,100.0,Bosnian <lokal@linux.org.ba>
+evolution-ews,1168,0,0,240,0,0,1194,1168,100.0,Bosnian <bs@li.org>
+evolution-mapi,1041,0,0,233,0,0,1055,1041,100.0,Bosnian <bs@li.org>
+evolution-rss,884,0,0,225,0,0,862,884,100.0,Bosnian <bs@li.org>
+exaile,340,211,3617,175,90,827,321,4168,8.157389635316699,Bosnian <https://hosted.weblate.org/projects/exaile/master/bs/>
+exiv2,23653,3796,10563,4390,939,757,21639,38012,62.2250868146901,Bosnian <bs@li.org>
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+file-roller,1195,0,0,268,0,0,1160,1195,100.0,Bosnian <lokal@linux.org.ba>
+filelight,344,46,45,76,10,12,340,435,79.08045977011494,Bosnian <bs@li.org>
+five-or-more,279,0,0,64,0,0,241,279,100.0,Bosnian <bs@li.org>
+focuswriter,129,0,0,7,0,0,154,129,100.0,Bosnian (http://www.transifex.com/gottcode/focuswriter/language/bs/)
+folks,1011,0,0,124,0,0,953,1011,100.0,Bosnian <bs@li.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Bosnian
+four-in-a-row,247,0,0,71,0,0,237,247,100.0,Bosnian <bs@li.org>
+fragments,805,0,1201,238,0,288,908,2006,40.1296111665005,Bosnian (https://www.transifex.com/transmissionbt/teams/33778/bs/)
+frogr,619,42,3,177,6,1,641,664,93.22289156626506,Bosnian <bs@li.org>
+fuse-encfs,46,0,1243,8,0,129,44,1289,3.5686578743211794,Bosnian <bs@li.org>
+gala,41,21,296,16,3,54,48,358,11.452513966480447,Bosnian <https://l10n.elementary.io/projects/desktop/gala/bs/>
+gbrainy,8582,56,0,1136,3,0,8310,8638,99.3517017828201,Bosnian <bs@li.org>
+gcab,154,0,0,32,0,0,150,154,100.0,Bosnian <bs@li.org>
+gconf-editor,320,0,0,94,0,0,314,320,100.0,Bosnian <lokal@linux.org.ba>
+gcr,700,0,0,254,0,0,676,700,100.0,Bosnian <lokal@linux.org.ba>
+gdk-pixbuf2,1478,0,0,228,0,0,1532,1478,100.0,Bosnian <lokal@linux.org.ba>
+gdm,650,0,0,87,0,0,629,650,100.0,Bosnian <bs@li.org>
+geary,1536,0,0,413,0,0,1624,1536,100.0,Bosnian <bs@li.org>
+gedit,4087,0,0,685,0,0,4003,4087,100.0,Bosnian <lokal@linux.org.ba>
+gedit-latex,468,0,0,226,0,0,473,468,100.0,Bosnian <bs@li.org>
+gedit-plugins,893,0,0,148,0,0,840,893,100.0,Bosnian <bs@li.org>
+gegl04,6792,0,0,1327,0,0,6166,6792,100.0,Bosnian <bs@li.org>
+genius,8497,0,0,1114,0,0,7673,8497,100.0,Bosnian <bs@li.org>
+gftp,3334,0,0,593,0,0,3289,3334,100.0,Bosnian <bs@li.org>
+ghex,973,0,0,233,0,0,905,973,100.0,Bosnian <bs@li.org>
+gimp,28140,0,0,7238,0,0,26750,28140,100.0,Bosnian <bs@li.org>
+gitg,1342,0,0,244,0,0,1262,1342,100.0,Bosnian <bs@li.org>
+glabels,2431,0,0,773,0,0,2392,2431,100.0,Bosnian <bs@li.org>
+glade,6709,0,0,1731,0,0,6461,6709,100.0,Bosnian <bs@li.org>
+glib-networking,157,0,0,28,0,0,154,157,100.0,Bosnian <bs@li.org>
+glib2,5697,0,0,904,0,0,5735,5697,100.0,Bosnian <lokal@lugbih.org>
+gnome-2048,278,0,0,44,0,0,260,278,100.0,Bosnian <prevod@linux.org.ba>
+gnome-abrt,221,0,0,55,0,0,224,221,100.0,Bosnian <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/bs/>
+gnome-applets,2806,0,0,621,0,0,2669,2806,100.0,Bosnian <lokal@linux.org.ba>
+gnome-bluetooth,309,0,0,102,0,0,313,309,100.0,Bosnian <bs@li.org>
+gnome-books,528,6,15,171,1,2,530,549,96.17486338797814,Bosnian <bs@li.org>
+gnome-boxes,968,0,0,217,0,0,969,968,100.0,Bosnian <bs@li.org>
+gnome-break-timer,461,75,60,72,4,7,468,596,77.3489932885906,Bosnian <bs@li.org>
+gnome-builder,1857,0,0,399,0,0,1785,1857,100.0,Bosnian <prevod@linux.org.ba>
+gnome-calculator,1464,0,0,535,0,0,1357,1464,100.0,Bosnian <lokal@linux.org.ba>
+gnome-calendar,224,0,0,67,0,0,219,224,100.0,Bosnian <bs@li.org>
+gnome-chess,1291,0,0,224,0,0,1193,1291,100.0,Bosnian <bs@li.org>
+gnome-clocks,223,0,0,77,0,0,220,223,100.0,Bosnian <bs@li.org>
+gnome-color-manager,1793,0,0,343,0,0,1549,1793,100.0,Bosnian <bs@li.org>
+gnome-commander,8567,0,0,1653,0,0,7645,8567,100.0,Bosnian <bs@li.org>
+gnome-contacts,411,0,0,156,0,0,418,411,100.0,Bosnian <bs@li.org>
+gnome-control-center,5546,59,704,2008,40,166,5391,6309,87.90616579489618,Bosnian <lokal@linux.org.ba>
+gnome-desktop3,146,0,0,23,0,0,134,146,100.0,Bosnian <lokal@lugbih.org>
+gnome-dictionary,854,0,0,188,0,0,869,854,100.0,Bosnian <bs@li.org>
+gnome-directory-thumbnailer,85,0,0,12,0,0,103,85,100.0,Bosnian <bs@li.org>
+gnome-disk-utility,3435,0,0,636,0,0,3325,3435,100.0,Bosnian <bs@li.org>
+gnome-do,473,0,139,119,0,25,474,612,77.2875816993464,Bosnian <bs@li.org>
+gnome-extensions-app,1486,0,0,360,0,0,1479,1486,100.0,Bosnian <bs@li.org>
+gnome-flashback,567,0,0,87,0,0,552,567,100.0,Bosnian <bs@li.org>
+gnome-font-viewer,130,0,0,30,0,0,127,130,100.0,<lokal@linux.org.ba>
+gnome-icon-theme,52,0,0,46,0,0,51,52,100.0,Bosnian <lokal@linux.org.ba>
+gnome-initial-setup,638,0,0,109,0,0,580,638,100.0,Bosnian <bs@li.org>
+gnome-keyring,553,0,0,112,0,0,522,553,100.0,Bosnian <lokal@linux.org.ba>
+gnome-klotski,195,0,0,62,0,0,194,195,100.0,Bosnian <bs@li.org>
+gnome-logs,140,0,0,42,0,0,142,140,100.0,Bosnian <bs@li.org>
+gnome-mahjongg,304,0,0,63,0,0,259,304,100.0,Bosnian <bs@li.org>
+gnome-maps,485,0,0,111,0,0,471,485,100.0,Bosnian <bs@li.org>
+gnome-menus,70,0,0,27,0,0,70,70,100.0,Bosnian <bs@li.org>
+gnome-mime-data,887,0,0,362,0,0,932,887,100.0,Bosnian <lokal@lugbih.org>
+gnome-mines,334,0,0,72,0,0,304,334,100.0,Bosnian <bs@li.org>
+gnome-multi-writer,387,0,0,60,0,0,368,387,100.0,Bosnian <prevod@linux.org.ba>
+gnome-music,458,0,0,85,0,0,397,458,100.0,Bosnian <bs@li.org>
+gnome-nettool,481,37,2,172,6,2,463,520,92.5,Bosnian <lokal@linux.org.ba>
+gnome-nibbles,386,0,0,93,0,0,367,386,100.0,Bosnian <bs@li.org>
+gnome-online-accounts,687,0,0,147,0,0,695,687,100.0,Bosnian <bs@li.org>
+gnome-packagekit,3593,0,0,583,0,0,3428,3593,100.0,Bosnian <bs@li.org>
+gnome-panel,3427,0,0,507,0,0,3115,3427,100.0,Bosnian <bs@li.org>
+gnome-photos,379,0,0,126,0,0,379,379,100.0,Bosnian <bs@li.org>
+gnome-power-manager,483,0,0,148,0,0,504,483,100.0,Bosnian <bs@li.org>
+gnome-robots,629,0,0,107,0,0,588,629,100.0,Bosnian <bs@li.org>
+gnome-screenshot,455,0,0,78,0,0,425,455,100.0,<lokal@linux.org.ba>
+gnome-search-tool,362,287,710,74,47,79,374,1359,26.637233259749816,<lokal@linux.org.ba>
+gnome-session,327,0,0,60,0,0,328,327,100.0,Bosnian <+>
+gnome-settings-daemon,2494,0,0,416,0,0,2426,2494,100.0,Bosnian <lokal@linux.org.ba>
+gnome-shell,1486,0,0,360,0,0,1479,1486,100.0,Bosnian <bs@li.org>
+gnome-shell-extensions,380,0,0,70,0,0,370,380,100.0,Bosnian <bs@li.org>
+gnome-shell-frippery,20,0,0,6,0,0,25,20,100.0,
+gnome-software,1391,0,0,429,0,0,1376,1391,100.0,Bosnian <bs@li.org>
+gnome-sound-recorder,253,0,0,65,0,0,252,253,100.0,Bosnian <bs@li.org>
+gnome-subtitles,1089,0,0,324,0,0,1010,1089,100.0,Bosnian <bs@li.org>
+gnome-sudoku,339,0,0,58,0,0,312,339,100.0,Bosnian <bs@li.org>
+gnome-system-log,20,147,355,7,33,54,22,522,3.8314176245210727,<lokal@linux.org.ba>
+gnome-system-monitor,1289,0,0,292,0,0,1244,1289,100.0,Bosnian <lokal@linux.org.ba>
+gnome-taquin,229,0,0,47,0,0,207,229,100.0,Bosnian <prevod@linux.org.ba>
+gnome-terminal,2218,0,0,440,0,0,2087,2218,100.0,Bosnian <lokal@linux.org.ba>
+gnome-tetravex,220,0,0,45,0,0,189,220,100.0,Bosnian <bs@li.org>
+gnome-themes-extra,10,0,0,4,0,0,9,10,100.0,Bosnian <bs@li.org>
+gnome-tweaks,408,0,0,141,0,0,435,408,100.0,Bosnian <bs@li.org>
+gnome-user-share,136,0,0,26,0,0,134,136,100.0,Bosnian <bs@li.org>
+gnome-vfs2,1263,19,0,247,1,0,1206,1282,98.5179407176287,Bosnian <lokal@linux.org.ba>
+gnome-video-arcade,1341,0,0,234,0,0,1190,1341,100.0,Bosnian <bs@li.org>
+gnome-video-effects,256,0,0,68,0,0,227,256,100.0,Bosnian <bs@li.org>
+gnome-weather,184,0,0,42,0,0,168,184,100.0,Bosnian <bs@li.org>
+gnote,3237,0,0,526,0,0,3189,3237,100.0,Bosnian <bs@li.org>
+gnumeric,36565,0,0,5829,0,0,33269,36565,100.0,Bosnian <bs@linux.org.ba>
+goffice,6560,0,0,2107,0,0,6285,6560,100.0,Bosnian <bs@linux.org.ba>
+gparted,2588,0,0,437,0,0,2481,2588,100.0,Bosnian <bs@li.org>
+gpicview,234,0,2,51,0,1,234,236,99.15254237288136,LANGUAGE <LL@li.org>
+granatier,230,6,8,64,1,2,212,244,94.26229508196722,Bosnian <bs@li.org>
+granite,86,12,400,46,6,66,89,498,17.269076305220885,Bosnian <https://weblate.elementary.io/projects/desktop/granite/bs/>
+grantlee-editor,462,60,8,138,18,2,451,530,87.16981132075472,Bosnian
+grilo,187,0,0,36,0,0,177,187,100.0,Bosnian <bs@li.org>
+grilo-plugins,554,0,0,136,0,0,494,554,100.0,Bosnian <bs@li.org>
+grub-customizer,545,0,750,130,0,63,490,1295,42.084942084942085,Bosnian <bs@li.org>
+gsettings-desktop-schemas,5813,0,0,527,0,0,5446,5813,100.0,Bosnian <bs@li.org>
+gthumb,3459,0,0,1121,0,0,3298,3459,100.0,Bosnian <bs@li.org>
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Bosnian <bs@li.org>
+gtk2,6885,3508,3311,1244,810,730,6496,13704,50.24080560420315,Bosnian <lokal@linux.org.ba>
+gtk3,13762,0,0,2949,0,0,12942,13762,100.0,Bosnian <lokal@linux.org.ba>
+gtk4,13762,0,0,2949,0,0,12942,13762,100.0,Bosnian <lokal@linux.org.ba>
+gtkhtml3,522,0,0,317,0,0,521,522,100.0,Bosnian <bs@li.org>
+gtksourceview2,647,0,78,261,0,33,647,725,89.24137931034483,Bosnian <lokal@linux.org.ba>
+gtksourceview3,218,71,33,87,14,5,214,322,67.70186335403726,Bosnian <lokal@linux.org.ba>
+gtksourceview4,1107,0,0,614,0,0,1160,1107,100.0,Bosnian <lokal@linux.org.ba>
+gtksourceview5,1107,0,0,614,0,0,1160,1107,100.0,Bosnian <lokal@linux.org.ba>
+gtranslator,1542,0,0,327,0,0,1524,1542,100.0,Bosnian <bs@li.org>
+gucharmap,1205,0,0,397,0,0,1159,1205,100.0,Bosnian <lokal@linux.org.ba>
+gupnp-tools,278,0,0,102,0,0,282,278,100.0,Bosnian <bs@li.org>
+gvfs,2777,0,0,609,0,0,2884,2777,100.0,Bosnian <bs@li.org>
+gwenview,915,232,526,297,65,68,976,1673,54.692169754931264,Bosnian <bs@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hitori,171,0,3,35,0,1,157,174,98.27586206896551,Bosnian <bs@li.org>
+iagno,311,0,0,68,0,0,298,311,100.0,Bosnian <bs@li.org>
+im-chooser,2,0,251,1,0,56,2,253,0.7905138339920948,LANGUAGE <LL@li.org>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Bosnian
+initscripts,717,79,322,107,14,37,733,1118,64.13237924865832,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+islamic-menus,5,0,0,2,0,0,6,5,100.0,Bosnian <bs@li.org>
+iso-codes,1235,6196,15072,604,5009,9305,1053,22503,5.488157134604275,Bosnian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bs/>
+isomaster,27,1,646,21,1,85,27,674,4.005934718100891,http://littlesvr.ca/ostd/
+jmol,36,1,3129,30,1,990,36,3166,1.137081490840177,Bosnian <bs@li.org>
+json-glib,303,0,0,44,0,0,270,303,100.0,Bosnian <bs@li.org>
+juk,1366,106,54,336,15,11,1347,1526,89.51507208387942,bosanski <bs@li.org>
+k3b,19167,940,73,2454,54,10,17624,20180,94.98017839444995,<en@li.org>
+kaccounts-integration,0,0,174,0,0,35,0,174,0.0,Bosnian
+kaccounts-providers,0,0,101,0,0,38,0,101,0.0,Bosnian
+kactivitymanagerd,4,6,1,1,3,1,4,11,36.36363636363637,Bosnian
+kaddressbook,957,93,101,179,26,34,876,1151,83.14509122502172,Bosnian <bs@li.org>
+kajongg,2221,144,81,458,41,12,2040,2446,90.80130825838103,Bosnian <bs@li.org>
+kalarm,6132,1432,570,895,187,46,5725,8134,75.38726333907057,bosanski <bs@li.org>
+kalgebra,140,20,9,74,7,2,140,169,82.84023668639054,Bosnian <bs@li.org>
+kalzium,8667,1556,267,1292,240,28,7276,10490,82.62154432793136,Bosnian <lokal@lugbih.org>
+kamera,283,59,0,34,3,0,258,342,82.7485380116959,Bosnian <lokal@lugbih.org>
+kamoso,19,36,87,8,10,23,23,142,13.380281690140844,Bosnian <bs@li.org>
+kanagram,269,145,114,83,22,40,254,528,50.9469696969697,Bosnian <bs@li.org>
+kapman,106,8,0,32,4,0,107,114,92.98245614035088,Bosnian <bs@li.org>
+kapptemplate,167,62,43,33,12,7,157,272,61.39705882352941,Bosnian <bs@li.org>
+kate,2838,982,2068,792,189,380,2770,5888,48.19972826086957,bosanski <bs@li.org>
+katomic,181,3,0,58,1,0,189,184,98.36956521739131,Bosnian <bs@li.org>
+kaudiocreator,1123,8,5,270,1,2,1022,1136,98.8556338028169,Bosnian<kde-i18n-bs@kde.org>
+kbibtex,2026,253,202,622,56,51,2015,2481,81.66062071745263,none
+kblackbox,1328,32,4,100,1,1,1129,1364,97.36070381231671,Bosnian <bs@li.org>
+kblocks,138,9,0,33,3,0,141,147,93.87755102040816,Bosnian <bs@li.org>
+kbounce,150,3,0,41,1,0,170,153,98.0392156862745,Bosnian <bs@li.org>
+kbrickbuster,142,6,4,37,1,2,119,152,93.42105263157895,bosanski <bs@li.org>
+kbruch,1342,3,2,194,1,3,1140,1347,99.62880475129919,Bosnian <lokal@lugbih.org>
+kcachegrind,1724,2621,22,193,366,3,1552,4367,39.47790245019464,<bs@li.org>
+kcalc,938,96,32,305,29,14,897,1066,87.99249530956847,Bosanski <lokal@lugbih.org>
+kcharselect,72,9,7,28,2,4,81,88,81.81818181818183,Bosanski <lokal@lugbih.org>
+kcm_wacomtablet,891,98,75,197,28,18,841,1064,83.7406015037594,Bosnian <bs@li.org>
+kcolorchooser,14,10,5,6,2,2,17,29,48.275862068965516,Bosnian <bs@li.org>
+kcron,522,0,3,186,0,2,509,525,99.42857142857143,Bosnian <lokal@lugbih.org>
+kde-cli-tools,1738,302,95,176,24,17,1504,2135,81.40515222482435,Bosnian <lokal@linux.org.ba>
+kde-connect,111,170,666,42,34,149,116,947,11.721224920802534,Bosnian <bs@li.org>
+kde-dev-utils,62,17,17,23,4,8,68,96,64.58333333333334,Bosanski <lokal@lugbih.org>
+kde-l10n,104886,260,14,21158,13,5,100145,105160,99.73944465576264,Bosnian <bs@li.org>
+kde-partitionmanager,1737,336,141,381,81,61,1634,2214,78.45528455284553,Bosnian <kde-i18n-bs@kde.org>
+kde-print-manager,878,54,39,248,15,11,822,971,90.42224510813594,Bosnian
+kde-style-breeze,189,25,52,72,10,19,200,266,71.05263157894737,Bosnian
+kdenetwork-filesharing,0,9,435,0,5,43,0,444,0.0,bosanski <local@linux.org>
+kdepim-addons,1798,122,73,338,25,12,1590,1993,90.2157551430005,Bosnian <bs@li.org>
+kdepim-runtime,4559,718,698,723,113,100,4287,5975,76.30125523012552,Bosnian
+kdeplasma-addons,647,299,365,203,133,141,606,1311,49.35163996948894,Bosnian <bs@li.org>
+kdesdk-kioslaves,82,0,0,17,0,0,79,82,100.0,Bosnian <bs@li.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Bosnian <bs@li.org>
+kdesvn,4222,661,54,810,89,15,4092,4937,85.51752076159612,bosanski <bs@li.org>
+kdevelop,4876,5964,1995,875,1336,320,4675,12835,37.98987144526685,Bosnian <bs@li.org>
+kdevelop-php,271,102,156,45,14,13,277,529,51.22873345935728,bs <bs@kde.org>
+kdevelop-python,399,138,45,78,14,9,382,582,68.55670103092784,bs <bs@kde.org>
+kdf,180,0,1,68,0,1,200,181,99.4475138121547,Bosnian <lokal@lugbih.org>
+kdiagram,65,0,1,39,0,1,62,66,98.48484848484848,Bosnian
+kdialog,237,75,70,52,11,12,250,382,62.04188481675392,bosanski <bs@li.org>
+kdiamond,122,0,0,32,0,0,116,122,100.0,Bosnian <bs@li.org>
+kdiff3,2426,891,207,454,111,39,2381,3524,68.8422247446084,Bosnian
+kdnssd,21,9,0,6,1,0,19,30,70.0,Bosnian <bs@li.org>
+kdump-anaconda-addon,0,0,83,0,0,12,0,83,0.0,LANGUAGE <LL@li.org>
+keditbookmarks,415,51,0,126,6,0,417,466,89.05579399141631,bosanski <bs@li.org>
+kexi,4200,2846,319,1119,315,60,4137,7365,57.0264765784114,Bosnian <bs@li.org>
+kf5-akonadi-calendar,1736,118,13,270,17,1,1651,1867,92.98339582217461,bs <bs@kde.org>
+kf5-akonadi-contacts,1179,228,203,237,66,26,1111,1610,73.22981366459628,bs <bs@kde.org>
+kf5-akonadi-mime,521,44,4,100,9,2,542,569,91.56414762741653,Bosnian <bs@li.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Bosnian <bs@li.org>
+kf5-akonadi-server,1943,344,261,317,84,38,1922,2548,76.25588697017268,Bosnian <bs@li.org>
+kf5-audiocd-kio,766,83,5,173,1,2,755,854,89.69555035128806,Bosnian <bs@li.org>
+kf5-baloo,65,18,551,24,4,102,64,634,10.25236593059937,Bosnian <bs@li.org>
+kf5-calendarsupport,1150,382,1311,151,80,194,1032,2843,40.45022863172705,bs <bs@kde.org>
+kf5-eventviews,2851,52,56,292,16,9,2600,2959,96.35011828320378,bs <bs@kde.org>
+kf5-grantleetheme,3,0,11,1,0,5,3,14,21.428571428571427,bosanski <bs@li.org>
+kf5-incidenceeditor,1616,411,181,292,80,48,1420,2208,73.18840579710145,bs <bs@kde.org>
+kf5-kalarmcal,115,82,7,58,43,3,120,204,56.372549019607845,bs <bs@kde.org>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Bosnian
+kf5-kblog,243,0,0,27,0,0,222,243,100.0,Bosnian <bs@li.org>
+kf5-kbookmarks,127,91,12,27,21,1,108,230,55.21739130434783,Bosnian
+kf5-kcalendarutils,683,762,30,265,141,11,841,1475,46.30508474576271,bosanski <bs@li.org>
+kf5-kcmutils,183,80,3,22,14,2,170,266,68.796992481203,bosanski <bs@li.org>
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,bosanski <bs@li.org>
+kf5-kcompletion,15,3,0,9,2,0,15,18,83.33333333333334,Bosnian
+kf5-kconfig,218,21,50,90,3,11,221,289,75.4325259515571,Bosnian
+kf5-kconfigwidgets,291,41,10,102,19,4,298,342,85.08771929824562,bosanski <bs@li.org>
+kf5-kcontacts,175,0,2,107,0,1,176,177,98.87005649717514,Bosnian <bs@li.org>
+kf5-kcoreaddons,512,28,0,179,11,0,516,540,94.81481481481482,English <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,41,48,100.0,Bosnian
+kf5-kdeclarative,62,62,33,9,8,7,62,157,39.490445859872615,bosanski <bs@li.org>
+kf5-kdelibs4support,4565,382,406,2301,133,110,4275,5353,85.27928264524566,bosanski <bs@li.org>
+kf5-kdesignerplugin,25,0,29,7,0,2,23,54,46.2962962962963,Bosnian
+kf5-kdesu,19,0,0,7,0,0,21,19,100.0,Bosnian
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Bosnian
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Bosnian <bs@li.org>
+kf5-kfilemetadata,51,41,210,38,23,73,53,302,16.887417218543046,none
+kf5-kglobalaccel,66,0,5,7,0,2,52,71,92.95774647887323,Bosnian
+kf5-kholidays,0,101,46,0,70,24,0,147,0.0,Bosnian <bs@li.org>
+kf5-khtml,1449,131,88,266,15,9,1292,1668,86.87050359712231,bosanski <bs@li.org>
+kf5-ki18n,73,1,50,59,1,50,73,124,58.87096774193549,bosanski <bs@li.org>
+kf5-kiconthemes,11,15,13,10,4,4,12,39,28.205128205128204,bosanski <bs@li.org>
+kf5-kidentitymanagement,110,63,9,20,2,2,101,182,60.43956043956044,Bosnian <bs@li.org>
+kf5-kimap,93,1,24,44,1,6,103,118,78.8135593220339,Bosnian <bs@li.org>
+kf5-kinit,90,26,0,8,3,0,75,116,77.58620689655173,bosanski <bs@li.org>
+kf5-kio,11759,144,5,1347,12,1,10570,11908,98.7487403426268,English <kde-i18n-doc@kde.org>
+kf5-kipi-plugins,3675,730,406,851,101,116,3538,4811,76.38744543753897,none
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Bosnian
+kf5-kjobwidgets,0,0,133,0,0,38,0,133,0.0,Bosnian
+kf5-kjsembed,248,0,0,44,0,0,247,248,100.0,bosanski <bs@li.org>
+kf5-kldap,144,12,71,42,5,14,161,227,63.436123348017624,Bosnian <bs@li.org>
+kf5-kmailtransport,598,16,40,97,6,6,521,654,91.43730886850153,Bosnian <bs@li.org>
+kf5-kmime,159,0,0,10,0,0,133,159,100.0,Bosnian <bs@li.org>
+kf5-knewstuff,343,215,1094,73,85,72,336,1652,20.76271186440678,bosanski <bs@li.org>
+kf5-knotifications,10,9,2,2,5,1,8,21,47.61904761904761,Bosnian
+kf5-knotifyconfig,86,43,0,16,1,0,72,129,66.66666666666666,bosanski <bs@li.org>
+kf5-kontactinterface,4,0,0,2,0,0,6,4,100.0,Bosnian <bs@li.org>
+kf5-kpackage,263,88,135,68,17,9,251,486,54.11522633744856,bosanski <bs@li.org>
+kf5-kparts,104,28,0,26,3,0,96,132,78.78787878787878,bosanski <bs@li.org>
+kf5-kpeople,8,2,3,3,2,3,9,13,61.53846153846154,Bosnian <bs@li.org>
+kf5-kpimtextedit,101,30,284,51,17,134,101,415,24.337349397590362,Bosnian <bs@li.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,bosanski <bs@li.org>
+kf5-kross,82,18,0,29,6,0,85,100,82.0,bosanski <bs@li.org>
+kf5-kservice,92,53,28,13,11,4,94,173,53.179190751445084,bosanski <bs@li.org>
+kf5-ksmtp,52,3,31,5,1,6,48,86,60.46511627906976,Bosnian
+kf5-ktexteditor,5464,1876,1537,809,264,168,4800,8877,61.5523262363411,bosanski <bs@li.org>
+kf5-ktextwidgets,456,13,4,120,9,1,436,473,96.40591966173362,bosanski <bs@li.org>
+kf5-ktnef,353,2,0,141,2,0,374,355,99.43661971830986,Bosnian <bs@li.org>
+kf5-kunitconversion,4255,1125,377,1795,469,219,7486,5757,73.9100225812055,bosanski <bs@li.org>
+kf5-kwallet,1052,275,8,77,10,1,909,1335,78.80149812734082,Bosnian <bs@li.org>
+kf5-kwidgetsaddons,791,411,102,308,119,40,754,1304,60.65950920245399,Bosnian
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Bosnian
+kf5-kxmlgui,1553,9,12,225,4,1,1456,1574,98.66581956797967,English <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Bosnian <bs@li.org>
+kf5-libkcddb,470,0,6,223,0,2,459,476,98.73949579831933,Bosnian <bs@li.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,15,15,100.0,Bosnian <bs@li.org>
+kf5-libkdepim,35,0,0,10,0,0,33,35,100.0,Bosanski <lokal@lugbih.org>
+kf5-libkgeomap,139,0,0,46,0,0,126,139,100.0,bs <bs@kde.org>
+kf5-libkleo,493,298,938,130,65,172,507,1729,28.51359167148641,Bosnian <bs@li.org>
+kf5-libksane,238,21,104,69,11,23,224,363,65.56473829201101,Bosnian <bs@li.org>
+kf5-libksieve,2822,286,272,434,83,60,2524,3380,83.49112426035504,Bosnian <bs@li.org>
+kf5-libktorrent,465,0,0,105,0,0,518,465,100.0,bosanski <bs@li.org>
+kf5-mailcommon,2410,253,306,380,75,50,2223,2969,81.17211182216234,bs <bs@kde.org>
+kf5-mailimporter,1186,212,10,104,15,8,1158,1408,84.23295454545455,Bosnian <lokal@lugbih.org>
+kf5-messagelib,6878,609,714,1036,144,182,6725,8201,83.86782099743934,bs <bs@kde.org>
+kf5-pimcommon,338,140,788,131,43,160,316,1266,26.698262243285942,Bosnian
+kf5-plasma,221,31,143,68,10,47,232,395,55.949367088607595,bosanski <bs@li.org>
+kf5-solid,526,29,8,142,10,4,475,563,93.42806394316163,Bosnian
+kf5-sonnet,657,22,4,71,4,1,582,683,96.19326500732065,Bosnian
+kf5-syntax-highlighting,0,345,267,0,257,105,0,612,0.0,bosanski <bs@li.org>
+kfind,483,16,3,110,4,1,471,502,96.21513944223108,bosanski <bs@li.org>
+kfloppy,611,24,6,97,1,2,616,641,95.3198127925117,Bosanski <lokal@lugbih.org>
+kfourinline,385,7,0,154,3,0,402,392,98.21428571428571,Bosnian <bs@li.org>
+kgamma,130,0,0,16,0,0,121,130,100.0,Bosnian <bs@li.org>
+kgeography,9419,431,152,6898,240,98,9331,10002,94.17116576684663,Bosnian <bs@li.org>
+kget,2874,62,4,774,16,3,2733,2940,97.75510204081633,Bosanski <lokal@lugbih.org>
+kgoldrunner,22470,994,4547,877,47,84,18763,28011,80.21848559494484,Bosnian <bs@li.org>
+kgpg,4952,241,79,641,40,16,4611,5272,93.93019726858877,Bosnian <bs@li.org>
+kgraphviewer,902,288,15,188,20,7,824,1205,74.85477178423237,bs <bs@kde.org>
+khangman,304,65,107,77,15,29,291,476,63.86554621848739,Bosnian <bs@li.org>
+khelpcenter,212,21,32,78,7,5,196,265,80.0,Bosnian <bs@li.org>
+khotkeys,412,22,17,124,4,8,376,451,91.35254988913526,Bosnian <bs@li.org>
+kig,7556,284,14,1240,37,6,6278,7854,96.20575502928445,Bosnian <lokal@lugbih.org>
+kigo,485,12,7,120,7,4,415,504,96.23015873015873,Bosnian <bs@li.org>
+kile,12292,600,102,2093,78,12,11107,12994,94.59750654148068,Bosnian <bhld@linux.org.ba>
+killbots,430,207,0,50,77,0,366,637,67.50392464678178,Bosnian <bs@li.org>
+kinfocenter,264,134,127,132,67,57,290,525,50.28571428571429,Bosnian <lokal@lugbih.org>
+kio-extras,562,293,187,91,23,20,556,1042,53.93474088291747,Bosnian <bs@li.org>
+kio_gopher,17,0,0,5,0,0,18,17,100.0,bs <bs@kde.org>
+kiriki,138,6,0,49,1,0,131,144,95.83333333333334,Bosnian <bs@li.org>
+kiten,586,67,43,167,5,3,610,696,84.19540229885058,Bosnian <bs@li.org>
+kjots,114,231,306,37,46,51,121,651,17.51152073732719,Bosnian <bhld@lists.linux.org.ba>
+kjumpingcube,402,11,0,94,1,0,381,413,97.3365617433414,Bosnian <bs@li.org>
+kleopatra,5737,1850,2465,868,402,270,5566,10052,57.073219259848784,Bosnian <bs@li.org>
+klettres,420,10,10,79,2,4,391,440,95.45454545454545,Bosanski <lokal@lugbih.org>
+klickety,165,7,6,55,5,2,159,178,92.69662921348315,Bosnian <bs@li.org>
+klines,92,5,2,26,1,1,85,99,92.92929292929293,bosnian <lokal@lugbih.org>
+kmag,427,5,0,97,1,0,407,432,98.8425925925926,Bosnian <lokal@lugbih.org>
+kmahjongg,306,35,16,88,10,4,293,357,85.71428571428571,Bosnian <bs@li.org>
+kmail,6536,1511,1110,1033,224,188,6210,9157,71.37708856612429,Bosnian <bs@li.org>
+kmail-account-wizard,367,64,384,76,14,41,345,815,45.030674846625764,bs <bs@kde.org>
+kmenuedit,259,0,18,59,0,4,231,277,93.50180505415162,Bosnian <bs@li.org>
+kmines,108,0,48,38,0,7,106,156,69.23076923076923,Bosnian <lokal@lugbih.org>
+kmix,648,222,222,151,42,18,657,1092,59.34065934065934,Bosanski <lokal@linux.org.ba>
+kmousetool,103,40,4,27,4,1,93,147,70.06802721088435,Bosnian <lokal@linux.org.ba>
+kmouth,1427,78,10,192,8,4,1235,1515,94.1914191419142,Bosnian <lokal@lugbih.org>
+kmplayer,1248,1,0,370,1,0,1249,1249,99.919935948759,Bosnian<kde-i18n-bs@kde.org>
+kmplot,2291,181,28,429,47,9,2041,2500,91.64,Bosnian <lokal@lugbih.org>
+kmymoney,16981,3038,2072,2860,606,242,15389,22091,76.86840794893848,Bosnian <bs@li.org>
+knavalbattle,398,0,1,101,0,1,399,399,99.74937343358395,Bosnian <lokal@linux.org.ba>
+knetwalk,224,6,13,51,3,2,232,243,92.18106995884774,Bosnian <bs@li.org>
+knotes,382,179,237,143,60,41,393,798,47.86967418546366,none
+koffice-kivio,1391,1367,2876,443,554,423,1358,5634,24.689385871494498,Bosanski <lokal@lugbih.org>
+kolf,372,29,0,140,8,0,383,401,92.76807980049875,Bosnian <lokal@lugbih.org>
+kollision,90,0,19,26,0,4,107,109,82.56880733944955,Bosnian <bs@li.org>
+kolourpaint,2391,148,31,431,9,9,2207,2570,93.03501945525292,<en@li.org>
+kompare,539,888,1,70,132,1,556,1428,37.745098039215684,Bosnian <bs@li.org>
+konqueror,6899,385,1108,965,59,155,6448,8392,82.20924690181126,bosanski <bs@li.org>
+konquest,214,32,0,83,15,0,233,246,86.99186991869918,Bosnian <lokal@lugbih.org>
+konsole5,1540,793,1121,339,187,188,1510,3454,44.5859872611465,bosanski <bs@li.org>
+kontact,354,166,80,74,14,11,363,600,59.0,Bosnian <bs@li.org>
+konversation,9480,726,139,1558,60,26,8733,10345,91.6384726921218,<bs@li.org>
+kopete,18353,64,10,3441,13,3,16835,18427,99.59841536875237,Bosnian <bs@li.org>
+korganizer,4303,1732,1337,573,247,136,3857,7372,58.36950623982637,none
+kpat,426,42,108,130,18,52,426,576,73.95833333333334,bosanski <bs@li.org>
+kphotoalbum,6228,1401,1760,747,158,141,5850,9389,66.33294280541058,Bosnian <bs@li.org>
+kpmcore,1012,1893,321,186,243,62,882,3226,31.370117792932422,Bosnian <kde-i18n-bs@kde.org>
+krb5-auth-dialog,1808,0,0,358,0,0,1855,1808,100.0,Bosnian <bs@li.org>
+krdc,1009,60,109,238,7,18,1015,1178,85.65365025466893,Bosnian <lokal@lugbih.org>
+krecipes,3646,0,0,765,0,0,3496,3646,100.0,bs <bs@kde.org>
+krename,453,824,865,114,194,144,448,2142,21.1484593837535,Bosnian <lokal@lugbih.org>
+kreport,0,386,69,0,185,8,0,455,0.0,Bosnian <kde-i18n-doc@kde.org>
+kreversi,198,34,197,63,8,70,211,429,46.15384615384615,Bosnian <bs@li.org>
+krfb,582,17,136,80,4,21,555,735,79.18367346938776,Bosnian <lokal@lugbih.org>
+krita,7488,8417,11984,2460,3135,1211,7187,27889,26.849295421133778,Bosnian <bs@li.org>
+kruler,130,41,13,38,3,6,118,184,70.65217391304348,Bosanski <lokal@lugbih.org>
+krusader,6008,1450,471,1430,235,73,5873,7929,75.7724807668054,<bhld@lists.linux.org.ba>
+kscreen,5,44,259,4,12,43,5,308,1.6233766233766231,Bosnian
+kscreenlocker,39,22,163,6,4,21,40,224,17.410714285714285,Bosnian <bs@li.org>
+kshisen,512,9,87,64,2,6,420,608,84.21052631578947,Bosnian <bs@li.org>
+ksirk,5683,70,5,738,19,1,5224,5758,98.69746439736019,Bosnian <bs@li.org>
+ksnakeduel,205,32,4,45,8,2,213,241,85.06224066390041,Bosnian <lokal@lugbih.org>
+kspaceduel,162,3,0,80,1,0,166,165,98.18181818181819,Bosnian <lokal@lugbih.org>
+ksquares,257,3,0,76,2,0,215,260,98.84615384615385,Bosnian <bs@li.org>
+ksshaskpass,34,13,3,11,1,2,34,50,68.0,Bosnian
+kstars,19514,14222,28606,4425,6049,6297,18040,62342,31.301530268518817,Bosnian <lokal@lugbih.org>
+ksudoku,700,198,848,115,15,33,656,1746,40.09163802978236,Bosnian <bs@li.org>
+ksysguard,1020,32,41,220,11,6,840,1093,93.32113449222324,Bosnian <bs@li.org>
+ksystemlog,2806,98,130,431,16,32,2516,3034,92.48516809492419,Bosnian <bs@li.org>
+kteatime,160,39,4,55,8,4,187,203,78.81773399014779,Bosnian <bs@li.org>
+ktimer,241,15,2,51,1,1,193,258,93.4108527131783,Bosanski <lokal@lugbih.org>
+ktorrent,6966,217,272,1276,44,35,6172,7455,93.44064386317908,<bs@li.org>
+ktouch,804,75,81,225,19,13,746,960,83.75,Bosanski <lokal@lugbih.org>
+ktp-accounts-kcm,1075,0,7,301,0,4,1071,1082,99.35304990757857,Bosnian <bs@li.org>
+ktp-approver,65,6,0,16,2,0,66,71,91.54929577464789,Bosnian <bs@li.org>
+ktp-auth-handler,74,0,9,22,0,2,69,83,89.1566265060241,Bosnian <bs@li.org>
+ktp-common-internals,956,31,2,201,4,1,896,989,96.66329625884732,Bosnian <bs@li.org>
+ktp-contact-list,380,17,283,103,6,18,379,680,55.88235294117647,Bosnian <bs@li.org>
+ktp-contact-runner,169,38,1,33,9,1,193,208,81.25,Bosnian <bs@li.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,149,141,100.0,Bosnian <bs@li.org>
+ktp-kded-integration-module,217,0,273,42,0,17,218,490,44.285714285714285,Bosnian <bs@li.org>
+ktp-send-file,60,0,0,18,0,0,62,60,100.0,Bosnian <bs@li.org>
+ktp-text-ui,1256,20,76,259,2,27,1192,1352,92.89940828402366,Bosnian <bs@li.org>
+ktuberling,149,5,4,34,2,2,122,158,94.30379746835443,Bosnian <bs@li.org>
+kturtle,1439,88,4,263,83,1,1347,1531,93.99085564990203,Bosnian <bs@li.org>
+kubrick,1183,11,11,161,3,2,1086,1205,98.17427385892115,Bosnian <bs@li.org>
+kwalletmanager5,694,22,84,144,7,14,657,800,86.75,Bosnian <lokal@lugbih.org>
+kwave,827,147,4824,578,73,654,834,5798,14.263539151431528,Bosnian
+kwebkitpart,669,0,0,165,0,0,633,669,100.0,Bosnian <bs@li.org>
+kwin,2374,1335,1910,479,271,412,2113,5619,42.249510589072784,Bosnian <kde-i18n-doc@kde.org>
+kwordquiz,2000,25,1,401,12,1,1883,2026,98.7166831194472,Bosnian <bs@li.org>
+kxstitch,1848,129,37,531,28,11,1689,2014,91.75769612711024,Bosnian <bs@li.org>
+libbonobo,485,15,24,101,4,3,496,524,92.55725190839695,Bosnian <lokal@lugbih.org>
+libbonoboui,314,7,39,92,3,18,316,360,87.22222222222223,Bosnian <lokal@lugbih.org>
+libexif,6957,0,48,1176,0,4,6298,7005,99.31477516059957,Bosnian <bs@li.org>
+libgda,11350,0,0,2074,0,0,10937,11350,100.0,Bosnian <bs@li.org>
+libgdata,695,0,0,85,0,0,609,695,100.0,Bosnian <bs@li.org>
+libgdl,659,0,0,96,0,0,604,659,100.0,Bosnian <bs@li.org>
+libgnome,1407,0,0,219,0,0,1315,1407,100.0,Bosnian <lokal@linux.org.ba>
+libgnomecanvas,357,0,0,94,0,0,350,357,100.0,Bosnian <lokal@lugbih.org>
+libgnomekbd,187,0,0,39,0,0,177,187,100.0,Bosnian <bs@li.org>
+libgnomeui,1270,83,66,314,19,12,1177,1419,89.49964763918253,Bosnian <lokal@linux.org.ba>
+libgovirt,102,0,0,23,0,0,104,102,100.0,Bosnian <bs@li.org>
+libgsf,719,0,0,149,0,0,699,719,100.0,Bosnian <bs@li.org>
+libgtop2,126,0,0,40,0,0,135,126,100.0,Bosnian <lokal@linux.org.ba>
+libgweather,0,0,0,0,0,0,0,0,0.0,
+libkdegames,370,0,0,132,0,0,337,370,100.0,Bosnian <bs@li.org>
+libkeduvocdocument,146,19,6,76,4,1,150,171,85.38011695906432,Bosnian <bs@li.org>
+libkgapi,0,320,54,0,73,11,0,374,0.0,Bosnian
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Bosnian <bs@li.org>
+libkomparediff2,127,16,0,11,8,0,116,143,88.81118881118881,Bosnian <bs@li.org>
+libksysguard,2649,293,917,325,40,154,2236,3859,68.64472661311221,Bosnian <bs@li.org>
+libmatekbd,61,0,247,25,0,66,57,308,19.805194805194805,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+libmatemixer,19,0,223,15,0,111,19,242,7.851239669421488,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+libmateweather,1950,0,4193,1499,0,3076,2141,6143,31.743447826794725,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+libmypaint,2,0,2301,2,0,160,2,2303,0.08684324793747286,Bosnian (latin) <https://hosted.weblate.org/projects/mypaint/libmypaint/bs_Latn/>
+libnma,411,249,257,94,55,46,395,917,44.82006543075245,Bosnian <lokal@linux.org.ba>
+libpeas,111,0,0,34,0,0,105,111,100.0,Bosnian <bs@li.org>
+libreoffice,171463,13103,511912,36759,4699,47111,150110,696478,24.618580917128753,LANGUAGE <LL@li.org>
+libreport,216,11,4701,47,1,555,209,4928,4.383116883116883,Bosnian <https://translate.fedoraproject.org/projects/abrt/libreport/bs/>
+libsecret,59,0,0,9,0,0,53,59,100.0,Bosnian <bs@li.org>
+libsoup,110,0,0,25,0,0,114,110,100.0,Bosnian <bs@li.org>
+libuser,889,25,523,192,5,104,945,1437,61.864996520528884,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+libvirt,723,8984,58057,180,1736,8433,705,67764,1.0669381972728882,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+libwnck,47,21,5,21,7,2,57,73,64.38356164383562,Bosnian <+>
+libwnck3,1068,18,0,230,1,0,1148,1086,98.34254143646409,Bosnian <+>
+libzypp,350,481,1883,274,311,402,349,2714,12.896094325718495,Bosnian <i18n@suse.de>
+lightdm,79,0,84,17,0,4,79,163,48.466257668711656,Bosnian <bs@li.org>
+lightdm-gtk,61,0,28,20,0,5,62,89,68.53932584269663,Bosnian <bs@li.org>
+lightsoff,93,0,0,17,0,0,84,93,100.0,Bosnian <bs@li.org>
+lokalize,3116,302,668,524,64,89,2790,4086,76.26040137053353,<bs@li.org>
+lskat,254,0,0,83,0,0,262,254,100.0,Bosnian <bs@li.org>
+lxdm,0,0,47,0,0,25,0,47,0.0,LANGUAGE <LL@li.org>
+maliit-keyboard,31,4,46,30,2,29,30,81,38.2716049382716,Bosnian <bs@li.org>
+mame,0,0,3650,0,0,1283,0,3650,0.0,MAME Language Team
+manafirewall,14,0,1083,13,0,120,14,1097,1.276207839562443,Bosnian (https://www.transifex.com/MageiaLinux/teams/9361/bs/)
+marble,812,6492,4146,214,2050,1043,766,11450,7.091703056768559,Bosnian <bs@li.org>
+marco,2161,0,2142,302,0,128,2076,4303,50.22077620264932,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+massif-visualizer,333,10,14,103,2,4,331,357,93.27731092436974,bs <bs@kde.org>
+mate-applets,1075,37,14845,316,8,1322,981,15957,6.736855298615028,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-backgrounds,28,0,27,19,0,10,25,55,50.90909090909091,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-calc,53,0,3270,52,0,697,53,3323,1.5949443274149864,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-control-center,880,0,7368,611,0,900,889,8248,10.66925315227934,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-desktop,741,0,1635,125,0,176,673,2376,31.186868686868685,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-media,24,0,215,19,0,80,23,239,10.0418410041841,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-menu,203,0,105,82,0,28,205,308,65.9090909090909,Bosnian (http://www.transifex.com/mate/MATE/language/bs/)
+mate-menus,88,0,15,34,0,5,90,103,85.43689320388349,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-notification-daemon,15,0,171,11,0,42,14,186,8.064516129032258,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-panel,2662,0,4058,385,0,429,2413,6720,39.613095238095234,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-polkit,19,0,104,9,0,12,19,123,15.447154471544716,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-power-manager,28,0,5091,26,0,525,28,5119,0.5469818323891384,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-screensaver,21,0,1080,12,0,164,22,1101,1.9073569482288828,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-sensors-applet,3,2,2155,3,2,221,3,2160,0.1388888888888889,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-session-manager,128,0,587,48,0,84,122,715,17.902097902097903,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-settings-daemon,247,0,1959,45,0,274,226,2206,11.196736174070717,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-system-monitor,160,0,4687,88,0,560,149,4847,3.301010934598721,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-terminal,2781,0,5605,341,0,462,2427,8386,33.16241354638684,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-themes,32,0,42,7,0,16,28,74,43.24324324324324,Bosnian (http://www.transifex.com/mate/MATE/language/bs/)
+mate-user-admin,8,0,620,8,0,123,8,628,1.2738853503184715,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-user-guide,88,0,44591,59,0,3347,95,44679,0.1969605407462119,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mate-utils,534,0,9526,181,0,945,515,10060,5.308151093439363,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+mbox-importer,30,10,0,10,3,0,31,40,75.0,bosanski <bs@li.org>
+meld,2471,0,0,487,0,0,2452,2471,100.0,Bosnian <bs@li.org>
+metacity,2188,0,0,311,0,0,2160,2188,100.0,Bosnian <+>
+midori,2833,0,708,713,0,83,2835,3541,80.00564812199944,Bosnian <bs@li.org>
+mingw-GConf2,3832,72,50,443,11,7,3670,3954,96.91451694486595,Bosnian <lokal@linux.org.ba>
+mingw-atk,440,0,0,169,0,0,430,440,100.0,Bosnian <lokal@linux.org.ba>
+mingw-exiv2,23653,3796,10563,4390,939,757,21639,38012,62.2250868146901,Bosnian <bs@li.org>
+mingw-gdk-pixbuf,1478,0,0,228,0,0,1532,1478,100.0,Bosnian <lokal@linux.org.ba>
+mingw-glib-networking,157,0,0,28,0,0,154,157,100.0,Bosnian <bs@li.org>
+mingw-glib2,5697,0,0,904,0,0,5735,5697,100.0,Bosnian <lokal@lugbih.org>
+mingw-gtk-vnc,8,0,0,3,0,0,8,8,100.0,Bosnian <bs@li.org>
+mingw-gtk2,6885,3508,3311,1244,810,730,6496,13704,50.24080560420315,Bosnian <lokal@linux.org.ba>
+mingw-gtk3,13762,0,0,2949,0,0,12942,13762,100.0,Bosnian <lokal@linux.org.ba>
+mingw-gtksourceview3,218,71,33,87,14,5,214,322,67.70186335403726,Bosnian <lokal@linux.org.ba>
+mingw-json-glib,303,0,0,44,0,0,270,303,100.0,Bosnian <bs@li.org>
+mingw-libgovirt,102,0,0,23,0,0,104,102,100.0,Bosnian <bs@li.org>
+mingw-libgsf,719,0,0,149,0,0,699,719,100.0,Bosnian <bs@li.org>
+mingw-libsoup,110,0,0,25,0,0,114,110,100.0,Bosnian <bs@li.org>
+mingw-libvirt,723,8984,58057,180,1736,8433,705,67764,1.0669381972728882,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+mlocate,380,175,26,47,1,3,399,581,65.40447504302927,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+moodle,0,16,36,0,9,5,0,52,0.0,i18n@lists.horde.org
+moserial,545,0,0,120,0,0,516,545,100.0,Bosnian <bs@li.org>
+mousetweaks,114,0,0,30,0,0,117,114,100.0,Bosnian <bs@li.org>
+mozo,40,0,6,19,0,5,39,46,86.95652173913044,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+msitools,71,0,0,26,0,0,70,71,100.0,Bosnian <bs@li.org>
+muffin,6709,181,29,451,6,7,6630,6919,96.96487931782049,Bosnian <+>
+multimedia-menus,56,0,0,22,0,0,61,56,100.0,Bosnian
+mutter,809,0,0,124,0,0,804,809,100.0,Bosnian <bs@li.org>
+mutter3.38,809,0,0,124,0,0,804,809,100.0,Bosnian <bs@li.org>
+mypaint,17,13,6351,14,8,1248,16,6381,0.2664159222692368,Bosnian (latin) <https://hosted.weblate.org/projects/mypaint/mypaint/bs_Latn/>
+nautilus,5118,0,0,869,0,0,5012,5118,100.0,<bs@li.org>
+nemiver,1341,0,0,340,0,0,1288,1341,100.0,Bosnian <bs@li.org>
+network-manager-applet,1388,1206,1710,376,251,231,1421,4304,32.24907063197026,Bosnian <lokal@linux.org.ba>
+newt,4,0,0,4,0,0,4,4,100.0,Bosnian <lokal@lugbih.org>
+nitrogen,180,8,24,49,1,3,169,212,84.90566037735849,
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Bosnian <bs@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,2417,95,26,572,31,15,2176,2538,95.23246650906225,Bosnian <bs@li.org>
+okular,3001,977,1387,617,282,257,2839,5365,55.93662628145387,Bosnian <bs@li.org>
+onboard,1942,0,376,448,0,62,1888,2318,83.77911993097497,Bosnian <bs@li.org>
+openconnect,4401,0,2376,769,0,394,4442,6777,64.9402390438247,Bosnian <bs@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,5057,0,0,1626,0,0,4828,5057,100.0,Bosnian <bs@li.org>
+palapeli,1413,100,3,154,27,1,1243,1516,93.20580474934037,bosanski <bs@li.org>
+pam,0,20,515,0,3,97,0,535,0.0,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+pan,3398,0,0,796,0,0,3403,3398,100.0,Bosnian <bs@li.org>
+pantheon-agent-geoclue2,45,0,56,12,0,6,40,101,44.554455445544555,Bosnian <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/bs/>
+pantheon-agent-polkit,14,0,42,7,0,9,14,56,25.0,Bosnian <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/bs/>
+parley,3116,213,110,641,72,17,2975,3439,90.60773480662984,Bosnian <bs@li.org>
+passwd,267,0,69,49,0,8,299,336,79.46428571428571,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+pastebinit,171,0,24,26,0,3,147,195,87.6923076923077,Bosnian <bs@li.org>
+phodav,31,9,23,10,2,5,35,63,49.2063492063492,Bosnian <bs@li.org>
+phonon-backend-gstreamer,0,104,0,0,15,0,0,104,0.0,Bosnian <bs@li.org>
+php-phpmyadmin-sql-parser5,0,83,185,0,17,33,0,268,0.0,Bosnian <https://hosted.weblate.org/projects/phpmyadmin/master/bs/>
+picmi,164,32,6,105,9,3,162,202,81.1881188118812,Bosnian
+pidgin,5527,0,10308,1324,0,2133,5097,15835,34.90369434796337,Bosnian (http://www.transifex.com/pidgin/pidgin/language/bs/)
+pim-data-exporter,312,240,220,88,60,46,323,772,40.41450777202073,Bosnian
+pim-sieve-editor,59,103,272,23,35,57,61,434,13.594470046082948,none
+pinta,780,0,966,323,0,214,792,1746,44.67353951890035,Bosnian <bs@li.org>
+pitivi,1635,0,0,377,0,0,1576,1635,100.0,Bosnian <bs@li.org>
+plank,24,0,165,11,0,39,37,189,12.698412698412698,Bosnian <bs@li.org>
+plasma-breeze,165,19,56,64,6,21,175,240,68.75,Bosnian
+plasma-desktop,4233,1024,2373,661,276,510,3801,7630,55.478374836173,Bosnian <bs@li.org>
+plasma-discover,108,444,1819,71,158,314,112,2371,4.555040067482075,Bosnian <bs@li.org>
+plasma-drkonqi,708,889,369,77,81,43,638,1966,36.01220752797559,bosanski <bs@li.org>
+plasma-mediacenter,24,2,57,7,1,29,26,83,28.915662650602407,Bosnian
+plasma-nm,2092,504,2420,698,154,289,2078,5016,41.706539074960126,Bosnian <bs@li.org>
+plasma-oxygen,718,11,73,270,7,16,729,802,89.52618453865337,bosanski <bs@li.org>
+plasma-sdk,214,75,82,53,14,13,199,371,57.68194070080862,Bosnian <bs@li.org>
+plasma-systemsettings,117,26,75,29,6,21,115,218,53.669724770642205,Bosnian <bs@li.org>
+plasma-workspace,6175,1574,3473,1842,420,559,6074,11222,55.02584209588308,bosanski <bs@li.org>
+playonlinux,32,0,2696,6,0,443,22,2728,1.1730205278592376,Bosnian <bs@li.org>
+pluma,1359,0,11754,370,0,1720,1317,13113,10.363761153054222,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+pluma-plugins,136,0,1262,17,0,126,125,1398,9.72818311874106,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+pmount,79,0,644,13,0,50,66,723,10.926694329183956,Bosnian <bs@li.org>
+poedit,1582,0,1338,394,0,258,1582,2920,54.17808219178082,Bosnian
+pogo,1,0,575,1,0,100,6,576,0.1736111111111111,Bosnian <bs@li.org>
+polari,382,0,0,99,0,0,401,382,100.0,Bosnian <bs@li.org>
+policycoreutils,1806,46,10319,309,12,1455,1833,12171,14.838550653192014,Bosnian
+polkit-gnome,94,0,0,16,0,0,89,94,100.0,Bosnian <bs@li.org>
+polkit-kde,78,8,9,20,4,6,77,95,82.10526315789474,Bosnian <bs@li.org>
+powerdevil,254,184,204,64,40,35,254,642,39.56386292834891,bosanski <bs@li.org>
+publican,1054,66,4323,74,2,540,1042,5443,19.3643211464266,Bosnian (bs) <fedora-trans-bs@redhat.com>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,130,43,1524,13,1,169,119,1697,7.660577489687684,Bosnian (http://www.transifex.com/projects/p/pykickstart/language/bs/)
+python-SecretStorage,59,0,0,9,0,0,53,59,100.0,Bosnian <bs@li.org>
+python-blivet,37,0,547,3,0,75,22,584,6.335616438356165,Bosnian (http://www.transifex.com/projects/p/blivet/language/bs/)
+python-caja,6,0,0,2,0,0,5,6,100.0,Bosnian (https://www.transifex.com/mate/teams/13566/bs/)
+python-django,1256,0,2260,429,0,382,1237,3516,35.72241183162685,Bosnian (http://www.transifex.com/django/django/language/bs/)
+python-django-contrib-comments,233,0,11,58,0,2,244,244,95.49180327868852,Bosnian (http://www.transifex.com/django/django-contrib-comments/language/bs/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-fedora,0,0,214,0,0,29,0,214,0.0,Bosnian
+python-meh,1,0,108,1,0,22,1,109,0.9174311926605505,Bosnian (http://www.transifex.com/projects/p/python-meh/language/bs/)
+python-nikola,86,0,8,38,0,6,87,94,91.48936170212765,Bosnian (http://www.transifex.com/ralsina/nikola/language/bs/)
+python-postorius,0,0,4999,0,0,607,0,4999,0.0,LANGUAGE <LL@li.org>
+quadrapassel,428,0,0,79,0,0,399,428,100.0,Bosnian <bs@li.org>
+rednotebook,775,0,372,171,0,69,706,1147,67.56756756756756,Bosnian <bs@li.org>
+remmina,1059,3456,757,266,629,87,942,5272,20.087253414264037,Bosnian <https://hosted.weblate.org/projects/remmina/remmina/bs/>
+retrace-server,433,0,0,56,0,0,424,433,100.0,Bosnian <https://translate.fedoraproject.org/projects/abrt/retrace-server/bs/>
+rhythmbox,3719,0,0,968,0,0,3704,3719,100.0,Bosnian <bs@li.org>
+rhythmbox-alternative-toolbar,269,0,25,58,0,2,272,294,91.49659863945578,Bosnian <bs@li.org>
+rkward,433,940,34684,276,591,3185,446,36057,1.2008763901600243,Bosnian
+rocs,208,496,776,64,88,162,216,1480,14.054054054054054,Bosnian <bs@li.org>
+rygel,1218,0,0,242,0,0,1232,1218,100.0,Bosnian <bs@li.org>
+sawfish,2118,1560,2765,486,283,213,2123,6443,32.87288530187801,Bosnian <prijevodi@linux.org.ba>
+sddm-kcm,8,30,147,4,12,29,10,185,4.324324324324325,Bosnian
+seahorse,2486,0,0,570,0,0,2475,2486,100.0,Bosnian <bs@li.org>
+setuptool,55,0,0,14,0,0,53,55,100.0,Bosnian <lokal@linux.org.ba>
+shadow-utils,127,837,3713,36,132,502,126,4677,2.7154158648706437,Bosnian <lokal@lugbih.org>
+shotwell,4804,0,0,1001,0,0,5236,4804,100.0,Bosnian <bs@li.org>
+shutter,2691,0,402,541,0,65,2584,3093,87.00290979631426,Bosnian <bs@li.org>
+skanlite,157,20,6,55,4,3,158,183,85.79234972677595,bosanski <bs@li.org>
+skrooge,7264,2949,1914,1889,379,226,6735,12127,59.89939803743712,bs <bs@kde.org>
+slick-greeter,168,0,43,32,0,15,153,211,79.62085308056872,Bosnian <bs@li.org>
+smb4k,4608,704,1124,493,110,79,4095,6436,71.59726538222499,none
+snapd,756,0,3551,155,0,326,700,4307,17.552820989087532,Bosnian <bs@li.org>
+snapper,3,97,995,3,28,221,3,1095,0.273972602739726,Bosnian <i18n@suse.de>
+sos,54,33,35,11,7,12,53,122,44.26229508196721,none
+sound-juicer,1264,0,0,228,0,0,1280,1264,100.0,Bosnian <bhld@lists.linux.org.ba>
+stellarium,30382,0,119637,16864,0,20755,30200,150019,20.252101400489273,Bosnian (https://www.transifex.com/stellarium/teams/80998/bs/)
+step,673,1191,23,193,472,9,658,1887,35.665076841547425,Bosnian <bs@li.org>
+supertuxkart,3465,0,2453,794,0,310,3191,5918,58.550185873605955,Bosnian (http://www.transifex.com/supertuxkart/supertuxkart/language/bs/)
+sushi,24,0,0,11,0,0,26,24,100.0,Bosnian <bs@li.org>
+svgpart,3,0,0,2,0,0,4,3,100.0,Bosnian <bs@li.org>
+sweeper,225,3,0,49,1,0,202,228,98.68421052631578,Bosnian <bs@li.org>
+swell-foop,261,0,0,52,0,0,233,261,100.0,Bosnian <bs@li.org>
+switchboard,58,2,88,16,1,14,55,148,39.189189189189186,Bosnian <https://weblate.elementary.io/projects/switchboard/switchboard/bs/>
+switchboard-plug-a11y,109,0,71,34,0,13,106,180,60.55555555555555,Bosnian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/bs/>
+switchboard-plug-about,71,53,259,19,19,47,70,383,18.5378590078329,Bosnian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/bs/>
+switchboard-plug-applications,78,12,137,32,3,28,81,227,34.36123348017621,Bosnian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/bs/>
+switchboard-plug-bluetooth,70,18,118,28,7,18,74,206,33.980582524271846,Bosnian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/bs/>
+switchboard-plug-display,96,5,81,42,2,18,115,182,52.74725274725275,Bosnian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/bs/>
+switchboard-plug-keyboard,382,67,187,148,23,43,416,636,60.062893081761004,Bosnian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/bs/>
+switchboard-plug-mouse-touchpad,74,27,181,37,8,47,79,282,26.24113475177305,Bosnian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/bs/>
+switchboard-plug-networking,327,86,119,103,18,26,342,532,61.46616541353384,Bosnian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/bs/>
+switchboard-plug-notifications,131,0,11,18,0,3,130,142,92.25352112676056,Bosnian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/bs/>
+switchboard-plug-onlineaccounts,38,32,252,14,11,51,37,322,11.801242236024844,Bosnian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/bs/>
+switchboard-plug-pantheon-shell,128,20,201,53,7,55,145,349,36.67621776504298,Bosnian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/bs/>
+switchboard-plug-printers,315,21,70,128,12,13,311,406,77.58620689655173,Bosnian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/bs/>
+switchboard-plug-sharing,132,0,9,29,0,3,133,141,93.61702127659575,Bosnian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/bs/>
+switchboard-plug-sound,105,0,88,41,0,16,115,193,54.40414507772021,Bosnian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/bs/>
+switchdesk,16,85,21,3,9,7,17,122,13.114754098360656,Bosnian <lokal@linux.org.ba>
+synfig,36,0,4709,20,0,1141,32,4745,0.7586933614330875,Bosnian (http://www.transifex.com/morevnaproject/synfig/language/bs/)
+synfigstudio,148,0,6804,30,0,1603,145,6952,2.128883774453395,Bosnian (http://www.transifex.com/morevnaproject/synfig/language/bs/)
+system-config-language,60,55,100,13,5,13,56,215,27.906976744186046,Bosnian <fedora-trans-bs@redhat.com>
+system-config-printer,515,5,2945,122,3,796,469,3465,14.862914862914863,Bosnian (http://www.transifex.com/projects/p/system-config-printer/language/bs/)
+system-switch-java,81,0,0,11,0,0,84,81,100.0,Bosnian <fedora-trans-bs@redhat.com>
+system-switch-mail,9,88,4,6,8,3,12,101,8.91089108910891,Bosnian <lokal@linux.org.ba>
+tali,418,0,0,96,0,0,380,418,100.0,Bosnian <bs@li.org>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+tellico,5423,327,112,1124,105,33,5338,5862,92.51108836574548,bs <bs@kde.org>
+terminator,1288,0,162,402,0,25,1196,1450,88.82758620689654,Bosnian (https://www.transifex.com/terminator/teams/109338/bs/)
+tint2,2990,975,439,310,101,50,2375,4404,67.8928247048138,
+tomboy,3353,0,0,480,0,0,3270,3353,100.0,Bosnian <lokal@linux.org.ba>
+totem,1449,0,0,385,0,0,1405,1449,100.0,Bosnian <bs@li.org>
+totem-pl-parser,29,0,0,8,0,0,27,29,100.0,Bosnian <bs@li.org>
+tracker,3762,0,0,598,0,0,3703,3762,100.0,Bosnian <bs@li.org>
+tracker-miners,3762,0,0,598,0,0,3703,3762,100.0,Bosnian <bs@li.org>
+transmission,798,0,1200,236,0,287,899,1998,39.93993993993994,Bosnian (https://www.transifex.com/transmissionbt/teams/33778/bs/)
+trojita,3123,718,913,636,192,159,2982,4754,65.69204880100968,Bosnian
+tuxpaint,352,779,1155,126,78,176,297,2286,15.398075240594924,Bosnian <bs@li.org>
+ufw,392,0,487,103,0,78,403,879,44.59613196814562,Bosnian <bs@li.org>
+ufw-kde,815,0,0,190,0,0,800,815,100.0,none
+umbrello,4551,1386,240,1288,336,51,4328,6177,73.6765420106848,<bs@li.org>
+usermode,564,0,9,94,0,2,545,573,98.42931937172776,Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)
+viewnior,48,0,377,22,0,122,55,425,11.294117647058824,Bosnian <bs@li.org>
+vinagre,1507,0,0,275,0,0,1456,1507,100.0,<sr@li.org>
+virt-manager,67,63,6972,39,15,1359,71,7102,0.9433962264150944,Bosnian (http://www.transifex.com/projects/p/virt-manager/language/bs/)
+visualboyadvance-m,0,0,2393,0,0,895,0,2393,0.0,Bosnian (http://www.transifex.com/bgk/vba-m/language/bs/)
+warmux,874,729,1141,161,125,186,829,2744,31.851311953352766,Bosnian <local@linux.org.ba>
+wingpanel,6,0,13,1,0,3,5,19,31.57894736842105,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel/bs/>
+wingpanel-applications-menu,195,20,200,60,7,48,186,415,46.98795180722892,Bosnian <https://weblate.elementary.io/projects/wingpanel/applications-menu/bs/>
+wingpanel-indicator-bluetooth,11,8,59,7,3,19,11,78,14.102564102564102,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/bs/>
+wingpanel-indicator-datetime,4,0,173,1,0,35,4,177,2.2598870056497176,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/bs/>
+wingpanel-indicator-keyboard,2,11,40,1,4,11,2,53,3.7735849056603774,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/bs/>
+wingpanel-indicator-network,40,16,94,14,5,26,42,150,26.666666666666668,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/bs/>
+wingpanel-indicator-nightlight,12,8,25,4,2,6,14,45,26.666666666666668,Bosnian <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/bs/>
+wingpanel-indicator-notifications,10,14,110,4,5,25,9,134,7.462686567164178,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/bs/>
+wingpanel-indicator-power,90,2,99,25,1,26,128,191,47.12041884816754,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/bs/>
+wingpanel-indicator-session,53,7,48,16,2,9,49,108,49.074074074074076,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/bs/>
+wingpanel-indicator-sound,4,4,88,2,2,19,4,96,4.166666666666666,Bosnian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/bs/>
+xed,680,0,3080,134,0,790,718,3760,18.085106382978726,Bosnian (http://www.transifex.com/projects/p/MATE/language/bs/)
+xfe,1075,4040,1012,469,460,172,1063,6127,17.545291333442144,<bs@li.org>
+yakuake,1446,102,126,210,14,14,1304,1674,86.37992831541219,bs <bs@kde.org>
+yelp,452,0,0,104,0,0,389,452,100.0,Bosnian <+>
+yelp-xsl,81,0,0,59,0,0,75,81,100.0,Bosnian <bs@li.org>
+zanshin,21,331,158,13,74,41,27,510,4.117647058823529,Bosnian
+zenity,877,0,0,190,0,0,846,877,100.0,Bosnian <+>
+zypper,8,808,8427,8,174,1067,8,9243,0.0865519852861625,Bosnian <i18n@suse.de>

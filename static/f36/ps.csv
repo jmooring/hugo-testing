@@ -1,0 +1,234 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+NetworkManager-l2tp,16,0,1219,11,0,175,22,1235,1.2955465587044535,Pashto <pathanisation@googlegroups.com>
+NetworkManager-openvpn,43,68,1862,20,22,229,44,1973,2.1794221996958947,Pashto <pathanisation@googlegroups.com>
+NetworkManager-ssh,26,27,233,11,12,46,33,286,9.090909090909092,Pashto <pathanisation@googlegroups.com>
+alacarte,42,0,0,16,0,0,42,42,100.0,Pashto <pathanisation@googlegroups.com>
+asunder,14,0,478,13,0,78,14,492,2.8455284552845526,http://littlesvr.ca/ostd/
+atk,370,1,4,123,1,2,436,375,98.66666666666667,Pashto <pathanisation@googlegroups.com>
+atril,668,0,3723,226,0,511,687,4391,15.212935549988613,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+baobab,282,18,240,99,5,22,317,540,52.22222222222223,Pashto <pathanisation@googlegroups.com>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+budgie-screensaver,376,0,579,102,0,50,430,955,39.3717277486911,Pashto <pakhtosoft@gmail.com>
+caja,1154,0,8521,495,0,1109,1227,9675,11.92764857881137,Pashto (https://www.transifex.com/mate/teams/13566/ps/)
+caja-actions,113,0,18702,70,0,1446,125,18815,0.6005846399149615,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+caja-extensions,9,0,751,7,0,138,10,760,1.1842105263157896,Pashto (https://www.transifex.com/mate/teams/13566/ps/)
+calibre,33,0,170934,33,0,19298,33,170967,0.01930197055572128,Pashto (http://www.transifex.com/calibre/calibre/language/ps/)
+cheese,333,0,56,72,0,7,367,389,85.60411311053984,Pashto <pathanisation@googlegroups.com>
+cinnamon-desktop,0,0,234,0,0,32,0,234,0.0,Pashto <pathanisation@googlegroups.com>
+cinnamon-translations,110,0,351,28,0,60,111,461,23.861171366594363,Pashto <pakhtosoft@gmail.com>
+clutter,1,0,3056,1,0,674,1,3057,0.03271180896303566,Pashto <pathanisation@googlegroups.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dasher,273,0,255,143,0,56,331,528,51.70454545454546,Pashto <pathanisation@googlegroups.com>
+deja-dup,1,0,3374,1,0,413,6,3375,0.02962962962962963,Pashto <ps@li.org>
+devhelp,242,0,122,79,0,15,248,364,66.48351648351648,Pashto <pathanisation@googlegroups.com>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+efl,1,1,154,1,1,57,1,156,0.641025641025641,General
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,12,17,1579,7,6,294,12,1608,0.7462686567164178,LANGUAGE <LL@li.org>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,219,0,0,48,0,219,0.0,
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+engrampa,995,0,1054,234,0,194,1041,2049,48.56027330405075,Pashto (https://app.transifex.com/mate/teams/13566/ps/)
+eog,750,0,443,252,0,26,824,1193,62.86672254819782,Pashto <pathanisation@googlegroups.com>
+eom,629,0,4332,213,0,329,681,4961,12.678895383995162,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+epiphany,401,12,2469,219,8,502,412,2882,13.913948646773076,Pashto <pathanisation@googlegroups.com>
+evince,746,0,243,248,0,30,780,989,75.42972699696662,Pashto <pathanisation@googlegroups.com>
+evolution,6876,48,14941,3003,18,1987,7436,21865,31.44751886576721,Pashto <pathanisation@goolgegroups.com>
+file-roller,1200,6,0,270,1,0,1258,1206,99.50248756218906,Pashto <pathanisation@googlegroups.com>
+gala,0,0,358,0,0,73,0,358,0.0,none
+gconf-editor,328,7,1,96,1,1,334,336,97.61904761904762,Pashto <pathanisation@googlegroups.com>
+gdk-pixbuf2,120,19,1209,25,4,173,137,1348,8.902077151335313,Pashto <pathanisation@googlegroups.com>
+gdm,109,76,465,27,12,48,124,650,16.76923076923077,Pashto <pathanisation@googlegroups.com>
+gedit,1929,0,3081,622,0,475,2072,5010,38.50299401197605,Pashto <pathanisation@googlegroups.com>
+gedit-plugins,222,116,867,117,36,316,264,1205,18.423236514522824,Pashto <pathanisation@googlegroups.com>
+glib2,466,305,4006,131,69,547,588,4777,9.755076407787314,Pashto <pathanisation@googlegroups.com>
+gnome-applets,602,2,2554,275,1,454,663,3158,19.062697910069666,Pashto <pathanisation@googlegroups.com>
+gnome-desktop3,144,0,139,58,0,11,174,283,50.8833922261484,Pashto <pathanisation@googlegroups.com>
+gnome-dictionary,367,27,439,115,4,64,413,833,44.057623049219686,Pashto <pathanisation@googlegroups.com>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Pashto <pathanisation@googlegroups.com>
+gnome-icon-theme,20,0,0,16,0,0,21,20,100.0,Pashto <pathanisation@googlegroups.com>
+gnome-menus,128,0,29,52,0,4,149,157,81.52866242038218,Pashto <pathanisation@googlegroups.com>
+gnome-nettool,165,0,358,104,0,102,187,523,31.54875717017208,Pashto <zabeehkhan@gmail.com>
+gnome-panel,1328,248,1944,327,69,112,1427,3520,37.72727272727273,Pashto <pp@pathanisation.pakhtosoft.com>
+gnome-screenshot,91,79,149,30,14,15,101,319,28.526645768025077,Pashto <pathanisation@googlegroups.com>
+gnome-search-tool,470,47,842,109,10,81,479,1359,34.58425312729948,Pashto <pathanisation@googlegroups.com>
+gnome-session,244,0,435,70,0,43,255,679,35.93519882179676,Pashto <pathanisation@googlegroups.com>
+gnome-shell-frippery,4,0,0,1,0,0,7,4,100.0,
+gnome-system-log,121,46,355,40,13,41,134,522,23.18007662835249,Pashto <pathanisation@googlegroups.com>
+gnome-system-monitor,479,0,389,177,0,53,567,868,55.18433179723502,Pashto <pakhtosoft@gmail.com>
+gnome-terminal,899,0,2495,259,0,131,1024,3394,26.487919858573957,Pashto <pathanisation@googlegroups.com>
+gnome-video-effects,8,1,17,7,1,15,8,26,30.76923076923077,Pashto <pathanisation@googlegroups.com>
+gpicview,0,0,236,0,0,52,0,236,0.0,LANGUAGE <LL@li.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+gthumb,2262,0,1210,818,0,146,2446,3472,65.14976958525345,Pashto <pakhtosoft@gmail.com>
+gtk2,2441,241,11022,922,62,1800,2577,13704,17.81231757151197,Pashto <pathanisation@googlegroups.com>
+gtk3,2081,415,9357,815,107,1565,2181,11853,17.556736691133047,Pashto <pathanisation@googlegroups.com>
+gtk4,2081,415,9357,815,107,1565,2181,11853,17.556736691133047,Pashto <pathanisation@googlegroups.com>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+islamic-menus,2,0,3,1,0,1,2,5,40.0,Pashto <ps@li.org>
+iso-codes,233,1443,14033,205,1079,8901,231,15709,1.483226176077408,Pushto <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ps/>
+isomaster,25,1,648,21,1,85,25,674,3.7091988130563793,http://littlesvr.ca/ostd/
+kde-i18n,7,0,0,6,0,0,6,7,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+kf5-kauth,0,4,69,0,1,7,0,73,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kcmutils,122,54,90,17,15,6,149,266,45.86466165413533,Pashto <pathanisation@googlegroups.com>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kconfigwidgets,120,158,64,65,47,13,127,342,35.08771929824561,Pashto <pathanisation@googlegroups.com>
+kf5-kcoreaddons,0,308,74,0,90,42,0,382,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kdeclarative,12,22,127,6,6,13,13,161,7.453416149068323,Pashto <pathanisation@googlegroups.com>
+kf5-kdelibs4support,507,829,4017,158,570,1816,579,5353,9.47132449093966,Pashto <pathanisation@googlegroups.com>
+kf5-kdesignerplugin,0,43,11,0,7,2,0,54,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kglobalaccel,0,17,54,0,5,4,0,71,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-khtml,575,181,911,198,38,53,634,1667,34.49310137972405,Pashto <pathanisation@googlegroups.com>
+kf5-ki18n,42,80,2,42,66,2,43,124,33.87096774193548,Pashto <pathanisation@googlegroups.com>
+kf5-kinit,10,14,92,3,3,5,10,116,8.620689655172415,Pashto <pathanisation@googlegroups.com>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kjobwidgets,0,109,24,0,35,3,0,133,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kjsembed,156,16,76,32,4,8,181,248,62.903225806451616,Pashto <pathanisation@googlegroups.com>
+kf5-knewstuff,41,319,1271,19,124,88,50,1631,2.5137952176578784,Pashto <pathanisation@googlegroups.com>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-knotifyconfig,34,9,86,12,3,2,35,129,26.356589147286826,Pashto <pathanisation@googlegroups.com>
+kf5-kparts,71,48,19,16,12,2,71,138,51.449275362318836,Pashto <pathanisation@googlegroups.com>
+kf5-kpty,15,0,0,4,0,0,25,15,100.0,Pashto <pathanisation@googlegroups.com>
+kf5-kross,73,20,7,26,8,1,83,100,73.0,Pashto <pathanisation@googlegroups.com>
+kf5-kservice,32,73,68,6,14,8,32,173,18.497109826589593,Pashto <pathanisation@googlegroups.com>
+kf5-ktextwidgets,288,20,165,99,15,16,333,473,60.887949260042284,Pashto <pathanisation@googlegroups.com>
+kf5-kwidgetsaddons,0,847,446,0,396,67,0,1293,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Pashto <pathanisation@googlegroups.com>
+kf5-kxmlgui,199,293,1082,79,110,41,227,1574,12.642947903430748,Pashto <pathanisation@googlegroups.com>
+kf5-sonnet,0,166,517,0,60,16,0,683,0.0,Pashto <pathanisation@googlegroups.com>
+libbonoboui,254,0,114,99,0,16,289,368,69.02173913043478,Pashto <pathanisation@googlegroups.com>
+libfm,0,0,1575,0,0,394,0,1575,0.0,LANGUAGE <LL@li.org>
+libgnomeui,846,0,380,286,0,34,869,1226,69.00489396411092,Pashto <pakhtosoft@gmail.com>
+libmatekbd,6,0,302,6,0,85,6,308,1.948051948051948,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+libmatemixer,4,0,238,4,0,122,6,242,1.6528925619834711,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+libmateweather,12,0,488,10,0,174,13,500,2.4,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Pushto (http://www.transifex.com/the_cavalry/light-locker/language/ps/)
+lxdm,0,0,47,0,0,25,0,47,0.0,LANGUAGE <LL@li.org>
+lxinput,0,0,83,0,0,26,0,83,0.0,LANGUAGE <LL@li.org>
+lxlauncher,0,0,58,0,0,17,0,58,0.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,Pashto <pathanisation@googlegroups.com>
+lxmusic,0,0,203,0,0,89,0,203,0.0,LANGUAGE <LL@li.org>
+lxpanel,0,0,1399,0,0,467,0,1399,0.0,LANGUAGE <LL@li.org>
+lxrandr,0,0,167,0,0,41,0,167,0.0,LANGUAGE <LL@li.org>
+lxshortcut,0,0,43,0,0,19,0,43,0.0,LANGUAGE <LL@li.org>
+lxtask,0,0,130,0,0,51,0,130,0.0,LANGUAGE <LL@li.org>
+lxterminal,0,0,212,0,0,102,0,212,0.0,LANGUAGE <LL@li.org>
+marco,20,0,4283,10,0,420,22,4303,0.46479200557750405,Pashto (https://app.transifex.com/mate/teams/13566/ps/)
+mate-applets,392,14,15551,206,5,1435,513,15957,2.4566021181926425,Pashto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-backgrounds,4,0,51,2,0,27,4,55,7.2727272727272725,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-calc,26,0,3297,25,0,724,42,3323,0.7824255191092387,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-control-center,146,0,8107,104,0,1406,171,8253,1.769053677450624,Pashto (https://app.transifex.com/mate/teams/13566/ps/)
+mate-desktop,72,0,2304,24,0,277,94,2376,3.0303030303030303,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-media,19,0,220,15,0,84,20,239,7.949790794979079,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-menu,37,0,271,27,0,83,37,308,12.012987012987013,Pushto (http://www.transifex.com/mate/MATE/language/ps/)
+mate-menus,98,0,5,38,0,1,110,103,95.14563106796116,Pashto (https://app.transifex.com/mate/teams/13566/ps/)
+mate-notification-daemon,5,0,181,5,0,48,13,186,2.6881720430107525,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-panel,1494,0,5226,391,0,423,1637,6720,22.232142857142854,Pashto (https://app.transifex.com/mate/teams/13566/ps/)
+mate-polkit,4,0,119,3,0,18,4,123,3.2520325203252036,Pashto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-power-manager,30,0,5089,27,0,524,45,5119,0.5860519632740769,Pashto (https://app.transifex.com/mate/teams/13566/ps/)
+mate-screensaver,360,0,741,100,0,76,413,1101,32.69754768392371,Pashto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-sensors-applet,4,2,2154,4,2,220,11,2160,0.1851851851851852,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-session-manager,223,0,492,72,0,60,233,715,31.18881118881119,Pashto (https://app.transifex.com/mate/teams/13566/ps/)
+mate-settings-daemon,36,0,2170,15,0,304,36,2206,1.6319129646418857,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-system-monitor,293,0,4554,157,0,491,351,4847,6.044976273983908,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-terminal,805,0,7581,267,0,536,921,8386,9.599332220367279,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Pashto (http://www.transifex.com/mate/MATE/language/ps/)
+mate-user-admin,7,0,598,7,0,119,7,605,1.1570247933884297,Pashto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-user-guide,86,0,44593,54,0,3352,97,44679,0.1924841648201616,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mate-utils,1374,0,8686,430,0,696,1515,10060,13.658051689860834,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+mingw-atk,370,1,4,123,1,2,436,375,98.66666666666667,Pashto <pathanisation@googlegroups.com>
+mingw-gdk-pixbuf,120,19,1209,25,4,173,137,1348,8.902077151335313,Pashto <pathanisation@googlegroups.com>
+mingw-glib2,466,305,4006,131,69,547,588,4777,9.755076407787314,Pashto <pathanisation@googlegroups.com>
+mingw-gtk2,2441,241,11022,922,62,1800,2577,13704,17.81231757151197,Pashto <pathanisation@googlegroups.com>
+mingw-gtk3,2081,415,9357,815,107,1565,2181,11853,17.556736691133047,Pashto <pathanisation@googlegroups.com>
+mozo,40,0,6,19,0,5,41,46,86.95652173913044,Pashto (https://www.transifex.com/mate/teams/13566/ps/)
+nautilus,1166,4,7209,512,1,807,1250,8379,13.915741735290608,Pashto <pathanisation@googlegroups.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+pidgin,1625,0,14210,765,0,2692,2019,15835,10.262077676034103,Pushto (http://www.transifex.com/pidgin/pidgin/language/ps/)
+pluma,1610,0,11503,561,0,1529,1735,13113,12.27789216807748,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+pluma-plugins,32,0,1366,10,0,133,42,1398,2.28898426323319,Pushto (https://www.transifex.com/mate/teams/13566/ps/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,926,0,0,263,0,926,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+rhythmbox,1298,0,2721,533,0,390,1468,4019,32.296591191838765,Pashto <pakhtosoft@gmail.com>
+slick-greeter,0,0,211,0,0,47,0,211,0.0,Pashto <ps@li.org>
+spacefm,0,0,8722,0,0,1568,0,8722,0.0,Pushto (http://www.transifex.com/projects/p/spacefm/language/ps/)
+sugar,629,93,1583,190,19,320,724,2305,27.288503253796097,LANGUAGE <LL@li.org>
+sugar-browse,28,18,288,19,2,50,31,334,8.383233532934131,LANGUAGE <LL@li.org>
+sugar-calculator,339,86,441,80,18,71,377,866,39.14549653579677,LANGUAGE <LL@li.org>
+sugar-chat,30,0,107,12,0,69,38,137,21.897810218978105,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-dimensions,0,0,176,0,0,87,0,176,0.0,LANGUAGE <LL@li.org>
+sugar-distance,72,4,23,14,1,11,95,99,72.72727272727273,PASHTO <LL@li.org>
+sugar-finance,48,86,124,22,2,39,54,258,18.6046511627907,PASHTO <LL@li.org>
+sugar-flipsticks,66,2,83,33,1,11,68,151,43.70860927152318,LANGUAGE <LL@li.org>
+sugar-fototoon,23,1,115,16,1,31,20,139,16.546762589928058,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,27,58,27.586206896551722,Pashto<LL@li.org>
+sugar-implode,2,0,75,2,0,18,4,77,2.5974025974025974,LANGUAGE <LL@li.org>
+sugar-jukebox,4,0,65,3,0,19,8,69,5.797101449275362,Pashto <LL@li.org>
+sugar-log,41,4,53,13,1,7,50,98,41.83673469387755,LANGUAGE <LL@li.org>
+sugar-memorize,36,8,98,25,7,42,40,142,25.352112676056336,PASHTO <LL@li.org>
+sugar-paint,37,0,69,34,0,27,40,106,34.90566037735849,PASHTO <LL@li.org>
+sugar-physics,13,0,35,13,0,15,13,48,27.083333333333332,LANGUAGE <LL@li.org>
+sugar-pippy,36,15,224,12,1,54,47,275,13.090909090909092,LANGUAGE <LL@li.org>
+sugar-read,32,5,100,18,1,31,30,137,23.357664233576642,LANGUAGE <LL@li.org>
+sugar-record,12,10,40,10,3,11,14,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-speak,11,0,216,11,0,63,11,227,4.845814977973569,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,5,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,127,15,71,91,9,23,137,213,59.624413145539904,LANGUAGE <LL@li.org>
+sugar-turtleart,81,45,1333,58,27,350,94,1459,5.551747772446881,Pashto <LL@li.org>
+sugar-typing-turtle,320,127,152,59,23,45,374,599,53.42237061769616,LANGUAGE <LL@li.org>
+sugar-view-slides,9,0,51,6,0,17,9,60,15.0,LANGUAGE <LL@li.org>
+sugar-write,63,0,58,37,0,18,57,121,52.066115702479344,LANGUAGE <LL@li.org>
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+totem-pl-parser,28,0,0,7,0,0,40,28,100.0,Pashto <pathanisation@googlegroups.com>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none
+xdg-user-dirs,26,2,0,26,2,0,26,28,92.85714285714286,Pashto <pathanisation@googlegroups.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,92,81,100.0,Pashto <pathanisation@googlegroups.com>
+xed,1092,0,2668,343,0,581,1163,3760,29.04255319148936,Pushto (http://www.transifex.com/projects/p/MATE/language/ps/)
+xreader,475,0,1145,157,0,222,478,1620,29.32098765432099,Pushto (http://www.transifex.com/mate/MATE/language/ps/)
+yelp,268,0,767,156,0,193,307,1035,25.893719806763283,Pashto <pathanisation@googlegroups.com>
+zenity,210,0,372,82,0,53,217,582,36.08247422680412,Pashto <pathanisation@googlegroups.com>

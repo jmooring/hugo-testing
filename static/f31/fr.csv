@@ -1,0 +1,1939 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,212,0,0,44,0,0,261,212,100.0,French (http://www.transifex.com/wildfire-games/0ad/language/fr/)
+3Depict,2064,104,4500,615,9,791,2331,6668,30.95380923815237,French (http://www.transifex.com/mycae/3depict/language/fr/)
+4Pane,1294,0,11281,340,0,1536,1423,12575,10.290258449304176,French (http://www.transifex.com/davidgh/4Pane/language/fr/)
+7kaa,2367,14896,104,675,559,16,2639,17367,13.629296942477112,French
+DivFix++,549,0,0,102,0,0,719,549,100.0,FRENCH <LL@li.org>
+GConf2,4088,0,0,497,0,0,5075,4088,100.0,GNOME French Team <gnomefr@traduc.org>
+LabPlot,2845,3242,4451,1000,1090,781,3517,10538,26.997532738660084,French <kde-francophone@kde.org>
+ModemManager,134,0,0,17,0,0,177,134,100.0,French <gnomefr@traduc.org>
+NetworkManager,24616,0,0,2111,0,0,27745,24616,100.0,French <trans-fr@lists.fedoraproject.org>
+NetworkManager-fortisslvpn,315,0,8,59,0,1,386,323,97.52321981424149,GNOME French Team <gnomefr@traduc.org>
+NetworkManager-l2tp,420,0,722,83,0,96,525,1142,36.77758318739055,GNOME French Team <gnomefr@traduc.org>
+NetworkManager-libreswan,465,0,0,76,0,0,540,465,100.0,GNOME French Team <gnomefr@traduc.org>
+NetworkManager-openconnect,213,44,2984,58,9,529,247,3241,6.572045664918235,GNOME French Team <gnomefr@traduc.org>
+NetworkManager-openvpn,997,11,41,161,2,6,1230,1049,95.04289799809342,français <gnomefr@traduc.org>
+NetworkManager-pptp,415,0,0,77,0,0,511,415,100.0,GNOME French Team <gnomefr@traduc.org>
+NetworkManager-ssh,115,87,84,29,22,18,143,286,40.20979020979021,GNOME French Team <gnomefr@traduc.org>
+NetworkManager-sstp,415,0,0,77,0,0,511,415,100.0,GNOME French Team <gnomefr@traduc.org>
+NetworkManager-vpnc,444,0,0,86,0,0,554,444,100.0,GNOME French Team <gnomefr@traduc.org>
+PackageKit,1239,0,43,310,0,11,1639,1282,96.64586583463338,French (http://www.transifex.com/freedesktop/packagekit/language/fr/)
+R,34559,1906,1354,5095,250,166,41636,37819,91.37999418281815,French <R-core@r-project.org>
+R-expm,36,19,67,6,4,8,55,122,29.508196721311474,Vincent Goulet <vincent@vgoulet.act.ulaval.ca>
+Thunar,4409,0,0,762,0,0,4734,4409,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+WindowMaker,5157,0,366,1058,0,293,5936,5523,93.37316675719718,French <fr@li.org>
+WoeUSB,6414,109,33,1467,24,14,7575,6556,97.83404514948138,WoeUSB Issue Tracker <https://github.com/slacka/WoeUSB/issues>
+Zim,2717,57,157,656,16,17,3282,2931,92.69873763220744,French <https://hosted.weblate.org/projects/zim/master/fr/>
+a2ps,1384,128,0,175,4,0,1472,1512,91.53439153439153,French <bug-a2ps@gnu.org>
+abattis-cantarell-fonts,54,0,0,6,0,0,64,54,100.0,Tot En Òc
+abook,722,34,42,189,9,12,870,798,90.47619047619048,french
+abrt,3676,0,0,417,0,0,4509,3676,100.0,French <https://translate.fedoraproject.org/projects/abrt/abrt/fr/>
+accerciser,4629,0,0,447,0,0,5232,4629,100.0,GNOME French Team <gnomefr@traduc.org>
+accountsservice,59,0,0,10,0,0,78,59,100.0,French (http://www.transifex.com/freedesktop/accountsservice/language/fr/)
+acl,370,130,0,48,4,0,424,500,74.0,french <debian-l10n-french@lists.debian.org>
+agenda,10,7,0,4,2,0,10,17,58.82352941176471,French <fr@li.org>
+aisleriot,22460,346,969,1565,8,36,24494,23775,94.46898002103049,GNOME French Team <gnomefr@traduc.org>
+akonadi-calendar-tools,785,0,0,172,0,0,1011,785,100.0,French <kde-francophone@kde.org>
+akonadi-import-wizard,391,0,0,83,0,0,496,391,100.0,French <kde-francophone@kde.org>
+akregator,1776,0,0,431,0,0,2097,1776,100.0,French <kde-francophone@kde.org>
+alacarte,45,0,0,20,0,0,49,45,100.0,GNOME French Team <gnomefr@traduc.org>
+alexandria,1073,39,69,281,11,14,1188,1181,90.85520745131245,Lígia Moreira <ligia.moreira@netvisao.pt>
+alleyoop,351,0,0,92,0,0,437,351,100.0,GNOME French Team <gnomefr@traduc.org>
+almanah,805,0,0,143,0,0,1072,805,100.0,français <gnomefr@traduc.org>
+alsa-utils,1144,487,169,264,23,37,1449,1800,63.55555555555556,French <fr@li.org>
+amarok,15616,121,82,2770,8,2,18848,15819,98.71673304254378,French <kde-i18n-doc@kde.org>
+amsynth,670,0,0,165,0,0,770,670,100.0,
+amtk,11,0,0,3,0,0,11,11,100.0,français <gnomefr@traduc.org>
+anaconda,7800,0,23,1288,0,1,9331,7823,99.70599514252844,LANGUAGE <LL@li.org>
+analitza,992,0,0,222,0,0,1102,992,100.0,French <kde-francophone@kde.org>
+anjuta,18898,0,0,2780,0,0,21955,18898,100.0,French <GNOME French Team <gnomefr@traduc.org>>
+anope,19958,238,0,1731,4,0,21886,20196,98.82154882154882,French
+apostrophe,332,13,146,111,7,36,384,491,67.61710794297352,
+appeditor,256,80,244,70,17,31,281,580,44.13793103448276,Français
+appstream,903,0,5,196,0,1,1093,908,99.44933920704845,French <https://hosted.weblate.org/projects/appstream/translations/fr/>
+apt-cacher-ng,394,0,0,25,0,0,456,394,100.0,French <debian-l10n-french@lists.debian.org>
+arandr,173,0,0,38,0,0,176,173,100.0,French <https://hosted.weblate.org/projects/arandr/translations/fr/>
+ardour5,14710,1076,4122,3574,158,607,17564,19908,73.88989351014668,
+arduino,3204,0,0,607,0,0,3730,3204,100.0,French (http://www.transifex.com/mbanzi/arduino-ide-15/language/fr/)
+aria2,2503,0,4983,262,0,137,2974,7486,33.43574672722415,Fran&ccedil;ais
+ark,1901,0,0,341,0,0,2197,1901,100.0,French <kde-francophone@kde.org>
+arm-none-eabi-binutils-cs,67476,0,0,10519,0,0,82579,67476,100.0,French <traduc@traduc.org>
+arm-none-eabi-gcc-cs,106426,0,0,13484,0,0,132232,106426,100.0,French <traduc@traduc.org>
+artikulate,437,0,0,154,0,0,532,437,100.0,French <kde-francophone@kde.org>
+aspell,1797,0,0,303,0,0,1890,1797,100.0,French <traduc@traduc.org>
+asterisk,130,4,0,58,1,0,128,134,97.01492537313433,
+asunder,429,27,36,78,3,10,529,492,87.1951219512195,
+at-spi2-core,10,0,0,2,0,0,9,10,100.0,français <gnomefr@traduc.org>
+atk,440,0,0,169,0,0,536,440,100.0,GNOME French Team <gnomefr@traduc.org>
+atomix,169,0,0,44,0,0,196,169,100.0,GNOME French Team <gnomefr@traduc.org>
+atril,2578,0,1269,487,0,155,3152,3847,67.01325708344164,French (https://www.transifex.com/mate/teams/13566/fr/)
+attr,208,138,2,22,7,1,239,348,59.77011494252874,French <debian-l10n-french@lists.debian.org>
+audacious,780,0,0,333,0,0,1033,780,100.0,French (http://www.transifex.com/audacious/audacious/language/fr/)
+audacious-plugins,3978,0,0,900,0,0,4860,3978,100.0,French (http://www.transifex.com/audacious/audacious/language/fr/)
+audacity,16861,6,0,3893,1,0,20087,16867,99.96442758048259,French
+audex,3288,29,30,397,8,7,4050,3347,98.23722736779206,French <kde-francophone@kde.org>
+audit-viewer,611,0,0,185,0,0,714,611,100.0,LANGUAGE <LL@li.org>
+authselect,5421,0,424,579,0,42,6021,5845,92.74593669803251,French
+avahi,865,2,1,165,2,1,989,868,99.65437788018433,French (http://www.transifex.com/lennart/avahi/language/fr/)
+avogadro,6579,0,28,2360,0,12,8163,6607,99.57620705312547,LANGUAGE <LL@li.org>
+avogadro2,137,67,258,84,25,40,360,462,29.653679653679653,LANGUAGE <LL@li.org>
+avogadro2-libs,363,756,1530,269,278,281,563,2649,13.703284258210646,LANGUAGE <LL@li.org>
+avr-binutils,67476,0,0,10519,0,0,82579,67476,100.0,French <traduc@traduc.org>
+avr-gcc,106426,0,0,13484,0,0,132232,106426,100.0,French <traduc@traduc.org>
+avr-gdb,13819,0,0,2100,0,0,16649,13819,100.0,French <traduc@traduc.org>
+b43-fwcutter,67,0,0,4,0,0,73,67,100.0,FRENCH <debian-l10n-french@lists.debian.org>
+b43-tools,67,0,0,4,0,0,73,67,100.0,FRENCH <debian-l10n-french@lists.debian.org>
+backintime,1918,0,54,341,0,8,2248,1972,97.26166328600405,
+backup-manager,1080,60,20,168,6,4,1256,1160,93.10344827586206,Debian l10n French Team <debian-l10n-french@lists.debian.org>
+bacula,60,406,308,15,56,46,68,774,7.751937984496124,French <bacula-devel-fr@lists.sourceforge.net>
+bacula2,6066,2838,11388,1052,405,1743,7294,20292,29.893554109994085,French <bacula-devel-fr@lists.sourceforge.net>
+badwolf,154,12,5,30,4,2,166,171,90.05847953216374,French
+ballz,79,0,0,6,0,0,86,79,100.0,French <traduc@traduc.org>
+baloo-widgets,51,0,0,31,0,0,59,51,100.0,French <kde-francophone@kde.org>
+balsa,19542,0,0,2278,0,0,23259,19542,100.0,GNOME French Team <gnomefr@traduc.org>
+banshee,11157,0,0,1839,0,0,12872,11157,100.0,GNOME French Team <gnomefr@traduc.org>
+banshee-community-extensions,1141,0,179,270,0,40,1383,1320,86.43939393939394,LANGUAGE <LL@li.org>
+baobab,1373,0,0,141,0,0,1533,1373,100.0,GNOME French Team <gnomefr@traduc.org>
+bareftp,448,0,0,160,0,0,552,448,100.0,French <>
+bash,11184,323,0,584,2,0,12921,11507,97.19301294863996,French <traduc@traduc.org>
+bear-factory,4504,778,258,813,120,71,4645,5540,81.29963898916968,French
+bibletime,2562,0,7158,402,0,242,2720,9720,26.358024691358022,French (http://www.transifex.com/bibletime/bibletime/language/fr/)
+bibus,2284,0,0,616,0,0,2513,2284,100.0,French <pmartino@users.sourceforge.net>
+bijiben,1280,0,0,243,0,0,1478,1280,100.0,français <gnomefr@traduc.org>
+binutils,67476,0,0,10519,0,0,82579,67476,100.0,French <traduc@traduc.org>
+bison,1461,0,0,216,0,0,1720,1461,100.0,French <traduc@traduc.org>
+bleachbit,1795,0,8,349,0,1,2363,1803,99.55629506378258,French <LL@li.org>
+blender,96726,0,0,20799,0,0,115955,96726,100.0,
+blinken,133,0,0,47,0,0,164,133,100.0,French <kde-francophone@kde.org>
+blivet-gui,926,53,53,243,8,7,1156,1032,89.72868217054264,French <https://translate.fedoraproject.org/projects/blivet/blivet-gui/fr/>
+blobwars,1167,0,0,352,0,0,1218,1167,100.0,none
+blogilo,1392,0,0,337,0,0,1655,1392,100.0,French <kde-francophone@kde.org>
+blueberry,162,0,0,36,0,0,176,162,100.0,French <fr@li.org>
+bluedevil,618,0,0,194,0,0,710,618,100.0,French <kde-francophone@kde.org>
+bluefish,4945,0,0,1548,0,0,5929,4945,100.0,
+blueman,1596,14,122,449,6,60,1999,1732,92.14780600461894,French <https://hosted.weblate.org/projects/blueman/stable/fr/>
+boinc-client,26824,0,18,4124,0,4,31052,26842,99.93294091349377,French (http://www.transifex.com/boinc/boinc/language/fr/)
+bomber,103,0,0,27,0,0,121,103,100.0,French <kde-i18n-doc@kde.org>
+bookworm,766,0,29,146,0,3,961,795,96.35220125786164,French <https://hosted.weblate.org/projects/bookworm/bookworm/fr/>
+boswars,214,0,2,71,0,2,238,216,99.07407407407408,FRENCH
+bout++,71,8,0,14,2,0,82,79,89.87341772151899,French
+bovo,81,0,0,25,0,0,99,81,100.0,French <kde-francophone@kde.org>
+bpython,235,0,203,41,0,26,278,438,53.65296803652968,bpython developers
+brasero,7751,0,0,1113,0,0,8712,7751,100.0,GNOME French Team <gnomefr@traduc.org>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+brltty,2636,0,0,802,0,0,3468,2636,100.0,LANGUAGE <LL@li.org>
+bubblemail,438,0,25,127,0,4,533,463,94.60043196544277,French <>
+bygfoot,3623,48,49,755,11,8,4057,3720,97.39247311827957,French
+byobu,177,0,0,44,0,0,203,177,100.0,LANGUAGE <LL@li.org>
+byzanz,236,0,0,52,0,0,299,236,100.0,GNOME French Team <gnomefr@traduc.org>
+bzflag,2037,0,0,357,0,0,2368,2037,100.0,
+bzr,165,0,33084,19,0,2334,195,33249,0.49625552648199944,French <fr@li.org>
+cacti,7806,20663,199,1891,2242,5,9300,28668,27.22896609460025,French <http://translate.cacti.net/projects/cacti/core/fr-FR/>
+cairo-clock,270,0,0,60,0,0,297,270,100.0,Mirco Müller <macslow@bangang.de>
+cairo-dock,7464,0,0,827,0,0,7999,7464,100.0,Cairo-Dock <LL@li.org>
+cairo-dock-plug-ins,10203,0,0,1722,0,0,11544,10203,100.0,Cairo-Dock <LL@li.org>
+caja,9449,0,182,1567,0,34,10527,9631,98.1102689232686,French (https://www.transifex.com/mate/teams/13566/fr/)
+caja-actions,20214,0,52,1529,0,13,21932,20266,99.74341261225699,French <MATE French Team <gnomefr@traduc.org>>
+caja-extensions,667,3,1,142,3,1,770,671,99.40387481371089,French (https://www.transifex.com/mate/teams/13566/fr/)
+calamares,443,0,0,84,0,0,541,443,100.0,French (https://www.transifex.com/calamares/teams/20061/fr/)
+calcurse,2493,5,76,467,1,14,2905,2574,96.85314685314685,French (http://www.transifex.com/lfleischer/calcurse/language/fr/)
+calibre,160767,0,207,18450,0,29,178218,160974,99.87140780498714,French (http://www.transifex.com/calibre/calibre/language/fr/)
+calligra,35414,269,179,7658,67,30,43244,35862,98.75076682839776,French <kde-francophone@kde.org>
+calligraplan,7312,920,1372,1759,195,109,8855,9604,76.13494377342775,French <kde-francophone@kde.org>
+camorama,500,94,181,114,20,32,562,775,64.51612903225806,GNOME French Team <gnomefr@traduc.org>
+cantor,2110,49,621,487,14,44,2577,2780,75.89928057553958,French <kde-francophone@kde.org>
+caribou,169,0,0,57,0,0,194,169,100.0,GNOME French Team <gnomefr@traduc.org>
+cataclysm-dda,106819,0,356674,13807,0,28514,113295,463493,23.04651850189755,French (https://www.transifex.com/cataclysm-dda-translators/teams/2217/fr/)
+catfish,886,0,0,141,0,0,1134,886,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+cawbird,502,95,422,186,28,74,605,1019,49.2639842983317,French (http://www.transifex.com/cawbird/cawbird/language/fr/)
+cbrpager,186,15,7,78,3,3,242,208,89.42307692307693,LANGUAGE <LL@li.org>
+ccdciel,5853,0,0,1246,0,0,6806,5853,100.0,French <fr@li.org>
+ccrypt,740,0,0,68,0,0,855,740,100.0,French
+ccsm,558,5,28,144,3,16,611,591,94.41624365482234,French <fr@li.org>
+celestia,2270,6,0,1085,1,0,2872,2276,99.73637961335676,Français <fr@li.org>
+centerim,2062,493,309,612,122,83,2236,2864,71.9972067039106,fr <fr@li.org>
+certmonger,1366,146,1319,228,18,227,1679,2831,48.25150123631226,French (http://www.transifex.com/projects/p/certmonger/language/fr/)
+cervisia,1619,0,0,421,0,0,1975,1619,100.0,French <kde-francophone@kde.org>
+cflow,545,28,21,106,5,2,644,594,91.75084175084174,French <traduc@traduc.org>
+cgit,27909,0,13,4475,0,1,32914,27922,99.95344173053506,French
+cheese,2103,0,0,243,0,0,2365,2103,100.0,français <gnomefr@traduc.org>
+chemical-mime-data,96,100,124,28,29,31,130,320,30.0,french <fr@li.org>
+chemtool,1148,0,36,242,0,19,1344,1184,96.95945945945947,Francais <fr@li.org>
+chkconfig,524,0,31,96,0,7,591,555,94.41441441441441,French <trans-fr@lists.fedoraproject.org>
+choqok,2020,176,61,521,38,10,2615,2257,89.49933540097474,French <kde-i18n-doc@kde.org>
+chrome-gnome-shell,331,0,0,46,0,0,436,331,100.0,French <gnomefr@traduc.org>
+chromium-bsu,1035,37,20,178,6,6,1147,1092,94.78021978021978,French (https://www.transifex.com/projects/p/chromium-bsu/language/fr/)
+cinnamon-control-center,1307,0,6,755,0,1,1447,1313,99.54303122619955,French <fedora-trans-fr@fedoraproject.org>
+cinnamon-desktop,234,0,0,32,0,0,271,234,100.0,GNOME French Team <gnomefr@traduc.org>
+cinnamon-translations,22901,0,0,5111,0,0,26425,22901,100.0,French <fr@li.org>
+clamtk,551,0,0,137,0,0,662,551,100.0,français <LL@li.org>
+claws-mail,20735,0,0,4051,0,0,25019,20735,100.0,Claws Mail translators <translators@lists.claws-mail.org>
+clawsker,1440,0,0,262,0,0,1868,1440,100.0,Tristan Chabredier (wwp) <subscript@free.fr>
+clementine,5166,0,0,1377,0,0,6387,5166,100.0,French (http://www.transifex.com/davidsansome/clementine/language/fr/)
+clipit,436,0,0,148,0,0,578,436,100.0,French (France) (http://www.transifex.net/projects/p/clipit/language/fr_FR/)
+clisp,6167,4816,2798,856,536,257,7082,13781,44.750018140918655,French <traduc@traduc.org>
+clutter,3057,0,0,675,0,0,3443,3057,100.0,français <gnomefr@traduc.org>
+cmake-fedora,263,0,14,59,0,5,328,277,94.94584837545126,French
+cmyktool,856,5,0,190,1,0,902,861,99.41927990708479,CEDRIC GEMY <cedric.gemy@gmail.com>
+cockpit,7778,0,0,2136,0,0,9454,7778,100.0,French <https://translate.fedoraproject.org/projects/cockpit/master/fr/>
+cockpit-composer,1236,93,145,261,5,8,1491,1474,83.85345997286295,French <https://translate.fedoraproject.org/projects/cockpit-composer/master/fr/>
+cockpit-ostree,168,0,0,65,0,0,202,168,100.0,French <https://translate.fedoraproject.org/projects/cockpit-ostree/master/fr/>
+cockpit-podman,463,0,0,172,0,0,582,463,100.0,French <https://translate.fedoraproject.org/projects/cockpit-podman/master/fr/>
+cogl,393,0,0,80,0,0,531,393,100.0,français <gnomefr@traduc.org>
+coin,252,0,0,50,0,0,256,252,100.0,Français
+colobot,39426,9,16076,3545,1,979,37156,55511,71.0237610563672,
+colord,732,0,1258,148,0,105,832,1990,36.78391959798995,French (http://www.transifex.com/freedesktop/colord/language/fr/)
+colord-kde,358,8,3,117,2,1,449,369,97.01897018970189,French <kde-francophone@kde.org>
+colorhug-client,719,0,689,162,0,132,860,1408,51.06534090909091,French (France) (http://www.transifex.com/projects/p/colorhug-client/language/fr_FR/)
+comix,1326,0,0,262,0,0,1398,1326,100.0,Benoît H. <brenze@users.sourceforge.net>
+common-lisp-controller,57,0,0,7,0,0,71,57,100.0,French <debian-l10n-french@lists.debian.org>
+compat-gdbm,779,0,0,214,0,0,1026,779,100.0,French <traduc@traduc.org>
+compiz,3606,557,222,764,82,33,4525,4385,82.23489167616876,French <fr@li.org>
+compiz-plugins-experimental,1491,1260,1814,337,348,228,1852,4565,32.66155531215772,French <fr@li.org>
+compiz-plugins-extra,3025,398,255,621,75,32,3695,3678,82.2457857531267,French <fr@li.org>
+compiz-plugins-main,4021,69,128,780,16,15,4912,4218,95.32954006638217,French <fr@li.org>
+condor,771,0,0,35,0,0,858,771,100.0,French <debian-l10n-french@lists.debian..org>
+console-setup,1001,0,0,178,0,0,1147,1001,100.0,French <debian-l10n-french@lists.debian.org>
+coreutils,21330,0,0,1801,0,0,25058,21330,100.0,French <traduc@traduc.org>
+cpio,1795,86,21,293,15,5,2158,1902,94.37434279705573,French <traduc@traduc.org>
+cppi,596,0,0,61,0,0,671,596,100.0,French <traduc@traduc.org>
+cpu-x,864,0,0,214,0,0,1160,864,100.0,French <https://hosted.weblate.org/projects/cpu-x/translations/fr/>
+cracklib,93,0,3,15,0,1,87,96,96.875,Novell Language <language@novell.com>
+cross-binutils,67476,0,0,10519,0,0,82579,67476,100.0,French <traduc@traduc.org>
+cross-gcc,106426,0,0,13484,0,0,132232,106426,100.0,French <traduc@traduc.org>
+crossfire,55,0,0,2,0,0,59,55,100.0,French <debian-l10n-french@lists.debian.org>
+crrcsim,644,1,9,212,1,3,745,654,98.47094801223241,<joel.lienard@laposte.net>
+cryptsetup,5845,0,0,846,0,0,7849,5845,100.0,French <traduc@traduc.org>
+csound,18980,0,0,3395,0,0,23591,18980,100.0,French
+ctpl,391,9,0,73,2,0,456,400,97.75,LANGUAGE <LL@li.org>
+cups,6628,0,6078,2984,0,1119,8431,12706,52.16433181174248,LANGUAGE <LL@li.org>
+cups-filters,203,0,0,79,0,0,250,203,100.0,
+cups-pk-helper,149,0,0,22,0,0,168,149,100.0,French <traduc@traduc.org>
+cura,20237,0,0,2378,0,0,23427,20237,100.0,"French <info@lionbridge.com>, French <info@bothof.nl>"
+cura-lulzbot,15562,0,0,1860,0,0,17729,15562,100.0,French
+d-feet,111,0,0,36,0,0,137,111,100.0,GNOME French Team <gnomefr@traduc.org>
+dar,13150,0,0,1501,0,0,15263,13150,100.0,French <traduc@traduc.org>
+darktable,19525,0,2,3705,0,1,21596,19527,99.98975777129104,Michel Leblond <michel.leblond62@gmail.com>
+dasher,7144,0,0,470,0,0,7960,7144,100.0,GNOME French Team <gnomefr@traduc.org>
+datamash,876,0,0,133,0,0,1047,876,100.0,French <traduc@traduc.org>
+davix,0,243,443,0,43,92,0,686,0.0,fr
+dconf-editor,2951,0,0,390,0,0,3387,2951,100.0,GNOME French Team <gnomefr@traduc.org>
+dcraw,552,0,0,111,0,0,683,552,100.0,
+ddccontrol,1547,0,0,238,0,0,1940,1547,100.0,French <traduc@traduc.org>
+ddccontrol-db,379,0,0,198,0,0,469,379,100.0,French <traduc@traduc.org>
+debconf,15874,0,0,789,0,0,16945,15874,100.0,French <debian-l10n-french@lists.debian.org>
+debhelper,19605,283,1502,1094,13,58,21378,21390,91.65497896213184,French <debian-l10n-french@lists.debian.org>
+decibel-audio-player,1494,0,0,237,0,0,1633,1494,100.0,French <fr@li.org>
+deepin-daemon,1063,0,0,228,0,0,1364,1063,100.0,French (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/fr/)
+deepin-qml-widgets,18,0,0,13,0,0,19,18,100.0,French (http://www.transifex.com/projects/p/deepin-qml-widgets/language/fr/)
+deepin-terminal,439,0,19,167,0,2,551,458,95.85152838427948,French (https://www.transifex.com/linuxdeepin/teams/3976/fr/)
+deja-dup,4107,0,57,486,0,5,4933,4164,98.63112391930837,French <fr@li.org>
+deluge,68,0,4263,28,0,1302,74,4331,1.570076194874163,French <fr@li.org>
+denemo,19330,6728,10626,2801,1011,1075,21462,36684,52.693272271289935,French <traduc@traduc.org>
+desktopfolder,533,0,201,171,0,59,582,734,72.6158038147139,French (France) (https://www.transifex.com/ubuntu-budgie/teams/72251/fr_FR/)
+devhelp,544,0,0,108,0,0,685,544,100.0,GNOME French Team <gnomefr@traduc.org>
+devilspie2,161,0,0,35,0,0,215,161,100.0,French
+devscripts,50727,49,140,3455,10,11,55121,50916,99.62880037709168,French <debian-l10n-french@lists.debian.org>
+dia,5749,280,174,2150,95,38,6961,6203,92.68096082540707,GNOME French Team <gnomefr@traduc.org>
+dialog,25,0,0,23,0,0,25,25,100.0,French <traduc@traduc.org>
+diffutils,1886,0,0,266,0,0,2289,1886,100.0,French <traduc@traduc.org>
+digikam,46806,2990,1562,7499,231,96,55504,51358,91.13672650804159,French <kde-francophone@kde.org>
+dino,839,0,0,220,0,0,965,839,100.0,French <https://hosted.weblate.org/projects/dino/translations/fr/>
+dippi,385,12,0,51,2,0,443,397,96.97732997481108,none
+dnf,4107,0,0,812,0,0,5229,4107,100.0,French <https://translate.fedoraproject.org/projects/dnf/dnf-master/fr/>
+dnf-plugins-core,1374,0,0,214,0,0,1644,1374,100.0,French <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/fr/>
+dnf-plugins-extras,377,0,0,56,0,0,484,377,100.0,French <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/fr/>
+dnfdragora,859,0,0,364,0,0,1095,859,100.0,French (https://www.transifex.com/MageiaLinux/teams/9361/fr/)
+dnsmasq,2284,285,349,400,46,55,3028,2918,78.27278958190541,
+dolphin,1885,101,2391,517,39,81,2273,4377,43.066026959104406,French <kde-francophone@kde.org>
+dolphin-emu,10753,0,2,1913,0,1,12801,10755,99.9814039981404,French (http://www.transifex.com/delroth/dolphin-emu/language/fr/)
+dolphin-plugins,1215,0,0,339,0,0,1857,1215,100.0,French <kde-i18n-doc@kde.org>
+dos2unix,5170,0,0,417,0,0,5818,5170,100.0,French <traduc@traduc.org>
+doublecmd,11456,7,14,3259,2,7,13908,11477,99.81702535505794,Zebulon Tourneboulle <zebulon.tourneboulle@gmail.com>
+dpkg,67369,3000,599,4749,194,65,76403,70968,94.92870025927178,French <debian-l10n-french@lists.debian.org>
+dragon,278,0,0,87,0,0,323,278,100.0,French <kde-francophone@kde.org>
+drawing,1393,0,0,408,0,0,1549,1393,100.0,French <aaaa@bbbb.com>
+drgeo,1968,17,0,460,1,0,2178,1985,99.14357682619648,GNOME French Team <gnomefr@traduc.org>
+duplicity,1852,0,363,267,0,52,2333,2215,83.61173814898419,French <fr@li.org>
+dvdbackup,1024,0,0,112,0,0,1182,1024,100.0,French <fr@li.org>
+dwdiff,412,0,106,74,0,15,460,518,79.53667953667953,French (http://www.transifex.net/projects/p/dwdiff/language/fr/)
+dynamic-wallpaper-editor,555,0,67,124,0,4,642,622,89.22829581993568,français
+e16,2776,0,14,511,0,2,3317,2790,99.49820788530465,French
+e2fsprogs,10359,0,0,1579,0,0,13497,10359,100.0,French <traduc@traduc.org>
+easystroke,455,0,15,134,0,3,524,470,96.80851063829788,French <fr@li.org>
+easytag,7780,0,0,1188,0,0,9270,7780,100.0,French <gnomefr@traduc.org>
+edgar,11474,0,0,1535,0,0,12105,11474,100.0,French <fr@li.org>
+efl,235,3,56,105,2,20,281,294,79.93197278911565,French <sansgourou@gmail.com>
+eiciel,168,0,0,53,0,0,198,168,100.0,French <https://l10n.opensuse.org/projects/eiciel/master/fr/>
+ejabberd,1914,164,141,444,36,28,2281,2219,86.25506985128436,
+ekiga,10015,0,0,969,0,0,10624,10015,100.0,GNOME French Team <gnomefr@traduc.org>
+electrum,6886,0,0,1247,0,0,7945,6886,100.0,French
+elementary-calculator,105,0,0,44,0,0,136,105,100.0,French <https://weblate.elementary.io/projects/calculator/calculator/fr/>
+elementary-calendar,679,0,24,227,0,2,814,703,96.58605974395448,French <https://l10n.elementary.io/projects/calendar/calendar/fr/>
+elementary-camera,65,0,0,18,0,0,76,65,100.0,French <https://l10n.elementary.io/projects/camera/camera/fr/>
+elementary-capnet-assist,82,0,0,14,0,0,98,82,100.0,French <https://l10n.elementary.io/projects/desktop/capnet-assist/fr/>
+elementary-code,1151,0,0,257,0,0,1374,1151,100.0,French <https://l10n.elementary.io/projects/code/code/fr/>
+elementary-files,2911,0,0,559,0,0,3658,2911,100.0,French <https://l10n.elementary.io/projects/files/files/fr/>
+elementary-greeter,166,0,0,37,0,0,214,166,100.0,French <https://l10n.elementary.io/projects/desktop/greeter/fr/>
+elementary-music,1308,0,0,366,0,0,1619,1308,100.0,French <https://weblate.elementary.io/projects/music/music/fr/>
+elementary-photos,3910,0,0,806,0,0,4729,3910,100.0,French <https://l10n.elementary.io/projects/photos/photos/fr/>
+elementary-planner,2310,96,233,430,25,53,2627,2639,87.53315649867373,French <https://hosted.weblate.org/projects/planner/translations/fr/>
+elementary-screenshot-tool,212,0,0,55,0,0,283,212,100.0,French <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/fr/>
+elementary-shortcut-overlay,95,0,0,39,0,0,128,95,100.0,French <https://l10n.elementary.io/projects/desktop/shortcut-overlay/fr/>
+elementary-sideload,224,0,0,44,0,0,280,224,100.0,French <https://l10n.elementary.io/projects/desktop/sideload/fr/>
+elementary-terminal,432,7,3,88,1,1,558,442,97.73755656108597,French <https://l10n.elementary.io/projects/terminal/terminal/fr/>
+elementary-videos,324,0,22,86,0,4,453,346,93.64161849710982,French <https://l10n.elementary.io/projects/videos/videos/fr/>
+elinks,12041,193,11,1622,2,1,13222,12245,98.33401388321764,
+emelfm2,6207,13,20,1571,6,3,7569,6240,99.47115384615385,français <fr@li.org>
+emerald,656,39,1,215,4,1,827,696,94.25287356321839,French <fr@li.org>
+engrampa,2440,0,5377,464,0,422,2842,7817,31.21402072406294,French (https://www.transifex.com/mate/teams/13566/fr/)
+enigma,7478,90,1463,889,5,75,7619,9031,82.80367622633152,French (http://www.transifex.com/projects/p/enigma/language/fr/)
+enlightenment,4664,2093,1930,1676,162,394,6021,8687,53.689420973869,French <kde-i18n-doc@kde.org>
+enscript,1385,440,8,191,15,2,1813,1833,75.55919258046919,French <traduc@traduc.org>
+entangle,702,0,251,159,0,70,837,953,73.66211962224554,French (http://www.transifex.com/projects/p/entangle/language/fr/)
+eog,6387,0,0,722,0,0,7145,6387,100.0,français <gnomefr@traduc.org>
+eog-plugins,428,0,0,111,0,0,551,428,100.0,GNOME French Team <gnomefr@traduc.org>
+eom,2832,0,2124,425,0,117,3296,4956,57.14285714285714,French (https://www.transifex.com/mate/teams/13566/fr/)
+ephemeral,1923,0,0,221,0,0,2345,1923,100.0,Français
+epiphany,6761,0,0,955,0,0,7870,6761,100.0,GNOME French Team <gnomefr@traduc.org>
+etckeeper,41,0,0,2,0,0,42,41,100.0,French <debian-l10n-french@lists.debian.org>
+etherape,97,278,744,23,73,153,111,1119,8.668453976764969,None
+evince,9032,0,0,1053,0,0,10281,9032,100.0,français <gnomefr@traduc.org>
+evolution,47002,4225,0,7199,173,0,53795,51227,91.75239619731782,French <GNOME French Team <gnomefr@traduc.org>>
+evolution-data-server,7640,0,0,1434,0,0,9337,7640,100.0,GNOME French Team <gnomefr@traduc.org>
+evolution-ews,496,0,0,101,0,0,599,496,100.0,GNOME French Team <gnomefr@traduc.org>
+evolution-mapi,1034,0,0,231,0,0,1349,1034,100.0,GNOME French Team <gnomefr@traduc.org>
+evolution-rss,715,0,0,161,0,0,945,715,100.0,GNOME French Team <gnomefr@traduc.org>
+exaile,4068,0,0,1074,0,0,5236,4068,100.0,French <https://hosted.weblate.org/projects/exaile/master/fr/>
+exif,145,23,128,33,5,30,158,296,48.986486486486484,French <traduc@traduc.org>
+exiv2,4976,8431,24605,1414,2708,1964,5716,38012,13.090602967483953,français <kde-francophone@kde.org>
+exo,1460,0,0,300,0,0,1706,1460,100.0,French (http://www.transifex.com/xfce/exo/language/fr/)
+extra-cmake-modules,0,0,6,0,0,6,0,6,0.0,
+fakeroot,1535,0,0,97,0,0,1670,1535,100.0,French <debian-l10n-french@lists.debian.org>
+falkon,4268,11,30,1356,7,7,5187,4309,99.04850313297749,French <kde-francophone@kde.org>
+fantasdic,492,0,0,153,0,0,603,492,100.0,GNOME French Team <gnomefr@traduc.org>
+fbpanel,73,0,4,44,0,4,76,77,94.8051948051948,none
+fcitx,32,0,3271,1,0,727,39,3303,0.9688162276718135,French (http://www.transifex.com/fcitx/fcitx/language/fr/)
+fcitx-qt5,0,0,99,0,0,33,0,99,0.0,French (http://www.transifex.com/fcitx/fcitx/language/fr/)
+feedreader,740,95,539,217,18,82,859,1374,53.85735080058224,French <https://hosted.weblate.org/projects/feedreader/translations/fr/>
+fetchmail,4382,0,0,692,0,0,5498,4382,100.0,French <traduc@traduc.org>
+fgrun,972,0,23,378,0,23,1155,995,97.68844221105527,French
+file-roller,2848,0,0,457,0,0,3283,2848,100.0,français <gnomefr@traduc.org>
+filelight,419,0,0,94,0,0,518,419,100.0,French <kde-francophone@kde.org>
+filezilla,10675,0,32,1855,0,3,12992,10707,99.70113010180256,"Pgase, William GATHOYE <pgase.filezilla@free.fr, william@gathoye.be>"
+findutils,2545,23,0,235,4,0,2880,2568,99.1043613707165,French <traduc@traduc.org>
+firewalld,2207,10,0,414,1,0,2558,2217,99.54894000902121,French <https://translate.stg.fedoraproject.org/projects/firewalld/master/fr/>
+fish,56464,0,41571,8990,0,4839,67873,98035,57.595756617534555,français <david.guyot@europecamions-interactive.com>
+five-or-more,1540,0,0,206,0,0,1790,1540,100.0,français <gnomefr@traduc.org>
+flare,8042,3,546,1494,2,237,9498,8591,93.60959143289489,French (https://www.transifex.com/flareorg/teams/84925/fr/)
+flare-engine,607,0,748,214,0,243,698,1355,44.7970479704797,French (https://www.transifex.com/flareorg/teams/84925/fr/)
+flaw,84,0,0,53,0,0,90,84,100.0,LANGUAGE <LL@li.org>
+fldigi,1145,912,5722,400,377,1425,1304,7779,14.71911556755367,French
+flex,791,329,11,164,2,3,976,1131,69.93810786914236,French <traduc@traduc.org>
+florence,5892,154,9,589,12,1,6737,6055,97.30800990916599,French <f.agrech@gmail.com>
+fmit,222,0,0,28,0,0,292,222,100.0,French <https://hosted.weblate.org/projects/fmit/appdata/fr/>
+focuswriter,129,0,0,7,0,0,142,129,100.0,French (http://www.transifex.com/gottcode/focuswriter/language/fr/)
+foliate,1707,64,283,715,10,84,2114,2054,83.10613437195715,français <gnomefr@traduc.org>
+folks,1056,0,0,130,0,0,1341,1056,100.0,français <gnomefr@traduc.org>
+fondo,307,69,243,70,5,50,337,619,49.59612277867528,none
+fontaine,15,0,0,1,0,0,16,15,100.0,LANGUAGE
+fontforge,40913,0,359,7150,0,98,46116,41272,99.13016088389223,French
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,French
+four-in-a-row,1136,0,0,137,0,0,1263,1136,100.0,GNOME French Team <gnomefr@traduc.org>
+foxtrotgps,995,0,0,300,0,0,1162,995,100.0,French <debian-l10n-french@lists.debian.org>
+fpc,199,0,0,9,0,0,203,199,100.0,
+fpm2,698,45,63,188,8,17,920,806,86.60049627791562,French
+fprintd,419,0,0,57,0,0,435,419,100.0,French (http://www.transifex.com/freedesktop/fprintd/language/fr/)
+fragments,2005,0,1,525,0,1,2849,2006,99.95014955134596,French (https://www.transifex.com/transmissionbt/teams/33778/fr/)
+freeciv,106208,0,0,9087,0,0,119012,106208,100.0,French <freeciv-l10n-fr@yahoogroupes.fr>
+freedink,263,0,0,56,0,0,293,263,100.0,French <traduc@traduc.org>
+freedink-data,13770,0,0,2221,0,0,14507,13770,100.0,French <traduc@traduc.org>
+freedink-dfarc,773,0,0,134,0,0,913,773,100.0,French <traduc@traduc.org>
+freedroidrpg,77113,0,0,7715,0,0,83890,77113,100.0,French (https://www.transifex.com/arctic-games/teams/9511/fr/)
+freeipa,27759,0,29577,3560,0,1085,32012,57336,48.41460862285475,French
+frescobaldi,14052,742,6237,2025,194,358,15443,21031,66.81565308354334,French <kde-i18n-doc@kde.org>
+frogr,1500,30,12,289,8,3,1811,1542,97.27626459143968,GNOME French Team <gnomefr@traduc.org>
+frozen-bubble,698,0,0,148,0,0,797,698,100.0,
+fslint,383,0,5,131,0,1,423,388,98.71134020618557,French <traduc@traduc.org>
+fuse-encfs,1943,48,587,225,6,43,2376,2578,75.36850271528317,French (France) <fr_FR@li.org>
+fvwm,859,0,0,200,0,0,966,859,100.0,French
+fwupd,82,0,0,17,0,0,117,82,100.0,French (http://www.transifex.com/freedesktop/fwupd/language/fr/)
+gajim,10800,0,0,2195,0,0,12502,10800,100.0,LANGUAGE <LL@li.org>
+gala,140,0,0,34,0,0,194,140,100.0,French <https://l10n.elementary.io/projects/desktop/gala/fr/>
+galculator,935,0,0,275,0,0,1114,935,100.0,French (http://www.transifex.com/mate/MATE/language/fr/)
+gambas3,8295,20,774,2600,11,235,9691,9089,91.26416547474969,
+gamehub,1115,0,0,365,0,0,1410,1115,100.0,French <https://hosted.weblate.org/projects/gamehub/translations/fr/>
+gammu,3955,62,0,1101,12,0,4790,4017,98.45655962160816,French <https://hosted.weblate.org/projects/gammu/gammu-docs/fr/>
+ganglia,59,0,0,4,0,0,60,59,100.0,French <debian-l10n-french@lists.debian.org>
+ganyremote,495,0,22,147,0,2,568,517,95.74468085106383,French
+garcon,122,0,0,36,0,0,138,122,100.0,French (http://www.transifex.com/xfce/garcon/language/fr/)
+gaupol,1959,0,41,593,0,5,2418,2000,97.95,French (https://www.transifex.com/otsaloma/teams/64879/fr/)
+gawk,4925,63,11,766,3,1,5723,4999,98.51970394078816,French <traduc@traduc.org>
+gbrainy,10222,0,0,1302,0,0,10854,10222,100.0,GNOME French Team <gnomefr@traduc.org>
+gcab,127,0,0,30,0,0,161,127,100.0,GNOME French Team <gnomefr@traduc.org>
+gcal,4998,8,0,1445,3,0,6103,5006,99.84019176987616,French <traduc@traduc.org>
+gcc,106426,0,0,13484,0,0,132232,106426,100.0,French <traduc@traduc.org>
+gcl,177,0,0,8,0,0,193,177,100.0,French <debian-l10n-french@lists.debian.org>
+gcolor3,223,0,55,31,0,7,261,278,80.2158273381295,French
+gcompris-qt,27234,0,0,2439,0,0,29217,27234,100.0,French <kde-francophone@kde.org>
+gconf-editor,2834,0,0,238,0,0,3109,2834,100.0,GNOME French Team <gnomefr@traduc.org>
+gcr,706,0,0,256,0,0,844,706,100.0,français <gnomefr@traduc.org>
+gdb,14076,0,0,2145,0,0,16962,14076,100.0,French <traduc@traduc.org>
+gdbm,800,7,9,220,1,3,1062,816,98.0392156862745,French <traduc@traduc.org>
+gdesklets,1437,0,91,196,0,8,1599,1528,94.04450261780106,GNOME French Team <gnomefr@traduc.org>
+gdk-pixbuf2,1420,0,0,213,0,0,1804,1420,100.0,French <français <gnomefr@traduc.org>>
+gdm,9989,0,0,443,0,0,10935,9989,100.0,French <gnomefr@traduc.org>
+geany,6058,5,6,1314,4,2,7270,6069,99.81875102982369,French <geany-i18n@uvena.de>
+geany-plugins,7543,631,661,1528,110,182,8897,8835,85.3763440860215,French <geany-i18n@uvena.de>
+geary,4248,125,268,734,16,41,5018,4641,91.53199741435036,français <GNOME French Team <gnomefr@traduc.org>>
+gedit,10863,0,0,1309,0,0,12085,10863,100.0,GNOME French Team <gnomefr@traduc.org>
+gedit-latex,934,0,0,451,0,0,1157,934,100.0,GNOME French Team <gnomefr@traduc.org>
+gedit-plugins,8648,0,0,784,0,0,9534,8648,100.0,GNOME French Team <gnomefr@traduc.org>
+geeqie,3460,434,454,1225,132,93,4131,4348,79.57681692732291,french <geeqie-devel@lists.sourceforge.net>
+gegl04,9549,0,0,1945,0,0,11054,9549,100.0,French <gnomefr@traduc.org>
+genius,8553,0,0,1118,0,0,9979,8553,100.0,français <GNOME French Team <gnomefr@traduc.org>>
+gentoo,1055,319,879,408,81,109,1335,2253,46.826453617399025,Français <fr@li.org>
+geomorph,1500,8,0,509,2,0,1704,1508,99.46949602122017,...
+gettext,7541,76,26,820,2,2,9001,7643,98.66544550569148,French <traduc@traduc.org>
+gfm,257,0,0,87,0,0,277,257,100.0,Français <tilp-users@lists.sf.net>
+gftp,3375,0,0,634,0,0,3896,3375,100.0,GNOME French Team <gnomefr@traduc.org>
+ggz-base-libs,74,0,0,17,0,0,87,74,100.0,GNOME French Team <gnomefr@traduc.org>
+ggz-gtk-client,773,0,0,244,0,0,931,773,100.0,GNOME French Team <gnomefr@traduc.org>
+ghdl,106377,0,0,13481,0,0,132183,106377,100.0,French <traduc@traduc.org>
+ghex,3301,0,0,421,0,0,3655,3301,100.0,GNOME French Team <gnomefr@traduc.org>
+giac,7839,50,323,2192,25,103,9100,8212,95.45786653677546,LANGUAGE <LL@li.org>
+gigolo,467,0,0,127,0,0,568,467,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+gimagereader,1489,72,0,424,2,0,1791,1561,95.38757206918642,French <https://hosted.weblate.org/projects/gimagereader/translations/fr/>
+gimp,39486,0,0,9516,0,0,48453,39486,100.0,GNOME French Team <gnomefr@traduc.org>
+gimp-help,229654,11,1,14844,1,1,225477,229666,99.99477502111762,French <GNOME French Team <gnomefr@traduc.org>
+gimp-lqr-plugin,760,20,148,102,1,28,794,928,81.89655172413794,Français <fr@li.org>
+gimp-resynthesizer,472,0,0,82,0,0,547,472,100.0,
+gimp-save-for-web,72,0,10,32,0,8,84,82,87.8048780487805,<fr@li.org>
+gip,103,0,0,31,0,0,115,103,100.0,French <traduc@traduc.org>
+girara,206,0,20,50,0,4,271,226,91.1504424778761,French (http://www.transifex.com/pwmt/girara/language/fr/)
+git,35776,0,13,5667,0,1,42143,35789,99.96367598982928,French
+git-cinnabar,36450,0,13,5706,0,1,42816,36463,99.96434742067302,French
+git-cola,2083,0,671,583,0,145,2532,2754,75.63543936092955,français <>
+gitg,2159,0,0,383,0,0,2482,2159,100.0,français <gnomefr@traduc.org>
+gitweb-caching,3406,23,13,832,4,1,4242,3442,98.9540964555491,French
+gjots2,793,153,7,241,16,3,906,953,83.2109129066107,French
+gkrellm,3809,0,0,558,0,0,4432,3809,100.0,French <jerome.uzel@wanadoo.fr>
+glabels,8866,0,0,1261,0,0,10063,8866,100.0,GNOME French Team <gnomefr@traduc.org>
+glade,8636,0,0,1867,0,0,10143,8636,100.0,GNOME French Team <gnomefr@traduc.org>
+glade2,5910,0,0,1311,0,0,6974,5910,100.0,GNOME French Team <gnomefr@traduc.org>
+glade3,5948,0,0,1225,0,0,6795,5948,100.0,GNOME French Team <gnomefr@traduc.org>
+glib-networking,269,0,0,41,0,0,363,269,100.0,GNOME French Team <gnomefr@traduc.org>
+glib2,7302,0,0,1154,0,0,9229,7302,100.0,GNOME French Team <gnomefr@traduc.org>
+glibc,7775,248,76,1426,29,12,10026,8099,95.99950611186566,
+gliv,1034,0,0,260,0,0,1185,1034,100.0,None
+glom,8822,0,60,1036,0,15,9809,8882,99.32447646926367,GNOME French Team <gnomefr@traduc.org>
+glpi,13772,0,0,3521,0,0,15811,13772,100.0,French (France) (https://www.transifex.com/glpi/teams/1637/fr_FR/)
+gmpc,25,0,0,13,0,0,35,25,100.0,French <fr@li.org>
+gnokii,3613,319,1785,1057,44,116,4274,5717,63.197481196431696,French
+gnomad2,613,84,0,153,18,0,825,697,87.94835007173602,French <fr@li.org>
+gnome-2048,278,0,0,44,0,0,316,278,100.0,français <gnomefr@traduc.org>
+gnome-abrt,224,0,0,56,0,0,266,224,100.0,French <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/fr/>
+gnome-applets,17479,3,4,1899,1,2,19412,17486,99.95996797437951,GNOME French Team <gnomefr@traduc.org>
+gnome-backgrounds,26,0,0,15,0,0,31,26,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-bluetooth,373,0,0,110,0,0,423,373,100.0,français <gnomefr@traduc.org>
+gnome-books,421,0,0,143,0,0,552,421,100.0,français <gnomefr@traduc.org>
+gnome-boxes,4027,0,0,521,0,0,4614,4027,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-builder,4944,0,0,1298,0,0,6227,4944,100.0,français <gnomefr@traduc.org>
+gnome-calculator,3594,0,0,870,0,0,4057,3594,100.0,français <gnomefr@traduc.org>
+gnome-calendar,663,0,0,211,0,0,762,663,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-characters,186,0,0,57,0,0,217,186,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-chemistry-utils,4544,10,0,1250,3,0,5348,4554,99.78041282389108,French <fr@li.org>
+gnome-chess,1512,0,0,256,0,0,1824,1512,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-clocks,1267,0,0,182,0,0,1405,1267,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-color-manager,2330,0,0,371,0,0,2652,2330,100.0,French <gnomefr@traduc.org>
+gnome-commander,30155,0,1461,4681,0,153,34444,31616,95.37892206477733,GNOME French Team <gnomefr@traduc.org>
+gnome-contacts,594,0,0,168,0,0,668,594,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-control-center,7045,0,6,2350,0,1,8223,7051,99.91490568713658,French <fedora-trans-fr@fedoraproject.org>
+gnome-desktop3,9743,0,0,273,0,0,10830,9743,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-devel-docs,51455,6898,60179,2354,690,789,55452,118532,43.41021833766409,GNOME French Team <gnomefr@traduc.org>
+gnome-dictionary,2109,0,0,303,0,0,2423,2109,100.0,français <gnomefr@traduc.org>
+gnome-directory-thumbnailer,85,0,0,12,0,0,114,85,100.0,French <gnomefr@traduc.org>
+gnome-disk-utility,3967,0,0,744,0,0,4808,3967,100.0,français <gnomefr@traduc.org>
+gnome-do,612,0,0,144,0,0,722,612,100.0,
+gnome-doc-utils,251,0,0,101,0,0,149,251,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-documents,1732,0,0,287,0,0,2076,1732,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-feeds,754,0,62,174,0,9,899,816,92.40196078431373,French <traduc@traduc.fr>
+gnome-font-viewer,536,0,0,203,0,0,634,536,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-games,923,0,0,218,0,0,1064,923,100.0,français <>
+gnome-getting-started-docs,2216,0,0,287,0,0,2323,2216,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-gmail,180,5,2,29,1,1,196,187,96.2566844919786,
+gnome-icon-theme,43,0,0,38,0,0,48,43,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-initial-setup,853,0,0,123,0,0,967,853,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-keyring,509,0,0,103,0,0,664,509,100.0,français <gnomefr@traduc.org>
+gnome-klotski,1425,0,0,123,0,0,1592,1425,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-latex,3414,0,0,687,0,0,3892,3414,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-libs,2156,3,48,779,3,9,2455,2207,97.68917082011781,Gnome French Team <gnomefr@traduc.org>
+gnome-logs,652,0,0,145,0,0,741,652,100.0,français <GNOME French Team <gnomefr@traduc.org>>
+gnome-mahjongg,1658,0,0,219,0,0,1914,1658,100.0,français <gnomefr@traduc.org>
+gnome-maps,1282,0,0,327,0,0,1524,1282,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-menus,81,0,0,38,0,0,90,81,100.0,GNOME French team <gnomefr@traduc.org>
+gnome-mime-data,887,0,0,362,0,0,999,887,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-mines,1519,0,0,188,0,0,1800,1519,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-mud,1057,0,0,244,0,0,1231,1057,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-multi-writer,390,0,0,61,0,0,444,390,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-music,1098,0,0,195,0,0,1311,1098,100.0,français <gnomefr@traduc.org>
+gnome-nettool,1160,0,0,241,0,0,1311,1160,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-nibbles,1950,0,0,215,0,0,2190,1950,100.0,français <GNOME French Team <gnomefr@traduc.org>>
+gnome-online-accounts,669,0,0,148,0,0,851,669,100.0,français <gnomefr@traduc.org>
+gnome-packagekit,3454,25,0,540,4,0,4302,3479,99.28140270192584,GNOME French Team <gnomefr@traduc.org>
+gnome-panel,5465,0,0,664,0,0,6272,5465,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-passwordsafe,762,0,0,226,0,0,972,762,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-phone-manager,563,0,0,98,0,0,667,563,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-photos,1026,0,0,264,0,0,1141,1026,100.0,français <gnomefr@traduc.org>
+gnome-power-manager,486,0,0,150,0,0,594,486,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-robots,1692,0,0,255,0,0,2051,1692,100.0,French <GNOME French Team <gnomefr@traduc.org>>
+gnome-screensaver,270,0,0,54,0,0,340,270,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-screenshot,455,0,0,78,0,0,629,455,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-search-tool,3172,0,0,331,0,0,3570,3172,100.0,français <GNOME French Team<gnomefr@traduc.org>>
+gnome-session,414,0,0,66,0,0,485,414,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-settings-daemon,2549,0,0,371,0,0,2957,2549,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-shell,2361,0,0,536,0,0,2726,2361,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-shell-extension-bubblemail,819,0,0,234,0,0,811,819,100.0,French - France <razerraz@free.fr>
+gnome-shell-extension-dash-to-dock,453,0,0,107,0,0,530,453,100.0,Jean-Baptiste Le Cz <jb.lecoz@gmail.com>
+gnome-shell-extension-desktop-icons,91,0,0,35,0,0,101,91,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-shell-extension-disconnect-wifi,2,0,0,2,0,0,4,2,100.0,French
+gnome-shell-extension-freon,94,0,0,27,0,0,103,94,100.0,
+gnome-shell-extension-gsconnect,463,0,76,195,0,26,552,539,85.89981447124305,French
+gnome-shell-extension-media-player-indicator,86,0,0,22,0,0,117,86,100.0,Jean-Philippe Braun <eon@patapon.info>
+gnome-shell-extension-netspeed,23,4,24,14,2,16,29,51,45.09803921568628,French
+gnome-shell-extension-openweather,619,0,0,200,0,1,689,619,100.0,Français <ecyrbe@gmail.com>
+gnome-shell-extension-pomodoro,339,0,0,93,0,0,405,339,100.0,
+gnome-shell-extension-system-monitor-applet,157,0,0,94,0,0,180,157,100.0,French <fr@li.org>
+gnome-shell-extension-topicons-plus,41,0,0,11,0,0,47,41,100.0,Jimmy Scionti <jimmy.scionti@gmail.com>
+gnome-shell-extension-windowoverlay-icons,11,0,0,6,0,0,14,11,100.0,
+gnome-shell-extensions,266,0,0,54,0,0,333,266,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-software,3998,0,0,818,0,0,4860,3998,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-sound-recorder,302,0,0,75,0,0,391,302,100.0,français <gnomefr@traduc.org>
+gnome-subtitles,3442,0,0,557,0,0,3977,3442,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-sudoku,2633,0,0,268,0,0,3036,2633,100.0,français <gnomefr@traduc.org>
+gnome-system-log,1203,0,0,133,0,0,1354,1203,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-system-monitor,5557,0,0,536,0,0,6342,5557,100.0,français <gnomefr@traduc.org>
+gnome-taquin,1212,0,0,194,0,0,1338,1212,100.0,French <gnomefr@traduc.org>
+gnome-terminal,7990,0,0,1038,0,0,9182,7990,100.0,français <gnomefr@traduc.org>
+gnome-tetravex,1097,0,0,140,0,0,1229,1097,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-themes,109,0,0,30,0,0,144,109,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-themes-extra,15,0,0,6,0,0,20,15,100.0,français <l10n.gnome.org>
+gnome-todo,654,0,0,148,0,0,831,654,100.0,français <gnomefr@traduc.org>
+gnome-translate,795,0,0,151,0,0,991,795,100.0,Jean-Yves Lefort <jylefort@brutele.be>
+gnome-tweaks,660,0,0,184,0,0,867,660,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-usage,257,0,0,60,0,0,267,257,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-user-docs,47231,7417,1325,2704,321,79,50188,55973,84.38175548925375,French <gnomefr@traduc.org>
+gnome-user-share,49,0,0,10,0,0,66,49,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-vfs2,1519,0,0,305,0,0,1711,1519,100.0,GNOME French Team <gnomefr@traduc.org>
+gnome-video-arcade,3185,460,37,335,19,10,3574,3682,86.50190114068441,français <GNOME French Team<gnomefr@traduc.org>>
+gnome-video-effects,256,0,0,68,0,0,293,256,100.0,français <gnomefr@traduc.org>
+gnome-weather,195,0,0,42,0,0,228,195,100.0,GNOME French Team <gnomefr@traduc.org>
+gnomebaker,2160,212,0,558,24,0,2632,2372,91.06239460370995,French (France) <fr_FR@li.org>
+gnomint,2755,0,1657,554,0,147,3724,4412,62.44333635539437,French
+gnote,6236,0,22,705,0,5,7022,6258,99.64844998402044,GNOME French Team <gnomefr@traduc.org>
+gnubg,6156,687,6333,1572,98,994,7398,13176,46.72131147540984,<fr@li.org>
+gnubik,266,13,0,82,1,0,273,279,95.3405017921147,French <traduc@traduc.org>
+gnucash,22229,7561,6911,4112,1060,462,25430,36701,60.56783193918422,français <traduc@traduc.fr>
+gnuchess,1016,103,4,129,19,4,1152,1123,90.47195013357079,French <traduc@traduc.org>
+gnulib,0,0,0,2,0,0,2,0,0.0,
+gnumeric,34594,846,480,5501,189,69,41260,35920,96.30846325167037,GNOME French Team <gnomefr@traduc.org>
+gnupg1,8595,29,16,1291,4,2,10044,8640,99.47916666666666,French <traduc@traduc.org>
+gnupg2,11425,1297,789,1939,177,88,13935,13511,84.56072829546297,French <traduc@traduc.org>
+gnusim8085,523,18,27,137,3,5,634,568,92.0774647887324,French <fr@li.org>
+gnutls,1784,31,3,384,9,1,2049,1818,98.12981298129813,French <traduc@traduc.org>
+goaccess,422,5,547,120,3,92,499,974,43.3264887063655,français
+gobby05,922,72,479,206,23,53,1077,1473,62.59334691106585,French <traduc@traduc.org>
+godot,9586,30,0,2336,1,0,11943,9616,99.68801996672212,French <https://hosted.weblate.org/projects/godot-engine/godot/fr/>
+goffice,4287,969,945,1469,309,223,5086,6201,69.13401064344461,GNOME French Team <gnomefr@traduc.org>
+goffice08,4505,193,111,1535,54,18,5362,4809,93.67851944271159,GNOME French Team <gnomefr@traduc.org>
+golang-k8s-kubernetes,125,0,0,16,0,0,135,125,100.0,
+goodvibes,331,0,2,114,0,1,419,333,99.3993993993994,French <https://hosted.weblate.org/projects/goodvibes/translations/fr/>
+gourmet,3582,157,200,859,17,16,4519,3939,90.93678598629094,French <fr@li.org>
+gparted,9674,0,0,995,0,0,11057,9674,100.0,GNOME French Team <gnomefr@traduc.org>
+gpaste,1087,0,17,177,0,3,1135,1104,98.46014492753623,French
+gphoto2,1674,82,0,335,4,0,1911,1756,95.33029612756265,French <traduc@traduc.org>
+gphotoframe,247,16,1056,45,3,219,292,1319,18.72630780894617,LANGUAGE <LL@li.org>
+gpicview,236,0,0,52,0,0,294,236,100.0,GNOME French Team <gnomefr@traduc.org>
+gpodder,2145,0,0,558,0,0,2684,2145,100.0,French (http://www.transifex.com/projects/p/gpodder/language/fr/)
+gpredict,2581,0,3543,690,0,453,3014,6124,42.14565643370346,French <debian-l10n-french@lists.debian.org>
+gpsdrive,812,805,888,184,131,141,947,2505,32.41516966067864,Deutsch <de@li.org>
+gpx-viewer,24,0,84,21,0,37,24,108,22.22222222222222,French <fr@li.org>
+gradio,309,0,0,101,0,0,369,309,100.0,French <https://hosted.weblate.org/projects/gradio/translations/fr/>
+gramps,39824,17,76,6818,2,28,43810,39917,99.76701655936068,French <traduc@traduc.org>
+granatier,247,0,0,68,0,0,286,247,100.0,French <kde-francophone@kde.org>
+granite,269,0,0,88,0,0,313,269,100.0,French <https://l10n.elementary.io/projects/desktop/granite/fr/>
+grantlee,19,0,8,12,0,5,19,27,70.37037037037037,American English <kde-i18n-doc@kde.org>
+grantlee-editor,530,0,0,158,0,0,674,530,100.0,French <kde-francophone@kde.org>
+grantlee-qt5,19,0,8,12,0,5,19,27,70.37037037037037,American English <kde-i18n-doc@kde.org>
+grass,56317,1829,44655,9262,277,6484,68229,102801,54.782541025865505,French <grass-translations@lists.osgeo.org>
+grep,613,269,4,94,12,2,701,886,69.18735891647856,French <traduc@traduc.org>
+gretl,13681,1994,1001,3540,473,166,16377,16676,82.04005756776205,French <artur.bala.tn@gmail.com>
+grig,1268,0,869,392,0,162,1488,2137,59.33551708001872,French <debian-l10n-french@lists.debian.org>
+grilo,191,0,0,36,0,0,247,191,100.0,français <gnomefr@traduc.org>
+grilo-plugins,537,0,0,133,0,0,633,537,100.0,français <gnomefr@traduc.org>
+grip,1109,0,0,283,0,0,1348,1109,100.0,French <traduc@traduc.org>
+grisbi,14496,0,0,2548,0,0,15494,14496,100.0,français <>
+grsync,1079,55,33,152,8,3,1216,1167,92.45929734361611,"French <ersplus@free.fr, ianare@gmail.com>"
+grub-customizer,888,0,407,189,0,4,1057,1295,68.57142857142857,French <fr@li.org>
+grub2,6962,134,23,1314,23,7,8698,7119,97.79463407781992,French <traduc@traduc.org>
+gscan2pdf,1409,0,923,437,0,120,1743,2332,60.42024013722127,French <fr@li.org>
+gsettings-desktop-schemas,6423,0,0,578,0,0,7857,6423,100.0,GNOME French Team <gnomefr@traduc.org>
+gshutdown,489,0,3,98,0,3,521,492,99.39024390243902,GShutdown Team <gshutdown@gmail.com>
+gspell,78,0,0,32,0,0,89,78,100.0,français <gnomefr@traduc.org>
+gstreamer,1914,3,0,347,1,0,2261,1917,99.8435054773083,French <traduc@traduc.org>
+gstreamer-plugins-base,902,0,6,176,0,2,1094,908,99.33920704845815,French <traduc@traduc.org>
+gstreamer1,2110,0,0,378,0,0,2491,2110,100.0,French <traduc@traduc.org>
+gstreamer1-plugins-bad-free,197,0,0,29,0,0,241,197,100.0,French <traduc@traduc.org>
+gstreamer1-plugins-base,992,0,0,205,0,0,1227,992,100.0,French <traduc@traduc.org>
+gstreamer1-plugins-good,802,0,0,98,0,0,972,802,100.0,French <traduc@traduc.org>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,89,80,100.0,French <traduc@traduc.org>
+gthumb,8735,0,0,1557,0,0,9797,8735,100.0,GNOME French Team <gnomefr@traduc.org>
+gtick,338,0,0,96,0,0,359,338,100.0,French <traduc@traduc.org>
+gtk+,404,0,0,210,0,0,460,404,100.0,GNOME French Team <gnomefr@gnomefr.traduc.org>
+gtk-doc,9787,1045,1055,446,30,49,10627,11887,82.33364179355598,Español <gnome-es-list@gnome.org>
+gtk-gnutella,16758,152,221,2735,22,38,19683,17131,97.8226606736326,French (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/fr/)
+gtk-murrine-engine,134,0,0,46,0,0,214,134,100.0,GNOME French Team <gnomefr@traduc.org>
+gtk-vnc,81,0,0,22,0,0,111,81,100.0,GNOME French Team <gnomefr@traduc.org>
+gtk2,12381,0,0,2582,0,0,14502,12381,100.0,GNOME French Team <gnomefr@traduc.org>
+gtk2-engines,119,0,0,47,0,0,182,119,100.0,GNOME French Team <gnomefr@traduc.org>
+gtk3,16678,0,0,3911,0,0,19938,16678,100.0,GNOME French Team <gnomefr@traduc.org>
+gtk4,13173,0,7,3325,0,1,15666,13180,99.94688922610015,GNOME French Team <gnomefr@traduc.org>
+gtkhash,213,0,0,63,0,0,305,213,100.0,French <https://hosted.weblate.org/projects/gtkhash/translations/fr/>
+gtkhtml3,522,0,0,317,0,0,603,522,100.0,GNOME French Team <gnomefr@traduc.org>
+gtkpod,6300,423,797,1102,107,153,7377,7520,83.77659574468085,French (http://www.transifex.net/projects/p/gtkpod/team/fr/)
+gtksourceview2,1413,0,0,538,0,0,1782,1413,100.0,GNOME French Team <gnomefr@traduc.org>
+gtksourceview3,322,0,0,106,0,0,403,322,100.0,français <gnomefr@traduc.org>
+gtksourceview4,322,0,0,106,0,0,403,322,100.0,français <gnomefr@traduc.org>
+gtkspell,11,0,0,5,0,0,12,11,100.0,French <traduc@traduc.org>
+gtkspell3,16,0,0,7,0,0,20,16,100.0,French <traduc@traduc.org>
+gtkterm,632,0,35,143,0,5,741,667,94.75262368815592,French <traduc@traduc.org>
+gtranslator,3910,0,45,515,0,13,4445,3955,98.8621997471555,français <>
+gtypist,419,99,38,75,9,7,464,556,75.35971223021582,French <traduc@traduc.org>
+guake,1113,0,0,248,0,0,1259,1113,100.0,French <https://hosted.weblate.org/projects/guake/guake/fr/>
+guayadeque,3326,0,0,1019,0,0,3950,3326,100.0,French (France) (http://www.transifex.com/projects/p/guayadeque/language/fr_FR/)
+gucharmap,2995,0,0,550,0,0,3378,2995,100.0,français <gnomefr@traduc.org>
+guitarix,2718,0,0,847,0,0,2905,2718,100.0,français <>
+gummi,603,71,84,234,18,9,748,758,79.55145118733509,French
+gutenprint,11595,3860,765,3301,1288,207,12061,16220,71.48581997533908,French <traduc@traduc.org>
+gvfs,2058,0,0,399,0,0,2781,2058,100.0,GNOME French Team <gnomefr@traduc.org>
+gweled,151,0,5,43,0,1,177,156,96.7948717948718,French <fr@li.org>
+gwenview,1521,0,0,394,0,0,1793,1521,100.0,French <kde-francophone@kde.org>
+gwget,379,0,0,103,0,0,505,379,100.0,GNOME French Team <gnomefr@traduc.org>
+harvey,46,0,11,7,0,5,56,57,80.7017543859649,none
+hddtemp,207,169,27,24,1,1,232,403,51.36476426799007,FRANCAIS <fr@li.org>
+heaptrack,157,480,533,46,69,70,187,1170,13.418803418803419,French <kde-francophone@kde.org>
+heketi,125,0,0,16,0,0,135,125,100.0,
+hello,165,21,0,27,3,0,177,186,88.70967741935483,French <traduc@traduc.org>
+help2man,2672,0,0,220,0,0,3017,2672,100.0,French <traduc@traduc.org>
+hexchat,5905,13,53,1432,2,12,7024,5971,98.89465751130464,French (http://www.transifex.com/hexchat/hexchat/language/fr/)
+hibernate4,42483,8677,28003,1879,421,1309,48469,79163,53.6652223892475,none
+hitori,890,0,0,99,0,0,1054,890,100.0,GNOME French Team <gnomefr@traduc.org>
+hivex,262,8,0,21,1,0,310,270,97.03703703703704,French <trans-fr@lists.fedoraproject.org>
+homebank,2492,0,0,799,0,0,2722,2492,100.0,fr <fr@li.org>
+hugin,9000,26,28,1617,3,4,11443,9054,99.40357852882704,French <debian-l10n-french@lists.debian.org>
+hydrogen,6502,8,53,269,1,17,7017,6563,99.0705470059424,FR <humbert.olivier.1@free.fr>
+iagno,1645,0,0,241,0,0,1970,1645,100.0,français <gnomefr@traduc.org>
+ibus,2168,0,0,544,0,0,2453,2168,100.0,French <trans-fr@lists.fedoraproject.org>
+ibus-anthy,705,0,0,194,0,0,889,705,100.0,French <trans-fr@lists.fedoraproject.org>
+ibus-chewing,359,0,0,70,0,0,499,359,100.0,French
+ibus-input-pad,0,0,90,0,0,27,0,90,0.0,French
+ibus-libpinyin,337,5,66,133,2,17,362,408,82.59803921568627,français <>
+ibus-m17n,57,0,0,24,0,0,68,57,100.0,French <https://translate.stg.fedoraproject.org/projects/ibus-m17n/app/fr/>
+ibus-pinyin,170,0,0,74,0,0,196,170,100.0,French
+ibus-table,895,0,0,136,0,0,1016,895,100.0,French <https://translate.fedoraproject.org/projects/ibus-table/app/fr/>
+ibus-typing-booster,1875,0,0,202,0,0,2104,1875,100.0,French <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/fr/>
+icewm,1947,101,35,463,3,3,2455,2083,93.47095535285645,French <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/fr/>
+ikiwiki,12598,540,291,1012,40,34,13206,13429,93.81189962022488,French <debian-l10n-french@lists.debian.org>
+im-chooser,239,0,15,56,0,2,279,254,94.09448818897637,French (http://www.transifex.net/projects/p/im-chooser/team/fr/)
+imsettings,440,5,40,80,1,7,527,485,90.72164948453609,French <trans-fr@lists.fedoraproject.org>
+indent,261,0,0,52,0,0,350,261,100.0,French <traduc@traduc.org>
+initial-setup,106,0,0,20,0,0,117,106,100.0,French (http://www.transifex.com/projects/p/initial-setup/language/fr/)
+initscripts,864,0,108,132,0,16,1045,972,88.88888888888889,French <trans-fr@lists.fedoraproject.org>
+inkscape,0,0,0,0,0,0,0,0,0.0,français <>
+input-pad,862,0,977,375,0,310,992,1839,46.87330070690593,French <trans-fr@lists.fedoraproject.org>
+insight,13128,0,0,2013,0,0,15835,13128,100.0,French <traduc@traduc.org>
+intltool,80,0,0,14,0,0,75,80,100.0,NONE <kenneth@gnu.org>
+isight-firmware-tools,319,0,0,56,0,0,393,319,100.0,LANGUAGE <LL@li.org>
+islamic-menus,5,0,0,2,0,0,6,5,100.0,French <fr@li.org>
+iso-codes,23278,111,60,15267,59,19,23985,23449,99.2707578148322,French <debian-l10n-french@lists.debian.org>
+isoimagewriter,266,38,86,48,5,18,311,390,68.2051282051282,French <kde-francophone@kde.org>
+isomaster,674,0,0,107,0,0,711,674,100.0,Bruno Bord <bruno@jehaisleprintemps.net>
+jamin,773,3,3056,198,1,100,852,3832,20.17223382045929,French <fr@li.org>
+jmol,2830,95,241,943,31,47,3333,3166,89.38723941882502,French <Jmol-developers@lists.sf.net>
+joe,1021,347,659,226,86,166,1294,2027,50.370004933399116,French <fr@li.org>
+jpilot,2515,7,552,680,1,82,2742,3074,81.81522446324007,French <traduc@traduc.org>
+json-glib,303,0,0,44,0,0,345,303,100.0,GNOME French Team <gnomefr@traduc.org>
+juk,1497,0,0,363,0,0,1839,1497,100.0,French <kde-francophone@kde.org>
+jumpnbump,67,0,0,28,0,0,77,67,100.0,French
+jwhois,401,11,28,65,2,4,460,440,91.13636363636364,French <traduc@traduc.org>
+jwm,352,5,0,95,1,0,406,357,98.59943977591037,FR_PUPPY_LINUX <fr_puppy_linux@tradux.org>
+k3b,20221,0,0,2521,0,0,23932,20221,100.0,French <kde-francophone@kde.org>
+k3guitune,192,0,16,80,0,8,210,208,92.3076923076923,Nederlands <nl@li.org>
+k4dirstat,412,0,135,134,0,31,481,547,75.3199268738574,French (http://www.transifex.com/projects/p/k4dirstat/language/fr/)
+kBuild,502,0,3,80,0,1,579,505,99.4059405940594,French <traduc@traduc.org>
+kaccounts-integration,27,0,0,6,0,0,31,27,100.0,French <kde-francophone@kde.org>
+kaccounts-providers,60,0,0,20,0,0,65,60,100.0,French <kde-francophone@kde.org>
+kactivitymanagerd,7,0,0,3,0,0,8,7,100.0,French <kde-francophone@kde.org>
+kaddressbook,750,0,0,168,0,0,850,750,100.0,French <kde-francophone@kde.org>
+kajongg,2444,0,0,510,0,0,2867,2444,100.0,French <kde-francophone@kde.org>
+kalarm,7269,0,0,1020,0,0,8668,7269,100.0,French <kde-francophone@kde.org>
+kalgebra,240,0,0,114,0,0,280,240,100.0,French <kde-francophone@kde.org>
+kalzium,10442,0,0,1531,0,0,11507,10442,100.0,French <kde-francophone@kde.org>
+kamera,347,0,0,38,0,0,411,347,100.0,French <kde-i18n-doc@kde.org>
+kamoso,102,0,0,27,0,0,110,102,100.0,French <kde-francophone@kde.org>
+kanagram,528,0,0,145,0,0,648,528,100.0,French <kde-francophone@kde.org>
+kanatest,401,17,10,210,7,3,445,428,93.69158878504673,French
+kanyremote,402,82,22,132,12,2,455,506,79.44664031620553,French
+kapman,114,0,0,36,0,0,121,114,100.0,French <kde-i18n-doc@kde.org>
+kapptemplate,272,0,0,52,0,0,330,272,100.0,French <kde-francophone@kde.org>
+kate,5232,9,570,1237,5,151,6362,5811,90.03613835828601,French <kde-francophone@kde.org>
+katomic,185,0,0,59,0,0,214,185,100.0,French <kde-i18n-doc@kde.org>
+kaudiocreator,1091,40,5,267,4,2,1280,1136,96.0387323943662,French <kde-francophone@kde.org>
+kbd,1736,642,52,219,49,7,2139,2430,71.440329218107,French <traduc@traduc.org>
+kbibtex,2457,24,0,727,2,0,2864,2481,99.03264812575574,French <kde-francophone@kde.org>
+kbilliards,203,0,5,62,0,2,235,208,97.59615384615384,french <fr@li.org>
+kblackbox,1364,0,0,102,0,0,1456,1364,100.0,French <kde-francophone@kde.org>
+kblocks,159,0,0,38,0,0,204,159,100.0,French <kde-francophone@kde.org>
+kbounce,154,0,0,42,0,0,190,154,100.0,French <kde-i18n-doc@kde.org>
+kbrickbuster,152,0,0,40,0,0,181,152,100.0,French <kde-francophone@kde.org>
+kbruch,1345,0,0,195,0,0,1447,1345,100.0,French <kde-francophone@kde.org>
+kcachegrind,4372,0,0,563,0,0,5224,4372,100.0,French <kde-francophone@kde.org>
+kcalc,992,0,0,328,0,0,1163,992,100.0,French <kde-francophone@kde.org>
+kcharselect,88,0,0,34,0,0,124,88,100.0,French <kde-i18n-doc@kde.org>
+kchildlock,806,0,0,122,0,0,920,806,100.0,German <kde-i18n-de@kde.org>
+kchmviewer,329,158,485,78,59,70,416,972,33.8477366255144,Fr_fr <kde-francophone@kde.org>
+kcm_systemd,337,63,985,79,15,74,374,1385,24.332129963898915,French <rthomsen6@gmail.com>
+kcm_wacomtablet,944,58,54,221,12,7,1311,1056,89.39393939393939,French <kde-francophone@kde.org>
+kcolorchooser,29,0,0,10,0,0,39,29,100.0,French <kde-i18n-doc@kde.org>
+kcoloredit,278,0,0,95,0,0,335,278,100.0,French <kde-francophone@kde.org>
+kcron,534,0,0,190,0,0,660,534,100.0,French <kde-i18n-doc@kde.org>
+kdb,1494,0,0,243,0,0,1949,1494,100.0,French <kde-francophone@kde.org>
+kdbg,321,102,440,105,41,43,340,863,37.195828505214365,none
+kde-cli-tools,2196,0,0,229,0,0,2518,2196,100.0,French <kde-francophone@kde.org>
+kde-connect,900,0,7,212,0,1,1063,907,99.22822491730982,French <kde-francophone@kde.org>
+kde-dev-utils,96,0,0,35,0,0,140,96,100.0,French <kde-francophone@kde.org>
+kde-l10n,105160,0,0,21176,0,0,122741,105160,100.0,French <kde-i18n-doc@kde.org>
+kde-partitionmanager,2226,0,0,524,0,0,2897,2226,100.0,French <kde-francophone@kde.org>
+kde-print-manager,980,0,0,277,0,0,1153,980,100.0,French <kde-francophone@kde.org>
+kdebugsettings,157,0,0,49,0,0,174,157,100.0,French <kde-francophone@kde.org>
+kdecoration,27,0,0,15,0,0,32,27,100.0,French <kde-francophone@kde.org>
+kdenetwork-filesharing,55,0,0,14,0,0,59,55,100.0,French <kde-francophone@kde.org>
+kdepim-addons,4327,0,0,890,0,0,4825,4327,100.0,French <kde-i18n-doc@kde.org>
+kdepim-apps-libs,380,0,0,81,0,0,413,380,100.0,French <kde-francophone@kde.org>
+kdepim-runtime,7724,0,259,1233,0,4,9351,7983,96.75560566203181,French <kde-francophone@kde.org>
+kdeplasma-addons,1676,0,0,641,0,0,2054,1676,100.0,French <kde-francophone@kde.org>
+kdesdk-kioslaves,82,0,0,17,0,0,110,82,100.0,French <kde-i18n-doc@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,8,4,100.0,French <kde-francophone@kde.org>
+kdesvn,4929,8,0,913,1,0,6114,4937,99.83795827425563,French <kde-francophone@kde.org>
+kdevelop,15179,62,0,2984,6,0,18379,15241,99.59320254576471,French <kde-francophone@kde.org>
+kdevelop-php,529,0,0,72,0,0,623,529,100.0,French <kde-francophone@kde.org>
+kdevelop-python,582,0,0,101,0,0,752,582,100.0,French <kde-francophone@kde.org>
+kdf,181,0,0,69,0,0,237,181,100.0,French <kde-francophone@kde.org>
+kdiagram,65,0,1,39,0,1,71,66,98.48484848484848,French <kde-francophone@kde.org>
+kdialog,359,0,0,73,0,0,519,359,100.0,French <kde-francophone@kde.org>
+kdiamond,122,0,0,32,0,0,141,122,100.0,French <kde-i18n-doc@kde.org>
+kdiff3,3595,0,0,620,0,0,4504,3595,100.0,French <kde-i18n-doc@kde.org>
+kdissert,1981,18,28,273,6,3,2136,2027,97.73063640848545,<fr@li.org>
+kdnssd,30,0,0,7,0,0,32,30,100.0,French <kde-francophone@kde.org>
+kdump-anaconda-addon,83,0,0,12,0,0,86,83,100.0,French <French fedora-trans-fr@fedoraproject.org>
+keditbookmarks,466,0,0,132,0,0,558,466,100.0,French <kde-francophone@kde.org>
+kernel,394,211,544,39,21,96,432,1149,34.29068755439513,NONE
+kernel-tools,394,211,544,39,21,96,432,1149,34.29068755439513,NONE
+kexi,4375,2749,227,1172,295,26,5535,7351,59.51571214800707,French <kde-francophone@kde.org>
+kf5-akonadi-calendar,1877,0,0,288,0,0,2250,1877,100.0,French <kde-francophone@kde.org>
+kf5-akonadi-contacts,1419,0,0,297,0,0,1660,1419,100.0,French <kde-francophone@kde.org>
+kf5-akonadi-mime,572,0,0,107,0,0,649,572,100.0,French <kde-francophone@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,French <kde-francophone@kde.orh>
+kf5-akonadi-search,48,0,0,11,0,0,58,48,100.0,French <kde-francophone@kde.org>
+kf5-akonadi-server,2514,0,0,429,0,0,3081,2514,100.0,French <kde-i18n-doc@kde.org>
+kf5-audiocd-kio,997,0,0,209,0,0,1169,997,100.0,French <kde-i18n-doc@kde.org>
+kf5-baloo,910,0,0,206,0,0,1098,910,100.0,French <kde-francophone@kde.org>
+kf5-calendarsupport,2976,0,0,417,0,0,3273,2976,100.0,French <kde-francophone@kde.org>
+kf5-eventviews,2956,0,0,319,0,0,3417,2956,100.0,French <kde-francophone@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,21,14,100.0,French <kde-francophone@kde.org>
+kf5-incidenceeditor,2394,69,35,441,11,4,2673,2498,95.83666933546837,French <kde-francophone@kde.org>
+kf5-kalarmcal,198,0,0,101,0,0,258,198,100.0,French <kde-francophone@kde.org>
+kf5-kauth,73,0,0,8,0,0,73,73,100.0,French <kde-francophone@kde.org>
+kf5-kblog,243,0,0,27,0,0,324,243,100.0,French <kde-i18n-doc@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,258,230,100.0,French <kde-francophone@kde.org>
+kf5-kcalendarutils,1630,0,0,427,0,0,2027,1630,100.0,French <kde-francophone@kde.org>
+kf5-kcmutils,566,0,0,72,0,0,746,566,100.0,French <kde-francophone@kde.org>
+kf5-kcodecs,372,0,0,54,0,0,448,372,100.0,French <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,20,18,100.0,French <kde-francophone@kde.org>
+kf5-kconfig,269,0,0,102,0,0,373,269,100.0,French <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,324,0,0,119,0,0,438,324,100.0,French <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,210,177,100.0,French <kde-francophone@kde.org>
+kf5-kcoreaddons,490,0,0,175,0,0,572,490,100.0,French <kde-francophone@kde.org>
+kf5-kdav,185,0,0,20,0,0,223,185,100.0,French <kde-francophone@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,57,48,100.0,French <kde-i18n-doc@kde.org>
+kf5-kdeclarative,116,0,0,16,0,0,130,116,100.0,French <kde-francophone@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,6103,4813,100.0,French <kde-francophone@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,74,54,100.0,French <kde-francophone@kde.org>
+kf5-kdesu,19,0,0,7,0,0,28,19,100.0,French <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,French <kde-francophone@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,18,8,100.0,French <kde-i18n-doc@kde.org>
+kf5-kfilemetadata,302,0,0,134,0,0,361,302,100.0,French <kde-francophone@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,74,71,100.0,French <kde-i18n-doc@kde.org>
+kf5-kholidays,139,0,0,90,0,0,147,139,100.0,French <kde-francophone@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1974,1721,100.0,French <kde-francophone@kde.org>
+kf5-ki18n,131,0,2,116,0,1,145,133,98.49624060150376,Catalan <lalala@qwyx123.cat>
+kf5-kiconthemes,37,0,0,18,0,0,42,37,100.0,French <kde-francophone@kde.org>
+kf5-kidentitymanagement,181,0,0,23,0,0,208,181,100.0,French <kde-francophone@kde.org>
+kf5-kimap,110,0,0,49,0,0,140,110,100.0,French <kde-francophone@kde.org>
+kf5-kinit,134,0,0,14,0,0,172,134,100.0,French <kde-i18n-doc@kde.org>
+kf5-kio,12410,0,0,1385,0,0,13739,12410,100.0,French <kde-i18n-doc@kde.org>
+kf5-kipi-plugins,5599,0,96,1211,0,19,6576,5695,98.31431079894645,French <kde-francophone@kde.org>
+kf5-kirigami2,44,0,0,22,0,0,50,44,100.0,French <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,10,7,100.0,French <kde-francophone@kde.org>
+kf5-kitinerary,106,0,0,22,0,0,132,106,100.0,French <kde-francophone@kde.org>
+kf5-kjobwidgets,133,0,0,38,0,0,149,133,100.0,FR
+kf5-kjsembed,248,0,0,44,0,0,314,248,100.0,French <kde-francophone@kde.org>
+kf5-kldap,182,0,0,54,0,0,245,182,100.0,French <kde-i18n-doc@kde.org>
+kf5-kmailtransport,654,0,0,109,0,0,810,654,100.0,French <kde-francophone@kde.org>
+kf5-kmime,159,0,0,10,0,0,164,159,100.0,French <kde-i18n-doc@kde.org>
+kf5-knewstuff,1488,0,0,238,0,0,1700,1488,100.0,French <kde-i18n-doc@kde.org>
+kf5-knotifications,20,0,0,7,0,0,19,20,100.0,French <kde-francophone@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,147,129,100.0,French <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Francais <kde-francophone@kde.org>
+kf5-kpackage,499,0,0,99,0,0,592,499,100.0,French <kde-francophone@kde.org>
+kf5-kparts,123,0,0,28,0,0,129,123,100.0,French <kde-francophone@kde.org>
+kf5-kpeople,21,0,0,11,0,0,36,21,100.0,French <kde-francophone@kde.org>
+kf5-kpimtextedit,372,0,0,163,0,0,453,372,100.0,French <kde-francophone@kde.org>
+kf5-kpty,15,0,0,4,0,0,16,15,100.0,French <kde-francophone@kde.org>
+kf5-kross,100,0,0,35,0,0,128,100,100.0,French <kde-francophone@kde.org>
+kf5-kservice,167,0,0,27,0,0,219,167,100.0,French <kde-francophone@kde.org>
+kf5-ksmtp,97,0,0,13,0,0,114,97,100.0,French <kde-francophone@kde.org>
+kf5-ktexteditor,8724,0,0,1263,0,0,10547,8724,100.0,French <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,473,0,0,130,0,0,555,473,100.0,French <kde-francophone@kde.org>
+kf5-ktnef,355,0,0,143,0,0,555,355,100.0,French <kde-francophone@kde.org>
+kf5-kunitconversion,5735,0,0,2473,0,0,5816,5735,100.0,French <kde-francophone@kde.org>
+kf5-kwallet,1462,0,0,112,0,0,1745,1462,100.0,French <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1267,0,0,453,0,0,1513,1267,100.0,French <kde-francophone@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,French <kde-francophone@kde.org>
+kf5-kxmlgui,1545,0,0,221,0,0,1763,1545,100.0,French <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,14,13,100.0,French <kde-i18n-doc@kde.org>
+kf5-libgravatar,22,0,0,10,0,0,30,22,100.0,French <kde-francophone@kde.org>
+kf5-libkcddb,557,0,0,251,0,0,632,557,100.0,French <kde-i18n-doc@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,16,15,100.0,French <kde-i18n-doc@kde.org>
+kf5-libkdepim,465,0,0,127,0,0,559,465,100.0,French <kde-francophone@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,163,139,100.0,French <kde-francophone@kde.org>
+kf5-libkleo,1208,0,0,309,0,0,1453,1208,100.0,French <kde-francophone@kde.org>
+kf5-libksane,272,0,0,83,0,0,336,272,100.0,French <kde-francophone@kde.org>
+kf5-libksieve,3299,0,0,557,0,0,4011,3299,100.0,French <kde-francophone@kde.org>
+kf5-libktorrent,471,0,0,106,0,0,608,471,100.0,French <kde-i18n-doc@kde.org>
+kf5-mailcommon,2831,0,0,471,0,0,3339,2831,100.0,French <kde-francophone@kde.org>
+kf5-mailimporter,1408,0,0,127,0,0,1734,1408,100.0,French <kde-francophone@kde.org>
+kf5-messagelib,7617,0,0,1188,0,0,9115,7617,100.0,French <kde-francophone@kde.org>
+kf5-pimcommon,1032,0,0,248,0,0,1139,1032,100.0,French <kde-francophone@kde.org>
+kf5-plasma,506,0,0,148,0,0,649,506,100.0,French <kde-francophone@kde.org>
+kf5-purpose,257,0,0,68,0,0,317,257,100.0,KDE Francophone <kde-francophone@kde.org>
+kf5-solid,682,0,0,223,0,0,740,682,100.0,French <kde-francophone@kde.org>
+kf5-sonnet,667,0,0,73,0,0,709,667,100.0,French <kde-francophone@kde.org>
+kf5-syntax-highlighting,542,0,0,334,0,0,625,542,100.0,French <kde-i18n-doc@kde.org>
+kfind,504,0,0,117,0,0,629,504,100.0,French <kde-francophone@kde.org>
+kflickr,332,0,0,87,0,0,359,332,100.0,English <en@li.org>
+kfloppy,641,0,0,100,0,0,812,641,100.0,French <kde-francophone@kde.org>
+kfourinline,392,0,0,157,0,0,519,392,100.0,French <kde-i18n-doc@kde.org>
+kgamma,130,0,0,16,0,0,160,130,100.0,French <kde-i18n-doc@kde.org>
+kgeography,9693,0,0,7129,0,0,15333,9693,100.0,French <kde-francophone@kde.org>
+kget,2946,0,0,793,0,0,3439,2946,100.0,French <kde-francophone@kde.org>
+kgoldrunner,23556,0,0,908,0,0,24612,23556,100.0,French <kde-francophone@kde.org>
+kgpg,5282,0,0,698,0,0,6232,5282,100.0,French <kde-francophone@kde.org>
+kgrab,370,0,0,53,0,0,399,370,100.0,Français <kde-francophone@kde.org>
+kgraphviewer,914,287,4,194,19,2,1093,1205,75.850622406639,French <kde-francophone@kde.org>
+kguitar,990,25,0,212,2,0,1107,1015,97.53694581280789,FR <traduc@traduc.org>
+khangman,475,0,0,121,0,0,552,475,100.0,French <kde-francophone@kde.org>
+khelpcenter,265,0,0,90,0,0,370,265,100.0,French <kde-francophone@kde.org>
+khotkeys,438,0,0,129,0,0,506,438,100.0,French <kde-francophone@kde.org>
+kicad,67255,11038,13147,8289,557,997,75689,91440,73.55096237970254,jp-charras
+kiconedit,724,0,2,154,0,1,802,726,99.72451790633609,Francais <kde-francophone@kde.org>
+kid3,3108,0,0,1360,0,0,3671,3108,100.0,FR
+kig,7751,126,0,1291,11,0,8180,7877,98.40040624603276,Français <kde-francophone@kde.org>
+kigo,500,0,0,129,0,0,564,500,100.0,French <kde-francophone@kde.org>
+kile,12994,0,0,2183,0,0,14590,12994,100.0,French <kde-francophone@kde.org>
+killbots,641,0,0,128,0,0,759,641,100.0,French <kde-francophone@kde.org>
+kinfocenter,2499,27,86,991,9,15,3130,2612,95.67381316998468,French <kde-i18n-doc@kde.org>
+kio-extras,1069,0,0,133,0,0,1190,1069,100.0,Français <kde-francophone@kde.org>
+kio-gdrive,30,0,0,5,0,0,30,30,100.0,French <kde-francophone@kde.org>
+kio_gopher,17,0,0,5,0,0,21,17,100.0,French <kde-i18n-doc@kde.org>
+kiriki,144,0,0,50,0,0,175,144,100.0,French <kde-francophone@kde.org>
+kiten,641,0,0,179,0,0,850,641,100.0,French <kde-i18n-doc@kde.org>
+kjots,387,7,5,101,3,2,434,399,96.99248120300751,French <kde-francophone@kde.org>
+kjumpingcube,412,0,0,95,0,0,481,412,100.0,French <kde-i18n-doc@kde.org>
+klamav,2501,0,0,418,0,0,3005,2501,100.0,<fr@li.org>
+klavaro,1997,0,0,238,0,0,2095,1997,100.0,French <traduc@traduc.org>
+kleopatra,8762,0,0,1345,0,0,10430,8762,100.0,French <kde-francophone@kde.org>
+klettres,438,0,0,84,0,0,513,438,100.0,French <kde-francophone@kde.org>
+klickety,178,0,0,62,0,0,181,178,100.0,French <kde-francophone@kde.org>
+klines,99,0,0,28,0,0,117,99,100.0,French <kde-francophone@kde.org>
+kmag,432,0,0,98,0,0,526,432,100.0,French <kde-francophone@kde.org>
+kmahjongg,340,0,0,98,0,0,431,340,100.0,French <kde-francophone@kde.org>
+kmail,8770,0,0,1356,0,0,10266,8770,100.0,French <kde-francophone@kde.org>
+kmail-account-wizard,799,0,0,128,0,0,999,799,100.0,French <kde-francophone@kde.org>
+kmenuedit,273,0,0,63,0,0,299,273,100.0,French <kde-francophone@kde.org>
+kmid2,1022,0,0,333,0,0,1211,1022,100.0,French <kde-francophone@kde.org>
+kmines,119,0,0,42,0,0,146,119,100.0,French <kde-francophone@kde.org>
+kmix,936,0,0,209,0,0,1157,936,100.0,French <kde-francophone@kde.org>
+kmousetool,147,0,0,32,0,0,171,147,100.0,French <kde-francophone@kde.org>
+kmouth,1515,0,0,204,0,0,1696,1515,100.0,French <kde-francophone@kde.org>
+kmplayer,1248,1,0,370,1,0,1521,1249,99.919935948759,French <kde-francophone@kde.org>
+kmplot,2491,0,0,480,0,0,2713,2491,100.0,French <kde-francophone@kde.org>
+kmymoney,21408,7,2,3581,5,2,24297,21417,99.95797730774618,French <kde-francophone@kde.org>
+knavalbattle,399,0,0,102,0,0,543,399,100.0,French <kde-francophone@kde.org>
+knetwalk,230,0,0,54,0,0,280,230,100.0,French <kde-i18n-doc@kde.org>
+knotes,789,0,0,239,0,0,945,789,100.0,French <kde-francophone@kde.org>
+koffice-kivio,8319,67,31,2341,6,14,9700,8417,98.83568967565641,French <kde-francophone@kde.org>
+kolf,401,0,0,148,0,0,485,401,100.0,French <kde-francophone@kde.org>
+kollision,109,0,0,30,0,0,132,109,100.0,French <kde-francophone@kde.org>
+kolourpaint,2585,0,0,449,0,0,3094,2585,100.0,French <kde-francophone@kde.org>
+komikku,1294,0,195,275,0,31,1720,1489,86.90396239086635,
+komparator,2587,0,0,267,0,0,2776,2587,100.0,Français <fr@li.org>
+kompare,1430,0,0,196,0,0,1664,1430,100.0,French <kde-francophone@kde.org>
+konqueror,8336,0,0,1154,0,0,9635,8336,100.0,French <kde-francophone@kde.org>
+konquest,246,0,0,98,0,0,306,246,100.0,French <kde-francophone@kde.org>
+konsole5,2839,0,39,587,0,2,3399,2878,98.64489228630994,French <kde-francophone@kde.org>
+kontact,599,0,0,98,0,0,765,599,100.0,French <kde-francophone@kde.org>
+konversation,10294,0,0,1638,0,0,11701,10294,100.0,French <kde-francophone@kde.org>
+kopete,18427,0,0,3457,0,0,21699,18427,100.0,French <kde-i18n-doc@kde.org>
+korganizer,6796,0,0,914,0,0,7526,6796,100.0,French <kde-francophone@kde.org>
+kover,470,0,0,126,0,0,602,470,100.0,Français <fr@li.org>
+koverartist,582,58,123,135,17,33,707,763,76.2778505897772,Français <fr@li.org>
+kpat,473,0,0,140,0,0,645,473,100.0,French <kde-francophone@kde.org>
+kphotoalbum,8839,609,0,945,59,0,9902,9448,93.55419136325148,French <kde-francophone@kde.org>
+kpilot,7156,0,0,861,0,0,8736,7156,100.0,French <kde-francophone@kde.org>
+kpmcore,3040,0,0,473,0,0,3843,3040,100.0,French <kde-francophone@kde.org>
+kproperty,145,0,0,82,0,0,166,145,100.0,French <kde-francophone@kde.org>
+krb5-auth-dialog,1809,0,0,359,0,0,2385,1809,100.0,GNOME French Team <gnomefr@traduc.org>
+krdc,1327,0,0,297,0,0,1533,1327,100.0,French <kde-francophone@kde.org>
+krecipes,3633,13,0,755,10,0,4190,3646,99.6434448710916,French <kde-francophone@kde.org>
+kreport,514,0,0,234,0,0,623,514,100.0,French <kde-francophone@kde.org>
+kreversi,428,0,0,141,0,0,524,428,100.0,French <kde-francophone@kde.org>
+krfb,676,0,0,91,0,0,839,676,100.0,French <kde-francophone@kde.org>
+krita,14109,3538,8472,4613,956,591,17268,26119,54.01814770856465,French <kde-francophone@kde.org>
+kruler,184,0,0,47,0,0,224,184,100.0,French <kde-francophone@kde.org>
+krusader,6054,1432,452,1453,225,64,7565,7938,76.2660619803477,French <kde-francophone@kde.org>
+kscreen,254,0,0,58,0,0,305,254,100.0,French <kde-francophone@kde.org>
+kscreenlocker,243,0,0,33,0,0,277,243,100.0,French <kde-francophone@kde.org>
+ksensors,158,0,6,91,0,6,182,164,96.34146341463415,Français <de@li.org>
+kshisen,568,0,0,70,0,0,688,568,100.0,French <kde-francophone@kde.org>
+ksig,85,0,0,26,0,0,86,85,100.0,Français <kde-francophone@kde.org>
+ksirk,5763,0,0,762,0,0,6449,5763,100.0,French <kde-francophone@kde.org>
+ksnakeduel,231,0,0,53,0,0,255,231,100.0,French <kde-i18n-doc@kde.org>
+kspaceduel,165,0,0,81,0,0,218,165,100.0,French <kde-i18n-doc@kde.org>
+ksquares,257,0,0,76,0,0,287,257,100.0,French <kde-francophone@kde.org>
+ksshaskpass,43,0,0,12,0,0,55,43,100.0,French <kde-francophone@kde.org>
+kst,6544,76,668,1783,17,141,7821,7288,89.7914379802415,French <kde-francophone@kde.org>
+kstars,29415,8527,21854,10503,2063,3801,33699,59796,49.19225366245234,French <kde-francophone@kde.org>
+ksudoku,1746,0,0,163,0,0,1988,1746,100.0,French <kde-francophone@kde.org>
+ksysguard,1093,0,0,237,0,0,1261,1093,100.0,French <kde-francophone@kde.org>
+ksystemlog,3034,0,0,479,0,0,3361,3034,100.0,French <kde-francophone@kde.org>
+kteatime,203,0,0,67,0,0,231,203,100.0,French <kde-francophone@kde.org>
+ktechlab,2070,650,1013,574,160,205,2399,3733,55.451379587463165,French <kde-francophone@kde.org>
+ktikz,370,0,0,73,0,0,393,370,100.0,American English <kde-i18n-doc@kde.org>
+ktimer,258,0,0,53,0,0,295,258,100.0,French <kde-francophone@kde.org>
+ktorrent,7574,0,0,1390,0,0,8611,7574,100.0,French <kde-francophone@kde.org>
+ktouch,948,0,0,253,0,0,1218,948,100.0,French <kde-francophone@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1378,1100,100.0,French <kde-francophone@kde.org>
+ktp-approver,71,0,0,18,0,0,84,71,100.0,French <kde-francophone@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,112,83,100.0,French <kde-francophone@kde.org>
+ktp-common-internals,989,0,0,206,0,0,1253,989,100.0,French <kde-francophone@kde.org>
+ktp-contact-list,680,0,0,127,0,0,856,680,100.0,French <kde-francophone@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,286,208,100.0,French <kde-francophone@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,92,75,100.0,French <kde-francophone@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,173,141,100.0,French <kde-francophone@kde.org>
+ktp-kded-integration-module,490,0,0,59,0,0,603,490,100.0,French <kde-francophone@kde.org>
+ktp-send-file,60,0,0,18,0,0,78,60,100.0,French <kde-francophone@kde.org>
+ktp-text-ui,1441,0,0,321,0,0,1651,1441,100.0,French <kde-francophone@kde.org>
+ktuberling,158,0,0,38,0,0,139,158,100.0,French <kde-francophone@kde.org>
+kturtle,1531,0,0,347,0,0,1758,1531,100.0,French <kde-francophone@kde.org>
+kubernetes,125,0,0,16,0,0,135,125,100.0,
+kubrick,1203,0,0,165,0,0,1602,1203,100.0,French <kde-francophone@kde.org>
+kuserfeedback,880,235,33,250,16,3,1019,1148,76.65505226480836,French <kde-francophone@kde.org>
+kvirc,11025,0,20024,2387,0,2286,12962,31049,35.50838996425006,French (http://www.transifex.com/kvirc/KVIrc/language/fr/)
+kwalletmanager5,800,0,0,165,0,0,906,800,100.0,French <kde-francophone@kde.org>
+kwave,5798,0,0,1305,0,0,6269,5798,100.0,French <kde-francophone@kde.org>
+kwebkitpart,669,0,0,165,0,0,773,669,100.0,French <kde-francophone@kde.org>
+kwin,5393,550,115,1207,28,9,6932,6058,89.02277979531198,French <kde-francophone@kde.org>
+kwooty,1592,0,0,397,0,0,1986,1592,100.0,French <kde-i18n-doc@kde.org>
+kwordquiz,2026,0,0,414,0,0,2298,2026,100.0,French <kde-francophone@kde.org>
+kxstitch,1749,173,92,523,37,10,2033,2014,86.8421052631579,French <kde-francophone@kde.org>
+l3afpad,113,0,17,61,0,3,169,130,86.92307692307692,French <traduc@traduc.org>
+lasem,25,0,0,8,0,0,34,25,100.0,
+lazarus,43434,15,65,10705,3,9,53231,43514,99.81615112377625,
+lazpaint,2913,16,651,1063,7,121,3345,3580,81.36871508379888,
+lazygal,655,42,50,112,3,9,858,747,87.68406961178046,français <LL@li.org>
+lbrickbuster2,3875,436,23,442,11,9,4184,4334,89.40932164282418,português <pt@li.org>
+leafpad,125,0,0,68,0,0,184,125,100.0,French <traduc@traduc.org>
+leatherman,47,0,0,15,0,0,54,47,100.0,none
+lemonpos,2721,171,226,760,40,43,3042,3118,87.2674791533034,français <fr@li.org>
+lftp,2571,945,517,379,77,46,3099,4033,63.74907017108852,Français <traduc@traduc.org>
+libalkimia,541,0,0,99,0,0,626,541,100.0,French <kde-francophone@kde.org>
+libappstream-glib,459,0,0,99,0,0,564,459,100.0,French (http://www.transifex.com/freedesktop/appstream-glib/language/fr/)
+libbonobo,543,0,0,107,0,0,657,543,100.0,GNOME French Team <gnomefr@traduc.org>
+libbonoboui,368,0,0,115,0,0,455,368,100.0,GNOME French Team <gnomefr@traduc.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,French
+libclaw,60,0,0,15,0,0,70,60,100.0,Français <julien.jorge@gamned.org>
+libconfuse,118,5,35,22,1,6,148,158,74.68354430379746,None <martin@bzero.se>
+libcryptui,3012,0,0,654,0,0,3629,3012,100.0,GNOME French Team <<gnomefr@traduc.org>>
+libdnf,1155,0,0,189,0,0,1471,1155,100.0,French <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/fr/>
+libecpg,66574,0,0,9088,0,0,85425,66574,100.0,French <guillaume@lelarge.info>
+libepc,147,0,0,26,0,0,197,147,100.0,GNOME French Team <gnomefr@traduc.org>
+libexif,6976,0,18,1176,0,2,7708,6994,99.74263654561052,French <traduc@traduc.org>
+libexif-gtk3,259,0,0,109,0,0,291,259,100.0,
+libextractor,1952,13,13,482,5,3,2030,1978,98.685540950455,French <traduc@traduc.org>
+libfilezilla,414,0,0,78,0,0,506,414,100.0,"Pgase, William GATHOYE <pgase.filezilla@free.fr, william@gathoye.be>"
+libfm,1558,13,4,389,4,1,1823,1575,98.92063492063492,
+libgda,9623,505,1014,1812,109,133,11729,11142,86.3669000179501,GNOME French Team <gnomefr@traduc.org>
+libgdata,694,0,0,86,0,0,785,694,100.0,GNOME French Team <gnomefr@traduc.org>
+libgdl,659,0,0,96,0,0,716,659,100.0,GNOME French Team <gnomefr@traduc.org>
+libgnome,1773,0,0,273,0,0,2218,1773,100.0,GNOME French team
+libgnome-games-support,43,0,0,14,0,0,43,43,100.0,français <gnomefr@traduc.org>
+libgnome-keyring,44,0,0,9,0,0,54,44,100.0,GNOME French Team <gnomefr@traduc.org>
+libgnomecanvas,378,0,0,95,0,0,485,378,100.0,GNOME French Team <gnomefr@traduc.org>
+libgnomekbd,242,0,0,55,0,0,296,242,100.0,GNOME French Team <gnomefr@traduc.org>
+libgnomeui,1309,0,0,334,0,0,1603,1309,100.0,GNOME French Team <gnomefr@traduc.org>
+libgovirt,102,0,0,23,0,0,119,102,100.0,French <gnomefr@traduc.org>
+libgpg-error,978,274,172,327,77,42,1166,1424,68.67977528089888,French <traduc@traduc.org>
+libgphoto2,11602,244,252,2570,90,47,14436,12098,95.90014878492312,French <traduc@traduc.org>
+libgpod,1024,23,6,180,4,1,1231,1053,97.24596391263059,
+libgsasl,479,32,66,55,2,12,666,577,83.0155979202773,French <traduc@traduc.org>
+libgsf,720,0,0,150,0,0,909,720,100.0,GNOME French Team <gnomefr@traduc.org>
+libgtop2,126,0,0,40,0,0,148,126,100.0,français <gnomefr@traduc.org>
+libguestfs,24692,5,192633,3302,1,15648,25653,217330,11.361523949753831,French (http://www.transifex.com/projects/p/libguestfs/language/fr/)
+libgweather,6366,0,0,4674,0,0,6493,6366,100.0,GNOME French Team <gnomefr@traduc.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,French <trans-fr@lists.fedoraproject.org>
+libhandy1,964,0,0,196,0,0,1098,964,100.0,GNOME French Team <gnomefr@traduc.org>
+libidn,414,0,14,58,0,2,485,428,96.72897196261682,French <traduc@traduc.org>
+libidn1.34,414,0,14,58,0,2,485,428,96.72897196261682,French <traduc@traduc.org>
+libidn2,250,62,3,35,4,1,304,315,79.36507936507937,French <traduc@traduc.org>
+libkdegames,370,0,0,132,0,0,454,370,100.0,French <kde-i18n-doc@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,202,171,100.0,French <kde-francophone@kde.org>
+libkfbapi,42,0,0,6,0,0,48,42,100.0,French <kde-francophone@kde.org>
+libkgapi,344,0,0,77,0,0,598,344,100.0,French <kde-francophone@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,français <kde-francophone@kde.org>
+libkomparediff2,143,0,0,19,0,0,154,143,100.0,French <kde-i18n-doc@kde.org>
+libksysguard,3336,14,86,469,1,3,3966,3436,97.08963911525029,French <kde-francophone@kde.org>
+libktorrent,519,0,0,115,0,0,651,519,100.0,French <kde-i18n-doc@kde.org>
+libmatekbd,269,0,39,67,0,24,321,308,87.33766233766234,French (https://www.transifex.com/mate/teams/13566/fr/)
+libmatemixer,242,0,0,126,0,0,259,242,100.0,French (https://www.transifex.com/mate/teams/13566/fr/)
+libmateweather,6113,0,29,4549,0,25,6216,6142,99.52784109410615,French (https://www.transifex.com/mate/teams/13566/fr/)
+libmodulemd,1792,0,0,99,0,0,2048,1792,100.0,French
+libmypaint,1112,423,2,96,9,1,1314,1537,72.34873129473,French <https://hosted.weblate.org/projects/mypaint/libmypaint/fr/>
+libmypaint2,1112,423,2,96,9,1,1314,1537,72.34873129473,French <https://hosted.weblate.org/projects/mypaint/libmypaint/fr/>
+libosinfo,732,0,45,156,0,11,884,777,94.20849420849422,French (http://www.transifex.com/projects/p/libosinfo/language/fr/)
+libpaper,73,0,0,46,0,0,73,73,100.0,French <debian-l10n-french@lists.debian.org>
+libpeas,103,0,0,29,0,0,114,103,100.0,français <gnomefr@traduc.org>
+libpolyxmass,2139,0,0,260,0,0,2615,2139,100.0,FRENCH <rusconi@mnhn.fr>
+libpq,67855,47,9,9303,5,1,87102,67911,99.91753913209936,French <guillaume@lelarge.info>
+libpwquality,333,0,0,50,0,0,444,333,100.0,French (http://www.transifex.com/projects/p/libpwquality/language/fr/)
+libqalculate,5114,1018,4020,1341,243,1609,5479,10152,50.37431048069346,Français <fr@li.org>
+libreoffice,574913,7,2334,78602,1,326,641196,577254,99.59445928482089,LANGUAGE <LL@li.org>
+libreport,4928,0,0,603,0,0,5709,4928,100.0,French <https://translate.fedoraproject.org/projects/abrt/libreport/fr/>
+libsmbios,0,0,2174,0,0,359,0,2174,0.0,French
+libsoup,179,0,0,40,0,0,256,179,100.0,français <gnomefr@traduc.org>
+libticables2,1055,0,0,140,0,0,1130,1055,100.0,Français <tilp-users@list.sf.net>
+libticalcs2,1021,0,0,212,0,0,1174,1021,100.0,Français <tilp-users@lists.sf.net>
+libtifiles2,208,0,0,83,0,0,225,208,100.0,Français <tilp-users@lists.sf.net>
+libtranslate,1174,0,0,563,0,0,1229,1174,100.0,Jean-Yves Lefort <jylefort@brutele.be>
+libunicap,97,0,1,66,0,1,105,98,98.9795918367347,
+libunicapgtk,97,0,1,66,0,1,105,98,98.9795918367347,
+libuser,1374,45,18,290,8,3,1850,1437,95.61586638830897,French (http://www.transifex.com/projects/p/fedora/language/fr/)
+libvirt,5721,0,58860,1145,0,8823,7089,64581,8.858642634830678,French <trans-fr@lists.fedoraproject.org>
+libvirt-glib,145,0,8,29,0,1,167,153,94.77124183006535,French (http://www.transifex.com/projects/p/libvirt-glib/language/fr/)
+libvirt-sandbox,519,0,98,94,0,17,643,617,84.11669367909238,French <trans-fr@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1394,1124,100.0,GNOME French Team <gnomefr@traduc.org>
+libwnck3,1084,0,0,230,0,0,1336,1084,100.0,GNOME French Team <gnomefr@traduc.org>
+libxfce4ui,926,0,0,179,0,0,1170,926,100.0,French (http://www.transifex.com/xfce/libxfce4ui/language/fr/)
+libxfce4util,424,0,0,7,0,0,483,424,100.0,French (http://www.transifex.com/xfce/libxfce4util/language/fr/)
+libzypp,2358,0,0,944,0,0,2740,2358,100.0,French <https://l10n.opensuse.org/projects/libzypp/master/fr/>
+lifeograph,981,32,31,266,15,7,1101,1044,93.96551724137932,French <fr@li.org>
+liferea,1883,32,45,419,7,7,2437,1960,96.07142857142857,français <>
+light-locker,260,0,260,37,0,37,298,520,50.0,French (France) (http://www.transifex.com/the_cavalry/light-locker/language/fr_FR/)
+lightdm,163,0,0,21,0,0,173,163,100.0,French <fr@li.org>
+lightdm-gtk,68,0,19,22,0,3,67,87,78.16091954022988,French <fr@li.org>
+lightdm-gtk-greeter-settings,400,0,119,143,0,28,458,519,77.07129094412332,French <fr@li.org>
+lightdm-settings,305,0,0,62,0,0,348,305,100.0,French <fr@li.org>
+lightsoff,1138,0,0,110,0,0,1315,1138,100.0,français <gnomefr@traduc.org>
+lilypond,11876,0,892,2946,0,150,14042,12768,93.01378446115288,Français <lilypond-user-fr@gnu.org>
+lilyterm,1369,162,117,272,20,3,1485,1648,83.07038834951457,French <LL@li.org>
+limnoria,22091,119,276,1459,4,13,23254,22486,98.2433514186605,French <kde-i18n-doc@kde.org>
+lincity-ng,1889,0,0,474,0,0,2115,1889,100.0,français <fr@li.org>
+lingot,121,0,1236,38,0,116,146,1357,8.916728076639647,LANGUAGE <LL@li.org>
+linkchecker,677,2074,1652,137,132,189,872,4403,15.375880081762435,kde-francophone@kde.org
+linphone,1295,35,523,336,11,118,1369,1853,69.88667026443605,french <fr@li.org>
+lokalize,3905,0,0,636,0,0,4679,3905,100.0,French <kde-francophone@kde.org>
+lollypop,1367,0,0,449,0,0,1680,1367,100.0,French <https://hosted.weblate.org/projects/gnumdk/lollypop/fr/>
+lordsawar,6934,0,0,1794,0,0,7745,6934,100.0,French <traduc@traduc.org>
+lshw,446,0,233,198,0,106,505,679,65.68483063328424,
+lskat,254,0,0,83,0,0,280,254,100.0,French <kde-i18n-doc@kde.org>
+lutris,190,0,0,27,0,0,216,190,100.0,French
+lxappearance,233,0,1,79,0,1,275,234,99.57264957264957,French
+lxappearance-obconf,196,0,0,27,0,0,209,196,100.0,French
+lxde-common,10,4,0,3,2,0,13,14,71.42857142857143,LANGUAGE <LL@li.org>
+lxdm,44,3,0,24,1,0,56,47,93.61702127659575,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,102,83,100.0,LANGUAGE <LL@li.org>
+lxlauncher,58,0,0,17,0,0,65,58,100.0,GNOME French Team <gnomefr@traduc.org>
+lxmenu-data,97,0,0,37,0,0,104,97,100.0,GNOME French team <gnomefr@traduc.org>
+lxmusic,203,0,0,89,0,0,263,203,100.0,LANGUAGE <LL@li.org>
+lxrandr,167,0,0,41,0,0,196,167,100.0,LANGUAGE <LL@li.org>
+lxsession,755,0,0,166,0,0,985,755,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,54,43,100.0,LANGUAGE <LL@li.org>
+lxtask,129,0,1,50,0,1,158,130,99.23076923076923,French <xfce-i18n@xfce.org>
+lynx,8348,0,0,1260,0,0,9125,8348,100.0,French <traduc@traduc.org>
+lyx,25728,0,0,7299,0,0,28918,25728,100.0,lyxfr
+mail-notification,2200,0,0,383,0,0,2678,2200,100.0,Jean-Yves Lefort <jylefort@brutele.be>
+mailman,20449,1939,2063,1324,73,84,22541,24451,83.63257126497894,fr <traduc@traduc.org>
+mailman3,79,0,0,10,0,0,103,79,100.0,mailman-fr <mailman-fr@rezo.net>
+mailnag,147,0,69,51,0,17,206,216,68.05555555555556,LANGUAGE <LL@li.org>
+make,2188,69,9,415,14,3,2703,2266,96.55781112091792,French <traduc@traduc.org>
+man-db,9465,134,0,616,9,0,11091,9599,98.60402125221377,French <traduc@traduc.org>
+man2html,58,0,0,3,0,0,60,58,100.0,Debian L10n French <debian-l10n-french@lists.debian.org>
+marble,5276,4910,1269,1699,1398,225,5891,11455,46.058489742470535,French <kde-francophone@kde.org>
+marco,3977,0,362,417,0,14,4885,4339,91.65706383959437,French (https://www.transifex.com/mate/teams/13566/fr/)
+mariadb,192,9,63,15,1,4,204,264,72.72727272727273,French <debian-l10n-french@lists.debian.org>
+massif-visualizer,319,20,18,94,8,7,413,357,89.35574229691878,French <kde-francophone@kde.org>
+mate-applet-softupd,37,3,0,11,1,0,50,40,92.5,French
+mate-applets,11955,9,3889,1161,3,438,14300,15853,75.4115940200593,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-backgrounds,51,0,14,28,0,3,52,65,78.46153846153847,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-calc,1576,0,1602,501,0,218,1910,3178,49.59093769666457,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-control-center,3809,0,4793,1167,0,345,4612,8602,44.280399906998376,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-desktop,2223,0,1,284,0,1,2852,2224,99.95503597122301,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-media,235,0,4,98,0,1,278,239,98.32635983263597,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-menu,308,0,0,110,0,0,406,308,100.0,French (http://www.transifex.com/mate/MATE/language/fr/)
+mate-menus,97,0,0,37,0,0,110,97,100.0,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-notification-daemon,151,0,1,40,0,1,204,152,99.3421052631579,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-panel,6337,18,372,746,4,52,7573,6727,94.20246766760815,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-polkit,123,0,0,21,0,0,136,123,100.0,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-power-manager,2967,143,2026,422,8,123,3558,5136,57.768691588785046,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-screensaver,996,9,15,158,2,9,1146,1020,97.6470588235294,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-sensors-applet,744,0,1416,124,0,102,983,2160,34.44444444444444,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-session-manager,667,0,45,125,0,6,815,712,93.67977528089888,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-settings-daemon,2027,0,170,309,0,9,2482,2197,92.26217569412836,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-system-monitor,1927,0,2985,361,0,298,2561,4912,39.23045602605863,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-terminal,5118,0,3254,566,0,232,5821,8372,61.13234591495461,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-themes,63,0,7,14,0,7,74,70,90.0,French (http://www.transifex.com/mate/MATE/language/fr/)
+mate-user-admin,547,0,23,125,0,4,640,570,95.96491228070175,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-user-guide,34335,0,8635,2349,0,880,37060,42970,79.90458459390273,French (https://www.transifex.com/mate/teams/13566/fr/)
+mate-utils,7268,0,3036,899,0,230,8568,10304,70.53571428571429,French (https://www.transifex.com/mate/teams/13566/fr/)
+mbox-importer,40,0,0,13,0,0,48,40,100.0,French <kde-francophone@kde.org>
+mc,4120,0,84,1216,0,21,4958,4204,98.00190294957184,French (http://www.transifex.com/mc/mc/language/fr/)
+mcomix,2545,11,11,530,2,2,2865,2567,99.14296844565641,
+meiga,378,0,0,94,0,0,486,378,100.0,French
+meld,2729,0,0,549,0,0,3534,2729,100.0,GNOME French Team <gnomefr@traduc.org>
+menulibre,849,0,0,164,0,0,937,849,100.0,French <fr@li.org>
+mercurial,2390,1674,19256,357,104,1776,2911,23320,10.248713550600343,French
+mesa,43,0,438,8,0,47,61,481,8.93970893970894,French <fr@li.org>
+metacity,2042,0,0,311,0,0,2527,2042,100.0,GNOME French Team <gnomefr@traduc.org>
+meteo,227,0,0,79,0,0,273,227,100.0,
+midori,3535,0,6,794,0,2,4436,3541,99.83055634001694,French <fr@li.org>
+minder,2160,333,448,453,86,77,2902,2941,73.44440666439986,Français
+minetest,6161,0,245,998,0,26,7379,6406,96.17546050577583,French <https://hosted.weblate.org/projects/minetest/minetest/fr/>
+mingw-GConf2,4088,0,0,497,0,0,5075,4088,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-atk,440,0,0,169,0,0,536,440,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-binutils,67476,0,0,10519,0,0,82579,67476,100.0,French <traduc@traduc.org>
+mingw-colord,386,0,1499,88,0,115,468,1885,20.477453580901855,French (http://www.transifex.com/projects/p/colord/language/fr/)
+mingw-colorhug-client,718,0,691,161,0,133,857,1409,50.95812633073101,French (France) (http://www.transifex.com/projects/p/colorhug-client/language/fr_FR/)
+mingw-exiv2,4976,8431,24605,1414,2708,1964,5716,38012,13.090602967483953,français <kde-francophone@kde.org>
+mingw-gcc,106426,0,0,13484,0,0,132232,106426,100.0,French <traduc@traduc.org>
+mingw-gdb,9971,0,0,1599,0,0,11865,9971,100.0,French <traduc@traduc.org>
+mingw-gdbm,301,169,229,92,40,61,377,699,43.06151645207439,French <traduc@traduc.org>
+mingw-gdk-pixbuf,1420,0,0,213,0,0,1804,1420,100.0,French <français <gnomefr@traduc.org>>
+mingw-gettext,7783,0,0,827,0,0,9263,7783,100.0,French <traduc@traduc.org>
+mingw-glib-networking,269,0,0,41,0,0,363,269,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-glib2,7302,0,0,1154,0,0,9229,7302,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-gnutls,1784,31,3,384,9,1,2049,1818,98.12981298129813,French <traduc@traduc.org>
+mingw-gstreamer,1914,3,0,347,1,0,2261,1917,99.8435054773083,French <traduc@traduc.org>
+mingw-gstreamer-plugins-bad-free,96,0,0,14,0,0,108,96,100.0,French <traduc@traduc.org>
+mingw-gstreamer-plugins-base,902,0,6,176,0,2,1094,908,99.33920704845815,French <traduc@traduc.org>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,972,814,100.0,French <traduc@traduc.org>
+mingw-gstreamer1,2078,0,0,375,0,0,2449,2078,100.0,French <traduc@traduc.org>
+mingw-gstreamer1-plugins-bad-free,194,0,3,28,0,1,238,197,98.47715736040608,French <traduc@traduc.org>
+mingw-gstreamer1-plugins-base,939,5,24,196,1,5,1154,968,97.00413223140497,French <traduc@traduc.org>
+mingw-gstreamer1-plugins-good,726,25,43,89,4,4,878,794,91.43576826196474,French <traduc@traduc.org>
+mingw-gtk-vnc,81,0,0,22,0,0,111,81,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-gtk2,12381,0,0,2582,0,0,14502,12381,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-gtk3,16056,0,0,3601,0,0,19253,16056,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-gtksourceview3,1156,0,0,630,0,0,1371,1156,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-gtkspell3,16,0,0,7,0,0,20,16,100.0,French <traduc@traduc.org>
+mingw-json-glib,303,0,0,44,0,0,345,303,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-libcharset,303,33,0,45,1,0,353,336,90.17857142857143,French <traduc@traduc.org>
+mingw-libconfuse,109,0,39,20,0,7,136,148,73.64864864864865,None <martin@bzero.se>
+mingw-libgovirt,102,0,0,23,0,0,119,102,100.0,French <gnomefr@traduc.org>
+mingw-libgpg-error,978,274,172,327,77,42,1166,1424,68.67977528089888,French <traduc@traduc.org>
+mingw-libgsf,720,0,0,150,0,0,909,720,100.0,GNOME French Team <gnomefr@traduc.org>
+mingw-libidn,414,0,14,58,0,2,485,428,96.72897196261682,French <traduc@traduc.org>
+mingw-libidn2,250,62,3,35,4,1,304,315,79.36507936507937,French <traduc@traduc.org>
+mingw-libosinfo,732,0,45,156,0,11,884,777,94.20849420849422,French (http://www.transifex.com/projects/p/libosinfo/language/fr/)
+mingw-libsoup,179,0,0,40,0,0,256,179,100.0,français <gnomefr@traduc.org>
+mingw-libvirt,5771,0,58319,1153,0,8731,7159,64090,9.004524886877828,French <trans-fr@lists.fedoraproject.org>
+mingw-libvirt-glib,145,0,8,29,0,1,167,153,94.77124183006535,French (http://www.transifex.com/projects/p/libvirt-glib/language/fr/)
+mingw-osinfo-db-tools,54,0,168,11,0,32,71,222,24.324324324324326,French (http://www.transifex.com/projects/p/libosinfo/language/fr/)
+mingw-p11-kit,476,0,0,81,0,0,504,476,100.0,French (http://www.transifex.com/freedesktop/p11-kit/language/fr/)
+mingw-postgresql,66464,0,0,9075,0,0,85279,66464,100.0,French <guillaume@lelarge.info>
+mingw-qt5-qtwebkit,1841,416,374,426,86,60,2277,2631,69.97339414671228,GNOME French Team <gnomefr@traduc.org>
+mingw-sane-backends,4340,274,1028,894,102,184,5110,5642,76.92307692307693,
+mingw-spice-gtk,2,32,321,5,12,57,5,355,0.5633802816901409,GNOME French Team <gnomefr@traduc.org>
+mingw-wxWidgets,6300,109,33,1452,24,14,7437,6442,97.79571561626824,French <debian-l10n-french@lists.debian.org>
+mingw-wxWidgets3,7244,216,337,1728,71,84,8545,7797,92.90752853661665,French <debian-l10n-french@lists.debian.org>
+mingw-xz,1259,0,133,146,0,15,1449,1392,90.44540229885058,None
+minicom,1172,259,358,313,47,31,1416,1789,65.5114589155953,French <traduc@traduc.org>
+minigalaxy,212,0,0,72,0,0,246,212,100.0,
+minuet,285,95,32,105,36,18,301,412,69.1747572815534,French <kde-francophone@kde.org>
+mirage,608,146,63,186,51,8,640,817,74.4186046511628,<mirageiv-users@lists.berlios.de>
+mkvtoolnix,41007,1,0,3834,1,0,44538,41008,99.9975614514241,French (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/fr/)
+mlmmj,59,0,0,23,0,0,75,59,100.0,Thomas Goirand <thomas@goirand.fr>
+mlocate,406,175,0,50,1,0,519,581,69.87951807228916,French <trans-fr@lists.fedoraproject.org>
+modem-manager-gui,2715,0,588,518,0,49,3313,3303,82.19800181653044,French (http://www.transifex.com/ethereal/modem-manager-gui/language/fr/)
+moin,5054,0,0,936,0,0,6028,5054,100.0,
+mono-tools,116,8,393,27,1,106,134,517,22.437137330754354,Sebastien Pouliot <spouliot@videotron.ca>
+monodevelop,14593,5181,4035,3175,1457,793,17010,23809,61.2919484228653,Sebastien Pouliot <spouliot@videotron.ca>
+monotone,11737,0,0,1537,0,0,14184,11737,100.0,Benoît Dejean <benoit@placenet.org>
+moodle,441,0,0,67,0,0,512,441,100.0,French <i18n@lists.horde.org>
+moserial,2336,0,0,204,0,0,2575,2336,100.0,GNOME French Team <gnomefr@traduc.org>
+mousepad,1108,0,0,310,0,0,1267,1108,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+mousetweaks,114,0,0,30,0,0,150,114,100.0,GNOME French Team <gnomefr@traduc.org>
+mozo,43,0,1,17,0,1,45,44,97.72727272727273,French (https://www.transifex.com/mate/teams/13566/fr/)
+mpdris2,7,0,0,6,0,0,9,7,100.0,Jean-Philippe Braun <eon@patapon.info>
+msitools,68,0,0,25,0,0,91,68,100.0,French <gnomefr@traduc.org>
+msmtp,1854,0,0,332,0,0,2270,1854,100.0,French <traduc@traduc.org>
+mtpaint,2855,0,276,789,0,83,3273,3131,91.18492494410731,French <fr@li.org>
+mu,2143,0,0,365,0,0,2378,2143,100.0,
+muffin,2038,0,0,272,0,0,2499,2038,100.0,GNOME French Team <gnomefr@traduc.org>
+multimedia-menus,56,0,0,22,0,0,69,56,100.0,French <fr@li.org>
+mutt,6240,0,0,1311,0,0,7579,6240,100.0,Vincent Lefevre <vincent@vinc17.net>
+mutter,1187,0,0,142,0,0,1493,1187,100.0,GNOME French Team <gnomefr@traduc.org>
+mutter328,1085,0,0,135,0,0,1371,1085,100.0,français <gnomefr@traduc.org>
+mydns,384,468,1868,76,90,347,445,2720,14.117647058823529,Francais
+mypaint,2925,828,1567,748,169,163,3416,5320,54.9812030075188,French <https://hosted.weblate.org/projects/mypaint/mypaint/fr/>
+nacl-arm-binutils,54727,7,0,8814,2,0,66661,54734,99.98721087441078,French <traduc@traduc.org>
+nacl-binutils,45785,0,0,7349,0,0,55199,45785,100.0,French <traduc@traduc.org>
+nagios-plugins,5109,791,4815,763,122,555,5840,10715,47.680821278581426,Nagios Plugin Development Mailing List <nagiosplug-devel@lists.sourceforge.net>
+nall,49,0,0,30,0,0,52,49,100.0,
+nano,3284,0,0,578,0,0,3630,3284,100.0,French <traduc@traduc.org>
+nautilus,5625,0,0,1126,0,0,6517,5625,100.0,GNOME French Team <gnomefr@traduc.org>
+nautilus-image-converter,79,0,0,35,0,0,116,79,100.0,
+nautilus-search-tool,11,0,0,2,0,0,14,11,100.0,French <gnomefr@traduc.org>
+nautilus-sendto,56,0,0,10,0,0,73,56,100.0,GNOME French Team <gnomefr@traduc.org>
+ncmpc,702,0,0,271,0,0,934,702,100.0,French <https://hosted.weblate.org/projects/ncmpc/translations/fr/>
+nco,34,0,0,5,0,0,36,34,100.0,French <LL@li.org>
+ndisc6,1016,0,0,108,0,0,1182,1016,100.0,French <fr@li.org>
+nemiver,4205,0,0,516,0,0,4687,4205,100.0,GNOME French Team <gnomefr@traduc.org>
+nemo-extensions,258,0,0,49,0,0,298,258,100.0,French <fr@li.org>
+neon,0,249,457,0,44,94,0,706,0.0,fr
+neovim,10172,0,0,1947,0,0,11890,10172,100.0,French
+nesc,1070,76,32,181,13,5,1326,1178,90.83191850594228,French <traduc@traduc.org>
+net-tools,1859,88,278,433,19,48,2044,2225,83.5505617977528,
+network-manager-applet,4850,13,3,991,8,3,5734,4866,99.67118783394986,GNOME French TEAM <gnomefr@traduc.org>
+neverball,2728,0,7,358,0,1,2799,2735,99.74405850091408,French (http://www.transifex.com/projects/p/neverball/language/fr/)
+newsbeuter,1335,0,7,327,0,7,1570,1342,99.47839046199702,Nicolas Martyanoff <khaelin@gmail.com>
+newsboat,1350,63,63,328,12,6,1634,1476,91.46341463414635,Nicolas Martyanoff <khaelin@gmail.com>
+newt,4,0,0,4,0,0,4,4,100.0,Debian French <debian-l10n-french@lists.debian.org>
+nfoview,115,0,0,42,0,0,145,115,100.0,French (http://www.transifex.com/otsaloma/nfoview/language/fr/)
+nicotine+,5271,0,0,1126,0,0,6313,5271,100.0,
+nmap,3518,0,0,481,0,0,4002,3518,100.0,
+notejot,34,0,0,8,0,0,40,34,100.0,Français
+notes-up,220,0,0,107,0,0,271,220,100.0,Français
+notification-daemon,33,0,0,11,0,0,47,33,100.0,GNOME French Team <gnomefr@traduc.org>
+nudoku,90,0,49,26,0,10,92,139,64.74820143884892,French
+nutty,600,8,0,149,3,0,733,608,98.68421052631578,Français
+nx-libs,258,0,0,49,0,0,296,258,100.0,French <fr@li.org>
+obconf,686,0,52,144,0,12,805,738,92.95392953929539,French
+ocaml-gettext,578,0,9,129,0,1,683,587,98.46678023850085,French <gnomefr@traduc.org>
+ocfs2-tools,186,0,0,16,0,0,232,186,100.0,French <debian-l10n-french@lists.debian.org>
+office-runner,125,0,0,21,0,0,129,125,100.0,French <gnomefr@traduc.org>
+okteta,2503,17,7,600,7,6,2881,2527,99.05025722200237,French <kde-francophone@kde.org>
+okular,5055,0,3,1042,0,2,6020,5058,99.94068801897983,French <kde-francophone@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,171,158,100.0,LANGUAGE <LL@li.org>
+onboard,2199,0,119,494,0,16,2717,2318,94.8662640207075,French <fr@li.org>
+openbox,486,0,20,92,0,2,560,506,96.04743083003953,français <fr@li.org>
+openconnect,63,0,6637,22,0,1134,72,6700,0.9402985074626866,GNOME French Team <gnomefr@traduc.org>
+openscad,601,76,689,259,31,133,694,1366,43.997071742313324,French
+opensp,5771,0,0,722,0,0,6833,5771,100.0,French <traduc@traduc.org>
+opentrep,13093,2280,507,1049,112,37,15571,15880,82.44962216624685,French <traduc@traduc.org>
+openvas-gsa,224,5878,995,160,1459,210,257,7097,3.1562632098069607,
+optimizer,158,28,96,58,6,11,178,282,56.02836879432624,Français
+orage,2931,0,0,1030,0,0,3439,2931,100.0,French (http://www.transifex.com/projects/p/xfce-apps/language/fr/)
+orca,19235,0,0,2898,0,0,22430,19235,100.0,GNOME French Team <gnomefr@traduc.org>
+origin,125,0,0,16,0,0,135,125,100.0,
+oscap-anaconda-addon,166,0,225,34,0,17,211,391,42.45524296675192,French (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/fr/)
+oshinko-cli,250,0,0,32,0,0,270,250,100.0,
+osinfo-db-tools,54,0,168,11,0,32,71,222,24.324324324324326,French (http://www.transifex.com/projects/p/libosinfo/language/fr/)
+osmo,1666,29,76,685,1,12,1937,1771,94.0711462450593,French (http://www.transifex.com/pasp/osmo/language/fr/)
+oyranos,98,806,4428,73,255,500,99,5332,1.837959489872468,<de@li.org>
+p11-kit,476,0,0,81,0,0,504,476,100.0,French (http://www.transifex.com/freedesktop/p11-kit/language/fr/)
+pacman,5072,28,99,881,1,17,6455,5199,97.5572225427967,French (http://www.transifex.com/toofishes/archlinux-pacman/language/fr/)
+palapeli,1512,0,0,180,0,0,1741,1512,100.0,French <kde-francophone@kde.org>
+pam,575,22,0,117,3,0,698,597,96.31490787269682,French <trans-fr@lists.fedoraproject.org>
+pam_krb5,7,0,0,4,0,0,19,7,100.0,French (http://www.transifex.com/projects/p/pam_krb5/language/fr/)
+pan,3275,0,0,762,0,0,4141,3275,100.0,GNOME French Team <gnomefr@traduc.org>
+pantheon-agent-geoclue2,101,0,0,18,0,0,122,101,100.0,French <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/fr/>
+pantheon-agent-polkit,48,0,0,15,0,0,54,48,100.0,French <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/fr/>
+paperwork,475,0,0,182,0,0,538,475,100.0,none
+paprefs,51,70,10,8,13,2,66,131,38.93129770992366,French <fedora-trans-fr@redhat.com>
+parcellite,682,0,0,110,0,0,759,682,100.0,
+parley,2910,686,254,608,107,38,3335,3850,75.58441558441558,French <kde-i18n-doc@kde.org>
+parole,1088,0,0,301,0,0,1365,1088,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+partclone,91,97,32,18,15,11,93,220,41.36363636363637,French <traduc@traduc.org>
+parted,4216,178,280,529,19,22,5025,4674,90.20111253744116,French <traduc@traduc.org>
+passwd,329,0,7,56,0,1,425,336,97.91666666666666,French <trans-fr@lists.fedoraproject.org>
+pastebinit,195,0,0,29,0,0,228,195,100.0,LANGUAGE <LL@li.org>
+pavucontrol,219,1,17,85,1,1,310,237,92.40506329113924,French <fedora-trans-fr@redhat.com>
+pbuilder,2662,3553,418,191,149,33,2884,6633,40.13266998341625,French <debian-l10n-french@lists.debian.org>
+pcb,928,1266,4350,210,309,892,1112,6544,14.180929095354522,fr_FR <LL@li.org>
+pcsxr,1625,377,593,544,67,155,1933,2595,62.6204238921002,French <jean.andre.santoni@gmail.com>
+pdf2djvu,1176,0,0,167,0,0,1411,1176,100.0,French <debian-l10n-french@lists.debian.org>
+pdfarranger,199,0,0,73,0,0,239,199,100.0,French - France <>
+pdfmod,864,0,0,136,0,0,1028,864,100.0,GNOME French Team <gnomefr@traduc.org>
+pdfshuffler,125,0,0,43,0,0,151,125,100.0,Emmanuel <emmanuel@simple-linux.com>
+peek,527,20,17,87,5,5,628,564,93.43971631205675,French <https://hosted.weblate.org/projects/peek/translations/fr/>
+perl,10,0,22,2,0,4,10,32,31.25,French <fr@li.org>
+perl-Padre,4661,216,727,1107,49,95,5040,5604,83.17273376159886,Jérôme Quelin <jquelin@cpan.org>
+perl-libintl-perl,19,0,0,19,0,0,19,19,100.0,French <guido.flohr@cantanea.com>
+pgRouting,0,0,40016,0,0,6303,0,40016,0.0,LANGUAGE <LL@li.org>
+pgadmin3,16709,100,89,4372,19,11,21433,16898,98.88152444076222,Français <fr@li.org>
+phd2,18694,218,627,3408,51,94,22144,19539,95.67531603459747,French <kde-i18n-doc@kde.org>
+phonon-backend-gstreamer,0,104,0,0,15,0,0,104,0.0,French <kde-francophone@kde.org>
+photocollage,46,0,0,20,0,0,58,46,100.0,none <none@none.com>
+php,1,0,0,1,0,0,1,1,100.0,
+php-horde-Horde-Alarm,13,0,0,5,0,0,12,13,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Argv,60,0,0,13,0,0,61,60,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Auth,187,0,0,14,0,0,242,187,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Browser,52,0,14,5,0,1,60,66,78.78787878787878,i18n@lists.horde.org
+php-horde-Horde-Cli,16,0,0,5,0,0,17,16,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Compress,25,0,0,6,0,0,32,25,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Core,1016,0,0,259,0,0,1126,1016,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Crypt,353,0,0,82,0,0,424,353,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Data,53,0,0,8,0,0,53,53,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Date,42,0,0,12,0,0,61,42,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Form,560,0,0,148,0,0,639,560,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Icalendar,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,22,136,423,21,78,186,22,581,3.7865748709122204,i18n@lists.horde.org
+php-horde-Horde-Imap-Client,389,0,0,53,0,0,434,389,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Imsp,3,0,0,1,0,0,6,3,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Itip,56,0,0,10,0,0,55,56,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Kolab-Storage,68,15,37,5,2,2,67,120,56.666666666666664,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,8,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,48,0,0,12,0,0,74,48,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,52,47,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Nls,430,0,0,263,0,0,389,430,100.0,i18n@lists.horde.org
+php-horde-Horde-Perms,17,0,0,5,0,0,16,17,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Prefs,30,0,0,9,0,0,38,30,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Rpc,59,0,0,8,0,0,75,59,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Service-Weather,527,0,0,205,0,0,514,527,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Share,18,12,18,7,2,3,18,48,37.5,i18n@lists.horde.org
+php-horde-Horde-SyncMl,3,0,0,1,0,0,7,3,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,64,0,0,4,0,0,61,64,100.0,French <i18n@lists.horde.org>
+php-horde-Horde-Vfs,10,0,0,3,0,0,10,10,100.0,French <i18n@lists.horde.org>
+php-horde-horde,3297,0,0,825,0,0,3787,3297,100.0,French <i18n@lists.horde.org>
+php-horde-imp,6872,1,0,1394,1,0,7989,6873,99.98545031281827,French <i18n@lists.horde.org>
+php-horde-ingo,1010,1,0,261,1,0,1214,1011,99.90108803165182,French <i18n@lists.horde.org>
+php-horde-kronolith,3834,3,18,796,2,2,4247,3855,99.45525291828794,French <kde-i18n-doc@kde.org>
+php-horde-mnemo,579,0,0,146,0,0,688,579,100.0,French <i18n@lists.horde.org>
+php-horde-nag,1626,0,0,379,0,0,1864,1626,100.0,French <i18n@lists.horde.org>
+php-horde-passwd,325,0,0,64,0,0,469,325,100.0,French <i18n@lists.horde.org>
+php-horde-turba,1858,0,0,438,0,0,2078,1858,100.0,French <i18n@lists.horde.org>
+php-phpmyadmin-sql-parser,227,0,0,44,0,0,262,227,100.0,French <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/fr/>
+php-phpmyadmin-sql-parser5,268,0,0,50,0,0,305,268,100.0,French <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/fr/>
+picard,9620,0,630,2931,0,54,10632,10250,93.85365853658536,French (http://www.transifex.com/musicbrainz/musicbrainz/language/fr/)
+picmi,197,0,0,114,0,0,228,197,100.0,French <kde-i18n-doc@kde.org>
+pidgin,15125,10,621,3321,1,111,17338,15756,95.995176440721,French (http://www.transifex.com/pidgin/pidgin/language/fr/)
+pidgin-birthday-reminder,204,0,85,57,0,9,244,289,70.58823529411765,French (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/fr/)
+pidgin-guifications,505,0,0,192,0,0,537,505,100.0,French <fr@li.org>
+pidgin-libnotify,25,11,0,9,3,0,28,36,69.44444444444444,French <ef@li.org>
+pidgin-musictracker,333,0,0,60,0,0,422,333,100.0,French <fr@li.org>
+pidgin-otr,1064,0,0,159,0,0,1164,1064,100.0,Solveig <pidgin-otr@solveig.org>
+pidgin-save-conv-order,3,0,23,1,0,2,4,26,11.538461538461538,French (http://www.transifex.com/kgraefe/pidgin-save-conv-order/language/fr/)
+pidgin-sipe,1119,0,0,273,0,0,1375,1119,100.0,French (http://www.transifex.com/stefanb/pidgin-sipe/language/fr/)
+pidgin-toobars,299,0,0,91,0,0,382,299,100.0,
+pim-data-exporter,672,51,2,150,31,1,846,725,92.6896551724138,KDE Francophone <kde-francophone@kde.org>
+pim-sieve-editor,432,0,0,115,0,0,516,432,100.0,French <kde-francophone@kde.org>
+pinball,340,0,0,128,0,0,359,340,100.0,French <kde-i18n-doc@kde.org>
+pingus,3266,551,1579,312,21,114,3338,5396,60.526315789473685,Launchpad French Translators <lp-l10n-fr@lists.launchpad.net> Language:
+pinta,1686,0,0,532,0,0,2086,1686,100.0,LANGUAGE <LL@li.org>
+pioneers,2966,0,0,788,0,0,3327,2966,100.0,"Français <LL@li.org>, LT-P <LT-P@LT-P.net>, Yusei <yusei@ragondux.com>, Arnaud MALON <moko@geumeuleu.com>, Jean-Charles GRANGER <traduction@vecteur.org>"
+pitivi,6372,1300,1512,709,46,79,7387,9184,69.3815331010453,français <GNOME French Team <gnomefr@traduc.org>>
+plank,189,0,0,50,0,0,306,189,100.0,French <fr@li.org>
+planner,1844,0,0,535,0,0,2361,1844,100.0,GNOME French Team <gnomefr@traduc.org>
+plasma-applet-redshift-control,62,0,0,30,0,0,78,62,100.0,Didier Raboud <odyx@debian.org>
+plasma-applet-weather-widget,166,0,0,56,0,0,204,166,100.0,French (http://www.mageialinux-online.org/)
+plasma-breeze,266,0,0,101,0,0,399,266,100.0,French <kde-francophone@kde.org>
+plasma-browser-integration,105,0,0,22,0,0,120,105,100.0,French <kde-francophone@kde.org>
+plasma-desktop,11648,0,0,2386,0,0,13888,11648,100.0,French <kde-i18n-doc@kde.org>
+plasma-discover,1489,17,0,437,4,0,1803,1506,98.87118193891102,French <kde-francophone@kde.org>
+plasma-drkonqi,3966,0,0,352,0,0,4440,3966,100.0,French <kde-francophone@kde.org>
+plasma-integration,58,0,0,21,0,0,65,58,100.0,French <kde-i18n-doc@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,218,172,100.0,French <kde-francophone@kde.org>
+plasma-milou,42,0,0,17,0,0,51,42,100.0,French <kde-francophone@kde.org>
+plasma-nm,4670,40,323,1227,5,15,5789,5033,92.78760182793563,French <kde-francophone@kde.org>
+plasma-oxygen,807,0,0,294,0,0,1152,807,100.0,French <kde-francophone@kde.org>
+plasma-pa,232,0,0,85,0,0,307,232,100.0,French <kde-francophone@kde.org>
+plasma-pass,26,0,0,5,0,0,38,26,100.0,French <kde-francophone@kde.org>
+plasma-pk-updates,1952,4,125,366,1,33,2403,2081,93.80105718404613,KDE Francophone <kde-francophone@kde.org>
+plasma-sdk,883,0,0,259,0,0,1117,883,100.0,French <kde-francophone@kde.org>
+plasma-systemsettings,199,0,0,52,0,0,247,199,100.0,French <kde-francophone@kde.org>
+plasma-user-manager,141,0,0,39,0,0,185,141,100.0,French <kde-francophone@kde.org>
+plasma-vault,690,0,0,83,0,0,748,690,100.0,French <kde-francophone@kde.org>
+plasma-workspace,7588,0,0,2392,0,0,8639,7588,100.0,French <kde-i18n-doc@kde.org>
+plee-the-bear,1132,0,638,223,0,374,1121,1770,63.954802259887,French <>
+pluma,10662,5,2459,1635,1,442,11930,13126,81.22809690690234,French (https://www.transifex.com/mate/teams/13566/fr/)
+plymouth,12,2,0,4,1,0,15,14,85.71428571428571,French
+plymouth-kcm,117,0,0,25,0,0,151,117,100.0,French <kde-francophone@kde.org>
+pmount,723,0,0,63,0,0,837,723,100.0,French <fr@li.org>
+po-debconf,6255,0,0,342,0,0,6873,6255,100.0,French <debian-l10n-french@lists.debian.org>
+po4a,25576,241,1010,1641,18,141,27626,26827,95.33678756476684,French <https://hosted.weblate.org/projects/po4a/po4a/fr/>
+poedit,2813,0,0,623,0,0,3355,2813,100.0,French
+pogo,576,0,0,101,0,0,641,576,100.0,French <fr@li.org>
+polari,2004,0,0,257,0,0,2267,2004,100.0,français <gnomefr@traduc.org>
+policycoreutils,236,0,0,28,0,0,297,236,100.0,French
+polkit-gnome,188,0,0,32,0,0,187,188,100.0,Tot en òc (totenoc.eu)
+polkit-kde,95,0,0,30,0,0,120,95,100.0,French <kde-francophone@kde.org>
+popt,61,8,15,24,2,5,73,84,72.61904761904762,RPM French Translation <rpm-fr@livna.org>
+postgis,25264,3169,131807,1915,186,6465,26797,160240,15.766350474288569,French (http://www.transifex.com/projects/p/postgis-1/language/fr/)
+postgresql,66574,0,0,9088,0,0,85425,66574,100.0,French <guillaume@lelarge.info>
+postgresql-jdbc,1262,455,825,143,56,110,1473,2542,49.64594807238395,<en@li.org>
+poweradmin,1385,0,0,220,0,0,1511,1385,100.0,poweradmin french
+powerdevil,609,0,0,127,0,0,723,609,100.0,French <kde-i18n-doc@kde.org>
+pptpd,425,0,0,23,0,0,423,425,100.0,French <debian-l10n-french@lists.debian.org>
+pragha,830,0,60,263,0,13,1056,890,93.25842696629213,French (http://www.transifex.com/p/Pragha/language/fr/)
+prewikka,1644,0,0,533,0,0,1938,1644,100.0,French
+printrun,2231,113,315,433,24,40,2589,2659,83.90372320421211,FR <guillaume@segu.in>
+procps-ng,9785,19,0,1388,3,0,11120,9804,99.8062015503876,French <traduc@traduc.org>
+proftpd,771,0,0,176,0,0,920,771,100.0,none
+prusa-slicer,13036,0,12,1819,0,2,15196,13048,99.90803188228081,
+psad,493,0,0,30,0,0,582,493,100.0,French <debian-l10n-french@lists.debian.org>
+psmisc,1028,0,0,96,0,0,1198,1028,100.0,French <traduc@traduc.org>
+pspp,9856,434,166,1881,131,40,11692,10456,94.26166794185157,French <traduc@traduc.org>
+publican,38643,705,2256,2523,42,337,42386,41604,92.8828958753966,French <trans-fr@lists.fedoraproject.org>
+publican-jboss,120,3,109,9,1,4,133,232,51.724137931034484,French <French fedora-trans-fr@fedoraproject.org>
+pulseaudio,3437,0,0,517,0,0,4043,3437,100.0,French <fedora-trans-fr@redhat.com>
+pulsecaster,140,0,74,17,0,4,153,214,65.42056074766354,French (http://www.transifex.com/stickster/pulsecaster/language/fr/)
+pulseeffects,188,166,382,44,102,205,181,736,25.543478260869566,
+purple-discord,212,2,0,62,1,0,253,214,99.06542056074767,fr
+purple-plugin_pack,2231,248,2529,375,82,290,2696,5008,44.548722044728436,fr <fr@li.org>
+purple-telegram,589,0,67,112,0,26,691,656,89.78658536585365,French (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/fr/)
+pv,257,59,159,53,12,32,322,475,54.10526315789473,
+pychess,3088,0,1367,710,0,169,3607,4455,69.31537598204265,French (http://www.transifex.com/gbtami/pychess/language/fr/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,X2Go i18n <x2go-i18n@lists.x2go.org>
+pykickstart,1505,61,39,173,3,3,1647,1605,93.76947040498442,French (http://www.transifex.com/projects/p/pykickstart/language/fr/)
+python-SecretStorage,59,0,0,9,0,0,68,59,100.0,GNOME French Team <gnomefr@traduc.org>
+python-ase,1408,0,6,359,0,2,1610,1414,99.57567185289957,French
+python-blivet,558,0,0,76,0,0,654,558,100.0,French (http://www.transifex.com/projects/p/blivet/language/fr/)
+python-caja,6,0,1,2,0,1,6,7,85.71428571428571,French (https://www.transifex.com/mate/teams/13566/fr/)
+python-colander,161,0,0,30,0,0,202,161,100.0,fr <LL@li.org>
+python-django,3877,0,13,878,0,4,4549,3890,99.66580976863753,French (http://www.transifex.com/django/django/language/fr/)
+python-django-angular,40,0,0,3,0,0,48,40,100.0,LANGUAGE <LL@li.org>
+python-django-contrib-comments,250,0,0,61,0,0,285,250,100.0,French (http://www.transifex.com/django/django-contrib-comments/language/fr/)
+python-django-debug-toolbar,353,0,4,135,0,2,398,357,98.8795518207283,French (http://www.transifex.com/projects/p/django-debug-toolbar/language/fr/)
+python-django-filter,16,0,0,7,0,0,17,16,100.0,LANGUAGE <LL@li.org>
+python-django-formtools,32,0,0,11,0,0,39,32,100.0,French (http://www.transifex.com/projects/p/django-formtools/language/fr/)
+python-django-helpdesk,3416,0,0,553,0,0,3855,3416,100.0,French (http://www.transifex.com/rossp/django-helpdesk/language/fr/)
+python-django-markdownx,16,10,0,8,1,0,20,26,61.53846153846154,LANGUAGE <LL@li.org>
+python-django-mptt,249,0,0,40,0,0,290,249,100.0,French <fr@li.org>
+python-django-registration,84,0,0,17,0,0,96,84,100.0,Français <fr@li.org>
+python-django-rest-framework,582,0,0,101,0,0,661,582,100.0,French (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/fr/)
+python-django-reversion,116,0,0,20,0,0,123,116,100.0,LANGUAGE <LL@li.org>
+python-django-robots,212,0,0,18,0,0,239,212,100.0,French (http://www.transifex.com/projects/p/django-robots/language/fr/)
+python-django-simple-captcha,11,0,0,3,0,0,12,11,100.0,fr <maxcom@laposte.net>
+python-django-tables2,9,0,0,4,0,0,9,9,100.0,LANGUAGE <LL@li.org>
+python-fedora,214,0,0,29,0,0,232,214,100.0,French (http://www.transifex.com/projects/p/python-fedora/language/fr/)
+python-flask-admin,347,0,20,104,0,8,419,367,94.55040871934605,French
+python-flask-security,337,0,0,69,0,0,445,337,100.0,fr_FR <LL@li.org>
+python-formencode,752,15,46,108,2,5,818,813,92.49692496924969,GNOME French Team <gnomefr@traduc.org>
+python-humanize,77,20,0,32,20,0,83,97,79.38144329896907,fr_FR <LL@li.org>
+python-keystoneclient,30,0,0,14,0,0,36,30,100.0,French
+python-kiwi-gtk,140,0,56,35,0,19,146,196,71.42857142857143,French (http://www.transifex.com/async/kiwi/language/fr/)
+python-meh,109,0,0,23,0,0,106,109,100.0,French (http://www.transifex.com/projects/p/python-meh/language/fr/)
+python-murano-pkg-check,7,0,0,2,0,0,10,7,100.0,French
+python-nikola,94,0,0,44,0,0,108,94,100.0,French (http://www.transifex.com/ralsina/nikola/language/fr/)
+python-notebook,2924,0,930,623,0,96,3534,3854,75.86922677737415,
+python-novaclient,116,0,0,80,0,0,136,116,100.0,French
+python-okaara,2,0,255,1,0,44,2,257,0.7782101167315175,fr <LL@li.org>
+python-oslo-concurrency,108,0,0,19,0,0,139,108,100.0,French
+python-oslo-db,159,0,0,28,0,0,202,159,100.0,French
+python-oslo-i18n,6,0,0,1,0,0,7,6,100.0,French
+python-oslo-log,38,0,0,14,0,0,56,38,100.0,French
+python-oslo-utils,70,0,0,10,0,0,87,70,100.0,French
+python-simpleline,42,0,0,16,0,0,52,42,100.0,French
+python-sphinx,3089,0,1343,523,0,165,3687,4432,69.6976534296029,French (http://www.transifex.com/sphinx-doc/sphinx-1/language/fr/)
+python-sphinxcontrib-applehelp,71,0,18,10,0,4,79,89,79.7752808988764,French (https://www.transifex.com/sphinx-doc/teams/36659/fr/)
+python-sphinxcontrib-devhelp,15,0,3,1,0,1,15,18,83.33333333333334,French (https://www.transifex.com/sphinx-doc/teams/36659/fr/)
+python-sphinxcontrib-htmlhelp,3,0,22,1,0,4,4,25,12.0,French (https://www.transifex.com/sphinx-doc/teams/36659/fr/)
+python-sphinxcontrib-qthelp,3,0,30,1,0,2,5,33,9.090909090909092,French (https://www.transifex.com/sphinx-doc/teams/36659/fr/)
+python-sphinxcontrib-serializinghtml,9,0,9,1,0,1,9,18,50.0,French (https://www.transifex.com/sphinx-doc/teams/36659/fr/)
+python-tornado,7,0,0,5,0,0,13,7,100.0,LANGUAGE <LL@li.org>
+python-uranium,689,0,0,143,0,0,815,689,100.0,French <info@bothof.nl>
+python-uranium-lulzbot,404,0,0,118,0,0,479,404,100.0,LANGUAGE <LL@li.org>
+python-wtforms,183,0,5,34,0,1,212,188,97.3404255319149,French
+python-wxpython4,7291,216,337,1743,71,84,8598,7844,92.95002549719531,
+python2-django1.11,3717,0,13,838,0,4,4367,3730,99.6514745308311,French (http://www.transifex.com/django/django/language/fr/)
+qalculate-kde,1385,19,16,581,8,7,1670,1420,97.53521126760563,Français <fr@li.org>
+qemu,33,0,2,18,0,1,39,35,94.28571428571428,French <FR@li.org>
+qtwebkit,1198,0,0,293,0,0,1479,1198,100.0,GNOME French Team <gnomefr@traduc.org>
+quadrapassel,1483,0,0,180,0,0,1731,1483,100.0,français <gnomefr@traduc.org>
+quarry,1807,0,0,447,0,0,2178,1807,100.0,fr <->
+quassel,4851,0,2927,1211,0,439,5870,7778,62.36821805091283,French (http://www.transifex.com/quassel/quassel/language/fr/)
+quick-usb-formatter,106,0,0,25,0,0,117,106,100.0,French <kde-i18n-doc@kde.org>
+quilt,3613,0,0,182,0,0,4087,3613,100.0,French <traduc@traduc.org>
+quilter,896,1,23,196,1,2,1101,920,97.3913043478261,Français
+quitcount,154,12,0,39,1,0,184,166,92.7710843373494,fr <colin@colino.net>
+quodlibet,6206,0,88,1388,0,64,7583,6294,98.60184302510328,français <>
+quota,1545,1527,1778,233,216,120,1955,4850,31.85567010309278,French <traduc@traduc.org>
+rabbitvcs,1729,0,0,497,0,0,2005,1729,100.0,French <.>
+radiotray,130,0,0,46,0,0,162,130,100.0,French (http://www.transifex.com/projects/p/radiotray/language/fr/)
+rapid-photo-downloader,6291,0,1296,817,0,35,6994,7587,82.91814946619218,Français <null>
+rapidsvn,1284,52,49,420,26,15,1511,1385,92.70758122743682,RapidSVN Developers <dev@rapidsvn.tigris.org>
+ravada,986,0,0,262,0,0,1204,986,100.0,French (https://www.transifex.com/ravada/teams/70385/fr/)
+rawstudio,1315,216,75,417,71,14,1701,1606,81.88044831880448,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,110,0,679,18,0,109,116,789,13.941698352344739,French (http://www.transifex.com/freedesktop/realmd/language/fr/)
+recode,672,115,42,62,7,10,734,829,81.0615199034982,French <traduc@traduc.org>
+recutils,1867,0,0,209,0,0,2122,1867,100.0,French <traduc@traduc.org>
+redhat-menus,261,0,0,86,0,0,310,261,100.0,French <fedora-trans-fr@redhat.com>
+rednotebook,1126,0,21,237,0,3,1371,1147,98.1691368788143,French <fr@li.org>
+redshift,993,0,35,147,0,4,1153,1028,96.59533073929961,French <fr@li.org>
+regexxer,466,0,1,99,0,1,558,467,99.78586723768737,GNOME French Team <gnomefr@traduc.org>
+rekonq,2196,6,0,592,1,0,2779,2202,99.72752043596729,French <kde-francophone@kde.org>
+remmina,3032,53,73,689,5,4,3992,3158,96.0101329955668,French <https://hosted.weblate.org/projects/remmina/remmina/fr/>
+renameutils,1302,379,0,168,8,0,1545,1681,77.45389649018442,French <traduc@traduc.org>
+resapplet,106,0,0,22,0,0,121,106,100.0,Novell Language <language@novell.com>
+retrace-server,381,0,0,51,0,0,460,381,100.0,French <https://translate.fedoraproject.org/projects/abrt/retrace-server/fr/>
+revelation,1522,188,717,338,38,71,1897,2427,62.711166048619695,French (http://www.transifex.com/hey_neken/revelation/language/fr/)
+rhash,144,0,303,32,0,57,173,447,32.21476510067114,French <fr@li.org>
+rhythmbox,8941,0,2863,1409,0,100,10409,11804,75.74550999661132,GNOME French Team <gnomefr@traduc.org>
+rhythmbox-alternative-toolbar,294,0,0,60,0,0,379,294,100.0,French <fr@li.org>
+ristretto,598,0,0,193,0,0,702,598,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+rkward,634,5165,28605,470,655,2766,760,34404,1.8428089757005,KDE Francophone <kde-francophone@kde.org>
+rmlint,739,228,299,134,37,33,909,1266,58.37282780410743,none
+rmol,125,0,313,48,0,83,137,438,28.538812785388128,American English <kde-i18n-doc@kde.org>
+rocs,997,279,147,255,29,11,1165,1423,70.06324666198172,French <kde-francophone@kde.org>
+rpm,3254,59,1220,645,14,213,4018,4533,71.78469005073902,French (http://www.transifex.com/rpm-team/rpm/language/fr/)
+rpm-ostree,1155,0,0,189,0,0,1471,1155,100.0,French <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/fr/>
+rrdtool,543,0,0,31,0,0,563,543,100.0,English <>
+rsibreak,1053,33,89,149,3,6,1080,1175,89.61702127659575,French <kde-francophone@kde.org>
+rt,10948,0,748,2409,0,233,13028,11696,93.6046511627907,French <fr@li.org>
+rust,1273,0,101,148,0,10,1469,1374,92.64919941775837,None
+rygel,1624,0,0,303,0,0,2030,1624,100.0,GNOME French Team <gnomefr@traduc.org>
+sakura,175,13,15,61,3,4,248,203,86.20689655172413,<fabrice.thiroux@free.fr>
+samba,524,0,0,128,0,0,679,524,100.0,French <debian-l10n-french@lists.debian.org>
+sane-backends,5681,107,124,1185,22,23,6822,5912,96.09269282814614,
+sawfish,6452,0,0,983,0,0,8321,6452,100.0,French <GNOME French Team <gnomefr@traduc.org>>
+schroot,14150,94,0,1009,1,0,16155,14244,99.34007301319853,French <debian-l10n-french@lists.debian.org>
+scilab,49790,0,4710,7404,0,599,55501,54500,91.35779816513761,
+scim-hangul,77,51,86,23,5,12,79,214,35.981308411214954,French
+scim-pinyin,204,430,0,58,28,0,212,634,32.17665615141956,French
+scim-tables,1040,115,0,167,4,0,1148,1155,90.04329004329004,French
+scmxx,911,247,488,235,62,114,1119,1646,55.34629404617254,French <traduc@traduc.org>
+scratch,1456,5,9,617,3,6,1716,1470,99.04761904761905,Lionel Laské <llaske@c2s.fr>
+scummvm,5981,0,0,1153,0,0,6809,5981,100.0,French <https://translations.scummvm.org/projects/scummvm/scummvm/fr/>
+sdcc,11953,0,0,1771,0,0,14584,11953,100.0,French <traduc@traduc.org>
+sdcv,47,55,12,10,8,5,58,114,41.228070175438596,Vincent Petry <PVince81@yahoo.fr>
+sddm-kcm,143,0,0,40,0,0,172,143,100.0,French <kde-francophone@kde.org>
+seahorse,9176,0,0,986,0,0,10336,9176,100.0,GNOME French Team <gnomefr@traduc.org>
+seahorse-caja,421,0,0,110,0,0,507,421,100.0,GNOME French Team <gnomefr@traduc.org>
+seahorse-nautilus,421,0,0,110,0,0,507,421,100.0,GNOME French Team <gnomefr@traduc.org>
+sed,788,0,0,137,0,0,942,788,100.0,French <traduc@traduc.org>
+sensible-utils,88,18,0,14,1,0,119,106,83.01886792452831,French <kde-i18n-doc@kde.org>
+sequeler,435,119,876,144,14,146,546,1430,30.419580419580424,French <https://hosted.weblate.org/projects/sequeler/translations/fr/>
+setroubleshoot,633,0,0,168,0,0,707,633,100.0,French (http://www.transifex.com/projects/p/fedora/language/fr/)
+setroubleshoot-plugins,6246,0,0,226,0,0,6720,6246,100.0,French (http://www.transifex.com/projects/p/fedora/language/fr/)
+setuptool,55,0,0,14,0,0,65,55,100.0,Français <fedora-trans-fr@redhat.com>
+sflphone,4311,113,760,910,44,79,4706,5184,83.15972222222221,French <fr@li.org>
+shadow-utils,15368,1642,3871,1134,180,531,17304,20881,73.59800775824912,French <debian-l10n-french@lists.debian.org>
+shared-mime-info,1991,0,0,773,0,0,2196,1991,100.0,French (http://www.transifex.com/freedesktop/shared-mime-info/language/fr/)
+sharutils,2974,173,0,299,5,0,3348,3147,94.50270098506515,French <traduc@traduc.org>
+shotwell,13631,0,0,1671,0,0,15329,13631,100.0,GNOME French Team <gnomefr@traduc.org>
+shutter,3093,0,0,606,0,0,3567,3093,100.0,French <fr@li.org>
+simple-ccsm,150,0,12,61,0,3,188,162,92.5925925925926,French <fr@li.org>
+simple-scan,2166,0,0,293,0,0,2633,2166,100.0,GNOME French Team <gnomefr@traduc.org>
+siril,13745,0,0,1593,0,0,15258,13745,100.0,French <cyril@free-astro.fr>
+sirius,154,0,0,45,0,0,181,154,100.0,LANGUAGE <LL@li.org>
+skanlite,163,20,3,57,4,2,197,186,87.63440860215054,French <kde-francophone@kde.org>
+skrooge,11936,0,15,2464,0,2,13633,11951,99.87448749058656,French <kde-i18n-doc@kde.org>
+skychart,13255,145,7230,4208,11,2086,13349,20630,64.2510906446922,Laurent Jacques <wile64@gmail.com>
+slick-greeter,211,0,0,47,0,0,240,211,100.0,French <fr@li.org>
+slrn,4463,593,295,816,52,82,5092,5351,83.40497103345169,French - <slrnfr@ml.free.fr>
+smb4k,6300,0,0,697,0,0,7264,6300,100.0,French <kde-francophone@kde.org>
+snapd,3911,0,396,431,0,50,4684,4307,90.80566519619224,French <fr@li.org>
+snapper,827,0,0,200,0,0,994,827,100.0,French <https://l10n.opensuse.org/projects/snapper/master/fr/>
+snownews,581,66,29,124,8,7,654,676,85.94674556213018,Français
+solaar,644,0,0,135,0,0,754,644,100.0,Language: fr
+sos,54,33,35,11,7,12,64,122,44.26229508196721,French <trans-fr@lists.fedoraproject.org>
+sound-juicer,3551,0,0,341,0,0,4025,3551,100.0,GNOME French Team <gnomefr@traduc.org>
+soundconverter,371,2,381,119,1,118,446,754,49.20424403183024,French (France) <fr_FR@li.org>
+soundkonverter,4003,0,59,559,0,11,4463,4062,98.54751354012802,French (http://www.transifex.com/hessijames/soundkonverter/language/fr/)
+soundmodem,91,0,0,50,0,0,101,91,100.0,French <debian-l10n-french@lists.debian.org>
+soundtracker,1593,28,27,456,5,8,2032,1648,96.6626213592233,French <traduc@traduc.org>
+spacefm,7137,0,1941,1424,0,198,8894,9078,78.6186384666226,French (http://www.transifex.com/ignorantguru/spacefm/language/fr/)
+sparkleshare,381,0,21,85,0,2,407,402,94.77611940298507,
+spectacle,651,0,0,149,0,0,835,651,100.0,French <kde-francophone@kde.org>
+speedcrunch,0,0,2461,0,0,177,0,2461,0.0,French (France) (http://www.transifex.com/polwel/test-439/language/fr_FR/)
+spice-gtk,2,32,305,5,12,56,5,339,0.5899705014749262,GNOME French Team <gnomefr@traduc.org>
+splix,344,0,0,218,0,0,385,344,100.0,
+springlobby,2470,0,2100,797,0,410,2852,4570,54.04814004376368,french
+spyder,6406,6,33,1197,2,10,7415,6445,99.39487975174553,Python
+squirrelmail,9155,0,468,1852,0,78,10575,9623,95.13665177179674,French <squirrelmail-i18n@lists.sourceforge.net>
+sscg,78,0,16,29,0,5,91,94,82.97872340425532,French <traduc@traduc.org>
+sssd,17640,288,21704,1789,24,1404,19889,39632,44.50948728300364,French (http://www.transifex.com/projects/p/sssd/language/fr/)
+stardict,4396,726,948,871,136,179,5239,6070,72.42174629324548,French <gnomefr@traduc.org>
+steghide,1859,0,0,185,0,0,2169,1859,100.0,Deutsch
+stellarium,64349,0,62738,24040,0,11416,68495,127087,50.63381777837229,French (https://www.transifex.com/stellarium/teams/80998/fr/)
+step,1899,8,0,677,1,0,2313,1907,99.58049292081805,French <kde-francophone@kde.org>
+stratagus,237,8,0,67,2,0,260,245,96.73469387755102,FRENCH
+strawberry,3920,0,14,1067,0,3,5011,3934,99.644128113879,French
+subdownloader,968,0,0,272,0,0,1110,968,100.0,LANGUAGE <LL@li.org>
+subscription-manager,6074,0,0,1066,0,0,7426,6074,100.0,French
+subtitleeditor,2894,6,397,775,3,62,3264,3297,87.77676675765848,French <LL@li.org>
+subversion,23681,0,0,2266,0,0,26888,23681,100.0,French <dev@subversion.tigris.org>
+sudo,5061,0,0,738,0,0,6375,5061,100.0,French <traduc@traduc.org>
+sugar,2305,0,0,529,0,0,2637,2305,100.0,French <traduc@traduc.org>
+sugar-abacus,28,0,0,23,0,0,29,28,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,330,4,0,70,1,0,394,334,98.80239520958084,Traduc-fr <traduc@traduc.org>
+sugar-calculator,871,0,0,164,0,0,905,871,100.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,161,137,100.0,French <mrtom@fedoraproject.org>
+sugar-clock,66,0,0,21,0,0,492,66,100.0,French
+sugar-connect,31,0,0,8,0,0,40,31,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,109,0,0,23,0,0,125,109,100.0,OLPC France <contact@olpc-france.org>
+sugar-distance,99,0,0,26,0,0,106,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,240,18,0,59,4,0,269,258,93.02325581395348,LANGUAGE <LL@li.org>
+sugar-fototoon,121,0,0,46,0,0,144,121,100.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,68,0,0,23,0,0,69,68,100.0,OLPC France <contact@olpc-france.org>
+sugar-getiabooks,126,0,24,32,0,2,145,150,84.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,68,58,100.0,French
+sugar-implode,77,0,0,20,0,0,83,77,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,236,0,0,62,0,0,270,236,100.0,FR <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,78,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,254,0,27,93,0,1,288,281,90.39145907473309,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,110,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,9,7,100.0,OLPC France <contact@olpc-france.org>
+sugar-measure,162,0,0,75,0,0,185,162,100.0,OLPC France <contact@olpc-france.org>
+sugar-memorize,142,0,0,74,0,0,171,142,100.0,LANGUAGE <LL@li.org>
+sugar-moon,63,0,0,36,0,0,75,63,100.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,136,106,100.0,Language locale/fr/LC
+sugar-physics,48,0,0,28,0,0,52,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,274,0,0,66,0,0,314,274,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,85,0,0,30,0,0,106,85,100.0,French
+sugar-portfolio,73,0,0,25,0,0,87,73,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,14,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,159,137,100.0,Français <fedora-trans-fr@redhat.com>
+sugar-record,62,0,0,24,0,0,73,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,29,0,0,8,0,0,30,29,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,241,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,26,24,100.0,OLPC France <contact@olpc-france.org>
+sugar-terminal,121,0,0,26,0,0,123,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,73,0,0,37,0,0,77,73,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,161,0,52,112,0,11,168,213,75.5868544600939,LANGUAGE <LL@li.org>
+sugar-turtleart,1574,0,0,478,0,0,1873,1574,100.0,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,599,0,0,127,0,0,637,599,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,7,0,0,5,0,0,9,7,100.0,French
+sugar-visualmatch,161,0,0,79,0,0,178,161,100.0,OLPC France <contact@olpc-france.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,143,121,100.0,French <traduc@traduc.org>
+sugar-xoeditor,29,0,0,7,0,0,30,29,100.0,LANGUAGE <LL@li.org>
+sugar-yupana,28,0,2,15,0,1,32,30,93.33333333333333,LANGUAGE <LL@li.org>
+supertux,3081,0,95,966,0,16,3588,3176,97.0088161209068,French (http://www.transifex.com/arctic-games/supertux/language/fr/)
+supertuxkart,5341,0,0,1027,0,0,6169,5341,100.0,French (http://www.transifex.com/supertuxkart/supertuxkart/language/fr/)
+sushi,33,0,0,13,0,0,32,33,100.0,GNOME French Team <gnomefr@traduc.org>
+svgpart,22,0,0,7,0,0,26,22,100.0,French <kde-i18n-doc@kde.org>
+sweep,125,273,2001,50,105,383,107,2399,5.2105043768236765,French <LL@li.org>
+sweeper,229,0,0,50,0,0,260,229,100.0,French <kde-i18n-doc@kde.org>
+swell-foop,1630,0,0,136,0,0,1806,1630,100.0,French <gnomefr@traduc.org>
+switchboard,124,0,0,26,0,0,166,124,100.0,French <https://weblate.elementary.io/projects/switchboard/switchboard/fr/>
+switchboard-plug-a11y,125,0,0,38,0,0,152,125,100.0,French <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/fr/>
+switchboard-plug-about,96,0,0,29,0,0,135,96,100.0,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/fr/>
+switchboard-plug-applications,95,0,0,34,0,0,121,95,100.0,French <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/fr/>
+switchboard-plug-bluetooth,148,0,0,38,0,0,170,148,100.0,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/fr/>
+switchboard-plug-display,139,0,0,52,0,0,179,139,100.0,French <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/fr/>
+switchboard-plug-keyboard,530,0,0,193,0,0,698,530,100.0,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/fr/>
+switchboard-plug-mouse-touchpad,232,0,0,73,0,0,322,232,100.0,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/fr/>
+switchboard-plug-networking,474,0,0,137,0,0,590,474,100.0,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/fr/>
+switchboard-plug-notifications,142,0,0,21,0,0,163,142,100.0,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/fr/>
+switchboard-plug-onlineaccounts,141,9,10,44,3,9,160,160,88.125,French <https://weblate.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/fr/>
+switchboard-plug-pantheon-shell,181,0,0,65,0,0,245,181,100.0,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/fr/>
+switchboard-plug-printers,362,0,0,144,0,0,419,362,100.0,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/fr/>
+switchboard-plug-sharing,138,0,2,31,0,1,169,140,98.57142857142858,French <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/fr/>
+switchboard-plug-sound,152,0,0,51,0,0,184,152,100.0,French <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/fr/>
+switchdesk,101,0,21,9,0,10,128,122,82.78688524590164,french <fedora-trans-fr@redhat.com>
+sylpheed,7118,87,9,1764,31,2,8690,7214,98.6692542278902,French <gnomefr@traduc.org>
+sympa,37084,0,0,3592,0,0,41774,37084,100.0,Français
+synapse,789,0,67,216,0,18,982,856,92.17289719626169,French <fr@li.org>
+syncevolution,1132,0,0,163,0,0,1314,1132,100.0,French (http://www.transifex.net/projects/p/meego/team/fr/)
+synfig,4685,11,0,1174,4,0,5146,4696,99.76575809199318,French (http://www.transifex.com/morevnaproject/synfig/language/fr/)
+synfigstudio,5582,0,982,1522,0,45,6635,6564,85.03960999390615,French (http://www.transifex.com/morevnaproject/synfig/language/fr/)
+sysprof,290,0,0,83,0,0,350,290,100.0,français <GNOME French Team <gnomefr@traduc.org>>
+sysstat,788,0,0,81,0,0,857,788,100.0,French <traduc@traduc.org>
+system-config-httpd,877,0,0,227,0,0,1038,877,100.0,French <fedora-trans-fr@redhat.com>
+system-config-keyboard,187,0,0,81,0,0,207,187,100.0,French <fr@li.org>
+system-config-language,197,17,1,29,1,1,231,215,91.62790697674419,French <fedora-trans-fr@redhat.com>
+system-config-printer,3435,8,7,888,4,7,4080,3450,99.56521739130434,French (http://www.transifex.com/projects/p/system-config-printer/language/fr/)
+system-config-rootpassword,116,0,0,19,0,0,156,116,100.0,Français <fedora-trans-fr@redhat.com>
+system-config-users-docs,1061,0,0,82,0,0,1206,1061,100.0,French <fedora-trans-fr@redhat.com>
+system-switch-java,81,0,0,11,0,0,101,81,100.0,Fedora French <fedora-trans-fr@redhat.com>
+system-switch-mail,9,88,4,6,8,3,12,101,8.91089108910891,Français <fedora-trans-fr@redhat.com>
+systemd,1185,0,0,137,0,0,1297,1185,100.0,French
+systemtap,839,2505,6577,189,444,922,1047,9921,8.456808789436549,French
+tagtool,943,10,5,205,3,3,1126,958,98.43423799582463,French <jeremie.knuesel@epfl.ch>
+tali,2444,0,0,196,0,0,2699,2444,100.0,GNOME French Team <gnomefr@traduc.org>
+tar,3484,111,61,572,12,9,4471,3656,95.29540481400439,French <traduc@traduc.org>
+taxi,62,0,0,15,0,0,70,62,100.0,LANGUAGE <LL@li.org>
+tcpreen,327,0,0,40,0,0,375,327,100.0,N/A
+teg,2378,0,0,583,0,0,2610,2378,100.0,nobody
+tellico,5785,0,0,1234,0,0,6478,5785,100.0,French <kde-francophone@kde.org>
+terminology,990,0,0,245,0,0,1162,990,100.0,French
+texi2html,766,812,418,162,86,85,911,1996,38.37675350701403,French <guido@imperia.net>
+texinfo,5938,0,0,855,0,0,6573,5938,100.0,French <traduc@traduc.org>
+texlive,0,0,0,0,0,0,0,0,0.0,
+tgif,0,0,0,0,0,0,0,0,0.0,
+thunar-archive-plugin,86,0,0,13,0,0,83,86,100.0,French (http://www.transifex.com/xfce/thunar-plugins/language/fr/)
+thunar-media-tags-plugin,156,0,0,58,0,0,181,156,100.0,French (http://www.transifex.com/xfce/thunar-plugins/language/fr/)
+thunar-vcs-plugin,613,0,161,287,0,20,745,774,79.19896640826873,French (http://www.transifex.com/xfce/thunar-plugins/language/fr/)
+thunar-vfs,387,0,0,86,0,0,440,387,100.0,French <xfce-i18n@xfce.org>
+thunar-volman,499,0,0,120,0,0,595,499,100.0,French (http://www.transifex.com/xfce/thunar-volman/language/fr/)
+thunderbird,978,292,326,327,83,71,1166,1596,61.278195488721806,French <traduc@traduc.org>
+tidy,6740,0,599,436,0,33,7271,7339,91.83812508516147,
+tigervnc,697,0,0,157,0,0,864,697,100.0,French <traduc@traduc.org>
+tilda,238,69,360,73,20,93,298,667,35.68215892053973,French <fr@li.org>
+tiled,2931,993,16954,251,65,1025,3363,20878,14.038701025002394,French <https://hosted.weblate.org/projects/tiled/documentation-index/fr/>
+tilix,2489,0,0,677,0,0,3132,2489,100.0,French <https://hosted.weblate.org/projects/tilix/manpage/fr/>
+tilp2,1433,0,0,370,0,0,1567,1433,100.0,Français <tilp-users@lists.sf.net>
+timeshift,2862,36,107,574,9,16,3504,3005,95.24126455906821,French <fr@li.org>
+tin,11057,106,17,1536,4,2,11887,11180,98.89982110912344,French <traduc@traduc.org>
+tint2,8508,134,166,911,4,7,8915,8808,96.59400544959128,Bento <meets@gmx.fr>
+tomboy,7078,0,4,730,0,1,8004,7082,99.94351878000565,GNOME French Team <gnomefr@traduc.org>
+toppler,530,5,17,205,2,8,677,552,96.01449275362319,French <fr@li.org>
+torbrowser-launcher,168,26,34,38,4,6,187,228,73.68421052631578,French
+tortoisehg,13029,0,214,2402,0,26,15190,13243,98.38405195197463,French <fr@li.org>
+totem,6038,0,0,632,0,0,6729,6038,100.0,français <gnomefr@traduc.org>
+totem-pl-parser,29,0,0,8,0,0,30,29,100.0,français <gnomefr@traduc.org>
+trac,6652,133,6493,1291,9,195,7892,13278,50.097906311191444,fr <trac-dev@googlegroups.com>
+trac-accountmanager-plugin,290,0,918,71,0,133,360,1208,24.00662251655629,French <trac-dev@googlegroups.com>
+trac-mercurial-plugin,108,0,0,20,0,0,111,108,100.0,fr_FR <LL@li.org>
+trac-spamfilter-plugin,1629,0,956,286,0,136,1976,2585,63.01740812379111,French (http://www.transifex.com/hasienda/Trac_Plugin-L10N/language/fr/)
+trackballs,1631,0,0,500,0,0,1786,1631,100.0,Français >
+tracker,2217,0,0,369,0,0,2687,2217,100.0,français <gnomefr@traduc.org>
+tracker-miners,801,0,0,112,0,0,962,801,100.0,français <gnomefr@traduc.org>
+trader,2001,0,0,236,0,0,2092,2001,100.0,French <traduc@traduc.org>
+translate-toolkit,11,0,0,11,0,0,11,11,100.0,
+transmageddon,390,0,0,81,0,0,485,390,100.0,GNOME French Team <gnomefr@traduc.org>
+transmission,1809,0,0,494,0,0,2576,1809,100.0,GNOME French Team <gnomefr@traduc.org>
+transmission-remote-gtk,805,0,0,347,0,0,998,805,100.0,French <fr@li.org>
+trojita,4772,0,0,978,0,0,5922,4772,100.0,French <kde-francophone@kde.org>
+trustedqsl,4269,6,0,651,1,0,5038,4275,99.85964912280701,TQSL Developers
+tryton,1574,0,0,421,0,0,1894,1574,100.0,
+trytond,2648,0,0,1207,0,0,3316,2648,100.0,
+trytond-account,2743,0,0,1220,0,0,3493,2743,100.0,
+trytond-account-invoice,1028,0,0,372,0,0,1308,1028,100.0,
+trytond-account-invoice-history,2,0,0,1,0,0,2,2,100.0,
+trytond-account-invoice-line-standalone,10,0,0,4,0,0,14,10,100.0,
+trytond-account-product,296,0,0,95,0,0,360,296,100.0,
+trytond-account-statement,231,0,0,127,0,0,301,231,100.0,
+trytond-account-stock-anglo-saxon,74,0,0,12,0,0,75,74,100.0,
+trytond-account-stock-continental,325,0,0,69,0,0,389,325,100.0,
+trytond-analytic-account,184,0,0,95,0,0,221,184,100.0,
+trytond-analytic-invoice,13,0,0,3,0,0,14,13,100.0,
+trytond-analytic-purchase,22,0,0,4,0,0,24,22,100.0,
+trytond-analytic-sale,13,0,0,3,0,0,13,13,100.0,
+trytond-company,118,0,0,77,0,0,147,118,100.0,
+trytond-company-work-time,18,0,0,5,0,0,23,18,100.0,
+trytond-country,7539,0,0,5243,0,0,7277,7539,100.0,
+trytond-currency,469,0,0,233,0,0,533,469,100.0,
+trytond-dashboard,35,0,0,22,0,0,60,35,100.0,
+trytond-google-maps,2,0,0,1,0,0,2,2,100.0,
+trytond-ldap-authentication,10,0,0,1,0,0,13,10,100.0,
+trytond-party,268,0,0,152,0,0,339,268,100.0,
+trytond-party-siret,18,0,0,5,0,0,25,18,100.0,
+trytond-product,375,0,0,210,0,0,439,375,100.0,
+trytond-product-cost-fifo,24,0,0,4,0,0,32,24,100.0,
+trytond-product-cost-history,27,0,0,14,0,0,40,27,100.0,
+trytond-product-price-list,74,0,0,32,0,0,104,74,100.0,
+trytond-project,143,0,0,62,0,0,168,143,100.0,
+trytond-project-plan,83,0,0,46,0,0,104,83,100.0,
+trytond-project-revenue,12,0,0,8,0,0,15,12,100.0,
+trytond-purchase,571,0,0,291,0,0,698,571,100.0,
+trytond-purchase-invoice-line-standalone,51,0,0,22,0,0,71,51,100.0,
+trytond-sale,536,0,0,266,0,0,662,536,100.0,
+trytond-sale-opportunity,320,0,0,174,0,0,405,320,100.0,
+trytond-sale-price-list,5,0,0,2,0,0,8,5,100.0,
+trytond-stock,1203,0,0,563,0,0,1410,1203,100.0,
+trytond-stock-forecast,174,0,0,81,0,0,237,174,100.0,
+trytond-stock-inventory-location,17,0,0,11,0,0,21,17,100.0,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,23,0,0,14,0,0,33,23,100.0,
+trytond-stock-supply,147,0,0,58,0,0,172,147,100.0,
+trytond-stock-supply-day,27,0,0,18,0,0,41,27,100.0,
+trytond-timesheet,278,0,0,131,0,0,378,278,100.0,
+tumbler,241,0,0,39,0,0,307,241,100.0,French (http://www.transifex.com/xfce/tumbler/language/fr/)
+tuxmath,1455,0,0,249,0,0,1598,1455,100.0,
+tuxpaint,1591,0,0,291,0,0,1667,1591,100.0,<fr@li.org>
+tuxpaint-stamps,3271,0,0,813,0,0,3513,3271,100.0,
+tuxtype2,73,0,7,33,0,7,93,80,91.25,LANGUAGE <LL@li.org>
+tvtime,1120,67,35,238,3,5,1313,1222,91.65302782324059,French <fr@li.org>
+txt2regex,215,0,35,76,0,4,237,250,86.0,
+txt2tags,573,16,7,118,3,1,674,596,96.14093959731544,FRENCH <LL@li.org>
+typespeed,457,0,0,101,0,0,489,457,100.0,French
+ucview,150,47,324,60,18,88,184,521,28.79078694817658,<>
+udisks2,2158,0,0,512,0,0,2608,2158,100.0,French
+ufraw,2155,17,0,424,1,0,2552,2172,99.21731123388582,Gaëtan PERRIER <gaetan.perrier@free.fr>
+ufw,761,0,118,176,0,5,1059,879,86.57565415244596,French <fr@li.org>
+ufw-kde,815,0,0,190,0,0,1021,815,100.0,French <kde-francophone@kde.org>
+uget,1085,0,0,362,0,0,1360,1085,100.0,French (http://www.transifex.com/uget/uget/language/fr/)
+uim,303,3,5870,220,2,1583,319,6176,4.9060880829015545,fr <LL@li.org>
+ultimatestunts,590,0,0,152,0,0,660,590,100.0,French <LL@li.org>
+umbrello,5456,0,0,1488,0,0,6783,5456,100.0,French <kde-francophone@kde.org>
+unixcw,85,0,0,6,0,0,104,85,100.0,French <debian-l10n-french@lists.debian.org>
+upower,145,0,0,26,0,0,184,145,100.0,French <fr@li.org>
+urjtag,1164,1501,2149,157,211,313,1364,4814,24.179476526796844,French <traduc@traduc.org>
+usermode,573,0,0,96,0,0,658,573,100.0,French <trans-fr@lists.fedoraproject.org>
+util-linux,23781,0,0,4286,0,0,28745,23781,100.0,French <traduc@traduc.org>
+v4l-utils,107,224,1995,26,20,365,122,2326,4.600171969045571,French
+vdrift,695,0,944,250,0,152,803,1639,42.4039048200122,French (http://www.transifex.com/projects/p/vdrift/language/fr/)
+vinagre,2537,0,4,356,0,1,2924,2541,99.84258166076347,French < GNOME French Team <gnomefr@traduc.org>>
+vino,1228,0,0,134,0,0,1421,1228,100.0,GNOME French Team <gnomefr@traduc.org>
+virt-manager,6887,4,311,1421,2,38,8645,7202,95.62621494029436,French (http://www.transifex.com/projects/p/virt-manager/language/fr/)
+virt-top,15,0,346,5,0,72,17,361,4.1551246537396125,French <trans-fr@lists.fedoraproject.org>
+virt-viewer,649,0,186,153,0,30,768,835,77.72455089820359,French (http://www.transifex.com/projects/p/virt-viewer/language/fr/)
+virtualbox-guest-additions,244,0,145,47,0,19,276,389,62.724935732647815,French <fr@li.org>
+virtualplanet,872,21,580,456,10,299,888,1473,59.19891378139851,French <kde-i18n-doc@kde.org>
+visualboyadvance-m,4432,0,354,1615,0,175,5370,4786,92.60342666109486,French (France) (http://www.transifex.com/bgk/vba-m/language/fr_FR/)
+vocal,939,0,272,217,0,34,1113,1211,77.53922378199834,French (France) (http://www.transifex.com/needle-and-thread/vocal/language/fr_FR/)
+volume_key,745,10,8,151,2,1,1024,763,97.64089121887287,French <trans-fr@lists.fedoraproject.org>
+volumeicon,54,0,0,21,0,0,63,54,100.0,French
+vorbis-tools,957,1084,2068,186,147,168,1204,4109,23.290338281820393,French <traduc@traduc.org>
+vrms-rpm,28,0,0,26,0,0,318,28,100.0,
+vte,84,0,0,14,0,0,119,84,100.0,GNOME French Team <gnomefr@traduc.org>
+vte291,31,0,0,5,0,0,43,31,100.0,français <gnomefr@traduc.org>
+wallpapoz,395,0,0,101,0,0,449,395,100.0,French <traduc@traduc.org>
+wammu,5158,113,19,912,8,3,5780,5290,97.50472589792061,French <https://hosted.weblate.org/projects/gammu/wammu-doc/fr/>
+wapiti,1430,0,127,254,0,20,2534,1557,91.84328837508028,LANGUAGE <LL@li.org>
+warmux,2736,8,0,467,5,0,3034,2744,99.70845481049562,<fr@li.org>
+warzone2100,13155,167,139,2819,45,31,16341,13461,97.72676621350568,French <warzone2100-project@lists.sourceforge.net>
+watchdog,125,0,0,8,0,0,143,125,100.0,French <debian-l10n-french@lists.debian.org>
+wavbreaker,613,31,0,138,6,0,713,644,95.1863354037267,português <pt@li.org>
+wdiff,993,0,0,150,0,0,1088,993,100.0,French <traduc@traduc.org>
+webacula,983,0,0,341,0,0,1142,983,100.0,Alexandre Boily <alexandreboily@gmail.com>
+webkit2gtk3,1536,240,388,404,46,94,1908,2164,70.97966728280961,GNOME French Team <gnomefr@traduc.org>
+weechat,31845,0,0,2308,0,0,37462,31845,100.0,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,264369,22356,7116,17054,854,210,270070,293841,89.97008586276252,French <wesnoth@ml.free.fr>
+wget,3665,208,123,605,28,11,4386,3996,91.71671671671672,French <traduc@traduc.org>
+whaawmp,775,0,24,156,0,4,947,799,96.99624530663328,French <fr@li.org>
+whois,506,0,0,40,0,0,597,506,100.0,French <debian-l10n-french@lists.debian.org>
+wicd-kde,358,0,0,122,0,0,462,358,100.0,French <kde-francophone@kde.org>
+widelands,58927,0,0,5227,0,0,63068,58927,100.0,French (http://www.transifex.com/widelands/widelands/language/fr/)
+wine,13946,1820,1449,3275,284,335,16134,17215,81.01074644205634,French
+wine-docs,34923,2,1,1861,1,1,39051,34926,99.99141041058238,Wine-Devel <wine-devel@winehq.org>
+wingpanel,19,0,0,4,0,0,22,19,100.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,294,0,0,86,0,0,387,294,100.0,French <https://l10n.elementary.io/projects/wingpanel/applications-menu/fr/>
+wingpanel-indicator-bluetooth,27,0,0,12,0,0,31,27,100.0,French <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/fr/>
+wingpanel-indicator-datetime,120,8,0,24,1,0,159,128,93.75,French <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/fr/>
+wingpanel-indicator-keyboard,24,0,0,9,0,0,33,24,100.0,French <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/fr/>
+wingpanel-indicator-network,97,0,0,27,0,0,117,97,100.0,French <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/fr/>
+wingpanel-indicator-nightlight,31,0,0,8,0,0,45,31,100.0,French <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/fr/>
+wingpanel-indicator-notifications,38,0,0,13,0,0,49,38,100.0,French <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/fr/>
+wingpanel-indicator-power,117,0,0,32,0,0,143,117,100.0,French <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-power/fr/>
+wingpanel-indicator-session,79,0,2,24,0,1,90,81,97.53086419753086,French <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/fr/>
+wingpanel-indicator-sound,45,0,0,11,0,0,67,45,100.0,French <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-sound/fr/>
+wireshark,79,0,179,4,0,12,85,258,30.620155038759687,French (https://www.transifex.com/wireshark/teams/36457/fr/)
+wol,175,117,6,28,1,2,193,298,58.7248322147651,
+workrave,998,155,168,176,52,34,1078,1321,75.54882664647994,Français <thomas.basset@netcourrier.com;translations@muachi.com>
+wxGTK3,7244,216,337,1728,71,84,8545,7797,92.90752853661665,French <debian-l10n-french@lists.debian.org>
+wxMaxima,2281,974,18328,661,246,1338,2727,21583,10.568502988463143,LANGUAGE <LL@li.org>
+wxPython,9486,206,507,2460,49,89,11195,10199,93.00911854103343,French <debian-l10n-french@lists.debian.org>
+x-tile,728,0,4,149,0,1,902,732,99.4535519125683,X Tile
+xaos,819,61,27,321,22,11,1006,907,90.29768467475193,French
+xapps,69,0,0,34,0,0,79,69,100.0,French <fr@li.org>
+xarchiver,911,239,42,249,31,17,997,1192,76.4261744966443,French <xfce-i18n@xfce.org>
+xastir,0,0,0,0,0,0,0,0,0.0,LANGUAGE <LL@li.org>
+xawtv,126,0,0,24,0,0,168,126,100.0,French <debian-l10n-french@lists.debian.org>
+xblast,568,9,370,245,1,135,586,947,59.97888067581837,French
+xboard,2553,9,11,718,3,3,3301,2573,99.22269724057522,French <traduc@traduc.org>
+xca,3380,0,0,814,0,0,4214,3380,100.0,French <>
+xchm,219,4,11,90,1,5,250,234,93.58974358974359,français
+xconvers,278,0,0,101,0,0,378,278,100.0,French <debian-l10n-french@lists.debian.org>
+xdg-desktop-portal,88,40,47,12,4,10,85,175,50.28571428571429,French <gnomefr@traduc.org>
+xdg-desktop-portal-gtk,51,25,108,18,6,30,59,184,27.717391304347828,French <gnomefr@traduc.org>
+xdg-desktop-portal-kde,82,0,0,31,0,0,103,82,100.0,French <kde-francophone@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,French <traduc@traduc.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,107,81,100.0,GNOME French team <gnomefr@traduc.org>
+xdialog,21,0,0,15,0,0,20,21,100.0,French
+xdrawchem,0,405,6813,0,114,1491,0,7218,0.0,german <de@li.org>
+xed,12200,0,0,1673,0,0,13253,12200,100.0,MATE French Team <matefr@traduc.org>
+xen,33,0,2,18,0,1,39,35,94.28571428571428,French <FR@li.org>
+xfbib,342,0,0,75,0,0,396,342,100.0,FRENCH <i18n-xfce@xfce.org>
+xfburn,1572,0,0,323,0,0,1824,1572,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+xfce4-appfinder,410,0,0,81,0,0,430,410,100.0,French (http://www.transifex.com/xfce/xfce4-appfinder/language/fr/)
+xfce4-battery-plugin,147,0,0,42,0,0,176,147,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-calculator-plugin,35,0,0,15,0,0,49,35,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xfce4-clipman-plugin,478,0,0,72,0,0,511,478,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-cpufreq-plugin,145,0,0,41,0,0,189,145,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-cpugraph-plugin,77,0,0,38,0,0,99,77,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-datetime-plugin,52,0,0,19,0,0,49,52,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-dict,527,0,0,119,0,0,581,527,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,221,181,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-embed-plugin,219,0,0,33,0,0,236,219,100.0,français <jc>
+xfce4-eyes-plugin,15,0,0,4,0,0,19,15,100.0,French (http://www.transifex.com/projects/p/xfce-panel-plugins/language/fr/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,86,71,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-genmon-plugin,56,0,0,14,0,0,66,56,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,394,356,100.0,GNOME French Team <gnomefr@traduc.org>
+xfce4-mailwatch-plugin,685,0,0,111,0,0,868,685,100.0,French (http://www.transifex.com/projects/p/xfce/language/fr/)
+xfce4-mount-plugin,374,0,0,56,0,0,422,374,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-mpc-plugin,78,0,0,24,0,0,94,78,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-netload-plugin,91,0,0,35,0,0,104,91,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-notes-plugin,163,0,0,57,0,0,181,163,100.0,French (http://www.transifex.com/projects/p/xfce-panel-plugins/language/fr/)
+xfce4-notifyd,294,0,0,79,0,0,353,294,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+xfce4-panel,1691,0,0,413,0,0,2056,1691,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xfce4-panel-profiles,99,0,0,26,0,0,138,99,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xfce4-places-plugin,162,0,0,47,0,0,182,162,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-power-manager,1046,0,0,210,0,0,1338,1046,100.0,French (http://www.transifex.com/xfce/xfce4-power-manager/language/fr/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,177,148,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-screensaver,697,0,0,152,0,0,813,697,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xfce4-screenshooter,487,0,0,81,0,0,526,487,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+xfce4-sensors-plugin,376,0,14,80,0,5,458,390,96.41025641025641,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-session,798,0,0,163,0,0,929,798,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xfce4-settings,1940,0,0,453,0,0,2243,1940,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,25,22,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,140,129,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xfce4-systemload-plugin,87,0,0,23,0,0,126,87,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-taskmanager,259,0,0,88,0,0,316,259,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+xfce4-terminal,1722,0,0,402,0,0,2076,1722,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+xfce4-time-out-plugin,100,0,0,35,0,0,127,100,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-timer-plugin,138,0,0,49,0,0,167,138,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-verve-plugin,108,0,0,28,0,0,135,108,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,74,67,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-weather-plugin,3676,0,0,337,0,0,4180,3676,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfce4-whiskermenu-plugin,386,0,0,123,0,0,450,386,100.0,French (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/fr/)
+xfce4-xkb-plugin,57,0,0,22,0,0,71,57,100.0,French (http://www.transifex.com/xfce/xfce-panel-plugins/language/fr/)
+xfconf,458,0,0,68,0,0,560,458,100.0,French (http://www.transifex.com/xfce/xfconf/language/fr/)
+xfdashboard,5991,0,887,806,0,115,7279,6878,87.10380924687409,French (http://www.transifex.com/xfdashboard/xfdashboard/language/fr/)
+xfdesktop,1037,0,0,246,0,0,1273,1037,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xfe,6037,0,0,1092,0,0,7069,6037,100.0,français <>
+xfmpc,175,0,0,78,0,0,204,175,100.0,French (http://www.transifex.com/xfce/xfce-apps/language/fr/)
+xfpanel-switch,62,0,39,24,0,2,90,101,61.386138613861384,French <fr@li.org>
+xfwm4,632,0,0,169,0,0,853,632,100.0,French (https://www.transifex.com/xfce/teams/16840/fr/)
+xiphos,14172,0,33,1625,0,3,16362,14205,99.76768743400211,emacs + po-mode; French <gnomefr@traduc.org>
+xkeyboard-config,3947,0,0,1177,0,0,4166,3947,100.0,French <traduc@traduc.org>
+xlog,1359,67,39,324,4,6,1642,1465,92.76450511945391,French <debian-l10n-french@lists.debian.org>
+xmlcopyeditor,1031,288,367,345,77,68,1154,1686,61.15065243179122,team <team@email.com>
+xmms,3177,66,200,1003,18,24,3711,3443,92.27417949462678,Français <fr@li.org>
+xmoto,3839,0,0,822,0,0,4040,3839,100.0,X-Moto
+xournal,1178,0,33,290,0,28,1347,1211,97.27497935590421,French
+xournalpp,2895,0,0,642,0,0,3484,2895,100.0,French
+xpad,413,0,0,127,0,0,570,413,100.0,French <traduc@traduc.org>
+xreader,3588,0,0,594,0,0,4175,3588,100.0,MATE French Team <matefr@traduc.org>
+xsane,2009,979,236,524,150,54,2424,3224,62.31389578163772,French <fr@li.org>
+xscreensaver,6981,0,2938,1592,0,229,7691,9919,70.38007863695938,GNOME French Team <gnomefr@traduc.org>
+xz,1379,0,0,159,0,0,1596,1379,100.0,French <traduc@traduc.org>
+yad,2193,308,157,506,57,35,3007,2658,82.50564334085779,Français
+yakuake,1602,0,0,226,0,0,1821,1602,100.0,French <kde-francophone@kde.org>
+yelp,351,0,0,74,0,0,388,351,100.0,français <gnomefr@traduc.org>
+yelp-xsl,88,0,0,64,0,0,95,88,100.0,français <gnomefr@traduc.org>
+zabbix,15409,0,263,3375,0,40,18976,15672,98.32184788157224,Zabbix <info@zabbix.com>
+zanshin,286,345,262,132,58,55,356,893,32.026875699888016,KDE Francophone <kde-francophone@kde.org>
+zathura,470,0,255,122,0,40,578,725,64.82758620689654,French (http://www.transifex.com/pwmt/zathura/language/fr/)
+zaz,229,0,0,107,0,0,255,229,100.0,
+zenity,3888,0,0,546,0,0,4748,3888,100.0,français <gnomefr@traduc.org>
+znc,4636,0,3931,935,0,776,5353,8567,54.114625890043186,French
+zvbi,621,3,40,115,1,5,743,664,93.52409638554217,French <fr@li.org>
+zypper,9213,0,16,1247,0,1,10783,9229,99.82663343807563,French <https://l10n.opensuse.org/projects/zypper/master/fr/>

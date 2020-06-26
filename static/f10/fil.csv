@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,79,0,2582,44,0,542,140,2661,2.9688087185268697,Filipino <fil@li.org>
+phatch,765,0,728,280,0,228,905,1493,51.23911587407903,Filipino <fil@li.org>
+stellarium,573,0,1836,376,0,544,635,2409,23.785803237858033,Filipino <fil@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,79 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,276,292,9848,135,89,1081,264,10416,2.6497695852534564,Armenian
+authconfig,0,0,1351,0,0,243,0,1351,0.0,none
+bittorrent,228,0,3678,84,0,550,223,3906,5.837173579109063,LANGUAGE <LL@li.org>
+chkconfig,0,0,430,0,0,88,0,430,0.0,none
+file-roller,955,0,3,239,0,2,837,958,99.68684759916493,<norik@freenet.am>
+firstboot,132,107,365,13,6,33,99,604,21.85430463576159,Armenian
+gdeskcal,102,0,7,43,0,4,94,109,93.57798165137615,
+gdm,444,0,4970,132,0,633,367,5414,8.200960472848172,Armenian <norik@freenet.am>
+gedit,416,0,3917,157,0,877,358,4333,9.600738518347566,Armenian <norik@@freenet.am>
+glib2,130,215,1852,20,43,285,127,2197,5.9171597633136095,Armenian <norik@freenet.am>
+gnome-applets,3885,138,4,940,16,4,3609,4027,96.47380183759623,<norik@freenet.am>
+gnome-backgrounds,35,0,0,10,0,0,35,35,100.0,<norik@freenet.am>
+gnome-desktop,316,8,0,71,2,0,314,324,97.53086419753086,<norik@freenet.am>
+gnome-menus,145,12,0,52,4,0,132,157,92.35668789808918,<norik@freenet.am>
+gnome-panel,3931,22,8,507,10,1,3450,3961,99.24261550113607,<norik@freenet.am>
+gnome-session,570,0,0,103,0,0,546,570,100.0,<norik@freenet.am>
+gnome-terminal,515,5,3883,172,2,337,449,4403,11.696570520099932,<norik@freenet.am>
+gtk2,1751,954,10055,380,310,1873,1612,12760,13.722570532915359,<norik@freenet.am>
+gtkspell,11,0,0,5,0,0,10,11,100.0,Armenian <translation-team-hy@lists.sourceforge.net>
+hwbrowser,107,6,3,47,3,1,103,116,92.24137931034483,Armenian
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imsettings,0,0,849,0,0,139,0,849,0.0,none
+initscripts,0,0,3871,0,0,909,0,3871,0.0,none
+iso-codes,217,33,827,176,11,261,201,1077,20.148560817084494,Armenian
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+libgnomeui,362,0,1058,139,0,206,305,1420,25.492957746478872,
+libgweather,360,39,61,155,14,10,362,460,78.26086956521739,<norik@freenet.am>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1224,4284,2717,290,834,526,1224,8225,14.88145896656535,none
+libxfcegui4,76,0,5,21,0,4,62,81,93.82716049382715,Armenian <en@li.org>
+lxmenu-data,85,12,0,33,4,0,73,97,87.62886597938144,<norik@freenet.am>
+metacity,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+mingw32-glib2,130,218,1977,20,44,304,127,2325,5.591397849462366,Armenian <norik@freenet.am>
+mingw32-gtk2,1677,964,9759,316,301,1696,1528,12400,13.524193548387098,<norik@freenet.am>
+nautilus,6554,262,0,1140,28,0,5928,6816,96.15610328638498,<norik@freenet.am>
+nautilus-cd-burner,826,390,22,155,34,5,739,1238,66.72051696284329,<norik@freenet.am>
+orage,34,39,791,13,18,508,36,864,3.935185185185185,Armenian <en@li.org>
+oyranos,4,0,40,2,0,18,3,44,9.090909090909092,Armenian <>
+passwd,0,0,291,0,0,51,0,291,0.0,none
+phatch,1,0,1492,1,0,507,1,1493,0.06697923643670461,Armenian <hy@li.org>
+pidgin,141,23,17825,42,12,3813,143,17989,0.7838123297570738,
+policycoreutils,0,0,4363,0,0,713,0,4363,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,221,6,34,73,2,11,198,261,84.67432950191571,Armenian <en@li.org>
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+setroubleshoot,0,0,582,0,0,162,0,582,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,60,0,0,17,0,60,0.0,none
+specspo,0,0,305294,0,0,16850,0,305294,0.0,none
+stellarium,18,0,2391,18,0,902,18,2409,0.7471980074719801,Armenian <hy@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,46,0,0,10,0,46,0.0,none
+system-config-date,0,0,478,0,0,57,0,478,0.0,none
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-firewall,0,0,2497,0,0,303,0,2497,0.0,none
+system-config-httpd,816,42,0,204,19,0,721,858,95.1048951048951,Armenian
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,78,0,0,12,0,78,0.0,none
+system-config-kickstart,0,0,1054,0,0,281,0,1054,0.0,none
+system-config-language,0,0,45,0,0,10,0,45,0.0,none
+system-config-lvm,0,0,2142,0,0,336,0,2142,0.0,none
+system-config-netboot,10,0,1093,3,0,162,10,1103,0.9066183136899365,none
+system-config-network,0,0,2894,0,0,688,0,2894,0.0,none
+system-config-nfs,0,0,1517,0,0,138,0,1517,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3005,0,0,663,0,3005,0.0,none
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,422,0,0,137,0,422,0.0,none
+system-config-services,0,0,384,0,0,53,0,384,0.0,none
+system-config-users,0,0,1337,0,0,172,0,1337,0.0,none
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+xfce-utils,20,9,90,11,3,20,20,119,16.80672268907563,Armenian <en@li.org>
+xfce4-appfinder,14,4,30,14,3,11,16,48,29.166666666666668,Armenian <en@li.org>
+xfce4-mixer,149,2,75,68,2,24,149,226,65.929203539823,Armenian <en@li.org>
+xfce4-panel,37,123,418,26,47,87,38,578,6.401384083044983,Armenian <en@li.org>
+xfdesktop,277,267,534,102,83,103,260,1078,25.69573283858998,Armenian <en@li.org>

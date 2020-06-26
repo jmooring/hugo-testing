@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+intltool,9,0,1,2,0,1,10,10,90.0,NONE <kenneth@gnu.org>
+openerp,52,0,11442,15,0,1771,78,11494,0.4524099530189664,French (Belgium) <fr_BE@li.org>
+openerp7,28,0,11590,13,0,1857,49,11618,0.24100533654673784,French (Belgium) <fr_BE@li.org>

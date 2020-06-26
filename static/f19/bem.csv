@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,52,42,100.0,Bemba Team <bem@li.org>
+mate-menu-editor,42,0,0,16,0,0,52,42,100.0,Bemba Team <bem@li.org>

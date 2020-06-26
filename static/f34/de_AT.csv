@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+fuse-encfs,1041,24,224,118,3,16,984,1289,80.76027928626843,German (Austria) <de_AT@li.org>
+ganyremote,485,0,22,146,0,2,498,507,95.66074950690336,Austrian
+kanyremote,470,0,27,139,0,6,478,497,94.56740442655935,Austrian
+perl-libintl-perl,3,0,0,3,0,0,3,3,100.0,German <de@li.org>
+pingus,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+supertux,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+texi2html,5,0,1660,5,0,198,5,1665,0.3003003003003003,German <guido@imperia.net>
+texinfo,5,0,17,5,0,17,5,22,22.727272727272727,German <guido@imperia.net>

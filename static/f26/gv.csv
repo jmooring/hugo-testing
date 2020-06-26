@@ -1,0 +1,33 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+cinnamon-translations,900,0,5378,332,0,594,1207,6278,14.335775724753105,Manx <gv@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+epiphany,2764,198,82,666,44,21,3387,3044,90.80157687253615,Manx <reuben03@live.com>
+gdm,206,91,353,41,16,30,246,650,31.692307692307693,Manx <gv@li.org>
+gnome-menus,84,0,41,36,0,10,92,125,67.2,Manx <gv@li.org>
+gobby,529,0,371,145,0,45,668,900,58.77777777777777,Manx <gv@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,9,0,665,8,0,99,14,674,1.3353115727002967,http://littlesvr.ca/ostd/
+mate-menu,241,12,47,99,1,10,325,300,80.33333333333333,Manx <gv@li.org>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mintmenu,1360,0,5106,470,0,557,1806,6466,21.03309619548407,Manx <gv@li.org>
+nautilus,7500,863,521,1269,138,36,9107,8884,84.42143178748312,Manx <gv@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+stellarium,11,0,25785,8,0,6656,13,25796,0.042642270119398355,Manx <gv@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+totem,2169,0,416,530,0,57,2630,2585,83.90715667311413,Manx <gv@li.org>
+transmission,27,0,1782,19,0,475,45,1809,1.4925373134328357,Manx <gv@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Manx <gv@li.org>
+xplayer,1019,0,938,312,0,181,1242,1957,52.069494123658664,Manx <gv@li.org>

@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,8706,972,362,1104,113,41,9550,10040,86.71314741035857,Maithili <maithili.sf.net>
+firstboot,251,0,353,28,0,24,276,604,41.556291390728475,<en@li.org>
+gnome-backgrounds,16,2,0,8,1,0,18,18,88.88888888888889,Hindi <hindi.sf.net>
+gnome-menus,123,0,42,44,0,14,135,165,74.54545454545455,maithili <maithili.sf.net>
+libgweather,6250,0,23,4351,0,14,6300,6273,99.63334927466921,maithili <maithili.sf.net>
+pykickstart,226,0,58,20,0,5,234,284,79.5774647887324,<en@li.org>
+rhgb,59,0,0,11,0,0,71,59,100.0,Maithili <maithili.sf.net>
+switchdesk,137,0,2,19,0,1,154,139,98.56115107913669,Maithili <maithili.sf.net>
+system-config-date,383,0,755,48,0,61,463,1138,33.655536028119506,LANGUAGE <LL@li.org>
+system-config-nfs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,96,0,20,15,0,4,107,116,82.75862068965517,Maithili <maithili.sf.net>
+system-config-samba,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>

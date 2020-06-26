@@ -1,0 +1,89 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,513,87,165,123,14,44,695,765,67.05882352941175,Akan <https://weblate.elementary.io/projects/appcenter/appcenter/ak/>
+audience,46,0,60,19,0,29,80,106,43.39622641509434,Akan <ak@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,1,1,78,1,1,35,4,80,1.25,Akan <https://l10n.elementary.io/projects/calculator/calculator/ak/>
+elementary-calendar,407,24,18,161,11,8,611,449,90.64587973273942,Akan <https://l10n.elementary.io/projects/calendar/calendar/ak/>
+elementary-camera,24,0,38,4,0,12,33,62,38.70967741935484,ak (generated) <http://weblate.elementary.io/projects/desktop/camera/ak/>
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+gala,18,0,676,8,0,71,30,694,2.5936599423631126,Akan <ak@li.org>
+granite,156,0,0,57,0,0,213,156,100.0,Akan <ak@li.org>
+gtkspell3,10,0,6,5,0,2,18,16,62.5,Akan <LL@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,0,55,931,0,41,379,0,986,0.0,Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/>
+maya-calendar,405,0,22,170,0,2,625,427,94.84777517564403,Akan <https://l10n.elementary.io/projects/calendar/calendar/ak/>
+mingw-gtkspell3,10,0,6,5,0,2,18,16,62.5,Akan <LL@li.org>
+noise,106,0,1216,44,0,333,126,1322,8.018154311649017,LANGUAGE <LL@li.org>
+optimizer,0,0,111,0,0,54,0,111,0.0,none
+pantheon-agent-geoclue2,43,0,3,11,0,2,50,46,93.47826086956522,Akan <karabutaworld@gmail.com>
+pantheon-agent-polkit,16,3,1,8,1,1,30,20,80.0,LANGUAGE <LL@li.org>
+pantheon-calculator,1,1,50,1,1,30,4,52,1.9230769230769231,Akan <https://l10n.elementary.io/projects/calculator/calculator/ak/>
+pantheon-files,755,0,1921,192,0,331,1014,2676,28.213751868460392,Akan <ak@li.org>
+pantheon-greeter,29,0,0,10,0,0,33,29,100.0,Akan <karabutaworld@gmail.com>
+pantheon-photos,43,0,3934,13,0,843,50,3977,1.0812169977369877,LANGUAGE <LL@li.org>
+pantheon-terminal,188,0,0,51,0,0,237,188,100.0,Akan <ak@li.org>
+sawfish,0,0,6617,0,0,1054,0,6617,0.0,Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/)
+scratch-text-editor,222,0,459,50,0,148,264,681,32.59911894273127,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,252,0,0,93,0,252,0.0,
+slingshot-launcher,217,0,0,68,0,0,304,217,100.0,Akan <https://l10n.elementary.io/projects/wingpanel/applications-menu/ak/>
+snap-photobooth,25,0,0,5,0,0,34,25,100.0,Akan <ak@li.org>
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-clock,3,0,63,3,0,18,3,66,4.545454545454546,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,90,0,0,52,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,16,0,211,16,0,58,27,227,7.048458149779736,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,60,16,83,56,12,43,102,159,37.735849056603776,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,50,26,41,21,3,13,94,117,42.73504273504273,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/ak/>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,none
+switchboard-plug-bluetooth,27,3,44,14,2,12,37,74,36.486486486486484,Akan <ak@li.org>
+switchboard-plug-display,0,0,126,0,0,49,0,126,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,none
+switchboard-plug-mouse-touchpad,6,0,144,4,0,47,6,150,4.0,Akan <ak@li.org>
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,2,129,0,2,44,0,131,0.0,Akan <ak@li.org>
+tilix,3,0,2018,3,0,592,7,2021,0.14844136566056407,Akan <https://hosted.weblate.org/projects/tilix/translations/ak/>
+tuxpaint-stamps,165,3,3103,24,1,788,109,3271,5.0443289513910115,LANGUAGE <LL@li.org>
+virtaal,1428,49,174,456,13,73,1743,1651,86.49303452453059,LANGUAGE <LL@li.org>
+vocal,402,0,432,102,0,70,523,834,48.201438848920866,Akan (http://www.transifex.com/needle-and-thread/vocal/language/ak/)
+wingpanel,6,0,0,1,0,0,14,6,100.0,Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel/ak/>
+wingpanel-applications-menu,217,0,8,68,0,4,304,225,96.44444444444444,Akan <https://l10n.elementary.io/projects/wingpanel/applications-menu/ak/>
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-datetime,20,0,0,6,0,0,20,20,100.0,Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ak/>
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,16,0,0,7,0,0,19,16,100.0,Akan <ak@li.org>
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,52,2,3,16,1,1,54,57,91.22807017543859,Akan <ak@li.org>
+wingpanel-indicator-sound,14,0,0,6,0,0,19,14,100.0,Akan <ak@li.org>

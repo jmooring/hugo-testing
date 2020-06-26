@@ -1,0 +1,71 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+atril,56,0,2296,37,0,478,51,2352,2.380952380952381,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,1871,0,7804,460,0,1144,1753,9675,19.338501291989665,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+caja-actions,35,0,7047,22,0,717,33,7082,0.4942106749505789,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+caja-extensions,3,0,757,3,0,142,4,760,0.39473684210526316,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+chromium,0,0,0,0,0,0,0,0,0.0,
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Limburgish <li.org>
+cinnamon-translations,119,0,6849,59,0,1665,118,6968,1.7078071182548795,Limburgian <li@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+engrampa,91,0,7831,48,0,845,86,7922,1.1486998232769503,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+eom,37,0,1742,30,0,311,37,1779,2.0798201236649803,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+epiphany,1057,718,957,406,223,136,1002,2732,38.689604685212295,Dutch <vertaling@nl.linux.org>
+fragments,629,0,1377,196,0,330,701,2006,31.35593220338983,Limburgian (https://www.transifex.com/transmissionbt/teams/33778/li/)
+gconf-editor,101,63,156,36,23,35,96,320,31.5625,Limburgish
+gdk-pixbuf2,792,466,90,118,73,11,749,1348,58.753709198813056,Limburgish <li.org>
+gnome-desktop3,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+gnome-icon-theme,22,7,23,22,3,21,22,52,42.30769230769231,Limburgish
+gnome-mime-data,850,0,0,348,0,0,782,850,100.0,Limburgish <li.org>
+gnome-panel,313,907,2300,82,210,216,320,3520,8.892045454545453,Dutch <vertaling@nl.linux.org>
+gnome-shell-frippery,5,0,0,2,0,0,2,5,100.0,
+gnome-system-monitor,388,67,47,116,20,7,377,502,77.29083665338645,Limburgish <li@li.org>
+gnome-vfs2,225,77,980,66,20,162,211,1282,17.550702028081123,Limburgish
+granite,0,0,498,0,0,118,0,498,0.0,
+gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+gtk3,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+gtk4,288,490,1654,55,262,504,286,2432,11.842105263157894,Limburgish <li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+isomaster,8,0,666,8,0,99,8,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libbonobo,464,17,43,95,5,8,458,524,88.54961832061069,Limburgish
+libbonoboui,314,7,39,92,3,18,306,360,87.22222222222223,Limburgish <li@li.org>
+libgnomecanvas,339,18,0,92,2,0,290,357,94.9579831932773,Limburgish <li@li.org>
+libgnomeui,1136,98,185,290,22,33,1031,1419,80.05637773079634,Limburgish <li.org>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+libwnck,30,29,14,15,9,6,32,73,41.0958904109589,Limburgish
+libwnck3,30,29,14,15,9,6,32,73,41.0958904109589,Limburgish
+marco,23,0,4280,12,0,418,21,4303,0.5345108064141296,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mate-applets,33,2,9492,30,1,1171,31,9527,0.34638396137294003,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-calc,16,0,3186,15,0,707,16,3202,0.49968769519050593,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-control-center,59,0,8194,47,0,1463,59,8253,0.714891554586211,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mate-desktop,61,0,2315,17,0,284,61,2376,2.5673400673400675,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-media,4,0,235,4,0,95,4,239,1.6736401673640167,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mate-menu,13,0,295,11,0,99,13,308,4.220779220779221,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+mate-menus,2,0,101,2,0,37,2,103,1.9417475728155338,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mate-panel,370,0,6476,111,0,705,368,6846,5.404615834063687,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-polkit,1,0,122,1,0,20,1,123,0.8130081300813009,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-power-manager,12,0,2644,11,0,400,11,2656,0.4518072289156626,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mate-sensors-applet,5,0,308,5,0,104,5,313,1.5974440894568689,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-session-manager,31,0,684,17,0,115,30,715,4.335664335664335,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mate-system-monitor,107,0,4740,59,0,589,105,4847,2.2075510625128945,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-terminal,43,0,4676,29,0,514,37,4719,0.9112100021190931,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mate-user-admin,5,0,600,5,0,121,5,605,0.8264462809917356,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-utils,100,0,3779,57,0,647,97,3879,2.577984016499098,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+mingw-atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+mingw-gdk-pixbuf,792,466,90,118,73,11,749,1348,58.753709198813056,Limburgish <li.org>
+mingw-gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+mingw-gtk3,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+mozo,7,0,39,7,0,17,8,46,15.217391304347828,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+nautilus,3450,2903,852,743,398,120,3347,7205,47.883414295628036,Limburgish <li@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+php-phpmyadmin-sql-parser5,0,0,291,0,0,54,0,291,0.0,Limburgish <https://hosted.weblate.org/projects/phpmyadmin/master/li/>
+pluma,106,0,5601,56,0,1393,105,5707,1.8573681443840897,Limburgian (https://app.transifex.com/mate/teams/13566/li/)
+regextester,0,0,104,0,0,31,0,104,0.0,none
+transmission,456,0,1985,163,0,422,510,2441,18.68086849651782,Limburgian (https://app.transifex.com/transmissionbt/teams/33778/li/)
+vte,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+vte291,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+yelp,51,96,459,23,47,78,43,606,8.415841584158416,Limburgish <li.org>

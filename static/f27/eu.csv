@@ -1,0 +1,992 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,212,0,0,44,0,0,222,212,100.0,Basque (http://www.transifex.com/wildfire-games/0ad/language/eu/)
+GConf2,4088,0,0,497,0,0,3796,4088,100.0,American English <kde-i18n-doc@kde.org>
+NetworkManager,464,1651,9393,107,368,1236,503,11508,4.031977754605491,Basque <itzulpena@euskalgnu.org>
+NetworkManager-fortisslvpn,107,1,66,24,1,8,104,174,61.49425287356321,Basque <librezale@librezale.org>
+NetworkManager-l2tp,274,58,451,54,12,64,256,783,34.993614303959134,Basque <librezale@librezale.org>
+NetworkManager-libreswan,97,0,0,31,0,0,93,97,100.0,Basque <librezale@librezale.org>
+NetworkManager-openconnect,2935,894,1497,547,149,240,3044,5326,55.10702215546376,Basque <librezale@librezale.org>
+NetworkManager-openvpn,972,36,41,160,3,6,857,1049,92.65967588179218,Basque <librezale@librezale.org>
+NetworkManager-pptp,410,0,0,74,0,0,389,410,100.0,Basque <librezale@librezale.org>
+NetworkManager-ssh,39,43,204,17,14,38,37,286,13.636363636363635,Basque <itzulpena@euskalgnu.org>
+NetworkManager-sstp,410,0,0,74,0,0,389,410,100.0,Basque <librezale@librezale.org>
+NetworkManager-vpnc,442,0,0,84,0,0,424,442,100.0,Basque <librezale@librezale.org>
+PackageKit,1240,0,38,311,0,9,1115,1278,97.0266040688576,Basque (http://www.transifex.com/freedesktop/packagekit/language/eu/)
+Thunar,4175,0,25,731,0,7,3312,4200,99.40476190476191,Basque (https://www.transifex.com/xfce/teams/16840/eu/)
+Zim,2815,0,0,690,0,0,2381,2815,100.0,Basque <eu@li.org>
+abrt,189,0,3780,35,0,441,177,3969,4.761904761904762,Basque (http://www.transifex.com/projects/p/fedora-abrt/language/eu/)
+accerciser,659,0,0,224,0,0,592,659,100.0,Basque <itzulpena@euskalgnu.org>
+aisleriot,20444,0,0,1461,0,0,15239,20444,100.0,Basque <itzulpena@euskalgnu.org>
+akonadi-calendar-tools,341,102,97,75,19,16,338,540,63.14814814814815,Basque <kdeuskaraz@euskalgnu.org>
+akregator,871,467,427,227,117,82,781,1765,49.34844192634561,<en@li.org>
+alacarte,42,0,0,16,0,0,37,42,100.0,<eu@li.org>
+alleyoop,351,0,0,92,0,0,306,351,100.0,Basque <itzulpena@euskalgnu.org>
+almanah,578,68,33,108,7,7,502,679,85.12518409425626,American English <kde-i18n-doc@kde.org>
+amarok,10767,2500,2552,2126,415,239,9262,15819,68.0637208420254,Basque <itzulpena@euskalgnu.org>
+anaconda,511,0,6802,222,0,992,492,7313,6.9875564063995625,Basque (http://www.transifex.com/projects/p/anaconda/language/eu/)
+anjuta,20886,0,0,2579,0,0,16317,20886,100.0,Basque <itzulpena@euskalgnu.org>
+appcenter,4,7,746,3,6,168,4,757,0.5284015852047557,LANGUAGE <LL@li.org>
+appstream,6,10,837,6,4,181,6,853,0.7033997655334115,Basque (http://www.transifex.com/freedesktop/appstream/language/eu/)
+apt-cacher-ng,394,0,0,25,0,0,320,394,100.0,Basque <debian-l10n-basque@lists.debian.org>
+ardour2,6279,0,4290,1714,0,635,5799,10569,59.40959409594095,lagunak.gisa-elkartea <kontaktua@gisa-elkartea.org>
+arduino,1879,0,1214,354,0,236,1700,3093,60.750080827675404,Basque (http://www.transifex.com/mbanzi/arduino-ide-15/language/eu/)
+ark,1812,23,15,330,4,1,1572,1850,97.94594594594595,Basque <kde-i18n-doc@kde.org>
+asunder,427,29,39,77,4,10,395,495,86.26262626262627,Basque <LL@li.org>
+at-spi2-core,10,0,0,2,0,0,10,10,100.0,Basque <librezale@librezale.org>
+atk,440,0,0,169,0,0,341,440,100.0,Basque <librezale@librezale.org>
+atomix,146,0,0,59,0,0,141,146,100.0,Basque <itzulpena@euskalgnu.org>
+atril,3505,0,54,558,0,7,2880,3559,98.48271986513065,Basque <itzulpena@euskalgnu.org>
+audacious,376,0,384,184,0,142,368,760,49.473684210526315,Basque (http://www.transifex.com/audacious/audacious/language/eu/)
+audacious-plugins,777,0,3157,326,0,562,749,3934,19.750889679715304,Basque (http://www.transifex.com/audacious/audacious/language/eu/)
+audacity,26450,3570,3162,6319,801,430,24357,33182,79.71189198963293,Basque (https://www.transifex.com/librezale/teams/76773/eu/)
+audience,71,0,35,33,0,15,84,106,66.98113207547169,Basque <eu@li.org>
+authconfig,9,0,920,7,0,130,9,929,0.9687836383207751,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+avogadro,4151,0,2456,1554,0,818,4042,6607,62.82730437414863,Basque <eu@li.org>
+backintime,1896,0,87,330,0,6,1754,1983,95.61270801815431,Basque <eu@li.org>
+bakery,58,0,0,16,0,0,56,58,100.0,Basque <itzulpena@euskalgnu.org>
+balsa,6241,0,0,1526,0,0,5904,6241,100.0,Basque <itzulpena@euskalgnu.org>
+banshee,5947,0,0,1527,0,0,5250,5947,100.0,Basque <itzulpena@euskalgnu.org>
+baobab,246,0,0,64,0,0,239,246,100.0,Basque <librezale@librezale.eus>
+bijiben,309,0,0,103,0,0,277,309,100.0,Basque <librezale@librezale.org>
+bleachbit,980,0,0,221,0,0,851,980,100.0,Basque <eu@li.org>
+blender,1705,0,0,773,0,0,1580,1705,100.0,Euskara <agoenaga006@ikasle.ehu.eus>
+blinken,133,0,0,47,0,0,127,133,100.0,Basque <itzulpena@euskalgnu.org>
+blivet-gui,0,0,762,0,0,220,0,762,0.0,Basque
+blueberry,141,0,0,34,0,0,134,141,100.0,Basque <eu@li.org>
+bluedevil,573,0,0,191,0,0,538,573,100.0,Basque <kde-i18n-doc@kde.org>
+bluefish,4207,163,535,1434,35,70,3898,4905,85.76962283384302,Euskara <itzulpena@euskalgnu.org>
+blueman,255,0,1129,132,0,210,261,1384,18.42485549132948,Basque (http://www.transifex.com/mate/MATE/language/eu/)
+bomber,70,9,24,21,1,5,71,103,67.96116504854369,Basque <itzulpena@euskalgnu.org>
+bovo,77,4,0,24,1,0,73,81,95.06172839506173,Basque <itzulpena@euskalgnu.org>
+brasero,9056,0,0,1229,0,0,7332,9056,100.0,Basque <itzulpena@euskalgnu.org>
+cairo-dock,6966,0,498,767,0,60,5410,7464,93.32797427652733,librezale.org
+cairo-dock-plug-ins,674,0,9529,253,0,1469,600,10203,6.605900225423896,Basque <eu@li.org>
+caja,7775,0,1581,1391,0,126,6298,9356,83.10175288584865,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+caja-actions,7720,0,0,704,0,0,6149,7720,100.0,Basque <itzulpena@euskalgnu.org>
+caja-extensions,570,0,0,131,0,0,527,570,100.0,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+calamares,0,0,55,0,0,13,0,55,0.0,Basque (https://www.transifex.com/calamares/teams/20061/eu/)
+calibre,33264,0,124037,4598,0,13502,29250,157301,21.146718711260576,Basque (http://www.transifex.com/calibre/calibre/language/eu/)
+calligra,27894,975,1071,5766,153,84,25266,29940,93.16633266533067,Basque <kde-i18n-doc@kde.org>
+camorama,586,0,0,137,0,0,488,586,100.0,Basque <eu@li.org>
+cantor,598,177,1328,165,66,247,556,2103,28.43556823585354,Basque <itzulpena@euskalgnu.org>
+caribou,169,0,0,57,0,0,160,169,100.0,Basque <kde-i18n-doc@kde.org>
+catfish,12,0,665,10,0,101,13,677,1.7725258493353029,Basque <eu@li.org>
+ccsm,549,5,25,135,3,13,487,579,94.81865284974094,Euskara <librezale@librezale.org>
+certmonger,18,5,5687,9,2,943,18,5710,0.31523642732049034,Basque (http://www.transifex.com/projects/p/certmonger/language/eu/)
+cervisia,1461,111,47,364,34,23,1321,1619,90.24088943792464,basque <itzulpena@euskalgnu.org>
+cheese,614,0,0,123,0,0,520,614,100.0,Basque <librezale@librezale.eus>
+chkconfig,6,0,549,6,0,97,6,555,1.0810810810810811,Basque (http://www.transifex.com/projects/p/chkconfig/language/eu/)
+cinnamon-desktop,226,5,3,27,3,2,212,234,96.58119658119658,Basque <itzulpena@euskalgnu.org>
+cinnamon-translations,21554,0,0,4827,0,0,18538,21554,100.0,Basque <eu@li.org>
+clamtk,796,0,0,212,0,0,765,796,100.0,Basque <eu@li.org>
+clutter,3057,0,0,675,0,0,2345,3057,100.0,Basque <librezale@librezale.org>
+cockpit,49,0,7598,26,0,2030,49,7647,0.6407741598012292,Basque
+cogl,393,0,0,80,0,0,369,393,100.0,Basque <itzulpena@euskalgnu.org>
+colord,129,0,1857,49,0,203,105,1986,6.495468277945619,Basque (http://www.transifex.com/freedesktop/colord/language/eu/)
+compat-gtkhtml314,480,0,0,306,0,0,490,480,100.0,Basque <itzulpena@euskalgnu.org>
+compat-tracker1,3764,0,0,602,0,0,3402,3764,100.0,Basque <librezale@librezale.eus>
+compat-wxGTK3-gtk2,7740,0,0,1857,0,0,6908,7740,100.0,(EUS_Xabier Aramendi) <azpidatziak@gmail.com>
+compiz,3094,953,338,688,137,54,2479,4385,70.5587229190422,Basque <librezale@librezale.org>
+compiz-plugins-experimental,520,1021,2940,150,292,455,472,4481,11.604552555233207,Euskara <eu@li.org>
+compiz-plugins-extra,2212,328,1138,467,75,186,1759,3678,60.141381185426866,Euskara <eu@li.org>
+compiz-plugins-main,2485,119,1614,500,28,283,2009,4218,58.914177335229965,Euskara <eu@li.org>
+console-setup,978,4,3,170,2,3,823,985,99.28934010152284,debian-l10n-eu@lists.debian.org
+control-center,5228,0,0,1499,0,0,4865,5228,100.0,Basque <librezale@librezale.eus>
+coreutils,1359,12683,6690,391,827,526,1424,20732,6.555083928226896,Basque <translation-team-eu@lists.sourceforge.net>
+cups-pk-helper,149,0,0,22,0,0,131,149,100.0,Basque (http://www.transifex.com/projects/p/freedesktop/language/eu/)
+dasher,6560,0,0,431,0,0,5038,6560,100.0,Basque <itzulpena@euskalgnu.org>
+dconf-editor,1494,0,0,195,0,0,1310,1494,100.0,Basque <librezale@librezale.eus>
+debconf,795,5,60,87,3,4,710,860,92.44186046511628,Euskara
+deja-dup,3310,0,882,409,0,89,2842,4192,78.95992366412213,Basque <eu@li.org>
+deluge,2645,0,83,860,0,18,2353,2728,96.9574780058651,Basque <eu@li.org>
+devhelp,259,0,0,69,0,0,216,259,100.0,Basque <librezale@librezale.eus>
+dia,6601,0,0,2359,0,0,6017,6601,100.0,Basque <itzulpena@euskalgnu.org>
+dialog,25,0,0,23,0,0,26,25,100.0,Basque  <translation-team-eu@lists.sourceforge.net>
+digikam,23009,10959,12002,3746,2386,1212,19571,45970,50.05220796171416,American English <kde-i18n-doc@kde.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,1229,31,1872,366,5,281,1217,3132,39.240102171136655,Basque (http://www.transifex.com/projects/p/dnf/language/eu/)
+dnf-plugins-core,6,0,864,6,0,133,6,870,0.6896551724137931,Basque
+dnf-plugins-extras,9,0,232,2,0,37,5,241,3.7344398340248963,Basque
+dnfdragora,610,0,159,283,0,33,573,769,79.32379713914173,Basque (https://www.transifex.com/MageiaLinux/teams/9361/eu/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Basque
+dolphin,1525,12,31,505,4,8,1381,1568,97.25765306122449,Basque <kde-i18n-doc@kde.org>
+doodle,171,114,399,31,19,58,147,684,25.0,Basque <translation-team-eu@lists.sourceforge.net>
+dpkg,10046,1011,75,1274,90,16,9224,11132,90.24434063959755,Basque <debian-l10n-basque@lists.debian.org>
+dragon,191,37,47,61,14,11,164,275,69.45454545454545,Basque <itzulpena@euskalgnu.org>
+drgeo,1912,65,8,450,7,4,1701,1985,96.32241813602015,<itzulpena@euskalgnu.org>
+ekiga,9825,0,0,964,0,0,7508,9825,100.0,Basque <itzulpena@euskalgnu.org>
+elementary-calculator,45,0,35,29,0,8,44,80,56.25,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,Basque <eu@li.org>
+elementary-capnet-assist,0,0,66,0,0,10,0,66,0.0,none
+elementary-screenshot-tool,9,1,122,8,1,34,9,132,6.8181818181818175,Basque <eu@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+emerald,645,38,10,208,5,6,609,693,93.07359307359307,Basque <librezale@librezale.org>
+empathy,11009,0,0,1451,0,0,8791,11009,100.0,Basque <itzulpena@euskalgnu.org>
+engrampa,1253,0,692,277,0,77,1031,1945,64.42159383033419,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+entangle,109,0,805,49,0,169,105,914,11.925601750547047,Basque (http://www.transifex.com/projects/p/entangle/language/eu/)
+eog,4728,0,0,544,0,0,3659,4728,100.0,Basque <itzulpena@euskalgnu.org>
+eog-plugins,406,0,10,98,0,3,346,416,97.59615384615384,Basque <librezale@librezale.eus>
+eom,4566,0,204,519,0,16,3527,4770,95.72327044025157,Basque <itzulpena@euskalgnu.org>
+epiphany,3599,0,0,697,0,0,3106,3599,100.0,Basque <librezale@librezale.eus>
+etckeeper,0,0,41,0,0,2,0,41,0.0,Euskara <Librezale@librezale.org>
+evince,3431,0,0,544,0,0,2798,3431,100.0,Basque <itzulpena@euskalgnu.org>
+evolution,28598,9634,10503,5803,950,716,24036,48735,58.6806196778496,Basque <itzulpena@euskalgnu.org>
+evolution-data-server,6434,0,0,1252,0,0,6208,6434,100.0,Basque <librezale@librezale.eus>
+evolution-ews,897,281,3,208,34,1,871,1181,75.95258255715495,Basque <librezale@librezale.eus>
+evolution-mapi,798,240,10,197,34,2,783,1048,76.14503816793892,Basque <librezale@librezale.eus>
+evolution-rss,674,0,0,146,0,0,593,674,100.0,American English <kde-i18n-doc@kde.org>
+exaile,125,14,3867,84,8,933,117,4006,3.1203195207189216,Basque <eu@li.org>
+exo,1391,0,60,291,0,7,1201,1451,95.86492074431426,Basque (http://www.transifex.com/xfce/exo/language/eu/)
+expendable,19,0,208,13,0,80,18,227,8.370044052863436,Basque (http://www.transifex.com/projects/p/expendable/language/eu/)
+falkon,3604,443,60,1194,93,14,3259,4107,87.75261748234722,
+feedreader,0,0,689,0,0,201,0,689,0.0,
+file-roller,1200,0,0,274,0,0,999,1200,100.0,Basque <librezale@librezale.eus>
+filelight,407,0,0,92,0,0,369,407,100.0,Basque <kde-i18n-doc@kde.org>
+filezilla,9815,6,0,1675,3,0,8754,9821,99.93890642500763,Euskara <librezale@librezale.eus>
+firewalld,116,0,2060,64,0,340,118,2176,5.330882352941177,Basque (http://www.transifex.com/projects/p/firewalld/language/eu/)
+five-or-more,1816,0,0,155,0,0,1515,1816,100.0,Basque <itzulpena@euskalgnu.org>
+folks,1056,0,0,130,0,0,965,1056,100.0,Basque <librezale@librezale.eus>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Basque
+four-in-a-row,2488,0,0,178,0,0,2078,2488,100.0,Basque <itzulpena@euskalgnu.org>
+fpm2,694,45,9,178,20,3,620,748,92.7807486631016,
+fprintd,0,0,419,0,0,57,0,419,0.0,Basque (http://www.transifex.com/freedesktop/fprintd/language/eu/)
+freedink,115,156,0,18,39,0,111,271,42.435424354243544,Basque <translation-team-eu@lists.sourceforge.net>
+freeipa,369,0,52278,169,0,4091,340,52647,0.7008946378711037,Basque
+fusionforge,4815,6613,12981,1074,1703,1601,4424,24409,19.7263304518825,FusionForge team <fusionforge-general@lists.fusionforge.org>
+fwupd,12,0,0,10,0,0,13,12,100.0,Basque (http://www.transifex.com/freedesktop/fwupd/language/eu/)
+gajim,3442,3744,3979,783,850,598,3019,11165,30.828481862964622,Basque <urtzi@altza.net>
+gala,0,0,694,0,0,79,0,694,0.0,Basque <eu@li.org>
+gallery2,15286,679,1828,2204,81,258,13125,17793,85.91018940032598,Euskara <Librezale@librezale.org>
+ganglia,59,0,0,4,0,0,46,59,100.0,Euskara <debian-l10n-eu@lists.debian.org>
+garcon,95,0,14,31,0,3,91,109,87.1559633027523,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+gbrainy,8638,0,0,1139,0,0,6999,8638,100.0,Basque <itzulpena@euskalgnu.org>
+gcab,159,0,0,33,0,0,159,159,100.0,Basque <librezale@librezale.org>
+gcompris,11210,0,0,1344,0,0,8587,11210,100.0,Basque <itzulpena@euskalgnu.org>
+gconf-editor,2834,0,0,238,0,0,2246,2834,100.0,Basque <itzulpena@euskalgnu.org>
+gcr,700,0,0,254,0,0,642,700,100.0,Basque <librezale@librezale.org>
+gdesklets,894,0,634,158,0,46,765,1528,58.50785340314136,Basque <itzulpena@euskalgnu.org>
+gdk-pixbuf2,1393,0,0,208,0,0,1335,1393,100.0,Basque <librezale@librezale.eus>
+gdm,626,0,0,85,0,0,554,626,100.0,Basque <librezale@librezale.eus>
+geany,2855,309,2873,886,91,331,2482,6037,47.291701176080835,Euskara <librezale@librezale.org>
+geary,1279,0,1,368,0,1,1186,1280,99.921875,Basque <librezale@librezale.org>
+gedit,11843,0,0,1397,0,0,9228,11843,100.0,Basque <itzulpena@euskalgnu.org>
+gedit-latex,282,44,142,133,21,72,258,468,60.256410256410255,Basque <librezale@librezale.org>
+gedit-plugins,8461,0,9,822,0,1,6467,8470,99.89374262101535,Basque <itzulpena@euskalgnu.org>
+geeqie,1280,1036,1468,547,381,369,1204,3784,33.82663847780127,librezale <librezale@librezale.org>
+gegl03,8130,0,0,1719,0,0,6866,8130,100.0,Basque <librezale@librezale.eus>
+gegl04,8130,0,0,1719,0,0,6866,8130,100.0,Basque <librezale@librezale.eus>
+genius,7297,0,0,1003,0,0,6413,7297,100.0,Basque <itzulpena@euskalgnu.org>
+gettext,2940,1782,2120,380,176,143,2707,6842,42.969891844489915,Basque <translation-team-eu@lists.sourceforge.net>
+ggz-gtk-client,7,0,0,7,0,0,9,7,100.0,Basque <itzulpena@euskalgnu.org>
+ghex,973,0,0,233,0,0,830,973,100.0,Basque <itzulpena@euskalgnu.org>
+gigolo,521,0,0,142,0,0,463,521,100.0,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+gimp,29164,0,0,7387,0,0,24760,29164,100.0,Basque <librezale@librezale.eus>
+gimp-gap,15493,0,0,2423,0,0,14038,15493,100.0,Basque <librezale@librezale.org>
+gimp-lqr-plugin,52,48,828,21,7,103,46,928,5.603448275862069,LANGUAGE <LL@li.org>
+gip,103,0,0,31,0,0,93,103,100.0,Basque <translation-team-eu@lists.sourceforge.net>
+gitg,2034,0,0,365,0,0,1733,2034,100.0,Basque <librezale@librezale.eus>
+glade,6036,0,0,1257,0,0,5055,6036,100.0,Basque <itzulpena@euskalgnu.org>
+glade3,6236,41,4,1312,18,2,5182,6281,99.28355357427161,Basque <itzulpena@euskalgnu.org>
+glib-networking,163,0,0,29,0,0,166,163,100.0,Basque <librezale@librezale.eus>
+glib2,6932,0,0,1083,0,0,6570,6932,100.0,Basque <librezale@librezale.eus>
+glom,4915,0,0,860,0,0,3989,4915,100.0,Basque <librezale@librezale.org>
+glpi,11199,0,85,2942,0,16,10191,11284,99.24672102091458,Basque (Spain) (http://www.transifex.com/glpi/GLPI/language/eu_ES/)
+gnome-activity-journal,316,0,0,94,0,0,289,316,100.0,Basque <eu@li.org>
+gnome-backgrounds,29,0,0,18,0,0,32,29,100.0,Basque <librezale@librezale.org>
+gnome-bluetooth,373,0,0,111,0,0,315,373,100.0,Basque <librezale@librezale.eus>
+gnome-boxes,1147,0,0,273,0,0,1035,1147,100.0,Basque <librezale@librezale.eus>
+gnome-calculator,7595,0,0,1405,0,0,6047,7595,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-calendar,437,0,0,141,0,0,385,437,100.0,Basque <librezale@librezale.eus>
+gnome-characters,162,0,0,48,0,0,156,162,100.0,Basque <kde-i18n-doc@kde.org>
+gnome-chemistry-utils,4365,54,144,1238,10,19,3743,4563,95.66074950690336,LANGUAGE <LL@li.org>
+gnome-chess,4400,0,0,375,0,0,3605,4400,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-clocks,283,0,0,100,0,0,254,283,100.0,Basque <librezale@librezale.eus>
+gnome-color-manager,1796,0,0,345,0,0,1446,1796,100.0,Basque <librezale@librezale.eus>
+gnome-commander,8479,0,0,1646,0,0,6819,8479,100.0,Basque <librezale@librezale.org>
+gnome-contacts,422,0,0,146,0,0,384,422,100.0,Basque <librezale@librezale.eus>
+gnome-desktop,10013,0,0,302,0,0,7789,10013,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-desktop3,9722,0,0,265,0,0,7523,9722,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-dictionary,1851,0,0,245,0,0,1489,1851,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-disk-utility,3718,0,0,693,0,0,3105,3718,100.0,Basque <librezale@librezale.eus>
+gnome-do,612,0,0,144,0,0,541,612,100.0,Basque <eu@li.org>
+gnome-doc-utils,251,0,0,101,0,0,247,251,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-documents,655,0,0,208,0,0,611,655,100.0,Basque <librezale@librezale.eus>
+gnome-font-viewer,113,0,0,29,0,0,100,113,100.0,Basque <librezale@librezale.eus>
+gnome-hearts,376,2,31,101,1,4,257,409,91.93154034229829,Basque <eu@li.org>
+gnome-icon-theme,43,0,0,38,0,0,43,43,100.0,Basque <eu@li.org>
+gnome-initial-setup,766,0,0,120,0,0,647,766,100.0,Basque <librezale@librezale.eus>
+gnome-keyring,553,0,0,112,0,0,459,553,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-klotski,1352,0,0,130,0,0,1089,1352,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-libs,1085,0,0,395,0,0,986,1085,100.0,euskara <linux-eu@chanae.alphanet.ch>
+gnome-logs,371,5,0,121,1,0,337,376,98.67021276595744,Basque <librezale@librezale.eus>
+gnome-mahjongg,2473,0,0,165,0,0,1910,2473,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-maps,1184,2,0,303,1,0,1056,1186,99.83136593591905,Basque <librezale@librezale.eus>
+gnome-menus,70,0,0,27,0,0,62,70,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-mime-data,887,0,0,362,0,0,838,887,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-mines,3087,0,0,182,0,0,2439,3087,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-music,527,0,0,113,0,0,465,527,100.0,Basque <librezale@librezale.eus>
+gnome-nettool,664,0,0,219,0,0,587,664,100.0,Basque <kde-i18n-doc@kde.org>
+gnome-nibbles,447,0,0,110,0,0,355,447,100.0,Basque <librezale@librezale.eus>
+gnome-online-accounts,1153,0,0,336,0,0,1107,1153,100.0,Basque <librezale@librezale.eus>
+gnome-packagekit,3593,0,0,583,0,0,3122,3593,100.0,Basque <librezale@librezale.org>
+gnome-photos,470,0,0,197,0,0,456,470,100.0,Basque <librezale@librezale.eus>
+gnome-power-manager,480,0,0,147,0,0,410,480,100.0,Basque <librezale@librezale.org>
+gnome-robots,2557,0,0,203,0,0,2046,2557,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-screensaver,291,0,0,58,0,0,252,291,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-screenshot,457,0,0,80,0,0,365,457,100.0,Basque <librezale@librezale.eus>
+gnome-search-tool,3179,0,0,358,0,0,2456,3179,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-session,299,0,0,50,0,0,287,299,100.0,Basque <librezale@librezale.eus>
+gnome-settings-daemon,2659,0,0,384,0,0,2163,2659,100.0,Basque <librezale@librezale.eus>
+gnome-shell,1691,0,0,406,0,0,1485,1691,100.0,Basque <librezale@librezale.eus>
+gnome-shell-extension-openweather,476,93,50,181,13,7,410,619,76.89822294022616,Librezale <librezale@librezale.eus>
+gnome-shell-extensions,388,0,0,70,0,0,349,388,100.0,Basque <librezale@librezale.eus>
+gnome-software,3527,0,0,715,0,0,3085,3527,100.0,Basque <librezale@librezale.eus>
+gnome-sound-recorder,285,0,0,72,0,0,244,285,100.0,Basque <librezale@librezale.eus>
+gnome-sudoku,2902,0,0,202,0,0,2288,2902,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-system-log,1660,0,0,148,0,0,1331,1660,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-system-monitor,1462,0,0,313,0,0,1277,1462,100.0,Basque <librezale@librezale.eus>
+gnome-taquin,232,0,0,49,0,0,189,232,100.0,Basque <librezale@librezale.org>
+gnome-terminal,2554,0,0,487,0,0,2110,2554,100.0,Basque <librezale@librezale.eus>
+gnome-tetravex,1291,0,0,95,0,0,1044,1291,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-themes,109,0,0,30,0,0,107,109,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-themes-standard,15,0,0,6,0,0,14,15,100.0,Basque <librezale@librezale.eus>
+gnome-todo,717,0,0,161,0,0,652,717,100.0,Basque <librezale@librezale.eus>
+gnome-tweak-tool,436,0,0,150,0,0,423,436,100.0,Basque <librezale@librezale.eus>
+gnome-user-share,52,0,0,10,0,0,47,52,100.0,Basque <librezale@librezale.org>
+gnome-vfs2,1519,0,0,305,0,0,1311,1519,100.0,Basque <itzulpena@euskalgnu.org>
+gnome-video-effects,256,0,0,68,0,0,205,256,100.0,Basque <librezale@librezale.org>
+gnome-weather,192,0,0,42,0,0,169,192,100.0,Basque <librezale@librezale.org>
+gnomebaker,271,325,1757,93,69,416,248,2353,11.517212069698257,Basque <gnome@euskalgnu.org>
+gnote,3237,0,0,526,0,0,2770,3237,100.0,Basque <librezale@librezale.org>
+gnotime,1077,341,590,267,72,90,949,2008,53.635458167330675,Euskara
+gnubik,84,85,110,25,16,42,66,279,30.107526881720432,Euskara <3arrano@3arrano.com>
+gnucash,7933,9054,9816,2059,1339,861,6487,26803,29.597433123157856,Basque <translation-team-eu@lists.sourceforge.net>
+gnumeric,31524,1558,2083,4986,376,283,28224,35165,89.64595478458695,Basque <itzulpena@euskalgnu.org>
+gobby,900,0,0,190,0,0,764,900,100.0,Basque <eu@li.org>
+goffice,4401,951,849,1480,312,209,4020,6201,70.97242380261248,American English <kde-i18n-doc@kde.org>
+goffice08,4661,0,0,1575,0,0,4283,4661,100.0,American English <kde-i18n-doc@kde.org>
+gparted,2595,0,0,447,0,0,2165,2595,100.0,Basque <librezale@librezale.eus>
+gphoto2,800,462,481,179,70,88,715,1743,45.897877223178426,Basque <translation-team-eu@lists.sourceforge.net>
+gpicview,236,0,0,52,0,0,213,236,100.0,<alainmendi@gmail.com>
+gpodder,1538,174,167,425,47,30,1433,1879,81.85204896221394,Basque (http://www.transifex.com/projects/p/gpodder/language/eu/)
+granatier,202,28,12,53,9,5,179,242,83.47107438016529,Basque <itzulpena@euskalgnu.org>
+granite,102,0,54,39,0,18,108,156,65.38461538461539,Basque <eu@li.org>
+grep,43,218,620,15,23,69,44,881,4.880817253121453,Basque <translation-team-eu@lists.sourceforge.net>
+gretl,13294,1770,883,3480,404,138,12144,15947,83.36364206433812,
+grilo,194,0,0,37,0,0,205,194,100.0,Basque <librezale@librezale.org>
+grilo-plugins,536,0,0,133,0,0,499,536,100.0,Basque <librezale@librezale.org>
+grub-customizer,443,0,852,117,0,76,413,1295,34.20849420849421,Basque <eu@li.org>
+gscan2pdf,1690,0,150,488,0,18,1730,1840,91.84782608695652,librezale.org
+gsettings-desktop-schemas,6311,0,0,566,0,0,5344,6311,100.0,Basque <librezale@librezale.eus>
+gstreamer,1697,74,146,317,14,17,1459,1917,88.52373500260823,Basque <translation-team-eu@lists.sourceforge.net>
+gstreamer-plugins-bad-free,72,4,20,12,1,1,67,96,75.0,Basque <translation-team-eu@lists.sourceforge.net>
+gstreamer-plugins-base,658,9,241,135,1,42,660,908,72.4669603524229,Basque <translation-team-eu@lists.sourceforge.net>
+gstreamer-plugins-good,747,37,30,179,5,6,718,814,91.76904176904176,Basque <translation-team-eu@lists.sourceforge.net>
+gstreamer1,1548,204,326,294,32,49,1337,2078,74.49470644850818,Basque <translation-team-eu@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,49,26,133,8,4,19,47,208,23.557692307692307,Basque <translation-team-eu@lists.sourceforge.net>
+gstreamer1-plugins-base,407,78,464,85,20,93,397,949,42.887249736564804,Basque <translation-team-eu@lists.sourceforge.net>
+gstreamer1-plugins-good,446,219,96,61,29,17,416,761,58.60709592641261,Basque <translation-team-eu@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,83,15,20,10,2,1,84,118,70.33898305084746,Basque <translation-team-eu@lists.sourceforge.net>
+gtg,8,0,3489,8,0,292,8,3497,0.22876751501286818,Basque <eu@li.org>
+gthumb,8275,0,0,1525,0,0,6804,8275,100.0,Basque <itzulpena@euskalgnu.org>
+gtick,89,200,49,36,24,36,92,338,26.331360946745562,Basque <translation-team-eu@lists.sourceforge.net>
+gtk+,202,0,0,105,0,0,187,202,100.0,euskare <linux-eu@chanae.alphanet.ch>
+gtk-vnc,81,0,0,22,0,0,89,81,100.0,Basque <itzulpena@euskalgnu.org>
+gtk2,11944,0,0,2256,0,0,9827,11944,100.0,Basque <itzulpena@euskalgnu.org>
+gtk2-engines,119,0,0,47,0,0,111,119,100.0,Basque <itzulpena@euskalgnu.org>
+gtk3,16019,0,0,3587,0,0,13482,16019,100.0,Basque <librezale@librezale.eus>
+gtk4,12416,0,0,2969,0,0,10595,12416,100.0,Basque <librezale@librezale.eus>
+gtkhtml3,522,0,0,317,0,0,524,522,100.0,Basque <librezale@librezale.org>
+gtksourceview2,1413,0,0,538,0,0,1273,1413,100.0,Basque <itzulpena@euskalgnu.org>
+gtksourceview3,1156,0,0,630,0,0,1112,1156,100.0,Basque <librezale@librezale.eus>
+gtkspell,11,0,0,5,0,0,11,11,100.0,Basque <translation-team-eu@lists.sourceforge.net>
+gtkspell3,15,0,0,6,0,0,15,15,100.0,Basque <translation-team-eu@lists.sourceforge.net>
+gtranslator,4306,0,0,660,0,0,3457,4306,100.0,Basque <itzulpena@euskalgnu.org>
+gtypist,443,85,28,79,6,6,445,556,79.67625899280576,
+gucharmap,1230,0,0,409,0,0,1119,1230,100.0,Basque <librezale@librezale.eus>
+gvfs,2139,0,0,411,0,0,2066,2139,100.0,Basque <librezale@librezale.eus>
+gwenview,864,225,216,287,49,26,805,1305,66.20689655172414,Basque <itzulpena@euskalgnu.org>
+gwget,379,0,0,103,0,0,359,379,100.0,Basque <itzulpena@euskalgnu.org>
+hamster-time-tracker,696,1,0,171,1,0,593,697,99.85652797704448,American English <itzulpena@euskalgnu.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hexchat,1804,0,4167,753,0,693,1698,5971,30.21269469100653,Basque (http://www.transifex.com/hexchat/hexchat/language/eu/)
+hitori,174,0,0,36,0,0,133,174,100.0,Basque <librezale@librezale.eus>
+hivex,6,0,264,1,0,21,7,270,2.2222222222222223,Basque (http://www.transifex.com/projects/p/hivex/language/eu/)
+homebank,791,0,1628,340,0,427,695,2419,32.69946258784622,Basque <eu@li.org>
+hugin,4770,1442,2517,973,309,282,4210,8729,54.6454347577042,Basque <LL@li.org>
+iagno,2792,0,0,193,0,0,2251,2792,100.0,Basque <itzulpena@euskalgnu.org>
+ibus,96,0,751,50,0,105,102,847,11.334120425029516,Basque <trans-eu@lists.fedoraproject.org>
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Basque
+initscripts,4,7,963,2,2,145,6,974,0.41067761806981523,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+inkscape,32683,3195,2336,7200,682,263,28127,38214,85.52624692521066,Basque <librezale@librezale.org>
+input-pad,104,0,1735,72,0,613,108,1839,5.655247417074497,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+iso-codes,1652,6295,14436,835,5009,9024,1451,22383,7.380601349238261,Basque <debian-l10n-basque@lists.debian.org>
+isomaster,44,1,629,28,1,78,45,674,6.528189910979229,http://littlesvr.ca/ostd/
+jmol,2295,115,756,843,40,138,2134,3166,72.48894504106129,Basque <eu@li.org>
+json-glib,303,0,0,44,0,0,270,303,100.0,Basque <librezale@librezale.eus>
+juk,1032,252,169,287,26,42,892,1453,71.02546455609084,Basque <kde-i18n-doc@kde.org>
+k3b,18137,1933,151,2368,132,20,15423,20221,89.69388259729983,Basque <itzulpena@euskalgnu.org>
+kactivitymanagerd,9,0,0,4,0,0,10,9,100.0,Basque <kde-i18n-doc@kde.org>
+kaddressbook,75,291,379,35,85,47,75,745,10.06711409395973,<eu@li.org>
+kalarm,2030,3515,1791,400,471,154,1635,7336,27.671755725190838,Basque <kde-i18n-doc@kde.org>
+kalgebra,123,25,12,65,10,4,121,160,76.875,Basque <itzulpena@euskalgnu.org>
+kalzium,5057,2725,2586,798,345,363,3993,10368,48.77507716049383,Basque <itzulpena@euskalgnu.org>
+kamera,283,59,0,34,3,0,232,342,82.7485380116959,Basque <itzulpena@euskalgnu.org>
+kamoso,19,42,58,8,12,21,19,119,15.966386554621847,Basque <itzulpena@euskalgnu.org>
+kanagram,228,186,114,74,29,42,206,528,43.18181818181818,Basque <itzulpena@euskalgnu.org>
+kapman,108,0,6,34,0,2,102,114,94.73684210526315,Basque <itzulpena@euskalgnu.org>
+kate,2349,555,677,657,113,123,2077,3581,65.59620217816253,Basque <itzulpena@euskalgnu.org>
+katomic,112,19,54,45,5,9,113,185,60.54054054054055,Basque <itzulpena@euskalgnu.org>
+kaudiocreator,821,90,225,218,23,32,722,1136,72.27112676056338,Basque <itzulpena@euskalgnu.org>
+kblackbox,1327,32,1,99,1,1,983,1360,97.57352941176471,Basque <kde-i18n-doc@kde.org>
+kblocks,152,7,0,36,2,0,156,159,95.59748427672956,Basque <itzulpena@euskalgnu.org>
+kbounce,107,14,33,30,2,10,96,154,69.48051948051948,Basque <itzulpena@euskalgnu.org>
+kbruch,1044,294,7,173,18,4,793,1345,77.62081784386618,Basque <itzulpena@euskalgnu.org>
+kcachegrind,1714,11,11,191,2,3,1396,1736,98.73271889400922,Basque <kde-i18n-doc@kde.org>
+kcalc,976,0,0,326,0,0,833,976,100.0,Basque <kde-i18n-doc@kde.org>
+kcharselect,88,0,0,34,0,0,87,88,100.0,Basque <kde-i18n-doc@kde.org>
+kcolorchooser,14,10,5,6,2,2,12,29,48.275862068965516,Basque <itzulpena@euskalgnu.org>
+kcoloredit,8,92,178,5,29,61,11,278,2.877697841726619,Basque <kdeuskaraz@euskalgnu.org>
+kcron,534,0,0,190,0,0,449,534,100.0,Basque <itzulpena@euskalgnu.org>
+kde-cli-tools,2188,0,0,228,0,0,1862,2188,100.0,Basque <kde-i18n-doc@kde.org>
+kde-connect,578,100,54,150,5,22,548,732,78.96174863387978,Basque (https://www.transifex.com/librezale/teams/76827/eu/)
+kde-dev-utils,33,9,23,12,2,11,34,65,50.76923076923077,Euskara <eu@li.org>
+kde-gtk-config,309,0,0,76,0,0,293,309,100.0,Basque <kde-i18n-doc@kde.org>
+kde-l10n,92651,1995,3467,19237,327,422,80013,98113,94.43294976200912,Basque <kde-i18n-doc@kde.org>
+kde-print-manager,962,0,0,273,0,0,922,962,100.0,Basque <kde-i18n-doc@kde.org>
+kdebugsettings,119,0,0,37,0,0,104,119,100.0,Basque <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,36,0,6,11,0,1,31,42,85.71428571428571,Basque <itzulpena@euskalgnu.org>
+kdepim-addons,213,757,970,118,133,105,205,1940,10.97938144329897,<eu@li.org>
+kdepim-runtime,105,64,50,13,4,6,96,219,47.94520547945205,basque <itzulpena@euskalgnu.org>
+kdeplasma-addons,1559,0,0,565,0,0,1530,1559,100.0,Basque <kde-i18n-doc@kde.org>
+kdevelop,164,72,453,42,24,101,154,689,23.802612481857764,<en@li.org>
+kdf,181,0,0,69,0,0,182,181,100.0,Basque <kde-i18n-doc@kde.org>
+kdialog,232,53,62,51,7,12,200,347,66.85878962536023,Basque <itzulpena@euskalgnu.org>
+kdiamond,122,0,0,32,0,0,128,122,100.0,Basque <itzulpena@euskalgnu.org>
+kdnssd,21,9,0,6,1,0,21,30,70.0,Basque <itzulpena@euskalgnu.org>
+keditbookmarks,418,48,0,127,5,0,389,466,89.69957081545064,Basque <itzulpena@euskalgnu.org>
+kexi,3165,3450,696,889,502,86,2796,7311,43.29093147312269,Basque <kde-i18n-eu@kde.org>
+kf5-audiocd-kio,775,43,23,155,19,3,676,841,92.15219976218788,Basque <kde-i18n-doc@lists.kde.org>
+kf5-baloo,843,0,0,190,0,0,729,843,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-calendarsupport,984,1246,737,113,223,73,772,2967,33.16481294236603,Basque <itzulpena@euskalgnu.org>
+kf5-kalarmcal,1,39,0,1,19,0,1,40,2.5,Basque <kde-i18n-doc@kde.org>
+kf5-kauth,73,0,0,8,0,0,72,73,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,205,230,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kcmutils,564,0,0,72,0,0,455,564,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,270,348,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,19,18,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kconfig,261,0,0,100,0,0,235,261,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,321,0,0,117,0,0,283,321,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,301,0,0,95,0,0,352,301,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,45,48,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,95,109,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,4850,4813,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,44,54,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,20,19,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Basque <itzulpena@euskalgnu.org>
+kf5-kfilemetadata,148,0,0,82,0,0,148,148,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,52,71,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kholidays,109,0,0,77,0,0,108,109,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1411,1721,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-ki18n,124,0,0,110,0,0,127,124,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kiconthemes,37,0,0,18,0,0,36,37,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kinit,134,0,0,14,0,0,103,134,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kio,12165,0,0,1360,0,0,9798,12165,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kirigami2,10,0,0,6,0,0,10,10,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,123,0,0,36,0,0,112,123,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,247,248,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kldap,20,10,3,5,2,1,21,33,60.60606060606061,Basque <itzulpena@euskalgnu.org>
+kf5-kmime,158,1,0,9,1,0,111,159,99.37106918238993,Euskara <kdeuskaraz@euskalgnu.org>
+kf5-knewstuff,690,0,0,158,0,0,615,690,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-knotifications,18,0,0,6,0,0,15,18,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,98,129,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kpackage,495,0,0,97,0,0,463,495,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kparts,104,0,0,26,0,0,83,104,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kpeople,21,0,0,11,0,0,19,21,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,14,15,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,95,100,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kservice,170,0,0,28,0,0,153,170,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-ktexteditor,8377,0,0,1216,0,0,6877,8377,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,386,462,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kunitconversion,5266,0,0,2244,0,0,5058,5266,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kwallet,1624,0,0,131,0,0,1381,1624,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1319,0,0,458,0,0,1190,1319,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1596,0,0,228,0,0,1320,1596,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,13,13,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-libkcddb,424,9,124,217,5,29,417,557,76.12208258527828,Basque <itzulpena@euskalgnu.org>
+kf5-libkdepim,62,199,204,21,63,43,60,465,13.333333333333334,<eu@li.org>
+kf5-libkleo,285,71,794,92,25,173,257,1150,24.782608695652176,Basque <kdeuskaraz@euskalgnu.org>
+kf5-libksane,233,0,39,80,0,3,213,272,85.66176470588235,Basque <itzulpena@euskalgnu.org>
+kf5-libksieve,438,8,2907,66,6,481,427,3353,13.062928720548761,Euskara <kdeuskaraz@euskalgnu.org>
+kf5-libktorrent,471,0,0,106,0,0,470,471,100.0,Basque <itzulpena@euskalgnu.org>
+kf5-mailimporter,581,668,159,55,38,34,456,1408,41.26420454545455,Basque <kde-i18n-doc@kde.org>
+kf5-messagelib,740,1344,1265,149,376,154,595,3349,22.096148103911613,Basque <itzulpena@euskalgnu.org>
+kf5-plasma,506,0,0,148,0,0,427,506,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-purpose,255,0,0,67,0,0,239,255,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-solid,682,0,0,222,0,0,602,682,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-sonnet,663,0,0,72,0,0,508,663,100.0,Basque <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,454,0,0,296,0,0,450,454,100.0,Basque <kde-i18n-doc@kde.org>
+kfind,496,7,2,115,2,1,458,505,98.21782178217822,Basque <itzulpena@euskalgnu.org>
+kflickr,65,0,267,41,0,46,81,332,19.57831325301205,Basque <eu@li.org>
+kfloppy,641,0,0,100,0,0,569,641,100.0,Basque <kde-i18n-doc@kde.org>
+kfourinline,216,77,99,88,31,38,209,392,55.10204081632652,Basque <itzulpena@euskalgnu.org>
+kgamma,130,0,0,16,0,0,101,130,100.0,Basque <itzulpena@euskalgnu.org>
+kgeography,9141,316,242,6760,225,148,9171,9699,94.24682957005876,Basque <itzulpena@euskalgnu.org>
+kget,2754,148,16,763,21,6,2430,2918,94.37971213159699,Basque <itzulpena@euskalgnu.org>
+kgoldrunner,13113,1178,9266,563,120,225,9349,23557,55.66498280765803,Basque <itzulpena@euskalgnu.org>
+kgpg,4898,242,142,639,41,18,4072,5282,92.7300265051117,Basque <kde-i18n-doc@kde.org>
+kgraphviewer,988,224,39,225,9,8,820,1251,78.97681854516388,Basque <itzulpena@euskalgnu.org>
+khangman,281,67,125,73,16,30,204,473,59.40803382663847,Basque <itzulpena@euskalgnu.org>
+khelpcenter,215,18,23,79,6,2,198,256,83.984375,Basque <kde-i18n-doc@kde.org>
+khotkeys,436,0,0,129,0,0,395,436,100.0,Basque <kde-i18n-doc@kde.org>
+kiconedit,682,11,33,135,5,15,549,726,93.93939393939394,Basque <kdeuskaraz@euskalgnu.org>
+kig,6775,859,122,1120,136,35,5364,7756,87.35172769468798,Basque <itzulpena@euskalgnu.org>
+kinfocenter,2919,0,0,1010,0,0,2734,2919,100.0,Basque <kde-i18n-doc@kde.org>
+kio-extras,832,29,29,109,8,9,725,890,93.48314606741573,Euskara <itzulpena@euskalgnu.org>
+kiten,371,74,196,106,19,54,330,641,57.87831513260531,Basque <itzulpena@euskalgnu.org>
+kjots,213,56,130,70,12,24,190,399,53.383458646616546,Basque <itzulpena@euskalgnu.org>
+kjumpingcube,129,36,247,36,10,49,109,412,31.31067961165049,Basque <itzulpena@euskalgnu.org>
+klavaro,1911,0,0,232,0,0,1790,1911,100.0,Basque <translation-team-eu@lists.sourceforge.net>
+kleopatra,231,1980,6403,73,433,804,227,8614,2.6816809844439287,<eu@li.org>
+klettres,387,41,8,74,6,3,331,436,88.76146788990825,Basque <itzulpena@euskalgnu.org>
+klines,92,5,2,26,1,1,82,99,92.92929292929293,Basque <itzulpena@euskalgnu.org>
+kmag,432,0,0,98,0,0,361,432,100.0,Basque <itzulpena@euskalgnu.org>
+kmahjongg,277,35,28,85,6,7,260,340,81.47058823529412,Basque <itzulpena@euskalgnu.org>
+kmail,3311,2840,1817,500,459,181,2645,7968,41.553714859437754,Basque <itzulpena@euskalgnu.org>
+kmenuedit,277,0,0,61,0,0,231,277,100.0,Basque <kde-i18n-doc@kde.org>
+kmines,98,4,6,35,1,2,87,108,90.74074074074075,Basque <itzulpena@euskalgnu.org>
+kmix,434,127,346,121,30,68,383,907,47.85005512679162,Basque <itzulpena@euskalgnu.org>
+kmousetool,147,0,0,32,0,0,124,147,100.0,Basque <itzulpena@euskalgnu.org>
+kmplot,2326,130,2,443,26,2,1853,2458,94.62978030919447,Basque <itzulpena@euskalgnu.org>
+kmymoney,19806,597,623,3291,69,33,16267,21026,94.19766003995053,Basque <kde-i18n-doc@kde.org>
+knavalbattle,241,73,85,80,6,16,234,399,60.40100250626567,Basque <itzulpena@euskalgnu.org>
+knetwalk,107,18,105,26,1,27,96,230,46.52173913043478,Basque <itzulpena@euskalgnu.org>
+knotes,135,161,318,62,55,76,131,614,21.986970684039086,<eu@li.org>
+koffice-kivio,6078,529,1810,1894,194,273,5518,8417,72.21100154449329,Basque <kdeuskaraz@euskalgnu.org>
+kolf,356,24,16,134,7,6,322,396,89.8989898989899,Basque <itzulpena@euskalgnu.org>
+kolourpaint,1814,787,22,433,12,7,1613,2623,69.15745329775066,Basque <itzulpena@euskalgnu.org>
+kompare,1386,43,1,186,9,1,1105,1430,96.92307692307692,Basque <itzulpena@euskalgnu.org>
+konqueror,8277,495,255,1284,60,46,6932,9027,91.69159189099368,Basque <itzulpena@euskalgnu.org>
+konquest,165,46,35,58,21,19,156,246,67.07317073170732,Basque <itzulpena@euskalgnu.org>
+konsole5,910,903,838,215,206,127,782,2651,34.32666918144097,Basque <itzulpena@euskalgnu.org>
+kontact,42,160,396,15,39,44,41,598,7.023411371237458,Basque <kdeuskaraz@euskalgnu.org>
+korganizer,1462,2423,2402,195,401,233,1145,6287,23.254334340703036,Basque <itzulpena@euskalgnu.org>
+kpat,159,97,180,59,30,43,150,436,36.46788990825688,Basque <itzulpena@euskalgnu.org>
+kphotoalbum,3777,2274,3513,506,279,234,3060,9564,39.4918444165621,Basque <itzulpena@euskalgnu.org>
+kpilot,5176,972,1008,580,164,117,4105,7156,72.3309111235327,<eu@li.org>
+krdc,1097,122,57,256,15,15,956,1276,85.9717868338558,Basque <itzulpena@euskalgnu.org>
+kreport,0,346,124,0,183,30,0,470,0.0,Basque <kde-i18n-doc@kde.org>
+kreversi,428,0,0,141,0,0,420,428,100.0,Basque <kde-i18n-doc@kde.org>
+krfb,278,137,229,53,11,24,251,644,43.16770186335403,Basque <itzulpena@euskalgnu.org>
+krita,7458,7264,10803,2549,2761,871,6729,25525,29.218413320274237,Basque <kde-i18n-eu@kde.org>
+kruler,130,41,13,38,3,6,107,184,70.65217391304348,Basque <itzulpena@euskalgnu.org>
+kscreen,213,0,0,64,0,0,204,213,100.0,Basque <kde-i18n-doc@kde.org>
+kscreenlocker,190,0,0,33,0,0,160,190,100.0,Basque <kde-i18n-doc@kde.org>
+kshisen,460,60,2,59,6,1,360,522,88.12260536398468,Basque <itzulpena@euskalgnu.org>
+ksig,71,2,12,17,1,8,62,85,83.52941176470588,Basque <itzulpena@euskalgnu.org>
+ksnakeduel,222,8,1,50,2,1,203,231,96.1038961038961,Basque <itzulpena@euskalgnu.org>
+kspaceduel,165,0,0,81,0,0,159,165,100.0,Basque <itzulpena@euskalgnu.org>
+ksquares,251,0,6,73,0,3,202,257,97.66536964980544,Basque <itzulpena@euskalgnu.org>
+ksshaskpass,43,0,0,12,0,0,40,43,100.0,Basque <kde-i18n-doc@kde.org>
+kstars,14966,13226,28520,3337,6019,6577,12198,56712,26.389476653970938,Basque <itzulpena@euskalgnu.org>
+ksudoku,291,79,1289,67,15,76,248,1659,17.540687160940323,Basque <itzulpena@euskalgnu.org>
+ksysguard,1078,0,0,233,0,0,870,1078,100.0,Basque <kde-i18n-doc@kde.org>
+ksystemlog,3034,0,0,479,0,0,2501,3034,100.0,Basque <kde-i18n-doc@kde.org>
+kteatime,201,0,0,65,0,0,188,201,100.0,Basque <kde-i18n-doc@kde.org>
+ktimer,241,0,0,51,0,0,211,241,100.0,Basque <kde-i18n-doc@kde.org>
+ktorrent,7264,178,96,1349,22,11,6087,7538,96.3650835765455,Basque <itzulpena@euskalgnu.org>
+ktouch,35,413,423,16,119,107,35,871,4.018369690011482,Basque <itzulpena@euskalgnu.org>
+ktuberling,94,57,7,30,4,4,85,158,59.49367088607595,Basque <itzulpena@euskalgnu.org>
+kturtle,1211,170,146,290,29,27,1038,1527,79.30582842174198,Basque <itzulpena@euskalgnu.org>
+kubrick,351,4,848,91,1,73,328,1203,29.177057356608476,Basque <itzulpena@euskalgnu.org>
+kupfer,2065,137,277,595,42,55,1848,2479,83.29971762807584,Basque <itzulpena@euskalgnu.org>
+kwalletmanager5,704,21,77,148,6,12,632,802,87.78054862842892,Basque <kde-i18n-doc@kde.org>
+kwebkitpart,432,91,101,115,19,24,386,624,69.23076923076923,Basque <itzulpena@euskalgnu.org>
+kwin,6231,0,0,1212,0,0,5441,6231,100.0,Basque <kde-i18n-doc@kde.org>
+kwordquiz,1610,168,247,336,38,39,1304,2025,79.50617283950618,Basque <itzulpena@euskalgnu.org>
+l3afpad,113,0,17,61,0,3,118,130,86.92307692307692,Basque <translation-team-eu@lists.sourceforge.net>
+labyrinth,94,52,80,30,12,31,86,226,41.5929203539823,
+lasem,29,0,0,10,0,0,30,29,100.0,Basque <librezale@librezale.org>
+latexila,2104,76,45,536,23,17,1789,2225,94.56179775280899,Basque <librezale@librezale.org>
+ldm,55,0,0,19,0,0,47,55,100.0,Basque <debian-l10n-basque@lists.debian.org>
+leafpad,125,0,0,68,0,0,127,125,100.0,Basque <translation-team-eu@lists.sourceforge.net>
+libbonobo,543,0,0,107,0,0,478,543,100.0,Basque <itzulpena@euskalgnu.org>
+libbonoboui,368,0,0,115,0,0,328,368,100.0,Basque <itzulpena@euskalgnu.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Basque
+libcryptui,3068,0,0,655,0,0,2719,3068,100.0,Basque <itzulpena@euskalgnu.org>
+libgda,11386,0,0,2075,0,0,10286,11386,100.0,Basque <librezale@librezale.org>
+libgdata,684,0,0,84,0,0,591,684,100.0,Basque <librezale@librezale.eus>
+libgdl,659,0,0,96,0,0,533,659,100.0,Basque <librezale@librezale.org>
+libgnome,1773,0,0,273,0,0,1551,1773,100.0,Basque <itzulpena@euskalgnu.org>
+libgnome-games-support,43,0,0,14,0,0,40,43,100.0,Basque <librezale@librezale.eus>
+libgnome-keyring,44,0,0,9,0,0,38,44,100.0,Basque <itzulpena@euskalgnu.org>
+libgnomecanvas,378,0,0,95,0,0,346,378,100.0,Basque <itzulpena@euskalgnu.org>
+libgnomekbd,242,0,0,55,0,0,201,242,100.0,Basque <itzulpena@euskalgnu.org>
+libgnomeui,1309,0,0,334,0,0,1112,1309,100.0,<eu@li.org>
+libgovirt,102,0,0,23,0,0,118,102,100.0,Basque <librezale@librezale.org>
+libgphoto2,4505,3711,3196,839,855,812,4233,11412,39.47599018576937,<itzulpena@euskalgnu.org>
+libgsf,719,0,0,149,0,0,669,719,100.0,Basque <librezale@librezale.org>
+libgtop2,126,0,0,40,0,0,113,126,100.0,Basque <librezale@librezale.eus>
+libguestfs,191,1,212541,91,1,18392,186,212733,0.08978390752727597,Basque (http://www.transifex.com/projects/p/libguestfs/language/eu/)
+libgweather,6370,0,0,4679,0,0,6243,6370,100.0,Basque <librezale@librezale.eus>
+libgxim,0,0,124,0,0,24,0,124,0.0,Basque
+libkdegames,343,23,4,121,8,3,314,370,92.7027027027027,Basque <itzulpena@euskalgnu.org>
+libkeduvocdocument,146,19,6,76,4,1,150,171,85.38011695906432,Basque <itzulpena@euskalgnu.org>
+libkmahjongg,7,0,0,7,0,0,8,7,100.0,Euskara <kde-i18n-doc@kde.org>
+libkomparediff2,143,0,0,19,0,0,125,143,100.0,Basque <itzulpena@euskalgnu.org>
+libksysguard,3166,0,0,396,0,0,2773,3166,100.0,Basque (https://www.transifex.com/librezale/teams/76827/eu/)
+libktorrent,77,279,163,23,61,31,81,519,14.836223506743737,Basque <itzulpena@euskalgnu.org>
+libmatekbd,243,0,8,41,0,2,205,251,96.81274900398407,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+libmatemixer,96,0,146,63,0,63,96,242,39.66942148760331,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+libmateweather,3545,2126,470,2685,1681,198,3472,6141,57.72675460022798,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+libosinfo,0,0,662,0,0,145,0,662,0.0,Basque
+libpaper,73,0,0,46,0,0,72,73,100.0,basque <debian-l10n-basque@lists.debian.org>
+libpeas,112,0,0,34,0,0,111,112,100.0,Basque <Basque <librezale@librezale.org>>
+libpwquality,108,0,235,23,0,30,85,343,31.486880466472307,Basque (http://www.transifex.com/projects/p/libpwquality/language/eu/)
+libreoffice,556345,0,0,76541,0,0,432427,556345,100.0,LANGUAGE <LL@li.org>
+libreport,181,0,4806,68,0,539,174,4987,3.629436534990976,Basque (http://www.transifex.com/projects/p/libreport/language/eu/)
+libsecret,59,0,0,9,0,0,50,59,100.0,Basque <librezale@librezale.org>
+libsoup,155,0,0,36,0,0,176,155,100.0,Basque <librezale@librezale.eus>
+libuser,58,0,1379,24,0,277,55,1437,4.036186499652053,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+libvirt,926,4741,56616,218,837,8607,926,62283,1.486762037795225,Basque (Spain) (http://www.transifex.com/projects/p/fedora/language/eu_ES/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Basque (http://www.transifex.com/projects/p/libvirt-glib/language/eu/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+libwnck,1124,0,0,241,0,0,991,1124,100.0,Basque <itzulpena@euskalgnu.org>
+libwnck3,1084,0,0,230,0,0,950,1084,100.0,American English <kde-i18n-doc@kde.org>
+libxfce4ui,850,0,0,164,0,0,704,850,100.0,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+libxfce4util,424,0,0,7,0,0,428,424,100.0,Librezale <Librezale@librezale.org>
+lifeograph,1057,0,0,284,0,0,1004,1057,100.0,Basque <eu@li.org>
+liferea,1830,171,212,437,32,26,1636,2213,82.69317668323542,Basque <translation-team-eu@lists.sourceforge.net>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Basque (http://www.transifex.com/the_cavalry/light-locker/language/eu/)
+lightdm,79,0,84,17,0,4,65,163,48.466257668711656,Basque <eu@li.org>
+lightdm-gtk,35,0,52,12,0,13,33,87,40.229885057471265,Basque <eu@li.org>
+lightdm-settings,271,0,0,59,0,0,215,271,100.0,Basque <eu@li.org>
+lightsoff,96,0,0,18,0,0,75,96,100.0,Basque <librezale@librezale.eus>
+lokalize,1680,195,1682,404,56,135,1474,3557,47.230812482429016,Basque <itzulpena@euskalgnu.org>
+lskat,233,21,0,79,4,0,219,254,91.73228346456693,Basque <itzulpena@euskalgnu.org>
+lxappearance,234,0,0,80,0,0,215,234,100.0,LANGUAGE <LL@li.org>
+lxappearance-obconf,196,0,0,27,0,0,173,196,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,48,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,72,83,100.0,LANGUAGE <LL@li.org>
+lxlauncher,58,0,0,17,0,0,53,58,100.0,Basque <alainmendi@gmail.com>
+lxmenu-data,97,0,0,37,0,0,91,97,100.0,Basque <itzulpena@euskalgnu.org>
+lxmusic,203,0,0,89,0,0,187,203,100.0,Basque <alainmendi@gmail.com>
+lxrandr,167,0,0,41,0,0,152,167,100.0,Basque <alainmendi@gmail.com>
+lxsession,421,2,332,139,1,26,359,755,55.76158940397351,Basque <alainmendi@gmail.com>
+lxshortcut,0,0,43,0,0,19,0,43,0.0,LANGUAGE <LL@li.org>
+lxtask,130,0,0,51,0,0,130,130,100.0,librezale <librezale@librezale.org>
+lxterminal,202,0,0,98,0,0,196,202,100.0,Basque <alainmendi@gmail.com>
+lyx,25268,26,31,7220,7,1,22334,25325,99.77492596248766,Basque <librezale@librezale.eus>
+mailman,14336,2376,7331,1193,98,149,11946,24043,59.62650251632492,Euskara <eu@li.org>
+man-db,6,147,82,3,28,23,5,235,2.553191489361702,Basque <translation-team-eu@lists.sourceforge.net>
+marco,3295,0,853,370,0,43,2867,4148,79.43587270973963,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mariadb,151,33,80,12,3,5,114,264,57.1969696969697,Euskara <debian-l10n-eu@lists.debian.org>
+mate-applets,13563,0,318,1456,0,58,10977,13881,97.70909876810028,Basque <itzulpena@euskalgnu.org>
+mate-backgrounds,30,0,0,21,0,0,29,30,100.0,Basque (http://www.transifex.com/mate/MATE/language/eu/)
+mate-calc,7189,0,193,1241,0,10,5685,7382,97.38553237604985,Basque <itzulpena@euskalgnu.org>
+mate-control-center,2405,0,253,566,0,62,2112,2658,90.48156508653122,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-desktop,1834,0,471,269,0,30,1574,2305,79.56616052060738,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-media,172,0,54,76,0,20,153,226,76.10619469026548,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-menu,316,0,0,118,0,0,294,316,100.0,Basque (http://www.transifex.com/mate/MATE/language/eu/)
+mate-menus,97,0,0,37,0,0,89,97,100.0,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-notification-daemon,139,0,0,37,0,0,138,139,100.0,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-panel,5598,0,502,679,0,63,4532,6100,91.77049180327869,Basque <itzulpena@euskalgnu.org>
+mate-polkit,96,0,26,16,0,4,88,122,78.68852459016394,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-power-manager,5979,0,1018,545,0,106,4683,6997,85.45090753179934,Basque <itzulpena@euskalgnu.org>
+mate-screensaver,852,0,131,142,0,14,672,983,86.6734486266531,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-sensors-applet,209,0,97,74,0,32,191,306,68.30065359477125,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-session-manager,468,0,213,101,0,13,413,681,68.72246696035242,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-settings-daemon,1135,0,629,195,0,58,946,1764,64.34240362811792,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-system-monitor,539,0,794,188,0,125,475,1333,40.4351087771943,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-terminal,3980,0,669,479,0,46,2959,4649,85.60980856098087,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-themes,58,0,2,11,0,1,52,60,96.66666666666667,Basque (http://www.transifex.com/mate/MATE/language/eu/)
+mate-user-guide,26621,0,14200,1724,0,1207,19787,40821,65.21398299894662,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+mate-utils,8846,0,418,1045,0,38,6984,9264,95.48791018998273,Basque <itzulpena@euskalgnu.org>
+maya-calendar,388,0,6,162,0,2,360,394,98.47715736040608,Basque <eu@li.org>
+mc,4106,13,34,1211,1,6,3976,4153,98.86828798458946,Basque (http://www.transifex.com/mc/mc/language/eu/)
+meld,2232,0,0,447,0,0,2080,2232,100.0,Basque <librezale@librezale.org>
+menulibre,354,0,495,124,0,40,282,849,41.69611307420495,Basque <eu@li.org>
+metacity,1986,0,104,298,0,2,1806,2090,95.02392344497608,Basque <librezale@librezale.org>
+midori,1760,0,1781,496,0,300,1617,3541,49.70347359502965,Basque <eu@li.org>
+mingw-GConf2,4088,0,0,497,0,0,3796,4088,100.0,American English <kde-i18n-doc@kde.org>
+mingw-atk,440,0,0,169,0,0,341,440,100.0,Basque <librezale@librezale.org>
+mingw-colord,129,0,1756,49,0,154,105,1885,6.843501326259947,Basque (http://www.transifex.com/projects/p/colord/language/eu/)
+mingw-gdk-pixbuf,1393,0,0,208,0,0,1335,1393,100.0,Basque <librezale@librezale.eus>
+mingw-gettext,2940,1781,2110,380,176,141,2707,6831,43.039086517347386,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-glib-networking,163,0,0,29,0,0,166,163,100.0,Basque <librezale@librezale.eus>
+mingw-glib2,6932,0,0,1083,0,0,6570,6932,100.0,Basque <librezale@librezale.eus>
+mingw-gstreamer,1697,74,146,317,14,17,1459,1917,88.52373500260823,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,72,4,20,12,1,1,67,96,75.0,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-gstreamer-plugins-base,658,9,241,135,1,42,660,908,72.4669603524229,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,747,37,30,179,5,6,718,814,91.76904176904176,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-gstreamer1,1548,204,326,294,32,49,1337,2078,74.49470644850818,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,49,26,133,8,4,19,47,208,23.557692307692307,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,407,78,464,85,20,93,397,949,42.887249736564804,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,446,219,96,61,29,17,416,761,58.60709592641261,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-gtk-vnc,81,0,0,22,0,0,89,81,100.0,Basque <itzulpena@euskalgnu.org>
+mingw-gtk2,11944,0,0,2256,0,0,9827,11944,100.0,Basque <itzulpena@euskalgnu.org>
+mingw-gtk3,16008,0,0,3575,0,0,13463,16008,100.0,Basque <librezale@librezale.eus>
+mingw-gtksourceview3,1156,0,0,630,0,0,1112,1156,100.0,Basque <librezale@librezale.eus>
+mingw-gtkspell3,15,0,0,6,0,0,15,15,100.0,Basque <translation-team-eu@lists.sourceforge.net>
+mingw-libgsf,719,0,0,149,0,0,669,719,100.0,Basque <librezale@librezale.org>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Basque
+mingw-libsoup,155,0,0,36,0,0,176,155,100.0,Basque <librezale@librezale.eus>
+mingw-libvirt,926,4741,56616,218,837,8607,926,62283,1.486762037795225,Basque (Spain) (http://www.transifex.com/projects/p/fedora/language/eu_ES/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Basque (http://www.transifex.com/projects/p/libvirt-glib/language/eu/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Basque (http://www.transifex.com/freedesktop/p11-kit/language/eu/)
+mingw-qt5-qtwebkit,1066,653,912,257,140,175,917,2631,40.516913721018625,Basque <itzulpena@euskalgnu.org>
+mingw-webkitgtk,1066,645,912,257,138,175,917,2623,40.64048799085017,Basque <itzulpena@euskalgnu.org>
+mingw-webkitgtk3,1066,645,912,257,138,175,917,2623,40.64048799085017,Basque <itzulpena@euskalgnu.org>
+mingw-wxWidgets,371,389,5631,152,108,1215,385,6391,5.805038335158817,3ARRANO Euskalgintza <3arrano@euskalerria.org>
+mintmenu,5602,0,1870,1101,0,127,4821,7472,74.97323340471092,Basque <eu@li.org>
+mkvtoolnix,20960,473,652,2629,42,48,17698,22085,94.90604482680553,Basque (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/eu/)
+moodle,141,168,0,27,21,0,125,309,45.63106796116505,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+mousepad,556,0,532,182,0,124,475,1088,51.10294117647059,Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/)
+mousetweaks,114,0,0,30,0,0,108,114,100.0,Basque <itzulpena@euskalgnu.org>
+mozo,42,0,0,16,0,0,37,42,100.0,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+msitools,71,0,0,26,0,0,65,71,100.0,Basque <librezale@librezale.org>
+muffin,2043,0,0,281,0,0,1828,2043,100.0,American English <itzulpena@euskalgnu.org>
+multimedia-menus,56,0,0,22,0,0,51,56,100.0,eu
+mutt,4458,900,432,999,132,69,4142,5790,76.99481865284974,Euskara <debian-l10n-basque@lists.debian.org>
+mutter,921,0,0,134,0,0,792,921,100.0,Basque <librezale@librezale.eus>
+nano,1596,843,664,279,130,113,1316,3103,51.434096036094104,Basque <translation-team-eu@lists.sourceforge.net>
+nautilus,6001,0,0,1117,0,0,5078,6001,100.0,Basque <librezale@librezale.eus>
+nautilus-sendto,56,0,0,10,0,0,55,56,100.0,Basque <librezale@librezale.eus>
+nemiver,1341,0,0,340,0,0,1029,1341,100.0,LANGUAGE <LL@li.org>
+nemo-extensions,258,0,0,49,0,0,230,258,100.0,Basque <eu@li.org>
+network-manager-applet,1981,1174,1248,541,187,200,1860,4403,44.992050874403816,Basque <librezale@librezale.org>
+newt,4,0,0,4,0,0,4,4,100.0,Vasco <librezale@librezale.org>
+nicotine+,2735,427,978,670,137,139,2579,4140,66.06280193236715,<eu@li.org>
+noise,1155,0,167,331,0,46,1033,1322,87.36762481089258,Basque <eu@li.org>
+notification-daemon,17,0,0,7,0,0,15,17,100.0,Basque <itzulpena@euskalgnu.org>
+okteta,939,654,920,328,135,140,824,2513,37.36569836848388,Basque <itzulpena@euskalgnu.org>
+okular,2908,826,739,639,134,97,2547,4473,65.01229599821148,Basque <itzulpena@euskalgnu.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+onboard,546,0,1772,218,0,292,530,2318,23.55478861087144,Basque <eu@li.org>
+openbox,479,0,27,91,0,3,418,506,94.66403162055336,Inko I. A. <inkoia@gmail.com>
+openconnect,2812,0,2407,509,0,390,2936,5219,53.88005365012455,Basque (http://www.transifex.net/projects/p/meego/language/eu/)
+openerp,100,0,34223,42,0,3805,84,34323,0.29134982373335666,Basque <eu@li.org>
+openerp-client,290,0,7439,109,0,465,266,7729,3.7521024712123174,Basque <eu@li.org>
+openerp7,51,0,33422,20,0,3827,44,33473,0.15236160487557138,Basque <eu@li.org>
+openjfx,1066,645,912,257,138,175,917,2623,40.64048799085017,Basque <itzulpena@euskalgnu.org>
+orage,2160,0,441,781,0,61,1946,2601,83.04498269896193,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+orca,4172,0,0,1356,0,0,3944,4172,100.0,Basque <librezale@librezale.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Basque (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/eu/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Basque
+oyranos,267,896,4122,149,290,366,253,5285,5.0520340586565755,Basque <itzulpena@euskalgnu.org>
+p11-kit,0,0,476,0,0,81,0,476,0.0,Basque (http://www.transifex.com/freedesktop/p11-kit/language/eu/)
+pacman,10764,0,32,1786,0,6,10686,10796,99.70359392367544,Basque (Spain) (http://www.transifex.com/toofishes/archlinux-pacman/language/eu_ES/)
+palapeli,519,84,909,115,13,52,464,1512,34.32539682539682,Euskara <kde-i18n-doc@kde.org>
+pam,13,2,582,7,1,112,15,597,2.1775544388609713,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+pam_krb5,7,0,0,4,0,0,7,7,100.0,Basque (http://www.transifex.com/projects/p/pam_krb5/language/eu/)
+pan,2062,508,598,536,104,112,1948,3168,65.08838383838383,Basque <itzulpena@euskalgnu.org>
+pantheon-agent-geoclue2,0,0,43,0,0,11,0,43,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,20,0,0,10,0,20,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,46,0,6,30,0,2,57,52,88.46153846153845,LANGUAGE <LL@li.org>
+pantheon-files,1826,0,661,331,0,161,1537,2487,73.42179332529152,Basque <eu@li.org>
+pantheon-greeter,4,0,25,3,0,7,4,29,13.793103448275861,Basque <eu@li.org>
+pantheon-photos,3347,0,630,736,0,120,3049,3977,84.158913754086,Basque (http://www.transifex.com/projects/p/shotwell/language/eu/)
+pantheon-terminal,108,0,80,33,0,18,114,188,57.446808510638306,Basque <eu@li.org>
+parley,1956,1191,695,444,209,99,1631,3842,50.91098386257158,Basque <itzulpena@euskalgnu.org>
+parole,403,0,261,172,0,85,374,664,60.69277108433735,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+passwd,88,0,248,21,0,36,81,336,26.190476190476193,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+pbuilder,96,0,0,9,0,0,93,96,100.0,basque <debian-l10n-basque@lists.debian.org>
+pcmanfm,1044,6,160,278,1,17,872,1210,86.2809917355372,LANGUAGE <LL@li.org>
+phatch,41,0,2512,10,0,814,49,2553,1.6059537798668235,Basque <eu@li.org>
+php-horde-Horde-Alarm,13,0,0,5,0,0,12,13,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,4,0,56,4,0,9,4,60,6.666666666666667,i18n@lists.horde.org
+php-horde-Horde-Auth,21,0,166,3,0,11,15,187,11.229946524064172,i18n@lists.horde.org
+php-horde-Horde-Browser,52,0,14,5,0,1,44,66,78.78787878787878,i18n@lists.horde.org
+php-horde-Horde-Cli,16,0,0,5,0,0,13,16,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,25,0,0,6,0,0,33,25,100.0,i18n@lists.horde.org
+php-horde-Horde-Core,1037,0,0,261,0,0,928,1037,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,51,123,179,30,26,26,57,353,14.44759206798867,i18n@lists.horde.org
+php-horde-Horde-Data,53,0,0,8,0,0,44,53,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,42,0,0,12,0,0,50,42,100.0,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,6,4,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Form,56,203,301,31,61,56,58,560,10.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Icalendar,3,0,0,1,0,0,2,3,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Image,25,155,402,23,89,173,26,582,4.29553264604811,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Imap-Client,95,168,0,14,21,0,79,263,36.12167300380228,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Imsp,3,0,0,1,0,0,5,3,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Itip,56,0,0,10,0,0,38,56,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Kolab-Storage,15,73,259,4,11,25,20,347,4.322766570605188,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,6,6,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Mime,42,0,0,11,0,0,40,42,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,47,47,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Nls,60,0,642,52,0,404,60,702,8.547008547008547,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Perms,17,0,0,5,0,0,18,17,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Prefs,30,0,0,9,0,0,27,30,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Rpc,4,0,55,1,0,7,3,59,6.779661016949152,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Service-Weather,11,0,516,11,0,194,11,527,2.0872865275142316,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Share,8,0,0,1,0,0,7,8,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-SyncMl,3,0,0,1,0,0,3,3,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Token,0,0,64,0,0,4,0,64,0.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-Horde-Vfs,10,0,0,3,0,0,11,10,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-horde,3508,0,0,856,0,0,3061,3508,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-imp,6873,0,0,1395,0,0,6020,6873,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.eus>
+php-horde-ingo,1017,0,0,264,0,0,974,1017,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-kronolith,3858,0,0,801,0,0,3244,3858,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-mnemo,579,0,0,146,0,0,515,579,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-nag,1637,0,0,381,0,0,1370,1637,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-horde-turba,1873,0,0,440,0,0,1651,1873,100.0,Euskal Herriko Unibertsitatea <webmaster@ehu.es>
+php-phpmyadmin-sql-parser,0,66,161,0,15,29,0,227,0.0,Basque <https://hosted.weblate.org/projects/phpmyadmin/master/eu/>
+pidgin,13702,0,2054,3006,0,427,11117,15756,86.96369636963696,Basque (http://www.transifex.com/pidgin/pidgin/language/eu/)
+pinfo,311,10,0,52,2,0,306,321,96.88473520249221,librezale.org <librezale@librezale.org>
+pinta,1425,0,193,510,0,18,1327,1618,88.0716934487021,Basque <eu@li.org>
+pitivi,1617,0,18,376,0,1,1487,1635,98.89908256880734,Basque <librezale@librezale.eus>
+pix,8546,0,28,1631,0,1,7013,8574,99.67343130394215,Basque <itzulpena@euskalgnu.org>
+plank,189,0,0,50,0,0,189,189,100.0,Basque <eu@li.org>
+planner,1834,0,0,533,0,0,1585,1834,100.0,Basque <itzulpena@euskalgnu.org>
+plasma-breeze,263,0,0,97,0,0,253,263,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-desktop,12611,29,16,2364,7,7,10896,12656,99.6444374209861,Basque <kde-i18n-doc@kde.org>
+plasma-discover,1196,0,0,361,0,0,1145,1196,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-drkonqi,4015,0,0,377,0,0,3277,4015,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-integration,58,0,0,21,0,0,55,58,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-mediacenter,0,0,83,0,0,37,0,83,0.0,Basque <kde-i18n-doc@kde.org>
+plasma-milou,42,0,0,17,0,0,33,42,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-nm,4372,0,0,1105,0,0,4082,4372,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-oxygen,808,0,0,295,0,0,737,808,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-pa,171,0,0,72,0,0,188,171,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-sdk,854,0,0,250,0,0,787,854,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-systemsettings,224,0,0,55,0,0,198,224,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-user-manager,295,0,0,49,0,0,260,295,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-vault,518,0,0,62,0,0,421,518,100.0,Basque <kde-i18n-doc@kde.org>
+plasma-workspace,7050,1,3,2251,1,2,6696,7054,99.94329458463284,Basque <kde-i18n-doc@kde.org>
+pluma,4652,0,416,1081,0,27,3895,5068,91.79163378058406,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+plymouth-kcm,122,0,0,24,0,0,123,122,100.0,Basque <kde-i18n-doc@kde.org>
+pmount,64,0,659,11,0,52,63,723,8.852005532503458,Basque <eu@li.org>
+po4a,1720,86,48,182,7,6,1552,1854,92.77238403451996,Basque <debian-l10n-basque@lists.debian.org>
+poedit,2639,0,0,591,0,0,2297,2639,100.0,Basque
+pogo,1,0,575,1,0,100,5,576,0.1736111111111111,Basque <eu@li.org>
+polari,790,0,0,180,0,0,704,790,100.0,Basque <librezale@librezale.eus>
+policycoreutils,59,52,7567,36,25,1017,64,7678,0.7684292784579317,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+polkit-gnome,94,0,0,16,0,0,87,94,100.0,Basque <itzulpena@euskalgnu.org>
+polkit-kde,92,0,0,28,0,0,87,92,100.0,Basque <kde-i18n-doc@kde.org>
+powerdevil,673,0,0,120,0,0,587,673,100.0,Basque <kde-i18n-doc@kde.org>
+psad,101,165,227,18,10,2,97,493,20.486815415821503,
+psmisc,452,533,7,68,16,1,457,992,45.564516129032256,Basque <translation-team-eu@lists.sourceforge.net>
+pychess,2,0,4453,2,0,877,2,4455,0.044893378226711564,Basque (http://www.transifex.com/gbtami/pychess/language/eu/)
+pykickstart,19,0,1418,4,0,155,19,1437,1.3221990257480862,Basque (http://www.transifex.com/projects/p/pykickstart/language/eu/)
+pyroom,21,0,390,7,0,67,24,411,5.109489051094891,Basque <eu@li.org>
+python-blivet,22,0,670,8,0,89,19,692,3.1791907514450863,Basque (http://www.transifex.com/projects/p/blivet/language/eu/)
+python-blivet1,20,0,687,8,0,124,18,707,2.828854314002829,Basque
+python-caja,6,0,0,2,0,0,5,6,100.0,Basque (https://www.transifex.com/mate/teams/13566/eu/)
+python-django,3113,0,487,747,0,69,2741,3600,86.47222222222221,Basque (http://www.transifex.com/django/django/language/eu/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Basque (http://www.transifex.com/projects/p/django-formtools/language/eu/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Basque
+python-lettuce,5218,0,2110,1230,0,1032,4513,7328,71.20633187772926,<es@li.org>
+python-meh,13,0,96,7,0,16,13,109,11.926605504587156,Basque (http://www.transifex.com/projects/p/python-meh/language/eu/)
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Basque
+python-sphinx,377,0,822,146,0,123,356,1199,31.442869057547956,Basque (http://www.transifex.com/sphinx-doc/sphinx-1/language/eu/)
+python-wxpython4,7587,50,58,1773,37,43,6769,7695,98.59649122807016,(EUS_Xabier Aramendi) <azpidatziak@gmail.com>
+qtwebkit,1093,0,0,262,0,0,942,1093,100.0,Basque <itzulpena@euskalgnu.org>
+quadrapassel,2067,0,0,157,0,0,1684,2067,100.0,Basque <itzulpena@euskalgnu.org>
+quodlibet,1699,1266,2751,492,383,502,1565,5716,29.723582925122464,Basque <librezale@librezale.es>
+realmd,0,0,789,0,0,127,0,789,0.0,Basque (http://www.transifex.com/freedesktop/realmd/language/eu/)
+rednotebook,939,0,208,204,0,36,824,1147,81.86573670444638,Basque <eu@li.org>
+redshift,378,0,648,68,0,83,389,1026,36.84210526315789,Basque <eu@li.org>
+regexxer,466,0,1,99,0,1,411,467,99.78586723768737,Basque <itzulpena@euskalgnu.org>
+rekonq,2187,12,3,588,4,1,1995,2202,99.31880108991825,Basque <kde-i18n-doc@kde.org>
+remmina,770,0,1365,227,0,304,764,2135,36.0655737704918,Basque <eu@li.org>
+renameutils,82,106,77,16,22,16,79,265,30.943396226415093,Basque <translation-team-eu@lists.sourceforge.net>
+revelation,1945,0,0,402,0,0,1667,1945,100.0,LANGUAGE <LL@li.org>
+rhn-client-tools,106,5,3946,53,1,366,105,4057,2.6127680552132118,Basque (http://www.transifex.com/projects/p/spacewalk/language/eu/)
+rhnsd,24,9,0,7,2,0,24,33,72.72727272727273,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+rhythmbox,9832,0,0,1577,0,0,7965,9832,100.0,Basque <itzulpena@euskalgnu.org>
+ristretto,579,0,182,195,0,3,503,761,76.08409986859395,Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/)
+root,211,0,0,11,0,0,168,211,100.0,Basque <itzulpena@euskalgnu.org>
+rt,5914,0,5494,1570,0,1008,5711,11408,51.84081346423562,Basque <eu@li.org>
+rygel,1624,0,0,303,0,0,1714,1624,100.0,Basque <librezale@librezale.eus>
+sawfish,211,516,5716,123,196,663,222,6443,3.274871954058668,Basque <itzulpena@euskalgnu.org>
+schroot,1665,0,0,358,0,0,1629,1665,100.0,Basque <librezale@librezale.org>
+scratch,1067,0,403,432,0,194,1014,1470,72.58503401360544,Jose Manuel <joxegasteiz@euskalnet.net>
+scratch-text-editor,490,0,400,174,0,39,458,890,55.0561797752809,Basque <eu@li.org>
+screenshot-tool,12,0,134,10,0,34,21,146,8.21917808219178,Basque <eu@li.org>
+scummvm,2885,506,1255,757,71,132,2497,4646,62.09642703400775,Basque <https://translations.scummvm.org/projects/scummvm/scummvm/eu/>
+sddm-kcm,104,0,0,43,0,0,100,104,100.0,Basque <kde-i18n-doc@kde.org>
+seahorse,2494,0,0,572,0,0,2239,2494,100.0,Basque <librezale@librezale.org>
+seahorse-caja,421,0,0,110,0,0,414,421,100.0,American English <kde-i18n-doc@kde.org>
+seahorse-nautilus,421,0,0,110,0,0,414,421,100.0,American English <kde-i18n-doc@kde.org>
+sed,66,30,714,17,5,119,72,810,8.148148148148149,Basque <translation-team-eu@lists.sourceforge.net>
+sequeler,0,0,229,0,0,88,0,229,0.0,
+setroubleshoot,44,0,617,35,0,146,44,661,6.656580937972769,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+setroubleshoot-plugins,23,0,6185,5,0,216,18,6208,0.37048969072164945,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+shadow-utils,2755,649,657,421,91,84,2533,4061,67.84043339079045,Euskara <debian-l10n-eu@lists.debian.org>
+shared-mime-info,1886,0,29,735,0,8,1870,1915,98.48563968668407,Basque (http://www.transifex.com/freedesktop/shared-mime-info/language/eu/)
+shotwell,4736,0,0,982,0,0,4247,4736,100.0,Basque <librezale@librezale.org>
+shutter,1691,0,757,399,0,102,1524,2448,69.07679738562092,Basque <eu@li.org>
+simple-ccsm,11,4,80,9,1,13,12,95,11.578947368421053,Euskara <eu@li.org>
+simple-scan,975,0,1228,216,0,88,866,2203,44.257830231502496,Basque <eu@li.org>
+skanlite,117,23,43,47,8,8,105,183,63.934426229508205,Basque <itzulpena@euskalgnu.org>
+slick-greeter,211,0,0,47,0,0,176,211,100.0,Basque <eu@li.org>
+slingshot-launcher,12,0,205,4,0,64,11,217,5.529953917050691,Basque <eu@li.org>
+snap-photobooth,1,0,24,1,0,4,14,25,4.0,Basque <eu@li.org>
+snapper,0,0,743,0,0,180,0,743,0.0,Basque <i18n@suse.de>
+sos,0,0,122,0,0,30,0,122,0.0,none
+sound-juicer,5693,303,239,334,32,42,4652,6235,91.30713712910986,Basque <itzulpena@euskalgnu.org>
+soundconverter,362,0,26,113,0,8,335,388,93.29896907216495,Basque <eu@li.org>
+spacefm,121,4,8597,70,1,1497,126,8722,1.38729649163036,Basque (http://www.transifex.com/projects/p/spacefm/language/eu/)
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Basque (http://www.transifex.com/heldercorreia/speedcrunch/language/eu/)
+squirrelmail,7662,0,0,1501,0,0,6801,7662,100.0,Basque <squirrelmail-i18n@lists.sourceforge.net>
+sssd,218,0,35569,65,0,2955,196,35787,0.6091597507474782,Basque (http://www.transifex.com/projects/p/sssd/language/eu/)
+steadyflow,423,0,47,88,0,5,392,470,90.0,Basque <eu@li.org>
+stellarium,5849,0,61191,2234,0,23997,4989,67040,8.72464200477327,Basque (https://www.transifex.com/stellarium/teams/80998/eu/)
+subdownloader,968,0,0,272,0,0,843,968,100.0,Basque <eu@li.org>
+sudo,707,0,2298,148,0,334,713,3005,23.527454242928453,Basque <translation-team-eu@lists.sourceforge.net>
+sugar,1,0,1732,1,0,418,2,1733,0.05770340450086555,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,96,8,52,84,4,21,95,156,61.53846153846154,LANGUAGE <LL@li.org>
+supertuxkart,3361,0,0,752,0,0,2912,3361,100.0,Basque (http://www.transifex.com/supertuxkart/supertuxkart/language/eu/)
+sushi,24,0,0,11,0,0,23,24,100.0,Basque <itzulpena@euskalgnu.org>
+svgpart,22,0,0,7,0,0,21,22,100.0,Basque <itzulpena@euskalgnu.org>
+sweeper,229,0,0,50,0,0,209,229,100.0,Basque <kde-i18n-doc@kde.org>
+swell-foop,1569,0,0,125,0,0,1274,1569,100.0,Basque <itzulpena@euskalgnu.org>
+switchboard,9,0,52,6,0,12,9,61,14.754098360655737,Basque <eu@li.org>
+switchboard-plug-a11y,0,0,189,0,0,68,0,189,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,5,6,106,3,3,31,7,117,4.273504273504273,Basque <eu@li.org>
+switchboard-plug-applications,0,0,91,0,0,31,0,91,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,73,0,0,27,0,73,0.0,Basque <eu@li.org>
+switchboard-plug-display,0,0,104,0,0,41,0,104,0.0,Basque <eu@li.org>
+switchboard-plug-keyboard,3,2,398,3,1,152,3,403,0.7444168734491315,Basque <eu@li.org>
+switchboard-plug-mouse-touchpad,0,0,67,0,0,27,0,67,0.0,none
+switchboard-plug-networking,0,0,442,0,0,128,0,442,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,20,0,141,10,0,39,20,161,12.422360248447205,Basque <eu@li.org>
+switchboard-plug-pantheon-shell,21,0,123,10,0,43,15,144,14.583333333333334,Basque <eu@li.org>
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sound,0,0,90,0,0,37,0,90,0.0,Basque <eu@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,<en@li.org>
+sylpheed,7118,14,7,1764,6,1,6327,7139,99.70584115422328,(EUS_Xabiera Aramendi) <azpidatziak@gmail.com>
+synapse,497,0,327,151,0,76,453,824,60.31553398058252,Basque <eu@li.org>
+synfig,157,5,9230,129,1,2226,151,9392,1.6716354344122657,Basque (Spain) (http://www.transifex.com/morevnaproject/synfig/language/eu_ES/)
+synfigstudio,6293,0,6835,2124,0,1010,5437,13128,47.935709932967704,Basque (Spain) (http://www.transifex.com/morevnaproject/synfig/language/eu_ES/)
+sysstat,587,0,0,61,0,0,584,587,100.0,Basque <translation-team-eu@lists.sourceforge.net>
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,184,0,960,87,0,166,179,1144,16.083916083916083,Basque (http://www.transifex.com/projects/p/system-config-kickstart/language/eu/)
+system-config-users,231,0,1290,62,0,118,210,1521,15.187376725838265,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+system-config-users-docs,0,0,2122,0,0,164,0,2122,0.0,LANGUAGE <LL@li.org>
+tali,2342,0,0,185,0,0,1863,2342,100.0,Basque <itzulpena@euskalgnu.org>
+tar,1780,677,1163,344,99,147,1738,3620,49.171270718232044,Basque <translation-team-eu@lists.sourceforge.net>
+tellico,176,44,5406,110,26,1050,187,5626,3.1283327408460715,Basque <itzulpena@euskalgnu.org>
+terminator,582,0,828,207,0,210,532,1410,41.27659574468085,Basque <eu@li.org>
+thunar-archive-plugin,86,0,0,13,0,0,69,86,100.0,Basque <xfce-i18n@xfce.org>
+thunar-media-tags-plugin,156,0,0,58,0,0,136,156,100.0,Basque <xfce-i18n@xfce.org>
+thunar-vcs-plugin,421,0,174,247,0,73,450,595,70.75630252100841,Basque (http://www.transifex.com/xfce/thunar-plugins/language/eu/)
+thunar-vfs,387,0,0,86,0,0,305,387,100.0,Euskara <debian-l10n-basque@lists.debian.org>
+thunar-volman,479,0,8,112,0,1,428,487,98.35728952772074,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+timeshift,2914,14,123,571,5,18,2729,3051,95.5096689609964,Basque <eu@li.org>
+tomboy,6616,0,0,682,0,0,5376,6616,100.0,Basque <itzulpena@euskalgnu.org>
+toppler,552,0,0,215,0,0,538,552,100.0,Euskara  <librezale@librezale.org>
+totem,3992,0,0,586,0,0,3161,3992,100.0,Basque <itzulpena@euskalgnu.org>
+totem-pl-parser,29,0,0,8,0,0,22,29,100.0,Basque <librezale@librezale.eus>
+tracker,2229,0,0,370,0,0,2092,2229,100.0,Basque <librezale@librezale.eus>
+tracker-miners,827,0,0,118,0,0,724,827,100.0,Basque <librezale@librezale.eus>
+transmission,1809,0,0,494,0,0,1767,1809,100.0,Basque <eu@li.org>
+tumbler,228,0,13,37,0,2,200,241,94.6058091286307,Basque (http://www.transifex.com/xfce/tumbler/language/eu/)
+tuxpaint,1590,0,1,290,0,1,1292,1591,99.93714644877436,librezale@librezale.org
+tuxtype2,69,0,11,31,0,9,62,80,86.25,LANGUAGE <LL@li.org>
+udisks2,441,203,1365,220,26,245,434,2009,21.951219512195124,Basque
+umbrello,2081,1675,849,622,527,196,1856,4605,45.190010857763305,<eu@li.org>
+unetbootin,24,0,3135,10,0,168,26,3159,0.7597340930674265,Basque <eu@li.org>
+util-linux,862,9104,13013,358,1958,1718,924,22979,3.751251142347361,Basque <translation-team-eu@lists.sourceforge.net>
+viking,4135,0,0,1056,0,0,3737,4135,100.0,Basque <eu@li.org>
+vinagre,3201,0,0,407,0,0,2636,3201,100.0,Basque <itzulpena@euskalgnu.org>
+vino,1228,0,0,134,0,0,1049,1228,100.0,Basque <itzulpena@euskalgnu.org>
+virt-viewer,24,0,760,16,0,153,25,784,3.061224489795918,Basque (http://www.transifex.com/projects/p/virt-viewer/language/eu/)
+virtaal,1433,0,0,426,0,0,1235,1433,100.0,librezale@librezale.org
+vocal,0,0,377,0,0,79,0,377,0.0,Basque <eu@li.org>
+volume_key,117,0,646,33,0,121,109,763,15.334207077326342,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+vte,80,0,0,13,0,0,74,80,100.0,Basque <itzulpena@euskalgnu.org>
+vte291,31,0,0,5,0,0,26,31,100.0,Basque <librezale@librezale.org>
+vte3,80,0,0,13,0,0,74,80,100.0,Basque <itzulpena@euskalgnu.org>
+wdiff,5,97,18,2,20,9,4,120,4.166666666666666,Basque <translation-team-eu@lists.sourceforge.net>
+webkitgtk4,1066,645,912,257,138,175,917,2623,40.64048799085017,Basque <itzulpena@euskalgnu.org>
+wesnoth,6139,7958,262508,1116,1451,14862,4867,276605,2.2194103504998104,Basque <ziberpunk@ziberghetto.dhis.org>
+wget,440,652,2841,120,115,400,462,3933,11.187388761759472,Basque <translation-team-eu@lists.sourceforge.net>
+whois,101,165,227,18,10,2,97,493,20.486815415821503,
+wicd,260,0,878,80,0,174,269,1138,22.847100175746924,eu <LL@li.org>
+widelands,1363,0,39500,241,0,3529,1123,40863,3.3355358147957808,Basque (http://www.transifex.com/widelands/widelands/language/eu/)
+wingpanel,0,0,8,0,0,2,0,8,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,12,0,213,4,0,68,11,225,5.333333333333334,Basque <eu@li.org>
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,20,0,0,6,0,20,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,LANGUAGE <LL@li.org>
+wireshark,79,0,179,4,0,12,62,258,30.620155038759687,Basque (https://www.transifex.com/wireshark/teams/36457/eu/)
+workrave,987,166,168,175,53,34,730,1321,74.71612414837244,<eu@li.org>
+wxGTK,371,389,5631,152,108,1215,385,6391,5.805038335158817,3ARRANO Euskalgintza <3arrano@euskalerria.org>
+wxGTK3,7587,50,58,1773,37,43,6769,7695,98.59649122807016,(EUS_Xabier Aramendi) <azpidatziak@gmail.com>
+wxPython,10110,46,41,2567,19,8,9101,10197,99.14680788467196,(EUS_Xabier Aramendi) <azpidatziak@gmail.com>
+xarchiver,1131,0,0,277,0,0,988,1131,100.0,Euskara <debian-l10n-basque@lists.debian.org>
+xdg-desktop-portal-kde,11,0,0,8,0,0,11,11,100.0,Basque <kde-i18n-doc@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Basque <translation-team-eu@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,69,81,100.0,Basque <itzulpena@euskalgnu.org>
+xed,4607,0,0,989,0,0,3869,4607,100.0,Basque (http://www.transifex.com/projects/p/MATE/language/eu/)
+xfbib,342,0,0,75,0,0,283,342,100.0,Euskara <debian-l10n-basque@lists.debian.org>
+xfburn,1280,0,62,287,0,15,1124,1342,95.38002980625932,Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/)
+xfce4-appfinder,312,0,7,66,0,3,246,319,97.80564263322884,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+xfce4-battery-plugin,149,0,0,43,0,0,137,149,100.0,Basque <xfce-i18n@xfce.org>
+xfce4-clipman-plugin,350,0,0,62,0,0,263,350,100.0,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,127,140,100.0,Basque (http://www.transifex.com/projects/p/xfce-panel-plugins/language/eu/)
+xfce4-cpugraph-plugin,74,0,0,36,0,0,69,74,100.0,Euskara <debian-l10n-basque@lists.debian.org>
+xfce4-datetime-plugin,52,0,0,19,0,0,44,52,100.0,Euskara <debian-l10n-eu@lists.debian.org>
+xfce4-dict,527,0,0,119,0,0,451,527,100.0,Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,172,183,100.0,librezale <librezale@librezale.org>
+xfce4-eyes-plugin,15,0,0,4,0,0,14,15,100.0,Euskara <librezale@librezale.org>
+xfce4-fsguard-plugin,71,0,0,19,0,0,66,71,100.0,Euskara <debian-l10n-eu@lists.debian.org>
+xfce4-genmon-plugin,25,0,31,11,0,3,23,56,44.642857142857146,Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,321,356,100.0,Basque <itzulpena@euskalgnu.org>
+xfce4-mailwatch-plugin,657,0,0,110,0,0,600,657,100.0,Basque <kde-i18n-doc@kde.org>
+xfce4-mixer,94,29,58,12,11,13,75,181,51.93370165745856,Euskara <debian-l10n-basque@lists.debian.org>
+xfce4-mount-plugin,326,0,48,55,0,1,267,374,87.16577540106952,Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/)
+xfce4-mpc-plugin,76,0,0,24,0,0,70,76,100.0,Euskara <debian-l10n-eu@lists.debian.org>
+xfce4-netload-plugin,66,0,26,29,0,6,65,92,71.73913043478261,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+xfce4-notes-plugin,163,0,0,57,0,0,140,163,100.0,Basque <debian-l10n-basque@lists.debian.org>
+xfce4-notifyd,98,0,0,29,0,0,100,98,100.0,Basque <kde-i18n-doc@kde.org>
+xfce4-panel,1709,0,0,395,0,0,1418,1709,100.0,Basque (http://www.transifex.com/xfce/xfce4-panel/language/eu/)
+xfce4-places-plugin,157,0,0,44,0,0,129,157,100.0,Euskara <debian-l10n-eu@lists.debian.org>
+xfce4-power-manager,364,0,653,110,0,92,347,1017,35.79154375614553,Basque (http://www.transifex.com/xfce/xfce4-power-manager/language/eu/)
+xfce4-screenshooter,319,0,229,51,0,30,238,548,58.21167883211679,Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/)
+xfce4-sensors-plugin,355,1,2,72,1,1,339,358,99.16201117318437,Basque <debian-l10n-eu@debian.lists.org>
+xfce4-session,1066,0,0,208,0,0,900,1066,100.0,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+xfce4-settings,1584,0,80,364,0,10,1324,1664,95.1923076923077,Basque (http://www.transifex.com/xfce/xfce4-settings/language/eu/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,17,22,100.0,Euskara <debian-l10n-basque@lists.debian.org>
+xfce4-systemload-plugin,73,0,0,22,0,0,73,73,100.0,Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/)
+xfce4-taskmanager,171,0,86,66,0,19,149,257,66.53696498054474,Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/)
+xfce4-terminal,945,0,508,258,0,103,830,1453,65.03785271851342,Basque (http://www.transifex.com/xfce/xfce-apps/language/eu/)
+xfce4-time-out-plugin,89,0,0,32,0,0,89,89,100.0,Euskara <debian-l10n-basque@lists.debian.org>
+xfce4-timer-plugin,81,33,20,30,8,4,77,134,60.447761194029844,Librezale <Librezale@librezale.org>
+xfce4-verve-plugin,47,0,0,10,0,0,40,47,100.0,Librezale <xfce-i18n@xfce.org>
+xfce4-wavelan-plugin,51,0,0,12,0,0,46,51,100.0,librezale <librezale@librezale.org>
+xfce4-weather-plugin,382,0,3286,180,0,150,364,3668,10.414394765539804,Basque (http://www.transifex.com/xfce/xfce-panel-plugins/language/eu/)
+xfce4-whiskermenu-plugin,70,6,273,42,2,74,66,349,20.057306590257877,Basque (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/eu/)
+xfce4-xkb-plugin,41,2,0,16,1,0,41,43,95.34883720930233,Euskara <debian-l10n-eu@lists.debian.org>
+xfconf,434,0,18,66,0,1,377,452,96.01769911504425,Basque (http://www.transifex.com/xfce/xfconf/language/eu/)
+xfdesktop,650,0,324,175,0,45,555,974,66.73511293634496,Basque (http://www.transifex.com/projects/p/xfdesktop/language/eu/)
+xfmpc,146,2,19,62,1,7,131,167,87.42514970059881,Euskara <debian-l10n-basque@lists.debian.org>
+xfwm4,643,0,6,169,0,1,555,649,99.07550077041603,Basque (http://www.transifex.com/projects/p/xfce/language/eu/)
+xmms,3177,66,200,1003,18,24,2982,3443,92.27417949462678,Euskara <linux-eu@chanae.alphanet.ch>
+xpad,191,0,215,50,0,75,181,406,47.04433497536946,Basque <eu@li.org>
+xplayer,4508,0,0,683,0,0,3564,4508,100.0,Basque <itzulpena@euskalgnu.org>
+xplayer-plparser,28,0,0,7,0,0,21,28,100.0,Basque <itzulpena@euskalgnu.org>
+xreader,3401,0,8,521,0,3,2776,3409,99.76532707538868,Basque <itzulpena@euskalgnu.org>
+xviewer,4706,0,0,541,0,0,3640,4706,100.0,Basque <itzulpena@euskalgnu.org>
+xviewer-plugins,342,0,0,89,0,0,296,342,100.0,Basque <librezale@librezale.org>
+yelp,448,0,0,104,0,0,370,448,100.0,Basque <librezale@librezale.eus>
+yelp-xsl,81,0,0,59,0,0,76,81,100.0,Basque <itzulpena@euskalgnu.org>
+yum,3057,0,12,656,0,4,2886,3069,99.60899315738025,Basque (http://www.transifex.net/projects/p/yum/team/eu/)
+yum-rhn-plugin,3,0,144,2,0,15,2,147,2.0408163265306123,Basque (http://www.transifex.com/projects/p/fedora/language/eu/)
+zenity,3216,0,0,449,0,0,2670,3216,100.0,Basque <itzulpena@euskalgnu.org>

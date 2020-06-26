@@ -1,0 +1,81 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blivet-gui,0,0,711,0,0,191,0,711,0.0,Yoruba
+caja,3038,0,6160,646,0,847,3657,9198,33.02891933028919,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,amo@wazobiasoft.org
+cinnamon-session,100,68,510,14,24,61,126,678,14.749262536873156,
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Yoruba
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Yoruba
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Yoruba
+entangle,0,0,935,0,0,209,0,935,0.0,Yoruba
+epiphany,1553,276,533,479,95,87,1795,2362,65.7493649449619,Yoruba
+gnome-desktop,328,8,28,90,2,1,357,364,90.10989010989012,amo@wazobiasoft.org
+gnome-desktop3,328,8,28,90,2,1,357,364,90.10989010989012,amo@wazobiasoft.org
+gnome-menus,116,15,26,42,5,9,152,157,73.88535031847134,Yoruba
+gnome-session,117,86,519,20,28,65,148,722,16.20498614958449,
+initial-setup,0,0,33,0,0,7,0,33,0.0,Yoruba
+isomaster,9,0,665,8,0,99,12,674,1.3353115727002967,http://littlesvr.ca/ostd/
+libbytesize,0,0,17,0,0,17,0,17,0.0,Yoruba
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+libosinfo,0,0,2049,0,0,604,0,2049,0.0,Yoruba
+librfm,106,522,1768,73,220,304,124,2396,4.424040066777963,Yoruba
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Yoruba
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Yoruba
+marco,1623,0,2473,246,0,168,1850,4096,39.6240234375,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+mate-desktop,52,0,2349,12,0,320,64,2401,2.165764264889629,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+mate-menus,59,0,38,24,0,13,79,97,60.824742268041234,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+mate-panel,2727,0,1660,338,0,267,3059,4387,62.16093002051516,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+mate-session-manager,45,0,636,13,0,101,61,681,6.607929515418502,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+metacity,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Yoruba
+muffin,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+mutter,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+nautilus,1434,2994,1686,295,513,222,1797,6114,23.454367026496563,Yoruba
+olpc-switch-desktop,51,0,107,4,0,10,61,158,32.278481012658226,LANGUAGE <LL@li.org>
+pykickstart,0,0,1355,0,0,149,0,1355,0.0,Yoruba
+python-blivet,0,0,696,0,0,131,0,696,0.0,Yoruba
+python-fedora,0,0,214,0,0,29,0,214,0.0,Yoruba
+python-meh,0,0,109,0,0,23,0,109,0.0,Yoruba
+rodent,103,497,9034,65,211,536,127,9634,1.0691301640024913,Yoruba
+sugar,1,0,1624,1,0,397,2,1625,0.06153846153846154,Yoruba
+sugar-abacus,0,1,33,0,1,24,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,951,871,100.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,152,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,596,66,100.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,74,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,4,20,0,2,98,69,94.20289855072464,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,111,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,90,0,0,52,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,109,0,0,31,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,112,0,25,41,0,9,129,137,81.75182481751825,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,294,227,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,134,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,0,76,0,0,40,0,76,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,130,121,100.0,LANGUAGE <LL@li.org>
+virt-viewer,0,0,751,0,0,165,0,751,0.0,Yoruba

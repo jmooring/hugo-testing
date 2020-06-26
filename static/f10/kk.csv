@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,14,0,2647,10,0,576,16,2661,0.5261180007515971,Kazakh <kk@li.org>
+blueman,32,0,1002,29,0,258,42,1034,3.0947775628626695,Kazakh <kk@li.org>
+deluge,1998,0,0,689,0,0,1895,1998,100.0,Kazakh <kk_KZ@googlegroups.com>
+gnome-menus,157,0,0,56,0,0,144,157,100.0,Kazakh <gnome-cyr@gnome.org>
+gparted,1434,0,0,306,0,0,1308,1434,100.0,Kazakh <kk_KZ@googlegroups.com>
+iso-codes,593,67,417,310,20,118,478,1077,55.06035283194058,Kazakh
+jokosher,3,0,2148,1,0,402,2,2151,0.1394700139470014,Kazakh <kk@li.org>
+kmid,523,6,6,205,4,5,488,535,97.75700934579439,Kazakh
+konq-plugins,1205,246,147,401,45,70,1071,1598,75.40675844806007,Kazakh
+ksig,71,2,12,17,1,8,57,85,83.52941176470588,Kazakh
+lxmenu-data,97,0,0,37,0,0,83,97,100.0,Kazakh <gnome-cyr@gnome.org>
+transmission,12,0,1099,9,0,348,15,1111,1.08010801080108,Kazakh <kk@li.org>
+xfburn,1168,19,109,255,6,20,942,1296,90.12345679012346,Kazakh <kk_KZ@googlegroups.com>

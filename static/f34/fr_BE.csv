@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+intltool,9,0,1,2,0,1,10,10,90.0,NONE <kenneth@gnu.org>
+mame,863,0,2601,310,0,911,1144,3464,24.913394919168592,MAME Language Team

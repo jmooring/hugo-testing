@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,123,0,9323,71,0,1102,147,9446,1.3021384713106077,Balochi <trans-bal@lists.fedoraproject.org>
+authconfig,931,254,155,167,51,21,1116,1340,69.47761194029852,Balochi <fedora-trans-bal@redhat.com>
+chkconfig,423,0,64,86,0,7,447,487,86.85831622176592,Balochi <trans-bal@lists.fedoraproject.org>
+newt,4,0,0,4,0,0,4,4,100.0,Balochi <fedora-trans-bal@redhat.com>
+pessulus,88,0,0,30,0,0,129,88,100.0,Balochi <mostafa@daneshvar.org.uk>
+setuptool,55,0,0,14,0,0,67,55,100.0,Balochi <fedora-trans-bal@redhat.com>
+sssd,0,0,10534,0,0,1051,0,10534,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+system-config-date,0,0,466,0,0,53,0,466,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1456,0,0,174,0,1456,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,158,0,0,24,0,0,179,158,100.0,Balochi <fedora-trans-bal@redhat.com>
+transifex,1,0,6017,1,0,1018,1,6018,0.01661681621801263,LANGUAGE <LL@li.org>

@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+caja,336,0,9339,120,0,1484,153,9675,3.472868217054263,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+engrampa,48,0,2001,24,0,404,39,2049,2.342606149341142,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+gnome-do,0,0,612,0,0,144,0,612,0.0,Min Nan Chinese <nan@li.org>
+mate-media,2,0,237,2,0,97,2,239,0.8368200836820083,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+mate-panel,35,0,5522,15,0,693,29,5557,0.62983624257693,Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)
+onboard,0,0,2318,0,0,510,0,2318,0.0,Min Nan Chinese <nan@li.org>

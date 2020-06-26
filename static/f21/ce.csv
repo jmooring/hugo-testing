@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+simple-scan,0,0,577,0,0,142,0,577,0.0,Chechen <ce@li.org>
+stellarium,1,0,15824,1,0,4262,1,15825,0.00631911532385466,Chechen <ce@li.org>

@@ -1,0 +1,62 @@
+---
+title: "gcc13 - translation progress for f41"
+package: gcc13
+date: 2026-01-20T01:25:49+00:00
+started_languages: 24
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 44
+release: f41
+---
+The package gcc13 (version 13.3.1):
+
+* represents 130509 source words to be translated
+* is translated into 24 languages in Fedora f41
+
+
+* contains 44 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [de]({{< ref "/f41/language/de.md" >}}) | 130509 | 130509 | 100.0 | /mnt/stockage/packages/f41/gcc13/gcc/po/de.po/mnt/stockage/packages/f41/gcc13/libcpp/po/de.po/mnt/stockage/packages/f41/gcc13/libstdc++-v3/po/de.po | 
+ | [fr]({{< ref "/f41/language/fr.md" >}}) | 130509 | 130509 | 100.0 | /mnt/stockage/packages/f41/gcc13/gcc/po/fr.po/mnt/stockage/packages/f41/gcc13/libcpp/po/fr.po/mnt/stockage/packages/f41/gcc13/libstdc++-v3/po/fr.po | 
+ | [ro]({{< ref "/f41/language/ro.md" >}}) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f41/gcc13/libcpp/po/ro.po | 
+ | [sv]({{< ref "/f41/language/sv.md" >}}) | 130504 | 130504 | 100.0 | /mnt/stockage/packages/f41/gcc13/gcc/po/sv.po/mnt/stockage/packages/f41/gcc13/libcpp/po/sv.po | 
+ | [uk]({{< ref "/f41/language/uk.md" >}}) | 130504 | 130504 | 100.0 | /mnt/stockage/packages/f41/gcc13/gcc/po/uk.po/mnt/stockage/packages/f41/gcc13/libcpp/po/uk.po | 
+ | [eo]({{< ref "/f41/language/eo.md" >}}) | 1548 | 1696 | 91.3 | /mnt/stockage/packages/f41/gcc13/libcpp/po/eo.po | 
+ | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1448 | 1696 | 85.4 | /mnt/stockage/packages/f41/gcc13/libcpp/po/pt_BR.po | 
+ | [ru]({{< ref "/f41/language/ru.md" >}}) | 76979 | 130504 | 59.0 | /mnt/stockage/packages/f41/gcc13/gcc/po/ru.po/mnt/stockage/packages/f41/gcc13/libcpp/po/ru.po | 
+ | [ca]({{< ref "/f41/language/ca.md" >}}) | 921 | 1696 | 54.3 | /mnt/stockage/packages/f41/gcc13/libcpp/po/ca.po | 
+ | [es]({{< ref "/f41/language/es.md" >}}) | 63248 | 130504 | 48.5 | /mnt/stockage/packages/f41/gcc13/gcc/po/es.po/mnt/stockage/packages/f41/gcc13/libcpp/po/es.po | 
+ | [ka]({{< ref "/f41/language/ka.md" >}}) | 499 | 1696 | 29.4 | /mnt/stockage/packages/f41/gcc13/libcpp/po/ka.po | 
+ | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 30702 | 130504 | 23.5 | /mnt/stockage/packages/f41/gcc13/gcc/po/zh_CN.po/mnt/stockage/packages/f41/gcc13/libcpp/po/zh_CN.po | 
+ | [vi]({{< ref "/f41/language/vi.md" >}}) | 25564 | 130504 | 19.6 | /mnt/stockage/packages/f41/gcc13/gcc/po/vi.po/mnt/stockage/packages/f41/gcc13/libcpp/po/vi.po | 
+ | [id]({{< ref "/f41/language/id.md" >}}) | 20118 | 130504 | 15.4 | /mnt/stockage/packages/f41/gcc13/gcc/po/id.po/mnt/stockage/packages/f41/gcc13/libcpp/po/id.po | 
+ | [sr]({{< ref "/f41/language/sr.md" >}}) | 17449 | 130504 | 13.4 | /mnt/stockage/packages/f41/gcc13/gcc/po/sr.po/mnt/stockage/packages/f41/gcc13/libcpp/po/sr.po | 
+ | [tr]({{< ref "/f41/language/tr.md" >}}) | 15389 | 130504 | 11.8 | /mnt/stockage/packages/f41/gcc13/gcc/po/tr.po/mnt/stockage/packages/f41/gcc13/libcpp/po/tr.po | 
+ | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 15078 | 130504 | 11.6 | /mnt/stockage/packages/f41/gcc13/gcc/po/zh_TW.po/mnt/stockage/packages/f41/gcc13/libcpp/po/zh_TW.po | 
+ | [fi]({{< ref "/f41/language/fi.md" >}}) | 14833 | 130504 | 11.4 | /mnt/stockage/packages/f41/gcc13/gcc/po/fi.po/mnt/stockage/packages/f41/gcc13/libcpp/po/fi.po | 
+ | [ja]({{< ref "/f41/language/ja.md" >}}) | 13950 | 130504 | 10.7 | /mnt/stockage/packages/f41/gcc13/gcc/po/ja.po/mnt/stockage/packages/f41/gcc13/libcpp/po/ja.po | 
+ | [da]({{< ref "/f41/language/da.md" >}}) | 11204 | 130504 | 8.6 | /mnt/stockage/packages/f41/gcc13/gcc/po/da.po/mnt/stockage/packages/f41/gcc13/libcpp/po/da.po | 
+ | [hr]({{< ref "/f41/language/hr.md" >}}) | 5254 | 128808 | 4.1 | /mnt/stockage/packages/f41/gcc13/gcc/po/hr.po | 
+ | [nl]({{< ref "/f41/language/nl.md" >}}) | 5040 | 130504 | 3.9 | /mnt/stockage/packages/f41/gcc13/gcc/po/nl.po/mnt/stockage/packages/f41/gcc13/libcpp/po/nl.po | 
+ | [be]({{< ref "/f41/language/be.md" >}}) | 221 | 130504 | 0.2 | /mnt/stockage/packages/f41/gcc13/gcc/po/be.po/mnt/stockage/packages/f41/gcc13/libcpp/po/be.po | 
+ | [el]({{< ref "/f41/language/el.md" >}}) | 176 | 130504 | 0.1 | /mnt/stockage/packages/f41/gcc13/gcc/po/el.po/mnt/stockage/packages/f41/gcc13/libcpp/po/el.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

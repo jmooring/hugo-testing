@@ -1,0 +1,412 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4024,0,0,485,0,0,3849,4024,100.0,Marathi <fedora-trans-mr@redhat.com>
+NetworkManager,2618,0,0,530,0,0,2580,2618,100.0,Marathi <maajhe-sanganak@freelists.org>
+NetworkManager-l2tp,84,19,660,32,6,96,103,763,11.009174311926607,marathi
+NetworkManager-openconnect,34,0,2692,9,0,497,33,2726,1.247248716067498,marathi
+NetworkManager-openswan,139,0,0,36,0,0,163,139,100.0,marathi
+NetworkManager-openvpn,185,0,0,58,0,0,205,185,100.0,marathi
+NetworkManager-pptp,115,0,0,42,0,0,145,115,100.0,marathi
+NetworkManager-ssh,185,0,0,58,0,0,205,185,100.0,marathi
+NetworkManager-vpnc,139,0,0,36,0,0,163,139,100.0,marathi
+PackageKit,1373,0,191,335,0,31,1413,1564,87.78772378516624,LANGUAGE <LL@li.org>
+abrt,1928,0,380,244,0,58,1791,2308,83.53552859618716,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+accerciser,540,0,0,207,0,0,570,540,100.0,marathi
+aisleriot,1788,180,19,478,64,7,1557,1987,89.98490186210367,Marathi <fedora-trans-mr@redhat.com>
+alacarte,42,0,0,16,0,0,43,42,100.0,marathi
+anaconda,2771,284,2315,472,57,205,2569,5370,51.601489757914344,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+anjuta,7325,0,0,1998,0,0,7531,7325,100.0,marathi
+apper,221,0,4082,131,0,640,266,4303,5.13595166163142,Marathi <kde-i18n-doc@kde.org>
+arduino,133,0,1784,61,0,266,146,1917,6.9379238393322895,
+at-spi,24,0,0,5,0,0,22,24,100.0,Marathi <fedora-trans-mr@redhat.com>
+at-spi2-core,96,0,0,14,0,0,103,96,100.0,Marathi <fedora-trans-mr@redhat.com>
+atk,375,0,0,126,0,0,347,375,100.0,marathi
+authconfig,1638,0,0,285,0,0,1549,1638,100.0,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+baobab,193,0,0,61,0,0,221,193,100.0,Marathi <fedora-trans-mr@redhat.com>
+bluedevil,108,0,509,69,0,129,126,617,17.504051863857377,Marathi <kde-i18n-doc@kde.org>
+brasero,5509,0,0,975,0,0,5192,5509,100.0,Marathi <fedora-trans-mr@redhat.com>
+caja-actions,1574,0,0,173,0,0,1319,1574,100.0,marathi
+calibre,11043,0,43791,7891,0,4457,11072,54834,20.13896487580698,Marathi <fedora-trans-mr@redhat.com>
+caribou,200,0,0,60,0,0,185,200,100.0,Marathi <mr@li.org>
+cheese,576,0,0,125,0,0,486,576,100.0,Marathi <fedora-trans-mr@redhat.com>
+chkconfig,487,0,0,93,0,0,468,487,100.0,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+choqok,180,0,1857,129,0,392,215,2037,8.836524300441827,Marathi <kde-i18n-doc@kde.org>
+cinnamon,494,0,1202,185,0,367,517,1696,29.127358490566035,Marathi <mr@li.org>
+clamtk,21,0,775,17,0,195,29,796,2.638190954773869,Marathi <mr@li.org>
+clementine,40,0,4211,28,0,1167,40,4251,0.9409550693954364,
+colord,25,0,363,8,0,91,23,388,6.443298969072164,LANGUAGE <LL@li.org>
+compat-gtkhtml314,695,0,0,362,0,0,756,695,100.0,Marathi <fedora-trans-mr@redhat.com>
+compiz,0,292,2987,0,118,610,0,3279,0.0,Marathi <i18n@suse.de>
+console-setup,979,0,0,171,0,0,811,979,100.0,"Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii@cdacmumbai.in>"
+control-center,4791,0,0,1877,0,0,4802,4791,100.0,Marathi <fedora-trans-mr@redhat.com>
+cracklib,93,0,3,15,0,1,66,96,96.875,Marathi <fedora-trans-mr@redhat.com>
+dasher,526,0,0,198,0,0,566,526,100.0,marathi
+dconf,184,0,0,29,0,0,183,184,100.0,Marathi
+debconf,748,55,2,84,3,1,751,805,92.9192546583851,"Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii@cdacmumbai.in>"
+dia,5462,0,1143,1973,0,388,5667,6605,82.69492808478425,marathi
+dnf,0,0,3186,0,0,690,0,3186,0.0,Marathi (http://www.transifex.net/projects/p/yum/team/mr/)
+dpkg,2870,3923,1583,414,463,190,2894,8376,34.26456542502388,"Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii@cdacmumbai.in>"
+drgeo,1909,68,8,449,8,4,1809,1985,96.1712846347607,Marathi
+drwright,124,16,51,17,4,8,117,191,64.92146596858639,Marathi <maajhe-sanganak@freelists.org>
+ekiga,4489,0,0,748,0,0,4022,4489,100.0,Marathi <maajhe-sanganak@freelists.org>
+empathy,4234,0,0,945,0,0,3998,4234,100.0,Marathi <maajhe-sanganak@freelists.org>
+eog,1454,0,0,296,0,0,1381,1454,100.0,Marathi <maajhe-sanganak@freelists.org>
+eog-plugins,79,0,0,27,0,0,78,79,100.0,marathi
+epiphany,2267,0,0,637,0,0,2257,2267,100.0,Marathi <fedora-trans-mr@redhat.com>
+epiphany-extensions,1039,0,0,274,0,0,1087,1039,100.0,marathi
+evince,1526,0,0,383,0,0,1468,1526,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution,21168,0,0,4441,0,0,19844,21168,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution-data-server,5399,0,0,1118,0,0,5577,5399,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution-ews,1039,0,0,210,0,0,1025,1039,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution-mapi,1034,0,0,231,0,0,1059,1034,100.0,Marathi <maajhe-sanganak@freelists.org>
+evolution-rss,700,0,0,190,0,0,762,700,100.0,marathi
+f-spot,3582,0,0,886,0,0,3762,3582,100.0,marathi
+file-roller,1334,0,0,297,0,0,1250,1334,100.0,Marathi <fedora-trans-mr@redhat.com>
+firewalld,287,0,1748,55,0,309,262,2035,14.103194103194102,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+firstboot,525,9,37,46,1,3,485,571,91.94395796847635,Marathi (http://www.transifex.net/projects/p/fedora/team/mr/)
+folks,843,0,0,109,0,0,725,843,100.0,Marathi <maajhe-sanganak@freelists.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Marathi
+fuse-encfs,7,4,1304,2,1,136,8,1315,0.532319391634981,Marathi <mr@li.org>
+gcalctool,1404,0,0,433,0,0,1365,1404,100.0,Marathi <fedora-trans-mr@redhat.com>
+gcompris,0,0,0,0,0,0,0,0,0.0,
+gconf-editor,336,0,0,98,0,0,387,336,100.0,marathi
+gcr,115,205,302,59,71,97,113,622,18.488745980707396,Marathi <fedora-trans-mr@redhat.com>
+gdesklets,74,0,1454,19,0,185,66,1528,4.842931937172775,Marathi <mr@li.org>
+gdk-pixbuf2,1265,89,0,194,8,0,1299,1354,93.42688330871492,Marathi <fedora-trans-mr@redhat.com>
+gdm,1020,0,0,182,0,0,915,1020,100.0,Marathi <maajhe-sanganak@freelists.org>
+gedit,4360,0,0,751,0,0,4048,4360,100.0,Marathi <maajhe-sanganak@freelists.org>
+gedit-plugins,890,192,123,387,58,24,936,1205,73.85892116182573,Marathi <fedora-trans-mr@redhat.com>
+ggz-gtk-client,7,0,0,7,0,0,9,7,100.0,Marathi
+glade,3361,0,0,910,0,0,3214,3361,100.0,marathi
+glade3,3361,0,0,910,0,0,3214,3361,100.0,marathi
+glib-networking,135,0,0,24,0,0,124,135,100.0,Marathi <fedora-trans-mr@redhat.com>
+glib2,5404,0,0,836,0,0,5169,5404,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-abrt,303,0,5,51,0,2,274,308,98.37662337662337,Marathi (http://www.transifex.com/projects/p/gnome-abrt/language/mr/)
+gnome-applets,3367,0,0,791,0,0,3191,3367,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-backgrounds,24,0,0,18,0,0,24,24,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-bluetooth,460,0,0,144,0,0,473,460,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-boxes,532,0,0,123,0,0,496,532,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-clocks,94,0,0,45,0,0,98,94,100.0,Marathi
+gnome-color-manager,1688,0,0,325,0,0,1435,1688,100.0,Marathi <mr@li.org>
+gnome-contacts,324,0,0,142,0,0,334,324,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-desktop,351,0,0,53,0,0,343,351,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-desktop3,241,0,0,35,0,0,239,241,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-dictionary,800,0,0,178,0,0,729,800,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-disk-utility,3026,0,0,545,0,0,2693,3026,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-do,473,0,139,119,0,25,450,612,77.2875816993464,Marathi <mr@li.org>
+gnome-doc-utils,249,0,0,99,0,0,248,249,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-documents,214,0,0,87,0,0,226,214,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-font-viewer,39,0,0,22,0,0,42,39,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-games,8518,0,0,1943,0,0,7671,8518,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-icon-theme,43,0,0,38,0,0,43,43,100.0,marathi
+gnome-keyring,553,0,0,112,0,0,492,553,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-mag,298,0,0,42,0,0,249,298,100.0,marathi
+gnome-media,1211,0,0,302,0,0,1219,1211,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-menus,103,0,0,39,0,0,105,103,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-nettool,617,0,0,213,0,0,620,617,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-online-accounts,524,0,0,96,0,0,492,524,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-packagekit,5088,0,0,807,0,0,4673,5088,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-panel,3480,0,0,503,0,0,3062,3480,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-power-manager,432,0,0,144,0,0,356,432,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-screensaver,270,0,0,54,0,0,259,270,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-screenshot,342,0,0,70,0,0,296,342,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-search-tool,1249,0,0,186,0,0,1163,1249,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-session,481,0,0,96,0,0,475,481,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-settings-daemon,3740,0,0,572,0,0,3309,3740,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-shell,1477,0,0,354,0,0,1363,1477,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-system-log,419,0,0,65,0,0,381,419,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-system-monitor,1154,0,0,296,0,0,1045,1154,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-terminal,4167,0,0,490,0,0,3404,4167,100.0,Marathi <fedora-trans-mr@redhat.com>
+gnome-themes,109,0,0,30,0,0,111,109,100.0,marathi
+gnome-themes-standard,24,0,0,9,0,0,23,24,100.0,Marathi <mr@li.org>
+gnome-user-share,316,0,0,51,0,0,311,316,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-vfs2,1508,0,0,301,0,0,1417,1508,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Marathi <fedora-trans-mr@redhat.com>
+gnote,3022,0,0,453,0,0,2837,3022,100.0,Marathi <maajhe-sanganak@freelists.org>
+gnumeric,2315,4067,28664,686,1464,3492,2182,35046,6.6056040632311825,terna localization Team <hbcse.net>
+goffice,85,1117,4999,56,531,1414,88,6201,1.3707466537655217,terna localization Team <hbcse.net>
+goffice08,87,874,3638,58,432,1070,90,4599,1.8917155903457272,terna localization Team <hbcse.net>
+grass,80,11568,43858,22,2083,7014,79,55506,0.1441285626779087,Marathi <www.janabhaaratii.org.in>
+gtk2,13677,27,0,2781,3,0,11936,13704,99.80297723292469,Marathi <maajhe-sanganak@freelists.org>
+gtk2-engines,119,0,0,47,0,0,124,119,100.0,marathi
+gtk3,13351,0,0,2842,0,0,11273,13351,100.0,Marathi <maajhe-sanganak@freelists.org>
+gtkhtml3,695,0,0,362,0,0,756,695,100.0,Marathi <fedora-trans-mr@redhat.com>
+gtksourceview,508,177,164,263,25,54,504,849,59.835100117785636,Marathi
+gtksourceview2,1120,0,0,448,0,0,1088,1120,100.0,Marathi <fedora-trans-mr@redhat.com>
+gtksourceview3,1120,0,0,448,0,0,1088,1120,100.0,Marathi <fedora-trans-mr@redhat.com>
+gucharmap,1070,0,0,362,0,0,1080,1070,100.0,Marathi <maajhe-sanganak@freelists.org>
+gvfs,2552,0,0,564,0,0,2528,2552,100.0,Marathi <maajhe-sanganak@freelists.org>
+hivex,270,0,0,22,0,0,259,270,100.0,Marathi <None>
+homerun,148,12,211,72,4,27,165,371,39.892183288409704,Marathi <kde-i18n-doc@kde.org>
+ibus,373,91,220,71,15,30,339,684,54.53216374269005,Marathi <fedora-trans-mr@redhat.com>
+im-chooser,231,0,6,53,0,1,212,237,97.46835443037975,Marathi (http://www.transifex.net/projects/p/im-chooser/team/mr/)
+imsettings,432,9,0,78,2,0,388,441,97.95918367346938,Marathi (http://www.transifex.net/projects/p/imsettings/team/mr/)
+initscripts,4344,0,5,1069,0,1,5207,4349,99.88503104161876,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+iok,206,0,0,40,0,0,194,206,100.0,Marathi
+iso-codes,12210,2985,1202,8545,1369,584,12206,16397,74.4648411294749,Marathi <fedora-trans-mr@redhat.com>
+kde-plasma-networkmanagement,190,0,131,88,0,33,209,321,59.19003115264797,Marathi <kde-i18n-doc@kde.org>
+kde-plasma-nm,114,208,908,59,91,285,124,1230,9.268292682926829,Marathi <kde-i18n-doc@kde.org>
+kexec-tools,148,0,0,17,0,0,133,148,100.0,Marathi <fedora-trans-mr@redhat.com>
+kmymoney,593,313,18318,401,220,2568,631,19224,3.0846858094049106,Marathi <kde-i18n-doc@kde.org>
+kscreen,11,7,14,2,1,6,10,32,34.375,Marathi <kde-i18n-doc@kde.org>
+ktp-accounts-kcm,326,0,664,148,0,115,337,990,32.92929292929293,Marathi <kde-i18n-doc@kde.org>
+ktp-approver,10,0,60,6,0,11,12,70,14.285714285714285,Marathi <kde-i18n-doc@kde.org>
+ktp-auth-handler,21,0,41,14,0,7,30,62,33.87096774193548,Marathi <kde-i18n-doc@kde.org>
+ktp-call-ui,27,0,198,18,0,53,32,225,12.0,Marathi <kde-i18n-doc@kde.org>
+ktp-common-internals,46,0,735,34,0,134,54,781,5.8898847631242,Marathi <kde-i18n-doc@kde.org>
+ktp-contact-list,34,0,371,21,0,90,42,405,8.395061728395062,Marathi <kde-i18n-doc@kde.org>
+ktp-contact-runner,43,0,134,21,0,14,48,177,24.293785310734464,Marathi <kde-i18n-doc@kde.org>
+ktp-desktop-applets,29,0,0,16,0,0,29,29,100.0,Marathi <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,35,0,104,18,0,20,35,139,25.179856115107913,Marathi <kde-i18n-doc@kde.org>
+ktp-kded-integration-module,18,0,207,14,0,35,19,225,8.0,Marathi <kde-i18n-doc@kde.org>
+ktp-send-file,21,0,38,8,0,9,21,59,35.59322033898305,Marathi <kde-i18n-doc@kde.org>
+ktp-text-ui,115,0,354,57,0,53,132,469,24.520255863539443,Marathi <kde-i18n-doc@kde.org>
+kwebkitpart,179,93,352,71,32,55,201,624,28.685897435897434,Marathi <kde-i18n-doc@kde.org>
+libbonobo,543,0,0,107,0,0,517,543,100.0,marathi
+libbonoboui,368,0,0,115,0,0,387,368,100.0,marathi
+libcryptui,3042,0,0,655,0,0,3044,3042,100.0,Marathi <fedora-trans-mr@redhat.com>
+libgdata,597,0,0,74,0,0,506,597,100.0,Marathi <fedora-trans-mr@redhat.com>
+libgdl,611,0,0,96,0,0,499,611,100.0,marathi
+libgnome,1772,0,0,273,0,0,1559,1772,100.0,marathi
+libgnome-keyring,44,0,0,9,0,0,38,44,100.0,Marathi <mr@li.org>
+libgnome-media-profiles,446,0,14,49,0,2,414,460,96.95652173913044,Marathi <maajhe-sanganak@freelists.org>
+libgnomecanvas,378,0,0,95,0,0,324,378,100.0,marathi
+libgnomekbd,187,0,0,39,0,0,162,187,100.0,Marathi <fedora-trans-mr@redhat.com>
+libgnomeprint22,168,0,0,98,0,0,172,168,100.0,
+libgnomeprintui22,481,0,0,154,0,0,436,481,100.0,marathi
+libgnomeui,1309,0,0,334,0,0,1245,1309,100.0,marathi
+libgtop2,126,0,0,40,0,0,127,126,100.0,marathi
+libguestfs,3940,0,5915,535,0,536,3718,9855,39.97970573313039,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+libgweather,6091,0,0,4511,0,0,6056,6091,100.0,Marathi <fedora-trans-mr@redhat.com>
+libgxim,0,0,130,0,0,26,0,130,0.0,LANGUAGE <LL@li.org>
+libmate,1754,0,19,272,0,1,1538,1773,98.92836999435984,LANGUAGE <LL@li.org>
+libmatecanvas,378,0,0,95,0,0,324,378,100.0,LANGUAGE <LL@li.org>
+libmatecomponent,537,0,6,106,0,1,511,543,98.89502762430939,LANGUAGE <LL@li.org>
+libmatecomponentui,368,0,0,115,0,0,387,368,100.0,LANGUAGE <LL@li.org>
+libmatekbd,246,0,0,51,0,0,230,246,100.0,Marathi <fedora-trans-mr@redhat.com>
+libmateui,1223,0,0,319,0,0,1164,1223,100.0,LANGUAGE <LL@li.org>
+libmateweather,5970,0,103,4502,0,16,5962,6073,98.30396838465339,LANGUAGE <LL@li.org>
+libmatewnck,1124,0,0,241,0,0,1091,1124,100.0,marathi
+libpeas,105,0,0,26,0,0,102,105,100.0,Marathi <mr@li.org>
+libpwquality,18,0,325,6,0,47,22,343,5.247813411078718,LANGUAGE <LL@li.org>
+libreoffice,91777,0,0,28077,0,0,92742,91777,100.0,LANGUAGE <LL@li.org>
+libreport,1255,0,1614,198,0,179,1252,2869,43.74346462181945,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+libsoup,51,0,0,14,0,0,52,51,100.0,Marathi <maajhe-sanganak@freelists.org>
+libuser,1094,17,357,229,3,72,1115,1468,74.52316076294278,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+libvirt,36462,334,1241,5997,56,162,35439,38037,95.8592948970739,Marathi (http://www.transifex.com/projects/p/libvirt/language/mr/)
+libwnck,1124,0,0,241,0,0,1091,1124,100.0,marathi
+libwnck3,1084,0,0,230,0,0,1047,1084,100.0,Marathi <maajhe-sanganak@freelists.org>
+libxfcegui4,78,7,54,23,4,17,75,139,56.11510791366906,Marathi <LL@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Marathi <mr@li.org>
+lightdm-kde,134,0,0,57,0,0,167,134,100.0,Marathi <kde-i18n-doc@kde.org>
+lxmenu-data,97,0,0,37,0,0,98,97,100.0,marathi
+mate-applets,2865,0,434,623,0,109,2686,3299,86.84449833282814,LANGUAGE <LL@li.org>
+mate-backgrounds,23,0,7,17,0,4,23,30,76.66666666666667,LANGUAGE <LL@li.org>
+mate-bluetooth,593,0,0,157,0,0,599,593,100.0,Marathi <fedora-trans-mr@redhat.com>
+mate-calc,1290,0,122,432,0,9,1261,1412,91.35977337110481,LANGUAGE <LL@li.org>
+mate-character-map,803,0,0,298,0,0,844,803,100.0,marathi
+mate-conf,3985,0,47,481,0,3,3810,4032,98.83432539682539,LANGUAGE <LL@li.org>
+mate-conf-editor,336,0,0,98,0,0,387,336,100.0,marathi
+mate-control-center,2195,0,415,539,0,69,2143,2610,84.09961685823755,LANGUAGE <LL@li.org>
+mate-desktop,165,0,242,26,0,17,165,407,40.54054054054054,LANGUAGE <LL@li.org>
+mate-dialogs,458,0,173,130,0,19,458,631,72.58320126782884,LANGUAGE <LL@li.org>
+mate-doc-utils,249,0,2,99,0,2,248,251,99.20318725099602,LANGUAGE <LL@li.org>
+mate-document-viewer,1096,238,101,281,55,28,1074,1435,76.37630662020905,Marathi <fedora-trans-mr@redhat.com>
+mate-file-archiver,1179,114,85,270,25,10,1132,1378,85.5587808417997,Marathi <fedora-trans-mr@redhat.com>
+mate-file-manager,7710,0,1376,1308,0,168,7123,9086,84.85582214395774,LANGUAGE <LL@li.org>
+mate-file-manager-sendto,319,0,0,68,0,0,295,319,100.0,marathi
+mate-file-manager-share,222,0,0,35,0,0,233,222,100.0,marathi
+mate-icon-theme,43,0,0,38,0,0,43,43,100.0,marathi
+mate-image-viewer,1091,0,532,239,0,76,1077,1623,67.22119531731362,LANGUAGE <LL@li.org>
+mate-keyring,841,0,332,176,0,67,757,1173,71.69650468883205,LANGUAGE <LL@li.org>
+mate-media,831,0,89,206,0,23,860,920,90.32608695652173,LANGUAGE <LL@li.org>
+mate-menu-editor,42,0,0,16,0,0,43,42,100.0,LANGUAGE <LL@li.org>
+mate-menus,161,0,0,57,0,0,168,161,100.0,Marathi <fedora-trans-mr@redhat.com>
+mate-panel,3987,0,250,551,0,31,3558,4237,94.09959877271655,LANGUAGE <LL@li.org>
+mate-polkit,311,0,0,48,0,0,287,311,100.0,Marathi <fedora-trans-mr@redhat.com>
+mate-power-manager,2786,0,0,427,0,0,2514,2786,100.0,Marathi <fedora-trans-mr@redhat.com>
+mate-screensaver,989,0,0,157,0,0,887,989,100.0,Marathi <fedora-trans-mr@redhat.com>
+mate-session-manager,622,0,0,110,0,0,584,622,100.0,Marathi <fedora-trans-mr@redhat.com>
+mate-settings-daemon,1158,0,577,181,0,61,1057,1735,66.74351585014409,LANGUAGE <LL@li.org>
+mate-system-monitor,933,0,0,244,0,0,909,933,100.0,Marathi <maajhe-sanganak@freelists.org>
+mate-terminal,4204,0,0,493,0,0,3414,4204,100.0,Marathi <fedora-trans-mr@redhat.com>
+mate-text-editor,4224,0,762,998,0,107,4084,4986,84.71720818291215,LANGUAGE <LL@li.org>
+mate-themes,96,0,13,22,0,8,97,109,88.07339449541286,LANGUAGE <LL@li.org>
+mate-user-share,281,0,0,45,0,0,283,281,100.0,Marathi <maajhe-sanganak@freelists.org>
+mate-utils,3868,0,53,674,0,14,3541,3921,98.64830400408059,LANGUAGE <LL@li.org>
+mate-vfs,1508,0,11,301,0,4,1417,1519,99.27583936800526,LANGUAGE <LL@li.org>
+mate-window-manager,2076,0,40,322,0,4,1990,2116,98.10964083175804,LANGUAGE <LL@li.org>
+metacity,2040,0,0,310,0,0,1965,2040,100.0,Marathi <maajhe-sanganak@freelists.org>
+mingw-GConf2,4024,0,0,485,0,0,3849,4024,100.0,Marathi <fedora-trans-mr@redhat.com>
+mingw-atk,375,0,0,126,0,0,347,375,100.0,marathi
+mingw-gdk-pixbuf,1265,89,0,194,8,0,1299,1354,93.42688330871492,Marathi <fedora-trans-mr@redhat.com>
+mingw-glib-networking,135,0,0,24,0,0,124,135,100.0,Marathi <fedora-trans-mr@redhat.com>
+mingw-glib2,5404,0,0,836,0,0,5169,5404,100.0,Marathi <maajhe-sanganak@freelists.org>
+mingw-gtk2,13677,27,0,2781,3,0,11936,13704,99.80297723292469,Marathi <maajhe-sanganak@freelists.org>
+mingw-gtk3,13351,0,0,2842,0,0,11273,13351,100.0,Marathi <maajhe-sanganak@freelists.org>
+mingw-gtkhtml3,695,0,0,362,0,0,756,695,100.0,Marathi <fedora-trans-mr@redhat.com>
+mingw-gtksourceview3,1120,0,0,448,0,0,1088,1120,100.0,Marathi <fedora-trans-mr@redhat.com>
+mingw-libsoup,51,0,0,14,0,0,52,51,100.0,Marathi <maajhe-sanganak@freelists.org>
+mingw-libvirt,36574,132,1134,6017,22,155,35556,37840,96.65433403805497,Marathi (http://www.transifex.com/projects/p/libvirt/language/mr/)
+mingw-webkitgtk,1472,0,0,343,0,0,1310,1472,100.0,Marathi <kde-i18n-doc@kde.org>
+mingw-webkitgtk3,1472,0,0,343,0,0,1310,1472,100.0,Marathi <kde-i18n-doc@kde.org>
+mousetweaks,715,0,0,94,0,0,631,715,100.0,Marathi <fedora-trans-mr@redhat.com>
+muffin,3864,0,0,413,0,0,3609,3864,100.0,marathi
+multimedia-menus,56,0,0,22,0,0,57,56,100.0,Marathi <fedora-trans-mr@redhat.com>
+mutter,2055,0,0,272,0,0,1938,2055,100.0,Marathi <maajhe-sanganak@freelists.org>
+nautilus,6316,0,0,1055,0,0,5873,6316,100.0,Marathi <maajhe-sanganak@freelists.org>
+nautilus-actions,1574,0,0,173,0,0,1319,1574,100.0,marathi
+nautilus-open-terminal,166,0,0,16,0,0,135,166,100.0,marathi
+nautilus-sendto,319,0,0,68,0,0,295,319,100.0,marathi
+nemo,7129,0,0,1128,0,0,6484,7129,100.0,Marathi <fedora-trans-mr@redhat.com>
+nemo-open-terminal,166,0,0,16,0,0,135,166,100.0,marathi
+network-manager-applet,2482,0,0,542,0,0,2527,2482,100.0,Marathi <fedora-trans-mr@redhat.com>
+newt,4,0,0,4,0,0,4,4,100.0,"Marathi, janabhaaratii, C-DAC, Mumbai, India <janabhaaratii [at] cdacmumbai [dot] in>"
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Marathi <mr@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,126,158,100.0,LANGUAGE <LL@li.org>
+openconnect,0,0,2573,0,0,469,0,2573,0.0,marathi
+orage,10,118,2264,8,47,746,13,2392,0.4180602006688963,Marathi <LL@li.org>
+orca,541,440,342,379,62,71,548,1323,40.89191232048375,Marathi
+pam,599,13,3,120,2,1,623,615,97.39837398373984,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+pam_krb5,7,0,0,4,0,0,8,7,100.0,Marathi <None>
+paprefs,131,0,0,23,0,0,152,131,100.0,Marathi <fedora-trans-mr@redhat.com>
+passwd,276,0,39,50,0,5,291,315,87.61904761904762,Marathi (http://www.transifex.net/projects/p/fedora/team/mr/)
+pavucontrol,219,1,17,85,1,1,232,237,92.40506329113924,Marathi <fedora-trans-mr@redhat.com>
+pessulus,130,0,0,33,0,0,149,130,100.0,Marathi <fedora-trans-mr@redhat.com>
+pidgin,17474,466,416,3750,101,52,17284,18356,95.19503159729788,Marathi <maajhe-sanganak@freelists.org>
+pitivi,10,0,1003,2,0,216,10,1013,0.9871668311944718,marathi
+planner,1815,0,0,531,0,0,1941,1815,100.0,marathi
+poedit,1361,85,79,324,19,11,1374,1525,89.24590163934425,AJ <abbyjeet@gmail.com>
+pogo,371,0,205,89,0,12,350,576,64.40972222222221,Marathi <mr@li.org>
+policycoreutils,1379,0,2924,241,0,489,1429,4303,32.0474087845689,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+polkit-gnome,311,0,0,48,0,0,287,311,100.0,Marathi <fedora-trans-mr@redhat.com>
+pootle,950,222,2390,744,61,555,1274,3562,26.670409882088713,LANGUAGE <LL@li.org>
+preupgrade,0,0,768,0,0,114,0,768,0.0,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+publican,858,0,236,43,0,29,737,1094,78.42778793418648,Marathi <fedora-trans-mr@redhat.com>
+publican-fedora,106,0,1,5,0,1,74,107,99.06542056074767,marathi
+publican-jboss,120,3,109,9,1,4,92,232,51.724137931034484,Marathi <fedora-trans-mr@redhat.com>
+publican-ovirt,288,0,0,27,0,0,238,288,100.0,marathi
+publican-redhat,220,0,0,13,0,0,161,220,100.0,Marathi <fedora-trans-mr@redhat.com>
+pulseaudio,2010,951,342,407,43,46,2001,3303,60.85376930063578,Marathi <fedora-trans-mr@redhat.com>
+pykickstart,209,0,134,20,0,16,196,343,60.932944606414,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+python-meh,2,0,62,2,0,13,4,64,3.125,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+qt5-qtwebkit,1821,0,0,423,0,0,1598,1821,100.0,Marathi <kde-i18n-doc@kde.org>
+qtwebkit,1821,0,0,423,0,0,1598,1821,100.0,Marathi <kde-i18n-doc@kde.org>
+redhat-menus,261,0,0,86,0,0,260,261,100.0,marathi
+retrace-server,0,0,381,0,0,51,0,381,0.0,Marathi
+rhn-client-tools,3403,0,945,319,0,114,2986,4348,78.2658693652254,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+rhnsd,20,0,17,5,0,4,20,37,54.054054054054056,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+rhythmbox,4517,0,0,1061,0,0,4603,4517,100.0,marathi
+sabayon,656,66,14,146,13,7,670,736,89.13043478260869,Marathi <fedora-trans-mr@redhat.com>
+scim,1173,0,0,281,0,0,1029,1173,100.0,marathi
+seahorse,3042,0,0,655,0,0,3044,3042,100.0,Marathi <fedora-trans-mr@redhat.com>
+seahorse-nautilus,411,10,0,109,1,0,460,421,97.62470308788599,marathi
+seahorse-plugins,1163,0,0,248,0,0,1201,1163,100.0,marathi
+setroubleshoot,631,0,0,174,0,0,623,631,100.0,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+setroubleshoot-plugins,7776,1447,260,365,91,3,6297,9483,81.99936728883264,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+setuptool,55,0,0,14,0,0,55,55,100.0,marathi
+skrooge,234,252,7965,200,168,1622,250,8451,2.768903088391906,Marathi <kde-i18n-doc@kde.org>
+sos,174,76,17,31,2,3,162,267,65.1685393258427,Marathi <fedora-trans-mr@redhat.com>
+sound-juicer,1022,0,0,198,0,0,1031,1022,100.0,Marathi <fedora-trans-mr@redhat.com>
+spacewalk-backend,0,0,1895,0,0,223,0,1895,0.0,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+stellarium,3367,0,7814,1398,0,1747,3229,11181,30.11358554690994,Marathi <mr@li.org>
+subscription-manager,4276,0,105,811,0,18,4011,4381,97.60328692079435,Marathi
+sugar,618,18,946,181,10,196,596,1582,39.06447534766119,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,62,0,72,28,0,13,68,134,46.26865671641791,LANGUAGE <LL@li.org>
+sugar-calculator,401,66,404,87,15,62,383,871,46.0390355912744,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,50,0,2,33,0,1,59,52,96.15384615384616,LANGUAGE <LL@li.org>
+sugar-clock,13,0,46,6,0,12,12,59,22.033898305084744,LANGUAGE <LL@li.org>
+sugar-connect,36,0,0,9,0,0,37,36,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,143,0,0,32,0,143,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,81,0,0,31,0,81,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,2,0,49,1,0,12,2,51,3.9215686274509802,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,184,0,0,56,0,184,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,65,0,0,20,0,65,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,37,8,49,12,2,6,35,94,39.361702127659576,LANGUAGE <LL@li.org>
+sugar-memorize,51,8,81,40,7,26,58,140,36.42857142857142,LANGUAGE <LL@li.org>
+sugar-moon,2,0,115,2,0,31,2,117,1.7094017094017095,LANGUAGE <LL@li.org>
+sugar-paint,37,0,51,34,0,17,47,88,42.04545454545455,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,41,15,53,13,1,17,37,109,37.61467889908257,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,24,0,84,14,0,26,26,108,22.22222222222222,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,24,0,193,24,0,48,25,217,11.059907834101383,LANGUAGE <LL@li.org>
+sugar-tamtam,2077,0,0,697,0,0,2058,2077,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,3,0,14,2,0,7,3,17,17.647058823529413,LANGUAGE <LL@li.org>
+sugar-toolkit,72,1,0,36,1,0,77,73,98.63013698630137,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,0,40,0,0,81,76,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,334,36,2555,143,8,599,351,2925,11.418803418803419,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,575,0,0,126,0,575,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-write,81,0,0,48,0,0,100,81,100.0,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,25,24,100.0,Marathi <maajhe-sanganak@freelists.org>
+switchdesk,137,0,0,19,0,0,123,137,100.0,Marathi <fedora-trans-mr@redhat.com>
+system-config-audit,1241,0,0,267,0,0,1255,1241,100.0,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+system-config-bind,9419,0,0,1064,0,0,8254,9419,100.0,Marathi <fedora-trans-mr@redhat.com>
+system-config-boot,119,0,0,23,0,0,107,119,100.0,Marathi <fedora-trans-mr@redhat.com>
+system-config-date,470,0,1380,52,0,772,468,1850,25.405405405405407,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+system-config-date-docs,557,166,38,46,13,5,451,761,73.19316688567675,Marathi <fedora-trans-mr@redhat.com>
+system-config-firewall,2807,0,7,330,0,1,2540,2814,99.75124378109453,Marathi <fedora-trans-mr@redhat.com>
+system-config-httpd,877,0,0,227,0,0,867,877,100.0,Marathi <fedora-trans-mr@redhat.com>
+system-config-kdump,832,0,36,147,0,5,809,868,95.85253456221197,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+system-config-keyboard,187,0,0,81,0,0,177,187,100.0,Marathi <fedora-trans-mr@redhat.com>
+system-config-kickstart,1096,3,49,243,1,10,1041,1148,95.47038327526133,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+system-config-language,293,0,30,54,0,2,303,323,90.71207430340557,Marathi <fedora-trans-mr@redhat.com>
+system-config-lvm,2246,0,0,344,0,0,2051,2246,100.0,Marathi <maajhe-sanganak@freelists.org>
+system-config-network,3022,10,0,718,3,0,2990,3032,99.67018469656992,Marathi <maajhe-sanganak@freelists.org>
+system-config-nfs,332,0,0,72,0,0,316,332,100.0,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,3039,25,0,738,6,0,3030,3064,99.18407310704961,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+system-config-rootpassword,116,0,0,19,0,0,109,116,100.0,marathi
+system-config-samba,518,0,53,128,0,6,532,571,90.71803852889667,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+system-config-samba-docs,486,7,702,48,5,14,420,1195,40.66945606694561,Marathi <fedora-trans-mr@redhat.com>
+system-config-services,518,0,0,71,0,0,537,518,100.0,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+system-config-services-docs,27,0,611,15,0,13,34,638,4.231974921630094,Marathi <fedora-trans-mr@redhat.com>
+system-config-users,1452,0,0,173,0,0,1335,1452,100.0,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+system-config-users-docs,1054,5,2,77,3,2,918,1061,99.3402450518379,Marathi <fedora-trans-mr@redhat.com>
+system-switch-java,81,0,0,11,0,0,74,81,100.0,marathi
+system-switch-mail,158,0,0,24,0,0,171,158,100.0,marathi
+tellico,227,169,5389,157,115,943,248,5785,3.923941227312014,Marathi <kde-i18n-doc@kde.org>
+terminator,1,0,725,1,0,253,2,726,0.13774104683195593,Marathi <mr@li.org>
+tomboy,2870,0,0,415,0,0,2756,2870,100.0,Marathi <fedora-trans-mr@redhat.com>
+totem,2050,0,0,523,0,0,1939,2050,100.0,Marathi <maajhe-sanganak@freelists.org>
+totem-pl-parser,28,0,0,7,0,0,27,28,100.0,marathi
+transmission,130,0,1679,61,0,433,159,1809,7.186290768380321,Marathi <mr@li.org>
+usermode,564,0,9,94,0,2,538,573,98.42931937172776,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+vinagre,1430,0,0,260,0,0,1311,1430,100.0,Marathi <maajhe-sanganak@freelists.org>
+vino,1223,0,0,133,0,0,1130,1223,100.0,Marathi <maajhe-sanganak@freelists.org>
+virt-manager,4763,144,34,1115,16,16,4807,4941,96.39749038656143,Marathi (http://www.transifex.com/projects/p/virt-manager/language/mr/)
+virt-top,361,0,0,77,0,0,377,361,100.0,Marathi <None>
+virt-viewer,500,0,39,105,0,11,503,539,92.76437847866418,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+volume_key,745,0,0,151,0,0,735,745,100.0,Marathi (http://www.transifex.com/projects/p/fedora/language/mr/)
+vte,108,0,0,19,0,0,112,108,100.0,marathi
+vte3,108,0,0,19,0,0,112,108,100.0,marathi
+webkitgtk,1472,0,0,343,0,0,1310,1472,100.0,Marathi <kde-i18n-doc@kde.org>
+webkitgtk3,1472,0,0,343,0,0,1310,1472,100.0,Marathi <kde-i18n-doc@kde.org>
+wesnoth,619,306,244453,265,97,14965,609,245378,0.25226385413525254,Marathi <sujitrjadhav@gmail.com>
+widelands,12,0,4695,11,0,947,12,4707,0.25493945188017847,Marathi <mr@li.org>
+xchat-gnome,4054,0,0,1048,0,0,4207,4054,100.0,marathi
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Marathi <fedora-trans-mr@redhat.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,79,81,100.0,Marathi <fedora-trans-mr@redhat.com>
+xfce4-appfinder,1,1,184,1,1,42,1,186,0.5376344086021506,Marathi <LL@li.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Marathi <LL@li.org>
+xfce4-panel,7,314,1183,7,95,242,7,1504,0.4654255319148936,Marathi <en@li.org>
+xfce4-session,271,119,742,63,41,126,277,1132,23.939929328621908,Marathi <LL@li.org>
+xfdesktop,28,267,559,15,85,100,33,854,3.278688524590164,Marathi <LL@li.org>
+xfwm4,113,417,334,47,116,72,115,864,13.078703703703704,Marathi <LL@li.org>
+xnoise,0,13,1036,0,6,276,0,1049,0.0,Marathi
+yelp,506,0,0,121,0,0,446,506,100.0,Marathi <fedora-trans-mr@redhat.com>
+yelp-xsl,249,0,0,99,0,0,248,249,100.0,Marathi <fedora-trans-mr@redhat.com>
+yum,0,0,3069,0,0,660,0,3069,0.0,Marathi (http://www.transifex.net/projects/p/yum/team/mr/)
+yum-rhn-plugin,95,0,24,11,0,4,80,119,79.83193277310924,Marathi (http://www.transifex.net/projects/p/fedora/language/mr/)
+zenity,582,0,0,135,0,0,559,582,100.0,marathi

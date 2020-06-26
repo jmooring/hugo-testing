@@ -1,0 +1,18 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,13253,2,0,2507,2,0,5919,13255,99.98491135420596,Khmer <en@li.org>
+filezilla,98,0,3362,54,0,512,72,3460,2.832369942196532,Khmer <phireak@gmail.com>
+gimp,25383,0,0,6639,0,0,11898,25383,100.0,Khmer <support@khmeros.info>
+hal,109,25,10,59,13,4,97,144,75.69444444444444,Khmer <support@khmeros.info>
+horde,872,0,6223,579,0,1352,671,7095,12.290345313601128,Khmer <support@khmeros.info>
+imp,5647,0,0,1135,0,0,2617,5647,100.0,Khmer <support@khmeros.info>
+inkscape,10517,0,0,2194,0,0,4740,10517,100.0,English <support@khmeros.info>
+iso-codes,952,0,0,410,0,0,456,952,100.0,Khmer
+k3b,20622,8,0,2530,2,0,8956,20630,99.96122152205525,khmer <support@khmeros.info>
+kaffeine,2108,109,137,609,28,21,1341,2354,89.54970263381479,Khmer <support@khmeros.info>
+kerry,265,50,171,95,14,25,223,486,54.52674897119342,Khmer <support@khmeros.info>
+knetworkmanager,365,79,318,154,35,55,274,762,47.9002624671916,Khmer <support@khmeros.info>
+kpowersave,1699,0,0,316,0,0,828,1699,100.0,Khmer <support@khmeros.info>
+nautilus,42,398,6331,11,89,1013,14,6771,0.6202924235711121,Khmer <support@khmeros.info>
+newt,4,0,0,4,0,0,4,4,100.0,Khmer <support@khmeros.info>
+pam,408,56,28,94,7,6,201,492,82.92682926829268,Khmer <support@khmeros.info>
+shadow-utils,2533,341,41,385,9,6,1771,2915,86.89536878216123,Khmer <support@khmeros.info>

@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,2031,380,3099,778,156,852,2620,5510,36.86025408348457,Lojban
+elementary-files,0,0,2656,0,0,567,0,2656,0.0,Lojban <jbo@li.org>
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,none
+maliit-keyboard,31,4,46,30,2,29,58,81,38.2716049382716,Lojban <jbo@li.org>
+minetest,638,435,9379,251,164,1048,1028,10452,6.10409491006506,Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/>
+supertux,234,0,2632,82,0,813,351,2866,8.164689462665736,Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/)
+supertuxkart,251,0,5692,113,0,997,416,5943,4.223456166919064,Lojban (http://app.transifex.com/supertuxkart/supertuxkart/language/jbo/)

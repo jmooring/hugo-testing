@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,12,0,1749,10,0,393,15,1761,0.6814310051107325,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+caja,46,0,9152,27,0,1466,49,9198,0.5001087192868015,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+deluge,0,0,2644,0,0,858,0,2644,0.0,Piemontese <pms@li.org>
+eom,146,0,1585,51,0,276,173,1731,8.434430964760255,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+libmatemixer,2,0,240,2,0,124,2,242,0.8264462809917356,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-control-center,8,0,2754,7,0,649,9,2762,0.2896451846488052,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-media,25,0,200,14,0,82,23,225,11.11111111111111,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-panel,11,0,4376,8,0,597,12,4387,0.25074082516526097,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-power-manager,17,0,2708,7,0,432,17,2725,0.6238532110091742,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-sensors-applet,4,0,300,4,0,101,5,304,1.3157894736842104,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-session-manager,4,0,677,4,0,110,4,681,0.5873715124816447,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-settings-daemon,7,0,1697,6,0,241,7,1704,0.41079812206572774,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-system-monitor,9,0,1298,6,0,302,9,1307,0.6885998469778117,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-terminal,13,0,4374,10,0,496,14,4387,0.2963300661043994,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-user-guide,5,0,0,2,0,0,5,5,100.0,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mate-utils,32,0,3649,18,0,645,35,3681,0.8693289866883999,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+mozo,2,0,40,2,0,14,2,42,4.761904761904762,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+onboard,1,0,2317,1,0,509,1,2318,0.04314063848144953,Piemontese <pms@li.org>
+pluma,85,0,4973,53,0,1062,101,5058,1.6805061289047054,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)
+python-caja,6,0,0,2,0,0,5,6,100.0,Piemontese (http://www.transifex.com/mate/MATE/language/pms/)

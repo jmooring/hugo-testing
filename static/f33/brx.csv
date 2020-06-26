@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,36,42,100.0,Bodo <brx@li.org>
+anaconda,0,0,7236,0,0,1198,0,7236,0.0,Bodo
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+entangle,0,0,953,0,0,229,0,953,0.0,Bodo
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Bodo
+gnucash,24279,6365,6022,3933,924,505,21764,36666,66.21665848469972,Bodo <https://hosted.weblate.org/projects/gnucash/gnucash/brx/>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Bodo
+inkscape,20458,10624,9847,4533,2810,1325,19681,40929,49.98411883994234,Hindi <Indlinux>
+libreoffice,38214,13400,53903,12808,5861,14173,39194,105517,36.21596519992039,LANGUAGE <LL@li.org>
+libvirt-glib,0,0,158,0,0,31,0,158,0.0,Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/)
+mypaint,283,43,6247,89,17,1174,295,6573,4.305492164917085,Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/>
+php-phpmyadmin-sql-parser5,0,0,268,0,0,50,0,268,0.0,Bodo <https://hosted.weblate.org/projects/phpmyadmin/master/brx/>
+pidgin,15011,0,824,3305,0,152,15211,15835,94.79633722766025,Bodo (http://www.transifex.com/pidgin/pidgin/language/brx/)
+policycoreutils,1,0,4492,1,0,697,2,4493,0.022256843979523704,Bodo
+python-fedora,0,0,214,0,0,29,0,214,0.0,Bodo
+python-meh,0,0,109,0,0,23,0,109,0.0,Bodo
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+tuxpaint,1137,475,50,251,40,14,1062,1662,68.41155234657039,Bodo
+virt-viewer,0,0,854,0,0,193,0,854,0.0,Bodo

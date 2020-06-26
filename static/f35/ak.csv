@@ -1,0 +1,67 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+elementary-calculator,1,1,233,1,1,73,4,235,0.425531914893617,Akan <https://l10n.elementary.io/projects/calculator/calculator/ak/>
+elementary-calendar,335,116,437,138,33,87,534,888,37.72522522522522,Akan <https://l10n.elementary.io/projects/calendar/calendar/ak/>
+elementary-camera,17,3,185,2,1,44,27,205,8.292682926829269,ak (generated) <http://weblate.elementary.io/projects/desktop/camera/ak/>
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,100,81,1427,26,19,262,111,1608,6.218905472636816,LANGUAGE <LL@li.org>
+elementary-files,368,474,2827,108,92,464,543,3669,10.029980921231942,Akan <ak@li.org>
+elementary-greeter,15,2,202,5,1,42,19,219,6.8493150684931505,Akan <https://l10n.elementary.io/projects/desktop/greeter/ak/>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,10,29,619,3,13,137,16,658,1.5197568389057752,Akan <ak@li.org>
+elementary-music,69,7,1129,31,4,319,84,1205,5.726141078838174,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,41,4,3966,12,2,804,48,4011,1.0221889803041637,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,1,0,318,1,0,60,3,319,0.3134796238244514,Akan <https://l10n.elementary.io/projects/desktop/sideload/ak/>
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,79,41,576,21,7,98,96,696,11.350574712643677,Akan <ak@li.org>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,45,6,340,18,3,75,75,391,11.508951406649617,Akan <ak@li.org>
+gala,7,0,351,5,0,68,14,358,1.9553072625698324,Akan <https://l10n.elementary.io/projects/desktop/gala/ak/>
+gnome-menus,70,0,0,27,0,0,74,70,100.0,Akan <akan-translators@lists.launchpad.net>
+granite,43,17,438,26,6,86,61,498,8.634538152610443,Akan <ak@li.org>
+gtkspell3,10,0,6,5,0,2,18,16,62.5,Akan <LL@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,0,63,919,0,43,377,0,982,0.0,Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/>
+mingw-gtkspell3,10,0,6,5,0,2,18,16,62.5,Akan <LL@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,43,0,58,11,0,7,50,101,42.57425742574257,Akan <karabutaworld@gmail.com>
+pantheon-agent-polkit,16,5,35,8,2,6,30,56,28.57142857142857,LANGUAGE <LL@li.org>
+sawfish,0,0,6617,0,0,1054,0,6617,0.0,Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/)
+stellarium,0,0,150019,0,0,37619,0,150019,0.0,Akan (https://www.transifex.com/stellarium/teams/80998/ak/)
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,45,75,263,15,20,50,75,383,11.74934725848564,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/ak/>
+switchboard-plug-applications,1,0,226,1,0,62,1,227,0.4405286343612335,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/ak/>
+switchboard-plug-bluetooth,26,21,159,15,9,29,38,206,12.62135922330097,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/ak/>
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,1,0,635,1,0,213,1,636,0.15723270440251574,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/ak/>
+switchboard-plug-mouse-touchpad,6,0,276,4,0,88,6,282,2.127659574468085,Akan <ak@li.org>
+switchboard-plug-networking,7,0,525,7,0,140,12,532,1.3157894736842104,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/ak/>
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,1,0,348,1,0,114,1,349,0.28653295128939826,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/ak/>
+switchboard-plug-printers,2,0,404,2,0,151,2,406,0.49261083743842365,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/ak/>
+switchboard-plug-sharing,1,0,140,1,0,31,1,141,0.7092198581560284,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/ak/>
+switchboard-plug-sound,2,2,189,2,2,53,2,193,1.0362694300518136,Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/ak/>
+tilix,1,2,2426,1,1,659,2,2429,0.04116920543433512,Akan <https://hosted.weblate.org/projects/tilix/translations/ak/>
+tuxpaint,1124,742,420,249,76,55,1055,2286,49.16885389326334,none
+tuxpaint-stamps,165,3,3081,24,1,780,109,3249,5.078485687903971,LANGUAGE <LL@li.org>
+wingpanel,6,0,13,1,0,3,14,19,31.57894736842105,Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel/ak/>
+wingpanel-applications-menu,195,16,204,60,6,49,273,415,46.98795180722892,Akan <https://l10n.elementary.io/projects/wingpanel/applications-menu/ak/>
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,4,0,173,1,0,35,5,177,2.2598870056497176,Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ak/>
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,10,14,110,4,5,25,13,134,7.462686567164178,Akan <ak@li.org>
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,48,9,51,14,3,10,51,108,44.44444444444444,Akan <ak@li.org>
+wingpanel-indicator-sound,4,4,88,2,2,19,9,96,4.166666666666666,Akan <ak@li.org>

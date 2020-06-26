@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-menus,95,2,6,37,1,1,86,103,92.23300970873787,Silesian <szl@li.org>
+libreoffice,0,0,99959,0,121,31365,0,99959,0.0,LANGUAGE <LL@li.org>
+mc,0,0,4153,0,0,1218,0,4153,0.0,Silesian (http://www.transifex.com/mc/mc/language/szl/)
+pantheon-calculator,28,0,24,15,0,17,37,52,53.84615384615385,Silesian <szl@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,Silesian <szl@li.org>
+polkit-gnome,94,0,0,16,0,0,70,94,100.0,Silesian <ubuntu-l10n-szl@lists.launchpad.net>
+slick-greeter,55,0,156,19,0,28,53,211,26.066350710900476,Silesian <szl@li.org>
+tanglet,0,0,128,0,0,6,0,128,0.0,Silesian (http://www.transifex.com/projects/p/tanglet/language/szl/)
+wingpanel,0,0,8,0,0,2,0,8,0.0,Silesian <szl@li.org>

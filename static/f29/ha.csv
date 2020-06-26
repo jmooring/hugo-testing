@@ -1,0 +1,163 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+atril,45,0,3797,36,0,603,68,3842,1.1712649661634564,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+blender,91,0,0,27,0,0,83,91,100.0,BlenderNigeria <pyc0der@outlook.com>
+caja,3003,0,6517,645,0,922,3719,9520,31.544117647058822,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+caja-extensions,4,0,580,4,0,131,6,584,0.684931506849315,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,hausa
+cinnamon-translations,8,0,313,2,0,66,11,321,2.4922118380062304,hausa
+deepin-metacity,2219,900,689,313,61,37,2878,3808,58.27205882352941,hausa
+deepin-mutter,2219,900,689,313,61,37,2878,3808,58.27205882352941,hausa
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,0,0,80,0,0,37,0,80,0.0,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,484,0,0,184,0,484,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-code,0,0,812,0,0,198,0,812,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2818,0,0,548,0,2818,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1137,0,0,329,0,1137,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3775,0,0,793,0,3775,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,129,0,0,41,0,129,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+elementary-terminal,0,0,286,0,0,66,0,286,0.0,
+elementary-videos,0,0,150,0,0,52,0,150,0.0,
+engrampa,44,0,1971,27,0,353,54,2015,2.1836228287841193,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+eom,32,0,1748,29,0,313,43,1780,1.7977528089887642,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+ephemeral,0,0,1809,0,0,207,0,1809,0.0,none
+gnome-desktop3,203,14,132,29,3,20,314,349,58.16618911174785,hausa
+gnome-menus,116,15,26,42,5,9,160,157,73.88535031847134,<en@li.org>
+gnome-session,117,86,519,20,28,65,153,722,16.20498614958449,hausa
+granite,0,0,150,0,0,68,0,150,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,140,0,846,119,0,301,130,986,14.198782961460447,Hausa <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ha/>
+isomaster,7,0,667,7,0,100,8,674,1.0385756676557862,http://littlesvr.ca/ostd/
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kcmutils,43,9,512,9,4,59,47,564,7.624113475177305,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kcodecs,0,0,348,0,0,53,0,348,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kcompletion,0,3,15,0,2,9,0,18,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kconfigwidgets,12,49,260,7,19,91,17,321,3.7383177570093453,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kcoreaddons,0,25,308,0,11,114,0,333,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kdeclarative,4,0,106,2,0,13,7,110,3.6363636363636362,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kdelibs4support,10,571,4232,8,372,1984,13,4813,0.2077706212341575,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kdesignerplugin,0,0,54,0,0,9,0,54,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kdnssd,0,0,3,0,0,3,0,3,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kglobalaccel,0,0,71,0,0,9,0,71,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-khtml,9,9,1703,7,4,299,13,1721,0.5229517722254503,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-ki18n,0,18,106,0,18,92,0,124,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kinit,0,0,134,0,0,14,0,134,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kitemviews,0,0,7,0,0,4,0,7,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kjobwidgets,0,14,109,0,8,28,0,123,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kjsembed,0,0,248,0,0,44,0,248,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-knewstuff,7,14,681,7,8,144,10,702,0.9971509971509971,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-knotifications,0,3,15,0,2,4,0,18,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-knotifyconfig,2,0,127,1,0,16,2,129,1.550387596899225,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kparts,4,0,100,2,0,24,7,104,3.8461538461538463,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kpty,0,0,15,0,0,4,0,15,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kross,6,5,89,4,2,29,9,100,6.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kservice,4,1,165,2,1,25,7,170,2.3529411764705883,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-ktextwidgets,0,0,462,0,0,122,0,462,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kwidgetsaddons,0,98,1223,0,53,405,0,1321,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kwindowsystem,0,0,2,0,0,1,0,2,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-kxmlgui,52,38,1512,36,13,179,71,1602,3.245942571785269,Hausa <kde-i18n-doc@lists.kde.org>
+kf5-sonnet,0,11,656,0,8,65,0,667,0.0,Hausa <kde-i18n-doc@lists.kde.org>
+libmatekbd,1,0,250,1,0,42,4,251,0.398406374501992,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+libmateweather,3,0,496,3,0,180,9,499,0.6012024048096193,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+marco,1901,0,2317,269,0,153,2460,4218,45.06875296348981,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-applets,52,0,15775,52,0,1544,85,15827,0.32855247362102735,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-calc,12,0,2992,12,0,655,21,3004,0.3994673768308922,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-control-center,47,0,8486,42,0,1430,64,8533,0.5508027657330364,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-media,5,0,233,5,0,95,9,238,2.100840336134454,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-menu,15,0,301,13,0,105,21,316,4.746835443037975,Hausa (http://www.transifex.com/mate/MATE/language/ha/)
+mate-menus,59,0,38,24,0,13,77,97,60.824742268041234,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-notification-daemon,2,0,137,1,0,36,5,139,1.4388489208633095,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-panel,2670,0,3998,338,0,450,3200,6668,40.04199160167967,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-power-manager,14,0,5180,14,0,567,23,5194,0.2695417789757413,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-sensors-applet,11,0,2156,11,0,216,16,2167,0.5076142131979695,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-session-manager,56,0,635,22,0,102,76,691,8.104196816208393,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-system-monitor,15,0,1453,14,0,309,23,1468,1.021798365122616,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-terminal,35,0,8394,27,0,768,45,8429,0.41523312373947086,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Hausa (http://www.transifex.com/mate/MATE/language/ha/)
+mate-user-admin,3,0,567,3,0,126,3,570,0.5263157894736842,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+mate-utils,124,0,10084,71,0,1030,157,10208,1.2147335423197492,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+metacity,2219,900,689,313,61,37,2878,3808,58.27205882352941,hausa
+mozo,3,0,39,2,0,14,3,42,7.142857142857142,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+muffin,2219,900,689,313,61,37,2878,3808,58.27205882352941,hausa
+mutter,2219,900,689,313,61,37,2878,3808,58.27205882352941,hausa
+mutter328,2219,900,689,313,61,37,2878,3808,58.27205882352941,hausa
+nautilus,3745,2655,1744,723,386,205,4634,8144,45.98477406679764,hausa
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,0,2,156,0,1,13,0,158,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,99,0,0,17,0,99,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,14,0,0,7,0,14,0.0,LANGUAGE <LL@li.org>
+pluma,53,0,5239,35,0,1103,68,5292,1.00151171579743,Hausa (https://www.transifex.com/mate/teams/13566/ha/)
+sequeler,0,0,1352,0,0,275,0,1352,0.0,
+sugar,2,0,2303,2,0,527,2,2305,0.08676789587852494,hausa
+sugar-abacus,0,0,28,0,0,23,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,334,0,0,71,0,334,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,1,870,0,1,163,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,0,0,137,0,0,81,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,258,0,0,63,0,258,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,9,112,0,8,38,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,150,0,0,34,0,150,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,58,0,0,16,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,69,0,0,22,0,69,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,98,0,0,21,0,98,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,106,0,0,61,0,106,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,274,0,0,66,0,274,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,137,0,0,50,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,4,0,117,2,0,24,4,121,3.3057851239669422,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,49,21,89,47,14,50,71,159,30.81761006289308,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,121,0,0,55,0,121,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,94,0,0,28,0,94,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,none
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,none
+switchboard-plug-display,0,0,113,0,0,47,0,113,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,none
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,0,131,0,0,46,0,131,0.0,
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+wingpanel,0,0,6,0,0,1,0,6,0.0,none
+wingpanel-applications-menu,0,0,222,0,0,73,0,222,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-datetime,0,0,14,0,0,4,0,14,0.0,
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none

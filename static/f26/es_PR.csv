@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calamares,0,0,55,0,0,13,0,55,0.0,Spanish (Puerto Rico) (https://www.transifex.com/calamares/teams/20061/es_PR/)
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/)
+libmateweather,374,0,125,163,0,20,439,499,74.9498997995992,Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/)
+mate-applets,1601,0,1017,386,0,239,1928,2618,61.15355233002292,Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/)
+mate-media,8,0,218,8,0,88,8,226,3.5398230088495577,Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/)
+mate-menu,12,0,288,11,0,99,12,300,4.0,Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/)
+mate-panel,26,0,4327,18,0,569,31,4353,0.5972892258212726,Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/)
+mate-user-guide,1,0,4,1,0,1,1,5,20.0,Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/)

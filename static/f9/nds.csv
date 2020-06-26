@@ -1,0 +1,26 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,205,98,3313,90,10,549,199,3616,5.669247787610619,"German, Low <nds@li.org>"
+amarok,13254,0,0,2508,0,0,13030,13254,100.0,Low Saxon <kde-i18n-nds@kde.org>
+deluge,129,0,2312,75,0,470,127,2441,5.284719377304384,"German, Low <nds@li.org>"
+digikam,16524,2,0,2135,1,0,15387,16526,99.98789785792084,Low Saxon <kde-i18n-nds@kde.org>
+dragonplayer,217,0,5,68,0,2,201,222,97.74774774774775,Low Saxon <kde-i18n-nds@kde.org>
+extragear-plasma,305,0,0,110,0,0,280,305,100.0,Low Saxon <kde-i18n-nds@kde.org>
+fuse-encfs,257,44,1009,35,8,86,269,1310,19.61832061068702,"German, Low <nds@li.org>"
+homebank,2,1,1079,1,1,380,1,1082,0.18484288354898337,"German, Low <nds@li.org>"
+k3b,20630,0,0,2532,0,0,18769,20630,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kaider,77,546,29,30,166,17,78,652,11.809815950920246,Low Saxon <kde-i18n-nds@kde.org>
+kcoloredit,118,0,0,46,0,0,109,118,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kflickr,123,6,170,39,2,39,133,299,41.1371237458194,"German, Low <nds@li.org>"
+kgrab,370,0,0,53,0,0,348,370,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kiconedit,724,0,0,154,0,0,683,724,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kile,10328,93,0,1579,5,0,9720,10421,99.10757125035985,Low Saxon <kde-i18n-nds@kde.org>
+kipi-plugins,4948,730,7802,645,528,1236,4849,13480,36.70623145400593,Low Saxon <kde-i18n-nds@kde.org>
+kmid,535,0,0,214,0,0,490,535,100.0,Low Saxon <kde-i18n-nds@kde.org>
+konq-plugins,1556,0,0,490,0,0,1488,1556,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kphotoalbum,6028,0,0,731,0,0,5650,6028,100.0,Low Saxon <kde-i18n-nds@kde.org>
+ksig,85,0,0,26,0,0,75,85,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kst,423,6064,330,100,1404,159,451,6817,6.205075546428048,Low Saxon <kde-i18n-nds@kde.org>
+ktorrent,4080,108,21,800,9,5,4041,4209,96.93513898788311,Low Saxon <kde-i18n-nds@kde.org>
+libkdcraw,0,111,764,0,17,38,0,875,0.0,<nds@li.org>
+pmount,352,64,307,25,2,36,331,723,48.686030428769016,"German, Low <nds@li.org>"
+yakuake,773,0,0,139,0,0,758,773,100.0,Low Saxon <kde-i18n-nds@kde.org>

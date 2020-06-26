@@ -1,0 +1,146 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,35,42,100.0,translate.org.za
+anaconda,52,0,7759,11,0,1274,37,7811,0.6657278197413904,Zulu (http://www.transifex.com/projects/p/anaconda/language/zu/)
+asunder,13,0,479,11,0,80,15,492,2.642276422764228,http://littlesvr.ca/ostd/
+atril,74,0,3768,52,0,587,94,3842,1.9260801665799063,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+blueberry,141,0,7,34,0,3,120,148,95.27027027027027,Zulu <zu@li.org>
+caja,2982,0,6541,651,0,917,2172,9523,31.313661661241206,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+caja-extensions,3,0,581,3,0,132,4,584,0.5136986301369862,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+calibre,52,0,158950,52,0,18196,54,159002,0.03270399114476548,Zulu (http://www.transifex.com/calibre/calibre/language/zu/)
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Zulu (http://www.transifex.com/projects/p/certmonger/language/zu/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Zulu <translate-discuss-zu@lists.sourceforge.net>
+cinnamon-translations,264,0,10375,53,0,2484,220,10639,2.481436225209136,Zulu <zu@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Zulu
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Zulu
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1095,0,0,247,0,1095,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2652,0,0,531,0,2652,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,322,0,0,86,0,322,0.0,
+engrampa,99,0,7697,56,0,787,113,7796,1.2698819907644945,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+entangle,0,0,953,0,0,229,0,953,0.0,Zulu
+eog,1144,40,416,290,5,26,961,1600,71.5,translate-discuss-af@lists.sourceforge.net
+eom,232,0,1548,87,0,255,215,1780,13.03370786516854,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+evince,1287,119,0,358,4,0,1092,1406,91.53627311522048,translate-discuss-af@lists.sourceforge.net
+file-roller,1254,20,245,297,5,33,1058,1519,82.5543120473996,translate-discuss-af@lists.sourceforge.net
+gala,0,0,140,0,0,34,0,140,0.0,none
+gcompris,10868,367,645,1300,2,84,7987,11880,91.48148148148148,translate-discuss-af@lists.sourceforge.net
+gnome-control-center,2619,352,411,564,100,72,2251,3382,77.43938497930219,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-desktop,316,4,0,72,1,0,260,320,98.75,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-desktop3,316,4,0,72,1,0,260,320,98.75,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-mime-data,834,53,0,342,20,0,951,887,94.02480270574972,
+gnome-settings-daemon,313,196,525,47,42,82,257,1034,30.270793036750483,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-vfs2,1263,19,0,247,1,0,1009,1282,98.5179407176287,Zulu <translate-discuss-zu@lists.sourceforge.net>
+granite,0,0,250,0,0,83,0,250,0.0,
+gtkspell3,10,0,6,5,0,2,9,16,62.5,Zulu <translate-discuss-af@lists.sourceforge.net>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+im-chooser,0,0,254,0,0,58,0,254,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,485,0,0,88,0,485,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Zulu
+iso-codes,224,4114,11371,204,3136,6843,232,15709,1.4259341778598256,Zulu <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/zu/>
+isomaster,18,0,656,15,0,92,19,674,2.6706231454005933,http://littlesvr.ca/ostd/
+koffice-kivio,1490,2011,4916,468,845,1048,1493,8417,17.70226921706071,<en@li.org>
+libbonoboui,314,7,39,92,3,18,262,360,87.22222222222223,Zulu <translate-discuss-zu@lists.sourceforge.net>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Zulu
+libgnomeui,1270,83,66,314,19,12,1023,1419,89.49964763918253,Zulu <translate-discuss-zu@lists.sourceforge.net>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+libmatemixer,2,0,240,2,0,124,2,242,0.8264462809917356,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+libmateweather,3,0,496,3,0,180,3,499,0.6012024048096193,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+libosinfo,0,0,728,0,0,156,0,728,0.0,Zulu
+libpwquality,18,0,325,6,0,47,17,343,5.247813411078718,Zulu (http://www.transifex.com/projects/p/libpwquality/language/zu/)
+libreoffice,33712,15951,49719,11589,7507,12881,30028,99382,33.921635708679645,LANGUAGE <LL@li.org>
+libvirt,0,0,64065,0,0,9877,0,64065,0.0,Zulu (http://www.transifex.com/projects/p/fedora/language/zu/)
+libvirt-glib,0,0,153,0,0,30,0,153,0.0,Zulu (http://www.transifex.com/projects/p/libvirt-glib/language/zu/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Zulu (http://www.transifex.com/projects/p/fedora/language/zu/)
+libzypp,1162,419,777,746,84,114,1130,2358,49.27905004240883,Novell Language <language@novell.com>
+marco,19,0,4130,8,0,406,18,4149,0.45794167269221503,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-applets,61,0,15892,54,0,1544,156,15953,0.3823732213376794,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-calc,17,0,3161,16,0,703,34,3178,0.5349276274386406,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-control-center,438,0,8095,178,0,1294,446,8533,5.133013008320638,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-desktop,61,0,2295,17,0,288,65,2356,2.5891341256366727,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-media,7,0,231,7,0,93,7,238,2.941176470588235,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-menus,3,0,94,3,0,34,3,97,3.0927835051546393,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-panel,2401,0,4267,306,0,482,1819,6668,36.00779844031194,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-polkit,1,0,121,1,0,19,2,122,0.819672131147541,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-power-manager,17,0,5174,17,0,564,33,5191,0.32748988634174536,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-screensaver,3,0,980,3,0,153,4,983,0.3051881993896236,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-sensors-applet,10,0,2220,10,0,218,26,2230,0.4484304932735426,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-session-manager,79,0,626,33,0,94,72,705,11.205673758865247,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-settings-daemon,183,0,1657,31,0,243,157,1840,9.945652173913043,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-system-monitor,32,0,1436,24,0,299,37,1468,2.17983651226158,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-terminal,53,0,4572,36,0,494,65,4625,1.145945945945946,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Zulu (http://www.transifex.com/mate/MATE/language/zu/)
+mate-user-admin,5,0,565,5,0,124,5,570,0.8771929824561403,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mate-utils,166,0,10042,91,0,1010,194,10208,1.6261755485893419,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+mingw-atk,224,2,149,98,1,27,203,375,59.73333333333334,translate-discuss-af@lists.sourceforge.net
+mingw-gtkspell3,10,0,6,5,0,2,9,16,62.5,Zulu <translate-discuss-af@lists.sourceforge.net>
+mingw-libosinfo,0,0,728,0,0,156,0,728,0.0,Zulu
+mingw-libvirt,0,0,63828,0,0,9849,0,63828,0.0,Zulu (http://www.transifex.com/projects/p/fedora/language/zu/)
+mingw-libvirt-glib,0,0,153,0,0,30,0,153,0.0,Zulu (http://www.transifex.com/projects/p/libvirt-glib/language/zu/)
+mingw-osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Zulu
+mozo,3,0,39,2,0,14,3,42,7.142857142857142,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+nautilus,6674,174,128,1171,36,7,4763,6976,95.67087155963303,Zulu <translate-discuss-zu@lists.sourceforge.net>
+notification-daemon,17,0,0,7,0,0,16,17,100.0,translate.org.za
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Zulu
+pam,371,27,199,85,4,31,317,597,62.14405360134003,LANGUAGE <LL@li.org>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+pluma,127,0,5165,70,0,1068,121,5292,2.399848828420257,Zulu (https://www.transifex.com/mate/teams/13566/zu/)
+policycoreutils,10,0,4483,10,0,688,11,4493,0.22256843979523702,Zulu
+pychess,5,0,4450,5,0,874,6,4455,0.11223344556677892,Zulu (http://www.transifex.com/gbtami/pychess/language/zu/)
+pykickstart,0,0,1605,0,0,179,0,1605,0.0,Zulu
+python-fedora,0,0,214,0,0,29,0,214,0.0,Zulu
+python-meh,0,0,109,0,0,23,0,109,0.0,Zulu
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Zulu
+redhat-menus,213,14,34,70,5,11,221,261,81.60919540229885,Zulu <zulu@translate.org.za>
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Zulu (http://www.transifex.com/projects/p/fedora/language/zu/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Zulu (http://www.transifex.com/projects/p/fedora/language/zu/)
+sos,0,0,122,0,0,30,0,122,0.0,none
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,147,0,0,38,0,147,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,440,0,0,168,0,440,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,456,0,0,132,0,456,0.0,
+switchboard-plug-notifications,0,0,141,0,0,21,0,141,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,359,0,0,143,0,359,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,142,0,0,49,0,142,0.0,
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,141,46,0,56,25,0,140,187,75.40106951871658,Zulu <zulu@translate.org.za>
+system-config-rootpassword,15,26,75,3,5,11,13,116,12.931034482758621,Zulu <zulu@translate.org.za>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1515,0,0,279,0,0,1187,1515,100.0,SIpho
+tuxpaint-stamps,1979,29,1263,566,12,235,1456,3271,60.501375726077654,4zulu translators
+virtaal,1672,0,0,557,0,0,1483,1672,100.0,translate-discuss-af@lists.sourceforge.net
+vocal,0,0,377,0,0,79,0,377,0.0,Zulu <zu@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,none
+yelp,92,80,434,38,45,65,85,606,15.181518151815181,Zulu <translate-discuss-zu@lists.sourceforge.net>
+zypper,60,3086,6083,38,421,789,64,9229,0.6501246072163832,Novell Language <language@novell.com>

@@ -1,0 +1,39 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+epiphany,114,122,2496,98,76,591,166,2732,4.172767203513909,GNOME Māori Team <maori@nzlinux.org.nz>
+gdk-pixbuf2,747,334,232,119,55,26,847,1313,56.89261233815689,GNOME Māori Team <maori@nzlinux.org.nz>
+gdm,10,1,5279,10,1,687,9,5290,0.1890359168241966,Maori <maori@nzlinux.org.nz>
+gedit,68,232,3906,54,131,835,74,4206,1.6167379933428434,GNOME Māori Team <maori@nzlinux.org.nz>
+gnome-desktop,20,4,296,14,1,58,27,320,6.25,Māori <maori@nzlinux.org.nz>
+gnome-desktop3,20,4,296,14,1,58,27,320,6.25,Māori <maori@nzlinux.org.nz>
+gnome-mag,5,0,0,2,0,0,7,5,100.0,Maori <maori@nzlinux.org.nz>
+gnome-panel,9,4,3924,11,3,503,13,3937,0.2286004572009144,Māori <maori@nzlinux.org.nz>
+gnome-session,8,0,508,6,0,95,8,516,1.550387596899225,Māori <maori@nzlinux.org.nz>
+gtk2,1019,1045,11640,205,423,2156,1136,13704,7.435785172212493,GNOME Māori Team <maori@nzlinux.org.nz>
+gtk3,212,715,11071,57,364,2068,201,11998,1.7669611601933655,GNOME Māori Team <maori@nzlinux.org.nz>
+gucharmap,0,87,420,0,40,198,0,507,0.0,Maori <maori@nzlinux.org.nz>
+homebank,0,0,1509,0,0,534,0,1509,0.0,Maori <mi@li.org>
+iso-codes,80,3222,9057,79,2732,5831,140,12359,0.6473015616150174,Maori <james.gasson@clear.net.nz>
+libgnomeui,80,8,1331,58,4,283,96,1419,5.637773079633545,Māori <maori@nzlinux.org.nz>
+libgtop2,0,34,100,0,8,36,0,134,0.0,Maori <maori@nzlinux.org.nz>
+libwnck,0,11,62,0,6,24,0,73,0.0,Maori <maori@nzlinux.org.nz>
+mingw32-gdk-pixbuf,747,334,232,119,55,26,847,1313,56.89261233815689,GNOME Māori Team <maori@nzlinux.org.nz>
+mingw32-gtk2,1019,1045,11640,205,423,2156,1136,13704,7.435785172212493,GNOME Māori Team <maori@nzlinux.org.nz>
+nautilus,244,170,6562,167,78,969,285,6976,3.4977064220183482,GNOME Māori Team <maori@nzlinux.org.nz>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+sugar,0,0,770,0,0,217,0,770,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,57,0,0,30,0,57,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,1,0,592,1,0,126,1,593,0.16863406408094433,LANGUAGE <LL@li.org>
+sugar-chat,0,0,26,0,0,12,0,26,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,52,0,0,16,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,28,0,0,18,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-surf,0,0,55,0,0,31,0,55,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,71,0,0,36,0,71,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1206,2,0,353,1,1208,0.16556291390728478,LANGUAGE <walter@sugarlabs.org>
+sugar-write,0,0,69,0,0,42,0,69,0.0,LANGUAGE <LL@li.org>
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net
+vte,0,58,38,0,11,7,0,96,0.0,Maori <maori@nzlinux.org.nz>
+zenity,0,99,295,0,34,78,0,394,0.0,Maori <maori@nzlinux.org.nz>

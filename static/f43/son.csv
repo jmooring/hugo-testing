@@ -1,0 +1,19 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,5148,54,306,1687,16,83,5357,5508,93.4640522875817,Sugar Labs
+gtkspell3,10,0,6,5,0,2,10,16,62.5,Songhai <LL@li.org>
+iso-codes,260,6,723,210,3,212,264,989,26.289180990899897,Songhai languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/son/>
+sugar,326,57,1922,66,49,414,305,2305,14.143167028199565,LANGUAGE <LL@li.org>
+sugar-abacus,23,0,5,18,0,5,23,28,82.14285714285714,LANGUAGE <LL@li.org>
+sugar-browse,4,17,313,2,13,56,3,334,1.1976047904191618,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-dimensions,98,0,78,48,0,39,105,176,55.68181818181818,LANGUAGE <LL@li.org>
+sugar-distance,0,1,98,0,1,25,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,6,252,0,6,57,0,258,0.0,LANGUAGE <LL@li.org>
+sugar-flipsticks,0,11,140,0,11,34,0,151,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,7,70,0,7,13,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,1,0,141,1,0,73,1,142,0.7042253521126761,LANGUAGE <LL@li.org>
+sugar-speak,1,0,226,1,0,73,1,227,0.4405286343612335,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,161,0,52,112,0,11,180,213,75.5868544600939,LANGUAGE <LL@li.org>
+sugar-view-slides,60,0,0,23,0,0,60,60,100.0,LANGUAGE <LL@li.org>

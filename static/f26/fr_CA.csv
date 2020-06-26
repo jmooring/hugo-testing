@@ -1,0 +1,92 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,5,2,674,4,2,141,25,681,0.7342143906020557,LANGUAGE <LL@li.org>
+arduino,1576,0,1452,289,0,268,1692,3028,52.04755614266843,French (Canada) (http://www.transifex.com/mbanzi/arduino-ide-15/language/fr_CA/)
+atril,12,0,1712,6,0,391,11,1724,0.6960556844547563,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+audience,0,0,106,0,0,48,0,106,0.0,
+avogadro,4,0,561,2,0,244,5,565,0.7079646017699115,French (Canada) <fr_CA@li.org>
+blueberry,31,0,110,9,0,25,41,141,21.98581560283688,French (Canada) <fr_CA@li.org>
+caja-extensions,4,0,552,4,0,123,4,556,0.7194244604316548,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+calibre,783,0,156518,222,0,17878,907,157301,0.4977717878462311,French (Canada) (http://www.transifex.com/calibre/calibre/language/fr_CA/)
+cinnamon-translations,17073,0,4294,3978,0,478,20046,21367,79.90358964758741,French (Canada) <fr_CA@li.org>
+deja-dup,1630,0,473,263,0,74,1837,2103,77.50832144555397,French (Canada) <fr_CA@li.org>
+dippi,385,12,0,51,2,0,443,397,96.97732997481108,none
+dopewars,5286,0,0,867,0,0,5674,5286,100.0,French
+engrampa,11,0,1929,5,0,349,10,1940,0.5670103092783505,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+eom,3,0,1714,3,0,315,3,1717,0.17472335468841002,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+feedreader,0,0,926,0,0,219,0,926,0.0,
+gala,32,0,651,13,0,64,44,683,4.685212298682284,French (Canada) <fr_CA@li.org>
+granite,69,0,87,20,0,37,79,156,44.230769230769226,French (Canada) <fr_CA@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+libmatekbd,0,0,251,0,0,43,0,251,0.0,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+libmatemixer,4,0,238,4,0,122,5,242,1.6528925619834711,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+libmateweather,17,0,482,15,0,168,17,499,3.406813627254509,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+lightdm,0,0,84,0,0,4,0,84,0.0,French (Canada) <fr_CA@li.org>
+mate-applets,14,0,2604,14,0,611,14,2618,0.53475935828877,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-backgrounds,1,0,29,1,0,20,1,30,3.3333333333333335,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-control-center,11,0,2711,10,0,638,11,2722,0.4041146216017634,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-media,5,0,221,4,0,92,6,226,2.2123893805309733,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-menu,287,12,1,108,1,1,356,300,95.66666666666667,French (Canada) <fr_CA@li.org>
+mate-menus,8,0,89,5,0,32,8,97,8.24742268041237,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-notification-daemon,2,0,137,2,0,35,2,139,1.4388489208633095,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-panel,39,0,4314,20,0,567,38,4353,0.8959338387319091,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-polkit,2,0,311,1,0,49,2,313,0.6389776357827476,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-screensaver,2,0,981,2,0,154,3,983,0.20345879959308238,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-sensors-applet,3,0,301,3,0,102,3,304,0.9868421052631579,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-session-manager,17,0,664,8,0,106,19,681,2.4963289280469896,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-system-monitor,5,0,1302,5,0,303,5,1307,0.3825554705432288,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-terminal,4,0,4435,4,0,505,4,4439,0.09011038522189682,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+mate-user-guide,1,0,4,1,0,1,1,5,20.0,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+maya-calendar,361,0,33,159,0,5,421,394,91.6243654822335,French (Canada) <fr_CA@li.org>
+mc,0,0,4153,0,0,1218,0,4153,0.0,French (Canada) (http://www.transifex.com/projects/p/mc/language/fr_CA/)
+mintmenu,4903,0,2569,1037,0,191,5684,7472,65.61830835117773,French (Canada) <fr_CA@li.org>
+mozo,5,0,37,4,0,12,5,42,11.904761904761903,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+nemo-extensions,8,0,0,2,0,0,10,8,100.0,French (Canada) <fr_CA@li.org>
+noise,1199,0,123,348,0,29,1439,1322,90.69591527987897,French (Canada) <fr_CA@li.org>
+onboard,1942,0,376,448,0,62,2427,2318,83.77911993097497,French (Canada) <fr_CA@li.org>
+openerp,8,0,23195,2,0,2152,11,23203,0.03447830021979917,French (Canada) <fr_CA@li.org>
+openerp7,19,0,22595,4,0,2182,22,22614,0.08401874944724506,French (Canada) <fr_CA@li.org>
+pantheon-agent-polkit,14,0,3,7,0,2,15,17,82.35294117647058,LANGUAGE <LL@li.org>
+pantheon-calculator,50,0,2,31,0,1,68,52,96.15384615384616,LANGUAGE <LL@li.org>
+pantheon-files,250,0,2237,58,0,434,305,2487,10.052271813429835,French (Canada) <fr_CA@li.org>
+pantheon-greeter,11,0,18,6,0,4,12,29,37.93103448275862,French (Canada) <fr_CA@li.org>
+pantheon-photos,108,0,3869,15,0,841,132,3977,2.7156147850138295,French (Canada) <fr_CA@li.org>
+pantheon-terminal,63,0,161,22,0,36,74,224,28.125,French (Canada) <fr_CA@li.org>
+picard,157,0,1524,120,0,548,152,1681,9.339678762641284,French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/)
+pidgin-sipe,0,0,1064,0,0,256,0,1064,0.0,French (Canada) (http://www.transifex.com/stefanb/pidgin-sipe/language/fr_CA/)
+python-caja,1,0,5,1,0,1,1,6,16.666666666666664,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,French (Canada) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/fr_CA/)
+scratch,1467,0,3,625,0,1,1722,1470,99.79591836734694,LANGUAGE <LL@li.org>
+scratch-text-editor,234,0,656,46,0,167,279,890,26.29213483146067,French (Canada) <fr_CA@li.org>
+screenshot-tool,18,0,128,11,0,33,28,146,12.32876712328767,LANGUAGE <LL@li.org>
+simple-scan,568,0,1,140,0,1,678,569,99.82425307557118,French (Canada) <fr_CA@li.org>
+slick-greeter,211,0,0,47,0,0,245,211,100.0,French (Canada) <fr_CA@li.org>
+slingshot-launcher,0,0,217,0,0,68,0,217,0.0,LANGUAGE <LL@li.org>
+snap-photobooth,1,0,24,1,0,4,6,25,4.0,French (Canada) <fr_CA@li.org>
+soundconverter,388,0,0,121,0,0,472,388,100.0,French (Canada) <fr_CA@li.org>
+supertuxkart,57,0,3304,8,0,744,67,3361,1.6959238321927996,French (Canada) (http://www.transifex.com/supertuxkart/supertuxkart/language/fr_CA/)
+switchboard,5,0,36,4,0,9,15,41,12.195121951219512,French (Canada) <fr_CA@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,4,2,66,2,1,19,5,72,5.555555555555555,French (Canada) <fr_CA@li.org>
+switchboard-plug-applications,0,0,85,0,0,29,0,85,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,39,0,0,18,0,39,0.0,French (Canada) <fr_CA@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,French (Canada) <fr_CA@li.org>
+switchboard-plug-keyboard,18,0,353,17,0,128,21,371,4.8517520215633425,French (Canada) <fr_CA@li.org>
+switchboard-plug-networking,400,0,32,117,0,8,484,432,92.5925925925926,French (Canada) <fr_CA@li.org>
+switchboard-plug-notifications,0,0,131,0,0,18,0,131,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,2,0,159,2,0,47,2,161,1.2422360248447204,French (Canada) <fr_CA@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,French (Canada) <fr_CA@li.org>
+wicd,1054,0,84,229,0,25,1242,1138,92.61862917398945,fr_CA <LL@li.org>
+wingpanel,8,0,0,2,0,0,11,8,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,0,0,17,0,0,10,0,17,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,20,0,0,6,0,0,22,20,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,7,0,0,3,0,7,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,101,0,0,31,0,101,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-notifications,0,0,29,0,0,11,0,29,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,89,0,0,24,0,0,90,89,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,54,0,0,17,0,54,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,15,0,0,7,0,0,15,15,100.0,LANGUAGE <LL@li.org>
+xed,379,0,4129,46,0,924,461,4508,8.407275953859806,French (Canada) <fr_CA@li.org>
+xreader,12,0,1641,6,0,378,11,1653,0.7259528130671506,French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/)

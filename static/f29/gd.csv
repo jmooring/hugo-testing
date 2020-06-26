@@ -1,0 +1,225 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,212,0,0,44,0,0,313,212,100.0,"Gaelic, Scottish (http://www.transifex.com/wildfire-games/0ad/language/gd/)"
+NetworkManager,1087,1714,17636,138,293,1425,1400,20437,5.318784557420365,Fòram na Gàidhlig
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+appstream,661,133,97,170,14,11,799,891,74.18630751964085,Gaelic <https://hosted.weblate.org/projects/appstream/translations/gd/>
+at-spi2-core,10,0,0,2,0,0,12,10,100.0,Fòram na Gàidhlig
+atk,440,0,0,169,0,0,477,440,100.0,Fòram na Gàidhlig
+baobab,246,0,0,64,0,0,324,246,100.0,Fòram na Gàidhlig
+blueberry,138,0,3,32,0,2,200,141,97.87234042553192,Fòram na Gàidhlig
+brasero,5546,0,0,968,0,0,7062,5546,100.0,Fòram na Gàidhlig
+caja,912,0,8608,193,0,1374,1100,9520,9.57983193277311,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+chrome-gnome-shell,331,0,0,46,0,0,444,331,100.0,Fòram na Gàidhlig
+cinnamon-translations,13907,0,5611,3363,0,1001,19361,19518,71.25217747720053,Fòram na Gàidhlig
+deepin-terminal,31,0,0,5,0,0,42,31,100.0,Fòram na Gàidhlig
+deja-dup,1553,0,544,268,0,66,2209,2097,74.05817835002384,Fòram na Gàidhlig
+dialog,25,0,0,23,0,0,44,25,100.0,Scottish Gaelic <fios@foramnagaidhlig.net>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,0,0,3718,0,0,751,0,3718,0.0,English (Gaidhlig) ()
+elementary-calculator,0,0,80,0,0,37,0,80,0.0,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,484,0,0,184,0,484,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-code,0,0,812,0,0,198,0,812,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2818,0,0,548,0,2818,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,
+elementary-music,0,0,1137,0,0,329,0,1137,0.0,LANGUAGE <LL@li.org>
+elementary-photos,0,0,3775,0,0,793,0,3775,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,129,0,0,41,0,129,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+elementary-terminal,0,0,286,0,0,66,0,286,0.0,
+elementary-videos,0,0,150,0,0,52,0,150,0.0,
+engrampa,28,0,1987,13,0,367,53,2015,1.3895781637717122,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+enigma,8927,90,14,960,5,4,10101,9031,98.848411028679,"Gaelic, Scottish (http://www.transifex.com/projects/p/enigma/language/gd/)"
+eog,1675,0,0,327,0,0,2167,1675,100.0,Fòram na Gàidhlig
+eom,12,0,1768,8,0,334,15,1780,0.6741573033707865,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+ephemeral,0,0,1809,0,0,207,0,1809,0.0,none
+evince,1664,0,0,392,0,0,2129,1664,100.0,Fòram na Gàidhlig
+file-roller,1200,0,0,274,0,0,1551,1200,100.0,Fòram na Gàidhlig
+flare,3369,0,0,582,0,0,3990,3369,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+flare-engine,753,0,0,235,0,0,958,753,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+freeciv,63354,21620,20678,6506,1642,906,80169,105652,59.96479006549805,Akerbeltz
+gcompris,17458,1,0,1959,1,0,20387,17459,99.99427229509136,Fòram na Gàidhlig
+gcompris-qt,16433,2656,7218,1646,193,498,19177,26307,62.46626373208651,"Gaelic, Scottish (https://www.transifex.com/gunchleoc/teams/12769/gd/)"
+gdm,629,0,0,88,0,0,851,629,100.0,Fòram na Gàidhlig
+gedit,4267,0,0,721,0,0,6000,4267,100.0,Fòram na Gàidhlig
+gimp,13940,790,762,3391,177,177,18222,15492,89.98192615543506,Fòram na Gàidhlig
+glib-networking,163,0,0,29,0,0,214,163,100.0,Fòram na Gàidhlig
+glib2,400,0,6556,149,0,958,516,6956,5.750431282346176,Fòram na Gàidhlig
+gnome-backgrounds,29,0,0,18,0,0,28,29,100.0,Fòram na Gàidhlig
+gnome-bluetooth,373,0,0,111,0,0,493,373,100.0,Fòram na Gàidhlig
+gnome-calculator,1584,0,0,574,0,0,1836,1584,100.0,Fòram na Gàidhlig
+gnome-calendar,661,0,0,220,0,0,881,661,100.0,Fòram na Gàidhlig
+gnome-characters,186,0,0,58,0,0,246,186,100.0,Fòram na Gàidhlig
+gnome-clocks,283,0,0,100,0,0,369,283,100.0,Fòram na Gàidhlig
+gnome-color-manager,1796,0,0,345,0,0,2183,1796,100.0,Fòram na Gàidhlig
+gnome-contacts,417,0,0,144,0,0,591,417,100.0,Fòram na Gàidhlig
+gnome-control-center,5320,0,0,1526,0,0,6981,5320,100.0,Fòram na Gàidhlig
+gnome-desktop3,146,0,0,23,0,0,198,146,100.0,Fòram na Gàidhlig
+gnome-dictionary,659,0,0,137,0,0,844,659,100.0,Fòram na Gàidhlig
+gnome-disk-utility,3820,0,0,713,0,0,5126,3820,100.0,Fòram na Gàidhlig
+gnome-font-viewer,113,0,0,29,0,0,153,113,100.0,Fòram na Gàidhlig
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Gaelic; Scottish <gd@li.org>
+gnome-initial-setup,849,0,0,122,0,0,1008,849,100.0,Fòram na Gàidhlig
+gnome-keyring,509,0,0,103,0,0,703,509,100.0,Fòram na Gàidhlig
+gnome-logs,376,0,0,122,0,0,453,376,100.0,Fòram na Gàidhlig
+gnome-maps,986,21,179,250,3,51,1285,1186,83.13659359190557,Fòram na Gàidhlig
+gnome-menus,70,0,0,27,0,0,84,70,100.0,Gaelic; Scottish <gd@li.org>
+gnome-music,528,0,0,113,0,0,732,528,100.0,Fòram na Gàidhlig
+gnome-online-accounts,670,0,0,152,0,0,918,670,100.0,Fòram na Gàidhlig
+gnome-photos,473,0,0,198,0,0,661,473,100.0,Fòram na Gàidhlig
+gnome-power-manager,489,0,0,151,0,0,618,489,100.0,Fòram na Gàidhlig
+gnome-screenshot,457,0,0,80,0,0,595,457,100.0,Fòram na Gàidhlig
+gnome-session,299,0,0,50,0,0,398,299,100.0,Fòram na Gàidhlig
+gnome-settings-daemon,1325,0,1334,272,0,112,1944,2659,49.8307634449041,Fòram na Gàidhlig
+gnome-shell,1835,0,0,423,0,0,2666,1835,100.0,Fòram na Gàidhlig
+gnome-shell-extensions,388,0,0,70,0,0,511,388,100.0,Fòram na Gàidhlig
+gnome-software,3709,0,0,767,0,0,4955,3709,100.0,Fòram na Gàidhlig
+gnome-system-monitor,1462,0,0,313,0,0,2024,1462,100.0,Fòram na Gàidhlig
+gnome-terminal,2554,0,0,487,0,0,3241,2554,100.0,Fòram na Gàidhlig
+gnome-themes-extra,15,0,0,6,0,0,18,15,100.0,Fòram na Gàidhlig
+gnome-user-share,52,0,0,10,0,0,63,52,100.0,Fòram na Gàidhlig
+gnome-weather,192,0,0,42,0,0,249,192,100.0,Fòram na Gàidhlig
+gparted,2930,0,4944,551,0,291,3835,7874,37.21107442214884,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+granite,0,0,150,0,0,68,0,150,0.0,
+gtk-vnc,8,0,0,3,0,0,12,8,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+gtk3,16045,0,0,3599,0,0,20263,16045,100.0,Fòram na Gàidhlig
+gtk4,16045,0,0,3599,0,0,20263,16045,100.0,Fòram na Gàidhlig
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,9,0,665,9,0,98,12,674,1.3353115727002967,http://littlesvr.ca/ostd/
+kactivitymanagerd,5,2,0,2,1,0,6,7,71.42857142857143,Fòram na Gàidhlig
+kf5-baloo,463,63,186,115,10,44,543,712,65.02808988764045,Fòram na Gàidhlig
+kf5-kauth,39,34,0,5,3,0,48,73,53.42465753424658,Fòram na Gàidhlig
+kf5-kbookmarks,218,0,12,48,0,1,285,230,94.78260869565217,Fòram na Gàidhlig
+kf5-kcmutils,516,47,1,69,2,1,694,564,91.48936170212765,Fòram na Gàidhlig
+kf5-kcodecs,348,0,0,53,0,0,410,348,100.0,Fòram na Gàidhlig
+kf5-kcompletion,18,0,0,11,0,0,23,18,100.0,Fòram na Gàidhlig
+kf5-kconfig,253,2,6,95,1,4,342,261,96.93486590038314,Fòram na Gàidhlig
+kf5-kconfigwidgets,315,1,5,113,1,3,437,321,98.13084112149532,Fòram na Gàidhlig
+kf5-kcoreaddons,206,65,62,71,9,45,215,333,61.86186186186187,Fòram na Gàidhlig
+kf5-kdbusaddons,48,0,0,6,0,0,63,48,100.0,Fòram na Gàidhlig
+kf5-kdeclarative,109,1,0,14,1,0,129,110,99.0909090909091,Fòram na Gàidhlig
+kf5-kdelibs4support,4813,0,0,2364,0,0,6854,4813,100.0,Fòram na Gàidhlig
+kf5-kdesignerplugin,54,0,0,9,0,0,72,54,100.0,Fòram na Gàidhlig
+kf5-kdesu,19,0,0,7,0,0,20,19,100.0,Fòram na Gàidhlig
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Fòram na Gàidhlig
+kf5-kdoctools,8,0,0,4,0,0,18,8,100.0,Fòram na Gàidhlig
+kf5-kfilemetadata,130,10,168,68,7,52,171,308,42.2077922077922,Fòram na Gàidhlig
+kf5-kglobalaccel,71,0,0,9,0,0,76,71,100.0,Fòram na Gàidhlig
+kf5-khtml,1629,92,0,306,4,0,2045,1721,94.6542707728065,Fòram na Gàidhlig
+kf5-ki18n,124,0,0,110,0,0,126,124,100.0,Fòram na Gàidhlig
+kf5-kiconthemes,25,11,1,16,1,1,29,37,67.56756756756756,Fòram na Gàidhlig
+kf5-kinit,131,3,0,13,1,0,157,134,97.76119402985076,Fòram na Gàidhlig
+kf5-kitemviews,6,1,0,3,1,0,10,7,85.71428571428571,Fòram na Gàidhlig
+kf5-kjobwidgets,123,0,0,36,0,0,204,123,100.0,Fòram na Gàidhlig
+kf5-kjsembed,248,0,0,44,0,0,339,248,100.0,Fòram na Gàidhlig
+kf5-knewstuff,664,23,15,147,9,3,937,702,94.58689458689459,Fòram na Gàidhlig
+kf5-knotifications,18,0,0,6,0,0,24,18,100.0,Fòram na Gàidhlig
+kf5-knotifyconfig,129,0,0,17,0,0,150,129,100.0,Fòram na Gàidhlig
+kf5-kpackage,354,117,24,83,10,4,462,495,71.51515151515152,Fòram na Gàidhlig
+kf5-kparts,104,0,0,26,0,0,130,104,100.0,Fòram na Gàidhlig
+kf5-kpeople,21,0,0,11,0,0,26,21,100.0,Fòram na Gàidhlig
+kf5-kpty,15,0,0,4,0,0,20,15,100.0,Fòram na Gàidhlig
+kf5-kross,100,0,0,35,0,0,142,100,100.0,Fòram na Gàidhlig
+kf5-kservice,170,0,0,28,0,0,228,170,100.0,Fòram na Gàidhlig
+kf5-ktextwidgets,462,0,0,122,0,0,696,462,100.0,Fòram na Gàidhlig
+kf5-kunitconversion,2143,639,2530,826,278,1162,3138,5312,40.34262048192771,Fòram na Gàidhlig
+kf5-kwallet,1586,38,0,129,2,0,1883,1624,97.66009852216749,Fòram na Gàidhlig
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Fòram na Gàidhlig
+kf5-kxmlgui,1375,199,28,216,10,2,1719,1602,85.83021223470662,Fòram na Gàidhlig
+kf5-kxmlrpcclient,13,0,0,2,0,0,15,13,100.0,Fòram na Gàidhlig
+kf5-plasma,492,6,6,141,3,3,612,504,97.61904761904762,Fòram na Gàidhlig
+kf5-solid,667,8,7,218,2,3,774,682,97.80058651026393,Fòram na Gàidhlig
+kf5-sonnet,663,0,4,72,0,1,901,667,99.40029985007496,Fòram na Gàidhlig
+ldm,0,0,55,0,0,19,0,55,0.0,Gaelic; Scottish <gd@li.org>
+libgnome-keyring,44,0,0,9,0,0,56,44,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+libgweather,6369,0,0,4678,0,0,6739,6369,100.0,Fòram na Gàidhlig
+libmatekbd,0,0,251,0,0,43,0,251,0.0,"Gaelic, Scottish (http://www.transifex.com/mate/MATE/language/gd/)"
+libreoffice,97327,0,1321,31133,0,465,118446,98648,98.66089530451707,LANGUAGE <LL@li.org>
+libsoup,155,0,0,36,0,0,259,155,100.0,Fòram na Gàidhlig
+libwnck3,1086,0,0,231,0,0,1331,1086,100.0,Gaelic; Scottish <gd@li.org>
+lightdm,32,0,131,8,0,13,45,163,19.631901840490798,Gaelic; Scottish <gd@li.org>
+lightdm-gtk,36,0,51,13,0,12,52,87,41.37931034482759,Gaelic; Scottish <gd@li.org>
+lincity-ng,1578,0,0,359,0,0,1763,1578,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+mate-control-center,33,0,2671,21,0,615,41,2704,1.220414201183432,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+mate-media,2,0,236,2,0,98,2,238,0.8403361344537815,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+mate-menu,25,0,291,9,0,109,30,316,7.9113924050632916,"Gaelic, Scottish (http://www.transifex.com/mate/MATE/language/gd/)"
+mate-session-manager,4,0,687,3,0,121,5,691,0.5788712011577424,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+mate-themes,0,0,60,0,0,12,0,60,0.0,"Gaelic, Scottish (http://www.transifex.com/mate/MATE/language/gd/)"
+mate-utils,29,0,3754,17,0,658,33,3783,0.7665873645255088,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+mingw-atk,440,0,0,169,0,0,477,440,100.0,Fòram na Gàidhlig
+mingw-glib-networking,157,0,0,28,0,0,207,157,100.0,Fòram na Gàidhlig
+mingw-glib2,400,0,6556,149,0,958,516,6956,5.750431282346176,Fòram na Gàidhlig
+mingw-gtk-vnc,8,0,0,3,0,0,12,8,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+mingw-gtk3,16045,0,0,3599,0,0,20263,16045,100.0,Fòram na Gàidhlig
+mingw-libsoup,155,0,0,36,0,0,259,155,100.0,Fòram na Gàidhlig
+mousetweaks,114,0,0,30,0,0,136,114,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+mozo,1,0,41,1,0,15,1,42,2.380952380952381,"Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/)"
+mutter,283,0,193,74,0,23,403,476,59.45378151260504,Fòram na Gàidhlig
+mutter328,283,0,193,74,0,23,403,476,59.45378151260504,Fòram na Gàidhlig
+nautilus,5620,0,0,1087,0,0,8440,5620,100.0,Fòram na Gàidhlig
+nautilus-sendto,56,0,0,10,0,0,75,56,100.0,Fòram na Gàidhlig
+nemo-extensions,8,0,0,2,0,0,9,8,100.0,Fòram na Gàidhlig
+network-manager-applet,3365,128,910,780,30,118,4473,4403,76.42516466045878,Fòram na Gàidhlig
+neverball,2735,0,0,359,0,0,3065,2735,100.0,"Gaelic, Scottish (http://www.transifex.com/projects/p/neverball/language/gd/)"
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,1942,0,376,448,0,62,2639,2318,83.77911993097497,Gaelic; Scottish <gd@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,99,0,0,17,0,99,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,14,0,0,7,0,14,0.0,LANGUAGE <LL@li.org>
+plank,173,0,16,45,0,5,236,189,91.53439153439153,Fòram na Gàidhlig
+polkit-gnome,94,0,0,16,0,0,126,94,100.0,Sgioba na Ubuntu na Gàidhlig
+python-django,3656,0,0,824,0,0,5209,3656,100.0,"Gaelic, Scottish (http://www.transifex.com/django/django/language/gd/)"
+python2-django1.11,3613,0,0,819,0,0,5162,3613,100.0,"Gaelic, Scottish (http://www.transifex.com/django/django/language/gd/)"
+rhythmbox,3769,0,0,979,0,0,5461,3769,100.0,Fòram na Gàidhlig
+seahorse,168,0,2327,58,0,515,235,2495,6.733466933867735,Fòram na Gàidhlig
+sequeler,0,0,1352,0,0,275,0,1352,0.0,
+shotwell,4727,51,2015,1025,12,215,8132,6793,69.58633887825702,Fòram na Gàidhlig
+simple-scan,847,0,0,192,0,0,1120,847,100.0,Fòram na Gàidhlig
+slick-greeter,199,0,12,41,0,6,246,211,94.3127962085308,Gaelic; Scottish <gd@li.org>
+stellarium,21393,0,51242,4697,0,23240,24997,72635,29.45274316789427,"Gaelic, Scottish (https://www.transifex.com/stellarium/teams/80998/gd/)"
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,74,8,77,67,6,38,79,159,46.540880503144656,LANGUAGE <LL@li.org>
+supertux,3221,0,0,984,0,0,3749,3221,100.0,"Gaelic, Scottish (http://www.transifex.com/arctic-games/supertux/language/gd/)"
+supertuxkart,3361,0,0,752,0,0,4234,3361,100.0,"Gaelic, Scottish (http://www.transifex.com/supertuxkart/supertuxkart/language/gd/)"
+sushi,15,0,0,9,0,0,21,15,100.0,Fòram na Gàidhlig
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,94,0,0,28,0,94,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,none
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,none
+switchboard-plug-display,0,0,113,0,0,47,0,113,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,none
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,0,131,0,0,46,0,131,0.0,
+totem,1327,0,0,389,0,0,1800,1327,100.0,Fòram na Gàidhlig
+totem-pl-parser,29,0,0,8,0,0,30,29,100.0,Fòram na Gàidhlig
+transmageddon,327,0,0,70,0,0,446,327,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+tuxpaint,1591,0,0,291,0,0,1925,1591,100.0,Fòram na Gàidhlig
+tuxpaint-stamps,3271,0,0,813,0,0,2927,3271,100.0,Fòram na Gàidhlig is Akerbeltz <fios@foramnagaidhlig.net>
+vdrift,1639,0,0,402,0,0,1923,1639,100.0,"Gaelic, Scottish (http://www.transifex.com/projects/p/vdrift/language/gd/)"
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+vte291,31,0,0,5,0,0,42,31,100.0,Fòram na Gàidhlig
+wesnoth,68988,3072,219355,6210,41,11748,80118,291415,23.67345538150061,"Gaelic, Scottish (https://www.transifex.com/gunchleoc/teams/12769/gd/)"
+widelands,58927,0,0,5227,0,0,66873,58927,100.0,"Gaelic, Scottish (http://www.transifex.com/widelands/widelands/language/gd/)"
+wingpanel,0,0,6,0,0,1,0,6,0.0,none
+wingpanel-applications-menu,0,0,222,0,0,73,0,222,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-datetime,0,0,14,0,0,4,0,14,0.0,
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none
+xdg-user-dirs,28,0,0,28,0,0,34,28,100.0,Scottish Gaelic <(nothing)>
+xplayer-plparser,29,0,0,8,0,0,28,29,100.0,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+xviewer,1676,0,1,323,0,1,2189,1677,99.94036970781157,Fòram na Gàidhlig
+yelp,284,0,0,67,0,0,378,284,100.0,Fòram na Gàidhlig
+yelp-xsl,81,0,0,59,0,0,96,81,100.0,Fòram na Gàidhlig

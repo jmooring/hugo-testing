@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+at-spi,4,0,0,2,0,0,3,4,100.0,Old English <modean52@comcast.net>
+eel2,57,0,178,18,0,34,52,235,24.25531914893617,Old English <modean52@comcast.net>
+gnome-mag,5,0,0,2,0,0,5,5,100.0,Old English <modean52@comcast.net>
+gnome-volume-manager,6,32,1131,3,14,176,6,1169,0.5132591958939264,Old English <modean52@comcast.net>
+gok,19,0,1762,11,0,414,17,1781,1.0668163952835485,Old English <modean52@comcast.net>
+gtk2,423,454,11883,131,131,2301,374,12760,3.3150470219435735,Old English <modean52@comcast.net>
+libgnomecanvas,14,0,343,12,0,82,12,357,3.9215686274509802,Old English <modean52@comcast.net>
+libgweather,51,0,3612,46,0,2655,57,3663,1.3923013923013923,Old English <modean52@comcast.net>
+mingw32-gtk2,404,467,11529,112,131,2070,355,12400,3.258064516129032,Old English <modean52@comcast.net>
+vte,27,0,69,6,0,12,31,96,28.125,Old English <modean52@comcast.net>

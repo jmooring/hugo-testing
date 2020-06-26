@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,401,0,18266,209,0,4230,428,18667,2.148175925429903,Standard Moroccan Tamazight <zgh@li.org>
+dialect,316,84,63,122,21,18,336,463,68.25053995680346,
+lightdm-settings,40,0,315,19,0,55,47,355,11.267605633802818,Standard Moroccan Tamazight <zgh@li.org>
+slick-greeter,37,0,179,17,0,32,38,216,17.12962962962963,Standard Moroccan Tamazight <zgh@li.org>
+xapps,18,0,55,17,0,19,19,73,24.65753424657534,Standard Moroccan Tamazight <zgh@li.org>
+xed,213,0,3562,111,0,817,225,3775,5.642384105960265,Standard Moroccan Tamazight <zgh@li.org>
+xreader,104,0,1521,69,0,311,109,1625,6.4,Standard Moroccan Tamazight <zgh@li.org>

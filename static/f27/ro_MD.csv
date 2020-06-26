@@ -1,0 +1,44 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,674,25,58,159,6,12,713,757,89.03566710700133,Moldovan <https://weblate.elementary.io/projects/appcenter/appcenter/mo/>
+audience,0,0,106,0,0,48,0,106,0.0,
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,51,0,29,31,0,6,53,80,63.74999999999999,Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/>
+elementary-camera,32,5,25,8,1,7,40,62,51.61290322580645,Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/>
+elementary-capnet-assist,32,0,34,5,0,5,26,66,48.484848484848484,Moldovan <https://weblate.elementary.io/projects/desktop/capnet-assist/mo/>
+elementary-screenshot-tool,123,1,8,38,1,4,153,132,93.18181818181817,Moldovan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/mo/>
+elementary-shortcut-overlay,82,0,0,37,0,0,108,82,100.0,Moldovan <https://weblate.elementary.io/projects/desktop/shortcut-overlay/mo/>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,
+pantheon-agent-geoclue2,0,0,43,0,0,11,0,43,0.0,
+pantheon-agent-polkit,14,0,6,7,0,3,18,20,70.0,Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/mo/>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,
+pantheon-files,0,0,0,0,0,0,0,0,0.0,
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,
+scratch-text-editor,0,0,0,0,0,0,0,0,0.0,
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,
+sequeler,0,0,229,0,0,88,0,229,0.0,
+stellarium,0,0,26769,0,0,6967,0,26769,0.0,Moldavian <mo@li.org>
+switchboard,41,0,0,13,0,0,43,41,100.0,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard/mo/>
+switchboard-plug-a11y,183,6,0,65,3,0,215,189,96.82539682539682,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/mo/>
+switchboard-plug-about,117,0,0,37,0,0,123,117,100.0,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/mo/>
+switchboard-plug-applications,85,0,6,29,0,2,102,91,93.4065934065934,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/mo/>
+switchboard-plug-bluetooth,69,0,4,25,0,2,85,73,94.52054794520548,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/mo/>
+switchboard-plug-display,104,0,0,41,0,0,128,104,100.0,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/mo/>
+switchboard-plug-keyboard,390,3,10,152,1,3,444,403,96.7741935483871,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/mo/>
+switchboard-plug-mouse-touchpad,67,0,0,27,0,0,82,67,100.0,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/mo/>
+switchboard-plug-networking,434,8,0,124,4,0,471,442,98.19004524886877,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/mo/>
+switchboard-plug-notifications,131,0,8,18,0,2,141,139,94.24460431654677,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/mo/>
+switchboard-plug-pantheon-shell,129,2,13,49,1,3,146,144,89.58333333333334,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/mo/>
+switchboard-plug-printers,335,0,1,137,0,1,382,336,99.70238095238095,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/mo/>
+switchboard-plug-sound,84,4,2,34,2,1,103,90,93.33333333333333,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/mo/>
+vocal,0,0,0,0,0,0,0,0,0.0,
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,15,15,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/>
+wingpanel-indicator-keyboard,10,0,0,4,0,0,10,10,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/>
+wingpanel-indicator-network,76,0,0,22,0,0,89,76,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/mo/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,21,16,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/mo/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,17,16,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/mo/>
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,57,0,0,18,0,0,48,57,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/mo/>
+wingpanel-indicator-sound,14,0,0,6,0,0,15,14,100.0,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/mo/>

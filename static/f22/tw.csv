@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Twi
+entangle,0,0,934,0,0,209,0,934,0.0,Twi
+libosinfo,0,0,1871,0,0,554,0,1871,0.0,Twi
+libvirt-glib,0,0,138,0,0,29,0,138,0.0,Twi
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Twi
+python-fedora,0,0,214,0,0,29,0,214,0.0,Twi
+python-meh,0,0,109,0,0,23,0,109,0.0,Twi
+tuxpaint,475,881,235,137,93,61,539,1591,29.85543683218102,

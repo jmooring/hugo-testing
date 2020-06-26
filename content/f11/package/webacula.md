@@ -1,0 +1,44 @@
+---
+title: "webacula - translation progress for f11"
+package: webacula
+date: 2026-01-17T08:14:36+00:00
+started_languages: 6
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 6
+release: f11
+---
+The package webacula (version 3.5):
+
+* represents 983 source words to be translated
+* is translated into 6 languages in Fedora f11
+
+
+* contains 6 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [fr]({{< ref "/f11/language/fr.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f11/webacula/languages/fr/webacula_fr.po | 
+ | [ru]({{< ref "/f11/language/ru.md" >}}) | 970 | 983 | 98.7 | /mnt/stockage/packages/f11/webacula/languages/ru/webacula_ru.po | 
+ | [it]({{< ref "/f11/language/it.md" >}}) | 940 | 983 | 95.6 | /mnt/stockage/packages/f11/webacula/languages/it/webacula_it.po | 
+ | [de]({{< ref "/f11/language/de.md" >}}) | 843 | 983 | 85.8 | /mnt/stockage/packages/f11/webacula/languages/de/webacula_de.po | 
+ | [pt]({{< ref "/f11/language/pt.md" >}}) | 738 | 983 | 75.1 | /mnt/stockage/packages/f11/webacula/languages/pt/webacula_pt_BR.po | 
+ | [en]({{< ref "/f11/language/en.md" >}}) | 5 | 983 | 0.5 | /mnt/stockage/packages/f11/webacula/languages/en/webacula_en.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

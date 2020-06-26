@@ -1,0 +1,449 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,188,0,3767,45,0,426,228,3955,4.753476611883692,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+NetworkManager,587,5,9285,211,1,1244,703,9877,5.9431001316189125,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+NetworkManager-fortisslvpn,107,1,66,24,1,8,127,174,61.49425287356321,Occitan (post 1500) <oc@li.org>
+PackageKit,363,0,910,143,0,175,456,1273,28.515318146111547,Occitan (post 1500) (http://www.transifex.com/freedesktop/packagekit/language/oc/)
+Thunar,4139,0,0,734,0,0,4382,4139,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+accerciser,262,0,1687,149,0,139,285,1949,13.442791174961519,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+adwaita-icon-theme,4,0,0,2,0,0,2,4,100.0,www.totenoc.org
+ailurus,312,0,7105,133,0,935,368,7417,4.206552514493731,none
+aisleriot,1570,0,18476,494,0,932,1780,20046,7.831986431208221,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+alacarte,42,0,0,16,0,0,45,42,100.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+alleyoop,78,0,273,37,0,52,84,351,22.22222222222222,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+almanah,17,0,316,10,0,31,26,333,5.105105105105105,GNOME French Team <gnomefr@traduc.org>
+anjuta,738,0,18497,462,0,1865,863,19235,3.836755913698986,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+appstream,0,0,304,0,0,59,0,304,0.0,Occitan (post 1500) (http://www.transifex.com/freedesktop/appstream/language/oc/)
+aria2,10,0,7049,5,0,386,12,7059,0.14166312508853945,Occitan (post 1500) <oc@li.org>
+asunder,15,0,465,14,0,73,16,480,3.125,http://littlesvr.ca/ostd/
+at-spi2-core,10,0,0,2,0,0,10,10,100.0,Tot en òc (totenoc.eu)
+atk,48,1,326,37,1,88,54,375,12.8,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+atril,259,0,3224,152,0,395,325,3483,7.436118288831467,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+audacity,1021,1163,10052,332,394,2058,1191,12236,8.344230140568813,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+avogadro,1828,0,4779,1212,0,1160,2246,6607,27.667625245951267,Occitan (post 1500) <oc@li.org>
+bakery,57,0,1,15,0,1,68,58,98.27586206896551,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+balsa,395,0,5571,264,0,1184,446,5966,6.620851491786792,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+banshee,400,0,2790,261,0,610,432,3190,12.539184952978054,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+bijiben,309,0,0,103,0,0,363,309,100.0,www.totenoc.eu
+brasero,2099,0,3309,540,0,446,2398,5408,38.812869822485204,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+byzanz,3,0,246,3,0,39,8,249,1.2048192771084338,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+bzr,0,0,33249,0,0,2353,0,33249,0.0,Occitan (post 1500) <oc@li.org>
+cairo-dock,145,0,7319,95,0,732,181,7464,1.942658092175777,Occitan (post 1500) <oc@li.org>
+caja,7546,0,1696,1308,0,188,8187,9242,81.6489937243021,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+caja-actions,410,6,1138,98,1,71,457,1554,26.383526383526384,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+caja-extensions,46,0,510,34,0,93,52,556,8.273381294964029,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+calibre,11764,0,139920,8178,0,9516,12150,151684,7.7555971625220845,Occitan (post 1500) (http://www.transifex.com/calibre/calibre/language/oc/)
+cheese,250,0,363,87,0,33,294,613,40.78303425774878,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+cinnamon-desktop,0,14,217,0,2,29,0,231,0.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+cinnamon-session,8,41,352,2,13,54,9,401,1.99501246882793,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+cinnamon-settings-daemon,99,0,935,40,0,131,108,1034,9.574468085106384,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+cinnamon-translations,7788,0,5653,2198,0,1017,9093,13441,57.94211740197902,Occitan (post 1500) <oc@li.org>
+clementine,224,0,4867,153,0,1199,289,5091,4.399921429974465,Occitan (post 1500) (http://www.transifex.com/davidsansome/clementine/language/oc/)
+cogl,393,0,0,80,0,0,535,393,100.0,Tot en òc (totenoc.eu)
+compat-gtkhtml314,300,0,937,219,0,328,338,1237,24.252223120452708,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+conduit,63,0,517,54,0,165,75,580,10.86206896551724,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+control-center,4904,0,0,1450,0,0,5683,4904,100.0,Tot en òc (totenoc.eu)
+dasher,1407,0,5811,294,0,177,1683,7218,19.492934330839567,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+dconf-editor,198,0,0,33,0,0,224,198,100.0,Tot en òc (totenoc.eu)
+deja-dup,1701,0,2399,322,0,166,1951,4100,41.48780487804878,Occitan (post 1500) <oc@li.org>
+deluge,1106,0,1622,629,0,249,1300,2728,40.542521994134894,Occitan (post 1500) <oc@li.org>
+devhelp,317,0,126,93,0,14,385,443,71.55756207674943,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+dia,544,0,5711,430,0,1877,581,6255,8.697042366107114,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+digikam,131,215,4869,91,139,747,142,5215,2.5119846596356665,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+duplicity,824,0,2808,216,0,310,1046,3632,22.687224669603523,Occitan (post 1500) <oc@li.org>
+easytag,1916,1929,1394,582,285,153,2362,5239,36.57186485970605,Tot En Òc
+ekiga,211,0,9441,134,0,717,235,9652,2.1860754247824286,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+empathy,4035,0,220,931,0,24,4628,4255,94.82961222091657,Tot En Òc
+engrampa,1423,0,5979,360,0,424,1547,7402,19.224533909754122,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+eog,1878,0,3139,407,0,166,2115,5017,37.43272872234403,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+eom,1678,0,3322,380,0,181,1907,5000,33.56,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+epiphany,480,0,2268,250,0,361,548,2748,17.46724890829694,Tot En Òc
+evince,1596,0,1703,401,0,111,1897,3299,48.378296453470746,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+evolution,1881,1519,20653,590,491,1389,2208,24053,7.820230324699621,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+evolution-data-server,3861,0,1540,867,0,208,4912,5401,71.4867617107943,Tot en òc (totenoc.eu)
+exaile,1617,114,2275,591,48,386,2115,4006,40.36445332001997,Occitan (post 1500) <oc@li.org>
+exo,1393,0,0,279,0,0,1614,1393,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+fantasdic,113,0,285,61,0,67,157,398,28.391959798994975,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+file-roller,1195,0,0,268,0,0,1345,1195,100.0,Tot En Òc
+filezilla,5976,293,2833,1301,52,187,6964,9102,65.65589980224127,Tòni Galhard <tony.gaillard@supinfo.com>
+five-or-more,1157,0,7912,554,0,1319,1255,9069,12.757746168265518,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+four-in-a-row,1124,0,8657,527,0,1361,1221,9781,11.491667518658625,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+fuse-encfs,1037,24,228,117,3,17,1246,1289,80.44996121024049,Occitan (post 1500) <oc@li.org>
+fwupd,121,0,308,45,0,59,171,429,28.205128205128204,Occitan (post 1500) (http://www.transifex.com/hughsie/fwupd/language/oc/)
+garcon,109,0,0,34,0,0,126,109,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+gbrainy,1116,0,6923,515,0,522,1178,8039,13.88232367209852,Occitan (post 1500) <oc@li.org>
+gcompris,853,0,9396,372,0,822,919,10249,8.322763196409406,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gconf-editor,214,0,2623,87,0,151,265,2837,7.543179414874867,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gcr,667,0,33,241,0,13,783,700,95.28571428571428,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gdesklets,876,0,652,162,0,42,979,1528,57.32984293193717,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gdk-pixbuf2,603,47,698,97,7,98,698,1348,44.73293768545994,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gdm,660,0,31169,93,0,1237,770,31829,2.073580696848786,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+geary,1598,0,3,430,0,1,1928,1601,99.81261711430356,Tot En Òc
+geda-gaf,8,0,0,2,0,0,10,8,100.0,Occitan (post 1500) <oc@li.org>
+gedit,4166,36,7687,774,9,599,4726,11889,35.04079401127092,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gedit-plugins,258,61,8642,174,22,961,301,8961,2.879142952795447,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+genius,59,0,6543,49,0,841,67,6602,0.8936685852771887,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gftp,643,0,2732,261,0,373,757,3375,19.051851851851854,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+ggz-base-libs,11,0,0,4,0,0,11,11,100.0,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+ggz-gtk-client,83,0,0,68,0,0,97,83,100.0,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+ghex,259,0,2889,133,0,334,310,3148,8.227445997458705,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gigolo,521,0,0,142,0,0,635,521,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+gimp,27379,1154,591,7160,172,50,32974,29124,94.00837797005906,Tot en òc (totenoc.eu)
+gimp-gap,154,0,10320,138,0,1679,178,10474,1.470307427916746,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gitg,1342,0,0,244,0,0,1528,1342,100.0,www.totenoc.org
+glade,1320,0,6647,638,0,1126,1578,7967,16.568344420735535,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+glade2,502,0,5408,290,0,1021,581,5910,8.494077834179357,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+glade3,444,0,4551,284,0,728,541,4995,8.88888888888889,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+glib-networking,157,0,0,28,0,0,207,157,100.0,Tot en òc (totenoc.eu)
+glib2,72,233,4472,45,53,649,84,4777,1.5072221059242201,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+glom,209,0,5999,159,0,657,237,6208,3.366623711340206,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gmpc,414,0,1064,233,0,275,526,1478,28.010825439783492,Occitan (post 1500) <oc@li.org>
+gnome-backgrounds,17,0,6,13,0,4,16,23,73.91304347826086,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-bluetooth,309,0,0,102,0,0,349,309,100.0,Tot en òc (totenoc.eu)
+gnome-boxes,966,0,0,217,0,0,1189,966,100.0,www.totenoc.eu
+gnome-calculator,303,0,6188,259,0,626,325,6491,4.668001848713604,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-calendar,318,0,43,116,0,3,361,361,88.08864265927978,Tot En Òc
+gnome-characters,146,0,0,42,0,0,166,146,100.0,www.totenoc.eu
+gnome-chess,1116,0,8532,526,0,1337,1213,9648,11.567164179104477,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-clocks,168,0,0,69,0,0,212,168,100.0,Tot en òc (totenoc.eu)
+gnome-color-manager,1793,0,0,343,0,0,2019,1793,100.0,Tot en òc (totenoc.eu)
+gnome-commander,8414,52,76,1636,7,3,9475,8542,98.50152189182862,Tot en òc (totenoc.eu)
+gnome-contacts,347,0,4,152,0,1,399,351,98.86039886039886,Tot en òc (totenoc.eu)
+gnome-desktop,370,0,9489,116,0,195,448,9859,3.752916117253271,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-desktop3,237,0,9485,72,0,193,275,9722,2.43777000617157,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-devel-docs,139,0,10576,94,0,288,149,10715,1.297246850209986,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-dictionary,890,0,1119,205,0,74,1090,2009,44.30064708810353,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-directory-thumbnailer,85,0,0,12,0,0,111,85,100.0,Tot en òc (totenoc.eu)
+gnome-disk-utility,3435,0,0,636,0,0,4106,3435,100.0,Tot en òc (totenoc.eu)
+gnome-do,517,0,95,135,0,9,628,612,84.47712418300654,Occitan (post 1500) <oc@li.org>
+gnome-doc-utils,40,0,198,26,0,66,42,238,16.80672268907563,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-documents,549,0,0,174,0,0,667,549,100.0,Tot en òc (totenoc.eu)
+gnome-font-viewer,46,0,0,24,0,0,64,46,100.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-icon-theme,16,0,4,14,0,2,18,20,80.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-initial-setup,202,0,160,65,0,16,247,362,55.80110497237569,www.totenoc.eu
+gnome-keyring,553,0,0,112,0,0,628,553,100.0,Tot en òc (totenoc.eu)
+gnome-klotski,1135,0,7586,534,0,1320,1236,8721,13.014562550166264,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-logs,140,0,0,42,0,0,159,140,100.0,Tot en òc (totenoc.eu)
+gnome-mahjongg,354,0,2106,92,0,73,385,2460,14.390243902439023,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-maps,471,65,406,106,26,96,584,942,50.0,Tot en òc (totenoc.eu)
+gnome-menus,138,0,19,52,0,4,169,157,87.89808917197452,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-mines,406,0,2660,101,0,81,431,3066,13.24200913242009,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-mud,110,0,1051,85,0,174,121,1161,9.474590869939707,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-multi-writer,350,0,37,54,0,6,381,387,90.43927648578811,www.totenoc.eu
+gnome-music,489,0,0,90,0,0,602,489,100.0,Tot en òc (totenoc.eu)
+gnome-nettool,157,0,912,101,0,118,177,1069,14.686623012160899,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-nibbles,446,0,2015,122,0,88,505,2461,18.1227143437627,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-online-accounts,943,81,109,231,48,22,1131,1133,83.23036187113857,www.totenoc.eu
+gnome-phone-manager,82,0,439,29,0,63,89,521,15.738963531669867,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-photos,377,0,0,127,0,0,456,377,100.0,Tot en òc (totenoc.eu)
+gnome-power-manager,433,0,47,145,0,2,518,480,90.20833333333333,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-robots,1137,0,8375,535,0,1354,1235,9512,11.95332211942809,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-screensaver,87,0,879,40,0,114,104,966,9.006211180124224,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-search-tool,310,22,2847,108,5,245,340,3179,9.751494180559925,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-settings-daemon,2416,0,0,406,0,0,2783,2416,100.0,Tot en òc (totenoc.eu)
+gnome-shell,1353,0,0,341,0,0,1590,1353,100.0,www.totenoc.eu
+gnome-shell-extensions,338,0,0,66,0,0,421,338,100.0,Tot en òc (totenoc.eu)
+gnome-software,2455,0,0,548,0,0,2918,2455,100.0,Tot En Òc
+gnome-sound-recorder,253,0,0,65,0,0,326,253,100.0,Tot en òc (totenoc.eu)
+gnome-subtitles,161,0,2295,119,0,310,188,2456,6.555374592833877,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-sudoku,437,0,2456,93,0,102,465,2893,15.105426892499136,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-system-log,76,26,1660,45,10,121,97,1762,4.313280363223609,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-system-monitor,1276,0,0,289,0,0,1732,1276,100.0,Tot en òc (totenoc.eu)
+gnome-taquin,223,0,0,46,0,0,250,223,100.0,Tot en òc (totenoc.eu)
+gnome-terminal,2218,0,0,440,0,0,2650,2218,100.0,Tot en òc (totenoc.eu)
+gnome-tetravex,1117,0,7512,523,0,1310,1214,8629,12.944721288677716,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-themes,109,0,0,30,0,0,145,109,100.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-themes-standard,12,0,0,5,0,0,16,12,100.0,Tot en òc (totenoc.org)
+gnome-tweak-tool,416,0,2,145,0,1,564,418,99.52153110047847,www.totenoc.eu
+gnome-user-share,247,0,0,34,0,0,283,247,100.0,www.totenoc.org
+gnome-vfs2,324,0,1184,139,0,162,341,1508,21.485411140583555,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gnome-weather,166,0,0,69,0,0,207,166,100.0,www.totenoc.eu
+gnome-web-photo,0,0,26,0,0,4,0,26,0.0,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gnomint,72,0,4340,49,0,652,87,4412,1.6319129646418857,Occitan (post 1500) <oc@li.org>
+gnote,2486,134,665,407,25,96,2977,3285,75.67732115677322,www.totenoc.eu
+gnumeric,19147,1527,15463,2344,358,3021,22790,36137,52.98447574508122,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gobby,812,0,88,188,0,2,915,900,90.22222222222223,Occitan (post 1500) <oc@li.org>
+goffice,185,229,5787,163,132,1706,193,6201,2.983389775842606,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+goffice08,206,104,4289,178,58,1324,215,4599,4.479234616220918,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gourmet,870,25,3044,458,9,425,1070,3939,22.086824067022086,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+gparted,1850,0,755,362,0,81,2185,2605,71.0172744721689,Tot En Òc
+grilo,195,0,0,37,0,0,252,195,100.0,Tot en òc (totenoc.eu)
+gscan2pdf,49,0,1575,33,0,440,57,1624,3.0172413793103448,Occitan (post 1500) <oc@li.org>
+gsettings-desktop-schemas,2018,0,3807,299,0,212,2610,5825,34.64377682403433,Occitan (post 1500) <oc@li.org>
+gtg,35,0,3462,27,0,273,40,3497,1.0008578781812982,Occitan (post 1500) <oc@li.org>
+gthumb,783,0,10993,446,0,1142,857,11776,6.649116847826086,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gtk2,15136,0,17,3355,0,4,18175,15153,99.88781099452254,www.totenoc.eu
+gtk2-engines,14,0,85,12,0,33,21,99,14.14141414141414,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gtk3,15136,0,17,3355,0,4,18175,15153,99.88781099452254,www.totenoc.eu
+gtkhtml3,522,0,0,317,0,0,613,522,100.0,www.totenoc.eu
+gtksourceview2,86,0,908,81,0,304,94,994,8.651911468812877,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gtksourceview3,86,0,908,81,0,304,94,994,8.651911468812877,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gtranslator,590,0,631,238,0,95,699,1221,48.32104832104832,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+gucharmap,1278,0,1551,432,0,107,1464,2829,45.17497348886532,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+gvfs,2639,0,136,582,0,27,3476,2775,95.09909909909909,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+gwget,65,0,480,53,0,134,82,545,11.926605504587156,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+hitori,171,0,0,35,0,0,183,171,100.0,Tot en òc (totenoc.eu)
+homebank,608,0,1653,371,0,352,655,2261,26.89075630252101,Occitan (post 1500) <oc@li.org>
+iagno,1157,0,8778,540,0,1360,1261,9935,11.645697030699546,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+iso-codes,1271,375,21711,732,201,14432,1203,23357,5.441623496168172,Occitan>
+isomaster,24,1,649,20,1,86,27,674,3.5608308605341246,http://littlesvr.ca/ostd/
+jmol,320,14,2832,175,8,838,348,3166,10.107391029690461,Occitan (post 1500) <oc@li.org>
+json-glib,303,0,0,44,0,0,351,303,100.0,Tot En Òc
+k3b,383,133,20019,285,76,2171,415,20535,1.865108351594838,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kaudiocreator,49,16,1071,43,12,218,52,1136,4.313380281690141,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kcoloredit,13,29,236,10,13,72,15,278,4.676258992805756,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kde-cli-tools,95,12,2009,40,6,170,108,2116,4.489603024574669,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kf5-kauth,0,2,56,0,1,7,0,58,0.0,Occitan <oc@li.org>
+kf5-kbookmarks,0,64,154,0,29,19,0,218,0.0,Occitan <oc@li.org>
+kf5-kcmutils,26,42,495,8,9,54,29,563,4.618117229129663,Occitan <oc@li.org>
+kf5-kcodecs,0,52,296,0,35,18,0,348,0.0,Occitan <oc@li.org>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Occitan <oc@li.org>
+kf5-kconfigwidgets,71,162,92,43,57,18,90,325,21.846153846153847,Occitan <oc@li.org>
+kf5-kcoreaddons,0,159,116,0,56,26,0,275,0.0,Occitan <oc@li.org>
+kf5-kdeclarative,12,2,95,6,1,7,16,109,11.009174311926607,Occitan <oc@li.org>
+kf5-kdelibs4support,238,949,3626,157,659,1548,261,4813,4.944940785372949,Occitan <oc@li.org>
+kf5-kdesignerplugin,0,45,9,0,6,3,0,54,0.0,Occitan <oc@li.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Occitan <oc@li.org>
+kf5-kdoctools,4,0,4,2,0,2,6,8,50.0,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kf5-kglobalaccel,0,16,55,0,4,5,0,71,0.0,Occitan <oc@li.org>
+kf5-khtml,1042,216,465,221,33,58,1089,1723,60.475914103308185,Occitan <oc@li.org>
+kf5-ki18n,25,59,40,25,51,34,27,124,20.161290322580644,Occitan <oc@li.org>
+kf5-kiconthemes,13,0,24,12,0,8,14,37,35.13513513513514,Occitan <oc@li.org>
+kf5-kinit,99,11,24,10,2,2,91,134,73.88059701492537,Occitan <oc@li.org>
+kf5-kio,166,271,11487,132,137,1042,183,11924,1.392150285139215,Occitan <oc@li.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Occitan <oc@li.org>
+kf5-kjobwidgets,0,113,28,0,41,4,0,141,0.0,Occitan <oc@li.org>
+kf5-kjsembed,0,4,244,0,3,41,0,248,0.0,Occitan <oc@li.org>
+kf5-knewstuff,103,186,388,25,72,54,114,677,15.214180206794683,Occitan <oc@li.org>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Occitan <oc@li.org>
+kf5-knotifyconfig,3,23,103,3,6,8,3,129,2.3255813953488373,Occitan <oc@li.org>
+kf5-kparts,43,24,37,12,9,5,42,104,41.34615384615385,Occitan <oc@li.org>
+kf5-kpty,0,0,15,0,0,4,0,15,0.0,Occitan <oc@li.org>
+kf5-kross,19,7,74,14,4,17,20,100,19.0,Occitan <oc@li.org>
+kf5-kservice,10,66,94,3,14,11,10,170,5.88235294117647,Occitan <oc@li.org>
+kf5-ktexteditor,199,335,8138,139,137,1194,211,8672,2.294741697416974,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kf5-ktextwidgets,329,39,94,74,27,21,365,462,71.21212121212122,Occitan <oc@li.org>
+kf5-kwidgetsaddons,0,793,521,0,274,180,0,1314,0.0,Occitan <oc@li.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Occitan <oc@li.org>
+kf5-kxmlgui,362,324,862,107,56,65,409,1548,23.385012919896642,Occitan <oc@li.org>
+kf5-sonnet,0,608,55,0,54,18,0,663,0.0,Occitan <oc@li.org>
+kgamma,5,0,125,4,0,12,5,130,3.8461538461538463,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+khelpcenter,58,12,194,37,4,48,73,264,21.96969696969697,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+khotkeys,16,36,384,12,24,93,18,436,3.669724770642202,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kiconedit,51,0,675,42,0,113,55,726,7.024793388429752,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kinfocenter,63,13,1126,44,6,250,71,1202,5.241264559068219,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kmenuedit,25,14,238,18,4,39,28,277,9.025270758122744,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kopete-cryptography,6,1,401,4,1,36,7,408,1.4705882352941175,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+kpilot,43,57,7056,29,38,794,51,7156,0.6008943543879262,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+ksig,14,0,71,11,0,15,16,85,16.470588235294116,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+ksnapshot,15,8,498,8,4,51,17,521,2.8790786948176583,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+ksysguard,91,43,947,60,23,150,98,1081,8.418131359851989,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+ktorrent,160,459,7120,131,212,1046,177,7739,2.067450575009691,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+kwin,111,141,5537,84,75,912,119,5789,1.9174296078770081,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+ldm,2,0,53,2,0,17,5,55,3.6363636363636362,Occitan (post 1500) <oc@li.org>
+libappstream-glib,211,0,201,48,0,41,240,412,51.213592233009706,Occitan (post 1500) (http://www.transifex.com/freedesktop/appstream-glib/language/oc/)
+libbonobo,8,0,535,5,0,102,10,543,1.4732965009208103,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libbonoboui,94,0,274,48,0,67,110,368,25.543478260869566,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+libcryptui,275,0,2654,135,0,488,335,2929,9.388869921474905,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libgda,100,827,10215,73,285,1696,110,11142,0.8975049362771496,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libgdata,684,0,0,84,0,0,752,684,100.0,Tot En Òc
+libgdl,19,0,594,18,0,80,20,613,3.0995106035889073,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libgnome,351,0,1339,100,0,163,410,1690,20.76923076923077,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libgnome-media-profiles,31,0,429,12,0,39,40,460,6.739130434782608,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libgnomecanvas,29,0,349,22,0,73,38,378,7.671957671957672,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libgnomekbd,45,0,232,12,0,38,54,277,16.24548736462094,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libgnomeui,906,0,403,264,0,70,1037,1309,69.2131398013751,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libgovirt,102,0,0,23,0,0,120,102,100.0,French <gnomefr@traduc.org>
+libgsf,0,0,77,0,0,10,0,77,0.0,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+libgtop2,126,0,0,40,0,0,152,126,100.0,www.totenoc.eu
+libgweather,6172,0,0,4577,0,0,6350,6172,100.0,Tot en òc (totenoc.eu)
+libkfbapi,0,0,42,0,0,6,0,42,0.0,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+libksysguard,16,19,2768,14,10,202,17,2803,0.5708169818052087,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+libktorrent,8,73,438,7,27,81,9,519,1.5414258188824663,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+libmatekbd,22,0,229,9,0,34,27,251,8.764940239043826,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+libmatemixer,14,0,228,14,0,112,14,242,5.785123966942149,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+libmateweather,554,0,6335,345,0,4292,589,6889,8.041805777326172,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+libpeas,105,0,0,26,0,0,113,105,100.0,Tot en òc (totenoc.eu)
+libreoffice,93022,31,6623,30767,3,652,107211,99676,93.32437096191661,LANGUAGE <LL@li.org>
+librfm,358,618,1421,199,241,158,504,2397,14.935335836462244,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+libsecret,59,0,0,9,0,0,68,59,100.0,www.totenoc.org
+libsoup,155,0,0,36,0,0,221,155,100.0,Tot en òc (totenoc.eu)
+libwnck,137,0,987,57,0,184,181,1124,12.188612099644129,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+libwnck3,1082,0,0,230,0,0,1337,1082,100.0,Tot en òc (totenoc.eu)
+libxfce4ui,850,0,0,164,0,0,1083,850,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+libxfce4util,424,0,0,7,0,0,477,424,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+light-locker,4,0,256,1,0,36,3,260,1.5384615384615385,Occitan (post 1500) (http://www.transifex.com/the_cavalry/light-locker/language/oc/)
+lightdm,0,0,79,0,0,17,0,79,0.0,Occitan (post 1500) <oc@li.org>
+lightdm-gtk,35,0,49,12,0,12,38,84,41.66666666666667,Occitan (post 1500) <oc@li.org>
+lightsoff,1088,0,6475,508,0,1275,1178,7563,14.385825730530213,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+lxmenu-data,78,0,19,33,0,4,90,97,80.41237113402062,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+marco,2058,0,2038,310,0,104,2551,4096,50.244140625,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-applets,2858,0,11155,949,0,631,3302,14013,20.39534717762078,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mate-backgrounds,18,0,12,14,0,7,17,30,60.0,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-calc,355,0,7548,293,0,1033,384,7903,4.491965076553208,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mate-control-center,1537,0,1460,434,0,242,1791,2997,51.284617951284616,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mate-desktop,205,0,2196,61,0,271,254,2401,8.5381091211995,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-icon-theme,4,0,0,2,0,0,6,4,100.0,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-media,13,0,212,9,0,87,13,225,5.777777777777778,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-menus,81,0,16,34,0,3,93,97,83.50515463917526,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-netspeed,22,0,125,15,0,42,37,147,14.965986394557824,Occitan (post 1500) (http://www.transifex.com/projects/p/MATE/language/oc/)
+mate-notification-daemon,39,0,100,14,0,23,44,139,28.05755395683453,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-panel,1430,0,4693,371,0,386,1688,6123,23.35456475583864,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mate-polkit,11,0,302,7,0,43,12,313,3.5143769968051117,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-power-manager,154,0,6844,81,0,569,182,6998,2.2006287510717346,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mate-screensaver,82,0,901,37,0,119,100,983,8.341810783316378,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-sensors-applet,31,0,273,30,0,75,42,304,10.197368421052632,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-session-manager,137,0,544,44,0,70,174,681,20.11747430249633,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-settings-daemon,118,0,1586,58,0,189,137,1704,6.924882629107981,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-system-monitor,186,0,3962,113,0,475,223,4148,4.484088717454195,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mate-terminal,1548,0,6539,383,0,399,1831,8087,19.14183257079263,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mate-themes,7,0,48,2,0,8,9,55,12.727272727272727,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+mate-user-guide,1020,0,39217,476,0,2456,1193,40237,2.5349802420657603,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+mate-utils,735,0,9088,312,0,785,861,9823,7.482439173368624,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+meld,140,0,717,79,0,164,163,857,16.33605600933489,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+metacity,3798,0,0,404,0,0,4605,3798,100.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mingw-GConf2,188,0,3767,45,0,426,228,3955,4.753476611883692,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mingw-adwaita-icon-theme,4,0,0,2,0,0,2,4,100.0,www.totenoc.org
+mingw-atk,48,1,326,37,1,88,54,375,12.8,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mingw-gdk-pixbuf,603,47,698,97,7,98,698,1348,44.73293768545994,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mingw-glib-networking,157,0,0,28,0,0,207,157,100.0,Tot en òc (totenoc.eu)
+mingw-glib2,72,233,4472,45,53,649,84,4777,1.5072221059242201,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mingw-gtk2,15136,0,17,3355,0,4,18175,15153,99.88781099452254,www.totenoc.eu
+mingw-gtk3,15136,0,17,3355,0,4,18175,15153,99.88781099452254,www.totenoc.eu
+mingw-gtkhtml3,300,0,937,219,0,328,338,1237,24.252223120452708,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mingw-gtksourceview3,86,0,908,81,0,304,94,994,8.651911468812877,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mingw-libgsf,216,0,480,34,0,112,256,696,31.03448275862069,Tot en òc (totenoc.eu)
+mingw-libsoup,155,0,0,36,0,0,221,155,100.0,Tot en òc (totenoc.eu)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Occitan (post 1500) (http://www.transifex.com/freedesktop/p11-kit/language/oc/)
+mintmenu,3243,0,2598,874,0,320,3796,5841,55.52131484334875,Occitan (post 1500) <oc@li.org>
+mousepad,909,0,0,247,0,0,1019,909,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+mousetweaks,3,0,291,3,0,73,3,294,1.0204081632653061,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mozo,42,0,0,16,0,0,45,42,100.0,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+muffin,410,0,7639,117,0,401,557,8049,5.093800472108336,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+mutter,809,0,5,124,0,1,1044,814,99.38574938574939,Tot En Òc
+nautilus,6238,0,19,1056,0,2,6936,6257,99.69634009908901,Tot en òc (totenoc.eu)
+nautilus-open-terminal,31,0,127,7,0,7,32,158,19.62025316455696,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+nautilus-pastebin,11,3,70,4,1,10,13,84,13.095238095238097,Occitan (post 1500) <oc@li.org>
+nautilus-sendto,308,0,0,64,0,0,343,308,100.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+nemiver,236,0,2518,125,0,245,283,2754,8.569353667392884,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+nemo-extensions,167,10,467,48,1,97,177,644,25.931677018633543,Occitan (post 1500) <oc@li.org>
+network-manager-applet,2830,0,478,641,0,106,3419,3308,85.55018137847642,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+notification-daemon,17,0,0,7,0,0,22,17,100.0,Tot en òc (totenoc.eu)
+nuvolaplayer,194,0,788,80,0,116,240,982,19.75560081466395,Occitan (post 1500) <oc@li.org>
+obby,150,0,9,30,0,2,183,159,94.33962264150944,Occitan (post 1500) <oc@li.org>
+oggconvert,20,0,112,13,0,31,28,132,15.151515151515152,Occitan (post 1500) <oc@li.org>
+openerp,578,0,14569,378,0,2146,650,15147,3.8159371492704826,Occitan (post 1500) <oc@li.org>
+openerp-client,282,0,7447,183,0,391,331,7729,3.6485961961443913,Occitan (post 1500) <oc@li.org>
+openerp7,447,0,15241,299,0,2237,514,15688,2.84931157572667,Occitan (post 1500) <oc@li.org>
+orage,2915,0,0,1021,0,0,3384,2915,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+orca,3795,0,365,1206,0,148,4577,4160,91.22596153846155,Tot en òc (totenoc.eu)
+p11-kit,0,0,476,0,0,81,0,476,0.0,Occitan (post 1500) (http://www.transifex.com/freedesktop/p11-kit/language/oc/)
+pan,407,203,2558,193,69,490,479,3168,12.847222222222221,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+parole,664,0,0,257,0,0,904,664,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+pastebinit,65,0,118,16,0,11,75,183,35.51912568306011,Occitan (post 1500) <oc@li.org>
+pessulus,130,0,0,33,0,0,159,130,100.0,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+picard,581,0,1044,238,0,235,713,1625,35.753846153846155,Occitan (post 1500) (http://www.transifex.com/projects/p/musicbrainz/language/oc/)
+pidgin,815,0,17743,594,0,3354,933,18558,4.391637029852355,Occitan (post 1500) (http://www.transifex.com/projects/p/pidgin/language/oc/)
+pinta,428,0,1190,258,0,270,526,1618,26.45241038318912,Occitan (post 1500) <oc@li.org>
+pitivi,118,4,865,59,1,165,125,987,11.955420466058763,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+planner,546,0,1249,256,0,271,663,1795,30.41782729805014,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+plasma-desktop,468,285,8046,263,108,1087,510,8799,5.318786225707467,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+plasma-sdk,16,3,223,10,3,48,20,242,6.6115702479338845,Occitan <oc@li.org>
+plasma-systemsettings,8,11,167,5,5,33,10,186,4.301075268817205,Occitan <oc@li.org>
+plasma-workspace,76,78,5263,35,25,578,83,5417,1.4029905851947573,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+playonlinux,89,0,2639,62,0,387,102,2728,3.262463343108504,Occitan (post 1500) <oc@li.org>
+pluma,808,0,12006,387,0,1416,913,12814,6.305603246449196,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+poedit,2461,0,55,524,0,8,2883,2516,97.81399046104929,Occitan
+pogo,106,0,470,55,0,46,136,576,18.40277777777778,Occitan (post 1500) <oc@li.org>
+polari,375,0,0,97,0,0,423,375,100.0,Tot en òc (totenoc.eu)
+pulseaudio,153,2619,676,55,422,42,163,3448,4.437354988399072,www.totenoc.eu
+pybliographer,264,0,707,117,0,145,316,971,27.188465499485066,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+pychess,502,0,3953,245,0,634,582,4455,11.268237934904601,Occitan (post 1500) (http://www.transifex.com/gbtami/pychess/language/oc/)
+python-caja,1,0,5,1,0,1,1,6,16.666666666666664,Occitan (post 1500) (http://www.transifex.com/mate/MATE/language/oc/)
+quadrapassel,1115,0,8045,523,0,1338,1213,9160,12.172489082969433,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+quassel,1520,0,3862,706,0,505,1701,5382,28.24228911185433,Occitan (post 1500) (http://www.transifex.com/ald/quassel/language/oc/)
+rabbitvcs,150,0,1374,108,0,364,170,1524,9.84251968503937,Occitan (post 1500) <oc@li.org>
+rapid-photo-downloader,132,0,1700,97,0,312,149,1832,7.20524017467249,Occitan (post 1500) <oc@li.org>
+rednotebook,543,0,604,158,0,82,615,1147,47.34088927637315,Occitan (post 1500) <oc@li.org>
+remmina,1072,0,78,307,0,35,1330,1150,93.21739130434783,Occitan (post 1500) <oc@li.org>
+rhythmbox,3953,2,4809,1093,1,314,4683,8764,45.104974897307166,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+ristretto,541,0,0,183,0,0,674,541,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+rodent,405,808,8589,251,282,339,481,9802,4.131809834727607,
+rsibreak,28,4,1272,18,2,143,34,1304,2.147239263803681,Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com>
+rt,896,0,9351,486,0,1817,1078,10247,8.74402264077291,Occitan (post 1500) <oc@li.org>
+rygel,1167,119,49,235,17,8,1458,1335,87.41573033707866,Tot En Òc
+sawfish,46,148,6249,44,75,863,50,6443,0.7139531274251125,Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com>
+seahorse,2410,0,76,563,0,7,2796,2486,96.94288012872083,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+seahorse-nautilus,98,10,313,34,1,75,108,421,23.27790973871734,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+sflphone,475,0,586,210,0,127,540,1061,44.76908576814326,Occitan (post 1500) <oc@li.org>
+shared-mime-info,0,0,1767,0,0,690,0,1767,0.0,Occitan (post 1500) (http://www.transifex.com/freedesktop/shared-mime-info/language/oc/)
+shotwell,4466,0,0,942,0,0,5235,4466,100.0,Tot En Òc
+shutter,3085,0,8,605,0,1,3510,3093,99.74135143873262,Occitan (post 1500) <oc@li.org>
+simple-scan,559,0,80,130,0,16,668,639,87.48043818466354,Occitan (post 1500) <oc@li.org>
+sound-juicer,214,0,5921,133,0,255,256,6135,3.488182559087204,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+stellarium,201,0,17104,103,0,4477,245,17305,1.1615140132909563,Occitan (post 1500) <oc@li.org>
+storaged,0,0,1929,0,0,478,0,1929,0.0,
+sushi,24,0,0,11,0,0,28,24,100.0,www.totenoc.eu
+swell-foop,1139,0,7729,538,0,1317,1237,8868,12.843933243121336,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+synapse,328,0,496,135,0,92,372,824,39.80582524271845,Occitan (post 1500) <oc@li.org>
+tali,1127,0,8349,526,0,1345,1225,9476,11.893203883495145,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+terminator,202,0,1109,92,0,301,240,1311,15.408085430968727,Occitan (post 1500) <oc@li.org>
+thunar-vcs-plugin,572,0,23,312,0,8,691,595,96.1344537815126,Occitan (post 1500) (http://www.transifex.com/xfce/thunar-plugins/language/oc/)
+thunar-volman,487,0,0,113,0,0,538,487,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+tomboy,3358,0,3600,523,0,178,3964,6958,48.26099453866053,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+tortoisehg,141,0,11905,121,0,2197,166,12046,1.1705130333720737,Occitan (post 1500) <oc@li.org>
+totem,1322,0,2692,371,0,201,1521,4014,32.93472845042352,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+totem-pl-parser,29,0,0,8,0,0,32,29,100.0,www.totenoc.eu
+tracker,245,0,1147,99,0,192,240,1392,17.600574712643677,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+transmission,1809,0,0,494,0,0,2216,1809,100.0,Occitan (post 1500) <oc@li.org>
+tuxmath,155,76,1223,45,9,194,173,1454,10.660247592847318,Occitan (post 1500) <oc@li.org>
+tuxpaint,84,24,1483,53,13,225,87,1591,5.279698302954117,Occitan (post 1500) <oc@li.org>
+tuxpaint-stamps,39,86,2586,22,37,591,39,2711,1.4385835485060863,Occitan (post 1500) <oc@li.org>
+udisks2,0,0,1525,0,0,413,0,1525,0.0,Occitan (post 1500) (http://www.transifex.com/projects/p/udisks/language/oc/)
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+viewnior,208,0,217,85,0,59,236,425,48.94117647058824,Occitan (post 1500) <oc@li.org>
+vinagre,1507,0,0,275,0,0,1787,1507,100.0,Tot En Òc
+vino,973,0,0,94,0,0,1061,973,100.0,Tot en òc (totenoc.eu)
+vte,8,0,100,2,0,17,8,108,7.4074074074074066,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+vte291,64,0,0,13,0,0,89,64,100.0,Tot en òc (totenoc.eu)
+vte3,83,0,0,16,0,0,111,83,100.0,www.totenoc.org
+whaawmp,183,0,616,81,0,79,249,799,22.90362953692115,Occitan (post 1500) <oc@li.org>
+widelands,284,0,12681,138,0,1434,323,12965,2.1905129193983806,Occitan (post 1500) <oc@li.org>
+wxPython,355,8,2094,237,6,494,433,2457,14.448514448514448,Occitan (post 1500) <oc@li.org>
+xchat-gnome,967,0,5164,543,0,680,1068,6131,15.772304681128691,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+xdg-user-dirs-gtk,20,0,61,5,0,6,29,81,24.691358024691358,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+xfburn,1329,0,0,291,0,0,1522,1329,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-appfinder,319,0,0,69,0,0,359,319,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-clipman-plugin,386,0,13,66,0,1,401,399,96.74185463659147,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,178,140,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-datetime-plugin,52,0,0,19,0,0,50,52,100.0,Occitan (post 1500) (http://www.transifex.com/xfce/xfce-panel-plugins/language/oc/)
+xfce4-dict,518,0,0,111,0,0,565,518,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,213,183,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-embed-plugin,219,0,0,33,0,0,234,219,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-eyes-plugin,15,0,0,4,0,0,16,15,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,89,71,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-hardware-monitor-plugin,29,0,327,29,0,100,34,356,8.146067415730338,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>
+xfce4-mpc-plugin,76,0,0,24,0,0,89,76,100.0,Occitan (post 1500) (http://www.transifex.com/xfce/xfce-panel-plugins/language/oc/)
+xfce4-netload-plugin,84,0,8,30,0,5,96,92,91.30434782608695,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-notes-plugin,163,0,0,57,0,0,189,163,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-panel,1731,1,0,393,1,0,2084,1732,99.94226327944573,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-places-plugin,160,0,0,45,0,0,181,160,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-power-manager,391,0,626,127,0,75,509,1017,38.4464110127827,Occitan (post 1500) (http://www.transifex.com/xfce/xfce4-power-manager/language/oc/)
+xfce4-screenshooter,449,0,0,74,0,0,519,449,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-session,1066,0,0,208,0,0,1228,1066,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-settings,1591,0,0,354,0,0,1798,1591,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,24,22,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-systemload-plugin,70,0,3,21,0,1,103,73,95.8904109589041,Occitan (post 1500) (http://www.transifex.com/xfce/xfce-panel-plugins/language/oc/)
+xfce4-taskmanager,214,0,0,75,0,0,251,214,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-terminal,1097,0,0,282,0,0,1290,1097,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-timer-plugin,131,3,0,41,1,0,151,134,97.76119402985076,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-verve-plugin,47,0,0,10,0,0,60,47,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-wavelan-plugin,45,0,22,12,0,6,43,67,67.16417910447761,Occitan (post 1500) (http://www.transifex.com/xfce/xfce-panel-plugins/language/oc/)
+xfce4-weather-plugin,3668,0,0,330,0,0,4115,3668,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfce4-xkb-plugin,43,0,0,17,0,0,53,43,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfconf,451,0,0,67,0,0,559,451,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfdesktop,964,0,0,215,0,0,1153,964,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+xfwm4,666,0,0,172,0,0,903,666,100.0,Occitan (post 1500) (http://www.transifex.com/projects/p/xfce/language/oc/)
+yelp,507,0,0,122,0,0,579,507,100.0,Tot en òc (totenoc.eu)
+yelp-xsl,81,0,0,59,0,0,91,81,100.0,Tot en òc (totenoc.eu)
+zenity,970,0,2091,268,0,155,1274,3061,31.688990525971906,Occitan <ubuntu-l10n-oci@lists.ubuntu.com>

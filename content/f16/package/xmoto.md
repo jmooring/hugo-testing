@@ -1,0 +1,62 @@
+---
+title: "xmoto - translation progress for f16"
+package: xmoto
+date: 2026-01-20T02:38:16+00:00
+started_languages: 23
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 26
+release: f16
+---
+The package xmoto (version 0.5.7):
+
+* represents 7658 source words to be translated
+* is translated into 24 languages in Fedora f16
+
+
+* contains 26 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [fr]({{< ref "/f16/language/fr.md" >}}) | 3829 | 3829 | 100.0 | /mnt/stockage/packages/f16/xmoto/po/fr_FR.po | 
+ | [pt]({{< ref "/f16/language/pt.md" >}}) | 3829 | 3829 | 100.0 | /mnt/stockage/packages/f16/xmoto/po/pt_PT.po | 
+ | [da]({{< ref "/f16/language/da.md" >}}) | 3794 | 3829 | 99.1 | /mnt/stockage/packages/f16/xmoto/po/da_DK.po | 
+ | [de]({{< ref "/f16/language/de.md" >}}) | 3794 | 3829 | 99.1 | /mnt/stockage/packages/f16/xmoto/po/de_DE.po | 
+ | [gl]({{< ref "/f16/language/gl.md" >}}) | 3794 | 3829 | 99.1 | /mnt/stockage/packages/f16/xmoto/po/gl_ES.po | 
+ | [hu]({{< ref "/f16/language/hu.md" >}}) | 3794 | 3829 | 99.1 | /mnt/stockage/packages/f16/xmoto/po/hu_HU.po | 
+ | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 3794 | 3829 | 99.1 | /mnt/stockage/packages/f16/xmoto/po/pt_BR.po | 
+ | [sk]({{< ref "/f16/language/sk.md" >}}) | 3794 | 3829 | 99.1 | /mnt/stockage/packages/f16/xmoto/po/sk_SK.po | 
+ | [it]({{< ref "/f16/language/it.md" >}}) | 3790 | 3829 | 99.0 | /mnt/stockage/packages/f16/xmoto/po/it_IT.po | 
+ | [tr]({{< ref "/f16/language/tr.md" >}}) | 3763 | 3829 | 98.3 | /mnt/stockage/packages/f16/xmoto/po/tr_TR.po | 
+ | [ru]({{< ref "/f16/language/ru.md" >}}) | 3760 | 3829 | 98.2 | /mnt/stockage/packages/f16/xmoto/po/ru_RU.po | 
+ | [fi]({{< ref "/f16/language/fi.md" >}}) | 3481 | 3829 | 90.9 | /mnt/stockage/packages/f16/xmoto/po/fi_FI.po | 
+ | [lt]({{< ref "/f16/language/lt.md" >}}) | 3446 | 3829 | 90.0 | /mnt/stockage/packages/f16/xmoto/po/lt_LT.po | 
+ | [sv]({{< ref "/f16/language/sv.md" >}}) | 3355 | 3829 | 87.6 | /mnt/stockage/packages/f16/xmoto/po/sv_SE.po | 
+ | [nl]({{< ref "/f16/language/nl.md" >}}) | 3320 | 3829 | 86.7 | /mnt/stockage/packages/f16/xmoto/po/nl_NL.po | 
+ | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 3310 | 3829 | 86.4 | /mnt/stockage/packages/f16/xmoto/po/zh_TW.po | 
+ | [ca]({{< ref "/f16/language/ca.md" >}}) | 3300 | 3829 | 86.2 | /mnt/stockage/packages/f16/xmoto/po/ca_ES.po | 
+ | [ca_AD]({{< ref "/f16/language/ca_AD.md" >}}) | 3300 | 3829 | 86.2 | /mnt/stockage/packages/f16/xmoto/po/ca_AD.po | 
+ | [error]({{< ref "/f16/language/error.md" >}}) | 6600 | 7658 | 86.2 | /mnt/stockage/packages/f16/xmoto/po/ca_FR.po/mnt/stockage/packages/f16/xmoto/po/ca_IT.po | 
+ | [es]({{< ref "/f16/language/es.md" >}}) | 3300 | 3829 | 86.2 | /mnt/stockage/packages/f16/xmoto/po/es_ES.po | 
+ | [cs]({{< ref "/f16/language/cs.md" >}}) | 2961 | 3829 | 77.3 | /mnt/stockage/packages/f16/xmoto/po/cs_CZ.po | 
+ | [lv]({{< ref "/f16/language/lv.md" >}}) | 2697 | 3829 | 70.4 | /mnt/stockage/packages/f16/xmoto/po/lv_LV.po | 
+ | [pl]({{< ref "/f16/language/pl.md" >}}) | 2666 | 3829 | 69.6 | /mnt/stockage/packages/f16/xmoto/po/pl_PL.po | 
+ | [en]({{< ref "/f16/language/en.md" >}}) | 3530 | 7658 | 46.1 | /mnt/stockage/packages/f16/xmoto/po/nn_NO.po/mnt/stockage/packages/f16/xmoto/po/nb_NO.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

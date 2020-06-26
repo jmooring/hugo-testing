@@ -1,0 +1,102 @@
+---
+title: "usermode - translation progress for f22"
+package: usermode
+date: 2026-01-17T13:17:41+00:00
+started_languages: 64
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 64
+release: f22
+---
+The package usermode (version 1.111):
+
+* represents 573 source words to be translated
+* is translated into 64 languages in Fedora f22
+
+
+* contains 64 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/bn_IN.po | 
+ | [cs]({{< ref "/f22/language/cs.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/cs.po | 
+ | [da]({{< ref "/f22/language/da.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/da.po | 
+ | [de]({{< ref "/f22/language/de.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/de.po | 
+ | [el]({{< ref "/f22/language/el.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/el.po | 
+ | [es]({{< ref "/f22/language/es.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/es.po | 
+ | [fi]({{< ref "/f22/language/fi.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/fi.po | 
+ | [fr]({{< ref "/f22/language/fr.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/fr.po | 
+ | [hu]({{< ref "/f22/language/hu.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/hu.po | 
+ | [ja]({{< ref "/f22/language/ja.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/ja.po | 
+ | [nl]({{< ref "/f22/language/nl.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/nl.po | 
+ | [pl]({{< ref "/f22/language/pl.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/pl.po | 
+ | [pt]({{< ref "/f22/language/pt.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/pt.po | 
+ | [ru]({{< ref "/f22/language/ru.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/ru.po | 
+ | [sv]({{< ref "/f22/language/sv.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/sv.po | 
+ | [uk]({{< ref "/f22/language/uk.md" >}}) | 573 | 573 | 100.0 | /mnt/stockage/packages/f22/usermode/po/uk.po | 
+ | [ar]({{< ref "/f22/language/ar.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/ar.po | 
+ | [as]({{< ref "/f22/language/as.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/as.po | 
+ | [bg]({{< ref "/f22/language/bg.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/bg.po | 
+ | [bn]({{< ref "/f22/language/bn.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/bn.po | 
+ | [ca]({{< ref "/f22/language/ca.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/ca.po | 
+ | [et]({{< ref "/f22/language/et.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/et.po | 
+ | [fa]({{< ref "/f22/language/fa.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/fa.po | 
+ | [id]({{< ref "/f22/language/id.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/id.po | 
+ | [is]({{< ref "/f22/language/is.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/is.po | 
+ | [it]({{< ref "/f22/language/it.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/it.po | 
+ | [kn]({{< ref "/f22/language/kn.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/kn.po | 
+ | [ko]({{< ref "/f22/language/ko.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/ko.po | 
+ | [lv]({{< ref "/f22/language/lv.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/lv.po | 
+ | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/nb.po | 
+ | [pa]({{< ref "/f22/language/pa.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/pa.po | 
+ | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/pt_BR.po | 
+ | [ro]({{< ref "/f22/language/ro.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/ro.po | 
+ | [ta]({{< ref "/f22/language/ta.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/ta.po | 
+ | [te]({{< ref "/f22/language/te.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/te.po | 
+ | [tr]({{< ref "/f22/language/tr.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/tr.po | 
+ | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 570 | 573 | 99.5 | /mnt/stockage/packages/f22/usermode/po/zh_TW.po | 
+ | [bs]({{< ref "/f22/language/bs.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/bs.po | 
+ | [gu]({{< ref "/f22/language/gu.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/gu.po | 
+ | [he]({{< ref "/f22/language/he.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/he.po | 
+ | [hi]({{< ref "/f22/language/hi.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/hi.po | 
+ | [ml]({{< ref "/f22/language/ml.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/ml.po | 
+ | [mr]({{< ref "/f22/language/mr.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/mr.po | 
+ | [or]({{< ref "/f22/language/or.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/or.po | 
+ | [sk]({{< ref "/f22/language/sk.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/sk.po | 
+ | [sr]({{< ref "/f22/language/sr.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/sr.po | 
+ | [sr_Latn]({{< ref "/f22/language/sr_Latn.md" >}}) | 564 | 573 | 98.4 | /mnt/stockage/packages/f22/usermode/po/sr@latin.po | 
+ | [ast]({{< ref "/f22/language/ast.md" >}}) | 551 | 573 | 96.2 | /mnt/stockage/packages/f22/usermode/po/ast.po | 
+ | [de_CH]({{< ref "/f22/language/de_CH.md" >}}) | 551 | 573 | 96.2 | /mnt/stockage/packages/f22/usermode/po/de_CH.po | 
+ | [mai]({{< ref "/f22/language/mai.md" >}}) | 551 | 573 | 96.2 | /mnt/stockage/packages/f22/usermode/po/mai.po | 
+ | [hr]({{< ref "/f22/language/hr.md" >}}) | 542 | 573 | 94.6 | /mnt/stockage/packages/f22/usermode/po/hr.po | 
+ | [mk]({{< ref "/f22/language/mk.md" >}}) | 542 | 573 | 94.6 | /mnt/stockage/packages/f22/usermode/po/mk.po | 
+ | [ms]({{< ref "/f22/language/ms.md" >}}) | 542 | 573 | 94.6 | /mnt/stockage/packages/f22/usermode/po/ms.po | 
+ | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 524 | 573 | 91.4 | /mnt/stockage/packages/f22/usermode/po/en_GB.po | 
+ | [cy]({{< ref "/f22/language/cy.md" >}}) | 521 | 573 | 90.9 | /mnt/stockage/packages/f22/usermode/po/cy.po | 
+ | [sl]({{< ref "/f22/language/sl.md" >}}) | 442 | 573 | 77.1 | /mnt/stockage/packages/f22/usermode/po/sl.po | 
+ | [be]({{< ref "/f22/language/be.md" >}}) | 436 | 573 | 76.1 | /mnt/stockage/packages/f22/usermode/po/be.po | 
+ | [gl]({{< ref "/f22/language/gl.md" >}}) | 320 | 573 | 55.8 | /mnt/stockage/packages/f22/usermode/po/gl.po | 
+ | [vi]({{< ref "/f22/language/vi.md" >}}) | 252 | 573 | 44.0 | /mnt/stockage/packages/f22/usermode/po/vi.po | 
+ | [tg]({{< ref "/f22/language/tg.md" >}}) | 177 | 573 | 30.9 | /mnt/stockage/packages/f22/usermode/po/tg.po | 
+ | [nds]({{< ref "/f22/language/nds.md" >}}) | 74 | 573 | 12.9 | /mnt/stockage/packages/f22/usermode/po/nds.po | 
+ | [ka]({{< ref "/f22/language/ka.md" >}}) | 60 | 573 | 10.5 | /mnt/stockage/packages/f22/usermode/po/ka.po | 
+ | [si]({{< ref "/f22/language/si.md" >}}) | 31 | 573 | 5.4 | /mnt/stockage/packages/f22/usermode/po/si.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

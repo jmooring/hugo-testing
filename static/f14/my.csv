@@ -1,0 +1,60 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,9741,0,0,1204,0,9741,0.0,none
+audacity,8378,90,1160,1936,23,207,6892,9628,87.01703365184878,Burmese <my@li.org>
+authconfig,0,0,1342,0,0,239,0,1342,0.0,none
+chkconfig,0,0,448,0,0,90,0,448,0.0,none
+firstboot,0,0,654,0,0,54,0,654,0.0,none
+gdk-pixbuf2,1198,55,60,185,8,7,948,1313,91.24143183549124,Burmese <my@li.org>
+gimp,25667,362,27,6605,135,9,20527,26056,98.50706171323303,Burmese <burmait@burmait.net>
+gnome-do,69,0,543,20,0,124,60,612,11.27450980392157,Burmese <my@li.org>
+gtk2,13010,443,251,2670,77,37,9363,13704,94.93578517221249,Burmese <my@li.org>
+gtk3,11346,446,206,2377,79,33,8056,11998,94.56576096016003,Burmese <my@li.org>
+im-chooser,0,0,213,0,0,48,0,213,0.0,none
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+initscripts,0,0,4349,0,0,1070,0,4349,0.0,none
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1098,11343,8105,258,2092,1197,1098,20546,5.34410590869269,none
+mingw32-gdk-pixbuf,1198,55,60,185,8,7,948,1313,91.24143183549124,Burmese <my@li.org>
+mingw32-gtk2,13010,443,251,2670,77,37,9363,13704,94.93578517221249,Burmese <my@li.org>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pidgin,6201,6424,5703,1423,1660,819,6185,18328,33.83347883020515,
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,1318,39,1067,250,5,204,923,2424,54.37293729372937,LANGUAGE <LL@li.org>
+pykickstart,0,0,338,0,0,35,0,338,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhn-client-tools,0,0,4820,0,0,454,0,4820,0.0,LANGUAGE <LL@li.org>
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+sahana,15009,0,14297,2418,0,2577,8293,29306,51.214768306831374,NovaSteps L10N Team <ravi.chhabra@gmail.com>
+setroubleshoot,0,0,563,0,0,168,0,563,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7818,0,0,364,0,7818,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,0,0,305294,0,0,16850,0,305294,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,119,0,0,23,0,119,0.0,none
+system-config-date,0,0,466,0,0,53,0,466,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,0,0,2807,0,0,330,0,2807,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-kickstart,0,0,1104,0,0,245,0,1104,0.0,none
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-lvm,0,0,2142,0,0,336,0,2142,0.0,none
+system-config-netboot,0,0,1103,0,0,165,0,1103,0.0,none
+system-config-network,0,0,3022,0,0,718,0,3022,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3120,0,0,757,0,3120,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,533,0,0,129,0,533,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,404,0,0,57,0,404,0.0,none
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1456,0,0,174,0,1456,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+vidalia,8193,0,2182,875,0,427,6067,10375,78.96867469879518,translations@vidalia-project.net
+yum-rhn-plugin,0,0,107,0,0,14,0,107,0.0,LANGUAGE <LL@li.org>

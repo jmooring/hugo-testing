@@ -1,0 +1,47 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,2922,0,414,617,0,107,2920,3336,87.58992805755396,English (Australia) <en_AU@li.org>
+ailurus,683,0,7823,89,0,1035,688,8506,8.029626146249706,none
+ario,780,0,0,279,0,0,785,780,100.0,English (Australia) <en_AU@li.org>
+avahi,2,0,863,2,0,163,2,865,0.23121387283236997,
+avant-window-navigator,1829,0,0,317,0,0,1829,1829,100.0,English (Australia) <en_AU@li.org>
+avogadro,4120,0,142,1521,0,24,4154,4262,96.66823087752229,English (Australia) <en_AU@li.org>
+bzr-explorer,1509,0,147,420,0,49,1509,1656,91.12318840579711,English (Australia) <en_AU@li.org>
+calibre,0,0,29649,0,0,3306,0,29649,0.0,English (Australia) <en_AU@li.org>
+duplicity,3224,0,32,468,0,6,3224,3256,99.01719901719902,English (Australia) <en_AU@li.org>
+evolution,65,2038,15099,26,677,3577,64,17202,0.37786303918149056,
+evolution-data-server,166,1000,3338,29,175,673,187,4504,3.685612788632327,
+evolution-rspam,0,0,194,0,0,32,0,194,0.0,LANGUAGE <LL@li.org>
+evolution-rss,0,0,589,0,0,160,0,589,0.0,LANGUAGE <LL@li.org>
+fuse-encfs,1294,8,13,133,2,4,1287,1315,98.40304182509506,English (Australia) <en_AU@li.org>
+gdesklets,41,0,1487,6,0,198,41,1528,2.6832460732984296,English (Australia) <en_AU@li.org>
+gnome-activity-journal,0,0,316,0,0,94,0,316,0.0,English (Australia) <en_AU@li.org>
+gnome-applet-timer,258,0,22,67,0,2,258,280,92.14285714285714,English (Australia) <en_AU@li.org>
+gnome-do,473,0,139,119,0,25,475,612,77.2875816993464,English (Australia) <en_AU@li.org>
+gnome-do-plugins,34,0,2289,4,0,578,34,2323,1.4636246233318984,English (Australia) <en_AU@li.org>
+gnomebaker,21,0,1165,8,0,283,21,1186,1.770657672849916,English (Australia) <en_AU@li.org>
+gourmet,107,138,3402,17,43,808,108,3647,2.9339182890046613,English (Australia) <en_AU@li.org>
+gwibber,22,0,23,14,0,10,22,45,48.888888888888886,English (Australia) <en_AU@li.org>
+gxmessage,12,0,233,2,0,33,12,245,4.8979591836734695,LANGUAGE <LL@li.org>
+homebank,193,0,1316,91,0,443,193,1509,12.789927104042413,English (Australia) <en_AU@li.org>
+inkscape,5782,7343,13403,1256,2314,2008,5786,26528,21.79583835946924,English (Australia)
+ntfs-config,29,36,292,5,12,42,31,357,8.123249299719888,English (Australia) <en_AU@li.org>
+onboard,368,0,9,63,0,3,368,377,97.61273209549071,English (Australia) <en_AU@li.org>
+orage,3,9,2349,2,3,794,3,2361,0.12706480304955528,Austrilian English <en_gb@li.org>
+pastebinit,127,0,38,18,0,7,127,165,76.96969696969697,English (Australia) <en_AU@li.org>
+pidgin,6277,6543,5536,1456,1646,801,6277,18356,34.19590324689475,English/AU <trans@six-by-nine.com.au>
+pidgin-guifications,442,32,31,183,4,5,444,505,87.52475247524752,English (Australian) <trans@six-by-nine.com.au>
+pidgin-musictracker,333,0,0,60,0,0,333,333,100.0,English (Australia) <en_AU@li.org>
+pmount,723,0,0,63,0,0,723,723,100.0,English (Australia) <en_AU@li.org>
+purple-plugin_pack,0,15,4993,0,1,746,0,5008,0.0,English/AU <trans@six-by-nine.com.au>
+rapid-photo-downloader,10,0,1246,2,0,253,15,1256,0.7961783439490446,English (Australia) <en_AU@li.org>
+soundconverter,292,109,49,80,15,15,310,450,64.88888888888889,English (Australia) <en_AU@li.org>
+stellarium,3231,0,1245,1201,0,588,3230,4476,72.18498659517427,English (Australia) <en_AU@li.org>
+sweep,2,0,2397,1,0,537,2,2399,0.08336807002917883,English/Australia <LL@li.org>
+terminator,332,0,7,117,0,2,332,339,97.93510324483776,English (Australia) <en_AU@li.org>
+tortoisehg,5359,0,7234,1395,0,1443,5359,12593,42.555387913920434,English (Australia) <en_AU@li.org>
+transmission,1253,0,275,409,0,45,1262,1528,82.00261780104712,English (Australia) <en_AU@li.org>
+tuxpaint,445,523,279,124,60,68,445,1247,35.68564554931836,English (Australia) <en_AU@li.org>
+tuxpaint-stamps,1015,209,1487,250,81,319,1015,2711,37.44005901881224,English (Australia) <en_AU@li.org>
+widelands,0,0,1448,0,0,55,0,1448,0.0,English (Australia) <en_AU@li.org>
+xchat-gnome,3618,185,98,944,22,14,3624,3901,92.74544988464496,English (Australia) <en_AU@li.org>
+zeitgeist,0,0,22,0,0,3,0,22,0.0,English (Australia) <en_AU@li.org>

@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+dialog,12,2,11,12,2,9,14,25,48.0,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+gtkspell,11,0,0,5,0,0,12,11,100.0,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+gtkspell3,10,5,0,5,1,0,10,15,66.66666666666666,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+mingw-gtkspell3,10,5,0,5,1,0,10,15,66.66666666666666,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+wine,38,357,13737,22,177,2996,38,14132,0.268893291819983,none

@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,352,0,4594,163,0,1118,438,4946,7.116862110796602,Tsonga <translate-discuss-ts@lists.sourceforge.net>
+eog,1589,0,0,320,0,0,1886,1589,100.0,ts
+exaile,1,0,4005,1,0,1024,1,4006,0.024962556165751375,Tsonga <ts@li.org>
+kde-i18n,5,0,0,5,0,0,5,5,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+libreoffice,38026,10968,48412,11703,5475,12738,50101,97406,39.038662916042135,LANGUAGE <LL@li.org>
+mintmenu,17,0,365,8,0,122,23,382,4.450261780104712,Tsonga <ts@li.org>

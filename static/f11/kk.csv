@@ -1,0 +1,27 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,38,0,2736,21,0,580,44,2774,1.36986301369863,Kazakh <kk@li.org>
+Terminal,1549,1,3,279,1,1,1342,1553,99.74243399871216,Kazakh <kk_KZ@googlegroups.com>
+alacarte,42,0,0,16,0,0,36,42,100.0,Kazakh <>
+blueman,31,0,1345,28,0,324,41,1376,2.252906976744186,Kazakh <kk@li.org>
+deluge,1998,0,0,689,0,0,1895,1998,100.0,Kazakh <kk_KZ@googlegroups.com>
+exaile,2,0,2174,1,0,586,2,2176,0.09191176470588235,Kazakh <kk@li.org>
+exo,80,0,1518,18,0,283,67,1598,5.006257822277847,Kazakh <kk_KZ@googlegroups.com>
+gnome-backgrounds,23,0,0,17,0,0,23,23,100.0,Kazakh <moldabekov@gmail.com>
+gnome-desktop,285,0,0,71,0,0,244,285,100.0,Kazakh <moldabekov@gmail.com>
+gnome-icon-theme,20,0,0,16,0,0,23,20,100.0,Kazakh <moldabekov@gmail.com>
+gnome-menus,157,0,0,56,0,0,144,157,100.0,Kazakh <gnome-cyr@gnome.org>
+gparted,1434,0,0,306,0,0,1308,1434,100.0,Kazakh <kk_KZ@googlegroups.com>
+iso-codes,1079,0,0,448,0,0,856,1079,100.0,Kazakh <kk_KZ@googlegroups.com
+jokosher,3,0,2060,1,0,411,2,2063,0.1454192922927775,Kazakh <kk@li.org>
+kmid,523,6,6,205,4,5,488,535,97.75700934579439,Kazakh
+konq-plugins,1205,246,147,401,45,70,1071,1598,75.40675844806007,Kazakh
+kpilot,4560,999,1597,487,190,184,3304,7156,63.72275013974288,Kazakh
+ksig,71,2,12,17,1,8,57,85,83.52941176470588,Kazakh
+lxmenu-data,97,0,0,37,0,0,83,97,100.0,Kazakh <gnome-cyr@gnome.org>
+pam,599,0,0,120,0,0,572,599,100.0,Kazakh <kk_KZ@googlegroups.com>
+poedit,1164,0,0,270,0,0,998,1164,100.0,Kazakh <kk_KZ@googlegroups.com>
+shadow-utils,1611,1246,411,255,86,37,1625,3268,49.296205630354955,Kazakh <kk_KZ@googlegroups.com>
+swfdec-gnome,85,16,0,27,1,0,81,101,84.15841584158416,Kazakh
+transmission,1168,0,474,364,0,85,1041,1642,71.13276492082827,Kazakh <kk_KZ@googlegroups.com>
+xfburn,1168,19,109,255,6,20,942,1296,90.12345679012346,Kazakh <kk_KZ@googlegroups.com>
+xfce4-panel,537,3,0,166,1,0,499,540,99.44444444444444,Kazakh <kk_KZ@googlegroups.com>

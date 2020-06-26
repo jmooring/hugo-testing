@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,72,143,98433,55,120,31423,74,98648,0.07298678128294542,LANGUAGE <LL@li.org>
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,30,10,119,30,5,76,30,159,18.867924528301888,LANGUAGE <LL@li.org>

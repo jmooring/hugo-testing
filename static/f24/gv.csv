@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+epiphany,2764,198,82,666,44,21,3387,3044,90.80157687253615,Manx <reuben03@live.com>
+gdm,206,91,353,41,16,30,246,650,31.692307692307693,Manx <gv@li.org>
+gnome-menus,84,0,41,36,0,10,92,125,67.2,Manx <gv@li.org>
+gobby,529,0,371,145,0,45,668,900,58.77777777777777,Manx <gv@li.org>
+isomaster,9,0,665,8,0,99,14,674,1.3353115727002967,http://littlesvr.ca/ostd/
+librfm,168,517,1712,91,221,286,213,2397,7.008760951188986,Manx <reuben03@live.com>
+mintmenu,1570,0,2527,537,0,354,2078,4097,38.32072247986332,Manx <gv@li.org>
+nautilus,7500,863,521,1269,138,36,9107,8884,84.42143178748312,Manx <gv@li.org>
+rodent,145,555,8934,80,239,493,175,9634,1.5050861532073905,Manx <reuben03@live.com>
+stellarium,12,0,23520,8,0,5799,14,23532,0.05099439061703213,Manx <gv@li.org>
+totem,2169,0,416,530,0,57,2630,2585,83.90715667311413,Manx <gv@li.org>
+transmission,27,0,1782,19,0,475,45,1809,1.4925373134328357,Manx <gv@li.org>
+xplayer,1049,0,937,320,0,180,1278,1986,52.81973816717019,Manx <gv@li.org>

@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,3768,3387,1722,609,349,154,4457,8877,42.44677255829672,Joseph Maza <joemaza@comcast.net>
+firstboot,132,107,415,13,6,35,155,654,20.18348623853211,
+redhat-menus,106,6,149,43,4,39,164,261,40.61302681992337,
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,7,551,304736,2,99,16749,9,305294,0.0022928717891606124,
+switchdesk,30,0,107,14,0,5,39,137,21.897810218978105,
+system-config-date,0,0,1304,0,0,752,0,1304,0.0,
+system-config-date-docs,0,0,728,0,0,53,0,728,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>

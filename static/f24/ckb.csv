@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appstream,103,7,605,69,3,101,102,715,14.405594405594405,Kurdish Sorani <https://hosted.weblate.org/projects/appstream/translations/ckb/>
+feedreader,0,0,0,0,0,0,0,0,0.0,
+lightdm,0,0,79,0,0,17,0,79,0.0,Kurdish (Sorani) <ckb@li.org>
+midori,289,0,3252,107,0,689,262,3541,8.161536289183847,Kurdish (Sorani) <ckb@li.org>
+mintmenu,20,0,1174,6,0,264,28,1194,1.675041876046901,Kurdish (Sorani) <ckb@li.org>
+php-phpmyadmin-sql-parser,0,50,172,0,11,32,0,222,0.0,Kurdish Sorani <https://hosted.weblate.org/projects/phpmyadmin/master/ckb/>
+stellarium,71,0,23461,64,0,5743,74,23532,0.3017168111507734,Kurdish (Sorani) <ckb@li.org>
+terminator,3,0,1407,3,0,414,3,1410,0.2127659574468085,Kurdish (Sorani) <ckb@li.org>
+transmission,251,0,1558,103,0,391,256,1809,13.875069098949696,Kurdish (Sorani) <ckb@li.org>

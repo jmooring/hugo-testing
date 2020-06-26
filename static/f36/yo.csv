@@ -1,0 +1,127 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,53,0,4338,39,0,698,69,4391,1.2070143475290367,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,3002,0,6673,641,0,963,3606,9675,31.02842377260982,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+caja-actions,19,0,7063,15,0,724,25,7082,0.2682857949731714,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+caja-extensions,2,0,758,2,0,143,3,760,0.2631578947368421,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,amo@wazobiasoft.org
+cinnamon-translations,8,0,313,2,0,66,7,321,2.4922118380062304,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,0,0,1608,0,0,307,0,1608,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,219,0,0,48,0,219,0.0,
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,4011,0,0,818,0,4011,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+engrampa,51,0,1998,30,0,398,67,2049,2.4890190336749636,Yoruba (https://app.transifex.com/mate/teams/13566/yo/)
+entangle,0,0,953,0,0,229,0,953,0.0,Yoruba
+eom,32,0,1747,29,0,312,41,1779,1.7987633501967397,Yoruba (https://app.transifex.com/mate/teams/13566/yo/)
+epiphany,1553,276,533,479,95,87,1795,2362,65.7493649449619,Yoruba
+gala,0,0,358,0,0,73,0,358,0.0,none
+gnome-desktop3,328,8,28,90,2,1,357,364,90.10989010989012,amo@wazobiasoft.org
+gnome-menus,116,15,26,42,5,9,152,157,73.88535031847134,Yoruba
+gnome-panel,2057,936,527,283,129,96,2356,3520,58.4375,Yoruba
+gnome-session,117,86,519,20,28,65,148,722,16.20498614958449,
+gnome-shell-frippery,16,0,0,4,0,0,18,16,100.0,
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Yoruba
+iso-codes,324,14,648,219,5,198,338,986,32.86004056795132,Yoruba <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/yo/>
+isomaster,9,0,665,8,0,99,12,674,1.3353115727002967,http://littlesvr.ca/ostd/
+libmatekbd,5,0,303,5,0,86,5,308,1.6233766233766231,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+libmateweather,3,0,497,3,0,181,3,500,0.6,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Yoruba
+marco,1912,0,2391,270,0,160,2240,4303,44.43411573320939,Yoruba (https://app.transifex.com/mate/teams/13566/yo/)
+mate-applets,53,5,15899,53,3,1590,73,15957,0.3321426333270665,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-calc,12,0,3190,12,0,710,19,3202,0.3747657713928795,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-control-center,48,0,8205,45,0,1465,57,8253,0.5816066884769174,Yoruba (https://app.transifex.com/mate/teams/13566/yo/)
+mate-desktop,57,0,2319,16,0,285,70,2376,2.398989898989899,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-media,5,0,234,5,0,94,6,239,2.092050209205021,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-menu,15,0,293,13,0,97,21,308,4.870129870129871,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+mate-menus,59,0,44,24,0,15,79,103,57.28155339805825,Yoruba (https://app.transifex.com/mate/teams/13566/yo/)
+mate-notification-daemon,6,0,180,5,0,48,8,186,3.225806451612903,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-panel,2666,0,4054,337,0,477,2999,6720,39.672619047619044,Yoruba (https://app.transifex.com/mate/teams/13566/yo/)
+mate-power-manager,17,0,5102,16,0,535,21,5119,0.3320961125219769,Yoruba (https://app.transifex.com/mate/teams/13566/yo/)
+mate-sensors-applet,3,2,2155,3,2,221,5,2160,0.1388888888888889,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-session-manager,64,0,651,25,0,107,86,715,8.951048951048952,Yoruba (https://app.transifex.com/mate/teams/13566/yo/)
+mate-system-monitor,15,0,1497,14,0,305,19,1512,0.992063492063492,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-terminal,36,0,8487,28,0,780,44,8523,0.42238648363252373,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Yoruba (http://www.transifex.com/mate/MATE/language/yo/)
+mate-user-admin,3,0,602,3,0,123,3,605,0.49586776859504134,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+mate-utils,130,0,9930,73,0,1053,154,10060,1.2922465208747516,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+metacity,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+mozo,10,0,36,8,0,16,12,46,21.73913043478261,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+muffin,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+mutter,2294,825,689,316,58,37,2715,3808,60.24159663865546,Yoruba
+nautilus,1434,2994,1686,295,513,222,1797,6114,23.454367026496563,Yoruba
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pam,0,20,515,0,3,97,0,535,0.0,Yoruba
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+pluma,57,0,5650,39,0,1410,72,5707,0.9987734361310671,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+pluma-plugins,2,0,772,2,0,62,4,774,0.2583979328165375,Yoruba (https://www.transifex.com/mate/teams/13566/yo/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Yoruba
+python-meh,0,0,109,0,0,23,0,109,0.0,Yoruba
+sugar,2305,0,0,529,0,0,2687,2305,100.0,Yoruba
+sugar-abacus,28,0,0,23,0,0,36,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,170,47,117,51,2,18,205,334,50.898203592814376,LANGUAGE <LL@li.org>
+sugar-calculator,774,0,92,156,0,13,840,866,89.37644341801386,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,152,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,596,66,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,286,258,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,74,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,4,20,0,2,98,69,94.20289855072464,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,111,98,100.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,115,106,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,99,0,183,27,0,41,122,282,35.1063829787234,LANGUAGE <LL@li.org>
+sugar-portfolio,60,0,13,21,0,4,68,73,82.1917808219178,LANGUAGE <LL@li.org>
+sugar-read,112,0,25,41,0,9,129,137,81.75182481751825,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,70,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,294,227,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,134,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,159,0,54,110,0,13,244,213,74.64788732394366,LANGUAGE <LL@li.org>
+sugar-turtleart,1648,0,0,498,0,0,1915,1648,100.0,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,599,0,0,127,0,0,660,599,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,130,121,100.0,LANGUAGE <LL@li.org>
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none

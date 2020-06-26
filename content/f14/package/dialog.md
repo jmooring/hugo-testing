@@ -1,0 +1,88 @@
+---
+title: "dialog - translation progress for f14"
+package: dialog
+date: 2026-01-17T09:07:47+00:00
+started_languages: 50
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 50
+release: f14
+---
+The package dialog (version 1.1):
+
+* represents 25 source words to be translated
+* is translated into 50 languages in Fedora f14
+
+
+* contains 50 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [be_Latn]({{< ref "/f14/language/be_Latn.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/be@latin.po | 
+ | [ca]({{< ref "/f14/language/ca.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/ca.po | 
+ | [da]({{< ref "/f14/language/da.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/da.po | 
+ | [de]({{< ref "/f14/language/de.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/de.po | 
+ | [eo]({{< ref "/f14/language/eo.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/eo.po | 
+ | [es]({{< ref "/f14/language/es.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/es.po | 
+ | [eu]({{< ref "/f14/language/eu.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/eu.po | 
+ | [fr]({{< ref "/f14/language/fr.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/fr.po | 
+ | [ga]({{< ref "/f14/language/ga.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/ga.po | 
+ | [gl]({{< ref "/f14/language/gl.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/gl.po | 
+ | [hi]({{< ref "/f14/language/hi.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/hi.po | 
+ | [id]({{< ref "/f14/language/id.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/id.po | 
+ | [is]({{< ref "/f14/language/is.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/is.po | 
+ | [it]({{< ref "/f14/language/it.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/it.po | 
+ | [ja]({{< ref "/f14/language/ja.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/ja.po | 
+ | [ku]({{< ref "/f14/language/ku.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/ku.po | 
+ | [lt]({{< ref "/f14/language/lt.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/lt.po | 
+ | [lv]({{< ref "/f14/language/lv.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/lv.po | 
+ | [ms]({{< ref "/f14/language/ms.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/ms.po | 
+ | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/nb.po | 
+ | [nl]({{< ref "/f14/language/nl.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/nl.po | 
+ | [pl]({{< ref "/f14/language/pl.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/pl.po | 
+ | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/pt_BR.po | 
+ | [ru]({{< ref "/f14/language/ru.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/ru.po | 
+ | [sv]({{< ref "/f14/language/sv.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/sv.po | 
+ | [sw]({{< ref "/f14/language/sw.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/sw.po | 
+ | [th]({{< ref "/f14/language/th.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/th.po | 
+ | [vi]({{< ref "/f14/language/vi.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/vi.po | 
+ | [wa]({{< ref "/f14/language/wa.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/wa.po | 
+ | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f14/dialog/po/zh_TW.po | 
+ | [fi]({{< ref "/f14/language/fi.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f14/dialog/po/fi.po | 
+ | [hu]({{< ref "/f14/language/hu.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f14/dialog/po/hu.po | 
+ | [ro]({{< ref "/f14/language/ro.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f14/dialog/po/ro.po | 
+ | [sr]({{< ref "/f14/language/sr.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f14/dialog/po/sr.po | 
+ | [tr]({{< ref "/f14/language/tr.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f14/dialog/po/tr.po | 
+ | [cy]({{< ref "/f14/language/cy.md" >}}) | 12 | 25 | 48.0 | /mnt/stockage/packages/f14/dialog/po/cy.po | 
+ | [rm]({{< ref "/f14/language/rm.md" >}}) | 12 | 25 | 48.0 | /mnt/stockage/packages/f14/dialog/po/rm.po | 
+ | [uk]({{< ref "/f14/language/uk.md" >}}) | 12 | 25 | 48.0 | /mnt/stockage/packages/f14/dialog/po/uk.po | 
+ | [rw]({{< ref "/f14/language/rw.md" >}}) | 11 | 25 | 44.0 | /mnt/stockage/packages/f14/dialog/po/rw.po | 
+ | [el]({{< ref "/f14/language/el.md" >}}) | 10 | 25 | 40.0 | /mnt/stockage/packages/f14/dialog/po/el.po | 
+ | [pt]({{< ref "/f14/language/pt.md" >}}) | 10 | 25 | 40.0 | /mnt/stockage/packages/f14/dialog/po/pt.po | 
+ | [cs]({{< ref "/f14/language/cs.md" >}}) | 9 | 25 | 36.0 | /mnt/stockage/packages/f14/dialog/po/cs.po | 
+ | [et]({{< ref "/f14/language/et.md" >}}) | 9 | 25 | 36.0 | /mnt/stockage/packages/f14/dialog/po/et.po | 
+ | [sq]({{< ref "/f14/language/sq.md" >}}) | 5 | 25 | 20.0 | /mnt/stockage/packages/f14/dialog/po/sq.po | 
+ | [ar]({{< ref "/f14/language/ar.md" >}}) | 4 | 25 | 16.0 | /mnt/stockage/packages/f14/dialog/po/ar.po | 
+ | [hr]({{< ref "/f14/language/hr.md" >}}) | 4 | 25 | 16.0 | /mnt/stockage/packages/f14/dialog/po/hr.po | 
+ | [mg]({{< ref "/f14/language/mg.md" >}}) | 4 | 25 | 16.0 | /mnt/stockage/packages/f14/dialog/po/mg.po | 
+ | [mk]({{< ref "/f14/language/mk.md" >}}) | 4 | 25 | 16.0 | /mnt/stockage/packages/f14/dialog/po/mk.po | 
+ | [bg]({{< ref "/f14/language/bg.md" >}}) | 3 | 25 | 12.0 | /mnt/stockage/packages/f14/dialog/po/bg.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

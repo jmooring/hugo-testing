@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calamares,0,0,490,0,0,85,0,490,0.0,French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/)
+enlightenment,1549,4422,3082,596,1213,575,1951,9053,17.1103501601679,Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net>

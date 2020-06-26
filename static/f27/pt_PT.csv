@@ -1,0 +1,79 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,212,0,0,44,0,0,255,212,100.0,Portuguese (Portugal) (http://www.transifex.com/wildfire-games/0ad/language/pt_PT/)
+apt,3701,396,6,447,27,2,3999,4103,90.20229100658055,European Portuguese <geral@caixamagica.pt>
+ardour2,3941,0,456,1153,0,154,4403,4397,89.62929269956788,Portuguese
+ardour4,950,0,11573,406,0,2578,1086,12523,7.586041683302723,Portuguese
+arduino,2973,0,120,574,0,16,3440,3093,96.12027158098934,Portuguese (Portugal) (http://www.transifex.com/mbanzi/arduino-ide-15/language/pt_PT/)
+audacious,760,0,0,326,0,0,896,760,100.0,Portuguese (Portugal) (http://www.transifex.com/audacious/audacious/language/pt_PT/)
+audacious-plugins,3934,0,0,888,0,0,4256,3934,100.0,Portuguese (Portugal) (http://www.transifex.com/audacious/audacious/language/pt_PT/)
+audacity,16584,0,0,3774,0,0,18702,16584,100.0,Bruno Ramalhete <bram.512@gmail.com>
+blivet-gui,0,0,703,0,0,184,0,703,0.0,Portuguese (Portugal)
+boinc-client,20272,0,0,3389,0,0,22669,20272,100.0,Portuguese (Portugal) (http://www.transifex.com/boinc/boinc/language/pt_PT/)
+boswars,196,10,10,60,4,9,230,216,90.74074074074075,
+bygfoot,3623,48,49,755,11,8,3706,3720,97.39247311827957,Portuguese <LL@li.org>
+cairo-clock,270,0,0,60,0,0,325,270,100.0,Alfredo Matos <alfredo.matos@digitalself.org>
+calamares,55,0,0,13,0,0,61,55,100.0,Portuguese (Portugal) (https://www.transifex.com/calamares/teams/20061/pt_PT/)
+chemtool,1164,0,20,249,0,12,1491,1184,98.3108108108108,European Portuguese
+childsplay,1226,0,0,212,0,0,1222,1226,100.0,<pt@li.org>
+cinnamon-translations,5803,0,531,1485,0,110,6820,6334,91.6166719292706,Portuguese <pt@li.org>
+colorhug-client,0,0,1408,0,0,294,0,1408,0.0,Portuguese (Portugal) (http://www.transifex.com/projects/p/colorhug-client/language/pt_PT/)
+corebird,425,0,161,169,0,42,457,586,72.52559726962457,Portuguese (Portugal) (http://www.transifex.com/corebird/corebird/language/pt_PT/)
+cura,16529,0,0,1964,0,0,18594,16529,100.0,"Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl>"
+cura-lulzbot,15656,0,0,1862,0,0,17580,15656,100.0,Bothof
+filezilla,9961,224,3,1727,29,2,11821,10188,97.77188849627012,enVide neFelibata <info@envidenefelibata.com>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Portuguese (Portugal)
+fuse-encfs,730,16,543,97,2,38,867,1289,56.63304887509697,Portuguese (Portugal) <pt_PT@li.org>
+fwbackups,308,0,3190,91,0,426,361,3498,8.80503144654088,Portuguese (Portugal) (http://www.transifex.com/Magic/fwbackups/language/pt_PT/)
+glpi,11274,0,10,2956,0,2,12398,11284,99.911378943637,Portuguese (Portugal) (http://www.transifex.com/glpi/GLPI/language/pt_PT/)
+gnomebaker,1113,21,52,276,5,10,1219,1186,93.84485666104553,portuguese <pt@li.org>
+godot,7028,2,0,1891,1,0,7745,7030,99.97155049786629,Portuguese (Portugal) <https://hosted.weblate.org/projects/godot-engine/godot/pt_PT/>
+guayadeque,3326,0,0,1019,0,0,3442,3326,100.0,Portuguese (Portugal) (http://www.transifex.com/projects/p/guayadeque/language/pt_PT/)
+homebank,1081,0,1338,450,0,317,1158,2419,44.68788755684167,Portuguese (Portugal) <pt_PT@li.org>
+inkscape,36817,944,453,8013,100,32,42341,38214,96.34427173287277,
+labyrinth,84,62,80,29,13,31,92,226,37.16814159292036,European Portuguese <pt-PT@li.org>
+lollypop,663,8,341,215,2,89,790,1012,65.51383399209486,Portuguese (Portugal) (http://www.transifex.com/gnumdk/lollypop/language/pt_PT/)
+lyx,19290,2930,3105,6122,751,355,21024,25325,76.16979269496545,Portuguese
+mate-applet-softupd,40,0,0,12,0,0,42,40,100.0,Brazilian Portuguese
+menulibre,277,0,572,104,0,60,294,849,32.6266195524146,Portuguese (Portugal) <pt_PT@li.org>
+midori,3541,0,0,796,0,0,3910,3541,100.0,Portuguese
+mingw-colord,311,0,1574,92,0,111,359,1885,16.49867374005305,Portuguese (Portugal) (http://www.transifex.com/projects/p/colord/language/pt_PT/)
+mingw-colorhug-client,0,0,1409,0,0,294,0,1409,0.0,Portuguese (Portugal) (http://www.transifex.com/projects/p/colorhug-client/language/pt_PT/)
+mintmenu,13,0,246,3,0,63,16,259,5.019305019305019,Portuguese (Portugal) <pt_PT@li.org>
+moserial,540,0,0,119,0,0,575,540,100.0,Portuguese <gnome_pt@yahoogroups.com>
+nfoview,116,0,0,43,0,0,130,116,100.0,Portuguese (Portugal) (http://www.transifex.com/otsaloma/nfoview/language/pt_PT/)
+openerp,0,0,35,0,0,8,0,35,0.0,
+pgadmin3,9634,6278,986,2689,1547,166,11072,16898,57.01266422061783,PgAdmin Developers <pgadmin-hackers@postgresql.org>
+pinball,340,0,0,128,0,0,365,340,100.0,PortugueseLanguage: pt_PT
+poedit,2639,0,0,591,0,0,2840,2639,100.0,Portuguese
+publican,1066,66,4311,78,2,536,1215,5443,19.58478780084512,trans-pt@fedoraproject.org
+publican-fedora,7,0,100,2,0,6,8,107,6.5420560747663545,pt <fedora-trans-pt@redhat.com>
+pulsecaster,98,2,47,13,1,6,109,147,66.66666666666666,pt_PT <LL@li.org>
+python-django-countries,331,0,108,226,0,38,333,439,75.39863325740319,Portuguese (Portugal) (http://www.transifex.com/smileychris/django-countries/language/pt_PT/)
+python-django-helpdesk,0,0,3241,0,0,510,0,3241,0.0,Portuguese (Portugal) (http://www.transifex.com/rossp/django-helpdesk/language/pt_PT/)
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,Portuguese (Portugal) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/pt_PT/)
+python-flask-admin,331,0,30,102,0,7,354,361,91.68975069252078,Portuguese
+python-formencode,591,70,152,84,8,23,615,813,72.69372693726937,Pedro Algarvio <ufs@ufsoft.org>
+python-sphinx,447,0,752,167,0,102,501,1199,37.28106755629692,Portuguese (Portugal) (http://www.transifex.com/sphinx-doc/sphinx-1/language/pt_PT/)
+python-uranium,604,0,0,153,0,0,668,604,100.0,"Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl>"
+python-uranium-lulzbot,589,0,0,151,0,0,653,589,100.0,Bothof
+rt,3106,0,8302,739,0,1839,3425,11408,27.226507713884995,Portuguese (Portugal) <pt_PT@li.org>
+scummvm,667,18,3961,180,4,776,737,4646,14.356435643564355,Portuguese (Portugal) <https://translations.scummvm.org/projects/scummvm/scummvm/pt_PT/>
+siril,2553,0,5738,498,0,711,2766,8291,30.79242552164998,
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Portuguese (Portugal) (http://www.transifex.com/heldercorreia/speedcrunch/language/pt_PT/)
+squirrelmail,6116,0,0,1181,0,0,6542,6116,100.0,Portugues Iberico <squirrelmail-i18n@lists.sourceforge.net>
+subdownloader,968,0,0,272,0,0,1026,968,100.0,SubDownloader <capiscuas@gmail.com>
+subtitleeditor,304,644,869,150,222,174,324,1817,16.730875068794717,
+synaptic,2304,536,391,551,71,40,2543,3231,71.3091922005571,<pt@li.org>
+terminator,700,0,710,231,0,186,777,1410,49.645390070921984,Portuguese <pt@li.org>
+tilix,1642,255,84,484,79,22,1836,1981,82.8874305906108,Portuguese (Portugal) <https://hosted.weblate.org/projects/tilix/translations/pt_PT/>
+turpial,858,0,0,227,0,0,920,858,100.0,Portuguese (Portugal) (http://www.transifex.com/projects/p/turpial-1/language/pt_PT/)
+umit,1642,233,2718,337,109,431,1686,4593,35.75005443065534,pt_PT <LL@li.org>
+valyriatear,274,132,8757,189,71,1164,300,9163,2.990287023900469,Sérgio Lopes <knitter.is@gmail.com>
+vdr-live,1,0,913,1,0,310,1,914,0.10940919037199125,see developers in README
+vdr-skinenigmang,1,0,333,1,0,133,1,334,0.29940119760479045,<vdr@linuxtv.org>
+warzone2100,13197,66,36,2827,17,8,15018,13299,99.23302503947666,Portugese <warzone2100-project@lists.sourceforge.net>
+wine,14789,308,660,3363,25,104,16604,15757,93.85669861014152,Portuguese (Portugal)
+xarchiver,1131,0,0,277,0,0,1226,1131,100.0,
+xchm,197,17,20,81,7,8,211,234,84.1880341880342,Portuguese Team
+xfe,296,2212,3446,153,675,250,340,5954,4.971447766207591,European Portuguese
+zabbix,7669,253,7886,2073,26,1170,9576,15808,48.513410931174086,none

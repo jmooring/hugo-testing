@@ -1,0 +1,49 @@
+---
+title: "weechat - translation progress for f20"
+package: weechat
+date: 2026-01-17T11:28:01+00:00
+started_languages: 11
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 11
+release: f20
+---
+The package weechat (version 1.2):
+
+* represents 24661 source words to be translated
+* is translated into 11 languages in Fedora f20
+
+
+* contains 11 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [de]({{< ref "/f20/language/de.md" >}}) | 24661 | 24661 | 100.0 | /mnt/stockage/packages/f20/weechat/po/de.po | 
+ | [fr]({{< ref "/f20/language/fr.md" >}}) | 24661 | 24661 | 100.0 | /mnt/stockage/packages/f20/weechat/po/fr.po | 
+ | [pl]({{< ref "/f20/language/pl.md" >}}) | 24661 | 24661 | 100.0 | /mnt/stockage/packages/f20/weechat/po/pl.po | 
+ | [ja]({{< ref "/f20/language/ja.md" >}}) | 24627 | 24661 | 99.9 | /mnt/stockage/packages/f20/weechat/po/ja.po | 
+ | [it]({{< ref "/f20/language/it.md" >}}) | 11798 | 24661 | 47.8 | /mnt/stockage/packages/f20/weechat/po/it.po | 
+ | [es]({{< ref "/f20/language/es.md" >}}) | 10440 | 24661 | 42.3 | /mnt/stockage/packages/f20/weechat/po/es.po | 
+ | [cs]({{< ref "/f20/language/cs.md" >}}) | 7898 | 24661 | 32.0 | /mnt/stockage/packages/f20/weechat/po/cs.po | 
+ | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 7083 | 24661 | 28.7 | /mnt/stockage/packages/f20/weechat/po/pt_BR.po | 
+ | [tr]({{< ref "/f20/language/tr.md" >}}) | 772 | 24661 | 3.1 | /mnt/stockage/packages/f20/weechat/po/tr.po | 
+ | [ru]({{< ref "/f20/language/ru.md" >}}) | 752 | 24661 | 3.0 | /mnt/stockage/packages/f20/weechat/po/ru.po | 
+ | [hu]({{< ref "/f20/language/hu.md" >}}) | 572 | 24661 | 2.3 | /mnt/stockage/packages/f20/weechat/po/hu.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

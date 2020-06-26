@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+boost,1,0,0,1,0,0,1,1,100.0,
+clementine,0,0,5091,0,0,1352,0,5091,0.0,Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/)
+darktable,10078,0,0,2287,0,0,9444,10078,100.0,
+glpi,4604,0,6666,1493,0,1459,4214,11270,40.85181898846495,Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/)
+kate,153,0,353,56,0,120,150,506,30.237154150197625,Hebrew <kde-i18n-doc@kde.org>
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+poedit,2639,0,0,591,0,0,2425,2639,100.0,Hebrew
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+python-django-helpdesk,0,0,3241,0,0,510,0,3241,0.0,Hebrew (Israel) (http://www.transifex.com/rossp/django-helpdesk/language/he_IL/)
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/)
+python-flask-admin,321,0,40,98,0,11,304,361,88.9196675900277,Hebrew
+smb4k,18,0,0,13,0,0,19,18,100.0,Hebrew <kde-i18n-doc@kde.org>
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>
+wxPython,360,4,2093,133,4,600,360,2457,14.652014652014653,Hebrew <he@li.org>

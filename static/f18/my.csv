@@ -1,0 +1,82 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+audacity,7340,298,3005,1814,43,453,6098,10643,68.96551724137932,Burmese <my@li.org>
+authconfig,0,0,1638,0,0,285,0,1638,0.0,LANGUAGE <LL@li.org>
+brasero,4765,18,769,935,4,54,1866,5552,85.8249279538905,Burmese <my-l10n-team@googlegroups.com>
+bzr,0,0,33099,0,0,2340,0,33099,0.0,Burmese <my@li.org>
+calibre,332,0,44006,63,0,4578,164,44338,0.7487933600974334,Burmese <my@li.org>
+chkconfig,0,0,487,0,0,93,0,487,0.0,LANGUAGE <LL@li.org>
+control-center,1049,0,2315,368,0,422,605,3364,31.183115338882285,Burmese <my-l10n-team@googlegroups.com>
+deja-dup,30,0,3805,6,0,441,14,3835,0.7822685788787485,Burmese <my@li.org>
+empathy,3599,9,15,793,3,7,2284,3623,99.33756555340878,Burmese <LL@li.org>
+eog,225,0,1400,126,0,190,222,1625,13.846153846153847,Burmese <my-l10n-team@googlegroups.com>
+evince,1084,31,378,324,6,41,723,1493,72.60549229738781,Burmese <my-l10n-team@googlegroups.com>
+file-roller,1035,0,348,267,0,38,440,1383,74.83731019522777,Burmese <my-l10n-team@googlegroups.com>
+firstboot,0,0,571,0,0,50,0,571,0.0,LANGUAGE <LL@li.org>
+gcalctool,352,0,789,160,0,99,241,1141,30.850131463628394,Burmese <LL@li.org>
+gdk-pixbuf2,1169,112,73,181,14,7,921,1354,86.33677991137371,Burmese <my@li.org>
+gedit,1513,0,3491,475,0,633,1137,5004,30.235811350919267,Burmese <LL@li.org>
+gimp,25735,1459,293,6741,319,45,20615,27487,93.62607778222433,Burmese <burmait@burmait.net>
+gnome-do,612,0,0,144,0,0,287,612,100.0,Burmese <my@li.org>
+gnome-panel,184,0,4290,96,0,510,145,4474,4.112650871703174,Burmese <my-l10n-team@googlegroups.com>
+gnome-power-manager,56,0,2796,27,0,414,41,2852,1.9635343618513323,Burmese <my-l10n-team@googlegroups.com>
+gnome-screensaver,113,0,876,42,0,115,74,989,11.425682507583417,Burmese <my-l10n-team@googlegroups.com>
+gnome-tweak-tool,111,0,0,41,0,0,108,111,100.0,MM L10N Team <mm.l10n.team@gmail.com>
+gtk2,13010,443,251,2670,77,37,9363,13704,94.93578517221249,Burmese <my@li.org>
+gtk3,10766,767,320,2291,144,52,7671,11853,90.82932590905256,Burmese <my@li.org>
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,441,0,0,80,0,441,0.0,LANGUAGE <LL@li.org>
+initscripts,0,0,4342,0,0,1069,0,4342,0.0,<XX@li.org>
+kexec-tools,0,0,148,0,0,17,0,148,0.0,LANGUAGE <LL@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,LANGUAGE <LL@li.org>
+libreoffice,78580,3918,9273,25066,1223,1787,51666,91771,85.62617820444368,LANGUAGE <LL@li.org>
+libvirt,945,22037,15055,222,3900,2093,945,38037,2.4844230617556593,none
+lightdm,0,0,79,0,0,17,0,79,0.0,Burmese <my@li.org>
+mate-calc,278,0,1134,130,0,311,183,1412,19.688385269121813,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,1169,112,73,181,14,7,921,1354,86.33677991137371,Burmese <my@li.org>
+mingw-gtk2,13010,443,251,2670,77,37,9363,13704,94.93578517221249,Burmese <my@li.org>
+mingw-gtk3,10766,767,320,2291,144,52,7671,11853,90.82932590905256,Burmese <my@li.org>
+mingw-libvirt,945,21904,14991,222,3879,2093,945,37840,2.4973572938689217,none
+nautilus,797,0,8094,288,0,1161,572,8891,8.964121021257451,Burmese <my-l10n-team@googlegroups.com>
+nemo,797,0,8094,288,0,1161,572,8891,8.964121021257451,Burmese <my-l10n-team@googlegroups.com>
+passwd,0,0,315,0,0,55,0,315,0.0,LANGUAGE <LL@li.org>
+pidgin,18295,0,177,3900,0,26,14105,18472,99.04179298397575,Burmese (Myanmar) (http://www.transifex.com/projects/p/pidgin/language/my_MM/)
+pogo,340,0,236,84,0,17,197,576,59.02777777777778,Burmese <my@li.org>
+policycoreutils,0,0,4303,0,0,730,0,4303,0.0,LANGUAGE <LL@li.org>
+pootle,1318,39,1067,250,5,204,923,2424,54.37293729372937,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhn-client-tools,0,0,4348,0,0,433,0,4348,0.0,LANGUAGE <LL@li.org>
+rhnsd,0,0,37,0,0,9,0,37,0.0,LANGUAGE <LL@li.org>
+sahana,15009,0,14297,2418,0,2577,8293,29306,51.214768306831374,NovaSteps L10N Team <ravi.chhabra@gmail.com>
+setroubleshoot,0,0,631,0,0,174,0,631,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,9483,0,0,459,0,9483,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+sos,0,0,267,0,0,36,0,267,0.0,none
+steadyflow,66,0,404,27,0,66,68,470,14.042553191489363,Burmese <my@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,119,0,0,23,0,119,0.0,none
+system-config-date,0,0,503,0,0,56,0,503,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,0,0,2814,0,0,331,0,2814,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-lvm,0,0,2142,0,0,336,0,2142,0.0,none
+system-config-network,0,0,3032,0,0,721,0,3032,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3064,0,0,744,0,3064,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,571,0,0,134,0,571,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,518,0,0,71,0,518,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+totem,434,80,2053,189,29,365,361,2567,16.90689520841449,Burmese <my-l10n-team@googlegroups.com>
+transmission,1,0,1808,1,0,493,6,1809,0.055279159756771695,Burmese <my@li.org>
+vidalia,10313,0,150,1291,0,12,7584,10463,98.56637675618848,translations@vidalia-project.net
+widelands,53,0,404,12,0,38,45,457,11.597374179431071,Burmese <my@li.org>
+yum-rhn-plugin,0,0,119,0,0,15,0,119,0.0,LANGUAGE <LL@li.org>

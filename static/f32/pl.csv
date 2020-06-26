@@ -1,0 +1,1589 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,212,0,0,44,0,0,207,212,100.0,Polish (http://www.transifex.com/wildfire-games/0ad/language/pl/)
+4Pane,628,0,11947,194,0,1682,591,12575,4.994035785288271,Polish (http://www.transifex.com/davidgh/4Pane/language/pl/)
+7kaa,20603,14,6,1623,7,3,16110,20623,99.90302089899626,
+GConf2,4074,0,0,496,0,0,4023,4074,100.0,Polish <gnomepl@aviary.pl>
+LabPlot,10528,10,0,2867,4,0,10273,10538,99.90510533308029,Polish <kde-i18n-doc@kde.org>
+ModemManager,147,0,0,19,0,0,140,147,100.0,Polish <community-poland@mozilla.org>
+NetworkManager,12646,0,0,1773,0,0,12493,12646,100.0,Polish <community-poland@mozilla.org>
+NetworkManager-fortisslvpn,315,0,8,59,0,1,298,323,97.52321981424149,Polish <community-poland@mozilla.org>
+NetworkManager-iodine,75,0,0,21,0,0,83,75,100.0,Polish <gnomepl@aviary.pl>
+NetworkManager-l2tp,439,0,703,88,0,91,444,1142,38.44133099824869,Polish <community-poland@mozilla.org>
+NetworkManager-libreswan,465,0,0,76,0,0,459,465,100.0,Polish <community-poland@mozilla.org>
+NetworkManager-openconnect,6641,0,0,1176,0,0,7263,6641,100.0,Polish <community-poland@mozilla.org>
+NetworkManager-openvpn,1941,0,0,268,0,0,1881,1941,100.0,Polish <community-poland@mozilla.org>
+NetworkManager-pptp,509,0,0,84,0,0,509,509,100.0,Polish <community-poland@mozilla.org>
+NetworkManager-ssh,120,85,81,32,21,16,123,286,41.95804195804196,Polish <gnomepl@aviary.pl>
+NetworkManager-sstp,509,0,0,84,0,0,509,509,100.0,Polish <community-poland@mozilla.org>
+NetworkManager-vpnc,606,0,0,101,0,0,592,606,100.0,Polish <community-poland@mozilla.org>
+PackageKit,1282,0,0,321,0,0,1237,1282,100.0,Polish (http://www.transifex.com/freedesktop/packagekit/language/pl/)
+PySolFC,5758,1166,3873,2283,328,2074,6070,10797,53.329628600537184,Polish <pl@li.org>
+R,38126,0,0,5566,0,0,40113,38126,100.0,Łukasz Daniel <lukasz.daniel@gmail.com>
+R-RODBC,107,0,0,22,0,0,122,107,100.0,Łukasz Daniel <lukasz.daniel@gmail.com>
+Thunar,4409,0,0,762,0,0,4058,4409,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+WindowMaker,1424,11,0,281,1,0,1413,1435,99.23344947735193,Polish <pl@li.org>
+Zim,2081,46,813,515,14,161,2055,2940,70.78231292517006,Polish <pl@li.org>
+a2ps,962,354,196,150,17,12,915,1512,63.62433862433863,Polish <jec@dcs.ed.ac.uk>
+abattis-cantarell-fonts,27,0,0,3,0,0,23,27,100.0,Polish <community-poland@mozilla.org>
+abrt,3676,0,0,417,0,0,3616,3676,100.0,Polish <https://translate.fedoraproject.org/projects/abrt/abrt/pl/>
+accerciser,666,0,0,228,0,0,662,666,100.0,Polish <community-poland@mozilla.org>
+accountsservice,73,0,0,12,0,0,66,73,100.0,Polish <community-poland@mozilla.org>
+acl,395,105,0,49,3,0,400,500,79.0,Polish <translation-team-pl@lists.sourceforge.net>
+agenda,10,7,0,4,2,0,9,17,58.82352941176471,Polish <pl@li.org>
+aisleriot,3095,0,0,687,0,0,2585,3095,100.0,Polish <community-poland@mozilla.org>
+akonadi-calendar-tools,785,0,0,172,0,0,786,785,100.0,Polish <kde-i18n-doc@kde.org>
+akonadi-import-wizard,391,0,0,83,0,0,377,391,100.0,Polish <kde-i18n-doc@kde.org>
+akregator,1786,0,0,432,0,0,1766,1786,100.0,Polish <kde-i18n-doc@kde.org>
+alacarte,48,0,0,21,0,0,46,48,100.0,Polish <community-poland@mozilla.org>
+alexandria,1174,4,0,303,2,0,1128,1178,99.66044142614601,Polish <pl@li.org>
+alleyoop,268,0,74,70,0,17,259,342,78.3625730994152,Polish <pl@li.org>
+almanah,805,0,0,143,0,0,830,805,100.0,Polish <community-poland@mozilla.org>
+amarok,15650,87,82,2776,2,2,15616,15819,98.93166445413742,Polish <kde-i18n-doc@kde.org>
+amtk,11,0,0,3,0,0,12,11,100.0,Polish <community-poland@mozilla.org>
+anaconda,7758,0,0,1286,0,0,7273,7758,100.0,Polish <https://translate.fedoraproject.org/projects/anaconda/f32/pl/>
+analitza,992,0,0,222,0,0,916,992,100.0,Polish <kde-i18n-doc@kde.org>
+anjuta,8407,0,0,2062,0,0,8181,8407,100.0,Polish <community-poland@mozilla.org>
+anope,20088,108,0,1733,2,0,17114,20196,99.46524064171123,Polish
+apostrophe,233,13,207,86,8,55,222,453,51.434878587196465,
+appstream,3265,0,0,335,0,0,2927,3265,100.0,Polish <https://hosted.weblate.org/projects/appstream/translations/pl/>
+apt,16754,3602,16832,1029,202,626,15462,37188,45.05216736581693,Polish <manpages-pl-list@lists.sourceforge.net>
+arandr,173,0,0,38,0,0,157,173,100.0,Polish <https://hosted.weblate.org/projects/arandr/translations/pl/>
+ardour5,1491,4,18107,653,2,3633,1501,19602,7.606366697275788,Polish <pzaryk@gmail.com>
+arduino,3204,0,0,607,0,0,3016,3204,100.0,Polish (http://www.transifex.com/mbanzi/arduino-ide-15/language/pl/)
+aria2,718,0,6768,129,0,270,720,7486,9.591236975687952,Polish <pl@li.org>
+ark,1901,0,0,341,0,0,1768,1901,100.0,Polish <kde-i18n-doc@kde.org>
+artikulate,363,0,0,161,0,0,363,363,100.0,Polish <kde-i18n-doc@kde.org>
+aspell,1797,0,0,303,0,0,1547,1797,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+asunder,440,25,27,81,2,8,415,492,89.43089430894308,
+at-spi2-core,10,0,0,2,0,0,12,10,100.0,Polish <community-poland@mozilla.org>
+atk,440,0,0,169,0,0,419,440,100.0,Polish <community-poland@mozilla.org>
+atomix,169,0,0,44,0,0,161,169,100.0,Polish <community-poland@mozilla.org>
+atril,2214,0,1632,480,0,161,2171,3846,57.56630265210608,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+attr,293,55,0,28,2,0,288,348,84.19540229885058,Polish <translation-team-pl@lists.sourceforge.net>
+audacious,780,0,0,333,0,0,817,780,100.0,Polish (http://www.transifex.com/audacious/audacious/language/pl/)
+audacious-plugins,3978,0,0,900,0,0,3979,3978,100.0,Polish (http://www.transifex.com/audacious/audacious/language/pl/)
+audacity,16867,0,0,3894,0,0,16340,16867,100.0,Polish (http://www.transifex.com/klyok/audacity/language/pl/)
+audex,3347,0,0,412,0,0,3097,3347,100.0,Polish <kde-i18n-doc@kde.org>
+authselect,2016,0,4132,356,0,279,2011,6148,32.79115159401431,Polish <https://translate.fedoraproject.org/projects/authselect/master-application/pl/>
+avahi,868,0,0,168,0,0,865,868,100.0,Polish <trans-pl@lists.fedoraproject.org>
+avogadro,1158,0,5449,568,0,1804,1449,6607,17.526865445739368,Polish <pl@li.org>
+avogadro2,99,63,300,63,23,63,285,462,21.428571428571427,Polish <pl@li.org>
+avogadro2-libs,173,288,2188,159,122,547,281,2649,6.530766326915817,Polish <pl@li.org>
+b43-fwcutter,67,0,0,4,0,0,65,67,100.0,Polish <debian-l10n-polish@lists.debian.org>
+b43-tools,67,0,0,4,0,0,65,67,100.0,Polish <debian-l10n-polish@lists.debian.org>
+backintime,714,0,1258,246,0,103,701,1972,36.206896551724135,Polish <pl@li.org>
+bacula,7995,6210,7016,1342,1026,921,8044,21221,37.674944630319025,Inteos PL <pl@bacula.com.pl>
+baloo-widgets,52,0,0,31,0,0,52,52,100.0,Polish <kde-i18n-doc@kde.org>
+balsa,6725,0,0,1618,0,0,6675,6725,100.0,Polish <community-poland@mozilla.org>
+banshee,6001,0,0,1545,0,0,5872,6001,100.0,Polish <gnomepl@aviary.pl>
+baobab,1381,0,0,141,0,0,1167,1381,100.0,Polish <community-poland@mozilla.org>
+bareftp,448,0,0,160,0,0,411,448,100.0,Polish <>
+bash,11184,323,0,584,2,0,10311,11507,97.19301294863996,Polish <translation-team-pl@lists.sourceforge.net>
+bibletime,28,0,9692,17,0,627,28,9720,0.2880658436213992,Polish (http://www.transifex.com/bibletime/bibletime/language/pl/)
+bijiben,1285,0,0,244,0,0,1080,1285,100.0,Polish <community-poland@mozilla.org>
+bison,910,362,284,181,30,46,970,1556,58.48329048843187,Polish <translation-team-pl@lists.sourceforge.net>
+bleachbit,1403,0,397,299,0,50,1369,1800,77.94444444444444,s120801-translate
+blender,14441,0,0,3154,0,0,14371,14441,100.0,Polish Blender Course <piotao@polskikursblendera.pl>
+blinken,133,0,0,47,0,0,138,133,100.0,Polish <kde-i18n-doc@kde.org>
+blivet-gui,926,53,53,243,8,7,953,1032,89.72868217054264,Polish <https://translate.fedoraproject.org/projects/blivet/blivet-gui/pl/>
+blobwars,1239,0,0,366,0,0,1191,1239,100.0,
+blogilo,1392,0,0,337,0,0,1328,1392,100.0,Polish <kde-i18n-doc@kde.org>
+blueberry,162,0,0,36,0,0,162,162,100.0,Polish <pl@li.org>
+bluedevil,591,0,27,190,0,4,588,618,95.63106796116504,Polish <kde-i18n-doc@kde.org>
+bluefish,5042,7,0,1574,1,0,5340,5049,99.8613586848881,"Paweł Worobiak, Maciej Gryniuk <dawajpoczte@gmail.com, maciejka45@gmail.com>"
+blueman,1331,53,348,337,27,151,1400,1732,76.84757505773672,Polish <https://hosted.weblate.org/projects/blueman/stable/pl/>
+boinc-client,19363,0,1820,3298,0,197,18127,21183,91.40820469244206,Polish (http://www.transifex.com/boinc/boinc/language/pl/)
+bomber,110,0,0,27,0,0,107,110,100.0,Polish <kde-i18n-doc@kde.org>
+bookworm,764,29,2,146,2,1,731,795,96.1006289308176,Polish <https://hosted.weblate.org/projects/bookworm/bookworm/pl/>
+boswars,158,19,39,46,6,21,150,216,73.14814814814815,Polish <LL@li.org>
+bovo,81,0,0,25,0,0,66,81,100.0,Polish <kde-i18n-doc@kde.org>
+brasero,7751,0,0,1113,0,0,6693,7751,100.0,Polish <community-poland@mozilla.org>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+bubblemail,0,0,472,0,0,134,0,472,0.0,none
+bygfoot,3623,48,49,755,11,8,3120,3720,97.39247311827957,Polish <kdei18n-pl-devel@lists.sourceforge.net>
+byzanz,236,0,0,52,0,0,234,236,100.0,Polish <gnomepl@aviary.pl>
+cacti,1953,26722,666,905,3273,43,1965,29341,6.656214852936164,Polish <http://translate.cacti.net/projects/cacti/core/pl-PL/>
+cairo-clock,270,0,0,60,0,0,249,270,100.0,Polski <pl@li.org>
+cairo-dock,6634,0,830,747,0,80,5591,7464,88.87995712754555,Polish <pl@li.org>
+cairo-dock-plug-ins,1211,0,8992,389,0,1333,1123,10203,11.869058120160737,Polish <pl@li.org>
+caja,8686,0,939,1512,0,83,7675,9625,90.24415584415586,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+caja-actions,1465,88,1,166,3,1,1312,1554,94.27284427284427,Polish
+caja-extensions,667,3,1,142,3,1,642,671,99.40387481371089,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+calamares,267,0,176,58,0,26,273,443,60.270880361173816,Polish (https://www.transifex.com/calamares/teams/20061/pl/)
+calibre,77990,0,82984,14046,0,4433,68907,160974,48.44881782151155,Polish (http://www.transifex.com/calibre/calibre/language/pl/)
+calligra,35862,0,0,7755,0,0,32935,35862,100.0,Polish <kde-i18n-doc@kde.org>
+calligraplan,9604,5,7,2063,1,1,9114,9616,99.87520798668885,Polish <kde-i18n-doc@kde.org>
+camorama,458,109,208,99,27,40,421,775,59.096774193548384,Polish <pl@li.org>
+cantor,2695,0,0,577,0,0,2544,2695,100.0,Polish <kde-i18n-doc@kde.org>
+caribou,169,0,0,57,0,0,159,169,100.0,Polish <gnomepl@aviary.pl>
+cataclysm-dda,240535,4,222954,27094,1,15226,224923,463493,51.89614514135057,Polish (https://www.transifex.com/cataclysm-dda-translators/teams/2217/pl/)
+catfish,869,0,0,140,0,0,830,869,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+cawbird,519,176,538,194,45,98,582,1233,42.092457420924575,Polish (http://www.transifex.com/cawbird/cawbird/language/pl/)
+ccsm,558,5,28,144,3,16,549,591,94.41624365482234,Polish <pl@li.org>
+celestia,2270,6,0,1085,1,0,2307,2276,99.73637961335676,Michał Trzebiatowski <hippie_1968@hotmail.com>
+centerim,2212,389,263,652,93,72,2101,2864,77.23463687150837,Polish
+certmonger,2458,156,217,414,21,38,2327,2831,86.82444365948429,Polish (http://www.transifex.com/projects/p/certmonger/language/pl/)
+cervisia,1619,0,0,421,0,0,1520,1619,100.0,Polish <kde-i18n-doc@kde.org>
+cflow,545,28,21,106,5,2,517,594,91.75084175084174,Polish <translation-team-pl@lists.sourceforge.net>
+cheese,2100,0,0,242,0,0,1766,2100,100.0,Polish <community-poland@mozilla.org>
+chemtool,1177,1,6,257,1,3,1136,1184,99.40878378378379,<pl@li.org>
+chkconfig,524,0,31,96,0,7,543,555,94.41441441441441,Polish <trans-pl@lists.fedoraproject.org>
+choqok,2265,82,3,567,17,3,2209,2350,96.38297872340425,Polish <kde-i18n-doc@kde.org>
+chrome-gnome-shell,313,0,0,49,0,0,304,313,100.0,
+cinnamon-control-center,1313,0,0,756,0,0,1335,1313,100.0,Polish <trans-pl@lists.fedoraproject.org>
+cinnamon-desktop,234,0,0,32,0,0,226,234,100.0,Polish <gnomepl@aviary.pl>
+cinnamon-translations,22834,0,99,5097,0,12,22112,22933,99.56830767889068,Polish <pl@li.org>
+clamtk,438,0,10,134,0,4,401,448,97.76785714285714,<pl@li.org>
+claws-mail,20561,109,65,4025,16,10,20103,20735,99.16083916083916,Polish <pl@li.org>
+clementine,5144,0,107,1373,0,18,4826,5251,97.96229289659112,Polish (http://www.transifex.com/davidsansome/clementine/language/pl/)
+clipit,115,0,103,39,0,35,118,218,52.752293577981646,Cristian Henzel <oss@rspwn.com>
+clutter,3057,0,0,675,0,0,2599,3057,100.0,Polish <community-poland@mozilla.org>
+clutter-gtk,5,0,0,1,0,0,5,5,100.0,Polish <community-poland@mozilla.org>
+cockpit,7736,69,14,2050,21,3,7774,7819,98.93848318199258,Polish <https://translate.fedoraproject.org/projects/cockpit/master/pl/>
+cockpit-ostree,168,0,0,65,0,0,175,168,100.0,LANGUAGE <LL@li.org>
+cockpit-podman,477,0,0,175,0,0,501,477,100.0,Polish <https://translate.fedoraproject.org/projects/cockpit-podman/master/pl/>
+codeblocks,613,0,0,79,0,0,599,613,100.0,Polish <community-poland@mozilla.org>
+cogl,393,0,0,80,0,0,388,393,100.0,Polish <community-poland@mozilla.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colobot,50100,0,5173,4167,0,299,41793,55273,90.64100012664412,LANGUAGE <LL@li.org>
+colord,1990,0,0,253,0,0,1896,1990,100.0,Polish (http://www.transifex.com/freedesktop/colord/language/pl/)
+colord-kde,369,0,0,120,0,0,352,369,100.0,Polish <kde-i18n-doc@kde.org>
+colorhug-client,1400,0,810,292,0,186,1360,2210,63.348416289592755,LANGUAGE <LL@li.org>
+compat-gdbm,779,0,0,214,0,0,839,779,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+compiz,3079,972,334,683,143,53,2864,4385,70.21664766248574,Polish <pl@li.org>
+compiz-plugins-experimental,1580,1192,1701,345,323,224,1510,4473,35.323049407556454,Polish <pl@li.org>
+compiz-plugins-extra,3040,401,321,617,86,46,2818,3762,80.8080808080808,Polish <pl@li.org>
+compiz-plugins-main,3708,327,183,712,70,29,3637,4218,87.90896159317212,Polish <pl@li.org>
+coolreader,570,36,95,221,15,37,575,701,81.31241084165478,Polish
+coreutils,21194,0,0,1798,0,0,20952,21194,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+cozy,441,34,84,139,2,14,399,559,78.89087656529516,Polish (https://www.transifex.com/geigi/teams/78138/pl/)
+cpio,1872,30,7,310,3,1,1885,1909,98.06181246726034,Polish <translation-team-pl@lists.sourceforge.net>
+cppi,581,15,0,58,3,0,578,596,97.48322147651007,Polish <translation-team-pl@lists.sourceforge.net>
+cpu-x,898,5,1,221,4,1,952,904,99.33628318584071,Polish <https://hosted.weblate.org/projects/cpu-x/translations/pl/>
+cracklib,93,0,3,15,0,1,73,96,96.875,Polish <fedora-trans-pl@redhat.com>
+cryptsetup,5929,0,0,855,0,0,6175,5929,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+cups-pk-helper,149,0,0,22,0,0,132,149,100.0,Polish (http://www.transifex.com/projects/p/freedesktop/language/pl/)
+cura,18825,0,1852,2230,0,196,15785,20677,91.04318808337767,"Mariusz Matłosz <matliks@gmail.com>, reprapy.pl"
+cura-lulzbot,15562,0,0,1860,0,0,12955,15562,100.0,reprapy.pl
+d-feet,189,0,0,55,0,0,184,189,100.0,Polish <community-poland@mozilla.org>
+darktable,19981,0,0,3718,0,0,19058,19981,100.0,Polish < >
+dasher,1275,0,0,250,0,0,1296,1275,100.0,Polish <gnomepl@aviary.pl>
+davix,674,0,12,133,0,2,689,686,98.25072886297376,Polish Neon Translator Arfrever Frehtes Taifersar Arahesis <Arfrever.FTA@gmail.com>
+dconf-editor,2955,0,0,394,0,0,2824,2955,100.0,Polish <community-poland@mozilla.org>
+dcraw,603,0,0,120,0,0,626,603,100.0,
+ddccontrol,1547,0,0,238,0,0,1451,1547,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+ddccontrol-db,368,7,5,192,4,2,366,380,96.84210526315789,Polish <translation-team-pl@lists.sourceforge.net>
+debconf,785,17,60,86,4,4,744,862,91.06728538283063,Polish <pddp@debian.linux.org.pl>
+deepin-daemon,1063,0,0,228,0,0,1093,1063,100.0,Polish (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/pl/)
+deepin-qml-widgets,35,0,1,26,0,1,31,36,97.22222222222221,Polish (Poland) (http://www.transifex.com/projects/p/deepin-qml-widgets/language/pl_PL/)
+deepin-terminal,441,0,19,168,0,2,456,460,95.86956521739131,Polish (https://www.transifex.com/linuxdeepin/teams/3976/pl/)
+deja-dup,3362,0,0,418,0,0,3171,3362,100.0,Polish <community-poland@mozilla.org>
+deluge,1773,0,843,724,0,127,1753,2616,67.77522935779817,Polish <pl@li.org>
+denemo,2209,2894,9749,517,548,925,2025,14852,14.873417721518987,Polish <translation-team-pl@lists.sourceforge.net>
+desktopfolder,367,0,0,115,0,0,346,367,100.0,Polish (https://www.transifex.com/ubuntu-budgie/teams/72251/pl/)
+devhelp,1111,0,0,139,0,0,991,1111,100.0,Polish <community-poland@mozilla.org>
+dia,3933,1125,1630,1598,312,473,4098,6688,58.80681818181818,Polish <gnomepl@aviary.pl>
+dialog,25,0,0,23,0,0,26,25,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+diffutils,1839,47,0,263,3,0,1828,1886,97.50795334040296,Polish <translation-team-pl@lists.sourceforge.net>
+digikam,48443,2250,665,7625,159,42,44480,51358,94.32415592507496,Polish <kde-i18n-doc@kde.org>
+dino,839,0,0,220,0,0,813,839,100.0,Polish <https://hosted.weblate.org/projects/dino/translations/pl/>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,4439,0,0,857,0,0,4505,4439,100.0,Polish <https://translate.fedoraproject.org/projects/dnf/dnf-master/pl/>
+dnf-plugins-core,1464,0,0,219,0,0,1445,1464,100.0,Polish <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/pl/>
+dnf-plugins-extras,382,0,0,57,0,0,384,382,100.0,Polish <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/pl/>
+dnfdragora,857,0,914,372,0,102,901,1771,48.39073969508752,Polish <kde-i18n-doc@kde.org>
+dnsmasq,2760,208,223,477,36,33,3080,3191,86.49326230021937,polski <>
+dolphin,4532,0,0,664,0,0,4062,4532,100.0,Polish <kde-i18n-doc@kde.org>
+dolphin-emu,3843,0,7765,1019,0,1024,3835,11608,33.106478290833905,Polish (http://www.transifex.com/delroth/dolphin-emu/language/pl/)
+dolphin-plugins,1368,0,0,382,0,0,1355,1368,100.0,Polish <kde-i18n-doc@kde.org>
+dos2unix,5170,0,0,417,0,0,4745,5170,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+doublecmd,11404,22,51,3221,4,27,11123,11477,99.36394528186808,
+dpkg,30451,28364,14132,3053,1393,766,28640,72947,41.74400592210783,Polish <debian-l10n-polish@lists.debian.org>
+dragon,280,0,0,88,0,0,270,280,100.0,Polish <kde-i18n-doc@kde.org>
+drawing,794,185,474,296,64,84,757,1453,54.64556090846524,Piotr Komur
+drgeo,1838,102,45,430,19,12,1704,1985,92.59445843828715,Polish <pl@li.org>
+duplicity,1683,0,532,251,0,68,1773,2215,75.98194130925508,Polish <pl@li.org>
+e16,1666,6,1118,248,3,262,1582,2790,59.71326164874552,Polshi <pl@li.org>
+e2fsprogs,10359,0,0,1579,0,0,10619,10359,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+easystroke,440,0,30,128,0,9,421,470,93.61702127659575,Polish <pl@li.org>
+easytag,5239,0,0,1020,0,0,4977,5239,100.0,Polish <community-poland@mozilla.org>
+edgar,2015,0,9459,281,0,1254,1720,11474,17.561443263029457,Polish
+efl,237,20,37,104,7,16,244,294,80.61224489795919,General
+eiciel,168,0,0,53,0,0,167,168,100.0,Polish <https://l10n.opensuse.org/projects/eiciel/master/pl/>
+eiskaltdcpp,796,5,2825,288,2,863,813,3626,21.952564809707667,Polish (https://www.transifex.com/tehnick/teams/11818/pl/)
+ejabberd,1926,164,129,445,36,27,1766,2219,86.79585398828301,
+ekiga,4489,0,0,748,0,0,4035,4489,100.0,Polish <gnomepl@aviary.pl>
+electrum,2946,0,3940,651,0,596,2654,6886,42.78245715945396,Polish
+elementary-calculator,96,4,30,42,2,10,96,130,73.84615384615385,Polish <https://weblate.elementary.io/projects/calculator/calculator/pl/>
+elementary-calendar,507,1,195,197,1,31,510,703,72.11948790896159,Polish <https://l10n.elementary.io/projects/calendar/calendar/pl/>
+elementary-camera,59,4,2,15,2,1,60,65,90.76923076923077,Polish <https://weblate.elementary.io/projects/camera/camera/pl/>
+elementary-capnet-assist,82,0,0,14,0,0,81,82,100.0,Polish <https://l10n.elementary.io/projects/desktop/capnet-assist/pl/>
+elementary-code,835,9,307,201,3,53,809,1151,72.54561251086012,Polish <https://l10n.elementary.io/projects/code/code/pl/>
+elementary-files,1548,513,850,366,72,121,1597,2911,53.177602198557196,Polish <https://weblate.elementary.io/projects/files/files/pl/>
+elementary-greeter,92,0,74,21,0,16,91,166,55.42168674698795,Polish <https://l10n.elementary.io/projects/desktop/greeter/pl/>
+elementary-music,1139,0,169,330,0,36,1177,1308,87.07951070336392,Polish <https://weblate.elementary.io/projects/music/music/pl/>
+elementary-notifications,3,0,0,2,0,0,3,3,100.0,Polish <https://l10n.elementary.io/projects/desktop/notifications-extra/pl/>
+elementary-photos,3481,295,134,761,24,21,3944,3910,89.02813299232737,Polish <https://l10n.elementary.io/projects/photos/photos/pl/>
+elementary-planner,938,136,1924,230,45,298,852,2998,31.287525016677787,Polish <https://hosted.weblate.org/projects/planner/translations/pl/>
+elementary-screenshot-tool,141,0,71,44,0,11,145,212,66.50943396226415,Polish <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/pl/>
+elementary-shortcut-overlay,95,0,0,39,0,0,100,95,100.0,Polish <https://l10n.elementary.io/projects/desktop/shortcut-overlay/pl/>
+elementary-sideload,21,0,203,9,0,35,20,224,9.375,Polish <https://l10n.elementary.io/projects/desktop/sideload/pl/>
+elementary-terminal,174,10,258,43,2,45,150,442,39.366515837104075,Polish <https://weblate.elementary.io/projects/terminal/terminal/pl/>
+elementary-videos,170,7,169,56,3,31,175,346,49.13294797687861,Polish <https://weblate.elementary.io/projects/videos/videos/pl/>
+elfutils,7236,1178,158,1102,133,18,7608,8572,84.41437237517498,Polish <trans-pl@lists.fedoraproject.org>
+elinks,12222,12,11,1623,1,1,11064,12245,99.8121682319314,Polish <translation-team-pl@lists.sourceforge.net>
+elisa-player,225,45,85,104,8,15,239,355,63.38028169014085,Polish <kde-i18n-doc@kde.org>
+emelfm2,5425,442,373,1263,92,225,5141,6240,86.93910256410257,polski
+emerald,647,43,6,212,6,2,675,696,92.95977011494253,Polish <pl@li.org>
+engrampa,2359,0,5458,487,0,399,2250,7817,30.177817577075604,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+enigma,8927,90,14,960,5,4,7659,9031,98.848411028679,Polish (http://www.transifex.com/projects/p/enigma/language/pl/)
+enlightenment,2100,4110,2475,807,1038,382,2133,8685,24.179620034542314,General
+entangle,941,0,12,225,0,4,1003,953,98.74081846799581,Polish (http://www.transifex.com/projects/p/entangle/language/pl/)
+eog,6516,0,0,733,0,0,5436,6516,100.0,Polish <community-poland@mozilla.org>
+eog-plugins,428,0,0,111,0,0,430,428,100.0,Polish <community-poland@mozilla.org>
+eom,1960,0,2991,359,0,183,1872,4951,39.58796202787316,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+ephemeral,1054,286,524,127,25,64,938,1864,56.54506437768241,none
+epiphany,6918,0,104,957,0,22,5802,7022,98.51894047279977,Polish <community-poland@mozilla.org>
+evince,9101,0,0,1099,0,0,7473,9101,100.0,Polish <community-poland@mozilla.org>
+evolution,28008,0,0,5621,0,0,25697,28008,100.0,Polish <community-poland@mozilla.org>
+evolution-data-server,7673,0,0,1437,0,0,7831,7673,100.0,Polish <community-poland@mozilla.org>
+evolution-ews,1419,0,0,283,0,0,1521,1419,100.0,Polish <community-poland@mozilla.org>
+evolution-mapi,1039,0,0,226,0,0,1079,1039,100.0,Polish <community-poland@mozilla.org>
+evolution-rss,883,0,0,225,0,0,859,883,100.0,Polish <community-poland@mozilla.org>
+exif,296,0,0,68,0,0,282,296,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+exiv2,12391,6457,19164,2604,1983,1499,11584,38012,32.59760075765548,Polish <pl@li.org>
+exo,1460,0,0,300,0,0,1265,1460,100.0,Polish (http://www.transifex.com/xfce/exo/language/pl/)
+falkon,4276,11,22,1359,7,4,4199,4309,99.23416105825017,Polish <kde-i18n-doc@kde.org>
+feedreader,740,95,539,217,18,82,720,1374,53.85735080058224,Polish <https://hosted.weblate.org/projects/feedreader/translations/pl/>
+fetchmail,4688,0,0,726,0,0,4973,4688,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+fgrun,865,68,62,354,23,24,836,995,86.93467336683418,Polish
+file-roller,2933,0,0,457,0,0,2410,2933,100.0,Polish <community-poland@mozilla.org>
+filelight,419,0,0,94,0,0,431,419,100.0,Polish <kde-i18n-doc@kde.org>
+filezilla,10865,0,0,1885,0,0,10450,10865,100.0,Polish (Poland) (http://www.transifex.com/zeron/filezilla/language/pl_PL/)
+findutils,2163,360,111,210,26,11,2054,2634,82.11845102505694,Polish <translation-team-pl@lists.sourceforge.net>
+firewalld,2217,0,0,415,0,0,2094,2217,100.0,Polish <https://translate.fedoraproject.org/projects/firewalld/master/pl/>
+fish,1003,0,96819,203,0,13590,952,97822,1.0253317249698433,
+five-or-more,1550,0,0,195,0,0,1316,1550,100.0,Polish <community-poland@mozilla.org>
+flare,8179,124,288,1609,16,108,7438,8591,95.204283552555,Polish (https://www.transifex.com/flareorg/teams/84925/pl/)
+flare-engine,1136,0,219,416,0,41,1137,1355,83.83763837638377,Polish (https://www.transifex.com/flareorg/teams/84925/pl/)
+flatpak,5462,0,10,1099,0,2,5521,5472,99.81725146198829,Polish <community-poland@mozilla.org>
+fldigi,7203,241,400,2036,76,96,6921,7844,91.8281489036206,Polish (Roman Bagiński) <sp4jeu@gmail.com>
+flex,791,329,11,164,2,3,830,1131,69.93810786914236,Polish <translation-team-pl@lists.sourceforge.net>
+focuswriter,129,0,0,7,0,0,101,129,100.0,Polish (http://www.transifex.com/gottcode/focuswriter/language/pl/)
+folks,1056,0,0,130,0,0,1067,1056,100.0,Polish <community-poland@mozilla.org>
+fontforge,40204,0,2021,6856,0,587,38200,42225,95.2137359384251,
+fonts-tweak-tool,195,0,1,64,0,1,181,196,99.48979591836735,Polish
+four-in-a-row,1277,0,0,194,0,0,1032,1277,100.0,Polish <community-poland@mozilla.org>
+foxtrotgps,995,0,0,300,0,0,1037,995,100.0,Polish <pl@li.org>
+fpc,201,0,0,10,0,0,177,201,100.0,Polish <debian-l10n-polish@lists.debian.org>
+fpm2,708,45,53,195,8,10,673,806,87.84119106699751,Polish
+fprintd,419,0,0,57,0,0,398,419,100.0,Polish (http://www.transifex.com/freedesktop/fprintd/language/pl/)
+fragments,2005,0,1,525,0,1,2380,2006,99.95014955134596,Polish (https://www.transifex.com/transmissionbt/teams/33778/pl/)
+freeciv,106305,0,0,9108,0,0,94070,106305,100.0,hubkow@users.sourceforge.net
+freedink,193,65,5,45,10,1,183,263,73.38403041825094,Polish <translation-team-pl@lists.sourceforge.net>
+freedink-dfarc,773,0,0,134,0,0,700,773,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+freeipa,1769,0,56179,451,0,4221,1853,57948,3.0527369365638157,Polish <https://translate.fedoraproject.org/projects/freeipa/master/pl/>
+frescobaldi,2898,1869,16397,990,577,1024,2778,21164,13.693063693063692,Polish <translation-team-pl@lists.sourceforge.net>
+frogr,1542,0,0,300,0,0,1518,1542,100.0,Polish <community-poland@mozilla.org>
+frozen-bubble,567,82,49,130,9,9,561,698,81.23209169054442,PL_pl <pl@li.org>
+fuse-encfs,707,24,558,102,3,32,705,1289,54.84871993793639,Polish <pl@li.org>
+fwupd,2463,0,0,507,0,0,2672,2463,100.0,Polish (http://www.transifex.com/freedesktop/fwupd/language/pl/)
+gajim,6266,2802,1732,1402,589,204,5902,10800,58.01851851851851,"Polish <dominik@kozaczko.info, translation-team-pl@lists.sourceforge.net>"
+gala,53,0,87,20,0,14,61,140,37.857142857142854,Polish <https://l10n.elementary.io/projects/desktop/gala/pl/>
+galculator,935,0,0,275,0,0,928,935,100.0,Polish (http://www.transifex.com/mate/MATE/language/pl/)
+gambas3,823,413,5052,397,139,1333,819,6288,13.088422391857508,Polish <pl@li.org>
+gamehub,593,201,321,210,73,82,610,1115,53.18385650224216,Polish <https://hosted.weblate.org/projects/gamehub/translations/pl/>
+gammastep,411,266,268,78,53,18,408,945,43.492063492063494,Polish <pl@li.org>
+gammu,1780,595,1642,580,81,452,1929,4017,44.31167537963655,none
+ganyremote,485,10,22,146,1,2,444,517,93.81044487427465,Polish
+garcon,122,0,0,36,0,0,134,122,100.0,Polish (http://www.transifex.com/xfce/garcon/language/pl/)
+gaupol,1931,0,69,590,0,8,1834,2000,96.55,Polish (https://www.transifex.com/otsaloma/teams/64879/pl/)
+gawk,3253,721,1025,534,102,134,3372,4999,65.07301460292058,Polish <translation-team-pl@lists.sourceforge.net>
+gbrainy,10449,0,0,1336,0,0,9951,10449,100.0,Polish <community-poland@mozilla.org>
+gcab,127,0,0,30,0,0,140,127,100.0,Polish <community-poland@mozilla.org>
+gcal,1544,1919,1543,357,486,605,1487,5006,30.842988413903317,Polish <pl@li.org>
+gcompris-qt,27230,4,0,2438,1,0,23146,27234,99.98531247705074,Polish <kde-i18n-doc@kde.org>
+gconf-editor,336,0,0,98,0,0,321,336,100.0,Polish <gnomepl@aviary.pl>
+gcr,748,0,0,266,0,0,713,748,100.0,Polish <community-poland@mozilla.org>
+gdbm,800,7,9,220,1,3,861,816,98.0392156862745,Polish <translation-team-pl@lists.sourceforge.net>
+gdk-pixbuf2,1420,0,0,213,0,0,1496,1420,100.0,Polish <community-poland@mozilla.org>
+gdm,629,0,0,88,0,0,585,629,100.0,Polish <community-poland@mozilla.org>
+geany,5256,775,38,1191,119,10,4678,6069,86.60405338606031,polski <geany-i18n@uvena.de>
+geary,5798,0,0,798,0,0,5264,5798,100.0,Polish <community-poland@mozilla.org>
+gedit,10901,0,0,1313,0,0,9199,10901,100.0,Polish <community-poland@mozilla.org>
+gedit-latex,478,0,0,236,0,0,481,478,100.0,Polish <gnomepl@aviary.pl>
+gedit-plugins,3236,0,0,387,0,0,2710,3236,100.0,Polish <community-poland@mozilla.org>
+geeqie,4116,0,232,1373,0,77,4162,4348,94.66421343146274,
+gegl04,9952,0,0,2012,0,0,9325,9952,100.0,Polish <community-poland@mozilla.org>
+genchemlab,305,0,0,112,0,0,321,305,100.0,Polish <pl@li.org>
+gentoo,1491,385,377,477,63,58,1445,2253,66.17842876165113,Polish <translators@gnome.pl>
+gettext,7590,333,204,823,27,16,7176,8127,93.39239571797712,Polish <translation-team-pl@lists.sourceforge.net>
+gftp,2568,476,331,481,120,33,2359,3375,76.08888888888889,Polish <pl@li.org>
+ggz-base-libs,72,0,0,16,0,0,73,72,100.0,Polish <pl@li.org>
+ggz-gtk-client,443,0,0,135,0,0,395,443,100.0,Polish <pl@li.org>
+ghex,3301,0,0,421,0,0,2915,3301,100.0,Polish <community-poland@mozilla.org>
+gigolo,467,0,0,127,0,0,434,467,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+gimagereader,1309,121,131,413,5,8,1206,1561,83.85650224215246,Polish <https://hosted.weblate.org/projects/gimagereader/translations/pl/>
+gimp,39546,0,0,9531,0,0,37930,39546,100.0,Polish <community-poland@mozilla.org>
+gimp-help,536,0,0,228,0,0,503,536,100.0,Polish <community-poland@mozilla.org>
+gimp-wavelet-denoise-plugin,305,0,0,36,0,0,258,305,100.0,
+gip,103,0,0,31,0,0,93,103,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+girara,206,0,20,50,0,4,178,226,91.1504424778761,Polish (http://www.transifex.com/pwmt/girara/language/pl/)
+git-cinnabar,34794,0,0,5103,0,0,33656,34794,100.0,Polish
+git-cola,1853,287,616,531,81,117,1808,2756,67.23512336719884,Polish <kde-i18n-doc@kde.org>
+gitg,2192,0,0,390,0,0,1961,2192,100.0,Polish <community-poland@mozilla.org>
+gkrellm,3565,64,155,534,4,13,3229,3784,94.21247357293869,Polish <pl@li.org>
+glade,8739,0,0,1896,0,0,8289,8739,100.0,Polish <community-poland@mozilla.org>
+glade2,5445,181,214,1226,41,33,4798,5840,93.23630136986301,Polish <translation-team-pl@lists.sourceforge.net>
+glade3,4298,0,0,1103,0,0,4138,4298,100.0,Polish <gnomepl@aviary.pl>
+glib-networking,269,0,0,41,0,0,301,269,100.0,Polish <community-poland@mozilla.org>
+glib2,7324,0,0,1160,0,0,7492,7324,100.0,Polish <community-poland@mozilla.org>
+glibc,8091,0,0,1465,0,0,8440,8091,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gliv,1010,0,24,258,0,2,965,1034,97.678916827853,Polish
+glom,4984,0,0,865,0,0,4449,4984,100.0,Polish <gnomepl@aviary.pl>
+glpi,11935,0,1837,3178,0,343,12026,13772,86.66134185303514,Polish (Poland) (https://www.transifex.com/glpi/teams/1637/pl_PL/)
+gmpc,25,0,0,13,0,0,26,25,100.0,Polish <pl@li.org>
+gnokii,5717,0,0,1217,0,0,5689,5717,100.0,Polish <pl@li.org>
+gnomad2,697,0,0,171,0,0,726,697,100.0,Polish <pl@li.org>
+gnome-2048,417,0,0,78,0,0,445,417,100.0,Polish <community-poland@mozilla.org>
+gnome-abrt,224,0,0,56,0,0,219,224,100.0,Polish <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/pl/>
+gnome-applets,4024,0,0,767,0,0,3733,4024,100.0,Polish <community-poland@mozilla.org>
+gnome-backgrounds,27,0,0,15,0,0,29,27,100.0,Polish <community-poland@mozilla.org>
+gnome-bluetooth,373,0,0,110,0,0,368,373,100.0,Polish <community-poland@mozilla.org>
+gnome-books,421,0,0,143,0,0,431,421,100.0,Polish <community-poland@mozilla.org>
+gnome-boxes,4412,0,0,570,0,0,3889,4412,100.0,Polish <community-poland@mozilla.org>
+gnome-break-timer,461,75,60,72,4,7,427,596,77.3489932885906,Polish <community-poland@mozilla.org>
+gnome-builder,5148,0,0,1337,0,0,5000,5148,100.0,Polish <community-poland@mozilla.org>
+gnome-calculator,3644,0,0,867,0,0,3303,3644,100.0,Polish <community-poland@mozilla.org>
+gnome-calendar,799,0,0,224,0,0,828,799,100.0,Polish <community-poland@mozilla.org>
+gnome-characters,188,0,0,57,0,0,196,188,100.0,Polish <community-poland@mozilla.org>
+gnome-chemistry-utils,4556,6,1,1264,2,1,4316,4563,99.84659215428447,Polish <kde-i18n-doc@kde.org>
+gnome-chess,2532,0,0,348,0,0,2247,2532,100.0,Polish <community-poland@mozilla.org>
+gnome-clocks,1361,0,0,228,0,0,1075,1361,100.0,Polish <community-poland@mozilla.org>
+gnome-color-manager,2330,0,0,371,0,0,2087,2330,100.0,Polish <community-poland@mozilla.org>
+gnome-commander,10710,0,0,1914,0,0,9436,10710,100.0,Polish <community-poland@mozilla.org>
+gnome-contacts,581,0,0,170,0,0,555,581,100.0,Polish <community-poland@mozilla.org>
+gnome-control-center,7525,0,0,2429,0,0,7477,7525,100.0,Polish <trans-pl@lists.fedoraproject.org>
+gnome-desktop,3325,0,0,134,0,0,2951,3325,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-desktop3,159,0,0,34,0,0,162,159,100.0,Polish <community-poland@mozilla.org>
+gnome-dictionary,2109,0,0,303,0,0,1639,2109,100.0,Polish <community-poland@mozilla.org>
+gnome-directory-thumbnailer,85,0,0,12,0,0,87,85,100.0,Polish <community-poland@mozilla.org>
+gnome-disk-utility,3969,0,0,745,0,0,3828,3969,100.0,Polish <community-poland@mozilla.org>
+gnome-do,612,0,0,144,0,0,594,612,100.0,Polish <kde-i18n-doc@kde.org>
+gnome-doc-utils,251,0,0,101,0,0,259,251,100.0,Polish <gnomepl@aviary.pl>
+gnome-documents,1735,0,0,288,0,0,1525,1735,100.0,Polish <community-poland@mozilla.org>
+gnome-extensions-app,2521,0,0,561,0,0,2493,2521,100.0,Polish <community-poland@mozilla.org>
+gnome-feeds,426,0,9,105,0,8,396,435,97.93103448275862,Polish
+gnome-flashback,1302,0,0,246,0,0,1249,1302,100.0,Polish <community-poland@mozilla.org>
+gnome-font-viewer,536,0,0,203,0,0,619,536,100.0,Polish <community-poland@mozilla.org>
+gnome-games,1089,0,0,261,0,0,1030,1089,100.0,Polish <community-poland@mozilla.org>
+gnome-getting-started-docs,2121,0,0,274,0,0,1744,2121,100.0,Polish <community-poland@mozilla.org>
+gnome-gmail,187,0,0,31,0,0,177,187,100.0,Polish <gnomepl@aviary.pl>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Polish <gnomepl@aviary.pl>
+gnome-initial-setup,819,0,0,120,0,0,717,819,100.0,Polish <community-poland@mozilla.org>
+gnome-keyring,469,0,0,98,0,0,442,469,100.0,Polish <community-poland@mozilla.org>
+gnome-klotski,1358,0,0,119,0,0,1280,1358,100.0,Polish <community-poland@mozilla.org>
+gnome-latex,3565,0,0,683,0,0,3232,3565,100.0,Polish <community-poland@mozilla.org>
+gnome-logs,652,0,0,145,0,0,554,652,100.0,Polish <community-poland@mozilla.org>
+gnome-mahjongg,1641,0,0,197,0,0,1354,1641,100.0,Polish <community-poland@mozilla.org>
+gnome-maps,1394,0,0,353,0,0,1397,1394,100.0,Polish <community-poland@mozilla.org>
+gnome-menus,81,0,0,38,0,0,79,81,100.0,Polish <community-poland@mozilla.org>
+gnome-mime-data,887,0,0,362,0,0,1015,887,100.0,GNOME PL Team <translation-team-pl@lists.sourceforge.net>
+gnome-mines,1473,0,0,171,0,0,1254,1473,100.0,Polish <community-poland@mozilla.org>
+gnome-mud,249,0,951,92,0,154,243,1200,20.75,Polish <pl@li.org>
+gnome-multi-writer,386,0,0,58,0,0,345,386,100.0,Polish <community-poland@mozilla.org>
+gnome-music,1178,0,0,201,0,0,1110,1178,100.0,Polish <community-poland@mozilla.org>
+gnome-nettool,664,0,0,219,0,0,664,664,100.0,Polish <gnomepl@aviary.pl>
+gnome-network-displays,195,0,0,26,0,0,206,195,100.0,Polish <community-poland@mozilla.org>
+gnome-nibbles,1685,0,0,193,0,0,1368,1685,100.0,Polish <community-poland@mozilla.org>
+gnome-online-accounts,669,0,0,148,0,0,689,669,100.0,Polish <community-poland@mozilla.org>
+gnome-packagekit,3500,0,0,553,0,0,3306,3500,100.0,Polish <community-poland@mozilla.org>
+gnome-panel,3258,0,0,483,0,0,2780,3258,100.0,Polish <community-poland@mozilla.org>
+gnome-passwordsafe,1050,0,0,290,0,0,1026,1050,100.0,Polish <community-poland@mozilla.org>
+gnome-phone-manager,563,0,0,98,0,0,505,563,100.0,Polish <gnomepl@aviary.pl>
+gnome-photos,1029,0,0,265,0,0,958,1029,100.0,Polish <community-poland@mozilla.org>
+gnome-power-manager,489,0,0,151,0,0,476,489,100.0,Polish <community-poland@mozilla.org>
+gnome-robots,1715,0,0,256,0,0,1540,1715,100.0,Polish <community-poland@mozilla.org>
+gnome-screensaver,270,0,0,54,0,0,251,270,100.0,Polish <gnomepl@aviary.pl>
+gnome-screenshot,455,0,0,78,0,0,448,455,100.0,Polish <community-poland@mozilla.org>
+gnome-search-tool,1249,0,0,186,0,0,1084,1249,100.0,Polish <gnomepl@aviary.pl>
+gnome-session,414,0,0,66,0,0,388,414,100.0,Polish <community-poland@mozilla.org>
+gnome-settings-daemon,3196,0,0,456,0,0,2986,3196,100.0,Polish <community-poland@mozilla.org>
+gnome-shell,2521,0,0,561,0,0,2493,2521,100.0,Polish <community-poland@mozilla.org>
+gnome-shell-extension-bubblemail,0,0,98,0,0,27,0,98,0.0,none
+gnome-shell-extension-caffeine,36,27,57,9,5,11,39,120,30.0,Polish
+gnome-shell-extension-dash-to-dock,459,12,2,116,3,2,424,473,97.04016913319239,polski <>
+gnome-shell-extension-desktop-icons,136,0,0,43,0,0,121,136,100.0,Polish <community-poland@mozilla.org>
+gnome-shell-extension-emoji-selector,157,0,0,38,0,0,131,157,100.0,Alex (https://gitlab.com/alex4401)
+gnome-shell-extension-freon,94,0,0,27,0,0,92,94,100.0,POLISH <jakub.zywiec@gmail.com>
+gnome-shell-extension-gsconnect,651,0,0,242,0,0,722,651,100.0,Polish
+gnome-shell-extension-media-player-indicator,28,0,58,9,0,13,20,86,32.55813953488372,polski <>
+gnome-shell-extension-openweather,619,0,0,201,0,0,655,619,100.0,Polish <community-poland@mozilla.org>
+gnome-shell-extension-pomodoro,341,0,0,128,0,0,338,341,100.0,
+gnome-shell-extension-suspend-button,35,0,0,6,0,0,36,35,100.0,German <jonatan_zeidler@gmx.de>
+gnome-shell-extension-system-monitor-applet,57,11,120,47,6,50,62,188,30.319148936170215,Polish <LL@li.org>
+gnome-shell-extensions,266,0,0,54,0,0,263,266,100.0,Polish <community-poland@mozilla.org>
+gnome-software,3900,0,0,771,0,0,3782,3900,100.0,Polish <community-poland@mozilla.org>
+gnome-sound-recorder,302,0,0,75,0,0,305,302,100.0,Polish <community-poland@mozilla.org>
+gnome-subtitles,1621,0,0,373,0,0,1470,1621,100.0,Polish <community-poland@mozilla.org>
+gnome-sudoku,1891,0,0,209,0,0,1573,1891,100.0,Polish <community-poland@mozilla.org>
+gnome-system-log,420,0,0,66,0,0,400,420,100.0,Polish <gnomepl@aviary.pl>
+gnome-system-monitor,5553,0,0,534,0,0,4588,5553,100.0,Polish <community-poland@mozilla.org>
+gnome-taquin,1373,0,0,211,0,0,1184,1373,100.0,Polish <community-poland@mozilla.org>
+gnome-terminal,8123,0,0,1051,0,0,6881,8123,100.0,Polish <community-poland@mozilla.org>
+gnome-tetravex,1729,0,0,230,0,0,1536,1729,100.0,Polish <community-poland@mozilla.org>
+gnome-themes,109,0,0,30,0,0,119,109,100.0,Aviary.pl <gnomepl@aviary.pl>
+gnome-themes-extra,15,0,0,6,0,0,17,15,100.0,Polish <community-poland@mozilla.org>
+gnome-todo,684,0,0,149,0,0,644,684,100.0,Polish <community-poland@mozilla.org>
+gnome-tweaks,660,0,0,184,0,0,676,660,100.0,Polish <community-poland@mozilla.org>
+gnome-usage,165,0,0,37,0,0,167,165,100.0,Polish <community-poland@mozilla.org>
+gnome-user-docs,57887,0,0,3275,0,0,46042,57887,100.0,Polish <community-poland@mozilla.org>
+gnome-user-share,49,0,0,10,0,0,50,49,100.0,Polish <community-poland@mozilla.org>
+gnome-vfs2,1519,0,0,305,0,0,1472,1519,100.0,Polish <gnomepl@aviary.pl>
+gnome-video-arcade,1257,0,0,223,0,0,1167,1257,100.0,Polish <community-poland@mozilla.org>
+gnome-video-effects,256,0,0,68,0,0,239,256,100.0,Polish <community-poland@mozilla.org>
+gnome-weather,195,0,0,41,0,0,187,195,100.0,Polish <community-poland@mozilla.org>
+gnote,7590,0,0,919,0,0,6762,7590,100.0,Polish <community-poland@mozilla.org>
+gnubik,265,13,1,81,1,1,248,279,94.98207885304659,Polish <translation-team-pl@lists.sourceforge.net>
+gnucash,19361,10215,8075,3630,1633,505,17019,37651,51.422272980797324,Polish <translators@gnomepl.org>
+gnumeric,17905,0,20570,4026,0,2016,16796,38475,46.53671215074724,Polish <community-poland@mozilla.org>
+gnupg1,8613,21,6,1293,3,1,8311,8640,99.6875,Polish <translation-team-pl@lists.sourceforge.net>
+gnupg2,13405,58,48,2185,10,9,13558,13511,99.21545407445785,Polish <translation-team-pl@lists.sourceforge.net>
+gnutls,1784,31,3,384,9,1,1636,1818,98.12981298129813,Polish <translation-team-pl@lists.sourceforge.net>
+godot,9586,30,0,2336,1,0,9336,9616,99.68801996672212,Polish <https://hosted.weblate.org/projects/godot-engine/godot/pl/>
+goffice,1342,1566,3293,564,671,766,1329,6201,21.64167069827447,Polish <translation-team-pl@lists.sourceforge.net>
+golang-github-chai2010-gettext,6,0,0,2,0,0,6,6,100.0,Polish <pl@li.org>
+goocanvas2,1864,0,0,283,0,0,1432,1864,100.0,Polish <community-poland@mozilla.org>
+goodvibes,18,1,315,7,1,107,19,334,5.389221556886228,Polish <https://hosted.weblate.org/projects/goodvibes/translations/pl/>
+gparted,3026,0,0,507,0,0,2891,3026,100.0,Polish <community-poland@mozilla.org>
+gphoto2,1674,87,0,335,5,0,1624,1761,95.05962521294718,Polish <translation-team-pl@lists.sourceforge.net>
+gpicview,236,0,0,52,0,0,234,236,100.0,Polish
+gpodder,2007,60,110,527,20,20,2022,2177,92.19108865411117,Polish <>
+gradio,309,0,0,101,0,0,280,309,100.0,Polish <https://hosted.weblate.org/projects/gradio/translations/pl/>
+gramps,35532,3765,620,6499,296,53,32677,39917,89.01470551394142,English <kde-i18n-doc@kde.org>
+granatier,247,0,0,68,0,0,209,247,100.0,Polish <kde-i18n-doc@kde.org>
+granite,138,4,127,65,2,21,150,269,51.301115241635685,Polish <https://l10n.elementary.io/projects/desktop/granite/pl/>
+grantlee-editor,530,0,0,158,0,0,520,530,100.0,Polish <kde-i18n-doc@kde.org>
+grass,25946,1016,73872,5538,166,10090,24914,100834,25.731400122974396,GRASS Translation Team
+gretl,16703,0,0,4208,0,0,17298,16703,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+grilo,191,0,0,36,0,0,197,191,100.0,Polish <community-poland@mozilla.org>
+grilo-plugins,1844,0,0,186,0,0,1802,1844,100.0,Polish <community-poland@mozilla.org>
+grip,999,48,62,249,16,18,984,1109,90.08115419296664,Poland
+grisbi,1788,4790,7918,707,1106,735,1701,14496,12.334437086092716,Polish
+grub-customizer,755,0,540,186,0,7,672,1295,58.301158301158296,Polish <pl@li.org>
+grub2,6769,0,0,1300,0,0,6811,6769,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gscan2pdf,1488,0,352,437,0,69,1476,1840,80.8695652173913,Polish <none@none.org>
+gsequencer,581,17,33,317,9,33,578,631,92.07606973058637,LANGUAGE <LL@li.org>
+gsettings-desktop-schemas,6603,0,0,596,0,0,6038,6603,100.0,Polish <community-poland@mozilla.org>
+gshutdown,387,101,4,86,11,4,344,492,78.65853658536585,3ED noteam <kas1987@o2.pl>
+gspell,78,0,0,32,0,0,75,78,100.0,Polish <community-poland@mozilla.org>
+gstreamer1,2110,0,0,378,0,0,1997,2110,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,197,0,0,29,0,0,219,197,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gstreamer1-plugins-base,992,0,0,205,0,0,957,992,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gstreamer1-plugins-good,802,0,0,98,0,0,784,802,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,85,80,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gthumb,3672,0,0,1228,0,0,3452,3672,100.0,Polish <community-poland@mozilla.org>
+gtick,338,0,0,96,0,0,339,338,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gtk+,202,0,0,105,0,0,201,202,100.0,Polish <gnomepl@pandora.info.bielsko.pl>
+gtk-murrine-engine,134,0,0,46,0,0,145,134,100.0,Polish <gnomepl@aviary.pl>
+gtk-vnc,8,0,0,3,0,0,10,8,100.0,Polish <community-poland@mozilla.org>
+gtk2,12492,0,0,2591,0,0,11456,12492,100.0,Polish <community-poland@mozilla.org>
+gtk2-engines,119,0,0,47,0,0,131,119,100.0,Aviary.pl <gnomepl@aviary.pl>
+gtk3,16733,0,0,3938,0,0,15588,16733,100.0,Polish <community-poland@mozilla.org>
+gtk4,12954,0,0,3321,0,0,12181,12954,100.0,Polish <community-poland@mozilla.org>
+gtkhash,213,0,0,63,0,0,244,213,100.0,Polish <https://hosted.weblate.org/projects/gtkhash/translations/pl/>
+gtkhtml3,522,0,0,317,0,0,520,522,100.0,Polish <gnomepl@aviary.pl>
+gtksourceview2,1413,0,0,538,0,0,1364,1413,100.0,Polish <gnomepl@aviary.pl>
+gtksourceview3,322,0,0,106,0,0,317,322,100.0,Polish <community-poland@mozilla.org>
+gtksourceview4,308,0,0,94,0,0,303,308,100.0,Polish <community-poland@mozilla.org>
+gtkspell,11,0,0,5,0,0,12,11,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gtkspell3,15,0,0,6,0,0,16,15,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+gtranslator,1186,0,0,277,0,0,1196,1186,100.0,Polish <community-poland@mozilla.org>
+gtypist,556,0,0,91,0,0,512,556,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+guake,1168,0,38,258,0,3,1123,1206,96.84908789386401,Polish <https://hosted.weblate.org/projects/guake/guake/pl/>
+guayadeque,3315,0,11,1018,0,1,2875,3326,99.66927239927841,Polish (http://www.transifex.com/projects/p/guayadeque/language/pl/)
+gucharmap,3170,0,0,618,0,0,2876,3170,100.0,Polish <community-poland@mozilla.org>
+gummi,292,126,340,135,53,73,297,758,38.522427440633244,Polish Translation <johnnybit@gmail.com>
+gupnp-tools,357,0,0,122,0,0,375,357,100.0,Polish <community-poland@mozilla.org>
+gutenprint,314,1855,14157,157,620,4047,306,16326,1.9233125076564987,Polish <pl@li.org>
+gvfs,2066,0,0,401,0,0,2153,2066,100.0,Polish <community-poland@mozilla.org>
+gweled,107,0,49,36,0,8,95,156,68.58974358974359,Polish <>
+gwenview,1525,0,0,398,0,0,1574,1525,100.0,Polish <kde-i18n-doc@kde.org>
+gwget,571,0,0,191,0,0,583,571,100.0,Aviary.pl <gnomepl@aviary.pl>
+harmonyseq,1867,0,0,297,0,0,1742,1867,100.0,Polish <pl@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+heaptrack,974,111,85,150,13,22,898,1170,83.24786324786325,Polish <kde-i18n-doc@kde.org>
+hello,165,21,0,27,3,0,161,186,88.70967741935483,Polish <translation-team-pl@lists.sourceforge.net>
+help2man,2674,0,0,220,0,0,2477,2674,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+hexchat,5300,0,671,1307,0,139,5098,5971,88.76235136493051,Polish (http://www.transifex.com/hexchat/hexchat/language/pl/)
+hitori,890,0,0,99,0,0,704,890,100.0,Polish <community-poland@mozilla.org>
+hivex,262,8,0,21,1,0,249,270,97.03703703703704,Polish <None>
+homebank,2330,3,459,771,2,92,2174,2792,83.45272206303726,Polish <pl@li.org>
+hugin,5919,1519,1886,1192,315,180,5708,9324,63.481338481338476,Polish <translation-team-pl@lists.sourceforge.net>
+hunspell,613,0,0,79,0,0,599,613,100.0,Polish <community-poland@mozilla.org>
+iagno,1942,0,0,266,0,0,1736,1942,100.0,Polish <community-poland@mozilla.org>
+ibus,2168,0,0,544,0,0,2048,2168,100.0,Polish <https://translate.stg.fedoraproject.org/projects/ibus/ibus/pl/>
+ibus-chewing,359,0,0,70,0,0,378,359,100.0,Polish
+ibus-input-pad,103,0,0,32,0,0,96,103,100.0,Polish
+ibus-typing-booster,1875,0,0,202,0,0,1692,1875,100.0,Polish <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/pl/>
+icewm,1651,370,86,443,20,14,1763,2107,78.3578547698149,Polish <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/pl/>
+ikiwiki,243,425,861,69,91,150,278,1529,15.892740353172009,Debian L10n Polish <debian-l10n-polish@lists.debian.org>
+im-chooser,239,0,15,56,0,2,216,254,94.09448818897637,Polish (http://www.transifex.net/projects/p/im-chooser/team/pl/)
+imsettings,440,5,40,80,1,7,421,485,90.72164948453609,Polish (http://www.transifex.net/projects/p/imsettings/team/pl/)
+indent,261,0,0,52,0,0,289,261,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+initial-setup,106,0,0,20,0,0,94,106,100.0,Polish (http://www.transifex.com/projects/p/initial-setup/language/pl/)
+initscripts,864,0,108,132,0,16,892,972,88.88888888888889,Polish <trans-pl@lists.fedoraproject.org>
+inkscape,40811,0,0,8648,0,0,40119,40811,100.0,Freelancer
+iso-codes,13750,25,9718,8736,21,6629,12998,23493,58.52807219171668,Polish <https://hosted.weblate.org/projects/iso-codes/iso-15924/pl/>
+isoimagewriter,266,38,86,48,5,18,271,390,68.2051282051282,Polish <kde-i18n-doc@kde.org>
+isomaster,674,0,0,107,0,0,635,674,100.0,polish <LL@li.org>
+jmol,1056,47,2063,500,24,497,1059,3166,33.35439039797852,Polish <pl@li.org>
+json-glib,303,0,0,44,0,0,270,303,100.0,Polish <community-poland@mozilla.org>
+juk,1484,0,0,358,0,0,1375,1484,100.0,Polish <kde-i18n-doc@kde.org>
+jwhois,401,11,28,65,2,4,419,440,91.13636363636364,Polish <translation-team-pl@lists.sourceforge.net>
+jwm,242,86,29,63,19,14,245,357,67.78711484593838,Polish <debian-l10n-polish@lists.debian.org>
+k3b,20175,0,0,2518,0,0,19619,20175,100.0,Polish <kde-i18n-doc@kde.org>
+kBuild,502,0,3,80,0,1,533,505,99.4059405940594,Polish <translation-team-pl@lists.sourceforge.net>
+kaccounts-integration,27,0,24,6,0,4,23,51,52.94117647058824,Polish <kde-i18n-doc@kde.org>
+kaccounts-providers,63,18,1,23,3,1,64,82,76.82926829268293,Polish <kde-i18n-doc@kde.org>
+kactivitymanagerd,7,0,0,3,0,0,7,7,100.0,Polish <kde-i18n-doc@kde.org>
+kaddressbook,763,0,0,175,0,0,708,763,100.0,Polish <kde-i18n-doc@kde.org>
+kajongg,2444,0,0,510,0,0,2238,2444,100.0,Polish <kde-i18n-doc@kde.org>
+kalarm,7275,0,0,1022,0,0,6605,7275,100.0,Polish <kde-i18n-doc@kde.org>
+kalgebra,240,0,0,114,0,0,231,240,100.0,Polish <kde-i18n-doc@kde.org>
+kalzium,10476,0,0,1558,0,0,8923,10476,100.0,Polish <kde-i18n-doc@kde.org>
+kamera,347,0,0,38,0,0,284,347,100.0,Polish <kde-i18n-doc@kde.org>
+kamoso,102,0,0,27,0,0,109,102,100.0,Polish <kde-i18n-doc@kde.org>
+kanagram,528,0,0,145,0,0,462,528,100.0,Polish <kde-i18n-doc@kde.org>
+kanatest,406,12,10,212,5,3,389,428,94.85981308411215,Polish
+kanyremote,393,91,22,130,14,2,359,506,77.66798418972331,Polish
+kapman,114,0,0,36,0,0,109,114,100.0,Polish <kde-i18n-doc@kde.org>
+kapptemplate,272,0,0,52,0,0,247,272,100.0,Polish <kde-i18n-doc@kde.org>
+kate,5791,84,126,1400,20,29,5650,6001,96.50058323612731,Polish <kde-i18n-doc@kde.org>
+katomic,185,0,0,59,0,0,190,185,100.0,Polish <kde-i18n-doc@kde.org>
+kaudiocreator,1136,0,0,273,0,0,1113,1136,100.0,Polish <kde-i18n-doc@kde.org>
+kbackup,689,0,0,135,0,0,670,689,100.0,Polish <kde-i18n-doc@kde.org>
+kbd,1875,584,192,261,18,9,1913,2651,70.72802715956243,Polish <translation-team-pl@lists.sourceforge.net>
+kbibtex,2457,24,0,727,2,0,2419,2481,99.03264812575574,Polish <kde-i18n-doc@kde.org>
+kblackbox,1364,0,0,102,0,0,1021,1364,100.0,Polish <kde-i18n-doc@kde.org>
+kblocks,159,0,0,38,0,0,163,159,100.0,Polish <kde-i18n-doc@kde.org>
+kbounce,154,0,0,42,0,0,143,154,100.0,Polish <kde-i18n-doc@kde.org>
+kbrickbuster,152,0,0,40,0,0,131,152,100.0,Polish <kde-i18n-doc@kde.org>
+kbruch,1345,0,0,195,0,0,1055,1345,100.0,Polish <kde-i18n-doc@kde.org>
+kcachegrind,4372,0,0,563,0,0,3991,4372,100.0,Polish <kde-i18n-doc@kde.org>
+kcalc,1026,0,0,337,0,0,918,1026,100.0,Polish <kde-i18n-doc@kde.org>
+kcharselect,88,0,0,34,0,0,101,88,100.0,Polish <kde-i18n-doc@kde.org>
+kcm_systemd,1367,12,6,163,3,2,1323,1385,98.70036101083033,Polish <kde-i18n-doc@kde.org>
+kcm_wacomtablet,1056,0,0,240,0,0,1043,1056,100.0,Polish <kde-i18n-doc@kde.org>
+kcolorchooser,29,0,0,10,0,0,31,29,100.0,Polish <kde-i18n-doc@kde.org>
+kcoloredit,219,47,12,75,13,7,206,278,78.77697841726618,<pl@li.org>
+kcron,534,0,0,190,0,0,472,534,100.0,Polish <kde-i18n-doc@kde.org>
+kdb,1494,0,0,243,0,0,1503,1494,100.0,Polish <kde-i18n-doc@kde.org>
+kdbg,102,101,660,40,39,110,102,863,11.819235225955968,<pl@li.org>
+kde-cli-tools,2196,0,0,229,0,0,1912,2196,100.0,Polish <kde-i18n-doc@kde.org>
+kde-connect,892,18,36,209,3,4,877,946,94.29175475687104,Polish <kde-i18n-doc@kde.org>
+kde-dev-utils,96,0,0,35,0,0,109,96,100.0,Polish <kde-i18n-doc@kde.org>
+kde-l10n,105132,28,0,21172,4,0,96615,105160,99.9733739064283,Polish <pl@li.org>
+kde-partitionmanager,2208,6,0,522,1,0,2092,2214,99.7289972899729,Polish <kde-i18n-doc@kde.org>
+kde-print-manager,980,0,0,277,0,0,952,980,100.0,Polish <kde-i18n-doc@kde.org>
+kdebugsettings,203,0,0,55,0,0,189,203,100.0,Polish <kde-i18n-doc@kde.org>
+kdecoration,27,0,0,15,0,0,28,27,100.0,Polish <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,55,0,8,14,0,2,51,63,87.3015873015873,Polish <kde-i18n-doc@kde.org>
+kdepim-addons,4562,0,0,961,0,0,3998,4562,100.0,Polish <kde-i18n-doc@kde.org>
+kdepim-apps-libs,357,0,0,66,0,0,311,357,100.0,Polish <kde-i18n-doc@kde.org>
+kdepim-runtime,7760,0,0,1192,0,0,7242,7760,100.0,Polish <kde-i18n-doc@kde.org>
+kdeplasma-addons,1648,0,0,634,0,0,1674,1648,100.0,Polish <kde-i18n-doc@kde.org>
+kdesdk-kioslaves,82,0,0,17,0,0,85,82,100.0,Polish <kde-i18n-doc@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Polish <kde-i18n-doc@kde.org>
+kdesvn,4937,0,0,914,0,0,4820,4937,100.0,Polish <kde-i18n-doc@kde.org>
+kdevelop,15296,0,0,3024,0,0,14555,15296,100.0,Polish <kde-i18n-doc@kde.org>
+kdevelop-php,529,0,0,72,0,0,505,529,100.0,Polish <kde-i18n-doc@kde.org>
+kdevelop-python,582,0,0,101,0,0,552,582,100.0,Polish <kde-i18n-doc@kde.org>
+kdf,181,0,0,69,0,0,185,181,100.0,Polish <kde-i18n-doc@kde.org>
+kdiagram,65,0,1,39,0,1,59,66,98.48484848484848,Polish <kde-i18n-doc@kde.org>
+kdialog,350,10,19,72,1,2,367,379,92.34828496042216,Polish <kde-i18n-doc@kde.org>
+kdiamond,122,0,0,32,0,0,140,122,100.0,Polish <kde-i18n-doc@kde.org>
+kdiff3,3574,4,17,615,4,1,3508,3595,99.41585535465924,Polish <kde-i18n-doc@kde.org>
+kdissert,1986,13,28,278,1,3,1709,2027,97.97730636408485,Polish <pl@li.org>
+kdnssd,30,0,0,7,0,0,27,30,100.0,Polish <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,51,8,24,2,2,8,38,83,61.44578313253012,Polish <pl@li.org>
+keditbookmarks,466,0,0,132,0,0,446,466,100.0,Polish <kde-i18n-doc@kde.org>
+kexi,7325,0,26,1492,0,1,7089,7351,99.64630662494899,Polish <kde-i18n-doc@kde.org>
+kf5-akonadi-calendar,1877,0,0,288,0,0,1748,1877,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-akonadi-contacts,1480,0,0,314,0,0,1431,1480,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-akonadi-mime,572,0,0,107,0,0,575,572,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-akonadi-search,48,0,0,11,0,0,45,48,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-akonadi-server,2525,0,0,431,0,0,2492,2525,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-audiocd-kio,1000,0,0,210,0,0,980,1000,100.0,Polish <pl@li.org>
+kf5-baloo,746,143,21,169,27,9,678,910,81.97802197802197,Polish <kde-i18n-doc@kde.org>
+kf5-calendarsupport,2969,0,0,414,0,0,2643,2969,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-eventviews,2954,0,0,318,0,0,2673,2954,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,14,14,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,2481,0,0,454,0,0,2089,2481,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kalarmcal,198,0,0,101,0,0,221,198,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kauth,73,0,0,8,0,0,70,73,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kblog,243,0,0,27,0,0,202,243,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kbookmarks,139,91,0,28,21,0,124,230,60.43478260869565,Polish <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,1468,0,0,414,0,0,1547,1468,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kcmutils,566,0,0,72,0,0,460,566,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kcodecs,235,137,0,49,5,0,171,372,63.17204301075269,Polish <kde-i18n-doc@kde.org>
+kf5-kcompletion,15,3,0,9,2,0,14,18,83.33333333333334,Polish <kde-i18n-doc@kde.org>
+kf5-kconfig,258,0,13,99,0,4,268,271,95.20295202952029,Polish <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,313,10,1,113,5,1,320,324,96.60493827160494,Polish <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,184,177,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,484,3,3,173,1,1,523,490,98.77551020408163,Polish <kde-i18n-doc@kde.org>
+kf5-kdav,185,0,0,20,0,0,139,185,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,45,48,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kdeclarative,113,3,0,15,1,0,103,116,97.41379310344827,Polish <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,4497,4813,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,51,54,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,21,19,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,<pl@li.org>
+kf5-kfilemetadata,302,0,0,134,0,0,330,302,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,59,71,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kholidays,108,2,29,76,1,13,104,139,77.6978417266187,Polish <kde-i18n-doc@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1413,1721,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-ki18n,123,1,0,109,1,0,127,124,99.19354838709677,Polish <kde-i18n-doc@kde.org>
+kf5-kiconthemes,37,0,0,18,0,0,38,37,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kidentitymanagement,181,0,0,23,0,0,163,181,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kimap,110,0,0,49,0,0,121,110,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kinit,134,0,0,14,0,0,110,134,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kio,11709,540,171,1312,50,23,9877,12420,94.27536231884058,Polish <kde-i18n-doc@kde.org>
+kf5-kipi-plugins,5695,0,0,1230,0,0,5317,5695,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kirigami,2,0,0,2,0,0,2,2,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kirigami2,24,3,19,16,2,5,26,46,52.17391304347826,Polish <kde-i18n-doc@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Polish <kde-i18n-doc@kde.org>
+kf5-kitinerary,106,0,0,24,0,0,103,106,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,123,10,0,36,2,0,151,133,92.4812030075188,Polish <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,242,248,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kldap,182,0,0,54,0,0,200,182,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kmailtransport,654,0,0,109,0,0,589,654,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kmime,159,0,0,10,0,0,132,159,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-knewstuff,888,99,511,194,20,29,835,1498,59.279038718291055,Polish <kde-i18n-doc@kde.org>
+kf5-knotifications,10,10,0,2,5,0,8,20,50.0,Polish <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,99,129,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,5,4,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kpackage,495,2,7,97,1,2,458,504,98.21428571428571,Polish <kde-i18n-doc@kde.org>
+kf5-kparts,104,19,0,26,2,0,90,123,84.5528455284553,Polish <kde-i18n-doc@kde.org>
+kf5-kpeople,21,0,0,11,0,0,22,21,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,396,0,0,187,0,0,408,396,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,16,15,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,100,100,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kservice,167,0,0,27,0,0,169,167,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-ksmtp,97,0,0,13,0,0,93,97,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-ktexteditor,8452,231,73,1222,32,6,7518,8756,96.52809502055733,Polish <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,459,10,4,121,8,1,444,473,97.04016913319239,Polish <kde-i18n-doc@kde.org>
+kf5-ktnef,355,0,0,143,0,0,368,355,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kunitconversion,5669,50,16,2458,11,4,6845,5735,98.84917175239755,Polish <kde-i18n-doc@kde.org>
+kf5-kwallet,1462,0,0,112,0,0,1263,1462,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,969,284,20,374,78,4,922,1273,76.11940298507463,Polish <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1543,2,0,220,1,0,1402,1545,99.8705501618123,Polish <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,12,13,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-libgravatar,22,0,0,10,0,0,25,22,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-libkcddb,557,0,0,251,0,0,552,557,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,15,15,100.0,<pl@li.org>
+kf5-libkdepim,465,0,0,127,0,0,441,465,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,127,139,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-libkleo,1301,0,0,323,0,0,1264,1301,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-libksane,272,0,0,83,0,0,255,272,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-libksieve,3318,0,0,561,0,0,2999,3318,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-libktorrent,471,0,0,106,0,0,498,471,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-mailcommon,2861,0,0,484,0,0,2559,2861,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-mailimporter,1408,0,0,127,0,0,1293,1408,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-messagelib,7842,0,0,1256,0,0,7405,7842,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-pimcommon,1041,0,0,248,0,0,955,1041,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-plasma,501,0,6,146,0,2,500,507,98.81656804733728,Polish <kde-i18n-doc@kde.org>
+kf5-purpose,255,0,0,66,0,0,234,255,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-solid,682,0,0,223,0,0,616,682,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-sonnet,667,0,0,73,0,0,525,667,100.0,Polish <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,506,17,64,318,9,21,512,587,86.20102214650767,Polish <kde-i18n-doc@kde.org>
+kfind,505,0,0,117,0,0,487,505,100.0,Polish <kde-i18n-doc@kde.org>
+kflickr,332,0,0,87,0,0,330,332,100.0,Polish <pl@li.org>
+kfloppy,641,0,0,100,0,0,585,641,100.0,Polish <kde-i18n-doc@kde.org>
+kfourinline,392,0,0,157,0,0,385,392,100.0,Polish <kde-i18n-doc@kde.org>
+kgamma,130,0,0,16,0,0,100,130,100.0,Polish <kde-transl@mer.chemia.polsl.gliwice.pl>
+kgeography,9666,12,4,7104,10,2,9632,9682,99.83474488741996,Polish <kde-i18n-doc@kde.org>
+kget,2946,0,0,793,0,0,2828,2946,100.0,Polish <kde-i18n-doc@kde.org>
+kgoldrunner,23556,0,0,908,0,0,19908,23556,100.0,Polish <kde-i18n-doc@kde.org>
+kgpg,5282,0,0,698,0,0,4979,5282,100.0,Polish <kde-i18n-doc@kde.org>
+kgrab,356,14,0,50,3,0,310,370,96.21621621621622,<pl@li.org>
+kgraphviewer,1205,0,0,215,0,0,1105,1205,100.0,Polish <kde-i18n-doc@kde.org>
+khangman,475,0,0,121,0,0,443,475,100.0,Polish <kde-i18n-doc@kde.org>
+khelpcenter,265,0,0,90,0,0,262,265,100.0,Polish <kde-i18n-doc@kde.org>
+khotkeys,438,0,0,129,0,0,406,438,100.0,Polish <kde-i18n-doc@kde.org>
+kicad,95584,131,158,10068,24,5,93811,95873,99.69855955274166,"Polish KiCad Translators: Mateusz Skowroński, Krzysztof Kawa, Kerusey Karyu, Daniel Dawid Majewski"
+kiconedit,724,0,2,154,0,1,652,726,99.72451790633609,<pl@li.org>
+kid3,3134,0,0,1373,0,0,3214,3134,100.0,Polish <kde-i18n-doc@kde.org>
+kig,7877,0,0,1302,0,0,6791,7877,100.0,Polish <pl@li.org>
+kigo,500,0,0,129,0,0,448,500,100.0,Polish <kde-i18n-doc@kde.org>
+kile,12994,0,0,2183,0,0,11626,12994,100.0,Polish <kde-i18n-doc@kde.org>
+killbots,641,0,0,128,0,0,584,641,100.0,Polish <kde-i18n-doc@kde.org>
+kinfocenter,2590,17,5,1005,6,4,2635,2612,99.15773353751915,Polish <kde-i18n-doc@kde.org>
+kio-extras,1069,0,6,133,0,2,975,1075,99.44186046511628,Polish <kde-i18n-doc@kde.org>
+kio-gdrive,30,0,12,5,0,3,27,42,71.42857142857143,Polish <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,17,17,100.0,Polish <pl@li.org>
+kio_mtp,17,0,0,2,0,0,14,17,100.0,Polish <kde-i18n-doc@kde.org>
+kiriki,144,0,0,50,0,0,139,144,100.0,Polish <kde-i18n-doc@kde.org>
+kiten,641,0,0,179,0,0,633,641,100.0,Polish <kde-i18n-doc@kde.org>
+kjots,399,0,0,106,0,0,372,399,100.0,Polish <kde-i18n-doc@kde.org>
+kjumpingcube,412,0,0,95,0,0,380,412,100.0,Polish <kde-i18n-doc@kde.org>
+klamav,559,140,1804,144,35,240,517,2503,22.333200159808232,Polish <pl@li.org>
+klavaro,1963,29,5,234,3,1,1621,1997,98.29744616925387,Polish <translation-team-pl@lists.sourceforge.net>
+kleopatra,8684,0,0,1349,0,0,8170,8684,100.0,Polish <kde-i18n-doc@kde.org>
+klettres,438,0,0,84,0,0,391,438,100.0,Polish <kde-i18n-doc@kde.org>
+klickety,178,0,0,62,0,0,170,178,100.0,Polish <kde-i18n-doc@kde.org>
+klines,99,0,0,28,0,0,87,99,100.0,Polish <kde-i18n-doc@kde.org>
+kmag,432,0,0,98,0,0,400,432,100.0,Polish <kde-i18n-doc@kde.org>
+kmahjongg,355,0,0,101,0,0,323,355,100.0,Polish <kde-i18n-doc@kde.org>
+kmail,8854,0,0,1378,0,0,7938,8854,100.0,Polish <kde-i18n-doc@kde.org>
+kmail-account-wizard,808,0,0,130,0,0,730,808,100.0,Polish <kde-i18n-doc@kde.org>
+kmenuedit,271,0,2,62,0,1,227,273,99.26739926739927,Polish <kde-i18n-doc@kde.org>
+kmines,119,0,0,42,0,0,102,119,100.0,Polish <kde-i18n-doc@kde.org>
+kmix,920,0,0,202,0,0,854,920,100.0,Polish <kde-i18n-doc@kde.org>
+kmousetool,147,0,0,32,0,0,128,147,100.0,Polish <kde-i18n-doc@kde.org>
+kmouth,1515,0,0,204,0,0,1256,1515,100.0,Polish <kde-i18n-doc@kde.org>
+kmplayer,1248,1,0,370,1,0,1188,1249,99.919935948759,Polish <kde-i18n-doc@kde.org>
+kmplot,2491,0,0,480,0,0,2069,2491,100.0,Polish <kde-i18n-doc@kde.org>
+kmymoney,21824,0,0,3637,0,0,19622,21824,100.0,Polish <kde-i18n-doc@kde.org>
+knavalbattle,399,0,0,102,0,0,398,399,100.0,Polish <kde-i18n-doc@kde.org>
+knetwalk,230,0,0,54,0,0,250,230,100.0,Polish <kde-i18n-doc@kde.org>
+knotes,790,0,0,239,0,0,784,790,100.0,Polish <kde-i18n-doc@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,8071,8417,100.0,Polish <pl@li.org>
+kolf,401,0,0,148,0,0,388,401,100.0,Polish <kde-i18n-doc@kde.org>
+kollision,109,0,0,30,0,0,122,109,100.0,Polish <kde-i18n-doc@kde.org>
+kolourpaint,2585,0,0,449,0,0,2377,2585,100.0,Polish <kde-i18n-doc@kde.org>
+kompare,1430,0,0,196,0,0,1266,1430,100.0,Polish <kde-i18n-doc@kde.org>
+konqueror,7727,18,715,1080,7,74,6543,8460,91.33569739952718,Polish <kde-i18n-doc@kde.org>
+konquest,246,0,0,98,0,0,247,246,100.0,Polish <kde-i18n-doc@kde.org>
+konsole5,2986,0,0,625,0,0,2775,2986,100.0,Polish <kde-i18n-doc@kde.org>
+kontact,600,0,0,99,0,0,589,600,100.0,Polish <kde-i18n-doc@kde.org>
+konversation,10294,0,0,1638,0,0,9548,10294,100.0,Polish <kde-i18n-doc@kde.org>
+kopete,18427,0,0,3457,0,0,16776,18427,100.0,Polish <pl@li.org>
+korganizer,6786,0,0,909,0,0,5955,6786,100.0,Polish <kde-i18n-doc@kde.org>
+kover,456,0,0,124,0,0,394,456,100.0,Polish <kde-transl@mer.chemia.polsl.gliwice.pl>
+koverartist,519,94,150,122,24,39,476,763,68.02096985583223,Polish
+kpat,473,0,0,140,0,0,468,473,100.0,Polish <kde-i18n-doc@kde.org>
+kphotoalbum,8749,680,19,941,62,1,7862,9448,92.60160880609652,Polish <kde-i18n-doc@kde.org>
+kpilot,7156,0,0,861,0,0,6307,7156,100.0,Polish <kde-i18n-doc@kde.org>
+kpmcore,3031,188,7,471,18,2,3066,3226,93.95536267823931,Polish <kde-i18n-doc@kde.org>
+kproperty,145,0,0,82,0,0,150,145,100.0,Polish <kde-i18n-doc@kde.org>
+krb5-auth-dialog,2959,0,0,435,0,0,2924,2959,100.0,Polish <community-poland@mozilla.org>
+krdc,1294,0,33,295,0,2,1219,1327,97.51318764129616,Polish <kde-i18n-doc@kde.org>
+krecipes,3646,0,0,765,0,0,3530,3646,100.0,Polish <kde-i18n-doc@kde.org>
+krecorder,47,9,28,28,7,2,48,84,55.952380952380956,Polish <kde-i18n-doc@kde.org>
+krename,2142,0,0,452,0,0,1980,2142,100.0,Polish <kde-i18n-doc@kde.org>
+kreport,455,0,0,193,0,0,475,455,100.0,Polish <kde-i18n-doc@kde.org>
+kreversi,428,0,0,141,0,0,427,428,100.0,Polish <kde-i18n-doc@kde.org>
+krfb,676,0,0,91,0,0,640,676,100.0,Polish <kde-i18n-doc@kde.org>
+krita,27841,0,0,6806,0,0,26723,27841,100.0,Polish <kde-i18n-doc@kde.org>
+kruler,184,0,0,47,0,0,165,184,100.0,Polish <kde-i18n-doc@kde.org>
+krusader,7929,0,0,1738,0,0,7786,7929,100.0,Polish <kde-i18n-doc@kde.org>
+kscreen,246,1,7,54,1,3,235,254,96.8503937007874,Polish <kde-i18n-doc@kde.org>
+kscreenlocker,243,0,0,33,0,0,230,243,100.0,Polish <kde-i18n-doc@kde.org>
+kshisen,568,0,0,70,0,0,453,568,100.0,Polish <kde-i18n-doc@kde.org>
+ksig,71,2,12,17,1,8,55,85,83.52941176470588,Polish <pl@li.org>
+ksirk,5763,0,0,762,0,0,5103,5763,100.0,Polish <kde-i18n-doc@kde.org>
+ksnakeduel,231,0,0,53,0,0,232,231,100.0,Polish <kde-i18n-doc@kde.org>
+kspaceduel,165,0,0,81,0,0,174,165,100.0,Polish <kde-i18n-doc@kde.org>
+ksquares,257,0,0,76,0,0,211,257,100.0,Polish <kde-i18n-doc@kde.org>
+ksshaskpass,43,0,0,12,0,0,42,43,100.0,Polish <kde-i18n-doc@kde.org>
+kst,7288,0,0,1941,0,0,7097,7288,100.0,Polish <kde-i18n-doc@kde.org>
+kstars,59774,12,10,16362,2,3,56617,59796,99.96320824135394,Polish <kde-i18n-doc@kde.org>
+ksudoku,1746,0,0,163,0,0,1626,1746,100.0,Polish <kde-i18n-doc@kde.org>
+ksysguard,1093,0,0,237,0,0,950,1093,100.0,Polish <kde-i18n-doc@kde.org>
+ksystemlog,3034,0,0,479,0,0,2698,3034,100.0,Polish <kde-i18n-doc@kde.org>
+kteatime,203,0,0,67,0,0,239,203,100.0,Polish <kde-i18n-doc@kde.org>
+ktechlab,9,5,3719,3,1,935,10,3733,0.24109295472810074,Polish <kde-i18n-pt_BR@kde.org>
+ktimer,258,0,0,53,0,0,201,258,100.0,Polish <kde-i18n-doc@kde.org>
+ktorrent,7564,3,7,1387,1,2,6759,7574,99.86796936889358,Polish <kde-i18n-doc@kde.org>
+ktouch,948,0,0,253,0,0,923,948,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1103,1100,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-approver,71,0,0,18,0,0,69,71,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,80,83,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-common-internals,989,0,0,206,0,0,916,989,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-contact-list,680,0,0,127,0,0,656,680,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,201,208,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,68,75,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,148,141,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-kded-integration-module,490,0,0,59,0,0,451,490,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-send-file,60,0,0,18,0,0,58,60,100.0,Polish <kde-i18n-doc@kde.org>
+ktp-text-ui,1441,0,0,321,0,0,1340,1441,100.0,Polish <kde-i18n-doc@kde.org>
+ktuberling,158,0,0,38,0,0,156,158,100.0,Polish <kde-i18n-doc@kde.org>
+kturtle,1531,0,0,347,0,0,1399,1531,100.0,Polish <kde-i18n-doc@kde.org>
+kubrick,1205,0,0,166,0,0,1096,1205,100.0,Polish <kde-i18n-doc@kde.org>
+kuserfeedback,880,235,33,250,16,3,821,1148,76.65505226480836,Polish <kde-i18n-doc@kde.org>
+kvirc,14595,0,15140,3016,0,1463,13848,29735,49.083571548680005,Polish (http://www.transifex.com/kvirc/KVIrc/language/pl/)
+kwalletmanager5,800,0,0,165,0,0,738,800,100.0,Polish <kde-i18n-doc@kde.org>
+kwave,5798,0,0,1305,0,0,5280,5798,100.0,Polish <kde-i18n-doc@kde.org>
+kwebkitpart,669,0,0,165,0,0,628,669,100.0,Polish <kde-i18n-doc@kde.org>
+kwin,6012,15,31,1222,7,15,5641,6058,99.24067348960052,Polish <kde-i18n-doc@kde.org>
+kwordquiz,2026,0,0,414,0,0,1758,2026,100.0,Polish <kde-i18n-doc@kde.org>
+kxstitch,2014,0,0,570,0,0,1808,2014,100.0,Polish <kde-i18n-doc@kde.org>
+l3afpad,113,0,17,61,0,3,127,130,86.92307692307692,Polish <translation-team-pl@lists.sourceforge.net>
+lasem,29,0,0,10,0,0,32,29,100.0,Polish <gnomepl@aviary.pl>
+lazarus,17783,3144,13530,5517,869,1939,17858,34457,51.609252111327166,
+lazpaint,2450,16,1031,912,7,232,2404,3497,70.06005147269087,
+leafpad,125,0,0,68,0,0,140,125,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+lftp,3747,166,120,470,20,12,3762,4033,92.90850483511034,Polish <translation-team-pl@lists.sourceforge.net>
+libalkimia,541,0,0,99,0,0,487,541,100.0,Polish <kde-i18n-doc@kde.org>
+libappstream-glib,459,0,0,99,0,0,434,459,100.0,Polish (http://www.transifex.com/freedesktop/appstream-glib/language/pl/)
+libbonobo,543,0,0,107,0,0,536,543,100.0,Polish <gnomepl@aviary.pl>
+libbonoboui,368,0,0,115,0,0,350,368,100.0,Polish <gnome-l10n@lists.aviary.pl>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Polish
+libconfig,255,0,0,52,0,0,260,255,100.0,Language pl-PL
+libcryptui,752,0,0,192,0,0,695,752,100.0,Polish <gnomepl@aviary.pl>
+libdnf,1186,0,0,190,0,0,1294,1186,100.0,Polish <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/pl/>
+libecpg,41741,1355,838,5415,169,75,41434,43934,95.00842172349434,begina.felicysym@wp.eu
+libepc,147,0,0,26,0,0,164,147,100.0,Polish <gnomepl@aviary.pl>
+libexif,6976,0,18,1176,0,2,6333,6994,99.74263654561052,Polish <translation-team-pl@lists.sourceforge.net>
+libextractor,1952,13,13,482,5,3,1685,1978,98.685540950455,Polish <translation-team-pl@lists.sourceforge.net>
+libfilezilla,414,0,0,78,0,0,398,414,100.0,Polish (Poland) (http://www.transifex.com/zeron/filezilla/language/pl_PL/)
+libgdata,694,0,0,86,0,0,604,694,100.0,Polish <community-poland@mozilla.org>
+libgdl,659,0,0,96,0,0,574,659,100.0,Polish <community-poland@mozilla.org>
+libgnome,1773,0,0,273,0,0,1657,1773,100.0,Polish <gnomepl@aviary.pl>
+libgnome-games-support,43,0,0,14,0,0,41,43,100.0,Polish <community-poland@mozilla.org>
+libgnome-keyring,44,0,0,9,0,0,42,44,100.0,Polish <gnomepl@aviary.pl>
+libgnomecanvas,378,0,0,95,0,0,366,378,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+libgnomekbd,188,0,0,40,0,0,171,188,100.0,Polish <community-poland@mozilla.org>
+libgnomeui,1309,0,0,334,0,0,1172,1309,100.0,Polish <gnome-l10n@lists.aviary.pl>
+libgovirt,103,0,0,23,0,0,113,103,100.0,Polish <community-poland@mozilla.org>
+libgpg-error,1420,4,0,444,2,0,1482,1424,99.71910112359551,Polish <translation-team-pl@lists.sourceforge.net>
+libgphoto2,12076,240,83,2700,78,31,12206,12399,97.3949512057424,Polish <translation-team-pl@lists.sourceforge.net>
+libgsasl,577,0,0,69,0,0,579,577,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+libgsf,720,0,0,150,0,0,696,720,100.0,Polish <community-poland@mozilla.org>
+libgtop2,126,0,0,40,0,0,140,126,100.0,Polish <community-poland@mozilla.org>
+libguestfs,3256,0,12477,532,0,1217,3188,15733,20.695353715121083,Polish (http://www.transifex.com/projects/p/libguestfs/language/pl/)
+libgweather,6373,0,0,4681,0,0,6367,6373,100.0,Polish <community-poland@mozilla.org>
+libgxim,0,124,0,0,24,0,0,124,0.0,Polish <None>
+libhandy1,23,0,0,14,0,0,24,23,100.0,Polish <community-poland@mozilla.org>
+libidn,414,0,14,58,0,2,424,428,96.72897196261682,Polish <translation-team-pl@lists.sourceforge.net>
+libidn1.34,414,0,14,58,0,2,424,428,96.72897196261682,Polish <translation-team-pl@lists.sourceforge.net>
+libidn2,250,62,3,35,4,1,253,315,79.36507936507937,Polish <translation-team-pl@lists.sourceforge.net>
+libkdegames,370,0,0,132,0,0,324,370,100.0,Polish <kde-i18n-doc@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,181,171,100.0,Polish <kde-i18n-doc@kde.org>
+libkfbapi,42,0,0,6,0,0,37,42,100.0,Polish <kde-i18n-doc@kde.org>
+libkgapi,360,0,0,81,0,0,362,360,100.0,Polish <kde-i18n-doc@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Polish <kde-i18n-doc@kde.org>
+libkomparediff2,143,0,0,19,0,0,126,143,100.0,Polish <kde-i18n-doc@kde.org>
+libksysguard,3430,6,0,470,3,0,3215,3436,99.82537834691502,Polish <kde-i18n-doc@kde.org>
+libmatekbd,257,0,51,55,0,36,233,308,83.44155844155844,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+libmatemixer,242,0,0,126,0,0,249,242,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+libmateweather,6113,0,29,4549,0,25,6102,6142,99.52784109410615,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+libmypaint,1528,60,715,105,12,45,1343,2303,66.34824142422927,Polish <https://hosted.weblate.org/projects/mypaint/libmypaint/pl/>
+libmypaint2,1536,60,715,105,12,45,1350,2311,66.46473388143662,Polish <https://hosted.weblate.org/projects/mypaint/libmypaint/pl/>
+libnma,917,0,0,195,0,0,834,917,100.0,Polish <community-poland@mozilla.org>
+libosinfo,755,0,28,163,0,5,743,783,96.42401021711366,Polish (http://www.transifex.com/projects/p/libosinfo/language/pl/)
+libpaper,73,0,0,46,0,0,78,73,100.0,Polish <debian-l10n-polish@lists.debian.org>
+libpeas,103,0,0,29,0,0,97,103,100.0,Polish <community-poland@mozilla.org>
+libpq,41741,1355,838,5415,169,75,41434,43934,95.00842172349434,begina.felicysym@wp.eu
+libpwquality,345,0,0,51,0,0,303,345,100.0,Polish <https://translate.fedoraproject.org/projects/libpwquality/app/pl/>
+libreport,4928,0,0,603,0,0,4845,4928,100.0,Polish <https://translate.fedoraproject.org/projects/abrt/libreport/pl/>
+libsecret,59,0,0,9,0,0,49,59,100.0,Polish <community-poland@mozilla.org>
+libsoup,179,0,0,40,0,0,190,179,100.0,Polish <community-poland@mozilla.org>
+libuser,1385,34,18,292,6,3,1463,1437,96.3813500347947,Polish (http://www.transifex.com/projects/p/fedora/language/pl/)
+libxfce4ui,926,0,0,179,0,0,923,926,100.0,Polish (http://www.transifex.com/xfce/libxfce4ui/language/pl/)
+libxfce4util,424,0,0,7,0,0,400,424,100.0,Polish (http://www.transifex.com/xfce/libxfce4util/language/pl/)
+libzypp,2339,0,19,941,0,3,2367,2358,99.19423240033926,Polish <https://l10n.opensuse.org/projects/libzypp/master/pl/>
+lifeograph,272,328,444,63,88,137,244,1044,26.053639846743295,Polish <pl@li.org>
+liferea,2222,0,20,509,0,4,2075,2242,99.1079393398751,
+light-locker,260,0,0,37,0,0,242,260,100.0,Polish (http://www.transifex.com/the_cavalry/light-locker/language/pl/)
+lightdm,82,0,81,18,0,3,74,163,50.306748466257666,Polish <pl@li.org>
+lightdm-gtk,68,0,19,22,0,3,58,87,78.16091954022988,Polish <pl@li.org>
+lightdm-gtk-greeter-settings,519,0,0,171,0,0,513,519,100.0,Polish <pl@li.org>
+lightdm-settings,310,0,0,63,0,0,267,310,100.0,Polish <pl@li.org>
+lightsoff,1116,0,0,111,0,0,971,1116,100.0,Polish <community-poland@mozilla.org>
+lilyterm,1487,149,12,277,17,1,1322,1648,90.23058252427184,polski <LANGUAGE <LL@li.org>>
+lincity-ng,1612,5,306,388,3,66,1382,1923,83.82735309412377,<pl@li.org>
+linphone,120,238,1495,33,111,321,102,1853,6.475984889368592,Polski <pl@li.org>
+lokalize,3942,0,0,649,0,0,3556,3942,100.0,Polish <kde-i18n-doc@kde.org>
+lollypop,973,0,460,347,0,113,981,1433,67.89951151430566,Polish <https://hosted.weblate.org/projects/gnumdk/lollypop/pl/>
+lordsawar,942,41,4735,348,9,1258,947,5718,16.474291710388247,Polish <translation-team-pl@lists.sourceforge.net>
+lskat,254,0,0,83,0,0,226,254,100.0,Polish <kde-i18n-doc@kde.org>
+lxappearance,234,0,0,80,0,0,231,234,100.0,polski <>
+lxappearance-obconf,196,0,0,27,0,0,192,196,100.0,Polish <>
+lxde-common,14,0,0,5,0,0,16,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,51,47,100.0,Polish
+lxinput,83,0,0,26,0,0,89,83,100.0,Polish <>
+lxlauncher,58,0,0,17,0,0,58,58,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,96,97,100.0,Aviary.pl <gnomepl@aviary.pl>
+lxmusic,203,0,0,89,0,0,237,203,100.0,Polish <>
+lxrandr,167,0,0,41,0,0,159,167,100.0,Polish <>
+lxsession,755,0,0,166,0,0,751,755,100.0,Polish <>
+lxshortcut,43,0,0,19,0,0,39,43,100.0,<>
+lxtask,130,0,0,51,0,0,138,130,100.0,Polish <>
+lyx,16068,3831,5803,4964,1388,937,15247,25702,62.51653567815734,No team
+mail-notification,1945,0,240,364,0,17,1886,2185,89.01601830663616,Polish
+mailman,14928,145,9378,1296,21,164,12258,24451,61.052717680258475,Polish <community-poland@mozilla.org>
+mailnag,126,0,81,49,0,17,146,207,60.86956521739131,Polish <pl@li.org>
+make,2252,14,0,430,2,0,2277,2266,99.38217122683142,Polish <translation-team-pl@lists.sourceforge.net>
+man-db,7590,1409,458,575,44,22,7315,9457,80.25800993972719,Polish <translation-team-pl@lists.sourceforge.net>
+man-pages-pl,320211,0,0,33916,0,0,296046,320211,100.0,Polish <manpages-pl-list@lists.sourceforge.net>
+man2html,58,0,0,3,0,0,47,58,100.0,Polish <pl@li.org>
+marble,11455,0,0,3322,0,0,10969,11455,100.0,Polish <kde-i18n-doc@kde.org>
+marco,4339,0,0,431,0,0,4124,4339,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+massif-visualizer,357,0,0,109,0,0,360,357,100.0,Polish <kde-i18n-doc@kde.org>
+mate-applets,5170,9,10674,846,3,753,4977,15853,32.612123888223046,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-backgrounds,51,0,14,28,0,3,47,65,78.46153846153847,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-calc,1625,0,1553,523,0,196,1589,3178,51.13278791692889,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-control-center,3752,0,4850,1203,0,309,3676,8602,43.61776331085794,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-desktop,2224,0,0,285,0,0,2056,2224,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-media,231,0,8,97,0,2,231,239,96.65271966527197,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-menu,301,0,7,109,0,1,303,308,97.72727272727273,Polish (http://www.transifex.com/mate/MATE/language/pl/)
+mate-menus,97,0,0,37,0,0,92,97,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-notification-daemon,152,0,0,41,0,0,155,152,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-panel,5251,0,1476,718,0,84,4660,6727,78.05856994202468,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-polkit,123,0,0,21,0,0,101,123,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-power-manager,2805,3,2331,414,1,139,2647,5139,54.582603619381196,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-screensaver,1020,0,0,169,0,0,902,1020,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-sensors-applet,484,0,1676,121,0,105,507,2160,22.407407407407405,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-session-manager,712,0,0,131,0,0,674,712,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-settings-daemon,2197,0,0,318,0,0,2014,2197,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-system-monitor,1807,0,3104,372,0,286,1712,4911,36.79495011199349,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-terminal,4865,0,3507,565,0,233,4037,8372,58.11036789297659,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-themes,74,0,0,23,0,0,72,74,100.0,Polish (http://www.transifex.com/mate/MATE/language/pl/)
+mate-user-admin,509,0,119,119,0,12,473,628,81.05095541401273,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-user-guide,1655,0,41315,233,0,2996,1468,42970,3.8515243192925297,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mate-utils,4844,0,5460,796,0,333,4326,10304,47.01086956521739,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+mbox-importer,40,0,0,13,0,0,42,40,100.0,Polish <kde-i18n-doc@kde.org>
+mc,4289,0,0,1273,0,0,4479,4289,100.0,Polish (http://www.transifex.com/mc/mc/language/pl/)
+mcrypt,162,292,511,21,29,93,147,965,16.787564766839377,Polish <pl@li.org>
+meld,6130,0,0,788,0,0,5634,6130,100.0,Polish <community-poland@mozilla.org>
+menulibre,849,0,0,164,0,0,757,849,100.0,polski <>
+metacity,1876,0,0,283,0,0,1883,1876,100.0,Polish <community-poland@mozilla.org>
+midori,3541,0,0,796,0,0,3570,3541,100.0,polski <>
+minder,153,496,4388,80,204,601,147,5037,3.0375223347230493,none
+minetest,5311,2472,1866,982,290,84,4934,9649,55.04197326147787,Polish <https://hosted.weblate.org/projects/minetest/minetest/pl/>
+mingw-GConf2,4074,0,0,496,0,0,4023,4074,100.0,Polish <gnomepl@aviary.pl>
+mingw-atk,440,0,0,169,0,0,419,440,100.0,Polish <community-poland@mozilla.org>
+mingw-colord,1885,0,0,203,0,0,1767,1885,100.0,Polish (http://www.transifex.com/projects/p/colord/language/pl/)
+mingw-colorhug-client,1236,0,951,257,0,218,1204,2187,56.51577503429356,LANGUAGE <LL@li.org>
+mingw-exiv2,12391,6457,19164,2604,1983,1499,11584,38012,32.59760075765548,Polish <pl@li.org>
+mingw-gdbm,663,30,6,185,6,2,713,699,94.84978540772532,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gdk-pixbuf,1420,0,0,213,0,0,1496,1420,100.0,Polish <community-poland@mozilla.org>
+mingw-gettext,7547,76,26,822,2,2,7139,7649,98.66649235194143,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-glib-networking,269,0,0,41,0,0,301,269,100.0,Polish <community-poland@mozilla.org>
+mingw-glib2,7306,0,0,1155,0,0,7474,7306,100.0,Polish <community-poland@mozilla.org>
+mingw-gnutls,1784,31,3,384,9,1,1636,1818,98.12981298129813,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-goocanvas2,1864,0,0,283,0,0,1432,1864,100.0,Polish <community-poland@mozilla.org>
+mingw-gstreamer,1914,3,0,347,1,0,1810,1917,99.8435054773083,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,96,0,0,14,0,0,106,96,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gstreamer-plugins-base,902,0,6,176,0,2,861,908,99.33920704845815,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,827,814,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gstreamer1,2078,0,0,375,0,0,1967,2078,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,194,0,3,28,0,1,216,197,98.47715736040608,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,939,5,24,196,1,5,903,968,97.00413223140497,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,726,25,43,89,4,4,711,794,91.43576826196474,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-gtk-vnc,8,0,0,3,0,0,10,8,100.0,Polish <community-poland@mozilla.org>
+mingw-gtk2,12492,0,0,2591,0,0,11456,12492,100.0,Polish <community-poland@mozilla.org>
+mingw-gtk3,16684,0,0,3923,0,0,15538,16684,100.0,Polish <community-poland@mozilla.org>
+mingw-gtksourceview3,322,0,0,106,0,0,317,322,100.0,Polish <community-poland@mozilla.org>
+mingw-gtkspell3,15,0,0,6,0,0,16,15,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-hunspell,613,0,0,79,0,0,599,613,100.0,Polish <community-poland@mozilla.org>
+mingw-json-glib,303,0,0,44,0,0,270,303,100.0,Polish <community-poland@mozilla.org>
+mingw-libcharset,303,33,0,45,1,0,301,336,90.17857142857143,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-libgovirt,103,0,0,23,0,0,113,103,100.0,Polish <community-poland@mozilla.org>
+mingw-libgpg-error,1420,4,0,444,2,0,1482,1424,99.71910112359551,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-libgsf,720,0,0,150,0,0,696,720,100.0,Polish <community-poland@mozilla.org>
+mingw-libidn,414,0,14,58,0,2,424,428,96.72897196261682,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-libidn2,250,62,3,35,4,1,253,315,79.36507936507937,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-libosinfo,755,0,28,163,0,5,743,783,96.42401021711366,Polish (http://www.transifex.com/projects/p/libosinfo/language/pl/)
+mingw-libsoup,179,0,0,40,0,0,190,179,100.0,Polish <community-poland@mozilla.org>
+mingw-libvirt,13876,0,0,2502,0,0,14605,13876,100.0,Polish (http://www.transifex.com/projects/p/fedora/language/pl/)
+mingw-libvirt-glib,153,0,5,30,0,1,158,158,96.83544303797468,Polish (http://www.transifex.com/projects/p/libvirt-glib/language/pl/)
+mingw-osinfo-db-tools,222,0,0,43,0,0,235,222,100.0,Polish (http://www.transifex.com/projects/p/libosinfo/language/pl/)
+mingw-p11-kit,476,0,0,81,0,0,415,476,100.0,Polish (http://www.transifex.com/freedesktop/p11-kit/language/pl/)
+mingw-postgresql,57424,1355,838,8051,169,75,57037,59617,96.32151902980694,begina.felicysym@wp.eu
+mingw-sane-backends,4239,393,1176,881,125,197,3979,5808,72.98553719008265,Polish <translation-team-pl@lists.sourceforge.net>
+mingw-wxWidgets,5330,496,675,1118,143,244,5320,6501,81.98738655591448,wxWidgets translators <wx-translators@wxwidgets.org>
+mingw-wxWidgets3,7667,71,67,1790,47,46,7525,7805,98.23190262652146,wxWidgets translators <wx-translators@wxwidgets.org>
+mingw-xz,1360,0,32,156,0,5,1303,1392,97.70114942528735,Polish <translation-team-pl@lists.sourceforge.net>
+minicom,1574,215,0,387,4,0,1586,1789,87.98211291224148,Polish <translation-team-pl@lists.sourceforge.net>
+minigalaxy,227,0,0,76,0,0,230,227,100.0,Artur Wróblewski
+minuet,412,0,0,159,0,0,399,412,100.0,Polish <kde-i18n-doc@kde.org>
+mirage,608,146,63,186,51,8,593,817,74.4186046511628,Polish <dominikowski@gmail.com>
+mkvtoolnix,24462,1532,15077,2964,247,629,22951,41071,59.56027367242093,Polish (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/pl/)
+mlocate,406,175,0,50,1,0,426,581,69.87951807228916,Polish <trans-pl@lists.fedoraproject.org>
+modem-manager-gui,946,0,5528,191,0,916,974,6474,14.6122953351869,Polish (http://www.transifex.com/ethereal/modem-manager-gui/language/pl/)
+monodevelop,1889,8861,12548,651,2664,1983,1794,23298,8.10799210232638,Polish <gnomepl@pandora.info.bielsko.pl>
+moodle,0,39,13,0,7,7,0,52,0.0,i18n@lists.horde.org
+moserial,2484,0,0,234,0,0,2216,2484,100.0,Polish <community-poland@mozilla.org>
+mousepad,1108,0,0,310,0,0,1055,1108,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+mousetweaks,131,0,0,34,0,0,132,131,100.0,Polish <community-poland@mozilla.org>
+mozo,43,0,0,17,0,0,41,43,100.0,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+msitools,72,0,0,26,0,0,78,72,100.0,Polish <community-poland@mozilla.org>
+mtpaint,1831,0,1628,573,0,434,1660,3459,52.9343740965597,Polish <pl@li.org>
+mu,1898,0,0,252,0,0,1772,1898,100.0,polski <pypolska@python.org>
+muffin,2071,0,0,283,0,0,2080,2071,100.0,Polish <gnomepl@aviary.pl>
+multimedia-menus,56,0,0,22,0,0,69,56,100.0,Polish <fedora-trans-pl@redhat.com>
+mutt,6561,0,0,1384,0,0,6615,6561,100.0,Polish <mutt-po@mutt.org>
+mutter,1219,0,0,144,0,0,1196,1219,100.0,Polish <community-poland@mozilla.org>
+mypaint,4770,719,1084,967,173,140,4209,6573,72.56960292104063,Polish <https://hosted.weblate.org/projects/mypaint/mypaint/pl/>
+nano,3160,0,172,551,0,43,2885,3332,94.83793517406963,Polish <translation-team-pl@lists.sourceforge.net>
+nautilus,5649,0,0,1126,0,0,5686,5649,100.0,Polish <community-poland@mozilla.org>
+nautilus-image-converter,42,0,0,19,0,0,46,42,100.0,Polish
+nautilus-sendto,56,0,0,10,0,0,61,56,100.0,Polish <community-poland@mozilla.org>
+ncmpc,701,2,10,270,2,4,739,713,98.31697054698458,Polish <https://hosted.weblate.org/projects/ncmpc/translations/pl/>
+nemiver,1341,0,0,340,0,0,1271,1341,100.0,Polish <gnomepl@aviary.pl>
+nemo-extensions,258,0,0,49,0,0,241,258,100.0,Polish <pl@li.org>
+neon,662,24,20,131,3,4,676,706,93.76770538243626,Polish Neon Translator Arfrever Frehtes Taifersar Arahesis <Arfrever.FTA@gmail.com>
+neovim,6714,97,11,1357,12,2,6788,6822,98.41688654353563,
+network-manager-applet,4478,0,0,919,0,0,4221,4478,100.0,Polish <community-poland@mozilla.org>
+neverball,2341,0,394,291,0,68,2013,2735,85.59414990859231,Polish (http://www.transifex.com/projects/p/neverball/language/pl/)
+newsbeuter,1206,100,36,316,12,6,1231,1342,89.86587183308494,Polish <pl@li.org>
+newsboat,1423,52,86,338,12,8,1448,1561,91.1595131326073,Polish <pl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Polish <pl@li.org>
+nfoview,115,0,0,42,0,0,120,115,100.0,Polish (http://www.transifex.com/otsaloma/nfoview/language/pl/)
+nicotine+,5192,0,416,1066,0,263,4889,5608,92.58202567760343,
+nitrogen,84,0,128,36,0,17,85,212,39.62264150943396,
+nmap,3521,0,1,480,0,1,3249,3522,99.97160704145372,
+notejot,17,0,31,13,0,7,17,48,35.41666666666667,
+notification-daemon,33,0,0,11,0,0,30,33,100.0,Polish <gnomepl@aviary.pl>
+novnc,127,0,0,67,0,0,137,127,100.0,Polish
+nuntius,47,0,0,4,0,0,44,47,100.0,Polish <gnomepl@aviary.pl>
+nutty,243,6,359,99,3,50,230,608,39.96710526315789,Polish <https://hosted.weblate.org/projects/nutty/translations/pl/>
+obconf,686,0,52,144,0,12,624,738,92.95392953929539,Polish <LL@li.org>
+office-runner,125,0,0,21,0,0,98,125,100.0,Polish <gnomepl@aviary.pl>
+okteta,2527,0,0,613,0,0,2291,2527,100.0,Polish <kde-i18n-doc@kde.org>
+okular,5058,0,0,1044,0,0,4727,5058,100.0,Polish <kde-i18n-doc@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,157,158,100.0,LANGUAGE <LL@li.org>
+onboard,1904,0,414,458,0,52,1899,2318,82.13977566867989,polski <>
+openbox,475,0,31,90,0,4,444,506,93.87351778656127,polski <kuboslawik@gmail.com>
+openconnect,6701,0,76,1154,0,9,7381,6777,98.87855983473514,Polish <community-poland@mozilla.org>
+openscad,804,135,427,275,28,120,784,1366,58.85797950219619,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2360,0,571,1000,0,30,2222,2931,80.51859433640396,Polish (http://www.transifex.com/projects/p/xfce-apps/language/pl/)
+orca,5717,0,0,1887,0,0,5985,5717,100.0,Polish <community-poland@mozilla.org>
+origin,6,0,0,2,0,0,6,6,100.0,Polish <pl@li.org>
+oscap-anaconda-addon,166,0,225,34,0,17,167,391,42.45524296675192,Polish (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/pl/)
+osinfo-db-tools,222,0,0,43,0,0,235,222,100.0,Polish (http://www.transifex.com/projects/p/libosinfo/language/pl/)
+osmo,1620,0,151,664,0,34,1589,1771,91.47374364765669,Polish
+p11-kit,476,0,0,81,0,0,415,476,100.0,Polish (http://www.transifex.com/freedesktop/p11-kit/language/pl/)
+pacman,4829,28,342,840,1,58,4922,5199,92.88324677822658,Polish (http://www.transifex.com/toofishes/archlinux-pacman/language/pl/)
+pal,1133,0,18,205,0,2,1101,1151,98.43614248479582,Polish pl
+palapeli,1512,0,0,180,0,0,1323,1512,100.0,Polish <kde-i18n-doc@kde.org>
+pam,595,2,0,119,1,0,591,597,99.66499162479062,Polish <trans-pl@lists.fedoraproject.org>
+pan,3509,0,0,805,0,0,3588,3509,100.0,Polish <community-poland@mozilla.org>
+pantheon-agent-geoclue2,47,0,54,13,0,5,41,101,46.53465346534654,Polish <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/pl/>
+pantheon-agent-polkit,20,2,26,10,1,4,22,48,41.66666666666667,LANGUAGE <LL@li.org>
+paprefs,136,0,0,24,0,0,124,136,100.0,Polish <trans-pl@lists.fedoraproject.org>
+parcellite,278,4,30,99,2,3,286,312,89.1025641025641,none <pankamyk@o2.pl>
+parley,3850,0,0,753,0,0,3486,3850,100.0,Polish <kde-i18n-doc@kde.org>
+parole,1088,0,0,301,0,0,1114,1088,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+parted,4216,178,280,529,19,22,4057,4674,90.20111253744116,Polish <translation-team-pl@lists.sourceforge.net>
+passwd,329,0,7,56,0,1,321,336,97.91666666666666,Polish <trans-pl@lists.fedoraproject.org>
+pastebinit,171,0,24,26,0,3,170,195,87.6923076923077,Polish <pl@li.org>
+pavucontrol,428,0,0,135,0,0,528,428,100.0,Polish <trans-pl@lists.fedoraproject.org>
+pdf2djvu,1934,0,0,334,0,0,1854,1934,100.0,none
+pdfarranger,105,46,174,52,14,54,103,325,32.30769230769231,Polish (Poland) (http://www.transifex.com/logari81/pdfshuffler/language/pl_PL/)
+pdfmod,814,0,0,121,0,0,779,814,100.0,Polish
+peek,487,25,52,83,8,6,438,564,86.34751773049646,Polish <https://hosted.weblate.org/projects/peek/translations/pl/>
+perl-Padre,708,985,3840,275,354,631,713,5533,12.795951563347192,Polish <>
+pgadmin3,21954,504,675,5463,145,244,21054,23133,94.90338477499675,begina.felicysym@wp.eu
+phd2,12118,0,7423,2715,0,839,11586,19541,62.01320300905788,Jakub Bartas <jakub.bartas@gmail.com>
+phodav,63,0,0,17,0,0,81,63,100.0,Polish <community-poland@mozilla.org>
+phonon,327,0,0,59,0,0,306,327,100.0,Polish <kde-i18n-doc@kde.org>
+phonon-backend-gstreamer,104,0,0,15,0,0,99,104,100.0,Polish <kde-i18n-doc@kde.org>
+phonon-qt4,116,0,0,25,0,0,116,116,100.0,Polish <kde-i18n-doc@kde.org>
+phonon-qt4-backend-gstreamer,104,0,0,15,0,0,99,104,100.0,Polish <kde-i18n-doc@kde.org>
+phosh,48,0,26,16,0,15,53,74,64.86486486486487,Polish
+php-horde-Horde-Alarm,13,0,0,5,0,0,12,13,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,1,3,56,1,3,9,1,60,1.6666666666666667,i18n@lists.horde.org
+php-horde-Horde-Auth,209,0,0,15,0,0,243,209,100.0,Polish <pl@li.org>
+php-horde-Horde-Browser,7,0,59,2,0,4,8,66,10.606060606060606,i18n@lists.horde.org
+php-horde-Horde-Cli,8,0,3,2,0,1,7,11,72.72727272727273,i18n@lists.horde.org
+php-horde-Horde-Compress,7,18,0,2,4,0,7,25,28.000000000000004,i18n@lists.horde.org
+php-horde-Horde-Core,771,0,0,211,0,0,714,771,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,198,81,117,52,19,26,193,396,50.0,i18n@lists.horde.org
+php-horde-Horde-Data,5,2,0,1,1,0,4,7,71.42857142857143,i18n@lists.horde.org
+php-horde-Horde-Date,4,12,20,4,3,4,7,36,11.11111111111111,i18n@lists.horde.org
+php-horde-Horde-Exception,0,4,0,0,2,0,0,4,0.0,i18n@lists.horde.org
+php-horde-Horde-Form,141,206,206,44,66,36,132,553,25.49728752260398,i18n@lists.horde.org
+php-horde-Horde-Icalendar,0,3,0,0,1,0,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Image,9,112,460,9,72,204,9,581,1.549053356282272,i18n@lists.horde.org
+php-horde-Horde-Imsp,0,14,0,0,2,0,0,14,0.0,i18n@lists.horde.org
+php-horde-Horde-Itip,0,1,55,0,1,9,0,56,0.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,10,6,104,1,1,7,11,120,8.333333333333332,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,10,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,0,35,13,0,5,7,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,1,4,42,1,3,16,1,47,2.127659574468085,i18n@lists.horde.org
+php-horde-Horde-Nls,344,36,50,227,15,21,304,430,80.0,i18n@lists.horde.org
+php-horde-Horde-Perms,5,1,0,4,1,0,5,6,83.33333333333334,i18n@lists.horde.org
+php-horde-Horde-Prefs,15,17,0,6,2,0,14,32,46.875,i18n@lists.horde.org
+php-horde-Horde-Rpc,0,17,31,0,3,4,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Share,4,19,25,4,3,5,4,48,8.333333333333332,i18n@lists.horde.org
+php-horde-Horde-SyncMl,0,3,0,0,1,0,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,0,1,0,0,1,0,0,1,0.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,35,0,0,2,0,35,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,0,7,3,0,2,1,0,10,0.0,i18n@lists.horde.org
+php-horde-horde,3441,0,0,853,0,0,3187,3441,100.0,Polish <pl@li.org>
+php-horde-imp,6742,0,0,1382,0,0,6411,6742,100.0,Polish <i18n@lists.horde.org>
+php-horde-ingo,1003,0,0,260,0,0,984,1003,100.0,i18n@lists.horde.org
+php-horde-kronolith,3790,0,0,789,0,0,3444,3790,100.0,i18n@lists.horde.org
+php-horde-mnemo,570,0,0,145,0,0,529,570,100.0,Polish <i18n@lists.horde.org>
+php-horde-nag,1601,0,0,376,0,0,1481,1601,100.0,i18n@lists.horde.org
+php-horde-passwd,342,0,0,65,0,0,325,342,100.0,Polish <i18n@lists.horde.org>
+php-horde-turba,1835,0,0,435,0,0,1778,1835,100.0,i18n@lists.horde.org
+php-phpmyadmin-sql-parser5,229,23,16,43,5,2,176,268,85.44776119402985,Polish <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/pl/>
+picard,2991,0,7710,1148,0,1890,2972,10701,27.950658816933,Polish (http://www.transifex.com/musicbrainz/musicbrainz/language/pl/)
+picmi,197,0,0,114,0,0,202,197,100.0,Polish <kde-i18n-doc@kde.org>
+pidgin,15746,10,0,3432,1,0,15322,15756,99.93653211474994,Polish (http://www.transifex.com/pidgin/pidgin/language/pl/)
+pidgin-birthday-reminder,289,0,0,66,0,0,304,289,100.0,Polish (https://www.transifex.com/kgraefe/teams/58292/pl/)
+pidgin-libnotify,36,0,0,12,0,0,36,36,100.0,Polish <pl@li.org>
+pidgin-musictracker,217,0,116,58,0,2,215,333,65.16516516516516,Polish <pl@li.org>
+pidgin-otr,686,0,0,117,0,0,618,686,100.0,Paweł Czochański <czochanski@gmail.com>
+pidgin-privacy-please,178,0,0,36,0,0,166,178,100.0,Polish
+pidgin-sipe,1119,0,0,273,0,0,1122,1119,100.0,Polish (http://www.transifex.com/stefanb/pidgin-sipe/language/pl/)
+pidgin-toobars,299,0,0,91,0,0,256,299,100.0,
+pim-data-exporter,750,0,0,188,0,0,757,750,100.0,Polish <kde-i18n-doc@kde.org>
+pim-sieve-editor,432,0,0,115,0,0,411,432,100.0,Polish <kde-i18n-doc@kde.org>
+pinfo,307,14,0,51,3,0,319,321,95.6386292834891,
+pingus,539,6,4850,111,1,334,408,5395,9.990732159406859,Polish <pl@li.org>
+pinta,1396,0,290,521,0,11,1494,1686,82.79952550415184,Polish <pl@li.org>
+piper,492,0,0,116,0,0,474,492,100.0,Polish <community-poland@mozilla.org>
+pitivi,2033,0,0,386,0,0,1976,2033,100.0,Polish <community-poland@mozilla.org>
+plank,189,0,0,50,0,0,205,189,100.0,Polish <>
+plasma-applet-weather-widget,166,0,0,56,0,0,201,166,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-breeze,266,0,0,101,0,0,279,266,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-browser-integration,105,0,0,22,0,0,89,105,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-desktop,11340,129,179,2318,29,39,10482,11648,97.35576923076923,Polish <kde-i18n-doc@kde.org>
+plasma-discover,1453,34,19,429,9,3,1424,1506,96.48074369189908,Polish <kde-i18n-doc@kde.org>
+plasma-drkonqi,3966,0,0,352,0,0,3448,3966,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-integration,58,0,0,21,0,0,56,58,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,187,172,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-milou,42,0,0,17,0,0,41,42,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-nm,4900,71,62,1217,11,19,4727,5033,97.35744089012516,Polish <kde-i18n-doc@kde.org>
+plasma-oxygen,807,0,0,294,0,0,854,807,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-pa,232,0,0,85,0,0,230,232,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-pass,26,0,0,5,0,0,30,26,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-pk-updates,2077,4,0,399,1,0,1869,2081,99.80778471888515,Polish <kde-i18n-doc@kde.org>
+plasma-sdk,875,8,0,256,3,0,871,883,99.09399773499433,Polish <kde-i18n-doc@kde.org>
+plasma-systemsettings,199,0,0,52,0,0,190,199,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-thunderbolt,178,0,0,42,0,0,170,178,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-user-manager,141,0,0,39,0,0,133,141,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-vault,690,0,0,83,0,0,594,690,100.0,Polish <kde-i18n-doc@kde.org>
+plasma-workspace,7319,141,128,2336,14,42,7147,7588,96.45492883500265,Polish <kde-i18n-doc@kde.org>
+playonlinux,2459,0,269,420,0,29,2120,2728,90.13929618768329,pl_PL.UTF-8 <LL@li.org>
+pluma,5802,0,7318,1330,0,746,5783,13120,44.22256097560975,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+plymouth,12,2,0,4,1,0,10,14,85.71428571428571,Polish
+plymouth-kcm,117,0,0,25,0,0,111,117,100.0,Polish <kde-i18n-doc@kde.org>
+pmount,723,0,0,63,0,0,689,723,100.0,Polish <pl@li.org>
+po4a,15206,3517,7092,1143,179,262,13279,25815,58.9037381367422,Polish <https://hosted.weblate.org/projects/po4a/po4a/pl/>
+poedit,2791,0,0,622,0,0,2768,2791,100.0,Polish
+pogo,440,0,136,75,0,26,388,576,76.38888888888889,Polish <pl@li.org>
+polari,2008,0,0,259,0,0,1802,2008,100.0,Polish <community-poland@mozilla.org>
+policycoreutils,236,0,0,28,0,0,223,236,100.0,Polish
+polkit,230,0,0,26,0,0,229,230,100.0,Polish <community-poland@mozilla.org>
+polkit-gnome,94,0,0,16,0,0,76,94,100.0,Polish <gnomepl@aviary.pl>
+polkit-kde,95,0,0,30,0,0,91,95,100.0,Polish <kde-i18n-doc@kde.org>
+popt,78,0,6,29,0,2,76,84,92.85714285714286,Polish <translation-team-pl@lists.sourceforge.net>
+postgis,2722,1424,161206,497,111,8588,2699,165352,1.6461851081329526,Polish (http://www.transifex.com/projects/p/postgis-1/language/pl/)
+postgresql,57424,1355,838,8051,169,75,57037,59617,96.32151902980694,begina.felicysym@wp.eu
+postgresql-jdbc,578,269,1735,65,34,216,509,2582,22.38574748257165,<pl@li.org>
+poweradmin,1373,0,0,218,0,0,1047,1373,100.0,poweradmin polish <krzysztof.laska@steamworx.pl>
+powerdevil,579,30,0,125,2,0,557,609,95.07389162561576,Polish <kde-i18n-doc@kde.org>
+powertop,292,85,321,87,30,85,278,698,41.833810888252145,Polish (Poland) (http://www.transifex.com/projects/p/PowerTOP/language/pl_PL/)
+pragha,268,0,622,104,0,172,261,890,30.112359550561795,Polish (http://www.transifex.com/p/Pragha/language/pl/)
+prewikka,339,169,1136,214,89,230,367,1644,20.62043795620438,Polish
+procps-ng,4640,0,0,805,0,0,4651,4640,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+prusa-slicer,15134,0,1,2113,0,1,13717,15135,99.99339279814998,
+psad,493,0,0,30,0,0,488,493,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+psmisc,1028,0,0,96,0,0,1030,1028,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+pspp,9277,614,442,1814,120,71,9101,10333,89.7803154940482,Polish <translation-team-pl@lists.sourceforge.net>
+publican,3563,296,1584,386,37,193,3478,5443,65.46022414109865,Polish <trans-pl@lists.fedoraproject.org>
+pulseaudio,3616,0,0,533,0,0,3620,3616,100.0,Polish <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/pl/>
+pulsecaster,214,0,0,21,0,0,181,214,100.0,Polish (http://www.transifex.com/stickster/pulsecaster/language/pl/)
+pulseeffects,432,102,202,203,58,90,412,736,58.69565217391305,
+purple-telegram,656,0,0,138,0,0,701,656,100.0,Polish (Poland) (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/pl_PL/)
+pv,186,57,232,43,10,44,212,475,39.1578947368421,LANGUAGE <LL@li.org>
+pychess,2703,0,6207,585,0,1173,2391,8910,30.336700336700336,Polish (http://www.transifex.com/gbtami/pychess/language/pl/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,1493,70,55,171,4,3,1403,1618,92.27441285537701,Polish <https://translate.stg.fedoraproject.org/projects/pykickstart/master/pl/>
+python-SecretStorage,59,0,0,9,0,0,49,59,100.0,Polish <community-poland@mozilla.org>
+python-blivet,558,0,0,76,0,0,560,558,100.0,Polish (http://www.transifex.com/projects/p/blivet/language/pl/)
+python-caja,6,0,1,2,0,1,6,7,85.71428571428571,Polish (https://www.transifex.com/mate/teams/13566/pl/)
+python-colander,117,8,36,23,2,5,108,161,72.67080745341616,pl <LL@li.org>
+python-django,3771,0,0,861,0,0,4121,3771,100.0,Polish (http://www.transifex.com/django/django/language/pl/)
+python-django-contrib-comments,250,0,0,61,0,0,274,250,100.0,Polish (http://www.transifex.com/django/django-contrib-comments/language/pl/)
+python-django-debug-toolbar,147,0,210,72,0,65,175,357,41.17647058823529,Polish (http://www.transifex.com/projects/p/django-debug-toolbar/language/pl/)
+python-django-filter,62,6,17,27,5,9,56,85,72.94117647058823,Adam Dobrawy <naczelnik@jawnosc.tk>
+python-django-formtools,15,0,17,5,0,6,14,32,46.875,Polish (http://www.transifex.com/projects/p/django-formtools/language/pl/)
+python-django-helpdesk,2845,0,396,475,0,35,2690,3241,87.78154890465906,Polish (http://www.transifex.com/django-helpdesk/django-helpdesk/language/pl/)
+python-django-markdownx,16,10,0,8,1,0,17,26,61.53846153846154,LANGUAGE <LL@li.org>
+python-django-mptt,210,0,0,28,0,0,197,210,100.0,LANGUAGE <LL@li.org>
+python-django-post_office,77,0,0,46,0,0,80,77,100.0,LANGUAGE <LL@li.org>
+python-django-registration,81,0,0,15,0,0,74,81,100.0,Polish <LL@li.org>
+python-django-rest-framework,582,0,0,101,0,0,578,582,100.0,Polish (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/pl/)
+python-django-reversion,121,0,0,22,0,0,104,121,100.0,LANGUAGE <LL@li.org>
+python-django-simple-captcha,11,0,0,3,0,0,12,11,100.0,Polisch
+python-django-tables2,2,0,0,2,0,0,2,2,100.0,Polish <michal.dtz@gmail.com>
+python-fedora,214,0,0,29,0,0,183,214,100.0,Polish (http://www.transifex.com/projects/p/python-fedora/language/pl/)
+python-flask-admin,360,0,7,108,0,4,362,367,98.09264305177112,Polish
+python-formencode,810,0,3,113,0,2,681,813,99.63099630996311,Robert Wojciechowicz <rw@smsnet.pl>
+python-meh,109,0,0,23,0,0,85,109,100.0,Polish (http://www.transifex.com/projects/p/python-meh/language/pl/)
+python-nikola,94,0,0,44,0,0,97,94,100.0,Polish (http://www.transifex.com/ralsina/nikola/language/pl/)
+python-oslo-i18n,6,0,0,1,0,0,5,6,100.0,Polish (Poland)
+python-simpleline,42,0,0,16,0,0,39,42,100.0,Polish
+python-sphinx,1923,0,2509,401,0,287,1864,4432,43.38898916967509,Polish (http://www.transifex.com/sphinx-doc/sphinx-1/language/pl/)
+python-sphinxcontrib-applehelp,6,0,83,2,0,12,6,89,6.741573033707865,Polish (https://www.transifex.com/sphinx-doc/teams/36659/pl/)
+python-sphinxcontrib-devhelp,15,0,3,1,0,1,14,18,83.33333333333334,Polish (https://www.transifex.com/sphinx-doc/teams/36659/pl/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Polish (https://www.transifex.com/sphinx-doc/teams/36659/pl/)
+python-sphinxcontrib-qthelp,3,0,30,1,0,2,3,33,9.090909090909092,Polish (https://www.transifex.com/sphinx-doc/teams/36659/pl/)
+python-sphinxcontrib-serializinghtml,9,0,9,1,0,1,7,18,50.0,Polish (https://www.transifex.com/sphinx-doc/teams/36659/pl/)
+python-uranium,643,0,27,138,0,4,555,670,95.97014925373134,reprapy.pl
+python-uranium-lulzbot,382,0,22,116,0,2,369,404,94.55445544554455,
+python-wtforms,178,0,10,33,0,2,178,188,94.68085106382979,pl <wolanskim@gmail.com>
+python-wxpython4,7667,71,67,1790,47,46,7525,7805,98.23190262652146,wxWidgets translators <wx-translators@wxwidgets.org>
+qtwebkit,1472,0,0,343,0,0,1400,1472,100.0,Polish <gnomepl@aviary.pl>
+quadrapassel,1448,0,0,174,0,0,1193,1448,100.0,Polish <community-poland@mozilla.org>
+quarry,1802,5,0,446,1,0,1824,1807,99.72329828444937,Polish <pl@li.org>
+quassel,3155,0,4623,684,0,966,2935,7778,40.56312676780664,Polish (http://www.transifex.com/quassel/quassel/language/pl/)
+quilter,529,69,148,98,34,37,471,746,70.91152815013405,
+quodlibet,6248,0,0,1453,0,0,6109,6248,100.0,Polish <community-poland@mozilla.org>
+quota,3628,1057,165,483,53,33,3851,4850,74.80412371134021,Polish <translation-team-pl@lists.sourceforge.net>
+rabbitvcs,939,0,585,313,0,159,866,1524,61.61417322834646,Polish <pl@li.org>
+rapid-photo-downloader,2775,0,4812,537,0,315,2637,7587,36.57572162910242,Polish <pl@li.org>
+rawstudio,1315,216,75,417,71,14,1317,1606,81.88044831880448,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,789,0,0,127,0,0,802,789,100.0,Polish (http://www.transifex.com/freedesktop/realmd/language/pl/)
+recode,605,156,0,75,2,0,641,761,79.5006570302234,Polish <translation-team-pl@lists.sourceforge.net>
+redhat-menus,261,0,0,86,0,0,259,261,100.0,Polish <fedora-trans-pl@redhat.com>
+rednotebook,1147,0,0,240,0,0,1110,1147,100.0,Polish <pl@li.org>
+redshift,806,0,222,145,0,6,808,1028,78.40466926070039,Polish <pl@li.org>
+regexxer,466,0,1,99,0,1,450,467,99.78586723768737,Polish <pl@li.org>
+rekonq,1871,298,33,527,59,7,1879,2202,84.96821071752952,Polish <kde-i18n-doc@kde.org>
+remmina,3069,252,469,705,32,54,3014,3790,80.97625329815304,Polish <https://hosted.weblate.org/projects/remmina/remmina/pl/>
+renameutils,265,0,0,54,0,0,266,265,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+resapplet,72,34,0,21,1,0,62,106,67.9245283018868,<pl@li.org>
+retrace-server,433,0,0,56,0,0,375,433,100.0,Polish <https://translate.fedoraproject.org/projects/abrt/retrace-server/pl/>
+revelation,1480,187,760,310,37,100,1286,2427,60.980634528224144,Polish (http://www.transifex.com/hey_neken/revelation/language/pl/)
+rhythmbox,3777,0,0,968,0,0,3894,3777,100.0,Polish <community-poland@mozilla.org>
+rhythmbox-alternative-toolbar,288,0,6,56,0,4,256,294,97.95918367346938,polski <>
+ristretto,607,0,0,195,0,0,601,607,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+rkward,34976,306,775,3966,42,44,31305,36057,97.00196910447347,Polish <kde-i18n-doc@kde.org>
+rocs,1453,0,0,303,0,0,1316,1453,100.0,Polish <kde-i18n-doc@kde.org>
+rpm,4443,86,7,853,18,2,4609,4536,97.94973544973546,Polish (http://www.transifex.com/rpm-team/rpm/language/pl/)
+rpm-ostree,1186,0,0,190,0,0,1294,1186,100.0,Polish <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/pl/>
+rsibreak,1175,0,0,158,0,0,1005,1175,100.0,Polish <kde-i18n-doc@kde.org>
+rt,4955,0,6741,1405,0,1237,5192,11696,42.36491108071135,Polish <pl@li.org>
+rust,1374,0,0,158,0,0,1319,1374,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+rygel,1624,0,0,303,0,0,1843,1624,100.0,Polish <community-poland@mozilla.org>
+sakura,172,5,26,60,2,6,169,203,84.72906403940887,Polish <pl@li.org>
+samba,187,67,270,31,18,79,189,524,35.68702290076336,Novell Language <language@novell.com>
+sane-backends,4199,492,1269,875,147,216,3943,5960,70.45302013422818,Polish <translation-team-pl@lists.sourceforge.net>
+sawfish,1974,1744,2725,458,321,203,1799,6443,30.637901598634176,Polish <pl@li.org>
+scilab,19635,0,32284,3031,0,4580,19158,51919,37.818525010111905,Polish <pl@li.org>
+scratch,1467,0,3,625,0,1,1492,1470,99.79591836734694,LANGUAGE <LL@li.org>
+scummvm,4967,671,1213,1054,164,168,4599,6851,72.50036491023208,Polish <https://translations.scummvm.org/projects/scummvm/scummvm/pl/>
+sddm-kcm,143,0,0,40,0,0,132,143,100.0,Polish <kde-i18n-doc@kde.org>
+seahorse,9164,0,0,1003,0,0,7555,9164,100.0,Polish <community-poland@mozilla.org>
+seahorse-caja,487,0,0,121,0,0,507,487,100.0,Polish <gnomepl@aviary.pl>
+seahorse-nautilus,487,0,0,121,0,0,507,487,100.0,Polish <gnomepl@aviary.pl>
+seahorse-sharing,97,0,0,22,0,0,99,97,100.0,Polish <gnomepl@aviary.pl>
+sed,443,94,251,77,12,48,471,788,56.21827411167513,Polish <translation-team-pl@lists.sourceforge.net>
+sensible-utils,61,18,27,12,1,2,64,106,57.54716981132076,Polish <debian-l10n-polish@lists.debian.org>
+setroubleshoot,635,0,0,167,0,0,638,635,100.0,Polish (http://www.transifex.com/projects/p/fedora/language/pl/)
+setroubleshoot-plugins,6246,0,0,226,0,0,5210,6246,100.0,Polish (http://www.transifex.com/projects/p/fedora/language/pl/)
+setuptool,55,0,0,14,0,0,52,55,100.0,Polish <fedora-trans-pl@redhat.com>
+sflphone,2604,0,563,668,0,145,2462,3167,82.22292390274708,Polish <pl@li.org>
+shadow-utils,2980,2973,15438,515,442,954,2845,21391,13.93109251554392,Polish <translation-team-pl@lists.sourceforge.net>
+shared-mime-info,1991,0,0,773,0,0,2215,1991,100.0,Polish (http://www.transifex.com/freedesktop/shared-mime-info/language/pl/)
+sharutils,2974,173,0,299,5,0,2748,3147,94.50270098506515,Polish <translation-team-pl@lists.sourceforge.net>
+shotwell,6977,0,0,1275,0,0,7283,6977,100.0,Polish <community-poland@mozilla.org>
+shutter,3093,0,0,606,0,0,3073,3093,100.0,Polish <pl@li.org>
+simple-ccsm,150,0,12,61,0,3,148,162,92.5925925925926,Polish <pl@li.org>
+simple-scan,2072,0,0,298,0,0,1836,2072,100.0,Polish <community-poland@mozilla.org>
+siril,6187,1806,5752,912,313,368,5639,13745,45.012731902510005,
+skanlite,186,0,0,63,0,0,181,186,100.0,Polish <kde-i18n-doc@kde.org>
+skrooge,11875,93,43,2466,3,4,10596,12011,98.86770460411289,Polish <kde-i18n-doc@kde.org>
+skychart,507,62,1133,113,3,245,469,1702,29.788484136310224,
+slick-greeter,211,0,0,47,0,0,174,211,100.0,Polish <pl@li.org>
+slrn,4509,563,279,824,48,78,4268,5351,84.264623434872,Polish <pl@li.org>
+smb4k,6046,0,0,667,0,0,5286,6046,100.0,Polish <kde-i18n-doc@kde.org>
+snapd,0,0,4307,0,0,481,0,4307,0.0,Polish <pl@li.org>
+snapper,827,0,0,200,0,0,893,827,100.0,Polish <https://l10n.opensuse.org/projects/snapper/master/pl/>
+snownews,791,0,0,163,0,0,728,791,100.0,Polish <pox@wp.pl>
+solaar,1105,0,0,263,0,0,1087,1105,100.0,none
+sos,122,0,0,30,0,0,109,122,100.0,Polish <trans-pl@lists.fedoraproject.org>
+sound-juicer,3563,0,0,328,0,0,3409,3563,100.0,Polish <community-poland@mozilla.org>
+soundconverter,271,97,139,105,10,14,268,507,53.4516765285996,polski <>
+soundkonverter,4062,0,0,570,0,0,3661,4062,100.0,Polish (Poland) (http://www.transifex.com/hessijames/soundkonverter/language/pl_PL/)
+soundtracker,1005,550,1729,302,148,309,946,3284,30.602923264311816,Polish <translation-team-pl@lists.sourceforge.net>
+spacefm,3714,0,5362,1285,0,339,3746,9076,40.921110621419125,Polish (http://www.transifex.com/projects/p/spacefm/language/pl/)
+sparkleshare,402,0,0,87,0,0,383,402,100.0,
+spectacle,696,0,0,157,0,0,691,696,100.0,Polish <kde-i18n-doc@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Polish (http://www.transifex.com/heldercorreia/speedcrunch/language/pl/)
+springlobby,1357,0,3213,465,0,742,1198,4570,29.693654266958426,Polish <pl@li.org>
+squirrelmail,6665,0,1546,1493,0,125,6290,8211,81.17159907441237,Polish <squirrelmail-i18n@lists.sourceforge.net>
+sscg,78,0,16,29,0,5,76,94,82.97872340425532,Polish <translation-team-pl@lists.sourceforge.net>
+sssd,5014,0,0,723,0,0,4664,5014,100.0,Polish <https://translate.fedoraproject.org/projects/sssd/sssd-master/pl/>
+stellarium,27303,0,101350,6401,0,29487,25363,128653,21.222202358281578,Polish (https://www.transifex.com/stellarium/teams/80998/pl/)
+step,1885,0,0,672,0,0,1801,1885,100.0,Polish <kde-i18n-doc@kde.org>
+stratagus,211,8,26,59,2,8,205,245,86.12244897959184,Polish <LL@li.org>
+strawberry,4541,0,14,1204,0,6,4326,4555,99.69264544456641,Polish
+subtitleeditor,3188,0,130,829,0,18,3032,3318,96.08197709463532,Polish <none@none.org>
+subversion,11412,9349,14529,1578,862,861,11807,35290,32.33777274015302,Polish <dev@subversion.tigris.org>
+sudo,5223,0,0,764,0,0,5248,5223,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+sugar,2305,0,0,529,0,0,2248,2305,100.0,Polish <pl@li.org>
+sugar-abacus,28,0,0,23,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,344,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,866,0,0,169,0,0,844,866,100.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,134,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,474,66,100.0,LANGUAGE <LL@li.org>
+sugar-colordeducto,109,0,0,23,0,0,92,109,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,109,0,0,23,0,0,92,109,100.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,90,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,226,258,100.0,LANGUAGE <LL@li.org>
+sugar-flip,16,0,1,6,0,1,13,17,94.11764705882352,LANGUAGE <LL@li.org>
+sugar-fototoon,139,0,0,48,0,0,143,139,100.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,68,0,0,23,0,0,58,68,100.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,150,0,0,34,0,0,145,150,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,49,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,73,77,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,182,2,52,55,1,6,183,236,77.11864406779661,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,67,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,281,0,0,94,0,0,282,281,100.0,LANGUAGE <LL@li.org>
+sugar-locosugar,0,0,74,0,0,12,0,74,0.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,91,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,150,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,137,142,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,154,1,37,73,1,17,128,192,80.20833333333334,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,103,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,99,0,183,27,0,41,93,282,35.1063829787234,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,60,0,13,21,0,4,59,73,82.1917808219178,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,10,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,112,0,25,41,0,9,98,137,81.75182481751825,LANGUAGE <LL@li.org>
+sugar-recall,29,0,18,5,0,4,43,47,61.702127659574465,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,60,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,14,0,15,5,0,3,11,29,48.275862068965516,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,206,227,100.0,LANGUAGE <LL@li.org>
+sugar-starchart,267,9,35,166,1,15,340,311,85.85209003215434,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,23,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,114,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,57,109,0,14,174,213,73.23943661971832,LANGUAGE <LL@li.org>
+sugar-turtleart,1379,3,77,416,3,16,1362,1459,94.51679232350926,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,599,0,0,127,0,0,516,599,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,158,0,3,78,0,1,150,161,98.13664596273291,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,121,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,23,0,6,6,0,1,20,29,79.3103448275862,LANGUAGE <LL@li.org>
+sugar-yupana,0,0,30,0,0,16,0,30,0.0,LANGUAGE <LL@li.org>
+sumwars,48,0,17034,9,0,2695,12,17082,0.2809975412715139,
+supertux,3339,0,0,920,0,0,3089,3339,100.0,Polish (http://www.transifex.com/arctic-games/supertux/language/pl/)
+supertuxkart,5556,0,0,1058,0,0,5077,5556,100.0,Polish (http://www.transifex.com/supertuxkart/supertuxkart/language/pl/)
+sushi,33,0,0,13,0,0,33,33,100.0,Polish <community-poland@mozilla.org>
+svgpart,22,0,0,7,0,0,22,22,100.0,<pl@li.org>
+sweep,2296,13,90,479,5,54,2173,2399,95.7065443934973,Poland <LL@li.org>
+sweeper,228,0,0,50,0,0,190,228,100.0,Polish <kde-i18n-doc@kde.org>
+swell-foop,1630,0,0,136,0,0,1459,1630,100.0,Polish <community-poland@mozilla.org>
+switchboard,63,0,61,19,0,7,64,124,50.806451612903224,Polish <https://weblate.elementary.io/projects/switchboard/switchboard/pl/>
+switchboard-plug-a11y,111,0,14,35,0,3,113,125,88.8,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/pl/>
+switchboard-plug-about,96,0,0,29,0,0,101,96,100.0,Polish <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/pl/>
+switchboard-plug-applications,88,0,7,33,0,1,86,95,92.63157894736842,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/pl/>
+switchboard-plug-bluetooth,85,8,95,34,3,14,85,188,45.21276595744681,Polish <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/pl/>
+switchboard-plug-display,105,0,34,46,0,6,129,139,75.53956834532374,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/pl/>
+switchboard-plug-keyboard,389,31,110,152,12,29,420,530,73.39622641509433,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/pl/>
+switchboard-plug-mouse-touchpad,110,34,88,47,5,21,124,232,47.41379310344828,Polish <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/pl/>
+switchboard-plug-networking,339,65,70,106,13,18,329,474,71.51898734177216,Polish <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/pl/>
+switchboard-plug-notifications,133,0,9,19,0,2,125,142,93.66197183098592,Polish <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/pl/>
+switchboard-plug-onlineaccounts,160,0,0,56,0,0,168,160,100.0,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/pl/>
+switchboard-plug-pantheon-shell,143,6,32,56,3,6,148,181,79.00552486187846,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/pl/>
+switchboard-plug-printers,332,8,22,137,3,4,324,362,91.71270718232044,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/pl/>
+switchboard-plug-sharing,132,0,8,29,0,3,131,140,94.28571428571428,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/pl/>
+switchboard-plug-sound,136,0,16,47,0,4,141,152,89.47368421052632,Polish <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/pl/>
+switchdesk,16,85,21,3,9,7,16,122,13.114754098360656,Polish <fedora-trans-pl@redhat.com>
+sylpheed,5446,1253,515,1437,302,58,5304,7214,75.49209869697809,Jan Stępień <jstepien@users.sourceforge.net>
+sympa,23413,4806,8913,2390,649,556,19598,37132,63.053431002908546,Polski
+synapse,819,0,37,226,0,8,797,856,95.67757009345794,Polish <pl@li.org>
+syncevolution,1132,0,0,163,0,0,1034,1132,100.0,Polish (http://www.transifex.net/projects/p/meego/team/pl/)
+synfig,4685,11,0,1174,4,0,4045,4696,99.76575809199318,Polish (Poland) (http://www.transifex.com/morevnaproject/synfig/language/pl_PL/)
+synfigstudio,6564,0,0,1567,0,0,6251,6564,100.0,Polish (Poland) (http://www.transifex.com/morevnaproject/synfig/language/pl_PL/)
+sysprof,1817,0,0,263,0,0,1556,1817,100.0,Polish <community-poland@mozilla.org>
+sysstat,786,0,0,80,0,0,806,786,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+system-config-language,197,17,1,29,1,1,171,215,91.62790697674419,Polish <trans-pl@lists.fedoraproject.org>
+system-config-printer,3465,0,0,921,0,0,3366,3465,100.0,Polish <https://translate.fedoraproject.org/projects/system-config-printer/master/pl/>
+system-config-rootpassword,116,0,0,19,0,0,97,116,100.0,Polish <pl@li.org>
+system-switch-java,81,0,0,11,0,0,77,81,100.0,Polish <fedora-trans-pl@redhat.com>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Polish <pl@li.org>
+systemd,1461,0,0,184,0,0,1299,1461,100.0,Polish <trans-pl@lists.fedoraproject.org>
+systemtap,0,1,9940,0,1,1555,0,9941,0.0,Polish
+tagtool,958,0,0,211,0,0,979,958,100.0,Polski <pl@li.org>
+tali,2441,0,0,196,0,0,2162,2441,100.0,Polish <community-poland@mozilla.org>
+tar,3626,19,11,589,1,3,3802,3656,99.17943107221006,Polish <translation-team-pl@lists.sourceforge.net>
+taxi,62,0,0,15,0,0,63,62,100.0,LANGUAGE <LL@li.org>
+teg,2378,0,0,583,0,0,2213,2378,100.0,Polish <pl@li.org>
+tellico,5698,70,17,1221,11,2,5033,5785,98.49611063094208,Polish <kde-i18n-doc@kde.org>
+template-glib,23,0,0,4,0,0,23,23,100.0,Polish <community-poland@mozilla.org>
+tepl,217,0,0,76,0,0,195,217,100.0,Polish <community-poland@mozilla.org>
+terminator,1403,0,47,417,0,10,1327,1450,96.75862068965517,Polish (https://www.transifex.com/terminator/teams/109338/pl/)
+terminology,855,8,127,214,3,28,850,990,86.36363636363636,Polish
+texi2html,974,384,285,62,67,52,955,1643,59.2818015824711,Polish <translation-team-pl@lists.sourceforge.net>
+texinfo,6117,0,0,874,0,0,5845,6117,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+texlive,0,0,0,0,0,0,0,0,0.0,
+thonny,1419,0,71,335,0,6,1335,1490,95.23489932885906,
+thunar-archive-plugin,88,0,0,15,0,0,127,88,100.0,Polish (http://www.transifex.com/xfce/thunar-plugins/language/pl/)
+thunar-media-tags-plugin,156,0,0,58,0,0,134,156,100.0,Polish (http://www.transifex.com/xfce/thunar-plugins/language/pl/)
+thunar-vcs-plugin,774,0,0,307,0,0,744,774,100.0,Polish (http://www.transifex.com/xfce/thunar-plugins/language/pl/)
+thunar-vfs,335,6,46,66,1,19,312,387,86.56330749354005,Polish
+thunar-volman,499,0,0,120,0,0,434,499,100.0,Polish (http://www.transifex.com/xfce/thunar-volman/language/pl/)
+thunderbird,1424,21,151,446,7,28,1486,1596,89.22305764411027,Polish <translation-team-pl@lists.sourceforge.net>
+tigervnc,82,62,656,33,13,109,88,800,10.25,Polish <pl@li.org>
+tilda,207,96,364,62,29,95,202,667,31.03448275862069,Polish <pl@li.org>
+tilix,1993,47,68,585,17,13,1912,2108,94.54459203036053,Polish <https://hosted.weblate.org/projects/tilix/translations/pl/>
+timeshift,3004,1,0,598,1,0,3086,3005,99.96672212978369,Polish <none>
+tint2,3249,767,388,359,68,34,2651,4404,73.77384196185287,
+tomboy,6718,0,0,669,0,0,6042,6718,100.0,Polish <community-poland@mozilla.org>
+torbrowser-launcher,44,12,172,16,2,30,46,228,19.298245614035086,Polish
+tortoisehg,4229,0,9014,1186,0,1242,4183,13243,31.9338518462584,Polish <pl@li.org>
+totem,3208,0,0,539,0,0,2877,3208,100.0,Polish <community-poland@mozilla.org>
+totem-pl-parser,29,0,0,8,0,0,27,29,100.0,Polish <community-poland@mozilla.org>
+trac,4072,775,8239,906,136,392,4130,13086,31.117224514748585,Polish (http://www.transifex.com/projects/p/trac/language/pl/)
+trac-accountmanager-plugin,66,0,1142,16,0,188,63,1208,5.4635761589403975,Polish (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/pl/)
+tracker,2243,0,0,374,0,0,2218,2243,100.0,Polish <community-poland@mozilla.org>
+tracker-miners,763,0,0,110,0,0,765,763,100.0,Polish <community-poland@mozilla.org>
+transmageddon,327,0,0,70,0,0,333,327,100.0,Polish <gnomepl@aviary.pl>
+transmission,1998,0,0,523,0,0,2369,1998,100.0,Polish (https://www.transifex.com/transmissionbt/teams/33778/pl/)
+transmission-remote-gtk,440,27,502,221,10,165,442,969,45.407636738906085,
+trojita,4772,0,0,978,0,0,4693,4772,100.0,Polish <kde-i18n-doc@kde.org>
+trustedqsl,5069,0,0,713,0,0,4661,5069,100.0,
+tryton,754,19,62,325,8,31,729,835,90.2994011976048,
+tumbler,241,0,0,39,0,0,242,241,100.0,Polish (http://www.transifex.com/xfce/tumbler/language/pl/)
+tuxmath,786,255,414,156,39,54,705,1455,54.02061855670103,Polish <pl@li.org>
+tuxpaint,1584,54,24,295,5,5,1289,1662,95.30685920577618,none
+tuxpaint-stamps,3246,3,0,804,1,0,2320,3249,99.90766389658357,none
+tvtime,945,116,161,210,8,28,926,1222,77.33224222585925,Kamil 'Ci' Grzebien <limak_84@o2.pl>
+txt2regex,213,2,35,75,1,4,189,250,85.2,
+udisks2,2158,0,0,512,0,0,2269,2158,100.0,Polish
+ufraw,2145,17,10,421,1,3,2018,2172,98.75690607734806,Polish
+ufw,12,0,867,3,0,178,7,879,1.3651877133105803,Polish <pl@li.org>
+ufw-kde,815,0,0,190,0,0,812,815,100.0,Polish <kde-i18n-doc@kde.org>
+uget,895,0,190,332,0,30,915,1085,82.48847926267281,Polish (http://www.transifex.com/uget/uget/language/pl/)
+umbrello,6437,0,0,1706,0,0,5765,6437,100.0,Polish <kde-i18n-doc@kde.org>
+upower,145,0,0,26,0,0,124,145,100.0,Polish <trans-pl@lists.fedoraproject.org>
+usermode,573,0,0,96,0,0,513,573,100.0,Polish <trans-pl@lists.fedoraproject.org>
+util-linux,24140,57,17,4364,8,3,24440,24214,99.69439167423805,Polish <translation-team-pl@lists.sourceforge.net>
+variety,2614,0,1418,353,0,138,2230,4032,64.83134920634922,Polish <pl@li.org>
+vdr,1381,0,0,543,0,0,1327,1381,100.0,Polish <vdr@linuxtv.org>
+vdr-epgfixer,357,0,0,37,0,0,288,357,100.0,Polish <vdr@linuxtv.org>
+vdr-extrecmenung,0,0,308,0,0,95,0,308,0.0,<vdr@linuxtv.org>
+vdr-femon,314,0,0,125,0,0,286,314,100.0,Polish <vdr@linuxtv.org>
+warzone2100,12588,391,482,2675,111,109,12003,13461,93.51459772676621,Polish <kde-i18n-doc@kde.org>
+wdiff,993,0,0,150,0,0,1018,993,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+webkit2gtk3,2607,0,0,676,0,0,2572,2607,100.0,Polish <community-poland@mozilla.org>
+weechat,28555,3633,256,2281,35,13,27128,32444,88.01319196153372,Polish <kde-i18n-doc@kde.org>
+wesnoth,227468,25262,43217,15720,1016,1688,191773,295947,76.86105958161427,none
+wget,4004,53,13,647,3,1,4097,4070,98.37837837837839,Polish <translation-team-pl@lists.sourceforge.net>
+whois,506,0,0,40,0,0,498,506,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+wicd-kde,358,0,0,122,0,0,355,358,100.0,Polish <kde-i18n-doc@kde.org>
+widelands,40970,0,17959,3817,0,1410,33439,58929,69.5243428532641,Polish (http://www.transifex.com/widelands/widelands/language/pl/)
+wine,15087,990,1140,3425,206,269,14298,17217,87.6285067084858,Polish <kde-i18n-doc@kde.org>
+wingpanel,6,0,13,1,0,3,6,19,31.57894736842105,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,210,3,81,69,1,16,215,294,71.42857142857143,Polish <https://weblate.elementary.io/projects/wingpanel/applications-menu/pl/>
+wingpanel-indicator-bluetooth,11,0,19,7,0,11,10,30,36.666666666666664,Polish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/pl/>
+wingpanel-indicator-datetime,12,0,116,3,0,22,11,128,9.375,Polish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/pl/>
+wingpanel-indicator-keyboard,5,0,33,2,0,8,5,38,13.157894736842104,Polish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/pl/>
+wingpanel-indicator-network,76,0,21,22,0,5,75,97,78.35051546391753,Polish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/pl/>
+wingpanel-indicator-nightlight,12,0,19,4,0,4,13,31,38.70967741935484,Polish <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/pl/>
+wingpanel-indicator-notifications,16,0,22,7,0,6,14,38,42.10526315789473,Polish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/pl/>
+wingpanel-indicator-power,90,0,27,25,0,7,147,117,76.92307692307693,Polish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/pl/>
+wingpanel-indicator-session,57,0,24,18,0,7,45,81,70.37037037037037,Polish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/pl/>
+wingpanel-indicator-sound,7,2,44,3,1,9,7,53,13.20754716981132,LANGUAGE <LL@li.org>
+workrave,1259,20,42,250,3,9,1103,1321,95.30658591975777,s120801-translate
+wxGTK3,7667,71,67,1790,47,46,7525,7805,98.23190262652146,wxWidgets translators <wx-translators@wxwidgets.org>
+wxMaxima,2215,1007,17822,611,250,1324,2033,21044,10.525565481847558,LANGUAGE <LL@li.org>
+x-tile,732,0,0,150,0,0,714,732,100.0,Polish
+xapps,69,0,0,34,0,0,65,69,100.0,Polish <pl@li.org>
+xarchiver,905,245,42,248,32,17,862,1192,75.92281879194631,Polish <>
+xboard,2145,263,165,608,68,48,2182,2573,83.36572094830936,Polish <translation-team-pl@lists.sourceforge.net>
+xchm,219,4,11,90,1,5,224,234,93.58974358974359,Polish <translation-team-pl@lists.sourceforge.net>
+xdg-desktop-portal,221,0,0,32,0,0,186,221,100.0,Polish <community-poland@mozilla.org>
+xdg-desktop-portal-gtk,240,0,0,64,0,0,237,240,100.0,Polish <community-poland@mozilla.org>
+xdg-desktop-portal-kde,82,0,0,31,0,0,80,82,100.0,Polish <kde-i18n-doc@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,64,81,100.0,Polish <gnomepl@aviary.pl>
+xdialog,21,0,0,15,0,0,20,21,100.0,Polish
+xdrawchem,7212,0,0,1599,0,0,7338,7212,100.0,Polish <pl@li.org>
+xed,4640,0,0,1004,0,0,4417,4640,100.0,Polish (http://www.transifex.com/projects/p/MATE/language/pl/)
+xfbib,187,0,155,50,0,25,162,342,54.67836257309941,Xfce PL
+xfburn,1572,0,0,323,0,0,1462,1572,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+xfce4-appfinder,410,0,0,81,0,0,336,410,100.0,Polish (http://www.transifex.com/xfce/xfce4-appfinder/language/pl/)
+xfce4-battery-plugin,147,0,0,42,0,0,149,147,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-calculator-plugin,35,0,0,15,0,0,37,35,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xfce4-clipman-plugin,528,0,0,91,0,0,434,528,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-cpufreq-plugin,146,0,0,42,0,0,133,146,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-cpugraph-plugin,77,0,0,38,0,0,92,77,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-datetime-plugin,52,0,0,19,0,0,51,52,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-dict,529,0,0,121,0,0,501,529,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,183,181,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-embed-plugin,219,0,0,33,0,0,237,219,100.0,polski <>
+xfce4-eyes-plugin,16,0,0,5,0,0,16,16,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,82,71,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-genmon-plugin,56,0,0,14,0,0,57,56,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,336,356,100.0,Polish <gnomepl@aviary.pl>
+xfce4-mailwatch-plugin,685,0,0,111,0,0,630,685,100.0,Polish (http://www.transifex.com/projects/p/xfce/language/pl/)
+xfce4-mount-plugin,374,0,0,56,0,0,297,374,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-mpc-plugin,78,0,0,24,0,0,82,78,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-netload-plugin,91,0,0,35,0,0,94,91,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-notes-plugin,163,0,0,57,0,0,145,163,100.0,Polish (http://www.transifex.com/projects/p/xfce-panel-plugins/language/pl/)
+xfce4-notifyd,296,0,0,81,0,0,283,296,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+xfce4-panel,1691,0,0,413,0,0,1435,1691,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xfce4-panel-profiles,99,0,0,26,0,0,101,99,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xfce4-places-plugin,162,0,0,47,0,0,145,162,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-power-manager,1046,0,0,210,0,0,959,1046,100.0,Polish (http://www.transifex.com/xfce/xfce4-power-manager/language/pl/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,145,148,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-screensaver,697,0,0,152,0,0,659,697,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xfce4-screenshooter,487,0,0,81,0,0,407,487,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+xfce4-sensors-plugin,390,0,0,85,0,0,373,390,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-session,798,0,0,163,0,0,751,798,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xfce4-settings,1940,0,0,453,0,0,1721,1940,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,24,22,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,108,129,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xfce4-systemload-plugin,87,0,0,23,0,0,109,87,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-taskmanager,259,0,0,88,0,0,289,259,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+xfce4-terminal,1722,0,0,402,0,0,1605,1722,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+xfce4-time-out-plugin,106,0,0,38,0,0,119,106,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-timer-plugin,138,0,0,49,0,0,125,138,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-verve-plugin,108,0,0,28,0,0,108,108,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,59,67,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-weather-plugin,3676,0,0,337,0,0,3297,3676,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfce4-whiskermenu-plugin,386,0,0,123,0,0,383,386,100.0,Polish (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/pl/)
+xfce4-xkb-plugin,57,0,0,22,0,0,48,57,100.0,Polish (http://www.transifex.com/xfce/xfce-panel-plugins/language/pl/)
+xfconf,458,0,0,68,0,0,442,458,100.0,Polish (http://www.transifex.com/xfce/xfconf/language/pl/)
+xfdashboard,379,0,6499,126,0,795,356,6878,5.510322768246583,Polish (http://www.transifex.com/xfdashboard/xfdashboard/language/pl/)
+xfdesktop,1037,0,0,246,0,0,943,1037,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xfe,2500,1027,2510,857,185,50,2459,6037,41.41129700182209,<pl@li.org>
+xfmpc,175,0,0,78,0,0,184,175,100.0,Polish (http://www.transifex.com/xfce/xfce-apps/language/pl/)
+xfpanel-switch,62,0,39,24,0,2,66,101,61.386138613861384,Polish <pl@li.org>
+xfsdump,4843,0,0,767,0,0,5158,4843,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfsprogs,23865,0,0,2701,0,0,23840,23865,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xfwm4,632,0,0,169,0,0,589,632,100.0,Polish (https://www.transifex.com/xfce/teams/16840/pl/)
+xiphos,1571,791,2619,514,199,427,1508,4981,31.53985143545473,Polish <pl@li.org>
+xkeyboard-config,3973,0,0,1186,0,0,3847,3973,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+xlog,1358,67,40,323,4,7,1284,1465,92.6962457337884,Polish <PL@li.org>
+xmms,3177,65,201,1003,17,25,3214,3443,92.27417949462678,<pl@li.org>
+xmoto,2666,66,1107,550,15,257,2129,3839,69.44516801250326,Polish
+xournal,823,0,202,256,0,27,820,1025,80.29268292682927,Polish
+xournalpp,1439,0,1456,380,0,262,1417,2895,49.70639032815198,Polish
+xpad,406,0,7,125,0,2,426,413,98.30508474576271,Polish <pl@li.org>
+xreader,1673,0,0,383,0,0,1597,1673,100.0,Polish (http://www.transifex.com/mate/MATE/language/pl/)
+xsane,2323,788,113,574,121,33,2351,3224,72.05334987593052,polski <pl@li.org>
+xscreensaver,1089,748,9353,469,379,986,1121,11190,9.731903485254692,Polish <pl@li.org>
+xz,1379,0,0,159,0,0,1322,1379,100.0,Polish <translation-team-pl@lists.sourceforge.net>
+yakuake,1605,9,0,227,2,0,1395,1614,99.44237918215613,Polish <kde-i18n-doc@kde.org>
+yelp,351,0,0,74,0,0,315,351,100.0,Polish <community-poland@mozilla.org>
+yelp-xsl,88,0,0,64,0,0,85,88,100.0,Polish <community-poland@mozilla.org>
+zabbix,12745,0,3235,2796,0,643,13167,15980,79.75594493116395,Zabbix <info@zabbix.com>
+zanshin,507,0,0,127,0,0,518,507,100.0,Polish <kde-i18n-doc@kde.org>
+zathura,405,0,320,112,0,50,375,725,55.86206896551724,Polish (http://www.transifex.com/pwmt/zathura/language/pl/)
+zaz,229,0,0,107,0,0,213,229,100.0,Polish
+zenity,3888,0,0,546,0,0,3511,3888,100.0,Polish <community-poland@mozilla.org>
+znc,7591,0,704,1573,0,99,7463,8295,91.51295961422544,Polish
+zvbi,515,53,96,94,10,17,505,664,77.56024096385542,Polish <pl@li.org>
+zypper,8988,3,238,1224,1,23,9018,9229,97.38866616101419,Polish <https://l10n.opensuse.org/projects/zypper/master/pl/>

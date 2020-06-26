@@ -1,0 +1,82 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,8,0,484,8,0,83,11,492,1.6260162601626018,http://littlesvr.ca/ostd/
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+coreutils,9115,8924,3291,1044,487,270,13604,21330,42.733239568682606,Luganda <kbirabwa@yahoo.co.uk>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,4,0,101,4,0,40,4,105,3.8095238095238098,LANGUAGE <LL@li.org>
+elementary-calendar,307,118,278,133,34,62,342,703,43.66998577524893,Ganda <https://weblate.elementary.io/projects/calendar/calendar/lg/>
+elementary-camera,21,3,41,3,1,14,19,65,32.30769230769231,Ganda <https://weblate.elementary.io/projects/camera/camera/lg/>
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1151,0,0,257,0,1151,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,36,0,1272,7,0,359,35,1308,2.7522935779816518,Ganda <https://weblate.elementary.io/projects/music/music/lg/>
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,2639,0,0,508,0,2639,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+findutils,103,315,2150,27,34,178,129,2568,4.010903426791277,Luganda <kompyuta@kizito.freeuk.com>
+gala,0,0,140,0,0,34,0,140,0.0,none
+gpicview,236,0,0,52,0,0,264,236,100.0,Luganda <kbirabwa@yahoo.co.uk>
+granite,0,0,269,0,0,88,0,269,0.0,
+gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+gtk4,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,19,0,655,14,0,93,19,674,2.8189910979228485,http://littlesvr.ca/ostd/
+libfm,1558,13,4,389,4,1,1815,1575,98.92063492063492,lg <kbirabwa@yahoo.co.uk>
+libgnomeui,332,0,894,129,0,191,309,1226,27.07993474714519,Luganda <kbirabwa@yahoo.co.uk>
+lxappearance,234,0,0,80,0,0,237,234,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxappearance-obconf,196,0,0,27,0,0,203,196,100.0,LANGUAGE <LL@li.org>
+lxde-common,14,0,0,5,0,0,20,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,53,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,96,83,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxlauncher,58,0,0,17,0,0,40,58,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,131,97,100.0,LANGUAGE <LL@li.org>
+lxmusic,203,0,0,89,0,0,252,203,100.0,LANGUAGE <LL@li.org>
+lxrandr,167,0,0,41,0,0,185,167,100.0,LANGUAGE <LL@li.org>
+lxsession,295,0,460,111,0,55,376,755,39.0728476821192,Deutsch <LL@li.org>
+lxshortcut,43,0,0,19,0,0,49,43,100.0,LANGUAGE <LL@li.org>
+lxtask,130,0,0,51,0,0,147,130,100.0,lg <kbirabwa@yahoo.co.uk>
+mingw-gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+mingw-gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+sequeler,39,95,272,21,33,80,42,406,9.60591133004926,none
+sugar,4,58,2243,2,44,483,4,2305,0.1735357917570499,LANGUAGE <LL@li.org>
+sugar-browse,0,0,334,0,0,71,0,334,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,27,39,147,26,30,67,27,213,12.676056338028168,LANGUAGE <LL@li.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,148,0,0,38,0,148,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+tuxpaint,1515,72,4,279,8,4,1249,1591,95.22313010685104,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Ganda <lg@li.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,45,0,0,11,0,45,0.0,none

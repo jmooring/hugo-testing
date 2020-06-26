@@ -1,0 +1,55 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,2143,0,7265,392,0,772,3046,9408,22.778486394557824,LANGUAGE <LL@li.org>
+calibre,60,0,10436,59,0,7648,62,10496,0.5716463414634146,Northern Sotho <sepedi@translate.org.za>
+control-center,2626,347,409,571,95,70,3886,3382,77.64636309875813,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+drwright,54,67,70,9,8,12,77,191,28.272251308900525,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+eog,554,5,55,149,2,7,815,614,90.22801302931596,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+firstboot,61,0,535,6,0,50,86,596,10.234899328859061,LANGUAGE <LL@li.org>
+gdk-pixbuf2,915,357,41,137,57,6,1487,1313,69.6877380045697,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gdm,5294,0,0,703,0,0,7606,5294,100.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-desktop,316,4,0,72,1,0,489,320,98.75,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-desktop3,316,4,0,72,1,0,489,320,98.75,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-mime-data,887,0,0,362,0,0,1561,887,100.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-panel,3596,232,109,469,28,20,5065,3937,91.33858267716536,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-session,513,3,0,100,1,0,736,516,99.4186046511628,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-settings-daemon,313,196,525,47,42,82,460,1034,30.270793036750483,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-vfs2,1263,19,0,247,1,0,1877,1282,98.5179407176287,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtk2,6886,3500,3318,1245,807,732,10225,13704,50.248102743724466,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtk3,5264,3283,3306,974,781,732,7727,11853,44.41069771365899,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+iso-codes,361,5539,12955,314,4530,8362,373,18855,1.9146115088835853,Northern Sotho <sepedi@translate.org.za>
+koffice-kivio,113,395,7909,95,232,2034,140,8417,1.3425210882737317,<en@li.org>
+libbonoboui,314,3,43,92,1,20,482,360,87.22222222222223,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libgnomeui,1270,83,66,314,19,12,1765,1419,89.49964763918253,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libreoffice,63317,6877,25303,21495,2119,5381,83904,95497,66.30260636459784,LANGUAGE <LL@li.org>
+libvirt,980,16945,11641,229,3066,1668,980,29566,3.3146181424609353,none
+mate-control-center,2626,347,409,571,95,70,3886,3382,77.64636309875813,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mate-desktop,316,4,0,72,1,0,489,320,98.75,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mate-file-manager,3459,0,5952,690,0,831,4531,9411,36.754861332483266,LANGUAGE <LL@li.org>
+mate-image-viewer,205,0,1418,62,0,253,318,1623,12.630930375847196,LANGUAGE <LL@li.org>
+mate-panel,3596,232,109,469,28,20,5065,3937,91.33858267716536,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mate-session-manager,513,3,0,100,1,0,736,516,99.4186046511628,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mate-settings-daemon,313,196,525,47,42,82,460,1034,30.270793036750483,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mate-vfs,1188,0,331,233,0,72,1752,1519,78.20934825543121,LANGUAGE <LL@li.org>
+mingw-gtk3,5264,3283,3306,974,781,732,7727,11853,44.41069771365899,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw32-gdk-pixbuf,915,357,41,137,57,6,1487,1313,69.6877380045697,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw32-gtk2,6886,3500,3318,1245,807,732,10225,13704,50.248102743724466,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+mingw32-libvirt,980,16874,11573,229,3051,1653,980,29427,3.330274917592687,none
+nautilus,3641,2671,1832,704,412,198,4773,8144,44.70776031434185,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,2967,203,327,974,185,303,3934,3497,84.84415213039749,LANGUAGE <LL@li.org>
+redhat-menus,221,6,34,73,2,11,363,261,84.67432950191571,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+setroubleshoot,0,0,562,0,0,167,0,562,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8291,0,0,399,0,8291,0.0,LANGUAGE <LL@li.org>
+sos,0,0,267,0,0,36,0,267,0.0,none
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+virtaal,1663,0,0,548,0,0,2237,1663,100.0,LANGUAGE <LL@li.org>
+yelp,110,67,429,55,33,60,169,606,18.151815181518153,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>

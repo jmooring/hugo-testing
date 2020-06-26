@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iok,137,0,69,33,0,7,161,206,66.50485436893204,Chhattisgarhi <LL@li.org>
+k3b,5589,1012,13822,1661,187,672,6840,20423,27.36620476913284,Hindi <kde-i18n-doc@lists.kde.org>
+kcoloredit,174,37,67,71,12,12,198,278,62.589928057553955,Hindi <kde-i18n-doc@lists.kde.org>
+kgrab,152,12,206,48,2,3,182,370,41.08108108108108,Hindi <kde-i18n-doc@lists.kde.org>
+kiconedit,585,0,141,149,0,6,690,726,80.57851239669421,Hindi <kde-i18n-doc@lists.kde.org>
+kopete-cryptography,55,0,353,19,0,22,74,408,13.480392156862745,Hindi <kde-i18n-doc@lists.kde.org>
+krecipes,890,1002,1856,282,370,151,1025,3748,23.74599786552828,Hindi <kde-i18n-doc@lists.kde.org>
+rsibreak,382,52,870,95,12,56,448,1304,29.29447852760736,Hindi <kde-i18n-doc@lists.kde.org>
+system-config-services,0,0,518,0,0,71,0,518,0.0,Chhattisgarhi (http://www.transifex.net/projects/p/fedora/team/hne/)

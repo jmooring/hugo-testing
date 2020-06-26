@@ -1,0 +1,242 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,1724,65,0,405,1,0,1771,1789,96.36668529904975,Slovenian <lugos-slo@lugos.si>
+GConf2,4017,0,0,479,0,0,3959,4017,100.0,Slovenian <sl@li.org>
+Miro,512,6,2542,142,2,413,491,3060,16.732026143790847,Slovenian <sl@li.org>
+NetworkManager,948,0,4,191,0,1,936,952,99.57983193277312,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+NetworkManager-openvpn,390,0,0,92,0,0,395,390,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+NetworkManager-vpnc,304,0,0,49,0,0,301,304,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+TurboGears,21,0,0,5,0,0,20,21,100.0,Slovenian <matej.baric@gmail.com>
+a2ps,977,280,224,149,15,15,1087,1481,65.96893990546928,Slovenian <sl@li.org>
+abiword,4801,0,47,1557,0,20,4605,4848,99.03052805280528,sl.openoffice.org <users@sl.openoffice.org>
+alacarte,102,0,0,37,0,0,105,102,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+amarok,4253,4090,4849,945,793,765,4508,13192,32.239235900545786,Slovenian <translation-team-sl@lists.sourceforge.net>
+anaconda,10203,0,0,1245,0,0,9228,10203,100.0,Slovenian <sl@li.org>
+apcupsd,0,0,647,0,0,103,0,647,0.0,LANGUAGE <LL@li.org>
+aspell,1707,4,15,290,1,2,1512,1726,98.89918887601391,Lugos <miles@filmsi.net>
+at-spi,15,0,0,4,0,0,17,15,100.0,Slovenian <sl@li.org>
+atk,370,0,0,123,0,0,322,370,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+atomix,125,0,0,44,0,0,117,125,100.0,Slovenian <translation-team-sl@lists.sourceforge.net>
+audacity,4324,0,0,962,0,0,4164,4324,100.0,LUGOS <sl@li.org>
+authconfig,1133,0,0,223,0,0,1110,1133,100.0,Slovenian <sl@li.org>
+balsa,5711,35,18,1361,14,7,5526,5764,99.08049965301873,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+banshee,3353,166,664,774,65,115,3056,4183,80.15778149653359,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+beagle,981,59,236,296,14,47,935,1276,76.88087774294671,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+bison,52,0,0,9,0,0,52,52,100.0,Slovenian <translation-team-sl@lists.sourceforge.net>
+bittorrent,2891,0,1013,519,0,114,2848,3904,74.05225409836066,Slovenian <lugos-slo (at) lugos (dot) si>
+brasero,3589,62,23,679,9,6,3396,3674,97.68644529123571,Slovenian <LL@li.org>
+bug-buddy,949,0,0,88,0,0,916,949,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+childsplay,1026,0,0,137,0,0,830,1026,100.0,<users@sl.openoffice.org>
+chkconfig,430,0,0,88,0,0,427,430,100.0,Slovenian <sl@li.org>
+cinepaint,1217,1293,4895,470,542,923,1175,7405,16.434841323430117,Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>
+compat-wxGTK26,5334,0,0,1113,0,0,5329,5334,100.0,LUGOS <lugos@lugos.si>
+compiz,3,977,1377,3,331,250,3,2357,0.12728044123886295,Slovenian
+contact-lookup-applet,259,0,0,55,0,0,235,259,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+control-center,3746,0,0,837,0,0,3569,3746,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+coreutils,14054,1580,348,1127,56,25,14258,15982,87.93642848204229,Slovenian <translation-team-sl@lists.sourceforge.net>
+cracklib,93,0,0,15,0,0,80,93,100.0,Slovenščina <sl@li.org>
+dasher,445,0,0,174,0,0,461,445,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+deluge,346,30,1893,141,3,308,364,2269,15.249008373732922,Slovenian <sl@li.org>
+deskbar-applet,910,0,0,188,0,0,805,910,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+devhelp,309,0,0,71,0,0,273,309,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+dia,2401,1593,1717,921,635,490,2482,5711,42.041673962528456,Slovenian <sl@li.org>
+digikam,816,3887,11234,305,791,968,822,15937,5.120160632490431,Slovenian <translation-team-sl@lists.sourceforge.net>
+drgeo,1041,502,442,292,112,57,961,1985,52.44332493702771,Slovenian <sl@li.org>
+eel2,235,0,0,52,0,0,199,235,100.0,Slovenian <sl@li.org>
+ekiga,5168,0,0,775,0,0,4563,5168,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+enscript,414,620,794,75,42,92,461,1828,22.64770240700219,Slovenian <sl@li.org>
+eog,993,0,0,244,0,0,927,993,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+epiphany,3969,0,0,874,0,0,3835,3969,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+evince,986,0,0,286,0,0,971,986,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+evolution,18691,467,461,4565,100,37,17514,19619,95.26989143177532,Slovenian <sl@li.org>
+evolution-data-server,4985,0,0,1034,0,0,5276,4985,100.0,Slovenian <sl@li.org>
+evolution-exchange,1225,0,0,186,0,0,1237,1225,100.0,Slovenian
+evolution-webcal,184,0,0,30,0,0,160,184,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+fast-user-switch-applet,842,0,0,99,0,0,769,842,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+file-roller,944,0,3,242,0,1,866,947,99.68321013727561,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+filezilla,5007,0,4,834,0,1,4775,5011,99.92017561364997,Martin Srebotnjak <miles@filmsi.net>
+findutils,1087,135,30,114,7,3,1037,1252,86.82108626198082,Slovenian <translation-team-sl@lists.sourceforge.net>
+firstboot,598,0,0,59,0,0,488,598,100.0,Slovenian <sl@li.org>
+frozen-bubble,616,0,0,137,0,0,647,616,100.0,<sl@li.org>
+gail,170,0,0,103,0,0,171,170,100.0,Slovenian
+galeon,5061,0,0,1324,0,0,4914,5061,100.0,Slovenian <sl@li.org>
+gallery2,513,60,8517,239,27,1140,484,9090,5.643564356435644,Slovenian <gallery-translations@lists.sourceforge.net>
+gambas,1836,18,47,573,6,12,1708,1901,96.58074697527617,LANGUAGE <LL@li.org>
+gcalctool,1044,0,0,365,0,0,1054,1044,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gcompris,3524,161,0,544,14,0,2608,3685,95.63093622795115,<sl@li.org>
+gconf-editor,329,0,0,98,0,0,321,329,100.0,Slovenian <sl@li.org>
+gdm,5342,440,1596,768,79,109,5172,7378,72.40444564922743,Slovenian
+gedit,5063,0,0,1102,0,0,4899,5063,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gedit-plugins,3628,0,0,666,0,0,3251,3628,100.0,Slovenian <sl@li.org>
+gettext,6664,71,9,665,9,1,6401,6744,98.81376037959669,Slovenian <translation-team-sl@lists.sourceforge.net>
+ghex,966,0,0,275,0,0,858,966,100.0,Jaka Mocnik <jaka@gnu.org>
+gkrellm,3356,0,379,506,0,40,3068,3735,89.85274431057564,<en@li.org>
+glib2,732,213,411,79,28,66,680,1356,53.98230088495575,Slovenian <sl@li.org>
+gnokii,1425,1109,2567,527,285,324,1491,5101,27.935698882572048,Slovenian <translation-team-sl@lists.sourceforge.net>
+gnome-applets,3744,0,0,942,0,0,3731,3744,100.0,Slovenian
+gnome-backgrounds,18,0,0,9,0,0,18,18,100.0,Slovenian
+gnome-bluetooth,366,0,0,70,0,0,338,366,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-commander,2965,234,4565,971,63,321,2824,7764,38.189077794951054,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-desktop,330,0,0,76,0,0,324,330,100.0,Slovenian <sl@li.org>
+gnome-doc-utils,213,0,0,80,0,0,212,213,100.0,Slovenian
+gnome-games,3124,883,3059,869,330,499,2829,7066,44.211718086611945,slovenian <sl@li.org>
+gnome-icon-theme,53,0,0,47,0,0,55,53,100.0,Slovenian <sl@li.org>
+gnome-keyring,711,0,0,57,0,0,552,711,100.0,
+gnome-keyring-manager,284,0,0,87,0,0,305,284,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-libs,988,45,52,381,6,8,959,1085,91.05990783410138,Slovenian <sl@li.org>
+gnome-mag,12,0,0,3,0,0,12,12,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-media,1923,0,0,526,0,0,1852,1923,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-menus,163,0,0,59,0,0,161,163,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-mime-data,887,0,0,362,0,0,956,887,100.0,Slovenian <sl@li.org>
+gnome-netstatus,425,0,0,110,0,0,401,425,100.0,
+gnome-nettool,535,0,0,181,0,0,535,535,100.0,Slovenian
+gnome-panel,4090,0,0,548,0,0,3831,4090,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-power-manager,1765,440,523,222,77,74,1528,2728,64.69941348973607,Slovenian <SL@li.org>
+gnome-screensaver,944,0,0,153,0,0,868,944,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-session,571,0,0,106,0,0,523,571,100.0,Slovenian <sl@li.org>
+gnome-spell,261,0,0,221,0,0,263,261,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-system-monitor,803,0,0,218,0,0,842,803,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-terminal,4599,0,0,513,0,0,4176,4599,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-themes,85,0,0,26,0,0,97,85,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gnome-utils,4081,0,0,717,0,0,3940,4081,100.0,Slovenian <sl@li.org>
+gnome-vfs2,1506,0,0,300,0,0,1362,1506,100.0,Slovenian <sl@li.org>
+gnome-volume-manager,1169,0,0,193,0,0,1198,1169,100.0,Slovenian
+gnomebaker,55,0,1131,24,0,267,50,1186,4.63743676222597,Slovenian <sl@li.org>
+gnotime,133,279,1260,69,118,173,146,1672,7.954545454545454,Slovenian <sl@li.org>
+gok,1867,0,0,429,0,0,1773,1867,100.0,Slovenian <sl@li.org>
+gourmet,2985,0,541,673,0,118,2833,3526,84.65683494044242,Slovenian <sl@li.org>
+gparted,1266,6,2,277,1,1,1247,1274,99.37205651491365,Slovenian <LL@li.org>
+gphoto2,5,1095,8032,4,298,1415,6,9132,0.054752518615856324,Slovenian <translation-team-sl@lists.sourceforge.net>
+gqview,481,718,522,155,303,211,501,1721,27.948866937826843,slovene <sl@li.org>
+grass,5988,6412,13664,977,1172,1818,5963,26064,22.974217311233886,Slovenščina <translations@grass.itc.it>
+grep,622,0,0,51,0,0,648,622,100.0,Slovenian <sl@li.org>
+gtk+,202,0,0,105,0,0,203,202,100.0,slovenian <sl@li.org>
+gtk2,9853,1095,1144,2146,145,121,8990,12092,81.48362553754549,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+gtkhtml3,912,0,0,405,0,0,885,912,100.0,Slovenian <sl@li.org>
+gtkhtml38,912,0,0,405,0,0,885,912,100.0,Slovenian <sl@li.org>
+gtksourceview,849,0,0,342,0,0,847,849,100.0,Slovenian <SL@li.org>
+gtksourceview2,849,0,0,342,0,0,847,849,100.0,Slovenian <SL@li.org>
+gucharmap,776,0,0,283,0,0,767,776,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+horde,6185,122,158,1691,25,17,5829,6465,95.6689868522815,sl_SI <duck@obala.net>
+hwbrowser,116,0,0,51,0,0,124,116,100.0,Slovenian <sl@li.org>
+icewm,0,0,0,0,0,0,0,0,0.0,Slovenian <translator-team-sl@lists.sourceforge.net>
+im-chooser,70,45,57,8,6,10,57,172,40.69767441860465,Slovenian <sl@li.org>
+imp,4979,605,134,1003,115,20,4557,5718,87.07590066456802,sl_SI <duck@obala.net>
+ingo,780,13,37,209,3,6,752,830,93.97590361445783,sl_SI <duck@obala.net>
+initscripts,3733,0,0,857,0,0,3900,3733,100.0,Slovenian <sl@li.org>
+inkscape,11088,219,341,2377,63,37,10699,11648,95.1923076923077,"Lugos, sl.openoffice.org <sl@lugos.si>"
+iso-codes,2395,5438,11208,1401,4415,7441,2172,19041,12.57812089701171,Slovenian
+jokosher,433,4,1494,98,2,280,357,1931,22.42361470740549,Slovenian <sl@li.org>
+kexec-tools,95,39,72,9,2,3,82,206,46.116504854368934,Slovenian <sl@li.org>
+kicad,4522,5,0,1707,3,0,4576,4527,99.88955157941241,
+krecipes,2216,302,422,306,45,55,2164,2940,75.37414965986395,Slovenian <translation-team-sl@lists.sourceforge.net>
+krename,1598,5,0,326,1,0,1399,1603,99.68808484092327,Slovenian
+kronolith,1554,92,75,409,24,18,1442,1721,90.29633933759442,sl_SI <duck@obala.net>
+krusader,6769,0,0,1398,0,0,6181,6769,100.0,krusader-i18n <krusader-i18n@googlegroups.com>
+kudzu,73,0,0,13,0,0,72,73,100.0,Slovenian <sl@li.org>
+libbonobo,547,0,0,108,0,0,537,547,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+libbonoboui,361,0,0,114,0,0,365,361,100.0,Slovenian GNOME Translation Team <gnome-si@gmail.com>
+libgda,189,855,1243,54,172,250,181,2287,8.264101442938347,Slovenian <sl@li.org>
+libgnome,1648,0,0,254,0,0,1549,1648,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,349,378,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+libgnomedb,152,799,2153,60,211,358,145,3104,4.896907216494846,Slovenian <sl@li.org>
+libgnomeprint22,168,0,0,98,0,0,169,168,100.0,Slovenian <sl@li.org>
+libgnomeprintui22,472,0,0,151,0,0,409,472,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+libgnomeui,1309,0,0,334,0,0,1182,1309,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+libgtop2,134,0,0,44,0,0,154,134,100.0,Slovenian <sl@li.org>
+libkipi,61,7,15,22,2,2,67,83,73.49397590361446,Slovenian <translation-team-sl@lists.sourceforge.net>
+libuser,1026,19,7,218,3,1,1098,1052,97.52851711026615,Slovenian <sl@li.org>
+libvirt,1290,656,351,308,127,72,1290,2297,56.160208968219415,none
+libwnck,87,0,0,32,0,0,101,87,100.0,slovenian <sl@li.org>
+lynx,2739,78,5114,546,30,624,2697,7931,34.535367545076284,Slovenian <sl@li.org>
+mailman,18120,2472,742,1236,48,44,16474,21334,84.93484578606919,Slovenščina <sl@li.org>
+mc,3061,257,181,898,46,44,3223,3499,87.4821377536439,Slovenian <sl@li.org>
+metacity,7264,0,0,482,0,0,6548,7264,100.0,Slovenian <sl@li.org>
+moin,2651,0,0,472,0,0,2674,2651,100.0,
+monodevelop,3729,0,0,1108,0,0,3703,3729,100.0,Slovene
+nautilus,6865,0,0,1146,0,0,6429,6865,100.0,Slovenian <sl@li.org>
+nautilus-cd-burner,1306,0,0,210,0,0,1184,1306,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+nautilus-open-terminal,24,0,0,5,0,0,20,24,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+nautilus-sendto,86,0,0,28,0,0,89,86,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+newt,4,0,0,4,0,0,5,4,100.0,Slovenian <sl@li.org>
+notecase,410,266,480,147,91,118,398,1156,35.46712802768166,NoteCase team
+orca,1296,131,291,510,71,107,1227,1718,75.43655413271246,Slovenian <SL@li.org>
+pan,156,1326,806,58,393,149,159,2288,6.8181818181818175,Slovenian <sl@li.org>
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pessulus,88,0,0,30,0,0,84,88,100.0,Slovenian
+pgadmin3,4501,675,1019,1417,224,239,4386,6195,72.65536723163842,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+pidgin,15403,251,0,3315,21,0,15207,15654,98.39657595502746,Martin Srebotnjak <miles@filmsi.net>
+pidgin-libnotify,31,5,0,11,1,0,35,36,86.11111111111111,Slovenian <LL@li.org>
+pirut,572,117,126,134,17,27,564,815,70.1840490797546,Slovenian <sl@li.org>
+po4a,44,80,1489,6,8,149,40,1613,2.727836329820211,Slovenian <sl@li.org>
+poedit,1134,0,0,266,0,0,1113,1134,100.0,Martin Srebotnjak <users@sl.openoffice.org>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+popt,8,5,62,2,1,24,10,75,10.666666666666668,Slovenian <sl@li.org>
+postgresql,12575,0,13866,1794,0,1769,13154,26441,47.55871563102757,Slovenian <aleksander.kmetec@email.si>
+pykickstart,225,43,16,19,2,4,190,284,79.22535211267606,Slovenian <sl@li.org>
+python-formencode,491,0,49,71,0,6,384,540,90.92592592592592,Matej Barič <matej.baric@gmail.com>
+recode,672,115,42,62,7,10,678,829,81.0615199034982,Slovenian <sl@li.org>
+redhat-menus,240,11,10,76,5,5,247,261,91.95402298850574,Slovenian <sl@li.org>
+regexxer,467,0,0,100,0,0,439,467,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+revisor,0,0,3200,0,0,588,0,3200,0.0,
+rhgb,95,26,0,24,5,0,107,121,78.51239669421489,Slovenian <sl@li.org>
+rhpl,185,0,0,80,0,0,177,185,100.0,Slovenian <sl@li.org>
+rhpxl,136,0,0,43,0,0,134,136,100.0,Slovenian <sl@li.org>
+rpm,1088,2451,1219,221,475,253,1122,4758,22.866750735603194,Slovenian <sl@li.org>
+ruby-gettext-package,2,0,0,1,0,0,4,2,100.0,LANGUAGE <LL@li.org>
+sabayon,917,7,116,190,1,7,1029,1040,88.17307692307692,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+seahorse,3636,0,0,756,0,0,3404,3636,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+sed,204,136,165,38,29,14,230,505,40.396039603960396,Slovenian <translation-team-sl@lists.sourceforge.net>
+sepostgresql,12575,0,13866,1794,0,1769,13154,26441,47.55871563102757,Slovenian <aleksander.kmetec@email.si>
+setroubleshoot,0,0,507,0,0,136,0,507,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7829,0,0,233,0,7829,0.0,LANGUAGE <LL@li.org>
+setuptool,54,0,6,16,0,1,53,60,90.0,Slovenian <translation-team-sl@lists.sourceforge.net>
+snownews,560,0,0,111,0,0,569,560,100.0,
+sound-juicer,852,0,0,149,0,0,817,852,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+soundtracker,1140,136,372,340,54,75,1110,1648,69.1747572815534,slovenian <sl@li.org>
+specspo,1852,40088,263354,209,5579,11062,1698,305294,0.6066283647893506,slovenščina <translation-team-sl@lists.sourceforge.net>
+squirrelmail,3255,1579,2044,893,251,207,3220,6878,47.32480372201221,slovenščina <C@li.org>
+stellarium,71,4,1021,29,2,445,71,1096,6.478102189781023,Slovenian <sl@li.org>
+supertux,870,237,107,149,23,23,805,1214,71.66392092257001,<sl@li.org>
+switchdesk,137,0,0,19,0,0,107,137,100.0,slovenščina <translation-team-sl@lists.sourceforge.net>
+sylpheed,3641,1580,879,1048,372,114,3793,6100,59.68852459016394,Slovenian <translator-team-sl@lists.sourceforge.net>
+synaptic,2305,540,386,552,71,39,2281,3231,71.34014237078304,Slovenian <translation-team-sl@lists.sourceforge.net>
+system-config-bind,18,436,8962,8,125,928,19,9416,0.1911639762107052,slovenščina <translation-team-sl@lists.sourceforge.net>
+system-config-boot,41,0,5,9,0,1,37,46,89.13043478260869,slovenščina <translation-team-sl@lists.sourceforge.net>
+system-config-date,826,103,69,565,37,7,809,998,82.76553106212425,Slovenian <sl@li.org>
+system-config-display,394,0,4,62,0,1,380,398,98.99497487437185,Slovenian <sl@li.org>
+system-config-firewall,865,482,1609,73,56,150,754,2956,29.262516914749664,slovenščina <translation-team-sl@lists.sourceforge.net>
+system-config-httpd,858,0,0,223,0,0,806,858,100.0,Slovenian <sl@li.org>
+system-config-keyboard,78,0,0,12,0,0,69,78,100.0,Slovenian <translation-team-sl@lists.sourceforge.net>
+system-config-kickstart,975,38,41,261,8,12,940,1054,92.50474383301707,Slovenian <sl@li.org>
+system-config-language,45,0,0,10,0,0,41,45,100.0,Slovenian <translation-team-sl@lists.sourceforge.net>
+system-config-netboot,765,188,135,124,10,27,715,1088,70.3125,Slovenian <translation-team-sl@lists.sourceforge.net>
+system-config-network,2640,200,171,673,38,22,2587,3011,87.67851212221854,slovenščina <translation-team-sl@lists.sourceforge.net>
+system-config-nfs,66,78,174,19,26,28,59,318,20.754716981132077,slovenščina <translation-team-sl@lists.sourceforge.net>
+system-config-printer,15,214,1056,12,106,208,17,1285,1.1673151750972763,slovenščina <translation-team-sl@lists.sourceforge.net>
+system-config-rootpassword,50,0,0,9,0,0,43,50,100.0,Slovenian <translation-team-sl@lists.sourceforge.net>
+system-config-samba,293,42,88,104,18,16,291,423,69.26713947990544,slovenščina <translation-team-sl@lists.sourceforge.net>
+system-config-services,115,58,59,42,14,6,123,232,49.56896551724138,Slovenian <translation-team-sl@lists.sourceforge.net>
+system-config-soundcard,64,47,113,12,3,36,63,224,28.57142857142857,Slovenian <translation-team-sl@lists.sourceforge.net>
+system-config-users,504,311,371,105,28,32,446,1186,42.49578414839797,slovenščina <translation-team-sl@lists.sourceforge.net>
+system-switch-mail,134,0,0,20,0,0,123,134,100.0,slovenščina <translation-team-sl@lists.sourceforge.net>
+tar,1749,707,529,328,92,75,1925,2985,58.59296482412061,Slovenian <translation-team-sl@lists.sourceforge.net>
+tomboy,858,147,96,137,21,18,824,1101,77.9291553133515,Slovenian <SL@li.org>
+totem,1982,0,0,439,0,0,1838,1982,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+tracker,480,82,296,84,17,96,482,858,55.94405594405595,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>
+turba,1242,153,83,291,32,11,1100,1478,84.03247631935047,sl_SI <duck@obala.net>
+tuxpaint,522,18,51,134,4,21,427,591,88.3248730964467,Slovenian <translation-team-sl@lists.sourceforge.net>
+tuxpaint-stamps,710,480,718,167,187,145,494,1908,37.21174004192872,slovenscina <users@sl.openoffice.org>
+usermode,459,2,109,77,1,18,436,570,80.52631578947368,Slovenian <translation-team-sl@lists.sourceforge.net>
+util-linux-ng,10118,1325,293,1755,115,30,10238,11736,86.21336059986366,Slovenian <translation-team-sl@lists.sourceforge.net>
+vino,544,0,0,72,0,0,448,544,100.0,
+vte,96,0,0,18,0,0,102,96,100.0,Slovenian <sl@li.org>
+wesnoth,31091,1711,86265,2911,72,3902,26052,119067,26.112188935641278,Slovenian
+wget,1634,0,0,203,0,0,1640,1634,100.0,Slovenian <translation-team-sl@lists.sourceforge.net>
+wxGTK,6318,0,0,1449,0,0,6240,6318,100.0,"Martin Srebotnjak, LUGOS <users@sl.openoffice.org>"
+wxPython,6318,0,0,1449,0,0,6240,6318,100.0,"Martin Srebotnjak, LUGOS <users@sl.openoffice.org>"
+xchat-gnome,2578,107,1216,716,37,227,2518,3901,66.08561907203281,Slovenian <translation-team-sl@lists.sourceforge.net>
+xkeyboard-config,1459,0,0,517,0,0,1494,1459,100.0,Slovenian <translation-team-sl@lists.sourceforge.net>
+xmms,2776,351,118,929,58,30,2877,3245,85.54699537750385,slovenian <sl@li.org>
+xsane,2811,314,97,636,62,24,2845,3222,87.243947858473,slovenščina <sl@li.org>
+yelp,924,30,3,232,4,3,820,957,96.55172413793103,Slovenian <sl@li.org>
+zenity,554,0,0,129,0,0,551,554,100.0,Slovenian GNOME Translation Team <gnome-si@googlegroups.com>

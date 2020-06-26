@@ -1,0 +1,41 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,0,0,2661,0,0,586,0,2661,0.0,Zulu <zu@li.org>
+anaconda,4257,3997,2162,666,417,222,3146,10416,40.86981566820276,Zulu <zulu@translate.org.za>
+compiz,0,0,39,0,0,14,0,39,0.0,Novell Language <language@novell.com>
+control-center,2619,352,411,564,100,72,2251,3382,77.43938497930219,Zulu <translate-discuss-zu@lists.sourceforge.net>
+eog,557,2,55,150,1,7,474,614,90.71661237785015,Zulu <translate-discuss-zu@lists.sourceforge.net>
+firstboot,31,121,452,6,8,38,21,604,5.132450331125828,Zulu <zulu@translate.org.za>
+gdm,5299,0,2,706,0,1,3792,5301,99.96227126957177,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-desktop,316,4,0,72,1,0,260,320,98.75,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-mime-data,834,53,0,342,20,0,951,887,94.02480270574972,
+gnome-panel,3578,250,109,462,35,20,2725,3937,90.88138176276352,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-session,513,3,0,100,1,0,424,516,99.4186046511628,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-settings-daemon,313,196,525,47,42,82,257,1034,30.270793036750483,Zulu <translate-discuss-zu@lists.sourceforge.net>
+gnome-vfs2,1263,19,0,247,1,0,1009,1282,98.5179407176287,Zulu <translate-discuss-zu@lists.sourceforge.net>
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imsettings,0,0,849,0,0,139,0,849,0.0,none
+iso-codes,162,2994,9212,154,2563,5919,173,12368,1.3098318240620956,Zulu <zulu@translate.org.za>
+knetworkmanager,13,135,260,11,68,106,20,408,3.1862745098039214,Novell Language <language@novell.com>
+libbonoboui,314,7,39,92,3,18,262,360,87.22222222222223,Zulu <translate-discuss-zu@lists.sourceforge.net>
+libgnomeui,1270,83,66,314,19,12,1023,1419,89.49964763918253,Zulu <translate-discuss-zu@lists.sourceforge.net>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+liblicense,44,0,22,37,0,13,44,66,66.66666666666666,LANGUAGE <LL@li.org>
+libvirt,1224,4284,2717,290,834,526,1224,8225,14.88145896656535,none
+nautilus,6674,174,128,1171,36,7,4763,6976,95.67087155963303,Zulu <translate-discuss-zu@lists.sourceforge.net>
+pam,406,63,48,91,10,9,346,517,78.52998065764024,Novell Language <language@novell.com>
+policycoreutils,0,0,4363,0,0,713,0,4363,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,213,14,34,70,5,11,221,261,81.60919540229885,Zulu <zulu@translate.org.za>
+rhpl,136,46,3,58,21,1,122,185,73.51351351351352,Zulu <zulu@translate.org.za>
+rhpxl,102,22,6,36,4,4,102,130,78.46153846153847,Zulu <zulu@translate.org.za>
+setroubleshoot,0,0,582,0,0,162,0,582,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,78,0,0,12,0,0,76,78,100.0,Zulu <zulu@translate.org.za>
+system-config-language,45,0,0,10,0,0,39,45,100.0,Zulu <zulu@translate.org.za>
+system-config-nfs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,15,26,75,3,5,11,13,116,12.931034482758621,Zulu <zulu@translate.org.za>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+virtaal,356,25,812,172,4,185,313,1193,29.840737636211234,translate-discuss-af@lists.sourceforge.net
+yelp,92,80,434,38,45,65,85,606,15.181518151815181,Zulu <translate-discuss-zu@lists.sourceforge.net>

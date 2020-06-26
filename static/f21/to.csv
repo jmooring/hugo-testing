@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+sugar,73,33,1519,50,18,330,84,1625,4.492307692307692,LANGUAGE <LL@li.org>
+sugar-abacus,11,0,23,11,0,14,12,34,32.35294117647059,LANGUAGE <LL@li.org>
+sugar-browse,2,10,177,2,8,42,2,189,1.0582010582010581,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,59,0,0,18,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,1,5,71,1,3,29,1,77,1.2987012987012987,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,1,2,233,1,2,59,1,236,0.423728813559322,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,10,271,0,8,86,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,1,3,138,1,3,70,1,142,0.7042253521126761,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,6,42,0,5,23,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,55,16,38,19,2,10,75,109,50.45871559633027,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,49,0,27,31,0,9,67,76,64.47368421052632,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,4,595,0,4,123,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,1,157,0,1,77,0,158,0.0,LANGUAGE <LL@li.org>

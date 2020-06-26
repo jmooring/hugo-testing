@@ -1,0 +1,417 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4004,0,0,477,0,0,4344,4004,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+NetworkManager,0,47,27712,0,7,2214,0,27759,0.0,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-fortisslvpn,1,0,322,1,0,59,1,323,0.30959752321981426,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-l2tp,33,0,1202,18,0,168,40,1235,2.6720647773279356,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-libreswan,8,27,430,5,10,61,11,465,1.7204301075268817,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-openvpn,11,118,1847,7,42,224,18,1976,0.5566801619433198,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-pptp,584,0,0,129,0,0,617,584,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-ssh,18,29,239,4,14,51,25,286,6.293706293706294,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-sstp,4,56,774,4,20,118,4,834,0.4796163069544364,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-vpnc,128,0,4,31,0,1,145,132,96.96969696969697,Macedonian <ossm-members@hedona.on.net.mk>
+accerciser,363,0,0,166,0,0,407,363,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+aisleriot,2292,0,0,568,0,0,2000,2292,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+alacarte,42,0,0,16,0,0,46,42,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+alexandria,1039,59,114,285,12,27,1065,1212,85.72607260726073,Macedonian <ufo@linux.net.mk>
+alleyoop,348,0,0,89,0,0,370,348,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+anaconda,79,17,7921,17,4,1332,77,8017,0.985406012224024,Macedonian (http://www.transifex.com/projects/p/anaconda/language/mk/)
+android-tools,1052,46,6580,171,12,895,1303,7678,13.701484761656681,Macedonian (http://www.transifex.com/projects/p/fedora/language/mk/)
+anjuta,4666,1279,768,1233,445,117,5285,6713,69.50692685833457,Macedonian <ossm-members@hedona.on.net.mk>
+asunder,14,0,478,13,0,78,14,492,2.8455284552845526,http://littlesvr.ca/ostd/
+atk,370,1,4,123,1,2,436,375,98.66666666666667,Macedonian <ossm-members@hedona.on.net.mk>
+atomix,146,0,0,59,0,0,162,146,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+atril,735,0,3654,250,0,486,801,4389,16.74641148325359,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+audacity,734,4010,13762,244,1338,2721,750,18506,3.9662812060953208,macedonian <mk@li.org>
+balsa,1911,331,2686,546,39,600,2121,4928,38.778409090909086,Macedonian <lug@lists.linux.net.mk>
+baobab,370,38,132,109,9,8,431,540,68.51851851851852,Macedonian <mkde-l10n@lists.sourceforge.net>
+blueberry,56,0,110,20,0,17,59,166,33.734939759036145,Macedonian <mk@li.org>
+blueman,927,120,816,268,38,287,1020,1863,49.75845410628019,Macedonian <https://hosted.weblate.org/projects/blueman/2-3/mk/>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+brasero,5493,0,0,971,0,0,5653,5493,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+caja,6144,0,3531,1138,0,466,6272,9675,63.503875968992254,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+caja-actions,133,0,18682,82,0,1434,149,18815,0.7068828062715918,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+caja-extensions,409,0,351,89,0,56,441,760,53.815789473684205,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+calamares,68,0,422,13,0,72,77,490,13.877551020408163,Macedonian (https://www.transifex.com/calamares/teams/20061/mk/)
+calibre,111,0,170363,54,0,19211,109,170474,0.06511256848551686,Macedonian (http://www.transifex.com/calibre/calibre/language/mk/)
+calligra,165,11810,14809,90,3279,1668,178,26784,0.6160394265232975,Macedonian <mkde-l10n@lists.sourceforge.net>
+camorama,455,132,248,96,29,44,500,835,54.49101796407185,Macedonian <mk@li.org>
+caribou,200,0,0,60,0,0,221,200,100.0,LANGUAGE <LL@li.org>
+cheese,550,0,0,119,0,0,599,550,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+chkconfig,410,30,153,82,7,19,460,593,69.13996627318718,Macedonian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/mk/>
+chromium,9109,1654,1090,1705,478,304,9419,11853,76.84974268117776,Macedonian <ossm-members@hedona.on.net.mk>
+cinnamon-control-center,521,88,704,521,69,166,521,1313,39.68012185833968,Macedonian <ossm-members@hedona.on.net.mk>
+cinnamon-desktop,223,5,6,26,3,3,241,234,95.2991452991453,Macedonian <ossm-members@hedona.on.net.mk>
+cinnamon-translations,2424,0,11644,639,0,2612,2608,14068,17.23059425646858,Macedonian <mk@li.org>
+clementine,1213,0,4038,293,0,1098,1305,5251,23.100361835840793,Macedonian (Macedonia) (http://www.transifex.com/davidsansome/clementine/language/mk_MK/)
+clutter,2326,473,258,515,97,63,2336,3057,76.08766764802094,mk_MK <jovan@lugola.net>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,944,30,10,169,4,6,901,984,95.9349593495935,Macedonian <>
+dasher,526,0,0,198,0,0,636,526,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+debconf,189,0,2,16,0,1,183,191,98.95287958115183,macedonian <ossm-members@hedona.on.net.mk>
+deluge,1696,0,2644,686,0,647,1787,4340,39.07834101382488,Macedonian <mk@li.org>
+devhelp,360,0,0,91,0,0,378,360,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+dia,870,1153,3688,302,619,1125,955,5711,15.233759411661705,<mk@li.org>
+dialog,4,0,21,4,0,19,5,25,16.0,<ossm-members@hedona.on.net.mk>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dnfdragora,163,0,1608,116,0,358,174,1771,9.203839638622249,Macedonian (https://www.transifex.com/MageiaLinux/teams/9361/mk/)
+elementary-calculator,21,10,204,12,4,59,23,235,8.936170212765958,LANGUAGE <LL@li.org>
+elementary-calendar,177,68,643,87,25,146,183,888,19.93243243243243,LANGUAGE <LL@li.org>
+elementary-camera,0,0,205,0,0,47,0,205,0.0,
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,132,85,1391,44,21,242,139,1608,8.208955223880597,Macedonian <mk@li.org>
+elementary-files,80,307,3282,40,72,552,82,3669,2.1804306350504223,Macedonian <mk@li.org>
+elementary-greeter,0,0,219,0,0,48,0,219,0.0,
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,2087,712,1212,484,77,257,2331,4011,52.03191224133632,Macedonian (http://www.transifex.com/projects/p/shotwell/language/mk/)
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+engrampa,1041,0,6797,255,0,638,1072,7838,13.281449349323807,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+entangle,0,0,953,0,0,229,0,953,0.0,Macedonian
+eog,1607,0,0,323,0,0,1700,1607,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+eog-plugins,23,0,0,7,0,0,32,23,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+eom,910,0,4051,237,0,305,964,4961,18.343075992743398,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+epiphany,2199,0,0,613,0,0,2300,2199,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+evince,1437,0,0,366,0,0,1574,1437,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+evolution,23418,3479,18539,4815,680,1179,24886,45436,51.54062857645919,Macedonian <ossm-members@hedona.on.net.mk>
+evolution-data-server,5021,0,0,1042,0,0,5892,5021,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+exaile,222,124,3822,118,57,917,225,4168,5.326295585412668,Macedonian <https://hosted.weblate.org/projects/exaile/master/mk/>
+file-roller,1548,0,0,337,0,0,1603,1548,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+filezilla,3930,0,0,975,0,0,4378,3930,100.0,Macedonian
+five-or-more,160,46,76,48,11,6,194,282,56.73758865248227,Macedonian <ossm-members@hedona.on.net.mk>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Macedonian
+four-in-a-row,111,51,94,43,17,13,131,256,43.359375,Macedonian <ossm-members@hedona.on.net.mk>
+fragments,316,0,1690,138,0,388,378,2006,15.752741774675972,Macedonian (https://www.transifex.com/transmissionbt/teams/33778/mk/)
+freedink-data,2611,83,11064,450,14,1754,2357,13758,18.9780491350487,Macedonian <ufo@linux.net.mk>
+freedink-dfarc,656,82,0,127,2,0,687,738,88.88888888888889,<damjandimitrioski@gmail.com>
+gala,0,0,358,0,0,73,0,358,0.0,none
+gcompris-qt,29269,0,0,2992,0,0,28626,29269,100.0,Macedonian Team (mk)
+gconf-editor,335,0,0,99,0,0,377,335,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gcr,11,159,452,6,48,173,10,622,1.7684887459807075,Macedonian <mkde-l10n@lists.sourceforge.net>
+gdk-pixbuf2,1102,195,51,163,34,5,1311,1348,81.75074183976261,Macedonian <ossm-members@hedona.on.net.mk>
+gdm,422,95,133,60,14,13,490,650,64.92307692307693,Macedonian <mkde-l10n@lists.sourceforge.net>
+gedit,4316,0,0,739,0,0,4378,4316,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gedit-plugins,786,192,227,359,59,51,902,1205,65.22821576763485,Macedonian <ossm-members@hedona.on.net.mk>
+genius,3078,0,0,503,0,0,3135,3078,100.0,<mk@li.org>
+gftp,3370,0,0,595,0,0,3671,3370,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+ggz-base-libs,74,0,0,17,0,0,88,74,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+ghemical,1864,296,18,418,89,5,2032,2178,85.58310376492194,Macedonian <FOSS-in-EDU@googlegroups.com>
+ghex,794,0,0,224,0,0,817,794,100.0,Macedonian <lug@lists.linux.net.mk>
+gimagereader,1579,183,55,450,18,14,1741,1817,86.90148596587782,Macedonian <https://hosted.weblate.org/projects/gimagereader/translations/mk/>
+gimp,20783,4884,1138,5293,1526,187,23151,26805,77.53404215631411,American English <kde-i18n-doc@lists.kde.org>
+glade,3207,0,0,871,0,0,3471,3207,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+glade2,1239,4039,562,398,745,157,1143,5840,21.215753424657535,Macedonian <lug@lists.linux.net.mk>
+glib2,2025,515,2237,347,104,296,2333,4777,42.39062172911869,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-applets,3349,0,348,727,0,4,3725,3697,90.58696240194752,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-bluetooth,599,0,0,175,0,0,654,599,100.0,LANGUAGE <LL@li.org>
+gnome-books,119,0,0,49,0,0,133,119,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-calculator,1399,0,0,433,0,0,1408,1399,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-chess,918,241,231,140,67,30,941,1390,66.0431654676259,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-contacts,231,0,0,116,0,0,245,231,100.0,LANGUAGE <LL@li.org>
+gnome-control-center,3403,88,704,1474,69,166,3667,4195,81.12038140643624,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-desktop3,235,0,0,31,0,0,253,235,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-dictionary,792,27,14,173,4,6,870,833,95.07803121248499,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-disk-utility,4544,0,0,1077,0,0,4989,4544,100.0,LANGUAGE <LL@li.org>
+gnome-do,168,0,444,43,0,101,190,612,27.450980392156865,Macedonian <mk@li.org>
+gnome-doc-utils,238,0,0,92,0,0,242,238,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-extensions-app,1338,0,0,335,0,0,1465,1338,100.0,mk_MK <jovan@lugola.net>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-icon-theme,43,0,0,38,0,0,47,43,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-keyring,552,0,0,111,0,0,595,552,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-klotski,65,40,89,40,14,5,83,194,33.50515463917525,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-mahjongg,85,78,141,36,17,10,100,304,27.960526315789476,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-menus,165,0,0,58,0,0,192,165,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-mime-data,887,0,0,362,0,0,974,887,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-mines,100,105,139,28,31,13,117,344,29.069767441860467,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-nettool,573,0,0,197,0,0,634,573,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-nibbles,132,121,194,47,43,20,138,447,29.53020134228188,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-online-accounts,321,0,0,57,0,0,364,321,100.0,LANGUAGE <LL@li.org>
+gnome-packagekit,4794,0,0,811,0,0,5163,4794,100.0,LANGUAGE <LL@li.org>
+gnome-panel,3377,81,62,485,7,16,3554,3520,95.9375,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-power-manager,432,0,0,144,0,0,466,432,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-robots,384,94,119,69,21,7,404,597,64.321608040201,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-screenshot,187,106,26,42,15,2,213,319,58.620689655172406,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-search-tool,1219,69,71,173,11,16,1150,1359,89.69830757910228,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-session,714,0,0,114,0,0,793,714,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-settings-daemon,3749,0,0,551,0,0,3960,3749,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-shell,1338,0,0,335,0,0,1465,1338,100.0,mk_MK <jovan@lugola.net>
+gnome-shell-frippery,19,0,0,7,0,0,24,19,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-sudoku,26,140,233,14,40,18,43,399,6.516290726817042,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-system-log,229,52,241,48,15,31,237,522,43.86973180076628,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-system-monitor,1072,0,0,275,0,0,1236,1072,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-terminal,4145,0,0,487,0,0,4065,4145,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-tetravex,49,71,100,17,14,14,63,220,22.272727272727273,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-user-share,61,0,0,13,0,0,62,61,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-vfs2,1508,0,0,301,0,0,1578,1508,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Macedonian <ossm-members@hedona.on.net.mk>
+gnumeric,3545,2120,29381,1199,597,3846,3934,35046,10.115277064429606,Macedonian <ossm-members@hedona.on.net.mk>
+godot,188,21,14917,57,8,3138,192,15126,1.2428930318656617,Macedonian <https://hosted.weblate.org/projects/godot-engine/godot/mk/>
+gparted,1274,0,0,279,0,0,1406,1274,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gramps,6682,18318,14917,1634,3574,1640,7127,39917,16.739734950021294,Macedonian <FOSS-in-EDU@googlegroups.com>
+granite,0,0,498,0,0,118,0,498,0.0,
+gthumb,2563,0,4,864,0,2,2836,2567,99.84417608102844,Macedonian <ossm-members@hedona.on.net.mk>
+gtk2,11197,1505,1002,2048,448,288,11753,13704,81.70607122008174,Macedonian <ossm-members@hedona.on.net.mk>
+gtk2-engines,99,0,0,45,0,0,146,99,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gtk3,9109,1654,1090,1705,478,304,9419,11853,76.84974268117776,Macedonian <ossm-members@hedona.on.net.mk>
+gtk4,9109,1654,1090,1705,478,304,9419,11853,76.84974268117776,Macedonian <ossm-members@hedona.on.net.mk>
+gtkhtml3,488,0,0,310,0,0,541,488,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gtksourceview2,1018,0,0,388,0,0,1194,1018,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gtksourceview3,119,85,118,38,21,47,141,322,36.95652173913043,Macedonian <ossm-members@hedona.on.net.mk>
+gtksourceview4,1545,0,0,625,0,0,1797,1545,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gtksourceview5,1545,0,0,625,0,0,1797,1545,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gtranslator,1433,0,0,359,0,0,1553,1433,100.0,Macedonian <lug@lists.linux.net.mk>
+gucharmap,918,0,0,348,0,0,918,918,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gvfs,2412,0,0,537,0,0,2873,2412,100.0,en_US <kde-i18n-doc@lists.kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hexchat,3012,0,2959,878,0,568,3056,5971,50.44381175682465,Macedonian (http://www.transifex.com/hexchat/hexchat/language/mk/)
+iagno,33,113,176,15,35,22,45,322,10.248447204968944,Macedonian <ossm-members@hedona.on.net.mk>
+icewm,499,793,963,188,74,260,599,2255,22.12860310421286,Macedonian <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/mk/>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Macedonian
+initscripts,731,79,308,109,14,35,760,1118,65.38461538461539,<XX@li.org>
+inkscape,1,11353,32251,1,4516,4640,1,43605,0.0022933149868134385,<mk@li.org>
+iso-codes,1110,3829,10766,508,3039,6636,940,15705,7.067812798471825,Macedonian <ossm-members@hedona.on.net.mk>
+isomaster,35,1,638,24,1,82,36,674,5.192878338278932,http://littlesvr.ca/ostd/
+kaudiocreator,464,250,422,143,56,74,495,1136,40.845070422535215,Macedonian <mkde-l10n@lists.sourceforge.net>
+kcoloredit,8,92,178,5,29,61,13,278,2.877697841726619,Macedonian <mkde-l10n@lists.sourceforge.net>
+kde-cli-tools,1582,313,240,154,28,35,1616,2135,74.09836065573771,Macedonian <mkde-l10n@lists.sourceforge.net>
+kde-i18n,119,0,0,11,0,0,40,119,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kbookmarks,0,203,27,0,46,3,0,230,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kcmutils,163,100,3,20,16,2,156,266,61.278195488721806,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kconfig,0,50,239,0,5,99,0,289,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kconfigwidgets,131,144,67,67,44,14,135,342,38.30409356725146,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kcoreaddons,0,269,109,0,83,48,0,378,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kdeclarative,62,62,33,9,8,7,61,157,39.490445859872615,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kdelibs4support,2268,1017,2068,1121,705,718,2832,5353,42.36876517840463,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kdoctools,8,0,0,4,0,0,12,8,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kholidays,0,18,129,0,8,86,0,147,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-khtml,1391,137,140,258,16,16,1389,1668,83.39328537170265,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kiconthemes,11,15,13,10,4,4,11,39,28.205128205128204,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kinit,85,31,0,7,4,0,86,116,73.27586206896551,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kio,6818,2535,2555,821,305,234,7058,11908,57.25562646960027,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kjobwidgets,0,133,0,0,38,0,0,133,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kjsembed,213,0,35,41,0,3,263,248,85.88709677419355,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-knewstuff,177,264,1211,43,97,90,204,1652,10.714285714285714,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-knotifyconfig,43,86,0,15,2,0,45,129,33.33333333333333,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kparts,104,28,0,26,3,0,104,132,78.78787878787878,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kpty,15,0,0,4,0,0,20,15,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kross,82,18,0,29,6,0,88,100,82.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kservice,66,79,28,9,15,4,70,173,38.15028901734104,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-ktexteditor,2161,2117,4599,417,417,407,2317,8877,24.34380984566858,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-ktextwidgets,351,13,109,106,9,15,385,473,74.20718816067652,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kwallet,529,315,491,51,8,29,562,1335,39.62546816479401,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kwidgetsaddons,0,1149,155,0,428,39,0,1304,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-kxmlgui,676,811,87,112,107,11,682,1574,42.94790343074968,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kf5-syntax-highlighting,0,251,361,0,183,179,0,612,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+kgamma,130,0,0,16,0,0,140,130,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+khotkeys,401,33,17,119,9,8,436,451,88.91352549889136,Macedonian <mkde-l10n@lists.sourceforge.net>
+kiconedit,682,11,33,135,5,15,665,726,93.93939393939394,Macedonian <mkde-l10n@lists.sourceforge.net>
+kinfocenter,71,74,88,32,36,36,77,233,30.472103004291846,Macedonian <mkde-l10n@lists.sourceforge.net>
+kjots,59,193,399,16,41,77,68,651,9.062980030721967,Macedonian <mkde-l10n@lists.sourceforge.net>
+kmenuedit,236,14,27,51,4,8,244,277,85.1985559566787,Macedonian <mkde-l10n@lists.sourceforge.net>
+koffice-kivio,114,868,2620,44,399,597,128,3602,3.1649083842309826,Macedonian <mkde-l10n@lists.sourceforge.net>
+kpilot,972,558,5626,277,167,417,1154,7156,13.583007266629401,Macedonian <mkde-l10n@lists.sourceforge.net>
+kreport,0,272,139,0,146,26,0,411,0.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+krita,35,7688,20166,14,3466,3326,40,27889,0.12549750797805587,Macedonian <mkde-l10n@lists.sourceforge.net>
+ksig,71,2,12,17,1,8,71,85,83.52941176470588,Macedonian <mkde-l10n@lists.sourceforge.net>
+kstars,835,18219,43288,370,7987,8414,941,62342,1.3393859677264124,Macedonian <mkde-l10n@lists.sourceforge.net>
+ksysguard,901,55,137,197,24,16,984,1093,82.43366880146387,Macedonian <mkde-l10n@lists.sourceforge.net>
+kwin,1346,959,3003,254,287,540,1448,5308,25.357950263752826,Macedonian <mkde-l10n@lists.sourceforge.net>
+libbonobo,547,0,0,108,0,0,608,547,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libbonoboui,368,0,0,115,0,0,419,368,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libcryptui,2862,0,0,602,0,0,3188,2862,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+libfilezilla,15,0,0,4,0,0,20,15,100.0,Macedonian
+libgda,0,1156,9986,0,392,1662,0,11142,0.0,<mk@li.org>
+libgdl,613,0,0,98,0,0,615,613,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+libghemical,752,102,38,187,23,7,814,892,84.30493273542601,Macedonian <FOSS-in-EDU@googlegroups.com>
+libgnome,1757,0,0,271,0,0,1975,1757,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgnomecanvas,378,0,0,95,0,0,407,378,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgnomekbd,235,0,0,49,0,0,281,235,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgnomeui,1309,0,0,334,0,0,1441,1309,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgtop2,126,0,0,40,0,0,152,126,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgweather,0,0,0,0,0,0,0,0,0.0,
+libksysguard,32,331,3079,20,72,245,32,3442,0.9296920395119116,Macedonian <mkde-l10n@lists.sourceforge.net>
+libmatekbd,163,0,145,39,0,52,194,308,52.922077922077925,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+libmatemixer,10,0,232,10,0,116,12,242,4.132231404958678,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+libmateweather,5315,0,828,3918,0,657,5324,6143,86.52124369200716,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+libnma,209,406,302,63,76,56,229,917,22.791712104689203,Macedonian <ossm-members@hedona.on.net.mk>
+libreoffice,321035,15318,360125,44112,5909,38548,320830,696478,46.09406183684194,LANGUAGE <LL@li.org>
+libuser,904,25,508,197,5,99,1066,1437,62.908837856645796,Macedonian (http://www.transifex.com/projects/p/fedora/language/mk/)
+libvirt,1189,10480,56095,286,2005,8058,1384,67764,1.7546189717254,Macedonian (http://www.transifex.com/projects/p/fedora/language/mk/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Macedonian (http://www.transifex.com/projects/p/fedora/language/mk/)
+libwnck,1124,0,0,241,0,0,1296,1124,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libwnck3,1106,18,0,240,1,0,1275,1124,98.39857651245552,Macedonian <ossm-members@hedona.on.net.mk>
+libzypp,171,189,2354,150,104,733,165,2714,6.3006632277081795,Macedonian <i18n@suse.de>
+liferea,355,748,1113,99,210,214,386,2216,16.01985559566787,Macedonian <ossm-members@hedona.on.net.mk>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Macedonian (http://www.transifex.com/the_cavalry/light-locker/language/mk/)
+lightsoff,13,30,54,6,9,4,28,97,13.402061855670103,Macedonian <ossm-members@hedona.on.net.mk>
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+mame,0,0,3650,0,0,1283,0,3650,0.0,MAME Language Team
+man-pages-l10n,4029,450,86611,949,222,11386,4370,91090,4.423098034910528,Macedonian <ufo@linux.net.mk>
+manafirewall,14,0,1083,13,0,120,14,1097,1.276207839562443,Macedonian (https://www.transifex.com/MageiaLinux/teams/9361/mk/)
+marco,2495,0,1808,317,0,113,2621,4303,57.98280269579364,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-applets,1593,14,14350,400,5,1241,1777,15957,9.983079526226735,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-backgrounds,26,0,29,18,0,11,26,55,47.27272727272727,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-calc,1262,0,2061,456,0,293,1259,3323,37.97773096599458,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-control-center,2680,0,5568,950,0,561,2926,8248,32.49272550921435,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-desktop,1394,0,982,198,0,103,1564,2376,58.670033670033675,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-media,22,0,217,17,0,82,25,239,9.205020920502092,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-menu,61,0,247,33,0,77,63,308,19.805194805194805,Macedonian (http://www.transifex.com/mate/MATE/language/mk/)
+mate-menus,98,0,5,38,0,1,110,103,95.14563106796116,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-notification-daemon,120,0,66,35,0,18,135,186,64.51612903225806,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-panel,3754,0,2966,505,0,309,3817,6720,55.86309523809524,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-polkit,5,0,118,4,0,17,6,123,4.0650406504065035,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-power-manager,1042,0,4077,196,0,355,1179,5119,20.35553819105294,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-screensaver,839,0,262,143,0,33,907,1101,76.20345140781109,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-sensors-applet,15,14,2131,11,8,207,21,2160,0.6944444444444444,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-session-manager,392,0,323,96,0,36,432,715,54.82517482517483,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-settings-daemon,770,0,1436,141,0,178,884,2206,34.904805077062555,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-system-monitor,515,0,4332,199,0,449,555,4847,10.625128945739633,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-terminal,3097,0,5289,372,0,431,2976,8386,36.93059861674219,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-themes,9,0,65,3,0,20,9,74,12.162162162162163,Macedonian (http://www.transifex.com/mate/MATE/language/mk/)
+mate-user-admin,12,0,616,11,0,120,12,628,1.910828025477707,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-user-guide,139,0,42830,83,0,3145,172,42969,0.32348902697293397,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+mate-utils,2910,0,7150,600,0,526,3043,10060,28.926441351888666,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+metacity,7924,0,0,517,0,0,7550,7924,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+mingw-GConf2,4004,0,0,477,0,0,4344,4004,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+mingw-atk,370,1,4,123,1,2,436,375,98.66666666666667,Macedonian <ossm-members@hedona.on.net.mk>
+mingw-gdk-pixbuf,1102,195,51,163,34,5,1311,1348,81.75074183976261,Macedonian <ossm-members@hedona.on.net.mk>
+mingw-glib2,2025,515,2237,347,104,296,2333,4777,42.39062172911869,Macedonian <mkde-l10n@lists.sourceforge.net>
+mingw-gtk2,11197,1505,1002,2048,448,288,11753,13704,81.70607122008174,Macedonian <ossm-members@hedona.on.net.mk>
+mingw-gtk3,9109,1654,1090,1705,478,304,9419,11853,76.84974268117776,Macedonian <ossm-members@hedona.on.net.mk>
+mingw-gtksourceview3,119,85,118,38,21,47,141,322,36.95652173913043,Macedonian <ossm-members@hedona.on.net.mk>
+mingw-libvirt,1189,10480,56095,286,2005,8058,1384,67764,1.7546189717254,Macedonian (http://www.transifex.com/projects/p/fedora/language/mk/)
+moodle,0,1,51,0,1,13,0,52,0.0,i18n@lists.horde.org
+mousetweaks,294,0,0,76,0,0,380,294,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+mozo,43,0,3,21,0,3,46,46,93.47826086956522,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+muffin,7924,0,0,517,0,0,7550,7924,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+mutter,7924,0,0,517,0,0,7550,7924,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+mutter3.38,7924,0,0,517,0,0,7550,7924,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+nautilus,7079,0,0,1121,0,0,7322,7079,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+network-manager-applet,837,1407,2060,254,277,327,1014,4304,19.447026022304833,Macedonian <ossm-members@hedona.on.net.mk>
+newt,4,0,0,4,0,0,5,4,100.0,<ossm-members@hedona.on.net.mk>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,8,0,13,4,0,8,9,21,38.095238095238095,Macedonian <mkde-l10n@lists.sourceforge.net>
+olpc-switch-desktop,0,2,156,0,1,13,0,158,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,4309,0,0,1337,0,0,4907,4309,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+pam,0,20,515,0,3,97,0,535,0.0,Macedonian (http://www.transifex.com/projects/p/fedora/language/mk/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+passwd,259,0,77,47,0,10,305,336,77.08333333333334,Macedonian (http://www.transifex.com/projects/p/fedora/language/mk/)
+pgadmin3,50,40,23126,42,23,5786,50,23216,0.215368711233632,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser5,0,83,185,0,17,33,0,268,0.0,Macedonian <https://hosted.weblate.org/projects/phpmyadmin/master/mk/>
+pidgin,11182,0,4653,2605,0,852,12305,15835,70.61572466056205,Macedonian (http://www.transifex.com/pidgin/pidgin/language/mk/)
+pidgin-guifications,414,58,33,170,15,7,431,505,81.98019801980197,Macedonian <ossm-members@hedona.on.net.mk>
+plasma-desktop,2697,696,1165,303,205,296,2665,4558,59.17068889863975,Macedonian <mkde-l10n@lists.sourceforge.net>
+plasma-drkonqi,275,766,925,42,87,72,299,1966,13.987792472024415,Macedonian <mkde-l10n@lists.sourceforge.net>
+plasma-oxygen,15,92,508,8,32,179,23,615,2.4390243902439024,Macedonian <mkde-l10n@lists.sourceforge.net>
+plasma-sdk,103,14,133,35,7,21,114,250,41.199999999999996,Macedonian <mkde-l10n@lists.sourceforge.net>
+plasma-systemsettings,68,14,136,21,4,31,69,218,31.19266055045872,Macedonian <mkde-l10n@lists.sourceforge.net>
+plasma-workspace,1835,1236,3041,547,354,367,2056,6112,30.022905759162306,Macedonian <mkde-l10n@lists.sourceforge.net>
+pluma,3744,0,9369,968,0,1122,3940,13113,28.551818805765272,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+pluma-plugins,131,0,1267,16,0,127,139,1398,9.370529327610873,Macedonian (https://www.transifex.com/mate/teams/13566/mk/)
+policycoreutils,1796,46,10329,299,12,1465,2215,12171,14.756388135732479,Macedonian
+pykickstart,123,43,1531,12,1,170,127,1697,7.248084855627577,Macedonian (http://www.transifex.com/projects/p/pykickstart/language/mk/)
+python-apt,40,262,242,13,63,42,46,544,7.352941176470589,Macedonian <ossm-members@hedona.on.net.mk>
+python-blivet,37,0,547,3,0,75,28,584,6.335616438356165,Macedonian (http://www.transifex.com/projects/p/blivet/language/mk/)
+python-django,2879,0,844,758,0,89,3032,3723,77.33011012624227,Macedonian (http://www.transifex.com/django/django/language/mk/)
+python-django-contrib-comments,233,0,11,58,0,2,253,244,95.49180327868852,Macedonian (http://www.transifex.com/django/django-contrib-comments/language/mk/)
+python-django-formtools,24,0,8,7,0,4,25,32,75.0,Macedonian (http://www.transifex.com/projects/p/django-formtools/language/mk/)
+python-django-rest-framework,525,0,177,89,0,36,559,702,74.78632478632478,Macedonian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/mk/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Macedonian
+python-formencode,742,0,83,101,0,16,679,825,89.93939393939394,Andrija Zaric <andrija@lis.rs>
+python-meh,0,0,109,0,0,23,0,109,0.0,Macedonian
+python-sphinx,54,0,4739,31,0,711,59,4793,1.1266430210723972,Macedonian (http://www.transifex.com/sphinx-doc/sphinx-1/language/mk/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Macedonian (https://www.transifex.com/sphinx-doc/teams/36659/mk/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Macedonian (https://www.transifex.com/sphinx-doc/teams/36659/mk/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Macedonian (https://www.transifex.com/sphinx-doc/teams/36659/mk/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Macedonian (https://www.transifex.com/sphinx-doc/teams/36659/mk/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Macedonian (https://www.transifex.com/sphinx-doc/teams/36659/mk/)
+quadrapassel,233,73,122,59,16,4,260,428,54.4392523364486,Macedonian <ossm-members@hedona.on.net.mk>
+redhat-menus,261,0,0,86,0,0,286,261,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+remmina,155,220,4897,43,133,806,168,5272,2.940060698027314,Macedonian <https://hosted.weblate.org/projects/remmina/remmina/mk/>
+rhythmbox,4142,0,0,952,0,0,4598,4142,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+sawfish,316,972,5155,69,264,649,364,6443,4.904547571007295,<mk@li.org>
+scratch,1302,4,164,551,2,73,1375,1470,88.57142857142857,LANGUAGE <LL@li.org>
+seahorse,2400,0,0,570,0,0,2648,2400,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+seahorse-caja,411,10,0,109,1,0,505,421,97.62470308788599,Macedonian <ossm-members@hedona.on.net.mk>
+seahorse-nautilus,411,10,0,109,1,0,505,421,97.62470308788599,Macedonian <ossm-members@hedona.on.net.mk>
+setuptool,47,8,0,13,1,0,57,55,85.45454545454545,Macedonian <ossm-members@hedona.on.net.mk>
+shotwell,2790,12,1751,606,2,338,3046,4553,61.27827805842302,Macedonian (http://www.transifex.com/projects/p/shotwell/language/mk/)
+snapper,0,73,1022,0,16,236,0,1095,0.0,Macedonian <i18n@suse.de>
+sos,0,0,122,0,0,30,0,122,0.0,none
+sound-juicer,996,0,0,195,0,0,1051,996,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+stardict,2522,1346,7210,440,153,606,2626,11078,22.76584220978516,LANGUAGE <LL@li.org>
+stellarium,1728,0,148291,902,0,36717,1842,150019,1.1518540984808592,Macedonian (https://www.transifex.com/stellarium/teams/80998/mk/)
+sugar-write,63,0,58,37,0,18,66,121,52.066115702479344,LANGUAGE <LL@li.org>
+swell-foop,82,55,129,31,14,10,99,266,30.82706766917293,Macedonian <ossm-members@hedona.on.net.mk>
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,3,1,632,3,1,210,3,636,0.4716981132075472,Macedonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/mk/>
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,Macedonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/mk/>
+switchboard-plug-networking,1,0,531,1,0,146,1,532,0.18796992481203006,Macedonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/mk/>
+switchboard-plug-notifications,1,0,141,1,0,20,1,142,0.7042253521126761,Macedonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/mk/>
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,3,0,346,3,0,112,3,349,0.8595988538681949,Macedonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/mk/>
+switchboard-plug-printers,1,0,405,1,0,152,1,406,0.24630541871921183,Macedonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/mk/>
+switchboard-plug-sharing,1,0,140,1,0,31,1,141,0.7092198581560284,Macedonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/mk/>
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+switchdesk,16,85,21,3,9,7,18,122,13.114754098360656,none
+system-config-rootpassword,15,26,75,3,5,11,15,116,12.931034482758621,Macedonian <ossm-members@hedona.on.net.mk>
+system-switch-mail,9,88,4,6,8,3,14,101,8.91089108910891,Macedonian <info@slobodensoftver.org.mk>
+tali,315,39,67,80,11,6,301,421,74.82185273159145,Macedonian <ossm-members@hedona.on.net.mk>
+terminator,147,0,1303,79,0,348,158,1450,10.137931034482758,Macedonian (https://www.transifex.com/terminator/teams/109338/mk/)
+tomboy,3278,0,0,471,0,0,3585,3278,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+totem,2453,0,0,561,0,0,2562,2453,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+totem-pl-parser,35,0,0,8,0,0,33,35,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+tracker,666,87,105,151,23,23,759,858,77.62237762237763,Macedonian <ossm-members@hedona.on.net.mk>
+tracker-miners,666,87,105,151,23,23,759,858,77.62237762237763,Macedonian <ossm-members@hedona.on.net.mk>
+transmission,316,0,1682,138,0,385,378,1998,15.815815815815814,Macedonian (https://www.transifex.com/transmissionbt/teams/33778/mk/)
+tuxpaint,309,1236,741,113,135,132,320,2286,13.517060367454068,Macedonian <mk@li.org>
+tuxpaint-stamps,536,627,2086,174,210,421,400,3249,16.497383810403203,Macedonian <mk@li.org>
+usermode,542,0,31,91,0,5,549,573,94.58987783595113,LANGUAGE <LL@li.org>
+vdr,1342,0,17,528,0,6,1342,1359,98.74908020603385,Macedonian <kde-i18n-doc@kde.org>
+vinagre,1419,0,0,256,0,0,1613,1419,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none
+xdg-user-dirs,26,2,0,26,2,0,26,28,92.85714285714286,Macedonian <ossm-members@hedona.on.net.mk>
+xed,2279,0,1481,654,0,270,2433,3760,60.61170212765957,Macedonian (http://www.transifex.com/projects/p/MATE/language/mk/)
+xreader,640,0,980,182,0,197,656,1620,39.50617283950617,Macedonian (http://www.transifex.com/mate/MATE/language/mk/)
+yelp,502,0,0,119,0,0,521,502,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+yelp-xsl,238,0,0,92,0,0,242,238,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+zenity,582,0,0,135,0,0,598,582,100.0,Macedonian <ossm-members@hedona.on.net.mk>

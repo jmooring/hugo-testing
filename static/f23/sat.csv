@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iok,137,0,69,33,0,7,161,206,66.50485436893204,Santali <LL@li.org>
+libreoffice,69817,8420,21496,20717,4396,6338,105395,99733,70.00391044087714,LANGUAGE <LL@li.org>
+tuxpaint,1591,0,0,291,0,0,1990,1591,100.0,none

@@ -1,0 +1,157 @@
+---
+title: "pluma - translation progress for f35"
+package: pluma
+date: 2026-01-18T03:24:26+00:00
+started_languages: 119
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 221
+release: f35
+---
+The package pluma (version 1.26.0):
+
+* represents 26226 source words to be translated
+* is translated into 119 languages in Fedora f35
+
+
+* contains 221 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [da]({{< ref "/f35/language/da.md" >}}) | 13113 | 13113 | 100.0 | /mnt/stockage/packages/f35/pluma/help/da/da.po/mnt/stockage/packages/f35/pluma/po/da.po | 
+ | [it]({{< ref "/f35/language/it.md" >}}) | 13113 | 13113 | 100.0 | /mnt/stockage/packages/f35/pluma/help/it/it.po/mnt/stockage/packages/f35/pluma/po/it.po | 
+ | [sr]({{< ref "/f35/language/sr.md" >}}) | 13113 | 13113 | 100.0 | /mnt/stockage/packages/f35/pluma/help/sr/sr.po/mnt/stockage/packages/f35/pluma/po/sr.po | 
+ | [ja]({{< ref "/f35/language/ja.md" >}}) | 12680 | 13113 | 96.7 | /mnt/stockage/packages/f35/pluma/help/ja/ja.po/mnt/stockage/packages/f35/pluma/po/ja.po | 
+ | [fr]({{< ref "/f35/language/fr.md" >}}) | 11041 | 13113 | 84.2 | /mnt/stockage/packages/f35/pluma/help/fr/fr.po/mnt/stockage/packages/f35/pluma/po/fr.po | 
+ | [ms]({{< ref "/f35/language/ms.md" >}}) | 10924 | 13113 | 83.3 | /mnt/stockage/packages/f35/pluma/help/ms/ms.po/mnt/stockage/packages/f35/pluma/po/ms.po | 
+ | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 14937 | 26226 | 57.0 | /mnt/stockage/packages/f35/pluma/help/cmn/cmn.po/mnt/stockage/packages/f35/pluma/help/zh_CN/zh_CN.po/mnt/stockage/packages/f35/pluma/po/zh_CN.po/mnt/stockage/packages/f35/pluma/po/cmn.po | 
+ | [gl]({{< ref "/f35/language/gl.md" >}}) | 7013 | 13113 | 53.5 | /mnt/stockage/packages/f35/pluma/help/gl/gl.po/mnt/stockage/packages/f35/pluma/po/gl.po | 
+ | [ca]({{< ref "/f35/language/ca.md" >}}) | 6963 | 13113 | 53.1 | /mnt/stockage/packages/f35/pluma/help/ca/ca.po/mnt/stockage/packages/f35/pluma/po/ca.po | 
+ | [uk]({{< ref "/f35/language/uk.md" >}}) | 6634 | 13113 | 50.6 | /mnt/stockage/packages/f35/pluma/help/uk/uk.po/mnt/stockage/packages/f35/pluma/po/uk.po | 
+ | [es]({{< ref "/f35/language/es.md" >}}) | 6570 | 13113 | 50.1 | /mnt/stockage/packages/f35/pluma/help/es/es.po/mnt/stockage/packages/f35/pluma/po/es.po | 
+ | [ru]({{< ref "/f35/language/ru.md" >}}) | 6411 | 13113 | 48.9 | /mnt/stockage/packages/f35/pluma/help/ru/ru.po/mnt/stockage/packages/f35/pluma/po/ru.po | 
+ | [id]({{< ref "/f35/language/id.md" >}}) | 6235 | 13113 | 47.5 | /mnt/stockage/packages/f35/pluma/help/id/id.po/mnt/stockage/packages/f35/pluma/po/id.po | 
+ | [pl]({{< ref "/f35/language/pl.md" >}}) | 6103 | 13113 | 46.5 | /mnt/stockage/packages/f35/pluma/help/pl/pl.po/mnt/stockage/packages/f35/pluma/po/pl.po | 
+ | [nl]({{< ref "/f35/language/nl.md" >}}) | 6093 | 13113 | 46.5 | /mnt/stockage/packages/f35/pluma/help/nl/nl.po/mnt/stockage/packages/f35/pluma/po/nl.po | 
+ | [cs]({{< ref "/f35/language/cs.md" >}}) | 5997 | 13113 | 45.7 | /mnt/stockage/packages/f35/pluma/help/cs/cs.po/mnt/stockage/packages/f35/pluma/po/cs.po | 
+ | [pt]({{< ref "/f35/language/pt.md" >}}) | 5984 | 13113 | 45.6 | /mnt/stockage/packages/f35/pluma/help/pt/pt.po/mnt/stockage/packages/f35/pluma/po/pt.po | 
+ | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 5984 | 13113 | 45.6 | /mnt/stockage/packages/f35/pluma/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/pluma/po/pt_BR.po | 
+ | [ko]({{< ref "/f35/language/ko.md" >}}) | 5883 | 13113 | 44.9 | /mnt/stockage/packages/f35/pluma/help/ko/ko.po/mnt/stockage/packages/f35/pluma/po/ko.po | 
+ | [sv]({{< ref "/f35/language/sv.md" >}}) | 5866 | 13113 | 44.7 | /mnt/stockage/packages/f35/pluma/help/sv/sv.po/mnt/stockage/packages/f35/pluma/po/sv.po | 
+ | [tr]({{< ref "/f35/language/tr.md" >}}) | 5857 | 13113 | 44.7 | /mnt/stockage/packages/f35/pluma/help/tr/tr.po/mnt/stockage/packages/f35/pluma/po/tr.po | 
+ | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 5754 | 13113 | 43.9 | /mnt/stockage/packages/f35/pluma/help/zh_TW/zh_TW.po/mnt/stockage/packages/f35/pluma/po/zh_TW.po | 
+ | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 5674 | 13113 | 43.3 | /mnt/stockage/packages/f35/pluma/help/nb/nb.po/mnt/stockage/packages/f35/pluma/po/nb.po | 
+ | [lt]({{< ref "/f35/language/lt.md" >}}) | 5635 | 13113 | 43.0 | /mnt/stockage/packages/f35/pluma/help/lt/lt.po/mnt/stockage/packages/f35/pluma/po/lt.po | 
+ | [hu]({{< ref "/f35/language/hu.md" >}}) | 5622 | 13113 | 42.9 | /mnt/stockage/packages/f35/pluma/help/hu/hu.po/mnt/stockage/packages/f35/pluma/po/hu.po | 
+ | [sk]({{< ref "/f35/language/sk.md" >}}) | 5487 | 13113 | 41.8 | /mnt/stockage/packages/f35/pluma/help/sk/sk.po/mnt/stockage/packages/f35/pluma/po/sk.po | 
+ | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 5443 | 13113 | 41.5 | /mnt/stockage/packages/f35/pluma/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f35/pluma/po/ca@valencia.po | 
+ | [fi]({{< ref "/f35/language/fi.md" >}}) | 5342 | 13113 | 40.7 | /mnt/stockage/packages/f35/pluma/help/fi/fi.po/mnt/stockage/packages/f35/pluma/po/fi.po | 
+ | [de]({{< ref "/f35/language/de.md" >}}) | 5308 | 13113 | 40.5 | /mnt/stockage/packages/f35/pluma/help/de/de.po/mnt/stockage/packages/f35/pluma/po/de.po | 
+ | [el]({{< ref "/f35/language/el.md" >}}) | 5308 | 13113 | 40.5 | /mnt/stockage/packages/f35/pluma/help/el/el.po/mnt/stockage/packages/f35/pluma/po/el.po | 
+ | [sl]({{< ref "/f35/language/sl.md" >}}) | 5154 | 13113 | 39.3 | /mnt/stockage/packages/f35/pluma/help/sl/sl.po/mnt/stockage/packages/f35/pluma/po/sl.po | 
+ | [eu]({{< ref "/f35/language/eu.md" >}}) | 5064 | 13113 | 38.6 | /mnt/stockage/packages/f35/pluma/help/eu/eu.po/mnt/stockage/packages/f35/pluma/po/eu.po | 
+ | [ast]({{< ref "/f35/language/ast.md" >}}) | 5043 | 13113 | 38.5 | /mnt/stockage/packages/f35/pluma/help/ast/ast.po/mnt/stockage/packages/f35/pluma/po/ast.po | 
+ | [he]({{< ref "/f35/language/he.md" >}}) | 5024 | 13113 | 38.3 | /mnt/stockage/packages/f35/pluma/help/he/he.po/mnt/stockage/packages/f35/pluma/po/he.po | 
+ | [th]({{< ref "/f35/language/th.md" >}}) | 4983 | 13113 | 38.0 | /mnt/stockage/packages/f35/pluma/help/th/th.po/mnt/stockage/packages/f35/pluma/po/th.po | 
+ | [nds]({{< ref "/f35/language/nds.md" >}}) | 4976 | 13113 | 37.9 | /mnt/stockage/packages/f35/pluma/help/nds/nds.po/mnt/stockage/packages/f35/pluma/po/nds.po | 
+ | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 4975 | 13113 | 37.9 | /mnt/stockage/packages/f35/pluma/help/en_GB/en_GB.po/mnt/stockage/packages/f35/pluma/po/en_GB.po | 
+ | [pa]({{< ref "/f35/language/pa.md" >}}) | 4899 | 13113 | 37.4 | /mnt/stockage/packages/f35/pluma/help/pa/pa.po/mnt/stockage/packages/f35/pluma/po/pa.po | 
+ | [bg]({{< ref "/f35/language/bg.md" >}}) | 4729 | 13113 | 36.1 | /mnt/stockage/packages/f35/pluma/help/bg/bg.po/mnt/stockage/packages/f35/pluma/po/bg.po | 
+ | [ro]({{< ref "/f35/language/ro.md" >}}) | 4644 | 13113 | 35.4 | /mnt/stockage/packages/f35/pluma/help/ro/ro.po/mnt/stockage/packages/f35/pluma/po/ro.po | 
+ | [hy]({{< ref "/f35/language/hy.md" >}}) | 4618 | 13113 | 35.2 | /mnt/stockage/packages/f35/pluma/help/hy/hy.po/mnt/stockage/packages/f35/pluma/po/hy.po | 
+ | [et]({{< ref "/f35/language/et.md" >}}) | 4613 | 13113 | 35.2 | /mnt/stockage/packages/f35/pluma/help/et/et.po/mnt/stockage/packages/f35/pluma/po/et.po | 
+ | [ar]({{< ref "/f35/language/ar.md" >}}) | 4609 | 13113 | 35.1 | /mnt/stockage/packages/f35/pluma/help/ar/ar.po/mnt/stockage/packages/f35/pluma/po/ar.po | 
+ | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 4599 | 13113 | 35.1 | /mnt/stockage/packages/f35/pluma/help/en_AU/en_AU.po/mnt/stockage/packages/f35/pluma/po/en_AU.po | 
+ | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 4595 | 13113 | 35.0 | /mnt/stockage/packages/f35/pluma/help/zh_HK/zh_HK.po/mnt/stockage/packages/f35/pluma/po/zh_HK.po | 
+ | [lv]({{< ref "/f35/language/lv.md" >}}) | 4534 | 13113 | 34.6 | /mnt/stockage/packages/f35/pluma/help/lv/lv.po/mnt/stockage/packages/f35/pluma/po/lv.po | 
+ | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 4505 | 13113 | 34.4 | /mnt/stockage/packages/f35/pluma/help/sr@latin/sr@latin.po/mnt/stockage/packages/f35/pluma/po/sr@latin.po | 
+ | [bn]({{< ref "/f35/language/bn.md" >}}) | 4504 | 13113 | 34.3 | /mnt/stockage/packages/f35/pluma/help/bn/bn.po/mnt/stockage/packages/f35/pluma/po/bn.po | 
+ | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 4504 | 13113 | 34.3 | /mnt/stockage/packages/f35/pluma/help/bn_IN/bn_IN.po/mnt/stockage/packages/f35/pluma/po/bn_IN.po | 
+ | [ta]({{< ref "/f35/language/ta.md" >}}) | 4504 | 13113 | 34.3 | /mnt/stockage/packages/f35/pluma/help/ta/ta.po/mnt/stockage/packages/f35/pluma/po/ta.po | 
+ | [crh]({{< ref "/f35/language/crh.md" >}}) | 4497 | 13113 | 34.3 | /mnt/stockage/packages/f35/pluma/help/crh/crh.po/mnt/stockage/packages/f35/pluma/po/crh.po | 
+ | [kn]({{< ref "/f35/language/kn.md" >}}) | 4377 | 13113 | 33.4 | /mnt/stockage/packages/f35/pluma/help/kn/kn.po/mnt/stockage/packages/f35/pluma/po/kn.po | 
+ | [nn]({{< ref "/f35/language/nn.md" >}}) | 4179 | 13113 | 31.9 | /mnt/stockage/packages/f35/pluma/help/nn/nn.po/mnt/stockage/packages/f35/pluma/po/nn.po | 
+ | [sq]({{< ref "/f35/language/sq.md" >}}) | 4075 | 13113 | 31.1 | /mnt/stockage/packages/f35/pluma/help/sq/sq.po/mnt/stockage/packages/f35/pluma/po/sq.po | 
+ | [br]({{< ref "/f35/language/br.md" >}}) | 3987 | 13113 | 30.4 | /mnt/stockage/packages/f35/pluma/help/br/br.po/mnt/stockage/packages/f35/pluma/po/br.po | 
+ | [mr]({{< ref "/f35/language/mr.md" >}}) | 3983 | 13113 | 30.4 | /mnt/stockage/packages/f35/pluma/help/mr/mr.po/mnt/stockage/packages/f35/pluma/po/mr.po | 
+ | [be]({{< ref "/f35/language/be.md" >}}) | 3946 | 13113 | 30.1 | /mnt/stockage/packages/f35/pluma/help/be/be.po/mnt/stockage/packages/f35/pluma/po/be.po | 
+ | [ml]({{< ref "/f35/language/ml.md" >}}) | 3840 | 13113 | 29.3 | /mnt/stockage/packages/f35/pluma/help/ml/ml.po/mnt/stockage/packages/f35/pluma/po/ml.po | 
+ | [hi]({{< ref "/f35/language/hi.md" >}}) | 3835 | 13113 | 29.2 | /mnt/stockage/packages/f35/pluma/help/hi/hi.po/mnt/stockage/packages/f35/pluma/po/hi.po | 
+ | [eo]({{< ref "/f35/language/eo.md" >}}) | 3833 | 13113 | 29.2 | /mnt/stockage/packages/f35/pluma/help/eo/eo.po/mnt/stockage/packages/f35/pluma/po/eo.po | 
+ | [as]({{< ref "/f35/language/as.md" >}}) | 3828 | 13113 | 29.2 | /mnt/stockage/packages/f35/pluma/help/as/as.po/mnt/stockage/packages/f35/pluma/po/as.po | 
+ | [gu]({{< ref "/f35/language/gu.md" >}}) | 3828 | 13113 | 29.2 | /mnt/stockage/packages/f35/pluma/help/gu/gu.po/mnt/stockage/packages/f35/pluma/po/gu.po | 
+ | [or]({{< ref "/f35/language/or.md" >}}) | 3828 | 13113 | 29.2 | /mnt/stockage/packages/f35/pluma/help/or/or.po/mnt/stockage/packages/f35/pluma/po/or.po | 
+ | [te]({{< ref "/f35/language/te.md" >}}) | 3828 | 13113 | 29.2 | /mnt/stockage/packages/f35/pluma/help/te/te.po/mnt/stockage/packages/f35/pluma/po/te.po | 
+ | [mai]({{< ref "/f35/language/mai.md" >}}) | 3826 | 13113 | 29.2 | /mnt/stockage/packages/f35/pluma/help/mai/mai.po/mnt/stockage/packages/f35/pluma/po/mai.po | 
+ | [vi]({{< ref "/f35/language/vi.md" >}}) | 3807 | 13113 | 29.0 | /mnt/stockage/packages/f35/pluma/help/vi/vi.po/mnt/stockage/packages/f35/pluma/po/vi.po | 
+ | [mk]({{< ref "/f35/language/mk.md" >}}) | 3744 | 13113 | 28.6 | /mnt/stockage/packages/f35/pluma/help/mk/mk.po/mnt/stockage/packages/f35/pluma/po/mk.po | 
+ | [hr]({{< ref "/f35/language/hr.md" >}}) | 3645 | 13113 | 27.8 | /mnt/stockage/packages/f35/pluma/help/hr/hr.po/mnt/stockage/packages/f35/pluma/po/hr.po | 
+ | [dz]({{< ref "/f35/language/dz.md" >}}) | 3623 | 13113 | 27.6 | /mnt/stockage/packages/f35/pluma/help/dz/dz.po/mnt/stockage/packages/f35/pluma/po/dz.po | 
+ | [ne]({{< ref "/f35/language/ne.md" >}}) | 3620 | 13113 | 27.6 | /mnt/stockage/packages/f35/pluma/help/ne/ne.po/mnt/stockage/packages/f35/pluma/po/ne.po | 
+ | [ie]({{< ref "/f35/language/ie.md" >}}) | 3500 | 13113 | 26.7 | /mnt/stockage/packages/f35/pluma/help/ie/ie.po/mnt/stockage/packages/f35/pluma/po/ie.po | 
+ | [am]({{< ref "/f35/language/am.md" >}}) | 3153 | 13113 | 24.0 | /mnt/stockage/packages/f35/pluma/help/am/am.po/mnt/stockage/packages/f35/pluma/po/am.po | 
+ | [is]({{< ref "/f35/language/is.md" >}}) | 2996 | 13113 | 22.8 | /mnt/stockage/packages/f35/pluma/help/is/is.po/mnt/stockage/packages/f35/pluma/po/is.po | 
+ | [cy]({{< ref "/f35/language/cy.md" >}}) | 2993 | 13113 | 22.8 | /mnt/stockage/packages/f35/pluma/help/cy/cy.po/mnt/stockage/packages/f35/pluma/po/cy.po | 
+ | [oc]({{< ref "/f35/language/oc.md" >}}) | 2817 | 13113 | 21.5 | /mnt/stockage/packages/f35/pluma/help/oc/oc.po/mnt/stockage/packages/f35/pluma/po/oc.po | 
+ | [ur]({{< ref "/f35/language/ur.md" >}}) | 2564 | 13113 | 19.6 | /mnt/stockage/packages/f35/pluma/help/ur/ur.po/mnt/stockage/packages/f35/pluma/po/ur.po | 
+ | [tk]({{< ref "/f35/language/tk.md" >}}) | 1076 | 5707 | 18.9 | /mnt/stockage/packages/f35/pluma/po/tk.po | 
+ | [mg]({{< ref "/f35/language/mg.md" >}}) | 2458 | 13113 | 18.7 | /mnt/stockage/packages/f35/pluma/help/mg/mg.po/mnt/stockage/packages/f35/pluma/po/mg.po | 
+ | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 2443 | 13113 | 18.6 | /mnt/stockage/packages/f35/pluma/help/en_CA/en_CA.po/mnt/stockage/packages/f35/pluma/po/en_CA.po | 
+ | [kk]({{< ref "/f35/language/kk.md" >}}) | 2182 | 13113 | 16.6 | /mnt/stockage/packages/f35/pluma/help/kk/kk.po/mnt/stockage/packages/f35/pluma/po/kk.po | 
+ | [fa]({{< ref "/f35/language/fa.md" >}}) | 1932 | 13113 | 14.7 | /mnt/stockage/packages/f35/pluma/help/fa/fa.po/mnt/stockage/packages/f35/pluma/po/fa.po | 
+ | [xh]({{< ref "/f35/language/xh.md" >}}) | 1880 | 13113 | 14.3 | /mnt/stockage/packages/f35/pluma/help/xh/xh.po/mnt/stockage/packages/f35/pluma/po/xh.po | 
+ | [af]({{< ref "/f35/language/af.md" >}}) | 1798 | 13113 | 13.7 | /mnt/stockage/packages/f35/pluma/help/af/af.po/mnt/stockage/packages/f35/pluma/po/af.po | 
+ | [ps]({{< ref "/f35/language/ps.md" >}}) | 1610 | 13113 | 12.3 | /mnt/stockage/packages/f35/pluma/help/ps/ps.po/mnt/stockage/packages/f35/pluma/po/ps.po | 
+ | [si]({{< ref "/f35/language/si.md" >}}) | 1396 | 13113 | 10.6 | /mnt/stockage/packages/f35/pluma/help/si/si.po/mnt/stockage/packages/f35/pluma/po/si.po | 
+ | [ky]({{< ref "/f35/language/ky.md" >}}) | 1366 | 13113 | 10.4 | /mnt/stockage/packages/f35/pluma/help/ky/ky.po/mnt/stockage/packages/f35/pluma/po/ky.po | 
+ | [bs]({{< ref "/f35/language/bs.md" >}}) | 1359 | 13113 | 10.4 | /mnt/stockage/packages/f35/pluma/help/bs/bs.po/mnt/stockage/packages/f35/pluma/po/bs.po | 
+ | [az]({{< ref "/f35/language/az.md" >}}) | 1159 | 13113 | 8.8 | /mnt/stockage/packages/f35/pluma/help/az/az.po/mnt/stockage/packages/f35/pluma/po/az.po | 
+ | [mn]({{< ref "/f35/language/mn.md" >}}) | 1079 | 13113 | 8.2 | /mnt/stockage/packages/f35/pluma/help/mn/mn.po/mnt/stockage/packages/f35/pluma/po/mn.po | 
+ | [ga]({{< ref "/f35/language/ga.md" >}}) | 1005 | 13113 | 7.7 | /mnt/stockage/packages/f35/pluma/help/ga/ga.po/mnt/stockage/packages/f35/pluma/po/ga.po | 
+ | [uz]({{< ref "/f35/language/uz.md" >}}) | 744 | 13253 | 5.6 | /mnt/stockage/packages/f35/pluma/help/uz/uz.po/mnt/stockage/packages/f35/pluma/po/uz.po | 
+ | [wa]({{< ref "/f35/language/wa.md" >}}) | 686 | 13379 | 5.1 | /mnt/stockage/packages/f35/pluma/help/wa/wa.po/mnt/stockage/packages/f35/pluma/po/wa.po | 
+ | [ku]({{< ref "/f35/language/ku.md" >}}) | 636 | 13253 | 4.8 | /mnt/stockage/packages/f35/pluma/help/ku/ku.po/mnt/stockage/packages/f35/pluma/po/ku.po | 
+ | [ka]({{< ref "/f35/language/ka.md" >}}) | 475 | 13113 | 3.6 | /mnt/stockage/packages/f35/pluma/help/ka/ka.po/mnt/stockage/packages/f35/pluma/po/ka.po | 
+ | [es_CO]({{< ref "/f35/language/es_CO.md" >}}) | 385 | 13379 | 2.9 | /mnt/stockage/packages/f35/pluma/help/es_CO/es_CO.po/mnt/stockage/packages/f35/pluma/po/es_CO.po | 
+ | [kmr]({{< ref "/f35/language/kmr.md" >}}) | 356 | 13379 | 2.7 | /mnt/stockage/packages/f35/pluma/help/ku_IQ/ku_IQ.po/mnt/stockage/packages/f35/pluma/po/ku_IQ.po | 
+ | [nso]({{< ref "/f35/language/nso.md" >}}) | 133 | 5707 | 2.3 | /mnt/stockage/packages/f35/pluma/po/nso.po | 
+ | [ug]({{< ref "/f35/language/ug.md" >}}) | 304 | 13113 | 2.3 | /mnt/stockage/packages/f35/pluma/help/ug/ug.po/mnt/stockage/packages/f35/pluma/po/ug.po | 
+ | [zu]({{< ref "/f35/language/zu.md" >}}) | 131 | 5707 | 2.3 | /mnt/stockage/packages/f35/pluma/po/zu.po | 
+ | [li]({{< ref "/f35/language/li.md" >}}) | 106 | 5707 | 1.9 | /mnt/stockage/packages/f35/pluma/po/li.po | 
+ | [pms]({{< ref "/f35/language/pms.md" >}}) | 97 | 5707 | 1.7 | /mnt/stockage/packages/f35/pluma/po/pms.po | 
+ | [fur]({{< ref "/f35/language/fur.md" >}}) | 215 | 13379 | 1.6 | /mnt/stockage/packages/f35/pluma/help/fur/fur.po/mnt/stockage/packages/f35/pluma/po/fur.po | 
+ | [es_MX]({{< ref "/f35/language/es_MX.md" >}}) | 85 | 5707 | 1.5 | /mnt/stockage/packages/f35/pluma/po/es_MX.po | 
+ | [tt]({{< ref "/f35/language/tt.md" >}}) | 76 | 5707 | 1.3 | /mnt/stockage/packages/f35/pluma/po/tt.po | 
+ | [kab]({{< ref "/f35/language/kab.md" >}}) | 66 | 5707 | 1.2 | /mnt/stockage/packages/f35/pluma/po/kab.po | 
+ | [mi]({{< ref "/f35/language/mi.md" >}}) | 66 | 5707 | 1.2 | /mnt/stockage/packages/f35/pluma/po/mi.po | 
+ | [rw]({{< ref "/f35/language/rw.md" >}}) | 153 | 13379 | 1.1 | /mnt/stockage/packages/f35/pluma/help/rw/rw.po/mnt/stockage/packages/f35/pluma/po/rw.po | 
+ | [fy]({{< ref "/f35/language/fy.md" >}}) | 62 | 5707 | 1.1 | /mnt/stockage/packages/f35/pluma/po/fy.po | 
+ | [ha]({{< ref "/f35/language/ha.md" >}}) | 57 | 5707 | 1.0 | /mnt/stockage/packages/f35/pluma/po/ha.po | 
+ | [ig]({{< ref "/f35/language/ig.md" >}}) | 57 | 5707 | 1.0 | /mnt/stockage/packages/f35/pluma/po/ig.po | 
+ | [yo]({{< ref "/f35/language/yo.md" >}}) | 57 | 5707 | 1.0 | /mnt/stockage/packages/f35/pluma/po/yo.po | 
+ | [la]({{< ref "/f35/language/la.md" >}}) | 45 | 5707 | 0.8 | /mnt/stockage/packages/f35/pluma/po/la.po | 
+ | [ks]({{< ref "/f35/language/ks.md" >}}) | 43 | 5707 | 0.8 | /mnt/stockage/packages/f35/pluma/po/ks.po | 
+ | [es_AR]({{< ref "/f35/language/es_AR.md" >}}) | 83 | 13379 | 0.6 | /mnt/stockage/packages/f35/pluma/help/es_AR/es_AR.po/mnt/stockage/packages/f35/pluma/po/es_AR.po | 
+ | [yi]({{< ref "/f35/language/yi.md" >}}) | 33 | 5707 | 0.6 | /mnt/stockage/packages/f35/pluma/po/yi.po | 
+ | [ia]({{< ref "/f35/language/ia.md" >}}) | 24 | 5707 | 0.4 | /mnt/stockage/packages/f35/pluma/po/ia.po | 
+ | [frp]({{< ref "/f35/language/frp.md" >}}) | 35 | 13379 | 0.3 | /mnt/stockage/packages/f35/pluma/help/frp/frp.po/mnt/stockage/packages/f35/pluma/po/frp.po | 
+ | [fr_CA]({{< ref "/f35/language/fr_CA.md" >}}) | 11 | 5707 | 0.2 | /mnt/stockage/packages/f35/pluma/po/fr_CA.po | 
+ | [jv]({{< ref "/f35/language/jv.md" >}}) | 6 | 5707 | 0.1 | /mnt/stockage/packages/f35/pluma/po/jv.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

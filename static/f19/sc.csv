@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,3,0,51098,1,0,5659,3,51101,0.005870726600262226,Sardinian <sc@li.org>
+gnome-do,473,0,139,119,0,25,502,612,77.2875816993464,Sardinian <sc@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Sardinian <sc@li.org>
+pootle,2424,0,0,459,0,0,2994,2424,100.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deluge,26,0,2700,14,0,863,27,2726,0.9537784299339692,Luxembourgish <lb@li.org>
+flaw,84,0,0,53,0,0,87,84,100.0,LANGUAGE <LL@li.org>
+geany,4327,767,620,923,231,108,4368,5714,75.72628631431571,Letzebuergesch
+gnome-do,473,0,139,119,0,25,484,612,77.2875816993464,Luxembourgish <lb@li.org>
+gwibber,460,0,309,136,0,68,477,769,59.81794538361509,Luxembourgish <lb@li.org>
+libreoffice,10257,6098,78853,5237,4069,19893,10147,95208,10.773254348374087,LANGUAGE <LL@li.org>
+lightdm,42,0,37,15,0,2,44,79,53.16455696202531,Luxembourgish <lb@li.org>
+lightdm-gtk,56,0,1,18,0,1,55,57,98.24561403508771,Luxembourgish <lb@li.org>
+owncloud,1395,0,5830,562,0,925,1433,7225,19.30795847750865,Luxembourgish (http://www.transifex.com/projects/p/owncloud/language/lb/)
+python-django,136,0,1719,114,0,351,143,1855,7.331536388140162,Luxembourgish (http://www.transifex.com/projects/p/django/language/lb/)
+stellarium,2,0,11179,2,0,3143,2,11181,0.017887487702352205,Luxembourgish <lb@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

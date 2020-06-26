@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+olpc-switch-desktop,158,0,0,14,0,0,110,158,100.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,599,0,0,127,0,0,524,599,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,4,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,120,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,21,29,100.0,LANGUAGE <LL@li.org>

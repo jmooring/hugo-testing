@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,43,42,100.0,Ido <gnome-ido@lists.mterry.name>
+deja-dup,41,0,1626,30,0,255,38,1667,2.459508098380324,Ido <io@li.org>
+duplicity,68,0,3188,56,0,418,72,3256,2.0884520884520885,Ido
+gdk-pixbuf2,299,114,900,57,24,119,276,1313,22.772277227722775,Ido <gnome-ido@lists.mterry.name>
+gnome-menus,86,0,79,44,0,14,90,165,52.121212121212125,Ido <gnome-ido@lists.mterry.name>
+gtk2,1168,467,12069,348,247,2189,1106,13704,8.523058960887333,Ido <gnome-ido@lists.mterry.name>
+gtk3,782,378,10693,248,229,2010,739,11853,6.5974858685564834,Ido <gnome-ido@lists.mterry.name>
+lxmenu-data,52,0,45,29,0,8,55,97,53.608247422680414,Ido <gnome-ido@lists.mterry.name>
+mate-file-manager,1293,34,6127,452,13,766,1226,7454,17.346391199356052,Ido <mate-ido@lists.mterry.name>
+mate-menus,86,0,79,44,0,14,90,165,52.121212121212125,Ido <mate-ido@lists.mterry.name>
+mingw-gtk3,782,378,10693,248,229,2010,739,11853,6.5974858685564834,Ido <gnome-ido@lists.mterry.name>
+mingw32-gdk-pixbuf,299,114,900,57,24,119,276,1313,22.772277227722775,Ido <gnome-ido@lists.mterry.name>
+mingw32-gtk2,1168,467,12069,348,247,2189,1106,13704,8.523058960887333,Ido <gnome-ido@lists.mterry.name>
+nautilus,1293,34,6127,452,13,766,1226,7454,17.346391199356052,Ido <gnome-ido@lists.mterry.name>

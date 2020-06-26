@@ -1,0 +1,42 @@
+---
+title: "wcd - translation progress for f18"
+package: wcd
+date: 2026-01-20T03:23:20+00:00
+started_languages: 4
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 4
+release: f18
+---
+The package wcd (version 5.2.4):
+
+* represents 1596 source words to be translated
+* is translated into 4 languages in Fedora f18
+
+
+* contains 4 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [de]({{< ref "/f18/language/de.md" >}}) | 1588 | 1596 | 99.5 | /mnt/stockage/packages/f18/wcd/src/po/de.po | 
+ | [fi]({{< ref "/f18/language/fi.md" >}}) | 1377 | 1596 | 86.3 | /mnt/stockage/packages/f18/wcd/src/po/fi.po | 
+ | [es]({{< ref "/f18/language/es.md" >}}) | 1373 | 1596 | 86.0 | /mnt/stockage/packages/f18/wcd/src/po/es.po | 
+ | [nl]({{< ref "/f18/language/nl.md" >}}) | 1359 | 1596 | 85.2 | /mnt/stockage/packages/f18/wcd/src/po/nl.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

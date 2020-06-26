@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+coreutils,17854,721,38,1445,22,2,27597,18613,95.9222049105464,Luganda <kbirabwa@yahoo.co.uk>
+findutils,113,324,1672,28,31,137,140,2109,5.357989568515884,Luganda <kompyuta@kizito.freeuk.com>
+libfm,659,0,0,179,0,0,742,659,100.0,lg <kbirabwa@yahoo.co.uk>
+lxappearance-obconf,191,0,0,26,0,0,198,191,100.0,LANGUAGE <LL@li.org>
+pcmanfm,520,3,15,144,2,3,558,538,96.6542750929368,lg <kbirabwa@yahoo.co.uk>
+pootle,6476,54,287,3995,7,250,7216,6817,94.99779961860055,LANGUAGE <LL@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>
+virtaal,1389,0,0,430,0,0,1424,1389,100.0,LANGUAGE <LL@li.org>

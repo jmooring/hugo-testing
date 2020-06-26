@@ -1,0 +1,43 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,2,0,1963,2,0,245,2,1965,0.10178117048346055,Interlingua <trans-ia@lists.fedoraproject.org>
+cinnamon,4,0,1692,3,0,549,5,1696,0.2358490566037736,Interlingua <ia@li.org>
+clementine,25,0,3914,22,0,1075,25,3939,0.6346788525006346,
+entangle,0,0,668,0,0,169,0,668,0.0,Interlingua <trans-ia@lists.fedoraproject.org>
+gdk-pixbuf2,49,173,1123,6,29,166,42,1345,3.6431226765799254,Interlingua
+gnome-do,0,0,612,0,0,144,0,612,0.0,Interlingua <ia@li.org>
+gtk2,78,967,12659,23,444,2317,73,13704,0.5691768826619965,Interlingua
+gtk3,21,792,11040,7,402,2078,24,11853,0.1771703366236396,Interlingua
+gwibber,207,0,562,81,0,123,229,769,26.918075422626785,Interlingua <ia@li.org>
+kde-plasma-networkmanagement,3719,0,89,1042,0,31,4356,3808,97.66281512605042,Interlingua <kde-l10n-ia@kde.org>
+ktp-accounts-kcm,990,0,0,263,0,0,1176,990,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-approver,70,0,0,17,0,0,84,70,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-auth-handler,62,0,0,21,0,0,73,62,100.0,Interlingua <kde-i18n-ia@kde.org>
+ktp-call-ui,225,0,0,71,0,0,246,225,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-common-internals,781,0,0,168,0,0,883,781,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-contact-list,405,0,0,111,0,0,471,405,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-contact-runner,177,0,0,35,0,0,206,177,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-desktop-applets,7,0,0,3,0,0,7,7,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-filetransfer-handler,137,0,2,37,0,1,167,139,98.56115107913669,Interlingua <kde-l10n-ia@kde.org>
+ktp-kded-integration-module,225,0,0,49,0,0,262,225,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-send-file,59,0,0,17,0,0,60,59,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-text-ui,463,0,0,108,0,0,496,463,100.0,Interlingua <kde-l10n-ia@kde.org>
+libreport,11,0,2333,2,0,322,12,2344,0.469283276450512,Interlingua <trans-ia@lists.fedoraproject.org>
+lightdm,24,0,55,11,0,6,25,79,30.37974683544304,Interlingua <ia@li.org>
+lightdm-gtk,19,0,37,7,0,11,19,56,33.92857142857143,Interlingua <ia@li.org>
+lyx,17343,31,4,5249,11,1,19776,17378,99.7985959258833,Interlingua LyX Team <g.sora@tiscali.it>
+mailman,15551,1392,5069,1135,33,191,16447,22012,70.64782845720516,Interlingua <TradSoft@interlingua.com>
+mate-desktop,9,0,398,4,0,39,11,407,2.211302211302211,Interlingua (http://www.transifex.net/projects/p/MATE/language/ia/)
+mate-utils,0,0,3921,0,0,688,0,3921,0.0,Interlingua (http://www.transifex.com/projects/p/MATE/language/ia/)
+mc,1384,0,2603,470,0,690,1612,3987,34.71281665412591,Interlingua (http://www.transifex.com/projects/p/mc/language/ia/)
+mingw-gdk-pixbuf,49,173,1123,6,29,166,42,1345,3.6431226765799254,Interlingua
+mingw-gtk2,2605,429,9412,869,199,1519,2984,12446,20.930419411859233,Interlingua <trans-ia@lists.fedoraproject.org>
+mingw-gtk3,21,792,11040,7,402,2078,24,11853,0.1771703366236396,Interlingua
+rekonq,2185,0,0,587,0,0,2608,2185,100.0,Interlingua <kde-i18n-doc@kde.org>
+shotwell,15,0,4035,9,0,829,19,4050,0.3703703703703704,LANGUAGE <LL@li.org>
+stellarium,176,0,9110,123,0,2666,176,9286,1.8953262976523797,Interlingua <ia@li.org>
+system-config-date,1826,1,23,821,1,2,2050,1850,98.70270270270271,Interlingua <trans-ia@lists.fedoraproject.org>
+system-config-samba,0,0,571,0,0,134,0,571,0.0,Interlingua <trans-ia@lists.fedoraproject.org>
+system-config-users,59,0,1393,11,0,162,61,1452,4.0633608815427,Interlingua <trans-ia@lists.fedoraproject.org>
+tellico,5761,4,0,1208,1,0,6373,5765,99.93061578490894,Interlingua <kde-i18n-it@kde.org>
+transmission,229,0,1580,130,0,364,252,1809,12.65892758430072,Interlingua <ia@li.org>
+widelands,327,0,6513,232,0,435,327,6840,4.780701754385965,Interlingua <ia@li.org>

@@ -1,0 +1,18 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,36,42,100.0,Bodo <brx@li.org>
+anaconda,0,0,7236,0,0,1198,0,7236,0.0,Bodo
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+entangle,0,0,953,0,0,229,0,953,0.0,Bodo
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Bodo
+gnucash,24175,6689,6185,3912,972,517,21666,37049,65.2514237901158,Bodo <https://hosted.weblate.org/projects/gnucash/gnucash/brx/>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Bodo
+inkscape,19428,12138,12039,4386,3230,1541,18708,43605,44.554523563811486,Hindi <Indlinux>
+libreoffice,38012,13196,114770,12681,5744,19497,38945,165978,22.901830363060164,LANGUAGE <LL@li.org>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+mypaint,283,43,6055,89,17,1164,295,6381,4.4350415295408245,Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/>
+php-phpmyadmin-sql-parser5,0,0,268,0,0,50,0,268,0.0,Bodo <https://hosted.weblate.org/projects/phpmyadmin/master/brx/>
+pidgin,15011,0,824,3305,0,152,15211,15835,94.79633722766025,Bodo (http://www.transifex.com/pidgin/pidgin/language/brx/)
+policycoreutils,1,0,12170,1,0,1775,2,12171,0.008216251745953496,Bodo
+python-fedora,0,0,214,0,0,29,0,214,0.0,Bodo
+python-meh,0,0,109,0,0,23,0,109,0.0,Bodo
+tuxpaint,1124,742,420,249,76,55,1051,2286,49.16885389326334,Bodo

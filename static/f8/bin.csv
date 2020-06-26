@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+po4a,180,53,1380,22,11,130,189,1613,11.15933044017359,AF
+postgresql,7055,0,2048,1132,0,107,6608,9103,77.5019224431506,<cs@li.org>
+sepostgresql,7055,0,2048,1132,0,107,6608,9103,77.5019224431506,<cs@li.org>
+tinyerp,2169,357,505,624,139,123,2072,3031,71.56054107555262,FR <i18n-info@tinyerp.org>
+wine-docs,182,31,993,23,6,94,191,1206,15.091210613598674,AF

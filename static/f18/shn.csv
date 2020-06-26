@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deja-dup,0,0,1756,0,0,289,0,1756,0.0,Shan <shn@li.org>
+gwibber,0,0,769,0,0,204,0,769,0.0,Shan <shn@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Shan <shn@li.org>
+shutter,73,0,2375,49,0,452,63,2448,2.9820261437908497,Shan <shn@li.org>

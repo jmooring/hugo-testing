@@ -1,0 +1,126 @@
+---
+title: "vte - translation progress for f20"
+package: vte
+date: 2026-01-17T11:27:52+00:00
+started_languages: 87
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 89
+release: f20
+---
+The package vte (version 0.28.2):
+
+* represents 160 source words to be translated
+* is translated into 88 languages in Fedora f20
+
+
+* contains 89 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ar]({{< ref "/f20/language/ar.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/ar.po | 
+ | [as]({{< ref "/f20/language/as.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/as.po | 
+ | [ast]({{< ref "/f20/language/ast.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/ast.po | 
+ | [az]({{< ref "/f20/language/az.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/az.po | 
+ | [be]({{< ref "/f20/language/be.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f20/vte/po/be.po | 
+ | [be_Latn]({{< ref "/f20/language/be_Latn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f20/vte/po/be@latin.po | 
+ | [bg]({{< ref "/f20/language/bg.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/bg.po | 
+ | [bn]({{< ref "/f20/language/bn.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/bn.po | 
+ | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/bn_IN.po | 
+ | [bs]({{< ref "/f20/language/bs.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/bs.po | 
+ | [ca]({{< ref "/f20/language/ca.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f20/vte/po/ca.po/mnt/stockage/packages/f20/vte/po/ca@valencia.po | 
+ | [cs]({{< ref "/f20/language/cs.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/cs.po | 
+ | [cy]({{< ref "/f20/language/cy.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/cy.po | 
+ | [da]({{< ref "/f20/language/da.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/da.po | 
+ | [de]({{< ref "/f20/language/de.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/de.po | 
+ | [dz]({{< ref "/f20/language/dz.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f20/vte/po/dz.po | 
+ | [el]({{< ref "/f20/language/el.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/el.po | 
+ | [en_CA]({{< ref "/f20/language/en_CA.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/en_CA.po | 
+ | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/en_GB.po | 
+ | [eo]({{< ref "/f20/language/eo.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/eo.po | 
+ | [error]({{< ref "/f20/language/error.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/en@shaw.po | 
+ | [es]({{< ref "/f20/language/es.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/es.po | 
+ | [et]({{< ref "/f20/language/et.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/et.po | 
+ | [eu]({{< ref "/f20/language/eu.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/eu.po | 
+ | [fa]({{< ref "/f20/language/fa.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/fa.po | 
+ | [fi]({{< ref "/f20/language/fi.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/fi.po | 
+ | [fr]({{< ref "/f20/language/fr.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/fr.po | 
+ | [ga]({{< ref "/f20/language/ga.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/ga.po | 
+ | [gl]({{< ref "/f20/language/gl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/gl.po | 
+ | [gu]({{< ref "/f20/language/gu.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/gu.po | 
+ | [he]({{< ref "/f20/language/he.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/he.po | 
+ | [hi]({{< ref "/f20/language/hi.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/hi.po | 
+ | [hr]({{< ref "/f20/language/hr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/hr.po | 
+ | [hu]({{< ref "/f20/language/hu.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/hu.po | 
+ | [id]({{< ref "/f20/language/id.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/id.po | 
+ | [is]({{< ref "/f20/language/is.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/is.po | 
+ | [it]({{< ref "/f20/language/it.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/it.po | 
+ | [ja]({{< ref "/f20/language/ja.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/ja.po | 
+ | [ka]({{< ref "/f20/language/ka.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/ka.po | 
+ | [kn]({{< ref "/f20/language/kn.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/kn.po | 
+ | [ko]({{< ref "/f20/language/ko.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/ko.po | 
+ | [ky]({{< ref "/f20/language/ky.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/ky.po | 
+ | [lt]({{< ref "/f20/language/lt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/lt.po | 
+ | [lv]({{< ref "/f20/language/lv.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/lv.po | 
+ | [mk]({{< ref "/f20/language/mk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f20/vte/po/mk.po | 
+ | [ml]({{< ref "/f20/language/ml.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/ml.po | 
+ | [mn]({{< ref "/f20/language/mn.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/mn.po | 
+ | [mr]({{< ref "/f20/language/mr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/mr.po | 
+ | [ms]({{< ref "/f20/language/ms.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/ms.po | 
+ | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/nb.po | 
+ | [nds]({{< ref "/f20/language/nds.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/nds.po | 
+ | [ne]({{< ref "/f20/language/ne.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/ne.po | 
+ | [nl]({{< ref "/f20/language/nl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/nl.po | 
+ | [nn]({{< ref "/f20/language/nn.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/nn.po | 
+ | [or]({{< ref "/f20/language/or.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/or.po | 
+ | [pa]({{< ref "/f20/language/pa.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/pa.po | 
+ | [pl]({{< ref "/f20/language/pl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/pl.po | 
+ | [pt]({{< ref "/f20/language/pt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/pt.po | 
+ | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/pt_BR.po | 
+ | [ro]({{< ref "/f20/language/ro.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/ro.po | 
+ | [ru]({{< ref "/f20/language/ru.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/ru.po | 
+ | [si]({{< ref "/f20/language/si.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/si.po | 
+ | [sk]({{< ref "/f20/language/sk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/sk.po | 
+ | [sl]({{< ref "/f20/language/sl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/sl.po | 
+ | [sq]({{< ref "/f20/language/sq.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f20/vte/po/sq.po | 
+ | [sr]({{< ref "/f20/language/sr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/sr.po | 
+ | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/sr@latin.po | 
+ | [sv]({{< ref "/f20/language/sv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/sv.po | 
+ | [ta]({{< ref "/f20/language/ta.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/ta.po | 
+ | [te]({{< ref "/f20/language/te.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/te.po | 
+ | [th]({{< ref "/f20/language/th.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f20/vte/po/th.po | 
+ | [tr]({{< ref "/f20/language/tr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f20/vte/po/tr.po | 
+ | [ug]({{< ref "/f20/language/ug.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/ug.po | 
+ | [uk]({{< ref "/f20/language/uk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/uk.po | 
+ | [vi]({{< ref "/f20/language/vi.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f20/vte/po/vi.po | 
+ | [wa]({{< ref "/f20/language/wa.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/wa.po | 
+ | [xh]({{< ref "/f20/language/xh.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f20/vte/po/xh.po | 
+ | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/zh_TW.po | 
+ | [zh_Hant_HK]({{< ref "/f20/language/zh_Hant_HK.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f20/vte/po/zh_HK.po | 
+ | [li]({{< ref "/f20/language/li.md" >}}) | 81 | 96 | 84.4 | /mnt/stockage/packages/f20/vte/po/li.po | 
+ | [mai]({{< ref "/f20/language/mai.md" >}}) | 66 | 84 | 78.6 | /mnt/stockage/packages/f20/vte/po/mai.po | 
+ | [ang]({{< ref "/f20/language/ang.md" >}}) | 27 | 96 | 28.1 | /mnt/stockage/packages/f20/vte/po/ang.po | 
+ | [ku]({{< ref "/f20/language/ku.md" >}}) | 10 | 96 | 10.4 | /mnt/stockage/packages/f20/vte/po/ku.po | 
+ | [oc]({{< ref "/f20/language/oc.md" >}}) | 8 | 108 | 7.4 | /mnt/stockage/packages/f20/vte/po/oc.po | 
+ | [am]({{< ref "/f20/language/am.md" >}}) | 2 | 96 | 2.1 | /mnt/stockage/packages/f20/vte/po/am.po | 
+ | [mi]({{< ref "/f20/language/mi.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f20/vte/po/mi.po | 
+ | [rw]({{< ref "/f20/language/rw.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f20/vte/po/rw.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

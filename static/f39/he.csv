@@ -1,0 +1,919 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,4087,4088,100.0,he
+ModemManager,147,0,0,19,0,0,145,147,100.0,Hebrew <kde-i18n-he@kde.org>
+NetworkManager,0,69,29125,0,11,2240,0,29194,0.0,he
+NetworkManager-fortisslvpn,317,2,2,57,1,2,302,321,98.75389408099689,he
+NetworkManager-l2tp,265,0,1024,62,0,138,270,1289,20.55857253685027,Hebrew <sh.yaron@gmail.com>
+NetworkManager-openconnect,54,5,3182,16,2,578,64,3241,1.666152422091947,Hebrew <sh.yaron@gmail.com>
+NetworkManager-openvpn,1079,22,1056,220,10,74,1097,2157,50.02318034306907,Hebrew <sh.yaron@gmail.com>
+NetworkManager-pptp,95,32,402,27,10,57,99,529,17.958412098298677,he
+NetworkManager-ssh,286,0,0,69,0,0,287,286,100.0,Hebrew <malkodan@gmail.com>
+NetworkManager-sstp,91,53,734,27,18,104,95,878,10.364464692482915,he
+NetworkManager-vpnc,156,0,0,41,0,0,162,156,100.0,Hebrew <sh.yaron@gmail.com>
+PackageKit,1268,0,0,319,0,0,1181,1268,100.0,Hebrew (http://www.transifex.com/freedesktop/packagekit/language/he/)
+Thunar,5430,0,0,976,0,0,5195,5430,100.0,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+Zim,3386,0,0,777,0,0,3161,3386,100.0,Hebrew <https://hosted.weblate.org/projects/zim/develop/he/>
+abrt,407,22,3247,48,6,363,371,3676,11.071817192600653,Hebrew <https://translate.fedoraproject.org/projects/abrt/abrt/he/>
+accerciser,666,0,0,228,0,0,652,666,100.0,Hebrew <he@li.org>
+accountsservice,73,0,0,12,0,0,70,73,100.0,Hebrew (http://www.transifex.com/freedesktop/accountsservice/language/he/)
+agenda,2,0,15,1,0,5,2,17,11.76470588235294,Hebrew <he@li.org>
+aisleriot,807,0,0,297,0,0,795,807,100.0,Gezer (Hebrew)
+akonadi-calendar-tools,0,64,394,0,11,92,0,458,0.0,Hebrew <kde-l10n-he@kde.org>
+akregator,845,525,483,218,122,90,825,1853,45.60172692930383,Hebrew <kde-i18n-doc@kde.org>
+alacarte,45,0,0,20,0,0,42,45,100.0,עברית <>
+anaconda,9208,0,0,1544,0,0,8256,9208,100.0,Hebrew <https://translate.fedoraproject.org/projects/anaconda/f39/he/>
+android-tools,1237,26,4765,250,4,712,1144,6028,20.520902455209026,Hebrew <https://translate.fedoraproject.org/projects/selinux/gui/he/>
+anjuta,3238,1095,3464,1211,288,622,3098,7797,41.528793125561116,he
+apostrophe,533,0,0,166,0,0,536,533,100.0,Hebrew <heb-bugzap@hamakor.org.il>
+appstream,193,28,5861,98,10,560,194,6082,3.1732982571522523,Hebrew <https://hosted.weblate.org/projects/appstream/translations/he/>
+apt,366,158,3654,77,23,461,330,4178,8.760172331258975,Hebrew
+arandr,173,0,0,38,0,0,164,173,100.0,Hebrew <https://hosted.weblate.org/projects/arandr/translations/he/>
+aria2,500,0,6996,86,0,314,442,7496,6.670224119530416,Hebrew <he@li.org>
+ark,762,268,932,180,61,127,683,1962,38.837920489296636,Hebrew <kde-i18n-doc@kde.org>
+asunder,429,27,37,78,3,11,456,493,87.0182555780933,Rahut <genghiskhan@gmx.ca>
+at-spi2-core,447,0,0,171,0,0,448,447,100.0,Hebrew <yoseforb@gmail.com>
+atomix,168,0,0,43,0,0,163,168,100.0,עברית <>
+atril,1368,8,6450,400,2,628,1268,7826,17.48019422438027,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+audacity,14030,914,3989,3523,247,621,13957,18933,74.1034173136851,Heb
+avahi,332,2,534,103,2,63,318,868,38.24884792626728,Hebrew (http://www.transifex.com/lennart/avahi/language/he/)
+avogadro2,95,83,196,54,46,53,154,374,25.40106951871658,Hebrew <https://hosted.weblate.org/projects/avogadro/avogadroapp/he/>
+avogadro2-libs,130,84,4398,126,42,1221,201,4612,2.818733738074588,Hebrew <he@li.org>
+backintime,1521,22,818,323,2,59,1409,2361,64.42185514612451,Hebrew <https://translate.codeberg.org/projects/backintime/common/he/>
+baloo-widgets,25,16,26,14,8,18,25,67,37.3134328358209,Hebrew
+balsa,3311,1325,712,836,339,112,3330,5348,61.910994764397905,Hebrew <he@li.org>
+baobab,277,0,0,76,0,0,295,277,100.0,Hebrew <yoseforb@gmail.com>
+bijiben,390,0,0,125,0,0,392,390,100.0,Hebrew <yoseforb@gmail.com>
+bleachbit,1923,0,0,364,0,0,1776,1923,100.0,
+blender,404,0,0,272,0,0,407,404,100.0,Hebrew <https://translate.blender.org/projects/blender-ui/ui/he/>
+blinken,120,13,1,42,4,1,129,134,89.55223880597015,hebrew <kde-l10n-he@kde.org>
+bluedevil,294,70,65,93,22,16,256,429,68.53146853146853,Hebrew <kde-i18n-doc@kde.org>
+blueman,2297,3,65,803,1,20,2313,2365,97.12473572938688,Hebrew <https://hosted.weblate.org/projects/blueman/2-4/he/>
+boinc-client,16083,0,4268,3059,0,343,14632,20351,79.02805758930765,Hebrew (http://www.transifex.com/boinc/boinc/language/he/)
+bomber,41,0,69,12,0,15,38,110,37.27272727272727,Hebrew <kde-i18n-doc@kde.org>
+bookworm,171,49,575,36,7,106,168,795,21.50943396226415,Hebrew <https://hosted.weblate.org/projects/bookworm/bookworm/he/>
+boost,17,0,2,10,0,1,30,19,89.47368421052632,
+bottles,25,7,3419,6,2,668,23,3451,0.7244277021153289,Hebrew <https://hosted.weblate.org/projects/bottles/bottles/he/>
+brasero,5549,0,0,969,0,0,4877,5549,100.0,עברית
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+budgie-control-center,6648,50,1216,2141,31,354,6447,7914,84.00303260045489,Hebrew (https://app.transifex.com/buddiesofbudgie/teams/129844/he/)
+budgie-desktop,1220,0,0,322,0,0,1175,1220,100.0,Hebrew <http://translate.getsol.us/projects/budgie-desktop/translations/he/>
+budgie-desktop-view,0,0,17,0,0,7,0,17,0.0,Hebrew (https://www.transifex.com/buddiesofbudgie/teams/129844/he/)
+budgie-screensaver,291,0,0,58,0,0,274,291,100.0,Hebrew <he@li.org>
+budgie-session,435,0,0,68,0,0,409,435,100.0,Hebrew <yoseforb@gmail.com>
+cairo-dock,2247,0,5217,397,0,430,1738,7464,30.104501607717044,Hebrew <he@li.org>
+cairo-dock-plug-ins,1169,0,9034,296,0,1426,1004,10203,11.457414485935509,Hebrew <he@li.org>
+caja,8337,0,1338,1473,0,131,7440,9675,86.17054263565892,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+caja-actions,148,0,18667,91,0,1425,156,18815,0.7866064310390646,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+caja-extensions,299,0,461,83,0,62,297,760,39.3421052631579,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+calamares,521,0,0,91,0,0,562,521,100.0,Hebrew (https://app.transifex.com/calamares/teams/20061/he/)
+calibre,19567,0,157430,3892,0,15893,17031,176997,11.054989632592644,Hebrew (http://app.transifex.com/calibre/calibre/language/he/)
+calligra,12591,8497,8708,2894,2116,956,11413,29796,42.257349979863065,Hebrew <kde-l10n-he@kde.org>
+calls,44,0,0,19,0,0,42,44,100.0,Hebrew <>
+caribou,171,0,0,57,0,0,161,171,100.0,Gezer <sh.yaron@gmail.com>
+catfish,1103,0,1,162,0,1,999,1104,99.90942028985508,Hebrew (https://app.transifex.com/xfce/teams/16840/he/)
+ccsm,560,5,26,146,3,14,506,591,94.75465313028765,Hebrew <he@li.org>
+ceph,17,0,2,10,0,1,30,19,89.47368421052632,
+cervisia,1059,305,186,288,66,50,940,1550,68.3225806451613,hebrew <kde-l10n-he@kde.org>
+chatty,1060,0,0,360,0,0,1112,1060,100.0,Hebrew
+cheese,628,0,0,130,0,0,621,628,100.0,Hebrew <yoseforb@gmail.com>
+chromium,0,0,0,0,0,0,0,0,0.0,
+cinnamon-control-center,504,50,759,504,31,221,515,1313,38.38537699923839,Hebrew
+cinnamon-desktop,234,0,0,32,0,0,236,234,100.0,Hebrew <he@li.org>
+cinnamon-translations,20805,0,2868,4988,0,352,18512,23673,87.88493220124192,Hebrew <he@li.org>
+clamtk,551,0,0,137,0,0,512,551,100.0,Hebrew <he@li.org>
+clementine,2939,0,864,862,0,199,2880,3803,77.28109387325796,Hebrew (http://app.transifex.com/davidsansome/clementine/language/he/)
+clutter,2963,94,0,660,15,0,2963,3057,96.92508995747465,עברית <>
+cockpit,7605,682,843,1986,174,60,7429,9130,83.29682365826943,Hebrew <https://translate.fedoraproject.org/projects/cockpit/main/he/>
+cockpit-machines,1949,337,834,494,83,112,1892,3120,62.467948717948715,Hebrew <https://translate.fedoraproject.org/projects/cockpit-machines/main/he/>
+cogl,378,0,0,76,0,0,378,378,100.0,Hebrew <sh.yaron@gmail.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,208,0,1758,65,0,186,183,1966,10.579857578840285,Hebrew (http://www.transifex.com/freedesktop/colord/language/he/)
+compiz,3141,953,291,694,137,48,2944,4385,71.63055872291905,Hebrew <opensuse-translation@opensuse.org>
+compiz-plugins-experimental,1724,1163,1586,362,332,198,1637,4473,38.54236530292868,Hebrew <he@li.org
+compiz-plugins-extra,3348,325,100,679,54,17,3013,3773,88.73575404187649,Hebrew <he@li.org>
+compiz-plugins-main,4123,44,51,793,9,9,3887,4218,97.74774774774775,Hebrew <he@li.org>
+console-setup,984,0,0,179,0,0,838,984,100.0,Hebrew (https://www.transifex.com/yaron/teams/79473/he/)
+cozy,1597,0,0,253,0,0,1440,1597,100.0,Hebrew (https://www.transifex.com/geigi/teams/78138/he/)
+cpeditor,0,333,314,0,252,131,0,647,0.0,Hebrew <kde-i18n-doc@kde.org>
+cracklib,90,0,0,15,0,0,62,90,100.0,Hebrew <https://translate.fedoraproject.org/projects/cracklib/master/he/>
+cups-pk-helper,149,0,0,22,0,0,107,149,100.0,Hebrew (http://www.transifex.com/freedesktop/cups-pk-helper/language/he/)
+d-spy,117,0,0,52,0,0,117,117,100.0,Hebrew <yoseforb@gmail.com>
+dasher,649,0,0,210,0,0,629,649,100.0,Hebrew <he@li.org>
+dconf-editor,2955,0,0,394,0,0,2959,2955,100.0,Hebrew <yoseforb@gmail.com>
+debconf,752,50,60,85,5,4,672,862,87.23897911832947,Hebrew
+deepin-daemon,253,0,850,95,0,149,269,1103,22.937443336355397,Hebrew (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/he/)
+deja-dup,2042,0,1710,329,0,127,1921,3752,54.424307036247335,Hebrew <he@li.org>
+deluge,1231,0,3109,610,0,723,1212,4340,28.36405529953917,Hebrew <he@li.org>
+devhelp,413,0,0,101,0,0,404,413,100.0,Hebrew <yoseforb@gmail.com>
+dialect,1036,0,0,668,0,0,1021,1036,100.0,
+diffutils,318,1090,456,73,128,62,351,1864,17.06008583690987,Hebrew <eliz@gnu.org>
+digikam,2226,21482,39301,829,6009,3666,2201,63009,3.5328286435271155,צוות התרגום של KDE ישראל
+dippi,0,0,1540,0,0,255,0,1540,0.0,none
+dnf,90,0,4628,44,0,835,101,4718,1.9075879610004238,Hebrew <https://translate.fedoraproject.org/projects/dnf/dnf-master/he/>
+dnfdragora,562,0,1209,326,0,148,626,1771,31.733483907396952,Hebrew (https://www.transifex.com/MageiaLinux/teams/9361/he/)
+dolphin,1517,463,3166,460,117,174,1451,5146,29.47920715118539,Hebrew <kde-l10n-he@kde.org>
+doublecmd,1222,259,241,255,36,44,1215,1722,70.96399535423926,
+dragon,66,70,112,21,37,24,67,248,26.61290322580645,hebrew <kde-l10n-he@kde.org>
+drawing,711,191,1004,297,64,144,711,1906,37.303252885624346,Hebrew <shaked.a21@gmail.com>
+easystroke,385,0,85,124,0,13,370,470,81.91489361702128,Hebrew <he@li.org>
+easytag,2519,947,2044,695,197,149,2437,5510,45.71687840290381,Hebrew <he@li.org>
+efl,3,1,152,3,1,55,3,156,1.9230769230769231,General
+elementary-calculator,195,0,0,65,0,0,183,195,100.0,Hebrew <https://l10n.elementary.io/projects/calculator/calculator/he/>
+elementary-calendar,652,0,0,221,0,0,687,652,100.0,Hebrew <https://l10n.elementary.io/projects/calendar/calendar/he/>
+elementary-camera,133,0,0,35,0,0,130,133,100.0,Hebrew <https://l10n.elementary.io/projects/camera/camera/he/>
+elementary-code,1572,0,0,294,0,0,1398,1572,100.0,Hebrew <https://l10n.elementary.io/projects/code/code/he/>
+elementary-files,2527,0,11,549,0,2,2317,2538,99.5665878644602,Hebrew <https://l10n.elementary.io/projects/files/files/he/>
+elementary-icon-theme,394,0,0,78,0,0,366,394,100.0,Hebrew <https://l10n.elementary.io/projects/desktop/icons-extra/he/>
+elementary-mail,861,0,0,207,0,0,813,861,100.0,Hebrew <https://l10n.elementary.io/projects/mail/mail/he/>
+elementary-music,207,0,0,41,0,0,178,207,100.0,Hebrew <https://l10n.elementary.io/projects/music/music/he/>
+elementary-notifications,40,0,0,8,0,0,43,40,100.0,Hebrew <https://l10n.elementary.io/projects/desktop/notifications-extra/he/>
+elementary-onboarding,317,0,0,66,0,0,314,317,100.0,Hebrew <https://l10n.elementary.io/projects/installer/onboarding/he/>
+emerald,651,39,6,214,4,2,724,696,93.53448275862068,Hebrew <he@li.org>
+engrampa,1292,0,6546,312,0,581,1180,7838,16.48379688696096,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+enlightenment,1239,4666,2810,420,1375,463,1302,8715,14.216867469879519,Hebrew <he@li.org>
+entangle,197,0,768,68,0,165,222,965,20.414507772020727,Hebrew
+eog,1642,0,0,316,0,0,1582,1642,100.0,Hebrew <yoseforb@gmail.com>
+eog-plugins,403,0,0,100,0,0,372,403,100.0,Hebrew <yoseforb@gmail.com>
+eom,1540,0,3418,338,0,204,1449,4958,31.06091165792658,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+epiphany,4791,0,0,873,0,0,4581,4791,100.0,Hebrew <yoseforb@gmail.com>
+evince,1834,0,0,452,0,0,1684,1834,100.0,Hebrew <yoseforb@gmail.com>
+evolution,12818,7727,9058,2685,1933,1271,12505,29603,43.299665574435025,Hebrew <yoseforb@gmail.com>
+evolution-data-server,3489,1853,2978,753,362,419,3582,8320,41.93509615384615,Hebrew <yoseforb@gmail.com>
+evolution-mapi,520,0,0,107,0,0,538,520,100.0,he
+exaile,1052,337,3213,370,139,612,1060,4602,22.859626249456756,Hebrew <https://hosted.weblate.org/projects/exaile/master/he/>
+exo,738,0,0,145,0,0,630,738,100.0,Hebrew (http://www.transifex.com/xfce/exo/language/he/)
+fcitx5-mozc,4,0,65,2,0,21,5,69,5.797101449275362,Hebrew (https://www.transifex.com/fcitx/teams/12005/he/)
+file-roller,1307,0,0,299,0,0,1207,1307,100.0,Hebrew <yoseforb@gmail.com>
+filezilla,9273,0,1511,1707,0,169,8770,10784,85.98850148367953,Hebrew (https://www.transifex.com/yaron/teams/109068/he/)
+five-or-more,282,0,0,65,0,0,300,282,100.0,עברית <>
+flatseal,474,0,3,141,0,1,443,477,99.37106918238993,Hebrew <heb-bugzap@hamakor.org.il>
+focuswriter,129,0,0,7,0,0,121,129,100.0,Hebrew (http://www.transifex.com/gottcode/focuswriter/language/he/)
+folder-color-switcher,65,0,0,23,0,0,49,65,100.0,Hebrew <he@li.org>
+foliate,51,196,413,37,88,144,57,660,7.727272727272727,
+folks,1023,0,0,124,0,0,1024,1023,100.0,Hebrew <sh.yaron@gmail.com>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Hebrew
+four-in-a-row,480,0,0,136,0,0,496,480,100.0,Hebrew <yoseforb@gmail.com>
+fpm2,702,45,59,192,8,13,692,806,87.09677419354838,Rahut <genghiskhan@gmx.ca>
+fprintd,0,0,433,0,0,60,0,433,0.0,Hebrew (http://www.transifex.com/freedesktop/fprintd/language/he/)
+fractal,818,269,1440,257,54,172,777,2527,32.37039968341907,Hebrew <yoseforb@gmail.com>
+fragments,717,0,0,196,0,0,695,717,100.0,Hebrew <>
+freeciv,3451,17087,92993,1431,3420,5003,3262,113531,3.0396984083642353,Hebrew <kde-il@yahoogroups.com>
+fuse-encfs,1099,24,166,120,3,14,1021,1289,85.2598913886734,Hebrew <he@li.org>
+fwupd,1971,0,0,435,0,0,1871,1971,100.0,Hebrew (http://app.transifex.com/freedesktop/fwupd/language/he/)
+g4music,309,0,0,97,0,0,349,309,100.0,Hebrew <yoseforb@gmail.com>
+gajim,759,3478,2112,265,1014,437,750,6349,11.954638525752086,Rahut
+gala,243,16,0,54,2,0,227,259,93.82239382239382,Hebrew <https://l10n.elementary.io/projects/desktop/gala/he/>
+gammastep,101,155,689,37,33,79,100,945,10.687830687830688,Hebrew <he@li.org>
+gammu,893,40,3084,172,6,935,907,4017,22.230520288772716,Hebrew <https://hosted.weblate.org/projects/gammu/gammu-docs/he/>
+garcon,125,0,0,38,0,0,116,125,100.0,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+gaupol,1483,0,593,453,0,161,1452,2076,71.4354527938343,Hebrew (https://app.transifex.com/otsaloma/teams/64879/he/)
+gcompris-qt,34101,20,32,3790,3,2,27540,34153,99.84774397563903,Hebrew <kde-i18n-doc@kde.org>
+gconf-editor,336,0,0,98,0,0,321,336,100.0,Hebrew <he@li.org>
+gcr,505,0,0,176,0,0,523,505,100.0,Hebrew <>
+gcr3,795,0,0,276,0,0,782,795,100.0,עברית <>
+gdk-pixbuf2,1325,0,0,198,0,0,1305,1325,100.0,עברית <>
+gdm,686,0,0,95,0,0,683,686,100.0,Hebrew <yoseforb@gmail.com>
+geany,5147,658,475,1188,108,57,4529,6280,81.95859872611464,עברית <>
+geary,2617,0,0,663,0,0,2792,2617,100.0,Hebrew <>
+gedit,3842,0,0,672,0,0,3423,3842,100.0,Hebrew <yoseforb@gmail.com>
+gedit-plugins,899,0,0,138,0,0,821,899,100.0,Hebrew <yoseforb@gmail.com>
+gftp,452,198,2720,161,77,356,407,3370,13.412462908011868,Hebrew <he@li.org>
+ghex,973,0,0,233,0,0,848,973,100.0,עברית <>
+gigolo,540,0,1,157,0,1,500,541,99.81515711645102,Hebrew (http://app.transifex.com/xfce/xfce-apps/language/he/)
+gimagereader,1817,0,0,482,0,0,1750,1817,100.0,Hebrew <https://hosted.weblate.org/projects/gimagereader/translations/he/>
+gimp,3791,7013,16463,1136,2496,3370,3760,27267,13.90325301646679,Hebrew <he@li.org>
+gimp3,4386,7039,16463,1209,2500,3370,4297,27888,15.727194492254734,Hebrew <he@li.org>
+girara,0,0,216,0,0,52,0,216,0.0,Hebrew (http://app.transifex.com/pwmt/girara/language/he/)
+gitg,1946,278,393,391,39,48,1792,2617,74.35995414596867,Hebrew <>
+glade,3150,433,625,894,137,56,2886,4208,74.8574144486692,he
+glib-networking,438,0,0,65,0,0,475,438,100.0,Hebrew <yoseforb@gmail.com>
+glib2,7716,0,0,1214,0,0,7844,7716,100.0,Hebrew <yoseforb@gmail.com>
+gnome-2048,382,0,0,69,0,0,362,382,100.0,Hebrew <yoseforb@gmail.com>
+gnome-abrt,221,0,0,55,0,0,198,221,100.0,Hebrew <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/he/>
+gnome-applets,3149,0,0,697,0,0,2995,3149,100.0,עברית <>
+gnome-bluetooth,318,0,0,92,0,0,303,318,100.0,Hebrew <yoseforb@gmail.com>
+gnome-bluetooth3.34,373,0,0,110,0,0,347,373,100.0,Hebrew <yoseforb@gmail.com>
+gnome-boxes,1174,0,0,249,0,0,1111,1174,100.0,Hebrew <yoseforb@gmail.com>
+gnome-builder,5554,0,0,1392,0,0,5255,5554,100.0,Hebrew <yoseforb@gmail.com>
+gnome-calculator,1885,0,0,716,0,0,1949,1885,100.0,Hebrew <yoseforb@gmail.com>
+gnome-calendar,917,0,0,266,0,0,1020,917,100.0,Hebrew <yoseforb@gmail.com>
+gnome-characters,161,0,0,56,0,0,160,161,100.0,Hebrew <yoseforb@gmail.com>
+gnome-chess,1485,0,0,241,0,0,1336,1485,100.0,Hebrew <yoseforb@gmail.com>
+gnome-clocks,350,0,0,140,0,0,376,350,100.0,Hebrew <yoseforb@gmail.com>
+gnome-color-manager,1793,0,0,343,0,0,1605,1793,100.0,עברית <>
+gnome-connections,371,0,0,80,0,0,358,371,100.0,Hebrew <yoseforb@gmail.com>
+gnome-console,280,0,0,93,0,0,282,280,100.0,Hebrew <yoseforb@gmail.com>
+gnome-contacts,740,0,0,216,0,0,809,740,100.0,Hebrew <yoseforb@gmail.com>
+gnome-control-center,8054,50,759,2402,31,221,7770,8863,90.87216518108993,Hebrew
+gnome-desktop3,193,0,0,40,0,0,193,193,100.0,Hebrew <yoseforb@gmail.com>
+gnome-dictionary,717,0,0,161,0,0,695,717,100.0,Hebrew <yoseforb@gmail.com>
+gnome-disk-utility,4077,0,0,751,0,0,3797,4077,100.0,Hebrew <>
+gnome-do,473,0,139,119,0,25,439,612,77.2875816993464,Hebrew <he@li.org>
+gnome-doc-utils,251,0,0,101,0,0,265,251,100.0,Hebrew <he@li.org>
+gnome-extensions-app,2783,0,0,624,0,0,2791,2783,100.0,Hebrew <yoseforb@gmail.com>
+gnome-flashback,814,0,0,123,0,0,689,814,100.0,עברית <>
+gnome-font-viewer,428,0,111,164,0,45,463,539,79.40630797773655,Hebrew <>
+gnome-icon-theme,43,0,0,38,0,0,48,43,100.0,Hebrew <he@li.org>
+gnome-initial-setup,927,0,0,136,0,0,774,927,100.0,Hebrew <yoseforb@gmail.com>
+gnome-keyring,469,0,0,98,0,0,438,469,100.0,Hebrew <yoseforb@gmail.com>
+gnome-klotski,180,35,60,54,13,18,212,275,65.45454545454545,עברית <>
+gnome-logs,383,0,0,124,0,0,380,383,100.0,Hebrew <yoseforb@gmail.com>
+gnome-mahjongg,310,0,0,68,0,0,294,310,100.0,Hebrew <yoseforb@gmail.com>
+gnome-maps,1421,0,0,419,0,0,1352,1421,100.0,Hebrew <yoseforb@gmail.com>
+gnome-menus,70,0,0,27,0,0,64,70,100.0,<he@li.org>
+gnome-mime-data,887,0,0,362,0,0,953,887,100.0,Hebrew <he@li.org>
+gnome-mines,364,0,0,80,0,0,387,364,100.0,Hebrew <yoseforb@gmail.com>
+gnome-multi-writer,307,0,80,53,0,7,289,387,79.32816537467701,עברית <>
+gnome-music,425,0,0,122,0,0,450,425,100.0,Hebrew <yoseforb@gmail.com>
+gnome-nettool,664,0,0,219,0,0,690,664,100.0,Hebrew <he@li.org>
+gnome-network-displays,195,0,0,26,0,0,192,195,100.0,Hebrew <he@li.org>
+gnome-nibbles,592,0,0,146,0,0,607,592,100.0,Hebrew <yoseforb@gmail.com>
+gnome-online-accounts,604,0,0,135,0,0,582,604,100.0,Hebrew <yoseforb@gmail.com>
+gnome-packagekit,5034,0,0,811,0,0,4353,5034,100.0,
+gnome-panel,2969,0,0,488,0,0,2801,2969,100.0,עברית <>
+gnome-phone-manager,563,0,0,98,0,0,541,563,100.0,Gezer (Hebrew) <gezer@lists.launchpad.net>
+gnome-photos,572,0,0,220,0,0,594,572,100.0,Hebrew <yoseforb@gmail.com>
+gnome-power-manager,430,0,0,123,0,0,477,430,100.0,he <he@li.org>
+gnome-remote-desktop,569,0,0,26,0,0,551,569,100.0,Hebrew <>
+gnome-robots,596,0,0,96,0,0,607,596,100.0,Hebrew <yoseforb@gmail.com>
+gnome-screenshot,411,0,0,62,0,0,401,411,100.0,Hebrew <yoseforb@gmail.com>
+gnome-session,435,0,0,68,0,0,409,435,100.0,Hebrew <yoseforb@gmail.com>
+gnome-settings-daemon,3883,0,0,538,0,0,3622,3883,100.0,Hebrew <yoseforb@gmail.com>
+gnome-shell,2783,0,0,624,0,0,2791,2783,100.0,Hebrew <yoseforb@gmail.com>
+gnome-shell-extension-blur-my-shell,4,31,607,2,1,96,4,642,0.6230529595015576,Hebrew <https://hosted.weblate.org/projects/blur-my-shell/blur-my-shell/he/>
+gnome-shell-extension-openweather,104,265,481,61,83,121,113,850,12.23529411764706,עברית <>
+gnome-shell-extensions,270,0,0,53,0,0,278,270,100.0,Hebrew <yoseforb@gmail.com>
+gnome-shell-frippery,20,0,0,6,0,0,24,20,100.0,
+gnome-software,5559,0,0,1033,0,0,5314,5559,100.0,Hebrew <yoseforb@gmail.com>
+gnome-sound-recorder,271,0,0,78,0,0,261,271,100.0,Hebrew <yoseforb@gmail.com>
+gnome-subtitles,1089,0,0,324,0,0,1043,1089,100.0,עברית <>
+gnome-sudoku,460,0,0,77,0,0,463,460,100.0,Hebrew <yoseforb@gmail.com>
+gnome-system-log,436,0,0,70,0,0,453,436,100.0,Hebrew <he@li.org>
+gnome-system-monitor,1578,0,0,345,0,0,1605,1578,100.0,Hebrew <yoseforb@gmail.com>
+gnome-taquin,431,0,0,111,0,0,440,431,100.0,Hebrew <yoseforb@gmail.com>
+gnome-terminal,2662,0,0,521,0,0,2649,2662,100.0,Hebrew <yoseforb@gmail.com>
+gnome-tetravex,968,0,0,165,0,0,988,968,100.0,Hebrew <yoseforb@gmail.com>
+gnome-text-editor,1093,0,0,295,0,0,1039,1093,100.0,Hebrew <yoseforb@gmail.com>
+gnome-themes-extra,15,0,0,6,0,0,13,15,100.0,Gezer (Hebrew) <sh.yaron@gmail.com>
+gnome-todo,737,0,0,157,0,0,722,737,100.0,Hebrew <yoseforb@gmail.com>
+gnome-tour,115,0,0,24,0,0,110,115,100.0,Hebrew <yoseforb@gmail.com>
+gnome-tweaks,468,0,0,137,0,0,491,468,100.0,Hebrew <yoseforb@gmail.com>
+gnome-usage,165,0,0,37,0,0,154,165,100.0,Hebrew <yoseforb@gmail.com>
+gnome-user-docs,1307,0,57458,86,0,3280,1098,58765,2.224112992427465,Hebrew <yoseforb@gmail.com>
+gnome-user-share,49,0,0,10,0,0,46,49,100.0,עברית <>
+gnome-vfs2,1519,0,0,305,0,0,1491,1519,100.0,Hebrew <he@li.org>
+gnome-video-effects,256,0,0,68,0,0,217,256,100.0,he
+gnome-weather,235,0,0,48,0,0,265,235,100.0,Hebrew <yoseforb@gmail.com>
+gnote,2333,0,0,344,0,0,2271,2333,100.0,Hebrew <he@li.org>
+gnubik,45,77,157,13,17,53,45,279,16.129032258064516,Hebrew <he@li.org>
+gnucash,37264,1152,812,5577,136,84,30984,39228,94.99337208116651,Hebrew <https://hosted.weblate.org/projects/gnucash/gnucash/he/>
+gnumeric,4922,2129,27995,1383,665,3594,4841,35046,14.044398790161502,Hebrew <he@li.org>
+godot,5135,0,0,1423,0,0,4902,5135,100.0,Hebrew <https://hosted.weblate.org/projects/godot-engine/godot/he/>
+godot3,7503,5376,9713,1870,2093,2132,7156,22592,33.210871104815865,Hebrew <https://hosted.weblate.org/projects/godot-engine/godot/he/>
+goffice,129,736,5336,78,406,1517,131,6201,2.080309627479439,Hebrew <he@li.org>
+gparted,3059,0,0,514,0,0,2800,3059,100.0,Hebrew <yoseforb@gmail.com>
+gpodder,1371,419,718,374,134,115,1284,2508,54.665071770334926,Hebrew (http://www.transifex.com/projects/p/gpodder/language/he/)
+gramps,40655,46,0,7115,2,0,33964,40701,99.88698066386576,Hebrew <https://hosted.weblate.org/projects/gramps-project/gramps/he/>
+granite,498,0,0,118,0,0,504,498,100.0,Hebrew <https://l10n.elementary.io/projects/desktop/granite/he/>
+granite-7,313,0,56,79,0,7,332,369,84.82384823848238,Hebrew <https://l10n.elementary.io/projects/desktop/granite/he/>
+grep,31,257,645,12,27,77,37,933,3.322615219721329,Hebrew <eliz@gnu.org>
+grilo,191,0,0,36,0,0,187,191,100.0,עברית <>
+grilo-plugins,494,0,0,120,0,0,415,494,100.0,עברית <>
+grisbi,1741,5350,8214,696,1197,764,1710,15305,11.375367526951976,<en@li.org>
+gromit-mpx,306,0,0,26,0,0,286,306,100.0,avi.markovitz@gmail.com
+gscan2pdf,522,0,1318,164,0,342,484,1840,28.369565217391308,Hebrew <he@li.org>
+gsettings-desktop-schemas,7163,0,0,629,0,0,7163,7163,100.0,Hebrew <yoseforb@gmail.com>
+gspell,76,0,0,31,0,0,74,76,100.0,Hebrew <yoseforb@gmail.com>
+gthumb,3608,0,0,1200,0,0,3372,3608,100.0,Hebrew <>
+gtk-vnc,8,0,0,3,0,0,9,8,100.0,Hebrew <sh.yaron@gmail.com>
+gtk2,12429,0,0,2586,0,0,12314,12429,100.0,Hebrew <he@li.org>
+gtk2-engines,119,0,0,47,0,0,119,119,100.0,he
+gtk3,16737,0,0,3942,0,0,16777,16737,100.0,Hebrew <yoseforb@gmail.com>
+gtk4,4406,0,0,1545,0,0,4489,4406,100.0,Hebrew <yoseforb@gmail.com>
+gtkhash,201,12,0,59,4,0,227,213,94.36619718309859,Hebrew <https://hosted.weblate.org/projects/gtkhash/translations/he/>
+gtkhtml3,522,0,0,317,0,0,531,522,100.0,Hebrew <he@li.org>
+gtkpod,4753,1423,1344,806,316,240,4383,7520,63.204787234042556,HEBREW <kde-il@yahoogroups.com>
+gtksourceview2,1426,0,0,549,0,0,1397,1426,100.0,Hebrew <he@li.org>
+gtksourceview3,255,67,0,94,12,0,253,322,79.19254658385093,עברית <>
+gtksourceview4,308,0,0,94,0,0,305,308,100.0,Hebrew <yoseforb@gmail.com>
+gtksourceview5,371,0,0,112,0,0,358,371,100.0,Hebrew <yoseforb@gmail.com>
+gtkspell3,16,0,0,7,0,0,15,16,100.0,Hebrew <eliz@gnu.org>
+gtranslator,1672,0,0,390,0,0,1602,1672,100.0,Gezer (Hebrew)
+gucharmap,1041,0,30,348,0,15,1122,1071,97.19887955182072,Hebrew <he@li.org>
+guvcview,264,43,745,128,20,267,266,1052,25.09505703422053,Hebrew <he@li.org>
+gvfs,2102,0,0,405,0,0,2115,2102,100.0,עברית <>
+gweled,107,1,109,36,1,10,110,217,49.30875576036866,Hebrew <he@li.org>
+gwenview,845,267,928,276,69,95,806,2040,41.42156862745098,Hebrew <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hello,2,60,182,1,13,32,3,244,0.819672131147541,Hebrew <eliz@gnu.org>
+hitori,236,0,0,62,0,0,218,236,100.0,Hebrew <yoseforb@gmail.com>
+homebank,1297,5,1854,480,3,513,1215,3156,41.09632446134348,Hebrew <he@li.org>
+iagno,801,0,0,149,0,0,878,801,100.0,Hebrew <yoseforb@gmail.com>
+ibus,933,39,1616,171,11,419,850,2588,36.05100463678516,Hebrew <https://translate.fedoraproject.org/projects/ibus/ibus/he/>
+ibus-typing-booster,1729,102,381,198,21,30,1458,2212,78.16455696202532,Hebrew <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/he/>
+icewm,387,780,1109,162,81,284,433,2276,17.003514938488575,Hebrew <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/he/>
+imsettings,0,0,493,0,0,90,0,493,0.0,LANGUAGE <LL@li.org>
+initial-setup,106,0,0,20,0,0,86,106,100.0,Hebrew <https://translate.fedoraproject.org/projects/initial-setup/master/he/>
+inkscape,16869,14841,17858,3949,4213,2266,16039,49568,34.032036797934154,Gezer (Hebrew)
+islamic-menus,5,0,0,2,0,0,5,5,100.0,Hebrew <he@li.org>
+iso-codes,2414,4274,16605,1463,3242,10710,2290,23293,10.363628557935861,Hebrew <https://hosted.weblate.org/projects/iso-codes/iso-15924/he/>
+isomaster,472,200,2,102,4,1,441,674,70.02967359050444,Fima Kachinski <xrayon@gmail.com>
+json-glib,307,0,0,47,0,0,307,307,100.0,Hebrew <yoseforb@gmail.com>
+juk,993,302,231,278,31,53,951,1526,65.07208387942333,Hebrew <kde-i18n-doc@kde.org>
+k3b,8804,1870,9505,1914,321,287,8685,20179,43.62951583329204,Hebrew <kde-i18n-doc@kde.org>
+kBuild,137,374,879,24,54,107,143,1390,9.85611510791367,Hebrew <eliz@gnu.org>
+kactivitymanagerd,5,3,3,2,1,2,5,11,45.45454545454545,Hebrew <kde-i18n-doc@kde.org>
+kaddressbook,73,258,806,34,94,106,80,1137,6.420404573438875,Hebrew <kde-l10n-he@kde.org>
+kaidan,82,204,1508,43,91,245,83,1794,4.570791527313267,
+kalarm,80,4164,4145,18,844,366,80,8389,0.9536297532483013,<he@li.org>
+kalzium,380,1388,7337,187,397,717,366,9105,4.173531026908292,Hebrew <kde-i18n-he@kde.org>
+kamera,143,195,4,24,9,4,150,342,41.812865497076025,hebrew <kde-l10n-he@kde.org>
+kanagram,121,225,181,35,40,69,109,527,22.960151802656547,hebrew <kde-l10n-he@kde.org>
+kapow,0,0,102,0,0,4,0,102,0.0,Hebrew (http://www.transifex.com/projects/p/kapow/language/he/)
+kate,1949,959,2354,459,204,528,1776,5262,37.039148612694795,Hebrew <kde-i18n-doc@kde.org>
+katomic,27,23,134,13,10,36,32,184,14.673913043478262,Hebrew <kde-l10n-he@kde.org>
+kblackbox,22,59,1286,8,15,80,17,1367,1.6093635698610096,Hebrew <kde-i18n-doc@kde.org>
+kbounce,31,59,66,9,13,21,32,156,19.871794871794872,Hebrew <kde-l10n-he@kde.org>
+kbruch,1306,39,2,193,2,3,1076,1347,96.95619896065331,Hebrew <Kde-l10n-he@kde.org>
+kcalc,395,251,424,140,74,136,362,1070,36.915887850467286,hebrew <kde-l10n-he@kde.org>
+kcharselect,44,2,42,19,1,14,52,88,50.0,Hebrew <kde-i18n-doc@kde.org>
+kcolorchooser,14,6,9,6,1,3,15,29,48.275862068965516,Hebrew <kde-l10n-he@kde.org>
+kcoloredit,8,92,178,5,29,61,9,278,2.877697841726619,Hebrew <kde-il@yahoogroups.com>
+kcron,318,128,56,125,46,9,287,502,63.34661354581673,Hebrew <kde-i18n-doc@kde.org>
+kde-cli-tools,1840,47,339,187,4,38,1584,2226,82.65947888589398,Hebrew <kde-i18n-doc@kde.org>
+kde-connect,279,140,246,83,17,83,260,665,41.95488721804511,Hebrew <kde-i18n-doc@kde.org>
+kde-l10n,52568,13306,21696,10998,2746,3186,48163,87570,60.02969053328766,hebrew <kde-l10n-he@kde.org>
+kde-style-breeze,239,8,19,89,4,8,260,266,89.84962406015038,Hebrew <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,0,5,987,0,3,107,0,992,0.0,<en@li.org>
+kdenlive,1363,5255,9196,539,1844,1202,1375,15814,8.618945238396359,American English <kde-i18n-doc@kde.org>
+kdepim-addons,206,636,1134,114,133,120,210,1976,10.425101214574898,Hebrew <kde-l10n-he@kde.org>
+kdepim-runtime,4,0,0,3,0,0,6,4,100.0,Hebrew
+kdeplasma-addons,644,295,319,219,127,103,528,1258,51.19236883942766,Hebrew <kde-i18n-doc@kde.org>
+kdf,131,35,29,41,22,8,127,195,67.17948717948717,Hebrew <kde-i18n-doc@kde.org>
+kdialog,215,86,90,49,12,17,221,391,54.987212276214834,Hebrew <gezer@lists.launchpad.net>
+kdump-anaconda-addon,0,0,194,0,0,22,0,194,0.0,LANGUAGE <LL@li.org>
+keditbookmarks,341,119,6,96,35,1,356,466,73.17596566523605,Hebrew <kde-l10n-he@kde.org>
+kexi,19,2890,4431,12,845,623,27,7340,0.25885558583106266,<C@li.org>
+kf5-akonadi-contacts,749,184,167,170,69,28,686,1100,68.0909090909091,Hebrew <kde-i18n-he@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Hebrew <kde-i18n-he@kde.org>
+kf5-audiocd-kio,596,172,89,137,22,17,600,857,69.54492415402567,hebrew <kde-l10n-he@kde.org>
+kf5-baloo,6,0,0,4,0,0,7,6,100.0,Hebrew <kde-i18n-doc@kde.org>
+kf5-calendarsupport,621,1406,752,86,223,82,524,2779,22.346167686218063,<kde-l10n-he@kde.org>
+kf5-kauth,73,0,0,8,0,0,67,73,100.0,צוות התרגום של KDE ישראל
+kf5-kbookmarks,230,0,0,49,0,0,198,230,100.0,צוות התרגום של KDE ישראל
+kf5-kcmutils,266,0,0,38,0,0,236,266,100.0,צוות התרגום של KDE ישראל
+kf5-kcodecs,370,0,0,53,0,0,259,370,100.0,צוות התרגום של KDE ישראל
+kf5-kcompletion,18,0,0,11,0,0,18,18,100.0,צוות התרגום של KDE ישראל
+kf5-kconfig,289,0,0,104,0,0,269,289,100.0,צוות התרגום של KDE ישראל
+kf5-kconfigwidgets,342,0,0,125,0,0,324,342,100.0,צוות התרגום של KDE ישראל
+kf5-kcoreaddons,62,207,113,31,42,59,62,382,16.230366492146597,צוות התרגום של KDE ישראל
+kf5-kdeclarative,161,0,0,25,0,0,146,161,100.0,צוות התרגום של KDE ישראל
+kf5-kdelibs4support,3031,267,2055,1891,145,508,3545,5353,56.62245469830002,צוות התרגום של KDE ישראל
+kf5-kdesignerplugin,54,0,0,9,0,0,51,54,100.0,Hebrew <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,23,19,100.0,צוות התרגום של KDE ישראל
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Hebrew <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,11,8,100.0,Hebrew <kde-i18n-he@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,59,71,100.0,Hebrew <kde-i18n-doc@kde.org>
+kf5-kholidays,150,0,0,97,0,0,157,150,100.0,צוות התרגום של KDE ישראל
+kf5-khtml,1667,0,0,289,0,0,1407,1667,100.0,צוות התרגום של KDE ישראל
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,צוות התרגום של KDE ישראל
+kf5-kiconthemes,41,0,0,19,0,0,46,41,100.0,צוות התרגום של KDE ישראל
+kf5-kinit,116,0,0,11,0,0,96,116,100.0,צוות התרגום של KDE ישראל
+kf5-kio,7461,2216,2360,926,237,210,6458,12037,61.98388302733239,צוות התרגום של KDE ישראל
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,צוות התרגום של KDE ישראל
+kf5-kjobwidgets,133,0,0,38,0,0,117,133,100.0,Hebrew <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,239,248,100.0,Hebrew <kde-i18n-doc@kde.org>
+kf5-kldap,33,0,0,8,0,0,31,33,100.0,Hebrew <kde-l10n-he@kde.org>
+kf5-knewstuff,299,144,1188,69,62,100,293,1631,18.332311465358675,Hebrew <kde-i18n-doc@kde.org>
+kf5-knotifications,21,0,0,8,0,0,15,21,100.0,צוות התרגום של KDE ישראל
+kf5-knotifyconfig,129,0,0,17,0,0,101,129,100.0,צוות התרגום של KDE ישראל
+kf5-kontactinterface,4,0,0,2,0,0,7,4,100.0,Hebrew <kde-i18n-he@kde.org>
+kf5-kpackage,26,2,424,12,1,60,26,452,5.752212389380531,Hebrew <kde-i18n-doc@kde.org>
+kf5-kparts,138,0,0,30,0,0,115,138,100.0,צוות התרגום של KDE ישראל
+kf5-kpeople,13,0,0,8,0,0,14,13,100.0,צוות התרגום של KDE ישראל
+kf5-kpty,15,0,0,4,0,0,21,15,100.0,Hebrew <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,98,100,100.0,צוות התרגום של KDE ישראל
+kf5-kservice,173,0,0,28,0,0,176,173,100.0,צוות התרגום של KDE ישראל
+kf5-ktexteditor,3608,1597,4028,698,291,275,3274,9233,39.07722300444059,Hebrew <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,473,0,0,130,0,0,426,473,100.0,צוות התרגום של KDE ישראל
+kf5-kwallet,1460,0,0,110,0,0,1242,1460,100.0,צוות התרגום של KDE ישראל
+kf5-kwidgetsaddons,1293,0,0,463,0,0,1313,1293,100.0,צוות התרגום של KDE ישראל
+kf5-kwindowsystem,2,0,0,1,0,0,3,2,100.0,Hebrew <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1574,0,0,230,0,0,1392,1574,100.0,צוות התרגום של KDE ישראל
+kf5-kxmlrpcclient,13,0,0,2,0,0,13,13,100.0,Hebrew <kde-i18n-he@kde.org>
+kf5-libkcddb,290,7,103,174,4,33,299,400,72.5,hebrew <kde-l10n-he@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,17,15,100.0,hebrew <kde-l10n-he@kde.org>
+kf5-libkdepim,0,0,35,0,0,10,0,35,0.0,<he@li.org>
+kf5-mailimporter,21,267,1120,6,52,69,21,1408,1.4914772727272727,hebrew <en@li.org>
+kf5-messagelib,436,1314,1942,113,413,271,392,3692,11.80931744312026,<he@li.org>
+kf5-plasma,331,0,31,97,0,8,302,362,91.4364640883978,צוות התרגום של KDE ישראל
+kf5-solid,406,182,0,82,77,0,373,588,69.04761904761905,צוות התרגום של KDE ישראל
+kf5-sonnet,683,0,0,76,0,0,597,683,100.0,צוות התרגום של KDE ישראל
+kf5-syntax-highlighting,0,333,314,0,252,131,0,647,0.0,Hebrew <kde-i18n-doc@kde.org>
+kfind,485,17,15,111,4,2,470,517,93.81044487427465,Hebrew <kde-i18n-doc@kde.org>
+kflickr,332,0,0,87,0,0,307,332,100.0,Hebrew <he@li.org>
+kfloppy,418,2,221,75,2,23,411,641,65.21060842433697,Hebrew <kde-i18n-doc@kde.org>
+kfourinline,105,126,161,48,46,63,114,392,26.785714285714285,hebrew <kde-l10n-he@kde.org>
+kgamma,130,0,0,16,0,0,129,130,100.0,Hebrew <kde-i18n-doc@kde.org>
+kgeography,1397,6262,2353,1076,4724,1437,1348,10012,13.953256092688774,<he@li.org>
+kget,51,928,1797,18,324,401,51,2776,1.8371757925072045,<en@li.org>
+kgpg,1367,2480,1425,293,263,142,1263,5272,25.929438543247347,Hebrew <kde-i18n-doc@kde.org>
+kgrab,152,12,206,48,2,3,147,370,41.08108108108108,American English <kde-il@yahoogroups.com>
+khangman,4,58,413,3,17,100,4,475,0.8421052631578947,Hebrew
+khelpcenter,211,22,32,78,7,5,223,265,79.62264150943396,Hebrew <kde-l10n-he@kde.org>
+khotkeys,365,22,64,123,4,9,357,451,80.93126385809313,Hebrew <kde-i18n-doc@kde.org>
+kiconedit,682,11,33,135,5,15,597,726,93.93939393939394,hebrew <kde-il@yahoogroups.com>
+kinfocenter,357,140,178,181,71,75,379,675,52.888888888888886,Hebrew <kde-i18n-doc@kde.org>
+kio-extras,518,302,197,82,26,28,493,1017,50.93411996066863,Hebrew <kde-i18n-he@kde.org>
+kio-gdrive,12,10,54,1,4,13,8,76,15.789473684210526,Hebrew
+kjots,3,133,515,2,36,96,3,651,0.4608294930875576,Hebrew <kde-l10n-he@kde.org>
+kjumpingcube,76,59,278,22,13,60,71,413,18.401937046004843,Hebrew <kde-i18n-he@kde.org>
+kleopatra,23,3283,9081,12,718,1134,26,12387,0.1856785339468798,hebrew <kde-l10n-he@kde.org>
+klettres,268,74,98,43,15,27,247,440,60.909090909090914,Hebrew <kde-i18n-he@kde.org>
+klines,33,11,55,7,6,15,27,99,33.33333333333333,Hebrew <kde-l10n-he@kde.org>
+kmag,242,111,79,43,25,30,219,432,56.018518518518526,<he@li.org>
+kmahjongg,178,70,129,47,21,36,161,377,47.214854111405835,Hebrew <kde-l10n-he@kde.org>
+kmail,1217,2835,4246,322,564,391,1184,8298,14.666184622800674,Hebrew <kde-i18n-doc@kde.org>
+kmail-account-wizard,9,0,799,3,0,123,8,808,1.1138613861386137,Hebrew
+kmenuedit,258,4,23,58,2,7,230,285,90.52631578947368,Hebrew <kde-i18n-doc@kde.org>
+kmines,37,22,97,14,7,24,29,156,23.717948717948715,Hebrew <kde-l10n-he@kde.org>
+kmix,319,209,604,83,44,97,301,1132,28.180212014134277,hebrew <kde-l10n-he@kde.org>
+kmousetool,93,32,22,21,3,8,90,147,63.26530612244898,hebrew <kdeil@yahoogroups.com>
+kmouth,1113,99,284,162,22,24,906,1496,74.39839572192514,Hebrew <kde-i18n-doc@kde.org>
+kmplot,1096,946,458,208,137,140,933,2500,43.84,hebrew <kde-l10n-he@kde.org>
+knavalbattle,31,121,249,15,32,57,39,401,7.73067331670823,Hebrew <kde-i18n-he@kde.org>
+knetwalk,13,19,211,4,2,50,13,243,5.349794238683128,Hebrew <kde-l10n-he@kde.org>
+knotes,223,143,235,91,54,45,235,601,37.10482529118136,Hebrew <en@li.org>
+koffice-kivio,3887,982,3548,1161,370,830,3798,8417,46.18034929309731,Hebrew <kde-il@yahoogroups.com>
+kolf,311,51,39,111,16,21,312,401,77.55610972568579,Hebrew <kde-l10n-he@kde.org>
+kolourpaint,671,484,1421,240,100,110,660,2576,26.04813664596273,Hebrew <kde-i18n-he@kde.org>
+konqueror,5505,635,1037,743,89,121,4958,7177,76.70335794900376,Hebrew <kde-i18n-doc@kde.org>
+konquest,87,97,62,23,40,35,79,246,35.36585365853659,hebrew <kde-l10n-he@kde.org>
+konsole5,1677,907,1412,368,211,261,1549,3996,41.966966966966964,Hebrew <kde-i18n-doc@kde.org>
+kontact,28,148,316,8,34,45,32,492,5.691056910569105,hebrew <kde-l10n-he@kde.org>
+konversation,5610,794,3958,1288,122,238,5380,10362,54.14012738853503,Hebrew <kde-i18n-doc@kde.org>
+kopete,4444,6190,6517,982,1450,859,4005,17151,25.91102559617515,Hebrew <kde-i18n-doc@kde.org>
+korganizer,1366,2611,2917,183,429,269,1214,6894,19.814331302581955,<kde-l10n-he@kde.org>
+kpat,37,116,412,16,53,130,46,565,6.548672566371681,Hebrew <kde-i18n-he@kde.org>
+kpilot,521,1724,4911,128,364,369,492,7156,7.280603689211851,Hebrew <kde-il@yahoogroups.com>
+krdc,31,240,891,6,46,208,30,1162,2.667814113597246,Hebrew <kde-l10n-he@kde.org>
+kreport,0,282,129,0,150,22,0,411,0.0,Hebrew <kde-l10n-he@kde.org>
+kreversi,38,49,338,14,18,108,35,425,8.941176470588236,Hebrew <kde-i18n-he@kde.org>
+krfb,139,68,528,23,16,66,140,735,18.911564625850342,hebrew <kde-l10n-he@kde.org>
+krita,176,14279,21469,71,5972,2509,169,35924,0.4899231711390714,Hebrew <kde-l10n-he@kde.org>
+kruler,12,37,109,4,5,35,15,158,7.59493670886076,hebrew <kde-l10n-he@kde.org>
+kscreen,16,30,279,10,7,45,20,325,4.923076923076923,Hebrew <kde-i18n-doc@kde.org>
+kscreenlocker,78,144,23,13,7,11,60,245,31.83673469387755,Hebrew <kde-i18n-doc@kde.org>
+kshisen,29,57,581,20,11,44,31,667,4.3478260869565215,Hebrew <kde-l10n-he@kde.org>
+ksig,23,0,62,7,0,19,26,85,27.058823529411764,hebrew <kde-il@yahoogroups.com>
+kspaceduel,136,14,15,64,10,7,150,165,82.42424242424242,hebrew <kde-l10n-he@kde.org>
+ksshaskpass,30,13,8,9,1,5,26,51,58.82352941176471,Hebrew
+ksysguard,883,81,129,218,10,9,821,1093,80.7868252516011,Hebrew <kde-i18n-doc@kde.org>
+kteatime,154,43,6,52,10,5,151,203,75.86206896551724,Hebrew <kde-i18n-doc@kde.org>
+ktimer,48,2,208,21,2,30,40,258,18.6046511627907,Hebrew <kde-i18n-doc@kde.org>
+ktorrent,1616,63,5783,383,22,956,1358,7462,21.656392388099704,Hebrew <kde-i18n-doc@kde.org>
+ktouch,11,350,603,5,108,146,10,964,1.1410788381742738,hebrew <kde-l10n-he@kde.org>
+ktuberling,42,65,51,16,6,16,49,158,26.582278481012654,Hebrew <kde-l10n-he@kde.org>
+kturtle,88,237,1213,22,79,248,79,1538,5.721716514954486,hebrew <kde-l10n-he@kde.org>
+kwin,2144,1538,2193,522,298,367,2073,5875,36.4936170212766,Hebrew <kde-i18n-doc@kde.org>
+l3afpad,113,0,17,61,0,3,124,130,86.92307692307692,Hebrew
+lazarus,10722,7536,10708,3334,1095,2103,10958,28966,37.01581164123455,
+lazpaint,1587,0,9,345,0,2,1579,1596,99.43609022556392,
+leafpad,125,0,0,68,0,0,143,125,100.0,Hebrew <eliz@gnu.org>
+libadwaita,287,0,0,82,0,0,309,287,100.0,Hebrew <yoseforb@gmail.com>
+libbonobo,543,0,0,107,0,0,543,543,100.0,Hebrew <he@li.org>
+libbonoboui,368,0,0,115,0,0,355,368,100.0,Hebrew <he@li.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Hebrew <https://translate.fedoraproject.org/projects/blivet/libbytesize/he/>
+libcryptui,697,0,0,187,0,0,681,697,100.0,Hebrew <he@li.org>
+libfilezilla,54,0,0,11,0,0,63,54,100.0,Gezer
+libfm,1408,63,104,362,18,14,1277,1575,89.39682539682539,Hebrew <sh.yaron@gmail.com>
+libgdata,684,0,0,84,0,0,564,684,100.0,עברית <>
+libgdl,592,0,0,86,0,0,593,592,100.0,he
+libgedit-gtksourceview,236,67,16,79,12,3,233,319,73.98119122257053,עברית <>
+libgnome,1773,0,0,273,0,0,1773,1773,100.0,<en@li.org>
+libgnome-games-support,43,0,0,14,0,0,44,43,100.0,Hebrew <yoseforb@gmail.com>
+libgnome-games-support1,43,0,0,14,0,0,44,43,100.0,Hebrew <yoseforb@gmail.com>
+libgnome-keyring,44,0,0,9,0,0,41,44,100.0,Gezer <sh.yaron@gmail.com>
+libgnomecanvas,378,0,0,95,0,0,343,378,100.0,Hebrew <he@li.org>
+libgnomekbd,242,0,0,55,0,0,244,242,100.0,he
+libgnomeui,1309,0,0,334,0,0,1153,1309,100.0,Hebrew <he@li.org>
+libgpod,891,146,16,149,33,3,902,1053,84.61538461538461,HEBREW <kde-il@yahoogroups.com>
+libgsf,696,0,0,146,0,0,696,696,100.0,עברית <>
+libgtop2,126,0,0,40,0,0,126,126,100.0,Hebrew <>
+libgweather4,6961,0,9,5151,0,8,6955,6970,99.87087517934002,Hebrew <>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,160,61,149,68,25,39,177,370,43.24324324324324,Hebrew <kde-i18n-doc@kde.org>
+libkeduvocdocument,0,2,169,0,2,79,0,171,0.0,hebrew <kde-l10n-he@kde.org>
+libksysguard,902,917,2082,176,53,313,771,3901,23.122276339400155,Hebrew <kde-i18n-doc@kde.org>
+libmatekbd,256,0,52,54,0,37,245,308,83.11688311688312,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+libmatemixer,13,0,229,12,0,114,14,242,5.371900826446281,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+libmateweather,6008,0,135,4537,0,38,6017,6143,97.80237668891422,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+libmypaint,24,2,2277,9,1,152,24,2303,1.0421189752496742,Hebrew <https://hosted.weblate.org/projects/mypaint/libmypaint/he/>
+libnma,303,233,271,81,52,50,298,807,37.54646840148699,Gezer (Hebrew)
+libpanel,107,0,0,29,0,0,98,107,100.0,Hebrew <yoseforb@gmail.com>
+libpeas,103,0,0,29,0,0,92,103,100.0,Hebrew <yoseforb@gmail.com>
+libpeas1,103,0,0,29,0,0,92,103,100.0,Hebrew <yoseforb@gmail.com>
+libpwquality,345,0,0,51,0,0,287,345,100.0,Hebrew <https://translate.fedoraproject.org/projects/libpwquality/app/he/>
+libreoffice,254636,4344,488854,48879,1590,42398,245580,747834,34.04980249627591,Hebrew <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/he/>
+libreport,318,11,4599,80,1,522,297,4928,6.452922077922079,Hebrew <https://translate.fedoraproject.org/projects/abrt/libreport/he/>
+libsecret,64,0,0,10,0,0,52,64,100.0,Gezer
+libshumate,12,0,0,6,0,0,10,12,100.0,Hebrew <yoseforb@gmail.com>
+libsoup,155,0,0,36,0,0,173,155,100.0,עברית <>
+libsoup3,180,0,0,38,0,0,189,180,100.0,עברית <>
+libuser,355,25,1057,84,5,212,359,1437,24.704244954766875,Hebrew (http://www.transifex.com/projects/p/fedora/language/he/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Hebrew <he-users@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1132,1124,100.0,Hebrew <he@li.org>
+libwnck3,1084,0,0,230,0,0,1094,1084,100.0,Hebrew <he@li.org>
+libxfce4ui,1018,0,0,211,0,0,972,1018,100.0,Hebrew (https://app.transifex.com/xfce/teams/16840/he/)
+libxfce4util,424,0,0,7,0,0,347,424,100.0,Hebrew (http://www.transifex.com/xfce/libxfce4util/language/he/)
+libxfce4windowing,63,0,0,19,0,0,61,63,100.0,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+libzypp,152,427,2117,141,305,530,152,2696,5.637982195845697,Hebrew <i18n@suse.de>
+lifeograph,149,375,982,31,125,286,133,1506,9.893758300132802,Hebrew <he@li.org>
+liferea,1500,259,442,389,59,88,1466,2201,68.15084052703317,Hebrew <eliz@gnu.org>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Hebrew (http://www.transifex.com/the_cavalry/light-locker/language/he/)
+lightdm,79,0,84,17,0,4,77,163,48.466257668711656,Hebrew <he@li.org>
+lightdm-gtk,89,0,0,25,0,0,84,89,100.0,Hebrew (https://www.transifex.com/xubuntu/teams/110148/he/)
+lightdm-settings,355,0,0,74,0,0,292,355,100.0,Hebrew <he@li.org>
+lightsoff,104,0,0,18,0,0,125,104,100.0,Hebrew <yoseforb@gmail.com>
+logjam,1928,166,222,497,38,54,1780,2316,83.24697754749567,<none>
+lokalize,649,636,2880,187,195,307,629,4165,15.582232893157263,Hebrew <kde-i18n-doc@kde.org>
+lollypop,1423,0,5,454,0,1,1391,1428,99.64985994397759,Hebrew <https://hosted.weblate.org/projects/gnumdk/lollypop/he/>
+loupe,300,0,0,132,0,0,315,300,100.0,Hebrew <yoseforb@gmail.com>
+lskat,100,79,75,25,27,31,103,254,39.37007874015748,hebrew <kde-l10n-he@kde.org>
+lxde-common,14,0,0,5,0,0,17,14,100.0,LANGUAGE <LL@li.org>
+lxdm,48,0,0,26,0,0,51,48,100.0,LANGUAGE <LL@li.org>
+lxinput,72,0,11,24,0,2,78,83,86.74698795180723,LANGUAGE <LL@li.org>
+lxlauncher,51,0,7,11,0,6,46,58,87.93103448275862,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,88,97,100.0,<he@li.org>
+lxmusic,203,0,0,89,0,0,226,203,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,44,43,100.0,LANGUAGE <LL@li.org>
+lyx,24211,2327,5056,6555,765,947,22395,31594,76.63163891878206,Hebrew <>
+magpie,1253,0,0,148,0,0,1230,1253,100.0,Hebrew <yoseforb@gmail.com>
+mailman3,4640,0,0,401,0,0,5232,4640,100.0,Hebrew <https://hosted.weblate.org/projects/gnu-mailman/mailman/he/>
+make,468,1345,780,135,218,124,475,2593,18.048592364057075,Hebrew <eliz@gnu.org>
+malcontent,1,0,583,1,0,97,1,584,0.17123287671232876,none
+maliit-keyboard,66,7,8,51,2,8,72,81,81.48148148148148,
+mame,0,0,3685,0,0,1288,0,3685,0.0,MAME Language Team
+manafirewall,49,0,1048,37,0,96,51,1097,4.466727438468551,Hebrew (https://www.transifex.com/MageiaLinux/teams/9361/he/)
+marble,53,3760,7743,23,1212,2083,54,11556,0.4586362062997577,Hebrew <kde-l10n-he@kde.org>
+marco,3389,0,914,372,0,58,3380,4303,78.75900534510806,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-applets,2306,37,13614,609,8,1029,2391,15957,14.451337970796516,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+mate-backgrounds,55,0,0,29,0,0,55,55,100.0,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+mate-calc,1602,0,1721,515,0,234,1558,3323,48.209449292807705,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+mate-control-center,3158,7,5088,1135,1,374,3097,8253,38.26487337937719,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-desktop,1382,0,994,214,0,87,1391,2376,58.16498316498316,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-icon-theme,4,0,0,2,0,0,6,4,100.0,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+mate-media,140,0,99,61,0,38,137,239,58.57740585774059,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-menu,301,0,7,109,0,1,317,308,97.72727272727273,Hebrew (http://www.transifex.com/mate/MATE/language/he/)
+mate-menus,98,0,5,38,0,1,87,103,95.14563106796116,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-notification-daemon,156,0,30,45,0,8,167,186,83.87096774193549,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-panel,4046,3,2671,573,1,240,3921,6720,60.20833333333333,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-polkit,123,0,0,21,0,0,104,123,100.0,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+mate-power-manager,2272,0,2847,378,0,173,2257,5119,44.3836686852901,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-screensaver,868,0,233,147,0,29,844,1101,78.83742052679382,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-sensors-applet,16,14,2130,12,8,206,20,2160,0.7407407407407408,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+mate-session-manager,464,0,251,108,0,24,440,715,64.8951048951049,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-settings-daemon,1560,0,647,242,0,77,1505,2207,70.68418667874944,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-system-monitor,628,0,4265,235,0,425,652,4893,12.834661761700389,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-terminal,4017,0,4369,505,0,298,3983,8386,47.90126401144765,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-themes,49,0,25,17,0,6,50,74,66.21621621621621,Hebrew (http://app.transifex.com/mate/MATE/language/he/)
+mate-user-admin,31,0,574,19,0,107,32,605,5.12396694214876,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+mate-user-guide,213,0,42760,112,0,3116,218,42973,0.49566006562260023,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mate-utils,3412,0,6648,699,0,427,3244,10060,33.916500994035786,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+mc,0,0,4394,0,0,1268,0,4394,0.0,Hebrew (http://app.transifex.com/mc/mc/language/he/)
+mediawriter,836,0,0,155,0,0,747,836,100.0,Hebrew <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/he/>
+meld,2264,0,0,460,0,0,2174,2264,100.0,Hebrew <he@li.org>
+menulibre,322,0,551,121,0,45,308,873,36.884306987399775,Hebrew <he@li.org>
+metacity,2196,0,0,313,0,0,2194,2196,100.0,עברית <>
+midori,2129,0,1412,557,0,239,1997,3541,60.12425868398758,גזר
+minetest,1750,617,7309,466,126,743,1734,9676,18.08598594460521,Hebrew <https://hosted.weblate.org/projects/minetest/minetest/he/>
+mingw-GConf2,4088,0,0,497,0,0,4087,4088,100.0,he
+mingw-atk,440,0,0,169,0,0,441,440,100.0,עברית <>
+mingw-boost,17,0,2,10,0,1,30,19,89.47368421052632,
+mingw-colord,162,0,1723,38,0,165,135,1885,8.594164456233422,Hebrew (http://www.transifex.com/projects/p/colord/language/he/)
+mingw-gdk-pixbuf,1325,0,0,198,0,0,1305,1325,100.0,עברית <>
+mingw-glib-networking,434,0,0,64,0,0,472,434,100.0,Hebrew <>
+mingw-glib2,7716,0,0,1214,0,0,7844,7716,100.0,Hebrew <yoseforb@gmail.com>
+mingw-gsettings-desktop-schemas,7207,0,0,630,0,0,7207,7207,100.0,Hebrew <>
+mingw-gtk2,12429,0,0,2586,0,0,12314,12429,100.0,Hebrew <he@li.org>
+mingw-gtk3,16484,12,241,3800,8,134,16478,16737,98.4883790404493,Hebrew <yoseforb@gmail.com>
+mingw-gtk4,3978,103,167,1442,20,55,4018,4248,93.64406779661016,Hebrew <yoseforb@gmail.com>
+mingw-gtksourceview3,255,67,0,94,12,0,253,322,79.19254658385093,עברית <>
+mingw-json-glib,303,0,0,44,0,0,303,303,100.0,עברית <>
+mingw-libgsf,696,0,0,146,0,0,696,696,100.0,עברית <>
+mingw-libsoup,155,0,0,36,0,0,173,155,100.0,עברית <>
+mingw-mediawriter,840,5,0,160,2,0,752,845,99.40828402366864,Hebrew <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/he/>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Hebrew (http://www.transifex.com/freedesktop/p11-kit/language/he/)
+mingw-sane-backends,5478,359,132,1156,61,24,5228,5969,91.77416652705645,Hebrew
+moodle,0,1,51,0,1,13,0,52,0.0,i18n@lists.horde.org
+mousepad,1700,0,0,428,0,0,1560,1700,100.0,Hebrew (http://app.transifex.com/xfce/xfce-apps/language/he/)
+mousetweaks,114,0,0,30,0,0,113,114,100.0,he
+mozo,44,0,2,22,0,2,44,46,95.65217391304348,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+muffin,951,0,0,135,0,0,916,951,100.0,עברית <>
+multimedia-menus,56,0,0,22,0,0,55,56,100.0,Hebrew <fedora-he-list@redhat.com>
+mutter,1337,0,0,146,0,0,1315,1337,100.0,Hebrew <yoseforb@gmail.com>
+mypaint,699,164,5518,260,68,942,693,6381,10.954395862717442,Hebrew <https://hosted.weblate.org/projects/mypaint/mypaint/he/>
+nautilus,5460,0,0,1115,0,0,5773,5460,100.0,Hebrew <yoseforb@gmail.com>
+ncmpc,713,0,0,276,0,0,697,713,100.0,Hebrew <https://hosted.weblate.org/projects/ncmpc/translations/he/>
+network-manager-applet,2075,775,1586,614,110,149,2158,4436,46.776375112714156,Gezer (Hebrew)
+newt,4,0,0,4,0,0,4,4,100.0,
+nfoview,49,0,59,22,0,15,55,108,45.370370370370374,Hebrew (http://app.transifex.com/otsaloma/nfoview/language/he/)
+noggin,152,0,697,18,0,133,117,849,17.90341578327444,Hebrew <https://translate.fedoraproject.org/projects/fedora-infra/noggin/he/>
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Hebrew
+nutty,0,0,608,0,0,152,0,608,0.0,
+obconf,650,0,88,138,0,18,600,738,88.07588075880759,Rahut <genghiskhan@gmx.ca>
+okular,1265,1119,1617,360,357,291,1172,4001,31.617095726068484,Hebrew <kde-i18n-doc@kde.org>
+onboard,291,0,2027,110,0,400,309,2318,12.553925798101812,Hebrew <he@li.org>
+openbox,357,0,149,68,0,26,332,506,70.55335968379447,Rahut <genghiskhan@gmx.ca>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2299,0,5,911,0,1,2366,2304,99.78298611111111,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+orca,3557,577,1838,1267,127,562,3740,5972,59.56128600133959,
+osmo,1375,0,396,610,0,88,1358,1771,77.63975155279503,Hebrew (http://www.transifex.com/projects/p/osmo/language/he/)
+p11-kit,0,0,1764,0,0,313,0,1764,0.0,Hebrew (http://www.transifex.com/freedesktop/p11-kit/language/he/)
+pam,544,0,0,101,0,0,496,544,100.0,Hebrew <https://translate.fedoraproject.org/projects/linux-pam/master/he/>
+paprefs,137,0,0,25,0,0,128,137,100.0,Hebrew <https://translate.fedoraproject.org/projects/pulseaudio/paprefs/he/>
+parley,235,1401,1797,95,387,247,225,3433,6.845324788814448,Hebrew <kde-l10n-he@kde.org>
+parole,1141,0,6,296,0,3,1162,1147,99.4768962510898,Hebrew (http://app.transifex.com/xfce/xfce-apps/language/he/)
+passwd,0,0,336,0,0,57,0,336,0.0,Hebrew <he-users@lists.fedoraproject.org>
+pastebinit,105,0,90,15,0,14,104,195,53.84615384615385,Hebrew <he@li.org>
+pavucontrol,428,4,98,135,2,12,425,530,80.75471698113208,Hebrew <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/he/>
+pdfarranger,476,0,87,169,0,28,446,563,84.54706927175843,
+peek,456,12,69,74,7,8,444,537,84.91620111731844,Hebrew <https://hosted.weblate.org/projects/peek/translations/he/>
+phonon-backend-gstreamer,0,37,67,0,2,13,0,104,0.0,hebrew <kde-l10n-he@kde.org>
+phosh,412,0,0,163,0,0,456,412,100.0,Hebrew <yoseforb@gmail.com>
+picard,11285,376,5404,2526,27,1570,9904,17065,66.12950483445648,Hebrew <https://translations.metabrainz.org/projects/picard/2/app/he/>
+pidgin,13394,0,600,3061,0,130,12694,13994,95.71244819208232,Hebrew (http://www.transifex.com/pidgin/pidgin/language/he/)
+pidgin-birthday-reminder,204,0,85,57,0,9,203,289,70.58823529411765,Hebrew (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/he/)
+pidgin-guifications,223,98,184,102,32,58,210,505,44.15841584158416,Hebrew  <he@li.org>
+pinta,1746,0,0,537,0,0,1699,1746,100.0,Hebrew <he@li.org>
+pipewire,170,0,477,77,0,31,177,647,26.275115919629055,Hebrew <https://translate.fedoraproject.org/projects/pipewire/pipewire/he/>
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,Hebrew <https://translate.fedoraproject.org/projects/pipewire/pipewire/he/>
+pitivi,593,641,368,210,132,71,571,1602,37.01622971285893,Gezer (Hebrew) <gezer@lists.launchpad.net>
+plank,189,0,0,50,0,0,208,189,100.0,Hebrew <he@li.org>
+plasma-breeze,185,14,43,72,3,10,201,242,76.44628099173553,Hebrew <kde-i18n-doc@kde.org>
+plasma-desktop,4606,1066,2447,763,282,458,4037,8119,56.73112452272447,Hebrew <kde-i18n-doc@kde.org>
+plasma-discover,630,282,2028,243,108,304,644,2940,21.428571428571427,Hebrew <>
+plasma-drkonqi,538,992,454,78,83,42,498,1984,27.116935483870968,Hebrew <kde-i18n-doc@kde.org>
+plasma-integration,58,0,2,21,0,2,52,60,96.66666666666667,Hebrew
+plasma-mediacenter,85,0,4,46,0,4,85,89,95.50561797752809,Hebrew <kde-i18n-doc@kde.org>
+plasma-milou,2,1,7,1,1,2,2,10,20.0,Hebrew <kde-i18n-doc@kde.org>
+plasma-nm,504,201,1809,236,64,338,497,2514,20.047732696897373,Hebrew <kde-i18n-doc@kde.org>
+plasma-oxygen,414,94,123,171,29,31,448,631,65.61014263074485,Hebrew <kde-i18n-doc@kde.org>
+plasma-pa,71,41,164,24,18,53,66,276,25.724637681159418,Hebrew <kde-i18n-doc@kde.org>
+plasma-pk-updates,453,16,1612,167,5,228,421,2081,21.768380586256608,Hebrew <kde-i18n-doc@kde.org>
+plasma-sdk,374,68,246,129,18,52,362,688,54.360465116279066,Hebrew <kde-i18n-doc@kde.org>
+plasma-systemsettings,133,17,62,34,5,15,126,212,62.735849056603776,Hebrew <kde-i18n-doc@kde.org>
+plasma-workspace,6012,1437,3935,1884,397,595,5988,11384,52.81096275474349,Hebrew <kde-i18n-doc@kde.org>
+playonlinux,965,0,1763,222,0,227,920,2728,35.37390029325513,he_HE.UTF-8 <LL@li.org>
+pluma,4870,0,8243,1263,0,827,4567,13113,37.138717303439336,Hebrew (https://app.transifex.com/mate/teams/13566/he/)
+pluma-plugins,188,0,1210,20,0,123,195,1398,13.447782546494993,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+plymouth,16,0,0,7,0,0,16,16,100.0,Hebrew <https://translate.fedoraproject.org/projects/plymouth/master/he/>
+pmount,378,0,345,31,0,32,370,723,52.282157676348554,Hebrew <he@li.org>
+pogo,576,0,0,101,0,0,491,576,100.0,Hebrew <he@li.org>
+polari,854,0,0,200,0,0,852,854,100.0,Hebrew <yoseforb@gmail.com>
+policycoreutils,1237,26,4765,250,4,712,1144,6028,20.520902455209026,Hebrew <https://translate.fedoraproject.org/projects/selinux/gui/he/>
+polkit-gnome,94,0,0,16,0,0,71,94,100.0,
+polkit-kde,89,2,4,26,1,3,79,95,93.6842105263158,Hebrew <kde-i18n-doc@kde.org>
+postgresql16,6496,0,0,889,0,0,6995,6496,100.0,
+powerdevil,236,213,220,82,29,32,237,669,35.276532137518686,Hebrew <kde-i18n-doc@kde.org>
+publican,502,0,4875,42,0,572,429,5377,9.336061000557933,Hebrew Team <fedora-he-list@redhat.com>
+pulseaudio,347,1,3438,168,1,403,363,3786,9.165346011621764,Hebrew <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/he/>
+pulsecaster,214,0,0,21,0,0,189,214,100.0,Hebrew (http://www.transifex.com/stickster/pulsecaster/language/he/)
+pychess,43,0,7549,22,0,1446,40,7592,0.5663856691253952,Hebrew (http://www.transifex.com/gbtami/pychess/language/he/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,137,43,1448,15,1,164,113,1628,8.415233415233416,Hebrew <https://translate.fedoraproject.org/projects/pykickstart/master/he/>
+python-SecretStorage,59,0,0,9,0,0,49,59,100.0,Gezer
+python-apt,120,200,224,33,48,37,113,544,22.058823529411764,Hebrew <he@li.org>
+python-blivet,33,0,572,10,0,71,31,605,5.454545454545454,Hebrew <https://translate.fedoraproject.org/projects/blivet/blivet-master/he/>
+python-caja,6,0,0,2,0,0,6,6,100.0,Hebrew (https://www.transifex.com/mate/teams/13566/he/)
+python-django,3562,0,202,850,0,21,3501,3764,94.63336875664187,Hebrew (http://www.transifex.com/django/django/language/he/)
+python-django-allauth,683,265,168,123,9,31,568,1116,61.200716845878134,Hebrew
+python-django-contrib-comments,250,0,0,61,0,0,261,250,100.0,Hebrew (http://www.transifex.com/django/django-contrib-comments/language/he/)
+python-django-debug-toolbar,37,0,320,27,0,110,35,357,10.364145658263306,Hebrew (http://www.transifex.com/projects/p/django-debug-toolbar/language/he/)
+python-django-formtools,32,0,0,11,0,0,31,32,100.0,Hebrew (http://www.transifex.com/projects/p/django-formtools/language/he/)
+python-django-mailman3,355,0,0,72,0,0,301,355,100.0,Hebrew <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/he/>
+python-django-reversion,117,0,0,20,0,0,97,117,100.0,LANGUAGE <LL@li.org>
+python-django-taggit,19,0,10,6,0,6,21,29,65.51724137931035,LANGUAGE <LL@li.org>
+python-django4.2,3562,0,202,850,0,21,3501,3764,94.63336875664187,Hebrew (http://www.transifex.com/django/django/language/he/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Hebrew
+python-hyperkitty,951,0,0,265,0,0,850,951,100.0,Hebrew <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/he/>
+python-manatools,4,0,0,4,0,0,4,4,100.0,Hebrew (https://www.transifex.com/MageiaLinux/teams/9361/he/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Hebrew
+python-nikola,88,0,6,39,0,5,90,94,93.61702127659575,Hebrew (http://app.transifex.com/ralsina/nikola/language/he/)
+python-postorius,5052,2,0,630,1,0,4444,5054,99.9604273842501,Hebrew <https://hosted.weblate.org/projects/gnu-mailman/postorius/he/>
+python-sphinx,180,0,4743,82,0,672,180,4923,3.656307129798903,Hebrew (http://www.transifex.com/sphinx-doc/sphinx-1/language/he/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Hebrew (https://www.transifex.com/sphinx-doc/teams/36659/he/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Hebrew (https://www.transifex.com/sphinx-doc/teams/36659/he/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Hebrew (https://www.transifex.com/sphinx-doc/teams/36659/he/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Hebrew (https://www.transifex.com/sphinx-doc/teams/36659/he/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Hebrew (https://www.transifex.com/sphinx-doc/teams/36659/he/)
+python-wtforms,161,0,28,29,0,4,153,189,85.18518518518519,he <LL@li.org>
+qtwebkit,684,74,335,165,16,81,616,1093,62.580054894785,Hebrew <he@li.org>
+quadrapassel,460,0,0,82,0,0,468,460,100.0,Hebrew <yoseforb@gmail.com>
+quitcount,154,12,0,39,1,0,163,166,92.7710843373494,Hebrew <sh.yaron@gmail.com>
+quodlibet,5268,1258,1393,1345,191,153,4804,7919,66.52355095340322,Hebrew
+rabbitvcs,179,0,1345,72,0,400,169,1524,11.745406824146981,Hebrew <he@li.org>
+ravada,0,0,1075,0,0,286,0,1075,0.0,
+realmd,0,0,833,0,0,134,0,833,0.0,Hebrew (http://www.transifex.com/freedesktop/realmd/language/he/)
+recode,402,346,6,60,15,4,446,754,53.315649867374006,Hebrew <eliz@gnu.org>
+redhat-menus,261,0,0,86,0,0,257,261,100.0,Hebrew <en@li.org>
+rednotebook,1023,59,181,222,9,41,913,1263,80.9976247030879,Hebrew <he@li.org>
+redshift,231,0,797,61,0,90,219,1028,22.47081712062257,Hebrew <he@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,2312,2742,342,450,524,26,2220,5396,42.84655300222387,Hebrew <https://hosted.weblate.org/projects/remmina/remmina/he/>
+retrace-server,1,0,432,1,0,55,1,433,0.23094688221709006,Hebrew <https://translate.fedoraproject.org/projects/abrt/retrace-server/he/>
+rhythmbox,2988,316,1202,798,72,189,2823,4506,66.3115845539281,Hebrew <he@li.org>
+ristretto,673,0,1,209,0,1,658,674,99.85163204747775,Hebrew (http://app.transifex.com/xfce/xfce-apps/language/he/)
+rpm,0,0,4732,0,0,910,0,4732,0.0,none
+rygel,1632,0,0,302,0,0,1573,1632,100.0,Hebrew <>
+sakura,157,16,35,53,7,10,161,208,75.48076923076923,Rahut <genghiskhan@gmx.ca>
+sane-backends,5357,540,329,1144,92,46,5121,6226,86.04240282685512,Hebrew
+scons,54,0,0,24,0,0,54,54,100.0,
+scratch,1377,0,93,586,0,40,1374,1470,93.6734693877551,<LL@li.org>
+scummvm,10229,790,2852,1854,84,131,9229,13871,73.74378199120467,Hebrew <https://translations.scummvm.org/projects/scummvm/scummvm/he/>
+sddm-kcm,35,34,142,9,13,19,40,211,16.587677725118482,Hebrew <kde-i18n-doc@kde.org>
+seahorse,2395,0,0,542,0,0,2261,2395,100.0,Hebrew <>
+seahorse-caja,477,0,0,119,0,0,473,477,100.0,Hebrew <he@li.org>
+seahorse-nautilus,477,0,0,119,0,0,473,477,100.0,Hebrew <he@li.org>
+secrets,1186,0,0,360,0,0,1196,1186,100.0,Hebrew <yoseforb@gmail.com>
+sed,58,120,652,10,29,107,60,830,6.987951807228916,Hebrew <eliz@gnu.org>
+setroubleshoot,286,10,344,94,2,72,273,640,44.6875,Hebrew (http://www.transifex.com/projects/p/fedora/language/he/)
+setroubleshoot-plugins,0,0,6246,0,0,226,0,6246,0.0,none
+setuptool,55,0,0,14,0,0,58,55,100.0,none
+shadow-utils,195,1375,3214,49,221,409,206,4784,4.076086956521739,Hebrew <en@li.org>
+shared-mime-info,2060,0,0,796,0,0,2467,2060,100.0,Hebrew (http://www.transifex.com/freedesktop/shared-mime-info/language/he/)
+shotwell,6609,9,53,1233,1,4,6324,6671,99.07060410733024,Hebrew <yoseforb@gmail.com>
+shutter,2434,0,659,548,0,58,2285,3093,78.69382476559974,Hebrew <he@li.org>
+simple-scan,986,0,0,216,0,0,976,986,100.0,Hebrew <>
+skychart,1555,46,101,339,5,17,1546,1702,91.36310223266744,
+slick-greeter,216,0,0,49,0,0,188,216,100.0,Hebrew <he@li.org>
+smb4k,11,11,10,8,5,5,11,32,34.375,Hebrew <kde-i18n-doc@kde.org>
+snapper,2,100,990,2,26,224,2,1092,0.18315018315018314,Hebrew <i18n@suse.de>
+snapshot,228,0,0,81,0,0,236,228,100.0,Hebrew <yoseforb@gmail.com>
+sos,0,0,123,0,0,30,0,123,0.0,none
+sound-juicer,1144,0,110,219,0,7,1152,1254,91.22807017543859,עברית <>
+soundconverter,129,0,381,51,0,78,132,510,25.294117647058822,LANG <EMAIL@ADDRESS>
+spacefm,453,8,8261,171,3,1394,449,8722,5.193762898417794,Hebrew (http://www.transifex.com/projects/p/spacefm/language/he/)
+sparkleshare,248,0,154,61,0,26,206,402,61.69154228855721,
+spectacle,140,286,825,30,62,168,125,1251,11.191047162270182,Hebrew <kde-i18n-doc@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Hebrew (http://www.transifex.com/heldercorreia/speedcrunch/language/he/)
+squeekboard,13,0,0,6,0,0,12,13,100.0,Hebrew <>
+stellarium,17595,0,136768,4088,0,34310,17425,154363,11.398456884097872,Hebrew (https://app.transifex.com/stellarium/teams/80998/he/)
+sugar,2225,0,80,525,0,4,2063,2305,96.52928416485899,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,36,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,253,0,81,67,0,4,237,334,75.74850299401199,LANGUAGE <LL@li.org>
+sugar-calculator,698,2,166,153,2,14,646,866,80.60046189376443,LANGUAGE <LL@li.org>
+sugar-chat,33,4,100,15,2,64,30,137,24.087591240875913,LANGUAGE <LL@li.org>
+sugar-clock,59,7,0,20,1,0,52,66,89.39393939393939,LANGUAGE <LL@li.org>
+sugar-colordeducto,109,0,0,23,0,0,93,109,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,107,0,0,23,0,0,91,107,100.0,LANGUAGE <LL@li.org>
+sugar-dimensions,176,0,0,87,0,0,169,176,100.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,100,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,243,258,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,53,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,90,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,9,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,134,142,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,45,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,104,36,142,36,5,27,87,282,36.87943262411347,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,129,137,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,63,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,159,0,68,73,0,1,164,227,70.04405286343612,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,137,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,213,0,0,123,0,0,214,213,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1248,22,189,379,6,50,1302,1459,85.53803975325566,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,60,0,0,23,0,0,59,60,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,124,121,100.0,LANGUAGE <LL@li.org>
+supertux,1339,0,1833,269,0,630,1149,3172,42.21311475409836,Hebrew (http://www.transifex.com/arctic-games/supertux/language/he/)
+supertuxkart,5958,0,1,1109,0,1,5458,5959,99.98321866084913,Hebrew (http://www.transifex.com/supertuxkart/supertuxkart/language/he/)
+sushi,54,0,0,14,0,0,56,54,100.0,Hebrew <yoseforb@gmail.com>
+sweeper,127,57,44,27,12,11,126,228,55.70175438596491,hebrew <kde-l10n-he@kde.org>
+swell-foop,340,0,0,72,0,0,347,340,100.0,Hebrew <yoseforb@gmail.com>
+switchdesk,16,87,19,3,10,6,18,122,13.114754098360656,Hebrew
+sylpheed,6285,483,446,1668,85,44,6294,7214,87.12226226781259,Rahut <translators@lists.claws-mail.org>
+synfig,99,0,4780,70,0,1105,102,4879,2.029104324656692,Hebrew (http://www.transifex.com/morevnaproject/synfig/language/he/)
+synfigstudio,97,0,7274,59,0,1657,99,7371,1.3159679826346493,Hebrew (http://www.transifex.com/morevnaproject/synfig/language/he/)
+sysprof,571,81,287,226,20,56,564,939,60.809371671991485,Hebrew <yoseforb@gmail.com>
+system-config-language,57,55,103,12,5,14,57,215,26.51162790697674,Hebrew <he-users@lists.fedoraproject.org>
+system-config-printer,3508,2,4,922,1,5,3272,3514,99.82925441092772,Hebrew <https://translate.fedoraproject.org/projects/system-config-printer/master/he/>
+system-config-rootpassword,116,0,0,19,0,0,100,116,100.0,Hebrew
+system-switch-java,81,0,0,11,0,0,73,81,100.0,Hebrew
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Hebrew
+tali,438,0,0,100,0,0,453,438,100.0,Hebrew <yoseforb@gmail.com>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+tecla,6,0,0,3,0,0,7,6,100.0,Hebrew <yoseforb@gmail.com>
+terminator,1512,0,10,411,0,4,1361,1522,99.34296977660972,Hebrew (https://www.transifex.com/terminator/teams/109338/he/)
+terminology,150,0,832,79,0,154,139,982,15.274949083503056,Hebrew <https://hosted.weblate.org/projects/terminology/terminology/he/>
+texi2html,242,983,418,37,80,64,242,1643,14.72915398660986,Hebrew <eliz@gnu.org>
+texinfo,1153,1912,2957,200,262,333,1033,6022,19.14646296911325,Hebrew <eliz@gnu.org>
+thunar-archive-plugin,88,0,0,15,0,0,120,88,100.0,Hebrew (http://www.transifex.com/xfce/thunar-plugins/language/he/)
+thunar-media-tags-plugin,158,0,0,60,0,0,163,158,100.0,Hebrew (http://www.transifex.com/xfce/thunar-plugins/language/he/)
+thunar-vcs-plugin,774,0,0,307,0,0,760,774,100.0,Hebrew (http://www.transifex.com/xfce/thunar-plugins/language/he/)
+thunar-volman,484,0,0,115,0,0,416,484,100.0,Hebrew (http://www.transifex.com/xfce/thunar-volman/language/he/)
+tigervnc,1094,0,0,202,0,0,1053,1094,100.0,Hebrew <heb-bugzap@hamakor.org.il>
+tilix,2443,6,361,668,2,52,2241,2810,86.93950177935943,Hebrew <https://hosted.weblate.org/projects/tilix/manpage/he/>
+timeshift,2870,0,0,567,0,0,2604,2870,100.0,Hebrew <he@li.org>
+tomboy,3318,0,0,475,0,0,3154,3318,100.0,Hebrew (he@li.org)
+tortoisehg,9,0,13234,5,0,2423,8,13243,0.06796043192630069,Hebrew <he@li.org>
+totem,1376,0,0,392,0,0,1298,1376,100.0,Hebrew <yoseforb@gmail.com>
+totem-pl-parser,29,0,0,8,0,0,22,29,100.0,עברית <>
+trac,9947,1627,1679,1400,43,47,8663,13253,75.054704595186,ItamarO <itamarost <at> gmail <dot> com>
+tracker,600,0,0,114,0,0,600,600,100.0,Hebrew <yoseforb@gmail.com>
+tracker-miners,1824,0,0,294,0,0,1873,1824,100.0,Hebrew <>
+transmission,2424,0,17,583,0,2,2963,2441,99.3035641130684,Hebrew (https://app.transifex.com/transmissionbt/teams/33778/he/)
+tumbler,148,0,0,25,0,0,151,148,100.0,Hebrew (http://www.transifex.com/xfce/tumbler/language/he/)
+tuxmath,854,174,427,166,25,58,734,1455,58.69415807560138,Gezer (Hebrew)
+tuxpaint,883,1217,1663,217,127,117,679,3763,23.46532022322615,Hebrew <mdk-hebrew@iglu.org.il>
+tuxpaint-stamps,1737,352,1160,514,115,176,1306,3249,53.46260387811634,
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+ufw,176,0,703,50,0,131,195,879,20.022753128555177,Hebrew <he@li.org>
+uget,63,0,1022,34,0,328,66,1085,5.806451612903226,Hebrew (http://www.transifex.com/uget/uget/language/he/)
+usermode,570,0,3,95,0,1,536,573,99.47643979057592,Hebrew <he-users@lists.fedoraproject.org>
+video-downloader,151,3,1,62,1,1,144,155,97.41935483870968,Hebrew <https://hosted.weblate.org/projects/video-downloader/gui/he/>
+viewnior,425,0,0,144,0,0,406,425,100.0,Hebrew <he@translationproject.org>
+viking,1,0,6242,1,0,1617,1,6243,0.016017940092904054,Hebrew <he@li.org>
+vinagre,1510,0,0,277,0,0,1439,1510,100.0,עברית <>
+vlc,24568,48,10163,5088,14,1183,23232,34779,70.64032893412691,Hebrew (https://app.transifex.com/yaron/teams/16553/he/)
+vte,80,0,0,13,0,0,77,80,100.0,Hebrew <he@li.org>
+vte291,46,0,0,9,0,0,41,46,100.0,עברית <>
+warmux,902,718,1124,173,119,180,759,2744,32.87172011661808,<he@li.org>
+webkitgtk,2457,4,101,623,2,30,2449,2562,95.90163934426229,Hebrew <>
+wesnoth,9517,13878,316225,2071,1569,17651,8205,339620,2.8022495730522348,American English <kde-i18n-doc@kde.org>
+wget,341,570,2987,85,105,409,427,3898,8.74807593637763,Hebrew <eliz@gnu.org>
+widelands,411,0,83191,280,0,7735,406,83602,0.4916150331331786,Hebrew (http://www.transifex.com/widelands/widelands/language/he/)
+wike,545,0,0,151,0,0,495,545,100.0,
+wine,4619,4317,10376,1517,1108,1659,4433,19312,23.917771333885668,Gezer (Hebrew)
+wingpanel,16,0,0,3,0,0,15,16,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,55,0,0,17,0,0,52,55,100.0,Hebrew <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/he/>
+wingpanel-indicator-bluetooth,283,0,0,83,0,0,268,283,100.0,Hebrew <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/he/>
+wingpanel-indicator-datetime,177,0,0,36,0,0,169,177,100.0,Hebrew <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/he/>
+wingpanel-indicator-keyboard,63,0,0,19,0,0,60,63,100.0,Hebrew <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/he/>
+wireplumber,3,0,0,2,0,0,3,3,100.0,Hebrew <https://translate.fedoraproject.org/projects/pipewire/pipewire/he/>
+workrave,1276,4,219,233,2,44,1171,1499,85.12341561040694,Hebrew <en@li.org>
+xapps,73,0,0,36,0,0,71,73,100.0,Hebrew <he@li.org>
+xarchiver,744,388,185,223,55,34,715,1317,56.49202733485193,Hebrew
+xdg-desktop-portal,221,22,11,32,3,1,170,254,87.00787401574803,Hebrew <yoseforb@gmail.com>
+xdg-desktop-portal-gnome,219,0,0,65,0,0,206,219,100.0,Hebrew <yoseforb@gmail.com>
+xdg-desktop-portal-gtk,240,0,0,64,0,0,222,240,100.0,Hebrew <yoseforb@gmail.com>
+xdg-desktop-portal-kde,1,18,324,1,8,85,1,343,0.2915451895043732,Hebrew
+xdg-desktop-portal-xapp,225,0,0,62,0,0,208,225,100.0,Hebrew <yoseforb@gmail.com>
+xdg-user-dirs,28,0,0,28,0,0,30,28,100.0,Hebrew <eliz@gnu.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,66,81,100.0,Gezer (Hebrew)
+xed,3759,0,0,923,0,0,3302,3759,100.0,Hebrew (http://www.transifex.com/projects/p/MATE/language/he/)
+xfburn,1534,0,32,323,0,1,1396,1566,97.9565772669221,Hebrew (http://www.transifex.com/xfce/xfce-apps/language/he/)
+xfce4-appfinder,455,0,0,89,0,0,394,455,100.0,Hebrew (http://www.transifex.com/xfce/xfce4-appfinder/language/he/)
+xfce4-battery-plugin,145,0,0,42,0,0,139,145,100.0,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-calculator-plugin,39,0,0,16,0,0,37,39,100.0,Hebrew (https://app.transifex.com/xfce/teams/16840/he/)
+xfce4-clipman-plugin,567,0,0,97,0,0,511,567,100.0,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-cpufreq-plugin,174,0,0,48,0,0,174,174,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-cpugraph-plugin,188,0,0,64,0,0,235,188,100.0,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-datetime-plugin,52,0,0,19,0,0,46,52,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-dict,531,0,0,121,0,0,521,531,100.0,Hebrew (http://app.transifex.com/xfce/xfce-apps/language/he/)
+xfce4-diskperf-plugin,163,0,18,36,0,1,156,181,90.05524861878453,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-eyes-plugin,16,0,0,5,0,0,15,16,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,71,71,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-genmon-plugin,116,0,0,29,0,0,109,116,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-mailwatch-plugin,678,0,0,123,0,0,642,678,100.0,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-mount-plugin,380,0,0,56,0,0,328,380,100.0,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-mpc-plugin,68,0,31,24,0,11,72,99,68.68686868686868,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-netload-plugin,91,0,15,34,0,5,91,106,85.84905660377359,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-notes-plugin,167,0,6,63,0,2,153,173,96.53179190751445,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-notifyd,319,0,241,86,0,49,298,560,56.96428571428571,Hebrew (http://www.transifex.com/xfce/xfce-apps/language/he/)
+xfce4-panel,1954,0,0,489,0,0,1766,1954,100.0,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+xfce4-panel-profiles,144,0,0,33,0,0,133,144,100.0,Hebrew (https://app.transifex.com/xfce/teams/16840/he/)
+xfce4-places-plugin,162,0,0,47,0,0,144,162,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-power-manager,1047,0,0,213,0,0,1010,1047,100.0,Hebrew (https://app.transifex.com/xfce/teams/16840/he/)
+xfce4-pulseaudio-plugin,184,0,0,44,0,0,187,184,100.0,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-screensaver,757,0,0,167,0,0,743,757,100.0,Hebrew (https://app.transifex.com/xfce/teams/16840/he/)
+xfce4-screenshooter,789,0,0,126,0,0,682,789,100.0,Hebrew (http://app.transifex.com/xfce/xfce-apps/language/he/)
+xfce4-sensors-plugin,433,0,0,87,0,0,408,433,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-session,781,0,0,167,0,0,711,781,100.0,Hebrew (https://app.transifex.com/xfce/teams/16840/he/)
+xfce4-settings,2476,0,0,580,0,0,2291,2476,100.0,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,20,22,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,111,129,100.0,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+xfce4-systemload-plugin,89,0,0,25,0,0,106,89,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-taskmanager,229,0,0,74,0,0,211,229,100.0,Hebrew (http://app.transifex.com/xfce/xfce-apps/language/he/)
+xfce4-terminal,1609,0,0,397,0,0,1531,1609,100.0,Hebrew (http://app.transifex.com/xfce/xfce-apps/language/he/)
+xfce4-time-out-plugin,115,0,0,39,0,0,119,115,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-timer-plugin,138,0,0,49,0,0,142,138,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-verve-plugin,88,0,0,27,0,0,87,88,100.0,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-wavelan-plugin,80,0,0,22,0,0,79,80,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-weather-plugin,3598,0,0,321,0,0,3265,3598,100.0,Hebrew (http://app.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfce4-whiskermenu-plugin,323,0,106,106,0,31,305,429,75.29137529137529,Hebrew (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/he/)
+xfce4-xkb-plugin,65,0,0,24,0,0,64,65,100.0,Hebrew (http://www.transifex.com/xfce/xfce-panel-plugins/language/he/)
+xfconf,458,0,0,67,0,0,411,458,100.0,Hebrew (http://app.transifex.com/xfce/xfconf/language/he/)
+xfdashboard,1106,0,0,157,0,0,982,1106,100.0,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+xfdesktop,1081,0,0,257,0,0,1048,1081,100.0,Hebrew (https://www.transifex.com/xfce/teams/16840/he/)
+xfmpc,175,0,0,78,0,0,187,175,100.0,Hebrew (http://www.transifex.com/xfce/xfce-apps/language/he/)
+xfwm4,666,0,0,178,0,0,661,666,100.0,Hebrew (http://www.transifex.com/xfce/xfwm4/language/he/)
+xiphos,2262,765,1954,679,220,241,2157,4981,45.41256775747841,Xiphos Translation Team
+xkeyboard-config,4074,0,0,1269,0,0,4054,4074,100.0,Hebrew <heb-bugzap@hamakor.org.il>
+xpad,184,0,252,48,0,87,186,436,42.201834862385326,Hebrew <he@li.org>
+xreader,1625,0,0,380,0,0,1439,1625,100.0,Hebrew (http://www.transifex.com/mate/MATE/language/he/)
+yelp,348,0,0,73,0,0,303,348,100.0,Hebrew <yoseforb@gmail.com>
+yelp-xsl,88,0,0,64,0,0,97,88,100.0,Hebrew <he@li.org>
+zabbix,17214,0,2241,3800,0,160,17192,19455,88.4811102544333,none
+zathura,5,0,874,2,0,185,4,879,0.5688282138794084,Hebrew (http://app.transifex.com/pwmt/zathura/language/he/)
+zenity,883,0,0,199,0,0,771,883,100.0,עברית <>
+zypper,10,291,9346,10,83,1183,11,9647,0.1036591686534674,Hebrew <i18n@suse.de>

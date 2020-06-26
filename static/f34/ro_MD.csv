@@ -1,0 +1,60 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,197,0,6305,50,0,1294,229,6502,3.029836973239003,Moldavian <mo@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,45,14,176,29,6,40,48,235,19.148936170212767,Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/>
+elementary-calendar,307,116,438,133,33,89,390,861,35.656213704994194,Moldovan <https://weblate.elementary.io/projects/calendar/calendar/mo/>
+elementary-camera,25,8,126,6,2,31,33,159,15.723270440251572,Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/>
+elementary-capnet-assist,32,0,49,5,0,9,26,81,39.50617283950617,Moldovan <https://weblate.elementary.io/projects/desktop/capnet-assist/mo/>
+elementary-code,292,90,1226,107,21,179,307,1608,18.1592039800995,Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/>
+elementary-files,1176,650,1687,283,113,253,1259,3513,33.475661827497866,Moldovan <https://weblate.elementary.io/projects/files/files/mo/>
+elementary-greeter,0,0,200,0,0,45,0,200,0.0,
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,876,121,208,269,33,52,1004,1205,72.69709543568464,Moldovan <https://weblate.elementary.io/projects/music/music/mo/>
+elementary-notifications,0,0,36,0,0,10,0,36,0.0,none
+elementary-photos,369,195,3447,48,14,756,396,4011,9.199700822737473,Moldovan <https://weblate.elementary.io/projects/photos/photos/mo/>
+elementary-screenshot-tool,122,3,123,36,2,22,152,248,49.193548387096776,Moldovan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/mo/>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,70,23,37,30,8,7,83,130,53.84615384615385,Moldovan <https://weblate.elementary.io/projects/desktop/shortcut-overlay/mo/>
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,364,0,0,77,0,364,0.0,none
+elementary-terminal,121,43,479,31,9,77,123,643,18.818040435458787,Moldovan <https://weblate.elementary.io/projects/terminal/terminal/ro_MD/>
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,93,6,292,41,3,52,104,391,23.785166240409207,Moldovan <https://weblate.elementary.io/projects/videos/videos/mo/>
+gala,0,0,358,0,0,73,0,358,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,31,0,951,27,0,393,31,982,3.1568228105906315,Moldovan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mo/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,43,0,58,11,0,7,43,101,42.57425742574257,Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/mo/>
+pantheon-agent-polkit,14,0,42,7,0,9,18,56,25.0,Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/mo/>
+stellarium,0,0,26769,0,0,6967,0,26769,0.0,Moldavian <mo@li.org>
+switchboard,40,0,84,12,0,14,42,124,32.25806451612903,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard/mo/>
+switchboard-plug-a11y,90,15,75,26,6,15,103,180,50.0,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/mo/>
+switchboard-plug-about,70,52,261,18,19,48,75,383,18.27676240208877,Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/mo/>
+switchboard-plug-applications,63,27,137,24,11,28,76,227,27.75330396475771,Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/mo/>
+switchboard-plug-bluetooth,70,18,118,28,7,18,86,206,33.980582524271846,Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/mo/>
+switchboard-plug-display,85,12,85,36,6,20,107,182,46.7032967032967,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/mo/>
+switchboard-plug-keyboard,368,67,201,142,23,49,422,636,57.861635220125784,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/mo/>
+switchboard-plug-mouse-touchpad,57,44,181,29,16,47,62,282,20.212765957446805,Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/mo/>
+switchboard-plug-networking,309,102,111,100,20,25,335,522,59.195402298850574,Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/mo/>
+switchboard-plug-notifications,131,0,11,18,0,3,141,142,92.25352112676056,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/mo/>
+switchboard-plug-onlineaccounts,1,0,321,1,0,75,2,322,0.3105590062111801,Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/mo/>
+switchboard-plug-pantheon-shell,133,7,196,53,5,52,154,336,39.58333333333333,Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/mo/>
+switchboard-plug-printers,329,8,25,135,3,6,377,362,90.88397790055248,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/mo/>
+switchboard-plug-sharing,130,2,9,28,1,3,148,141,92.19858156028369,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/mo/>
+switchboard-plug-sound,56,9,128,28,6,23,62,193,29.015544041450774,Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/mo/>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,7,0,408,5,0,110,5,415,1.6867469879518073,Moldovan <https://l10n.elementary.io/projects/wingpanel/applications-menu/mo/>
+wingpanel-indicator-bluetooth,11,8,59,7,3,19,12,78,14.102564102564102,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/>
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,2,11,40,1,4,11,2,53,3.7735849056603774,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/>
+wingpanel-indicator-network,40,14,77,14,4,23,50,131,30.53435114503817,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/mo/>
+wingpanel-indicator-nightlight,12,8,25,4,2,6,14,45,26.666666666666668,Moldovan <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/mo/>
+wingpanel-indicator-notifications,10,12,79,4,4,22,10,101,9.900990099009901,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/mo/>
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,53,7,48,16,2,9,45,108,49.074074074074076,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/mo/>
+wingpanel-indicator-sound,4,4,88,2,2,19,4,96,4.166666666666666,Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/mo/>

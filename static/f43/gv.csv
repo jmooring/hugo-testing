@@ -1,0 +1,31 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,725,0,2884,273,0,396,977,3609,20.088667220836797,Manx <gv@li.org>
+dippi,0,0,1653,0,0,266,0,1653,0.0,none
+elementary-code,0,0,2228,0,0,384,0,2228,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2656,0,0,567,0,2656,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,231,0,0,45,0,231,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,42,0,0,9,0,42,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,303,0,0,70,0,303,0.0,none
+epiphany,2764,198,82,666,44,21,3387,3044,90.80157687253615,Manx <reuben03@live.com>
+gala,0,0,319,0,0,67,0,319,0.0,none
+gdm,206,91,353,41,16,30,246,650,31.692307692307693,Manx <gv@li.org>
+gnome-menus,84,0,41,36,0,10,92,125,67.2,Manx <gv@li.org>
+gnome-panel,2875,294,351,441,31,36,3382,3520,81.67613636363636,Manx <gv@li.org>
+gnome-shell-frippery,4,0,0,1,0,0,5,4,100.0,
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+iso-codes,252,13,724,190,4,231,372,989,25.480283114256824,Manx <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gv/>
+isomaster,9,0,665,8,0,99,14,674,1.3353115727002967,http://littlesvr.ca/ostd/
+mate-menu,229,23,56,91,7,12,310,308,74.35064935064936,Manx <gv@li.org>
+nautilus,7497,863,524,1268,138,37,9107,8884,84.38766321476812,Manx <gv@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,

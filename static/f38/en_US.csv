@@ -1,0 +1,122 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anope,19847,0,0,1715,0,0,19847,19847,100.0,English
+ansible-collection-awx-awx,0,0,10100,0,0,1347,0,10100,0.0,LANGUAGE <LL@li.org>
+atril,205,8,2113,71,2,440,205,2326,8.8134135855546,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+budgie-control-center,6580,0,17,1764,0,5,6580,6597,99.7423071092921,English (United States) (https://app.transifex.com/buddiesofbudgie/teams/129844/en_US/)
+budgie-desktop,1663,0,0,419,0,0,1663,1663,100.0,English (United States) (https://app.transifex.com/buddiesofbudgie/teams/129844/en_US/)
+budgie-desktop-view,17,0,0,7,0,0,17,17,100.0,English (United States) (https://www.transifex.com/buddiesofbudgie/teams/129844/en_US/)
+caja-extensions,3,0,757,3,0,142,3,760,0.39473684210526316,English (United States) (https://www.transifex.com/mate/teams/13566/en_US/)
+calligra,1266,700,1723,658,271,282,1460,3689,34.318243426402816,American English <kde-i18n-doc@kde.org>
+chirp,2,118,4620,2,44,326,2,4740,0.04219409282700422,English
+cinnamon-desktop,234,0,0,32,0,0,199,234,100.0,American English <gnome-tamil-translation@googlegroups.com>
+cinnamon-translations,416,0,2247,136,0,568,389,2663,15.621479534359745,American English <kde-i18n-doc@kde.org>
+debconf,191,0,0,17,0,0,165,191,100.0,Sinhala <info@hanthana.org>
+dgit,10,0,4140,1,0,530,10,4150,0.24096385542168677,dgit developrs <dgit@packages.debian.org>
+duplicity,0,0,2317,0,0,330,0,2317,0.0,"English, United States"
+e16,9,0,2606,3,0,513,9,2615,0.3441682600382409,American English <en@li.org>
+edgar,11474,0,0,1535,0,0,11475,11474,100.0,
+eiciel,3,23,305,3,6,76,3,331,0.906344410876133,English
+engrampa,80,0,1969,28,0,400,80,2049,3.904343582235237,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+eom,1496,0,283,295,0,46,1497,1779,84.09218662169758,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+erlang-gettext,0,0,0,0,0,0,0,0,0.0,English
+firewalld,1637,10,570,328,1,86,1637,2217,73.83852052322959,English (United States) <https://translate.stg.fedoraproject.org/projects/firewalld/master/en_US/>
+gambas3,72,0,92,26,0,31,72,164,43.90243902439025,
+gcin,224,0,0,172,0,0,641,224,100.0,LANGUAGE <LL@li.org>
+gjots2,698,101,154,222,17,21,698,953,73.2423924449108,<en@li.org>
+gnome-power-manager,480,0,0,147,0,0,417,480,100.0,American English <kde-i18n-doc@kde.org>
+gnubg,7369,210,11916,1453,59,2055,7369,19495,37.79943575275711,none
+gnubik,35,0,244,5,0,78,36,279,12.544802867383511,American <john@darrington.wattle.id.au>
+golang-github-leonelquinteros-gotext,74,0,8,22,0,4,118,82,90.2439024390244,
+goodvibes,52,5,287,13,4,104,52,344,15.11627906976744,English (United States) <https://hosted.weblate.org/projects/goodvibes/translations/en_US/>
+gpredict,0,0,6124,0,0,1143,0,6124,0.0,LANGUAGE <LL@li.org>
+grafana,547,0,0,201,0,0,682,547,100.0,
+grisbi,0,0,15305,0,0,2657,0,15305,0.0,
+gtkhash,213,0,0,63,0,0,214,213,100.0,English (United States) <https://hosted.weblate.org/projects/gtkhash/translations/en_US/>
+ignuit,16,0,773,5,0,223,16,789,2.027883396704689,<trmusson@gmail.com>
+initial-setup,0,0,33,0,0,7,0,33,0.0,English (United States) (http://www.transifex.com/projects/p/initial-setup/language/en_US/)
+java-gnome,2,0,0,2,0,0,2,2,100.0,
+kde-l10n,59957,21,26262,14670,8,4152,54566,86240,69.52342300556586,American English <kde-i18n-doc@kde.org>
+kde-style-breeze,34,0,232,27,0,74,37,266,12.781954887218044,English <kde-i18n-doc@kde.org>
+kicad,41746,0,0,8025,0,0,41743,41746,100.0,Simon Richter <Simon.Richter@hogyros.de>
+krb5,0,0,0,0,0,0,0,0,0.0,English
+kreport,0,236,175,0,132,40,0,411,0.0,American English <kde-i18n-doc@kde.org>
+libmatemixer,4,0,238,4,0,122,4,242,1.6528925619834711,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+libreoffice,0,0,1482,0,0,83,0,1482,0.0,LANGUAGE <EMAIL@ADDRESS>
+libsmbios,178,0,0,21,0,0,178,178,100.0,English
+mate-applets,9,0,4641,9,0,372,9,4650,0.1935483870967742,English (United States) (https://www.transifex.com/mate/teams/13566/en_US/)
+mate-control-center,125,0,8128,58,0,1452,125,8253,1.5146007512419726,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-desktop,69,0,2307,17,0,284,69,2376,2.904040404040404,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-media,7,0,232,4,0,95,7,239,2.928870292887029,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,English (United States) (http://www.transifex.com/projects/p/MATE/language/en_US/)
+mate-menus,2,0,101,2,0,37,2,103,1.9417475728155338,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-notification-daemon,3,0,183,3,0,50,3,186,1.6129032258064515,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-panel,92,0,4586,36,0,610,92,4678,1.9666524155622063,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-power-manager,194,0,2462,55,0,356,194,2656,7.30421686746988,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-screensaver,13,0,1088,6,0,170,13,1101,1.1807447774750226,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-session-manager,531,0,184,107,0,25,531,715,74.26573426573427,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-system-monitor,18,0,1540,13,0,318,18,1558,1.1553273427471118,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-terminal,66,0,4653,31,0,512,66,4719,1.3986013986013985,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,English (United States) (http://app.transifex.com/mate/MATE/language/en_US/)
+mate-utils,94,0,3785,38,0,666,94,3879,2.423304975509152,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+mingw-wine-gecko,6,0,0,2,0,0,30,6,100.0,
+mozo,3,0,43,3,0,21,3,46,6.521739130434782,English (United States) (https://www.transifex.com/mate/teams/13566/en_US/)
+openconnect,1360,0,8171,250,0,1315,1360,9531,14.269226733815968,English (United States) (http://www.transifex.com/projects/p/meego/language/en_US/)
+phonon,235,0,0,37,0,0,206,235,100.0,Czech <kde-i18n-doc@kde.org>
+phonon-backend-gstreamer,0,67,37,0,13,2,0,104,0.0,American English <kde-i18n-doc@kde.org>
+php,15,0,0,8,0,0,16,15,100.0,
+php-smarty-gettext,6,0,0,4,0,0,10,6,100.0,
+pluma,90,0,5617,44,0,1405,90,5707,1.5770106886280006,English (United States) (https://app.transifex.com/mate/teams/13566/en_US/)
+powertop,240,80,392,61,18,125,240,712,33.70786516853933,English (United States) (http://www.transifex.com/projects/p/PowerTOP/language/en_US/)
+proftpd,0,0,1100,0,0,276,0,1100,0.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,0,0,702,0,0,125,0,702,0.0,LANGUAGE <LL@li.org>
+python-django-tables2,2,0,0,2,0,0,2,2,100.0,English <en@li.org>
+python-flask-admin,326,0,0,95,0,0,326,326,100.0,English
+python-kitchen,200,0,0,2,0,0,200,200,100.0,English (United States) (http://www.transifex.com/projects/p/kitchen/language/en_US/)
+python-meh,0,0,109,0,0,23,0,109,0.0,English (United States) (http://www.transifex.com/projects/p/python-meh/language/en_US/)
+quassel,74,0,8288,11,0,1696,74,8362,0.8849557522123894,English (United States) (http://www.transifex.com/quassel/quassel/language/en_US/)
+rekonq,1385,290,527,468,70,55,1492,2202,62.89736603088102,American English <kde-i18n-doc@kde.org>
+remmina,218,406,4772,43,185,772,218,5396,4.040029651593773,English (United States) <https://hosted.weblate.org/projects/remmina/remmina/en_US/>
+skychart,4675,55,131,1490,3,26,4381,4861,96.17362682575602,American English <kde-i18n-doc@kde.org>
+snapper,3,85,1004,3,20,229,3,1092,0.27472527472527475,English
+stellarium,118072,0,33609,21354,0,16530,118072,151681,77.84231380331089,English (United States) (https://www.transifex.com/stellarium/teams/80998/en_US/)
+sugar-abacus,34,0,0,25,0,0,34,34,100.0,LANGUAGE <LL@li.org>
+sugar-browse,189,0,0,52,0,0,189,189,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,869,871,100.0,LANGUAGE <LL@li.org>
+sugar-chat,55,0,0,34,0,0,55,55,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,596,66,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,107,0,0,23,0,0,107,107,100.0,LANGUAGE <LL@li.org>
+sugar-dimensions,176,0,0,87,0,0,176,176,100.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,99,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,189,0,0,40,0,0,189,189,100.0,LANGUAGE <LL@li.org>
+sugar-flipsticks,151,0,0,45,0,0,151,151,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,51,0,0,13,0,0,51,51,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,77,77,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,98,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,142,142,100.0,LANGUAGE <LL@li.org>
+sugar-physics,86,0,0,38,0,0,86,86,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,109,109,100.0,English
+sugar-read,124,0,0,47,0,0,124,124,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,62,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,227,227,100.0,LANGUAGE <LL@li.org>
+sugar-srilanka,489,0,0,206,0,0,489,489,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,15,0,0,8,0,0,15,15,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,0,40,0,0,76,76,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1574,0,0,478,0,0,1574,1574,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,60,0,0,23,0,0,60,60,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,121,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,29,29,100.0,LANGUAGE <LL@li.org>
+sympa,26723,4375,5457,2443,665,448,26728,36555,73.1035426070305,English (US) <LL@li.org>
+syncevolution,1132,0,0,163,0,0,1132,1132,100.0,English (United States) (http://www.transifex.net/projects/p/meego/team/en_US/)
+thonny,18,0,1472,1,0,340,19,1490,1.2080536912751678,
+trac,0,0,15031,0,0,1701,0,15031,0.0,en_US <trac-dev@googlegroups.com>
+trader,2036,0,0,238,0,0,2036,2036,100.0,English (US) <(nothing)>
+tuxpaint,1120,1020,1623,245,109,107,1178,3763,29.763486579856497,American English <kde-i18n-doc@kde.org>
+udiskie,651,0,0,124,0,0,651,651,100.0,none
+wesnoth,14626,3819,1484,975,166,86,12019,19929,73.39053640423504,American English <kde-l10n-hu@kde.org>
+widelands,451,0,83151,35,0,7980,449,83602,0.5394607784502763,English (United States) (http://www.transifex.com/widelands/widelands/language/en_US/)
+wine,19312,0,0,4284,0,0,19312,19312,100.0,English (United States)
+xine-lib,0,0,13407,0,0,1204,0,13407,0.0,en_US <none>
+xmlcopyeditor,0,0,1686,0,0,490,0,1686,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,123 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,1303,0,766,371,0,94,1143,2069,62.977283711938135,
+GConf2,3034,0,998,437,0,44,2848,4032,75.24801587301587,Swecha Telugu Localisation Team <localisation@swecha.org>
+Miro,448,2,3166,225,1,423,423,3616,12.389380530973451,Telugu <te@li.org>
+alacarte,85,0,0,32,0,0,87,85,100.0,Swecha <localisation@swecha.org>
+anaconda,10040,0,0,1258,0,0,7758,10040,100.0,Telugu <en@li.org>
+atk,370,0,0,123,0,0,299,370,100.0,Swecha <localisation@swecha.org>
+authconfig,1292,0,0,237,0,0,1088,1292,100.0,Telugu <en@li.org>
+avant-window-navigator,56,0,238,34,0,41,59,294,19.047619047619047,Telugu <te@li.org>
+bug-buddy,890,8,32,78,1,2,704,930,95.6989247311828,Swecha Telugu Localisation Team <localisation@swecha.org>
+chkconfig,430,0,0,88,0,0,357,430,100.0,Telugu
+compiz,66,0,0,11,0,0,56,66,100.0,Telugu <en@li.org>
+control-center,2756,308,0,650,106,0,2275,3064,89.94778067885117,Swecha Telugu Localisation Team <localisation@swecha.org>
+devhelp,309,0,0,71,0,0,277,309,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+eog,541,0,438,205,0,36,503,979,55.260469867211434,Swecha Telugu Localisation Team <localisation@swecha.org>
+epiphany,3081,63,1188,877,12,76,2834,4332,71.1218836565097,Swecha Telugu Localisation Team <localisation@swecha.org>
+evince,779,0,233,256,0,38,646,1012,76.97628458498023,Sweche Telugu Localisation Team <localisation@swecha.org>
+evolution,19805,986,20,4732,132,1,16590,20811,95.16601797126519,Swecha Telugu Localisation Team <localisation@swecha.org>
+evolution-data-server,5018,0,0,1041,0,0,4348,5018,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+evolution-exchange,1314,0,0,191,0,0,1009,1314,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+evolution-webcal,129,0,51,26,0,3,96,180,71.66666666666667,Swecha <localisation@swecha.org>
+exaile,127,0,2453,85,0,598,131,2580,4.922480620155039,Telugu <te@li.org>
+file-roller,1202,17,0,265,6,0,979,1219,98.60541427399508,Telugu <en@li.org>
+firstboot,604,0,0,52,0,0,433,604,100.0,Telugu <en@li.org>
+fuse-encfs,357,17,936,37,2,90,355,1310,27.25190839694657,Telugu <te@li.org>
+gail,170,0,0,103,0,0,168,170,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gcalctool,478,229,208,212,69,97,499,915,52.240437158469945,Prajasakti Localisation Team <localisation@prajasakti.com>
+gconf-editor,329,0,0,98,0,0,316,329,100.0,Swecha <localisation@swecha.org>
+gdm,612,57,627,111,15,100,526,1296,47.22222222222222,Swecha Telugu Localisation Team <localisation@swecha.org>
+gedit,5096,0,0,1110,0,0,4207,5096,100.0,Telugu
+glade3,1972,19,1188,690,3,161,1769,3179,62.03208556149733,Swecha Telugu Localisation Team <localisation@swecha.org>
+glib2,929,433,796,106,79,155,740,2158,43.04911955514365,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+gnome-applets,3308,0,0,783,0,0,2902,3308,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-backgrounds,35,0,0,10,0,0,76,35,100.0,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+gnome-desktop,330,0,0,76,0,0,273,330,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-games,2610,36,4557,1035,9,720,2304,7203,36.23490212411495,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-icon-theme,54,0,0,48,0,0,56,54,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-keyring,358,0,288,40,0,16,221,646,55.417956656346746,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-keyring-manager,144,0,140,67,0,20,137,284,50.70422535211267,Swecha Telugu localisation Team <localisation@swecha.org>
+gnome-mag,270,0,31,41,0,1,231,301,89.70099667774086,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-menus,167,0,0,60,0,0,155,167,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-nettool,545,0,0,185,0,0,515,545,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-panel,4687,0,0,653,0,0,3760,4687,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-screensaver,955,0,0,152,0,0,706,955,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-session,888,0,0,126,0,0,592,888,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-settings-daemon,989,0,8,166,0,1,767,997,99.19759277833501,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-system-monitor,691,0,148,216,0,8,659,839,82.35995232419548,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-terminal,4529,0,0,483,0,0,3588,4529,100.0,Telugu <en@li.org>
+gnome-utils,2891,0,1252,663,0,65,2491,4143,69.78035240164132,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-vfs2,1310,0,198,294,0,7,1152,1508,86.87002652519894,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-volume-manager,916,0,277,160,0,39,731,1193,76.78122380553228,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnomebaker,271,0,915,90,0,201,309,1186,22.849915682967957,Telugu <te@li.org>
+gnumeric,1546,521,44307,628,199,2927,1489,46374,3.3337646094794495,Prajasakti Localisation Team <localisation@prajasakti.com>
+gok,883,0,1059,345,0,94,866,1942,45.468589083419154,Swecha Telugu Localisation Team <localisation@swecha.org>
+gtk2,3976,1143,6973,880,226,1306,3140,12092,32.8812437975521,Telugu <en@li.org>
+hwbrowser,116,0,0,51,0,0,102,116,100.0,Telugu <en@li.org>
+im-chooser,466,0,0,95,0,0,393,466,100.0,Telugu <en@li.org>
+initscripts,3806,0,0,893,0,0,3550,3806,100.0,Telugu <en@li.org>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+libgnomeprint22,168,0,0,98,0,0,176,168,100.0,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+libgnomeprintui22,410,11,6,125,6,4,333,427,96.01873536299766,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+libgnomeui,917,59,443,252,15,78,730,1419,64.6229739252995,Prajasakti Localisation Team <localisation@prajasakti.com>
+libgtop2,131,0,3,42,0,2,117,134,97.76119402985076,Swecha <localisation@swecha.org>
+libgweather,10272,38,60,6753,14,9,10309,10370,99.0549662487946,Prajasakti Localisation Team <localisation@prajasakti.com>
+libuser,1064,0,0,225,0,0,966,1064,100.0,Telugu <en@li.org>
+libvirt,2285,2005,2008,507,395,396,2053,6298,36.28135916163862,Telugu <en@li.org>
+libwnck,48,0,39,22,0,10,55,87,55.172413793103445,Swecha <localisation@swecha.org>
+nautilus,7562,0,0,1258,0,0,5670,7562,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+nautilus-cd-burner,1306,0,0,210,0,0,1048,1306,100.0,Telugu
+orca,3097,0,0,1089,0,0,2806,3097,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+passwd,291,0,0,51,0,0,281,291,100.0,Telugu <en@li.org>
+pgadmin3,50,9,7272,42,6,2113,50,7331,0.6820351930159596,The pgAdmin Development Team <devteam@pgadmin.org>
+pidgin,13873,895,1178,2875,294,213,12406,15946,86.99987457669634,GIST CDAC Pune / BharateeyaOO.o <info.gist@cdac.in / bharateeyaoo@ncb.ernet.in>
+pmount,42,0,681,1,0,62,42,723,5.809128630705394,Telugu <te@li.org>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+publican,370,42,2933,41,3,207,277,3345,11.061285500747383,Telugu <en@li.org>
+publican-fedora,898,0,181,182,0,20,767,1079,83.22520852641334,Telugu <en@li.org>
+pykickstart,284,0,0,25,0,0,226,284,100.0,Telugu <en@li.org>
+redhat-menus,261,0,0,86,0,0,250,261,100.0,Telugu
+rhgb,59,0,0,11,0,0,47,59,100.0,Telugu
+rhpl,185,0,0,80,0,0,176,185,100.0,<en@li.org>
+rhpxl,130,0,0,44,0,0,124,130,100.0,Telugu <en@li.org>
+sabayon,231,0,931,100,0,131,243,1162,19.879518072289155,Swecha Telugu Localisation Team <localisation@swecha.org>
+scim,1173,0,0,281,0,0,949,1173,100.0,Telugu <en@li.org>
+seahorse,2742,5,881,636,1,111,2440,3628,75.57883131201764,Swecha Telugu Localisation Team <localisation@swecha.org>
+setroubleshoot,0,0,544,0,0,147,0,544,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7900,0,0,236,0,7900,0.0,LANGUAGE <LL@li.org>
+setuptool,60,0,0,17,0,0,59,60,100.0,<en@li.org>
+sos,0,0,283,0,0,37,0,283,0.0,none
+sound-juicer,576,14,275,148,3,12,509,865,66.58959537572254,Swecha Telugu Localisation Team <localisation@swecha.org>
+specspo,0,0,305294,0,0,16850,0,305294,0.0,LANGUAGE <LL@li.org>
+stellarium,3,0,1144,1,0,486,4,1147,0.26155187445510025,Telugu <te@li.org>
+sugar-journal,39,0,0,28,0,0,44,39,100.0,LANGUAGE <LL@li.org>
+switchdesk,137,0,0,19,0,0,103,137,100.0,<en@li.org>
+system-config-bind,2179,22,7226,403,2,660,1771,9427,23.114458470351117,Telugu <en@li.org>
+system-config-boot,46,0,0,10,0,0,40,46,100.0,Telugu
+system-config-date,1038,0,660,617,0,52,978,1698,61.130742049469966,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,373,398,100.0,Telugu <en@li.org>
+system-config-firewall,2350,0,0,276,0,0,1877,2350,100.0,Telugu <en@li.org>
+system-config-httpd,858,0,0,223,0,0,716,858,100.0,Telugu <en@li.org>
+system-config-kdump,383,0,0,35,0,0,276,383,100.0,Telugu
+system-config-keyboard,78,0,0,12,0,0,61,78,100.0,Telugu <en@li.org>
+system-config-kickstart,1054,0,0,281,0,0,961,1054,100.0,Telugu
+system-config-language,49,0,0,11,0,0,38,49,100.0,Telugu <en@li.org>
+system-config-lvm,2049,35,58,320,4,12,1682,2142,95.65826330532214,Telugu <en@li.org>
+system-config-network,2856,0,0,688,0,0,2476,2856,100.0,Telugu <en@li.org>
+system-config-nfs,332,0,1185,71,0,66,316,1517,21.88529993408042,LANGUAGE <LL@li.org>
+system-config-printer,2265,0,0,454,0,0,1840,2265,100.0,Telugu <en@li.org>
+system-config-rootpassword,116,0,0,19,0,0,93,116,100.0,Telugu <en@li.org>
+system-config-samba,432,0,1188,137,0,62,417,1620,26.666666666666668,LANGUAGE <LL@li.org>
+system-config-services,27,0,1060,13,0,98,28,1087,2.483900643974241,LANGUAGE <LL@li.org>
+system-config-users,1337,0,1054,172,0,77,1115,2391,55.91802593057298,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,119,134,100.0,<en@li.org>
+tomboy,991,6,1322,294,2,62,936,2319,42.733937041828376,Swecha Telugu Localisation Team <localisation@swecha.org>
+totem,735,143,800,130,28,201,555,1678,43.80214541120381,Prajasakti Localisation Team <localisation@prajasakti.com>
+totem-pl-parser,735,143,800,130,28,201,555,1678,43.80214541120381,Prajasakti Localisation Team <localisation@prajasakti.com>
+tuxpaint,241,0,350,86,0,73,217,591,40.77834179357022,Telugu <indlinux-telugu@lists.sourceforge.net>
+usermode,564,0,0,95,0,0,468,564,100.0,Telugu <en@li.org>
+vino,457,9,527,83,2,19,394,993,46.022155085599195,Swecha Telugu Localisation Team <localisation@swecha.org>
+virt-manager,791,515,1457,201,151,244,722,2763,28.628302569670648,Telugu <en@li.org>
+vte,108,0,0,19,0,0,97,108,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+yelp,531,0,425,173,0,65,438,956,55.5439330543933,Swecha Telugu Localisation Team <localisation@swecha.org>
+zenity,372,0,187,116,0,14,342,559,66.54740608228981,Swecha Telugu Localisation Team <localisation@swecha.org>

@@ -1,0 +1,59 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,6,0,487,6,0,86,8,493,1.2170385395537524,http://littlesvr.ca/ostd/
+bookworm,0,0,795,0,0,149,0,795,0.0,
+calls,14,0,0,8,0,0,16,14,100.0,
+chatty,1409,3,12,408,2,5,1595,1424,98.94662921348315,
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-code,0,0,2228,0,0,384,0,2228,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2656,0,0,567,0,2656,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,231,0,0,45,0,231,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,42,0,0,9,0,42,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,303,0,0,70,0,303,0.0,none
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Haitian Creole
+gala,0,0,319,0,0,67,0,319,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+iso-codes,216,6,767,186,3,236,206,989,21.840242669362993,Haitian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ht/>
+isomaster,5,1,668,5,1,101,6,674,0.741839762611276,http://littlesvr.ca/ostd/
+lightdm,0,0,84,0,0,4,0,84,0.0,Haitian; Haitian Creole <ht@li.org>
+mousetweaks,114,0,0,30,0,0,117,114,100.0,GNOME Haitian Creole Team <augustinpierremichel@hotmail.com>
+phosh,577,17,17,205,5,11,630,611,94.43535188216039,
+phosh-mobile-settings,589,0,11,159,0,9,649,600,98.16666666666667,
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,467,0,0,79,0,467,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,937,0,0,259,0,937,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5165,0,0,642,0,5165,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+scratch,949,12,509,392,5,229,1158,1470,64.5578231292517,LANGUAGE <LL@li.org>
+slick-greeter,14,0,202,7,0,42,18,216,6.481481481481481,Haitian; Haitian Creole <ht@li.org>
+squeekboard,13,0,0,6,0,0,14,13,100.0,
+sugar,743,0,1562,193,0,336,833,2305,32.23427331887202,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,31,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,213,0,121,51,0,20,237,334,63.772455089820355,LANGUAGE <LL@li.org>
+sugar-calculator,352,50,464,81,14,74,330,866,40.64665127020785,LANGUAGE <LL@li.org>
+sugar-chat,30,0,107,12,0,69,33,137,21.897810218978105,LANGUAGE <LL@li.org>
+sugar-clock,36,2,28,15,2,4,469,66,54.54545454545454,LANGUAGE <LL@li.org>
+sugar-distance,59,17,23,13,2,11,57,99,59.59595959595959,LANGUAGE <LL@li.org>
+sugar-finance,47,87,124,21,3,39,45,258,18.217054263565892,LANGUAGE <LL@li.org>
+sugar-flipsticks,66,2,83,33,1,11,70,151,43.70860927152318,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-log,41,4,53,13,1,7,44,98,41.83673469387755,LANGUAGE <LL@li.org>
+sugar-memorize,24,8,110,13,7,54,31,142,16.901408450704224,LANGUAGE <LL@li.org>
+sugar-physics,13,0,35,13,0,15,13,48,27.083333333333332,LANGUAGE <LL@li.org>
+sugar-pippy,37,15,223,13,1,53,38,275,13.454545454545455,LANGUAGE <LL@li.org>
+sugar-read,24,0,113,14,0,36,25,137,17.51824817518248,LANGUAGE <LL@li.org>
+sugar-record,12,8,42,10,2,12,12,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,5,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,57,109,0,14,163,213,73.23943661971832,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,60,0,0,23,0,0,67,60,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,138,121,100.0,LANGUAGE <LL@li.org>
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,

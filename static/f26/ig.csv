@@ -1,0 +1,84 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+caja,3007,0,6306,641,0,869,3203,9313,32.28819929131322,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Igbo
+cinnamon-translations,8,0,313,2,0,66,7,321,2.4922118380062304,Igbo
+dippi,0,0,397,0,0,53,0,397,0.0,none
+epiphany,1949,511,544,536,146,70,2038,3004,64.88015978695073,Igbo
+gnome-desktop,203,14,132,29,3,20,227,349,58.16618911174785,Igbo
+gnome-desktop3,203,14,132,29,3,20,227,349,58.16618911174785,Igbo
+gnome-menus,116,15,26,42,5,9,121,157,73.88535031847134,<en@li.org>
+gnome-session,117,86,519,20,28,65,131,722,16.20498614958449,Igbo
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,9,0,665,8,0,99,10,674,1.3353115727002967,http://littlesvr.ca/ostd/
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+marco,1595,0,2494,244,0,170,1499,4089,39.00709219858156,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+mate-desktop,52,0,2294,12,0,318,54,2346,2.2165387894288147,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+mate-menu,0,0,300,0,0,110,0,300,0.0,Igbo (http://www.transifex.com/projects/p/MATE/language/ig/)
+mate-menus,59,0,38,24,0,13,63,97,60.824742268041234,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+mate-panel,2647,0,1706,320,0,267,2644,4353,60.80863772111188,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+mate-session-manager,45,0,636,13,0,101,54,681,6.607929515418502,Igbo (http://www.transifex.com/mate/MATE/language/ig/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+metacity,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+muffin,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+mutter,2294,825,689,316,58,37,2232,3808,60.24159663865546,Igbo
+nautilus,3745,2655,1744,723,386,205,3973,8144,45.98477406679764,Igbo
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+olpc-switch-desktop,0,2,156,0,1,13,0,158,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sugar,2154,0,0,495,0,0,2290,2154,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,68,0,0,50,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,1,1741,0,1,327,0,1742,0.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,52,81,0,34,164,189,72.4867724867725,LANGUAGE <LL@li.org>
+sugar-clock,7,7,118,2,1,39,6,132,5.303030303030303,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,109,0,0,29,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,1,0,133,1,0,41,1,134,0.7462686567164178,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,196,0,0,42,0,196,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,155,73,0,73,182,310,50.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,192,0,0,111,0,192,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,96,0,0,56,0,96,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,109,0,0,31,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,11,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,251,0,0,92,0,251,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,454,0,0,148,0,454,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,130,4,0,30,7,136,4.411764705882353,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,0,109,0,0,170,156,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,2916,1,0,869,1,2918,0.06854009595613435,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,6,0,0,6,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-write,107,14,121,46,9,55,118,242,44.214876033057855,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Igbo <ig@li.org>

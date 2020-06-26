@@ -1,0 +1,98 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,19,0,1788,10,0,409,27,1807,1.0514665190924184,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+backintime,13,0,1959,6,0,343,19,1972,0.6592292089249493,Javanese <jv@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+calibre,87,0,160975,15,0,18469,77,161062,0.05401646570885746,Javanese (http://www.transifex.com/calibre/calibre/language/jv/)
+cinnamon-translations,1540,0,15401,451,0,3207,1498,16941,9.090372469157664,Javanese <jv@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+edgar,1,0,11473,1,0,1534,1,11474,0.008715356458079134,Javanese <jv@li.org>
+elementary-calculator,9,0,121,6,0,48,9,130,6.923076923076923,LANGUAGE <LL@li.org>
+elementary-calendar,13,8,682,10,4,215,13,703,1.849217638691323,Javanese <https://weblate.elementary.io/projects/calendar/calendar/jv/>
+elementary-camera,0,0,65,0,0,18,0,65,0.0,
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,31,23,1097,14,10,233,27,1151,2.6933101650738487,Javanese <jv@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,3023,0,0,585,0,3023,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,1,10,431,1,2,87,1,442,0.22624434389140274,Javanese <jv@li.org>
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+engrampa,12,0,2023,4,0,419,18,2035,0.5896805896805897,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+eom,6,0,1763,5,0,336,13,1769,0.3391746749576032,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+gala,0,0,197,0,0,42,0,197,0.0,none
+gmpc,23,0,1455,17,0,491,48,1478,1.5561569688768606,Javanese <jv@li.org>
+gnome-do,29,0,583,15,0,129,29,612,4.738562091503268,Javanese <jv@li.org>
+granite,0,0,269,0,0,88,0,269,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+islamic-menus,5,0,0,2,0,0,7,5,100.0,Javanese <jv@li.org>
+isomaster,11,1,662,10,1,96,10,674,1.6320474777448073,http://littlesvr.ca/ostd/
+jmol,155,8,1555,58,4,511,159,1718,9.022118742724098,Javanese <jv@li.org>
+libmatekbd,2,0,306,2,0,89,3,308,0.6493506493506493,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+libmatemixer,3,0,239,2,0,124,3,242,1.2396694214876034,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+libmateweather,2,0,497,2,0,181,2,499,0.4008016032064128,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+libreoffice,2509,3346,99662,1400,2911,28531,2641,105517,2.3778158969644703,LANGUAGE <LL@li.org>
+lightdm,0,0,84,0,0,4,0,84,0.0,Javanese <jv@li.org>
+marco,7,0,4332,2,0,429,7,4339,0.16132749481447337,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-applets,13,4,8782,13,2,984,48,8799,0.1477440618252074,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-control-center,28,1,3261,19,1,1116,41,3290,0.851063829787234,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-desktop,407,0,1817,46,0,239,381,2224,18.300359712230215,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-media,10,0,229,4,0,95,11,239,4.184100418410042,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-menu,13,0,295,9,0,101,15,308,4.220779220779221,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-menus,1,0,96,1,0,36,2,97,1.0309278350515463,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-panel,34,0,5467,17,0,678,49,5501,0.618069441919651,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-power-manager,7,0,5129,7,0,547,19,5136,0.13629283489096572,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-sensors-applet,5,0,2217,5,0,222,17,2222,0.22502250225022502,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-session-manager,15,0,697,6,0,125,18,712,2.106741573033708,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-system-monitor,20,0,1493,9,0,319,23,1513,1.3218770654329148,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-terminal,23,3,4679,8,1,529,26,4705,0.4888416578108395,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-user-guide,5,0,2,2,0,2,5,7,71.42857142857143,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+mate-utils,19,0,7081,11,0,893,39,7100,0.2676056338028169,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+playonlinux,320,0,2408,44,0,405,303,2728,11.730205278592376,Javanese <jv@li.org>
+pluma,6,7,5650,6,7,1420,12,5663,0.10595090941197245,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+pychess,76,0,4379,44,0,835,73,4455,1.7059483726150393,Javanese (http://www.transifex.com/gbtami/pychess/language/jv/)
+python-caja,6,0,1,2,0,1,5,7,85.71428571428571,Javanese (https://www.transifex.com/mate/teams/13566/jv/)
+stellarium,181,0,141223,51,0,36368,172,141404,0.1280020367174903,Javanese (https://www.transifex.com/stellarium/teams/80998/jv/)
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,0,213,0,0,123,0,213,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,14,0,82,4,0,25,12,96,14.583333333333334,Javanese <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/jv/>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+terminator,265,0,1185,101,0,326,284,1450,18.275862068965516,Javanese (https://www.transifex.com/terminator/teams/109338/jv/)
+tortoisehg,30,0,13213,12,0,2416,33,13243,0.22653477308766895,Javanese <jv@li.org>
+visualboyadvance-m,168,0,2225,30,0,865,168,2393,7.020476389469285,Javanese (http://www.transifex.com/bgk/vba-m/language/jv/)
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none
+xreader,18,0,1675,9,0,380,20,1693,1.06320141760189,Javanese (http://www.transifex.com/mate/MATE/language/jv/)

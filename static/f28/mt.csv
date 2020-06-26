@@ -1,0 +1,71 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+calibre,317,0,158443,290,0,17944,317,158760,0.1996724615772235,Maltese (http://www.transifex.com/calibre/calibre/language/mt/)
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnfdragora,146,0,674,108,0,247,151,820,17.804878048780488,Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/)
+elementary-calculator,0,0,80,0,0,37,0,80,0.0,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,449,0,0,180,0,449,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+gettext,368,20,50,72,2,14,366,438,84.01826484018264,Maltese <translation-team-mt@lists.sourceforge.net>
+gnome-do,62,0,550,16,0,128,62,612,10.130718954248366,Maltese <mt@li.org>
+gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,43,43,111,7,7,15,39,197,21.82741116751269,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-good,350,275,169,41,34,22,329,794,44.08060453400503,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,56,4,20,8,1,1,50,80,70.0,Maltese <translation-team-mt@lists.sourceforge.net>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iso-codes,836,7038,7835,685,5173,4325,835,15709,5.321790056655421,Maltese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mt/>
+koffice-kivio,1910,1752,4755,559,762,1040,1775,8417,22.69217060710467,Maltese <mt@li.org>
+libkexif,21,4,0,13,1,0,22,25,84.0,Maltese <mt@li.org>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-gettext,368,20,50,72,2,14,366,438,84.01826484018264,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,43,43,111,7,7,15,39,197,21.82741116751269,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,350,275,169,41,34,22,329,794,44.08060453400503,Maltese <translation-team-mt@lists.sourceforge.net>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+oggconvert,123,0,9,40,0,4,118,132,93.18181818181817,Maltese <mt@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,111,0,0,54,0,111,0.0,none
+pantheon-agent-geoclue2,0,0,46,0,0,13,0,46,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,20,0,0,10,0,20,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,252,0,0,93,0,252,0.0,
+stellarium,39,0,68157,38,0,26691,40,68196,0.057188104874186164,Maltese (https://www.transifex.com/stellarium/teams/80998/mt/)
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,53,15,91,52,8,51,53,159,33.33333333333333,LANGUAGE <LL@li.org>
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,117,0,0,37,0,117,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,none
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,none
+switchboard-plug-display,0,0,126,0,0,49,0,126,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,none
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,0,131,0,0,46,0,131,0.0,
+sysstat,412,0,0,51,0,0,432,412,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+transmission,19,0,1790,11,0,483,19,1809,1.0503040353786623,Maltese <mt@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Maltese <mt@li.org>
+wingpanel,0,0,6,0,0,1,0,6,0.0,none
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none

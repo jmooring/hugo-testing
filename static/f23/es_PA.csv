@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libgweather,447,9,4,170,5,4,534,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Spanish (Panama) (http://www.transifex.com/mate/MATE/language/es_PA/)
+libmateweather,361,0,138,153,0,30,425,499,72.34468937875751,Spanish (Panama) (http://www.transifex.com/mate/MATE/language/es_PA/)
+mate-applets,1596,0,1025,382,0,244,1923,2621,60.89278901182754,Spanish (Panama) (http://www.transifex.com/mate/MATE/language/es_PA/)
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Spanish (Panama) (http://www.transifex.com/projects/p/MATE/language/es_PA/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Spanish (Panama) (http://www.transifex.com/mate/MATE/language/es_PA/)

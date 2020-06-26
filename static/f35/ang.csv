@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+chromium,158,510,11185,57,199,2231,144,11853,1.3329958660254788,Old English <modean52@comcast.net>
+gdk-pixbuf2,223,163,962,42,32,128,183,1348,16.543026706231455,Old English <modean52@comcast.net>
+gtk2,403,646,12655,111,225,2448,354,13704,2.940747227086982,Old English <modean52@comcast.net>
+gtk3,158,510,11185,57,199,2231,144,11853,1.3329958660254788,Old English <modean52@comcast.net>
+gtk4,158,510,11185,57,199,2231,144,11853,1.3329958660254788,Old English <modean52@comcast.net>
+libgnomecanvas,14,0,343,12,0,82,12,357,3.9215686274509802,Old English <modean52@comcast.net>
+libgweather,0,0,0,0,0,0,0,0,0.0,
+libmateweather,30,0,5613,28,0,4363,33,5643,0.531632110579479,Old English <modean52@comcast.net>
+mingw-gdk-pixbuf,223,163,962,42,32,128,183,1348,16.543026706231455,Old English <modean52@comcast.net>
+mingw-gtk2,403,646,12655,111,225,2448,354,13704,2.940747227086982,Old English <modean52@comcast.net>
+mingw-gtk3,158,510,11185,57,199,2231,144,11853,1.3329958660254788,Old English <modean52@comcast.net>

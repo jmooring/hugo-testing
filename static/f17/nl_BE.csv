@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+clamtk,677,0,11,201,0,4,733,688,98.40116279069767,LANGUAGE <LL@li.org>
+gnomebaker,117,6,1063,46,1,244,119,1186,9.865092748735245,Dutch (Belgium) <nl_BE@li.org>
+gourmet,1213,512,1922,335,156,377,1220,3647,33.260213874417325,Dutch (Belgium) <nl_BE@li.org>
+manaplus,3047,6,3282,959,2,681,3207,6335,48.09786898184688,Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/)
+openerp,1520,0,38471,309,0,5554,1325,39991,3.800855192418294,Dutch (Belgium) <nl_BE@li.org>
+zarafa,3306,0,77,1029,0,21,3259,3383,97.72391368607745,nl_NL <nl@li.org>

@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+exaile,1,2,4165,1,1,1090,1,4168,0.02399232245681382,Ossetian <os@li.org>
+gnome-extensions-app,295,0,2289,99,0,476,262,2584,11.41640866873065,Ossetian; Ossetic <soslanx@gmail.com>
+gnome-shell,295,0,2289,99,0,476,262,2584,11.41640866873065,Ossetian; Ossetic <soslanx@gmail.com>
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django,2078,0,1438,571,0,240,1955,3516,59.10125142207053,Ossetic (http://www.transifex.com/django/django/language/os/)
+python-django-formtools,5,0,27,3,0,8,6,32,15.625,Ossetic (http://www.transifex.com/projects/p/django-formtools/language/os/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django3,2078,0,1438,571,0,240,1955,3516,59.10125142207053,Ossetic (http://www.transifex.com/django/django/language/os/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,161,0,50,33,0,14,144,211,76.30331753554502,Ossetian <os@li.org>
+supertuxkart,0,0,0,0,0,0,0,0,0.0,

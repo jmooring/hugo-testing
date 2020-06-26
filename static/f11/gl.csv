@@ -1,0 +1,456 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,2653,0,0,649,0,0,2860,2653,100.0,Galego
+GConf2,4044,0,0,485,0,0,4921,4044,100.0,Galego <proxecto@trasno.net>
+GConf2-dbus,4017,0,0,479,0,0,4654,4017,100.0,Galego <trasno@ceu.fi.udc.es>
+Miro,2717,0,57,597,0,4,2933,2774,97.94520547945206,Galician <gl@li.org>
+NetworkManager,1472,0,0,342,0,0,1778,1472,100.0,Galician <proxecto@trasno.net>
+NetworkManager-openconnect,52,0,0,19,0,0,58,52,100.0,Galician <proxecto@trasno.net>
+NetworkManager-openvpn,185,0,0,58,0,0,210,185,100.0,Galician <proxecto@trasno.net>
+NetworkManager-pptp,115,0,0,42,0,0,140,115,100.0,Galician <proxecto@trasno.net>
+NetworkManager-vpnc,139,0,0,36,0,0,162,139,100.0,Galician <proxecto@trasno.net>
+ORBit,8,0,0,2,0,0,11,8,100.0,Galician <gpul-traduccion@ceu.fi.udc.es>
+Terminal,1394,0,156,265,0,15,1694,1550,89.93548387096774,Galician <proxecto@trasno.net>
+Thunar,3423,230,212,650,25,10,3551,3865,88.5640362225097,Galician <proxecto@trasno.net>
+WindowMaker,2042,0,0,351,0,0,2395,2042,100.0,Galician <trasno@ceu.fi.udc.es>
+Zim,1088,0,159,324,0,22,1251,1247,87.24939855653568,
+acl,484,0,0,51,0,0,543,484,100.0,Galician
+agave,85,0,0,32,0,0,94,85,100.0,Spanish/Spain <es@li.org>
+alacarte,42,0,0,16,0,0,47,42,100.0,Galego <proxecto@trasno.net>
+alexandria,1074,35,69,282,9,14,1160,1178,91.17147707979628,Galician <proxecto@trasno.net>
+anaconda,359,578,8060,115,133,885,413,8997,3.990218961876181,<gl@li.org>
+anjuta,7883,0,0,2151,0,0,9681,7883,100.0,Galego <proxecto@trasno.net>
+arm-gp2x-linux-glibc,6171,0,0,1235,0,0,7728,6171,100.0,Galician <gpul-traduccion@ceu.fi.udc.es>
+at-spi,20,0,0,4,0,0,25,20,100.0,Galego <proxecto@trasno.net>
+atk,370,1,4,123,1,2,426,375,98.66666666666667,Galego <trasno@ceu.fi.udc.es>
+atomix,146,0,0,59,0,0,155,146,100.0,Galego
+attr,344,0,0,30,0,0,369,344,100.0,Galician
+audacity,1923,183,8527,563,37,1469,2175,10633,18.085206432803535,Galego <gl@li.org>
+aumix,235,0,5,87,0,5,257,240,97.91666666666666,Galician <trasno@ceu.fi.udc.es>
+authconfig,337,186,834,107,36,99,405,1357,24.83419307295505,<gl@li.org>
+avant-window-navigator,173,0,420,65,0,75,206,593,29.17369308600337,Galician <gl@li.org>
+backintime,441,0,0,119,0,0,500,441,100.0,Galician <gl@li.org>
+bakery,72,0,0,20,0,0,72,72,100.0,Galego <trasno@ceu.fi.udc.es>
+banshee,3748,0,0,994,0,0,4358,3748,100.0,Galego <proxecto@trasno.net>
+bauble,512,0,1527,88,0,293,572,2039,25.110348209906817,Galician <gl@li.org>
+beagle,1006,38,241,300,11,46,1095,1285,78.28793774319067,Galego <trasno@ceu.fi.udc.es>
+bittorrent,479,0,3427,170,0,464,533,3906,12.263184843830006,LANGUAGE <LL@li.org>
+blueman,1253,0,123,332,0,20,1458,1376,91.06104651162791,Galician <gl@li.org>
+boinc-client,3450,151,3992,675,12,622,3595,7593,45.43658632951403,Galician <LL@li.org>
+brasero,5280,0,0,961,0,0,5943,5280,100.0,Galego <proxecto@trasno.net>
+bug-buddy,1010,0,0,89,0,0,1108,1010,100.0,Galego <proxecto@trasno.net>
+camorama,586,0,0,137,0,0,691,586,100.0,Galego <trasno@ceu.fi.udc.es>
+ccsm,547,1,1,133,1,1,579,549,99.63570127504553,Galician <en@li.org>
+cheese,527,0,0,99,0,0,572,527,100.0,Galego <proxecto@trasno.net>
+chkconfig,126,110,212,26,22,42,137,448,28.125,Galician <trasno@ceu.fi.udc.es>
+choqok,819,18,29,199,3,3,961,866,94.57274826789839,Galego <kde-i18n-doc@kde.org>
+cinepaint,1176,1089,5140,455,427,1053,1328,7405,15.88116137744767,Galician <trasno@ceu.fi.udc.es>
+clamtk,779,0,0,210,0,0,872,779,100.0,Marcos Lans - Ciberirmandade <marcoslansgarza@gmail.com>
+common-lisp-controller,57,0,0,7,0,0,66,57,100.0,Galician <proxecto@trasno.net>
+compat-libgda,11,812,1464,4,151,321,10,2287,0.4809794490599038,Galician <trasno@ceu.fi.udc.es>
+compiz,38,1,0,13,1,0,40,39,97.43589743589743,<gl@li.org>
+compiz-fusion,6766,451,313,1317,106,49,8158,7530,89.8539176626826,<gl@li.org>
+compiz-fusion-extras,6766,451,313,1317,106,49,8158,7530,89.8539176626826,<gl@li.org>
+conduit,568,0,0,222,0,0,684,568,100.0,Galego <proxecto@trasno.net>
+control-center,3184,0,0,768,0,0,3871,3184,100.0,Galego <proxecto@trasno.net>
+coreutils,2734,6257,8944,295,609,491,3134,17935,15.243936437134096,Galician <gpul-traduccion@ceu.fi.udc.es>
+cpio,237,193,1483,46,31,208,326,1913,12.388917929952953,Galician <gpul-traduccion@ceu.fi.udc.es>
+cssed,1020,335,2082,273,53,368,1082,3437,29.67704393366308,Galician <gpul-traduccion@ceu.fi.udc.es>
+cycle,187,3,0,64,2,0,208,190,98.42105263157895,Galician
+dasher,526,0,0,198,0,0,682,526,100.0,Galego <proxecto@trasno.net>
+dbmail,457,0,0,39,0,0,466,457,100.0,Galician <proxecto@trasno.net>
+dc3dd,20,126,786,6,31,51,23,932,2.1459227467811157,Galician <gpul-traduccion@ceu.fi.udc.es>
+deluge,245,0,1753,121,0,568,296,1998,12.262262262262261,Galician <gl@li.org>
+deskbar-applet,1654,0,0,355,0,0,1873,1654,100.0,Galego <proxecto@trasno.net>
+devhelp,364,0,0,94,0,0,444,364,100.0,Galego <proxecto@trasno.net>
+dia,6634,0,0,2366,0,0,8010,6634,100.0,Galician <proxecto@trasno.net>
+dialog,25,0,0,23,0,0,26,25,100.0,Galician <proxecto@trasno.net>
+diffutils,1342,0,0,180,0,0,1515,1342,100.0,Galician <gpul-traduccion@ceu.fi.udc.es>
+dpkg,8560,1197,262,1044,145,54,10335,10019,85.43766842998302,galician <proxecto@trasno.net>
+drgeo,457,821,707,118,209,134,483,1985,23.02267002518892,Galician <trasno@ceu.fi.udc.es>
+eel2,161,0,0,31,0,0,166,161,100.0,Galego <proxecto@trasno.net>
+ejabberd,1477,5,0,371,1,0,1669,1482,99.66261808367072,
+ekiga,4043,0,0,667,0,0,4676,4043,100.0,Galego <proxecto@trasno.net>
+elinks,357,1498,10379,170,474,981,425,12234,2.918097106424718,Galician <gpul-traduccion@ceu.fi.udc.es>
+emerald,774,0,0,215,0,0,992,774,100.0,Galician <en@li.org>
+empathy,1866,0,0,468,0,0,2086,1866,100.0,Galego <proxecto@trasno.net>
+entertainer,232,0,509,91,0,95,274,741,31.309041835357625,Galician <gl@li.org>
+eog,1255,0,0,285,0,0,1436,1255,100.0,Galego <proxecto@trasno.net>
+epiphany,4239,0,0,916,0,0,4668,4239,100.0,Galego <proxecto@trasno.net>
+epiphany-extensions,742,29,235,229,5,31,849,1006,73.75745526838966,Galego <trasno@ceu.fi.udc.es>
+etckeeper,23,0,41,3,0,2,23,64,35.9375,Galician <proxecto@trasno.net>
+evince,1155,0,0,312,0,0,1353,1155,100.0,Galego <proxecto@trasno.net>
+evolution,22130,0,0,5052,0,0,25420,22130,100.0,Galego <proxecto@trasno.net>
+evolution-data-server,5091,0,0,1040,0,0,6643,5091,100.0,Galego <proxecto@trasno.net>
+evolution-exchange,1339,0,0,196,0,0,1585,1339,100.0,Galego <proxecto@trasno.net>
+evolution-mapi,284,0,0,50,0,0,361,284,100.0,Galego <proxecto@trasno.net>
+evolution-rss,688,4,2,187,2,1,865,694,99.13544668587896,Galician
+exaile,324,0,1852,162,0,425,361,2176,14.88970588235294,Galician <gl@li.org>
+exo,365,394,839,132,99,70,428,1598,22.84105131414268,Galician <proxecto@trasno.net>
+f-spot,3553,0,0,886,0,0,4043,3553,100.0,Galician <gnome@mancomun.org>
+fetchmail,1828,1187,956,340,172,131,2320,3971,46.0337446487031,Galician <gpul-traduccion@ceu.fi.udc.es>
+file-roller,1267,0,0,284,0,0,1346,1267,100.0,Galego <proxecto@trasno.net>
+filezilla,5232,898,730,915,151,97,6470,6860,76.26822157434403,
+findutils,234,318,1530,62,33,121,293,2082,11.239193083573488,Galician <gpul-traduccion@ceu.fi.udc.es>
+firstboot,28,8,618,8,2,44,27,654,4.281345565749235,<gl@li.org>
+fotoxx,780,22,25,279,4,7,949,827,94.31680773881499,GALPon MiniNo <minino@galpon.org>
+freedink,66,13,0,13,2,0,73,79,83.54430379746836,Galician <gpul-traduccion@ceu.fi.udc.es>
+frescobaldi,2820,5,0,675,1,0,3123,2825,99.82300884955752,Galician <proxecto@trasno.net>
+fslint,388,0,0,132,0,0,429,388,100.0,Galician <gl@li.org>
+fuse-encfs,1038,173,100,117,7,14,1251,1311,79.17620137299771,Galician <gl@li.org>
+gajim,5407,2129,2610,1088,445,407,6042,10146,53.29193770944215,<softwarelibre@udc.es>
+galeon,180,228,995,84,98,293,208,1403,12.829650748396293,Galician <trasno@gpul.org>
+gambas,1212,0,674,443,0,142,1292,1886,64.26299045599151,LANGUAGE <LL@li.org>
+gambas2,708,83,1776,299,27,524,757,2567,27.580833657966497,LANGUAGE <LL@li.org>
+gammu,382,54,12726,76,2,1896,446,13162,2.9022944841209544,none
+gazpacho,639,13,56,209,5,9,718,708,90.2542372881356,Galego <trasno@ceu.fi.udc.es>
+gbirthday,24,5,93,15,1,25,27,122,19.672131147540984,
+gbrainy,2560,0,2,336,0,2,2476,2562,99.92193598750976,Galego <proxecto@trasno.net>
+gcalctool,1365,0,0,408,0,0,1567,1365,100.0,Galego <proxecto@trasno.net>
+gcl,177,0,0,8,0,0,212,177,100.0,Galician <proxecto@trasno.net>
+gcombust,2046,1476,487,328,87,45,2149,4009,51.0351708655525,Galician <trasno@ceu.fi.udc.es>
+gcompris,10877,0,0,1292,0,0,11341,10877,100.0,Galician <g11n@gnome.net>
+gconf-editor,336,0,0,98,0,0,423,336,100.0,Galego <proxecto@trasno.net>
+gdesklets,1087,0,317,170,0,21,1147,1404,77.42165242165242,Galego <trasno@ceu.fi.udc.es>
+gdm,1314,0,0,236,0,0,1684,1314,100.0,Galego <proxecto@trasno.net>
+geany,5123,69,11,1101,11,4,5912,5203,98.46242552373631,Galician <proxecto@trasno.net>
+gedit,4942,0,0,1098,0,0,5655,4942,100.0,Galego <proxecto@trasno.net>
+gedit-plugins,116,246,1884,32,56,340,141,2246,5.1647373107747105,Galician <proxecto@trasno.net>
+gettext,587,1151,4740,101,88,424,690,6478,9.06143871565298,Galician <gpul-traduccion@ceu.fi.udc.es>
+gftp,3251,98,26,626,6,2,3534,3375,96.32592592592593,Galego <trasno@ceu.fi.udc.es>
+ggz-base-libs,74,0,0,17,0,0,101,74,100.0,Galego <proxecto@trasno.net>
+ggz-gtk-client,767,0,0,240,0,0,846,767,100.0,Galego <proxecto@trasno.net>
+ghex,392,0,0,114,0,0,453,392,100.0,Galician <trasno@ceu.fi.udc.es>
+gigolo,227,12,237,79,5,38,282,476,47.689075630252105,Galician <proxecto@trasno.net>
+gimp,25975,0,0,6735,0,0,30381,25975,100.0,Galego <proxecto@trasno.net>
+gitg,110,2,232,49,1,24,126,344,31.976744186046513,Galician <proxecto@trasno.net>
+glade2,5910,0,0,1311,0,0,6357,5910,100.0,Galego <trasno@ceu.fi.udc.es>
+glade3,4613,0,0,1199,0,0,5434,4613,100.0,Galego <proxecto@trasno.net>
+glib2,2195,43,112,350,10,12,2841,2350,93.40425531914893,Galician <gnome@mancomun.org>
+glibc,6172,0,0,1235,0,0,7728,6172,100.0,Galician <gpul-traduccion@ceu.fi.udc.es>
+glom,2425,120,0,466,4,0,2556,2545,95.28487229862476,Galego <proxecto@trasno.net>
+glunarclock,92,24,115,38,8,25,102,231,39.82683982683983,Galician <trasno@ceu.fi.udc.es>
+gmpc,310,0,806,139,0,274,480,1116,27.77777777777778,Galician
+gnome-applet-netspeed,143,0,0,54,0,0,168,143,100.0,Galician <>
+gnome-applet-timer,5,0,278,5,0,66,11,283,1.76678445229682,Galician <gl@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,26,29,75.86206896551724,Galician
+gnome-applets,3374,0,0,793,0,0,4272,3374,100.0,Galego <proxecto@trasno.net>
+gnome-backgrounds,23,0,0,17,0,0,23,23,100.0,Galego <proxecto@trasno.net>
+gnome-bluetooth,461,4,0,140,2,0,558,465,99.13978494623656,Galician <gnome@mancomun.org>
+gnome-desktop,349,0,0,52,0,0,410,349,100.0,Galego <proxecto@trasno.net>
+gnome-doc-utils,238,0,0,92,0,0,241,238,100.0,Galego <proxecto@trasno.net>
+gnome-games,8376,0,0,1919,0,0,9245,8376,100.0,Galego <proxecto@trasno.net>
+gnome-globalmenu,325,0,0,56,0,0,364,325,100.0,Galician <gl@li.org>
+gnome-icon-theme,43,0,0,38,0,0,44,43,100.0,Galego <proxecto@trasno.net>
+gnome-keyring,1823,0,0,276,0,0,2043,1823,100.0,Galego <proxecto@trasno.net>
+gnome-libs,988,40,57,381,4,10,1088,1085,91.05990783410138,Galician <trasno@ceu.fi.udc.es>
+gnome-lirc-properties,654,0,0,239,0,0,804,654,100.0,Galician <gnome@mancomun.org>
+gnome-mag,298,0,0,42,0,0,345,298,100.0,Galego <proxecto@trasno.net>
+gnome-media,1193,0,0,288,0,0,1426,1193,100.0,Galician <gnome@mancomun.org>
+gnome-menus,157,0,0,56,0,0,198,157,100.0,Galego <proxecto@trasno.net>
+gnome-mime-data,887,0,0,362,0,0,1218,887,100.0,Galician <proxecto@trasno.net>
+gnome-netstatus,418,0,0,106,0,0,502,418,100.0,Galician <gnome@mancomun.org>
+gnome-nettool,523,0,0,206,0,0,645,523,100.0,Galego <proxecto@trasno.net>
+gnome-packagekit,452,1861,2061,136,406,255,580,4374,10.33379058070416,
+gnome-panel,4487,0,0,615,0,0,5025,4487,100.0,Galego <proxecto@trasno.net>
+gnome-pilot,900,337,341,184,89,63,1062,1578,57.03422053231939,Galician <trasno@ceu.fi.udc.es>
+gnome-pilot-conduits,103,45,61,27,14,9,126,209,49.282296650717704,Galician <trasno@ceu.fi.udc.es>
+gnome-power-manager,3284,0,0,473,0,0,3836,3284,100.0,Galego <proxecto@trasno.net>
+gnome-screensaver,975,0,0,154,0,0,1196,975,100.0,Galego <proxecto@trasno.net>
+gnome-session,679,0,0,113,0,0,827,679,100.0,Galego <proxecto@trasno.net>
+gnome-settings-daemon,1313,0,0,218,0,0,1624,1313,100.0,Galego <proxecto@trasno.net>
+gnome-subtitles,714,0,4,264,0,4,858,718,99.44289693593315,Galician <gnome@g11n.net>
+gnome-system-monitor,918,0,0,239,0,0,1180,918,100.0,Galego <proxecto@trasno.net>
+gnome-terminal,3885,0,0,431,0,0,4306,3885,100.0,Galego <proxecto@trasno.net>
+gnome-themes,109,0,0,30,0,0,141,109,100.0,Galego <proxecto@trasno.net>
+gnome-user-share,75,0,0,16,0,0,75,75,100.0,Galego <trasno@ceu.fi.udc.es>
+gnome-utils,4314,0,0,726,0,0,4948,4314,100.0,Galego <proxecto@trasno.net>
+gnome-vfs2,1508,0,0,301,0,0,1814,1508,100.0,Galego <proxecto@trasno.net>
+gnomebaker,271,0,915,90,0,201,319,1186,22.849915682967957,Galician <gl@li.org>
+gnote,1779,209,86,271,24,17,2007,2074,85.77627772420443,American English <kde-i18n-doc@kde.org>
+gnotime,127,332,1549,67,138,224,166,2008,6.324701195219124,Galician <trasno@ceu.fi.udc.es>
+gnumeric,1243,3925,41206,285,1453,2016,1195,46374,2.680381248113167,Galician <gpul-traduccion@ceu.fi.udc.es>
+gnupg,4433,2839,1123,636,463,167,5020,8395,52.805241215008934,Galician <gpul-traduccion@ceu.fi.udc.es>
+gnupg2,3252,4280,2722,539,758,406,3816,10254,31.71445289643066,Galician <gpul-traduccion@ceu.fi.udc.es>
+goffice,49,1020,2921,26,510,829,50,3990,1.2280701754385965,Galician <gpul-traduccion@ceu.fi.udc.es>
+goffice04,49,1020,2921,26,510,829,50,3990,1.2280701754385965,Galician <gpul-traduccion@ceu.fi.udc.es>
+gok,1960,0,0,443,0,0,2387,1960,100.0,Galego <proxecto@trasno.net>
+gourmet,1160,47,2319,313,15,463,1281,3526,32.898468519568915,Galician <gl@li.org>
+gparted,1544,0,0,320,0,0,1742,1544,100.0,galego <proxecto@trasno.net>
+gperiodic,139,0,16,133,0,6,142,155,89.6774193548387,LANGUAGE <LL@li.org>
+gpicview,56,28,135,20,3,21,66,219,25.570776255707763,
+gpodder,2995,138,84,544,24,12,3507,3217,93.09916070873486,Galician <localizacion@tagenata.com>
+gpsdrive,2311,0,0,448,0,0,2612,2311,100.0,Galician <proxecto@trasno.net>
+grep,63,238,526,21,22,47,80,827,7.617896009673519,Galician <gpul-traduccion@ceu.fi.udc.es>
+grsync,649,23,101,109,3,10,730,773,83.95860284605433,Galician
+gst-mixer,2151,0,0,596,0,0,2516,2151,100.0,Galego <proxecto@trasno.net>
+gthumb,2505,64,313,845,19,9,2804,2882,86.91880638445524,Galego <trasno@ceu.fi.udc.es>
+gtk+,202,0,0,105,0,0,220,202,100.0,Galician <trasno@ceu.fi.udc.es>
+gtk2,12923,0,5,2642,0,1,15527,12928,99.96132425742574,Galician <gnome@mancomun.org>
+gtk2-engines,119,0,0,47,0,0,179,119,100.0,Galego <proxecto@trasno.net>
+gtkhtml3,1261,0,0,560,0,0,1506,1261,100.0,Galego <proxecto@trasno.net>
+gtksourceview,849,0,0,342,0,0,1054,849,100.0,Galician <trasno@ceu.fi.udc.es>
+gtksourceview2,1099,0,0,438,0,0,1416,1099,100.0,Galego <proxecto@trasno.net>
+gtkspell,11,0,0,5,0,0,13,11,100.0,Galician <proxecto@trasno.net>
+gtranslator,1445,169,240,401,38,26,1660,1854,77.93959007551241,Galego <kde-i18n-doc@kde.org>
+gucharmap,803,0,0,298,0,0,905,803,100.0,Galego <proxecto@trasno.net>
+gvfs,1341,0,0,324,0,0,1854,1341,100.0,Galego <proxecto@trasno.net>
+hamster-applet,250,0,0,101,0,0,311,250,100.0,Galego <proxecto@trasno.net>
+hello,95,25,54,17,3,7,120,174,54.59770114942529,Galician <gpul-traduccion@ceu.fi.udc.es>
+homebank,1397,13,48,486,11,21,1522,1458,95.81618655692729,Galician <gl@li.org>
+horde,848,0,0,182,0,0,1056,848,100.0,Galego
+hwbrowser,69,5,42,40,2,9,78,116,59.48275862068966,<gl@li.org>
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imp,2166,0,0,479,0,0,2398,2166,100.0,Galego
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+indent,229,40,15,51,7,2,326,284,80.63380281690141,Galician <gpul-traduccion@ceu.fi.udc.es>
+initscripts,744,2093,1332,181,577,233,947,4169,17.846006236507556,<gl@li.org>
+inkscape,6735,5533,11767,1811,1679,1490,7737,24035,28.02163511545663,Galician <trasno@trasno.net>
+iso-codes,1520,2985,8366,753,2147,5987,1589,12871,11.809494211793956,Galician <proxecto@trasno.net>
+jokosher,228,0,1869,51,0,371,251,2097,10.872675250357654,Galician <gl@li.org>
+k3b,11474,4141,5006,1750,521,259,12804,20621,55.64230638669317,Galician <trasno@ceu.fi.udc.es>
+kBuild,199,136,170,37,29,15,251,505,39.40594059405941,Galician <gpul-traduccion@ceu.fi.udc.es>
+kaffeine,2330,15,9,651,3,4,2826,2354,98.98045879354291,<gl@li.org>
+kbluetooth,341,0,0,103,0,0,368,341,100.0,Galego <proxecto@trasno.net>
+kcoloredit,278,0,0,95,0,0,314,278,100.0,Galego <proxecto@trasno.net>
+kde-partitionmanager,2459,250,23,425,26,2,3039,2732,90.00732064421669,galician <proxecto@trasno.net>
+kde-plasma-networkmanagement,2120,0,0,720,0,0,2641,2120,100.0,Galician <proxecto@trasno.net>
+kde-plasma-quickaccess,72,0,0,31,0,0,72,72,100.0,Galician <gl@li.org>
+kdetv,2206,0,0,483,0,0,2656,2206,100.0,Galician <trasno@ceu.fi.udc.es>
+kdevplatform,5247,237,508,1221,85,75,6247,5992,87.56675567423231,Galician <proxecto@trasno.net>
+kdiff3,3528,0,0,635,0,0,4217,3528,100.0,Galician <proxecto@trasno.net>
+kdissert,2027,0,0,282,0,0,2082,2027,100.0,Galician <trasno@ceu.fi.udc.es>
+kerry,382,43,61,101,14,19,428,486,78.60082304526749,Galician <trasno@ceu.fi.udc.es>
+keurocalc,291,0,0,116,0,0,322,291,100.0,Galician <trasno@ceu.fi.udc.es>
+kftpgrabber,1876,103,258,493,32,55,2262,2237,83.86231560125168,Galician <trasno@ceu.fi.udc.es>
+kgrab,370,0,0,53,0,0,358,370,100.0,Galician <proxecto@trasno.ent>
+kiconedit,726,0,0,155,0,0,761,726,100.0,Galician <proxecto@trasno.ent>
+kile,9216,701,522,1373,133,81,9670,10439,88.28431842130472,Galician <trasno@ceu.fi.udc.es>
+kio_gopher,17,0,0,5,0,0,21,17,100.0,galician <proxecto@trasno.net>
+kio_sysinfo,131,23,14,57,5,10,160,168,77.97619047619048,Galician <proxecto@trasno.ent>
+kipi-plugins,15328,0,0,2979,0,0,17461,15328,100.0,Galego <proxecto@trasno.net>
+klavaro,1791,102,10,181,42,3,1650,1903,94.11455596426694,Galician <proxecto@trasno.net>
+kmid,523,6,6,205,4,5,561,535,97.75700934579439,Galician <trasno@ceu.fi.udc.es>
+kmid2,772,143,32,297,9,5,947,947,81.5205913410771,Galician <proxecto@trasno.net>
+kmplayer,1189,69,2,370,8,1,1425,1260,94.36507936507937,galician <proxecto@trasno.net>
+kmymoney2,16764,25,7,2655,2,6,17637,16796,99.80947844724935,Galician <proxecto@trasno.ent>
+knemo,539,210,348,193,61,49,575,1097,49.13400182315406,Galego <proxecto@trasno.net>
+knetstats,118,0,0,53,0,0,145,118,100.0,Galician <trasno@ceu.fi.udc.es>
+konq-plugins,1601,34,57,516,8,22,1928,1692,94.62174940898345,Galician <proxecto@trasno.ent>
+konversation,9523,253,68,1444,60,13,10416,9844,96.73913043478261,Galego <proxecto@trasno.net>
+kopete-cryptography,408,0,0,41,0,0,434,408,100.0,Galego <kde-i18n-doc@kde.org>
+kpackagekit,1576,1067,148,262,278,29,1722,2791,56.46721605159441,Galician <proxecto@trasno.ent>
+kphotoalbum,6333,0,0,763,0,0,6767,6333,100.0,Galego <proxecto@trasno.net>
+kpilot,7156,0,0,861,0,0,7987,7156,100.0,Galician <proxecto@trasno.net>
+krecipes,3087,0,0,568,0,0,3344,3087,100.0,Galician <trasno@ceu.fi.udc.es>
+krusader,7196,224,160,1577,59,35,8486,7580,94.93403693931398,Galego <kde-i18n-doc@kde.org>
+ksig,85,0,0,26,0,0,90,85,100.0,galician <proxecto@trasno.net>
+kst,348,318,6731,86,109,1604,428,7397,4.70460997701771,Galician <trasno@ceu.fi.udc.es>
+ktorrent,7473,86,6,1341,6,2,8281,7565,98.78387309980172,Galego <kde-i18n-doc@kde.org>
+libbonobo,543,0,0,107,0,0,686,543,100.0,Galego <proxecto@trasno.net>
+libbonoboui,368,0,0,115,0,0,445,368,100.0,Galego <proxecto@trasno.net>
+libgda,0,938,4299,0,194,769,0,5237,0.0,Galician <trasno@ceu.fi.udc.es>
+libgdata,344,0,0,41,0,0,351,344,100.0,Galician <gnome@mancomun.org>
+libgdl,602,0,0,93,0,0,658,602,100.0,Galego <proxecto@trasno.net>
+libgnome,1772,0,0,273,0,0,2221,1772,100.0,Galego <proxecto@trasno.net>
+libgnomecanvas,378,0,0,95,0,0,549,378,100.0,Galego <proxecto@trasno.net>
+libgnomecups,11,0,0,10,0,0,11,11,100.0,Galego
+libgnomedb,23,432,2649,18,167,444,27,3104,0.7409793814432989,Galician <trasno@ceu.fi.udc.es>
+libgnomekbd,235,0,0,49,0,0,281,235,100.0,Galego <proxecto@trasno.net>
+libgnomeprint22,168,0,0,98,0,0,191,168,100.0,Galego
+libgnomeprintui22,481,0,0,154,0,0,549,481,100.0,Galego <proxecto@trasno.net>
+libgnomeui,1309,0,0,334,0,0,1525,1309,100.0,Galego <proxecto@trasno.net>
+libgtop2,126,0,0,40,0,0,161,126,100.0,Galego <proxecto@trasno.net>
+libgweather,6048,0,0,4517,0,0,6211,6048,100.0,Galego <proxecto@trasno.net>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,25,0,0,14,0,0,29,25,100.0,Galician <trasno@ceu.fi.udc.es>
+liblicense,30,0,36,24,0,26,29,66,45.45454545454545,LANGUAGE <LL@li.org>
+libpaper,73,0,0,46,0,0,77,73,100.0,Galician <trasno@ceu.fi.udc.es>
+libvirt,1165,5089,3159,271,995,568,1165,9413,12.376500584298311,none
+libwnck,1124,0,0,241,0,0,1387,1124,100.0,Galego <proxecto@trasno.net>
+libxfce4menu,31,0,0,5,0,0,45,31,100.0,Galician <proxecto@trasno.net>
+libxfce4util,5,0,408,1,0,3,7,413,1.2106537530266344,Galician <proxecto@trasno.net>
+libxfcegui4,234,0,0,61,0,0,253,234,100.0,Galician <proxecto@trasno.net>
+lincity-ng,1937,6,0,453,3,0,2020,1943,99.69119917653114,Galician <xabiercs@terra.es>
+listen,660,79,1003,288,24,224,758,1742,37.88748564867968,Galician <gl@li.org>
+lxappearance,0,0,96,0,0,39,0,96,0.0,LANGUAGE <LL@li.org>
+lxdm,11,0,0,10,0,0,13,11,100.0,LANGUAGE <LL@li.org>
+lxlauncher,0,0,51,0,0,11,0,51,0.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,120,97,100.0,Galego <proxecto@trasno.net>
+lxpanel,874,14,7,294,3,2,1046,895,97.6536312849162,Proxecto Trasno <proxecto@trasno.net>
+lxrandr,0,0,102,0,0,22,0,102,0.0,LANGUAGE <LL@li.org>
+lxsession,0,0,37,0,0,15,0,37,0.0,LANGUAGE <LL@li.org>
+lxsession-edit,0,0,58,0,0,10,0,58,0.0,LANGUAGE <LL@li.org>
+lxshortcut,0,0,43,0,0,19,0,43,0.0,LANGUAGE <LL@li.org>
+lxtask,13,0,99,7,0,36,17,112,11.607142857142858,Galician <gl@li.org>
+lxterminal,0,0,100,0,0,67,0,100,0.0,LANGUAGE <LL@li.org>
+lyx,8650,2678,3130,3336,996,410,9187,14458,59.82846866786554,Galician <gl@li.org>
+mailman,15984,293,5627,1220,13,122,18207,21904,72.97297297297297,Galician <mancomun@mancomun.org>
+make,1741,156,100,354,27,13,2111,1997,87.1807711567351,Galician <gpul-traduccion@ceu.fi.udc.es>
+meiga,306,29,0,76,7,0,318,335,91.34328358208955,Galician <gl_ES@li.org>
+metacity,8009,0,0,515,0,0,9011,8009,100.0,Galego <proxecto@trasno.net>
+midori,1951,0,0,517,0,0,2415,1951,100.0,Galician <proxecto@trasno.net>
+mingw32-atk,370,1,4,123,1,2,426,375,98.66666666666667,Galego <trasno@ceu.fi.udc.es>
+mingw32-gettext,587,1151,4740,101,88,424,690,6478,9.06143871565298,Galician <gpul-traduccion@ceu.fi.udc.es>
+mingw32-glib2,2195,43,112,350,10,12,2841,2350,93.40425531914893,Galician <gnome@mancomun.org>
+mingw32-gtk2,12923,0,5,2642,0,1,15527,12928,99.96132425742574,Galician <gnome@mancomun.org>
+mingw32-gtkhtml3,695,0,0,362,0,0,824,695,100.0,Galician <gnome@mancomun.org>
+mingw32-iconv,15,32,289,4,9,33,16,336,4.464285714285714,Galician <gpul-traduccion@ceu.fi.udc.es>
+moin,1742,1049,1735,403,137,196,2061,4526,38.48873177198409,
+monodevelop,4999,3131,4681,1461,893,666,5646,12811,39.02115369604247,Galego <proxecto@trasno.net>
+mousepad,109,21,5,54,9,1,135,135,80.74074074074075,Galician <proxecto@trasno.net>
+mousetweaks,638,0,0,67,0,0,737,638,100.0,Galego <proxecto@trasno.net>
+mtpaint,2671,0,223,788,0,48,2776,2894,92.29440221147202,GALPon MiniNo <mbouzada@gmail.com>
+mutt,3138,1176,962,731,222,146,3414,5276,59.476876421531465,Galician <trasno@ceu.fi.udc.es>
+nano,2249,0,0,362,0,0,2342,2249,100.0,Galician <gpul-traduccion@ceu.fi.udc.es>
+nautilus,8197,0,0,1322,0,0,8724,8197,100.0,Galego <proxecto@trasno.net>
+nautilus-actions,1132,320,102,135,24,11,1171,1554,72.84427284427284,Galego <trasno@ceu.fi.udc.es>
+nautilus-cd-burner,1315,0,0,213,0,0,1476,1315,100.0,Galego <proxecto@trasno.net>
+nautilus-open-terminal,82,0,0,7,0,0,74,82,100.0,Galego <proxecto@trasno.net>
+nautilus-sendto,171,0,0,39,0,0,185,171,100.0,Galego <proxecto@trasno.net>
+ncmpc,683,0,0,247,0,0,830,683,100.0,galician
+newt,4,0,0,4,0,0,4,4,100.0,Galician <trasno@ceu.fi.udc.es>
+nssbackup,107,5,1889,21,3,304,122,2001,5.347326336831585,Galician <gl@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+orage,685,446,979,446,243,80,765,2110,32.46445497630332,Galician <proxecto@trasno.net>
+orca,3682,0,0,1264,0,0,4547,3682,100.0,Galego <proxecto@trasno.net>
+pan,29,1229,1030,23,374,203,34,2288,1.2674825174825175,Galician <trasno@ceu.fi.udc.es>
+paperbox,26,0,0,12,0,0,29,26,100.0,Galego <proxecto@trasno.net>
+parole,441,0,9,179,0,3,573,450,98.0,Galician <proxecto@trasno.net>
+parted,1237,1580,2019,188,140,241,1433,4836,25.578990901571547,Galician <gpul-traduccion@ceu.fi.udc.es>
+partimage,2071,620,191,309,22,35,2264,2882,71.85981956974324,Galician <trasno@gpul.org>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pcmanfm,0,0,1520,0,0,388,0,1520,0.0,LANGUAGE <LL@li.org>
+pessulus,124,0,0,32,0,0,157,124,100.0,Galego <proxecto@trasno.net>
+pgadmin3,7036,1492,478,2110,339,82,8234,9006,78.12569398178992,The pgAdmin Development Team <pgadmin-hackers@postgresql.org>
+phatch,1122,0,1431,393,0,431,1227,2553,43.94829612220917,Galician <gl@li.org>
+picard,1303,5,2,600,4,1,1545,1310,99.46564885496183,Galician <gl@li.org>
+pidgin,16433,1054,657,3610,265,112,19291,18144,90.56988536155202,Galician <g11n@mancomun.org>
+pidgin-guifications,505,0,0,192,0,0,517,505,100.0,Galego <trasno@ceu.fi.udc.es>
+pidgin-libnotify,31,5,0,11,1,0,34,36,86.11111111111111,Galego <proxecto@trasno.net>
+pitivi,1208,0,0,285,0,0,1353,1208,100.0,Galician <gnome@mancomun.org>
+planner,1796,0,0,526,0,0,2237,1796,100.0,Galego <LL@li.org>
+poedit,1148,14,0,267,2,0,1326,1162,98.79518072289156,Galician <proxecto@trasno.net>
+policycoreutils,0,0,4363,0,0,713,0,4363,0.0,
+popt,55,5,15,22,1,4,64,75,73.33333333333333,Galician <trasno@ceu.fi.udc.es>
+printoxx,177,15,0,82,2,0,199,192,92.1875,GALPon MiniNo <minino@galpon.org>
+pychess,38,0,1633,27,0,318,41,1671,2.2740873728306403,Galician <gl@li.org>
+pykickstart,3,12,269,1,1,23,3,284,1.056338028169014,<gl@li.org>
+quodlibet,3744,258,0,1070,8,0,4381,4002,93.55322338830585,GALICIAN
+recode,672,115,42,62,7,10,737,829,81.0615199034982,Galician <gpul-traduccion@ceu.fi.udc.es>
+redhat-menus,132,1,128,52,1,33,157,261,50.57471264367817,<gl@li.org>
+referencer,309,0,570,139,0,111,324,879,35.153583617747444,Galician <gl@li.org>
+rekonq,366,94,51,97,14,14,426,511,71.62426614481409,Galician <kde-i18n-doc@kde.org>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhpl,117,4,64,61,2,17,120,185,63.24324324324324,<gl@li.org>
+rhpxl,51,0,69,22,0,21,60,120,42.5,<gl@li.org>
+rhythmbox,4160,0,0,945,0,0,5175,4160,100.0,Galego <proxecto@trasno.net>
+ristretto,187,0,0,57,0,0,236,187,100.0,Galician <proxecto@trasno.net>
+rsibreak,888,290,45,129,16,15,856,1223,72.60834014717906,Galician <proxecto@trasno.net>
+sabayon,1178,0,0,230,0,0,1381,1178,100.0,Galego <proxecto@trasno.net>
+sbackup,247,40,426,42,3,67,266,713,34.642356241234225,Galician <gl@li.org>
+seahorse,3049,0,0,646,0,0,3680,3049,100.0,Galego <proxecto@trasno.net>
+seahorse-plugins,1159,0,0,247,0,0,1461,1159,100.0,Galego <proxecto@trasno.net>
+sed,490,54,37,84,2,3,612,581,84.33734939759037,Galician <proxecto@trasno.net>
+setroubleshoot,0,0,593,0,0,168,0,593,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+setuptool,54,0,6,16,0,1,67,60,90.0,<gl@li.org>
+shadow-utils,1120,1570,578,227,100,51,1417,3268,34.27172582619339,Galician <trasno@ceu.fi.udc.es>
+sharutils,534,319,186,71,49,31,628,1039,51.395572666025025,Galician <gpul-traduccion@ceu.fi.udc.es>
+skanlite,142,0,0,51,0,0,169,142,100.0,Galego <kde-i18n-doc@kde.org>
+skrooge,714,2760,1197,172,797,173,750,4671,15.285806037251124,Galego <kde-i18n-doc@kde.org>
+solfege,7897,0,0,1287,0,0,8506,7897,100.0,Galician <proxecto@trasno.net>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,1024,0,0,198,0,0,1211,1024,100.0,Galego <proxecto@trasno.net>
+soundtracker,820,305,523,229,114,126,891,1648,49.75728155339806,Galician <gpul-traduccion@ceu.fi.udc.es>
+specspo,0,0,305294,0,0,16850,0,305294,0.0,English <LL@li.org>
+stellarium,2362,53,24,922,7,7,2605,2439,96.84296842968429,Galician <gl@li.org>
+subdownloader,953,0,0,272,0,0,1034,953,100.0,LANGUAGE <LL@li.org>
+subtitleeditor,32,30,1755,19,6,521,44,1817,1.7611447440836543,Galician <gl@li.org>
+supertuxkart,928,0,0,202,0,0,989,928,100.0,Proxecto Trasno <proxecto@trasno.net>
+swfdec-gnome,101,0,0,28,0,0,123,101,100.0,Galego <proxecto@trasno.net>
+switchdesk,137,0,0,19,0,0,151,137,100.0,<gl@li.org>
+sylpheed,3786,1568,917,1059,403,122,4264,6271,60.37314622867166,Jorge Rivas
+system-config-boot,41,0,5,9,0,1,52,46,89.13043478260869,<gl@li.org>
+system-config-date,600,78,360,547,44,26,612,1038,57.80346820809249,<gl@li.org>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-httpd,674,36,148,166,15,42,778,858,78.55477855477857,<gl@li.org>
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,78,0,0,12,0,0,92,78,100.0,<gl@li.org>
+system-config-language,45,0,0,10,0,0,48,45,100.0,<gl@li.org>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,15,26,75,3,5,11,15,116,12.931034482758621,<gl@li.org>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,9,0,125,9,0,11,9,134,6.7164179104477615,<gl@li.org>
+tar,702,745,1800,144,96,292,887,3247,21.61995688327687,Galician <gpul-traduccion@ceu.fi.udc.es>
+tasks,301,0,0,100,0,0,297,301,100.0,Galician <gnome@mancomun.org>
+teg,2378,0,0,583,0,0,2375,2378,100.0,Galego
+tellico,5007,325,144,1071,35,13,5516,5476,91.43535427319212,Galician <proxecto@trasno.ent>
+terminator,0,0,269,0,0,88,0,269,0.0,Galician <gl@li.org>
+thunar-media-tags-plugin,41,0,103,17,0,32,41,144,28.47222222222222,Galician <gl@li.org>
+thunar-vcs-plugin,152,306,40,106,151,22,182,498,30.522088353413658,Galician <proxecto@trasno.net>
+thunar-volman,6,0,364,5,0,80,6,370,1.6216216216216217,Galician <proxecto@trasno.net>
+tomboy,2600,0,0,404,0,0,2928,2600,100.0,Galego <proxecto@trasno.net>
+totem,2815,0,0,601,0,0,3377,2815,100.0,Galego <proxecto@trasno.net>
+totem-pl-parser,40,0,0,9,0,0,45,40,100.0,Galego <proxecto@trasno.net>
+tracker,2127,0,0,440,0,0,2502,2127,100.0,Galician <proxecto@trasno.net>
+transmission,1583,0,59,442,0,7,1869,1642,96.4068209500609,Galician <LL@li.org>
+turba,516,0,0,118,0,0,587,516,100.0,Galego
+tuxpaint,537,156,68,145,19,22,541,761,70.56504599211564,Galician <gpul-traduccion@ceu.fi.udc.es>
+tuxpaint-stamps,716,491,1410,187,190,249,729,2617,27.359572029040883,galician <trasno@ceu.fi.udc.es>
+usermode,320,15,227,62,5,27,332,562,56.93950177935944,<gl@li.org>
+vidalia,0,0,2927,0,0,657,0,2927,0.0,LANGUAGE <LL@li.org>
+vinagre,938,0,0,168,0,0,1090,938,100.0,Galego <proxecto@trasno.net>
+vino,1054,0,0,112,0,0,1156,1054,100.0,Galego <proxecto@trasno.net>
+virtaal,1116,0,0,290,0,0,1311,1116,100.0,Galician Proxecto Trasno <proxecto@trasno.net>
+vte,84,0,0,14,0,0,114,84,100.0,Galego <proxecto@trasno.net>
+wammu,420,3,3859,110,1,679,487,4282,9.808500700607192,none
+watchdog,97,0,0,6,0,0,100,97,100.0,Galician <proxecto@trasno.net>
+wesnoth,112820,8104,91712,9042,471,3596,110956,212636,53.05780770894862,Galician <proxecto@trasno.net>
+wget,487,434,1339,117,78,199,618,2260,21.548672566371682,Galician <gpul-traduccion@ceu.fi.udc.es>
+widelands,6095,7075,4124,890,292,393,6104,17294,35.24343703018388,Galician/Spain <widelands-public@lists.sourceforge.net>
+wormux,1811,0,0,317,0,0,2036,1811,100.0,Proxecto Trasno <proxecto@trasno.net>
+wxGTK,2300,3355,736,620,602,253,2740,6391,35.9881082772649,Adrián González Alba <correoadrian82@hotmail.com>
+wxPython,4425,3391,826,1267,619,272,5199,8642,51.20342513307104,Adrián González Alba <correoadrian82@hotmail.com>
+xcdroast,4415,366,3263,569,63,216,4850,8044,54.885629040278474,Galician
+xchat,4753,97,177,1170,32,30,5344,5027,94.54943306146806,Galego <trasno@ceu.fi.udc.es>
+xchat-gnome,2050,865,996,610,214,159,2324,3911,52.41626182562005,Galego <proxecto@trasno.net>
+xfburn,1082,36,178,243,13,25,1230,1296,83.48765432098766,Galician <proxecto@trasno.net>
+xfce-utils,121,5,5,34,1,1,136,131,92.36641221374046,Galician <proxecto@trasno.net>
+xfce4-appfinder,83,0,1,18,0,1,108,84,98.80952380952381,Galician <proxecto@trasno.net>
+xfce4-battery-plugin,27,0,96,9,0,22,32,123,21.951219512195124,Galician <proxecto@trasno.net>
+xfce4-clipman-plugin,226,0,0,41,0,0,265,226,100.0,Galician <proxecto@trasno.net>
+xfce4-datetime-plugin,21,0,32,11,0,8,25,53,39.62264150943396,Galician <proxecto@trasno.net>
+xfce4-dict,386,0,0,84,0,0,434,386,100.0,Galician <proxecto@trasno.net>
+xfce4-fsguard-plugin,28,0,36,10,0,9,32,64,43.75,Galician <proxecto@trasno.net>
+xfce4-mailwatch-plugin,43,23,593,18,4,88,42,659,6.525037936267071,Galician <proxecto@trasno.net>
+xfce4-mixer,91,13,77,25,7,5,108,181,50.27624309392266,Galician <proxecto@trasno.net>
+xfce4-mount-plugin,73,90,135,14,17,13,73,298,24.496644295302016,Galician <xfce-i18n@xfce.org>
+xfce4-mpc-plugin,80,0,0,24,0,0,101,80,100.0,Galician <proxecto@trasno.net>
+xfce4-notes-plugin,33,32,38,18,10,12,34,103,32.038834951456316,Galician <proxecto@trasno.net>
+xfce4-panel,525,3,12,162,1,4,628,540,97.22222222222221,Galician <proxecto@trasno.net>
+xfce4-places-plugin,75,0,0,32,0,0,83,75,100.0,Galician <proxecto@trasno.net>
+xfce4-power-manager,555,27,112,148,2,5,721,694,79.97118155619597,Galician <proxecto@trasno.net>
+xfce4-quicklauncher-plugin,28,0,15,9,0,8,26,43,65.11627906976744,Galician <gl@li.org>
+xfce4-radio-plugin,6,0,50,5,0,18,6,56,10.714285714285714,Galician <proxecto@trasno.net>
+xfce4-screenshooter,3,0,220,2,0,35,4,223,1.345291479820628,Galician <proxecto@trasno.net>
+xfce4-sensors-plugin,10,8,309,8,4,53,10,327,3.058103975535168,Galician <proxecto@trasno.net>
+xfce4-session,448,236,306,119,51,29,508,990,45.25252525252525,Galician <proxecto@trasno.net>
+xfce4-settings,395,80,663,165,32,50,470,1138,34.71001757469244,Galician <proxecto@trasno.net>
+xfce4-systemload-plugin,4,0,50,2,0,16,5,54,7.4074074074074066,Galician <gl@li.org>
+xfce4-taskmanager,22,0,45,14,0,17,29,67,32.83582089552239,Galician <proxecto@trasno.net>
+xfce4-timer-plugin,38,0,56,18,0,14,39,94,40.42553191489361,Galician <proxecto@trasno.net>
+xfce4-verve-plugin,7,0,40,4,0,6,9,47,14.893617021276595,Galician <proxecto@trasno.net>
+xfce4-wavelan-plugin,49,0,0,11,0,0,54,49,100.0,Galician <proxecto@trasno.net>
+xfce4-weather-plugin,168,293,94,79,128,50,186,555,30.270270270270274,Galician <proxecto@trasno.net>
+xfce4-xkb-plugin,2,3,56,2,1,14,2,61,3.278688524590164,Galician <proxecto@trasno.net>
+xfconf,73,147,201,14,28,19,94,421,17.339667458432302,Galician <proxecto@trasno.net>
+xfdesktop,138,513,353,89,141,38,164,1004,13.745019920318724,Galician <proxecto@trasno.net>
+xfmpc,36,4,84,19,1,35,67,124,29.03225806451613,Galician <proxecto@trasno.net>
+xfprint,71,176,75,47,53,13,82,322,22.049689440993788,Galician <proxecto@trasno.net>
+xfwm4,173,295,329,90,90,44,270,797,21.706398996235883,Galician <proxecto@trasno.net>
+xmms,2322,591,530,832,118,95,2708,3443,67.44118501307,Galician <trasno@ceu.fi.udc.es>
+yakuake,876,75,337,148,12,39,951,1288,68.01242236024845,galician <proxecto@trasno.net>
+yelp,1035,0,0,349,0,0,1179,1035,100.0,Galego <proxecto@trasno.net>
+zenity,582,0,0,135,0,0,725,582,100.0,Galego <proxecto@trasno.net>

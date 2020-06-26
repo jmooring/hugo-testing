@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,264,0,10232,241,0,7466,268,10496,2.5152439024390247,Maltese <mt@li.org>
+gettext,366,0,0,71,0,0,363,366,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+gnome-do,62,0,550,16,0,128,62,612,10.130718954248366,Maltese <mt@li.org>
+gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+iso-codes,759,5556,6169,638,4485,3592,765,12484,6.079782121115027,Maltese <mt@li.org>
+koffice-kivio,1910,1752,4755,559,762,1040,1775,8417,22.69217060710467,Maltese <mt@li.org>
+krecipes,0,0,3087,0,0,568,0,3087,0.0,<en@li.org>
+libkexif,21,4,0,13,1,0,22,25,84.0,Maltese <mt@li.org>
+mingw-gettext,366,0,0,71,0,0,363,366,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,66,4,26,11,1,2,60,96,68.75,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,473,193,148,90,50,50,448,814,58.108108108108105,Maltese <translation-team-mt@lists.sourceforge.net>
+oggconvert,123,0,9,40,0,4,118,132,93.18181818181817,Maltese <mt@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+pootle,101,188,2135,55,40,364,107,2424,4.166666666666666,LANGUAGE <LL@li.org>
+stellarium,64,0,9222,60,0,2729,66,9286,0.6892095627826836,Maltese <mt@li.org>
+sysstat,412,0,0,51,0,0,432,412,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+transmission,19,0,1790,11,0,483,19,1809,1.0503040353786623,Maltese <mt@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

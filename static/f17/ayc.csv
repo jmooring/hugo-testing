@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+sugar-flip,17,0,0,7,0,0,16,17,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,75,0,0,32,0,0,71,75,100.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,68,0,0,23,0,0,53,68,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,281,0,0,94,0,0,263,281,100.0,LANGUAGE <LL@li.org>
+sugar-locosugar,74,0,0,12,0,0,62,74,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,204,155,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,192,0,0,91,0,0,181,192,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,24,0,0,6,0,0,17,24,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,23,0,0,6,0,0,16,23,100.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,82 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,1303,0,766,371,0,94,1143,2069,62.977283711938135,
+Miro,448,2,3166,225,1,423,423,3616,12.389380530973451,Telugu <te@li.org>
+alacarte,74,0,0,30,0,0,80,74,100.0,Swecha <localisation@swecha.org>
+anaconda,7920,1721,471,1062,132,44,6180,10112,78.32278481012658,<en@li.org>
+atk,370,0,0,123,0,0,299,370,100.0,Swecha <localisation@swecha.org>
+authconfig,1098,0,0,217,0,0,930,1098,100.0,Telugu <en@li.org>
+autorun,0,0,307,0,0,40,0,307,0.0,LANGUAGE <LL@li.org>
+chkconfig,417,13,0,86,2,0,347,430,96.97674418604652,<en@li.org>
+compiz,66,0,0,11,0,0,56,66,100.0,Telugu <en@li.org>
+control-center,1489,193,1700,228,34,474,1140,3382,44.027202838557066,Prajasakti Localisation Team <localisation@prajasakti.com>
+epiphany,1179,336,1889,372,59,359,1036,3404,34.63572267920094,Prajasakti Localisation Team <localisation@prajasakti.com>
+evolution,3072,1243,12887,936,351,2993,2587,17202,17.85838855946983,Prajasakti Localisation Team <localisation@prajasakti.com>
+evolution-webcal,129,0,51,26,0,3,96,180,71.66666666666667,Swecha <localisation@swecha.org>
+exaile,127,0,2453,85,0,598,131,2580,4.922480620155039,Telugu <te@li.org>
+file-roller,928,29,14,238,4,2,773,971,95.57157569515962,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+firstboot,499,2,97,56,1,2,357,598,83.4448160535117,Telugu <en@li.org>
+fuse-encfs,357,17,936,37,2,90,355,1310,27.25190839694657,Telugu <te@li.org>
+gcalctool,478,229,208,212,69,97,499,915,52.240437158469945,Prajasakti Localisation Team <localisation@prajasakti.com>
+gconf-editor,334,0,0,98,0,0,315,334,100.0,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+gedit,189,41,3976,99,23,898,188,4206,4.49358059914408,Prajasakti Localisation Team <localisation@prajasakti.com>
+glade3,1972,19,1188,690,3,161,1769,3179,62.03208556149733,Swecha Telugu Localisation Team <localisation@swecha.org>
+glib2,950,171,92,109,24,12,756,1213,78.31821929101402,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+gnome-applets,3988,56,0,953,3,0,3437,4044,98.61523244312562,Prajasakti Localisation Team <localisation@prajasakti.com>
+gnome-backgrounds,35,0,0,10,0,0,76,35,100.0,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+gnome-desktop,302,16,5,69,3,1,247,323,93.49845201238391,Prajasakti Localisation Team <localisation@prajasakti.com>
+gnome-icon-theme,44,0,9,38,0,9,45,53,83.01886792452831,Swecha Telugu Localisation <indlinux-telugu@lists.sourceforge.net>
+gnome-menus,102,0,34,43,0,6,100,136,75.0,Telugu <localisation@swecha.org>
+gnome-panel,1044,192,2723,221,27,270,844,3959,26.370295529174033,Prajasakti Localisation Team <localisation@prajasakti.com>
+gnomebaker,271,0,915,90,0,201,309,1186,22.849915682967957,Telugu <te@li.org>
+gnumeric,1739,157,42954,675,61,2797,1665,44850,3.8773690078037903,Prajasakti Localisation Team <localisation@prajasakti.com>
+gtk2,3766,1002,6834,742,248,1315,2939,11602,32.45992070332701,Prajasakti Localisation Team <localisation@prajasakti.com>
+hwbrowser,117,0,0,52,0,0,103,117,100.0,Telugu <en@li.org>
+im-chooser,125,0,0,15,0,0,104,125,100.0,<en@li.org>
+initscripts,3182,196,119,711,57,17,2914,3497,90.9922790963683,Telugu <en@li.org>
+iso-codes,3,9,12008,3,9,8484,4,12020,0.02495840266222962,Telugu
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kudzu,73,0,0,13,0,0,58,73,100.0,<en@li.org>
+libgnomeprint22,168,0,0,98,0,0,176,168,100.0,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+libgnomeprintui22,410,11,6,125,6,4,333,427,96.01873536299766,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+libgnomeui,917,59,443,252,15,78,730,1419,64.6229739252995,Prajasakti Localisation Team <localisation@prajasakti.com>
+libgtop2,131,0,3,42,0,2,117,134,97.76119402985076,Swecha <localisation@swecha.org>
+libvirt,2331,0,6,516,0,1,2089,2337,99.74326059050064,Telugu <en@li.org>
+libwnck,48,0,39,22,0,10,55,87,55.172413793103445,Swecha <localisation@swecha.org>
+nautilus,4954,493,2028,1115,92,107,3528,7475,66.27424749163879,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+nautilus-cd-burner,602,0,636,131,0,63,502,1238,48.62681744749596,"Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>"
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pgadmin3,50,9,7285,42,6,2114,50,7344,0.6808278867102396,The pgAdmin Development Team <devteam@pgadmin.org>
+pidgin,13873,895,1178,2875,294,213,12406,15946,86.99987457669634,GIST CDAC Pune / BharateeyaOO.o <info.gist@cdac.in / bharateeyaoo@ncb.ernet.in>
+pirut,815,0,0,178,0,0,732,815,100.0,Telugu
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,167,0,73,13,0,9,141,240,69.58333333333333,Telugu <en@li.org>
+redhat-menus,246,5,10,78,3,5,234,261,94.25287356321839,<en@li.org>
+rhgb,95,26,0,24,5,0,83,121,78.51239669421489,<en@li.org>
+rhpl,185,0,0,80,0,0,176,185,100.0,<en@li.org>
+rhpxl,136,0,0,43,0,0,129,136,100.0,<en@li.org>
+setroubleshoot,0,0,7269,0,0,328,0,7269,0.0,LANGUAGE <LL@li.org>
+setuptool,60,0,0,17,0,0,59,60,100.0,<en@li.org>
+specspo,0,0,78167,0,0,4377,0,78167,0.0,LANGUAGE <LL@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,LANGUAGE <LL@li.org>
+system-config-bind,0,0,9318,0,0,1054,0,9318,0.0,LANGUAGE <LL@li.org>
+system-config-boot,41,0,0,9,0,0,35,41,100.0,<en@li.org>
+system-config-date,956,14,33,601,3,6,910,1003,95.31405782652044,Telugu <en@li.org>
+system-config-display,398,0,0,63,0,0,373,398,100.0,Telugu <en@li.org>
+system-config-httpd,858,0,0,223,0,0,716,858,100.0,Telugu <en@li.org>
+system-config-keyboard,78,0,0,12,0,0,63,78,100.0,<en@li.org>
+system-config-kickstart,988,23,17,264,5,3,890,1028,96.10894941634241,Telugu <en@li.org>
+system-config-language,49,0,0,11,0,0,38,49,100.0,Telugu <en@li.org>
+system-config-lvm,2049,33,2,320,2,1,1682,2084,98.32053742802303,Telugu <en@li.org>
+system-config-network,2880,66,9,707,13,6,2488,2955,97.46192893401016,Telugu <en@li.org>
+system-config-nfs,318,0,0,73,0,0,311,318,100.0,<en@li.org>
+system-config-printer,769,122,433,200,42,93,633,1324,58.08157099697885,Telugu <en@li.org>
+system-config-rootpassword,50,0,0,9,0,0,40,50,100.0,<en@li.org>
+system-config-samba,383,9,31,133,2,3,385,423,90.54373522458629,<en@li.org>
+system-config-securitylevel,1135,7,3,88,2,1,837,1145,99.12663755458514,Telugu <en@li.org>
+system-config-services,232,0,0,62,0,0,215,232,100.0,<en@li.org>
+system-config-soundcard,224,0,0,51,0,0,195,224,100.0,<en@li.org>
+system-config-users,775,155,101,136,16,6,666,1031,75.16973811833172,<en@li.org>
+system-switch-mail,134,0,0,20,0,0,119,134,100.0,<en@li.org>
+totem,735,143,800,130,28,201,555,1678,43.80214541120381,Prajasakti Localisation Team <localisation@prajasakti.com>
+usermode,556,2,12,93,1,2,462,570,97.54385964912281,Telugu <en@li.org>
+virt-manager,791,515,1457,201,151,244,722,2763,28.628302569670648,Telugu <en@li.org>

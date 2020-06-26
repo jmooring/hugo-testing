@@ -1,0 +1,40 @@
+---
+title: "scim-python - translation progress for f12"
+package: scim-python
+date: 2026-01-17T08:32:27+00:00
+started_languages: 2
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 2
+release: f12
+---
+The package scim-python (version 0.1.13rc1):
+
+* represents 362 source words to be translated
+* is translated into 2 languages in Fedora f12
+
+
+* contains 2 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 324 | 362 | 89.5 | /mnt/stockage/packages/f12/scim-python/po/zh_CN.po | 
+ | [nl]({{< ref "/f12/language/nl.md" >}}) | 52 | 362 | 14.4 | /mnt/stockage/packages/f12/scim-python/po/nl.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

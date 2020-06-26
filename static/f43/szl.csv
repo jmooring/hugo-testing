@@ -1,0 +1,35 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,304,0,15946,129,0,3718,319,16250,1.8707692307692307,Silesian <szl@li.org>
+deja-dup,1351,0,272,225,0,60,1288,1623,83.24091189155884,Silesian <szl@li.org>
+elementary-calculator,76,14,84,36,6,20,76,174,43.67816091954023,Silesian <https://l10n.elementary.io/projects/calculator/calculator/szl/>
+elementary-calendar,481,36,153,183,17,33,482,670,71.7910447761194,Silesian <https://l10n.elementary.io/projects/calendar/calendar/szl/>
+elementary-camera,54,5,82,13,2,21,52,141,38.297872340425535,Silesian <https://l10n.elementary.io/projects/camera/camera/szl/>
+elementary-code,289,182,1757,110,54,220,281,2228,12.971274685816875,Silesian <https://l10n.elementary.io/projects/code/code/szl/>
+elementary-files,1717,330,609,358,99,110,1760,2656,64.6460843373494,Silesian <https://l10n.elementary.io/projects/files/files/szl/>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,221,148,492,78,41,88,222,861,25.667828106852497,Silesian <https://l10n.elementary.io/projects/mail/mail/szl/>
+elementary-music,8,27,196,8,11,26,8,231,3.463203463203463,Silesian <https://l10n.elementary.io/projects/music/music/szl/>
+elementary-notifications,5,0,37,3,0,6,5,42,11.904761904761903,Silesian <https://l10n.elementaryos.org/projects/desktop/notifications-extra/szl/>
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,none
+elementary-screenshot,92,6,30,26,4,7,92,128,71.875,Silesian <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/szl/>
+elementary-settings-daemon,7,0,296,4,0,66,7,303,2.31023102310231,Silesian <https://l10n.elementary.io/projects/desktop/settings-daemon/szl/>
+folder-color-switcher,49,0,16,20,0,3,39,65,75.38461538461539,Silesian <szl@li.org>
+gala,70,38,211,20,8,39,72,319,21.9435736677116,Silesian <https://l10n.elementary.io/projects/desktop/gala/szl/>
+gnome-menus,103,0,0,39,0,0,93,103,100.0,Silesian <szl@li.org>
+granite,109,4,385,56,2,60,116,498,21.88755020080321,Silesian <https://l10n.elementary.io/projects/desktop/granite/szl/>
+granite-7,67,6,523,40,3,69,78,596,11.241610738255034,Silesian <https://l10n.elementary.io/projects/desktop/granite/szl/>
+libreoffice,90711,0,87284,30122,0,9785,85970,177995,50.962667490659854,Silesian <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/szl/>
+mc,0,0,4435,0,0,1267,0,4435,0.0,Silesian (http://app.transifex.com/mc/mc/language/szl/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,467,0,0,79,0,467,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,937,0,0,259,0,937,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5165,0,0,642,0,5165,0.0,LANGUAGE <LL@li.org>
+rhythmbox-alternative-toolbar,291,0,0,57,0,0,264,291,100.0,Silesian <szl@li.org>
+slick-greeter,216,0,0,49,0,0,188,216,100.0,Silesian <szl@li.org>
+supertuxkart,5217,0,726,1015,0,95,4780,5943,87.78394750126199,Silesian (http://app.transifex.com/supertuxkart/supertuxkart/language/szl/)
+wingpanel,20,0,37,5,0,5,19,57,35.08771929824561,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel/szl/>
+wingpanel-indicator-a11y,22,0,33,9,0,8,23,55,40.0,Silesian <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/szl/>
+wingpanel-indicator-bluetooth,21,19,40,14,5,11,21,80,26.25,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/szl/>
+wingpanel-indicator-datetime,41,17,45,11,3,11,39,103,39.80582524271845,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/szl/>
+wingpanel-indicator-keyboard,11,11,34,5,4,8,12,56,19.642857142857142,Silesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/szl/>

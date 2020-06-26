@@ -1,0 +1,66 @@
+---
+title: "libexif - translation progress for f42"
+package: libexif
+date: 2026-01-18T12:29:19+00:00
+started_languages: 28
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 28
+release: f42
+---
+The package libexif (version 0.6.25):
+
+* represents 7825 source words to be translated
+* is translated into 28 languages in Fedora f42
+
+
+* contains 28 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [es]({{< ref "/f42/language/es.md" >}}) | 7813 | 7825 | 99.8 | /mnt/stockage/packages/f42/libexif/po/es.po | 
+ | [pl]({{< ref "/f42/language/pl.md" >}}) | 7813 | 7825 | 99.8 | /mnt/stockage/packages/f42/libexif/po/pl.po | 
+ | [ro]({{< ref "/f42/language/ro.md" >}}) | 7813 | 7825 | 99.8 | /mnt/stockage/packages/f42/libexif/po/ro.po | 
+ | [sr]({{< ref "/f42/language/sr.md" >}}) | 7813 | 7825 | 99.8 | /mnt/stockage/packages/f42/libexif/po/sr.po | 
+ | [sv]({{< ref "/f42/language/sv.md" >}}) | 7813 | 7825 | 99.8 | /mnt/stockage/packages/f42/libexif/po/sv.po | 
+ | [uk]({{< ref "/f42/language/uk.md" >}}) | 7813 | 7825 | 99.8 | /mnt/stockage/packages/f42/libexif/po/uk.po | 
+ | [vi]({{< ref "/f42/language/vi.md" >}}) | 7813 | 7825 | 99.8 | /mnt/stockage/packages/f42/libexif/po/vi.po | 
+ | [de]({{< ref "/f42/language/de.md" >}}) | 7382 | 7825 | 94.3 | /mnt/stockage/packages/f42/libexif/po/de.po | 
+ | [fr]({{< ref "/f42/language/fr.md" >}}) | 7232 | 7825 | 92.4 | /mnt/stockage/packages/f42/libexif/po/fr.po | 
+ | [en_AU]({{< ref "/f42/language/en_AU.md" >}}) | 6978 | 7825 | 89.2 | /mnt/stockage/packages/f42/libexif/po/en_AU.po | 
+ | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 6978 | 7825 | 89.2 | /mnt/stockage/packages/f42/libexif/po/en_GB.po | 
+ | [da]({{< ref "/f42/language/da.md" >}}) | 6961 | 7825 | 89.0 | /mnt/stockage/packages/f42/libexif/po/da.po | 
+ | [bs]({{< ref "/f42/language/bs.md" >}}) | 6948 | 7825 | 88.8 | /mnt/stockage/packages/f42/libexif/po/bs.po | 
+ | [sk]({{< ref "/f42/language/sk.md" >}}) | 6895 | 7825 | 88.1 | /mnt/stockage/packages/f42/libexif/po/sk.po | 
+ | [nl]({{< ref "/f42/language/nl.md" >}}) | 6850 | 7825 | 87.5 | /mnt/stockage/packages/f42/libexif/po/nl.po | 
+ | [it]({{< ref "/f42/language/it.md" >}}) | 5010 | 7825 | 64.0 | /mnt/stockage/packages/f42/libexif/po/it.po | 
+ | [ru]({{< ref "/f42/language/ru.md" >}}) | 4316 | 7825 | 55.2 | /mnt/stockage/packages/f42/libexif/po/ru.po | 
+ | [tr]({{< ref "/f42/language/tr.md" >}}) | 3299 | 7825 | 42.2 | /mnt/stockage/packages/f42/libexif/po/tr.po | 
+ | [cs]({{< ref "/f42/language/cs.md" >}}) | 3296 | 7825 | 42.1 | /mnt/stockage/packages/f42/libexif/po/cs.po | 
+ | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 2852 | 7825 | 36.4 | /mnt/stockage/packages/f42/libexif/po/pt_BR.po | 
+ | [ka]({{< ref "/f42/language/ka.md" >}}) | 1942 | 7825 | 24.8 | /mnt/stockage/packages/f42/libexif/po/ka.po | 
+ | [ja]({{< ref "/f42/language/ja.md" >}}) | 1884 | 7825 | 24.1 | /mnt/stockage/packages/f42/libexif/po/ja.po | 
+ | [ms]({{< ref "/f42/language/ms.md" >}}) | 1279 | 7825 | 16.3 | /mnt/stockage/packages/f42/libexif/po/ms.po | 
+ | [en_CA]({{< ref "/f42/language/en_CA.md" >}}) | 705 | 7825 | 9.0 | /mnt/stockage/packages/f42/libexif/po/en_CA.po | 
+ | [pt]({{< ref "/f42/language/pt.md" >}}) | 656 | 7825 | 8.4 | /mnt/stockage/packages/f42/libexif/po/pt.po | 
+ | [be]({{< ref "/f42/language/be.md" >}}) | 638 | 7825 | 8.2 | /mnt/stockage/packages/f42/libexif/po/be.po | 
+ | [sq]({{< ref "/f42/language/sq.md" >}}) | 637 | 7825 | 8.1 | /mnt/stockage/packages/f42/libexif/po/sq.po | 
+ | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 196 | 7825 | 2.5 | /mnt/stockage/packages/f42/libexif/po/zh_CN.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

@@ -1,0 +1,708 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,4701,4088,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager,4330,2961,4217,826,472,413,4958,11508,37.62599930483142,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager-fortisslvpn,72,1,101,20,1,12,84,174,41.37931034482759,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager-iodine,63,0,14,17,0,5,69,77,81.81818181818183,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager-l2tp,153,29,601,41,8,81,167,783,19.54022988505747,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager-libreswan,139,0,0,36,0,0,153,139,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager-openconnect,463,156,2622,122,31,443,530,3241,14.285714285714285,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+NetworkManager-openvpn,356,0,435,96,0,43,373,791,45.0063211125158,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+NetworkManager-pptp,188,0,227,54,0,23,202,415,45.30120481927711,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager-ssh,39,55,192,17,15,37,41,286,13.636363636363635,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager-sstp,188,0,227,54,0,23,202,415,45.30120481927711,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+NetworkManager-vpnc,246,12,167,64,1,19,273,425,57.88235294117647,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+PackageKit,1273,0,2,318,0,1,1677,1275,99.84313725490196,Panjabi (Punjabi) (http://www.transifex.com/freedesktop/packagekit/language/pa/)
+Thunar,1960,0,2240,489,0,249,2029,4200,46.666666666666664,Panjabi (Punjabi) (https://www.transifex.com/xfce/teams/16840/pa/)
+abrt,2105,0,1864,284,0,192,2429,3969,53.03602922650542,Panjabi (Punjabi) (http://www.transifex.com/projects/p/fedora-abrt/language/pa/)
+accerciser,224,0,109,126,0,18,231,333,67.26726726726727,Punjabi <punjabi-l10n@lists.sf.net>
+accountsservice,59,0,0,10,0,0,62,59,100.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/freedesktop/language/pa/)
+aisleriot,2998,0,0,654,0,0,2937,2998,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+akonadi-calendar-tools,24,28,488,15,9,86,27,540,4.444444444444445,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+akregator,759,198,808,259,53,114,812,1765,43.0028328611898,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+alacarte,42,0,0,16,0,0,44,42,100.0,Punjabi <punjabi-l10n@lists.sf.net>
+alleyoop,89,0,257,43,0,45,95,346,25.722543352601157,Punjabi <punlinux-i18n@lists.sourceforge.>
+anaconda,3531,0,3677,812,0,394,4107,7208,48.98723640399556,Punjabi <punjabi-users@list.sf.net>
+anjuta,1089,979,5001,548,474,919,1164,7069,15.405290705898997,Punjabi <fedora-trans-pa@redhat.com>
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+asunder,17,0,478,15,0,76,18,495,3.4343434343434343,http://littlesvr.ca/ostd/
+at-spi2-core,10,0,0,2,0,0,14,10,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+atk,440,0,0,169,0,0,456,440,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+atomix,146,0,0,59,0,0,170,146,100.0,Punjabi <fedora-trans-pa@redhat.com>
+atril,1341,0,383,344,0,53,1479,1724,77.78422273781904,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+audience,0,0,106,0,0,48,0,106,0.0,
+authconfig,858,31,40,128,3,6,945,929,92.35737351991389,Panjabi (Punjabi) (http://www.transifex.com/projects/p/fedora/language/pa/)
+baloo-widgets,38,3,374,20,2,104,41,415,9.156626506024097,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+balsa,437,231,4680,243,68,976,483,5348,8.171278982797308,Punjabi <fedora-trans-pa@redhat.com>
+banshee,4405,150,1283,1306,17,157,4975,5838,75.45392257622473,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+baobab,210,0,0,57,0,0,251,210,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+bijiben,309,0,0,103,0,0,360,309,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+blivet-gui,0,0,765,0,0,221,0,765,0.0,Punjabi
+blogilo,298,24,866,131,10,102,348,1188,25.084175084175087,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+blueberry,24,0,117,7,0,27,30,141,17.02127659574468,Punjabi <pa@li.org>
+bluedevil,94,15,447,45,4,138,132,556,16.906474820143885,Punjabi/Panjabi <punjabi-users@list.sf.net>
+brasero,5546,0,0,968,0,0,5994,5546,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+caja,7718,0,1595,1350,0,160,8003,9313,82.87340277032106,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+caja-actions,863,84,1348,144,1,63,832,2295,37.60348583877995,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+calibre,10705,0,146596,7713,0,10387,10686,157301,6.805423996033083,Panjabi (Punjabi) (http://www.transifex.com/calibre/calibre/language/pa/)
+calligra,335,1683,25971,200,724,4541,344,27989,1.1968987816642251,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+camorama,559,0,0,133,0,0,665,559,100.0,Punjabi
+caribou,171,0,0,57,0,0,186,171,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+ccsm,498,10,71,121,6,24,551,579,86.01036269430051,Punjabi/Panjabi <punjabi-users@llist.sf.net>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/certmonger/language/pa/)
+cheese,613,0,0,120,0,0,644,613,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+chkconfig,480,0,75,92,0,11,555,555,86.48648648648648,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+choqok,999,371,887,355,82,132,1161,2257,44.26229508196721,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+cinnamon-control-center,1313,0,0,756,0,0,1376,1313,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+cinnamon-desktop,231,0,0,31,0,0,246,231,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+cinnamon-translations,5230,0,17701,1534,0,3213,6113,22931,22.807553094064804,Punjabi <pa@li.org>
+clamtk,38,0,396,25,0,117,46,434,8.755760368663594,Punjabi <pa@li.org>
+clementine,4,0,5087,4,0,1348,4,5091,0.0785700255352583,Panjabi (Punjabi) (http://www.transifex.com/davidsansome/clementine/language/pa/)
+clutter,142,51,2864,66,15,594,142,3057,4.645076872751063,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+cockpit,493,0,5989,250,0,1501,543,6482,7.605677260104906,Punjabi
+cogl,62,0,316,25,0,51,63,378,16.402116402116402,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+colord,25,0,363,8,0,91,26,388,6.443298969072164,Panjabi (Punjabi) (http://www.transifex.net/projects/p/freedesktop/team/pa/)
+compat-gtkhtml314,485,0,0,309,0,0,511,485,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+compiz,1407,2391,587,253,520,106,1561,4385,32.0866590649943,Punjabi <punjabi-users@llist.sf.net>
+conduit,576,0,0,219,0,0,648,576,100.0,Punjabi Open Source Team <punjabi-users@lists.sf.net>
+console-setup,980,3,2,172,1,2,973,985,99.49238578680203,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+control-center,6524,0,0,2249,0,0,7209,6524,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+cracklib,93,0,3,15,0,1,97,96,96.875,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+dasher,634,0,0,209,0,0,681,634,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+dconf-editor,47,39,1287,14,17,152,51,1373,3.423160961398398,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+debconf,669,51,137,83,3,5,780,857,78.0630105017503,Punjabi <fedora-trans-pa@redhat.com>
+deja-dup,454,0,3738,136,0,362,587,4192,10.830152671755727,Punjabi <pa@li.org>
+devhelp,222,0,0,53,0,0,240,222,100.0,Punjab <punlinux-i18n@lists.sourceforge.>
+dia,974,0,3396,508,0,1145,1042,4370,22.2883295194508,Punjabi <pa@li.org>
+digikam,7545,8693,28555,2610,2060,2468,8000,44793,16.84414975554216,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,973,17,2178,337,3,318,1215,3168,30.71338383838384,Panjabi (Punjabi) (http://www.transifex.com/projects/p/dnf/language/pa/)
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Punjabi
+dnfdragora,147,0,583,109,0,198,153,730,20.136986301369863,Panjabi (Punjabi) (India) (https://www.transifex.com/MageiaLinux/teams/9361/pa_IN/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Punjabi
+dolphin,1419,56,60,484,16,10,1519,1535,92.44299674267101,Punjabi <kde-i18n-doc@kde.org>
+dolphin-plugins,434,172,470,177,38,83,506,1076,40.33457249070632,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+dpkg,315,2762,5656,76,337,690,359,8733,3.6070079010649265,Punjabi <punjabi-users@lists.sf.net>
+dragon,230,1,44,78,1,7,243,275,83.63636363636363,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+ekiga,4489,0,0,748,0,0,4667,4489,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+emerald,645,38,10,208,5,6,684,693,93.07359307359307,Gist Punjabi team <info.gist@cdac.in>
+empathy,4257,0,0,956,0,0,4615,4257,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+engrampa,1301,0,639,273,0,81,1354,1940,67.06185567010309,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+entangle,0,0,935,0,0,209,0,935,0.0,Punjabi
+eog,3125,0,1820,498,0,60,3274,4945,63.19514661274014,Punjabi <punjabi-users@lists.sf.net>
+eog-plugins,149,0,0,55,0,0,168,149,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+eom,2981,0,2009,475,0,77,3088,4990,59.739478957915836,Punjabi <punjabi-users@lists.sf.net>
+epiphany,2013,54,804,609,2,52,2217,2871,70.11494252873564,Punjabi <kde-i18n-doc@kde.org>
+evince,1701,0,0,397,0,0,1920,1701,100.0,Punjabi <punjabi-users@list.sf.net>
+evolution,21162,0,0,4425,0,0,23011,21162,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+evolution-data-server,5381,0,0,1109,0,0,6503,5381,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+evolution-mapi,518,0,0,107,0,0,629,518,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+evolution-rss,469,0,365,183,0,28,562,834,56.23501199040767,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+exo,1268,0,125,261,0,18,1268,1393,91.02656137832017,Panjabi (Punjabi) (http://www.transifex.com/projects/p/xfce/language/pa/)
+expendable,63,0,164,35,0,58,69,227,27.75330396475771,Panjabi (Punjabi) (http://www.transifex.com/projects/p/expendable/language/pa/)
+fcitx-table-other,3,0,21,3,0,19,3,24,12.5,Panjabi (Punjabi) (http://www.transifex.com/projects/p/fcitx/language/pa/)
+file-roller,1195,0,0,268,0,0,1313,1195,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+firewalld,1487,1,688,289,1,114,1611,2176,68.33639705882352,Panjabi (Punjabi) (http://www.transifex.com/projects/p/firewalld/language/pa/)
+five-or-more,522,0,0,100,0,0,566,522,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+folks,1003,0,0,123,0,0,1122,1003,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Punjabi
+four-in-a-row,473,0,0,101,0,0,508,473,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+fprintd,183,0,236,28,0,29,193,419,43.67541766109785,Panjabi (Punjabi) (http://www.transifex.com/freedesktop/fprintd/language/pa/)
+garcon,17,0,72,2,0,27,21,89,19.101123595505616,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gcompris,475,0,10039,239,0,978,465,10514,4.517785809396995,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+gconf-editor,336,0,0,98,0,0,365,336,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+gcr,700,0,0,254,0,0,759,700,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gdesklets,113,0,1415,51,0,153,130,1528,7.395287958115183,Punjabi <fedora-trans-pa@redhat.com>
+gdk-pixbuf2,1360,0,0,203,0,0,1608,1360,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gdm,622,0,0,84,0,0,712,622,100.0,Punjabi <kde-i18n-doc@kde.org>
+gedit,4219,0,47,721,0,1,4557,4266,98.89826535396156,Punjabi <punjabi-users@list.sf.net>
+gedit-plugins,1029,131,45,422,40,7,1106,1205,85.39419087136929,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+genius,70,0,5055,35,0,713,77,5125,1.3658536585365855,Punjabi <fedora-trans-pa@redhat.com>
+gettext,1136,383,5323,210,65,424,1271,6842,16.60333235895937,Punjabi <punjabi-l10n@lists.sourceforge.net>
+gftp,2988,0,387,605,0,29,3282,3375,88.53333333333333,Panjabi <punjabi-l10n@users.sf.net>
+ggz-base-libs,74,0,0,17,0,0,92,74,100.0,Punjabi <punjabi-l10n@lists.sf.net>
+ggz-gtk-client,773,0,0,244,0,0,865,773,100.0,Punjabi <punjabi-l10n@lists.sf.net>
+ghex,247,0,717,128,0,144,268,964,25.622406639004147,Punjabi <fedora-pa-list@redhat.com>
+gimp,25132,918,1383,6796,146,151,26802,27433,91.61229176539206,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gimp-gap,901,174,7221,443,91,973,1008,8296,10.860655737704917,Punjabi <fedora-trans-pa@redhat.com>
+gitg,273,130,834,111,15,80,311,1237,22.069523039611965,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+glade,891,0,1993,480,0,294,930,2884,30.894590846047155,Punjabi <fedora-trans-pa@redhat.com>
+glade2,707,49,5084,313,15,972,716,5840,12.106164383561643,Punjabi <fedora-pa-list@redhat.com>
+glade3,891,0,1993,480,0,294,930,2884,30.894590846047155,Punjabi <fedora-trans-pa@redhat.com>
+glib-networking,161,0,0,29,0,0,193,161,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+glib2,5701,0,0,886,0,0,6457,5701,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+glom,61,5,209,41,3,16,63,275,22.181818181818183,Punjabi <fedora-trans-pa@redhat.com>
+gnome-abrt,286,15,96,45,4,24,342,397,72.04030226700252,Panjabi (Punjabi) (http://www.transifex.com/projects/p/gnome-abrt/language/pa/)
+gnome-backgrounds,30,0,0,18,0,0,39,30,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+gnome-bluetooth,309,0,0,102,0,0,341,309,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-boxes,950,0,0,208,0,0,1149,950,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-calculator,1420,5,39,499,4,32,1520,1464,96.99453551912568,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-calendar,222,0,0,66,0,0,254,222,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-characters,80,0,66,35,0,7,103,146,54.794520547945204,Punjabi <punjabi-users@lists.sf.net>
+gnome-chess,1240,5,62,216,1,3,1323,1307,94.87375669472074,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-clocks,273,0,0,95,0,0,300,273,100.0,Punjabi <kde-i18n-doc@kde.org>
+gnome-color-manager,1792,0,0,342,0,0,1925,1792,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-commander,486,375,7035,278,204,941,518,7896,6.155015197568389,Punjabi <fedora-trans-pa@redhat.com>
+gnome-contacts,411,0,0,156,0,0,457,411,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-desktop,789,0,6234,120,0,102,875,7023,11.234515164459632,Punjabi <fedora-trans-pa@redhat.com>
+gnome-desktop3,497,0,6234,82,0,102,549,6731,7.383746842965384,Punjabi <fedora-trans-pa@redhat.com>
+gnome-dictionary,841,0,0,180,0,0,858,841,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-disk-utility,3423,0,0,632,0,0,3769,3423,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-do,207,0,405,76,0,68,229,612,33.82352941176471,Punjabi <pa@li.org>
+gnome-doc-utils,251,0,0,101,0,0,253,251,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-documents,553,131,915,176,25,66,640,1599,34.58411507191995,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-font-viewer,110,0,0,27,0,0,137,110,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-getting-started-docs,2639,0,0,339,0,0,2801,2639,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-icon-theme,20,0,0,16,0,0,20,20,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+gnome-initial-setup,755,0,0,118,0,0,815,755,100.0,Punjabi <punjabi-users@list.sf.net>
+gnome-keyring,553,0,0,112,0,0,604,553,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-klotski,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-logs,115,0,0,37,0,0,133,115,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-mahjongg,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-maps,858,0,114,229,0,9,999,972,88.27160493827161,Punjabi <kde-i18n-doc@kde.org>
+gnome-menus,70,0,0,27,0,0,72,70,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-mime-data,887,0,0,362,0,0,936,887,100.0,Punjabi <pa@li.org>
+gnome-mines,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-mud,221,0,1074,116,0,146,219,1295,17.065637065637066,Punjabi <fedora-trans-pa@redhat.com>
+gnome-music,394,0,0,70,0,0,413,394,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-nettool,1160,0,0,241,0,0,1204,1160,100.0,Punjabi <fedora-trans-pa@redhat.com>
+gnome-nibbles,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-online-accounts,1209,0,0,335,0,0,1368,1209,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-packagekit,4390,0,0,681,0,0,5105,4390,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-phone-manager,119,0,271,54,0,38,137,390,30.512820512820515,Punjabi <fedora-trans-pa@redhat.com>
+gnome-photos,428,0,0,180,0,0,530,428,100.0,Punjabi <kde-i18n-doc@kde.org>
+gnome-power-manager,432,0,0,144,0,0,443,432,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-robots,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-screensaver,291,0,0,58,0,0,326,291,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-screenshot,455,0,0,78,0,0,471,455,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-search-tool,1249,0,0,186,0,0,1369,1249,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-session,327,0,0,60,0,0,356,327,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-settings-daemon,2607,0,0,429,0,0,2927,2607,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-shell,1614,0,0,381,0,0,1832,1614,100.0,Punjabi <punjabi-users@list.sf.net>
+gnome-shell-extensions,378,0,0,68,0,0,425,378,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-software,1082,312,863,321,83,112,1315,2257,47.939743021710235,Punjabi <kde-i18n-doc@kde.org>
+gnome-sound-recorder,253,0,0,65,0,0,286,253,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-subtitles,489,0,406,215,0,74,523,895,54.63687150837989,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-sudoku,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-system-log,420,0,0,66,0,0,437,420,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-system-monitor,1365,0,0,298,0,0,1456,1365,100.0,Punjabi <kde-i18n-doc@kde.org>
+gnome-taquin,121,0,102,38,0,8,133,223,54.26008968609865,Punjabi <punjabi-users@lists.sf.net>
+gnome-terminal,1859,561,107,422,45,12,1962,2527,73.5654926790661,Punjabi <kde-i18n-doc@kde.org>
+gnome-tetravex,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-themes,109,0,0,30,0,0,119,109,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+gnome-themes-standard,24,0,0,9,0,0,24,24,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-todo,375,0,574,106,0,78,393,949,39.51527924130664,Punjabi <punjabi-users@lists.sf.net>
+gnome-tweak-tool,410,0,0,142,0,0,479,410,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-user-docs,532,863,44621,192,149,1900,564,46016,1.1561196105702365,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnome-user-share,160,0,0,29,0,0,180,160,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-vfs2,1519,0,0,305,0,0,1724,1519,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-video-arcade,270,0,496,106,0,68,282,766,35.24804177545692,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+gnome-video-effects,256,0,0,68,0,0,275,256,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gnome-weather,184,0,0,42,0,0,220,184,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gnomebaker,355,0,831,157,0,134,436,1186,29.932546374367625,Punjabi <fedora-trans-pa@redhat.com>
+gnote,2969,0,0,440,0,0,3270,2969,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gparted,2595,0,0,447,0,0,2963,2595,100.0,Punjabi <punjabi-users@list.sf.net>
+gphoto2,721,207,815,193,40,104,817,1743,41.365461847389554,Punjabi <fedora-trans-pa@redhat.com>
+gpicview,6,0,230,2,0,50,7,236,2.5423728813559325,LANGUAGE <LL@li.org>
+gpsdrive,1070,0,1036,293,0,83,1128,2106,50.80721747388414,Punjabi <fedora-trans-pa@redhat.com>
+grep,252,59,570,62,11,34,282,881,28.603859250851304,Punjabi <punjabi-l10n@lists.sourceforge.net>
+grilo,187,0,0,36,0,0,226,187,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+grub2,2456,335,4320,663,72,606,2720,7111,34.53803965686964,Punjabi <punjabi-l10n@lists.sourceforge.net>
+gsettings-desktop-schemas,2202,7,2015,236,1,159,2292,4224,52.13068181818182,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gthumb,2242,393,604,828,77,95,2422,3239,69.21889472059277,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gtk-vnc,81,0,0,22,0,0,96,81,100.0,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+gtk2,13699,5,0,2783,1,0,14038,13704,99.96351430239346,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gtk2-engines,119,0,0,47,0,0,125,119,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+gtk3,15736,18,24,3516,2,2,15975,15778,99.7338065661047,Punjabi <punjabi-users@list.sf.net>
+gtkhtml3,488,0,0,310,0,0,515,488,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gtksourceview2,1413,0,0,538,0,0,1433,1413,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gtksourceview3,841,168,147,495,67,68,844,1156,72.75086505190312,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+gtranslator,1414,0,0,369,0,0,1780,1414,100.0,Punjabi <punlinux-i18n@lists.sourceforge.>
+guake,193,185,688,71,45,78,208,1066,18.105065666041277,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gucharmap,1205,0,0,397,0,0,1239,1205,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gvfs,2762,0,0,607,0,0,3169,2762,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+gwget,269,0,0,103,0,0,315,269,100.0,Punjabi <fedora-trans-pa@redhat.com>
+hamster-time-tracker,696,1,0,171,1,0,778,697,99.85652797704448,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hexchat,2377,0,3557,905,0,540,2476,5934,40.057296932928885,Panjabi (Punjabi) (http://www.transifex.com/hexchat/hexchat/language/pa/)
+hitori,38,32,104,16,7,13,43,174,21.839080459770116,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+hotssh,145,0,0,57,0,0,160,145,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+iagno,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+ibus,740,0,107,146,0,9,738,847,87.36717827626919,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+ibus-chewing,5,0,354,5,0,65,5,359,1.392757660167131,Punjabi
+im-chooser,229,0,10,52,0,4,252,239,95.81589958158996,Panjabi (Punjabi) (http://www.transifex.net/projects/p/im-chooser/team/pa/)
+imsettings,440,5,11,80,1,3,472,456,96.49122807017544,Panjabi (Punjabi) (http://www.transifex.net/projects/p/imsettings/team/pa/)
+initial-setup,33,0,0,7,0,0,36,33,100.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/initial-setup/language/pa/)
+initscripts,777,54,143,120,10,19,952,974,79.7741273100616,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+inkscape,1837,10332,25770,649,3945,3518,1924,37939,4.841983183531458,Punjabi <fedora-trans-pa@redhat.com>
+iok,206,0,0,40,0,0,238,206,100.0,punjabi-users@lists.sf.net
+iso-codes,11725,2872,1111,8277,1343,562,11536,15708,74.64349376114082,Punjabi <punjabi-l10n@lists.sourceforge.net>
+isomaster,40,1,633,26,1,80,42,674,5.934718100890208,http://littlesvr.ca/ostd/
+json-glib,226,0,77,27,0,17,207,303,74.58745874587459,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+k3b,7883,2512,9771,1802,399,310,9012,20166,39.090548447882576,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kactivitymanagerd,9,0,0,4,0,0,10,9,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kaddressbook,136,151,458,64,51,52,139,745,18.25503355704698,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kalarm,642,690,6004,301,169,555,638,7336,8.751363140676117,Punjabi <punjabi-l10n@users.sf.net>
+kamoso,12,21,86,5,10,26,13,119,10.084033613445378,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kate,2173,214,2154,654,67,357,2401,4541,47.85289583792116,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kaudiocreator,711,89,336,220,4,49,819,1136,62.58802816901409,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kcm_wacomtablet,74,167,657,28,64,107,78,898,8.240534521158128,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kcoloredit,159,1,118,73,1,21,169,278,57.194244604316545,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kde-cli-tools,1623,63,411,178,10,28,1671,2097,77.39628040057225,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kde-gtk-config,8,0,301,2,0,73,10,309,2.5889967637540456,Punjabi/Panjabi <punjabi-users@list.sf.net>
+kde-l10n,49811,3462,67291,13507,1056,6313,53470,120564,41.31498623137919,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kde-partitionmanager,1383,174,724,449,27,41,1534,2281,60.63130206049978,Punjabi <kde-i18n-doc@kde.org>
+kdepim-addons,438,500,1192,219,80,104,452,2130,20.56338028169014,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kdepim-runtime,516,188,4844,181,78,630,605,5548,9.300648882480173,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kdeplasma-addons,1438,535,862,594,179,153,1524,2835,50.723104056437386,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kdevelop,392,250,5128,160,101,1002,448,5770,6.793760831889081,Punjabi <punjabi-l10n@users.sf.net>
+kdevplatform,394,242,5089,161,99,990,450,5725,6.882096069868996,Punjabi <punjabi-l10n@users.sf.net>
+kdialog,179,50,87,43,6,15,187,316,56.64556962025317,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+keditbookmarks,345,20,101,120,4,8,361,466,74.0343347639485,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kexec-tools,64,0,19,5,0,7,66,83,77.10843373493977,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+kf5-akonadi-contacts,203,337,858,111,77,98,216,1398,14.52074391988555,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-akonadi-server,381,422,1640,117,110,198,427,2443,15.595579205894392,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-audiocd-kio,341,5,495,138,3,36,360,841,40.54696789536266,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-baloo,32,4,584,18,1,121,43,620,5.161290322580645,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-calendarsupport,194,344,2429,99,102,208,199,2967,6.538591169531513,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-eventviews,36,36,2834,19,21,273,40,2906,1.2388162422573985,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-incidenceeditor,16,16,2329,9,9,416,17,2361,0.6776789495976281,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kalarmcal,3,37,0,3,17,0,3,40,7.5,Punjabi <punjabi-l10n@users.sf.net>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kblog,158,0,85,20,0,7,161,243,65.02057613168725,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-kbookmarks,167,0,63,46,0,3,170,230,72.60869565217392,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kcalendarutils,122,153,1355,85,85,257,130,1630,7.484662576687116,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kcmutils,563,1,0,71,1,0,566,564,99.822695035461,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kcodecs,27,30,291,19,18,16,28,348,7.758620689655173,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kcompletion,20,0,0,12,0,0,24,20,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kconfig,165,2,94,67,1,32,183,261,63.2183908045977,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kconfigwidgets,301,16,4,107,8,2,328,321,93.76947040498442,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kcontacts,171,0,6,105,0,3,171,177,96.61016949152543,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-kcoreaddons,176,104,21,66,26,3,179,301,58.4717607973422,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kdbusaddons,48,0,0,6,0,0,51,48,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kdeclarative,74,7,28,11,1,2,84,109,67.88990825688074,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kdelibs4support,2702,617,1494,1593,432,339,2855,4813,56.13962185746936,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kdesignerplugin,25,29,0,7,2,0,24,54,46.2962962962963,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kdesu,19,0,0,7,0,0,24,19,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kdoctools,8,0,0,4,0,0,21,8,100.0,Punjabi <punjabi-l10n@users.sf.net>
+kf5-kfilemetadata,6,1,130,5,1,65,6,137,4.37956204379562,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kglobalaccel,66,1,4,7,1,1,69,71,92.95774647887323,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kholidays,0,7,102,0,5,72,0,109,0.0,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-khtml,1615,6,100,303,1,6,1707,1721,93.84079023823358,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-ki18n,112,12,0,98,12,0,112,124,90.32258064516128,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kiconthemes,34,0,1,17,0,1,36,35,97.14285714285714,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kidentitymanagement,20,0,145,11,0,10,20,165,12.121212121212121,Punjabi <punjabi-l10n@users.sf.net>
+kf5-kimap,25,1,73,21,1,26,30,99,25.252525252525253,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-kinit,131,3,0,13,1,0,157,134,97.76119402985076,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kio,6342,601,5181,1103,72,185,6943,12124,52.3094688221709,Punjabi <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kjobwidgets,123,0,0,36,0,0,127,123,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kjsembed,248,0,0,44,0,0,272,248,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kldap,76,0,103,39,0,12,81,179,42.45810055865922,Punjabi <punjabi-l10n@users.sf.net>
+kf5-kmailtransport,244,37,347,71,13,22,249,628,38.853503184713375,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-kmime,159,0,0,10,0,0,178,159,100.0,Punjabi <punjabi-l10n@users.sf.net>
+kf5-knewstuff,572,57,60,128,22,7,670,689,83.01886792452831,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-knotifications,18,0,0,6,0,0,21,18,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-knotifyconfig,86,43,0,16,1,0,80,129,66.66666666666666,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kontactinterface,4,0,0,2,0,0,8,4,100.0,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-kpackage,155,52,288,45,11,41,160,495,31.313131313131315,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kparts,104,0,0,26,0,0,112,104,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kpimtextedit,5,3,337,3,2,147,5,345,1.4492753623188406,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-kpty,15,0,0,4,0,0,18,15,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kross,100,0,0,35,0,0,106,100,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kservice,131,21,18,24,2,2,158,170,77.05882352941177,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-ktexteditor,2751,847,4764,724,167,322,2901,8362,32.89882803157139,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-ktextwidgets,459,3,0,121,1,0,513,462,99.35064935064936,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-ktnef,172,2,181,84,2,57,181,355,48.45070422535211,Panjabi <punjabi-l10n@lists.sf.net>
+kf5-kunitconversion,583,574,4109,298,203,1743,578,5266,11.071021648309912,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kwallet,634,20,844,70,1,37,717,1498,42.323097463284384,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kwidgetsaddons,134,1144,37,84,362,10,134,1315,10.190114068441064,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kxmlgui,1241,216,139,200,20,8,1291,1596,77.75689223057644,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-kxmlrpcclient,13,0,0,2,0,0,14,13,100.0,Panjabi <punjabi-l10n@lists.sf.net>
+kf5-libkcddb,307,7,243,207,4,40,313,557,55.11669658886894,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-libkcompactdisc,15,0,0,10,0,0,21,15,100.0,Punjabi <punjabi-l10n@users.sf.net>
+kf5-libkdepim,52,84,329,21,44,62,60,465,11.182795698924732,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-libkleo,192,34,924,99,20,171,218,1150,16.695652173913047,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-libksieve,113,2,3238,31,1,521,150,3353,3.370116313748882,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kf5-mailcommon,7,79,2715,3,37,427,8,2801,0.24991074616208497,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-mailimporter,194,170,1044,43,30,54,276,1408,13.778409090909092,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-messagelib,1003,964,5599,369,244,555,1102,7566,13.256674596880783,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-plasma,269,5,227,100,2,44,279,501,53.69261477045908,Punjabi <punjabi-users@lists.sf.net>
+kf5-solid,479,16,187,206,4,12,484,682,70.23460410557185,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-sonnet,639,6,18,67,1,4,652,663,96.38009049773756,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kf5-syntax-highlighting,0,302,146,0,219,72,0,448,0.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kfind,257,7,241,102,2,14,276,505,50.89108910891089,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kgamma,38,0,92,15,0,1,38,130,29.230769230769234,Punjabi <punjabi-l10n@users.sf.net>
+kgrab,255,0,115,50,0,3,283,370,68.91891891891892,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+khelpcenter,215,18,23,79,6,2,236,256,83.984375,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+khotkeys,252,11,173,117,5,7,263,436,57.798165137614674,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+kiconedit,131,2,593,73,1,81,137,726,18.044077134986225,Punjabi <punjabi-l10n@users.sf.net>
+kinfocenter,1730,39,1125,792,19,189,1792,2894,59.77885279889426,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kio_gopher,17,0,0,5,0,0,28,17,100.0,Punjabi <punjabi-l10n@users.sf.net>
+kjots,50,12,337,31,7,68,53,399,12.531328320802004,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+klavaro,1911,0,0,232,0,0,2089,1911,100.0,Punjabi <punjabi-l10n@lists.sourceforge.net>
+kleopatra,1210,775,6629,480,213,617,1397,8614,14.046900394706292,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kmail,2313,1126,4529,650,251,239,2507,7968,29.028614457831324,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kmail-account-wizard,21,13,758,9,7,107,27,792,2.6515151515151514,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+kmenuedit,240,14,23,52,4,5,248,277,86.64259927797833,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+knotes,182,143,289,82,54,57,200,614,29.64169381107492,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+konqueror,5321,188,3478,1219,36,128,5688,8987,59.207744519862025,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+konsole5,1544,176,812,426,32,78,1605,2532,60.97946287519748,Punjabi <kde-i18n-doc@kde.org>
+kontact,87,121,390,38,21,39,93,598,14.54849498327759,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+korganizer,465,1232,4590,241,231,357,509,6287,7.396214410688723,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kphotoalbum,351,495,8718,160,201,658,396,9564,3.6700125470514426,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+kpilot,84,172,6900,49,79,733,87,7156,1.1738401341531581,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kpmcore,279,1730,1191,119,224,128,307,3200,8.71875,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+krb5-auth-dialog,1166,0,637,256,0,97,1234,1803,64.66999445368829,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+krita,30,5990,16564,23,2631,3107,33,22584,0.1328374070138151,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+krusader,657,693,6558,362,280,1079,734,7908,8.30804248861912,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kscreen,207,0,6,62,0,2,250,213,97.1830985915493,Punjabi <kde-i18n-doc@kde.org>
+kscreenlocker,45,34,117,12,7,17,56,196,22.95918367346939,Punjabi/Panjabi <punjabi-users@list.sf.net>
+ksig,54,0,31,23,0,3,58,85,63.52941176470588,Punjabi <punjabi-l10n@users.sf.net>
+ksshaskpass,24,0,19,8,0,4,25,43,55.81395348837209,Punjabi/Panjabi <punjabi-users@list.sf.net>
+kstars,1962,10655,42594,1149,5812,8821,2045,55211,3.5536396732535183,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+ksysguard,854,21,206,222,6,5,851,1081,79.0009250693802,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kwebkitpart,403,52,169,130,11,17,429,624,64.58333333333334,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+kwin,2157,444,3769,752,93,353,2231,6370,33.861852433281,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libbonobo,543,0,0,107,0,0,581,543,100.0,testLokalize <punjabi-users@lists.sf.net>
+libbonoboui,368,0,0,115,0,0,388,368,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Punjabi
+libcryptui,3012,0,0,654,0,0,3375,3012,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libgda,27,1673,9442,23,472,1559,27,11142,0.24232633279483037,Punjabi <punlinux-i18n@lists.sourceforge.>
+libgdata,695,0,0,85,0,0,731,695,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libgdl,161,0,524,87,0,54,164,685,23.503649635036496,Punjabi <fedora-trans-pa@redhat.com>
+libgnome,1773,0,0,273,0,0,1869,1773,100.0,Punjabi/Panjabi <punjab-l10n@lists.sf.net>
+libgnome-keyring,44,0,0,9,0,0,45,44,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+libgnome-media-profiles,460,0,0,51,0,0,501,460,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libgnomecanvas,378,0,0,95,0,0,411,378,100.0,Punjabi <punjabi-l10n@lists.sf.net>
+libgnomekbd,242,0,0,55,0,0,236,242,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libgnomeui,1226,0,0,320,0,0,1203,1226,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+libgsf,69,0,774,13,0,97,70,843,8.185053380782918,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+libgtop2,126,0,0,40,0,0,127,126,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+libguestfs,2851,0,16182,443,0,1568,2993,19033,14.979246571743813,Panjabi (Punjabi) (http://www.transifex.com/projects/p/libguestfs/language/pa/)
+libgweather,6172,0,0,4577,0,0,6200,6172,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkexif,25,0,0,14,0,0,28,25,100.0,Punjabi <fedora-trans-pa@redhat.com>
+libkfbapi,0,0,42,0,0,6,0,42,0.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libksysguard,894,757,1515,251,32,113,911,3166,28.237523689197726,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libmatekbd,183,0,68,37,0,6,196,251,72.90836653386454,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+libmateweather,6009,0,115,4539,0,18,6035,6124,98.12214239059438,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+libmx,40,0,0,16,0,0,37,40,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libosinfo,0,0,662,0,0,145,0,662,0.0,Punjabi
+libpeas,110,0,0,31,0,0,119,110,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libpwquality,343,0,0,53,0,0,381,343,100.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/libpwquality/language/pa/)
+libreoffice,63474,4743,31736,18618,1786,11076,65305,99953,63.503846807999764,LANGUAGE <LL@li.org>
+libreport,1038,0,3855,183,0,416,1189,4893,21.213979153893316,Panjabi (Punjabi) (http://www.transifex.com/projects/p/libreport/language/pa/)
+libsecret,59,0,0,9,0,0,63,59,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libsoup,110,0,0,25,0,0,146,110,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+libuser,996,38,403,213,7,81,1259,1437,69.31106471816284,Panjabi (Punjabi) (http://www.transifex.com/projects/p/fedora/language/pa/)
+libvirt,36752,3037,20856,6018,456,2956,42397,60645,60.60186330282793,Panjabi (Punjabi) (http://www.transifex.com/projects/p/libvirt/language/pa/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/libvirt-glib/language/pa/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+libwnck,1124,0,0,241,0,0,1140,1124,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+libwnck3,1084,0,0,230,0,0,1097,1084,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+libxfce4ui,144,232,479,47,59,60,146,855,16.842105263157894,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+libxfce4util,16,0,408,4,0,3,20,424,3.7735849056603774,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+libzypp,1119,355,891,750,73,127,1153,2365,47.315010570824526,Panjabi <punjabi-l10n@lists.sf.net>
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Panjabi (Punjabi) (http://www.transifex.com/the_cavalry/light-locker/language/pa/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Punjabi <pa@li.org>
+lightsoff,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+lxappearance,136,22,76,52,7,21,147,234,58.119658119658126,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+lxappearance-obconf,0,0,196,0,0,27,0,196,0.0,LANGUAGE <LL@li.org>
+lxdm,12,0,35,11,0,14,14,47,25.53191489361702,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+lxinput,0,0,83,0,0,26,0,83,0.0,LANGUAGE <LL@li.org>
+lxlauncher,51,0,7,11,0,6,44,58,87.93103448275862,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+lxmenu-data,97,0,0,37,0,0,105,97,100.0,Punjabi <punjabi-l10n@lists.sf.net>
+lxmusic,0,0,203,0,0,89,0,203,0.0,LANGUAGE <LL@li.org>
+lxrandr,0,0,167,0,0,41,0,167,0.0,LANGUAGE <LL@li.org>
+lxsession,29,9,717,12,4,150,29,755,3.8410596026490067,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+lxtask,122,0,8,48,0,3,139,130,93.84615384615384,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+lxterminal,0,0,247,0,0,131,0,247,0.0,LANGUAGE <LL@li.org>
+marco,2030,0,2059,308,0,106,2228,4089,49.645390070921984,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-applets,6185,0,3997,927,0,341,6422,10182,60.74445099194657,Punjabi <fedora-trans-pa@redhat.com>
+mate-backgrounds,23,0,7,17,0,4,25,30,76.66666666666667,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-calc,1181,0,191,409,0,12,1260,1372,86.07871720116617,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-control-center,2557,0,400,575,0,93,2748,2957,86.47277646263105,Punjabi <fedora-trans-pa@redhat.com>
+mate-desktop,267,0,2079,37,0,293,293,2346,11.381074168797953,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-media,152,0,74,65,0,31,159,226,67.2566371681416,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-menu,244,12,44,101,1,8,265,300,81.33333333333333,Punjabi <pa@li.org>
+mate-menus,97,0,0,37,0,0,104,97,100.0,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-notification-daemon,85,0,54,25,0,12,94,139,61.15107913669065,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-panel,4342,16,927,583,3,89,4531,5285,82.15704824976349,Punjabi <fedora-trans-pa@redhat.com>
+mate-polkit,287,0,26,46,0,4,315,313,91.69329073482429,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-power-manager,4027,0,2561,538,0,102,4491,6588,61.12629022465088,Punjabi <punjabi-users@lists.sf.net>
+mate-screensaver,538,0,445,116,0,40,583,983,54.73041709053916,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-session-manager,455,0,226,99,0,15,517,681,66.81350954478708,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-settings-daemon,1362,0,402,211,0,42,1524,1764,77.21088435374149,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-system-monitor,1439,35,2674,328,3,257,1486,4148,34.69141755062681,Punjabi <punjabi-users@lists.sf.net>
+mate-terminal,1221,0,3218,327,0,182,1293,4439,27.506195088984004,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-themes,7,0,51,2,0,9,9,58,12.068965517241379,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+mate-user-guide,14540,2766,23326,1861,126,905,15218,40632,35.784603268359916,Punjabi <punjabi-users@lists.sf.net>
+mate-utils,3319,0,358,626,0,34,3463,3677,90.2638020125102,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+meld,254,0,509,143,0,79,274,763,33.28964613368283,Punjabi <fedora-transa-pa@redhat.com>
+metacity,2040,0,0,310,0,0,2223,2040,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+midori,306,0,3235,154,0,642,340,3541,8.641626659135838,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+mingw-GConf2,4088,0,0,497,0,0,4701,4088,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+mingw-atk,440,0,0,169,0,0,456,440,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+mingw-colord,25,0,363,8,0,91,26,388,6.443298969072164,Panjabi (Punjabi) (http://www.transifex.net/projects/p/freedesktop/team/pa/)
+mingw-gdk-pixbuf,1360,0,0,203,0,0,1608,1360,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+mingw-gettext,1136,379,5316,210,64,423,1271,6831,16.63006880398185,Punjabi <punjabi-l10n@lists.sourceforge.net>
+mingw-glib-networking,161,0,0,29,0,0,193,161,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+mingw-glib2,5701,0,0,886,0,0,6457,5701,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+mingw-gtk-vnc,81,0,0,22,0,0,96,81,100.0,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+mingw-gtk2,13699,5,0,2783,1,0,14038,13704,99.96351430239346,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+mingw-gtk3,15736,18,24,3516,2,2,15975,15778,99.7338065661047,Punjabi <punjabi-users@list.sf.net>
+mingw-gtksourceview3,841,168,147,495,67,68,844,1156,72.75086505190312,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+mingw-libgsf,69,0,774,13,0,97,70,843,8.185053380782918,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Punjabi
+mingw-libsoup,110,0,0,25,0,0,146,110,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+mingw-libvirt,36758,3033,20869,6019,455,2958,42404,60660,60.596768875700626,Panjabi (Punjabi) (http://www.transifex.com/projects/p/libvirt/language/pa/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/libvirt-glib/language/pa/)
+mingw-p11-kit,425,0,51,74,0,7,444,476,89.28571428571429,Panjabi (Punjabi) (http://www.transifex.com/freedesktop/p11-kit/language/pa/)
+mingw-qt5-qtwebkit,671,652,1308,163,136,273,691,2631,25.503610794374765,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+mingw-webkitgtk,671,644,1308,163,134,273,691,2623,25.581395348837212,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+mingw-webkitgtk3,671,644,1308,163,134,273,691,2623,25.581395348837212,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+mintmenu,1346,0,6126,517,0,711,1600,7472,18.01391862955032,Punjabi <pa@li.org>
+mousetweaks,114,0,0,30,0,0,114,114,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+mozo,42,0,0,16,0,0,44,42,100.0,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+muffin,2071,0,0,283,0,0,2301,2071,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+multimedia-menus,56,0,0,22,0,0,58,56,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+mutter,809,0,0,124,0,0,890,809,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+nautilus,5948,0,0,1114,0,0,6660,5948,100.0,Punjabi <punjabi-users@list.sf.net>
+nautilus-sendto,45,0,0,8,0,0,54,45,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+nemo-extensions,251,0,7,48,0,1,271,258,97.28682170542635,Punjabi <pa@li.org>
+network-manager-applet,1975,1191,1237,540,191,197,2200,4403,44.8557801498978,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+newt,4,0,0,4,0,0,6,4,100.0,Panjabi <pa@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+notification-daemon,17,0,0,7,0,0,22,17,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,167,158,100.0,LANGUAGE <LL@li.org>
+onboard,3,0,2315,2,0,508,4,2318,0.12942191544434856,Punjabi <pa@li.org>
+openconnect,282,0,4937,81,0,818,329,5219,5.403333972025292,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+openjfx,671,644,1308,163,134,273,691,2623,25.581395348837212,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+orage,5,82,2305,4,39,758,5,2392,0.20903010033444816,Punjabi <fedora-trans-pa@redhat.com>
+orca,3829,94,391,1291,14,32,4074,4314,88.75753361149745,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/pa/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Punjabi
+p11-kit,425,0,51,74,0,7,444,476,89.28571428571429,Panjabi (Punjabi) (http://www.transifex.com/freedesktop/p11-kit/language/pa/)
+pam,575,22,0,117,3,0,677,597,96.31490787269682,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+pam_krb5,7,0,0,4,0,0,7,7,100.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/pam_krb5/language/pa/)
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,59,0,2428,20,0,472,74,2487,2.372336147969441,Punjabi <pa@li.org>
+pantheon-photos,3541,0,436,767,0,89,4006,3977,89.0369625345738,Panjabi (Punjabi) (http://www.transifex.com/projects/p/shotwell/language/pa/)
+paprefs,131,0,0,23,0,0,132,131,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+passwd,267,0,69,49,0,8,305,336,79.46428571428571,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+pavucontrol,219,1,17,85,1,1,269,237,92.40506329113924,Punjabi <Punjabi-users@lists.sourceforge.net>
+pcmanfm,161,416,633,54,115,127,175,1210,13.305785123966944,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+pessulus,130,0,0,33,0,0,139,130,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+phatch,11,0,2542,10,0,814,12,2553,0.4308656482569526,Punjabi <pa@li.org>
+php-phpmyadmin-sql-parser,0,34,193,0,6,38,0,227,0.0,Punjabi <http://hosted.weblate.org/projects/phpmyadmin/master/pa/>
+pidgin,14887,10,859,3305,1,127,16273,15756,94.48464077176948,Panjabi (Punjabi) (http://www.transifex.com/pidgin/pidgin/language/pa/)
+pitivi,293,67,627,92,21,112,297,987,29.68591691995947,Punjabi <fedora-trans-pa@redhat.com>
+pix,2095,0,1623,791,0,411,2267,3718,56.34749865519096,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+planner,282,13,1158,146,4,301,294,1453,19.408121128699243,Punjabi <fedora-trans-pa@redhat.com>
+plasma-breeze,19,7,229,12,4,80,21,255,7.450980392156863,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+plasma-desktop,6542,801,5212,1744,146,453,6996,12555,52.106730386300285,ਪੰਜਾਬੀ <punjabi-users@lists.sf.net>
+plasma-discover,158,186,723,82,78,167,187,1067,14.807872539831301,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+plasma-integration,58,0,0,21,0,0,69,58,100.0,Punjabi <kde-i18n-doc@kde.org>
+plasma-milou,11,0,24,10,0,5,13,35,31.428571428571427,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+plasma-nm,895,112,3315,400,45,626,1037,4322,20.70800555298473,Punjabi/Panjabi <punjabi-users@list.sf.net>
+plasma-oxygen,375,132,300,183,29,83,384,807,46.468401486988846,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+plasma-pa,55,30,75,28,15,26,72,160,34.375,Punjabi <punjabi-users@lists.sf.net>
+plasma-sdk,308,70,186,109,12,20,319,564,54.60992907801418,Punjabi <kde-i18n-doc@kde.org>
+plasma-systemsettings,181,5,0,42,1,0,207,186,97.31182795698925,Punjabi <kde-i18n-doc@kde.org>
+plasma-user-manager,64,3,222,26,1,22,65,289,22.145328719723185,Punjabi/Panjabi <punjabi-users@list.sf.net>
+plasma-workspace,4098,777,6115,1267,287,1049,4574,10990,37.288444040036396,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+pluma,4421,0,617,966,0,138,4741,5038,87.75307661770543,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+pmount,15,0,708,3,0,60,17,723,2.0746887966804977,Punjabi <pa@li.org>
+poedit,993,0,1646,348,0,243,1127,2639,37.62788935202728,Punjabi
+polari,225,0,0,76,0,0,256,225,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+policycoreutils,5868,558,1252,842,111,125,7239,7678,76.42615264391769,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+polkit-gnome,94,0,0,16,0,0,104,94,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+polkit-kde,94,0,0,28,0,0,112,94,100.0,Punjabi <punjabi-users@lists.sf.net>
+powerdevil,521,13,139,103,6,11,592,673,77.4145616641902,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+publican,1736,67,3640,115,3,498,1756,5443,31.89417600587911,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+publican-fedora,6,0,101,1,0,7,6,107,5.607476635514018,Punjabi <fedora-trans-pa@redhat.com>
+publican-jboss,120,3,109,9,1,4,120,232,51.724137931034484,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+pulseaudio,2011,951,342,407,43,46,2223,3304,60.865617433414045,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+pybliographer,263,0,338,132,0,83,296,601,43.760399334442596,Punjabi <fedora-trans-pa@redhat.com>
+pykickstart,283,0,1103,28,0,124,322,1386,20.41847041847042,Panjabi (Punjabi) (http://www.transifex.com/projects/p/pykickstart/language/pa/)
+python-blivet,349,0,343,59,0,38,419,692,50.433526011560694,Panjabi (Punjabi) (http://www.transifex.com/projects/p/blivet/language/pa/)
+python-blivet1,358,0,338,85,0,46,425,696,51.43678160919541,Punjabi
+python-django,908,0,2516,436,0,357,965,3424,26.51869158878505,Panjabi (Punjabi) (http://www.transifex.com/django/django/language/pa/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Panjabi (Punjabi) (http://www.transifex.com/projects/p/django-formtools/language/pa/)
+python-django-openstack-auth,84,0,0,16,0,0,107,84,100.0,Punjabi (India)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Punjabi
+python-flask-admin,321,0,40,98,0,11,434,361,88.9196675900277,Punjabi
+python-lettuce,1321,0,2654,533,0,735,1436,3975,33.23270440251572,Panjabi (Punjabi) <None>
+python-meh,1,0,108,1,0,22,1,109,0.9174311926605505,Panjabi (Punjabi) (http://www.transifex.com/projects/p/python-meh/language/pa/)
+qtwebkit,684,74,335,165,16,81,704,1093,62.580054894785,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+quadrapassel,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+quassel,1397,0,4025,672,0,553,1552,5422,25.765400221320544,Panjabi (Punjabi) (http://www.transifex.com/ald/quassel/language/pa/)
+realmd,0,0,789,0,0,127,0,789,0.0,Panjabi (Punjabi) (http://www.transifex.com/freedesktop/realmd/language/pa/)
+redhat-menus,261,0,0,86,0,0,276,261,100.0,Punjabi <Punjabi-users@lists.sourceforge.net>
+regexxer,88,0,379,48,0,52,97,467,18.843683083511777,Punjabi <fedora-trans-pa@redhat.com>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Punjabi
+rhn-client-tools,2532,817,708,339,33,48,2731,4057,62.41064826226276,Panjabi (Punjabi) (http://www.transifex.com/projects/p/spacewalk/language/pa/)
+rhnsd,20,0,13,5,0,4,27,33,60.60606060606061,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+rhythmbox,3393,50,133,910,1,10,3737,3576,94.88255033557047,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+rygel,676,0,0,143,0,0,763,676,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+sawfish,96,538,5809,69,176,737,103,6443,1.489989135495887,Punjabi <fedora-trans-pa@redhat.com>
+scim-hangul,77,51,86,23,5,12,75,214,35.981308411214954,Punjabi <fedora-trans-pa@redhat.com>
+scim-tables,432,22,701,117,2,52,463,1155,37.4025974025974,Punjabi <fedora-trans-pa@redhat.com>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sddm-kcm,43,0,61,25,0,18,51,104,41.34615384615385,Punjabi/Panjabi <punjabi-users@list.sf.net>
+seahorse,2486,0,0,570,0,0,2800,2486,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+seahorse-caja,421,0,0,110,0,0,489,421,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+seahorse-nautilus,421,0,0,110,0,0,489,421,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+setroubleshoot,628,0,32,174,0,7,703,660,95.15151515151516,Panjabi (Punjabi) (http://www.transifex.com/projects/p/fedora/language/pa/)
+setroubleshoot-plugins,2622,0,3586,123,0,98,2702,6208,42.23582474226804,Panjabi (Punjabi) (http://www.transifex.com/projects/p/fedora/language/pa/)
+setuptool,55,0,0,14,0,0,64,55,100.0,Punjabi <fedora-trans-pa@redhat.com>
+shared-mime-info,0,0,1869,0,0,729,0,1869,0.0,Panjabi (Punjabi) (http://www.transifex.com/freedesktop/shared-mime-info/language/pa/)
+shotwell,4521,32,0,940,6,0,5080,4553,99.29716670327257,Panjabi (Punjabi) (http://www.transifex.com/projects/p/shotwell/language/pa/)
+simple-scan,219,0,350,82,0,59,256,569,38.488576449912124,Punjabi <pa@li.org>
+skanlite,92,25,66,34,9,20,99,183,50.27322404371585,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+slick-greeter,199,0,12,41,0,6,219,211,94.3127962085308,Punjabi <pa@li.org>
+snapper,3,280,460,3,71,106,3,743,0.4037685060565276,Punjabi <fedora-trans-pa@redhat.com>
+sos,54,33,35,11,7,12,63,122,44.26229508196721,PLTG
+sound-juicer,986,0,0,187,0,0,1099,986,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+stellarium,546,0,25387,453,0,6223,567,25933,2.105425519608221,Punjabi <pa@li.org>
+storaged,483,205,1241,216,27,235,549,1929,25.038880248833596,Punjabi
+subscription-manager,4169,0,1553,804,0,194,4713,5722,72.85914016078294,Punjabi
+sugar,1,1,1623,1,1,396,2,1625,0.06153846153846154,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,871,0,0,164,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-chat,0,0,137,0,0,81,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,58,0,0,16,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,80,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,98,0,0,21,0,98,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,0,0,155,0,0,73,0,155,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,27,0,115,27,0,47,28,142,19.014084507042252,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,90,0,0,52,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,109,0,0,31,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,137,0,0,50,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,25,0,202,25,0,49,26,227,11.013215859030836,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,66,13,77,59,9,41,67,156,42.30769230769231,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,121,0,0,55,0,121,0.0,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,28,24,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+swell-foop,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+switchdesk,137,0,0,19,0,0,150,137,100.0,Punjabi <Punjabi-users@lists.sourceforge.net>
+system-config-bind,9419,0,0,1064,0,0,10298,9419,100.0,Punjabi <Punjabi-users@lists.sourceforge.net>
+system-config-firewall,2807,0,7,330,0,1,3027,2814,99.75124378109453,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+system-config-httpd,877,0,0,227,0,0,957,877,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+system-config-kdump,830,0,47,146,0,10,855,877,94.64082098061574,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+system-config-keyboard,187,0,0,81,0,0,188,187,100.0,Punjabi <Punjabi-users@lists.sourceforge.net>
+system-config-kickstart,1144,0,0,253,0,0,1205,1144,100.0,Panjabi (Punjabi) (http://www.transifex.com/projects/p/system-config-kickstart/language/pa/)
+system-config-language,60,55,82,13,5,11,73,197,30.456852791878177,PLTG
+system-config-printer,3051,8,101,731,5,19,3311,3160,96.55063291139241,Panjabi (Punjabi) (http://www.transifex.com/projects/p/system-config-printer/language/pa/)
+system-config-rootpassword,116,0,0,19,0,0,143,116,100.0,Punjabi <Punjabi-users@lists.sourceforge.net>
+system-config-users,1436,0,85,172,0,8,1476,1521,94.41157133464826,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+system-config-users-docs,1054,5,2,77,3,2,1039,1061,99.3402450518379,Punjabi <Punjabi-users@lists.sourceforge.net>
+system-switch-java,81,0,0,11,0,0,86,81,100.0,Punjabi <Punjabi-users@lists.sourceforge.net>
+system-switch-mail,158,0,0,24,0,0,197,158,100.0,Punjabi <fedora-trans-pa@redhat.com>
+tali,4286,0,0,909,0,0,4483,4286,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+thunar-archive-plugin,86,0,0,13,0,0,77,86,100.0,Punjabi <xfce-i18n@xfce.org>
+thunar-media-tags-plugin,109,0,35,45,0,4,104,144,75.69444444444444,Punjabi <xfce-i18@xfce.orgn>
+thunar-vfs,341,0,46,67,0,19,366,387,88.11369509043928,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+tomboy,3278,0,0,471,0,0,3648,3278,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+totem,2358,0,1468,496,0,80,2487,3826,61.63094615786723,Punjabi <fedora-trans-pa@redhat.com>
+totem-pl-parser,29,0,0,8,0,0,33,29,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+tracker,86,0,2002,45,0,354,91,2088,4.118773946360153,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+transmission,0,0,1809,0,0,494,0,1809,0.0,Punjabi <pa@li.org>
+tumbler,55,0,238,12,0,35,65,293,18.771331058020476,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+tuxpaint,1112,279,200,214,27,50,1106,1591,69.89314896291641,none>
+udisks2,483,205,1241,216,27,235,549,1929,25.038880248833596,Punjabi
+usermode,573,0,0,96,0,0,690,573,100.0,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+vinagre,1507,0,0,275,0,0,1580,1507,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+vino,1228,0,0,134,0,0,1341,1228,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+virt-manager,5095,67,3202,1145,14,577,5757,8364,60.91582974653276,Panjabi (Punjabi) (http://www.transifex.com/projects/p/virt-manager/language/pa/)
+virt-viewer,417,0,367,90,0,79,481,784,53.18877551020408,Panjabi (Punjabi) (http://www.transifex.com/projects/p/virt-viewer/language/pa/)
+virtaal,817,0,354,264,0,50,876,1171,69.76942783945346,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Punjabi <pa@li.org>
+volume_key,745,0,0,151,0,0,796,745,100.0,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+vte,84,0,0,14,0,0,104,84,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+vte291,83,0,0,16,0,0,99,83,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+vte3,84,0,0,14,0,0,104,84,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+webkitgtk,671,644,1308,163,134,273,691,2623,25.581395348837212,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+webkitgtk3,671,644,1308,163,134,273,691,2623,25.581395348837212,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+webkitgtk4,671,644,1308,163,134,273,691,2623,25.581395348837212,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+wicd-kde,245,9,104,94,4,24,308,358,68.43575418994413,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+wine,12,171,15462,9,86,3373,12,15645,0.07670182166826461,Punjabi
+xchat,3483,41,1503,1118,7,107,3779,5027,69.28585637557191,Punjabi <punjabi-l10n@lists.sourceforge.net>
+xdg-user-dirs,24,2,2,24,2,2,24,28,85.71428571428571,Punjabi <punjabi-l10n@lists.sf.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,88,81,100.0,Punjabi/Panjabi <punjabi-l10n@lists.sf.net>
+xed,3418,0,1090,839,0,131,3667,4508,75.82076308784383,Panjabi (Punjabi) (http://www.transifex.com/projects/p/MATE/language/pa/)
+xfburn,221,0,1108,97,0,194,251,1329,16.629044394281415,Panjabi (Punjabi) (http://www.transifex.com/projects/p/xfce/language/pa/)
+xfce4-appfinder,23,22,141,5,7,32,26,186,12.365591397849462,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-battery-plugin,80,15,54,29,7,7,86,149,53.691275167785236,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+xfce4-cpufreq-plugin,5,18,117,3,4,32,5,140,3.571428571428571,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-cpugraph-plugin,45,0,26,25,0,10,45,71,63.38028169014085,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+xfce4-datetime-plugin,52,0,0,19,0,0,47,52,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-diskperf-plugin,87,8,88,26,3,9,86,183,47.540983606557376,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-eyes-plugin,1,0,14,1,0,3,1,15,6.666666666666667,<pa@li.org>
+xfce4-fsguard-plugin,71,0,0,19,0,0,75,71,100.0,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,373,356,100.0,Punjabi/Panjabi <punjab-l10n@list.sf.net>
+xfce4-netload-plugin,27,42,23,10,10,15,29,92,29.347826086956523,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-notifyd,69,6,13,20,1,5,75,88,78.4090909090909,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-panel,932,1,799,267,1,126,966,1732,53.81062355658198,Panjabi (Punjabi) (http://www.transifex.com/projects/p/xfce/language/pa/)
+xfce4-places-plugin,75,3,79,32,1,11,82,157,47.77070063694268,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-power-manager,339,0,425,134,0,79,385,764,44.3717277486911,Panjabi (Punjabi) (http://www.transifex.com/projects/p/xfce/language/pa/)
+xfce4-screenshooter,100,0,343,38,0,35,92,443,22.573363431151243,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-session,271,119,742,63,41,126,358,1132,23.939929328621908,Punjabi <fedora-trans-pa@redhat.com>
+xfce4-settings,128,115,1317,59,48,242,134,1560,8.205128205128204,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+xfce4-taskmanager,9,22,92,9,12,24,19,123,7.317073170731707,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfce4-terminal,155,152,790,69,64,149,176,1097,14.129443938012761,Punjabi <fedora-trans-pa@redhat.com>
+xfce4-verve-plugin,47,0,0,10,0,0,46,47,100.0,Punjabi <xfce-i1n@xfce.org>
+xfce4-weather-plugin,52,113,3429,41,52,231,56,3594,1.4468558708959376,Punjabi <xfce-i18n@xfce.org>
+xfconf,42,11,398,11,2,54,47,451,9.312638580931264,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfdesktop,334,266,254,94,66,40,366,854,39.11007025761124,Punjabi/Panjabi <kde-i18n-doc@kde.org>
+xfwm4,136,509,219,55,135,45,145,864,15.74074074074074,Punjabi <fedora-trans-pa@redhat.com>
+xplayer,2815,0,1480,594,0,91,2974,4295,65.54132712456344,Punjabi <fedora-trans-pa@redhat.com>
+xplayer-plparser,28,0,0,7,0,0,32,28,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+xreader,1284,0,369,324,0,60,1414,1653,77.6769509981851,Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)
+xsane,3224,0,0,728,0,0,3528,3224,100.0,Punjabi <punjabi-l10n@lists.sf.net>
+xviewer,3078,0,1846,495,0,63,3219,4924,62.51015434606011,Punjabi <punjabi-users@lists.sf.net>
+xviewer-plugins,147,0,0,55,0,0,168,147,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+yakuake,797,126,650,169,12,40,834,1573,50.66751430387794,Punjabi <kde-i18n-doc@kde.org>
+yelp,452,0,0,104,0,0,457,452,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+yelp-xsl,81,0,0,59,0,0,83,81,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+yum,1917,0,1152,513,0,147,2477,3069,62.4633431085044,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+yum-rhn-plugin,45,39,63,7,3,7,49,147,30.612244897959183,Panjabi (Punjabi) <punjabi-users@lists.sf.net>
+zenity,751,0,0,174,0,0,802,751,100.0,Punjabi/Panjabi <punjabi-users@lists.sf.net>
+zypper,519,3854,5393,131,384,396,664,9766,5.314355928732336,Panjabi <punjabi-l10n@list.sf.net>

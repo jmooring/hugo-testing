@@ -1,0 +1,108 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+atril,55,0,1752,36,0,383,50,1807,3.0437188710570005,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,1877,0,7748,465,0,1130,1759,9625,19.5012987012987,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Limburgish <li.org>
+cinnamon-translations,123,0,6628,60,0,1602,123,6751,1.821952303362465,Limburgian <li@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+deepin-terminal,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1151,0,0,257,0,1151,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,2998,0,0,573,0,2998,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+engrampa,91,0,7817,48,0,840,86,7908,1.1507334344967122,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+eom,37,0,1732,30,0,311,37,1769,2.091577162238553,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+epiphany,1057,718,957,406,223,136,1002,2732,38.689604685212295,Dutch <vertaling@nl.linux.org>
+fragments,629,0,1377,196,0,330,701,2006,31.35593220338983,Limburgian (https://www.transifex.com/transmissionbt/teams/33778/li/)
+gala,0,0,140,0,0,34,0,140,0.0,none
+gconf-editor,101,63,156,36,23,35,96,320,31.5625,Limburgish
+gdk-pixbuf2,792,466,90,118,73,11,749,1348,58.753709198813056,Limburgish <li.org>
+gnome-desktop,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+gnome-desktop3,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+gnome-icon-theme,22,7,23,22,3,21,22,52,42.30769230769231,Limburgish
+gnome-mime-data,850,0,0,348,0,0,782,850,100.0,Limburgish <li.org>
+gnome-panel,313,907,2300,82,210,216,320,3520,8.892045454545453,Dutch <vertaling@nl.linux.org>
+gnome-system-monitor,388,67,47,116,20,7,377,502,77.29083665338645,Limburgish <li@li.org>
+gnome-themes,95,0,6,32,0,2,101,101,94.05940594059405,Limburgish
+gnome-vfs2,225,77,980,66,20,162,211,1282,17.550702028081123,Limburgish
+granite,0,0,269,0,0,88,0,269,0.0,
+gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+gtk3,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+gtk4,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,8,0,666,8,0,99,8,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libbonobo,464,17,43,95,5,8,458,524,88.54961832061069,Limburgish
+libbonoboui,314,7,39,92,3,18,306,360,87.22222222222223,Limburgish <li@li.org>
+libgnomecanvas,339,18,0,92,2,0,290,357,94.9579831932773,Limburgish <li@li.org>
+libgnomeui,1136,98,185,290,22,33,1031,1419,80.05637773079634,Limburgish <li.org>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+marco,23,0,4316,12,0,419,21,4339,0.5300760543904126,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-applets,32,0,9391,29,0,1129,30,9423,0.33959460893558313,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-calc,15,0,3163,14,0,705,15,3178,0.4719949653870359,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-control-center,55,0,8492,43,0,1462,55,8547,0.6435006435006435,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-desktop,59,0,2165,15,0,270,59,2224,2.652877697841727,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-media,4,0,235,4,0,95,4,239,1.6736401673640167,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-menu,13,0,295,11,0,99,13,308,4.220779220779221,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+mate-menus,2,0,95,2,0,35,2,97,2.0618556701030926,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-panel,370,0,6357,111,0,691,368,6727,5.500222982012784,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-polkit,1,0,122,1,0,20,1,123,0.8130081300813009,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-power-manager,9,0,2667,9,0,405,9,2676,0.336322869955157,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-sensors-applet,5,0,308,5,0,104,5,313,1.5974440894568689,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-session-manager,31,0,681,17,0,114,30,712,4.353932584269663,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-system-monitor,113,0,4798,63,0,595,111,4911,2.300957035227041,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-terminal,41,0,4664,27,0,511,35,4705,0.871413390010627,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-themes,9,0,65,3,0,20,9,74,12.162162162162163,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+mate-user-admin,5,0,623,5,0,126,5,628,0.7961783439490446,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mate-utils,100,0,3779,57,0,646,97,3879,2.577984016499098,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+mingw-atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+mingw-gdk-pixbuf,792,466,90,118,73,11,749,1348,58.753709198813056,Limburgish <li.org>
+mingw-gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+mingw-gtk3,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+mozo,1,0,42,1,0,16,1,43,2.3255813953488373,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+nautilus,3450,2903,852,743,398,120,3347,7205,47.883414295628036,Limburgish <li@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser5,0,0,268,0,0,50,0,268,0.0,Limburgish <https://hosted.weblate.org/projects/phpmyadmin/master/li/>
+pluma,107,0,5556,56,0,1377,106,5663,1.8894578845135088,Limburgian (https://www.transifex.com/mate/teams/13566/li/)
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+transmission,629,0,1369,196,0,327,701,1998,31.48148148148148,Limburgian (https://www.transifex.com/transmissionbt/teams/33778/li/)
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none
+yelp,51,96,459,23,47,78,43,606,8.415841584158416,Limburgish <li.org>

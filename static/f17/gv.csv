@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+epiphany,2764,198,82,666,44,21,3387,3044,90.80157687253615,Manx <reuben03@live.com>
+gdm,807,255,244,175,36,25,969,1306,61.791730474732006,Manx <gv@li.org>
+gnome-menus,84,0,41,36,0,10,92,125,67.2,Manx <gv@li.org>
+gnome-panel,4272,52,180,597,3,12,5014,4504,94.84902309058614,Manx <gv@li.org>
+mate-file-manager,7500,863,521,1269,138,36,9107,8884,84.42143178748312,Manx <gv@li.org>
+mate-menus,84,0,41,36,0,10,92,125,67.2,Manx <gv@li.org>
+mate-panel,4272,52,180,597,3,12,5014,4504,94.84902309058614,Manx <gv@li.org>
+nautilus,7500,863,521,1269,138,36,9107,8884,84.42143178748312,Manx <gv@li.org>
+nemo,7500,863,521,1269,138,36,9107,8884,84.42143178748312,Manx <gv@li.org>
+stellarium,9,0,6615,6,0,1492,12,6624,0.1358695652173913,Manx <gv@li.org>
+totem,2169,0,416,530,0,57,2630,2585,83.90715667311413,Manx <gv@li.org>
+transmission,27,0,1782,19,0,475,45,1809,1.4925373134328357,Manx <gv@li.org>

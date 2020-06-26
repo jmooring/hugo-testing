@@ -1,0 +1,528 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Democracy,1812,56,1234,426,12,130,1658,3102,58.41392649903289,Czech <cs@li.org>
+Django,2055,14,0,463,2,0,1973,2069,99.32334461092314,Czech
+GConf2,3954,0,0,461,0,0,3674,3954,100.0,Czech <cs@li.org>
+LabPlot,0,1716,1385,0,914,365,0,3101,0.0,LANGUAGE <LL@li.org>
+Miro,2269,868,479,497,92,60,2051,3616,62.748893805309734,Czech <cs@li.org>
+NetworkManager,993,0,0,191,0,0,939,993,100.0,Czech <cs@li.org>
+NetworkManager-openvpn,360,0,0,80,0,0,305,360,100.0,cs_CZ <cs@li.org>
+NetworkManager-vpnc,295,0,0,47,0,0,243,295,100.0,cs_CZ <cs@li.org>
+ORBit,8,0,0,2,0,0,8,8,100.0,Czech <cs@li.org>
+Terminal,1419,3,28,249,1,2,1300,1450,97.86206896551725,Czech <translation-team-cs@lists.sourceforge.net>
+Thunar,3751,8,43,668,3,2,3452,3802,98.65860073645449,Czech <translation-team-cs@lists.sourceforge.net>
+WindowMaker,4841,0,48,928,0,34,4363,4889,99.01820413172427,czech <cs@li.org>
+Zim,766,0,0,261,0,0,738,766,100.0,<cs@li.org>
+a2ps,1232,200,49,166,7,6,1216,1481,83.18703578663066,Czech <cs@li.org>
+abiword,4622,47,30,1514,19,9,4387,4699,98.36135347946372,Czech <cs@li.org>
+agave,114,0,1,41,0,1,101,115,99.1304347826087,Czech <cs@li.org>
+alacarte,61,13,0,27,3,0,65,74,82.43243243243244,Czech <cs@li.org>
+alexandria,1033,24,35,274,12,3,950,1092,94.59706959706959,Czech <cs@li.org>
+alleyoop,348,0,0,89,0,0,312,348,100.0,Czech <cs@li.org>
+amarok,8366,883,4006,1885,115,509,8115,13255,63.11580535646926,Czech <cs@li.org>
+anaconda,10112,0,0,1238,0,0,8530,10112,100.0,Czech
+anjuta,7067,0,2,1940,0,1,6425,7069,99.97170745508559,Czech <cs@li.org>
+anjuta-gdl,686,0,0,142,0,0,581,686,100.0,Czech <cs@li.org>
+apcupsd,0,0,647,0,0,103,0,647,0.0,LANGUAGE <LL@li.org>
+arm-gp2x-linux-glibc,4666,0,0,985,0,0,4719,4666,100.0,Czech <cs@li.org>
+aspell,1689,4,33,287,1,5,1465,1726,97.85631517960603,Czech <translation-team-cs@lists.sourceforge.net>
+asunder,330,17,17,65,2,2,316,364,90.65934065934066,<cs@li.org>
+at-spi,15,0,0,4,0,0,14,15,100.0,Czech <cs@li.org>
+atk,369,1,0,122,1,0,341,370,99.72972972972973,Czech <cs@li.org>
+atomix,146,0,0,59,0,0,146,146,100.0,Czech <cs@li.org>
+audacious,1718,0,0,455,0,0,1723,1718,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+audacious-plugins,4131,0,0,741,0,0,3917,4131,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+audacity,3419,843,1510,847,173,221,3301,5772,59.23423423423423,czech team <tosovsky@wo.cz>
+audit,876,0,263,201,0,31,791,1139,76.90956979806847,Czech
+authconfig,1098,0,0,217,0,0,982,1098,100.0,Czech <cs@li.org>
+autorun,303,4,0,39,1,0,261,307,98.69706840390879,Czech <cs@li.org>
+balsa,5287,57,4,1276,10,1,5116,5348,98.85938668661181,Czech <cs@li.org>
+banshee,3848,140,252,938,4,18,3614,4240,90.75471698113208,Czech <gnome-cs-list@gnome.org>
+basket,2079,1607,895,519,96,79,1865,4581,45.383104125736736,Czech
+bazaar,22,6,6481,6,1,398,20,6509,0.33799354739591336,Czech <cs@li.org>
+beagle,997,0,0,298,0,0,935,997,100.0,Czech <gnome-cs-list@gnome.org>
+beryl-core,522,20,38,132,11,11,511,580,90.0,Czech
+bibletime,3348,22,67,578,7,35,2816,3437,97.41053244108234,<cs@li.org>
+bibus,1319,0,0,400,0,0,1164,1319,100.0,Czech <cs@li.org>
+bittorrent,3100,0,804,517,0,116,2920,3904,79.40573770491804,LANGUAGE <LL@li.org>
+blam,330,0,0,93,0,0,275,330,100.0,<cs@li.org>
+blender,7249,155,18369,2463,111,5348,6952,25773,28.12633376013658,cs@li.org
+bluefish,2451,387,44,1011,31,14,2521,2882,85.04510756419154,Not a member <cs@li.org>
+boinc-client,2984,0,0,608,0,0,2706,2984,100.0,
+boswars,191,13,2,56,3,2,181,206,92.71844660194175,Czech
+bug-buddy,1233,0,0,176,0,0,1124,1233,100.0,Czech <cs@li.org>
+bzflag,2770,0,0,585,0,0,2692,2770,100.0,
+bzr-gtk,71,93,926,40,27,240,76,1090,6.513761467889909,Czech <cs@li.org>
+cdcollect,1200,22,6,244,4,2,1061,1228,97.71986970684038,Czech <cs@li.org>
+centericq,312,1007,1162,149,289,271,290,2481,12.575574365175331,Czech <cs@li.org>
+centerim,2743,0,0,790,0,0,2618,2743,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+chemtool,1124,0,60,226,0,35,1074,1184,94.93243243243244,cs
+chkconfig,430,0,0,88,0,0,402,430,100.0,Czech <cs@li.org>
+cinepaint,1946,1697,3762,727,697,511,1881,7405,26.2795408507765,Czech <cs@li.org>
+claws-mail,12185,1051,1451,2669,246,213,11376,14687,82.96452645196433,Czech <cs@li.org>
+claws-mail-plugins,817,138,90,177,18,26,818,1045,78.18181818181819,Czech <cs@li.org>
+compat-libgda,2232,0,0,469,0,0,1986,2232,100.0,Czech <cs@li.org>
+compat-wxGTK,3787,0,28,771,0,6,3432,3815,99.26605504587155,wxWindows translators <wx-translators@wxwindows.org>
+compat-wxGTK26,3600,736,1103,777,168,197,3281,5439,66.18863761720904,wxWidgets translators <wx-translators@wxwidgets.org>
+compat-wxPythonGTK2,3787,0,28,771,0,6,3432,3815,99.26605504587155,wxWindows translators <wx-translators@wxwindows.org>
+compiz,941,139,165,261,34,45,938,1245,75.58232931726909,<cs@li.org>
+conglomerate,3064,227,3026,535,149,454,2662,6317,48.504036726294125,Czech <cs@li.org>
+contact-lookup-applet,259,0,0,55,0,0,213,259,100.0,Czech <cs@li.org>
+control-center,3561,15,170,819,2,16,3348,3746,95.06139882541378,Czech <gnome-cs-list@gnome.org>
+coreutils,1179,4547,10256,214,518,476,1215,15982,7.377049180327869,Czech <cs@li.org>
+cracklib,93,0,0,15,0,0,74,93,100.0,czech <suse@suse.cz>
+cycle,126,0,0,61,0,0,117,126,100.0,
+d4x,2033,30,0,580,5,0,1985,2063,98.54580707707223,čeština <cs@li.org>
+dasher,311,0,0,113,0,0,300,311,100.0,Czech <gnome-cs-list@gnome.org>
+dayplanner,66,253,569,32,40,83,56,888,7.4324324324324325,Czech <cs@li.org>
+dbmail,457,0,0,39,0,0,375,457,100.0,Czech <debian-l10n-czech@lists.debian.org>
+dcraw,548,0,0,113,0,0,580,548,100.0,
+deluge,2350,0,2,529,0,1,2049,2352,99.91496598639455,Czech <cs@li.org>
+deskbar-applet,601,54,79,162,5,8,581,734,81.88010899182562,Czech <gnome-cs-list@gnome.org>
+desktop-printing,360,0,0,84,0,0,323,360,100.0,Czech <cs@li.org>
+devhelp,272,0,0,62,0,0,242,272,100.0,Czech <cs@li.org>
+dia,5002,237,472,1863,84,99,5016,5711,87.58536158291017,Czech <gnome-cs-list@gnome.org>
+dialog,9,2,14,9,2,12,9,25,36.0,
+diffutils,1329,0,13,177,0,3,1303,1342,99.03129657228018,Czech <translation-team-cs@lists.sourceforge.net>
+digikam,2262,4116,9559,739,610,715,2078,15937,14.193386459183033,Czech <cs@li.org>
+digikamimageplugins,2132,273,3323,535,18,273,1852,5728,37.22067039106145,<cs@li.org>
+drgeo,1960,25,0,458,3,0,1751,1985,98.74055415617129,Czech <cs@li.org>
+drivel,961,0,0,301,0,0,891,961,100.0,Czech <cs@li.org>
+dvdisaster,3170,0,1060,489,0,111,3023,4230,74.94089834515366,čeština <cs@li.org>
+e2fsprogs,3385,1216,384,615,140,49,3436,4985,67.90371113340021,Czech <cs@li.org>
+easytag,4890,14,320,921,2,23,4338,5224,93.60643185298622,Czech <cs@li.org>
+eel2,235,0,0,52,0,0,184,235,100.0,Czech <cs@li.org>
+eject,521,0,0,62,0,0,540,521,100.0,Czech <provoz@debian.cz>
+ekiga,5171,0,0,775,0,0,4503,5171,100.0,Czech <cs@li.org>
+elinks,7536,1199,2651,1271,170,124,7402,11386,66.1865448796768,Czech <translation-team-cs@lists.souceforge.net>
+emerald,701,12,49,196,3,12,703,762,91.99475065616798,Czech
+empathy,129,252,562,44,86,61,111,943,13.679745493107104,Czech <cs@li.org>
+eog,874,0,0,216,0,0,800,874,100.0,Czech <gnome-cs-list@gnome.org>
+epiphany,3969,0,0,874,0,0,3473,3969,100.0,Czech <gnome-cs-list@gnome.org>
+epiphany-extensions,747,0,0,218,0,0,719,747,100.0,Czech <gnome-cs-list@gnome.org>
+evince,986,0,0,286,0,0,907,986,100.0,Czech <gnome-cs-list@gnome.org>
+evolution,18299,563,394,4502,119,35,16363,19256,95.03012048192771,Czech <gnome-cs-list@gnome.org>
+evolution-connector,1220,0,0,186,0,0,1125,1220,100.0,Czech <cs@li.org>
+evolution-data-server,4889,0,14,1008,0,9,4642,4903,99.71446053436671,Czech <cs@li.org>
+evolution-webcal,180,0,0,29,0,0,158,180,100.0,Czech <cs@li.org>
+exaile,327,0,2253,127,0,556,337,2580,12.674418604651164,Czech <cs@li.org>
+exo,1476,0,0,288,0,0,1357,1476,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+f-spot,2335,0,0,647,0,0,2273,2335,100.0,Czech <gnome-cs-list@gnome.org>
+fast-user-switch-applet,881,51,0,105,7,0,658,932,94.52789699570815,Czech <cs@li.org>
+fetchmail,3259,435,237,563,52,23,3241,3931,82.90511320274739,Czech <cs@li.org>
+file-roller,958,0,0,241,0,0,815,958,100.0,Czech <gnome-cs-list@gnome.org>
+filezilla,5494,0,0,935,0,0,5147,5494,100.0,Michal Molhanec <michal@molhanec.net>
+firestarter,1904,0,0,374,0,0,1643,1904,100.0,Czech <cs@li.org>
+firstboot,598,0,0,59,0,0,493,598,100.0,Czech
+freeciv,33205,44,30,3716,6,3,28724,33279,99.7776375492052,Czech <cs@li.org>
+freetype1,748,0,0,160,0,0,751,748,100.0,Czech
+frozen-bubble,616,0,0,137,0,0,617,616,100.0,Czech <cs@li.org>
+fslint,171,37,156,82,9,35,175,364,46.97802197802198,Czech <cs@li.org>
+fuse-encfs,735,539,36,66,57,6,669,1310,56.10687022900763,Czech <cs@li.org>
+gail,170,0,0,103,0,0,174,170,100.0,Czech <cs@li.org>
+gajim,7442,51,60,1360,8,16,6468,7553,98.53038527737323,<cs@li.org>
+galeon,5737,0,0,1386,0,0,5390,5737,100.0,Czech <cs@li.org>
+gallery2,15879,121,267,2323,10,21,13838,16267,97.61480297534887,Czech <cs@li.org>
+galternatives,165,0,0,43,0,0,147,165,100.0,Czech <debian-l10n-czech@lists.debian.org>
+gambas,1871,0,32,580,0,12,1668,1903,98.31844456121914,LANGUAGE <LL@li.org>
+gammu,1665,0,2107,567,0,470,1658,3772,44.14103923647932,Language =cs <cs@li.org>
+gcalctool,908,8,113,355,2,4,903,1029,88.24101068999029,Czech <gnome-cs-list@gnome.org>
+gcompris,9409,40,38,1112,2,2,7665,9487,99.17782228312427,Czech <cs@li.org>
+gconf-editor,329,0,0,98,0,0,308,329,100.0,Czech <cs@li.org>
+gdeskcal,19,0,55,19,0,13,19,74,25.675675675675674,LANGUAGE <LL@li.org>
+gdesklets,1131,0,226,172,0,3,959,1357,83.34561532792925,Czech <cs@li.org>
+gdm,5369,371,1797,760,78,132,4863,7537,71.23523948520631,Czech <gnome-cs-list@gnome.org>
+geany,3407,487,837,768,131,102,3031,4731,72.01437328260411,Czech <geany-i18n@uvena.de>
+gedit,4816,75,172,1088,5,9,4570,5063,95.12146948449536,Czech <gnome-cs-list@gnome.org>
+gedit-plugins,133,0,0,33,0,0,117,133,100.0,Czech <gnome-cs-list@gnome.org>
+genius,6555,0,0,884,0,0,5802,6555,100.0,Czech <cs@li.org>
+gettext,649,1146,4593,103,87,416,671,6388,10.159674389480275,Czech <cs@li.org>
+gftp,3372,0,0,632,0,0,2962,3372,100.0,Czech <cs@li.org>
+ghex,966,0,0,275,0,0,901,966,100.0,Czech <cs@li.org>
+gimp,25643,0,0,6663,0,0,23178,25643,100.0,Czech <gnome-cs-list@gnome.org>
+gkrellm,3598,0,63,511,0,13,2926,3661,98.2791586998088,Czech <cs@li.org>
+glabels,1387,0,271,452,0,106,1271,1658,83.65500603136309,cs <cs@li.org>
+glade2,5902,0,0,1311,0,0,5082,5902,100.0,Czech <cs@li.org>
+glib2,1188,25,0,141,4,0,1038,1213,97.93899422918383,Czech <gnome-cs-list@gnome.org>
+glibc,4666,0,0,985,0,0,4719,4666,100.0,Czech <cs@li.org>
+glom,1055,0,0,249,0,0,886,1055,100.0,Czech <cs@li.org>
+gnochm,526,0,58,119,0,3,483,584,90.06849315068493,cs <cs@li.org>
+gnokii,37,198,3872,14,71,946,39,4107,0.9009009009009009,gnokii
+gnome-applet-music,634,0,0,120,0,0,567,634,100.0,Czech
+gnome-applet-netspeed,87,7,38,32,5,10,85,132,65.9090909090909,Czech <cs@li.org>
+gnome-applet-sensors,224,0,0,75,0,0,195,224,100.0,<en@li.org>
+gnome-applets,3641,46,81,915,16,15,3498,3768,96.62951167728238,Czech <gnome-cs-list@gnome.org>
+gnome-backgrounds,18,0,0,9,0,0,18,18,100.0,Czech <cs@li.org>
+gnome-blog,349,0,0,59,0,0,311,349,100.0,Czech <cs@li.org>
+gnome-bluetooth,366,0,0,70,0,0,320,366,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-build,597,0,0,155,0,0,534,597,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-commander,3701,371,4111,1117,59,335,3436,8183,45.227911523890995,Czech <gnome-cs-list@gnome.org>
+gnome-desktop,330,0,0,76,0,0,312,330,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-doc-utils,213,0,0,80,0,0,125,213,100.0,Czech <cs@li.org>
+gnome-games,4674,589,1803,1082,235,381,3928,7066,66.14774978771582,Czech <gnome-cs-list@gnome.org>
+gnome-icon-theme,53,0,0,47,0,0,55,53,100.0,Czech <cs@li.org>
+gnome-keyring,711,0,0,57,0,0,526,711,100.0,Czech <cs@li.org>
+gnome-keyring-manager,405,0,0,119,0,0,372,405,100.0,Czech <cs@li.org>
+gnome-libs,988,40,57,381,4,10,915,1085,91.05990783410138,czech <cs@li.org>
+gnome-mag,5,0,0,2,0,0,5,5,100.0,Czech <cs@li.org>
+gnome-media,1793,0,0,507,0,0,1645,1793,100.0,Czech <cs@li.org>
+gnome-menus,163,0,0,59,0,0,166,163,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,926,887,100.0,Czech <cs@li.org>
+gnome-netstatus,425,0,0,110,0,0,381,425,100.0,Czech <cs@li.org>
+gnome-nettool,501,19,0,177,3,0,486,520,96.34615384615385,Czech <cs@li.org>
+gnome-panel,4090,0,0,548,0,0,3564,4090,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-phone-manager,374,0,128,89,0,23,354,502,74.5019920318725,Czech <cs@li.org>
+gnome-pilot,1466,0,0,294,0,0,1336,1466,100.0,Czech <cs@li.org>
+gnome-pilot-conduits,209,0,0,50,0,0,190,209,100.0,Czech <cs@li.org>
+gnome-power-manager,1757,645,326,302,47,24,1606,2728,64.40615835777126,<cs@li.org>
+gnome-ppp,240,0,20,102,0,8,245,260,92.3076923076923,Czech <cs@li.org>
+gnome-schedule,675,289,180,171,30,13,594,1144,59.0034965034965,Czech <cs@li.org>
+gnome-screensaver,1339,0,0,201,0,0,1113,1339,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-session,569,0,0,104,0,0,496,569,100.0,Czech <cs@li.org>
+gnome-specimen,56,0,0,18,0,0,50,56,100.0,Czech <cs@li.org>
+gnome-spell,87,0,0,61,0,0,84,87,100.0,czech <cs@li.org>
+gnome-system-monitor,626,139,38,192,22,4,593,803,77.95765877957659,Czech <gnome-cs-list@gnome.org>
+gnome-terminal,4599,0,0,513,0,0,3916,4599,100.0,Czech <cs@li.org>
+gnome-themes,81,0,0,25,0,0,93,81,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-user-share,75,0,0,16,0,0,68,75,100.0,Czech <cs@li.org>
+gnome-utils,3731,266,67,647,42,11,3257,4064,91.80610236220473,Czech <gnome-cs-list@gnome.org>
+gnome-vfs2,1506,0,0,300,0,0,1337,1506,100.0,Czech <gnome-cs-list@gnome.org>
+gnome-volume-manager,1124,0,0,183,0,0,1022,1124,100.0,Czech <cs@li.org>
+gnomebaker,287,42,857,88,13,190,256,1186,24.198988195615513,Czech <cs@li.org>
+gnomeradio,473,0,0,107,0,0,448,473,100.0,Czech <cs@li.org>
+gnomesword,1651,0,80,595,0,29,1578,1731,95.37839399191219,
+gnotime,104,345,1559,61,142,226,106,2008,5.179282868525896,czech <cs@li.org>
+gnubg,18383,187,103,3286,40,31,17081,18673,98.446955497242,Czech <cs@li.org>
+gnubiff,947,51,174,212,4,6,887,1172,80.80204778156997,Czech < >
+gnucash,19957,1115,3080,3401,95,173,17425,24152,82.63083802583637,Czech <translation-team-cs@lists.sourceforge.net>
+gnumeric,43341,36,275,3365,11,3,38548,43652,99.2875469623385,Czech <cs@li.org>
+gnupg,7856,264,310,1181,45,42,7540,8430,93.19098457888494,Czech <translations.cs@gnupg.cz>
+gnupg2,6501,1473,1910,1062,304,281,6374,9884,65.77296641036018,Czech <translations.cs@gnupg.cz>
+goffice,2244,246,539,899,109,150,2229,3029,74.08385605810498,Czech <cs@li.org>
+goffice04,2405,439,1146,950,158,257,2361,3990,60.27568922305765,Czech <gnome-cs-list@gnome.org>
+gok,1867,0,0,429,0,0,1705,1867,100.0,Czech <cs@li.org>
+gossip,194,618,1154,74,187,164,172,1966,9.867751780264497,Czech <cs@li.org>
+gourmet,1542,44,1927,418,7,364,1332,3513,43.894107600341584,Czech <cs@li.org>
+gparted,773,0,0,159,0,0,712,773,100.0,Czech <cs@li.org>
+gphoto2,1144,412,331,242,51,74,1025,1887,60.625331213566504,Czech <cs@li.org>
+gpicview,115,0,37,29,0,2,113,152,75.6578947368421,
+gpodder,1024,4,530,155,2,155,843,1558,65.72528883183568,Xorwen <xorwen@gmail.com>
+gq,461,556,920,95,150,120,398,1937,23.799690242643262,unknown <LL@li.org>
+gqview,1717,4,0,667,2,0,1685,1721,99.76757699012202,Czech <cs@li.org>
+gramps,13061,2548,2995,2475,361,203,11133,18604,70.20533218662653,<cs@li.org>
+grass,32868,0,0,5364,0,0,31695,32868,100.0,Czech <translations@grass.itc.it>
+graveman,1790,161,1537,430,25,96,1695,3488,51.31880733944955,Czech <cs@li.org>
+grep,579,0,0,48,0,2,652,579,100.0,Czech <cs@li.org>
+greylistd,350,0,0,14,0,0,297,350,100.0,Czech <debian-l10n-czech@lists.debian.org>
+grisbi,5916,5,5,1476,1,1,5234,5926,99.83125210934864,
+gscan2pdf,1033,0,0,334,0,0,978,1033,100.0,Czech <cs@li.org>
+gstreamer,711,205,219,155,36,45,655,1135,62.643171806167395,Czech <translation-team-cs@lists.sourceforge.net>
+gstreamer-plugins-base,49,82,366,14,12,85,42,497,9.859154929577464,Czech <translation-team-cs@lists.sourceforge.net>
+gstreamer-plugins-good,42,163,297,27,22,34,40,502,8.366533864541832,Czech <translation-team-cs@lists.sourceforge.net>
+gthumb,3002,25,93,913,5,3,2732,3120,96.21794871794872,<cs@li.org>
+gtk+,202,0,0,105,0,0,196,202,100.0,Czech <cs@li.org>
+gtk2,9188,1100,1314,1845,216,244,7815,11602,79.1932425443889,Czech <gnome-cs-list@gnome.org>
+gtkhtml3,915,0,0,406,0,0,877,915,100.0,czech <cs@li.org>
+gtkhtml38,915,0,0,406,0,0,877,915,100.0,czech <cs@li.org>
+gtklp,223,291,77,131,55,25,229,591,37.7326565143824,
+gtksourceview,825,6,3,335,4,1,841,834,98.92086330935251,Czech <cs@li.org>
+gtranslator,1432,0,0,372,0,0,1410,1432,100.0,Czech <cs@li.org>
+gtypist,291,70,116,58,9,9,272,477,61.0062893081761,Czech
+gucharmap,776,0,0,283,0,0,761,776,100.0,Czech <gnome-cs-list@gnome.org>
+gutenprint,2024,2411,2500,339,498,825,1722,6935,29.185291997116074,Czech <translation-team-cs@lists.sourceforge.net>
+gwenview,1011,9,301,296,2,22,936,1321,76.5329295987888,Czech <cs@li.org>
+gwget,507,0,0,166,0,0,489,507,100.0,Czech <cs@li.org>
+gxine,2465,18,109,604,7,12,2392,2592,95.1003086419753,Czech <cs@li.org>
+hal,109,25,10,59,13,4,105,144,75.69444444444444,cs_CZ <cs@li.org>
+homebank,95,0,987,62,0,320,97,1082,8.78003696857671,Czech <cs@li.org>
+horde,7073,0,0,1939,0,0,6583,7073,100.0,Cestina <cs@li.org>
+hugin,3315,269,137,667,27,28,2950,3721,89.0889545821016,Jiří Slabý <jirislaby@gmail.com>
+hwbrowser,117,0,0,52,0,0,110,117,100.0,Czech
+icewm,1520,0,0,272,0,0,1487,1520,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+im-chooser,125,0,0,15,0,0,101,125,100.0,Czech <cs@li.org>
+imp,5646,0,0,1134,0,0,5149,5646,100.0,Cestina <cs@li.org>
+incollector,596,0,0,188,0,0,529,596,100.0,Czech <zbynek@mrkvicka.eu>
+ingo,631,24,96,180,5,15,610,751,84.02130492676432,i18n@lists.horde.org
+initng-conf-gtk,117,0,0,39,0,0,110,117,100.0,LANGUAGE <LL@li.org>
+initscripts,3497,0,0,785,0,0,3404,3497,100.0,Czech
+inkscape,11640,0,8,2475,0,2,11141,11648,99.93131868131869,<none>
+iso-codes,2597,4793,10600,1404,4054,7159,2397,17990,14.435797665369648,Czech <debian-l10n-czech@lists.debian.org>
+isomaster,672,0,0,106,0,0,621,672,100.0,<cs@li.org>
+jeta,0,0,0,0,0,0,0,0,0.0,Czech <i18n@lists.horde.org>
+jpilot,1975,218,44,578,43,13,1820,2237,88.28788556101922,Czech <translation-team-cs@lists.sourceforge.net>
+k3b,11996,213,8421,2244,16,272,11134,20630,58.148327678138635,Czech <cs@li.org>
+kaffeine,2354,0,0,658,0,0,2212,2354,100.0,Czech <cs@li.org>
+katapult,35,0,392,23,0,59,36,427,8.19672131147541,cs_CZ <cs@li.org>
+kazehakase,1888,0,1,591,0,1,1783,1889,99.94706193753309,Czech <debian-l10n-czech@lists.debian.org>
+kbilliards,133,0,75,38,0,26,114,208,63.942307692307686,český <cs@li.org>
+kchmviewer,734,39,308,130,3,22,548,1081,67.90009250693802,<cs@li.org>
+kdbg,304,3,115,119,2,33,276,422,72.03791469194313,Czech <flidr@kky.zcu.cz>
+kdebluetooth,676,181,660,70,60,159,547,1517,44.561634805537246,Czech <cs@li.org>
+kdesvn,762,132,2118,281,36,301,709,3012,25.298804780876495,cs_CZ <cs@li.org>
+kdetv,2004,0,202,449,0,34,1766,2206,90.84315503173164,cs_CZ <cs@li.org>
+kdiff3,418,0,2543,126,0,381,375,2961,14.116852414724757,cs_CZ <cs@li.org>
+kdissert,89,0,1938,56,0,226,85,2027,4.390725209669463,Czech <suse@suse.cz>
+kerry,471,7,8,127,2,5,435,486,96.91358024691358,cs_CZ <cs@li.org>
+keurocalc,291,0,0,116,0,0,282,291,100.0,<cs@li.org>
+kexec-tools,95,39,72,9,2,3,76,206,46.116504854368934,Czech <cs@li.org>
+kftpgrabber,846,246,1145,329,61,190,777,2237,37.818506928922666,Czech <suse@suse.cz>
+kgtk,82,0,0,20,0,0,76,82,100.0,Česky <cs@li.org>
+kicad,0,0,5966,0,0,2167,0,5966,0.0,
+kile,407,1514,8500,188,544,852,386,10421,3.9055752806832356,Czech <suse@suse.cz>
+kiosktool,1773,291,225,175,43,20,1318,2289,77.45740498034075,cs_CZ <cs@li.org>
+kipi-plugins,6841,907,5322,1496,99,729,5840,13070,52.34123947972456,Czech <cs@li.org>
+klamav,767,142,1594,174,37,208,691,2503,30.643228126248502,<cs@li.org>
+kmplayer,848,46,357,320,15,53,850,1251,67.78577138289369,Czech <cs@li.org>
+kmymoney2,9840,812,348,1749,73,24,8325,11000,89.45454545454545,<cs@li.org>
+knemo,465,0,148,175,0,9,410,613,75.85644371941272,Czech <cs@li.org>
+knetstats,118,0,0,53,0,0,114,118,100.0,Czech <cs@li.org>
+knetworkmanager,430,16,316,184,9,51,426,762,56.43044619422572,Czech <cs@li.org>
+konversation,2271,454,5889,744,98,437,2185,8614,26.3640585094033,<cs@li.org>
+kphotoalbum,710,743,4442,243,135,304,665,5895,12.044105173876165,Czech <suse@suse.cz>
+kpowersave,1691,0,8,315,0,1,1562,1699,99.52913478516776,<cs@li.org>
+krecipes,2703,85,152,369,18,19,2403,2940,91.93877551020408,Localization team <oo-cs-l10n@lists.sourceforge.net>
+kronolith,1014,259,225,321,60,26,912,1498,67.69025367156209,Czech <dev@lists.horde.org>
+krusader,6769,0,0,1398,0,0,6333,6769,100.0,krusader-i18n <krusader-i18n@googlegroups.com>
+ksensors,57,18,89,33,14,50,58,164,34.756097560975604,Czech <C@li.org>
+kshutdown,687,42,47,158,17,10,624,776,88.53092783505154,<cs@li.org>
+kst,39,107,6962,20,64,1654,41,7108,0.5486775464265616,Czech <suse@suse.cz>
+ksynaptics,54,0,601,29,0,105,51,655,8.244274809160306,cs_CZ <cs@li.org>
+ktorrent,3314,116,215,830,20,28,3195,3645,90.91906721536351,<cs@li.org>
+kudzu,73,0,0,13,0,0,68,73,100.0,Czech <cs@li.org>
+labyrinth,146,0,0,42,0,0,136,146,100.0,
+leafpad,101,10,12,53,6,8,105,123,82.11382113821138,Czech <cs@li.org>
+libbonobo,524,0,0,108,0,0,513,524,100.0,Czech <cs@li.org>
+libbonoboui,361,0,0,114,0,0,329,361,100.0,Czech <cs@li.org>
+libexif,2325,96,2974,490,46,333,2047,5395,43.09545875810936,<cs@li.org>
+libgda,2291,0,0,477,0,0,2031,2291,100.0,Czech <cs@li.org>
+libgdl,593,0,20,95,0,3,494,613,96.73735725938009,Czech <gnome-cs-list@gnome.org>
+libgnome,1517,0,0,237,0,0,1335,1517,100.0,Czech <gnome-cs-list@gnome.org>
+libgnomecanvas,357,0,0,94,0,0,332,357,100.0,Czech <cs@li.org>
+libgnomecups,210,0,0,54,0,0,174,210,100.0,Czech <cs@li.org>
+libgnomedb,547,401,2156,147,100,382,489,3104,17.622422680412374,Czech <cs@li.org>
+libgnomeprint22,168,0,0,98,0,0,170,168,100.0,Czech <cs@li.org>
+libgnomeprintui22,471,1,0,150,1,0,405,472,99.78813559322035,Czech <cs@li.org>
+libgnomeui,1325,0,0,328,0,0,1165,1325,100.0,Czech <gnome-cs-list@gnome.org>
+libgtop2,134,0,0,44,0,0,138,134,100.0,Czech <cs@li.org>
+libkexif,25,0,0,14,0,0,23,25,100.0,Czech <cs@li.org>
+libkipi,83,0,0,26,0,0,83,83,100.0,<cs@li.org>
+libpaper,86,0,0,46,0,0,82,86,100.0,Czech <provoz@debian.cz>
+libuser,1039,0,0,220,0,0,1019,1039,100.0,Czech <cs@li.org>
+libvirt,2277,41,19,502,11,4,2182,2337,97.43260590500643,Czech <cs@li.org>
+libwnck,88,0,0,33,0,0,101,88,100.0,Czech <cs@li.org>
+libxfce4util,413,0,0,4,0,0,358,413,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+libxfcegui4,81,0,0,25,0,0,71,81,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+licq,30,0,0,16,0,0,31,30,100.0,Czech <cs@li.org>
+liferea,2434,0,81,521,0,12,2294,2515,96.77932405566601,Czech GNOME Translation Team
+lilypond,339,1010,1112,92,186,171,335,2461,13.774888256806175,Czech <cz@li.org>
+lincity-ng,1042,0,705,379,0,58,1002,1747,59.6451058958214,Czech <cs@li.org>
+linphone,793,0,0,208,0,0,724,793,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+listen,701,17,29,308,8,7,683,747,93.84203480589022,Czech <cs@li.org>
+lynx,7229,113,589,1024,43,133,6511,7931,91.14865716807465,Czech <cs@li.org>
+lyx,9843,0,0,3604,0,0,9237,9843,100.0,Czech <LL@li.org>
+mail-notification,1908,0,0,354,0,0,1691,1908,100.0,Pav Lucistnik <pav@FreeBSD.org>
+mailman,12737,1045,7552,1046,43,239,10942,21334,59.70282178681916,Czech <cs@li.org>
+mc,3468,6,25,983,2,3,3456,3499,99.11403258073736,Czech <cs@li.org>
+mcrypt,308,127,530,44,18,81,264,965,31.917098445595855,Czech <cs@li.org>
+meld,883,0,0,227,0,0,827,883,100.0,Czech <cs@li.org>
+metacity,6560,1184,94,483,21,3,5663,7838,83.6948201071702,<cs@li.org>
+minicom,1352,162,273,345,24,20,1373,1787,75.65752658086178,Czech <cs@li.org>
+mirage,739,0,3,236,0,3,707,742,99.59568733153638,
+mlocate,535,0,0,48,0,0,523,535,100.0,Czech <cs@li.org>
+moin,2651,0,0,472,0,0,2363,2651,100.0,
+monkey-bubble,309,0,0,86,0,0,316,309,100.0,Czech <cs@li.org>
+monodevelop,5420,0,0,1451,0,0,4884,5420,100.0,Czech <cs@li.org>
+monotone,74,0,0,6,0,0,69,74,100.0,czech <debian-l10n-czech@lists.debian.org>
+mousepad,135,0,0,64,0,0,134,135,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+mtpaint,2537,0,316,740,0,90,2347,2853,88.92393971258325,Czech <en@li.org>
+muine,490,0,0,124,0,0,490,490,100.0,Czech <cs@li.org>
+mutt,5202,4,9,1086,1,2,5101,5215,99.75071907957815,Czech <translation-team-cs@lists.sourceforge.net>
+mysql,302,0,0,19,0,0,250,302,100.0,Czech <debian-l10n-czech@lists.debian.org>
+nano,272,1140,837,91,164,107,237,2249,12.094264117385505,Czech <cs@li.org>
+nautilus,6891,0,0,1144,0,0,5998,6891,100.0,<cs@li.org>
+nautilus-actions,1613,0,0,157,0,0,1372,1613,100.0,<cs@li.org>
+nautilus-cd-burner,1247,0,0,198,0,0,1051,1247,100.0,Czech <cs@li.org>
+nautilus-open-terminal,24,0,0,5,0,0,18,24,100.0,Czech <cs@li.org>
+nautilus-sendto,300,0,0,62,0,0,241,300,100.0,Czech <gnome-cs-list@gnome.org>
+ncpfs,5590,0,106,786,0,29,5255,5696,98.13904494382022,cs_CZ <cs@li.org>
+net-tools,2123,38,67,491,8,2,2232,2228,95.28725314183124,Czech <cs@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Czech
+notecase,772,0,0,247,0,0,710,772,100.0,Zdeněk Hájek <zdena@inmail.cz>
+ntfs-config,447,8,0,64,3,0,354,455,98.24175824175823,Czech <cs@li.org>
+nut,311,57,0,11,2,0,230,368,84.51086956521739,Czech <provoz@debian.cz>
+nx,243,0,0,12,0,0,201,243,100.0,Czech <debian-l10n-czech@lists.debian.org>
+obconf,566,18,57,131,6,4,467,641,88.29953198127926,Czech <cs@li.org>
+openbox,344,0,36,71,0,6,316,380,90.52631578947368,Czech <cs@li.org>
+openswan,1243,0,0,50,0,0,960,1243,100.0,Czech <cs@li.org>
+orage,864,0,0,539,0,0,924,864,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+orca,48,192,1064,28,86,395,50,1304,3.6809815950920246,Czech <cs@li.org>
+osmo,1125,4,0,491,2,0,1086,1129,99.64570416297609,Czech
+pam,492,0,0,107,0,0,444,492,100.0,cs_CZ <cs@li.org>
+pan,305,1316,667,101,377,122,320,2288,13.33041958041958,Czech <cs@li.org>
+parted,1340,1473,1973,195,125,237,1194,4786,27.998328458002508,Czech <translation-team-cs@lists.sourceforge.net>
+passwd,291,0,0,51,0,0,273,291,100.0,none
+pessulus,88,0,0,30,0,0,100,88,100.0,Czech <cs@li.org>
+pgadmin3,2631,2101,2612,965,704,493,2430,7344,35.82516339869281,<pgadmin-hackers@pgadmin.org>
+phpldapadmin,1964,0,0,372,0,0,1692,1964,100.0,phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net>
+picard,40,169,424,23,86,154,46,633,6.31911532385466,Czech <cs@li.org>
+pidgin,16281,0,0,3453,0,0,14903,16281,100.0,Czech <cs@li.org>
+pidgin-guifications,407,66,32,165,21,6,384,505,80.5940594059406,CZ <g16fx@centrum.cz>
+piklab,5479,781,369,1291,178,79,5159,6629,82.65198370794991,Czech <cs@li.org>
+pinfo,315,10,0,53,2,0,304,325,96.92307692307692,Czech <debian-l10n-czech@lists.debian.org>
+pingus,1120,13,0,176,6,0,945,1133,98.85260370697264,czech
+pirut,815,0,0,178,0,0,796,815,100.0,Czech <fedora-cs-list@redhat.com>
+planner,1608,0,0,494,0,0,1456,1608,100.0,Czech <cs@li.org>
+pmount,456,24,243,55,3,5,383,723,63.07053941908713,Czech <cs@li.org>
+po4a,1127,307,179,123,25,15,1016,1613,69.8698078115313,CS
+poedit,1154,0,0,272,0,0,1087,1154,100.0,Vaclav Slavik <vslavik@fastmail.fm>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+postgresql,4468,0,12864,689,0,2025,4060,17332,25.778906069697673,
+postgresql-jdbc,823,38,405,102,6,34,629,1266,65.00789889415482,
+pybliographer,855,0,0,243,0,0,821,855,100.0,Czech <cs@li.org>
+pychess,319,1,1351,104,1,240,309,1671,19.090365050867746,Czech <cs@li.org>
+pykickstart,240,0,0,22,0,0,208,240,100.0,Czech <fedora-cs-list@redhat.com>
+redhat-artwork,15,0,0,5,0,0,16,15,100.0,Czech
+redhat-menus,246,5,10,78,3,5,243,261,94.25287356321839,Czech
+regexxer,466,0,1,99,0,1,424,467,99.78586723768737,Czech <cs@li.org>
+resapplet,106,0,0,22,0,0,94,106,100.0,cs_CZ <cs@li.org>
+revelation,1241,4,654,344,1,47,1052,1899,65.35018430753028,Czech
+revisor,0,0,3320,0,0,606,0,3320,0.0,
+rhgb,121,0,0,29,0,0,109,121,100.0,Czech <cs@li.org>
+rhpl,185,0,0,80,0,0,177,185,100.0,Czech
+rhpxl,136,0,0,43,0,0,130,136,100.0,Czech <cs@li.org>
+rhythmbox,2374,0,110,630,0,3,2253,2484,95.57165861513688,Czech <cs@li.org>
+rosegarden4,10562,12,18,2245,3,1,10715,10592,99.71676737160121,čestina <cs@li.org>
+rpm,2266,1036,1456,447,221,281,2154,4758,47.625052543085324,Czech <cs@li.org>
+rsibreak,66,0,1287,30,0,123,70,1353,4.878048780487805,cs_CZ <cs@li.org>
+rt3,4437,0,1202,1213,0,271,4061,5639,78.68416385884022,
+ruby-gettext-package,536,27,18,114,6,2,527,581,92.25473321858864,Czech
+sabayon,816,0,0,167,0,0,829,816,100.0,Czech <cs@li.org>
+samba,1530,0,0,58,0,0,1202,1530,100.0,Czech <provoz@debian.cz>
+sane-backends,3114,138,377,592,52,59,2870,3629,85.80876274455773,
+scim,1166,2,3,276,2,3,952,1171,99.57301451750641,Czech <suse@suse.cz>
+scrollkeeper,531,49,20,235,8,3,510,600,88.5,Czech <sc@li.org>
+seahorse,2547,0,0,528,0,0,2275,2547,100.0,Czech <cs@li.org>
+sed,106,119,280,12,28,41,116,505,20.99009900990099,Czech <cs@li.org>
+setroubleshoot,0,0,7269,0,0,328,0,7269,0.0,LANGUAGE <LL@li.org>
+setuptool,54,0,6,16,0,1,53,60,90.0,Czech <cs@li.org>
+shadow-utils,2915,0,0,400,0,0,2967,2915,100.0,Czech <debian-l10n-czech@lists.debian.org>
+shared-mime-info,944,3,0,408,1,0,999,947,99.68321013727561,Czech <translation-team-cs@lists.sourceforge.net>
+sharutils,542,316,181,73,49,29,546,1039,52.16554379210779,Czech <cs@li.org>
+showimg,3905,0,1,862,0,1,3552,3906,99.97439836149513,Czech <cs@li.org>
+smb4k,1119,774,231,298,69,29,1018,2124,52.68361581920904,czech <cs@li.org>
+smolt,801,0,0,90,0,0,678,801,100.0,Czech <fedora-cs-list@redhat.com>
+solfege,1712,8,146,511,5,19,1551,1866,91.7470525187567,
+sonata,1052,0,0,325,0,0,1061,1052,100.0,
+sound-juicer,695,0,0,141,0,0,648,695,100.0,Czech <cs@li.org>
+soundconverter,420,7,8,100,3,1,379,435,96.55172413793103,Czech <cs@li.org>
+specspo,18869,34113,25185,1391,1704,1282,17311,78167,24.139342689370196,Czech
+specto,675,0,0,167,0,0,642,675,100.0,
+speedcrunch,1,0,17,1,0,12,1,18,5.555555555555555,cs
+squirrelmail,8842,543,1124,1338,165,156,7427,10509,84.13740603292416,Czech <squirrelmail-i18n@lists.sourceforge.net>
+stardict,477,1012,653,113,106,188,470,2142,22.268907563025213,Czech <cs@li.org>
+stellarium,907,120,69,422,22,32,893,1096,82.75547445255475,Czech <cs@li.org>
+straw,516,0,0,169,0,0,495,516,100.0,Czech <cs@li.org>
+supertux,820,294,100,146,12,37,706,1214,67.54530477759472,Czech
+switchdesk,137,0,0,19,0,0,128,137,100.0,Czech <cs@li.org>
+sylpheed,3929,1184,760,1098,297,89,3827,5873,66.8993699982973,Czech <cs@li.org>
+synaptic,2476,434,321,575,53,34,2405,3231,76.63262147941813,cs <cs@li.org>
+system-config-bind,170,422,8824,28,122,911,175,9416,1.8054375531011044,Czech <cs@li.org>
+system-config-boot,41,0,0,9,0,0,38,41,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-date,964,13,26,605,2,3,933,1003,96.11166500498504,Czech
+system-config-display,398,0,0,63,0,0,350,398,100.0,Czech
+system-config-httpd,805,59,2,198,23,4,708,866,92.95612009237875,Czech <cs@li.org>
+system-config-keyboard,78,0,0,12,0,0,70,78,100.0,Czech <cs@li.org>
+system-config-kickstart,1028,0,0,272,0,0,928,1028,100.0,Czech <cs@li.org>
+system-config-language,45,0,0,10,0,0,37,45,100.0,Czech <cs@li.org>
+system-config-lvm,2049,33,2,320,2,1,1896,2084,98.32053742802303,Czech <cs@li.org>
+system-config-netboot,1018,5,65,146,1,14,902,1088,93.56617647058823,Czech
+system-config-network,2880,66,9,707,13,6,2574,2955,97.46192893401016,Czech
+system-config-nfs,318,0,0,73,0,0,291,318,100.0,Czech
+system-config-printer,1208,79,37,300,25,10,1103,1324,91.23867069486404,Czech <cs@li.org>
+system-config-rootpassword,50,0,0,9,0,0,40,50,100.0,Czech <cs@li.org>
+system-config-samba,391,1,31,134,1,3,359,423,92.43498817966903,Czech <cs@li.org>
+system-config-securitylevel,1135,7,3,88,2,1,949,1145,99.12663755458514,Czech
+system-config-services,232,0,0,62,0,0,220,232,100.0,Czech
+system-config-soundcard,224,0,0,51,0,0,199,224,100.0,Czech
+system-config-users,849,94,88,144,9,5,731,1031,82.34723569350145,Czech
+system-switch-mail,134,0,0,20,0,0,137,134,100.0,Czech <cs@li.org>
+tagtool,943,10,5,205,3,3,973,958,98.43423799582463,<cs@li.org>
+tar,904,425,1022,172,42,160,928,2351,38.45172267120374,Czech <cs@li.org>
+tasks,34,0,0,23,0,0,34,34,100.0,Czech <cs@li.org>
+tellico,4975,243,358,1025,51,35,4215,5576,89.22166427546628,čeština <cs@li.org>
+tetex,2266,1173,943,411,82,71,2207,4382,51.711547238703794,Czech <cs@li.org>
+texinfo,2174,1266,1141,403,86,91,2120,4581,47.4568871425453,Czech <cs@li.org>
+thunar-archive-plugin,86,0,0,13,0,0,98,86,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+thunar-media-tags-plugin,144,0,0,49,0,0,139,144,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+tinyca2,1755,159,0,407,34,0,1660,1914,91.69278996865204,czech
+tomboy,1244,0,261,211,0,4,1148,1505,82.65780730897009,Czech <gnome-cs-list@gnome.org>
+totem,1774,16,13,407,5,3,1619,1803,98.39156960621187,Czech <gnome-cs-list@gnome.org>
+tpb,96,0,0,6,0,0,79,96,100.0,Czech <debian-l10n-czech@debian.org>
+tsclient,486,0,1,91,0,1,417,487,99.7946611909651,Czech <cs@li.org>
+turba,1308,0,0,301,0,0,1123,1308,100.0,Cestina <cs@li.org>
+tuxpaint,576,9,2,151,2,2,477,587,98.12606473594549,<cs@li.org>
+tvtime,1205,15,4,243,3,1,1168,1224,98.44771241830065,Lukáš Slánský <lukas@schnauzer.cz>
+usermode,570,0,0,96,0,0,508,570,100.0,Czech
+util-linux,8811,1816,687,1592,204,78,8840,11314,77.87696659006541,Czech <cs@li.org>
+vdradmin-am,1787,105,1993,298,52,76,1592,3885,45.99742599742599,<cs@li.org>
+vim,5862,0,0,1284,0,0,5825,5862,100.0,Czech <cs@li.org>
+vino,541,0,3,71,0,1,489,544,99.44852941176471,Czech <cs@li.org>
+virt-manager,1249,466,1048,282,135,179,1075,2763,45.20448787549765,Czech <cs@li.org>
+vorbis-tools,1551,1037,729,259,45,79,1537,3317,46.75911968646368,Czech <translation-team-cs@lists.sourceforge.net>
+vte,96,0,0,18,0,0,99,96,100.0,Czech <cs@li.org>
+wallpapoz,400,0,0,102,0,0,387,400,100.0,Czech
+wammu,3755,0,8,729,0,2,3501,3763,99.78740366728674,Czech <cs@li.org>
+wdm,38,0,0,25,0,0,193,38,100.0,Czech <CS@li.org>
+weechat,7703,0,0,1154,0,0,7401,7703,100.0,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,119067,0,0,6885,0,0,100105,119067,100.0,Czech <wesnoth-cs-l@nospam.buchtovi.cz>
+wget,1423,0,0,181,0,0,1615,1423,100.0,Czech <cs@li.org>
+wine-docs,50,45,1111,11,10,102,47,1206,4.1459369817578775,CS
+workrave,1084,36,0,210,4,0,965,1120,96.78571428571429,Czech <translation-team-cs@lists.sourceforge.net>
+wxGTK,3524,1026,1873,758,264,456,3207,6423,54.86532772847579,wxWidgets translators <wx-translators@wxwidgets.org>
+wxPython,3524,1026,1873,758,264,456,3207,6423,54.86532772847579,wxWidgets translators <wx-translators@wxwidgets.org>
+wxdfast,1141,0,12,325,0,2,990,1153,98.95923677363399,David Vachulka <david@imodelar.cz>
+xaos,396,136,333,177,55,101,395,865,45.78034682080925,Czech
+xarchiver,1149,30,70,236,7,19,1027,1249,91.99359487590073,Czech <translation-team-cs@lists.sourceforge.net>
+xcdroast,8044,0,0,848,0,0,6867,8044,100.0,Czech <cs@li.org>
+xchat,5027,3,0,1236,2,0,4696,5030,99.9403578528827,Czech <translation-team-cs@lists.sourceforge.net>
+xchat-gnome,2597,116,1188,723,40,217,2346,3901,66.57267367341707,Slovak <en@li.org>
+xchm,151,11,42,63,5,8,148,204,74.01960784313727,čeština <cs@li.org>
+xfce-mcs-manager,30,0,0,7,0,0,30,30,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce-mcs-plugins,540,0,0,146,0,0,511,540,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce-utils,119,0,0,34,0,0,116,119,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-appfinder,48,0,0,28,0,0,55,48,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-battery-plugin,123,0,0,31,0,0,129,123,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-clipman-plugin,85,0,0,26,0,0,78,85,100.0,Czech <xfce-i18n@xfce.org>
+xfce4-cpugraph-plugin,44,0,0,25,0,0,43,44,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-dict-plugin,162,0,34,40,0,5,154,196,82.6530612244898,Czech <xfce-i18n@xfce.org>
+xfce4-diskperf-plugin,185,0,0,38,0,0,179,185,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-eyes-plugin,9,0,0,3,0,0,7,9,100.0,Czech <cs@li.org>
+xfce4-fsguard-plugin,62,2,0,18,1,0,70,64,96.875,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-genmon-plugin,71,0,0,15,0,0,70,71,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-icon-theme,8,0,0,2,0,0,6,8,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-mixer,226,0,0,94,0,0,231,226,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-modemlights-plugin,22,2,112,12,1,2,25,136,16.176470588235293,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-mount-plugin,118,113,52,19,17,6,103,283,41.69611307420495,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-notes-plugin,60,0,0,22,0,0,51,60,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-panel,578,0,0,160,0,0,549,578,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-places-plugin,13,3,27,6,1,12,15,43,30.23255813953488,
+xfce4-quicklauncher-plugin,28,0,15,9,0,8,31,43,65.11627906976744,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-sensors-plugin,36,53,10,20,18,4,42,99,36.36363636363637,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-session,738,0,0,129,0,0,661,738,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-systemload-plugin,54,0,0,18,0,0,56,54,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-timer-plugin,94,0,0,32,0,0,93,94,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-verve-plugin,47,0,0,10,0,0,46,47,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-weather-plugin,479,0,45,236,0,7,496,524,91.41221374045801,Czech <xfce-i18n@xfce.org>
+xfce4-websearch-plugin,13,0,0,5,0,0,12,13,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-xkb-plugin,39,0,7,10,0,1,41,46,84.78260869565217,Czech <translation-team-cs@lists.sourceforge.net>
+xfce4-xmms-plugin,52,0,0,15,0,0,60,52,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfdesktop,1078,0,0,288,0,0,988,1078,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfprint,323,0,0,113,0,0,312,323,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xfwm4,646,0,0,190,0,0,689,646,100.0,Czech <translation-team-cs@lists.sourceforge.net>
+xine-lib,10393,576,531,826,52,33,9663,11500,90.37391304347825,Czech <cs@li.org>
+xkeyboard-config,465,600,194,190,197,70,472,1259,36.9340746624305,Czech <cs@li.org>
+xmms,2996,177,72,961,34,22,2948,3245,92.326656394453,Czech <cs@li.org>
+xmoto,1922,476,248,459,59,20,1665,2646,72.63794406651549,X-Moto
+xsane,2811,314,97,636,62,24,2705,3222,87.243947858473,Czech <cs@li.org>
+yelp,960,0,0,240,0,0,835,960,100.0,Czech <gnome-cs-list@gnome.org>
+yumex,537,11,16,206,6,3,567,564,95.2127659574468,Czech <fedora-cs-list@redhat.com>
+zenity,432,0,122,117,0,12,394,554,77.9783393501805,Czech <gnome-cs-list@gnome.org>

@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,21,0,170946,11,0,19320,21,170967,0.012283072171822632,Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/)
+garcon,106,0,19,33,0,5,106,125,84.8,Uzbek (Latin) (https://www.transifex.com/xfce/teams/16840/uz@Latn/)
+manafirewall,2,0,1095,2,0,131,2,1097,0.18231540565177756,Uzbek (Latin) (https://www.transifex.com/MageiaLinux/teams/9361/uz@Latn/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Uzbek (Latin) (http://app.transifex.com/mate/MATE/language/uz@Latn/)
+modem-manager-gui,1154,0,2110,334,0,229,1119,3264,35.35539215686275,Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/)
+php-phpmyadmin-sql-parser5,0,127,159,0,24,29,0,286,0.0,Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/>
+python-pytelegrambotapi,152,0,0,25,0,0,119,152,100.0,uz_Latn <LL@li.org>
+stellarium,0,0,151641,0,0,37855,0,151641,0.0,Uzbek (Latin) (https://www.transifex.com/stellarium/teams/80998/uz@Latn/)
+synfigstudio,0,0,0,0,0,0,0,0,0.0,
+thunar-archive-plugin,86,0,2,13,0,2,58,88,97.72727272727273,Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/)
+thunar-media-tags-plugin,154,0,4,57,0,3,148,158,97.46835443037975,Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/)
+uget,721,0,364,286,0,76,775,1085,66.45161290322581,Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/)
+xfce4-battery-plugin,143,0,5,40,0,3,148,148,96.62162162162163,Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/)
+xfce4-xkb-plugin,34,0,23,12,0,10,39,57,59.64912280701754,Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/)

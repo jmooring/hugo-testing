@@ -1,0 +1,89 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1151,0,0,257,0,1151,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,3023,0,0,585,0,3023,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+gala,0,0,197,0,0,42,0,197,0.0,none
+granite,0,0,269,0,0,88,0,269,0.0,
+harvey,0,0,57,0,0,12,0,57,0.0,none
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Quechua (Cuzco-Collao)
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,158,0,0,14,0,0,91,158,100.0,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+sugar,2208,3,94,505,2,22,2142,2305,95.79175704989153,LANGUAGE <LL@li.org>
+sugar-abacus,22,0,6,22,0,1,29,28,78.57142857142857,Voluntarios quechuas Sugar Camp Lima
+sugar-browse,167,47,120,50,2,19,142,334,50.0,Voluntarios Quechua Sugar Camp
+sugar-calculator,774,0,92,156,0,13,813,866,89.37644341801386,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,133,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,59,7,0,20,1,0,48,66,89.39393939393939,LANGUAGE <LL@li.org>
+sugar-distance,0,1,98,0,1,25,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,48,86,124,22,2,39,39,258,18.6046511627907,Voluntarios quechuas Sugar Camp Lima
+sugar-fototoon,15,3,121,11,1,36,15,139,10.79136690647482,LANGUAGE <LL@li.org>
+sugar-getiabooks,3,5,142,3,5,26,3,150,2.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,16,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,4,2,71,4,2,14,4,77,5.194805194805195,LANGUAGE <LL@li.org>
+sugar-infoslicer,4,0,232,4,0,58,4,236,1.694915254237288,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,4,20,0,2,57,69,94.20289855072464,LANGUAGE <LL@li.org>
+sugar-labyrinth,254,0,27,93,0,1,231,281,90.39145907473309,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,85,98,100.0,LANGUAGE <LL@li.org>
+sugar-measure,6,0,149,4,0,69,7,155,3.870967741935484,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,158,142,100.0,LANGUAGE <LL@li.org>
+sugar-paint,90,0,16,52,0,9,98,106,84.90566037735849,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,30,48,58.333333333333336,Voluntarios Quechua Sugar Camp
+sugar-pippy,99,0,183,27,0,41,80,282,35.1063829787234,LANGUAGE <LL@li.org>
+sugar-portfolio,60,0,13,21,0,4,52,73,82.1917808219178,Voluntarios quechuas Sugar Camp Lima
+sugar-read,112,0,25,41,0,9,97,137,81.75182481751825,Voluntarios Quechua Sugar Camp
+sugar-record,62,0,0,24,0,0,65,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,194,227,100.0,Voluntarios quechuas Sugar Camp Lima
+sugar-stopwatch,2,0,3,2,0,3,3,5,40.0,LANGUAGE <LL@li.org>
+sugar-story,0,1,23,0,1,10,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,8,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,57,109,0,14,227,213,73.23943661971832,LANGUAGE <LL@li.org>
+sugar-turtleart,1445,0,0,431,0,0,1275,1445,100.0,Voluntarios Quechua Sugar
+sugar-typing-turtle,6,4,589,6,2,119,6,599,1.001669449081803,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,7,2,149,7,2,69,7,158,4.430379746835443,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,118,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,1,0,28,1,0,6,1,29,3.4482758620689653,LANGUAGE <LL@li.org>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none

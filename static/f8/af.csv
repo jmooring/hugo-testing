@@ -1,0 +1,64 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,12348,740,104,2429,60,14,14940,13192,93.60218314129776,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+anaconda,5814,3045,1344,851,268,126,5563,10203,56.98324022346368,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+atk,334,30,6,108,11,4,288,370,90.27027027027027,Afrikaans <servine_lauvi@hotmail.com>
+audacity,4318,6,0,959,3,0,4065,4324,99.86123959296947,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+bazaar,65,4,6455,16,1,391,64,6524,0.9963212752912324,Afrikaans <af@li.org>
+bibletime,791,608,2038,217,127,276,1017,3437,23.014256619144604,Afrikaans <en@li.org>
+bittorrent,3906,0,0,634,0,0,4243,3906,100.0,LANGUAGE <LL@li.org>
+compat-wxGTK26,3994,610,730,845,143,125,4239,5334,74.87814023247094,wxWidgets translators <wx-translators@wxwidgets.org>
+compiz,3,180,2174,3,73,508,3,2357,0.12728044123886295,Novell Language <language@novell.com>
+control-center,2457,461,464,524,133,79,2361,3382,72.64931992903607,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+coreutils,2183,1157,12642,460,202,546,2468,15982,13.659116506069328,Afrikaans <i18n@af.org.za>
+eog,324,141,92,87,28,35,329,557,58.16876122082585,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+firstboot,273,204,121,42,12,5,248,598,45.65217391304348,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+frozen-bubble,210,101,305,52,22,63,236,616,34.090909090909086,Afrikaans
+gallery2,10919,1568,3566,1724,169,410,11242,16053,68.01843892107394,Afrikaans <gallery-translations@lists.sourceforge.net>
+gcompris,10250,0,0,1191,0,0,10030,10250,100.0,<translate-discuss-af@lists.sourceforge.net>
+gdm,5290,0,0,698,0,0,5427,5290,100.0,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gedit,2178,1286,742,505,205,310,2097,4206,51.78316690442225,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gettext,356,0,0,69,0,0,284,356,100.0,Afrikaans <i18n@af.org.za>
+gnome-desktop,330,0,0,76,0,0,345,330,100.0,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gnome-games,2592,0,4733,730,0,1037,2462,7325,35.38566552901024,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gnome-mime-data,883,0,4,360,0,2,526,887,99.54904171364149,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gnome-panel,3422,327,188,444,46,27,3481,3937,86.91897383794768,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gnome-session,513,3,0,100,1,0,510,516,99.4186046511628,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gnome-vfs2,747,352,183,165,51,32,685,1282,58.268330733229334,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+gnomebaker,270,10,906,90,5,196,275,1186,22.765598650927487,Afrikaans <af@li.org>
+gstreamer,894,121,150,191,24,25,904,1165,76.7381974248927,Afrikaans <i18n@af.org.za>
+gstreamer-plugins-base,44,105,395,13,16,90,47,544,8.088235294117647,Afrikaans <i18n@af.org.za>
+gstreamer-plugins-good,42,163,297,27,22,34,42,502,8.366533864541832,Afrikaans <i18n@af.org.za>
+gtk2,6986,2332,2774,1307,472,633,6553,12092,57.77373470062851,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+im-chooser,0,0,172,0,0,24,0,172,0.0,none
+iso-codes,470,5009,13328,390,4548,8197,427,18807,2.4990694954006485,Afrikaans <af@lia.org.za>
+k3b,20380,201,49,2523,6,3,22380,20630,98.78817256422685,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+libbonoboui,314,7,39,92,3,18,294,360,87.22222222222223,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+libgnomeprintui22,367,37,23,98,22,15,352,427,85.94847775175644,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+libgnomeui,1198,99,122,301,22,22,1146,1419,84.42565186751233,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+libvirt,1290,656,351,308,127,72,1290,2297,56.160208968219415,none
+nautilus,6469,331,176,1112,82,20,6675,6976,92.7322247706422,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+pgadmin3,6195,0,0,1880,0,0,6279,6195,100.0,Afrikaans <af@li.org>
+pidgin,14313,729,612,3056,157,123,14051,15654,91.43349942506708,<translate-discuss-af@lists.sourceforge.net>
+poedit,1116,18,0,260,6,0,1145,1134,98.4126984126984,Petri Jooste <rkwjpj@puk.ac.za>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+postgresql,1041,2792,11050,191,540,1238,1109,14883,6.994557548881273,Petri Jooste <rkwjpj@puk.ac.za>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,221,6,34,73,2,11,184,261,84.67432950191571,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+rhgb,95,26,0,24,5,0,88,121,78.51239669421489,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+sed,204,136,165,38,29,14,199,505,40.396039603960396,Afrikaans <i18n@af.org.za>
+sepostgresql,1041,2792,11050,191,540,1238,1109,14883,6.994557548881273,Petri Jooste <rkwjpj@puk.ac.za>
+setroubleshoot,0,0,507,0,0,136,0,507,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7829,0,0,233,0,7829,0.0,LANGUAGE <LL@li.org>
+sysstat,223,0,0,25,0,0,237,223,100.0,LANGUAGE <LL@li.org>
+tuxpaint,587,0,4,155,0,4,636,591,99.32318104906938,Afrikaans <rkwjpj@puk.ac.za>
+tuxpaint-stamps,1302,255,351,312,98,89,1178,1908,68.23899371069182,Afrikaans <rkwjpj@nwu.ac.za>
+vim,6716,0,0,1427,0,0,7233,6716,100.0,Danie Roux <droux@tuks.co.za>
+wammu,1888,337,1374,454,71,180,1845,3599,52.459016393442624,LANGUAGE <LL@li.org>
+wesnoth,36286,17113,65668,3299,547,3039,38506,119067,30.475278624639905,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+wxGTK,3909,904,1505,825,242,382,4145,6318,61.870845204178536,wxWidgets translators <wx-translators@wxwidgets.org>
+wxPython,3918,904,1505,826,242,382,4154,6327,61.92508297771455,wxWidgets translators <wx-translators@wxwidgets.org>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Afrikaans <translate-discuss-af@lists.sourceforge.net>
+xfce-utils,20,9,90,11,3,20,21,119,16.80672268907563,Afrikaans <i18n@af.org.za>
+xkeyboard-config,896,0,0,362,0,0,881,896,100.0,Afrikaans <i18n@af.org.za>
+xmms,2465,415,365,869,83,65,2338,3245,75.96302003081664,Afrikaans <lia@af.org.za>
+yelp,92,80,434,38,45,65,84,606,15.181518151815181,Afrikaans <translate-discuss-af@lists.sourceforge.net>

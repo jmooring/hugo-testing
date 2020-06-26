@@ -1,0 +1,476 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,22,0,4010,11,0,470,29,4032,0.5456349206349206,Sinhala <en@li.org>
+PackageKit,1283,0,0,321,0,0,1373,1283,100.0,Sinhala (http://www.transifex.com/freedesktop/packagekit/language/si/)
+Thunar,86,23,4040,38,8,690,103,4149,2.0727886237647626,American English <kde-i18n-doc@kde.org>
+Zim,548,92,2746,228,33,516,626,3386,16.184288245717664,Sinhala <https://hosted.weblate.org/projects/zim/master/si/>
+abrt,2,0,3674,2,0,415,4,3676,0.0544069640914037,Sinhala <https://translate.fedoraproject.org/projects/abrt/abrt/si/>
+accerciser,65,0,294,57,0,105,78,359,18.105849582172702,Sinhala <en@li.org>
+aisleriot,395,195,1397,160,79,310,335,1987,19.879214896829392,Sinhala <en@li.org>
+alacarte,74,0,0,30,0,0,99,74,100.0,Sinhala <en@li.org>
+anaconda,214,58,8467,40,19,1390,213,8739,2.4487927680512644,Sinhala <https://translate.fedoraproject.org/projects/anaconda/master/si/>
+android-tools,33,2,13915,30,1,2042,42,13950,0.23655913978494625,Sinhala
+anjuta,1293,0,5945,468,0,1498,1426,7238,17.864050842774247,Sinhala <en@li.org>
+apostrophe,44,12,389,13,8,131,45,445,9.887640449438202,
+asunder,13,0,480,12,0,80,15,493,2.636916835699797,http://littlesvr.ca/ostd/
+at-spi2-core,38,0,337,31,0,95,40,375,10.133333333333333,Sinhala <en@li.org>
+atril,219,0,4146,127,0,608,271,4365,5.017182130584192,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+audacious,383,0,516,192,0,175,431,899,42.60289210233593,Sinhala (http://www.transifex.com/audacious/audacious/language/si/)
+audacious-plugins,2048,0,2036,533,0,433,2213,4084,50.146914789422134,Sinhala (http://www.transifex.com/audacious/audacious/language/si/)
+authselect,6,0,6303,7,0,642,8,6309,0.0951022349025202,Sinhala <https://translate.fedoraproject.org/projects/authselect/master-application/si/>
+baobab,210,79,251,80,19,27,246,540,38.88888888888889,Sinhala <en@li.org>
+blinken,104,17,13,39,5,3,107,134,77.61194029850746,Sinhala <info@hanthana.org>
+blivet-gui,0,0,1064,0,0,265,0,1064,0.0,none
+bookworm,0,0,795,0,0,149,0,795,0.0,
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+budgie-control-center,550,59,704,550,40,166,551,1313,41.88880426504189,Sinhala <en@li.org>
+budgie-desktop,0,0,1220,0,0,322,0,1220,0.0,none
+budgie-screensaver,605,109,258,130,16,15,602,972,62.242798353909464,Sinhala <en@li.org>
+caja,1976,0,7699,642,0,962,2147,9675,20.42377260981912,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+caja-actions,71,0,18744,63,0,1453,98,18815,0.37735849056603776,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+caja-extensions,11,0,749,9,0,136,20,760,1.4473684210526316,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+calamares,492,0,0,85,0,0,504,492,100.0,Sinhala (https://app.transifex.com/calamares/teams/20061/si/)
+calibre,20,0,170947,16,0,19315,25,170967,0.011698163973164411,Sinhala (http://www.transifex.com/calibre/calibre/language/si/)
+caribou,123,0,77,51,0,9,140,200,61.5,Sinhala <si@li.org>
+catfish,160,0,627,61,0,57,184,787,20.330368487928844,Sinhala (https://www.transifex.com/xfce/teams/16840/si/)
+certmonger,3,0,2828,3,0,470,4,2831,0.1059696220416814,Sinhala <https://translate.fedoraproject.org/projects/certmonger/master/si/>
+chkconfig,38,10,545,12,4,92,38,593,6.408094435075886,Sinhala <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/si/>
+cinnamon-control-center,550,59,704,550,40,166,551,1313,41.88880426504189,Sinhala <en@li.org>
+cinnamon-desktop,3,14,217,1,2,29,3,234,1.282051282051282,Sinhala <en@li.org>
+cinnamon-translations,959,0,20639,396,0,4458,1112,21598,4.4402259468469305,Sinhalese <si@li.org>
+clamtk,0,0,464,0,0,140,0,464,0.0,Sinhalese <si@li.org>
+clementine,0,0,3803,0,0,1061,0,3803,0.0,Sinhala (Sri Lanka) (http://app.transifex.com/davidsansome/clementine/language/si_LK/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,944,30,10,169,4,6,814,984,95.9349593495935,Sinhala <info@hanthana.org>
+cpeditor,0,306,341,0,223,160,0,647,0.0,Sinhala <info@hanthana.org>
+cpu-x,2,2,1479,1,1,316,2,1483,0.13486176668914363,Sinhala <https://hosted.weblate.org/projects/cpu-x/translations/si/>
+cups-pk-helper,149,0,0,22,0,0,173,149,100.0,Sinhala (http://www.transifex.com/freedesktop/cups-pk-helper/language/si/)
+dasher,95,0,348,63,0,110,109,443,21.44469525959368,Sinhala <en@li.org>
+deepin-daemon,1051,0,163,225,0,34,1193,1214,86.57331136738055,Sinhala (https://www.transifex.com/linuxdeepin/teams/3617/si/)
+deepin-pw-check,54,0,5,11,0,1,70,59,91.52542372881356,Sinhala (https://www.transifex.com/linuxdeepin/teams/3617/si/)
+deja-dup,76,0,1547,43,0,242,99,1623,4.682686383240911,Sinhalese <si@li.org>
+deluge,1879,0,2461,674,0,659,1809,4340,43.294930875576036,Sinhalese <si@li.org>
+devhelp,354,0,101,104,0,15,336,455,77.80219780219781,Sinhala <info@hanthana.org>
+dialect,151,9,338,133,3,72,151,498,30.32128514056225,Sinhala <https://hosted.weblate.org/projects/dialect/dialect/si/>
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+dnf,7,0,4711,3,0,876,7,4718,0.1483679525222552,Sinhala <https://translate.fedoraproject.org/projects/dnf/dnf-master/si/>
+dnf-plugins-core,12,0,2125,4,0,312,8,2137,0.5615348619560131,Sinhala <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/si/>
+dnf-plugins-extras,0,0,121,0,0,21,0,121,0.0,Sinhala <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/si/>
+dolphin,652,874,3620,217,257,277,677,5146,12.670034978624173,Sinhala <danishka@gmail.com>
+eiciel,0,0,192,0,0,56,0,192,0.0,none
+electrum,8555,0,4208,1599,0,828,8746,12763,67.02969521272428,Sinhala
+elementary-calculator,15,5,175,15,2,48,17,195,7.6923076923076925,Sinhala <https://l10n.elementary.io/projects/calculator/calculator/si/>
+elementary-calendar,384,49,142,156,16,34,405,575,66.78260869565219,Sinhala <https://l10n.elementary.io/projects/calendar/calendar/si/>
+elementary-camera,7,27,99,3,6,26,10,133,5.263157894736842,Sinhala <https://l10n.elementary.io/projects/camera/camera/si/>
+elementary-code,169,122,1323,74,27,189,176,1614,10.470879801734819,Sinhala <https://l10n.elementary.io/projects/code/code/si/>
+elementary-files,27,19,2444,11,5,535,28,2490,1.0843373493975903,Sinhala <https://weblate.elementary.io/projects/files/files/si/>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,788,0,0,179,0,788,0.0,
+elementary-music,2,0,203,2,0,35,2,205,0.975609756097561,Sinhalese <si@li.org>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+elementary-onboarding,9,0,308,4,0,62,10,317,2.8391167192429023,Sinhala <https://l10n.elementary.io/projects/installer/onboarding/si/>
+engrampa,488,0,7434,170,0,723,538,7922,6.160060590759909,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+eog,357,0,599,157,0,74,396,956,37.34309623430963,Sinhala <en@li.org>
+eom,271,0,4690,139,0,403,324,4961,5.462608345091716,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+epiphany,197,0,3864,127,0,756,282,4061,4.8510219157842895,Sinhala <en@li.org>
+evince,219,0,785,125,0,167,267,1004,21.812749003984063,Sinhala <en@li.org>
+evolution,4582,0,15345,2416,0,2328,5462,19927,22.993927836603604,Sinhala <en@li.org>
+evolution-data-server,149,0,4891,113,0,927,203,5040,2.956349206349206,Sinhala <en@li.org>
+evolution-mapi,174,0,110,36,0,14,197,284,61.267605633802816,Sinhalese <danishka@gmail.com>
+exaile,332,180,4090,199,80,842,366,4602,7.214254671881791,Sinhala <https://hosted.weblate.org/projects/exaile/master/si/>
+exo,93,6,1361,24,2,274,82,1460,6.36986301369863,Sinhala (http://www.transifex.com/xfce/exo/language/si/)
+file-roller,651,0,417,206,0,42,716,1068,60.95505617977528,Sinhala <en@li.org>
+firewalld,17,0,2200,10,0,405,19,2217,0.7668019846639603,Sinhala <https://translate.fedoraproject.org/projects/firewalld/master/si/>
+five-or-more,59,25,198,33,10,22,73,282,20.921985815602838,Sinhala <en@li.org>
+folder-color-switcher,47,0,18,18,0,5,40,65,72.3076923076923,Sinhalese <si@li.org>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Sinhala
+four-in-a-row,45,18,193,29,10,34,51,256,17.578125,Sinhala <en@li.org>
+fwupd,2814,0,0,595,0,0,2991,2814,100.0,Sinhala (http://app.transifex.com/freedesktop/fwupd/language/si/)
+gala,26,5,218,9,1,41,31,249,10.441767068273093,Sinhala <https://weblate.elementary.io/projects/desktop/gala/si/>
+gamehub,7,0,1108,5,0,360,11,1115,0.6278026905829596,Sinhala <https://hosted.weblate.org/projects/gamehub/translations/si/>
+gconf-editor,34,0,295,27,0,71,59,329,10.33434650455927,Sinhala <en@li.org>
+gcr,0,9,613,0,5,222,0,622,0.0,Sinhala <en@li.org>
+gcr3,0,9,613,0,5,222,0,622,0.0,Sinhala <en@li.org>
+gdk-pixbuf2,995,204,149,151,35,16,995,1348,73.81305637982196,Sinhala <en@li.org>
+gdm,116,143,391,20,21,46,110,650,17.846153846153847,Sinhala <en@li.org>
+gedit,1941,0,3122,659,0,443,2161,5063,38.336954374876555,Sinhala <en@li.org>
+gedit-plugins,292,122,791,162,39,268,301,1205,24.232365145228215,Sinhala <en@li.org>
+ggz-base-libs,13,0,0,5,0,0,14,13,100.0,Sinhala <en@li.org>
+gimp,301,235,13304,197,117,3002,334,13840,2.1748554913294798,Sinhalese <danishka@gmail.com>
+glade,222,0,2975,169,0,699,281,3197,6.944010009383797,Sinhala <en@li.org>
+glib2,385,566,3826,97,115,535,417,4777,8.059451538622566,Sinhala <en@li.org>
+gnome-abrt,16,0,205,13,0,42,18,221,7.239819004524888,Sinhala <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/si/>
+gnome-applets,1619,0,2125,589,0,353,1780,3744,43.24252136752137,Sinhala <en@li.org>
+gnome-calculator,853,0,839,379,0,71,894,1692,50.413711583924346,Sinhala  <gnome-lk-list@gnome.org>
+gnome-chess,32,101,1257,22,47,168,40,1390,2.302158273381295,Sinhala <en@li.org>
+gnome-control-center,930,59,4024,734,40,828,1005,5013,18.55176540993417,Sinhala <en@li.org>
+gnome-desktop3,330,0,0,76,0,0,344,330,100.0,Sinhala <en@li.org>
+gnome-dictionary,568,67,198,144,14,25,508,833,68.18727490996399,Sinhala <en@li.org>
+gnome-do,109,0,503,42,0,102,108,612,17.81045751633987,Sinhalese <si@li.org>
+gnome-extensions-app,276,0,1078,159,0,182,303,1354,20.38404726735598,Sinhala <info@hanthana.org>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Sinhala <en@li.org>
+gnome-icon-theme,49,0,0,44,0,0,55,49,100.0,Sinhala <en@li.org>
+gnome-keyring,25,146,319,7,19,83,32,490,5.1020408163265305,Sinhala <en@li.org>
+gnome-klotski,9,10,175,8,5,46,12,194,4.639175257731959,Sinhala <en@li.org>
+gnome-mahjongg,24,22,258,18,11,34,37,304,7.894736842105263,Sinhala <en@li.org>
+gnome-menus,165,0,0,58,0,0,176,165,100.0,Sinhala <en@li.org>
+gnome-mines,36,53,255,17,26,29,44,344,10.465116279069768,Sinhala <en@li.org>
+gnome-nettool,48,0,492,45,0,139,62,540,8.88888888888889,Sinhala <en@li.org>
+gnome-nibbles,36,44,367,27,21,62,48,447,8.053691275167784,Sinhala <en@li.org>
+gnome-panel,526,207,2787,172,69,267,569,3520,14.94318181818182,Sinhala <en@li.org>
+gnome-power-manager,9,53,370,9,29,106,9,432,2.083333333333333,Sinhala <en@li.org>
+gnome-robots,43,25,529,22,8,67,43,597,7.202680067001675,Sinhala <en@li.org>
+gnome-screenshot,46,41,232,20,12,27,45,319,14.420062695924765,Sinhala <en@li.org>
+gnome-session,811,0,0,115,0,0,757,811,100.0,Sinhala <en@li.org>
+gnome-settings-daemon,21,29,984,12,13,146,28,1034,2.0309477756286265,Sinhala <en@li.org>
+gnome-shell,276,0,1078,159,0,182,303,1354,20.38404726735598,Sinhala <info@hanthana.org>
+gnome-shell-frippery,13,0,0,4,0,0,14,13,100.0,
+gnome-sudoku,8,62,329,8,24,40,14,399,2.0050125313283207,Sinhala <en@li.org>
+gnome-system-log,49,47,426,26,13,55,65,522,9.386973180076629,Sinhala <en@li.org>
+gnome-system-monitor,258,0,581,131,0,93,310,839,30.75089392133492,Sinhala <en@li.org>
+gnome-terminal,806,3,3803,273,1,247,977,4612,17.476149176062446,Sinhala <en@li.org>
+gnome-tetravex,29,33,158,16,9,20,34,220,13.18181818181818,Sinhala <en@li.org>
+godot3,246,1607,20739,66,723,5306,264,22592,1.0888810198300283,Sinhala <https://hosted.weblate.org/projects/godot-engine/godot/si/>
+gparted,892,0,382,211,0,68,976,1274,70.01569858712716,Sinhala <en@li.org>
+granite,0,0,498,0,0,118,0,498,0.0,Sinhala <https://l10n.elementary.io/projects/desktop/granite/si/>
+granite-7,0,0,300,0,0,75,0,300,0.0,Sinhala <https://l10n.elementary.io/projects/desktop/granite/si/>
+grass,21,0,122205,5,0,18688,17,122226,0.017181287123852536,Sinhala (https://www.transifex.com/grass-gis/teams/45198/si/)
+gtk2,3450,1018,9236,814,371,1599,3392,13704,25.175131348511382,Sinhala <en@li.org>
+gtk2-engines,83,0,0,33,0,0,86,83,100.0,Sinhala <en@li.org>
+gtk3,2198,1068,8587,596,385,1506,2122,11853,18.54382856660761,Sinhala <en@li.org>
+gtk4,908,421,1103,279,243,299,979,2432,37.33552631578947,Sinhala <en@li.org>
+gtkhtml3,99,0,815,59,0,338,120,914,10.831509846827133,Sinhala <en@li.org>
+gtksourceview2,117,0,709,101,0,248,123,826,14.164648910411623,Sinhala <en@li.org>
+gtksourceview3,8,14,300,7,9,90,9,322,2.484472049689441,Sinhala <en@li.org>
+gtksourceview4,117,0,709,101,0,248,123,826,14.164648910411623,Sinhala <en@li.org>
+gtksourceview5,117,0,709,101,0,248,123,826,14.164648910411623,Sinhala <en@li.org>
+gucharmap,45,0,731,41,0,242,62,776,5.798969072164948,Sinhala <en@li.org>
+guvcview,482,118,452,235,45,135,641,1052,45.81749049429658,Sinhalese <si@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hivex,0,0,270,0,0,22,0,270,0.0,none
+homebank,346,0,2701,218,0,740,441,3047,11.35543157203807,Sinhalese <si@li.org>
+hunspell,8,0,605,2,0,77,8,613,1.3050570962479608,Sinhala <https://hosted.weblate.org/projects/hunspell/translations/si/>
+iagno,15,54,253,11,21,40,18,322,4.658385093167702,Sinhala <en@li.org>
+ibus-libpinyin,4,0,456,2,0,165,4,460,0.8695652173913043,Sinhala <https://translate.fedoraproject.org/projects/ibus-libpinyin/master/si/>
+ibus-m17n,57,0,0,24,0,0,55,57,100.0,Sinhala <https://translate.fedoraproject.org/projects/ibus-m17n/app/si/>
+ibus-table,18,0,1091,15,0,135,21,1109,1.6230838593327321,Sinhala <https://translate.fedoraproject.org/projects/ibus-table/app/si/>
+ibus-typing-booster,2,0,2184,2,0,241,3,2186,0.09149130832570906,Sinhala <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/si/>
+icewm,0,0,2267,0,0,526,0,2267,0.0,none
+im-chooser,35,0,218,9,0,48,32,253,13.83399209486166,LANGUAGE <LL@li.org>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,3,0,103,2,0,18,4,106,2.8301886792452833,Sinhala <https://translate.fedoraproject.org/projects/initial-setup/master/si/>
+initscripts,0,0,1162,0,0,164,0,1162,0.0,none
+iso-codes,1035,50,391,435,15,188,854,1476,70.1219512195122,Sinhala <https://hosted.weblate.org/projects/iso-codes/iso-15924/si/>
+isomaster,27,1,646,20,1,86,40,674,4.005934718100891,http://littlesvr.ca/ostd/
+kalarm,1,0,8388,1,0,1227,1,8389,0.011920371915603765,Sinhala <info@hanthana.org>
+kalgebra,0,0,166,0,0,81,0,166,0.0,Sinhala <danishka@gmail.com>
+kalzium,475,317,8313,237,127,937,473,9105,5.216913783635365,American English <kde-i18n-doc@kde.org>
+kamera,283,59,0,34,3,0,229,342,82.7485380116959,Sinhala <info@hanthana.org>
+kanagram,0,12,515,0,1,143,0,527,0.0,Sinhala <danishka@gmail.com>
+kate,1283,1057,1712,344,214,321,1221,4052,31.663376110562684,Sinhala <danishka@gmail.com>
+kbruch,1,0,1346,1,0,197,1,1347,0.07423904974016332,Sinhala <danishka@gmail.com>
+kcharselect,37,9,42,18,2,14,41,88,42.04545454545455,Sinhala <info@hanthana.org>
+kcolorchooser,14,10,5,6,2,2,14,29,48.275862068965516,Sinhala <info@hanthana.org>
+kde-cli-tools,1462,492,181,153,34,30,1267,2135,68.47775175644028,Sinhala <danishka@gmail.com>
+kdialog,217,86,88,49,12,17,203,391,55.49872122762148,Sinhala <info@hanthana.org>
+kdump-anaconda-addon,51,23,120,2,7,13,46,194,26.288659793814436,Sinhala <en@li.org>
+keditbookmarks,341,119,6,96,35,1,401,466,73.17596566523605,Sinhala <danishka@gmail.com>
+kf5-calendarsupport,2,2,2775,1,2,388,2,2779,0.07196833393306945,American English <kde-i18n-doc@kde.org>
+kf5-kauth,0,4,69,0,1,7,0,73,0.0,Sinhala <danishka@gmail.com>
+kf5-kcmutils,141,122,3,19,17,2,128,266,53.00751879699248,Sinhala <danishka@gmail.com>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Sinhala <danishka@gmail.com>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Sinhala <danishka@gmail.com>
+kf5-kconfig,0,0,289,0,0,104,0,289,0.0,Sinhala <danishka@gmail.com>
+kf5-kconfigwidgets,126,152,64,68,44,13,194,342,36.84210526315789,Sinhala <danishka@gmail.com>
+kf5-kcoreaddons,0,311,71,0,94,38,0,382,0.0,Sinhala <danishka@gmail.com>
+kf5-kdeclarative,43,38,80,8,7,10,43,161,26.70807453416149,Sinhala <danishka@gmail.com>
+kf5-kdelibs4support,750,781,3822,233,525,1786,769,5353,14.010835045768728,Sinhala <danishka@gmail.com>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Sinhala <danishka@gmail.com>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Sinhala <danishka@gmail.com>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Sinhala <danishka@gmail.com>
+kf5-khtml,1128,395,144,249,26,14,1205,1667,67.66646670665867,Sinhala <danishka@gmail.com>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,Sinhala <danishka@gmail.com>
+kf5-kinit,78,31,7,6,4,1,69,116,67.24137931034483,Sinhala <danishka@gmail.com>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Sinhala <danishka@gmail.com>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,Sinhala <danishka@gmail.com>
+kf5-kjsembed,224,12,12,42,1,1,220,248,90.32258064516128,Sinhala <danishka@gmail.com>
+kf5-knewstuff,170,313,1148,40,116,75,189,1631,10.423053341508277,Sinhala <danishka@gmail.com>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Sinhala <danishka@gmail.com>
+kf5-knotifyconfig,43,86,0,15,2,0,47,129,33.33333333333333,Sinhala <danishka@gmail.com>
+kf5-kparts,85,37,16,23,5,2,96,138,61.59420289855072,Sinhala <danishka@gmail.com>
+kf5-kpty,15,0,0,4,0,0,20,15,100.0,Sinhala <danishka@gmail.com>
+kf5-kross,82,18,0,29,6,0,86,100,82.0,Sinhala <danishka@gmail.com>
+kf5-kservice,65,74,34,9,14,5,59,173,37.57225433526011,Sinhala <danishka@gmail.com>
+kf5-ktexteditor,3870,2154,3209,619,362,283,3772,9233,41.91487057294487,Sinhala <info@hanthana.org>
+kf5-ktextwidgets,448,15,10,117,10,3,490,473,94.71458773784354,Sinhala <danishka@gmail.com>
+kf5-kwallet,534,311,490,53,7,28,496,1335,40.0,Sinhala <danishka@gmail.com>
+kf5-kwidgetsaddons,0,1179,114,0,434,29,0,1293,0.0,Sinhala <danishka@gmail.com>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Sinhala <danishka@gmail.com>
+kf5-kxmlgui,484,838,252,105,109,16,486,1574,30.749682337992372,Sinhala <danishka@gmail.com>
+kf5-libktorrent,0,0,465,0,0,105,0,465,0.0,American English <kde-i18n-doc@kde.org>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Sinhala <danishka@gmail.com>
+kf5-syntax-highlighting,0,306,341,0,223,160,0,647,0.0,Sinhala <info@hanthana.org>
+kfind,460,39,18,103,11,3,472,517,88.97485493230174,American English <danishka@gmail.>
+kgamma,1,0,129,1,0,15,1,130,0.7692307692307693,Sinhala <info@hanthana.org>
+kgeography,1,2,10009,1,2,7234,1,10012,0.00998801438274071,Sinhala <danishka@gmail.com>
+kget,2331,145,300,678,31,34,2240,2776,83.96974063400576,Sinhala <info@hanthana.org>
+khangman,0,4,471,0,1,119,0,475,0.0,Sinhala <danishka@gmail.com>
+khelpcenter,209,24,32,77,8,5,223,265,78.8679245283019,Sinhala <danishka@gmail.com>
+khotkeys,396,38,17,115,13,8,379,451,87.8048780487805,Sinhala <danishka@gmail.com>
+kig,1,0,7856,1,0,1285,1,7857,0.012727504136438843,Sinhala <danishka@gmail.com>
+kinfocenter,231,97,96,110,52,41,235,424,54.48113207547169,Sinhala <danishka@gmail.com>
+kio-extras,481,302,201,71,25,27,423,984,48.88211382113821,Sinhala <danishka@gmail.com>
+kiten,1,3,679,1,2,170,1,683,0.14641288433382138,Sinhala <danishka@gmail.com>
+klettres,0,1,439,0,1,84,0,440,0.0,Sinhala <danishka@gmail.com>
+kmail,2053,1121,5124,592,297,388,2220,8298,24.740901422029403,Sinhala <info@hanthana.org>
+kmenuedit,235,18,32,50,6,11,226,285,82.45614035087719,Sinhala <danishka@gmail.com>
+kmplot,1,0,2499,1,0,484,1,2500,0.04,Sinhala <danishka@gmail.com>
+knotes,220,165,216,90,61,39,235,601,36.605657237936775,Sinhala <info@hanthana.org>
+kolourpaint,1730,793,53,425,13,12,1715,2576,67.15838509316771,Sinhala <info@hanthana.org>
+konqueror,5043,421,1156,606,62,134,4766,6620,76.17824773413898,Sinhala <danishka@gmail.com>
+konsole5,674,1356,1966,151,348,341,674,3996,16.866866866866868,Sinhala <danishka@gmail.com>
+kontact,258,62,172,59,11,17,243,492,52.4390243902439,Sinhala <info@hanthana.org>
+konversation,3289,411,6662,1055,93,500,3355,10362,31.740976645435243,Sinhala <info@hanthana.org>
+kopete,6876,289,9986,2433,78,780,7056,17151,40.090956795522125,Sinhala <info@hanthana.org>
+kruler,104,41,13,35,3,6,88,158,65.82278481012658,Sinhala <info@hanthana.org>
+kstars,67,213,58479,52,157,12432,68,58759,0.11402508551881414,American English <kde-i18n-doc@kde.org>
+ksudoku,22,5,1719,11,3,149,25,1746,1.2600229095074456,Sinhala <danishka@gmail.com>
+ksysguard,916,77,100,195,29,13,827,1093,83.80603842634949,Sinhala <danishka@gmail.com>
+ktorrent,3106,926,3430,922,192,247,2943,7462,41.62422942910748,Sinhala <info@hantha.org>
+ktouch,0,0,964,0,0,259,0,964,0.0,Sinhala <danishka@gmail.com>
+kturtle,0,1,1537,0,1,348,0,1538,0.0,Sinhala <danishka@gmail.com>
+kwalletmanager5,498,57,284,116,19,34,467,839,59.35637663885578,Sinhala <info@hanthana.org>
+kwin,1559,1274,2966,290,346,529,1501,5799,26.883945507846178,American English <danishka@gmail.com>
+kwordquiz,0,0,252,0,0,92,0,252,0.0,Sinhala <danishka@gmail.com>
+libbonoboui,63,0,298,33,0,81,66,361,17.451523545706372,Sinhala <en@li.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,none
+libcryptui,130,0,3500,81,0,669,168,3630,3.581267217630854,Sinhala <en@li.org>
+libdnf,2,0,1662,1,0,237,3,1664,0.1201923076923077,Sinhala <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/si/>
+libgdl,160,0,452,50,0,48,158,612,26.143790849673206,Sinhala <en@li.org>
+libgnome,16,0,1637,7,0,248,15,1653,0.9679370840895343,Sinhala <en@li.org>
+libgnomekbd,262,0,0,49,0,0,268,262,100.0,Sinhala <en@li.org>
+libgnomeui,179,0,1156,85,0,250,213,1335,13.408239700374533,Sinhala <en@li.org>
+libguestfs,2,0,189733,2,0,17013,2,189735,0.001054101773526234,none
+libgweather,6309,0,974,4375,0,370,6106,7283,86.62639022380887,Sinhala <en@li.org>
+libgweather4,6309,0,974,4375,0,370,6106,7283,86.62639022380887,Sinhala <en@li.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkeduvocdocument,1,0,170,1,0,80,1,171,0.5847953216374269,American English <kde-i18n-doc@kde.org>
+libksysguard,1498,698,1295,123,57,186,1300,3491,42.91034087653967,Sinhala <danishka@gmail.com>
+libmatekbd,146,0,162,36,0,55,154,308,47.4025974025974,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+libmatemixer,4,0,238,4,0,122,5,242,1.6528925619834711,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+libmateweather,4672,0,1471,3622,0,953,4625,6143,76.05404525476152,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+libosinfo,2,0,815,1,0,170,2,817,0.24479804161566704,Sinhala <https://translate.fedoraproject.org/projects/libosinfo/libosinfo/si/>
+libpwquality,8,0,337,3,0,48,8,345,2.318840579710145,Sinhala (http://www.transifex.com/projects/p/libpwquality/language/si/)
+libreoffice,92518,11987,632466,25689,5044,61007,88897,736971,12.553818264219352,Sinhala <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/si/>
+libreport,4,0,4924,2,0,601,5,4928,0.08116883116883117,Sinhala <https://translate.fedoraproject.org/projects/abrt/libreport/si/>
+libuser,0,0,1478,0,0,307,0,1478,0.0,Sinhala (http://www.transifex.com/projects/p/fedora/language/si/)
+libvirt,2,0,68584,2,0,10403,2,68586,0.0029160470066777475,Sinhala <https://translate.fedoraproject.org/projects/libvirt/libvirt/si/>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Sinhala (http://www.transifex.com/projects/p/fedora/language/si/)
+libwnck,87,0,0,32,0,0,103,87,100.0,Sinhala <en@li.org>
+libwnck3,87,0,0,32,0,0,103,87,100.0,Sinhala <en@li.org>
+libxfce4ui,163,110,577,56,38,70,200,850,19.176470588235293,American English <kde-i18n-doc@kde.org>
+libxfce4util,195,0,229,5,0,2,197,424,45.990566037735846,Sinhala (http://www.transifex.com/xfce/libxfce4util/language/si/)
+libzypp,18,106,2572,17,46,913,18,2696,0.6676557863501483,Sinhala <i18n@suse.de>
+lifeograph,402,354,750,106,123,213,412,1506,26.693227091633464,Sinhalese <si@li.org>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Sinhala (http://www.transifex.com/the_cavalry/light-locker/language/si/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Sinhalese <si@li.org>
+lightdm-gtk,0,0,89,0,0,25,0,89,0.0,Sinhalese <si@li.org>
+lightsoff,3,14,80,3,6,10,5,97,3.0927835051546393,Sinhala <en@li.org>
+lxdm,13,0,35,12,0,14,17,48,27.083333333333332,LANGUAGE <LL@li.org>
+lxinput,41,2,40,16,1,9,42,83,49.39759036144578,LANGUAGE <LL@li.org>
+lxlauncher,51,0,7,11,0,6,46,58,87.93103448275862,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,99,97,100.0,Sinhala <en@li.org>
+lxshortcut,43,0,0,19,0,0,50,43,100.0,LANGUAGE <LL@li.org>
+magpie,75,0,7984,38,0,477,96,8059,0.9306365554038962,Sinhala <en@li.org>
+mailman3,4,0,4636,2,0,399,4,4640,0.08620689655172414,Sinhala <https://hosted.weblate.org/projects/gnu-mailman/mailman/si/>
+maliit-keyboard,5,0,76,4,0,57,5,81,6.172839506172839,
+marble,0,2,11554,0,2,3316,0,11556,0.0,Sinhala <danishka@gmail.com>
+marco,74,0,4229,38,0,392,97,4303,1.7197304206367652,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-applets,660,37,15260,271,8,1367,773,15957,4.136115811242715,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+mate-backgrounds,4,0,51,2,0,27,5,55,7.2727272727272725,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+mate-calc,143,0,3180,92,0,657,171,3323,4.303340355100812,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+mate-control-center,613,0,7640,535,0,975,678,8253,7.427602084090634,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-desktop,73,0,2303,25,0,276,83,2376,3.0723905723905722,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+mate-media,20,0,219,16,0,83,19,239,8.368200836820083,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-menu,39,0,269,26,0,84,47,308,12.662337662337661,Sinhala (http://www.transifex.com/mate/MATE/language/si/)
+mate-menus,97,0,6,37,0,2,99,103,94.1747572815534,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-notification-daemon,7,0,179,6,0,47,13,186,3.763440860215054,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-panel,754,0,5966,263,0,551,820,6720,11.220238095238095,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-polkit,4,0,119,3,0,18,7,123,3.2520325203252036,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+mate-power-manager,98,0,5021,64,0,487,110,5119,1.914436413361985,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-screensaver,439,0,662,104,0,72,446,1101,39.87284287011808,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-sensors-applet,4,2,2154,4,2,220,5,2160,0.1851851851851852,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+mate-session-manager,128,0,587,45,0,87,137,715,17.902097902097903,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-settings-daemon,43,0,2164,20,0,299,53,2207,1.9483461712732213,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-system-monitor,232,0,4661,134,0,526,283,4893,4.741467402411608,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-terminal,616,0,7770,234,0,569,768,8386,7.345575959933222,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+mate-themes,9,0,65,3,0,20,15,74,12.162162162162163,Sinhala (http://app.transifex.com/mate/MATE/language/si/)
+mate-user-admin,9,0,596,8,0,118,15,605,1.487603305785124,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+mate-user-guide,84,0,44595,57,0,3349,93,44679,0.18800778889411132,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+mate-utils,1661,0,8399,442,0,684,1585,10060,16.51093439363817,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+menulibre,52,0,821,45,0,121,67,873,5.956471935853378,Sinhalese <si@li.org>
+metacity,75,0,7984,38,0,477,96,8059,0.9306365554038962,Sinhala <en@li.org>
+mingw-GConf2,22,0,4010,11,0,470,29,4032,0.5456349206349206,Sinhala <en@li.org>
+mingw-atk,38,0,337,31,0,95,40,375,10.133333333333333,Sinhala <en@li.org>
+mingw-gdk-pixbuf,995,204,149,151,35,16,995,1348,73.81305637982196,Sinhala <en@li.org>
+mingw-glib2,385,566,3826,97,115,535,417,4777,8.059451538622566,Sinhala <en@li.org>
+mingw-gtk2,3450,1018,9236,814,371,1599,3392,13704,25.175131348511382,Sinhala <en@li.org>
+mingw-gtk3,2198,1068,8587,596,385,1506,2122,11853,18.54382856660761,Sinhala <en@li.org>
+mingw-gtk4,908,421,1103,279,243,299,979,2432,37.33552631578947,Sinhala <en@li.org>
+mingw-gtksourceview3,8,14,300,7,9,90,9,322,2.484472049689441,Sinhala <en@li.org>
+mingw-hunspell,8,0,605,2,0,77,8,613,1.3050570962479608,Sinhala <https://hosted.weblate.org/projects/hunspell/translations/si/>
+modem-manager-gui,341,0,2923,192,0,371,357,3264,10.447303921568627,Sinhala (http://www.transifex.com/ethereal/modem-manager-gui/language/si/)
+mozo,32,0,14,19,0,5,60,46,69.56521739130434,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+muffin,75,0,7984,38,0,477,96,8059,0.9306365554038962,Sinhala <en@li.org>
+mutter,75,0,7984,38,0,477,96,8059,0.9306365554038962,Sinhala <en@li.org>
+nautilus,887,1835,3392,298,347,385,976,6114,14.507687275106312,Sinhala <en@li.org>
+noggin,5,0,844,1,0,150,8,849,0.5889281507656066,Sinhala <https://translate.fedoraproject.org/projects/fedora-infra/noggin/si/>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okular,2072,1593,1925,481,384,327,1892,5590,37.06618962432916,Sinhala <info@hanthana.org>
+onboard,28,0,2290,20,0,490,32,2318,1.2079378774805867,Sinhalese <si@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,656,12,1724,151,5,645,700,2392,27.424749163879596,Sinhala <info@hanthana.org>
+orca,143,0,2357,118,0,810,175,2500,5.72,Sinhala <en@li.org>
+osinfo-db-tools,2,0,220,1,0,42,2,222,0.9009009009009009,Sinhala <https://translate.fedoraproject.org/projects/libosinfo/osinfo-db-tools/si/>
+p11-kit,1702,41,21,301,8,4,1775,1764,96.48526077097506,Sinhala (http://www.transifex.com/freedesktop/p11-kit/language/si/)
+pam,283,137,115,64,20,16,305,535,52.89719626168225,Sinhala <https://translate.fedoraproject.org/projects/linux-pam/master/si/>
+paprefs,2,0,135,1,0,24,2,137,1.4598540145985401,Sinhala <https://translate.fedoraproject.org/projects/pulseaudio/paprefs/si/>
+parley,1,3,3429,1,2,726,3,3433,0.029129041654529564,Sinhala <danishka@gmail.com>
+passwd,0,0,336,0,0,57,0,336,0.0,Sinhala (http://www.transifex.com/projects/p/fedora/language/si/)
+pavucontrol,0,0,530,0,0,149,0,530,0.0,none
+pcmanfm,26,186,1003,13,46,238,25,1215,2.139917695473251,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser5,39,102,145,9,22,22,41,286,13.636363636363635,Sinhala <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/si/>
+pidgin,1416,0,12578,583,0,2608,1562,13994,10.118622266685723,Sinhala (http://www.transifex.com/pidgin/pidgin/language/si/)
+pinta,45,0,1701,34,0,503,62,1746,2.5773195876288657,Sinhalese <si@li.org>
+pipewire,0,0,647,0,0,108,0,647,0.0,none
+pipewire-media-session,0,0,5,0,0,3,0,5,0.0,none
+plasma-desktop,2408,945,1895,279,178,428,2035,5248,45.88414634146341,American English <kde-i18n-doc@kde.org>
+plasma-drkonqi,581,977,426,69,88,46,492,1984,29.284274193548388,Sinhala <info@hanthana.org>
+plasma-oxygen,430,133,52,168,34,17,473,615,69.91869918699187,Sinhala <danishka@gmail.com>
+plasma-sdk,4,0,367,2,0,78,4,371,1.078167115902965,Sinhala <danishka@gmail.com>
+plasma-systemsettings,7,10,195,4,5,45,8,212,3.30188679245283,Sinhalese <danishka@gmail.com>
+plasma-workspace,5097,1072,3177,1519,334,424,5491,9346,54.53670019259577,Sinhala <danishka@gmail.com>
+playonlinux,7,0,2721,1,0,448,7,2728,0.2565982404692082,Sinhalese <si@li.org>
+pluma,1396,0,11717,555,0,1535,1580,13113,10.645923892320598,Sinhala (https://app.transifex.com/mate/teams/13566/si/)
+pluma-plugins,21,0,1377,8,0,135,22,1398,1.502145922746781,Sinhala (https://www.transifex.com/mate/teams/13566/si/)
+plymouth,2,0,14,1,0,6,2,16,12.5,Sinhala <https://translate.fedoraproject.org/projects/plymouth/master/si/>
+policycoreutils,52,2,18389,49,1,2721,66,18443,0.2819497912487123,Sinhala
+polkit-gnome,94,0,0,16,0,0,79,94,100.0,Sinhala <info@hanthana.org>
+popt,1,0,89,1,0,31,1,90,1.1111111111111112,Sinhala <https://translate.fedoraproject.org/projects/popt/master/si/>
+powerdevil,15,124,228,6,32,48,15,367,4.087193460490464,Sinhala <danishka@gmail.com>
+publican,32,0,5345,12,0,602,32,5377,0.5951273944578761,Sinhala <en@li.org>
+pulseaudio,2,0,3784,1,0,571,2,3786,0.05282620179609086,Sinhala <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/si/>
+pychess,2,0,4409,2,0,861,3,4411,0.045341192473362046,Sinhala (http://www.transifex.com/gbtami/pychess/language/si/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,16,0,1612,4,0,176,15,1628,0.9828009828009828,Sinhala <https://translate.fedoraproject.org/projects/pykickstart/master/si/>
+python-blivet,206,10,389,24,1,56,204,605,34.049586776859506,Sinhala (http://www.transifex.com/projects/p/blivet/language/si/)
+python-django-mailman3,2,0,353,2,0,70,3,355,0.5633802816901409,Sinhala <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/si/>
+python-fedora,0,0,214,0,0,29,0,214,0.0,Sinhala
+python-hyperkitty,6,0,945,3,0,262,6,951,0.6309148264984227,Sinhala <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/si/>
+python-meh,2,0,107,2,0,21,3,109,1.834862385321101,Sinhala <https://translate.fedoraproject.org/projects/python-meh/master/si/>
+python-postorius,16,0,5038,10,0,621,22,5054,0.31658092599920856,Sinhala <https://hosted.weblate.org/projects/gnu-mailman/postorius/si/>
+python-simpleline,2,0,40,2,0,14,2,42,4.761904761904762,Sinhala <https://translate.fedoraproject.org/projects/python-simpleline/master/si/>
+python-sphinx,102,0,4881,59,0,699,104,4983,2.046959662853703,Sinhala (http://www.transifex.com/sphinx-doc/sphinx-1/language/si/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Sinhala (https://www.transifex.com/sphinx-doc/teams/36659/si/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Sinhala (https://www.transifex.com/sphinx-doc/teams/36659/si/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Sinhala (https://www.transifex.com/sphinx-doc/teams/36659/si/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Sinhala (https://www.transifex.com/sphinx-doc/teams/36659/si/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Sinhala (https://www.transifex.com/sphinx-doc/teams/36659/si/)
+quadrapassel,33,9,386,22,7,50,39,428,7.710280373831775,Sinhala <en@li.org>
+realmd,789,0,44,127,0,7,828,833,94.71788715486194,Sinhala (http://www.transifex.com/freedesktop/realmd/language/si/)
+redhat-menus,261,0,0,86,0,0,300,261,100.0,Sinhala <en@li.org>
+rednotebook,880,33,350,196,8,68,816,1263,69.67537608867775,Sinhalese <si@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,431,153,4812,192,71,737,469,5396,7.987398072646405,Sinhala <https://hosted.weblate.org/projects/remmina/remmina/si/>
+retrace-server,13,0,420,8,0,48,13,433,3.0023094688221708,Sinhala <https://translate.fedoraproject.org/projects/abrt/retrace-server/si/>
+rhythmbox,3575,0,11,924,0,1,3591,3586,99.69325153374233,Sinhala <info@hanthana.org>
+rpm,3,0,4726,2,0,906,3,4729,0.06343835906111228,Sinhala <https://translate.fedoraproject.org/projects/rpm/master/si/>
+rpm-ostree,2,0,1478,1,0,228,3,1480,0.13513513513513514,Sinhala <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/si/>
+seahorse,130,0,3500,81,0,669,168,3630,3.581267217630854,Sinhala <en@li.org>
+seahorse-caja,64,0,357,24,0,86,68,421,15.201900237529692,Sinhala <en@li.org>
+seahorse-nautilus,64,0,357,24,0,86,68,421,15.201900237529692,Sinhala <en@li.org>
+setroubleshoot,2,0,638,1,0,167,2,640,0.3125,Sinhala <https://translate.fedoraproject.org/projects/setroubleshoot/setroubleshoot/si/>
+setroubleshoot-plugins,0,0,6246,0,0,226,0,6246,0.0,none
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+shutter,3093,0,0,606,0,0,3075,3093,100.0,Sinhalese <si@li.org>
+skychart,6,0,4855,5,0,1514,6,4861,0.12343139271754783,Sinhalese <si@li.org>
+slick-greeter,39,0,177,11,0,38,45,216,18.055555555555554,Sinhalese <si@li.org>
+snapper,0,77,1015,0,17,235,0,1092,0.0,Sinhala <i18n@suse.de>
+sos,54,30,39,11,6,13,58,123,43.90243902439025,Sinhala <en@li.org>
+sound-juicer,602,46,213,147,1,13,611,861,69.91869918699187,Sinhala <en@li.org>
+spacefm,0,0,8722,0,0,1568,0,8722,0.0,Sinhala (Sri Lanka) (http://www.transifex.com/projects/p/spacefm/language/si_LK/)
+stellarium,2814,0,148827,1325,0,36530,2811,151641,1.8556986566957485,Sinhala (https://www.transifex.com/stellarium/teams/80998/si/)
+step,1,2,1894,1,2,673,1,1897,0.05271481286241434,Sinhala <danishka@gmail.com>
+subscription-manager,2,0,4400,2,0,690,2,4402,0.045433893684688774,Sinhala <https://translate.fedoraproject.org/projects/subscription-manager/subscription-manager-main/si/>
+subscription-manager-cockpit,1,0,510,1,0,115,1,511,0.19569471624266144,Sinhala <https://translate.fedoraproject.org/projects/subscription-manager/subscription-manager-main/si/>
+sugar,1892,7,406,444,2,83,1912,2305,82.08242950108459,Sinhala <si@li.org>
+sugar-abacus,15,0,13,15,0,8,17,28,53.57142857142857,LANGUAGE <LL@li.org>
+sugar-browse,62,0,272,28,0,43,78,334,18.562874251497004,LANGUAGE <LL@li.org>
+sugar-calculator,774,0,92,156,0,13,758,866,89.37644341801386,Sinhala <si@li.org>
+sugar-chat,54,3,80,33,1,47,71,137,39.416058394160586,LANGUAGE <LL@li.org>
+sugar-clock,29,9,28,14,3,4,28,66,43.93939393939394,LANGUAGE <LL@li.org>
+sugar-dimensions,132,0,44,71,0,16,135,176,75.0,LANGUAGE <LL@li.org>
+sugar-distance,72,4,23,14,1,11,67,99,72.72727272727273,Sinhalese <en@li.org>
+sugar-finance,48,86,124,22,2,39,47,258,18.6046511627907,sinhala <LL@li.org>
+sugar-flipsticks,68,0,83,34,0,11,79,151,45.033112582781456,Sinhalese <sulochani@gmail.com>
+sugar-imageviewer,16,0,42,8,0,8,16,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-log,77,0,21,19,0,2,80,98,78.57142857142857,LANGUAGE <LL@li.org>
+sugar-memorize,24,8,110,13,7,54,38,142,16.901408450704224,LANGUAGE <LL@li.org>
+sugar-physics,13,0,35,13,0,15,17,48,27.083333333333332,LANGUAGE <LL@li.org>
+sugar-pippy,56,15,211,18,1,49,51,282,19.858156028368796,Sinhalese <en@li.org>
+sugar-read,54,0,83,28,0,22,71,137,39.416058394160586,LANGUAGE <LL@li.org>
+sugar-record,12,8,42,10,2,12,16,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,7,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,161,0,52,112,0,11,170,213,75.5868544600939,LANGUAGE <LL@li.org>
+sugar-turtleart,527,75,972,241,23,214,600,1574,33.481575603557815,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,9,0,51,6,0,17,11,60,15.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,144,121,100.0,LANGUAGE <LL@li.org>
+svgpart,1,0,2,1,0,1,2,3,33.33333333333333,Sinhala <info@hanthana.org>
+swell-foop,25,44,197,20,13,22,32,266,9.398496240601503,Sinhala <en@li.org>
+switchdesk,0,0,122,0,0,19,0,122,0.0,none
+synfigstudio,0,0,0,0,0,0,0,0,0.0,
+system-config-printer,21,17,3476,17,8,903,24,3514,0.5976095617529881,Sinhala (http://www.transifex.com/projects/p/system-config-printer/language/si/)
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-switch-mail,9,88,4,6,8,3,11,101,8.91089108910891,Sinhala <en@li.org>
+systemd,3,3,1522,1,1,191,3,1528,0.1963350785340314,Sinhala <https://translate.fedoraproject.org/projects/systemd/master/si/>
+tali,80,23,318,34,12,51,88,421,19.002375296912113,Sinhala <en@li.org>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+terminator,37,0,1485,18,0,397,32,1522,2.431011826544021,Sinhala (https://www.transifex.com/terminator/teams/109338/si/)
+terminology,4,0,978,4,0,229,4,982,0.40733197556008144,Sinhala <https://hosted.weblate.org/projects/terminology/terminology/si/>
+tomboy,774,0,1179,252,0,53,905,1953,39.63133640552996,Sinhala <en@li.org>
+totem,1160,0,678,323,0,55,1172,1838,63.11207834602829,Sinhala <en@li.org>
+totem-pl-parser,5,4,20,3,1,4,5,29,17.24137931034483,Sinhala <en@li.org>
+transmission,180,0,2261,87,0,498,245,2441,7.37402703809914,Sinhala (https://app.transifex.com/transmissionbt/teams/33778/si/)
+transmission-remote-gtk,706,68,356,329,23,62,874,1130,62.477876106194685,Sinhalese <si@li.org>
+tumbler,1,0,292,1,0,46,1,293,0.3412969283276451,American English <kde-i18n-doc@kde.org>
+tuxpaint,1010,1133,1620,232,125,104,959,3763,26.840287005049163,none
+usermode,31,0,542,19,0,77,36,573,5.4101221640488655,Sinhala (http://www.transifex.com/projects/p/fedora/language/si/)
+wine,7892,2402,9018,2715,307,1262,8830,19312,40.86578293289146,Sinhala
+wingpanel,0,0,16,0,0,3,0,16,0.0,Sinhala <https://weblate.elementary.io/projects/wingpanel/wingpanel/si/>
+wireplumber,0,0,3,0,0,2,0,3,0.0,none
+xarchiver,900,258,56,243,38,22,920,1214,74.13509060955519,American English <kde-i18n-doc@kde.org>
+xdg-user-dirs-gtk,34,0,47,8,0,3,35,81,41.9753086419753,Sinhalese <si@li.org>
+xed,1189,0,2570,371,0,552,1271,3759,31.63075285980314,Sinhala (http://www.transifex.com/projects/p/MATE/language/si/)
+xfburn,576,0,996,171,0,153,580,1572,36.6412213740458,Sinhala (http://www.transifex.com/xfce/xfce-apps/language/si/)
+xfce4-appfinder,23,16,147,5,4,35,25,186,12.365591397849462,Sinhalese <en@li.org>
+xfce4-notifyd,1,0,87,1,0,25,1,88,1.1363636363636365,American English <kde-i18n-doc@kde.org>
+xfce4-panel,1006,0,943,280,0,209,1022,1949,51.61621344279117,Sinhala (https://www.transifex.com/xfce/teams/16840/si/)
+xfce4-power-manager,328,0,736,107,0,107,318,1064,30.82706766917293,Sinhala (http://www.transifex.com/xfce/xfce4-power-manager/language/si/)
+xfce4-screenshooter,135,0,296,36,0,28,114,431,31.322505800464036,Sinhala (http://www.transifex.com/xfce/xfce-apps/language/si/)
+xfce4-session,390,201,541,89,53,88,400,1132,34.45229681978799,Sinhala <si@li.org>
+xfce4-settings,126,90,1344,55,44,250,143,1560,8.076923076923077,American English <kde-i18n-doc@kde.org>
+xfce4-taskmanager,7,24,92,7,14,24,8,123,5.691056910569105,American English <kde-i18n-doc@kde.org>
+xfce4-terminal,722,110,265,164,31,87,736,1097,65.8158614402917,Sinhala <info@hanthana.org>
+xfconf,38,20,393,8,4,55,34,451,8.425720620842572,American English <kde-i18n-doc@kde.org>
+xfdesktop,302,178,374,93,43,64,340,854,35.36299765807963,Sinhalese <danishka@gmail.com>
+xfmpc,1,0,166,1,0,69,1,167,0.5988023952095809,American English <kde-i18n-doc@kde.org>
+xfwm4,211,207,217,69,59,41,242,635,33.22834645669291,Sinhala <info@hanthana.org>
+xournalpp,104,0,4492,51,0,839,103,4596,2.2628372497824194,Sinhala
+xpad,120,0,316,42,0,93,140,436,27.522935779816514,Sinhalese <si@li.org>
+xreader,114,0,1511,73,0,307,143,1625,7.015384615384615,Sinhala (http://www.transifex.com/mate/MATE/language/si/)
+yelp,84,0,925,60,0,190,124,1009,8.325074331020813,Sinhala <en@li.org>
+yelp-xsl,26,0,54,25,0,32,27,80,32.5,Sinhalese <si@li.org>
+zenity,559,0,0,130,0,0,586,559,100.0,American English <kde-i18n-doc@lists.kde.org>
+zypper,25,0,9622,12,0,1264,26,9647,0.2591479216336685,Sinhala <https://l10n.opensuse.org/projects/zypper/master/si/>

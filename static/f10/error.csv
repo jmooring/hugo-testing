@@ -1,0 +1,206 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+LabPlot,0,0,3273,0,0,1360,0,3273,0.0,
+NetworkManager,705,13,4,149,2,3,701,722,97.64542936288089,Serbian <gnu@prevod.org>
+ORBit,8,0,0,2,0,0,2,8,100.0,TLDN
+PySolFC,4609,133,266,2031,57,115,4755,5008,92.03274760383387,Russian <ru@li.org>
+R,118289,4572,7412,17794,586,1078,100335,130273,90.80085666254712,Chinese (traditional) <zh-l10n@linux.org.tw>
+alleyoop,342,0,0,87,0,0,347,342,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+aria2,7994,0,0,654,0,0,8005,7994,100.0,none
+at-spi,15,0,0,4,0,0,11,15,100.0,Low(lands) Saxon - (Nothern) Germany
+atomix,146,0,0,59,0,0,153,146,100.0,Serbian (sr) <gnom@prevod.org>
+audacious,2378,0,0,685,0,0,2404,2378,100.0,<en@li.org>
+balsa,3793,1041,514,956,251,80,3751,5348,70.92370979805534,Serbian (sr) <gnom@prevod.org>
+banshee,2838,318,135,638,85,19,2889,3291,86.23518687329079,Serbian (sr) <gnom@prevod.org>
+bash,16468,0,0,786,0,0,16500,16468,100.0,none
+beagle,997,0,0,298,0,0,1035,997,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+bittorrent,1041,0,2386,267,0,308,1043,3427,30.376422526991536,Pig Latin <matt-bittorrent@theory.org>
+blam,67,0,0,26,0,0,58,67,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+blender,4292,1120,10485,1313,654,3136,3798,15897,26.998804805938224,
+boswars,3980,358,2502,1776,135,639,4031,6840,58.187134502923975,<tr@li.org>
+bzflag,3875,0,0,646,0,0,3923,3875,100.0,
+cadaver,1553,0,0,340,0,0,1553,1553,100.0,none
+ccsm,399,50,100,101,12,22,388,549,72.6775956284153,Mandingo
+compat-wxGTK26,0,0,5334,0,0,1113,0,5334,0.0,LANGUAGE <LL@li.org>
+compiz,66,0,0,11,0,0,82,66,100.0,Serbian (sr) <fedora@prevod.org>
+conglomerate,2480,371,3466,383,207,548,2286,6317,39.25914199778376,Serbian (sr) <gnom@prevod.org>
+contact-lookup-applet,260,0,0,56,0,0,227,260,100.0,Serbian (sr) <gnom@prevod.org>
+dasher,516,0,0,195,0,0,571,516,100.0,Serbian (sr) <gnom@prevod.org>
+devhelp,309,0,0,71,0,0,319,309,100.0,Serbian (sr)  <gnom@prevod.org>
+dia,4428,481,802,1682,176,188,4671,5711,77.5345823848713,Serbian (sr) <gnom@prevod.org>
+drgeo,1882,83,20,438,14,9,1756,1985,94.81108312342569,Serbian (sr) <serbiangnome-lista@nongnu.org>
+drivel,189,198,241,76,79,61,194,628,30.095541401273884,Serbian (sr) <serbiangnome-lista@nongnu.org>
+drupal-cck,2352,32,135,344,3,3,2430,2519,93.37038507344184,
+eject,1013,0,0,121,0,0,590,1013,100.0,Japanese <ja@li.org>
+epiphany-extensions,146,12,20,28,2,4,166,178,82.02247191011236,Serbian (sr) <serbiangnome-lista@nongnu.org>
+fantasdic,75,0,0,35,0,0,77,75,100.0,Serbian (sr) <gnom@prevod.org>
+fedora-ksplice,332,0,0,64,0,0,332,332,100.0,none
+firestarter,469,555,880,81,118,175,425,1904,24.63235294117647,Serbian (sr) <serbiagnome-lista@nongnu.org>
+fpc,4,0,0,4,0,0,4,4,100.0,
+gajim,10146,0,0,1940,0,0,9768,10146,100.0,<sr@li.org>
+galeon,5965,0,0,1410,0,0,5796,5965,100.0,Serbian (sr) <gnom@prevod.org>
+gallery2,274879,7073,128033,48873,845,15214,247951,409985,67.04611144310158,Afrikaans <gallery-translations@lists.sourceforge.net>
+gcompris,10250,0,0,1191,0,0,9030,10250,100.0,Serbian <gnom@prevod.org>
+gdeskcal,109,0,0,47,0,0,103,109,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+gdesklets,37,80,1263,11,19,151,34,1380,2.681159420289855,Serbian (sr) <serbiangnome-listaL@nongnu.org>
+gedit-plugins,281,0,0,52,0,0,248,281,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+geeqie,376,1336,1902,129,571,546,178,3614,10.40398450470393,Chinese <i18n-chinese@egroups.com>
+genius,2839,0,0,475,0,0,2786,2839,100.0,Serbian (sr) <gnom@prevod.org>
+gentoo,11990,390,1914,3590,69,317,10562,14294,83.88134881768575,
+gettext,12956,0,0,1226,0,0,12980,12956,100.0,none
+gftp,2975,195,202,570,42,20,2962,3372,88.22657176749703,Serbian (sr) <serbiangnome-lista@nongnu.org>
+ggz-gtk-client,7,0,0,7,0,0,7,7,100.0,Serbian (sr) <gnom@prevod.org>
+ghex,794,0,0,224,0,0,770,794,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+glabels,285,269,1202,93,115,369,212,1756,16.23006833712984,zh-l10n <zh-l10n@linux.org.tw>
+glade2,5555,183,102,1240,39,21,5197,5840,95.11986301369863,Serbian (sr) <serbiagnome-lista@nongnu.org>
+gnome-applets,7716,0,0,1952,0,0,9785,7716,100.0,Spanish <traductores@es.gnome.org>
+gnome-commander,1044,600,6252,383,234,806,1106,7896,13.221884498480243,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-keyring-manager,284,0,0,87,0,0,301,284,100.0,Serbian (sr) <gnom@prevod.org>
+gnome-libs,3135,0,0,1159,0,0,2062,3135,100.0,traditional Chinese <zh-l10n@linux.org.tw>
+gnome-mime-data,887,0,0,362,0,0,955,887,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-pilot,1573,0,0,334,0,0,1689,1573,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-pilot-conduits,142,35,32,36,12,2,134,209,67.94258373205741,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnome-rdp,0,0,301,0,0,89,0,301,0.0,
+gnomeradio,443,0,0,100,0,0,429,443,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnumeric,7252,2780,36342,1971,700,1083,7312,46374,15.638073058179152,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gnupg,16790,0,0,2532,0,0,16793,16790,100.0,none
+gnupg2,20284,0,0,3372,0,0,20291,20284,100.0,none
+gnutls,1696,0,0,382,0,0,1696,1696,100.0,none
+goffice,1907,637,1446,748,254,363,1923,3990,47.794486215538846,Serbian (sr) <serbiangnome-lista@nongnu.org>
+goffice04,1907,637,1446,748,254,363,1923,3990,47.794486215538846,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gossip,186,608,1172,71,193,161,183,1966,9.460834181078331,Serbian (sr) <serbiangnome-lista@nongnu.org>
+gpa,1594,27,95,356,8,12,563,1716,92.8904428904429,Hong Kong Linux User Group <info@linux.org.hk>
+gqview,528,708,485,169,297,203,257,1721,30.679837303893088,Chinese <i18n-chinese@egroups.com>
+grhino,1006,0,0,430,0,0,1006,1006,100.0,Kriang Lerdsuwanakij <lerdsuwa@users.sourceforge.net>
+gridengine,16540,0,0,2648,0,0,77621,16540,100.0,
+gshutdown,388,101,3,87,11,3,349,492,78.86178861788618,GShutdown Team <gshutdown@gmail.com>
+gthumb,2564,0,0,867,0,0,2530,2564,100.0,Serbian (sr) <gnom@prevod.org>
+gtk+,1000,0,10,515,0,10,721,1010,99.00990099009901,Chinese <zh@li.org>
+gtksourceview,821,0,0,332,0,0,906,821,100.0,Serbian (sr) <gnom@prevod.org>
+gtranslator,1422,0,0,369,0,0,1550,1422,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+hello,348,0,0,54,0,0,348,348,100.0,none
+horde,1250,0,451,261,0,48,1209,1701,73.48618459729572,Arabic <i18n@lists.horde.org>
+imp,4584,0,0,994,0,0,4276,4584,100.0,Arabic <i18n@lists.horde.org>
+indent,212,41,31,45,7,8,99,284,74.64788732394366,zh_TW.Big5 <LL@li.org>
+inkscape,10227,2493,4453,2220,717,528,10229,17173,59.55278635066674,
+intltool,238,3,62,39,2,17,213,303,78.54785478547855,NONE <kenneth@gnu.org>
+isomaster,654,1,17,99,1,6,589,672,97.32142857142857,
+istanbul,72,0,0,25,0,0,72,72,100.0,Serbian (sr) <gnom@prevod.org>
+k3b,20621,0,0,2530,0,0,18810,20621,100.0,Serbian <kde-i18n-sr@kde.org>
+kaffeine,4697,7,4,1313,1,2,4895,4708,99.76635514018692,Serbian <kde@kde.org.yu>
+kchmviewer,163,23,250,31,14,25,160,436,37.38532110091743,<nl@li.org>
+kde-i18n,21523,0,0,3923,0,0,6530,21523,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+kde-l10n,23785,0,0,4596,0,0,7673,23785,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+kdetv,2206,0,0,483,0,0,2190,2206,100.0,Serbian <kde-yu@kde.yu.org>
+keurocalc,291,0,0,116,0,0,289,291,100.0,Serbian <kde-i18n-sr@kde.org>
+kexec-tools,95,39,72,9,2,3,82,206,46.116504854368934,Serbian (sr) <fedora@prevod.org>
+kftpgrabber,1627,205,405,429,69,82,1569,2237,72.73133661153331,Serbian <kde-yu@kde.org.yu>
+kile,7801,1642,996,1135,338,114,7122,10439,74.72938020883227,Serbian <kde-yu@kde.org.yu>
+kiosktool,4535,27,16,457,13,6,4379,4578,99.0607252075142,Serbian
+kmplayer,2408,90,4,765,9,2,2463,2502,96.24300559552358,Test Language <kde-i18n-doc@kde.org>
+knemo,510,13,93,145,8,32,473,616,82.79220779220779,Serbian <kde-yu@kde.org.yu>
+konversation,9055,0,0,1362,0,0,8198,9055,100.0,Serbian <kde-i18n-sr@kde.org>
+krecipes,2645,188,254,474,54,40,2511,3087,85.68189180434078,Serbian <kde-yu@kde.org.yu>
+krename,1823,459,924,388,110,156,450,3206,56.862133499688085,zh_TW.Big5 <zh@li.org>
+kronolith,766,0,0,224,0,0,695,766,100.0,Arabic <i18n@lists.horde.org>
+krusader,6443,310,570,1344,73,164,6364,7323,87.98306704902362,krusader-i18n <krusader-i18n@googlegroups.com>
+kst,5763,421,1213,1454,106,239,5465,7397,77.9099634987157,Serbian <kde-i18n-sr@kde.org>
+ksynaptics,110,130,415,29,49,56,113,655,16.793893129770993,Serbian <kde-yu@kde.org.yu>
+kvirc,86207,13316,68663,10977,1754,8784,83780,168186,51.25694171928698,Bulgarian <dict@linux.zonebg.com>
+lazarus,17286,0,18377,4338,0,4493,17179,35663,48.470403499425174,
+libgda,1713,158,416,345,40,91,1775,2287,74.90161783996501,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgnomecanvas,378,0,0,95,0,0,400,378,100.0,Serbian (sr) <gnom@prevod.org>
+libgnomecups,206,4,0,53,1,0,178,210,98.09523809523809,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgnomedb,537,414,2153,144,104,381,520,3104,17.300257731958762,Serbian (sr) <serbiangnome-lista@nongnu.org>
+libgsasl,1036,0,0,120,0,0,1036,1036,100.0,none
+libgweather,894,18,8,340,10,8,1069,920,97.17391304347827,Spanish <traductores@es.gnome.org>
+libidn,430,0,0,98,0,0,431,430,100.0,none
+libkexif,25,0,0,14,0,0,24,25,100.0,Serbian <kde-yu@kde.yu.org>
+libpolyxmass,4278,0,0,520,0,0,4278,4278,100.0,none
+linux_logo,0,0,45,0,0,15,0,45,0.0,LANGUAGE <LL@li.org>
+logjam,2000,84,85,473,34,20,1997,2169,92.20839096357768,none
+lvm2,0,0,10785,0,0,1740,0,10785,0.0,LANGUAGE <LL@li.org>
+mail-notification,2167,0,18,379,0,2,2244,2185,99.17620137299771,Serbian (sr) <gnu@prevod.org>
+marlin,672,365,415,238,113,97,642,1452,46.28099173553719,Serbian (sr) <serbiangnome-lista@nongnu.org>
+meld,715,0,0,203,0,0,704,715,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+mingw32-gettext,12956,0,0,1226,0,0,12980,12956,100.0,none
+mingw32-gnutls,1886,0,0,442,0,0,1886,1886,100.0,none
+mingw32-libidn,826,0,0,114,0,0,829,826,100.0,none
+mirage,0,0,742,0,0,239,0,742,0.0,LANGUAGE <LL@li.org>
+monkey-bubble,263,0,0,75,0,0,280,263,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+muine,476,0,0,122,0,0,512,476,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+mysql-gui-tools,0,0,20341,0,0,3259,0,20341,0.0,
+namazu,1052,0,0,157,0,0,531,1052,100.0,Japanese <ja@li.org>
+nautilus-open-terminal,23,0,0,5,0,0,17,23,100.0,Serbian (sr) <gnom@prevod.org>
+nightfall,6218,0,30,1389,0,13,5713,6248,99.51984635083227,German
+obconf,1282,0,0,282,0,0,1316,1282,100.0,none
+olpcsound,13540,21,63905,2751,6,11782,16434,77466,17.478635788604034,French
+onboard,1124,69,489,449,22,100,1228,1682,66.82520808561236,Swedish <sv@li.org>
+openbox,1006,0,0,192,0,0,1006,1006,100.0,none
+pan,298,1318,672,100,376,124,330,2288,13.024475524475523,Serbian (sr) <gnom@prevod.org>
+php-ZendFramework,12,0,0,6,0,0,16,12,100.0,
+phpldapadmin,1112,0,0,208,0,0,1100,1112,100.0,phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net>
+pida,137,0,0,51,0,0,157,137,100.0,
+pidgin-guifications,466,8,31,186,1,5,453,505,92.27722772277228,Serbian Latin (sr@Latn) <gnu@prevod.org>
+planner,1591,0,0,491,0,0,1504,1591,100.0,Serbian (sr) <gnom@prevod.org>
+po4a,77221,5286,21950,4272,296,1162,76626,104457,73.92611313746326,CA
+poker-engine,166,21,0,68,6,0,189,187,88.77005347593582,<pokersource-users@gna.org>
+poker-network,771,78,64,152,29,19,732,913,84.44687842278204,<pokersource-users@gna.org>
+poker2d,771,78,64,152,29,19,732,913,84.44687842278204,<pokersource-users@gna.org>
+polyxmass-bin,7734,0,0,1254,0,0,7734,7734,100.0,none
+proxyknife,508,0,0,6,0,0,508,508,100.0,none
+pybliographer,588,0,0,189,0,0,610,588,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+python-formencode,540,0,0,77,0,0,189,540,100.0,LANGUAGE <LL@li.org>
+regexxer,466,0,1,99,0,1,446,467,99.78586723768737,Serbian (sr) <gnom@prevod.org>
+rhpxl,130,0,0,44,0,0,143,130,100.0,Serbian (sr) <fedora-trans-sr@redhat.com>
+smokeping,0,0,34,0,0,17,0,34,0.0,none
+smolt,0,0,966,0,0,132,0,966,0.0,moo
+snownews,0,0,791,0,0,163,0,791,0.0,LANGUAGE <LL@li.org>
+sonata,0,0,1137,0,0,358,0,1137,0.0,LANGUAGE <LL@li.org>
+soundtracker,3296,0,0,938,0,0,3297,3296,100.0,none
+specspo,154242,2045,446624,4977,143,14096,144318,602911,25.582880391964984,Serbian (sr) <fedora.prevod.org>
+squirrelmail,5770,0,0,1118,0,0,5599,5770,100.0,Serbian <squirrelmail-i18n@lists.sourceforge.net>
+starplot,2046,0,0,450,0,0,2046,2046,100.0,none
+straw,556,0,0,139,0,0,533,556,100.0,Serbian (sr) <serbiangnome-lista@nongnu.org>
+sugar,0,0,638,0,0,232,0,638,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,10,0,0,10,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-browse,36,0,104,20,0,60,149,140,25.71428571428571,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,1258,0,0,288,0,1258,0.0,
+sugar-chat,37,0,31,18,0,14,82,68,54.41176470588235,LANGUAGE <LL@li.org>
+sugar-finance,0,0,426,0,0,93,0,426,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,34,0,0,18,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,354,0,0,112,0,354,0.0,LANGUAGE <LL@li.org>
+sugar-journal,0,0,86,0,0,56,0,86,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,20,0,0,12,0,20,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,300,0,0,66,0,300,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,150,0,0,75,0,150,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,1,1,142,1,1,42,1,144,0.6944444444444444,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,255,0,0,90,0,255,0.0,LANGUAGE <LL@li.org>
+sugar-record,51,5,355,29,2,188,58,411,12.408759124087592,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,18,0,0,12,0,18,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,118,0,0,56,0,118,0.0,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,477,0,0,126,0,477,0.0,LANGUAGE <LL@li.org>
+sugar-write,76,0,131,46,0,80,270,207,36.71497584541063,LANGUAGE <LL@li.org>
+synaptic,1200,1130,901,329,240,93,1302,3231,37.14020427112349,Serbian (sr) <serbiangnome-lista@nongnu.org>
+system-config-display,398,0,0,63,0,0,383,398,100.0,Serbian (sr) <fedora@prevod.org>
+system-config-httpd,858,0,0,223,0,0,830,858,100.0,Serbian (sr) <fedora@prevod.org>
+system-config-language,49,0,0,11,0,0,44,49,100.0,Kashmiri
+turba,699,0,0,166,0,0,617,699,100.0,Arabic <i18n@lists.horde.org>
+tuxmath,1944,0,0,358,0,0,1944,1944,100.0,none
+tuxpaint,1068,251,203,260,37,75,1245,1522,70.17082785808148,
+tuxtype2,158,0,0,78,0,0,158,158,100.0,none
+upstart,3248,0,0,456,0,0,3248,3248,100.0,none
+vdradmin-am,31759,463,4516,3918,164,166,30839,36738,86.44727530077849,<cs@li.org>
+vim,76127,30,0,15884,6,0,63272,76157,99.96060769200467,"Hung-Te Lin <piaip@csie.ntu.edu.tw>, Cecil Sheng <b7506022@csie.ntu.edu.tw>"
+wesnoth,94869,40920,289465,6545,1684,17985,94446,425254,22.3087848673969,fur_IT
+wget,4520,0,0,788,0,0,4522,4520,100.0,none
+wine-docs,57699,2027,12474,3086,61,615,59969,72200,79.91551246537396,CA
+wxGTK,63,0,6395,16,0,1476,37,6458,0.9755342211210901,LANGUAGE <LL@li.org>
+wxPython,1592,20,6485,495,5,1500,1553,8097,19.66160306286279,LANGUAGE <LL@li.org>
+xcdroast,4487,451,11150,748,95,853,1507,16088,27.89035305818001,Simplified Chinese
+xdg-user-dirs,26,0,0,26,0,0,28,26,100.0,Serbian (sr) <gnom@prevod.org>
+xkeyboard-config,902,545,466,360,150,132,900,1913,47.15107161526399,Serbian <sr@li.org>
+xmms,2668,411,364,910,70,65,2726,3443,77.49056055765321,<sr@li.org>
+xmms-sid,1784,0,0,300,0,0,1785,1784,100.0,none
+xmoto,6674,0,160,1410,0,26,7230,6834,97.65876499853672,<XMoto>
+yelp,316,0,0,160,0,0,294,316,100.0,Low Saxon NFE (Northern Frisian Enclave) <kenneth@gnu.org>
+zvbi,1328,0,0,242,0,0,1332,1328,100.0,none

@@ -1,0 +1,30 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+dialog,12,2,11,12,2,9,14,25,48.0,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+dippi,0,0,1653,0,0,266,0,1653,0.0,none
+elementary-code,0,0,2228,0,0,384,0,2228,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2656,0,0,567,0,2656,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,231,0,0,45,0,231,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,42,0,0,9,0,42,0.0,none
+elementary-photos,0,0,2862,0,0,662,0,2862,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot,0,0,128,0,0,37,0,128,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,303,0,0,70,0,303,0.0,none
+gala,0,0,319,0,0,67,0,319,0.0,none
+gip,108,0,0,32,0,0,151,108,100.0,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+gmult,4,0,46,3,0,28,15,50,8.0,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,596,0,0,112,0,596,0.0,
+gtkspell,11,0,0,5,0,0,12,11,100.0,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+gtkspell3,10,5,1,5,1,1,10,16,62.5,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+mingw-libcharset,15,32,295,4,9,33,18,342,4.385964912280701,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+sugar-toolkit-gtk3,56,12,145,53,7,63,56,213,26.291079812206576,LANGUAGE <LL@li.org>
+sympa,5,0,36537,5,0,3565,13,36542,0.013682885446883038,Rumantsch
+wine,38,693,18897,22,269,4060,38,19628,0.19360097819441613,Romanish
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,

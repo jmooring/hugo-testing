@@ -1,0 +1,38 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Balochi (http://www.transifex.com/projects/p/fedora-abrt/language/bal/)
+anaconda,0,0,7193,0,0,1195,0,7193,0.0,Balochi (http://www.transifex.com/projects/p/anaconda/language/bal/)
+authconfig,503,16,410,83,2,52,642,929,54.14424111948332,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+blivet-gui,0,0,699,0,0,187,0,699,0.0,Baluchi
+certmonger,0,0,2855,0,0,477,0,2855,0.0,Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/)
+chkconfig,413,0,142,84,0,19,436,555,74.41441441441441,Balochi <trans-bal@lists.fedoraproject.org>
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Baluchi
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Baluchi
+entangle,0,0,914,0,0,218,0,914,0.0,Baluchi
+initial-setup,0,0,33,0,0,7,0,33,0.0,Baluchi
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Baluchi
+libosinfo,0,0,662,0,0,145,0,662,0.0,Baluchi
+libreport,0,0,3501,0,0,452,0,3501,0.0,Balochi (http://www.transifex.com/projects/p/libreport/language/bal/)
+libvirt,0,0,62283,0,0,9662,0,62283,0.0,Baluchi
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Baluchi
+mingw-libvirt,0,0,62283,0,0,9662,0,62283,0.0,Baluchi
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/)
+newt,4,0,0,4,0,0,4,4,100.0,Balochi <fedora-trans-bal@redhat.com>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Balochi (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/bal/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Baluchi
+pam,0,0,597,0,0,120,0,597,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+pykickstart,0,0,1437,0,0,159,0,1437,0.0,Baluchi
+python-fedora,0,0,214,0,0,29,0,214,0.0,Baluchi
+python-meh,0,0,109,0,0,23,0,109,0.0,Baluchi
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Baluchi
+rhnsd,0,0,33,0,0,9,0,33,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+setuptool,55,0,0,14,0,0,67,55,100.0,Balochi <fedora-trans-bal@redhat.com>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Balochi (http://www.transifex.com/projects/p/system-config-kickstart/language/bal/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,158,0,0,24,0,0,179,158,100.0,Balochi <fedora-trans-bal@redhat.com>
+virt-viewer,0,0,784,0,0,169,0,784,0.0,Baluchi

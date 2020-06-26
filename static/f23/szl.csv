@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-menus,95,2,6,37,1,1,86,103,92.23300970873787,Silesian <szl@li.org>
+mc,0,0,4070,0,0,1202,0,4070,0.0,Silesian (http://www.transifex.com/mc/mc/language/szl/)
+tanglet,0,0,125,0,0,5,0,125,0.0,Silesian (http://www.transifex.com/projects/p/tanglet/language/szl/)

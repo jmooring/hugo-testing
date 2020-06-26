@@ -1,0 +1,798 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,2235,0,0,490,0,0,2190,2235,100.0,
+GConf2,4004,0,0,477,0,0,4465,4004,100.0,German <gnome-de@gnome.org>
+HelixPlayer,2008,0,0,534,0,0,1968,2008,100.0,LANGUAGE <LL@li.org>
+LabPlot,16459,0,0,3046,0,0,15722,16459,100.0,<en@li.org>
+Miro,3616,0,0,649,0,0,3464,3616,100.0,German <de@li.org>
+NetworkManager,947,0,0,188,0,0,918,947,100.0,German <gnome-de@gnome.org>
+NetworkManager-openvpn,353,46,3,88,9,2,313,402,87.81094527363184,German <gnome-de@gnome.or>
+NetworkManager-vpnc,328,0,0,52,0,0,302,328,100.0,de <gnome-de@gnome.org>
+PackageKit,410,0,0,67,0,0,405,410,100.0,German <fedora-trans-de@redhat.com>
+PyXML,115,0,0,19,0,0,112,115,100.0,German <de@li.org>
+R,13370,58,47,2243,10,6,13106,13475,99.22077922077922,R-core <R-core@r-project.org>
+Terminal,1450,0,0,252,0,0,1358,1450,100.0,os-cillation <info@os-cillation.com>
+Thunar,3802,0,0,673,0,0,3601,3802,100.0,German <xfce-i18n@xfce.org>
+TurboGears,21,0,0,5,0,0,19,21,100.0,LANGUAGE <LL@li.org>
+WindowMaker,4744,0,169,954,0,15,4228,4913,96.56014654996947,German
+a2ps,1214,214,53,164,9,6,1182,1481,81.97164078325456,German <LL@li.org>
+abiword,4535,125,4,1504,20,4,4233,4664,97.23413379073756,German <gnome-de@gnome.org>
+abook,600,34,93,164,8,20,588,727,82.53094910591471,German <de@li.org>
+acl,484,0,0,51,0,0,427,484,100.0,<de@li.org>
+agave,115,0,0,42,0,0,113,115,100.0,German <mailto:translation-team-de@lists.sourceforge.net>
+alacarte,42,0,0,16,0,0,45,42,100.0,Deutsch <gnome-de@gnome.org>
+alexandria,1092,0,0,289,0,0,1066,1092,100.0,German
+alleyoop,348,0,0,89,0,0,322,348,100.0,German <gnome-de@gnome.org>
+amarok,13254,0,0,2508,0,0,13113,13254,100.0,German <kde-i18n-de@kde.org>
+anaconda,10040,0,0,1258,0,0,9819,10040,100.0,<en@li.org>
+anjuta,1910,2488,2537,539,887,476,1797,6935,27.54145638067772,
+apcupsd,0,0,647,0,0,103,0,647,0.0,LANGUAGE <LL@li.org>
+apollon,1505,59,0,241,18,0,1404,1564,96.22762148337596,<en@li.org>
+apt,2255,51,1810,374,5,99,2161,4116,54.78620019436345,German <de@li.org>
+aqbanking,5904,0,0,1125,0,0,5745,5904,100.0,deutsch <de@li.org>
+ardour,5010,82,218,1456,24,71,4833,5310,94.35028248587571,Deutsch <de@li.org>
+aria2,1043,0,1518,151,0,97,947,2561,40.72627879734479,deutsch <de@li.org>
+arm-gp2x-linux-binutils,1349,0,0,241,0,0,1358,1349,100.0,German <de@li.org>
+arm-gp2x-linux-gcc,41048,0,0,6096,0,0,37813,41048,100.0,German <translation-team-de@lists.sourceforge.net>
+arm-gp2x-linux-glibc,6326,0,0,1256,0,0,7210,6326,100.0,German <de@li.org>
+aspell,1689,4,33,287,1,5,1553,1726,97.85631517960603,German <de@li.org>
+asunder,330,0,0,65,0,0,435,330,100.0,
+at-spi,15,0,0,4,0,0,10,15,100.0,German <gnome-de@gnome.org>
+atk,370,0,0,123,0,0,298,370,100.0,German <gnome-de@gnome.org>
+atomix,146,0,0,59,0,0,150,146,100.0,German <gnome-de@gnome.org>
+attr,307,0,0,26,0,0,287,307,100.0,<de@li.org>
+audacious,1888,0,0,469,0,0,1673,1888,100.0,german <psic4t@netbands.de>
+audacious-plugins,3241,30,3786,881,7,232,2832,7057,45.92603089131359,german <0102@gmx.at>
+audacity,6623,207,64,1474,61,22,6306,6894,96.06904554685234,Deutsch <rockabilly@unitedelectro.com>
+aumix,208,0,32,65,0,27,197,240,86.66666666666667,German <de@li.org>
+authconfig,1292,0,0,237,0,0,1105,1292,100.0,German <fedora-trans-de@redhat.com>
+avahi,189,0,474,66,0,59,165,663,28.50678733031674,de
+avant-window-navigator,327,28,65,94,14,18,348,420,77.85714285714286,German <de@li.org>
+avr-binutils,1387,0,0,245,0,0,1391,1387,100.0,German <translation-team-de@lists.sourceforge.net>
+avr-gcc,41048,0,0,6096,0,0,37813,41048,100.0,German <translation-team-de@lists.sourceforge.net>
+avr-gdb,863,0,0,148,0,0,900,863,100.0,German <de@li.org>
+babel,0,0,3,0,0,2,0,3,0.0,de_DE <LL@li.org>
+bacula,0,0,19792,0,0,3109,0,19792,0.0,German <bacula-devel@lists.sourceforge.net>
+bakery,72,0,0,20,0,0,72,72,100.0,German GNOME Translations <gnome-de@gnome.org>
+balsa,5354,0,0,1289,0,0,5455,5354,100.0,German <gnome-de@gnome.org>
+banshee,4462,0,0,1012,0,0,4241,4462,100.0,German <gnome-de@gnome.org>
+basket,4581,0,0,694,0,0,4592,4581,100.0,Deutsch <de@li.org>
+bazaar,716,80,5728,90,8,310,674,6524,10.974862047823422,German <de@li.org>
+beagle,997,0,0,298,0,0,960,997,100.0,German <gnome-de@gnome.org>
+bibletime,3271,0,166,613,0,7,3045,3437,95.1702065755019,German <de@li.org>
+bibus,1756,0,0,549,0,0,1650,1756,100.0,
+binutils,1387,0,0,245,0,0,1391,1387,100.0,German <translation-team-de@lists.sourceforge.net>
+bison,739,85,64,130,6,14,716,888,83.22072072072072,German <de@li.org>
+bittorrent,3647,0,257,603,0,30,3709,3904,93.41700819672131,St0fF <bugs (at) bittorrent (dot) com>
+blam,317,0,0,88,0,0,285,317,100.0,German <gnome-de@gnome.org>
+blender,253,0,0,164,0,0,260,253,100.0,
+bluefish,2882,0,0,1056,0,0,2647,2882,100.0,None
+bluez-gnome,309,11,358,105,3,88,298,678,45.57522123893805,German <de@li.org>
+bmpx,963,436,839,252,161,128,967,2238,43.029490616621985,german <internalerror@gmail.com>
+boinc-client,3307,0,9,655,0,1,3318,3316,99.72858866103739,
+boswars,186,0,29,55,0,12,189,215,86.51162790697674,<de@li.org>
+brasero,2581,1035,1169,499,237,173,2641,4785,53.939393939393945,German
+bug-buddy,941,0,0,88,0,0,925,941,100.0,German <gnome-de@gnome.org>
+bygfoot,3373,0,29,700,0,1,3029,3402,99.14756025867138,Deutsch <de@li.org>
+byzanz,249,0,0,42,0,0,245,249,100.0,German <de@li.org>
+bzflag,1912,0,0,335,0,0,2017,1912,100.0,
+cairo-clock,270,0,0,60,0,0,256,270,100.0,Mirco Müller <macslow@bangang.de>
+calcurse,3048,94,407,235,16,5,2856,3549,85.88334742180896,Michael Schulz <bloodshower@freenet.de>
+catfish,76,0,0,28,0,0,70,76,100.0,German <de@li.org>
+ccsm,517,0,15,126,0,1,484,532,97.18045112781954,Compiz Fusion translators <i18n@lists.compiz-fusion.org>
+celestia,1905,52,14,789,25,9,1820,1971,96.65144596651446,German <de@li.org>
+centerim,2599,41,103,738,22,30,2406,2743,94.7502734232592,German <de@li.org>
+cheese,304,0,0,59,0,0,339,304,100.0,German <gnome-de@gnome.org>
+chemical-mime-data,279,0,41,78,0,10,211,320,87.1875,none
+chemtool,1139,0,45,237,0,24,1019,1184,96.19932432432432,de <de@li.org>
+childsplay,853,11,162,115,2,20,778,1026,83.1384015594542,<assetml@linux.isbeter.nl>
+chkconfig,430,0,0,88,0,0,458,430,100.0,<en@li.org>
+cinepaint,4852,93,1694,1478,19,371,4299,6639,73.0832956770598,<de@li.org>
+claws-mail,14522,24,0,3108,2,0,13360,14546,99.83500618726798,<sylpheed-claws-translators@lists.sourceforge.net>
+claws-mail-plugins,1323,246,176,286,30,57,1317,1745,75.81661891117479,<claws-mail-translators@dotsrc.org>
+clisp,10044,2640,1758,1393,289,166,9708,14442,69.54715413377649,Deutsch <de@li.org>
+comix,1559,0,45,292,0,4,1175,1604,97.19451371571073,DE <LL@li.org>
+compat-gcc-296,2470,0,80,340,0,23,2364,2550,96.86274509803921,German <de@li.org>
+compat-gcc-32,5,0,0,4,0,0,4,5,100.0,LANGUAGE <LL@li.org>
+compat-gcc-34,28666,0,2218,4397,0,307,26602,30884,92.81828778655614,German <de@li.org>
+compat-wxGTK26,5322,20,43,1118,4,6,5226,5385,98.83008356545962,
+compiz,66,0,0,11,0,0,57,66,100.0,<en@li.org>
+compiz-fusion,4170,954,2132,912,230,276,4076,7256,57.469680264608606,Compiz Fusion translators <i18n@lists.compiz-fusion.org>
+compiz-fusion-extras,4170,954,2132,912,230,276,4076,7256,57.469680264608606,Compiz Fusion translators <i18n@lists.compiz-fusion.org>
+conglomerate,3653,249,2415,791,118,229,3367,6317,57.828082950767765,German <gnome-de@gnome.org>
+contact-lookup-applet,259,0,0,55,0,0,263,259,100.0,German <gnome-de@gnome.org>
+contacts,93,17,11,40,6,9,91,121,76.85950413223141,
+control-center,3064,0,0,756,0,0,2887,3064,100.0,de <gnome-de@gnome.org>
+cowbell,462,79,105,96,18,9,461,646,71.51702786377709,German <slomo@ubuntu.com>
+cpio,237,165,935,46,23,115,242,1337,17.726252804786835,German <de@li.org>
+cpufreq-utils,528,0,0,46,0,0,496,528,100.0,NONE
+cracklib,93,0,0,15,0,0,83,93,100.0,Novell Language <language@novell.com>
+cryptsetup-luks,143,33,224,24,8,40,138,400,35.75,German <de@li.org>
+csmash,99,7,185,46,6,165,96,291,34.02061855670103,Deutsch <de@li.org>
+cssed,1252,256,1929,341,50,303,1133,3437,36.42711667151586,German <de@li.org>
+cups,4544,0,0,732,0,0,4604,4544,100.0,
+cupsddk,413,0,0,193,0,0,387,413,100.0,
+cycle,126,0,0,61,0,0,110,126,100.0,
+d4x,1712,223,128,466,87,32,1645,2063,82.98594280174503,de@li.org
+dar,3923,988,790,551,143,95,4007,5701,68.81248903701105,Deutsch
+dasher,460,0,0,181,0,0,414,460,100.0,German <gnome-de@gnome.org>
+dayplanner,888,0,0,155,0,0,859,888,100.0,German <gnome-de@gnome.org>
+dbmail,457,0,0,39,0,0,437,457,100.0,German <debian-l10n-german@lists.debian.org>
+dcraw,590,0,0,120,0,0,602,590,100.0,
+deluge,2429,12,0,540,5,0,2251,2441,99.50839819746005,German <de@li.org>
+deskbar-applet,1122,0,0,231,0,0,1122,1122,100.0,German <gnome-de@gnome.org>
+devhelp,348,0,0,89,0,0,298,348,100.0,German GNOME Translations <gnome-de@gnome.org>
+devilspie,6,23,73,1,9,19,4,102,5.88235294117647,German <gnome-de@gnome.org>
+dia,5247,15,449,1936,6,104,4791,5711,91.87532831378043,German <gnome-de@gnome.org>
+dialog,11,2,12,11,2,10,11,25,44.0,German <de@li.org>
+diction,457,0,0,73,0,0,453,457,100.0,Deutsch <michael@moria.de>
+diffutils,1342,0,0,180,0,0,1267,1342,100.0,German <de@li.org>
+digikam,16526,0,0,2136,0,0,15614,16526,100.0,german <kde-i18n-de@kde.org>
+dirmngr,2165,0,0,384,0,0,2373,2165,100.0,de
+dnsmasq,126,21,1558,18,3,269,113,1705,7.390029325513196,German <de@li.org>
+doodle,695,25,12,108,3,1,718,732,94.94535519125684,German <de@li.org>
+drgeo,1912,65,8,450,7,4,1840,1985,96.32241813602015,German GNOME Translators <gnome-de@gnome.org>
+driconf,512,0,0,68,0,0,506,512,100.0,German <de@li.org>
+drivel,964,0,0,302,0,0,907,964,100.0,German GNOME Translators <gnome-de@gnome.org>
+dvdisaster,4230,0,15,600,0,2,3870,4245,99.64664310954063,German <de@li.org>
+dwdiff,333,0,0,65,0,0,328,333,100.0,
+e16,1761,577,569,256,148,132,1658,2907,60.577915376676984,Enlightenment l10n <e-develop@enlightenment.org>
+e2fsprogs,4491,373,289,751,34,36,4445,5153,87.15311469047157,German <translation-team-de@lists.sourceforge.net>
+easytag,5155,14,55,939,2,5,4864,5224,98.6791730474732,German <de@li.org>
+eel2,161,0,0,31,0,0,139,161,100.0,German <gnome-de@gnome.org>
+eiciel,97,7,23,30,1,8,81,127,76.37795275590551,deutsch <de@li.org>
+eject,521,0,0,62,0,0,504,521,100.0,debian-l10n-german@lists.debian.org
+ekg2,8,0,3783,2,0,680,14,3791,0.21102611448166714,Polish
+ekiga,6378,57,4972,896,1,137,5841,11407,55.91303585517664,German <gnome-de@gnome.org>
+elinks,6558,2578,2250,1156,253,156,6297,11386,57.59704900755314,German <de@li.org>
+elisa,84,0,0,49,0,0,75,84,100.0,Language deu
+emelfm2,5598,13,149,1367,5,16,5529,5760,97.1875,
+emerald,762,0,0,211,0,0,765,762,100.0,Deutsch <translation-team-de@lists.sourceforge.net>
+emesene,1378,59,16,431,18,7,1313,1453,94.83826565726085,German <ln@nells.eu>
+empathy,914,12,332,280,6,17,841,1258,72.65500794912559,German <gnome-de@gnome.org>
+enigma,5215,0,80,654,0,3,4888,5295,98.48914069877243,Enigma developers <enigma-devel@nongnu.org>
+enscript,1358,351,119,178,16,15,1336,1828,74.28884026258206,German <de@li.org>
+eog,2184,0,1742,381,0,88,2094,3926,55.62913907284768,German <gnome-de@gnome.org>
+epdfview,356,23,88,77,8,45,361,467,76.23126338329764,German <none@none.org>
+epiphany,7383,15,2711,1262,1,122,7123,10109,73.03393016124245,German <gnome-de@gnome.org>
+epiphany-extensions,729,0,0,216,0,0,658,729,100.0,German <gnome-de@gnome.org>
+evince,990,0,0,286,0,0,998,990,100.0,German <gnome-de@gnome.org>
+evolution,51855,0,4245,6922,0,228,49600,56100,92.43315508021391,German <gnome-de@gnome.org>
+evolution-brutus,917,0,0,162,0,0,886,917,100.0,German <daniel@paessler.org>
+evolution-data-server,5018,0,0,1041,0,0,5061,5018,100.0,German <gnome-de@gnome.org>
+evolution-exchange,1318,0,0,192,0,0,1308,1318,100.0,German <gnome-de@gnome.org>
+evolution-webcal,184,0,0,30,0,0,183,184,100.0,German <gnome-de@gnome.org>
+exaile,2577,3,0,682,1,0,2328,2580,99.88372093023256,German <info@noctus.net>
+exiv2,11732,48,3962,2233,9,446,10810,15742,74.52674374285351,german <kde-i18n-de@kde.org>
+exo,1476,0,0,288,0,0,1335,1476,100.0,German <de@li.org>
+extragear-plasma,272,11,22,96,6,8,246,305,89.18032786885246,German <kde-i18n-de@kde.org>
+f-spot,1418,283,437,443,70,78,1409,2138,66.32366697848457,German GNOME Translators <gnome-de@gnome.org >
+fantasdic,69,0,0,34,0,0,70,69,100.0,German <gnome-de@gnome.org>
+fetchmail,3952,0,0,640,0,0,3656,3952,100.0,Deutsch <de@li.org>
+file-roller,6632,0,0,688,0,0,6527,6632,100.0,German <gnome-de@gnome.org>
+filezilla,6643,0,0,1126,0,0,6642,6643,100.0,Kay Urbach <Kay.Urbach@gmx.de>
+findutils,230,252,817,56,20,56,264,1299,17.705927636643572,German <de@li.org>
+firestarter,1904,0,0,374,0,0,1822,1904,100.0,German GNOME Translators <gnome-de@gnome.org>
+firstboot,604,0,0,52,0,0,587,604,100.0,German <fedora-trans-de@redhat.com>
+fish,10009,0,535,2010,0,83,8761,10544,94.92602427921094,deutsch <de@li.org>
+flex,1069,0,0,157,0,0,1009,1069,100.0,German <translation-team-de@lists.sourceforge.net>
+fontforge,784,204,13,325,112,1,651,1001,78.32167832167832,Deutsch
+foomatic,458,0,0,25,0,0,415,458,100.0,German <debian-l10n-german@lists.debian.org>
+fpc,4,0,0,4,0,0,4,4,100.0,
+freeciv,38065,418,0,4241,33,0,33106,38483,98.91380609619831,German Freeciv Translators <freeciv.de@freelists.org>
+freetype1,748,0,0,160,0,0,691,748,100.0,German
+frozen-bubble,616,0,0,137,0,0,631,616,100.0,German
+fslint,359,0,0,125,0,0,354,359,100.0,Michael Armbrecht <marmbrecht@eircom.net>
+fuse-encfs,2519,29,72,242,4,12,2311,2620,96.14503816793894,German (Germany) <de_DE@li.org>
+fvwm,262,0,0,116,0,0,231,262,100.0,German
+fwbuilder,6041,1590,805,1058,329,60,6093,8436,71.60976766239924,German
+gai,371,20,142,80,4,14,325,533,69.60600375234522,
+gail,170,0,0,103,0,0,157,170,100.0,German <gnome-de@gnome.org>
+gajim,7332,218,3,1344,39,1,6915,7553,97.07401032702238,German <translators@gajim.org>
+galculator,798,38,0,268,2,0,775,836,95.45454545454545,German <de@li.org>
+galeon,5996,0,0,1422,0,0,6000,5996,100.0,German <gnome-de@gnome.org>
+gallery2,16179,17,71,2347,2,5,15816,16267,99.4590274789451,German <gallery-devel@lists.sourceforge.net>
+gambas,2421,0,50,745,0,14,2006,2471,97.97652772157022,LANGUAGE <LL@li.org>
+gambas2,1599,100,1495,601,9,485,1476,3194,50.06261740763932,LANGUAGE <LL@li.org>
+gammu,3471,273,49,971,60,12,3313,3793,91.51067756393357,Language =de
+gawk,1850,403,190,312,50,24,1789,2443,75.7265656979124,German <de@li.org>
+gbrainy,2033,0,0,291,0,0,1934,2033,100.0,German <gnome-de@gnome.org>
+gcalctool,4609,2022,555,855,180,206,4351,7186,64.13860283885333,German <gnome-de@gnome.org>
+gcc,49913,0,0,7075,0,0,45860,49913,100.0,German <translation-team-de@lists.sourceforge.net>
+gchempaint,911,0,25,327,0,9,892,936,97.32905982905983,German <gnome-de@gnome.org>
+gcombust,3941,2,66,455,1,4,3417,4009,98.30381641307059,German <de@li.org>
+gcompris,10244,0,0,1191,0,0,9347,10244,100.0,<de@li.org>
+gconf-editor,2745,0,90,226,0,11,2599,2835,96.82539682539682,German <gnome-de@gnome.org>
+gdb,863,0,0,148,0,0,900,863,100.0,German <de@li.org>
+gdeskcal,107,0,2,45,0,2,101,109,98.1651376146789,
+gdesklets,1390,0,0,179,0,0,1328,1390,100.0,German <gnome-de@gnome.org>
+gdhcpd,785,0,59,142,0,58,753,844,93.00947867298578,DE <sebastian@schoss.it>
+gdm,7538,0,0,970,0,0,7353,7538,100.0,German <gnome-de@gnome.org>
+gdmap,122,0,0,50,0,0,116,122,100.0,German
+geany,4623,0,0,975,0,0,4345,4623,100.0,German <geany-i18n@uvena.de>
+geda-gattrib,8,0,0,2,0,0,7,8,100.0,deutsch <de@li.org>
+geda-gschem,1708,0,0,517,0,0,1793,1708,100.0,deutsch <de@li.org>
+gedit,7811,1775,3154,1430,138,221,7777,12740,61.31083202511773,German <gnome-de@gnome.org>
+gedit-plugins,281,0,0,52,0,0,278,281,100.0,German <gnome-de@gnome.org>
+genius,597,81,27,122,3,7,603,705,84.68085106382979,my private German Idaho <mawa@iname.com>
+gentoo,1662,282,98,507,36,25,1582,2042,81.39079333986288,<de@li.org>
+gettext,6348,360,140,658,23,7,6229,6848,92.69859813084112,German <translation-team-de@lists.sourceforge.net>
+gftp,3372,0,0,632,0,0,3183,3372,100.0,German <gnome-de@gnome.org>
+ggz-client-libs,441,0,0,84,0,0,476,441,100.0,Deutsch <de@li.org>
+ggz-gtk-client,962,0,0,288,0,0,904,962,100.0,German <gnome-de@gnome.org>
+ghdl,40892,0,0,6075,0,0,37670,40892,100.0,German <translation-team-de@lists.sourceforge.net>
+ghex,2744,0,20,404,0,13,2641,2764,99.27641099855282,LANGUAGE <LL@li.org>
+giggle,179,35,123,79,5,28,168,337,53.11572700296736,German <gnome-de@gnome.org>
+gimmage,248,11,0,32,1,0,258,259,95.75289575289575,German
+gimmie,645,0,0,160,0,0,617,645,100.0,German <gnome-de@gnome.org>
+gimp,25644,0,0,6663,0,0,23996,25644,100.0,Deutsch <gnome-de@gnome.org>
+gimp-help,430,0,99,134,0,91,417,529,81.28544423440454,
+gimp-lqr-plugin,371,22,108,52,5,22,389,501,74.05189620758483,<de@li.org>
+git,2353,0,0,572,0,0,2474,2353,100.0,German
+gkrellm,3779,0,0,548,0,0,3301,3779,100.0,none <none>
+gkrellm-volume,248,0,0,31,0,0,226,248,100.0,none <none>
+glabels,490,419,847,175,126,276,442,1756,27.904328018223236,German <gnome-de@gnome.org>
+glade2,5910,0,0,1311,0,0,5023,5910,100.0,German <gnome-de@gnome.org>
+glade3,3207,0,0,871,0,0,2976,3207,100.0,German <gnome-de@gnome.org>
+glib2,2120,7,31,334,3,3,2201,2158,98.23911028730305,German <gnome-de@gnome.org>
+glibc,6328,0,0,1257,0,0,7211,6328,100.0,
+glipper,1830,0,377,182,0,32,1781,2207,82.91798821930222,German <svenrech@gmx.de>
+gliv,686,156,166,175,45,35,689,1008,68.05555555555556,German <de@li.org>
+glom,1529,0,2165,359,0,102,1434,3694,41.391445587439094,English <en@li.org>
+glunarclock,213,0,18,66,0,5,192,231,92.20779220779221,German <de@li.org>
+gmpc,511,267,157,181,93,63,514,935,54.652406417112296,German <gnome-de@gnome.org>
+gnochm,576,0,5,120,0,2,556,581,99.1394148020654,German <gnome-de@gnome.org>
+gnokii,658,1188,3255,264,390,482,670,5101,12.899431484022742,German
+gnomad2,669,28,0,168,3,0,687,697,95.98278335724534,LANGUAGE <LL@li.org>
+gnome-applet-netspeed,651,3,0,111,1,0,588,654,99.54128440366972,LANGUAGE <LL@li.org>
+gnome-applet-sensors,224,0,0,75,0,0,184,224,100.0,
+gnome-applet-timer,162,115,6,43,24,4,156,283,57.243816254416956,German <gnome-de@gnome.org>
+gnome-applets,4642,0,0,889,0,0,4306,4642,100.0,German <gnome-de@gnome.org>
+gnome-backgrounds,18,0,0,9,0,0,15,18,100.0,German <gnome-de@gnome.org>
+gnome-bluetooth,416,0,0,86,0,0,430,416,100.0,German <gnome-de@gnome.org>
+gnome-build,597,0,0,155,0,0,573,597,100.0,German <gnome-de@gnome.org>
+gnome-chemistry-utils,1184,0,0,415,0,0,1067,1184,100.0,none
+gnome-commander,3016,51,4825,983,24,416,2670,7892,38.215914850481504,German <gnome-de@gnome.org>
+gnome-desktop,288,0,0,70,0,0,277,288,100.0,German <gnome-de@gnome.org>
+gnome-doc-utils,238,0,0,92,0,0,236,238,100.0,German <gnome-de@gnome.org>
+gnome-games,13271,0,0,2049,0,0,12662,13271,100.0,German <gnome-de@gnome.org>
+gnome-icon-theme,51,0,0,46,0,0,55,51,100.0,German <gnome-de@gnome.org>
+gnome-keyring,1025,0,0,99,0,0,1009,1025,100.0,German <gnome-de@gnome.org>
+gnome-keyring-manager,284,0,0,87,0,0,322,284,100.0,German <gnome-de@gnome.org>
+gnome-launch-box,33,0,0,6,0,0,29,33,100.0,de <gnome-de@gnome.org>
+gnome-libs,2105,8,94,767,8,16,2021,2207,95.3783416402356,German <gnome-de@gnome.org>
+gnome-mag,298,0,0,42,0,0,288,298,100.0,German <gnome-de@gnome.org>
+gnome-media,1923,0,0,526,0,0,1836,1923,100.0,
+gnome-menus,165,0,0,58,0,0,162,165,100.0,German <gnome-de@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,454,887,100.0,German <gnome-de@gnome.org>
+gnome-netstatus,425,0,0,110,0,0,383,425,100.0,German <gnome-de@gnome.org>
+gnome-nettool,573,0,0,197,0,0,580,573,100.0,German <gnome-de@gnome.org>
+gnome-packagekit,1263,341,550,345,90,75,1230,2154,58.63509749303621,German <gnome-de@gnome.org>
+gnome-panel,5612,149,129,733,18,16,5554,5890,95.28013582342955,German
+gnome-phone-manager,489,13,0,110,2,0,529,502,97.41035856573706,German <gnome-de@gnome.org>
+gnome-pilot,1403,0,0,291,0,0,1481,1403,100.0,German <gnome-de@gnome.org>
+gnome-pilot-conduits,177,32,0,40,10,0,177,209,84.688995215311,German <gnome-de@gnome.org>
+gnome-power-manager,3575,0,0,482,0,0,3498,3575,100.0,German <gnome-de@gnome.org>
+gnome-ppp,237,17,6,101,6,3,219,260,91.15384615384615,German <gnome-de@gnome.org>
+gnome-scan,210,0,0,86,0,0,224,210,100.0,German <gnome-de@gnome.org>
+gnome-schedule,507,353,296,127,60,24,503,1156,43.858131487889274,German <gnome-de@gnome.org>
+gnome-screensaver,955,0,0,152,0,0,910,955,100.0,German <gnome-de@gnome.org>
+gnome-session,899,0,0,130,0,0,862,899,100.0,German <gnome-de@gnome.org>
+gnome-settings-daemon,1034,0,0,171,0,0,1070,1034,100.0,German <gnome-de@gnome.org>
+gnome-specimen,56,0,0,18,0,0,46,56,100.0,de <LL@li.org>
+gnome-spell,87,0,0,61,0,0,87,87,100.0,German <gnome-de@gnome.org>
+gnome-system-monitor,868,0,0,230,0,0,836,868,100.0,German <gnome-de@gnome.org>
+gnome-terminal,6601,1357,258,677,62,20,6195,8216,80.34323271665043,German <gnome-de@gnome.org>
+gnome-themes,85,0,0,26,0,0,100,85,100.0,German <gnome-de@gnome.org>
+gnome-user-docs,8020,16968,30299,895,1554,1678,7874,55287,14.506122596632121,German <gnome-de@gnome.org>
+gnome-user-share,75,0,0,16,0,0,71,75,100.0,German <gnome-de@gnome.org>
+gnome-utils,4143,0,0,728,0,0,3953,4143,100.0,German <gnome-de@gnome.org>
+gnome-vfs2,1508,0,0,301,0,0,1282,1508,100.0,German <gnome-de@gnome.org>
+gnome-volume-manager,1193,0,0,199,0,0,1097,1193,100.0,German <gnome-de@gnome.org>
+gnomebaker,2041,53,278,515,20,47,1945,2372,86.04553119730186,German <gnome-de@gnome.org>
+gnomeradio,401,0,0,90,0,0,445,401,100.0,German <gnome-de@gnome.org>
+gnomesword,1837,76,4732,581,27,348,1638,6645,27.644845748683224,LANGUAGE <LL@li.org>
+gnotime,1087,341,580,268,72,89,992,2008,54.133466135458164,German <gnome-de@gnome.org>
+gnubg,17081,237,1355,3183,65,109,17112,18673,91.47432121244577,<de@li.org>
+gnubiff,1172,0,0,222,0,0,1194,1172,100.0,German
+gnucash,24546,0,0,3846,0,0,22063,24546,100.0,German <de@li.org>
+gnumeric,33818,6774,5782,3000,392,362,30746,46374,72.92448354681503,German <gnome-de@gnome.org>
+gnupg,8395,0,0,1266,0,0,8225,8395,100.0,German <de@li.org>
+gnupg2,9944,0,0,1655,0,0,9950,9944,100.0,German <de@li.org>
+gnutls,587,3,186,95,1,70,513,776,75.64432989690721,German <translation-team-de@lists.sourceforge.net>
+gobby,763,2,13,171,1,3,706,778,98.0719794344473,German Translation Team <crew@0x539.de>
+goffice,2170,478,1342,851,192,322,1927,3990,54.385964912280706,German <gnome-de@gnome.org>
+goffice04,2170,478,1342,851,192,322,1927,3990,54.385964912280706,German <gnome-de@gnome.org>
+gok,1942,0,0,439,0,0,1848,1942,100.0,German <gnome-de@gnome.org>
+gossip,302,565,1099,94,182,149,258,1966,15.361139369277721,German <gnome-de@gnome.org>
+gourmet,3069,112,345,703,17,71,2867,3526,87.0391378332388,German (Germany) <de_DE@li.org>
+gpa,1716,0,0,376,0,0,1653,1716,100.0,deutsch <de@li.org>
+gparted,767,0,0,163,0,0,851,767,100.0,German <gnome-de@gnome.org>
+gphoto2,8822,160,150,1645,48,24,8257,9132,96.6053438458169,<de@li.org>
+gpicview,84,0,68,23,0,8,76,152,55.26315789473685,German <martinsiggel at web.de>
+gpodder,1737,0,0,393,0,0,1607,1737,100.0,gPodder Team <thp@perli.net>
+gpp,60,0,79,18,0,13,63,139,43.16546762589928,LANGUAGE <LL@li.org>
+gpsbabel,6458,0,43,1475,0,10,6332,6501,99.33856329795417,<o.b.klein@gpsbabel.org>
+gpsdrive,2377,0,0,409,0,0,2343,2377,100.0,Deutsch <de@li.org>
+gq,1976,189,796,406,31,90,1898,2961,66.73421141506249,LANGUAGE <LL@li.org>
+gqview,1717,4,0,667,2,0,1761,1721,99.76757699012202,fixme
+gramps,34142,0,13391,4251,0,275,31681,47533,71.82799318368292,<de@li.org>
+granule,206,10,139,51,4,32,203,355,58.028169014084504,German
+grass,22966,12995,8678,4098,2158,1179,22227,44639,51.44828513183539,deutsch <grass-translations@lists.osgeo.org>
+grep,622,0,0,51,0,0,588,622,100.0,German <de@li.org>
+gridengine,7090,34,9393,1150,5,1489,7139,16517,42.92547072712962,german <LL@li.org>
+grip,1047,0,0,269,0,0,966,1047,100.0,German <de@li.org>
+grisbi,5926,0,0,1478,0,0,5455,5926,100.0,deutsch <de@li.org>
+grsync,665,0,0,112,0,0,561,665,100.0,Deutsch
+gscan2pdf,735,200,98,276,39,19,749,1033,71.15198451113262,Germany <de@li.org>
+gshutdown,366,60,66,77,10,14,362,492,74.39024390243902,
+gst-inspector,142,0,0,75,0,0,121,142,100.0,
+gstreamer,674,255,273,145,45,60,693,1202,56.07321131447587,German <de@li.org>
+gstreamer-plugins-base,17,7,564,6,1,117,14,588,2.891156462585034,German <translation-team-de@lists.sourceforge.net>
+gthumb,2578,0,0,878,0,0,2642,2578,100.0,German <gnome-de@gnome.org>
+gtk+,404,0,0,210,0,0,366,404,100.0,German <gnome-de@gnome.org>
+gtk-gnutella,7941,0,3127,1279,0,634,6787,11068,71.74737983375496,German <gtk-gnutella-devel@lists.sourceforge.net>
+gtk-qt-engine,165,0,0,30,0,0,151,165,100.0,Deutsch <kde-i18n-de@kde.org>
+gtk-recordmydesktop,532,21,263,73,1,30,557,816,65.19607843137256,German <LL@li.org>
+gtk2,12090,2,0,2411,1,0,10895,12092,99.98346013893483,German <gnome-de@gnome.org>
+gtk2-engines,99,0,0,45,0,0,88,99,100.0,German <gnome-de@gnome.org>
+gtkhtml3,921,0,0,399,0,0,933,921,100.0,German <gnome-de@gnome.org>
+gtklp,591,0,0,211,0,0,606,591,100.0,German <sirtobi@stud.uni-hannover.de>
+gtkpod,5121,1494,800,804,174,115,5156,7415,69.06271072151046,<de@li.org>
+gtksourceview,891,0,0,366,0,0,755,891,100.0,German <gnome-de@gnome.org>
+gtksourceview2,999,0,0,388,0,0,880,999,100.0,German <gnome-de@gnome.org>
+gtkspell,11,0,0,5,0,0,10,11,100.0,German <de@li.org>
+gtranslator,1431,0,0,372,0,0,1455,1431,100.0,German <gnome-de@gnome.org>
+gtweakui,146,0,106,39,0,40,140,252,57.936507936507944,German <gnome-de@gnome.org>
+gtypist,291,128,58,58,10,8,294,477,61.0062893081761,German <de@li.org>
+gucharmap,2375,0,7,415,0,1,2221,2382,99.70612930310662,German <gnome-de@gnome.org>
+gurlchecker,1218,442,423,235,82,69,1124,2083,58.47335573691791,German <gnome-de@gnome.org>
+gutenprint,1958,1971,3137,328,342,1035,1638,7066,27.71016133597509,deutsch <gnome-de@gnome.org>
+gvfs,1057,0,0,274,0,0,1042,1057,100.0,German <gnome-de@gnome.org>
+gwenhywfar,499,0,0,108,0,0,496,499,100.0,deutsch <de@li.org>
+gwget,458,0,0,153,0,0,481,458,100.0,German <gnome-de@gnome.org>
+gxine,2561,4,27,618,2,3,2364,2592,98.80401234567901,German <de@li.org>
+gyachi,0,0,4176,0,0,1003,0,4176,0.0,Serbian <gnu@prevod.org>
+hercules,20,4730,4269,6,742,579,20,9019,0.2217540747311232,none <test@li.org>
+homebank,1071,10,8,379,3,1,991,1089,98.34710743801654,German <de@li.org>
+horde,7107,0,0,1963,0,0,6926,7107,100.0,German <dev@lists.horde.org>
+hugin,4081,209,13,806,36,4,3779,4303,94.8408087380897,deutsch <de@li.org>
+hwbrowser,116,0,0,51,0,0,110,116,100.0,<en@li.org>
+icewm,0,0,0,0,0,0,0,0,0.0,German
+im-chooser,466,0,0,95,0,0,388,466,100.0,German Translation team <fedora-trans-de@redhat.com>
+imp,5730,0,0,1145,0,0,5515,5730,100.0,German <dev@lists.horde.org>
+incollector,596,0,0,188,0,0,605,596,100.0,<de@li.org>
+indent,236,33,15,53,5,2,260,284,83.09859154929578,German <de@li.org>
+ingo,810,0,0,214,0,0,783,810,100.0,i18n@lists.horde.org
+initng-conf-gtk,108,0,9,38,0,1,104,117,92.3076923076923,LANGUAGE <LL@li.org>
+initscripts,3806,0,0,893,0,0,3452,3806,100.0,German <fedora-trans-de@redhat.com>
+inkscape,13970,138,1276,3127,25,89,13325,15384,90.80863234529382,<de@li.org>
+iso-codes,2728,4941,5503,1536,4094,3403,2290,13172,20.710598238688128,German
+isomaster,495,177,0,105,1,0,447,672,73.66071428571429,
+jack-rack,235,52,266,56,11,35,201,553,42.495479204339965,Sebastian Arnold <linux@sebastian-arnold.net>
+jeta,202,0,0,36,0,0,150,202,100.0,i18n@lists.horde.org
+jigdo,2631,0,0,300,0,0,2562,2631,100.0,de
+joe,925,85,661,187,17,184,924,1671,55.356074207061646,German <de@li.org>
+jokosher,1383,242,306,266,49,65,1311,1931,71.62092180217505,German <translation-team-de@lists.sourceforge.net>
+jpilot,1188,308,741,426,84,124,1100,2237,53.106839517210545,German <de@li.org>
+k3b,20630,0,0,2532,0,0,18939,20630,100.0,German <kde-i18n-de@kde.org>
+kaffeine,2354,0,0,658,0,0,2231,2354,100.0,German <kde-i18n-de@kde.org>
+kaider,652,0,0,213,0,0,596,652,100.0,German <kde-i18n-de@lists.kde.org>
+kasablanca,650,0,78,89,0,16,563,728,89.28571428571429,Deutsch <de@li.org>
+katapult,427,0,0,82,0,0,435,427,100.0,German <kde-i18n-de@kde.org>
+kazehakase,1851,7,31,577,2,13,1670,1889,97.98835362625728,
+kbackup,387,0,0,79,0,0,380,387,100.0,Deutsch
+kbd,1641,0,0,215,0,0,1641,1641,100.0,German <de@li.org>
+kcoloredit,118,0,0,46,0,0,110,118,100.0,german <kde-i18n-de@kde.org>
+kdbg,866,0,0,190,0,0,797,866,100.0,Deutsch <de@li.org>
+kdebluetooth,792,188,537,81,65,143,732,1517,52.20830586684245,<de@li.org>
+kdesvn,3387,0,0,649,0,0,3416,3387,100.0,Deutsch <de@li.org>
+kdetv,2094,14,98,459,6,18,1989,2206,94.92293744333635,German <kde-i18n-de@kde.org>
+kdiff3,3141,10,78,534,5,5,3118,3229,97.27469804893157,LANGUAGE <LL@li.org>
+kdirstat,923,0,0,226,0,0,840,923,100.0,Deutsch <de@li.org>
+kdissert,2027,0,0,282,0,0,1912,2027,100.0,German <kde-i18n-de@kde.org>
+kerry,702,0,0,183,0,0,671,702,100.0,Deutsch <kde-i18n-de@kde.org>
+keurocalc,291,0,0,116,0,0,291,291,100.0,Deutsch <kde-i18n-de@kde.org>
+kexec-tools,206,0,0,14,0,0,206,206,100.0,<de@li.org>
+kflickr,293,5,1,74,1,5,284,299,97.9933110367893,<en@li.org>
+kftpgrabber,2237,0,0,580,0,0,2234,2237,100.0,Deutsch <kde-i18n-de@kde.org>
+kgrab,368,2,0,52,1,0,375,370,99.45945945945947,german <kde-i18n-de@kde.org>
+kgtk,82,0,0,20,0,0,89,82,100.0,Deutsch <kde-i18n-de@kde.org>
+kicad,5471,0,0,2012,0,0,5465,5471,100.0,Benno Achermann <bennoachermann@bluewin.ch>
+kickpim,421,25,21,161,6,19,402,467,90.14989293361884,Deutsch
+kiconedit,724,0,0,154,0,0,664,724,100.0,german <kde-i18n-de@kde.org>
+kid3,1124,4,0,475,2,0,1050,1128,99.64539007092199,
+kile,10421,0,0,1584,0,0,9042,10421,100.0,German <kde-i18n-de@kde.org>
+kiosktool,2289,0,0,238,0,0,2170,2289,100.0,<de@li.org>
+kipi-plugins,13480,0,0,2409,0,0,13128,13480,100.0,german <kde-i18n-de@kde.org>
+klamav,458,130,1915,75,30,314,415,2503,18.29804234918098,Deutsch <de@li.org>
+kleansweep,548,0,0,99,0,0,539,548,100.0,Deutsch <de@li.org>
+klear,1153,177,9,308,19,2,1241,1339,86.10903659447348,German <->
+kmid,523,6,6,205,4,5,498,535,97.75700934579439,German <kde-i18n-de@kde.org>
+kmplayer,1249,0,2,387,0,1,1141,1251,99.84012789768185,German <kde-i18n-de@kde.org>
+kmymoney2,11032,0,0,1850,0,0,10318,11032,100.0,<en@li.org>
+knetstats,118,0,0,53,0,0,125,118,100.0,German <kde-i18n-de@kde.org>
+komparator,2587,0,0,267,0,0,2645,2587,100.0,Deutsch
+kompose,537,0,0,84,0,0,503,537,100.0,Deutsch <de@li.org>
+konq-plugins,1556,0,0,490,0,0,1457,1556,100.0,german <kde-i18n-de@kde.org>
+konversation,8604,7,3,1275,3,1,7786,8614,99.88390991409334,German <kde-i18n-de@kde.org>
+kover,439,0,2,120,0,2,452,441,99.54648526077098,
+koverartist,659,0,0,155,0,0,641,659,100.0,<de@li.org>
+kphotoalbum,6028,0,0,731,0,0,5674,6028,100.0,german <kde-i18n-de@kde.org>
+kpowersave,1698,0,0,315,0,0,1773,1698,100.0,<de@li.org>
+krecipes,977,894,1069,193,85,128,924,2940,33.23129251700681,Deutsch <kde-i18n-de@kde.org>
+krename,1603,0,0,327,0,0,1539,1603,100.0,<de@li.org>
+krusader,6769,0,0,1398,0,0,6338,6769,100.0,krusader-i18n <krusader-i18n@googlegroups.com>
+ksensors,155,0,9,92,0,5,147,164,94.51219512195121,- <C@li.org>
+kshutdown,778,0,0,186,0,0,776,778,100.0,Deutsch <de@li.org>
+ksig,85,0,0,26,0,0,77,85,100.0,german <kde-i18n-de@kde.org>
+ksirk,875,120,336,148,22,127,890,1331,65.74004507888806,<de@li.org>
+kst,6817,0,0,1663,0,0,6676,6817,100.0,German <kde-i18n-de@kde.org>
+ksynaptics,655,0,0,134,0,0,679,655,100.0,<de@li.org>
+ktechlab,2163,0,916,745,0,70,1872,3079,70.25008119519325,
+ktorrent,3213,498,498,757,30,27,3204,4209,76.33642195295795,German <kde-i18n-de@kde.org>
+labyrinth,146,0,0,42,0,0,135,146,100.0,de_DE <de@li.org>
+ladspa-blop-plugins,88,33,256,29,9,71,82,377,23.342175066312997,???
+lbrickbuster2,4328,0,0,457,0,0,4009,4328,100.0,<de@li.org>
+ldm,160,0,0,40,0,0,177,160,100.0,German <debian-l10n-german@lists.debian.org>
+leafpad,123,2,0,67,1,0,134,125,98.4,German <de@li.org>
+lftp,2875,432,138,354,27,28,2966,3445,83.45428156748912,deutsch <de@li.org>
+libbonobo,547,0,0,108,0,0,526,547,100.0,German <gnome-de@gnome.org>
+libbonoboui,368,0,0,115,0,0,347,368,100.0,German <gnome-de@gnome.org>
+libepc,141,0,0,25,0,0,152,141,100.0,German <gnome-de@gnome.org>
+libexif,4989,124,293,775,59,37,4356,5406,92.28634850166482,<de@li.org>
+libextractor,753,4,20,357,1,10,715,777,96.91119691119691,German <translation-team-de@lists.sourceforge.net>
+libgalago,32,0,0,20,0,0,27,32,100.0,German
+libgda,2291,0,0,477,0,0,2258,2291,100.0,German <gnome-de@gnome.org>
+libgdl,613,0,0,98,0,0,572,613,100.0,German <gnome-de@gnome.org>
+libgeda,992,0,0,132,0,0,1067,992,100.0,deutsch <de@li.org>
+libgnome,1691,0,0,263,0,0,1643,1691,100.0,German <gnome-de@gnome.org>
+libgnomecanvas,378,0,0,95,0,0,332,378,100.0,German <gnome-de@gnome.org>
+libgnomecups,210,0,0,54,0,0,213,210,100.0,German <gnome-de@gnome.org>
+libgnomedb,1731,0,0,372,0,0,1604,1731,100.0,German <gnome-de@gnome.org>
+libgnomekbd,277,0,0,50,0,0,241,277,100.0,German <gnome-de@gnome.org>
+libgnomeprint22,168,0,0,98,0,0,156,168,100.0,German <gnome-de@gnome.org>
+libgnomeprintui22,481,0,0,154,0,0,442,481,100.0,German <gnome-de@gnome.org>
+libgnomeui,1309,0,0,334,0,0,1190,1309,100.0,German <gnome-de@gnome.org>
+libgpg-error,740,0,0,257,0,0,694,740,100.0,none
+libgpod,738,90,14,116,6,1,828,842,87.64845605700712,none
+libgtop2,126,0,0,40,0,0,109,126,100.0,German <gnome-de@gnome.org>
+libgweather,6733,0,0,4544,0,0,6656,6733,100.0,German <gnome-de@gnome.org>
+libidn,16,54,145,2,10,37,15,215,7.441860465116279,German <de@li.org>
+libkdcraw,875,0,0,55,0,0,839,875,100.0,german <kde-i18n-de@kde.org>
+libkexif,25,0,0,14,0,0,22,25,100.0,Deutsch <de@li.org>
+libkipi,83,0,0,26,0,0,85,83,100.0,German <kde-i18n-de@kde.org>
+libpaper,73,0,0,46,0,0,78,73,100.0,de <debian-l10n-german@lists.debian.org>
+libuser,1064,0,0,225,0,0,1128,1064,100.0,German <fedora-trans-de@redhat.com>
+libvirt,2315,2496,1487,531,515,252,2122,6298,36.75770085741505,German <fedora-trans-de@redhat.com>
+libwnck,1124,0,0,241,0,0,1060,1124,100.0,German <gnome-de@gnome.org>
+libxfce4util,413,0,0,4,0,0,417,413,100.0,German <de@li.org>
+libxfcegui4,81,0,0,25,0,0,72,81,100.0,German <de@li.org>
+licq,3632,1,0,895,1,0,3633,3633,99.97247453894853,German <de@li.org>
+liferea,2492,0,0,522,0,0,2255,2492,100.0,German
+lilypond,2414,0,0,444,0,0,2404,2414,100.0,German <translation-team-de@lists.sourceforge.net>
+lincity-ng,1774,2,137,432,1,22,1673,1913,92.73392577104025,
+linkchecker,4154,0,0,403,0,0,4021,4154,100.0,de <de@li.org>
+linphone,763,5,30,191,1,18,672,798,95.6140350877193,Deutsch <de@li.org>
+linux_logo,45,0,0,15,0,0,45,45,100.0,LANGUAGE <LL@li.org>
+listen,703,16,28,310,7,6,654,747,94.10977242302543,French <traduc@traduc.org>
+lock-keys-applet,54,0,0,19,0,0,51,54,100.0,German <gnome-de@gnome.org>
+logjam,1998,88,83,471,36,20,1979,2169,92.11618257261411,Frank Hofmann <frankhofmann@gmx.ch>
+lrzsz,709,404,10,128,2,5,711,1123,63.13446126447017,none. try <uwe@ohse.de>
+ltsp,272,0,0,45,0,0,282,272,100.0,German <debian-l10n-german@lists.debian.org>
+lvm2,0,0,0,0,0,0,0,0,0.0,LANGUAGE <LL@li.org>
+lynx,7841,18,72,1187,5,8,7421,7931,98.86521245744547,German <de@li.org>
+lyx,9845,0,8,3601,0,8,9881,9853,99.91880645488683,LyX-team <lyx-docs@lists.lyx.org>
+mail-notification,2171,0,0,392,0,0,2172,2171,100.0,German <gnome-de@gnome.org>
+mailman,17946,1226,2162,1297,5,26,17101,21334,84.11924627355396,<de@li.org>
+make,1453,344,200,313,50,31,1563,1997,72.75913870806208,German <de@li.org>
+mc,3448,26,25,978,7,3,3315,3499,98.54244069734209,German <gnome-de@gnome.org>
+mcrypt,735,48,182,94,10,39,721,965,76.16580310880829,German <de@li.org>
+meld,888,0,0,229,0,0,897,888,100.0,German <gnome-de@gnome.org>
+mesa,270,0,0,52,0,0,227,270,100.0,German <de@li.org>
+mesa-libGLw,270,0,0,52,0,0,227,270,100.0,German <de@li.org>
+metacity,7924,0,0,517,0,0,7595,7924,100.0,German <gnome-de@gnome.org>
+metamonitor,305,0,0,119,0,0,301,305,100.0,<de@li.org>
+minicom,1764,0,0,384,0,0,1869,1764,100.0,German <translation-team-de@lists.sourceforge.net>
+mirage,685,14,43,218,7,14,641,742,92.31805929919138,
+mkvtoolnix,1701,0,1475,134,0,110,1613,3176,53.55793450881612,Moritz Bunkus <moritz@bunkus.org>
+mlocate,271,266,0,45,3,0,248,537,50.46554934823091,Gernan <fedora-trans-de@redhat.com>
+moin,3742,0,0,637,0,0,3734,3742,100.0,
+monkey-bubble,309,0,0,86,0,0,292,309,100.0,German <gnome-de@gnome.org>
+monodevelop,10126,0,0,2299,0,0,9326,10126,100.0,
+monotone,8208,0,0,1116,0,0,8345,8208,100.0,german <debian-l10n-german@lists.debian.org>
+mousepad,135,0,0,64,0,0,137,135,100.0,German <de@li.org>
+mousetweaks,294,0,0,76,0,0,267,294,100.0,(null)
+msmtp,1579,0,0,239,0,0,1494,1579,100.0,German
+mtpaint,1375,0,1478,529,0,301,1170,2853,48.19488257974062,German <de_DE@li.org>
+muine,490,0,0,124,0,0,452,490,100.0,German <gnome-de@gnome.org>
+mutt,5202,4,9,1086,1,2,5141,5215,99.75071907957815,German <mutt-po@mutt.org>
+mysql,302,0,0,19,0,0,294,302,100.0,german <debian-l10n-german@lists.debian.org>
+mysql-gui-tools,12650,0,7691,2635,0,624,11210,20341,62.18966619143601,
+nabi,157,13,21,43,3,9,158,191,82.19895287958116,<ami-list@lists.kldp.net>
+nagios-plugins,549,872,7061,108,132,931,531,8482,6.472530063664231,English <en@li.org>
+namazu,1,0,1051,1,0,156,1,1052,0.09505703422053231,developers@namazu.org
+nano,2249,0,0,362,0,0,2033,2249,100.0,German <translation-team-de@lists.sourceforge.net>
+nautilus,7562,0,0,1258,0,0,7313,7562,100.0,German <gnome-de@gnome.org>
+nautilus-actions,1228,0,0,147,0,0,1137,1228,100.0,German <gnome-de@gnome.org>
+nautilus-cd-burner,1315,0,0,213,0,0,1350,1315,100.0,German <gnome-de@gnome.org>
+nautilus-open-terminal,82,0,0,7,0,0,76,82,100.0,
+nautilus-sendto,54,0,0,19,0,0,59,54,100.0,German <gnome-de@gnome.org>
+nautilus-share,41,0,0,11,0,0,42,41,100.0,German <traduc@traduc.org>
+ncmpc,428,5,1,154,2,1,422,434,98.61751152073732,de <de@li.org>
+ncpfs,5662,6,0,809,1,0,5491,5668,99.894142554693,<de@li.org>
+nemiver,408,0,0,125,0,0,337,408,100.0,German <gnome-de@gnome.org>
+neon,76,181,239,14,34,48,82,496,15.32258064516129,de
+net-tools,2171,31,26,487,8,6,2041,2228,97.44165170556553,
+net6,296,0,8,67,0,1,290,304,97.36842105263158,German Translation Team <crew@0x539.de>
+newt,4,0,0,4,0,0,4,4,100.0,German <de@li.org>
+nightfall,3530,0,0,796,0,0,3260,3530,100.0,<en@li.org>
+notecase,1034,73,49,339,12,5,994,1156,89.44636678200692,NoteCase team
+notification-daemon,17,14,0,5,1,0,18,31,54.83870967741935,German <gnome-de@gnome.org>
+ntfs-config,266,62,127,35,16,16,255,455,58.46153846153847,German <de@li.org>
+nut,368,0,0,13,0,0,325,368,100.0,German <debian-l10n-german@lists.debian.org>
+nx,316,0,91,51,0,6,267,407,77.64127764127764,German <debian-l10n-german@lists.debian.org>
+obby,159,0,0,32,0,0,150,159,100.0,German Translation Team <crew@0x539.de>
+oggconvert,139,0,13,41,0,3,139,152,91.44736842105263,German <de@li.org>
+oooqs2,229,24,0,24,2,0,179,253,90.51383399209486,Deutsch <de@li.org>
+openbox,350,0,30,74,0,3,331,380,92.10526315789474,<de@li.org>
+opensp,5771,0,0,722,0,0,5455,5771,100.0,German <de@li.org>
+orage,864,0,0,539,0,0,860,864,100.0,German <de@li.org>
+orca,3097,0,0,1089,0,0,2943,3097,100.0,German <gnome-de@gnome.org>
+osmo,1117,0,12,489,0,4,1013,1129,98.93711248892826,German
+oxine,2881,15,32,1096,2,4,2706,2928,98.3948087431694,German <de@li.org>
+oyranos,699,1,1,179,1,1,651,701,99.71469329529245,<de@li.org>
+pam,517,0,0,110,0,0,514,517,100.0,German <fedora-trans-de@redhat.com>
+pan,304,1311,673,100,377,123,337,2288,13.286713286713287,German <gnome-de@gnome.org>
+paprefs,91,0,0,18,0,0,78,91,100.0,
+parted,4605,183,48,532,30,7,4550,4836,95.22332506203473,German <translation-team-de@lists.sourceforge.net>
+passwd,291,0,0,51,0,0,307,291,100.0,
+pcmanfm,1005,15,63,255,7,10,929,1083,92.797783933518,German <de@li.org>
+perl-libintl,42,0,0,40,0,0,48,42,100.0,German <guido@imperia.net>
+pessulus,88,0,0,30,0,0,82,88,100.0,German <gnome-de@gnome.org>
+pgadmin3,7191,116,24,2143,15,3,6253,7331,98.09030145955532,Andreas Pflug <pgadmin-hackers@postgresql.org>
+phpldapadmin,2076,0,0,393,0,0,1963,2076,100.0,phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net>
+picard,49,265,319,29,111,123,54,633,7.740916271721959,German <de@li.org>
+pidgin,16279,0,0,3452,0,0,15696,16279,100.0,Deutsch <de@li.org>
+pidgin-guifications,442,32,31,183,4,5,432,505,87.52475247524752,German <de@li.org>
+pikdev,1368,0,625,247,0,83,1263,1993,68.64024084295033,
+piklab,1683,605,4341,626,161,761,1675,6629,25.38844471262634,Stefan von Halenbach <vonHalenbach at users sf dot net>
+pikloops,93,1,32,25,1,3,87,126,73.80952380952381,Français <traduc@traduc.org>
+pinfo,203,115,7,49,5,1,205,325,62.46153846153846,German <de@li.org>
+pingus,2060,183,585,240,29,17,1980,2828,72.84299858557284,"David Philippi <david@torangan.de>, Ingo Ruhnke <grumbel@gmx.de>, Giray Devlet <giray@devlet.cc>"
+pinot,263,60,214,118,26,81,264,537,48.97579143389199,German <de@li.org>
+pioneers,2448,0,0,678,0,0,2301,2448,100.0,"Pit Garbe <piiit@gmx.de>, Roman Hodek <roman@hodek.net>, de <de@li.org>"
+pitivi,291,72,358,88,21,46,277,721,40.36061026352289,german
+planner,1597,0,0,492,0,0,1541,1597,100.0,German <gnome-de@gnome.org>
+pmount,717,6,0,62,1,0,674,723,99.1701244813278,German <de@li.org>
+po4a,456,196,961,59,21,83,462,1613,28.270303781773094,DE
+poedit,1154,0,0,272,0,0,1041,1154,100.0,German <poedit-translators@lists.sourceforge.net>
+policycoreutils,1214,0,0,204,0,0,1232,1214,100.0,<en@li.org>
+popt,75,0,0,27,0,0,72,75,100.0,German <de@li.org>
+postgresql,34144,0,0,4504,0,0,31986,34144,100.0,German <peter_e@gmx.net>
+postgresql-jdbc,1433,0,0,168,0,0,1487,1433,100.0,Deutsch
+powertop,930,0,0,76,0,0,847,930,100.0,<de@li.org>
+prewikka,618,7,48,236,3,25,566,673,91.82763744427935,German
+psmisc,76,121,502,9,6,44,79,699,10.872675250357654,woolfy <woolfy@users.sourceforge.net>
+publican,563,107,2675,88,24,139,565,3345,16.831091180866967,<de@li.org>
+publican-fedora,898,0,181,182,0,20,828,1079,83.22520852641334,<de@li.org>
+pv,121,134,30,28,28,13,128,285,42.45614035087719,
+pybliographer,939,0,0,255,0,0,954,939,100.0,German <gnome-de@gnome.org>
+pychess,842,5,824,201,1,143,786,1671,50.38898862956314,German <nori.f@gmx.de>
+pykickstart,284,0,0,25,0,0,287,284,100.0,<de@li.org>
+pypar2,231,3,2,60,1,2,184,236,97.88135593220339,<Athropos@gmail.com>
+python-formencode,540,0,0,77,0,0,510,540,100.0,Gregor Horvath <gh@gregor-horvath.com>
+python-nevow,4,0,10,3,0,1,6,14,28.57142857142857,LANGUAGE <LL@li.org>
+python-pygments,3442,0,0,589,0,0,3424,3442,100.0,
+qt-recordmydesktop,532,21,263,73,1,30,557,816,65.19607843137256,German <LL@li.org>
+quilt,3037,0,0,164,0,0,2862,3037,100.0,<en@li.org>
+quodlibet,1792,23,9,498,11,2,1774,1824,98.24561403508771,German <de@li.org>
+rapidsvn,1355,0,0,418,0,0,1338,1355,100.0,RapidSVN Developers <dev@rapidsvn.tigris.org>
+recode,672,115,42,62,7,10,718,829,81.0615199034982,German <de@li.org>
+redhat-menus,261,0,0,86,0,0,211,261,100.0,<de@li.org>
+referencer,827,0,0,227,0,0,809,827,100.0,German <de@li.org>
+regexxer,467,0,0,100,0,0,468,467,100.0,German <de@li.org>
+rekall,3711,0,66,1111,0,19,3560,3777,98.2525814138205,
+resapplet,106,0,0,22,0,0,90,106,100.0,Novell Language <language@novell.com>
+revelation,1472,104,323,370,7,15,1420,1899,77.5144813059505,German <gnome-de@gnome.org>
+revisor,2154,350,1387,505,52,100,1891,3891,55.35851966075559,German <fedora-trans-de@redhat.com>
+rhgb,59,0,0,11,0,0,55,59,100.0,<de@li.org>
+rhpl,185,0,0,80,0,0,185,185,100.0,German <de@li.org>
+rhpxl,130,0,0,44,0,0,110,130,100.0,German Translation Team <fedora-trans-de@redhat.com>
+rhythmbox,7499,468,1066,1202,86,71,7180,9033,83.01782353592384,
+rkward,3124,231,186,483,37,49,3072,3541,88.22366563117762,<de@li.org>
+rosegarden4,7296,1776,1520,1908,196,145,6838,10592,68.8821752265861,Deutsch <de@li.org>
+roundup,4033,0,380,469,0,25,3633,4413,91.38907772490369,German Translators <roundup-devel@lists.sourceforge.net>
+rpm,4529,121,108,890,26,33,4476,4758,95.1870533837747,German <de@li.org>
+rsibreak,1353,0,0,153,0,0,1259,1353,100.0,Deutsch <kde-i18n-de@kde.org>
+rt3,4269,0,249,1185,0,47,4277,4518,94.48871181938911,rt-devel <rt-devel@lists.bestpractical.com>
+ruby-gettext-package,555,0,6,114,0,6,553,561,98.93048128342245,German
+rubyripper,1278,5,120,255,1,17,1176,1403,91.0905203136137,German <h-m.w@gmx.de>
+sabayon,1178,0,0,230,0,0,1168,1178,100.0,German <gnome-de@gnome.org>
+samba,765,0,0,29,0,0,721,765,100.0,German <debian-l10n-german@lists.debian.org>
+sane-backends,3509,209,428,681,70,78,3399,4146,84.63579353593825,<de@li.org>
+scim,2341,2,3,557,2,3,2205,2346,99.78687127024722,<en@li.org>
+scim-hangul,77,51,86,23,5,12,91,214,35.981308411214954,German <scim-devel@lists.sourceforge.net>
+scim-input-pad,226,0,0,68,0,0,208,226,100.0,German <scim-devel@lists.sourceforge.net>
+scim-pinyin,832,0,0,124,0,0,853,832,100.0,German <scim-devel@lists.sourceforge.net>
+scim-qtimm,23,0,0,5,0,0,22,23,100.0,German <scim-devel@lists.sourceforge.net>
+scim-tables,1153,0,0,171,0,0,1122,1153,100.0,Deutsch <skim@chinaboard.de>
+scmxx,1646,0,0,411,0,0,1680,1646,100.0,<de@li.org>
+scribes,2378,0,6,483,0,6,2291,2384,99.74832214765101,German
+seahorse,3560,0,0,758,0,0,3616,3560,100.0,German <gnome-de@gnome.org>
+sed,204,136,165,38,29,14,225,505,40.396039603960396,German <de@li.org>
+sepostgresql,34144,0,0,4504,0,0,31986,34144,100.0,German <peter_e@gmx.net>
+setroubleshoot,473,19,52,128,8,11,431,544,86.94852941176471,German <fedora-trans-de@redhat.com>
+setroubleshoot-plugins,4891,1040,0,168,15,0,4473,5931,82.46501433147867,<fedora-trans-de@redhat.com>
+setuptool,60,0,0,17,0,0,62,60,100.0,<en@li.org>
+shadow-utils,3281,0,11,431,0,1,3267,3292,99.66585662211422,German <debian-l10n-german@lists.debian.org>
+shared-mime-info,1150,0,0,480,0,0,596,1150,100.0,German <de@li.org>
+sharutils,764,221,54,108,32,11,795,1039,73.53224254090472,German <translation-team-de@lists.sourceforge.net>
+showimg,3893,118,294,852,15,12,3713,4305,90.42973286875726,Deutsch <de@li.org>
+sirius,154,0,0,45,0,0,176,154,100.0,LANGUAGE <LL@li.org>
+skencil,1487,0,0,479,0,0,1448,1487,100.0,DE
+slrn,5167,31,0,912,10,0,5727,5198,99.40361677568296,German - Jens Wahnes <jewa@gmx.net>
+smart,3986,119,131,692,19,17,3927,4236,94.0982058545798,Christian Metzen <metzench@ccux-linux.de>
+smb4k,7184,0,0,695,0,0,6909,7184,100.0,Deutsch <smb4k-devel@lists.berlios.de>
+smolt,803,0,0,90,0,0,738,803,100.0,German Translation Team <fedora-trans-de@redhat.com>
+snownews,781,0,13,163,0,6,774,794,98.36272040302268,German <kiza@kcore.de>
+solfege,1526,426,1500,492,164,256,1370,3452,44.206257242178445,Deutsch <translation-team-de@lists.sourceforge.net>
+sonata,568,355,129,180,106,39,526,1052,53.99239543726235,<de@li.org>
+sos,283,0,0,37,0,0,282,283,100.0,<de@li.org>
+sound-juicer,5905,0,0,368,0,0,5665,5905,100.0,German <gnome-de@gnome.org>
+soundconverter,420,7,8,100,3,1,365,435,96.55172413793103,German <LL@li.org>
+soundtracker,1176,106,366,340,49,80,1079,1648,71.35922330097088,German <de@li.org>
+specspo,60909,34101,210284,4924,4683,7243,57013,305294,19.950932543711964,<de@li.org>
+specto,568,46,61,144,6,17,518,675,84.14814814814815,
+squirrelmail,8920,8,1232,1966,4,157,8627,10160,87.79527559055119,German <squirrelmail-i18n@lists.sourceforge.net>
+stardict,365,527,1548,90,126,245,351,2440,14.959016393442623,German <gnome-de@gnome.org>
+steghide,1859,0,0,185,0,0,1816,1859,100.0,Deutsch
+stellarium,1013,128,6,453,30,4,879,1147,88.31734960767218,<de@li.org>
+stratagus,164,52,29,48,12,9,164,245,66.93877551020408,<de@li.org>
+straw,40,95,438,18,49,79,45,573,6.980802792321117,German
+streamtuner,1283,369,303,347,79,61,1311,1955,65.62659846547314,Deutsch <de@li.org>
+subcommander,2152,0,0,676,0,0,1963,2152,100.0,German <dev@subcommander.tigris.org>
+subversion,12729,0,0,1478,0,0,12701,12729,100.0,German <dev@subversion.tigris.org>
+sugar,233,0,0,62,0,0,225,233,100.0,German <fedora-trans-de@redhat.com>
+sugar-journal,63,0,0,34,0,0,66,63,100.0,German <fedora-trans-de@redhat.com>
+supertux,1185,10,166,200,4,26,1038,1361,87.06833210874358,German <de@li.org>
+sweep,2362,10,25,532,4,1,2183,2397,98.5398414685023,German <LL@li.org>
+swfdec-gnome,101,0,0,28,0,0,100,101,100.0,German <gnome-de@gnome.org>
+switchdesk,139,0,0,20,0,0,125,139,100.0,German <fedora-trans-de@redhat.com>
+sylpheed,6092,11,3,1533,5,2,5602,6106,99.77071732721913,de
+synaptic,3092,127,12,643,15,4,3194,3231,95.69792633859487,German <gnome-de@gnome.org>
+synce-kde,668,7,0,226,1,0,649,675,98.96296296296296,German <de@li.org>
+sysstat,234,0,0,25,0,0,233,234,100.0,LANGUAGE <LL@li.org>
+system-config-bind,9427,0,0,1065,0,0,8798,9427,100.0,<en@li.org>
+system-config-boot,46,0,0,10,0,0,43,46,100.0,<de@li.org>
+system-config-date,1038,0,660,617,0,52,1025,1698,61.130742049469966,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,376,398,100.0,<en@li.org>
+system-config-firewall,2350,0,0,276,0,0,2336,2350,100.0,German <fedora-trans-de@redhat.com>
+system-config-httpd,858,0,0,223,0,0,785,858,100.0,<de@li.org>
+system-config-kdump,383,0,0,35,0,0,335,383,100.0,<de@li.org>
+system-config-keyboard,78,0,0,12,0,0,77,78,100.0,Deutsch <de@li.org>
+system-config-kickstart,1054,0,0,281,0,0,917,1054,100.0,<de@li.org>
+system-config-language,49,0,0,11,0,0,51,49,100.0,<en@li.org>
+system-config-lvm,2049,35,58,320,4,12,2095,2142,95.65826330532214,<en@li.org>
+system-config-netboot,1103,0,0,165,0,0,1047,1103,100.0,German <fedora-trans-de@redhat.com>
+system-config-network,2856,0,0,688,0,0,2715,2856,100.0,German <fedora-trans-de@redhat.com>
+system-config-nfs,332,0,1185,71,0,66,309,1517,21.88529993408042,LANGUAGE <LL@li.org>
+system-config-printer,2265,0,0,454,0,0,2193,2265,100.0,<en@li.org>
+system-config-rootpassword,116,0,0,19,0,0,113,116,100.0,Deutsch <fedora-trans-de@redhat.com>
+system-config-samba,432,0,1188,137,0,62,412,1620,26.666666666666668,LANGUAGE <LL@li.org>
+system-config-services,39,0,1048,20,0,91,34,1087,3.5878564857405704,LANGUAGE <LL@li.org>
+system-config-users,1337,0,1054,172,0,77,1357,2391,55.91802593057298,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,132,134,100.0,German <fedora-trans-de@redhat.com>
+tagtool,952,1,5,207,1,3,916,958,99.37369519832986,deutsch <de@li.org>
+tar,2980,2,5,493,1,1,2949,2987,99.76565115500502,German <translation-team-de@lists.sourceforge.net>
+tasks,34,0,0,23,0,0,31,34,100.0,German <gnome-de@gnome.org>
+tastymenu,574,37,7,119,8,2,534,618,92.88025889967638,Deutsch <kde-i18n-de@kde.org>
+teg,2304,61,13,562,18,3,2339,2378,96.88814129520605,de@li.org
+tellico,5557,13,6,1105,2,4,5138,5576,99.65925394548063,german <de@li.org>
+texinfo,4525,30,26,573,4,3,4335,4581,98.77755948482864,German <translation-team-de@lists.sourceforge.net>
+texlive,5423,0,0,743,0,0,5033,5423,100.0,German
+thunar-archive-plugin,86,0,0,13,0,0,81,86,100.0,German <de@li.org>
+thunar-media-tags-plugin,144,0,0,49,0,0,128,144,100.0,German <de@li.org>
+thunar-volman,370,0,0,85,0,0,331,370,100.0,German <de@li.org>
+tiger,6,0,264,1,0,6,6,270,2.2222222222222223,LANGUAGE <LL@li.org>
+tin,9599,0,99,1285,0,4,9261,9698,98.97917096308517,German <german-tin@ds9.argh.org>
+tinyca2,1914,0,0,441,0,0,2085,1914,100.0,
+tinyerp,629,215,294,220,62,51,591,1138,55.27240773286467,DE <i18n-info@tinyerp.org>
+tomboy,6211,0,28,622,0,7,6136,6239,99.55121012982849,German <gnome-de@gnome.org>
+totem,4514,0,0,668,0,0,4348,4514,100.0,English <en@li.org>
+totem-pl-parser,1963,9,31,430,1,4,1888,2003,98.0029955067399,German <gnome-de@gnome.org>
+tpb,799,0,0,137,0,0,853,799,100.0,German <debian-l10n-german@lists.debian.org>
+trackballs,0,0,954,0,0,269,0,954,0.0,Swedish <sv@li.org>
+tracker,1229,0,116,276,0,5,1135,1345,91.37546468401487,German <gnome-de@gnome.org>
+transmission,695,4,7,248,3,3,640,706,98.44192634560906,Michael Färber <0102@gmx.at>
+tsclient,440,34,13,84,4,4,380,487,90.34907597535934,Deutsch
+turba,1273,0,0,294,0,0,1250,1273,100.0,German <i18n@lists.horde.org>
+tuxpaint,587,0,4,155,0,4,620,591,99.32318104906938,Deutsch <kde-i18n-de@kde.org>
+tuxpaint-stamps,1254,258,396,308,99,92,1061,1908,65.72327044025157,Deutsch <kde-i18n-de@kde.org>
+tvtime,1205,15,4,243,3,1,1032,1224,98.44771241830065,German <de@li.org>
+twitux,297,0,0,67,0,0,312,297,100.0,German <gnome-de@gnome.org>
+ultimatestunts,419,0,4,116,0,1,344,423,99.05437352245863,German <LL@li.org>
+unicap,99,0,1,67,0,1,90,100,99.0,
+usermode,564,0,0,95,0,0,508,564,100.0,German <fedora-trans-de@redhat.com>
+ushare,246,19,87,47,2,11,264,352,69.88636363636364,German uShare Team <ushare@geexbox.org>
+util-linux-ng,11032,559,156,1863,28,11,11233,11747,93.91333957606197,German <translation-team-de@lists.sourceforge.net>
+vdr,832,0,0,337,0,0,696,832,100.0,German
+vdr-femon,184,0,152,108,0,17,163,336,54.761904761904766,<vdr@linuxtv.org>
+vdr-skinsoppalusikka,47,0,88,24,0,7,39,135,34.81481481481482,<vdr@linuxtv.org>
+vdr-sudoku,65,0,0,22,0,0,59,65,100.0,<vdr@linuxtv.org>
+vdradmin-am,4148,0,0,469,0,0,4094,4148,100.0,Andreas Mair <mail@andreas.vdr-developer.org>
+vim,8241,0,0,1705,0,0,8454,8241,100.0,German <de@li.org>
+vinagre,452,0,0,94,0,0,466,452,100.0,German <gnome-de@gnome.org>
+vino,993,0,0,104,0,0,965,993,100.0,German <gnome-de@gnome.org>
+virt-manager,1715,306,742,388,86,122,1627,2763,62.070213536011586,<de@li.org>
+vte,116,0,0,20,0,0,134,116,100.0,German <gnome-de@gnome.org>
+wallpapoz,395,0,0,101,0,0,372,395,100.0,German <translation-team-de@lists.sourceforge.net>
+wammu,4143,12,0,767,1,0,4335,4155,99.71119133574007,German <de@li.org>
+wavbreaker,613,0,0,138,0,0,549,613,100.0,German <translation-team-de@lists.sourceforge.net>
+wdm,38,0,0,25,0,0,263,38,100.0,deutsch
+weechat,6748,861,94,1093,49,12,6512,7703,87.60223289627417,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,199809,0,0,11913,0,0,202923,199809,100.0,irc://irc.freenode.net/#wesnoth-de
+wget,1938,0,0,341,0,0,2096,1938,100.0,German <translation-team-de@lists.sourceforge.net>
+widelands,13720,0,3,1237,0,1,14084,13723,99.97813889091307,German <widelands-public@lists.sourceforge.net>
+wine-docs,272,53,889,43,9,76,270,1214,22.40527182866557,DE
+wordtrans,0,0,0,0,0,0,0,0,0.0,
+workrave,1114,18,2,211,8,1,1140,1134,98.2363315696649,Raymond Penners <raymond@dotsphinx.com>
+wormux,462,1,0,125,1,0,447,463,99.78401727861771,German <wormux-dev@gna.org>
+wxGTK,5288,429,652,1106,130,228,5202,6369,83.02716281990892,
+wxGlade,0,0,1406,0,0,238,0,1406,0.0,LANGUAGE <LL@li.org>
+wxMaxima,2460,0,0,710,0,0,2420,2460,100.0,german <de@li.org>
+wxPython,5297,429,652,1107,130,228,5211,6378,83.0511132016306,wxWidgets Team <wx-dev@wxwidgets.org>
+wxdfast,461,314,407,189,61,88,442,1182,39.001692047377325,Stefan Westermann <raskolnikow83@gmx.de>
+xaos,833,2,30,327,1,5,771,865,96.30057803468208,<de@li.org>
+xarchiver,1138,38,73,233,10,19,1085,1249,91.11289031224979,German <de@li.org>
+xblast,399,32,516,172,13,196,350,947,42.13305174234424,German <de@li.org>
+xcdroast,8044,0,0,848,0,0,7413,8044,100.0,German
+xchat,4648,158,224,1159,42,37,4284,5030,92.40556660039762,German <translation-team-de@lists.sourceforge.net>
+xchat-gnome,3613,189,99,941,24,15,3507,3901,92.61727762112278,German <de@li.org>
+xchm,194,0,33,82,0,5,189,227,85.46255506607929,German
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,German <gnome-de@gnome.org>
+xdg-user-dirs-gtk,52,0,0,8,0,0,46,52,100.0,German <gnome-de@gnome.org>
+xdrawchem,2460,0,0,562,0,0,2321,2460,100.0,none
+xfce-mcs-manager,30,0,0,7,0,0,20,30,100.0,German <de@li.org>
+xfce-mcs-plugins,540,0,0,146,0,0,484,540,100.0,German <de@li.org>
+xfce-utils,119,0,0,34,0,0,124,119,100.0,German <de@li.org>
+xfce4-appfinder,48,0,0,28,0,0,46,48,100.0,German <de@li.org>
+xfce4-clipman-plugin,85,0,0,26,0,0,87,85,100.0,German <xfce-i18n@xfce.org>
+xfce4-dict-plugin,196,0,0,45,0,0,186,196,100.0,German <xfce-i18n@xfce.org>
+xfce4-eyes-plugin,9,0,0,3,0,0,6,9,100.0,none <none@none>
+xfce4-fsguard-plugin,64,0,0,19,0,0,62,64,100.0,German <de@li.org>
+xfce4-icon-theme,8,0,0,2,0,0,4,8,100.0,German <de@li.org>
+xfce4-mailwatch-plugin,623,0,0,101,0,0,565,623,100.0,German <de@li.org>
+xfce4-mixer,226,0,0,94,0,0,225,226,100.0,German <de@li.org>
+xfce4-mount-plugin,283,0,0,42,0,0,277,283,100.0,German <de@li.org>
+xfce4-netload-plugin,58,3,0,18,1,0,51,61,95.08196721311475,<de@li.org>
+xfce4-notes-plugin,19,22,19,4,9,9,14,60,31.666666666666664,German <xfce-i18n@xfce.org>
+xfce4-panel,578,0,0,160,0,0,531,578,100.0,German <de@li.org>
+xfce4-places-plugin,7,3,33,5,1,13,7,43,16.27906976744186,
+xfce4-sensors-plugin,99,0,0,42,0,0,92,99,100.0,German <de@li.org>
+xfce4-session,738,0,0,129,0,0,666,738,100.0,German <de@li.org>
+xfce4-systemload-plugin,54,0,0,18,0,0,47,54,100.0,<de@li.org>
+xfce4-taskmanager,23,0,0,16,0,0,23,23,100.0,German <xfce4-dev@xfce.org>
+xfce4-time-out-plugin,201,0,0,43,0,0,188,201,100.0,German <de@li.org>
+xfce4-verve-plugin,47,0,0,10,0,0,37,47,100.0,German <jannis@xfce.org>
+xfce4-wavelan-plugin,10,0,27,4,0,4,10,37,27.027027027027028,German <de@li.org>
+xfce4-weather-plugin,479,0,45,236,0,7,452,524,91.41221374045801,German <xfce-i18n@xfce.org>
+xfce4-websearch-plugin,13,0,0,5,0,0,14,13,100.0,German <de@li.org>
+xfce4-xkb-plugin,39,0,7,10,0,1,41,46,84.78260869565217,<frank@frank.uvena.de>
+xfce4-xmms-plugin,52,0,0,15,0,0,44,52,100.0,German <de@li.org>
+xfdesktop,1078,0,0,288,0,0,986,1078,100.0,German <de@li.org>
+xfprint,323,0,0,113,0,0,278,323,100.0,German <de@li.org>
+xfwm4,646,0,0,190,0,0,605,646,100.0,German <de@li.org>
+xine-lib,11115,127,258,889,9,13,9574,11500,96.65217391304348,German <de@li.org>
+xmlcopyeditor,1315,0,0,390,0,0,1287,1315,100.0,Thomas Wenzel <thowen@users.sourceforge.net>
+xmms,3245,0,0,1017,0,0,2953,3245,100.0,German <de@li.org>
+xmoto,2852,0,0,592,0,0,2373,2852,100.0,German
+xsane,3219,0,5,726,0,2,2952,3224,99.84491315136476,
+xscreensaver,2896,1121,7173,833,343,658,2706,11190,25.880250223413764,German <gnome-de@gnome.org>
+yakuake,773,0,0,139,0,0,722,773,100.0,german <kde-i18n-de@kde.org>
+yelp,1035,0,0,349,0,0,951,1035,100.0,German <gnome-de@gnome.org>
+yp-tools,869,0,0,149,0,0,973,869,100.0,No Language-Team in the moment
+ypbind,334,36,37,68,4,10,378,407,82.06388206388206,No Language-Team
+yum,1952,65,0,390,10,0,1881,2017,96.77739216658404,German <fedora-trans-de@redhat.com>
+yumex,564,0,0,215,0,0,531,564,100.0,German <fedora-trans-de@redhat.com>
+zenity,559,0,0,130,0,0,513,559,100.0,German <gnome-de@gnome.org>
+zvbi,664,0,0,121,0,0,633,664,100.0,German <de@li.org>

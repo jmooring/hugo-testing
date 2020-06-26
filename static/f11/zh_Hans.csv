@@ -1,0 +1,732 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3082,0,0,987,0,0,1385,3082,100.0,Simplified Chinese <paradise.qingfeng@gmail.com>
+GConf2,4044,0,0,485,0,0,1096,4044,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+GConf2-dbus,3954,0,0,461,0,0,1076,3954,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+LabPlot,3007,143,100,1243,64,42,1377,3250,92.52307692307691,Simplified Chinese
+Miro,2724,0,50,599,0,2,830,2774,98.19754866618601,Simplified Chinese <zh_CN@li.org>
+NetworkManager,1677,0,0,375,0,0,781,1677,100.0,Chinese (simplified) <i18n-zh@googlegroups.com>
+NetworkManager-openvpn,182,0,0,57,0,0,89,182,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+NetworkManager-pptp,115,0,0,42,0,0,67,115,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+NetworkManager-vpnc,139,0,0,36,0,0,72,139,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+PackageKit,986,0,0,205,0,0,263,986,100.0,Simplified Chinese <zh@li.org>
+PolicyKit-gnome,786,0,0,156,0,0,270,786,100.0,
+R,17879,10,12,2928,1,1,3593,17901,99.87710183788614,Chinese
+Terminal,1548,2,3,279,1,1,523,1553,99.67804249839021,Chinese <xfce-i18n@xfce.org>
+Thunar,3865,0,0,685,0,0,997,3865,100.0,Chinese <xfce-i18n@xfce.org>
+WindowMaker,3981,0,0,722,0,0,1210,3981,100.0,chinese <zh@li.org>
+Zim,1247,0,0,346,0,0,478,1247,100.0,Simplified Chinese <zh_CN@li.org>
+alacarte,42,0,0,16,0,0,16,42,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+alleyoop,342,0,0,87,0,0,127,342,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+amarok,9090,157,2450,2019,28,127,3159,11697,77.71223390612978,Chinese Simplified <kde-china@kde.org>
+anaconda,8997,0,0,1133,0,0,2217,8997,100.0,Simplified Chinese <zh@li.org>
+anjuta,2907,2047,2929,961,671,519,1187,7883,36.87682354433591,zh_CN <i18n-translation@lists.linux.net.cn>
+aria2,1851,0,2779,98,0,222,391,4630,39.97840172786177,Simplified Chinese <zh_CN@li.org>
+arm-gp2x-linux-binutils,6168,0,3194,1004,0,443,2754,9362,65.88335825678274,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+arm-gp2x-linux-gcc,34913,672,5458,5466,77,549,14232,41043,85.06444460687571,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+arm-gp2x-linux-glibc,4388,6,1777,980,1,254,1615,6171,71.10678982336736,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+at-spi,20,0,0,4,0,0,8,20,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+atk,370,1,4,123,1,2,134,375,98.66666666666667,zh_CN <i18n-translation@lists.linux.net.cn>
+atomix,125,0,0,44,0,0,54,125,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+audacious,2378,0,0,685,0,0,928,2378,100.0,Chinese/Simplified
+audacity,10633,0,0,2069,0,0,3557,10633,100.0,Chinese(Simplified) <Audacity-translation@lists.sourceforge.net>
+audio-convert-mod,274,0,141,84,0,6,124,415,66.02409638554217,zh_CN
+audit,1241,0,0,267,0,0,391,1241,100.0,Simplified Chinese <zh@li.org>
+audit-viewer,611,0,0,185,0,0,307,611,100.0,Chinese/Simplified <fedora-trans-zh_cn@redhat.com>
+aumix,235,0,5,87,0,5,143,240,97.91666666666666,zh_CN <i18n-translation@lists.linux.net.cn>
+authconfig,1357,0,0,242,0,0,531,1357,100.0,cvsl10n <>
+avahi,662,18,146,124,6,25,305,826,80.1452784503632,简体中文 <kde-china@kde.org>
+avant-window-navigator,591,0,2,139,0,1,200,593,99.6627318718381,Simplified Chinese <zh_CN@li.org>
+avr-binutils,7873,422,4355,1344,80,592,3378,12650,62.237154150197625,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+avr-gcc,43008,1394,5506,6476,122,473,13205,49908,86.17456119259438,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+avr-gdb,2316,92,2153,412,18,263,957,4561,50.77833808375356,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+axel,175,189,11,42,6,2,88,375,46.666666666666664,Simplified Chinese <i18n-zh@i18n.org>
+backintime,292,0,149,95,0,24,120,441,66.21315192743764,Simplified Chinese <zh_CN@li.org>
+bakefile,1,0,0,1,0,0,1,1,100.0,Vaclav Slavik <vaclav.slavik@matfyz.cz>
+bakery,72,0,0,20,0,0,20,72,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+balsa,1536,1953,1859,430,568,289,601,5348,28.721017202692593,zh_CN <i18n-translation@lists.linux.net.cn>
+bangarang,496,45,15,189,17,7,240,556,89.20863309352518,简体中文 <kde-china@kde.org>
+banshee,3745,0,0,994,0,0,1414,3745,100.0,
+basket,2396,0,2185,601,0,93,712,4581,52.30299061340319,中文简体 <zh@li.org>
+bazaar,15,0,6509,5,0,403,12,6524,0.2299202942979767,Chinese (China) <zh_CN@li.org>
+beagle,1037,22,256,308,9,48,411,1315,78.85931558935361,zh_CN <i18n-translation@lists.linux.net.cn>
+bibus,2434,484,284,764,96,93,835,3202,76.01499063085572,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+binutils,7873,422,4355,1344,80,592,3378,12650,62.237154150197625,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+bison,52,0,0,9,0,0,24,52,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+bittorrent,3904,0,0,633,0,0,1042,3904,100.0,LANGUAGE <LL@li.org>
+blam,67,0,0,26,0,0,31,67,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+blender,18911,0,2754,5692,0,970,6088,21665,87.28825294253404,
+bluefish,2702,174,6,1051,3,2,1391,2882,93.75433726578764,<zh@li.org>
+blueman,874,0,502,251,0,101,407,1376,63.51744186046512,Chinese (China) <zh_CN@li.org>
+bluez-gnome,429,0,202,141,0,48,203,631,67.98732171156894,Chinese (China) <zh_CN@li.org>
+bmpx,2856,0,0,631,0,0,1137,2856,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+boinc-client,7535,0,58,1280,0,29,2134,7593,99.23613854866325,Team China <zenith.yin@gmail.com>
+brasero,5280,0,0,961,0,0,1742,5280,100.0,Chinese(simplified) <i18n-zh@googlegroups.com>
+bug-buddy,1010,0,0,89,0,0,196,1010,100.0,
+bygfoot,3317,38,42,687,4,10,944,3397,97.64498086546953,Chinese <i18n-translation@lists.linux.net.cn>
+cairo-clock,270,0,0,60,0,0,111,270,100.0,"马吉军 ""jjmmma"" <jjmmma@gmail.com>"
+camorama,418,0,141,116,0,17,155,559,74.77638640429338,zh_CN <i18n-translation@lists.linux.net.cn>
+catfish,76,0,0,28,0,0,31,76,100.0,Simplified Chinese <zh_cn@li.org>
+celestia,1877,2,15,786,1,3,975,1894,99.10242872228089,Chinese <zhaozhengxu@yahoo.com>
+centerim,2336,245,214,685,56,60,1356,2795,83.5778175313059,Chinese <freebsd-taiwan-chinese@freebsd.sinica.edu.tw>
+cflow,584,5,0,113,1,0,184,589,99.15110356536503,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+cgit,1834,18,60,401,7,17,701,1912,95.92050209205021,Chinese
+cheese,527,0,0,99,0,0,135,527,100.0,Chinese i18n <i18n-zh@googlegroups.com>
+cherokee,2508,1557,2125,527,354,209,686,6190,40.51696284329564,ownlinux.cn
+chkconfig,448,0,0,90,0,0,240,448,100.0,Simplified Chinese <zh@li.org>
+chmsee,115,0,0,47,0,0,69,115,100.0,szlug <szlug@googlegroups.com>
+choqok,681,19,128,181,4,16,276,828,82.2463768115942,简体中文 <kde-china@kde.org>
+chronojump,37,0,1285,33,0,398,33,1322,2.798789712556732,zh_CN <i18n-translation@lists.linux.net.cn>
+cinepaint,982,1373,5145,373,554,1052,446,7500,13.093333333333334,zh_CN <i18n-translation@lists.linux.net.cn>
+clamtk,728,0,51,209,0,1,263,779,93.45314505776636,Chinese (simplified) <i18n-zh@googlegroups.com>
+claws-mail,13846,295,690,2758,55,179,3732,14831,93.35850583237813,Sylpheed-Claws <sylpheed-claws-translators@lists.sourceforge.net>
+claws-mail-plugins,1660,258,159,377,44,41,455,2077,79.92296581608088,Simplified Chinese
+coccinella,4519,0,131,1257,0,32,1531,4650,97.18279569892474,Simplified Chinese
+comix,1326,0,0,262,0,0,305,1326,100.0,Xie Yanbo <xieyanbo@gmail.com>
+compat-libgda,213,912,1162,64,189,223,113,2287,9.313511149978137,zh_CN <i18n-translation@lists.linux.net.cn>
+compat-wxGTK26,5307,27,0,1107,6,0,2411,5334,99.49381327334083,wxWidgets tranlators <wx-translators@wxwidgets.org>
+compiz,32,34,0,10,1,0,15,66,48.484848484848484,<zh@li.org>
+compiz-fusion,5767,465,1298,1191,134,147,1235,7530,76.58698539176628,Chinese
+compiz-fusion-extras,5767,465,1298,1191,134,147,1235,7530,76.58698539176628,Chinese
+conglomerate,432,86,5799,205,53,880,262,6317,6.838689251226848,zh_CN <i18n-translation@lists.linux.net.cn>
+contact-lookup-applet,259,0,0,55,0,0,78,259,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+control-center,3397,0,0,782,0,0,1100,3397,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+coreutils,3050,4050,10835,452,333,610,1323,17935,17.00585447449122,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+cpio,206,124,1583,42,25,218,64,1913,10.76842655514898,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+cracklib,93,0,0,15,0,0,18,93,100.0,Novell Language <language@novell.com>
+cups,6981,0,366,1415,0,30,4186,7347,95.01837484687627,Apple Inc.
+dasher,493,7,26,187,3,8,227,526,93.72623574144487,zh_CN <i18n-translation@lists.linux.net.cn>
+dc3dd,74,407,451,18,27,43,43,932,7.939914163090128,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+dcraw,596,0,0,120,0,0,346,596,100.0,
+decibel-audio-player,1179,64,180,177,22,19,204,1423,82.85312719606466,Simplified Chinese <zh_CN@li.org>
+deluge,1998,0,0,689,0,0,805,1998,100.0,Chinese (China) <zh_CN@li.org>
+deskbar-applet,2859,0,0,420,0,0,798,2859,100.0,en_GB <en@li.org>
+devhelp,401,0,0,99,0,0,159,401,100.0,i18n-zh <i18n-zh@googlegroups.com>
+dia,6349,0,257,2250,0,112,3193,6606,96.10959733575537,zh_CN <http://l10n.gnome.org/teams/zh_CN>
+dialog,25,0,0,23,0,0,23,25,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+digikam,18279,128,5039,3402,27,108,4745,23446,77.96212573573318,Chinese Simplified <kde-china@kde.org>
+dpkg,9132,818,69,1184,47,12,3185,10019,91.14682104002395,Debian Chinese [GB] <debian-chinese-gb@lists.debian.org>
+drgeo,1174,15,796,340,3,118,497,1985,59.14357682619647,zh_CN <i18n-translation@lists.linux.net.cn>
+duplicity,30,0,1586,6,0,221,12,1616,1.8564356435643563,Simplified Chinese <zh_CN@li.org>
+e16,1371,0,1414,394,0,126,534,2785,49.22800718132855,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+e2fsprogs,879,340,4563,241,91,566,443,5782,15.202352127291594,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+easystroke,515,0,0,140,0,0,168,515,100.0,Simplified Chinese <zh_CN@li.org>
+easytag,5054,193,68,956,25,10,1941,5315,95.08936970837253,Simplified Chinese
+eel2,161,0,0,31,0,0,40,161,100.0,Simplified Chinese <translation-team-zh-cn@lists.sourceforge.net>
+eina,298,21,689,93,6,154,149,1008,29.563492063492063,Simplified Chinese <zh_CN@li.org>
+ejabberd,1477,5,0,371,1,0,528,1482,99.66261808367072,
+ekiga,4043,0,0,667,0,0,1106,4043,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+emerald,774,0,0,215,0,0,295,774,100.0,beryl-project <LL@li.org>
+empathy,1493,217,159,407,32,30,501,1869,79.88228999464954,zh_CN <i18n-translation@lists.linux.net.cn>
+enlightenment,3515,202,2265,897,64,385,1282,5982,58.75961216984285,zh_CN <i18n@linux.net.cn>
+entertainer,71,0,670,53,0,133,58,741,9.581646423751687,Simplified Chinese <zh_CN@li.org>
+eog,2797,0,44,398,0,20,695,2841,98.45124956001408,LANGUAGE <LL@li.org>
+epdfview,466,5,12,129,2,6,195,483,96.48033126293996,Changyan Xie <panchoat@gmail.com>
+epiphany,4240,0,0,917,0,0,1118,4240,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+epiphany-extensions,1034,0,12,272,0,4,388,1046,98.8527724665392,zh_CN <i18n-translation@lists.linux.net.cn>
+evince,2922,0,0,464,0,0,720,2922,100.0,Chinese i18n <i18n-zh@googlegroups.com>
+evolution,20948,359,806,4940,33,68,6516,22113,94.73160584271695,Chinese i18n <i18n-zh@googlegroup.com>
+evolution-data-server,5111,0,0,1063,0,0,1885,5111,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+evolution-exchange,1314,0,0,191,0,0,382,1314,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+evolution-mapi,286,0,0,50,0,0,102,286,100.0,
+evolution-rss,608,0,0,164,0,0,321,608,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+exaile,4090,0,48,1135,0,9,1670,4138,98.84001933301111,Simplified Chinese <i18n-zh@googlegroups.com>
+exo,1598,0,0,301,0,0,501,1598,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+expendable,116,14,96,59,5,28,60,226,51.32743362831859,Chinese(Simplified)
+f-spot,3181,0,256,863,0,20,1133,3437,92.5516438754728,
+fetchmail,3952,19,0,640,3,0,2045,3971,99.52153110047847,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+file-roller,1267,0,0,284,0,0,404,1267,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+filezilla,8445,0,0,1429,0,0,2239,8445,100.0,Sun Junwen <sunjw8888@gmail.com>
+findutils,208,266,1608,59,30,127,89,2082,9.99039385206532,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+firestarter,442,304,1158,156,46,172,202,1904,23.214285714285715,zh_CN <i18n-translation@lists.linux.net.cn>
+firstboot,654,0,0,54,0,0,129,654,100.0,Simplified Chinese <zh@li.org>
+flex,205,29,835,52,7,98,98,1069,19.176800748362957,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+fontforge,12598,0,19037,4590,0,1280,5801,31635,39.82298087561246,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+fotoxx,827,0,0,290,0,0,338,827,100.0,Simplified Chinese <lililjlj@gmail.com>
+freeciv,17757,12512,22245,2874,1435,901,4879,52514,33.81384011882545,zh_CN <i18n-translation@linux.net.cn>
+freedink,79,0,0,15,0,0,20,79,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+fslint,388,0,0,132,0,0,153,388,100.0,Seann Liu <Seann.Liu@gmail.com>
+fuse-encfs,1038,173,100,117,7,14,298,1311,79.17620137299771,Simplified Chinese <zh_CN@li.org>
+fvwm,242,0,20,109,0,7,141,262,92.36641221374046,zh_CN <i18n-translation@lists.linux.net.cn>
+g2ipmsg,2153,0,0,391,0,0,648,2153,100.0,No Team
+gajim,5365,2207,2574,1077,464,399,1658,10146,52.87798147053026,sIyU <jabber@lzusiyu.org>
+galeon,5458,2,1,1357,1,1,1854,5461,99.94506500640908,zh_CN <i18n-translation@lists.linux.net.cn>
+gallery2,10290,3703,3772,1841,296,392,2469,17765,57.92288207148888,Chinese Simplified <gallery-devel@lists.sourceforge.net>
+gambas,2390,0,41,743,0,8,859,2431,98.31345125462772,LANGUAGE <LL@li.org>
+gambas2,3250,31,91,1120,11,36,1148,3372,96.38196915776986,LANGUAGE <LL@li.org>
+gammu,43,50,13069,39,8,1927,39,13162,0.32669807020209696,none
+gawk,2460,22,3,390,1,1,897,2485,98.99396378269618,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gazpacho,282,188,238,100,53,70,130,708,39.83050847457627,Chinese <zh@li.org>
+gbrainy,2890,0,0,389,0,0,642,2890,100.0,
+gcalctool,6547,32,325,885,6,276,1580,6904,94.82908458864426,LANGUAGE <LL@li.org>
+gcc,44059,2900,6951,6454,295,596,13421,53910,81.726952327954,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gcin,218,0,0,154,0,0,217,218,100.0,LANGUAGE <LL@li.org>
+gcl,6168,0,3194,1004,0,443,2754,9362,65.88335825678274,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+gcompris,10877,0,0,1292,0,0,1992,10877,100.0,zh_CN <i18n-zh@googlegroups.com>
+gconf-editor,335,0,0,99,0,0,113,335,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gdb,2316,92,2153,412,18,263,957,4561,50.77833808375356,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+gdeskcal,20,0,66,20,0,14,20,86,23.25581395348837,LANGUAGE <LL@li.org>
+gdesklets,227,0,1177,75,0,116,107,1404,16.168091168091166,zh_CN <i18n-translation@lists.linux.net.cn>
+gdm,1314,0,0,236,0,0,389,1314,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+geany,4972,79,152,1076,18,22,1344,5203,95.56025369978859,zh_CN <>
+gedit,12561,0,0,1774,0,0,2994,12561,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gedit-plugins,198,0,0,54,0,0,54,198,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+genius,1457,159,1170,305,23,130,385,2786,52.297200287150034,zh_CN <i18n-translation@lists.linux.net.cn>
+gettext,6099,119,626,620,15,49,2042,6844,89.114552893045,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gftp,3032,230,113,558,69,7,1003,3375,89.83703703703704,zh_CN <i18n-translation@lists.linux.net.cn>
+gget,55,132,457,30,45,74,38,644,8.540372670807454,zh_CN <i18n-translation@lists.linux.net.cn>
+ggz-base-libs,74,0,0,17,0,0,19,74,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+ggz-gtk-client,857,0,0,265,0,0,344,857,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+ghdl,43008,1394,5506,6476,122,473,13205,49908,86.17456119259438,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+ghex,2563,0,25,349,0,16,586,2588,99.0340030911901,LANGUAGE <LL@li.org>
+gimp,25914,0,76,6721,0,17,8792,25990,99.70757983839938,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+gimp-lqr-plugin,58,13,754,22,6,82,24,825,7.030303030303029,zh_CN
+git,1834,18,60,401,7,17,701,1912,95.92050209205021,Chinese
+git-cola,1834,18,60,401,7,17,701,1912,95.92050209205021,Chinese
+gitweb-caching,1825,18,60,400,7,17,699,1903,95.90120861797162,Chinese
+glabels,1821,0,8,595,0,3,864,1829,99.56260251503554,Careon <zzbusagain@yahoo.com.cn>
+glade2,4009,1083,748,953,221,126,1163,5840,68.6472602739726,Sun G11n <gnome_int_l10n@ireland.sun.com>
+glade3,3207,0,0,871,0,0,1054,3207,100.0,zh_CN <i18n-zh@googlegroups.com>
+glib2,2350,0,0,372,0,0,581,2350,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+glibc,4618,0,2616,1003,0,323,1697,7234,63.83743433784904,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+glom,86,4,185,47,2,11,49,275,31.272727272727273,zh_CN <i18n-translation@lists.linux.net.cn>
+gmpc,408,0,708,208,0,205,411,1116,36.55913978494624,Simplified Chinese <zh_CN@li.org>
+gmusicbrowser,2865,0,0,953,0,0,1099,2865,100.0,Chinese
+gnochm,560,16,5,119,1,2,204,581,96.3855421686747,zh_CN <i18n-translation@lists.linux.net.cn>
+gnokii,444,348,4451,271,157,749,275,5243,8.468434102613008,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-applet-netspeed,143,0,0,50,0,0,78,143,100.0,Simplified Chinese <i18n@linux.net.cn>
+gnome-applet-remmina,136,0,0,12,0,0,28,136,100.0,LANGUAGE <LL@li.org>
+gnome-applet-sensors,186,0,112,79,0,9,80,298,62.41610738255034,lerosua <lerosua@gmail.com>
+gnome-applet-timer,265,0,18,68,0,3,98,283,93.63957597173145,Chinese (China) <zh_CN@li.org>
+gnome-applet-window-picker,22,3,4,6,1,2,6,29,75.86206896551724,Chinese (simplified)
+gnome-applets,16616,0,4,1881,0,1,3728,16620,99.97593261131166,Chinese (simplified) <i18n-zh@googlegroups.com>
+gnome-backgrounds,23,0,0,17,0,0,17,23,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-bluetooth,353,0,160,118,0,37,188,513,68.81091617933723,Chinese (China) <zh_CN@li.org>
+gnome-chemistry-utils,578,654,2789,198,205,688,249,4021,14.374533698085054,simplified Chinese <zh@li.org>
+gnome-commander,1067,540,6289,388,217,818,478,7896,13.513171225937185,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-desktop,3584,0,3350,137,0,76,249,6934,51.687337755985,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-devel-docs,64,0,3423,41,0,146,53,3487,1.8353885861772297,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+gnome-do,468,0,2,118,0,1,166,470,99.57446808510639,Simplified Chinese <zh_CN@li.org>
+gnome-doc-utils,238,0,0,92,0,0,221,238,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-games,9543,6,2363,1920,4,47,2789,11912,80.1124916051041,i18n-zh <i18n-translation@lists.linux.net.cn>
+gnome-globalmenu,325,0,0,56,0,0,91,325,100.0,Simplified Chinese <zh_CN@li.org>
+gnome-hearts,394,2,13,103,1,2,193,409,96.33251833740832,Simplified Chinese
+gnome-icon-theme,43,0,0,38,0,0,39,43,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-keyring,1823,0,0,276,0,0,356,1823,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-libs,663,34,388,292,24,79,363,1085,61.105990783410135,Chinese <i18n-chinese@egroups.com>
+gnome-mag,298,0,0,42,0,0,56,298,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-media,4011,0,0,504,0,0,967,4011,100.0,Chinese (simplified) <i18n-zh@googlegroups.com>
+gnome-menus,165,0,0,58,0,0,68,165,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-mime-data,887,0,0,362,0,0,711,887,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-netstatus,417,0,789,106,0,77,161,1206,34.57711442786069,LANGUAGE <LL@li.org>
+gnome-nettool,673,0,364,222,0,6,349,1037,64.89874638379942,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-packagekit,4423,0,3701,723,0,192,1102,8124,54.44362383062531,Chinese (simplified)
+gnome-panel,6459,0,0,787,0,0,1323,6459,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-phone-manager,164,0,226,48,0,44,53,390,42.05128205128205,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-pilot,772,696,275,174,125,39,305,1743,44.29145152036718,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-pilot-conduits,142,35,32,36,12,2,74,209,67.94258373205741,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-power-manager,2845,60,0,401,5,0,693,2905,97.93459552495698,Chinese (simplified) <i18n-zh@googlegroups.com>
+gnome-schedule,22,146,988,14,61,136,12,1156,1.9031141868512111,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-screensaver,966,0,0,154,0,0,214,966,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-session,679,0,0,113,0,0,145,679,100.0,Chinese/Simplified <i18n-zh@googlegroups.com>
+gnome-settings-daemon,1176,0,0,206,0,0,313,1176,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-specimen,27,5,24,13,2,3,18,56,48.214285714285715,Chinese Ubuntu-Team <ubuntu-zh@lists.ubuntu.com>
+gnome-system-monitor,918,0,0,239,0,0,345,918,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-terminal,3885,0,0,431,0,0,771,3885,100.0,
+gnome-themes,109,0,0,30,0,0,31,109,100.0,Chinese/Simplified <i18n-zh@googlegroups.com>
+gnome-user-docs,60957,52,17469,4230,3,1196,9337,78478,77.67399780830296,Simplified Chinese <zh_CN@li.org>
+gnome-user-share,290,0,0,48,0,0,54,290,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-utils,4174,0,0,739,0,0,983,4174,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnome-vfs2,1508,0,0,301,0,0,531,1508,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnomebaker,1174,35,1163,319,10,253,513,2372,49.494097807757164,Chinese (China) <zh_CN@li.org>
+gnomeradio,443,0,0,100,0,0,187,443,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gnote,2074,0,0,312,0,0,517,2074,100.0,Chinese (Simplified) <i18n-zh@googlegroups.com>
+gnotime,416,472,1120,142,139,148,175,2008,20.717131474103585,zh_CN <i18n-translation@lists.linux.net.cn>
+gnubik,168,47,2,53,4,1,61,217,77.41935483870968,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+gnumeric,29330,5811,11233,2393,565,796,13490,46374,63.24664682796395,zh_CN <i18n-translation@lists.linux.net.cn>
+gnupg,8373,22,0,1263,3,0,2385,8395,99.7379392495533,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net >
+gnupg2,6872,1534,1848,1115,311,277,2108,10254,67.0177491710552,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+gobby,246,74,556,79,16,89,103,876,28.08219178082192,zh_CN <i18n-translation@lists.linux.net.cn>
+goffice,640,885,2465,281,419,665,310,3990,16.040100250626566,zh_CN <i18n-translation@lists.linux.net.cn>
+goffice04,640,885,2465,281,419,665,310,3990,16.040100250626566,zh_CN <i18n-translation@lists.linux.net.cn>
+gok,1950,0,0,440,0,0,660,1950,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gossip,190,611,1165,72,186,167,75,1966,9.664292980671414,zh_CN <i18n-translation@lists.linux.net.cn>
+gourmet,1315,8,5729,418,4,1160,459,7052,18.647192285876347,Chinese (China) <zh_CN@li.org>
+gparted,1415,0,0,301,0,0,593,1415,100.0,zh_CN <i18n-zh@googlegroups.com>
+gphoto2,1371,21,0,282,2,0,516,1392,98.49137931034483,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gpicview,104,47,68,25,7,12,43,219,47.48858447488584,zh_CN <LL@li.org>
+gpsdrive,2140,25,0,362,1,0,613,2165,98.84526558891456,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gq,854,622,461,143,162,60,242,1937,44.08879710893134,unknown <LL@li.org>
+gramps,244,4552,19352,163,1482,2674,173,24148,1.0104356468444593,LANGUAGE <LL@li.org>
+grass,11189,14641,21994,1955,2526,3550,3130,47824,23.39620274339244,Simplified Chinese <translations@grass.itc.it>
+grep,408,164,255,57,22,11,211,827,49.334945586457074,Chinese (simplified) <i18n-zh@googlegroups.com>
+griffith,914,0,962,227,0,224,495,1876,48.720682302771856,Simplified Chinese <zh_CN@li.org>
+grip,906,38,103,235,9,25,402,1047,86.53295128939828,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+grisbi,5907,9,10,1471,5,2,2345,5926,99.6793790077624,zh_CN <LL@li.org>
+grsync,84,140,549,26,23,73,28,773,10.866752910737388,Simplified Chinese <zh@li.org>
+gst-mixer,1938,0,0,525,0,0,840,1938,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gstreamer,1378,88,52,272,15,5,412,1518,90.77733860342556,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gstreamer-plugins-base,587,95,14,123,17,2,245,696,84.33908045977012,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gstreamer-plugins-good,413,23,45,71,4,7,112,481,85.86278586278586,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gsynaptics,64,0,1,25,0,1,38,65,98.46153846153847,zh_CN <i18n-translation@lists.linux.net.cn>
+gtg,944,0,0,130,0,0,292,944,100.0,Simplified Chinese <zh_CN@li.org>
+gthumb,2575,2,1,867,2,1,1029,2578,99.88363072148952,zh_CN <i18n-translation@lists.linux.net.cn>
+gtk-gnutella,4604,935,6714,1308,122,645,1731,12253,37.5744715579858,Chinese (Simplified) <i18n-zh@googlegroups.com>
+gtk2,12923,0,5,2642,0,1,3405,12928,99.96132425742574,i18n-zh <i18n-zh@googlegroups.com>
+gtk2-engines,119,0,0,47,0,0,48,119,100.0,Chinese/Simplified <i18n-zh@googlegroups.com>
+gtkhtml3,1233,0,0,548,0,0,630,1233,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gtklp,1140,14,28,402,8,12,552,1182,96.44670050761421,fr <fr@li.org>
+gtkpod,6724,3,0,1088,1,0,1952,6727,99.95540359744314,n/a
+gtksourceview,849,0,0,342,0,0,408,849,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gtksourceview2,1018,0,0,388,0,0,470,1018,100.0,Chinese i18n <i18n-zh@googlegroups.com>
+gtkspell,15,0,0,6,0,0,6,15,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+gtranslator,3887,88,515,705,14,17,1247,4490,86.57015590200446,Chinese (simplified) <i18n-zh@googlegroups.com>
+gtweakui,122,0,130,35,0,44,60,252,48.41269841269841,zh_CN <i18n-translation@lists.linux.net.cn>
+gtypist,486,14,10,76,3,1,204,510,95.29411764705881,Simplified Chinese
+guake,509,0,0,93,0,0,227,509,100.0,
+gucharmap,803,0,0,298,0,0,406,803,100.0,Chinese/Simplified <i18n-zh@googlegroups.com>
+gvfs,1341,0,0,324,0,0,570,1341,100.0,Chinese/Simplified <i18n-zh@googlegroups.com>
+gwget,0,0,0,0,0,0,0,0,0.0,zh_CN <i18n-translation@lists.linux.net.cn>
+gwibber,482,0,0,108,0,0,269,482,100.0,Simplified Chinese <zh_CN@li.org>
+gxine,2735,0,1,673,0,1,1355,2736,99.96345029239765,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+hamster-applet,250,0,0,101,0,0,148,250,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+heartbeat,678,0,0,269,0,0,283,678,100.0,LANGUAGE <LL@li.org>
+hello,174,0,0,27,0,0,92,174,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+homebank,1397,13,48,486,11,21,637,1458,95.81618655692729,
+horde,6668,0,0,1818,0,0,2571,6668,100.0,Chinese
+hugin,2626,803,925,552,151,123,1033,4354,60.312356453835555,Chinese Simplified <N/A>
+hwbrowser,116,0,0,51,0,0,63,116,100.0,<zh@li.org>
+ibus,449,0,0,84,0,0,127,449,100.0,Huang Peng <shawn.p.huang@gmail.com>
+ibus-anthy,14,0,151,7,0,47,7,165,8.484848484848486,LANGUAGE <LL@li.org>
+ibus-chewing,18,18,268,8,12,44,8,304,5.921052631578947,LANGUAGE <LL@li.org>
+ibus-hangul,0,0,22,0,0,10,0,22,0.0,LANGUAGE <LL@li.org>
+ibus-m17n,0,0,1,0,0,1,0,1,0.0,LANGUAGE <LL@li.org>
+ibus-pinyin,138,0,42,43,0,10,48,180,76.66666666666667,Huang Peng <shawn.p.huang@gmail.com>
+ibus-rawcode,0,0,6,0,0,2,0,6,0.0,LANGUAGE <LL@li.org>
+ibus-sayura,0,0,6,0,0,2,0,6,0.0,LANGUAGE <LL@li.org>
+ibus-table,85,0,2,18,0,1,18,87,97.70114942528735,Yu Yuwei <acevery@gmail.com>
+icc_examin,2,0,45,1,0,22,1,47,4.25531914893617,zh_CN <i18n-translation@lists.linux.net.cn>
+icewm,1376,0,0,247,0,0,659,1376,100.0,Siplified Chinese
+im-chooser,152,0,0,34,0,0,56,152,100.0,Simplified Chinese <zh@li.org>
+imp,5852,0,0,1184,0,0,1691,5852,100.0,Chinese
+imsettings,572,28,379,117,4,34,202,979,58.42696629213483,Simplified Chinese <zh@li.org>
+ingo,855,0,0,229,0,0,278,855,100.0,i18n@lists.horde.org
+initscripts,4169,0,0,991,0,0,2479,4169,100.0,Simplified Chinese <zh@li.org>
+inkscape,22505,720,810,4788,124,68,7102,24035,93.6342833368005,
+insight,2316,92,2153,412,18,263,957,4561,50.77833808375356,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+iok,134,0,0,35,0,0,59,134,100.0,Simplified Chinese <zh@li.org>
+iptux,727,0,72,233,0,7,276,799,90.98873591989988,Chinese Simplify
+ircp-tray,113,17,71,21,6,32,27,201,56.21890547263681,Chinese <translation-team-zh-cn@lists.sourceforge.net>
+iso-codes,7109,3738,8503,4661,3122,5658,4714,19350,36.7390180878553,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+isomaster,672,0,2,106,0,1,197,674,99.70326409495549,<zh@li.org>
+istanbul,108,0,0,29,0,0,54,108,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+jmol,2123,0,38,756,0,11,1024,2161,98.2415548357242,Simplified Chinese <zh_CN@li.org>
+jokosher,40,283,2026,14,58,401,15,2349,1.7028522775649213,Chinese (China) <zh_CN@li.org>
+jpilot,2157,85,85,620,18,8,992,2327,92.69445638160721,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+k3b,8566,795,11260,1960,86,484,3534,20621,41.54017748896756,zh_CN <i18n-translation@lists.linux.net.cn>
+kBuild,75,119,311,11,28,42,20,505,14.85148514851485,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+kaffeine,2202,22,130,633,8,17,996,2354,93.54290569243841,zh_CN <i18n-translation@lists.linux.net.cn>
+kbluetooth,341,0,0,103,0,0,138,341,100.0,Chinese Simplified <kde-i18n-doc@kde.org>
+kchmviewer,329,156,487,78,44,85,98,972,33.8477366255144,<zh@li.org>
+kcm-gtk,124,0,0,21,0,0,57,124,100.0,简体中文 <kde-china@kde.org>
+kcoloredit,232,34,12,77,11,7,97,278,83.45323741007195,简体中文 <kde-china@kde.org>
+kdbg,866,0,0,190,0,0,206,866,100.0,<zh@li.org>
+kde-partitionmanager,2177,258,297,403,28,22,742,2732,79.68521229868229,简体中文 <kde-china@kde.org>
+kde-plasma-networkmanagement,1632,397,91,579,110,31,868,2120,76.9811320754717,简体中文 <kde-i18n-doc@kde.org>
+kde-plasma-quickaccess,35,0,37,21,0,10,21,72,48.61111111111111,Simplified Chinese <zh_CN@li.org>
+kde-plasma-smooth-tasks,942,0,0,100,0,0,137,942,100.0,hurricanek@126.com <hurricanek@126.com>
+kdetv,2042,13,151,453,5,25,600,2206,92.56572982774252,Simplified Chinese <zh@li.org>
+kdevplatform,4379,205,1408,1219,46,116,1571,5992,73.0807743658211,Chinese Simplified <kde-china@kde.org>
+kdiff3,2226,292,1010,409,82,144,665,3528,63.095238095238095,zh_CN <i18n-translation@lists.linux.net.cn>
+kerry,334,39,113,97,13,24,141,486,68.72427983539094,zh_CN <i18n-translation@lists.linux.net.cn>
+kexec-tools,206,0,0,14,0,0,50,206,100.0,<en@li.org>
+kflickr,163,0,136,43,0,37,67,299,54.515050167224075,Simplified Chinese <zh_CN@li.org>
+kftpgrabber,1133,339,765,420,53,107,491,2237,50.64818953956192,zh_CN <i18n-translation@lists.linux.net.cn>
+kgrab,370,0,0,53,0,0,94,370,100.0,简体中文 <kde-china@kde.org>
+kgtk,90,0,0,20,0,0,42,90,100.0,zh_CN <kde-china@kde.org>
+kicad,6916,201,45,2277,105,13,3502,7162,96.56520524993019,kicad team <jean-pierre.charras@ujf-grenoble.fr>
+kiconedit,726,0,0,155,0,0,233,726,100.0,简体中文 <kde-china@kde.org>
+kile,10120,96,223,1543,7,37,2663,10439,96.94415173867229,zh_CN <kde-china@kde.org>
+kio_gopher,17,0,0,5,0,0,11,17,100.0,简体中文 <kde-china@kde.org>
+kipi-plugins,10811,543,3817,2530,177,231,3913,15171,71.26095840748798,Chinese Simplified <kde-china@kde.org>
+klamav,372,88,2043,154,36,229,197,2503,14.86216540151818,zh_CN <i18n-translation@lists.linux.net.cn>
+kmess,4867,2,2414,959,1,168,1337,7283,66.82685706439653,en_US <kde-i18n-doc@kde.org>
+kmid,519,6,10,203,4,7,295,535,97.00934579439252,Simplified Chinese <i18n-translation@lists.linux.net.cn>
+kmplayer,1257,1,2,377,1,1,578,1260,99.76190476190476,简体中文 <kde-china@kde.org>
+kmymoney2,15212,868,716,2442,159,62,2774,16796,90.56918313884258,Chinese Simplified <kde-i18n-doc@lists.kde.org>
+konq-plugins,1692,0,0,546,0,0,719,1692,100.0,zh_CN <kde-china@kde.org>
+konversation,8253,766,825,1327,120,70,2354,9844,83.83787078423404,简体中文 <kde-china@kde.org>
+kopete-cryptography,350,58,0,39,2,0,56,408,85.7843137254902,简体中文 <kde-china@kde.org>
+kpackagekit,2156,1,634,528,1,40,646,2791,77.24829810103905,简体中文 <kde-china@kde.org>
+kphotoalbum,2148,711,3474,557,67,139,823,6333,33.91757460918996,简体中文 <kde-china@kde.org>
+kpilot,3926,0,3230,761,0,100,1311,7156,54.8630519843488,zh_CN <kde-china@kde.org>
+kronolith,1870,0,0,485,0,0,610,1870,100.0,Zhang Bo <boozhang@sdb.ac.cn>
+krusader,4688,816,2076,1324,139,208,1910,7580,61.84696569920845,Chinese Simplified <kde-china@kde.org>
+kshutdown,643,42,91,149,17,19,196,776,82.86082474226805,<zh@li.org>
+ksig,67,2,16,15,1,10,14,85,78.82352941176471,zh_CN <i18n-translation@lists.linux.net.cn>
+kst,507,2087,4803,169,741,889,214,7397,6.854130052724078,zh_CN <i18n-translation@lists.linux.net.cn>
+ktorrent,4774,1578,1213,1004,202,143,1787,7565,63.10641110376734,简体中文 <kde-china@kde.org>
+lazarus,12979,0,2884,3301,0,618,5949,15863,81.81932799596545,
+leafpad,123,2,0,67,1,0,76,125,98.4,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+lftp,1047,1147,1473,171,121,135,513,3667,28.55194982274339,zh <zh@li.org>
+libbonobo,543,0,0,107,0,0,198,543,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+libbonoboui,368,0,0,115,0,0,164,368,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+libgda,30,952,4255,17,225,721,18,5237,0.5728470498376934,zh_CN <i18n-translation@lists.linux.net.cn>
+libgdl,613,0,0,98,0,0,146,613,100.0,i18n-zh <i18n-zh@googlegroups.com>
+libgnome,1757,0,0,271,0,0,431,1757,100.0,i18n-zh <i18n-zh@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,107,378,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+libgnomecups,11,0,0,10,0,0,10,11,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+libgnomedb,138,498,2468,41,111,477,49,3104,4.445876288659794,zh_CN <i18n-translation@lists.linux.net.cn>
+libgnomekbd,235,0,0,49,0,0,73,235,100.0,Chinese <translation-team-zh-cn@lists.sourceforge.net>
+libgnomeprint22,168,0,0,98,0,0,126,168,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+libgnomeprintui22,481,0,0,154,0,0,165,481,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+libgnomeui,1309,0,0,334,0,0,414,1309,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+libgphoto2,3206,2718,3924,663,584,687,1461,9848,32.55483346872462,
+libgpod,943,0,0,158,0,0,233,943,100.0,n/a
+libgsasl,513,5,0,59,1,0,191,518,99.03474903474904,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+libgtop2,126,0,0,40,0,0,58,126,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+libgweather,4837,968,243,3625,738,154,3671,6048,79.97685185185185,Chinese/Simplified <i18n-zh@googlegroups.com>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libidn,193,18,202,44,2,12,73,413,46.73123486682809,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+libkexif,21,4,0,13,1,0,18,25,84.0,zh_CN <i18n-translation@lists.linux.net.cn>
+liblicense,45,0,21,38,0,12,38,66,68.18181818181817,LANGUAGE <LL@li.org>
+libsmbios,0,0,1421,0,0,265,0,1421,0.0,Chinese (simplified)
+libuser,1064,0,0,225,0,0,503,1064,100.0,Simplified Chinese <zh@li.org>
+libvirt,8973,326,114,1753,61,20,4005,9413,95.32561351322639,Simplified Chinese <zh@li.org>
+libwnck,1124,0,0,241,0,0,341,1124,100.0,Chinese/Simplified <i18n-zh@googlegroups.com>
+libxfce4menu,31,0,0,5,0,0,10,31,100.0,Simplified Chinese <i18n-xfce@xfce.org>
+libxfce4util,413,0,0,4,0,0,73,413,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+libxfcegui4,234,0,0,61,0,0,66,234,100.0,Chinese/Simplified <xfce-i18n@xfce.org>
+liferea,809,825,780,198,185,150,275,2414,33.51284175642088,Chinese/Simplified
+linsmith,265,120,288,142,73,152,187,673,39.37592867756315,Chinese <zh@li.org>
+listen,249,126,1367,109,54,373,121,1742,14.293915040183697,Chinese (China) <zh_CN@li.org>
+liveusb-creator,480,0,0,52,0,0,138,480,100.0,<>
+lxappearance,72,0,24,36,0,3,42,96,75.0,zh_CN <LL@li.org>
+lxdm,10,0,1,9,0,1,9,11,90.9090909090909,Chinese (simplified)
+lxlauncher,4,0,47,1,0,10,2,51,7.8431372549019605,zh_CN <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,37,97,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+lxpanel,681,34,180,247,5,47,319,895,76.08938547486034,LANGUAGE <LL@li.org>
+lxrandr,102,0,0,22,0,0,38,102,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+lxsession,37,0,0,15,0,0,18,37,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+lxsession-edit,0,0,58,0,0,10,0,58,0.0,LANGUAGE <LL@li.org>
+lxshortcut,0,0,43,0,0,19,0,43,0.0,LANGUAGE <LL@li.org>
+lxtask,112,0,0,43,0,0,79,112,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+lxterminal,16,18,66,8,13,46,15,100,16.0,zh_CN <LL@li.org>
+lynx,1906,5,6020,282,2,916,597,7931,24.03227840121044,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+lyx,9890,2187,2381,3606,809,327,5807,14458,68.40503527458847,简体中文 <lyx-docs@lists.lyx.org>
+mailman,19784,1417,703,1274,31,50,4104,21904,90.32140248356465,<mailman-cn@mail.cs.hit.edu.cn>
+make,1182,318,497,262,52,80,438,1997,59.188783174762136,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+marlin,679,358,415,255,98,95,287,1452,46.76308539944903,zh_CN <i18n-translation@lists.linux.net.cn>
+meld,569,0,324,199,0,30,291,893,63.71780515117581,zh_CN <i18n-translation@lists.linux.net.cn>
+mercurial,1590,3979,18306,335,92,1306,703,23875,6.659685863874346,Chinese translation team <i18n-zh@googlegroups.com>
+metacity,3808,0,0,411,0,0,855,3808,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+midori,1951,0,0,517,0,0,689,1951,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+mingw32-atk,370,1,4,123,1,2,134,375,98.66666666666667,zh_CN <i18n-translation@lists.linux.net.cn>
+mingw32-binutils,7873,422,4355,1344,80,592,3378,12650,62.237154150197625,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+mingw32-gcc,43457,2922,7150,6370,302,622,13202,53529,81.18403108595341,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+mingw32-gettext,6099,119,626,620,15,49,2042,6844,89.114552893045,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+mingw32-glib2,2350,0,0,372,0,0,581,2350,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+mingw32-gtk2,12923,0,5,2642,0,1,3405,12928,99.96132425742574,i18n-zh <i18n-zh@googlegroups.com>
+mingw32-gtkhtml3,692,3,0,360,2,0,395,695,99.568345323741,zh_CN <i18n-translation@lists.linux.net.cn>
+mingw32-iconv,15,32,289,4,9,33,14,336,4.464285714285714,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+mingw32-libidn,386,27,0,55,2,0,160,413,93.46246973365618,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+mkvtoolnix,28117,81,1,2452,2,1,9356,28199,99.70920954643782,chinese simp <xslidian+mkvtoolnix@gmail.com>
+mlocate,209,203,151,39,7,4,94,563,37.12255772646537,Chinese Simplified <fedora-trans-zh_cn@redhat.com>
+moin,4518,2,6,732,1,3,1190,4526,99.82324348210341,
+monkey-bubble,309,0,0,86,0,0,115,309,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+monodevelop,2817,3622,6372,922,1158,940,1178,12811,21.988915775505426,Yu Lindong <shinjidev@163.com>
+mousepad,135,0,0,64,0,0,69,135,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+mousetweaks,638,0,0,67,0,0,110,638,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+msp430-binutils,7873,422,4355,1344,80,592,3378,12650,62.237154150197625,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+mtpaint,1625,0,1269,553,0,283,628,2894,56.15065653075328,Chinese (traditional) <zh-l10n@linux.org.tw>
+muine,414,0,152,115,0,14,167,566,73.14487632508833,zh_CN <i18n-translation@lists.linux.net.cn>
+mutt,2485,1545,1246,593,299,207,917,5276,47.10007581501137,Chinese <zh@li.org>
+nano,2249,0,0,362,0,0,672,2249,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+nautilus,7863,0,281,1308,0,6,1761,8144,96.54960707269156,Simplified Chinese <translation-team-zh-cn@lists.sourceforge.net>
+nautilus-actions,56,167,1331,25,37,108,34,1554,3.6036036036036037,zh_CN <i18n-translation@lists.linux.net.cn>
+nautilus-cd-burner,1315,0,0,213,0,0,360,1315,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+nautilus-open-terminal,166,0,0,16,0,0,36,166,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+nautilus-pastebin,6,0,67,2,0,11,2,73,8.21917808219178,Simplified Chinese <zh_CN@li.org>
+nautilus-sendto,55,0,0,20,0,0,27,55,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+ncmpc,683,0,0,247,0,0,344,683,100.0,Simplified Chinese <zh_CN@li.org>
+ncpfs,5632,26,8,803,5,1,2584,5666,99.39992940345923,Novell Language <language@novell.com>
+neon,492,8,4,95,1,1,164,504,97.61904761904762,neon@webdav.org
+newsbeuter,880,141,168,230,33,44,351,1189,74.01177460050462,Chinese <joshyupeng@gmail.com>
+newt,4,0,0,4,0,0,4,4,100.0,Debian Chinese [GB] <debian-chinese-gb@lists.debian.org>
+nfoview,101,0,8,46,0,2,61,109,92.66055045871559,Simplified Chinese
+notecase,987,120,49,328,23,5,437,1156,85.38062283737024,NoteCase team
+nssbackup,3,0,1998,2,0,326,11,2001,0.14992503748125938,Simplified Chinese <zh_CN@li.org>
+nted,1240,0,52,507,0,23,707,1292,95.97523219814241,Simplified Chinese <fedora-trans-zh_cn@redhat.com>
+ntfs-config,353,0,4,58,0,1,91,357,98.8795518207283,Chinese (China) <zh_CN@li.org>
+nx,58,0,91,2,0,6,6,149,38.92617449664429,Debian Chinese [GB] <debian-chinese-gb@lists.debian.org>
+oggconvert,152,0,0,44,0,0,69,152,100.0,Simplified Chinese <zh_CN@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+openbox,503,0,0,96,0,0,207,503,100.0,Simplified Chinese
+orage,2110,0,0,769,0,0,1018,2110,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+orca,395,0,0,150,0,0,182,395,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+osmo,776,383,454,338,177,146,367,1613,48.10911345319281,puppy.cnbits.com <laborer@126.com>
+oyranos,2,0,45,1,0,22,1,47,4.25531914893617,zh_CN <i18n-translation@lists.linux.net.cn>
+pam,565,19,15,115,2,3,202,599,94.32387312186978,Simplified Chinese <zh@li.org>
+pan,194,1246,848,72,366,162,96,2288,8.47902097902098,zh_CN <i18n-translation@lists.linux.net.cn>
+paprefs,99,0,0,19,0,0,26,99,100.0,Simplified Chinese <zh@li.org>
+parole,448,2,0,180,2,0,239,450,99.55555555555556,Chinese (simplified) <xfce-i18n@xfce.org>
+parted,1215,1532,2089,187,133,249,424,4836,25.12406947890819,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+passwd,291,8,0,51,2,0,91,299,97.32441471571906,none
+pavucontrol,139,6,0,49,1,0,74,145,95.86206896551724,Simplified Chinese <zh@li.org>
+pcmanfm,992,138,390,273,60,55,413,1520,65.26315789473685,zh_CN
+pcmanx-gtk2,493,0,0,132,0,0,267,493,100.0,
+perl-Padre,942,22,0,335,6,0,588,964,97.71784232365145,Chinese
+pessulus,124,0,0,32,0,0,42,124,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+pgadmin3,8945,13,48,2517,4,10,3373,9006,99.3226737730402,The pgAdmin Development Team <pgadmin-hackers@postgresql.org>
+phatch,1215,0,1338,410,0,414,539,2553,47.591069330199765,Simplified Chinese <zh_CN@li.org>
+phpldapadmin,1175,0,2266,298,0,488,344,3441,34.14705027608254,phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net>
+picard,575,2,733,364,3,238,412,1310,43.89312977099237,Simplified Chinese <zh_CN@li.org>
+pidgin,15760,315,2069,3643,106,238,5356,18144,86.86067019400353,Chinese (simplified) <i18n-zh@googlegroups.com>
+pidgin-guifications,459,8,38,184,1,7,197,505,90.89108910891089,zh_CN-i18n
+pidgin-libnotify,31,5,0,11,1,0,17,36,86.11111111111111,chinese
+pidgin-musictracker,333,0,0,60,0,0,87,333,100.0,Simplified Chinese <zh_CN@li.org>
+pidgin-sipe,525,14,38,138,4,8,214,577,90.98786828422877,zh_CN <i18n-translation@lists.linux.net.cn>
+pinot,395,25,157,164,10,63,174,577,68.4575389948007,LANGUAGE <LL@li.org>
+pitivi,81,80,826,23,40,162,55,987,8.206686930091186,zh_CN <i18n-translation@lists.linux.net.cn>
+planner,1353,0,0,437,0,0,501,1353,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+pmount,723,0,0,63,0,0,180,723,100.0,Chinese (China) <zh_CN@li.org>
+po4a,64,5,1657,14,1,162,22,1726,3.7079953650057935,Simplified Chinese <zh_CN@li.org>
+poedit,1148,14,0,267,2,0,433,1162,98.79518072289156,
+policycoreutils,4358,0,0,706,0,0,2246,4358,100.0,Simplified Chinese <zh@li.org>
+popt,75,0,0,27,0,0,38,75,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+postgresql,22866,57,4937,3337,5,310,10967,27860,82.07465900933238,Weiping He <laser@zhengmai.com.cn>
+postgresql-jdbc,1116,0,418,130,0,47,343,1534,72.7509778357236,The PostgreSQL Development Team <Kuo.ChaoYi@gmail.com>
+powertop,983,0,0,89,0,0,483,983,100.0,Yuan CHAO <yuanchao@gmail.com>
+proftpd,823,0,0,198,0,0,267,823,100.0,noteam <scwang@ios.ac.cn>
+proxyknife,252,0,2,2,0,1,89,254,99.21259842519686,Chinese <i18n-translation@lists.linux.net.cn>
+psmisc,577,107,15,55,2,2,285,699,82.54649499284692,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+publican,851,0,0,42,0,0,139,851,100.0,Simplified Chinese <zh@li.org>
+publican-fedora,107,0,0,7,0,0,14,107,100.0,<en@li.org>
+publican-ovirt,107,0,181,7,0,20,14,288,37.15277777777778,none
+pulseaudio,2703,4,0,386,1,0,1146,2707,99.85223494643517,Simplified Chinese <zh@li.org>
+purple-msn-pecan,685,0,275,156,0,22,219,960,71.35416666666666,Simplified Chinese <zh_CN@li.org>
+pybliographer,832,0,89,247,0,7,358,921,90.33659066232356,zh_CN <i18n-translation@lists.linux.net.cn>
+pykickstart,284,0,0,25,0,0,79,284,100.0,Simplified Chinese <zh@li.org>
+pyroom,411,0,0,74,0,0,149,411,100.0,Simplified Chinese <zh_CN@li.org>
+python-formencode,540,55,170,77,6,27,166,765,70.58823529411765,Chinese/Simplified
+python-virtinst,1989,570,371,255,86,63,636,2930,67.88395904436861,Simplified Chinese <zh@li.org>
+quodlibet,1037,164,800,346,62,131,403,2001,51.82408795602199,Emfox Zhou <EmfoxZhou@gmail.com>
+rapidsvn,1196,125,98,377,38,21,532,1419,84.2847075405215,RapidSVN i18n
+reciteword,243,0,0,86,0,0,128,243,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+redhat-menus,261,0,0,86,0,0,129,261,100.0,<zh@li.org>
+rednotebook,781,0,0,183,0,0,251,781,100.0,Simplified Chinese <zh_CN@li.org>
+referencer,871,0,8,249,0,1,444,879,99.08987485779295,Simplified Chinese <zh_CN@li.org>
+regexxer,205,0,262,71,0,29,83,467,43.897216274089935,zh_CN <i18n-translation@lists.linux.net.cn>
+rekonq,511,0,0,125,0,0,198,511,100.0,Chinese Simplified <kde-china@kde.org>
+remmina,828,0,0,216,0,0,279,828,100.0,LANGUAGE <LL@li.org>
+resapplet,106,0,0,22,0,0,35,106,100.0,Novell Language <language@novell.com>
+revelation,1825,57,17,381,10,1,671,1899,96.1032122169563,Chinese/Simplified
+revisor,216,0,4192,24,0,701,60,4408,4.900181488203267,Chinese/Simplified
+rhn-client-tools,4135,221,464,401,26,27,898,4820,85.78838174273858,<en@li.org>
+rhnsd,42,0,0,10,0,0,19,42,100.0,<zh@li.org>
+rhpl,185,0,0,80,0,0,126,185,100.0,<zh@li.org>
+rhpxl,120,0,0,43,0,0,82,120,100.0,Simplified Chinese <zh@li.org>
+rhythmbox,9313,146,45,1428,7,9,2454,9504,97.99031986531986,zh_CN <i18n-translation@lists.linux.net.cn>
+ristretto,187,0,0,57,0,0,67,187,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+rkward,2913,450,648,539,48,61,578,4011,72.62528047868362,Simplified Chinese
+roundup,3631,0,21,405,0,13,1318,3652,99.4249726177437,Chinese Simplified <limodou@gmail.com>
+rsibreak,882,290,51,127,16,17,166,1223,72.11774325429272,简体中文 <kde-china@kde.org>
+rt3,7172,0,2644,2083,0,495,2833,9816,73.0643846780766,rt-devel <rt-devel@lists.bestpractical.com>
+sabayon,1178,0,0,230,0,0,407,1178,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+sakura,39,21,67,16,4,26,20,127,30.708661417322837,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+samba,198,0,0,33,0,0,45,198,100.0,Novell Language <language@novell.com>
+sbackup,601,8,104,98,3,11,169,713,84.29172510518934,
+schroot,1310,0,0,286,0,0,558,1310,100.0,Chinese
+scim,1164,0,0,280,0,0,384,1164,100.0,
+scim-hangul,62,62,90,16,8,16,19,214,28.971962616822427,scim <scim@freedesktop.org>
+scim-input-pad,223,0,3,65,0,3,78,226,98.67256637168141,Simplified Chinese <zh@li.org>
+scim-pinyin,658,174,0,114,8,2,198,832,79.08653846153845,James Su<suzhe@tsinghua.org.cn
+scim-python,324,0,38,90,0,13,173,362,89.50276243093923,Huang Peng <shawn.p.huang@gmail.com>
+scim-qtimm,23,0,0,5,0,0,16,23,100.0,<scim-user@lists.sourceforge.net>
+scim-tables,1047,0,106,158,0,13,220,1153,90.80659150043365,Simplified Chinese <zh@li.org>
+scribes,1478,0,53,357,0,9,447,1531,96.53821032005226,
+seahorse,3049,0,0,646,0,0,897,3049,100.0,i18n-zh <i18n-zh@googlegroups.com>
+seahorse-plugins,1163,0,0,248,0,0,406,1163,100.0,i18n-zh <i18n-zh@googlegroups.com>
+sectool,178,2,2231,79,1,276,103,2411,7.382828701783492,Chinese(Simplified)
+sed,490,54,37,84,2,3,173,581,84.33734939759037,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+sepostgresql,22866,57,4937,3337,5,310,10967,27860,82.07465900933238,Weiping He <laser@zhengmai.com.cn>
+setroubleshoot,593,0,0,168,0,0,241,593,100.0,Simplified Chinese <zh@li.org>
+setroubleshoot-plugins,8276,0,0,247,0,0,2398,8276,100.0,Simplified Chinese <zh@li.org>
+setuptool,73,0,0,19,0,0,38,73,100.0,Simplified Chinese <zh@li.org>
+shadow-utils,1106,1546,616,224,101,53,462,3268,33.84332925336597,Debian Chinese [GB] <debian-chinese-gb@lists.debian.org>
+shared-mime-info,933,0,33,362,0,9,763,966,96.58385093167702,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+showimg,663,1462,2180,228,373,278,266,4305,15.400696864111499,zh_CN <i18n-translation@lists.linux.net.cn>
+skanlite,102,6,34,36,2,13,54,142,71.83098591549296,简体中文 <kde-china@kde.org>
+skychart,843,0,21,195,0,6,539,864,97.56944444444444,newsfree <freefcw@gmail.com>
+smart,3083,331,1107,658,53,79,1278,4521,68.19287768192878,zh_CN <i18n-translation@lists.linux.net.cn>
+smb4k,160,1482,4938,89,236,400,95,6580,2.43161094224924,zh_CN <i18n-translation@lists.linux.net.cn>
+smolt,1174,0,0,212,0,0,406,1174,100.0,Simplified Chinese <zh@li.org>
+snownews,791,0,0,163,0,0,307,791,100.0,<zh@li.org>
+solfege,4207,0,0,1051,0,0,1699,4207,100.0,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+sonata,1135,0,1,356,0,1,451,1136,99.91197183098592,Simplified Chinese
+sos,174,93,0,31,5,0,46,267,65.1685393258427,"Chinese, Simplied（简体中文） <zh_CN@li.org>"
+sound-juicer,1024,0,0,198,0,0,358,1024,100.0,Chinese/Simplified <i18n-zh@googlegroups.com>
+soundconverter,53,0,380,18,0,85,25,433,12.240184757505773,Simplified Chinese <zh_CN@li.org>
+specspo,48478,53406,203410,2929,5393,8528,16404,305294,15.87911979927545,fedora-cn <fedora-trans-zh_cn@redhat.com>
+springlobby,2811,621,1263,790,185,189,942,4695,59.87220447284345,Simplified Chinese <zh_CN@li.org>
+spu-binutils,7873,422,4355,1344,80,592,3378,12650,62.237154150197625,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+squirrelmail,5898,44,0,1133,16,0,1516,5942,99.2595085829687,Simplified Chinese <squirrelmail-i18n@lists.sourceforge.net>
+stardict,2440,0,0,461,0,0,685,2440,100.0,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+stellarium,1642,53,744,597,7,332,732,2439,67.32267322673226,Chinese (Hong Kong) <zh_HK@li.org>
+straw,521,0,0,171,0,0,206,521,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+subcommander,2174,0,0,683,0,0,950,2174,100.0,Simplified Chinese <dev@subcommander.tigris.org>
+subtitleeditor,2425,0,40,657,0,20,863,2465,98.37728194726166,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+subversion,17938,0,0,1987,0,0,5857,17938,100.0,Simplified Chinese <dev@subversion.tigris.org>
+sugar,86,23,663,38,6,178,43,772,11.139896373056994,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,44,0,3,25,0,1,31,47,93.61702127659575,Yuan CHAO <yuanchao@gmail.com>
+sugar-calculator,0,0,563,0,0,116,0,563,0.0,LANGUAGE <LL@li.org>
+sugar-chat,21,0,0,10,0,0,11,21,100.0,Yuan CHAO <yuanchao@gmail.com>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,76,0,0,15,0,76,0.0,LANGUAGE <LL@li.org>
+sugar-finance,142,0,0,31,0,0,37,142,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,17,0,0,9,0,0,9,17,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-journal,68,0,0,43,0,0,56,68,100.0,Yuan CHAO <yuanchao@gmail.com>
+sugar-jukebox,10,0,0,6,0,0,6,10,100.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,52,0,0,27,0,0,27,52,100.0,Yuan CHAO <yuanchao@gmail.com>
+sugar-moon,0,0,90,0,0,31,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,25,0,0,16,0,0,15,25,100.0,Yuan CHAO <yuanchao@gmail.com>
+sugar-record,111,14,12,62,5,6,75,137,81.02189781021897,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-update-control,149,0,10,39,0,3,52,159,93.71069182389937,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,69,0,0,42,0,0,42,69,100.0,Yuan CHAO <yuanchao@gmail.com>
+swfdec-gnome,101,0,0,28,0,0,48,101,100.0,简体中文
+switchdesk,139,0,0,20,0,0,29,139,100.0,Simplified Chinese <zh@li.org>
+sylpheed,4577,1087,607,1248,271,65,1674,6271,72.98676447137618,zh_CN <i18n-translation@lists.linux.net.cn>
+synaptic,3118,102,11,647,12,3,994,3231,96.5026307644692,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+system-config-bind,9434,0,0,1065,0,0,2470,9434,100.0,Simplified Chinese <zh@li.org>
+system-config-boot,46,0,0,10,0,0,11,46,100.0,"Chinese, Simplied（简体中文） <zh_CN@li.org>"
+system-config-date,956,0,0,114,0,0,250,956,100.0,Simplified Chinese <zh@li.org>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,175,398,100.0,<zh@li.org>
+system-config-firewall,2497,0,0,303,0,0,527,2497,100.0,Simplified Chinese <zh@li.org>
+system-config-httpd,858,0,0,223,0,0,285,858,100.0,<zh@li.org>
+system-config-kdump,383,0,0,35,0,0,80,383,100.0,"Chinese, Simplied（简体中文） <zh_CN@li.org>"
+system-config-keyboard,78,0,0,12,0,0,23,78,100.0,<zh@li.org>
+system-config-kickstart,1039,0,0,264,0,0,457,1039,100.0,Simplified Chinese <zh@li.org>
+system-config-language,49,0,0,11,0,0,12,49,100.0,<zh@li.org>
+system-config-lvm,2228,0,0,343,0,0,554,2228,100.0,Simplified Chinese <zh@li.org>
+system-config-netboot,1135,0,0,168,0,0,371,1135,100.0,Simplified Chinese <zh@li.org>
+system-config-network,2934,0,0,704,0,0,1076,2934,100.0,Simplified Chinese <zh@li.org>
+system-config-nfs,332,0,0,72,0,0,133,332,100.0,Simplified Chinese <zh@li.org>
+system-config-nfs-docs,1052,0,133,62,0,4,177,1185,88.77637130801688,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+system-config-printer,3006,0,0,670,0,0,1099,3006,100.0,Simplified Chinese <zh@li.org>
+system-config-rootpassword,116,0,0,19,0,0,29,116,100.0,Simplified Chinese <i18n@redhat.com>
+system-config-samba,422,0,0,137,0,0,194,422,100.0,Simplified Chinese <zh@li.org>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,336,0,48,50,0,3,85,384,87.5,Simplified Chinese <zh@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1337,0,0,172,0,0,348,1337,100.0,Simplified Chinese <zh@li.org>
+system-config-users-docs,1054,0,0,77,0,0,107,1054,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+system-switch-java,81,0,0,11,0,0,31,81,100.0,Simplified Chinese <zh@li.org>
+system-switch-mail,134,0,0,20,0,0,41,134,100.0,Simplified Chinese <zh@li.org>
+tar,3162,71,14,523,7,2,1160,3247,97.38219895287958,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+tasks,188,0,0,33,0,0,147,188,100.0,yetist <yetist@gmail.com>
+tasque,185,0,0,82,0,0,111,185,100.0,Chinese (simplified) <i18n-zh@googlegroups.com>
+terminator,269,0,0,88,0,0,127,269,100.0,Simplified Chinese <zh_CN@li.org>
+texinfo,4667,24,0,574,5,0,1704,4691,99.48838200810061,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+texlive,3373,813,196,498,35,31,1069,4382,76.9739844819717,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+thunar-shares-plugin,156,1,24,29,1,4,56,181,86.1878453038674,Chinese (simplified)
+thunar-vcs-plugin,387,75,36,213,48,18,310,498,77.71084337349397,Chinese (simplified) <xfce-i18n@xfce.org>
+tilda,396,0,0,107,0,0,128,396,100.0,Chinese (China) <zh_CN@li.org>
+tinyerp,1017,120,1,308,24,1,445,1138,89.36731107205624,www.shine-it.net <digisatori@gmail.com>
+tomboy,2651,0,0,395,0,0,605,2651,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+tortoisehg,4428,0,1180,1111,0,288,1520,5608,78.9586305278174,Simplified Chinese <zh_CN@li.org>
+totem,2815,0,0,601,0,0,987,2815,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+totem-pl-parser,28,0,0,7,0,0,10,28,100.0,
+tracker,1392,0,0,291,0,0,442,1392,100.0,Chinese i18n <i18n-zh@googlegroups.com>
+transifex,15,192,1504,12,75,270,12,1711,0.8766803039158386,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+transmission,1342,0,300,398,0,51,775,1642,81.72959805115713,Chinese (China) <zh_CN@li.org>
+tsclient,342,0,0,74,0,0,92,342,100.0,Novell Language <language@novell.com>
+turba,1506,0,0,339,0,0,473,1506,100.0,Chinese
+tuxmath,812,29,210,148,6,45,155,1051,77.25975261655566,Simplified Chinese <zh_CN@li.org>
+tuxpaint,343,236,182,93,34,59,95,761,45.07227332457293,zh_CN <i18n-translation@lists.linux.net.cn>
+tuxpaint-stamps,555,648,1414,146,243,237,146,2617,21.207489491784486,zh_CN <i18n-translation@lists.linux.net.cn>
+txt2tags,596,0,0,122,0,0,284,596,100.0,
+uget,57,0,400,42,0,150,44,457,12.472647702407002,
+umit,1772,947,1874,262,287,328,409,4593,38.58044850860004,Simplified Chineese <zh_CN@li.org>
+urlgfe,418,0,5,161,0,5,193,423,98.81796690307328,
+usermode,562,0,0,94,0,0,153,562,100.0,Simplified Chinese <zh@li.org>
+util-linux-ng,375,14,11894,88,5,1858,232,12283,3.0530000814133356,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+vdr,793,0,0,322,0,0,400,793,100.0,Chinese
+vidalia,3588,0,0,942,0,0,1357,3588,100.0,translations@vidalia-project.net
+viking,712,0,1031,284,0,195,382,1743,40.8491107286288,
+vim,7895,15,0,1637,3,0,4512,7910,99.81036662452591,Simplified Chinese <i18n-translation@lists.linux.net.cn>
+vinagre,2049,0,0,251,0,0,481,2049,100.0,Chinese (simplified) <i18n-zh@googlegroups.com>
+vino,1054,0,0,112,0,0,232,1054,100.0,Chinese/Simplified <i18n-zh@googlegroups.com>
+virt-ctrl,109,0,3,44,0,1,72,112,97.32142857142857,Simplified Chinese <zh@li.org>
+virt-df,102,0,3,23,0,1,44,105,97.14285714285714,Simplified Chinese <zh@li.org>
+virt-manager,2217,1083,132,530,133,26,815,3432,64.5979020979021,Simplified Chinese <zh@li.org>
+virt-top,1113,0,0,251,0,0,491,1113,100.0,Simplified Chinese <zh@li.org>
+vte,116,0,0,20,0,0,39,116,100.0,zh_CN <i18n-translation@lists.linux.net.cn>
+wallpapoz,395,0,0,101,0,0,151,395,100.0,
+wammu,2686,334,1262,552,51,187,580,4282,62.72769733769267,none
+warzone2100,48,38,9532,33,19,2324,35,9618,0.4990642545227698,Simplified Chinese <zh_CN@li.org>
+wesnoth,189174,393,23069,12572,15,522,18717,212636,88.9661205064053,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+wget,2236,24,0,390,4,0,1186,2260,98.93805309734513,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+whaawmp,267,0,490,87,0,64,95,757,35.270805812417436,Simplified Chinese <zh_CN@li.org>
+wlassistant,702,163,226,95,27,31,147,1091,64.34463794683776,<zh@li.org>
+workrave,1084,50,23,199,18,12,261,1157,93.6905790838375,
+wormux,1414,158,239,236,33,48,610,1811,78.07840971838763,Chinese (China) <luojie-dune@operamail.com>
+wput,1060,3,0,134,1,0,341,1063,99.71777986829727,wput <wput>
+wxGTK,5194,522,675,1083,148,244,2358,6391,81.27053669222344,wxWidgets tranlators <wx-translators@wxwidgets.org>
+wxPython,7368,551,723,1746,160,252,3119,8642,85.25804211987966,wxWidgets tranlators <wx-translators@wxwidgets.org>
+xcdroast,7763,281,0,840,8,0,1961,8044,96.50671307807062,
+xchat,5013,10,4,1229,2,1,2208,5027,99.7215038790531,Chinese (simplified) <i18n-zh@googlegroups.com>
+xchat-gnome,3830,0,217,1033,0,14,1794,4047,94.6380034593526,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+xchm,145,28,72,60,12,20,66,245,59.183673469387756,zh_CN <sejishikong@linuxfans.org>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Simplified Chinese <zh_CN@li.org>
+xfburn,1279,8,9,278,2,1,355,1296,98.68827160493827,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+xfce-utils,131,0,0,36,0,0,54,131,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+xfce4-appfinder,84,0,0,19,0,0,35,84,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+xfce4-clipman-plugin,234,0,0,42,0,0,60,234,100.0,Chinese(Simplified) <xfce-i18n@xfce.org>
+xfce4-dict,194,38,154,36,15,33,50,386,50.259067357512954,Chinese (simplified)
+xfce4-diskperf-plugin,185,0,0,38,0,0,85,185,100.0,Chinese <xfce-i18n@xfce.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Simplified Chinese <i18n-translation@lists.linux.net.cn>
+xfce4-fsguard-plugin,64,0,0,19,0,0,34,64,100.0,Chinese <xfce-i18n@xfce.org>
+xfce4-icon-theme,8,0,0,2,0,0,2,8,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+xfce4-mailwatch-plugin,534,36,89,91,6,13,202,659,81.03186646433991,Chinese <xfce-i18n@xfce.org>
+xfce4-mixer,181,0,0,37,0,0,54,181,100.0,Simplified Chinese <i18n-xfce@xfce.org>
+xfce4-mount-plugin,283,11,4,42,1,1,82,298,94.96644295302013,
+xfce4-mpc-plugin,46,2,32,17,1,6,28,80,57.49999999999999,Chinese (simplified)
+xfce4-notes-plugin,98,0,5,39,0,1,43,103,95.14563106796116,Chinese (Simplified)
+xfce4-panel,537,3,0,166,1,0,200,540,99.44444444444444,Simplified Chinese <xfce-i18n@xfce.org>
+xfce4-places-plugin,43,0,0,19,0,0,19,43,100.0,
+xfce4-power-manager,694,0,0,155,0,0,206,694,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+xfce4-remmina-plugin,136,0,0,12,0,0,28,136,100.0,LANGUAGE <LL@li.org>
+xfce4-screenshooter,223,0,0,37,0,0,47,223,100.0,Chinese (simplified)
+xfce4-session,990,0,0,199,0,0,376,990,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+xfce4-settings,1138,0,0,247,0,0,309,1138,100.0,Simplified Chinese <i18n-xfce@xfce.org>
+xfce4-weather-plugin,372,159,24,186,58,13,195,555,67.02702702702703,Chinese (Traditional) <xfce-i18n@xfce.org>
+xfce4-xfapplet-plugin,84,0,0,14,0,0,24,84,100.0,Chinese/Simplified <i18n-translation@lists.linux.net.cn>
+xfce4-xfswitch-plugin,20,0,0,3,0,0,4,20,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+xfce4-xkb-plugin,61,0,0,17,0,0,21,61,100.0,Chinese (simplified)
+xfconf,421,0,0,61,0,0,99,421,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+xfdesktop,1004,0,0,268,0,0,406,1004,100.0,Chinese <xfce-i18n@xfce.org>
+xfprint,322,0,0,113,0,0,135,322,100.0,Simplified Chinese <xfce-i18n@xfce.org>
+xfwm4,797,0,0,224,0,0,271,797,100.0,Simplified Chinese <i18n-translation@lists.linux.net.cn>
+xkeyboard-config,896,0,0,362,0,0,604,896,100.0,Chinese (simplified) <i18n-translation@lists.linux.net.cn>
+xmlcopyeditor,1383,0,4,406,0,4,770,1387,99.71160778658977,SHiNE CsyFeK <csyfek@gmail.com>
+xmms,2736,266,441,921,53,71,1695,3443,79.4655823409817,Mandrake i18n Team <cooker-i18n@linux-mandrake.com>
+xpad,226,0,137,66,0,11,95,363,62.25895316804407,Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>
+xsane,2340,1009,3099,798,223,435,885,6448,36.29032258064516,zh_TW<zh_TW@li.org>
+xscreensaver,1459,1453,8278,453,466,915,683,11190,13.038427167113495,zh_CN <i18n-translation@lists.linux.net.cn>
+yakuake,876,75,337,148,12,39,179,1288,68.01242236024845,简体中文 <kde-china@kde.org>
+yelp,1035,0,0,349,0,0,489,1035,100.0,Chinese i18n <i18n-zh@googlegroups.com>
+yum,2013,4,0,399,1,0,1079,2017,99.80168567178978,zh_CN <lijiangsheng1@gmail.com>
+yum-rhn-plugin,62,0,45,9,0,5,20,107,57.943925233644855,<zh@li.org>
+yumex,566,15,27,185,3,5,251,608,93.0921052631579,Simplified Chinese <zh@li.org>
+zenity,582,0,0,135,0,0,173,582,100.0,zh_CN <i18n-translation@lists.linux.net.cn>

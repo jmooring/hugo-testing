@@ -1,0 +1,43 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+atril,19,0,1697,10,0,385,26,1716,1.1072261072261071,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+backintime,13,0,1479,6,0,294,19,1492,0.871313672922252,Javanese <jv@li.org>
+calibre,107,0,151577,19,0,17675,98,151684,0.07054138867645895,Javanese (http://www.transifex.com/calibre/calibre/language/jv/)
+cinnamon-translations,506,0,11371,107,0,2597,442,11877,4.260335101456597,Javanese <jv@li.org>
+edgar,1,0,11474,1,0,1534,1,11475,0.008714596949891067,Javanese <jv@li.org>
+engrampa,12,0,1926,4,0,351,18,1938,0.6191950464396285,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+eom,5,0,1726,4,0,323,10,1731,0.28885037550548814,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+gmpc,23,0,1455,17,0,491,48,1478,1.5561569688768606,Javanese <jv@li.org>
+gnome-do,29,0,583,15,0,129,29,612,4.738562091503268,Javanese <jv@li.org>
+islamic-menus,5,0,0,2,0,0,7,5,100.0,Javanese <jv@li.org>
+isomaster,11,1,662,10,1,96,10,674,1.6320474777448073,http://littlesvr.ca/ostd/
+jmol,155,8,1555,58,4,511,159,1718,9.022118742724098,Javanese <jv@li.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+libmatemixer,3,0,239,2,0,124,3,242,1.2396694214876034,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+libmateweather,2,0,497,2,0,181,2,499,0.4008016032064128,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+libreoffice,0,0,5,0,0,1,0,5,0.0,LANGUAGE <LL@li.org>
+marco,7,0,4089,2,0,412,7,4096,0.1708984375,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-applets,8,0,2412,7,0,552,15,2420,0.3305785123966942,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-control-center,7,0,2755,7,0,649,13,2762,0.25343953656770457,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-desktop,471,0,1930,65,0,267,432,2401,19.61682632236568,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-media,10,0,215,4,0,92,10,225,4.444444444444445,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-menus,1,0,96,1,0,36,2,97,1.0309278350515463,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-panel,27,0,4360,10,0,595,35,4387,0.6154547526783679,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-sensors-applet,3,0,301,3,0,102,9,304,0.9868421052631579,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-session-manager,15,0,666,6,0,108,17,681,2.2026431718061676,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-system-monitor,17,0,1290,6,0,302,18,1307,1.300688599846978,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-terminal,23,0,4364,8,0,498,26,4387,0.5242762708000912,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-user-guide,5,0,0,2,0,0,5,5,100.0,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mate-utils,15,0,3661,7,0,655,23,3676,0.40805223068552776,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+mintmenu,2644,0,2417,757,0,311,2668,5061,52.24263979450702,Javanese <jv@li.org>
+playonlinux,320,0,2408,44,0,405,303,2728,11.730205278592376,Javanese <jv@li.org>
+pychess,76,0,4379,44,0,835,73,4455,1.7059483726150393,Javanese (http://www.transifex.com/gbtami/pychess/language/jv/)
+python-caja,6,0,0,2,0,0,5,6,100.0,Javanese (http://www.transifex.com/mate/MATE/language/jv/)
+stellarium,195,0,17110,162,0,4418,197,17305,1.1268419531927187,Javanese <jv@li.org>
+terminator,299,0,1012,110,0,283,318,1311,22.807017543859647,Javanese <jv@li.org>
+tortoisehg,30,0,12016,12,0,2306,33,12046,0.2490453262493774,Javanese <jv@li.org>
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>
+viking,0,0,4135,0,0,1056,0,4135,0.0,Javanese <jv@li.org>
+whaawmp,799,0,0,160,0,0,773,799,100.0,Javanese <jv@li.org>
+widelands,38,0,2599,9,0,119,40,2637,1.441031475161168,Javanese <jv@li.org>

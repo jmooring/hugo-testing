@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cpu-x,51,32,1291,32,16,255,53,1374,3.711790393013101,Central Atlas Tamazight <https://hosted.weblate.org/projects/cpu-x/translations/tzm/>
+godot,4,0,15122,4,0,3199,4,15126,0.026444532592886424,Central Atlas Tamazight <https://hosted.weblate.org/projects/godot-engine/godot/tzm/>
+iso-codes,1,0,1712,1,0,771,1,1713,0.05837711617046118,Central Atlas Tamazight <https://hosted.weblate.org/projects/iso-codes/iso-15924/tzm/>
+stellarium,48,0,149971,24,0,37595,47,150019,0.03199594718002386,Central Atlas Tamazight (https://www.transifex.com/stellarium/teams/80998/tzm/)
+sugar-typing-turtle,2,1,596,2,1,124,2,599,0.333889816360601,LANGUAGE <LL@li.org>

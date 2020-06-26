@@ -1,0 +1,1418 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+4Pane,9548,0,3136,1447,0,438,9419,12684,75.27593818984548,Danish (http://www.transifex.com/davidgh/4Pane/language/da/)
+GConf2,4088,0,0,497,0,0,3891,4088,100.0,Danish <dansk@dansk-gruppen.dk>
+LabPlot,202,4611,10054,115,1683,2074,196,14867,1.3587139301809377,Danish <kde-i18n-doc@kde.org>
+ModemManager,134,7,6,17,1,1,120,147,91.15646258503402,Danish
+NetworkManager,5255,2790,21149,692,428,1131,4934,29194,18.00027402891005,Danish
+NetworkManager-fortisslvpn,321,0,0,60,0,0,305,321,100.0,Danish <dansk@dansk-gruppen.dk>
+NetworkManager-l2tp,424,0,870,85,0,116,394,1294,32.766615146831526,Danish <dansk@dansk-gruppen.dk>
+NetworkManager-libreswan,857,0,0,96,0,0,798,857,100.0,Danish <dansk@dansk-gruppen.dk>
+NetworkManager-openconnect,9559,0,0,1602,0,0,8964,9559,100.0,Danish <dansk@dansk-gruppen.dk>
+NetworkManager-openvpn,2154,0,0,300,0,0,2035,2154,100.0,Danish <dansk@dansk-gruppen.dk>
+NetworkManager-pptp,519,5,5,87,2,5,472,529,98.10964083175804,Danish <dansk@dansk-gruppen.dk>
+NetworkManager-ssh,34,39,213,15,14,40,32,286,11.888111888111888,Danish <dansk@dansk-gruppen.dk>
+NetworkManager-sstp,842,8,28,145,2,2,765,878,95.8997722095672,Danish <dansk@dansk-gruppen.dk>
+NetworkManager-vpnc,616,0,0,102,0,0,565,616,100.0,Danish <dansk@dansk-gruppen.dk>
+PackageKit,1296,0,0,324,0,0,1219,1296,100.0,Danish (http://app.transifex.com/freedesktop/packagekit/language/da/)
+R,10121,3837,27081,1731,589,3705,9640,41039,24.66190696654402,Danish <debian-l10n-danish@lists.debian.org>
+R-RODBC,283,0,22,59,0,3,261,305,92.78688524590164,Danish <debian-l10n-danish@lists.debian.org>
+R-pkgdown,128,0,0,69,0,0,123,128,100.0,none
+Thunar,5430,0,0,976,0,0,4928,5430,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+WindowMaker,2243,0,178,381,0,3,2065,2421,92.64766625361422,Danish <sslug-locale@sslug.dk>
+Zim,2548,413,425,620,90,67,2417,3386,75.25103366804488,Danish <https://hosted.weblate.org/projects/zim/master/da/>
+a2ps,685,825,22,145,33,6,687,1532,44.71279373368146,Danish <dansk@dansk-gruppen.dk>
+abattis-cantarell-fonts,27,0,0,3,0,0,21,27,100.0,Danish <dansk@dansk-gruppen.dk>
+abrt,3676,0,0,417,0,0,3465,3676,100.0,Danish <https://translate.fedoraproject.org/projects/abrt/abrt/da/>
+accerciser,666,0,0,228,0,0,588,666,100.0,Danish <dansk@dansk-gruppen.dk>
+accountsservice,73,0,0,12,0,0,73,73,100.0,Danish
+agenda,5,0,12,2,0,4,4,17,29.411764705882355,Danish <da@li.org>
+aisleriot,2982,0,0,681,0,0,2526,2982,100.0,Danish <dansk@dansk-gruppen.dk>
+akonadi-calendar,2365,7,0,389,1,0,2213,2372,99.70489038785834,Danish <kde-i18n-doc@kde.org>
+akonadi-calendar-tools,760,0,0,166,0,0,729,760,100.0,Danish <kde-i18n-doc@kde.org>
+akonadi-contacts,1116,12,0,278,2,0,926,1128,98.93617021276596,Danish <dansk@dansk-gruppen.dk>
+akonadi-import-wizard,386,8,0,83,1,0,381,394,97.96954314720813,Danish <kde-i18n-doc@kde.org>
+akonadi-mime,551,20,10,103,9,3,509,581,94.83648881239243,Danish <kde-i18n-doc@kde.org>
+akonadi-notes,2,0,0,1,0,0,2,2,100.0,Danish <dansk@dansk-gruppen.dk>
+akonadi-search,35,13,19,9,2,7,32,67,52.23880597014925,Danish <kde-i18n-doc@kde.org>
+akonadi-server,2679,9,24,444,3,3,2421,2712,98.78318584070797,Danish <dansk@dansk-gruppen.dk>
+akregator,1540,281,72,347,76,12,1422,1893,81.35235076597993,Danish <kde-i18n-doc@kde.org>
+alacarte,48,0,0,21,0,0,43,48,100.0,Danish <dansk@dansk-gruppen.dk>
+almanah,805,0,0,143,0,0,825,805,100.0,Danish <dansk@dansk-gruppen.dk>
+amarok,13927,239,141,2441,39,17,13060,14307,97.34395750332006,Danish <kde-i18n-doc@kde.org>
+amtk,228,0,0,79,0,0,221,228,100.0,Danish <dansk@dansk-gruppen.dk>
+anaconda,7088,480,651,1234,73,41,6516,8219,86.2392018493734,Danish <https://translate.fedoraproject.org/projects/anaconda/master/da/>
+anaconda-webui,45,439,582,17,118,73,45,1066,4.221388367729831,Danish <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/da/>
+analitza,274,363,362,102,68,53,274,999,27.427427427427425,Danish <kde-i18n-doc@kde.org>
+android-tools,14393,78,2061,2349,9,203,13365,16532,87.06145656907816,Danish <dansk@dansk-gruppen.dk>
+angelfish,44,311,389,12,95,78,44,744,5.913978494623656,Danish <kde-i18n-doc@kde.org>
+anjuta,8444,0,0,2075,0,0,7564,8444,100.0,Danish <dansk@dansk-gruppen.dk>
+apostrophe,445,0,0,152,0,0,424,445,100.0,Danish <dansk@dansk-gruppen.dk>
+appstream,3837,730,2444,437,67,269,3429,7011,54.72828412494651,Danish <https://hosted.weblate.org/projects/appstream/translations/da/>
+apptainer,8206,4,2050,1365,1,200,8136,10260,79.98050682261209,Danish <dansk@dansk-gruppen.dk>
+apt,5011,219,336,670,34,44,4702,5566,90.02874595759971,Danish <debian-l10n-danish@lists.debian.org>
+apt-cacher-ng,394,0,0,25,0,0,356,394,100.0,Danish <debian-l10n-danish@lists.debian.org>
+arandr,173,0,0,38,0,0,177,173,100.0,Danish <https://hosted.weblate.org/projects/arandr/translations/da/>
+aria2,843,157,6496,53,2,345,842,7496,11.245997865528281,Danish <da@li.org>
+ark,1983,0,0,371,0,0,1866,1983,100.0,Danish <kde-i18n-doc@kde.org>
+arm-none-eabi-binutils-cs,16288,2242,4064,2840,254,436,15189,22594,72.08993538107462,Danish <dansk@dansk-gruppen.dk>
+arm-none-eabi-gcc-cs,11111,60081,65344,1866,8428,6357,10112,136536,8.137780512099372,Danish <dansk@dansk-gruppen.dk>
+artikulate,143,94,92,75,44,25,133,329,43.46504559270517,Danish <kde-i18n-doc@kde.org>
+aspell,1786,12,0,301,2,0,1634,1798,99.33259176863181,Danish <dansk@dansk-gruppen.dk>
+asunder,431,25,37,79,2,11,403,493,87.4239350912779,Danish <dansk@dansk-gruppen.dk>
+at-spi2-core,465,0,0,175,0,0,332,465,100.0,Danish <dansk@dansk-gruppen.dk>
+atomix,169,0,0,44,0,0,174,169,100.0,Danish <dansk@dansk-gruppen.dk>
+atril,7802,8,15,1025,2,2,7264,7825,99.70607028753994,Danish (https://app.transifex.com/mate/teams/13566/da/)
+audacious,912,0,0,373,0,0,886,912,100.0,Danish (http://app.transifex.com/audacious/audacious/language/da/)
+audacious-plugins,3876,0,332,924,0,58,3540,4208,92.11026615969583,Danish (http://app.transifex.com/audacious/audacious/language/da/)
+audacity,18943,0,0,4398,0,0,18457,18943,100.0,Danish
+audex,1303,511,801,299,68,48,1209,2615,49.827915869980885,Danish
+audiocd-kio,885,22,6,194,12,2,826,913,96.93318729463309,Danish <dansk@dansk-gruppen.dk>
+avahi,868,0,0,168,0,0,807,868,100.0,Danish (http://www.transifex.com/lennart/avahi/language/da/)
+avogadro2,106,108,201,56,58,53,176,415,25.542168674698797,Danish <https://hosted.weblate.org/projects/avogadro/avogadroapp/da/>
+avogadro2-libs,273,709,4294,208,302,1070,337,5276,5.174374526156178,Danish <da@li.org>
+avr-binutils,16288,2242,4064,2840,254,436,15189,22594,72.08993538107462,Danish <dansk@dansk-gruppen.dk>
+avr-gcc,11104,60353,65736,1865,8459,6388,10108,137193,8.093707404896751,Danish <dansk@dansk-gruppen.dk>
+b43-fwcutter,67,0,0,4,0,0,64,67,100.0,Danish <debian-l10n-danish@lists.debian.org>
+b43-tools,67,0,0,4,0,0,64,67,100.0,Danish <debian-l10n-danish@lists.debian.org>
+backintime,2624,0,0,397,0,0,2523,2624,100.0,Danish <https://translate.codeberg.org/projects/backintime/common/da/>
+baloo-widgets,57,2,8,34,1,5,58,67,85.07462686567165,Danish <kde-i18n-doc@kde.org>
+balsa,6883,0,0,1646,0,0,6606,6883,100.0,Danish <dansk@dansk-gruppen.dk>
+baobab,1392,0,0,146,0,0,1253,1392,100.0,Danish <dansk@dansk-gruppen.dk>
+bash,4387,7130,223,446,115,36,4190,11740,37.3679727427598,Danish <dansk@dansk-gruppen.dk>
+bibletime,1167,0,3634,160,0,92,1169,4801,24.307435950843576,Danish (http://www.transifex.com/bibletime/bibletime/language/da/)
+bijiben,390,0,0,125,0,0,386,390,100.0,Danish <dansk@dansk-gruppen.dk>
+binutils,16288,2242,4064,2840,254,436,15189,22594,72.08993538107462,Danish <dansk@dansk-gruppen.dk>
+bison,944,458,404,181,49,78,929,1806,52.27021040974529,Danish <dansk@dansk-gruppen.dk>
+bleachbit,1902,1,20,360,1,3,1751,1923,98.90795631825273,
+blender,3089,0,0,743,0,0,2875,3089,100.0,Danish <https://translate.blender.org/projects/blender-ui/ui/da/>
+blinken,134,0,0,47,0,0,132,134,100.0,Danish <dansk@dansk-gruppen.dk>
+blobwars,1168,0,0,353,0,0,1129,1168,100.0,danish <da@li.org>
+blogilo,1388,4,0,336,1,0,1280,1392,99.71264367816092,Danish <kde-i18n-doc@kde.org>
+bluedevil,601,0,0,212,0,0,567,601,100.0,Danish <kde-i18n-doc@kde.org>
+bluefish,5039,19,39,1573,7,5,4757,5097,98.86207573082206,dansk <dansk@dansk-gruppen.dk>
+blueman,2365,0,0,824,0,0,2019,2365,100.0,Danish <https://hosted.weblate.org/projects/blueman/2-4/da/>
+boinc-client,7207,0,0,1166,0,0,6821,7207,100.0,Danish (http://www.transifex.com/boinc/boinc/language/da/)
+bomber,93,17,0,22,5,0,89,110,84.54545454545455,Danish <dansk@dansk-gruppen.dk>
+bookworm,372,71,352,92,13,44,352,795,46.79245283018868,Danish <https://hosted.weblate.org/projects/bookworm/bookworm/da/>
+boswars,189,6,21,53,3,17,198,216,87.5,
+bottles,422,696,2333,94,236,346,404,3451,12.228339611706751,Danish <https://hosted.weblate.org/projects/bottles/bottles/da/>
+bovo,63,19,0,20,6,0,65,82,76.82926829268293,Danish <dansk@dansk-gruppen.dk>
+brasero,7751,0,0,1113,0,0,7121,7751,100.0,Danish <dansk@dansk-gruppen.dk>
+bubblemail,0,0,478,0,0,141,0,478,0.0,none
+budgie-control-center,7878,9,27,2514,5,7,7202,7914,99.54510993176649,Danish (https://app.transifex.com/buddiesofbudgie/teams/129844/da/)
+budgie-desktop,1482,0,377,380,0,101,1365,1859,79.72027972027972,Danish (https://app.transifex.com/buddiesofbudgie/teams/129844/da/)
+budgie-screensaver,291,0,0,58,0,0,277,291,100.0,Danish <dansk@dansk-gruppen.dk>
+budgie-session,435,0,0,68,0,0,409,435,100.0,Danish <dansk@dansk-gruppen.dk>
+bygfoot,3503,1,5929,756,1,663,3389,9433,37.13558782995865,<joedalton2@yahoo.dk>
+bzflag,2822,0,0,545,0,0,2711,2822,100.0,
+cairo-dock,460,0,7004,208,0,619,451,7464,6.162915326902465,Danish <da@li.org>
+cairo-dock-plug-ins,1060,0,9144,389,0,1333,1034,10204,10.388083104664837,Steen Jakobsen <mail@steen-jakobsen.dk>
+caja,9614,0,542,1595,0,1,8984,10156,94.66325324931076,Danish (https://app.transifex.com/mate/teams/13566/da/)
+caja-actions,8039,0,10773,923,0,593,7152,18812,42.733361684031465,Danish (https://app.transifex.com/mate/teams/13566/da/)
+caja-extensions,845,0,0,181,0,0,771,845,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+calamares,287,0,191,56,0,27,248,478,60.04184100418411,Danish (https://app.transifex.com/calamares/teams/20061/da/)
+calendarsupport,2293,433,33,331,47,7,2092,2759,83.10982239942007,Danish <kde-i18n-doc@kde.org>
+calibre,20572,0,159674,4061,0,16180,18656,180246,11.413290724898195,Danish (http://app.transifex.com/calibre/calibre/language/da/)
+calindori,275,150,125,103,44,37,253,550,50.0,Danish <kde-i18n-doc@kde.org>
+calligra,28363,1191,635,5807,230,107,26124,30189,93.9514392659578,Danish <kde-i18n-doc@kde.org>
+calligraplan,6319,1311,2313,1651,346,168,5745,9943,63.55224781253143,Danish <kde-i18n-doc@kde.org>
+calls,473,0,0,122,0,0,463,473,100.0,Danish
+camorama,759,42,34,155,7,7,713,835,90.89820359281437,Danish <https://translate.fedoraproject.org/projects/camorama/master/da/>
+cantor,1352,693,1942,397,145,225,1306,3987,33.91020817657386,Danish <kde-i18n-doc@kde.org>
+caribou,169,0,0,57,0,0,161,169,100.0,Danish <dansk@dansk-gruppen.dk>
+cataclysm-dda,695,0,876861,221,0,71500,619,877556,0.07919722502039755,Danish (https://www.transifex.com/cataclysm-dda-translators/teams/2217/da/)
+catfish,1047,0,57,154,0,9,998,1104,94.83695652173914,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+cawbird,1233,0,0,337,0,0,1199,1233,100.0,Danish (https://www.transifex.com/cawbird/teams/107135/da/)
+ccdciel,473,2,5542,151,1,1323,445,6017,7.861060329067642,Danish <da@li.org>
+celluloid,687,62,100,183,21,17,619,849,80.91872791519434,Danish <https://hosted.weblate.org/projects/celluloid/celluloid/da/>
+certmonger,886,63,1882,158,7,308,806,2831,31.296361709643232,Danish <https://translate.fedoraproject.org/projects/certmonger/master/da/>
+cervisia,1575,33,7,409,9,2,1450,1615,97.52321981424149,Danish <dansk@dansk-gruppen.dk>
+cflow,297,280,269,76,43,52,275,846,35.1063829787234,Danish <dansk@dansk-gruppen.dk>
+chatty,574,0,0,187,0,0,533,574,100.0,Danish
+cheese,2170,0,0,242,0,0,1969,2170,100.0,Danish <dansk@dansk-gruppen.dk>
+chkconfig,502,87,8,95,13,1,503,597,84.08710217755444,Danish <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/da/>
+cinnamon-control-center,1298,9,6,750,5,1,1198,1313,98.85757806549886,Danish <dansk@dansk-gruppen.dk>
+cinnamon-desktop,234,0,0,32,0,0,223,234,100.0,Danish <dansk@dansk-gruppen.dk>
+cinnamon-translations,23715,0,0,5367,0,0,22500,23715,100.0,Danish <da@li.org>
+clamtk,146,0,318,74,0,66,146,464,31.46551724137931,LANGUAGE <LL@li.org>
+clapper,0,0,294,0,0,118,0,294,0.0,Danish
+classified-ads,1774,16,242,373,6,67,1676,2032,87.30314960629921,Danish <debian-l10n-danish@lists.debian.org>
+claws-mail,19318,1423,191,3911,190,17,18163,20932,92.28931779094209,dansk <>
+clawsker,1537,0,0,278,0,0,1414,1537,100.0,Dansk
+clementine,2948,0,855,867,0,194,2788,3803,77.51774914541151,Danish (http://app.transifex.com/davidsansome/clementine/language/da/)
+clisp,12037,1157,587,1455,123,71,11218,13781,87.34489514549017,Danish <dansk@dansk-gruppen.dk>
+clutter,3057,0,0,675,0,0,2397,3057,100.0,Danish <dansk@dansk-gruppen.dk>
+codeblocks,613,0,0,79,0,0,581,613,100.0,Danish <https://hosted.weblate.org/projects/hunspell/translations/da/>
+cogl,378,0,0,76,0,0,319,378,100.0,Danish <dansk@dansk-gruppen.dk>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,349,0,1617,23,0,228,323,1966,17.75178026449644,Danish (https://app.transifex.com/freedesktop/teams/12151/da/)
+colord-kde,217,56,9,82,20,2,188,282,76.95035460992908,Danish <kde-i18n-doc@kde.org>
+compat-gdbm,779,0,0,214,0,0,726,779,100.0,Danish <dansk@dansk-gruppen.dk>
+compiz,1019,2468,898,284,415,180,1057,4385,23.23831242873432,Danish <dansk@dansk-gruppen.dk>
+console-setup,984,1,0,179,1,0,861,985,99.8984771573604,<dansk@dansk-gruppen.dk>
+coreutils,21563,301,0,1857,28,0,20588,21864,98.62330772045371,Danish <dansk@dansk-gruppen.dk>
+cozy,235,0,791,89,0,120,220,1026,22.904483430799218,Danish (https://www.transifex.com/geigi/teams/78138/da/)
+cpeditor,605,10,32,356,6,21,568,647,93.50850077279753,Danish <kde-i18n-doc@kde.org>
+cpio,1910,4,22,314,1,2,1840,1936,98.65702479338843,Danish <dansk@dansk-gruppen.dk>
+cpu-x,1231,237,158,266,45,35,1205,1626,75.70725707257073,Danish <https://hosted.weblate.org/projects/cpu-x/translations/da/>
+cracklib,90,0,0,15,0,0,87,90,100.0,Dansk <da@li.org>
+crash,10087,0,403,1577,0,55,9450,10490,96.1582459485224,Danish <dansk@dansk-gruppen.dk>
+cross-binutils,16288,2242,4064,2840,254,436,15189,22594,72.08993538107462,Danish <dansk@dansk-gruppen.dk>
+cross-gcc,11111,60081,65344,1866,8428,6357,10112,136536,8.137780512099372,Danish <dansk@dansk-gruppen.dk>
+cryptsetup,4118,1164,1193,593,155,125,3819,6475,63.598455598455594,Danish <dansk@dansk-gruppen.dk>
+cups,2308,0,10519,366,0,3600,2256,12827,17.99329539253138,Danish
+cups-pk-helper,149,0,0,22,0,0,156,149,100.0,Danish (http://www.transifex.com/freedesktop/cups-pk-helper/language/da/)
+d-feet,198,0,0,57,0,0,176,198,100.0,Danish <dansk@dansk-gruppen.dk>
+d-spy,117,0,0,52,0,0,102,117,100.0,Danish <dansk@dansk-gruppen.dk>
+dasher,1292,0,0,249,0,0,1207,1292,100.0,Danish <dansk@dansk-gruppen.dk>
+datamash,711,150,561,113,26,70,681,1422,50.0,Danish <dansk@dansk-gruppen.dk>
+dconf-editor,2955,0,0,394,0,0,2840,2955,100.0,Danish <dansk@dansk-gruppen.dk>
+dcraw,552,0,0,111,0,0,510,552,100.0,
+debconf,3234,25,12617,290,5,494,3044,15876,20.37037037037037,Danish <debian-l10n-danish@lists.debian.org>
+deepin-daemon,1000,0,214,213,0,46,892,1214,82.37232289950576,Danish (https://www.transifex.com/linuxdeepin/teams/3617/da/)
+deepin-pw-check,54,0,5,11,0,1,62,59,91.52542372881356,Danish (https://www.transifex.com/linuxdeepin/teams/3617/da/)
+deja-dup,3684,0,0,449,0,0,3635,3684,100.0,Danish <dansk@dansk-gruppen.dk>
+deluge,2394,0,1946,860,0,473,2211,4340,55.16129032258065,Danish <da@li.org>
+denemo,34366,0,10653,5110,0,635,30701,45019,76.33665785557208,Danish <dansk@dansk-gruppen.dk>
+desktopfolder,367,0,0,115,0,0,343,367,100.0,Danish (https://www.transifex.com/ubuntu-budgie/teams/72251/da/)
+devhelp,1161,0,0,150,0,0,1026,1161,100.0,Danish <dansk@dansk-gruppen.dk>
+dia,4880,710,1011,1851,266,242,4390,6601,73.92819269807605,Danish <dansk@dansk-gruppen.dk>
+dialect,1057,24,40,679,7,9,971,1121,94.29081177520071,
+dialog,37,0,0,25,0,0,37,37,100.0,Danish <dansk@dansk-gruppen.dk>
+diffutils,1807,54,3,258,4,1,1766,1864,96.94206008583691,Danish <dansk@dansk-gruppen.dk>
+digikam,22514,24926,15270,3745,5357,1374,19655,62710,35.90177005262319,Danish <kde-i18n-doc@kde.org>
+dino,17,0,760,6,0,231,14,777,2.187902187902188,none
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+dnf,4400,110,208,855,6,18,4230,4718,93.25985587113183,Danish <https://translate.fedoraproject.org/projects/dnf/dnf-master/da/>
+dnf-plugins-core,1669,160,308,246,28,42,1567,2137,78.10014038371548,Danish <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/da/>
+dnf-plugins-extras,121,0,0,21,0,0,114,121,100.0,Danish <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/da/>
+dnfdragora,776,0,995,341,0,133,719,1771,43.817052512704684,Danish (https://www.transifex.com/MageiaLinux/teams/9361/da/)
+dolphin,3985,132,2303,824,25,58,3748,6420,62.071651090342684,Danish <kde-i18n-doc@kde.org>
+dolphin-emu,2738,0,14056,943,0,1777,2540,16794,16.303441705370965,Danish (http://app.transifex.com/delroth/dolphin-emu/language/da/)
+dolphin-plugins,1431,70,6,415,12,2,1332,1507,94.95686794956868,Danish <dansk@dansk-gruppen.dk>
+dos2unix,1018,47,12,123,4,2,886,1077,94.52181987000928,Danish <dansk@dansk-gruppen.dk>
+doublecmd,10530,763,1106,2907,253,345,10058,12399,84.92620372610695,Language <bolle_barnewitz@sol.dk>
+dpkg,8235,3272,442,1130,276,58,7866,11949,68.91790107958825,Danish <debian-l10n-danish@lists.debian.org>
+dragon,227,15,6,75,6,1,214,248,91.53225806451613,Danish <kde-i18n-doc@kde.org>
+drawing,1155,226,525,398,61,46,1098,1906,60.59811122770199,Danish
+drgeo,1912,65,8,450,7,4,1792,1985,96.32241813602015,<dansk@klid.dk>
+duplicity,2239,0,138,339,0,12,2203,2377,94.19436264198569,Danish
+dvdbackup,56,0,968,8,0,104,65,1024,5.46875,Danish <da@li.org>
+e16,2616,0,0,516,0,0,2254,2616,100.0,Danish
+e2fsprogs,8206,4,2050,1365,1,200,8136,10260,79.98050682261209,Danish <dansk@dansk-gruppen.dk>
+easyeffects,739,496,3777,371,128,297,649,5012,14.744612928970472,Danish <https://hosted.weblate.org/projects/easyeffects/main/da/>
+easytag,3558,1392,557,731,234,75,3318,5507,64.60867986199382,Danish <dansk@klid.dk>
+edgar,4,0,11470,4,0,1531,4,11474,0.03486142583231654,Danish <da@li.org>
+efl,156,0,0,59,0,0,153,156,100.0,Danish
+eiciel,95,69,167,29,23,33,86,331,28.700906344410875,Danish <https://l10n.opensuse.org/projects/eiciel/master/da/>
+eiskaltdcpp,52,0,3574,11,0,1142,54,3626,1.4340871483728626,Danish (https://www.transifex.com/tehnick/teams/11818/da/)
+electrum,1044,0,11997,361,0,2087,990,13041,8.005521048999311,Danish
+elementary-calculator,78,16,101,37,7,21,75,195,40.0,Danish <https://weblate.elementary.io/projects/calculator/calculator/da/>
+elementary-calendar,491,38,123,192,11,18,487,652,75.30674846625767,Danish <https://l10n.elementary.io/projects/calendar/calendar/da/>
+elementary-camera,54,5,74,13,2,20,53,133,40.6015037593985,Danish <https://l10n.elementary.io/projects/camera/camera/da/>
+elementary-code,377,259,936,134,53,107,366,1572,23.982188295165393,Danish <https://l10n.elementary.io/projects/code/code/da/>
+elementary-files,1974,248,316,407,80,64,1964,2538,77.77777777777779,Danish <https://l10n.elementary.io/projects/files/files/da/>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,231,168,462,87,49,71,239,861,26.82926829268293,Danish <https://l10n.elementary.io/projects/mail/mail/da/>
+elementary-music,13,18,176,10,10,21,12,207,6.280193236714976,Danish <https://weblate.elementary.io/projects/music/music/da/>
+elementary-notifications,1,0,39,1,0,7,1,40,2.5,Danish <https://l10n.elementary.io/projects/desktop/notifications-extra/da/>
+elementary-onboarding,186,5,126,36,2,28,184,317,58.67507886435332,Danish <https://l10n.elementary.io/projects/installer/onboarding/da/>
+elinks,6011,5589,1933,1419,249,177,5664,13533,44.41735018103894,Danish <dansk@klid.dk>
+elisa-player,806,8,0,298,3,0,769,814,99.01719901719902,Danish <kde-i18n-doc@kde.org>
+engrampa,7815,0,0,883,0,0,7167,7815,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+enigma,3669,0,6743,576,0,511,3490,10412,35.23818670764503,Danish (http://www.transifex.com/michtrz/enigma/language/da/)
+enlightenment,7511,731,473,2023,143,92,7295,8715,86.18473895582329,Danish
+enscript,1427,398,8,199,7,2,1362,1833,77.8505182760502,Danish <dansk@dansk-gruppen.dk>
+eog,6122,0,0,642,0,0,5596,6122,100.0,Danish <dansk@dansk-gruppen.dk>
+eog-plugins,403,0,0,100,0,0,361,403,100.0,Danish <dansk@dansk-gruppen.dk>
+eom,4958,0,0,542,0,0,4595,4958,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+epiphany,7203,0,0,1051,0,0,6728,7203,100.0,Danish <dansk@dansk-gruppen.dk>
+eventviews,2816,466,1,281,40,1,2438,3283,85.77520560462992,Danish <kde-i18n-doc@kde.org>
+evince,8600,0,0,1016,0,0,7937,8600,100.0,Danish <dansk@dansk-gruppen.dk>
+evolution,31390,0,0,6116,0,0,29158,31390,100.0,Danish <dansk@dansk-gruppen.dk>
+evolution-data-server,9801,0,0,1730,0,0,9069,9801,100.0,Danish <dansk@dansk-gruppen.dk>
+evolution-ews,1993,0,0,361,0,0,1851,1993,100.0,Dansk-gruppen <dansk@dansk-gruppen.dk>
+evolution-mapi,1039,0,0,226,0,0,998,1039,100.0,Danish <dansk@dansk-gruppen.dk>
+exaile,3950,133,519,1050,32,39,3760,4602,85.832246849196,Danish <https://hosted.weblate.org/projects/exaile/master/da/>
+exif,296,0,0,68,0,0,273,296,100.0,Danish <dansk@dansk-gruppen.dk>
+exo,738,0,0,145,0,0,644,738,100.0,Danish (http://www.transifex.com/xfce/exo/language/da/)
+falkon,4257,160,360,1340,76,75,4004,4777,89.11450701276952,Danish
+fcitx,3308,0,0,730,0,0,3118,3308,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-anthy,0,0,365,0,0,144,0,365,0.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-chewing,0,0,55,0,0,26,0,55,0.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-cloudpinyin,63,0,0,15,0,0,50,63,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-configtool,106,0,0,33,0,0,94,106,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-hangul,0,0,37,0,0,18,0,37,0.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-kkc,118,0,0,47,0,0,108,118,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-libpinyin,261,0,0,103,0,0,251,261,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-m17n,45,0,0,17,0,0,43,45,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-qt5,99,0,0,33,0,0,97,99,100.0,Danish (https://www.transifex.com/fcitx/teams/12005/da/)
+fcitx-skk,84,0,0,37,0,0,72,84,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-sunpinyin,0,0,104,0,0,40,0,104,0.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-table-extra,0,0,24,0,0,20,0,24,0.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-table-other,24,0,0,22,0,0,24,24,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx-unikey,96,0,0,42,0,0,81,96,100.0,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fcitx5-mozc,79,0,32,33,0,10,80,111,71.17117117117117,Danish (http://www.transifex.com/fcitx/fcitx/language/da/)
+fheroes2,19957,579,781,2857,106,90,19170,21317,93.62011540085378,Danish (Denmark)
+file-roller,3038,0,0,481,0,0,2811,3038,100.0,Danish <dansk@dansk-gruppen.dk>
+filelight,84,126,58,28,35,23,87,268,31.343283582089555,Danish <kde-i18n-doc@kde.org>
+filezilla,10729,0,31,1849,0,13,10207,10760,99.71189591078067,Danish
+findutils,1839,522,177,193,35,19,1716,2538,72.45862884160756,Danish <dansk@dansk-gruppen.dk>
+firewalld,2217,0,0,415,0,0,1941,2217,100.0,Danish <https://translate.fedoraproject.org/projects/firewalld/master/da/>
+five-or-more,236,0,0,52,0,0,234,236,100.0,Danish <dansk@dansk-gruppen.dk>
+flatpak,5608,397,343,1134,62,45,5452,6348,88.34278512917454,Danish
+flatpak-kcm,200,0,0,63,0,0,163,200,100.0,Danish <kde-i18n-doc@kde.org>
+flatseal,464,1,12,138,1,3,440,477,97.27463312368972,
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Danish
+four-in-a-row,1356,0,0,199,0,0,1322,1356,100.0,Danish <dansk@dansk-gruppen.dk>
+fpc,201,0,0,10,0,0,178,201,100.0,Danish <debian-l10n-danish@lists.debian.org>
+fprintd,394,32,7,53,5,2,320,433,90.99307159353349,Danish (http://www.transifex.com/freedesktop/fprintd/language/da/)
+fractal,2647,0,0,516,0,0,2551,2647,100.0,Danish <dansk@dansk-gruppen.dk>
+fragments,799,0,0,230,0,0,812,799,100.0,Danish <dansk@dansk-gruppen.dk>
+freeciv,38502,37867,39758,4956,3208,2058,35813,116127,33.155080213903744,Danish <dansk@dansk-gruppen.dk>
+freedink,244,19,0,53,3,0,257,263,92.77566539923954,Danish <dansk@dansk-gruppen.dk>
+freedink-data,13770,0,0,2221,0,0,14064,13770,100.0,Danish <dansk@dansk-gruppen.dk>
+freedink-dfarc,773,0,0,134,0,0,729,773,100.0,Danish <dansk@dansk-gruppen.dk>
+frogr,696,0,0,189,0,0,701,696,100.0,Danish <dansk@dansk-gruppen.dk>
+frozen-bubble,698,0,0,148,0,0,694,698,100.0,LANGUAGE <LL@li.org>
+fuse-encfs,594,9,686,81,1,55,563,1289,46.0822342901474,Danish <da@li.org>
+fvwm,858,0,0,199,0,0,813,858,100.0,Danish
+fvwm3,289,151,275,87,38,52,294,715,40.41958041958042,Danish
+fwupd,2390,0,0,513,0,0,2245,2390,100.0,Danish (http://app.transifex.com/freedesktop/fwupd/language/da/)
+g4music,169,0,0,76,0,0,172,169,100.0,Danish <dansk@dansk-gruppen.dk>
+gajim,715,3318,2316,227,1005,484,756,6349,11.261616002520082,<>
+gala,76,49,156,23,11,26,76,281,27.046263345195733,Danish <https://l10n.elementary.io/projects/desktop/gala/da/>
+gammastep,595,285,65,82,54,13,538,945,62.96296296296296,Danish
+gammu,419,388,3210,107,46,960,412,4017,10.430669653970623,none
+ganglia,59,0,0,4,0,0,52,59,100.0,Danish <debian-l10n-danish@lists.debian.org>
+garcon,125,0,0,38,0,0,122,125,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+gawk,2130,1468,1684,342,224,235,2084,5282,40.325634229458544,Danish <dansk@dansk-gruppen.dk>
+gbrainy,10316,0,0,1288,0,0,9828,10316,100.0,Dansk-gruppen <dansk@dansk-gruppen.dk>
+gcab,128,0,0,31,0,0,123,128,100.0,Danish <dansk@dansk-gruppen.dk>
+gcal,2872,1450,684,924,338,186,2497,5006,57.37115461446265,Danish <dansk@dansk-gruppen.dk>
+gcc,11104,60407,65774,1865,8464,6394,10108,137285,8.088283497832975,Danish <dansk@dansk-gruppen.dk>
+gcc13,11204,57722,61578,1882,8135,6039,10201,130504,8.585177465824803,Danish <dansk@dansk-gruppen.dk>
+gcl,177,0,0,8,0,0,168,177,100.0,Danish <debian-l10n-danish@lists.debian.org>
+gcolor3,432,0,0,61,0,0,388,432,100.0,Danish
+gconf-editor,336,0,0,98,0,0,323,336,100.0,Danish <dansk@dansk-gruppen.dk>
+gcr,505,0,0,176,0,0,443,505,100.0,Danish <dansk@dansk-gruppen.dk>
+gcr3,795,0,0,276,0,0,735,795,100.0,Danish <dansk@dansk-gruppen.dk>
+gdb,10087,0,403,1577,0,55,9450,10490,96.1582459485224,Danish <dansk@dansk-gruppen.dk>
+gdbm,586,225,324,167,59,68,539,1135,51.629955947136565,Danish <dansk@dansk-gruppen.dk>
+gdk-pixbuf2,1325,0,0,198,0,0,1229,1325,100.0,Danish <dansk@dansk-gruppen.dk>
+gdm,1014,0,0,151,0,0,955,1014,100.0,Danish <dansk@dansk-gruppen.dk>
+geany,6259,18,3,1347,5,1,5625,6280,99.6656050955414,Danish
+geany-plugins,0,0,8513,0,0,1730,0,8513,0.0,Danish
+geary,2613,0,0,660,0,0,2565,2613,100.0,Danish <dansk@dansk-gruppen.dk>
+gedit,10473,0,0,1275,0,0,9651,10473,100.0,Danish <dansk@dansk-gruppen.dk>
+gedit-latex,466,0,0,225,0,0,420,466,100.0,Danish <dansk@dansk-gruppen.dk>
+gedit-plugins,3021,0,0,333,0,0,2770,3021,100.0,Danish <dansk@dansk-gruppen.dk>
+geeqie,185,2300,3916,83,913,886,185,6401,2.8901734104046244,Danish <sslug-locale@sslug.dk>
+gegl04,11331,0,0,2256,0,0,9998,11331,100.0,Danish <dansk@dansk-gruppen.dk>
+genchemlab,272,0,0,96,0,0,258,272,100.0,Dansk <dansk@klid.dk>
+genius,8604,0,0,1122,0,0,8354,8604,100.0,Danish <dansk@dansk-gruppen.dk>
+gettext,5965,1879,820,640,176,115,5310,8664,68.84810710987996,Danish <dansk@dansk-gruppen.dk>
+gftp,3370,0,0,594,0,0,3148,3370,100.0,Danish <dansk@dansk-gruppen.dk>
+ggz-base-libs,74,0,0,17,0,0,80,74,100.0,Danish <dansk@dansk-gruppen.dk>
+ghc9.10,99,0,0,34,0,0,90,99,100.0,Danish (https://www.transifex.com/readthedocs/teams/101354/da/)
+ghc9.8,99,0,0,34,0,0,90,99,100.0,Danish (https://www.transifex.com/readthedocs/teams/101354/da/)
+ghdl,11204,57722,61578,1882,8135,6039,10201,130504,8.585177465824803,Danish <dansk@dansk-gruppen.dk>
+ghex,1213,0,0,233,0,0,1187,1213,100.0,Danish <dansk@dansk-gruppen.dk>
+gigolo,541,0,0,158,0,0,514,541,100.0,Danish (http://app.transifex.com/xfce/xfce-apps/language/da/)
+gimp,40569,13,106,9638,2,11,37387,40688,99.70753047581596,Danish <dansk@dansk-gruppen.dk>
+gimp-help,35145,11372,217275,3102,2158,12172,30510,263792,13.322996906653728,none
+gimp3,47452,0,0,10762,0,0,43491,47452,100.0,Danish <dansk@dansk-gruppen.dk>
+gip,103,0,0,31,0,0,80,103,100.0,Danish <dansk@dansk-gruppen.dk>
+gitg,2631,0,0,482,0,0,2435,2631,100.0,Danish <dansk@dansk-gruppen.dk>
+gkrellm,3332,0,452,504,0,47,3199,3784,88.05496828752642,n/a
+glabels,2854,0,0,871,0,0,2419,2854,100.0,Danish <dansk@dansk-gruppen.dk>
+glade,8629,0,0,1921,0,0,7845,8629,100.0,Danish <dansk@dansk-gruppen.dk>
+glib-networking,460,0,0,68,0,0,412,460,100.0,Danish <dansk@dansk-gruppen.dk>
+glib2,7922,0,0,1255,0,0,7661,7922,100.0,Danish <dansk@dansk-gruppen.dk>
+glibc,6109,0,0,1142,0,0,5886,6109,100.0,Danish <dansk@dansk-gruppen.dk>
+gliv,991,9,34,254,3,3,928,1034,95.84139264990328,Danish <dansk@dansk-gruppen.dk>
+gmult,40,0,10,27,0,4,65,50,80.0,Danish <dansk@dansk-gruppen.dk>
+gnome-2048,417,0,0,78,0,0,403,417,100.0,Danish
+gnome-abrt,221,0,0,55,0,0,216,221,100.0,Danish <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/da/>
+gnome-applets,7734,0,4,993,0,1,6968,7738,99.94830705608685,Danish <dansk@dansk-gruppen.dk>
+gnome-bluetooth,318,0,0,92,0,0,291,318,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-bluetooth3.34,373,0,0,110,0,0,344,373,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-boxes,4042,0,0,482,0,0,3748,4042,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-break-timer,461,75,60,72,4,7,468,596,77.3489932885906,Danish <dansk@dansk-gruppen.dk>
+gnome-builder,5587,0,0,1415,0,0,5120,5587,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-calculator,3869,0,0,987,0,0,3556,3869,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-calendar,1009,0,0,279,0,0,991,1009,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-characters,161,0,0,56,0,0,162,161,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-chess,2555,0,0,335,0,0,2350,2555,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-clocks,1349,0,0,234,0,0,1337,1349,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-color-manager,2330,0,0,371,0,0,2054,2330,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-commander,10955,0,0,1950,0,0,9187,10955,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-connections,666,0,0,120,0,0,626,666,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-console,318,0,0,95,0,0,310,318,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-contacts,764,0,0,220,0,0,697,764,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-control-center,9264,9,6,2787,5,1,8436,9279,99.83834464920788,Danish <dansk@dansk-gruppen.dk>
+gnome-desktop3,193,0,0,40,0,0,188,193,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-dictionary,1904,0,0,265,0,0,1767,1904,100.0,Dansk-gruppen <dansk@dansk-gruppen.dk>
+gnome-directory-thumbnailer,85,0,0,12,0,0,85,85,100.0,Danish
+gnome-disk-utility,4077,0,0,751,0,0,3822,4077,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-do,473,0,139,119,0,25,465,612,77.2875816993464,Danish <da@li.org>
+gnome-doc-utils,251,0,0,101,0,0,128,251,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-extensions-app,3254,0,0,682,0,0,3123,3254,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-firmware,602,0,0,160,0,0,601,602,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-flashback,1472,0,0,271,0,0,1379,1472,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-font-viewer,539,0,0,209,0,0,512,539,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-icon-theme,43,0,0,38,0,0,43,43,100.0,Danish <dansk@klid.dk>
+gnome-initial-setup,896,0,0,133,0,0,822,896,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-keyring,469,0,0,98,0,0,447,469,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-klotski,1396,0,0,136,0,0,1328,1396,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-logs,672,0,0,150,0,0,625,672,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-mahjongg,1615,0,0,192,0,0,1558,1615,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-maps,1445,0,0,429,0,0,1377,1445,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-menus,70,0,0,27,0,0,61,70,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-mime-data,887,0,0,362,0,0,519,887,100.0,Danish <dansk@klid.dk>
+gnome-mines,1444,0,0,169,0,0,1385,1444,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-multi-writer,382,0,0,57,0,0,342,382,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-music,872,0,0,190,0,0,870,872,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-nettool,1178,0,0,241,0,0,1080,1178,100.0,dansk <dansk@dansk-gruppen.dk>
+gnome-network-displays,229,0,0,35,0,0,191,229,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-nibbles,1641,0,0,218,0,0,1519,1641,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-online-accounts,695,0,0,152,0,0,668,695,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-online-accounts-gtk,36,0,0,14,0,0,35,36,100.0,Danish <da@li.org>
+gnome-packagekit,3500,0,0,553,0,0,3169,3500,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-panel,4953,0,0,679,0,0,4456,4953,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-phone-manager,559,0,0,97,0,0,501,559,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-photos,1029,0,0,266,0,0,999,1029,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-power-manager,430,0,0,123,0,0,359,430,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-radio,335,0,0,55,0,0,332,335,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-remote-desktop,799,0,0,40,0,0,640,799,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-robots,1715,0,0,256,0,0,1683,1715,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-screenshot,417,0,0,64,0,0,419,417,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-session,429,0,0,68,0,0,409,429,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-settings-daemon,3883,0,0,538,0,0,3824,3883,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-shell,3254,0,0,682,0,0,3123,3254,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-shell-extension-blur-my-shell,35,0,666,3,0,101,31,701,4.9928673323823105,Danish <https://hosted.weblate.org/projects/blur-my-shell/blur-my-shell/da/>
+gnome-shell-extension-bubblemail,0,0,133,0,0,37,0,133,0.0,none
+gnome-shell-extension-gsconnect,533,0,289,216,0,42,528,822,64.84184914841849,Danish
+gnome-shell-extension-openweather,25,134,691,23,55,187,26,850,2.941176470588235,Danish <>
+gnome-shell-extensions,304,0,0,71,0,0,289,304,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-shell-frippery,22,0,0,8,0,0,23,22,100.0,Dansk <dansk@klid.dk>
+gnome-software,5433,0,0,1057,0,0,5055,5433,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-sound-recorder,271,0,0,78,0,0,250,271,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-subtitles,1664,0,0,377,0,0,1568,1664,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-sudoku,1941,0,0,211,0,0,1862,1941,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-system-log,420,0,0,66,0,0,402,420,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-system-monitor,6383,0,0,612,0,0,5866,6383,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-taquin,1373,0,0,211,0,0,1303,1373,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-terminal,8054,0,0,1048,0,0,7211,8054,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-tetravex,1712,0,0,229,0,0,1762,1712,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-text-editor,1779,0,0,363,0,0,1638,1779,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-themes-extra,15,0,0,6,0,0,16,15,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-todo,737,0,0,157,0,0,727,737,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-tour,138,0,0,23,0,0,145,138,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-tweaks,433,0,0,125,0,0,416,433,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-usage,380,0,0,49,0,0,343,380,100.0,Danish
+gnome-user-docs,58802,0,0,3371,0,0,54891,58802,100.0,Danish
+gnome-user-share,49,0,0,10,0,0,41,49,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-vfs2,1519,0,0,305,0,0,1258,1519,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-video-effects,256,0,0,68,0,0,210,256,100.0,Danish <dansk@dansk-gruppen.dk>
+gnome-weather,235,0,0,48,0,0,251,235,100.0,Danish <dansk@dansk-gruppen.dk>
+gnote,3624,1475,2335,686,83,132,3565,7434,48.74899112187248,Danish <dansk@dansk-gruppen.dk>
+gnubg,10635,4631,4229,2232,869,465,9572,19495,54.552449345986155,American English <kde-i18n-doc@lists.kde.org>
+gnubik,266,13,0,82,1,0,261,279,95.3405017921147,Danish <dansk@dansk-gruppen.dk>
+gnucash,16707,7967,14923,3413,1400,1068,14750,39597,42.192590347753615,Danish <dansk@dansk-gruppen.dk>
+gnuchess,961,149,25,123,19,5,905,1135,84.66960352422907,Danish <dansk@dansk-gruppen.dk>
+gnumeric,9292,4038,25102,2619,812,2605,8739,38432,24.177768526228142,Danish <dansk@dansk-gruppen.dk>
+gnupg1,8598,36,6,1290,6,1,8120,8640,99.51388888888889,Danish <debian-l10n-danish@lists.debian.org>
+gnupg2,7604,4165,1957,1298,663,251,7204,13726,55.39851376948857,Danish <debian-l10n-danish@lists.debian.org>
+godot,50,0,0,25,0,0,51,50,100.0,Danish <https://hosted.weblate.org/projects/godot-engine/godot/da/>
+godot3,3210,6298,13084,860,2275,2960,3204,22592,14.20856940509915,Danish <https://hosted.weblate.org/projects/godot-engine/godot/da/>
+goffice,6605,0,0,2117,0,0,5784,6605,100.0,Danish <dansk@dansk-gruppen.dk>
+goodvibes,338,6,0,119,2,0,307,344,98.25581395348837,Danish <https://hosted.weblate.org/projects/goodvibes/translations/da/>
+gparted,2801,0,0,480,0,0,2647,2801,100.0,Danish <dansk@dansk-gruppen.dk>
+gpaste,848,32,601,115,6,128,811,1481,57.25860904794058,Danish <https://hosted.weblate.org/projects/gpaste/gpaste/da/>
+gphoto2,1621,112,52,326,10,9,1535,1785,90.812324929972,Danish <dansk@dansk-gruppen.dk>
+gpicview,236,4,16,52,2,4,221,256,92.1875,"da_dk <vidarjb@gmail.com, chalze06@gmail.com>"
+gpodder,989,615,1032,285,192,191,944,2636,37.518968133535665,Danish (http://www.transifex.com/projects/p/gpodder/language/da/)
+gpredict,1389,0,4735,282,0,861,1334,6124,22.68125408229915,Danish <da@li.org>
+gramps,40701,0,0,7117,0,0,38494,40701,100.0,Danish <https://hosted.weblate.org/projects/gramps-project/gramps/da/>
+granatier,226,17,0,53,13,0,195,243,93.00411522633745,Danish <dansk@dansk-gruppen.dk>
+granite,228,8,262,76,4,38,225,498,45.78313253012048,Danish <https://l10n.elementary.io/projects/desktop/granite/da/>
+granite-7,98,10,261,42,5,39,94,369,26.558265582655828,Danish <https://l10n.elementary.io/projects/desktop/granite/da/>
+grantlee-editor,475,57,0,129,30,0,443,532,89.28571428571429,Danish <kde-i18n-doc@kde.org>
+grantleetheme,11,3,0,5,1,0,9,14,78.57142857142857,Danish <kde-i18n-doc@kde.org>
+grep,855,46,32,100,8,8,826,933,91.63987138263666,Danish <dansk@dansk-gruppen.dk>
+grilo,191,0,0,36,0,0,188,191,100.0,Danish <dansk@dansk-gruppen.dk>
+grilo-plugins,1844,0,0,186,0,0,1756,1844,100.0,Danish <dansk@dansk-gruppen.dk>
+grip,1097,0,0,279,0,0,1024,1097,100.0,Danish <dansk@dansk-gruppen.dk>
+grisbi,235,3362,11708,128,939,1590,201,15305,1.5354459327017316,
+grub2,6834,396,1065,1285,88,155,6359,8295,82.3869801084991,Danish <dansk@dansk-gruppen.dk>
+gscan2pdf,1715,0,125,491,0,15,1617,1840,93.20652173913044,Danish <dansk@klid.dk>
+gsettings-desktop-schemas,7201,0,0,634,0,0,6328,7201,100.0,Danish <dansk@dansk-gruppen.dk>
+gshutdown,391,101,0,90,11,0,319,492,79.47154471544715,
+gspell,76,0,0,31,0,0,76,76,100.0,Danish <dansk@dansk-gruppen.dk>
+gstreamer1,2069,55,99,373,8,10,1929,2223,93.07242465137202,Danish <dansk@dansk-gruppen.dk>
+gstreamer1-plugins-bad-free,197,0,0,29,0,0,175,197,100.0,Danish <dansk@dansk-gruppen.dk>
+gstreamer1-plugins-base,954,47,79,196,11,16,822,1080,88.33333333333333,Danish <dansk@dansk-gruppen.dk>
+gstreamer1-plugins-good,777,37,11,95,6,3,730,825,94.18181818181817,Danish <dansk@dansk-gruppen.dk>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,69,80,100.0,Danish <dansk@dansk-gruppen.dk>
+gthumb,3608,0,0,1200,0,0,3348,3608,100.0,Danish <dansk@dansk-gruppen.dk>
+gtk+,202,0,0,105,0,0,183,202,100.0,Danish <dansk@klid.dk>
+gtk-murrine-engine,134,0,0,46,0,0,114,134,100.0,Danish <dansk@dansk-gruppen.dk>
+gtk-vnc,8,0,0,3,0,0,7,8,100.0,Danish <dansk@dansk-gruppen.dk>
+gtk2,12381,0,0,2582,0,0,10550,12381,100.0,Danish <dansk@dansk-gruppen.dk>
+gtk2-engines,119,0,0,47,0,0,99,119,100.0,Danish <dansk@dansk-gruppen.dk>
+gtk3,16726,0,0,3938,0,0,14242,16726,100.0,Danish <dansk@dansk-gruppen.dk>
+gtk4,4758,0,0,1630,0,0,4488,4758,100.0,Danish <dansk@dansk-gruppen.dk>
+gtkhash,213,0,0,63,0,0,197,213,100.0,Danish <https://hosted.weblate.org/projects/gtkhash/translations/da/>
+gtkhtml3,488,0,0,310,0,0,436,488,100.0,Danish <dansk@dansk-gruppen.dk>
+gtksourceview2,1413,0,0,538,0,0,1197,1413,100.0,Danish <dansk@dansk-gruppen.dk>
+gtksourceview3,320,2,0,105,1,0,292,322,99.37888198757764,Danish <dansk@dansk-gruppen.dk>
+gtksourceview4,308,0,0,94,0,0,278,308,100.0,Danish <dansk@dansk-gruppen.dk>
+gtksourceview5,371,0,0,112,0,0,340,371,100.0,Danish <dansk@dansk-gruppen.dk>
+gtkspell,15,0,0,6,0,0,14,15,100.0,Danish <dansk@dansk-gruppen.dk>
+gtkspell3,16,0,0,7,0,0,15,16,100.0,Danish <dansk@dansk-gruppen.dk>
+gtranslator,1200,0,0,266,0,0,1142,1200,100.0,Danish <dansk@dansk-gruppen.dk>
+guayadeque,3287,73,58,991,15,15,2885,3418,96.16734932709187,Danish (http://www.transifex.com/anonbeat/guayadeque/language/da/)
+gucharmap,1478,0,0,510,0,0,1283,1478,100.0,Danish <dansk@dansk-gruppen.dk>
+gummi,142,174,477,92,65,109,137,793,17.90668348045397,Jack Olsen jackolsendk@gmail.com
+gupnp-tools,395,0,0,128,0,0,324,395,100.0,Danish <dansk@dansk-gruppen.dk>
+gutenprint,11476,4028,1000,3297,1316,277,10989,16504,69.53465826466311,Danish <dansk@dansk-gruppen.dk>
+guvcview,124,39,889,62,17,336,126,1052,11.787072243346007,Danish <da@li.org>
+gvfs,2270,0,0,422,0,0,2166,2270,100.0,Danish <dansk@dansk-gruppen.dk>
+gweled,157,0,60,42,0,5,157,217,72.35023041474655,Danish <da@li.org>
+gwenview,1959,116,0,452,4,0,1867,2075,94.40963855421687,Danish <kde-i18n-doc@kde.org>
+hardinfo2,3409,0,979,937,0,384,2907,4388,77.68915223336373,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+heaptrack,816,277,312,134,32,44,751,1405,58.07829181494662,Danish
+hello,50,84,110,16,10,20,62,244,20.491803278688526,Danish <dansk@dansk-gruppen.dk>
+help2man,570,0,0,49,0,0,503,570,100.0,Danish <dansk@dansk-gruppen.dk>
+hexchat,5971,0,0,1446,0,0,5533,5971,100.0,Danish (http://www.transifex.com/hexchat/hexchat/language/da/)
+hitori,929,0,0,106,0,0,948,929,100.0,Danish <dansk@dansk-gruppen.dk>
+homebank,2971,12,180,927,4,66,2818,3163,93.92981346822637,Danish <da@li.org>
+hugin,7754,1434,1022,1439,248,113,6904,10210,75.94515181194907,Danish <dansk@dansk-gruppen.dk>
+hunspell,592,21,0,78,1,0,561,613,96.5742251223491,Danish <https://hosted.weblate.org/projects/hunspell/translations/da/>
+iagno,801,0,0,149,0,0,814,801,100.0,Danish <dansk@dansk-gruppen.dk>
+ibus,2596,0,0,602,0,0,2179,2596,100.0,Danish <https://translate.fedoraproject.org/projects/ibus/ibus/da/>
+icewm,2235,4,261,508,3,14,2089,2500,89.4,Danish <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/da/>
+ikiwiki,6014,156,7588,713,32,343,5752,13758,43.71274894606774,None
+im-chooser,211,0,51,49,0,9,183,262,80.53435114503816,Danish <https://translate.fedoraproject.org/projects/im-chooser/master/da/>
+imsettings,363,10,127,70,2,20,303,500,72.6,Danish (http://www.transifex.net/projects/p/imsettings/team/da/)
+incidenceeditor,2058,136,30,379,35,9,1816,2224,92.53597122302159,Danish <kde-i18n-doc@kde.org>
+indent,247,14,0,49,3,0,240,261,94.6360153256705,Danish <dansk@dansk-gruppen.dk>
+initial-setup,106,0,0,20,0,0,91,106,100.0,Danish (http://www.transifex.com/projects/p/initial-setup/language/da/)
+initscripts,1032,79,51,149,7,8,997,1162,88.81239242685027,Danish <https://translate.fedoraproject.org/projects/fedora-sysv/initscripts/da/>
+inkscape,9680,4531,35357,2905,1577,5946,8884,49568,19.528728211749517,Danish <dansk@dansk-gruppen.dk>
+insight,10087,0,403,1577,0,55,9450,10490,96.1582459485224,Danish <dansk@dansk-gruppen.dk>
+iso-codes,7506,8382,7921,4974,5967,4697,7005,23809,31.525893569658532,Danish <dansk@dansk-gruppen.dk>
+isoimagewriter,460,0,0,81,0,0,389,460,100.0,Danish <kde-i18n-doc@kde.org>
+isomaster,674,0,0,107,0,0,687,674,100.0,Danish < >
+jmol,2687,169,310,918,44,59,2524,3166,84.8704990524321,Danish <da@li.org>
+jpilot,2321,440,313,660,53,50,2233,3074,75.50422901756669,Danish <dansk@dansk-gruppen.dk>
+json-glib,307,0,0,47,0,0,275,307,100.0,Danish <dansk@dansk-gruppen.dk>
+juk,1414,19,2,335,2,1,1267,1435,98.53658536585365,Danish <kde-i18n-doc@kde.org>
+jwm,352,27,18,95,7,3,342,397,88.66498740554157,Danish
+k3b,20077,43,25,2496,13,10,17906,20145,99.66244725738397,Danish <kde-i18n-doc@kde.org>
+kBuild,922,298,170,130,40,15,897,1390,66.33093525179856,Danish <dansk@dansk-gruppen.dk>
+kaccounts-integration,142,8,0,25,2,0,122,150,94.66666666666667,Danish <kde-i18n-doc@kde.org>
+kaccounts-providers,58,5,14,18,3,8,50,77,75.32467532467533,Danish <kde-i18n-doc@kde.org>
+kactivitymanagerd,15,0,0,7,0,0,14,15,100.0,Danish <kde-i18n-doc@kde.org>
+kaddressbook,1045,73,32,207,18,15,898,1150,90.8695652173913,Danish <kde-i18n-doc@kde.org>
+kaffeine,1324,19,50,469,8,20,1199,1393,95.04666188083274,Danish <kde-i18n-doc@kde.org>
+kajongg,2177,186,136,462,44,13,2065,2499,87.11484593837535,Danish
+kalarm,6282,1593,687,878,301,74,5687,8562,73.37070777855641,Danish <kde-i18n-doc@kde.org>
+kalgebra,141,23,2,73,7,1,134,166,84.93975903614458,Danish <kde-i18n-doc@kde.org>
+kalk,64,3,2,38,1,2,60,69,92.7536231884058,Danish <kde-i18n-doc@kde.org>
+kalzium,7229,1570,294,1018,244,35,6368,9093,79.50071483558781,Danish <kde-i18n-doc@kde.org>
+kamera,272,0,0,37,0,0,242,272,100.0,Danish <dansk@dansk-gruppen.dk>
+kamoso,140,5,0,40,2,0,133,145,96.55172413793103,Danish <kde-i18n-doc@kde.org>
+kanagram,292,175,60,102,23,19,269,527,55.40796963946869,Danish <kde-i18n-doc@kde.org>
+kapman,107,8,0,31,5,0,103,115,93.04347826086956,Danish <dansk@dansk-gruppen.dk>
+kapow,102,0,0,4,0,0,105,102,100.0,Danish (http://www.transifex.com/gottcode/kapow/language/da/)
+kapptemplate,107,77,42,20,14,18,92,226,47.34513274336283,Danish <dansk@dansk-gruppen.dk>
+kasts,1319,22,19,381,10,4,1247,1360,96.98529411764706,Danish <kde-i18n-doc@kde.org>
+kate,3307,1259,3750,845,286,726,3063,8316,39.76671476671477,Danish <kde-i18n-doc@kde.org>
+katomic,145,39,0,38,21,0,137,184,78.80434782608695,Danish <dansk@dansk-gruppen.dk>
+kbackup,129,9,556,67,3,71,126,694,18.587896253602306,Danish <kde-i18n-doc@kde.org>
+kbd,433,1235,810,76,164,102,434,2478,17.473769168684424,Danish <dansk@dansk-gruppen.dk>
+kbibtex,175,181,2120,128,110,495,172,2476,7.0678513731825525,Danish <kde-i18n-doc@kde.org>
+kblackbox,1312,52,0,79,23,0,1203,1364,96.18768328445748,Danish <dansk@dansk-gruppen.dk>
+kblocks,132,25,0,28,9,0,124,157,84.07643312101911,Danish <kde-i18n-doc@kde.org>
+kbounce,152,4,0,40,3,0,148,156,97.43589743589743,Danish <dansk@dansk-gruppen.dk>
+kbrickbuster,140,18,0,34,8,0,137,158,88.60759493670885,Danish <kde-i18n-doc@kde.org>
+kbruch,957,388,2,148,47,3,861,1347,71.0467706013363,Danish <kde-i18n-doc@kde.org>
+kcachegrind,1131,2770,154,180,397,13,1037,4055,27.891491985203455,Danish <dansk@dansk-gruppen.dk>
+kcalc,850,212,49,302,50,40,750,1111,76.5076507650765,Danish <kde-i18n-doc@kde.org>
+kcalutils,1397,22,20,377,11,6,1359,1439,97.0813064628214,Danish <dansk@dansk-gruppen.dk>
+kcharselect,88,0,4,34,0,2,83,92,95.65217391304348,Danish <dansk@dansk-gruppen.dk>
+kcm_systemd,165,49,1171,61,14,93,150,1385,11.913357400722022,Danish <rthomsen6@gmail.com>
+kcm_wacomtablet,1038,2,9,238,1,1,912,1049,98.95138226882746,Danish <kde-i18n-doc@kde.org>
+kcolorchooser,29,0,0,10,0,0,27,29,100.0,Danish <dansk@dansk-gruppen.dk>
+kcoloredit,278,0,0,95,0,0,262,278,100.0,Danish <dansk@dansk-gruppen.dk>
+kcron,218,164,54,97,78,16,200,436,50.0,Danish <dansk@dansk-gruppen.dk>
+kdbg,60,81,761,31,33,140,68,902,6.651884700665188,da <LL@li.org>
+kde-cli-tools,1414,230,50,162,15,4,1272,1694,83.47107438016529,Danish <kde-i18n-doc@kde.org>
+kde-connect,1362,43,78,369,15,29,1353,1483,91.84086311530682,Danish <kde-i18n-doc@kde.org>
+kde-dev-utils,63,23,10,25,5,4,62,96,65.625,Danish <kde-i18n-doc@kde.org>
+kde-l10n,103543,288,1329,21011,19,146,94803,105160,98.4623430962343,Danish <dansk@dansk-gruppen.dk>
+kde-partitionmanager,2177,29,83,509,13,14,1960,2289,95.10703363914374,Danish <kde-i18n-doc@kde.org>
+kde-style-breeze,266,0,0,101,0,0,250,266,100.0,Danish <kde-i18n-doc@kde.org>
+kdebugsettings,302,0,0,82,0,0,274,302,100.0,Danish <kde-i18n-doc@kde.org>
+kdecoration,16,10,13,10,2,3,16,39,41.02564102564102,Danish <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,878,0,29,106,0,3,795,907,96.8026460859978,Danish <kde-i18n-doc@kde.org>
+kdenlive,7124,6745,14815,1970,2253,1596,6476,28684,24.836145586389623,Danish
+kdepim-addons,3647,178,6,680,40,2,3120,3831,95.19707648133647,Danish <kde-i18n-doc@kde.org>
+kdepim-runtime,5899,80,1168,926,25,130,5481,7147,82.53812788582621,Danish <dansk@dansk-gruppen.dk>
+kdeplasma-addons,1847,0,32,608,0,10,1775,1879,98.2969664715274,Danish <kde-i18n-doc@kde.org>
+kdesdk-kioslaves,84,0,0,17,0,0,81,84,100.0,Danish <kde-i18n-doc@lists.kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Danish <dansk@dansk-gruppen.dk>
+kdesvn,273,16,4648,120,2,792,252,4937,5.529673891026939,Danish
+kdevelop,4420,5739,2137,850,1255,356,4092,12296,35.94664931685101,Danish <kde-i18n-doc@kde.org>
+kdevelop-php,297,191,47,50,18,6,300,535,55.51401869158879,Danish <kde-i18n-doc@kde.org>
+kdf,168,6,3,67,3,1,159,177,94.91525423728814,Danish <dansk@dansk-gruppen.dk>
+kdiagram,1,0,13,1,0,9,1,14,7.142857142857142,Danish <kde-i18n-doc@kde.org>
+kdiagram2,1,0,13,1,0,9,1,14,7.142857142857142,Danish <kde-i18n-doc@kde.org>
+kdialog,298,105,0,66,12,0,252,403,73.94540942928039,Danish <kde-i18n-doc@kde.org>
+kdiamond,109,15,0,27,6,0,116,124,87.90322580645162,Danish <dansk@dansk-gruppen.dk>
+kdiff3,1447,1718,217,338,232,42,1419,3382,42.78533412182141,Danish <dansk@dansk-gruppen.dk>
+kdissert,2027,0,0,282,0,0,1920,2027,100.0,Danish <dansk@klid.dk>
+kdnssd,30,0,0,7,0,0,23,30,100.0,Danish
+kdump-anaconda-addon,51,11,132,2,3,17,52,194,26.288659793814436,<da@li.org>
+keditbookmarks,462,8,0,131,2,0,408,470,98.29787234042553,Danish <kde-i18n-doc@kde.org>
+kexi,3522,3393,450,1032,410,52,3218,7365,47.82077393075356,Danish <kde-i18n-doc@kde.org>
+kf5-akonadi-calendar,1752,100,296,262,37,47,1612,2148,81.56424581005587,Danish <dansk@dansk-gruppen.dk>
+kf5-akonadi-contacts,1088,22,6,263,10,3,906,1116,97.4910394265233,Danish <dansk@dansk-gruppen.dk>
+kf5-akonadi-mime,569,2,9,111,1,2,526,580,98.10344827586206,Danish <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Danish <dansk@dansk-gruppen.dk>
+kf5-akonadi-search,48,0,19,11,0,7,49,67,71.64179104477611,Danish <kde-i18n-doc@kde.org>
+kf5-akonadi-server,2445,105,46,405,33,3,2206,2596,94.18335901386749,Danish <dansk@dansk-gruppen.dk>
+kf5-baloo,834,7,8,170,2,2,736,849,98.23321554770318,Danish <kde-i18n-doc@kde.org>
+kf5-calendarsupport,2331,415,33,342,42,7,2127,2779,83.87909319899244,Danish <kde-i18n-doc@kde.org>
+kf5-eventviews,2918,30,1,301,5,1,2534,2949,98.9487962021024,Danish <kde-i18n-doc@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,12,14,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,2161,24,23,403,11,6,1905,2208,97.8713768115942,Danish <kde-i18n-doc@kde.org>
+kf5-kauth,73,0,0,8,0,0,65,73,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kblog,243,0,0,27,0,0,216,243,100.0,Danish <dansk@dansk-gruppen.dk>
+kf5-kbookmarks,230,0,0,49,0,0,206,230,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,1397,20,20,377,10,6,1359,1437,97.21642310368824,Danish <dansk@dansk-gruppen.dk>
+kf5-kcmutils,248,15,3,28,8,2,212,266,93.23308270676691,Danish <kde-i18n-doc@kde.org>
+kf5-kcodecs,370,0,0,53,0,0,312,370,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,15,18,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kconfig,260,19,10,101,2,1,245,289,89.96539792387543,Danish <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,325,12,5,120,4,1,316,342,95.02923976608187,Danish <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,136,177,100.0,Danish <dansk@dansk-gruppen.dk>
+kf5-kcoreaddons,337,44,1,124,7,1,330,382,88.21989528795811,Danish <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,44,48,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kdeclarative,107,28,26,15,5,5,95,161,66.45962732919256,Danish <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4813,319,221,2364,105,75,4551,5353,89.91219876704652,Danish <kde-i18n-doc@kde.org>
+kf5-knotifications,20,1,0,7,1,0,16,21,95.23809523809523,Danish <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,110,129,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,6,4,100.0,Danish <dansk@dansk-gruppen.dk>
+kf5-kpackage,449,0,3,72,0,1,397,452,99.33628318584071,Danish <kde-i18n-doc@kde.org>
+kf5-kparts,123,8,7,28,1,1,113,138,89.13043478260869,Danish <kde-i18n-doc@kde.org>
+kf5-kpeople,13,0,0,8,0,0,14,13,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,375,1,6,160,1,6,341,382,98.1675392670157,Danish <dansk@dansk-gruppen.dk>
+kf5-kpty,15,0,0,4,0,0,17,15,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,100,100,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kservice,173,0,0,28,0,0,156,173,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-ktexteditor,7903,673,657,1079,122,63,7101,9233,85.59514783927217,Danish <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,473,0,0,130,0,0,444,473,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-ktnef,355,0,0,143,0,0,282,355,100.0,Danish <dansk@dansk-gruppen.dk>
+kf5-kunitconversion,5096,483,178,2256,162,65,4832,5757,88.5183255167622,Danish <kde-i18n-doc@kde.org>
+kf5-kwallet,1460,0,0,110,0,0,1375,1460,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1250,29,14,446,14,3,1154,1293,96.67440061871616,Danish <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1514,38,22,214,12,4,1408,1574,96.18805590851333,Danish <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,11,13,100.0,Danish <dansk@dansk-gruppen.dk>
+kf5-libgravatar,23,0,0,10,0,0,22,23,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-libkcddb,400,0,0,211,0,0,377,400,100.0,Danish <dansk@dansk-gruppen.dk>
+kf5-libkdepim,35,0,0,10,0,0,35,35,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-libkgapi,297,59,22,67,14,4,295,378,78.57142857142857,Danish <kde-i18n-doc@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,121,139,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-libkleo,717,340,1366,197,86,147,648,2423,29.591415600495253,Danish <dansk@dansk-gruppen.dk>
+kf5-libksieve,2688,257,177,438,66,33,2436,3122,86.09865470852019,Danish <kde-i18n-doc@kde.org>
+kf5-libktorrent,465,0,0,105,0,0,495,465,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-mailcommon,2656,76,23,469,22,7,2487,2755,96.4065335753176,Danish <kde-i18n-doc@kde.org>
+kf5-mailimporter,1408,0,0,127,0,0,1266,1408,100.0,Danish <kde-i18n-doc@kde.org>
+kf5-messagelib,7243,261,329,1282,64,25,6765,7833,92.46776458572705,Danish <kde-i18n-doc@kde.org>
+kf5-pimcommon,799,23,8,196,9,3,721,830,96.26506024096385,Danish <kde-i18n-doc@kde.org>
+kf5-plasma,336,9,17,91,3,11,316,362,92.81767955801105,Danish <kde-i18n-doc@kde.org>
+kf5-purpose,265,2,26,66,1,4,259,293,90.44368600682594,Danish <kde-i18n-doc@kde.org>
+kf5-solid,551,17,20,153,4,2,478,588,93.70748299319727,Danish <kde-i18n-doc@kde.org>
+kf5-sonnet,667,16,0,73,3,0,659,683,97.65739385065886,Danish <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,605,10,32,356,6,21,568,647,93.50850077279753,Danish <kde-i18n-doc@kde.org>
+kf6-baloo,831,10,17,168,4,4,731,858,96.85314685314685,Danish <kde-i18n-doc@kde.org>
+kf6-kauth,73,0,0,8,0,0,65,73,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kbookmarks,159,9,11,33,3,2,141,179,88.8268156424581,Danish <kde-i18n-doc@kde.org>
+kf6-kcmutils,121,0,2,25,0,1,120,123,98.3739837398374,Danish <kde-i18n-doc@kde.org>
+kf6-kcodecs,370,0,0,53,0,0,312,370,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kcompletion,18,0,0,11,0,0,15,18,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kconfig,525,0,25,202,0,2,504,550,95.45454545454545,Danish <kde-i18n-doc@kde.org>
+kf6-kconfigwidgets,312,0,0,117,0,0,308,312,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kcontacts,168,0,0,100,0,0,127,168,100.0,Danish <dansk@dansk-gruppen.dk>
+kf6-kcoreaddons,367,42,43,130,14,12,362,452,81.19469026548673,Danish <kde-i18n-doc@kde.org>
+kf6-kdbusaddons,48,0,0,6,0,0,44,48,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kdeclarative,81,46,42,7,8,6,67,169,47.928994082840234,Danish <kde-i18n-doc@kde.org>
+kf6-kdesu,19,0,0,7,0,0,19,19,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kdnssd,3,0,0,3,0,0,3,3,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kdoctools,8,0,0,4,0,0,8,8,100.0,Danish <dansk@dansk-gruppen.dk>
+kf6-kfilemetadata,286,16,5,130,6,3,273,307,93.15960912052117,Danish <kde-i18n-doc@kde.org>
+kf6-kglobalaccel,22,12,0,4,1,0,22,34,64.70588235294117,Danish <kde-i18n-doc@kde.org>
+kf6-kholidays,139,3,8,90,3,4,124,150,92.66666666666666,Danish <kde-i18n-doc@kde.org>
+kf6-ki18n,124,0,0,110,0,0,125,124,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kiconthemes,39,3,4,18,2,2,37,46,84.78260869565217,Danish <kde-i18n-doc@kde.org>
+kf6-kio,8438,47,55,1112,6,3,7908,8540,98.8056206088993,Danish <kde-i18n-doc@kde.org>
+kf6-kirigami,89,2,4,44,2,4,89,95,93.6842105263158,Danish <kde-i18n-doc@kde.org>
+kf6-kitemviews,5,1,0,2,1,0,6,6,83.33333333333334,Danish <kde-i18n-doc@kde.org>
+kf6-kjobwidgets,133,3,0,38,2,0,138,136,97.79411764705883,Danish <kde-i18n-doc@kde.org>
+kf6-knewstuff,730,243,65,92,34,5,667,1038,70.32755298651252,Danish <kde-i18n-doc@kde.org>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,Danish <kde-i18n-doc@kde.org>
+kf6-knotifyconfig,19,0,0,7,0,0,17,19,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kpackage,302,28,8,48,8,2,287,338,89.3491124260355,Danish <kde-i18n-doc@kde.org>
+kf6-kparts,42,8,7,9,1,1,43,57,73.68421052631578,Danish <kde-i18n-doc@kde.org>
+kf6-kpeople,13,0,2,8,0,1,14,15,86.66666666666667,Danish <kde-i18n-doc@kde.org>
+kf6-kpty,15,0,0,4,0,0,17,15,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kservice,45,0,0,12,0,0,41,45,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-ktexteditor,7639,1053,771,1044,200,75,6850,9463,80.72492866955511,Danish <kde-i18n-doc@kde.org>
+kf6-ktextwidgets,466,7,0,126,4,0,439,473,98.5200845665962,Danish <kde-i18n-doc@kde.org>
+kf6-kunitconversion,5092,545,212,2252,177,75,4828,5849,87.05761668661309,Danish <kde-i18n-doc@kde.org>
+kf6-kuserfeedback,1157,0,0,270,0,0,1044,1157,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kwallet,1456,5,0,109,1,0,1371,1461,99.65776865160849,Danish <kde-i18n-doc@kde.org>
+kf6-kwidgetsaddons,1277,0,0,466,0,0,1190,1277,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Danish <kde-i18n-doc@kde.org>
+kf6-kxmlgui,1226,31,17,184,9,3,1139,1274,96.23233908948194,Danish <kde-i18n-doc@kde.org>
+kf6-purpose,286,0,3,69,0,1,277,289,98.96193771626297,Danish <kde-i18n-doc@kde.org>
+kf6-solid,512,53,40,148,8,10,446,605,84.62809917355372,Danish <kde-i18n-doc@kde.org>
+kf6-sonnet,655,24,5,70,6,1,649,684,95.76023391812866,Danish <kde-i18n-doc@kde.org>
+kf6-syntax-highlighting,518,100,84,348,21,38,486,702,73.78917378917379,Danish <kde-i18n-doc@kde.org>
+kfind,417,85,15,83,32,2,387,517,80.65764023210832,Danish <kde-i18n-doc@kde.org>
+kfloppy,641,0,0,100,0,0,617,641,100.0,Danish <dansk@dansk-gruppen.dk>
+kfourinline,292,86,6,115,37,2,253,384,76.04166666666666,Danish <kde-i18n-doc@kde.org>
+kgamma,38,0,0,15,0,0,30,38,100.0,Danish <dansk@dansk-gruppen.dk>
+kgeography,9355,482,206,6850,276,114,9135,10043,93.14945733346609,Danish <kde-i18n-doc@kde.org>
+kget,2726,23,18,722,9,11,2504,2767,98.51825081315503,Danish <kde-i18n-doc@kde.org>
+kgoldrunner,22467,1188,4392,681,257,79,21588,28047,80.10482404535244,Danish
+kgpg,4905,7,0,682,5,0,4377,4912,99.85749185667753,Danish <kde-i18n-doc@kde.org>
+kgrab,370,0,0,53,0,0,323,370,100.0,Danish <dansk@dansk-gruppen.dk>
+kgraphviewer,844,324,21,162,41,9,746,1189,70.98402018502944,Danish <kde-i18n-doc@kde.org>
+khangman,429,12,8,106,5,5,332,449,95.54565701559021,Danish <kde-i18n-doc@kde.org>
+khelpcenter,207,7,7,80,2,2,181,221,93.66515837104072,Danish <kde-i18n-doc@kde.org>
+kicad,19923,18973,10143,4582,3766,857,18232,49039,40.62684801892371,Danish <https://hosted.weblate.org/projects/kicad/v8/da/>
+kiconedit,726,0,0,155,0,0,659,726,100.0,Danish <dansk@dansk-gruppen.dk>
+kid3,3132,53,9,1372,22,5,2923,3194,98.05886036318097,Danish <kde-i18n-doc@kde.org>
+kidentitymanagement,167,22,71,18,9,27,149,260,64.23076923076924,Danish <dansk@dansk-gruppen.dk>
+kig,7179,268,10,1232,39,5,6653,7457,96.2719592329355,Danish <kde-i18n-doc@kde.org>
+kigo,437,71,0,104,29,0,390,508,86.0236220472441,Danish <kde-i18n-doc@kde.org>
+kile,12315,431,122,2110,55,11,10761,12868,95.70251787379546,Danish <kde-i18n-doc@kde.org>
+killbots,444,193,0,64,63,0,406,637,69.70172684458399,Danish <dansk@dansk-gruppen.dk>
+kimap,118,0,0,51,0,0,111,118,100.0,Danish <kde-i18n-doc@kde.org>
+kinfocenter,435,5,3,190,2,3,384,443,98.1941309255079,Danish <kde-i18n-doc@kde.org>
+kio-extras,2207,456,85,206,39,10,1996,2748,80.31295487627365,Danish <dansk@dansk-gruppen.dk>
+kio-extras-kf5,906,108,7,122,4,4,849,1021,88.73653281096963,Danish <dansk@dansk-gruppen.dk>
+kio-gdrive,65,3,10,16,1,2,65,78,83.33333333333334,Danish <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Danish <dansk@dansk-gruppen.dk>
+kirigami-gallery,27,9,946,12,5,123,27,982,2.74949083503055,Danish <kde-i18n-doc@kde.org>
+kiriki,107,38,0,31,20,0,105,145,73.79310344827587,Danish
+kiten,612,23,16,165,4,3,580,651,94.00921658986175,Danish <dansk@dansk-gruppen.dk>
+kitinerary,70,27,11,21,6,3,61,108,64.81481481481481,Danish <kde-i18n-doc@kde.org>
+kjots,629,22,0,124,10,0,564,651,96.62058371735792,Danish <kde-i18n-doc@kde.org>
+kjumpingcube,407,6,0,93,2,0,374,413,98.54721549636804,Danish <kde-i18n-doc@kde.org>
+klavaro,1888,0,5,230,0,1,1808,1893,99.73586899101954,Danish <dansk@dansk-gruppen.dk>
+kldap,187,19,9,52,7,3,162,215,86.9767441860465,Danish <dansk@dansk-gruppen.dk>
+kleopatra,5222,4634,3795,762,889,333,4859,13651,38.253607794300784,Danish
+klettres,420,10,10,79,2,4,378,440,95.45454545454545,Danish <dansk@dansk-gruppen.dk>
+klickety,159,19,0,51,11,0,136,178,89.32584269662921,Danish <dansk@dansk-gruppen.dk>
+klines,88,11,0,22,6,0,83,99,88.88888888888889,Danish <dansk@dansk-gruppen.dk>
+kmag,432,0,0,98,0,0,377,432,100.0,Danish
+kmahjongg,272,66,21,66,31,2,255,359,75.76601671309191,Danish <kde-i18n-doc@kde.org>
+kmail,6092,2454,748,890,538,95,5571,9294,65.54766516031847,Danish <kde-i18n-doc@kde.org>
+kmail-account-wizard,62,124,92,18,29,43,56,278,22.302158273381295,Danish <kde-i18n-doc@kde.org>
+kmailtransport,540,119,10,83,19,5,472,669,80.71748878923766,Danish <kde-i18n-doc@kde.org>
+kmenuedit,240,19,19,55,5,4,212,278,86.33093525179856,Danish <kde-i18n-doc@kde.org>
+kmid2,1022,0,0,333,0,0,902,1022,100.0,Danish <dansk@dansk-gruppen.dk>
+kmime,0,152,0,0,6,0,0,152,0.0,Danish <dansk@dansk-gruppen.dk>
+kmines,104,4,56,35,3,10,90,164,63.41463414634146,Danish <dansk@dansk-gruppen.dk>
+kmix,797,178,184,184,25,18,720,1159,68.76617773943055,Danish <kde-i18n-doc@kde.org>
+kmousetool,147,0,0,32,0,0,139,147,100.0,Danish <kde-i18n-doc@kde.org>
+kmouth,1474,0,0,202,0,0,1296,1474,100.0,Danish <kde-i18n-doc@kde.org>
+kmplayer,1248,1,0,370,1,0,1171,1249,99.919935948759,Danish <dansk@dansk-gruppen.dk>
+kmplot,2295,177,29,431,45,10,2068,2501,91.76329468212715,Danish <dansk@dansk-gruppen.dk>
+kmymoney,17012,2963,2076,2887,590,225,15469,22051,77.14842864269194,Danish <kde-i18n-doc@kde.org>
+knavalbattle,320,81,0,78,26,0,315,401,79.80049875311721,Danish <kde-i18n-doc@kde.org>
+knetwalk,196,23,17,39,13,4,179,236,83.05084745762711,Danish <dansk@dansk-gruppen.dk>
+knights,714,84,0,199,39,0,634,798,89.47368421052632,Danish <kde-i18n-doc@kde.org>
+knotes,731,50,6,231,7,3,690,787,92.8843710292249,Danish <kde-i18n-doc@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,7600,8417,100.0,Danish <dansk@klid.dk>
+koko,60,61,190,25,24,92,58,311,19.292604501607716,Danish <kde-i18n-doc@kde.org>
+kolf,210,194,1,70,79,1,198,405,51.85185185185185,Danish
+kollision,102,7,0,27,3,0,107,109,93.57798165137615,Danish <dansk@dansk-gruppen.dk>
+kolourpaint,2553,19,83,446,2,7,2386,2655,96.15819209039547,Danish <kde-i18n-doc@kde.org>
+kompare,526,887,0,72,128,0,496,1413,37.225760792639775,Danish <kde-i18n-doc@kde.org>
+kongress,129,15,40,46,6,15,126,184,70.1086956521739,Danish <kde-i18n-doc@kde.org>
+konqueror,6452,496,1476,958,88,183,5950,8424,76.59069325735992,Danish
+konquest,176,72,0,63,36,0,172,248,70.96774193548387,Danish <kde-i18n-doc@kde.org>
+konsole,2666,673,960,575,161,161,2426,4299,62.01442195859502,Danish <kde-i18n-doc@kde.org>
+konsole5,2728,480,788,592,114,134,2474,3996,68.26826826826827,Danish <kde-i18n-doc@kde.org>
+kontact,430,45,15,70,16,1,439,490,87.75510204081633,Danish <kde-i18n-doc@kde.org>
+kontactinterface,4,0,0,2,0,0,6,4,100.0,Danish <dansk@dansk-gruppen.dk>
+kontrast,252,43,32,19,21,6,214,327,77.06422018348624,Danish <kde-i18n-doc@kde.org>
+konversation,10004,297,97,1623,14,12,8959,10398,96.21080977110982,Danish <kde-i18n-doc@kde.org>
+kopete,17175,0,0,3295,0,0,15509,17175,100.0,Danish <dansk@klid.dk>
+korganizer,5029,1376,735,761,190,40,4472,7140,70.4341736694678,Danish <kde-i18n-doc@kde.org>
+kpartsplugin,58,5,27,14,2,5,52,90,64.44444444444444,Danish <dansk@dansk-gruppen.dk>
+kpat,323,137,129,88,62,63,316,589,54.83870967741935,Danish
+kphotoalbum,3123,3164,2756,542,348,218,2915,9043,34.53499944708614,Danish <kde-i18n-doc@kde.org>
+kpilot,7156,0,0,861,0,0,6427,7156,100.0,Danish <dansk@dansk-gruppen.dk>
+kpimtextedit,187,87,0,85,38,0,180,274,68.24817518248175,Danish <dansk@dansk-gruppen.dk>
+kpmcore,1269,1895,132,283,203,14,1128,3296,38.50121359223301,Danish
+krb5-auth-dialog,1798,0,0,357,0,0,1687,1798,100.0,Danish <dansk@dansk-gruppen.dk>
+krdc,943,61,188,221,21,54,854,1192,79.11073825503355,Danish <kde-i18n-doc@kde.org>
+krecipes,3646,0,0,765,0,0,3387,3646,100.0,Danish <kde-i18n-doc@kde.org>
+krename,2142,0,0,452,0,0,1960,2142,100.0,Danish <kde-i18n-doc@kde.org>
+kreport,455,0,0,193,0,0,396,455,100.0,Danish
+kreversi,261,56,87,74,32,27,248,404,64.60396039603961,Danish
+krfb,675,9,50,90,2,12,648,734,91.96185286103542,Danish <kde-i18n-doc@kde.org>
+krita,5292,13619,17075,2156,4829,1573,4830,35986,14.705718890679709,Danish <kde-i18n-doc@kde.org>
+kronometer,218,12,3,73,6,1,219,233,93.56223175965665,Danish <kde-i18n-doc@kde.org>
+kruler,158,0,0,44,0,0,128,158,100.0,Danish <dansk@dansk-gruppen.dk>
+krusader,7741,212,146,1704,35,22,7115,8099,95.57970119767873,Danish <kde-i18n-doc@kde.org>
+kscreen,558,22,34,97,5,7,498,614,90.87947882736157,Danish <kde-i18n-doc@kde.org>
+kscreenlocker,287,0,0,54,0,0,278,287,100.0,Danish <kde-i18n-doc@kde.org>
+kshisen,490,32,145,61,5,9,477,667,73.46326836581709,Danish <dansk@dansk-gruppen.dk>
+ksig,71,2,12,17,1,8,64,85,83.52941176470588,Danish <dansk@klid.dl>
+ksirk,4359,352,14,479,96,6,3865,4725,92.25396825396825,Danish
+ksnakeduel,173,70,0,36,20,0,160,243,71.19341563786008,Danish <dansk@dansk-gruppen.dk>
+kspaceduel,116,49,0,59,22,0,101,165,70.3030303030303,Danish <dansk@dansk-gruppen.dk>
+ksquares,254,32,7,74,10,3,210,293,86.68941979522185,Danish <dansk@dansk-gruppen.dk>
+ksshaskpass,49,0,6,13,0,3,45,55,89.0909090909091,Danish <kde-i18n-doc@kde.org>
+kstars,17200,19288,22271,4057,6673,1911,15291,58759,29.272111506322435,Danish <kde-i18n-doc@kde.org>
+ksudoku,714,219,811,104,36,23,675,1744,40.940366972477065,Danish
+ksystemlog,3033,64,4,478,8,2,2500,3101,97.80715898097387,Danish
+ksystemstats,0,1,946,0,1,218,0,947,0.0,Danish <kde-i18n-doc@kde.org>
+kteatime,203,0,0,67,0,0,203,203,100.0,Danish <dansk@dansk-gruppen.dk>
+ktextaddons,48,10,81,40,5,18,48,139,34.53237410071942,Danish <kde-i18n-doc@kde.org>
+ktimer,258,0,0,53,0,0,248,258,100.0,Danish <dansk@dansk-gruppen.dk>
+ktnef,355,0,0,143,0,0,282,355,100.0,Danish <dansk@dansk-gruppen.dk>
+ktorrent,6999,225,268,1292,44,32,6269,7492,93.41964762413241,Danish <kde-i18n-doc@kde.org>
+ktouch,782,101,81,223,23,13,719,964,81.12033195020747,Danish <kde-i18n-doc@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,175,208,100.0,Danish
+ktp-desktop-applets,75,0,0,22,0,0,77,75,100.0,Danish <kde-i18n-doc@kde.org>
+ktuberling,150,8,0,35,3,0,102,158,94.9367088607595,Danish <kde-i18n-doc@kde.org>
+kturtle,1433,98,7,262,85,2,1288,1538,93.17295188556567,Danish <dansk@dansk-gruppen.dk>
+kubrick,756,457,0,88,80,0,739,1213,62.32481450948063,Danish <kde-i18n-doc@kde.org>
+kuserfeedback,837,61,259,232,15,23,759,1157,72.34226447709594,Danish
+kwalletmanager5,723,53,52,146,16,6,722,828,87.31884057971014,Danish <kde-i18n-doc@kde.org>
+kwave,1907,20,3894,933,10,371,1715,5821,32.760694038824944,Danish <kde-i18n-doc@kde.org>
+kwebkitpart,669,0,0,165,0,0,601,669,100.0,Danish <kde-i18n-doc@kde.org>
+kwin,6245,77,290,1209,19,28,5706,6612,94.44948578342408,Danish <kde-i18n-doc@kde.org>
+kwin-x11,6245,77,290,1209,19,28,5706,6612,94.44948578342408,Danish <kde-i18n-doc@kde.org>
+kwordquiz,46,95,113,17,37,39,48,254,18.11023622047244,Danish <dansk@dansk-gruppen.dk>
+l3afpad,113,0,17,61,0,3,117,130,86.92307692307692,Danish <dansk@dansk-gruppen.dk>
+labwc,23,0,0,14,0,0,24,23,100.0,Danish <https://translate.lxqt-project.org/projects/labwc/labwc/da/>
+lazygal,79,35,289,27,8,52,78,403,19.602977667493796,Danish
+lbrickbuster2,4334,0,0,462,0,0,4157,4334,100.0,Danish <doudoulinux-lang@gna.org>
+leafpad,125,0,0,68,0,0,129,125,100.0,Danish <dansk@dansk-gruppen.dk>
+lemonldap-ng,178,0,0,15,0,0,138,178,100.0,Danish <debian-l10n-danish@lists.debian.org>
+libadwaita,289,0,0,82,0,0,276,289,100.0,Danish <dansk@dansk-gruppen.dk>
+libappstream-glib,990,16,7,206,3,1,917,1013,97.72951628825271,Danish (http://www.transifex.com/freedesktop/appstream-glib/language/da/)
+libbonobo,543,0,0,107,0,0,489,543,100.0,Danish <dansk@dansk-gruppen.dk>
+libbonoboui,368,0,0,115,0,0,338,368,100.0,Danish <dansk@dansk-gruppen.dk>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Danish
+libcryptui,3012,0,0,654,0,0,2747,3012,100.0,Danish <dansk@dansk-gruppen.dk>
+libdnf,136,26,1502,17,4,217,133,1664,8.173076923076923,Danish <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/da/>
+libepc,147,0,0,26,0,0,138,147,100.0,Danish <dansk@dansk-gruppen.dk>
+libexif,6961,328,524,1171,105,44,5783,7813,89.09509791373353,Danish <dansk@dansk-gruppen.dk>
+libextractor,1978,0,0,490,0,0,1617,1978,100.0,Danish <dansk@dansk-gruppen.dk>
+libfilezilla,410,0,0,77,0,0,372,410,100.0,Danish
+libgda,11172,546,435,2032,58,39,10337,12153,91.92791903233768,Danish <dansk@dansk-gruppen.dk>
+libgda5,10918,333,296,1993,59,36,10078,11547,94.55269767039057,Danish <dansk@dansk-gruppen.dk>
+libgdata,694,0,0,86,0,0,673,694,100.0,Danish <dansk@dansk-gruppen.dk>
+libgdl,659,0,0,96,0,0,554,659,100.0,Danish <dansk@dansk-gruppen.dk>
+libgedit-gtksourceview,301,2,16,90,1,3,272,319,94.35736677115987,Danish <dansk@dansk-gruppen.dk>
+libgnome,1773,0,0,273,0,0,1542,1773,100.0,Danish <dansk@dansk-gruppen.dk>
+libgnome-games-support,43,0,0,14,0,0,40,43,100.0,Danish <dansk@dansk-gruppen.dk>
+libgnome-games-support1,43,0,0,14,0,0,40,43,100.0,Danish <dansk@dansk-gruppen.dk>
+libgnome-keyring,44,0,0,9,0,0,40,44,100.0,Dansk <dansk@dansk-gruppen.dk>
+libgnomecanvas,378,0,0,95,0,0,310,378,100.0,Danish <dansk@dansk-gruppen.dk>
+libgnomekbd,187,0,0,39,0,0,142,187,100.0,Danish <dansk@dansk-gruppen.dk>
+libgnomeui,1226,0,0,320,0,0,1068,1226,100.0,Danish <dansk@dansk-gruppen.dk>
+libgovirt,98,0,0,22,0,0,85,98,100.0,Danish
+libgpg-error,969,315,352,325,91,77,852,1636,59.229828850855746,Danish <debian-l10n-danish@lists.debian.org>
+libgphoto2,11591,763,721,2567,273,166,10343,13075,88.65009560229446,Danish <dansk@dansk-gruppen.dk>
+libgravatar,5,20,0,2,8,0,5,25,20.0,Danish <kde-i18n-doc@kde.org>
+libgsasl,577,0,0,69,0,0,505,577,100.0,Danish <dansk@dansk-gruppen.dk>
+libgsf,725,0,0,151,0,0,658,725,100.0,Danish <dansk@dansk-gruppen.dk>
+libgtop2,126,0,0,40,0,0,113,126,100.0,Danish <dansk@dansk-gruppen.dk>
+libgweather,6970,0,0,5159,0,0,6769,6970,100.0,Danish <dansk@dansk-gruppen.dk>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libidn,289,122,5,50,7,2,290,416,69.47115384615384,Danish <dansk@dansk-gruppen.dk>
+libidn1.34,414,0,14,58,0,2,414,428,96.72897196261682,Danish <dansk@dansk-gruppen.dk>
+libidn2,250,62,10,35,4,2,227,322,77.63975155279503,Danish <dansk@dansk-gruppen.dk>
+libkcddb,399,1,0,210,1,0,376,400,99.75,Danish <dansk@dansk-gruppen.dk>
+libkcompactdisc,15,0,0,10,0,0,16,15,100.0,Danish <dansk@dansk-gruppen.dk>
+libkdegames,253,63,0,96,28,0,245,316,80.0632911392405,Danish <dansk@dansk-gruppen.dk>
+libkdepim,13,22,1,3,7,1,15,36,36.11111111111111,Danish <kde-i18n-doc@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,159,171,100.0,Danish <dansk@dansk-gruppen.dk>
+libkgapi,297,59,22,67,14,4,295,378,78.57142857142857,Danish <kde-i18n-doc@kde.org>
+libkleo,626,633,1758,157,171,213,574,3017,20.749088498508453,Danish <dansk@dansk-gruppen.dk>
+libkmahjongg,5,3,3,5,3,3,5,11,45.45454545454545,Danish <dansk@dansk-gruppen.dk>
+libkomparediff2,143,0,0,19,0,0,141,143,100.0,Danish <kde-i18n-doc@kde.org>
+libksane,262,0,22,91,0,1,235,284,92.25352112676056,Danish <kde-i18n-doc@kde.org>
+libksieve,2377,579,176,334,175,34,2150,3132,75.89399744572158,Danish <kde-i18n-doc@kde.org>
+libksysguard,33,11,621,23,7,130,32,665,4.962406015037594,Danish <kde-i18n-doc@kde.org>
+libktorrent,465,0,0,105,0,0,495,465,100.0,Danish <kde-i18n-doc@kde.org>
+libmatekbd,308,0,0,91,0,0,254,308,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+libmatemixer,242,0,0,126,0,0,227,242,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+libmateweather,6183,0,0,4598,0,0,6015,6183,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+libmypaint,985,14,1304,81,7,74,925,2303,42.77029960920539,Danish <https://hosted.weblate.org/projects/mypaint/libmypaint/da/>
+libnma,800,4,3,179,2,2,754,807,99.13258983890955,Danish <dansk@dansk-gruppen.dk>
+libpanel,107,0,0,29,0,0,107,107,100.0,Danish <dansk@dansk-gruppen.dk>
+libpeas,103,0,0,29,0,0,98,103,100.0,Danish <dansk@dansk-gruppen.dk>
+libpeas1,103,0,0,29,0,0,98,103,100.0,Danish <dansk@dansk-gruppen.dk>
+libplasma,268,0,4,53,0,1,268,272,98.52941176470588,Danish <kde-i18n-doc@kde.org>
+libpwquality,345,0,0,51,0,0,308,345,100.0,Danish <https://translate.fedoraproject.org/projects/libpwquality/app/da/>
+libreoffice,723504,0,36589,91448,0,2929,643012,760093,95.18624694609738,Danish <https://translations.documentfoundation.org/projects/libo_ui-24-2/accessibilitymessages/da/>
+libreport,4928,0,0,603,0,0,4520,4928,100.0,Danish <https://translate.fedoraproject.org/projects/abrt/libreport/da/>
+libsecret,64,0,0,10,0,0,66,64,100.0,Danish <dansk@dansk-gruppen.dk>
+libshumate,22,0,0,10,0,0,17,22,100.0,Danish <dansk@dansk-gruppen.dk>
+libsoup,183,0,0,43,0,0,180,183,100.0,Danish <dansk@dansk-gruppen.dk>
+libsoup3,180,0,0,38,0,0,176,180,100.0,Danish <dansk@dansk-gruppen.dk>
+libuser,1385,34,18,292,6,3,1360,1437,96.3813500347947,Danish (http://www.transifex.com/projects/p/fedora/language/da/)
+libvirt,1004,9233,59011,240,1770,8430,916,69248,1.4498613678373382,Danish (http://www.transifex.com/projects/p/fedora/language/da/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Danish <dansk@dansk-gruppen.dk>
+libwnck,1124,0,0,241,0,0,1059,1124,100.0,Danish <dansk@dansk-gruppen.dk>
+libwnck3,1086,0,0,231,0,0,1023,1086,100.0,Danish <dansk@dansk-gruppen.dk>
+libxfce4ui,1018,0,0,211,0,0,910,1018,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+libxfce4util,424,0,0,7,0,0,401,424,100.0,Danish (http://www.transifex.com/xfce/libxfce4util/language/da/)
+libxfce4windowing,63,0,0,19,0,0,61,63,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+libzypp,2189,0,561,927,0,69,2125,2750,79.60000000000001,Danish <https://l10n.opensuse.org/projects/libzypp/master/da/>
+lifeograph,654,0,852,195,0,247,654,1506,43.42629482071713,Danish <da@li.org>
+liferea,1328,368,505,365,73,98,1202,2201,60.3362108132667,Danish <dansk@dansk-gruppen.dk>
+light-locker,260,0,0,37,0,0,226,260,100.0,Danish (http://www.transifex.com/the_cavalry/light-locker/language/da/)
+lightdm,157,0,6,19,0,2,160,163,96.31901840490798,Danish <da@li.org>
+lightdm-gtk,89,0,0,25,0,0,84,89,100.0,Danish (https://www.transifex.com/xubuntu/teams/110148/da/)
+lightdm-gtk-greeter-settings,519,0,0,171,0,0,483,519,100.0,Danish
+lightdm-settings,355,0,0,74,0,0,297,355,100.0,Danish <da@li.org>
+lightsoff,1152,0,0,119,0,0,1084,1152,100.0,Danish <dansk@dansk-gruppen.dk>
+lilypond,5368,0,0,862,0,0,5069,5368,100.0,Danish <dansk@dansk-gruppen.dk>
+lincity-ng,809,1,19,283,1,10,786,829,97.58745476477684,Danish <dansk@dansk-gruppen.dk>
+lokalize,3931,197,6,668,10,2,3636,4134,95.08950169327528,Danish <kde-i18n-doc@kde.org>
+lollypop,1423,0,5,454,0,1,1354,1428,99.64985994397759,Danish <https://hosted.weblate.org/projects/gnumdk/lollypop/da/>
+lordsawar,7170,0,0,1874,0,0,6756,7170,100.0,Danish <dansk@dansk-gruppen.dk>
+loupe,323,0,0,142,0,0,309,323,100.0,Danish <dansk@dansk-gruppen.dk>
+lskat,205,50,11,66,17,6,191,266,77.06766917293233,Danish <dansk@dansk-gruppen.dk>
+lxdm,48,0,0,26,0,0,43,48,100.0,Danish <dansk@dansk-gruppen.dk>
+lxinput,72,0,11,24,0,2,65,83,86.74698795180723,Danish <dansk@dansk-gruppen.dk>
+lxlauncher,51,0,7,11,0,6,42,58,87.93103448275862,Danish
+lxmenu-data,97,0,0,37,0,0,87,97,100.0,Danish <dansk@dansk-gruppen.dk>
+lxmusic,203,0,0,89,0,0,176,203,100.0,Danish <dansk@dansk-gruppen.dk>
+lxshortcut,43,0,0,19,0,0,36,43,100.0,Danish <dansk@dansk-gruppen.dk>
+lynx,8348,0,0,1260,0,0,7803,8348,100.0,Danish <dansk@dansk-gruppen.dk>
+m4,67,465,639,21,69,107,65,1171,5.721605465414176,Danish <dansk@klid.dk>
+magpie,1253,0,0,148,0,0,1156,1253,100.0,Danish <dansk@dansk-gruppen.dk>
+mailcommon,2248,530,25,354,150,10,2119,2803,80.19978594363182,Danish <kde-i18n-doc@kde.org>
+mailimporter,1405,0,0,126,0,0,1263,1405,100.0,Danish <kde-i18n-doc@kde.org>
+make,2468,114,11,458,17,2,2368,2593,95.1793289625916,Danish <dansk@dansk-gruppen.dk>
+malcontent,1479,0,0,143,0,0,1423,1479,100.0,Danish
+maliit-keyboard,37,4,40,34,2,25,36,81,45.67901234567901,Danish <da@li.org>
+mame,99,0,3685,34,0,1288,90,3784,2.616279069767442,Danish (https://www.transifex.com/readthedocs/teams/101354/da/)
+man-db,4236,1060,4522,481,50,120,3883,9818,43.1452434304339,Danish <dansk@dansk-gruppen.dk>
+man-pages-l10n,91887,5772,87095,16678,1058,7793,87154,184754,49.73478246749732,Danish <debian-l10n-danish@lists.debian.org>
+man2html,58,0,0,3,0,0,52,58,100.0,da <LL@li.org>
+manafirewall,26,0,1071,25,0,108,25,1097,2.3701002734731085,Danish (https://www.transifex.com/MageiaLinux/teams/9361/da/)
+marble,8881,1243,1333,2747,305,296,7890,11457,77.51592912629833,Danish <kde-i18n-doc@kde.org>
+marco,4132,0,39,432,0,1,3808,4171,99.06497242867418,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mariadb10.11,243,0,0,44,0,0,215,243,100.0,Danish <debian-l10n-danish@lists.debian.org>
+massif-visualizer,284,76,0,84,27,0,261,360,78.88888888888889,Danish
+mate-applets,16106,0,0,1655,0,0,14561,16106,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-backgrounds,55,0,0,29,0,0,51,55,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-calc,3327,0,0,751,0,0,3057,3327,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-control-center,8218,24,18,1509,9,9,7490,8260,99.49152542372882,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-desktop,2395,17,0,292,3,0,2199,2412,99.29519071310115,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-media,244,0,0,100,0,0,229,244,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-menu,308,0,0,110,0,0,306,308,100.0,Danish (http://www.transifex.com/mate/MATE/language/da/)
+mate-menus,103,0,0,39,0,0,90,103,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-notification-daemon,186,0,0,53,0,0,194,186,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-panel,6718,32,3,815,4,3,5985,6753,99.48171183177847,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-polkit,123,0,0,21,0,0,111,123,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-power-manager,5116,7,0,550,2,0,4570,5123,99.8633613117314,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-screensaver,1101,0,0,176,0,0,1006,1101,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-sensors-applet,2160,0,0,226,0,0,1925,2160,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-session-manager,717,0,0,133,0,0,647,717,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-settings-daemon,2203,0,0,318,0,0,2002,2203,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-system-monitor,4894,0,0,661,0,0,4212,4894,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-terminal,5984,0,2254,646,0,119,5511,8238,72.6389900461277,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-themes,74,0,0,23,0,0,74,74,100.0,Danish (http://app.transifex.com/mate/MATE/language/da/)
+mate-user-admin,605,0,0,126,0,0,562,605,100.0,Danish (https://www.transifex.com/mate/teams/13566/da/)
+mate-user-guide,42973,0,0,3228,0,0,37917,42973,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mate-utils,9901,0,0,1071,0,0,8873,9901,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+mbox-importer,38,2,0,12,1,0,36,40,95.0,Danish <kde-i18n-doc@kde.org>
+mc,4197,0,232,1243,0,28,4075,4429,94.76179724542786,Danish (http://app.transifex.com/mc/mc/language/da/)
+mediawriter,434,307,95,65,64,26,404,836,51.91387559808612,Danish <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/da/>
+meld,2773,0,0,545,0,0,2701,2773,100.0,Danish <dansk@dansk-gruppen.dk>
+menulibre,873,0,0,166,0,0,790,873,100.0,Danish (https://www.transifex.com/bluesabreorg/teams/99550/da/)
+mercurial,13768,883,31288,1950,92,1828,13563,45939,29.97017784453297,Danish
+merkuro,1791,96,23,640,27,10,1627,1910,93.7696335078534,Danish <kde-i18n-doc@kde.org>
+messagelib,6463,856,373,1095,275,36,6003,7692,84.02236089443578,Danish <kde-i18n-doc@kde.org>
+metacity,1831,0,0,278,0,0,1734,1831,100.0,Danish <dansk@dansk-gruppen.dk>
+metadata-cleaner,25,605,88,9,72,10,23,718,3.4818941504178276,Danish <https://hosted.weblate.org/projects/metadata-cleaner/application/da/>
+minetest,2274,1651,5751,630,248,457,2186,9676,23.50144687887557,Danish <https://hosted.weblate.org/projects/minetest/minetest/da/>
+mingw-GConf2,4088,0,0,497,0,0,3891,4088,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-atk,440,0,0,169,0,0,309,440,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-binutils,16288,2242,4064,2840,254,436,15189,22594,72.08993538107462,Danish <dansk@dansk-gruppen.dk>
+mingw-colord,844,0,1429,173,0,129,727,2273,37.13154421469424,Danish (http://www.transifex.net/projects/p/freedesktop/team/da/)
+mingw-gcc,11104,60353,65736,1865,8459,6388,10108,137193,8.093707404896751,Danish <dansk@dansk-gruppen.dk>
+mingw-gdb,10087,0,403,1577,0,55,9450,10490,96.1582459485224,Danish <dansk@dansk-gruppen.dk>
+mingw-gdk-pixbuf,1325,0,0,198,0,0,1229,1325,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-gettext,5965,1879,820,640,176,115,5310,8664,68.84810710987996,Danish <dansk@dansk-gruppen.dk>
+mingw-glib-networking,438,0,0,65,0,0,389,438,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-glib2,7872,0,0,1251,0,0,7620,7872,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-gsettings-desktop-schemas,7163,0,0,629,0,0,6292,7163,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-gstreamer1,2069,55,99,373,8,10,1929,2223,93.07242465137202,Danish <dansk@dansk-gruppen.dk>
+mingw-gstreamer1-plugins-bad-free,197,0,0,29,0,0,175,197,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-gstreamer1-plugins-base,954,47,79,196,11,16,822,1080,88.33333333333333,Danish <dansk@dansk-gruppen.dk>
+mingw-gstreamer1-plugins-good,777,37,11,95,6,3,730,825,94.18181818181817,Danish <dansk@dansk-gruppen.dk>
+mingw-gtk2,12381,0,0,2582,0,0,10550,12381,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-gtk3,16726,0,0,3938,0,0,14242,16726,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-gtk4,4137,0,0,1495,0,0,3916,4137,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-gtksourceview3,320,2,0,105,1,0,292,322,99.37888198757764,Danish <dansk@dansk-gruppen.dk>
+mingw-hunspell,613,0,0,79,0,0,581,613,100.0,Danish <https://hosted.weblate.org/projects/hunspell/translations/da/>
+mingw-json-glib,307,0,0,47,0,0,275,307,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-libcharset,298,31,13,44,1,1,283,342,87.13450292397661,Danish <dansk@dansk-gruppen.dk>
+mingw-libgovirt,91,0,0,21,0,0,77,91,100.0,Danish
+mingw-libgpg-error,971,281,172,325,79,42,854,1424,68.18820224719101,Danish <debian-l10n-danish@lists.debian.org>
+mingw-libidn,289,122,5,50,7,2,290,416,69.47115384615384,Danish <dansk@dansk-gruppen.dk>
+mingw-libidn2,250,62,10,35,4,2,227,322,77.63975155279503,Danish <dansk@dansk-gruppen.dk>
+mingw-libsoup,183,0,0,43,0,0,180,183,100.0,Danish <dansk@dansk-gruppen.dk>
+mingw-mediawriter,434,309,102,65,67,30,404,845,51.36094674556213,Danish <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/da/>
+mingw-p11-kit,476,0,0,81,0,0,433,476,100.0,Danish (http://www.transifex.com/freedesktop/p11-kit/language/da/)
+mingw-sane-backends,3431,718,1820,672,233,336,3137,5969,57.48031496062992,Danish <dansk@klid.dk>
+mingw-wxWidgets,4122,1261,1008,910,273,292,3992,6391,64.49694883429822,Dansk <da@li.org>
+mingw-wxWidgets3,3537,2271,1887,796,586,471,3418,7695,45.96491228070175,Dansk <da@li.org>
+minicom,1556,280,99,388,11,13,1523,1935,80.41343669250645,Danish <dansk@dansk-gruppen.dk>
+minidlna,40,0,0,23,0,0,39,40,100.0,Danish
+minuet,207,205,122,86,80,37,191,534,38.764044943820224,Danish <kde-i18n-doc@kde.org>
+mlocate,406,175,0,50,1,0,390,581,69.87951807228916,Danish <dansk@dansk-gruppen.dk>
+mono-tools,175,8,334,53,1,80,172,517,33.849129593810446,Martin Willemoes Hansen <mwh@sysrq.dk>
+monodevelop,1106,8846,13863,409,2744,2279,1030,23815,4.644131849674575,Martin Willemoes Hansen <mwh@sysrq.dk>
+moodle,429,0,0,65,0,0,399,429,100.0,i18n@lists.horde.org
+moserial,627,0,0,152,0,0,621,627,100.0,Danish <dansk@dansk-gruppen.dk>
+mousepad,1700,0,0,428,0,0,1560,1700,100.0,Danish (http://app.transifex.com/xfce/xfce-apps/language/da/)
+mousetweaks,131,0,0,34,0,0,108,131,100.0,Danish <dansk@dansk-gruppen.dk>
+mozo,46,0,0,24,0,0,42,46,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+msitools,85,0,0,29,0,0,70,85,100.0,Danish <dansk@dansk-gruppen.dk>
+muffin,1219,0,0,144,0,0,1142,1219,100.0,Danish <dansk@dansk-gruppen.dk>
+multimedia-menus,56,0,0,22,0,0,53,56,100.0,Danish <dansk@dansk-gruppen.dk>
+mutt,6395,264,70,1373,33,14,6369,6729,95.03640957051567,Danish <dansk@dansk-gruppen.dk>
+mutter,1358,0,0,147,0,0,1253,1358,100.0,Danish <dansk@dansk-gruppen.dk>
+mypaint,4780,704,897,968,168,134,4691,6381,74.90988873217364,Danish <https://hosted.weblate.org/projects/mypaint/mypaint/da/>
+nano,3447,0,39,621,0,11,3213,3486,98.88123924268503,Danish <dansk@dansk-gruppen.dk>
+nautilus,5429,0,0,1118,0,0,5279,5429,100.0,Danish <dansk@dansk-gruppen.dk>
+ncmpc,546,76,91,211,26,39,540,713,76.57784011220197,da <da@li.org>
+nemiver,1341,0,0,340,0,0,1240,1341,100.0,Dansk-gruppen <dansk@dansk-gruppen.dk>
+neochat,51,746,3555,35,321,733,54,4352,1.171875,Danish <kde-i18n-doc@kde.org>
+neomutt,4491,2414,1211,1022,440,220,4469,8116,55.33514046328241,Danish <dansk@dansk-gruppen.dk>
+neovim,9972,0,0,1930,0,0,9650,9972,100.0,Danish
+network-manager-applet,4436,3,0,873,1,0,3936,4439,99.93241721108357,Danish <dansk@dansk-gruppen.dk>
+newt,4,0,0,4,0,0,3,4,100.0,Danish <dansk@klid.dk>
+nicotine+,234,4672,132,80,1169,23,237,5038,4.644700277888051,Danish <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/da/>
+notejot,8,41,440,6,12,98,8,489,1.6359918200409,
+notification-daemon,17,0,0,7,0,0,14,17,100.0,Danish <dansk@dansk-gruppen.dk>
+nutty,0,0,608,0,0,152,0,608,0.0,
+obconf,686,0,52,144,0,12,610,738,92.95392953929539,None
+obs-cef,0,0,0,0,0,0,0,0,0.0,
+okteta,2474,44,20,585,20,13,2262,2538,97.478329393223,Danish <dansk@dansk-gruppen.dk>
+okular,3399,1111,1350,865,216,198,3140,5860,58.003412969283275,Danish <kde-i18n-doc@kde.org>
+onionshare,0,0,4610,0,0,185,0,4610,0.0,LANGUAGE <LL@li.org>
+openbox,486,0,20,92,0,2,424,506,96.04743083003953,None
+openconnect,9142,0,389,1522,0,43,8571,9531,95.91858147098941,Danish <dansk@dansk-gruppen.dk>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2270,0,34,901,0,11,2171,2304,98.52430555555556,Danish (https://www.transifex.com/xfce/teams/16840/da/)
+orca,19275,0,0,2825,0,0,18103,19275,100.0,Danish <dansk@dansk-gruppen.dk>
+osmo,1694,29,48,692,1,5,1572,1771,95.65217391304348,Danish (http://www.transifex.com/pasp/osmo/language/da/)
+paprefs,131,0,6,23,0,2,110,137,95.62043795620438,Danish <https://translate.fedoraproject.org/projects/pulseaudio/paprefs/da/>
+parcellite,156,0,0,52,0,0,154,156,100.0,<kj.arbejde@gmail.com>
+parley,2451,705,277,548,139,42,2236,3433,71.39528109525196,Danish <kde-i18n-doc@kde.org>
+parole,1147,0,0,299,0,0,1115,1147,100.0,Danish (http://app.transifex.com/xfce/xfce-apps/language/da/)
+parted,2854,366,1408,407,48,122,2763,4628,61.66810717372515,Danish <dansk@dansk-gruppen.dk>
+pavucontrol,422,12,432,131,6,42,415,866,48.72979214780601,Danish <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/da/>
+pbuilder,96,0,0,9,0,0,92,96,100.0,Danish <debian-l10n-danish@lists.debian.org>
+pdfarranger,504,0,59,178,0,19,484,563,89.52042628774423,Danish
+pdfmod,802,0,0,119,0,0,839,802,100.0,Danish <dansk@dansk-gruppen.dk>
+phodav,67,0,0,18,0,0,66,67,100.0,Danish <dansk@dansk-gruppen.dk>
+phonon,5,322,0,3,56,0,3,327,1.529051987767584,Danish <dansk@dansk-gruppen.dk>
+phonon-backend-gstreamer,0,104,0,0,15,0,0,104,0.0,Danish <kde-i18n-doc@kde.org>
+phonon-backend-vlc,0,27,0,0,3,0,0,27,0.0,Danish <dansk@dansk-gruppen.dk>
+phosh,202,0,0,78,0,0,191,202,100.0,Danish
+picard,2342,92,14631,1289,24,2810,2213,17065,13.723996484031645,Danish <https://translations.metabrainz.org/projects/picard/app/da/>
+picmi,161,40,1,91,24,1,137,202,79.70297029702971,Danish <kde-i18n-doc@kde.org>
+pidgin,13736,0,258,3137,0,54,12869,13994,98.1563527225954,Danish (http://app.transifex.com/pidgin/pidgin/language/da/)
+pidgin-otr,1064,0,0,159,0,0,1095,1064,100.0,Danish (http://www.transifex.com/projects/p/pidgin-otr/language/da/)
+pidgin-sipe,1119,0,0,273,0,0,1041,1119,100.0,Danish (http://www.transifex.com/stefanb/pidgin-sipe/language/da/)
+pim-data-exporter,617,177,0,153,47,0,585,794,77.70780856423174,Danish <kde-i18n-doc@kde.org>
+pim-sieve-editor,337,99,23,82,34,6,293,459,73.42047930283225,Danish <kde-i18n-doc@kde.org>
+pimcommon,896,4,15,214,1,3,825,915,97.92349726775956,Danish <kde-i18n-doc@kde.org>
+pingus,1820,91,3484,199,2,245,1780,5395,33.734939759036145,danish <da@li.org>
+pinta,1468,0,278,496,0,41,1416,1746,84.077892325315,Danish <da@li.org>
+pioneers,2140,270,594,621,58,111,2059,3004,71.23834886817576,Danish <da@li.org>
+pipewire,647,0,0,108,0,0,581,647,100.0,Danish
+pipewire-media-session,5,0,0,3,0,0,5,5,100.0,Danish
+pitivi,2482,0,0,545,0,0,2366,2482,100.0,Danish <dansk@dansk-gruppen.dk>
+plank,189,0,0,50,0,0,193,189,100.0,Danish
+plasma-bigscreen,81,0,42,36,0,11,84,123,65.85365853658537,Danish <kde-i18n-doc@kde.org>
+plasma-breeze,195,23,36,75,9,7,182,254,76.77165354330708,Danish <kde-i18n-doc@kde.org>
+plasma-browser-integration,127,0,0,25,0,0,111,127,100.0,Danish <kde-i18n-doc@kde.org>
+plasma-desktop,6733,213,132,1502,32,13,6317,7078,95.12574173495338,Danish <dansk@dansk-gruppen.dk>
+plasma-discover,1134,503,1988,331,177,215,1057,3625,31.282758620689656,Danish <kde-i18n-doc@kde.org>
+plasma-disks,42,57,106,9,5,5,35,205,20.48780487804878,Danish
+plasma-drkonqi,890,759,276,98,64,38,796,1925,46.23376623376623,Danish <kde-i18n-doc@kde.org>
+plasma-firewall,294,67,32,108,29,8,291,393,74.80916030534351,Danish
+plasma-integration,72,0,0,24,0,0,76,72,100.0,Danish <kde-i18n-doc@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,160,172,100.0,Danish <kde-i18n-doc@kde.org>
+plasma-milou,9,1,0,3,1,0,9,10,90.0,Danish <kde-i18n-doc@kde.org>
+plasma-mobile,46,69,598,25,34,502,43,713,6.451612903225806,Danish <kde-i18n-doc@kde.org>
+plasma-nano,31,0,2,9,0,1,24,33,93.93939393939394,Danish <kde-i18n-doc@kde.org>
+plasma-nm,5577,1,12,1334,1,3,4965,5590,99.76744186046511,Danish <kde-i18n-doc@kde.org>
+plasma-oxygen,794,0,0,292,0,0,759,794,100.0,Danish <kde-i18n-doc@kde.org>
+plasma-pa,382,0,0,117,0,0,384,382,100.0,Danish <kde-i18n-doc@kde.org>
+plasma-pass,1,11,10,1,2,3,1,22,4.545454545454546,Danish
+plasma-phonebook,21,23,29,12,11,10,19,73,28.767123287671232,Danish <kde-i18n-doc@kde.org>
+plasma-pk-updates,2077,4,0,399,1,0,1818,2081,99.80778471888515,Danish <kde-i18n-doc@kde.org>
+plasma-print-manager,1362,9,11,359,3,1,1219,1382,98.55282199710564,Danish <kde-i18n-doc@kde.org>
+plasma-sdk,934,0,0,303,0,0,881,934,100.0,Danish <kde-i18n-doc@kde.org>
+plasma-settings,42,2,24,11,1,6,42,68,61.76470588235294,Danish
+plasma-systemmonitor,365,155,91,129,45,19,365,611,59.738134206219314,Danish <kde-i18n-doc@kde.org>
+plasma-systemsettings,128,0,0,35,0,0,123,128,100.0,Danish <kde-i18n-doc@kde.org>
+plasma-thunderbolt,141,12,21,33,3,3,126,174,81.03448275862068,Danish <kde-i18n-doc@kde.org>
+plasma-vault,874,0,0,102,0,0,795,874,100.0,Danish <kde-i18n-doc@kde.org>
+plasma-welcome,1574,29,0,150,1,0,1521,1603,98.19089207735496,Danish <kde-i18n-doc@kde.org>
+plasma-workspace,11739,60,64,2798,18,7,10929,11863,98.95473320407991,Danish <kde-i18n-doc@kde.org>
+plasma-workspace-x11,11739,60,64,2798,18,7,10929,11863,98.95473320407991,Danish <kde-i18n-doc@kde.org>
+plasma5support,293,0,0,168,0,0,246,293,100.0,Danish <kde-i18n-doc@kde.org>
+playonlinux,633,0,2095,162,0,287,610,2728,23.203812316715542,Danish <da@li.org>
+pluma,13113,0,0,2090,0,0,12182,13113,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+pluma-plugins,1405,0,0,145,0,0,1284,1405,100.0,Danish (https://app.transifex.com/mate/teams/13566/da/)
+plymouth,16,0,0,7,0,0,15,16,100.0,Danish <https://translate.fedoraproject.org/projects/plymouth/master/da/>
+plymouth-kcm,88,3,2,18,1,1,79,93,94.6236559139785,Danish <kde-i18n-doc@kde.org>
+po4a,1430,452,379,145,51,37,1298,2261,63.24635117204777,Danish <debian-l10n-danish@lists.debian.org>
+poedit,3279,1,0,711,1,0,2977,3280,99.96951219512195,Danish
+pogo,568,0,8,99,0,2,518,576,98.61111111111111,Danish <da@li.org>
+polari,2031,0,0,268,0,0,1914,2031,100.0,Danish <dansk@dansk-gruppen.dk>
+policycoreutils,5703,548,110,924,69,7,4788,6361,89.65571451029713,Danish <https://translate.fedoraproject.org/projects/selinux/gui/da/>
+polkit,230,0,0,26,0,0,229,230,100.0,Danish
+polkit-gnome,94,0,0,16,0,0,87,94,100.0,Danish <lundbymads@dansk-gruppen.dk>
+polkit-kde,41,4,14,17,2,4,39,59,69.49152542372882,Danish <dansk@dansk-gruppen.dk>
+popt,84,0,6,31,0,1,79,90,93.33333333333333,Danish <https://translate.fedoraproject.org/projects/popt/master/da/>
+powerdevil,1010,60,666,218,7,120,952,1736,58.17972350230415,Danish <kde-i18n-doc@kde.org>
+powertop,0,0,698,0,0,202,0,698,0.0,Danish (Denmark) (http://www.transifex.com/projects/p/PowerTOP/language/da_DK/)
+prusa-slicer,7508,0,0,1891,0,0,7081,7508,100.0,Danish
+psad,493,0,0,30,0,0,447,493,100.0,Danish <debian-l10n-danish@lists.debian.org>
+psmisc,1823,180,1644,262,8,66,1749,3647,49.98629010145325,Danish <dansk@dansk-gruppen.dk>
+publican,1054,66,4323,74,2,540,1011,5443,19.3643211464266,Danish <dansk@dansk-gruppen.dk>
+pulseaudio,3416,369,1,563,8,1,3125,3786,90.22715266772319,Danish <https://translate.fedoraproject.org/projects/pulseaudio/pulseaudio/da/>
+pulsecaster,140,0,74,17,0,4,134,214,65.42056074766354,Danish (http://www.transifex.com/stickster/pulsecaster/language/da/)
+purple-telegram,228,0,420,63,0,73,215,648,35.18518518518518,Danish (https://www.transifex.com/telegram-purple-developers/teams/53149/da/)
+pychess,1978,0,5614,574,0,894,1874,7592,26.053740779768177,Danish (http://www.transifex.com/gbtami/pychess/language/da/)
+pyhoca-gui,1812,47,6,396,5,1,1807,1865,97.15817694369974,X2Go i18n <x2go-i18n@lists.x2go.org>
+pykickstart,324,0,1304,35,0,145,296,1628,19.901719901719904,Danish <https://translate.fedoraproject.org/projects/pykickstart/master/da/>
+python-SecretStorage,64,0,0,10,0,0,66,64,100.0,Danish <dansk@dansk-gruppen.dk>
+python-apt,544,0,0,118,0,0,529,544,100.0,Danish <debian-l10n-danish@lists.debian.org>
+python-ase,1216,0,0,327,0,0,1120,1216,100.0,Danish <dansk@dansk-gruppen.dk>
+python-blivet,558,20,27,76,3,2,526,605,92.23140495867769,Danish (http://www.transifex.com/projects/p/blivet/language/da/)
+python-caja,6,0,0,2,0,0,7,6,100.0,Danish (https://www.transifex.com/mate/teams/13566/da/)
+python-django,3844,0,0,885,0,0,3654,3844,100.0,Danish (http://www.transifex.com/django/django/language/da/)
+python-django-allauth,501,597,427,121,57,68,498,1525,32.85245901639344,
+python-django-contrib-comments,250,0,0,61,0,0,229,250,100.0,Danish (http://www.transifex.com/django/django-contrib-comments/language/da/)
+python-django-extensions,19,0,23,8,0,6,19,42,45.23809523809524,LANGUAGE <LL@li.org>
+python-django-filter,80,3,5,38,2,2,82,88,90.9090909090909,Danni Randeris <danni@danniranderis.dk>
+python-django-formtools,32,0,0,11,0,0,28,32,100.0,Danish (http://www.transifex.com/django/django-formtools/language/da/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django-mptt,188,0,0,22,0,0,182,188,100.0,Danish
+python-django-rest-framework,559,0,143,94,0,31,550,702,79.62962962962963,Danish (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/da/)
+python-django-reversion,117,0,0,21,0,0,117,117,100.0,LANGUAGE <LL@li.org>
+python-django-taggit,30,0,0,13,0,0,29,30,100.0,
+python-django4.2,3844,0,0,885,0,0,3654,3844,100.0,Danish (http://www.transifex.com/django/django/language/da/)
+python-fedora,212,0,2,28,0,1,201,214,99.06542056074767,Danish (http://www.transifex.com/projects/p/python-fedora/language/da/)
+python-flask-admin,320,0,47,97,0,15,313,367,87.19346049046321,Danish
+python-flask-security-too,289,7,898,65,1,151,276,1194,24.204355108877724,da_DK <LL@li.org>
+python-formencode,825,0,0,117,0,0,737,825,100.0,SurveyMonkey
+python-humanize,132,0,0,67,0,0,135,132,100.0,Da
+python-hyperkitty,1,0,950,1,0,264,1,951,0.10515247108307045,Danish <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/da/>
+python-manatools,4,0,0,4,0,0,4,4,100.0,Danish (https://www.transifex.com/MageiaLinux/teams/9361/da/)
+python-meh,109,0,0,23,0,0,103,109,100.0,Danish (http://www.transifex.com/projects/p/python-meh/language/da/)
+python-nikola,70,0,24,30,0,14,70,94,74.46808510638297,Danish (http://www.transifex.com/ralsina/nikola/language/da/)
+python-postorius,57,24,4973,9,8,614,49,5054,1.1278195488721803,Danish <https://hosted.weblate.org/projects/gnu-mailman/postorius/da/>
+python-simpleline,42,0,0,16,0,0,45,42,100.0,Danish <https://translate.fedoraproject.org/projects/python-simpleline/master/da/>
+python-sphinx,614,0,4348,207,0,548,574,4962,12.37404272470778,Danish (http://app.transifex.com/sphinx-doc/sphinx-1/language/da/)
+python-sphinx_rtd_theme,99,0,0,34,0,0,90,99,100.0,Danish (https://www.transifex.com/readthedocs/teams/101354/da/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Danish (https://www.transifex.com/sphinx-doc/teams/36659/da/)
+python-sphinxcontrib-htmlhelp,25,0,0,5,0,0,19,25,100.0,Danish (https://www.transifex.com/sphinx-doc/teams/36659/da/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Danish (https://www.transifex.com/sphinx-doc/teams/36659/da/)
+python-sphinxcontrib-serializinghtml,18,0,0,2,0,0,14,18,100.0,Danish (https://www.transifex.com/sphinx-doc/teams/36659/da/)
+python-wxpython4,7323,220,294,1847,77,41,6905,7837,93.44136787035856,Danish
+quadrapassel,1448,0,0,174,0,0,1385,1448,100.0,Danish <dansk@dansk-gruppen.dk>
+quassel,4988,0,3374,1266,0,441,4547,8362,59.650801243721595,Danish (http://www.transifex.com/quassel/quassel/language/da/)
+quodlibet,5030,1366,1523,1309,212,168,4619,7919,63.51812097487056,Danish <https://hosted.weblate.org/projects/quodlibet/quodlibet/da/>
+rapid-photo-downloader,1363,0,6723,403,0,521,1273,8086,16.856294830571358,Danish <da@li.org>
+rawstudio,1606,0,0,502,0,0,1568,1606,100.0,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,789,28,16,127,4,3,797,833,94.71788715486194,Danish (http://www.transifex.com/freedesktop/realmd/language/da/)
+recode,402,346,6,60,15,4,399,754,53.315649867374006,Danish <dansk@klid.dk>
+redhat-menus,261,0,0,86,0,0,224,261,100.0,dansk <dansk@dansk-gruppen.dk>
+rednotebook,1278,0,0,276,0,0,1215,1278,100.0,Danish <https://hosted.weblate.org/projects/rednotebook/desktop-app/da/>
+redshift,1028,0,0,151,0,0,956,1028,100.0,Danish
+regextester,0,0,104,0,0,31,0,104,0.0,none
+rekonq,2202,0,0,593,0,0,2047,2202,100.0,Danish <kde-i18n-doc@kde.org>
+remmina,2927,1672,797,696,224,80,2665,5396,54.243884358784285,Danish <https://hosted.weblate.org/projects/remmina/remmina/da/>
+renameutils,246,19,0,51,3,0,240,265,92.83018867924528,Danish <dansk@dansk-gruppen.dk>
+retrace-server,433,0,0,56,0,0,366,433,100.0,Danish <https://translate.fedoraproject.org/projects/abrt/retrace-server/da/>
+rhythmbox,8318,0,32,1316,0,8,7449,8350,99.61676646706586,Danish <dansk@dansk-gruppen.dk>
+rhythmbox-alternative-toolbar,304,0,0,61,0,0,270,304,100.0,Danish <da@li.org>
+ristretto,674,0,0,210,0,0,633,674,100.0,Danish (http://app.transifex.com/xfce/xfce-apps/language/da/)
+rizin,782,0,597,131,0,28,771,1379,56.70775924583032,Danish <dansk@dansk-gruppen.dk>
+rkward,1709,495,7439,384,129,677,1670,9643,17.722700404438452,Danish
+rocs,368,652,460,109,140,65,357,1480,24.864864864864867,Danish <kde-i18n-doc@kde.org>
+rpm,1387,121,3224,272,26,612,1317,4732,29.311073541842774,Danish <https://translate.fedoraproject.org/projects/rpm/master/da/>
+rpm-ostree,141,12,1327,18,2,209,138,1480,9.527027027027026,Danish <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/da/>
+rsibreak,1175,0,34,158,0,2,1068,1209,97.18775847808105,Danish <kde-i18n-doc@kde.org>
+rt,7438,0,6439,1755,0,1424,7560,13877,53.59948115586942,Danish <da@li.org>
+rust,795,0,597,133,0,28,782,1392,57.11206896551724,Danish <dansk@dansk-gruppen.dk>
+rust-coreos-installer,795,0,597,133,0,28,782,1392,57.11206896551724,Danish <dansk@dansk-gruppen.dk>
+rygel,1632,0,0,302,0,0,1611,1632,100.0,Danish <dansk@dansk-gruppen.dk>
+samba,212,67,245,34,18,76,196,524,40.458015267175576,Danish <opensuse-translation@opensuse.org>
+sane-backends,3310,894,2022,660,263,359,3034,6226,53.16415033729521,Danish <dansk@klid.dk>
+sawfish,2441,1465,2537,575,230,177,2271,6443,37.88607791401521,Danish <dansk@dansk-gruppen.dk>
+scons,48,0,0,22,0,0,41,48,100.0,
+scratch,1464,0,6,622,0,4,1389,1470,99.59183673469387,None
+scummvm,5208,2597,7796,1015,735,708,4792,15601,33.38247548234087,Danish <https://translations.scummvm.org/projects/scummvm/scummvm/da/>
+sdcc,9119,0,0,1398,0,0,8504,9119,100.0,Danish <dansk@dansk-gruppen.dk>
+sddm-kcm,201,14,0,41,1,0,194,215,93.48837209302326,Danish <kde-i18n-doc@kde.org>
+seahorse,8905,0,0,938,0,0,8274,8905,100.0,Danish <dansk@dansk-gruppen.dk>
+seahorse-caja,421,0,0,110,0,0,401,421,100.0,Danish <dansk@dansk-gruppen.dk>
+seahorse-nautilus,490,0,0,124,0,0,464,490,100.0,Danish <dansk@dansk-gruppen.dk>
+secrets,1186,0,0,366,0,0,1215,1186,100.0,Danish <dansk@dansk-gruppen.dk>
+sed,650,89,78,120,11,15,627,817,79.5593635250918,Danish <dansk@dansk-gruppen.dk>
+setroubleshoot,584,10,46,160,2,6,539,640,91.25,Danish <https://translate.fedoraproject.org/projects/setroubleshoot/setroubleshoot/da/>
+setroubleshoot-plugins,55,0,6191,4,0,222,54,6246,0.8805635606788345,Danish (http://www.transifex.com/projects/p/fedora/language/da/)
+setuptool,55,0,0,14,0,0,60,55,100.0,Danish <dansk@dansk-gruppen.dk>
+shadow-utils,3540,958,347,537,110,42,3354,4845,73.06501547987617,Danish <debian-l10n-danish@lists.debian.org>
+shared-mime-info,1803,0,463,696,0,175,986,2266,79.56751985878199,Danish (http://app.transifex.com/freedesktop/shared-mime-info/language/da/)
+sharutils,345,182,2620,85,35,184,365,3147,10.9628217349857,Danish <dansk@dansk-gruppen.dk>
+shotwell,6670,0,0,1237,0,0,6266,6670,100.0,Danish
+shutter,2960,0,133,594,0,12,2814,3093,95.69996766892984,Danish <da@li.org>
+sigil,592,21,0,78,1,0,561,613,96.5742251223491,Danish <https://hosted.weblate.org/projects/hunspell/translations/da/>
+simple-ccsm,151,0,11,62,0,2,143,162,93.20987654320987,Danish <dansk@dansk-gruppen.dk>
+simple-scan,2179,0,0,322,0,0,2055,2179,100.0,Danish <dansk@dansk-gruppen.dk>
+siril,355,3,42667,75,1,3676,329,43025,0.8251016850668216,Danish <https://weblate.pixls.us/projects/siril/siril-application-1-2/da/>
+skanlite,186,0,0,63,0,0,175,186,100.0,Danish <kde-i18n-doc@kde.org>
+skribilo,482,0,0,73,0,0,434,482,100.0,Danish <dansk@dansk-gruppen.dk>
+skrooge,6999,3086,2096,1863,402,235,6502,12181,57.45833675396109,Danish <kde-i18n-doc@kde.org>
+skychart,10,0,5018,8,0,1546,10,5028,0.1988862370723946,Danish <da@li.org>
+slick-greeter,216,0,0,49,0,0,205,216,100.0,Danish <da@li.org>
+slrn,5248,0,0,938,0,0,5066,5248,100.0,Danish <dansk@dansk-gruppen.dk>
+smb4k,4565,906,1091,500,123,63,3977,6562,69.56720512039013,Danish <kde-i18n-doc@kde.org>
+snapd,2302,0,2005,286,0,195,2176,4307,53.447875551427906,Danish <da@li.org>
+snapper,830,63,199,199,20,33,821,1092,76.007326007326,Danish <https://l10n.opensuse.org/projects/snapper/master/da/>
+snapshot,228,0,0,81,0,0,218,228,100.0,Danish <dansk@dansk-gruppen.dk>
+solaar,0,0,0,0,0,0,0,0,0.0,none
+sos,54,34,35,11,7,12,57,123,43.90243902439025,Danish <dansk@dansk-gruppen.dk
+sound-juicer,1254,0,0,226,0,0,1138,1254,100.0,Danish <dansk@dansk-gruppen.dk>
+soundconverter,129,0,381,51,0,78,120,510,25.294117647058822,Danish <da@li.org>
+soundtracker,863,1068,2692,261,380,566,735,4623,18.667531905688946,Danish <dansk@klid.dk>
+spacefm,474,8,8240,181,3,1384,465,8722,5.434533363907361,Danish (http://www.transifex.com/projects/p/spacefm/language/da/)
+sparkleshare,142,0,260,31,0,56,129,402,35.32338308457712,
+spectacle,585,533,640,116,103,116,548,1758,33.27645051194539,Danish <kde-i18n-doc@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Danish (http://www.transifex.com/heldercorreia/speedcrunch/language/da/)
+springlobby,1329,0,3241,608,0,599,1288,4570,29.080962800875277,Danish <da@li.org>
+stellarium,5726,0,149128,1663,0,36823,5382,154854,3.697676521110207,Danish (https://app.transifex.com/stellarium/teams/80998/da/)
+step,1774,185,2311,646,91,259,1587,4270,41.54566744730679,Danish <dansk@dansk-gruppen.dk>
+subtitleeditor,223,11,1583,117,6,423,219,1817,12.272977435332967,Danish <da@li.org>
+sudo,4152,0,0,601,0,0,3805,4152,100.0,Danish <dansk@dansk-gruppen.dk>
+sugar,2305,0,0,529,0,0,2143,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,328,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,866,0,0,169,0,0,830,866,100.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,136,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,592,66,100.0,LANGUAGE <LL@li.org>
+sugar-colordeducto,109,0,0,23,0,0,106,109,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,107,0,0,23,0,0,104,107,100.0,LANGUAGE <LL@li.org>
+sugar-dimensions,176,0,0,87,0,0,165,176,100.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,107,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,260,258,100.0,LANGUAGE <LL@li.org>
+sugar-flipsticks,151,0,0,45,0,0,152,151,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,59,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,83,77,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,93,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,141,142,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,51,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,282,0,0,68,0,0,273,282,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,132,137,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,62,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,234,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,23,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,125,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,213,0,0,123,0,0,203,213,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1574,0,0,478,0,0,1570,1574,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,60,0,0,23,0,0,56,60,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,123,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,26,29,100.0,LANGUAGE <LL@li.org>
+sugar-yupana,30,0,0,16,0,0,26,30,100.0,LANGUAGE <LL@li.org>
+supertux,3451,0,61,953,0,7,3239,3512,98.2630979498861,Danish (http://www.transifex.com/arctic-games/supertux/language/da/)
+supertuxkart,5959,0,0,1110,0,0,5634,5959,100.0,Danish (http://www.transifex.com/supertuxkart/supertuxkart/language/da/)
+sushi,54,0,0,14,0,0,49,54,100.0,Danish <dansk@dansk-gruppen.dk>
+svgpart,3,0,0,2,0,0,2,3,100.0,Danish <dansk@dansk-gruppen.dk>
+sweeper,228,0,0,50,0,0,203,228,100.0,Danish <dansk@dansk-gruppen.dk>
+swell-foop,991,0,0,147,0,0,977,991,100.0,Danish <dansk@dansk-gruppen.dk>
+switchdesk,16,87,19,3,10,6,15,122,13.114754098360656,dansk <dansk@dansk-gruppen.dk>
+sylpheed,3789,2101,1324,1053,560,184,3539,7214,52.52287219295814,
+synapse,262,0,594,85,0,149,259,856,30.60747663551402,Danish <da@li.org>
+syncevolution,566,0,0,111,0,0,549,566,100.0,Danish <dansk@dansk-gruppen.dk>
+synfig,139,0,4740,62,0,1113,118,4879,2.8489444558311128,Danish (http://www.transifex.com/morevnaproject/synfig/language/da/)
+synfigstudio,984,0,6387,360,0,1356,875,7371,13.349613349613348,Danish (http://www.transifex.com/morevnaproject/synfig/language/da/)
+sysprof,1937,0,0,360,0,0,1746,1937,100.0,Danish <dansk@dansk-gruppen.dk>
+sysstat,784,0,0,80,0,0,738,784,100.0,Danish <dansk@dansk-gruppen.dk>
+system-config-language,197,17,1,29,1,1,166,215,91.62790697674419,Danish <dansk@dansk-gruppen.dk>
+system-config-printer,3508,2,4,922,1,5,3169,3514,99.82925441092772,Danish <https://translate.fedoraproject.org/projects/system-config-printer/master/da/>
+system-config-rootpassword,116,0,0,19,0,0,118,116,100.0,Danish <dansk@dansk-gruppen.dk>
+system-switch-java,81,0,0,11,0,0,66,81,100.0,Danish <dansk@dansk-gruppen.dk>
+system-switch-mail,9,88,4,6,8,3,6,101,8.91089108910891,Danish <dansk@dansk-gruppen.dk>
+systemd,1506,29,264,189,4,34,1500,1799,83.71317398554753,Danish <https://translate.fedoraproject.org/projects/systemd/master/da/>
+tali,2427,0,0,187,0,0,2252,2427,100.0,Danish <dansk@dansk-gruppen.dk>
+tar,3436,199,42,574,18,6,3348,3677,93.44574381289095,Danish <dansk@dansk-gruppen.dk>
+taxi,62,0,0,15,0,0,68,62,100.0,LANGUAGE <LL@li.org>
+tecla,6,0,0,3,0,0,4,6,100.0,Danish <dansk@dansk-gruppen.dk>
+tellico,5009,275,74,1163,77,23,4267,5358,93.48637551325122,Danish <kde-i18n-doc@kde.org>
+template-glib,23,0,0,4,0,0,21,23,100.0,Danish
+tepl,346,0,0,84,0,0,330,346,100.0,Danish <dansk@dansk-gruppen.dk>
+terminator,1176,0,346,342,0,73,1090,1522,77.26675427069645,Danish (https://www.transifex.com/terminator/teams/109338/da/)
+terminology,973,0,9,231,0,2,880,982,99.08350305498982,Danish <https://hosted.weblate.org/projects/terminology/terminology/da/>
+texi2html,242,983,418,37,80,64,244,1643,14.72915398660986,Danish <dansk@klid.dk>
+texinfo,4341,844,928,583,120,111,4049,6113,71.01259610665794,Danish <dansk@dansk-gruppen.dk>
+texlive,0,0,0,0,0,0,0,0,0.0,
+thunar-archive-plugin,88,0,0,15,0,0,85,88,100.0,Danish (http://www.transifex.com/xfce/thunar-plugins/language/da/)
+thunar-media-tags-plugin,158,0,0,60,0,0,137,158,100.0,Danish (http://www.transifex.com/xfce/thunar-plugins/language/da/)
+thunar-vcs-plugin,774,0,0,307,0,0,703,774,100.0,Danish (http://www.transifex.com/xfce/thunar-plugins/language/da/)
+thunar-volman,484,0,0,115,0,0,450,484,100.0,Danish (http://www.transifex.com/xfce/thunar-volman/language/da/)
+thunderbird,0,0,0,0,0,0,0,0,0.0,
+tigervnc,697,0,0,157,0,0,638,697,100.0,Danish <dansk@dansk-gruppen.dk>
+timeshift,2870,0,0,567,0,0,2817,2870,100.0,Danish <dansk@dansk-gruppen.dk>
+tin,9228,1220,1497,1451,95,109,9077,11945,77.25408120552532,Danish <dansk@dansk-gruppen.dk>
+tomboy,3436,0,0,485,0,0,3319,3436,100.0,Danish <dansk@dansk-gruppen.dk>
+transmission,1073,0,1368,365,0,220,1168,2441,43.95739451044654,Danish (https://app.transifex.com/transmissionbt/teams/33778/da/)
+util-linux,20994,6055,1806,3967,1032,294,19581,28855,72.75688788771444,Danish <dansk@dansk-gruppen.dk>
+vdr,855,0,626,327,0,232,794,1481,57.73126266036462,Danish <vdr@linuxtv.org>
+vdr-epgsearch,3,2,2480,3,2,391,3,2485,0.12072434607645875,Danish <vdr@linuxtv.org>
+vdr-extrecmenung,0,0,318,0,0,98,0,318,0.0,<vdr@linuxtv.org>
+vdr-skinenigmang,0,0,334,0,0,134,0,334,0.0,<vdr@linuxtv.org>
+verbiste,73,0,9,32,0,3,70,82,89.02439024390245,Danish <debian-l10n-danish@lists.debian.org>
+viewnior,425,0,0,144,0,0,406,425,100.0,Danish <da@li.org>
+viking,906,0,5339,277,0,1342,845,6245,14.507606084867893,Danish <da@li.org>
+vim,10130,0,0,1960,0,0,9792,10130,100.0,Danish
+vinagre,1510,0,0,277,0,0,1364,1510,100.0,Danish <dansk@dansk-gruppen.dk>
+virt-manager,908,10,6429,266,6,1179,914,7347,12.358785899006397,Danish <https://translate.fedoraproject.org/projects/virt-manager/virt-manager/da/>
+vlc,34712,48,19,6266,14,5,30963,34779,99.80735501308261,Danish (https://app.transifex.com/yaron/teams/16553/da/)
+vorbis-tools,493,679,2624,98,116,226,467,3796,12.987355110642781,Danish <dansk@klid.dk>
+votca,99,0,0,34,0,0,90,99,100.0,Danish (https://www.transifex.com/readthedocs/teams/101354/da/)
+vrms-rpm,27,6,0,25,6,0,272,33,81.81818181818183,
+vte,80,0,0,13,0,0,87,80,100.0,Danish <dansk@dansk-gruppen.dk>
+vte291,46,0,0,9,0,0,48,46,100.0,Danish <dansk@dansk-gruppen.dk>
+warmux,2736,8,0,467,5,0,2684,2744,99.70845481049562,Danish <kde-i18n-doc@kde.org>
+warzone2100,2278,0,14940,725,0,2963,1986,17218,13.230340341503076,Danish
+watchdog,125,0,0,8,0,0,116,125,100.0,Danish <debian-l10n-danish@lists.debian.org>
+wcd,1425,0,0,244,0,0,1420,1425,100.0,Danish <dansk@dansk-gruppen.dk>
+wdiff,950,43,0,145,5,0,953,993,95.66968781470293,Danish <dansk@dansk-gruppen.dk>
+webkit2gtk4.0,2617,0,0,675,0,0,2303,2617,100.0,Danish
+webkitgtk,2617,0,0,675,0,0,2303,2617,100.0,Danish
+wesnoth,89232,89664,160842,6904,4827,9572,85735,339738,26.264945340232764,Danish <dansk@dansk-gruppen.dk>
+whois,488,26,0,39,1,0,454,514,94.94163424124513,Danish <debian-l10n-danish@lists.debian.org>
+widelands,56341,0,35510,5384,0,3974,51895,91851,61.339560810443,Danish (http://app.transifex.com/widelands/widelands/language/da/)
+wine,12476,3443,3569,3042,763,520,11777,19488,64.01888341543514,Danish
+wingpanel,18,0,39,4,0,6,14,57,31.57894736842105,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,22,0,33,9,0,8,17,55,40.0,Danish <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/da/>
+wingpanel-indicator-bluetooth,21,19,40,14,5,11,23,80,26.25,Danish <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/da/>
+wingpanel-indicator-datetime,41,17,45,11,3,11,41,103,39.80582524271845,Danish <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/da/>
+wingpanel-indicator-keyboard,11,11,34,5,4,8,9,56,19.642857142857142,Danish <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/da/>
+wireplumber,3,0,0,2,0,0,3,3,100.0,Danish
+wireshark,79,0,179,4,0,12,80,258,30.620155038759687,Danish (http://www.transifex.com/wireshark/wireshark/language/da/)
+workrave,1054,68,377,186,21,72,972,1499,70.31354236157439,http://FSLab.dk <support@fslab.dk>
+wxGTK,7323,220,294,1847,77,41,6905,7837,93.44136787035856,Danish
+wxMaxima,1434,2381,10282,394,660,1361,1347,14097,10.17237710151096,danish <matematik@gu_nuuk.gl>
+xapps,73,0,0,36,0,0,62,73,100.0,Danish <da@li.org>
+xarchiver,738,385,194,217,57,38,699,1317,56.03644646924829,DANISH <dansk@dansk-gruppen.dk>
+xawtv,126,0,0,24,0,0,111,126,100.0,Danish <debian-l10n-danish@lists.debian.org>
+xboard,1912,319,342,491,102,131,1866,2573,74.3101438010105,Danish <dansk@dansk-gruppen.dk>
+xdg-desktop-portal,221,22,11,32,3,1,210,254,87.00787401574803,Danish
+xdg-desktop-portal-gnome,219,0,0,66,0,0,219,219,100.0,Danish
+xdg-desktop-portal-gtk,240,0,0,64,0,0,249,240,100.0,Danish
+xdg-desktop-portal-kde,410,11,24,110,4,3,403,445,92.13483146067416,Danish <kde-i18n-doc@kde.org>
+xdg-desktop-portal-xapp,225,0,0,62,0,0,231,225,100.0,Danish
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Danish <dansk@dansk-gruppen.dk>
+xdg-user-dirs-gtk,81,0,0,11,0,0,79,81,100.0,Danish <dansk@dansk-gruppen.dk>
+xdrawchem,5259,984,984,1239,144,225,5151,7227,72.76878372768783,Dansk <dansk@klid.dk>
+xed,11328,0,0,1598,0,0,10621,11328,100.0,dansk-gruppen <dansk@dansk-gruppen.dk>
+xfburn,1515,0,51,320,0,4,1410,1566,96.74329501915709,Danish (http://www.transifex.com/xfce/xfce-apps/language/da/)
+xfce4-appfinder,455,0,0,89,0,0,420,455,100.0,Danish (http://www.transifex.com/xfce/xfce4-appfinder/language/da/)
+xfce4-battery-plugin,145,0,0,42,0,0,155,145,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-calculator-plugin,39,0,0,16,0,0,34,39,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+xfce4-clipman-plugin,567,0,0,97,0,0,529,567,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-cpufreq-plugin,174,0,0,48,0,0,151,174,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-cpugraph-plugin,188,0,0,64,0,0,184,188,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-datetime-plugin,52,0,0,19,0,0,54,52,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-dict,531,0,0,121,0,0,490,531,100.0,Danish (http://app.transifex.com/xfce/xfce-apps/language/da/)
+xfce4-diskperf-plugin,163,0,18,36,0,1,146,181,90.05524861878453,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-docklike-plugin,153,0,0,43,0,0,145,153,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+xfce4-eyes-plugin,16,0,0,5,0,0,17,16,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,70,71,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-genmon-plugin,116,0,0,29,0,0,118,116,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-mailwatch-plugin,678,0,0,123,0,0,612,678,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-mount-plugin,380,0,0,56,0,0,343,380,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-mpc-plugin,58,0,41,19,0,16,48,99,58.58585858585859,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-netload-plugin,89,0,17,33,0,6,88,106,83.9622641509434,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-notes-plugin,173,0,0,65,0,0,172,173,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-notifyd,285,0,275,82,0,53,250,560,50.89285714285714,Danish (http://www.transifex.com/xfce/xfce-apps/language/da/)
+xfce4-panel,1954,0,0,489,0,0,1792,1954,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+xfce4-panel-profiles,94,0,50,28,0,5,87,144,65.27777777777779,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+xfce4-places-plugin,162,0,0,47,0,0,147,162,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-power-manager,1029,0,0,212,0,0,935,1029,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+xfce4-pulseaudio-plugin,195,0,0,46,0,0,172,195,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-screensaver,757,0,0,167,0,0,696,757,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+xfce4-screenshooter,515,0,58,88,0,1,444,573,89.87783595113437,Danish (http://app.transifex.com/xfce/xfce-apps/language/da/)
+xfce4-sensors-plugin,433,0,0,87,0,0,427,433,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-session,781,0,0,167,0,0,772,781,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+xfce4-settings,2476,0,0,580,0,0,2197,2476,100.0,Danish (https://app.transifex.com/xfce/teams/16840/da/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,20,22,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,118,129,100.0,Danish (https://www.transifex.com/xfce/teams/16840/da/)
+xfce4-systemload-plugin,87,0,0,23,0,0,82,87,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-taskmanager,229,0,0,74,0,0,216,229,100.0,Danish (http://app.transifex.com/xfce/xfce-apps/language/da/)
+xfce4-terminal,1616,0,0,400,0,0,1580,1616,100.0,Danish (http://app.transifex.com/xfce/xfce-apps/language/da/)
+xfce4-time-out-plugin,115,0,0,39,0,0,115,115,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-timer-plugin,135,0,3,48,0,1,124,138,97.82608695652173,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-verve-plugin,88,0,0,27,0,0,72,88,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-wavelan-plugin,74,0,6,20,0,2,80,80,92.5,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-weather-plugin,3598,0,0,321,0,0,3301,3598,100.0,Danish (http://app.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfce4-whiskermenu-plugin,448,0,0,143,0,0,431,448,100.0,Danish (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/da/)
+xfce4-xkb-plugin,57,0,0,22,0,0,53,57,100.0,Danish (http://www.transifex.com/xfce/xfce-panel-plugins/language/da/)
+xfconf,458,0,0,67,0,0,424,458,100.0,Danish (http://app.transifex.com/xfce/xfconf/language/da/)
+xfdashboard,1084,0,0,156,0,0,1054,1084,100.0,Danish (https://www.transifex.com/xfce/teams/16840/da/)
+xfdesktop,1065,0,16,254,0,3,968,1081,98.51988899167438,Danish (https://www.transifex.com/xfce/teams/16840/da/)
+xfe,834,2051,3355,364,537,212,808,6240,13.365384615384615,Danish
+xfmpc,175,0,0,78,0,0,163,175,100.0,Danish (http://www.transifex.com/xfce/xfce-apps/language/da/)
+xfwm4,666,0,0,178,0,0,650,666,100.0,Danish (http://www.transifex.com/xfce/xfwm4/language/da/)
+xiphos,505,340,4136,247,137,756,489,4981,10.13852640032122,Danish <da@li.org>
+xkeyboard-config,3819,0,0,1147,0,0,3715,3819,100.0,Danish <dansk@dansk-gruppen.dk>
+xmoto,3710,85,138,803,14,24,3505,3933,94.33002796847191,Dansk <LL@li.org>
+xournalpp,1267,0,3491,223,0,682,1173,4758,26.62883564522909,Danish
+xpad,162,0,274,45,0,90,188,436,37.15596330275229,Danish <dansk@klid.dk>
+xreader,1625,0,0,380,0,0,1538,1625,100.0,Danish (http://www.transifex.com/mate/MATE/language/da/)
+xsane,3224,0,0,728,0,0,2997,3224,100.0,Danish <dansk@dansk-gruppen.dk>
+xscreensaver,952,5631,6231,552,1076,508,886,12814,7.429374122054004,Danish <dansk@klid.dk>
+xsnow,4136,0,0,582,0,0,3978,4136,100.0,None
+xz,500,323,817,90,53,117,499,1640,30.48780487804878,Danish <dansk@dansk-gruppen.dk>
+yakuake,1668,0,3,236,0,2,1502,1671,99.82046678635548,Danish <kde-i18n-doc@kde.org>
+yelp,351,0,0,74,0,0,304,351,100.0,Danish <dansk@dansk-gruppen.dk>
+yelp-xsl,85,0,0,62,0,0,83,85,100.0,Danish <dansk@dansk-gruppen.dk>
+zabbix,1888,0,17633,418,0,3548,1847,19521,9.671635674401927,none
+zanshin,470,25,0,110,8,0,495,495,94.94949494949495,Danish <kde-i18n-doc@kde.org>
+zenity,3890,0,0,547,0,0,3297,3890,100.0,Danish <dansk@dansk-gruppen.dk>
+zypper,9112,0,766,1225,0,45,8479,9878,92.24539380441385,Danish <https://l10n.opensuse.org/projects/zypper/master/da/>

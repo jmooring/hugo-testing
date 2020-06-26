@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iso-codes,120,591,11309,115,553,7828,118,12020,0.9983361064891847,Pushto
+kde-i18n,7,0,0,6,0,0,6,7,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+pidgin,2141,677,12836,956,238,2142,2704,15654,13.677015459307526,Pashto

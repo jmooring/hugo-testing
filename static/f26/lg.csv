@@ -1,0 +1,49 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+asunder,8,0,487,8,0,83,11,495,1.6161616161616161,http://littlesvr.ca/ostd/
+audience,0,0,106,0,0,48,0,106,0.0,
+coreutils,9647,8332,2753,1074,443,227,14377,20732,46.53193131391086,Luganda <kbirabwa@yahoo.co.uk>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+findutils,103,315,2150,27,34,178,129,2568,4.010903426791277,Luganda <kompyuta@kizito.freeuk.com>
+gpicview,236,0,0,52,0,0,264,236,100.0,Luganda <kbirabwa@yahoo.co.uk>
+gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,19,0,655,14,0,93,19,674,2.8189910979228485,http://littlesvr.ca/ostd/
+libgnomeui,332,0,894,129,0,191,309,1226,27.07993474714519,Luganda <kbirabwa@yahoo.co.uk>
+lxappearance,234,0,0,80,0,0,237,234,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxappearance-obconf,196,0,0,27,0,0,203,196,100.0,LANGUAGE <LL@li.org>
+lxde-common,14,0,0,5,0,0,20,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,53,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,96,83,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxlauncher,58,0,0,17,0,0,40,58,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,131,97,100.0,LANGUAGE <LL@li.org>
+lxmusic,203,0,0,89,0,0,252,203,100.0,LANGUAGE <LL@li.org>
+lxrandr,167,0,0,41,0,0,185,167,100.0,LANGUAGE <LL@li.org>
+lxsession,295,0,460,111,0,55,376,755,39.0728476821192,Deutsch <LL@li.org>
+lxshortcut,43,0,0,19,0,0,49,43,100.0,LANGUAGE <LL@li.org>
+lxtask,130,0,0,51,0,0,147,130,100.0,lg <kbirabwa@yahoo.co.uk>
+lxterminal,179,4,64,101,2,28,270,247,72.46963562753037,lg <kbirabwa@yahoo.co.uk>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+mingw-gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,5,0,47,5,0,27,14,52,9.615384615384617,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pcmanfm,1209,0,1,295,0,1,1351,1210,99.91735537190083,lg <kbirabwa@yahoo.co.uk>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sugar,4,58,1671,2,44,373,4,1733,0.2308136180034622,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,27,39,90,26,30,53,27,156,17.307692307692307,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1515,72,4,279,8,4,1249,1591,95.22313010685104,LANGUAGE <LL@li.org>
+virtaal,1422,39,192,449,12,83,1461,1653,86.02540834845736,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Ganda <lg@li.org>

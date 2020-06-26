@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,8,0,4900,8,0,759,9,4908,0.16299918500407498,Baluchi
+chkconfig,387,53,153,78,11,19,410,593,65.26138279932546,Baluchi <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bal/>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Baluchi
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+newt,4,0,0,4,0,0,4,4,100.0,Balochi <fedora-trans-bal@redhat.com>
+policycoreutils,8,0,4900,8,0,759,9,4908,0.16299918500407498,Baluchi
+python-fedora,0,0,214,0,0,29,0,214,0.0,Baluchi
+python-meh,0,0,109,0,0,23,0,109,0.0,Baluchi
+setuptool,55,0,0,14,0,0,67,55,100.0,Balochi <fedora-trans-bal@redhat.com>
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Balochi <fedora-trans-bal@redhat.com>

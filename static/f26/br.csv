@@ -1,0 +1,295 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+PackageKit,370,6,952,126,2,198,490,1328,27.86144578313253,Brezhoneg
+abrt,0,0,3230,0,0,390,0,3230,0.0,Breton (http://www.transifex.com/projects/p/fedora-abrt/language/br/)
+accerciser,77,0,458,59,0,146,84,535,14.392523364485982,Brenux <brenux@free.fr>
+aisleriot,489,162,1336,182,56,311,477,1987,24.609964771011576,Breton <br@li.org>
+alacarte,42,0,0,16,0,0,43,42,100.0,Breton <br@li.org>
+anaconda,0,0,7147,0,0,1191,0,7147,0.0,Breton
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+arandr,172,0,1,37,0,1,177,173,99.42196531791907,Breton <http://hosted.weblate.org/projects/arandr/translations/br/>
+asunder,14,0,481,13,0,78,14,495,2.8282828282828283,http://littlesvr.ca/ostd/
+atril,623,0,1101,218,0,179,741,1724,36.1368909512761,Breton (http://www.transifex.com/mate/MATE/language/br/)
+audience,0,0,106,0,0,48,0,106,0.0,
+banshee,1159,393,2650,522,136,436,1421,4202,27.58210376011423,Breton <br@li.org>
+baobab,210,0,0,57,0,0,244,210,100.0,
+blivet-gui,0,0,762,0,0,220,0,762,0.0,Breton
+brasero,5393,0,15,984,0,2,6173,5408,99.72263313609467,An Drouizig <drouizig@drouizig.org>
+caja,9095,0,218,1490,0,20,10370,9313,97.65918608396863,Breton (http://www.transifex.com/mate/MATE/language/br/)
+caja-extensions,6,0,550,5,0,122,8,556,1.079136690647482,Breton (http://www.transifex.com/mate/MATE/language/br/)
+calibre,1036,0,156265,768,0,17332,1082,157301,0.6586099261924591,Breton (http://www.transifex.com/calibre/calibre/language/br/)
+calligra,4613,5917,21110,2274,2039,2004,5688,31640,14.579646017699115,Brezhoneg <Suav.Icb@wanadoo.fr>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Breton (http://www.transifex.com/projects/p/certmonger/language/br/)
+cinnamon-desktop,98,0,133,12,0,19,110,231,42.42424242424242,Breton <jeremy.lefloch@gmail.com>
+cinnamon-translations,223,0,3535,60,0,907,271,3758,5.934007450771687,Brenux <brenux@free.fr>
+clementine,5091,0,0,1352,0,0,5936,5091,100.0,Breton (http://www.transifex.com/davidsansome/clementine/language/br/)
+control-center,474,89,4383,218,36,1200,577,4946,9.583501819652245,Breton <br@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Breton
+dnfdragora,195,0,574,142,0,174,206,769,25.35760728218466,Breton (https://www.transifex.com/MageiaLinux/teams/9361/br/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Breton
+empathy,2096,854,748,602,177,105,2313,3698,56.679286100594915,Breton <jeremy.lefloch@gmail.com>
+engrampa,1929,0,11,352,0,2,2164,1940,99.43298969072166,Breton (http://www.transifex.com/mate/MATE/language/br/)
+entangle,0,0,935,0,0,209,0,935,0.0,Breton
+eog,467,0,973,183,0,111,555,1440,32.43055555555556,Breton <br@li.org>
+eom,1715,0,2,317,0,1,1989,1717,99.88351776354106,Breton (http://www.transifex.com/mate/MATE/language/br/)
+epiphany,1751,0,1250,574,0,163,1984,3001,58.347217594135294,Brenux <brenux@free.fr>
+evince,572,15,673,199,4,122,677,1260,45.3968253968254,Breton
+evolution,2588,617,19114,1239,216,3316,3032,22319,11.595501590573054,Brenux <brenux@free.fr>
+fantasdic,69,0,0,34,0,0,92,69,100.0,GNOME Breton team <jeremy.lefloch@gmail.com>
+file-roller,1007,0,318,264,0,28,1200,1325,76.0,Drouizig <drouizig@drouizig.org>
+five-or-more,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+four-in-a-row,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+frozen-bubble,96,1,601,52,1,95,110,698,13.753581661891118,br <LL@li.org>
+gajim,2662,3590,5696,639,825,806,2867,11948,22.27987947773686,
+gcompris,17307,0,0,1947,0,0,18863,17307,100.0,An Drouizig <drouizig@drouizig.org>
+gconf-editor,244,4,88,84,1,13,308,336,72.61904761904762,Brenux <brenux@free.fr>
+gdk-pixbuf2,264,39,1045,53,7,142,326,1348,19.584569732937684,brenux <brenux@free.fr>
+gdm,218,97,335,44,17,26,269,650,33.53846153846154,Brenux <brenux@free.fr>
+gedit,2495,787,1681,787,103,214,2806,4963,50.27201289542616,Brenux <brenux@free.fr>
+gedit-plugins,501,249,455,249,86,134,558,1205,41.57676348547718,Brenux <brenux@free.fr>
+gimp,28600,11,24,7317,1,2,33682,28635,99.8777719573948,An Drouizig <drouizig@drouizig.org>
+gnome-chess,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+gnome-desktop,335,4,10,51,1,1,372,349,95.98853868194843,Breton <jeremy.lefloch@gmail.com>
+gnome-desktop3,335,4,10,51,1,1,372,349,95.98853868194843,Breton <jeremy.lefloch@gmail.com>
+gnome-dictionary,801,0,0,179,0,0,957,801,100.0,Brenux <brenux@free.fr>
+gnome-do,95,0,517,42,0,102,99,612,15.522875816993464,Brenux <brenux@free.fr>
+gnome-font-viewer,46,0,0,24,0,0,58,46,100.0,Drouizig <drouizig@drouizig.org>
+gnome-icon-theme,20,0,0,16,0,0,22,20,100.0,Brenux <brenux@free.fr>
+gnome-klotski,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+gnome-mahjongg,124,0,180,52,0,11,140,304,40.78947368421053,Breton <br@li.org>
+gnome-menus,161,0,0,57,0,0,190,161,100.0,GNOME Breton Team <jeremy.lefloch@gmail.com>
+gnome-mines,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+gnome-nettool,294,0,214,129,0,64,334,508,57.874015748031496,Breton <br@li.org>
+gnome-nibbles,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+gnome-online-accounts,217,124,124,77,61,30,228,465,46.666666666666664,Breton <jeremy.lefloch@gmail.com>
+gnome-robots,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+gnome-screensaver,386,7,589,86,3,66,445,982,39.307535641547865,Breton <br@li.org>
+gnome-screenshot,263,56,0,50,9,0,311,319,82.44514106583071,Brenux <brenux@free.fr>
+gnome-search-tool,1348,3,8,198,1,1,1565,1359,99.19058130978661,Brenux <brenux@free.fr>
+gnome-session,668,7,0,112,1,0,732,675,98.96296296296296,Brenux <brenux@free.fr>
+gnome-settings-daemon,129,20,1469,65,6,172,160,1618,7.972805933250927,GNOME Breton team <jeremy.lefloch@gmail.com>
+gnome-sudoku,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+gnome-system-log,504,0,18,90,0,4,582,522,96.55172413793103,Brenux <brenux@free.fr>
+gnome-terminal,639,12,3296,216,1,245,702,3947,16.18951102102863,Brenux <brenux@free.fr>
+gnome-tetravex,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+gnome-themes,36,0,73,14,0,16,50,109,33.02752293577982,Breton <br@li.org>
+gnome-user-share,326,0,0,51,0,0,379,326,100.0,Brenux <brenux@free.fr>
+gparted,318,0,1087,141,0,159,361,1405,22.63345195729537,Breton <br@li.org>
+gramps,320,7890,29338,180,2651,3507,348,37548,0.8522424629807179,Breton <br@li.org>
+gtk2,1333,97,12274,694,29,2061,1550,13704,9.727086981903094,brenux <brenux@free.fr>
+gtk3,1689,43,11152,951,19,1930,2018,12884,13.109282831418815,Brenux <brenux@free.fr>
+gucharmap,178,0,625,116,0,182,206,803,22.166874221668742,Breton <br@li.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+homebank,1956,0,411,651,0,104,2341,2367,82.6362484157161,Breton <alan.monfort@free.fr>
+iagno,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Breton
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Breton (http://www.transifex.com/projects/p/fedora/language/br/)
+inkscape,34155,1886,1898,7422,478,212,40642,37939,90.02609452015076,An Drouizig - www.drouizig.org <alan.monfort@free.fr>
+iso-codes,1748,1173,13518,1198,559,8777,1751,16439,10.63325019770059,Breton <brenux@free.fr>
+isomaster,27,1,646,21,1,85,34,674,4.005934718100891,http://littlesvr.ca/ostd/
+kaudiocreator,199,93,844,109,42,122,240,1136,17.517605633802816,br <LL@li.org>
+kcoloredit,9,90,179,6,29,60,14,278,3.237410071942446,br <LL@li.org>
+kde-cli-tools,167,37,1495,57,10,96,199,1699,9.829311359623308,Brezhoneg <Suav.Icb.fr>
+kdevelop,25,110,530,13,40,107,33,665,3.7593984962406015,Brezhoneg <Suav.Icb@wanadoo.fr>
+kdiff3,341,71,3105,146,40,451,475,3517,9.695763434745523,br <LL@li.org>
+kdissert,243,0,1784,131,0,151,280,2027,11.988159842131228,br <LL@li.org>
+keurocalc,195,0,96,86,0,30,214,291,67.0103092783505,br <LL@li.org>
+kexi,453,2791,4059,217,768,498,592,7303,6.202930302615363,br <LL@li.org>
+kf5-kauth,0,4,69,0,1,7,0,73,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kbookmarks,0,139,91,0,42,7,0,230,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kcmutils,55,63,446,17,14,41,56,564,9.75177304964539,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kcodecs,0,50,298,0,36,17,0,348,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kconfig,0,0,261,0,0,100,0,261,0.0,Brezhoneg <Suav.Icb.fr>
+kf5-kconfigwidgets,112,121,88,64,40,13,143,321,34.890965732087224,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kcoreaddons,0,206,95,0,75,20,0,301,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kdeclarative,4,43,62,2,7,5,8,109,3.669724770642202,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kdelibs4support,802,1451,2560,646,938,780,1051,4813,16.66320382297943,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kdesignerplugin,0,4,50,0,2,7,0,54,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kdoctools,8,0,0,4,0,0,22,8,100.0,Brezhoneg <Suav.Icb.fr>
+kf5-kglobalaccel,0,40,31,0,5,4,0,71,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kholidays,0,47,62,0,35,42,0,109,0.0,br <LL@li.org>
+kf5-khtml,368,181,1172,156,64,90,467,1721,21.382916908773968,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-ki18n,2,118,4,2,105,3,2,124,1.6129032258064515,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kiconthemes,24,4,7,13,3,2,27,35,68.57142857142857,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kinit,28,14,92,6,3,5,42,134,20.8955223880597,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kio,1055,1812,9257,349,444,567,1274,12124,8.701748597822501,Brezhoneg <Suav.Icb.fr>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kjobwidgets,0,97,26,0,33,3,0,123,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kjsembed,10,60,178,2,15,27,12,248,4.032258064516129,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-knewstuff,27,232,430,21,88,48,31,689,3.9187227866473147,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-knotifications,0,13,5,0,5,1,0,18,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-knotifyconfig,10,24,95,3,10,4,11,129,7.751937984496124,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kparts,33,40,31,12,11,3,43,104,31.73076923076923,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kpty,7,0,8,2,0,2,11,15,46.666666666666664,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kross,16,51,33,14,13,8,20,100,16.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kservice,17,44,109,4,10,14,23,170,10.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-ktexteditor,467,905,6990,204,342,667,577,8362,5.58478832815116,Brezhoneg <Suav.Icb.fr>
+kf5-ktextwidgets,112,61,289,40,39,43,125,462,24.242424242424242,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kwidgetsaddons,0,767,548,0,348,108,0,1315,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-kxmlgui,120,490,986,76,92,60,149,1596,7.518796992481203,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-sonnet,0,75,588,0,40,32,0,663,0.0,Brezhoneg <Suav.Icb@wanadoo.fr>
+kf5-syntax-highlighting,0,240,208,0,173,118,0,448,0.0,Brezhoneg <Suav.Icb.fr>
+kgamma,14,4,112,9,1,6,15,130,10.76923076923077,br <LL@li.org>
+khotkeys,30,103,303,22,62,45,40,436,6.8807339449541285,Brezhoneg <Suav.Icb.fr>
+kiconedit,642,7,77,136,2,17,663,726,88.42975206611571,Brezhoneg <Suav.Icb@wanadoo.fr>
+kinfocenter,268,85,850,153,32,116,312,1203,22.27763923524522,Brezhoneg <Suav.Icb@wanadoo.fr>
+kio_gopher,8,1,8,2,1,2,11,17,47.05882352941176,br <LL@li.org>
+kjots,63,44,292,33,14,59,84,399,15.789473684210526,Brezhoneg <Suav.Icb@wanadoo.fr>
+kmenuedit,61,14,202,31,4,26,74,277,22.021660649819495,Brezhoneg <Suav.Icb.fr>
+knemo,101,159,976,66,77,209,110,1236,8.171521035598705,br <LL@li.org>
+koffice-kivio,2542,136,5739,1256,85,1020,3033,8417,30.200784127361292,Brezhoneg <Suav.Icb@wanadoo.fr>
+kpilot,564,502,6090,208,145,508,670,7156,7.881498043599776,Breton <LL@li.org>
+krita,508,9045,13031,354,3962,1445,569,22584,2.249380092100602,Brezhoneg <Suav.Icb@wanadoo.fr>
+ksig,30,0,55,16,0,10,37,85,35.294117647058826,br <LL@li.org>
+kstars,1644,13023,40544,895,6716,8171,1909,55211,2.977667493796526,Brezhoneg <Suav.Icb@wanadoo.fr>
+ksysguard,153,110,818,80,44,109,177,1081,14.153561517113783,Brezhoneg <br@li.org>
+kwin,349,344,3715,168,119,398,418,4408,7.917422867513611,Brezhoneg <Suav.Icb.fr>
+l3afpad,113,0,17,61,0,3,145,130,86.92307692307692,Breton Team <brenux@free.fr>
+leafpad,125,0,0,68,0,0,158,125,100.0,Breton Team <brenux@free.fr>
+libbonobo,470,0,73,101,0,6,585,543,86.55616942909761,GNOME Breton Team <jeremy.lefloch@gmail.com>
+libbonoboui,86,0,282,49,0,66,97,368,23.369565217391305,Breton <br@li.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Breton
+libcryptui,929,13,2117,381,3,272,1137,3059,30.36940176528277,Britton <br@li.org>
+libgnome,203,3,1611,56,1,224,235,1817,11.172261970280681,Breton <br@li.org>
+libgnome-media-profiles,91,0,369,29,0,22,106,460,19.782608695652172,Brenux <brenux@free.fr>
+libgnomecanvas,30,0,348,21,0,74,35,378,7.936507936507936,Breton <br@li.org>
+libgnomeui,1226,0,0,320,0,0,1454,1226,100.0,Brenux <brenux@free.fr>
+libgweather,5478,2,610,4349,1,205,5483,6090,89.95073891625616,Brenux <brenux@free.fr>
+libkexif,25,0,0,14,0,0,31,25,100.0,br <LL@li.org>
+libmatekbd,16,0,235,9,0,34,20,251,6.374501992031872,Breton (http://www.transifex.com/mate/MATE/language/br/)
+libmateweather,5475,0,649,4346,0,211,5479,6124,89.4023514043109,Breton (http://www.transifex.com/mate/MATE/language/br/)
+libosinfo,0,0,662,0,0,145,0,662,0.0,Breton
+libreoffice,95414,0,4537,29924,0,1557,109839,99951,95.46077578013227,LANGUAGE <LL@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Breton (http://www.transifex.com/projects/p/libreport/language/br/)
+libvirt,0,0,60645,0,0,9430,0,60645,0.0,Breton
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Breton (http://www.transifex.com/projects/p/libvirt-glib/language/br/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Breton (http://www.transifex.com/projects/p/fedora/language/br/)
+libwnck,240,8,876,98,2,141,257,1124,21.352313167259787,Brenux <brenux@free.fr>
+libwnck3,240,8,876,98,2,141,257,1124,21.352313167259787,Brenux <brenux@free.fr>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Breton (http://www.transifex.com/the_cavalry/light-locker/language/br/)
+lightdm,3,0,160,1,0,20,4,163,1.8404907975460123,Breton <br@li.org>
+lightdm-gtk,68,0,19,22,0,3,75,87,78.16091954022988,Breton <br@li.org>
+lightdm-gtk-greeter-settings,125,0,394,80,0,91,151,519,24.084778420038536,Breton <br@li.org>
+lightsoff,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+lxmenu-data,59,12,26,24,4,9,76,97,60.824742268041234,GNOME Breton Team <jeremy.lefloch@gmail.com>
+marco,928,0,3161,169,0,245,1148,4089,22.69503546099291,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-applets,1434,0,1184,365,0,260,1607,2618,54.77463712757831,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-control-center,1755,0,967,474,0,174,2161,2722,64.4746509919177,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-desktop,2175,0,171,310,0,20,2632,2346,92.71099744245525,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-media,224,0,2,95,0,1,258,226,99.11504424778761,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-menu,293,3,4,107,1,2,378,300,97.66666666666667,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-menus,97,0,0,37,0,0,110,97,100.0,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-panel,4152,0,201,567,0,20,4859,4353,95.38249483115094,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-power-manager,19,0,2705,10,0,430,23,2724,0.6975036710719531,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-screensaver,181,0,802,61,0,95,230,983,18.413021363173957,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-sensors-applet,4,0,300,4,0,101,7,304,1.3157894736842104,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-session-manager,665,0,16,112,0,2,766,681,97.65051395007343,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-settings-daemon,139,0,1625,52,0,201,177,1764,7.879818594104308,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-system-monitor,50,0,1257,23,0,285,54,1307,3.825554705432287,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-terminal,345,0,4094,178,0,331,399,4439,7.772020725388601,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-themes,7,0,51,2,0,9,9,58,12.068965517241379,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-user-guide,5,0,0,2,0,0,5,5,100.0,Breton (http://www.transifex.com/mate/MATE/language/br/)
+mate-utils,3655,0,22,655,0,5,4283,3677,99.40168615719337,Breton (http://www.transifex.com/mate/MATE/language/br/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+metacity,745,5,3115,165,2,246,899,3865,19.27554980595084,Brenux <brenux@free.fr>
+mingw-gdk-pixbuf,264,39,1045,53,7,142,326,1348,19.584569732937684,brenux <brenux@free.fr>
+mingw-gtk2,1333,97,12274,694,29,2061,1550,13704,9.727086981903094,brenux <brenux@free.fr>
+mingw-gtk3,1689,43,11152,951,19,1930,2018,12884,13.109282831418815,Brenux <brenux@free.fr>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Breton
+mingw-libvirt,0,0,60660,0,0,9432,0,60660,0.0,Breton
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Breton (http://www.transifex.com/projects/p/libvirt-glib/language/br/)
+mintmenu,2,0,328,2,0,117,2,330,0.6060606060606061,Breton <br@li.org>
+mozo,42,0,0,16,0,0,46,42,100.0,Breton (http://www.transifex.com/mate/MATE/language/br/)
+muffin,628,54,1755,155,10,195,741,2437,25.7693885925318,Brenux <brenux@free.fr>
+mutter,628,54,1755,155,10,195,741,2437,25.7693885925318,Brenux <brenux@free.fr>
+nautilus,8788,13,0,1417,1,0,10044,8801,99.85228951255539,Brenux <brenux@free.fr>
+nautilus-sendto,98,0,218,33,0,34,112,316,31.0126582278481,Breton <br@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+onboard,78,0,2240,25,0,485,89,2318,3.364969801553063,Breton <br@li.org>
+openerp,80,0,10761,48,0,1591,87,10841,0.7379393044922056,Breton <br@li.org>
+openerp7,13,0,10742,6,0,1628,14,10755,0.1208740120874012,Breton <br@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Breton (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/br/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Breton
+pacman,5382,0,16,893,0,3,6455,5398,99.70359392367544,Breton (http://www.transifex.com/toofishes/archlinux-pacman/language/br/)
+pam,0,0,597,0,0,120,0,597,0.0,Breton (http://www.transifex.com/projects/p/fedora/language/br/)
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pessulus,86,0,44,30,0,3,108,130,66.15384615384615,Brenux <Brenux@free.fr>
+php-phpmyadmin-sql-parser,0,66,161,0,15,29,0,227,0.0,Breton <https://hosted.weblate.org/projects/phpmyadmin/master/br/>
+pidgin,9562,10,6184,2338,1,1094,10738,15756,60.687991876110694,Breton (http://www.transifex.com/pidgin/pidgin/language/br/)
+pinta,1361,0,257,478,0,50,1665,1618,84.11619283065514,Breton <br@li.org>
+plasma-desktop,835,921,6883,379,298,808,967,8639,9.665470540571826,Brezhoneg <Suav.Icb.fr>
+plasma-oxygen,0,0,621,0,0,221,0,621,0.0,br <LL@li.org>
+plasma-workspace,42,145,4635,24,56,441,54,4822,0.8710078805474907,Brezhoneg <Suav.Icb.fr>
+pluma,4025,0,1013,870,0,234,4670,5038,79.89281460897182,Breton (http://www.transifex.com/mate/MATE/language/br/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Breton (http://www.transifex.com/projects/p/fedora/language/br/)
+pychess,23,0,4432,21,0,858,23,4455,0.5162738496071829,Breton (http://www.transifex.com/gbtami/pychess/language/br/)
+pykickstart,0,0,1386,0,0,152,0,1386,0.0,Breton
+pyroom,16,0,395,6,0,68,17,411,3.8929440389294405,Breton <br@li.org>
+python-blivet1,0,0,696,0,0,131,0,696,0.0,Breton
+python-caja,6,0,0,2,0,0,10,6,100.0,Breton (http://www.transifex.com/mate/MATE/language/br/)
+python-django,1034,0,2384,435,0,356,1131,3418,30.251609128145112,Breton (http://www.transifex.com/django/django/language/br/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Breton (http://www.transifex.com/projects/p/django-formtools/language/br/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Breton
+python-meh,0,0,109,0,0,23,0,109,0.0,Breton
+quadrapassel,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+rhythmbox,4371,218,208,1047,47,37,5029,4797,91.11944965603502,Breton <jeremy.lefloch@gmail.com>
+rpm,399,66,3686,129,18,663,532,4151,9.612141652613827,Breton (http://www.transifex.com/rpm-team/rpm/language/br/)
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+seahorse,929,13,2117,381,3,272,1137,3059,30.36940176528277,Britton <br@li.org>
+seahorse-caja,255,10,156,80,1,29,300,421,60.57007125890736,Breton <br@li.org>
+seahorse-nautilus,255,10,156,80,1,29,300,421,60.57007125890736,Breton <br@li.org>
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Breton (http://www.transifex.com/projects/p/fedora/language/br/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Breton (http://www.transifex.com/projects/p/fedora/language/br/)
+slick-greeter,123,0,88,37,0,10,136,211,58.29383886255924,Breton <br@li.org>
+sound-juicer,550,16,456,158,2,38,664,1022,53.8160469667319,GNOME Breton team <jeremy.lefloch@gmail.com>
+soundconverter,372,0,16,117,0,4,416,388,95.87628865979381,Breton <br@li.org>
+sssd,60,24,30967,29,12,2300,66,31051,0.19323049177160156,Breton (http://www.transifex.com/projects/p/sssd/language/br/)
+stellarium,659,0,25274,254,0,6422,718,25933,2.541163768171827,Breton <jeremy.lefloch@gmail.com>
+sugar,1,0,1732,1,0,418,1,1733,0.05770340450086555,LANGUAGE <LL@li.org>
+sugar-browse,3,0,186,3,0,49,3,189,1.5873015873015872,LANGUAGE <LL@li.org>
+sugar-calculator,23,0,848,23,0,141,23,871,2.640642939150402,LANGUAGE <LL@li.org>
+sugar-chat,1,0,136,1,0,80,1,137,0.7299270072992701,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,51,0,0,13,0,51,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,1,0,68,1,0,21,1,69,1.4492753623188406,LANGUAGE <LL@li.org>
+sugar-log,2,0,96,2,0,19,2,98,2.0408163265306123,LANGUAGE <LL@li.org>
+sugar-pippy,7,0,102,6,0,25,7,109,6.422018348623854,LANGUAGE <LL@li.org>
+sugar-read,4,0,133,4,0,46,4,137,2.9197080291970803,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,73,7,76,62,6,41,68,156,46.794871794871796,LANGUAGE <LL@li.org>
+sugar-turtleart,0,0,1459,0,0,435,0,1459,0.0,LANGUAGE <LL@li.org>
+sugar-write,4,0,117,5,0,50,4,121,3.3057851239669422,LANGUAGE <LL@li.org>
+supertux,1515,0,1465,584,0,334,1634,2980,50.83892617449665,Breton (http://www.transifex.com/arctic-games/supertux/language/br/)
+supertuxkart,3137,0,224,710,0,42,3574,3361,93.33531686997917,Breton (http://www.transifex.com/supertuxkart/supertuxkart/language/br/)
+swell-foop,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Breton (http://www.transifex.com/projects/p/system-config-kickstart/language/br/)
+system-config-printer,2670,7,483,669,4,82,3319,3160,84.49367088607595,Breton (http://www.transifex.com/projects/p/system-config-printer/language/br/)
+tali,994,50,7474,547,15,1381,1045,8518,11.669405963841276,Breton <br@li.org>
+tomboy,260,6,2585,137,5,272,314,2851,9.119607155384076,Breton translation team <Brenux@free.fr>
+totem,924,63,1712,353,13,237,1062,2699,34.23490181548722,GNOME Breton team <jeremy.lefloch@gmail.com>
+totem-pl-parser,28,0,0,7,0,0,23,28,100.0,Brenux <brenux@free.fr>
+transmission,188,0,1621,120,0,374,224,1809,10.39248203427308,Breton <br@li.org>
+tuxpaint,351,901,339,104,97,90,361,1591,22.061596480201132,none
+tuxpaint-stamps,0,0,2711,0,0,650,0,2711,0.0,
+virt-viewer,0,0,784,0,0,169,0,784,0.0,Breton
+vocal,0,0,377,0,0,79,0,377,0.0,Breton <br@li.org>
+xdg-user-dirs,26,2,0,26,2,0,26,28,92.85714285714286,Breton <brenux@free.fr>
+xed,1721,0,2787,561,0,409,1920,4508,38.17657497781721,Breton (http://www.transifex.com/projects/p/MATE/language/br/)
+xplayer,673,0,1284,245,0,248,769,1957,34.38937148696985,GNOME Breton team <jeremy.lefloch@gmail.com>
+xplayer-plparser,28,0,0,7,0,0,23,28,100.0,Brenux <brenux@free.fr>
+xreader,555,0,1098,190,0,194,643,1653,33.57531760435572,Breton (http://www.transifex.com/mate/MATE/language/br/)
+xviewer,327,0,1350,122,0,202,396,1677,19.499105545617173,Breton <br@li.org>
+yelp,176,42,876,100,22,235,215,1094,16.087751371115175,Britton

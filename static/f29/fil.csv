@@ -1,0 +1,70 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,658,37,7145,100,2,1186,740,7840,8.392857142857142,Filipino
+arduino,1259,0,1834,239,0,351,1432,3093,40.704817329453604,Filipino (http://www.transifex.com/mbanzi/arduino-ide-15/language/fil/)
+aria2,68,0,7418,7,0,392,81,7486,0.9083622762489982,Filipino <fil@li.org>
+blueberry,24,0,117,7,0,27,33,141,17.02127659574468,Filipino <fil@li.org>
+calibre,3350,0,155652,430,0,17818,3997,159002,2.106891737210853,Filipino (http://www.transifex.com/calibre/calibre/language/fil/)
+cinnamon-translations,2274,0,14918,742,0,2977,2890,17192,13.22708236389018,Filipino <fil@li.org>
+deepin-daemon,9,0,1414,3,0,437,8,1423,0.6324666198172875,Filipino (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/fil/)
+deepin-terminal,5,0,373,4,0,155,5,378,1.3227513227513228,Filipino (https://www.transifex.com/linuxdeepin/teams/3976/fil/)
+dnf,513,0,3205,144,0,607,665,3718,13.797740720817645,Filipino
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,Filipino <fil@li.org>
+libdnf,8,0,1015,1,0,172,9,1023,0.7820136852394917,Filipino
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Filipino (http://www.transifex.com/mate/MATE/language/fil/)
+libvirt,0,0,63807,0,0,9846,0,63807,0.0,Filipino
+mate-applets,191,0,2669,5,0,190,88,2860,6.678321678321679,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mate-menu,12,0,304,6,0,112,19,316,3.79746835443038,Filipino (http://www.transifex.com/mate/MATE/language/fil/)
+mate-menus,1,0,96,1,0,36,2,97,1.0309278350515463,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mate-panel,64,0,878,2,0,61,30,942,6.794055201698514,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Filipino (http://www.transifex.com/mate/MATE/language/fil/)
+mate-utils,64,0,1889,2,0,92,30,1953,3.277009728622632,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mingw-libvirt,0,0,63557,0,0,9817,0,63557,0.0,Filipino
+nemo-extensions,1,0,7,1,0,1,2,8,12.5,Filipino <fil@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,165,158,100.0,LANGUAGE <LL@li.org>
+onboard,2,0,2316,2,0,508,4,2318,0.08628127696289906,Filipino <fil@li.org>
+pantheon-greeter,0,0,29,0,0,10,0,29,0.0,Filipino <fil@li.org>
+phatch,1404,0,1149,497,0,327,1716,2553,54.99412455934195,Filipino <fil@li.org>
+pinta,100,0,1518,73,0,455,132,1618,6.180469715698393,Filipino <fil@li.org>
+policycoreutils,6,0,4491,6,0,692,8,4497,0.13342228152101399,Filipino
+rpm-ostree,8,0,1015,1,0,172,9,1023,0.7820136852394917,Filipino
+slick-greeter,41,0,170,18,0,29,44,211,19.431279620853083,Filipino <fil@li.org>
+sugar,7,0,2298,2,0,527,8,2305,0.3036876355748373,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,28,0,0,23,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-browse,26,18,290,17,2,52,33,334,7.784431137724551,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,871,0,0,164,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,30,0,107,12,0,69,34,137,21.897810218978105,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,258,0,0,63,0,258,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,3,0,118,3,0,43,3,121,2.479338842975207,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,150,0,0,34,0,150,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,58,0,0,16,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,69,0,0,22,0,69,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,98,0,0,21,0,98,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,106,0,0,61,0,106,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,5,0,269,4,0,62,5,274,1.824817518248175,LANGUAGE <LL@li.org>
+sugar-read,24,0,113,14,0,36,28,137,17.51824817518248,LANGUAGE <LL@li.org>
+sugar-record,3,0,59,1,0,23,3,62,4.838709677419355,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,3,0,224,1,0,73,3,227,1.3215859030837005,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,1,0,120,1,0,25,1,121,0.8264462809917356,LANGUAGE <LL@li.org>
+sugar-toolkit,70,1,2,35,1,1,77,73,95.8904109589041,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,85,1,73,49,1,61,93,159,53.459119496855344,LANGUAGE <LL@li.org>
+sugar-turtleart,0,0,1459,0,0,435,0,1459,0.0,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+sugar-write,36,0,85,21,0,34,48,121,29.75206611570248,LANGUAGE <LL@li.org>
+transmission,176,0,1633,87,0,407,247,1809,9.729132117191819,Filipino <fil@li.org>
+visualboyadvance-m,0,0,2253,0,0,825,0,2253,0.0,Filipino (http://www.transifex.com/bgk/vba-m/language/fil/)
+wingpanel-indicator-sound,0,0,15,0,0,7,0,15,0.0,Filipino <fil@li.org>

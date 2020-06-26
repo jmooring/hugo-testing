@@ -1,0 +1,131 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+at-spi2-core,279,0,173,150,0,22,278,452,61.72566371681416,Abkhazian <daniel.abzakh@gmail.com>
+baobab,44,0,252,4,0,74,41,296,14.864864864864865,Abkhazian <daniel.abzakh@gmail.com>
+blender,197,0,0,155,0,0,201,197,100.0,Abkhazian <https://translate.blender.org/projects/blender-ui/ui/ab/>
+bookworm,14,781,0,4,145,0,4,795,1.7610062893081762,Abkhazian <https://hosted.weblate.org/projects/bookworm/bookworm/ab/>
+budgie-session,435,0,0,68,0,0,357,435,100.0,
+cheese,427,6,195,111,1,18,303,628,67.99363057324841,Abkhazian <daniel.abzakh@gmail.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dconf-editor,584,27,2320,188,6,195,554,2931,19.924940293415215,Abkhazian <daniel.abzakh@gmail.com>
+devhelp,26,0,387,9,0,92,22,413,6.2953995157385,Abkhazian <daniel.abzakh@gmail.com>
+dippi,0,0,1540,0,0,255,0,1540,0.0,none
+elementary-code,0,0,1572,0,0,294,0,1572,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2538,0,0,551,0,2538,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,207,0,0,41,0,207,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+eog,388,0,1260,152,0,166,342,1648,23.54368932038835,Abkhazian <daniel.abzakh@gmail.com>
+epiphany,286,0,4486,80,0,780,263,4772,5.993294216261526,Abkhazian <daniel.abzakh@gmail.com>
+evince,224,0,1544,110,0,336,210,1768,12.669683257918551,Abkhazian <daniel.abzakh@gmail.com>
+evolution,1307,0,28296,645,0,5244,1166,29603,4.415093064892072,Abkhazian <daniel.abzakh@gmail.com>
+file-roller,140,0,1173,75,0,231,146,1313,10.662604722010663,Abkhazian <daniel.abzakh@gmail.com>
+folks,52,0,932,11,0,111,57,984,5.284552845528456,Abkhazian <daniel.abzakh@gmail.com>
+gala,0,0,259,0,0,56,0,259,0.0,none
+gcr,83,0,335,47,0,101,77,418,19.85645933014354,Abkhazian <daniel.abzakh@gmail.com>
+gdk-pixbuf2,28,0,1297,6,0,192,21,1325,2.1132075471698113,Abkhazian <daniel.abzakh@gmail.com>
+gdm,90,0,596,14,0,81,89,686,13.119533527696792,Abkhazian <daniel.abzakh@gmail.com>
+gimagereader,0,0,1817,0,0,482,0,1817,0.0,none
+gitg,95,0,2442,27,0,435,81,2537,3.7445802128498227,Abkhazian <daniel.abzakh@gmail.com>
+glade,327,0,6616,151,0,1658,317,6943,4.709779634163906,Abkhazian <ab@li.org>
+glib-networking,4,0,443,1,0,64,4,447,0.8948545861297539,Abkhazian <daniel.abzakh@gmail.com>
+glib2,383,11,7299,85,1,1125,340,7693,4.978551930326271,Abkhazian <daniel.abzakh@gmail.com>
+gnome-bluetooth,128,0,190,66,0,26,124,318,40.25157232704403,Abkhazian <daniel.abzakh@gmail.com>
+gnome-boxes,168,0,1068,63,0,188,174,1236,13.592233009708737,Abkhazian <daniel.abzakh@gmail.com>
+gnome-builder,205,0,5113,108,0,1258,220,5318,3.854832643851072,Abkhazian <daniel.abzakh@gmail.com>
+gnome-calculator,395,0,1339,221,0,423,391,1734,22.779700115340255,Abkhazian <daniel.abzakh@gmail.com>
+gnome-calendar,507,0,347,162,0,87,501,854,59.367681498829036,Abkhazian <daniel.abzakh@gmail.com>
+gnome-characters,148,0,9,51,0,3,130,157,94.26751592356688,Abkhazian <ab@li.org>
+gnome-chess,1207,0,278,190,0,51,944,1485,81.27946127946129,Abkhazian <daniel.abzakh@gmail.com>
+gnome-clocks,252,2,97,106,1,35,222,351,71.7948717948718,Abkhazian <daniel.abzakh@gmail.com>
+gnome-connections,45,0,325,16,0,64,51,370,12.162162162162163,Abkhazian <daniel.abzakh@gmail.com>
+gnome-console,29,0,218,8,0,67,32,247,11.740890688259109,Abkhazian <LL@li.org>
+gnome-contacts,64,0,553,39,0,148,63,617,10.372771474878444,Abkhazian <daniel.abzakh@gmail.com>
+gnome-control-center,823,0,6628,353,0,1582,761,7451,11.04549724869145,Abkhazian <daniel.abzakh@gmail.com>
+gnome-desktop3,126,0,67,31,0,9,119,193,65.28497409326425,Abkhazian <daniel.abzakh@gmail.com>
+gnome-disk-utility,229,0,3849,41,0,710,182,4078,5.615497793035802,Abkhazian <daniel.abzakh@gmail.com>
+gnome-extensions-app,220,0,1750,102,0,419,218,1970,11.16751269035533,Abkhazian <daniel.abzakh@gmail.com>
+gnome-font-viewer,15,0,519,8,0,195,21,534,2.8089887640449436,Abkhazian <daniel.abzakh@gmail.com>
+gnome-initial-setup,43,0,833,23,0,106,41,876,4.908675799086757,Abkhazian <daniel.abzakh@gmail.com>
+gnome-logs,203,0,180,83,0,41,178,383,53.00261096605744,Abkhazian <daniel.abzakh@gmail.com>
+gnome-mahjongg,314,0,0,69,0,0,255,314,100.0,Abkhazian <ab@li.org>
+gnome-maps,68,0,1255,24,0,316,69,1323,5.139833711262283,Abkhazian <daniel.abzakh@gmail.com>
+gnome-music,123,0,296,45,0,76,127,419,29.355608591885442,Abkhazian <daniel.abzakh@gmail.com>
+gnome-nibbles,419,0,169,121,0,24,324,588,71.25850340136054,Abkhazian <daniel.abzakh@gmail.com>
+gnome-online-accounts,21,0,583,13,0,122,20,604,3.47682119205298,Abkhazian <ab@li.org>
+gnome-photos,164,0,408,90,0,130,177,572,28.671328671328673,Abkhazian <daniel.abzakh@gmail.com>
+gnome-remote-desktop,180,0,389,15,0,11,127,569,31.63444639718805,Abkhazian <daniel.abzakh@gmail.com>
+gnome-session,435,0,0,68,0,0,357,435,100.0,
+gnome-settings-daemon,976,0,2954,183,0,357,852,3930,24.834605597964376,Abkhazian <daniel.abzakh@gmail.com>
+gnome-shell,220,0,1750,102,0,419,218,1970,11.16751269035533,Abkhazian <daniel.abzakh@gmail.com>
+gnome-shell-extensions,270,0,0,53,0,0,240,270,100.0,Abkhazian <ab@li.org>
+gnome-software,248,0,4645,105,0,843,230,4893,5.068465154302064,Abkhazian <daniel.abzakh@gmail.com>
+gnome-sudoku,308,0,125,63,0,13,236,433,71.13163972286374,Abkhazian <daniel.abzakh@gmail.com>
+gnome-system-monitor,188,0,1378,82,0,259,168,1566,12.005108556832694,Abkhazian <daniel.abzakh@gmail.com>
+gnome-terminal,75,0,2552,41,0,474,81,2627,2.854967643700038,Abkhazian <ab@li.org>
+gnome-text-editor,101,0,948,57,0,221,106,1049,9.628217349857007,Abkhazian <daniel.abzakh@gmail.com>
+gnome-tour,171,0,0,36,0,0,158,171,100.0,Abkhazian <ab@li.org>
+gnome-tweaks,48,0,475,40,0,112,54,523,9.177820267686425,Abkhazian <daniel.abzakh@gmail.com>
+gnome-user-share,41,0,8,7,0,3,39,49,83.6734693877551,Abkhazian <ab@li.org>
+gnome-video-effects,256,0,0,68,0,0,151,256,100.0,Abkhazian <ab@li.org>
+gnome-weather,203,0,23,48,0,2,185,226,89.82300884955751,Abkhazian <ab@li.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,369,0,0,86,0,369,0.0,
+grilo,191,0,0,36,0,0,169,191,100.0,Abkhazian <ab@li.org>
+grilo-plugins,494,0,0,120,0,0,424,494,100.0,Abkhazian <ab@li.org>
+gscan2pdf,0,0,1840,0,0,506,0,1840,0.0,Abkhazian <ab@li.org>
+gsettings-desktop-schemas,323,0,6884,60,0,570,306,7207,4.4817538504232,Abkhazian <daniel.abzakh@gmail.com>
+gspell,76,0,0,31,0,0,69,76,100.0,Abkhazian <ab@li.org>
+gtk3,1162,0,16016,370,0,3570,682,17178,6.764466177669112,Abkhazian <daniel.abzakh@gmail.com>
+gtk4,387,4,3728,170,4,1313,367,4119,9.395484340859433,Abkhazian <daniel.abzakh@gmail.com>
+gtksourceview4,308,0,0,94,0,0,287,308,100.0,Abkhazian <ab@li.org>
+gtksourceview5,371,0,0,112,0,0,353,371,100.0,Abkhazian <ab@li.org>
+gvfs,86,0,2011,30,0,374,72,2097,4.101096804959465,Abkhazian <daniel.abzakh@gmail.com>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hitori,239,0,0,63,0,0,186,239,100.0,Abkhazian <ab@li.org>
+iso-codes,0,74,1173,0,50,490,0,1247,0.0,Abkhazian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ab/>
+json-glib,307,0,0,47,0,0,256,307,100.0,Abkhazian <ab@li.org>
+libadwaita,113,0,150,28,0,45,114,263,42.96577946768061,Abkhazian <daniel.abzakh@gmail.com>
+libgnome-games-support,43,0,0,14,0,0,38,43,100.0,Abkhazian <ab@li.org>
+libgtop2,126,0,0,40,0,0,117,126,100.0,Abkhazian <ab@li.org>
+libgweather4,1877,239,4688,1413,221,3405,1570,6804,27.58671369782481,Abkhazian <daniel.abzakh@gmail.com>
+libpanel,3,0,81,3,0,21,4,84,3.571428571428571,Abkhazian <daniel.abzakh@gmail.com>
+libpeas,103,0,0,29,0,0,77,103,100.0,Abkhazian <ab@li.org>
+libpeas1,103,0,0,29,0,0,77,103,100.0,Abkhazian <ab@li.org>
+libreoffice,75447,767,94974,28255,495,10012,64376,171188,44.0725985466271,Abkhazian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/ab/>
+libsecret,64,0,0,10,0,0,46,64,100.0,Abkhazian <ab@li.org>
+libshumate,8,0,0,4,0,0,8,8,100.0,Abkhazian <ab@li.org>
+libsoup3,180,0,0,38,0,0,171,180,100.0,Abkhazian <ab@li.org>
+magpie,126,0,1127,34,0,114,158,1253,10.05586592178771,Abkhazian <daniel.abzakh@gmail.com>
+mingw-gdk-pixbuf,28,0,1297,6,0,192,21,1325,2.1132075471698113,Abkhazian <daniel.abzakh@gmail.com>
+mingw-glib-networking,4,0,443,1,0,64,4,447,0.8948545861297539,Abkhazian <daniel.abzakh@gmail.com>
+mingw-glib2,383,11,7299,85,1,1125,340,7693,4.978551930326271,Abkhazian <daniel.abzakh@gmail.com>
+mingw-gsettings-desktop-schemas,219,0,6988,37,0,593,179,7207,3.038712362980436,Abkhazian <daniel.abzakh@gmail.com>
+mingw-gtk3,1162,0,16016,370,0,3570,682,17178,6.764466177669112,Abkhazian <daniel.abzakh@gmail.com>
+mingw-gtk4,387,4,3728,170,4,1313,367,4119,9.395484340859433,Abkhazian <daniel.abzakh@gmail.com>
+mutter,39,0,1214,11,0,137,52,1253,3.1125299281723864,Abkhazian <daniel.abzakh@gmail.com>
+nautilus,232,0,5208,91,0,1031,212,5440,4.264705882352941,Abkhazian <daniel.abzakh@gmail.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,993,0,4808,310,0,1598,1085,5801,17.117738320979143,Abkhazian <daniel.abzakh@gmail.com>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+rygel,40,0,1592,22,0,280,39,1632,2.450980392156863,Abkhazian <daniel.abzakh@gmail.com>
+seahorse,345,0,2033,94,0,446,269,2378,14.507989907485284,Abkhazian <daniel.abzakh@gmail.com>
+simple-scan,87,0,897,47,0,168,91,984,8.841463414634147,Abkhazian <daniel.abzakh@gmail.com>
+sushi,54,0,0,14,0,0,43,54,100.0,Abkhazian <ab@li.org>
+swell-foop,334,4,2,69,2,1,246,340,98.23529411764706,Abkhazian <ab@li.org>
+tali,438,0,0,100,0,0,324,438,100.0,Abkhazian <ab@li.org>
+totem,114,0,1261,34,0,357,103,1375,8.290909090909091,Abkhazian <daniel.abzakh@gmail.com>
+tracker,51,0,537,16,0,95,39,588,8.673469387755102,Abkhazian <daniel.abzakh@gmail.com>
+tracker-miners,53,0,1771,24,0,270,48,1824,2.905701754385965,Abkhazian <daniel.abzakh@gmail.com>
+vte291,46,0,0,9,0,0,41,46,100.0,Abkhazian <ab@li.org>
+wingpanel,0,0,16,0,0,3,0,16,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,283,0,0,83,0,283,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,63,0,0,19,0,63,0.0,
+xdg-desktop-portal-gnome,225,0,6,62,0,3,195,231,97.40259740259741,Abkhazian <daniel.abzakh@gmail.com>
+xdg-desktop-portal-xapp,225,0,0,62,0,0,195,225,100.0,Abkhazian <ab@li.org>
+yelp,4,0,335,2,0,69,4,339,1.1799410029498525,Abkhazian <ab@li.org>
+yelp-xsl,88,0,0,64,0,0,88,88,100.0,Abkhazian <ab@li.org>
+zenity,235,0,661,72,0,127,227,896,26.22767857142857,Abkhazian <daniel.abzakh@gmail.com>

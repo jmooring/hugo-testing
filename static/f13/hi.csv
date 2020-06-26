@@ -1,0 +1,299 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,2181,2,817,894,2,76,2296,3000,72.7,Hindi <indlinux-hindi@lists.sourceforge.net>
+GConf2,4035,0,0,484,0,0,4690,4035,100.0,Hindi <hindi.sf.net>
+Miro,1297,0,2039,369,0,355,1658,3336,38.878896882494004,Hindi <hi@li.org>
+NetworkManager,2397,39,0,492,8,0,2843,2436,98.39901477832512,Hindi <fedora-trans-hi@redhat.com>
+PackageKit,1528,0,0,363,0,0,1910,1528,100.0,Hindi <hindi.sf.net>
+abrt,1552,47,32,275,7,5,1797,1631,95.15634580012262,Hindi <fedora-trans-hi@redhat.com>
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+alacarte,42,0,0,16,0,0,55,42,100.0,Hindi <hindi.sf.net>
+anaconda,8069,1499,184,1056,139,7,9518,9752,82.74200164068908,Hindi <Red Hat>
+anerley,5,0,0,5,0,0,5,5,100.0,HINDI
+anjuta,985,0,6340,566,0,1432,1171,7325,13.447098976109215,Hindi <hindi.sf.net>
+at-spi,24,0,0,5,0,0,26,24,100.0,Hindi <hindi.sf.net>
+atk,375,0,0,126,0,0,409,375,100.0,Hindi <hindi.sf.net>
+atomix,125,0,0,44,0,0,152,125,100.0,Gnome Hindi Team<indlinux-hindi-gnome@lists.sourceforge.net>
+audacious,327,224,746,211,108,94,361,1297,25.212027756360833,"Hindi, India <dysxhi@yahoo.co.in>"
+audacity,9628,0,0,2166,0,0,10979,9628,100.0,bashishtha singh <bashishtha.singh@gmail.com>
+authconfig,1325,0,0,239,0,0,1630,1325,100.0,Hindi <Red Hat>
+avant-window-navigator,4,0,1651,2,0,277,4,1655,0.2416918429003021,Hindi <hi@li.org>
+avogadro,119,0,3537,117,0,1179,161,3656,3.2549234135667398,Hindi <hi@li.org>
+ayttm,1242,348,1322,318,81,251,1418,2912,42.6510989010989,आशीष जैन ( ASHISH JAIN ) <tensai_ashish@yahoo.com>
+balsa,1860,1954,1534,516,527,244,2336,5348,34.77935676888556,Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net>
+beagle,293,44,554,126,17,84,325,891,32.88439955106622,Hindi <indlinux-hindi@lists.sourceforge.net>
+brasero,5502,0,0,992,0,0,6451,5502,100.0,Hindi <hindi.sf.net>
+calibre,174,0,19824,26,0,2681,162,19998,0.87008700870087,Hindi <hi@li.org>
+camorama,51,6,502,22,4,107,55,559,9.123434704830053,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+ccsm,498,5,46,121,3,11,606,549,90.7103825136612,<en@li.org>
+cheese,659,0,0,122,0,0,752,659,100.0,Hindi <hindi.sf.net>
+chkconfig,448,0,0,90,0,0,533,448,100.0,Hindi <hindi.sf.net>
+clementine,0,0,2574,0,0,770,0,2574,0.0,Hindi <hi@li.org>
+compiz,1587,1362,301,300,358,59,1972,3250,48.830769230769235,<en@li.org>
+compiz-fusion,6332,1112,1502,1209,287,233,7070,8946,70.78023697742007,<en@li.org>
+compiz-fusion-extras,6332,1112,1502,1209,287,233,7070,8946,70.78023697742007,<en@li.org>
+compiz-fusion-unsupported,6332,1112,1502,1209,287,233,7070,8946,70.78023697742007,<en@li.org>
+control-center,3245,0,0,786,0,0,3780,3245,100.0,Hindi <hindi.sf.net>
+dasher,471,7,64,164,2,5,561,542,86.90036900369003,Hindi <hindi.sf.net>
+deskbar-applet,1665,0,0,357,0,0,1888,1665,100.0,Hindi <hindi.sf.net>
+desktop-effects,148,0,0,25,0,0,191,148,100.0,Hindi <hindi.sf.net>
+devhelp,21,7,181,9,4,38,21,209,10.047846889952153,Gnome Hindi Team <indlinux-hindi-gnome@lists.sourceforge.net>
+dexter,221,0,7,91,0,1,273,228,96.9298245614035,Hindi <hi@li.org>
+dialog,25,0,0,23,0,0,33,25,100.0,<elinks@knopper.net>
+digikam,2376,5527,15750,927,1262,1108,2865,23653,10.045237390605843,Hindi <indlinux-hindi@lists.sourceforge.net>
+drgeo,1870,90,25,447,9,5,2135,1985,94.20654911838791,Hindi
+ekiga,4043,0,0,667,0,0,4452,4043,100.0,Hindi <hindi.sf.net>
+emerald,774,0,0,215,0,0,923,774,100.0,gist bengali team <info.gist@cdac.in>
+empathy,1594,150,943,407,70,144,1799,2687,59.322664681801264,Hindi <hindi.sf.net>
+eog,1440,0,0,294,0,0,1631,1440,100.0,Hindi <hindi.sf.net>
+epiphany,3033,0,0,741,0,0,3494,3033,100.0,Hindi <hindi.sf.net>
+etoys,27474,0,0,4412,0,0,30487,27474,100.0,Ravishankar Shrivastava <raviratlami@aol.in>
+evince,1155,0,0,312,0,0,1355,1155,100.0,Hindi <hindi.sf.net>
+evolution,22130,0,0,5052,0,0,26254,22130,100.0,Hindi <hindi.sf.net>
+evolution-data-server,4950,47,94,1028,3,9,5985,5091,97.23040659988214,Hindi <hindi.sf.net>
+evolution-exchange,1139,78,0,176,9,0,1322,1217,93.59079704190633,Hindi <fedora-trans-hi@redhat.com>
+evolution-mapi,269,15,49,47,2,16,334,333,80.78078078078079,Hindi <hindi.sf.net>
+evolution-rss,704,0,0,192,0,0,873,704,100.0,Hindi <hindi.sf.net>
+exaile,80,0,2096,40,0,547,81,2176,3.6764705882352944,Hindi <hi@li.org>
+f-spot,3557,0,0,879,0,0,4250,3557,100.0,Hindi <hindi.sf.net>
+file-roller,1277,0,0,286,0,0,1454,1277,100.0,Hindi <hindi.sf.net>
+firstboot,654,0,0,54,0,0,742,654,100.0,Hindi <hindi.sf.net>
+fuse-encfs,7,4,1304,2,1,136,8,1315,0.532319391634981,Hindi <hi@li.org>
+gcalctool,1677,0,0,452,0,0,1825,1677,100.0,Hindi <hindi.sf.net>
+gcompris,9980,0,3,1174,0,1,9598,9983,99.96994891315236,Anand Kulkarni <LL@li.org>
+gconf-editor,336,0,0,98,0,0,420,336,100.0,Hindi <hindi.sf.net>
+gdesklets,0,0,1528,0,0,204,0,1528,0.0,Hindi <hi@li.org>
+gdm,1308,0,0,235,0,0,1460,1308,100.0,Hindi <hindi.sf.net>
+gedit,4966,0,0,1105,0,0,5665,4966,100.0,Hindi <hindi.sf.net>
+gedit-plugins,207,48,26,37,10,5,253,281,73.66548042704626,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+genius,169,16,2596,75,5,377,201,2781,6.076950737144912,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+ggz-base-libs,74,0,0,17,0,0,81,74,100.0,Hindi <hindi.sf.net>
+ggz-gtk-client,773,0,0,244,0,0,881,773,100.0,Hindi <hindi.sf.net>
+gimp,5915,0,6184,1821,0,1011,7265,12099,48.888337879163565,<en@li.org>
+glade3,2603,33,2393,599,16,419,2750,5029,51.75979319944323,
+glib2,2420,66,37,393,17,5,2959,2523,95.91755846214824,Hindi <hindi.sf.net>
+gmpc,21,0,1382,19,0,446,26,1403,1.496792587312901,Hindi <hi@li.org>
+gnome-activity-journal,0,0,316,0,0,94,0,316,0.0,Hindi <hi@li.org>
+gnome-applet-alarm-clock,191,0,226,40,0,70,192,417,45.80335731414868,Hindi <hi@li.org>
+gnome-applets,3367,0,0,791,0,0,3722,3367,100.0,Hindi <hindi.sf.net>
+gnome-backgrounds,23,0,0,17,0,0,23,23,100.0,Hindi <hindi.sf.net>
+gnome-bluetooth,593,0,0,157,0,0,706,593,100.0,Hindi <hindi.sf.net>
+gnome-desktop,351,0,0,53,0,0,426,351,100.0,Hindi <hindi.sf.net>
+gnome-disk-utility,4042,0,0,811,0,0,4688,4042,100.0,Hindi <hindi.sf.net>
+gnome-doc-utils,249,0,0,99,0,0,256,249,100.0,Hindi <hindi.sf.net>
+gnome-games,8518,0,0,1943,0,0,9456,8518,100.0,Hindi <hindi.sf.net>
+gnome-icon-theme,20,0,0,16,0,0,20,20,100.0,Hindi <hindi.sf.net>
+gnome-keyring,1823,0,0,276,0,0,1980,1823,100.0,Hindi <hindi.sf.net>
+gnome-mag,298,0,0,42,0,0,350,298,100.0,Hindi <hindi.sf.net>
+gnome-media,1190,0,0,287,0,0,1372,1190,100.0,Hindi <hindi.sf.net>
+gnome-menus,161,0,0,57,0,0,187,161,100.0,Hindi <hindi.sf.net>
+gnome-mime-data,887,0,0,362,0,0,899,887,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+gnome-netstatus,418,0,0,106,0,0,455,418,100.0,Hindi <hindi.sf.net>
+gnome-nettool,617,0,0,213,0,0,675,617,100.0,Hindi <hindi.sf.net>
+gnome-packagekit,3110,1201,796,609,154,74,3704,5107,60.89680830233013,Hindi <hindi.sf.net>
+gnome-panel,4476,0,0,613,0,0,4942,4476,100.0,Hindi <hindi.sf.net>
+gnome-power-manager,2786,0,0,427,0,0,2774,2786,100.0,Hindi <hindi.sf.net>
+gnome-screensaver,989,0,0,157,0,0,1107,989,100.0,Hindi <hindi.sf.net>
+gnome-session,638,0,0,111,0,0,742,638,100.0,Hindi <hindi.sf.net>
+gnome-settings-daemon,1624,0,0,245,0,0,1856,1624,100.0,Hindi <hindi.sf.net>
+gnome-system-monitor,933,0,0,244,0,0,1086,933,100.0,Hindi <hindi.sf.net>
+gnome-terminal,3885,0,0,431,0,0,4350,3885,100.0,Hindi <hindi.sf.net>
+gnome-themes,109,0,0,30,0,0,122,109,100.0,Hindi <hindi.sf.net>
+gnome-user-share,288,0,0,46,0,0,339,288,100.0,Hindi <hindi.sf.net>
+gnome-utils,3898,0,0,679,0,0,4248,3898,100.0,Hindi <hindi.sf.net>
+gnome-vfs2,1508,0,0,301,0,0,1671,1508,100.0,Hindi <hindi.sf.net>
+gnome-video-effects,11,2,13,10,2,11,12,26,42.30769230769231,Hindi <hindi.sf.net>
+gnote,2100,125,58,317,13,11,2462,2283,91.98423127463863,Hindi <Red Hat>
+gok,1937,0,0,443,0,0,2198,1937,100.0,Hindi <hindi.sf.net>
+grass,8,23101,21530,2,3650,3783,9,44639,0.01792154842178364,Hindi <grass-translations@lists.osgeo.org>
+gthumb,315,0,2280,211,0,666,446,2595,12.138728323699421,Hindi <fedora-trans-hi@redhat.com>
+gtk2,13264,290,150,2718,48,18,14603,13704,96.78925861062464,Hindi <hindi.sf.net>
+gtk2-engines,119,0,0,47,0,0,137,119,100.0,Hindi <hindi.sf.net>
+gtkhtml3,912,0,0,405,0,0,1109,912,100.0,Hindi <fedora-trans-hi@redhat.com>
+gtksourceview,849,0,0,342,0,0,884,849,100.0,Hindi <fedora-trans-hi@redhat.com>
+gtksourceview2,1120,0,0,448,0,0,1169,1120,100.0,Hindi <hindi.sf.net>
+gucharmap,803,0,0,298,0,0,856,803,100.0,Hindi <hindi.sf.net>
+gvfs,1858,0,0,445,0,0,2210,1858,100.0,Hindi <hindi.sf.net>
+gwibber,22,0,23,14,0,10,38,45,48.888888888888886,Hindi <hi@li.org>
+hamster-applet,553,0,0,144,0,0,652,553,100.0,Hindi <hindi.sf.net>
+hivex,270,0,0,22,0,0,302,270,100.0,Hindi <Red Hat>
+ibus,584,0,0,109,0,0,649,584,100.0,Hindi <fedora-trans-hi@redhat.com>
+im-chooser,132,6,75,29,2,17,158,213,61.97183098591549,Hindi <hindi.sf.net>
+imsettings,979,0,0,155,0,0,1083,979,100.0,Hindi <hindi.sf.net>
+initscripts,3997,341,69,969,104,14,5994,4407,90.69661901520308,Hindi <hindi.sf.net>
+iok,142,0,0,36,0,0,170,142,100.0,Hindi <hindi.sf.net>
+iso-codes,1321,2775,8261,686,2381,5573,1317,12357,10.690296997653153,American English <kde-i18n-doc@lists.kde.org>
+istanbul,89,0,0,15,0,0,94,89,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+jokosher,25,0,2034,12,0,397,28,2059,1.2141816415735796,Hindi <hi@li.org>
+k3b,4366,1084,14973,1243,222,1055,5656,20423,21.37785829701807,Hindi <indlinux-hindi@lists.sourceforge.net>
+kcoloredit,9,95,174,6,32,57,14,278,3.237410071942446,Hindi <indlinux-hindi@lists.sourceforge.net>
+kdiff3,1205,216,1989,333,79,211,1617,3410,35.33724340175953,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+kexec-tools,206,0,0,14,0,0,246,206,100.0,Hindi <hindi.sf.net>
+kgrab,148,16,206,46,4,3,180,370,40.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+kiconedit,576,9,141,145,4,6,654,726,79.33884297520662,Hindi <indlinux-hindi@lists.sourceforge.net>
+kile,2445,1878,6791,646,599,651,2831,11114,21.999280187151342,indlinux-hindi <indlinux-hindi@sourceforge.net>
+kipi-plugins,1905,2004,3935,847,387,450,2085,7844,24.28607853136155,Hindi <indlinux-hindi@lists.sourceforge.net>
+koffice-kivio,3853,1423,3141,1477,522,362,4327,8417,45.77640489485565,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+konq-plugins,1278,74,246,440,24,52,1626,1598,79.9749687108886,Hindi <indlinux-hindi@lists.sourceforge.net>
+kopete-cryptography,11,16,381,6,6,29,16,408,2.696078431372549,Hindi <indlinux-hindi@lists.sourceforge.net>
+kphotoalbum,1690,254,4389,549,62,152,2036,6333,26.685615032370123,Hindi <indlinux-hindi@lists.sourceforge.net>
+kst,2786,2040,2620,789,584,439,3335,7446,37.41606231533709,indlinux-hindi <indlinux-hindi@lists.sourceforge.net>
+ktorrent,209,447,6906,161,210,958,248,7562,2.763819095477387,Hindi <indlinux-hindi@lists.sourceforge.net>
+lekhonee-gnome,21,23,68,14,11,19,30,112,18.75,Hindi <hindi.sf.net>
+libbonobo,543,0,0,107,0,0,600,543,100.0,Hindi <hindi.sf.net>
+libbonoboui,368,0,0,115,0,0,419,368,100.0,Hindi <hindi.sf.net>
+libgdl,141,0,472,59,0,39,162,613,23.00163132137031,Hindi <hindi.sf.net>
+libgnome,1772,0,0,273,0,0,1949,1772,100.0,Hindi <hindi.sf.net>
+libgnomecanvas,378,0,0,95,0,0,408,378,100.0,Hindi <hindi.sf.net>
+libgnomecups,11,0,0,10,0,0,15,11,100.0,Hindi <fedora-trans-hi@redhat.com>
+libgnomekbd,246,0,0,51,0,0,248,246,100.0,Hindi <hindi.sf.net>
+libgnomeprint22,168,0,0,98,0,0,179,168,100.0,Hindi <fedora-trans-hi@redhat.com>
+libgnomeprintui22,481,0,0,154,0,0,550,481,100.0,Hindi <hindi.sf.net>
+libgnomeui,1226,0,0,320,0,0,1337,1226,100.0,Hindi <hindi.sf.net>
+libgtop2,126,0,0,40,0,0,145,126,100.0,Hindi <hindi.sf.net>
+libguestfs,1944,886,1517,328,93,168,2096,4347,44.72049689440994,Hindi <Red Hat>
+libgweather,6051,0,0,4518,0,0,6180,6051,100.0,Hindi <hindi.sf.net>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libktorrent,26,139,252,12,37,43,34,417,6.235011990407674,Hindi <indlinux-hindi@lists.sourceforge.net>
+libuser,1106,8,0,232,1,0,1408,1114,99.2818671454219,Hindi <hindi.sf.net>
+libvirt,11982,4729,3472,2263,822,414,14385,20183,59.36679383639697,Hindi <hindi.sf.net>
+libwnck,1124,0,0,241,0,0,1281,1124,100.0,Hindi <hindi.sf.net>
+lxmenu-data,97,0,0,37,0,0,107,97,100.0,Hindi <hindi.sf.net>
+mailody,295,66,422,132,21,35,350,783,37.675606641123885,Hindi <indlinux-hindi@lists.sourceforge.net>
+metacity,3821,0,0,406,0,0,4299,3821,100.0,Hindi <hindi.sf.net>
+mingw32-atk,375,0,0,126,0,0,409,375,100.0,Hindi <hindi.sf.net>
+mingw32-glib2,2420,66,37,393,17,5,2959,2523,95.91755846214824,Hindi <hindi.sf.net>
+mingw32-gtk2,13264,290,150,2718,48,18,14603,13704,96.78925861062464,Hindi <hindi.sf.net>
+mingw32-gtkhtml3,912,0,0,405,0,0,1109,912,100.0,Hindi <fedora-trans-hi@redhat.com>
+moin,983,200,3788,164,51,704,1176,4971,19.774693220679943,
+mousetweaks,715,0,0,94,0,0,782,715,100.0,Hindi <hindi.sf.net>
+multimedia-menus,56,0,0,22,0,0,60,56,100.0,Hindi <hindi.sf.net>
+mutter,3864,0,0,413,0,0,4314,3864,100.0,Hindi <hindi.sf.net>
+mutter-mbl,3864,0,0,413,0,0,4314,3864,100.0,Hindi <hindi.sf.net>
+nautilus,8620,0,0,1388,0,0,9922,8620,100.0,Hindi <hindi.sf.net>
+nautilus-actions,498,0,1697,90,0,109,493,2195,22.687927107061505,Hindi <hindi.sf.net>
+nautilus-sendto,316,0,0,67,0,0,359,316,100.0,Hindi <hindi.sf.net>
+newt,4,0,0,4,0,0,5,4,100.0,Ravishankar Shrivastava <raviratlami@yahoo.com>
+ntfs-config,0,0,357,0,0,59,0,357,0.0,Hindi <hi@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,169,158,100.0,LANGUAGE <LL@li.org>
+orage,6,60,2044,6,32,731,10,2110,0.2843601895734597,Hindi <indlinux-group@lists.sourceforge.net>
+orca,2827,718,159,1133,114,20,3174,3704,76.32289416846653,Hindi <hindi.sf.net>
+pam,599,0,0,120,0,0,689,599,100.0,Hindi <hindi.sf.net>
+paprefs,131,0,0,23,0,0,169,131,100.0,Hindi <hindi.sf.net>
+passwd,299,0,0,53,0,0,360,299,100.0,Hindi <hindi.sf.net>
+pavucontrol,219,1,17,85,1,1,247,237,92.40506329113924,Hindi <hindi.sf.net>
+pessulus,130,0,0,33,0,0,181,130,100.0,Hindi <hindi.sf.net>
+pgadmin3,210,67,9399,106,31,2559,225,9676,2.170318313352625,The pgAdmin Development Team <pgadmin-hackers@postgresql.org>
+phatch,2510,0,43,810,0,14,2651,2553,98.3157070113592,Hindi <hi@li.org>
+picard,118,0,1192,86,0,519,131,1310,9.007633587786259,Hindi <hi@li.org>
+pidgin,17630,634,466,3816,173,72,20471,18730,94.12706887346502,Hindi <Indlinux>
+pidgin-sipe,10,12,656,6,5,164,12,678,1.4749262536873156,Hindi <hi@li.org>
+planner,810,289,11,283,78,4,918,1110,72.97297297297297,Gnome Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+poedit,1143,19,0,266,3,0,1479,1162,98.36488812392426,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+policycoreutils,1266,168,36,227,27,6,1487,1470,86.12244897959184,Hindi <hindi.sf.net>
+pootle,2252,116,2288,1481,34,412,2949,4656,48.36769759450172,LANGUAGE <LL@li.org>
+publican,858,0,236,43,0,29,1057,1094,78.42778793418648,Hindi <hindi.sf.net>
+publican-fedora,106,0,1,5,0,1,113,107,99.06542056074767,Hindi <hindi.sf.net>
+publican-jboss,100,0,6,4,0,1,106,106,94.33962264150944,Hindi <hindi.sf.net>
+publican-ovirt,288,0,0,27,0,0,299,288,100.0,Hindi <hindi.sf.net>
+publican-redhat,220,0,0,13,0,0,237,220,100.0,Hindi <fedora-trans-hi@redhat.com>
+pulseaudio,2726,42,81,378,16,34,2951,2849,95.68269568269568,Hindi <hindi.sf.net>
+pychess,12,0,1659,8,0,337,15,1671,0.718132854578097,Hindi <hi@li.org>
+pykickstart,284,0,0,25,0,0,312,284,100.0,Hindi <hindi.sf.net>
+python-meh,269,0,0,33,0,0,292,269,100.0,Hindi <hindi.sf.net>
+redhat-menus,261,0,0,86,0,0,292,261,100.0,Hindi <hindi.sf.net>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,4135,221,464,401,26,27,4599,4820,85.78838174273858,Hindi <fedora-trans-hi@redhat.com>
+rhnsd,42,0,0,10,0,0,51,42,100.0,Hindi <fedora-trans-hi@redhat.com>
+rhythmbox,1292,0,3253,503,0,567,1556,4545,28.42684268426843,Hindi <hindi.sf.net>
+rsibreak,370,56,878,91,13,59,432,1304,28.37423312883436,Hindi <indlinux-hindi@lists.sourceforge.net>
+sabayon,656,66,14,146,13,7,805,736,89.13043478260869,Hindi <hindi.sf.net>
+scim,1173,0,0,281,0,0,1256,1173,100.0,Hindi <hindi.sf.net>
+seahorse,3042,0,0,655,0,0,3622,3042,100.0,Hindi <hindi.sf.net>
+seahorse-plugins,1159,0,0,247,0,0,1421,1159,100.0,Hindi <hindi.sf.net>
+setroubleshoot,292,65,206,91,17,60,346,563,51.865008880994665,Hindi <Red Hat>
+setroubleshoot-plugins,3680,721,3417,93,23,248,3895,7818,47.0708621130724,Hindi <fedora-trans-hi@redhat.com>
+setuptool,55,0,0,14,0,0,65,55,100.0,Hindi <hindi.sf.net>
+smolt,1174,0,0,212,0,0,1346,1174,100.0,Hindi <hindi.sf.net>
+sos,174,76,17,31,2,3,206,267,65.1685393258427,Hindi <hindi.sf.net>
+sound-juicer,1022,0,0,198,0,0,1121,1022,100.0,Hindi <hindi.sf.net>
+soundconverter,48,19,383,26,4,79,60,450,10.666666666666668,Hindi <hi@li.org>
+specspo,4887,26504,273903,419,3633,12798,5452,305294,1.6007520619468445,Hindi <fedora-trans-hi@redhat.com>
+stellarium,62,0,2345,46,0,895,71,2407,2.5758205234732032,Hindi <hi@li.org>
+sugar,915,21,40,262,4,13,1124,976,93.75,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,53,0,0,29,0,0,67,53,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-calculator,18,1,608,17,1,128,23,627,2.8708133971291865,
+sugar-chat,16,0,5,8,0,2,21,21,76.19047619047619,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-connect,19,0,12,6,0,2,17,31,61.29032258064516,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-distance,9,3,67,3,1,12,9,79,11.39240506329114,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,7,0,0,5,0,0,8,7,100.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-tamtam,235,18,1817,158,11,526,299,2070,11.352657004830919,Hindi <indlinux-hindi@lists.sourceforge.net>
+sugar-toolkit,78,0,0,40,0,0,93,78,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,441,303,329,134,62,122,507,1073,41.09972041006524,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,75,0,0,45,0,0,80,75,100.0,Hindi <indlinux-hindi@lists.sourceforge.net>
+switchdesk,139,0,0,20,0,0,163,139,100.0,Hindi <hindi.sf.net>
+system-config-audit,1241,0,0,267,0,0,1462,1241,100.0,Hindi <hindi.sf.net>
+system-config-bind,9434,0,0,1065,0,0,10522,9434,100.0,Hindi <hindi.sf.net>
+system-config-boot,50,0,69,13,0,10,56,119,42.016806722689076,Hindi <hindi.sf.net>
+system-config-date,1750,0,0,799,0,0,1871,1750,100.0,Hindi <hindi.sf.net>
+system-config-date-docs,728,0,0,53,0,0,810,728,100.0,Hindi <hindi.sf.net>
+system-config-display,415,0,0,69,0,0,508,415,100.0,Hindi <hindi.sf.net>
+system-config-firewall,2807,0,0,330,0,0,3278,2807,100.0,Hindi <fedora-trans-hi@redhat.com>
+system-config-httpd,877,0,0,227,0,0,1082,877,100.0,Hindi <hindi.sf.net>
+system-config-kdump,235,87,485,13,19,106,279,807,29.120198265179674,Hindi <hindi.sf.net>
+system-config-keyboard,187,0,0,81,0,0,186,187,100.0,Hindi <hindi.sf.net>
+system-config-kickstart,1103,0,0,244,0,0,1258,1103,100.0,Hindi <hindi.sf.net>
+system-config-language,586,0,60,108,0,4,728,646,90.71207430340557,Hindi <hindi.sf.net>
+system-config-lvm,2228,0,0,343,0,0,2598,2228,100.0,Hindi <hindi.sf.net>
+system-config-netboot,1135,0,0,168,0,0,1288,1135,100.0,Hindi <hindi.sf.net>
+system-config-network,2990,6,26,711,4,3,3685,3022,98.94109861019193,Hindi <hindi.sf.net>
+system-config-nfs,332,0,0,72,0,0,409,332,100.0,Hindi <hindi.sf.net>
+system-config-nfs-docs,1185,0,0,66,0,0,1322,1185,100.0,Hindi <hindi.sf.net>
+system-config-printer,767,0,2343,210,0,545,852,3110,24.662379421221864,Hindi <>
+system-config-rootpassword,116,0,0,19,0,0,136,116,100.0,Hindi <hindi.sf.net>
+system-config-samba,388,0,147,118,0,12,510,535,72.52336448598132,Hindi <hindi.sf.net>
+system-config-samba-docs,39,0,1149,17,0,45,42,1188,3.2828282828282833,Hindi <hindi.sf.net>
+system-config-services,392,0,12,55,0,2,446,404,97.02970297029702,Hindi <hindi.sf.net>
+system-config-services-docs,638,0,0,28,0,0,685,638,100.0,Hindi <hindi.sf.net>
+system-config-users,1456,0,0,174,0,0,1695,1456,100.0,Hindi <hindi@hindi>
+system-config-users-docs,50,0,1004,24,0,53,53,1054,4.743833017077799,Hindi <hindi.sf.net>
+system-switch-java,81,0,0,11,0,0,85,81,100.0,Hindi <hindi.sf.net>
+system-switch-mail,158,0,0,24,0,0,207,158,100.0,Hindi <hindi.sf.net>
+terminator,0,0,218,0,0,100,0,218,0.0,Hindi <hi@li.org>
+tomboy,2870,0,0,415,0,0,3366,2870,100.0,Hindi <hindi.sf.net>
+totem,2699,0,0,602,0,0,3009,2699,100.0,Hindi <hindi.sf.net>
+totem-pl-parser,28,0,0,7,0,0,27,28,100.0,Hindi <hindi.sf.net>
+transmission,11,0,1631,6,0,443,22,1642,0.6699147381242387,Hindi <hi@li.org>
+tuxpaint,307,617,323,87,76,89,199,1247,24.619085805934244,Hindi
+tuxpaint-stamps,0,0,2617,0,0,626,0,2617,0.0,
+tuxtype2,71,0,9,32,0,8,83,80,88.75,Hindi <hindi.sf.net>
+usermode,564,0,0,95,0,0,680,564,100.0,Hindi <hindi.sf.net>
+vidalia,165,0,10210,59,0,1243,187,10375,1.5903614457831325,translations@vidalia-project.net
+vinagre,1113,101,385,202,24,46,1221,1599,69.60600375234522,Hindi <fedora-trans-hi@redhat.com>
+vino,1215,0,0,136,0,0,1400,1215,100.0,Hindi <hindi.sf.net>
+virt-manager,3389,615,349,809,142,47,4015,4353,77.85435331954974,Hindi <hindi.sf.net>
+volume_key,726,0,0,149,0,0,813,726,100.0,Hindi <hindi.sf.net>
+vte,84,0,0,14,0,0,110,84,100.0,Hindi <hindi.sf.net>
+wine,12,58,11703,9,32,2511,21,11773,0.10192814066083411,none
+wxGTK,5256,311,824,1305,46,124,6915,6391,82.2406509153497,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+wxPython,5256,311,824,1305,46,124,6915,6391,82.2406509153497,हिन्दी (Hindi) <dysxhi@yahoo.co.in>
+xchat-gnome,2577,105,1219,715,36,229,2884,3901,66.05998461932839,English <en@li.org>
+xfce-utils,12,12,107,9,4,23,14,131,9.16030534351145,Hindi <indlinux-group@lists.sourceforge.net>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Hindi <indlinux-group@lists.sourceforge.net>
+xfce4-panel,13,140,387,10,53,104,14,540,2.4074074074074074,Hindi <indlinux-hindi-gnome@lists.sourceforge.net>
+xfce4-session,5,188,797,1,53,145,8,990,0.5050505050505051,Hindi <indlinux-group@lists.sourceforge.net>
+xfdesktop,4,118,882,3,52,213,4,1004,0.398406374501992,Hindi <indlinux-group@lists.sourceforge.net>
+xfprint,100,50,172,44,22,47,116,322,31.05590062111801,Hindi <indlinux-group@lists.sourceforge.net>
+xfwm4,51,416,330,25,124,75,66,797,6.398996235884567,Hindi <indlinux-group@lists.sourceforge.net>
+yelp,1094,0,0,357,0,0,1234,1094,100.0,Hindi <hindi.sf.net>
+yum-rhn-plugin,62,0,45,9,0,5,69,107,57.943925233644855,Hindi <fedora-trans-hi@redhat.com>
+zenity,579,0,0,134,0,0,640,579,100.0,Hindi <hindi.sf.net>

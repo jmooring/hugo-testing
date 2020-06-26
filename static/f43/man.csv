@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+davfs2,5705,4,99,387,1,3,5260,5808,98.22658402203857,
+po4a,677,0,11,238,0,5,677,688,98.40116279069767,LANGUAGE <LL@li.org>
+shadow-utils,979,1271,13374,161,138,1069,862,15624,6.26600102406554,Danish <debian-l10n-danish@lists.debian.org>

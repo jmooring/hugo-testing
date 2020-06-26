@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+{{ $data := .Data }}
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ partial "breadcrumb.html" . }}
+    </div>
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <div class="splitbox">
+        <div class="left">
+        {{ .Content }}
+        </div>
+        <div class="right">
+        Language available in Fedora:
+        <ul>
+        {{ range .Pages }}
+          <li>
+              <a href="{{ .Permalink }}">{{ .Params.release }} {{ .Title }}</a>
+          </li>
+        {{ end }}
+        </ul>
+        </div>
+        <div style="clear:both"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}

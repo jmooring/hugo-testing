@@ -1,0 +1,57 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,8877,0,0,1112,0,8877,0.0,none
+audacity,8378,90,1160,1936,23,207,6892,9628,87.01703365184878,Burmese <my@li.org>
+authconfig,0,0,1357,0,0,242,0,1357,0.0,none
+chkconfig,0,0,448,0,0,90,0,448,0.0,none
+firstboot,0,0,654,0,0,54,0,654,0.0,none
+gimp,25667,362,27,6605,135,9,20527,26056,98.50706171323303,Burmese <burmait@burmait.net>
+gtk2,13051,190,117,2677,36,20,9391,13358,97.7017517592454,Burmese <my@li.org>
+hwbrowser,0,0,117,0,0,52,0,117,0.0,none
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+initscripts,0,0,4243,0,0,1032,0,4243,0.0,none
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1103,11086,7994,259,2054,1186,1103,20183,5.464995293068424,none
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pidgin,6214,6652,5788,1428,1765,856,6198,18654,33.31189021121475,
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,1136,0,1288,203,0,256,767,2424,46.864686468646866,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhn-client-tools,0,0,4820,0,0,454,0,4820,0.0,LANGUAGE <LL@li.org>
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+sahana,15009,0,14297,2418,0,2577,8293,29306,51.214768306831374,NovaSteps L10N Team <ravi.chhabra@gmail.com>
+setroubleshoot,0,0,606,0,0,146,0,606,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8755,0,0,266,0,8755,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,0,0,305294,0,0,16850,0,305294,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,119,0,0,23,0,119,0.0,none
+system-config-date,0,0,446,0,0,47,0,446,0.0,none
+system-config-date-docs,0,0,728,0,0,53,0,728,0.0,LANGUAGE <LL@li.org>
+system-config-display,0,0,415,0,0,69,0,415,0.0,none
+system-config-firewall,0,0,2630,0,0,317,0,2630,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-kickstart,0,0,1039,0,0,264,0,1039,0.0,none
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-lvm,0,0,2142,0,0,336,0,2142,0.0,none
+system-config-netboot,0,0,1103,0,0,165,0,1103,0.0,none
+system-config-network,0,0,3022,0,0,718,0,3022,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3027,0,0,676,0,3027,0.0,none
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,535,0,0,130,0,535,0.0,none
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,404,0,0,57,0,404,0.0,none
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1370,0,0,170,0,1370,0.0,none
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+yum-rhn-plugin,0,0,107,0,0,14,0,107,0.0,LANGUAGE <LL@li.org>

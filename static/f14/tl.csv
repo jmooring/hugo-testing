@@ -1,0 +1,31 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,13,0,3323,8,0,716,16,3336,0.38968824940047964,Tagalog <tl@li.org>
+dpkg,5495,2730,1794,792,280,171,6488,10019,54.845792993312706,Tagalog <debian-tl@banwa.upm.edu.ph>
+exaile,19,0,2157,1,0,586,21,2176,0.8731617647058824,Tagalog <tl@li.org>
+glib2,982,592,2116,116,117,327,1172,3690,26.61246612466125,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnome-do,377,0,235,107,0,37,513,612,61.60130718954249,Tagalog <tl@li.org>
+gnome-do-plugins,272,0,2051,81,0,501,373,2323,11.708996986655187,Tagalog <tl@li.org>
+gnome-hearts,340,0,69,90,0,16,296,409,83.12958435207824,Tagalog <tl@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+iso-codes,925,97,75,402,26,24,918,1097,84.32087511394712,Tagalog <debian-tl@banwa.upm.edu.ph>
+jokosher,968,0,1091,177,0,232,1090,2059,47.013113161728995,Tagalog <tl@li.org>
+libxfce4ui,4,0,132,4,0,26,4,136,2.941176470588235,LANGUAGE <LL@li.org>
+mingw32-glib2,982,592,2116,116,117,327,1172,3690,26.61246612466125,Tagalog <debian-tl@banwa.upm.edu.ph>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+onboard,1,8,359,1,4,58,2,368,0.2717391304347826,Tagalog <tl@li.org>
+pgadmin3,1297,2898,5481,405,872,1419,1426,9676,13.40429929723026,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,666,0,1887,253,0,571,813,2553,26.08695652173913,Tagalog <tl@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+pootle,134,199,2091,65,44,350,167,2424,5.528052805280528,LANGUAGE <LL@li.org>
+rednotebook,49,0,929,10,0,212,69,978,5.010224948875256,Tagalog <tl@li.org>
+shadow-utils,1288,1004,929,231,96,85,1569,3221,39.987581496429684,Tagalog <debian-tl@banwa.upm.edu.ph>
+stellarium,186,0,3176,108,0,1339,222,3362,5.532421177870315,Tagalog <tl@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+transmission,1,0,1507,1,0,446,8,1508,0.0663129973474801,Tagalog <tl@li.org>
+tuxpaint,186,38,1023,90,15,147,209,1247,14.91579791499599,LANGUAGE <LL@li.org>
+wesnoth,1525,936,224447,539,266,13357,1840,226908,0.6720785516597035,
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>

@@ -1,0 +1,110 @@
+---
+title: "kolourpaint - translation progress for f39"
+package: kolourpaint
+date: 2026-01-18T08:24:05+00:00
+started_languages: 72
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 73
+release: f39
+---
+The package kolourpaint (version 23.08.5):
+
+* represents 5152 source words to be translated
+* is translated into 72 languages in Fedora f39
+
+
+* contains 73 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ar]({{< ref "/f39/language/ar.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/ar/kolourpaint.po | 
+ | [bg]({{< ref "/f39/language/bg.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/bg/kolourpaint.po | 
+ | [ca]({{< ref "/f39/language/ca.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/ca/kolourpaint.po | 
+ | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/ca@valencia/kolourpaint.po | 
+ | [de]({{< ref "/f39/language/de.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/de/kolourpaint.po | 
+ | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/en_GB/kolourpaint.po | 
+ | [eo]({{< ref "/f39/language/eo.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/eo/kolourpaint.po | 
+ | [es]({{< ref "/f39/language/es.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/es/kolourpaint.po | 
+ | [eu]({{< ref "/f39/language/eu.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/eu/kolourpaint.po | 
+ | [fi]({{< ref "/f39/language/fi.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/fi/kolourpaint.po | 
+ | [fr]({{< ref "/f39/language/fr.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/fr/kolourpaint.po | 
+ | [gl]({{< ref "/f39/language/gl.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/gl/kolourpaint.po | 
+ | [ia]({{< ref "/f39/language/ia.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/ia/kolourpaint.po | 
+ | [it]({{< ref "/f39/language/it.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/it/kolourpaint.po | 
+ | [ko]({{< ref "/f39/language/ko.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/ko/kolourpaint.po | 
+ | [nl]({{< ref "/f39/language/nl.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/nl/kolourpaint.po | 
+ | [nn]({{< ref "/f39/language/nn.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/nn/kolourpaint.po | 
+ | [pl]({{< ref "/f39/language/pl.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/pl/kolourpaint.po | 
+ | [pt]({{< ref "/f39/language/pt.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/pt/kolourpaint.po | 
+ | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/pt_BR/kolourpaint.po | 
+ | [ru]({{< ref "/f39/language/ru.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/ru/kolourpaint.po | 
+ | [sk]({{< ref "/f39/language/sk.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/sk/kolourpaint.po | 
+ | [sl]({{< ref "/f39/language/sl.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/sl/kolourpaint.po | 
+ | [sv]({{< ref "/f39/language/sv.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/sv/kolourpaint.po | 
+ | [tr]({{< ref "/f39/language/tr.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/tr/kolourpaint.po | 
+ | [uk]({{< ref "/f39/language/uk.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/uk/kolourpaint.po | 
+ | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/zh_CN/kolourpaint.po | 
+ | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f39/kolourpaint/po/zh_TW/kolourpaint.po | 
+ | [da]({{< ref "/f39/language/da.md" >}}) | 2568 | 2576 | 99.7 | /mnt/stockage/packages/f39/kolourpaint/po/da/kolourpaint.po | 
+ | [el]({{< ref "/f39/language/el.md" >}}) | 2568 | 2576 | 99.7 | /mnt/stockage/packages/f39/kolourpaint/po/el/kolourpaint.po | 
+ | [is]({{< ref "/f39/language/is.md" >}}) | 2568 | 2576 | 99.7 | /mnt/stockage/packages/f39/kolourpaint/po/is/kolourpaint.po | 
+ | [et]({{< ref "/f39/language/et.md" >}}) | 2562 | 2576 | 99.5 | /mnt/stockage/packages/f39/kolourpaint/po/et/kolourpaint.po | 
+ | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 2398 | 2576 | 93.1 | /mnt/stockage/packages/f39/kolourpaint/po/nb/kolourpaint.po | 
+ | [bs]({{< ref "/f39/language/bs.md" >}}) | 2389 | 2576 | 92.7 | /mnt/stockage/packages/f39/kolourpaint/po/bs/kolourpaint.po | 
+ | [hu]({{< ref "/f39/language/hu.md" >}}) | 2389 | 2576 | 92.7 | /mnt/stockage/packages/f39/kolourpaint/po/hu/kolourpaint.po | 
+ | [kk]({{< ref "/f39/language/kk.md" >}}) | 2389 | 2576 | 92.7 | /mnt/stockage/packages/f39/kolourpaint/po/kk/kolourpaint.po | 
+ | [km]({{< ref "/f39/language/km.md" >}}) | 2389 | 2576 | 92.7 | /mnt/stockage/packages/f39/kolourpaint/po/km/kolourpaint.po | 
+ | [lt]({{< ref "/f39/language/lt.md" >}}) | 2389 | 2576 | 92.7 | /mnt/stockage/packages/f39/kolourpaint/po/lt/kolourpaint.po | 
+ | [nds]({{< ref "/f39/language/nds.md" >}}) | 2389 | 2576 | 92.7 | /mnt/stockage/packages/f39/kolourpaint/po/nds/kolourpaint.po | 
+ | [mr]({{< ref "/f39/language/mr.md" >}}) | 2374 | 2576 | 92.2 | /mnt/stockage/packages/f39/kolourpaint/po/mr/kolourpaint.po | 
+ | [cs]({{< ref "/f39/language/cs.md" >}}) | 2022 | 2576 | 78.5 | /mnt/stockage/packages/f39/kolourpaint/po/cs/kolourpaint.po | 
+ | [ja]({{< ref "/f39/language/ja.md" >}}) | 1920 | 2576 | 74.5 | /mnt/stockage/packages/f39/kolourpaint/po/ja/kolourpaint.po | 
+ | [lv]({{< ref "/f39/language/lv.md" >}}) | 1730 | 2576 | 67.2 | /mnt/stockage/packages/f39/kolourpaint/po/lv/kolourpaint.po | 
+ | [si]({{< ref "/f39/language/si.md" >}}) | 1730 | 2576 | 67.2 | /mnt/stockage/packages/f39/kolourpaint/po/si/kolourpaint.po | 
+ | [th]({{< ref "/f39/language/th.md" >}}) | 1311 | 2576 | 50.9 | /mnt/stockage/packages/f39/kolourpaint/po/th/kolourpaint.po | 
+ | [fa]({{< ref "/f39/language/fa.md" >}}) | 1306 | 2576 | 50.7 | /mnt/stockage/packages/f39/kolourpaint/po/fa/kolourpaint.po | 
+ | [hne]({{< ref "/f39/language/hne.md" >}}) | 1232 | 2576 | 47.8 | /mnt/stockage/packages/f39/kolourpaint/po/hne/kolourpaint.po | 
+ | [hi]({{< ref "/f39/language/hi.md" >}}) | 1202 | 2576 | 46.7 | /mnt/stockage/packages/f39/kolourpaint/po/hi/kolourpaint.po | 
+ | [fy]({{< ref "/f39/language/fy.md" >}}) | 1118 | 2576 | 43.4 | /mnt/stockage/packages/f39/kolourpaint/po/fy/kolourpaint.po | 
+ | [ne]({{< ref "/f39/language/ne.md" >}}) | 1118 | 2576 | 43.4 | /mnt/stockage/packages/f39/kolourpaint/po/ne/kolourpaint.po | 
+ | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 1117 | 2576 | 43.4 | /mnt/stockage/packages/f39/kolourpaint/po/zh_HK/kolourpaint.po | 
+ | [ms]({{< ref "/f39/language/ms.md" >}}) | 1098 | 2576 | 42.6 | /mnt/stockage/packages/f39/kolourpaint/po/ms/kolourpaint.po | 
+ | [ta]({{< ref "/f39/language/ta.md" >}}) | 1093 | 2576 | 42.4 | /mnt/stockage/packages/f39/kolourpaint/po/ta/kolourpaint.po | 
+ | [pa]({{< ref "/f39/language/pa.md" >}}) | 1001 | 2576 | 38.9 | /mnt/stockage/packages/f39/kolourpaint/po/pa/kolourpaint.po | 
+ | [ka]({{< ref "/f39/language/ka.md" >}}) | 777 | 2576 | 30.2 | /mnt/stockage/packages/f39/kolourpaint/po/ka/kolourpaint.po | 
+ | [tg]({{< ref "/f39/language/tg.md" >}}) | 760 | 2576 | 29.5 | /mnt/stockage/packages/f39/kolourpaint/po/tg/kolourpaint.po | 
+ | [se]({{< ref "/f39/language/se.md" >}}) | 690 | 2576 | 26.8 | /mnt/stockage/packages/f39/kolourpaint/po/se/kolourpaint.po | 
+ | [ga]({{< ref "/f39/language/ga.md" >}}) | 676 | 2576 | 26.2 | /mnt/stockage/packages/f39/kolourpaint/po/ga/kolourpaint.po | 
+ | [he]({{< ref "/f39/language/he.md" >}}) | 671 | 2576 | 26.0 | /mnt/stockage/packages/f39/kolourpaint/po/he/kolourpaint.po | 
+ | [ro]({{< ref "/f39/language/ro.md" >}}) | 483 | 2576 | 18.8 | /mnt/stockage/packages/f39/kolourpaint/po/ro/kolourpaint.po | 
+ | [mk]({{< ref "/f39/language/mk.md" >}}) | 475 | 2576 | 18.4 | /mnt/stockage/packages/f39/kolourpaint/po/mk/kolourpaint.po | 
+ | [uz]({{< ref "/f39/language/uz.md" >}}) | 606 | 5152 | 11.8 | /mnt/stockage/packages/f39/kolourpaint/po/uz@cyrillic/kolourpaint.po/mnt/stockage/packages/f39/kolourpaint/po/uz/kolourpaint.po | 
+ | [br]({{< ref "/f39/language/br.md" >}}) | 258 | 2576 | 10.0 | /mnt/stockage/packages/f39/kolourpaint/po/br/kolourpaint.po | 
+ | [ug]({{< ref "/f39/language/ug.md" >}}) | 213 | 2576 | 8.3 | /mnt/stockage/packages/f39/kolourpaint/po/ug/kolourpaint.po | 
+ | [sq]({{< ref "/f39/language/sq.md" >}}) | 154 | 2576 | 6.0 | /mnt/stockage/packages/f39/kolourpaint/po/sq/kolourpaint.po | 
+ | [cy]({{< ref "/f39/language/cy.md" >}}) | 113 | 2576 | 4.4 | /mnt/stockage/packages/f39/kolourpaint/po/cy/kolourpaint.po | 
+ | [id]({{< ref "/f39/language/id.md" >}}) | 96 | 2576 | 3.7 | /mnt/stockage/packages/f39/kolourpaint/po/id/kolourpaint.po | 
+ | [oc]({{< ref "/f39/language/oc.md" >}}) | 84 | 2576 | 3.3 | /mnt/stockage/packages/f39/kolourpaint/po/oc/kolourpaint.po | 
+ | [be]({{< ref "/f39/language/be.md" >}}) | 71 | 2576 | 2.8 | /mnt/stockage/packages/f39/kolourpaint/po/be/kolourpaint.po | 
+ | [hr]({{< ref "/f39/language/hr.md" >}}) | 40 | 2576 | 1.6 | /mnt/stockage/packages/f39/kolourpaint/po/hr/kolourpaint.po | 
+ | [tok]({{< ref "/f39/language/tok.md" >}}) | 10 | 2576 | 0.4 | /mnt/stockage/packages/f39/kolourpaint/po/tok/kolourpaint.po | 
+ | [ml]({{< ref "/f39/language/ml.md" >}}) | 2 | 2576 | 0.1 | /mnt/stockage/packages/f39/kolourpaint/po/ml/kolourpaint.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,47,0,146981,47,0,17186,49,147028,0.03196670022036619,Venda (http://www.transifex.com/calibre/calibre/language/ve/)
+iso-codes,321,8906,13203,276,6837,7807,323,22430,1.4311190370040126,Venda <venda@translate.org.za>
+koffice-kivio,1896,1809,4712,555,785,1021,2336,8417,22.52584056076987,<en@li.org>
+libreoffice,31991,9490,56741,9569,4681,15986,40553,98222,32.5700963124351,LANGUAGE <LL@li.org>
+tuxpaint,475,881,235,137,93,61,490,1591,29.85543683218102,LANGUAGE <LL@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+openerp,6,0,10710,5,0,1567,7,10716,0.055991041433370664,Kabyle <kab@li.org>
+openerp7,5,0,10652,4,0,1607,6,10657,0.0469175190015952,Kabyle <kab@li.org>

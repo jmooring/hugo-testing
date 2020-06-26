@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnucash,29203,395,139,4586,26,13,25382,29737,98.20425732252748,Maniuri (MM) <gistlrc@gmail.com>
+iok,73,0,133,16,0,24,73,206,35.43689320388349,Manipuri <LL@li.org>
+libreoffice,58237,5803,35683,17364,2801,11284,54864,99723,58.39876457788073,LANGUAGE <LL@li.org>
+tuxpaint,1515,0,0,279,0,0,1380,1515,100.0,LANGUAGE <LL@li.org>

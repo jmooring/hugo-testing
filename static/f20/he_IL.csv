@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+boost,1,0,0,1,0,0,1,1,100.0,
+clementine,0,0,4861,0,0,1290,0,4861,0.0,Hebrew (Israel) (http://www.transifex.com/projects/p/clementine/language/he_IL/)
+glpi,4441,0,4994,1448,0,1078,4202,9435,47.069422363540006,Hebrew (Israel) (http://www.transifex.com/projects/p/GLPI/language/he_IL/)
+gnome-clocks,168,0,0,69,0,0,189,168,100.0,עברית <>
+gnome-color-manager,1748,0,0,341,0,0,1559,1748,100.0,Gezer <sh.yaron@gmail.com>
+gnome-contacts,331,0,0,151,0,0,405,331,100.0,עברית <>
+horde,209,0,6894,169,0,1763,186,7103,2.9424186963254964,i18n@lists.horde.org
+imp,73,0,5574,60,0,1075,76,5647,1.292721799185408,i18n@lists.horde.org
+konversation,6202,438,4282,1377,67,233,5925,10922,56.7844717084783,Hebrew <kde-i18n-doc@kde.org>
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+openstack-sahara,0,0,373,0,0,50,0,373,0.0,Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/)
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+rygel,698,150,98,156,30,12,701,946,73.78435517970402,Gezer <sh.yaron@gmail.com>
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>

@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,36,0,136,12,0,27,36,172,20.930232558139537,Walser <wae@li.org>
+lightdm,40,0,123,13,0,8,28,163,24.539877300613497,Walser <wae@li.org>
+lightdm-gtk,21,0,68,6,0,19,15,89,23.595505617977526,Walser <wae@li.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+rednotebook,263,12,988,47,3,222,258,1263,20.823436262866192,Walser <wae@li.org>
+slick-greeter,211,0,0,47,0,0,193,211,100.0,Walser <wae@li.org>

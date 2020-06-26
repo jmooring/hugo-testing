@@ -1,0 +1,61 @@
+baseURL = "https://communityhealth.languages-in-floss.eu/"
+languageCode = "en-us"
+title = "Fedora localization statistics"
+theme = "beautifulhugo"
+staticDir = "static"
+
+disableKinds = ["rss"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[Params]
+since = "2021"
+favicon = "img/favicon.ico"
+release = "2026.1.0"
+
+[taxonomies]
+countries = "territories"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+      inline = false
+      precision = 0
+      version = 0
+    [minify.tdewolff.html]
+      keepComments = false
+      keepDefaultAttrVals = true
+      keepDocumentTags = true
+      keepEndTags = true
+      keepQuotes = false
+      keepSpecialComments = true
+      keepWhitespace = false
+      templateDelims = ['', '']
+    [minify.tdewolff.js]
+      keepVarNames = false
+      precision = 0
+      version = 2022
+    [minify.tdewolff.json]
+      keepNumbers = false
+      precision = 0
+    [minify.tdewolff.svg]
+      keepComments = false
+      precision = 0
+    [minify.tdewolff.xml]
+      keepWhitespace = false

@@ -1,0 +1,78 @@
+---
+title: "plasma-browser-integration - translation progress for f32"
+package: plasma-browser-integration
+date: 2026-01-17T23:59:54+00:00
+started_languages: 40
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 101
+release: f32
+---
+The package plasma-browser-integration (version 5.18.5):
+
+* represents 105 source words to be translated
+* is translated into 40 languages in Fedora f32
+
+
+* contains 101 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ast]({{< ref "/f32/language/ast.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/ast/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ast/plasma-browser-integration-reminder.po | 
+ | [ca]({{< ref "/f32/language/ca.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/ca/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ca/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ca/plasma_runner_browsertabs.po | 
+ | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/ca@valencia/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ca@valencia/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ca@valencia/plasma_runner_browsertabs.po | 
+ | [cs]({{< ref "/f32/language/cs.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/cs/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/cs/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/cs/plasma_runner_browsertabs.po | 
+ | [da]({{< ref "/f32/language/da.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/da/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/da/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/da/plasma_runner_browsertabs.po | 
+ | [de]({{< ref "/f32/language/de.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/de/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/de/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/de/plasma_runner_browsertabs.po | 
+ | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/en_GB/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/en_GB/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/en_GB/plasma_runner_browsertabs.po | 
+ | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/tg/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/tg/plasma_runner_browsertabs.po | 
+ | [es]({{< ref "/f32/language/es.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/es/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/es/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/es/plasma_runner_browsertabs.po | 
+ | [et]({{< ref "/f32/language/et.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/et/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/et/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/et/plasma_runner_browsertabs.po | 
+ | [eu]({{< ref "/f32/language/eu.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/eu/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/eu/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/eu/plasma_runner_browsertabs.po | 
+ | [fi]({{< ref "/f32/language/fi.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/fi/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/fi/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/fi/plasma_runner_browsertabs.po | 
+ | [fr]({{< ref "/f32/language/fr.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/fr/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/fr/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/fr/plasma_runner_browsertabs.po | 
+ | [gl]({{< ref "/f32/language/gl.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/gl/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/gl/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/gl/plasma_runner_browsertabs.po | 
+ | [hu]({{< ref "/f32/language/hu.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/hu/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/hu/plasma_runner_browsertabs.po | 
+ | [id]({{< ref "/f32/language/id.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/id/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/id/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/id/plasma_runner_browsertabs.po | 
+ | [it]({{< ref "/f32/language/it.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/it/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/it/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/it/plasma_runner_browsertabs.po | 
+ | [ko]({{< ref "/f32/language/ko.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/ko/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ko/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ko/plasma_runner_browsertabs.po | 
+ | [lt]({{< ref "/f32/language/lt.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/lt/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/lt/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/lt/plasma_runner_browsertabs.po | 
+ | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/nb/plasma_runner_browsertabs.po | 
+ | [nl]({{< ref "/f32/language/nl.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/nl/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/nl/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/nl/plasma_runner_browsertabs.po | 
+ | [nn]({{< ref "/f32/language/nn.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/nn/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/nn/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/nn/plasma_runner_browsertabs.po | 
+ | [pl]({{< ref "/f32/language/pl.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/pl/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/pl/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/pl/plasma_runner_browsertabs.po | 
+ | [pt]({{< ref "/f32/language/pt.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/pt/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/pt/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/pt/plasma_runner_browsertabs.po | 
+ | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/pt_BR/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/pt_BR/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/pt_BR/plasma_runner_browsertabs.po | 
+ | [ru]({{< ref "/f32/language/ru.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/ru/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ru/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ru/plasma_runner_browsertabs.po | 
+ | [sk]({{< ref "/f32/language/sk.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/sk/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/sk/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/sk/plasma_runner_browsertabs.po | 
+ | [sl]({{< ref "/f32/language/sl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/sl/plasma_runner_browsertabs.po | 
+ | [sr]({{< ref "/f32/language/sr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/sr/plasma_runner_browsertabs.po | 
+ | [sr@ijekavian]({{< ref "/f32/language/sr@ijekavian.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/sr@ijekavian/plasma_runner_browsertabs.po | 
+ | [sr@ijekavian_Latn]({{< ref "/f32/language/sr@ijekavian_Latn.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/sr@ijekavianlatin/plasma_runner_browsertabs.po | 
+ | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/sr@latin/plasma_runner_browsertabs.po | 
+ | [sv]({{< ref "/f32/language/sv.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/sv/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/sv/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/sv/plasma_runner_browsertabs.po | 
+ | [tr]({{< ref "/f32/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/tr/plasma_runner_browsertabs.po | 
+ | [uk]({{< ref "/f32/language/uk.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/uk/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/uk/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/uk/plasma_runner_browsertabs.po | 
+ | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/zh_CN/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/zh_CN/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/zh_CN/plasma_runner_browsertabs.po | 
+ | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f32/plasma-browser-integration/po/zh_TW/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/zh_TW/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/zh_TW/plasma_runner_browsertabs.po | 
+ | [ja]({{< ref "/f32/language/ja.md" >}}) | 86 | 105 | 81.9 | /mnt/stockage/packages/f32/plasma-browser-integration/po/ja/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ja/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ja/plasma_runner_browsertabs.po | 
+ | [pa]({{< ref "/f32/language/pa.md" >}}) | 4 | 11 | 36.4 | /mnt/stockage/packages/f32/plasma-browser-integration/po/pa/plasma_runner_browsertabs.po | 
+ | [ia]({{< ref "/f32/language/ia.md" >}}) | 33 | 105 | 31.4 | /mnt/stockage/packages/f32/plasma-browser-integration/po/ia/plasma-browser-integration-host.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ia/plasma-browser-integration-reminder.po/mnt/stockage/packages/f32/plasma-browser-integration/po/ia/plasma_runner_browsertabs.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

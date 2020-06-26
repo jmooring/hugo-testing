@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/)
+appstream,1055,89,5941,238,12,528,1088,7085,14.89061397318278,Bengali (Bangladesh) <https://hosted.weblate.org/projects/appstream/translations/bn_BD/>
+calibre,2106,0,171147,1455,0,18024,1954,173253,1.215563366868106,Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/)
+electrum,0,0,13041,0,0,2448,0,13041,0.0,Bengali
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Bengali (Bangladesh)
+gtkhash,197,16,0,57,6,0,193,213,92.48826291079813,Bengali (Bangladesh) <https://hosted.weblate.org/projects/gtkhash/translations/bn_BD/>
+iso-codes,496,4,7794,243,3,5431,492,8294,5.980226669881842,Bengali (Bangladesh) <https://hosted.weblate.org/projects/iso-codes/iso-15924/bn_BD/>
+modem-manager-gui,786,0,2517,163,0,404,820,3303,23.79654859218892,Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/)
+python-humanize,124,2,4,63,1,2,139,130,95.38461538461539,Bengali
+xournalpp,99,0,5439,44,0,1022,103,5538,1.7876489707475622,Bengali

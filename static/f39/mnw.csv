@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,7,0,7231,5,0,1801,6,7238,0.09671179883945842,Mon <mnw@li.org>
+deja-dup,246,0,1377,29,0,256,106,1623,15.157116451016636,Mon <mnw@li.org>
+snapd,48,0,4259,24,0,457,54,4307,1.1144648247039703,Mon <mnw@li.org>

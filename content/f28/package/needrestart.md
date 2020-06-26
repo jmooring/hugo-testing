@@ -1,0 +1,40 @@
+---
+title: "needrestart - translation progress for f28"
+package: needrestart
+date: 2026-01-17T19:35:49+00:00
+started_languages: 2
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 6
+release: f28
+---
+The package needrestart (version 2.11):
+
+* represents 368 source words to be translated
+* is translated into 2 languages in Fedora f28
+
+
+* contains 6 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [de]({{< ref "/f28/language/de.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f28/needrestart/ex/debconf/po/de.po/mnt/stockage/packages/f28/needrestart/po/needrestart/de.po/mnt/stockage/packages/f28/needrestart/po/needrestart-notify/de.po | 
+ | [ru]({{< ref "/f28/language/ru.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f28/needrestart/ex/debconf/po/ru.po/mnt/stockage/packages/f28/needrestart/po/needrestart/ru.po/mnt/stockage/packages/f28/needrestart/po/needrestart-notify/ru.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

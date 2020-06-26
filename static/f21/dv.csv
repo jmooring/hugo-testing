@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-do,162,0,450,68,0,76,156,612,26.47058823529412,Divehi <dv@li.org>
+gnome-menus,157,0,0,56,0,0,133,157,100.0,Divehi <dv@li.org>
+mate-menus,157,0,0,56,0,0,133,157,100.0,Divehi <dv@li.org>
+stellarium,18,0,15807,15,0,4248,18,15825,0.1137440758293839,Divehi <dv@li.org>

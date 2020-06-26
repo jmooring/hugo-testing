@@ -1,0 +1,86 @@
+---
+title: "exo - translation progress for f19"
+package: exo
+date: 2026-01-20T03:34:15+00:00
+started_languages: 48
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 49
+release: f19
+---
+The package exo (version 0.10.2):
+
+* represents 2758 source words to be translated
+* is translated into 48 languages in Fedora f19
+
+
+* contains 49 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ar]({{< ref "/f19/language/ar.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/ar.po | 
+ | [cs]({{< ref "/f19/language/cs.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/cs.po | 
+ | [da]({{< ref "/f19/language/da.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/da.po | 
+ | [de]({{< ref "/f19/language/de.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/de.po | 
+ | [el]({{< ref "/f19/language/el.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/el.po | 
+ | [es]({{< ref "/f19/language/es.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/es.po | 
+ | [eu]({{< ref "/f19/language/eu.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/eu.po | 
+ | [fr]({{< ref "/f19/language/fr.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/fr.po | 
+ | [id]({{< ref "/f19/language/id.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/id.po | 
+ | [it]({{< ref "/f19/language/it.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/it.po | 
+ | [ja]({{< ref "/f19/language/ja.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/ja.po | 
+ | [kk]({{< ref "/f19/language/kk.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/kk.po | 
+ | [ko]({{< ref "/f19/language/ko.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/ko.po | 
+ | [nl]({{< ref "/f19/language/nl.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/nl.po | 
+ | [pl]({{< ref "/f19/language/pl.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/pl.po | 
+ | [pt]({{< ref "/f19/language/pt.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/pt.po | 
+ | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/pt_BR.po | 
+ | [ro]({{< ref "/f19/language/ro.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/ro.po | 
+ | [ru]({{< ref "/f19/language/ru.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/ru.po | 
+ | [sr]({{< ref "/f19/language/sr.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/sr.po | 
+ | [ug]({{< ref "/f19/language/ug.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/ug.po | 
+ | [uk]({{< ref "/f19/language/uk.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/uk.po | 
+ | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f19/exo/po/zh_TW.po | 
+ | [hu]({{< ref "/f19/language/hu.md" >}}) | 1378 | 1379 | 99.9 | /mnt/stockage/packages/f19/exo/po/hu.po | 
+ | [ca]({{< ref "/f19/language/ca.md" >}}) | 1377 | 1379 | 99.9 | /mnt/stockage/packages/f19/exo/po/ca.po | 
+ | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 1377 | 1379 | 99.9 | /mnt/stockage/packages/f19/exo/po/en_GB.po | 
+ | [fi]({{< ref "/f19/language/fi.md" >}}) | 1377 | 1379 | 99.9 | /mnt/stockage/packages/f19/exo/po/fi.po | 
+ | [lt]({{< ref "/f19/language/lt.md" >}}) | 1377 | 1379 | 99.9 | /mnt/stockage/packages/f19/exo/po/lt.po | 
+ | [nn]({{< ref "/f19/language/nn.md" >}}) | 1377 | 1379 | 99.9 | /mnt/stockage/packages/f19/exo/po/nn.po | 
+ | [sk]({{< ref "/f19/language/sk.md" >}}) | 1377 | 1379 | 99.9 | /mnt/stockage/packages/f19/exo/po/sk.po | 
+ | [sv]({{< ref "/f19/language/sv.md" >}}) | 1376 | 1379 | 99.8 | /mnt/stockage/packages/f19/exo/po/sv.po | 
+ | [tr]({{< ref "/f19/language/tr.md" >}}) | 1376 | 1379 | 99.8 | /mnt/stockage/packages/f19/exo/po/tr.po | 
+ | [et]({{< ref "/f19/language/et.md" >}}) | 1375 | 1379 | 99.7 | /mnt/stockage/packages/f19/exo/po/et.po | 
+ | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 1375 | 1379 | 99.7 | /mnt/stockage/packages/f19/exo/po/nb.po | 
+ | [he]({{< ref "/f19/language/he.md" >}}) | 1373 | 1379 | 99.6 | /mnt/stockage/packages/f19/exo/po/he.po | 
+ | [bn]({{< ref "/f19/language/bn.md" >}}) | 1368 | 1379 | 99.2 | /mnt/stockage/packages/f19/exo/po/bn.po | 
+ | [lv]({{< ref "/f19/language/lv.md" >}}) | 1345 | 1379 | 97.5 | /mnt/stockage/packages/f19/exo/po/lv.po | 
+ | [ast]({{< ref "/f19/language/ast.md" >}}) | 1323 | 1379 | 95.9 | /mnt/stockage/packages/f19/exo/po/ast.po | 
+ | [gl]({{< ref "/f19/language/gl.md" >}}) | 1303 | 1379 | 94.5 | /mnt/stockage/packages/f19/exo/po/gl.po | 
+ | [pa]({{< ref "/f19/language/pa.md" >}}) | 1268 | 1379 | 92.0 | /mnt/stockage/packages/f19/exo/po/pa.po | 
+ | [bg]({{< ref "/f19/language/bg.md" >}}) | 1229 | 1379 | 89.1 | /mnt/stockage/packages/f19/exo/po/bg.po | 
+ | [ur]({{< ref "/f19/language/ur.md" >}}) | 2338 | 2758 | 84.8 | /mnt/stockage/packages/f19/exo/po/ur.po/mnt/stockage/packages/f19/exo/po/ur_PK.po | 
+ | [be]({{< ref "/f19/language/be.md" >}}) | 1083 | 1379 | 78.5 | /mnt/stockage/packages/f19/exo/po/be.po | 
+ | [sq]({{< ref "/f19/language/sq.md" >}}) | 1079 | 1379 | 78.2 | /mnt/stockage/packages/f19/exo/po/sq.po | 
+ | [hr]({{< ref "/f19/language/hr.md" >}}) | 977 | 1379 | 70.8 | /mnt/stockage/packages/f19/exo/po/hr.po | 
+ | [si]({{< ref "/f19/language/si.md" >}}) | 93 | 1379 | 6.7 | /mnt/stockage/packages/f19/exo/po/si.po | 
+ | [is]({{< ref "/f19/language/is.md" >}}) | 14 | 1379 | 1.0 | /mnt/stockage/packages/f19/exo/po/is.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

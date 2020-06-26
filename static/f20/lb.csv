@@ -1,0 +1,46 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deluge,26,0,2700,14,0,863,27,2726,0.9537784299339692,Luxembourgish <lb@li.org>
+flaw,84,0,0,53,0,0,87,84,100.0,LANGUAGE <LL@li.org>
+geany,4327,767,620,923,231,108,4368,5714,75.72628631431571,Letzebuergesch
+gnome-do,473,0,139,119,0,25,484,612,77.2875816993464,Luxembourgish <lb@li.org>
+gwibber,460,0,309,136,0,68,477,769,59.81794538361509,Luxembourgish <lb@li.org>
+kf5-kauth,0,6,52,0,2,6,0,58,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcmutils,31,152,380,7,23,41,33,563,5.506216696269982,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kconfig,0,41,192,0,6,88,0,233,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kconfigwidgets,111,149,57,63,41,10,119,317,35.01577287066246,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcoreaddons,0,208,44,0,61,17,0,252,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdeclarative,10,42,57,4,6,4,17,109,9.174311926605505,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdelibs4support,840,1052,2791,495,711,1130,882,4683,17.937219730941703,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdesignerplugin,0,43,11,0,5,4,0,54,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kglobalaccel,0,44,22,0,5,2,0,66,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-khtml,999,511,210,195,90,26,903,1720,58.081395348837205,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ki18n,0,95,29,0,85,25,0,124,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kinit,99,28,7,10,3,1,97,134,73.88059701492537,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kjobwidgets,0,97,44,0,38,7,0,141,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kjsembed,0,88,160,0,19,25,0,248,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knewstuff,95,240,338,20,89,41,101,673,14.115898959881129,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knotifyconfig,0,29,100,0,11,6,0,129,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kparts,44,51,9,13,12,1,50,104,42.30769230769231,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kpty,0,11,4,0,3,1,0,15,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kross,9,58,33,7,20,8,14,100,9.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kservice,17,73,63,4,15,9,21,153,11.11111111111111,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ktexteditor,730,947,6993,310,375,762,701,8670,8.419838523644751,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ktextwidgets,317,114,33,69,36,17,323,464,68.31896551724138,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kwidgetsaddons,0,1017,243,0,350,81,0,1260,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kxmlgui,345,909,289,91,100,31,338,1543,22.35904082955282,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-sonnet,0,610,49,0,56,16,0,659,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+libreoffice,9305,5054,83104,4637,3340,21996,9231,97463,9.547212788442794,LANGUAGE <LL@li.org>
+lightdm,42,0,37,15,0,2,44,79,53.16455696202531,Luxembourgish <lb@li.org>
+lightdm-gtk,35,0,49,12,0,12,35,84,41.66666666666667,Luxembourgish <lb@li.org>
+mintmenu,754,0,1740,237,0,304,721,2494,30.23255813953488,Luxembourgish <lb@li.org>
+plasma-oxygen,0,0,650,0,0,228,0,650,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+python-django,281,0,2077,196,0,360,287,2358,11.91687871077184,Luxembourgish (http://www.transifex.com/projects/p/django/language/lb/)
+python-django15,136,0,1719,114,0,351,143,1855,7.331536388140162,Luxembourgish (http://www.transifex.com/projects/p/django/language/lb/)
+stellarium,2,0,11179,2,0,3143,2,11181,0.017887487702352205,Luxembourgish <lb@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

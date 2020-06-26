@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cawbird,140,0,448,48,0,163,167,588,23.809523809523807,Spanish (Latin America) (http://www.transifex.com/cawbird/cawbird/language/es_419/)
+corebird,138,0,448,48,0,163,165,586,23.549488054607508,Spanish (Latin America) (http://www.transifex.com/corebird/corebird/language/es_419/)
+deepin-terminal,408,0,19,162,0,2,480,427,95.5503512880562,Spanish (Latin America) (https://www.transifex.com/linuxdeepin/teams/3976/es_419/)
+dnfdragora,4,0,35,1,0,8,4,39,10.256410256410255,Spanish (Latin America) (https://www.transifex.com/MageiaLinux/teams/9361/es_419/)
+glpi,13820,0,342,3549,0,61,15784,14162,97.58508685213953,Spanish (Latin America) (https://www.transifex.com/glpi/teams/1637/es_419/)
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Spanish (Latin America) (http://www.transifex.com/mate/MATE/language/es_419/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Spanish (Latin America) (http://www.transifex.com/mate/MATE/language/es_419/)
+pacman,4475,0,724,789,0,110,5850,5199,86.07424504712444,Spanish (Latin America) (http://www.transifex.com/toofishes/archlinux-pacman/language/es_419/)
+picard,398,0,3815,270,0,1166,427,4213,9.446949916923806,Spanish (Latin America) (http://www.transifex.com/musicbrainz/musicbrainz/language/es_419/)
+visualboyadvance-m,104,0,2289,31,0,864,106,2393,4.346009193480986,Spanish (Latin America) (http://www.transifex.com/bgk/vba-m/language/es_419/)

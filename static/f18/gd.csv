@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deja-dup,0,0,1756,0,0,289,0,1756,0.0,Gaelic; Scottish <gd@li.org>
+docky,199,0,1558,94,0,243,223,1757,11.326124075128059,Gaelic; Scottish <gd@li.org>
+freeciv,70240,0,0,6302,0,0,87974,70240,100.0,Akerbeltz
+gallery2,188,0,14,43,0,2,196,202,93.06930693069307,Afrikaans <gallery-translations@lists.sourceforge.net>
+gambas,0,0,1891,0,0,587,0,1891,0.0,LANGUAGE <LL@li.org>
+gwibber,0,0,769,0,0,204,0,769,0.0,Gaelic; Scottish <gd@li.org>
+libreoffice,91859,0,0,28093,0,0,111697,91859,100.0,LANGUAGE <LL@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Gaelic; Scottish <gd@li.org>
+lightdm-gtk,56,0,1,18,0,1,67,57,98.24561403508771,Gaelic; Scottish <gd@li.org>
+openconnect,0,0,2573,0,0,469,0,2573,0.0,"Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/)"
+stellarium,2478,0,8703,1097,0,2048,3110,11181,22.16259726321438,Fòram na Gàidhlig http://www.foramnagaidhlig.net
+tuxpaint,51,539,657,39,68,145,62,1247,4.0898155573376105,<internationiall@hotmail.com>
+tuxpaint-stamps,178,552,1981,79,227,344,104,2711,6.565842862412394,
+wesnoth,42134,0,203244,3985,0,11342,50467,245378,17.171058530104574,Fòram na Gàidhlig http://www.foramnagaidhlig.net

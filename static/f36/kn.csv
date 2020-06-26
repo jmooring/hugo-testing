@@ -1,0 +1,454 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4035,0,0,484,0,0,3566,4035,100.0,Kannada <en@li.org>
+NetworkManager,4374,4246,19831,742,621,869,3958,28451,15.37380056940002,Kannada <kde-i18n-doc@kde.org>
+NetworkManager-fortisslvpn,6,18,297,4,7,49,7,321,1.8691588785046727,Kannada <en@li.org>
+NetworkManager-l2tp,78,0,1157,34,0,152,85,1235,6.315789473684211,Kannada <en@li.org>
+NetworkManager-openconnect,34,5,3202,9,2,585,36,3241,1.0490589324282629,Kannada <en@li.org>
+NetworkManager-openvpn,63,186,1724,29,30,212,62,1973,3.1931069437404966,Kannada <en@li.org>
+NetworkManager-pptp,118,0,0,43,0,0,117,118,100.0,Kannada <en@li.org>
+NetworkManager-ssh,37,36,213,16,13,40,33,286,12.937062937062937,Kannada <en@li.org>
+NetworkManager-sstp,64,48,766,25,17,107,67,878,7.289293849658314,Kannada <en@li.org>
+NetworkManager-vpnc,139,0,0,36,0,0,124,139,100.0,Kannada <en@li.org>
+PackageKit,877,0,0,239,0,0,772,877,100.0,Kannada (http://www.transifex.com/freedesktop/packagekit/language/kn/)
+abrt,2126,111,1439,271,16,130,1930,3676,57.83460282916213,Kannada (http://www.transifex.com/projects/p/fedora-abrt/language/kn/)
+accerciser,186,33,321,122,11,74,189,540,34.44444444444444,debian-l10n-kannada@lists.debian.org
+accountsservice,0,0,59,0,0,10,0,59,0.0,Kannada (http://www.transifex.com/freedesktop/accountsservice/language/kn/)
+aisleriot,2806,0,0,612,0,0,2129,2806,100.0,Kannada <en@li.org>
+alacarte,42,0,0,16,0,0,38,42,100.0,Kannada <en@li.org>
+anaconda,3107,800,4332,680,131,559,2866,8239,37.710887243597526,Kannada (http://www.transifex.com/projects/p/anaconda/language/kn/)
+android-tools,5657,491,1530,821,102,155,5008,7678,73.67804115655119,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+anjuta,4909,700,829,1469,95,173,4428,6438,76.25038831935383,Kannada <en@li.org>
+arandr,171,2,0,36,2,0,153,173,98.84393063583815,Kannada <https://hosted.weblate.org/projects/arandr/translations/kn/>
+at-spi2-core,122,0,0,18,0,0,123,122,100.0,Kannada <kn@li.org>
+atk,398,0,0,139,0,0,353,398,100.0,Kannada <en@li.org>
+atomix,125,0,0,44,0,0,113,125,100.0,Kannada <LL@li.org>
+atril,1239,0,3152,370,0,367,1108,4391,28.216807105442953,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+avogadro2,9,31,334,6,25,122,54,374,2.406417112299465,Kannada <kn@li.org>
+avogadro2-libs,74,62,4476,72,36,1281,138,4612,1.6045099739809192,Kannada <kn@li.org>
+baobab,210,0,0,57,0,0,187,210,100.0,Kannada <kde-i18n-doc@kde.org>
+blueberry,26,0,146,12,0,27,23,172,15.11627906976744,Kannada <kn@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+brasero,5546,0,0,968,0,0,4614,5546,100.0,American English <kde-i18n-doc@kde.org>
+budgie-control-center,4219,0,3674,1678,0,842,4185,7893,53.45242620043076,Kannada (https://www.transifex.com/buddiesofbudgie/teams/129844/kn/)
+budgie-screensaver,270,0,0,54,0,0,219,270,100.0,Kannada <en@li.org>
+caja,6868,0,2807,1265,0,339,5614,9675,70.98708010335916,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+caja-actions,136,0,18679,83,0,1433,146,18815,0.7228275312250864,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+caja-extensions,104,0,656,39,0,106,103,760,13.684210526315791,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+calamares,0,0,521,0,0,91,0,521,0.0,Kannada (https://www.transifex.com/calamares/teams/20061/kn/)
+calibre,6403,0,164564,5450,0,13881,6407,170967,3.7451671960085866,Kannada (http://www.transifex.com/calibre/calibre/language/kn/)
+caribou,171,0,0,57,0,0,156,171,100.0,Kannada <kn@li.org>
+cheese,613,0,0,120,0,0,502,613,100.0,RHEL7_Tier1 <kde-i18n-doc@kde.org>
+chkconfig,500,30,63,92,7,9,461,593,84.31703204047217,Kannada <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/kn/>
+cinnamon-control-center,1313,0,0,756,0,0,1430,1313,100.0,Kannada <kde-i18n-doc@kde.org>
+cinnamon-desktop,231,0,3,31,0,1,199,234,98.71794871794873,Kannada <kde-i18n-doc@kde.org>
+cinnamon-translations,4638,0,14179,1058,0,2983,4096,18817,24.647924748897275,Kannada <kn@li.org>
+clutter,928,176,1953,304,34,337,732,3057,30.35655871769709,Kannada <kn@li.org>
+cogl,15,0,346,4,0,71,15,361,4.1551246537396125,Kannada <kn@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,25,0,363,8,0,91,25,388,6.443298969072164,LANGUAGE <LL@li.org>
+console-setup,951,27,6,174,3,2,742,984,96.64634146341463,Kannada <debian-l10n-kannada@lists.debian.org>
+cracklib,93,0,3,15,0,1,68,96,96.875,Kannada <en@li.org>
+dasher,615,0,0,212,0,0,594,615,100.0,Kannada <en@li.org>
+deluge,128,0,4212,88,0,1245,126,4340,2.9493087557603688,Kannada <kn@li.org>
+devhelp,5,1,203,5,1,45,6,209,2.3923444976076556,Kannada <LL@li.org>
+dia,1332,10,5292,701,5,1660,1352,6634,20.07838408200181,Kannada <en@li.org>
+dialect,126,0,372,113,0,95,124,498,25.301204819277107,Kannada <https://hosted.weblate.org/projects/dialect/dialect/kn/>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dolphin,742,783,3533,241,231,262,662,5058,14.669829972321075,kn_IN <kde-i18n-doc@kde.org>
+elementary-calculator,2,2,231,2,1,72,2,235,0.851063829787234,Kannada <https://weblate.elementary.io/projects/calculator/calculator/kn/>
+elementary-calendar,0,0,888,0,0,258,0,888,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,205,0,0,47,0,205,0.0,
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,17,6,1585,7,3,297,16,1608,1.0572139303482588,Kannada <https://weblate.elementary.io/projects/code/code/kn/>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,219,0,0,48,0,219,0.0,
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elementary-photos,2577,706,728,603,88,127,2164,4011,64.24831712789828,Kannada (http://www.transifex.com/projects/p/shotwell/language/kn/)
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+engrampa,1077,0,6845,257,0,636,927,7922,13.595051754607423,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+entangle,0,0,953,0,0,229,0,953,0.0,Kannada
+eog,1616,0,0,327,0,0,1368,1616,100.0,Kannada <kde-i18n-doc@kde.org>
+eog-plugins,100,0,0,32,0,0,99,100,100.0,Kannada <en@li.org>
+eom,1145,0,3813,285,0,257,994,4958,23.09398951189996,Kannada (https://app.transifex.com/mate/teams/13566/kn/)
+epiphany,2413,0,0,574,0,0,2097,2413,100.0,Kannada <en@li.org>
+evince,1525,0,0,355,0,0,1375,1525,100.0,Kannada <kde-i18n-doc@kde.org>
+evolution,21286,0,0,4434,0,0,18761,21286,100.0,American English <kde-i18n-doc@kde.org>
+evolution-data-server,5673,0,0,1164,0,0,5091,5673,100.0,American English <kde-i18n-doc@kde.org>
+evolution-ews,1165,0,0,239,0,0,1050,1165,100.0,Kannada <kde-i18n-doc@kde.org>
+evolution-mapi,1036,0,0,232,0,0,931,1036,100.0,Kannada <en@li.org>
+evolution-rss,728,0,0,198,0,0,688,728,100.0,Kannada <en@li.org>
+exo,735,0,4,143,0,2,591,739,99.45872801082544,Kannada (http://www.transifex.com/xfce/exo/language/kn/)
+fcitx-table-other,2,0,22,2,0,20,3,24,8.333333333333332,Kannada (http://www.transifex.com/fcitx/fcitx/language/kn/)
+fcitx5-table-other,0,0,100,0,0,34,0,100,0.0,Kannada (http://www.transifex.com/fcitx/fcitx/language/kn/)
+file-roller,1195,0,0,268,0,0,1057,1195,100.0,Kannada <kde-i18n-doc@kde.org>
+firewalld,1486,10,721,292,1,122,1244,2217,67.02751465944971,Kannada (http://www.transifex.com/projects/p/firewalld/language/kn/)
+five-or-more,159,47,76,47,12,6,158,282,56.38297872340425,Kannada <en@li.org>
+folks,1003,0,0,123,0,0,845,1003,100.0,Kannada <kde-i18n-doc@kde.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Kannada
+four-in-a-row,109,51,96,41,17,15,109,256,42.578125,Kannada <en@li.org>
+fprintd,0,0,433,0,0,60,0,433,0.0,Kannada (http://www.transifex.com/freedesktop/fprintd/language/kn/)
+freeipa,712,0,58349,210,0,4603,622,59061,1.2055332622204162,Kannada
+gala,0,0,358,0,0,73,0,358,0.0,none
+gconf-editor,336,0,0,98,0,0,315,336,100.0,Kannada <en@li.org>
+gcr,115,205,302,59,71,97,110,622,18.488745980707396,Kannada <en@li.org>
+gdk-pixbuf2,1213,84,51,186,11,5,1047,1348,89.98516320474778,kn-IN <>
+gdm,566,15,69,78,3,6,445,650,87.07692307692308,Kannada <kde-i18n-doc@kde.org>
+gedit,4084,0,0,684,0,0,3430,4084,100.0,American English <kde-i18n-doc@kde.org>
+gedit-plugins,899,189,117,389,57,23,915,1205,74.60580912863071,kn_IN <kde-i18n-doc@kde.org>
+gftp,3334,0,0,593,0,0,2935,3334,100.0,Kannada <en@li.org>
+gimp,2323,3591,17023,1094,1208,3819,2233,22937,10.127741204167938,Kannada <en@li.org>
+glib-networking,86,0,0,16,0,0,84,86,100.0,Kannada <kn@li.org>
+glib2,5697,0,0,904,0,0,5056,5697,100.0,American English <kde-i18n-doc@kde.org>
+gnome-abrt,112,4,105,23,2,30,100,221,50.678733031674206,Kannada (http://www.transifex.com/projects/p/gnome-abrt/language/kn/)
+gnome-applets,3352,0,0,788,0,0,2977,3352,100.0,kn-IN <>
+gnome-bluetooth,309,0,0,102,0,0,296,309,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-bluetooth3.34,309,0,0,102,0,0,296,309,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-books,460,0,0,151,0,0,429,460,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-boxes,950,0,0,208,0,0,872,950,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-calculator,1337,0,0,428,0,0,1181,1337,100.0,American English <kde-i18n-doc@kde.org>
+gnome-chess,879,243,268,137,67,33,797,1390,63.23741007194245,Kannada <en@li.org>
+gnome-clocks,223,0,0,77,0,0,213,223,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-color-manager,1792,0,0,342,0,0,1455,1792,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-contacts,405,0,0,155,0,0,399,405,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-control-center,6271,0,0,2208,0,0,6096,6271,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-desktop3,146,0,0,23,0,0,138,146,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-dictionary,841,0,0,180,0,0,738,841,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-disk-utility,3423,0,0,632,0,0,2888,3423,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-do,139,0,473,54,0,90,132,612,22.712418300653596,Kannada <kn@li.org>
+gnome-doc-utils,249,0,0,99,0,0,254,249,100.0,Kannada <en@li.org>
+gnome-extensions-app,1485,0,0,374,0,0,1267,1485,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-font-viewer,109,0,0,26,0,0,94,109,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Kannada <en@li.org>
+gnome-initial-setup,585,0,0,103,0,0,495,585,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-keyring,553,0,0,112,0,0,489,553,100.0,Kannada <en@li.org>
+gnome-klotski,65,35,94,40,13,6,66,194,33.50515463917525,Kannada <en@li.org>
+gnome-mahjongg,87,45,172,38,13,12,103,304,28.618421052631575,Kannada <en@li.org>
+gnome-maps,41,0,139,19,0,13,45,180,22.77777777777778,Kannada <kde-i18n-doc@kde.org>
+gnome-menus,70,0,0,27,0,0,63,70,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-mines,94,108,142,26,33,13,91,344,27.325581395348834,Kannada <en@li.org>
+gnome-music,348,0,0,53,0,0,351,348,100.0,Kannada <kn@li.org>
+gnome-nettool,617,0,0,213,0,0,584,617,100.0,Kannada <en@li.org>
+gnome-nibbles,129,121,197,46,43,21,127,447,28.859060402684566,Kannada <en@li.org>
+gnome-online-accounts,692,0,0,147,0,0,616,692,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-packagekit,4390,0,0,681,0,0,3536,4390,100.0,American English <kde-i18n-doc@kde.org>
+gnome-panel,3427,0,0,507,0,0,2674,3427,100.0,American English <kde-i18n-doc@kde.org>
+gnome-photos,158,0,143,84,0,16,181,301,52.49169435215947,Kannada <kde-i18n-doc@kde.org>
+gnome-power-manager,480,0,0,147,0,0,403,480,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-robots,384,94,119,69,21,7,334,597,64.321608040201,Kannada <en@li.org>
+gnome-screenshot,354,0,0,75,0,0,311,354,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-search-tool,1344,15,0,197,3,0,1102,1359,98.89624724061811,Kannada <en@li.org>
+gnome-session,323,0,0,59,0,0,285,323,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-settings-daemon,2607,0,0,429,0,0,2205,2607,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-shell,1485,0,0,374,0,0,1267,1485,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-shell-extensions,358,0,0,68,0,0,319,358,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-shell-frippery,19,0,0,7,0,0,16,19,100.0,Swatantra Kannada
+gnome-sudoku,23,141,235,13,41,18,38,399,5.764411027568922,Kannada <en@li.org>
+gnome-system-log,420,0,0,66,0,0,355,420,100.0,Kannada <en@li.org>
+gnome-system-monitor,1289,0,0,292,0,0,1159,1289,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-terminal,2209,0,0,442,0,0,1934,2209,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-tetravex,34,81,105,16,14,15,43,220,15.454545454545453,Kannada <en@li.org>
+gnome-themes-extra,12,0,0,5,0,0,14,12,100.0,Kannada <kn@li.org>
+gnome-user-docs,897,0,59356,350,0,2971,882,60253,1.488722553233864,Kannada <kde-i18n-doc@kde.org>
+gnome-user-share,160,0,0,29,0,0,126,160,100.0,Kannada <kde-i18n-doc@kde.org>
+gnome-vfs2,1519,0,0,305,0,0,1215,1519,100.0,kn-IN <>
+gnome-video-effects,11,2,13,10,2,11,12,26,42.30769230769231,kn_IN <kde-i18n-doc@kde.org>
+gnome-weather,129,0,74,67,0,5,142,203,63.54679802955665,Kannada <kde-i18n-doc@kde.org>
+gnote,3592,0,0,543,0,0,3140,3592,100.0,Kannada <kde-i18n-doc@kde.org>
+gnucash,24109,6753,6187,3900,983,518,19961,37049,65.07328133013037,NONE
+gnusim8085,563,0,0,141,0,0,468,563,100.0,Kannada <kn@li.org>
+gpicview,121,0,115,33,0,19,116,236,51.271186440677965,LANGUAGE <LL@li.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+gthumb,1221,57,1856,521,22,379,1188,3134,38.95979578813019,Kannada <en@li.org>
+gtk2,13322,257,125,2729,39,16,10405,13704,97.21249270286047,kn-IN <>
+gtk2-engines,119,0,0,47,0,0,111,119,100.0,Kannada <en@li.org>
+gtk3,6470,0,0,2292,0,0,6432,6470,100.0,Kannada <kde-i18n-doc@kde.org>
+gtk4,6470,0,0,2292,0,0,6432,6470,100.0,Kannada <kde-i18n-doc@kde.org>
+gtkhtml3,1261,0,0,560,0,0,1200,1261,100.0,Kannada <en@li.org>
+gtksourceview2,1120,0,0,448,0,0,1004,1120,100.0,Kannada <en@li.org>
+gtksourceview3,118,82,122,37,20,49,103,322,36.64596273291926,Kannada <en@li.org>
+gtksourceview4,1377,1,108,572,1,18,1220,1486,92.66487213997308,Kannada <en@li.org>
+gtksourceview5,1377,1,108,572,1,18,1220,1486,92.66487213997308,Kannada <en@li.org>
+gucharmap,1071,0,0,363,0,0,1090,1071,100.0,Kannada <en@li.org>
+guestfs-tools,1404,0,14329,258,0,1491,1332,15733,8.923917879616093,Kannada (http://www.transifex.com/projects/p/libguestfs/language/kn/)
+gvfs,2728,0,0,601,0,0,2422,2728,100.0,Kannada <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hexchat,3087,0,2884,906,0,540,2775,5971,51.69988276670574,Kannada (http://www.transifex.com/hexchat/hexchat/language/kn/)
+hivex,262,8,0,21,1,0,227,270,97.03703703703704,Kannada <None>
+iagno,34,107,181,16,33,23,43,322,10.559006211180124,Kannada <en@li.org>
+ibus,911,60,1345,158,7,402,790,2316,39.33506044905008,Kannada <trans-kn@lists.fedoraproject.org>
+im-chooser,229,0,24,52,0,5,193,253,90.51383399209486,LANGUAGE <LL@li.org>
+imsettings,440,10,40,80,2,7,371,490,89.79591836734694,LANGUAGE <LL@li.org>
+initial-setup,33,0,73,7,0,13,29,106,31.132075471698112,Kannada (http://www.transifex.com/projects/p/initial-setup/language/kn/)
+initscripts,738,79,301,110,14,34,716,1118,66.01073345259391,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+inkscape,21248,9834,9847,4823,2520,1325,18792,40929,51.9142906007965,Kannada
+iso-codes,10718,2906,2085,7467,1337,1381,10583,15709,68.22840409956076,Kannada
+isomaster,26,1,647,21,1,85,29,674,3.857566765578635,http://littlesvr.ca/ostd/
+kde-cli-tools,824,743,568,126,38,53,666,2135,38.594847775175644,Kannada
+kdialog,191,74,117,42,13,20,176,382,50.0,kn-IN <>
+kdump-anaconda-addon,83,11,100,14,3,5,73,194,42.78350515463917,kn_IN <kde-i18n-doc@kde.org>
+keditbookmarks,341,119,6,96,35,1,327,466,73.17596566523605,Kannada <en@li.org>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kcmutils,140,77,49,18,17,3,113,266,52.63157894736842,kn_IN <kde-i18n-doc@kde.org>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kconfig,0,9,280,0,2,102,0,289,0.0,Kannada <en@li.org>
+kf5-kconfigwidgets,141,142,59,69,43,13,139,342,41.228070175438596,kn_IN <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,0,306,76,0,89,43,0,382,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kdeclarative,43,38,80,8,7,10,49,161,26.70807453416149,kn_IN <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,707,782,3864,225,526,1793,680,5353,13.20754716981132,Kannada <kde-l10n-kn@kde.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,16,8,100.0,Kannada <kde-l10n-kn@kde.org>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-khtml,1011,199,457,250,23,16,905,1667,60.64787042591482,kn_IN <kde-i18n-doc@kde.org>
+kf5-ki18n,42,80,2,42,66,2,51,124,33.87096774193548,kn_IN <kde-i18n-doc@kde.org>
+kf5-kinit,85,31,0,7,4,0,54,116,73.27586206896551,kn_IN <kde-i18n-doc@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,0,133,0,0,38,0,0,133,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kjsembed,236,0,12,43,0,1,222,248,95.16129032258065,kn_IN <kde-i18n-doc@kde.org>
+kf5-kldap,33,0,0,8,0,0,37,33,100.0,Kannada <kde-l10n-kn@kde.org>
+kf5-knewstuff,269,233,1129,66,90,75,264,1631,16.492949110974862,kn_IN <kde-i18n-doc@kde.org>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,43,0,86,15,0,2,36,129,33.33333333333333,kn_IN <kde-i18n-doc@kde.org>
+kf5-kparts,104,27,7,26,3,1,94,138,75.36231884057972,kn_IN <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,14,15,100.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kross,82,18,0,29,6,0,96,100,82.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kservice,80,65,28,12,12,4,77,173,46.24277456647399,kn_IN <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,404,13,56,113,9,8,366,473,85.41226215644821,kn_IN <kde-i18n-doc@kde.org>
+kf5-kwallet,62,4,1269,24,2,62,65,1335,4.644194756554307,Kannada <en@li.org>
+kf5-kwidgetsaddons,0,1164,129,0,435,28,0,1293,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,kn_IN <kde-i18n-doc@kde.org>
+kf5-kxmlgui,497,492,585,106,104,20,410,1574,31.575603557814485,kn_IN <kde-i18n-doc@kde.org>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,kn_IN <kde-i18n-doc@kde.org>
+kfind,330,31,141,102,9,4,289,502,65.73705179282868,kn-IN <>
+khelpcenter,177,20,68,71,7,12,173,265,66.79245283018868,Kannada <en@li.org>
+khotkeys,401,33,17,119,9,8,361,451,88.91352549889136,kn-IN <>
+kinfocenter,237,120,104,114,65,47,256,461,51.40997830802603,Kannada <en@li.org>
+kio-extras,328,141,546,59,25,51,304,1015,32.31527093596059,Kannada <kde-l10n-kn@kde.org>
+kmenuedit,190,15,80,40,5,22,150,285,66.66666666666666,<en@li.org>
+konqueror,4605,548,876,551,60,66,3697,6029,76.38082600762979,Kannada <en@li.org>
+konsole5,626,1336,1960,141,343,343,527,3922,15.961244263131055,Kannada <en@li.org>
+ksysguard,710,254,129,150,52,35,575,1093,64.95882891125343,<en@li.org>
+kwin,1510,1238,3051,297,328,540,1252,5799,26.038972236592517,Kannada <en@li.org>
+libbonobo,543,0,0,107,0,0,476,543,100.0,Kannada <en@li.org>
+libbonoboui,368,0,0,115,0,0,327,368,100.0,Kannada <en@li.org>
+libcryptui,3042,0,0,655,0,0,2627,3042,100.0,Kannada <en@li.org>
+libdnf,2,0,1478,1,0,228,1,1480,0.13513513513513514,Kannada
+libgnome,1772,0,0,273,0,0,1402,1772,100.0,Kannada <en@li.org>
+libgnome-keyring,44,0,0,9,0,0,35,44,100.0,kn_IN <kde-i18n-doc@kde.org>
+libgnomecanvas,378,0,0,95,0,0,331,378,100.0,Kannada <en@li.org>
+libgnomekbd,187,0,0,39,0,0,159,187,100.0,Kannada <kde-i18n-doc@kde.org>
+libgnomeui,1226,0,0,320,0,0,1037,1226,100.0,kn-IN <>
+libgtop2,126,0,0,40,0,0,118,126,100.0,Kannada <en@li.org>
+libguestfs,1404,5,6003,258,1,696,1332,7412,18.942255801403128,Kannada (http://www.transifex.com/projects/p/libguestfs/language/kn/)
+libgweather,6107,0,0,4520,0,0,6072,6107,100.0,Kannada <kde-i18n-doc@kde.org>
+libgweather4,6107,0,0,4520,0,0,6072,6107,100.0,Kannada <kde-i18n-doc@kde.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libksysguard,7,0,0,6,0,0,8,7,100.0,Kannada <en@li.org>
+libmatekbd,176,0,132,43,0,48,160,308,57.14285714285714,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+libmatemixer,12,0,230,11,0,115,12,242,4.958677685950414,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+libmateweather,5947,0,196,4484,0,91,5956,6143,96.8093765261273,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+libmypaint,2,2,2299,2,1,159,2,2303,0.08684324793747286,Kannada <https://hosted.weblate.org/projects/mypaint/libmypaint/kn/>
+libnma,206,388,294,59,73,55,199,888,23.1981981981982,kn_IN <kde-i18n-doc@kde.org>
+libpeas,111,0,0,34,0,0,107,111,100.0,Kannada <kde-i18n-doc@kde.org>
+libpwquality,333,0,12,50,0,1,250,345,96.52173913043478,Kannada (http://www.transifex.com/projects/p/libpwquality/language/kn/)
+libreoffice,66151,14226,87020,20963,4790,12369,58969,167397,39.51743460157589,LANGUAGE <LL@li.org>
+libreport,2431,39,2458,378,4,221,2188,4928,49.330357142857146,Kannada (http://www.transifex.com/projects/p/libreport/language/kn/)
+libsoup,110,0,0,25,0,0,106,110,100.0,Kannada <kde-i18n-doc@kde.org>
+libsoup3,110,0,0,25,0,0,106,110,100.0,Kannada <kde-i18n-doc@kde.org>
+libuser,996,38,403,213,7,81,975,1437,69.31106471816284,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+libvirt,30244,20444,17624,5002,3216,2186,27538,68312,44.27333411406488,Kannada (http://www.transifex.com/projects/p/libvirt/language/kn/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+libwnck,1124,0,0,241,0,0,951,1124,100.0,kn_IN <kde-i18n-doc@kde.org>
+libwnck3,1068,18,0,230,1,0,899,1086,98.34254143646409,Kannada <kde-i18n-doc@kde.org>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Kannada (http://www.transifex.com/the_cavalry/light-locker/language/kn/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Kannada <kn@li.org>
+lightsoff,10,33,54,5,10,4,18,97,10.309278350515463,Kannada <en@li.org>
+lxdm,19,0,28,11,0,14,19,47,40.42553191489361,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,89,97,100.0,Kannada <en@li.org>
+maliit-keyboard,9,0,72,9,0,52,9,81,11.11111111111111,Kannada <kn@li.org>
+marco,3157,0,1146,368,0,62,2727,4303,73.36741808040902,Kannada (https://app.transifex.com/mate/teams/13566/kn/)
+mate-applets,1902,37,14018,482,8,1156,1775,15957,11.919533746944914,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-backgrounds,55,0,0,29,0,0,56,55,100.0,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-calc,1277,0,2046,464,0,285,1144,3323,38.42913030394222,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-control-center,2507,7,5739,990,1,519,2304,8253,30.376832666909003,Kannada (https://app.transifex.com/mate/teams/13566/kn/)
+mate-desktop,2362,1,13,297,1,3,1848,2376,99.41077441077442,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-media,120,0,119,53,0,46,122,239,50.2092050209205,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-menu,127,0,181,59,0,51,125,308,41.23376623376623,Kannada (http://www.transifex.com/mate/MATE/language/kn/)
+mate-menus,98,0,5,38,0,1,89,103,95.14563106796116,Kannada (https://app.transifex.com/mate/teams/13566/kn/)
+mate-notification-daemon,14,0,172,10,0,43,25,186,7.526881720430108,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-panel,4532,0,2188,643,0,171,3496,6720,67.44047619047619,Kannada (https://app.transifex.com/mate/teams/13566/kn/)
+mate-polkit,97,0,26,17,0,4,82,123,78.86178861788618,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-power-manager,1354,0,3765,285,0,266,1112,5119,26.45047860910334,Kannada (https://app.transifex.com/mate/teams/13566/kn/)
+mate-screensaver,868,0,233,147,0,29,695,1101,78.83742052679382,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-sensors-applet,5,2,2153,5,2,219,12,2160,0.23148148148148145,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-session-manager,429,0,286,102,0,30,372,715,60.0,Kannada (https://app.transifex.com/mate/teams/13566/kn/)
+mate-settings-daemon,1126,0,1080,199,0,120,942,2206,51.042611060743425,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-system-monitor,521,0,4326,200,0,448,488,4847,10.748916855787085,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-terminal,3946,0,4440,501,0,302,3057,8386,47.05461483424755,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-themes,9,0,65,3,0,20,12,74,12.162162162162163,Kannada (http://www.transifex.com/mate/MATE/language/kn/)
+mate-user-admin,14,0,591,12,0,114,16,605,2.3140495867768593,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-user-guide,149,0,42820,88,0,3140,154,42969,0.34676161884149037,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mate-utils,3249,0,6811,651,0,475,2720,10060,32.29622266401591,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+mediawriter,3,16,826,1,3,158,2,845,0.35502958579881655,Kannada <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/kn/>
+metacity,3749,49,0,403,1,0,3222,3798,98.70984728804633,kn-IN <>
+minetest,195,82,9246,63,32,1260,193,9523,2.047674052294445,Kannada <https://hosted.weblate.org/projects/minetest/minetest/kn/>
+mingw-GConf2,4035,0,0,484,0,0,3566,4035,100.0,Kannada <en@li.org>
+mingw-atk,398,0,0,139,0,0,353,398,100.0,Kannada <en@li.org>
+mingw-colord,25,0,363,8,0,91,25,388,6.443298969072164,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,1213,84,51,186,11,5,1047,1348,89.98516320474778,kn-IN <>
+mingw-glib-networking,86,0,0,16,0,0,84,86,100.0,Kannada <kn@li.org>
+mingw-glib2,5697,0,0,904,0,0,5056,5697,100.0,American English <kde-i18n-doc@kde.org>
+mingw-gtk2,13322,257,125,2729,39,16,10405,13704,97.21249270286047,kn-IN <>
+mingw-gtk3,6470,0,0,2292,0,0,6432,6470,100.0,Kannada <kde-i18n-doc@kde.org>
+mingw-gtksourceview3,118,82,122,37,20,49,103,322,36.64596273291926,Kannada <en@li.org>
+mingw-libsoup,110,0,0,25,0,0,106,110,100.0,Kannada <kde-i18n-doc@kde.org>
+mingw-libvirt,30618,20765,17081,5053,3267,2119,27871,68464,44.7213133909792,Kannada (http://www.transifex.com/projects/p/libvirt/language/kn/)
+mingw-mediawriter,3,16,826,1,3,158,2,845,0.35502958579881655,Kannada <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/kn/>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Kannada (http://www.transifex.com/freedesktop/p11-kit/language/kn/)
+mousetweaks,715,0,0,94,0,0,569,715,100.0,Kannada <en@li.org>
+mozo,43,0,3,21,0,3,45,46,93.47826086956522,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+muffin,1143,0,1279,236,0,117,1040,2422,47.19240297274979,Kannada <en@li.org>
+multimedia-menus,56,0,0,22,0,0,59,56,100.0,Kannada <en@li.org>
+mutter,1837,0,0,238,0,0,1592,1837,100.0,Kannada <kde-i18n-doc@kde.org>
+mypaint,18,12,6351,16,7,1247,16,6381,0.2820874471086037,Kannada <https://hosted.weblate.org/projects/mypaint/mypaint/kn/>
+nautilus,6114,0,0,1030,0,0,5253,6114,100.0,Kannada <kde-i18n-doc@kde.org>
+nemo-extensions,251,0,7,48,0,1,216,258,97.28682170542635,Kannada <kn@li.org>
+network-manager-applet,806,1426,2073,243,314,302,769,4305,18.722415795586528,kn_IN <kde-i18n-doc@kde.org>
+newt,4,0,0,4,0,0,4,4,100.0,Kannada <en@li.org>
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Kannada <kn@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,10,0,2308,5,0,505,12,2318,0.4314063848144953,Kannada <kn@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,467,1727,902,342,408,339,484,3096,15.083979328165375,Kannada <en@li.org>
+p11-kit,0,0,476,0,0,81,0,476,0.0,Kannada (http://www.transifex.com/freedesktop/p11-kit/language/kn/)
+pam,352,159,24,75,22,3,299,535,65.7943925233645,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+paprefs,131,0,6,23,0,2,116,137,95.62043795620438,Kannada <en@li.org>
+passwd,306,0,30,54,0,3,303,336,91.07142857142857,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+pastebinit,0,0,195,0,0,29,0,195,0.0,Kannada <kn@li.org>
+pavucontrol,183,61,286,76,22,51,183,530,34.52830188679245,Kannada <en@li.org>
+peek,0,0,564,0,0,97,0,564,0.0,none
+php-phpmyadmin-sql-parser5,0,11,257,0,2,48,0,268,0.0,Kannada <https://hosted.weblate.org/projects/phpmyadmin/master/kn/>
+picard,64,0,1617,28,0,640,71,1681,3.8072575847709698,LANGUAGE <LL@li.org>
+pidgin,14274,0,1561,3233,0,224,12383,15835,90.14209030628355,Kannada (http://www.transifex.com/pidgin/pidgin/language/kn/)
+pipewire,104,281,262,45,31,32,108,647,16.0741885625966,Kannada <kde-l10n-kn@kde.org>
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,Kannada <kde-l10n-kn@kde.org>
+plasma-desktop,1883,889,2250,269,227,347,1489,5022,37.49502190362406,Kannada <kde-l10n-kn@kde.org>
+plasma-drkonqi,314,702,968,50,80,73,259,1984,15.826612903225806,Kannada <kde-l10n-kn@kde.org>
+plasma-sdk,40,18,192,22,8,33,43,250,16.0,Kannada <en@li.org>
+plasma-workspace,4637,1228,3136,1418,362,334,4541,9001,51.51649816687035,Kannada <kde-l10n-kn@kde.org>
+pluma,4377,0,8736,1072,0,1018,3733,13113,33.37908945321437,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+pluma-plugins,188,0,1210,20,0,123,122,1398,13.447782546494993,Kannada (https://www.transifex.com/mate/teams/13566/kn/)
+po4a,83,297,2440,19,51,179,78,2820,2.9432624113475176,Kannada <debian-l10n-kannada@lists.debian.org>
+pogo,18,0,558,17,0,84,25,576,3.125,Kannada <kn@li.org>
+policycoreutils,9276,491,2404,1386,102,288,7972,12171,76.21395119546463,Kannada
+polkit-gnome,94,0,0,16,0,0,78,94,100.0,Kannada <kde-i18n-doc@kde.org>
+publican,1760,67,3616,125,3,488,1483,5443,32.33510931471615,Kannada <kde-l10n-kn@kde.org>
+pulseaudio,1376,1868,508,343,109,119,1303,3752,36.67377398720683,Kannada <kde-l10n-kn@kde.org>
+pychess,109,0,7483,69,0,1399,104,7592,1.435721812434141,Kannada (http://www.transifex.com/gbtami/pychess/language/kn/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,186,43,1472,22,1,161,157,1701,10.934744268077601,Kannada (http://www.transifex.com/projects/p/pykickstart/language/kn/)
+python-blivet,326,0,258,56,0,22,297,584,55.821917808219176,Kannada (http://www.transifex.com/projects/p/blivet/language/kn/)
+python-django,1023,0,2495,387,0,423,907,3518,29.079022171688457,Kannada (http://www.transifex.com/django/django/language/kn/)
+python-django-contrib-comments,52,0,192,19,0,41,47,244,21.311475409836063,Kannada (http://www.transifex.com/django/django-contrib-comments/language/kn/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django3,1048,0,2466,386,0,424,922,3514,29.823562891291978,Kannada (http://www.transifex.com/django/django/language/kn/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Kannada
+python-hyperkitty,0,0,926,0,0,263,0,926,0.0,LANGUAGE <LL@li.org>
+python-meh,1,0,108,1,0,22,2,109,0.9174311926605505,Kannada (http://www.transifex.com/projects/p/python-meh/language/kn/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+quadrapassel,233,73,122,59,16,4,194,428,54.4392523364486,Kannada <en@li.org>
+realmd,0,0,789,0,0,127,0,789,0.0,Kannada (http://www.transifex.com/freedesktop/realmd/language/kn/)
+redhat-menus,261,0,0,86,0,0,258,261,100.0,Kannada <en@li.org>
+remmina,56,4470,753,14,886,84,53,5279,1.060806971017238,Kannada <https://hosted.weblate.org/projects/remmina/remmina/kn/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Kannada
+rhythmbox,4545,0,0,1070,0,0,4233,4545,100.0,Kannada <en@li.org>
+rpm-ostree,2,0,1478,1,0,228,1,1480,0.13513513513513514,Kannada
+rygel,556,0,0,114,0,0,545,556,100.0,Kannada <kn@li.org>
+scratch,856,0,614,346,0,280,784,1470,58.23129251700681,LANGUAGE <LL@li.org>
+seahorse,3035,7,0,654,1,0,2621,3042,99.76988823142669,Kannada <en@li.org>
+seahorse-caja,411,10,0,109,1,0,397,421,97.62470308788599,Kannada <en@li.org>
+seahorse-nautilus,411,10,0,109,1,0,397,421,97.62470308788599,Kannada <en@li.org>
+setroubleshoot,522,10,108,148,2,18,475,640,81.5625,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+setroubleshoot-plugins,2331,0,3915,119,0,107,1839,6246,37.319884726224785,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+setuptool,55,0,0,14,0,0,56,55,100.0,Kannada <en@li.org>
+shared-mime-info,0,0,2058,0,0,795,0,2058,0.0,Kannada (http://www.transifex.com/freedesktop/shared-mime-info/language/kn/)
+shotwell,4271,0,0,885,0,0,3610,4271,100.0,Kannada <kde-i18n-doc@kde.org>
+shutter,31,0,2417,22,0,479,36,2448,1.2663398692810457,Kannada <kn@li.org>
+slick-greeter,211,0,0,47,0,0,170,211,100.0,Kannada <kn@li.org>
+sos,54,33,35,11,7,12,47,122,44.26229508196721,Kannada <en@li.org>
+sound-juicer,1022,0,0,198,0,0,905,1022,100.0,Kannada <en@li.org>
+stellarium,18,0,151623,9,0,37846,16,151641,0.011870140661166836,Kannada (https://www.transifex.com/stellarium/teams/80998/kn/)
+subscription-manager,2033,770,1567,364,127,200,1712,4370,46.52173913043478,Kannada <https://translate.fedoraproject.org/projects/subscription-manager/subscription-manager-main/kn/>
+subscription-manager-cockpit,20,64,427,15,27,74,20,511,3.9138943248532287,Kannada <https://translate.fedoraproject.org/projects/subscription-manager/cockpit-main/kn/>
+sugar,28,73,2204,26,50,453,35,2305,1.2147505422993492,LANGUAGE <LL@li.org>
+sugar-clock,1,0,65,1,0,20,1,66,1.5151515151515151,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,68,27,118,63,19,41,70,213,31.92488262910798,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,23,24,100.0,Kannada <kde-i18n-doc@kde.org>
+swell-foop,66,68,132,28,15,12,66,266,24.81203007518797,Kannada <en@li.org>
+switchboard,4,0,144,3,0,28,6,148,2.7027027027027026,Kannada <kn@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,1,1,381,1,1,83,1,383,0.26109660574412535,Kannada <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/kn/>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+switchdesk,16,87,19,3,10,6,17,122,13.114754098360656,Kannada <en@li.org>
+system-config-language,61,107,47,14,9,8,47,215,28.37209302325581,Kannada <en@li.org>
+system-config-printer,3025,42,447,724,20,184,2739,3514,86.08423449060899,Kannada (http://www.transifex.com/projects/p/system-config-printer/language/kn/)
+system-config-rootpassword,116,0,0,19,0,0,99,116,100.0,Kannada <en@li.org>
+system-switch-java,81,0,0,11,0,0,69,81,100.0,Kannada <en@li.org>
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Kannada <en@li.org>
+tali,315,39,67,80,11,6,294,421,74.82185273159145,Kannada <en@li.org>
+tomboy,2870,0,0,415,0,0,2456,2870,100.0,Kannada <en@li.org>
+totem,1446,0,0,384,0,0,1268,1446,100.0,Kannada <kde-i18n-doc@kde.org>
+totem-pl-parser,29,0,0,8,0,0,25,29,100.0,Kannada <en@li.org>
+tuxpaint,1174,970,1619,255,103,103,1028,3763,31.198511825671005,Kannada <kde-i18n-doc@kde.org>
+tuxtype2,71,0,9,32,0,8,64,80,88.75,Kannada <en@li.org>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+usermode,570,0,3,95,0,1,486,573,99.47643979057592,Kannada (http://www.transifex.com/projects/p/fedora/language/kn/)
+webkit2gtk3,1551,0,0,373,0,0,1305,1551,100.0,Kannada <kde-i18n-doc@kde.org>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none
+wireplumber,3,0,0,2,0,0,3,3,100.0,Kannada <kde-l10n-kn@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Kannada <debian-l10n-kannada@lists.debian.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,63,81,100.0,kn-IN <>
+xed,2523,0,1237,695,0,229,2211,3760,67.10106382978724,Kannada (http://www.transifex.com/projects/p/MATE/language/kn/)
+xfce4-power-manager,1021,0,43,204,0,10,887,1064,95.95864661654136,Kannada (http://www.transifex.com/xfce/xfce4-power-manager/language/kn/)
+xreader,1056,0,564,255,0,124,939,1620,65.18518518518519,Kannada (http://www.transifex.com/mate/MATE/language/kn/)
+yelp,452,0,0,104,0,0,374,452,100.0,Kannada <kde-i18n-doc@kde.org>
+yelp-xsl,80,0,0,58,0,0,79,80,100.0,Kannada <en@li.org>
+zenity,582,0,0,135,0,0,535,582,100.0,Kannada <en@li.org>

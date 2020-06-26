@@ -1,0 +1,66 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,647,37,7127,98,2,1185,729,7811,8.28319037255153,Filipino
+arduino,1259,0,1834,239,0,351,1432,3093,40.704817329453604,Filipino (http://www.transifex.com/mbanzi/arduino-ide-15/language/fil/)
+blueberry,24,0,124,7,0,30,33,148,16.216216216216218,Filipino <fil@li.org>
+calibre,3350,0,155652,430,0,17818,3997,159002,2.106891737210853,Filipino (http://www.transifex.com/calibre/calibre/language/fil/)
+cinnamon-translations,2203,0,15316,732,0,3047,2806,17519,12.574918659740852,Filipino <fil@li.org>
+deepin-terminal,5,0,422,4,0,160,5,427,1.1709601873536302,Filipino (https://www.transifex.com/linuxdeepin/teams/3976/fil/)
+dnf,512,0,3375,143,0,638,664,3887,13.172112168767688,Filipino
+elementary-greeter,0,0,76,0,0,18,0,76,0.0,Filipino <fil@li.org>
+fragments,164,0,1842,83,0,443,233,2006,8.175473579262214,Filipino (https://www.transifex.com/transmissionbt/teams/33778/fil/)
+godot,18,0,9598,8,0,2329,25,9616,0.18718801996672213,Filipino <https://hosted.weblate.org/projects/godot-engine/godot/fil/>
+libdnf,8,0,1116,1,0,184,9,1124,0.7117437722419928,Filipino
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Filipino (http://www.transifex.com/mate/MATE/language/fil/)
+libvirt,0,0,64065,0,0,9877,0,64065,0.0,Filipino
+mate-applets,191,0,2669,5,0,190,88,2860,6.678321678321679,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mate-menus,1,0,96,1,0,36,2,97,1.0309278350515463,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mate-panel,64,0,878,2,0,61,30,942,6.794055201698514,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mate-themes,0,0,70,0,0,21,0,70,0.0,Filipino (http://www.transifex.com/mate/MATE/language/fil/)
+mate-utils,64,0,1889,2,0,92,30,1953,3.277009728622632,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mingw-libvirt,0,0,63828,0,0,9849,0,63828,0.0,Filipino
+nemo-extensions,1,0,7,1,0,1,2,8,12.5,Filipino <fil@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,165,158,100.0,LANGUAGE <LL@li.org>
+onboard,2,0,2316,2,0,508,4,2318,0.08628127696289906,Filipino <fil@li.org>
+pinta,100,0,1518,73,0,455,132,1618,6.180469715698393,Filipino <fil@li.org>
+policycoreutils,6,0,4487,6,0,692,8,4493,0.13354106387714224,Filipino
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+rpm-ostree,8,0,1015,1,0,172,9,1023,0.7820136852394917,Filipino
+slick-greeter,41,0,170,18,0,29,44,211,19.431279620853083,Filipino <fil@li.org>
+sugar-abacus,0,0,28,0,0,23,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,871,0,0,164,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,99,0,0,26,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,258,0,0,63,0,258,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,3,0,118,3,0,43,3,121,2.479338842975207,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,58,0,0,16,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,69,0,0,22,0,69,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,142,0,0,74,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,106,0,0,61,0,106,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,5,0,269,4,0,62,5,274,1.824817518248175,LANGUAGE <LL@li.org>
+sugar-record,3,0,59,1,0,23,3,62,4.838709677419355,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,3,0,224,1,0,73,3,227,1.3215859030837005,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,70,1,2,35,1,1,77,73,95.8904109589041,LANGUAGE <LL@li.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+transmission,176,0,1633,87,0,407,247,1809,9.729132117191819,Filipino <fil@li.org>
+visualboyadvance-m,0,0,2393,0,0,895,0,2393,0.0,Filipino (http://www.transifex.com/bgk/vba-m/language/fil/)
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,261,0,0,81,0,261,0.0,none
+wingpanel-indicator-bluetooth,0,0,27,0,0,12,0,27,0.0,none
+wingpanel-indicator-datetime,0,0,101,0,0,21,0,101,0.0,none
+wingpanel-indicator-keyboard,0,0,24,0,0,9,0,24,0.0,none
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,30,0,0,10,0,30,0.0,none
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,112,0,0,31,0,112,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,44,0,0,12,0,44,0.0,Filipino <fil@li.org>

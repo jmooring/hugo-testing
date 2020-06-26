@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,865,4002,8325,264,1025,1214,957,13192,6.5570042449969685,Tajik Language
+aspell,600,398,728,115,62,116,565,1726,34.762456546929315,Tajik
+kaffeine,468,0,1886,247,0,411,516,2354,19.881053525913337,Tajik Language
+kdiff3,1103,191,1667,229,60,218,1111,2961,37.25092874029044,Tajik
+xmms,2636,409,200,911,54,52,2704,3245,81.2326656394453,Tajik
+yelp,92,80,434,38,45,65,95,606,15.181518151815181,Tajik

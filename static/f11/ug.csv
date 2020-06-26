@@ -1,0 +1,45 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+at-spi,4,0,0,2,0,0,5,4,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+atk,319,8,48,109,7,10,269,375,85.06666666666666,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+bug-buddy,1228,0,0,174,0,0,951,1228,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+dasher,327,38,58,127,18,22,317,423,77.30496453900709,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+eel2,224,4,7,50,1,1,187,235,95.31914893617022,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+eog,431,62,216,152,17,13,442,709,60.78984485190409,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gconf-editor,327,0,7,97,0,1,315,334,97.90419161676647,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-desktop,189,6,128,64,1,8,186,323,58.51393188854489,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-doc-utils,199,0,0,74,0,0,201,199,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-mag,5,0,0,2,0,0,5,5,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-menus,106,0,27,40,0,8,115,133,79.69924812030075,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-system-monitor,175,0,505,86,0,103,210,680,25.735294117647058,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+gnome-themes,101,0,0,34,0,0,120,101,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+lxmenu-data,51,10,36,21,3,13,52,97,52.57731958762887,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+mingw32-atk,319,8,48,109,7,10,269,375,85.06666666666666,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+nautilus-cd-burner,658,0,229,134,0,26,529,887,74.1826381059752,Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+poedit,1143,19,0,266,3,0,1017,1162,98.36488812392426,
+sound-juicer,258,0,446,147,0,58,252,704,36.64772727272727,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+squirrelmail,2776,1661,2611,792,314,277,2498,7048,39.38706015891033,XinJiang University / Uighur
+sugar-browse,0,0,55,0,0,31,0,55,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,565,0,0,118,0,565,0.0,LANGUAGE <LL@li.org>
+sugar-chat,0,0,26,0,0,12,0,26,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,50,0,0,25,0,50,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,90,0,0,31,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,28,0,0,18,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,137,0,0,73,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,69,0,0,42,0,69,0.0,LANGUAGE <LL@li.org>
+totem,761,0,804,225,0,132,708,1565,48.62619808306709,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+totem-pl-parser,761,0,804,225,0,132,708,1565,48.62619808306709,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+vino,540,0,0,70,0,0,434,540,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+vte,96,0,0,18,0,0,114,96,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+yelp,597,0,0,151,0,0,545,597,100.0,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>
+zenity,359,6,29,107,1,4,325,394,91.11675126903553,GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com>

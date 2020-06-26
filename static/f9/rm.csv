@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+dialog,12,2,11,12,2,9,14,25,48.0,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>
+gtkspell,11,0,0,5,0,0,12,11,100.0,Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch>

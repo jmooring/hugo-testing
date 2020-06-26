@@ -1,0 +1,43 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,11,0,2028,5,0,217,15,2039,0.5394801373222168,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+blueberry,141,0,7,34,0,3,155,148,95.27027027027027,Kabyle <kab@li.org>
+caja-extensions,6,0,578,6,0,129,6,584,1.0273972602739725,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+cinnamon-translations,22867,0,34,5103,0,8,24261,22901,99.85153486747303,Kabyle <kab@li.org>
+eom,16,0,1764,9,0,333,20,1780,0.8988764044943821,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+filezilla,10273,0,0,1787,0,0,11428,10273,100.0,Yacine Bouklif <yacine2953-asuqqel@yahoo.fr>
+gnome-online-accounts,496,0,161,120,0,25,592,657,75.49467275494672,
+iso-codes,174,0,812,139,0,281,170,986,17.647058823529413,Kabyle <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kab/>
+libfilezilla,402,0,0,76,0,0,470,402,100.0,Yacine Bouklif <yacine2953-asuqqel@yahoo.fr>
+libmypaint2,2,0,1535,2,0,104,2,1537,0.13012361743656475,Kabyle <https://hosted.weblate.org/projects/mypaint/libmypaint/kab/>
+libreoffice,78699,489,20146,27142,227,4578,84438,99334,79.22664948557392,LANGUAGE <LL@li.org>
+lightdm-settings,305,0,0,62,0,0,309,305,100.0,Kabyle <kab@li.org>
+mate-applets,87,0,13128,39,0,979,135,13215,0.6583427922814983,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-control-center,14,0,2690,13,0,623,16,2704,0.5177514792899409,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-media,9,0,229,8,0,92,10,238,3.7815126050420167,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-menus,9,0,88,6,0,31,10,97,9.278350515463918,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-notification-daemon,4,0,135,4,0,33,4,139,2.877697841726619,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-panel,15,0,2153,7,0,163,23,2168,0.6918819188191881,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-polkit,3,0,119,2,0,18,4,122,2.459016393442623,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-power-manager,3,0,2457,3,0,137,3,2460,0.12195121951219512,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-session-manager,5,0,700,4,0,123,6,705,0.7092198581560284,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mate-themes,6,0,64,2,0,19,5,70,8.571428571428571,Kabyle (http://www.transifex.com/mate/MATE/language/kab/)
+mate-utils,30,0,6395,14,0,412,46,6425,0.4669260700389105,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mozo,1,0,41,1,0,15,1,42,2.380952380952381,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+nemo-extensions,8,0,0,2,0,0,8,8,100.0,Kabyle <kab@li.org>
+poedit,2813,0,0,623,0,0,2907,2813,100.0,Kabyle
+python-django,541,0,2598,352,0,356,603,3139,17.23478814909207,Kabyle (http://www.transifex.com/django/django/language/kab/)
+rapid-photo-downloader,315,0,7272,175,0,677,367,7587,4.151838671411625,Kabyle <kab@li.org>
+slick-greeter,211,0,0,47,0,0,208,211,100.0,Kabyle <kab@li.org>
+sugar-abacus,3,9,16,3,9,11,3,28,10.714285714285714,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,73,58,100.0,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-paint,37,0,69,11,0,50,39,106,34.90566037735849,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+synfig,0,0,4740,0,0,1187,0,4740,0.0,Kabyle (http://www.transifex.com/morevnaproject/synfig/language/kab/)
+synfigstudio,0,0,6564,0,0,1567,0,6564,0.0,Kabyle (http://www.transifex.com/morevnaproject/synfig/language/kab/)
+wxMaxima,2406,872,17465,735,212,1292,2812,20743,11.599093670153787,kabyle <kab@li.org>
+xapps,69,0,0,34,0,0,77,69,100.0,Kabyle <kab@li.org>
+xed,4608,0,17,990,0,8,4974,4625,99.63243243243242,Kabyle <kab@li.org>
+xreader,1669,0,0,381,0,0,1803,1669,100.0,Kabyle <kab@li.org>

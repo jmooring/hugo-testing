@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bubblemail,0,0,478,0,0,141,0,478,0.0,none
+budgie-desktop,980,0,879,275,0,206,980,1859,52.71651425497579,Dutch (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/nl_BE/)
+clamtk,677,0,11,201,0,4,733,688,98.40116279069767,LANGUAGE <LL@li.org>
+codeblocks,613,0,0,79,0,0,599,613,100.0,Flemish <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/>
+duplicity,2239,0,138,339,0,12,2312,2377,94.19436264198569,"Dutch, Belgium"
+gnome-shell-extension-bubblemail,0,0,133,0,0,37,0,133,0.0,none
+gnome-shell-extension-gsconnect,319,143,360,138,60,60,312,822,38.80778588807786,Dutch <vistausss@outlook.com>
+gtkhash,197,16,0,57,6,0,185,213,92.48826291079813,Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/>
+hunspell,592,21,0,78,1,0,580,613,96.5742251223491,Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/>
+lollypop,606,0,822,256,0,199,582,1428,42.436974789915965,Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/>
+mc,0,0,4429,0,0,1271,0,4429,0.0,Dutch (Belgium) (http://app.transifex.com/mc/mc/language/nl_BE/)
+mingw-hunspell,613,0,0,79,0,0,599,613,100.0,Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/>
+picard,386,0,0,258,0,0,334,386,100.0,Dutch (Belgium) (http://app.transifex.com/musicbrainz/musicbrainz/language/nl_BE/)
+sigil,592,21,0,78,1,0,580,613,96.5742251223491,Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/>
+siril,33950,7721,1354,3592,121,39,33659,43025,78.9076118535735,Dutch (Belgium) <https://weblate.pixls.us/projects/siril/siril-application-1-2/nl_BE/>

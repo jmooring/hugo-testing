@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+console-setup,501,51,427,124,11,36,244,979,51.174668028600614,bo <translation-team-bo@lists.sourceforge.net>
+gnomebaker,0,0,1186,0,0,291,0,1186,0.0,Tibetan <bo@li.org>
+libreoffice,411563,12224,110207,60720,2249,11316,110104,533994,77.07258883058611,LANGUAGE <LL@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Tibetan <bo@li.org>
+pootle,4,4,2416,4,4,451,4,2424,0.16501650165016502,LANGUAGE <LL@li.org>
+stellarium,0,0,4618,0,0,1261,0,4618,0.0,Tibetan <bo@li.org>
+tuxpaint,61,30,1156,58,14,180,110,1247,4.891740176423416,LANGUAGE <LL@li.org>
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,55 @@
+---
+title: "moserial - translation progress for f18"
+package: moserial
+date: 2026-01-20T03:18:17+00:00
+started_languages: 17
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 23
+release: f18
+---
+The package moserial (version 3.0.8):
+
+* represents 2644 source words to be translated
+* is translated into 17 languages in Fedora f18
+
+
+* contains 23 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ca]({{< ref "/f18/language/ca.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f18/moserial/po/ca.po | 
+ | [cs]({{< ref "/f18/language/cs.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f18/moserial/doc/cs/cs.po/mnt/stockage/packages/f18/moserial/po/cs.po | 
+ | [da]({{< ref "/f18/language/da.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f18/moserial/po/da.po | 
+ | [de]({{< ref "/f18/language/de.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f18/moserial/doc/de/de.po/mnt/stockage/packages/f18/moserial/po/de.po | 
+ | [el]({{< ref "/f18/language/el.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f18/moserial/po/el.po | 
+ | [es]({{< ref "/f18/language/es.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f18/moserial/doc/es/es.po/mnt/stockage/packages/f18/moserial/po/es.po | 
+ | [fr]({{< ref "/f18/language/fr.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f18/moserial/doc/fr/fr.po/mnt/stockage/packages/f18/moserial/po/fr.po | 
+ | [gl]({{< ref "/f18/language/gl.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f18/moserial/po/gl.po | 
+ | [ja]({{< ref "/f18/language/ja.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f18/moserial/po/ja.po | 
+ | [ko]({{< ref "/f18/language/ko.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f18/moserial/po/ko.po | 
+ | [pl]({{< ref "/f18/language/pl.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f18/moserial/po/pl.po | 
+ | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f18/moserial/po/pt_BR.po | 
+ | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f18/moserial/po/zh_CN.po | 
+ | [ro]({{< ref "/f18/language/ro.md" >}}) | 395 | 480 | 82.3 | /mnt/stockage/packages/f18/moserial/po/ro.po | 
+ | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 208 | 525 | 39.6 | /mnt/stockage/packages/f18/moserial/po/nb.po | 
+ | [sv]({{< ref "/f18/language/sv.md" >}}) | 863 | 2644 | 32.6 | /mnt/stockage/packages/f18/moserial/doc/sv/sv.po/mnt/stockage/packages/f18/moserial/po/sv.po | 
+ | [sl]({{< ref "/f18/language/sl.md" >}}) | 493 | 2364 | 20.9 | /mnt/stockage/packages/f18/moserial/doc/sl/sl.po/mnt/stockage/packages/f18/moserial/po/sl.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

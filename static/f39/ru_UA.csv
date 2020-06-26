@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+debconf,669,0,0,77,0,0,644,669,100.0,Russian <debian-l10n-russian@lists.debian.org>
+duplicity,1091,0,1342,170,0,184,1135,2433,44.84175914508837,"Rսssian, Սkraine"
+skychart,4905,21,102,1540,1,13,4313,5028,97.55369928400954,"Zaporozhye Astronomical Club Altair <astroclub@ua.fm, http://astroclub.zp.ua>"
+tigervnc,1047,0,0,196,0,0,998,1047,100.0,Russian <gnu@d07.ru>

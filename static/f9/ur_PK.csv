@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+file-roller,1159,0,0,259,0,0,1332,1159,100.0,Urdu <makki.ma@gmail.com>
+minbar,418,0,0,105,0,0,470,418,100.0,Urdu <makki.ma@gmail.com>
+pgadmin3,1373,1831,4127,552,638,971,1615,7331,18.72868640021825,urdu <pgadmin-hackers@postgresql.org>
+xfce4-sensors-plugin,36,53,10,20,18,4,41,99,36.36363636363637,Urdu <makki.ma@gmail.com>

@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+arandr,172,0,1,37,0,1,185,173,99.42196531791907,Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/>
+atril,484,0,1277,105,0,298,597,1761,27.484383872799544,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+blivet-gui,0,0,703,0,0,184,0,703,0.0,Sardinian
+caja,496,0,8702,98,0,1395,548,9198,5.392476625353337,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+calibre,3,0,152261,1,0,17732,3,152264,0.001970262176220249,Sardinian (http://www.transifex.com/calibre/calibre/language/sc/)
+cinnamon-translations,2190,0,3573,603,0,877,2537,5763,38.00104112441437,Sardinian <sc@li.org>
+exaile,3852,133,21,1011,9,5,4693,4006,96.1557663504743,Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/>
+gnome-do,473,0,139,119,0,25,502,612,77.2875816993464,Sardinian <sc@li.org>
+libmatekbd,8,0,243,1,0,42,6,251,3.187250996015936,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+libmypaint,389,0,1148,24,0,82,450,1537,25.30904359141184,Sardinian <https://hosted.weblate.org/projects/mypaint/libmypaint/sc/>
+lightdm,0,0,79,0,0,17,0,79,0.0,Sardinian <sc@li.org>
+mate-desktop,431,0,1970,48,0,284,522,2401,17.950853810912122,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-icon-theme,3,0,1,1,0,1,5,4,75.0,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-media,7,0,218,2,0,94,8,225,3.111111111111111,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-menus,2,0,95,1,0,36,2,97,2.0618556701030926,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-notification-daemon,123,0,16,32,0,5,165,139,88.48920863309353,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-user-guide,1,0,4,1,0,1,1,5,20.0,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+stellarium,18159,0,9,3204,0,2,21530,18168,99.95046235138706,Sardinian <sc@li.org>
+xreader,360,0,1277,94,0,286,458,1637,21.991447770311545,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)

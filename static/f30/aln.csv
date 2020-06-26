@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Albanian Gheg (http://www.transifex.com/projects/p/certmonger/language/aln/)
+initial-setup,0,0,33,0,0,7,0,33,0.0,Albanian Gheg (http://www.transifex.com/projects/p/initial-setup/language/aln/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Albanian Gheg (http://www.transifex.com/projects/p/python-meh/language/aln/)
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/)

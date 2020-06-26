@@ -1,0 +1,61 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+audience,0,0,106,0,0,48,0,106,0.0,
+caja,1832,0,7481,443,0,1067,1718,9313,19.671427037474498,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+cinnamon-desktop,0,0,231,0,0,31,0,231,0.0,Limburgish <li.org>
+cinnamon-translations,199,0,5735,71,0,1429,196,5934,3.35355578024941,Limburgian <li@li.org>
+epiphany,1057,718,957,406,223,136,1002,2732,38.689604685212295,Dutch <vertaling@nl.linux.org>
+gconf-editor,101,63,156,36,23,35,96,320,31.5625,Limburgish
+gdk-pixbuf2,792,466,90,118,73,11,749,1348,58.753709198813056,Limburgish <li.org>
+gnome-desktop,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+gnome-desktop3,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+gnome-icon-theme,22,7,23,22,3,21,22,52,42.30769230769231,Limburgish
+gnome-mime-data,850,0,0,348,0,0,782,850,100.0,Limburgish <li.org>
+gnome-system-monitor,388,67,47,116,20,7,377,502,77.29083665338645,Limburgish <li@li.org>
+gnome-themes,95,0,6,32,0,2,101,101,94.05940594059405,Limburgish
+gnome-vfs2,225,77,980,66,20,162,211,1282,17.550702028081123,Limburgish
+gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+gtk3,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+isomaster,8,0,666,8,0,99,8,674,1.1869436201780417,http://littlesvr.ca/ostd/
+libbonobo,464,17,43,95,5,8,458,524,88.54961832061069,Limburgish
+libbonoboui,314,7,39,92,3,18,306,360,87.22222222222223,Limburgish <li@li.org>
+libgnomecanvas,339,18,0,92,2,0,290,357,94.9579831932773,Limburgish <li@li.org>
+libgnomeui,1136,98,185,290,22,33,1031,1419,80.05637773079634,Limburgish <li.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+librfm,140,571,1686,94,243,261,140,2397,5.840634125990822,Limburgish
+libwnck,30,29,14,15,9,6,32,73,41.0958904109589,Limburgish
+libwnck3,30,29,14,15,9,6,32,73,41.0958904109589,Limburgish
+mate-desktop,50,0,2296,11,0,319,52,2346,2.131287297527707,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+mate-icon-theme,22,7,23,22,3,21,22,52,42.30769230769231,Limburgish
+mate-menu,0,0,300,0,0,110,0,300,0.0,Limburgian (http://www.transifex.com/projects/p/MATE/language/li/)
+mate-panel,313,0,4040,81,0,506,315,4353,7.190443372386859,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+mate-system-monitor,79,0,1228,37,0,271,76,1307,6.044376434583015,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+mate-themes,7,0,51,2,0,9,7,58,12.068965517241379,Limburgian (http://www.transifex.com/mate/MATE/language/li/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+mingw-gdk-pixbuf,792,466,90,118,73,11,749,1348,58.753709198813056,Limburgish <li.org>
+mingw-gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+mingw-gtk3,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+nautilus,3450,2903,852,743,398,120,3347,7205,47.883414295628036,Limburgish <li@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+php-phpmyadmin-sql-parser,0,0,227,0,0,44,0,227,0.0,Limburgish <https://hosted.weblate.org/projects/phpmyadmin/master/li/>
+rodent,125,663,8846,77,281,454,113,9634,1.2974880631098193,Limburgish
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+transmission,652,0,1157,200,0,294,728,1809,36.04201216141515,Limburgian <li@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Limburgian <li@li.org>
+vte,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+vte291,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+vte3,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+yelp,51,96,459,23,47,78,43,606,8.415841584158416,Limburgish <li.org>

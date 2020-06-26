@@ -1,0 +1,209 @@
+---
+title: "en@pirate-English (English) - translation progress for f36"
+date: 2026-01-18T04:51:38+00:00
+code: en@pirate
+name_english: English
+name_local: English
+progress: 1.72
+progress_d: 0.00
+release: f36
+territories:
+ - AC
+ - AE
+ - AG
+ - AI
+ - AR
+ - AS
+ - AT
+ - AU
+ - AW
+ - BA
+ - BB
+ - BD
+ - BE
+ - BG
+ - BI
+ - BM
+ - BN
+ - BR
+ - BS
+ - BT
+ - BW
+ - BZ
+ - CA
+ - CC
+ - CH
+ - CK
+ - CL
+ - CM
+ - CN
+ - CQ
+ - CX
+ - CY
+ - CZ
+ - DE
+ - DG
+ - DK
+ - DM
+ - DO
+ - DZ
+ - EE
+ - EG
+ - ER
+ - ES
+ - ET
+ - FI
+ - FJ
+ - FK
+ - FM
+ - FR
+ - GB
+ - GD
+ - GG
+ - GH
+ - GI
+ - GM
+ - GR
+ - GS
+ - GT
+ - GU
+ - GY
+ - HK
+ - HN
+ - HR
+ - HU
+ - IE
+ - IL
+ - IM
+ - IN
+ - IO
+ - IQ
+ - IT
+ - JE
+ - JM
+ - JO
+ - KE
+ - KI
+ - KN
+ - KY
+ - KZ
+ - LB
+ - LC
+ - LK
+ - LR
+ - LS
+ - LT
+ - LU
+ - LV
+ - MA
+ - MG
+ - MH
+ - MO
+ - MP
+ - MS
+ - MT
+ - MU
+ - MV
+ - MW
+ - MX
+ - MY
+ - NA
+ - NF
+ - NG
+ - NL
+ - NP
+ - NR
+ - NU
+ - NZ
+ - PA
+ - PG
+ - PH
+ - PK
+ - PL
+ - PM
+ - PN
+ - PR
+ - PT
+ - PW
+ - RO
+ - RW
+ - SB
+ - SC
+ - SD
+ - SE
+ - SG
+ - SH
+ - SI
+ - SK
+ - SL
+ - SS
+ - SX
+ - SZ
+ - TA
+ - TC
+ - TH
+ - TK
+ - TO
+ - TR
+ - TT
+ - TV
+ - TZ
+ - UG
+ - UM
+ - US
+ - VC
+ - VG
+ - VI
+ - VU
+ - WS
+ - YE
+ - ZA
+ - ZM
+ - ZW
+polib_error_count: 0
+could_not_process_count: 1
+---
+
+Language progress for English (en@pirate) in Fedora f36 is:
+
+* 1.72% when we only look on started packages for this language.
+* 0.00% when we compare to every single translatable string in Fedora f36.
+
+Possible scripts are: LatnShawDsrt
+
+* Total translatable string in Fedora f36: 19217678
+* Source words to translate in started packages: 22592
+* Translated words: 388
+
+
+Download:
+
+
+
+
+* [en@pirate generated stats (289 Bytes)]({{% resource url="/f36/en@pirate.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [godot3]({{< ref "/f36/package/godot3.md" >}}) | 388 | 22592 | 1.7 | Pirate <https://hosted.weblate.org/projects/godot-engine/godot/pr/> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

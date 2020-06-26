@@ -1,0 +1,140 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3396,0,621,449,0,30,3547,4017,84.54070201643017,Bangla (INDIA) <gnome-translation@bengalinux.org>
+alacarte,74,0,0,30,0,0,110,74,100.0,Bangla (INDIA) <gnome-translation@bengalinux.org>
+anaconda,9992,49,71,1229,6,3,10038,10112,98.8132911392405,Bengali <en@li.org>
+atk,370,0,0,123,0,0,314,370,100.0,Bangla (INDIA) <gnome-translation@bengalinux.org>
+authconfig,1098,0,0,217,0,0,1267,1098,100.0,Bengali India
+autorun,303,4,0,39,1,0,317,307,98.69706840390879,Bangla (INDIA) <redhat-translation@bengalinux.org>
+bug-buddy,949,0,0,87,0,0,915,949,100.0,Bengali India
+chkconfig,430,0,0,88,0,0,434,430,100.0,Bengali India
+compiz,66,0,0,11,0,0,84,66,100.0,Bengali India
+control-center,3303,0,238,723,0,51,3725,3541,93.27873482067213,Bengali India
+dasher,302,0,0,114,0,0,393,302,100.0,Bengali India
+deskbar-applet,734,0,0,175,0,0,793,734,100.0,Bengali India
+eel2,235,0,0,52,0,0,230,235,100.0,Bengali India <gnome-translation@bengalinux.org
+ekiga,1095,2308,1764,266,302,206,1156,5167,21.19218114960325,Bengali India
+eog,819,0,0,192,0,0,880,819,100.0,Bengali India
+epiphany,3472,0,490,770,0,103,3847,3962,87.63250883392226,Bengali India
+evince,847,0,0,251,0,0,976,847,100.0,Bengali India
+evolution,17952,0,919,4482,0,109,19898,18871,95.13009379471146,Bengali India
+evolution-connector,1225,0,0,186,0,0,1303,1225,100.0,Bengali India
+evolution-data-server,4753,0,232,1004,0,30,5251,4985,95.34603811434302,Bengali India
+evolution-webcal,180,0,0,29,0,0,177,180,100.0,Bengali India
+fast-user-switch-applet,1048,0,0,115,0,0,1067,1048,100.0,Bengali India
+file-roller,947,0,0,243,0,0,1034,947,100.0,Bengali India
+firstboot,598,0,0,59,0,0,546,598,100.0,Bengali <en@li.org>
+gail,170,0,0,103,0,0,212,170,100.0,Bangla (INDIA) <gnome-translation@bengalinux.org>
+gcalctool,485,192,338,220,66,71,549,1015,47.783251231527096,Bengali India
+gconf-editor,329,0,0,98,0,0,396,329,100.0,Bengali India
+gdm,3384,0,2091,657,0,121,3620,5475,61.80821917808219,Bengali India
+gedit,5063,0,0,1102,0,0,5473,5063,100.0,Bengali India
+glade3,166,0,2954,100,0,726,191,3120,5.32051282051282,Bengali (India) <en@li.org>
+glib2,1213,0,0,145,0,0,1154,1213,100.0,Bengali India
+gnome-applets,3702,0,166,953,0,24,3878,3868,95.70837642192348,Bengali India
+gnome-backgrounds,2,2,14,1,1,7,2,18,11.11111111111111,Bengali <gnome-translation@bengalinux.org>
+gnome-desktop,323,0,0,73,0,0,350,323,100.0,Bengali India <gnome-translation@bengalinux.org>
+gnome-doc-utils,213,0,0,80,0,0,212,213,100.0,Bengali India
+gnome-games,4575,628,1863,1065,243,390,4794,7066,64.74667421454853,Bengali India
+gnome-icon-theme,53,0,0,47,0,0,57,53,100.0,Bengali India
+gnome-keyring,711,0,0,57,0,0,600,711,100.0,Bengali India
+gnome-keyring-manager,365,0,0,96,0,0,424,365,100.0,Bangla  <gnome-translation@bengalinux.org>
+gnome-mag,5,0,0,2,0,0,6,5,100.0,Bengali <gnome-translation@bengalinux.org>
+gnome-media,1702,0,85,497,0,8,1835,1787,95.24342473419138,Bengali India
+gnome-menus,136,0,0,49,0,0,163,136,100.0,Bengali India
+gnome-netstatus,425,0,0,110,0,0,426,425,100.0,Bengali India
+gnome-nettool,535,0,0,181,0,0,584,535,100.0,Bengali India
+gnome-panel,4085,0,0,549,0,0,4087,4085,100.0,Bengali India
+gnome-power-manager,1299,417,1012,185,75,113,1367,2728,47.617302052785924,Bengali India
+gnome-screensaver,165,41,1057,58,13,125,180,1263,13.064133016627078,Bangla <gnome-translation@BengaLinux.Org>
+gnome-session,571,0,0,106,0,0,590,571,100.0,Bengali India
+gnome-system-monitor,847,0,0,210,0,0,1002,847,100.0,Bengali India
+gnome-terminal,4599,0,0,513,0,0,4442,4599,100.0,Bengali India <en@li.org>
+gnome-themes,81,0,0,25,0,0,95,81,100.0,Bengali India
+gnome-utils,3683,0,398,694,0,23,3805,4081,90.24748836069591,Bengali India
+gnome-vfs2,1506,0,0,300,0,0,1399,1506,100.0,Bangla (INDIA) <gnome-translation@bengalinux.org>
+gnome-volume-manager,1169,0,0,193,0,0,1319,1169,100.0,Bengali India
+gok,1865,0,2,428,0,1,1923,1867,99.89287627209427,Bengali India
+gtk2,10325,57,1220,2145,14,146,9886,11602,88.99327702120324,Bengali India
+gtkhtml3,912,0,0,405,0,0,1093,912,100.0,Bangla <gnome-translation@bengalinux.org>
+gtkhtml38,912,0,0,405,0,0,1093,912,100.0,Bangla <gnome-translation@bengalinux.org>
+gtksourceview,744,39,38,303,16,13,787,821,90.62119366626065,Bengali <gnome-translation@bengalinux.org>
+gucharmap,775,0,1,282,0,1,795,776,99.87113402061856,Bengali India
+hwbrowser,117,0,0,52,0,0,121,117,100.0,Bengali India
+im-chooser,125,0,0,15,0,0,134,125,100.0,Bengali India
+initscripts,3497,0,0,785,0,0,4393,3497,100.0,Bengali <en@li.org>
+kexec-tools,206,0,0,14,0,0,199,206,100.0,Bengali (India) <en@li.org>
+kudzu,73,0,0,13,0,0,91,73,100.0,Bengali India
+libbonobo,547,0,0,108,0,0,564,547,100.0,Bengali India
+libbonoboui,361,0,0,114,0,0,415,361,100.0,Bengali India
+libgnome,1517,0,0,237,0,0,1516,1517,100.0,Bangla (INDIA) <gnome-translation@bengalinux.org>
+libgnomeprint22,168,0,0,98,0,0,171,168,100.0,Bengali India
+libgnomeprintui22,472,0,0,151,0,0,518,472,100.0,Bengali <gnome-translation@bengalinux.org>
+libgnomeui,1335,0,0,335,0,0,1395,1335,100.0,Bengali India
+libgtop2,134,0,0,44,0,0,158,134,100.0,Bengali India
+libuser,1039,0,0,220,0,0,1210,1039,100.0,Bengali India
+libvirt,2277,41,19,502,11,4,2467,2337,97.43260590500643,Bengali INDIA
+libwnck,87,0,0,32,0,0,116,87,100.0,Bengali India
+libxfcegui4,78,0,3,23,0,2,94,81,96.29629629629629,Bangla INDIA <LL@li.org>
+metacity,6581,0,683,457,0,25,6330,7264,90.59746696035242,Bengali India
+nautilus,6679,0,216,1128,0,17,7152,6895,96.86729514140681,Bengali India
+nautilus-cd-burner,1306,0,0,210,0,0,1319,1306,100.0,Bengali India <en@li.org>
+openbox,336,0,44,68,0,9,359,380,88.42105263157895,Bengali (India) <en@li.org>
+orage,50,35,779,18,16,505,59,864,5.787037037037037,Bangla INDIA <LL@li.org>
+orca,277,6,1021,177,3,329,302,1304,21.242331288343557,Bangla <gnome-translation@bengalinux.org>
+pessulus,88,0,0,30,0,0,149,88,100.0,Bengali India
+pirut,815,0,0,178,0,0,1034,815,100.0,Bengali INDIA
+policycoreutils,1214,0,0,204,0,0,1300,1214,100.0,Bengali India
+pykickstart,240,0,0,22,0,0,251,240,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+redhat-menus,246,5,10,78,3,5,268,261,94.25287356321839,Bengali India
+revisor,0,0,3320,0,0,606,0,3320,0.0,
+rhgb,121,0,0,29,0,0,166,121,100.0,Bengali <en@li.org>
+rhpl,185,0,0,80,0,0,187,185,100.0,Bengali India
+rhpxl,136,0,0,43,0,0,149,136,100.0,Bengali India
+sabayon,922,0,0,190,0,0,1057,922,100.0,Bengali India
+seahorse,295,0,3334,100,0,649,353,3629,8.1289611463213,Bengali India
+setroubleshoot,6622,359,288,314,9,5,6302,7269,91.09918833402119,Bengali India
+setuptool,60,0,0,17,0,0,65,60,100.0,Bengali India
+smolt,744,14,45,83,1,6,718,803,92.65255292652553,Bengali INDIA
+sound-juicer,852,0,0,149,0,0,913,852,100.0,Bengali India
+specspo,12378,5521,60268,1980,751,1646,12026,78167,15.835326928243376,Bangla (INDIA) <redhat-translation@bengalinux.org>
+squirrelmail,3909,1800,1169,984,218,149,5996,6878,56.83338179703402,<en@li.org>
+switchdesk,137,0,0,19,0,0,131,137,100.0,Bangla (INDIA) <redhat-translation@bengalinux.org>
+system-config-bind,9305,14,97,1053,2,6,9166,9416,98.82115548003398,Bengali India
+system-config-boot,41,0,0,9,0,0,38,41,100.0,Bengali India
+system-config-date,963,14,26,604,3,3,1082,1003,96.01196410767697,Bengali <en@li.org>
+system-config-display,398,0,0,63,0,0,448,398,100.0,Bengali India
+system-config-httpd,858,0,0,223,0,0,1019,858,100.0,Bengali India
+system-config-keyboard,78,0,0,12,0,0,80,78,100.0,Bengali India
+system-config-kickstart,1028,0,0,272,0,0,1121,1028,100.0,Bengali <en@li.org>
+system-config-language,49,0,0,11,0,0,50,49,100.0,Bengali India
+system-config-lvm,2049,33,2,320,2,1,2139,2084,98.32053742802303,Bengali India
+system-config-netboot,1018,5,65,146,1,14,1005,1088,93.56617647058823,Bengali India
+system-config-network,2880,66,9,707,13,6,3268,2955,97.46192893401016,Bengali India
+system-config-nfs,318,0,0,73,0,0,366,318,100.0,Bengali India
+system-config-printer,1208,79,37,300,25,10,1281,1324,91.23867069486404,Bengali <en@li.org>
+system-config-rootpassword,50,0,0,9,0,0,44,50,100.0,Bengali India
+system-config-samba,383,9,31,133,2,3,467,423,90.54373522458629,Bengali India
+system-config-securitylevel,1135,7,3,88,2,1,1207,1145,99.12663755458514,Bengali India
+system-config-services,232,0,0,62,0,0,259,232,100.0,Bengali India
+system-config-soundcard,224,0,0,51,0,0,228,224,100.0,Bengali India
+system-config-users,849,94,88,144,9,5,955,1031,82.34723569350145,Bengali India
+system-switch-mail,134,0,0,20,0,0,149,134,100.0,Bangla (INDIA) <redhat-translation@bengalinux.org>
+tomboy,989,0,0,157,0,0,1088,989,100.0,Bengali India
+totem,1821,0,0,417,0,0,1936,1821,100.0,Bengali India
+usermode,570,0,0,96,0,0,587,570,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+vino,544,0,0,72,0,0,558,544,100.0,Bangla <gnome-translation@bengalinux.org>
+virt-manager,1013,471,1279,231,146,219,994,2763,36.66304741223308,Bengali <en@li.org>
+vte,116,0,0,20,0,0,126,116,100.0,Bengali India
+xfce-mcs-manager,20,6,4,5,1,1,20,30,66.66666666666666,Bangla INDIA <LL@li.org>
+xfce-mcs-plugins,205,27,308,66,14,66,222,540,37.96296296296296,Bangla INDIA <LL@li.org>
+xfce-utils,20,9,90,11,3,20,25,119,16.80672268907563,Bangla INDIA <LL@li.org>
+xfce4-appfinder,14,4,30,14,3,11,17,48,29.166666666666668,Bangla INDIA <LL@li.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Bangla INDIA <LL@li.org>
+xfce4-mixer,149,2,75,68,2,24,173,226,65.929203539823,Bangla INDIA <LL@li.org>
+xfce4-panel,68,171,339,34,61,65,71,578,11.76470588235294,Bangla INDIA <LL@li.org>
+xfce4-session,564,17,157,95,8,26,616,738,76.42276422764228,Bangla INDIA <LL@li.org>
+xfdesktop,286,275,517,101,87,100,336,1078,26.53061224489796,Bangla INDIA <LL@li.org>
+xfprint,173,47,103,78,16,19,212,323,53.56037151702786,Bangla INDIA<LL@li.org>
+xfwm4,397,110,139,130,30,30,486,646,61.45510835913313,Bangla INDIA <LL@li.org>
+yelp,957,0,0,239,0,0,968,957,100.0,Bengali India
+zenity,554,0,0,129,0,0,688,554,100.0,Bengali India

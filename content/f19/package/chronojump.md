@@ -1,0 +1,59 @@
+---
+title: "chronojump - translation progress for f19"
+package: chronojump
+date: 2026-01-20T03:34:14+00:00
+started_languages: 14
+no_languages: 0
+polib_error_count: 1
+could_not_process_count: 14
+release: f19
+---
+The package chronojump (version 0.9.3):
+
+* represents 5952 source words to be translated
+* is translated into 14 languages in Fedora f19
+
+* polib could not open 1 files to extract metadata
+* contains 14 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [dz]({{< ref "/f19/language/dz.md" >}}) | 1900 | 1900 | 100.0 | /mnt/stockage/packages/f19/chronojump/po/dz.po | 
+ | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 5025 | 5025 | 100.0 | /mnt/stockage/packages/f19/chronojump/po/en_GB.po | 
+ | [fr]({{< ref "/f19/language/fr.md" >}}) | 5772 | 5772 | 100.0 | /mnt/stockage/packages/f19/chronojump/po/fr.po | 
+ | [pt]({{< ref "/f19/language/pt.md" >}}) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f19/chronojump/po/pt.po | 
+ | [vi]({{< ref "/f19/language/vi.md" >}}) | 1732 | 1732 | 100.0 | /mnt/stockage/packages/f19/chronojump/po/vi.po | 
+ | [es]({{< ref "/f19/language/es.md" >}}) | 5944 | 5952 | 99.9 | /mnt/stockage/packages/f19/chronojump/po/es.po | 
+ | [ca]({{< ref "/f19/language/ca.md" >}}) | 5162 | 5952 | 86.7 | /mnt/stockage/packages/f19/chronojump/po/ca.po | 
+ | [fi]({{< ref "/f19/language/fi.md" >}}) | 1581 | 1900 | 83.2 | /mnt/stockage/packages/f19/chronojump/po/fi.po | 
+ | [sv]({{< ref "/f19/language/sv.md" >}}) | 674 | 1261 | 53.4 | /mnt/stockage/packages/f19/chronojump/po/sv.po | 
+ | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 1414 | 5701 | 24.8 | /mnt/stockage/packages/f19/chronojump/po/zh_CN.po | 
+ | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 617 | 5773 | 10.7 | /mnt/stockage/packages/f19/chronojump/po/pt_BR.po | 
+ | [oc]({{< ref "/f19/language/oc.md" >}}) | 196 | 4063 | 4.8 | /mnt/stockage/packages/f19/chronojump/po/oc.po | 
+ | [ar]({{< ref "/f19/language/ar.md" >}}) | 44 | 1796 | 2.4 | /mnt/stockage/packages/f19/chronojump/po/ar.po | 
+ | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 78 | 3985 | 2.0 | /mnt/stockage/packages/f19/chronojump/po/nb.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+## Error with polib
+We use the po metadata to get the language code and the team, but sometimes it fails, here are the files.
+
+| Lang from file path/name | Lang code chosen | polib error | Team |
+|--------------------------|------------------|-------------|------|
+{.sortable}
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

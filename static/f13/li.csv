@@ -1,0 +1,24 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+epiphany,1057,718,957,406,223,136,1002,2732,38.689604685212295,Dutch <vertaling@nl.linux.org>
+gconf-editor,101,63,156,36,23,35,96,320,31.5625,Limburgish
+gnome-desktop,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+gnome-icon-theme,22,7,23,22,3,21,22,52,42.30769230769231,Limburgish
+gnome-mime-data,850,0,0,348,0,0,782,850,100.0,Limburgish <li.org>
+gnome-panel,703,957,2277,158,200,159,714,3937,17.856235712471424,Dutch <vertaling@nl.linux.org>
+gnome-system-monitor,388,67,47,116,20,7,377,502,77.29083665338645,Limburgish <li@li.org>
+gnome-themes,95,0,6,32,0,2,101,101,94.05940594059405,Limburgish
+gnome-vfs2,225,77,980,66,20,162,211,1282,17.550702028081123,Limburgish
+gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+libbonobo,464,17,43,95,5,8,458,524,88.54961832061069,Limburgish
+libbonoboui,314,7,39,92,3,18,306,360,87.22222222222223,Limburgish <li@li.org>
+libgnomecanvas,339,18,0,92,2,0,290,357,94.9579831932773,Limburgish <li@li.org>
+libgnomeprintui22,259,72,96,75,31,29,237,427,60.65573770491803,Limburgish
+libgnomeui,1136,98,185,290,22,33,1031,1419,80.05637773079634,Limburgish <li.org>
+libwnck,30,29,14,15,9,6,32,73,41.0958904109589,Limburgish
+mingw32-atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+mingw32-gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+nautilus,3450,2903,852,743,398,120,3347,7205,47.883414295628036,Limburgish
+transmission,483,0,1159,170,0,279,521,1642,29.415347137637028,Limburgian <li@li.org>
+vte,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+yelp,51,96,459,23,47,78,43,606,8.415841584158416,Limburgish <li.org>

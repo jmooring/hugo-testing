@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnucash,22313,8356,8952,3659,1281,935,18971,39621,56.3160950001262,NONE
+inkscape,16418,16122,18795,3757,4564,2536,14720,51335,31.982078503944678,Konkani
+iso-codes,247,4184,10384,237,3052,6525,242,14815,1.6672291596355044,Konkani
+libreoffice,42080,13244,118091,14569,5594,18875,42477,173415,24.265490297840444,Konkani <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/kok/>
+tuxpaint,1112,1525,2718,244,153,218,1038,5355,20.765639589169,

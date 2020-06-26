@@ -1,0 +1,39 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+PyXML,0,0,115,0,0,19,0,115,0.0,English <en@translate.freefriends.org>
+compiz,0,225,3054,0,89,639,0,3279,0.0,English <i18n@suse.de>
+e16,9,0,2778,3,0,518,9,2787,0.32292787944025836,American English <en@li.org>
+gcalctool,842,44,29,353,22,3,842,915,92.02185792349727,
+gcin,218,0,0,154,0,0,586,218,100.0,LANGUAGE <LL@li.org>
+gjots2,785,35,149,234,14,30,785,969,81.01135190918473,<en@li.org>
+gnomebaker,271,275,621,91,51,145,349,1167,23.221936589545844,English (United States) <en_US@li.org>
+gnubg,10382,278,5915,1939,60,1028,10383,16575,62.63650075414782,none
+gnubik,39,0,178,5,0,53,39,217,17.972350230414747,American <john@darrington.wattle.id.au>
+gpredict,5019,489,244,962,66,31,5020,5752,87.25660639777469,US English
+ignuit,16,0,773,5,0,223,16,789,2.027883396704689,<trmusson@gmail.com>
+java-gnome,2,0,0,2,0,0,2,2,100.0,
+jpoker,256,38,63,111,23,17,256,357,71.70868347338936,<pokersource-users@gna.org>
+liblicense,45,0,21,38,0,12,45,66,68.18181818181817,LANGUAGE <LL@li.org>
+listen,617,274,892,275,106,168,614,1783,34.604598990465504,English (United States) <en_US@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+poker-engine,166,21,0,68,6,0,166,187,88.77005347593582,<pokersource-users@gna.org>
+poker-network,268,80,565,108,30,62,268,913,29.353778751369113,<pokersource-users@gna.org>
+poker2d,268,80,565,108,30,62,268,913,29.353778751369113,<pokersource-users@gna.org>
+proftpd,833,0,0,200,0,0,833,833,100.0,none
+python-nevow,14,0,0,4,0,0,19,14,100.0,LANGUAGE <LL@li.org>
+sblim-cmpi-dhcp,356,4,21,64,1,3,356,381,93.43832020997375,English
+sugar-browse,55,0,0,31,0,0,55,55,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,565,0,0,118,0,0,565,565,100.0,LANGUAGE <LL@li.org>
+sugar-chat,26,0,0,12,0,0,26,26,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,17,0,0,9,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,10,0,0,6,0,0,10,10,100.0,LANGUAGE <LL@li.org>
+sugar-log,100,0,0,22,0,0,100,100,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,77,0,1,54,0,1,76,78,98.71794871794873,LANGUAGE <LL@li.org>
+sugar-write,69,0,0,42,0,0,69,69,100.0,LANGUAGE <LL@li.org>
+wget,2260,0,0,394,0,0,2259,2260,100.0,none
+whaawmp,132,0,625,29,0,122,137,757,17.437252311756936,English (United States) <en_US@li.org>
+wine,11773,0,0,2552,0,0,11773,11773,100.0,none
+wxPython,0,0,2275,0,0,692,0,2275,0.0,LANGUAGE <LL@li.org>
+xine-lib,0,0,11725,0,0,936,0,11725,0.0,en_US <none>
+xmlcopyeditor,0,0,1354,0,0,406,0,1354,0.0,LANGUAGE <LL@li.org>
+zarafa,2,0,4505,2,0,1323,3,4507,0.04437541601952519,en_US <en@li.org>
+zarafa-webaccess,11,0,2668,5,0,920,15,2679,0.41060097051138483,en_US <en@li.org>

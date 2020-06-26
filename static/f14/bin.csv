@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+postgresql,6375,4,3653,1069,4,158,5851,10032,63.54665071770334,
+sepostgresql,9284,4,3653,1485,4,158,8557,12941,71.74097828606753,
+tinyerp,1416,387,473,416,163,87,1336,2276,62.214411247803156,FR <i18n-info@tinyerp.org>
+wine-docs,182,31,993,23,6,94,191,1206,15.091210613598674,AF

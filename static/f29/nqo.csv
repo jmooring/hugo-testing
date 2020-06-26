@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,7,0,1785,7,0,406,8,1792,0.390625,N'ko (https://www.transifex.com/mate/teams/13566/nqo/)
+eom,6,0,1757,6,0,334,7,1763,0.3403289846851957,N'ko (https://www.transifex.com/mate/teams/13566/nqo/)
+libmatekbd,0,0,251,0,0,43,0,251,0.0,N'ko (http://www.transifex.com/mate/MATE/language/nqo/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,N'ko (http://www.transifex.com/projects/p/MATE/language/nqo/)
+mate-sensors-applet,2,0,307,2,0,107,3,309,0.6472491909385114,N'ko (https://www.transifex.com/mate/teams/13566/nqo/)
+mate-terminal,9,0,4652,9,0,524,10,4661,0.1930916112422227,N'ko (https://www.transifex.com/mate/teams/13566/nqo/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,N'ko (http://www.transifex.com/mate/MATE/language/nqo/)
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,0,159,0,0,111,0,159,0.0,LANGUAGE <LL@li.org>

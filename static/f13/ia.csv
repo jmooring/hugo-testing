@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gtk2,78,967,12659,23,444,2317,73,13704,0.5691768826619965,Interlingua
+mailman,15548,1372,4984,1135,30,190,16447,21904,70.98246895544193,Interlingua <TradSoft@interlingua.com>
+mingw32-gtk2,78,967,12659,23,444,2317,73,13704,0.5691768826619965,Interlingua
+stellarium,26,0,1358,13,0,398,27,1384,1.8786127167630058,Interlingua <ia@li.org>
+widelands,328,0,6489,233,0,426,328,6817,4.81150066011442,Interlingua <ia@li.org>

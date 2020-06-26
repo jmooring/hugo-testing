@@ -1,0 +1,596 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+DivFix++,551,0,0,104,0,0,676,551,100.0,MXAmin <amin.solhizadeh gmail.com>
+GConf2,3752,24,178,444,4,13,4159,3954,94.89124936772888,Persian <farsi@lists.sharif.edu>
+NetworkManager-fortisslvpn,22,1,151,9,1,23,24,174,12.643678160919542,Persian <fa@li.org>
+NetworkManager-l2tp,106,25,652,31,7,92,129,783,13.537675606641125,Persian <fa@li.org>
+NetworkManager-openconnect,51,5,3185,15,2,579,62,3241,1.5735883986423942,Persian
+NetworkManager-openvpn,205,139,705,70,12,87,231,1049,19.54242135367016,Persian
+NetworkManager-pptp,144,0,145,44,0,24,173,289,49.82698961937716,Persian <fa@li.org>
+NetworkManager-ssh,39,43,204,17,14,38,41,286,13.636363636363635,Persian
+NetworkManager-sstp,144,0,145,44,0,24,173,289,49.82698961937716,Persian <fa@li.org>
+NetworkManager-vpnc,143,4,97,37,1,16,160,244,58.606557377049185,Persian <fa@li.org>
+PackageKit,0,0,2656,0,0,652,0,2656,0.0,Persian (Iran) (http://www.transifex.net/projects/p/freedesktop/team/fa_IR/)
+R,1189,22,15674,266,3,2425,1627,16885,7.041753035238377,Persian
+abrt,44,0,3925,11,0,465,53,3969,1.1085915847820609,Persian (http://www.transifex.com/projects/p/fedora-abrt/language/fa/)
+accountsservice,0,0,59,0,0,10,0,59,0.0,Persian (Iran) (http://www.transifex.com/projects/p/freedesktop/language/fa_IR/)
+ailurus,11,0,8495,6,0,1118,17,8506,0.12932047966141547,none
+aisleriot,2807,0,0,617,0,0,2476,2807,100.0,Persian
+alacarte,42,0,0,16,0,0,52,42,100.0,Persian <translate@ifsug.org>
+anaconda,318,16,6724,48,1,1094,350,7058,4.505525644658544,Persian (http://www.transifex.com/projects/p/anaconda/language/fa/)
+arandr,173,0,0,38,0,0,189,173,100.0,Persian <https://hosted.weblate.org/projects/arandr/translations/fa/>
+arduino,1932,0,634,379,0,83,2158,2566,75.29228371005456,Persian (http://www.transifex.com/projects/p/arduino-ide-15/language/fa/)
+aria2,38,0,7098,11,0,381,55,7136,0.5325112107623318,Persian <fa@li.org>
+asunder,18,0,462,16,0,71,18,480,3.75,http://littlesvr.ca/ostd/
+at-spi2-core,10,0,0,2,0,0,10,10,100.0,Persian <translate@ifsug.org>
+atk,398,0,0,139,0,0,380,398,100.0,Persian <translate@ifsug.org>
+atomix,101,0,24,39,0,5,108,125,80.80000000000001,Persian <farsi@lists.sharif.edu>
+atril,566,0,1195,169,0,234,635,1761,32.14082907438956,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+audacious,498,0,239,222,0,92,640,737,67.57123473541384,Persian (Iran) (http://www.transifex.com/jlindgren/audacious/language/fa_IR/)
+audacious-plugins,813,0,3027,334,0,517,972,3840,21.171875,Persian (Iran) (http://www.transifex.com/jlindgren/audacious/language/fa_IR/)
+audacity,2607,1678,7951,773,564,1447,3100,12236,21.30598234717228,Persian
+audit-viewer,123,0,488,54,0,131,138,611,20.130932896890343,LANGUAGE <LL@li.org>
+authconfig,437,3,1275,103,1,192,542,1715,25.481049562682216,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+avahi,224,1,643,74,1,93,245,868,25.806451612903224,Persian (http://www.transifex.com/lennart/avahi/language/fa/)
+baobab,210,0,0,57,0,0,235,210,100.0,Persian
+bleachbit,442,0,580,107,0,120,540,1022,43.24853228962818,Persian <fa@li.org>
+blender,12770,0,0,4898,0,0,11308,12770,100.0,LeoMoon Studios <blender@leomoon.com>
+blivet-gui,0,0,699,0,0,187,0,699,0.0,Persian
+blueberry,20,0,121,6,0,28,21,141,14.184397163120568,Persian <fa@li.org>
+bluefish,4563,258,0,1530,5,0,5525,4821,94.64841319228375,
+blueman,32,0,1414,25,0,326,46,1446,2.2130013831258646,Persian (http://www.transifex.com/projects/p/MATE/language/fa/)
+boinc-client,177,0,16216,20,0,2589,214,16393,1.0797291526871227,LANGUAGE <LL@li.org>
+brasero,3042,0,2451,691,0,280,3282,5493,55.3795740032769,Persian
+bzr,0,0,33249,0,0,2353,0,33249,0.0,Persian <fa@li.org>
+caja,3748,0,5450,786,0,707,3898,9198,40.74798869319417,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+calibre,10535,0,141729,2634,0,15099,11971,152264,6.918904008826774,Persian (http://www.transifex.com/calibre/calibre/language/fa/)
+camorama,64,0,464,32,0,92,73,528,12.121212121212121,Persian <farsi@lists.sharif.edu>
+caribou,169,0,0,57,0,0,184,169,100.0,Persian
+ccsm,184,122,273,66,16,69,219,579,31.77892918825561,Persian <fa@li.org>
+certmonger,0,0,4956,0,0,830,0,4956,0.0,Persian (http://www.transifex.com/projects/p/certmonger/language/fa/)
+cheese,614,0,0,123,0,0,617,614,100.0,Persian <>
+chkconfig,487,0,26,93,0,3,523,513,94.9317738791423,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+choqok,502,160,1497,210,59,284,566,2159,23.251505326540066,Farsi (Persian) <kde-i18n-fa@kde.org>
+cinnamon-control-center,526,76,711,520,59,177,701,1313,40.06092916984006,Persian <trans-fa@lists.fedoraproject.org>
+cinnamon-desktop,231,0,0,31,0,0,251,231,100.0,Persian
+cinnamon-session,354,47,0,65,4,0,456,401,88.2793017456359,Persian
+cinnamon-settings-daemon,2647,24,1261,486,6,80,3054,3932,67.31943031536115,Persian <translate@ifsug.org>
+cinnamon-translations,2542,0,11009,764,0,2462,2903,13551,18.75876319090842,Persian <fa@li.org>
+clementine,3931,0,1160,1099,0,253,4091,5091,77.21469259477509,Persian (http://www.transifex.com/davidsansome/clementine/language/fa/)
+clutter,1,0,3056,1,0,674,1,3057,0.03271180896303566,Persian <translate@ifsug.org>
+cogl,15,0,378,4,0,76,18,393,3.816793893129771,Persian
+colorhug-client,49,0,1383,11,0,286,69,1432,3.4217877094972065,Persian (http://www.transifex.com/hughsie/colorhug-client/language/fa/)
+compat-gtkhtml314,909,0,10,407,0,5,976,919,98.91186071817192,Persian <farsi@lists.sharif.edu>
+compiz-plugins-main,0,21,4197,0,8,803,0,4218,0.0,Persian <fa@li.org>
+console-setup,979,0,4,171,0,4,1098,983,99.59308240081384,Debian-l10n-persian <debian-l10n-persian@lists.debian.org>
+control-center,5632,76,711,1997,59,177,6495,6419,87.73952329023213,Persian <trans-fa@lists.fedoraproject.org>
+corebird,124,0,424,78,0,118,157,548,22.62773722627737,Persian (http://www.transifex.com/corebird/corebird/language/fa/)
+dasher,622,13,14,203,3,4,725,649,95.83975346687211,Persian <farsi@lists.sharif.edu>
+dconf-editor,198,0,0,33,0,0,201,198,100.0,Persian
+debconf,191,0,0,17,0,0,258,191,100.0,debian-l10n-persian <debian-l10n-persian@lists.debian.org>
+decibel-audio-player,9,0,1485,6,0,231,14,1494,0.6024096385542169,Persian <fa@li.org>
+deja-dup,128,0,1883,24,0,303,125,2011,6.364992541024366,Persian <fa@li.org>
+deluge,651,0,2077,246,0,632,803,2728,23.863636363636363,Persian <fa@li.org>
+devhelp,443,0,0,107,0,0,458,443,100.0,Persian
+dialog,24,1,0,22,1,0,33,25,96.0,Persian <translation-team-fa@lists.sourceforge.net>
+digikam,2813,16494,20372,1040,3050,2029,3033,39679,7.089392373799742,Farsi (Persian) <>
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Persian
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Persian
+dnfdragora,149,0,400,111,0,157,158,549,27.140255009107467,Persian (https://www.transifex.com/MageiaLinux/teams/9361/fa/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Persian
+dolphin-emu,2902,0,4063,780,0,509,3767,6965,41.66547020818378,Persian (http://www.transifex.com/delroth/dolphin-emu/language/fa/)
+edgar,792,0,10683,86,0,1449,645,11475,6.901960784313725,Persian <fa@li.org>
+ekiga,4765,0,1158,753,0,40,5226,5923,80.44909674151613,
+elementary,1,0,145,1,0,74,1,146,0.684931506849315,General
+empathy,4255,0,0,955,0,0,4770,4255,100.0,Persian <>
+engrampa,782,0,1153,185,0,168,813,1935,40.41343669250646,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+entangle,0,0,935,0,0,209,0,935,0.0,Persian
+eog,1675,0,0,323,0,0,1789,1675,100.0,Persian
+eom,384,0,1347,91,0,236,422,1731,22.183708838821488,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+epiphany,2744,0,0,609,0,0,3066,2744,100.0,Persian <>
+evince,1698,0,0,394,0,0,1835,1698,100.0,Persian
+evolution,9542,5648,6008,2610,1233,596,10356,21198,45.01368053589962,Persian <>
+evolution-data-server,3317,945,803,768,147,133,3977,5065,65.48864758144126,Persian
+exaile,439,55,3512,193,21,811,501,4006,10.958562156764854,Persian <fa@li.org>
+feedreader,0,0,0,0,0,0,0,0,0.0,
+file-roller,1198,0,0,270,0,0,1256,1198,100.0,Persian <>
+filezilla,7788,630,684,1368,84,88,9534,9102,85.56361239288069,Barnamenevis.org <http://barnamenevis.org/forum/showthread.php?t=207094>
+five-or-more,465,0,0,101,0,0,480,465,100.0,Persian
+folks,1056,0,0,130,0,0,1113,1056,100.0,Persian
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Persian
+four-in-a-row,427,0,0,106,0,0,462,427,100.0,Persian
+fprintd,0,0,219,0,0,33,0,219,0.0,Persian (Iran) (http://www.transifex.net/projects/p/freedesktop/language/fa_IR/)
+freeciv,4034,10958,83175,1614,2731,3792,4254,98167,4.109323907219331,Farsi(Persian)
+frozen-bubble,447,61,190,110,11,27,512,698,64.04011461318052,Persian <farsi@lists.sharif.edu>
+gallery2,2441,188,6523,873,57,566,2587,9152,26.671765734265733,PERSIAN <gallery-translations@lists.sourceforge.net>
+gambas3,1048,0,4635,469,0,1226,1229,5683,18.440964279429878,LANGUAGE <LL@li.org>
+gcompris,10020,0,0,1163,0,0,10885,10020,100.0,
+gconf-editor,336,0,0,98,0,0,370,336,100.0,Persian <translate@ifsug.org>
+gcr,700,0,0,254,0,0,779,700,100.0,Persian
+gdk-pixbuf2,991,294,63,150,45,7,1035,1348,73.51632047477746,Persian <farsi@lists.sharif.edu>
+gdm,622,0,0,84,0,0,731,622,100.0,Persian
+geany,4868,671,459,1063,173,62,4889,5998,81.16038679559854,Moein Owhadi Kareshk <moein.owhadi@gmail.com>
+geary,1101,0,0,327,0,0,1399,1101,100.0,Persian (http://www.transifex.com/projects/p/geary/language/fa/)
+geda-gaf,129,0,1924,64,0,521,129,2053,6.283487579152459,Persian <fa@li.org>
+gedit,4280,0,0,724,0,0,4806,4280,100.0,Persian
+gedit-plugins,659,218,328,309,69,91,689,1205,54.68879668049793,
+ggz-gtk-client,7,0,0,7,0,0,8,7,100.0,Persian
+gimp,12999,8638,5276,3866,2323,827,14458,26913,48.30007802920522,Persian
+glib-networking,161,0,0,29,0,0,189,161,100.0,Persian
+glib2,2578,244,2375,468,38,291,2955,5197,49.60554165864922,Persian <>
+glpi,4688,0,5948,1417,0,1388,5168,10636,44.07672057164348,Persian (Iran) (http://www.transifex.com/glpi/GLPI/language/fa_IR/)
+gnome-abrt,5,0,392,1,0,72,5,397,1.2594458438287155,Persian (http://www.transifex.com/projects/p/gnome-abrt/language/fa/)
+gnome-backgrounds,30,0,0,18,0,0,28,30,100.0,Persian <>
+gnome-bluetooth,372,0,0,110,0,0,410,372,100.0,Persian
+gnome-boxes,856,0,0,185,0,0,962,856,100.0,Persian <>
+gnome-calculator,1337,0,0,428,0,0,1411,1337,100.0,Persian
+gnome-calendar,364,0,0,120,0,0,401,364,100.0,Persian <fa@li.org>
+gnome-characters,155,0,0,44,0,0,186,155,100.0,Persian <fa@li.org>
+gnome-chess,1204,0,0,190,0,0,1172,1204,100.0,Persian
+gnome-clocks,269,0,0,93,0,0,316,269,100.0,Persian <fa@li.org>
+gnome-color-manager,1793,0,0,343,0,0,1867,1793,100.0,Persian
+gnome-contacts,433,0,0,157,0,0,496,433,100.0,Persian
+gnome-desktop,320,0,3,70,0,3,342,323,99.07120743034056,Persian <farsi@lists.sharif.edu>
+gnome-desktop3,146,0,0,23,0,0,161,146,100.0,Persian <>
+gnome-dictionary,656,0,0,135,0,0,711,656,100.0,Persian <>
+gnome-disk-utility,1227,44,1038,338,12,84,1395,2309,53.139887397141614,Persian <translate@ifsug.org>
+gnome-do,473,0,139,119,0,25,542,612,77.2875816993464,Persian <fa@li.org>
+gnome-doc-utils,251,0,0,101,0,0,260,251,100.0,Persian <translate@ifsug.org>
+gnome-documents,646,0,0,206,0,0,721,646,100.0,Persian <>
+gnome-font-viewer,130,0,0,30,0,0,142,130,100.0,Persian
+gnome-gmail,15,0,172,5,0,26,18,187,8.02139037433155,Persian <fa@li.org>
+gnome-icon-theme,53,0,0,47,0,0,71,53,100.0,Persian <farsi@lists.sharif.edu>
+gnome-initial-setup,755,0,0,118,0,0,826,755,100.0,Persian
+gnome-keyring,553,0,0,112,0,0,650,553,100.0,Persian
+gnome-klotski,120,0,0,57,0,0,126,120,100.0,Persian
+gnome-logs,216,0,0,68,0,0,221,216,100.0,Persian <fa@li.org>
+gnome-mahjongg,170,0,0,53,0,0,180,170,100.0,Persian
+gnome-maps,972,0,0,238,0,0,1097,972,100.0,Persian
+gnome-menus,70,0,0,27,0,0,72,70,100.0,Persian <>
+gnome-mime-data,355,9,463,171,4,166,348,827,42.926239419588875,Persian <farsi@lists.sharif.edu>
+gnome-mines,261,0,0,63,0,0,268,261,100.0,Persian
+gnome-multi-writer,344,0,0,52,0,0,422,344,100.0,Persian (http://www.transifex.com/projects/p/gnome-multi-writer/language/fa/)
+gnome-music,526,0,0,95,0,0,551,526,100.0,Persian <>
+gnome-nettool,664,0,0,219,0,0,759,664,100.0,Persian
+gnome-nibbles,526,0,0,130,0,0,566,526,100.0,Persian
+gnome-online-accounts,1167,0,0,321,0,0,1304,1167,100.0,Persian <>
+gnome-packagekit,3593,0,0,583,0,0,3991,3593,100.0,Persian <translate@ifsug.org>
+gnome-photos,424,0,0,179,0,0,486,424,100.0,Persian
+gnome-power-manager,433,0,0,145,0,0,459,433,100.0,Persian
+gnome-robots,823,0,0,163,0,0,888,823,100.0,Persian
+gnome-screensaver,291,0,0,58,0,0,314,291,100.0,Persian <translate@ifsug.org>
+gnome-screenshot,455,0,0,78,0,0,465,455,100.0,Persian
+gnome-search-tool,1249,0,0,186,0,0,1274,1249,100.0,Persian
+gnome-session,327,0,0,60,0,0,386,327,100.0,Persian
+gnome-settings-daemon,2647,24,1261,486,6,80,3054,3932,67.31943031536115,Persian <translate@ifsug.org>
+gnome-shell,1437,0,0,344,0,0,1600,1437,100.0,Persian <>
+gnome-shell-extension-pomodoro,282,0,0,67,0,0,281,282,100.0,Persian <mousavi.arash@gmail.com>
+gnome-shell-extensions,378,0,0,68,0,0,413,378,100.0,Persian <>
+gnome-software,2455,0,0,548,0,0,2652,2455,100.0,
+gnome-sound-recorder,253,0,0,65,0,0,258,253,100.0,Persian <fa@li.org>
+gnome-sudoku,469,0,0,111,0,0,536,469,100.0,Persian
+gnome-system-log,420,0,0,66,0,0,460,420,100.0,Persian
+gnome-system-monitor,1276,0,0,289,0,0,1499,1276,100.0,Persian
+gnome-terminal,2190,1,0,438,1,0,2420,2191,99.95435874030123,Persian <>
+gnome-tetravex,117,0,0,40,0,0,121,117,100.0,Persian
+gnome-themes,92,0,9,32,0,2,111,101,91.0891089108911,Persian <farsi@lists.sharif.edu>
+gnome-themes-standard,24,0,0,9,0,0,27,24,100.0,Persian <translate@ifsug.org>
+gnome-todo,374,0,0,100,0,0,415,374,100.0,Persian <fa@li.org>
+gnome-tweak-tool,438,0,0,150,0,0,491,438,100.0,Persian <translate@ifsug.org>
+gnome-user-share,52,0,0,10,0,0,58,52,100.0,Persian
+gnome-vfs2,190,30,1062,56,10,182,207,1282,14.82059282371295,Persian <farsi@lists.sharif.edu>
+gnome-video-effects,256,0,0,68,0,0,271,256,100.0,Persian
+gnome-weather,192,0,0,42,0,0,205,192,100.0,Persian <>
+gnomebaker,729,13,444,176,6,109,880,1186,61.46711635750422,Persian <fa@li.org>
+gnucash,5158,483,23760,1761,123,2683,5628,29401,17.54362096527329,Persian <translation-team-fa@lists.sourceforge.net>
+gourmet,13,2,3924,10,1,881,21,3939,0.33003300330033003,Persian <fa@li.org>
+gparted,2309,0,0,405,0,0,2537,2309,100.0,Persian
+gpicview,234,0,2,51,0,1,283,236,99.15254237288136,LANGUAGE <LL@li.org>
+gpodder,93,16,1770,59,7,436,127,1879,4.94944119212347,Persian (Iran) (http://www.transifex.com/projects/p/gpodder/language/fa_IR/)
+grisbi,206,1689,10855,132,508,1635,234,12750,1.615686274509804,farsi <en@li.org>
+gscan2pdf,23,0,1816,21,0,485,24,1839,1.2506797172376292,Persian <fa@li.org>
+gspell,56,5,16,28,1,2,62,77,72.72727272727273,Persian
+gtg,4,0,3493,4,0,296,5,3497,0.11438375750643409,Persian <fa@li.org>
+gthumb,2530,0,19,852,0,10,2768,2549,99.25460965084348,Persian <farsi@lists.sharif.edu>
+gtick,36,63,239,24,45,27,40,338,10.650887573964498,Persian <translation-team-fa@lists.sourceforge.net>
+gtk2,2729,2230,8745,627,644,1513,2742,13704,19.91389375364857,Persian <farsi@lists.sharif.edu>
+gtk3,5006,1801,7092,1712,386,1039,5331,13899,36.01697963882294,Persian <>
+gtkhtml3,909,0,10,407,0,5,976,919,98.91186071817192,Persian <farsi@lists.sharif.edu>
+gtksourceview2,728,0,37,294,0,18,825,765,95.16339869281045,Persian <farsi@lists.sharif.edu>
+gtksourceview3,110,346,662,83,196,342,116,1118,9.838998211091235,Persian <farsi@lists.sharif.edu>
+gtranslator,131,0,1288,97,0,272,138,1419,9.231853417899929,Persian <farsi@lists.sharif.edu>
+guake,381,251,434,78,47,69,425,1066,35.74108818011257,guake@lists.guake.org <>
+gucharmap,1230,0,0,409,0,0,1237,1230,100.0,Persian
+gvfs,1815,61,569,465,15,65,2181,2445,74.23312883435584,Persian <>
+hamster-time-tracker,421,0,521,38,0,13,424,942,44.69214437367304,Farsi (Persian) <kde-i18n-doc@kde.org>
+homebank,1362,11,910,511,5,217,1501,2283,59.65834428383706,Persian <fa@li.org>
+iagno,4286,0,0,909,0,0,4409,4286,100.0,Persian
+ibus,67,0,780,38,0,117,73,847,7.910271546635183,Persian <trans-fa@lists.fedoraproject.org>
+im-chooser,52,0,187,13,0,43,54,239,21.75732217573222,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Persian
+initscripts,0,0,1003,0,0,158,0,1003,0.0,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+inkscape,2693,3052,28928,635,1250,5518,3051,34673,7.766850286966805,Farsi <fa@li.org>
+iok,142,5,59,36,1,3,155,206,68.93203883495146,Persian <trans-fa@lists.fedoraproject.org>
+islamic-menus,5,0,0,2,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+iso-codes,1757,6515,7818,1053,4706,4604,1583,16090,10.919825978868863,Persian
+isomaster,38,1,635,23,1,83,42,674,5.637982195845697,http://littlesvr.ca/ostd/
+kaudiocreator,677,83,376,168,34,71,754,1136,59.595070422535215,Farsi (Persian) <kde-i18n-doc@kde.org>
+kcoloredit,7,92,179,4,29,62,7,278,2.5179856115107913,Persian <kde-i18n-fa@kde.org>
+kde-cli-tools,1843,59,186,184,9,21,1909,2088,88.26628352490421,Farsi (Persian) <kde-i18n-fa@kde.org>
+kde-l10n,126445,59811,110916,27371,17943,15310,133976,297172,42.549432651797616,Farsi (Persian) <>
+kdevelop,153,55,438,38,18,100,162,646,23.684210526315788,Persian <kde-i18n-fa@kde.org>
+kexec-tools,0,0,83,0,0,12,0,83,0.0,LANGUAGE <LL@li.org>
+kf5-kauth,0,38,35,0,4,4,0,73,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kbookmarks,0,203,15,0,46,2,0,218,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kcmutils,453,110,0,61,10,0,468,563,80.46181172291297,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kconfig,0,50,212,0,7,93,0,262,0.0,Farsi (Persian) <>
+kf5-kconfigwidgets,152,125,48,75,34,9,199,325,46.76923076923077,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kcoreaddons,0,282,9,0,86,9,0,291,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kdeclarative,26,36,47,9,2,3,42,109,23.853211009174313,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kdelibs4support,1806,1109,1898,1173,634,557,2711,4813,37.523374194888845,Persian <kde-i18n-fa@kde.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Persian <kde-i18n-fa@kde.org>
+kf5-kglobalaccel,0,45,26,0,6,3,0,71,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-khtml,1257,304,160,266,29,15,1269,1721,73.03893085415456,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-ki18n,42,80,2,42,66,2,52,124,33.87096774193548,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kiconthemes,34,0,1,17,0,1,42,35,97.14285714285714,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kinit,103,31,0,10,4,0,100,134,76.86567164179104,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kio,7240,2629,2030,878,250,192,7524,11899,60.84544919741155,Persian <kde-i18n-fa@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kjobwidgets,0,123,18,0,43,2,0,141,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kjsembed,236,0,12,43,0,1,233,248,95.16129032258065,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-knewstuff,300,149,232,90,44,21,330,681,44.052863436123346,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-knotifyconfig,43,86,0,15,2,0,40,129,33.33333333333333,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kparts,88,16,0,24,2,0,108,104,84.61538461538461,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kpty,15,0,0,4,0,0,16,15,100.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kross,70,30,0,27,8,0,79,100,70.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kservice,64,68,38,11,13,4,80,170,37.64705882352941,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-ktexteditor,3305,1780,3238,595,334,279,3397,8323,39.70923945692659,Farsi (Persian) <>
+kf5-ktextwidgets,411,45,6,118,2,2,407,462,88.96103896103897,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kwallet,534,316,648,53,9,46,570,1498,35.647530040053404,Farsi (Persian) <>
+kf5-kwidgetsaddons,0,1244,71,0,441,14,0,1315,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-kxmlgui,877,535,186,172,45,13,898,1598,54.8811013767209,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-sonnet,0,645,18,0,68,4,0,663,0.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+kf5-syntax-highlighting,0,266,169,0,191,94,0,435,0.0,Farsi (Persian) <>
+kgamma,130,0,0,16,0,0,137,130,100.0,Persian <kde-i18n-fa@kde.org>
+khotkeys,101,108,227,35,63,31,102,436,23.165137614678898,Persian <kde-i18n-fa@kde.org>
+kiconedit,694,0,32,144,0,11,712,726,95.59228650137742,Persian <kde-i18n-fa@kde.org>
+kinfocenter,1141,263,1308,296,36,568,1203,2712,42.07227138643068,Farsi (Persian) <>
+kjots,139,60,200,39,14,53,141,399,34.83709273182957,Persian <kde-i18n-fa@kde.org>
+kmenuedit,211,14,52,49,4,8,210,277,76.17328519855594,Farsi (Persian) <kde-i18n-fa@kde.org>
+koffice-kivio,7963,0,454,2161,0,200,8447,8417,94.60615421171438,Persian <kde-i18n-fa@kde.org>
+kpilot,1854,417,4885,337,137,387,1934,7156,25.908328675237563,Persian <kde-i18n-fa@kde.org>
+ksig,78,0,7,23,0,3,75,85,91.76470588235294,Persian <kde-i18n-fa@kde.org>
+ksnapshot,127,288,106,27,11,25,147,521,24.37619961612284,Persian <kde-i18n-fa@kde.org>
+ksysguard,719,246,116,153,48,32,762,1081,66.51248843663275,Persian <kde-i18n-fa@kde.org>
+kwebkitpart,178,103,343,68,25,65,184,624,28.525641025641026,Farsi (Persian) <kde-i18n-fa@kde.org>
+kwin,1917,1030,3194,340,142,684,2072,6141,31.216414264777725,Persian <kde-i18n-fa@kde.org>
+labyrinth,94,52,80,30,12,31,94,226,41.5929203539823,
+libbonobo,307,15,202,65,4,39,334,524,58.587786259541986,Persian <farsi@lists.sharif.edu>
+libbonoboui,326,0,34,109,0,4,367,360,90.55555555555556,Persian <farsi@lists.sharif.edu>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Persian
+libfm,644,356,565,202,101,87,745,1565,41.150159744408946,LANGUAGE <LL@li.org>
+libgda,31,1919,9192,19,508,1527,32,11142,0.27822653024591637,Persian <farsi@lists.sharif.edu>
+libgnome,1385,0,22,215,0,4,1547,1407,98.4363894811656,Persian
+libgnome-keyring,44,0,0,9,0,0,51,44,100.0,Persian <translate@ifsug.org>
+libgnome-media-profiles,202,52,206,31,5,15,234,460,43.913043478260875,Persian <farsi@lists.sharif.edu>
+libgnomecanvas,344,13,0,93,1,0,403,357,96.35854341736695,Persian <farsi@lists.sharif.edu>
+libgnomekbd,242,0,0,55,0,0,227,242,100.0,Persian <translate@ifsug.org>
+libgnomeui,1220,83,116,302,19,24,1267,1419,85.97603946441156,Persian <farsi@lists.sharif.edu>
+libgtop2,126,0,0,40,0,0,141,126,100.0,Persian <translate@ifsug.org>
+libgweather,6173,0,0,4578,0,0,6186,6173,100.0,Persian
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libksysguard,30,1,2772,20,1,205,32,2803,1.0702818408847663,Persian <kde-i18n-fa@kde.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+libmatemixer,224,0,18,116,0,10,242,242,92.56198347107438,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+libmateweather,5812,0,4578,4105,0,2659,5770,10390,55.938402309913386,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+libmypaint,72,0,1465,31,0,75,74,1537,4.68445022771633,Persian <https://hosted.weblate.org/projects/mypaint/libmypaint/fa/>
+libosinfo,0,0,2049,0,0,604,0,2049,0.0,Persian
+libpeas,112,0,0,34,0,0,109,112,100.0,Persian
+libreoffice,34535,13757,52081,12476,4057,15138,36484,100373,34.40666314646369,LANGUAGE <LL@li.org>
+libreport,148,0,4745,33,0,566,159,4893,3.024729204986716,Persian (http://www.transifex.com/projects/p/libreport/language/fa/)
+librfm,624,558,1215,285,199,114,1103,2397,26.032540675844807,Persian <translate@ifsug.org>
+libsecret,59,0,0,9,0,0,62,59,100.0,Persian <fa@li.org>
+libsoup,79,0,0,20,0,0,97,79,100.0,Persian
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Persian (http://www.transifex.com/projects/p/libvirt-glib/language/fa/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+libwnck,47,21,5,21,7,2,63,73,64.38356164383562,Persian <farsi@lists.sharif.edu>
+libwnck3,1084,0,0,230,0,0,1127,1084,100.0,Persian <translate@ifsug.org>
+light-locker,9,0,251,3,0,34,11,260,3.4615384615384617,Persian (http://www.transifex.com/the_cavalry/light-locker/language/fa/)
+lightdm,0,0,79,0,0,17,0,79,0.0,Persian <fa@li.org>
+lightsoff,39,0,0,12,0,0,43,39,100.0,Persian
+liveusb-creator,87,143,419,9,26,78,115,649,13.405238828967642,Persian <trans-fa@lists.fedoraproject.org>
+lxappearance,173,22,39,54,7,19,194,234,73.93162393162393,Persian <trans-fa@lists.fedoraproject.org>
+lxappearance-obconf,191,5,0,26,1,0,209,196,97.44897959183673,Persian <trans-fa@lists.fedoraproject.org>
+lxdm,21,9,17,15,3,7,26,47,44.680851063829785,Persian <trans-fa@lists.fedoraproject.org>
+lxinput,70,2,11,23,1,2,75,83,84.33734939759037,LANGUAGE <LL@li.org>
+lxlauncher,51,0,7,11,0,6,51,58,87.93103448275862,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,101,97,100.0,Persian
+lxmusic,202,1,0,88,1,0,255,203,99.50738916256158,LANGUAGE <LL@li.org>
+lxpanel,818,165,323,276,57,91,956,1306,62.63399693721286,Persian <trans-fa@lists.fedoraproject.org>
+lxrandr,83,50,34,22,8,11,96,167,49.700598802395206,LANGUAGE <LL@li.org>
+lxsession,29,9,717,12,4,150,29,755,3.8410596026490067,Persian <trans-fa@lists.fedoraproject.org>
+lxshortcut,43,0,0,19,0,0,49,43,100.0,LANGUAGE <LL@li.org>
+lxtask,122,0,8,48,0,3,149,130,93.84615384615384,LANGUAGE <LL@li.org>
+lxterminal,132,45,70,80,19,32,169,247,53.441295546558706,LANGUAGE <LL@li.org>
+mailman,4617,287,18817,796,24,610,5194,23721,19.463766283040343,fa <translate@ifsug.org>
+manaplus,45,0,4339,24,0,1382,56,4384,1.0264598540145986,Persian (http://www.transifex.com/projects/p/manaplus/language/fa/)
+marco,1614,0,2482,245,0,169,1739,4096,39.404296875,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-applets,1509,0,1112,340,0,286,1686,2621,57.57344524990462,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-backgrounds,30,0,0,21,0,0,31,30,100.0,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-calc,1010,0,402,426,0,15,1081,1412,71.52974504249292,Persian (http://www.transifex.com/projects/p/MATE/language/fa/)
+mate-control-center,614,0,2148,196,0,460,709,2762,22.2302679217958,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-desktop,812,0,1589,127,0,205,840,2401,33.819241982507286,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-media,29,0,196,23,0,73,37,225,12.88888888888889,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-menus,97,0,0,37,0,0,101,97,100.0,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-panel,3066,0,1321,436,0,169,3332,4387,69.88830635969911,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-power-manager,673,0,2051,90,0,350,744,2724,24.706314243759177,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-screensaver,571,0,412,126,0,30,673,983,58.08748728382503,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-sensors-applet,4,0,300,2,0,103,5,304,1.3157894736842104,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-session-manager,74,0,607,20,0,94,88,681,10.866372980910425,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-settings-daemon,180,0,1524,29,0,218,193,1704,10.56338028169014,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-system-monitor,25,0,1282,19,0,289,28,1307,1.9127773527161436,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-terminal,438,0,3949,186,0,320,524,4387,9.984043765671302,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-themes,7,0,48,2,0,8,10,55,12.727272727272727,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-user-guide,5,0,0,2,0,0,6,5,100.0,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mate-utils,2344,0,1337,421,0,242,2440,3681,63.67834827492529,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+mc,682,0,3471,287,0,931,774,4153,16.42186371297857,Persian (http://www.transifex.com/mc/mc/language/fa/)
+mcomix,171,311,2085,91,88,355,210,2567,6.661472536034281,Persian
+metacity,2040,0,0,310,0,0,2189,2040,100.0,Persian
+midori,1051,0,2490,299,0,497,1159,3541,29.680881107031915,Persian <fa@li.org>
+mingw-GConf2,3752,24,178,444,4,13,4159,3954,94.89124936772888,Persian <farsi@lists.sharif.edu>
+mingw-atk,398,0,0,139,0,0,380,398,100.0,Persian <translate@ifsug.org>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Persian (http://www.transifex.com/projects/p/freedesktop/language/fa/)
+mingw-colorhug-client,49,0,1360,11,0,283,69,1409,3.47764371894961,Persian (http://www.transifex.com/projects/p/colorhug-client/language/fa/)
+mingw-gdk-pixbuf,991,294,63,150,45,7,1035,1348,73.51632047477746,Persian <farsi@lists.sharif.edu>
+mingw-glib-networking,161,0,0,29,0,0,189,161,100.0,Persian
+mingw-glib2,2578,244,2375,468,38,291,2955,5197,49.60554165864922,Persian <>
+mingw-gtk2,2729,2230,8745,627,644,1513,2742,13704,19.91389375364857,Persian <farsi@lists.sharif.edu>
+mingw-gtk3,5006,1801,7092,1712,386,1039,5331,13899,36.01697963882294,Persian <>
+mingw-gtkhtml3,909,0,10,407,0,5,976,919,98.91186071817192,Persian <farsi@lists.sharif.edu>
+mingw-gtksourceview3,110,346,662,83,196,342,116,1118,9.838998211091235,Persian <farsi@lists.sharif.edu>
+mingw-libsoup,79,0,0,20,0,0,97,79,100.0,Persian
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Persian (http://www.transifex.com/projects/p/libvirt-glib/language/fa/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Persian (http://www.transifex.com/freedesktop/p11-kit/language/fa/)
+mintmenu,2737,0,3262,781,0,453,3294,5999,45.6242707117853,Persian <fa@li.org>
+mlocate,406,175,0,50,1,0,447,581,69.87951807228916,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+moin,4551,61,432,812,13,108,5385,5044,90.22601110229976,
+moodle,9,35,8,8,4,2,17,52,17.307692307692307,i18n@lists.horde.org
+mousetweaks,114,0,0,30,0,0,123,114,100.0,Persian
+mozo,42,0,0,16,0,0,48,42,100.0,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+muffin,6867,0,261,450,0,18,7494,7128,96.33838383838383,Persian
+multimedia-menus,56,0,0,22,0,0,67,56,100.0,Persian <trans-fa@lists.fedoraproject.org>
+mutter,1552,332,323,229,60,26,1641,2207,70.32170367014047,Persian
+nautilus,5490,0,0,995,0,0,5994,5490,100.0,Persian <>
+nautilus-sendto,45,0,0,8,0,0,59,45,100.0,Persian
+nemo-extensions,24,0,8,11,0,2,29,32,75.0,Persian <fa@li.org>
+network-manager-applet,1984,666,758,453,133,179,2438,3408,58.21596244131455,Persian
+newt,4,0,0,4,0,0,4,4,100.0,Persian <trans-fa@lists.fedoraproject.org>
+notification-daemon,17,0,0,7,0,0,21,17,100.0,Persian <translate@ifsug.org>
+olpc-switch-desktop,126,0,32,10,0,4,133,158,79.74683544303798,LANGUAGE <LL@li.org>
+onboard,0,0,2318,0,0,510,0,2318,0.0,Persian <fa@li.org>
+openerp,3245,0,44320,1237,0,5466,3336,47565,6.822243246084306,Persian <fa@li.org>
+openerp-client,1759,0,5970,446,0,128,1932,7729,22.758442230560227,Persian <fa@li.org>
+openerp7,2596,0,38352,1042,0,4267,2641,40948,6.3397479730389765,Persian <fa@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Persian (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/fa/)
+p11-kit,0,0,476,0,0,81,0,476,0.0,Persian (http://www.transifex.com/freedesktop/p11-kit/language/fa/)
+pacman,145,0,1498,42,0,276,196,1643,8.825319537431527,Persian (http://www.transifex.com/toofishes/archlinux-pacman/language/fa/)
+pam,0,0,606,0,0,122,0,606,0.0,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+pam_krb5,7,0,0,4,0,0,11,7,100.0,Persian (http://www.transifex.com/projects/p/pam_krb5/language/fa/)
+passwd,106,0,209,21,0,34,127,315,33.65079365079365,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+pcmanfm,578,253,379,150,62,84,661,1210,47.768595041322314,Persian <trans-fa@lists.fedoraproject.org>
+perl-Padre,210,0,1056,131,0,304,233,1266,16.587677725118482,Persian <translation-team-fa@lists.sourceforge.net>
+pgadmin3,12393,3524,981,3396,839,167,15372,16898,73.34004024144869,Farsi PG <amirabd2130@yahoo.com>
+phatch,103,0,2450,90,0,734,111,2553,4.034469251860556,Persian <fa@li.org>
+php-horde-Horde-Alarm,1,4,8,1,2,2,2,13,7.6923076923076925,i18n@lists.horde.org
+php-horde-Horde-Argv,1,3,56,1,3,9,1,60,1.6666666666666667,i18n@lists.horde.org
+php-horde-Horde-Browser,52,0,14,5,0,1,49,66,78.78787878787878,i18n@lists.horde.org
+php-horde-Horde-Cli,5,6,0,2,1,0,7,11,45.45454545454545,i18n@lists.horde.org
+php-horde-Horde-Compress,7,18,0,2,4,0,8,25,28.000000000000004,i18n@lists.horde.org
+php-horde-Horde-Core,298,201,272,126,46,39,334,771,38.65110246433204,i18n@lists.horde.org
+php-horde-Horde-Crypt,258,53,85,72,10,15,298,396,65.15151515151516,i18n@lists.horde.org
+php-horde-Horde-Data,7,0,0,2,0,0,6,7,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,4,12,20,4,3,4,4,36,11.11111111111111,i18n@lists.horde.org
+php-horde-Horde-Exception,0,4,0,0,2,0,0,4,0.0,i18n@lists.horde.org
+php-horde-Horde-Form,249,188,116,83,40,23,274,553,45.02712477396022,i18n@lists.horde.org
+php-horde-Horde-Icalendar,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Image,25,129,427,24,74,187,26,581,4.3029259896729775,i18n@lists.horde.org
+php-horde-Horde-Imsp,7,7,0,1,1,0,6,14,50.0,i18n@lists.horde.org
+php-horde-Horde-Itip,2,17,37,2,3,5,4,56,3.571428571428571,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,10,6,104,1,1,7,14,120,8.333333333333332,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,7,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,9,31,8,8,2,2,17,48,18.75,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,1,4,42,1,3,16,1,47,2.127659574468085,i18n@lists.horde.org
+php-horde-Horde-Nls,7,18,405,6,13,244,6,430,1.627906976744186,i18n@lists.horde.org
+php-horde-Horde-Perms,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,22,10,0,7,1,0,27,32,68.75,i18n@lists.horde.org
+php-horde-Horde-Rpc,6,22,20,1,4,2,8,48,12.5,i18n@lists.horde.org
+php-horde-Horde-Share,5,11,32,5,2,5,5,48,10.416666666666668,i18n@lists.horde.org
+php-horde-Horde-SyncMl,0,3,0,0,1,0,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,35,0,0,2,0,35,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,5,2,3,1,1,1,7,10,50.0,i18n@lists.horde.org
+php-horde-horde,1590,1061,823,526,257,151,1771,3474,45.76856649395509,Persian <i18n@lists.horde.org>
+php-horde-imp,5359,0,0,1086,0,0,5833,5359,100.0,Persian <i18n@lists.horde.org>
+php-horde-passwd,342,0,0,55,0,0,415,342,100.0,Persian <i18n@lists.horde.org>
+php-horde-turba,1113,0,0,273,0,0,1189,1113,100.0,Persian <i18n@lists.horde.org>
+php-phpmyadmin-sql-parser,0,57,165,0,13,30,0,222,0.0,Persian <https://hosted.weblate.org/projects/phpmyadmin/master/fa/>
+picard,29,0,1502,28,0,467,48,1531,1.8941868060091442,Persian (http://www.transifex.com/projects/p/musicbrainz/language/fa/)
+pidgin,9894,0,5862,2325,0,1108,10960,15756,62.7951256664128,Persian (http://www.transifex.com/pidgin/pidgin/language/fa/)
+pidgin-otr,1063,0,1,158,0,1,1272,1064,99.90601503759399,Hooman Mohajeri Moghaddam هومن مهاجری مقدم <hmohajer@cs.uwaterloo.ca>
+pix,452,0,3271,217,0,979,527,3723,12.14074670964276,Persian <farsi@lists.sharif.edu>
+planner,1591,0,0,491,0,0,1739,1591,100.0,Persian <farsi@lists.sharif.edu>
+plasma-desktop,6959,1773,1613,1117,298,419,7273,10345,67.269212179797,Farsi (Persian) <>
+plasma-nm,3,12,10,3,7,4,3,25,12.0,Farsi (Persian) <kde-i18n-fa@kde.org>
+plasma-oxygen,4,38,571,1,9,208,5,613,0.6525285481239804,Persian <kde-i18n-fa@kde.org>
+plasma-sdk,32,25,185,12,7,42,33,242,13.223140495867769,Persian <kde-i18n-fa@kde.org>
+plasma-systemsettings,91,5,90,28,2,13,90,186,48.924731182795696,Farsi (Persian) <kde-i18n-fa@kde.org>
+plasma-workspace,1077,554,3786,258,124,267,1153,5417,19.881853424404653,Farsi (Persian) <>
+pluma,2104,0,2954,597,0,518,2186,5058,41.59746935547648,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+pmount,10,0,713,2,0,61,6,723,1.3831258644536653,Persian <fa@li.org>
+poedit,1086,0,1443,342,0,197,1222,2529,42.94187425860024,Persian
+pogo,9,0,567,6,0,95,15,576,1.5625,Persian <fa@li.org>
+polari,563,0,0,138,0,0,624,563,100.0,Persian <fa@li.org>
+policycoreutils,0,0,15356,0,0,2156,0,15356,0.0,Persian (Iran) (http://www.transifex.com/projects/p/fedora/language/fa_IR/)
+publican,1148,82,4213,92,4,520,1346,5443,21.09130993937167,Persian <trans-fa@lists.fedoraproject.org>
+publican-fedora,7,0,100,2,0,6,7,107,6.5420560747663545,Persian <trans-fa@lists.fedoraproject.org>
+pychess,13,0,4442,11,0,868,13,4455,0.29180695847362514,Persian (http://www.transifex.com/gbtami/pychess/language/fa/)
+pykickstart,283,0,1072,28,0,121,292,1355,20.88560885608856,Persian (http://www.transifex.com/projects/p/pykickstart/language/fa/)
+python-blivet,205,0,491,29,0,102,228,696,29.454022988505745,Persian
+python-caja,6,0,0,2,0,0,9,6,100.0,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+python-django,3100,0,452,742,0,44,3110,3552,87.27477477477478,Persian (http://www.transifex.com/django/django/language/fa/)
+python-django-countries,390,0,49,241,0,23,364,439,88.8382687927107,Persian (http://www.transifex.com/smileychris/django-countries/language/fa/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Persian (http://www.transifex.com/projects/p/django-formtools/language/fa/)
+python-django-helpdesk,0,0,3242,0,0,487,0,3242,0.0,Persian (Iran) (http://www.transifex.com/projects/p/django-helpdesk/language/fa_IR/)
+python-django-registration,81,0,0,15,0,0,85,81,100.0,erixe <mohsen.brian@gmail.com>
+python-fedora,0,0,214,0,0,29,0,214,0.0,Persian
+python-flask-admin,331,0,30,102,0,7,396,361,91.68975069252078,Persian
+python-lettuce,3879,0,2983,1042,0,1165,4179,6862,56.528708831244536,Persian <farsi@lists.sharif.edu>
+python-meh,0,0,109,0,0,23,0,109,0.0,Persian
+python-nikola,73,0,16,30,0,8,77,89,82.02247191011236,Persian (http://www.transifex.com/ralsina/nikola/language/fa/)
+python-sphinx,239,0,279,98,0,92,270,518,46.13899613899614,Persian (http://www.transifex.com/sphinx-doc/sphinx-1/language/fa/)
+quadrapassel,325,0,0,79,0,0,364,325,100.0,Persian
+rabbitvcs,20,0,1504,15,0,457,27,1524,1.3123359580052494,Persian <fa@li.org>
+rapid-photo-downloader,36,0,1796,26,0,383,45,1832,1.9650655021834063,Persian <fa@li.org>
+realmd,0,0,778,0,0,125,0,778,0.0,Persian (http://www.transifex.com/projects/p/freedesktop/language/fa/)
+redhat-menus,253,0,0,81,0,0,277,253,100.0,Persian <fedora-trans-fa@redhatc.om>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Persian
+rhn-client-tools,0,0,8114,0,0,840,0,8114,0.0,LANGUAGE <LL@li.org>
+rhnsd,0,0,74,0,0,18,0,74,0.0,LANGUAGE <LL@li.org>
+rhythmbox,2269,0,1820,767,0,266,2462,4089,55.49033993641477,Persian
+rodent,827,914,8061,358,266,248,927,9802,8.437053662517853,
+rt,6062,0,4185,1687,0,616,7477,10247,59.15877817897921,Persian <fa@li.org>
+rygel,322,10,348,77,1,68,378,680,47.35294117647059,Persian <fa@li.org>
+scratch,1210,3,257,519,1,106,1487,1470,82.31292517006803,mohammad ehsan sadegi <m.e.sadeghi@gmail.com>
+setroubleshoot,0,0,656,0,0,177,0,656,0.0,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+setroubleshoot-plugins,0,0,9830,0,0,476,0,9830,0.0,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+setuptool,55,0,0,14,0,0,63,55,100.0,Persian <trans-fa@lists.fedoraproject.org>
+sflphone,923,0,138,292,0,45,1075,1061,86.99340245051837,LANGUAGE <LL@li.org>
+shared-mime-info,0,0,3436,0,0,1344,0,3436,0.0,Persian (Iran) (http://www.transifex.net/projects/p/freedesktop/team/fa_IR/)
+shutter,143,0,2471,39,0,479,162,2614,5.470543228768172,Persian <fa@li.org>
+skychart,25,0,4856,17,0,1536,23,4881,0.5121901249743905,Persian <fa@li.org>
+smuxi,201,0,2275,66,0,490,231,2476,8.117932148626817,Persian (http://www.transifex.com/projects/p/smuxi/language/fa/)
+snapper,5,0,738,1,0,179,5,743,0.6729475100942126,Persian <https://l10n.opensuse.org/projects/snapper/master/fa/>
+solfege,4438,0,0,1061,0,0,4569,4438,100.0,Persian <translation-team-fa@lists.sourceforge.net>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,627,0,0,126,0,0,707,627,100.0,Persian <farsi@lists.sharif.edu>
+soundconverter,14,0,374,12,0,109,16,388,3.608247422680412,Persian <fa@li.org>
+spacefm,60,0,8662,34,0,1534,77,8722,0.687915615684476,Persian (http://www.transifex.com/projects/p/spacefm/language/fa/)
+squirrelmail,6036,0,0,1165,0,0,6817,6036,100.0,Persian <persian (AT) gnu (DOT) org>
+steadyflow,423,0,47,88,0,5,438,470,90.0,Persian <fa@li.org>
+stellarium,6144,0,17525,2148,0,3671,6101,23669,25.95800414043686,American English <kde-i18n-doc@kde.org>
+storaged,0,0,1929,0,0,478,0,1929,0.0,
+subdownloader,968,0,0,272,0,0,1106,968,100.0,English (United Kingdom) <en_GB@li.org>
+sugar,124,27,1582,59,10,350,149,1733,7.155222158107328,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,21,19,149,15,3,34,27,189,11.11111111111111,LANGUAGE <LL@li.org>
+sugar-calculator,234,0,637,63,0,101,304,871,26.865671641791046,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,150,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,29,7,30,13,1,7,29,66,43.93939393939394,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,32,31,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,2,0,75,2,0,31,2,77,2.5974025974025974,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,65,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,108,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,9,0,272,6,0,88,7,281,3.202846975088968,LANGUAGE <LL@li.org>
+sugar-log,68,30,0,15,6,0,76,98,69.38775510204081,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,7,6,142,4,3,66,5,155,4.516129032258064,LANGUAGE <LL@li.org>
+sugar-memorize,46,9,87,37,6,31,60,142,32.3943661971831,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,37,0,53,34,0,18,47,90,41.11111111111111,LANGUAGE <LL@li.org>
+sugar-physics,47,0,1,27,0,1,51,48,97.91666666666666,LANGUAGE <LL@li.org>
+sugar-pippy,32,15,62,9,1,21,41,109,29.357798165137616,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,112,0,25,41,0,9,132,137,81.75182481751825,LANGUAGE <LL@li.org>
+sugar-record,20,2,40,12,1,11,16,62,32.25806451612903,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,22,0,205,22,0,52,24,227,9.691629955947137,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,5,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,73,0,0,37,0,73,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,0,76,0,0,40,0,76,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1,0,1458,1,0,434,1,1459,0.06854009595613435,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,150,121,100.0,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,29,24,100.0,Persian
+swell-foop,138,0,0,41,0,0,138,138,100.0,Persian
+synfig,1162,44,2962,375,5,672,1257,4168,27.87907869481766,Persian (Iran) (http://www.transifex.com/projects/p/synfig/language/fa_IR/)
+synfigstudio,943,0,3394,313,0,928,1155,4337,21.743140419644917,Persian (Iran) (http://www.transifex.com/projects/p/synfig/language/fa_IR/)
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-date,394,0,1959,45,0,835,457,2353,16.744581385465363,LANGUAGE <LL@li.org>
+system-config-date-docs,7,44,710,5,18,41,7,761,0.9198423127463863,Persian <trans-fa@lists.fedoraproject.org>
+system-config-firewall,63,194,2557,17,57,257,86,2814,2.2388059701492535,Persian
+system-config-httpd,670,33,155,176,17,30,729,858,78.08857808857809,
+system-config-kdump,0,0,877,0,0,156,0,877,0.0,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+system-config-keyboard,187,0,0,81,0,0,302,187,100.0,Persian <fa@li.org>
+system-config-kickstart,658,0,486,169,0,84,751,1144,57.51748251748252,Persian (http://www.transifex.com/projects/p/system-config-kickstart/language/fa/)
+system-config-language,60,55,82,13,5,11,64,197,30.456852791878177,none
+system-config-network,2258,213,561,587,49,85,2605,3032,74.47229551451187,Persian
+system-config-nfs,56,0,276,17,0,55,59,332,16.867469879518072,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,707,5,2446,310,5,440,814,3158,22.387587080430652,Persian (http://www.transifex.com/projects/p/system-config-printer/language/fa/)
+system-config-rootpassword,15,26,75,3,5,11,12,116,12.931034482758621,Persian
+system-config-samba,571,0,0,134,0,0,642,571,100.0,Persian (http://www.transifex.net/projects/p/fedora/language/fa/)
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,228,0,840,52,0,92,282,1068,21.34831460674157,Persian (Iran) (http://www.transifex.net/projects/p/fedora/team/fa_IR/)
+system-config-services-docs,638,0,0,28,0,0,662,638,100.0,Persian <trans-fa@lists.fedoraproject.org>
+system-config-users,866,0,655,142,0,38,932,1521,56.9362261669954,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,87,81,100.0,Persian <trans-fa@lists.fedoraproject.org>
+tali,4286,0,0,909,0,0,4409,4286,100.0,Persian
+terminator,440,0,970,149,0,268,513,1410,31.20567375886525,Persian <fa@li.org>
+tomboy,322,0,2956,140,0,331,372,3278,9.823062843197071,Persian
+tortoisehg,18,0,12205,9,0,2347,19,12223,0.14726335596825657,Persian <fa@li.org>
+totem,1373,0,0,382,0,0,1469,1373,100.0,Persian
+totem-pl-parser,29,0,0,8,0,0,28,29,100.0,Persian <farsi@lists.sharif.edu>
+trac,1559,1125,9966,401,321,644,1723,12650,12.324110671936758,fa_IR <trac-dev@googlegroups.com>
+transmission,52,0,1757,32,0,462,79,1809,2.8745163073521285,Persian <fa@li.org>
+tuxpaint,589,690,312,147,72,72,677,1591,37.02074167190446,farsi <farinaz.hedayat@gmail.com>
+udisks2,0,0,1525,0,0,413,0,1525,0.0,Persian (http://www.transifex.com/projects/p/udisks/language/fa/)
+uget,1017,0,68,357,0,5,1253,1085,93.73271889400921,Persian (http://www.transifex.com/uget/uget/language/fa/)
+unetbootin,378,0,2781,98,0,80,460,3159,11.965811965811966,Persian <fa@li.org>
+usermode,570,0,3,95,0,1,624,573,99.47643979057592,Persian (http://www.transifex.com/projects/p/fedora/language/fa/)
+vinagre,1850,0,670,336,0,30,2080,2520,73.4126984126984,Persian
+vino,1228,0,0,134,0,0,1366,1228,100.0,Persian
+virt-viewer,0,0,751,0,0,165,0,751,0.0,Persian
+vte,80,0,0,13,0,0,95,80,100.0,Persian
+vte291,64,0,0,13,0,0,78,64,100.0,Persian
+vte3,80,0,0,13,0,0,95,80,100.0,Persian
+warmux,876,718,1150,166,119,187,691,2744,31.924198250728864,Warmux Fa <behdadp@farsiweb.info>
+whaawmp,28,0,771,25,0,135,34,799,3.504380475594493,Persian <fa@li.org>
+wicd,35,0,1103,19,0,235,38,1138,3.0755711775043935,fa <LL@li.org>
+widelands,70,0,4870,55,0,969,73,4940,1.417004048582996,Persian <fa@li.org>
+wine,107,790,14004,50,316,2958,107,14901,0.7180726125763371,Persian
+workrave,1221,41,59,241,10,11,1561,1321,92.42997728993187,<Tarfandkhaneh@Gmail.com>
+wxPython,48,2,2407,26,2,709,53,2457,1.9536019536019535,Persian <fa@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Persian <translation-team-fa@lists.sourceforge.net>
+xed,1654,0,2809,515,0,444,1609,4463,37.060273358727315,Persian (http://www.transifex.com/projects/p/MATE/language/fa/)
+xfce4-whiskermenu-plugin,236,3,2,86,1,1,252,241,97.9253112033195,Persian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/fa/)
+xfdesktop,972,0,0,216,0,0,1153,972,100.0,Persian (Iran) (http://www.transifex.com/projects/p/xfce/language/fa_IR/)
+xiphos,4597,504,11326,917,140,607,5670,16427,27.984415900651367,LANGUAGE <LL@li.org>
+xplayer,1951,0,35,488,0,12,2121,1986,98.23766364551864,Persian
+xplayer-plparser,28,0,0,7,0,0,27,28,100.0,Persian <farsi@lists.sharif.edu>
+xreader,463,0,1174,145,0,235,502,1637,28.283445326817347,Persian (http://www.transifex.com/mate/MATE/language/fa/)
+xviewer,1652,0,25,322,0,2,1728,1677,98.50924269528922,Persian
+yelp,448,0,0,104,0,0,420,448,100.0,Persian
+yelp-xsl,81,0,0,59,0,0,87,81,100.0,Persian
+yum-rhn-plugin,45,39,210,7,3,24,53,294,15.306122448979592,LANGUAGE <LL@li.org>
+yumex-dnf,0,0,712,0,0,191,0,712,0.0,Persian (http://www.transifex.com/timlau/yumex/language/fa/)
+zabbix,3115,26,12599,1236,2,2025,3853,15740,19.790343074968234,none
+zenity,775,0,0,178,0,0,803,775,100.0,Persian

@@ -1,0 +1,36 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Terminal,1125,15,51,252,8,9,1348,1191,94.45843828715365,urdu <makki.ma@gmail.com>
+Thunar,3497,240,149,620,43,15,3932,3886,89.9897066392177,urdu <makki.ma@gmail.com>
+file-roller,1159,0,0,259,0,0,1332,1159,100.0,Urdu <makki.ma@gmail.com>
+gpicview,219,0,0,44,0,0,309,219,100.0,Urdu <makki.ma@gmail.com>
+libfm,0,0,859,0,0,260,0,859,0.0,LANGUAGE <LL@li.org>
+libxfce4menu,31,0,0,5,0,0,31,31,100.0,Urdu <makki.ma@gmail.com>
+lxdm,0,0,30,0,0,18,0,30,0.0,LANGUAGE <LL@li.org>
+lxlauncher,51,0,0,11,0,0,59,51,100.0,Urdu <makki.ma@gmail.com>
+lxmenu-data,97,0,0,37,0,0,117,97,100.0,Urdu <makki.ma@gmail.com>
+lxmusic,196,0,7,87,0,2,251,203,96.55172413793103,Urdu <makki.ma@gmail.com>
+lxpolkit,0,0,15,0,0,9,0,15,0.0,LANGUAGE <LL@li.org>
+mate-file-archiver,1154,0,0,259,0,0,1332,1154,100.0,Urdu <makki.ma@gmail.com>
+openconnect,0,0,2573,0,0,469,0,2573,0.0,Urdu (Pakistan) (http://www.transifex.net/projects/p/meego/team/ur_PK/)
+orage,1867,111,414,724,34,43,2300,2392,78.05183946488295,urdu <makki.ma@gmail.com>
+osmo,1685,6,8,701,2,2,2193,1699,99.17598587404356,urducoder.com <makkiabufaris@aol.com>
+pgadmin3,1373,7840,5616,552,2108,1269,1615,14829,9.258884617978286,urdu <pgadmin-hackers@postgresql.org>
+spacefm,694,0,7562,223,0,1274,824,8256,8.406007751937985,LANGUAGE <LL@li.org>
+thunar-vfs,335,6,46,66,1,19,384,387,86.56330749354005,urdu <makki.ma@gmail.com>
+xfburn,294,288,718,122,65,96,409,1300,22.615384615384613,Urdu <makki.ma@gmail.com>
+xfce4-cpufreq-plugin,23,0,0,7,0,0,32,23,100.0,Urdu <makki.ma@gmail.com>
+xfce4-datetime-plugin,51,1,0,18,1,0,52,52,98.07692307692307,Urdu <makki.ma@gmail.com>
+xfce4-dict,340,57,105,77,11,21,408,502,67.72908366533864,Urdu <makki.ma@gmail.com>
+xfce4-eyes-plugin,9,0,0,3,0,0,11,9,100.0,Urdu <makki.ma@gmail.com>
+xfce4-fsguard-plugin,56,4,11,16,2,1,60,71,78.87323943661971,Urdu <makki.ma@gmail.com>
+xfce4-genmon-plugin,71,0,0,15,0,0,79,71,100.0,Urdu <makki.ma@gmail.com>
+xfce4-mixer,181,0,0,37,0,0,220,181,100.0,Urdu <makki.ma@gmail.com>
+xfce4-netload-plugin,68,0,0,21,0,0,93,68,100.0,Urdu <makki.ma@gmail.com>
+xfce4-notes-plugin,97,2,12,38,2,7,108,111,87.38738738738738,Urdu <makki.ma@gmail.com>
+xfce4-panel,137,447,920,45,118,181,175,1504,9.10904255319149,urdu <makki.ma@gmail.com>
+xfce4-power-manager,650,36,8,149,5,1,845,694,93.65994236311239,Urdu <makki.ma@gmail.com>
+xfce4-radio-plugin,65,0,0,29,0,0,74,65,100.0,Urdu <makki.ma@gmail.com>
+xfce4-taskmanager,9,22,92,9,12,24,28,123,7.317073170731707,Urdu <makki.ma@gmail.com>
+xfce4-verve-plugin,47,0,0,10,0,0,59,47,100.0,Urdu <makki.ma@gmail.com>
+xfce4-wmdock-plugin,52,0,0,12,0,0,76,52,100.0,Urdu <makki.ma@gmail.com>
+xfwm4,789,15,33,215,7,8,1026,837,94.26523297491039,urdu <makki.ma@gmail.com>

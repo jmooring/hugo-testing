@@ -1,0 +1,87 @@
+---
+title: "kbrickbuster - translation progress for f29"
+package: kbrickbuster
+date: 2026-01-17T20:25:47+00:00
+started_languages: 49
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 49
+release: f29
+---
+The package kbrickbuster (version 18.04.3):
+
+* represents 152 source words to be translated
+* is translated into 49 languages in Fedora f29
+
+
+* contains 49 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ca]({{< ref "/f29/language/ca.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/ca/kbrickbuster.po | 
+ | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/ca@valencia/kbrickbuster.po | 
+ | [da]({{< ref "/f29/language/da.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/da/kbrickbuster.po | 
+ | [de]({{< ref "/f29/language/de.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/de/kbrickbuster.po | 
+ | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/en_GB/kbrickbuster.po | 
+ | [es]({{< ref "/f29/language/es.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/es/kbrickbuster.po | 
+ | [fi]({{< ref "/f29/language/fi.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/fi/kbrickbuster.po | 
+ | [fr]({{< ref "/f29/language/fr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/fr/kbrickbuster.po | 
+ | [gl]({{< ref "/f29/language/gl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/gl/kbrickbuster.po | 
+ | [it]({{< ref "/f29/language/it.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/it/kbrickbuster.po | 
+ | [nl]({{< ref "/f29/language/nl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/nl/kbrickbuster.po | 
+ | [nn]({{< ref "/f29/language/nn.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/nn/kbrickbuster.po | 
+ | [pl]({{< ref "/f29/language/pl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/pl/kbrickbuster.po | 
+ | [pt]({{< ref "/f29/language/pt.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/pt/kbrickbuster.po | 
+ | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/pt_BR/kbrickbuster.po | 
+ | [sk]({{< ref "/f29/language/sk.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/sk/kbrickbuster.po | 
+ | [sl]({{< ref "/f29/language/sl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/sl/kbrickbuster.po | 
+ | [sr]({{< ref "/f29/language/sr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/sr/kbrickbuster.po | 
+ | [sv]({{< ref "/f29/language/sv.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/sv/kbrickbuster.po | 
+ | [tr]({{< ref "/f29/language/tr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/tr/kbrickbuster.po | 
+ | [uk]({{< ref "/f29/language/uk.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/uk/kbrickbuster.po | 
+ | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/zh_CN/kbrickbuster.po | 
+ | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f29/kbrickbuster/po/zh_TW/kbrickbuster.po | 
+ | [el]({{< ref "/f29/language/el.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f29/kbrickbuster/po/el/kbrickbuster.po | 
+ | [et]({{< ref "/f29/language/et.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f29/kbrickbuster/po/et/kbrickbuster.po | 
+ | [hu]({{< ref "/f29/language/hu.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f29/kbrickbuster/po/hu/kbrickbuster.po | 
+ | [ru]({{< ref "/f29/language/ru.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f29/kbrickbuster/po/ru/kbrickbuster.po | 
+ | [cs]({{< ref "/f29/language/cs.md" >}}) | 143 | 152 | 94.1 | /mnt/stockage/packages/f29/kbrickbuster/po/cs/kbrickbuster.po | 
+ | [bs]({{< ref "/f29/language/bs.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f29/kbrickbuster/po/bs/kbrickbuster.po | 
+ | [ga]({{< ref "/f29/language/ga.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f29/kbrickbuster/po/ga/kbrickbuster.po | 
+ | [kk]({{< ref "/f29/language/kk.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f29/kbrickbuster/po/kk/kbrickbuster.po | 
+ | [ko]({{< ref "/f29/language/ko.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f29/kbrickbuster/po/ko/kbrickbuster.po | 
+ | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f29/kbrickbuster/po/nb/kbrickbuster.po | 
+ | [nds]({{< ref "/f29/language/nds.md" >}}) | 142 | 152 | 93.4 | /mnt/stockage/packages/f29/kbrickbuster/po/nds/kbrickbuster.po | 
+ | [bg]({{< ref "/f29/language/bg.md" >}}) | 137 | 152 | 90.1 | /mnt/stockage/packages/f29/kbrickbuster/po/bg/kbrickbuster.po | 
+ | [km]({{< ref "/f29/language/km.md" >}}) | 137 | 152 | 90.1 | /mnt/stockage/packages/f29/kbrickbuster/po/km/kbrickbuster.po | 
+ | [eu]({{< ref "/f29/language/eu.md" >}}) | 126 | 152 | 82.9 | /mnt/stockage/packages/f29/kbrickbuster/po/eu/kbrickbuster.po | 
+ | [ja]({{< ref "/f29/language/ja.md" >}}) | 126 | 152 | 82.9 | /mnt/stockage/packages/f29/kbrickbuster/po/ja/kbrickbuster.po | 
+ | [lv]({{< ref "/f29/language/lv.md" >}}) | 126 | 152 | 82.9 | /mnt/stockage/packages/f29/kbrickbuster/po/lv/kbrickbuster.po | 
+ | [ro]({{< ref "/f29/language/ro.md" >}}) | 119 | 152 | 78.3 | /mnt/stockage/packages/f29/kbrickbuster/po/ro/kbrickbuster.po | 
+ | [wa]({{< ref "/f29/language/wa.md" >}}) | 119 | 152 | 78.3 | /mnt/stockage/packages/f29/kbrickbuster/po/wa/kbrickbuster.po | 
+ | [lt]({{< ref "/f29/language/lt.md" >}}) | 57 | 152 | 37.5 | /mnt/stockage/packages/f29/kbrickbuster/po/lt/kbrickbuster.po | 
+ | [mr]({{< ref "/f29/language/mr.md" >}}) | 42 | 152 | 27.6 | /mnt/stockage/packages/f29/kbrickbuster/po/mr/kbrickbuster.po | 
+ | [ug]({{< ref "/f29/language/ug.md" >}}) | 36 | 152 | 23.7 | /mnt/stockage/packages/f29/kbrickbuster/po/ug/kbrickbuster.po | 
+ | [eo]({{< ref "/f29/language/eo.md" >}}) | 21 | 152 | 13.8 | /mnt/stockage/packages/f29/kbrickbuster/po/eo/kbrickbuster.po | 
+ | [ast]({{< ref "/f29/language/ast.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f29/kbrickbuster/po/ast/kbrickbuster.po | 
+ | [hr]({{< ref "/f29/language/hr.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f29/kbrickbuster/po/hr/kbrickbuster.po | 
+ | [ar]({{< ref "/f29/language/ar.md" >}}) | 0 | 152 | 0.0 | /mnt/stockage/packages/f29/kbrickbuster/po/ar/kbrickbuster.po | 
+ | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 152 | 0.0 | /mnt/stockage/packages/f29/kbrickbuster/po/is/kbrickbuster.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

@@ -1,0 +1,27 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+calibre,145,0,170822,143,0,19188,143,170967,0.08481168880544199,Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+elementary-code,0,0,1614,0,0,290,0,1614,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2490,0,0,551,0,2490,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,788,0,0,179,0,788,0.0,
+elementary-music,0,0,205,0,0,37,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+gala,0,0,249,0,0,51,0,249,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,300,0,0,75,0,300,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,609,4131,11168,449,3045,6776,549,15908,3.828262509429218,Tigrinya <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ti/>
+libreoffice,857,1091,166987,587,895,37009,882,168935,0.5072957054488413,LANGUAGE <LL@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,0,0,216,0,0,49,0,216,0.0,Tigrinya <ti@li.org>
+sugar-toolkit-gtk3,50,20,143,48,11,64,52,213,23.474178403755868,LANGUAGE <LL@li.org>
+wingpanel,0,0,16,0,0,3,0,16,0.0,none

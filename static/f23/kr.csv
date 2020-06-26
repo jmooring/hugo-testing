@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gettext,328,528,858,74,108,128,262,1714,19.1365227537923,LANGUAGE <LL@li.org>
+isomaster,7,1,666,6,1,100,8,674,1.0385756676557862,http://littlesvr.ca/ostd/
+mingw-gettext,328,528,858,74,108,128,262,1714,19.1365227537923,LANGUAGE <LL@li.org>

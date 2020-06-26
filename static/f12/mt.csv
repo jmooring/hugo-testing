@@ -1,0 +1,18 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,10,0,3326,4,0,720,10,3336,0.2997601918465228,Maltese <mt@li.org>
+gstreamer-plugins-bad-free,66,0,6,11,0,1,60,72,91.66666666666666,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer-plugins-good,473,154,123,90,45,45,448,750,63.06666666666667,Maltese <translation-team-mt@lists.sourceforge.net>
+iso-codes,762,5401,6142,640,4400,3577,768,12305,6.192604632263308,Maltese <mt@li.org>
+kdetv,0,0,2206,0,0,483,0,2206,0.0,<en@li.org>
+kiosktool,0,0,2289,0,0,238,0,2289,0.0,<en@li.org>
+krecipes,0,0,3087,0,0,568,0,3087,0.0,<en@li.org>
+kst,2,854,6590,2,386,1424,2,7446,0.026860059092130004,Maltese <mt@li.org>
+libkexif,21,4,0,13,1,0,22,25,84.0,Maltese <mt@li.org>
+oggconvert,145,0,7,41,0,3,135,152,95.39473684210526,Maltese <mt@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+pootle,101,188,2135,55,40,364,107,2424,4.166666666666666,LANGUAGE <LL@li.org>
+showimg,6,60,4239,2,30,847,5,4305,0.13937282229965156,Maltese <mt@li.org>
+stellarium,182,0,2225,104,0,837,178,2407,7.561279601163273,Maltese <mt@li.org>
+sysstat,412,0,0,51,0,0,432,412,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+transmission,21,0,1621,12,0,437,21,1642,1.2789281364190013,Maltese <mt@li.org>
+vidalia,0,0,8645,0,0,926,0,8645,0.0,LANGUAGE <LL@li.org>

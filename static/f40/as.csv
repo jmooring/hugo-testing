@@ -1,0 +1,379 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,4103,4088,100.0,Assamese <kde-i18n-doc@kde.org>
+NetworkManager,4399,5166,19629,749,685,817,4497,29194,15.06816469137494,Assamese <kde-i18n-doc@kde.org>
+NetworkManager-fortisslvpn,6,18,297,4,7,49,8,321,1.8691588785046727,Assamese <>
+NetworkManager-l2tp,79,0,1215,35,0,166,100,1294,6.105100463678516,Assamese <fedora-trans-as@redhat.com>
+NetworkManager-openconnect,54,5,3182,16,2,578,68,3241,1.666152422091947,Assamese <kde-i18n-doc@kde.org>
+NetworkManager-openvpn,59,193,1902,28,34,238,68,2154,2.7390900649953576,Assamese <fedora-trans-as@redhat.com>
+NetworkManager-pptp,66,25,438,25,7,62,79,529,12.476370510396976,Assamese <>
+NetworkManager-ssh,37,36,213,16,13,40,38,286,12.937062937062937,Assamese <fedora-trans-as@redhat.com>
+NetworkManager-sstp,61,42,775,24,15,110,76,878,6.947608200455581,Assamese <>
+NetworkManager-vpnc,139,0,0,36,0,0,153,139,100.0,Assamese <>
+PackageKit,863,0,0,237,0,0,990,863,100.0,Assamese (http://app.transifex.com/freedesktop/packagekit/language/as/)
+abrt,2050,111,1515,258,16,143,2152,3676,55.767138193688794,Assamese (http://www.transifex.com/projects/p/fedora-abrt/language/as/)
+accerciser,598,0,0,221,0,0,636,598,100.0,Assamese <kde-i18n-doc@kde.org>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Assamese (http://www.transifex.com/freedesktop/accountsservice/language/as/)
+aisleriot,3032,0,0,656,0,0,2352,3032,100.0,Assamese <kde-i18n-doc@kde.org>
+alacarte,42,0,0,16,0,0,54,42,100.0,as_IN <kde-i18n-doc@kde.org>
+anaconda,3498,986,3735,722,168,458,3875,8219,42.55992213164619,Assamese <https://translate.fedoraproject.org/projects/anaconda/master/as/>
+anaconda-webui,17,331,718,11,104,93,19,1066,1.594746716697936,Assamese <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/as/>
+android-tools,5033,50,945,810,8,148,5002,6028,83.49369608493696,Assamese
+asunder,16,0,477,14,0,78,16,493,3.2454361054766734,http://littlesvr.ca/ostd/
+at-spi2-core,450,0,0,171,0,0,418,450,100.0,Assamese <kde-i18n-doc@kde.org>
+atril,882,8,3474,293,2,439,993,4364,20.210815765352887,Assamese (https://www.transifex.com/mate/teams/13566/as/)
+baobab,210,0,0,57,0,0,227,210,100.0,American English <kde-i18n-doc@kde.org>
+bijiben,310,0,0,102,0,0,352,310,100.0,Assamese <kde-i18n-doc@kde.org>
+bookworm,275,6,514,79,3,67,294,795,34.59119496855346,Assamese <https://hosted.weblate.org/projects/bookworm/bookworm/as/>
+brasero,5546,0,0,968,0,0,5755,5546,100.0,Assamese <kde-i18n-doc@kde.org>
+budgie-control-center,4120,67,3727,1657,19,850,4520,7914,52.0596411422795,Assamese (https://app.transifex.com/buddiesofbudgie/teams/129844/as/)
+budgie-screensaver,270,0,0,54,0,0,267,270,100.0,as_IN <kde-i18n-doc@kde.org>
+budgie-session,323,0,0,59,0,0,376,323,100.0,Assamese <kde-i18n-doc@kde.org>
+caja,6653,0,3503,1220,0,376,6197,10156,65.50807404489957,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+caja-actions,135,0,18677,82,0,1434,174,18812,0.7176270465660217,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+caja-extensions,122,0,723,54,0,127,131,845,14.437869822485208,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+calamares,247,0,231,50,0,33,266,478,51.67364016736402,Assamese (https://app.transifex.com/calamares/teams/20061/as/)
+caribou,171,0,0,57,0,0,182,171,100.0,Assamese <kde-i18n-doc@kde.org>
+ccsm,115,0,476,22,0,141,120,591,19.4585448392555,Assamese <as@li.org>
+cheese,613,0,0,120,0,0,581,613,100.0,Assamese <kde-i18n-doc@kde.org>
+chkconfig,477,66,54,88,12,9,481,597,79.89949748743719,Assamese <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/as/>
+cinnamon-control-center,1223,67,23,734,19,3,1387,1313,93.14546839299315,Assamese <>
+cinnamon-desktop,234,0,0,32,0,0,240,234,100.0,as_IN <kde-i18n-doc@kde.org>
+cinnamon-translations,1736,0,8517,411,0,1864,1799,10253,16.931629766897494,as_IN <kde-i18n-doc@kde.org>
+clutter,2928,121,8,654,18,3,2396,3057,95.7801766437684,American English <kde-i18n-doc@kde.org>
+cogl,378,0,0,76,0,0,418,378,100.0,as_IN <kde-i18n-doc@kde.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,25,0,363,8,0,91,29,388,6.443298969072164,LANGUAGE <LL@li.org>
+cracklib,90,0,0,15,0,0,80,90,100.0,Assamese <>
+dasher,615,0,0,212,0,0,718,615,100.0,Assamese <>
+dconf-editor,131,39,1294,18,17,152,121,1464,8.94808743169399,Assamese <kde-i18n-doc@kde.org>
+devhelp,443,0,0,107,0,0,426,443,100.0,Assamese <kde-i18n-doc@kde.org>
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-code,0,0,1572,0,0,294,0,1572,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2538,0,0,551,0,2538,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,207,0,0,41,0,207,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+engrampa,1012,0,6887,239,0,644,1083,7899,12.811748322572477,Assamese (https://www.transifex.com/mate/teams/13566/as/)
+eog,1746,0,0,339,0,0,1770,1746,100.0,Assamese <kde-i18n-doc@kde.org>
+eog-plugins,79,0,0,27,0,0,76,79,100.0,Assamese <fedora-trans-as@redhat.com>
+eom,1014,0,3944,252,0,290,1050,4958,20.45179507866075,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+epiphany,2592,0,0,594,0,0,2854,2592,100.0,Assamese <kde-i18n-doc@kde.org>
+evince,1525,0,0,355,0,0,1620,1525,100.0,Assamese <kde-i18n-doc@kde.org>
+evolution,21281,0,0,4435,0,0,22287,21281,100.0,Assamese <kde-i18n-doc@kde.org>
+evolution-data-server,5398,0,0,1074,0,0,5855,5398,100.0,Assamese <kde-i18n-doc@kde.org>
+evolution-ews,1165,0,0,239,0,0,1258,1165,100.0,Assamese <kde-i18n-doc@kde.org>
+evolution-mapi,1036,0,0,232,0,0,1170,1036,100.0,Assamese <kde-i18n-doc@kde.org>
+file-roller,1198,0,0,270,0,0,1309,1198,100.0,Assamese <kde-i18n-doc@kde.org>
+firewalld,1485,10,722,291,1,123,1505,2217,66.98240866035182,Assamese (http://www.transifex.com/projects/p/firewalld/language/as/)
+five-or-more,276,0,0,59,0,0,260,276,100.0,Assamese <kde-i18n-doc@kde.org>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Assamese
+four-in-a-row,109,46,101,41,16,16,135,256,42.578125,Assamese <>
+fprintd,0,0,433,0,0,60,0,433,0.0,Assamese (http://www.transifex.com/freedesktop/fprintd/language/as/)
+gala,0,0,281,0,0,60,0,281,0.0,none
+gconf-editor,336,0,0,98,0,0,403,336,100.0,Assamese <kde-i18n-doc@kde.org>
+gcr,700,0,0,254,0,0,719,700,100.0,Assamese <kde-i18n-doc@kde.org>
+gcr3,700,0,0,254,0,0,719,700,100.0,Assamese <kde-i18n-doc@kde.org>
+gdk-pixbuf2,1360,0,0,203,0,0,1264,1360,100.0,Assamese <kde-i18n-doc@kde.org>
+gdm,619,15,16,81,3,3,593,650,95.23076923076923,American English <kde-i18n-doc@kde.org>
+gedit,4084,0,0,684,0,0,4244,4084,100.0,Assamese <kde-i18n-doc@kde.org>
+gedit-plugins,890,192,123,387,58,24,920,1205,73.85892116182573,Assamese <>
+gftp,2995,0,339,509,0,84,2938,3334,89.83203359328135,Assamese <fedora-trans-as@redhat.com>
+gitg,1154,0,0,206,0,0,1140,1154,100.0,Assamese <kde-i18n-doc@kde.org>
+glib-networking,161,0,0,29,0,0,155,161,100.0,Assamese <kde-i18n-doc@kde.org>
+glib2,5703,0,0,905,0,0,5806,5703,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-abrt,101,4,116,22,2,31,109,221,45.70135746606335,Assamese (http://www.transifex.com/projects/p/gnome-abrt/language/as/)
+gnome-applets,3367,0,0,791,0,0,3140,3367,100.0,Assamese <>
+gnome-bluetooth,308,0,0,101,0,0,336,308,100.0,American English <kde-i18n-doc@kde.org>
+gnome-bluetooth3.34,308,0,0,101,0,0,336,308,100.0,American English <kde-i18n-doc@kde.org>
+gnome-boxes,950,0,0,208,0,0,1050,950,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-calculator,1337,0,0,428,0,0,1364,1337,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-chess,809,272,309,112,81,44,775,1390,58.20143884892086,Assamese <>
+gnome-clocks,223,0,0,77,0,0,237,223,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-color-manager,1792,0,0,342,0,0,1719,1792,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-contacts,405,0,0,155,0,0,467,405,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-control-center,6169,67,23,2188,19,3,6746,6259,98.56207061830963,Assamese <>
+gnome-desktop3,146,0,0,23,0,0,151,146,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-dictionary,841,0,0,180,0,0,830,841,100.0,American English <kde-i18n-doc@kde.org>
+gnome-disk-utility,3423,0,0,632,0,0,3389,3423,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-doc-utils,251,0,0,101,0,0,249,251,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-extensions-app,1485,0,0,374,0,0,1510,1485,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-font-viewer,110,0,0,27,0,0,118,110,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,as_IN <kde-i18n-doc@kde.org>
+gnome-initial-setup,585,0,0,103,0,0,606,585,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-keyring,553,0,0,112,0,0,566,553,100.0,as_IN <kde-i18n-doc@kde.org>
+gnome-klotski,188,0,0,54,0,0,178,188,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-logs,115,0,0,37,0,0,126,115,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-mahjongg,76,45,183,37,13,13,114,304,25.0,Assamese <>
+gnome-maps,224,0,0,46,0,0,229,224,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-menus,70,0,0,27,0,0,68,70,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-mines,94,104,146,26,32,14,76,344,27.325581395348834,Assamese <>
+gnome-music,392,0,0,69,0,0,388,392,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-nettool,664,0,0,219,0,0,716,664,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-nibbles,385,0,0,86,0,0,392,385,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-online-accounts,692,0,0,147,0,0,739,692,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-packagekit,4390,0,0,681,0,0,4239,4390,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-panel,3520,0,0,508,0,0,3294,3520,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-photos,354,0,0,125,0,0,403,354,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-power-manager,480,0,0,147,0,0,454,480,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-robots,384,94,119,69,21,7,399,597,64.321608040201,Assamese <>
+gnome-screenshot,354,0,0,75,0,0,367,354,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-session,323,0,0,59,0,0,376,323,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-settings-daemon,2607,0,0,429,0,0,2511,2607,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-shell,1485,0,0,374,0,0,1510,1485,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-shell-extensions,358,0,0,68,0,0,365,358,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell-frippery,20,0,0,6,0,0,21,20,100.0,
+gnome-software,1043,0,0,383,0,0,1099,1043,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-sound-recorder,253,0,0,65,0,0,261,253,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-sudoku,23,120,256,13,38,21,32,399,5.764411027568922,Assamese <>
+gnome-system-log,420,0,0,66,0,0,400,420,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-system-monitor,1289,0,0,292,0,0,1253,1289,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-terminal,2209,0,0,442,0,0,2268,2209,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-tetravex,34,66,120,16,13,16,43,220,15.454545454545453,Assamese <>
+gnome-themes-extra,24,0,0,9,0,0,23,24,100.0,as_IN <kde-i18n-doc@kde.org>
+gnome-tweaks,380,0,0,137,0,0,421,380,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-user-docs,30614,4795,23177,2407,319,495,27469,58586,52.25480490219506,Assamese <kde-i18n-doc@kde.org>
+gnome-user-share,160,0,0,29,0,0,186,160,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-vfs2,1508,0,0,301,0,0,1391,1508,100.0,Assamese
+gnome-video-effects,256,0,0,68,0,0,238,256,100.0,Assamese <kde-i18n-doc@kde.org>
+gnome-weather,183,0,0,41,0,0,182,183,100.0,Assamese <kde-i18n-doc@kde.org>
+gnote,3592,0,0,543,0,0,3743,3592,100.0,Assamese <kde-i18n-doc@kde.org>
+gnucash,22434,8338,8825,3713,1281,887,21828,39597,56.65580725812561,Assamese <https://hosted.weblate.org/projects/gnucash/gnucash/as/>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,369,0,0,86,0,369,0.0,
+grilo,187,0,0,36,0,0,188,187,100.0,Assamese <kde-i18n-doc@kde.org>
+grilo-plugins,533,0,0,132,0,0,546,533,100.0,Assamese <kde-i18n-doc@kde.org>
+gsettings-desktop-schemas,678,0,3907,69,0,349,574,4585,14.787350054525628,as_IN <kde-i18n-doc@kde.org>
+gtk2,13281,298,125,2719,49,16,12044,13704,96.91330998248687,American English <>
+gtk2-engines,119,0,0,47,0,0,124,119,100.0,Assamese <fedora-trans-as@redhat.com>
+gtk3,14572,0,0,3183,0,0,13128,14572,100.0,Assamese <kde-i18n-doc@kde.org>
+gtk4,3231,0,0,1142,0,0,3574,3231,100.0,Assamese <kde-i18n-doc@kde.org>
+gtkhtml3,488,0,0,310,0,0,674,488,100.0,Assamese <kde-i18n-doc@kde.org>
+gtksourceview2,1120,0,0,448,0,0,1154,1120,100.0,Assamese <>
+gtksourceview3,213,75,34,84,16,6,225,322,66.14906832298136,Assamese <kde-i18n-doc@kde.org>
+gtksourceview4,1900,0,0,809,0,0,1870,1900,100.0,Assamese <kde-i18n-doc@kde.org>
+gtksourceview5,1900,0,0,809,0,0,1870,1900,100.0,Assamese <kde-i18n-doc@kde.org>
+gucharmap,1205,0,0,397,0,0,1188,1205,100.0,American English <kde-i18n-doc@kde.org>
+gvfs,2706,0,0,597,0,0,2858,2706,100.0,Assamese <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hitori,170,0,4,34,0,2,165,174,97.70114942528735,Assamese <kde-i18n-doc@kde.org>
+iagno,34,102,186,16,32,24,42,322,10.559006211180124,Assamese <>
+ibus,902,107,1587,157,18,427,863,2596,34.74576271186441,Assamese <fedora-trans-as@redhat.com>
+im-chooser,229,0,33,52,0,6,221,262,87.40458015267176,as_IN <kde-i18n-doc@kde.org>
+imsettings,440,10,50,80,2,10,432,500,88.0,as_IN <kde-i18n-doc@kde.org>
+initial-setup,33,0,73,7,0,13,33,106,31.132075471698112,Assamese (http://www.transifex.com/projects/p/initial-setup/language/as/)
+initscripts,720,89,353,107,15,42,819,1162,61.96213425129088,Assamese (http://www.transifex.com/projects/p/fedora/language/as/)
+inkscape,18092,14823,16653,4234,4038,2156,20871,49568,36.49935442220787,Hindi <Indlinux>
+iso-codes,1756,85,24,903,26,15,1576,1865,94.15549597855228,Assamese <fedora-trans-as@redhat.com>
+isomaster,24,1,649,20,1,86,36,674,3.5608308605341246,http://littlesvr.ca/ostd/
+json-glib,303,0,0,44,0,0,276,303,100.0,Assamese <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,83,11,100,14,3,5,81,194,42.78350515463917,Assamese <kde-i18n-doc@kde.org>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Assamese <fedora-trans-as@redhat.com>
+kf5-kcmutils,140,77,49,18,17,3,146,266,52.63157894736842,Assamese <fedora-trans-as@redhat.com>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Assamese <fedora-trans-as@redhat.com>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Assamese <fedora-trans-as@redhat.com>
+kf5-kconfigwidgets,109,138,95,63,46,16,193,342,31.871345029239766,Assamese <fedora-trans-as@redhat.com>
+kf5-kcoreaddons,0,306,76,0,89,43,0,382,0.0,Assamese <fedora-trans-as@redhat.com>
+kf5-kdeclarative,12,22,127,6,6,13,14,161,7.453416149068323,Assamese <fedora-trans-as@redhat.com>
+kf5-kdelibs4support,575,844,3934,160,569,1815,643,5353,10.741640201756026,Assamese <fedora-trans-as@redhat.com>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Assamese <fedora-trans-as@redhat.com>
+kf5-knotifyconfig,34,9,86,12,3,2,42,129,26.356589147286826,Assamese <fedora-trans-as@redhat.com>
+kf5-kparts,60,51,27,15,12,3,63,138,43.47826086956522,Assamese <fedora-trans-as@redhat.com>
+kf5-kpty,15,0,0,4,0,0,17,15,100.0,Assamese <fedora-trans-as@redhat.com>
+kf5-kross,80,20,0,27,8,0,78,100,80.0,Assamese <fedora-trans-as@redhat.com>
+kf5-kservice,44,79,50,7,15,6,38,173,25.43352601156069,Assamese <fedora-trans-as@redhat.com>
+kf5-ktextwidgets,295,16,162,99,11,20,373,473,62.36786469344609,Assamese <fedora-trans-as@redhat.com>
+kf5-kwidgetsaddons,0,1014,279,0,422,41,0,1293,0.0,Assamese <fedora-trans-as@redhat.com>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Assamese <fedora-trans-as@redhat.com>
+kf5-kxmlgui,302,401,871,88,111,31,313,1574,19.186785260482846,Assamese <fedora-trans-as@redhat.com>
+kf5-sonnet,0,546,137,0,69,7,0,683,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kauth,0,0,73,0,0,8,0,73,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kcmutils,11,58,54,5,16,5,12,123,8.94308943089431,Assamese <fedora-trans-as@redhat.com>
+kf6-kcodecs,0,55,315,0,36,17,0,370,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kcompletion,0,18,0,0,11,0,0,18,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kconfigwidgets,77,144,91,45,56,16,139,312,24.679487179487182,Assamese <fedora-trans-as@redhat.com>
+kf6-kcoreaddons,0,332,120,0,100,56,0,452,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kdeclarative,7,21,141,3,6,12,8,169,4.142011834319527,Assamese <fedora-trans-as@redhat.com>
+kf6-kdnssd,0,3,0,0,3,0,0,3,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kglobalaccel,0,12,22,0,3,2,0,34,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,Assamese <fedora-trans-as@redhat.com>
+kf6-kitemviews,0,6,0,0,3,0,0,6,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kjobwidgets,0,118,18,0,38,2,0,136,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-knewstuff,1,173,864,1,70,60,2,1038,0.09633911368015415,Assamese <fedora-trans-as@redhat.com>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-knotifyconfig,19,0,0,7,0,0,21,19,100.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kparts,35,15,7,8,2,1,33,57,61.40350877192983,Assamese <fedora-trans-as@redhat.com>
+kf6-kpty,15,0,0,4,0,0,17,15,100.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kservice,4,32,9,2,9,1,4,45,8.88888888888889,Assamese <fedora-trans-as@redhat.com>
+kf6-ktextwidgets,288,23,162,95,15,20,359,473,60.887949260042284,Assamese <fedora-trans-as@redhat.com>
+kf6-kwidgetsaddons,0,1022,255,0,425,41,0,1277,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Assamese <fedora-trans-as@redhat.com>
+kf6-kxmlgui,249,320,705,81,86,29,261,1274,19.5447409733124,Assamese <fedora-trans-as@redhat.com>
+kf6-sonnet,0,542,142,0,69,8,0,684,0.0,Assamese <fedora-trans-as@redhat.com>
+kwin,267,569,2059,70,179,511,305,2895,9.22279792746114,Assamese <fedora-trans-as@redhat.com>
+kwin-x11,267,569,2059,70,179,511,305,2895,9.22279792746114,Assamese <fedora-trans-as@redhat.com>
+libbonobo,543,0,0,107,0,0,559,543,100.0,Assamese
+libbonoboui,368,0,0,115,0,0,411,368,100.0,Assamese
+libcryptui,3012,0,0,654,0,0,3214,3012,100.0,Assamese <kde-i18n-doc@kde.org>
+libdnf,2,0,1662,1,0,237,1,1664,0.1201923076923077,Assamese
+libgdata,695,0,0,85,0,0,656,695,100.0,Assamese <kde-i18n-doc@kde.org>
+libgdl,592,0,0,86,0,0,567,592,100.0,as_IN <kde-i18n-doc@kde.org>
+libgedit-gtksourceview,199,71,49,72,14,8,209,319,62.38244514106584,Assamese <kde-i18n-doc@kde.org>
+libgnome-keyring,44,0,0,9,0,0,43,44,100.0,Assamese <kde-i18n-doc@kde.org>
+libgnomecanvas,378,0,0,95,0,0,378,378,100.0,Assamese <fedora-trans-as@redhat.com>
+libgnomekbd,187,0,0,39,0,0,177,187,100.0,as_IN <kde-i18n-doc@kde.org>
+libgnomeui,1309,0,0,334,0,0,1340,1309,100.0,Assamese
+libgsf,9,0,687,1,0,145,8,696,1.293103448275862,Assamese <kde-i18n-doc@kde.org>
+libgtop2,126,0,0,40,0,0,146,126,100.0,as_IN <kde-i18n-doc@kde.org>
+libgweather,6171,0,0,4576,0,0,6131,6171,100.0,Assamese <kde-i18n-doc@kde.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,174,0,134,41,0,50,179,308,56.493506493506494,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+libmatemixer,12,0,230,11,0,115,13,242,4.958677685950414,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+libmateweather,5949,0,194,4486,0,89,5936,6143,96.84193390851375,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+libmypaint,1,2,2300,1,1,160,1,2303,0.04342162396873643,Assamese <https://hosted.weblate.org/projects/mypaint/libmypaint/as/>
+libnma,304,246,257,82,54,47,326,807,37.67038413878562,Assamese <kde-i18n-doc@kde.org>
+libpeas,110,0,0,31,0,0,125,110,100.0,Assamese <kde-i18n-doc@kde.org>
+libpeas1,110,0,0,31,0,0,125,110,100.0,Assamese <kde-i18n-doc@kde.org>
+libpwquality,333,0,12,50,0,1,276,345,96.52173913043478,Assamese (http://www.transifex.com/projects/p/libpwquality/language/as/)
+libreoffice,60536,13103,97446,19581,4890,14265,63034,171085,35.38358126077681,Assamese <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/as/>
+libreport,2431,39,2458,378,4,221,2595,4928,49.330357142857146,Assamese (http://www.transifex.com/projects/p/libreport/language/as/)
+libsecret,59,0,0,9,0,0,54,59,100.0,Assamese <kde-i18n-doc@kde.org>
+libsoup,110,0,0,25,0,0,119,110,100.0,Assamese <kde-i18n-doc@kde.org>
+libsoup3,110,0,0,25,0,0,119,110,100.0,Assamese <kde-i18n-doc@kde.org>
+libuser,996,38,403,213,7,81,1132,1437,69.31106471816284,Assamese (http://www.transifex.com/projects/p/fedora/language/as/)
+libvirt,30523,18445,20280,5010,2891,2539,32111,69248,44.077807301293895,Assamese (http://www.transifex.com/projects/p/libvirt/language/as/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Assamese (http://www.transifex.com/projects/p/fedora/language/as/)
+libwnck,1124,0,0,241,0,0,1192,1124,100.0,Assamese <fedora-trans-as@redhat.com>
+libwnck3,1068,18,0,230,1,0,1055,1086,98.34254143646409,Assamese <kde-i18n-doc@kde.org>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Assamese (http://www.transifex.com/the_cavalry/light-locker/language/as/)
+lightsoff,102,0,0,17,0,0,97,102,100.0,Assamese <kde-i18n-doc@kde.org>
+lxmenu-data,97,0,0,37,0,0,105,97,100.0,Assamese
+magpie,1837,0,0,238,0,0,1825,1837,100.0,Assamese <kde-i18n-doc@kde.org>
+marco,3133,0,1038,365,0,68,3028,4171,75.1138815631743,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-applets,1845,0,14261,461,0,1194,1744,16106,11.455358251583261,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-backgrounds,26,0,29,18,0,11,29,55,47.27272727272727,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-calc,1265,0,2062,456,0,295,1327,3327,38.02224226029456,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-control-center,2448,11,5801,970,6,551,2820,8260,29.63680387409201,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-desktop,1115,6,1291,174,2,119,1148,2412,46.22719734660033,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-media,120,0,124,53,0,47,166,244,49.18032786885246,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-menu,61,0,247,33,0,77,68,308,19.805194805194805,Assamese (http://www.transifex.com/mate/MATE/language/as/)
+mate-menus,98,0,5,38,0,1,106,103,95.14563106796116,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-notification-daemon,8,0,178,7,0,46,17,186,4.301075268817205,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-panel,3608,2,3143,527,1,294,3533,6753,53.428106026950985,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-polkit,5,0,118,4,0,17,8,123,4.0650406504065035,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-power-manager,1345,3,3775,282,1,269,1043,5123,26.25414796017958,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-screensaver,868,0,233,147,0,29,526,1101,78.83742052679382,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-sensors-applet,23,0,2137,23,0,203,33,2160,1.0648148148148149,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-session-manager,429,0,288,102,0,31,484,717,59.83263598326359,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-settings-daemon,1078,0,1125,181,0,137,1161,2203,48.93327280980481,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-system-monitor,549,0,4345,208,0,453,631,4894,11.21781773600327,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-terminal,3538,0,4700,442,0,323,3573,8238,42.947317310026705,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-themes,9,0,65,3,0,20,11,74,12.162162162162163,Assamese (http://app.transifex.com/mate/MATE/language/as/)
+mate-user-admin,11,0,594,9,0,117,15,605,1.8181818181818181,Assamese (https://www.transifex.com/mate/teams/13566/as/)
+mate-user-guide,141,0,42832,84,0,3144,155,42973,0.3281130011867917,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+mate-utils,3090,0,6811,596,0,475,2984,9901,31.20896879103121,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+metacity,0,0,0,0,0,0,0,0,0.0,
+mingw-GConf2,4088,0,0,497,0,0,4103,4088,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-atk,440,0,0,169,0,0,409,440,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-colord,25,0,363,8,0,91,29,388,6.443298969072164,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,1360,0,0,203,0,0,1264,1360,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-glib-networking,161,0,0,29,0,0,155,161,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-glib2,5703,0,0,905,0,0,5806,5703,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-gsettings-desktop-schemas,678,0,3907,69,0,349,574,4585,14.787350054525628,as_IN <kde-i18n-doc@kde.org>
+mingw-gtk2,13281,298,125,2719,49,16,12044,13704,96.91330998248687,American English <>
+mingw-gtk3,14572,0,0,3183,0,0,13128,14572,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-gtk4,3231,0,0,1142,0,0,3574,3231,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-gtksourceview3,213,75,34,84,16,6,225,322,66.14906832298136,Assamese <kde-i18n-doc@kde.org>
+mingw-json-glib,303,0,0,44,0,0,276,303,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-libsoup,110,0,0,25,0,0,119,110,100.0,Assamese <kde-i18n-doc@kde.org>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Assamese (http://www.transifex.com/freedesktop/p11-kit/language/as/)
+mlocate,406,175,0,50,1,0,413,581,69.87951807228916,Assamese (http://www.transifex.com/projects/p/fedora/language/as/)
+mousetweaks,114,0,0,30,0,0,113,114,100.0,as_IN <kde-i18n-doc@kde.org>
+mozo,41,0,5,20,0,4,60,46,89.13043478260869,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+muffin,1837,0,0,238,0,0,1825,1837,100.0,Assamese <kde-i18n-doc@kde.org>
+multimedia-menus,56,0,0,22,0,0,61,56,100.0,Assamese <kde-i18n-doc@lists.kde.org>
+mutter,1837,0,0,238,0,0,1825,1837,100.0,Assamese <kde-i18n-doc@kde.org>
+mypaint,14,12,6355,13,7,1250,16,6381,0.21940134775113618,Assamese <https://hosted.weblate.org/projects/mypaint/mypaint/as/>
+nautilus,6114,0,0,1030,0,0,6295,6114,100.0,Assamese <kde-i18n-doc@kde.org>
+nemiver,1341,0,0,340,0,0,1420,1341,100.0,Assamese <kde-i18n-doc@kde.org>
+network-manager-applet,1478,1234,1727,383,263,228,1587,4439,33.29578733949088,Assamese <kde-i18n-doc@kde.org>
+newt,4,0,0,4,0,0,5,4,100.0,Assamese <>
+notification-daemon,17,0,0,7,0,0,19,17,100.0,American English <kde-i18n-doc@kde.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+obs-cef,0,0,0,0,0,0,0,0,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+paprefs,51,70,16,8,13,4,58,137,37.22627737226277,Assamese <fedora-trans-as@redhat.com>
+pavucontrol,162,74,630,63,29,87,177,866,18.706697459584294,Assamese <fedora-trans-as@redhat.com>
+pidgin,12556,0,1438,2859,0,332,14595,13994,89.7241675003573,Assamese (http://app.transifex.com/pidgin/pidgin/language/as/)
+pipewire,103,282,262,44,32,32,111,647,15.919629057187018,Assamese <>
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,Assamese <>
+plasma-desktop,68,139,452,13,42,85,66,659,10.318664643399089,Assamese <fedora-trans-as@redhat.com>
+pluma,3828,0,9285,1000,0,1090,4114,13113,29.19240448409975,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+pluma-plugins,139,0,1266,18,0,127,133,1405,9.8932384341637,Assamese (https://app.transifex.com/mate/teams/13566/as/)
+polari,373,0,0,96,0,0,434,373,100.0,Assamese <kde-i18n-doc@kde.org>
+policycoreutils,4894,380,843,788,54,129,4870,6117,80.00653915317967,Assamese
+polkit-gnome,94,0,0,16,0,0,107,94,100.0,as_IN <kde-i18n-doc@kde.org>
+powerdevil,4,36,239,2,11,45,4,279,1.4336917562724014,Assamese <fedora-trans-as@redhat.com>
+publican,1735,67,3641,114,3,499,1606,5443,31.87580378467757,Assamese <>
+pulseaudio,1357,1921,508,341,112,119,1498,3786,35.84257791864765,Assamese <>
+pykickstart,226,43,1359,26,1,153,209,1628,13.882063882063884,Assamese (http://www.transifex.com/projects/p/pykickstart/language/as/)
+python-SecretStorage,59,0,0,9,0,0,54,59,100.0,Assamese <kde-i18n-doc@kde.org>
+python-blivet,355,13,237,62,2,17,382,605,58.67768595041323,Assamese (http://www.transifex.com/projects/p/blivet/language/as/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Assamese
+python-meh,1,0,108,1,0,22,2,109,0.9174311926605505,Assamese (http://www.transifex.com/projects/p/python-meh/language/as/)
+quadrapassel,228,74,126,56,17,6,277,428,53.271028037383175,Assamese <>
+realmd,0,0,833,0,0,134,0,833,0.0,Assamese (http://www.transifex.com/freedesktop/realmd/language/as/)
+redhat-menus,261,0,0,86,0,0,304,261,100.0,Assamese <fedora-trans-as@redhat.com>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+retrace-server,0,0,433,0,0,56,0,433,0.0,Assamese
+rhythmbox,2895,0,1604,836,0,221,2577,4499,64.34763280729051,Assamese <fedora-trans-as@redhat.com>
+rpm-ostree,2,0,1478,1,0,228,1,1480,0.13513513513513514,Assamese
+rygel,1140,0,0,229,0,0,1231,1140,100.0,Assamese <kde-i18n-doc@kde.org>
+seahorse,2486,0,0,570,0,0,2631,2486,100.0,Assamese <kde-i18n-doc@kde.org>
+seahorse-caja,411,10,0,109,1,0,504,421,97.62470308788599,Assamese <kde-i18n-doc@kde.org>
+seahorse-nautilus,411,10,0,109,1,0,504,421,97.62470308788599,Assamese <kde-i18n-doc@kde.org>
+setroubleshoot,522,10,108,148,2,18,567,640,81.5625,Assamese (http://www.transifex.com/projects/p/fedora/language/as/)
+setroubleshoot-plugins,2331,0,3915,119,0,107,2307,6246,37.319884726224785,Assamese (http://www.transifex.com/projects/p/fedora/language/as/)
+setuptool,55,0,0,14,0,0,57,55,100.0,Assamese <fedora-trans-as@redhat.com>
+shared-mime-info,0,0,2266,0,0,871,0,2266,0.0,Assamese (http://app.transifex.com/freedesktop/shared-mime-info/language/as/)
+shotwell,4483,0,0,942,0,0,5047,4483,100.0,"Assamese <kde-i18n-doc@kde.org>
+language/as/)"
+shutter,1,0,2447,1,0,500,5,2448,0.04084967320261438,Assamese <as@li.org>
+sos,54,30,39,11,6,13,64,123,43.90243902439025,Assamese
+sound-juicer,1022,0,0,198,0,0,1075,1022,100.0,Assamese <>
+subscription-manager,1849,724,1829,350,122,220,1892,4402,42.003634711494776,Assamese
+subscription-manager-cockpit,21,63,427,16,26,74,25,511,4.10958904109589,Assamese
+sushi,24,0,0,11,0,0,26,24,100.0,as_IN <kde-i18n-doc@kde.org>
+swell-foop,64,66,136,26,16,13,67,266,24.06015037593985,Assamese <>
+switchdesk,102,0,20,12,0,7,96,122,83.60655737704919,Assamese <fedora-trans-as@redhat.com>
+system-config-language,61,107,47,14,9,8,70,215,28.37209302325581,Assamese <>
+system-config-printer,3028,42,444,725,20,183,3162,3514,86.16960728514513,Assamese (http://www.transifex.com/projects/p/system-config-printer/language/as/)
+system-config-rootpassword,116,0,0,19,0,0,115,116,100.0,Assamese
+system-switch-java,81,0,0,11,0,0,74,81,100.0,Assamese
+system-switch-mail,9,88,4,6,8,3,11,101,8.91089108910891,Assamese <fedora-trans-as@redhat.com>
+tali,421,0,0,95,0,0,389,421,100.0,Assamese <kde-i18n-doc@kde.org>
+tomboy,3278,0,0,471,0,0,3388,3278,100.0,as_IN <kde-i18n-doc@kde.org>
+vinagre,1507,0,0,275,0,0,1499,1507,100.0,American English <kde-i18n-doc@kde.org>
+virt-manager,3540,655,3152,820,122,509,3925,7347,48.18293180890159,Assamese (http://www.transifex.com/projects/p/virt-manager/language/as/)
+virt-top,294,0,121,68,0,16,355,415,70.8433734939759,Assamese <None>
+virt-viewer,251,0,495,54,0,122,266,746,33.64611260053619,Assamese (http://www.transifex.com/projects/p/virt-viewer/language/as/)
+vlc,29793,38,4948,5501,12,772,29548,34779,85.66376261537134,Assamese (India) (https://app.transifex.com/yaron/teams/16553/as_IN/)
+volume_key,745,10,8,151,2,1,798,763,97.64089121887287,Assamese (http://www.transifex.com/projects/p/fedora/language/as/)
+vte,84,0,0,14,0,0,96,84,100.0,Assamese <kde-i18n-doc@kde.org>
+vte291,83,0,0,16,0,0,96,83,100.0,Assamese <kde-i18n-doc@kde.org>
+webkit2gtk4.0,1543,0,0,367,0,0,1583,1543,100.0,Assamese <kde-i18n-doc@kde.org>
+webkitgtk,1543,0,0,367,0,0,1583,1543,100.0,Assamese <kde-i18n-doc@kde.org>
+wingpanel,0,0,57,0,0,10,0,57,0.0,none
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,none
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,
+wireplumber,3,0,0,2,0,0,3,3,100.0,Assamese <>
+xdg-user-dirs,28,0,0,28,0,0,30,28,100.0,Assamese <fedora-trans-as@redhat.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,78,81,100.0,Assamese <>
+xed,2662,0,1113,679,0,249,2761,3775,70.51655629139073,Assamese (http://www.transifex.com/projects/p/MATE/language/as/)
+xreader,834,0,791,222,0,158,908,1625,51.323076923076925,Assamese (http://www.transifex.com/mate/MATE/language/as/)
+yelp,452,0,0,104,0,0,437,452,100.0,Assamese <kde-i18n-doc@kde.org>
+yelp-xsl,81,0,0,59,0,0,81,81,100.0,Assamese <kde-i18n-doc@kde.org>
+zenity,841,0,0,187,0,0,870,841,100.0,Assamese <kde-i18n-doc@kde.org>

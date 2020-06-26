@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+stellarium,0,0,150019,0,0,37619,0,150019,0.0,Karelian (https://www.transifex.com/stellarium/teams/80998/krl/)
+supertuxkart,2417,0,3501,641,0,463,1965,5918,40.841500506928014,Karelian (http://www.transifex.com/supertuxkart/supertuxkart/language/krl/)
+widelands,79,0,71242,46,0,6741,74,71321,0.11076681482312363,Karelian (http://www.transifex.com/widelands/widelands/language/krl/)

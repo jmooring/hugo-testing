@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+clutter,1,0,3056,1,0,674,1,3057,0.03271180896303566,Iranian Azerbaiijani <az-ir@lists.sharif.edu>
+efl,1,0,145,1,0,74,1,146,0.684931506849315,General
+gtk2,7,14,13683,4,12,2768,8,13704,0.051079976649153536,Iranian Azerbaijani <az-ir@lists.sharif.edu>
+gtk3,5,14,11834,3,12,2472,6,11853,0.04218341348181895,Iranian Azerbaijani <az-ir@lists.sharif.edu>
+gtk4,5,14,11834,3,12,2472,6,11853,0.04218341348181895,Iranian Azerbaijani <az-ir@lists.sharif.edu>
+mingw-gtk2,7,14,13683,4,12,2768,8,13704,0.051079976649153536,Iranian Azerbaijani <az-ir@lists.sharif.edu>
+mingw-gtk3,5,14,11834,3,12,2472,6,11853,0.04218341348181895,Iranian Azerbaijani <az-ir@lists.sharif.edu>

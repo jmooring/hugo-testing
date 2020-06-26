@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-menus,71,0,62,33,0,15,77,133,53.383458646616546,
+lxmenu-data,53,5,39,22,2,13,49,97,54.63917525773196,
+mate-menus,71,0,62,33,0,15,77,133,53.383458646616546,
+stellarium,20,0,9266,8,0,2781,21,9286,0.21537798836958863,Guarani <gn@li.org>
+sugar-fototoon,0,0,47,0,0,26,0,47,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,15,0,0,6,0,15,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,107 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+bleachbit,56,0,916,49,0,170,59,972,5.761316872427984,Northern Sami <se@li.org>
+calligra,10064,25,21926,2725,12,3637,8315,32015,31.43526471966266,Northern Sami <i18n-sme@lister.ping.uio.no>
+console-setup,0,169,816,0,28,147,0,985,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+deja-dup,22,0,2081,20,0,317,34,2103,1.0461245839277222,Northern Sami <se@li.org>
+digikam,320,58,42501,195,38,6542,284,42879,0.7462860607756711,Northern Sami <i18n-sme@lister.ping.uio.no>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+harvey,0,0,57,0,0,12,0,57,0.0,none
+kactivitymanagerd,5,0,4,3,0,1,5,9,55.55555555555556,Northern Sami <i18n-sme@lister.ping.uio.no>
+kaudiocreator,7,0,1129,4,0,269,7,1136,0.6161971830985915,Northern Sami <i18n-sme@lister.ping.uio.no>
+kcoloredit,7,1,270,4,1,90,7,278,2.5179856115107913,Northern Sami <i18n-sme@lister.ping.uio.no>
+kde-cli-tools,731,0,1366,112,0,104,554,2097,34.85932284215546,Northern Sami <i18n-sme@lister.ping.uio.no>
+kdevelop,2,0,663,1,0,159,2,665,0.30075187969924816,Northern Sami <i18n-sme@lister.ping.uio.no>
+kexi,41,0,7262,25,0,1458,38,7303,0.5614131178967547,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kbookmarks,0,203,27,0,46,3,0,230,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kcmutils,563,0,0,71,0,0,409,563,100.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kcodecs,0,27,321,0,19,34,0,348,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kconfig,0,35,225,0,4,96,0,260,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kconfigwidgets,304,0,19,110,0,8,270,323,94.11764705882352,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kcoreaddons,0,203,88,0,62,33,0,291,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kdbusaddons,0,0,48,0,0,6,0,48,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kdeclarative,70,24,15,9,1,4,53,109,64.22018348623854,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kdelibs4support,2755,944,1114,1329,629,406,2587,4813,57.24080615001039,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kdesu,19,0,0,7,0,0,18,19,100.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kglobalaccel,0,66,5,0,7,2,0,71,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kholidays,0,0,109,0,0,77,0,109,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-khtml,1692,2,27,302,1,7,1192,1721,98.31493317838465,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-ki18n,42,68,14,42,54,14,50,124,33.87096774193548,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kiconthemes,35,0,0,18,0,0,31,35,100.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kinit,108,23,3,11,2,1,97,134,80.59701492537313,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kio,7413,212,4287,1011,58,252,5656,11912,62.23136333109469,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kjobwidgets,0,141,0,0,45,0,0,141,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kjsembed,242,0,6,43,0,1,214,248,97.58064516129032,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-knewstuff,561,0,128,127,0,30,457,689,81.42235123367199,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-knotifyconfig,86,0,43,16,0,1,60,129,66.66666666666666,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kparts,104,0,0,26,0,0,80,104,100.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kpty,15,0,0,4,0,0,13,15,100.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kross,82,18,0,29,6,0,71,100,82.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kservice,98,33,39,15,9,4,78,170,57.647058823529406,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-ktexteditor,4127,126,4071,724,41,444,3084,8324,49.57952907256127,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-ktextwidgets,447,0,15,116,0,6,385,462,96.75324675324676,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kunitconversion,766,2,4498,263,1,1980,607,5266,14.546145081655906,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kwidgetsaddons,0,947,364,0,338,117,0,1311,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kxmlgui,1317,134,147,202,7,21,1018,1598,82.41551939924906,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-kxmlrpcclient,13,0,0,2,0,0,9,13,100.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-libktorrent,0,0,471,0,0,106,0,471,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-solid,0,0,679,0,0,221,0,679,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-sonnet,0,639,24,0,67,5,0,663,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kf5-syntax-highlighting,0,0,437,0,0,287,0,437,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kgamma,34,0,96,14,0,2,25,130,26.153846153846157,Northern Sami <i18n-sme@lister.ping.uio.no>
+kgrab,0,0,370,0,0,53,0,370,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+khotkeys,97,0,339,33,0,96,77,436,22.24770642201835,Northern Sami <i18n-sme@lister.ping.uio.no>
+kiconedit,54,0,672,32,0,123,44,726,7.43801652892562,Northern Sami <i18n-sme@lister.ping.uio.no>
+kinfocenter,759,0,436,238,0,65,639,1195,63.51464435146443,Northern Sami <i18n-sme@lister.ping.uio.no>
+kjots,4,0,395,3,0,103,3,399,1.0025062656641603,Northern Sami <i18n-sme@lister.ping.uio.no>
+kmenuedit,176,0,101,35,0,26,136,277,63.537906137184116,Northern Sami <i18n-sme@lister.ping.uio.no>
+koffice-kivio,3903,450,4064,1342,141,878,3231,8417,46.37044077462279,Northern Sami <i18n-sme@lister.ping.uio.no>
+kphotoalbum,16,0,9548,13,0,1006,17,9564,0.1672940192388122,Northern Sami <i18n-sme@lister.ping.uio.no>
+kpilot,31,0,7125,24,0,837,31,7156,0.43320290665176076,Northern Sami <i18n-sme@lister.ping.uio.no>
+krita,1839,377,19947,703,217,4765,1565,22163,8.297613139015477,Northern Sami <i18n-sme@lister.ping.uio.no>
+ksig,0,14,71,0,11,15,0,85,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+kstars,132,0,40089,127,0,10240,132,40221,0.32818676810621317,Northern Sami <i18n-sme@lister.ping.uio.no>
+ksysguard,722,0,359,156,0,77,575,1081,66.7900092506938,Northern Sami <i18n-sme@lister.ping.uio.no>
+ktorrent,10,0,7528,6,0,1376,11,7538,0.13266118333775537,Northern Sami <i18n-sme@lister.ping.uio.no>
+kwin,1084,3,3796,262,2,512,837,4883,22.199467540446445,Northern Sami <i18n-sme@lister.ping.uio.no>
+lazarus,98,3,11,43,2,3,81,112,87.5,
+ldm,0,0,55,0,0,19,0,55,0.0,Northern Sami <se@li.org>
+libksysguard,111,0,2665,49,0,175,99,2776,3.9985590778097984,Northern Sami <i18n-sme@lister.ping.uio.no>
+libktorrent,0,0,519,0,0,115,0,519,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+onboard,48,0,2270,46,0,464,48,2318,2.070750647109577,Northern Sami <se@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+plasma-breeze,7,0,140,6,0,60,8,147,4.761904761904762,Northern Sami <i18n-sme@lister.ping.uio.no>
+plasma-desktop,2751,21,6269,580,6,988,2058,9041,30.428049994469635,Northern Sami <i18n-sme@lister.ping.uio.no>
+plasma-oxygen,62,4,725,42,2,239,57,791,7.83817951959545,Northern Sami <i18n-sme@lister.ping.uio.no>
+plasma-sdk,1,0,241,1,0,60,1,242,0.4132231404958678,Northern Sami <i18n-sme@lister.ping.uio.no>
+plasma-systemsettings,8,0,178,5,0,38,7,186,4.301075268817205,Northern Sami <i18n-sme@lister.ping.uio.no>
+plasma-workspace,197,0,5204,60,0,584,165,5401,3.647472690242547,Northern Sami <i18n-sme@lister.ping.uio.no>
+rsibreak,0,0,1098,0,0,153,0,1098,0.0,Northern Sami <i18n-sme@lister.ping.uio.no>
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+simple-scan,29,0,540,22,0,119,33,569,5.0966608084358525,Northern Sami <se@li.org>
+slick-greeter,13,0,198,9,0,38,12,211,6.161137440758294,Northern Sami <se@li.org>
+snownews,759,0,32,154,0,9,792,791,95.95448798988622,
+stellarium,45,0,25888,32,0,6644,34,25933,0.17352408128639185,Northern Sami <se@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+ufw,0,0,879,0,0,181,0,879,0.0,Northern Sami <se@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Northern Sami <se@li.org>

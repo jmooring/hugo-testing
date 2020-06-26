@@ -1,0 +1,62 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,9741,0,0,1204,0,9741,0.0,none
+anerley,5,0,0,5,0,0,5,5,100.0,Lao <lo@li.org>
+authconfig,0,0,1342,0,0,239,0,1342,0.0,none
+bisho,94,0,0,21,0,0,50,94,100.0,Lao <lo@li.org>
+bzr-explorer,1,0,1636,1,0,463,1,1637,0.061087354917532075,Lao <lo@li.org>
+chkconfig,0,0,448,0,0,90,0,448,0.0,none
+compiz,0,0,3250,0,0,717,0,3250,0.0,Lao <i18n@suse.de>
+firstboot,0,0,654,0,0,54,0,654,0.0,none
+gnome-desktop,351,0,0,53,0,0,200,351,100.0,Lao <lo@li.org>
+gnome-desktop3,351,0,0,53,0,0,200,351,100.0,Lao <lo@li.org>
+gwibber,7,0,38,4,0,20,7,45,15.555555555555555,Lao <lo@li.org>
+hornsey,40,4,51,10,3,28,20,95,42.10526315789473,Lao <lo@li.org>
+im-chooser,0,0,213,0,0,48,0,213,0.0,none
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+initscripts,0,0,4349,0,0,1070,0,4349,0.0,none
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+koffice-kivio,2000,1806,4611,597,778,986,1091,8417,23.761435190685518,Vilaphone Manivanh <en@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libmx,16,0,24,9,0,8,10,40,40.0,Lao <lo@li.org>
+libvirt,1098,11343,8105,258,2092,1197,1098,20546,5.34410590869269,none
+meego-panel-zones,3,3,49,2,2,4,3,55,5.454545454545454,Lao <lo@li.org>
+mutter-moblin,106,0,278,58,0,41,85,384,27.604166666666668,Lao <lo@li.org>
+nbtk,19,0,25,12,0,6,13,44,43.18181818181818,Lao <lo@li.org>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pidgin,72,59,18197,30,33,3839,46,18328,0.39284155390659103,Lao <lo@li.org>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,338,0,0,35,0,338,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhn-client-tools,0,0,4820,0,0,454,0,4820,0.0,none
+rhnsd,0,0,42,0,0,10,0,42,0.0,LANGUAGE <LL@li.org>
+setroubleshoot,0,0,563,0,0,168,0,563,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7818,0,0,364,0,7818,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,0,0,305286,0,0,16847,0,305286,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,119,0,0,23,0,119,0.0,none
+system-config-date,0,0,1800,0,0,815,0,1800,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,0,0,2807,0,0,330,0,2807,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-kickstart,0,0,1104,0,0,245,0,1104,0.0,none
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-netboot,10,0,1093,3,0,162,10,1103,0.9066183136899365,none
+system-config-network,0,0,3022,0,0,718,0,3022,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3120,0,0,757,0,3120,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,533,0,0,129,0,533,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,404,0,0,57,0,404,0.0,none
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1456,0,0,174,0,1456,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net
+yum-rhn-plugin,0,0,107,0,0,14,0,107,0.0,LANGUAGE <LL@li.org>

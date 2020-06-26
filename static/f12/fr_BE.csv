@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bazaar,21,0,6503,6,0,402,21,6524,0.3218884120171674,French (Belgium) <fr_BE@li.org>
+intltool,9,0,1,2,0,1,10,10,90.0,NONE <kenneth@gnu.org>
+jpoker,256,20,3,111,10,3,300,279,91.75627240143369,<pokersource-users@gna.org>
+poker-engine,166,21,0,68,6,0,189,187,88.77005347593582,<pokersource-users@gna.org>
+poker-network,771,78,64,152,29,19,732,913,84.44687842278204,<pokersource-users@gna.org>
+poker2d,771,78,64,152,29,19,732,913,84.44687842278204,<pokersource-users@gna.org>
+zarafa,3199,0,184,1007,0,43,3744,3383,94.56104049660064,fr_FR <fr@li.org>

@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+boost,1,0,0,1,0,0,1,1,100.0,
+clementine,0,0,4861,0,0,1290,0,4861,0.0,Hebrew (Israel) (http://www.transifex.com/projects/p/clementine/language/he_IL/)
+horde,209,0,6894,169,0,1763,186,7103,2.9424186963254964,i18n@lists.horde.org
+imp,73,0,5574,60,0,1075,76,5647,1.292721799185408,i18n@lists.horde.org
+konversation,6202,438,4282,1377,67,233,5925,10922,56.7844717084783,Hebrew <kde-i18n-doc@kde.org>
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>

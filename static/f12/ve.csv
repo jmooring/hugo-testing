@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iso-codes,321,7258,10947,276,5985,6777,323,18526,1.7326999892043615,Venda <venda@translate.org.za>
+pootle,24,35,2365,20,23,416,30,2424,0.9900990099009901,LANGUAGE <LL@li.org>
+tuxpaint,548,147,66,149,17,20,570,761,72.01051248357425,LANGUAGE <LL@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+e16,115,0,2713,50,0,477,124,2828,4.066478076379067,Kashubian <csb@li.org>
+exaile,1300,0,2375,447,0,502,1289,3675,35.374149659863946,Kashubian <csb@li.org>
+file-roller,41,0,1514,21,0,319,45,1555,2.636655948553055,Kashubian <csb@li.org>
+gdk-pixbuf2,481,60,813,66,5,131,474,1354,35.524372230428355,Kashubian <csb@li.org>
+gdm,250,15,691,63,5,108,251,956,26.15062761506276,Kashubian <csb@li.org>
+gimp,108,548,12980,51,256,2947,115,13636,0.792021120563215,Kashubian <csb@li.org>
+gnome-applets,848,17,2170,244,6,403,825,3035,27.940691927512358,Kashubian <csb@li.org>
+gnome-desktop3,235,0,0,31,0,0,231,235,100.0,Kashubian <csb@li.org>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Kashubian <csb@li.org>
+gnome-menus,95,0,0,37,0,0,87,95,100.0,Kashubian <csb@li.org>
+gnome-panel,283,10,3455,126,4,400,265,3748,7.550693703308431,Kashubian <csb@li.org>
+gnome-session,447,27,1,92,4,1,413,475,94.10526315789474,Kashubian <csb@li.org>
+k3b,671,99,14346,151,36,1516,668,15116,4.439005027785129,Kashubian <i18n-csb@linuxcsb.org>
+mingw-gdk-pixbuf,481,60,813,66,5,131,474,1354,35.524372230428355,Kashubian <csb@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

@@ -1,0 +1,26 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,5814,3045,1344,851,268,126,8273,10203,56.98324022346368,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+control-center,2626,347,409,571,95,70,3886,3382,77.64636309875813,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+eog,554,5,55,149,2,7,815,614,90.22801302931596,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+firstboot,273,204,121,42,12,5,358,598,45.65217391304348,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gdm,5294,0,0,703,0,0,7606,5294,100.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-desktop,316,4,0,72,1,0,489,320,98.75,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-mime-data,887,0,0,362,0,0,1561,887,100.0,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-panel,3596,232,109,469,28,20,5065,3937,91.33858267716536,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-session,513,3,0,100,1,0,736,516,99.4186046511628,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gnome-vfs2,1263,19,0,247,1,0,1877,1282,98.5179407176287,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gtk2,7068,2288,2736,1320,463,629,10493,12092,58.45186900430036,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+gwenview,14,131,1176,9,61,250,18,1321,1.0598031794095382,Northern Sotho <sepedi@translate.org.za>
+im-chooser,0,0,172,0,0,24,0,172,0.0,none
+iso-codes,365,4727,13124,317,4007,8539,379,18216,2.0037329819938514,Northern Sotho <sepedi@translate.org.za>
+libbonoboui,314,3,43,92,1,20,482,360,87.22222222222223,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libgnomeui,1270,83,66,314,19,12,1765,1419,89.49964763918253,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+libvirt,1290,656,351,308,127,72,1290,2297,56.160208968219415,none
+nautilus,6674,174,128,1171,36,7,8915,6976,95.67087155963303,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,221,6,34,73,2,11,363,261,84.67432950191571,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+rhgb,95,26,0,24,5,0,154,121,78.51239669421489,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>
+setroubleshoot,0,0,507,0,0,136,0,507,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7829,0,0,233,0,7829,0.0,LANGUAGE <LL@li.org>
+yelp,110,67,429,55,33,60,169,606,18.151815181518153,Northern Sotho <translate-discuss-nso@lists.sourceforge.net>

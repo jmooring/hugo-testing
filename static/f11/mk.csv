@@ -1,0 +1,292 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,3236,0,0,1017,0,0,3330,3236,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+GConf2,4004,0,0,477,0,0,4344,4004,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+GConf2-dbus,4017,0,0,479,0,0,4365,4017,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+Miro,2459,0,315,548,0,53,2692,2774,88.64455659697188,Macedonian <mk@li.org>
+NetworkManager,1179,0,0,266,0,0,1324,1179,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-openvpn,323,0,0,90,0,0,375,323,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-pptp,584,0,0,129,0,0,617,584,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+NetworkManager-vpnc,129,0,4,32,0,1,146,133,96.99248120300751,Macedonian <ossm-members@hedona.on.net.mk>
+Thunar,3565,158,142,642,25,18,3996,3865,92.23803363518758,Macedonian <ossm-members@hedona.on.net.mk>
+alacarte,42,0,0,16,0,0,46,42,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+alexandria,1178,0,0,305,0,0,1205,1178,100.0,Macedonian <ufo@linux.net.mk>
+alleyoop,348,0,0,89,0,0,370,348,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+anaconda,5707,2013,1277,777,234,122,6008,8997,63.4322551961765,Macedonian <ossm-members@hedona.on.net.mk>
+anjuta,4666,1279,768,1233,445,117,5285,6713,69.50692685833457,Macedonian <ossm-members@hedona.on.net.mk>
+at-spi,4,0,0,2,0,0,6,4,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+atk,370,1,4,123,1,2,436,375,98.66666666666667,Macedonian <ossm-members@hedona.on.net.mk>
+atomix,146,0,0,59,0,0,162,146,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+audacious,1380,222,776,406,79,200,1605,2378,58.031959629941134,Macedonian <ossm-members@hedona.on.net.mk>
+audacity,1364,373,8896,415,110,1544,1385,10633,12.82798833819242,macedonian <mk@li.org>
+authconfig,1022,148,187,200,21,21,1083,1357,75.31319086219602,Macedonian <en@li.org>
+avant-window-navigator,0,0,593,0,0,140,0,593,0.0,Macedonian <mk@li.org>
+bakery,72,0,0,20,0,0,77,72,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+balsa,1911,331,2686,546,39,600,2121,4928,38.778409090909086,Macedonian <lug@lists.linux.net.mk>
+banshee,3493,874,0,748,243,0,3980,4367,79.9862605907946,Macedonian <ossm-members@hedona.on.net.mk>
+beagle,1285,0,0,357,0,0,1418,1285,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+brasero,5608,0,0,1067,0,0,5908,5608,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+bug-buddy,989,0,0,85,0,0,1005,989,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+camorama,559,0,0,133,0,0,623,559,100.0,Macedonian <mk@li.org>
+cheese,515,0,0,99,0,0,542,515,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+chkconfig,423,9,16,86,2,2,473,448,94.41964285714286,Macedonian <en@li.org>
+compiz,66,0,0,11,0,0,76,66,100.0,Macedonian
+contact-lookup-applet,259,0,0,55,0,0,268,259,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+control-center,2777,0,0,723,0,0,3067,2777,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+dasher,526,0,0,198,0,0,636,526,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+deluge,390,0,1608,176,0,513,392,1998,19.51951951951952,Macedonian <mk@li.org>
+deskbar-applet,1520,0,0,332,0,0,1669,1520,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+devhelp,360,0,0,91,0,0,378,360,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+dia,870,1153,3688,302,619,1125,955,5711,15.233759411661705,<mk@li.org>
+dialog,4,0,21,4,0,19,5,25,16.0,<ossm-members@hedona.on.net.mk>
+eel2,161,0,0,31,0,0,156,161,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+ekiga,5145,0,0,765,0,0,5291,5145,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+empathy,1407,0,0,384,0,0,1503,1407,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+eog,1223,0,0,282,0,0,1280,1223,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+epiphany,4239,0,0,916,0,0,4384,4239,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+evince,1048,0,0,291,0,0,1153,1048,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+evolution,27272,1206,28925,5390,129,1809,28854,57403,47.50971203595631,Macedonian <ossm-members@hedona.on.net.mk>
+evolution-data-server,5018,0,0,1041,0,0,5889,5018,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+evolution-exchange,1330,0,0,195,0,0,1485,1330,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+exaile,295,0,2130,132,0,542,308,2425,12.164948453608247,Macedonian <mk@li.org>
+exo,1103,110,385,226,13,62,1204,1598,69.02377972465582,Macedonian
+f-spot,2799,0,220,804,0,17,3269,3019,92.71281881417688,Macedonian <ossm-members@hedona.on.net.mk>
+file-roller,1211,0,0,273,0,0,1236,1211,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+filezilla,4809,405,2967,1134,34,211,5358,8181,58.78254492115879,Macedonian
+firstboot,231,105,318,16,5,33,224,654,35.321100917431195,Macedonian <ossm-members@hedona.on.net.mk>
+galeon,2809,3,2139,921,1,354,3013,4951,56.736012926681475,Macedonian <lug@lists.linux.net.mk>
+gcalctool,1128,0,0,399,0,0,1246,1128,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gcompris,755,2099,663,182,218,139,728,3517,21.46715951094683,Macedonian <lug@lists.linux.net.mk>
+gconf-editor,335,0,0,99,0,0,377,335,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gdm,1323,0,0,232,0,0,1481,1323,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gedit,4942,0,0,1093,0,0,5304,4942,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gedit-plugins,300,142,2967,64,37,540,298,3409,8.800234672924612,Macedonian <mk@li.org>
+genius,3078,0,0,503,0,0,3135,3078,100.0,<mk@li.org>
+gftp,3375,0,0,634,0,0,3679,3375,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+ggz-base-libs,74,0,0,17,0,0,88,74,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+ggz-gtk-client,773,0,0,244,0,0,848,773,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+ghex,794,0,0,224,0,0,817,794,100.0,Macedonian <lug@lists.linux.net.mk>
+gimp,25975,0,0,6735,0,0,28921,25975,100.0,American English <kde-i18n-doc@lists.kde.org>
+glade2,1239,4039,562,398,745,157,1143,5840,21.215753424657535,Macedonian <lug@lists.linux.net.mk>
+glade3,3207,0,0,871,0,0,3471,3207,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+glib2,2102,79,169,332,15,25,2401,2350,89.44680851063829,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-applets,3029,0,0,682,0,0,3369,3029,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-backgrounds,23,0,0,17,0,0,21,23,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-desktop,285,0,0,71,0,0,307,285,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-do,180,0,290,45,0,74,202,470,38.297872340425535,Macedonian <mk@li.org>
+gnome-doc-utils,238,0,0,92,0,0,242,238,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-games,7524,0,0,1783,0,0,7471,7524,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-icon-theme,43,0,0,38,0,0,47,43,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-keyring,1717,0,0,211,0,0,1672,1717,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-mag,298,0,0,42,0,0,342,298,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-media,1938,0,0,525,0,0,2262,1938,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-menus,165,0,0,58,0,0,192,165,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-mime-data,887,0,0,362,0,0,974,887,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-mount,608,0,0,152,0,0,649,608,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-nettool,573,0,0,197,0,0,634,573,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-panel,4436,26,25,597,11,7,4582,4487,98.86338310675285,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-pilot,0,36,1563,0,35,302,0,1599,0.0,<mk@li.org>
+gnome-pilot-conduits,112,47,50,32,14,4,119,209,53.588516746411486,Macedonian <lug@lists.linux.net.mk>
+gnome-power-manager,3575,0,0,482,0,0,3878,3575,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-screensaver,966,0,0,154,0,0,1035,966,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-session,714,0,0,114,0,0,793,714,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-settings-daemon,1080,0,0,190,0,0,1234,1080,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-system-monitor,913,0,0,238,0,0,1047,913,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-terminal,4529,0,0,483,0,0,4427,4529,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-themes,85,0,0,26,0,0,82,85,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-user-share,61,0,0,13,0,0,62,61,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnome-utils,4174,0,0,739,0,0,4345,4174,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gnome-vfs2,1508,0,0,301,0,0,1578,1508,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnomebaker,220,2,964,81,1,209,251,1186,18.54974704890388,Macedonian <mk@li.org>
+gnomeradio,473,0,0,107,0,0,477,473,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gnumeric,4017,459,41898,1292,128,2334,4445,46374,8.662181394747057,Macedonian <ossm-members@hedona.on.net.mk>
+gok,1950,0,0,440,0,0,2257,1950,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gparted,1274,0,0,279,0,0,1406,1274,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gramps,13202,8125,4554,2319,1665,627,13650,25881,51.01039372512655,Macedonian <FOSS-in-EDU@googlegroups.com>
+gst-mixer,1938,0,0,525,0,0,2262,1938,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+gthumb,2563,0,4,864,0,2,2836,2567,99.84417608102844,Macedonian <ossm-members@hedona.on.net.mk>
+gtk2,11239,1063,626,2056,356,231,11798,12928,86.93533415841584,Macedonian <ossm-members@hedona.on.net.mk>
+gtk2-engines,99,0,0,45,0,0,146,99,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gtkhtml3,921,0,0,399,0,0,979,921,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gtksourceview,891,0,0,366,0,0,1064,891,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gtksourceview2,1018,0,0,388,0,0,1194,1018,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gucharmap,782,0,0,285,0,0,779,782,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+gvfs,1245,0,0,312,0,0,1531,1245,100.0,en_US <kde-i18n-doc@lists.kde.org>
+gwget,269,0,0,103,0,0,336,269,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+hamster-applet,206,0,0,88,0,0,234,206,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+horde,802,0,0,166,0,0,792,802,100.0,Macedonian <i18n@lists.horde.org>
+hwbrowser,107,6,3,47,3,1,119,116,92.24137931034483,Macedonian <ossm-members@hedona.on.net.mk>
+icewm,870,506,0,244,3,0,1012,1376,63.22674418604651,<mk@li.org>
+im-chooser,0,0,152,0,0,34,0,152,0.0,none
+imp,2396,0,0,463,0,0,2256,2396,100.0,Macedonian <i18n@list.horde.org>
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+initscripts,2884,957,328,636,285,70,3116,4169,69.17726073398896,Macedonian <ossm-members@hedona.on.net.mk>
+inkscape,0,4290,19745,0,1885,3095,0,24035,0.0,<mk@li.org>
+iso-codes,1149,2771,8367,522,2499,5592,964,12287,9.351346952063157,Macedonian <ossm-members@hedona.on.net.mk>
+istanbul,304,0,0,37,0,0,314,304,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+jokosher,702,10,1427,138,3,286,714,2139,32.81907433380084,Macedonian <mk@li.org>
+k3b,1434,741,18446,288,184,2058,1542,20621,6.954075942000873,Macedonian <mkde-l10n@lists.sourceforge.net>
+kaffeine,1366,665,323,353,227,78,1725,2354,58.028887000849615,<en@li.org>
+kcoloredit,8,92,178,5,29,61,13,278,2.877697841726619,Macedonian <mkde-l10n@lists.sourceforge.net>
+kde-i18n,119,0,0,11,0,0,40,119,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kiconedit,682,11,33,135,5,15,665,726,93.93939393939394,Macedonian <mkde-l10n@lists.sourceforge.net>
+kmid,476,31,28,186,13,15,513,535,88.97196261682242,Macedonian <mkde-l10n@lists.sourceforge.net>
+konq-plugins,1216,245,137,411,44,61,1380,1598,76.09511889862328,Macedonian <mkde-l10n@lists.sourceforge.net>
+kpilot,972,558,5626,277,167,417,1154,7156,13.583007266629401,Macedonian <mkde-l10n@lists.sourceforge.net>
+ksig,71,2,12,17,1,8,71,85,83.52941176470588,Macedonian <mkde-l10n@lists.sourceforge.net>
+libbonobo,547,0,0,108,0,0,608,547,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libbonoboui,368,0,0,115,0,0,419,368,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgda,0,214,5023,0,99,864,0,5237,0.0,<mk@li.org>
+libgdl,613,0,0,98,0,0,615,613,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+libgnome,1757,0,0,271,0,0,1975,1757,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgnomecanvas,378,0,0,95,0,0,407,378,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgnomecups,11,0,0,10,0,0,11,11,100.0,Macedonian <en@li.org>
+libgnomedb,554,0,0,120,0,0,648,554,100.0,<mk@li.org>
+libgnomekbd,235,0,0,49,0,0,281,235,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgnomeprint22,168,0,0,98,0,0,161,168,100.0,Macedonia <mk@li.org>
+libgnomeprintui22,481,0,0,154,0,0,487,481,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgnomeui,1309,0,0,334,0,0,1441,1309,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgtop2,126,0,0,40,0,0,152,126,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgweather,7284,0,0,4745,0,0,7286,7284,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+liblicense,44,0,22,37,0,13,44,66,66.66666666666666,LANGUAGE <LL@li.org>
+libuser,1026,31,7,218,6,1,1206,1064,96.42857142857143,Macedonian <ossm-members@hedona.on.net.mk>
+libvirt,1942,3960,3511,420,788,626,2277,9413,20.631042175714438,Macedonian <ossm-members@hedona.on.net.mk>
+libwnck,1124,0,0,241,0,0,1296,1124,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+libxfce4util,184,229,0,2,2,0,126,413,44.55205811138014,Macedonian <mkde-l10n@lists.sourceforge.net>
+libxfcegui4,69,17,148,23,7,31,69,234,29.48717948717949,Macedonian <LL@li.org>
+liferea,607,777,1030,148,204,181,644,2414,25.144987572493786,Macedonian <ossm-members@hedona.on.net.mk>
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+metacity,7924,0,0,517,0,0,7550,7924,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+mingw32-atk,370,1,4,123,1,2,436,375,98.66666666666667,Macedonian <ossm-members@hedona.on.net.mk>
+mingw32-glib2,2102,79,169,332,15,25,2401,2350,89.44680851063829,Macedonian <mkde-l10n@lists.sourceforge.net>
+mingw32-gtk2,11239,1063,626,2056,356,231,11798,12928,86.93533415841584,Macedonian <ossm-members@hedona.on.net.mk>
+mingw32-gtkhtml3,921,0,0,399,0,0,979,921,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+moin,4358,44,124,719,8,9,4632,4526,96.28811312417145,
+mousepad,133,0,0,63,0,0,158,133,100.0,Macedonian
+mousetweaks,294,0,0,76,0,0,380,294,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+muine,488,0,0,123,0,0,575,488,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+nautilus,7970,68,106,1288,10,16,8341,8144,97.86345776031435,Macedonian <ossm-members@hedona.on.net.mk>
+nautilus-actions,1132,320,102,135,24,11,1197,1554,72.84427284427284,Macedonian <ossm-members@hedona.on.net.mk>
+nautilus-cd-burner,1315,0,0,213,0,0,1346,1315,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+nautilus-open-terminal,24,0,0,5,0,0,21,24,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+nautilus-sendto,299,0,0,62,0,0,293,299,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+newt,4,0,0,4,0,0,5,4,100.0,<ossm-members@hedona.on.net.mk>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+orage,485,221,1404,254,68,447,479,2110,22.985781990521325,Macedonian <LL@li.org>
+orca,3096,0,0,1089,0,0,3542,3096,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+paperbox,21,0,0,8,0,0,23,21,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+passwd,291,8,0,51,2,0,339,299,97.32441471571906,Macedonian <mk@li.org>
+pessulus,88,0,0,30,0,0,98,88,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+pgadmin3,50,13,8943,42,9,2480,50,9006,0.5551854319342661,LANGUAGE <LL@li.org>
+pidgin,13385,3072,1687,3034,682,271,14849,18144,73.77094356261023,Macedonian <ossm-members@hedona.on.net.mk>
+pidgin-guifications,414,58,33,170,15,7,431,505,81.98019801980197,Macedonian <ossm-members@hedona.on.net.mk>
+planner,315,159,615,135,80,140,327,1089,28.92561983471074,Macedonian <gnomk-main@lists.sourceforge.net>
+poedit,1143,19,0,266,3,0,1309,1162,98.36488812392426,Macedonian <en@li.org>
+policycoreutils,1124,285,2954,186,55,472,1397,4363,25.76209030483612,Macedonian <ossm-members@hedona.on.net.mk>
+pykickstart,225,43,16,19,2,4,229,284,79.22535211267606,Macedonian <ossm-members@hedona.on.net.mk>
+pyroom,17,0,394,6,0,68,18,411,4.13625304136253,Macedonian <mk@li.org>
+redhat-menus,261,0,0,86,0,0,286,261,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+rhn-client-tools,741,736,3343,122,139,193,827,4820,15.37344398340249,Macedonian <ossm-members@hedona.on.net.mk>
+rhnsd,42,0,0,10,0,0,46,42,100.0,Macedonian
+rhpl,185,0,0,80,0,0,181,185,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+rhpxl,111,6,3,40,1,2,126,120,92.5,Macedonian <ossm-members@hedona.on.net.mk>
+rhythmbox,4142,0,0,952,0,0,4598,4142,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+sabayon,1178,0,0,230,0,0,1385,1178,100.0,Macedonian <mk@li.org>
+seahorse,2862,0,0,602,0,0,3188,2862,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+seahorse-plugins,1163,0,0,248,0,0,1404,1163,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+setroubleshoot,0,0,593,0,0,168,0,593,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8276,0,0,247,0,8276,0.0,LANGUAGE <LL@li.org>
+setuptool,60,0,0,17,0,0,75,60,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sound-juicer,996,0,0,195,0,0,1051,996,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+specspo,18997,42046,244251,2638,5024,9188,19600,305294,6.222526482669164,Norwegian/Bokmaal <i18n-nb@lister.ping.uio.no>
+squirrelmail,2270,147,4461,756,12,583,2493,6878,33.00378016865368,Macedonian <squirrelmail-i18n@lists.sourceforge.net>
+stardict,452,1134,854,109,127,225,519,2440,18.524590163934427,Macedonian <gnomk-main@lists.sourceforge.net>
+stellarium,1796,53,590,669,7,260,1962,2439,73.63673636736368,Macedonian <mk@li.org>
+subdownloader,59,0,894,30,0,242,62,953,6.190975865687303,LANGUAGE <LL@li.org>
+sugar,22,6,744,17,2,203,24,772,2.849740932642487,Macedonian <ossm-members@hedona.on.net.mk>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,36,0,16,20,0,7,42,52,69.23076923076923,Macedonian <ossm-members@hedona.on.net.mk>
+sugar-calculator,182,19,415,90,5,53,192,616,29.545454545454547,LANGUAGE <LL@li.org>
+sugar-chat,16,0,5,8,0,2,18,21,76.19047619047619,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,36,31,100.0,LANGUAGE <LL@li.org>
+sugar-distance,78,0,1,15,0,1,88,79,98.73417721518987,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-journal,66,1,1,41,1,1,71,68,97.05882352941177,Macedonian <ossm-members@hedona.on.net.mk>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,90,0,0,31,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,37,1,2,10,1,1,41,40,92.5,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,19,0,6,13,0,3,15,25,76.0,Macedonian <ossm-members@hedona.on.net.mk>
+sugar-record,66,12,59,36,4,33,73,137,48.175182481751825,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,Macedonian
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,69,0,0,42,0,0,72,69,100.0,LANGUAGE <LL@li.org>
+swfdec-gnome,101,0,0,28,0,0,111,101,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+switchdesk,137,0,0,19,0,0,127,137,100.0,none
+synaptic,2504,534,193,589,43,30,2643,3231,77.49922624574435,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-bind,9286,84,49,1050,7,7,9900,9419,98.58796050536151,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-boot,41,0,5,9,0,1,45,46,89.13043478260869,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-date,699,107,232,554,45,18,715,1038,67.34104046242774,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,444,398,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-firewall,60,466,1971,16,64,223,59,2497,2.4028834601521827,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-httpd,816,42,0,204,19,0,878,858,95.1048951048951,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-kdump,243,11,129,31,1,3,265,383,63.44647519582245,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-keyboard,78,0,0,12,0,0,83,78,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-kickstart,985,35,19,258,5,1,1052,1039,94.80269489894128,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-language,45,0,0,10,0,0,46,45,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-lvm,577,451,1114,124,71,141,596,2142,26.937441643323996,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-netboot,882,136,85,137,8,20,933,1103,79.9637352674524,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-network,2458,296,180,623,49,32,2714,2934,83.77641445126108,Macedonian
+system-config-nfs,220,3,109,58,1,13,244,332,66.26506024096386,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,17,638,2351,15,254,401,18,3006,0.5655355954757153,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-rootpassword,15,26,75,3,5,11,15,116,12.931034482758621,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-samba,353,9,60,129,2,6,373,422,83.64928909952607,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,24,0,360,10,0,43,31,384,6.25,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,564,369,404,113,36,23,583,1337,42.183994016454754,Macedonian <ossm-members@hedona.on.net.mk>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,175,134,100.0,Macedonian <info@slobodensoftver.org.mk>
+terminator,213,0,56,80,0,8,232,269,79.182156133829,Macedonian <mk@li.org>
+tomboy,2600,0,0,404,0,0,2853,2600,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+totem,2429,0,0,510,0,0,2509,2429,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+totem-pl-parser,35,0,0,8,0,0,33,35,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+tracker,666,87,105,151,23,23,759,858,77.62237762237763,Macedonian <ossm-members@hedona.on.net.mk>
+transmission,461,0,1181,174,0,275,516,1642,28.07551766138855,Macedonian <mk@li.org>
+turba,400,0,0,91,0,0,397,400,100.0,Macedonian <i18n@lists.horde.org>
+tuxpaint,491,123,147,130,15,41,517,761,64.5203679369251,Macedonian <mk@li.org>
+tuxpaint-stamps,545,242,1830,178,78,370,404,2617,20.825372564004585,Macedonian <mk@li.org>
+usermode,553,9,0,93,1,0,564,562,98.39857651245552,Macedonian <ossm-members@hedona.on.net.mk>
+vinagre,730,0,0,126,0,0,816,730,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+vino,1075,0,0,120,0,0,1157,1075,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+vte,116,0,0,20,0,0,136,116,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+wesnoth,0,0,212636,0,0,13109,0,212636,0.0,mk
+xchat,4882,94,51,1186,32,14,5029,5027,97.11557589019296,Macedonian <ufo@linux.net.mk>
+xchat-gnome,2546,120,1235,706,41,233,2527,3901,65.2653165854909,Macedonian <ufo@linux.net.mk>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Macedonian <ossm-members@hedona.on.net.mk>
+xfce-utils,114,5,12,33,1,2,132,131,87.02290076335878,Macedonian <mkde-l10n@lists.sourceforge.net>
+xfce4-appfinder,2,10,72,2,4,13,2,84,2.380952380952381,Macedonian <mkde-l10n@lists.sourceforge.net>
+xfce4-icon-theme,8,0,0,2,0,0,7,8,100.0,Macedonian
+xfce4-panel,250,184,106,82,53,32,299,540,46.2962962962963,Macedonian <mkde-l10n@lists.sourceforge.net>
+xfce4-places-plugin,7,3,33,5,1,13,8,43,16.27906976744186,
+xfce4-session,390,166,434,89,41,69,435,990,39.39393939393939,Macedonian <LL@li.org>
+xfdesktop,505,132,367,138,50,80,603,1004,50.298804780876495,Macedonian
+xfprint,321,1,0,112,1,0,366,322,99.68944099378882,Macedonian
+xfwm4,140,476,181,57,130,37,186,797,17.565872020075282,Macedonian <mkde-l10n@lists.sourceforge.net>
+xmms,3147,96,200,996,25,24,3370,3443,91.40284635492303,Macedonian <mksoftver@hedona.on.net.mk>
+yelp,1035,0,0,349,0,0,1134,1035,100.0,Macedonian <mkde-l10n@lists.sourceforge.net>
+yum-rhn-plugin,62,0,45,9,0,5,62,107,57.943925233644855,Macedonian
+zenity,582,0,0,135,0,0,598,582,100.0,Macedonian <ossm-members@hedona.on.net.mk>

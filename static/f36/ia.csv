@@ -1,0 +1,448 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+PackageKit,318,0,0,81,0,0,381,318,100.0,Interlingua (http://www.transifex.com/freedesktop/packagekit/language/ia/)
+abrt,402,19,3255,56,5,356,477,3676,10.935799782372143,Interlingua (http://www.transifex.com/projects/p/fedora-abrt/language/ia/)
+accountsservice,59,0,0,10,0,0,80,59,100.0,Interlingua (http://www.transifex.com/freedesktop/accountsservice/language/ia/)
+akonadi-calendar-tools,785,0,0,172,0,0,903,785,100.0,Interlingua <kde-i18n-doc@kde.org>
+akonadi-import-wizard,394,0,0,84,0,0,423,394,100.0,Interlingua <kde-i18n-doc@kde.org>
+akregator,1893,0,0,441,0,0,2179,1893,100.0,Interlingua <kde-i18n-doc@kde.org>
+alligator,169,0,0,76,0,0,194,169,100.0,Interlingua <kde-i18n-doc@kde.org>
+anaconda,2603,531,5105,584,101,685,2970,8239,31.593640004854954,Interlingua (http://www.transifex.com/projects/p/anaconda/language/ia/)
+analitza,78,0,914,46,0,176,81,992,7.862903225806452,Interlingua <kde-i18n-doc@kde.org>
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Interlingua <trans-ia@lists.fedoraproject.org>
+angelfish,532,0,0,129,0,0,597,532,100.0,Interlingua <kde-i18n-doc@kde.org>
+ark,1929,0,0,353,0,0,2083,1929,100.0,Interlingua <kde-i18n-doc@kde.org>
+artikulate,332,0,0,147,0,0,376,332,100.0,Interlingua <kde-i18n-doc@kde.org>
+asunder,7,0,485,7,0,84,9,492,1.4227642276422763,http://littlesvr.ca/ostd/
+atril,134,0,4257,74,0,663,140,4391,3.0516966522432245,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+baloo-widgets,67,0,0,40,0,0,68,67,100.0,Interlingua <kde-i18n-doc@kde.org>
+bison,52,0,0,9,0,0,67,52,100.0,Interlingua <translation-team-ia@lists.sourceforge.net>
+bleachbit,1181,0,662,273,0,82,1421,1843,64.08030385241454,Interlingua <ia@li.org>
+blinken,134,0,0,47,0,0,141,134,100.0,Interlingua <kde-i18n-doc@kde.org>
+blogilo,1351,28,13,327,7,3,1608,1392,97.05459770114942,Interlingua <kde-l10n-ia@kde.org>
+blueberry,166,0,6,37,0,2,185,172,96.51162790697676,Interlingua <ia@li.org>
+bluedevil,535,0,0,191,0,0,569,535,100.0,Interlingua <kde-i18n-doc@kde.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+caja,312,0,9363,178,0,1426,330,9675,3.2248062015503876,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+calindori,550,0,0,186,0,0,593,550,100.0,Interlingua <kde-i18n-doc@kde.org>
+calligra,8162,2717,25073,3818,1025,2966,9441,35952,22.702492211838006,Interlingua <kde-i18n-it@kde.org>
+calligraplan,3966,0,5977,1579,0,586,4606,9943,39.88735794025948,Interlingua <kde-i18n-doc@kde.org>
+cantor,4044,0,0,738,0,0,4579,4044,100.0,Interlingua <kde-i18n-doc@kde.org>
+chkconfig,500,30,63,92,7,9,543,593,84.31703204047217,Interlingua <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/ia/>
+cinnamon-translations,22942,0,332,5121,0,100,26523,23274,98.57351551087051,Interlingua <ia@li.org>
+clementine,42,0,5372,25,0,1398,46,5414,0.7757665312153675,Interlingua (http://www.transifex.com/davidsansome/clementine/language/ia/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+coreutils,270,168,21027,89,43,1688,348,21465,1.257861635220126,Interlingua <translation-team-ia@lists.sourceforge.net>
+cups-pk-helper,149,0,0,22,0,0,158,149,100.0,Interlingua (http://www.transifex.com/freedesktop/cups-pk-helper/language/ia/)
+deja-dup,1,0,1622,1,0,284,9,1623,0.06161429451632779,Interlingua <ia@li.org>
+dialog,25,0,0,23,0,0,25,25,100.0,Interlingua <translation-team-ia@lists.sourceforge.net>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dolphin,5201,0,0,759,0,0,5671,5201,100.0,Interlingua <kde-i18n-doc@kde.org>
+dolphin-plugins,1411,0,0,405,0,0,1739,1411,100.0,Interlingua <kde-i18n-doc@kde.org>
+dragon,273,0,0,88,0,0,292,273,100.0,Interlingua <kde-i18n-doc@kde.org>
+elementary-capnet-assist,0,0,90,0,0,16,0,90,0.0,none
+elementary-code,0,0,1608,0,0,307,0,1608,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,4,2,213,2,1,45,4,219,1.82648401826484,Interlingua <ia@li.org>
+elementary-icon-theme,0,0,263,0,0,72,0,263,0.0,none
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,253,44,908,148,12,194,325,1205,20.99585062240664,Interlingua <https://weblate.elementary.io/projects/music/music/ia/>
+elementary-notifications,0,0,50,0,0,14,0,50,0.0,none
+elementary-photos,6,2,4003,5,1,812,22,4011,0.14958863126402394,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,0,0,26,0,0,4,0,26,0.0,none
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,
+elisa-player,753,0,0,264,0,0,893,753,100.0,Interlingua <kde-i18n-doc@kde.org>
+engrampa,30,0,2019,20,0,408,35,2049,1.4641288433382138,Interlingua (https://app.transifex.com/mate/teams/13566/ia/)
+entangle,0,0,953,0,0,229,0,953,0.0,Interlingua
+eom,21,0,1758,19,0,322,23,1779,1.1804384485666104,Interlingua (https://app.transifex.com/mate/teams/13566/ia/)
+falkon,4394,0,0,1395,0,0,5140,4394,100.0,Interlingua <kde-i18n-doc@kde.org>
+filelight,436,0,0,103,0,0,507,436,100.0,Interlingua <kde-i18n-doc@kde.org>
+firewalld,9,0,2208,4,0,411,13,2217,0.40595399188092013,Interlingua (http://www.transifex.com/projects/p/firewalld/language/ia/)
+fprintd,394,32,7,53,5,2,420,433,90.99307159353349,Interlingua (http://www.transifex.com/freedesktop/fprintd/language/ia/)
+fragments,225,0,1781,128,0,398,252,2006,11.216350947158524,Interlingua (https://www.transifex.com/transmissionbt/teams/33778/ia/)
+gala,0,0,358,0,0,73,0,358,0.0,none
+gdk-pixbuf2,49,173,1126,6,29,167,42,1348,3.635014836795252,Interlingua
+gimagereader,487,22,1308,254,10,218,592,1817,26.802421574023118,Interlingua <https://hosted.weblate.org/projects/gimagereader/translations/ia/>
+glibc,3178,0,0,508,0,0,4063,3178,100.0,Interlingua <translation-team-ia@lists.sourceforge.net>
+gnome-abrt,0,0,221,0,0,55,0,221,0.0,none
+gnome-do,0,0,612,0,0,144,0,612,0.0,Interlingua <ia@li.org>
+gnome-extensions-app,1722,0,0,384,0,0,2002,1722,100.0,Interlingua <trans-ia@lists.fedoraproject.org>
+gnome-initial-setup,316,0,0,75,0,0,351,316,100.0,Interlingua <trans-ia@lists.fedoraproject.org>
+gnome-menus,70,0,0,27,0,0,80,70,100.0,Interlingua
+gnome-shell,1722,0,0,384,0,0,2002,1722,100.0,Interlingua <trans-ia@lists.fedoraproject.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+grantlee-editor,530,0,0,158,0,0,588,530,100.0,Interlingua <kde-i18n-doc@kde.org>
+gtk2,2605,429,9412,869,199,1519,2984,12446,20.930419411859233,Interlingua <trans-ia@lists.fedoraproject.org>
+gtk3,2707,454,8966,933,207,1458,3110,12127,22.322091201451308,Interlingua <trans-ia@lists.fedoraproject.org>
+gtk4,2707,454,8966,933,207,1458,3110,12127,22.322091201451308,Interlingua <trans-ia@lists.fedoraproject.org>
+gwenview,1986,0,0,437,0,0,2175,1986,100.0,Interlingua <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+heaptrack,206,0,1170,77,0,128,207,1376,14.970930232558139,Interlingua <kde-i18n-doc@kde.org>
+ibus,569,94,1653,121,15,431,698,2316,24.568221070811745,Interlingua <trans-ia@lists.fedoraproject.org>
+ikona,156,0,0,50,0,0,178,156,100.0,Interlingua <kde-i18n-it@kde.org>
+initial-setup,20,0,86,1,0,19,20,106,18.867924528301888,Interlingua (http://www.transifex.com/projects/p/initial-setup/language/ia/)
+iso-codes,1385,88,0,589,46,0,1377,1473,94.02579769178547,Interlingua <https://hosted.weblate.org/projects/iso-codes/iso-15924/ia/>
+isoimagewriter,161,58,171,34,9,28,158,390,41.28205128205128,Interlingua <kde-i18n-doc@kde.org>
+isomaster,9,1,664,8,1,98,9,674,1.3353115727002967,http://littlesvr.ca/ostd/
+juk,1526,0,0,362,0,0,1768,1526,100.0,Interlingua <kde-i18n-doc@kde.org>
+k3b,2567,0,17608,950,0,1564,2888,20175,12.72366790582404,Interlingua <kde-i18n-doc@kde.org>
+kaccounts-integration,163,0,0,30,0,0,181,163,100.0,Interlingua <kde-i18n-doc@kde.org>
+kaccounts-providers,101,0,0,38,0,0,127,101,100.0,Interlingua <kde-i18n-doc@kde.org>
+kactivitymanagerd,11,0,0,5,0,0,12,11,100.0,Interlingua <kde-i18n-doc@kde.org>
+kaddressbook,1151,0,0,239,0,0,1266,1151,100.0,Interlingua <kde-i18n-doc@kde.org>
+kalarm,8325,0,0,1218,0,0,9407,8325,100.0,Interlingua <kde-i18n-doc@kde.org>
+kamera,347,0,0,38,0,0,358,347,100.0,Interlingua <kde-i18n-it@kde.org>
+kamoso,142,0,0,41,0,0,146,142,100.0,Interlingua <kde-i18n-doc@kde.org>
+kate,7363,0,294,1761,0,45,8369,7657,96.16037612642026,Interlingua <kde-i18n-doc@kde.org>
+kbackup,689,0,0,135,0,0,741,689,100.0,Interlingua <kde-i18n-doc@kde.org>
+kbibtex,372,0,2109,246,0,483,408,2481,14.993954050785973,Interlingua <kde-i18n-doc@kde.org>
+kcalc,1070,0,0,350,0,0,1160,1070,100.0,Interlingua <kde-i18n-doc@kde.org>
+kcharselect,88,0,0,34,0,0,112,88,100.0,Interlingua <kde-i18n-doc@kde.org>
+kcm_wacomtablet,89,42,933,43,19,181,96,1064,8.364661654135338,Interlingua <kde-i18n-it@kde.org>
+kcolorchooser,29,0,0,10,0,0,31,29,100.0,Interlingua <kde-i18n-it@kde.org>
+kcron,525,0,0,188,0,0,568,525,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdb,675,90,731,132,16,95,858,1496,45.12032085561498,Interlingua <kde-i18n-doc@kde.org>
+kde-cli-tools,2250,0,0,235,0,0,2496,2250,100.0,Interlingua <kde-i18n-doc@kde.org>
+kde-connect,1386,0,0,371,0,0,1520,1386,100.0,Interlingua <kde-i18n-doc@kde.org>
+kde-l10n,81206,52,11894,17000,2,1650,91657,93152,87.17579869460667,Interlingua <kde-i18n-it@kde.org>
+kde-partitionmanager,373,0,1899,237,0,296,429,2272,16.41725352112676,Interlingua <kde-i18n-doc@kde.org>
+kde-print-manager,970,0,0,275,0,0,1080,970,100.0,Interlingua <kde-i18n-doc@kde.org>
+kde-style-breeze,266,0,0,101,0,0,351,266,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdebugsettings,279,0,0,77,0,0,307,279,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdecoration,39,0,0,15,0,0,41,39,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,540,0,237,75,0,24,607,777,69.4980694980695,Interlingua <kde-i18n-doc@kde.org>
+kdepim-addons,4718,0,0,1018,0,0,5052,4718,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdepim-runtime,7538,0,0,1184,0,0,8547,7538,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdeplasma-addons,1899,0,0,680,0,0,2092,1899,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdf,195,0,0,71,0,0,228,195,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdialog,382,0,0,75,0,0,478,382,100.0,Interlingua <kde-i18n-doc@kde.org>
+kdiff3,712,0,2804,275,0,367,778,3516,20.25028441410694,Interlingua <kde-i18n-doc@kde.org>
+kdnssd,30,0,0,7,0,0,33,30,100.0,Interlingua <kde-i18n-doc@kde.org>
+keditbookmarks,466,0,0,132,0,0,588,466,100.0,Interlingua <kde-i18n-doc@kde.org>
+kexi,942,656,5767,480,108,906,1099,7365,12.790224032586558,Interlingua <kde-i18n-it@kde.org>
+keysmith,64,0,161,37,0,19,71,225,28.444444444444443,Interlingua <kde-i18n-doc@kde.org>
+kf5-akonadi-calendar,1982,0,0,327,0,0,2229,1982,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-akonadi-contacts,1472,0,0,313,0,0,1519,1472,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-akonadi-mime,569,0,0,111,0,0,590,569,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-akonadi-search,48,0,0,11,0,0,56,48,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-akonadi-server,2594,0,0,440,0,0,2961,2594,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-audiocd-kio,1003,0,0,210,0,0,1212,1003,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-baloo,847,0,0,176,0,0,962,847,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-calendarsupport,2779,0,0,391,0,0,3095,2779,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-eventviews,2961,0,0,318,0,0,3452,2961,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,20,14,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,2208,0,0,420,0,0,2379,2208,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kalarmcal,204,0,0,104,0,0,252,204,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kauth,73,0,0,8,0,0,87,73,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kblog,243,0,0,27,0,0,296,243,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,301,230,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kcalendarutils,1475,0,0,417,0,0,1636,1475,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kcmutils,266,0,0,38,0,0,290,266,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kcodecs,370,0,0,53,0,0,414,370,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,21,18,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kconfig,289,0,0,104,0,0,355,289,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,342,0,0,125,0,0,423,342,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,233,177,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,382,0,0,132,0,0,403,382,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kdav,185,0,0,20,0,0,194,185,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,55,48,100.0,Interlingua <kde-l10n-ia@kde.org>
+kf5-kdeclarative,161,0,0,25,0,0,183,161,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,5353,0,0,2544,0,0,6262,5353,100.0,Italian <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,77,54,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,20,19,100.0,Interlingua <kde-l10n-ia@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Interlingua <kde-l10n-ia@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,12,8,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kfilemetadata,302,0,0,134,0,0,393,302,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,77,71,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kholidays,150,0,0,97,0,0,164,150,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-khtml,1667,0,0,289,0,0,1858,1667,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-ki18n,124,0,0,110,0,0,122,124,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kiconthemes,41,0,0,19,0,0,43,41,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kidentitymanagement,182,0,0,24,0,0,204,182,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kimap,118,0,0,51,0,0,163,118,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kinit,116,0,0,11,0,0,130,116,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kio,12029,0,0,1372,0,0,13017,12029,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kipi-plugins,913,0,3762,478,0,561,1031,4675,19.52941176470588,Interlingua <kde-i18n-doc@kde.org>
+kf5-kirigami2,108,0,0,46,0,0,120,108,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,10,7,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kitinerary,108,0,0,30,0,0,126,108,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,133,0,0,38,0,0,138,133,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,300,248,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kldap,227,0,0,61,0,0,263,227,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kmailtransport,605,71,0,108,1,0,651,676,89.49704142011834,Interlingua <kde-i18n-doc@kde.org>
+kf5-kmime,159,0,0,10,0,0,164,159,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-knewstuff,816,0,815,196,0,35,959,1631,50.03065603923973,Interlingua <kde-i18n-doc@kde.org>
+kf5-knotifications,21,0,0,8,0,0,24,21,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,144,129,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kpackage,452,0,0,73,0,0,501,452,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kparts,138,0,0,30,0,0,138,138,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kpeople,13,0,0,8,0,0,15,13,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,419,0,0,203,0,0,486,419,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Interlingua <kde-l10n-ia@kde.org>
+kf5-kross,100,0,0,35,0,0,121,100,100.0,Interlingua <kde-l10n-ia@kde.org>
+kf5-kservice,173,0,0,28,0,0,215,173,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-ksmtp,86,0,0,12,0,0,104,86,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-ktexteditor,8579,260,390,1181,58,24,9657,9229,92.95698342182251,Italian <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,473,0,0,130,0,0,532,473,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-ktnef,355,0,0,143,0,0,535,355,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kunitconversion,5757,0,0,2483,0,0,5844,5757,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kwallet,1460,0,0,110,0,0,1627,1460,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-kwidgetsaddons,1293,0,0,463,0,0,1416,1293,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Interlingua <kde-l10n-ia@kde.org>
+kf5-kxmlgui,1574,0,0,230,0,0,1773,1574,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,16,13,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-libgravatar,27,0,0,12,0,0,32,27,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-libkcddb,476,0,0,225,0,0,529,476,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,16,15,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-libkdepim,35,0,0,10,0,0,41,35,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-libkgeomap,25,0,114,14,0,32,35,139,17.985611510791365,Interlingua <kde-i18n-doc@kde.org>
+kf5-libkleo,404,28,1333,182,13,190,464,1765,22.889518413597735,Interlingua <kde-i18n-doc@kde.org>
+kf5-libksane,304,0,0,93,0,0,349,304,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-libksieve,957,0,2164,338,0,199,1103,3121,30.663248958667094,Interlingua <kde-i18n-doc@kde.org>
+kf5-libktorrent,70,0,395,31,0,74,77,465,15.053763440860216,Interlingua <kde-i18n-doc@kde.org>
+kf5-mailcommon,2755,0,0,498,0,0,3036,2755,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-mailimporter,1408,0,0,127,0,0,1641,1408,100.0,Interlingua <kde-i18n-it@kde.org>
+kf5-messagelib,8493,9,7,1391,1,2,9377,8509,99.81196380303209,Interlingua <kde-i18n-doc@kde.org>
+kf5-pimcommon,1252,21,84,329,7,14,1342,1357,92.26234340456891,Interlingua <kde-i18n-doc@kde.org>
+kf5-plasma,362,0,0,105,0,0,423,362,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-purpose,323,0,0,75,0,0,346,323,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-solid,568,0,15,157,0,1,641,583,97.42710120068611,Interlingua <kde-i18n-doc@kde.org>
+kf5-sonnet,683,0,0,76,0,0,715,683,100.0,Interlingua <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,634,0,0,375,0,0,729,634,100.0,Italian <kde-i18n-doc@kde.org>
+kfind,502,0,0,115,0,0,579,502,100.0,Interlingua <kde-i18n-doc@kde.org>
+kfloppy,249,0,392,63,0,37,323,641,38.84555382215289,Interlingua <kde-i18n-doc@kde.org>
+kgamma,130,0,0,16,0,0,149,130,100.0,Interlingua <kde-l10n-ia@kde.org>
+kget,2751,0,0,733,0,0,3031,2751,100.0,Interlingua <kde-i18n-doc@kde.org>
+kgpg,5272,0,0,697,0,0,5912,5272,100.0,Interlingua <kde-i18n-doc@kde.org>
+khelpcenter,265,0,0,90,0,0,322,265,100.0,Interlingua <kde-i18n-doc@kde.org>
+khotkeys,451,0,0,136,0,0,526,451,100.0,Interlingua <kde-i18n-doc@kde.org>
+kile,798,169,12027,528,41,1614,885,12994,6.1412959827612745,Interlingua <kde-l10n-ia@kde.org>
+kinfocenter,775,0,0,377,0,0,925,775,100.0,Interlingua <kde-i18n-doc@kde.org>
+kio-extras,1057,0,0,138,0,0,1298,1057,100.0,Interlingua <kde-i18n-it@kde.org>
+kio-gdrive,76,0,0,18,0,0,97,76,100.0,Interlingua <kde-i18n-doc@kde.org>
+kio_gopher,17,0,0,5,0,0,18,17,100.0,Interlingua <kde-l10n-ia@kde.org>
+kjots,651,0,0,134,0,0,631,651,100.0,Interlingua <kde-i18n-doc@kde.org>
+kleopatra,2139,507,9706,682,158,1016,2607,12352,17.317033678756477,Interlingua <kde-i18n-doc@kde.org>
+kmag,432,0,0,98,0,0,489,432,100.0,Interlingua <kde-i18n-doc@kde.org>
+kmail,8982,87,28,1468,19,7,10069,9097,98.7358469825217,Interlingua <kde-i18n-doc@kde.org>
+kmail-account-wizard,815,0,0,131,0,0,937,815,100.0,Interlingua <kde-i18n-doc@kde.org>
+kmenuedit,285,0,0,67,0,0,308,285,100.0,Interlingua <kde-i18n-doc@kde.org>
+kmix,1092,0,0,211,0,0,1316,1092,100.0,Interlingua <kde-i18n-doc@kde.org>
+kmousetool,147,0,0,32,0,0,158,147,100.0,Interlingua <kde-i18n-doc@kde.org>
+kmouth,1478,18,0,206,2,0,1525,1496,98.79679144385027,Interlingua <kde-i18n-doc@kde.org>
+kmymoney,2837,0,19214,1490,0,2212,3285,22051,12.865629676658655,Interlingua <kde-i18n-doc@kde.org>
+knotes,798,0,0,244,0,0,871,798,100.0,Interlingua <kde-i18n-doc@kde.org>
+kolourpaint,2568,0,0,448,0,0,2821,2568,100.0,Interlingua <kde-i18n-doc@kde.org>
+kongress,151,0,0,58,0,0,171,151,100.0,Interlingua <kde-i18n-doc@kde.org>
+konqueror,8849,0,0,1243,0,0,9753,8849,100.0,Interlingua <kde-i18n-doc@kde.org>
+konsole5,3730,48,144,776,20,31,4219,3922,95.10453850076492,Interlingua <kde-i18n-doc@kde.org>
+kontact,474,3,15,85,1,1,550,492,96.34146341463415,Interlingua <kde-i18n-doc@kde.org>
+konversation,1392,6,8969,626,1,1023,1591,10367,13.42722098967879,Interlingua <kde-i18n-doc@kde.org>
+kopete,18427,0,0,3457,0,0,20837,18427,100.0,Interlingua <kde-i18n-it@kde.org>
+korganizer,6891,21,0,886,1,0,7691,6912,99.69618055555556,Interlingua <kde-i18n-doc@kde.org>
+kphotoalbum,1701,136,7176,576,22,459,1895,9013,18.87273937645623,Interlingua <kde-i18n-doc@kde.org>
+kproperty,120,8,17,71,3,8,130,145,82.75862068965517,Interlingua <kde-i18n-doc@kde.org>
+krdc,1162,0,0,260,0,0,1319,1162,100.0,Interlingua <kde-i18n-doc@kde.org>
+krename,893,0,1249,301,0,151,1011,2142,41.69000933706816,Interlingua <kde-i18n-doc@kde.org>
+kreport,1,281,173,1,159,33,1,455,0.21978021978021978,Interlingua <kde-i18n-it@kde.org>
+krfb,735,0,0,105,0,0,806,735,100.0,Interlingua <kde-i18n-doc@kde.org>
+krita,8955,7783,15865,3837,2395,1730,10509,32603,27.466797533969267,Interlingua <kde-i18n-doc@kde.org>
+kruler,158,0,0,44,0,0,167,158,100.0,Interlingua <kde-i18n-it@kde.org>
+krusader,413,484,7032,239,246,1253,426,7929,5.20872745617354,Interlingua <kde-i18n-doc@kde.org>
+kscreen,419,0,0,79,0,0,455,419,100.0,Interlingua <kde-i18n-doc@kde.org>
+kscreenlocker,245,0,0,31,0,0,270,245,100.0,Interlingua <kde-i18n-doc@kde.org>
+ksshaskpass,51,0,0,15,0,0,57,51,100.0,Interlingua <kde-i18n-doc@kde.org>
+ksysguard,1093,0,0,237,0,0,1211,1093,100.0,Interlingua <kde-i18n-doc@kde.org>
+ksystemlog,3101,0,0,488,0,0,3528,3101,100.0,Interlingua <kde-i18n-doc@kde.org>
+ksystemstats,478,0,0,182,0,0,555,478,100.0,Interlingua <kde-i18n-doc@kde.org>
+kteatime,203,0,0,67,0,0,217,203,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktimer,258,0,0,53,0,0,286,258,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktorrent,862,0,6593,437,0,918,942,7455,11.562709590878605,Interlingua <kde-i18n-doc@kde.org>
+ktouch,505,0,455,180,0,77,582,960,52.604166666666664,Interlingua <kde-i18n-doc@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1327,1100,100.0,Interlingua <kde-l10n-ia@kde.org>
+ktp-approver,71,0,0,18,0,0,85,71,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,100,83,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktp-common-internals,989,0,0,206,0,0,1136,989,100.0,Interlingua <kde-i18n-it@kde.org>
+ktp-contact-list,680,0,0,127,0,0,782,680,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,238,208,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,85,75,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,171,141,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktp-kded-integration-module,490,0,0,59,0,0,564,490,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktp-send-file,60,0,0,18,0,0,61,60,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktp-text-ui,1439,0,0,320,0,0,1620,1439,100.0,Interlingua <kde-i18n-doc@kde.org>
+ktrip,103,0,0,42,0,0,107,103,100.0,Interlingua <kde-i18n-doc@kde.org>
+kuserfeedback,177,0,971,103,0,166,207,1148,15.418118466898957,Interlingua <kde-i18n-doc@kde.org>
+kwalletmanager5,800,0,10,165,0,3,877,810,98.76543209876543,Interlingua <kde-i18n-doc@kde.org>
+kwave,5798,0,0,1305,0,0,6287,5798,100.0,Interlingua <kde-i18n-doc@kde.org>
+kwin,6129,0,0,1230,0,0,6922,6129,100.0,Interlingua <kde-i18n-doc@kde.org>
+kwordquiz,154,2,1902,99,1,315,170,2058,7.482993197278912,Interlingua <kde-i18n-doc@kde.org>
+lagrange,1582,0,0,568,0,0,1978,1582,100.0,
+latte-dock,699,0,2827,380,0,394,754,3526,19.82416335791265,Interlingua <kde-i18n-doc@kde.org>
+libdnf,2,0,1478,1,0,228,2,1480,0.13513513513513514,Interlingua
+libkgapi,374,0,0,84,0,0,516,374,100.0,Interlingua <kde-i18n-doc@kde.org>
+libksysguard,4342,0,0,732,0,0,4936,4342,100.0,Interlingua <kde-i18n-doc@kde.org>
+libmatekbd,3,0,305,3,0,88,3,308,0.974025974025974,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+libmatemixer,2,0,240,2,0,124,2,242,0.8264462809917356,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+libreport,213,11,4704,66,1,536,230,4928,4.32224025974026,Interlingua (http://www.transifex.com/projects/p/libreport/language/ia/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Interlingua <trans-ia@lists.fedoraproject.org>
+lightdm,24,0,139,11,0,10,25,163,14.723926380368098,Interlingua <ia@li.org>
+lightdm-gtk,18,0,71,6,0,19,17,89,20.224719101123593,Interlingua <ia@li.org>
+lightdm-settings,321,0,0,65,0,0,378,321,100.0,Interlingua <ia@li.org>
+lokalize,4086,0,0,677,0,0,4571,4086,100.0,Interlingua <kde-i18n-doc@kde.org>
+lyx,25523,168,141,7264,25,9,29215,25832,98.80380922886343,Interlingua <>
+maliit-keyboard,37,4,40,34,2,25,37,81,45.67901234567901,Interlingua <ia@li.org>
+mate-applets,22,0,10178,22,0,697,40,10200,0.2156862745098039,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-control-center,28,0,3303,25,0,1128,32,3331,0.8405884118883218,Interlingua (https://app.transifex.com/mate/teams/13566/ia/)
+mate-desktop,13,0,2363,7,0,294,17,2376,0.5471380471380471,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-media,12,0,227,8,0,91,13,239,5.02092050209205,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-menu,7,0,301,7,0,103,7,308,2.272727272727273,Interlingua (http://www.transifex.com/mate/MATE/language/ia/)
+mate-menus,62,0,41,28,0,11,70,103,60.19417475728155,Interlingua (https://app.transifex.com/mate/teams/13566/ia/)
+mate-panel,33,0,6750,26,0,789,40,6783,0.4865103936311367,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-power-manager,13,0,5106,13,0,538,17,5119,0.25395585075210003,Interlingua (https://app.transifex.com/mate/teams/13566/ia/)
+mate-screensaver,7,0,1094,4,0,172,9,1101,0.6357856494096277,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-sensors-applet,3,2,2155,3,2,221,5,2160,0.1388888888888889,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-session-manager,21,0,694,10,0,122,22,715,2.937062937062937,Interlingua (https://app.transifex.com/mate/teams/13566/ia/)
+mate-system-monitor,9,0,1503,9,0,310,11,1512,0.5952380952380952,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-terminal,20,0,4699,17,0,526,22,4719,0.42381860563678747,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Interlingua (http://www.transifex.com/mate/MATE/language/ia/)
+mate-user-guide,1,0,5,1,0,2,1,6,16.666666666666664,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mate-utils,63,0,8114,41,0,936,77,8177,0.7704537116301823,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+mbox-importer,40,0,0,13,0,0,48,40,100.0,Interlingua <kde-i18n-doc@kde.org>
+mc,1289,0,3061,447,0,819,1508,4350,29.632183908045977,Interlingua (http://www.transifex.com/mc/mc/language/ia/)
+midori,3541,0,0,796,0,0,4327,3541,100.0,Interlingua <ia@li.org>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Interlingua (http://www.transifex.com/projects/p/freedesktop/language/ia/)
+mingw-gdk-pixbuf,49,173,1126,6,29,167,42,1348,3.635014836795252,Interlingua
+mingw-gtk2,2605,429,9412,869,199,1519,2984,12446,20.930419411859233,Interlingua <trans-ia@lists.fedoraproject.org>
+mingw-gtk3,2707,454,8966,933,207,1458,3110,12127,22.322091201451308,Interlingua <trans-ia@lists.fedoraproject.org>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Interlingua (http://www.transifex.com/freedesktop/p11-kit/language/ia/)
+mozo,2,0,44,2,0,22,2,46,4.3478260869565215,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+nemo-extensions,8,0,0,2,0,0,10,8,100.0,Interlingua <ia@li.org>
+neochat,1234,400,830,424,100,127,1422,2464,50.08116883116883,Interlingua <kde-i18n-doc@kde.org>
+newt,4,0,0,4,0,0,4,4,100.0,Interlingua <trans-ia@lists.fedoraproject.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,580,7,1951,325,2,291,652,2538,22.85263987391647,Interlingua <kde-i18n-doc@kde.org>
+okular,5688,0,11,1231,0,2,6419,5699,99.8069836813476,Interlingua <kde-i18n-doc@kde.org>
+onboard,1582,0,736,429,0,81,1966,2318,68.24849007765314,Interlingua <ia@li.org>
+openbox,506,0,0,94,0,0,589,506,100.0,Interlingua (International Auxiliary Language Association) <trans-ia@lists.fedoraproject.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+p11-kit,0,0,476,0,0,81,0,476,0.0,Interlingua (http://www.transifex.com/freedesktop/p11-kit/language/ia/)
+pam,346,165,24,74,23,3,419,535,64.67289719626169,Interlingua <trans-ia@lists.fedoraproject.org>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,56,0,0,16,0,56,0.0,LANGUAGE <LL@li.org>
+parley,355,0,3078,215,0,514,370,3433,10.340809787357996,Interlingua <kde-i18n-doc@kde.org>
+php-phpmyadmin-sql-parser5,268,0,0,50,0,0,317,268,100.0,Interlingua <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ia/>
+pim-data-exporter,810,0,0,205,0,0,894,810,100.0,Interlingua <kde-i18n-doc@kde.org>
+pim-sieve-editor,435,2,0,116,1,0,478,437,99.54233409610984,Interlingua <kde-i18n-doc@kde.org>
+plasma-breeze,242,0,0,85,0,0,317,242,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-browser-integration,123,0,0,23,0,0,143,123,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-desktop,8634,0,0,1676,0,0,9838,8634,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-dialer,53,0,84,32,0,22,68,137,38.68613138686132,Interlingua <kde-i18n-doc@kde.org>
+plasma-discover,3010,0,0,669,0,0,3324,3010,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-disks,215,0,0,23,0,0,251,215,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-drkonqi,1984,0,0,203,0,0,2187,1984,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-firewall,404,0,0,144,0,0,487,404,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-integration,60,0,0,23,0,0,62,60,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-milou,10,0,0,4,0,0,10,10,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-mobile,406,0,0,148,0,0,504,406,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-nano,37,0,0,12,0,0,47,37,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-nm,5370,0,0,1327,0,0,6102,5370,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-oxygen,802,0,0,293,0,0,1056,802,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-pa,276,0,0,95,0,0,315,276,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-pass,26,0,4,5,0,1,25,30,86.66666666666667,Interlingua <kde-i18n-it@kde.org>
+plasma-sdk,845,0,0,263,0,0,1007,845,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-settings,1321,4,153,769,3,51,1462,1478,89.37753721244925,Interlingua <kde-i18n-doc@kde.org>
+plasma-systemmonitor,565,0,0,184,0,0,603,565,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-systemsettings,212,0,0,54,0,0,254,212,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-thunderbolt,178,0,0,42,0,0,191,178,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-vault,874,0,0,102,0,0,941,874,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-welcome,1054,0,0,75,0,0,1181,1054,100.0,Interlingua <kde-i18n-doc@kde.org>
+plasma-workspace,12864,0,0,3165,0,0,15059,12864,100.0,Interlingua <kde-i18n-doc@kde.org>
+pluma,24,8,5675,23,8,1418,26,5707,0.42053618363413353,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+pluma-plugins,1,0,509,1,0,48,3,510,0.19607843137254902,Interlingua (https://www.transifex.com/mate/teams/13566/ia/)
+plymouth-kcm,112,0,0,24,0,0,130,112,100.0,Interlingua <kde-i18n-doc@kde.org>
+policycoreutils,19,0,12152,18,0,1758,20,12171,0.15610878317311644,Interlingua
+polkit-kde,95,0,0,30,0,0,103,95,100.0,Interlingua <kde-i18n-doc@kde.org>
+powerdevil,669,0,0,143,0,0,766,669,100.0,Interlingua <kde-i18n-doc@kde.org>
+publican,1606,66,3771,90,2,524,1771,5443,29.505787249678484,Interlingua (International Auxiliary Language Association) <trans-ia@lists.fedoraproject.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,186,43,1472,22,1,161,209,1701,10.934744268077601,Interlingua (http://www.transifex.com/projects/p/pykickstart/language/ia/)
+python-blivet,277,0,307,36,0,42,310,584,47.43150684931507,Interlingua (http://www.transifex.com/projects/p/blivet/language/ia/)
+python-django,2499,0,1197,647,0,190,2746,3696,67.61363636363636,Interlingua (http://www.transifex.com/django/django/language/ia/)
+python-django-contrib-comments,233,0,11,58,0,2,260,244,95.49180327868852,Interlingua (http://www.transifex.com/django/django-contrib-comments/language/ia/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Interlingua (http://www.transifex.com/projects/p/django-formtools/language/ia/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django3,2098,0,1572,591,0,239,2284,3670,57.166212534059945,Interlingua (http://www.transifex.com/django/django/language/ia/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Interlingua
+python-hyperkitty,0,0,926,0,0,263,0,926,0.0,LANGUAGE <LL@li.org>
+python-meh,83,0,26,20,0,3,83,109,76.14678899082568,Interlingua (http://www.transifex.com/projects/p/python-meh/language/ia/)
+python-nikola,94,0,0,44,0,0,100,94,100.0,Interlingua (http://www.transifex.com/ralsina/nikola/language/ia/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+realmd,0,0,789,0,0,127,0,789,0.0,Interlingua (http://www.transifex.com/freedesktop/realmd/language/ia/)
+rekonq,2202,0,0,593,0,0,2631,2202,100.0,Interlingua <kde-i18n-doc@kde.org>
+retrace-server,0,0,433,0,0,56,0,433,0.0,none
+rpm-ostree,2,0,1478,1,0,228,2,1480,0.13513513513513514,Interlingua
+rsibreak,46,0,1129,29,0,129,53,1175,3.9148936170212765,Interlingua <kde-i18n-it@kde.org>
+sddm-kcm,184,0,0,41,0,0,217,184,100.0,Interlingua <kde-i18n-doc@kde.org>
+shared-mime-info,1660,0,398,659,0,136,1950,2058,80.66083576287659,Interlingua (http://www.transifex.com/freedesktop/shared-mime-info/language/ia/)
+shotwell,16,0,4034,10,0,828,23,4050,0.39506172839506176,LANGUAGE <LL@li.org>
+shutter,3093,0,0,606,0,0,3726,3093,100.0,Interlingua <ia@li.org>
+simple-scan,81,0,1275,33,0,79,95,1356,5.9734513274336285,Interlingua <ia@li.org>
+skanlite,186,0,0,63,0,0,216,186,100.0,Interlingua <kde-i18n-doc@kde.org>
+skanpage,244,0,0,91,0,0,272,244,100.0,Interlingua <kde-i18n-doc@kde.org>
+skrooge,1293,0,10888,776,0,1724,1423,12181,10.614892044988096,Interlingua <kde-i18n-doc@kde.org>
+slick-greeter,211,0,0,47,0,0,225,211,100.0,Interlingua <ia@li.org>
+smb4k,622,0,5814,319,0,363,761,6436,9.66438781852082,Interlingua <kde-i18n-doc@kde.org>
+snapd,8,0,4299,2,0,479,8,4307,0.1857441374506617,Interlingua <ia@li.org>
+spectacle,969,0,0,198,0,0,1187,969,100.0,Interlingua <kde-i18n-doc@kde.org>
+step,465,0,3795,333,0,661,502,4260,10.915492957746478,Interlingua <kde-i18n-doc@kde.org>
+svgpart,3,0,0,2,0,0,5,3,100.0,Interlingua <kde-l10n-ia@kde.org>
+sweeper,228,0,0,50,0,0,277,228,100.0,Interlingua <kde-i18n-doc@kde.org>
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,none
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,none
+switchboard-plug-display,0,0,182,0,0,62,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,none
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,none
+switchboard-plug-pantheon-shell,0,0,349,0,0,115,0,349,0.0,
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+system-config-language,60,55,100,13,5,13,67,215,27.906976744186046,Interlingua (International Auxiliary Language Association) <trans-ia@lists.fedoraproject.org>
+tellico,5862,0,0,1262,0,0,6470,5862,100.0,Interlingua <kde-i18n-doc@kde.org>
+terminator,221,0,1301,112,0,303,236,1522,14.5203679369251,Interlingua (https://www.transifex.com/terminator/teams/109338/ia/)
+timeshift,2630,0,240,516,0,51,3141,2870,91.63763066202091,Interlingua <ia@li.org>
+transmission,170,0,2271,109,0,476,192,2441,6.964358869315854,Interlingua (https://app.transifex.com/transmissionbt/teams/33778/ia/)
+trojita,816,0,3938,433,0,554,963,4754,17.164493058477074,Interlingua <kde-i18n-doc@kde.org>
+udisks2,482,205,1500,105,27,385,571,2187,22.039323273891178,Interlingua
+umbrello,615,3,5129,416,1,1201,674,5747,10.701235427179398,Interlingua <kde-i18n-doc@kde.org>
+wike,380,0,79,100,0,8,438,459,82.78867102396515,
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,none
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,none
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,none
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,none
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,none
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,none
+xapps,73,0,0,36,0,0,87,73,100.0,Interlingua <ia@li.org>
+xdg-desktop-portal-kde,343,0,0,94,0,0,368,343,100.0,Interlingua <kde-i18n-doc@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Interlingua <translation-team-ia@lists.sourceforge.net>
+xed,3760,0,0,924,0,0,4427,3760,100.0,Interlingua <ia@li.org>
+xreader,1620,0,0,379,0,0,1867,1620,100.0,Interlingua <ia@li.org>
+yakuake,1668,0,0,236,0,0,1829,1668,100.0,Interlingua <kde-i18n-doc@kde.org>
+zanshin,502,0,0,123,0,0,575,502,100.0,Interlingua <kde-i18n-doc@kde.org>

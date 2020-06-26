@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,11697,0,0,2174,0,0,11402,11697,100.0,Serbian <kde-i18n-sr@kde.org>
+kmid2,947,0,0,311,0,0,902,947,100.0,sr <kde-i18n-sr@kde.org>
+knemo,1091,2,4,300,1,2,1033,1097,99.45305378304467,Serbian <kde-i18n-sr@kde.org>

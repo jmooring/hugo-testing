@@ -1,0 +1,9 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+ccsm,399,50,100,101,12,22,424,549,72.6775956284153,Wolof
+iso-codes,1071,13,8,446,4,2,1098,1092,98.07692307692307,Wolof
+newt,4,0,0,4,0,0,4,4,100.0,Wolof
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+pootle,126,192,2106,60,42,357,203,2424,5.198019801980198,LANGUAGE <LL@li.org>
+tuxpaint,469,226,66,137,29,20,541,761,61.62943495400789,
+tuxtype2,71,0,9,32,0,8,87,80,88.75,
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>

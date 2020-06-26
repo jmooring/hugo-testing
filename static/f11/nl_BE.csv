@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bazaar,125,0,6399,39,0,369,125,6524,1.9160024524831392,Dutch (Belgium) <nl_BE@li.org>
+clamtk,677,0,11,201,0,4,733,688,98.40116279069767,LANGUAGE <LL@li.org>
+gnomebaker,117,6,1063,46,1,244,119,1186,9.865092748735245,Dutch (Belgium) <nl_BE@li.org>
+gourmet,1817,11,1698,454,2,335,1837,3526,51.531480431083374,Dutch (Belgium) <nl_BE@li.org>
+phpldapadmin,482,0,2959,117,0,669,445,3441,14.007555943039815,phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net>

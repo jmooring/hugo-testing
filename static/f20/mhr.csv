@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deja-dup,12,0,1812,3,0,297,9,1824,0.6578947368421052,Mari (Meadow) <mhr@li.org>
+lightdm,0,0,79,0,0,17,0,79,0.0,Mari (Meadow) <mhr@li.org>
+lightdm-gtk,17,0,67,9,0,15,19,84,20.238095238095237,Mari (Meadow) <mhr@li.org>
+mintmenu,26,0,906,12,0,154,23,932,2.7896995708154506,Meadow Mari <mhr@li.org>
+pidgin,16426,1818,220,3576,305,48,15108,18464,88.96230502599653,Mari <muter@lists.linux-ink.ru>
+simple-scan,28,0,623,23,0,117,33,651,4.301075268817205,Mari (Meadow) <mhr@li.org>

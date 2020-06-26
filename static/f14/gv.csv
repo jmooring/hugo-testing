@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gdm,807,255,244,175,36,25,969,1306,61.791730474732006,Manx <gv@li.org>
+gnome-menus,84,0,41,36,0,10,92,125,67.2,Manx <gv@li.org>
+gnome-panel,4272,52,180,597,3,12,5014,4504,94.84902309058614,Manx <gv@li.org>
+nautilus,7500,863,521,1269,138,36,9107,8884,84.42143178748312,Manx <gv@li.org>
+stellarium,2,0,1742,1,0,483,2,1744,0.11467889908256881,Manx <gv@li.org>
+transmission,39,0,1469,25,0,422,57,1508,2.586206896551724,Manx <gv@li.org>

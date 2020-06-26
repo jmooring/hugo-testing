@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gtk2,9,8,12743,6,6,2551,10,12760,0.07053291536050156,Iranian Azerbaijani <az-ir@lists.sharif.edu>
+mingw32-gtk2,7,7,12386,4,5,2304,8,12400,0.05645161290322581,Iranian Azerbaijani <az-ir@lists.sharif.edu>

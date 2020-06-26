@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+openerp,57,0,794,57,0,264,62,851,6.698002350176263,Lingala <ln@li.org>
+openerp7,38,0,1089,37,0,262,43,1127,3.3717834960070983,Lingala <ln@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

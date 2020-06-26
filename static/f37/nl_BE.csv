@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bubblemail,0,0,478,0,0,141,0,478,0.0,none
+budgie-desktop,1005,0,658,282,0,137,1005,1663,60.43295249549008,Dutch (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/nl_BE/)
+clamtk,677,0,11,201,0,4,733,688,98.40116279069767,LANGUAGE <LL@li.org>
+dino,575,14,496,173,1,109,565,1085,52.995391705069125,Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/>
+gnome-shell-extension-bubblemail,0,0,98,0,0,27,0,98,0.0,none
+gnome-shell-extension-gsconnect,330,134,326,143,57,59,321,790,41.77215189873418,Dutch <vistausss@outlook.com>
+gtkhash,197,16,0,57,6,0,185,213,92.48826291079813,Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/>
+lollypop,606,0,822,256,0,199,582,1428,42.436974789915965,Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/>
+mc,0,0,4408,0,0,1273,0,4408,0.0,Dutch (Belgium) (http://www.transifex.com/mc/mc/language/nl_BE/)
+picard,386,0,0,258,0,0,334,386,100.0,Dutch (Belgium) (http://app.transifex.com/musicbrainz/musicbrainz/language/nl_BE/)
+siril,19081,1687,1207,2172,78,73,18925,21975,86.83048919226394,Dutch <antoine.hoeffelman[-at-]gmail.com>

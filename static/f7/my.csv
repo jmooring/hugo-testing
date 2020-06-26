@@ -1,0 +1,42 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,10112,0,0,1238,0,10112,0.0,none
+authconfig,0,0,1098,0,0,217,0,1098,0.0,none
+autorun,0,0,307,0,0,40,0,307,0.0,none
+chkconfig,0,0,430,0,0,88,0,430,0.0,none
+firstboot,0,0,598,0,0,59,0,598,0.0,none
+im-chooser,0,0,125,0,0,15,0,125,0.0,none
+initscripts,0,0,3497,0,0,785,0,3497,0.0,none
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kudzu,0,0,73,0,0,13,0,73,0.0,none
+libvirt,1290,678,369,308,133,76,1290,2337,55.198973042362,none
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pidgin,7177,4424,4053,1566,1172,598,7158,15654,45.84770665644564,
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,240,0,0,22,0,240,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhgb,0,0,121,0,0,29,0,121,0.0,none
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+setroubleshoot,0,0,7269,0,0,328,0,7269,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,60,0,0,17,0,60,0.0,none
+specspo,0,0,78167,0,0,4377,0,78167,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9416,0,0,1061,0,9416,0.0,none
+system-config-boot,0,0,41,0,0,9,0,41,0.0,none
+system-config-date,0,0,451,0,0,58,0,451,0.0,none
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-httpd,0,0,866,0,0,225,0,866,0.0,none
+system-config-keyboard,0,0,78,0,0,12,0,78,0.0,none
+system-config-kickstart,0,0,1028,0,0,272,0,1028,0.0,none
+system-config-language,0,0,45,0,0,10,0,45,0.0,none
+system-config-lvm,0,0,2084,0,0,323,0,2084,0.0,none
+system-config-netboot,0,0,1088,0,0,161,0,1088,0.0,none
+system-config-network,0,0,2955,0,0,726,0,2955,0.0,none
+system-config-nfs,0,0,318,0,0,73,0,318,0.0,none
+system-config-printer,0,0,1324,0,0,335,0,1324,0.0,none
+system-config-rootpassword,0,0,50,0,0,9,0,50,0.0,none
+system-config-samba,0,0,423,0,0,138,0,423,0.0,none
+system-config-securitylevel,0,0,1145,0,0,91,0,1145,0.0,none
+system-config-services,0,0,232,0,0,62,0,232,0.0,none
+system-config-soundcard,0,0,224,0,0,51,0,224,0.0,none
+system-config-users,0,0,1031,0,0,158,0,1031,0.0,none
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none

@@ -1,0 +1,29 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+deja-dup,0,0,1623,0,0,285,0,1623,0.0,Chechen <ce@li.org>
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+elementary-code,2,5,1607,1,2,287,2,1614,0.12391573729863693,LANGUAGE <LL@li.org>
+elementary-files,0,0,2490,0,0,551,0,2490,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,788,0,0,179,0,788,0.0,
+elementary-music,0,0,205,0,0,37,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+gala,0,0,249,0,0,51,0,249,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,300,0,0,75,0,300,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,276,17,696,200,6,219,267,989,27.906976744186046,Chechen <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ce/>
+lightdm,0,0,84,0,0,4,0,84,0.0,Chechen <ce@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,0,0,2318,0,0,510,0,2318,0.0,Chechen <ce@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pastebinit,0,0,195,0,0,29,0,195,0.0,Chechen <ce@li.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,11,0,205,6,0,43,14,216,5.092592592592593,Chechen <ce@li.org>
+ufw,0,0,879,0,0,181,0,879,0.0,Chechen <ce@li.org>
+wingpanel,0,0,16,0,0,3,0,16,0.0,none

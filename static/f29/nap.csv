@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,141,0,0,34,0,0,182,141,100.0,Neapolitan <nap@li.org>
+cinnamon-translations,3150,0,5643,779,0,1174,3696,8793,35.823950870010236,Neapolitan <nap@li.org>
+deluge,82,0,2646,20,0,858,89,2728,3.005865102639296,Neapolitan <nap@li.org>
+gnome-do,37,0,575,13,0,131,39,612,6.045751633986928,Neapolitan <nap@li.org>
+lightdm-settings,36,0,235,18,0,41,47,271,13.284132841328415,Neapolitan <nap@li.org>
+midori,429,0,3112,107,0,689,530,3541,12.115221688788477,Neapolitan <nap@li.org>
+peek,33,0,504,16,0,73,35,537,6.145251396648044,Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/>
+slick-greeter,35,0,176,12,0,35,50,211,16.587677725118482,Neapolitan <nap@li.org>
+sugar,0,0,2305,0,0,529,0,2305,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,0,159,0,0,111,0,159,0.0,LANGUAGE <LL@li.org>

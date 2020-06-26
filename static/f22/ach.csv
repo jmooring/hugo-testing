@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Acoli (http://www.transifex.com/projects/p/fedora-abrt/language/ach/)
+certmonger,0,0,1669,0,0,270,0,1669,0.0,Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/)
+initial-setup,0,0,85,0,0,18,0,85,0.0,Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/)
+libreport,0,0,3501,0,0,452,0,3501,0.0,Acoli (http://www.transifex.com/projects/p/libreport/language/ach/)
+mingw-libvirt-glib,0,0,138,0,0,29,0,138,0.0,Acoli (http://www.transifex.com/projects/p/libvirt-glib/language/ach/)
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Acoli (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ach/)
+pykickstart,0,0,448,0,0,50,0,448,0.0,Acoli (http://www.transifex.com/projects/p/pykickstart/language/ach/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/)
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Acoli (http://www.transifex.com/projects/p/system-config-kickstart/language/ach/)
+tuxpaint,1515,72,4,279,8,4,1781,1591,95.22313010685104,
+virt-viewer,0,0,692,0,0,148,0,692,0.0,Acoli (http://www.transifex.com/projects/p/virt-viewer/language/ach/)
+virtaal,1618,35,0,537,7,0,2061,1653,97.88263762855415,LANGUAGE <LL@li.org>

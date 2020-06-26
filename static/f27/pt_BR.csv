@@ -1,0 +1,1626 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,212,0,0,44,0,0,229,212,100.0,Portuguese (Brazil) (http://www.transifex.com/wildfire-games/0ad/language/pt_BR/)
+4Pane,1173,0,11402,276,0,1600,1260,12575,9.328031809145129,Portuguese (Brazil) (http://www.transifex.com/davidgh/4Pane/language/pt_BR/)
+GConf2,4088,0,0,497,0,0,4748,4088,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+LabPlot,6027,548,413,1738,211,135,7381,6988,86.24785346307957,Polish <kde-i18n-pt_BR@kde.org>
+NetworkManager,9204,589,1715,1421,150,140,10305,11508,79.97914494264859,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-fortisslvpn,314,0,0,56,0,0,368,314,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-iodine,80,0,0,25,0,0,94,80,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-l2tp,355,49,379,64,8,58,418,783,45.338441890166024,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-libreswan,240,0,0,46,0,0,299,240,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-openconnect,5286,0,120,929,0,18,6182,5406,97.78024417314096,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-openvpn,1754,0,0,251,0,0,2059,1754,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-pptp,438,0,0,78,0,0,506,438,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-ssh,120,85,81,32,21,16,133,286,41.95804195804196,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-sstp,415,0,0,77,0,0,479,415,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+NetworkManager-vpnc,606,0,0,101,0,0,709,606,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+PackageKit,1249,0,29,315,0,5,1437,1278,97.73082942097027,Portuguese (Brazil) (http://www.transifex.com/freedesktop/packagekit/language/pt_BR/)
+R,17611,8514,11312,2916,1078,1464,19660,37437,47.04169671715148,http://www.feferraz.net/br/P/Projeto_Traducao_R_Portugues
+Thunar,4201,0,0,739,0,0,4471,4201,100.0,Portuguese (Brazil) (https://www.transifex.com/xfce/teams/16840/pt_BR/)
+Zim,2815,0,0,690,0,0,3192,2815,100.0,Brazilian Portuguese <pt_BR@li.org>
+abrt,3969,0,0,476,0,0,4511,3969,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/fedora-abrt/language/pt_BR/)
+accerciser,2131,0,0,320,0,0,2448,2131,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+accountsservice,59,0,0,10,0,0,69,59,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/freedesktop/language/pt_BR/)
+agenda,39,0,4,11,0,2,40,43,90.69767441860465,Brazilian Portuguese <pt_BR@li.org>
+ailurus,5589,0,2689,872,0,381,6346,8278,67.51630828702585,none
+aisleriot,4894,27,17587,770,1,777,5041,22508,21.743380131508797,Português <comsolid3@googlegroups.com>
+akonadi-calendar-tools,723,54,65,160,4,9,829,842,85.86698337292161,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+akonadi-import-wizard,345,46,0,73,10,0,419,391,88.23529411764706,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+akregator,1647,75,43,404,14,8,2076,1765,93.31444759206798,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+alacarte,45,0,0,20,0,0,50,45,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+alexandria,1073,39,69,281,11,14,1155,1181,90.85520745131245,Lígia Moreira <ligia.moreira@netvisao.pt>
+alleyoop,351,0,0,92,0,0,419,351,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+almanah,828,0,0,139,0,0,1031,828,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+amarok,15696,41,82,2777,1,2,18231,15819,99.22245401099943,Polish <kde-i18n-pt_BR@kde.org>
+anaconda,7153,0,224,1180,0,40,7744,7377,96.96353531245764,Portuguese (Brazil) (http://www.transifex.com/projects/p/anaconda/language/pt_BR/)
+analitza,988,0,0,221,0,0,1133,988,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+anjuta,9136,0,9753,2122,0,655,10643,18889,48.36677431309228,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+appcenter,757,0,0,177,0,0,819,757,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/appcenter/appcenter/pt_BR/>
+appeditor,206,0,0,62,0,0,216,206,100.0,
+appstream,853,0,0,191,0,0,968,853,100.0,Portuguese (Brazil) <https://hosted.weblate.org/projects/appstream/translations/pt_BR/>
+apt,2889,389,825,425,26,25,3137,4103,70.41189373629052,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+apt-cacher-ng,394,0,0,25,0,0,430,394,100.0,Brazilian Portuguese <debian-l10n-portuguese@lists.debian.org>
+arandr,173,0,0,38,0,0,174,173,100.0,Portuguese (Brazil) <https://hosted.weblate.org/projects/arandr/translations/pt_BR/>
+arduino,3089,0,4,589,0,1,3426,3093,99.8706757193663,Portuguese (Brazil) (http://www.transifex.com/mbanzi/arduino-ide-15/language/pt_BR/)
+aria2,7447,0,0,397,0,0,7966,7447,100.0,Brazilian Portuguese <pt_BR@li.org>
+ark,1340,204,306,269,33,33,1455,1850,72.43243243243244,Portuguese <kde-i18n-pt_BR@kde.org>
+arm-none-eabi-binutils-cs,921,0,0,179,0,0,1057,921,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+arm-none-eabi-gcc-cs,1342,0,0,213,0,0,1560,1342,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+arm-none-eabi-gdb,434,0,0,86,0,0,500,434,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+artikulate,436,0,0,156,0,0,516,436,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+aspell,434,300,992,88,48,157,406,1726,25.14484356894554,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+asunder,429,27,39,78,3,10,495,495,86.66666666666667,Pt-Br <f@gmail.com>
+at-spi2-core,10,0,0,2,0,0,12,10,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+atk,440,0,0,169,0,0,529,440,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.com>
+atomix,208,0,0,60,0,0,231,208,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+atril,3710,0,0,625,0,0,4251,3710,100.0,Portuguese <mate-l10n-br@listas.cipsga.org.br>
+audacious,737,0,23,322,0,4,883,760,96.97368421052632,Portuguese (Brazil) (http://www.transifex.com/audacious/audacious/language/pt_BR/)
+audacious-plugins,3513,0,421,856,0,32,3900,3934,89.2984239959329,Portuguese (Brazil) (http://www.transifex.com/audacious/audacious/language/pt_BR/)
+audacity,12241,2574,1776,2834,661,280,14093,16591,73.78096558375023,"Cleber Tavano (2002-2017), Victor Westmann, Djavan Fagundes (2010), Flávio Salgado Moreira (2014), J.Nylson (2016) <clebertavano@gmail.com>"
+audex,3347,0,0,412,0,0,3946,3347,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+audience,182,0,0,62,0,0,245,182,100.0,Brazilian Portuguese <pt_BR@li.org>
+audit-viewer,611,0,0,185,0,0,687,611,100.0,LANGUAGE <LL@li.org>
+authconfig,879,16,34,130,2,5,1033,929,94.6178686759957,Portuguese (Brazil) (http://www.transifex.com/projects/p/authconfig/language/pt_BR/)
+autotest-framework,983,0,0,89,0,0,1069,983,100.0,Brazilian Portuguese <pt_BR@li.org>
+avahi,865,2,1,165,2,1,1009,868,99.65437788018433,Portuguese (Brazil) (http://www.transifex.com/lennart/avahi/language/pt_BR/)
+avogadro,3752,0,2855,1511,0,861,4722,6607,56.78825488118662,Brazilian Portuguese <pt_BR@li.org>
+avr-binutils,921,0,0,179,0,0,1057,921,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+avr-gcc,1342,0,0,213,0,0,1560,1342,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+avr-gdb,434,0,0,86,0,0,500,434,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+axel,283,260,0,66,7,0,333,543,52.117863720073665,Brazilian Portuguese
+ayttm,1888,535,489,478,113,59,1926,2912,64.83516483516483,Portuguese <pt_BR@li.org>
+backintime,1154,0,829,262,0,74,1317,1983,58.194654563792234,Brazilian Portuguese <pt_BR@li.org>
+bakery,134,0,0,37,0,0,143,134,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+baloo-widgets,412,0,0,125,0,0,428,412,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+balsa,5547,0,0,1304,0,0,6557,5547,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+banshee,11779,0,0,1863,0,0,13191,11779,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+baobab,1349,0,0,131,0,0,1593,1349,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+bareftp,400,0,48,147,0,13,426,448,89.28571428571429,Portuguese (Brazilian) <>
+bash,10345,983,28,562,14,5,11277,11356,91.0972173300458,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+bibletime,6406,0,3314,575,0,69,6476,9720,65.90534979423869,Portuguese (Brazil) (http://www.transifex.com/bibletime/bibletime/language/pt_BR/)
+bibus,856,642,385,285,158,110,997,1883,45.45937334041423,pt <LL@li.org>
+bijiben,1191,0,0,225,0,0,1328,1191,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+binutils,967,0,0,184,0,0,1113,967,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+bison,1416,0,0,213,0,0,1608,1416,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+bleachbit,1260,0,0,267,0,0,1570,1260,100.0,Brazilian Portuguese <pt_BR@li.org>
+blender,109476,0,0,23760,0,0,147835,109476,100.0,"Ivan Paulos Tomé, Dalai Felinto, Bruno Gonçalves Pirajá, Samuel Arataca, Daniel Tavares, Moraes Junior <ivan.paulos.tome@yandex.com>"
+blinken,133,0,0,47,0,0,153,133,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+blivet-gui,9,0,753,3,0,217,9,762,1.1811023622047243,Portuguese (Brazil)
+blogilo,1376,16,0,334,3,0,1628,1392,98.85057471264368,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+blueberry,141,0,0,34,0,0,149,141,100.0,Brazilian Portuguese <pt_BR@li.org>
+bluedevil,573,0,0,191,0,0,632,573,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+bluefish,4599,48,258,1483,12,44,5225,4905,93.76146788990826,
+blueman,1340,0,44,335,0,7,1655,1384,96.82080924855492,Portuguese (Brazil) (http://www.transifex.com/mate/MATE/language/pt_BR/)
+boinc-client,22989,0,1091,3699,0,142,25103,24080,95.46926910299003,Portuguese (Brazil) (http://www.transifex.com/boinc/boinc/language/pt_BR/)
+bomber,103,0,0,27,0,0,106,103,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+boswars,189,6,21,53,3,17,219,216,87.5,
+bovo,81,0,0,25,0,0,88,81,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+brasero,7751,0,0,1113,0,0,8262,7751,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+bygfoot,3623,48,49,755,11,8,3643,3720,97.39247311827957,Valdinei Martins <valdineisales@gmail.com>
+byobu,142,0,35,41,0,3,159,177,80.22598870056498,Brazilian Portuguese <pt_BR@li.org>
+byzanz,236,0,0,52,0,0,291,236,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.com>
+bzr,11418,0,21831,1385,0,968,11949,33249,34.340882432554366,Brazilian Portuguese <pt_BR@li.org>
+cairo-dock,4928,0,2536,683,0,144,5006,7464,66.02357984994642,
+cairo-dock-plug-ins,8819,0,1384,1604,0,118,9690,10203,86.43536214838772,
+caja,9182,0,174,1502,0,15,9753,9356,98.14023086789227,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+caja-actions,8452,0,0,826,0,0,9184,8452,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+caja-extensions,570,0,0,131,0,0,630,570,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+caja-terminal,110,0,0,37,0,0,158,110,100.0,Brazilian Portuguese <pt_BR@li.org>
+calamares,55,0,0,13,0,0,61,55,100.0,Portuguese (Brazil) (https://www.transifex.com/calamares/teams/20061/pt_BR/)
+calcurse,4504,52,404,502,10,54,4880,4960,90.80645161290323,Portuguese (Brazil) (http://www.transifex.com/lfleischer/calcurse/language/pt_BR/)
+calibre,61391,0,95910,7356,0,10744,65064,157301,39.02772391783905,Portuguese (Brazil) (http://www.transifex.com/calibre/calibre/language/pt_BR/)
+california,990,0,0,315,0,0,1123,990,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+calligra,35862,0,0,7755,0,0,38955,35862,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+calligraplan,6827,553,2250,1649,117,275,8062,9630,70.89304257528556,Portuguese <kde-i18n-pt_BR@kde.org>
+camorama,586,0,0,137,0,0,623,586,100.0,Portuguese/Brazil <gnome-l10n-br@listas.cipspa.org.br>
+cantor,2054,0,49,475,0,3,2391,2103,97.66999524488826,Portuguese <kde-i18n-pt_BR@kde.org>
+capnet-assist,29,0,3,4,0,1,28,32,90.625,Brazilian Portuguese <pt_BR@li.org>
+caribou,169,0,0,57,0,0,199,169,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+catfish,525,0,152,103,0,8,581,677,77.5480059084195,Brazilian Portuguese <pt_BR@li.org>
+ccsm,549,5,25,135,3,13,638,579,94.81865284974094,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+celestia,2168,6,0,996,1,0,2593,2174,99.72401103955842,<igorborgo@yahoo.com.br>
+centerim,313,1163,1388,158,333,326,334,2864,10.92877094972067,Brazilian <???>
+certmonger,1367,146,1342,237,18,222,1543,2855,47.88091068301226,Portuguese (Brazil) (http://www.transifex.com/projects/p/certmonger/language/pt_BR/)
+cervisia,1619,0,0,421,0,0,1788,1619,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+cgit,3391,116,62,836,16,13,3826,3569,95.0126085738302,Brazilian Portuguese <>
+cheese,2086,0,0,235,0,0,2275,2086,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+chemtool,1127,0,57,229,0,32,1180,1184,95.1858108108108,Brazilian Portuguese
+cherokee,719,911,4903,288,278,684,786,6533,11.005663554262973,
+cherrytree,2745,0,0,676,0,0,3062,2745,100.0,Brazilian Portuguese
+childsplay,1226,0,0,212,0,0,1245,1226,100.0,Danie von Weissenfluh <danielvonweissenfluh@gmail.com>
+chkconfig,524,0,31,96,0,7,570,555,94.41441441441441,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+choqok,2257,0,0,569,0,0,2658,2257,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+chrome-gnome-shell,313,0,0,49,0,0,390,313,100.0,
+chromium-native_client,1842,0,0,358,0,0,2114,1842,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+cinnamon-control-center,1313,0,0,756,0,0,1485,1313,100.0,Brazilian Portuguese <trans-pt_br@lists.fedoraproject.org>
+cinnamon-desktop,234,0,0,32,0,0,254,234,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+cinnamon-translations,21554,0,0,4827,0,0,24388,21554,100.0,Brazilian Portuguese <pt_BR@li.org>
+clamtk,470,0,0,146,0,0,536,470,100.0,Alferes Linux team pt_BR <LL@li.org>
+claws-mail,20145,14,0,3944,2,0,23775,20159,99.93055211071977,Frederico Goncalves Guimaraes <frederico@teia.bio.br>
+clawsker,1374,0,0,253,0,0,1690,1374,100.0,
+clipit,115,0,103,39,0,35,153,218,52.752293577981646,Cristian Henzel <oss@rspwn.com>
+clutter,3057,0,0,675,0,0,3290,3057,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+cmyktool,830,31,0,184,7,0,904,861,96.39953542392567,CEDRIC GEMY <cedric.gemy@gmail.com>
+cockpit,5876,0,1771,1601,0,455,6485,7647,76.84059108146985,Portuguese (Brazil)
+cogl,393,0,0,80,0,0,515,393,100.0,Português do Brasil <gnome-pt_br-list@gnome.com>
+colord,727,0,1259,156,0,96,825,1986,36.606243705941594,Portuguese (Brazil) (http://www.transifex.com/freedesktop/colord/language/pt_BR/)
+colord-kde,361,8,0,118,2,0,438,369,97.8319783197832,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+colorhug-client,1400,0,32,292,0,5,1603,1432,97.76536312849163,Portuguese (Brazil) (http://www.transifex.com/hughsie/colorhug-client/language/pt_BR/)
+comix,1300,0,26,259,0,3,1381,1326,98.0392156862745,
+compat-gtkhtml314,485,0,0,309,0,0,542,485,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+compat-tracker1,3764,0,0,602,0,0,4324,3764,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+compat-wxGTK3-gtk2,7658,15,9,1836,6,3,9030,7682,99.6875813590211,Felipe <felipefpl@ig.com.br>
+compiz,2371,1445,569,573,206,100,2883,4385,54.070695553021665,Brazilian Portuguese <pt@li.org>
+compiz-plugins-experimental,1007,1453,2021,233,387,277,1343,4481,22.472662352153538,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+compiz-plugins-extra,2435,596,647,484,145,99,3046,3678,66.20445894507884,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+compiz-plugins-main,3342,407,469,643,99,69,4278,4218,79.23186344238977,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+console-setup,985,0,0,175,0,0,1012,985,100.0,Brazilian Portuguese <debian-l10n-portuguese@lists.debian.org>
+control-center,6541,0,0,2255,0,0,7436,6541,100.0,Brazilian Portuguese <trans-pt_br@lists.fedoraproject.org>
+corebird,484,0,102,183,0,28,513,586,82.5938566552901,Portuguese (Brazil) (http://www.transifex.com/corebird/corebird/language/pt_BR/)
+coreutils,20732,0,0,1744,0,0,24016,20732,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+cpio,197,272,1433,38,52,223,244,1902,10.357518401682439,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+cracklib,93,0,3,15,0,1,89,96,96.875,Novell Language <language@novell.com>
+cross-binutils,967,0,0,184,0,0,1113,967,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+cross-gcc,1342,0,0,213,0,0,1560,1342,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+cryptsetup,2500,7,0,394,1,0,3214,2507,99.7207818109294,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+cups,7441,0,1173,1584,0,348,8483,8614,86.38263292314836,Brazilian Portuguese <traducao-cups-pt-br@googlegroups.com>
+cups-pk-helper,149,0,0,22,0,0,154,149,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/freedesktop/language/pt_BR/)
+cura,16529,0,0,1964,0,0,18210,16529,100.0,Cláudio Sampaio <patola@makerlinux.com.br> and CoderSquirrel <jasaneschio@gmail.com>
+cura-lulzbot,15664,0,0,1866,0,0,17222,15664,100.0,Cláudio Sampaio <patola@makerlinux.com.br> and CoderSquirrel <jasaneschio@gmail.com>
+d-feet,109,0,0,36,0,0,127,109,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+dasher,1275,0,0,250,0,0,1571,1275,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+datamash,739,52,71,117,4,9,844,862,85.7308584686775,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+dconf-editor,1495,0,0,196,0,0,1655,1495,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+debconf,4197,2053,9624,324,122,343,4600,15874,26.439460753433288,Brazilian Portuguese <debian-l10n-portuguese@lists.debian.org>
+decibel-audio-player,1401,0,93,210,0,27,1421,1494,93.77510040160642,Brazilian Portuguese <pt_BR@li.org>
+deepin-terminal,373,0,0,151,0,0,432,373,100.0,Portuguese (Brazil) (https://www.transifex.com/linuxdeepin/teams/3976/pt_BR/)
+deja-dup,3272,0,920,399,0,99,4068,4192,78.05343511450383,Brazilian Portuguese <pt_BR@li.org>
+deluge,2720,0,8,875,0,3,2997,2728,99.70674486803519,Portuguese (Brazil) <pt_BR@li.org>
+devhelp,393,0,0,117,0,0,467,393,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+devilspie2,156,0,0,34,0,0,196,156,100.0,Brazilian Portuguese
+dia,6601,0,0,2359,0,0,8009,6601,100.0,Português (Brasil) <gnome-pt_br-list@gnome.org>
+dialog,25,0,0,23,0,0,25,25,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+diffutils,1886,0,0,266,0,0,2212,1886,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+digikam,39994,4359,3312,6867,593,323,45959,47665,83.90643029476556,Portuguese <kde-i18n-pt_BR@kde.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,2954,76,197,622,9,33,3265,3227,91.54013015184381,Portuguese (Brazil) (http://www.transifex.com/projects/p/dnf/language/pt_BR/)
+dnf-plugins-core,695,0,175,130,0,9,780,870,79.88505747126436,Portuguese (Brazil)
+dnf-plugins-extras,241,0,0,39,0,0,267,241,100.0,Portuguese (Brazil)
+dnfdragora,639,0,130,296,0,20,741,769,83.09492847854357,Portuguese (Brazil) (https://www.transifex.com/MageiaLinux/teams/9361/pt_BR/)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Portuguese (Brazil)
+dolphin,1568,0,0,517,0,0,1791,1568,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+dolphin-emu,6965,0,0,1289,0,0,7899,6965,100.0,Portuguese (Brazil) (http://www.transifex.com/delroth/dolphin-emu/language/pt_BR/)
+dolphin-plugins,1189,13,0,330,1,0,1668,1202,98.91846921797006,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+dopewars,3078,576,1593,587,4,271,3157,5247,58.662092624356774,Portuguese/Brazil <pt_BR@li.org>
+dos2unix,4831,0,0,400,0,0,5351,4831,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+dpkg,5572,9752,46242,753,1393,2077,6154,61566,9.050449923659162,Brazilian Portuguese <debian-l10n-portuguese@lists.debian.org>
+dragon,275,0,0,86,0,0,306,275,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+drgeo,1912,65,8,450,7,4,2070,1985,96.32241813602015,"Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>, <gnome-l10n-br@listas.cipsga.org.br>"
+duplicity,3078,0,1300,456,0,162,3786,4378,70.30607583371402,Brazilian Portuguese <pt_BR@li.org>
+dvdisaster,7193,0,3110,813,0,232,8108,10303,69.814617101815,Portuguese
+e16,1707,6,1083,241,3,270,1957,2796,61.05150214592274,Portuguese <pt@li.org>
+easytag,5239,0,0,1020,0,0,6081,5239,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+edgar,11466,0,8,1534,0,1,11577,11474,99.93027714833536,Brazilian Portuguese <pt_BR@li.org>
+eiciel,146,16,6,45,6,2,159,168,86.90476190476191,Novell language <language@novell.com>
+ejabberd,1664,74,498,391,19,98,1836,2236,74.4186046511628,
+ekiga,9938,0,0,968,0,0,10874,9938,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+elementary-calculator,80,0,0,37,0,0,84,80,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/calculator/calculator/pt_BR/>
+elementary-camera,24,0,38,4,0,12,28,62,38.70967741935484,Portuguese (Brazil) <http://weblate.elementary.io/projects/desktop/camera/pt_BR/>
+elementary-capnet-assist,66,0,0,10,0,0,70,66,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/desktop/capnet-assist/pt_BR/>
+elementary-screenshot-tool,123,1,8,38,1,4,158,132,93.18181818181817,Brazilian Portuguese <pt_BR@li.org>
+elementary-shortcut-overlay,82,0,0,37,0,0,108,82,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/desktop/shortcut-overlay/pt_BR/>
+elinks,405,1751,10089,188,521,916,471,12245,3.307472437729685,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+emerald,645,38,10,208,5,6,800,693,93.07359307359307,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+empathy,4597,118,6319,1042,25,395,5049,11034,41.662135218415806,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+engrampa,1945,0,0,354,0,0,2186,1945,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+enlightenment,4897,3126,663,1770,342,120,6003,8686,56.37807966843196,Brazilian Portuguese
+enscript,1056,650,127,167,25,16,1243,1833,57.61047463175123,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+entangle,215,0,699,74,0,144,236,914,23.522975929978116,Portuguese (Brazil)
+eog,2086,479,3986,448,84,211,2444,6551,31.842466798961986,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+eog-plugins,425,0,0,110,0,0,511,425,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+eom,4984,0,0,552,0,0,5584,4984,100.0,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+epiphany,6070,0,0,946,0,0,6533,6070,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+etckeeper,41,0,0,2,0,0,48,41,100.0,Brazilian Portuguese <debian-l10n-portuguese@lists.debian.org>
+evince,8987,0,0,1028,0,0,9955,8987,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+evolution,26243,0,0,5364,0,0,29225,26243,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+evolution-data-server,6434,0,0,1252,0,0,7916,6434,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+evolution-ews,1191,0,0,246,0,0,1481,1191,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+evolution-mapi,974,0,0,217,0,0,1210,974,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+evolution-rss,882,0,0,224,0,0,989,882,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+exaile,3156,329,521,863,58,104,3679,4006,78.78182725911134,Brazilian Portuguese <pt_BR@li.org>
+exiv2,11784,6846,19382,1853,2073,2160,13364,38012,31.000736609491742,Brazilian Portuguese <pt_BR@li.org>
+exo,1454,0,0,299,0,0,1683,1454,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/exo/language/pt_BR/)
+expendable,227,0,0,93,0,0,264,227,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/expendable/language/pt_BR/)
+falkon,3150,50,992,1115,3,214,3522,4192,75.14312977099237,Portuguese <kde-i18n-pt_BR@kde.org>
+fantasdic,390,0,0,124,0,0,438,390,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+feedreader,627,30,32,188,6,7,710,689,91.00145137880988,Portuguese (Brazil) <https://hosted.weblate.org/projects/feedreader/translations/pt_BR/>
+fetchmail,2101,1108,1173,399,146,147,2549,4382,47.94614331355545,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+file-roller,2841,0,0,455,0,0,3066,2841,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+filelight,400,7,0,90,2,0,466,407,98.28009828009829,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+findutils,2545,16,7,235,3,1,2918,2568,99.1043613707165,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+firewalld,2174,0,2,402,0,2,2433,2176,99.90808823529412,Portuguese (Brazil) (http://www.transifex.com/projects/p/firewalld/language/pt_BR/)
+fish,2757,5319,3069,508,1024,424,2966,11145,24.73755047106326,Português Brasileiro <>
+five-or-more,555,14,1039,152,3,73,692,1608,34.51492537313433,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+flatpak,3487,262,321,743,46,40,4013,4070,85.67567567567568,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+flaw,84,0,0,53,0,0,89,84,100.0,Flávio Zavan <flavio [at] nebosos [dot] com>
+flex,791,339,2,164,2,1,979,1132,69.87632508833921,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+flumotion,440,891,2006,109,243,344,468,3337,13.185495954450104,pt_BR <spectra@debian.org>
+focuswriter,129,0,0,7,0,0,125,129,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/focuswriter/language/pt_BR/)
+folks,1056,0,0,130,0,0,1252,1056,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+fonts-tweak-tool,21,0,143,9,0,40,24,164,12.804878048780488,Portuguese (Brazil)
+four-in-a-row,1937,0,0,155,0,0,2107,1937,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+foxtrotgps,382,0,613,88,0,212,418,995,38.391959798994975,Brazilian Portuguese <pt_BR@li.org>
+fprintd,419,0,0,57,0,0,452,419,100.0,Portuguese (Brazil) (http://www.transifex.com/freedesktop/fprintd/language/pt_BR/)
+freeciv,30171,28791,39240,3994,2809,1333,32113,98202,30.72340685525753,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+freedink,271,0,0,57,0,0,297,271,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+freedink-dfarc,778,0,0,135,0,0,876,778,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+freedroidrpg,50293,0,11816,5673,0,714,49435,62109,80.97538198972774,Portuguese (Brazil) (http://www.transifex.com/arctic-games/freedroid-rpg/language/pt_BR/)
+freeipa,40,0,52607,12,0,4248,45,52647,0.07597773852261287,Portuguese (Brazil)
+frepple,2081,0,0,564,0,0,2259,2081,100.0,frepple
+frescobaldi,3912,1194,10581,850,334,976,4084,15687,24.93784662459361,Brazilian Portuguese <kde-i18n-doc@kde.org>
+frogr,1514,0,0,297,0,0,1725,1514,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+frozen-bubble,567,82,49,130,9,9,616,698,81.23209169054442,Brazilian Portuguese <pt_BR@li.org>
+fuse-encfs,1049,24,216,119,3,15,1274,1289,81.38091543832428,Portuguese (Brazil) <pt_BR@li.org>
+fwbackups,188,0,3310,32,0,485,205,3498,5.374499714122356,Portuguese (Brazil) (http://www.transifex.com/Magic/fwbackups/language/pt_BR/)
+fwupd,979,0,0,211,0,0,1139,979,100.0,Portuguese (Brazil) (http://www.transifex.com/freedesktop/fwupd/language/pt_BR/)
+gajim,6638,2779,1748,1465,522,244,7178,11165,59.45364979847738,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gala,520,131,43,66,6,7,583,694,74.92795389048992,Brazilian Portuguese <pt_BR@li.org>
+galculator,935,0,0,275,0,0,1054,935,100.0,Portuguese (Brazil) (http://www.transifex.com/mate/MATE/language/pt_BR/)
+gallery2,8178,476,1578,1439,96,227,8682,10232,79.92572322126661,Brazilian Portuguese <gallery-devel@lists.sourceforge.net>
+galternatives,165,0,0,43,0,0,187,165,100.0,Debian Brasil <debian-l10n-portuguese@lists.debian.org>
+gambas3,6582,0,0,2014,0,0,7283,6582,100.0,
+gammu,3858,123,16,1096,11,4,4313,3997,96.52239179384539,none
+ganyremote,391,0,126,119,0,30,422,517,75.62862669245648,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+garcon,122,0,0,36,0,0,153,122,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/garcon/language/pt_BR/)
+gaupol,1959,0,41,593,0,5,2198,2000,97.95,Portuguese (Brazil) (https://www.transifex.com/otsaloma/teams/64879/pt_BR/)
+gbrainy,10308,0,0,1315,0,0,10389,10308,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.com>
+gcab,127,0,0,30,0,0,147,127,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gcc,1342,0,0,213,0,0,1560,1342,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gcompris,17459,0,0,1960,0,0,17854,17459,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gcompris-qt,18835,1723,2755,1661,88,207,19456,23313,80.79183288294085,Portuguese <kde-i18n-pt_br@kde.org>
+gconf-editor,2834,0,0,238,0,0,3108,2834,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+gcr,700,0,0,254,0,0,807,700,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gdb,434,0,0,86,0,0,500,434,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gdbm,779,0,0,214,0,0,977,779,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gdesklets,1515,0,13,202,0,2,1541,1528,99.14921465968587,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+gdk-pixbuf2,1409,0,0,211,0,0,1757,1409,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gdm,740,30,9161,120,3,316,922,9931,7.451414761856812,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+geany,5585,301,151,1241,48,19,6214,6037,92.51283750207057,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+geany-plugins,2542,1539,4388,563,472,708,2761,8469,30.01535010036604,Adrovane Marques Kade <adrovane@gmail.com>
+geary,4403,0,0,740,0,0,4823,4403,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+geda-gaf,1080,0,2367,374,0,398,1169,3447,31.33159268929504,gEDA developers <geda-dev@seul.org>
+gedit,10869,0,0,1303,0,0,11698,10869,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gedit-cossa,88,0,0,41,0,0,113,88,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gedit-latex,478,0,0,236,0,0,532,478,100.0,Brazillian Portuguese <gnome-pt_br-list@gnome.org>
+gedit-plugins,3249,0,0,355,0,0,3530,3249,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+geeqie,3338,313,133,1213,43,41,4042,3784,88.21353065539112,Brazilian Portuguese
+gegl03,4683,398,316,775,122,54,5224,5397,86.7704280155642,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gegl04,8483,0,2,1764,0,1,9471,8485,99.97642899233942,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+genius,8560,0,0,1119,0,0,9656,8560,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gettext,7774,20,0,826,3,0,8662,7794,99.74339235309212,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gftp,3375,0,0,634,0,0,3709,3375,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+ggz-base-libs,74,0,0,17,0,0,90,74,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+ggz-gtk-client,859,0,0,267,0,0,924,859,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+ghdl,1354,0,0,216,0,0,1575,1354,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+ghemical,2161,0,17,502,0,10,2463,2178,99.21946740128558,Português Brasileiro <pt-br@li.org>
+ghex,1641,0,1595,295,0,121,1810,3236,50.71075401730531,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gigolo,521,0,0,142,0,0,572,521,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce/language/pt_BR/)
+gimagereader,705,133,306,234,39,67,823,1144,61.62587412587413,English <kde-i18n-doc@kde.org>
+gimp,29166,0,0,7388,0,0,34402,29166,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gimp-gap,11451,1211,2399,1967,218,186,14430,15061,76.0308080472744,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gimp-help,224296,0,0,14520,0,0,259716,224296,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gimp-lqr-plugin,494,138,296,76,5,50,542,928,53.23275862068966,Brazilian Portuguese <GNOME-l10n-br <Gnome-l10n-BR@listas.cipsga.org.br>>
+gimp-save-for-web,82,0,0,40,0,0,91,82,100.0,
+girara,215,0,34,53,0,6,263,249,86.34538152610442,Portuguese (Brazil) (http://www.transifex.com/projects/p/girara/language/pt_BR/)
+git,3391,116,62,836,16,13,3826,3569,95.0126085738302,Brazilian Portuguese <>
+git-cinnabar,3391,116,62,836,16,13,3826,3569,95.0126085738302,Brazilian Portuguese <>
+git-cola,619,118,1340,241,43,303,726,2077,29.80259990370727,Brazillian <LL@li.org>
+gitg,2034,0,0,365,0,0,2255,2034,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gkrellm,3714,0,95,517,0,41,4004,3809,97.50590706222106,Brazilian Portuguese <>
+glabels,2628,13,5743,842,1,395,3149,8384,31.345419847328245,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+glade,8546,0,0,1880,0,0,9889,8546,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+glade2,5800,24,16,1294,5,1,6465,5840,99.31506849315068,Portuguese/Brazil
+glade3,6292,0,0,1330,0,0,7303,6292,100.0,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+glib-networking,163,0,0,29,0,0,176,163,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+glib2,6932,0,0,1083,0,0,8070,6932,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+glibc,4415,0,0,908,0,0,5066,4415,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+glibc-arm-linux-gnu,4415,0,0,908,0,0,5066,4415,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gliv,1034,0,0,260,0,0,1116,1034,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+glom,4988,0,0,866,0,0,5573,4988,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+glpi,11274,0,10,2956,0,2,12514,11284,99.911378943637,Portuguese (Brazil) (http://www.transifex.com/glpi/GLPI/language/pt_BR/)
+gmpc,4,0,0,1,0,0,7,4,100.0,Brazilian Portuguese <pt_BR@li.org>
+gmusicbrowser,4442,5,901,1390,1,219,4863,5348,83.0590875093493,Portuguese (Brazilian) <pt_BR@li.org>
+gnome-2048,335,0,0,57,0,0,383,335,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-abrt,397,0,0,73,0,0,444,397,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/gnome-abrt/language/pt_BR/)
+gnome-activity-journal,316,0,0,94,0,0,335,316,100.0,Brazilian Portuguese <pt_BR@li.org>
+gnome-backgrounds,29,0,0,18,0,0,37,29,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-bluetooth,373,0,0,111,0,0,413,373,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-boxes,3735,0,0,487,0,0,4207,3735,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-builder,3705,0,0,981,0,0,4226,3705,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-calculator,3470,0,0,839,0,0,3964,3470,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-calendar,641,0,0,214,0,0,721,641,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-characters,186,0,0,58,0,0,225,186,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-chemistry-utils,2755,857,951,758,275,234,3084,4563,60.376944992329605,Brasileiro <gdemets@gmail.com>
+gnome-chess,4530,0,0,369,0,0,4829,4530,100.0,Brazilian Portuguese <gnome-pt_br-list.gnome.org>
+gnome-clocks,1266,0,0,182,0,0,1404,1266,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-color-manager,2330,0,0,371,0,0,2715,2330,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-commander,10367,0,0,1906,0,0,11645,10367,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-contacts,422,0,0,146,0,0,489,422,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-desktop,438,0,0,61,0,0,493,438,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-desktop3,9730,0,0,262,0,0,9802,9730,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-devel-docs,42884,1078,124085,2176,435,3958,46365,168047,25.519051217814066,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-dictionary,2109,0,0,303,0,0,2355,2109,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-directory-thumbnailer,85,0,0,12,0,0,114,85,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-disk-utility,3718,0,0,693,0,0,4376,3718,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-do,612,0,0,144,0,0,689,612,100.0,Brazilian Portuguese <pt_BR@li.org>
+gnome-doc-utils,251,0,0,101,0,0,251,251,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-documents,1829,0,0,306,0,0,2037,1829,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-dvb-daemon,790,0,0,190,0,0,886,790,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-font-viewer,113,0,0,29,0,0,235,113,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-getting-started-docs,2481,0,0,339,0,0,2643,2481,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-gmail,136,17,34,20,3,8,156,187,72.72727272727273,Brazilian Portuguese <pt_BR@li.org>
+gnome-hearts,334,0,75,89,0,17,360,409,81.66259168704157,Portuguese (Brazil) <pt_BR@li.org>
+gnome-icon-theme,20,0,0,16,0,0,23,20,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-initial-setup,766,0,0,120,0,0,813,766,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-keyring,532,0,0,106,0,0,590,532,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-klotski,194,0,0,59,0,0,281,194,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-libs,1085,0,0,395,0,0,1181,1085,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gnome-logs,648,0,0,144,0,0,784,648,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-mahjongg,304,0,0,63,0,0,384,304,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-maps,1186,0,0,304,0,0,1340,1186,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-menus,70,0,0,27,0,0,75,70,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-mime-data,887,0,0,362,0,0,1101,887,100.0,Portuguese <pt@li.org>
+gnome-mines,747,252,668,106,23,70,865,1667,44.81103779244151,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-mud,1057,0,0,244,0,0,1125,1057,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+gnome-multi-writer,390,0,0,61,0,0,421,390,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-music,1030,0,0,184,0,0,1146,1030,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-nettool,1160,0,0,241,0,0,1325,1160,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+gnome-nibbles,447,0,0,110,0,0,546,447,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-online-accounts,1185,0,0,339,0,0,1430,1185,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-packagekit,3485,0,0,549,0,0,3904,3485,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-phone-manager,563,0,0,98,0,0,654,563,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-photos,930,0,0,244,0,0,986,930,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-pie,485,0,0,107,0,0,514,485,100.0,Brazilian Portuguese
+gnome-power-manager,489,0,0,151,0,0,526,489,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-robots,597,0,0,97,0,0,730,597,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-screensaver,291,0,0,58,0,0,326,291,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-screenshot,457,0,0,80,0,0,624,457,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-search-tool,1249,0,0,186,0,0,1317,1249,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-session,299,0,0,50,0,0,350,299,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-settings-daemon,2659,0,0,384,0,0,3002,2659,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-shell,1691,0,0,406,0,0,1916,1691,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-shell-extension-dash-to-dock,416,7,0,94,2,0,501,423,98.3451536643026,Português do Brasil
+gnome-shell-extension-freon,94,0,0,27,0,0,114,94,100.0,
+gnome-shell-extension-media-player-indicator,196,0,0,37,0,0,228,196,100.0,
+gnome-shell-extension-netspeed,29,0,0,17,0,0,35,29,100.0,
+gnome-shell-extension-openweather,619,0,0,201,0,0,623,619,100.0,Brazilian Portuguese <debian-l10n-portuguese@lists.debian.org>
+gnome-shell-extension-panel-osd,120,0,0,16,0,0,143,120,100.0,Português do Brasil
+gnome-shell-extension-pomodoro,255,84,0,74,19,0,287,339,75.22123893805309,pt_BR <ale.alvesborba@gmail.com>
+gnome-shell-extension-sustmi,11,0,0,6,0,0,14,11,100.0,Miroslav Šustek <sustmidown@centrum.cz>
+gnome-shell-extension-system-monitor-applet,151,1,5,92,1,1,177,157,96.17834394904459,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-shell-extension-windowoverlay-icons,11,0,0,6,0,0,14,11,100.0,Miroslav Šustek <sustmidown@centrum.cz>
+gnome-shell-extensions,388,0,0,70,0,0,456,388,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-software,3709,0,0,767,0,0,4150,3709,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-sound-recorder,292,0,0,73,0,0,352,292,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-subtitles,1030,0,0,317,0,0,1120,1030,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-sudoku,2902,0,0,202,0,0,2984,2902,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+gnome-system-log,555,0,664,94,0,43,706,1219,45.52912223133716,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-system-monitor,5575,0,0,545,0,0,6121,5575,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-taquin,232,0,0,49,0,0,268,232,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-terminal,7801,0,0,1000,0,0,8703,7801,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-tetravex,220,0,0,45,0,0,301,220,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-themes,109,0,0,30,0,0,123,109,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-themes-standard,15,0,0,6,0,0,14,15,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-todo,720,0,0,162,0,0,833,720,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-tweak-tool,596,0,0,176,0,0,738,596,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-user-docs,62766,0,0,3580,0,0,66196,62766,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-user-share,52,0,0,10,0,0,57,52,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-vfs2,1519,0,0,305,0,0,1657,1519,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-video-arcade,1341,0,0,234,0,0,1457,1341,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-video-effects,256,0,0,68,0,0,285,256,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnome-weather,192,0,0,42,0,0,219,192,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnomebaker,1186,0,0,291,0,0,1364,1186,100.0,Portuguese <debian-l10n-portuguese@blists.debian.org>
+gnomint,146,0,4266,30,0,671,181,4412,3.309156844968268,Brazilian Portuguese <pt_BR@li.org>
+gnote,3309,0,0,543,0,0,3861,3309,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnotime,1999,0,9,424,0,5,2109,2008,99.55179282868527,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gnubik,266,13,0,82,1,0,284,279,95.3405017921147,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gnucash,27237,4565,1033,4775,545,77,29802,32835,82.95111923252627,Brazilian Portuguese
+gnuchess,1058,10,47,137,4,7,1179,1115,94.88789237668162,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gnumed,8831,5145,15425,1509,1175,2181,9294,29401,30.036393319955103,Brazilian Portuguese <pt_BR@li.org>
+gnumeric,31126,3593,3400,4628,863,467,33626,38119,81.65481780739265,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gnupg,2167,3563,2910,364,610,323,2369,8640,25.081018518518515,?
+gnusim8085,568,0,0,145,0,0,654,568,100.0,Brazilian Portuguese <pt_BR@li.org>
+gobby,900,0,0,190,0,0,907,900,100.0,Brazilian Portuguese <pt_BR@li.org>
+gobby05,625,71,777,164,22,96,694,1473,42.43041412084182,Portuguese Brazilian <lobocode@fedoraproject.org>
+godot,7028,2,0,1891,1,0,7949,7030,99.97155049786629,Portuguese (Brazil) <https://hosted.weblate.org/projects/godot-engine/godot/pt_BR/>
+goffice,4804,805,975,1674,233,206,5435,6584,72.96476306196841,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+goffice08,2022,874,1703,821,332,407,2316,4599,43.966079582517935,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+goocanvas2,1864,0,0,283,0,0,2052,1864,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gourmet,2772,122,1045,678,13,201,3140,3939,70.37319116527037,Portuguese (Brazil) <pt_BR@li.org>
+gparted,9369,0,0,954,0,0,10486,9369,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gpaste,776,219,27,133,24,11,855,1022,75.92954990215264,
+gphoto2,1743,0,0,337,0,0,1991,1743,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gpicview,236,0,0,52,0,0,312,236,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+gpodder,1572,179,128,432,45,25,1760,1879,83.66152208621607,Portuguese (Brazil) (http://www.transifex.com/projects/p/gpodder/language/pt_BR/)
+gramps,37523,0,141,6278,0,105,41898,37664,99.62563721325404,
+granatier,242,0,0,67,0,0,262,242,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+granite,156,0,0,57,0,0,195,156,100.0,Brazilian Portuguese <pt_BR@li.org>
+grantlee-editor,518,12,0,155,3,0,627,530,97.73584905660377,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+grass,9185,1828,89265,1674,301,13737,10359,100278,9.159536488561798,Portuguese (Brazil) (https://www.transifex.com/grass-gis/teams/45198/pt_BR/)
+grep,881,0,0,107,0,0,1037,881,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+grilo,194,0,0,37,0,0,231,194,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+grilo-plugins,536,0,0,133,0,0,615,536,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+grip,1171,0,0,299,0,0,1440,1171,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+grisbi,1853,4253,6644,719,970,586,1951,12750,14.533333333333335,<pt@li.org>
+grsync,1130,4,33,159,1,3,1272,1167,96.82947729220223,Brazilian Portuguese
+grub-customizer,1295,0,0,193,0,0,1394,1295,100.0,Brazilian Portuguese <pt_BR@li.org>
+grub2,4531,984,1604,1013,181,150,5407,7119,63.646579575783115,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gscan2pdf,1196,0,644,365,0,141,1367,1840,65.0,Brazilian Portuguese <pt_BR@li.org>
+gsettings-desktop-schemas,6311,0,0,566,0,0,7127,6311,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gspell,78,0,0,32,0,0,86,78,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gstreamer,1898,5,14,343,2,3,2243,1917,99.00886802295254,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gstreamer-plugins-bad-free,72,4,20,12,1,1,94,96,75.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gstreamer-plugins-base,891,11,6,174,2,2,1103,908,98.12775330396477,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gstreamer-plugins-good,814,0,0,190,0,0,995,814,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gstreamer1,2031,32,15,371,3,1,2394,2078,97.73820981713186,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,158,42,8,22,7,2,211,208,75.96153846153845,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gstreamer1-plugins-base,916,33,0,193,5,0,1143,949,96.52265542676501,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gstreamer1-plugins-good,747,14,0,105,2,0,903,761,98.16031537450722,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,118,0,0,13,0,0,154,118,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gtef,125,0,0,40,0,0,133,125,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtg,2284,0,1213,296,0,4,2436,3497,65.31312553617387,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gthumb,3461,0,0,1144,0,0,3844,3461,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtick,338,0,0,96,0,0,381,338,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gtk+,202,0,0,105,0,0,217,202,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gtk-doc,11887,0,0,525,0,0,12395,11887,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtk-murrine-engine,117,0,0,41,0,0,179,117,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtk-recordmydesktop,816,0,0,104,0,0,832,816,100.0,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+gtk-vnc,81,0,0,22,0,0,99,81,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtk2,12381,0,0,2582,0,0,13857,12381,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtk2-engines,119,0,0,47,0,0,177,119,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtk3,16036,0,0,3597,0,0,18066,16036,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtk4,12439,0,0,2976,0,0,13878,12439,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtkhash,23,0,95,16,0,26,33,118,19.491525423728813,Brazilian Portuguese <pt_BR@li.org>
+gtkhtml3,522,0,0,317,0,0,588,522,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtkpod,2254,141,5125,304,42,1016,2518,7520,29.973404255319146,Portuguese (Brazilian) <None>
+gtksourceview2,1413,0,0,538,0,0,1735,1413,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtksourceview3,1156,0,0,630,0,0,1332,1156,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gtkspell,11,0,0,5,0,0,11,11,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+gtkspell3,16,0,0,7,0,0,19,16,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+gtranslator,4460,0,0,649,0,0,4943,4460,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+guake,923,111,32,156,26,12,1002,1066,86.58536585365853,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+guayadeque,3326,0,0,1019,0,0,3729,3326,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/guayadeque/language/pt_BR/)
+gucharmap,3075,0,0,575,0,0,3368,3075,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gummi,665,77,16,229,20,12,708,758,87.73087071240106,Brazilian Portuguese
+gupnp-tools,327,0,0,118,0,0,395,327,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gvfs,2139,0,0,411,0,0,2678,2139,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+gweled,151,0,5,43,0,1,169,156,96.7948717948718,Brazilian Portuguese <pt_BR@li.org>
+gwenview,1299,6,0,360,2,0,1431,1305,99.54022988505747,Portuguese <kde-i18n-pt_BR@kde.org>
+gwget,379,0,0,103,0,0,474,379,100.0,Brazilian Portugues <gnome-pt_br-list@gnome.org>
+hamster-time-tracker,1638,1,0,222,1,0,1787,1639,99.93898718730934,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+heaptrack,1013,17,130,156,6,12,1138,1160,87.32758620689656,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+help2man,2614,57,0,219,1,0,2845,2671,97.86596780232124,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+hexalate,60,0,0,4,0,0,68,60,100.0,Portuguese (Brazil) (http://www.transifex.com/gottcode/hexalate/language/pt_BR/)
+hexchat,5550,0,421,1350,0,96,6030,5971,92.94925473120081,Portuguese (Brazil) (http://www.transifex.com/hexchat/hexchat/language/pt_BR/)
+hibernate3,45589,7413,26161,2044,354,1211,49503,79163,57.58877253262257,<en@li.org>
+hibernate4,45600,7413,26150,2045,354,1210,49514,79163,57.602667913040186,<en@li.org>
+hitori,174,0,0,36,0,0,189,174,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.com>
+hivex,255,8,7,20,1,1,296,270,94.44444444444444,Portuguese (Brazilian) <trans-pt_br@lists.fedoraproject.org>
+homebank,2267,0,152,755,0,12,2419,2419,93.7164117403886,LANGUAGE <LL@li.org>
+homerun,504,0,0,135,0,0,579,504,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+hugin,8729,0,0,1564,0,0,9886,8729,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+iagno,2792,0,0,193,0,0,2962,2792,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+ibus,1220,0,157,206,0,20,1411,1377,88.59840232389253,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+ibus-anthy,91,0,649,64,0,136,95,740,12.297297297297298,Portuguese (Brazil)
+ibus-cangjie,152,0,0,22,0,0,198,152,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/ibus-cangjie/language/pt_BR/)
+ibus-chewing,134,0,225,46,0,24,157,359,37.32590529247911,Portuguese (Brazil)
+ibus-table,21,0,1074,12,0,127,22,1095,1.9178082191780823,Portuguese (Brazil)
+ibus-typing-booster,26,0,1068,14,0,108,29,1094,2.376599634369287,Portuguese (Brazil)
+ibus-xkbc,61,0,0,28,0,0,84,61,100.0,LANGUAGE <LL@li.org>
+icewm,0,0,0,0,0,0,0,0,0.0,LANGUAGE <LL@li.org>
+im-chooser,239,0,0,56,0,0,282,239,100.0,Portuguese (Brazilian) (http://www.transifex.net/projects/p/im-chooser/team/pt_BR/)
+imsettings,440,5,11,80,1,3,515,456,96.49122807017544,LANGUAGE <LL@li.org>
+indent,210,47,15,45,8,2,264,272,77.20588235294117,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+initial-setup,33,0,0,7,0,0,34,33,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/initial-setup/language/pt_BR/)
+initscripts,866,0,108,133,0,16,1002,974,88.91170431211499,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+inkscape,20377,8400,9437,5057,1918,1170,22461,38214,53.323389333752026,Português Brasil <inkscape-brasil@listas.softwarelivre.org>
+insight,434,0,0,86,0,0,500,434,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+iok,142,5,59,36,1,3,174,206,68.93203883495146,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+ipplan,3576,1149,9,554,216,3,4095,4734,75.53865652724969,LANGUAGE <LL@li.org>
+iso-codes,1655,3437,11348,853,2262,7420,1648,16440,10.0669099756691,Brazilian Portuguese
+isomaster,674,0,0,107,0,0,712,674,100.0,Brazilian Portuguese
+jmol,2691,94,381,917,30,74,3156,3166,84.99684144030321,Brazilian Portuguese <Jmol-developers@lists.sf.net>
+jpilot,1669,592,813,530,104,129,1791,3074,54.29407937540663,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+json-glib,303,0,0,44,0,0,324,303,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+juk,1453,0,0,355,0,0,1662,1453,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+jwhois,401,11,28,65,2,4,427,440,91.13636363636364,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+jwm,352,5,0,95,1,0,405,357,98.59943977591037,Portuguese Brazil <samueloph@gmail.com>
+k3b,20182,29,10,2514,4,2,22900,20221,99.80713120023738,Portuguese <kde-i18n-pt_BR@kde.org>
+kBuild,199,136,170,37,29,15,231,505,39.40594059405941,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+kaccounts-integration,82,0,0,12,0,0,81,82,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kaccounts-providers,60,0,0,20,0,0,64,60,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kactivitymanagerd,9,0,0,4,0,0,11,9,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kaddressbook,722,11,12,158,5,4,796,745,96.91275167785236,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kalarm,7094,224,18,1013,10,2,8144,7336,96.70119956379499,Portuguese <kde-i18n-pt_br@kde.org>
+kalgebra,167,0,0,82,0,0,181,167,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kalzium,10102,101,242,1515,6,12,10641,10445,96.71613212063188,Portuguese <kde-i18n-pt_BR@kde.org>
+kamera,342,0,0,37,0,0,373,342,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kamoso,119,0,0,41,0,0,118,119,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kanagram,528,0,0,145,0,0,545,528,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kanyremote,309,94,81,101,21,22,331,484,63.84297520661158,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+kapman,114,0,0,36,0,0,112,114,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kapow,12,0,90,3,0,1,15,102,11.76470588235294,Portuguese (Brazil) (http://www.transifex.com/gottcode/kapow/language/pt_BR/)
+kapptemplate,272,0,0,52,0,0,313,272,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kate,4846,0,55,1168,0,12,5620,4901,98.8777800448888,Portuguese <kde-i18n-pt_BR@kde.org>
+katomic,185,0,0,59,0,0,214,185,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kaudiocreator,1136,0,0,273,0,0,1268,1136,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kbackup,443,107,100,94,15,14,502,650,68.15384615384616,pt_BR <kde-i18n-doc@kde.org>
+kbibtex,2294,0,0,666,0,0,2642,2294,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kblackbox,1360,0,0,101,0,0,1301,1360,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kblocks,159,0,0,38,0,0,198,159,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kbounce,154,0,0,42,0,0,183,154,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kbruch,1345,0,0,195,0,0,1328,1345,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kcachegrind,1724,2629,17,193,367,2,1889,4370,39.450800915331804,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kcalc,976,0,0,326,0,0,1098,976,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kcharselect,72,9,7,28,2,4,124,88,81.81818181818183,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kchildlock,806,0,0,122,0,0,849,806,100.0,French <kde-i18n-de@kde.org>
+kchmviewer,972,0,0,207,0,0,1096,972,100.0,Brazilian Portuguese <kde-i18n-doc@kde.org>
+kcm_systemd,1372,11,2,165,2,1,1667,1385,99.06137184115524,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kcm_wacomtablet,898,0,0,199,0,0,1119,898,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kcolorchooser,29,0,0,10,0,0,37,29,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kcoloredit,278,0,0,95,0,0,319,278,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kcron,534,0,0,190,0,0,576,534,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdb,770,668,56,142,90,11,1008,1494,51.53949129852744,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kde-cli-tools,2188,0,0,228,0,0,2450,2188,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kde-connect,711,9,12,171,3,3,848,732,97.1311475409836,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kde-dev-utils,75,9,10,29,2,4,94,94,79.7872340425532,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kde-gtk-config,309,0,0,76,0,0,386,309,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kde-l10n,105160,0,0,21176,0,0,117524,105160,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kde-partitionmanager,1981,237,60,451,44,25,2330,2278,86.9622475856014,Portuguese <kde-i18n-pt_BR@kde.org>
+kde-print-manager,962,0,0,273,0,0,1066,962,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdebugsettings,103,8,8,31,2,4,105,119,86.5546218487395,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdenetwork-filesharing,42,0,0,12,0,0,42,42,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kdepim-addons,3392,65,250,662,10,61,3612,3707,91.50256271917992,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdepim-apps-libs,59,0,0,34,0,0,69,59,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdepim-runtime,6233,46,1471,1113,10,216,7220,7750,80.4258064516129,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdeplasma-addons,1550,0,9,563,0,2,1866,1559,99.42270686337396,Portuguese <kde-i18n-pt_BR@kde.org>
+kdesdk-kioslaves,82,0,0,17,0,0,90,82,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,6,4,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdesvn,4845,0,0,881,0,0,5927,4845,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdevelop,11034,1002,1958,2306,199,323,12821,13994,78.84807774760611,Portuguese <kde-i18n-pt_BR@kde.org>
+kdevelop-php,364,74,17,57,3,3,473,455,80.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kdevelop-python,503,44,35,85,11,5,580,582,86.42611683848797,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdevplatform,8118,143,484,1714,43,55,9427,8745,92.83018867924528,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdf,181,0,0,69,0,0,240,181,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdiagram,65,0,0,39,0,0,62,65,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdialog,347,0,0,70,0,0,437,347,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kdiamond,122,0,0,32,0,0,133,122,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdiff3,3770,0,0,663,0,0,4393,3770,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kdissert,2027,0,0,282,0,0,2102,2027,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kdnssd,30,0,0,7,0,0,31,30,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+keditbookmarks,466,0,0,132,0,0,546,466,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+keurocalc,291,0,0,116,0,0,342,291,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kexec-tools,83,0,0,12,0,0,92,83,100.0,Portuguese <en@li.org>
+kexi,5965,1302,84,1341,143,9,7202,7351,81.14542239151136,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-akonadi-calendar,1807,0,0,251,0,0,1994,1807,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-akonadi-contacts,1372,2,24,279,1,6,1570,1398,98.14020028612303,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-akonadi-mime,572,0,0,107,0,0,628,572,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-akonadi-search,7,0,41,3,0,8,8,48,14.583333333333334,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-akonadi-server,2282,78,83,402,11,12,2788,2443,93.40974212034384,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-audiocd-kio,841,0,0,177,0,0,1000,841,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-baloo,843,0,0,190,0,0,982,843,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-calendarsupport,2967,0,0,409,0,0,3178,2967,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-eventviews,2903,3,0,312,1,0,3201,2906,99.89676531314522,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-grantleetheme,12,2,0,5,1,0,17,14,85.71428571428571,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-incidenceeditor,2309,52,0,424,10,0,2458,2361,97.7975434138077,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kalarmcal,40,0,0,20,0,0,44,40,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kauth,73,0,0,8,0,0,83,73,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kblog,243,0,0,27,0,0,303,243,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,253,230,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kcalendarutils,1629,1,0,426,1,0,1731,1630,99.93865030674847,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kcmutils,564,0,0,72,0,0,634,564,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,322,348,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,19,18,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kconfig,261,0,0,100,0,0,298,261,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kconfigwidgets,321,0,0,117,0,0,417,321,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,197,177,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kcoreaddons,301,0,0,95,0,0,311,301,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,57,48,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,111,109,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,5817,4813,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,66,54,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kdesu,19,0,0,7,0,0,21,19,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,16,8,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kfilemetadata,148,0,0,82,0,0,199,148,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,71,71,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kholidays,109,0,0,77,0,0,123,109,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1776,1721,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-ki18n,124,0,0,110,0,0,129,124,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kiconthemes,37,0,0,18,0,0,43,37,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kidentitymanagement,165,0,0,21,0,0,184,165,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kimap,98,0,1,47,0,1,121,99,98.98989898989899,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kinit,134,0,0,14,0,0,147,134,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kio,11797,200,168,1349,4,7,12443,12165,96.97492807233867,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kirigami,2,0,0,2,0,0,2,2,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kirigami2,10,0,0,6,0,0,8,10,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,9,7,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kjobwidgets,123,0,0,36,0,0,125,123,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,291,248,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kldap,177,0,2,50,0,1,241,179,98.88268156424581,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kmailtransport,628,0,0,106,0,0,717,628,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kmime,159,0,0,10,0,0,147,159,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-knewstuff,690,0,0,158,0,0,773,690,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-knotifications,18,0,0,6,0,0,18,18,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,137,129,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,5,4,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kpackage,495,0,0,97,0,0,592,495,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kparts,104,0,0,26,0,0,112,104,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kpeople,21,0,0,11,0,0,24,21,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kpimtextedit,344,0,1,151,0,1,409,345,99.71014492753623,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kpty,15,0,0,4,0,0,17,15,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kross,100,0,0,35,0,0,131,100,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kservice,170,0,0,28,0,0,219,170,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-ksmtp,57,0,11,7,0,2,69,68,83.82352941176471,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-ktexteditor,7963,367,47,1172,39,5,8845,8377,95.05789662170227,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,493,462,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-ktnef,355,0,0,143,0,0,492,355,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kunitconversion,4957,208,101,2152,73,19,4984,5266,94.13216862894038,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kwallet,1624,0,0,131,0,0,1809,1624,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kwidgetsaddons,1319,0,0,458,0,0,1417,1319,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,4,2,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-kxmlgui,1596,0,0,228,0,0,1691,1596,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,15,13,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-libgravatar,27,0,0,12,0,0,35,27,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-libkcddb,557,0,0,251,0,0,602,557,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,15,15,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kf5-libkdepim,460,1,4,124,1,2,516,465,98.9247311827957,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,158,139,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-libkleo,721,57,372,166,24,100,853,1150,62.69565217391304,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-libksane,272,0,0,83,0,0,299,272,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-libksieve,3181,86,86,518,16,19,3567,3353,94.87026543393976,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-libktorrent,471,0,0,106,0,0,598,471,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-mailcommon,2653,27,121,448,7,12,2893,2801,94.7161727954302,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-mailimporter,1328,70,10,110,9,8,1501,1408,94.31818181818183,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-messagelib,5492,162,1946,847,40,297,6114,7600,72.26315789473684,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-pimcommon,812,26,171,219,9,14,876,1009,80.47571853320119,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-plasma,506,0,0,148,0,0,614,506,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-purpose,256,0,0,68,0,0,280,256,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-solid,682,0,0,222,0,0,733,682,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kf5-sonnet,663,0,0,72,0,0,636,663,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kf5-syntax-highlighting,327,0,127,231,0,65,346,454,72.02643171806167,Portuguese <kde-i18n-pt_BR@kde.org>
+kfind,505,0,0,118,0,0,583,505,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kflickr,332,0,0,87,0,0,368,332,100.0,Brazilian Portuguese <kde-i18n-doc@lists.kde.org>
+kfloppy,641,0,0,100,0,0,822,641,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kfourinline,392,0,0,157,0,0,479,392,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kgamma,130,0,0,16,0,0,144,130,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kgeography,9699,0,0,7133,0,0,10161,9699,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kget,2953,0,0,794,0,0,3319,2953,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kgoldrunner,23557,0,0,908,0,0,22956,23557,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kgpg,4985,237,60,644,39,15,5497,5282,94.37712987504733,Portuguese <kde-i18n-pt_BR@kde.org>
+kgrab,370,0,0,53,0,0,408,370,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kgraphviewer,1251,0,0,242,0,0,1348,1251,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+khangman,468,5,0,118,1,0,495,473,98.94291754756871,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+khelpcenter,256,0,0,87,0,0,319,256,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+khotkeys,436,0,0,129,0,0,495,436,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kiconedit,726,0,0,155,0,0,776,726,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kig,7756,0,0,1291,0,0,8026,7756,100.0,Brazilian portuguese <kde-i18n-pt_br@kde.org>
+kigo,500,0,0,129,0,0,556,500,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kile,11162,0,0,1902,0,0,12012,11162,100.0,Brazilian Portuguese <kde-i18n-pt_BR@kde.org>
+killbots,641,0,0,128,0,0,747,641,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kimchi,3947,0,0,618,0,0,4662,3947,100.0,Aline Manera <alinefm@br.ibm.com>
+kinfocenter,2919,0,0,1010,0,0,3424,2919,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kio-extras,915,0,0,128,0,0,1081,915,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kio-gdrive,2,0,12,1,0,1,2,14,14.285714285714285,Portuguese <kde-i18n-pt_BR@kde.org>
+kio_gopher,17,0,0,5,0,0,18,17,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kio_mtp,17,0,0,2,0,0,17,17,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kiriki,144,0,0,50,0,0,158,144,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kiten,641,0,0,179,0,0,790,641,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kjots,394,2,3,104,1,1,453,399,98.74686716791979,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kjumpingcube,412,0,0,95,0,0,484,412,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+klamav,2021,167,315,314,59,46,2015,2503,80.74310827007591,Brazilian Portuguese <pt_BR@li.org>
+klavaro,1911,0,0,232,0,0,1971,1911,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+kleopatra,6729,726,1159,1016,173,121,7923,8614,78.11701880659392,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+klettres,436,0,0,83,0,0,470,436,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+klickety,178,0,0,62,0,0,195,178,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+klines,99,0,0,28,0,0,119,99,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+klog,107,265,1366,85,135,270,110,1738,6.15650172612198,brazillian portuguese <pt-br@li.org>
+kmag,427,5,0,97,1,0,489,432,98.8425925925926,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kmahjongg,340,0,0,98,0,0,422,340,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kmail,8194,251,200,1248,50,20,9026,8645,94.78311162521689,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kmail-account-wizard,433,31,335,88,8,32,520,799,54.192740926157704,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kmenuedit,277,0,0,61,0,0,300,277,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kmid2,1022,0,0,333,0,0,1228,1022,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kmines,108,0,0,38,0,0,134,108,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kmix,907,0,0,219,0,0,1106,907,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kmousetool,111,32,4,28,3,1,129,147,75.51020408163265,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kmplayer,1248,1,0,370,1,0,1506,1249,99.919935948759,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kmplot,2458,0,0,471,0,0,2728,2458,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kmymoney,21026,0,0,3393,0,0,22656,21026,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+knavalbattle,399,0,0,102,0,0,450,399,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+knemo,1236,0,0,352,0,0,1467,1236,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+knetwalk,230,0,0,54,0,0,255,230,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+knights,757,0,0,219,0,0,854,757,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+knotes,728,61,0,224,15,0,800,789,92.26869455006337,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,9434,8417,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kolf,396,0,0,147,0,0,450,396,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kollision,109,0,0,30,0,0,128,109,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kolourpaint,2621,0,2,451,0,1,2985,2623,99.92375142966068,Portuguese <kde-i18n-pt_BR@kde.org>
+kompare,1426,4,0,192,4,0,1504,1430,99.72027972027972,Portuguese <kde-i18n-pt_BR@kde.org>
+konqueror,9027,0,0,1390,0,0,9930,9027,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+konquest,246,0,0,98,0,0,282,246,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+konsole5,2622,0,29,545,0,3,2984,2651,98.9060731799321,Portuguese <kde-i18n-pt_BR@kde.org>
+kontact,505,18,75,87,2,9,593,598,84.44816053511705,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+konversation,10294,0,0,1638,0,0,11385,10294,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+korganizer,6545,45,0,877,8,0,7054,6590,99.31714719271623,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kpat,436,0,0,132,0,0,529,436,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kphotoalbum,9295,154,115,989,16,14,10155,9564,97.18736930154746,Portuguese <kde-i18n-pt_BR@kde.org>
+kpilot,7156,0,0,861,0,0,8094,7156,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+kpmcore,2830,100,290,419,16,43,3523,3220,87.88819875776397,Portuguese <kde-i18n-pt_BR@kde.org>
+kproperty,137,7,1,78,3,1,162,145,94.48275862068965,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+krb5-auth-dialog,1821,0,0,362,0,0,2222,1821,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+krdc,1276,0,0,286,0,0,1457,1276,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+krecipes,3646,0,0,765,0,0,4087,3646,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kreport,430,7,77,192,3,39,555,514,83.65758754863813,Portuguese <kde-i18n-pt_BR@kde.org>
+kreversi,269,24,135,93,3,45,310,428,62.850467289719624,Portuguese <kde-i18n-pt_BR@kde.org>
+krfb,644,0,0,88,0,0,788,644,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+krita,15759,5776,3990,4311,1449,421,18837,25525,61.73947110675808,Portuguese <kde-i18n-pt_BR@kde.org>
+kruler,184,0,0,47,0,0,197,184,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+krusader,7815,46,47,1705,9,7,8982,7908,98.82397572078906,Portuguese <kde-i18n-pt_BR@kde.org>
+kscreen,213,0,0,64,0,0,246,213,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kscreenlocker,190,0,0,33,0,0,226,190,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kshisen,522,0,0,66,0,0,537,522,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ksig,85,0,0,26,0,0,101,85,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ksirk,5763,0,0,762,0,0,6138,5763,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+ksnakeduel,231,0,0,53,0,0,242,231,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kspaceduel,165,0,0,81,0,0,212,165,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+ksquares,257,0,0,76,0,0,264,257,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ksshaskpass,43,0,0,12,0,0,52,43,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kst,7288,0,0,1941,0,0,8948,7288,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kstars,28695,7168,20849,8708,1605,5620,32679,56712,50.59775708844689,Portuguese <kde-i18n-pt_BR@kde.org>
+ksudoku,1659,0,0,158,0,0,1749,1659,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+ksysguard,1078,0,0,233,0,0,1185,1078,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+ksystemlog,3034,0,0,479,0,0,3340,3034,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kteatime,201,0,0,65,0,0,225,201,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktimer,241,0,0,51,0,0,259,241,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+ktorrent,7510,28,0,1378,4,0,8209,7538,99.62854868665428,Portuguese <kde-i18n-pt_BR@kde.org>
+ktouch,871,0,0,242,0,0,1035,871,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1311,1100,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-approver,71,0,0,18,0,0,78,71,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,91,83,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-common-internals,989,0,0,206,0,0,1120,989,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-contact-list,408,0,0,109,0,0,474,408,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-contact-runner,177,0,0,35,0,0,227,177,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,80,75,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,176,141,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-kded-integration-module,277,0,0,54,0,0,288,277,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-send-file,60,0,0,18,0,0,74,60,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktp-text-ui,1441,0,0,321,0,0,1609,1441,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+ktuberling,158,0,0,38,0,0,190,158,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kturtle,1527,0,0,346,0,0,1685,1527,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kubrick,1203,0,0,165,0,0,1269,1203,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+kupfer,2530,0,0,708,0,0,2967,2530,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+kvirc,30093,0,594,4567,0,47,33496,30687,98.06432691367681,Portuguese (Brazil) (http://www.transifex.com/kvirc/KVIrc/language/pt_BR/)
+kwalletmanager5,781,5,16,162,1,3,833,802,97.38154613466334,Portuguese <kde-i18n-pt_BR@kde.org>
+kwebkitpart,624,0,0,158,0,0,663,624,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kwin,6229,2,0,1211,1,0,7560,6231,99.96790242336704,Portuguese <kde-i18n-pt_BR@kde.org>
+kwordquiz,2025,0,0,413,0,0,2191,2025,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+kxstitch,1966,0,0,560,0,0,2282,1966,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+l3afpad,113,0,17,61,0,3,142,130,86.92307692307692,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+labyrinth,226,0,0,73,0,0,254,226,100.0,LANGUAGE <LL@li.org>
+lasem,29,0,0,10,0,0,40,29,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+latexila,2480,0,889,631,0,54,2678,3369,73.61234787770852,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+lazarus,32287,4916,4514,9000,434,879,34800,41717,77.3953064697845,
+ldm,0,0,55,0,0,19,0,55,0.0,Brazilian Portuguese <pt_BR@li.org>
+leafpad,125,0,0,68,0,0,154,125,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+lekhonee-gnome,112,0,0,44,0,0,118,112,100.0,Brazilian Portuguese <trans-pt_br@lists.fedoraproject.org>
+lemonpos,512,327,501,175,94,147,524,1340,38.2089552238806,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+lftp,268,756,3001,48,97,355,299,4025,6.658385093167701,pt_BR <pt@li.org>
+libappstream-glib,455,0,5,98,0,1,516,460,98.91304347826086,Portuguese (Brazil) (http://www.transifex.com/freedesktop/appstream-glib/language/pt_BR/)
+libbonobo,543,0,0,107,0,0,665,543,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libbonoboui,368,0,0,115,0,0,465,368,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Portuguese (Brazil)
+libcryptui,752,0,0,192,0,0,871,752,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libepc,147,0,0,26,0,0,183,147,100.0,Brazilian Portuguese Team <gnome-l10n-br@listas.cipsga.org.br>
+libexif,1746,17,5214,657,3,517,1936,6977,25.025082413644835,Portuguese (Brazil) <pt_BR@li.org>
+libgda,9544,1034,6606,1815,164,434,11456,17184,55.54003724394786,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgdata,684,0,0,84,0,0,717,684,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgdl,659,0,0,96,0,0,718,659,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libghemical,878,0,14,208,0,9,988,892,98.4304932735426,Português Brasileiro <pt-br@li.org>
+libgnome,1773,0,0,273,0,0,2107,1773,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgnome-games-support,43,0,0,14,0,0,43,43,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgnome-keyring,44,0,0,9,0,0,46,44,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgnomecanvas,378,0,0,95,0,0,443,378,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgnomekbd,188,0,0,40,0,0,227,188,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgnomeui,1226,0,0,320,0,0,1384,1226,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgovirt,204,0,0,46,0,0,243,204,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgphoto2,462,0,0,76,0,0,555,462,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+libgsf,720,0,0,150,0,0,877,720,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgtop2,126,0,0,40,0,0,147,126,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libguestfs,8,0,212725,6,0,18478,8,212733,0.0037605825142314545,Portuguese (Brazil)
+libgweather,6370,0,0,4679,0,0,6531,6370,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libgxim,0,124,0,0,24,0,0,124,0.0,LANGUAGE <LL@li.org>
+libidn,414,0,14,58,0,2,461,428,96.72897196261682,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+libidn2,270,12,0,35,1,0,319,282,95.74468085106383,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+libkdegames,370,0,0,132,0,0,399,370,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,210,171,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+libkexif,21,4,0,13,1,0,24,25,84.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+libkfbapi,42,0,0,6,0,0,50,42,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+libkgapi,294,8,0,67,1,0,423,302,97.35099337748345,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+libkmahjongg,7,0,0,7,0,0,9,7,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+libkomparediff2,143,0,0,19,0,0,150,143,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+libksysguard,3166,0,0,396,0,0,3546,3166,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+libktorrent,519,0,0,115,0,0,648,519,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+libmatekbd,251,0,0,43,0,0,295,251,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+libmatemixer,242,0,0,126,0,0,312,242,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+libmateweather,6124,0,0,4557,0,0,6300,6124,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+libmx,40,0,0,16,0,0,39,40,100.0,
+libmypaint,1531,6,0,100,6,0,1694,1537,99.6096291476903,Portuguese (Brazil) <https://hosted.weblate.org/projects/mypaint/libmypaint/pt_BR/>
+libosinfo,23,0,639,16,0,129,25,662,3.474320241691843,Portuguese (Brazil)
+libpaper,73,0,0,46,0,0,81,73,100.0,l10n Portuguese <debian-l10n-portuguese@lists.debian.org>
+libpeas,112,0,0,34,0,0,116,112,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libpwquality,343,0,0,53,0,0,372,343,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/libpwquality/language/pt_BR/)
+libreoffice,556340,0,0,76536,0,0,596627,556340,100.0,LANGUAGE <LL@li.org>
+libreport,4987,0,0,607,0,0,5471,4987,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/libreport/language/pt_BR/)
+libsecret,59,0,0,9,0,0,70,59,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libsoup,155,0,0,36,0,0,222,155,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libuser,1014,38,385,219,7,75,1243,1437,70.56367432150313,Portuguese (Brazil) (http://www.transifex.com/projects/p/fedora/language/pt_BR/)
+libvirt,37129,3453,21701,6085,533,3044,46007,62283,59.613377647191044,Portuguese (Brazil) (http://www.transifex.com/projects/p/libvirt/language/pt_BR/)
+libvirt-glib,121,0,24,25,0,4,159,145,83.44827586206897,Portuguese (Brazil) (http://www.transifex.com/projects/p/libvirt-glib/language/pt_BR/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1328,1124,100.0,Portuguese/Brazil <gnome-pt_br-list@gnome.org>
+libwnck3,1086,0,0,231,0,0,1280,1086,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+libxfce4ui,851,0,0,165,0,0,1053,851,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/libxfce4ui/language/pt_BR/)
+libxfce4util,424,0,0,7,0,0,426,424,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+libzypp,2361,0,0,950,0,0,2671,2361,100.0,Portuguese (Brazil) <https://l10n.opensuse.org/projects/libzypp/master/pt_BR/>
+lifeograph,229,380,448,57,111,116,243,1057,21.665089877010406,Brazilian Portuguese <pt_BR@li.org>
+liferea,1856,133,224,439,26,30,2237,2213,83.86805241753275,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+light-locker,56,0,204,11,0,26,72,260,21.53846153846154,Portuguese (Brazil) (http://www.transifex.com/the_cavalry/light-locker/language/pt_BR/)
+lightdm,79,0,84,17,0,4,91,163,48.466257668711656,Brazilian Portuguese <pt_BR@li.org>
+lightdm-gtk,35,0,52,12,0,13,37,87,40.229885057471265,Brazilian Portuguese <pt_BR@li.org>
+lightdm-gtk-greeter-settings,168,0,351,72,0,99,191,519,32.369942196531795,Brazilian Portuguese <pt_BR@li.org>
+lightdm-settings,271,0,0,59,0,0,340,271,100.0,Brazilian Portuguese <pt_BR@li.org>
+lightsoff,1127,0,0,109,0,0,1230,1127,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+lilyterm,1648,0,0,295,0,0,1862,1648,100.0,
+lincity-ng,1895,0,0,477,0,0,1996,1895,100.0,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+lingot,119,0,1238,37,0,117,136,1357,8.769344141488578,Português do Brasil
+linphone,52,257,1544,26,116,323,55,1853,2.8062601187263896,pt_BR <pt_BR@li.org>
+linux_logo,45,3,6,15,3,5,45,54,83.33333333333334,LANGUAGE <LL@li.org>
+lokalize,3557,0,0,595,0,0,4100,3557,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+lollypop,663,8,341,215,2,89,798,1012,65.51383399209486,Portuguese (Brazil) <https://hosted.weblate.org/projects/gnumdk/lollypop/pt_BR/>
+lskat,254,0,0,83,0,0,288,254,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+lxappearance,234,0,0,80,0,0,325,234,100.0,Brazilian Porguese <ldp-br@bazar.conectiva.com.br>
+lxappearance-obconf,196,0,0,27,0,0,238,196,100.0,Brazilian Porguese <ldp-br@bazar.conectiva.com.br>
+lxde-common,14,0,0,5,0,0,18,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,52,47,100.0,
+lxinput,83,0,0,26,0,0,94,83,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+lxlauncher,58,0,0,17,0,0,61,58,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+lxmenu-data,97,0,0,37,0,0,113,97,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+lxmusic,203,0,0,89,0,0,270,203,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+lxrandr,167,0,0,41,0,0,194,167,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+lxsession,755,0,0,166,0,0,926,755,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+lxshortcut,43,0,0,19,0,0,56,43,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+lxtask,130,0,0,51,0,0,190,130,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+lxterminal,132,4,66,66,2,30,186,202,65.34653465346535,Portuguese (Brazilian) <translation@mailinglist.lxde.org>
+lynx,6665,698,815,953,120,158,7057,8178,81.49914404499877,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+lyx,25226,29,70,7216,8,4,27888,25325,99.60908193484698,Brazilian Portuguese <georger underscore br at yahoo dot com dot br>
+mail-notification,1854,0,0,348,0,0,1980,1854,100.0,Claudio André <claudio.andre@correios.net.br>
+mailman,23525,352,166,1431,5,4,25234,24043,97.84552676454685,Portuguese <mailman-i18n@python.org>
+mailnag,205,0,0,59,0,0,232,205,100.0,Brazilian Portuguese <pt_BR@li.org>
+make,1149,948,169,246,158,28,1317,2266,50.70609002647838,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+man-db,631,183,476,130,24,102,723,1290,48.91472868217054,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+man2html,58,0,0,3,0,0,60,58,100.0,Debian-BR Project <debian-l10n-portuguese@lists.debian.org>
+manaplus,5198,0,1010,1508,0,183,5840,6208,83.73067010309279,Portuguese (Brazil) (http://www.transifex.com/projects/p/manaplus/language/pt_BR/)
+marble,5046,2439,3910,1334,1011,965,5625,11395,44.28258007898201,Portuguese <kde-i18n-pt_BR@kde.org>
+marco,4148,0,0,413,0,0,4832,4148,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mariadb,119,50,95,8,5,7,137,264,45.07575757575758,Debian-BR Project <debian-l10n-portuguese@lists.debian.org>
+massif-visualizer,385,0,0,108,0,0,472,385,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+mate-applet-softupd,40,0,0,12,0,0,42,40,100.0,Brazilian Portuguese
+mate-applets,12555,0,0,1394,0,0,13534,12555,100.0,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+mate-backgrounds,51,0,0,28,0,0,52,51,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-calc,6960,0,0,1244,0,0,7530,6960,100.0,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+mate-control-center,2893,0,0,648,0,0,3499,2893,100.0,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+mate-desktop,2223,0,82,296,0,3,2835,2305,96.44251626898048,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-media,226,0,0,96,0,0,262,226,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-menu,316,0,0,118,0,0,387,316,100.0,Portuguese (Brazil) (http://www.transifex.com/mate/MATE/language/pt_BR/)
+mate-menus,97,0,0,37,0,0,118,97,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-notification-daemon,139,0,0,37,0,0,154,139,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-panel,5310,0,0,678,0,0,5926,5310,100.0,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+mate-polkit,122,0,0,20,0,0,126,122,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-power-manager,2724,0,0,440,0,0,3100,2724,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-screensaver,983,0,0,156,0,0,1146,983,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-sensors-applet,306,0,0,106,0,0,469,306,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-session-manager,681,0,0,114,0,0,772,681,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-settings-daemon,1764,0,0,253,0,0,2035,1764,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-system-monitor,1333,0,0,313,0,0,1681,1333,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-terminal,8313,0,0,799,0,0,9232,8313,100.0,Brazilian Portuguese <mate-l10n-br@listas.cipsga.org.br>
+mate-themes,60,0,0,12,0,0,64,60,100.0,Portuguese (Brazil) (http://www.transifex.com/mate/MATE/language/pt_BR/)
+mate-user-guide,26936,0,13885,1826,0,1105,28002,40821,65.9856446436883,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+mate-utils,3677,0,0,660,0,0,4268,3677,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+maya-calendar,427,0,0,172,0,0,528,427,100.0,Portuguese (Brazil) <https://l10n.elementary.io/projects/calendar/calendar/pt_BR/>
+mbox-importer,36,4,0,12,1,0,40,40,90.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+mc,2627,13,1513,819,1,398,3076,4153,63.255477967734166,Portuguese (Brazil) (http://www.transifex.com/mc/mc/language/pt_BR/)
+mcomix,545,476,1546,153,104,277,604,2567,21.231008959875343,
+meld,2641,0,0,534,0,0,3177,2641,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+menulibre,321,0,528,78,0,86,330,849,37.80918727915194,Brazilian Portuguese <pt_BR@li.org>
+mercurial,71939,0,1334,6010,0,33,78924,73273,98.17941124288619,Brazilian Portuguese <>
+metacity,1876,0,0,283,0,0,2265,1876,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+midori,3541,0,0,796,0,0,4076,3541,100.0,Brazilian Portuguese <xfce-i18n-br@xfce.org>
+minetest,5063,564,779,813,98,113,6008,6406,79.03527942553856,Portuguese (Brazil) <https://hosted.weblate.org/projects/minetest/minetest/pt_BR/>
+mingw-GConf2,4088,0,0,497,0,0,4748,4088,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-atk,440,0,0,169,0,0,529,440,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.com>
+mingw-binutils,967,0,0,184,0,0,1113,967,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-colord,1877,0,8,202,0,1,2205,1885,99.57559681697613,Portuguese (Brazil) (http://www.transifex.com/projects/p/colord/language/pt_BR/)
+mingw-colorhug-client,1236,0,173,257,0,37,1404,1409,87.72178850248403,Portuguese (Brazil) (http://www.transifex.com/projects/p/colorhug-client/language/pt_BR/)
+mingw-gcc,1342,0,0,213,0,0,1560,1342,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-gdb,434,0,0,86,0,0,500,434,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+mingw-gdbm,663,30,6,185,6,2,830,699,94.84978540772532,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-gdk-pixbuf,1409,0,0,211,0,0,1757,1409,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-gettext,7783,0,0,827,0,0,8672,7783,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-glib-networking,163,0,0,29,0,0,176,163,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-glib2,6932,0,0,1083,0,0,8070,6932,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-gstreamer,1898,5,14,343,2,3,2243,1917,99.00886802295254,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+mingw-gstreamer-plugins-bad-free,72,4,20,12,1,1,94,96,75.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+mingw-gstreamer-plugins-base,891,11,6,174,2,2,1103,908,98.12775330396477,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,995,814,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+mingw-gstreamer1,2031,32,15,371,3,1,2394,2078,97.73820981713186,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,158,42,8,22,7,2,211,208,75.96153846153845,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,916,33,0,193,5,0,1143,949,96.52265542676501,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,747,14,0,105,2,0,903,761,98.16031537450722,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-gtk-vnc,81,0,0,22,0,0,99,81,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-gtk2,12381,0,0,2582,0,0,13857,12381,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-gtk3,16008,0,0,3575,0,0,18039,16008,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-gtksourceview3,1156,0,0,630,0,0,1332,1156,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-gtkspell3,16,0,0,7,0,0,19,16,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-libgsf,720,0,0,150,0,0,877,720,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-libidn,414,0,14,58,0,2,461,428,96.72897196261682,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+mingw-libosinfo,1099,0,950,378,0,226,1100,2049,53.63591996095657,Portuguese (Brazil)
+mingw-libsoup,155,0,0,36,0,0,222,155,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-libvirt,37129,3453,21701,6085,533,3044,46007,62283,59.613377647191044,Portuguese (Brazil) (http://www.transifex.com/projects/p/libvirt/language/pt_BR/)
+mingw-libvirt-glib,121,0,24,25,0,4,159,145,83.44827586206897,Portuguese (Brazil) (http://www.transifex.com/projects/p/libvirt-glib/language/pt_BR/)
+mingw-p11-kit,476,0,0,81,0,0,501,476,100.0,Portuguese (Brazil) (http://www.transifex.com/freedesktop/p11-kit/language/pt_BR/)
+mingw-postgresql,52524,0,0,7449,0,0,60325,52524,100.0,Brazilian Portuguese <pgbr-dev@listas.postgresql.org.br>
+mingw-qt5-qtwebkit,1075,648,908,259,140,173,1253,2631,40.858988977575066,Brazilian Portuguese
+mingw-webkitgtk,2681,0,0,580,0,0,3304,2681,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-webkitgtk3,2681,0,0,580,0,0,3304,2681,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mingw-wxWidgets,6329,24,38,1459,8,8,7006,6391,99.02988577687373,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+minicom,1056,345,388,293,60,38,1249,1789,59.027389603130246,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+mintmenu,7472,0,0,1228,0,0,8280,7472,100.0,Brazilian Portuguese <pt_BR@li.org>
+mirage,608,146,63,186,51,8,682,817,74.4186046511628,Danilo Martins <mawkee@gmail.com>
+mkvtoolnix,9933,4994,7158,1146,904,669,10943,22085,44.97622820919176,Portuguese (Brazil) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/pt_BR/)
+mlocate,406,175,0,50,1,0,494,581,69.87951807228916,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+modem-manager-gui,577,0,1007,169,0,268,648,1584,36.426767676767675,Portuguese (Brazil) (http://www.transifex.com/ethereal/modem-manager-gui/language/pt_BR/)
+moin,5044,0,0,933,0,0,5466,5044,100.0,
+mono,4664,2017,1042,416,164,85,5340,7723,60.39103975139195,pt-BR <mono-list@lists.ximian.com>
+mono-tools,254,66,197,60,13,61,288,517,49.129593810444874,Maurício de Lemos Rodrigues Collares Neto <mauricioc@gmail.com>
+monodevelop,14742,4752,4321,3313,1300,819,16189,23815,61.90216250262439,Maurício de Lemos Rodrigues Collares Neto <mauricioc@gmail.com>
+monotone,4559,0,7157,670,0,867,5109,11716,38.91259815636736,Alex Sandro Queiroz e Silva <alex@ventonegro.org>
+moodle,46,0,0,13,0,0,47,46,100.0,i18n@lists.horde.org
+moserial,540,0,0,119,0,0,589,540,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mousepad,1088,0,0,306,0,0,1233,1088,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+mousetweaks,114,0,0,30,0,0,151,114,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mozo,42,0,0,16,0,0,45,42,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+msitools,142,0,0,52,0,0,174,142,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mtpaint,1342,0,1789,449,0,423,1449,3131,42.861705525391244,Portuguese (Brazil) <pt_BR@li.org>
+muffin,2038,0,0,272,0,0,2447,2038,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+multimedia-menus,56,0,0,22,0,0,70,56,100.0,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+mutt,2668,1807,1315,630,345,225,3147,5790,46.07944732297064,LIE-BR (http://lie-br.conectiva.com.br)
+mutter,947,0,0,134,0,0,1149,947,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+mydns,298,375,2047,59,84,370,326,2720,10.955882352941176,Brazilian Portuguese (pt_BR)
+mypaint,4396,816,1645,793,192,201,4871,6857,64.10966895143649,Portuguese (Brazil) <https://hosted.weblate.org/projects/mypaint/libmypaint/pt_BR/>
+nacl-arm-binutils,921,0,0,179,0,0,1057,921,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+nacl-arm-gcc,1230,0,0,201,0,0,1434,1230,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+nacl-binutils,921,0,0,179,0,0,1057,921,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+nano,3103,0,0,522,0,0,3430,3103,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+nautilus,6001,0,0,1117,0,0,6655,6001,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+nautilus-image-converter,64,0,0,32,0,0,73,64,100.0,Brasilian Portuguese <pt_BR@pt.br>
+nautilus-sendto,56,0,0,10,0,0,69,56,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+ncmpc,635,52,90,234,15,27,810,777,81.72458172458172,
+nemiver,2826,20,1359,476,5,35,3181,4205,67.20570749108205,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+nemo-extensions,258,0,0,49,0,0,292,258,100.0,Brazilian Portuguese <pt_BR@li.org>
+neovim,6629,143,76,1343,18,13,7546,6848,96.80198598130842,Brazilian Portuguese <pt-br@li.org>
+net-tools,2225,0,0,500,0,0,2477,2225,100.0,
+net6,304,0,0,68,0,0,343,304,100.0,Brazilian Portuguese <pt_BR@li.org>
+network-manager-applet,4484,0,0,943,0,0,5166,4484,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+neverball,2274,0,461,287,0,72,2059,2735,83.14442413162706,Portuguese (Brazil) (http://www.transifex.com/projects/p/neverball/language/pt_BR/)
+newt,4,0,0,4,0,0,4,4,100.0,Debian-BR Project <debian-l10n-portuguese@lists.debin.org>
+nfoview,115,0,1,42,0,1,135,116,99.13793103448276,Portuguese (Brazil) (http://www.transifex.com/otsaloma/nfoview/language/pt_BR/)
+nicotine+,1932,544,1664,470,189,287,2136,4140,46.666666666666664,Brazilian Portuguese
+nmap,165,0,3353,85,0,396,194,3518,4.690164866401365,
+noise,1322,0,0,377,0,0,1627,1322,100.0,Brazilian Portuguese <pt_BR@li.org>
+nomacs,11917,5855,17911,1863,1802,1984,13518,35683,33.3968556455455,Brazilian Portuguese <pt_BR@li.org>
+notejot,5,0,9,3,0,9,5,14,35.714285714285715,
+notification-daemon,33,0,0,11,0,0,43,33,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+obby,159,0,0,32,0,0,182,159,100.0,Brazilian Portuguese <pt_BR@li.org>
+obconf,723,0,15,153,0,3,828,738,97.96747967479675,Brazilian Portuguese
+office-runner,125,0,0,21,0,0,137,125,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+oggconvert,132,0,0,44,0,0,177,132,100.0,Brazilian Portuguese <pt_BR@li.org>
+okteta,2505,8,0,600,3,0,2715,2513,99.6816553919618,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+okular,4068,62,390,839,15,30,4542,4520,90.0,Portuguese <kde-i18n-pt_BR@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,152,158,100.0,LANGUAGE <LL@li.org>
+onboard,1604,0,714,382,0,128,1928,2318,69.19758412424504,Brazilian Portuguese <pt_BR@li.org>
+openbox,506,0,0,94,0,0,576,506,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+openconnect,4890,0,329,849,0,50,5712,5219,93.6961103659705,Portuguese (Brazil) <l10n-pt-br@meego.org.br>
+openerp,54049,0,3752,8531,0,635,58169,57801,93.50876282417259,
+openerp-client,7729,0,0,574,0,0,7988,7729,100.0,Brazilian Portuguese <pt_BR@li.org>
+openerp7,54664,0,12,8121,0,2,58966,54676,99.97805252761724,Brazilian Portuguese <pt_BR@li.org>
+openjfx,2699,0,0,586,0,0,3319,2699,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+openteacher,2338,0,1821,469,0,99,2725,4159,56.21543640298149,Brazilian Portuguese <pt_BR@li.org>
+openvas-gsa,1540,221,5646,592,47,1298,1691,7407,20.79114351289321,LANGUAGE <LL@li.org>
+orage,2931,0,0,1030,0,0,3217,2931,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce-apps/language/pt_BR/)
+orca,17484,0,0,2799,0,0,19869,17484,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+oscap-anaconda-addon,194,0,0,37,0,0,226,194,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/pt_BR/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Portuguese (Brazil)
+osmo,1620,0,151,664,0,34,1884,1771,91.47374364765669,Portuguese (Brazil)
+p11-kit,476,0,0,81,0,0,501,476,100.0,Portuguese (Brazil) (http://www.transifex.com/freedesktop/p11-kit/language/pt_BR/)
+pacman,5398,0,0,896,0,0,6274,5398,100.0,Portuguese (Brazil) (http://www.transifex.com/toofishes/archlinux-pacman/language/pt_BR/)
+palapeli,1512,0,0,180,0,0,1618,1512,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+pam,575,22,0,117,3,0,627,597,96.31490787269682,Portuguese (Brazil) (http://www.transifex.com/projects/p/linux-pam/language/pt_BR/)
+pam_krb5,7,0,0,4,0,0,8,7,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/pam_krb5/language/pt_BR/)
+pan,3492,0,0,805,0,0,4078,3492,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+pantheon-agent-geoclue2,43,0,0,11,0,0,47,43,100.0,Portuguese (Brazil) <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/pt_BR/>
+pantheon-agent-polkit,17,0,0,9,0,0,19,17,100.0,LANGUAGE <LL@li.org>
+pantheon-calculator,78,0,0,36,0,0,103,78,100.0,LANGUAGE <LL@li.org>
+pantheon-files,2595,0,81,508,0,15,2943,2676,96.97309417040358,Brazilian Portuguese <pt_BR@li.org>
+pantheon-greeter,29,0,0,10,0,0,30,29,100.0,Brazilian Portuguese <pt_BR@li.org>
+pantheon-photos,4114,0,0,873,0,0,4642,4114,100.0,Portuguese (Brazil) <https://l10n.elementary.io/projects/photos/photos/pt_BR/>
+pantheon-terminal,224,0,0,58,0,0,301,224,100.0,Brazilian Portuguese <pt_BR@li.org>
+paprefs,131,0,0,23,0,0,164,131,100.0,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+parcellite,550,0,25,99,0,7,632,575,95.65217391304348,Brazilian Portuguese <>
+parley,3842,0,0,752,0,0,4132,3842,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+parole,979,0,25,276,0,1,1181,1004,97.50996015936255,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+partclone,202,18,0,42,2,0,218,220,91.81818181818183,Brazilian Portuguese
+parted,4416,0,0,550,0,0,4968,4416,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+passwd,329,0,7,56,0,1,401,336,97.91666666666666,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+pastebinit,171,0,12,26,0,1,187,183,93.44262295081968,Brazilian Portuguese <pt_BR@li.org>
+pavucontrol,219,1,17,85,1,1,283,237,92.40506329113924,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+pbuilder,96,0,0,9,0,0,128,96,100.0,Brazilian Portuguese <debian-l10n-portuguese@lists.debian.org>
+pcb,6349,0,0,1387,0,0,7342,6349,100.0,pt_BR <ldpbr-translation@lists.sourceforge.net>
+pcmanfm,1210,0,0,296,0,0,1491,1210,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+pdfmod,316,0,0,89,0,0,343,316,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+perl-Padre,5513,0,0,1254,0,0,5739,5513,100.0,Brazilian Portuguese
+perl-libintl-perl,19,0,0,19,0,0,19,19,100.0,Brazilian Portuguese <guido.flohr@cantanea.com>
+pgadmin3,7088,8127,1683,2109,1993,300,8323,16898,41.94579240146763,The pgAdmin Development Team <pgadmin-hackers@postgresql.org>
+phatch,2428,0,125,796,0,28,2748,2553,95.10379945162553,Brazilian Portuguese <pt_BR@li.org>
+phd2,8154,0,581,1309,0,77,9472,8735,93.34859759587864,
+phodav,40,0,0,12,0,0,44,40,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+photoprint,530,92,795,168,44,107,575,1417,37.4029640084686,Krishnamurti Lelis Lima Vieira Nunes <krishna@colivre.coop.br>
+php-horde-Horde-Alarm,18,0,0,6,0,0,24,18,100.0,i18n@lists.horde.org
+php-horde-Horde-Argv,60,0,0,13,0,0,64,60,100.0,i18n@lists.horde.org
+php-horde-Horde-Browser,101,0,0,8,0,0,101,101,100.0,i18n@lists.horde.org
+php-horde-Horde-Cli,16,0,0,5,0,0,16,16,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,25,0,0,6,0,0,28,25,100.0,i18n@lists.horde.org
+php-horde-Horde-Core,1035,0,0,261,0,0,1080,1035,100.0,i18n@lists.horde.org
+php-horde-Horde-Crypt,332,0,0,79,0,0,396,332,100.0,i18n@lists.horde.org
+php-horde-Horde-Data,57,0,0,9,0,0,59,57,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,105,0,0,35,0,0,108,105,100.0,i18n@lists.horde.org
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,i18n@lists.horde.org
+php-horde-Horde-Form,560,0,0,148,0,0,605,560,100.0,i18n@lists.horde.org
+php-horde-Horde-Icalendar,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,382,123,79,199,48,40,419,584,65.41095890410958,i18n@lists.horde.org
+php-horde-Horde-Imsp,3,0,0,1,0,0,4,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,56,0,0,10,0,0,50,56,100.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,347,0,0,40,0,0,390,347,100.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,6,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,42,0,0,11,0,0,43,42,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,47,0,0,20,0,0,48,47,100.0,i18n@lists.horde.org
+php-horde-Horde-Nls,484,14,204,317,5,134,491,702,68.94586894586895,i18n@lists.horde.org
+php-horde-Horde-Perms,17,0,0,5,0,0,16,17,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,30,0,0,9,0,0,33,30,100.0,i18n@lists.horde.org
+php-horde-Horde-Rpc,31,0,0,5,0,0,33,31,100.0,i18n@lists.horde.org
+php-horde-Horde-Share,8,0,0,1,0,0,8,8,100.0,i18n@lists.horde.org
+php-horde-Horde-SyncMl,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,64,0,0,4,0,0,67,64,100.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,8,10,100.0,i18n@lists.horde.org
+php-horde-horde,3508,0,0,856,0,0,3792,3508,100.0,Português brasileiro <i18n@lists.horde.org>
+php-horde-imp,6873,0,0,1395,0,0,7234,6873,100.0,Português brasileiro <i18n@lists.horde.org>
+php-horde-ingo,1017,0,0,264,0,0,1125,1017,100.0,Português brasileiro <i18n@lists.horde.org>
+php-horde-kronolith,3858,0,0,801,0,0,4051,3858,100.0,i18n@lists.horde.org
+php-horde-mnemo,579,0,0,146,0,0,667,579,100.0,Português brasileiro <i18n@lists.horde.org>
+php-horde-nag,1637,0,0,381,0,0,1746,1637,100.0,Português brasileiro <i18n@lists.horde.org>
+php-horde-passwd,193,93,56,37,20,8,204,342,56.4327485380117,Portuguese-Brazil <i18n@lists.horde.org>
+php-horde-turba,1873,0,0,440,0,0,1901,1873,100.0,Português brasileiro <i18n@lists.horde.org>
+php-horde-wicked,673,0,0,176,0,0,669,673,100.0,Português brasileiro <i18n@lists.horde.org>
+php-phpmyadmin-sql-parser,227,0,0,44,0,0,252,227,100.0,Portuguese (Brazil) <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/pt_BR/>
+picard,1190,0,1703,622,0,623,1350,2893,41.13377117179399,Portuguese (Brazil) (http://www.transifex.com/projects/p/musicbrainz/language/pt_BR/)
+picmi,197,0,0,114,0,0,216,197,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+pidgin,15497,10,249,3408,1,24,17722,15756,98.35618177202335,Portuguese (Brazil) (http://www.transifex.com/pidgin/pidgin/language/pt_BR/)
+pidgin-birthday-reminder,204,0,85,57,0,9,220,289,70.58823529411765,Portuguese (Brazil) (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/pt_BR/)
+pidgin-guifications,435,38,32,181,5,6,442,505,86.13861386138613,pt_BR
+pidgin-libnotify,31,5,0,11,1,0,27,36,86.11111111111111,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+pidgin-musictracker,333,0,0,60,0,0,375,333,100.0,Brazilian Portuguese <pt_BR@li.org>
+pidgin-otr,1064,0,0,159,0,0,1108,1064,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/pidgin-otr/language/pt_BR/)
+pidgin-sipe,1064,0,55,256,0,17,1238,1119,95.08489722966935,Portuguese (Brazil) (http://www.transifex.com/stefanb/pidgin-sipe/language/pt_BR/)
+pim-data-exporter,670,58,11,174,10,2,863,739,90.66305818673884,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+pim-sieve-editor,190,49,196,64,18,35,205,435,43.67816091954023,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+pinfo,315,6,0,53,1,0,362,321,98.13084112149532,l10n portuguese <debian-l10n-portuguese@lists.debian.org>
+pingus,2431,93,2871,225,3,218,2393,5395,45.06024096385542,Brazilian Portuguese
+pinta,1332,0,286,466,0,62,1607,1618,82.32385661310259,Brazilian Portuguese <pt_BR@li.org>
+pitivi,2054,0,0,407,0,0,2361,2054,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+pix,3718,0,0,1202,0,0,4154,3718,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+plank,188,0,1,49,0,1,273,189,99.47089947089947,Brazilian Portuguese <pt_BR@li.org>
+planner,1795,0,0,527,0,0,2119,1795,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+plasma-breeze,263,0,0,97,0,0,369,263,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-desktop,12502,154,0,2369,9,0,13929,12656,98.78318584070797,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+plasma-discover,1193,2,1,358,2,1,1322,1196,99.74916387959865,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-drkonqi,4015,0,0,377,0,0,4345,4015,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-integration,58,0,0,21,0,0,58,58,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,203,172,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+plasma-milou,42,0,0,17,0,0,45,42,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-nm,4048,25,299,1089,4,12,4793,4372,92.58920402561756,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-oxygen,808,0,0,295,0,0,1087,808,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-pa,171,0,0,72,0,0,200,171,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-pk-updates,2051,13,17,395,4,1,2218,2081,98.55838539163864,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-sdk,854,0,0,250,0,0,1035,854,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-systemsettings,224,0,0,55,0,0,259,224,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-user-manager,295,0,0,49,0,0,306,295,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-vault,518,0,0,62,0,0,549,518,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+plasma-workspace,6984,70,0,2238,16,0,8190,7054,99.00765523107457,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+playonlinux,2238,0,490,402,0,47,2419,2728,82.03812316715543,Brazilian Portuguese <pt_BR@li.org>
+pluma,12625,0,0,1779,0,0,13672,12625,100.0,Brazilian Portuguese <mate-pt_br-list@gnome.org>
+plymouth-kcm,122,0,0,24,0,0,147,122,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+pmount,723,0,0,63,0,0,876,723,100.0,Portuguese (Brazil) <pt_BR@li.org>
+po-debconf,299,0,0,13,0,0,302,299,100.0,LANGUAGE <LL@li.org>
+po4a,25188,0,0,1510,0,0,25754,25188,100.0,Portuguese (Brazil) <https://hosted.weblate.org/projects/po4a/po4a/pt_BR/>
+poedit,2639,0,0,591,0,0,2873,2639,100.0,"Portuguese, Brazilian"
+pogo,576,0,0,101,0,0,644,576,100.0,Brazilian Portuguese <pt_BR@li.org>
+polari,1961,0,0,248,0,0,2124,1961,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+policycoreutils,4617,382,2679,686,82,310,5384,7678,60.13284709559781,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+polkit-gnome,94,0,0,16,0,0,93,94,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+polkit-kde,92,0,0,28,0,0,97,92,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+postgis,10739,3199,134136,1032,109,6738,11023,148074,7.252454853654254,LANGUAGE <kde-i18n-doc@kde.org>
+postgresql,52524,0,0,7449,0,0,60325,52524,100.0,Brazilian Portuguese <pgbr-dev@listas.postgresql.org.br>
+postgresql-jdbc,1580,214,462,183,26,69,1716,2256,70.0354609929078,Brazilian Portuguese <pgbr-dev@listas.postgresql.org.br>
+powerdevil,673,0,0,120,0,0,767,673,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+pptpd,429,0,0,23,0,0,432,429,100.0,Debian-BR Project <debian-l10n-portuguese@lists.debian.org>
+pragha,585,0,305,190,0,86,655,890,65.73033707865169,Portuguese (Brazil) (http://www.transifex.com/p/Pragha/language/pt_BR/)
+prewikka,337,171,797,206,83,139,383,1305,25.82375478927203,Portuguese
+prozilla,1429,0,34,262,0,7,1523,1463,97.676008202324,Debian-BR <debian-br@listas.cipsga.org.br>
+psad,163,103,227,23,5,2,182,493,33.062880324543606,Portuguese/Brazil
+psmisc,646,346,0,80,5,0,738,992,65.12096774193549,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+pspp,2564,2934,4882,575,650,783,2786,10380,24.701348747591524,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+publican,1757,82,3604,146,4,466,2035,5443,32.27999265111152,Portuguese <en@li.org>
+publican-fedora,6,0,101,1,0,7,7,107,5.607476635514018,Brazilian Portuguese <en@li.org>
+pulseaudio,3524,0,0,530,0,0,3989,3524,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+pulsecaster,0,0,147,0,0,20,0,147,0.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/pulsecaster/language/pt_BR/)
+purple-telegram,471,0,165,88,0,33,533,636,74.05660377358491,Portuguese (Brazil) (https://www.transifex.com/telegram-purple-developers/teams/53149/pt_BR/)
+pybliographer,970,0,0,262,0,0,1148,970,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+pychess,4455,0,0,879,0,0,4619,4455,100.0,Portuguese (Brazil) (http://www.transifex.com/gbtami/pychess/language/pt_BR/)
+pykickstart,1326,0,111,147,0,12,1415,1437,92.27557411273486,Portuguese (Brazil) (http://www.transifex.com/projects/p/pykickstart/language/pt_BR/)
+pyroom,34,0,377,16,0,58,40,411,8.27250608272506,Brazilian Portuguese <pt_BR@li.org>
+python-blivet,692,0,0,97,0,0,791,692,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/blivet/language/pt_BR/)
+python-blivet1,696,11,0,131,1,0,787,707,98.44413012729845,Portuguese (Brazil)
+python-caja,6,0,0,2,0,0,5,6,100.0,Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)
+python-colander,138,0,23,27,0,3,158,161,85.71428571428571,Portuguese <>
+python-django,3618,0,0,824,0,0,3859,3618,100.0,Portuguese (Brazil) (http://www.transifex.com/django/django/language/pt_BR/)
+python-django-avatar,101,19,0,17,3,0,103,120,84.16666666666667,LANGUAGE <LL@li.org>
+python-django-countries,429,0,10,262,0,2,397,439,97.72209567198178,Portuguese (Brazil) (http://www.transifex.com/smileychris/django-countries/language/pt_BR/)
+python-django-debug-toolbar,355,0,2,136,0,1,398,357,99.43977591036415,Portuguese (Brazil) (http://www.transifex.com/projects/p/django-debug-toolbar/language/pt_BR/)
+python-django-extensions,37,0,0,14,0,0,44,37,100.0,LANGUAGE <LL@li.org>
+python-django-formtools,32,0,0,11,0,0,36,32,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/django-formtools/language/pt_BR/)
+python-django-helpdesk,3203,0,0,494,0,0,3206,3203,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/django-helpdesk/language/pt_BR/)
+python-django-keyedcache,16,2,0,9,1,0,19,18,88.88888888888889,LANGUAGE <LL@li.org>
+python-django-mptt,188,0,0,22,0,0,186,188,100.0,LANGUAGE <LL@li.org>
+python-django-openstack-auth,84,0,0,16,0,0,98,84,100.0,Portuguese (Brazil)
+python-django-registration,81,0,0,15,0,0,97,81,100.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,558,0,24,89,0,12,603,582,95.87628865979381,Portuguese (Brazil) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/pt_BR/)
+python-django-reversion,117,0,0,20,0,0,114,117,100.0,Tangerina Lab <beto@tangerinalab.com>
+python-django-robots,212,0,0,18,0,0,234,212,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/django-robots/language/pt_BR/)
+python-django-simple-captcha,11,0,0,3,0,0,11,11,100.0,Alisson Patricio <eu@alisson.net>
+python-django-tables2,9,0,0,4,0,0,9,9,100.0,Portuguese (Brazil) <LL@li.org>
+python-fedora,214,0,0,29,0,0,224,214,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/python-fedora/language/pt_BR/)
+python-flask-admin,361,0,0,109,0,0,387,361,100.0,"Portuguese, Brazilian"
+python-formencode,554,70,189,79,8,28,592,813,68.14268142681426,Jorge Godoy <godoy@g2ctech.com>
+python-imdb,10,0,311,10,0,311,15,321,3.115264797507788,Portuguese (Brazil) (http://www.transifex.com/davide_alberani/imdbpy/language/pt_BR/)
+python-kitchen,52,4,0,18,4,0,54,56,92.85714285714286,pt_BR <LL@li.org>
+python-kiwi,244,0,0,77,0,0,245,244,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+python-lettuce,7585,0,21,2439,0,5,7922,7606,99.7239021824875,Grupo de Localização para o Português <django-l10n-portuguese@googlegroups.com>
+python-meh,109,0,0,23,0,0,104,109,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/python-meh/language/pt_BR/)
+python-oslo-cache,65,0,0,10,0,0,74,65,100.0,Portuguese (Brazil)
+python-oslo-policy,85,0,0,6,0,0,90,85,100.0,Portuguese (Brazil)
+python-oslo-utils,11,0,0,2,0,0,13,11,100.0,Portuguese (Brazil)
+python-rpm-generators,2776,10,1622,559,2,291,3357,4408,62.976406533575314,Portuguese (Brazil) (http://www.transifex.com/rpm-team/rpm/language/pt_BR/)
+python-simpleline,16,0,26,6,0,10,13,42,38.095238095238095,Portuguese (Brazil)
+python-sphinx,537,0,662,195,0,74,586,1199,44.78732276897415,Portuguese (Brazil) (http://www.transifex.com/sphinx-doc/sphinx-1/language/pt_BR/)
+python-uranium,604,0,0,153,0,0,631,604,100.0,Cláudio Sampaio
+python-wxpython4,7880,0,0,1952,0,0,9341,7880,100.0,Felipe <felipefplzx@gmail.com>
+qof,554,0,0,35,0,0,574,554,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+qt-recordmydesktop,816,0,0,104,0,0,832,816,100.0,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+qtwebkit,1093,0,0,262,0,0,1266,1093,100.0,Brazilian Portuguese
+quadrapassel,628,6,883,136,1,54,711,1517,41.397495056031644,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+quassel,4378,0,1044,1047,0,178,4873,5422,80.74511250461084,Portuguese (Brazil) (http://www.transifex.com/ald/quassel/language/pt_BR/)
+quicksynergy,18,0,0,11,0,0,22,18,100.0,Brazilian Portuguese
+quodlibet,1349,1180,3187,409,372,596,1486,5716,23.60041987403779,Portuguese/Brazil <gnome-l10n-br@listas.cipspa.org.br>
+rabbitvcs,1335,0,189,407,0,65,1452,1524,87.5984251968504,Brazilian Portuguese <pt_BR@li.org>
+radiotray,117,0,13,43,0,3,149,130,90.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/radiotray/language/pt_BR/)
+rapid-photo-downloader,1639,0,192,383,0,26,1788,1831,89.51392681594757,Brazilian Portuguese <pt_BR@li.org>
+rapidsvn,1143,158,118,360,49,27,1268,1419,80.54968287526427,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+rawstudio,148,198,1260,93,91,318,158,1606,9.21544209215442,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,789,0,0,127,0,0,971,789,100.0,Portuguese (Brazil) (http://www.transifex.com/freedesktop/realmd/language/pt_BR/)
+redhat-menus,261,0,0,86,0,0,312,261,100.0,Brazilian Portuguese <fedora-trans-pt-br@redhat.com>
+rednotebook,1034,0,113,227,0,13,1241,1147,90.14821272885789,Brazilian Portuguese <pt_BR@li.org>
+redshift,388,0,638,78,0,73,461,1026,37.8167641325536,Brazilian Portuguese <pt_BR@li.org>
+regexxer,466,0,1,99,0,1,529,467,99.78586723768737,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+rekonq,2202,0,0,593,0,0,2599,2202,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+remmina,770,0,1365,227,0,304,917,2135,36.0655737704918,Brazilian Portuguese <pt_BR@li.org>
+renameutils,9,179,77,7,31,16,10,265,3.3962264150943398,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+resapplet,106,0,0,22,0,0,110,106,100.0,Novell Language <language@novell.com>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Brazilian Portuguese
+revelation,910,0,1035,213,0,189,996,1945,46.7866323907455,Portuguese (Brazil) (http://www.transifex.com/projects/p/revelation/language/pt_BR/)
+rhn-client-tools,3815,227,15,409,9,2,4197,4057,94.03500123243776,Portuguese (Brazil) (http://www.transifex.com/projects/p/spacewalk/language/pt_BR/)
+rhnsd,20,0,13,5,0,4,22,33,60.60606060606061,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+rhythmbox,5431,25,6322,1188,1,322,6364,11778,46.11139412463916,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+rhythmbox-alternative-toolbar,310,0,0,58,0,0,360,310,100.0,Brazilian Portuguese <pt_BR@li.org>
+ristretto,761,0,0,198,0,0,942,761,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+rkward,33852,244,308,3851,16,24,37777,34404,98.39553540286013,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+rocs,1376,0,0,283,0,0,1623,1376,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+root,4,205,2,1,9,1,5,211,1.8957345971563981,l10n Portuguese <debian-l10n-portuguese@lists.debian.org>
+roxterm,6497,0,1020,866,0,72,7181,7517,86.43075695091127,Portuguese (Brazil) (http://www.transifex.com/realh/roxterm/language/pt_BR/)
+rpm,2776,60,1614,559,14,291,3357,4450,62.38202247191011,Portuguese (Brazil) (http://www.transifex.com/rpm-team/rpm/language/pt_BR/)
+rsibreak,1098,0,0,153,0,0,1158,1098,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+rt,10975,0,433,2398,0,180,12314,11408,96.20441795231417,Brazilian Portuguese <pt_BR@li.org>
+rygel,1624,0,0,303,0,0,1918,1624,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+samba,187,67,270,31,18,79,221,524,35.68702290076336,Novell Language <language@novell.com>
+sawfish,2327,0,4290,547,0,507,2789,6617,35.16699410609037,Portuguese (Brazil) (http://www.transifex.com/projects/p/sawfish-master/language/pt_BR/)
+scilab,23843,232,27514,3612,26,3923,27824,51589,46.21721684855299,Brazilian Portuguese <pt_BR@li.org>
+scratch,1462,0,8,620,0,6,1728,1470,99.45578231292517,LANGUAGE <LL@li.org>
+scratch-text-editor,890,0,0,213,0,0,1118,890,100.0,Brazilian Portuguese <pt_BR@li.org>
+screenshot-tool,146,0,0,44,0,0,211,146,100.0,Brazilian Portuguese <pt_BR@li.org>
+scummvm,2054,661,1931,567,116,277,2294,4646,44.21007318123117,Portuguese (Brazil) <https://translations.scummvm.org/projects/scummvm/scummvm/pt_BR/>
+sddm-kcm,104,0,0,43,0,0,123,104,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+seahorse,2494,0,0,572,0,0,2818,2494,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+seahorse-caja,487,0,0,121,0,0,542,487,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+seahorse-nautilus,487,0,0,121,0,0,542,487,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+seahorse-sharing,97,0,0,22,0,0,131,97,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+sed,810,0,0,141,0,0,958,810,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+sequeler,228,0,1,87,0,1,256,229,99.56331877729258,
+setroubleshoot,642,0,19,180,0,1,779,661,97.12556732223904,Portuguese (Brazil) (http://www.transifex.com/projects/p/fedora/language/pt_BR/)
+setroubleshoot-plugins,4104,0,2104,150,0,71,4438,6208,66.1082474226804,Portuguese (Brazil) (http://www.transifex.com/projects/p/fedora/language/pt_BR/)
+setuptool,55,0,0,14,0,0,68,55,100.0,Brazilian Portuguese <fedora-docs-br@redhat.com>
+sflphone,3102,0,65,794,0,19,3528,3167,97.94758446479318,Brazilian Portuguese <pt_BR@li.org>
+shadow-utils,3329,404,328,498,52,46,3665,4061,81.97488303373554,Debian-BR Project <debian-l10n-portuguese@lists.debian.org>
+shared-mime-info,1915,0,0,743,0,0,2377,1915,100.0,Portuguese (Brazil) (http://www.transifex.com/freedesktop/shared-mime-info/language/pt_BR/)
+sharutils,2974,173,0,299,5,0,3256,3147,94.50270098506515,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+shotwell,13369,0,0,1636,0,0,14824,13369,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+shutter,3093,0,0,606,0,0,3617,3093,100.0,Brazilian Portuguese <pt_BR@li.org>
+simon,11816,0,0,2451,0,0,13300,11816,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+simple-ccsm,11,4,80,9,1,13,13,95,11.578947368421053,Brazilian Portuguese <pt_BR@li.org>
+simple-scan,2200,0,0,303,0,0,2540,2200,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+skanlite,183,0,0,63,0,0,222,183,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+skrooge,9271,1244,1042,2092,153,171,10136,11557,80.21978021978022,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+skychart,6524,33,0,1926,3,0,7043,6557,99.49672106146103,
+sleuthkit,1476,194,5291,563,77,534,1595,6961,21.20385002154863,Portuguese (Brazil) <pt_BR@li.org>
+slick-greeter,211,0,0,47,0,0,231,211,100.0,Brazilian Portuguese <pt_BR@li.org>
+slingshot-launcher,216,0,1,67,0,1,226,217,99.53917050691244,Portuguese (Brazil) <https://l10n.elementary.io/projects/wingpanel/applications-menu/pt_BR/>
+smb4k,6378,113,66,695,21,17,7093,6557,97.27009303034924,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+smuxi,1979,0,497,455,0,101,2120,2476,79.92730210016154,Portuguese (Brazil) (http://www.transifex.com/projects/p/smuxi/language/pt_BR/)
+snap-photobooth,25,0,0,5,0,0,38,25,100.0,Brazilian Portuguese <pt_BR@li.org>
+snapd,0,0,3717,0,0,413,0,3717,0.0,Brazilian Portuguese <pt_BR@li.org>
+snapper,743,0,0,180,0,0,889,743,100.0,Portuguese (Brazil) <https://l10n.opensuse.org/projects/snapper/master/pt_BR/>
+snownews,849,0,1,186,0,1,934,850,99.88235294117646,Portuguese <br@li.org>
+solaar,486,0,0,109,0,0,524,486,100.0,Sídnei A. Drovetto Jr.
+solfege,15573,0,0,1626,0,0,15546,15573,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+sos,54,33,35,11,7,12,60,122,44.26229508196721,Brazilian Portuguese <trans-pt_br@lists.fedoraproject.org>
+sound-juicer,3565,0,0,330,0,0,4014,3565,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+soundconverter,372,0,16,117,0,4,454,388,95.87628865979381,Portuguese/Brazil <gnome-l10n-br@listas.cipsga.org.br>
+soundkonverter,4062,0,0,570,0,0,4423,4062,100.0,Portuguese (Brazil) (http://www.transifex.com/hessijames/soundkonverter/language/pt_BR/)
+spacefm,8793,0,285,1612,0,10,10148,9078,96.86054196959682,Portuguese (Brazil) (http://www.transifex.com/ignorantguru/spacefm/language/pt_BR/)
+sparkleshare,366,0,1,80,0,1,389,367,99.72752043596729,
+spectacle,511,0,0,91,0,0,621,511,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+specto,219,151,565,57,40,130,248,935,23.422459893048128,Brazilian Portuguese <pt_BR@li.org>
+speedcrunch,79,0,14,7,0,3,87,93,84.94623655913979,Portuguese (Brazil) (http://www.transifex.com/heldercorreia/speedcrunch/language/pt_BR/)
+spyder,5978,0,11,1170,0,2,6583,5989,99.81632993822006,pt_BR
+squirrelmail,7427,0,18,1478,0,2,8120,7445,99.75822699798522,Portugues Brasileiro <squirrelmail-i18n@lists.sourceforge.net>
+sscg,78,0,16,29,0,5,93,94,82.97872340425532,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+sssd,51,0,35736,16,0,3004,59,35787,0.14250984994551094,Portuguese (Brazil)
+stardict,1118,643,1274,161,127,305,1187,3035,36.836902800658976,Brazilian Portuguese <pt@li.org>
+steadyflow,423,0,47,88,0,5,467,470,90.0,Brazilian Portuguese <pt_BR@li.org>
+stellarium,17407,0,49633,4576,0,21655,19700,67040,25.965095465393794,Portuguese (Brazil) (https://www.transifex.com/stellarium/teams/80998/pt_BR/)
+step,1905,0,0,675,0,0,2166,1905,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+subdownloader,968,0,0,272,0,0,1068,968,100.0,LANGUAGE <LL@li.org>
+subscription-manager,5940,0,0,1040,0,0,6774,5940,100.0,Portuguese (Brazil)
+subtitleeditor,3961,0,0,966,0,0,4495,3961,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+subversion,9172,6820,3868,1321,464,358,10625,19860,46.18328298086606,Brazilian Portuguese <dev@subversion.tigris.org>
+sudo,4125,0,0,596,0,0,4919,4125,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+sugar,1733,0,0,419,0,0,1961,1733,100.0,Brazilian Portuguese <fedora-docs-br@redhat.com>
+sugar-abacus,23,0,11,23,0,2,23,34,67.64705882352942,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,39,18,132,25,2,25,40,189,20.634920634920633,Brazilian Portuguese <fedora-docs-br@redhat.com>
+sugar-calculator,377,92,402,87,17,60,372,871,43.28358208955223,LANGUAGE <LL@li.org>
+sugar-calendario,12,0,31,11,0,16,12,43,27.906976744186046,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,151,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,64,2,0,19,2,0,646,66,96.96969696969697,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,33,31,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,89,8,2,23,2,1,92,99,89.8989898989899,LANGUAGE <LL@li.org>
+sugar-finance,49,86,54,23,2,15,52,189,25.925925925925924,LANGUAGE <LL@li.org>
+sugar-fototoon,3,0,74,3,0,30,3,77,3.896103896103896,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,42,0,77,17,0,16,45,119,35.294117647058826,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,22,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,78,0,0,21,0,0,79,78,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,165,2,69,52,1,9,179,236,69.91525423728814,LANGUAGE <LL@li.org>
+sugar-jukebox,65,0,4,20,0,2,76,69,94.20289855072464,LANGUAGE <LL@li.org>
+sugar-labyrinth,245,1,35,86,1,7,265,281,87.18861209964413,LANGUAGE <LL@li.org>
+sugar-log,41,4,53,13,1,7,48,98,41.83673469387755,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,9,8,138,5,4,64,11,155,5.806451612903226,Portuguese
+sugar-memorize,23,6,113,12,5,57,24,142,16.19718309859155,LANGUAGE <LL@li.org>
+sugar-moon,90,0,27,31,0,2,102,117,76.92307692307693,Brazilian Portuguese <pt-BR@li.org>
+sugar-paint,41,0,49,36,0,16,49,90,45.55555555555556,Language locale/pt
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,43,15,51,15,1,15,50,109,39.44954128440367,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,150,137,100.0,Brazilian Portuguese <fedora-docs-br@redhat.com>
+sugar-record,20,2,40,12,1,11,21,62,32.25806451612903,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,238,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,55,0,66,14,0,12,57,121,45.45454545454545,LANGUAGE <LL@li.org>
+sugar-toolkit,72,1,0,36,1,0,74,73,98.63013698630137,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,80,40,0,69,78,156,48.717948717948715,LANGUAGE <LL@li.org>
+sugar-turtleart,1112,347,0,364,71,0,1245,1459,76.2165867032214,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,Brazilian Portuguese
+sugar-visualmatch,37,0,121,19,0,59,41,158,23.417721518987342,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,130,121,100.0,Brazilian Portuguese <fedora-docs-br@redhat.com>
+supertux,2979,1,0,917,1,0,3347,2980,99.96644295302013,Portuguese (Brazil) (http://www.transifex.com/arctic-games/supertux/language/pt_BR/)
+supertuxkart,3358,0,3,751,0,1,3624,3361,99.91074085093722,Portuguese (Brazil) (http://www.transifex.com/supertuxkart/supertuxkart/language/pt_BR/)
+sushi,24,0,0,11,0,0,29,24,100.0,Português Brasileiro <gnome-pt_br-list@gnome.org>
+svgpart,22,0,0,7,0,0,25,22,100.0,Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>
+swatchbooker,160,0,0,77,0,0,165,160,100.0,
+sweeper,229,0,0,50,0,0,284,229,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+swell-foop,340,3,1281,86,2,46,420,1624,20.935960591133004,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+switchboard,61,0,0,18,0,0,71,61,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard/pt_BR/>
+switchboard-plug-a11y,189,0,0,68,0,0,234,189,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/pt_BR/>
+switchboard-plug-about,117,0,0,37,0,0,132,117,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/pt_BR/>
+switchboard-plug-applications,85,0,6,29,0,2,99,91,93.4065934065934,Portuguese (Brazil) <http://weblate.elementary.io/projects/desktop/switchboard-plug-applications/pt_BR/>
+switchboard-plug-bluetooth,69,0,4,25,0,2,76,73,94.52054794520548,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/pt_BR/>
+switchboard-plug-display,104,0,0,41,0,0,128,104,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/pt_BR/>
+switchboard-plug-keyboard,396,0,7,154,0,2,513,403,98.26302729528535,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/pt_BR/>
+switchboard-plug-mouse-touchpad,67,0,0,27,0,0,81,67,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/pt_BR/>
+switchboard-plug-networking,442,0,0,128,0,0,486,442,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/pt_BR/>
+switchboard-plug-notifications,131,0,8,18,0,2,136,139,94.24460431654677,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/pt_BR/>
+switchboard-plug-onlineaccounts,161,0,0,49,0,0,175,161,100.0,Brazilian Portuguese <pt_BR@li.org>
+switchboard-plug-pantheon-shell,135,0,9,51,0,2,171,144,93.75,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/pt_BR/>
+switchboard-plug-printers,336,0,0,138,0,0,360,336,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/pt_BR/>
+switchboard-plug-sound,90,0,0,37,0,0,114,90,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/pt_BR/>
+switchdesk,139,0,0,20,0,0,168,139,100.0,Brazilian Portuguese <fedora-docs-br@redhat.com>
+sylpheed,7118,14,7,1764,6,1,8194,7139,99.70584115422328,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+synapse,761,0,63,212,0,15,861,824,92.35436893203884,Brazilian Portuguese <pt_BR@li.org>
+synaptic,3118,102,11,647,12,3,3400,3231,96.5026307644692,Debian-BR Project <debian-l10n-portuguese@lists.debian.org>
+syncevolution,1132,0,0,163,0,0,1146,1132,100.0,Portuguese (Brazilian) <l10n-pt-br@meego.org.br>
+syncthing-gtk,1745,0,56,336,0,6,2056,1801,96.8906163242643,Portuguese (Brazil) (http://www.transifex.com/syncthing-gtk/syncthing-gtk/language/pt_BR/)
+synfig,4685,11,0,1174,4,0,5052,4696,99.76575809199318,Portuguese (Brazil) (http://www.transifex.com/morevnaproject/synfig/language/pt_BR/)
+synfigstudio,6564,0,0,1567,0,0,7524,6564,100.0,Portuguese (Brazil) (http://www.transifex.com/morevnaproject/synfig/language/pt_BR/)
+sysprof,1402,0,0,160,0,0,1515,1402,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+sysstat,702,0,0,76,0,0,825,702,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+system-config-bind,9434,0,0,1065,0,0,10503,9434,100.0,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+system-config-firewall,2807,0,7,330,0,1,3192,2814,99.75124378109453,Portuguese <en@li.org>
+system-config-httpd,877,0,0,227,0,0,995,877,100.0,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+system-config-kdump,866,0,11,151,0,5,1042,877,98.74572405929305,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+system-config-keyboard,187,0,0,81,0,0,206,187,100.0,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+system-config-kickstart,1144,0,0,253,0,0,1310,1144,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/system-config-kickstart/language/pt_BR/)
+system-config-language,197,0,0,29,0,0,225,197,100.0,Brazilian Portuguese <trans-pt_br@lists.fedoraproject.org>
+system-config-printer,3150,9,1,747,7,1,3634,3160,99.68354430379746,Portuguese (Brazil) (http://www.transifex.com/projects/p/system-config-printer/language/pt_BR/)
+system-config-rootpassword,116,0,0,19,0,0,137,116,100.0,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+system-config-users,1436,0,85,172,0,8,1651,1521,94.41157133464826,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+system-config-users-docs,866,193,2,73,7,2,913,1061,81.62111215834119,
+system-switch-java,81,0,0,11,0,0,94,81,100.0,Brazilian Portuguese <fedora-trans-pt_br@redhat.com>
+system-switch-mail,134,0,0,20,0,0,171,134,100.0,Brazilian Portuguese <fedora-docs-br@redhat.com>
+systemd,985,0,0,115,0,0,1070,985,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+tagtool,958,0,0,211,0,0,1045,958,100.0,Brasil <pt@li.org>
+tali,2404,0,0,184,0,0,2489,2404,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+tar,2497,352,771,443,41,106,2883,3620,68.97790055248619,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+tcpreen,327,0,0,40,0,0,344,327,100.0,<gnome-l10n-br@listas.cipsga.org.br>
+teg,2278,62,38,556,19,8,2387,2378,95.79478553406223,Brazilian Portuguese <C@li.org>
+tellico,5558,43,25,1169,13,4,6105,5626,98.79132598649129,Portuguese <kde-i18n-pt_BR@kde.org>
+template-glib,23,0,0,4,0,0,28,23,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+tepl,154,0,0,54,0,0,166,154,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+terminator,1343,0,67,395,0,22,1472,1410,95.2482269503546,Brazilian Portuguese <pt_BR@li.org>
+texi2html,251,32,70,109,12,31,260,353,71.10481586402267,Brazilian Portuguese <guido@imperia.net>
+texinfo,5951,333,222,959,82,12,6467,6506,91.46941284967723,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+texlive,1226,0,3,304,0,2,1479,1229,99.75589910496339,Paulo Roberto Massa Cereda <cereda@users.sf.net>
+thunar-archive-plugin,86,0,0,13,0,0,94,86,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+thunar-media-tags-plugin,156,0,0,58,0,0,173,156,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+thunar-vcs-plugin,595,0,0,320,0,0,655,595,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/thunar-plugins/language/pt_BR/)
+thunar-vfs,341,0,46,67,0,19,349,387,88.11369509043928,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+thunar-volman,487,0,0,113,0,0,531,487,100.0,Portuguese (Brazil) <xfce-i18n-br@xfce.org>
+tigervnc,697,0,0,157,0,0,827,697,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+tilda,249,12,485,100,6,94,272,746,33.37801608579088,
+tilix,2326,24,12,622,11,6,2597,2362,98.47586790855208,Portuguese (Brazil) <https://hosted.weblate.org/projects/tilix/manpage/pt_BR/>
+timeshift,2844,84,123,562,14,18,3796,3051,93.21533923303835,Brazilian Portuguese <pt_BR@li.org>
+tomboy,3576,501,2668,503,45,130,4020,6745,53.01704966641957,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+tortoisehg,12984,0,0,2386,0,0,14903,12984,100.0,Portuguese <pt@li.org>
+totem,6078,0,0,648,0,0,6764,6078,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+totem-pl-parser,29,0,0,8,0,0,32,29,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+trac,7283,890,5080,1282,19,189,8091,13253,54.95359541235947,pt_BR <trac-dev@googlegroups.com>
+trac-accountmanager-plugin,628,1,579,140,1,63,693,1208,51.98675496688742,Portuguese (Brazil) (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/pt_BR/)
+tracker,2211,0,0,369,0,0,2574,2211,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+tracker-miners,827,0,0,118,0,0,926,827,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+transmageddon,327,0,0,70,0,0,423,327,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+transmission,1809,0,0,494,0,0,2271,1809,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+transmission-remote-gtk,457,0,348,239,0,108,532,805,56.77018633540373,Brazilian Portuguese <pt_BR@li.org>
+trojita,4375,4,9,886,2,5,5173,4388,99.70373746581586,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+tryton,1574,0,0,421,0,0,1833,1574,100.0,
+trytond,2592,38,18,1174,20,14,3027,2648,97.88519637462235,
+trytond-account,2575,102,66,1140,58,22,2985,2743,93.87531899380241,
+trytond-account-invoice,1028,0,0,371,1,0,1248,1028,100.0,
+trytond-account-invoice-history,2,0,0,1,0,0,2,2,100.0,
+trytond-account-invoice-line-standalone,10,0,0,4,0,0,16,10,100.0,
+trytond-account-product,205,77,14,74,17,4,244,296,69.25675675675676,
+trytond-account-statement,231,0,0,127,0,0,287,231,100.0,
+trytond-account-stock-anglo-saxon,50,24,0,9,3,0,56,74,67.56756756756756,
+trytond-account-stock-continental,224,101,0,54,15,0,267,325,68.92307692307692,
+trytond-analytic-account,184,0,0,95,0,0,211,184,100.0,
+trytond-analytic-invoice,13,0,0,3,0,0,15,13,100.0,
+trytond-analytic-purchase,22,0,0,4,0,0,23,22,100.0,
+trytond-analytic-sale,13,0,0,3,0,0,15,13,100.0,
+trytond-calendar,621,0,0,283,0,0,753,621,100.0,
+trytond-calendar-classification,2,0,0,2,0,0,2,2,100.0,
+trytond-calendar-scheduling,100,0,0,50,0,0,104,100,100.0,
+trytond-sale,523,4,9,258,3,5,640,536,97.57462686567165,
+trytond-sale-opportunity,317,1,2,172,1,1,397,320,99.0625,
+trytond-sale-price-list,5,0,0,2,0,0,8,5,100.0,
+trytond-stock,1176,15,12,539,14,10,1342,1203,97.75561097256858,
+trytond-stock-forecast,174,0,0,81,0,0,230,174,100.0,
+trytond-stock-inventory-location,17,0,0,11,0,0,17,17,100.0,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,23,0,0,14,0,0,29,23,100.0,
+trytond-stock-supply,147,0,0,58,0,0,176,147,100.0,
+trytond-stock-supply-day,27,0,0,18,0,0,34,27,100.0,
+trytond-timesheet,261,17,0,128,3,0,333,278,93.88489208633094,
+tumbler,241,0,0,39,0,0,304,241,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/tumbler/language/pt_BR/)
+tuna,337,0,1010,93,0,27,407,1347,25.01855976243504,pt_BR <pt-br@li.org>
+turpial,858,0,0,227,0,0,933,858,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/turpial-1/language/pt_BR/)
+tuxmath,238,115,1102,71,13,165,247,1455,16.3573883161512,
+tuxpaint,1591,0,0,291,0,0,1704,1591,100.0,none
+tvtime,1222,0,0,246,0,0,1377,1222,100.0,Português do Brasil
+udisks2,1920,0,89,476,0,15,2103,2009,95.56993529118965,Portuguese (Brazil)
+ufw,702,0,177,167,0,14,851,879,79.86348122866895,Brazilian Portuguese <pt_BR@li.org>
+ufw-kde,815,0,0,190,0,0,945,815,100.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+uget,996,48,15,354,11,5,1214,1059,94.05099150141642,Portuguese (Brazil) (http://www.transifex.com/uget/uget/language/pt_BR/)
+ultimatestunts,590,0,0,152,0,0,624,590,100.0,Brazilian Portuguese
+umbrello,4489,101,344,1307,33,62,5225,4934,90.9809485204702,Portuguese <kde-i18n-pt_BR@kde.org>
+umit,3658,825,110,679,174,24,4067,4593,79.6429349009362,Portuguese/Brazil <umit@globalred.com.br>
+unetbootin,3159,0,0,178,0,0,3512,3159,100.0,LANGUAGE <LL@li.org>
+usermode,573,0,0,96,0,0,635,573,100.0,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+util-linux,22933,36,10,4028,5,1,26866,22979,99.7998172244223,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+v4l-utils,2269,254,99,465,20,19,2655,2622,86.53699466056446,Brazilian Portuguese
+valyriatear,1244,138,2895,331,59,299,1269,4277,29.085807809212067,Team Allacrost
+vdrift,1518,0,121,353,0,49,1695,1639,92.61744966442953,Portuguese (Brazil) (http://www.transifex.com/projects/p/vdrift/language/pt_BR/)
+viewnior,375,0,50,121,0,23,436,425,88.23529411764706,Brazilian Portuguese <pt_BR@li.org>
+viking,1743,0,2392,459,0,597,1925,4135,42.152357920193474,Brazilian Portuguese <pt_BR@li.org>
+vim,9989,0,0,1937,0,0,11208,9989,100.0,Brazilian Portuguese
+vinagre,2541,0,0,357,0,0,2948,2541,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+vino,1228,0,0,134,0,0,1422,1228,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+virt-manager,8074,58,232,1698,11,27,9681,8364,96.53275944524151,Portuguese (Brazil) (http://www.transifex.com/projects/p/virt-manager/language/pt_BR/)
+virt-top,361,0,0,77,0,0,451,361,100.0,Portuguese (Brazilian) <trans-pt_br@lists.fedoraproject.org>
+virt-viewer,750,0,34,164,0,5,866,784,95.66326530612244,Portuguese (Brazil) (http://www.transifex.com/projects/p/virt-viewer/language/pt_BR/)
+virtaal,1433,0,0,426,0,0,1647,1433,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+visualboyadvance-m,2221,35,2,817,8,2,2537,2258,98.3613817537644,Portuguese (Brazil) (http://www.transifex.com/bgk/vba-m/language/pt_BR/)
+vocal,377,0,0,79,0,0,409,377,100.0,Brazilian Portuguese <pt_BR@li.org>
+volume_key,745,10,8,151,2,1,928,763,97.64089121887287,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+vte,80,0,0,13,0,0,97,80,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+vte291,31,0,0,5,0,0,36,31,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+vte3,80,0,0,13,0,0,97,80,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+wammu,5090,169,31,905,12,6,5631,5290,96.21928166351607,Portuguese (Brazil) <https://hosted.weblate.org/projects/gammu/wammu-doc/pt_BR/>
+warmux,1630,381,733,291,75,106,1695,2744,59.40233236151603,Portuguese/Brazil <razor85@users.sourceforge.net>
+wdiff,993,0,0,150,0,0,1104,993,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+webkitgtk4,2215,0,0,568,0,0,2583,2215,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+weechat,6618,8539,15083,981,606,666,7675,30240,21.884920634920636,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,189894,42631,44080,12647,2100,2682,185037,276605,68.65168742430542,Portuguese - Brasil
+wget,3685,167,81,607,22,6,4435,3933,93.69438087973558,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+whaawmp,799,0,0,160,0,0,859,799,100.0,Brazilian Portuguese <pt_BR@li.org>
+whois,163,103,227,23,5,2,182,493,33.062880324543606,Portuguese/Brazil
+wicd,1138,0,0,254,0,0,1293,1138,100.0,pt_BR <LL@li.org>
+wicd-kde,358,0,0,122,0,0,428,358,100.0,Brazilian Portuguese <kde-i18n-pt_BR@kde.org>
+widelands,14729,0,26134,1700,0,2070,14709,40863,36.044832733768935,Portuguese (Brazil) (http://www.transifex.com/widelands/widelands/language/pt_BR/)
+wine,14111,1132,514,3300,105,87,15842,15757,89.55384908294725,Portuguese (Brazil)
+wine-mono,4760,1683,830,426,130,66,5452,7273,65.44754571703561,pt-BR <mono-list@lists.ximian.com>
+wingpanel,8,0,0,2,0,0,9,8,100.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,225,0,0,72,0,0,238,225,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/applications-menu/pt_BR/>
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,17,15,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/pt_BR/>
+wingpanel-indicator-datetime,20,0,0,6,0,0,25,20,100.0,Portuguese (Brazil) <http://weblate.elementary.io/projects/desktop/wingpanel-indicator-datetime/pt_BR/>
+wingpanel-indicator-keyboard,10,0,0,4,0,0,14,10,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/pt_BR/>
+wingpanel-indicator-network,76,0,0,22,0,0,82,76,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/pt_BR/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,22,16,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/pt_BR/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,19,16,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/pt_BR/>
+wingpanel-indicator-power,93,0,0,27,0,0,95,93,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/pt_BR/>
+wingpanel-indicator-session,57,0,0,18,0,0,52,57,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/pt_BR/>
+wingpanel-indicator-sound,14,0,0,6,0,0,19,14,100.0,Portuguese (Brazil) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/pt_BR/>
+wireshark,79,0,179,4,0,12,80,258,30.620155038759687,Portuguese (Brazil) (https://www.transifex.com/wireshark/teams/36457/pt_BR/)
+wlassistant,688,157,246,85,24,44,679,1091,63.06141154903758,Polish
+workrave,1010,174,137,188,55,19,1046,1321,76.45722937168811,
+wxGTK,6329,24,38,1459,8,8,7006,6391,99.02988577687373,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+wxGTK3,7880,0,0,1952,0,0,9341,7880,100.0,Felipe <felipefplzx@gmail.com>
+wxMaxima,2775,286,2140,743,77,232,3002,5201,53.35512401461258,LANGUAGE <LL@li.org>
+wxPython,9792,52,295,2487,20,75,11401,10139,96.57757175263832,Felipe <felipefpl@ig.com.br>
+xarchiver,1131,0,0,277,0,0,1301,1131,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+xcdroast,8040,4,0,847,1,0,8261,8044,99.95027349577325,Brazilian Portuguese <pt@li.org>
+xchm,153,17,64,64,7,25,159,234,65.38461538461539,Brazilian Portuguese
+xcowsay,202,0,8,26,0,1,209,210,96.19047619047619,Português do Brasil <pt@li.org>
+xdg-desktop-portal,88,0,0,12,0,0,88,88,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+xdg-desktop-portal-gtk,169,0,0,47,0,0,186,169,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+xdg-desktop-portal-kde,11,0,0,8,0,0,14,11,100.0,Portuguese <kde-i18n-pt_BR@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,32,28,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+xdg-user-dirs-gtk,81,0,0,11,0,0,88,81,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+xdialog,20,0,1,14,0,1,19,21,95.23809523809523,Bresilian Portugese <LL@li.org>
+xed,12162,0,0,1660,0,0,13147,12162,100.0,Brazilian Portuguese <mate-pt_br-list@gnome.org>
+xfbib,342,0,0,75,0,0,362,342,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+xfburn,1362,0,51,304,0,2,1535,1413,96.39065817409767,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+xfce4-appfinder,322,0,0,70,0,0,365,322,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce/language/pt_BR/)
+xfce4-battery-plugin,147,0,0,42,0,0,173,147,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-clipman-plugin,478,0,0,72,0,0,507,478,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,164,140,100.0,Portuguese (Brazil) <xfce-i18n-br@xfce.org>
+xfce4-cpugraph-plugin,76,0,0,37,0,0,85,76,100.0,Brazilian Portuguese <xfce-i18n-br@xfce.org>
+xfce4-datetime-plugin,52,0,0,19,0,0,57,52,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-dict,527,0,0,119,0,0,590,527,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,212,183,100.0,Brazilian Portuguese <xfce-i18n-br@xfce.org>
+xfce4-embed-plugin,438,0,0,66,0,0,487,438,100.0,Brazilian Portuguese <xfce-i18n-br@xfce.org>
+xfce4-eyes-plugin,15,0,0,4,0,0,15,15,100.0,Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>
+xfce4-fsguard-plugin,71,0,0,19,0,0,92,71,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+xfce4-genmon-plugin,56,0,0,14,0,0,58,56,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,392,356,100.0,Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>
+xfce4-mailwatch-plugin,685,0,0,111,0,0,832,685,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce/language/pt_BR/)
+xfce4-mixer,94,29,58,12,11,13,100,181,51.93370165745856,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+xfce4-mount-plugin,374,0,0,56,0,0,405,374,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-mpc-plugin,76,0,0,24,0,0,103,76,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/pt_BR/)
+xfce4-netload-plugin,92,0,0,35,0,0,102,92,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/pt_BR/)
+xfce4-notes-plugin,163,0,0,57,0,0,181,163,100.0,Brazilian Portuguese <ldpldp-br@bazar2.conectiva.com.br>
+xfce4-notifyd,259,0,0,74,0,0,297,259,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+xfce4-panel,1709,0,0,395,0,0,1923,1709,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce4-panel/language/pt_BR/)
+xfce4-places-plugin,157,0,0,44,0,0,159,157,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+xfce4-power-manager,1017,0,0,202,0,0,1192,1017,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce4-power-manager/language/pt_BR/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,182,148,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-screenshooter,431,0,0,64,0,0,480,431,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+xfce4-sensors-plugin,358,0,0,74,0,0,408,358,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/pt_BR/)
+xfce4-session,1066,0,0,208,0,0,1256,1066,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce/language/pt_BR/)
+xfce4-settings,1662,0,0,359,0,0,1855,1662,100.0,Portuguese (Brazil) (https://www.transifex.com/xfce/teams/16840/pt_BR/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,26,22,100.0,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,140,129,100.0,Portuguese (Brazil) (https://www.transifex.com/xfce/teams/16840/pt_BR/)
+xfce4-systemload-plugin,75,0,0,24,0,0,98,75,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-taskmanager,257,0,0,85,0,0,292,257,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+xfce4-terminal,1647,0,0,390,0,0,1940,1647,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-apps/language/pt_BR/)
+xfce4-time-out-plugin,89,0,0,32,0,0,108,89,100.0,Brazilian Portuguese <xfce-i18n-br@xfce.org>
+xfce4-timer-plugin,131,3,0,41,1,0,153,134,97.76119402985076,Portuguese (Brazil) <xfce-i18n-br@xfce.org>
+xfce4-verve-plugin,108,0,0,28,0,0,132,108,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,70,67,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/pt_BR/)
+xfce4-weather-plugin,3668,0,0,330,0,0,4018,3668,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfce4-whiskermenu-plugin,261,0,88,97,0,21,328,349,74.78510028653295,Portuguese (Brazil) (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/pt_BR/)
+xfce4-xkb-plugin,49,0,0,21,0,0,57,49,100.0,Portuguese (Brazil) (http://www.transifex.com/xfce/xfce-panel-plugins/language/pt_BR/)
+xfconf,452,0,0,67,0,0,520,452,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfconf/language/pt_BR/)
+xfdesktop,979,0,0,222,0,0,1192,979,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfdesktop/language/pt_BR/)
+xfe,3337,2568,49,1002,47,29,3758,5954,56.046355391333556,Brazilian Portuguese <>
+xfmpc,146,2,19,62,1,7,169,167,87.42514970059881,Brazilian Portuguese <ldp-br@bazar2.conectiva.com.br>
+xfwm4,673,0,0,173,0,0,825,673,100.0,Portuguese (Brazil) (http://www.transifex.com/projects/p/xfwm4/language/pt_BR/)
+xiphos,710,362,3732,188,66,856,771,4804,14.779350541215653,Brazilian Portuguese <pt_BR@li.org>
+xkeyboard-config,3608,0,0,1095,0,0,3948,3608,100.0,Brazilian Portuguese <ldpbr-translation@lists.sourceforge.net>
+xmms,3424,15,4,1038,5,2,3547,3443,99.44815567818762,Brazilian Portuguese
+xmoto,3794,0,45,813,0,9,4097,3839,98.82781974472519,Portuguese/Brazil
+xournal,1018,0,0,283,0,0,1295,1018,100.0,
+xpad,378,0,28,121,0,4,472,406,93.10344827586206,Brazilian Portuguese <pt_BR@li.org>
+xplayer,6558,0,0,745,0,0,7376,6558,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+xplayer-plparser,29,0,0,8,0,0,32,29,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+xreader,3560,0,0,584,0,0,3931,3560,100.0,Portuguese <mate-l10n-br@listas.cipsga.org.br>
+xsane,2008,979,237,521,150,57,2364,3224,62.28287841191067,Brazilian Portuguese <pt_BR@li.org>
+xscreensaver,4080,65,6595,1584,5,210,4857,10740,37.988826815642454,Debian-BR Project <debian-l10n-portuguese@lists.debian.org>
+xviewer,2080,477,3984,445,84,211,2323,6541,31.799419049075066,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+xviewer-plugins,342,0,0,89,0,0,414,342,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+yad,1676,0,0,382,0,0,2068,1676,100.0,Brazilian
+yakuake,1485,46,42,218,2,1,1696,1573,94.4055944055944,Portuguese <kde-i18n-pt_BR@kde.org>
+yelp,448,0,0,104,0,0,480,448,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+yelp-xsl,81,0,0,59,0,0,84,81,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+yum,2730,0,339,599,0,61,3158,3069,88.95405669599218,Portuguese (Brazilian) (http://www.transifex.net/projects/p/yum/team/pt_BR/)
+yum-rhn-plugin,60,39,48,10,3,4,73,147,40.816326530612244,Portuguese (Brazil) <trans-pt_br@lists.fedoraproject.org>
+zabbix,15730,0,78,3259,0,10,19714,15808,99.50657894736842,Zabbix <info@zabbix.com>
+zanshin,0,619,274,0,142,103,0,893,0.0,Brazilian Portuguese <kde-i18n-pt_br@kde.org>
+zathura,477,0,113,122,0,18,525,590,80.84745762711864,Portuguese (Brazil) (http://www.transifex.com/projects/p/zathura/language/pt_BR/)
+zenity,3883,0,0,543,0,0,4514,3883,100.0,Brazilian Portuguese <gnome-pt_br-list@gnome.org>
+znc,163,0,8418,36,0,1686,185,8581,1.8995455075166066,"Portuguese, Brazilian"
+zypper,10071,0,0,956,0,0,10691,10071,100.0,Portuguese (Brazil) <https://l10n.opensuse.org/projects/zypper/master/pt_BR/>

@@ -1,0 +1,883 @@
+---
+title: "lv-Latvian (Latviešu) - translation progress for f39"
+date: 2026-01-18T08:55:05+00:00
+code: lv
+name_english: Latvian
+name_local: Latviešu
+progress: 36.88
+progress_d: 7.63
+release: f39
+territories:
+ - LV
+polib_error_count: 2
+could_not_process_count: 1693
+---
+
+Language progress for Latvian (lv) in Fedora f39 is:
+
+* 36.88% when we only look on started packages for this language.
+* 7.63% when we compare to every single translatable string in Fedora f39.
+
+Possible scripts are: Latn
+
+* Total translatable string in Fedora f39: 20873322
+* Source words to translate in started packages: 4320250
+* Translated words: 1593468
+
+
+Download:
+
+
+
+
+* [lv generated stats (71.1 kB)]({{% resource url="/f39/lv.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [GConf2]({{< ref "/f39/package/GConf2.md" >}}) | 4074 | 4074 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [NetworkManager-iodine]({{< ref "/f39/package/NetworkManager-iodine.md" >}}) | 77 | 77 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [NetworkManager-vpnc]({{< ref "/f39/package/NetworkManager-vpnc.md" >}}) | 606 | 606 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [PackageKit]({{< ref "/f39/package/PackageKit.md" >}}) | 993 | 993 | 100.0 | Latvian (http://www.transifex.com/freedesktop/packagekit/language/lv/) | 
+ | [abattis-cantarell-fonts]({{< ref "/f39/package/abattis-cantarell-fonts.md" >}}) | 27 | 27 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [accerciser]({{< ref "/f39/package/accerciser.md" >}}) | 658 | 658 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [accountsservice]({{< ref "/f39/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | Latvian (http://www.transifex.com/freedesktop/accountsservice/language/lv/) | 
+ | [aisleriot]({{< ref "/f39/package/aisleriot.md" >}}) | 2982 | 2982 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [alacarte]({{< ref "/f39/package/alacarte.md" >}}) | 45 | 45 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [almanah]({{< ref "/f39/package/almanah.md" >}}) | 786 | 786 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [anjuta]({{< ref "/f39/package/anjuta.md" >}}) | 8398 | 8398 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [at-spi2-core]({{< ref "/f39/package/at-spi2-core.md" >}}) | 447 | 447 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [atomix]({{< ref "/f39/package/atomix.md" >}}) | 108 | 108 | 100.0 | Latvian <ll10nt@ttc.lv> | 
+ | [baobab]({{< ref "/f39/package/baobab.md" >}}) | 299 | 299 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [bijiben]({{< ref "/f39/package/bijiben.md" >}}) | 390 | 390 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [bison]({{< ref "/f39/package/bison.md" >}}) | 52 | 52 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [boinc-client]({{< ref "/f39/package/boinc-client.md" >}}) | 4836 | 4836 | 100.0 | Latvian (http://www.transifex.com/boinc/boinc/language/lv/) | 
+ | [brasero]({{< ref "/f39/package/brasero.md" >}}) | 7751 | 7751 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [budgie-screensaver]({{< ref "/f39/package/budgie-screensaver.md" >}}) | 270 | 270 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [budgie-session]({{< ref "/f39/package/budgie-session.md" >}}) | 435 | 435 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [byzanz]({{< ref "/f39/package/byzanz.md" >}}) | 236 | 236 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [caribou]({{< ref "/f39/package/caribou.md" >}}) | 169 | 169 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [cheese]({{< ref "/f39/package/cheese.md" >}}) | 628 | 628 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [cinnamon-desktop]({{< ref "/f39/package/cinnamon-desktop.md" >}}) | 234 | 234 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [clutter]({{< ref "/f39/package/clutter.md" >}}) | 3057 | 3057 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [cogl]({{< ref "/f39/package/cogl.md" >}}) | 393 | 393 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [console-setup]({{< ref "/f39/package/console-setup.md" >}}) | 984 | 984 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [cups-pk-helper]({{< ref "/f39/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | Latvian (http://www.transifex.com/freedesktop/cups-pk-helper/language/lv/) | 
+ | [d-feet]({{< ref "/f39/package/d-feet.md" >}}) | 80 | 80 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [dasher]({{< ref "/f39/package/dasher.md" >}}) | 1292 | 1292 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [dconf-editor]({{< ref "/f39/package/dconf-editor.md" >}}) | 2955 | 2955 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [debconf]({{< ref "/f39/package/debconf.md" >}}) | 191 | 191 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [devhelp]({{< ref "/f39/package/devhelp.md" >}}) | 413 | 413 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [dialog]({{< ref "/f39/package/dialog.md" >}}) | 25 | 25 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [eog]({{< ref "/f39/package/eog.md" >}}) | 6381 | 6381 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [eog-plugins]({{< ref "/f39/package/eog-plugins.md" >}}) | 403 | 403 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [epiphany]({{< ref "/f39/package/epiphany.md" >}}) | 4791 | 4791 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [evince]({{< ref "/f39/package/evince.md" >}}) | 8923 | 8923 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [evolution]({{< ref "/f39/package/evolution.md" >}}) | 30704 | 30704 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [evolution-data-server]({{< ref "/f39/package/evolution-data-server.md" >}}) | 7918 | 7918 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [evolution-ews]({{< ref "/f39/package/evolution-ews.md" >}}) | 1314 | 1314 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [evolution-mapi]({{< ref "/f39/package/evolution-mapi.md" >}}) | 1039 | 1039 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [exif]({{< ref "/f39/package/exif.md" >}}) | 296 | 296 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [file-roller]({{< ref "/f39/package/file-roller.md" >}}) | 1307 | 1307 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [filezilla]({{< ref "/f39/package/filezilla.md" >}}) | 5271 | 5271 | 100.0 | Latvian <ssimss@gmail.com> | 
+ | [five-or-more]({{< ref "/f39/package/five-or-more.md" >}}) | 239 | 239 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [folks]({{< ref "/f39/package/folks.md" >}}) | 1023 | 1023 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [four-in-a-row]({{< ref "/f39/package/four-in-a-row.md" >}}) | 480 | 480 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [frogr]({{< ref "/f39/package/frogr.md" >}}) | 696 | 696 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gbrainy]({{< ref "/f39/package/gbrainy.md" >}}) | 8889 | 8889 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gcab]({{< ref "/f39/package/gcab.md" >}}) | 154 | 154 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gconf-editor]({{< ref "/f39/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gcr]({{< ref "/f39/package/gcr.md" >}}) | 418 | 418 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gcr3]({{< ref "/f39/package/gcr3.md" >}}) | 795 | 795 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gdk-pixbuf2]({{< ref "/f39/package/gdk-pixbuf2.md" >}}) | 1325 | 1325 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gdm]({{< ref "/f39/package/gdm.md" >}}) | 686 | 686 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gedit]({{< ref "/f39/package/gedit.md" >}}) | 10613 | 10613 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gedit-latex]({{< ref "/f39/package/gedit-latex.md" >}}) | 468 | 468 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gedit-plugins]({{< ref "/f39/package/gedit-plugins.md" >}}) | 3114 | 3114 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [genius]({{< ref "/f39/package/genius.md" >}}) | 6253 | 6253 | 100.0 | <lv@li.org> | 
+ | [gftp]({{< ref "/f39/package/gftp.md" >}}) | 3334 | 3334 | 100.0 | Latvian <locale@laka.lv> | 
+ | [ggz-base-libs]({{< ref "/f39/package/ggz-base-libs.md" >}}) | 72 | 72 | 100.0 | Latvian <locale@laka.lv> | 
+ | [ghex]({{< ref "/f39/package/ghex.md" >}}) | 973 | 973 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gitg]({{< ref "/f39/package/gitg.md" >}}) | 2034 | 2034 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [glabels]({{< ref "/f39/package/glabels.md" >}}) | 2858 | 2858 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [glade]({{< ref "/f39/package/glade.md" >}}) | 6953 | 6953 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [glib-networking]({{< ref "/f39/package/glib-networking.md" >}}) | 434 | 434 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [glib2]({{< ref "/f39/package/glib2.md" >}}) | 7716 | 7716 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-bluetooth]({{< ref "/f39/package/gnome-bluetooth.md" >}}) | 318 | 318 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-bluetooth3.34]({{< ref "/f39/package/gnome-bluetooth3.34.md" >}}) | 373 | 373 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-boxes]({{< ref "/f39/package/gnome-boxes.md" >}}) | 1315 | 1315 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-builder]({{< ref "/f39/package/gnome-builder.md" >}}) | 4375 | 4375 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-calculator]({{< ref "/f39/package/gnome-calculator.md" >}}) | 3626 | 3626 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-calendar]({{< ref "/f39/package/gnome-calendar.md" >}}) | 917 | 917 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-characters]({{< ref "/f39/package/gnome-characters.md" >}}) | 152 | 152 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-chess]({{< ref "/f39/package/gnome-chess.md" >}}) | 1485 | 1485 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-clocks]({{< ref "/f39/package/gnome-clocks.md" >}}) | 350 | 350 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-color-manager]({{< ref "/f39/package/gnome-color-manager.md" >}}) | 1796 | 1796 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-connections]({{< ref "/f39/package/gnome-connections.md" >}}) | 371 | 371 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-console]({{< ref "/f39/package/gnome-console.md" >}}) | 239 | 239 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-contacts]({{< ref "/f39/package/gnome-contacts.md" >}}) | 736 | 736 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-desktop3]({{< ref "/f39/package/gnome-desktop3.md" >}}) | 193 | 193 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-dictionary]({{< ref "/f39/package/gnome-dictionary.md" >}}) | 663 | 663 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-disk-utility]({{< ref "/f39/package/gnome-disk-utility.md" >}}) | 4077 | 4077 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-do]({{< ref "/f39/package/gnome-do.md" >}}) | 612 | 612 | 100.0 | Latvian <lv@li.org> | 
+ | [gnome-doc-utils]({{< ref "/f39/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Latviešu <kde-i18n-doc@kde.org> | 
+ | [gnome-extensions-app]({{< ref "/f39/package/gnome-extensions-app.md" >}}) | 2783 | 2783 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-font-viewer]({{< ref "/f39/package/gnome-font-viewer.md" >}}) | 534 | 534 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-icon-theme]({{< ref "/f39/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gnome-initial-setup]({{< ref "/f39/package/gnome-initial-setup.md" >}}) | 881 | 881 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-keyring]({{< ref "/f39/package/gnome-keyring.md" >}}) | 469 | 469 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-klotski]({{< ref "/f39/package/gnome-klotski.md" >}}) | 275 | 275 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-logs]({{< ref "/f39/package/gnome-logs.md" >}}) | 389 | 389 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-mahjongg]({{< ref "/f39/package/gnome-mahjongg.md" >}}) | 310 | 310 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-maps]({{< ref "/f39/package/gnome-maps.md" >}}) | 1316 | 1316 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-menus]({{< ref "/f39/package/gnome-menus.md" >}}) | 80 | 80 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-mines]({{< ref "/f39/package/gnome-mines.md" >}}) | 364 | 364 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-music]({{< ref "/f39/package/gnome-music.md" >}}) | 425 | 425 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-nettool]({{< ref "/f39/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-nibbles]({{< ref "/f39/package/gnome-nibbles.md" >}}) | 588 | 588 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-online-accounts]({{< ref "/f39/package/gnome-online-accounts.md" >}}) | 669 | 669 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-packagekit]({{< ref "/f39/package/gnome-packagekit.md" >}}) | 3500 | 3500 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-phone-manager]({{< ref "/f39/package/gnome-phone-manager.md" >}}) | 563 | 563 | 100.0 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [gnome-photos]({{< ref "/f39/package/gnome-photos.md" >}}) | 572 | 572 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-power-manager]({{< ref "/f39/package/gnome-power-manager.md" >}}) | 433 | 433 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-robots]({{< ref "/f39/package/gnome-robots.md" >}}) | 596 | 596 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-screenshot]({{< ref "/f39/package/gnome-screenshot.md" >}}) | 417 | 417 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-session]({{< ref "/f39/package/gnome-session.md" >}}) | 435 | 435 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-settings-daemon]({{< ref "/f39/package/gnome-settings-daemon.md" >}}) | 3930 | 3930 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-shell]({{< ref "/f39/package/gnome-shell.md" >}}) | 2783 | 2783 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-shell-extensions]({{< ref "/f39/package/gnome-shell-extensions.md" >}}) | 270 | 270 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-shell-frippery]({{< ref "/f39/package/gnome-shell-frippery.md" >}}) | 22 | 22 | 100.0 | Latvian <ll10nt@os.lv> | 
+ | [gnome-software]({{< ref "/f39/package/gnome-software.md" >}}) | 4893 | 4893 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-sound-recorder]({{< ref "/f39/package/gnome-sound-recorder.md" >}}) | 271 | 271 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-sudoku]({{< ref "/f39/package/gnome-sudoku.md" >}}) | 418 | 418 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-system-log]({{< ref "/f39/package/gnome-system-log.md" >}}) | 420 | 420 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-system-monitor]({{< ref "/f39/package/gnome-system-monitor.md" >}}) | 1566 | 1566 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-taquin]({{< ref "/f39/package/gnome-taquin.md" >}}) | 431 | 431 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-terminal]({{< ref "/f39/package/gnome-terminal.md" >}}) | 2630 | 2630 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-tetravex]({{< ref "/f39/package/gnome-tetravex.md" >}}) | 285 | 285 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-text-editor]({{< ref "/f39/package/gnome-text-editor.md" >}}) | 1086 | 1086 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-themes-extra]({{< ref "/f39/package/gnome-themes-extra.md" >}}) | 15 | 15 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-todo]({{< ref "/f39/package/gnome-todo.md" >}}) | 711 | 711 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-tour]({{< ref "/f39/package/gnome-tour.md" >}}) | 113 | 113 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-tweaks]({{< ref "/f39/package/gnome-tweaks.md" >}}) | 518 | 518 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-user-share]({{< ref "/f39/package/gnome-user-share.md" >}}) | 49 | 49 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-vfs2]({{< ref "/f39/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Latviešu <kde-i18n-doc@kde.org> | 
+ | [gnome-video-effects]({{< ref "/f39/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-weather]({{< ref "/f39/package/gnome-weather.md" >}}) | 214 | 214 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnote]({{< ref "/f39/package/gnote.md" >}}) | 3313 | 3313 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [godot]({{< ref "/f39/package/godot.md" >}}) | 3699 | 3699 | 100.0 | Latvian <https://hosted.weblate.org/projects/godot-engine/godot/lv/> | 
+ | [goffice]({{< ref "/f39/package/goffice.md" >}}) | 6361 | 6361 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gparted]({{< ref "/f39/package/gparted.md" >}}) | 3053 | 3053 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [grilo]({{< ref "/f39/package/grilo.md" >}}) | 191 | 191 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [grilo-plugins]({{< ref "/f39/package/grilo-plugins.md" >}}) | 540 | 540 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gsettings-desktop-schemas]({{< ref "/f39/package/gsettings-desktop-schemas.md" >}}) | 6378 | 6378 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gspell]({{< ref "/f39/package/gspell.md" >}}) | 76 | 76 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gstreamer1-plugins-ugly-free]({{< ref "/f39/package/gstreamer1-plugins-ugly-free.md" >}}) | 80 | 80 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [gthumb]({{< ref "/f39/package/gthumb.md" >}}) | 3466 | 3466 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gtk-vnc]({{< ref "/f39/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [gtk2-engines]({{< ref "/f39/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [gtk3]({{< ref "/f39/package/gtk3.md" >}}) | 16727 | 16727 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gtk4]({{< ref "/f39/package/gtk4.md" >}}) | 4396 | 4396 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gtkhtml3]({{< ref "/f39/package/gtkhtml3.md" >}}) | 522 | 522 | 100.0 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [gtksourceview2]({{< ref "/f39/package/gtksourceview2.md" >}}) | 891 | 891 | 100.0 | Latvian <locale@laka.lv> | 
+ | [gtksourceview4]({{< ref "/f39/package/gtksourceview4.md" >}}) | 308 | 308 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gtksourceview5]({{< ref "/f39/package/gtksourceview5.md" >}}) | 371 | 371 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gtkspell]({{< ref "/f39/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [gtkspell3]({{< ref "/f39/package/gtkspell3.md" >}}) | 15 | 15 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [gtranslator]({{< ref "/f39/package/gtranslator.md" >}}) | 1360 | 1360 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gucharmap]({{< ref "/f39/package/gucharmap.md" >}}) | 1230 | 1230 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gvfs]({{< ref "/f39/package/gvfs.md" >}}) | 2102 | 2102 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [hitori]({{< ref "/f39/package/hitori.md" >}}) | 239 | 239 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [iagno]({{< ref "/f39/package/iagno.md" >}}) | 327 | 327 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [isomaster]({{< ref "/f39/package/isomaster.md" >}}) | 674 | 674 | 100.0 | Latvian <rprieditis@gmail.com> | 
+ | [json-glib]({{< ref "/f39/package/json-glib.md" >}}) | 307 | 307 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kcoloredit]({{< ref "/f39/package/kcoloredit.md" >}}) | 278 | 278 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kf5-akonadi-calendar]({{< ref "/f39/package/kf5-akonadi-calendar.md" >}}) | 55 | 55 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kf5-kblog]({{< ref "/f39/package/kf5-kblog.md" >}}) | 243 | 243 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kf5-kdoctools]({{< ref "/f39/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kf5-kjsembed]({{< ref "/f39/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Latvian | 
+ | [kf5-kmime]({{< ref "/f39/package/kf5-kmime.md" >}}) | 159 | 159 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kf5-kontactinterface]({{< ref "/f39/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kf5-kpty]({{< ref "/f39/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Latvian | 
+ | [kf5-kwindowsystem]({{< ref "/f39/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Latvian <kde-i18n-doc@kde.org> | 
+ | [kf5-kxmlrpcclient]({{< ref "/f39/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kf5-libkcompactdisc]({{< ref "/f39/package/kf5-libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kgamma]({{< ref "/f39/package/kgamma.md" >}}) | 130 | 130 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kgrab]({{< ref "/f39/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Latvian <locale@laka.lv> | 
+ | [kio_gopher]({{< ref "/f39/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Latvian <locale@laka.lv> | 
+ | [leafpad]({{< ref "/f39/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [libbonobo]({{< ref "/f39/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libbonoboui]({{< ref "/f39/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libcryptui]({{< ref "/f39/package/libcryptui.md" >}}) | 752 | 752 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libepc]({{< ref "/f39/package/libepc.md" >}}) | 147 | 147 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libfilezilla]({{< ref "/f39/package/libfilezilla.md" >}}) | 67 | 67 | 100.0 | Latvian <ssimss@gmail.com> | 
+ | [libgdata]({{< ref "/f39/package/libgdata.md" >}}) | 694 | 694 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libgdl]({{< ref "/f39/package/libgdl.md" >}}) | 659 | 659 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libgnome]({{< ref "/f39/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [libgnome-games-support]({{< ref "/f39/package/libgnome-games-support.md" >}}) | 43 | 43 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libgnome-games-support1]({{< ref "/f39/package/libgnome-games-support1.md" >}}) | 43 | 43 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libgnome-keyring]({{< ref "/f39/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libgnomecanvas]({{< ref "/f39/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [libgnomekbd]({{< ref "/f39/package/libgnomekbd.md" >}}) | 187 | 187 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libgnomeui]({{< ref "/f39/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libgsf]({{< ref "/f39/package/libgsf.md" >}}) | 696 | 696 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libgtop2]({{< ref "/f39/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libkmahjongg]({{< ref "/f39/package/libkmahjongg.md" >}}) | 7 | 7 | 100.0 | Latvian <locale@laka.lv> | 
+ | [libpeas]({{< ref "/f39/package/libpeas.md" >}}) | 103 | 103 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libpeas1]({{< ref "/f39/package/libpeas1.md" >}}) | 103 | 103 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libsecret]({{< ref "/f39/package/libsecret.md" >}}) | 64 | 64 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libshumate]({{< ref "/f39/package/libshumate.md" >}}) | 8 | 8 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libsoup]({{< ref "/f39/package/libsoup.md" >}}) | 183 | 183 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libsoup3]({{< ref "/f39/package/libsoup3.md" >}}) | 180 | 180 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libwnck]({{< ref "/f39/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Latviešu <kde-i18n-doc@kde.org> | 
+ | [libwnck3]({{< ref "/f39/package/libwnck3.md" >}}) | 1086 | 1086 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libxfce4util]({{< ref "/f39/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Latvian (http://www.transifex.com/xfce/libxfce4util/language/lv/) | 
+ | [lightsoff]({{< ref "/f39/package/lightsoff.md" >}}) | 107 | 107 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [magpie]({{< ref "/f39/package/magpie.md" >}}) | 1253 | 1253 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mate-icon-theme]({{< ref "/f39/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [mate-themes]({{< ref "/f39/package/mate-themes.md" >}}) | 74 | 74 | 100.0 | Latvian (http://app.transifex.com/mate/MATE/language/lv/) | 
+ | [metacity]({{< ref "/f39/package/metacity.md" >}}) | 2042 | 2042 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-GConf2]({{< ref "/f39/package/mingw-GConf2.md" >}}) | 4074 | 4074 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-atk]({{< ref "/f39/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-gdk-pixbuf]({{< ref "/f39/package/mingw-gdk-pixbuf.md" >}}) | 1325 | 1325 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-glib-networking]({{< ref "/f39/package/mingw-glib-networking.md" >}}) | 434 | 434 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-glib2]({{< ref "/f39/package/mingw-glib2.md" >}}) | 7716 | 7716 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-gsettings-desktop-schemas]({{< ref "/f39/package/mingw-gsettings-desktop-schemas.md" >}}) | 6378 | 6378 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-gtk3]({{< ref "/f39/package/mingw-gtk3.md" >}}) | 16727 | 16727 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-gtk4]({{< ref "/f39/package/mingw-gtk4.md" >}}) | 4124 | 4124 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-json-glib]({{< ref "/f39/package/mingw-json-glib.md" >}}) | 307 | 307 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-libgsf]({{< ref "/f39/package/mingw-libgsf.md" >}}) | 696 | 696 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-libsoup]({{< ref "/f39/package/mingw-libsoup.md" >}}) | 183 | 183 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [moodle]({{< ref "/f39/package/moodle.md" >}}) | 52 | 52 | 100.0 | i18n@lists.horde.org | 
+ | [mousetweaks]({{< ref "/f39/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [msitools]({{< ref "/f39/package/msitools.md" >}}) | 68 | 68 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [muffin]({{< ref "/f39/package/muffin.md" >}}) | 1187 | 1187 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mutter]({{< ref "/f39/package/mutter.md" >}}) | 1253 | 1253 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [nautilus]({{< ref "/f39/package/nautilus.md" >}}) | 5460 | 5460 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [nemiver]({{< ref "/f39/package/nemiver.md" >}}) | 1341 | 1341 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [newt]({{< ref "/f39/package/newt.md" >}}) | 4 | 4 | 100.0 | Latvian (http://www.transifex.com/projects/p/fedora/language/lv/) | 
+ | [nicotine+]({{< ref "/f39/package/nicotine+.md" >}}) | 5067 | 5067 | 100.0 | Latvian <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/lv/> | 
+ | [notification-daemon]({{< ref "/f39/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [pastebinit]({{< ref "/f39/package/pastebinit.md" >}}) | 195 | 195 | 100.0 | Latvian <lv@li.org> | 
+ | [phosh]({{< ref "/f39/package/phosh.md" >}}) | 122 | 122 | 100.0 |  | 
+ | [pitivi]({{< ref "/f39/package/pitivi.md" >}}) | 2098 | 2098 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [polari]({{< ref "/f39/package/polari.md" >}}) | 855 | 855 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [polkit-gnome]({{< ref "/f39/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [python-SecretStorage]({{< ref "/f39/package/python-SecretStorage.md" >}}) | 59 | 59 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [python-caja]({{< ref "/f39/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [python-django]({{< ref "/f39/package/python-django.md" >}}) | 3844 | 3844 | 100.0 | Latvian (http://www.transifex.com/django/django/language/lv/) | 
+ | [python-django-contrib-comments]({{< ref "/f39/package/python-django-contrib-comments.md" >}}) | 250 | 250 | 100.0 | Latvian (http://www.transifex.com/django/django-contrib-comments/language/lv/) | 
+ | [python-django-formtools]({{< ref "/f39/package/python-django-formtools.md" >}}) | 32 | 32 | 100.0 | Latvian (http://www.transifex.com/django/django-formtools/language/lv/) | 
+ | [python-django4.2]({{< ref "/f39/package/python-django4.2.md" >}}) | 3844 | 3844 | 100.0 | Latvian (http://www.transifex.com/django/django/language/lv/) | 
+ | [qtwebkit]({{< ref "/f39/package/qtwebkit.md" >}}) | 688 | 688 | 100.0 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [quadrapassel]({{< ref "/f39/package/quadrapassel.md" >}}) | 460 | 460 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [rhythmbox]({{< ref "/f39/package/rhythmbox.md" >}}) | 3756 | 3756 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [rygel]({{< ref "/f39/package/rygel.md" >}}) | 1632 | 1632 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [scons]({{< ref "/f39/package/scons.md" >}}) | 54 | 54 | 100.0 |  | 
+ | [seahorse]({{< ref "/f39/package/seahorse.md" >}}) | 2378 | 2378 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [seahorse-caja]({{< ref "/f39/package/seahorse-caja.md" >}}) | 477 | 477 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [seahorse-nautilus]({{< ref "/f39/package/seahorse-nautilus.md" >}}) | 490 | 490 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [shotwell]({{< ref "/f39/package/shotwell.md" >}}) | 13343 | 13343 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [shutter]({{< ref "/f39/package/shutter.md" >}}) | 3093 | 3093 | 100.0 | Latvian <lv@li.org> | 
+ | [simple-scan]({{< ref "/f39/package/simple-scan.md" >}}) | 976 | 976 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [sound-juicer]({{< ref "/f39/package/sound-juicer.md" >}}) | 1254 | 1254 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [sushi]({{< ref "/f39/package/sushi.md" >}}) | 54 | 54 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [svgpart]({{< ref "/f39/package/svgpart.md" >}}) | 3 | 3 | 100.0 | Latvian <locale@laka.lv> | 
+ | [swell-foop]({{< ref "/f39/package/swell-foop.md" >}}) | 340 | 340 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [sysstat]({{< ref "/f39/package/sysstat.md" >}}) | 606 | 606 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [system-config-rootpassword]({{< ref "/f39/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Latvian | 
+ | [tali]({{< ref "/f39/package/tali.md" >}}) | 438 | 438 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [tomboy]({{< ref "/f39/package/tomboy.md" >}}) | 6656 | 6656 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [totem]({{< ref "/f39/package/totem.md" >}}) | 1376 | 1376 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [totem-pl-parser]({{< ref "/f39/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [tracker]({{< ref "/f39/package/tracker.md" >}}) | 588 | 588 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [tracker-miners]({{< ref "/f39/package/tracker-miners.md" >}}) | 1824 | 1824 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [vim]({{< ref "/f39/package/vim.md" >}}) | 503 | 503 | 100.0 |  | 
+ | [vinagre]({{< ref "/f39/package/vinagre.md" >}}) | 2540 | 2540 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [vte]({{< ref "/f39/package/vte.md" >}}) | 84 | 84 | 100.0 | Latvian <lata-i18n@groups.google.com> | 
+ | [vte291]({{< ref "/f39/package/vte291.md" >}}) | 46 | 46 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [xdg-user-dirs]({{< ref "/f39/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [xdg-user-dirs-gtk]({{< ref "/f39/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [xfce4-datetime-plugin]({{< ref "/f39/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [xfce4-fsguard-plugin]({{< ref "/f39/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [xfce4-verve-plugin]({{< ref "/f39/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [xsnow]({{< ref "/f39/package/xsnow.md" >}}) | 4136 | 4136 | 100.0 | None | 
+ | [yelp]({{< ref "/f39/package/yelp.md" >}}) | 351 | 351 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [yelp-xsl]({{< ref "/f39/package/yelp-xsl.md" >}}) | 88 | 88 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [zenity]({{< ref "/f39/package/zenity.md" >}}) | 896 | 896 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-user-docs]({{< ref "/f39/package/gnome-user-docs.md" >}}) | 57078 | 57098 | 100.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [vlc]({{< ref "/f39/package/vlc.md" >}}) | 34712 | 34779 | 99.8 | Latvian (https://app.transifex.com/yaron/teams/16553/lv/) | 
+ | [gnome-applets]({{< ref "/f39/package/gnome-applets.md" >}}) | 3260 | 3267 | 99.8 | Latvian <lata-l10n@googlegroups.com> | 
+ | [avahi]({{< ref "/f39/package/avahi.md" >}}) | 865 | 868 | 99.7 | Latvian (http://www.transifex.com/lennart/avahi/language/lv/) | 
+ | [redhat-menus]({{< ref "/f39/package/redhat-menus.md" >}}) | 252 | 253 | 99.6 | Latvian | 
+ | [usermode]({{< ref "/f39/package/usermode.md" >}}) | 570 | 573 | 99.5 | Latvian (http://www.transifex.com/projects/p/fedora/language/lv/) | 
+ | [kf5-ktnef]({{< ref "/f39/package/kf5-ktnef.md" >}}) | 353 | 355 | 99.4 | Latvian <locale@laka.lv> | 
+ | [gtksourceview3]({{< ref "/f39/package/gtksourceview3.md" >}}) | 320 | 322 | 99.4 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-gtksourceview3]({{< ref "/f39/package/mingw-gtksourceview3.md" >}}) | 320 | 322 | 99.4 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gimp]({{< ref "/f39/package/gimp.md" >}}) | 39862 | 40218 | 99.1 | Latvian <lata-l10n@googlegroups.com> | 
+ | [tuxpaint-stamps]({{< ref "/f39/package/tuxpaint-stamps.md" >}}) | 3220 | 3249 | 99.1 | none | 
+ | [cacti]({{< ref "/f39/package/cacti.md" >}}) | 32415 | 32768 | 98.9 | Latvian <http://translate.cacti.net/projects/cacti/core-v1-2-x/lv/> | 
+ | [orca]({{< ref "/f39/package/orca.md" >}}) | 5737 | 5801 | 98.9 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kf5-kcontacts]({{< ref "/f39/package/kf5-kcontacts.md" >}}) | 175 | 177 | 98.9 | Latvian <locale@laka.lv> | 
+ | [geany]({{< ref "/f39/package/geany.md" >}}) | 6199 | 6280 | 98.7 |  | 
+ | [gnome-panel]({{< ref "/f39/package/gnome-panel.md" >}}) | 3471 | 3520 | 98.6 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mingw-p11-kit]({{< ref "/f39/package/mingw-p11-kit.md" >}}) | 469 | 476 | 98.5 | Latvian (http://www.transifex.com/freedesktop/p11-kit/language/lv/) | 
+ | [lskat]({{< ref "/f39/package/lskat.md" >}}) | 250 | 254 | 98.4 | Latvian <locale@laka.lv> | 
+ | [katomic]({{< ref "/f39/package/katomic.md" >}}) | 181 | 184 | 98.4 | Latvian <locale@laka.lv> | 
+ | [pidgin]({{< ref "/f39/package/pidgin.md" >}}) | 13754 | 13994 | 98.3 | Latvian (http://www.transifex.com/pidgin/pidgin/language/lv/) | 
+ | [kcron]({{< ref "/f39/package/kcron.md" >}}) | 493 | 502 | 98.2 | Latvian <locale@laka.lv> | 
+ | [kspaceduel]({{< ref "/f39/package/kspaceduel.md" >}}) | 162 | 165 | 98.2 | Lavtian <locale@laka.lv> | 
+ | [ksirk]({{< ref "/f39/package/ksirk.md" >}}) | 5640 | 5756 | 98.0 | Latvian <locale@laka.lv> | 
+ | [kubrick]({{< ref "/f39/package/kubrick.md" >}}) | 1178 | 1205 | 97.8 | Latvian | 
+ | [thunar-archive-plugin]({{< ref "/f39/package/thunar-archive-plugin.md" >}}) | 86 | 88 | 97.7 | Latvian (http://www.transifex.com/xfce/thunar-plugins/language/lv/) | 
+ | [thunar-media-tags-plugin]({{< ref "/f39/package/thunar-media-tags-plugin.md" >}}) | 154 | 158 | 97.5 | Latvian (http://www.transifex.com/xfce/thunar-plugins/language/lv/) | 
+ | [kblackbox]({{< ref "/f39/package/kblackbox.md" >}}) | 1328 | 1367 | 97.1 | Latvian <locale@laka.lv> | 
+ | [kbruch]({{< ref "/f39/package/kbruch.md" >}}) | 1306 | 1347 | 97.0 | Latvian <locale@laka.lv> | 
+ | [sweeper]({{< ref "/f39/package/sweeper.md" >}}) | 221 | 228 | 96.9 | Latvian <locale@laka.lv> | 
+ | [exo]({{< ref "/f39/package/exo.md" >}}) | 713 | 738 | 96.6 | Latvian (http://www.transifex.com/xfce/exo/language/lv/) | 
+ | [audacious]({{< ref "/f39/package/audacious.md" >}}) | 879 | 912 | 96.4 | Latvian (http://app.transifex.com/audacious/audacious/language/lv/) | 
+ | [gnome-mime-data]({{< ref "/f39/package/gnome-mime-data.md" >}}) | 797 | 827 | 96.4 | Latvian <ll10nt@os.lv> | 
+ | [kigo]({{< ref "/f39/package/kigo.md" >}}) | 485 | 504 | 96.2 | Latvian <locale@laka.lv> | 
+ | [ksquares]({{< ref "/f39/package/ksquares.md" >}}) | 249 | 260 | 95.8 | Latvian <locale@laka.lv> | 
+ | [kfloppy]({{< ref "/f39/package/kfloppy.md" >}}) | 611 | 641 | 95.3 | Latvian <locale@laka.lv> | 
+ | [klettres]({{< ref "/f39/package/klettres.md" >}}) | 419 | 440 | 95.2 | Latvian <locale@laka.lv> | 
+ | [mate-menus]({{< ref "/f39/package/mate-menus.md" >}}) | 98 | 103 | 95.1 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [kf5-ktextwidgets]({{< ref "/f39/package/kf5-ktextwidgets.md" >}}) | 450 | 473 | 95.1 | Latvian | 
+ | [kdiamond]({{< ref "/f39/package/kdiamond.md" >}}) | 116 | 122 | 95.1 | Latvian <locale@laka.lv> | 
+ | [bovo]({{< ref "/f39/package/bovo.md" >}}) | 77 | 81 | 95.1 | Latvian <kde-i18n-doc@kde.org> | 
+ | [thunar-vcs-plugin]({{< ref "/f39/package/thunar-vcs-plugin.md" >}}) | 565 | 595 | 95.0 | Latvian (http://www.transifex.com/xfce/thunar-plugins/language/lv/) | 
+ | [kmouth]({{< ref "/f39/package/kmouth.md" >}}) | 1420 | 1496 | 94.9 | Latvian <locale@laka.lv> | 
+ | [lxmenu-data]({{< ref "/f39/package/lxmenu-data.md" >}}) | 92 | 97 | 94.8 | Latvian <locale@laka.lv> | 
+ | [kig]({{< ref "/f39/package/kig.md" >}}) | 7448 | 7857 | 94.8 | Latvian <locale@laka.lv> | 
+ | [kscreen]({{< ref "/f39/package/kscreen.md" >}}) | 91 | 96 | 94.8 | Latvian <kde-i18n-doc@kde.org> | 
+ | [plank]({{< ref "/f39/package/plank.md" >}}) | 179 | 189 | 94.7 | Latvian <lv@li.org> | 
+ | [openbox]({{< ref "/f39/package/openbox.md" >}}) | 479 | 506 | 94.7 | Latvian <locale@laka.lv> | 
+ | [libgedit-gtksourceview]({{< ref "/f39/package/libgedit-gtksourceview.md" >}}) | 301 | 319 | 94.4 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kblocks]({{< ref "/f39/package/kblocks.md" >}}) | 149 | 158 | 94.3 | Latvian <locale@laka.lv> | 
+ | [kf5-kconfigwidgets]({{< ref "/f39/package/kf5-kconfigwidgets.md" >}}) | 322 | 342 | 94.2 | Latvian <kde-i18n-doc@kde.org> | 
+ | [blinken]({{< ref "/f39/package/blinken.md" >}}) | 126 | 134 | 94.0 | Latvian <locale@laka.lv> | 
+ | [kturtle]({{< ref "/f39/package/kturtle.md" >}}) | 1439 | 1538 | 93.6 | Latvian <locale@laka.lv> | 
+ | [gimp3]({{< ref "/f39/package/gimp3.md" >}}) | 39238 | 41952 | 93.5 | Latvian <lata-l10n@googlegroups.com> | 
+ | [mozo]({{< ref "/f39/package/mozo.md" >}}) | 43 | 46 | 93.5 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [amarok]({{< ref "/f39/package/amarok.md" >}}) | 14758 | 15819 | 93.3 | Latvian | 
+ | [kfind]({{< ref "/f39/package/kfind.md" >}}) | 482 | 517 | 93.2 | Latvian <locale@laka.lv> | 
+ | [libkdegames]({{< ref "/f39/package/libkdegames.md" >}}) | 344 | 370 | 93.0 | Latvian <locale@laka.lv> | 
+ | [klines]({{< ref "/f39/package/klines.md" >}}) | 92 | 99 | 92.9 | Latvian <locale@laka.lv> | 
+ | [kf5-plasma]({{< ref "/f39/package/kf5-plasma.md" >}}) | 336 | 362 | 92.8 | Latvian <kde-i18n-doc@kde.org> | 
+ | [kolf]({{< ref "/f39/package/kolf.md" >}}) | 372 | 401 | 92.8 | Latvian <locale@laka.lv> | 
+ | [granatier]({{< ref "/f39/package/granatier.md" >}}) | 228 | 246 | 92.7 | Latvian <locale@laka.lv> | 
+ | [libnma]({{< ref "/f39/package/libnma.md" >}}) | 745 | 807 | 92.3 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kdf]({{< ref "/f39/package/kdf.md" >}}) | 180 | 195 | 92.3 | Latvian <locale@laka.lv> | 
+ | [klickety]({{< ref "/f39/package/klickety.md" >}}) | 164 | 178 | 92.1 | Latvian <locale@laka.lv> | 
+ | [dialect]({{< ref "/f39/package/dialect.md" >}}) | 944 | 1026 | 92.0 |  | 
+ | [lazpaint]({{< ref "/f39/package/lazpaint.md" >}}) | 1898 | 2065 | 91.9 | LJC | 
+ | [audacious-plugins]({{< ref "/f39/package/audacious-plugins.md" >}}) | 3863 | 4208 | 91.8 | Latvian (http://app.transifex.com/audacious/audacious/language/lv/) | 
+ | [tvtime]({{< ref "/f39/package/tvtime.md" >}}) | 1120 | 1222 | 91.7 | Latvian <kde-i18n-doc@kde.org> | 
+ | [kmplot]({{< ref "/f39/package/kmplot.md" >}}) | 2289 | 2500 | 91.6 | Latvian <locale@laka.lv> | 
+ | [kapman]({{< ref "/f39/package/kapman.md" >}}) | 105 | 115 | 91.3 | Latvian <locale@laka.lv> | 
+ | [fprintd]({{< ref "/f39/package/fprintd.md" >}}) | 394 | 433 | 91.0 | Latvian (http://www.transifex.com/freedesktop/fprintd/language/lv/) | 
+ | [xfce4-dict]({{< ref "/f39/package/xfce4-dict.md" >}}) | 486 | 536 | 90.7 | Latvian (http://www.transifex.com/xfce/xfce-apps/language/lv/) | 
+ | [obconf]({{< ref "/f39/package/obconf.md" >}}) | 669 | 738 | 90.7 | Latvian <lv@li.org> | 
+ | [ksystemlog]({{< ref "/f39/package/ksystemlog.md" >}}) | 2806 | 3101 | 90.5 | Latvian <locale@laka.lv> | 
+ | [kopete]({{< ref "/f39/package/kopete.md" >}}) | 15511 | 17175 | 90.3 | Latvian <locale@laka.lv> | 
+ | [NetworkManager-pptp]({{< ref "/f39/package/NetworkManager-pptp.md" >}}) | 477 | 529 | 90.2 | Latvian <lata-l10n@googlegroups.com> | 
+ | [gnome-control-center]({{< ref "/f39/package/gnome-control-center.md" >}}) | 7845 | 8724 | 89.9 | Latvian <locale@laka.lv> | 
+ | [NetworkManager-fortisslvpn]({{< ref "/f39/package/NetworkManager-fortisslvpn.md" >}}) | 286 | 321 | 89.1 | Latvian <lata-l10n@googlegroups.com> | 
+ | [keditbookmarks]({{< ref "/f39/package/keditbookmarks.md" >}}) | 415 | 466 | 89.1 | Latvian <locale@laka.lv> | 
+ | [khotkeys]({{< ref "/f39/package/khotkeys.md" >}}) | 401 | 451 | 88.9 | Latvian | 
+ | [diffutils]({{< ref "/f39/package/diffutils.md" >}}) | 1649 | 1864 | 88.5 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [xfce4-mailwatch-plugin]({{< ref "/f39/package/xfce4-mailwatch-plugin.md" >}}) | 599 | 678 | 88.3 | Latvian (http://app.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [kbounce]({{< ref "/f39/package/kbounce.md" >}}) | 137 | 156 | 87.8 | Latvian <locale@laka.lv> | 
+ | [l3afpad]({{< ref "/f39/package/l3afpad.md" >}}) | 113 | 130 | 86.9 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [network-manager-applet]({{< ref "/f39/package/network-manager-applet.md" >}}) | 3849 | 4436 | 86.8 | Latvian <lata-l10n@googlegroups.com> | 
+ | [popt]({{< ref "/f39/package/popt.md" >}}) | 78 | 90 | 86.7 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [konqueror]({{< ref "/f39/package/konqueror.md" >}}) | 6211 | 7177 | 86.5 | Latvian <locale@laka.lv> | 
+ | [k3b]({{< ref "/f39/package/k3b.md" >}}) | 17450 | 20179 | 86.5 | Latvian | 
+ | [gtk2]({{< ref "/f39/package/gtk2.md" >}}) | 11846 | 13704 | 86.4 | Latviešu <kde-i18n-doc@kde.org> | 
+ | [mingw-gtk2]({{< ref "/f39/package/mingw-gtk2.md" >}}) | 11846 | 13704 | 86.4 | Latviešu <kde-i18n-doc@kde.org> | 
+ | [kiriki]({{< ref "/f39/package/kiriki.md" >}}) | 124 | 144 | 86.1 | Latvian <locale@laka.lv> | 
+ | [system-config-printer]({{< ref "/f39/package/system-config-printer.md" >}}) | 3021 | 3514 | 86.0 | Latvian (http://www.transifex.com/projects/p/system-config-printer/language/lv/) | 
+ | [kde-l10n]({{< ref "/f39/package/kde-l10n.md" >}}) | 88543 | 103122 | 85.9 | Latvian <locale@laka.lv> | 
+ | [kiten]({{< ref "/f39/package/kiten.md" >}}) | 584 | 683 | 85.5 | Latvian <locale@laka.lv> | 
+ | [setuptool]({{< ref "/f39/package/setuptool.md" >}}) | 47 | 55 | 85.5 | Latvian <locale@laka.lv> | 
+ | [libkeduvocdocument]({{< ref "/f39/package/libkeduvocdocument.md" >}}) | 146 | 171 | 85.4 | Latvian <locale@laka.lv> | 
+ | [ksysguard]({{< ref "/f39/package/ksysguard.md" >}}) | 932 | 1093 | 85.3 | Latvian <locale@laka.lv> | 
+ | [budgie-control-center]({{< ref "/f39/package/budgie-control-center.md" >}}) | 6690 | 7914 | 84.5 | Latvian (https://app.transifex.com/buddiesofbudgie/teams/129844/lv/) | 
+ | [kf5-audiocd-kio]({{< ref "/f39/package/kf5-audiocd-kio.md" >}}) | 723 | 857 | 84.4 | Latvian <kde-i18n-doc@kde.org> | 
+ | [kf5-khtml]({{< ref "/f39/package/kf5-khtml.md" >}}) | 1405 | 1667 | 84.3 | Latvian | 
+ | [onboard]({{< ref "/f39/package/onboard.md" >}}) | 1942 | 2318 | 83.8 | Latvian <lv@li.org> | 
+ | [xfce4-battery-plugin]({{< ref "/f39/package/xfce4-battery-plugin.md" >}}) | 123 | 148 | 83.1 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [caja]({{< ref "/f39/package/caja.md" >}}) | 7997 | 9675 | 82.7 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [kmenuedit]({{< ref "/f39/package/kmenuedit.md" >}}) | 235 | 285 | 82.5 | Latvian <locale@laka.lv> | 
+ | [kmag]({{< ref "/f39/package/kmag.md" >}}) | 356 | 432 | 82.4 | Latvian <locale@laka.lv> | 
+ | [deja-dup]({{< ref "/f39/package/deja-dup.md" >}}) | 1334 | 1623 | 82.2 | Latvian <lv@li.org> | 
+ | [kamera]({{< ref "/f39/package/kamera.md" >}}) | 281 | 342 | 82.2 | Latvian <locale@laka.lv> | 
+ | [kf5-kross]({{< ref "/f39/package/kf5-kross.md" >}}) | 82 | 100 | 82.0 | Latvian | 
+ | [kcharselect]({{< ref "/f39/package/kcharselect.md" >}}) | 72 | 88 | 81.8 | Latvian <locale@laka.lv> | 
+ | [gettext]({{< ref "/f39/package/gettext.md" >}}) | 370 | 456 | 81.1 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [mingw-gettext]({{< ref "/f39/package/mingw-gettext.md" >}}) | 370 | 456 | 81.1 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [gigolo]({{< ref "/f39/package/gigolo.md" >}}) | 438 | 541 | 81.0 | Latvian (http://app.transifex.com/xfce/xfce-apps/language/lv/) | 
+ | [ktimer]({{< ref "/f39/package/ktimer.md" >}}) | 207 | 258 | 80.2 | Latvian <locale@laka.lv> | 
+ | [mingw-wxWidgets3]({{< ref "/f39/package/mingw-wxWidgets3.md" >}}) | 6165 | 7695 | 80.1 | wxWidgets translators <wx-translators@wxwindows.org> | 
+ | [python-django-rest-framework]({{< ref "/f39/package/python-django-rest-framework.md" >}}) | 561 | 702 | 79.9 | Latvian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/lv/) | 
+ | [NetworkManager-openvpn]({{< ref "/f39/package/NetworkManager-openvpn.md" >}}) | 1722 | 2157 | 79.8 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kbrickbuster]({{< ref "/f39/package/kbrickbuster.md" >}}) | 126 | 158 | 79.7 | Latvian <locale@laka.lv> | 
+ | [marco]({{< ref "/f39/package/marco.md" >}}) | 3427 | 4303 | 79.6 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [kde-cli-tools]({{< ref "/f39/package/kde-cli-tools.md" >}}) | 1697 | 2135 | 79.5 | Latvian <kde-i18n-doc@kde.org> | 
+ | [picmi]({{< ref "/f39/package/picmi.md" >}}) | 160 | 202 | 79.2 | Latvian | 
+ | [xed]({{< ref "/f39/package/xed.md" >}}) | 2968 | 3759 | 79.0 | Latvian (http://www.transifex.com/projects/p/MATE/language/lv/) | 
+ | [khelpcenter]({{< ref "/f39/package/khelpcenter.md" >}}) | 209 | 265 | 78.9 | Latvian <locale@laka.lv> | 
+ | [mate-polkit]({{< ref "/f39/package/mate-polkit.md" >}}) | 97 | 123 | 78.9 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [mate-screensaver]({{< ref "/f39/package/mate-screensaver.md" >}}) | 868 | 1101 | 78.8 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [slick-greeter]({{< ref "/f39/package/slick-greeter.md" >}}) | 170 | 216 | 78.7 | Latvian <lv@li.org> | 
+ | [blogilo]({{< ref "/f39/package/blogilo.md" >}}) | 933 | 1188 | 78.5 | Latvian <locale@laka.lv> | 
+ | [folder-color-switcher]({{< ref "/f39/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Latvian <lv@li.org> | 
+ | [fuse-encfs]({{< ref "/f39/package/fuse-encfs.md" >}}) | 1011 | 1289 | 78.4 | Latvian <lv@li.org> | 
+ | [xfce4-notifyd]({{< ref "/f39/package/xfce4-notifyd.md" >}}) | 69 | 88 | 78.4 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [juk]({{< ref "/f39/package/juk.md" >}}) | 1191 | 1526 | 78.0 | Latvian <kde-i18n-doc@kde.org> | 
+ | [ksnakeduel]({{< ref "/f39/package/ksnakeduel.md" >}}) | 187 | 241 | 77.6 | Latvian | 
+ | [xreader]({{< ref "/f39/package/xreader.md" >}}) | 1254 | 1625 | 77.2 | Latvian (http://www.transifex.com/mate/MATE/language/lv/) | 
+ | [ktouch]({{< ref "/f39/package/ktouch.md" >}}) | 743 | 964 | 77.1 | Latvian | 
+ | [kollision]({{< ref "/f39/package/kollision.md" >}}) | 84 | 109 | 77.1 | Latvian <locale@laka.lv> | 
+ | [trojita]({{< ref "/f39/package/trojita.md" >}}) | 7236 | 9444 | 76.6 | Latvian <kde-i18n-doc@kde.org> | 
+ | [prusa-slicer]({{< ref "/f39/package/prusa-slicer.md" >}}) | 5726 | 7508 | 76.3 | wxWidgets translators <wx-translators@wxwidgets.org> | 
+ | [chkconfig]({{< ref "/f39/package/chkconfig.md" >}}) | 451 | 593 | 76.1 | Latvian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/lv/> | 
+ | [kf5-libkcddb]({{< ref "/f39/package/kf5-libkcddb.md" >}}) | 304 | 400 | 76.0 | Latvian <locale@laka.lv> | 
+ | [libkomparediff2]({{< ref "/f39/package/libkomparediff2.md" >}}) | 108 | 143 | 75.5 | Latvian <locale@laka.lv> | 
+ | [kgpg]({{< ref "/f39/package/kgpg.md" >}}) | 3977 | 5272 | 75.4 | Latvian <locale@laka.lv> | 
+ | [shared-mime-info]({{< ref "/f39/package/shared-mime-info.md" >}}) | 1553 | 2060 | 75.4 | Latvian (http://www.transifex.com/freedesktop/shared-mime-info/language/lv/) | 
+ | [kf5-kparts]({{< ref "/f39/package/kf5-kparts.md" >}}) | 104 | 138 | 75.4 | Latvian | 
+ | [kteatime]({{< ref "/f39/package/kteatime.md" >}}) | 152 | 203 | 74.9 | Latvian <locale@laka.lv> | 
+ | [parole]({{< ref "/f39/package/parole.md" >}}) | 341 | 456 | 74.8 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [kalgebra]({{< ref "/f39/package/kalgebra.md" >}}) | 124 | 166 | 74.7 | Latvian <locale@laka.lv> | 
+ | [kf5-kunitconversion]({{< ref "/f39/package/kf5-kunitconversion.md" >}}) | 4247 | 5757 | 73.8 | Latvian <locale@laka.lv> | 
+ | [xfce4-diskperf-plugin]({{< ref "/f39/package/xfce4-diskperf-plugin.md" >}}) | 133 | 181 | 73.5 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [kf5-kinit]({{< ref "/f39/package/kf5-kinit.md" >}}) | 85 | 116 | 73.3 | Latvian | 
+ | [clementine]({{< ref "/f39/package/clementine.md" >}}) | 2784 | 3803 | 73.2 | Latvian (http://app.transifex.com/davidsansome/clementine/language/lv/) | 
+ | [lokalize]({{< ref "/f39/package/lokalize.md" >}}) | 3041 | 4165 | 73.0 | Latvian <kde-i18n-doc@kde.org> | 
+ | [kcalc]({{< ref "/f39/package/kcalc.md" >}}) | 781 | 1070 | 73.0 | Latvian <locale@laka.lv> | 
+ | [falkon]({{< ref "/f39/package/falkon.md" >}}) | 3135 | 4332 | 72.4 |  | 
+ | [python-wxpython4]({{< ref "/f39/package/python-wxpython4.md" >}}) | 5649 | 7837 | 72.1 | wxWidgets translators <wx-translators@wxwidgets.org> | 
+ | [wxGTK]({{< ref "/f39/package/wxGTK.md" >}}) | 5649 | 7837 | 72.1 | wxWidgets translators <wx-translators@wxwidgets.org> | 
+ | [kf5-kimap]({{< ref "/f39/package/kf5-kimap.md" >}}) | 85 | 118 | 72.0 | Latvian <locale@laka.lv> | 
+ | [kalzium]({{< ref "/f39/package/kalzium.md" >}}) | 6558 | 9105 | 72.0 | Latvian | 
+ | [gstreamer1-plugins-base]({{< ref "/f39/package/gstreamer1-plugins-base.md" >}}) | 770 | 1072 | 71.8 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-base]({{< ref "/f39/package/mingw-gstreamer1-plugins-base.md" >}}) | 770 | 1072 | 71.8 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [konquest]({{< ref "/f39/package/konquest.md" >}}) | 175 | 246 | 71.1 | Latvian <locale@laka.lv> | 
+ | [kmahjongg]({{< ref "/f39/package/kmahjongg.md" >}}) | 267 | 377 | 70.8 | Latvian <locale@laka.lv> | 
+ | [kdnssd]({{< ref "/f39/package/kdnssd.md" >}}) | 21 | 30 | 70.0 | Latvian <locale@laka.lv> | 
+ | [plasma-oxygen]({{< ref "/f39/package/plasma-oxygen.md" >}}) | 430 | 615 | 69.9 | Latvian <locale@laka.lv> | 
+ | [mlocate]({{< ref "/f39/package/mlocate.md" >}}) | 406 | 581 | 69.9 | Latvian (http://www.transifex.com/projects/p/fedora/language/lv/) | 
+ | [kwalletmanager5]({{< ref "/f39/package/kwalletmanager5.md" >}}) | 586 | 839 | 69.8 | Latvian <locale@laka.lv> | 
+ | [akregator]({{< ref "/f39/package/akregator.md" >}}) | 1294 | 1853 | 69.8 | Latvian <locale@laka.lv> | 
+ | [libgweather4]({{< ref "/f39/package/libgweather4.md" >}}) | 4834 | 6970 | 69.4 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kalarm]({{< ref "/f39/package/kalarm.md" >}}) | 5788 | 8389 | 69.0 | Latvian | 
+ | [kf5-kcmutils]({{< ref "/f39/package/kf5-kcmutils.md" >}}) | 183 | 266 | 68.8 | Latvian | 
+ | [kmousetool]({{< ref "/f39/package/kmousetool.md" >}}) | 101 | 147 | 68.7 | Latvian <locale@laka.lv> | 
+ | [kget]({{< ref "/f39/package/kget.md" >}}) | 1904 | 2776 | 68.6 | Latvian <locale@laka.lv> | 
+ | [kf5-libkdepim]({{< ref "/f39/package/kf5-libkdepim.md" >}}) | 24 | 35 | 68.6 | Latvian <locale@laka.lv> | 
+ | [bomber]({{< ref "/f39/package/bomber.md" >}}) | 75 | 110 | 68.2 | Latvian <locale@laka.lv> | 
+ | [killbots]({{< ref "/f39/package/killbots.md" >}}) | 430 | 637 | 67.5 | Latvian <locale@laka.lv> | 
+ | [asunder]({{< ref "/f39/package/asunder.md" >}}) | 332 | 493 | 67.3 |  | 
+ | [python-django-allauth]({{< ref "/f39/package/python-django-allauth.md" >}}) | 751 | 1116 | 67.3 | LANGUAGE <LL@li.org> | 
+ | [parley]({{< ref "/f39/package/parley.md" >}}) | 2309 | 3433 | 67.3 | Latvian <locale@laka.lv> | 
+ | [kolourpaint]({{< ref "/f39/package/kolourpaint.md" >}}) | 1730 | 2576 | 67.2 | Latvian <locale@laka.lv> | 
+ | [gstreamer1-plugins-good]({{< ref "/f39/package/gstreamer1-plugins-good.md" >}}) | 556 | 830 | 67.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-good]({{< ref "/f39/package/mingw-gstreamer1-plugins-good.md" >}}) | 556 | 830 | 67.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [kshisen]({{< ref "/f39/package/kshisen.md" >}}) | 446 | 667 | 66.9 | Latvian <locale@laka.lv> | 
+ | [xfwm4]({{< ref "/f39/package/xfwm4.md" >}}) | 445 | 666 | 66.8 | Latvian (http://www.transifex.com/xfce/xfwm4/language/lv/) | 
+ | [kpat]({{< ref "/f39/package/kpat.md" >}}) | 377 | 565 | 66.7 | Latvian <locale@laka.lv> | 
+ | [kf5-knotifyconfig]({{< ref "/f39/package/kf5-knotifyconfig.md" >}}) | 86 | 129 | 66.7 | Latvian | 
+ | [libksysguard]({{< ref "/f39/package/libksysguard.md" >}}) | 2324 | 3491 | 66.6 | Latvian <locale@laka.lv> | 
+ | [xfce4-terminal]({{< ref "/f39/package/xfce4-terminal.md" >}}) | 730 | 1097 | 66.5 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [xmoto]({{< ref "/f39/package/xmoto.md" >}}) | 2616 | 3935 | 66.5 | Latvian | 
+ | [okteta]({{< ref "/f39/package/okteta.md" >}}) | 1677 | 2529 | 66.3 | Latvian <locale@laka.lv> | 
+ | [ktorrent]({{< ref "/f39/package/ktorrent.md" >}}) | 4931 | 7462 | 66.1 | Latvian <locale@laka.lv> | 
+ | [kf5-kholidays]({{< ref "/f39/package/kf5-kholidays.md" >}}) | 98 | 150 | 65.3 | Latvian <kde-i18n-doc@kde.org> | 
+ | [mate-session-manager]({{< ref "/f39/package/mate-session-manager.md" >}}) | 464 | 715 | 64.9 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [knavalbattle]({{< ref "/f39/package/knavalbattle.md" >}}) | 260 | 401 | 64.8 | Latvian <locale@laka.lv> | 
+ | [orage]({{< ref "/f39/package/orage.md" >}}) | 1478 | 2304 | 64.1 | Latvian (https://www.transifex.com/xfce/teams/16840/lv/) | 
+ | [gstreamer1-plugins-bad-free]({{< ref "/f39/package/gstreamer1-plugins-bad-free.md" >}}) | 126 | 197 | 64.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f39/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 126 | 197 | 64.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [kruler]({{< ref "/f39/package/kruler.md" >}}) | 101 | 158 | 63.9 | Latvian <locale@laka.lv> | 
+ | [kactivitymanagerd]({{< ref "/f39/package/kactivitymanagerd.md" >}}) | 7 | 11 | 63.6 | Latvian <kde-i18n-doc@kde.org> | 
+ | [xfce4-smartbookmark-plugin]({{< ref "/f39/package/xfce4-smartbookmark-plugin.md" >}}) | 14 | 22 | 63.6 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [kf5-kio]({{< ref "/f39/package/kf5-kio.md" >}}) | 7659 | 12037 | 63.6 | Latvian <kde-i18n-doc@kde.org> | 
+ | [kaudiocreator]({{< ref "/f39/package/kaudiocreator.md" >}}) | 722 | 1136 | 63.6 | Latvian <locale@laka.lv> | 
+ | [libmateweather]({{< ref "/f39/package/libmateweather.md" >}}) | 3903 | 6143 | 63.5 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [mate-notification-daemon]({{< ref "/f39/package/mate-notification-daemon.md" >}}) | 118 | 186 | 63.4 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [kf5-kldap]({{< ref "/f39/package/kf5-kldap.md" >}}) | 144 | 227 | 63.4 | Latvian <locale@laka.lv> | 
+ | [ktuberling]({{< ref "/f39/package/ktuberling.md" >}}) | 100 | 158 | 63.3 | Latvian <locale@laka.lv> | 
+ | [kdepim-runtime]({{< ref "/f39/package/kdepim-runtime.md" >}}) | 3457 | 5481 | 63.1 | Latvian <locale@laka.lv> | 
+ | [gnucash]({{< ref "/f39/package/gnucash.md" >}}) | 24669 | 39228 | 62.9 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [kmines]({{< ref "/f39/package/kmines.md" >}}) | 98 | 156 | 62.8 | Lavtian <locale@laka.lv> | 
+ | [xfce4-notes-plugin]({{< ref "/f39/package/xfce4-notes-plugin.md" >}}) | 108 | 173 | 62.4 | Latvian (http://app.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [liferea]({{< ref "/f39/package/liferea.md" >}}) | 1354 | 2201 | 61.5 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [kf5-libksane]({{< ref "/f39/package/kf5-libksane.md" >}}) | 187 | 304 | 61.5 | Latvian <locale@laka.lv> | 
+ | [kapptemplate]({{< ref "/f39/package/kapptemplate.md" >}}) | 167 | 272 | 61.4 | Latvian <locale@laka.lv> | 
+ | [kgoldrunner]({{< ref "/f39/package/kgoldrunner.md" >}}) | 17197 | 28011 | 61.4 | Latvian <locale@laka.lv> | 
+ | [kde-dev-utils]({{< ref "/f39/package/kde-dev-utils.md" >}}) | 58 | 95 | 61.1 | Latvian <locale@laka.lv> | 
+ | [libmatekbd]({{< ref "/f39/package/libmatekbd.md" >}}) | 188 | 308 | 61.0 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [mate-panel]({{< ref "/f39/package/mate-panel.md" >}}) | 4098 | 6720 | 61.0 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [krdc]({{< ref "/f39/package/krdc.md" >}}) | 708 | 1162 | 60.9 | Latvian <locale@laka.lv> | 
+ | [kf5-kidentitymanagement]({{< ref "/f39/package/kf5-kidentitymanagement.md" >}}) | 110 | 182 | 60.4 | Latvian <locale@laka.lv> | 
+ | [xfdesktop]({{< ref "/f39/package/xfdesktop.md" >}}) | 512 | 854 | 60.0 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [kf5-messagelib]({{< ref "/f39/package/kf5-messagelib.md" >}}) | 2502 | 4178 | 59.9 | Latvian <locale@laka.lv> | 
+ | [xfce4-wavelan-plugin]({{< ref "/f39/package/xfce4-wavelan-plugin.md" >}}) | 40 | 67 | 59.7 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [xfce4-sensors-plugin]({{< ref "/f39/package/xfce4-sensors-plugin.md" >}}) | 258 | 433 | 59.6 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [xfce4-mpc-plugin]({{< ref "/f39/package/xfce4-mpc-plugin.md" >}}) | 54 | 91 | 59.3 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [gegl04]({{< ref "/f39/package/gegl04.md" >}}) | 6002 | 10234 | 58.6 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kf5-mailimporter]({{< ref "/f39/package/kf5-mailimporter.md" >}}) | 825 | 1408 | 58.6 | Latvian <locale@laka.lv> | 
+ | [kfourinline]({{< ref "/f39/package/kfourinline.md" >}}) | 229 | 392 | 58.4 | Latvian <locale@laka.lv> | 
+ | [plasma-desktop]({{< ref "/f39/package/plasma-desktop.md" >}}) | 3275 | 5620 | 58.3 | Latvian <kde-i18n-doc@kde.org> | 
+ | [k4dirstat]({{< ref "/f39/package/k4dirstat.md" >}}) | 310 | 533 | 58.2 | Latvian (http://www.transifex.com/k4dirstat/k4dirstat/language/lv/) | 
+ | [kf5-ktexteditor]({{< ref "/f39/package/kf5-ktexteditor.md" >}}) | 5356 | 9233 | 58.0 | Latvian <kde-i18n-doc@kde.org> | 
+ | [xfce4-xkb-plugin]({{< ref "/f39/package/xfce4-xkb-plugin.md" >}}) | 33 | 57 | 57.9 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [xchm]({{< ref "/f39/package/xchm.md" >}}) | 137 | 237 | 57.8 |  | 
+ | [inkscape]({{< ref "/f39/package/inkscape.md" >}}) | 28579 | 49568 | 57.7 | Latvian <lata-l10n@googlegroups.com> | 
+ | [celestia-data]({{< ref "/f39/package/celestia-data.md" >}}) | 775 | 1347 | 57.5 | Latviešu | 
+ | [xfce4-session]({{< ref "/f39/package/xfce4-session.md" >}}) | 482 | 840 | 57.4 | Latvian (http://www.transifex.com/xfce/xfce4-session/language/lv/) | 
+ | [dragon]({{< ref "/f39/package/dragon.md" >}}) | 142 | 248 | 57.3 | Latvian <kde-i18n-doc@kde.org> | 
+ | [camorama]({{< ref "/f39/package/camorama.md" >}}) | 476 | 835 | 57.0 | Latvian <locale@laka.lv> | 
+ | [xfce4-cpugraph-plugin]({{< ref "/f39/package/xfce4-cpugraph-plugin.md" >}}) | 45 | 79 | 57.0 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [kalendar]({{< ref "/f39/package/kalendar.md" >}}) | 861 | 1513 | 56.9 | Latvian <kde-i18n-doc@kde.org> | 
+ | [mate-media]({{< ref "/f39/package/mate-media.md" >}}) | 136 | 239 | 56.9 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [xarchiver]({{< ref "/f39/package/xarchiver.md" >}}) | 748 | 1317 | 56.8 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [xfce4-eyes-plugin]({{< ref "/f39/package/xfce4-eyes-plugin.md" >}}) | 9 | 16 | 56.2 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [kdialog]({{< ref "/f39/package/kdialog.md" >}}) | 217 | 391 | 55.5 | Latvian <locale@laka.lv> | 
+ | [xfconf]({{< ref "/f39/package/xfconf.md" >}}) | 255 | 466 | 54.7 | Latvian (http://www.transifex.com/xfce/xfconf/language/lv/) | 
+ | [mate-backgrounds]({{< ref "/f39/package/mate-backgrounds.md" >}}) | 30 | 55 | 54.5 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [grisbi]({{< ref "/f39/package/grisbi.md" >}}) | 8347 | 15305 | 54.5 | LATVIAN <info@odo.lv> | 
+ | [xfce4-mount-plugin]({{< ref "/f39/package/xfce4-mount-plugin.md" >}}) | 207 | 383 | 54.0 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [xfce4-settings]({{< ref "/f39/package/xfce4-settings.md" >}}) | 917 | 1707 | 53.7 | Latvian (http://www.transifex.com/xfce/xfce4-settings/language/lv/) | 
+ | [plasma-pa]({{< ref "/f39/package/plasma-pa.md" >}}) | 52 | 98 | 53.1 | Latvian <kde-i18n-doc@kde.org> | 
+ | [balsa]({{< ref "/f39/package/balsa.md" >}}) | 2825 | 5348 | 52.8 | Latvian <ll10nt@os.lv> | 
+ | [plasma-systemsettings]({{< ref "/f39/package/plasma-systemsettings.md" >}}) | 111 | 212 | 52.4 | Latvian <locale@laka.lv> | 
+ | [plasma-nm]({{< ref "/f39/package/plasma-nm.md" >}}) | 61 | 117 | 52.1 | Latvian <kde-i18n-doc@kde.org> | 
+ | [koffice-kivio]({{< ref "/f39/package/koffice-kivio.md" >}}) | 4386 | 8417 | 52.1 | Latvian <locale@laka.lv> | 
+ | [Thunar]({{< ref "/f39/package/Thunar.md" >}}) | 2823 | 5420 | 52.1 | Latvian (https://www.transifex.com/xfce/teams/16840/lv/) | 
+ | [kf5-kdelibs4support]({{< ref "/f39/package/kf5-kdelibs4support.md" >}}) | 2788 | 5353 | 52.1 | Latvian | 
+ | [kf5-libktorrent]({{< ref "/f39/package/kf5-libktorrent.md" >}}) | 242 | 465 | 52.0 | Latvian <locale@laka.lv> | 
+ | [kinfocenter]({{< ref "/f39/package/kinfocenter.md" >}}) | 239 | 461 | 51.8 | Latvian <kde-i18n-doc@kde.org> | 
+ | [NetworkManager-libreswan]({{< ref "/f39/package/NetworkManager-libreswan.md" >}}) | 240 | 465 | 51.6 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kmix]({{< ref "/f39/package/kmix.md" >}}) | 573 | 1132 | 50.6 | Latvian <kde-i18n-doc@kde.org> | 
+ | [soundconverter]({{< ref "/f39/package/soundconverter.md" >}}) | 258 | 510 | 50.6 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [mate-settings-daemon]({{< ref "/f39/package/mate-settings-daemon.md" >}}) | 1105 | 2207 | 50.1 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [khangman]({{< ref "/f39/package/khangman.md" >}}) | 236 | 475 | 49.7 | Latvian <locale@laka.lv> | 
+ | [thunar-volman]({{< ref "/f39/package/thunar-volman.md" >}}) | 237 | 484 | 49.0 | Latvian (http://www.transifex.com/xfce/thunar-volman/language/lv/) | 
+ | [mate-desktop]({{< ref "/f39/package/mate-desktop.md" >}}) | 1161 | 2376 | 48.9 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [kio-extras]({{< ref "/f39/package/kio-extras.md" >}}) | 495 | 1017 | 48.7 | Latvian <locale@laka.lv> | 
+ | [kcolorchooser]({{< ref "/f39/package/kcolorchooser.md" >}}) | 14 | 29 | 48.3 | Latvian <locale@laka.lv> | 
+ | [xfce4-systemload-plugin]({{< ref "/f39/package/xfce4-systemload-plugin.md" >}}) | 42 | 87 | 48.3 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [kf5-kmailtransport]({{< ref "/f39/package/kf5-kmailtransport.md" >}}) | 320 | 663 | 48.3 | Latvian <locale@laka.lv> | 
+ | [okular]({{< ref "/f39/package/okular.md" >}}) | 2694 | 5590 | 48.2 | Latvian <kde-i18n-doc@kde.org> | 
+ | [gnome-remote-desktop]({{< ref "/f39/package/gnome-remote-desktop.md" >}}) | 273 | 569 | 48.0 | Latvian <lata-l10n@googlegroups.com> | 
+ | [NetworkManager-sstp]({{< ref "/f39/package/NetworkManager-sstp.md" >}}) | 421 | 878 | 47.9 | Latvian <lata-l10n@googlegroups.com> | 
+ | [poedit]({{< ref "/f39/package/poedit.md" >}}) | 1512 | 3168 | 47.7 | Latvian | 
+ | [xfce4-clipman-plugin]({{< ref "/f39/package/xfce4-clipman-plugin.md" >}}) | 228 | 478 | 47.7 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [mate-terminal]({{< ref "/f39/package/mate-terminal.md" >}}) | 3987 | 8386 | 47.5 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [xfce4-places-plugin]({{< ref "/f39/package/xfce4-places-plugin.md" >}}) | 77 | 162 | 47.5 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [knetwalk]({{< ref "/f39/package/knetwalk.md" >}}) | 115 | 243 | 47.3 | Latvian <locale@laka.lv> | 
+ | [merkuro]({{< ref "/f39/package/merkuro.md" >}}) | 840 | 1782 | 47.1 | Latvian <kde-i18n-doc@kde.org> | 
+ | [rt]({{< ref "/f39/package/rt.md" >}}) | 6522 | 13877 | 47.0 | Latvian <lv@li.org> | 
+ | [kmail]({{< ref "/f39/package/kmail.md" >}}) | 3925 | 8420 | 46.6 | Latvian <locale@laka.lv> | 
+ | [caja-extensions]({{< ref "/f39/package/caja-extensions.md" >}}) | 352 | 760 | 46.3 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [kf5-kservice]({{< ref "/f39/package/kf5-kservice.md" >}}) | 80 | 173 | 46.2 | Latvian | 
+ | [xfce4-timer-plugin]({{< ref "/f39/package/xfce4-timer-plugin.md" >}}) | 62 | 135 | 45.9 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [tumbler]({{< ref "/f39/package/tumbler.md" >}}) | 126 | 278 | 45.3 | Latvian (http://www.transifex.com/projects/p/xfce/language/lv/) | 
+ | [pinta]({{< ref "/f39/package/pinta.md" >}}) | 770 | 1746 | 44.1 | Latvian <lv@li.org> | 
+ | [ristretto]({{< ref "/f39/package/ristretto.md" >}}) | 164 | 372 | 44.1 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [calibre]({{< ref "/f39/package/calibre.md" >}}) | 79833 | 181278 | 44.0 | Latvian (http://app.transifex.com/calibre/calibre/language/lv/) | 
+ | [xfce4-genmon-plugin]({{< ref "/f39/package/xfce4-genmon-plugin.md" >}}) | 44 | 100 | 44.0 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [kf5-kxmlgui]({{< ref "/f39/package/kf5-kxmlgui.md" >}}) | 679 | 1574 | 43.1 | Latvian | 
+ | [xfce4-whiskermenu-plugin]({{< ref "/f39/package/xfce4-whiskermenu-plugin.md" >}}) | 185 | 429 | 43.1 | Latvian (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/lv/) | 
+ | [plasma-sdk]({{< ref "/f39/package/plasma-sdk.md" >}}) | 159 | 371 | 42.9 | Latvian <locale@laka.lv> | 
+ | [kf5-akonadi-server]({{< ref "/f39/package/kf5-akonadi-server.md" >}}) | 1109 | 2596 | 42.7 | Latvian <locale@laka.lv> | 
+ | [korganizer]({{< ref "/f39/package/korganizer.md" >}}) | 2939 | 6894 | 42.6 | Latvian <locale@laka.lv> | 
+ | [kanagram]({{< ref "/f39/package/kanagram.md" >}}) | 221 | 527 | 41.9 | Latvian <locale@laka.lv> | 
+ | [budgie-desktop]({{< ref "/f39/package/budgie-desktop.md" >}}) | 511 | 1220 | 41.9 | Latvian (https://www.transifex.com/buddiesofbudgie/teams/129844/lv/) | 
+ | [cinnamon-control-center]({{< ref "/f39/package/cinnamon-control-center.md" >}}) | 549 | 1313 | 41.8 | Latvian <locale@laka.lv> | 
+ | [deluge]({{< ref "/f39/package/deluge.md" >}}) | 1809 | 4340 | 41.7 | Latvian <lv@li.org> | 
+ | [gwenview]({{< ref "/f39/package/gwenview.md" >}}) | 846 | 2040 | 41.5 | Latvian <locale@laka.lv> | 
+ | [NetworkManager-ssh]({{< ref "/f39/package/NetworkManager-ssh.md" >}}) | 115 | 286 | 40.2 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kf5-kwallet]({{< ref "/f39/package/kf5-kwallet.md" >}}) | 534 | 1335 | 40.0 | Latvian <locale@laka.lv> | 
+ | [sugar-stopwatch]({{< ref "/f39/package/sugar-stopwatch.md" >}}) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
+ | [electrum]({{< ref "/f39/package/electrum.md" >}}) | 5177 | 13041 | 39.7 | Latvian | 
+ | [kf5-calendarsupport]({{< ref "/f39/package/kf5-calendarsupport.md" >}}) | 1102 | 2779 | 39.7 | American English <locale@laka.lv> | 
+ | [guvcview]({{< ref "/f39/package/guvcview.md" >}}) | 416 | 1052 | 39.5 | Latvian <lv@li.org> | 
+ | [xfce4-screenshooter]({{< ref "/f39/package/xfce4-screenshooter.md" >}}) | 240 | 608 | 39.5 | Latvian (http://www.transifex.com/xfce/xfce-apps/language/lv/) | 
+ | [udisks2]({{< ref "/f39/package/udisks2.md" >}}) | 847 | 2187 | 38.7 | Latvian | 
+ | [xfce4-time-out-plugin]({{< ref "/f39/package/xfce4-time-out-plugin.md" >}}) | 41 | 106 | 38.7 | Latvian (http://www.transifex.com/xfce/xfce-panel-plugins/language/lv/) | 
+ | [plasma-workspace]({{< ref "/f39/package/plasma-workspace.md" >}}) | 3905 | 10123 | 38.6 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kf5-kdeclarative]({{< ref "/f39/package/kf5-kdeclarative.md" >}}) | 62 | 161 | 38.5 | Latvian | 
+ | [mate-calc]({{< ref "/f39/package/mate-calc.md" >}}) | 1279 | 3323 | 38.5 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [maliit-keyboard]({{< ref "/f39/package/maliit-keyboard.md" >}}) | 31 | 81 | 38.3 | Latvian <lv@li.org> | 
+ | [kmail-account-wizard]({{< ref "/f39/package/kmail-account-wizard.md" >}}) | 309 | 808 | 38.2 | Latvian <locale@laka.lv> | 
+ | [transmission]({{< ref "/f39/package/transmission.md" >}}) | 929 | 2441 | 38.1 | Latvian (https://app.transifex.com/transmissionbt/teams/33778/lv/) | 
+ | [sugar-toolkit-gtk3]({{< ref "/f39/package/sugar-toolkit-gtk3.md" >}}) | 81 | 213 | 38.0 | LANGUAGE <LL@li.org> | 
+ | [kmplayer]({{< ref "/f39/package/kmplayer.md" >}}) | 470 | 1249 | 37.6 | Lavtian <locale@laka.lv> | 
+ | [knotes]({{< ref "/f39/package/knotes.md" >}}) | 226 | 601 | 37.6 | Latvian <locale@laka.lv> | 
+ | [kate]({{< ref "/f39/package/kate.md" >}}) | 1808 | 4915 | 36.8 | Latvian | 
+ | [kscreenlocker]({{< ref "/f39/package/kscreenlocker.md" >}}) | 78 | 213 | 36.6 | Latvian <kde-i18n-doc@kde.org> | 
+ | [sawfish]({{< ref "/f39/package/sawfish.md" >}}) | 2349 | 6443 | 36.5 | Latvian <ll10nt@ttc.lv> | 
+ | [ksudoku]({{< ref "/f39/package/ksudoku.md" >}}) | 635 | 1746 | 36.4 | Latvian <locale@laka.lv> | 
+ | [hexchat]({{< ref "/f39/package/hexchat.md" >}}) | 2066 | 5971 | 34.6 | Latvian (http://www.transifex.com/hexchat/hexchat/language/lv/) | 
+ | [step]({{< ref "/f39/package/step.md" >}}) | 656 | 1897 | 34.6 | Latvian <locale@laka.lv> | 
+ | [pluma]({{< ref "/f39/package/pluma.md" >}}) | 4534 | 13113 | 34.6 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [mate-control-center]({{< ref "/f39/package/mate-control-center.md" >}}) | 2851 | 8253 | 34.5 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [kompare]({{< ref "/f39/package/kompare.md" >}}) | 487 | 1413 | 34.5 | Latvian <locale@laka.lv> | 
+ | [kleopatra]({{< ref "/f39/package/kleopatra.md" >}}) | 4317 | 12529 | 34.5 | Latvian | 
+ | [palapeli]({{< ref "/f39/package/palapeli.md" >}}) | 524 | 1525 | 34.4 | Latvian <locale@laka.lv> | 
+ | [kf5-ki18n]({{< ref "/f39/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Latvian | 
+ | [plasma-mediacenter]({{< ref "/f39/package/plasma-mediacenter.md" >}}) | 28 | 83 | 33.7 | Latvian | 
+ | [audacity]({{< ref "/f39/package/audacity.md" >}}) | 5903 | 17657 | 33.4 | Latvian (http://www.transifex.com/klyok/audacity/language/lv/) | 
+ | [kgeography]({{< ref "/f39/package/kgeography.md" >}}) | 3333 | 10012 | 33.3 | Latvian | 
+ | [kwin]({{< ref "/f39/package/kwin.md" >}}) | 1928 | 5799 | 33.2 | Latvian <locale@laka.lv> | 
+ | [mate-utils]({{< ref "/f39/package/mate-utils.md" >}}) | 3323 | 10060 | 33.0 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [kdepim-addons]({{< ref "/f39/package/kdepim-addons.md" >}}) | 651 | 1992 | 32.7 | Latvian <locale@laka.lv> | 
+ | [libxfce4ui]({{< ref "/f39/package/libxfce4ui.md" >}}) | 316 | 994 | 31.8 | Latvian (http://www.transifex.com/xfce/libxfce4ui/language/lv/) | 
+ | [celestia]({{< ref "/f39/package/celestia.md" >}}) | 744 | 2341 | 31.8 |  | 
+ | [NetworkManager-l2tp]({{< ref "/f39/package/NetworkManager-l2tp.md" >}}) | 407 | 1289 | 31.6 | Latvian <lata-l10n@googlegroups.com> | 
+ | [kreversi]({{< ref "/f39/package/kreversi.md" >}}) | 134 | 425 | 31.5 | Latvian <locale@laka.lv> | 
+ | [dolphin]({{< ref "/f39/package/dolphin.md" >}}) | 1667 | 5289 | 31.5 | Latvian <kde-i18n-doc@kde.org> | 
+ | [lightdm-gtk]({{< ref "/f39/package/lightdm-gtk.md" >}}) | 28 | 89 | 31.5 | Latvian <lv@li.org> | 
+ | [tuxpaint]({{< ref "/f39/package/tuxpaint.md" >}}) | 1174 | 3763 | 31.2 | Valoda <raivucis@gmail.com> | 
+ | [cantor]({{< ref "/f39/package/cantor.md" >}}) | 1255 | 4034 | 31.1 | Latvian <locale@laka.lv> | 
+ | [krfb]({{< ref "/f39/package/krfb.md" >}}) | 227 | 735 | 30.9 | Latvian <locale@laka.lv> | 
+ | [transmission-remote-gtk]({{< ref "/f39/package/transmission-remote-gtk.md" >}}) | 344 | 1130 | 30.4 | Latvian <lv@li.org> | 
+ | [eom]({{< ref "/f39/package/eom.md" >}}) | 1467 | 4958 | 29.6 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [xfce4-netload-plugin]({{< ref "/f39/package/xfce4-netload-plugin.md" >}}) | 27 | 92 | 29.3 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [plasma-drkonqi]({{< ref "/f39/package/plasma-drkonqi.md" >}}) | 581 | 1984 | 29.3 | Latvian <locale@laka.lv> | 
+ | [cinnamon-translations]({{< ref "/f39/package/cinnamon-translations.md" >}}) | 6407 | 22051 | 29.1 | Latvian <lv@li.org> | 
+ | [atril]({{< ref "/f39/package/atril.md" >}}) | 1268 | 4365 | 29.0 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [kjumpingcube]({{< ref "/f39/package/kjumpingcube.md" >}}) | 119 | 413 | 28.8 | Latvian <locale@laka.lv> | 
+ | [mate-power-manager]({{< ref "/f39/package/mate-power-manager.md" >}}) | 1471 | 5119 | 28.7 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [supertuxkart]({{< ref "/f39/package/supertuxkart.md" >}}) | 1631 | 5959 | 27.4 | Latvian (http://www.transifex.com/supertuxkart/supertuxkart/language/lv/) | 
+ | [kf5-kiconthemes]({{< ref "/f39/package/kf5-kiconthemes.md" >}}) | 11 | 41 | 26.8 | Latvian | 
+ | [p11-kit]({{< ref "/f39/package/p11-kit.md" >}}) | 469 | 1764 | 26.6 | Latvian (http://www.transifex.com/freedesktop/p11-kit/language/lv/) | 
+ | [mingw-colord]({{< ref "/f39/package/mingw-colord.md" >}}) | 497 | 1885 | 26.4 | Latvian (http://www.transifex.com/projects/p/colord/language/lv/) | 
+ | [skanlite]({{< ref "/f39/package/skanlite.md" >}}) | 48 | 186 | 25.8 | Latvian <locale@laka.lv> | 
+ | [webkitgtk]({{< ref "/f39/package/webkitgtk.md" >}}) | 671 | 2623 | 25.6 | Latviešu <lata-l10n@googlegroups.com> | 
+ | [initscripts]({{< ref "/f39/package/initscripts.md" >}}) | 296 | 1162 | 25.5 | Latvian (http://www.transifex.com/projects/p/fedora/language/lv/) | 
+ | [synapse]({{< ref "/f39/package/synapse.md" >}}) | 215 | 856 | 25.1 | Latvian <lv@li.org> | 
+ | [colord]({{< ref "/f39/package/colord.md" >}}) | 497 | 1990 | 25.0 | Latvian (http://www.transifex.com/freedesktop/colord/language/lv/) | 
+ | [ark]({{< ref "/f39/package/ark.md" >}}) | 470 | 1962 | 24.0 | Latvian <locale@laka.lv> | 
+ | [dia]({{< ref "/f39/package/dia.md" >}}) | 1361 | 5703 | 23.9 | Latvian <lv@li.org> | 
+ | [kde-partitionmanager]({{< ref "/f39/package/kde-partitionmanager.md" >}}) | 539 | 2272 | 23.7 | Latvian <locale@laka.lv> | 
+ | [blueman]({{< ref "/f39/package/blueman.md" >}}) | 559 | 2365 | 23.6 | Latvian (http://www.transifex.com/mate/MATE/language/lv/) | 
+ | [konsole5]({{< ref "/f39/package/konsole5.md" >}}) | 938 | 3996 | 23.5 | Latvian <kde-i18n-doc@kde.org> | 
+ | [catfish]({{< ref "/f39/package/catfish.md" >}}) | 149 | 683 | 21.8 | Latvian <lv@li.org> | 
+ | [warmux]({{< ref "/f39/package/warmux.md" >}}) | 589 | 2744 | 21.5 | Latvian <locale@laka.lv> | 
+ | [mate-menu]({{< ref "/f39/package/mate-menu.md" >}}) | 64 | 308 | 20.8 | Latvian (http://www.transifex.com/mate/MATE/language/lv/) | 
+ | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 510 | 2538 | 20.1 | Latvian <lv@li.org> | 
+ | [remmina]({{< ref "/f39/package/remmina.md" >}}) | 1083 | 5396 | 20.1 | Latvian <https://hosted.weblate.org/projects/remmina/remmina/lv/> | 
+ | [mc]({{< ref "/f39/package/mc.md" >}}) | 878 | 4394 | 20.0 | Latvian (http://app.transifex.com/mc/mc/language/lv/) | 
+ | [garcon]({{< ref "/f39/package/garcon.md" >}}) | 17 | 89 | 19.1 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [kwordquiz]({{< ref "/f39/package/kwordquiz.md" >}}) | 48 | 252 | 19.0 | Latvian <locale@laka.lv> | 
+ | [digikam]({{< ref "/f39/package/digikam.md" >}}) | 11603 | 63009 | 18.4 | Latvian <kde-i18n-doc@kde.org> | 
+ | [pim-data-exporter]({{< ref "/f39/package/pim-data-exporter.md" >}}) | 146 | 810 | 18.0 | Latvian <locale@laka.lv> | 
+ | [libreoffice]({{< ref "/f39/package/libreoffice.md" >}}) | 134095 | 747832 | 17.9 | Latvian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/lv/> | 
+ | [kf5-knewstuff]({{< ref "/f39/package/kf5-knewstuff.md" >}}) | 289 | 1631 | 17.7 | Latvian | 
+ | [icewm]({{< ref "/f39/package/icewm.md" >}}) | 403 | 2276 | 17.7 | Latvian <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/lv/> | 
+ | [libuser]({{< ref "/f39/package/libuser.md" >}}) | 248 | 1437 | 17.3 | Latvian (http://www.transifex.com/projects/p/fedora/language/lv/) | 
+ | [hello]({{< ref "/f39/package/hello.md" >}}) | 42 | 244 | 17.2 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [kf5-libkleo]({{< ref "/f39/package/kf5-libkleo.md" >}}) | 415 | 2423 | 17.1 | Latvian <locale@laka.lv> | 
+ | [ibus]({{< ref "/f39/package/ibus.md" >}}) | 442 | 2588 | 17.1 | Latvian <trans-lv@lists.fedoraproject.org> | 
+ | [kflickr]({{< ref "/f39/package/kflickr.md" >}}) | 56 | 332 | 16.9 | Latvian <lv@li.org> | 
+ | [powerdevil]({{< ref "/f39/package/powerdevil.md" >}}) | 91 | 554 | 16.4 | Latvian | 
+ | [clamtk]({{< ref "/f39/package/clamtk.md" >}}) | 69 | 434 | 15.9 | Latvian <lv@li.org> | 
+ | [engrampa]({{< ref "/f39/package/engrampa.md" >}}) | 1208 | 7838 | 15.4 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [elementary-calculator]({{< ref "/f39/package/elementary-calculator.md" >}}) | 29 | 195 | 14.9 | LANGUAGE <LL@li.org> | 
+ | [kaddressbook]({{< ref "/f39/package/kaddressbook.md" >}}) | 164 | 1137 | 14.4 | Latvian <locale@laka.lv> | 
+ | [rocs]({{< ref "/f39/package/rocs.md" >}}) | 208 | 1480 | 14.1 | Latvian | 
+ | [kf5-akonadi-contacts]({{< ref "/f39/package/kf5-akonadi-contacts.md" >}}) | 156 | 1116 | 14.0 | Latvian <locale@laka.lv> | 
+ | [quodlibet]({{< ref "/f39/package/quodlibet.md" >}}) | 1076 | 7919 | 13.6 | Latvian <locale@laka.lv> | 
+ | [pluma-plugins]({{< ref "/f39/package/pluma-plugins.md" >}}) | 188 | 1398 | 13.4 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [homebank]({{< ref "/f39/package/homebank.md" >}}) | 419 | 3156 | 13.3 | gnome-gimp.doc.lv.2010-12-13 <kde-i18n-doc@kde.org> | 
+ | [switchdesk]({{< ref "/f39/package/switchdesk.md" >}}) | 16 | 122 | 13.1 | latvian <locale@laka.lv> | 
+ | [kamoso]({{< ref "/f39/package/kamoso.md" >}}) | 19 | 145 | 13.1 | Latvian <kde-i18n-doc@kde.org> | 
+ | [kf5-kipi-plugins]({{< ref "/f39/package/kf5-kipi-plugins.md" >}}) | 127 | 983 | 12.9 | Latvian <locale@laka.lv> | 
+ | [kjots]({{< ref "/f39/package/kjots.md" >}}) | 84 | 651 | 12.9 | Latvian <locale@laka.lv> | 
+ | [mate-applets]({{< ref "/f39/package/mate-applets.md" >}}) | 2006 | 15957 | 12.6 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [xfce4-appfinder]({{< ref "/f39/package/xfce4-appfinder.md" >}}) | 23 | 186 | 12.4 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [exaile]({{< ref "/f39/package/exaile.md" >}}) | 569 | 4602 | 12.4 | Latvian <https://hosted.weblate.org/projects/exaile/master/lv/> | 
+ | [kontact]({{< ref "/f39/package/kontact.md" >}}) | 58 | 492 | 11.8 | Latvian <locale@laka.lv> | 
+ | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 2781 | 23672 | 11.7 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [mate-system-monitor]({{< ref "/f39/package/mate-system-monitor.md" >}}) | 551 | 4893 | 11.3 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [calligra]({{< ref "/f39/package/calligra.md" >}}) | 3166 | 29155 | 10.9 | Lavtian <locale@laka.lv> | 
+ | [publican]({{< ref "/f39/package/publican.md" >}}) | 532 | 5377 | 9.9 | Latvian <kde-i18n-doc@kde.org> | 
+ | [neverball]({{< ref "/f39/package/neverball.md" >}}) | 261 | 2735 | 9.5 | Latvian (http://www.transifex.com/projects/p/neverball/language/lv/) | 
+ | [midori]({{< ref "/f39/package/midori.md" >}}) | 329 | 3541 | 9.3 | Latvian <lv@li.org> | 
+ | [python-blivet]({{< ref "/f39/package/python-blivet.md" >}}) | 56 | 605 | 9.3 | Latvian (http://www.transifex.com/projects/p/blivet/language/lv/) | 
+ | [kdeplasma-addons]({{< ref "/f39/package/kdeplasma-addons.md" >}}) | 114 | 1235 | 9.2 | Latvian <locale@laka.lv> | 
+ | [system-switch-mail]({{< ref "/f39/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | JAST <jast@cc.lv> | 
+ | [kf5-libksieve]({{< ref "/f39/package/kf5-libksieve.md" >}}) | 278 | 3122 | 8.9 | lv <locale@laka.lv> | 
+ | [mingw-wxWidgets]({{< ref "/f39/package/mingw-wxWidgets.md" >}}) | 535 | 6391 | 8.4 | wxWidgets translators <wx-translators@wxwindows.org> | 
+ | [wesnoth]({{< ref "/f39/package/wesnoth.md" >}}) | 28327 | 339620 | 8.3 | none | 
+ | [elementary-calendar]({{< ref "/f39/package/elementary-calendar.md" >}}) | 54 | 652 | 8.3 | Latvian <lv@li.org> | 
+ | [gnumeric]({{< ref "/f39/package/gnumeric.md" >}}) | 2857 | 36487 | 7.8 | Latvian <lata-l10n@googlegroups.com> | 
+ | [cpu-x]({{< ref "/f39/package/cpu-x.md" >}}) | 118 | 1517 | 7.8 | Latvian <https://hosted.weblate.org/projects/cpu-x/translations/lv/> | 
+ | [xfce4-panel]({{< ref "/f39/package/xfce4-panel.md" >}}) | 134 | 1732 | 7.7 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 118 | 1572 | 7.5 | Latvian <https://l10n.elementary.io/projects/code/code/lv/> | 
+ | [minetest]({{< ref "/f39/package/minetest.md" >}}) | 715 | 9676 | 7.4 | Latvian <https://hosted.weblate.org/projects/minetest/minetest/lv/> | 
+ | [zabbix]({{< ref "/f39/package/zabbix.md" >}}) | 1433 | 19455 | 7.4 | Zabbix <info@zabbix.com> | 
+ | [terminator]({{< ref "/f39/package/terminator.md" >}}) | 112 | 1522 | 7.4 | Latvian (https://www.transifex.com/terminator/teams/109338/lv/) | 
+ | [xfce4-taskmanager]({{< ref "/f39/package/xfce4-taskmanager.md" >}}) | 9 | 123 | 7.3 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [xpad]({{< ref "/f39/package/xpad.md" >}}) | 31 | 436 | 7.1 | Latvian <lv@li.org> | 
+ | [kstars]({{< ref "/f39/package/kstars.md" >}}) | 4139 | 58759 | 7.0 | Latvian <locale@laka.lv> | 
+ | [kiconedit]({{< ref "/f39/package/kiconedit.md" >}}) | 49 | 726 | 6.7 | Latvian <locale@laka.lv> | 
+ | [cervisia]({{< ref "/f39/package/cervisia.md" >}}) | 109 | 1615 | 6.7 | Lavtian <locale@laka.lv> | 
+ | [marble]({{< ref "/f39/package/marble.md" >}}) | 771 | 11587 | 6.7 | Latvian | 
+ | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 13 | 207 | 6.3 | Latvian <lv@li.org> | 
+ | [python-sphinx]({{< ref "/f39/package/python-sphinx.md" >}}) | 282 | 4923 | 5.7 | Latvian (http://www.transifex.com/sphinx-doc/sphinx-1/language/lv/) | 
+ | [libgda]({{< ref "/f39/package/libgda.md" >}}) | 623 | 11452 | 5.4 | Latvian <lata-l10n@googlegroups.com> | 
+ | [libgda5]({{< ref "/f39/package/libgda5.md" >}}) | 623 | 11452 | 5.4 | Latvian <lata-l10n@googlegroups.com> | 
+ | [grass]({{< ref "/f39/package/grass.md" >}}) | 6332 | 122210 | 5.2 | Latvian <https://weblate.osgeo.org/projects/grass-gis/grasslibs/lv/> | 
+ | [libmatemixer]({{< ref "/f39/package/libmatemixer.md" >}}) | 12 | 242 | 5.0 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [calligraplan]({{< ref "/f39/package/calligraplan.md" >}}) | 97 | 2009 | 4.8 | Lavtian <locale@laka.lv> | 
+ | [xiphos]({{< ref "/f39/package/xiphos.md" >}}) | 215 | 4981 | 4.3 | Latvian <lv@li.org> | 
+ | [NetworkManager-openconnect]({{< ref "/f39/package/NetworkManager-openconnect.md" >}}) | 139 | 3241 | 4.3 | Latvian <lata-l10n@googlegroups.com> | 
+ | [sugar-physics]({{< ref "/f39/package/sugar-physics.md" >}}) | 2 | 48 | 4.2 | LANGUAGE <LL@li.org> | 
+ | [xfce4-cpufreq-plugin]({{< ref "/f39/package/xfce4-cpufreq-plugin.md" >}}) | 5 | 140 | 3.6 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [bleachbit]({{< ref "/f39/package/bleachbit.md" >}}) | 67 | 1923 | 3.5 |  | 
+ | [granite]({{< ref "/f39/package/granite.md" >}}) | 16 | 498 | 3.2 | Latvian <lv@li.org> | 
+ | [mate-user-admin]({{< ref "/f39/package/mate-user-admin.md" >}}) | 19 | 605 | 3.1 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [light-locker]({{< ref "/f39/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Latvian (http://www.transifex.com/the_cavalry/light-locker/language/lv/) | 
+ | [kf5-kpimtextedit]({{< ref "/f39/package/kf5-kpimtextedit.md" >}}) | 10 | 382 | 2.6 | Latvian <locale@laka.lv> | 
+ | [anaconda]({{< ref "/f39/package/anaconda.md" >}}) | 219 | 9208 | 2.4 | Latvian <https://translate.fedoraproject.org/projects/anaconda/master/lv/> | 
+ | [xfce4-weather-plugin]({{< ref "/f39/package/xfce4-weather-plugin.md" >}}) | 70 | 3594 | 1.9 | Latvian <translation-team-lv@lists.sourceforge.net> | 
+ | [godot3]({{< ref "/f39/package/godot3.md" >}}) | 4900 | 285145 | 1.7 | Latvian <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/lv/> | 
+ | [python-apt]({{< ref "/f39/package/python-apt.md" >}}) | 9 | 544 | 1.7 | Latvian <locale@laka.lv> | 
+ | [celluloid]({{< ref "/f39/package/celluloid.md" >}}) | 13 | 849 | 1.5 | Latvian <https://hosted.weblate.org/projects/celluloid/celluloid/lv/> | 
+ | [kpmcore]({{< ref "/f39/package/kpmcore.md" >}}) | 49 | 3233 | 1.5 | Latvian <locale@laka.lv> | 
+ | [sugar-clock]({{< ref "/f39/package/sugar-clock.md" >}}) | 1 | 66 | 1.5 | LANGUAGE <LL@li.org> | 
+ | [abrt]({{< ref "/f39/package/abrt.md" >}}) | 55 | 3676 | 1.5 | Latvian (http://www.transifex.com/projects/p/fedora-abrt/language/lv/) | 
+ | [libreport]({{< ref "/f39/package/libreport.md" >}}) | 70 | 4928 | 1.4 | Latvian (http://www.transifex.com/projects/p/libreport/language/lv/) | 
+ | [manafirewall]({{< ref "/f39/package/manafirewall.md" >}}) | 14 | 1097 | 1.3 | Latvian (https://www.transifex.com/MageiaLinux/teams/9361/lv/) | 
+ | [stellarium]({{< ref "/f39/package/stellarium.md" >}}) | 1864 | 151643 | 1.2 | Latvian (https://www.transifex.com/stellarium/teams/80998/lv/) | 
+ | [kpilot]({{< ref "/f39/package/kpilot.md" >}}) | 79 | 7156 | 1.1 | Lavtian <locale@laka.lv> | 
+ | [pychess]({{< ref "/f39/package/pychess.md" >}}) | 74 | 7592 | 1.0 | Latvian (http://www.transifex.com/gbtami/pychess/language/lv/) | 
+ | [python-meh]({{< ref "/f39/package/python-meh.md" >}}) | 1 | 109 | 0.9 | Latvian (http://www.transifex.com/projects/p/python-meh/language/lv/) | 
+ | [krita]({{< ref "/f39/package/krita.md" >}}) | 317 | 35924 | 0.9 | Lavtian <locale@laka.lv> | 
+ | [dino]({{< ref "/f39/package/dino.md" >}}) | 7 | 798 | 0.9 | none | 
+ | [kicad]({{< ref "/f39/package/kicad.md" >}}) | 331 | 41746 | 0.8 | Latvian <https://hosted.weblate.org/projects/kicad/master-source/lv/> | 
+ | [im-chooser]({{< ref "/f39/package/im-chooser.md" >}}) | 2 | 253 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [caja-actions]({{< ref "/f39/package/caja-actions.md" >}}) | 136 | 18815 | 0.7 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [kdevelop]({{< ref "/f39/package/kdevelop.md" >}}) | 4 | 696 | 0.6 | Latvian | 
+ | [malcontent]({{< ref "/f39/package/malcontent.md" >}}) | 3 | 584 | 0.5 | none | 
+ | [mypaint]({{< ref "/f39/package/mypaint.md" >}}) | 26 | 6381 | 0.4 | Latvian <https://hosted.weblate.org/projects/mypaint/mypaint/lv/> | 
+ | [xfburn]({{< ref "/f39/package/xfburn.md" >}}) | 5 | 1329 | 0.4 | Latvian (http://www.transifex.com/projects/p/xfce/language/lv/) | 
+ | [mate-user-guide]({{< ref "/f39/package/mate-user-guide.md" >}}) | 148 | 42973 | 0.3 | Latvian (https://app.transifex.com/mate/teams/13566/lv/) | 
+ | [viking]({{< ref "/f39/package/viking.md" >}}) | 21 | 6243 | 0.3 | Latvian <lv@li.org> | 
+ | [synfig]({{< ref "/f39/package/synfig.md" >}}) | 15 | 4879 | 0.3 | Latvian (http://www.transifex.com/morevnaproject/synfig/language/lv/) | 
+ | [mate-sensors-applet]({{< ref "/f39/package/mate-sensors-applet.md" >}}) | 5 | 2160 | 0.2 | Latvian (https://www.transifex.com/mate/teams/13566/lv/) | 
+ | [android-tools]({{< ref "/f39/package/android-tools.md" >}}) | 30 | 13706 | 0.2 | Latvian | 
+ | [policycoreutils]({{< ref "/f39/package/policycoreutils.md" >}}) | 30 | 13706 | 0.2 | Latvian | 
+ | [sssd]({{< ref "/f39/package/sssd.md" >}}) | 87 | 39784 | 0.2 | Latvian (http://www.transifex.com/projects/p/sssd/language/lv/) | 
+ | [libmypaint]({{< ref "/f39/package/libmypaint.md" >}}) | 4 | 2303 | 0.2 | Latvian <https://hosted.weblate.org/projects/mypaint/libmypaint/lv/> | 
+ | [ufw]({{< ref "/f39/package/ufw.md" >}}) | 1 | 879 | 0.1 | Latvian <lv@li.org> | 
+ | [edgar]({{< ref "/f39/package/edgar.md" >}}) | 8 | 11474 | 0.1 | Latvian <lv@li.org> | 
+ | [synfigstudio]({{< ref "/f39/package/synfigstudio.md" >}}) | 5 | 7371 | 0.1 | Latvian (http://www.transifex.com/morevnaproject/synfig/language/lv/) | 
+ | [tortoisehg]({{< ref "/f39/package/tortoisehg.md" >}}) | 6 | 13243 | 0.0 | Latvian <lv@li.org> | 
+ | [sugar]({{< ref "/f39/package/sugar.md" >}}) | 1 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [NetworkManager]({{< ref "/f39/package/NetworkManager.md" >}}) | 10 | 29194 | 0.0 | Latvian <locale@laka.lv> | 
+ | [sympa]({{< ref "/f39/package/sympa.md" >}}) | 10 | 36428 | 0.0 | Latviešu | 
+ | [analitza]({{< ref "/f39/package/analitza.md" >}}) | 0 | 992 | 0.0 | Latvian <locale@laka.lv> | 
+ | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
+ | [calamares]({{< ref "/f39/package/calamares.md" >}}) | 0 | 521 | 0.0 | Latvian (https://app.transifex.com/calamares/teams/20061/lv/) | 
+ | [chromium]({{< ref "/f39/package/chromium.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
+ | [cpeditor]({{< ref "/f39/package/cpeditor.md" >}}) | 0 | 647 | 0.0 | Latvian | 
+ | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
+ | [elementary-camera]({{< ref "/f39/package/elementary-camera.md" >}}) | 0 | 133 | 0.0 | Latvian <lv@li.org> | 
+ | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
+ | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
+ | [elementary-onboarding]({{< ref "/f39/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
+ | [fonts-tweak-tool]({{< ref "/f39/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Latvian | 
+ | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | Latvian <lv@li.org> | 
+ | [gnome-abrt]({{< ref "/f39/package/gnome-abrt.md" >}}) | 0 | 221 | 0.0 | none | 
+ | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 | Latvian <lv@li.org> | 
+ | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
+ | [imsettings]({{< ref "/f39/package/imsettings.md" >}}) | 0 | 493 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup]({{< ref "/f39/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Latvian | 
+ | [kdenetwork-filesharing]({{< ref "/f39/package/kdenetwork-filesharing.md" >}}) | 0 | 992 | 0.0 | Latvian <locale@laka.lv> | 
+ | [kdump-anaconda-addon]({{< ref "/f39/package/kdump-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kf5-kauth]({{< ref "/f39/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Latvian | 
+ | [kf5-kbookmarks]({{< ref "/f39/package/kf5-kbookmarks.md" >}}) | 0 | 230 | 0.0 | Latvian | 
+ | [kf5-kcodecs]({{< ref "/f39/package/kf5-kcodecs.md" >}}) | 0 | 370 | 0.0 | Latvian | 
+ | [kf5-kcompletion]({{< ref "/f39/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Latvian | 
+ | [kf5-kconfig]({{< ref "/f39/package/kf5-kconfig.md" >}}) | 0 | 289 | 0.0 | Latvian <locale@laka.lv> | 
+ | [kf5-kcoreaddons]({{< ref "/f39/package/kf5-kcoreaddons.md" >}}) | 0 | 382 | 0.0 | Latvian | 
+ | [kf5-kdesignerplugin]({{< ref "/f39/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Latvian | 
+ | [kf5-kdnssd]({{< ref "/f39/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Latvian | 
+ | [kf5-kglobalaccel]({{< ref "/f39/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Latvian | 
+ | [kf5-kitemviews]({{< ref "/f39/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Latvian | 
+ | [kf5-kjobwidgets]({{< ref "/f39/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Latvian | 
+ | [kf5-knotifications]({{< ref "/f39/package/kf5-knotifications.md" >}}) | 0 | 21 | 0.0 | Latvian | 
+ | [kf5-kwidgetsaddons]({{< ref "/f39/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1293 | 0.0 | Latvian | 
+ | [kf5-solid]({{< ref "/f39/package/kf5-solid.md" >}}) | 0 | 588 | 0.0 | Latvian | 
+ | [kf5-sonnet]({{< ref "/f39/package/kf5-sonnet.md" >}}) | 0 | 683 | 0.0 | Latvian | 
+ | [kf5-syntax-highlighting]({{< ref "/f39/package/kf5-syntax-highlighting.md" >}}) | 0 | 647 | 0.0 | Latvian | 
+ | [kreport]({{< ref "/f39/package/kreport.md" >}}) | 0 | 411 | 0.0 | Lavtian <locale@laka.lv> | 
+ | [libgxim]({{< ref "/f39/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libvirt-sandbox]({{< ref "/f39/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Latvian (http://www.transifex.com/projects/p/fedora/language/lv/) | 
+ | [lightdm]({{< ref "/f39/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Latvian <lv@li.org> | 
+ | [mame]({{< ref "/f39/package/mame.md" >}}) | 0 | 3685 | 0.0 | MAME Language Team | 
+ | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
+ | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
+ | [pam]({{< ref "/f39/package/pam.md" >}}) | 0 | 544 | 0.0 | Latvian (http://www.transifex.com/projects/p/fedora/language/lv/) | 
+ | [phonon-backend-gstreamer]({{< ref "/f39/package/phonon-backend-gstreamer.md" >}}) | 0 | 104 | 0.0 | Latvian | 
+ | [pyhoca-gui]({{< ref "/f39/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3]({{< ref "/f39/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-fedora]({{< ref "/f39/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Latvian | 
+ | [python-hyperkitty]({{< ref "/f39/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius]({{< ref "/f39/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-sphinxcontrib-applehelp]({{< ref "/f39/package/python-sphinxcontrib-applehelp.md" >}}) | 0 | 89 | 0.0 | Latvian (https://www.transifex.com/sphinx-doc/teams/36659/lv/) | 
+ | [python-sphinxcontrib-devhelp]({{< ref "/f39/package/python-sphinxcontrib-devhelp.md" >}}) | 0 | 18 | 0.0 | Latvian (https://www.transifex.com/sphinx-doc/teams/36659/lv/) | 
+ | [python-sphinxcontrib-htmlhelp]({{< ref "/f39/package/python-sphinxcontrib-htmlhelp.md" >}}) | 0 | 25 | 0.0 | Latvian (https://www.transifex.com/sphinx-doc/teams/36659/lv/) | 
+ | [python-sphinxcontrib-qthelp]({{< ref "/f39/package/python-sphinxcontrib-qthelp.md" >}}) | 0 | 33 | 0.0 | Latvian (https://www.transifex.com/sphinx-doc/teams/36659/lv/) | 
+ | [python-sphinxcontrib-serializinghtml]({{< ref "/f39/package/python-sphinxcontrib-serializinghtml.md" >}}) | 0 | 18 | 0.0 | Latvian (https://www.transifex.com/sphinx-doc/teams/36659/lv/) | 
+ | [realmd]({{< ref "/f39/package/realmd.md" >}}) | 0 | 833 | 0.0 | Latvian (http://www.transifex.com/freedesktop/realmd/language/lv/) | 
+ | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [retrace-server]({{< ref "/f39/package/retrace-server.md" >}}) | 0 | 433 | 0.0 | none | 
+ | [snapd]({{< ref "/f39/package/snapd.md" >}}) | 0 | 4307 | 0.0 | Latvian <lv@li.org> | 
+ | [sos]({{< ref "/f39/package/sos.md" >}}) | 0 | 123 | 0.0 | none | 
+ | [speedcrunch]({{< ref "/f39/package/speedcrunch.md" >}}) | 0 | 93 | 0.0 | Latvian (http://www.transifex.com/heldercorreia/speedcrunch/language/lv/) | 
+ | [sugar-implode]({{< ref "/f39/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal]({{< ref "/f39/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [taxi]({{< ref "/f39/package/taxi.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 | LANGUAGE <LL@li.org> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+## Error with polib
+We use the po metadata to get the language code and the team, but sometimes it fails, here are the files.
+
+| Package | Lang from file path/name | polib error | Team |
+|---------|--------------------------|-------------|------|
+ | [bleachbit]({{< ref "/f39/package/bleachbit.md" >}}) | /mnt/stockage/packages/f39/bleachbit/po/lv.po | error-os |  | 
+ | [phosh]({{< ref "/f39/package/phosh.md" >}}) | /mnt/stockage/packages/f39/phosh/po/lv.po | error-os |  | 
+{.sortable}
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

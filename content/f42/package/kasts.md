@@ -1,0 +1,76 @@
+---
+title: "kasts - translation progress for f42"
+package: kasts
+date: 2026-01-18T12:16:01+00:00
+started_languages: 38
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 38
+release: f42
+---
+The package kasts (version 25.12.1):
+
+* represents 1362 source words to be translated
+* is translated into 38 languages in Fedora f42
+
+
+* contains 38 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ar]({{< ref "/f42/language/ar.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/ar/kasts.po | 
+ | [ca]({{< ref "/f42/language/ca.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/ca/kasts.po | 
+ | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/ca@valencia/kasts.po | 
+ | [da]({{< ref "/f42/language/da.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/da/kasts.po | 
+ | [es]({{< ref "/f42/language/es.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/es/kasts.po | 
+ | [eu]({{< ref "/f42/language/eu.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/eu/kasts.po | 
+ | [fi]({{< ref "/f42/language/fi.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/fi/kasts.po | 
+ | [fr]({{< ref "/f42/language/fr.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/fr/kasts.po | 
+ | [he]({{< ref "/f42/language/he.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/he/kasts.po | 
+ | [ia]({{< ref "/f42/language/ia.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/ia/kasts.po | 
+ | [it]({{< ref "/f42/language/it.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/it/kasts.po | 
+ | [ka]({{< ref "/f42/language/ka.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/ka/kasts.po | 
+ | [ko]({{< ref "/f42/language/ko.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/ko/kasts.po | 
+ | [nl]({{< ref "/f42/language/nl.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/nl/kasts.po | 
+ | [pl]({{< ref "/f42/language/pl.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/pl/kasts.po | 
+ | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/pt_BR/kasts.po | 
+ | [ru]({{< ref "/f42/language/ru.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/ru/kasts.po | 
+ | [sl]({{< ref "/f42/language/sl.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/sl/kasts.po | 
+ | [sv]({{< ref "/f42/language/sv.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/sv/kasts.po | 
+ | [tr]({{< ref "/f42/language/tr.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/tr/kasts.po | 
+ | [uk]({{< ref "/f42/language/uk.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/uk/kasts.po | 
+ | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 1362 | 1362 | 100.0 | /mnt/stockage/packages/f42/kasts/po/zh_TW/kasts.po | 
+ | [gl]({{< ref "/f42/language/gl.md" >}}) | 1360 | 1362 | 99.9 | /mnt/stockage/packages/f42/kasts/po/gl/kasts.po | 
+ | [is]({{< ref "/f42/language/is.md" >}}) | 1360 | 1362 | 99.9 | /mnt/stockage/packages/f42/kasts/po/is/kasts.po | 
+ | [eo]({{< ref "/f42/language/eo.md" >}}) | 1341 | 1362 | 98.5 | /mnt/stockage/packages/f42/kasts/po/eo/kasts.po | 
+ | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 1319 | 1362 | 96.8 | /mnt/stockage/packages/f42/kasts/po/en_GB/kasts.po | 
+ | [hi]({{< ref "/f42/language/hi.md" >}}) | 1319 | 1362 | 96.8 | /mnt/stockage/packages/f42/kasts/po/hi/kasts.po | 
+ | [sa]({{< ref "/f42/language/sa.md" >}}) | 1319 | 1362 | 96.8 | /mnt/stockage/packages/f42/kasts/po/sa/kasts.po | 
+ | [de]({{< ref "/f42/language/de.md" >}}) | 1116 | 1362 | 81.9 | /mnt/stockage/packages/f42/kasts/po/de/kasts.po | 
+ | [cs]({{< ref "/f42/language/cs.md" >}}) | 887 | 1362 | 65.1 | /mnt/stockage/packages/f42/kasts/po/cs/kasts.po | 
+ | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 834 | 1362 | 61.2 | /mnt/stockage/packages/f42/kasts/po/zh_CN/kasts.po | 
+ | [pt]({{< ref "/f42/language/pt.md" >}}) | 473 | 1362 | 34.7 | /mnt/stockage/packages/f42/kasts/po/pt/kasts.po | 
+ | [sk]({{< ref "/f42/language/sk.md" >}}) | 148 | 1362 | 10.9 | /mnt/stockage/packages/f42/kasts/po/sk/kasts.po | 
+ | [pa]({{< ref "/f42/language/pa.md" >}}) | 44 | 1362 | 3.2 | /mnt/stockage/packages/f42/kasts/po/pa/kasts.po | 
+ | [ast]({{< ref "/f42/language/ast.md" >}}) | 4 | 1362 | 0.3 | /mnt/stockage/packages/f42/kasts/po/ast/kasts.po | 
+ | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 1362 | 0.0 | /mnt/stockage/packages/f42/kasts/po/ga/kasts.po | 
+ | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 1362 | 0.0 | /mnt/stockage/packages/f42/kasts/po/ja/kasts.po | 
+ | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 1362 | 0.0 | /mnt/stockage/packages/f42/kasts/po/lt/kasts.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

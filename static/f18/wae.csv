@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+lightdm,40,0,39,13,0,4,28,79,50.63291139240506,Walser <wae@li.org>
+lightdm-gtk,47,0,10,13,0,6,34,57,82.45614035087719,Walser <wae@li.org>
+rednotebook,277,0,844,50,0,185,270,1121,24.710080285459412,Walser <wae@li.org>

@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+firstboot,0,0,596,0,0,56,0,596,0.0,LANGUAGE <LL@li.org>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,342,0,0,36,0,342,0.0,LANGUAGE <LL@li.org>
+squirrelmail,18710,0,0,3291,0,0,19807,18710,100.0,Bengali <ankur-bd-l10n@googlegroups.com>
+system-config-date,0,0,503,0,0,56,0,503,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+supertuxkart,2416,0,3543,640,0,470,1964,5959,40.543715388487996,Karelian (http://www.transifex.com/supertuxkart/supertuxkart/language/krl/)
+widelands,79,0,91772,46,0,9312,74,91851,0.08600886217896375,Karelian (http://app.transifex.com/widelands/widelands/language/krl/)

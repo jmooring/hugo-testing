@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+byobu,14,0,163,8,0,36,12,177,7.909604519774012,Latin <la@li.org>
+deluge,17,0,1981,14,0,675,17,1998,0.8508508508508509,Latin <la@li.org>
+gedit,207,0,4735,17,0,1076,121,4942,4.188587616349656,Latin <la@li.org>
+gnome-panel,3,0,4579,3,0,626,3,4582,0.06547359231776517,Latin <gnome-latin-list@gnome.org>
+libgnomeprintui22,6,0,475,6,0,148,7,481,1.2474012474012475,Latin <la@li.org>
+libgnomeui,1,0,1308,1,0,333,3,1309,0.07639419404125286,Latin <la@li.org>
+libgtop2,24,0,102,5,0,35,15,126,19.047619047619047,Latin <la@li.org>
+metacity,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+warzone2100,9,62,9547,5,35,2336,8,9618,0.09357454772301933,Latin
+wesnoth,23074,20457,169105,2344,1037,9728,17730,212636,10.85140804003085,Latin
+yelp,13,0,1022,13,0,336,24,1035,1.2560386473429952,Latin <la@li.org>

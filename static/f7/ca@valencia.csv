@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+pidgin,14073,976,605,3003,212,121,16896,15654,89.90034495975469,Catalan <tradgnome@softcatala.net>
+wesnoth,14492,1334,103241,1244,53,5588,15405,119067,12.171298512602148,none

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,104206,0,0,32487,0,0,98709,104206,100.0,LANGUAGE <LL@li.org>
+python-django,3765,0,0,857,0,0,4069,3765,100.0,Lower Sorbian (http://www.transifex.com/django/django/language/dsb/)
+python2-django1.11,3613,0,0,819,0,0,3898,3613,100.0,Lower Sorbian (http://www.transifex.com/django/django/language/dsb/)

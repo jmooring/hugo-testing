@@ -1,0 +1,162 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,2339,0,997,540,0,184,2332,3336,70.11390887290167,"German, Low <nds@li.org>"
+akonadi-googledata,86,0,0,18,0,0,94,86,100.0,Low Saxon <kde-i18n-nds@kde.org>
+alacarte,42,0,0,16,0,0,33,42,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+anaconda,270,0,9176,148,0,1025,255,9446,2.8583527419013337,Low German <nds-lowgerman@lists.sourceforge.net>
+ario,591,0,189,231,0,48,625,780,75.76923076923077,"German, Low <nds@li.org>"
+at-spi,24,0,0,5,0,0,26,24,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+audex,868,188,2435,266,35,124,837,3491,24.8639358350043,Low Saxon <kde-i18n-doc@kde.org>
+audit-viewer,55,0,556,48,0,137,57,611,9.00163666121113,Low German <nds-lowgerman@lists.sourceforge.net>
+avant-window-navigator,5,2,1822,3,1,313,5,1829,0.2733734281027884,"German, Low <nds@li.org>"
+bluedevil,617,0,0,198,0,0,583,617,100.0,Low Saxon <kde-i18n-nds@kde.org>
+blueman,2,0,1374,2,0,350,6,1376,0.14534883720930233,"German, Low <nds@li.org>"
+brasero,1332,0,4070,466,0,518,1259,5402,24.65753424657534,Low German <nds-lowgerman@lists.sourceforge.net>
+calibre,8894,0,20755,1302,0,2004,8615,29649,29.997639043475328,German
+cheese,104,0,556,54,0,68,96,660,15.757575757575756,Low German <nds-lowgerman@lists.sourceforge.net>
+chkconfig,6,0,481,6,0,87,6,487,1.2320328542094456,Low German <nds-lowgerman@lists.sourceforge.net>
+choqok,1409,99,406,399,24,50,1380,1914,73.61546499477534,Low Saxon <kde-i18n-doc@kde.org>
+conduit,543,0,291,240,0,57,519,834,65.10791366906474,Low German <nds-lowgerman@lists.sourceforge.net>
+control-center,2019,0,2519,1145,0,390,1952,4538,44.490965182899956,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+digikam,17176,3061,3416,2728,345,224,15744,23653,72.61658140616413,Low Saxon <kde-i18n-doc@kde.org>
+drwright,14,3,174,5,1,23,17,191,7.329842931937172,Low German <nds-lowgerman@lists.sourceforge.net>
+eog,293,0,1220,143,0,160,274,1513,19.365499008592202,Low German <nds-lowgerman@lists.sourceforge.net>
+epiphany,1047,52,1954,468,15,257,987,3053,34.29413691451032,Low German <nds-lowgerman@lists.sourceforge.net>
+evince,621,38,603,242,6,76,626,1262,49.20760697305864,Low German <nds-lowgerman@lists.sourceforge.net>
+evolution,2292,7,19518,1477,3,3196,2173,21817,10.505569051656964,Low German <nds-lowgerman@lists.sourceforge.net>
+evolution-couchdb,9,0,0,5,0,0,9,9,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+f-spot,408,0,2916,252,0,573,388,3324,12.274368231046932,Low German <nds-lowgerman@lists.sourceforge.net>
+file-roller,352,0,966,146,0,145,339,1318,26.707132018209407,Low German <nds-lowgerman@lists.sourceforge.net>
+firstboot,120,0,470,28,0,24,110,590,20.33898305084746,Low German <nds-lowgerman@lists.sourceforge.net>
+fuse-encfs,391,4,920,55,1,83,394,1315,29.733840304182507,"German, Low <nds@li.org>"
+gdk-pixbuf2,257,0,1056,49,0,151,283,1313,19.573495811119574,"German, Low <nds-lowgerman@lists.sourceforge.net>"
+gdm,395,0,915,130,0,105,370,1310,30.15267175572519,Low German <nds-lowgerman@lists.sourceforge.net>
+gedit,438,0,4515,239,0,861,408,4953,8.84312537855845,Low German <nds-lowgerman@lists.sourceforge.net>
+gedit-plugins,41,48,1116,29,15,425,30,1205,3.4024896265560165,Low German <nds-lowgerman@lists.sourceforge.net>
+gimp,445,1104,10550,291,510,2031,409,12099,3.6779899165220264,Low German <nds-lowgerman@lists.sourceforge.net>
+glib2,224,119,3347,65,23,472,243,3690,6.070460704607046,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-backgrounds,23,0,0,17,0,0,22,23,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-desktop,816,2087,0,92,31,0,849,2903,28.108852910781952,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-desktop3,816,2087,0,92,31,0,849,2903,28.108852910781952,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-do,151,0,461,63,0,81,144,612,24.673202614379086,"German, Low <nds@li.org>"
+gnome-icon-theme,20,0,0,16,0,0,20,20,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-media,475,0,715,209,0,78,428,1190,39.91596638655462,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-menus,161,0,0,57,0,0,146,161,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-panel,738,0,3738,284,0,329,672,4476,16.487935656836463,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-screensaver,977,12,0,154,3,0,916,989,98.78665318503539,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-session,209,0,429,68,0,43,176,638,32.758620689655174,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-settings-daemon,123,0,1501,54,0,191,98,1624,7.573891625615764,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-system-monitor,97,0,836,56,0,188,89,933,10.39657020364416,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-terminal,1064,29,2835,233,8,211,1029,3928,27.08757637474542,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-themes,109,0,0,30,0,0,131,109,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-utils,340,0,3581,155,0,533,328,3921,8.671257332313186,Low German <nds-lowgerman@lists.sourceforge.net>
+gnome-video-effects,26,0,0,23,0,0,28,26,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+griffith,1840,10,4,448,4,2,1796,1854,99.24487594390507,"German, Low <nds@li.org>"
+gtg,0,0,1780,0,0,247,0,1780,0.0,"German, Low <nds@li.org>"
+gthumb,575,0,1904,361,0,462,536,2479,23.194836627672448,Low German <nds-lowgerman@lists.sourceforge.net>
+gtk-vnc,8,0,0,3,0,0,7,8,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+gtk2,2958,8239,2507,1238,1153,393,2778,13704,21.58493870402802,"German, Low <nds-lowgerman@lists.sourceforge.net>"
+gtk3,2467,7862,1524,1095,1133,259,2253,11853,20.81329621192947,"German, Low <nds-lowgerman@lists.sourceforge.net>"
+gtranslator,274,0,1348,154,0,235,263,1622,16.892725030826142,Low German <nds-lowgerman@lists.sourceforge.net>
+gvfs,594,0,1342,222,0,236,641,1936,30.681818181818183,Low German <nds-lowgerman@lists.sourceforge.net>
+homebank,1379,0,130,497,0,37,1277,1509,91.38502319416833,"German, Low <nds@li.org>"
+im-chooser,135,0,91,33,0,20,126,226,59.73451327433629,LANGUAGE <LL@li.org>
+imsettings,178,0,226,33,0,41,176,404,44.05940594059406,LANGUAGE <LL@li.org>
+initscripts,16,0,4333,12,0,1058,17,4349,0.36790066681995864,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+k3b,20429,0,0,2522,0,0,18622,20429,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kaffeine,496,47,47,221,29,7,423,590,84.06779661016948,Low Saxon <kde-i18n-nds@kde.org>
+kamoso,55,17,81,21,6,22,45,153,35.947712418300654,Low Saxon <kde-i18n-nds@kde.org>
+kaudiocreator,1128,8,0,272,1,0,1089,1136,99.29577464788733,Low Saxon <kde-i18n-nds@kde.org>
+kcoloredit,274,4,0,93,2,0,257,278,98.56115107913669,Low Saxon <kde-i18n-doc@kde.org>
+kde-l10n,1819,0,0,284,0,0,1772,1819,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kde-partitionmanager,2732,0,0,453,0,0,2804,2732,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kde-plasma-networkmanagement,3557,19,39,1019,5,10,3182,3615,98.39557399723374,Low Saxon <kde-i18n-nds@kde.org>
+kdevelop,3546,0,0,668,0,0,3452,3546,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kdevelop-php,359,0,0,59,0,0,355,359,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kdevplatform,7249,0,0,1569,0,0,6971,7249,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kdiff3,3580,33,157,649,5,9,3550,3770,94.9602122015915,Low Saxon <kde-i18n-nds@kde.org>
+kgrab,370,0,0,53,0,0,348,370,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kiconedit,726,0,0,155,0,0,685,726,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kile,11139,0,26,1901,0,2,10530,11165,99.76712942230184,Low Saxon <kde-i18n-nds@kde.org>
+kio_gopher,17,0,0,5,0,0,18,17,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kio_sysinfo,168,0,0,72,0,0,155,168,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kipi-plugins,14701,187,1189,2930,39,112,14140,16077,91.44118927660632,Low Saxon <kde-i18n-nds@kde.org>
+kmldonkey,1830,0,0,436,0,0,1776,1830,100.0,Low Saxon <kde-i18n-doc@kde.org>
+kmplayer,1246,2,0,369,1,0,1146,1248,99.83974358974359,Low Saxon <kde-i18n-nds@kde.org>
+kmymoney,4976,426,13677,1653,170,1337,4671,19079,26.08103150060276,Low Saxon <kde-i18n-nds@kde.org>
+knemo,582,124,480,275,19,53,522,1186,49.0725126475548,Low Saxon <kde-i18n-nds@kde.org>
+knights,613,0,0,182,0,0,544,613,100.0,Low Saxon <kde-i18n-nds@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,7616,8417,100.0,Low Saxon <kde-i18n-nds@kde.org>
+konq-plugins,1692,0,0,546,0,0,1607,1692,100.0,Low Saxon <kde-i18n-nds@kde.org>
+konversation,10622,0,0,1636,0,0,9624,10622,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kopete-cryptography,408,0,0,41,0,0,410,408,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kpackagekit,1988,1192,466,391,226,56,1868,3646,54.52550740537575,Low Saxon <kde-i18n-nds@kde.org>
+kphotoalbum,5755,574,4,739,22,2,5333,6333,90.87320385283437,Low Saxon <kde-i18n-nds@kde.org>
+kpilot,7156,0,0,861,0,0,6817,7156,100.0,Low Saxon <kde-i18n-nds@kde.org>
+krusader,7679,37,35,1681,11,5,7607,7751,99.0710876015998,Low Saxon <kde-i18n-nds@kde.org>
+ksig,85,0,0,26,0,0,75,85,100.0,Low Saxon <kde-i18n-nds@kde.org>
+kst,423,6441,582,100,1501,211,451,7446,5.680902497985495,Low Saxon <kde-i18n-nds@kde.org>
+ktorrent,7950,0,0,1343,0,0,7489,7950,100.0,Low Saxon <kde-i18n-nds@kde.org>
+libgnome,267,0,1505,97,0,176,220,1772,15.067720090293454,Low German <nds-lowgerman@lists.sourceforge.net>
+libgnome-keyring,44,0,0,9,0,0,46,44,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+libgnome-media-profiles,84,0,376,26,0,25,80,460,18.26086956521739,Low German <nds-lowgerman@lists.sourceforge.net>
+libgnomeprint22,168,0,0,98,0,0,178,168,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+libgnomeprintui22,288,0,193,132,0,22,252,481,59.87525987525988,Low German <nds-lowgerman@lists.sourceforge.net>
+libgnomeui,482,0,744,214,0,106,449,1226,39.31484502446982,Low German <nds-lowgerman@lists.sourceforge.net>
+libgweather,11173,0,0,8674,0,0,10943,11173,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+libktorrent,507,0,0,113,0,0,573,507,100.0,Low Saxon <kde-i18n-nds@kde.org>
+libpeas,24,0,0,11,0,0,21,24,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+libuser,27,0,1107,15,0,222,27,1134,2.380952380952381,Low German <nds-lowgerman@lists.sourceforge.net>
+liveusb-creator,480,0,0,52,0,0,452,480,100.0,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+manaworld,136,121,2959,61,36,725,127,3216,4.228855721393035,"German, Low <nds@li.org>"
+metacity,235,0,3555,85,0,318,223,3790,6.200527704485488,Low German <nds-lowgerman@lists.sourceforge.net>
+mingw-gtk3,2467,7862,1524,1095,1133,259,2253,11853,20.81329621192947,"German, Low <nds-lowgerman@lists.sourceforge.net>"
+mingw32-gdk-pixbuf,257,0,1056,49,0,151,283,1313,19.573495811119574,"German, Low <nds-lowgerman@lists.sourceforge.net>"
+mingw32-glib2,224,119,3347,65,23,472,243,3690,6.070460704607046,Low German <nds-lowgerman@lists.sourceforge.net>
+mingw32-gtk2,2958,8239,2507,1238,1153,393,2778,13704,21.58493870402802,"German, Low <nds-lowgerman@lists.sourceforge.net>"
+mlocate,10,0,553,3,0,47,10,563,1.7761989342806392,Low German <nds-lowgerman@lists.sourceforge.net>
+mutter,348,0,2089,116,0,244,365,2437,14.279852277390233,Low German <nds-lowgerman@lists.sourceforge.net>
+mutter-mbl,348,0,2089,116,0,244,365,2437,14.279852277390233,Low German <nds-lowgerman@lists.sourceforge.net>
+nautilus,2511,0,6170,813,0,588,2359,8681,28.92523902776178,Low German <nds-lowgerman@lists.sourceforge.net>
+nautilus-sendto,152,0,158,43,0,22,156,310,49.03225806451613,Low German <nds-lowgerman@lists.sourceforge.net>
+pessulus,130,0,0,33,0,0,124,130,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+picard,134,0,2236,102,0,995,125,2370,5.654008438818566,"German, Low <nds@li.org>"
+pidgin-musictracker,181,0,152,52,0,8,176,333,54.35435435435435,"German, Low <nds@li.org>"
+pitivi,207,0,1106,104,0,193,201,1313,15.765422696115767,Low German <nds-lowgerman@lists.sourceforge.net>
+planner,459,0,1354,265,0,265,416,1813,25.31715388858246,Low German <nds-lowgerman@lists.sourceforge.net>
+pmount,352,0,371,25,0,38,331,723,48.686030428769016,"German, Low <nds@li.org>"
+polkit-kde,92,0,0,26,0,0,94,92,100.0,Low Saxon <kde-i18n-doc@kde.org>
+preupgrade,43,0,758,21,0,101,47,801,5.368289637952559,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+pykickstart,38,0,300,5,0,30,37,338,11.242603550295858,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+python-meh,10,0,259,8,0,25,8,269,3.717472118959108,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+rednotebook,5,0,1112,4,0,238,9,1117,0.4476275738585497,Low German <nds@li.org>
+rekonq,1422,70,125,345,22,23,1280,1617,87.94063079777365,Low Saxon <kde-i18n-doc@kde.org>
+rhythmbox,234,7,4404,169,3,919,242,4645,5.03767491926803,Low German <nds-lowgerman@lists.sourceforge.net>
+rsibreak,1304,0,0,163,0,0,1319,1304,100.0,Low Saxon <kde-i18n-nds@kde.org>
+sabayon,197,8,531,87,3,76,174,736,26.766304347826086,Low German <nds-lowgerman@lists.sourceforge.net>
+skanlite,173,0,0,56,0,0,156,173,100.0,Low Saxon <kde-i18n-doc@kde.org>
+skrooge,3099,1832,1430,925,431,176,3043,6361,48.71875491274957,Low Saxon <kde-i18n-doc@kde.org>
+smb4k,746,338,5278,323,54,298,657,6362,11.725872367180132,Low Saxon <kde-i18n-nds@kde.org>
+smolt,60,0,1114,46,0,166,56,1174,5.110732538330494,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+sssd,0,0,10534,0,0,1051,0,10534,0.0,Low German <nds-lowgerman@lists.sourceforge.net>
+synapse,313,0,268,95,0,70,337,581,53.87263339070568,Low German <nds@li.org>
+system-config-audit,45,0,1196,38,0,229,49,1241,3.62610797743755,Low German <nds-lowgerman@lists.sourceforge.net>
+system-config-date,1344,0,456,773,0,42,1328,1800,74.66666666666667,Low German <nds-lowgerman@lists.sourceforge.net>
+system-config-firewall,170,0,2644,105,0,226,171,2814,6.041222459132907,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+system-config-language,102,0,221,38,0,18,110,323,31.57894736842105,
+system-config-lvm,40,0,2206,39,0,305,39,2246,1.7809439002671414,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+system-config-printer,135,61,2861,99,33,610,133,3057,4.416094210009813,Low German <nds-lowgerman@lists.sourceforge.net>
+system-config-samba,47,0,524,41,0,93,47,571,8.231173380035026,Low German <nds-lowgerman@lists.sourceforge.net>
+system-config-services,66,0,452,35,0,36,65,518,12.741312741312742,Fedora Low German <nds-lowgerman@lists.sourceforge.net>
+system-config-users,96,0,1360,51,0,123,81,1456,6.593406593406594,Low German <nds-lowgerman@lists.sourceforge.net>
+tasque,245,0,0,101,0,0,259,245,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+tellico,5732,0,0,1201,0,0,5015,5732,100.0,Low Saxon <kde-i18n-nds@kde.org>
+totem-pl-parser,28,0,0,7,0,0,30,28,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+tracker,368,0,1379,165,0,199,352,1747,21.064682312535776,Low German <nds-lowgerman@lists.sourceforge.net>
+usermode,74,0,492,34,0,61,71,566,13.074204946996467,Low German <nds-lowgerman@lists.sourceforge.net>
+vte,84,0,0,14,0,0,99,84,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+vte3,84,0,0,14,0,0,99,84,100.0,Low German <nds-lowgerman@lists.sourceforge.net>
+wicd-kde,250,9,94,97,5,20,218,353,70.82152974504248,Low Saxon <kde-i18n-nds@kde.org>
+xdg-user-dirs,26,2,0,26,2,0,26,28,92.85714285714286,Low German <nds-lowgerman@lists.sourceforge.net>
+yakuake,1439,0,0,212,0,0,1368,1439,100.0,Low Saxon <kde-i18n-doc@kde.org>
+yelp,316,0,0,160,0,0,294,316,100.0,Low Saxon NFE (Northern Frisian Enclave) <kenneth@gnu.org>
+zanshin,77,49,196,43,20,21,72,322,23.91304347826087,Low Saxon <kde-i18n-nds@kde.org>

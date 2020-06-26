@@ -1,0 +1,77 @@
+---
+title: "gnome-online-accounts-gtk - translation progress for f41"
+package: gnome-online-accounts-gtk
+date: 2026-01-20T01:28:59+00:00
+started_languages: 39
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 39
+release: f41
+---
+The package gnome-online-accounts-gtk (version 3.50.3):
+
+* represents 36 source words to be translated
+* is translated into 39 languages in Fedora f41
+
+
+* contains 39 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [be]({{< ref "/f41/language/be.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/be.po | 
+ | [ca]({{< ref "/f41/language/ca.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/ca.po | 
+ | [cs]({{< ref "/f41/language/cs.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/cs.po | 
+ | [cy]({{< ref "/f41/language/cy.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/cy.po | 
+ | [da]({{< ref "/f41/language/da.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/da.po | 
+ | [de]({{< ref "/f41/language/de.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/de.po | 
+ | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/en_GB.po | 
+ | [es]({{< ref "/f41/language/es.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/es.po | 
+ | [eu]({{< ref "/f41/language/eu.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/eu.po | 
+ | [fa]({{< ref "/f41/language/fa.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/fa.po | 
+ | [fi]({{< ref "/f41/language/fi.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/fi.po | 
+ | [fr]({{< ref "/f41/language/fr.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/fr.po | 
+ | [fr_CA]({{< ref "/f41/language/fr_CA.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/fr_CA.po | 
+ | [he]({{< ref "/f41/language/he.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/he.po | 
+ | [ia]({{< ref "/f41/language/ia.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/ia.po | 
+ | [is]({{< ref "/f41/language/is.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/is.po | 
+ | [it]({{< ref "/f41/language/it.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/it.po | 
+ | [ja]({{< ref "/f41/language/ja.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/ja.po | 
+ | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/nb.po | 
+ | [nl]({{< ref "/f41/language/nl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/nl.po | 
+ | [oc]({{< ref "/f41/language/oc.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/oc.po | 
+ | [pl]({{< ref "/f41/language/pl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/pl.po | 
+ | [pt]({{< ref "/f41/language/pt.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/pt.po | 
+ | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/pt_BR.po | 
+ | [ru]({{< ref "/f41/language/ru.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/ru.po | 
+ | [sk]({{< ref "/f41/language/sk.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/sk.po | 
+ | [sl]({{< ref "/f41/language/sl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/sl.po | 
+ | [sv]({{< ref "/f41/language/sv.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/sv.po | 
+ | [tr]({{< ref "/f41/language/tr.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/tr.po | 
+ | [uk]({{< ref "/f41/language/uk.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/uk.po | 
+ | [uz]({{< ref "/f41/language/uz.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/uz.po | 
+ | [vi]({{< ref "/f41/language/vi.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/vi.po | 
+ | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/zh_TW.po | 
+ | [et]({{< ref "/f41/language/et.md" >}}) | 27 | 36 | 75.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/et.po | 
+ | [hu]({{< ref "/f41/language/hu.md" >}}) | 26 | 36 | 72.2 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/hu.po | 
+ | [mnw]({{< ref "/f41/language/mnw.md" >}}) | 16 | 36 | 44.4 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/mnw.po | 
+ | [id]({{< ref "/f41/language/id.md" >}}) | 3 | 36 | 8.3 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/id.po | 
+ | [ko]({{< ref "/f41/language/ko.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/ko.po | 
+ | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f41/gnome-online-accounts-gtk/po/zh_CN.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

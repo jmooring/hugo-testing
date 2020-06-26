@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <div role="main" class="container">
+    <div class="row">
+      <div class="splitbox">
+        <div class="left">
+          {{ with .Content }}
+          <div class="well">
+              {{.}}
+            </div>
+          {{ end }}
+          <ul class="">
+            {{ range .Site.Sections }}
+              <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="right">
+          <div id="vmap" style="width: 600px; height: 400px;"></div>
+        </div>
+        <div style="clear:both"></div>
+      </div>
+    </div>
+  </div>
+{{ end }}

@@ -1,0 +1,35 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,43,42,100.0,Ido <gnome-ido@lists.mterry.name>
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+deja-dup,29,0,2074,19,0,318,31,2103,1.378982406086543,Ido <io@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+duplicity,68,0,4286,56,0,560,72,4354,1.5617822691777674,Ido
+gdk-pixbuf2,299,117,932,57,25,120,276,1348,22.181008902077153,Ido <gnome-ido@lists.mterry.name>
+gnome-menus,86,0,79,44,0,14,90,165,52.121212121212125,Ido <gnome-ido@lists.mterry.name>
+gtk2,1168,467,12069,348,247,2189,1106,13704,8.523058960887333,Ido <gnome-ido@lists.mterry.name>
+gtk3,782,378,10693,248,229,2010,739,11853,6.5974858685564834,Ido <gnome-ido@lists.mterry.name>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+isomaster,8,0,666,8,0,99,8,674,1.1869436201780417,http://littlesvr.ca/ostd/
+lxmenu-data,52,0,45,29,0,8,55,97,53.608247422680414,Ido <gnome-ido@lists.mterry.name>
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,299,117,932,57,25,120,276,1348,22.181008902077153,Ido <gnome-ido@lists.mterry.name>
+mingw-gtk2,1168,467,12069,348,247,2189,1106,13704,8.523058960887333,Ido <gnome-ido@lists.mterry.name>
+mingw-gtk3,782,378,10693,248,229,2010,739,11853,6.5974858685564834,Ido <gnome-ido@lists.mterry.name>
+nautilus,1283,44,6127,451,14,766,1212,7454,17.212235041588407,Ido <gnome-ido@lists.mterry.name>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,137,0,2539,29,0,494,144,2676,5.119581464872945,LANGUAGE <LL@li.org>
+pantheon-photos,441,0,3673,141,0,732,465,4114,10.719494409333981,LANGUAGE <LL@li.org>
+python-django,1433,0,1948,407,0,352,1378,3381,42.383910085773444,Ido (http://www.transifex.com/django/django/language/io/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Ido (http://www.transifex.com/projects/p/django-formtools/language/io/)
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+vocal,0,0,377,0,0,79,0,377,0.0,Ido <io@li.org>

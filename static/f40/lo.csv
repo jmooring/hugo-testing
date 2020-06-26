@@ -1,0 +1,72 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abattis-cantarell-fonts,27,0,0,3,0,0,16,27,100.0,
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+budgie-control-center,0,0,1313,0,0,756,0,1313,0.0,none
+calamares,0,0,478,0,0,83,0,478,0.0,Lao (https://app.transifex.com/calamares/teams/20061/lo/)
+cheese,628,0,0,130,0,0,188,628,100.0,Saikeo (kavhanxay@hotmail.com)
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,none
+cinnamon-desktop,207,1,26,22,1,9,114,234,88.46153846153845,Lao <lo@li.org>
+cinnamon-translations,2659,0,17069,844,0,3709,1302,19728,13.478304947283048,Lao <lo@li.org>
+clamtk,46,0,418,32,0,108,32,464,9.913793103448276,Lao <lo@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,944,31,10,169,5,6,288,985,95.83756345177665,Lao <lo@li.org>
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+elementary-code,0,0,1572,0,0,294,0,1572,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2538,0,0,551,0,2538,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,349,0,0,63,0,349,0.0,none
+elementary-mail,0,0,861,0,0,207,0,861,0.0,
+elementary-music,0,0,207,0,0,41,0,207,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,40,0,0,8,0,40,0.0,none
+filezilla,7101,0,0,1336,0,0,2224,7101,100.0,
+gala,0,0,281,0,0,60,0,281,0.0,none
+gnome-control-center,0,0,1313,0,0,756,0,1313,0.0,none
+gnome-desktop3,160,0,0,35,0,0,111,160,100.0,Lao <lo@li.org>
+gnome-menus,70,0,0,27,0,0,41,70,100.0,Lao <lo@li.org>
+gnome-sudoku,408,0,0,70,0,0,163,408,100.0,
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,369,0,0,86,0,369,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+imsettings,0,0,500,0,0,92,0,500,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Lao (http://www.transifex.com/projects/p/initial-setup/language/lo/)
+iso-codes,95,11,883,78,3,344,79,989,9.605662285136502,Lao <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/lo/>
+koffice-kivio,2000,1806,4611,597,778,986,1091,8417,23.761435190685518,Vilaphone Manivanh <en@li.org>
+libfilezilla,125,0,0,25,0,0,35,125,100.0,
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Lao (http://www.transifex.com/mate/MATE/language/lo/)
+libreoffice,44782,9363,705948,14850,4545,74982,20187,760093,5.891647469454396,Lao <https://translations.documentfoundation.org/projects/libo_ui-24-2/accessibilitymessages/lo/>
+libuser,0,0,1140,0,0,238,0,1140,0.0,LANGUAGE <LL@li.org>
+lightdm,0,0,84,0,0,4,0,84,0.0,Lao <lo@li.org>
+maliit-keyboard,12,4,65,10,2,49,11,81,14.814814814814813,Lao <lo@li.org>
+mate-control-center,24,2,3312,14,1,1155,14,3338,0.7189934092270821,Lao (https://www.transifex.com/mate/teams/13566/lo/)
+mate-desktop,165,0,2247,26,0,269,99,2412,6.8407960199004965,Lao (https://app.transifex.com/mate/teams/13566/lo/)
+mate-menu,6,0,302,5,0,105,6,308,1.948051948051948,Lao (http://www.transifex.com/mate/MATE/language/lo/)
+mate-session-manager,8,0,709,3,0,130,4,717,1.1157601115760112,Lao (https://app.transifex.com/mate/teams/13566/lo/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Lao (http://app.transifex.com/mate/MATE/language/lo/)
+mousetweaks,114,0,0,30,0,0,48,114,100.0,
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+polari,867,0,0,199,0,0,416,867,100.0,
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Lao (http://www.transifex.com/projects/p/fedora/language/lo/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-meh,0,0,109,0,0,23,0,109,0.0,Lao (http://www.transifex.com/projects/p/python-meh/language/lo/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+slick-greeter,0,0,216,0,0,49,0,216,0.0,Lao <lo@li.org>
+snapper,0,77,1015,0,17,235,0,1092,0.0,Lao <i18n@suse.de>
+sos,0,0,123,0,0,30,0,123,0.0,none
+sugar-toolkit-gtk3,53,9,151,50,7,66,52,213,24.88262910798122,LANGUAGE <LL@li.org>
+switchdesk,0,0,122,0,0,19,0,122,0.0,none
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-switch-mail,0,0,101,0,0,17,0,101,0.0,none
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+vlc,845,11,33923,276,4,6005,489,34779,2.429627073808908,Lao (https://app.transifex.com/yaron/teams/16553/lo/)
+wingpanel,0,0,57,0,0,10,0,57,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,0,0,80,0,0,30,0,80,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,103,0,0,25,0,103,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,56,0,0,17,0,56,0.0,LANGUAGE <LL@li.org>

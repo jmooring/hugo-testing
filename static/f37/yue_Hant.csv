@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+minetest,0,0,9523,0,0,1355,0,9523,0.0,none
+python-sphinx,0,0,4944,0,0,755,0,4944,0.0,Cantonese (http://www.transifex.com/sphinx-doc/sphinx-1/language/yue/)

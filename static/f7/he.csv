@@ -1,0 +1,219 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Democracy,552,82,2468,185,14,369,533,3102,17.79497098646035,Hebrew <he@li.org>
+Django,1891,0,0,432,0,0,1646,1891,100.0,Hebrew
+GConf2,4017,0,0,479,0,0,4017,4017,100.0,he
+Miro,3148,0,468,593,0,56,2820,3616,87.0575221238938,Hebrew <he@li.org>
+Terminal,1385,37,28,247,3,2,1331,1450,95.51724137931035,Hebrew
+Thunar,2680,206,916,569,31,73,2415,3802,70.48921620199894,Hebrew <xfce-i18n@xfce.org>
+amarok,11133,1116,1006,2225,195,89,10491,13255,83.99094681252357,Hebrew <kde-il@yahoogroups.com>
+anaconda,427,207,9478,166,61,1011,411,10112,4.2227056962025316,none
+apcupsd,0,0,647,0,0,103,0,647,0.0,LANGUAGE <LL@li.org>
+apollon,717,54,793,155,26,78,663,1564,45.84398976982097,<en@li.org>
+at-spi,15,0,0,4,0,0,16,15,100.0,Hebrew <he@li.org>
+atk,370,0,0,123,0,0,370,370,100.0,Hebrew <he@li.org>
+atomix,125,0,0,44,0,0,130,125,100.0,Hebrew <he@li.org>
+authconfig,0,0,1098,0,0,217,0,1098,0.0,none
+autorun,54,4,249,18,1,21,53,307,17.58957654723127,none
+balsa,3311,1325,712,836,339,112,3330,5348,61.910994764397905,Hebrew <he@li.org>
+beagle,232,0,385,84,0,63,209,617,37.60129659643436,Hebrew <he@li.org>
+bittorrent,2707,25,1172,503,5,125,2573,3904,69.33913934426229,Ben's Project <senseBOP@gmail.com>
+blam,64,0,3,25,0,1,59,67,95.52238805970148,Hebrew <he@li.org>
+bug-buddy,949,0,0,88,0,0,753,949,100.0,Hebrew <he@li.org>
+childsplay,688,77,261,100,10,27,540,1026,67.05653021442495,
+chkconfig,0,0,430,0,0,88,0,430,0.0,none
+claws-mail,3433,106,11148,1348,20,1760,3406,14687,23.37441274596582,S.D.O.C. LTD <sdocdb@gmail.com>
+control-center,2836,165,731,736,28,68,2701,3732,75.9914255091104,Hebrew <he@li.org>
+d3lphin,338,44,63,134,16,23,319,445,75.95505617977528,Hebrew <he@li.org>
+dasher,323,87,94,143,18,29,310,504,64.0873015873016,Hebrew <he@li.org>
+deluge,2223,17,112,521,2,7,2023,2352,94.51530612244898,Hebrew <he@li.org>
+deskbar-applet,734,0,0,175,0,0,677,734,100.0,Hebrew <he@li.org>
+devhelp,21,7,181,9,4,38,18,209,10.047846889952153,Hebrew <he@li.org>
+diffutils,1342,0,0,180,0,0,1341,1342,100.0,Hebrew <eliz@gnu.org>
+digikam,942,5239,9756,315,861,888,916,15937,5.910773671330865,<en@li.org>
+digikamimageplugins,923,556,1101,201,81,83,837,2580,35.775193798449614,Hebrew <en@li.org>
+dolphin,338,44,63,134,16,23,319,445,75.95505617977528,Hebrew <he@li.org>
+eel2,235,0,0,52,0,0,200,235,100.0,Hebrew <he@li.org>
+ekiga,3731,1082,355,627,105,43,3343,5168,72.19427244582043,Hebrew
+eog,871,0,0,215,0,0,844,871,100.0,Hebrew <he@li.org>
+epiphany,3892,24,42,862,1,11,3531,3958,98.33249115715007,Hebrew <he@li.org>
+evince,986,0,0,286,0,0,942,986,100.0,Hebrew <he@li.org>
+evolution,2213,1374,13615,1025,519,2736,2187,17202,12.864783164748287,Hebrew <he@li.org>
+evolution-data-server,342,309,4303,154,102,769,362,4954,6.903512313282197,Hebrew <he@li.org>
+exaile,2092,6,482,592,2,89,2040,2580,81.08527131782945,Hebrew <nahumoz@gmail.com>
+exo,1223,14,239,255,4,29,1092,1476,82.85907859078591,Hebrew
+fast-user-switch-applet,842,0,0,99,0,0,762,842,100.0,he
+file-roller,938,0,0,241,0,0,837,938,100.0,Hebrew <he@li.org>
+firstboot,296,204,98,44,12,3,237,598,49.49832775919732,none
+fslint,309,0,55,115,0,11,338,364,84.89010989010988,Hebrew <he@li.org>
+fuse-encfs,1268,6,36,122,1,6,1167,1310,96.79389312977099,Hebrew <he@li.org>
+gail,170,0,0,103,0,0,170,170,100.0,he
+gallery2,5135,1478,4884,1155,210,532,4555,11497,44.66382534574237,Hebrew <guysoft@ort.org.il>
+gawk,2026,284,133,329,39,18,1992,2443,82.93082275890299,Hebrew <eliz@gnu.org>
+gcalctool,350,361,204,165,145,68,338,915,38.25136612021858,Hebrew <he@li.org>
+gcompris,3122,8,387,518,2,19,2580,3517,88.76883707705431,Hebrew <he@li.org>
+gconf-editor,329,0,0,98,0,0,315,329,100.0,Hebrew <he@li.org>
+gdeskcal,74,0,0,32,0,0,71,74,100.0,Hebrew <he@li.org>
+gdesklets,126,0,0,17,0,0,109,126,100.0,Hebrew <he@li.org>
+gdm,2134,894,2447,440,81,257,2023,5475,38.97716894977169,Hebrew <he@li.org>
+gdmap,86,9,27,38,4,8,91,122,70.49180327868852,Hebrew <LL@li.org>
+gedit,2429,1322,1312,490,230,382,2371,5063,47.975508591744024,Hebrew <he@li.org>
+gedit-plugins,2471,0,1064,544,0,110,2096,3535,69.9009900990099,Hebrew <he@li.org>
+gimp,2519,5531,14700,995,1865,3312,2553,22750,11.072527472527472,Hebrew <he@li.org>
+glib2,1213,0,0,145,0,0,1211,1213,100.0,Hebrew <he@li.org>
+gnome-applets,3423,12,333,840,9,97,3200,3768,90.843949044586,Hebrew <he@li.org>
+gnome-backgrounds,18,0,0,9,0,0,14,18,100.0,Hebrew <he@li.org>
+gnome-build,418,0,4,125,0,2,396,422,99.0521327014218,he
+gnome-desktop,330,0,0,76,0,0,321,330,100.0,Hebrew <he@li.org>
+gnome-doc-utils,35,29,149,22,8,50,35,213,16.431924882629108,Hebrew <he@li.org>
+gnome-games,2589,1191,3286,740,395,563,2195,7066,36.640249080101896,Hebrew <he@li.org>
+gnome-icon-theme,52,0,0,46,0,0,73,52,100.0,Hebrew <he@li.org>
+gnome-mag,5,0,0,2,0,0,7,5,100.0,Hebrew <he@li.org>
+gnome-media,1701,50,172,496,8,22,1637,1923,88.45553822152887,Hebrew <he@li.org>
+gnome-menus,163,0,0,59,0,0,158,163,100.0,<he@li.org>
+gnome-mime-data,887,0,0,362,0,0,953,887,100.0,Hebrew <he@li.org>
+gnome-netstatus,70,0,353,48,0,62,76,423,16.548463356973993,Hebrew <he@li.org>
+gnome-nettool,521,0,19,182,0,2,524,540,96.48148148148148,Hebrew <he@li.org>
+gnome-panel,4090,0,0,548,0,0,3435,4090,100.0,Hebrew <he@li.org>
+gnome-pilot,1110,113,350,273,9,52,1131,1573,70.56579783852511,Hebrew <he@li.org>
+gnome-pilot-conduits,67,19,123,22,9,19,76,209,32.057416267942585,Hebrew <he@li.org>
+gnome-power-manager,1955,154,628,207,41,122,1898,2737,71.42857142857143,he <he@li.org>
+gnome-screensaver,804,0,140,127,0,26,791,944,85.16949152542372,he
+gnome-session,598,8,205,106,1,8,559,811,73.73612823674476,
+gnome-spell,58,16,13,40,9,12,58,87,66.66666666666666,Hebrew <he@li.org>
+gnome-system-monitor,916,0,0,235,0,0,884,916,100.0,Hebrew <he@li.org>
+gnome-terminal,4597,0,2,511,0,2,4499,4599,99.9565122852794,Hebrew <he@li.org>
+gnome-themes,85,0,0,26,0,0,86,85,100.0,Hebrew <he@li.org>
+gnome-utils,1707,231,678,382,32,58,1558,2616,65.25229357798165,Hebrew <he@li.org>
+gnome-vfs2,1506,0,0,300,0,0,1478,1506,100.0,Hebrew <he@li.org>
+gnome-volume-manager,1009,59,56,172,6,5,824,1124,89.76868327402136,
+gnomebaker,145,342,692,56,74,160,144,1179,12.298558100084819,Hebrew <he@li.org>
+gnomeradio,443,0,0,100,0,0,416,443,100.0,Hebrew <he@li.org>
+gnumeric,1198,945,43595,594,458,3108,1175,45738,2.619266255629892,Hebrew <he@li.org>
+goffice,172,266,2591,120,177,861,175,3029,5.678441729943875,Hebrew <he@li.org>
+goffice04,134,351,3505,82,230,1053,137,3990,3.3583959899749374,Hebrew <he@li.org>
+gourmet,733,0,2793,217,0,574,621,3526,20.788428814520703,Hebrew <he@li.org>
+gparted,775,0,0,157,0,0,740,775,100.0,Hebrew <he@li.org>
+grisbi,5938,0,11,1470,0,9,5650,5949,99.8150949739452,<en@li.org>
+gtk2,11361,10,231,2219,3,83,11073,11602,97.92277193587312,Hebrew <he@li.org>
+gtkhtml3,684,75,153,329,28,48,674,912,75.0,Hebrew <he@li.org>
+gtkhtml38,684,75,153,329,28,48,674,912,75.0,Hebrew <he@li.org>
+gtkpod,7302,0,113,1092,0,1,6825,7415,98.47606203641269,HEBREW <kde-il@yahoogroups.com>
+gtksourceview,348,191,186,134,74,86,311,725,48.0,Hebrew <he@li.org>
+gwenview,201,268,852,61,99,160,189,1321,15.215745647236941,<en@li.org>
+homebank,1071,10,8,379,3,1,971,1089,98.34710743801654,Hebrew <he@li.org>
+im-chooser,0,0,125,0,0,15,0,125,0.0,none
+initscripts,0,0,3497,0,0,785,0,3497,0.0,none
+iso-codes,1050,3328,12995,508,3088,8756,964,17373,6.043861163874978,Hebrew <debian-hebrew-common@lists.alioth.debian.org>
+isomaster,472,200,0,102,4,0,441,672,70.23809523809523,Fima Kachinski <xrayon@gmail.com>
+k3b,10793,2396,7441,1834,375,323,10517,20630,52.31701405719825,HEBREW <kde-il@yahoogroups.com>
+kaffeine,2340,7,7,654,1,3,2456,2354,99.4052676295667,HEBREW <kde-il@yahoogroups.com>
+kdetv,2204,0,2,482,0,1,2260,2206,99.909338168631,HEBREW <kde-il@yahoogroups.com>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kmplayer,1159,90,2,378,9,1,1227,1251,92.6458832933653,hebrew <kde-il@yahoogroups.com>
+konversation,4706,91,3817,1065,3,211,4487,8614,54.63199442767588,Hebrew <kde-il@yahoogroups.com>
+kudzu,0,0,73,0,0,13,0,73,0.0,none
+leafpad,121,0,2,66,0,1,133,123,98.3739837398374,Hebrew
+libbonobo,547,0,0,108,0,0,547,547,100.0,Hebrew <he@li.org>
+libbonoboui,361,0,0,114,0,0,348,361,100.0,Hebrew <he@li.org>
+libgnome,1528,0,0,238,0,0,1528,1528,100.0,<en@li.org>
+libgnomecanvas,357,0,0,94,0,0,321,357,100.0,Hebrew <he@li.org>
+libgnomeprint22,168,0,0,98,0,0,168,168,100.0,Hebrew <he@li.org>
+libgnomeprintui22,472,0,0,151,0,0,410,472,100.0,Hebrew <he@li.org>
+libgnomeui,1328,0,0,331,0,0,1170,1328,100.0,Hebrew <he@li.org>
+libgpod,205,211,426,29,23,71,204,842,24.346793349168646,HEBREW <kde-il@yahoogroups.com>
+libgtop2,134,0,0,44,0,0,134,134,100.0,
+libvirt,1290,678,369,308,133,76,1290,2337,55.198973042362,none
+libwnck,87,0,0,32,0,0,93,87,100.0,Hebrew <he@li.org>
+libxfce4util,413,0,0,4,0,0,413,413,100.0,Hebrew
+libxfcegui4,81,0,0,25,0,0,66,81,100.0,Hebrew
+logjam,1920,103,146,495,7,25,1770,2169,88.52005532503458,<none>
+lyx,7564,52,2227,2758,19,827,7523,9843,76.8464898912933,Hebrew <en@li.org>
+make,1355,381,261,296,58,40,1355,1997,67.85177766649974,Hebrew <eliz@gnu.org>
+metacity,0,0,0,0,0,0,0,0,0.0,
+moin,1775,330,546,355,56,61,1477,2651,66.95586571105243,
+mousepad,133,2,0,63,1,0,133,135,98.51851851851852,Hebrew
+nautilus,6864,11,0,1143,2,0,5961,6875,99.83999999999999,Hebrew <he@li.org>
+nautilus-actions,72,0,1418,37,0,108,62,1490,4.832214765100671,he
+nautilus-cd-burner,1306,0,0,210,0,0,1003,1306,100.0,Hebrew <he@li.org>
+nautilus-open-terminal,24,0,0,5,0,0,16,24,100.0,Hebrew <he@li.org>
+nautilus-sendto,51,0,5,18,0,2,48,56,91.07142857142857,Hebrew <he@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,
+ntfs-config,0,0,455,0,0,67,0,455,0.0,Hebrew <he@li.org>
+orage,748,12,104,512,9,18,873,864,86.57407407407408,Hebrew
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pcmanfm,619,24,557,209,9,90,594,1200,51.583333333333336,
+pessulus,88,0,0,30,0,0,96,88,100.0,Hebrew <he@li.org>
+pidgin,16279,0,0,3452,0,0,15146,16279,100.0,Hebrew <he@li.org>
+pidgin-guifications,223,98,184,102,32,58,210,505,44.15841584158416,Hebrew  <he@li.org>
+pmount,113,41,569,18,7,38,107,723,15.629322268326417,Hebrew <he@li.org>
+po4a,12,3,1598,3,1,159,10,1613,0.7439553626782394,Hebrew <he@li.org>
+poedit,1108,41,5,260,11,1,1024,1154,96.01386481802426,
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pychess,12,0,1659,8,0,337,12,1671,0.718132854578097,Hebrew <he@li.org>
+pykickstart,0,0,240,0,0,22,0,240,0.0,LANGUAGE <LL@li.org>
+python-gpod,222,191,410,31,21,69,221,823,26.974483596597814,HEBREW <kde-il@yahoogroups.com>
+quodlibet,1549,4,271,445,3,63,1597,1824,84.9232456140351,Hebrew
+redhat-artwork,11,0,4,4,0,1,14,15,73.33333333333333,Hebrew <he@li.org>
+redhat-menus,221,6,34,73,2,11,207,261,84.67432950191571,Hebrew <he@li.org>
+rhgb,95,26,0,24,5,0,85,121,78.51239669421489,none
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+rhpxl,0,0,136,0,0,43,0,136,0.0,none
+rhythmbox,1223,0,0,326,0,0,1096,1223,100.0,Hebrew <he@li.org>
+rt3,917,0,3718,383,0,905,913,4635,19.784250269687163,rt-devel <rt-devel@lists.bestpractical.com>
+seahorse,720,0,2902,109,0,643,726,3622,19.87852015461071,Hebrew <he@li.org>
+sed,106,119,280,12,28,41,106,505,20.99009900990099,Hebrew <eliz@gnu.org>
+setroubleshoot,0,0,7269,0,0,328,0,7269,0.0,LANGUAGE <LL@li.org>
+setuptool,54,0,6,16,0,1,56,60,90.0,none
+shadow-utils,339,216,2360,77,45,278,364,2915,11.629502572898799,Hebrew <en@li.org>
+sound-juicer,852,0,0,149,0,0,816,852,100.0,Hebrew
+soundconverter,420,7,8,100,3,1,391,435,96.55172413793103,LANG <EMAIL@ADDRESS>
+speedcrunch,18,0,0,13,0,0,18,18,100.0,he
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+synaptic,1954,720,557,475,126,61,1740,3231,60.47663262147942,Hebrew <en@li.org>
+system-config-bind,0,0,9416,0,0,1061,0,9416,0.0,none
+system-config-boot,41,0,0,9,0,0,35,41,100.0,none
+system-config-date,36,16,950,13,6,590,38,1002,3.592814371257485,none
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-httpd,0,0,866,0,0,225,0,866,0.0,none
+system-config-keyboard,0,0,78,0,0,12,0,78,0.0,none
+system-config-kickstart,0,0,1028,0,0,272,0,1028,0.0,none
+system-config-language,45,0,0,10,0,0,40,45,100.0,none
+system-config-netboot,10,0,1078,3,0,158,10,1088,0.9191176470588236,none
+system-config-network,0,0,2955,0,0,726,0,2955,0.0,none
+system-config-nfs,0,0,318,0,0,73,0,318,0.0,none
+system-config-rootpassword,50,0,0,9,0,0,42,50,100.0,none
+system-config-samba,383,9,31,133,2,3,347,423,90.54373522458629,none
+system-config-securitylevel,0,0,1145,0,0,91,0,1145,0.0,none
+system-config-services,0,0,232,0,0,62,0,232,0.0,none
+system-config-soundcard,33,45,146,9,2,40,26,224,14.732142857142858,none
+system-config-users,0,0,1031,0,0,158,0,1031,0.0,none
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+tetex,3407,831,144,505,37,22,3188,4382,77.74988589685076,Hebrew <eliz@gnu.org>
+texinfo,2874,1395,312,490,50,40,2716,4581,62.737393582187295,Hebrew <eliz@gnu.org>
+tomboy,1064,0,439,145,0,69,1066,1503,70.791749833666,Hebrew (he@li.org)
+totem,1982,0,0,439,0,0,1823,1982,100.0,Hebrew <he@li.org>
+tsclient,486,0,0,91,0,0,395,486,100.0,Hebrew
+tuxpaint,522,18,47,134,4,17,489,587,88.9267461669506,Hebrew <mdk-hebrew@iglu.org.il>
+tuxpaint-stamps,0,0,1349,0,0,322,0,1349,0.0,
+vino,816,0,0,82,0,0,786,816,100.0,Hebrew
+vte,107,0,0,19,0,0,109,107,100.0,Hebrew <he@li.org>
+wesnoth,13212,2948,102907,1823,205,4857,11287,119067,11.096273526669858,Hebrew
+wget,1423,0,0,181,0,0,1584,1423,100.0,Hebrew <eliz@gnu.org>
+widelands,120,19,13379,91,4,1034,128,13518,0.887705281846427,LANGUAGE <LL@li.org>
+workrave,1114,6,0,211,3,0,985,1120,99.46428571428572,Hebrew <en@li.org>
+xarchiver,1138,37,74,233,9,20,1030,1249,91.11289031224979,Hebrew
+xfce-mcs-manager,30,0,0,7,0,0,36,30,100.0,Hebrew
+xfce-mcs-plugins,475,0,65,133,0,13,438,540,87.96296296296296,Hebrew
+xfce-utils,114,5,0,33,1,0,115,119,95.7983193277311,Hebrew
+xfce4-appfinder,48,0,0,28,0,0,51,48,100.0,Hebrew
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Hebrew Team <xfce2004@yahoo.com>
+xfce4-icon-theme,8,0,0,2,0,0,9,8,100.0,Hebrew
+xfce4-mixer,226,0,0,94,0,0,228,226,100.0,Hebrew
+xfce4-panel,578,0,0,160,0,0,546,578,100.0,Hebrew
+xfce4-places-plugin,7,3,33,5,1,13,9,43,16.27906976744186,
+xfce4-session,738,0,0,129,0,0,667,738,100.0,Hebrew
+xfdesktop,1078,0,0,288,0,0,1050,1078,100.0,Hebrew
+xfprint,323,0,0,113,0,0,300,323,100.0,Hebrew
+xfwm4,645,0,1,189,0,1,682,646,99.84520123839009,Hebrew
+yelp,955,0,1,237,0,1,828,956,99.89539748953975,Hebrew <he@li.org>
+zenity,554,0,0,129,0,0,541,554,100.0,Hebrew

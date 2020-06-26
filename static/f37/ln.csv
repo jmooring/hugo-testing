@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+gedit,4280,0,0,724,0,0,4594,4280,100.0,Lingala <ubuntu-cd@lists.ubuntu.com>
+gnome-characters,155,0,0,44,0,0,181,155,100.0,lingala <ubuntu-cd@lists.ubuntu.com>
+gnome-themes-extra,10,0,0,4,0,0,13,10,100.0,Lingala <ubuntu-cd@lists.ubuntu.com>
+gnome-user-share,52,0,0,10,0,0,57,52,100.0,Lingala <ubuntu-cd@lists.ubuntu.com>
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+lightdm,0,0,84,0,0,4,0,84,0.0,Lingala <ln@li.org>
+maliit-keyboard,37,4,40,34,2,25,69,81,45.67901234567901,Lingala <ln@li.org>
+nautilus,5489,0,0,996,0,0,5850,5489,100.0,Lingala <ubuntu-cd@lists.ubuntu.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+sugar-toolkit-gtk3,35,16,162,33,9,81,38,213,16.431924882629108,LANGUAGE <LL@li.org>

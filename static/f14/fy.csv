@@ -1,0 +1,24 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,521,0,2815,206,0,518,501,3336,15.617505995203837,Frisian <fy@li.org>
+alacarte,42,0,0,16,0,0,41,42,100.0,Frisian <fy@li.org>
+file-roller,470,0,913,152,0,153,483,1383,33.98409255242227,Frisian <gnome-fy-list@gnome.org>
+gdm,313,1,992,74,1,161,281,1306,23.966309341500764,Frisian <gnome-fy-list@gnome.org>
+gnome-backgrounds,23,0,0,17,0,0,21,23,100.0,Frisian <gnome-fy-list@gnome.org>
+gnome-bluetooth,15,0,499,13,0,142,20,514,2.9182879377431905,Frisian <fy@li.org>
+gnome-do,136,0,476,39,0,105,140,612,22.22222222222222,Frisian <fy@li.org>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Frisian <fy@li.org>
+gnome-menus,125,0,0,46,0,0,128,125,100.0,Frisian <fy@li.org>
+gnome-panel,1234,23,3247,392,3,217,1326,4504,27.397868561278866,Frisian <gnome-fy-list@gnome.org>
+gnome-session,622,0,0,110,0,0,605,622,100.0,Frisian <gnome-fy-list@gnome.org>
+koffice-kivio,8417,0,0,2361,0,0,8095,8417,100.0,Frysk <kde-i18n-fry@kde.org>
+konq-plugins,1404,74,120,447,24,45,1403,1598,87.85982478097623,Frysk <kde-i18n-fry@kde.org>
+kpilot,5392,796,968,598,153,110,5335,7156,75.34935718278368,Frysk <kde-i18n-fry@kde.org>
+ksig,85,0,0,26,0,0,76,85,100.0,Frysk <kde-i18n-fry@kde.org>
+nautilus,946,0,7938,484,0,959,932,8884,10.64835659612787,Frisian <gnome-fy-list@gnome.org>
+phatch,172,0,2381,80,0,744,173,2553,6.737171954563259,Frisian <fy@li.org>
+picard,44,0,1267,40,0,565,56,1311,3.3562166285278416,Frisian <fy@li.org>
+squirrelmail,16391,0,0,2879,0,0,16118,16391,100.0,<kde-i18n-nl@kde.org>
+stellarium,26,0,1718,15,0,469,27,1744,1.4908256880733946,Frisian <fy@li.org>
+terminator,5,0,334,3,0,116,5,339,1.4749262536873156,Frisian <fy@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>
+warzone2100,561,183,12038,169,54,2511,552,12782,4.388984509466437,Frisian <fy@li.org>

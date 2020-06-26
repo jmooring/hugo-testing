@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,36,42,100.0,Bodo <brx@li.org>
+iok,87,0,119,20,0,20,105,206,42.23300970873786,Bodo <LL@li.org>
+libreoffice,59605,3196,30481,19800,1413,7139,62228,93282,63.89764370403722,LANGUAGE <LL@li.org>

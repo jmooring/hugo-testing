@@ -1,0 +1,157 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4025,0,0,483,0,0,3888,4025,100.0,<norik@freenet.am>
+WindowMaker,369,0,1917,102,0,266,341,2286,16.141732283464567,Armenian <norik@freenet.am>
+alacarte,42,0,0,16,0,0,39,42,100.0,<norik@freenet.am>
+anaconda,122,0,9286,82,0,1082,121,9408,1.2967687074829932,LANGUAGE <LL@li.org>
+anjuta,7981,0,0,2154,0,0,7563,7981,100.0,<norik@freenet.am>
+at-spi,61,0,0,7,0,0,65,61,100.0,<norik@freenet.am>
+atk,375,0,0,126,0,0,338,375,100.0,<norik@freenet.am>
+authconfig,0,0,1379,0,0,241,0,1379,0.0,LANGUAGE <LL@li.org>
+chkconfig,0,0,487,0,0,93,0,487,0.0,LANGUAGE <LL@li.org>
+clementine,59,0,3880,39,0,1058,64,3939,1.4978420919014979,
+console-setup,10,6,963,7,1,163,9,979,1.0214504596527068,Armenian
+control-center,1906,0,0,480,0,0,1762,1906,100.0,<norayr@arnet.am>
+devhelp,414,0,0,105,0,0,369,414,100.0,<norik@freenet.am>
+drwright,125,11,55,18,3,8,109,191,65.44502617801047,<norayr@arnet.am>
+epiphany,1241,0,1760,367,0,385,1046,3001,41.35288237254249,ARMENIAN <armenian-gnome@arnet.am>
+file-roller,955,0,3,239,0,2,837,958,99.68684759916493,<norik@freenet.am>
+filezilla,9236,12,0,1566,2,0,7269,9248,99.87024221453287,Hrant Ohanyan <hrantohanyan@mail.am>
+firstboot,124,0,472,12,0,44,94,596,20.80536912751678,LANGUAGE <LL@li.org>
+gcalctool,361,0,767,119,0,137,351,1128,32.00354609929078,<norik@freenet.am>
+gdk-pixbuf2,1275,38,0,197,3,0,1213,1313,97.10586443259712,<norik@freenet.am>
+gdm,444,0,4970,132,0,633,367,5414,8.200960472848172,Armenian <norik@freenet.am>
+gedit,416,0,3917,157,0,877,358,4333,9.600738518347566,Armenian <norik@@freenet.am>
+gedit-plugins,5,55,1145,3,16,450,4,1205,0.4149377593360996,Armenian <norik@@freenet.am>
+glade3,4298,0,0,1103,0,0,4031,4298,100.0,<norik@freenet.am>
+glib2,4085,304,388,643,42,62,3998,4777,85.51392087083944,Armenian <norik@freenet.am>
+gmpc,7,0,1437,7,0,464,15,1444,0.48476454293628807,Armenian <hy@li.org>
+gnome-applets,3327,13,4,780,4,1,3126,3344,99.49162679425837,<norayr@arnet.am>
+gnome-backgrounds,23,0,0,17,0,0,22,23,100.0,<norayr@arnet.am>
+gnome-bluetooth,664,0,0,181,0,0,631,664,100.0,<norayr@arnet.am>
+gnome-desktop,345,4,0,52,1,0,326,349,98.8538681948424,<norayr@arnet.am>
+gnome-desktop3,345,4,0,52,1,0,326,349,98.8538681948424,<norayr@arnet.am>
+gnome-disk-utility,4544,0,0,1075,0,0,4122,4544,100.0,<norayr@arnet.am>
+gnome-gmail,15,0,344,9,0,38,16,359,4.178272980501393,Armenian <hy@li.org>
+gnome-menus,151,6,0,55,1,0,136,157,96.17834394904459,<norik@freenet.am>
+gnome-panel,4555,0,1,626,0,1,3951,4556,99.97805092186128,<norayr@arnet.am>
+gnome-session,570,0,0,103,0,0,546,570,100.0,<norik@freenet.am>
+gnome-terminal,261,170,3463,117,47,273,236,3894,6.702619414483821,<norik@freenet.am>
+gtk2,1676,1279,10749,315,463,2006,1527,13704,12.230005837711618,<norik@freenet.am>
+gtk3,11213,182,458,2121,76,290,9605,11853,94.60052307432717,<norik@freenet.am>
+gtkspell,11,0,0,5,0,0,10,11,100.0,Armenian <translation-team-hy@lists.sourceforge.net>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+initscripts,0,0,4349,0,0,1070,0,4349,0.0,<XX@li.org>
+inkscape,1578,2621,22329,538,953,4087,1448,26528,5.948431845597105,Inkscape Armenian Translators <edo248@gmail.com>
+iso-codes,217,55,828,176,18,260,201,1100,19.727272727272727,Armenian
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+libbonobo,543,0,0,107,0,0,508,543,100.0,Armenian <norik@freenet.am>
+libgdl,604,0,0,92,0,0,530,604,100.0,<norik@freenet.am>
+libgnomeui,362,0,1058,139,0,206,305,1420,25.492957746478872,
+libgweather,360,39,61,155,14,10,362,460,78.26086956521739,<norik@freenet.am>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libmatecomponent,543,0,0,107,0,0,508,543,100.0,LANGUAGE <LL@li.org>
+libmateweather,355,0,110,154,0,27,358,465,76.34408602150538,LANGUAGE <LL@li.org>
+libvirt,980,16945,11641,229,3066,1668,980,29566,3.3146181424609353,none
+libxfcegui4,76,7,56,21,4,19,62,139,54.67625899280576,Armenian <en@li.org>
+lxmenu-data,85,12,0,33,4,0,73,97,87.62886597938144,<norik@freenet.am>
+mate-backgrounds,23,0,7,17,0,4,22,30,76.66666666666667,LANGUAGE <LL@li.org>
+mate-conf,3988,0,44,482,0,2,3852,4032,98.90873015873017,LANGUAGE <LL@li.org>
+mate-desktop,166,0,241,27,0,16,150,407,40.78624078624078,LANGUAGE <LL@li.org>
+mate-file-archiver,953,0,3,239,0,2,837,956,99.68619246861925,<norik@freenet.am>
+mate-file-manager,4113,0,5298,762,0,759,3706,9411,43.7041759642971,LANGUAGE <LL@li.org>
+mate-menus,151,6,0,55,1,0,136,157,96.17834394904459,<norik@freenet.am>
+mate-panel,4555,0,1,626,0,1,3951,4556,99.97805092186128,<norayr@arnet.am>
+mate-session-manager,570,0,0,103,0,0,546,570,100.0,<norik@freenet.am>
+mate-terminal,261,170,3463,117,47,273,236,3894,6.702619414483821,<norik@freenet.am>
+mate-window-manager,688,0,3102,118,0,285,685,3790,18.153034300791557,LANGUAGE <LL@li.org>
+metacity,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+mingw-gtk3,11213,182,458,2121,76,290,9605,11853,94.60052307432717,<norik@freenet.am>
+mingw32-atk,375,0,0,126,0,0,338,375,100.0,<norik@freenet.am>
+mingw32-gdk-pixbuf,1275,38,0,197,3,0,1213,1313,97.10586443259712,<norik@freenet.am>
+mingw32-glib2,4085,304,388,643,42,62,3998,4777,85.51392087083944,Armenian <norik@freenet.am>
+mingw32-gtk2,1676,1279,10749,315,463,2006,1527,13704,12.230005837711618,<norik@freenet.am>
+mingw32-libvirt,980,16874,11573,229,3051,1653,980,29427,3.330274917592687,none
+muffin,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+mutter,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+mutter-mbl,1858,0,5061,162,0,302,1770,6919,26.853591559473912,<en@li.org>
+nautilus,6554,262,0,1140,28,0,5928,6816,96.15610328638498,<norik@freenet.am>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+openerp,2,0,23201,1,0,2153,2,23203,0.008619575054949792,Armenian <hy@li.org>
+orage,7,113,2272,6,48,747,7,2392,0.2926421404682274,Armenian <en@li.org>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pessulus,130,0,0,33,0,0,129,130,100.0,<norik@freenet.am>
+phatch,1,0,2552,1,0,823,1,2553,0.03916960438699569,Armenian <hy@li.org>
+pidgin,141,59,18156,42,31,3830,143,18356,0.7681412072346917,
+pinta,3,0,1037,3,0,366,12,1040,0.2884615384615385,Armenian <hy@li.org>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,64,136,2224,35,38,386,57,2424,2.6402640264026402,LANGUAGE <LL@li.org>
+redhat-menus,221,6,34,73,2,11,198,261,84.67432950191571,Armenian <en@li.org>
+rednotebook,3,0,1051,3,0,231,8,1054,0.2846299810246679,Armenian <hy@li.org>
+rhn-client-tools,0,0,4361,0,0,424,0,4361,0.0,none
+rhnsd,0,0,20,0,0,5,0,20,0.0,LANGUAGE <LL@li.org>
+sabayon,743,0,0,171,0,0,771,743,100.0,<norik@freenet.am>
+setroubleshoot,0,0,562,0,0,167,0,562,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,8291,0,0,399,0,8291,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+shutter,51,0,2614,20,0,494,57,2665,1.9136960600375235,Armenian <hy@li.org>
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,0,0,305294,0,0,16850,0,305294,0.0,none
+stellarium,1881,0,5257,662,0,1829,1742,7138,26.351919305127485,Armenian <hy@li.org>
+sugar-abacus,24,0,0,24,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,859,0,0,166,0,0,836,859,100.0,LANGUAGE <LL@li.org>
+sugar-chat,50,0,0,33,0,0,50,50,100.0,LANGUAGE <LL@li.org>
+sugar-clock,38,0,0,17,0,0,64,38,100.0,LANGUAGE <LL@li.org>
+sugar-finance,143,0,0,32,0,0,117,143,100.0,LANGUAGE <LL@li.org>
+sugar-flip,14,0,0,7,0,0,14,14,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,0,11,0,0,32,24,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,184,0,0,56,0,0,173,184,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,7,0,8,5,0,5,8,15,46.666666666666664,LANGUAGE <LL@li.org>
+sugar-labyrinth,254,0,0,93,0,0,244,254,100.0,LANGUAGE <LL@li.org>
+sugar-log,77,0,0,19,0,0,73,77,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,151,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,114,0,0,71,0,0,109,114,100.0,LANGUAGE <LL@li.org>
+sugar-moon,91,0,0,32,0,0,87,91,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,133,0,52,46,0,46,99,185,71.89189189189189,LANGUAGE <LL@li.org>
+sugar-physics,28,0,0,27,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,103,109,100.0,LANGUAGE <LL@li.org>
+sugar-portfolio,42,0,0,19,0,0,40,42,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,10,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,56,0,8,30,0,3,55,64,87.5,LANGUAGE <LL@li.org>
+sugar-ruler,15,0,0,6,0,0,12,15,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,17,0,0,9,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1706,57,704,486,16,153,1687,2467,69.15281718686664,LANGUAGE <LL@li.org>
+sugar-visualmatch,131,0,0,70,0,0,119,131,100.0,LANGUAGE <LL@li.org>
+sugar-write,80,0,0,47,0,0,78,80,100.0,LANGUAGE <LL@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,119,0,0,23,0,119,0.0,none
+system-config-date,0,0,503,0,0,56,0,503,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,0,0,2814,0,0,331,0,2814,0.0,none
+system-config-httpd,816,42,0,204,19,0,721,858,95.1048951048951,Armenian
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-kickstart,0,0,1104,0,0,245,0,1104,0.0,none
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-lvm,0,0,2142,0,0,336,0,2142,0.0,none
+system-config-netboot,10,0,1093,3,0,162,10,1103,0.9066183136899365,none
+system-config-network,0,0,3032,0,0,721,0,3032,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3057,0,0,742,0,3057,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,571,0,0,134,0,571,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,518,0,0,71,0,518,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+trac,5503,0,0,1126,0,0,5123,5503,100.0,hy_AM <trac-dev@googlegroups.com>
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>
+xfce-utils,8,23,461,6,8,58,9,492,1.6260162601626018,Armenian <en@li.org>
+xfce4-appfinder,2,3,66,2,2,15,2,71,2.8169014084507045,Armenian <en@li.org>
+xfce4-panel,7,226,1271,7,70,267,8,1504,0.4654255319148936,Armenian <en@li.org>
+xfdesktop,28,265,542,15,85,99,28,835,3.3532934131736525,Armenian <en@li.org>
+yum-rhn-plugin,0,0,100,0,0,12,0,100,0.0,LANGUAGE <LL@li.org>

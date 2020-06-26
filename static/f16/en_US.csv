@@ -1,0 +1,75 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+PyXML,0,0,115,0,0,19,0,115,0.0,English <en@translate.freefriends.org>
+colorhug-client,901,0,0,207,0,0,901,901,100.0,LANGUAGE <LL@li.org>
+compiz,0,194,2520,0,76,569,0,2714,0.0,English <i18n@suse.de>
+console-setup,979,0,0,171,0,0,985,979,100.0,American English <kde-i18n-doc@kde.org>
+debconf,191,0,0,17,0,0,165,191,100.0,Sinhala <info@hanthana.org>
+e16,9,0,2823,3,0,528,9,2832,0.31779661016949157,American English <en@li.org>
+ejabberd,1826,0,0,421,0,0,2104,1826,100.0,American English <kde-i18n-doc@kde.org>
+evolution,16959,2538,1950,3826,451,138,15157,21447,79.0739963631277,American English <kde-i18n-doc@kde.org>
+evolution-data-server,4596,0,0,980,0,0,4213,4596,100.0,American English <kde-i18n-doc@kde.org>
+firefox,6,0,0,2,0,0,30,6,100.0,
+gcalctool,842,44,29,353,22,3,842,915,92.02185792349727,
+gcin,213,0,0,162,0,0,609,213,100.0,LANGUAGE <LL@li.org>
+gedit,4152,69,108,731,3,9,3332,4329,95.91129591129591,American English <kde-i18n-doc@kde.org>
+gjots2,785,31,138,234,10,13,785,954,82.28511530398322,<en@li.org>
+gnomebaker,271,275,621,91,51,145,349,1167,23.221936589545844,English (United States) <en_US@li.org>
+gnubg,10382,278,5915,1939,60,1028,10383,16575,62.63650075414782,none
+gnubik,35,0,243,5,0,77,36,278,12.589928057553957,American <john@darrington.wattle.id.au>
+gpredict,5019,489,244,962,66,31,5020,5752,87.25660639777469,US English
+ignuit,16,0,773,5,0,223,16,789,2.027883396704689,<trmusson@gmail.com>
+iso-codes,1100,0,0,454,0,0,906,1100,100.0,Sinhala <info@hanthana.org>
+java-gnome,2,0,0,2,0,0,2,2,100.0,
+jpoker,256,38,63,111,23,17,256,357,71.70868347338936,<pokersource-users@gna.org>
+kde-plasma-networkmanagement,20,0,0,3,0,0,22,20,100.0,American English <kde-i18n-doc@kde.org>
+kdiff3,126,0,0,13,0,0,134,126,100.0,American English <kde-i18n-el@kde.org>
+listen,617,274,892,275,106,168,614,1783,34.604598990465504,English (United States) <en_US@li.org>
+metamorphose2,37,0,1710,8,0,530,39,1747,2.117916428162564,ianaré sévi
+olpc-switch-desktop,158,0,0,14,0,0,158,158,100.0,LANGUAGE <LL@li.org>
+openconnect,1668,0,905,307,0,162,1668,2573,64.82705013602799,English (United States) (http://www.transifex.net/projects/p/meego/language/en_US/)
+openerp,38,0,10419,4,0,1561,38,10457,0.36339294252653725,English (United States) <en_US@li.org>
+phpesp,3,0,2227,1,0,407,1,2230,0.13452914798206278,en_US <jflemer@alum.rpi.edu>
+powertop,260,8,177,70,2,51,260,445,58.42696629213483,English (United States) (http://www.transifex.com/projects/p/PowerTOP/language/en_US/)
+proftpd,833,0,0,200,0,0,833,833,100.0,none
+python-kitchen,487,0,0,27,0,0,487,487,100.0,LANGUAGE <LL@li.org>
+python-nevow,14,0,0,4,0,0,19,14,100.0,LANGUAGE <LL@li.org>
+sane-backends,4813,0,0,1019,0,0,4932,4813,100.0,American English <sane-devel@lists.alioth.debian.org>
+sblim-cmpi-dhcp,356,4,21,64,1,3,356,381,93.43832020997375,English
+seamonkey,6,0,0,2,0,0,30,6,100.0,
+stellarium,19,0,7119,12,0,2479,19,7138,0.26618100308209586,English (United States) <en_US@li.org>
+sugar-abacus,24,0,0,24,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-browse,57,0,0,30,0,0,57,57,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,859,0,0,166,0,0,857,859,100.0,LANGUAGE <LL@li.org>
+sugar-chat,50,0,0,33,0,0,50,50,100.0,LANGUAGE <LL@li.org>
+sugar-clock,38,0,0,17,0,0,568,38,100.0,LANGUAGE <LL@li.org>
+sugar-finance,143,0,0,32,0,0,143,143,100.0,LANGUAGE <LL@li.org>
+sugar-flip,14,0,0,7,0,0,14,14,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,0,11,0,0,24,24,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,200,0,0,56,0,0,200,200,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,15,0,0,10,0,0,15,15,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,254,0,0,93,0,0,254,254,100.0,LANGUAGE <LL@li.org>
+sugar-log,77,0,0,19,0,0,77,77,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,155,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,114,0,0,71,0,0,114,114,100.0,LANGUAGE <LL@li.org>
+sugar-moon,91,0,0,32,0,0,91,91,100.0,LANGUAGE <LL@li.org>
+sugar-nutrition,185,0,0,92,0,0,185,185,100.0,LANGUAGE <LL@li.org>
+sugar-physics,28,0,0,27,0,0,28,28,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,109,109,100.0,English
+sugar-portfolio,42,0,0,19,0,0,42,42,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,10,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,64,0,0,33,0,0,64,64,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,15,0,0,6,0,0,15,15,100.0,LANGUAGE <LL@li.org>
+sugar-surf,55,0,0,31,0,0,55,55,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,17,0,0,9,0,0,17,17,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2467,0,0,655,0,0,2466,2467,100.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,158,0,0,78,0,0,157,158,100.0,LANGUAGE <LL@li.org>
+sugar-write,80,0,0,47,0,0,80,80,100.0,LANGUAGE <LL@li.org>
+trac,0,0,5503,0,0,1126,0,5503,0.0,en_US <trac-dev@googlegroups.com>
+wget,2260,0,0,394,0,0,2259,2260,100.0,none
+whaawmp,132,0,667,29,0,131,137,799,16.520650813516895,English (United States) <en_US@li.org>
+wine,14112,0,0,3181,0,0,14112,14112,100.0,none
+wxPython,0,0,2275,0,0,692,0,2275,0.0,LANGUAGE <LL@li.org>
+xine-lib,0,0,11956,0,0,948,0,11956,0.0,en_US <none>
+xmlcopyeditor,0,0,1354,0,0,406,0,1354,0.0,LANGUAGE <LL@li.org>
+xulrunner,6,0,0,2,0,0,30,6,100.0,
+zarafa,2,0,4548,2,0,1331,3,4550,0.04395604395604395,en_US <en@li.org>

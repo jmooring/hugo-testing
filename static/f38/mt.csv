@@ -1,0 +1,35 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+calibre,281,0,170686,275,0,19056,283,170967,0.16435920382296,Maltese (http://www.transifex.com/calibre/calibre/language/mt/)
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+dnfdragora,144,0,1588,107,0,358,148,1732,8.314087759815243,Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/)
+elementary-code,0,0,1614,0,0,290,0,1614,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2490,0,0,551,0,2490,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,788,0,0,179,0,788,0.0,
+elementary-music,0,0,205,0,0,37,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+gala,0,0,249,0,0,51,0,249,0.0,none
+gettext,368,20,50,72,2,14,366,438,84.01826484018264,Maltese <translation-team-mt@lists.sourceforge.net>
+gnome-do,62,0,550,16,0,128,62,612,10.130718954248366,Maltese <mt@li.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,300,0,0,75,0,300,0.0,
+gstreamer1-plugins-bad-free,43,43,111,7,7,15,39,197,21.82741116751269,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-good,288,298,244,34,35,35,274,830,34.69879518072289,Maltese <translation-team-mt@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,56,4,20,8,1,1,50,80,70.0,Maltese <translation-team-mt@lists.sourceforge.net>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,835,7208,7865,684,5234,4352,834,15908,5.248931355292934,Maltese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mt/>
+koffice-kivio,1910,1752,4755,559,762,1040,1775,8417,22.69217060710467,Maltese <mt@li.org>
+konversation,0,996,9366,0,290,1358,0,10362,0.0,Maltese <mt@li.org>
+manafirewall,14,0,1083,13,0,120,14,1097,1.276207839562443,Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/)
+mingw-gettext,368,20,50,72,2,14,366,438,84.01826484018264,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,43,43,111,7,7,15,39,197,21.82741116751269,Maltese <translation-team-mt@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,288,298,244,34,35,35,274,830,34.69879518072289,Maltese <translation-team-mt@lists.sourceforge.net>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+sugar-toolkit-gtk3,54,18,141,53,9,61,54,213,25.352112676056336,LANGUAGE <LL@li.org>
+sysstat,412,0,0,51,0,0,432,412,100.0,Maltese <translation-team-mt@lists.sourceforge.net>
+transmission,16,0,2425,10,0,575,17,2441,0.6554690700532568,Maltese (https://app.transifex.com/transmissionbt/teams/33778/mt/)
+wingpanel,0,0,16,0,0,3,0,16,0.0,none

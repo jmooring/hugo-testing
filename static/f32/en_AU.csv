@@ -1,0 +1,214 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Thunar,4393,0,16,758,0,4,4393,4409,99.63710591970968,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+atril,1506,0,2340,408,0,233,1506,3846,39.15756630265211,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+avahi,2,1,865,2,1,165,2,868,0.2304147465437788,English (Australia) (http://www.transifex.com/lennart/avahi/language/en_AU/)
+avogadro,4285,0,2322,1756,0,616,4349,6607,64.855456334191,English (Australia) <en_AU@li.org>
+avogadro2,137,67,258,84,25,40,173,462,29.653679653679653,English (Australia) <en_AU@li.org>
+avogadro2-libs,271,562,1816,219,229,380,316,2649,10.230275575688939,English (Australia) <en_AU@li.org>
+bijiben,309,0,0,103,0,0,309,309,100.0,Australian English en_AU
+bleachbit,1810,0,0,352,0,0,1837,1810,100.0,English (Australia) <en_AU@li.org>
+blueberry,0,0,162,0,0,36,0,162,0.0,English (Australia) <en_AU@li.org>
+blueman,1324,53,355,334,27,154,1326,1732,76.44341801385681,English (Australia) <https://hosted.weblate.org/projects/blueman/stable/en_AU/>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+caja,8070,0,1555,1410,0,185,8070,9625,83.84415584415585,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+caja-extensions,594,3,74,125,3,18,596,671,88.52459016393442,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+calibre,158,0,160816,26,0,18453,158,160974,0.09815249667648192,English (Australia) (http://www.transifex.com/calibre/calibre/language/en_AU/)
+catfish,787,0,0,118,0,0,787,787,100.0,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+cinnamon-translations,2265,0,16922,673,0,3597,2283,19187,11.80486787929327,English (Australia) <en_AU@li.org>
+clamtk,551,0,0,137,0,0,551,551,100.0,English (Australia) <en_AU@li.org>
+cloc,45,0,0,9,0,0,45,45,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+coin,252,0,0,50,0,0,252,252,100.0,none
+deepin-daemon,197,0,866,81,0,147,192,1063,18.532455315145814,English (Australia) (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/en_AU/)
+deepin-qml-widgets,18,0,0,13,0,0,17,18,100.0,English (Australia) (http://www.transifex.com/projects/p/deepin-qml-widgets/language/en_AU/)
+deepin-terminal,55,0,372,42,0,122,55,427,12.88056206088993,English (Australia) (https://www.transifex.com/linuxdeepin/teams/3976/en_AU/)
+deja-dup,1091,0,2284,198,0,216,1115,3375,32.32592592592592,English (Australia) <en_AU@li.org>
+deluge,2026,0,590,750,0,101,2025,2616,77.44648318042813,English (Australia) <en_AU@li.org>
+dippi,381,12,4,50,2,1,381,397,95.96977329974811,none
+duplicity,1663,0,552,245,0,74,1663,2215,75.07900677200902,English (Australia) <en_AU@li.org>
+elementary-calculator,38,4,88,11,2,41,38,130,29.230769230769234,English (Australia) <https://weblate.elementary.io/projects/calculator/calculator/en_AU/>
+elementary-calendar,113,67,523,40,14,175,113,703,16.073968705547653,English (Australia) <en_AU@li.org>
+elementary-camera,46,3,16,10,1,7,46,65,70.76923076923077,English (Australia) <en_AU@li.org>
+elementary-capnet-assist,32,0,50,5,0,9,32,82,39.02439024390244,none
+elementary-code,396,169,586,132,39,86,396,1151,34.404865334491745,English (Australia) <https://l10n.elementary.io/projects/code/code/en_AU/>
+elementary-files,1226,539,1146,295,85,179,1266,2911,42.11611130195809,English (Australia) <https://l10n.elementary.io/projects/files/files/en_AU/>
+elementary-greeter,6,2,158,3,1,33,6,166,3.614457831325301,English (Australia) <en_AU@li.org>
+elementary-music,882,137,289,284,19,63,889,1308,67.43119266055045,LANGUAGE <LL@li.org>
+elementary-notifications,3,0,0,2,0,0,3,3,100.0,none
+elementary-photos,84,0,3826,10,0,796,84,3910,2.1483375959079285,LANGUAGE <LL@li.org>
+elementary-planner,593,115,2290,89,18,466,593,2998,19.77985323549033,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,82,1,129,30,1,24,82,212,38.67924528301887,English (Australia) <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/en_AU/>
+elementary-shortcut-overlay,74,2,19,32,1,6,74,95,77.89473684210526,none
+elementary-sideload,61,97,66,17,13,14,61,224,27.232142857142854,none
+elementary-terminal,37,0,405,8,0,82,37,442,8.3710407239819,
+elementary-videos,114,7,225,37,3,50,114,346,32.947976878612714,English (Australia) <en_AU@li.org>
+engrampa,1558,0,6259,349,0,537,1558,7817,19.930919790200843,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+eom,1625,0,3326,328,0,214,1625,4951,32.82165219147647,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+evolution,65,2038,15099,26,677,3577,64,17202,0.37786303918149056,
+evolution-data-server,166,1000,3338,29,175,673,187,4504,3.685612788632327,
+evolution-rspam,0,0,194,0,0,32,0,194,0.0,LANGUAGE <LL@li.org>
+evolution-rss,0,0,589,0,0,160,0,589,0.0,LANGUAGE <LL@li.org>
+exo,1460,0,0,300,0,0,1460,1460,100.0,English (Australia) (http://www.transifex.com/xfce/exo/language/en_AU/)
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+fragments,1622,0,384,464,0,62,1648,2006,80.85742771684946,English (Australia) (https://www.transifex.com/transmissionbt/teams/33778/en_AU/)
+gala,107,0,33,28,0,6,107,140,76.42857142857142,none
+galculator,935,0,0,275,0,0,936,935,100.0,English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/)
+garcon,122,0,0,36,0,0,122,122,100.0,English (Australia) (http://www.transifex.com/xfce/garcon/language/en_AU/)
+gigolo,467,0,0,127,0,0,467,467,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+gnome-do,612,0,0,144,0,0,614,612,100.0,English (Australia) <en_AU@li.org>
+granite,123,40,106,46,7,35,123,269,45.72490706319702,English (Australia) <https://weblate.elementary.io/projects/desktop/granite/en_AU/>
+gxmessage,22,0,245,3,0,35,22,267,8.239700374531834,LANGUAGE <LL@li.org>
+harvey,57,0,0,12,0,0,57,57,100.0,none
+homebank,811,2,1979,364,1,500,812,2792,29.04727793696275,English (Australia) <en_AU@li.org>
+inkscape,4533,14082,22314,962,4561,3145,4537,40929,11.075276698673314,English (Australia)
+jmol,113,0,1335,20,0,428,113,1448,7.803867403314917,English (Australia) <en_AU@li.org>
+libexif,6987,0,18,1178,0,2,6987,7005,99.74304068522484,English (Australia) <en_AU@li.org>
+libmatekbd,256,0,52,54,0,37,256,308,83.11688311688312,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+libmatemixer,242,0,0,126,0,0,242,242,100.0,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+libmateweather,499,0,0,183,0,0,502,499,100.0,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+libxfce4ui,926,0,0,179,0,0,926,926,100.0,English (Australia) (http://www.transifex.com/xfce/libxfce4ui/language/en_AU/)
+libxfce4util,424,0,0,7,0,0,424,424,100.0,English (Australia) (http://www.transifex.com/xfce/libxfce4util/language/en_AU/)
+lightdm,79,0,84,17,0,4,80,163,48.466257668711656,English (Australia) <en_AU@li.org>
+lightdm-gtk,68,0,19,22,0,3,68,87,78.16091954022988,English (Australia) <en_AU@li.org>
+marco,3692,0,647,384,0,47,3692,4339,85.08873012214796,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-applets,2355,9,13489,582,3,1017,2355,15853,14.855232448117075,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-backgrounds,30,0,35,21,0,10,30,65,46.15384615384615,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-calc,1340,0,1838,481,0,238,1337,3178,42.16488357457521,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-control-center,2634,0,5968,677,0,835,2634,8602,30.620785863752616,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-desktop,1998,0,226,267,0,18,1998,2224,89.83812949640287,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-media,207,0,32,88,0,11,207,239,86.61087866108787,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-menu,283,0,25,101,0,9,283,308,91.88311688311688,English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/)
+mate-menus,97,0,0,37,0,0,97,97,100.0,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-notification-daemon,132,0,20,36,0,5,132,152,86.8421052631579,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-panel,4254,0,2473,590,0,212,4254,6727,63.237698825628065,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-polkit,123,0,0,21,0,0,123,123,100.0,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-power-manager,2468,3,2668,391,1,162,2468,5139,48.02490756956606,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-screensaver,986,0,34,157,0,12,985,1020,96.66666666666667,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-sensors-applet,308,0,1852,114,0,112,308,2160,14.25925925925926,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-session-manager,652,0,60,121,0,10,652,712,91.57303370786516,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-settings-daemon,1835,0,362,270,0,48,1835,2197,83.52298588984979,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-system-monitor,1243,0,3668,325,0,333,1243,4911,25.310527387497455,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-terminal,4197,0,4175,520,0,278,4197,8372,50.13139034878166,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-themes,58,0,16,12,0,11,58,74,78.37837837837837,English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/)
+mate-user-admin,20,0,608,16,0,115,20,628,3.1847133757961785,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-user-guide,149,0,42821,89,0,3140,149,42970,0.3467535489876658,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+mate-utils,3468,0,6836,689,0,440,3468,10304,33.65683229813665,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+menulibre,55,0,794,34,0,130,55,849,6.478209658421672,English (Australia) <en_AU@li.org>
+midori,3541,0,0,796,0,0,3553,3541,100.0,English (Australia) <en_AU@li.org>
+mousepad,1108,0,0,310,0,0,1108,1108,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+mozo,42,0,1,16,0,1,42,43,97.67441860465115,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,2076,0,242,472,0,38,2080,2318,89.55996548748921,English (Australia) <en_AU@li.org>
+optimizer,69,16,197,44,3,28,69,282,24.46808510638298,none
+orage,2931,0,0,1030,0,0,2931,2931,100.0,English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/)
+pantheon-agent-geoclue2,3,0,98,2,0,16,3,101,2.9702970297029703,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,13,5,30,6,2,7,13,48,27.083333333333332,LANGUAGE <LL@li.org>
+parole,1088,0,0,301,0,0,1088,1088,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+pastebinit,195,0,0,29,0,0,195,195,100.0,English (Australia) <en_AU@li.org>
+picard,89,0,9814,20,0,2926,97,9903,0.8987175603352519,English (Australia) (http://www.transifex.com/musicbrainz/musicbrainz/language/en_AU/)
+pidgin,15539,10,207,3412,1,20,15539,15756,98.62274689007361,English (Australia) (http://www.transifex.com/pidgin/pidgin/language/en_AU/)
+pidgin-guifications,442,32,31,183,4,5,444,505,87.52475247524752,English (Australian) <trans@six-by-nine.com.au>
+pidgin-musictracker,333,0,0,60,0,0,333,333,100.0,English (Australia) <en_AU@li.org>
+pinta,1686,0,0,532,0,0,1710,1686,100.0,English (Australia) <en_AU@li.org>
+plank,33,0,156,12,0,38,42,189,17.46031746031746,English (Australia) <en_AU@li.org>
+pluma,4636,0,8484,1124,0,952,4636,13120,35.33536585365854,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+pmount,723,0,0,63,0,0,723,723,100.0,English (Australia) <en_AU@li.org>
+purple-plugin_pack,0,15,4993,0,1,746,0,5008,0.0,English/AU <trans@six-by-nine.com.au>
+pyhoca-gui,1859,0,6,401,0,1,1859,1865,99.67828418230563,none
+python-caja,6,0,1,2,0,1,7,7,85.71428571428571,English (Australia) (https://www.transifex.com/mate/teams/13566/en_AU/)
+python-django,1059,0,2541,349,0,464,1057,3600,29.416666666666668,English (Australia) (http://www.transifex.com/django/django/language/en_AU/)
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,English (Australia) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en_AU/)
+rapid-photo-downloader,0,11,7576,0,1,851,0,7587,0.0,English (Australia) <en_AU@li.org>
+remmina,3129,252,409,719,32,40,3124,3790,82.55936675461741,English (Australia) <https://hosted.weblate.org/projects/remmina/remmina/en_AU/>
+rhythmbox-alternative-toolbar,294,0,0,60,0,0,294,294,100.0,English (Australia) <en_AU@li.org>
+ristretto,759,0,0,196,0,0,759,759,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+shutter,166,0,0,17,0,0,166,166,100.0,English (Australia) <en_AU@li.org>
+slick-greeter,199,0,12,41,0,6,199,211,94.3127962085308,English (Australia) <en_AU@li.org>
+soundconverter,144,28,335,58,5,66,144,507,28.402366863905325,English (Australia) <en_AU@li.org>
+stellarium,27259,0,101394,15576,0,20312,27276,128653,21.188001834391738,English (Australia) (https://www.transifex.com/stellarium/teams/80998/en_AU/)
+sweep,2,0,2397,1,0,537,2,2399,0.08336807002917883,English/Australia <LL@li.org>
+switchboard,23,2,99,8,1,17,23,124,18.548387096774192,English (Australia) <en_AU@li.org>
+switchboard-plug-a11y,6,0,119,2,0,36,6,125,4.8,LANGUAGE <LL@li.org>
+switchboard-plug-about,14,0,82,4,0,25,14,96,14.583333333333334,English (Australia) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/en_AU/>
+switchboard-plug-applications,6,0,89,2,0,32,6,95,6.315789473684211,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,10,2,176,6,1,44,10,188,5.319148936170213,English (Australia) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/en_AU/>
+switchboard-plug-display,10,0,129,2,0,50,10,139,7.194244604316546,English (Australia) <en_AU@li.org>
+switchboard-plug-keyboard,6,2,522,1,1,191,6,530,1.1320754716981132,
+switchboard-plug-mouse-touchpad,55,42,135,23,15,35,55,232,23.70689655172414,none
+switchboard-plug-networking,17,0,457,7,0,130,17,474,3.5864978902953584,English (Australia) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/en_AU/>
+switchboard-plug-notifications,8,2,132,2,1,18,8,142,5.633802816901409,English (Australia) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/en_AU/>
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,9,0,172,2,0,63,9,181,4.972375690607735,English (Australia) <en_AU@li.org>
+switchboard-plug-printers,9,2,351,1,1,142,9,362,2.4861878453038675,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,136,2,2,30,1,1,136,140,97.14285714285714,none
+switchboard-plug-sound,11,0,141,3,0,48,11,152,7.236842105263158,English (Australia) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/en_AU/>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+terminator,630,0,820,208,0,219,630,1450,43.44827586206896,English (Australia) (https://www.transifex.com/terminator/teams/109338/en_AU/)
+thunar-archive-plugin,86,0,0,13,0,0,86,86,100.0,English (Australia) (http://www.transifex.com/xfce/thunar-plugins/language/en_AU/)
+thunar-media-tags-plugin,156,0,0,58,0,0,156,156,100.0,English (Australia) (http://www.transifex.com/xfce/thunar-plugins/language/en_AU/)
+thunar-vcs-plugin,614,0,0,333,0,0,614,614,100.0,English (Australia) (http://www.transifex.com/xfce/thunar-plugins/language/en_AU/)
+thunar-volman,499,0,0,120,0,0,499,499,100.0,English (Australia) (http://www.transifex.com/xfce/thunar-volman/language/en_AU/)
+tortoisehg,2071,0,11172,513,0,1915,2070,13243,15.638450502152079,English (Australia) <en_AU@li.org>
+trader,2001,0,0,236,0,0,2001,2001,100.0,English (Australian) <(nothing)>
+transmission,1615,0,383,462,0,61,1641,1998,80.83083083083083,English (Australia) (https://www.transifex.com/transmissionbt/teams/33778/en_AU/)
+tumbler,241,0,0,39,0,0,241,241,100.0,English (Australia) (http://www.transifex.com/xfce/tumbler/language/en_AU/)
+tuxpaint,1241,375,46,263,32,10,1241,1662,74.6690734055355,none
+tuxpaint-stamps,3197,52,0,792,13,0,3330,3249,98.39950754078178,Ian Loxton <ilox11@gmail.com>
+ufw,879,0,0,181,0,0,879,879,100.0,English (Australia) <en_AU@li.org>
+wingpanel,16,0,3,3,0,1,16,19,84.21052631578947,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,236,5,53,70,3,13,236,294,80.27210884353741,English (Australia) <https://weblate.elementary.io/projects/wingpanel/applications-menu/en_AU/>
+wingpanel-indicator-bluetooth,10,0,20,3,0,15,10,30,33.33333333333333,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,60,8,60,13,1,11,60,128,46.875,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,14,0,24,5,0,5,14,38,36.84210526315789,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,13,0,84,4,0,23,13,97,13.402061855670103,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,4,15,12,2,2,4,4,31,12.903225806451612,
+wingpanel-indicator-notifications,17,0,21,5,0,8,17,38,44.73684210526316,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,83,0,34,17,0,15,79,117,70.94017094017094,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,15,0,66,4,0,21,15,81,18.51851851851852,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,26,2,25,7,1,5,26,53,49.056603773584904,LANGUAGE <LL@li.org>
+xed,3295,0,1345,787,0,217,3295,4640,71.01293103448276,English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/)
+xfburn,1413,0,0,306,0,0,1413,1413,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+xfce4-appfinder,406,0,0,81,0,0,406,406,100.0,English (Australia) (http://www.transifex.com/xfce/xfce4-appfinder/language/en_AU/)
+xfce4-battery-plugin,147,0,0,42,0,0,147,147,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-clipman-plugin,478,0,0,72,0,0,478,478,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-cpufreq-plugin,132,0,14,41,0,1,132,146,90.41095890410958,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-cpugraph-plugin,76,0,0,37,0,0,76,76,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-datetime-plugin,52,0,0,19,0,0,52,52,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-dict,526,0,3,120,0,1,526,529,99.4328922495274,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,181,181,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-embed-plugin,219,0,0,33,0,0,219,219,100.0,English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/)
+xfce4-eyes-plugin,16,0,0,5,0,0,16,16,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,71,71,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-genmon-plugin,56,0,0,14,0,0,56,56,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-mailwatch-plugin,685,0,0,111,0,0,677,685,100.0,English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/)
+xfce4-mpc-plugin,78,0,0,24,0,0,78,78,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-netload-plugin,91,0,0,35,0,0,91,91,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-notes-plugin,163,0,0,57,0,0,163,163,100.0,English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/)
+xfce4-notifyd,296,0,0,81,0,0,296,296,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+xfce4-panel,1665,0,26,403,0,10,1665,1691,98.46244825547014,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+xfce4-panel-profiles,99,0,0,26,0,0,99,99,100.0,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+xfce4-places-plugin,162,0,0,47,0,0,162,162,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-power-manager,1046,0,0,210,0,0,1046,1046,100.0,English (Australia) (http://www.transifex.com/xfce/xfce4-power-manager/language/en_AU/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,148,148,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-screensaver,681,0,0,151,0,0,681,681,100.0,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+xfce4-screenshooter,456,0,0,76,0,0,456,456,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+xfce4-sensors-plugin,390,0,0,85,0,0,390,390,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-session,798,0,0,163,0,0,798,798,100.0,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+xfce4-settings,1931,0,9,450,0,3,1931,1940,99.5360824742268,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,22,22,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-systemload-plugin,87,0,0,23,0,0,87,87,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-taskmanager,259,0,0,88,0,0,259,259,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+xfce4-terminal,1722,0,0,402,0,0,1722,1722,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+xfce4-time-out-plugin,101,0,5,36,0,2,101,106,95.28301886792453,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-timer-plugin,134,0,0,42,0,0,134,134,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-verve-plugin,108,0,0,28,0,0,108,108,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,67,67,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-weather-plugin,3560,0,116,333,0,4,3560,3676,96.84439608269858,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfce4-xkb-plugin,35,0,13,13,0,8,35,48,72.91666666666666,English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/)
+xfconf,458,0,0,68,0,0,458,458,100.0,English (Australia) (http://www.transifex.com/xfce/xfconf/language/en_AU/)
+xfdesktop,1025,0,12,243,0,3,1026,1037,98.84281581485052,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+xfmpc,175,0,0,78,0,0,175,175,100.0,English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/)
+xfwm4,631,0,1,168,0,1,632,632,99.84177215189874,English (Australia) (https://www.transifex.com/xfce/teams/16840/en_AU/)
+xpad,21,0,392,5,0,122,30,413,5.084745762711865,English (Australia) <en_AU@li.org>
+xreader,1374,0,299,332,0,51,1374,1673,82.12791392707712,English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/)

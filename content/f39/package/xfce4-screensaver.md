@@ -1,0 +1,74 @@
+---
+title: "xfce4-screensaver - translation progress for f39"
+package: xfce4-screensaver
+date: 2026-01-18T08:54:15+00:00
+started_languages: 36
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 36
+release: f39
+---
+The package xfce4-screensaver (version 4.18.3):
+
+* represents 757 source words to be translated
+* is translated into 36 languages in Fedora f39
+
+
+* contains 36 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [bg]({{< ref "/f39/language/bg.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/bg.po | 
+ | [ca]({{< ref "/f39/language/ca.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/ca.po | 
+ | [da]({{< ref "/f39/language/da.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/da.po | 
+ | [de]({{< ref "/f39/language/de.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/de.po | 
+ | [es]({{< ref "/f39/language/es.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/es.po | 
+ | [fr]({{< ref "/f39/language/fr.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/fr.po | 
+ | [he]({{< ref "/f39/language/he.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/he.po | 
+ | [it]({{< ref "/f39/language/it.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/it.po | 
+ | [ja]({{< ref "/f39/language/ja.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/ja.po | 
+ | [ko]({{< ref "/f39/language/ko.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/ko.po | 
+ | [lt]({{< ref "/f39/language/lt.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/lt.po | 
+ | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/nb.po | 
+ | [nl]({{< ref "/f39/language/nl.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/nl.po | 
+ | [pl]({{< ref "/f39/language/pl.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/pl.po | 
+ | [pt]({{< ref "/f39/language/pt.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/pt.po | 
+ | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/pt_BR.po | 
+ | [ru]({{< ref "/f39/language/ru.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/ru.po | 
+ | [sl]({{< ref "/f39/language/sl.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/sl.po | 
+ | [sq]({{< ref "/f39/language/sq.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/sq.po | 
+ | [sr]({{< ref "/f39/language/sr.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/sr.po | 
+ | [sv]({{< ref "/f39/language/sv.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/sv.po | 
+ | [tr]({{< ref "/f39/language/tr.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/tr.po | 
+ | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/zh_TW.po | 
+ | [eu]({{< ref "/f39/language/eu.md" >}}) | 693 | 757 | 91.5 | /mnt/stockage/packages/f39/xfce4-screensaver/po/eu.po | 
+ | [cs]({{< ref "/f39/language/cs.md" >}}) | 656 | 757 | 86.7 | /mnt/stockage/packages/f39/xfce4-screensaver/po/cs.po | 
+ | [hy]({{< ref "/f39/language/hy.md" >}}) | 643 | 743 | 86.5 | /mnt/stockage/packages/f39/xfce4-screensaver/po/hy_AM.po | 
+ | [be]({{< ref "/f39/language/be.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f39/xfce4-screensaver/po/be.po | 
+ | [gl]({{< ref "/f39/language/gl.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f39/xfce4-screensaver/po/gl.po | 
+ | [hu]({{< ref "/f39/language/hu.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f39/xfce4-screensaver/po/hu.po | 
+ | [ms]({{< ref "/f39/language/ms.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f39/xfce4-screensaver/po/ms.po | 
+ | [th]({{< ref "/f39/language/th.md" >}}) | 650 | 757 | 85.9 | /mnt/stockage/packages/f39/xfce4-screensaver/po/th.po | 
+ | [fi]({{< ref "/f39/language/fi.md" >}}) | 602 | 743 | 81.0 | /mnt/stockage/packages/f39/xfce4-screensaver/po/fi.po | 
+ | [en_AU]({{< ref "/f39/language/en_AU.md" >}}) | 596 | 743 | 80.2 | /mnt/stockage/packages/f39/xfce4-screensaver/po/en_AU.po | 
+ | [is]({{< ref "/f39/language/is.md" >}}) | 596 | 743 | 80.2 | /mnt/stockage/packages/f39/xfce4-screensaver/po/is.po | 
+ | [sk]({{< ref "/f39/language/sk.md" >}}) | 316 | 743 | 42.5 | /mnt/stockage/packages/f39/xfce4-screensaver/po/sk.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

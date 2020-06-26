@@ -1,0 +1,45 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,2922,0,414,617,0,107,2920,3336,87.58992805755396,English (Australia) <en_AU@li.org>
+ailurus,683,0,7823,89,0,1035,688,8506,8.029626146249706,none
+avahi,2,0,824,2,0,153,2,826,0.24213075060532688,
+avant-window-navigator,0,0,1655,0,0,279,0,1655,0.0,English (Australia) <en_AU@li.org>
+avogadro,4120,0,142,1521,0,24,4154,4262,96.66823087752229,English (Australia) <en_AU@li.org>
+bzr-explorer,1576,0,0,423,0,0,1576,1576,100.0,English (Australia) <en_AU@li.org>
+calibre,0,0,19998,0,0,2707,0,19998,0.0,English (Australia) <en_AU@li.org>
+evolution,65,2038,15099,26,677,3577,64,17202,0.37786303918149056,
+evolution-data-server,166,1000,3335,29,175,672,187,4501,3.688069317929349,
+evolution-rspam,0,0,194,0,0,32,0,194,0.0,LANGUAGE <LL@li.org>
+evolution-rss,0,0,589,0,0,160,0,589,0.0,LANGUAGE <LL@li.org>
+fuse-encfs,1294,8,13,133,2,4,1287,1315,98.40304182509506,English (Australia) <en_AU@li.org>
+gdesklets,41,0,1487,6,0,198,41,1528,2.6832460732984296,English (Australia) <en_AU@li.org>
+gnome-activity-journal,0,0,316,0,0,94,0,316,0.0,English (Australia) <en_AU@li.org>
+gnome-applet-timer,258,0,22,67,0,2,258,280,92.14285714285714,English (Australia) <en_AU@li.org>
+gnome-do,470,0,0,119,0,0,472,470,100.0,English (Australia) <en_AU@li.org>
+gnome-do-plugins,34,0,2289,4,0,578,34,2323,1.4636246233318984,English (Australia) <en_AU@li.org>
+gnomebaker,21,0,1165,8,0,283,21,1186,1.770657672849916,English (Australia) <en_AU@li.org>
+gourmet,107,138,3402,17,43,808,108,3647,2.9339182890046613,English (Australia) <en_AU@li.org>
+gwibber,22,0,23,14,0,10,22,45,48.888888888888886,English (Australia) <en_AU@li.org>
+gxmessage,12,0,233,2,0,33,12,245,4.8979591836734695,LANGUAGE <LL@li.org>
+homebank,193,0,1316,91,0,443,193,1509,12.789927104042413,English (Australia) <en_AU@li.org>
+inkscape,6080,6325,11630,1289,1956,1735,6084,24035,25.296442687747035,English (Australia)
+jokosher,1460,0,599,272,0,137,1460,2059,70.90820786789703,English (Australia) <en_AU@li.org>
+ntfs-config,29,36,292,5,12,42,31,357,8.123249299719888,English (Australia) <en_AU@li.org>
+orage,9,4,2097,4,2,763,9,2110,0.42654028436018954,Austrilian English <en_gb@li.org>
+pastebinit,127,0,38,18,0,7,127,165,76.96969696969697,English (Australia) <en_AU@li.org>
+pidgin,6287,6759,5684,1461,1760,840,6287,18730,33.566470902295784,English/AU <trans@six-by-nine.com.au>
+pidgin-guifications,442,32,31,183,4,5,444,505,87.52475247524752,English (Australian) <trans@six-by-nine.com.au>
+pidgin-musictracker,333,0,0,60,0,0,333,333,100.0,English (Australia) <en_AU@li.org>
+pmount,723,0,0,63,0,0,723,723,100.0,English (Australia) <en_AU@li.org>
+purple-plugin_pack,0,15,4993,0,1,746,0,5008,0.0,English/AU <trans@six-by-nine.com.au>
+rapid-photo-downloader,10,0,1246,2,0,253,15,1256,0.7961783439490446,English (Australia) <en_AU@li.org>
+rec-applet,85,3,19,32,1,4,85,107,79.43925233644859,English (Australia) <en_AU@li.org>
+soundconverter,368,45,37,84,10,15,368,450,81.77777777777779,English (Australia) <en_AU@li.org>
+stellarium,1849,0,558,634,0,307,1848,2407,76.81761528874117,English (Australia) <en_AU@li.org>
+sweep,2,0,2397,1,0,537,2,2399,0.08336807002917883,English/Australia <LL@li.org>
+terminator,218,0,0,100,0,0,218,218,100.0,English (Australia) <en_AU@li.org>
+tortoisehg,5080,0,1221,1320,0,194,5080,6301,80.6221234724647,English (Australia) <en_AU@li.org>
+transmission,1169,0,473,365,0,84,1174,1642,71.19366626065774,English (Australia) <en_AU@li.org>
+tuxpaint,445,523,279,124,60,68,445,1247,35.68564554931836,English (Australia) <en_AU@li.org>
+tuxpaint-stamps,1045,130,1442,260,53,313,1045,2617,39.93121895299962,English (Australia) <en_AU@li.org>
+widelands,0,0,1448,0,0,55,0,1448,0.0,English (Australia) <en_AU@li.org>
+xchat-gnome,3618,185,98,944,22,14,3624,3901,92.74544988464496,English (Australia) <en_AU@li.org>

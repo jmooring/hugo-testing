@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+breezy,0,0,36640,0,0,2552,0,36640,0.0,Scots <sco@li.org>
+cinnamon-translations,958,0,8685,292,0,1904,958,9643,9.934667634553563,Scots <sco@li.org>
+elementary-camera,133,0,8,35,0,1,133,141,94.32624113475178,Scots <https://l10n.elementaryos.org/projects/camera/camera/sco/>
+elementary-notifications,2,0,38,1,0,7,2,40,5.0,Scots <https://l10n.elementaryos.org/projects/desktop/notifications-extra/sco/>
+folder-color-switcher,51,0,14,22,0,1,51,65,78.46153846153847,Scots <sco@li.org>
+gala,300,3,16,63,1,3,306,319,94.04388714733543,Scots <https://l10n.elementaryos.org/projects/desktop/gala/sco/>
+granite-7,5,2,589,3,1,108,5,596,0.8389261744966443,none
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Scots (http://www.transifex.com/mate/MATE/language/sco/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,Scots (http://www.transifex.com/mate/MATE/language/sco/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Scots (http://app.transifex.com/mate/MATE/language/sco/)
+picard,16,20,7946,6,4,1171,22,7982,0.20045101478326235,Scots <https://translations.metabrainz.org/projects/picard/2/app/sco/>

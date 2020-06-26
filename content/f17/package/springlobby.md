@@ -1,0 +1,54 @@
+---
+title: "springlobby - translation progress for f17"
+package: springlobby
+date: 2026-01-20T02:57:55+00:00
+started_languages: 16
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 16
+release: f17
+---
+The package springlobby (version 0.169):
+
+* represents 7129 source words to be translated
+* is translated into 16 languages in Fedora f17
+
+
+* contains 16 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 4077 | 7129 | 57.2 | /mnt/stockage/packages/f17/springlobby/po/zh_CN.po | 
+ | [de]({{< ref "/f17/language/de.md" >}}) | 4008 | 7129 | 56.2 | /mnt/stockage/packages/f17/springlobby/po/de.po | 
+ | [fr]({{< ref "/f17/language/fr.md" >}}) | 3525 | 7129 | 49.4 | /mnt/stockage/packages/f17/springlobby/po/fr.po | 
+ | [ru]({{< ref "/f17/language/ru.md" >}}) | 3244 | 7129 | 45.5 | /mnt/stockage/packages/f17/springlobby/po/ru.po | 
+ | [el]({{< ref "/f17/language/el.md" >}}) | 2660 | 7129 | 37.3 | /mnt/stockage/packages/f17/springlobby/po/el.po | 
+ | [ro]({{< ref "/f17/language/ro.md" >}}) | 2622 | 7129 | 36.8 | /mnt/stockage/packages/f17/springlobby/po/ro.po | 
+ | [es]({{< ref "/f17/language/es.md" >}}) | 1869 | 7129 | 26.2 | /mnt/stockage/packages/f17/springlobby/po/es.po | 
+ | [it]({{< ref "/f17/language/it.md" >}}) | 1787 | 7129 | 25.1 | /mnt/stockage/packages/f17/springlobby/po/it.po | 
+ | [da]({{< ref "/f17/language/da.md" >}}) | 1706 | 7129 | 23.9 | /mnt/stockage/packages/f17/springlobby/po/da.po | 
+ | [cs]({{< ref "/f17/language/cs.md" >}}) | 1612 | 7129 | 22.6 | /mnt/stockage/packages/f17/springlobby/po/cs.po | 
+ | [fi]({{< ref "/f17/language/fi.md" >}}) | 1277 | 7129 | 17.9 | /mnt/stockage/packages/f17/springlobby/po/fi.po | 
+ | [pt]({{< ref "/f17/language/pt.md" >}}) | 1216 | 7129 | 17.1 | /mnt/stockage/packages/f17/springlobby/po/pt.po | 
+ | [sv]({{< ref "/f17/language/sv.md" >}}) | 1024 | 7129 | 14.4 | /mnt/stockage/packages/f17/springlobby/po/sv.po | 
+ | [uk]({{< ref "/f17/language/uk.md" >}}) | 198 | 7129 | 2.8 | /mnt/stockage/packages/f17/springlobby/po/uk.po | 
+ | [ar]({{< ref "/f17/language/ar.md" >}}) | 174 | 7129 | 2.4 | /mnt/stockage/packages/f17/springlobby/po/ar.po | 
+ | [pl]({{< ref "/f17/language/pl.md" >}}) | 142 | 7129 | 2.0 | /mnt/stockage/packages/f17/springlobby/po/pl.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

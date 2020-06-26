@@ -1,0 +1,68 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anerley,5,0,0,5,0,0,5,5,100.0,Lao <lo@li.org>
+authconfig,0,0,1379,0,0,241,0,1379,0.0,LANGUAGE <LL@li.org>
+bisho,94,0,0,21,0,0,50,94,100.0,Lao <lo@li.org>
+bzr-explorer,1,0,1655,1,0,468,1,1656,0.06038647342995169,Lao <lo@li.org>
+chkconfig,0,0,487,0,0,93,0,487,0.0,LANGUAGE <LL@li.org>
+compiz,0,0,3250,0,0,717,0,3250,0.0,Lao <i18n@suse.de>
+console-setup,903,62,14,162,5,4,269,979,92.23697650663942,Lao <lo@li.org>
+control-center,0,0,1313,0,0,756,0,1313,0.0,none
+firstboot,0,0,596,0,0,56,0,596,0.0,LANGUAGE <LL@li.org>
+gnome-desktop,351,0,0,53,0,0,200,351,100.0,Lao <lo@li.org>
+gnome-desktop3,433,5,0,59,2,0,240,438,98.85844748858447,Lao <lo@li.org>
+gnome-menus,95,0,0,37,0,0,57,95,100.0,Lao <lo@li.org>
+gwibber,7,0,38,4,0,20,7,45,15.555555555555555,Lao <lo@li.org>
+im-chooser,0,0,226,0,0,53,0,226,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,404,0,0,74,0,404,0.0,LANGUAGE <LL@li.org>
+initscripts,0,0,4349,0,0,1070,0,4349,0.0,<XX@li.org>
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+koffice-kivio,2000,1806,4611,597,778,986,1091,8417,23.761435190685518,Vilaphone Manivanh <en@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libmx,16,0,24,9,0,8,10,40,40.0,Lao <lo@li.org>
+libreoffice,53942,2898,38657,18072,1657,9266,23731,95497,56.485544048504146,LANGUAGE <LL@li.org>
+libvirt,980,16945,11641,229,3066,1668,980,29566,3.3146181424609353,none
+mate-desktop,351,0,0,53,0,0,200,351,100.0,Lao <lo@li.org>
+meego-panel-applications,9,0,0,6,0,0,6,9,100.0,Lao <lo@li.org>
+meego-panel-status,24,0,130,11,0,13,13,154,15.584415584415584,Lao <lo@li.org>
+meego-panel-zones,3,3,27,2,2,3,3,33,9.090909090909092,Lao <lo@li.org>
+mingw32-libvirt,980,16874,11573,229,3051,1653,980,29427,3.330274917592687,none
+mutter-meego,106,0,278,58,0,41,85,384,27.604166666666668,Lao <lo@li.org>
+openconnect,0,0,2573,0,0,469,0,2573,0.0,Lao (http://www.transifex.net/projects/p/meego/team/lo/)
+openerp,325,0,14073,142,0,2323,155,14398,2.257257952493402,Lao <lo@li.org>
+openerp-client,11,0,7718,5,0,569,5,7729,0.14232112821839824,Lao <lo@li.org>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pidgin,72,59,18225,30,33,3840,46,18356,0.3922423185879277,Lao <lo@li.org>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhn-client-tools,0,0,4361,0,0,424,0,4361,0.0,none
+rhnsd,0,0,20,0,0,5,0,20,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+sos,0,0,267,0,0,36,0,267,0.0,none
+specspo,0,0,305286,0,0,16847,0,305286,0.0,none
+stellarium,0,0,7138,0,0,2491,0,7138,0.0,Lao <lo@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,0,0,119,0,0,23,0,119,0.0,none
+system-config-date,0,0,1850,0,0,824,0,1850,0.0,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,0,0,2814,0,0,331,0,2814,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,187,0,0,81,0,187,0.0,none
+system-config-kickstart,0,0,1104,0,0,245,0,1104,0.0,none
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-netboot,10,0,1093,3,0,162,10,1103,0.9066183136899365,none
+system-config-network,0,0,3032,0,0,721,0,3032,0.0,none
+system-config-nfs,0,0,332,0,0,72,0,332,0.0,none
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,3057,0,0,742,0,3057,0.0,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,571,0,0,134,0,571,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,518,0,0,71,0,518,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1452,0,0,173,0,1452,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+yum-rhn-plugin,0,0,100,0,0,12,0,100,0.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+filezilla,6458,0,11,1082,0,6,7600,6469,99.8299582624826,milliWHAT?
+gnubiff,1160,0,12,221,0,1,1282,1172,98.97610921501706,Français <fr@li.org>
+notecase,410,266,480,147,91,118,503,1156,35.46712802768166,Catherine Beauchemin <cbeau@users.sourceforge.net>

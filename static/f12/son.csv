@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+pootle,6525,0,0,3962,0,0,8166,6525,100.0,LANGUAGE <LL@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>
+virtaal,1389,0,0,430,0,0,1400,1389,100.0,LANGUAGE <LL@li.org>

@@ -1,0 +1,61 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+csound,3339,138,10533,729,27,1885,4303,14010,23.832976445396145,
+glpi,9384,0,51,2516,0,10,10593,9435,99.45945945945947,Spanish (Colombia) (http://www.transifex.com/projects/p/GLPI/language/es_CO/)
+gnomebaker,757,16,413,123,3,165,872,1186,63.82799325463744,Spanish (Colombia) <es_CO@li.org>
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmateweather,361,0,126,153,0,28,425,487,74.12731006160165,LANGUAGE <LL@li.org>
+mate-applets,1814,0,469,423,0,119,2168,2283,79.4568550153307,Spanish (Colombia) (http://www.transifex.com/projects/p/MATE/language/es_CO/)
+openerp,0,0,0,0,0,0,0,0,0.0,Spanish (Colombia) <es_CO@li.org>
+openerp7,270,0,42,40,0,6,339,312,86.53846153846155,Spanish (Colombia) <es_CO@li.org>
+python-django-helpdesk,1138,0,2104,164,0,323,1177,3242,35.101789019124,Spanish (Colombia) (http://www.transifex.com/projects/p/django-helpdesk/language/es_CO/)
+trytond,2672,0,11,1246,2,1,3337,2683,99.59001118151323,
+trytond-account,2313,14,0,1026,6,0,2622,2327,99.39836699613235,
+trytond-account-invoice,1006,0,0,381,0,0,1130,1006,100.0,
+trytond-account-invoice-history,2,0,0,1,0,0,3,2,100.0,
+trytond-account-invoice-line-standalone,24,0,0,8,0,0,36,24,100.0,
+trytond-account-product,202,0,0,71,0,0,225,202,100.0,
+trytond-account-statement,179,0,0,86,0,0,269,179,100.0,
+trytond-account-stock-anglo-saxon,0,13,33,0,1,7,0,46,0.0,
+trytond-account-stock-continental,124,27,56,27,13,15,124,207,59.90338164251207,
+trytond-analytic-account,193,0,0,100,0,0,213,193,100.0,
+trytond-analytic-invoice,2,0,0,1,0,0,2,2,100.0,
+trytond-analytic-purchase,162,0,0,96,0,0,180,162,100.0,
+trytond-analytic-sale,2,0,0,1,0,0,2,2,100.0,
+trytond-calendar,490,0,0,275,0,0,616,490,100.0,
+trytond-calendar-classification,2,0,0,2,0,0,2,2,100.0,
+trytond-calendar-scheduling,100,0,0,54,0,0,111,100,100.0,
+trytond-calendar-todo,203,0,0,129,0,0,278,203,100.0,
+trytond-company,128,4,0,83,2,0,148,132,96.96969696969697,
+trytond-company-work-time,18,0,0,5,0,0,23,18,100.0,
+trytond-country,6997,0,0,4910,0,0,7026,6997,100.0,
+trytond-currency,469,0,0,234,0,0,552,469,100.0,
+trytond-dashboard,38,2,0,24,1,0,53,40,95.0,
+trytond-google-maps,2,0,0,1,0,0,3,2,100.0,
+trytond-ldap-authentication,36,0,0,13,0,0,42,36,100.0,
+trytond-ldap-connection,64,0,0,33,0,0,74,64,100.0,
+trytond-party,301,0,0,156,0,0,358,301,100.0,
+trytond-party-siret,10,0,0,5,0,0,10,10,100.0,
+trytond-party-vcarddav,14,0,0,5,0,0,13,14,100.0,
+trytond-product,322,0,0,173,0,0,363,322,100.0,
+trytond-product-cost-fifo,23,0,0,4,0,0,25,23,100.0,
+trytond-product-cost-history,26,0,0,13,0,0,37,26,100.0,
+trytond-product-price-list,68,0,0,33,0,0,88,68,100.0,
+trytond-project,86,0,0,50,0,0,88,86,100.0,
+trytond-project-plan,91,0,6,50,0,1,116,97,93.81443298969072,
+trytond-project-revenue,64,0,0,28,0,0,79,64,100.0,
+trytond-purchase,621,14,0,315,3,0,702,635,97.79527559055119,
+trytond-purchase-invoice-line-standalone,53,0,0,24,0,0,66,53,100.0,
+trytond-sale,568,0,0,287,1,0,644,568,100.0,
+trytond-sale-opportunity,347,0,0,184,0,0,433,347,100.0,
+trytond-sale-price-list,5,0,0,2,0,0,8,5,100.0,
+trytond-stock,1261,3,0,576,1,0,1486,1264,99.7626582278481,
+trytond-stock-forecast,174,0,0,79,0,0,222,174,100.0,
+trytond-stock-inventory-location,4,13,0,2,9,0,4,17,23.52941176470588,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,27,2,0,16,1,0,38,29,93.10344827586206,
+trytond-stock-supply,237,2,0,101,1,0,296,239,99.16317991631799,
+trytond-stock-supply-day,29,0,0,19,0,0,43,29,100.0,
+trytond-timesheet,256,0,0,123,1,0,307,256,100.0,
+wicd,13,0,1125,3,0,251,17,1138,1.1423550087873462,es_CO <LL@li.org>
+xfe,3354,2376,71,982,77,14,3981,5801,57.81761765212894,Spanish
+xnoise,916,0,0,262,0,0,1090,916,100.0,fsistemas <f.sistemas@gmail.com>

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,5545,1069,6578,1424,168,911,4569,13192,42.03305033353548,Northern Sami <i18n-sme@lister.ping.uio.no>
+k3b,342,214,20074,219,83,2230,332,20630,1.6577799321376634,Northern Sami <i18n-sme@lister.ping.uio.no>
+kaffeine,871,0,1483,366,0,292,748,2354,37.000849617672046,Northern Sami <se@li.org>

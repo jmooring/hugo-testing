@@ -1,0 +1,42 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,3230,0,0,390,0,3230,0.0,Wolof (http://www.transifex.com/projects/p/fedora-abrt/language/wo/)
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+asunder,4,0,491,4,0,87,6,495,0.8080808080808081,http://littlesvr.ca/ostd/
+audience,0,0,106,0,0,48,0,106,0.0,
+ccsm,399,53,127,101,14,36,424,579,68.9119170984456,Wolof <wo@li.org>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Wolof (http://www.transifex.com/projects/p/certmonger/language/wo/)
+debconf,189,0,2,16,0,1,207,191,98.95287958115183,Wolof <debian-boot@lists.debian.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+harvey,0,0,57,0,0,12,0,57,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Wolof (http://www.transifex.com/projects/p/initial-setup/language/wo/)
+iso-codes,1005,58,26,426,16,8,1027,1089,92.28650137741047,Wolof
+isomaster,8,1,665,7,1,99,9,674,1.1869436201780417,http://littlesvr.ca/ostd/
+klavaro,1733,158,20,214,14,4,1948,1911,90.68550497121926,Wolof <wo@li.org>
+libreport,0,0,3501,0,0,452,0,3501,0.0,Wolof (http://www.transifex.com/projects/p/libreport/language/wo/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Wolof
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Wolof (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/wo/)
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Wolof (http://www.transifex.com/projects/p/python-meh/language/wo/)
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+sugar,0,0,1625,0,0,398,0,1625,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+system-config-kickstart,0,0,1144,0,0,253,0,1144,0.0,Wolof (http://www.transifex.com/projects/p/system-config-kickstart/language/wo/)
+tuxpaint,1591,0,0,291,0,0,1749,1591,100.0,
+tuxtype2,71,0,9,32,0,8,87,80,88.75,
+vocal,0,0,377,0,0,79,0,377,0.0,Wolof <wo@li.org>

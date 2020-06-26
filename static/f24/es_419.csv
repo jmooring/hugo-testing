@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+corebird,140,0,408,49,0,147,167,548,25.547445255474454,Spanish (Latin America) (http://www.transifex.com/corebird/corebird/language/es_419/)
+glpi,9578,0,1058,2575,0,230,10741,10636,90.0526513726965,Spanish (Latin America) (http://www.transifex.com/glpi/GLPI/language/es_419/)
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Spanish (Latin America) (http://www.transifex.com/mate/MATE/language/es_419/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Spanish (Latin America) (http://www.transifex.com/mate/MATE/language/es_419/)
+pacman,5398,0,0,896,0,0,7038,5398,100.0,Spanish (Latin America) (http://www.transifex.com/toofishes/archlinux-pacman/language/es_419/)

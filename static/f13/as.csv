@@ -1,0 +1,186 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4035,0,0,484,0,0,4044,4035,100.0,Assamese <>
+NetworkManager,2394,0,0,497,0,0,2541,2394,100.0,American English <fedora-trans-as@redhat.com>
+NetworkManager-openconnect,52,0,0,19,0,0,60,52,100.0,Assamese <fedora-trans-as@redhat.com>
+NetworkManager-openvpn,185,0,0,58,0,0,209,185,100.0,Assamese <fedora-trans-as@redhat.com>
+NetworkManager-pptp,115,0,0,42,0,0,144,115,100.0,Assamese <>
+NetworkManager-vpnc,139,0,0,36,0,0,153,139,100.0,Assamese <>
+PackageKit,1538,0,0,364,0,0,1696,1538,100.0,Assamese <>
+abrt,375,425,831,104,70,113,409,1631,22.992029429797668,Assamese <fedora-trans-as@redhat.com>
+alacarte,42,0,0,16,0,0,53,42,100.0,Assamese
+anaconda,7217,1499,1036,981,139,82,7110,9752,74.0053322395406,Assamese <>
+at-spi,24,0,0,5,0,0,25,24,100.0,Assamese <>
+atk,375,0,0,126,0,0,356,375,100.0,Assamese <fedora-trans-as@redhat.com>
+authconfig,1325,0,0,239,0,0,1477,1325,100.0,Assamese <>
+brasero,5057,8,437,916,4,72,5443,5502,91.91203198836787,Assamese <kde-i18n-doc@lists.kde.org>
+ccsm,103,0,413,10,0,116,91,516,19.961240310077518,LANGUAGE <LL@li.org>
+cheese,659,0,0,122,0,0,666,659,100.0,Assamese <>
+chkconfig,448,0,0,90,0,0,458,448,100.0,Assamese <fedora-trans-as@redhat.com>
+control-center,3245,0,0,786,0,0,3479,3245,100.0,Assamese <>
+cracklib,93,0,0,15,0,0,82,93,100.0,Assamese <>
+dasher,526,0,0,198,0,0,631,526,100.0,Assamese <fedora-trans-as@redhat.com>
+deskbar-applet,1665,0,0,357,0,0,1568,1665,100.0,Assamese <>
+desktop-effects,148,0,0,25,0,0,167,148,100.0,Assamese <>
+ekiga,4048,0,0,668,0,0,3908,4048,100.0,Assamese <fedora-trans-as@redhat.com>
+empathy,2286,0,401,601,0,20,2578,2687,85.07629326386305,Assamese <>
+eog,1454,0,0,296,0,0,1494,1454,100.0,Assamese <>
+eog-plugins,79,0,0,27,0,0,76,79,100.0,Assamese <fedora-trans-as@redhat.com>
+epiphany,4244,0,0,917,0,0,4319,4244,100.0,Assamese
+epiphany-extensions,888,0,0,244,0,0,1014,888,100.0,Assamese <fedora-trans-as@redhat.com>
+evince,1260,0,0,325,0,0,1359,1260,100.0,Assamese <>
+evolution,21083,0,1047,4961,0,91,21622,22130,95.26886579304113,Assamese <fedora-trans-as@redhat.com>
+evolution-data-server,5099,0,0,1039,0,0,5653,5099,100.0,Assamese <>
+evolution-exchange,1339,0,0,196,0,0,1345,1339,100.0,Assamese <fedora-trans-as@redhat.com>
+evolution-mapi,333,0,0,65,0,0,401,333,100.0,Assamese <>
+evolution-rss,700,0,0,190,0,0,763,700,100.0,Assamese <fedora-trans-as@redhat.com>
+f-spot,3510,0,0,821,0,0,3548,3510,100.0,American English <fedora-trans-as@redhat.com>
+file-roller,1277,0,0,286,0,0,1349,1277,100.0,Assamese <>
+firstboot,654,0,0,54,0,0,603,654,100.0,Assamese <fedora-trans-as@redhat.com>
+gcalctool,1295,0,382,426,0,26,1193,1677,77.22122838401908,Assamese <>
+gconf-editor,336,0,0,98,0,0,393,336,100.0,Assamese <fedora-trans-as@redhat.com>
+gdm,1308,0,0,235,0,0,1348,1308,100.0,American English <>
+gedit,4966,0,0,1105,0,0,5172,4966,100.0,Assamese <>
+gedit-plugins,230,0,0,63,0,0,250,230,100.0,Assamese
+glib2,2424,66,33,394,17,4,2506,2523,96.07609988109394,Assamese <>
+gnome-applets,3367,0,0,791,0,0,3140,3367,100.0,Assamese <>
+gnome-backgrounds,23,0,0,17,0,0,22,23,100.0,American English <kde-i18n-doc@lists.kde.org>
+gnome-bluetooth,592,0,0,157,0,0,700,592,100.0,Assamese <>
+gnome-desktop,351,0,0,53,0,0,375,351,100.0,Assamese <>
+gnome-disk-utility,4042,0,0,811,0,0,4235,4042,100.0,Assamese <>
+gnome-doc-utils,249,0,0,99,0,0,250,249,100.0,Assamese <>
+gnome-games,8435,0,83,1936,0,7,7271,8518,99.02559286217422,Assamese <>
+gnome-icon-theme,20,0,0,16,0,0,23,20,100.0,Assamese <fedora-trans-as@redhat.com>
+gnome-keyring,1823,0,0,276,0,0,1720,1823,100.0,Assamese <>
+gnome-mag,298,0,0,42,0,0,287,298,100.0,Assamese <fedora-trans-as@redhat.com>
+gnome-media,1190,0,0,287,0,0,1242,1190,100.0,Assamese <>
+gnome-menus,161,0,0,57,0,0,179,161,100.0,Assamese <>
+gnome-netstatus,418,0,0,106,0,0,412,418,100.0,Assamese <>
+gnome-nettool,617,0,0,213,0,0,666,617,100.0,Assamese <>
+gnome-packagekit,4936,283,31,823,25,4,4979,5250,94.01904761904763,Assamese <kde-i18n-doc@lists.kde.org>
+gnome-panel,4475,0,1,612,0,1,4345,4476,99.97765862377122,Assamese <>
+gnome-power-manager,2786,0,0,427,0,0,2228,2786,100.0,Assamese <>
+gnome-screensaver,989,0,0,157,0,0,567,989,100.0,Assamese <>
+gnome-session,638,0,0,111,0,0,677,638,100.0,Assamese <>
+gnome-settings-daemon,1624,0,0,245,0,0,1710,1624,100.0,Assamese <>
+gnome-system-monitor,918,0,0,239,0,0,1007,918,100.0,Assamese <fedora-trans-as@redhat.com>
+gnome-terminal,3885,0,0,431,0,0,3842,3885,100.0,Assamese <fedora-trans-as@redhat.com>
+gnome-themes,109,0,0,30,0,0,123,109,100.0,Assamese <fedora-trans-as@redhat.com>
+gnome-user-share,288,0,0,46,0,0,368,288,100.0,Assamese <>
+gnome-utils,3898,0,0,679,0,0,3610,3898,100.0,Assamese <>
+gnome-vfs2,1508,0,0,301,0,0,1391,1508,100.0,Assamese
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Assamese <>
+gnote,2031,0,0,296,0,0,1857,2031,100.0,Assamese <fedora-trans-as@redhat.com>
+gok,1937,0,0,443,0,0,1996,1937,100.0,Assamese <>
+gtk2,13286,293,125,2720,48,16,12049,13704,96.9497956800934,American English <>
+gtk2-engines,119,0,0,47,0,0,124,119,100.0,Assamese <fedora-trans-as@redhat.com>
+gtkhtml3,695,0,0,362,0,0,849,695,100.0,Assamese <>
+gtksourceview2,1120,0,0,448,0,0,1154,1120,100.0,Assamese <>
+gucharmap,803,0,0,298,0,0,850,803,100.0,Assamese <fedora-trans-as@redhat.com>
+gvfs,1858,0,0,445,0,0,2134,1858,100.0,Assamese <>
+hamster-applet,553,0,0,144,0,0,629,553,100.0,Assamese <>
+ibus,534,39,11,102,6,1,535,584,91.43835616438356,Assamese <fedora-trans-as@redhat.com>
+im-chooser,132,6,75,29,2,17,136,213,61.97183098591549,Assamese
+imsettings,979,0,0,155,0,0,908,979,100.0,Assamese <>
+initscripts,3997,341,69,969,104,14,5269,4407,90.69661901520308,Assamese <>
+iok,142,0,0,36,0,0,149,142,100.0,Assamese <>
+iso-codes,1865,2,0,937,1,0,1668,1867,99.89287627209427,Assamese <fedora-trans-as@redhat.com>
+kexec-tools,206,0,0,14,0,0,214,206,100.0,Assamese
+libbonobo,543,0,0,107,0,0,559,543,100.0,Assamese
+libbonoboui,368,0,0,115,0,0,411,368,100.0,Assamese
+libgnome,1772,0,0,273,0,0,1733,1772,100.0,Assamese <fedora-trans-as@redhat.com>
+libgnomecanvas,378,0,0,95,0,0,378,378,100.0,Assamese <fedora-trans-as@redhat.com>
+libgnomekbd,246,0,0,51,0,0,254,246,100.0,Assamese <>
+libgnomeprint22,168,0,0,98,0,0,172,168,100.0,Assamese <fedora-trans-as@redhat.com>
+libgnomeprintui22,481,0,0,154,0,0,515,481,100.0,Assamese <fedora-trans-as@redhat.com>
+libgnomeui,1309,0,0,334,0,0,1340,1309,100.0,Assamese
+libgtop2,126,0,0,40,0,0,155,126,100.0,Assamese <fedora-trans-as@redhat.com>
+libgweather,6051,0,0,4518,0,0,6029,6051,100.0,Assamese <>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libuser,1106,8,0,232,1,0,1259,1114,99.2818671454219,Assamese <>
+libvirt,12002,4738,3443,2266,824,409,12896,20183,59.465887132735475,Assamese <>
+libwnck,1124,0,0,241,0,0,1192,1124,100.0,Assamese <fedora-trans-as@redhat.com>
+lxmenu-data,97,0,0,37,0,0,105,97,100.0,Assamese
+metacity,3821,0,0,406,0,0,3691,3821,100.0,Assamese <>
+mingw32-atk,375,0,0,126,0,0,356,375,100.0,Assamese <fedora-trans-as@redhat.com>
+mingw32-glib2,2424,66,33,394,17,4,2506,2523,96.07609988109394,Assamese <>
+mingw32-gtk2,13286,293,125,2720,48,16,12049,13704,96.9497956800934,American English <>
+mingw32-gtkhtml3,695,0,0,362,0,0,849,695,100.0,Assamese <>
+mousetweaks,715,0,0,94,0,0,664,715,100.0,Assamese <>
+multimedia-menus,56,0,0,22,0,0,61,56,100.0,Assamese <kde-i18n-doc@lists.kde.org>
+mutter,3864,0,0,413,0,0,3485,3864,100.0,Assamese <fedora-trans-as@redhat.com>
+mutter-mbl,3864,0,0,413,0,0,3485,3864,100.0,Assamese <fedora-trans-as@redhat.com>
+nautilus,8620,0,0,1388,0,0,7988,8620,100.0,Assamese <>
+nautilus-open-terminal,166,0,0,16,0,0,145,166,100.0,Assamese <fedora-trans-as@redhat.com>
+nautilus-sendto,316,0,0,67,0,0,317,316,100.0,Assamese <fedora-trans-as@redhat.com>
+newt,4,0,0,4,0,0,5,4,100.0,Assamese <>
+pam,599,0,0,120,0,0,644,599,100.0,Assamese <fedora-trans-as@redhat.com>
+paprefs,51,70,10,8,13,2,58,131,38.93129770992366,Assamese <fedora-trans-as@redhat.com>
+passwd,299,0,0,53,0,0,361,299,100.0,Assamese <fedora-trans-as@redhat.com>
+pavucontrol,198,12,27,72,8,7,215,237,83.54430379746836,Assamese <fedora-trans-as@redhat.com>
+pessulus,130,0,0,33,0,0,169,130,100.0,Assamese <>
+policycoreutils,1180,236,54,210,37,13,1231,1470,80.27210884353741,Assamese
+publican,925,0,169,45,0,27,862,1094,84.55210237659963,Assamese <>
+publican-fedora,106,0,1,5,0,1,87,107,99.06542056074767,Assamese
+publican-jboss,100,0,6,4,0,1,81,106,94.33962264150944,Assamese
+publican-ovirt,288,0,0,27,0,0,261,288,100.0,Assamese
+publican-redhat,109,88,23,6,4,3,90,220,49.54545454545455,Assamese <>
+pulseaudio,2694,46,109,371,16,41,2787,2849,94.55949455949457,Assamese
+pykickstart,284,0,0,25,0,0,273,284,100.0,Assamese <fedora-trans-as@redhat.com>
+python-meh,269,0,0,33,0,0,260,269,100.0,Assamese <>
+redhat-menus,261,0,0,86,0,0,304,261,100.0,Assamese <fedora-trans-as@redhat.com>
+rhn-client-tools,4135,221,464,401,26,27,3996,4820,85.78838174273858,Assamese <assam@mm.assam-glug.org>
+rhnsd,42,0,0,10,0,0,47,42,100.0,Assamese <assam@mm.assam-glug.org>
+rhythmbox,4505,0,0,1057,0,0,3889,4505,100.0,Assamese <fedora-trans-as@redhat.com>
+sabayon,656,66,14,146,13,7,710,736,89.13043478260869,Assamese <>
+scim,1173,0,0,281,0,0,1083,1173,100.0,Assamese <fedora-trans-as@redhat.com>
+seahorse,3042,0,0,655,0,0,3243,3042,100.0,Assamese <>
+seahorse-plugins,1159,0,0,247,0,0,1365,1159,100.0,Assamese <fedora-trans-as@redhat.com>
+setroubleshoot,267,90,206,90,18,60,293,563,47.42451154529307,Assamese <>
+setroubleshoot-plugins,1611,2498,3709,38,68,258,1472,7818,20.606293169608595,Assamese
+setuptool,55,0,0,14,0,0,57,55,100.0,Assamese <fedora-trans-as@redhat.com>
+shutter,1,0,2242,1,0,468,5,2243,0.04458314757021846,Assamese <as@li.org>
+smolt,1174,0,0,212,0,0,1176,1174,100.0,Assamese <>
+sos,174,76,17,31,2,3,177,267,65.1685393258427,Assamese
+sound-juicer,1022,0,0,198,0,0,1075,1022,100.0,Assamese <>
+switchdesk,139,0,0,20,0,0,132,139,100.0,Assamese <fedora-trans-as@redhat.com>
+system-config-audit,1241,0,0,267,0,0,1327,1241,100.0,Assamese <fedora-trans-as@redhat.com>
+system-config-bind,9419,0,0,1064,0,0,9142,9419,100.0,Assamese <fedora-trans-as@redhat.com>
+system-config-boot,50,0,69,13,0,10,48,119,42.016806722689076,Assamese <>
+system-config-date,1675,58,17,783,14,2,1846,1750,95.71428571428572,Assamese <>
+system-config-date-docs,0,24,704,0,7,46,0,728,0.0,Assamese <fedora-trans-as@redhat.com>
+system-config-display,415,0,0,69,0,0,524,415,100.0,Assamese
+system-config-firewall,2686,30,91,322,3,5,2646,2807,95.68934805842537,American English <fedora-trans-as@redhat.com>
+system-config-httpd,877,0,0,227,0,0,946,877,100.0,Assamese <>
+system-config-kdump,235,87,485,13,19,106,214,807,29.120198265179674,Assamese
+system-config-keyboard,187,0,0,81,0,0,190,187,100.0,Assamese
+system-config-kickstart,1103,0,0,244,0,0,1182,1103,100.0,Assamese <>
+system-config-language,293,0,30,54,0,2,315,323,90.71207430340557,Assamese <>
+system-config-lvm,2246,0,0,344,0,0,2305,2246,100.0,American English <fedora-trans-as@redhat.com>
+system-config-netboot,1135,0,0,168,0,0,1124,1135,100.0,Assamese
+system-config-network,3022,0,0,718,0,0,3398,3022,100.0,American English <fedora-trans-as@redhat.com>
+system-config-nfs,332,0,0,72,0,0,373,332,100.0,Assamese
+system-config-nfs-docs,332,0,0,71,0,0,372,332,100.0,Assamese <fedora-trans-as@redhat.com>
+system-config-printer,2560,0,550,612,0,143,2693,3110,82.31511254019293,Assamese <None>
+system-config-rootpassword,116,0,0,19,0,0,115,116,100.0,Assamese
+system-config-samba,388,0,147,118,0,12,430,535,72.52336448598132,Assamese <>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,404,0,0,57,0,0,390,404,100.0,American English <fedora-trans-as@redhat.com>
+system-config-services-docs,0,5,633,0,3,25,0,638,0.0,Assamese <fedora-trans-as@redhat.com>
+system-config-users,1287,0,169,160,0,14,1161,1456,88.39285714285714,American English <fedora-trans-as@redhat.com>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,74,81,100.0,Assamese
+system-switch-mail,158,0,0,24,0,0,169,158,100.0,Assamese <fedora-trans-as@redhat.com>
+tomboy,2870,0,0,415,0,0,2299,2870,100.0,Assamese <>
+totem,2699,0,0,602,0,0,2760,2699,100.0,Assamese <>
+totem-pl-parser,28,0,0,7,0,0,26,28,100.0,Assamese <fedora-trans-as@redhat.com>
+tuxtype2,71,0,9,32,0,8,72,80,88.75,American English <kde-i18n-doc@lists.kde.org>
+usermode,564,0,0,95,0,0,551,564,100.0,Assamese <fedora-trans-as@redhat.com>
+vinagre,1164,0,0,209,0,0,1201,1164,100.0,Assamese <>
+vino,1215,0,0,136,0,0,1287,1215,100.0,Assamese <>
+virt-manager,3190,604,559,776,142,80,3454,4353,73.28279347576384,Assamese <>
+virt-top,351,0,0,73,0,0,417,351,100.0,Assamese <fedora-trans-as@redhat.com>
+volume_key,726,0,0,149,0,0,783,726,100.0,Assamese <>
+vte,84,0,0,14,0,0,96,84,100.0,Assamese <fedora-trans-as@redhat.com>
+yelp,1094,0,0,357,0,0,1122,1094,100.0,Assamese <>
+yum-rhn-plugin,62,0,45,9,0,5,63,107,57.943925233644855,Assamese <assam@mm.assam-glug.org>
+zenity,582,0,0,135,0,0,712,582,100.0,Assamese <fedora-trans-as@redhat.com>

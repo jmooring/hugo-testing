@@ -1,0 +1,24 @@
+<!--
+If you want to include any custom html just before </head>, put it in /layouts/partials/head_custom.html
+Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/head_custom.html doesn't exist.
+-->
+<link href="{{ "css/jqvmap.css" | absURL }}" media="screen" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="{{ "js/sorttable.js"  | absURL }}"></script>
+<script type="text/javascript" src="{{ "js/jquery.js"  | absURL }}"></script>
+<script type="text/javascript" src="{{ "js/jquery.vmap.js"  | absURL }}"></script>
+<script type="text/javascript" src="{{ "js/jquery.vmap.world.js"  | absURL }}" charset="utf-8"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  jQuery('#vmap').vectorMap(
+    {
+        map: 'world_en',
+        onRegionClick: function(element, code, region)
+        {
+            window.open('territories/' + code + '/',"_self")
+        }
+    }
+    );
+});
+</script>

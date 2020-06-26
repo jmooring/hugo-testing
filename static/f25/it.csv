@@ -1,0 +1,1515 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,136,0,0,33,0,0,137,136,100.0,Italian (http://www.transifex.com/wildfire-games/0ad/language/it/)
+4Pane,12289,0,11,1804,0,6,11725,12300,99.91056910569107,Andrea Zanellato <zanellato.andrea@gmail.com>
+DivFix++,551,0,0,104,0,0,656,551,100.0,Giovanni Fiocco <Vecna at Vecna.Vecna>
+GConf2,4088,0,0,497,0,0,4609,4088,100.0,Italiano <tp@lists.linux.it>
+NetworkManager,10004,979,112,1452,146,16,10851,11095,90.1667417755746,Italian <tp@lists.linux.it>
+NetworkManager-fortisslvpn,205,0,0,42,0,0,219,205,100.0,Italian <tp@lists.linux.it>
+NetworkManager-iodine,80,0,0,25,0,0,90,80,100.0,Italian <tp@lists.linux.it>
+NetworkManager-l2tp,355,49,379,64,8,58,389,783,45.338441890166024,Italian <tp@lists.linux.it>
+NetworkManager-libreswan,133,0,0,33,0,0,149,133,100.0,Italian <tp@lists.linux.it>
+NetworkManager-openconnect,346,1798,2780,93,391,390,400,4924,7.0268074735987005,Italian <tp@lists.linux.it>
+NetworkManager-openvpn,1039,0,0,167,0,0,1141,1039,100.0,Italian <tp@lists.linux.it>
+NetworkManager-pptp,417,0,0,74,0,0,460,417,100.0,Italian <tp@lists.linux.it>
+NetworkManager-ssh,39,43,204,17,14,38,39,286,13.636363636363635,Italian <tp@lists.linux.it>
+NetworkManager-sstp,413,0,0,75,0,0,459,413,100.0,Italian <tp@lists.linux.it>
+NetworkManager-vpnc,511,0,0,91,0,0,549,511,100.0,Italian <tp@lists.linux.it>
+PackageKit,1273,0,0,318,0,0,1447,1273,100.0,Italian (http://www.transifex.com/freedesktop/packagekit/language/it/)
+R,12667,8189,6480,2190,1238,907,14291,27336,46.338162130523855,Italian <it@li.org>
+Thunar,4200,0,0,738,0,0,4274,4200,100.0,Italian (http://www.transifex.com/xfce/thunar/language/it/)
+WindowMaker,4286,0,14,807,0,4,4648,4300,99.67441860465117,Italian <tp@lists.linux.it@li.org>
+Zim,2815,0,0,690,0,0,3206,2815,100.0,Italian <it@li.org>
+a2ps,478,829,205,115,49,15,559,1512,31.613756613756617,Italian <it@li.org>
+abook,710,36,52,183,10,17,752,798,88.97243107769424,none
+abrt,2546,0,1423,340,0,136,2845,3969,64.14714033761652,Italian (http://www.transifex.com/projects/p/fedora-abrt/language/it/)
+accerciser,2131,0,0,320,0,0,2235,2131,100.0,Italian <tp@lists.linux.it>
+accountsservice,59,0,0,10,0,0,71,59,100.0,Italian (http://www.transifex.com/projects/p/freedesktop/language/it/)
+ailurus,6588,0,1690,1013,0,240,7221,8278,79.58444068615607,none
+aisleriot,3075,0,0,679,0,0,3032,3075,100.0,Italian <tp@lists.linux.it>
+alacarte,42,0,0,16,0,0,47,42,100.0,Italian <tp@lists.linux.it>
+alexandria,1073,39,69,281,11,14,1127,1181,90.85520745131245,Alexandria
+alleyoop,310,7,25,79,1,7,350,342,90.64327485380117,Italian <tp@lists.linux.it>
+amarok,15872,0,0,2779,0,0,17077,15872,100.0,Italian <kde-i18n-it@kde.org>
+anaconda,6725,471,73,1133,39,18,7003,7269,92.51616453432383,Italian (http://www.transifex.com/projects/p/anaconda/language/it/)
+anjuta,8398,0,0,2059,0,0,9128,8398,100.0,tp@lists.linux.it
+appcenter,681,0,0,147,0,0,779,681,100.0,Italian <https://l10n.elementary.io/projects/appcenter/appcenter/it/>
+appstream,815,0,0,186,0,0,872,815,100.0,Italian <https://hosted.weblate.org/projects/appstream/translations/it/>
+apt,534,924,2645,105,155,216,551,4103,13.014867170363148,Italian <it@li.org>
+apt-cacher-ng,394,0,0,25,0,0,424,394,100.0,Italian <debian-l10n-italian@lists.debian.org>
+arandr,173,0,0,38,0,0,183,173,100.0,Italian <https://hosted.weblate.org/projects/arandr/translations/it/>
+ardour2,7371,686,1626,1958,117,292,8557,9683,76.12310234431477,Italian <sound@ecciproduzioni.com>
+ardour4,9014,2,7600,2370,1,1237,10051,16616,54.24891670678864,Italiano <>
+ardour5,8445,5,11046,2245,3,2009,9418,19496,43.31657775954042,Italiano <>
+arduino,2540,0,26,447,0,15,2770,2566,98.98674980514419,Italian (Italy) (http://www.transifex.com/projects/p/arduino-ide-15/language/it_IT/)
+aria2,2676,0,4642,229,0,165,2977,7318,36.56736813336977,Italian <it@li.org>
+arm-none-eabi-binutils-cs,17028,0,0,2800,0,0,19717,17028,100.0,Italian <tp@lists.linux.it>
+arm-none-eabi-gdb,1371,0,0,234,0,0,1595,1371,100.0,Italian <tp@lists.linux.it>
+aspell,1726,0,0,293,0,0,1793,1726,100.0,Italian <tp@lists.linux.it>
+asunder,471,0,9,85,0,2,513,480,98.125,Valerio Guaglianone (aka Valpenguin) <valpenguin@gmail.com>
+at-spi2-core,10,0,0,2,0,0,9,10,100.0,Italian <tp@lists.linux.it>
+atk,440,0,0,169,0,0,491,440,100.0,Italian <tp@lists.linux.it>
+atomix,146,0,0,59,0,0,151,146,100.0,Italian <tp@lists.linux.it>
+atril,3642,0,0,609,0,0,3804,3642,100.0,Italian <tp@lists.linux.it>
+audacious,692,0,76,303,0,23,776,768,90.10416666666666,Italian (http://www.transifex.com/jlindgren/audacious/language/it/)
+audacious-plugins,3409,0,495,802,0,74,3695,3904,87.32069672131148,Italian (http://www.transifex.com/jlindgren/audacious/language/it/)
+audacity,12968,0,0,2969,0,0,14106,12968,100.0,italiano <audacity-translation@lists.sourceforge.net>
+audex,3304,43,0,406,6,0,3692,3347,98.71526740364506,Italian <kde-i18n-it@kde.org>
+audience,182,0,0,62,0,0,248,182,100.0,Italian <it@li.org>
+audit-viewer,611,0,0,185,0,0,641,611,100.0,LANGUAGE <LL@li.org>
+authconfig,1671,38,6,291,4,1,1824,1715,97.43440233236151,Italian (http://www.transifex.com/projects/p/fedora/language/it/)
+autotest-framework,249,211,523,16,14,59,206,983,25.33062054933876,Italian
+avahi,865,2,1,165,2,1,986,868,99.65437788018433,Italian (http://www.transifex.com/lennart/avahi/language/it/)
+avogadro,4793,0,1814,2071,0,301,5936,6607,72.544271227486,Italian <it@li.org>
+avr-binutils,17028,0,0,2800,0,0,19717,17028,100.0,Italian <tp@lists.linux.it>
+b43-fwcutter,67,0,0,4,0,0,70,67,100.0,Italian <debian-l10n-italian@lists.debian.org>
+backintime,1859,0,124,328,0,8,1979,1983,93.74684820978317,Italian <it@li.org>
+backup-manager,947,38,78,149,7,11,1025,1063,89.08748824082785,ITALIAN <xenon@ngi.it>
+bacula,0,0,20037,0,0,3102,0,20037,0.0,Italian <bacula-devel@lists.sourceforge.net>
+bacula2,0,0,20287,0,0,3178,0,20287,0.0,Italian <bacula-devel@lists.sourceforge.net>
+ballerburg,295,0,0,86,0,0,286,295,100.0,Italian
+balsa,5631,119,27,1346,29,9,6306,5777,97.47273671455773,Italian <tp@lists.linux.it>
+banshee,5958,0,0,1543,0,0,6280,5958,100.0,Italiano <tp@lists.linux.it>
+banshee-community-extensions,1314,0,6,308,0,2,1358,1320,99.54545454545455,LANGUAGE <LL@li.org>
+baobab,946,0,0,104,0,0,989,946,100.0,Italian <tp@lists.linux.it>
+bareftp,448,0,0,160,0,0,477,448,100.0,Italian <None>
+bash,7752,3377,49,518,35,7,8496,11178,69.35050993022007,Italian <tp@lists.linux.it>
+bibletime,6152,3567,1,559,84,1,5947,9720,63.29218106995885,Italian <kde-i18n-it@kde.org>
+bijiben,309,0,0,103,0,0,338,309,100.0,Italian <tp@lists.linux.it>
+binutils,17028,0,0,2800,0,0,19717,17028,100.0,Italian <tp@lists.linux.it>
+bison,393,518,505,77,69,67,444,1416,27.75423728813559,Italian <tp@lists.linux.it>
+bleachbit,1178,0,0,260,0,0,1377,1178,100.0,Italian <it@li.org>
+blender,79872,0,0,19831,0,0,86892,79872,100.0,blend-it <https://developer.blender.org/T42765>
+blivet-gui,696,15,0,189,2,0,754,711,97.8902953586498,Italian
+blueberry,141,0,0,34,0,0,154,141,100.0,Italian <it@li.org>
+bluedevil,555,1,0,186,1,0,594,556,99.82014388489209,Italian <kde-i18n-it@kde.org>
+bluefish,4945,0,0,1548,0,0,5668,4945,100.0,
+blueman,1446,0,0,351,0,0,1663,1446,100.0,Italian (http://www.transifex.com/projects/p/MATE/language/it/)
+boinc-client,20054,0,0,3364,0,0,22186,20054,100.0,Italian (Italy) (http://www.transifex.com/boinc/boinc/language/it_IT/)
+boswars,196,10,10,60,4,9,202,216,90.74074074074075,LANGUAGE <LL@li.org>
+bpython,13,0,329,3,0,58,13,342,3.8011695906432745,Michele Orrù
+brasero,9118,0,0,1243,0,0,8790,9118,100.0,Italian <tp@lists.linux.it>
+bygfoot,3720,0,0,774,0,0,3772,3720,100.0,Italian <tp@lists.linux.it>
+byobu,177,0,0,44,0,0,178,177,100.0,Italian <it@li.org>
+byzanz,238,0,0,53,0,0,259,238,100.0,Italiana <tp@lists.linux.it>
+bzflag,2657,0,56,513,0,5,3034,2713,97.9358643568006,
+bzr,863,0,32386,64,0,2289,968,33249,2.5955667839634273,Italian <it@li.org>
+cadaver,664,448,645,167,86,125,749,1757,37.79169038133182,Italian <tp@lists.linux.it>
+cairo-clock,270,0,0,60,0,0,308,270,100.0,Mirco MÃ¦ller <macslow@bangang.de>
+cairo-dock,7464,0,0,827,0,0,7349,7464,100.0,Italian <kde-i18n-it@lists.kde.org>
+cairo-dock-plug-ins,10203,0,0,1722,0,0,10492,10203,100.0,Italian <LL@li.org>
+caja,9313,0,0,1510,0,0,9555,9313,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+caja-actions,7753,328,212,723,41,23,8053,8293,93.48848426383697,Italian <tp@lists.linux.it>
+caja-extensions,556,0,0,127,0,0,577,556,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+caja-terminal,108,0,2,36,0,1,142,110,98.18181818181819,Italian <it@li.org>
+calibre,69869,0,82395,15148,0,2585,71994,152264,45.88674933011086,Italian (http://www.transifex.com/calibre/calibre/language/it/)
+camorama,559,0,0,133,0,0,666,559,100.0,IT <tp@lists.linux.it>
+capnet-assist,32,0,0,5,0,0,33,32,100.0,Italian <it@li.org>
+caribou,169,0,0,57,0,0,190,169,100.0,Italian <tp@lists.linux.it>
+catfish,507,0,143,93,0,15,549,650,78.0,Italian <it@li.org>
+ccsm,549,5,25,135,3,13,534,579,94.81865284974094,Italian <tp@lists.linux.it>
+celestia,2270,6,0,1085,1,0,2761,2276,99.73637961335676,Italian <tp@lists.linux.it>
+centerim,507,1099,1258,191,322,304,544,2864,17.702513966480446,Italiano <it@li.org>
+certmonger,1009,0,3947,172,0,658,1128,4956,20.3591606133979,Italian (http://www.transifex.com/projects/p/certmonger/language/it/)
+cgit,7608,119,2783,1546,17,367,8982,10510,72.3882017126546,Italian <tp@lists.linux.it>
+cheese,614,0,0,123,0,0,602,614,100.0,Italian <tp@lists.linux.it>
+cherokee,5108,758,667,1017,128,105,5348,6533,78.18766263584877,Italian <>
+cherrytree,2911,0,0,704,0,0,3143,2911,100.0,LANGUAGE <LL@li.org>
+childsplay,1116,25,85,180,13,19,1094,1226,91.02773246329528,Andrew <juzuccar@jumpy.it>
+chkconfig,513,0,0,96,0,0,541,513,100.0,Italian <trans-it@lists.fedoraproject.org>
+choqok,2100,55,4,543,9,1,2287,2159,97.26725335803613,Italian <kde-i18n-it@kde.org>
+chromium-bsu,966,29,77,162,4,19,1097,1072,90.11194029850746,Italian <valtermura@gmail.com>
+chromium-native_client,34056,0,0,5600,0,0,39434,34056,100.0,Italian <tp@lists.linux.it>
+cinnamon-control-center,1313,0,0,756,0,0,1427,1313,100.0,Italian <trans-it@lists-fedoraproject.org>
+cinnamon-desktop,231,0,0,31,0,0,231,231,100.0,Italian <tp@lists.linux.it>
+cinnamon-translations,22545,0,1746,4747,0,332,24311,24291,92.8121526491293,Italian <it@li.org>
+clamtk,472,0,0,141,0,0,539,472,100.0,Italian <kde-i18n-it@kde.org>
+claws-mail,19996,0,0,3910,0,0,21338,19996,100.0,Italian <luigi.vtt@gmail.com>
+clawsker,840,0,0,156,0,0,936,840,100.0,Italian <tp@lists.linux.it>
+clementine,5091,0,0,1352,0,0,5609,5091,100.0,Italian (http://www.transifex.com/davidsansome/clementine/language/it/)
+clipit,217,0,1,73,0,1,249,218,99.54128440366972,Italian (http://www.transifex.net/projects/p/clipit/language/it/)
+clutter,3057,0,0,675,0,0,3074,3057,100.0,Italian <tp@lists.linux.it>
+cmake-fedora,263,0,14,59,0,5,301,277,94.94584837545126,Italian
+codeblocks,581,9,93,100,3,4,632,683,85.06588579795023,Italian <tp@lists.linux.it>
+cogl,378,0,0,76,0,0,455,378,100.0,Italian <tp@lists.linux.it>
+colord,1885,0,43,203,0,8,1984,1928,97.76970954356847,Italian (http://www.transifex.com/hughsie/colord/language/it/)
+colord-kde,358,8,3,117,2,1,407,369,97.01897018970189,Italian <kde-i18n-it@kde.org>
+colorhug-client,1140,0,292,245,0,52,1276,1432,79.60893854748603,Italian (Italy) (http://www.transifex.com/hughsie/colorhug-client/language/it_IT/)
+compat-gnutls28,1358,51,30,320,12,7,1549,1439,94.37109103544128,Italian <tp@lists.linux.it>
+compat-gtkhtml314,485,0,0,309,0,0,511,485,100.0,Italian <tp@lists.linux.it>
+compat-wxGTK3-gtk2,7838,16,9,1883,7,3,8456,7863,99.68205519521811,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+compiz,3140,956,289,693,138,48,3596,4385,71.60775370581528,Italian <tp@lists.linux.it>
+compiz-plugins-experimental,1935,1009,1537,417,289,191,2091,4481,43.18232537380049,Italian <tp@lists.linux.it>
+compiz-plugins-extra,3417,179,82,685,32,11,3755,3678,92.90375203915171,Italian <tp@lists.linux.it>
+compiz-plugins-main,4145,22,51,796,6,9,4544,4218,98.26932195353248,Italian <tp@lists.linux.it>
+conduit,834,0,0,297,0,0,912,834,100.0,Italian <tp@lists.linux.it>
+console-setup,982,3,0,174,1,0,1010,985,99.69543147208122,Italian <tp@lists.linux.it>
+control-center,6505,0,0,2257,0,0,6948,6505,100.0,Italian <trans-it@lists-fedoraproject.org>
+corebird,389,0,159,164,0,32,407,548,70.98540145985402,Italian (http://www.transifex.com/corebird/corebird/language/it/)
+coreutils,10412,8059,2130,1146,406,178,11770,20601,50.54123586233678,Italian <tp@lists.linux.it>
+cpio,1795,86,21,293,15,5,2020,1902,94.37434279705573,Italian <tp@lists.linux.it>
+cppi,581,15,0,58,3,0,630,596,97.48322147651007,Italian <tp@lists.linux.it>
+cracklib,93,0,3,15,0,1,84,96,96.875,Novell Language <language@novell.com>
+cross-binutils,17028,0,0,2800,0,0,19717,17028,100.0,Italian <tp@lists.linux.it>
+crrcsim,603,0,0,205,0,0,603,603,100.0,
+cryptsetup,2500,7,0,394,1,0,3054,2507,99.7207818109294,Italian <tp@lists.linux.it>
+csound,2953,1812,10580,663,362,1832,3297,15345,19.244053437601824,csound6
+cssed,940,274,2223,319,70,305,983,3437,27.34943264474833,Italian <en@li.org>
+ctpl,400,0,0,75,0,0,452,400,100.0,Italian <tp@lists.linux.it>
+cups,7524,0,945,1556,0,323,9255,8469,88.84165781083954,Arch Linux Italian Team <giovanni@archlinux.org>
+cups-pk-helper,149,0,0,22,0,0,204,149,100.0,Italian (http://www.transifex.com/projects/p/freedesktop/language/it/)
+cura,4988,137,107,557,11,11,5076,5232,95.33639143730886,
+darktable,9452,0,0,2214,0,0,10172,9452,100.0,
+dasher,634,0,0,209,0,0,716,634,100.0,Italian <tp@lists.linux.it>
+dayplanner,691,107,298,153,12,21,718,1096,63.04744525547446,Sandro Sigala <sandro@sigala.it>
+dc3dd,50,305,516,11,29,47,59,871,5.7405281285878305,Italian <tp@lists.linux.it>
+dconf-editor,1378,0,0,184,0,0,1471,1378,100.0,Italiano <gnome-it-list@gnome.org>
+dcraw,624,0,0,124,0,0,748,624,100.0,
+debconf,747,48,0,85,2,0,817,795,93.9622641509434,Italian <tp@lists.linux.it>
+decibel-audio-player,1107,0,387,180,0,57,1083,1494,74.09638554216868,Italian <it@li.org>
+deja-dup,3662,0,438,449,0,39,4011,4100,89.3170731707317,Italian <it@li.org>
+deluge,2421,0,307,856,0,22,2571,2728,88.74633431085044,Italian <it@li.org>
+denemo,31156,0,0,3804,0,0,34906,31156,100.0,Italian <tp@lists.linux.it>
+devhelp,481,0,0,124,0,0,553,481,100.0,Italian <tp@lists.linux.it>
+devilspie2,156,0,0,34,0,0,165,156,100.0,Italian
+dia,4101,1183,1189,1578,493,274,5060,6473,63.35547659508729,Italiano <tp@lists.linux.it>
+dialog,25,0,0,23,0,0,25,25,100.0,Italian <tp@lists.linux.it>
+diffuse,987,0,0,186,0,0,1093,987,100.0,Italian
+diffutils,1614,181,5,219,28,1,1805,1800,89.66666666666666,Italian <tp@lists.linux.it>
+digikam,45265,531,721,7343,107,87,48887,46517,97.30851086699485,Italian <kde-i18n-it@kde.org>
+diodon,113,0,270,20,0,37,127,383,29.50391644908616,Italian <it@li.org>
+dnf,1692,0,194,452,0,36,1983,1886,89.7136797454931,Italian (http://www.transifex.com/projects/p/dnf/language/it/)
+dnf-plugin-system-upgrade,0,0,211,0,0,36,0,211,0.0,Italian
+dnf-plugins-core,609,12,90,104,2,15,681,711,85.65400843881856,Italian
+dnf-plugins-extras,55,0,320,12,0,63,65,375,14.666666666666666,Italian
+dnfdragora,198,0,398,154,0,127,227,596,33.22147651006711,Italian (https://www.transifex.com/MageiaLinux/teams/9361/it/)
+dnsmasq,0,0,2846,0,0,492,0,2846,0.0,Italian <tp@lists.linux.it>
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Italian
+dolphin-emu,6965,0,0,1289,0,0,7617,6965,100.0,Italian (http://www.transifex.com/delroth/dolphin-emu/language/it/)
+doodle,684,0,0,108,0,0,779,684,100.0,Italian <tp@lists.linux.it>
+dpkg,42672,634,9552,3392,26,299,46199,52858,80.72950168375648,Italian <debian-l10n-italian@lists.debian.org>
+drgeo,1912,65,8,450,7,4,1909,1985,96.32241813602015,Italiano
+driconf,279,41,192,42,10,16,298,512,54.4921875,
+duplicity,3490,0,142,510,0,16,4036,3632,96.09030837004406,Italian <it@li.org>
+dvdbackup,1024,0,0,112,0,0,1091,1024,100.0,Italian <it@li.org>
+dvdisaster,2715,0,7588,424,0,621,2928,10303,26.35154809278851,Italian <>
+e16,2821,0,0,526,0,0,3019,2821,100.0,none
+e2fsprogs,3148,3172,3746,613,461,465,3669,10066,31.27359427776674,Italian <tp@lists.linux.it>
+easystroke,451,0,19,130,0,7,470,470,95.95744680851064,Italian <it@li.org>
+easytag,5281,0,0,992,0,0,5634,5281,100.0,Italiano <gnome-it-list@gnome.org>
+edgar,11475,0,0,1535,0,0,11093,11475,100.0,Italian <it@li.org>
+efl,294,0,0,126,0,0,311,294,100.0,General
+eiciel,146,16,6,45,6,2,147,168,86.90476190476191,Novell language <language@novell.com>
+ejabberd,1767,35,95,409,13,17,2046,1897,93.14707432788613,Italian <tp@lists.linux.it>
+ekiga,4479,0,0,743,0,0,4523,4479,100.0,Italian <tp@lists.linux.it>
+elinks,3293,5343,3609,928,473,224,3622,12245,26.892609228256433,Italian <tp@lists.linux.it>
+emerald,645,38,10,208,5,6,709,693,93.07359307359307,Italian <tp@lists.linux.it>
+empathy,11161,0,0,1459,0,0,11354,11161,100.0,Italian <tp@lists.linux.it>
+engrampa,7696,0,0,829,0,0,7823,7696,100.0,Italian <tp@lists.linux.it>
+enigma,3451,11,5569,575,3,391,3496,9031,38.21282250027682,Italian (http://www.transifex.com/projects/p/enigma/language/it/)
+enlightenment,8839,8,0,2186,4,0,9738,8847,99.90957386684752,General
+entangle,713,0,222,174,0,35,790,935,76.2566844919786,Italian (http://www.transifex.com/projects/p/entangle/language/it/)
+eog,4948,0,0,557,0,0,5073,4948,100.0,Italian <tp@lists.linux.it>
+eog-plugins,416,0,0,101,0,0,447,416,100.0,Italiano <gnome-it-list@gnome.org>
+eom,4990,0,0,552,0,0,5104,4990,100.0,Italian <tp@lists.linux.it>
+epiphany,2873,0,0,664,0,0,3077,2873,100.0,Italiano <gnome-it-list@gnome.org>
+etckeeper,41,0,0,2,0,0,49,41,100.0,Italian <debian-l10n-italian@lists.debian.org>
+etherape,917,46,208,192,7,40,895,1171,78.30913748932537,
+evince,3616,0,0,605,0,0,3798,3616,100.0,Italian <tp@lists.linux.it>
+evolution,24863,0,0,5183,0,0,26013,24863,100.0,Italiano <gnome-it-list@gnome.org>
+evolution-data-server,5947,0,0,1175,0,0,6630,5947,100.0,Italiano <gnome-it-list@gnome.org>
+evolution-mapi,516,0,0,106,0,0,573,516,100.0,Italian <tp@lists.linux.it>
+evolution-rss,578,13,0,156,4,0,697,591,97.80033840947546,ITALIAN <tp@linux.lists.it>
+exaile,2969,290,747,823,54,148,3267,4006,74.11382925611582,Italian <it@li.org>
+exif,296,0,0,68,0,0,314,296,100.0,Italian <tp@lists.linux.it>
+exo,1414,0,0,286,0,0,1543,1414,100.0,Italian (http://www.transifex.com/projects/p/exo/language/it/)
+expendable,226,0,1,92,0,1,255,227,99.55947136563876,Italian (http://www.transifex.com/projects/p/expendable/language/it/)
+fantasdic,198,0,0,73,0,0,223,198,100.0,Italian <tp@lists.linux.it>
+feedreader,364,72,490,128,23,68,378,926,39.30885529157667,Italian (http://www.transifex.com/dev-feedreader/feedreader/language/it/)
+fetchmail,4180,124,78,677,6,9,5091,4382,95.39023277042446,Italian <tp@lists.linux.it>
+fgrun,697,90,208,316,36,49,757,995,70.0502512562814,Italian
+file-roller,1181,0,0,269,0,0,1201,1181,100.0,Italian <tp@lists.linux.it>
+filezilla,10188,0,0,1758,0,0,10935,10188,100.0,bovirus - Andrea Sanavia - Vincenzo Reale - Riccardo Vianello <bovirus@gmail.com>
+findutils,2422,119,27,222,13,4,2635,2568,94.31464174454828,Italian <tp@lists.linux.it>
+firewalld,2087,87,2,389,13,2,2174,2176,95.90992647058823,Italian (http://www.transifex.com/projects/p/firewalld/language/it/)
+five-or-more,1816,0,0,155,0,0,1827,1816,100.0,Italian <tp@lists.linux.it>
+flare,3124,165,5,456,63,2,3266,3294,94.83910139647844,LANGUAGE <LL@li.org>
+flare-engine,412,141,45,159,48,19,447,598,68.89632107023411,Italiano <it@li.org>
+fldigi,3113,1154,2705,951,402,614,3758,6972,44.650028686173265,Italian
+florence,1128,516,499,220,49,79,1267,2143,52.636490900606624,Italian
+focuswriter,3,0,126,1,0,6,8,129,2.3255813953488373,Italian (http://www.transifex.com/projects/p/focuswriter/language/it/)
+folks,1056,0,0,130,0,0,1217,1056,100.0,Italiano <gnome-it-list@gnome.org>
+fontforge,4390,6360,30954,1090,1878,4279,4778,41704,10.526568194897372,LANGUAGE <it.c@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Italian
+fotoxx,3885,0,90,1208,0,26,4235,3975,97.73584905660377,italiano <kde-francophone@kde.org>
+four-in-a-row,2488,0,0,178,0,0,2679,2488,100.0,Italian <tp@lists.linux.it>
+foxtrotgps,291,0,704,140,0,160,300,995,29.246231155778897,Italian <it@li.org>
+fpc,199,0,0,9,0,0,213,199,100.0,Italian <debian-l10n-italian@lists.debian.org>
+fpm2,748,0,0,201,0,0,863,748,100.0,Nicola Jelmorini <jelmorini@linux.com>
+fprintd,419,0,0,57,0,0,376,419,100.0,Italian (http://www.transifex.com/freedesktop/fprintd/language/it/)
+freeciv,32929,25525,39732,4218,2589,1328,34399,98186,33.537367852850714,Italian <slug-freeciv@siena.linux.it>
+freedink,262,0,9,56,0,1,290,271,96.6789667896679,Italian <tp@lists.linux.it>
+freedink-dfarc,778,0,0,135,0,0,919,778,100.0,Italian <tp@lists.linux.it>
+freedroidrpg,61987,0,122,6344,0,43,60540,62109,99.80357114105847,Italian (http://www.transifex.com/arctic-games/freedroid-rpg/language/it/)
+frepple,725,265,1693,256,115,377,848,2683,27.0219903093552,frepple
+frescobaldi,15024,68,461,2096,27,28,16070,15553,96.59872693371054,Italiano <>
+frogr,169,210,286,65,51,69,187,665,25.413533834586467,Italian
+frozen-bubble,698,0,0,148,0,0,705,698,100.0,Italian <tp@lists.linux.it>
+fslint,383,0,5,131,0,1,410,388,98.71134020618557,Italian <it@li.org>
+fuse-encfs,1244,24,21,131,3,3,1456,1289,96.50892164468581,Italian <it@li.org>
+fusionforge,7373,6940,17471,1674,1704,2730,7555,31784,23.19720614145482,FusionForge team <fusionforge-general@lists.fusionforge.org>
+fwupd,516,0,106,127,0,20,609,622,82.95819935691318,Italian (http://www.transifex.com/freedesktop/fwupd/language/it/)
+gajim,11756,119,63,2250,10,6,12741,11938,98.47545652538113,Gajim Translators
+gala,683,0,0,77,0,0,748,683,100.0,Italian <it@li.org>
+galculator,935,0,0,275,0,0,1011,935,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+gallery2,17786,4,3,2541,1,1,18567,17793,99.96065868600012,Italian
+gambas3,1966,15,3897,740,5,1035,2133,5878,33.446750595440626,LANGUAGE <LL@li.org>
+gammu,1062,1794,1141,309,510,292,1252,3997,26.56992744558419,none
+ganglia,59,0,0,4,0,0,57,59,100.0,Italian <tp@lists.linux.it>
+ganyremote,490,10,0,148,1,0,524,500,98.0,Italian
+garcon,109,0,0,34,0,0,130,109,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+gawk,4628,26,0,733,3,0,5054,4654,99.4413407821229,Italian <it@li.org>
+gbrainy,9743,0,0,1220,0,0,9570,9743,100.0,Italian <tp@lists.linux.it>
+gcal,1611,6,3388,640,4,804,1719,5005,32.187812187812185,Italian <tp@lists.linux.it>
+gcl,177,0,0,8,0,0,185,177,100.0,Italian <tp@lists.linux.it>
+gcompris,10343,0,0,1209,0,0,10291,10343,100.0,IT <tp@lists.linux.it>
+gconf-editor,2834,0,0,238,0,0,2967,2834,100.0,Italian <tp@lists.linux.it>
+gcr,700,0,0,254,0,0,745,700,100.0,Italian <tp@lists.linux.it>
+gdb,1371,0,0,234,0,0,1595,1371,100.0,Italian <tp@lists.linux.it>
+gdesklets,1061,0,467,174,0,30,1072,1528,69.43717277486911,Italian <frankie@debian.org>
+gdk-pixbuf2,1393,0,0,208,0,0,1583,1393,100.0,Italian <tp@lists.linux.it>
+gdm,1926,0,6350,152,0,248,2044,8276,23.272112131464475,Italian <tp@lists.linux.it>
+geany,5998,0,0,1298,0,0,6549,5998,100.0,geany-i18n@uvena.de
+geany-plugins,6136,611,1363,1378,138,150,6307,8110,75.6596794081381,Italian
+geary,3972,0,0,649,0,0,4248,3972,100.0,Italiano <>
+geda-gaf,2324,0,1123,628,0,144,2671,3447,67.42094574992747,gEDA developers <geda-dev@seul.org>
+gedit,11879,0,0,1397,0,0,12157,11879,100.0,Italian <tp@lists.linux.it>
+gedit-latex,468,0,0,226,0,0,487,468,100.0,Italian <tp@lists.linux.it>
+gedit-plugins,8541,0,0,836,0,0,8711,8541,100.0,Italian <tp@lists.linux.it>
+geeqie,1270,1038,1476,544,382,371,1568,3784,33.56236786469345,italiano <it@li.org>
+gegl03,7630,0,0,1601,0,0,8184,7630,100.0,italian <tp@lists.linux.it>
+genius,2444,340,3294,463,38,321,2796,6078,40.21059559065482,<it@li.org>
+gentoo,1396,413,444,462,73,63,1627,2253,61.9618286728806,Italian <tp@lists.linux.it>
+gettext,7396,145,253,757,28,44,8080,7794,94.89350782653322,Italian <tp@lists.linux.it>
+gftp,3096,230,49,560,70,4,3264,3375,91.73333333333333,Italian <it@li.org>
+ggz-base-libs,72,0,0,16,0,0,78,72,100.0,Italian <tp@list.linux.it>
+ggz-gtk-client,859,0,0,267,0,0,909,859,100.0,Italian <tp@list.linux.it>
+ghex,2492,0,25,339,0,16,2515,2517,99.0067540723083,LANGUAGE <LL@li.org>
+giac,0,0,7654,0,0,2208,0,7654,0.0,LANGUAGE <LL@li.org>
+gigolo,521,0,0,142,0,0,581,521,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+gimagereader,1144,0,0,340,0,0,1195,1144,100.0,Italian <kde-i18n-doc@kde.org>
+gimp,29154,0,0,7386,0,0,31550,29154,100.0,gimp@erlug.linux.it
+gimp-focusblur-plugin,71,0,48,37,0,11,74,119,59.66386554621849,Italian
+gimp-gap,14863,0,0,2364,0,0,17220,14863,100.0,gimp.linux.it
+gimp-help,224859,0,0,14750,0,0,228686,224859,100.0,Italian <tp@lists.linux.it>
+gimp-lqr-plugin,928,0,0,131,0,0,998,928,100.0,Italian <carlobaldassi@gmail.com>
+gimp-save-for-web,82,0,0,40,0,0,81,82,100.0,<fr@li.org>
+gimp-wavelet-denoise-plugin,305,0,0,36,0,0,361,305,100.0,Italian
+girara,233,0,16,55,0,4,292,249,93.57429718875501,Italian (http://www.transifex.com/projects/p/girara/language/it/)
+git,7608,119,2783,1546,17,367,8982,10510,72.3882017126546,Italian <tp@lists.linux.it>
+git-cola,217,595,1339,98,233,293,365,2151,10.088331008833102,Italian
+gitg,1997,0,0,352,0,0,1946,1997,100.0,Italian <tp@lists.linux.it>
+gitweb-caching,3449,0,7,839,0,7,4267,3456,99.79745370370371,Italian <tp@lists.linux.it>
+gjots2,802,89,63,237,11,9,957,954,84.0670859538784,Italian
+gkrellm,3386,3,395,515,1,35,3579,3784,89.48202959830867,Italian <kde-i18n-it@mail.kde.org>
+glabels,766,357,1015,320,151,242,849,2138,35.827876520112255,Italian <it@li.org>
+glade,8529,0,0,1895,0,0,9136,8529,100.0,Italian <tp@lists.linux.it>
+glade2,3676,479,1685,952,101,247,3847,5840,62.945205479452056,Italian <tp@lists.linux.it>
+glade3,5789,85,93,1189,28,12,6128,5967,97.01692642869114,Italian <tp@lists.linux.it>
+glib-networking,161,0,0,29,0,0,191,161,100.0,Italian <tp@lists.linux.it>
+glib2,6623,0,0,1043,0,0,7534,6623,100.0,Italian <tp@lists.linux.it>
+glibc,7416,456,205,1374,63,36,8715,8077,91.81626841649127,Italian <tp@lists.linux.it>
+glibc-arm-linux-gnu,7416,456,205,1374,63,36,8715,8077,91.81626841649127,Italian <tp@lists.linux.it>
+glom,6,23,246,6,14,40,6,275,2.181818181818182,LANGUAGE <LL@li.org>
+glpi,11257,0,19,2955,0,2,11892,11276,99.83150053210358,Italian (Italy) (http://www.transifex.com/glpi/GLPI/language/it_IT/)
+gmpc,9,0,16,3,0,10,12,25,36.0,Italian <it@li.org>
+gmusicbrowser,4469,3,876,1397,1,212,5309,5348,83.56394913986537,Italian
+gnokii,5379,287,51,1184,27,6,5912,5717,94.08780829106175,Italian <tp@lists.linux.it>
+gnomad2,694,0,9,170,0,1,829,703,98.71977240398293,Italiano <it@li.org>
+gnome-abrt,397,0,0,73,0,0,432,397,100.0,Italian (http://www.transifex.com/projects/p/gnome-abrt/language/it/)
+gnome-activity-journal,316,0,0,94,0,0,345,316,100.0,Italian <it@li.org>
+gnome-backgrounds,30,0,0,18,0,0,32,30,100.0,Italian <tp@lists.linux.it>
+gnome-bluetooth,372,0,0,110,0,0,357,372,100.0,Italian <tp@lists.linux.it>
+gnome-boxes,3425,0,0,468,0,0,3630,3425,100.0,Italian <gnome-it-list@gnome.org>
+gnome-builder,2023,0,0,530,0,0,2195,2023,100.0,Italian <tp@lists.linux.it>
+gnome-calculator,2503,239,319,728,8,40,2729,3061,81.77066318196667,Italiano <tp@lists.linux.it>
+gnome-calendar,424,0,0,138,0,0,437,424,100.0,Italian <tp@lists.linux.it>
+gnome-characters,161,0,0,47,0,0,164,161,100.0,Italian <gnome-it@gnome.org>
+gnome-chemistry-utils,1267,902,2394,501,311,455,1463,4563,27.76682007451238,italiano <it@li.org>
+gnome-chess,1377,0,0,235,0,0,1476,1377,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-clocks,272,0,0,94,0,0,287,272,100.0,Italian <tp@lists.linux.it>
+gnome-color-manager,1793,0,0,343,0,0,1876,1793,100.0,Italiano <tp@lists.linux.it>
+gnome-commander,8479,0,0,1646,0,0,8743,8479,100.0,Italiano <tp@lists.linux.it>
+gnome-contacts,433,0,0,157,0,0,439,433,100.0,tp@lists.linux.it
+gnome-desktop,438,0,0,61,0,0,485,438,100.0,Italian <tp@lists.linux.it>
+gnome-desktop3,146,0,0,23,0,0,144,146,100.0,Italiano <tp@lists.linux.it>
+gnome-devel-docs,1358,25,9332,87,1,294,1509,10715,12.673821745216983,Italian <tp@lists.linux.it>
+gnome-dictionary,1848,0,0,242,0,0,1944,1848,100.0,Italian <tp@lists.linux.it>
+gnome-directory-thumbnailer,85,0,0,12,0,0,99,85,100.0,Italian <gnome-it-list@gnome.org>
+gnome-disk-utility,3543,0,0,654,0,0,3697,3543,100.0,Italian <tp@lists.linux.it>
+gnome-do,612,0,0,144,0,0,681,612,100.0,it
+gnome-doc-utils,251,0,0,101,0,0,139,251,100.0,Italian <tp@lists.linux.it>
+gnome-documents,669,89,939,211,13,73,816,1697,39.42251031231585,Italian <tp@lists.linux.it>
+gnome-dvb-daemon,808,0,0,200,0,0,838,808,100.0,Italian <it@li.org>
+gnome-font-viewer,130,0,0,30,0,0,155,130,100.0,Italian <tp@lists.linux.it>
+gnome-getting-started-docs,1709,5,779,268,1,62,1657,2493,68.55194544725231,Italian <gnome-it-list@gnome.org>
+gnome-gmail,90,17,80,20,3,8,95,187,48.1283422459893,LANGUAGE <LL@li.org>
+gnome-hearts,364,12,33,98,3,5,378,409,88.99755501222494,Italian <it@li.org>
+gnome-icon-theme,43,0,0,38,0,0,44,43,100.0,Italian <tp@lists.linux.it>
+gnome-initial-setup,842,0,0,125,0,0,849,842,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-keyring,553,0,0,112,0,0,557,553,100.0,Italian <tp@lists.linux.it>
+gnome-klotski,1352,0,0,130,0,0,1382,1352,100.0,Italian <tp@lists.linux.it>
+gnome-libs,2013,80,114,763,8,20,2137,2207,91.20978704123243,Italiano <it@li.org>
+gnome-logs,223,0,0,69,0,0,226,223,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-mahjongg,2481,0,0,165,0,0,2378,2481,100.0,Italian <tp@lists.linux.it>
+gnome-maps,975,0,0,239,0,0,1068,975,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-menus,70,0,0,27,0,0,75,70,100.0,Italian <tp@lists.linux.it>
+gnome-mime-data,887,0,0,362,0,0,970,887,100.0,Italian <tp@lists.linux.it>
+gnome-mines,3086,0,0,181,0,0,3157,3086,100.0,Italian <tp@lists.linux.it>
+gnome-multi-writer,387,0,0,60,0,0,392,387,100.0,Italian <tp@lists.linux.it>
+gnome-music,552,0,0,111,0,0,590,552,100.0,Italian <tp@lists.linux.it>
+gnome-nettool,664,0,0,219,0,0,778,664,100.0,Italian <tp@lists.linux.it>
+gnome-nibbles,447,0,0,110,0,0,490,447,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-online-accounts,1232,0,0,345,0,0,1327,1232,100.0,Italian <tp@lists.linux.it>
+gnome-packagekit,3479,0,0,544,0,0,3705,3479,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-phone-manager,559,0,0,97,0,0,577,559,100.0,Italian <tp@lists.linux.it >
+gnome-photos,448,0,0,187,0,0,496,448,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-pie,124,87,274,48,20,39,139,485,25.56701030927835,Italian
+gnome-power-manager,483,0,0,148,0,0,516,483,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-robots,2562,0,0,203,0,0,2628,2562,100.0,Italian <tp@lists.linux.it>
+gnome-screensaver,291,0,0,58,0,0,308,291,100.0,Italiano <tp@lists.linux.it>
+gnome-screenshot,455,0,0,78,0,0,465,455,100.0,Italian <tp@lists.linux.it>
+gnome-search-tool,3068,0,0,344,0,0,3116,3068,100.0,Italian <tp@lists.linux.it>
+gnome-session,319,0,0,59,0,0,340,319,100.0,Italiano <tp@lists.linux.it>
+gnome-settings-daemon,2416,0,0,406,0,0,2630,2416,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-shell,1458,0,0,347,0,0,1570,1458,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-shell-extension-media-player-indicator,86,0,0,22,0,0,104,86,100.0,
+gnome-shell-extension-openweather,501,93,25,162,13,26,522,619,80.93699515347335,
+gnome-shell-extension-pomodoro,336,0,0,112,0,0,366,336,100.0,
+gnome-shell-extension-sustmi,11,0,0,6,0,0,12,11,100.0,
+gnome-shell-extension-system-monitor-applet,120,28,9,89,3,2,137,157,76.43312101910828,Italian
+gnome-shell-extension-topicons-plus,41,0,0,11,0,0,46,41,100.0,Jimmy Scionti <jimmy.scionti@gmail.com>
+gnome-shell-extensions,380,0,0,70,0,0,425,380,100.0,Italian <tp@lists.linux.it>
+gnome-software,2456,0,0,549,0,0,2607,2456,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-sound-recorder,276,0,0,70,0,0,318,276,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-subtitles,910,0,0,294,0,0,917,910,100.0,Italian <tp@lists.linux.it>
+gnome-sudoku,2902,0,0,202,0,0,2980,2902,100.0,Italian <tp@lists.linux.it>
+gnome-system-log,1673,0,0,152,0,0,1709,1673,100.0,Italian <tp@lists.linux.it>
+gnome-system-monitor,1365,0,0,298,0,0,1474,1365,100.0,Italian <tp@lists.linux.it>
+gnome-taquin,224,0,0,47,0,0,242,224,100.0,Italian <gnome-it-list@gnome.org>
+gnome-terminal,2511,0,0,477,0,0,2849,2511,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-tetravex,1188,0,0,148,0,0,1212,1188,100.0,Italian <tp@lists.linux.it>
+gnome-themes,109,0,0,30,0,0,135,109,100.0,Italian <tp@lists.linux.it>
+gnome-themes-standard,15,0,0,6,0,0,16,15,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-todo,479,0,0,120,0,0,538,479,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-tweak-tool,438,0,0,150,0,0,521,438,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-user-docs,36623,7593,15915,2088,480,747,36404,60131,60.905356638007014,Italian <tp@lists.linux.it>
+gnome-user-share,52,0,0,10,0,0,57,52,100.0,Italiano <gnome-it-list@gnome.org>
+gnome-vfs2,1519,0,0,305,0,0,1650,1519,100.0,Italian <tp@lists.linux.it>
+gnome-video-effects,256,0,0,68,0,0,264,256,100.0,Italian <tp@lists.linux.it>
+gnome-weather,192,0,0,42,0,0,192,192,100.0,Italian <tp@lists.linux.it>
+gnomebaker,1556,67,749,428,9,145,1562,2372,65.59865092748736,Italian <it@li.org>
+gnomint,2080,0,2332,372,0,329,2347,4412,47.1441523118767,Italian <it@li.org>
+gnote,3303,0,0,542,0,0,3676,3303,100.0,Italiano <gnome-it-list@gnome.org>
+gnotime,114,341,1553,60,143,226,127,2008,5.677290836653386,Italiano <it@li.org>
+gnubg,11158,1406,558,2240,336,75,12354,13122,85.03276939490931,Italiano <renzo.camp@tin.it>
+gnubik,278,5,2,82,1,2,307,285,97.54385964912281,Italian <tp@lists.linux.it>
+gnucash,28967,531,641,4638,122,55,31081,30139,96.11135074156408,Italian <gnucash-it@gnucash.org>
+gnucash-docs,82199,1414,17218,4370,54,1116,87480,100831,81.52155587071437,Italian <LL@li.org>
+gnue-common,1069,405,658,155,48,70,1200,2132,50.14071294559099,Italian <tp@lists.linux.it>
+gnujump,903,0,0,145,0,0,902,903,100.0,Italiano <>
+gnumed,5164,4602,19635,1296,1182,2387,5416,29401,17.564028434406993,GNUmed
+gnumeric,7159,4547,24603,2061,1046,2758,8078,36309,19.71687460409265,Italian <tp@lists.linux.it>
+gnupg,8613,21,6,1293,3,1,9412,8640,99.6875,Italian <tp@lists.linux.it>
+gnupg2,2605,6226,4377,440,1098,630,2889,13208,19.7228952150212,Italian <tp@lists.linux.it>
+gnusim8085,286,0,282,94,0,51,313,568,50.352112676056336,Italian <it@li.org>
+gnutls,1347,167,179,317,38,33,1536,1693,79.56290608387478,Italian <tp@lists.linux.it>
+gobby,900,0,0,190,0,0,885,900,100.0,Italian <it@li.org>
+goffice,2122,1561,2518,846,588,567,2367,6201,34.220287050475726,Italian <tp@list.linux.it>
+goffice08,2353,857,1389,934,319,307,2648,4599,51.163296368775825,Italian <tp@list.linux.it>
+googsystray,759,0,0,199,0,0,829,759,100.0,Italian
+gourmet,3582,157,200,859,17,16,3944,3939,90.93678598629094,Italian <it@li.org>
+gparted,6638,0,0,763,0,0,6759,6638,100.0,Italian <tp@lists.linux.it>
+gphoto2,1744,2,0,337,1,0,1889,1746,99.88545246277205,Italian <tp@lists.linux.it>
+gphotoframe,3495,0,0,429,0,0,3634,3495,100.0,
+gpicview,236,0,0,52,0,0,256,236,100.0,Italian
+gpodder,1674,123,82,453,31,18,1789,1879,89.08994145822246,Italian (http://www.transifex.com/projects/p/gpodder/language/it/)
+gpredict,1107,0,4935,355,0,733,1138,6042,18.321747765640517,Italian <it@li.org>
+gpsdrive,2311,0,0,448,0,0,2683,2311,100.0,Italian <tp@lists.linux.it>
+gpx-viewer,85,0,23,48,0,10,95,108,78.70370370370371,Italian <it@li.org>
+gramps,33338,724,3625,6020,144,229,35513,37687,88.46021174410275,Italian <tp@lists.linux.it>
+granite,156,0,0,57,0,0,226,156,100.0,Italian <https://l10n.elementary.io/projects/desktop/granite/it/>
+grass,39090,21144,25375,7147,3263,3187,44327,85609,45.66108703524162,Italian <grass-translations@lists.osgeo.org>
+grep,951,0,0,113,0,0,1054,951,100.0,Italian <tp@lists.linux.it>
+gretl,15913,0,0,4007,0,0,17989,15913,100.0,
+gridengine,1556,431,60,331,62,6,1769,2047,76.01367855398144,Italian <tp@lists.linux.it>
+grilo,194,0,0,37,0,0,242,194,100.0,tp@lists.linux.it
+grilo-plugins,536,0,0,133,0,0,603,536,100.0,Italiano <gnome-it-list@gnome.org>
+grip,1121,19,31,285,6,8,1401,1171,95.73014517506405,Italian <tp@lists.linux.it>
+grisbi,1681,4047,7022,634,976,665,1763,12750,13.184313725490195,Italian <LL@li.org>
+grsync,2278,4,0,321,1,0,2181,2282,99.82471516213847,Italian <kde-i18n-doc@kde.org>
+grub-customizer,1160,0,135,181,0,12,1252,1295,89.57528957528957,Italian <it@li.org>
+grub2,6962,124,25,1314,20,7,7733,7111,97.90465476023063,Italian <tp@lists.linux.it>
+gscan2pdf,1288,0,551,395,0,111,1416,1839,70.03806416530723,Italian <it@li.org>
+gsettings-desktop-schemas,5863,0,0,532,0,0,6424,5863,100.0,tp@lists.linux.it
+gshutdown,489,0,3,98,0,3,459,492,99.39024390243902,Andrea Carnaroli <vongola15@libero.it>
+gspell,72,6,0,30,2,0,73,78,92.3076923076923,Italian <tp@lists.linux.it>
+gstreamer,1898,5,14,343,2,3,2170,1917,99.00886802295254,Italian <tp@lists.linux.it>
+gstreamer-plugins-bad-free,72,4,20,12,1,1,82,96,75.0,Italian <tp@lists.linux.it>
+gstreamer-plugins-base,667,0,241,136,0,42,747,908,73.45814977973568,Italian <tp@lists.linux.it>
+gstreamer-plugins-good,788,23,3,187,2,1,873,814,96.80589680589681,Italian <tp@lists.linux.it>
+gstreamer1,1747,112,172,320,18,33,2006,2031,86.01674052191038,Italian <tp@lists.linux.it>
+gstreamer1-plugins-bad-free,62,34,156,10,6,22,71,252,24.6031746031746,Italian <tp@lists.linux.it>
+gstreamer1-plugins-base,416,69,464,86,19,93,458,949,43.83561643835616,Italian <tp@lists.linux.it>
+gstreamer1-plugins-good,473,219,69,67,28,12,524,761,62.155059132720105,Italian <tp@lists.linux.it>
+gstreamer1-plugins-ugly-free,83,15,20,10,2,1,93,118,70.33898305084746,Italian <tp@lists.linux.it>
+gtg,2284,0,1213,296,0,4,2336,3497,65.31312553617387,Italian <it@li.org>
+gthumb,3415,0,0,1120,0,0,3528,3415,100.0,Italian
+gtick,338,0,0,96,0,0,345,338,100.0,Italian <tp@lists.linux.it>
+gtk+,404,0,0,210,0,0,458,404,100.0,Italian <it@li.org>
+gtk-gnutella,16308,11,4,2675,2,1,17628,16323,99.90810512773388,Italian (http://www.transifex.com/gtk-gnutella/gtk-gnutella/language/it/)
+gtk-recordmydesktop,816,0,0,104,0,0,881,816,100.0,Arch Linux Italian Team <linuxmania@gmail.com>
+gtk-vnc,81,0,0,22,0,0,92,81,100.0,Italian <tp@lists.linux.it>
+gtk2,12452,0,0,2590,0,0,13529,12452,100.0,Italian <tp@lists.linux.it>
+gtk2-engines,119,0,0,47,0,0,152,119,100.0,Italian <tp@lists.linux.it>
+gtk3,16008,0,0,3575,0,0,17363,16008,100.0,Italiano <gnome-it-list@gnome.org>
+gtkhash,108,0,10,39,0,3,123,118,91.52542372881356,Italian <it@li.org>
+gtkhtml3,522,0,0,317,0,0,546,522,100.0,Italian <tp@lists.linux.it>
+gtkpod,7368,83,69,1316,26,20,7838,7520,97.97872340425532,Italian <debian-l10n-italian@lists.debian.org>
+gtksourceview2,1413,0,0,538,0,0,1613,1413,100.0,Italian <tp@lists.linux.it>
+gtksourceview3,1147,0,0,624,0,0,1226,1147,100.0,Italian <tp@lists.linux.it>
+gtkspell,15,0,0,6,0,0,17,15,100.0,Italian <tp@lists.linux.it>
+gtkspell3,16,0,0,7,0,0,18,16,100.0,Italian <tp@lists.linux.it>
+gtranslator,1670,0,0,389,0,0,1835,1670,100.0,Italian <tp@lists.linux.it>
+guake,971,72,23,166,20,8,1031,1066,91.08818011257036,Italian <LL@li.org>
+guayadeque,3326,0,0,1019,0,0,3325,3326,100.0,Italian (Italy) (http://www.transifex.com/projects/p/guayadeque/language/it_IT/)
+gucharmap,1230,0,0,409,0,0,1258,1230,100.0,Italian <tp@lists.linux.it>
+guitarix,743,476,865,292,143,235,784,2084,35.65259117082534,Italian
+gummi,292,129,337,135,54,72,329,758,38.522427440633244,LANGUAGE <LL@li.org>
+gutenprint,11674,991,222,3315,336,90,12003,12887,90.5874136726934,Italian <tp@lists.linux.it>
+gvfs,2910,0,0,631,0,0,3267,2910,100.0,Italiano <tp@lists.linux.it>
+gvrng,0,0,0,0,0,0,0,0,0.0,Italien <LL@li.org>
+gweled,156,0,0,44,0,0,163,156,100.0,Italian <tp@lists.linux.it>
+gwget,379,0,0,103,0,0,422,379,100.0,Italian <tp@lists.linux.it>
+hamster-time-tracker,696,1,0,171,1,0,754,697,99.85652797704448,Italian <tp@lists.linux.it>
+help2man,529,0,38,48,0,1,568,567,93.29805996472663,Italian <tp@lists.linux.it>
+hex-a-hop,1176,0,0,214,0,0,1298,1176,100.0,
+hexalate,0,0,60,0,0,4,0,60,0.0,Italian (http://www.transifex.com/projects/p/hexalate/language/it/)
+hexchat,5857,0,77,1433,0,12,6467,5934,98.70239298955174,Italian (http://www.transifex.com/hexchat/hexchat/language/it/)
+hitori,174,0,0,36,0,0,155,174,100.0,Italiano <gnome-it-list@gnome.org>
+homebank,2221,0,62,707,0,26,2231,2283,97.28427507665353,Italian <it@li.org>
+homerun,504,0,0,135,0,0,552,504,100.0,Italian <kde-i18n-it@kde.org>
+hotssh,150,0,0,58,0,0,165,150,100.0,italian <tp@lists.linux.it>
+hugin,8334,196,86,1532,18,10,9059,8616,96.72701949860725,Italian <tp@lists.linux.it>
+hunspell,496,20,93,69,5,4,533,609,81.44499178981938,Italian <tp@lists.linux.it>
+hydrogen,2471,1667,5783,119,71,265,2634,9921,24.906763431105734,
+iagno,2784,0,0,191,0,0,2827,2784,100.0,Italiano <tp@lists.linux.it>
+ibus,646,0,201,127,0,28,742,847,76.26918536009445,<it@li.org>
+ibus-chewing,132,0,227,45,0,25,150,359,36.768802228412255,Italian
+ibus-xkbc,61,0,0,28,0,0,86,61,100.0,LANGUAGE <LL@li.org>
+icewm,0,0,0,0,0,0,0,0,0.0,Italian <tp@lists.linux.it>
+ikiwiki,1151,197,142,236,43,28,1221,1490,77.24832214765101,Italian TP <tp@lists.linux.it>
+im-chooser,229,0,10,52,0,4,242,239,95.81589958158996,Italian (http://www.transifex.net/projects/p/im-chooser/team/it/)
+imsettings,440,5,11,80,1,3,472,456,96.49122807017544,Italian (http://www.transifex.net/projects/p/imsettings/team/it/)
+indent,210,47,15,45,8,2,266,272,77.20588235294117,Italian <tp@lists.linux.it>
+initial-setup,29,0,4,5,0,2,22,33,87.87878787878788,Italian (http://www.transifex.com/projects/p/initial-setup/language/it/)
+initscripts,922,68,13,144,12,2,1011,1003,91.92422731804587,Italian <trans-it@lists.fedoraproject.org>
+inkscape,33864,912,3367,7609,227,296,35500,38143,88.78168995621739,
+insight,1371,0,0,234,0,0,1595,1371,100.0,Italian <tp@lists.linux.it>
+iok,142,5,59,36,1,3,165,206,68.93203883495146,Italian <fedora-trans-it at redhat.com>
+ipplan,3795,1311,47,575,244,7,3876,5153,73.64641956142053,Italian <LL@li.org>
+ircp-tray,239,0,0,61,0,0,237,239,100.0,Italian <tp@lists.linux.it>
+islamic-menus,2,0,3,1,0,1,2,5,40.0,Italian <it@li.org>
+iso-codes,21538,1115,433,14539,480,213,21910,23086,93.2946374426059,Italian <tp@lists.linux.it>
+isoimagewriter,392,7,0,78,1,0,429,399,98.24561403508771,Italian <kde-i18n-it@kde.org>
+isomaster,674,0,0,107,0,0,667,674,100.0,
+jbrout,408,69,118,143,24,59,417,595,68.57142857142857,Italian <igor@cimice.net>
+jmol,2825,94,247,939,30,52,3141,3166,89.2293114339861,Italian <it@li.org>
+jpilot,1468,392,1214,492,94,177,1581,3074,47.755367599219255,Italian <tp@lists.linux.it>
+json-glib,303,0,0,44,0,0,321,303,100.0,Italian <tp@lists.linux.it>
+jwhois,440,0,0,71,0,0,492,440,100.0,Italian <tp@lists.linux.it>
+jwm,271,86,0,77,19,0,316,357,75.91036414565826,Italiano <LL@li.org>
+k3b,20053,488,0,2491,43,0,21585,20541,97.62426366778638,Italian <kde-i18n-it@kde.org>
+k4dirstat,547,0,0,165,0,0,568,547,100.0,Italian (http://www.transifex.com/projects/p/k4dirstat/language/it/)
+kBuild,505,0,0,81,0,0,553,505,100.0,Italian <tp@lists.linux.it>
+kactivitymanagerd,9,0,0,4,0,0,9,9,100.0,Italian <kde-i18n-it@kde.org>
+kamoso,119,0,0,41,0,0,118,119,100.0,Italian <kde-i18n-it@kde.org>
+kanatest,395,11,0,208,4,0,427,406,97.29064039408867,Italian
+kanyremote,436,48,0,137,7,0,463,484,90.08264462809917,Italian
+kasumi,82,25,86,18,4,34,94,193,42.487046632124354,Italian
+kaudiocreator,1123,8,5,270,1,2,1230,1136,98.8556338028169,Italian <kde-i18n-it@kde.org>
+kbackup,359,191,100,81,28,14,350,650,55.230769230769226,<en@li.org>
+kbd,1747,466,159,214,46,14,2075,2372,73.65092748735245,Italian <tp@lists.linux.it>
+kbibtex,2267,0,27,652,0,14,2510,2294,98.82301656495204,Italian <kde-i18n-it@kde.org>
+kbilliards,197,0,11,54,0,10,228,208,94.71153846153845,italiano
+kcbench-data,473,146,530,48,15,93,513,1149,41.166231505657095,NONE
+kchmviewer,309,212,451,72,52,83,335,972,31.790123456790127,<kde-i18n-doc@lists.kde.org>
+kcm-gtk,11,0,113,5,0,16,13,124,8.870967741935484,Italian <it@li.org>
+kcoloredit,205,41,32,67,14,14,203,278,73.7410071942446,Italian <kde-i18n-it@kde.org>
+kdbg,144,50,661,54,25,119,152,855,16.842105263157894,Italiano <it@li.org>
+kde-cli-tools,2188,0,0,228,0,0,2294,2188,100.0,Italian <kde-i18n-it@kde.org>
+kde-connect,671,0,0,160,0,0,734,671,100.0,Italian <kde-i18n-it@kde.org>
+kde-gtk-config,309,0,0,75,0,0,345,309,100.0,Italian <kde-i18n-it@kde.org>
+kde-l10n,409528,4817,10206,86683,1353,1364,433808,424551,96.46143808399933,Italian <kde-i18n-it@kde.org>
+kde-partitionmanager,2136,0,0,474,0,0,2312,2136,100.0,Italian <kde-i18n-it@kde.org>
+kdeplasma-addons,2976,0,0,966,0,0,3344,2976,100.0,Italian <kde-i18n-it@kde.org>
+kdesvn,2848,163,1834,704,28,149,3344,4845,58.782249742002065,Italian <kde-i18n-it@kde.org>
+kdevelop,4911,0,138,972,0,13,5436,5049,97.26678550207963,Italian <kde-i18n-it@kde.org>
+kdevelop-php,442,0,0,60,0,0,483,442,100.0,Italian <kde-i18n-it@kde.org>
+kdevelop-python,579,0,0,101,0,0,645,579,100.0,Italian <kde-i18n-it@kde.org>
+kdevplatform,8745,0,0,1812,0,0,9486,8745,100.0,Italian <kde-i18n-it@kde.org>
+kdiff3,3770,0,0,663,0,0,4285,3770,100.0,Italian <kde-i18n-it@kde.org>
+kdissert,2027,0,0,282,0,0,2073,2027,100.0,Italian <kde-i18n-it@kde.org>
+kernel,473,146,530,48,15,93,513,1149,41.166231505657095,NONE
+keurocalc,3042,0,0,342,0,0,2982,3042,100.0,Italian <kde-i18n-it@kde.org>
+kexec-tools,83,0,0,12,0,0,88,83,100.0,<it@li.org>
+kf5-baloo,553,0,0,126,0,0,588,553,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kauth,73,0,0,8,0,0,80,73,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,248,230,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kcmutils,563,0,0,71,0,0,659,563,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,336,348,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kcompletion,20,0,0,12,0,0,24,20,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kconfig,260,0,0,100,0,0,306,260,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kconfigwidgets,323,0,0,118,0,0,366,323,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kcoreaddons,291,0,0,95,0,0,299,291,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,53,48,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,105,109,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kdelibs4support,9626,0,0,4728,0,0,11551,9626,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,66,54,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kdesu,19,0,0,7,0,0,21,19,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,16,8,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kfilemetadata,140,0,0,71,0,0,177,140,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,67,71,100.0,Italian <kde-i18n-it@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1761,1721,100.0,Italian <kde-i18n-it@kde.org>
+kf5-ki18n,124,0,0,110,0,0,136,124,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kiconthemes,35,0,0,18,0,0,39,35,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kinit,134,0,0,14,0,0,130,134,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kio,11912,0,0,1321,0,0,12344,11912,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kirigami2,2,0,0,1,0,0,3,2,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,10,7,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kjobwidgets,141,0,0,45,0,0,150,141,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,278,248,100.0,Italian <kde-i18n-it@kde.org>
+kf5-knewstuff,689,0,0,157,0,0,723,689,100.0,Italian <kde-i18n-it@kde.org>
+kf5-knotifications,18,0,0,6,0,0,18,18,100.0,Italian <kde-i18n-it@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,119,129,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kpackage,412,34,0,90,1,0,460,446,92.37668161434978,Italian <kde-i18n-it@kde.org>
+kf5-kparts,104,0,0,26,0,0,98,104,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kpeople,21,0,0,11,0,0,26,21,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kpty,15,0,0,4,0,0,20,15,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kross,100,0,0,35,0,0,117,100,100.0,Italian <kde-i18n-it@kde.org>
+kf5-krunner,15,0,0,3,0,0,15,15,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kservice,170,0,0,28,0,0,196,170,100.0,Italian <kde-i18n-it@kde.org>
+kf5-ktexteditor,16648,0,0,2418,0,0,18428,16648,100.0,Italian <kde-i18n-it@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,495,462,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kunitconversion,5266,0,0,2244,0,0,5314,5266,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kwallet,1624,0,0,131,0,0,1692,1624,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kwidgetsaddons,1311,0,0,455,0,0,1416,1311,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kxmlgui,1598,0,0,230,0,0,1652,1598,100.0,Italian <kde-i18n-it@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,14,13,100.0,Italian <kde-i18n-it@kde.org>
+kf5-libktorrent,474,0,0,107,0,0,544,474,100.0,Italian <kde-i18n-it@kde.org>
+kf5-plasma,501,0,0,146,0,0,590,501,100.0,Italian <kde-i18n-it@kde.org>
+kf5-purpose,49,4,0,16,3,0,49,53,92.45283018867924,Italian <kde-i18n-it@kde.org>
+kf5-solid,679,0,0,221,0,0,724,679,100.0,Italian <kde-i18n-it@kde.org>
+kf5-sonnet,663,0,0,72,0,0,673,663,100.0,Italian <kde-i18n-it@kde.org>
+kf5-syntax-highlighting,865,6,3,567,4,3,959,874,98.97025171624713,Italian <kde-i18n-it@kde.org>
+kflickr,332,0,0,87,0,0,342,332,100.0,English <en@li.org>
+kgamma,130,0,0,16,0,0,141,130,100.0,Italian <kde-i18n-it@kde.org>
+kgrab,370,0,0,53,0,0,366,370,100.0,Italian <kde-i18n-it@lists.kde.org>
+kgraphviewer,1251,0,0,242,0,0,1322,1251,100.0,Italian <kde-i18n-it@kde.org>
+kguitar,968,47,0,196,18,0,934,1015,95.36945812807882,italian <it@li.org>
+khotkeys,436,0,0,129,0,0,482,436,100.0,Italian <kde-i18n-it@kde.org>
+kicad,67121,0,15662,7835,0,1040,69673,82783,81.08065665655992,Italian <tp@lists.linux.it>
+kiconedit,726,0,0,155,0,0,751,726,100.0,Italian <kde-i18n-it@lists.kde.org>
+kid3,2012,1,147,856,1,48,2203,2160,93.14814814814815,Italian <kde-i18n-doc@kde.org>
+kile,11162,0,0,1902,0,0,11610,11162,100.0,Italian <kde-i18n-it@kde.org>
+kimchi,3946,0,0,617,0,0,4346,3946,100.0,English
+kinfocenter,2921,0,0,1012,0,0,3286,2921,100.0,Italian <kde-i18n-it@kde.org>
+kio-gdrive,14,0,0,2,0,0,13,14,100.0,Italian <kde-i18n-it@kde.org>
+kio_gopher,17,0,0,5,0,0,21,17,100.0,Italian <kde-i18n-it@kde.org>
+kio_mtp,17,0,0,2,0,0,15,17,100.0,Italian <kde-i18n-it@kde.org>
+kjots,399,0,0,106,0,0,406,399,100.0,Italian <kde-i18n-it@kde.org>
+klamav,1726,0,777,358,0,61,2046,2503,68.95725129844188,
+klavaro,1911,0,0,232,0,0,1837,1911,100.0,Italian <tp@lists.linux.it>
+kmenuedit,277,0,0,61,0,0,286,277,100.0,Italian <kde-i18n-it@kde.org>
+kmplayer,1248,1,0,370,1,0,1378,1249,99.919935948759,Italian <kde-i18n-it@kde.org>
+kmymoney,21026,0,0,3393,0,0,21622,21026,100.0,Italian <kde-i18n-it@kde.org>
+knemo,1236,0,0,352,0,0,1365,1236,100.0,Italian <kde-i18n-it@kde.org>
+knights,756,0,1,218,0,1,835,757,99.8678996036988,Italian <kde-i18n-it@kde.org>
+koffice-kivio,8417,0,0,2361,0,0,9177,8417,100.0,Italian <kde-i18n-it@kde.org>
+komparator,2587,0,0,267,0,0,2707,2587,100.0,Arch Linux Italian Team <linuxmania@gmail.com>
+konversation,10294,0,0,1638,0,0,10956,10294,100.0,Italian <kde-i18n-it@kde.org>
+kover,455,0,1,123,0,1,469,456,99.78070175438597,italiano <tp@lists.linux.it>
+koverartist,573,67,123,134,18,33,561,763,75.09829619921364,<de@li.org>
+kphotoalbum,6794,1130,1590,805,95,101,7013,9514,71.41055286945553,Italian <kde-i18n-it@kde.org>
+kpilot,7156,0,0,861,0,0,7394,7156,100.0,Italian <kde-i18n-it@kde.org>
+kpmcore,2805,37,17,404,7,11,3184,2859,98.11122770199371,Italian <kde-i18n-it@kde.org>
+krecipes,3646,0,0,765,0,0,3924,3646,100.0,Italian <kde-i18n-it@kde.org>
+krename,1302,383,373,320,70,49,1412,2058,63.26530612244898,Italian <kde-i18n-it@kde.org>
+krita,22080,139,196,5669,43,18,24804,22415,98.50546509034129,Italian <kde-i18n-it@kde.org>
+krusader,7852,54,50,1716,12,9,8466,7956,98.69281045751634,Italian <kde-i18n-it@kde.org>
+kscreen,213,0,0,64,0,0,241,213,100.0,Italian <kde-i18n-it@kde.org>
+kscreenlocker,196,0,0,36,0,0,220,196,100.0,Italian <kde-i18n-it@kde.org>
+ksig,85,0,0,26,0,0,81,85,100.0,Italian <kde-i18n-it@kde.org>
+ksnapshot,521,0,0,63,0,0,512,521,100.0,Italian <kde-i18n-doc@kde.org>
+ksshaskpass,43,0,0,12,0,0,48,43,100.0,Italian <kde-i18n-it@kde.org>
+ksysguard,1081,0,0,233,0,0,1111,1081,100.0,Italian <kde-i18n-it@kde.org>
+ktechlab,2312,1,2021,519,1,256,2504,4334,53.34563913244116,
+ktorrent,5972,612,1155,1266,60,63,6261,7739,77.16759271223673,Italian <kde-i18n-it@kde.org>
+kupfer,3586,137,277,683,42,55,3908,4000,89.64999999999999,Italian <tp@lists.linux.it>
+kvirc,28632,147,34,4357,11,4,29879,28813,99.37181133516121,Italian <kde-i18n-it@kde.org>
+kwebkitpart,624,0,0,158,0,0,653,624,100.0,Italian <kde-i18n-it@kde.org>
+kwin,6390,0,0,1205,0,0,7075,6390,100.0,Italian <kde-i18n-it@kde.org>
+kxstitch,1661,136,113,515,23,10,1746,1910,86.96335078534031,Italian <kde-i18n-it@kde.org>
+l3afpad,113,0,17,61,0,3,129,130,86.92307692307692,Italian <tp@lists.linux.it>
+labyrinth,215,0,11,70,0,3,228,226,95.13274336283186,LANGUAGE <LL@li.org>
+laditools,212,0,164,47,0,39,239,376,56.38297872340425,Italian <it@li.org>
+latexila,1258,131,138,409,32,30,1243,1527,82.38375900458415,Italian
+latte-dock,610,0,17,200,0,2,640,627,97.28867623604465,Italian <kde-i18n-it@kde.org>
+lazarus,35426,300,2591,8836,82,489,39010,38317,92.45504606310516,Lazarus
+lazygal,636,67,44,108,8,8,768,747,85.14056224899599,Federico Bruni <fedelogy@gmail.com>
+ldm,54,0,1,18,0,1,62,55,98.18181818181819,Italian <tp@lists.linux.it>
+leafpad,125,0,0,68,0,0,143,125,100.0,Italian <tp@lists.linux.it>
+lekhonee-gnome,21,23,68,14,11,19,22,112,18.75,Italian <trans-it@lists.fedoraproject.org>
+lftp,1136,1263,1626,184,142,174,1320,4025,28.22360248447205,Italian <it@li.org>
+libappstream-glib,409,0,35,88,0,7,453,444,92.11711711711712,Italian (http://www.transifex.com/freedesktop/appstream-glib/language/it/)
+libbonobo,543,0,0,107,0,0,629,543,100.0,Italian <tp@lists.linux.it>
+libbonoboui,368,0,0,115,0,0,430,368,100.0,Italian <tp@lists.linux.it>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Italian
+libcryptui,752,0,0,192,0,0,836,752,100.0,Italian <tp@lists.linux.it>
+libepc,147,0,0,26,0,0,166,147,100.0,Italian <tp@lists.linux.it>
+libexif,5092,503,1382,892,57,228,5425,6977,72.98265730256557,Italian <tp@lists.linux.it>
+libextractor,442,70,1466,133,24,333,453,1978,22.345803842264914,Italian <tp@lists.linux.it>
+libfm,1565,0,0,390,0,0,1668,1565,100.0,Italian
+libgda,11452,0,0,2085,0,0,12454,11452,100.0,Italian <tp@lists.linux.it>
+libgdata,684,0,0,84,0,0,695,684,100.0,Italiano <gnome-it-list@gnome.org>
+libgdl,659,0,0,96,0,0,681,659,100.0,Italian <tp@lists.linux.it>
+libgnome,1773,0,0,273,0,0,2042,1773,100.0,Italian <tp@lists.linux.it>
+libgnome-games-support,43,0,0,14,0,0,41,43,100.0,Italian <tp@lists.linux.it>
+libgnome-keyring,44,0,0,9,0,0,46,44,100.0,Italian <tp@lists.linux.it>
+libgnome-media-profiles,460,0,0,51,0,0,478,460,100.0,Italian <tp@lists.linux.it>
+libgnomecanvas,378,0,0,95,0,0,431,378,100.0,Italian <tp@lists.linux.it>
+libgnomekbd,242,0,0,55,0,0,278,242,100.0,Italian <tp@lists.linux.it>
+libgnomeui,1226,0,0,320,0,0,1339,1226,100.0,Italian <tp@lists.linux.it>
+libgpg-error,925,229,127,311,62,31,1102,1281,72.20921155347385,Italian <tp@lists.linux.it>
+libgphoto2,5867,112,5202,1610,43,812,6330,11181,52.472945174850196,Italian <tp@lists.linux.it>
+libgpod,1053,0,0,185,0,0,1236,1053,100.0,Italian <tp@lists.linux.it>
+libgsasl,577,0,0,69,0,0,720,577,100.0,Italian <tp@lists.linux.it>
+libgsf,696,0,0,146,0,0,760,696,100.0,Italian <tp@lists.linux.it>
+libgtop2,126,0,0,40,0,0,141,126,100.0,Italian <tp@lists.linux.it>
+libgweather,6173,0,0,4578,0,0,6284,6173,100.0,Italian <tp@lists.linux.it>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libidn,414,0,14,58,0,2,440,428,96.72897196261682,Italian <tp@lists.linux.it>
+libiptcdata,1438,0,0,203,0,0,1490,1438,100.0,Italian <tp@lists.linux.it>
+libkexif,25,0,0,14,0,0,29,25,100.0,Italian <kde-i18n-it@kde.org>
+libkfbapi,42,0,0,6,0,0,45,42,100.0,Italian <kde-i18n-it@kde.org>
+libkgapi,310,0,0,70,0,0,484,310,100.0,Italian <kde-i18n-it@kde.org>
+libksysguard,3166,0,0,396,0,0,3423,3166,100.0,Italian <kde-i18n-it@kde.org>
+libktorrent,519,0,0,115,0,0,583,519,100.0,Italian <kde-i18n-it@kde.org>
+libmatekbd,251,0,0,43,0,0,280,251,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+libmatemixer,242,0,0,126,0,0,252,242,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+libmateweather,6124,0,0,4557,0,0,6254,6124,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+libmx,40,0,0,16,0,0,39,40,100.0,Italian <tp@lists.linux.it>
+libmypaint,1537,0,0,106,0,0,1636,1537,100.0,Italian <https://hosted.weblate.org/projects/mypaint/libmypaint/it/>
+libosinfo,0,0,662,0,0,145,0,662,0.0,Italian
+libpaper,73,0,0,46,0,0,69,73,100.0,italian <tp@lists.linux.it>
+libpeas,112,0,0,34,0,0,117,112,100.0,Italian <tp@lists.linux.it>
+libpwquality,343,0,0,53,0,0,350,343,100.0,LANGUAGE <LL@li.org>
+libreoffice,556731,0,130,77378,0,3,585067,556861,99.97665485641839,Italian <l10n@it.libreoffice.org>
+libreport,2468,0,2425,385,0,214,2765,4893,50.439403229102794,Italian (http://www.transifex.com/projects/p/libreport/language/it/)
+librfm,2397,0,0,598,0,0,3932,2397,100.0,Italian <tp@lists.linux.it>
+libsecret,59,0,0,9,0,0,65,59,100.0,Italian <tp@lists.linux.it>
+libsmbios,0,0,2411,0,0,400,0,2411,0.0,Italian
+libsoup,155,0,0,36,0,0,193,155,100.0,Italian <tp@lists.linux.it>
+libuser,996,38,403,213,7,81,1179,1437,69.31106471816284,Italian (http://www.transifex.com/projects/p/fedora/language/it/)
+libvirt,10098,766,47616,1874,122,7144,11845,58480,17.267441860465116,Italian (http://www.transifex.com/projects/p/libvirt/language/it/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Italian (http://www.transifex.com/projects/p/libvirt-glib/language/it/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Italian <trans-it@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1261,1124,100.0,Italian <tp@lists.linux.it>
+libwnck3,1086,0,0,231,0,0,1208,1086,100.0,Italian <tp@lists.linux.it>
+libxfce4ui,871,0,0,169,0,0,1031,871,100.0,Italian (http://www.transifex.com/projects/p/libxfce4ui/language/it/)
+libxfce4util,424,0,0,7,0,0,417,424,100.0,Italian Translation Team <xfce-it-translators@googlegroups.com>
+lifeograph,383,331,290,102,82,87,408,1004,38.147410358565736,Italian <it@li.org>
+liferea,2264,0,0,498,0,0,2431,2264,100.0,Italiano <tp@linux.it>
+light-locker,193,0,67,28,0,9,201,260,74.23076923076923,Italian (http://www.transifex.com/the_cavalry/light-locker/language/it/)
+lightdm,79,0,84,17,0,4,79,163,48.466257668711656,Italian <it@li.org>
+lightdm-gtk,84,0,0,24,0,0,73,84,100.0,Italian <it@li.org>
+lightdm-kde,125,0,9,55,0,2,145,134,93.28358208955224,Italian <kde-i18n-it@kde.org>
+lightdm-settings,251,0,0,57,0,0,265,251,100.0,Italian <it@li.org>
+lightsoff,96,0,0,18,0,0,120,96,100.0,Italiano <gnome-it-list@gnome.org>
+lilypond,5385,39,7948,883,29,2361,6565,13372,40.270714926712536,Italian <tp@lists.linux.it>
+lilyterm,1545,0,103,294,0,1,1661,1648,93.75,Italian <IT@li.org>
+limnoria,21009,103,120,1351,11,14,19992,21232,98.94969856819894,Italian <skizzhg@gmx.com>
+lingot,112,32,1253,45,9,76,126,1397,8.017179670722978,<cereda.ste@gmail.com>
+linphone,953,220,680,237,73,155,920,1853,51.43011332973556,it <it@li.org>
+linsmith,580,44,50,321,25,21,641,674,86.05341246290801,<it@li.org>
+linux_logo,45,3,6,15,3,5,45,54,83.33333333333334,Italian <tp@lists.linux.it>
+lollypop,984,0,0,284,0,0,1070,984,100.0,Italian (http://www.transifex.com/gnumdk/lollypop/language/it/)
+londonlaw,642,0,0,168,0,0,712,642,100.0,Italian <it@li.org>
+lxappearance,234,0,0,80,0,0,279,234,100.0,Italian
+lxappearance-obconf,196,0,0,27,0,0,216,196,100.0,Italian <tp@lists.linux.it>
+lxdm,47,0,0,25,0,0,51,47,100.0,Italian
+lxinput,72,0,11,24,0,2,78,83,86.74698795180723,LANGUAGE <LL@li.org>
+lxlauncher,58,0,0,17,0,0,58,58,100.0,
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,Italian <tp@lists.linux.it>
+lxmusic,203,0,0,89,0,0,215,203,100.0,Italian
+lxpanel,1367,0,0,445,0,0,1457,1367,100.0,<lxde-i18n@lists.sourceforge.net>
+lxsession,142,81,532,52,32,82,146,755,18.807947019867548,ja_JP <LL@li.org>
+lxshortcut,43,0,0,19,0,0,49,43,100.0,
+lxtask,129,0,1,50,0,1,145,130,99.23076923076923,Italian
+lxterminal,147,33,67,85,16,30,179,247,59.51417004048582,Italian
+lynx,8049,0,4,1218,0,1,9293,8053,99.95032906991183,Italian <tp@lists.linux.it>
+lyx,23247,0,0,6921,0,0,24767,23247,100.0,italiano <it@li.org>
+mailman,20674,1657,1712,1337,52,51,21078,24043,85.98760554007403,<it@li.org>
+mailnag,145,0,60,50,0,9,156,205,70.73170731707317,Italian <it@li.org>
+make,2219,63,9,426,11,1,2629,2291,96.85726756874728,Italian <tp@lists.linux.it>
+man-db,682,123,485,139,16,101,797,1290,52.86821705426357,Italian <tp@lists.linux.it>
+man2html,58,0,0,3,0,0,59,58,100.0,Italian <it@li.org>
+manaplus,4156,0,2052,1203,0,488,4468,6208,66.94587628865979,Italian (http://www.transifex.com/projects/p/manaplus/language/it/)
+marco,4089,0,0,414,0,0,4637,4089,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mariadb,265,9,0,21,1,0,261,274,96.71532846715328,Italian <debian-l10n-italian@lists.debian.org>
+massif-visualizer,377,5,3,105,1,2,423,385,97.92207792207792,Italian <kde-i18n-it@kde.org>
+mate-applets,6924,0,0,966,0,0,7163,6924,100.0,Italian
+mate-backgrounds,30,0,0,21,0,0,28,30,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-calc,2389,239,319,609,8,40,2608,2947,81.06549032914828,Italiano <tp@lists.linux.it>
+mate-control-center,2957,0,0,668,0,0,3252,2957,100.0,Italian tp@lists.linux.it
+mate-desktop,2346,0,0,330,0,0,2603,2346,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-media,226,0,0,96,0,0,234,226,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-menu,300,0,0,110,0,0,331,300,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-menus,97,0,0,37,0,0,109,97,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-notification-daemon,139,0,0,37,0,0,155,139,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-panel,6065,17,56,743,1,1,6367,6138,98.81068752036494,
+mate-polkit,313,0,0,50,0,0,339,313,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-power-manager,6584,0,4,639,0,1,6794,6588,99.93928354584092,Italian <tp@lists.linux.it>
+mate-screensaver,983,0,0,156,0,0,1041,983,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-sensors-applet,304,0,0,105,0,0,343,304,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-session-manager,681,0,0,114,0,0,749,681,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-settings-daemon,1764,0,0,253,0,0,1988,1764,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-system-monitor,1307,0,0,308,0,0,1504,1307,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-terminal,8103,0,0,783,0,0,8202,8103,100.0,Italian <tp@lists.linux.it>
+mate-themes,58,0,0,11,0,0,77,58,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+mate-user-guide,37169,2777,359,2731,120,22,38308,40305,92.2193276268453,Italian <tp@lists.linux.it>
+mate-utils,9820,0,0,1095,0,0,10216,9820,100.0,Italian <tp@lists.linux.it>
+maya-calendar,427,0,0,172,0,0,493,427,100.0,Italian <it@li.org>
+mc,4021,73,59,1195,10,13,4369,4153,96.82157476522995,Italian (http://www.transifex.com/projects/p/mc/language/it/)
+mcomix,2413,108,46,482,40,12,2679,2567,94.00077911959485,Arch Linux Italian Team <giovanni@archlinux.org>
+meld,2519,0,0,496,0,0,2818,2519,100.0,Italian <tp@lists.linux.it>
+menulibre,676,0,25,142,0,7,661,701,96.43366619115548,Italian <it@li.org>
+mercurial,11787,17,22317,1872,3,1233,13598,34121,34.54470853726444,Italian <Italian>
+metacity,2042,0,0,311,0,0,2383,2042,100.0,Italian <tp@lists.linux.it>
+mhwaveedit,4372,111,64,779,23,21,4230,4547,96.15130855509126,Italian <IT@li.org>
+midori,3485,0,56,788,0,8,3944,3541,98.41852584015814,Italian <xfce-it-translators@googlegroups.com>
+minetest,4650,844,912,795,113,116,5356,6406,72.58819856384639,Italian <https://hosted.weblate.org/projects/minetest/minetest/it/>
+mingw-GConf2,4088,0,0,497,0,0,4609,4088,100.0,Italiano <tp@lists.linux.it>
+mingw-atk,440,0,0,169,0,0,491,440,100.0,Italian <tp@lists.linux.it>
+mingw-binutils,17028,0,0,2800,0,0,19717,17028,100.0,Italian <tp@lists.linux.it>
+mingw-colord,1888,0,385,206,0,96,1987,2273,83.06203255609327,Italian (http://www.transifex.com/projects/p/colord/language/it/)
+mingw-colorhug-client,1145,0,264,246,0,48,1282,1409,81.26330731014905,Italian (Italy) (http://www.transifex.com/projects/p/colorhug-client/language/it_IT/)
+mingw-gdb,1371,0,0,234,0,0,1595,1371,100.0,Italian <tp@lists.linux.it>
+mingw-gdk-pixbuf,1393,0,0,208,0,0,1583,1393,100.0,Italian <tp@lists.linux.it>
+mingw-gettext,7396,135,252,757,26,44,8080,7783,95.02762430939227,Italian <tp@lists.linux.it>
+mingw-glib-networking,161,0,0,29,0,0,191,161,100.0,Italian <tp@lists.linux.it>
+mingw-glib2,6623,0,0,1043,0,0,7534,6623,100.0,Italian <tp@lists.linux.it>
+mingw-gnutls,1358,131,170,320,32,30,1549,1659,81.85654008438819,Italian <tp@lists.linux.it>
+mingw-gstreamer,1898,5,14,343,2,3,2170,1917,99.00886802295254,Italian <tp@lists.linux.it>
+mingw-gstreamer-plugins-bad-free,72,4,20,12,1,1,82,96,75.0,Italian <tp@lists.linux.it>
+mingw-gstreamer-plugins-base,667,0,241,136,0,42,747,908,73.45814977973568,Italian <tp@lists.linux.it>
+mingw-gstreamer-plugins-good,788,23,3,187,2,1,873,814,96.80589680589681,Italian <tp@lists.linux.it>
+mingw-gstreamer1,1747,112,173,320,18,34,2006,2032,85.9744094488189,Italian <tp@lists.linux.it>
+mingw-gstreamer1-plugins-bad-free,62,34,156,10,6,22,71,252,24.6031746031746,Italian <tp@lists.linux.it>
+mingw-gstreamer1-plugins-base,416,69,464,86,19,93,458,949,43.83561643835616,Italian <tp@lists.linux.it>
+mingw-gstreamer1-plugins-good,473,212,76,67,27,13,524,761,62.155059132720105,Italian <tp@lists.linux.it>
+mingw-gtk-vnc,81,0,0,22,0,0,92,81,100.0,Italian <tp@lists.linux.it>
+mingw-gtk2,12452,0,0,2590,0,0,13529,12452,100.0,Italian <tp@lists.linux.it>
+mingw-gtk3,16008,0,0,3575,0,0,17363,16008,100.0,Italiano <gnome-it-list@gnome.org>
+mingw-gtkhtml3,488,0,0,310,0,0,514,488,100.0,Italian <tp@lists.linux.it>
+mingw-gtksourceview3,1118,0,0,621,0,0,1196,1118,100.0,Italian <tp@lists.linux.it>
+mingw-gtkspell3,16,0,0,7,0,0,18,16,100.0,Italian <tp@lists.linux.it>
+mingw-hunspell,499,10,10,68,1,2,542,519,96.14643545279384,Italian <tp@lists.linux.it>
+mingw-libgpg-error,925,229,121,311,62,30,1102,1275,72.54901960784314,Italian <tp@lists.linux.it>
+mingw-libgsf,696,0,0,146,0,0,760,696,100.0,Italian <tp@lists.linux.it>
+mingw-libidn,414,0,14,58,0,2,440,428,96.72897196261682,Italian <tp@lists.linux.it>
+mingw-libsoup,155,0,0,36,0,0,193,155,100.0,Italian <tp@lists.linux.it>
+mingw-libvirt,10098,766,47616,1874,122,7144,11845,58480,17.267441860465116,Italian (http://www.transifex.com/projects/p/libvirt/language/it/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Italian (http://www.transifex.com/projects/p/libvirt-glib/language/it/)
+mingw-p11-kit,476,0,0,81,0,0,513,476,100.0,Italian (http://www.transifex.com/freedesktop/p11-kit/language/it/)
+mingw-postgresql,54546,0,0,7676,0,0,64976,54546,100.0,Gruppo traduzioni ITPUG <traduzioni@itpug.org>
+mingw-qt5-qtwebkit,1443,595,593,337,125,110,1612,2631,54.846066134549595,Italian <tp@lists.linux.it>
+mingw-sane-backends,3924,328,655,784,119,135,4694,4907,79.967393519462,italian translation project <tp@lists.linux.it>
+mingw-spice-gtk,303,0,0,68,0,0,318,303,100.0,
+mingw-webkitgtk,2004,650,27,435,141,4,2297,2681,74.74822827303245,Italian <tp@lists.linux.it>
+mingw-webkitgtk3,2004,650,27,435,141,4,2297,2681,74.74822827303245,Italian <tp@lists.linux.it>
+mingw-wxWidgets,6150,109,133,1363,24,89,6840,6392,96.21401752190238,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+mingw-xz,1360,0,0,156,0,0,1583,1360,100.0,Italian <tp@lists.linux.it>
+mintmenu,7472,0,0,1228,0,0,8089,7472,100.0,Italian <it@li.org>
+mirage,581,133,103,172,52,21,612,817,71.1138310893513,Scott Horowitz <stonecrest@gmail.com>
+mkvtoolnix,20651,9,15,2491,1,1,20465,20675,99.8839177750907,bovirus <bovirus@gmail.com>
+mlocate,406,175,0,50,1,0,451,581,69.87951807228916,Italian <trans-it@lists.fedoraproject.org>
+modem-manager-gui,353,0,958,91,0,297,405,1311,26.926010678871094,Italian (http://www.transifex.com/ethereal/modem-manager-gui/language/it/)
+moin,5011,27,6,926,5,2,5417,5044,99.34575733544806,
+monodevelop,10867,5924,6507,2519,1737,1042,11006,23298,46.64348871147738,Italian <tp@lists.linux.it>
+monotone,9939,0,2008,1401,0,180,10984,11947,83.19243324684021,
+moodle,50,2,0,13,1,0,50,52,96.15384615384616,i18n@lists.horde.org
+mousepad,1088,0,0,306,0,0,1152,1088,100.0,Italian (http://www.transifex.com/projects/p/xfce-apps/language/it/)
+mousetweaks,114,0,0,30,0,0,146,114,100.0,Italian <tp@lists.linux.it>
+mozo,42,0,0,16,0,0,47,42,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+msitools,68,0,0,25,0,0,81,68,100.0,Italian <tp@lists.linux.it>
+mtpaint,3004,0,127,834,0,38,3127,3131,95.94378792717981,LANGUAGE <LL@li.org>
+muffin,2511,0,0,361,0,0,2950,2511,100.0,Italiano <tp@lists.linux.it>
+multimedia-menus,56,0,0,22,0,0,69,56,100.0,Italian
+mutt,4692,729,369,1042,95,63,5309,5790,81.03626943005182,none
+mutter,823,0,0,128,0,0,947,823,100.0,Italian <tp@lists.linux.it>
+mypaint,4287,0,0,734,0,0,4508,4287,100.0,Officine Pixel
+nacl-arm-binutils,17028,0,0,2800,0,0,19717,17028,100.0,Italian <tp@lists.linux.it>
+nacl-binutils,17028,0,0,2800,0,0,19717,17028,100.0,Italian <tp@lists.linux.it>
+nano,2696,161,100,448,21,23,2718,2957,91.17348664186676,Italian <tp@lists.linux.it>
+nautilus,5893,0,0,1108,0,0,6207,5893,100.0,Italiano <gnome-it-list@gnome.org>
+nautilus-image-converter,21,0,0,7,0,0,25,21,100.0,Italian <it@li.org>
+nautilus-pastebin,61,8,15,10,2,3,64,84,72.61904761904762,Italian <it@li.org>
+nautilus-search-tool,11,0,0,2,0,0,10,11,100.0,Italian <Italian <tp@lists.linux.it>>
+nautilus-sendto,56,0,0,10,0,0,67,56,100.0,Italiano <gnome-it-list@gnome.org>
+ncmpc,437,9,342,163,3,110,528,788,55.45685279187818,Italian <it@li.org>
+nemiver,1341,0,0,340,0,0,1333,1341,100.0,Italian <tp@lists.linux.it>
+nemo-extensions,258,0,0,49,0,0,295,258,100.0,Italian <it@li.org>
+neovim,6967,0,0,1392,0,0,7721,6967,100.0,Antonio Colombo   <azc100@gmail.com>                   Vlad Sandrini     <vlad.gently@gmail.com                   Luciano Montanaro <mikelima@cirulla.net>
+net6,304,0,0,68,0,0,343,304,100.0,Italian <it@li.org>
+network-manager-applet,3422,0,0,768,0,0,3783,3422,100.0,Italian <tp@lists.linux.it>
+neverball,2735,0,0,359,0,0,2110,2735,100.0,Italian (http://www.transifex.com/projects/p/neverball/language/it/)
+newsbeuter,1177,111,54,310,13,11,1340,1342,87.70491803278688,Claudio M. Alessi <somppy@gmail.com>
+newt,4,0,0,4,0,0,4,4,100.0,Debian Italian <debian-l10n-italian@lists.debian.org>
+nicotine+,1967,540,1633,499,191,256,2098,4140,47.51207729468599,nicola <info@nicoladimaria.info>
+nightfall,3451,0,0,783,0,0,4379,3451,100.0,italiano <it@li.org>
+nmap,3518,0,0,481,0,0,3743,3518,100.0,
+nodm,188,10,54,12,1,4,197,252,74.60317460317461,Italian <tp@lists.linux.it>
+noise,1322,0,0,377,0,0,1524,1322,100.0,Italian <https://l10n.elementary.io/projects/music/music/it/>
+notification-daemon,33,0,0,11,0,0,36,33,100.0,Italian <tp@lists.linux.it>
+obby,159,0,0,32,0,0,185,159,100.0,Italian <it@li.org>
+obconf,686,0,52,144,0,12,690,738,92.95392953929539,Italian <tp@lists.linux.it>
+oggconvert,132,0,0,44,0,0,163,132,100.0,Italian <it@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,141,158,100.0,LANGUAGE <LL@li.org>
+onboard,2028,0,290,471,0,39,2390,2318,87.48921484037963,Italian <it@li.org>
+openbox,473,0,33,90,0,4,503,506,93.47826086956522,Italian <tp@lists.linux.it>
+openconnect,171,0,5048,47,0,852,208,5219,3.2764897489940603,Italian (http://www.transifex.net/projects/p/meego/team/it/)
+openerp,31460,0,25996,7273,0,1862,32090,57456,54.75494291283765,
+openerp-client,1895,0,5834,503,0,71,1995,7729,24.51804890671497,Italian <it@li.org>
+openerp7,33832,0,20491,6913,0,1144,34476,54323,62.27932919757745,Italian <it@li.org>
+openjfx,1584,0,0,379,0,0,1794,1584,100.0,Italian <tp@lists.linux.it>
+openteacher,167,0,90,87,0,16,185,257,64.98054474708171,Italian <it@li.org>
+orage,2931,0,0,1030,0,0,3280,2931,100.0,Italian (http://www.transifex.com/projects/p/xfce-apps/language/it/)
+orca,5344,0,0,1739,0,0,6102,5344,100.0,Italian <tp@lists.linux.it>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Italian (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/it/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Italian
+osmo,1604,0,122,660,0,34,1613,1726,92.9316338354577,Italian
+p11-kit,476,0,0,81,0,0,513,476,100.0,Italian (http://www.transifex.com/freedesktop/p11-kit/language/it/)
+pacemaker,7463,15358,17147,763,687,823,7781,39968,18.672437950360287,None
+pacman,5382,0,16,893,0,3,6472,5398,99.70359392367544,Italian (http://www.transifex.com/toofishes/archlinux-pacman/language/it/)
+pam,575,22,0,117,3,0,614,597,96.31490787269682,Italian <trans-it@lists.fedoraproject.org>
+pam_krb5,7,0,0,4,0,0,8,7,100.0,Italian (http://www.transifex.com/projects/p/pam_krb5/language/it/)
+pan,194,1615,1359,74,446,232,229,3168,6.123737373737374,italiano <it@li.org>
+pantheon-agent-polkit,17,0,0,9,0,0,18,17,100.0,LANGUAGE <LL@li.org>
+pantheon-calculator,78,0,0,36,0,0,91,78,100.0,LANGUAGE <LL@li.org>
+pantheon-files,2637,0,39,516,0,7,2920,2676,98.54260089686099,Italian <it@li.org>
+pantheon-greeter,29,0,0,10,0,0,31,29,100.0,Italian <it@li.org>
+pantheon-photos,4114,0,0,873,0,0,4422,4114,100.0,Italian <https://l10n.elementary.io/projects/photos/photos/it/>
+pantheon-terminal,224,0,0,58,0,0,259,224,100.0,Italian <https://l10n.elementary.io/projects/terminal/terminal/it/>
+paprefs,51,70,10,8,13,2,53,131,38.93129770992366,Italian <fedora-trans-it at redhat.com>
+parcellite,156,0,0,52,0,0,177,156,100.0,Italian <tp@lists.linux.it>
+parole,929,0,0,273,0,0,1012,929,100.0,Italian (http://www.transifex.com/xfce/xfce-apps/language/it/)
+parted,4416,0,0,550,0,0,4678,4416,100.0,Italian <tp@lists.linux.it>
+passwd,315,0,0,55,0,0,341,315,100.0,Italian <trans-it@lists.fedoraproject.org>
+pastebinit,183,0,0,27,0,0,203,183,100.0,LANGUAGE <LL@li.org>
+pavucontrol,198,12,27,72,8,7,253,237,83.54430379746836,Italian <fedora-trans-it at redhat.com>
+pbuilder,96,0,0,9,0,0,107,96,100.0,Italian <debian-l10n-italian@lists.debian.org>
+pcmanfm,1210,0,0,296,0,0,1348,1210,100.0,Italian <debian-l10n-italian@lists.debian.org>
+pdfmod,249,0,2,69,0,1,288,251,99.20318725099602,Italian <tp@lists.linux.it>
+pdfshuffler,27,24,74,14,6,23,30,125,21.6,netcelli <netcelli@gmail.com>
+perl-Padre,5670,0,0,1303,0,0,6080,5670,100.0,<simone.blandino@gmail.com>
+perl-libintl-perl,19,0,0,19,0,0,19,19,100.0,Italian <guido.flohr@cantanea.com>
+pessulus,146,0,0,35,0,0,181,146,100.0,Italian <tp@lists.linux.it>
+pgadmin3,9634,6268,996,2689,1544,169,10798,16898,57.01266422061783,Translation project <tp@lists.linux.it>
+phatch,2090,0,463,717,0,107,2239,2553,81.864473168821,Italian <it@li.org>
+photocollage,46,0,0,20,0,0,51,46,100.0,none <none@none.com>
+php-horde-Horde-Alarm,1,7,5,1,3,1,1,13,7.6923076923076925,i18n@lists.horde.org
+php-horde-Horde-Argv,1,3,56,1,3,9,1,60,1.6666666666666667,i18n@lists.horde.org
+php-horde-Horde-Browser,52,0,14,5,0,1,57,66,78.78787878787878,i18n@lists.horde.org
+php-horde-Horde-Cli,11,0,0,3,0,0,12,11,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,10,15,0,3,3,0,14,25,40.0,i18n@lists.horde.org
+php-horde-Horde-Core,771,0,0,211,0,0,748,771,100.0,<i18n@lists.horde.org>
+php-horde-Horde-Crypt,375,9,12,94,1,2,407,396,94.6969696969697,i18n@lists.horde.org
+php-horde-Horde-Data,7,0,0,2,0,0,7,7,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,6,12,18,5,3,3,7,36,16.666666666666664,i18n@lists.horde.org
+php-horde-Horde-Exception,2,2,0,1,1,0,2,4,50.0,i18n@lists.horde.org
+php-horde-Horde-Form,529,12,12,137,6,3,508,553,95.66003616636529,i18n@lists.horde.org
+php-horde-Horde-Icalendar,3,0,0,1,0,0,3,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Image,22,136,423,21,78,186,22,581,3.7865748709122204,i18n@lists.horde.org
+php-horde-Horde-Imsp,14,0,0,2,0,0,11,14,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,0,3,53,0,1,9,0,56,0.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,68,15,37,5,2,2,62,120,56.666666666666664,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,7,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,48,0,0,12,0,0,48,48,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,1,4,42,1,3,16,1,47,2.127659574468085,i18n@lists.horde.org
+php-horde-Horde-Nls,430,0,0,263,0,0,427,430,100.0,i18n@lists.horde.org
+php-horde-Horde-Perms,6,0,0,5,0,0,7,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,32,0,0,8,0,0,30,32,100.0,i18n@lists.horde.org
+php-horde-Horde-Rpc,43,5,0,6,1,0,45,48,89.58333333333334,i18n@lists.horde.org
+php-horde-Horde-Share,26,12,10,8,2,2,24,48,54.166666666666664,i18n@lists.horde.org
+php-horde-Horde-SyncMl,3,0,0,1,0,0,5,3,100.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,29,0,6,1,0,1,20,35,82.85714285714286,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,9,10,100.0,i18n@lists.horde.org
+php-horde-horde,3535,0,28,866,0,1,3684,3563,99.21414538310412,Italian <dev@lists.horde.org>
+php-horde-imp,6908,0,0,1405,0,0,7216,6908,100.0,i18n@lists.horde.org
+php-horde-ingo,1093,0,0,280,0,0,1166,1093,100.0,<i18n@lists.horde.org>
+php-horde-kronolith,3836,0,19,799,0,1,3929,3855,99.50713359273671,<i18n@lists.horde.org>
+php-horde-mnemo,579,0,0,146,0,0,598,579,100.0,<i18n@lists.horde.org>
+php-horde-nag,1632,0,0,380,0,0,1658,1632,100.0,<i18n@lists.horde.org>
+php-horde-passwd,471,0,0,77,0,0,490,471,100.0,<i18n@lists.horde.org>
+php-horde-turba,1771,0,0,421,0,0,1721,1771,100.0,Italian <dev@lists.horde.org>
+php-horde-wicked,534,117,20,132,34,9,525,671,79.58271236959762,i18n@lists.horde.org
+php-phpmyadmin-sql-parser,227,0,0,44,0,0,269,227,100.0,Italian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/it/>
+phpesp,951,511,768,217,70,121,1013,2230,42.6457399103139,it_IT <jflemer@alum.rpi.edu>
+picard,2893,0,0,1245,0,0,3227,2893,100.0,Italian (http://www.transifex.com/projects/p/musicbrainz/language/it/)
+pidgin,15616,10,130,3425,1,7,17573,15756,99.11144960649911,Italian (http://www.transifex.com/pidgin/pidgin/language/it/)
+pidgin-birthday-reminder,204,0,85,57,0,9,247,289,70.58823529411765,Italian (http://www.transifex.com/kgraefe/pidgin-birthday-reminder/language/it/)
+pidgin-guifications,466,8,31,186,1,5,494,505,92.27722772277228,<it@li.org>
+pidgin-libnotify,20,16,0,7,5,0,21,36,55.55555555555556,
+pidgin-musictracker,333,0,0,60,0,0,396,333,100.0,Italian
+pidgin-otr,550,0,0,100,0,0,564,550,100.0,Vincenzo Reale <smart2128@baslug.org>
+pidgin-sipe,870,0,194,218,0,38,981,1064,81.76691729323309,Italian (http://www.transifex.com/stefanb/pidgin-sipe/language/it/)
+pikdev,1993,0,0,330,0,0,2275,1993,100.0,LANGUAGE <LL@li.org>
+piklab,996,1287,4945,436,420,923,1103,7228,13.779745434421695,
+pingus,3823,890,704,392,30,30,3647,5417,70.57411851578365,http://translationproject.org/
+pinta,1294,0,324,460,0,68,1496,1618,79.97527812113721,Italian <it@li.org>
+pioneers,2987,0,2,787,0,1,3009,2989,99.93308798929408,it <it@li.org>
+pitivi,1391,0,0,408,0,0,1490,1391,100.0,Italiano <tp@lists.linux.it>
+pix,3721,0,0,1204,0,0,3880,3721,100.0,Italian
+plank,189,0,0,50,0,0,264,189,100.0,Italian <it@li.org>
+planner,1834,0,0,533,0,0,1871,1834,100.0,Italian <tp@lists.linux.it>
+plasma-applet-weather-widget,166,0,0,56,0,0,190,166,100.0,Armando Brandonisio <armando.brandonisio@gmail.com>
+plasma-breeze,255,0,0,96,0,0,357,255,100.0,Italian <kde-i18n-it@kde.org>
+plasma-desktop,12529,0,26,2339,0,4,13303,12555,99.79291119076066,Italian <kde-i18n-it@kde.org>
+plasma-discover,1067,0,0,327,0,0,1182,1067,100.0,Italian <kde-i18n-it@kde.org>
+plasma-integration,58,0,0,21,0,0,58,58,100.0,Italian <kde-i18n-it@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,186,172,100.0,Italian <kde-i18n-it@kde.org>
+plasma-milou,35,0,0,15,0,0,39,35,100.0,Italian <kde-i18n-it@kde.org>
+plasma-nm,4441,0,0,1133,0,0,5045,4441,100.0,Italian <kde-i18n-it@kde.org>
+plasma-oxygen,807,0,0,295,0,0,1065,807,100.0,Italian <kde-i18n-it@kde.org>
+plasma-pa,160,0,0,69,0,0,187,160,100.0,Italian <kde-i18n-it@kde.org>
+plasma-sdk,879,0,0,258,0,0,985,879,100.0,Italian <kde-i18n-it@kde.org>
+plasma-systemsettings,186,0,0,43,0,0,220,186,100.0,Italian <kde-i18n-it@kde.org>
+plasma-user-manager,289,0,0,49,0,0,302,289,100.0,Italian <kde-i18n-it@kde.org>
+plasma-workspace,13695,20,8,3390,9,2,14910,13723,99.79596298185528,Italian <kde-i18n-it@kde.org>
+playonlinux,2372,0,356,406,0,43,2448,2728,86.95014662756599,it_IT.UTF-8 <LL@li.org>
+pluma,12651,0,0,1779,0,0,13112,12651,100.0,Italian <tp@lists.linux.it>
+pmount,723,0,0,63,0,0,810,723,100.0,Italian <tp@lists.linux.it>
+po4a,10291,25,17530,880,4,834,10524,27846,36.95683401565755,Italian <tp@lists.linux.it>
+poedit,2491,0,1,536,0,1,2759,2492,99.95987158908507,Italian
+pogo,576,0,0,101,0,0,594,576,100.0,Italian <it@li.org>
+polari,633,0,0,154,0,0,678,633,100.0,Italian <tp@lists.linux.it>
+policycoreutils,4458,517,10381,677,105,1374,4780,15356,29.03099765563949,Italian (Italy) (http://www.transifex.com/projects/p/fedora/language/it_IT/)
+polkit-gnome,94,0,0,16,0,0,94,94,100.0,Italiana <tp@lists.linux.it>
+polkit-kde,94,0,0,28,0,0,100,94,100.0,Italian <kde-i18n-it@kde.org>
+pondus,304,0,20,79,0,12,341,324,93.82716049382715,Italian (http://www.transifex.net/projects/p/pondus/team/it/)
+popt,78,0,6,29,0,2,90,84,92.85714285714286,Italian <tp@lists.linux.it>
+postgis,34562,79,109522,2347,3,5284,35302,144163,23.97425136824289,LANGUAGE <kde-i18n-doc@kde.org>
+postgresql,54759,0,0,7696,0,0,65219,54759,100.0,Gruppo traduzioni ITPUG <traduzioni@itpug.org>
+postgresql-jdbc,1353,290,613,157,37,84,1603,2256,59.97340425531915,Italian <tp@lists.linux.it>
+powerdevil,673,0,0,120,0,0,722,673,100.0,Italian <kde-i18n-it@kde.org>
+pragha,564,0,326,198,0,78,625,890,63.370786516853926,Italian (http://www.transifex.com/p/Pragha/language/it/)
+prewikka,820,60,341,309,18,76,904,1221,67.15806715806715,Italian
+printrun,408,444,1804,120,96,281,445,2656,15.36144578313253,Italian RepRap Community <reprap-italia@googlegroups.com>
+proftpd,823,0,0,198,0,0,884,823,100.0,Francesco Paolo Lovergine <frankie@debian.org>
+prozilla,1503,0,0,273,0,0,1643,1503,100.0,<de@li.org>
+psad,467,0,0,31,0,0,518,467,100.0,Italian <tp@lists.linux.it>
+psmisc,781,141,7,82,1,1,858,929,84.06889128094726,Italian <tp@lists.linux.it>
+publican,28173,537,12894,1555,14,1333,28072,41604,67.71704643784251,<it@li.org>
+publican-fedora,6,0,101,1,0,7,7,107,5.607476635514018,<it@li.org>
+publican-jboss,120,3,109,9,1,4,128,232,51.724137931034484,<it@li.org>
+pulseaudio,3529,0,0,529,0,0,3906,3529,100.0,Italian <tp@lists.linux.it>
+pulsecaster,145,2,0,19,1,0,146,147,98.63945578231292,it <LL@li.org>
+purple-discord,155,2,0,46,1,0,194,157,98.72611464968153,Italian <>
+purple-telegram,644,0,0,123,0,0,677,644,100.0,Italian (Italy) (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/it_IT/)
+pybliographer,573,0,0,186,0,0,634,573,100.0,<tp@lists.linux.it>
+pychess,2742,0,1713,682,0,197,2954,4455,61.54882154882155,Italian (http://www.transifex.com/gbtami/pychess/language/it/)
+pykickstart,294,0,1084,30,0,121,316,1378,21.335268505079828,Italian (http://www.transifex.com/projects/p/pykickstart/language/it/)
+pyroom,266,0,145,55,0,19,273,411,64.72019464720195,Italian <it@li.org>
+python-blivet,463,0,229,76,0,21,488,692,66.90751445086705,Italian (http://www.transifex.com/projects/p/blivet/language/it/)
+python-blivet1,503,0,193,109,0,22,533,696,72.27011494252874,Italian
+python-caja,6,0,0,2,0,0,6,6,100.0,Italian (http://www.transifex.com/mate/MATE/language/it/)
+python-colander,161,0,0,30,0,0,172,161,100.0,it <LL@li.org>
+python-django,3552,0,10,786,0,2,3796,3562,99.71925884334644,Italian (http://www.transifex.com/django/django/language/it/)
+python-django-countries,439,0,0,264,0,0,419,439,100.0,Italian (http://www.transifex.com/smileychris/django-countries/language/it/)
+python-django-debug-toolbar,355,0,2,136,0,1,368,357,99.43977591036415,Italian (http://www.transifex.com/projects/p/django-debug-toolbar/language/it/)
+python-django-extensions,42,0,0,14,0,0,41,42,100.0,LANGUAGE <LL@li.org>
+python-django-formtools,32,0,0,11,0,0,32,32,100.0,Italian (http://www.transifex.com/projects/p/django-formtools/language/it/)
+python-django-helpdesk,3242,0,0,487,0,0,3219,3242,100.0,Italian (http://www.transifex.com/projects/p/django-helpdesk/language/it/)
+python-django-keyedcache,18,0,0,10,0,0,21,18,100.0,Italiano <it@li.org>
+python-django-openstack-auth,84,0,0,16,0,0,100,84,100.0,Italian
+python-django-profile,129,388,628,44,77,251,150,1145,11.26637554585153,Italian <tp@lists.linux.it>
+python-django-registration,84,0,0,17,0,0,87,84,100.0,Italiano <it@li.org>
+python-django-rest-framework,511,0,51,78,0,12,589,562,90.92526690391459,Italian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/it/)
+python-django-reversion,117,0,0,20,0,0,118,117,100.0,LANGUAGE <LL@li.org>
+python-django-robots,212,0,0,18,0,0,206,212,100.0,Italian (http://www.transifex.com/jazzband/django-robots/language/it/)
+python-django-simple-captcha,11,0,0,3,0,0,13,11,100.0,Arjuna Del Toso <stupidate@gmail.com>
+python-fedora,212,0,2,28,0,1,218,214,99.06542056074767,Italian (http://www.transifex.com/projects/p/python-fedora/language/it/)
+python-flask-admin,361,0,0,109,0,0,393,361,100.0,Italian
+python-imdb,297,0,24,297,0,24,616,321,92.5233644859813,Davide Alberani <da@erlug.linux.it>
+python-kiwi,208,3,19,62,3,9,200,230,90.43478260869566,Sandro Bonazzola <sandrobonazzola@users.sourceforge.net>
+python-lettuce,7613,0,0,2450,0,0,7841,7613,100.0,Italian <django-it@googlegroups.com>
+python-meh,2,0,107,2,0,21,2,109,1.834862385321101,Italian (http://www.transifex.com/projects/p/python-meh/language/it/)
+python-oslo-i18n,6,0,0,1,0,0,6,6,100.0,Italian
+python-oslo-versionedobjects,22,0,0,5,0,0,27,22,100.0,Italian
+python-sphinx,545,0,0,197,0,0,588,545,100.0,Italian (http://www.transifex.com/sphinx-doc/sphinx-1/language/it/)
+qemu,31,0,1,16,0,1,34,32,96.875,Italian <it@li.org>
+qof,554,0,0,35,0,0,600,554,100.0,Italian <tp@lists.linux.it>
+qt-recordmydesktop,816,0,0,104,0,0,881,816,100.0,Arch Linux Italian Team <linuxmania@gmail.com>
+qtwebkit,1472,0,0,343,0,0,1642,1472,100.0,Italian <tp@lists.linux.it>
+quadrapassel,2073,0,0,157,0,0,2163,2073,100.0,Italian <tp@lists.linux.it>
+quassel,4278,0,1104,1015,0,196,4654,5382,79.48717948717949,Italian (http://www.transifex.com/ald/quassel/language/it/)
+quick-usb-formatter,106,0,0,25,0,0,102,106,100.0,Italian
+quitcount,154,12,0,39,1,0,190,166,92.7710843373494,it <iwkse@claws-mail.org>
+quodlibet,1427,1084,3220,424,350,606,1562,5731,24.899668469726052,Italian
+rabbitvcs,1284,0,240,381,0,91,1348,1524,84.25196850393701,Italian <it@li.org>
+radiotray,130,0,0,46,0,0,142,130,100.0,Italian (http://www.transifex.com/projects/p/radiotray/language/it/)
+rapid-photo-downloader,1830,0,2,408,0,1,2071,1832,99.89082969432314,Italian <it@li.org>
+rapidsvn,1199,136,84,384,33,19,1302,1419,84.49612403100775,
+rawstudio,1337,208,61,425,68,9,1424,1606,83.25031133250312,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,0,0,1556,0,0,250,0,1556,0.0,Italian (http://www.transifex.com/projects/p/freedesktop/language/it/)
+recode,672,115,42,62,7,10,724,829,81.0615199034982,Italian <it@li.org>
+redhat-menus,261,0,0,86,0,0,296,261,100.0,Italiano <fedora-trans-it@redhat.com>
+rednotebook,1125,0,22,236,0,4,1234,1147,98.0819529206626,Italian <it@li.org>
+redshift,904,0,122,138,0,13,1042,1026,88.10916179337231,Italian <it@li.org>
+regexxer,426,17,24,88,3,9,427,467,91.22055674518201,Italian <it@translate.freefriends.org>
+rekall,3097,0,696,965,0,166,3516,3793,81.65040864750857,italiano <it@li.org>
+rekonq,2184,12,6,587,4,2,2456,2202,99.1825613079019,Italian <kde-i18n-it@kde.org>
+remmina,1031,0,551,306,0,159,1210,1582,65.17067003792667,Italian <it@li.org>
+renameutils,265,0,0,54,0,0,295,265,100.0,Italian <tp@lists.linux.it>
+resapplet,106,0,0,22,0,0,107,106,100.0,Novell Language <language@novell.com>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Italian
+rhash,449,0,0,93,0,0,543,449,100.0,Italian <ubuntu-l10n-it@lists.ubuntu.com>
+rhn-client-tools,2532,817,708,339,33,48,2771,4057,62.41064826226276,Italian (http://www.transifex.com/projects/p/spacewalk/language/it/)
+rhnsd,20,0,13,5,0,4,23,33,60.60606060606061,Italian <trans-it@lists.fedoraproject.org>
+rhythmbox,8764,0,0,1408,0,0,8706,8764,100.0,Italian <tp@lists.linux.it>
+rhythmbox-alternative-toolbar,310,0,0,58,0,0,373,310,100.0,Italian <it@li.org>
+ristretto,756,0,0,195,0,0,857,756,100.0,Italian (http://www.transifex.com/xfce/xfce-apps/language/it/)
+rkward,467,98,6569,147,21,776,505,7134,6.546117185309784,Italian <kde-i18n-it@kde.org>
+rodent,1806,607,7389,538,140,194,1949,9802,18.42481126300755,
+root,211,0,0,11,0,0,213,211,100.0,Italian <debian-l10n-italian@lists.debian.org>
+rpm,3512,250,371,704,47,56,4020,4133,84.97459472538108,Italian (http://www.transifex.com/rpm-team/rpm/language/it/)
+rsibreak,1098,0,0,153,0,0,1081,1098,100.0,Italian <kde-i18n-it@kde.org>
+rt,8422,0,2764,1922,0,593,9449,11186,75.29054174861433,Italian <it@li.org>
+rust,1360,0,32,156,0,5,1583,1392,97.70114942528735,Italian <tp@lists.linux.it>
+rygel,1616,0,0,303,0,0,1848,1616,100.0,Italiano <gnome-it-list@gnome.org>
+sagator,296,0,13,47,0,12,322,309,95.79288025889967,LANGUAGE <LL@li.org>
+sakura,192,10,6,65,3,2,255,208,92.3076923076923,sakura-it <nicola@entidi.it>
+samba,187,67,270,31,18,79,205,524,35.68702290076336,Novell Language <language@novell.com>
+sane-backends,3924,328,655,784,119,135,4694,4907,79.967393519462,italian translation project <tp@lists.linux.it>
+sawfish,2118,1560,2765,486,283,213,2208,6443,32.87288530187801,Italian <it@li.org>
+schroot,1049,512,133,253,92,20,1250,1694,61.92443919716647,Italian <tp@lists.linux.it>
+scilab,27061,846,22580,3905,113,3447,33732,50487,53.59993661734704,Italian <it@li.org>
+scim-hangul,19,0,0,8,0,0,23,19,100.0,Italian <kde-i18n-it@kde.org>
+scim-pinyin,204,430,0,58,28,0,263,634,32.17665615141956,Italian <kde-i18n-it@kde.org>
+scim-tables,1040,115,0,167,4,0,1125,1155,90.04329004329004,Italian <kde-i18n-it@kde.org>
+scmxx,1209,264,173,318,55,38,1428,1646,73.45078979343864,Italian <tp@lists.linux.it>
+scratch,1463,0,7,621,0,5,1649,1470,99.52380952380952,LANGUAGE <LL@li.org>
+scratch-text-editor,890,0,0,213,0,0,1062,890,100.0,LANGUAGE <LL@li.org>
+screenshot-tool,146,0,0,44,0,0,173,146,100.0,Italian <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/it/>
+scummvm,2845,249,808,697,59,138,2995,3902,72.91132752434649,Italian
+sddm-kcm,104,0,0,43,0,0,117,104,100.0,Italian <kde-i18n-it@kde.org>
+seahorse,2494,0,0,572,0,0,2490,2494,100.0,Italian <tp@lists.linux.it>
+seahorse-nautilus,487,0,0,121,0,0,523,487,100.0,Italian <tp@lists.linux.it>
+sed,466,30,52,80,3,8,520,548,85.03649635036497,Italian <tp@lists.linux.it>
+sensible-utils,72,0,0,13,0,0,75,72,100.0,Italian <debian-l10n-italian@lists.debian.org>
+setroubleshoot,619,0,0,163,0,0,667,619,100.0,Italian (http://www.transifex.com/projects/p/fedora/language/it/)
+setroubleshoot-plugins,6235,0,0,212,0,0,6346,6235,100.0,Italian (http://www.transifex.com/projects/p/fedora/language/it/)
+setuptool,55,0,0,14,0,0,62,55,100.0,Italiano <fedora-trans-it@redhat.com>
+sflphone,2877,0,290,714,0,99,3008,3167,90.84306915061573,LANGUAGE <LL@li.org>
+shadow-utils,17259,1748,1576,1389,217,205,17550,20583,83.85075061944323,Italian <tp@lists.linux.it>
+shared-mime-info,1803,0,66,706,0,23,1924,1869,96.46869983948636,Italian (http://www.transifex.com/freedesktop/shared-mime-info/language/it/)
+sharutils,432,210,2505,110,34,160,496,3147,13.727359389895138,Italian <tp@lists.linux.it>
+shotwell,4258,27,268,903,4,39,4424,4553,93.52075554579397,Italian (http://www.transifex.com/projects/p/shotwell/language/it/)
+shutter,3093,0,0,606,0,0,3297,3093,100.0,Italian <it@li.org>
+simon,5449,364,30,1121,43,6,5465,5843,93.25688858463118,Italian <kde-i18n-it@kde.org>
+simple-ccsm,84,0,11,21,0,2,87,95,88.42105263157895,Italian <tp@lists.linux.it>
+simple-scan,651,0,1274,168,0,85,775,1925,33.81818181818182,Italian <it@li.org>
+siril,8421,1,0,1215,1,0,9052,8422,99.98812633578721,Italian <sonia@zonia3000.net>
+six,233,0,0,83,0,0,286,233,100.0,Italian <kde-i18n-it@kde.org>
+skanlite,183,0,0,63,0,0,190,183,100.0,Italian <kde-i18n-it@kde.org>
+skrooge,10280,13,5,2221,2,1,10678,10298,99.82520877840358,Italian <kde-i18n-it@kde.org>
+skychart,6403,121,94,1908,9,25,6476,6618,96.7512843759444,PincoPallo Team
+sleuthkit,5102,478,1381,893,53,228,5434,6961,73.29406694440453,Italian <tp@lists.linux.it>
+slick-greeter,211,0,0,47,0,0,202,211,100.0,Italian <it@li.org>
+slingshot-launcher,215,1,1,66,1,1,226,217,99.07834101382488,Italian <https://l10n.elementary.io/projects/wingpanel/applications-menu/it/>
+slrn,4509,563,279,824,48,78,4750,5351,84.264623434872,Italian <it@li.org>
+smb4k,5628,422,251,632,45,21,6011,6301,89.31915568957308,Italian <kde-i18n-it@kde.org>
+smuxi,1718,0,3,396,0,1,1925,1721,99.82568274259151,Italian <tp@lists.linux.it>
+snap-photobooth,25,0,0,5,0,0,43,25,100.0,Italian <it@li.org>
+snapd,0,0,3717,0,0,413,0,3717,0.0,Italian <it@li.org>
+snapd-glib,10,0,0,2,0,0,10,10,100.0,Italian <it@li.org>
+snapper,743,0,0,180,0,0,860,743,100.0,Italian <opensuse-translation@opensuse.org>
+snownews,634,4,35,129,2,7,697,673,94.20505200594353,Italian <tp@lists.linux.it>
+solfege,3994,0,444,1025,0,36,4117,4438,89.99549346552502,Italian <tp@lists.linux.it>
+sos,54,33,35,11,7,12,67,122,44.26229508196721,<it@li.org>
+sound-juicer,986,0,0,187,0,0,1047,986,100.0,Italian <tp@lists.linux.it>
+soundconverter,383,0,5,120,0,1,431,388,98.71134020618557,Italian <it@li.org>
+soundkonverter,4062,0,0,570,0,0,4179,4062,100.0,Italian (http://www.transifex.com/hessijames/soundkonverter/language/it/)
+soundtracker,1569,11,68,452,7,10,1828,1648,95.20631067961165,Italian <tp@lists.linux.it>
+spacefm,4319,0,4759,1004,0,618,4863,9078,47.57655871337299,Italian (http://www.transifex.com/ignorantguru/spacefm/language/it/)
+sparkleshare,367,0,0,81,0,0,380,367,100.0,
+specto,219,151,565,57,40,130,251,935,23.422459893048128,Italian Translation Team <it@li.org>
+spice-gtk,303,0,0,68,0,0,318,303,100.0,
+splix,0,0,0,0,0,0,0,0,0.0,
+springlobby,1740,751,3188,634,242,509,1863,5679,30.6391970417327,Italian <it@li.org>
+squirrelmail,10024,0,0,1918,0,0,10354,10024,100.0,Italian <squirrelmail-i18n@lists.sourceforge.net>
+sssd,1032,10,2847,181,2,445,1132,3889,26.53638467472358,Italian (http://www.transifex.com/projects/p/sssd/language/it/)
+steadyflow,423,0,47,88,0,5,456,470,90.0,Italian <it@li.org>
+stellarium,17526,0,6476,4571,0,1377,18392,24002,73.01891509040914,Italian <it@li.org>
+storaged,1485,200,244,407,25,46,1574,1929,76.98289269051321,Italian
+subdownloader,968,0,0,272,0,0,1046,968,100.0,LANGUAGE <LL@li.org>
+subscription-manager,5688,0,177,998,0,18,6304,5865,96.98209718670077,Italian
+subtitleeditor,839,469,509,283,148,115,845,1817,46.175013758943315,Italian <it@li.org>
+subversion,9610,6621,3629,1374,447,322,12057,19860,48.388721047331316,Italian <dev@subversion.tigris.org>
+sudo,3889,0,0,573,0,0,4178,3889,100.0,Italian <tp@lists.linux.it>
+sugar,1733,0,0,419,0,0,1900,1733,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,29,0,0,24,0,0,29,29,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,189,0,0,52,0,0,218,189,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,481,47,343,108,7,49,477,871,55.223880597014926,LANGUAGE <LL@li.org>
+sugar-calendario,2,0,41,2,0,25,2,43,4.651162790697675,LANGUAGE <LL@li.org>
+sugar-chat,115,0,22,64,0,17,125,137,83.94160583941606,LANGUAGE <LL@li.org>
+sugar-clock,59,7,0,20,1,0,58,66,89.39393939393939,LANGUAGE <LL@li.org>
+sugar-connect,36,0,0,9,0,0,41,36,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,189,0,0,40,0,0,198,189,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,1,0,76,1,0,32,1,77,1.2987012987012987,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,119,0,0,33,0,0,127,119,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,19,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,78,0,0,21,0,0,78,78,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,165,2,69,52,1,9,175,236,69.91525423728814,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,94,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,248,0,33,88,0,6,259,281,88.25622775800713,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,113,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,9,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,75,2,65,57,2,15,77,142,52.816901408450704,LANGUAGE <LL@li.org>
+sugar-moon,117,0,0,33,0,0,128,117,100.0,Spanish <LL@li.org>
+sugar-paint,90,0,0,52,0,0,98,90,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,48,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,109,0,0,31,0,0,115,109,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,85,0,0,30,0,0,94,85,100.0,LANGUAGE <LL@li.org>
+sugar-read,122,0,15,46,0,4,139,137,89.05109489051095,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,71,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,4,0,25,4,0,4,4,29,13.793103448275861,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,235,227,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,7,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit,72,1,0,36,1,0,76,73,98.63013698630137,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,0,40,0,0,80,76,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1509,21,35,457,5,11,1673,1565,96.42172523961662,LANGUAGE <LL@li.org>
+sugar-typing-turtle,599,0,0,127,0,0,638,599,100.0,LANGUAGE <LL@li.org>
+sugar-view-slides,7,0,0,5,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,131,0,27,70,0,8,135,158,82.91139240506328,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,133,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,32,29,100.0,LANGUAGE <LL@li.org>
+sumwars,16371,54,657,2608,6,90,16223,17082,95.8377239199157,Italiano <>
+supertux,2980,0,0,918,0,0,3165,2980,100.0,Italian (http://www.transifex.com/arctic-games/supertux/language/it/)
+supertuxkart,2925,0,255,649,0,81,3034,3180,91.98113207547169,Italian (http://www.transifex.com/supertuxkart/supertuxkart/language/it/)
+sushi,24,0,0,11,0,0,29,24,100.0,Italian <tp@lists.linux.it>
+sweep,2399,0,0,538,0,0,2585,2399,100.0,Italian <tp@lists.linux.it>
+swell-foop,1611,0,0,132,0,0,1637,1611,100.0,Italian <tp@lists.linux.it>
+switchboard,62,0,0,18,0,0,113,62,100.0,Italian <it@li.org>
+switchboard-plug-a11y,210,0,0,79,0,0,274,210,100.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,72,0,0,22,0,0,78,72,100.0,Italian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/it/>
+switchboard-plug-applications,85,0,0,29,0,0,91,85,100.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,39,0,0,18,0,0,46,39,100.0,Italian <it@li.org>
+switchboard-plug-display,33,0,0,15,0,0,36,33,100.0,Italian <it@li.org>
+switchboard-plug-keyboard,360,0,11,140,0,5,420,371,97.03504043126685,Italian <it@li.org>
+switchboard-plug-mouse-touchpad,45,0,0,21,0,0,48,45,100.0,Italian <it@li.org>
+switchboard-plug-networking,432,0,0,125,0,0,476,432,100.0,Italian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/it/>
+switchboard-plug-notifications,131,0,0,18,0,0,146,131,100.0,Italian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-notifications/it/>
+switchboard-plug-onlineaccounts,161,0,0,49,0,0,183,161,100.0,Italian <it@li.org>
+switchboard-plug-pantheon-shell,132,0,0,51,0,0,150,132,100.0,Italian <it@li.org>
+switchboard-plug-printers,288,0,0,117,0,0,318,288,100.0,Italian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/it/>
+switchdesk,139,0,0,20,0,0,145,139,100.0,Italiano <fedora-trans-it@redhat.com>
+sylpheed,5813,829,476,1489,193,82,6567,7118,81.66619837032874,Italian <tp@lists.linux.it>
+synapse,751,0,73,209,0,18,823,824,91.14077669902912,Italian <it@li.org>
+synaptic,3091,123,17,643,15,4,3166,3231,95.66697616836892,Italian <tp@lists.linux.it>
+syncevolution,1132,0,0,163,0,0,1188,1132,100.0,Italian (http://www.transifex.net/projects/p/meego/team/it/)
+synfig,3917,11,768,1055,4,119,3901,4696,83.4114139693356,Italian (http://www.transifex.com/morevnaproject/synfig/language/it/)
+synfigstudio,3664,0,2900,1203,0,364,3912,6564,55.819622181596586,Italian (http://www.transifex.com/morevnaproject/synfig/language/it/)
+sysstat,512,0,0,56,0,0,608,512,100.0,Italian <tp@lists.linux.it>
+system-config-audit,1241,0,0,267,0,0,1417,1241,100.0,Italian <trans-it@lists.fedoraproject.org>
+system-config-bind,9434,0,0,1065,0,0,9821,9434,100.0,Italiano <fedora-trans-it@redhat.com>
+system-config-firewall,2807,0,7,330,0,1,3019,2814,99.75124378109453,<it@li.org>
+system-config-httpd,877,0,0,227,0,0,943,877,100.0,Italian <fedora-trans-it@redhat.com>
+system-config-kdump,185,0,692,10,0,146,197,877,21.094640820980615,Italian <trans-it@lists.fedoraproject.org>
+system-config-keyboard,187,0,0,81,0,0,196,187,100.0,<it@li.org>
+system-config-kickstart,1144,0,0,253,0,0,1212,1144,100.0,Italian (http://www.transifex.com/projects/p/system-config-kickstart/language/it/)
+system-config-language,197,0,0,29,0,0,214,197,100.0,Italian
+system-config-printer,3063,85,10,742,11,2,3387,3158,96.99176694110196,Italian <trans-it@lists.fedoraproject.org>
+system-config-rootpassword,116,0,0,19,0,0,120,116,100.0,Italiano <fedora-trans-it@redhat.com>
+system-config-users,1436,0,85,172,0,8,1556,1521,94.41157133464826,Italian <trans-it@lists.fedoraproject.org>
+system-config-users-docs,1061,0,0,82,0,0,1082,1061,100.0,<it@li.org>
+system-switch-java,81,0,0,11,0,0,90,81,100.0,Italian
+system-switch-mail,158,0,0,24,0,0,168,158,100.0,Italiano <fedora-trans-it@redhat.com>
+systemd,985,0,0,115,0,0,1018,985,100.0,Italian
+tagtool,943,10,5,205,3,3,1059,958,98.43423799582463,tagtool-it <emisca@rocketmail.com>
+tali,2339,0,0,184,0,0,2412,2339,100.0,Italian <tp@lists.linux.it>
+tanglet,0,0,128,0,0,6,0,128,0.0,Italian (Italy) (http://www.transifex.com/projects/p/tanglet/language/it_IT/)
+tar,3594,0,26,587,0,3,4128,3620,99.2817679558011,Italian <tp@lists.linux.it>
+taxipilot,975,0,0,171,0,0,1247,975,100.0,Italian <kde-i18n-it@kde.org>
+teg,2363,0,15,571,0,12,2459,2378,99.36921783010933,
+tellico,5372,407,14,1185,34,3,5528,5793,92.73260832038667,Italian <kde-i18n-it@kde.org>
+terminology,796,4,38,203,2,10,893,838,94.98806682577565,none
+texi2html,1285,416,295,199,79,55,1440,1996,64.37875751503006,Italian <guido@imperia.net>
+texinfo,4870,987,170,780,60,25,5301,6027,80.80305292848847,Italian <tp@lists.linux.it>
+texlive,1044,0,185,278,0,28,1216,1229,84.94711147274207,<>
+thunar-archive-plugin,86,0,0,13,0,0,83,86,100.0,Italian <xfce-i18n@xfce.org>
+thunar-media-tags-plugin,156,0,0,58,0,0,170,156,100.0,Italian <xfce-i18n@xfce.org>
+thunar-vcs-plugin,586,0,9,316,0,4,662,595,98.4873949579832,Italian (http://www.transifex.com/xfce/thunar-plugins/language/it/)
+thunar-vfs,387,0,0,86,0,0,374,387,100.0,Italian Translation Team <xfce-it-translators@googlegroups.com>
+thunar-volman,487,0,0,113,0,0,529,487,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+tigervnc,210,62,528,70,14,71,238,800,26.25,
+tilda,660,91,163,146,19,36,705,914,72.21006564551422,Italian <it@li.org>
+tomboy,7454,0,0,746,0,0,7586,7454,100.0,Italian <tp@lists.linux.it>
+tortoisehg,2926,0,9297,764,0,1592,3313,12223,23.938476642395486,Italian <it@li.org>
+totem,4924,1013,0,627,30,0,4895,5937,82.93751052720229,Italian <tp@lists.linux.it>
+totem-pl-parser,29,0,0,8,0,0,27,29,100.0,Italiano <tp@linux.it>
+trac,6877,0,6353,1281,0,209,7418,13230,51.98034769463341,Italian (http://www.transifex.com/projects/p/trac/language/it/)
+trac-accountmanager-plugin,894,0,314,158,0,46,1004,1208,74.00662251655629,Italian (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/it/)
+trac-tickettemplate-plugin,48,0,0,18,0,0,56,48,100.0,Italian it_IT <trac-dev@googlegroups.com>
+trackballs,793,34,127,239,8,22,854,954,83.12368972746332,francesco
+tracker,3747,0,0,600,0,0,3930,3747,100.0,Italiano <gnome-it-list@gnome.org>
+transmageddon,209,0,0,72,0,0,252,209,100.0,Italian <tp@lists.linux.it>
+transmission,1809,0,0,494,0,0,2176,1809,100.0,Italian <tp@lists.linux.it>
+transmission-remote-gtk,909,0,0,366,0,0,1032,909,100.0,Italian <it@li.org>
+trojita,4375,4,9,886,2,5,4868,4388,99.70373746581586,Italian <kde-i18n-it@kde.org>
+trustedqsl,4004,0,0,623,0,0,4481,4004,100.0,I4FYV Salvatore Besso <salvatore.besso@alice.it>
+tryton,1286,46,242,350,15,56,1344,1574,81.70266836086404,
+trytond,2202,373,73,980,199,28,2204,2648,83.1570996978852,
+trytond-account,1803,587,353,783,366,71,1751,2743,65.73095151294204,
+trytond-account-invoice,963,55,10,348,16,8,986,1028,93.67704280155642,
+trytond-account-invoice-history,0,0,2,0,0,1,0,2,0.0,
+trytond-account-invoice-line-standalone,0,0,10,0,0,4,0,10,0.0,
+trytond-account-product,0,0,296,0,0,95,0,296,0.0,
+trytond-account-statement,0,0,231,0,1,126,0,231,0.0,
+trytond-account-stock-anglo-saxon,0,0,74,0,0,12,0,74,0.0,
+trytond-account-stock-continental,0,0,325,0,0,69,0,325,0.0,
+trytond-analytic-account,0,0,184,0,0,95,0,184,0.0,
+trytond-analytic-invoice,0,0,13,0,0,3,0,13,0.0,
+trytond-analytic-purchase,0,0,22,0,0,4,0,22,0.0,
+trytond-analytic-sale,0,0,13,0,0,3,0,13,0.0,
+trytond-calendar,0,0,621,0,0,283,0,621,0.0,
+trytond-calendar-classification,0,0,2,0,0,2,0,2,0.0,
+trytond-calendar-scheduling,0,0,100,0,0,50,0,100,0.0,
+trytond-calendar-todo,0,0,489,0,0,217,0,489,0.0,
+trytond-company,66,51,1,41,35,1,65,118,55.932203389830505,
+trytond-company-work-time,0,0,18,0,0,5,0,18,0.0,
+trytond-country,7282,76,181,5107,38,98,7396,7539,96.59105982225759,
+trytond-currency,421,33,15,210,18,5,439,469,89.76545842217483,
+trytond-dashboard,0,0,35,0,0,22,0,35,0.0,
+trytond-google-maps,0,0,2,0,0,1,0,2,0.0,
+trytond-ldap-authentication,0,0,10,0,0,1,0,10,0.0,
+trytond-party,169,83,16,89,54,9,171,268,63.059701492537314,
+trytond-party-siret,0,0,18,0,0,5,0,18,0.0,
+trytond-party-vcarddav,0,0,14,0,0,5,0,14,0.0,
+trytond-product,0,0,375,0,0,210,0,375,0.0,
+trytond-product-cost-fifo,0,0,24,0,0,4,0,24,0.0,
+trytond-product-cost-history,0,0,27,0,0,14,0,27,0.0,
+trytond-product-price-list,0,0,74,0,0,32,0,74,0.0,
+trytond-project,0,0,143,0,0,62,0,143,0.0,
+trytond-project-plan,0,0,83,0,0,46,0,83,0.0,
+trytond-project-revenue,0,0,12,0,0,8,0,12,0.0,
+trytond-purchase,0,0,571,0,0,291,0,571,0.0,
+trytond-purchase-invoice-line-standalone,0,0,51,0,0,22,0,51,0.0,
+trytond-sale,0,0,536,0,0,266,0,536,0.0,
+trytond-sale-opportunity,0,0,320,0,0,174,0,320,0.0,
+trytond-sale-price-list,0,0,5,0,0,2,0,5,0.0,
+trytond-stock,0,0,1203,0,9,554,0,1203,0.0,
+trytond-stock-forecast,0,0,174,0,0,81,0,174,0.0,
+trytond-stock-inventory-location,0,0,17,0,0,11,0,17,0.0,
+trytond-stock-location-sequence,0,0,1,0,0,1,0,1,0.0,
+trytond-stock-product-location,0,0,23,0,0,14,0,23,0.0,
+trytond-stock-supply,0,0,147,0,0,58,0,147,0.0,
+trytond-stock-supply-day,0,0,27,0,0,18,0,27,0.0,
+trytond-timesheet,0,0,278,0,0,131,0,278,0.0,
+tumbler,278,0,0,44,0,0,340,278,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+turpial,858,0,0,227,0,0,890,858,100.0,Italian (http://www.transifex.com/projects/p/turpial-1/language/it/)
+tuxmath,865,159,430,170,27,51,913,1454,59.491059147180195,Italian <it@li.org>
+tuxpaint,1591,0,0,291,0,0,1723,1591,100.0,Italian <debian-l10n-italian@lists.debian.org>
+tuxpaint-stamps,2709,2,0,649,1,0,2929,2711,99.926226484692,Simona Riva <simona.riva@tiscali.it>
+tuxtype2,69,0,11,31,0,9,78,80,86.25,LANGUAGE <LL@li.org>
+txt2regex,277,0,0,63,0,0,303,277,100.0,<it@li.org>
+txt2tags,596,0,0,122,0,0,649,596,100.0,it_IT team
+typespeed,284,2,171,79,1,21,289,457,62.144420131291035,Lapo Luchini <lapo@lapo.it>
+ufraw,2033,113,26,406,14,5,2230,2172,93.60036832412523,Italian <tp@lists.linux.it>
+ufw,879,0,0,181,0,0,1018,879,100.0,Italian <it@li.org>
+uget,960,10,61,343,2,16,1023,1031,93.11348205625606,Italian (http://www.transifex.com/uget/uget/language/it/)
+umit,1866,729,2006,353,183,343,1916,4601,40.5564007824386,Italiano <en@li.org>
+unetbootin,3159,0,0,178,0,0,3152,3159,100.0,LANGUAGE <LL@li.org>
+unixcw,85,0,0,6,0,0,85,85,100.0,Italian <debian-l10n-italian@lists.debian.org>
+upower,113,0,0,19,0,0,130,113,100.0,Italian <tp@lists.linux.it>
+usermode,570,0,3,95,0,1,585,573,99.47643979057592,Italian <trans-it@lists.fedoraproject.org>
+util-linux,1742,10732,9345,519,2063,1224,1958,21819,7.983867271643979,Italian <tp@lists.linux.it>
+valyriatear,9867,0,0,1520,0,0,9937,9867,100.0,Italian (http://www.transifex.com/projects/p/valyria-tear/language/it/)
+vdr,1478,0,0,566,0,0,1477,1478,100.0,<see README>
+vdr-epg2vdr,6,5,214,2,3,99,6,225,2.666666666666667,<vdr@linuxtv.org>
+vdr-epgsearch,2418,1,0,387,1,0,2386,2419,99.95866060355519,Italian <vdr@linuxtv.org>
+vdr-femon,312,0,1,123,0,1,319,313,99.68051118210862,Italian <vdr@linuxtv.org>
+vdr-iptv,191,0,0,32,0,0,202,191,100.0,Italian <vdr@linuxtv.org>
+vdr-live,904,0,10,307,0,4,921,914,98.90590809628009,see developers in README
+vdr-osdteletext,44,0,0,20,0,0,45,44,100.0,Italian <vdr@linuxtv.org>
+vdr-remote,48,0,0,11,0,0,53,48,100.0,<vdr@linuxtv.org>
+vdr-screenshot,35,0,0,14,0,0,37,35,100.0,Italian <vdr@linuxtv.org>
+vdr-skinenigmang,322,0,12,131,0,3,320,334,96.40718562874252,<vdr@linuxtv.org>
+vdr-skinnopacity,402,0,380,100,0,115,369,782,51.406649616368284,
+vdr-skinsoppalusikka,137,0,3,33,0,3,152,140,97.85714285714285,Italian <vdr@linuxtv.org>
+vdr-streamdev,91,0,15,37,0,4,99,106,85.84905660377359,Italian <vdr@linuxtv.org>
+vdr-sudoku,105,0,0,37,0,0,104,105,100.0,<vdr@linuxtv.org>
+vdr-ttxtsubs,42,0,5,20,0,4,44,47,89.36170212765957,Italian <vdr@linuxtv.org>
+viewnior,375,0,50,121,0,23,367,425,88.23529411764706,Italian <it@li.org>
+viking,2507,0,1628,669,0,387,2884,4135,60.62877871825877,Italian <it@li.org>
+vim,10007,0,0,1941,0,0,11044,10007,100.0,Antonio Colombo   <azc100@gmail.com>
+vinagre,1510,0,0,277,0,0,1612,1510,100.0,Italiano <gnome-it-list@gnome.org>
+vino,1228,0,0,134,0,0,1291,1228,100.0,Italian <tp@lists.linux.it>
+virt-manager,7881,58,425,1646,11,79,8651,8364,94.22525107604017,Italian (http://www.transifex.com/projects/p/virt-manager/language/it/)
+virt-top,344,0,17,72,0,5,406,361,95.29085872576178,Italian <trans-it@lists.fedoraproject.org>
+virt-viewer,738,0,46,161,0,8,776,784,94.13265306122449,Italian (http://www.transifex.com/projects/p/virt-viewer/language/it/)
+virtaal,1171,0,0,314,0,0,1285,1171,100.0,Diego Donati
+virtualplanet,382,12,44,200,6,24,432,438,87.21461187214612,Français <kde-i18n-doc@kde.org>
+visualboyadvance-m,338,0,2,176,0,2,361,340,99.41176470588235,Italian (Italy) (http://www.transifex.com/projects/p/vba-m/language/it_IT/)
+vocal,230,0,147,59,0,20,245,377,61.0079575596817,Italian <it@li.org>
+volume_key,745,0,0,151,0,0,905,745,100.0,Italian <trans-it@lists.fedoraproject.org>
+vrms-rpm,15,0,0,15,0,0,146,15,100.0,
+vte,80,0,0,13,0,0,104,80,100.0,Italian <tp@lists.linux.it>
+vte291,31,0,0,5,0,0,39,31,100.0,Italiano <gnome-it-list@gnome.org>
+vte3,80,0,0,13,0,0,104,80,100.0,Italian <tp@lists.linux.it>
+wallpapoz,395,0,0,101,0,0,423,395,100.0,Italian <tp@lists.linux.it>
+wammu,5080,50,121,898,9,11,5471,5251,96.74347743286992,none
+warmux,1670,384,690,294,76,102,1776,2744,60.8600583090379,<it@li.org>
+warzone2100,10828,208,192,2293,54,57,12253,11228,96.43747773423584,Italian <warzone2100-project@lists.sourceforge.net>
+wastesedge,19922,54,126,1178,3,30,17876,20102,99.10456670978012,Italian
+wdiff,993,0,0,150,0,0,1074,993,100.0,Italian <tp@lists.linux.it>
+webacula,940,43,0,323,18,0,960,983,95.62563580874873,Dimitri Bellini <dimitri.bellini@gmail.com>
+webkitgtk,2004,650,27,435,141,4,2297,2681,74.74822827303245,Italian <tp@lists.linux.it>
+webkitgtk3,2004,650,27,435,141,4,2297,2681,74.74822827303245,Italian <tp@lists.linux.it>
+webkitgtk4,1606,0,0,385,0,0,1812,1606,100.0,Italian <tp@lists.linux.it>
+weechat,11135,9731,6234,1513,405,199,12609,27100,41.08856088560886,weechat-dev <weechat-dev@nongnu.org>
+wesnoth,251953,936,3127,16211,7,137,252399,256016,98.41298981313668,Italian <kde-i18n-it@kde.org>
+wget,3747,98,31,617,12,3,4247,3876,96.671826625387,Italian <tp@lists.linux.it>
+whaawmp,799,0,0,160,0,0,878,799,100.0,Italian <it@li.org>
+whois,493,0,0,30,0,0,549,493,100.0,Italian <tp@lists.linux.it>
+wicd,1138,0,0,254,0,0,1215,1138,100.0,it <LL@li.org>
+wicd-kde,358,0,0,122,0,0,416,358,100.0,Italian <kde-i18n-it@kde.org>
+widelands,34294,0,0,3329,0,0,35412,34294,100.0,Italian <it@li.org>
+wine,13217,1029,1216,3074,218,160,14412,15462,85.48053291941534,Italian
+wine-docs,1245,0,0,137,0,0,1329,1245,100.0,Italian <tp@lists.linux.it>
+wingpanel,8,0,0,2,0,0,11,8,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,17,0,0,10,0,0,21,17,100.0,Italian <http://weblate.elementary.io/projects/desktop/wingpanel-indicator-bluetooth/it/>
+wingpanel-indicator-datetime,20,0,0,6,0,0,20,20,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,7,0,0,3,0,0,9,7,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,101,0,0,31,0,0,118,101,100.0,Italian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-network/it/>
+wingpanel-indicator-notifications,29,0,0,11,0,0,31,29,100.0,Italian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/it/>
+wingpanel-indicator-power,89,0,0,24,0,0,81,89,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,54,0,0,17,0,0,47,54,100.0,Italian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-session/it/>
+wingpanel-indicator-sound,15,0,0,7,0,0,14,15,100.0,Italian <it@li.org>
+wireshark,79,0,0,4,0,0,80,79,100.0,Italian (https://www.transifex.com/wireshark/teams/36457/it/)
+wol,175,117,6,28,1,2,186,298,58.7248322147651,
+workrave,978,175,168,172,56,34,981,1321,74.03482210446631,
+wput,1007,37,19,129,5,1,1149,1063,94.73189087488241,<de@li.org>
+wxGTK,6150,109,133,1363,24,89,6840,6392,96.21401752190238,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+wxGTK3,7746,63,67,1812,43,46,8361,7876,98.34941594718131,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+wxGlade,197,0,87,42,0,11,233,284,69.36619718309859,
+wxMaxima,3104,234,1863,781,64,207,3489,5201,59.68083060949817,Italian <tp@lists.linux.it>
+wxPython,10232,53,44,2599,21,11,11135,10329,99.06089650498596,wxWidgets translators <wx-translators@lists.wxwidgets.org>
+wxpropgrid,85,0,0,31,0,0,99,85,100.0,it_IT <salvois@users.sourceforge.net>
+x-tile,732,0,0,150,0,0,748,732,100.0,Italian
+xaos,905,0,2,353,0,1,1082,907,99.7794928335171,Italian <it@li.org>
+xboard,876,270,1427,242,116,366,1047,2573,34.045860862806066,LANGUAGE <LL@li.org>
+xcdroast,8044,0,0,848,0,0,8832,8044,100.0,Italiano <it@li.org>
+xchat,4544,200,283,1111,67,54,4939,5027,90.3918838273324,Italian
+xchat-gnome,6131,0,0,1227,0,0,6625,6131,100.0,Italian <tp@lists.linux.it>
+xchm,139,31,64,58,13,25,144,234,59.401709401709404,Italian <faber@faberbox.com>
+xdg-desktop-portal,88,0,0,12,0,0,81,88,100.0,Italian <gnome-it-list@gnome.org>
+xdg-desktop-portal-gtk,53,0,0,20,0,0,55,53,100.0,Italian <gnome-it-list@gnome.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Italian <tp@lists.linux.it>
+xdg-user-dirs-gtk,81,0,0,11,0,0,86,81,100.0,Italian <tp@lists.linux.it>
+xdialog,21,0,0,15,0,0,18,21,100.0,Italian
+xdrawchem,1747,328,334,407,48,81,2065,2409,72.51971772519717,Italian <debian-l10n-italian@lists.debian.org>
+xed,12109,0,10,1644,0,1,12483,12119,99.91748494100173,Italian <tp@lists.linux.it>
+xen,31,0,0,16,0,0,34,31,100.0,Italian <it@li.org>
+xfbib,342,0,0,75,0,0,388,342,100.0,Italian Translation Team <xfce-it-translators@googlegroups.com>
+xfburn,1375,0,0,303,0,0,1474,1375,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-appfinder,322,0,0,70,0,0,312,322,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-battery-plugin,147,0,0,42,0,0,163,147,100.0,Italian (http://www.transifex.com/xfce/xfce-panel-plugins/language/it/)
+xfce4-clipman-plugin,478,0,0,72,0,0,470,478,100.0,Italian (http://www.transifex.com/xfce/xfce-panel-plugins/language/it/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,175,140,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-cpugraph-plugin,74,0,0,36,0,0,85,74,100.0,Italian <xfce-it-translators@googlegroups.com>
+xfce4-datetime-plugin,52,0,0,19,0,0,60,52,100.0,Italian (http://www.transifex.com/xfce/xfce-panel-plugins/language/it/)
+xfce4-dict,527,0,0,119,0,0,555,527,100.0,Italian (http://www.transifex.com/xfce/xfce-apps/language/it/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,205,183,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-embed-plugin,219,0,0,33,0,0,209,219,100.0,Italian Translation Team <xfce-it-translators@googlegroups.com>
+xfce4-eyes-plugin,15,0,0,4,0,0,18,15,100.0,Italian <xfce-i18n@xfce.org>
+xfce4-fsguard-plugin,71,0,0,19,0,0,81,71,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-genmon-plugin,85,0,0,19,0,0,93,85,100.0,Italian <xfce-it-translators@googlegroups.com>
+xfce4-hardware-monitor-plugin,399,2,0,139,1,0,425,401,99.50124688279301,IT <tp@lists.linux.it>
+xfce4-mailwatch-plugin,685,0,0,111,0,0,753,685,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-mixer,94,29,58,12,11,13,103,181,51.93370165745856,Italian Translation Team <xfce-it-translators@googlegroups.com>
+xfce4-mount-plugin,311,0,51,52,0,2,330,362,85.91160220994475,Italian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/it/)
+xfce4-mpc-plugin,76,0,0,24,0,0,87,76,100.0,Italian (http://www.transifex.com/xfce/xfce-panel-plugins/language/it/)
+xfce4-netload-plugin,92,0,0,35,0,0,114,92,100.0,Italian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/it/)
+xfce4-notes-plugin,163,0,0,57,0,0,174,163,100.0,Italian <xfce-it-translators@googlegroups.com>
+xfce4-notifyd,107,0,0,32,0,0,137,107,100.0,Italian (http://www.transifex.com/xfce/xfce-apps/language/it/)
+xfce4-panel,1705,0,0,394,0,0,1812,1705,100.0,Italian (http://www.transifex.com/projects/p/xfce4-panel/language/it/)
+xfce4-places-plugin,160,0,0,45,0,0,161,160,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-power-manager,1011,0,0,201,0,0,1177,1011,100.0,Italian (http://www.transifex.com/xfce/xfce4-power-manager/language/it/)
+xfce4-pulseaudio-plugin,104,0,4,22,0,1,118,108,96.29629629629629,Italian (http://www.transifex.com/xfce/xfce-panel-plugins/language/it/)
+xfce4-screenshooter,550,0,0,81,0,0,514,550,100.0,Italian (http://www.transifex.com/projects/p/xfce-apps/language/it/)
+xfce4-sensors-plugin,358,0,0,74,0,0,430,358,100.0,Italian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/it/)
+xfce4-session,1066,0,0,208,0,0,1185,1066,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-settings,1617,0,0,354,0,0,1728,1617,100.0,Italian (http://www.transifex.com/projects/p/xfce4-settings/language/it/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,22,22,100.0,Italian Translation Team <xfce-it-translators@googlegroups>
+xfce4-systemload-plugin,75,0,0,24,0,0,96,75,100.0,Italian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/it/)
+xfce4-taskmanager,214,0,0,75,0,0,236,214,100.0,Italian (http://www.transifex.com/projects/p/xfce-apps/language/it/)
+xfce4-terminal,2084,128,4,435,8,3,2296,2216,94.04332129963899,Italian <xfce-it-translators@googlegroups.com>
+xfce4-time-out-plugin,89,0,0,32,0,0,101,89,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-timer-plugin,131,3,0,41,1,0,161,134,97.76119402985076,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfce4-verve-plugin,92,0,4,23,0,1,106,96,95.83333333333334,Italian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/it/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,77,67,100.0,Italian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/it/)
+xfce4-weather-plugin,3668,0,0,330,0,0,3792,3668,100.0,Italian (http://www.transifex.com/xfce/xfce-panel-plugins/language/it/)
+xfce4-whiskermenu-plugin,250,0,0,91,0,0,266,250,100.0,Italian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/it/)
+xfce4-xkb-plugin,43,0,0,17,0,0,52,43,100.0,Italian (http://www.transifex.com/projects/p/xfce/language/it/)
+xfconf,452,0,0,67,0,0,513,452,100.0,Italian (http://www.transifex.com/projects/p/xfconf/language/it/)
+xfdashboard,1,0,5913,1,0,803,1,5914,0.016909029421711193,Italian (Italy) (http://www.transifex.com/xfdashboard/xfdashboard/language/it_IT/)
+xfdesktop,979,0,0,222,0,0,1078,979,100.0,Italian (http://www.transifex.com/projects/p/xfdesktop/language/it/)
+xfe,3266,509,2234,992,75,15,3613,6009,54.35180562489599,Italiano <kde-i18n-it@kde.org>
+xfmpc,131,0,36,56,0,14,150,167,78.44311377245509,Italian <xfce-it-translators@googlegroups.com>
+xfwm4,673,0,0,173,0,0,843,673,100.0,Italian (http://www.transifex.com/projects/p/xfwm4/language/it/)
+xiphos,299,159,4310,179,80,843,343,4768,6.270973154362417,Italian <it@li.org>
+xkeyboard-config,3139,0,0,931,0,0,3344,3139,100.0,Italian <tp@lists.linux.it>
+xlog,1358,64,40,323,3,7,1408,1462,92.88645690834473,Italian
+xmlcopyeditor,1002,288,396,332,77,81,1056,1686,59.430604982206404,
+xmms,2726,257,460,917,52,76,3030,3443,79.17513796108045,italiano <it@li.org>
+xmoto,3790,0,49,812,0,10,3875,3839,98.72362594425633,<XMoto>
+xournal,1016,0,0,282,0,0,1220,1016,100.0,Italian <kde-i18n-it@kde.org>
+xpad,191,0,215,50,0,75,242,406,47.04433497536946,none
+xplayer,5440,1007,0,728,30,0,5482,6447,84.3803319373352,Italian <tp@lists.linux.it>
+xplayer-plparser,29,0,0,8,0,0,27,29,100.0,Italiano <tp@linux.it>
+xreader,3560,0,11,593,0,3,3731,3571,99.69196303556427,Italian <tp@lists.linux.it>
+xsane,3215,9,0,727,1,0,3883,3224,99.72084367245657,Italiano <it@li.org>
+xscreensaver,578,53,10559,126,21,1687,584,11190,5.16532618409294,Italian <tp@lists.linux.it>
+xviewer,4924,0,0,558,0,0,5016,4924,100.0,Italian <tp@lists.linux.it>
+xviewer-plugins,342,0,0,89,0,0,370,342,100.0,Italiano <tp@linux.it>
+xz,1360,0,0,156,0,0,1583,1360,100.0,Italian <tp@lists.linux.it>
+yakuake,1568,5,0,220,1,0,1641,1573,99.68213604577241,Italian <kde-i18n-it@kde.org>
+yelp,448,0,0,104,0,0,450,448,100.0,Italian <tp@lists.linux.it>
+yelp-xsl,81,0,0,59,0,0,85,81,100.0,Italian <tp@lists.linux.it>
+yum,2730,0,339,599,0,61,3001,3069,88.95405669599218,Italian (http://www.transifex.net/projects/p/yum/team/it/)
+yum-rhn-plugin,97,78,119,15,6,13,116,294,32.99319727891156,LANGUAGE <LL@li.org>
+yumex-dnf,0,0,712,0,0,191,0,712,0.0,Italian (http://www.transifex.com/timlau/yumex/language/it/)
+zabbix,15751,0,60,3264,0,6,18011,15811,99.62051736133071,Zabbix <info@zabbix.com>
+zathura,345,0,245,94,0,46,392,590,58.47457627118644,Italian (http://www.transifex.com/projects/p/zathura/language/it/)
+zaz,229,0,0,107,0,0,233,229,100.0,Andrea Musuruane <musuruan@gmail.com>
+zenity,891,0,0,196,0,0,1071,891,100.0,tp@lists.linux.it
+zvbi,603,24,37,113,4,4,689,664,90.8132530120482,Italian <kde-i18n-it@kde.org>

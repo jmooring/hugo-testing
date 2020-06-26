@@ -1,0 +1,1441 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,141,0,71,33,0,11,175,212,66.50943396226415,Catalan (http://www.transifex.com/wildfire-games/0ad/language/ca/)
+4Pane,486,0,12089,317,0,1559,564,12575,3.8648111332007953,Catalan (http://www.transifex.com/davidgh/4Pane/language/ca/)
+GConf2,4074,0,0,496,0,0,5384,4074,100.0,Catalan <tradgnome@softcatala.org>
+LabPlot,6988,0,0,2084,0,0,8837,6988,100.0,Catalan <kde-i18n-ca@kde.org>
+NetworkManager,8936,1697,875,1391,230,90,10866,11508,77.65033020507474,Catalan <tradgnome@softcatala.org>
+NetworkManager-fortisslvpn,205,0,0,42,0,0,262,205,100.0,Catalan <tradgnome@softcatala.org>
+NetworkManager-iodine,75,0,0,21,0,0,100,75,100.0,Catalan <gnome@llistes.softcatala.org>
+NetworkManager-l2tp,391,52,340,71,9,50,503,783,49.936143039591315,Catalan <tradgnome@softcatala.org>
+NetworkManager-libreswan,103,0,0,30,0,0,128,103,100.0,Catalan <tradgnome@softcatala.org>
+NetworkManager-openconnect,5323,0,83,936,0,11,6936,5406,98.46466888642249,Catalan <info@softcatala.org>
+NetworkManager-openvpn,1678,0,0,237,0,0,2071,1678,100.0,Catalan <info@softcatala.org>
+NetworkManager-pptp,438,0,0,78,0,0,557,438,100.0,Catalan <tradgnome@softcatala.org>
+NetworkManager-ssh,76,103,393,33,29,76,82,572,13.286713286713287,Catalan <tradgnome@softcatala.org>
+NetworkManager-sstp,114,1,298,34,1,40,137,413,27.602905569007262,Catalan <tradgnome@softcatala.org>
+NetworkManager-vpnc,606,0,0,101,0,0,745,606,100.0,Catalan <tradgnome@softcatala.org>
+PackageKit,1278,0,0,320,0,0,1610,1278,100.0,Catalan (http://www.transifex.com/freedesktop/packagekit/language/ca/)
+Thunar,4201,0,0,739,0,0,4645,4201,100.0,Catalan (https://www.transifex.com/xfce/teams/16840/ca/)
+WindowMaker,5083,0,0,999,0,0,6254,5083,100.0,Catalan <ca@dodds.net>
+Zim,1355,0,1460,375,0,315,1579,2815,48.13499111900533,Catalan <ca@li.org>
+a2ps,963,349,200,150,16,13,1079,1512,63.69047619047619,Catalan <mvaro@dlsi.ua.es>
+abrt,3969,0,0,476,0,0,5169,3969,100.0,Catalan <fedora@llistes.softcatala.org>
+accerciser,1354,0,3211,329,0,111,1620,4565,29.660460021905806,Catalan <tradgnome@softcatala.org>
+accountsservice,59,0,0,10,0,0,73,59,100.0,Catalan (http://www.transifex.com/projects/p/freedesktop/language/ca/)
+agenda,27,0,16,8,0,5,28,43,62.7906976744186,Catalan <ca@li.org>
+ailurus,217,0,8289,82,0,1042,246,8506,2.5511403715024685,none
+aisleriot,22508,0,0,1548,0,0,24930,22508,100.0,Catalan <tradgnome@softcatala.org>
+akonadi-calendar-tools,842,0,0,173,0,0,1060,842,100.0,Catalan <kde-i18n-ca@kde.org>
+akonadi-import-wizard,391,0,0,83,0,0,508,391,100.0,Catalan <kde-i18n-ca@kde.org>
+akregator,1765,0,0,426,0,0,2142,1765,100.0,Catalan <kde-i18n-ca@kde.org>
+alacarte,41,0,0,16,0,0,49,41,100.0,catalan <tradgnome@softcatala.org>
+alleyoop,351,0,0,92,0,0,477,351,100.0,Softcatalà <tradgnome@softcatala.org>
+almanah,772,0,0,153,0,0,1019,772,100.0,Catalan <tradgnome@softcatala.org>
+amarok,15819,0,0,2780,0,0,19157,15819,100.0,Catalan <kde-i18n-ca@kde.org>
+anaconda,7166,0,211,1187,0,33,8445,7377,97.13975870950252,Catalan (http://www.transifex.com/projects/p/anaconda/language/ca/)
+analitza,988,0,0,221,0,0,1132,988,100.0,Catalan <kde-i18n-ca@kde.org>
+anjuta,10320,165,8696,2201,7,588,12286,19181,53.803242792346595,Catalan <tradgnome@softcatala.org>
+appcenter,757,0,0,177,0,0,929,757,100.0,Catalan <https://weblate.elementary.io/projects/appcenter/appcenter/ca/>
+appstream,853,0,0,191,0,0,1035,853,100.0,Catalan <https://hosted.weblate.org/projects/appstream/translations/ca/>
+arandr,173,0,0,38,0,0,201,173,100.0,Catalan <https://hosted.weblate.org/projects/arandr/translations/ca/>
+arduino,2969,0,124,570,0,20,3431,3093,95.99094730035564,Catalan (http://www.transifex.com/mbanzi/arduino-ide-15/language/ca/)
+aria2,917,0,6530,141,0,256,1099,7447,12.313683362427822,Catalan <ca@li.org>
+ark,1850,0,0,335,0,0,2055,1850,100.0,Catalan <kde-i18n-ca@kde.org>
+arm-none-eabi-binutils-cs,10376,0,0,1698,0,0,13004,10376,100.0,Catalan <ca@dodds.net>
+arm-none-eabi-gcc-cs,959,245,138,156,39,18,1166,1342,71.46050670640834,Catalan <ca@dodds.net>
+artikulate,436,0,0,156,0,0,532,436,100.0,Catalan <kde-i18n-ca@kde.org>
+aspell,1694,17,15,289,2,2,1933,1726,98.1460023174971,Catalan <ca@dodds.net>
+asunder,440,25,30,81,2,8,559,495,88.88888888888889,Catalan <toni.estevez@gmail.com>
+at-spi2-core,10,0,0,2,0,0,12,10,100.0,Catalan <gnome-dl@llistes.softcatala.org>
+atk,440,0,0,169,0,0,527,440,100.0,català; valencià <<tradgnome@softcatala.org>>
+atomix,74,10,72,38,5,7,92,156,47.43589743589743,Catalan <tradgnome@softcatala.org>
+atril,3711,0,0,626,0,0,4272,3711,100.0,catalan <tradmate@softcatala.org>
+audacious,760,0,0,326,0,0,1005,760,100.0,Catalan (http://www.transifex.com/audacious/audacious/language/ca/)
+audacious-plugins,3281,0,653,859,0,29,3996,3934,83.40111845449924,Catalan (http://www.transifex.com/audacious/audacious/language/ca/)
+audacity,13152,0,3439,3352,0,423,16762,16591,79.27189440057862,Catalan <ca@li.org>
+audience,182,0,0,62,0,0,260,182,100.0,Catalan <ca@li.org>
+audit-viewer,611,0,0,185,0,0,716,611,100.0,LANGUAGE <LL@li.org>
+authconfig,879,16,34,130,2,5,1123,929,94.6178686759957,Catalan (http://www.transifex.com/projects/p/authconfig/language/ca/)
+avahi,865,2,1,165,2,1,1145,868,99.65437788018433,Catalan (http://www.transifex.com/lennart/avahi/language/ca/)
+avogadro,5121,0,1486,2051,0,321,6182,6607,77.50870289087331,Català <tradgnome@softcatala.org>
+avr-binutils,10376,0,0,1698,0,0,13004,10376,100.0,Catalan <ca@dodds.net>
+avr-gcc,959,245,138,156,39,18,1166,1342,71.46050670640834,Catalan <ca@dodds.net>
+backintime,860,0,1123,207,0,129,1000,1983,43.36863338376198,Catalan <ca@li.org>
+bakery,72,0,0,20,0,0,82,72,100.0,Catalan <tradgnome@softcatala.org>
+baloo-widgets,412,0,0,125,0,0,441,412,100.0,Catalan <kde-i18n-ca@kde.org>
+balsa,5959,63,37,1451,21,12,7705,6059,98.34956263409804,Catalan <tradgnome@softcatala.org>
+banshee,11069,0,51,1834,0,5,12850,11120,99.54136690647482,Catalan
+baobab,949,0,0,105,0,0,1071,949,100.0,Catalan <tradgnome@softcatala.org>
+bareftp,440,0,8,158,0,2,504,448,98.21428571428571,Catalan <>
+bash,6245,5009,102,516,50,15,7046,11356,54.99295526593871,Catalan <ca@dodds.net>
+bijiben,311,0,0,105,0,0,426,311,100.0,Catalan <tradgnome@softcatala.org>
+binutils,10376,0,0,1698,0,0,13004,10376,100.0,Catalan <ca@dodds.net>
+bleachbit,1260,0,0,267,0,0,1429,1260,100.0,Catalan <ca@li.org>
+blender,26779,0,0,8891,0,0,16914,26779,100.0,Blender Català (http://www.blender.cat)
+blinken,133,0,0,47,0,0,158,133,100.0,Catalan <kde-i18n-ca@kde.org>
+blivet-gui,753,0,12,215,0,6,941,765,98.4313725490196,Catalan
+blobwars,1233,0,0,366,0,0,1342,1233,100.0,Catalan Localization <debian-l10n-catalan@lists.debian.org>
+blogilo,1392,0,0,337,0,0,1666,1392,100.0,Catalan <kde-i18n-ca@kde.org>
+blueberry,141,0,0,34,0,0,173,141,100.0,Catalan <ca@li.org>
+bluedevil,573,0,0,191,0,0,675,573,100.0,Catalan <kde-i18n-ca@kde.org>
+bluefish,4945,0,0,1548,0,0,6400,4945,100.0,Catalan
+blueman,1340,0,44,335,0,7,1701,1384,96.82080924855492,Catalan (http://www.transifex.com/mate/MATE/language/ca/)
+boinc-client,13692,0,2183,2408,0,194,15663,15875,86.24881889763779,Catalan (http://www.transifex.com/boinc/boinc/language/ca/)
+bomber,103,0,0,27,0,0,118,103,100.0,Catalan <kde-i18n-ca@kde.org>
+bovo,81,0,0,25,0,0,105,81,100.0,Catalan <kde-i18n-ca@kde.org>
+brasero,6526,0,1202,1058,0,54,7291,7728,84.44616977225672,Catalan <tradgnome@softcatala.org>
+byzanz,238,0,0,53,0,0,294,238,100.0,Catalan <tradgnome@softcatala.org>
+bzr,0,0,33249,0,0,2353,0,33249,0.0,Catalan <ca@li.org>
+cairo-dock,3086,0,4378,560,0,267,3399,7464,41.345123258306536,Catalan <ca@li.org>
+cairo-dock-plug-ins,1801,0,8402,240,0,1482,1874,10203,17.651671077134175,Catalan <ca@li.org>
+caja,9356,0,0,1517,0,0,10592,9356,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+caja-actions,172,1120,7160,91,108,627,212,8452,2.0350212967345005,Catalan
+caja-extensions,570,0,0,131,0,0,716,570,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+caja-terminal,110,0,0,37,0,0,149,110,100.0,Catalan <ca@li.org>
+calamares,55,0,0,13,0,0,65,55,100.0,Catalan (https://www.transifex.com/calamares/teams/20061/ca/)
+calibre,71565,0,85736,14944,0,3156,80345,157301,45.49557854050514,Catalan (http://www.transifex.com/calibre/calibre/language/ca/)
+california,3442,0,0,509,0,0,3597,3442,100.0,ca <tradgnome@softcatala.net>
+calligra,35862,0,0,7755,0,0,40370,35862,100.0,Catalan <kde-i18n-ca@kde.org>
+calligraplan,9630,0,0,2041,0,0,11457,9630,100.0,Catalan <kde-i18n-ca@kde.org>
+camorama,559,0,0,133,0,0,698,559,100.0,Catalan <tradgnome@softcatala.org>
+cantor,2103,0,0,478,0,0,2519,2103,100.0,Catalan <kde-i18n-ca@kde.org>
+capnet-assist,32,0,0,5,0,0,33,32,100.0,Catalan <ca@li.org>
+caribou,169,0,0,57,0,0,205,169,100.0,Catalan <tradgnome@softcatala.org>
+catfish,677,0,0,111,0,0,791,677,100.0,Catalan <ca@li.org>
+ccsm,579,0,0,151,0,0,659,579,100.0,Catalan <ca@li.org>
+certmonger,2458,162,235,414,22,41,3242,2855,86.09457092819615,Catalan
+cervisia,1619,0,0,421,0,0,1928,1619,100.0,Catalan <kde-i18n-ca@kde.org>
+cgit,18972,0,0,3064,0,0,23039,18972,100.0,Catalan
+cheese,2266,0,0,241,0,0,2564,2266,100.0,Catalan <tradgnome@softcatala.net>
+cherokee,3822,594,2117,884,127,239,4069,6533,58.50298484616562,
+childsplay,1193,18,15,201,5,6,1203,1226,97.30831973898859,American English <kde-i18n-doc@lists.kde.org>
+chkconfig,524,0,31,96,0,7,641,555,94.41441441441441,Catalan <fedora@llistes.softcatala.org>
+choqok,2257,0,0,569,0,0,2784,2257,100.0,Catalan <kde-i18n-ca@kde.org>
+chrome-gnome-shell,331,0,0,46,0,0,412,331,100.0,ca_ES <tradgnome@softcatala.net>
+chromium-native_client,1043,149,76,172,27,11,1260,1268,82.25552050473186,Catalan <ca@dodds.net>
+cinnamon-control-center,905,2,406,652,1,103,959,1313,68.92612338156893,Catalan <fedora@softcatala.net>
+cinnamon-desktop,234,0,0,32,0,0,293,234,100.0,Catalan <tradgnome@softcatala.org>
+cinnamon-translations,21591,0,71,4832,0,13,25321,21662,99.67223709722094,Catalan <ca@li.org>
+clamtk,755,0,50,216,0,3,860,805,93.7888198757764,
+claws-mail,20145,14,0,3944,2,0,23900,20159,99.93055211071977,David Medina <opensusecatala@gmail.com>
+clawsker,1374,0,0,253,0,0,1757,1374,100.0,
+clutter,3057,0,0,675,0,0,3514,3057,100.0,Catalan <tradgnome@softcatala.org>
+cockpit,5788,2,1857,1775,2,279,7003,7647,75.68981299856152,Catalan
+cogl,378,0,0,76,0,0,523,378,100.0,Catalan <tradgnome@softcatala.org>
+colord,727,0,1259,156,0,96,917,1986,36.606243705941594,Catalan (http://www.transifex.com/freedesktop/colord/language/ca/)
+colord-kde,369,0,0,120,0,0,466,369,100.0,Catalan <kde-i18n-ca@kde.org>
+comix,1326,0,0,262,0,0,1426,1326,100.0,CA <gentoo@softcatala.net>
+compat-gcc-34,22509,2921,5449,3567,441,692,28577,30879,72.89419994170797,Catalan <ca@dodds.net>
+compat-gtkhtml314,970,0,0,618,0,0,1172,970,100.0,Catalan <tradgnome@softcatala.org>
+compat-tracker1,3694,0,110,595,0,8,4628,3804,97.10830704521555,Catalan <tradgnome@softcatala.org>
+compat-wxGTK3-gtk2,2937,2098,2647,627,563,655,3656,7682,38.23223118979433,<wx-translators@wxwidgets.org>
+compiz,4385,0,0,879,0,0,5691,4385,100.0,Catalan <opensusecatala@gmail.com>
+compiz-plugins-experimental,3234,5,1242,747,2,148,4226,4481,72.1713903146619,Catalan <ca@li.org>
+compiz-plugins-extra,1484,182,2012,387,33,308,2060,3678,40.348015225666124,Catalan <ca@li.org>
+compiz-plugins-main,4217,0,1,810,0,1,5703,4218,99.97629208155524,Catalan <ca@li.org>
+console-setup,985,0,0,175,0,0,1052,985,100.0,Catalan <debian-l10n-catalan@lists.debian.org>
+control-center,6133,2,406,2151,1,103,7255,6541,93.76242164806604,Catalan <fedora@softcatala.net>
+corebird,428,0,158,170,0,41,503,586,73.03754266211604,Catalan (http://www.transifex.com/corebird/corebird/language/ca/)
+coreutils,18662,1949,121,1646,83,15,23555,20732,90.0154350762107,Catalan <ca@dodds.net>
+cross-binutils,10376,0,0,1698,0,0,13004,10376,100.0,Catalan <ca@dodds.net>
+cross-gcc,959,245,138,156,39,18,1166,1342,71.46050670640834,Catalan <ca@dodds.net>
+cups,6555,0,2059,1413,0,519,8420,8614,76.09705131181798,Catalan <ca@dodds.net>
+cups-pk-helper,149,0,0,22,0,0,208,149,100.0,Catalan (http://www.transifex.com/freedesktop/cups-pk-helper/language/ca/)
+cycle,131,0,0,64,0,0,153,131,100.0,
+darktable,10019,0,0,2277,0,0,11669,10019,100.0,Josep Vicenç Moragues Pastor <josepvm@arrakis.es>
+dasher,6517,44,672,406,13,52,7114,7233,90.1009263099682,Catalan <tradgnome@softcatala.org>
+dconf-editor,1494,0,0,195,0,0,1731,1494,100.0,Catalan <tradgnome@softcatala.org>
+dcraw,583,0,0,115,0,0,761,583,100.0,
+debconf,795,5,60,87,3,4,922,860,92.44186046511628,Catalan <debian-l10n-catalan@lists.debian.org>
+decibel-audio-player,101,0,1393,28,0,209,133,1494,6.760374832663989,Catalan <ca@li.org>
+deepin-terminal,14,0,359,14,0,137,15,373,3.753351206434316,Catalan (https://www.transifex.com/linuxdeepin/teams/3976/ca/)
+deja-dup,2113,0,2079,340,0,158,2838,4192,50.40553435114504,Catalan <ca@li.org>
+deluge,1824,0,904,734,0,144,2079,2728,66.86217008797654,Catalan <ca@li.org>
+denemo,44620,0,0,5698,0,0,51950,44620,100.0,Catalan <ca@dodds.net>
+devhelp,393,0,0,117,0,0,470,393,100.0,Catalan <tradgnome@softcatala.org>
+dia,12785,82,368,4666,29,30,16631,13235,96.5999244427654,Catalan <tradgnome@softcatala.org>
+dialog,25,0,0,23,0,0,32,25,100.0,Catalan <ca@dodds.net>
+diffutils,415,1085,386,84,125,57,537,1886,22.004241781548252,Catalan <ca@dodds.net>
+digikam,47665,0,0,7783,0,0,57131,47665,100.0,Catalan <kde-i18n-ca@kde.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,2908,0,319,632,0,32,3826,3227,90.11465757669662,Catalan (https://fedora.zanata.org/language/view/ca) <fedora@llistes.softcatala.org>
+dnf-plugins-core,690,0,180,129,0,10,889,870,79.3103448275862,Catalan
+dnf-plugins-extras,241,0,0,39,0,0,322,241,100.0,Catalan
+dnfdragora,769,0,0,316,0,0,963,769,100.0,Catalan (https://www.transifex.com/MageiaLinux/teams/9361/ca/)
+docker-anaconda-addon,27,0,0,4,0,0,31,27,100.0,Catalan
+dolphin,1568,0,0,517,0,0,1889,1568,100.0,Catalan <kde-i18n-ca@kde.org>
+dolphin-emu,3545,0,3420,935,0,354,3995,6965,50.897343862167986,Catalan (http://www.transifex.com/delroth/dolphin-emu/language/ca/)
+dolphin-plugins,1202,0,0,331,0,0,1586,1202,100.0,Catalan <kde-i18n-ca@kde.org>
+dpkg,16932,18,0,1964,3,0,21264,16950,99.89380530973452,Catalan <debian-l10n-catalan@lists.debian.org>
+dragon,275,0,0,86,0,0,340,275,100.0,Catalan <kde-i18n-ca@kde.org>
+drgeo,1912,65,8,450,7,4,2143,1985,96.32241813602015,Catalan <tradgnome@softcatala.ogr>
+duplicity,0,0,4378,0,0,618,0,4378,0.0,Catalan <ca@li.org>
+e16,2796,0,0,514,0,0,3255,2796,100.0,Catalan <ca@li.org>
+e2fsprogs,7903,1166,981,1263,162,113,11179,10050,78.636815920398,Catalan <ca@dodds.net>
+easystroke,353,0,117,101,0,36,399,470,75.1063829787234,Catalan <ca@li.org>
+easytag,7500,143,7,1181,6,1,8637,7650,98.0392156862745,Catalan <gnome@llistes.softcatala.org>
+ecryptfs-utils,82,0,0,5,0,0,88,82,100.0,Catalan
+efl,293,0,1,125,0,1,334,294,99.65986394557824,Catalan
+eiciel,168,0,0,53,0,0,196,168,100.0,Catalan <ca@li.org>
+ejabberd,2236,0,0,508,0,0,2641,2236,100.0,
+ekiga,10011,0,0,967,0,0,11153,10011,100.0,Catalan <tradgnome@softcatala.org>
+elementary-calculator,80,0,0,37,0,0,89,80,100.0,Catalan <https://weblate.elementary.io/projects/calculator/calculator/ca/>
+elementary-camera,62,0,0,16,0,0,72,62,100.0,Catalan <https://weblate.elementary.io/projects/camera/camera/ca/>
+elementary-capnet-assist,66,0,0,10,0,0,71,66,100.0,Catalan <https://weblate.elementary.io/projects/desktop/capnet-assist/ca/>
+elementary-screenshot-tool,132,0,0,43,0,0,174,132,100.0,Catalan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/ca/>
+elementary-shortcut-overlay,82,0,0,37,0,0,113,82,100.0,Catalan <https://weblate.elementary.io/projects/desktop/shortcut-overlay/ca/>
+elinks,354,1495,10396,171,473,981,406,12245,2.8909759085340956,Catalan <ca@dodds.net>
+emerald,693,0,0,219,0,0,1074,693,100.0,Catalan <ca@li.org>
+empathy,10981,0,0,1463,0,0,12015,10981,100.0,Catalan <tradgnome@softcatala.org>
+engrampa,7701,0,0,829,0,0,8655,7701,100.0,catalan <tradmate@softcatala.org>
+enlightenment,5978,2508,200,2037,167,28,7053,8686,68.8233939673037,Català <enlightenment-devel@lists.sourceforge.net>
+enscript,1056,650,127,167,25,16,1348,1833,57.61047463175123,Catalan <ca@dodds.net>
+entangle,793,0,121,178,0,40,1071,914,86.76148796498906,Catalan (http://www.transifex.com/projects/p/entangle/language/ca/)
+eog,4683,1269,462,572,100,53,5074,6414,73.01216089803555,Catalan <tradgnome@softcatala.org>
+eog-plugins,150,5,116,56,1,19,202,271,55.35055350553506,Catalan <tradgnome@softcatala.org>
+eom,4990,0,0,552,0,0,5691,4990,100.0,catalan <tradmate@softcatala.org>
+epiphany,3589,0,0,696,0,0,4225,3589,100.0,Catalan <info@softcatala.org>
+evince,3303,0,5450,630,0,398,3771,8753,37.73563349708671,Catalan <tradgnome@softcatala.org>
+evolution,26644,0,22967,5561,0,1567,31560,49611,53.70583136804338,Catalan <tradgnome@softcatala.org>
+evolution-data-server,6434,0,0,1252,0,0,8902,6434,100.0,Catalan <info@softcatala.org>
+evolution-ews,134,0,970,47,0,177,174,1104,12.13768115942029,Catalan <tradgnome@softcatala.org>
+evolution-mapi,361,254,426,81,51,101,541,1041,34.67819404418828,Catalan <tradgnome@softcatala.org>
+evolution-rss,754,380,228,220,42,36,1074,1362,55.359765051395,Catalan <gnome@llistes.softcatala.org>
+exaile,815,39,3152,277,15,733,1021,4006,20.34448327508737,Catalan <https://hosted.weblate.org/projects/exaile/master/ca/>
+exo,1454,0,0,299,0,0,1682,1454,100.0,Catalan (http://www.transifex.com/xfce/exo/language/ca/)
+expendable,227,0,0,93,0,0,282,227,100.0,Catalan
+falkon,4207,0,0,1341,0,0,5316,4207,100.0,Catalan <kde-i18n-ca@kde.org>
+fantasdic,267,35,26,88,15,8,365,328,81.40243902439023,Catalan <tradgnome@softcatala.net>
+fcitx,3393,0,0,756,0,0,4391,3393,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-chewing,55,0,0,26,0,0,63,55,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-cloudpinyin,63,0,0,15,0,0,82,63,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-configtool,106,0,0,33,0,0,138,106,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-hangul,37,0,0,18,0,0,43,37,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-libpinyin,261,0,0,103,0,0,334,261,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-m17n,45,0,0,17,0,0,49,45,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-qt5,99,0,0,33,0,0,132,99,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-sunpinyin,104,0,0,40,0,0,117,104,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-table-extra,24,0,0,20,0,0,28,24,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-table-other,24,0,0,22,0,0,24,24,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+fcitx-unikey,96,0,0,42,0,0,120,96,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+feedreader,54,124,511,18,44,139,56,689,7.837445573294629,Catalan <ca@li.org>
+fetchmail,3836,250,296,625,36,31,4897,4382,87.53993610223642,Catalan <ca@dodds.net>
+file-roller,3036,0,0,468,0,0,3325,3036,100.0,Catalan <tradgnome@softcatala.org>
+filelight,407,0,0,92,0,0,491,407,100.0,Catalan <kde-i18n-ca@kde.org>
+filezilla,10708,0,0,1838,0,0,12948,10708,100.0,Català
+findutils,583,747,1238,56,63,120,704,2568,22.702492211838006,Catalan <ca@dodds.net>
+firewalld,2066,0,110,386,0,18,2465,2176,94.94485294117648,Catalan (http://www.transifex.com/projects/p/firewalld/language/ca/)
+five-or-more,1816,0,0,155,0,0,1901,1816,100.0,Catalan <tradgnome@softcatala.org>
+flaw,84,0,0,53,0,0,88,84,100.0,
+flex,791,339,2,164,2,1,1066,1132,69.87632508833921,Catalan <ca@dodds.net>
+flumotion,2958,145,234,617,28,51,3378,3337,88.64249325741685,ca
+focuswriter,0,0,129,0,0,7,0,129,0.0,Catalan (http://www.transifex.com/projects/p/focuswriter/language/ca/)
+folks,1056,0,0,130,0,0,1414,1056,100.0,Catalan <tradgnome@softcatala.org>
+fontforge,14329,748,26627,3699,152,3396,17106,41704,34.35881450220602,Catalan <kde-i18n-ca@kde.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Catalan
+fotoxx,4689,0,0,1405,0,0,5344,4689,100.0,"Català, Valencià <>"
+four-in-a-row,278,0,883,84,0,63,341,1161,23.944875107665805,Catalan <tradgnome@softcatala.org>
+fprintd,419,0,0,57,0,0,417,419,100.0,Catalan (http://www.transifex.com/freedesktop/fprintd/language/ca/)
+freeciv,98202,0,0,8136,0,0,108947,98202,100.0,Catalan <kde-i18n-ca@kde.org>
+freedink,200,71,0,45,12,0,240,271,73.80073800738008,Catalan <ca@dodds.net>
+freedink-data,13770,0,0,2221,0,0,13718,13770,100.0,Catalan <ca@dodds.net>
+freedink-dfarc,778,0,0,135,0,0,901,778,100.0,Catalan <ca@dodds.net>
+freeipa,249,0,52398,184,0,4076,296,52647,0.47296142230326516,Catalan
+frogr,93,13,558,63,7,114,115,664,14.006024096385541,Catalan <tradgnome@softcatala.org>
+frozen-bubble,698,0,0,148,0,0,766,698,100.0,Catalan <bennybeat@gmail.com>
+fslint,388,0,0,132,0,0,427,388,100.0,Catalan <ca@li.org>
+fuse-encfs,699,16,574,90,2,45,836,1289,54.22808378588053,Catalan <ca@li.org>
+fusionforge,5498,6700,12211,1221,1685,1472,6466,24409,22.524478675898234,FusionForge team <fusionforge-general@lists.fusionforge.org>
+fwupd,909,0,0,199,0,0,1199,909,100.0,Catalan (http://www.transifex.com/freedesktop/fwupd/language/ca/)
+gajim,988,269,9908,331,94,1806,1088,11165,8.849081952530229,
+gala,557,131,6,72,6,1,701,694,80.2593659942363,Catalan <ca@li.org>
+gallery2,7900,616,9277,1463,145,935,8923,17793,44.39948294273029,Spanish <gallery-translations@lists.sourceforge.net>
+gambas3,4669,0,1326,1438,0,406,5416,5995,77.88156797331109,LANGUAGE <LL@li.org>
+gammu,110,108,3779,58,33,1020,132,3997,2.752064048036027,none
+garcon,122,0,0,36,0,0,159,122,100.0,Catalan (http://www.transifex.com/xfce/garcon/language/ca/)
+gawk,4639,29,33,734,4,3,5985,4701,98.68113167411188,Catalan <ca@dodds.net>
+gbrainy,10308,0,0,1315,0,0,10558,10308,100.0,Catalan
+gcal,4873,54,79,1406,19,23,5822,5006,97.34318817419097,Catalan <ca@dodds.net>
+gcc,959,245,138,156,39,18,1166,1342,71.46050670640834,Catalan <ca@dodds.net>
+gcompris,10121,1878,5460,1194,239,527,10374,17459,57.97010138037688,Catalan <tradgnome@softcatala.org>
+gcompris-qt,23313,0,0,1956,0,0,24649,23313,100.0,Catalan <kde-i18n-ca@kde.org>
+gconf-editor,3170,0,0,336,0,0,3659,3170,100.0,Catalan <tradgnome@softcatala.org>
+gcr,700,0,0,254,0,0,872,700,100.0,Catalan <tradgnome@softcatala.org>
+gdesklets,941,0,587,169,0,35,1057,1528,61.583769633507856,Catalan <tradgnome@softcatala.org>
+gdk-pixbuf2,1409,0,0,211,0,0,1917,1409,100.0,Catalan <Catalan <info@softcatala.org>>
+gdm,9972,14,0,439,1,0,10702,9986,99.8598037252153,català; valencià <>
+geany,6033,4,0,1307,1,0,7213,6037,99.93374192479708,Catalan <ca@dodds.net>
+geany-plugins,1634,546,6289,709,176,858,2029,8469,19.29389538316212,ca <topi@elpiset.net>
+geary,2001,0,0,520,0,0,2493,2001,100.0,Catalan (http://www.transifex.com/projects/p/geary/language/ca/)
+geda-gaf,33,0,1369,9,0,180,44,1402,2.353780313837375,Catalan <ca@li.org>
+gedit,11823,13,7,1393,3,1,13424,11843,99.83112387064088,catalan <tradgnome@softcatala.org>
+gedit-latex,111,0,355,92,0,133,122,466,23.819742489270386,Catalan <tradgnome@softcatala.org>
+gedit-plugins,8485,13,7,832,3,1,9592,8505,99.76484420928865,catalan <tradgnome@softcatala.org>
+geeqie,3455,287,42,1249,34,14,4470,3784,91.30549682875264,Catalan <ca@dodds.net> <>
+gegl03,8130,0,0,1719,0,0,9848,8130,100.0,Catalan <tradgnome@softcatala.org>
+gegl04,8130,0,0,1719,0,0,9848,8130,100.0,Catalan <tradgnome@softcatala.org>
+genius,2306,1795,4396,454,233,427,2894,8497,27.13899023184653,Catalan <tradgnome@softcatala.org>
+gentoo,2204,49,0,596,2,0,2565,2253,97.82512205947626,Innocent De Marchi <tangram.peces@gmail.com>
+gettext,7439,158,197,763,30,36,8852,7794,95.44521426738517,Catalan <ca@dodds.net>
+gftp,3375,0,0,634,0,0,3974,3375,100.0,Catalan <tradgnome@softcatala.org>
+ggz-base-libs,74,0,0,17,0,0,104,74,100.0,Catalan <tradgnome@softcatala.org>
+ggz-gtk-client,859,0,0,267,0,0,1032,859,100.0,Catalan <tradgnome@softcatala.org>
+ghdl,981,238,135,161,38,17,1189,1354,72.4519940915805,Catalan <ca@dodds.net>
+ghex,1107,0,0,284,0,0,1376,1107,100.0,Softcatalà <tradgnome@softcatala.org>
+gigolo,512,0,9,141,0,1,631,521,98.2725527831094,Catalan (http://www.transifex.com/projects/p/xfce/language/ca/)
+gimp,26990,0,14,6840,0,1,33926,27004,99.9481558287661,Catalan <gnome@lists.softcatala.org>
+gimp-gap,16918,0,19,2563,0,1,22099,16937,99.88781956662928,
+gimp-help,2765,3225,215102,1565,947,11961,3616,221092,1.2506106055397754,none
+gimp-save-for-web,82,0,0,40,0,0,101,82,100.0,Catalan <>
+git,22029,132,668,3468,20,32,26879,22829,96.49568531254107,Catalan
+git-cinnabar,21950,65,651,3465,9,28,26789,22666,96.84108356128121,Catalan
+gitg,1338,175,297,246,42,38,1589,1810,73.92265193370166,Softcatalà - Xavi Ivars
+glabels,1554,271,313,540,81,92,2052,2138,72.68475210477081,Catalan <tradgnome@softcatala.org>
+glade,8119,0,0,1803,0,0,9630,8119,100.0,Catalan <tradgnome@softcatala.org>
+glade2,5909,0,1,1310,0,1,6928,5910,99.98307952622673,Catalan <tradgnome@softcatala.org>
+glade3,8170,708,182,2197,120,28,10139,9060,90.17660044150111,Catalan <tradgnome@softcatala.org>
+glib-networking,163,0,0,29,0,0,249,163,100.0,Catalan <gnome-dl@llistes.softcatala.org>
+glib2,6932,0,0,1083,0,0,9466,6932,100.0,Xavi Ivars
+glibc,8077,0,0,1473,0,0,11537,8077,100.0,Catalan <ca@dodds.net>
+glibc-arm-linux-gnu,8077,0,0,1473,0,0,11537,8077,100.0,Catalan <ca@dodds.net>
+glom,2524,1000,1391,488,199,173,2878,4915,51.353001017294,Catalan <tradgnome@softcatala.org>
+glpi,10529,0,755,2798,0,160,11633,11284,93.30911024459412,Catalan (Spain) (http://www.transifex.com/glpi/GLPI/language/ca_ES/)
+gnomad2,603,94,0,152,19,0,855,697,86.51362984218078,Catalan <ca@li.org>
+gnome-2048,301,0,0,48,0,0,345,301,100.0,ca_ES <tradgnome@softcatala.net>
+gnome-abrt,397,0,0,73,0,0,504,397,100.0,Catalan (http://www.transifex.com/projects/p/gnome-abrt/language/ca/)
+gnome-activity-journal,396,0,0,109,0,0,446,396,100.0,Siegfried Gevatter <siegfried@gevatter.com>
+gnome-backgrounds,29,0,0,18,0,0,37,29,100.0,Catalan <tradgnome@softcatala.org>
+gnome-bluetooth,373,0,0,111,0,0,428,373,100.0,Catalan <tradgnome@softcatala.org>
+gnome-boxes,1147,0,0,273,0,0,1453,1147,100.0,Catalan <tradgnome@softcatala.org>
+gnome-builder,410,979,2273,143,294,538,504,3662,11.19606772255598,Catalan <gnome@llistes.softcatala.org>
+gnome-calculator,2976,190,304,790,14,35,3344,3470,85.76368876080691,Catalan <tradgnome@softcatala.org>
+gnome-calendar,641,0,0,214,0,0,749,641,100.0,Softcatalà
+gnome-characters,186,0,0,58,0,0,221,186,100.0,
+gnome-chess,4400,0,0,375,0,0,4795,4400,100.0,Catalan <tradgnome@softcatala.org>
+gnome-clocks,1261,0,0,181,0,0,1270,1261,100.0,Catalan <Catalan <info@softcatala.org>>
+gnome-color-manager,2330,0,0,371,0,0,2713,2330,100.0,gnome
+gnome-commander,866,1422,8027,450,479,969,1104,10315,8.395540475036354,Catalan <tradgnome@softcatala.org>
+gnome-contacts,422,0,0,146,0,0,507,422,100.0,Catalan <tradgnome@softcatala.org>
+gnome-desktop,5788,0,0,196,0,0,6106,5788,100.0,Catalan <gnome@softcatala.net>
+gnome-desktop3,6950,0,2780,213,0,49,7254,9730,71.42857142857143,Catalan <tradgnome@softcatala.org>
+gnome-devel-docs,6072,1323,96102,278,128,2758,7120,103497,5.866836719904925,Catalan <tradgnome@softcatala.org>
+gnome-dictionary,1851,0,0,245,0,0,2175,1851,100.0,catalan <tradgnome@softcatala.org>
+gnome-disk-utility,3718,0,0,693,0,0,4784,3718,100.0,Catalan <info@softcatala.org>
+gnome-do,612,0,0,144,0,0,747,612,100.0,Catalan <ubuntu-l10n-ca@lists.ubuntu.com>
+gnome-doc-utils,502,0,0,202,0,0,516,502,100.0,Catalan <tradgnome@softcatala.org>
+gnome-documents,695,4,1006,215,1,85,836,1705,40.76246334310851,Catalan <tradgnome@softcatala.org>
+gnome-dvb-daemon,203,0,585,103,0,86,254,788,25.761421319796955,Catalan <tradgnome@softcatala.org>
+gnome-font-viewer,113,0,0,29,0,0,159,113,100.0,Catalan <tradgnome@softcatala.org>
+gnome-getting-started-docs,2248,260,0,322,16,0,2660,2508,89.63317384370016,Catalan <tradgnome@softcatala.org>
+gnome-icon-theme,49,0,0,42,0,0,53,49,100.0,Catalan <tradgnome@softcatala.org>
+gnome-initial-setup,766,0,0,120,0,0,832,766,100.0,Catalan <tradgnome@softcatala.org>
+gnome-keyring,553,0,0,112,0,0,652,553,100.0,Catalan <tradgnome@softcatala.org>
+gnome-klotski,1352,0,0,130,0,0,1446,1352,100.0,Catalan <tradgnome@softcatala.org>
+gnome-libs,988,40,57,381,4,10,1121,1085,91.05990783410138,linux-ca@chanae.alphanet.ch
+gnome-logs,376,0,0,122,0,0,449,376,100.0,Catalan <gnome@llistes.softcatala.org>
+gnome-mahjongg,421,0,1173,117,0,90,474,1594,26.411543287327476,Catalan <tradgnome@softcatala.org>
+gnome-maps,1186,0,0,304,0,0,1428,1186,100.0,Catalan <tradgnome@softcatala.org>
+gnome-menus,70,0,0,27,0,0,76,70,100.0,Catalan <tradgnome@softcatala.org>
+gnome-mime-data,887,0,0,362,0,0,1100,887,100.0,Catalan <tradgnome@softcatala.org>
+gnome-mines,437,0,1211,112,0,85,507,1648,26.51699029126214,Catalan <tradgnome@softcatala.org>
+gnome-mud,766,0,0,188,0,0,944,766,100.0,Catalan <tradgnome@softcatala.org>
+gnome-multi-writer,126,0,261,28,0,32,135,387,32.55813953488372,Catalan (http://www.transifex.com/projects/p/gnome-multi-writer/language/ca/)
+gnome-music,528,0,0,113,0,0,628,528,100.0,Catalan <tradgnome@softcatala.org>
+gnome-nettool,1178,0,0,241,0,0,1347,1178,100.0,Catalan <tradgnome@softcatala.org>
+gnome-nibbles,447,0,0,110,0,0,503,447,100.0,Catalan <tradgnome@softcatala.org>
+gnome-online-accounts,1229,0,0,347,0,0,1606,1229,100.0,Catalan <tradgnome@softcatala.org>
+gnome-packagekit,3593,0,0,583,0,0,4186,3593,100.0,Catalan <tradgnome@softcatala.org>
+gnome-phone-manager,502,0,0,112,0,0,598,502,100.0,Softcatalà <tradgnome@softcatala.org>
+gnome-photos,932,0,0,245,0,0,1051,932,100.0,Catalan (http://www.transifex.com/softcatala/gnome-documentation-catalan/language/ca/)
+gnome-power-manager,865,0,0,289,0,0,1077,865,100.0,Catalan <tradgnome@softcatala.org>
+gnome-robots,2562,0,0,203,0,0,2602,2562,100.0,Catalan <tradgnome@softcatala.org>
+gnome-screensaver,582,0,0,116,0,0,690,582,100.0,Catalan <tradgnome@softcatala.net>
+gnome-screenshot,456,0,0,79,0,0,569,456,100.0,Catalan <tradgnome@softcatala.org>
+gnome-search-tool,3069,0,0,344,0,0,3390,3069,100.0,catalan <tradgnome@softcatala.org>
+gnome-session,299,0,0,50,0,0,353,299,100.0,Catalan <tradgnome@softcatala.org>
+gnome-settings-daemon,2659,0,0,384,0,0,3124,2659,100.0,Catalan <info@softcatala.org>
+gnome-shell,1691,0,0,406,0,0,2043,1691,100.0,Catalan <tradgnome@softcatala.org>
+gnome-shell-extension-openweather,350,193,76,114,50,37,353,619,56.54281098546042,Softcatalà
+gnome-shell-extension-pomodoro,282,0,0,67,0,0,329,282,100.0,<>
+gnome-shell-extension-system-monitor-applet,130,27,0,92,2,0,157,157,82.80254777070064,
+gnome-shell-extensions,388,0,0,70,0,0,502,388,100.0,Catalan <tradgnome@softcatala.org>
+gnome-software,3676,0,0,762,0,0,4214,3676,100.0,Catalan <tradgnome@softcatala.org>
+gnome-sound-recorder,285,0,0,72,0,0,333,285,100.0,Catalan <tradgnome@softcatala.org>
+gnome-subtitles,2714,0,0,473,0,0,3014,2714,100.0,Catalan <tradgnome@softcatala.org>
+gnome-sudoku,2957,0,0,204,0,0,3099,2957,100.0,Catalan <tradgnome@softcatala.org>
+gnome-system-log,1657,0,0,148,0,0,1930,1657,100.0,catalan <tradgnome@softcatala.org>
+gnome-system-monitor,1462,0,0,313,0,0,1834,1462,100.0,Catalan <tradgnome@softcatala.org>
+gnome-taquin,232,0,0,49,0,0,273,232,100.0,ca_ES <tradgnome@softcatala.net>
+gnome-terminal,7801,0,0,1000,0,0,8648,7801,100.0,Catalan <Catalan <info@softcatala.org>>
+gnome-tetravex,1214,0,0,150,0,0,1238,1214,100.0,Catalan <tradgnome@softcatala.org>
+gnome-themes,109,0,0,30,0,0,134,109,100.0,Catalan <tradgnome@softcatala.org>
+gnome-themes-standard,24,0,0,9,0,0,26,24,100.0,Catalan <gnome-dl@llistes.softcatala.org>
+gnome-todo,717,0,0,161,0,0,937,717,100.0,
+gnome-tweak-tool,601,0,0,180,0,0,781,601,100.0,Catalan <tradgnome@softcatala.org>
+gnome-user-docs,4143,2034,53877,270,430,2558,4568,60054,6.898791088020781,Catalan <tradgnome@softcatala.org>
+gnome-user-share,160,0,0,29,0,0,205,160,100.0,Catalan <tradgnome@softcatala.org>
+gnome-vfs2,1519,0,0,305,0,0,1839,1519,100.0,Catalan <tradgnome@softcatala.org>
+gnome-video-arcade,918,0,423,191,0,43,1037,1341,68.45637583892618,Catalan <tradgnome@softcatala.org>
+gnome-video-effects,256,0,0,68,0,0,292,256,100.0,Catalan <tradgnome@softcatala.org>
+gnome-weather,191,0,0,41,0,0,219,191,100.0,Catalan <tradgnome@softcatala.org>
+gnomebaker,310,0,876,106,0,185,363,1186,26.138279932546375,Catalan <ca@dodds.net>
+gnomint,2744,0,1668,502,0,199,3473,4412,62.194016319129645,Catalan <ca@li.org>
+gnote,1984,913,406,378,122,42,2445,3303,60.066606115652434,Catalan <tradgnome@softcatala.org>
+gnotime,114,351,1543,60,144,225,155,2008,5.677290836653386,Catalan <linux@softcatala.org>
+gnubik,45,75,159,13,16,54,53,279,16.129032258064516,Catalonia is not Spain <cat@cat.cat>
+gnucash,30390,33,17,4834,13,4,34729,30440,99.83574244415243,Catalan <ca@dodds.net>
+gnumed,1225,2757,25419,344,813,3708,1411,29401,4.166524948131016,Catalan <ca@li.org>
+gnumeric,10462,3991,21635,2626,828,2362,12540,36088,28.99024606517402,Catalan <tradgnome@softcatala.org>
+gnupg,4435,2901,1304,642,464,191,5280,8640,51.331018518518526,Catalan <ca@dodds.net>
+gnupg2,2505,6486,4446,428,1131,635,3108,13437,18.642554141549454,Catalan <ca@dodds.net>
+gobby,778,0,122,176,0,14,891,900,86.44444444444444,Catalan <tradgnome@softcatala.org>
+gobby05,100,256,1117,35,88,159,117,1473,6.788866259334691,Catalan <ca@dodds.net>
+godot,7028,2,0,1891,1,0,8477,7030,99.97155049786629,Catalan <https://hosted.weblate.org/projects/godot-engine/godot/ca/>
+goffice,3427,1339,1430,1275,419,304,4104,6196,55.309877340219494,Catalan <tradgnome@softcatala.org>
+goffice08,7056,1153,1151,2534,373,245,8453,9360,75.38461538461539,Catalan <tradgnome@softcatala.org>
+gourmet,1731,107,2101,448,10,434,2056,3939,43.945163747143944,Catalan <ca@li.org>
+gparted,2876,0,0,474,0,0,3447,2876,100.0,Catalan <info@softcatala.org>
+gpicview,236,0,0,52,0,0,251,236,100.0,LXDE Catalan translators group
+gpodder,0,0,1879,0,0,502,0,1879,0.0,Catalan (http://www.transifex.com/projects/p/gpodder/language/ca/)
+gramps,33091,3472,985,5680,413,245,37135,37548,88.12986044529669,Catalan <kde-i18n-ca@kde.org>
+granatier,242,0,0,67,0,0,270,242,100.0,Catalan <kde-i18n-ca@kde.org>
+granite,156,0,0,57,0,0,184,156,100.0,Catalan <ca@li.org>
+grantlee-editor,530,0,0,158,0,0,667,530,100.0,Catalan <kde-i18n-ca@kde.org>
+grep,615,259,7,94,12,1,791,881,69.80703745743473,Catalan <ca@dodds.net>
+grilo,187,0,0,36,0,0,271,187,100.0,Catalan <tradgnome@softcatala.org>
+grilo-plugins,554,0,0,136,0,0,720,554,100.0,Catalan <tradgnome@softcatala.org>
+grip,901,165,105,243,36,20,1152,1171,76.94278394534587,Catalan <ca@dodds.net>
+grsync,697,93,377,108,17,38,782,1167,59.725792630676956,
+grub-customizer,1295,0,0,193,0,0,1400,1295,100.0,Catalan <ca@li.org>
+grub2,7119,0,0,1344,0,0,9408,7119,100.0,Catalan <ca@dodds.net>
+gscan2pdf,820,0,1109,301,0,213,1002,1929,42.50907205806117,Catalan <ca@li.org>
+gsettings-desktop-schemas,5942,71,298,550,2,14,7352,6311,94.15306607510696,Catalan <tradgnome@softcatala.org>
+gshutdown,492,0,0,101,0,0,516,492,100.0,
+gspell,78,0,0,32,0,0,99,78,100.0,ca_ES <tradgnome@softcatala.net>
+gstreamer,1898,5,14,343,2,3,2472,1917,99.00886802295254,Catalan <ca@dodds.net>
+gstreamer-plugins-bad-free,96,0,0,14,0,0,135,96,100.0,Catalan <ca@dodds.net>
+gstreamer-plugins-base,891,11,6,174,2,2,1151,908,98.12775330396477,Catalan <ca@dodds.net>
+gstreamer-plugins-good,814,0,0,190,0,0,1061,814,100.0,Catalan <ca@dodds.net>
+gstreamer1,1740,148,190,319,22,34,2263,2078,83.73435996150145,Catalan <ca@dodds.net>
+gstreamer1-plugins-bad-free,73,22,113,10,3,18,99,208,35.09615384615385,Catalan <ca@dodds.net>
+gstreamer1-plugins-base,640,100,209,124,23,51,823,949,67.43940990516333,Catalan <ca@dodds.net>
+gstreamer1-plugins-good,499,192,70,70,25,12,636,761,65.57161629434954,Catalan <ca@dodds.net>
+gstreamer1-plugins-ugly-free,107,11,0,12,1,0,137,118,90.67796610169492,Catalan <ca@dodds.net>
+gtg,548,0,2949,146,0,154,637,3497,15.670574778381468,Catalan <ca@li.org>
+gthumb,3458,0,1,1142,0,1,4232,3459,99.97108991037872,
+gtick,89,200,49,36,24,36,120,338,26.331360946745562,
+gtk+,202,0,0,105,0,0,235,202,100.0,linux-ca@chanae.alphanet.ch
+gtk-murrine-engine,268,0,0,92,0,0,456,268,100.0,Catalan <tradgnome@softcatala.org>
+gtk-recordmydesktop,685,0,131,88,0,16,766,816,83.94607843137256,<ca@li.org>
+gtk-vnc,89,0,0,25,0,0,152,89,100.0,Catalan <tradgnome@softcatala.org>
+gtk2,13699,5,0,2783,1,0,16409,13704,99.96351430239346,Catalan <tradgnome@softcatala.org>
+gtk2-engines,119,0,0,47,0,0,193,119,100.0,Catalan <tradgnome@softcatala.org>
+gtk3,16013,0,0,3586,0,0,19117,16013,100.0,Catalan <tradgnome@softcatala.org>
+gtk4,12426,0,0,2973,0,0,14736,12426,100.0,Catalan <tradgnome@softcatala.org>
+gtkhtml3,488,0,0,310,0,0,591,488,100.0,Catalan <tradgnome@softcatala.org>
+gtkpod,4690,1486,1344,796,326,240,5513,7520,62.36702127659575,Català <kde-i18n-ca@kde.org>
+gtksourceview2,1413,0,0,538,0,0,1795,1413,100.0,Catalan <tradgnome@softcatala.org>
+gtksourceview3,1040,73,43,601,14,15,1246,1156,89.96539792387543,Catalan <tradgnome@softcatala.org>
+gtkspell3,15,0,0,6,0,0,21,15,100.0,Catalan <ca@dodds.net>
+gtranslator,1670,0,0,389,0,0,2103,1670,100.0,Catalan <tradgnome@softcatala.org>
+guake,395,237,434,78,47,69,487,1066,37.05440900562852,Catalan (http://www.transifex.com/projects/p/guake/language/ca/)
+guayadeque,3326,0,0,1019,0,0,3590,3326,100.0,Catalan (http://www.transifex.com/projects/p/guayadeque/language/ca/)
+gucharmap,2880,0,0,532,0,0,3217,2880,100.0,Catalan <tradgnome@softcatala.org>
+gummi,669,73,16,234,19,8,777,758,88.25857519788917,Català <marcvinyals@velodius.com>
+gutenprint,11653,3564,545,3311,1208,181,12496,15762,73.93097322674788,Catalan <ca@dodds.net>
+gvfs,2139,0,0,411,0,0,3010,2139,100.0,Catalan <tradgnome@softcatala.org>
+gvrng,0,0,0,0,0,0,0,0,0.0,Catalan <ca@dodds.net>
+gwenview,1305,0,0,362,0,0,1506,1305,100.0,Catalan <kde-i18n-ca@kde.org>
+gwget,522,0,0,175,0,0,697,522,100.0,Catalan <tradgnome@softcatala.org>
+hamster-time-tracker,696,1,0,171,1,0,872,697,99.85652797704448,català; valencià <tradgnome@softcatala.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+heaptrack,1160,0,0,174,0,0,1338,1160,100.0,Catalan <kde-i18n-ca@kde.org>
+hexalate,0,0,60,0,0,4,0,60,0.0,Catalan (http://www.transifex.com/projects/p/hexalate/language/ca/)
+hexchat,4456,0,1515,1233,0,213,5220,5971,74.62736560040194,Catalan (http://www.transifex.com/hexchat/hexchat/language/ca/)
+hitori,174,0,0,36,0,0,186,174,100.0,Catalan <tradgnome@softcatala.org>
+hivex,262,8,0,21,1,0,309,270,97.03703703703704,Catalan
+homebank,1556,0,863,564,0,203,1722,2419,64.32410086812732,Catalan <ca@li.org>
+homerun,504,0,0,135,0,0,603,504,100.0,Catalan <kde-i18n-ca@kde.org>
+hugin,15376,1130,952,2930,124,74,18403,17458,88.07423530759537,Catalan <Catalan <info@softcatala.org>>
+hydrogen,7597,0,33,330,0,12,7636,7630,99.56749672346002,LANGUAGE <LL@li.org>
+iagno,410,0,1119,109,0,92,484,1529,26.81491170699804,Catalan <tradgnome@softcatala.org>
+ibus,1059,0,86,172,0,15,1268,1145,92.48908296943232,Catalan <fedora@llistes.softcatala.org>
+ibus-anthy,740,0,0,200,0,0,947,740,100.0,Catalan
+ibus-chewing,148,0,211,49,0,21,194,359,41.22562674094708,Catalan
+ibus-libpinyin,369,8,3,134,4,3,430,380,97.10526315789474,Catalan
+ibus-table,838,0,257,112,0,27,1004,1095,76.5296803652968,Catalan
+ibus-typing-booster,94,12,988,18,3,101,123,1094,8.592321755027422,Catalan
+icewm,0,0,0,0,0,0,0,0,0.0,Catalan <ca@dodds.net>
+im-chooser,239,0,0,56,0,0,307,239,100.0,Catalan <fedora@llistes.softcatala.org>
+imsettings,440,5,11,80,1,3,553,456,96.49122807017544,Catalan <fedora@llistes.softcatala.org>
+indent,203,54,15,43,10,2,281,272,74.63235294117648,Catalan <ca@dodds.net>
+initial-setup,33,0,0,7,0,0,32,33,100.0,Catalan (http://www.transifex.com/projects/p/initial-setup/language/ca/)
+initscripts,866,0,108,133,0,16,1169,974,88.91170431211499,Catalan <fedora@llistes.softcatala.org>
+inkscape,58641,9524,8263,12494,2684,1112,69280,76428,76.72711571675302,Catalan <gnome@llistes.softcatala.org>
+input-pad,462,0,1377,250,0,435,520,1839,25.122349102773246,Catalan <fedora@llistes.softcatala.org>
+iok,142,5,59,36,1,3,170,206,68.93203883495146,Catalan <fedora@softcatala.net>
+iso-codes,2239,7679,13196,1197,6011,8012,2304,23114,9.686769922990395,Catalan <ca@dodds.net>
+isoimagewriter,399,0,0,79,0,0,495,399,100.0,Catalan <kde-i18n-ca@kde.org>
+isomaster,672,0,2,106,0,1,728,674,99.70326409495549,Catala
+jmol,2825,100,241,943,31,47,3500,3166,89.2293114339861,Catalan <jmol-developers@lists.sourceforge.net>
+jpilot,583,604,1887,218,182,363,620,3074,18.96551724137931,Catalan <ca@dodds.net>
+json-glib,303,0,0,44,0,0,405,303,100.0,Catalan <tradgnome@softcatala.org>
+juk,1453,0,0,355,0,0,1772,1453,100.0,Catalan <kde-i18n-ca@kde.org>
+k3b,20221,0,0,2520,0,0,23760,20221,100.0,Catalan <kde-i18n-ca@kde.org>
+k4dirstat,547,0,0,165,0,0,645,547,100.0,Catalan (http://www.transifex.com/projects/p/k4dirstat/language/ca/)
+kBuild,502,0,3,80,0,1,616,505,99.4059405940594,Catalan <ca@dodds.net>
+kaccounts-integration,82,0,0,12,0,0,90,82,100.0,Catalan <kde-i18n-ca@kde.org>
+kaccounts-providers,60,0,0,20,0,0,64,60,100.0,Catalan <kde-i18n-ca@kde.org>
+kactivitymanagerd,9,0,0,4,0,0,11,9,100.0,Catalan <kde-i18n-ca@kde.org>
+kaddressbook,745,0,0,167,0,0,860,745,100.0,Catalan <kde-i18n-ca@kde.org>
+kalarm,7336,0,0,1025,0,0,8740,7336,100.0,Catalan <kde-i18n-ca@kde.org>
+kalgebra,167,0,0,82,0,0,187,167,100.0,Catalan <kde-i18n-ca@kde.org>
+kalzium,10445,0,0,1533,0,0,11477,10445,100.0,Catalan <kde-i18n-ca@kde.org>
+kamera,342,0,0,37,0,0,385,342,100.0,Catalan <kde-i18n-ca@kde.org>
+kamoso,119,0,0,41,0,0,131,119,100.0,Catalan <kde-i18n-ca@kde.org>
+kanagram,528,0,0,145,0,0,592,528,100.0,Catalan <kde-i18n-ca@kde.org>
+kapman,114,0,0,36,0,0,122,114,100.0,Catalan <kde-i18n-ca@kde.org>
+kapptemplate,272,0,0,52,0,0,311,272,100.0,Catalan <kde-i18n-ca@kde.org>
+kate,4901,0,0,1180,0,0,5939,4901,100.0,Catalan <kde-i18n-ca@kde.org>
+katomic,185,0,0,59,0,0,221,185,100.0,Catalan <kde-i18n-ca@kde.org>
+kaudiocreator,2259,8,5,543,1,2,2593,2272,99.42781690140845,Catalan <kde-i18n-ca@kde.org>
+kbibtex,2294,0,0,666,0,0,2825,2294,100.0,Catalan <kde-i18n-ca@kde.org>
+kblackbox,1360,0,0,101,0,0,1328,1360,100.0,Catalan <kde-i18n-ca@kde.org>
+kblocks,159,0,0,38,0,0,207,159,100.0,Catalan <kde-i18n-ca@kde.org>
+kbounce,154,0,0,42,0,0,178,154,100.0,Catalan <kde-i18n-ca@kde.org>
+kbruch,1345,0,0,195,0,0,1399,1345,100.0,Catalan <kde-i18n-ca@kde.org>
+kcachegrind,4370,0,0,562,0,0,4980,4370,100.0,Catalan <kde-i18n-ca@kde.org>
+kcalc,976,0,0,326,0,0,1176,976,100.0,Catalan <kde-i18n-ca@kde.org>
+kcharselect,88,0,0,34,0,0,111,88,100.0,Catalan <kde-i18n-ca@kde.org>
+kcm-fcitx,251,0,0,63,0,0,308,251,100.0,Catalan (http://www.transifex.com/fcitx/fcitx/language/ca/)
+kcm_systemd,1372,11,2,165,2,1,1754,1385,99.06137184115524,Catalan <kde-i18n-ca@kde.org>
+kcm_wacomtablet,898,0,0,199,0,0,1141,898,100.0,Catalan <kde-i18n-ca@kde.org>
+kcolorchooser,29,0,0,10,0,0,36,29,100.0,Catalan <kde-i18n-ca@kde.org>
+kcoloredit,278,0,0,95,0,0,316,278,100.0,Catalan <kde-i18n-ca@kde.org>
+kcron,534,0,0,190,0,0,573,534,100.0,Catalan <kde-i18n-ca@kde.org>
+kdb,1494,0,0,243,0,0,2006,1494,100.0,Catalan <kde-i18n-ca@kde.org>
+kde-cli-tools,2188,0,0,228,0,0,2398,2188,100.0,Catalan <kde-i18n-ca@kde.org>
+kde-connect,732,0,0,177,0,0,912,732,100.0,Catalan <kde-i18n-ca@kde.org>
+kde-dev-utils,94,0,0,35,0,0,124,94,100.0,Catalan <kde-i18n-ca@kde.org>
+kde-gtk-config,309,0,0,76,0,0,362,309,100.0,Catalan <kde-i18n-ca@kde.org>
+kde-l10n,105160,0,0,21176,0,0,118701,105160,100.0,Catalan <kde-i18n-ca@kde.org>
+kde-partitionmanager,2278,0,0,520,0,0,2729,2278,100.0,Catalan <kde-i18n-ca@kde.org>
+kde-print-manager,962,0,0,273,0,0,1129,962,100.0,Catalan <kde-i18n-ca@kde.org>
+kdebugsettings,119,0,0,37,0,0,126,119,100.0,Catalan <kde-i18n-ca@kde.org>
+kdenetwork-filesharing,42,0,0,12,0,0,50,42,100.0,Catalan <kde-i18n-ca@kde.org>
+kdepim-addons,4105,0,0,811,0,0,4593,4105,100.0,Catalan <kde-i18n-ca@kde.org>
+kdepim-apps-libs,59,0,0,34,0,0,67,59,100.0,Catalan <kde-i18n-ca@kde.org>
+kdepim-runtime,7750,0,0,1339,0,0,9495,7750,100.0,Catalan <kde-i18n-ca@kde.org>
+kdeplasma-addons,1559,0,0,565,0,0,2032,1559,100.0,Catalan <kde-i18n-ca@kde.org>
+kdesdk-kioslaves,82,0,0,17,0,0,89,82,100.0,Catalan <kde-i18n-ca@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,5,4,100.0,Catalan <kde-i18n-ca@kde.org>
+kdesvn,4845,0,0,881,0,0,6152,4845,100.0,Catalan <kde-i18n-ca@kde.org>
+kdevelop,13994,0,0,2828,0,0,16470,13994,100.0,Catalan <kde-i18n-ca@kde.org>
+kdevelop-php,455,0,0,63,0,0,561,455,100.0,Catalan <kde-i18n-ca@kde.org>
+kdevelop-python,582,0,0,101,0,0,712,582,100.0,Catalan <kde-i18n-ca@kde.org>
+kdevplatform,8745,0,0,1812,0,0,10192,8745,100.0,Catalan <kde-i18n-ca@kde.org>
+kdf,181,0,0,69,0,0,221,181,100.0,Catalan <kde-i18n-ca@kde.org>
+kdiagram,65,0,0,39,0,0,76,65,100.0,Catalan <kde-i18n-ca@kde.org>
+kdialog,347,0,0,70,0,0,447,347,100.0,Catalan <kde-i18n-ca@kde.org>
+kdiamond,122,0,0,32,0,0,141,122,100.0,Catalan <kde-i18n-ca@kde.org>
+kdiff3,7316,37,61,1300,6,7,8716,7414,98.67817642298354,Catalan <kde-i18n-ca@kde.org>
+kdnssd,30,0,0,7,0,0,33,30,100.0,Catalan <kde-i18n-ca@kde.org>
+keditbookmarks,466,0,0,132,0,0,615,466,100.0,Catalan <kde-i18n-ca@kde.org>
+kexec-tools,51,8,24,2,2,8,53,83,61.44578313253012,Catalan <fedora@softcatala.net>
+kexi,7351,0,0,1493,0,0,9024,7351,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-akonadi-calendar,1807,0,0,251,0,0,2044,1807,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-akonadi-contacts,1398,0,0,286,0,0,1598,1398,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-akonadi-mime,572,0,0,107,0,0,661,572,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-akonadi-search,48,0,0,11,0,0,69,48,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-akonadi-server,2443,0,0,425,0,0,3123,2443,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-audiocd-kio,844,0,0,178,0,0,1007,844,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-baloo,843,0,0,190,0,0,1003,843,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-calendarsupport,2967,0,0,409,0,0,3189,2967,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-eventviews,2906,0,0,313,0,0,3456,2906,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,18,14,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-incidenceeditor,2361,0,0,434,0,0,2518,2361,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kalarmcal,40,0,0,20,0,0,41,40,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kauth,73,0,0,8,0,0,85,73,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kblog,243,0,0,27,0,0,281,243,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,288,230,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kcalendarutils,1630,0,0,427,0,0,1799,1630,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kcmutils,564,0,0,72,0,0,678,564,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,341,348,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,20,18,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kconfig,261,0,0,100,0,0,343,261,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kconfigwidgets,321,0,0,117,0,0,402,321,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,210,177,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kcoreaddons,301,0,0,95,0,0,340,301,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,59,48,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kdeclarative,109,0,0,14,0,0,116,109,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,5259,4813,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,62,54,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kdesu,19,0,0,7,0,0,22,19,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,18,8,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kfilemetadata,148,0,0,82,0,0,234,148,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,74,71,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kholidays,109,0,0,77,0,0,119,109,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1908,1721,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-ki18n,124,0,0,110,0,0,135,124,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kiconthemes,37,0,0,18,0,0,42,37,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kidentitymanagement,165,0,0,21,0,0,186,165,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kimap,99,0,0,48,0,0,132,99,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kinit,134,0,0,14,0,0,148,134,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kio,12165,0,0,1360,0,0,13128,12165,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kirigami,2,0,0,2,0,0,2,2,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kirigami2,10,0,0,6,0,0,10,10,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,10,7,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kjobwidgets,123,0,0,36,0,0,132,123,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,308,248,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kldap,179,0,0,51,0,0,244,179,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kmailtransport,628,0,0,106,0,0,701,628,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kmime,159,0,0,10,0,0,154,159,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-knewstuff,690,0,0,158,0,0,846,690,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-knotifications,18,0,0,6,0,0,19,18,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,134,129,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,7,4,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kpackage,495,0,0,97,0,0,597,495,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kparts,104,0,0,26,0,0,108,104,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kpeople,21,0,0,11,0,0,27,21,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kpimtextedit,345,0,0,152,0,0,455,345,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kpty,15,0,0,4,0,0,23,15,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kross,100,0,0,35,0,0,114,100,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kservice,170,0,0,28,0,0,211,170,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-ksmtp,68,0,0,9,0,0,88,68,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-ktexteditor,8377,0,0,1216,0,0,9776,8377,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,537,462,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-ktnef,355,0,0,143,0,0,550,355,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kunitconversion,5266,0,0,2244,0,0,5343,5266,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kwallet,1624,0,0,131,0,0,1861,1624,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kwidgetsaddons,1319,0,0,458,0,0,1500,1319,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kxmlgui,1596,0,0,228,0,0,1766,1596,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,17,13,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libgravatar,27,0,0,12,0,0,40,27,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libkcddb,557,0,0,251,0,0,642,557,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,15,15,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libkdepim,465,0,0,127,0,0,564,465,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,179,139,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libkleo,1150,0,0,290,0,0,1364,1150,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libksane,272,0,0,83,0,0,329,272,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libksieve,3353,0,0,553,0,0,3894,3353,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-libktorrent,471,0,0,106,0,0,643,471,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-mailcommon,2801,0,0,467,0,0,3115,2801,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-mailimporter,1408,0,0,127,0,0,1635,1408,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-messagelib,7600,0,0,1184,0,0,8713,7600,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-pimcommon,1009,0,0,242,0,0,1137,1009,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-plasma,506,0,0,148,0,0,625,506,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-purpose,256,0,0,68,0,0,309,256,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-solid,682,0,0,222,0,0,754,682,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-sonnet,663,0,0,72,0,0,665,663,100.0,Catalan <kde-i18n-ca@kde.org>
+kf5-syntax-highlighting,454,0,0,296,0,0,518,454,100.0,Catalan <kde-i18n-ca@kde.org>
+kfind,505,0,0,118,0,0,594,505,100.0,Catalan <kde-i18n-ca@kde.org>
+kflickr,36,0,296,36,0,51,50,332,10.843373493975903,Catalan <ca@li.org>
+kfloppy,641,0,0,100,0,0,789,641,100.0,Catalan <kde-i18n-ca@kde.org>
+kfourinline,392,0,0,157,0,0,502,392,100.0,Catalan <kde-i18n-ca@kde.org>
+kgamma,130,0,0,16,0,0,154,130,100.0,Catalan <kde-i18n-ca@kde.org>
+kgeography,9699,0,0,7133,0,0,10147,9699,100.0,Catalan <kde-i18n-ca@kde.org>
+kget,2953,0,0,794,0,0,3482,2953,100.0,Catalan <kde-i18n-ca@kde.org>
+kgoldrunner,23557,0,0,908,0,0,23255,23557,100.0,Catalan <kde-i18n-ca@kde.org>
+kgpg,5282,0,0,698,0,0,6077,5282,100.0,Catalan <kde-i18n-ca@kde.org>
+kgrab,370,0,0,53,0,0,379,370,100.0,Catalan <kde-i18n-ca@kde.org>
+kgraphviewer,1251,0,0,242,0,0,1391,1251,100.0,Catalan <kde-i18n-ca@kde.org>
+khangman,473,0,0,119,0,0,511,473,100.0,Catalan <kde-i18n-ca@kde.org>
+khelpcenter,256,0,0,87,0,0,367,256,100.0,Catalan <kde-i18n-ca@kde.org>
+khotkeys,436,0,0,129,0,0,499,436,100.0,Catalan <kde-i18n-ca@kde.org>
+kicad,16843,0,0,2241,0,0,19319,16843,100.0,
+kiconedit,726,0,0,155,0,0,777,726,100.0,Catalan <kde-i18n-ca@kde.org>
+kig,7756,0,0,1291,0,0,8056,7756,100.0,Catalan <kde-i18n-ca@kde.org>
+kigo,500,0,0,129,0,0,566,500,100.0,Catalan <kde-i18n-ca@kde.org>
+kile,21908,366,50,3777,21,6,24019,22324,98.13653467120588,Catalan <kde-i18n-ca@kde.org>
+killbots,641,0,0,128,0,0,750,641,100.0,Catalan <kde-i18n-ca@kde.org>
+kinfocenter,2919,0,0,1010,0,0,3386,2919,100.0,Catalan <kde-i18n-ca@kde.org>
+kio-extras,915,0,0,128,0,0,1125,915,100.0,Catalan <kde-i18n-ca@kde.org>
+kio-gdrive,14,0,0,2,0,0,19,14,100.0,Catalan <kde-i18n-ca@kde.org>
+kio_gopher,34,0,0,10,0,0,48,34,100.0,Catalan <kde-i18n-ca@kde.org>
+kio_mtp,17,0,0,2,0,0,20,17,100.0,Catalan <kde-i18n-ca@kde.org>
+kiriki,144,0,0,50,0,0,161,144,100.0,Catalan <kde-i18n-ca@kde.org>
+kiten,641,0,0,179,0,0,805,641,100.0,Catalan <kde-i18n-ca@kde.org>
+kjots,399,0,0,106,0,0,469,399,100.0,Catalan <kde-i18n-ca@kde.org>
+kjumpingcube,412,0,0,95,0,0,477,412,100.0,Catalan <kde-i18n-ca@kde.org>
+klavaro,1911,0,0,232,0,0,1944,1911,100.0,Catalan <ca@dodds.net>
+kleopatra,8614,0,0,1310,0,0,10399,8614,100.0,Catalan <kde-i18n-ca@kde.org>
+klettres,436,0,0,83,0,0,487,436,100.0,Catalan <kde-i18n-ca@kde.org>
+klickety,178,0,0,62,0,0,188,178,100.0,Catalan <kde-i18n-ca@kde.org>
+klines,99,0,0,28,0,0,105,99,100.0,Catalan <kde-i18n-ca@kde.org>
+kmag,432,0,0,98,0,0,508,432,100.0,Catalan <kde-i18n-ca@kde.org>
+kmahjongg,340,0,0,98,0,0,420,340,100.0,Catalan <kde-i18n-ca@kde.org>
+kmail,8645,0,0,1318,0,0,10100,8645,100.0,Catalan <kde-i18n-ca@kde.org>
+kmail-account-wizard,799,0,0,128,0,0,1010,799,100.0,Catalan <kde-i18n-ca@kde.org>
+kmenuedit,277,0,0,61,0,0,292,277,100.0,Catalan <kde-i18n-ca@kde.org>
+kmid2,1022,0,0,333,0,0,1255,1022,100.0,Catalan <kde-i18n-ca@kde.org>
+kmines,108,0,0,38,0,0,130,108,100.0,Catalan <kde-i18n-ca@kde.org>
+kmix,907,0,0,219,0,0,1140,907,100.0,Catalan <kde-i18n-ca@kde.org>
+kmousetool,147,0,0,32,0,0,153,147,100.0,Catalan <kde-i18n-ca@kde.org>
+kmplayer,2496,2,0,740,2,0,3026,2498,99.919935948759,Catalan <kde-i18n-ca@kde.org>
+kmplot,2458,0,0,471,0,0,2773,2458,100.0,Catalan <kde-i18n-ca@kde.org>
+kmymoney,21026,0,0,3393,0,0,23344,21026,100.0,Catalan <kde-i18n-ca@kde.org>
+knavalbattle,399,0,0,102,0,0,463,399,100.0,Catalan <kde-i18n-ca@kde.org>
+knemo,1236,0,0,352,0,0,1506,1236,100.0,Catalan <kde-i18n-ca@kde.org>
+knetwalk,230,0,0,54,0,0,270,230,100.0,Catalan <kde-i18n-ca@kde.org>
+knights,1312,56,146,388,24,26,1498,1514,86.65785997357992,Catalan <kde-i18n-ca@kde.org>
+knotes,789,0,0,239,0,0,950,789,100.0,Catalan <kde-i18n-ca@kde.org>
+koffice-kivio,8381,8,28,2346,3,12,9605,8417,99.57229416656766,Catalan <kde-i18n-ca@kde.org>
+kolf,396,0,0,147,0,0,467,396,100.0,Catalan <kde-i18n-ca@kde.org>
+kollision,109,0,0,30,0,0,138,109,100.0,Catalan <kde-i18n-ca@kde.org>
+kolourpaint,2623,0,0,452,0,0,3025,2623,100.0,Catalan <kde-i18n-ca@kde.org>
+kompare,1430,0,0,196,0,0,1581,1430,100.0,Catalan <kde-i18n-ca@kde.org>
+konqueror,9027,0,0,1390,0,0,10125,9027,100.0,Catalan <kde-i18n-ca@kde.org>
+konquest,246,0,0,98,0,0,297,246,100.0,Catalan <kde-i18n-ca@kde.org>
+konsole5,2651,0,0,548,0,0,3179,2651,100.0,Catalan <kde-i18n-ca@kde.org>
+kontact,598,0,0,98,0,0,750,598,100.0,Catalan <kde-i18n-ca@kde.org>
+konversation,10294,0,0,1638,0,0,11304,10294,100.0,Catalan <kde-i18n-ca@kde.org>
+korganizer,6590,0,0,885,0,0,7444,6590,100.0,Catalan <kde-i18n-ca@kde.org>
+kpat,436,0,0,132,0,0,544,436,100.0,Catalan <kde-i18n-ca@kde.org>
+kphotoalbum,9564,0,0,1019,0,0,10706,9564,100.0,Catalan <kde-i18n-ca@kde.org>
+kpilot,7156,0,0,861,0,0,8467,7156,100.0,Catalan <kde-i18n-ca@kde.org>
+kpmcore,3220,0,0,478,0,0,4092,3220,100.0,Catalan <kde-i18n-ca@kde.org>
+kproperty,145,0,0,82,0,0,179,145,100.0,Catalan <kde-i18n-ca@kde.org>
+krdc,1276,0,0,286,0,0,1456,1276,100.0,Catalan <kde-i18n-ca@kde.org>
+krecipes,3646,0,0,765,0,0,4162,3646,100.0,Catalan <kde-i18n-ca@kde.org>
+kreport,514,0,0,234,0,0,642,514,100.0,Catalan <kde-i18n-ca@kde.org>
+kreversi,428,0,0,141,0,0,560,428,100.0,Catalan <kde-i18n-ca@kde.org>
+krfb,644,0,0,88,0,0,711,644,100.0,Catalan <kde-i18n-ca@kde.org>
+krita,25501,6,18,6176,3,2,31063,25525,99.90597453476984,Catalan <kde-i18n-ca@kde.org>
+kruler,184,0,0,47,0,0,208,184,100.0,Catalan <kde-i18n-ca@kde.org>
+krusader,7908,0,0,1721,0,0,9656,7908,100.0,Catalan <kde-i18n-ca@kde.org>
+kscreen,213,0,0,64,0,0,265,213,100.0,Catalan <kde-i18n-ca@kde.org>
+kscreenlocker,190,0,0,33,0,0,235,190,100.0,Catalan <kde-i18n-ca@kde.org>
+kshisen,522,0,0,66,0,0,540,522,100.0,Catalan <kde-i18n-ca@kde.org>
+ksig,85,0,0,26,0,0,89,85,100.0,Catalan <kde-i18n-ca@kde.org>
+ksirk,5763,0,0,762,0,0,6492,5763,100.0,Catalan <kde-i18n-ca@kde.org>
+ksnakeduel,231,0,0,53,0,0,249,231,100.0,Catalan <kde-i18n-ca@kde.org>
+kspaceduel,165,0,0,81,0,0,197,165,100.0,Catalan <kde-i18n-ca@kde.org>
+ksquares,257,0,0,76,0,0,274,257,100.0,Catalan <kde-i18n-ca@kde.org>
+ksshaskpass,43,0,0,12,0,0,51,43,100.0,Catalan <kde-i18n-ca@kde.org>
+kst,7288,0,0,1941,0,0,8697,7288,100.0,Catalan <kde-i18n-ca@kde.org>
+kstars,56712,0,0,15933,0,0,65289,56712,100.0,Catalan <kde-i18n-ca@kde.org>
+ksudoku,1659,0,0,158,0,0,1768,1659,100.0,Catalan <kde-i18n-ca@kde.org>
+ksysguard,2156,0,0,466,0,0,2424,2156,100.0,Catalan <kde-i18n-ca@kde.org>
+ksystemlog,3034,0,0,479,0,0,3423,3034,100.0,Catalan <kde-i18n-ca@kde.org>
+kteatime,201,0,0,65,0,0,229,201,100.0,Catalan <kde-i18n-ca@kde.org>
+ktimer,241,0,0,51,0,0,253,241,100.0,Catalan <kde-i18n-ca@kde.org>
+ktorrent,7538,0,0,1382,0,0,8588,7538,100.0,Catalan <kde-i18n-ca@kde.org>
+ktouch,871,0,0,242,0,0,1063,871,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,1313,1100,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-approver,71,0,0,18,0,0,74,71,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,99,83,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-common-internals,989,0,0,206,0,0,1161,989,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-contact-list,408,0,0,109,0,0,498,408,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-contact-runner,177,0,0,35,0,0,229,177,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,89,75,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,188,141,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-kded-integration-module,277,0,0,54,0,0,293,277,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-send-file,60,0,0,18,0,0,73,60,100.0,Catalan <kde-i18n-ca@kde.org>
+ktp-text-ui,1441,0,0,321,0,0,1706,1441,100.0,Catalan <kde-i18n-ca@kde.org>
+ktuberling,158,0,0,38,0,0,144,158,100.0,Catalan <kde-i18n-ca@kde.org>
+kturtle,1527,0,0,346,0,0,1597,1527,100.0,Catalan <kde-i18n-ca@kde.org>
+kubrick,1203,0,0,165,0,0,1406,1203,100.0,Catalan <kde-i18n-ca@kde.org>
+kwalletmanager5,802,0,0,166,0,0,913,802,100.0,Catalan <kde-i18n-ca@kde.org>
+kwebkitpart,624,0,0,158,0,0,689,624,100.0,Catalan <kde-i18n-ca@kde.org>
+kwin,6231,0,0,1212,0,0,7299,6231,100.0,Catalan <kde-i18n-ca@kde.org>
+kwordquiz,2025,0,0,413,0,0,2391,2025,100.0,Catalan <kde-i18n-ca@kde.org>
+kxstitch,1966,0,0,560,0,0,2171,1966,100.0,Catalan <kde-i18n-ca@kde.org>
+l3afpad,113,0,17,61,0,3,146,130,86.92307692307692,Catalan
+labyrinth,94,52,80,30,12,31,110,226,41.5929203539823,Catalan <tradgnome@softcatala.net>
+latexila,486,69,1709,165,28,394,547,2264,21.46643109540636,Catalan <tradgnome@softcatala.org>
+lazarus,5547,2794,19179,1794,495,3984,7340,27520,20.15625,
+ldm,0,0,55,0,0,19,0,55,0.0,Catalan <ca@li.org>
+leafpad,103,10,12,54,6,8,138,125,82.39999999999999,Catalan
+lemonpos,1164,707,1247,388,195,260,1255,3118,37.33162283515073,Catalan <kde-i18n-doc@lists.kde.org>
+libappstream-glib,460,0,0,99,0,0,619,460,100.0,Catalan (http://www.transifex.com/freedesktop/appstream-glib/language/ca/)
+libbonobo,1086,0,0,214,0,0,1416,1086,100.0,Catalan <tradgnome@softcatala.org>
+libbonoboui,736,0,0,230,0,0,914,736,100.0,Catalan <tradgnome@softcatala.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Catalan
+libcryptui,6024,0,0,1308,0,0,7395,6024,100.0,Catalan <tradgnome@softcatala.org>
+libepc,141,0,0,25,0,0,206,141,100.0,Catalan <tradgnome@softcatala.org>
+libgda,1749,2511,7062,467,583,1018,2334,11322,15.447800741918389,Catalan <tradgnome@softcatala.org>
+libgdata,695,0,0,85,0,0,729,695,100.0,Catalan <tradgnome@softcatala.org>
+libgdl,639,2,18,92,1,3,691,659,96.96509863429439,Catalan <tradgnome@softcatala.org>
+libgnome,3546,0,0,546,0,0,4525,3546,100.0,Catalan <tradgnome@softcatala.org>
+libgnome-games-support,43,0,0,14,0,0,46,43,100.0,ca_ES <tradgnome@softcatala.net>
+libgnome-keyring,88,0,0,18,0,0,107,88,100.0,Catalan <gnome-dl@llistes.softcatala.org>
+libgnomecanvas,756,0,0,190,0,0,1034,756,100.0,Catalan <gnome@softcatala.net>
+libgnomekbd,242,0,0,55,0,0,324,242,100.0,Catalan <tradgnome@softcatala.org>
+libgnomeui,2535,0,0,654,0,0,2977,2535,100.0,Catalan <tradgnome@softcatala.org>
+libgsf,696,0,0,146,0,0,981,696,100.0,Catalan <tradgnome@llistes.softcatala.org>
+libgtop2,126,0,0,40,0,0,168,126,100.0,Catalan <tradgnome@softcatala.org>
+libguestfs,0,0,10463,0,0,1153,0,10463,0.0,Catalan
+libgweather,6370,0,0,4679,0,0,6554,6370,100.0,Catalan <tradgnome@softcatala.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libinfinity,37,56,5191,19,14,506,47,5284,0.7002271006813021,Catalan <ca@li.org>
+libkdegames,370,0,0,132,0,0,420,370,100.0,Catalan <kde-i18n-ca@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,215,171,100.0,Catalan <kde-i18n-ca@kde.org>
+libkexif,21,4,0,13,1,0,24,25,84.0,Catalan <kde-i18n-ca@kde.org>
+libkgapi,302,0,0,68,0,0,536,302,100.0,Catalan <kde-i18n-ca@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Catalan <kde-i18n-ca@kde.org>
+libkomparediff2,143,0,0,19,0,0,152,143,100.0,Catalan <kde-i18n-ca@kde.org>
+libksysguard,3166,0,0,396,0,0,3608,3166,100.0,Catalan <kde-i18n-ca@kde.org>
+libktorrent,1033,0,5,229,0,1,1352,1038,99.51830443159922,Catalan <kde-i18n-ca@kde.org>
+libmatekbd,251,0,0,43,0,0,327,251,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+libmatemixer,242,0,0,126,0,0,315,242,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+libmateweather,6124,0,0,4557,0,0,6265,6124,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+libmx,40,0,0,17,0,0,39,40,100.0,Catalan <tradgnome@softcatala.org>
+libmypaint,65,0,1472,5,0,101,75,1537,4.229017566688354,Catalan <https://hosted.weblate.org/projects/mypaint/libmypaint/ca/>
+libosinfo,628,0,34,143,0,2,833,662,94.86404833836858,Catalan
+libpaper,73,0,0,46,0,0,82,73,100.0,Català <debian-l10n-catalan@lists.debian.org>
+libpeas,112,0,0,34,0,0,124,112,100.0,Catalan <tradgnome@softcatala.org>
+libpwquality,343,0,0,53,0,0,389,343,100.0,Catalan (http://www.transifex.com/projects/p/libpwquality/language/ca/)
+libreoffice,499652,2,56688,72697,2,3841,557196,556342,89.81022464599113,LANGUAGE <LL@li.org>
+libreport,4987,0,0,607,0,0,6192,4987,100.0,Catalan (http://www.transifex.com/projects/p/libreport/language/ca/)
+libsecret,59,0,0,9,0,0,77,59,100.0,Catalan <tradgnome@softcatala.org>
+libsoup,155,0,0,36,0,0,261,155,100.0,Catalan <tradgnome@softcatala.org>
+libuser,1385,34,18,292,6,3,2086,1437,96.3813500347947,Catalan (http://www.transifex.com/projects/p/fedora/language/ca/)
+libvirt,1975,2265,58043,445,389,8828,2637,62283,3.1710097458375484,Catalan (http://www.transifex.com/projects/p/libvirt/language/ca/)
+libvirt-glib,121,0,24,25,0,4,177,145,83.44827586206897,Catalan (http://www.transifex.com/projects/p/libvirt-glib/language/ca/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Catalan <fedora@llistes.softcatala.org>
+libwnck,2206,0,0,471,0,0,2797,2206,100.0,Catalan <tradgnome@softcatala.org>
+libwnck3,1084,2,0,230,1,0,1362,1086,99.8158379373849,Catalan <tradgnome@softcatala.org>
+libxfce4ui,850,0,0,164,0,0,1030,850,100.0,Catalan (http://www.transifex.com/projects/p/xfce/language/ca/)
+libxfce4util,424,0,0,7,0,0,429,424,100.0,catalan
+libzypp,2361,0,0,950,0,0,2835,2361,100.0,Catalan <https://l10n.opensuse.org/projects/libzypp/master/ca/>
+liferea,1818,174,221,436,32,27,2296,2213,82.15092634432897,Catalan <ca@dodds.net>
+light-locker,260,0,0,37,0,0,304,260,100.0,Catalan (http://www.transifex.com/the_cavalry/light-locker/language/ca/)
+lightdm,163,0,0,21,0,0,196,163,100.0,Catalan <ca@li.org>
+lightdm-gtk,68,0,19,22,0,3,68,87,78.16091954022988,Catalan <ca@li.org>
+lightdm-gtk-greeter-settings,519,0,0,171,0,0,622,519,100.0,Catalan <ca@li.org>
+lightdm-settings,271,0,0,59,0,0,306,271,100.0,Catalan <ca@li.org>
+lightsoff,258,0,881,57,0,55,317,1139,22.651448639157156,Catalan <tradgnome@softcatala.org>
+lilypond,13165,0,529,3181,0,151,16410,13694,96.13699430407478,Catalan <ca@dodds.net>
+lincity-ng,1911,0,2,454,0,1,2019,1913,99.89545216936749,<bratac@bratac.cat>
+lingot,47,0,1310,21,0,133,59,1357,3.4635224760501107,Catalan <ca@li.org>
+lokalize,3557,0,0,595,0,0,4250,3557,100.0,Catalan <kde-i18n-ca@kde.org>
+lollypop,1001,6,5,304,1,1,1167,1012,98.91304347826086,Catalan <https://hosted.weblate.org/projects/gnumdk/lollypop/ca/>
+lordsawar,6927,0,0,1826,0,0,7869,6927,100.0,Catalan <ca@dodds.net>
+lskat,254,0,0,83,0,0,306,254,100.0,Catalan <kde-i18n-ca@kde.org>
+lxappearance,123,91,20,49,26,5,165,234,52.56410256410257,LANGUAGE <LL@li.org>
+lxappearance-obconf,0,0,196,0,0,27,0,196,0.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,57,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,96,83,100.0,LXDE Catalan translators group
+lxlauncher,58,0,0,17,0,0,59,58,100.0,LXDE Catalan translators group
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,LXDE Catalan translators group
+lxmusic,203,0,0,89,0,0,273,203,100.0,LXDE Catalan translation group
+lxrandr,83,50,34,22,8,11,105,167,49.700598802395206,LXDE Catalan translators group
+lxsession,36,2,717,15,1,150,37,755,4.768211920529802,LXDE Catalan translators group
+lxshortcut,43,0,0,19,0,0,50,43,100.0,LXDE Catalan translators group
+lxtask,130,0,0,51,0,0,169,130,100.0,LXDE Catalan translators group
+lxterminal,202,0,0,98,0,0,263,202,100.0,Catalan <josep.sanchez@ubuntu.cat>
+lynx,8310,0,0,1250,0,0,8849,8310,100.0,Catalan <ca@dodds.net>
+mail-notification,1853,0,0,344,0,0,2148,1853,100.0,Catalan <ca@dodds.net>
+mailman,19376,2830,1837,1324,58,58,21691,24043,80.5889448072204,Catalan <mailman@llistes.softcatala.org>
+man-db,1116,152,22,216,32,8,1519,1290,86.51162790697674,Catalan <ca@dodds.net>
+man2html,58,0,0,3,0,0,68,58,100.0,Catalan <debian-l10n-catalan@lists.debian.org>
+manaplus,5,0,4379,5,0,1401,5,4384,0.11405109489051093,Catalan (http://www.transifex.com/projects/p/manaplus/language/ca/)
+marble,11395,0,0,3310,0,0,13234,11395,100.0,Catalan <kde-i18n-ca@kde.org>
+marco,4148,0,0,413,0,0,5178,4148,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mariadb,0,5,259,0,1,19,0,264,0.0,Debian L10n Catalan <debian-l10n-catalan@lists.debian.org>
+massif-visualizer,385,0,0,108,0,0,515,385,100.0,Catalan <kde-i18n-ca@kde.org>
+mate-applets,13923,0,0,1514,0,0,16201,13923,100.0,catalan <tradmate@softcatala.org>
+mate-backgrounds,51,0,0,28,0,0,54,51,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-calc,2946,0,0,656,0,0,3325,2946,100.0,català; valencià <tradmate@softcatala.org>
+mate-control-center,2893,0,0,648,0,0,3567,2893,100.0,Catalan <tradmate@softcatala.org>
+mate-desktop,2225,0,80,295,0,4,2831,2305,96.52928416485899,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-media,226,0,0,96,0,0,276,226,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-menu,316,0,0,118,0,0,421,316,100.0,Catalan (http://www.transifex.com/mate/MATE/language/ca/)
+mate-menus,97,0,0,37,0,0,116,97,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-notification-daemon,139,0,0,37,0,0,192,139,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-panel,6100,0,0,742,0,0,7000,6100,100.0,Catalan <tradmate@softcatala.org>
+mate-polkit,122,0,0,20,0,0,138,122,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-power-manager,6588,0,0,640,0,0,7696,6588,100.0,Catalan <tradmate@softcatala.org>
+mate-screensaver,983,0,0,156,0,0,1202,983,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-sensors-applet,306,0,0,106,0,0,410,306,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-session-manager,681,0,0,114,0,0,839,681,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-settings-daemon,1533,0,231,247,0,6,1923,1764,86.90476190476191,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-system-monitor,4174,0,0,593,0,0,5080,4174,100.0,Catalan <tradmate@softcatala.org>
+mate-terminal,8294,0,0,795,0,0,9574,8294,100.0,Catalan <tradmate@softcatala.org>
+mate-themes,60,0,0,12,0,0,68,60,100.0,Catalan (http://www.transifex.com/mate/MATE/language/ca/)
+mate-user-guide,1621,0,39200,312,0,2619,1935,40821,3.970995321035741,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+mate-utils,9821,0,0,1095,0,0,11285,9821,100.0,catalan <tradmate@softcatala.org>
+maya-calendar,427,0,0,172,0,0,494,427,100.0,Catalan <https://l10n.elementary.io/projects/calendar/calendar/ca/>
+mbox-importer,40,0,0,13,0,0,44,40,100.0,Catalan <kde-i18n-ca@kde.org>
+mc,2302,0,1851,830,0,388,2975,4153,55.4298097760655,Catalan (http://www.transifex.com/mc/mc/language/ca/)
+mcomix,564,483,1520,155,105,274,632,2567,21.971172574990263,CA <gentoo@softcatala.net>
+meld,2112,198,161,449,18,20,2782,2471,85.47146904087414,Catalan <tradgnome@softcatala.org>
+menulibre,789,0,60,157,0,7,895,849,92.93286219081273,Catalan <ca@li.org>
+mesa,415,0,0,69,0,0,547,415,100.0,Catalan <ca@li.org>
+metacity,983,639,254,190,68,25,1237,1876,52.398720682302766,Catalan <tradgnome@softcatala.org>
+midori,3103,0,438,738,0,58,3880,3541,87.63061282123694,Catalan
+minetest,1587,389,4430,398,71,555,1910,6406,24.77364970340306,Catalan <https://hosted.weblate.org/projects/minetest/minetest/ca/>
+mingw-GConf2,4074,0,0,496,0,0,5384,4074,100.0,Catalan <tradgnome@softcatala.org>
+mingw-atk,440,0,0,169,0,0,527,440,100.0,català; valencià <<tradgnome@softcatala.org>>
+mingw-binutils,10376,0,0,1698,0,0,13004,10376,100.0,Catalan <ca@dodds.net>
+mingw-colord,14,0,374,5,0,94,16,388,3.608247422680412,Catalan (http://www.transifex.net/projects/p/freedesktop/team/ca/)
+mingw-gcc,959,245,138,156,39,18,1166,1342,71.46050670640834,Catalan <ca@dodds.net>
+mingw-gdk-pixbuf,1409,0,0,211,0,0,1917,1409,100.0,Catalan <Catalan <info@softcatala.org>>
+mingw-gettext,7448,138,197,764,27,36,8864,7783,95.69574714120519,Catalan <ca@dodds.net>
+mingw-glib-networking,163,0,0,29,0,0,249,163,100.0,Catalan <gnome-dl@llistes.softcatala.org>
+mingw-glib2,6932,0,0,1083,0,0,9466,6932,100.0,Xavi Ivars
+mingw-gstreamer,1898,5,14,343,2,3,2472,1917,99.00886802295254,Catalan <ca@dodds.net>
+mingw-gstreamer-plugins-bad-free,96,0,0,14,0,0,135,96,100.0,Catalan <ca@dodds.net>
+mingw-gstreamer-plugins-base,891,11,6,174,2,2,1151,908,98.12775330396477,Catalan <ca@dodds.net>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,1061,814,100.0,Catalan <ca@dodds.net>
+mingw-gstreamer1,1740,148,190,319,22,34,2263,2078,83.73435996150145,Catalan <ca@dodds.net>
+mingw-gstreamer1-plugins-bad-free,73,22,113,10,3,18,99,208,35.09615384615385,Catalan <ca@dodds.net>
+mingw-gstreamer1-plugins-base,640,100,209,124,23,51,823,949,67.43940990516333,Catalan <ca@dodds.net>
+mingw-gstreamer1-plugins-good,499,192,70,70,25,12,636,761,65.57161629434954,Catalan <ca@dodds.net>
+mingw-gtk-vnc,89,0,0,25,0,0,152,89,100.0,Catalan <tradgnome@softcatala.org>
+mingw-gtk2,13699,5,0,2783,1,0,16409,13704,99.96351430239346,Catalan <tradgnome@softcatala.org>
+mingw-gtk3,15957,51,0,3574,1,0,19055,16008,99.68140929535232,Catalan <tradgnome@softcatala.org>
+mingw-gtksourceview3,1040,73,43,601,14,15,1246,1156,89.96539792387543,Catalan <tradgnome@softcatala.org>
+mingw-gtkspell3,15,0,0,6,0,0,21,15,100.0,Catalan <ca@dodds.net>
+mingw-libgsf,696,0,0,146,0,0,981,696,100.0,Catalan <tradgnome@llistes.softcatala.org>
+mingw-libosinfo,1733,0,316,513,0,91,1951,2049,84.57784285017081,Catalan
+mingw-libsoup,155,0,0,36,0,0,263,155,100.0,Catalan <tradgnome@softcatala.org>
+mingw-libvirt,1975,2265,58043,445,389,8828,2637,62283,3.1710097458375484,Catalan (http://www.transifex.com/projects/p/libvirt/language/ca/)
+mingw-libvirt-glib,121,0,24,25,0,4,177,145,83.44827586206897,Catalan (http://www.transifex.com/projects/p/libvirt-glib/language/ca/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Catalan (http://www.transifex.com/freedesktop/p11-kit/language/ca/)
+mingw-wxWidgets,3408,1226,1757,709,311,455,4259,6391,53.3249882647473,<wx-translators@wxwidgets.org>
+mintmenu,7472,0,0,1228,0,0,8154,7472,100.0,Catalan <ca@li.org>
+mkvtoolnix,39251,0,0,3659,0,0,44769,39251,100.0,Catalan (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/ca/)
+mlocate,406,175,0,50,1,0,534,581,69.87951807228916,Catalan <fedora@llistes.softcatala.org>
+moin,4828,172,44,918,9,6,5684,5044,95.7176843774782,
+mono-tools,200,20,297,69,8,57,230,517,38.684719535783366,Jordi Mas i Hernàndez <jordi@ximian.com>
+monodevelop,5580,6242,11993,1940,1675,1817,6913,23815,23.43061095947932,Jordi Mas i Hernàndez <jordi@ximian.com>
+moodle,11,33,8,9,3,2,12,52,21.153846153846153,i18n@lists.horde.org
+moserial,757,0,0,115,0,0,879,757,100.0,Catalan <tradgnome@softcatala.org>
+mousepad,1088,0,0,306,0,0,1309,1088,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+mousetweaks,114,0,0,30,0,0,161,114,100.0,Catalan <tradgnome@softcatala.org>
+mozo,42,0,0,16,0,0,50,42,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+muffin,2038,0,0,272,0,0,2554,2038,100.0,Softcatalà <tradgnome@softcatala.org>
+multimedia-menus,56,0,0,22,0,0,69,56,100.0,Catalan <fedora@softcatala.net>
+mutt,5790,0,0,1200,0,0,7608,5790,100.0,Catalan <ca@dodds.net>
+mutter,839,0,108,133,0,1,1072,947,88.59556494192185,Catalan <tradgnome@softcatala.org>
+mypaint,158,0,6699,38,0,1148,196,6857,2.304214671138982,Catalan <https://hosted.weblate.org/projects/mypaint/libmypaint/ca/>
+nacl-arm-binutils,10376,0,0,1698,0,0,13004,10376,100.0,Catalan <ca@dodds.net>
+nacl-arm-gcc,989,146,95,162,26,13,1199,1230,80.40650406504065,Catalan <ca@dodds.net>
+nacl-gcc,1058,106,60,178,19,9,1278,1224,86.43790849673204,Catalan <ca@dodds.net>
+nano,3103,0,0,522,0,0,3652,3103,100.0,Catalan <ca@dodds.net>
+nautilus,5984,0,0,1114,0,0,7064,5984,100.0,Catalan <tradgnome@softcatala.org>
+nautilus-image-converter,115,0,0,41,0,0,173,115,100.0,Siegfried-Angel Gevatter Pujals <rainct@ubuntu.com>
+nautilus-sendto,56,0,0,10,0,0,80,56,100.0,Catalan <tradgnome@softcatala.org>
+nemiver,1341,0,0,340,0,0,1671,1341,100.0,Catalan <tradgnome@softcatala.org>
+nemo-extensions,258,0,0,49,0,0,327,258,100.0,Catalan <ca@li.org>
+neovim,6099,432,345,1257,75,44,7658,6876,88.6998254799302,Catalan <ca@dodds.net>
+nesc,1066,80,32,180,14,5,1285,1178,90.49235993208828,Catalan <ca@dodds.net>
+network-manager-applet,4506,7,187,949,3,14,5701,4700,95.87234042553192,Catalan <info@softcatala.org>
+neverball,430,0,2305,140,0,219,483,2735,15.722120658135283,Catalan (http://www.transifex.com/projects/p/neverball/language/ca/)
+newt,4,0,0,4,0,0,4,4,100.0,Catalan <debian-l10n-catalan@lists.debian.org>
+noise,1322,0,0,377,0,0,1662,1322,100.0,Catalan <https://l10n.elementary.io/projects/music/music/ca/>
+notejot,14,0,0,12,0,0,16,14,100.0,
+notification-daemon,17,0,0,7,0,0,25,17,100.0,Catalan <tradgnome@llistes.softcatala.org>
+obby,159,0,0,32,0,0,214,159,100.0,Catalan  <ca@dodds.net>
+oggconvert,130,0,2,43,0,1,138,132,98.48484848484848,Catalan <ca@li.org>
+okteta,2513,0,0,603,0,0,2857,2513,100.0,Catalan <kde-i18n-ca@kde.org>
+okular,4520,0,0,884,0,0,5208,4520,100.0,Catalan <kde-i18n-ca@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,149,158,100.0,LANGUAGE <LL@li.org>
+onboard,3242,0,1394,725,0,295,4048,4636,69.93097497842969,Catalan <ca@li.org>
+openbox,486,0,20,92,0,2,615,506,96.04743083003953,catalan
+openconnect,4927,0,292,856,0,43,6450,5219,94.40505844031424,Catalan (http://www.transifex.net/projects/p/meego/team/ca/)
+openerp,26726,0,30022,6529,0,2424,28629,56748,47.09593289631353,
+openerp-client,2438,0,5291,540,0,34,2771,7729,31.543537326950442,Catalan <ca@li.org>
+openerp7,14503,0,34871,4196,0,3053,15570,49374,29.3737594685462,Catalan <ca@li.org>
+openjfx,462,0,1105,178,0,198,626,1567,29.483088704530953,Catalan <tradgnome@softcatala.org>
+orage,2271,0,330,784,0,58,2578,2601,87.3125720876586,Catalan (http://www.transifex.com/projects/p/xfce/language/ca/)
+orca,5568,0,0,1843,0,0,7022,5568,100.0,Catalan <tradgnome@softcatala.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Catalan (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ca/)
+osinfo-db-tools,56,0,0,12,0,0,80,56,100.0,Catalan
+osmo,1227,0,544,525,0,173,1384,1771,69.28289102202146,Català
+p11-kit,476,0,0,81,0,0,570,476,100.0,Catalan (http://www.transifex.com/freedesktop/p11-kit/language/ca/)
+pacman,5398,0,0,896,0,0,6838,5398,100.0,Catalan (http://www.transifex.com/toofishes/archlinux-pacman/language/ca/)
+palapeli,1512,0,0,180,0,0,1684,1512,100.0,Catalan <kde-i18n-ca@kde.org>
+pam,575,22,0,117,3,0,719,597,96.31490787269682,Catalan <fedora@llistes.softcatala.org>
+pam_krb5,7,0,0,4,0,0,11,7,100.0,Catalan (http://www.transifex.com/projects/p/pam_krb5/language/ca/)
+pan,2064,745,588,559,138,99,2642,3397,60.75949367088608,Catalan <tradgnome@softcatala.org>
+pantheon-agent-geoclue2,43,0,0,11,0,0,50,43,100.0,Catalan <https://l10n.elementary.io/projects/desktop/pantheon-agent-geoclue2/ca/>
+pantheon-agent-polkit,16,3,1,8,1,1,17,20,80.0,LANGUAGE <LL@li.org>
+pantheon-calculator,78,0,0,36,0,0,106,78,100.0,LANGUAGE <LL@li.org>
+pantheon-files,2637,0,39,516,0,7,3107,2676,98.54260089686099,Catalan <ca@li.org>
+pantheon-greeter,29,0,0,10,0,0,39,29,100.0,Catalan <ca@li.org>
+pantheon-photos,4114,0,0,873,0,0,5067,4114,100.0,Catalan <https://l10n.elementary.io/projects/photos/photos/ca/>
+pantheon-terminal,224,0,0,58,0,0,259,224,100.0,Catalan <https://l10n.elementary.io/projects/terminal/terminal/ca/>
+paprefs,131,0,0,23,0,0,159,131,100.0,Catalan <fedora@softcatala.net>
+parcellite,265,0,0,69,0,0,322,265,100.0,Catalan
+parley,3842,0,0,752,0,0,4284,3842,100.0,Catalan <kde-i18n-ca@kde.org>
+parole,1058,0,0,298,0,0,1362,1058,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+parted,1027,1142,2247,154,113,283,1173,4416,23.256340579710145,Catalan <ca@dodds.net>
+passwd,329,0,7,56,0,1,443,336,97.91666666666666,Catalan <fedora@llistes.softcatala.org>
+pastebinit,158,0,25,23,0,4,208,183,86.33879781420765,Catalan <ca@li.org>
+pavucontrol,219,1,17,85,1,1,331,237,92.40506329113924,Catalan <fedora@softcatala.net>
+pbuilder,96,0,0,9,0,0,99,96,100.0,Català <debian-l10n-catalan@lists.debian.org>
+pcmanfm,506,105,599,138,34,124,614,1210,41.81818181818181,LANGUAGE <LL@li.org>
+pdfmod,799,0,0,117,0,0,935,799,100.0,Catalan <gnome-dl@llistes.softcatala.org>
+pgadmin3,16709,100,89,4372,19,11,19806,16898,98.88152444076222,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,1143,0,1410,414,0,410,1245,2553,44.770857814336075,Catalan <ca@li.org>
+php-horde-Horde-Alarm,1,4,8,1,2,2,2,13,7.6923076923076925,i18n@lists.horde.org
+php-horde-Horde-Argv,1,3,56,1,3,9,1,60,1.6666666666666667,i18n@lists.horde.org
+php-horde-Horde-Browser,52,0,14,5,0,1,54,66,78.78787878787878,i18n@lists.horde.org
+php-horde-Horde-Cli,11,0,0,3,0,0,12,11,100.0,i18n@lists.horde.org
+php-horde-Horde-Compress,10,15,0,3,3,0,17,25,40.0,i18n@lists.horde.org
+php-horde-Horde-Core,332,183,256,138,42,31,377,771,43.060959792477306,i18n@lists.horde.org
+php-horde-Horde-Crypt,325,57,14,85,9,3,422,396,82.07070707070707,i18n@lists.horde.org
+php-horde-Horde-Data,7,0,0,2,0,0,6,7,100.0,i18n@lists.horde.org
+php-horde-Horde-Date,4,12,20,4,3,4,4,36,11.11111111111111,i18n@lists.horde.org
+php-horde-Horde-Exception,2,2,0,1,1,0,2,4,50.0,i18n@lists.horde.org
+php-horde-Horde-Form,287,195,71,89,43,14,332,553,51.89873417721519,i18n@lists.horde.org
+php-horde-Horde-Icalendar,0,3,0,0,1,0,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Image,25,133,423,24,78,183,25,581,4.3029259896729775,i18n@lists.horde.org
+php-horde-Horde-Imsp,14,0,0,2,0,0,16,14,100.0,i18n@lists.horde.org
+php-horde-Horde-Itip,0,4,52,0,2,8,0,56,0.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,42,12,66,2,2,5,54,120,35.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,8,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Mime,9,31,8,8,2,2,10,48,18.75,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,1,4,42,1,3,16,1,47,2.127659574468085,i18n@lists.horde.org
+php-horde-Horde-Nls,399,26,5,250,10,3,413,430,92.79069767441861,i18n@lists.horde.org
+php-horde-Horde-Perms,6,0,0,5,0,0,7,6,100.0,i18n@lists.horde.org
+php-horde-Horde-Prefs,22,10,0,7,1,0,26,32,68.75,i18n@lists.horde.org
+php-horde-Horde-Rpc,11,17,20,2,3,2,16,48,22.916666666666664,i18n@lists.horde.org
+php-horde-Horde-Share,13,17,18,6,3,3,15,48,27.083333333333332,i18n@lists.horde.org
+php-horde-Horde-SyncMl,0,3,0,0,1,0,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,35,0,0,2,0,35,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,10,0,0,3,0,0,15,10,100.0,i18n@lists.horde.org
+php-horde-horde,3512,0,0,865,0,0,3982,3512,100.0,Catalan <dev@lists.horde.org>
+php-horde-imp,6871,0,0,1394,0,0,8178,6871,100.0,Catalan <dev@lists.horde.org>
+php-horde-ingo,1011,1,0,262,1,0,1265,1012,99.90118577075098,i18n@lists.horde.org
+php-horde-kronolith,3859,0,0,802,0,0,4309,3859,100.0,i18n@lists.horde.org
+php-horde-nag,1623,6,3,378,1,1,1983,1632,99.44852941176471,i18n@lists.horde.org
+php-horde-passwd,42,76,252,11,15,34,51,370,11.351351351351353,Catala ca_ES <info@rusc.net>
+php-horde-turba,1860,3,0,440,1,0,2189,1863,99.8389694041868,Catalan <dev@lists.horde.org>
+php-phpmyadmin-sql-parser,222,5,0,43,1,0,242,227,97.79735682819384,Catalan <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ca/>
+picard,1056,0,959,532,0,199,1177,2015,52.406947890818856,Catalan (http://www.transifex.com/projects/p/musicbrainz/language/ca/)
+picmi,197,0,0,114,0,0,227,197,100.0,Catalan <kde-i18n-ca@kde.org>
+pidgin,15148,10,598,3330,1,102,18289,15756,96.14115257679615,Catalan (http://www.transifex.com/pidgin/pidgin/language/ca/)
+pim-data-exporter,739,0,0,186,0,0,1090,739,100.0,Catalan <kde-i18n-ca@kde.org>
+pim-sieve-editor,435,0,0,117,0,0,516,435,100.0,Catalan <kde-i18n-ca@kde.org>
+pinta,1422,0,196,510,0,18,1777,1618,87.88627935723115,Catalan <ca@li.org>
+pioneers,2987,0,2,787,0,1,3410,2989,99.93308798929408,Catalan <kde-i18n-ca@kde.org>
+pitivi,2054,0,0,407,0,0,2362,2054,100.0,Catalan <info@softcatala.org>
+pix,3718,0,0,1202,0,0,4270,3718,100.0,catalan <tradgnome@softcatala.net>
+plank,189,0,0,50,0,0,257,189,100.0,Catalan <ca@li.org>
+planner,3625,5,19,1059,2,3,4609,3649,99.34228555768703,Catalan <tradgnome@softcatala.org>
+plasma-breeze,263,0,0,97,0,0,400,263,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-desktop,12656,0,0,2378,0,0,14620,12656,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-discover,1196,0,0,361,0,0,1461,1196,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-drkonqi,4015,0,0,377,0,0,4298,4015,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-integration,58,0,0,21,0,0,64,58,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,214,172,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-milou,42,0,0,17,0,0,50,42,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-nm,4372,0,0,1105,0,0,5398,4372,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-oxygen,808,0,0,295,0,0,1102,808,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-pa,171,0,0,72,0,0,229,171,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-pk-updates,2081,0,0,400,0,0,2605,2081,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-sdk,854,0,0,250,0,0,1084,854,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-systemsettings,224,0,0,55,0,0,275,224,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-user-manager,295,0,0,49,0,0,330,295,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-vault,518,0,0,62,0,0,600,518,100.0,Catalan <kde-i18n-ca@kde.org>
+plasma-workspace,7054,0,0,2254,0,0,8090,7054,100.0,Catalan <kde-i18n-ca@kde.org>
+playonlinux,0,0,2728,0,0,449,0,2728,0.0,Catalan <ca@li.org>
+pluma,12625,13,7,1779,3,1,14400,12645,99.84183471727955,catalan <tradmate@softcatala.org>
+plymouth-kcm,122,0,0,24,0,0,149,122,100.0,Catalan <kde-i18n-ca@kde.org>
+pmount,723,0,0,63,0,0,856,723,100.0,Catalan <ca@li.org>
+po4a,14362,4256,6570,979,159,372,14877,25188,57.01921549944417,Catalan <debian-l10n-catalan@lists.debian.org>
+poedit,2580,0,59,581,0,10,3045,2639,97.76430466085638,Catalan
+pogo,46,0,530,22,0,79,56,576,7.986111111111111,Catalan <ca@li.org>
+polari,790,0,0,180,0,0,894,790,100.0,català; valencià <info@softcatala.org>
+policycoreutils,1378,96,6204,240,31,807,1900,7678,17.94738213076322,Catalan <fedora@llistes.softcatala.org>
+polkit-gnome,94,0,0,16,0,0,100,94,100.0,català; valencià <tradgnome@softcatala.org>
+polkit-kde,92,0,0,28,0,0,120,92,100.0,Catalan <kde-i18n-ca@kde.org>
+pology,1577,4,8264,298,1,859,1863,9845,16.01828339258507,Catalan <kde-i18n-ca@kde.org>
+powerdevil,673,0,0,120,0,0,750,673,100.0,Catalan <kde-i18n-ca@kde.org>
+powertop,253,54,364,64,13,114,298,671,37.704918032786885,Catalan (http://www.transifex.com/projects/p/PowerTOP/language/ca/)
+pragha,695,0,195,244,0,32,877,890,78.08988764044943,Catalan (Spain) (http://www.transifex.com/p/Pragha/language/ca_ES/)
+psmisc,81,517,394,11,23,51,92,992,8.16532258064516,Catalan <debian-l10n-catalan@lists.debian.org>
+pspp,10148,139,93,1940,50,18,11766,10380,97.76493256262042,Catalan <ca@dodds.net>
+publican,1058,66,4319,76,2,538,1235,5443,19.43781003123278,Robert Buj <robert.buj@gmail.com>
+publican-fedora,7,0,100,2,0,6,9,107,6.5420560747663545,Robert Buj Gelonch <robert.buj@gmail.com>
+pulseaudio,1937,985,382,377,59,60,2379,3304,58.62590799031477,Catalan <fedora@softcatala.net>
+pybliographer,921,49,0,254,8,0,1174,970,94.94845360824742,Catalan <tradgnome@softcatala.org>
+pychess,245,0,4210,133,0,746,278,4455,5.499438832772166,Catalan (http://www.transifex.com/gbtami/pychess/language/ca/)
+pykickstart,1437,0,0,159,0,0,1670,1437,100.0,Catalan (http://www.transifex.com/projects/p/pykickstart/language/ca/)
+pyroom,21,0,390,7,0,67,33,411,5.109489051094891,Catalan <ca@li.org>
+python-blivet,692,0,0,97,0,0,849,692,100.0,Catalan (http://www.transifex.com/projects/p/blivet/language/ca/)
+python-blivet1,707,0,0,132,0,0,863,707,100.0,Catalan
+python-caja,6,0,0,2,0,0,6,6,100.0,Catalan (https://www.transifex.com/mate/teams/13566/ca/)
+python-django,3604,0,0,817,0,0,3964,3604,100.0,Catalan (http://www.transifex.com/django/django/language/ca/)
+python-django-debug-toolbar,77,0,280,61,0,76,82,357,21.568627450980394,Catalan (http://www.transifex.com/projects/p/django-debug-toolbar/language/ca/)
+python-django-formtools,32,0,0,11,0,0,34,32,100.0,Catalan (http://www.transifex.com/projects/p/django-formtools/language/ca/)
+python-django-helpdesk,0,0,3241,0,0,510,0,3241,0.0,Catalan (http://www.transifex.com/rossp/django-helpdesk/language/ca/)
+python-django-openstack-auth,42,0,0,9,0,0,50,42,100.0,Catalan
+python-django-registration,83,0,0,17,0,0,86,83,100.0,Català
+python-django-rest-framework,543,0,621,82,0,120,577,1164,46.649484536082475,Catalan (Spain) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ca_ES/)
+python-fedora,214,0,0,29,0,0,249,214,100.0,Catalan (http://www.transifex.com/projects/p/python-fedora/language/ca/)
+python-flask-admin,321,0,40,98,0,11,359,361,88.9196675900277,Catalan
+python-lettuce,7229,0,0,2285,0,0,7970,7229,100.0,Catalan <ca@li.org>
+python-meh,109,0,0,23,0,0,111,109,100.0,Catalan (http://www.transifex.com/projects/p/python-meh/language/ca/)
+python-rpm-generators,3545,15,848,707,3,142,4885,4408,80.42196007259528,Catalan (http://www.transifex.com/rpm-team/rpm/language/ca/)
+python-simpleline,42,0,0,16,0,0,42,42,100.0,Catalan
+python-sphinx,328,0,871,123,0,146,373,1199,27.356130108423688,Catalan (http://www.transifex.com/sphinx-doc/sphinx-1/language/ca/)
+python-wxpython4,2934,2138,2623,626,592,635,3653,7695,38.12865497076024,<wx-translators@wxwidgets.org>
+qt-recordmydesktop,685,0,131,88,0,16,766,816,83.94607843137256,<ca@li.org>
+quadrapassel,535,0,988,117,0,74,614,1523,35.128036769533814,Catalan <tradgnome@softcatala.org>
+quick-usb-formatter,106,0,0,25,0,0,121,106,100.0,Catalan <kde-i18n-ca@kde.org>
+radiotray,130,0,0,46,0,0,137,130,100.0,Catalan (http://www.transifex.com/projects/p/radiotray/language/ca/)
+rapid-photo-downloader,694,0,1137,230,0,179,850,1831,37.90278536318951,Catalan <ca@li.org>
+ravada,2395,11,954,672,5,251,2651,3360,71.27976190476191,
+rawstudio,317,305,984,155,126,221,435,1606,19.73848069738481,Rawstudio development <rawstudio-dev@rawstudio.org>
+realmd,0,0,789,0,0,127,0,789,0.0,Catalan (http://www.transifex.com/freedesktop/realmd/language/ca/)
+redhat-menus,261,0,0,86,0,0,311,261,100.0,Catalan <fedora@softcatala.net>
+rednotebook,830,0,317,179,0,61,947,1147,72.36268526591107,Catalan <ca@li.org>
+redshift,378,0,648,68,0,83,487,1026,36.84210526315789,Catalan <ca@li.org>
+regexxer,466,0,1,99,0,1,557,467,99.78586723768737,Catalan <tradgnome@softcatala.org>
+remmina,1278,0,2992,368,0,694,1595,4270,29.929742388758783,Catalan <ca@li.org>
+renameutils,82,112,71,16,24,14,88,265,30.943396226415093,Catalan <ca@dodds.net>
+resapplet,106,0,0,22,0,0,124,106,100.0,Catalan <tradgnome@softcatala.org>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Catalan
+revelation,1945,0,0,402,0,0,2300,1945,100.0,LANGUAGE <LL@li.org>
+rhash,219,0,230,50,0,43,254,449,48.775055679287306,Catalan <ca@li.org>
+rhn-client-tools,3815,0,242,409,0,11,4551,4057,94.03500123243776,Catalan (http://www.transifex.com/projects/p/spacewalk/language/ca/)
+rhnsd,24,9,0,7,2,0,28,33,72.72727272727273,Catalan <fedora@llistes.softcatala.org>
+rhythmbox,4003,0,7820,1027,0,492,4906,11823,33.85773492345429,Catalan <gnome@llistes.softcatala.org>
+rhythmbox-alternative-toolbar,310,0,0,58,0,0,375,310,100.0,Catalan <ca@li.org>
+ristretto,761,0,0,198,0,0,989,761,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+rkward,14062,0,20342,2146,0,1745,16054,34404,40.873154284385535,Catalan <kde-i18n-ca@kde.org>
+rocs,1376,0,0,283,0,0,1564,1376,100.0,Catalan <kde-i18n-ca@kde.org>
+rpm,3531,65,854,705,15,144,4862,4450,79.34831460674158,Catalan (http://www.transifex.com/rpm-team/rpm/language/ca/)
+rsibreak,1098,0,0,153,0,0,1132,1098,100.0,Catalan <kde-i18n-ca@kde.org>
+rt,7894,0,3514,1768,0,810,9521,11408,69.19705469845722,Catalan <ca@li.org>
+rygel,1624,0,0,303,0,0,2239,1624,100.0,Catalan <tradgnome@softcatala.org>
+sakura,133,22,50,48,8,13,170,205,64.8780487804878,Jordi Jané Cardo <jordi.jane@gmail.com>
+sawfish,2349,1522,2572,531,257,194,3203,6443,36.45817165916498,Catalan <gnome@softcatala.net>
+scilab,17379,221,30524,2543,23,4364,21952,48124,36.11295819133904,Catalan <ca@li.org>
+scratch,1464,0,6,622,0,4,1674,1470,99.59183673469387,LANGUAGE <LL@li.org>
+scratch-text-editor,890,0,0,213,0,0,1069,890,100.0,Catalan <ca@li.org>
+screenshot-tool,146,0,0,44,0,0,205,146,100.0,Catalan <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/ca/>
+scummvm,2531,501,1614,699,65,196,2982,4646,54.47696943607404,Catalan <https://translations.scummvm.org/projects/scummvm/scummvm/ca/>
+sddm-kcm,104,0,0,43,0,0,139,104,100.0,Catalan <kde-i18n-ca@kde.org>
+seahorse,2486,0,0,570,0,0,2989,2486,100.0,Catalan <tradgnome@softcatala.org>
+seahorse-caja,421,0,0,110,0,0,533,421,100.0,Catalan <tradgnome@softcatala.org>
+seahorse-nautilus,421,0,0,110,0,0,533,421,100.0,Catalan <tradgnome@softcatala.org>
+sed,458,79,273,78,11,52,587,810,56.54320987654321,Catalan <ca@dodds.net>
+sequeler,229,0,0,88,0,0,307,229,100.0,
+setroubleshoot,646,0,15,179,0,2,814,661,97.73071104387292,Catalan (http://www.transifex.com/projects/p/fedora/language/ca/)
+setroubleshoot-plugins,2551,0,3657,132,0,89,2753,6208,41.09213917525773,Catalan (http://www.transifex.com/projects/p/fedora/language/ca/)
+setuptool,55,0,0,14,0,0,73,55,100.0,Catalan <fedora@softcatala.net>
+sflphone,2877,0,290,714,0,99,3430,3167,90.84306915061573,Catalan <ca@li.org>
+shadow-utils,3710,266,85,554,32,10,4580,4061,91.35680866781581,Catalan <debian-l10n-catalan@lists.debian.org>
+shared-mime-info,1915,0,0,743,0,0,2445,1915,100.0,Catalan (http://www.transifex.com/freedesktop/shared-mime-info/language/ca/)
+sharutils,339,186,2622,83,36,185,451,3147,10.772163965681601,Catalan <ca@dodds.net>
+shotwell,6678,0,2,1252,0,1,8473,6680,99.97005988023953,Catalan <info@softcatala.org>
+shutter,2202,0,891,494,0,112,2742,3093,71.19301648884579,Catalan <ca@li.org>
+simon,11816,0,0,2451,0,0,13379,11816,100.0,Catalan <kde-i18n-ca@kde.org>
+simple-ccsm,84,0,11,21,0,2,95,95,88.42105263157895,Catalan <ca@li.org>
+simple-scan,847,0,0,192,0,0,973,847,100.0,Catalan <ca@li.org>
+simsu,0,0,81,0,0,4,0,81,0.0,Catalan (http://www.transifex.com/projects/p/simsu/language/ca/)
+skanlite,183,0,0,63,0,0,217,183,100.0,Catalan <kde-i18n-ca@kde.org>
+skrooge,11557,0,0,2416,0,0,12285,11557,100.0,Catalan <kde-i18n-ca@kde.org>
+skychart,5651,130,837,1764,10,168,6448,6618,85.38833484436385,
+slick-greeter,211,0,0,47,0,0,235,211,100.0,Catalan <ca@li.org>
+slingshot-launcher,217,0,0,68,0,0,235,217,100.0,Catalan <https://weblate.elementary.io/projects/wingpanel/applications-menu/ca/>
+smb4k,6557,0,0,733,0,0,7528,6557,100.0,Catalan <kde-i18n-ca@kde.org>
+smuxi,1734,0,0,410,0,0,2136,1734,100.0,Siegfried Gevatter <siegfried@gevatter.com>
+snap-photobooth,1,0,24,1,0,4,6,25,4.0,Catalan <ca@li.org>
+snapd,109,0,3608,34,0,379,123,3717,2.9324724239978477,Catalan <ca@li.org>
+snapper,743,0,0,180,0,0,869,743,100.0,Catalan <https://l10n.opensuse.org/projects/snapper/master/ca/>
+sos,54,33,35,11,7,12,61,122,44.26229508196721,Catalan <fedora@softcatala.net>
+sound-juicer,3289,0,2898,285,0,80,3672,6187,53.159851301115246,Catalan <tradgnome@softcatala.org>
+soundconverter,379,0,9,119,0,2,460,388,97.68041237113401,Catalan <ca@li.org>
+soundkonverter,3604,0,458,531,0,39,3980,4062,88.72476612506155,Catalan (http://www.transifex.com/hessijames/soundkonverter/language/ca/)
+spacefm,453,8,8261,171,3,1394,523,8722,5.193762898417794,Catalan (http://www.transifex.com/projects/p/spacefm/language/ca/)
+sparkleshare,197,0,205,45,0,42,191,402,49.004975124378106,
+spectacle,511,0,0,91,0,0,662,511,100.0,Catalan <kde-i18n-ca@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Catalan (Spain) (http://www.transifex.com/heldercorreia/speedcrunch/language/ca_ES/)
+squirrelmail,2643,1766,2469,756,317,278,3084,6878,38.42686827566153,Catalan <ca@li.org>
+sssd,10707,205,24875,1471,22,1527,12480,35787,29.918685556207564,Catalan (http://www.transifex.com/projects/p/sssd/language/ca/)
+steadyflow,423,0,47,88,0,5,464,470,90.0,Catalan <ca@li.org>
+stellarium,24985,0,42055,6036,0,20195,27678,67040,37.26879474940334,Catalan (https://www.transifex.com/stellarium/teams/80998/ca/)
+step,1905,0,0,675,0,0,2288,1905,100.0,Catalan <kde-i18n-ca@kde.org>
+subdownloader,968,0,0,272,0,0,1148,968,100.0,Catalan <ca@li.org>
+subtitleeditor,98,465,1254,72,197,277,117,1817,5.393505778756191,Catalan <tradgnome@softcatala.org>
+sudo,3738,0,0,554,0,0,4673,3738,100.0,Catalan <ca@dodds.net>
+sugar,2305,0,0,529,0,0,2889,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,34,0,0,25,0,0,44,34,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,189,0,0,52,0,0,221,189,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,955,871,100.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,153,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,776,66,100.0,LANGUAGE <LL@li.org>
+sugar-connect,31,0,0,8,0,0,35,31,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,4,0,95,3,0,23,4,99,4.040404040404041,LANGUAGE <LL@li.org>
+sugar-finance,26,0,163,21,0,19,28,189,13.756613756613756,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,126,0,0,35,0,0,144,126,100.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,13,0,106,11,0,22,13,119,10.92436974789916,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,74,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,16,0,62,14,0,7,22,78,20.51282051282051,LANGUAGE <LL@li.org>
+sugar-infoslicer,31,0,205,20,0,42,34,236,13.135593220338984,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,93,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,85,5,191,47,3,44,97,281,30.2491103202847,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,117,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,192,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,63,8,71,50,7,17,72,142,44.36619718309859,LANGUAGE <LL@li.org>
+sugar-moon,23,0,94,16,0,17,28,117,19.65811965811966,LANGUAGE <LL@li.org>
+sugar-nutrition,183,0,0,90,0,0,188,183,100.0,LANGUAGE <LL@li.org>
+sugar-paint,36,1,53,33,1,18,47,90,40.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,53,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,43,15,51,15,1,15,51,109,39.44954128440367,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,60,0,0,21,0,0,80,60,100.0,LANGUAGE <LL@li.org>
+sugar-pukllanapac,10,0,0,5,0,0,13,10,100.0,LANGUAGE <LL@li.org>
+sugar-read,112,0,25,41,0,9,120,137,81.75182481751825,LANGUAGE <LL@li.org>
+sugar-record,12,10,40,10,3,11,12,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,255,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,122,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,53,2,18,28,2,7,54,73,72.6027397260274,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,152,4,0,107,2,0,159,156,97.43589743589743,LANGUAGE <LL@li.org>
+sugar-turtleart,42,13,1404,38,11,386,45,1459,2.878684030157642,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,95,18,486,54,6,67,107,599,15.859766277128548,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,46,0,112,38,0,40,46,158,29.11392405063291,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,151,121,100.0,LANGUAGE <LL@li.org>
+supertux,1957,0,1023,555,0,363,2178,2980,65.67114093959732,Catalan (http://www.transifex.com/arctic-games/supertux/language/ca/)
+supertuxkart,3361,0,0,752,0,0,3732,3361,100.0,Catalan (http://www.transifex.com/supertuxkart/supertuxkart/language/ca/)
+sushi,24,0,0,11,0,0,31,24,100.0,Catalan <tradgnome@softcatala.org>
+svgpart,22,0,0,7,0,0,25,22,100.0,Catalan <kde-i18n-ca@kde.org>
+sweeper,229,0,0,50,0,0,281,229,100.0,Catalan <kde-i18n-ca@kde.org>
+swell-foop,1611,0,0,132,0,0,1634,1611,100.0,Catalan <tradgnome@softcatala.org>
+switchboard,61,0,0,18,0,0,80,61,100.0,Catalan <ca@li.org>
+switchboard-plug-a11y,189,0,0,68,0,0,265,189,100.0,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/ca/>
+switchboard-plug-about,117,0,0,37,0,0,146,117,100.0,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/ca/>
+switchboard-plug-applications,85,0,6,29,0,2,107,91,93.4065934065934,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,69,0,4,25,0,2,92,73,94.52054794520548,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/ca/>
+switchboard-plug-display,104,0,0,41,0,0,147,104,100.0,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/ca/>
+switchboard-plug-keyboard,396,0,7,154,0,2,513,403,98.26302729528535,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/ca/>
+switchboard-plug-mouse-touchpad,67,0,0,27,0,0,90,67,100.0,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/ca/>
+switchboard-plug-networking,442,0,0,128,0,0,523,442,100.0,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/ca/>
+switchboard-plug-notifications,131,0,8,18,0,2,160,139,94.24460431654677,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/ca/>
+switchboard-plug-onlineaccounts,161,0,0,49,0,0,202,161,100.0,Catalan <ca@li.org>
+switchboard-plug-pantheon-shell,135,0,9,51,0,2,169,144,93.75,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/ca/>
+switchboard-plug-printers,336,0,0,138,0,0,379,336,100.0,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/ca/>
+switchboard-plug-sound,90,0,0,37,0,0,104,90,100.0,Catalan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/ca/>
+switchdesk,139,0,0,20,0,0,137,139,100.0,Catalan <fedora@softcatala.net>
+synapse,683,0,141,193,0,34,806,824,82.8883495145631,Catalan <ca@li.org>
+synaptic,3093,127,11,644,15,3,3590,3231,95.7288765088208,Catalan <debian-l10n-catalan@lists.debian.org>
+syncevolution,566,0,0,111,0,0,743,566,100.0,Catalan <tradgnome@softcatala.org>
+synfig,65,0,4631,57,0,1121,71,4696,1.3841567291311756,Catalan (http://www.transifex.com/morevnaproject/synfig/language/ca/)
+synfigstudio,2138,0,4426,713,0,854,2636,6564,32.57160268129189,Catalan (http://www.transifex.com/morevnaproject/synfig/language/ca/)
+system-config-bind,18,436,8965,8,125,931,26,9419,0.19110308949994692,Catalan <fedora@softcatala.net>
+system-config-firewall,2807,0,7,330,0,1,3060,2814,99.75124378109453,Catalan <fedora@softcatala.net>
+system-config-httpd,877,0,0,227,0,0,1055,877,100.0,Catalan <fedora@softcatala.net>
+system-config-kdump,714,0,163,120,0,36,914,877,81.41391106043329,Catalan <fedora@llistes.softcatala.org>
+system-config-keyboard,187,0,0,81,0,0,202,187,100.0,Catalan <fedora@softcatala.net>
+system-config-kickstart,1144,0,0,253,0,0,1349,1144,100.0,Catalan (http://www.transifex.com/projects/p/system-config-kickstart/language/ca/)
+system-config-language,197,0,0,29,0,0,244,197,100.0,Catalan <fedora@softcatala.net>
+system-config-printer,3150,9,1,747,7,1,3789,3160,99.68354430379746,Catalan (http://www.transifex.com/projects/p/system-config-printer/language/ca/)
+system-config-rootpassword,116,0,0,19,0,0,116,116,100.0,Catalan <fedora@softcatala.net>
+system-config-users,1436,0,85,172,0,8,1571,1521,94.41157133464826,Catalan <fedora@llistes.softcatala.org>
+system-config-users-docs,1054,5,2,77,3,2,1078,1061,99.3402450518379,Catalan <fedora@softcatala.org>
+system-switch-java,81,0,0,11,0,0,83,81,100.0,Catalan <fedora@softcatala.net>
+system-switch-mail,158,0,0,24,0,0,206,158,100.0,Catalan <fedora@softcatala.net>
+systemd,968,0,0,113,0,0,1083,968,100.0,Català <ubuntu-l10n-ca@lists.ubuntu.com>
+tali,2408,0,0,183,0,0,2486,2408,100.0,Catalan <tradgnome@softcatala.org>
+tar,3515,33,72,573,7,10,4438,3620,97.09944751381215,Catalan <ca@dodds.net>
+tellico,5626,0,0,1186,0,0,6286,5626,100.0,Catalan <kde-i18n-ca@kde.org>
+terminator,869,0,1951,308,0,526,1078,2820,30.815602836879428,Catalan <ca@li.org>
+terminology,744,39,75,182,11,23,915,858,86.7132867132867,Catalan <ca@li.org>
+texinfo,5963,505,19,973,58,3,6885,6487,91.92230615076306,Catalan <ca@dodds.net>
+thunar-archive-plugin,86,0,0,13,0,0,87,86,100.0,Catalan <xfce-i18n@xfce.org
+thunar-media-tags-plugin,156,0,0,58,0,0,169,156,100.0,catalan <xfce-i18n@xfce.org>
+thunar-vcs-plugin,595,0,0,320,0,0,736,595,100.0,Catalan (http://www.transifex.com/xfce/thunar-plugins/language/ca/)
+thunar-vfs,387,0,0,86,0,0,449,387,100.0,Catalan <xfce-i18n@xfce.org>
+thunar-volman,479,0,8,112,0,1,545,487,98.35728952772074,Catalan (http://www.transifex.com/projects/p/xfce/language/ca/)
+tilda,109,19,618,32,9,159,126,746,14.6112600536193,Catalan <ca@li.org>
+timeshift,2887,41,123,567,9,18,4671,3051,94.624713208784,Catalan <ca@li.org>
+tomboy,6729,12,5,674,1,3,7756,6746,99.74799881411207,Catalan <tradgnome@softcatala.net>
+tortoisehg,63,0,12921,23,0,2363,69,12984,0.4852125693160813,Catalan <ca@li.org>
+totem,6057,0,0,648,0,0,7066,6057,100.0,catalan <tradgnome@softcatala.org>
+totem-pl-parser,29,0,0,8,0,0,34,29,100.0,Catalan <tradgnome@softcatala.org>
+trac,6760,0,7356,1353,0,226,8080,14116,47.888920374043636,Catalan <ca@dodds.net>
+tracker,2211,0,0,369,0,0,2889,2211,100.0,Catalan <tradgnome@softcatala.org>
+tracker-miners,827,0,0,118,0,0,998,827,100.0,Catalan <tradgnome@softcatala.org>
+transmageddon,235,0,2,79,0,1,329,237,99.15611814345992,
+transmission,1809,0,0,494,0,0,2376,1809,100.0,Catalan <tradgnome@softcatala.org>
+transmission-remote-gtk,96,0,709,75,0,272,108,805,11.925465838509316,Catalan <ca@li.org>
+trojita,4388,0,0,893,0,0,5388,4388,100.0,Catalan <kde-i18n-ca@kde.org>
+tryton,1574,0,0,421,0,0,1921,1574,100.0,
+trytond,2648,0,0,1207,0,0,2892,2648,100.0,
+trytond-account,2743,0,0,1220,0,0,2967,2743,100.0,
+trytond-account-invoice,1028,0,0,372,0,0,1173,1028,100.0,
+trytond-account-invoice-history,2,0,0,1,0,0,2,2,100.0,
+trytond-account-invoice-line-standalone,10,0,0,4,0,0,16,10,100.0,
+trytond-account-product,296,0,0,95,0,0,326,296,100.0,
+trytond-account-statement,231,0,0,127,0,0,253,231,100.0,
+trytond-account-stock-anglo-saxon,74,0,0,12,0,0,67,74,100.0,
+trytond-account-stock-continental,325,0,0,69,0,0,299,325,100.0,
+trytond-analytic-account,184,0,0,95,0,0,183,184,100.0,
+trytond-analytic-invoice,13,0,0,3,0,0,13,13,100.0,
+trytond-analytic-purchase,22,0,0,4,0,0,24,22,100.0,
+trytond-analytic-sale,13,0,0,3,0,0,13,13,100.0,
+trytond-calendar,621,0,0,284,0,0,804,621,100.0,
+trytond-calendar-classification,2,0,0,2,0,0,2,2,100.0,
+trytond-calendar-scheduling,100,0,0,50,0,0,109,100,100.0,
+trytond-sale,536,0,0,266,0,0,602,536,100.0,
+trytond-sale-opportunity,320,0,0,174,0,0,327,320,100.0,
+trytond-sale-price-list,5,0,0,2,0,0,4,5,100.0,
+trytond-stock,1203,0,0,563,0,0,1302,1203,100.0,
+trytond-stock-forecast,174,0,0,81,0,0,229,174,100.0,
+trytond-stock-inventory-location,17,0,0,11,0,0,15,17,100.0,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,23,0,0,14,0,0,26,23,100.0,
+trytond-stock-supply,147,0,0,58,0,0,182,147,100.0,
+trytond-stock-supply-day,27,0,0,18,0,0,35,27,100.0,
+trytond-timesheet,278,0,0,131,0,0,334,278,100.0,
+tumbler,241,0,0,39,0,0,325,241,100.0,Catalan (http://www.transifex.com/xfce/tumbler/language/ca/)
+turpial,858,0,0,227,0,0,918,858,100.0,Catalan (http://www.transifex.com/projects/p/turpial-1/language/ca/)
+tuxpaint,1591,0,0,291,0,0,1668,1591,100.0,Català <linux-ca@chanae.alphanet.ch>
+tuxtype2,49,20,11,28,3,9,63,80,61.25000000000001,LANGUAGE <LL@li.org>
+tvtime,1197,17,8,243,2,1,1573,1222,97.95417348608838,Catalan
+udisks2,2009,0,0,491,0,0,2404,2009,100.0,Catalan
+ufraw,2047,113,12,409,14,2,2718,2172,94.24493554327809,http://pacoriviere.cat/ <http://pacoriviere.cat/>
+ufw,204,0,675,53,0,128,271,879,23.208191126279864,Catalan <ca@li.org>
+ufw-kde,815,0,0,190,0,0,1026,815,100.0,Catalan <kde-i18n-ca@kde.org>
+uget,930,42,87,336,9,25,1204,1059,87.81869688385268,Catalan (http://www.transifex.com/uget/uget/language/ca/)
+umbrello,4934,0,0,1402,0,0,5959,4934,100.0,Catalan <kde-i18n-ca@kde.org>
+unetbootin,3159,0,0,178,0,0,3507,3159,100.0,LANGUAGE <LL@li.org>
+usermode,573,0,0,96,0,0,654,573,100.0,Catalan <fedora@llistes.softcatala.org>
+util-linux,1764,11882,9333,499,2275,1260,2290,22979,7.67657426345794,Catalan <ca@dodds.net>
+vdr,1086,0,211,453,0,60,1181,1297,83.73168851195065,Catalan <vdr@linuxtv.org>
+vdr-epgsearch,3,2,2414,3,2,383,3,2419,0.12401818933443572,Catalan <vdr@linuxtv.org>
+vdr-live,1,0,913,1,0,310,1,914,0.10940919037199125,see developers in README
+vdr-osdteletext,33,0,11,16,0,4,36,44,75.0,Catalan <vdr@linuxtv.org>
+vdr-screenshot,27,0,8,11,0,3,27,35,77.14285714285715,Catalan <vdr@linuxtv.org>
+vdr-skinenigmang,322,0,12,131,0,3,409,334,96.40718562874252,<vdr@linuxtv.org>
+vdr-skinnopacity,664,0,118,167,0,48,712,782,84.91048593350384,
+vdr-ttxtsubs,33,2,12,16,1,7,35,47,70.2127659574468,Catalan <vdr@linuxtv.org>
+vdr-tvguide,584,0,370,187,0,122,650,954,61.21593291404612,
+viewnior,375,0,50,121,0,23,471,425,88.23529411764706,Catalan <ca@li.org>
+viking,113,0,4022,44,0,1012,139,4135,2.7327690447400244,Catalan <ca@li.org>
+vim,9958,0,0,1931,0,0,12201,9958,100.0,Catalan <ca@dodds.net>
+vinagre,1507,0,0,275,0,0,1825,1507,100.0,Catalan <tradgnome@softcatala.org>
+vino,1228,0,0,134,0,0,1371,1228,100.0,Catalan <tradgnome@softcatala.org>
+virt-manager,8326,33,5,1725,7,4,10731,8364,99.54567192730751,Catalan (http://www.transifex.com/projects/p/virt-manager/language/ca/)
+virt-viewer,750,0,34,164,0,5,951,784,95.66326530612244,Catalan (http://www.transifex.com/projects/p/virt-viewer/language/ca/)
+virtaal,1433,0,0,426,0,0,1761,1433,100.0,Catalan <ca@dodds.net>
+virtualplanet,376,22,93,197,9,49,420,491,76.57841140529531,Français <kde-i18n-doc@kde.org>
+vocal,81,0,296,26,0,53,102,377,21.485411140583555,Catalan <ca@li.org>
+volume_key,745,10,8,151,2,1,997,763,97.64089121887287,Catalan <fedora@llistes.softcatala.org>
+vte,160,0,0,26,0,0,244,160,100.0,Catalan <tradgnome@softcatala.org>
+vte291,31,0,0,5,0,0,44,31,100.0,Catalan <tradgnome@softcatala.org>
+vte3,160,0,0,26,0,0,244,160,100.0,Catalan <tradgnome@softcatala.org>
+wammu,2760,197,2333,599,36,288,3288,5290,52.17391304347826,Catalan <https://hosted.weblate.org/projects/gammu/wammu-doc/ca/>
+warmux,1264,667,813,247,107,118,1168,2744,46.06413994169096,Catalan <ca@li.org>
+warzone2100,12633,287,379,2694,74,84,15456,13299,94.99210466952402,Catalan <ca@dodds.net> <>
+wdiff,771,177,45,101,34,15,908,993,77.64350453172206,Catalan <ca@dodds.net>
+webkitgtk4,462,0,1105,178,0,198,626,1567,29.483088704530953,Catalan <tradgnome@softcatala.org>
+wesnoth,86857,76628,165185,7248,4554,10362,85974,328670,26.426811087108646,Catalan <wesnoth-ca@lists.ettin.org>
+wget,1867,1541,525,357,212,66,2580,3933,47.47012458682939,Catalan <ca@dodds.net>
+wicd,1138,0,0,254,0,0,1305,1138,100.0,ca <LL@li.org>
+widelands,40863,0,0,3770,0,0,41159,40863,100.0,Catalan (http://www.transifex.com/widelands/widelands/language/ca/)
+wine,15315,308,134,3452,25,15,19013,15757,97.1948975058704,Catalan
+wine-docs,1206,0,0,123,0,0,1371,1206,100.0,CA
+wingpanel,8,0,0,2,0,0,11,8,100.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,225,0,0,72,0,0,243,225,100.0,Catalan <https://weblate.elementary.io/projects/wingpanel/applications-menu/ca/>
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,18,15,100.0,Catalan <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/ca/>
+wingpanel-indicator-datetime,20,0,0,6,0,0,24,20,100.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,10,0,0,4,0,0,14,10,100.0,Catalan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/ca/>
+wingpanel-indicator-network,76,0,0,22,0,0,96,76,100.0,Catalan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/ca/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,26,16,100.0,Catalan <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/ca/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,21,16,100.0,Catalan <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/ca/>
+wingpanel-indicator-power,93,0,0,27,0,0,113,93,100.0,Catalan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/ca/>
+wingpanel-indicator-session,57,0,0,18,0,0,53,57,100.0,Catalan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/ca/>
+wingpanel-indicator-sound,14,0,0,6,0,0,17,14,100.0,LANGUAGE <LL@li.org>
+wlassistant,702,163,226,95,27,31,719,1091,64.34463794683776,<ca@li.org>
+workrave,1321,0,0,262,0,0,1518,1321,100.0,Catalan <ca@dodds.net>
+wxGTK,3408,1226,1757,709,311,455,4259,6391,53.3249882647473,<wx-translators@wxwidgets.org>
+wxGTK3,2934,2138,2623,626,592,635,3653,7695,38.12865497076024,<wx-translators@wxwidgets.org>
+wxMaxima,3746,330,1125,835,72,145,4113,5201,72.02461065179773,Innocent De Marchi <tangram.peces@gmail.com>
+wxPython,3082,2104,4953,718,568,1296,3825,10139,30.39747509616333,<wx-translators@wxwidgets.org>
+xarchiver,1131,0,0,277,0,0,1267,1131,100.0,Catalan <xfce-i18n@xfce.org>
+xcdroast,8044,0,0,848,0,0,9026,8044,100.0,Catalan <pgq@poboxes.com>
+xdg-desktop-portal-kde,11,0,0,8,0,0,13,11,100.0,Catalan <kde-i18n-ca@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Catalan <ca@dodds.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,91,81,100.0,Catalan <tradgnome@softcatala.org>
+xdialog,21,0,0,15,0,0,22,21,100.0,Catalan
+xed,12162,13,7,1660,3,1,13824,12182,99.8358233459202,catalan <tradmate@softcatala.org>
+xfbib,342,0,0,75,0,0,389,342,100.0,Harald Servat <redcrash@gmail.com>
+xfburn,1413,0,0,306,0,0,1718,1413,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+xfce4-appfinder,312,0,7,66,0,3,307,319,97.80564263322884,Catalan (http://www.transifex.com/projects/p/xfce/language/ca/)
+xfce4-battery-plugin,149,0,0,43,0,0,180,149,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-clipman-plugin,478,0,0,72,0,0,543,478,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-cpufreq-plugin,140,0,0,39,0,0,200,140,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-cpugraph-plugin,71,0,0,35,0,0,84,71,100.0,Catalan <xfce-i18n@xfce.org>
+xfce4-datetime-plugin,52,0,0,19,0,0,65,52,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-dict,527,0,0,119,0,0,603,527,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,226,181,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-embed-plugin,207,0,0,30,0,0,224,207,100.0,catalan
+xfce4-eyes-plugin,15,0,0,4,0,0,19,15,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,87,71,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-genmon-plugin,56,0,0,14,0,0,65,56,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,436,356,100.0,Catalan <tradgnome@softcatala.org>
+xfce4-mailwatch-plugin,657,0,0,110,0,0,794,657,100.0,Catalan
+xfce4-mixer,94,29,58,12,11,13,101,181,51.93370165745856,Catalan
+xfce4-mount-plugin,374,0,0,56,0,0,437,374,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-mpc-plugin,76,0,0,24,0,0,105,76,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-netload-plugin,92,0,0,35,0,0,112,92,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-notes-plugin,163,0,0,57,0,0,206,163,100.0,Catalan
+xfce4-notifyd,259,0,0,74,0,0,323,259,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+xfce4-panel,1709,0,0,395,0,0,2012,1709,100.0,Catalan (http://www.transifex.com/xfce/xfce4-panel/language/ca/)
+xfce4-places-plugin,75,3,79,32,1,11,84,157,47.77070063694268,Catalan <xfce-i18n@xfce.org>
+xfce4-power-manager,1017,0,0,202,0,0,1235,1017,100.0,Catalan (http://www.transifex.com/xfce/xfce4-power-manager/language/ca/)
+xfce4-pulseaudio-plugin,148,0,0,35,0,0,190,148,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-screenshooter,431,0,0,64,0,0,497,431,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+xfce4-sensors-plugin,349,5,4,69,3,2,409,358,97.48603351955308,Catalan
+xfce4-session,1062,0,4,207,0,1,1236,1066,99.62476547842401,Catalan (http://www.transifex.com/projects/p/xfce/language/ca/)
+xfce4-settings,1662,0,0,359,0,0,1958,1662,100.0,Catalan (https://www.transifex.com/xfce/teams/16840/ca/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,25,22,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,142,129,100.0,Catalan (https://www.transifex.com/xfce/teams/16840/ca/)
+xfce4-systemload-plugin,73,0,0,22,0,0,117,73,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-taskmanager,257,0,0,85,0,0,312,257,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+xfce4-terminal,1647,0,0,390,0,0,2118,1647,100.0,Catalan (http://www.transifex.com/xfce/xfce-apps/language/ca/)
+xfce4-time-out-plugin,89,0,0,32,0,0,94,89,100.0,Harald Servat
+xfce4-timer-plugin,65,3,66,24,1,17,75,134,48.507462686567166,Catalan (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ca/)
+xfce4-verve-plugin,108,0,0,28,0,0,137,108,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-wavelan-plugin,67,0,0,18,0,0,86,67,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-weather-plugin,1996,0,1672,305,0,25,2306,3668,54.41657579062159,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfce4-whiskermenu-plugin,349,0,0,118,0,0,445,349,100.0,Catalan (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ca/)
+xfce4-xkb-plugin,49,0,0,21,0,0,66,49,100.0,Catalan (http://www.transifex.com/xfce/xfce-panel-plugins/language/ca/)
+xfconf,452,0,0,67,0,0,546,452,100.0,Catalan (http://www.transifex.com/xfce/xfconf/language/ca/)
+xfdashboard,1345,0,4569,345,0,459,1857,5914,22.742644572201556,Catalan (http://www.transifex.com/xfdashboard/xfdashboard/language/ca/)
+xfdesktop,615,0,349,151,0,64,738,964,63.79668049792531,Catalan (http://www.transifex.com/projects/p/xfce/language/ca/)
+xfe,267,2196,3491,145,667,266,342,5954,4.484380248572388,muz_all_alone_team <LL@li.org>
+xfmpc,133,2,32,57,1,12,152,167,79.64071856287424,Harald Servat <redcrash@gmail.com>
+xfwm4,632,0,17,168,0,2,826,649,97.38058551617874,Catalan (http://www.transifex.com/projects/p/xfce/language/ca/)
+xkeyboard-config,3673,0,0,1117,0,0,3953,3673,100.0,Catalan <ca@dodds.net>
+xmlcopyeditor,1161,147,378,383,42,65,1317,1686,68.86120996441281,Robert Falcó <rfalco@acett.org>
+xmms,3177,72,194,1003,19,23,3882,3443,92.27417949462678,Catalan <tradgnome@softcatala.org>
+xmoto,3300,0,539,701,0,121,3584,3839,85.95988538681948,<XMoto>
+xournal,373,17,626,200,5,77,492,1016,36.71259842519685,Catalan
+xpad,29,0,377,9,0,116,47,406,7.142857142857142,Catalan <ca@li.org>
+xplayer,6452,0,0,758,0,0,7602,6452,100.0,catalan <tradgnome@softcatala.org>
+xplayer-plparser,57,0,0,15,0,0,67,57,100.0,Catalan <tradgnome@softcatala.org>
+xreader,3561,0,0,585,0,0,4042,3561,100.0,catalan <tradmate@softcatala.org>
+xsane,3224,0,0,728,0,0,4370,3224,100.0,Catalan
+xviewer,5766,547,411,638,66,50,6284,6724,85.75252825698989,Catalan <tradgnome@softcatala.org>
+xviewer-plugins,148,5,116,56,1,19,199,269,55.01858736059479,Catalan <tradgnome@softcatala.org>
+yakuake,1573,0,0,221,0,0,1754,1573,100.0,Catalan <kde-i18n-ca@kde.org>
+yelp,284,0,0,67,0,0,336,284,100.0,Catalan <tradgnome@softcatala.org>
+yelp-xsl,81,0,0,59,0,0,91,81,100.0,Catalan <tradgnome@softcatala.org>
+yum,2138,0,931,441,0,219,2759,3069,69.66438579341805,LANGUAGE <LL@li.org>
+yum-rhn-plugin,147,0,0,17,0,0,182,147,100.0,Catalan
+zanshin,893,0,0,245,0,0,1135,893,100.0,Catalan <kde-i18n-ca@kde.org>
+zathura,359,0,231,97,0,43,424,590,60.84745762711864,Catalan (http://www.transifex.com/projects/p/zathura/language/ca/)
+zenity,3270,0,0,455,0,0,3747,3270,100.0,Catalan <tradgnome@softcatala.org>
+zypper,10071,0,0,956,0,0,11174,10071,100.0,Catalan <https://l10n.opensuse.org/projects/zypper/master/ca/>

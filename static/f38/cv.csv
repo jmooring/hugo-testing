@@ -1,0 +1,32 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,24,0,1878,19,0,349,29,1902,1.2618296529968454,Chuvash <cv@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+elementary-calculator,21,10,164,12,4,49,21,195,10.76923076923077,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,575,0,0,206,0,575,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,133,0,0,35,0,133,0.0,
+elementary-code,15,81,1518,7,15,268,18,1614,0.929368029739777,LANGUAGE <LL@li.org>
+elementary-files,0,0,2490,0,0,551,0,2490,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,788,0,0,179,0,788,0.0,
+elementary-music,0,0,205,0,0,37,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+gala,0,0,249,0,0,51,0,249,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+granite-7,0,0,300,0,0,75,0,300,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+iso-codes,647,17,708,378,6,223,583,1372,47.15743440233236,Chuvash <https://hosted.weblate.org/projects/iso-codes/iso-15924/cv/>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Chuvash (http://www.transifex.com/mate/MATE/language/cv/)
+mate-menu,1,0,307,1,0,109,2,308,0.3246753246753247,Chuvash (http://www.transifex.com/mate/MATE/language/cv/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Chuvash (http://app.transifex.com/mate/MATE/language/cv/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,16,0,200,6,0,43,11,216,7.4074074074074066,Chuvash <cv@li.org>
+wingpanel,0,0,16,0,0,3,0,16,0.0,none

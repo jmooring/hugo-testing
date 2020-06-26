@@ -1,0 +1,68 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atk,359,8,8,114,7,5,292,375,95.73333333333333,Tatarish <tatarish.l10n@gmail.com>
+calibre,345,0,74855,332,0,21122,346,75200,0.4587765957446808,Tatarish
+gdk-pixbuf2,388,141,831,67,27,109,269,1360,28.52941176470588,Tatarish <tatarish.l10n@gmail.com>
+gimp,933,2635,9560,466,1090,1596,909,13128,7.106946983546618,Tatarish <tatarish.l10n@gmail.com>
+glib2,345,513,3919,81,101,565,297,4777,7.222105924220222,Tatarish <tatarish.l10n@gmail.com>
+gtk2,1141,1156,11407,411,424,1949,941,13704,8.326036193812026,Tatarish <tatarish.l10n@gmail.com>
+gtk3,695,1195,9963,307,430,1750,616,11853,5.863494473972834,Tatarish <tatarish.l10n@gmail.com>
+iso-codes,1036,4639,10105,651,3394,6176,911,15780,6.565272496831433,Tatarish <tatarish.l10n@gmail.com>
+kf5-kauth,0,19,39,0,3,5,0,58,0.0,Tatar <>
+kf5-kcmutils,563,0,0,71,0,0,405,563,100.0,Tatar <>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Tatar <>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Tatar <>
+kf5-kconfigwidgets,151,117,49,74,31,9,163,317,47.63406940063091,Tatar <>
+kf5-kcoreaddons,0,243,9,0,69,9,0,252,0.0,Tatar <>
+kf5-kdeclarative,74,31,4,11,2,1,65,109,67.88990825688074,Tatar <>
+kf5-kdelibs4support,769,604,3310,224,332,1780,756,4683,16.42109758701687,Tatar <>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Tatar <>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Tatar <>
+kf5-kglobalaccel,0,66,0,0,7,0,0,66,0.0,Tatar <>
+kf5-khtml,1596,39,85,292,11,8,1287,1720,92.79069767441861,Tatar <>
+kf5-ki18n,42,80,2,42,66,2,48,124,33.87096774193548,Tatar <>
+kf5-kinit,106,28,0,11,3,0,66,134,79.1044776119403,Tatar <>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Tatar <>
+kf5-kjobwidgets,0,141,0,0,45,0,0,141,0.0,Tatar <>
+kf5-kjsembed,248,0,0,44,0,0,237,248,100.0,Tatar <>
+kf5-knewstuff,592,50,31,127,17,6,556,673,87.96433878157504,Tatar <>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Tatar <>
+kf5-knotifyconfig,86,43,0,16,1,0,64,129,66.66666666666666,Tatar <>
+kf5-kparts,104,0,0,26,0,0,89,104,100.0,Tatar <>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Tatar <>
+kf5-kross,82,18,0,29,6,0,72,100,82.0,Tatar <>
+kf5-kservice,80,60,13,12,14,2,60,153,52.28758169934641,Tatar <>
+kf5-ktextwidgets,458,0,6,120,0,2,419,464,98.70689655172413,Tatar <>
+kf5-kwidgetsaddons,0,1231,29,0,425,6,0,1260,0.0,Tatar <>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Tatar <>
+kf5-kxmlgui,1375,162,6,206,15,1,1261,1543,89.11211924821775,Tatar <>
+kf5-sonnet,0,641,18,0,68,4,0,659,0.0,Tatar <>
+libfm,442,376,747,121,126,143,369,1565,28.242811501597444,
+libgnome,156,0,1338,56,0,172,144,1494,10.441767068273093,Tatarish <tatarish.l10n@gmail.com>
+libgnomecanvas,357,0,0,94,0,0,300,357,100.0,Tatarish <tatarish.l10n@gmail.com>
+libgnomeui,536,0,883,215,0,130,470,1419,37.77307963354475,Tatarish <tatarish.l10n@gmail.com>
+libreoffice,13958,351,83154,7867,301,21805,14087,97463,14.321332197859702,LANGUAGE <LL@li.org>
+lxappearance,212,0,0,74,0,0,195,212,100.0,Tatar <>
+lxappearance-obconf,191,5,0,26,1,0,164,196,97.44897959183673,Tatar <>
+lxinput,72,0,0,24,0,0,74,72,100.0,Tatar <>
+lxlauncher,51,0,0,11,0,0,39,51,100.0,LANGUAGE <LL@li.org>
+lxpanel,873,75,66,295,21,25,813,1014,86.09467455621301,
+lxpolkit,15,0,0,9,0,0,15,15,100.0,LANGUAGE <LL@li.org>
+lxrandr,111,0,11,24,0,3,99,122,90.98360655737704,LANGUAGE <LL@li.org>
+lxsession,36,0,0,14,0,0,34,36,100.0,LANGUAGE <LL@li.org>
+lxsession-edit,64,0,0,11,0,0,60,64,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,42,43,100.0,LANGUAGE <LL@li.org>
+lxterminal,144,0,0,85,0,0,178,144,100.0,LANGUAGE <LL@li.org>
+mingw-atk,359,8,8,114,7,5,292,375,95.73333333333333,Tatarish <tatarish.l10n@gmail.com>
+mingw-gdk-pixbuf,388,141,831,67,27,109,269,1360,28.52941176470588,Tatarish <tatarish.l10n@gmail.com>
+mingw-glib2,345,513,3919,81,101,565,297,4777,7.222105924220222,Tatarish <tatarish.l10n@gmail.com>
+mingw-gtk2,1141,1156,11407,411,424,1949,941,13704,8.326036193812026,Tatarish <tatarish.l10n@gmail.com>
+mingw-gtk3,695,1195,9963,307,430,1750,616,11853,5.863494473972834,Tatarish <tatarish.l10n@gmail.com>
+pcmanfm,190,441,574,62,119,114,169,1205,15.767634854771783,
+pidgin,45,0,18419,37,0,3892,48,18464,0.2437175043327556,Tatar (http://www.transifex.com/projects/p/pidgin/language/tt/)
+poedit,857,330,338,206,89,59,722,1525,56.19672131147541,Tatarish <tatarish.l10n@gmail.com>
+python-django,1811,0,1507,502,0,271,1564,3318,54.581072935503315,Tatar (http://www.transifex.com/projects/p/django/language/tt/)
+python-django14,2095,0,2961,538,0,1050,1793,5056,41.43591772151899,Tatar (http://www.transifex.net/projects/p/django/language/tt/)
+python-django15,1957,0,1023,523,0,201,1674,2980,65.67114093959732,Tatar (http://www.transifex.com/projects/p/django/language/tt/)
+stardict,1118,643,1274,161,127,305,749,3035,36.836902800658976,tt <tatarish.l10n@gmail.com>
+stellarium,6,0,11175,6,0,3139,6,11181,0.053662463107056614,Tatar <tt@li.org>
+xnoise,0,2,914,0,2,260,0,916,0.0,Tatarish

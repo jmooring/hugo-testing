@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+fuse-encfs,1080,8,227,124,2,13,1017,1315,82.12927756653993,German (Austria) <de_AT@li.org>
+ganyremote,496,0,0,148,0,0,508,496,100.0,Austrian
+gnomebaker,1008,0,178,242,0,49,938,1186,84.99156829679595,German (Austria) <de_AT@li.org>
+gourmet,2256,811,580,586,208,74,2103,3647,61.8590622429394,German (Austria) <de_AT@li.org>
+gpsdrive,424,439,1642,101,107,248,426,2505,16.926147704590818,german <de@li.org>
+kanyremote,475,0,5,139,0,4,483,480,98.95833333333334,Austrian
+owncloud,564,0,6661,278,0,1209,560,7225,7.806228373702422,German (Austria) (http://www.transifex.com/projects/p/owncloud/language/de_AT/)
+perl-libintl,5,0,17,5,0,17,5,22,22.727272727272727,German <guido@imperia.net>
+pingus,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+supertux,17,0,8,3,0,1,19,25,68.0,LANGUAGE <LL@li.org>
+texinfo,5,0,5570,5,0,686,5,5575,0.08968609865470852,German <de@li.org>
+vidalia,0,0,2927,0,0,657,0,2927,0.0,LANGUAGE <LL@li.org>

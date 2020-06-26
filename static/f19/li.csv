@@ -1,0 +1,40 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+cinnamon-desktop,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+cinnamon-translations,453,0,2897,130,0,756,451,3350,13.522388059701493,Limburgian <li@li.org>
+epiphany,1057,718,957,406,223,136,1002,2732,38.689604685212295,Dutch <vertaling@nl.linux.org>
+gconf-editor,101,63,156,36,23,35,96,320,31.5625,Limburgish
+gdk-pixbuf2,769,495,96,115,76,12,719,1360,56.544117647058826,Limburgish <li.org>
+gnome-desktop,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+gnome-desktop3,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+gnome-icon-theme,22,7,23,22,3,21,22,52,42.30769230769231,Limburgish
+gnome-mime-data,850,0,0,348,0,0,782,850,100.0,Limburgish <li.org>
+gnome-system-monitor,388,67,47,116,20,7,377,502,77.29083665338645,Limburgish <li@li.org>
+gnome-themes,95,0,6,32,0,2,101,101,94.05940594059405,Limburgish
+gnome-vfs2,225,77,980,66,20,162,211,1282,17.550702028081123,Limburgish
+gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+gtk3,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+libbonobo,464,17,43,95,5,8,458,524,88.54961832061069,Limburgish
+libbonoboui,314,7,39,92,3,18,306,360,87.22222222222223,Limburgish <li@li.org>
+libgnomecanvas,339,18,0,92,2,0,290,357,94.9579831932773,Limburgish <li@li.org>
+libgnomeprintui22,259,72,96,75,31,29,237,427,60.65573770491803,Limburgish
+libgnomeui,1136,98,185,290,22,33,1031,1419,80.05637773079634,Limburgish <li.org>
+libmatewnck,30,29,14,15,9,6,32,73,41.0958904109589,Limburgish
+libwnck,30,29,14,15,9,6,32,73,41.0958904109589,Limburgish
+libwnck3,30,29,14,15,9,6,32,73,41.0958904109589,Limburgish
+mate-conf-editor,101,63,156,36,23,35,96,320,31.5625,Limburgish
+mate-desktop,96,32,192,33,18,22,95,320,30.0,Limburgish <li.org>
+mate-file-manager,1852,0,7234,446,0,1030,1740,9086,20.38300682368479,LANGUAGE <LL@li.org>
+mate-icon-theme,22,7,23,22,3,21,22,52,42.30769230769231,Limburgish
+mate-panel,322,0,3915,82,0,500,326,4237,7.59971678074109,LANGUAGE <LL@li.org>
+mate-system-monitor,388,67,47,116,20,7,377,502,77.29083665338645,Limburgish <li@li.org>
+mate-themes,56,0,53,15,0,15,57,109,51.37614678899083,LANGUAGE <LL@li.org>
+mingw-atk,31,96,248,31,48,47,31,375,8.266666666666666,Limburgish
+mingw-gdk-pixbuf,769,495,96,115,76,12,719,1360,56.544117647058826,Limburgish <li.org>
+mingw-gtk2,5223,4277,4204,963,951,870,4889,13704,38.11295971978984,Limburgish <li.org>
+mingw-gtk3,3879,3864,4110,736,894,857,3620,11853,32.72589217919514,Limburgish <li.org>
+nautilus,3450,2903,852,743,398,120,3347,7205,47.883414295628036,Limburgish
+transmission,652,0,1157,200,0,294,728,1809,36.04201216141515,Limburgian <li@li.org>
+vte,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+vte3,81,15,0,16,2,0,109,96,84.375,Limburgish <li@gnome.org>
+yelp,51,96,459,23,47,78,43,606,8.415841584158416,Limburgish <li.org>

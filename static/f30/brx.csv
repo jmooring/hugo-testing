@@ -1,0 +1,35 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,36,42,100.0,Bodo <brx@li.org>
+anaconda,0,0,7236,0,0,1198,0,7236,0.0,Bodo
+blivet-gui,0,0,925,0,0,242,0,925,0.0,Bodo
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Bodo (http://www.transifex.com/projects/p/certmonger/language/brx/)
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Bodo
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Bodo
+entangle,0,0,953,0,0,229,0,953,0.0,Bodo
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Bodo
+gnucash,25636,5755,4595,4219,800,404,23023,35986,71.23881509475908,NONE
+initial-setup,0,0,33,0,0,7,0,33,0.0,Bodo
+iok,87,0,119,20,0,20,105,206,42.23300970873786,Bodo <LL@li.org>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Bodo
+libosinfo,0,0,728,0,0,156,0,728,0.0,Bodo
+libreoffice,39073,13915,46382,13193,6105,12669,40134,99370,39.32072053939821,LANGUAGE <LL@li.org>
+libvirt,0,0,64065,0,0,9877,0,64065,0.0,Bodo
+libvirt-glib,0,0,153,0,0,30,0,153,0.0,Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+mingw-libosinfo,0,0,728,0,0,156,0,728,0.0,Bodo
+mingw-libvirt,0,0,63828,0,0,9849,0,63828,0.0,Bodo
+mingw-libvirt-glib,0,0,153,0,0,30,0,153,0.0,Bodo (http://www.transifex.com/projects/p/libvirt-glib/language/brx/)
+mingw-osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Bodo
+mypaint,305,0,5015,102,0,978,315,5320,5.733082706766917,Bodo <https://hosted.weblate.org/projects/mypaint/mypaint/brx/>
+osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Bodo
+pam,0,0,597,0,0,120,0,597,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+php-phpmyadmin-sql-parser,0,0,227,0,0,44,0,227,0.0,Bodo <https://hosted.weblate.org/projects/phpmyadmin/master/brx/>
+php-phpmyadmin-sql-parser5,0,0,268,0,0,50,0,268,0.0,Bodo <https://hosted.weblate.org/projects/phpmyadmin/master/brx/>
+pidgin,18248,0,0,3891,0,0,18491,18248,100.0,Gist bodo team <info.gist@cdac.in>
+policycoreutils,1,0,4492,1,0,697,2,4493,0.022256843979523704,Bodo
+pykickstart,0,0,1605,0,0,179,0,1605,0.0,Bodo
+python-fedora,0,0,214,0,0,29,0,214,0.0,Bodo
+python-meh,0,0,109,0,0,23,0,109,0.0,Bodo
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Bodo
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Bodo (http://www.transifex.com/projects/p/fedora/language/brx/)

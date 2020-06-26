@@ -1,0 +1,50 @@
+---
+title: "pondus - translation progress for f24"
+package: pondus
+date: 2026-01-17T15:20:44+00:00
+started_languages: 12
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 12
+release: f24
+---
+The package pondus (version 0.8.0):
+
+* represents 324 source words to be translated
+* is translated into 12 languages in Fedora f24
+
+
+* contains 12 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [bg]({{< ref "/f24/language/bg.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/pondus/po/bg.po | 
+ | [de]({{< ref "/f24/language/de.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/pondus/po/de.po | 
+ | [fi]({{< ref "/f24/language/fi.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/pondus/po/fi.po | 
+ | [ru]({{< ref "/f24/language/ru.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/pondus/po/ru.po | 
+ | [sv]({{< ref "/f24/language/sv.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/pondus/po/sv.po | 
+ | [tr]({{< ref "/f24/language/tr.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/pondus/po/tr.po | 
+ | [es]({{< ref "/f24/language/es.md" >}}) | 304 | 324 | 93.8 | /mnt/stockage/packages/f24/pondus/po/es.po | 
+ | [it]({{< ref "/f24/language/it.md" >}}) | 304 | 324 | 93.8 | /mnt/stockage/packages/f24/pondus/po/it.po | 
+ | [he]({{< ref "/f24/language/he.md" >}}) | 299 | 324 | 92.3 | /mnt/stockage/packages/f24/pondus/po/he.po | 
+ | [fr]({{< ref "/f24/language/fr.md" >}}) | 296 | 324 | 91.4 | /mnt/stockage/packages/f24/pondus/po/fr.po | 
+ | [pl]({{< ref "/f24/language/pl.md" >}}) | 232 | 324 | 71.6 | /mnt/stockage/packages/f24/pondus/po/pl.po | 
+ | [eo]({{< ref "/f24/language/eo.md" >}}) | 174 | 324 | 53.7 | /mnt/stockage/packages/f24/pondus/po/eo.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

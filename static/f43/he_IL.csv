@@ -1,0 +1,23 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abiword,2087,338,3085,832,130,824,1980,5510,37.87658802177859,unknown <email@address>
+boost,1,0,0,1,0,0,1,1,100.0,
+ceph,1,0,0,1,0,0,1,1,100.0,
+clapper,75,0,373,45,0,115,88,448,16.741071428571427,Hebrew
+clementine,0,0,3803,0,0,1061,0,3803,0.0,Hebrew (Israel) (http://app.transifex.com/davidsansome/clementine/language/he_IL/)
+coolreader,545,0,156,210,0,63,520,701,77.74607703281026,Hebrew
+duplicity,19,0,2152,4,0,323,18,2171,0.8751727314601566,Hebrew
+electrum,6418,0,6623,1277,0,1171,5838,13041,49.21401732995936,Hebrew
+gnome-shell-extension-gsconnect,818,0,84,257,0,11,825,902,90.68736141906874,Hebrew
+libecpg,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+libpq,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+mingw-postgresql,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+poedit,3279,0,52,709,0,12,3045,3331,98.43890723506455,Hebrew
+postgresql16,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+postgresql17,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+postgresql18,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/)
+python-flask-admin,320,0,47,97,0,15,311,367,87.19346049046321,Hebrew
+visualboyadvance-m,1509,0,2011,570,0,393,1648,3520,42.86931818181819,Hebrew (Israel) (http://app.transifex.com/bgk/vba-m/language/he_IL/)
+warzone2100,2477,0,15695,393,0,3460,2250,18172,13.63086066475897,Hebrew
+xournalpp,2399,0,3139,619,0,447,2317,5538,43.31888768508487,Hebrew

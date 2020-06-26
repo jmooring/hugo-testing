@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+boost,1,0,0,1,0,0,1,1,100.0,
+horde,209,0,6894,169,0,1763,186,7103,2.9424186963254964,i18n@lists.horde.org
+imp,73,0,5574,60,0,1075,76,5647,1.292721799185408,i18n@lists.horde.org
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+publican,0,0,191,0,0,30,0,191,0.0,None
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>

@@ -1,0 +1,60 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Terminal,1419,3,28,249,1,2,1634,1450,97.86206896551725,urdu <makki.ma@gmail.com>
+Thunar,3743,16,43,667,4,2,4205,3802,98.44818516570226,urdu <makki.ma@gmail.com>
+anaconda,6894,2179,1039,946,190,102,8778,10112,68.17642405063292,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com>
+authconfig,988,41,69,193,8,16,1367,1098,89.98178506375227,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+autorun,0,0,307,0,0,40,0,307,0.0,none
+chkconfig,417,13,0,86,2,0,439,430,96.97674418604652,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com>
+compiz,0,0,66,0,0,11,0,66,0.0,none
+exo,1476,0,0,288,0,0,1689,1476,100.0,Urdu <makki.ma@gmail.com>
+firstboot,499,2,97,56,1,2,619,598,83.4448160535117,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+gnome-desktop,15,3,305,9,3,61,16,323,4.643962848297214,UrduWeb Localization Team <l10n@urduweb.org>
+gnomebaker,53,0,1133,21,0,270,34,1186,4.4688026981450255,Urdu <urd@li.org>
+gtk2,17,38,11547,17,26,2262,19,11602,0.14652646095500774,UrduWeb Localization Team <l10n@urduweb.org>
+im-chooser,0,0,125,0,0,15,0,125,0.0,none
+initscripts,0,0,3497,0,0,785,0,3497,0.0,none
+iso-codes,3,13,12004,3,13,8480,3,12020,0.02495840266222962,Urdu
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+kudzu,0,0,73,0,0,13,0,73,0.0,none
+libvirt,1290,678,369,308,133,76,1290,2337,55.198973042362,none
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pcmanfm,1005,53,142,255,20,33,1150,1200,83.75,Urdu <makki.ma@gmail.com>
+pidgin,13318,1168,1452,2771,350,259,15264,15938,83.56130003764588,"C-DAC,Gist,Urdu Team / BharateeyaOO.o <info.gist@cdac.in / bharateeyaoo@ncb.ernet.in>"
+poedit,1090,59,5,254,17,1,1413,1154,94.45407279029463,UrduWeb Localization Team <l10n@urduweb.org>
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,240,0,0,22,0,240,0.0,LANGUAGE <LL@li.org>
+redhat-artwork,15,0,0,5,0,0,21,15,100.0,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+redhat-menus,216,11,34,71,4,11,397,261,82.75862068965517,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+rhgb,95,26,0,24,5,0,165,121,78.51239669421489,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+rhpxl,0,0,136,0,0,43,0,136,0.0,none
+setroubleshoot,0,0,7269,0,0,328,0,7269,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,60,0,0,17,0,60,0.0,none
+specspo,0,0,78167,0,0,4377,0,78167,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9416,0,0,1061,0,9416,0.0,none
+system-config-boot,41,0,0,9,0,0,73,41,100.0,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-date,101,84,817,22,10,577,139,1002,10.079840319361278,SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com>
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-httpd,805,59,2,198,23,4,1243,866,92.95612009237875,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-keyboard,78,0,0,12,0,0,115,78,100.0,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-kickstart,975,26,27,262,6,4,1241,1028,94.8443579766537,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+system-config-language,0,0,45,0,0,10,0,45,0.0,none
+system-config-netboot,10,0,1078,3,0,158,10,1088,0.9191176470588236,none
+system-config-network,2642,154,159,654,42,30,3597,2955,89.4077834179357,SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com>
+system-config-nfs,0,0,318,0,0,73,0,318,0.0,none
+system-config-rootpassword,0,0,50,0,0,9,0,50,0.0,none
+system-config-samba,0,0,423,0,0,138,0,423,0.0,none
+system-config-securitylevel,0,0,1145,0,0,91,0,1145,0.0,none
+system-config-services,0,0,232,0,0,62,0,232,0.0,none
+system-config-soundcard,0,0,224,0,0,51,0,224,0.0,none
+system-config-users,0,0,1031,0,0,158,0,1031,0.0,none
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none
+thunar-volman,370,0,0,85,0,0,435,370,100.0,Urdu <makki.ma@gmail.com>
+xfce4-clipman-plugin,85,0,0,26,0,0,103,85,100.0,Urdu <makki.ma@gmail.com>
+xfce4-cpugraph-plugin,44,0,0,25,0,0,47,44,100.0,Urdu <makki.ma@gmail.com>
+xfce4-dict-plugin,147,7,42,31,4,10,164,196,75.0,Urdu <makki.ma@gmail.com>
+xfce4-fsguard-plugin,16,34,14,3,8,8,19,64,25.0,Urdu <makki.ma@gmail.com>
+xfce4-notes-plugin,19,22,19,4,9,9,19,60,31.666666666666664,Urdu <makki.ma@gmail.com>
+xfce4-timer-plugin,94,0,0,32,0,0,98,94,100.0,Urdu <makki.ma@gmail.com>
+xfce4-weather-plugin,479,0,0,236,0,0,549,479,100.0,Urdu <makki.ma@gmail.com>

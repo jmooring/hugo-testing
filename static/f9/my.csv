@@ -1,0 +1,43 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,10040,0,0,1258,0,10040,0.0,none
+authconfig,0,0,1292,0,0,237,0,1292,0.0,none
+chkconfig,0,0,430,0,0,88,0,430,0.0,none
+firstboot,0,0,604,0,0,52,0,604,0.0,none
+hwbrowser,0,0,117,0,0,52,0,117,0.0,none
+im-chooser,0,0,457,0,0,94,0,457,0.0,none
+initscripts,0,0,3806,0,0,893,0,3806,0.0,none
+kexec-tools,0,0,132,0,0,11,0,132,0.0,LANGUAGE <LL@li.org>
+libvirt,1268,2638,2392,305,518,475,1268,6298,20.1333756748174,none
+passwd,0,0,291,0,0,51,0,291,0.0,none
+pidgin,7177,4424,4053,1566,1172,598,7158,15654,45.84770665644564,
+policycoreutils,0,0,1214,0,0,204,0,1214,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+redhat-menus,0,0,261,0,0,86,0,261,0.0,none
+rhgb,0,0,59,0,0,11,0,59,0.0,none
+rhpl,0,0,185,0,0,80,0,185,0.0,none
+setroubleshoot,0,0,544,0,0,147,0,544,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7900,0,0,236,0,7900,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,60,0,0,17,0,60,0.0,none
+sos,0,0,283,0,0,37,0,283,0.0,none
+specspo,0,0,305294,0,0,16850,0,305294,0.0,none
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,0,0,9427,0,0,1065,0,9427,0.0,none
+system-config-boot,0,0,46,0,0,10,0,46,0.0,none
+system-config-date,0,0,1138,0,0,109,0,1138,0.0,LANGUAGE <LL@li.org>
+system-config-display,0,0,398,0,0,63,0,398,0.0,none
+system-config-firewall,0,0,2350,0,0,276,0,2350,0.0,none
+system-config-httpd,0,0,858,0,0,223,0,858,0.0,none
+system-config-kdump,0,0,383,0,0,35,0,383,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,0,0,78,0,0,12,0,78,0.0,none
+system-config-kickstart,0,0,1054,0,0,281,0,1054,0.0,none
+system-config-language,0,0,45,0,0,10,0,45,0.0,none
+system-config-lvm,0,0,2142,0,0,336,0,2142,0.0,none
+system-config-netboot,0,0,1103,0,0,165,0,1103,0.0,none
+system-config-network,0,0,2856,0,0,688,0,2856,0.0,none
+system-config-nfs,0,0,1517,0,0,137,0,1517,0.0,LANGUAGE <LL@li.org>
+system-config-printer,0,0,2265,0,0,454,0,2265,0.0,none
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,0,0,1620,0,0,199,0,1620,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,1087,0,0,111,0,1087,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,2391,0,0,249,0,2391,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,0,0,134,0,0,20,0,134,0.0,none

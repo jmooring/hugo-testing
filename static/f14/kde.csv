@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bluedevil,603,1,0,193,1,0,552,604,99.83443708609272,Hungarian <kde-l10n-hu@kde.org>
+kde-l10n,2448421,326529,635110,415434,59643,66842,2222655,3410060,71.7999390040058,Arabic <kde-i18n-doc@kde.org>

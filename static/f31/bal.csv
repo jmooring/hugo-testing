@@ -1,0 +1,29 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,7193,0,0,1195,0,7193,0.0,Balochi (http://www.transifex.com/projects/p/anaconda/language/bal/)
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/)
+chkconfig,413,0,142,84,0,19,436,555,74.41441441441441,Balochi <trans-bal@lists.fedoraproject.org>
+entangle,0,0,953,0,0,229,0,953,0.0,Baluchi
+initial-setup,0,0,33,0,0,7,0,33,0.0,Baluchi
+initscripts,0,0,1001,0,0,157,0,1001,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+libosinfo,0,0,777,0,0,167,0,777,0.0,Baluchi
+libvirt,0,0,64581,0,0,9968,0,64581,0.0,Baluchi
+libvirt-glib,0,0,153,0,0,30,0,153,0.0,Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+mingw-libosinfo,0,0,777,0,0,167,0,777,0.0,Baluchi
+mingw-libvirt,0,0,64090,0,0,9884,0,64090,0.0,Baluchi
+mingw-libvirt-glib,0,0,153,0,0,30,0,153,0.0,Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/)
+mingw-osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Baluchi
+newt,4,0,0,4,0,0,4,4,100.0,Balochi <fedora-trans-bal@redhat.com>
+osinfo-db-tools,0,0,222,0,0,43,0,222,0.0,Baluchi
+pam,0,0,597,0,0,120,0,597,0.0,Balochi <trans-bal@lists.fedoraproject.org>
+policycoreutils,7,0,4486,7,0,691,7,4493,0.15579790785666592,Baluchi
+pykickstart,0,0,1605,0,0,179,0,1605,0.0,Baluchi
+python-fedora,0,0,214,0,0,29,0,214,0.0,Baluchi
+python-meh,0,0,109,0,0,23,0,109,0.0,Baluchi
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Baluchi
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Balochi (http://www.transifex.com/projects/p/fedora/language/bal/)
+setuptool,55,0,0,14,0,0,67,55,100.0,Balochi <fedora-trans-bal@redhat.com>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Balochi <fedora-trans-bal@redhat.com>
+virt-viewer,0,0,835,0,0,183,0,835,0.0,Baluchi

@@ -1,0 +1,17 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+arandr,172,0,1,37,0,1,185,173,99.42196531791907,Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/>
+atril,484,0,1232,105,0,290,597,1716,28.205128205128204,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+blivet-gui,0,0,703,0,0,184,0,703,0.0,Sardinian
+caja,496,0,8746,98,0,1398,548,9242,5.366803722138065,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+calibre,3,0,151681,1,0,17693,3,151684,0.001977795944199784,Sardinian (http://www.transifex.com/calibre/calibre/language/sc/)
+cinnamon-translations,2172,0,3343,582,0,853,2524,5515,39.38349954669084,Sardinian <sc@li.org>
+exaile,3852,133,21,1011,9,5,4693,4006,96.1557663504743,Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/>
+gnome-do,473,0,139,119,0,25,502,612,77.2875816993464,Sardinian <sc@li.org>
+libmatekbd,8,0,243,1,0,42,6,251,3.187250996015936,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+lightdm,0,0,79,0,0,17,0,79,0.0,Sardinian <sc@li.org>
+mate-desktop,431,0,1970,48,0,284,522,2401,17.950853810912122,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-icon-theme,3,0,1,1,0,1,5,4,75.0,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-media,7,0,218,2,0,94,8,225,3.111111111111111,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-menus,2,0,95,1,0,36,2,97,2.0618556701030926,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-notification-daemon,123,0,16,32,0,5,165,139,88.48920863309353,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)
+mate-user-guide,1,0,4,1,0,1,1,5,20.0,Sardinian (http://www.transifex.com/mate/MATE/language/sc/)

@@ -1,0 +1,1042 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4032,0,0,481,0,0,3302,4032,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+LabPlot,5040,948,8879,2107,314,1451,4766,14867,33.9005851886729,Georgian <kde-i18n-doc@kde.org>
+ModemManager,147,0,0,19,0,0,126,147,100.0,
+NetworkManager,4772,0,25481,1223,0,1108,4254,30253,15.773642283409911,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+NetworkManager-fortisslvpn,204,0,117,51,0,9,184,321,63.55140186915887,
+NetworkManager-l2tp,1263,0,31,192,0,9,1146,1294,97.60432766615146,Georgian <(nothing)>
+NetworkManager-libreswan,250,0,645,74,0,27,230,895,27.932960893854748,Georgian <(nothing)>
+NetworkManager-openconnect,274,0,9285,71,0,1531,246,9559,2.866408620148551,Georgian <ka@li.org>
+NetworkManager-openvpn,281,0,1873,92,0,208,246,2154,13.045496750232127,
+NetworkManager-pptp,225,5,299,54,2,38,197,529,42.53308128544423,
+NetworkManager-ssh,192,0,94,59,0,10,183,286,67.13286713286713,Georgian <(nothing)>
+NetworkManager-sstp,157,4,717,58,1,90,143,878,17.88154897494305,
+NetworkManager-vpnc,328,0,0,52,0,0,216,328,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+PackageKit,603,0,0,226,0,0,511,603,100.0,Georgian (http://app.transifex.com/freedesktop/packagekit/language/ka/)
+a2ps,160,0,4,26,0,1,143,164,97.5609756097561,Georgian <(nothing)>
+abrt,375,33,3268,90,5,322,318,3676,10.201305767138194,Georgian <https://translate.fedoraproject.org/projects/abrt/abrt/ka/>
+accerciser,327,0,349,184,0,50,314,676,48.37278106508875,
+accessibility-inspector,197,0,0,126,0,0,195,197,100.0,Georgian <kde-i18n-doc@kde.org>
+accountsservice,73,0,0,12,0,0,60,73,100.0,Georgian (http://www.transifex.com/freedesktop/accountsservice/language/ka/)
+acl,506,0,0,52,0,0,459,506,100.0,Georgian <(nothing)>
+agenda,8,4,5,3,1,2,6,17,47.05882352941176,Georgian <ka@li.org>
+aisleriot,64,995,928,34,263,252,58,1987,3.2209360845495723,Georgian <gnome@inet.ge>
+akonadi-calendar,2372,0,0,390,0,0,1796,2372,100.0,Georgian <kde-i18n-doc@kde.org>
+akonadi-calendar-tools,760,0,0,166,0,0,671,760,100.0,Georgian <kde-i18n-doc@kde.org>
+akonadi-contacts,1128,0,0,280,0,0,878,1128,100.0,Georgian <kde-i18n-doc@kde.org>
+akonadi-import-wizard,394,0,0,84,0,0,346,394,100.0,Georgian <kde-i18n-doc@kde.org>
+akonadi-mime,581,0,0,115,0,0,451,581,100.0,Georgian <kde-i18n-doc@kde.org>
+akonadi-notes,2,0,0,1,0,0,2,2,100.0,Georgian <kde-i18n-doc@kde.org>
+akonadi-search,67,0,0,18,0,0,60,67,100.0,Georgian <kde-i18n-doc@kde.org>
+akonadi-server,2994,0,0,496,0,0,2485,2994,100.0,Georgian <kde-i18n-doc@kde.org>
+akonadiconsole,777,0,0,369,0,0,738,777,100.0,Georgian <kde-i18n-doc@kde.org>
+akregator,1893,0,0,435,0,0,1572,1893,100.0,Georgian <kde-i18n-doc@kde.org>
+alacarte,48,0,0,21,0,0,40,48,100.0,Georgian <(nothing)>
+alligator,193,0,0,87,0,0,187,193,100.0,Georgian <kde-i18n-doc@kde.org>
+alsa-utils,1986,455,23,363,6,3,1793,2464,80.60064935064936,Georgian <(nothing)>
+amarok,3259,24,11024,1429,14,1054,3137,14307,22.779059201789334,Georgian <kde-i18n-doc@kde.org>
+anaconda,8219,0,0,1348,0,0,6443,8219,100.0,Georgian <https://translate.fedoraproject.org/projects/anaconda/master/ka/>
+anaconda-webui,1055,7,4,205,2,1,872,1066,98.96810506566605,Georgian <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/ka/>
+analitza,999,0,0,223,0,0,811,999,100.0,
+android-tools,1086,0,5186,324,0,671,947,6272,17.315051020408163,Georgian <https://translate.fedoraproject.org/projects/selinux/gui/ka/>
+angelfish,744,0,0,185,0,0,587,744,100.0,Georgian <kde-i18n-doc@kde.org>
+appstream,1021,22,5968,327,5,441,864,7011,14.562829838824703,Georgian <https://hosted.weblate.org/projects/appstream/translations/ka/>
+arianna,175,0,0,85,0,0,166,175,100.0,Georgian <kde-i18n-doc@kde.org>
+ark,1983,0,0,371,0,0,1559,1983,100.0,Georgian <kde-i18n-doc@kde.org>
+arm-none-eabi-binutils-cs,1724,0,19967,406,0,2720,1626,21691,7.947996865059241,Georgian <(nothing)>
+arm-none-eabi-gcc-cs,492,57,1212,105,8,161,440,1761,27.938671209540033,Georgian <(nothing)>
+artikulate,329,0,0,144,0,0,307,329,100.0,Georgian <kde-i18n-doc@kde.org>
+aspell,789,12,997,186,2,115,644,1798,43.882091212458285,Georgian <(nothing)>
+asunder,492,0,1,91,0,1,435,493,99.79716024340772,Georgian <(nothing)>
+at-spi2-core,465,0,0,175,0,0,388,465,100.0,Georgian <(nothing)>
+atlantik,566,0,0,161,0,0,470,566,100.0,Georgian <kde-i18n-doc@kde.org>
+atomix,168,0,0,43,0,0,134,168,100.0,
+atril,1105,8,3251,362,2,370,915,4364,25.320806599450048,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+attr,267,88,0,29,1,0,243,355,75.21126760563381,Georgian <(nothing)>
+audacity,14068,0,4875,4043,0,355,12423,18943,74.26489996304704,Georgian <(nothing)>
+audex,2615,0,0,415,0,0,2110,2615,100.0,Georgian <kde-i18n-doc@kde.org>
+audiocd-kio,913,0,0,208,0,0,828,913,100.0,Georgian <kde-i18n-doc@kde.org>
+audiotube,236,0,0,93,0,0,227,236,100.0,Georgian <kde-i18n-doc@kde.org>
+authselect,2017,0,0,349,0,0,1559,2017,100.0,Georgian <https://translate.fedoraproject.org/projects/authselect/master-application/ka/>
+avogadro2,415,0,0,167,0,0,372,415,100.0,Georgian <https://hosted.weblate.org/projects/avogadro/avogadroapp/ka/>
+avogadro2-libs,1430,0,3846,867,0,713,1411,5276,27.103866565579988,Georgian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/ka/>
+avr-binutils,1724,0,19967,406,0,2720,1626,21691,7.947996865059241,Georgian <(nothing)>
+avr-gcc,492,57,1212,105,8,161,440,1761,27.938671209540033,Georgian <(nothing)>
+axel,596,11,0,79,3,0,546,607,98.18780889621087,Georgian <(nothing)>
+baloo-widgets,67,0,0,40,0,0,62,67,100.0,Georgian <kde-i18n-doc@kde.org>
+balsa,422,0,6439,314,0,1328,403,6861,6.15070689403877,
+baobab,277,0,0,76,0,0,244,277,100.0,Georgian <(nothing)>
+binutils,660,0,12760,144,0,1838,611,13420,4.918032786885246,Georgian <(nothing)>
+bleachbit,137,0,1786,93,0,271,138,1923,7.124284971398856,
+blender,140709,0,0,29960,0,0,119479,140709,100.0,Georgian <https://translate.blender.org/projects/blender-ui/ui/ka/>
+blinken,134,0,0,47,0,0,122,134,100.0,Georgian <kde-i18n-doc@kde.org>
+blivet-gui,1111,0,0,267,0,0,999,1111,100.0,Georgian <https://translate.fedoraproject.org/projects/blivet/blivet-gui/ka/>
+bluedevil,601,0,0,212,0,0,495,601,100.0,Georgian <kde-i18n-doc@kde.org>
+blueman,387,0,1978,240,0,584,399,2365,16.363636363636363,Georgian <https://hosted.weblate.org/projects/blueman/2-4/ka/>
+boinc-client,4590,0,226,885,0,30,3922,4816,95.30730897009967,Georgian (http://www.transifex.com/boinc/boinc/language/ka/)
+bomber,110,0,0,27,0,0,83,110,100.0,Georgian <kde-i18n-doc@kde.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+bovo,82,0,0,26,0,0,71,82,100.0,Georgian <kde-i18n-doc@kde.org>
+budgie-control-center,3438,53,4423,1480,40,1006,3204,7914,43.44200151630023,Georgian (https://app.transifex.com/buddiesofbudgie/teams/129844/ka/)
+budgie-desktop,966,0,893,330,0,151,831,1859,51.96342119419043,Georgian (https://app.transifex.com/buddiesofbudgie/teams/129844/ka/)
+budgie-desktop-view,17,0,0,7,0,0,16,17,100.0,Georgian (https://app.transifex.com/buddiesofbudgie/teams/129844/ka/)
+budgie-screensaver,632,357,2,109,52,2,445,991,63.773965691220994,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+budgie-session,435,0,0,68,0,0,348,435,100.0,
+caja,5828,0,4328,1252,0,344,4553,10156,57.38479716423789,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+caja-actions,128,0,18684,79,0,1437,126,18812,0.6804167552625983,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+caja-extensions,155,0,690,48,0,133,117,845,18.34319526627219,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+calamares,478,0,0,83,0,0,410,478,100.0,Georgian (https://app.transifex.com/calamares/teams/20061/ka/)
+calendarsupport,2759,0,0,385,0,0,2154,2759,100.0,Georgian <kde-i18n-doc@kde.org>
+calibre,1841,0,177826,1115,0,18977,1739,179667,1.024673423611459,Georgian (http://app.transifex.com/calibre/calibre/language/ka/)
+calindori,550,0,0,184,0,0,477,550,100.0,Georgian <kde-i18n-doc@kde.org>
+calligra,20852,0,9366,5855,0,304,18062,30218,69.00522867165265,Georgian <kde-i18n-doc@kde.org>
+calls,51,0,0,22,0,0,41,51,100.0,
+cantor,3987,0,0,767,0,0,3340,3987,100.0,Georgian <kde-i18n-doc@kde.org>
+celestia,1374,84,1057,643,27,216,1354,2515,54.632206759443335,Georgian (https://app.transifex.com/celestia/teams/93131/ka/)
+celestia-data,1336,1,10,1085,1,10,1384,1347,99.1833704528582,Georgian (https://app.transifex.com/celestia/teams/93131/ka/)
+celluloid,203,12,634,106,6,109,208,849,23.910482921083627,Georgian <https://hosted.weblate.org/projects/celluloid/celluloid/ka/>
+certmonger,291,0,2540,117,0,356,293,2831,10.279053338043093,Georgian <https://translate.fedoraproject.org/projects/certmonger/master/ka/>
+cervisia,282,0,1333,143,0,277,248,1615,17.461300309597526,Georgian <kde-i18n-doc@kde.org>
+chatty,1340,0,0,409,0,0,1131,1340,100.0,Georgian <ka@li.org>
+cheese,628,0,0,130,0,0,451,628,100.0,
+chkconfig,597,0,0,109,0,0,513,597,100.0,Georgian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/ka/>
+cinnamon-control-center,166,53,1094,166,40,550,166,1313,12.642802741812641,Georgian <guiasher@mes.gov.ge>
+cinnamon-desktop,0,0,234,0,0,32,0,234,0.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+cinnamon-translations,4529,0,17564,1767,0,3187,3935,22093,20.49970578916399,Georgian <ka@li.org>
+classified-ads,1372,0,660,445,0,1,1174,2032,67.51968503937007,Georgian <(nothing)>
+clementine,612,0,3191,348,0,713,616,3803,16.09255850644228,Georgian (http://app.transifex.com/davidsansome/clementine/language/ka/)
+cockpit,9090,0,0,2239,0,0,7630,9090,100.0,Georgian <https://translate.fedoraproject.org/projects/cockpit/main/ka/>
+cockpit-files,468,0,0,165,0,0,440,468,100.0,Georgian <https://translate.fedoraproject.org/projects/cockpit-files/cockpit-files/ka/>
+cockpit-machines,3173,0,0,699,0,0,2570,3173,100.0,Georgian <https://translate.fedoraproject.org/projects/cockpit-machines/main/ka/>
+cockpit-ostree,246,0,0,91,0,0,218,246,100.0,Georgian <https://translate.fedoraproject.org/projects/cockpit-ostree/main/ka/>
+cockpit-podman,1143,0,0,327,0,0,1003,1143,100.0,Georgian <https://translate.fedoraproject.org/projects/cockpit-podman/main/ka/>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,901,0,1065,218,0,33,704,1966,45.829094608341805,Georgian <(nothing)>
+colord-gtk,20,0,0,4,0,0,15,20,100.0,Georgian <(nothing)>
+colord-kde,282,0,0,104,0,0,263,282,100.0,Georgian <kde-i18n-doc@kde.org>
+console-setup,466,39,480,100,16,64,372,985,47.30964467005076,Georgian
+coreutils,3569,71,18224,849,15,1021,3309,21864,16.323637028905964,Georgian <(nothing)>
+cpeditor,647,0,0,383,0,0,625,647,100.0,
+cpio,923,131,882,217,17,83,821,1936,47.675619834710744,Georgian <(nothing)>
+cpu-x,132,37,1457,98,15,233,140,1626,8.118081180811808,Georgian <https://hosted.weblate.org/projects/cpu-x/translations/ka/>
+cross-binutils,660,0,12760,144,0,1838,611,13420,4.918032786885246,Georgian <(nothing)>
+cross-gcc,492,57,1212,105,8,161,440,1761,27.938671209540033,Georgian <(nothing)>
+crow-translate,345,0,1229,233,0,278,338,1574,21.918678526048286,
+cryptsetup,438,39,5998,122,7,744,411,6475,6.764478764478765,Georgian <(nothing)>
+cups-pk-helper,90,0,59,16,0,6,59,149,60.40268456375839,Georgian (http://www.transifex.com/freedesktop/cups-pk-helper/language/ka/)
+d-spy,117,0,0,52,0,0,101,117,100.0,Georgian <ka@li.org>
+dasher,70,410,36,64,105,26,70,516,13.565891472868216,Georgian <gnome@inet.ge>
+dconf-editor,619,0,2312,225,0,164,568,2931,21.119071989082226,Georgian <(nothing)>
+debconf,862,0,0,94,0,0,704,862,100.0,Georgian <(nothing)>
+deja-dup,2130,0,0,338,0,0,1633,2130,100.0,Georgian <ka@li.org>
+deluge,1892,0,2448,691,0,642,1717,4340,43.594470046082954,Georgian <ka@li.org>
+devhelp,112,0,301,55,0,46,102,413,27.11864406779661,
+dialect,798,116,148,585,29,30,756,1062,75.14124293785311,
+dialog,37,0,0,25,0,0,39,37,100.0,Georgian <(nothing)>
+diffutils,1587,0,277,256,0,7,1419,1864,85.13948497854076,Georgian <(nothing)>
+digikam,12721,463,49526,5580,153,4743,11735,62710,20.285440918513796,Georgian <kde-i18n-doc@kde.org>
+dippi,0,0,1537,0,0,254,0,1537,0.0,none
+dnf,2760,0,1958,706,0,173,2419,4718,58.49936413734633,Georgian <https://translate.fedoraproject.org/projects/dnf/dnf-master/ka/>
+dnf-plugins-core,110,0,2027,45,0,271,101,2137,5.147402901263454,Georgian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/ka/>
+dnf-plugins-extras,121,0,0,21,0,0,103,121,100.0,Georgian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/ka/>
+dnf5,3849,0,0,564,0,0,3266,3849,100.0,Georgian <https://translate.fedoraproject.org/projects/dnf5/dnf5-plugin-builddep/ka/>
+dnsmasq,3490,24,133,596,3,19,3146,3647,95.69509185632026,
+dolphin,6420,0,0,907,0,0,5028,6420,100.0,Georgian <kde-i18n-doc@kde.org>
+dolphin-plugins,1607,0,0,446,0,0,1407,1607,100.0,Georgian <kde-i18n-doc@kde.org>
+dos2unix,670,47,360,104,4,21,597,1077,62.20984215413184,Georgian <(nothing)>
+dragon,248,0,0,82,0,0,227,248,100.0,Georgian <kde-i18n-doc@kde.org>
+easyeffects,198,64,1188,168,30,393,202,1450,13.655172413793103,Georgian <https://hosted.weblate.org/projects/easyeffects/main/ka/>
+efl,156,0,0,59,0,0,147,156,100.0,Georgian <(nothing)>
+elementary-calculator,195,0,0,65,0,0,169,195,100.0,Georgian <https://l10n.elementary.io/projects/calculator/calculator/ka/>
+elementary-calendar,652,0,0,221,0,0,587,652,100.0,Georgian <https://l10n.elementary.io/projects/calendar/calendar/ka/>
+elementary-camera,133,0,0,35,0,0,112,133,100.0,Georgian <https://l10n.elementary.io/projects/camera/camera/ka/>
+elementary-code,729,0,843,221,0,73,640,1572,46.37404580152672,Georgian <https://l10n.elementary.io/projects/code/code/ka/>
+elementary-files,1489,5,1044,449,1,101,1159,2538,58.6682427107959,Georgian <https://l10n.elementary.io/projects/files/files/ka/>
+elementary-icon-theme,24,0,325,21,0,42,24,349,6.876790830945559,Georgian <https://l10n.elementary.io/projects/desktop/icons-extra/ka/>
+elementary-mail,756,0,105,196,0,11,648,861,87.8048780487805,Georgian <https://l10n.elementary.io/projects/mail/mail/ka/>
+elementary-music,207,0,0,41,0,0,162,207,100.0,Georgian <https://l10n.elementary.io/projects/music/music/ka/>
+elementary-notifications,12,0,28,4,0,4,11,40,30.0,Georgian <https://l10n.elementary.io/projects/desktop/notifications-extra/ka/>
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elisa-player,814,0,0,301,0,0,760,814,100.0,Georgian <kde-i18n-doc@kde.org>
+engrampa,796,0,7103,213,0,670,645,7899,10.077224965185467,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+enlightenment,2714,0,6001,1374,0,884,2690,8715,31.14170969592656,
+eog,1149,0,493,295,0,21,909,1642,69.97563946406821,Georgian <gnome@inet.ge>
+eog-plugins,195,0,208,76,0,24,167,403,48.38709677419355,Georgian <ka@li.org>
+eom,395,0,4566,145,0,397,353,4961,7.962104414432574,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+epiphany,4744,0,0,880,0,0,3899,4744,100.0,Georgian <(nothing)>
+eventviews,3283,0,0,322,0,0,2501,3283,100.0,Georgian <kde-i18n-doc@kde.org>
+evince,1837,0,0,453,0,0,1455,1837,100.0,Georgian <(nothing)>
+evolution,3188,0,28202,1967,0,4149,3087,31390,10.156100669002868,Georgian <(nothing)>
+evolution-data-server,824,0,8975,343,0,1387,741,9799,8.409021328707011,
+evolution-mapi,1039,0,0,226,0,0,874,1039,100.0,Georgian <ka@li.org>
+exaile,601,0,4001,387,0,734,602,4602,13.059539330725773,Georgian <https://hosted.weblate.org/projects/exaile/master/ka/>
+exo,214,0,524,91,0,54,199,738,28.997289972899733,Georgian (http://www.transifex.com/xfce/exo/language/ka/)
+falkon,4799,0,0,1508,0,0,4224,4799,100.0,Georgian <kde-i18n-doc@kde.org>
+fielding,41,0,0,19,0,0,41,41,100.0,Georgian <kde-i18n-doc@kde.org>
+file-roller,899,0,408,269,0,30,721,1307,68.78347360367253,Georgian <(nothing)>
+filelight,268,0,0,86,0,0,233,268,100.0,Georgian <kde-i18n-doc@kde.org>
+filezilla,1031,0,0,366,0,0,901,1031,100.0,Georgian <www.gia.ge>
+firewalld,1360,0,857,385,0,30,1141,2217,61.34415877311682,Georgian <https://translate.fedoraproject.org/projects/firewalld/master/ka/>
+five-or-more,29,162,91,15,34,16,21,282,10.28368794326241,Georgian <gnome@inet.ge>
+flatpak,6205,22,121,1221,3,17,5414,6348,97.74732199117832,Georgian <(nothing)>
+flatpak-kcm,200,0,0,63,0,0,188,200,100.0,Georgian <kde-i18n-doc@kde.org>
+fontconfig,964,13,8,141,3,1,897,985,97.86802030456853,Georgian <(none)>
+fontforge,7186,0,0,1723,0,0,5896,7186,100.0,Georgian
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Georgian
+four-in-a-row,21,102,133,14,29,30,20,256,8.203125,Georgian <gnome@inet.ge>
+fprintd,433,0,0,60,0,0,305,433,100.0,Georgian <https://translate.fedoraproject.org/projects/fprintd/fprintd/ka/>
+fractal,542,0,4693,264,0,720,518,5235,10.353390639923592,Georgian <ka@li.org>
+fragments,850,0,0,239,0,0,693,850,100.0,Georgian <ka@li.org>
+francis,78,0,0,36,0,0,74,78,100.0,Georgian <kde-i18n-doc@kde.org>
+freeipa,4433,0,0,1709,0,0,4214,4433,100.0,Georgian <https://translate.fedoraproject.org/projects/freeipa/master/ka/>
+fwupd,954,0,0,346,0,0,887,954,100.0,Georgian (http://app.transifex.com/freedesktop/fwupd/language/ka/)
+g4music,189,0,120,83,0,14,185,309,61.165048543689316,Georgian <ka@li.org>
+gala,102,0,179,38,0,22,105,281,36.29893238434164,Georgian <https://l10n.elementary.io/projects/desktop/gala/ka/>
+gammastep,1,0,944,1,0,148,1,945,0.10582010582010583,Georgian <ka@li.org>
+ganyremote,499,0,11,147,0,1,419,510,97.84313725490196,Georgian <(nothing)>
+garcon,122,0,3,36,0,2,113,125,97.6,Georgian (https://www.transifex.com/xfce/teams/16840/ka/)
+gbrainy,259,0,8496,246,0,885,265,8755,2.958309537407196,Georgian <ka@li.org>
+gcab,128,0,0,31,0,0,111,128,100.0,Georgian <(nothing)>
+gcc,626,57,136602,163,8,16552,571,137285,0.45598572313071345,Georgian <(nothing)>
+gcc13,499,50,1147,106,7,154,446,1696,29.422169811320753,Georgian <(nothing)>
+gconf-editor,332,0,0,98,0,0,262,332,100.0,Georgian <gnome@inet.ge>
+gcr,505,0,0,176,0,0,447,505,100.0,Georgian <(nothing)>
+gcr3,0,3,619,0,2,225,0,622,0.0,Georgian <ka@li.org>
+gdb,127,0,12760,46,0,1838,127,12887,0.9854892527353146,Georgian <(nothing)>
+gdk-pixbuf2,269,0,1056,68,0,130,217,1325,20.30188679245283,
+gdm,1099,0,9212,176,0,329,905,10311,10.658520027155465,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+geary,703,0,1910,345,0,315,641,2613,26.903941829314963,Georgian <ka@li.org>
+gedit,842,0,3014,325,0,351,745,3856,21.83609958506224,
+gedit-plugins,225,0,674,57,0,81,165,899,25.027808676307007,
+gegl04,1185,0,10146,710,0,1546,1155,11331,10.458035477892508,Georgian <(nothing)>
+gettext,1106,16,7542,229,2,700,902,8664,12.765466297322254,Georgian <(nothing)>
+ghdl,499,50,1147,106,7,154,446,1696,29.422169811320753,Georgian <(nothing)>
+ghostwriter,1326,0,0,338,0,0,1144,1326,100.0,
+gimagereader,514,0,1303,263,0,219,483,1817,28.2883874518437,Georgian <https://hosted.weblate.org/projects/gimagereader/translations/ka/>
+gimp,20511,0,19376,6344,0,3294,17636,39887,51.422769323338436,Georgian <(nothing)>
+gimp3,26094,0,20539,7989,0,2757,22445,46633,55.95608260244891,Georgian <(nothing)>
+gitg,296,0,2335,152,0,330,289,2631,11.250475104522994,
+glade,583,0,6360,456,0,1353,573,6943,8.396946564885496,
+glaxnimate,3571,0,0,1042,0,0,3034,3571,100.0,Georgian <kde-i18n-doc@kde.org>
+glib-networking,460,0,0,68,0,0,360,460,100.0,Georgian <(nothing)>
+glib2,7922,0,0,1255,0,0,6598,7922,100.0,Georgian <(nothing)>
+glibc,3225,0,0,834,0,0,2993,3225,100.0,Georgian <(nothing)>
+gnome-abrt,221,0,0,55,0,0,190,221,100.0,Georgian <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/ka/>
+gnome-applets,166,0,3666,133,0,595,171,3832,4.3319415448851775,
+gnome-bluetooth,318,0,0,92,0,0,231,318,100.0,
+gnome-bluetooth3.34,321,0,193,118,0,37,284,514,62.45136186770428,Georgian <ka@li.org>
+gnome-boxes,1174,0,0,249,0,0,996,1174,100.0,Georgian <(nothing)>
+gnome-builder,5575,0,0,1412,0,0,4691,5575,100.0,Georgian <(nothing)>
+gnome-calculator,1894,0,0,720,0,0,1661,1894,100.0,Georgian <(nothing)>
+gnome-calendar,1009,0,0,279,0,0,894,1009,100.0,Georgian <(nothing)>
+gnome-characters,161,0,0,56,0,0,142,161,100.0,Georgian <(nothing)>
+gnome-chess,149,0,1335,68,0,179,131,1484,10.040431266846362,Georgian <(nothing)>
+gnome-clocks,378,0,0,148,0,0,331,378,100.0,Georgian <(nothing)>
+gnome-commander,1587,0,9313,650,0,1296,1419,10900,14.559633027522937,Georgian <ka@li.org>
+gnome-connections,507,0,0,95,0,0,414,507,100.0,Georgian <(nothing)>
+gnome-console,318,0,0,95,0,0,283,318,100.0,Georgian <(nothing)>
+gnome-contacts,764,0,0,220,0,0,634,764,100.0,Georgian <(nothing)>
+gnome-control-center,8161,53,1094,2209,40,550,6968,9308,87.677266867211,Georgian <guiasher@mes.gov.ge>
+gnome-desktop3,193,0,0,40,0,0,174,193,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-dictionary,637,163,33,133,37,13,431,833,76.47058823529412,Georgian <gnome@inet.ge>
+gnome-disk-utility,4091,0,0,754,0,0,3299,4091,100.0,Georgian <ka@li.org>
+gnome-do,32,0,580,17,0,127,30,612,5.228758169934641,Georgian <ka@li.org>
+gnome-doc-utils,213,0,0,80,0,0,205,213,100.0,Georgian <geognome@googlegroups.com>
+gnome-extensions-app,3249,0,0,682,0,0,2521,3249,100.0,Georgian <(nothing)>
+gnome-firmware,696,0,0,176,0,0,556,696,100.0,
+gnome-flashback,560,0,912,147,0,124,433,1472,38.04347826086957,
+gnome-font-viewer,538,0,0,208,0,0,545,538,100.0,Georgian <(nothing)>
+gnome-icon-theme,53,0,0,47,0,0,56,53,100.0,Georgian <gnome@inet.ge>
+gnome-initial-setup,896,0,0,133,0,0,693,896,100.0,Georgian <(nothing)>
+gnome-keyring,469,0,0,98,0,0,359,469,100.0,Georgian <(nothing)>
+gnome-klotski,3,49,142,3,17,39,3,194,1.5463917525773196,Georgian <gnome@inet.ge>
+gnome-logs,398,0,0,127,0,0,339,398,100.0,Georgian <(nothing)>
+gnome-mahjongg,74,0,240,40,0,29,67,314,23.56687898089172,
+gnome-maps,1446,0,0,430,0,0,1213,1446,100.0,Georgian <(nothing)>
+gnome-menus,136,0,0,49,0,0,119,136,100.0,Georgian <http://geoubuntu.cjb.net/>
+gnome-mines,6,119,219,5,34,33,6,344,1.744186046511628,Georgian <gnome@inet.ge>
+gnome-music,368,0,0,118,0,0,321,368,100.0,Georgian <(nothing)>
+gnome-nettool,501,19,0,177,3,0,450,520,96.34615384615385,Georgian <gnome@inet.ge>
+gnome-network-displays,229,0,0,35,0,0,190,229,100.0,Georgian <(nothing)>
+gnome-nibbles,294,0,358,119,0,42,240,652,45.0920245398773,Georgian <(nothing)>
+gnome-online-accounts,706,0,0,150,0,0,550,706,100.0,Georgian <(nothing)>
+gnome-panel,311,0,2711,185,0,310,298,3022,10.29119788219722,
+gnome-photos,572,0,0,220,0,0,504,572,100.0,Georgian <(nothing)>
+gnome-pomodoro,358,0,0,132,0,0,293,358,100.0,Georgian <(nothing)>
+gnome-power-manager,254,0,176,110,0,13,228,430,59.06976744186046,
+gnome-radio,36,0,315,25,0,30,33,351,10.256410256410255,Georgian <ka@li.org>
+gnome-remote-desktop,820,0,0,43,0,0,590,820,100.0,Georgian <(nothing)>
+gnome-robots,20,313,264,12,48,37,20,597,3.350083752093802,Georgian <gnome@inet.ge>
+gnome-screenshot,63,166,90,17,28,14,51,319,19.74921630094044,Georgian <gnome@inet.ge>
+gnome-session,429,0,0,68,0,0,346,429,100.0,
+gnome-settings-daemon,3883,0,0,538,0,0,2990,3883,100.0,Georgian <(nothing)>
+gnome-shell,3249,0,0,682,0,0,2521,3249,100.0,Georgian <(nothing)>
+gnome-shell-extension-blur-my-shell,59,0,642,39,0,65,58,701,8.416547788873038,Georgian <https://hosted.weblate.org/projects/blur-my-shell/blur-my-shell/ka/>
+gnome-shell-extension-netspeed,56,0,0,36,0,0,53,56,100.0,Georgian <(nothing)>
+gnome-shell-extensions,304,0,0,71,0,0,269,304,100.0,
+gnome-shell-frippery,19,0,0,7,0,0,16,19,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-software,5436,0,0,1058,0,0,4361,5436,100.0,Georgian <(nothing)>
+gnome-sudoku,72,0,386,39,0,45,64,458,15.72052401746725,Georgian <(nothing)>
+gnome-system-log,220,61,241,46,17,31,133,522,42.1455938697318,Georgian <gnome@inet.ge>
+gnome-system-monitor,1565,0,0,354,0,0,1331,1565,100.0,
+gnome-terminal,2421,0,5637,664,0,384,1945,8058,30.044676098287415,Georgian <(nothing)>
+gnome-tetravex,13,74,133,8,14,23,12,220,5.909090909090909,Georgian <gnome@inet.ge>
+gnome-text-editor,1093,0,0,298,0,0,903,1093,100.0,Georgian <(nothing)>
+gnome-tour,138,0,0,23,0,0,104,138,100.0,
+gnome-tweaks,431,0,0,124,0,0,396,431,100.0,Georgian <ka@li.org>
+gnome-usage,193,0,226,44,0,14,160,419,46.06205250596659,Georgian <ka@li.org>
+gnome-user-share,49,0,0,10,0,0,38,49,100.0,
+gnome-vfs2,1508,0,0,301,0,0,1194,1508,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gnome-video-effects,60,0,196,36,0,32,51,256,23.4375,
+gnome-weather,235,0,0,48,0,0,186,235,100.0,
+gnutls,1784,165,58,384,34,6,1403,2007,88.88888888888889,Georgian <(nothing)>
+godot,7965,0,0,3613,0,0,7744,7965,100.0,Georgian <https://hosted.weblate.org/projects/godot-engine/godot/ka/>
+godot3,361,3727,18504,145,1510,4440,360,22592,1.5979107648725213,Georgian <https://hosted.weblate.org/projects/godot-engine/godot/ka/>
+goffice,1936,0,4686,1062,0,1061,1925,6622,29.2358803986711,Georgian <ka@li.org>
+gparted,2100,0,701,440,0,40,1661,2801,74.9732238486255,Georgian <(nothing)>
+gpaste,35,0,1446,28,0,221,38,1481,2.363268062120189,Georgian <https://hosted.weblate.org/projects/gpaste/gpaste/ka/>
+granatier,243,0,0,66,0,0,180,243,100.0,Georgian <kde-i18n-doc@kde.org>
+granite,31,17,450,18,6,94,31,498,6.2248995983935735,Georgian <ka@li.org>
+granite-7,78,2,289,48,1,37,84,369,21.138211382113823,Georgian <https://l10n.elementary.io/projects/desktop/granite/ka/>
+grantlee-editor,532,0,0,159,0,0,478,532,100.0,Georgian<kde-i18n-doc@kde.org>
+grantleetheme,14,0,0,6,0,0,14,14,100.0,Georgian <kde-i18n-doc@kde.org>
+grep,933,0,0,116,0,0,883,933,100.0,Georgian <(nothing)>
+grilo,191,0,0,36,0,0,154,191,100.0,
+grilo-plugins,25,0,452,21,0,91,25,477,5.2410901467505235,
+grub2,5048,12,3235,1217,2,309,4657,8295,60.85593731163351,Georgian <(nothing)>
+gsettings-desktop-schemas,7201,0,0,634,0,0,5573,7201,100.0,Georgian <(nothing)>
+gsmartcontrol,7,0,0,3,0,0,7,7,100.0,Georgian
+gspell,76,0,0,31,0,0,72,76,100.0,
+gssntlmssp,125,0,0,30,0,0,109,125,100.0,Georgian <https://translate.fedoraproject.org/projects/gss-ntlmssp/master/ka/>
+gstreamer1,977,0,1246,230,0,161,761,2223,43.94961763382816,Georgian <(nothing)>
+gstreamer1-plugins-bad-free,197,0,0,29,0,0,160,197,100.0,Georgian <(nothing)>
+gstreamer1-plugins-base,778,9,293,183,2,38,678,1080,72.03703703703704,Georgian <(nothing)>
+gstreamer1-plugins-good,593,4,228,76,1,27,472,825,71.87878787878788,Georgian <(nothing)>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,63,80,100.0,Georgian <(nothing)>
+gthumb,648,0,2960,453,0,747,632,3608,17.96008869179601,Georgian <ka@li.org>
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Georgian <ka@li.org>
+gtk2,10129,1843,1732,1942,477,365,7294,13704,73.91272621132516,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gtk3,16726,0,0,3938,0,0,13567,16726,100.0,Georgian <(nothing)>
+gtk4,4764,0,0,1636,0,0,4261,4764,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+gtkhtml3,915,0,0,406,0,0,795,915,100.0,Georgian <gnome@inet.ge>
+gtksourceview4,176,0,132,78,0,16,159,308,57.14285714285714,
+gtksourceview5,371,0,0,112,0,0,325,371,100.0,
+gtranslator,533,0,666,208,0,58,489,1199,44.45371142618849,Georgian <(nothing)>
+gucharmap,965,0,547,468,0,57,963,1512,63.82275132275132,Georgian <(nothing)>
+gupnp-tools,127,0,268,75,0,53,123,395,32.151898734177216,Georgian <ka@li.org>
+gutenprint,12547,19,3938,4426,6,458,12370,16504,76.02399418322831,Georgian <(nothing)>
+gvfs,2270,0,0,422,0,0,1881,2270,100.0,Georgian <(nothing)>
+gweled,108,0,109,37,0,10,96,217,49.76958525345622,Georgian <ka@li.org>
+gwenview,2075,0,0,456,0,0,1685,2075,100.0,Georgian <kde-i18n-doc@kde.org>
+haruna,1867,0,0,354,0,0,1572,1867,100.0,Georgian <kde-i18n-doc@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hash-o-matic,223,0,0,60,0,0,182,223,100.0,Georgian <kde-i18n-doc@kde.org>
+heaptrack,412,0,993,139,0,71,370,1405,29.323843416370103,Georgian <kde-i18n-doc@kde.org>
+hello,50,78,116,16,9,21,47,244,20.491803278688526,Georgian <(nothing)>
+hitori,151,0,85,57,0,5,126,236,63.983050847457626,
+hivex,270,0,0,22,0,0,220,270,100.0,Georgian <https://translate.fedoraproject.org/projects/hivex/master/ka/>
+hunspell,592,21,0,78,1,0,526,613,96.5742251223491,Georgian <https://hosted.weblate.org/projects/hunspell/translations/ka/>
+iagno,10,96,216,6,28,38,9,322,3.1055900621118013,Georgian <gnome@inet.ge>
+ibus,634,5,1957,308,1,293,633,2596,24.422187981510017,Georgian <https://translate.fedoraproject.org/projects/ibus/ibus/ka/>
+ibus-anthy,93,0,612,60,0,134,87,705,13.191489361702127,Georgian <https://translate.fedoraproject.org/projects/ibus/ibus-anthy/ka/>
+ibus-libpinyin,155,0,305,95,0,72,145,460,33.69565217391305,Georgian <https://translate.fedoraproject.org/projects/ibus-libpinyin/main/ka/>
+ibus-m17n,57,0,0,24,0,0,55,57,100.0,none
+ibus-table,234,3,879,65,1,86,192,1116,20.967741935483872,Georgian <https://translate.fedoraproject.org/projects/ibus-table/app/ka/>
+ibus-typing-booster,2276,0,0,258,0,0,1793,2276,100.0,Georgian <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/ka/>
+icewm,348,0,2152,277,0,248,366,2500,13.919999999999998,Georgian <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/ka/>
+im-chooser,253,0,9,57,0,1,191,262,96.56488549618321,Georgian <https://translate.fedoraproject.org/projects/im-chooser/master/ka/>
+imsettings,0,0,500,0,0,92,0,500,0.0,LANGUAGE <LL@li.org>
+incidenceeditor,2224,0,0,423,0,0,1731,2224,100.0,Georgian <kde-i18n-doc@kde.org>
+initial-setup,106,0,0,20,0,0,82,106,100.0,Georgian <https://translate.fedoraproject.org/projects/initial-setup/master/ka/>
+initscripts,398,0,764,88,0,76,361,1162,34.251290877796905,Georgian <https://translate.fedoraproject.org/projects/fedora-sysv/initscripts/ka/>
+iputils,1404,0,0,252,0,0,1331,1404,100.0,Georgian <https://translate.fedoraproject.org/projects/iputils/iputils/ka/>
+iso-codes,4493,37,19279,3029,25,12584,4178,23809,18.87101516233357,Georgian <https://hosted.weblate.org/projects/iso-codes/iso-15924/ka/>
+isoimagewriter,460,0,0,81,0,0,361,460,100.0,Georgian <kde-i18n-doc@kde.org>
+isomaster,26,1,647,20,1,86,27,674,3.857566765578635,http://littlesvr.ca/ostd/
+itinerary,2697,0,0,828,0,0,2288,2697,100.0,Georgian <kde-i18n-doc@kde.org>
+json-glib,307,0,0,47,0,0,237,307,100.0,
+juk,1435,0,0,338,0,0,1222,1435,100.0,Georgian <kde-i18n-doc@kde.org>
+k3b,10784,0,9361,2328,0,191,9168,20145,53.53189377016629,Georgian <kde-i18n-doc@kde.org>
+kaccounts-integration,150,0,0,27,0,0,119,150,100.0,Georgian <kde-i18n-doc@kde.org>
+kaccounts-providers,77,0,0,29,0,0,59,77,100.0,Georgian <kde-i18n-doc@kde.org>
+kactivitymanagerd,15,0,0,7,0,0,17,15,100.0,Georgian <kde-i18n-doc@kde.org>
+kaddressbook,1150,0,0,240,0,0,858,1150,100.0,Georgian <kde-i18n-doc@kde.org>
+kaidan,1125,0,669,339,0,40,942,1794,62.70903010033445,
+kajongg,2499,0,0,519,0,0,2014,2499,100.0,Georgian <kde-i18n-doc@kde.org>
+kalarm,8562,0,0,1253,0,0,6664,8562,100.0,Georgian <kde-i18n-doc@kde.org>
+kalendar,1568,0,0,563,0,0,1377,1568,100.0,Georgian <kde-i18n-doc@kde.org>
+kalgebra,276,0,0,135,0,0,264,276,100.0,Georgian <kde-i18n-doc@kde.org>
+kalk,69,0,0,41,0,0,63,69,100.0,Georgian <kde-i18n-doc@kde.org>
+kalm,555,0,0,43,0,0,431,555,100.0,Georgian <kde-i18n-doc@kde.org>
+kalzium,6104,0,2989,1218,0,79,4713,9093,67.12856043110085,Georgian <kde-i18n-doc@kde.org>
+kamera,272,0,0,37,0,0,186,272,100.0,Georgian <kde-i18n-doc@kde.org>
+kamoso,145,0,0,42,0,0,126,145,100.0,Georgian <kde-i18n-doc@kde.org>
+kanagram,527,0,0,144,0,0,436,527,100.0,Georgian <kde-i18n-doc@kde.org>
+kanyremote,489,0,11,144,0,1,409,500,97.8,Georgian <(nothing)>
+kapman,115,0,0,36,0,0,101,115,100.0,Georgian <kde-i18n-doc@kde.org>
+kapptemplate,219,7,0,51,1,0,171,226,96.90265486725663,Georgian <kde-i18n-doc@kde.org>
+kasts,1360,0,0,395,0,0,1206,1360,100.0,Georgian <kde-i18n-doc@kde.org>
+kate,8829,0,0,1981,0,0,7569,8829,100.0,Georgian <kde-i18n-doc@kde.org>
+katomic,184,0,0,59,0,0,170,184,100.0,Georgian <kde-i18n-doc@kde.org>
+kbackup,694,0,0,141,0,0,551,694,100.0,Georgian <kde-i18n-doc@kde.org>
+kbibtex,1550,0,926,641,0,92,1426,2476,62.600969305331176,Georgian <kde-i18n-doc@kde.org>
+kblackbox,1364,0,0,102,0,0,893,1364,100.0,Georgian <kde-i18n-doc@kde.org>
+kblocks,157,0,0,37,0,0,142,157,100.0,Georgian <kde-i18n-doc@kde.org>
+kbounce,156,0,0,43,0,0,135,156,100.0,Georgian <kde-i18n-doc@kde.org>
+kbrickbuster,158,0,0,42,0,0,126,158,100.0,Georgian <kde-i18n-doc@kde.org>
+kbruch,1347,0,0,198,0,0,932,1347,100.0,Georgian <kde-i18n-doc@kde.org>
+kcachegrind,4055,0,0,590,0,0,3187,4055,100.0,Georgian <kde-i18n-doc@kde.org>
+kcalc,1111,0,0,392,0,0,921,1111,100.0,Georgian <kde-i18n-doc@kde.org>
+kcalutils,1439,0,0,394,0,0,1209,1439,100.0,Georgian <kde-i18n-doc@kde.org>
+kcharselect,92,0,0,36,0,0,89,92,100.0,Georgian <kde-i18n-doc@kde.org>
+kclock,368,0,0,147,0,0,333,368,100.0,Georgian <kde-i18n-doc@kde.org>
+kcm_wacomtablet,1049,0,0,240,0,0,853,1049,100.0,Georgian <kde-i18n-doc@kde.org>
+kcolorchooser,29,0,0,10,0,0,31,29,100.0,Georgian <kde-i18n-doc@kde.org>
+kcron,436,0,0,191,0,0,368,436,100.0,Georgian <kde-i18n-doc@kde.org>
+kde-cli-tools,1748,0,0,194,0,0,1348,1748,100.0,Georgian <kde-i18n-doc@kde.org>
+kde-connect,1483,0,0,413,0,0,1271,1483,100.0,Georgian <kde-i18n-doc@kde.org>
+kde-dev-utils,96,0,0,34,0,0,91,96,100.0,Georgian <kde-i18n-doc@kde.org>
+kde-inotify-survey,190,0,0,8,0,0,162,190,100.0,Georgian <kde-i18n-doc@kde.org>
+kde-partitionmanager,2289,0,0,536,0,0,1872,2289,100.0,Georgian <kde-i18n-doc@kde.org>
+kdebugsettings,302,0,0,82,0,0,252,302,100.0,Georgian <kde-i18n-doc@kde.org>
+kdecoration,39,0,0,15,0,0,38,39,100.0,Georgian <kde-i18n-doc@kde.org>
+kdenetwork-filesharing,907,0,0,109,0,0,654,907,100.0,Georgian <kde-i18n-doc@kde.org>
+kdenlive,24439,0,4245,5618,0,201,20810,28684,85.2008088132757,Georgian <kde-i18n-doc@kde.org>
+kdepim-addons,3916,0,0,752,0,0,2998,3916,100.0,Georgian <kde-i18n-doc@kde.org>
+kdepim-runtime,7323,0,0,1111,0,0,5677,7323,100.0,Georgian <kde-i18n-doc@kde.org>
+kdeplasma-addons,2109,0,0,672,0,0,1912,2109,100.0,Georgian <kde-i18n-doc@kde.org>
+kdesdk-kioslaves,84,0,0,17,0,0,76,84,100.0,Georgian <kde-i18n-doc@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Georgian <kde-i18n-doc@kde.org>
+kdevelop,16011,0,0,3139,0,0,13012,16011,100.0,Georgian <kde-i18n-doc@kde.org>
+kdevelop-php,535,0,0,74,0,0,443,535,100.0,Georgian <kde-i18n-doc@kde.org>
+kdf,177,0,0,71,0,0,166,177,100.0,Georgian <kde-i18n-doc@kde.org>
+kdiagram,66,0,0,40,0,0,55,66,100.0,
+kdialog,403,0,0,78,0,0,333,403,100.0,Georgian <kde-i18n-doc@kde.org>
+kdiamond,124,0,0,33,0,0,108,124,100.0,Georgian <kde-i18n-doc@kde.org>
+kdiff3,3473,0,0,634,0,0,2880,3473,100.0,Georgian <kde-i18n-doc@kde.org>
+kdissert,881,0,1146,247,0,35,719,2027,43.46324617661569,ქართული <Georgianization@googlegroups.com>
+kdnssd,30,0,0,7,0,0,25,30,100.0,Georgian <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,0,0,194,0,0,22,0,194,0.0,LANGUAGE <LL@li.org>
+keditbookmarks,470,0,0,133,0,0,420,470,100.0,Georgian <kde-i18n-doc@kde.org>
+kernel,1149,0,0,156,0,0,1048,1149,100.0,NONE
+keysmith,304,0,0,91,0,0,254,304,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-akonadi-calendar,2222,0,0,370,0,0,1685,2222,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-akonadi-contacts,1116,0,0,276,0,0,869,1116,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-akonadi-mime,580,0,0,114,0,0,450,580,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-akonadi-search,67,0,0,18,0,0,60,67,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-akonadi-server,2596,0,0,441,0,0,2127,2596,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-baloo,860,0,0,179,0,0,686,860,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-calendarsupport,2779,0,0,391,0,0,2170,2779,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-eventviews,2949,0,0,307,0,0,2244,2949,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-grantleetheme,14,0,0,6,0,0,14,14,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-incidenceeditor,2208,0,0,420,0,0,1723,2208,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-karchive,488,0,0,82,0,0,406,488,100.0,
+kf5-kauth,73,0,0,8,0,0,61,73,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,190,230,100.0,
+kf5-kcalendarutils,1437,0,0,393,0,0,1207,1437,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kcmutils,266,0,0,38,0,0,198,266,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kcodecs,370,0,0,53,0,0,273,370,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,18,18,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kconfig,289,0,0,104,0,0,260,289,100.0,
+kf5-kconfigwidgets,342,0,0,125,0,0,288,342,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,177,177,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,382,0,0,132,0,0,326,382,100.0,
+kf5-kdav,185,0,0,20,0,0,104,185,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,39,48,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kdeclarative,161,0,0,25,0,0,118,161,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,1353,0,4000,1011,0,1533,1354,5353,25.275546422566787,Georgian <kde-i18n-doc@kde.org>
+kf5-knotifications,21,0,0,8,0,0,16,21,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,89,129,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,5,4,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kpackage,452,0,0,73,0,0,366,452,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kparts,138,0,0,30,0,0,97,138,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kpeople,13,0,0,8,0,0,11,13,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,382,0,0,167,0,0,352,382,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,14,15,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,87,100,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kservice,173,0,0,28,0,0,137,173,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-ksmtp,86,0,0,12,0,0,65,86,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-ktexteditor,9233,0,0,1264,0,0,7092,9233,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,473,0,0,130,0,0,378,473,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-ktnef,355,0,0,143,0,0,341,355,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kunitconversion,5757,0,0,2483,0,0,5478,5757,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kwallet,1460,0,0,110,0,0,1056,1460,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1293,0,0,463,0,0,1141,1293,100.0,
+kf5-kwindowsystem,2,0,0,1,0,0,3,2,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kxmlgui,1574,0,0,230,0,0,1127,1574,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,11,13,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-libgravatar,23,0,0,10,0,0,21,23,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-libkcddb,400,0,0,211,0,0,356,400,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-libkdepim,35,0,0,10,0,0,30,35,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-libkgapi,378,0,0,85,0,0,357,378,100.0,
+kf5-libkleo,2423,0,0,430,0,0,2077,2423,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-libksieve,3122,0,0,537,0,0,2487,3122,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-libktorrent,465,0,0,105,0,0,397,465,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-mailcommon,2755,0,0,498,0,0,2160,2755,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-mailimporter,1408,0,0,127,0,0,1169,1408,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-messagelib,7833,0,0,1371,0,0,6181,7833,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-pimcommon,830,0,0,208,0,0,677,830,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-plasma,362,0,0,105,0,0,299,362,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-purpose,323,0,0,75,0,0,250,323,100.0,Georgian <kde-i18n-doc@kde.org>
+kf5-solid,588,0,0,159,0,0,472,588,100.0,
+kf5-sonnet,683,0,0,76,0,0,489,683,100.0,Georgian <(nothing)>
+kf5-syntax-highlighting,647,0,0,383,0,0,625,647,100.0,
+kf6-baloo,869,0,0,181,0,0,693,869,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-karchive,496,0,0,85,0,0,413,496,100.0,
+kf6-kauth,73,0,0,8,0,0,61,73,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kbookmarks,179,0,0,38,0,0,142,179,100.0,
+kf6-kcmutils,200,0,0,45,0,0,158,200,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kcodecs,370,0,0,53,0,0,273,370,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kcolorscheme,1,0,0,1,0,0,1,1,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kcompletion,18,0,0,11,0,0,18,18,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kconfig,550,0,0,204,0,0,477,550,100.0,
+kf6-kconfigwidgets,312,0,0,117,0,0,271,312,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kcontacts,168,0,0,100,0,0,167,168,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kcoreaddons,452,0,0,156,0,0,396,452,100.0,
+kf6-kdav,185,0,0,20,0,0,104,185,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kdbusaddons,48,0,0,6,0,0,39,48,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kdeclarative,169,0,0,21,0,0,116,169,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kdesu,19,0,0,7,0,0,22,19,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kdnssd,3,0,0,3,0,0,3,3,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kdoctools,8,0,0,4,0,0,10,8,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kfilemetadata,307,0,0,139,0,0,321,307,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kglobalaccel,34,0,0,5,0,0,26,34,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kholidays,150,0,0,97,0,0,148,150,100.0,
+kf6-ki18n,124,0,0,110,0,0,124,124,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kiconthemes,46,0,0,22,0,0,45,46,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kio,8540,0,0,1121,0,0,6235,8540,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kirigami,95,0,0,50,0,0,91,95,100.0,
+kf6-kirigami-addons,653,0,0,119,0,0,495,653,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kitemviews,6,0,0,3,0,0,6,6,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kjobwidgets,136,0,0,40,0,0,122,136,100.0,
+kf6-knewstuff,1038,0,0,131,0,0,734,1038,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,Georgian <kde-i18n-doc@kde.org>
+kf6-knotifyconfig,19,0,0,7,0,0,14,19,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kpackage,338,0,0,58,0,0,265,338,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kparts,57,0,0,11,0,0,40,57,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kpeople,15,0,0,9,0,0,13,15,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kpty,15,0,0,4,0,0,14,15,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kservice,45,0,0,12,0,0,45,45,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kstatusnotifieritem,17,0,0,6,0,0,12,17,100.0,
+kf6-ksvg,4,0,0,2,0,0,5,4,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-ktexteditor,9463,0,0,1319,0,0,7307,9463,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-ktextwidgets,473,0,0,130,0,0,378,473,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kunitconversion,5849,0,0,2504,0,0,5558,5849,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kuserfeedback,1157,0,0,270,0,0,939,1157,100.0,
+kf6-kwallet,1461,0,0,110,0,0,1053,1461,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kwidgetsaddons,1277,0,0,466,0,0,1128,1277,100.0,
+kf6-kwindowsystem,2,0,0,1,0,0,3,2,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-kxmlgui,1274,0,0,196,0,0,923,1274,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-purpose,319,0,0,74,0,0,245,319,100.0,Georgian <kde-i18n-doc@kde.org>
+kf6-qqc2-desktop-style,22,0,0,14,0,0,21,22,100.0,
+kf6-solid,605,0,0,166,0,0,498,605,100.0,
+kf6-sonnet,684,0,0,77,0,0,491,684,100.0,Georgian <(nothing)>
+kf6-syntax-highlighting,702,0,0,407,0,0,681,702,100.0,
+kfind,517,0,0,117,0,0,433,517,100.0,Georgian <kde-i18n-doc@kde.org>
+kfloppy,641,0,0,100,0,0,531,641,100.0,Georgian <kde-i18n-doc@kde.org>
+kfourinline,384,0,0,154,0,0,342,384,100.0,Georgian <kde-i18n-doc@kde.org>
+kgamma,38,0,0,15,0,0,36,38,100.0,Georgian <kde-i18n-doc@kde.org>
+kgeography,10043,0,0,7240,0,0,9214,10043,100.0,Georgian <(nothing)>
+kgeotag,715,68,1171,200,22,91,665,1954,36.59160696008188,Georgian <kde-i18n-doc@kde.org>
+kget,2767,0,0,742,0,0,2274,2767,100.0,Georgian <kde-i18n-doc@kde.org>
+kgoldrunner,2898,0,25149,714,0,303,2086,28047,10.332655899026634,Georgian <kde-i18n-doc@kde.org>
+kgpg,4912,0,0,687,0,0,3847,4912,100.0,Georgian <kde-i18n-doc@kde.org>
+kgraphviewer,1189,0,0,212,0,0,919,1189,100.0,Georgian <kde-i18n-doc@kde.org>
+khangman,449,0,0,116,0,0,351,449,100.0,Georgian <kde-i18n-doc@kde.org>
+khelpcenter,221,0,0,84,0,0,213,221,100.0,Georgian <kde-i18n-doc@kde.org>
+kicad,1662,596,46781,1000,208,7997,1619,49039,3.3891392565101244,Georgian <https://hosted.weblate.org/projects/kicad/v8/ka/>
+kid3,2814,0,380,1321,0,78,2697,3194,88.1026925485285,
+kidentitymanagement,260,0,0,54,0,0,215,260,100.0,Georgian <kde-i18n-doc@kde.org>
+kig,1919,0,5538,659,0,617,1593,7457,25.73420946761432,Georgian <kde-i18n-doc@kde.org>
+kigo,508,0,0,133,0,0,409,508,100.0,Georgian <kde-i18n-doc@kde.org>
+kile,9831,0,3037,2091,0,85,7976,12868,76.39881877525644,Georgian <kde-i18n-doc@kde.org>
+killbots,637,0,0,127,0,0,498,637,100.0,Georgian <kde-i18n-doc@kde.org>
+kimap,118,0,0,51,0,0,103,118,100.0,Georgian <kde-i18n-doc@kde.org>
+kinfocenter,443,0,0,195,0,0,409,443,100.0,Georgian <kde-i18n-doc@kde.org>
+kio-admin,3,0,0,1,0,0,3,3,100.0,Georgian <kde-i18n-doc@kde.org>
+kio-extras,2904,0,0,278,0,0,2171,2904,100.0,Georgian <kde-i18n-doc@kde.org>
+kio-extras-kf5,1130,0,0,146,0,0,849,1130,100.0,Georgian <kde-i18n-doc@kde.org>
+kio-gdrive,78,0,0,19,0,0,63,78,100.0,Georgian <kde-i18n-doc@kde.org>
+kio_gopher,16,1,0,4,1,0,13,17,94.11764705882352,Georgian <guiasher@mes.gov.ge>
+kirigami-gallery,982,0,0,140,0,0,764,982,100.0,
+kiriki,145,0,0,51,0,0,117,145,100.0,Georgian <kde-i18n-doc@kde.org>
+kiten,651,0,0,172,0,0,549,651,100.0,Georgian <kde-i18n-doc@kde.org>
+kitinerary,108,0,0,30,0,0,92,108,100.0,Georgian <kde-i18n-doc@kde.org>
+kjots,161,18,472,64,9,61,155,651,24.731182795698924,Georgian <kde-i18n-doc@kde.org>
+kjournald,116,0,0,58,0,0,116,116,100.0,Georgian <kde-i18n-doc@kde.org>
+kjumpingcube,413,0,0,95,0,0,338,413,100.0,Georgian <kde-i18n-doc@kde.org>
+kldap,215,0,0,62,0,0,186,215,100.0,Georgian <kde-i18n-doc@kde.org>
+kleopatra,13651,0,0,1984,0,0,10618,13651,100.0,Georgian <kde-i18n-doc@kde.org>
+klettres,440,0,0,85,0,0,362,440,100.0,Georgian <kde-i18n-doc@kde.org>
+klickety,178,0,0,62,0,0,150,178,100.0,Georgian <kde-i18n-doc@kde.org>
+klines,99,0,0,28,0,0,82,99,100.0,Georgian <kde-i18n-doc@kde.org>
+kmag,432,0,0,98,0,0,339,432,100.0,Georgian <kde-i18n-doc@kde.org>
+kmahjongg,359,0,0,99,0,0,305,359,100.0,Georgian <kde-i18n-doc@kde.org>
+kmail,9314,0,0,1531,0,0,7484,9314,100.0,Georgian <kde-i18n-doc@kde.org>
+kmail-account-wizard,278,0,0,90,0,0,246,278,100.0,Georgian <kde-i18n-doc@kde.org>
+kmailtransport,669,0,0,107,0,0,490,669,100.0,Georgian <kde-i18n-doc@kde.org>
+kmenuedit,278,0,0,64,0,0,221,278,100.0,Georgian <kde-i18n-doc@kde.org>
+kmime,152,0,0,6,0,0,95,152,100.0,Georgian <kde-i18n-doc@kde.org>
+kmines,164,0,0,48,0,0,142,164,100.0,Georgian <kde-i18n-doc@kde.org>
+kmix,1159,0,0,227,0,0,942,1159,100.0,Georgian <kde-i18n-doc@kde.org>
+kmousetool,147,0,0,32,0,0,121,147,100.0,Georgian <kde-i18n-doc@kde.org>
+kmouth,1474,0,0,202,0,0,1075,1474,100.0,Georgian <kde-i18n-doc@kde.org>
+kmplot,2501,0,0,486,0,0,1879,2501,100.0,Georgian <kde-i18n-doc@kde.org>
+knavalbattle,401,0,0,104,0,0,317,401,100.0,Georgian <kde-i18n-doc@kde.org>
+knetwalk,236,0,0,56,0,0,195,236,100.0,Georgian <kde-i18n-doc@kde.org>
+knights,798,0,0,238,0,0,656,798,100.0,Georgian <kde-i18n-doc@kde.org>
+knotes,787,0,0,241,0,0,683,787,100.0,Georgian <kde-i18n-doc@kde.org>
+koko,311,0,0,141,0,0,284,311,100.0,Georgian <kde-i18n-doc@kde.org>
+kolf,405,0,0,150,0,0,368,405,100.0,Georgian <kde-i18n-doc@kde.org>
+kollision,109,0,0,30,0,0,92,109,100.0,Georgian <kde-i18n-doc@kde.org>
+kolorfill,60,0,0,12,0,0,47,60,100.0,Georgian <kde-i18n-doc@kde.org>
+kolourpaint,2655,0,0,455,0,0,2187,2655,100.0,Georgian <kde-i18n-doc@kde.org>
+kommit,491,42,1025,265,20,174,454,1558,31.51476251604621,Georgian <kde-i18n-doc@kde.org>
+kompare,1413,0,0,200,0,0,1098,1413,100.0,Georgian <kde-i18n-doc@kde.org>
+kongress,184,0,0,67,0,0,168,184,100.0,Georgian <kde-i18n-doc@kde.org>
+konqueror,9226,0,0,1367,0,0,7180,9226,100.0,Georgian <kde-i18n-doc@kde.org>
+konquest,248,0,0,99,0,0,234,248,100.0,Georgian <kde-i18n-doc@kde.org>
+konsole,4299,0,0,897,0,0,3515,4299,100.0,Georgian <kde-i18n-doc@kde.org>
+konsole5,3904,0,92,836,0,4,3213,3996,97.69769769769769,Georgian <kde-i18n-doc@kde.org>
+kontact,490,0,0,87,0,0,421,490,100.0,Georgian <kde-i18n-doc@kde.org>
+kontactinterface,4,0,0,2,0,0,5,4,100.0,Georgian <kde-i18n-doc@kde.org>
+kontrast,327,0,0,46,0,0,233,327,100.0,Georgian <kde-i18n-doc@kde.org>
+konversation,10398,0,0,1649,0,0,8129,10398,100.0,Georgian <kde-i18n-doc@kde.org>
+kopeninghours,160,0,0,20,0,0,136,160,100.0,Georgian <kde-i18n-doc@kde.org>
+kopete,14002,0,3173,3178,0,117,11208,17175,81.5254730713246,Georgian <kde-i18n-doc@kde.org>
+korganizer,7140,0,0,991,0,0,5517,7140,100.0,Georgian <kde-i18n-doc@kde.org>
+kosmindoormap,616,0,0,436,0,0,627,616,100.0,Georgian <kde-i18n-doc@kde.org>
+kpat,589,0,0,213,0,0,538,589,100.0,Georgian <kde-i18n-doc@kde.org>
+kphotoalbum,4130,0,4913,1002,0,106,3545,9043,45.670684507353755,Georgian <kde-i18n-doc@kde.org>
+kpimtextedit,274,0,0,123,0,0,257,274,100.0,Georgian <kde-i18n-doc@kde.org>
+kpipewire,26,0,0,4,0,0,22,26,100.0,Georgian <kde-i18n-doc@kde.org>
+kpmcore,3296,0,0,500,0,0,2704,3296,100.0,Georgian <kde-i18n-doc@kde.org>
+kpublictransport,55,0,0,27,0,0,56,55,100.0,Georgian <kde-i18n-doc@kde.org>
+krb5,10472,0,0,1910,0,0,9246,10472,100.0,Georgian <(nothing)>
+krdc,1192,0,0,296,0,0,979,1192,100.0,Georgian <kde-i18n-doc@kde.org>
+krdp,266,0,0,57,0,0,218,266,100.0,Georgian <kde-i18n-doc@kde.org>
+krecorder,130,0,0,54,0,0,115,130,100.0,Georgian <kde-i18n-doc@kde.org>
+kreversi,404,0,0,133,0,0,349,404,100.0,Georgian <kde-i18n-doc@kde.org>
+krfb,734,0,0,104,0,0,623,734,100.0,Georgian <kde-i18n-doc@kde.org>
+krita,8687,8,27291,4325,6,4227,8158,35986,24.139943311287723,Georgian <kde-i18n-doc@kde.org>
+kronometer,171,9,53,60,5,15,137,233,73.39055793991416,Georgian <kde-i18n-doc@kde.org>
+kruler,158,0,0,44,0,0,120,158,100.0,Georgian <kde-i18n-doc@kde.org>
+krusader,986,0,7113,543,0,1218,941,8099,12.174342511421163,Georgian <kde-i18n-doc@kde.org>
+ksanecore,59,0,0,10,0,0,48,59,100.0,Georgian <kde-i18n-doc@kde.org>
+kscreen,614,0,0,109,0,0,504,614,100.0,Georgian <kde-i18n-doc@kde.org>
+kscreenlocker,287,0,0,54,0,0,218,287,100.0,Georgian <kde-i18n-doc@kde.org>
+kshisen,667,0,0,75,0,0,467,667,100.0,Georgian <kde-i18n-doc@kde.org>
+ksirk,4725,0,0,581,0,0,3589,4725,100.0,Georgian <kde-i18n-doc@kde.org>
+ksmtp,86,0,0,12,0,0,65,86,100.0,Georgian <kde-i18n-doc@kde.org>
+ksnakeduel,243,0,0,56,0,0,197,243,100.0,Georgian <kde-i18n-doc@kde.org>
+kspaceduel,165,0,0,81,0,0,163,165,100.0,Georgian <kde-i18n-doc@kde.org>
+ksquares,293,0,0,87,0,0,221,293,100.0,Georgian <kde-i18n-doc@kde.org>
+ksshaskpass,55,0,0,16,0,0,53,55,100.0,Georgian <kde-i18n-doc@kde.org>
+kstars,15885,0,42874,8582,0,4059,14824,58759,27.034156469647204,Georgian <kde-i18n-doc@kde.org>
+ksudoku,1744,0,0,163,0,0,1328,1744,100.0,Georgian <kde-i18n-doc@kde.org>
+ksystemlog,3101,0,0,488,0,0,2449,3101,100.0,Georgian <kde-i18n-doc@kde.org>
+ksystemstats,947,0,0,219,0,0,865,947,100.0,Georgian <kde-i18n-doc@kde.org>
+kteatime,203,0,0,67,0,0,186,203,100.0,Georgian <kde-i18n-doc@kde.org>
+ktechlab,661,0,3043,397,0,536,641,3704,17.845572354211665,Georgian <kde-i18n-doc@kde.org>
+ktextaddons,954,0,0,327,0,0,822,954,100.0,Georgian <kde-i18n-doc@kde.org>
+ktimer,258,0,0,53,0,0,186,258,100.0,Georgian <kde-i18n-doc@kde.org>
+ktnef,355,0,0,143,0,0,341,355,100.0,Georgian <kde-i18n-doc@kde.org>
+ktorrent,7492,0,0,1368,0,0,5851,7492,100.0,Georgian <kde-i18n-doc@kde.org>
+ktouch,964,0,0,259,0,0,808,964,100.0,Georgian <kde-i18n-doc@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,174,208,100.0,Georgian <kde-i18n-doc@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,60,75,100.0,Georgian <kde-i18n-doc@kde.org>
+ktrip,103,0,0,42,0,0,99,103,100.0,Georgian <kde-i18n-doc@kde.org>
+ktuberling,158,0,0,38,0,0,108,158,100.0,Georgian <kde-i18n-doc@kde.org>
+kturtle,1538,0,0,349,0,0,1164,1538,100.0,Georgian <kde-i18n-doc@kde.org>
+kubrick,1213,0,0,168,0,0,1003,1213,100.0,Georgian <kde-i18n-doc@kde.org>
+kunifiedpush,91,0,0,16,0,0,75,91,100.0,Georgian <kde-i18n-doc@kde.org>
+kuserfeedback,1157,0,0,270,0,0,940,1157,100.0,
+kwalletmanager5,828,0,0,168,0,0,640,828,100.0,Georgian <kde-i18n-doc@kde.org>
+kwave,5821,0,0,1314,0,0,4666,5821,100.0,Georgian <kde-i18n-doc@kde.org>
+kweather,153,0,0,75,0,0,136,153,100.0,Georgian <kde-i18n-doc@kde.org>
+kweathercore,120,0,0,42,0,0,120,120,100.0,Georgian <kde-i18n-doc@kde.org>
+kwin,6612,0,0,1256,0,0,5494,6612,100.0,Georgian <kde-i18n-doc@kde.org>
+kwin-x11,6612,0,0,1256,0,0,5494,6612,100.0,Georgian <kde-i18n-doc@kde.org>
+kwordquiz,254,0,0,93,0,0,223,254,100.0,Georgian <kde-i18n-doc@kde.org>
+labwc,23,0,0,14,0,0,22,23,100.0,Georgian <https://translate.lxqt-project.org/projects/labwc/labwc/ka/>
+libadwaita,337,0,0,101,0,0,295,337,100.0,Georgian <(nothing)>
+libappstream-glib,1015,0,0,210,0,0,818,1015,100.0,Georgian <(nothing)>
+libbonobo,543,0,0,107,0,0,434,543,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libbonoboui,361,0,0,114,0,0,304,361,100.0,Georgian <www.gia.ge>
+libbytesize,17,0,0,17,0,0,17,17,100.0,none
+libdnf,1664,0,0,238,0,0,1400,1664,100.0,Georgian <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/ka/>
+libecpg,64401,0,13329,9416,0,1111,55282,77730,82.85218062524122,Georgian <nothing>
+libgnome,1656,0,0,256,0,0,1247,1656,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgnome-games-support,43,0,0,14,0,0,34,43,100.0,
+libgnomecanvas,378,0,0,95,0,0,288,378,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgnomekbd,187,0,0,39,0,0,149,187,100.0,
+libgnomeui,1290,0,0,330,0,0,1042,1290,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libgovirt,98,0,0,22,0,0,85,98,100.0,
+libgravatar,25,0,0,10,0,0,23,25,100.0,Georgian <kde-i18n-doc@kde.org>
+libgsf,725,0,0,151,0,0,623,725,100.0,Georgian <(nothing)>
+libgtop2,126,0,0,40,0,0,104,126,100.0,Georgian <(nothing)>
+libguestfs,885,10,6510,159,2,800,768,7405,11.951384199864956,Georgian <https://translate.fedoraproject.org/projects/libguestfs/libguestfs-master/ka/>
+libgweather,6970,0,0,5159,0,0,6269,6970,100.0,
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libhandy,89,0,1319,64,0,244,89,1408,6.3210227272727275,Georgian <(nothing)>
+libidn,196,0,220,43,0,16,172,416,47.11538461538461,Georgian <(nothing)>
+libidn2,315,0,7,40,0,1,268,322,97.82608695652173,Georgian <(nothing)>
+libkcddb,399,1,0,210,1,0,355,400,99.75,Georgian <kde-i18n-doc@kde.org>
+libkcompactdisc,15,0,0,10,0,0,16,15,100.0,Georgian <kde-i18n-doc@kde.org>
+libkdegames,316,0,0,124,0,0,281,316,100.0,Georgian <kde-i18n-doc@kde.org>
+libkdepim,36,0,0,11,0,0,31,36,100.0,Georgian <kde-i18n-doc@kde.org>
+libkeduvocdocument,171,0,0,81,0,0,162,171,100.0,Georgian <kde-i18n-doc@kde.org>
+libkgapi,378,0,0,85,0,0,357,378,100.0,
+libkleo,3017,0,0,541,0,0,2519,3017,100.0,Georgian <kde-i18n-doc@kde.org>
+libkmahjongg,11,0,0,11,0,0,12,11,100.0,Georgian <kde-i18n-doc@kde.org>
+libkomparediff2,143,0,0,19,0,0,95,143,100.0,Georgian <kde-i18n-doc@kde.org>
+libkrunfw,1149,0,0,156,0,0,1048,1149,100.0,NONE
+libksane,284,0,0,92,0,0,249,284,100.0,Georgian <kde-i18n-doc@kde.org>
+libkscreen,24,0,0,6,0,0,19,24,100.0,
+libkscreen-qt5,24,0,0,6,0,0,19,24,100.0,
+libksieve,3132,0,0,543,0,0,2491,3132,100.0,Georgian <kde-i18n-doc@kde.org>
+libksysguard,1068,0,0,367,0,0,896,1068,100.0,Georgian <kde-i18n-doc@kde.org>
+libktorrent,465,0,0,105,0,0,397,465,100.0,Georgian <kde-i18n-doc@kde.org>
+libloc,260,0,0,76,0,0,226,260,100.0,Georgian <(nothing)>
+libmatekbd,149,0,159,39,0,52,121,308,48.37662337662338,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+libmatemixer,8,0,234,8,0,118,8,242,3.3057851239669422,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+libmateweather,5938,0,245,4490,0,108,5342,6183,96.0375222383956,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+libmypaint,1,2,2300,1,1,160,1,2303,0.04342162396873643,Georgian <https://hosted.weblate.org/projects/mypaint/libmypaint/ka/>
+libnma,806,0,1,182,0,1,680,807,99.87608426270135,Georgian <(nothing)>
+libosinfo,403,0,414,110,0,61,349,817,49.326805385556916,Georgian <https://translate.fedoraproject.org/projects/libosinfo/libosinfo/ka/>
+libpanel,107,0,0,29,0,0,97,107,100.0,Georgian <(nothing)>
+libpeas,103,0,0,29,0,0,79,103,100.0,
+libpeas1,103,0,0,29,0,0,79,103,100.0,
+libplasma,272,0,0,54,0,0,205,272,100.0,Georgian <kde-i18n-doc@kde.org>
+libpq,64401,0,13329,9416,0,1111,55282,77730,82.85218062524122,Georgian <nothing>
+libpwquality,345,0,0,51,0,0,257,345,100.0,Georgian <https://translate.fedoraproject.org/projects/libpwquality/app/ka/>
+libqalculate,2912,25,1259,812,7,83,2480,4196,69.39942802669209,Georgian <(nothing)>
+libreoffice,236317,0,523775,50607,0,43769,182268,760092,31.090578508917343,Georgian <https://translations.documentfoundation.org/projects/libo_ui-24-2/accessibilitymessages/ka/>
+libreport,290,0,4638,131,0,472,266,4928,5.88474025974026,Georgian <https://translate.fedoraproject.org/projects/abrt/libreport/ka/>
+libsecret,64,0,0,10,0,0,45,64,100.0,Georgian <(nothing)>
+libshumate,22,0,0,10,0,0,20,22,100.0,Georgian <(nothing)>
+libsoup3,180,0,0,38,0,0,161,180,100.0,Georgian <(nothing)>
+libuser,1478,0,0,307,0,0,1279,1478,100.0,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+libvirt,1307,814,67127,460,51,9929,1203,69248,1.8874191312384474,Georgian <https://translate.fedoraproject.org/projects/libvirt/libvirt/ka/>
+libvirt-glib,158,0,0,31,0,0,124,158,100.0,Georgian <https://translate.fedoraproject.org/projects/libvirt/libvirt-glib/ka/>
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Georgian (http://www.transifex.com/projects/p/fedora/language/ka/)
+libwnck,621,0,501,152,0,87,529,1122,55.3475935828877,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+libwnck3,85,0,1001,53,0,178,86,1086,7.826887661141805,
+libxfce4ui,367,0,651,133,0,78,383,1018,36.05108055009823,Georgian (https://app.transifex.com/xfce/teams/16840/ka/)
+libxfce4util,16,0,408,4,0,3,17,424,3.7735849056603774,Georgian (http://www.transifex.com/xfce/libxfce4util/language/ka/)
+libzypp,674,0,2076,494,0,502,655,2750,24.509090909090908,Georgian <https://l10n.opensuse.org/projects/libzypp/master/ka/>
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Georgian (http://www.transifex.com/the_cavalry/light-locker/language/ka/)
+lightdm-settings,71,0,284,39,0,35,70,355,20.0,Georgian <ka@li.org>
+lightsoff,143,0,0,27,0,0,99,143,100.0,
+liquidshell,555,0,0,174,0,0,517,555,100.0,Georgian <kde-i18n-doc@kde.org>
+lokalize,4134,0,0,680,0,0,3244,4134,100.0,Georgian <kde-i18n-doc@kde.org>
+lollypop,15,0,1413,5,0,450,15,1428,1.050420168067227,Georgian (http://www.transifex.com/gnumdk/lollypop/language/ka/)
+loupe,323,0,0,142,0,0,309,323,100.0,Georgian <ka@li.org>
+lskat,266,0,0,89,0,0,235,266,100.0,Georgian <kde-i18n-doc@kde.org>
+lutris,8391,0,0,1386,0,0,6944,8391,100.0,
+lxmenu-data,59,12,26,24,4,9,52,97,60.824742268041234,Georgian <http://geoubuntu.cjb.net/>
+magpie,542,0,711,128,0,20,474,1253,43.2561851556265,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mailcommon,2803,0,0,514,0,0,2182,2803,100.0,Georgian <kde-i18n-doc@kde.org>
+mailimporter,1405,0,0,126,0,0,1167,1405,100.0,Georgian <kde-i18n-doc@kde.org>
+malcontent,536,0,0,91,0,0,446,536,100.0,Georgian <(nothing)>
+maliit-keyboard,0,0,81,0,0,61,0,81,0.0,Georgian <ka@li.org>
+mame,0,0,3685,0,0,1288,0,3685,0.0,MAME Language Team
+man-db,473,0,818,129,0,126,436,1291,36.63826491092176,Georgian <(nothing)>
+manafirewall,6,0,1091,6,0,127,6,1097,0.5469462169553327,Georgian (https://www.transifex.com/MageiaLinux/teams/9361/ka/)
+marble,11664,0,0,3374,0,0,10279,11664,100.0,Georgian <kde-i18n-doc@kde.org>
+marco,358,0,3813,117,0,316,336,4171,8.58307360345241,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mariadb10.11,144,0,0,10,0,0,104,144,100.0,Georgian <(nothing)>
+markdownpart,23,0,0,9,0,0,20,23,100.0,Georgian <kde-i18n-doc@kde.org>
+marknote,313,4,0,137,2,0,274,317,98.73817034700315,Georgian <kde-i18n-doc@kde.org>
+massif-visualizer,360,0,0,111,0,0,331,360,100.0,Georgian <kde-i18n-doc@kde.org>
+mate-applets,1667,0,14439,427,0,1228,1482,16106,10.35018005712157,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-backgrounds,4,0,51,2,0,27,4,55,7.2727272727272725,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-calc,64,0,3263,58,0,693,74,3327,1.9236549443943491,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-control-center,1148,7,7105,510,4,1013,1026,8260,13.898305084745763,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-desktop,585,0,1827,112,0,183,466,2412,24.253731343283583,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-media,18,0,226,14,0,86,16,244,7.377049180327869,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-menu,54,0,254,29,0,81,51,308,17.532467532467532,Georgian (http://www.transifex.com/mate/MATE/language/ka/)
+mate-menus,60,0,43,25,0,14,53,103,58.252427184466015,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-notification-daemon,5,0,181,5,0,48,10,186,2.6881720430107525,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-panel,3554,2,3197,508,1,313,2575,6753,52.62846142455205,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-polkit,5,0,118,4,0,17,5,123,4.0650406504065035,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-power-manager,414,3,4706,83,1,468,358,5123,8.081202420456764,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-screensaver,501,0,600,91,0,85,357,1101,45.50408719346049,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-sensors-applet,18,0,2142,18,0,208,28,2160,0.8333333333333334,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-session-manager,273,0,444,84,0,49,243,717,38.07531380753138,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-settings-daemon,349,0,1854,61,0,257,264,2203,15.84203359055833,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-system-monitor,470,0,4424,177,0,484,425,4894,9.603596240294237,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-terminal,367,0,7871,191,0,574,337,8238,4.454964797280893,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-themes,21,0,53,7,0,16,20,74,28.37837837837838,Georgian (http://app.transifex.com/mate/MATE/language/ka/)
+mate-user-admin,9,0,596,8,0,118,9,605,1.487603305785124,Georgian (https://www.transifex.com/mate/teams/13566/ka/)
+mate-user-guide,118,0,42855,72,0,3156,123,42973,0.2745910222697973,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+mate-utils,2196,0,7705,404,0,667,1455,9901,22.179577820422182,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+maui-mauikit,80,1,11,42,1,1,70,92,86.95652173913044,Georgian <kde-i18n-doc@kde.org>
+mbox-importer,40,0,0,13,0,0,38,40,100.0,Georgian <kde-i18n-doc@kde.org>
+mc,1721,0,2708,827,0,444,1682,4429,38.8575299164597,Georgian (http://app.transifex.com/mc/mc/language/ka/)
+mediawriter,836,0,0,155,0,0,643,836,100.0,Georgian <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/ka/>
+meld,515,0,2267,251,0,297,490,2782,18.511861969805896,Georgian <ka@li.org>
+merkuro,1916,10,0,683,4,0,1691,1926,99.48078920041536,Georgian <kde-i18n-doc@kde.org>
+messagelib,7692,0,0,1406,0,0,6122,7692,100.0,Georgian <kde-i18n-doc@kde.org>
+metacity,250,0,1581,95,0,183,247,1831,13.653741125068269,
+mimetreeparser,274,0,0,88,0,0,247,274,100.0,Georgian <kde-i18n-doc@kde.org>
+mingw-GConf2,4032,0,0,481,0,0,3302,4032,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw-atk,370,1,4,123,1,2,300,375,98.66666666666667,Georgian <geognome@googlegroups.com>
+mingw-binutils,660,0,12760,144,0,1838,611,13420,4.918032786885246,Georgian <(nothing)>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Georgian (http://www.transifex.com/projects/p/freedesktop/language/ka/)
+mingw-fontconfig,964,13,8,141,3,1,897,985,97.86802030456853,Georgian <(none)>
+mingw-gcc,492,57,1212,105,8,161,440,1761,27.938671209540033,Georgian <(nothing)>
+mingw-gdb,127,0,12760,46,0,1838,127,12887,0.9854892527353146,Georgian <(nothing)>
+mingw-gdk-pixbuf,269,0,1056,68,0,130,217,1325,20.30188679245283,
+mingw-gettext,662,16,247,126,2,10,510,925,71.56756756756756,Georgian <(nothing)>
+mingw-glib-networking,438,0,0,65,0,0,339,438,100.0,Georgian <(nothing)>
+mingw-glib2,7872,0,0,1251,0,0,6556,7872,100.0,Georgian <(nothing)>
+mingw-gsettings-desktop-schemas,977,0,6186,255,0,374,877,7163,13.639536507050117,Georgian <(nothing)>
+mingw-gstreamer1,977,0,1246,230,0,161,761,2223,43.94961763382816,Georgian <(nothing)>
+mingw-gstreamer1-plugins-bad-free,197,0,0,29,0,0,160,197,100.0,Georgian <(nothing)>
+mingw-gstreamer1-plugins-base,778,9,293,183,2,38,678,1080,72.03703703703704,Georgian <(nothing)>
+mingw-gstreamer1-plugins-good,593,4,228,76,1,27,472,825,71.87878787878788,Georgian <(nothing)>
+mingw-gtk2,10129,1843,1732,1942,477,365,7294,13704,73.91272621132516,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw-gtk3,11490,0,5236,3355,0,583,9515,16726,68.69544421858184,Georgian <(nothing)>
+mingw-gtk4,4276,0,0,1527,0,0,3871,4276,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mingw-hunspell,613,0,0,79,0,0,549,613,100.0,Georgian <https://hosted.weblate.org/projects/hunspell/translations/ka/>
+mingw-libidn,196,0,220,43,0,16,172,416,47.11538461538461,Georgian <(nothing)>
+mingw-libidn2,315,0,7,40,0,1,268,322,97.82608695652173,Georgian <(nothing)>
+mingw-mediawriter,0,0,845,0,0,162,0,845,0.0,none
+mingw-p11-kit,156,0,320,31,0,50,107,476,32.773109243697476,Georgian (http://www.transifex.com/freedesktop/p11-kit/language/ka/)
+mingw-postgresql,28921,0,0,4600,0,0,25025,28921,100.0,Georgian <nothing>
+mingw-spice-gtk,339,0,0,73,0,0,306,339,100.0,Georgian <(nothing)>
+mingw-wxWidgets,51,0,0,15,0,0,47,51,100.0,Georgian
+mingw-wxWidgets3,51,0,0,15,0,0,47,51,100.0,Georgian
+minuet,426,0,108,171,0,32,387,534,79.7752808988764,Georgian <kde-i18n-doc@kde.org>
+mozo,41,0,5,20,0,4,40,46,89.13043478260869,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+msitools,85,0,0,29,0,0,78,85,100.0,Georgian <ka@li.org>
+muffin,375,7054,630,118,360,37,356,8059,4.653182777019482,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+mutter,1358,0,0,147,0,0,1116,1358,100.0,Georgian <(nothing)>
+mypaint,11,5,6365,10,3,1257,13,6381,0.17238677323303556,Georgian <https://hosted.weblate.org/projects/mypaint/mypaint/ka/>
+nano,659,0,2827,232,0,400,582,3486,18.904188181296615,Georgian <(nothing)>
+nautilus,5429,0,0,1118,0,0,4118,5429,100.0,Georgian <(nothng)>
+neochat,4352,0,0,1089,0,0,3595,4352,100.0,Georgian <kde-i18n-doc@kde.org>
+neon,739,5,0,144,1,0,649,744,99.32795698924731,Georgian <(nothing)>
+network-manager-applet,853,0,3586,395,0,479,788,4439,19.216039648569495,
+newt,4,0,0,4,0,0,4,4,100.0,Georgian (http://www.transifex.com/projects/p/newt/language/ka/)
+nfoview,99,0,9,30,0,7,85,108,91.66666666666666,Georgian (http://app.transifex.com/otsaloma/nfoview/language/ka/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+obs-cef,0,0,0,0,0,0,0,0,0.0,
+okteta,871,0,1667,434,0,184,810,2538,34.3183609141056,Georgian <kde-i18n-doc@kde.org>
+okular,5840,11,13,1279,1,1,4820,5864,99.59072305593452,Georgian <kde-i18n-doc@kde.org>
+openconnect,75,0,9456,30,0,1535,70,9531,0.7869058860560277,Georgian <ka@li.org>
+optiimage,145,0,0,45,0,0,134,145,100.0,Georgian <kde-i18n-doc@kde.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,5608,0,0,1790,0,0,4721,5608,100.0,Georgian <(nothing)>
+osinfo-db-tools,222,0,0,43,0,0,187,222,100.0,Georgian <https://translate.fedoraproject.org/projects/libosinfo/osinfo-db-tools/ka/>
+parley,3433,0,0,729,0,0,2720,3433,100.0,Georgian <kde-i18n-doc@kde.org>
+parted,2901,16,1711,482,5,90,2425,4628,62.68366464995678,Georgian <(nothing)>
+phonon,327,0,0,59,0,0,260,327,100.0,Georgian <kde-i18n-doc@kde.org>
+phonon-backend-vlc,27,0,0,3,0,0,22,27,100.0,Georgian <kde-i18n-doc@kde.org>
+phosh,553,0,0,205,0,0,456,553,100.0,Georgian <(nothing)>
+phosh-mobile-settings,540,0,0,149,0,0,466,540,100.0,Georgian <ka@li.org>
+picmi,202,0,0,116,0,0,200,202,100.0,Georgian <kde-i18n-doc@kde.org>
+pidgin,1854,0,12140,793,0,2398,1693,13994,13.24853508646563,Georgian (http://app.transifex.com/pidgin/pidgin/language/ka/)
+pim-data-exporter,794,0,0,200,0,0,678,794,100.0,Georgian <kde-i18n-doc@kde.org>
+pim-sieve-editor,459,0,0,122,0,0,375,459,100.0,Georgian <kde-i18n-doc@kde.org>
+pimcommon,915,0,0,218,0,0,744,915,100.0,Georgian <kde-i18n-doc@kde.org>
+pinta,30,0,1716,21,0,516,33,1746,1.718213058419244,Georgian <ka@li.org>
+pipewire,716,0,0,121,0,0,649,716,100.0,Georgian <(nothing)>
+plank,65,0,124,25,0,25,66,189,34.39153439153439,Georgian <ka@li.org>
+plasma-bigscreen,228,0,0,93,0,0,208,228,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-breeze,254,0,0,91,0,0,250,254,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-browser-integration,127,0,0,25,0,0,84,127,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-desktop,7420,0,0,1648,0,0,6083,7420,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-dialer,153,0,0,60,0,0,142,153,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-discover,3678,0,0,737,0,0,2942,3678,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-disks,205,0,0,19,0,0,142,205,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-drkonqi,1925,0,0,200,0,0,1458,1925,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-firewall,393,0,0,145,0,0,343,393,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-integration,72,0,0,24,0,0,59,72,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-milou,10,0,0,4,0,0,8,10,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-mobile,2256,0,0,1082,0,0,2044,2256,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-nano,33,0,0,10,0,0,28,33,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-nm,5590,0,0,1338,0,0,4754,5590,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-oxygen,794,0,0,292,0,0,729,794,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-pa,382,0,0,117,0,0,343,382,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-pass,22,0,0,6,0,0,21,22,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-phonebook,73,0,0,33,0,0,73,73,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-print-manager,1382,0,0,363,0,0,1168,1382,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-sdk,934,0,0,303,0,0,813,934,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-settings,68,0,0,18,0,0,65,68,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-systemmonitor,611,0,0,193,0,0,552,611,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-systemsettings,128,0,0,35,0,0,114,128,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-thunderbolt,174,0,0,39,0,0,135,174,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-vault,874,0,0,102,0,0,642,874,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-welcome,1603,0,0,151,0,0,1239,1603,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-workspace,12571,0,0,3011,0,0,10620,12571,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma-workspace-x11,12571,0,0,3011,0,0,10620,12571,100.0,Georgian <kde-i18n-doc@kde.org>
+plasma5support,402,0,0,182,0,0,374,402,100.0,Georgian <kde-i18n-doc@kde.org>
+plasmatube,517,0,0,191,0,0,474,517,100.0,Georgian <kde-i18n-doc@kde.org>
+pluma,479,0,12634,282,0,1808,456,13113,3.652863570502555,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+pluma-plugins,5,0,1400,5,0,140,10,1405,0.3558718861209964,Georgian (https://app.transifex.com/mate/teams/13566/ka/)
+plymouth,16,0,0,7,0,0,13,16,100.0,Georgian <(nothing)>
+plymouth-kcm,93,0,0,20,0,0,78,93,100.0,Georgian <kde-i18n-doc@kde.org>
+po4a,132,0,3042,42,0,224,134,3174,4.158790170132325,Georgian <https://hosted.weblate.org/projects/po4a/po4a/ka/>
+poedit,2331,1,948,644,1,67,2022,3280,71.0670731707317,Georgian
+polari,858,0,0,200,0,0,681,858,100.0,Georgian <(nothing)>
+policycoreutils,1190,0,5171,342,0,658,1020,6361,18.70775035371797,Georgian <https://translate.fedoraproject.org/projects/selinux/gui/ka/>
+polkit,239,0,0,27,0,0,199,239,100.0,Georgian <(nothing)>
+polkit-kde,59,0,0,23,0,0,56,59,100.0,Georgian <kde-i18n-doc@kde.org>
+popt,84,0,6,31,0,1,81,90,93.33333333333333,Georgian <https://translate.fedoraproject.org/projects/popt/master/ka/>
+postgresql15,62452,0,13459,9206,0,1148,53602,75911,82.27002674184241,Georgian <nothing>
+postgresql16,64401,0,13329,9416,0,1111,55282,77730,82.85218062524122,Georgian <nothing>
+powerdevil,1703,15,18,342,1,2,1395,1736,98.09907834101382,Georgian <kde-i18n-doc@kde.org>
+procps-ng,1670,0,3508,507,0,418,1562,5178,32.251834685206646,Georgian <(nothing)>
+pulseaudio,0,0,3786,0,0,572,0,3786,0.0,none
+pychess,33,0,7559,17,0,1451,35,7592,0.434668071654373,Georgian (http://www.transifex.com/gbtami/pychess/language/ka/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,706,0,922,99,0,81,553,1628,43.36609336609337,Georgian <https://translate.fedoraproject.org/projects/pykickstart/master/ka/>
+python-SecretStorage,64,0,0,10,0,0,45,64,100.0,Georgian <(nothing)>
+python-apt,169,160,215,43,39,36,157,544,31.066176470588236,Georgian <geognome@googlegroups.com>
+python-blivet,605,0,0,81,0,0,482,605,100.0,Georgian <https://translate.fedoraproject.org/projects/blivet/blivet-master/ka/>
+python-django,2453,0,1293,657,0,200,2125,3746,65.48318206086492,Georgian (http://www.transifex.com/django/django/language/ka/)
+python-django-allauth,528,600,397,127,56,63,495,1525,34.622950819672134,LANGUAGE <LL@li.org>
+python-django-contrib-comments,233,0,17,58,0,3,191,250,93.2,Georgian (http://www.transifex.com/django/django-contrib-comments/language/ka/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Georgian (http://www.transifex.com/projects/p/django-formtools/language/ka/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django4.2,2453,0,1293,657,0,200,2125,3746,65.48318206086492,Georgian (http://www.transifex.com/django/django/language/ka/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Georgian
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-meh,109,0,0,23,0,0,81,109,100.0,Georgian <https://translate.fedoraproject.org/projects/python-meh/master/ka/>
+python-oslo-i18n,6,0,0,1,0,0,6,6,100.0,Georgian (Georgia)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+python-sphinx,2661,0,2301,543,0,212,2335,4962,53.62756952841596,Georgian (http://app.transifex.com/sphinx-doc/sphinx-1/language/ka/)
+python-wxpython4,52,0,7835,16,0,1963,48,7887,0.6593127932040066,wxWidgets Team <wx-dev@wxwidgets.org>
+qmlkonsole,161,0,0,53,0,0,138,161,100.0,Georgian <kde-i18n-doc@kde.org>
+qrca,140,0,0,50,0,0,130,140,100.0,Georgian <kde-i18n-doc@kde.org>
+qt6-qtwebengine,964,0,0,141,0,0,897,964,100.0,Georgian <(none)>
+quadrapassel,15,246,167,9,46,24,14,428,3.5046728971962615,Georgian <gnome@inet.ge>
+realmd,0,0,833,0,0,134,0,833,0.0,Georgian (http://www.transifex.com/freedesktop/realmd/language/ka/)
+redhat-menus,205,11,45,69,4,13,191,261,78.544061302682,Georgian <guiasher@mes.gov.ge>
+rednotebook,851,5,422,184,1,91,688,1278,66.5884194053208,Georgian <https://hosted.weblate.org/projects/rednotebook/desktop-app/ka/>
+redshift,1,0,1027,1,0,150,1,1028,0.09727626459143969,Georgian <ka@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,0,1543,3853,0,259,741,0,5396,0.0,Georgian <https://hosted.weblate.org/projects/remmina/remmina/ka/>
+retrace-server,1,0,432,1,0,55,1,433,0.23094688221709006,Georgian <https://translate.fedoraproject.org/projects/abrt/retrace-server/ka/>
+rhythmbox,582,0,3199,348,0,604,557,3781,15.392753239883628,
+rkward,767,0,37422,562,0,3677,788,38189,2.008431747361806,Georgian <kde-i18n-doc@kde.org>
+rocs,605,0,875,218,0,96,523,1480,40.87837837837838,Georgian <kde-i18n-doc@kde.org>
+rpm,827,0,3905,274,0,636,790,4732,17.476754015215555,Georgian <https://translate.fedoraproject.org/projects/rpm/rpm-l10n/ka/>
+rteval-loads,1149,0,0,156,0,0,1048,1149,100.0,NONE
+ruqola,8519,0,0,1964,0,0,7296,8519,100.0,Georgian <kde-i18n-doc@kde.org>
+rygel,1632,0,0,302,0,0,1411,1632,100.0,
+sane-backends,4038,44,2144,1131,15,136,3560,6226,64.85705107613235,Georgian
+scummvm,3812,3,11786,1523,1,934,3544,15601,24.434331132619704,Georgian <https://translations.scummvm.org/projects/scummvm/scummvm/ka/>
+sddm-kcm,215,0,0,42,0,0,173,215,100.0,Georgian <kde-i18n-doc@kde.org>
+seahorse,369,0,2026,196,0,346,342,2395,15.407098121085594,Georgian <(nothing)>
+secrets,1170,0,0,365,0,0,989,1170,100.0,Georgian <(nothing)>
+sed,817,0,0,146,0,0,728,817,100.0,Georgian <(nothing)>
+setroubleshoot,640,0,0,168,0,0,549,640,100.0,Georgian <https://translate.fedoraproject.org/projects/setroubleshoot/setroubleshoot/ka/>
+setuptool,16,2,37,8,1,5,15,55,29.09090909090909,Georgian Internet Alliance <giasher@telenet.ge>
+shadow-utils,4840,4,1,687,1,1,4232,4845,99.89680082559339,Georgian <(nothing)>
+shared-mime-info,570,0,1696,231,0,640,592,2266,25.154457193292146,Georgian (http://app.transifex.com/freedesktop/shared-mime-info/language/ka/)
+shotwell,942,0,5747,492,0,749,900,6689,14.082822544476006,Georgian <(nothing)>
+sigil,592,21,0,78,1,0,526,613,96.5742251223491,Georgian <https://hosted.weblate.org/projects/hunspell/translations/ka/>
+simple-scan,967,0,0,214,0,0,719,967,100.0,Georgian <(nothing)>
+skanlite,186,0,0,63,0,0,160,186,100.0,Georgian <kde-i18n-doc@kde.org>
+skanpage,358,0,0,122,0,0,325,358,100.0,Georgian <kde-i18n-doc@kde.org>
+skladnik,154,0,0,47,0,0,128,154,100.0,Georgian <kde-i18n-doc@kde.org>
+slick-greeter,0,0,216,0,0,49,0,216,0.0,Georgian <ka@li.org>
+smb4k,791,0,5771,341,0,345,697,6562,12.054251752514478,Georgian <kde-i18n-doc@kde.org>
+snapper,0,83,1009,0,21,231,0,1092,0.0,Georgian <i18n@suse.de>
+snapshot,228,0,0,81,0,0,205,228,100.0,Georgian <ka@li.org>
+sos,123,0,0,30,0,0,99,123,100.0,Georgian <(nothing)>
+sound-juicer,143,0,1111,97,0,129,144,1254,11.403508771929824,
+soundconverter,227,0,0,94,0,0,219,227,100.0,Georgian <(nothing)>
+spacebar,278,0,0,98,0,0,259,278,100.0,Georgian <kde-i18n-doc@kde.org>
+spectacle,1758,0,0,335,0,0,1457,1758,100.0,Georgian <kde-i18n-doc@kde.org>
+spice-gtk,339,0,0,73,0,0,306,339,100.0,Georgian <(nothing)>
+squeekboard,13,0,0,6,0,0,11,13,100.0,
+sssd,258,0,4550,95,0,628,253,4808,5.366056572379367,Georgian <https://translate.fedoraproject.org/projects/sssd/sssd-2-9/ka/>
+stellarium,36,0,425,18,0,32,33,461,7.809110629067245,Georgian (https://app.transifex.com/stellarium/teams/80998/ka/)
+step,939,0,3331,555,0,441,880,4270,21.99063231850117,Georgian <kde-i18n-doc@kde.org>
+subscription-manager,338,0,4064,201,0,491,339,4402,7.678328032712403,Georgian <https://translate.fedoraproject.org/projects/subscription-manager/subscription-manager-main/ka/>
+subscription-manager-cockpit,156,0,355,77,0,39,149,511,30.528375733855185,Georgian <https://translate.fedoraproject.org/projects/subscription-manager/cockpit-main/ka/>
+sudo,2053,0,4127,363,0,568,1719,6180,33.2200647249191,Georgian <(nothing)>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,68,15,130,61,10,52,68,213,31.92488262910798,LANGUAGE <LL@li.org>
+sushi,54,0,0,14,0,0,42,54,100.0,
+svgpart,3,0,0,2,0,0,4,3,100.0,Georgian <kde-i18n-doc@kde.org>
+sweeper,228,0,0,50,0,0,178,228,100.0,Georgian <kde-i18n-doc@kde.org>
+swell-foop,170,0,193,63,0,12,137,363,46.83195592286501,
+switchdesk,16,12,94,3,6,10,16,122,13.114754098360656,Georgian Internet Alliance <giasher@telenet.ge>
+sympa,1052,14,35476,559,7,3004,1042,36542,2.8788790980241914,ქართული
+synapse,106,0,750,49,0,185,86,856,12.383177570093459,Georgian <ka@li.org>
+sysprof,967,0,0,311,0,0,878,967,100.0,Georgian <ka@li.org>
+sysstat,853,0,0,83,0,0,807,853,100.0,Georgian <(nothing)>
+system-config-printer,2668,5,841,888,2,38,2349,3514,75.92487194080819,Georgian <https://translate.fedoraproject.org/projects/system-config-printer/master/ka/>
+system-config-rootpassword,15,26,75,3,5,11,10,116,12.931034482758621,Georgian <guiasher@mes.gov.ge>
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Georgian <guiasher@mes.gov.ge>
+systemd,1799,0,0,227,0,0,1313,1799,100.0,Georgian <https://translate.fedoraproject.org/projects/systemd/master/ka/>
+tali,33,0,405,21,0,79,31,438,7.534246575342466,
+tar,1184,108,2385,302,12,284,1074,3677,32.200163176502585,Georgian <(nothing)>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+tecla,6,0,0,3,0,0,6,6,100.0,Georgian <ka@li.org>
+tellico,5358,0,0,1263,0,0,4239,5358,100.0,Georgian <kde-i18n-doc@kde.org>
+template-glib,23,0,0,4,0,0,18,23,100.0,Georgian <ka@li.org>
+terminator,163,0,1359,37,0,378,124,1522,10.709592641261498,Georgian (https://www.transifex.com/terminator/teams/109338/ka/)
+texinfo,770,56,5287,196,14,604,668,6113,12.59610665794209,Georgian <(nothing)>
+tigervnc,855,0,360,197,0,17,731,1215,70.37037037037037,Georgian <(nothing)>
+tokodon,3212,0,0,976,0,0,2815,3212,100.0,Georgian <kde-i18n-doc@kde.org>
+transmission,379,0,2062,213,0,372,378,2441,15.526423596886522,Georgian (https://app.transifex.com/transmissionbt/teams/33778/ka/)
+util-linux,1924,669,26262,776,172,4345,1935,28855,6.667821867960493,Georgian <(nothing)>
+vakzination,147,0,0,61,0,0,137,147,100.0,Georgian <kde-i18n-doc@kde.org>
+vdr-live,942,0,99,330,0,35,824,1041,90.48991354466858,Georgian <(nothing)>
+virt-manager,4273,0,3058,1239,0,209,3902,7331,58.28672759514391,Georgian <https://translate.fedoraproject.org/projects/virt-manager/virt-manager/ka/>
+virt-top,7,0,408,5,0,79,7,415,1.6867469879518073,Georgian (http://www.transifex.com/projects/p/virttop/language/ka/)
+virt-v2v,207,18,5507,44,5,503,187,5732,3.611304954640614,Georgian <https://translate.fedoraproject.org/projects/libguestfs/virt-v2v-master/ka/>
+vlc,11138,38,23603,2435,12,3838,8953,34779,32.02507260128238,Georgian (https://app.transifex.com/yaron/teams/16553/ka/)
+volumeicon,92,0,0,37,0,0,91,92,100.0,Georgian <(nothing)>
+vte,96,0,0,18,0,0,90,96,100.0,Georgian <aiet@qartuli.net>
+vte291,46,0,0,9,0,0,40,46,100.0,Georgian <(nothing)>
+webkit2gtk4.0,1223,0,1395,475,0,200,1142,2618,46.71504965622613,Georgian <(nothing)>
+webkitgtk,1223,0,1395,475,0,200,1142,2618,46.71504965622613,Georgian <(nothing)>
+wget2,1052,50,1622,249,9,235,927,2724,38.61967694566813,Georgian <(nothing)>
+whatip,275,0,0,56,0,0,245,275,100.0,Georgian <(nothing)>
+whois,514,0,0,40,0,0,466,514,100.0,
+widelands,4,0,91847,3,0,9355,4,91851,0.004354879097669051,Georgian (http://app.transifex.com/widelands/widelands/language/ka/)
+wine,14428,26,5034,4161,11,153,12777,19488,74.0353037766831,Georgian
+wine-mono,7193,0,80,619,0,3,5739,7273,98.90004124845319,Georgian <(nothing)>
+wingpanel,21,0,36,6,0,4,19,57,36.84210526315789,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,37,0,18,15,0,2,37,55,67.27272727272727,Georgian <https://l10n.elementary.io/projects/wingpanel/indicator-a11y/ka/>
+wingpanel-indicator-bluetooth,51,0,29,25,0,5,43,80,63.74999999999999,Georgian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/ka/>
+wingpanel-indicator-datetime,57,0,46,16,0,9,50,103,55.33980582524271,Georgian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ka/>
+wingpanel-indicator-keyboard,56,0,0,17,0,0,50,56,100.0,Georgian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/ka/>
+wireplumber,9,0,0,4,0,0,9,9,100.0,Georgian <(nothing)>
+wxGTK,6644,0,1243,1866,0,113,5789,7887,84.23988842398884,
+xapps,27,0,46,23,0,13,26,73,36.986301369863014,Georgian <ka@li.org>
+xdg-desktop-portal,254,0,0,36,0,0,184,254,100.0,Georgian <(nothing)>
+xdg-desktop-portal-gnome,236,0,0,67,0,0,203,236,100.0,
+xdg-desktop-portal-gtk,240,0,0,64,0,0,193,240,100.0,Georgian <(nothing)>
+xdg-desktop-portal-kde,445,0,0,117,0,0,392,445,100.0,Georgian <kde-i18n-doc@kde.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,48,81,100.0,Georgian <http://mail.gnome.org/mailman/listinfo/gnome-ge-list>
+xed,206,0,3569,122,0,806,192,3775,5.456953642384106,Georgian (http://www.transifex.com/projects/p/MATE/language/ka/)
+xfce4-notifyd,272,0,288,76,0,59,234,560,48.57142857142857,Georgian (http://www.transifex.com/xfce/xfce-apps/language/ka/)
+xfce4-panel,773,0,1176,308,0,181,689,1949,39.6613648024628,Georgian (https://www.transifex.com/xfce/teams/16840/ka/)
+xfce4-screenshooter,371,0,418,74,0,52,263,789,47.02154626108999,Georgian (http://app.transifex.com/xfce/xfce-apps/language/ka/)
+xfce4-settings,548,0,1925,291,0,288,522,2473,22.159320663162152,Georgian (https://www.transifex.com/xfce/teams/16840/ka/)
+xfce4-whiskermenu-plugin,384,0,55,125,0,15,336,439,87.47152619589977,Georgian (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ka/)
+xfce4-xkb-plugin,37,0,20,18,0,4,34,57,64.91228070175438,Georgian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ka/)
+xfdesktop,1027,0,54,246,0,11,873,1081,95.00462534690102,Georgian (https://www.transifex.com/xfce/teams/16840/ka/)
+xfwm4,646,0,20,175,0,3,574,666,96.996996996997,Georgian (http://www.transifex.com/xfce/xfwm4/language/ka/)
+xkeyboard-config,2216,0,1874,853,0,419,2119,4090,54.18092909535452,Georgian <(nothing)>
+xreader,489,0,1136,144,0,236,394,1625,30.092307692307692,Georgian (http://www.transifex.com/mate/MATE/language/ka/)
+xwaylandvideobridge,28,0,0,8,0,0,26,28,100.0,Georgian <kde-i18n-doc@kde.org>
+xz,1640,0,0,260,0,0,1381,1640,100.0,Georgian <(nothing)>
+yakuake,1671,0,0,238,0,0,1319,1671,100.0,Georgian <kde-i18n-doc@kde.org>
+yelp,339,0,0,71,0,0,264,339,100.0,
+yelp-xsl,66,0,22,51,0,13,59,88,75.0,
+zabbix,5961,0,13560,2286,0,1680,5414,19521,30.53634547410481,none
+zanshin,495,0,0,118,0,0,421,495,100.0,Georgian <kde-i18n-doc@kde.org>
+zenity,967,0,0,199,0,0,773,967,100.0,Georgian <gnome@inet.ge>
+zvbi,664,0,0,121,0,0,603,664,100.0,Georgian <(nothing)>
+zypper,1565,0,8313,235,0,1035,674,9878,15.843288115003038,Georgian <https://l10n.opensuse.org/projects/zypper/master/ka/>

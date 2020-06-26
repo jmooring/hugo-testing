@@ -1,0 +1,10 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-applets,3858,0,0,976,0,0,4897,3858,100.0,Spanish <traductores@es.gnome.org>
+libfm,0,439,41,0,125,5,0,480,0.0,
+libgweather,447,9,4,170,5,4,539,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+lxdm,0,0,11,0,0,10,0,11,0.0,LANGUAGE <LL@li.org>
+lxinput,60,3,7,21,1,1,75,70,85.71428571428571,LANGUAGE <LL@li.org>
+lxpanel,892,0,0,297,0,0,1076,892,100.0,Spanish <daniel@tunki.org>
+lxsession,37,0,0,15,0,0,41,37,100.0,Spanish <es@li.org>
+lxtask,122,0,0,48,0,0,172,122,100.0,Spanish <es@li.org>
+lxterminal,119,0,10,75,0,1,159,129,92.24806201550388,Spanish <es@li.org>

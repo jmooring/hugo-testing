@@ -1,0 +1,43 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,2722,0,0,328,0,2722,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+byobu,14,0,163,8,0,36,12,177,7.909604519774012,Latin <la@li.org>
+certmonger,0,0,1669,0,0,270,0,1669,0.0,Latin (http://www.transifex.com/projects/p/certmonger/language/la/)
+cinnamon-translations,86,0,4860,41,0,1240,85,4946,1.7387788111605338,Latin <la@li.org>
+deluge,12,0,2632,9,0,849,12,2644,0.45385779122541603,Latin <la@li.org>
+entangle,0,0,916,0,0,201,0,916,0.0,Latin (http://www.transifex.com/projects/p/entangle/language/la/)
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Latin
+gedit,207,0,4735,17,0,1076,121,4942,4.188587616349656,Latin <la@li.org>
+gedit-plugins,2,4,1199,2,2,465,8,1205,0.16597510373443983,Latin <la@li.org>
+gnome-do-plugins,0,0,2323,0,0,582,0,2323,0.0,Latin <la@li.org>
+gwibber,1,0,768,1,0,203,1,769,0.13003901170351106,Latin <la@li.org>
+im-chooser,0,0,237,0,0,54,0,237,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,440,0,0,80,0,440,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,29,0,0,5,0,29,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+libgnomeprintui22,6,0,475,6,0,148,7,481,1.2474012474012475,Latin <la@li.org>
+libgnomeui,1,0,1308,1,0,333,3,1309,0.07639419404125286,Latin <la@li.org>
+libgtop2,24,0,102,5,0,35,15,126,19.047619047619047,Latin <la@li.org>
+libreport,0,0,3139,0,0,417,0,3139,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+libvirt-sandbox,0,0,583,0,0,104,0,583,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+liveusb-creator,0,0,480,0,0,52,0,480,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+marco,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mate-panel,3,0,4579,3,0,626,3,4582,0.06547359231776517,Latin <mate-latin-list@gnome.org>
+mate-text-editor,207,0,4735,17,0,1076,121,4942,4.188587616349656,Latin <la@li.org>
+mate-window-manager,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+metacity,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mintmenu,144,0,2682,95,0,568,154,2826,5.095541401273886,Latin <la@li.org>
+muffin,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mutter,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+mutter-wayland,80,0,3739,18,0,399,73,3819,2.0947892118355593,Latin <la@li.org>
+pinta,29,0,1589,20,0,508,41,1618,1.792336217552534,Latin <la@li.org>
+pluma,207,0,4735,17,0,1076,121,4942,4.188587616349656,Latin <la@li.org>
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+pykickstart,0,0,383,0,0,40,0,383,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+stellarium,232,0,10949,215,0,2930,236,11181,2.074948573472856,Latin <la@li.org>
+synapse,61,0,650,42,0,154,60,711,8.579465541490858,Latin <la@li.org>
+terminator,9,0,717,9,0,245,17,726,1.2396694214876034,Latin <la@li.org>
+virt-viewer,0,0,615,0,0,129,0,615,0.0,Latin (http://www.transifex.com/projects/p/fedora/language/la/)
+warzone2100,9,235,12937,5,86,2701,8,13181,0.06828010014414689,Latin
+wesnoth,74993,18913,162020,8389,744,7213,53466,255926,29.302610910966454,Latin <http://wiki.wesnoth.org/LatinTranslation>
+widelands,6414,0,20617,1672,0,1378,5537,27031,23.72831193814509,Latin <la@li.org>
+yelp,13,0,1022,13,0,336,24,1035,1.2560386473429952,Latin <la@li.org>

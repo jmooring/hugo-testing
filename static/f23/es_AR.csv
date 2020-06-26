@@ -1,0 +1,88 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+audacious,393,0,246,178,0,103,477,639,61.502347417840376,Spanish (Argentina) (http://www.transifex.com/projects/p/audacious/language/es_AR/)
+audacious-plugins,1363,0,2547,504,0,368,1627,3910,34.85933503836317,Spanish (Argentina) (http://www.transifex.com/projects/p/audacious/language/es_AR/)
+bacula,0,0,0,0,0,0,0,0,0.0,Spanish
+bacula2,0,0,18155,0,0,2887,0,18155,0.0,Spanish
+caja,100,0,9142,32,0,1464,129,9242,1.0820168794633196,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+cinnamon-translations,135,0,5380,40,0,1395,149,5515,2.447869446962829,Spanish (Argentina) <es_AR@li.org>
+emerald,671,45,58,191,12,12,923,774,86.69250645994832,Spanish <es@li.org>
+gallery2,8899,2362,152,1246,546,18,10206,11413,77.97248751423815,Argentine Spanish <gallery-devel@lists.sourceforge.net>
+gimp-lqr-plugin,56,9,863,22,3,106,64,928,6.0344827586206895,Español
+glpi,10636,0,0,2805,0,0,11813,10636,100.0,Spanish (Argentina) (http://www.transifex.com/glpi/GLPI/language/es_AR/)
+gnomebaker,1069,0,117,255,0,36,1231,1186,90.13490725126475,Spanish (Argentina) <es_AR@li.org>
+libgweather,447,9,4,170,5,4,535,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+libmateweather,462,0,37,171,0,12,534,499,92.58517034068137,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+libvisual,303,204,548,62,51,92,364,1055,28.720379146919434,Spanish
+mate-applets,1596,0,1025,382,0,244,1923,2621,60.89278901182754,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+mate-calc,174,0,1238,79,0,362,192,1412,12.322946175637393,Spanish (Argentina) (http://www.transifex.com/projects/p/MATE/language/es_AR/)
+mate-desktop,0,0,2288,0,0,323,0,2288,0.0,Spanish (Argentina) (http://www.transifex.com/projects/p/MATE/language/es_AR/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+mate-media,2,0,223,2,0,94,2,225,0.8888888888888888,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+mate-screensaver,108,0,875,36,0,120,135,983,10.986775178026448,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+mate-session-manager,2,0,679,2,0,112,2,681,0.2936857562408223,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+mcrypt,956,6,3,141,1,1,1117,965,99.06735751295336,Argentinian <translation-es-AR@lists.sourceforge.net>
+mozo,1,0,41,1,0,15,1,42,2.380952380952381,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+openerp,7836,0,39282,2769,0,4082,8863,47118,16.630587036801224,Spanish (Argentina) <es_AR@li.org>
+openerp7,6096,0,39105,2135,0,4029,6881,45201,13.486427291431605,Spanish (Argentina) <es_AR@li.org>
+pidgin,4607,0,13951,915,0,3033,5221,18558,24.82487336997521,Spanish (Argentina) (http://www.transifex.com/projects/p/pidgin/language/es_AR/)
+pluma,43,0,5015,27,0,1088,50,5058,0.8501383946223804,Spanish (Argentina) (http://www.transifex.com/mate/MATE/language/es_AR/)
+purple-telegram,610,0,0,115,0,0,726,610,100.0,Spanish (Argentina) (http://www.transifex.com/telegram-purple-developers/telegram-purple/language/es_AR/)
+python-django,3491,0,15,766,0,1,3981,3506,99.57216200798631,Spanish (Argentina) (http://www.transifex.com/projects/p/django/language/es_AR/)
+python-django-formtools,15,0,17,5,0,6,19,32,46.875,Spanish (Argentina) (http://www.transifex.com/projects/p/django-formtools/language/es_AR/)
+python-django-registration,81,0,0,15,0,0,99,81,100.0,LANGUAGE <LL@li.org>
+python-lettuce,7720,0,15,2453,0,1,8463,7735,99.80607627666451,Django-I18N <django-i18n@googlegroups.com>
+quassel,0,0,5382,0,0,1211,0,5382,0.0,Spanish (Argentina) (http://www.transifex.com/ald/quassel/language/es_AR/)
+smuxi,781,363,96,244,36,17,831,1240,62.983870967741936,Spanish Spanish Localization <debian-l10n-spanish@lists.debian.org>
+trac,5257,577,7316,1108,94,276,6202,13150,39.97718631178707,es_AR <LL@li.org>
+trytond,2683,0,0,1247,0,0,3348,2683,100.0,
+trytond-account,2327,0,0,1032,0,0,2657,2327,100.0,
+trytond-account-invoice,1006,0,0,379,0,0,1197,1006,100.0,
+trytond-account-invoice-history,2,0,0,1,0,0,2,2,100.0,
+trytond-account-invoice-line-standalone,24,0,0,8,0,0,40,24,100.0,
+trytond-account-product,202,0,0,71,0,0,229,202,100.0,
+trytond-account-statement,179,0,0,86,0,0,212,179,100.0,
+trytond-account-stock-anglo-saxon,46,0,0,8,0,0,51,46,100.0,
+trytond-account-stock-continental,207,0,0,55,0,0,251,207,100.0,
+trytond-analytic-account,193,0,0,100,0,0,203,193,100.0,
+trytond-analytic-invoice,2,0,0,1,0,0,2,2,100.0,
+trytond-analytic-purchase,162,0,0,96,0,0,188,162,100.0,
+trytond-analytic-sale,2,0,0,1,0,0,2,2,100.0,
+trytond-calendar,489,0,0,272,0,0,545,489,100.0,
+trytond-calendar-classification,2,0,0,2,0,0,2,2,100.0,
+trytond-calendar-scheduling,100,0,0,50,0,0,110,100,100.0,
+trytond-calendar-todo,203,0,0,128,0,0,226,203,100.0,
+trytond-company,132,0,0,85,0,0,140,132,100.0,
+trytond-company-work-time,18,0,0,5,0,0,23,18,100.0,
+trytond-country,6997,0,0,4910,0,0,7018,6997,100.0,
+trytond-currency,469,0,0,234,0,0,546,469,100.0,
+trytond-dashboard,40,0,0,25,0,0,55,40,100.0,
+trytond-google-maps,2,0,0,1,0,0,3,2,100.0,
+trytond-ldap-authentication,36,0,0,13,0,0,42,36,100.0,
+trytond-ldap-connection,64,0,0,33,0,0,69,64,100.0,
+trytond-party,301,0,0,156,0,0,338,301,100.0,
+trytond-party-siret,10,0,0,5,0,0,16,10,100.0,
+trytond-party-vcarddav,14,0,0,5,0,0,14,14,100.0,
+trytond-product,322,0,0,173,0,0,344,322,100.0,
+trytond-product-cost-fifo,23,0,0,4,0,0,28,23,100.0,
+trytond-product-cost-history,26,0,0,13,0,0,33,26,100.0,
+trytond-product-price-list,68,0,0,33,0,0,87,68,100.0,
+trytond-project,86,0,0,50,0,0,89,86,100.0,
+trytond-project-plan,97,0,0,51,0,0,113,97,100.0,
+trytond-project-revenue,64,0,0,28,0,0,87,64,100.0,
+trytond-purchase,635,0,0,316,0,0,723,635,100.0,
+trytond-purchase-invoice-line-standalone,53,0,0,24,0,0,58,53,100.0,
+trytond-sale,568,0,0,286,0,0,656,568,100.0,
+trytond-sale-opportunity,347,0,0,184,0,0,403,347,100.0,
+trytond-sale-price-list,5,0,0,2,0,0,8,5,100.0,
+trytond-stock,1216,24,24,555,16,6,1448,1264,96.20253164556962,
+trytond-stock-forecast,174,0,0,79,0,0,205,174,100.0,
+trytond-stock-inventory-location,17,0,0,11,0,0,17,17,100.0,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,29,0,0,17,0,0,35,29,100.0,
+trytond-stock-supply,239,0,0,102,0,0,291,239,100.0,
+trytond-stock-supply-day,29,0,0,19,0,0,39,29,100.0,
+trytond-timesheet,256,0,0,123,0,0,291,256,100.0,
+wicd,761,0,377,168,0,86,844,1138,66.87170474516697,es_AR <LL@li.org>
+x-tile,652,76,4,145,4,1,648,732,89.07103825136612,Spanish <MeloPixel>

@@ -1,0 +1,64 @@
+---
+title: "efl - translation progress for f31"
+package: efl
+date: 2026-01-17T22:30:30+00:00
+started_languages: 26
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 26
+release: f31
+---
+The package efl (version 1.22.3):
+
+* represents 294 source words to be translated
+* is translated into 26 languages in Fedora f31
+
+
+* contains 26 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [da]({{< ref "/f31/language/da.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f31/efl/po/da.po | 
+ | [en_IN]({{< ref "/f31/language/en_IN.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f31/efl/src/examples/edje/en_IN/domain_name.po | 
+ | [hi]({{< ref "/f31/language/hi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f31/efl/src/examples/edje/hi_IN/domain_name.po | 
+ | [it]({{< ref "/f31/language/it.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f31/efl/po/it.po | 
+ | [ca]({{< ref "/f31/language/ca.md" >}}) | 291 | 294 | 99.0 | /mnt/stockage/packages/f31/efl/po/ca.po | 
+ | [sl]({{< ref "/f31/language/sl.md" >}}) | 291 | 294 | 99.0 | /mnt/stockage/packages/f31/efl/po/sl.po | 
+ | [vi]({{< ref "/f31/language/vi.md" >}}) | 291 | 294 | 99.0 | /mnt/stockage/packages/f31/efl/po/vi.po | 
+ | [sr]({{< ref "/f31/language/sr.md" >}}) | 280 | 294 | 95.2 | /mnt/stockage/packages/f31/efl/po/sr.po | 
+ | [es]({{< ref "/f31/language/es.md" >}}) | 275 | 294 | 93.5 | /mnt/stockage/packages/f31/efl/po/es.po | 
+ | [pt]({{< ref "/f31/language/pt.md" >}}) | 269 | 294 | 91.5 | /mnt/stockage/packages/f31/efl/po/pt.po | 
+ | [tr]({{< ref "/f31/language/tr.md" >}}) | 269 | 294 | 91.5 | /mnt/stockage/packages/f31/efl/po/tr.po | 
+ | [eo]({{< ref "/f31/language/eo.md" >}}) | 252 | 294 | 85.7 | /mnt/stockage/packages/f31/efl/po/eo.po | 
+ | [fi]({{< ref "/f31/language/fi.md" >}}) | 250 | 294 | 85.0 | /mnt/stockage/packages/f31/efl/po/fi.po | 
+ | [cs]({{< ref "/f31/language/cs.md" >}}) | 238 | 294 | 81.0 | /mnt/stockage/packages/f31/efl/po/cs.po | 
+ | [gl]({{< ref "/f31/language/gl.md" >}}) | 238 | 294 | 81.0 | /mnt/stockage/packages/f31/efl/po/gl.po | 
+ | [pl]({{< ref "/f31/language/pl.md" >}}) | 237 | 294 | 80.6 | /mnt/stockage/packages/f31/efl/po/pl.po | 
+ | [fr]({{< ref "/f31/language/fr.md" >}}) | 235 | 294 | 79.9 | /mnt/stockage/packages/f31/efl/po/fr.po | 
+ | [hu]({{< ref "/f31/language/hu.md" >}}) | 192 | 294 | 65.3 | /mnt/stockage/packages/f31/efl/po/hu.po | 
+ | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 184 | 294 | 62.6 | /mnt/stockage/packages/f31/efl/po/zh_CN.po | 
+ | [el]({{< ref "/f31/language/el.md" >}}) | 173 | 294 | 58.8 | /mnt/stockage/packages/f31/efl/po/el.po | 
+ | [ko]({{< ref "/f31/language/ko.md" >}}) | 147 | 294 | 50.0 | /mnt/stockage/packages/f31/efl/po/ko.po | 
+ | [ru]({{< ref "/f31/language/ru.md" >}}) | 141 | 294 | 48.0 | /mnt/stockage/packages/f31/efl/po/ru.po | 
+ | [de]({{< ref "/f31/language/de.md" >}}) | 118 | 294 | 40.1 | /mnt/stockage/packages/f31/efl/po/de.po | 
+ | [nl]({{< ref "/f31/language/nl.md" >}}) | 118 | 294 | 40.1 | /mnt/stockage/packages/f31/efl/po/nl.po | 
+ | [ja]({{< ref "/f31/language/ja.md" >}}) | 116 | 294 | 39.5 | /mnt/stockage/packages/f31/efl/po/ja.po | 
+ | [lt]({{< ref "/f31/language/lt.md" >}}) | 68 | 294 | 23.1 | /mnt/stockage/packages/f31/efl/po/lt.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+abrt,0,0,2722,0,0,328,0,2722,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+ccsm,399,50,100,101,12,22,424,549,72.6775956284153,Wolof
+debconf,189,0,2,16,0,1,207,191,98.95287958115183,Wolof <debian-boot@lists.debian.org>
+iso-codes,1041,43,24,437,12,6,1065,1108,93.95306859205776,Wolof
+klavaro,1903,0,9,229,0,3,2164,1912,99.52928870292888,Wolof <wo@li.org>
+libreport,0,0,3139,0,0,417,0,3139,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+liveusb-creator,0,0,480,0,0,52,0,480,0.0,Wolof (http://www.transifex.com/projects/p/fedora/language/wo/)
+newt,4,0,0,4,0,0,4,4,100.0,Wolof
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+pootle,126,192,2106,60,42,357,203,2424,5.198019801980198,LANGUAGE <LL@li.org>
+sugar-browse,0,0,134,0,0,41,0,134,0.0,LANGUAGE <LL@li.org>
+tuxpaint,421,626,200,127,76,49,483,1247,33.76102646351243,
+tuxtype2,71,0,9,32,0,8,87,80,88.75,
+vidalia,0,0,10377,0,0,1301,0,10377,0.0,LANGUAGE <LL@li.org>

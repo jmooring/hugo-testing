@@ -1,0 +1,45 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,42,0,0,16,0,0,44,42,100.0,FRIULIAN <massimo.furlani@libero.it>
+baobab,171,0,1,52,0,1,188,172,99.4186046511628,Friulian <fur@li.org>
+calibre,46,0,44292,9,0,4632,50,44338,0.10374847760386124,Friulian <fur@li.org>
+eog,1183,17,5,274,4,2,1409,1205,98.17427385892115,Friulian language team
+file-roller,967,368,0,217,81,0,1129,1335,72.43445692883896,Friulian Language Team
+gdm,154,11,1132,43,9,175,186,1297,11.87355435620663,FRIULIAN <massimo.furlani@libero.it>
+gnome-backgrounds,18,0,0,9,0,0,19,18,100.0,Friulian <massimo.furlani@libero.it>
+gnome-desktop,288,0,0,70,0,0,367,288,100.0,Friulian <massimo.furlani@libero.it>
+gnome-desktop3,207,0,34,23,0,12,241,241,85.89211618257261,Friulian <massimo.furlani@libero.it>
+gnome-icon-theme,43,0,0,38,0,0,44,43,100.0,FRIULIAN <massimo.furlani@libero.it>
+gnome-menus,165,0,0,58,0,0,204,165,100.0,FRIULIAN <massimo.furlani@libero.it>
+gnome-panel,3319,31,1372,561,7,91,3851,4722,70.28801355357899,FRIULIAN <massimo.furlani@libero.it>
+gnome-session,897,0,2,129,0,1,1029,899,99.77753058954394,Friulian <massimo.furlani@libero.it>
+gnome-terminal,3989,0,672,436,0,65,4362,4661,85.58249302724738,Friulian <massimo.furlani@libero.it>
+gnome-themes,85,0,0,26,0,0,102,85,100.0,Friulian <massimo.furlani@libero.it>
+gnome-themes-standard,11,0,1,4,0,1,13,12,91.66666666666666,Friulian <fur@li.org>
+gtk2-engines,99,0,0,45,0,0,138,99,100.0,FRIULIAN <massimo.furlani@libero.it>
+libgnome,1082,0,572,186,0,69,1295,1654,65.41717049576783,FRIULIAN <massimo.furlani@libero.it>
+libgnomeprintui22,403,0,78,141,0,13,439,481,83.78378378378379,Friulian Language Team
+libgnomeui,1309,0,0,334,0,0,1487,1309,100.0,Friulian <massimo.furlani@libero.it>
+libmate,810,0,963,159,0,114,971,1773,45.68527918781726,LANGUAGE <LL@li.org>
+libmateui,1223,0,0,319,0,0,1391,1223,100.0,LANGUAGE <LL@li.org>
+libsoup,51,0,0,14,0,0,82,51,100.0,Friulian <fur@li.org>
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,FRIULIAN <massimo.furlani@libero.it>
+mate-backgrounds,4,0,26,2,0,19,4,30,13.333333333333334,LANGUAGE <LL@li.org>
+mate-desktop,56,0,351,13,0,30,72,407,13.75921375921376,LANGUAGE <LL@li.org>
+mate-file-archiver,1144,0,0,257,0,0,1301,1144,100.0,Friulian Language Team
+mate-file-manager,2656,0,6430,651,0,825,2924,9086,29.231785163988555,LANGUAGE <LL@li.org>
+mate-icon-theme,43,0,0,38,0,0,44,43,100.0,FRIULIAN <massimo.furlani@libero.it>
+mate-image-viewer,977,0,646,220,0,95,1144,1623,60.19716574245225,LANGUAGE <LL@li.org>
+mate-menu-editor,42,0,0,16,0,0,44,42,100.0,LANGUAGE <LL@li.org>
+mate-menus,165,0,0,58,0,0,204,165,100.0,FRIULIAN <massimo.furlani@libero.it>
+mate-panel,2541,0,1696,416,0,166,2941,4237,59.971678074109036,LANGUAGE <LL@li.org>
+mate-session-manager,897,0,2,129,0,1,1029,899,99.77753058954394,Friulian <massimo.furlani@libero.it>
+mate-terminal,3989,0,672,436,0,65,4362,4661,85.58249302724738,Friulian <massimo.furlani@libero.it>
+mate-themes,75,0,34,19,0,11,89,109,68.80733944954129,LANGUAGE <LL@li.org>
+mingw-libsoup,51,0,0,14,0,0,82,51,100.0,Friulian <fur@li.org>
+nautilus,3256,5,4371,762,3,498,3589,7632,42.662473794549264,Friulian Language Team
+nemo,3256,5,4371,762,3,498,3589,7632,42.662473794549264,Friulian Language Team
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+poedit,857,330,338,206,89,59,1015,1525,56.19672131147541,Klenje <adecorte@fastwebnet.it>
+pootle,820,69,1535,242,11,206,963,2424,33.82838283828383,LANGUAGE <LL@li.org>
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net
+yelp,307,0,728,103,0,246,344,1035,29.66183574879227,Friulian Language Team

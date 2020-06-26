@@ -1,0 +1,19 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+alacarte,74,0,0,30,0,0,75,74,100.0,Kikongo <lundombe01@zaya-dio.com>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+bzflag,97,0,0,59,0,0,85,97,100.0,
+chromium,0,0,0,0,0,0,0,0,0.0,
+cinnamon-desktop,205,0,26,22,0,9,226,231,88.74458874458875,"Kikongo, kg <lundombe01@zaya-dio.com>"
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+gnome-desktop3,384,0,0,49,0,0,392,384,100.0,"Kikongo, kg <lundombe01@zaya-dio.com>"
+gnome-menus,125,0,0,46,0,0,135,125,100.0,Kikongo <lundombe01@zaya-dio.com>
+granite,0,0,498,0,0,118,0,498,0.0,
+gtk3,3245,748,9290,983,278,1470,3196,13283,24.429722201309943,GNOME kikongo Team <lundombe01@zaya-dio.com>
+gtk4,3230,118,514,971,21,73,3181,3862,83.63542206110823,GNOME kikongo Team <lundombe01@zaya-dio.com>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+mingw-gtk3,3245,748,9290,983,278,1470,3196,13283,24.429722201309943,GNOME kikongo Team <lundombe01@zaya-dio.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+xdg-user-dirs-gtk,81,0,0,11,0,0,55,81,100.0,kikongo <lundombe01@zaya-dio.com>

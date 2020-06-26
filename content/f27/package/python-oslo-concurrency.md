@@ -1,0 +1,42 @@
+---
+title: "python-oslo-concurrency - translation progress for f27"
+package: python-oslo-concurrency
+date: 2026-01-17T18:33:40+00:00
+started_languages: 4
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 10
+release: f27
+---
+The package python-oslo-concurrency (version 3.18.0):
+
+* represents 113 source words to be translated
+* is translated into 4 languages in Fedora f27
+
+
+* contains 10 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [de]({{< ref "/f27/language/de.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f27/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f27/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency.po | 
+ | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f27/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f27/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f27/python-oslo-concurrency/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es]({{< ref "/f27/language/es.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f27/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f27/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency.po | 
+ | [fr]({{< ref "/f27/language/fr.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f27/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f27/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f27/python-oslo-concurrency/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

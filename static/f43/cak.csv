@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+python-sphinx,81,0,5718,41,0,817,90,5799,1.396792550439731,Kaqchikel (http://app.transifex.com/sphinx-doc/sphinx-1/language/cak/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Kaqchikel (https://www.transifex.com/sphinx-doc/teams/36659/cak/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Kaqchikel (https://www.transifex.com/sphinx-doc/teams/36659/cak/)

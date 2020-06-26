@@ -1,0 +1,82 @@
+---
+title: "kf6-kcolorscheme - translation progress for f43"
+package: kf6-kcolorscheme
+date: 2026-01-18T13:52:14+00:00
+started_languages: 44
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 44
+release: f43
+---
+The package kf6-kcolorscheme (version 6.22.0):
+
+* represents 1 source words to be translated
+* is translated into 44 languages in Fedora f43
+
+
+* contains 44 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ar]({{< ref "/f43/language/ar.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ar/kcolorscheme6.po | 
+ | [be]({{< ref "/f43/language/be.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/be/kcolorscheme6.po | 
+ | [bg]({{< ref "/f43/language/bg.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/bg/kcolorscheme6.po | 
+ | [ca]({{< ref "/f43/language/ca.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ca/kcolorscheme6.po | 
+ | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ca@valencia/kcolorscheme6.po | 
+ | [cs]({{< ref "/f43/language/cs.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/cs/kcolorscheme6.po | 
+ | [de]({{< ref "/f43/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/de/kcolorscheme6.po | 
+ | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/en_GB/kcolorscheme6.po | 
+ | [eo]({{< ref "/f43/language/eo.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/eo/kcolorscheme6.po | 
+ | [es]({{< ref "/f43/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/es/kcolorscheme6.po | 
+ | [eu]({{< ref "/f43/language/eu.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/eu/kcolorscheme6.po | 
+ | [fa]({{< ref "/f43/language/fa.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/fa/kcolorscheme6.po | 
+ | [fi]({{< ref "/f43/language/fi.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/fi/kcolorscheme6.po | 
+ | [fr]({{< ref "/f43/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/fr/kcolorscheme6.po | 
+ | [gl]({{< ref "/f43/language/gl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/gl/kcolorscheme6.po | 
+ | [he]({{< ref "/f43/language/he.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/he/kcolorscheme6.po | 
+ | [hi]({{< ref "/f43/language/hi.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/hi/kcolorscheme6.po | 
+ | [hu]({{< ref "/f43/language/hu.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/hu/kcolorscheme6.po | 
+ | [ia]({{< ref "/f43/language/ia.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ia/kcolorscheme6.po | 
+ | [is]({{< ref "/f43/language/is.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/is/kcolorscheme6.po | 
+ | [it]({{< ref "/f43/language/it.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/it/kcolorscheme6.po | 
+ | [ka]({{< ref "/f43/language/ka.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ka/kcolorscheme6.po | 
+ | [ko]({{< ref "/f43/language/ko.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ko/kcolorscheme6.po | 
+ | [lt]({{< ref "/f43/language/lt.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/lt/kcolorscheme6.po | 
+ | [lv]({{< ref "/f43/language/lv.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/lv/kcolorscheme6.po | 
+ | [nl]({{< ref "/f43/language/nl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/nl/kcolorscheme6.po | 
+ | [nn]({{< ref "/f43/language/nn.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/nn/kcolorscheme6.po | 
+ | [pa]({{< ref "/f43/language/pa.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/pa/kcolorscheme6.po | 
+ | [pl]({{< ref "/f43/language/pl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/pl/kcolorscheme6.po | 
+ | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/pt_BR/kcolorscheme6.po | 
+ | [ro]({{< ref "/f43/language/ro.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ro/kcolorscheme6.po | 
+ | [ru]({{< ref "/f43/language/ru.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ru/kcolorscheme6.po | 
+ | [sa]({{< ref "/f43/language/sa.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/sa/kcolorscheme6.po | 
+ | [sk]({{< ref "/f43/language/sk.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/sk/kcolorscheme6.po | 
+ | [sl]({{< ref "/f43/language/sl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/sl/kcolorscheme6.po | 
+ | [sv]({{< ref "/f43/language/sv.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/sv/kcolorscheme6.po | 
+ | [ta]({{< ref "/f43/language/ta.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ta/kcolorscheme6.po | 
+ | [tr]({{< ref "/f43/language/tr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/tr/kcolorscheme6.po | 
+ | [uk]({{< ref "/f43/language/uk.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/uk/kcolorscheme6.po | 
+ | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/zh_CN/kcolorscheme6.po | 
+ | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/zh_TW/kcolorscheme6.po | 
+ | [ast]({{< ref "/f43/language/ast.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ast/kcolorscheme6.po | 
+ | [ga]({{< ref "/f43/language/ga.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ga/kcolorscheme6.po | 
+ | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f43/kf6-kcolorscheme/po/ja/kcolorscheme6.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

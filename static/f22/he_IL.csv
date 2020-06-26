@@ -1,0 +1,14 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+boost,1,0,0,1,0,0,1,1,100.0,
+clementine,0,0,5091,0,0,1352,0,5091,0.0,Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/)
+glpi,4295,0,6341,1417,0,1388,3945,10636,40.381722452049644,Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/)
+gnome-clocks,223,0,0,77,0,0,238,223,100.0,עברית <>
+gnome-color-manager,1793,0,0,343,0,0,1604,1793,100.0,עברית <>
+gnome-contacts,411,0,0,156,0,0,475,411,100.0,עברית <>
+konversation,5677,710,3848,1309,102,218,5442,10235,55.46653639472399,Hebrew <kde-i18n-doc@kde.org>
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+poedit,1185,0,1276,336,0,188,1094,2461,48.1511580658269,Hebrew
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+rygel,971,66,103,206,10,13,975,1140,85.17543859649123,עברית <>
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>
+wxPython,360,4,2093,133,4,600,360,2457,14.652014652014653,Hebrew <he@li.org>

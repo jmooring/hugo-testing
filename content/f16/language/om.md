@@ -1,0 +1,60 @@
+---
+title: "om-Oromo (Oromoo) - translation progress for f16"
+date: 2026-01-20T02:38:28+00:00
+code: om
+name_english: Oromo
+name_local: Oromoo
+progress: 93.60
+progress_d: 5.15
+release: f16
+territories:
+ - ET
+ - KE
+ - SO
+polib_error_count: 0
+could_not_process_count: 277
+---
+
+Language progress for Oromo (om) in Fedora f16 is:
+
+* 93.60% when we only look on started packages for this language.
+* 5.15% when we compare to every single translatable string in Fedora f16.
+
+Possible scripts are: LatnEthi
+
+* Total translatable string in Fedora f16: 9698971
+* Source words to translate in started packages: 533994
+* Translated words: 499805
+
+
+Download:
+
+
+
+
+* [om generated stats (257 Bytes)]({{% resource url="/f16/om.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 499805 | 533994 | 93.6 | LANGUAGE <LL@li.org> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

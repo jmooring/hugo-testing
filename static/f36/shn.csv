@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,2,0,170,2,0,37,2,172,1.1627906976744187,Shan <shn@li.org>
+cinnamon-translations,49,0,18254,32,0,4094,53,18303,0.267715675025952,Shan <shn@li.org>
+deja-dup,0,0,1623,0,0,285,0,1623,0.0,Shan <shn@li.org>
+fragments,4,0,2002,4,0,522,8,2006,0.19940179461615154,Shan <shn@li.org>
+lightdm,0,0,163,0,0,21,0,163,0.0,Shan <shn@li.org>
+onboard,0,0,2318,0,0,510,0,2318,0.0,Shan <shn@li.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-hyperkitty,0,0,926,0,0,263,0,926,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+remmina,3,26,5250,1,16,967,3,5279,0.056828944875923465,Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/>
+shutter,361,0,2253,103,0,415,274,2614,13.810252486610558,Shan <shn@li.org>
+simple-scan,4,0,585,4,0,141,8,589,0.6791171477079796,Shan <shn@li.org>
+slick-greeter,60,0,151,24,0,23,39,211,28.436018957345972,Shan <shn@li.org>
+transmission,4,0,2437,4,0,581,8,2441,0.1638672675133142,Shan <shn@li.org>

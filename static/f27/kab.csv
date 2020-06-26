@@ -1,0 +1,22 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,141,0,0,34,0,0,152,141,100.0,Kabyle <kab@li.org>
+cinnamon-translations,7392,0,14162,2187,0,2640,8210,21554,34.29525842071077,Kabyle <kab@li.org>
+elementary-calculator,3,0,49,3,0,29,11,52,5.769230769230769,Kabyle <kab@li.org>
+filezilla,9713,147,48,1671,22,4,10866,9908,98.03189341945902,Yacine Bouklif <yacine2953-asuqqel@yahoo.fr>
+gdm,650,0,0,87,0,0,752,650,100.0,GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr>
+lightdm-settings,36,0,235,18,0,41,41,271,13.284132841328415,Kabyle <kab@li.org>
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Kabyle (https://www.transifex.com/mate/teams/13566/kab/)
+mintmenu,2231,0,5241,577,0,651,2373,7472,29.85813704496788,Kabyle <kab@li.org>
+nemo-extensions,8,0,0,2,0,0,8,8,100.0,Kabyle <kab@li.org>
+openerp,6,0,10710,5,0,1567,7,10716,0.055991041433370664,Kabyle <kab@li.org>
+openerp7,5,0,10652,4,0,1607,6,10657,0.0469175190015952,Kabyle <kab@li.org>
+pantheon-calculator,3,0,49,3,0,29,11,52,5.769230769230769,Kabyle <kab@li.org>
+pix,1024,0,2694,388,0,814,1143,3718,27.541689080150615,Kabyle <kab@li.org>
+poedit,2639,0,0,591,0,0,2706,2639,100.0,Kabyle
+slick-greeter,19,0,192,7,0,40,27,211,9.004739336492891,Kabyle <kab@li.org>
+stellarium,26,0,67014,13,0,26218,30,67040,0.038782816229116945,Kabyle (https://www.transifex.com/stellarium/teams/80998/kab/)
+sugar-read,49,0,88,16,0,34,46,137,35.76642335766424,LANGUAGE <LL@li.org>
+xed,1086,0,3521,244,0,745,1128,4607,23.572823963533754,Kabyle <kab@li.org>
+xplayer,211,0,1746,94,0,399,224,1957,10.781808891159939,Kabyle <kab@li.org>
+xreader,377,0,1265,104,0,268,431,1642,22.959805115712545,Kabyle <kab@li.org>
+xviewer,269,0,1408,116,0,208,304,1677,16.040548598688133,Kabyle <kab@li.org>

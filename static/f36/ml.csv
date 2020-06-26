@@ -1,0 +1,649 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4074,0,0,496,0,0,3459,4074,100.0,Swatantra Malayalam Computing
+NetworkManager,3776,4049,20626,659,665,908,3185,28451,13.271941232294122,Malayalam <discuss@lists.smc.org.in>
+PackageKit,877,0,0,239,0,0,740,877,100.0,Malayalam (http://www.transifex.com/freedesktop/packagekit/language/ml/)
+abattis-cantarell-fonts,27,0,0,3,0,0,25,27,100.0,Malayalam <l10n@lists.smc.org.in>
+abrt,2109,118,1449,271,18,128,1666,3676,57.372143634385196,Malayalam (http://www.transifex.com/projects/p/fedora-abrt/language/ml/)
+accerciser,598,0,0,221,0,0,524,598,100.0,Swatantra Malayalam Computing
+accountsservice,0,0,59,0,0,10,0,59,0.0,Malayalam (http://www.transifex.com/freedesktop/accountsservice/language/ml/)
+aisleriot,2979,18,0,652,2,0,2070,2997,99.3993993993994,Swatantra Malayalam Computing
+alacarte,42,0,0,16,0,0,40,42,100.0,Swathanthra Malayalam Computing|സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+alleyoop,16,0,327,14,0,73,16,343,4.664723032069971,Malayalam <locale@gnu.org.in>
+anaconda,2100,364,5775,403,72,895,1666,8239,25.48853016142736,Malayalam <https://translate.fedoraproject.org/projects/anaconda/master/ml/>
+analitza,44,0,948,8,3,211,34,992,4.435483870967742,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+android-tools,5868,558,1252,842,111,125,4819,7678,76.42615264391769,Malayalam <discuss@lists.smc.org.in>
+anjuta,3993,1674,2731,1165,397,497,3338,8398,47.54703500833532,Swatantra Malayalam Computing
+artikulate,65,22,245,48,13,86,68,332,19.57831325301205,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+asunder,13,0,479,12,0,79,14,492,2.642276422764228,http://littlesvr.ca/ostd/
+at-spi2-core,10,0,0,2,0,0,9,10,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+atk,398,0,0,139,0,0,333,398,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+atomix,18,0,107,10,0,34,18,125,14.399999999999999,Malayalam <locale@gnu.org.in>
+atril,931,0,3460,299,0,438,855,4391,21.202459576406284,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+audacious,384,0,475,192,0,167,374,859,44.70314318975553,Malayalam (India) (http://www.transifex.com/audacious/audacious/language/ml_IN/)
+audacious-plugins,997,0,3257,480,0,505,952,4254,23.436765397273156,Malayalam (India) (http://www.transifex.com/audacious/audacious/language/ml_IN/)
+baloo-widgets,50,0,17,30,0,10,53,67,74.6268656716418,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+balsa,1447,1125,2776,559,328,400,1308,5348,27.056843679880327,Malayalam <locale@gnu.org.in>
+baobab,247,0,0,65,0,0,222,247,100.0,Swatantra Malayalam Computing
+bijiben,257,23,145,118,4,17,263,425,60.47058823529412,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+blinken,118,13,3,42,4,1,108,134,88.05970149253731,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>
+blueberry,27,0,145,8,0,31,22,172,15.69767441860465,Malayalam <ml@li.org>
+bluedevil,81,38,310,36,11,84,70,429,18.88111888111888,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+bomber,65,9,36,20,1,6,56,110,59.09090909090909,SMC <smc.org.in>
+bookworm,96,20,679,19,3,127,78,795,12.075471698113208,Malayalam <https://hosted.weblate.org/projects/bookworm/bookworm/ml/>
+bovo,2,0,79,1,0,24,4,81,2.4691358024691357,SMC <smc.org.in>
+brasero,5549,0,0,969,0,0,4202,5549,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+budgie-control-center,4761,0,3132,1853,0,667,4301,7893,60.319270239452685,Malayalam (https://www.transifex.com/buddiesofbudgie/teams/129844/ml/)
+budgie-screensaver,270,0,0,54,0,0,202,270,100.0,Malayalam <discuss@lists.smc.org.in>
+caja,6879,0,2796,1262,0,342,5075,9675,71.10077519379846,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+caja-actions,135,0,18680,82,0,1434,144,18815,0.7175126229072548,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+caja-extensions,118,0,642,38,0,107,108,760,15.526315789473685,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+calamares,9,0,512,4,0,87,11,521,1.727447216890595,Malayalam (https://www.transifex.com/calamares/teams/20061/ml/)
+calibre,364,0,170603,86,0,19245,328,170967,0.2129065843115923,Malayalam (http://www.transifex.com/calibre/calibre/language/ml/)
+calligra,4658,6701,11300,2134,1074,558,4432,22659,20.556953087073566,SMC <smc.org.in>
+camorama,3,2,830,3,2,164,9,835,0.3592814371257485,Malayalam <locale@gnu.org.in>
+cantor,6,3,4035,5,2,731,12,4044,0.1483679525222552,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+caribou,171,0,0,57,0,0,143,171,100.0,Malayalam <discuss@lists.smc.org.in>
+catfish,13,0,670,7,0,105,12,683,1.903367496339678,Malayalam <ml@li.org>
+ccsm,295,5,291,76,3,84,249,591,49.91539763113367,Malayalam (India) <ml_IN@li.org>
+cheese,614,0,0,123,0,0,477,614,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+chkconfig,500,53,40,92,8,8,419,593,84.31703204047217,Malayalam <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/ml/>
+cinnamon-control-center,1313,0,0,756,0,0,1312,1313,100.0,<en@li.org>
+cinnamon-desktop,231,0,3,31,0,1,184,234,98.71794871794873,Malayalam <discuss@lists.smc.org.in>
+cinnamon-translations,7398,0,14384,1732,0,3093,5990,21782,33.963823340372784,Malayalam <ml@li.org>
+clutter,912,24,2121,276,6,393,699,3057,29.83316977428852,Swatantra Malayalam Computing
+cogl,37,78,278,13,28,39,36,393,9.414758269720101,Swatantra Malayalam Computing
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,25,0,363,8,0,91,24,388,6.443298969072164,LANGUAGE <LL@li.org>
+console-setup,967,15,2,177,1,1,671,984,98.27235772357723,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+cpu-x,79,23,1272,13,4,286,71,1374,5.749636098981077,Malayalam <https://hosted.weblate.org/projects/cpu-x/translations/ml/>
+cracklib,93,0,3,15,0,1,52,96,96.875,Malayalam
+dasher,615,0,0,212,0,0,593,615,100.0,<en@li.org>
+dconf-editor,697,29,1853,165,1,128,574,2579,27.0259790616518,Swatantra Malayalam Computing
+debconf,191,0,0,17,0,0,98,191,100.0,Swathanthra Malayalam Computing <smc-discuss@googlegroups.com>
+deepin-daemon,4,0,1099,4,0,240,4,1103,0.3626473254759746,Malayalam (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/ml/)
+deja-dup,1,0,1622,1,0,284,6,1623,0.06161429451632779,Malayalam <ml@li.org>
+deluge,13,0,4327,11,0,1322,13,4340,0.2995391705069125,Malayalam <ml@li.org>
+devhelp,415,0,0,108,0,0,351,415,100.0,Swatantra Malayalam Computing
+dia,169,320,5222,154,201,1691,178,5711,2.9592015408860095,Malayalam <en@li.org>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+dnf,35,30,4374,13,5,839,42,4439,0.7884658706915972,Malayalam
+dolphin,1926,852,2423,413,195,151,1516,5201,37.03134012689867,Malayalam <https://kde.smc.org.in/projects/dolphin/dolphin/ml/>
+drgeo,39,2,1944,39,2,420,40,1985,1.964735516372796,Malayalam <locale@gnu.org.in>
+elementary-capnet-assist,44,0,46,9,0,7,36,90,48.888888888888886,Malayalam <https://l10n.elementary.io/projects/desktop/capnet-assist/ml/>
+elementary-code,0,0,1608,0,0,307,0,1608,0.0,Malayalam <ml@li.org>
+elementary-files,0,0,3669,0,0,664,0,3669,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,4,0,215,2,0,46,5,219,1.82648401826484,Malayalam <ml@li.org>
+elementary-icon-theme,2,0,261,1,0,71,2,263,0.7604562737642585,Malayalam <https://l10n.elementary.io/projects/desktop/icons-extra/ml/>
+elementary-mail,0,0,658,0,0,153,0,658,0.0,
+elementary-music,0,0,1205,0,0,354,0,1205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,2,0,48,1,0,13,2,50,4.0,Malayalam <https://l10n.elementary.io/projects/desktop/notifications-extra/ml/>
+elementary-photos,2393,706,912,567,88,163,2086,4011,59.66093243580155,Malayalam (http://www.transifex.com/projects/p/shotwell/language/ml/)
+elementary-screenshot-tool,0,0,248,0,0,60,0,248,0.0,LANGUAGE <LL@li.org>
+elementary-settings-daemon,2,0,24,1,0,3,2,26,7.6923076923076925,Malayalam <https://l10n.elementary.io/projects/desktop/settings-daemon/ml/>
+elementary-shortcut-overlay,0,0,130,0,0,45,0,130,0.0,none
+elementary-sideload,0,0,319,0,0,61,0,319,0.0,none
+elementary-tasks,0,0,394,0,0,79,0,394,0.0,none
+elementary-terminal,0,0,696,0,0,126,0,696,0.0,
+elementary-theme,0,0,63,0,0,10,0,63,0.0,none
+elementary-videos,0,0,391,0,0,96,0,391,0.0,Malayalam <ml@li.org>
+engrampa,1063,0,6859,254,0,639,860,7922,13.418328704872506,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+entangle,0,0,953,0,0,229,0,953,0.0,Malayalam
+eog,1675,0,0,327,0,0,1278,1675,100.0,Swatantra Malayalam Computing
+eog-plugins,79,0,0,27,0,0,72,79,100.0,Swathanthra Malayalam Computing|സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <smc-discuss@googlegroups.com>
+eom,1014,0,3944,252,0,290,844,4958,20.45179507866075,Malayalam (https://app.transifex.com/mate/teams/13566/ml/)
+epiphany,988,763,1848,360,150,187,894,3599,27.45207001944985,<discuss@lists.smc.org.in>
+evince,1523,0,0,368,0,0,1269,1523,100.0,American English <kde-i18n-doc@kde.org>
+evolution,10826,8298,7119,3298,1458,608,9303,26243,41.25290553671455,Malayalam <discuss@lists.smc.org.in>
+evolution-data-server,2924,1691,1819,699,338,215,2671,6434,45.446067764998446,Swatantra Malayalam Computing
+evolution-mapi,1034,0,0,231,0,0,907,1034,100.0,Malayalam <discuss@lists.smc.org.in>
+evolution-rss,693,0,0,190,0,0,630,693,100.0,<en@li.org>
+exaile,88,26,4054,28,9,1055,84,4168,2.111324376199616,Malayalam <ml@li.org>
+fcitx-table-other,2,0,22,2,0,20,2,24,8.333333333333332,Malayalam (http://www.transifex.com/projects/p/fcitx/language/ml/)
+fcitx5-table-other,0,2,98,0,1,33,0,100,0.0,Malayalam (http://www.transifex.com/projects/p/fcitx/language/ml/)
+file-roller,1325,0,0,292,0,0,1034,1325,100.0,Swatantra Malayalam Computing
+firewalld,1486,10,721,292,1,122,1158,2217,67.02751465944971,Malayalam (http://www.transifex.com/projects/p/firewalld/language/ml/)
+five-or-more,465,0,0,101,0,0,430,465,100.0,<discuss@lists.smc.org.in>
+folks,1056,0,0,130,0,0,828,1056,100.0,American English <discuss@lists.smc.org.in>
+fontforge,23,0,0,19,0,0,24,23,100.0,Malayalam
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Malayalam
+four-in-a-row,427,0,0,106,0,0,399,427,100.0,<discuss@lists.smc.org.in>
+fprintd,0,0,433,0,0,60,0,433,0.0,Malayalam (http://www.transifex.com/freedesktop/fprintd/language/ml/)
+fragments,170,0,1836,89,0,437,206,2006,8.47457627118644,Malayalam (https://www.transifex.com/transmissionbt/teams/33778/ml/)
+gala,5,0,353,3,0,70,6,358,1.3966480446927374,Malayalam <https://l10n.elementary.io/projects/desktop/gala/ml/>
+gcompris-qt,32519,6,43,3615,1,4,22636,32568,99.84954556619995,Malayalam <kde-i18n-doc@kde.org>
+gconf-editor,336,0,0,98,0,0,356,336,100.0,Swathanthra Malayalam Computing|സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <smc-discuss@googlegroups.com>
+gcr,461,43,174,195,9,38,415,678,67.99410029498524,Swatantra Malayalam Computing
+gdk-pixbuf2,1354,0,0,202,0,0,1111,1354,100.0,Swatantra Malayalam Computing
+gdm,629,0,0,88,0,0,480,629,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gedit,4271,0,0,721,0,0,3425,4271,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gedit-plugins,959,199,515,400,61,48,954,1673,57.32217573221757,<smc-discuss@googlegroups.com>
+genius,24,0,3044,23,0,478,29,3068,0.7822685788787485,Malayalam <locale@gnu.org.in>
+gftp,61,8,2986,54,6,488,65,3055,1.9967266775777415,Malayalam <locale@gnu.org.in>
+ggz-base-libs,74,0,0,17,0,0,56,74,100.0,Malayalam
+ghex,133,6,655,73,2,149,122,794,16.750629722921914,Malayalam <locale@gnu.org.in>
+gimp,960,891,11989,375,444,2497,881,13840,6.9364161849710975,Malayalam <locale@gnu.org.in>
+gitg,126,0,1908,62,0,303,140,2034,6.1946902654867255,Malayalam <l10n@lists.smc.org.in>
+glade,2264,1503,3098,837,424,513,2070,6865,32.97887836853605,<en@li.org>
+glade2,165,110,5565,115,39,1146,145,5840,2.8253424657534243,Malayalam <locale@gnu.org.in>
+glib-networking,163,0,0,29,0,0,137,163,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+glib2,3073,333,2058,587,42,235,2653,5464,56.24084919472914,American English <kde-i18n-doc@kde.org>
+gnome-abrt,96,4,121,22,2,31,69,221,43.43891402714932,Malayalam (http://www.transifex.com/projects/p/gnome-abrt/language/ml/)
+gnome-activity-journal,206,0,110,52,0,42,175,316,65.18987341772153,Malayalam <ml@li.org>
+gnome-applets,3367,0,0,791,0,0,2897,3367,100.0,<en@li.org>
+gnome-bluetooth,373,0,0,111,0,0,320,373,100.0,<smc-discuss@googlegroups.com>
+gnome-bluetooth3.34,373,0,0,111,0,0,320,373,100.0,<smc-discuss@googlegroups.com>
+gnome-books,655,0,0,208,0,0,567,655,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-boxes,1171,0,89,281,0,9,1072,1260,92.93650793650794,American English <kde-i18n-doc@kde.org>
+gnome-builder,446,1137,2914,258,380,521,469,4497,9.917722926395376,Malayalam <l10n@lists.smc.org.in>
+gnome-calculator,1078,0,0,334,0,0,854,1078,100.0,Swatantra Malayalam Computing
+gnome-calendar,669,0,0,220,0,0,598,669,100.0,Malayalam <l10n@lists.smc.org.in>
+gnome-characters,186,0,0,58,0,0,158,186,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-chess,1412,0,0,239,0,0,1120,1412,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-clocks,283,0,0,100,0,0,278,283,100.0,Swatantra Malayalam Computing
+gnome-color-manager,1304,2,976,263,2,102,1052,2282,57.14285714285714,Swatantra Malayalam Computing
+gnome-contacts,344,0,0,151,0,0,316,344,100.0,Swatantra Malayalam Computing
+gnome-control-center,5649,318,575,2142,44,70,5068,6542,86.34974014062978,<en@li.org>
+gnome-desktop3,152,0,0,27,0,0,132,152,100.0,Swatantra Malayalam Computing
+gnome-dictionary,664,0,0,141,0,0,514,664,100.0,Malayalam <discuss@lists.smc.org.in>
+gnome-disk-utility,3863,0,0,737,0,0,2984,3863,100.0,American English <kde-i18n-doc@kde.org>
+gnome-do,273,0,339,85,0,59,239,612,44.6078431372549,Malayalam <ml@li.org>
+gnome-doc-utils,249,0,0,99,0,0,247,249,100.0,<en@li.org>
+gnome-extensions-app,1841,0,0,425,0,0,1511,1841,100.0,American English <kde-i18n-doc@kde.org>
+gnome-font-viewer,347,0,180,129,0,72,369,527,65.84440227703985,Swatantra Malayalam Computing
+gnome-icon-theme,43,0,0,38,0,0,42,43,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+gnome-initial-setup,848,0,0,122,0,0,636,848,100.0,Swatantra Malayalam Computing
+gnome-keyring,509,0,0,103,0,0,403,509,100.0,Malayalam <discuss@lists.smc.org.in>
+gnome-klotski,120,0,0,57,0,0,128,120,100.0,Malayalam team
+gnome-logs,378,0,0,124,0,0,331,378,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-mahjongg,170,0,0,53,0,0,168,170,100.0,Malayalam team
+gnome-maps,517,3,716,182,2,130,461,1236,41.82847896440129,Malayalam <l10n@lists.smc.org.in>
+gnome-menus,70,0,0,27,0,0,56,70,100.0,Malayalam <discuss@lists.smc.org.in>
+gnome-mime-data,18,287,545,13,136,199,17,850,2.1176470588235294,Malayalam <locale@gnu.org.in>
+gnome-mines,245,0,99,69,0,3,235,344,71.22093023255815,Malayalam team
+gnome-music,318,210,1,112,1,1,294,529,60.113421550094515,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-nettool,664,0,0,219,0,0,637,664,100.0,Swatantra Malayalam Computing
+gnome-nibbles,294,0,124,101,0,4,285,418,70.33492822966507,Malayalam team
+gnome-online-accounts,658,0,0,146,0,0,525,658,100.0,Swatantra Malayalam Computing
+gnome-packagekit,5034,0,0,811,0,0,3742,5034,100.0,Swatantra Malayalam Computing
+gnome-panel,3459,33,28,503,1,4,2478,3520,98.26704545454545,Malayalam <discuss@lists.smc.org.in>
+gnome-phone-manager,385,0,174,76,0,21,281,559,68.87298747763863,Swatantra Malayalam Computing<discuss@lists.smc.org.in>
+gnome-photos,561,0,0,218,0,0,536,561,100.0,Malayalam <l10n@lists.smc.org.in>
+gnome-power-manager,433,0,0,145,0,0,345,433,100.0,Malayalam <discuss@lists.smc.org.in>
+gnome-robots,742,25,56,158,3,2,626,823,90.15795868772783,Swathanthra Malayalam Computing
+gnome-screenshot,456,0,0,79,0,0,374,456,100.0,Swatantra Malayalam Computing
+gnome-search-tool,1249,0,0,186,0,0,971,1249,100.0,Swatantra Malayalam Computing
+gnome-session,364,0,0,58,0,0,294,364,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-settings-daemon,1678,257,981,290,35,69,1295,2916,57.54458161865569,<en@li.org>
+gnome-shell,1841,0,0,425,0,0,1511,1841,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell-extensions,388,0,0,70,0,0,301,388,100.0,സ്വതന്ത്രമലയാളം കമ്പ്യൂട്ടിങ്ങ് <l10n@smc.org.in>
+gnome-shell-frippery,19,0,0,7,0,0,17,19,100.0,Swathanthra Malayalam Computing <smc-discuss@googlegroups.com>
+gnome-software,3784,0,0,780,0,0,3050,3784,100.0,Malayalam <l10n@lists.smc.org.in>
+gnome-sound-recorder,292,0,0,73,0,0,231,292,100.0,Malayalam <l10n@lists.smc.org.in>
+gnome-sudoku,272,53,73,59,8,4,224,398,68.34170854271356,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-system-log,436,0,0,70,0,0,313,436,100.0,Swatantra Malayalam Computing
+gnome-system-monitor,1440,0,0,305,0,0,1233,1440,100.0,American English <kde-i18n-doc@kde.org>
+gnome-taquin,175,0,57,47,0,2,148,232,75.43103448275862,Malayalam <l10n@lists.smc.org.in>
+gnome-terminal,2265,129,91,455,18,10,1863,2485,91.14688128772636,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-tetravex,90,27,0,37,3,0,101,117,76.92307692307693,Swatantra Malayalam Computing
+gnome-themes-extra,12,0,0,5,0,0,11,12,100.0,Malayalam <discuss@lists.smc.org.in>
+gnome-todo,214,1,469,64,1,73,189,684,31.28654970760234,Malayalam <l10n@lists.smc.org.in>
+gnome-tweaks,665,0,0,187,0,0,580,665,100.0,
+gnome-user-share,52,0,0,10,0,0,44,52,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gnome-vfs2,1508,0,0,301,0,0,1255,1508,100.0,Swathanthra Malayalam Computing|സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <smc-discuss@googlegroups.com>
+gnome-video-effects,256,0,0,68,0,0,194,256,100.0,Swatantra Malayalam Computing
+gnome-weather,192,0,0,42,0,0,141,192,100.0,Swathanthra Malayalam Computing
+gnote,3022,0,0,453,0,0,2411,3022,100.0,Malayalam <discuss@lists.smc.org.in>
+gnumeric,2097,3354,29595,903,1188,3551,1857,35046,5.983564458140729,Malayalam <locale@gnu.org.in>
+godot3,178,643,21771,54,302,5739,152,22592,0.7878895184135978,Malayalam <https://hosted.weblate.org/projects/godot-engine/godot/ml/>
+goffice,570,1292,4339,271,611,1119,492,6201,9.192065795839381,Malayalam <locale@gnu.org.in>
+gparted,2480,0,0,426,0,0,1957,2480,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gpicview,0,0,236,0,0,52,0,236,0.0,LANGUAGE <LL@li.org>
+granatier,2,0,244,1,0,67,4,246,0.8130081300813009,SMC <smc.org.in>
+granite,0,0,498,0,0,118,0,498,0.0,
+grass,1036,216,121206,248,39,18453,906,122458,0.8460043443466332,GRASS Malayalam Translation Team <rashadkm@gmail.com>
+grilo,191,0,0,36,0,0,156,191,100.0,Malayalam <l10n@lists.smc.org.in>
+grilo-plugins,51,0,432,27,0,98,51,483,10.559006211180124,Malayalam <l10n@lists.smc.org.in>
+gsettings-desktop-schemas,582,59,4649,101,11,357,442,5290,11.001890359168243,Malayalam <discuss@lists.smc.org.in>
+gspell,76,0,0,31,0,0,83,76,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+gthumb,212,5,2026,158,3,616,209,2243,9.451627284886314,Malayalam <locale@gnu.org.in>
+gtk2,13259,295,150,2717,49,18,10088,13704,96.75277291301809,<en@li.org>
+gtk2-engines,119,0,0,47,0,0,116,119,100.0,<en@li.org>
+gtk3,11472,540,181,2495,98,28,8700,12193,94.08677109817108,Malayalam <discuss@lists.smc.org.in>
+gtk4,10580,1361,996,2392,296,260,8019,12937,81.78093839375434,Malayalam <discuss@lists.smc.org.in>
+gtkhtml3,1233,0,0,548,0,0,1252,1233,100.0,Malayalam <smc-discuss@googlegroups.com>
+gtksourceview2,1120,0,0,448,0,0,987,1120,100.0,<en@li.org>
+gtksourceview3,94,83,145,20,25,61,69,322,29.19254658385093,<en@li.org>
+gtksourceview4,1124,0,0,449,0,0,991,1124,100.0,<en@li.org>
+gtksourceview5,1124,0,0,449,0,0,991,1124,100.0,<en@li.org>
+gucharmap,1071,0,0,363,0,0,956,1071,100.0,Swatantra Malayalam Computing
+guestfs-tools,1363,0,14370,253,0,1496,1244,15733,8.663319138117332,Malayalam (http://www.transifex.com/projects/p/libguestfs/language/ml/)
+gvfs,2648,0,0,585,0,0,2211,2648,100.0,Swatantra Malayalam Computing
+gwenview,143,38,1805,70,7,360,152,1986,7.2004028197381675,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hexchat,41,0,5930,14,0,1432,29,5971,0.6866521520683302,Malayalam (http://www.transifex.com/hexchat/hexchat/language/ml/)
+hitori,174,0,0,36,0,0,120,174,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+hivex,6,8,256,1,1,20,4,270,2.2222222222222223,Malayalam <discuss@lists.smc.org.in>
+iagno,106,12,75,37,2,2,126,193,54.92227979274611,Swathanthra Malayalam Computing
+ibus,693,104,1519,150,16,401,579,2316,29.922279792746114,Malayalam <discuss@lists.smc.org.in>
+im-chooser,229,0,24,52,0,5,182,253,90.51383399209486,LANGUAGE <LL@li.org>
+imsettings,440,10,40,80,2,7,344,490,89.79591836734694,LANGUAGE <LL@li.org>
+initial-setup,33,0,73,7,0,13,25,106,31.132075471698112,Malayalam (http://www.transifex.com/projects/p/initial-setup/language/ml/)
+initscripts,827,25,266,123,4,31,725,1118,73.97137745974956,Malayalam <discuss@lists.smc.org.in>
+inkscape,20364,10718,9847,4526,2817,1325,16562,40929,49.75445283295463,Malayalam <info.gist@cdac.in>
+iso-codes,1747,94,403,914,30,178,1553,2244,77.85204991087345,Malayalam
+isomaster,24,1,649,20,1,86,27,674,3.5608308605341246,http://littlesvr.ca/ostd/
+json-glib,226,0,0,27,0,0,165,226,100.0,Swatantra Malayalam Computing
+k3b,2,4,0,1,1,0,3,6,33.33333333333333,Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smcdiscuss@googlegroups.com
+kajongg,2,0,2456,2,0,509,4,2458,0.08136696501220504,SMC <smc.org.in>
+kalgebra,62,50,145,38,22,64,63,257,24.124513618677042,Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>
+kalzium,553,415,8139,343,195,765,524,9107,6.072252113758648,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kamera,310,0,37,33,0,5,208,347,89.33717579250721,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kanagram,1,0,526,1,0,143,2,527,0.18975332068311196,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kapman,58,48,9,20,13,3,57,115,50.43478260869565,SMC <smc.org.in>
+kate,185,161,7021,50,40,1650,169,7367,2.5111985882991723,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+katomic,2,0,182,1,0,58,4,184,1.0869565217391304,SMC <smc.org.in>
+kblackbox,2,0,1365,1,0,102,4,1367,0.1463057790782736,SMC <smc.org.in>
+kblocks,60,19,79,17,8,12,57,158,37.9746835443038,SMC <smc.org.in>
+kbounce,94,27,35,28,4,11,84,156,60.256410256410255,SMC <smc.org.in>
+kbrickbuster,57,15,86,20,3,19,51,158,36.075949367088604,SMC <smc.org.in>
+kbruch,327,608,412,67,70,61,239,1347,24.276169265033406,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kcolorchooser,2,0,27,1,0,9,4,29,6.896551724137931,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kde-cli-tools,1605,243,378,160,25,44,1201,2226,72.10242587601078,Swathantra Malayalam Computing | സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <discuss@lists.smc.org.in>
+kde-connect,405,34,947,159,8,204,403,1386,29.22077922077922,SMC <smc.org.in>
+kdeplasma-addons,1,0,1609,1,0,585,1,1610,0.062111801242236024,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kdialog,179,86,117,40,15,20,172,382,46.8586387434555,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kdiamond,2,0,120,1,0,31,4,122,1.639344262295082,SMC <smc.org.in>
+kdiff3,861,362,2076,199,81,327,744,3299,26.098817823582905,SMC <smc.org.in>
+kdnssd,21,9,0,6,1,0,18,30,70.0,SMC <smc.org.in>
+kdump-anaconda-addon,83,11,100,14,3,5,61,194,42.78350515463917,Malayalam <smc-discuss@googlegorups.com>
+keditbookmarks,341,119,6,96,35,1,321,466,73.17596566523605,SMC <smc.org.in>
+kf5-baloo,8,0,828,4,0,167,16,836,0.9569377990430622,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,SMC <smc.org.in>
+kf5-kbookmarks,0,68,162,0,21,28,0,230,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kf5-kcmutils,118,33,115,18,12,8,98,266,44.3609022556391,SMC <smc.org.in>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,SMC <smc.org.in>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,SMC <smc.org.in>
+kf5-kconfig,0,50,239,0,5,99,0,289,0.0,SMC <smc.org.in>
+kf5-kconfigwidgets,141,142,59,69,43,13,168,342,41.228070175438596,SMC <smc.org.in>
+kf5-kcontacts,0,0,177,0,0,108,0,177,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kcoreaddons,337,44,1,124,7,1,295,382,88.21989528795811,Malayalam <https://kde.smc.org.in/projects/kcoreaddons/kcoreaddons5_qt/ml/>
+kf5-kdbusaddons,0,0,48,0,0,6,0,48,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kdeclarative,33,20,108,8,5,12,36,161,20.496894409937887,SMC <smc.org.in>
+kf5-kdelibs4support,2403,1249,1701,1374,697,473,2278,5353,44.890715486643,SMC <smc.org.in>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,SMC <smc.org.in>
+kf5-kdesu,2,0,17,1,0,6,4,19,10.526315789473683,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,SMC <smc.org.in>
+kf5-kdoctools,0,0,8,0,0,4,0,8,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kfilemetadata,0,0,302,0,0,134,0,302,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kglobalaccel,0,17,54,0,5,4,0,71,0.0,SMC <smc.org.in>
+kf5-kholidays,0,0,150,0,0,97,0,150,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-khtml,641,129,897,226,14,49,615,1667,38.452309538092386,SMC <smc.org.in>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,SMC <smc.org.in>
+kf5-kiconthemes,0,11,30,0,1,18,0,41,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kf5-kinit,21,14,81,5,3,3,17,116,18.103448275862068,SMC <smc.org.in>
+kf5-kio,3826,786,7417,590,182,600,2747,12029,31.806467703050963,Malayalam <https://kde.smc.org.in/projects/kde/kiokio5/ml/>
+kf5-kipi-plugins,0,0,4675,0,0,1039,0,4675,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kirigami2,0,0,108,0,0,46,0,108,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,SMC <smc.org.in>
+kf5-kjobwidgets,0,133,0,0,38,0,0,133,0.0,SMC <smc.org.in>
+kf5-kjsembed,226,0,22,42,0,2,178,248,91.12903225806451,SMC <smc.org.in>
+kf5-knewstuff,124,218,1289,51,88,92,119,1631,7.602697731453096,SMC <smc.org.in>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,SMC <smc.org.in>
+kf5-knotifyconfig,43,0,86,15,0,2,43,129,33.33333333333333,SMC <smc.org.in>
+kf5-kpackage,111,2,339,27,1,45,84,452,24.557522123893804,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kparts,82,27,29,24,3,3,71,138,59.42028985507246,SMC <smc.org.in>
+kf5-kpeople,0,0,13,0,0,8,0,13,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kpty,15,0,0,4,0,0,13,15,100.0,SMC <smc.org.in>
+kf5-kross,82,18,0,29,6,0,89,100,82.0,SMC <smc.org.in>
+kf5-kservice,52,65,56,10,12,6,47,173,30.057803468208093,SMC <smc.org.in>
+kf5-ktexteditor,458,872,7899,189,253,821,426,9229,4.962617835085058,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kf5-ktextwidgets,285,13,175,105,9,16,250,473,60.25369978858352,SMC <smc.org.in>
+kf5-kunitconversion,0,0,5757,0,0,2483,0,5757,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kwallet,536,311,613,54,7,49,394,1460,36.71232876712329,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-kwidgetsaddons,1,928,364,1,419,43,2,1293,0.07733952049497293,SMC <smc.org.in>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,SMC <smc.org.in>
+kf5-kxmlgui,1272,39,263,208,13,9,999,1574,80.81321473951716,SMC <smc.org.in>
+kf5-kxmlrpcclient,0,0,13,0,0,2,0,13,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-libkgeomap,0,0,139,0,0,46,0,139,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-libksane,0,0,304,0,0,93,0,304,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-plasma,297,9,56,89,3,13,225,362,82.04419889502762,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-purpose,36,0,257,7,0,64,25,293,12.286689419795222,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kf5-solid,0,221,362,0,115,43,0,583,0.0,Swathantra Malayalam Computing |  സ്വതന്ത്ര മലയാള കമ്പ്യൂട്ടിങ് <discuss@lists.smc.org.in>
+kf5-sonnet,0,411,272,0,65,11,0,683,0.0,SMC <smc.org.in>
+kf5-syntax-highlighting,0,179,455,0,128,247,0,634,0.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kfind,466,33,3,102,12,1,405,502,92.82868525896414,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kfourinline,2,0,390,1,0,156,4,392,0.5102040816326531,SMC <smc.org.in>
+kgeography,8187,1226,599,6132,805,300,8075,10012,81.7718737514982,SMC <smc.org.in>
+kgoldrunner,2,0,28009,1,0,1007,4,28011,0.007140052122380494,SMC <smc.org.in>
+khangman,2,0,473,1,0,119,4,475,0.42105263157894735,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+khelpcenter,238,5,22,88,1,1,222,265,89.81132075471699,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+khotkeys,246,38,167,108,11,17,228,451,54.54545454545454,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kig,5,0,7852,5,0,1281,10,7857,0.06363752068219422,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kigo,2,0,502,1,0,130,4,504,0.3968253968253968,SMC <smc.org.in>
+killbots,2,0,635,1,0,126,4,637,0.3139717425431711,SMC <smc.org.in>
+kinfocenter,241,120,314,116,65,146,254,675,35.7037037037037,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kio-extras,410,192,388,61,24,41,323,990,41.41414141414141,Swathantra Malayalam Computing |  സ്വതന്ത്ര മലയാള കമ്പ്യൂട്ടിങ് <discuss@lists.smc.org.in>
+kiriki,2,0,142,1,0,49,4,144,1.3888888888888888,SMC <smc.org.in>
+kiten,5,0,678,3,0,170,8,683,0.7320644216691069,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kjumpingcube,2,0,411,1,0,94,4,413,0.48426150121065376,SMC <smc.org.in>
+klettres,4,2,434,3,1,81,8,440,0.9090909090909091,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+klickety,2,0,176,1,0,61,4,178,1.1235955056179776,SMC <smc.org.in>
+klines,2,0,97,1,0,27,4,99,2.0202020202020203,SMC <smc.org.in>
+kmag,360,52,20,81,9,8,266,432,83.33333333333334,SMC <smc.org.in>
+kmahjongg,293,11,62,85,5,14,248,366,80.05464480874316,SMC <smc.org.in>
+kmenuedit,236,18,31,51,6,10,186,285,82.80701754385966,Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kmines,106,7,43,38,2,5,93,156,67.94871794871796,SMC <smc.org.in>
+kmousetool,101,42,4,26,5,1,70,147,68.70748299319727,SMC <smc.org.in>
+kmouth,1420,63,13,191,10,7,979,1496,94.91978609625669,SMC <smc.org.in>
+kmplot,2173,297,30,407,67,11,1744,2500,86.92,Swathanthra Malayalam Computing/സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+knavalbattle,4,0,397,2,0,102,6,401,0.997506234413965,SMC <smc.org.in>
+knetwalk,2,0,241,1,0,55,4,243,0.823045267489712,SMC <smc.org.in>
+kolf,11,0,390,6,0,142,13,401,2.7431421446384037,SMC <smc.org.in>
+kollision,2,0,107,1,0,29,4,109,1.834862385321101,SMC <smc.org.in>
+kolourpaint,2,0,2566,2,0,446,4,2568,0.0778816199376947,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+konqueror,2189,323,5872,482,78,612,1799,8384,26.109255725190838,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+konquest,3,1,242,2,1,95,6,246,1.2195121951219512,SMC <smc.org.in>
+konsole5,589,1199,2134,134,330,363,476,3922,15.01784803671596,SMC <smc.org.in>
+kopete,24,0,0,4,0,0,14,24,100.0,SMC <smc.org.in>
+kpat,2,0,577,1,0,200,4,579,0.3454231433506045,SMC <smc.org.in>
+kreversi,3,0,422,2,0,138,6,425,0.7058823529411765,SMC <smc.org.in>
+krfb,207,141,387,41,15,49,162,735,28.163265306122447,SMC <smc.org.in>
+kruler,2,0,156,1,0,43,4,158,1.2658227848101267,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kshisen,2,0,659,1,0,74,4,661,0.30257186081694404,SMC <smc.org.in>
+ksirk,8,0,5748,5,0,754,14,5756,0.13898540653231412,SMC <smc.org.in>
+ksnakeduel,2,0,239,1,0,54,4,241,0.8298755186721992,SMC <smc.org.in>
+kspaceduel,2,0,163,1,0,80,4,165,1.2121212121212122,SMC <smc.org.in>
+ksquares,2,0,258,1,0,77,4,260,0.7692307692307693,SMC <smc.org.in>
+ksshaskpass,2,0,49,1,0,14,4,51,3.9215686274509802,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kstars,1038,16925,35690,737,7584,3839,978,53653,1.9346541665890071,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+ksudoku,668,2,1076,120,2,41,516,1746,38.258877434135165,SMC <smc.org.in>
+ksysguard,364,141,588,140,46,51,331,1093,33.3028362305581,<Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>>
+kteatime,158,39,6,54,8,5,150,203,77.83251231527095,Swathantra Malayalam Computing | സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <discuss@lists.smc.org.in>
+ktouch,70,366,524,29,112,116,61,960,7.291666666666667,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+ktuberling,2,0,156,1,0,37,4,158,1.2658227848101267,SMC <smc.org.in>
+kturtle,7,0,1531,6,0,343,14,1538,0.45513654096228867,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+kubrick,2,0,1203,1,0,165,4,1205,0.16597510373443983,SMC <smc.org.in>
+kwin,870,804,4275,235,284,692,731,5949,14.624306606152295,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+kwordquiz,1529,237,292,314,54,47,1077,2058,74.29543245869776,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+libbonobo,543,0,0,107,0,0,430,543,100.0,<en@li.org>
+libbonoboui,368,0,0,115,0,0,308,368,100.0,Swathanthra Malayalam Computing <smc-discuss@googlegroups.com>
+libcryptui,3042,0,0,655,0,0,2446,3042,100.0,<en@li.org>
+libdnf,2,0,1478,1,0,228,1,1480,0.13513513513513514,Malayalam
+libfm,0,0,1575,0,0,394,0,1575,0.0,LANGUAGE <LL@li.org>
+libgda,0,0,0,0,0,0,0,0,0.0,
+libgnome,1772,0,0,273,0,0,1382,1772,100.0,Swathanthra Malayalam Computing|സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <smc-discuss@googlegroups.com>
+libgnome-keyring,44,0,0,9,0,0,34,44,100.0,SMC <smc-discuss@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,284,378,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+libgnomekbd,187,0,0,39,0,0,147,187,100.0,Malayalam <discuss@lists.smc.org.in>
+libgnomeui,1309,0,0,334,0,0,1036,1309,100.0,Malayalam
+libgsf,27,0,669,15,0,131,28,696,3.8793103448275863,Malayalam <l10n@lists.smc.org.in>
+libgtop2,126,0,0,40,0,0,121,126,100.0,<en@li.org>
+libguestfs,1363,5,6044,253,1,701,1244,7412,18.389098758769563,Malayalam (http://www.transifex.com/projects/p/libguestfs/language/ml/)
+libgweather,6367,0,0,4677,0,0,6422,6367,100.0,Swatantra Malayalam Computing
+libgweather4,6367,0,0,4677,0,0,6422,6367,100.0,Swatantra Malayalam Computing
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libkdegames,1,0,369,1,0,131,1,370,0.2702702702702703,SMC <smc.org.in>
+libkeduvocdocument,103,19,49,52,4,25,96,171,60.23391812865497,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,SMC <smc.org.in>
+libksysguard,618,1074,2209,126,67,349,480,3901,15.842091771340684,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+libmatekbd,174,0,134,41,0,50,146,308,56.493506493506494,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+libmatemixer,12,0,230,11,0,115,13,242,4.958677685950414,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+libmateweather,5998,0,145,4531,0,44,6095,6143,97.63958977698192,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+libnma,409,208,271,93,44,50,361,888,46.05855855855856,Swatantra Malayalam Computing
+libpeas,112,0,0,34,0,0,108,112,100.0,Malayalam <discuss@lists.smc.org.in>
+libpwquality,333,0,12,50,0,1,207,345,96.52173913043478,Malayalam (http://www.transifex.com/projects/p/libpwquality/language/ml/)
+libreoffice,57862,12233,97302,18948,4710,14464,48645,167397,34.56573295817727,LANGUAGE <LL@li.org>
+libreport,1088,11,3829,194,1,408,867,4928,22.07792207792208,Malayalam (http://www.transifex.com/projects/p/libreport/language/ml/)
+libsecret,59,0,0,9,0,0,38,59,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+libsoup,79,0,0,20,0,0,70,79,100.0,American English <kde-i18n-doc@kde.org>
+libsoup3,79,0,0,20,0,0,70,79,100.0,American English <kde-i18n-doc@kde.org>
+libuser,970,38,429,208,7,86,862,1437,67.5017397355602,Malayalam (http://www.transifex.com/projects/p/fedora/language/ml/)
+libvirt,30417,20506,17389,5025,3214,2165,25250,68312,44.52658390912285,Malayalam (http://www.transifex.com/projects/p/libvirt/language/ml/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Malayalam <discuss@lists.smc.org.in>
+libwnck,1124,0,0,241,0,0,867,1124,100.0,<en@li.org>
+libwnck3,1086,0,0,231,0,0,835,1086,100.0,American English <kde-i18n-doc@kde.org>
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Malayalam (http://www.transifex.com/the_cavalry/light-locker/language/ml/)
+lightdm,19,0,144,6,0,15,12,163,11.65644171779141,Malayalam <ml@li.org>
+lightdm-gtk,7,0,82,4,0,21,7,89,7.865168539325842,Malayalam <ml@li.org>
+lightdm-settings,0,0,321,0,0,65,0,321,0.0,Malayalam <ml@li.org>
+lightsoff,96,0,0,18,0,0,90,96,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+lskat,2,0,252,1,0,82,4,254,0.7874015748031495,SMC <smc.org.in>
+lxdm,0,0,47,0,0,25,0,47,0.0,LANGUAGE <LL@li.org>
+lxinput,0,0,83,0,0,26,0,83,0.0,LANGUAGE <LL@li.org>
+lxlauncher,0,0,58,0,0,17,0,58,0.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,79,97,100.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+lxmusic,0,0,203,0,0,89,0,203,0.0,LANGUAGE <LL@li.org>
+lxpanel,28,4,1367,24,3,440,30,1399,2.0014295925661187,LANGUAGE <LL@li.org>
+lxrandr,0,0,167,0,0,41,0,167,0.0,LANGUAGE <LL@li.org>
+lxshortcut,0,0,43,0,0,19,0,43,0.0,LANGUAGE <LL@li.org>
+lxtask,0,0,130,0,0,51,0,130,0.0,LANGUAGE <LL@li.org>
+lxterminal,1,4,207,1,2,99,1,212,0.4716981132075472,LANGUAGE <LL@li.org>
+malcontent,3,0,581,2,0,96,4,584,0.5136986301369862,none
+marble,41,3436,8008,23,1251,2052,46,11485,0.3569873748367436,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+marco,3156,0,1147,367,0,63,2296,4303,73.34417848013014,Malayalam (https://app.transifex.com/mate/teams/13566/ml/)
+mate-applets,1845,37,14075,461,8,1177,1654,15957,11.562323745064862,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-backgrounds,26,0,29,18,0,11,25,55,47.27272727272727,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-calc,1251,0,2072,453,0,296,1053,3323,37.646704784832984,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-control-center,2532,7,5714,994,1,515,2195,8253,30.679752817157397,Malayalam (https://app.transifex.com/mate/teams/13566/ml/)
+mate-desktop,1133,0,1243,178,0,123,898,2376,47.68518518518518,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-media,120,0,119,53,0,46,109,239,50.2092050209205,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-menu,63,0,245,34,0,76,60,308,20.454545454545457,Malayalam (http://www.transifex.com/mate/MATE/language/ml/)
+mate-menus,98,0,5,38,0,1,80,103,95.14563106796116,Malayalam (https://app.transifex.com/mate/teams/13566/ml/)
+mate-notification-daemon,8,0,178,7,0,46,18,186,4.301075268817205,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-panel,3860,0,2860,539,0,275,2782,6720,57.44047619047619,Malayalam (https://app.transifex.com/mate/teams/13566/ml/)
+mate-polkit,97,0,26,17,0,4,72,123,78.86178861788618,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-power-manager,1401,0,3718,290,0,261,1110,5119,27.368626684899393,Malayalam (https://app.transifex.com/mate/teams/13566/ml/)
+mate-screensaver,868,0,233,147,0,29,621,1101,78.83742052679382,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-sensors-applet,5,2,2153,5,2,219,14,2160,0.23148148148148145,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-session-manager,429,0,286,102,0,30,356,715,60.0,Malayalam (https://app.transifex.com/mate/teams/13566/ml/)
+mate-settings-daemon,1082,0,1124,182,0,137,866,2206,49.048050770625565,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-system-monitor,518,0,4329,199,0,449,500,4847,10.687022900763358,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-terminal,3927,0,4459,493,0,310,2844,8386,46.828046744574294,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-themes,9,0,65,3,0,20,14,74,12.162162162162163,Malayalam (http://www.transifex.com/mate/MATE/language/ml/)
+mate-user-admin,12,0,593,10,0,116,13,605,1.9834710743801653,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-user-guide,142,0,42827,85,0,3143,147,42969,0.3304708045335009,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mate-utils,3248,0,6812,650,0,476,2599,10060,32.286282306163024,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+mediawriter,221,95,529,24,35,103,158,845,26.153846153846157,Malayalam <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/ml/>
+menulibre,1,0,872,1,0,165,1,873,0.11454753722794961,Malayalam <ml@li.org>
+metacity,3798,0,0,404,0,0,2729,3798,100.0,<en@li.org>
+midori,33,0,3508,18,0,778,44,3541,0.931940129906806,Malayalam <ml@li.org>
+mingw-GConf2,4074,0,0,496,0,0,3459,4074,100.0,Swatantra Malayalam Computing
+mingw-atk,398,0,0,139,0,0,333,398,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+mingw-colord,25,0,363,8,0,91,24,388,6.443298969072164,LANGUAGE <LL@li.org>
+mingw-gdk-pixbuf,1354,0,0,202,0,0,1111,1354,100.0,Swatantra Malayalam Computing
+mingw-glib-networking,163,0,0,29,0,0,137,163,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+mingw-glib2,3073,333,2058,587,42,235,2653,5464,56.24084919472914,American English <kde-i18n-doc@kde.org>
+mingw-gtk2,13259,295,150,2717,49,18,10088,13704,96.75277291301809,<en@li.org>
+mingw-gtk3,11472,540,181,2495,98,28,8700,12193,94.08677109817108,Malayalam <discuss@lists.smc.org.in>
+mingw-gtksourceview3,94,83,145,20,25,61,69,322,29.19254658385093,<en@li.org>
+mingw-json-glib,226,0,0,27,0,0,165,226,100.0,Swatantra Malayalam Computing
+mingw-libgsf,27,0,669,15,0,131,28,696,3.8793103448275863,Malayalam <l10n@lists.smc.org.in>
+mingw-libsoup,79,0,0,20,0,0,70,79,100.0,American English <kde-i18n-doc@kde.org>
+mingw-libvirt,30791,20827,16846,5076,3265,2098,25561,68464,44.97400093479785,Malayalam (http://www.transifex.com/projects/p/libvirt/language/ml/)
+mingw-mediawriter,221,95,529,24,35,103,158,845,26.153846153846157,Malayalam <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/ml/>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Malayalam (http://www.transifex.com/freedesktop/p11-kit/language/ml/)
+minuet,2,0,410,1,0,158,4,412,0.48543689320388345,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+mousetweaks,114,0,0,30,0,0,92,114,100.0,Swatantra Malayalam Computing
+mozo,43,0,3,21,0,3,44,46,93.47826086956522,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+muffin,921,0,7138,224,0,291,848,8059,11.428216900359846,Malayalam <en@li.org>
+multimedia-menus,56,0,0,22,0,0,52,56,100.0,Swathantra Malayalam Computing|സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <smc-discuss@googlegroups.com>
+mutter,671,0,1590,170,0,150,611,2261,29.677134011499334,American English <kde-i18n-doc@kde.org>
+mypaint,0,0,6381,0,0,1270,0,6381,0.0,none
+nautilus,3484,1891,665,784,236,104,2868,6040,57.68211920529801,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+nemiver,195,0,1071,116,0,218,203,1266,15.402843601895736,Swatantra Malayalam Computing
+nemo-extensions,250,0,8,47,0,2,191,258,96.89922480620154,Malayalam <ml@li.org>
+network-manager-applet,1242,1189,1874,341,252,266,1078,4305,28.850174216027874,Swatantra Malayalam Computing
+newt,4,0,0,4,0,0,4,4,100.0,Swathantra Malayalam Computing|സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <smc-discuss@googlegroups.com>
+notification-daemon,17,0,0,7,0,0,17,17,100.0,Malayalam <discuss@lists.smc.org.in>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okular,141,127,5427,59,45,1127,180,5695,2.47585601404741,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+onboard,28,0,2290,22,0,488,28,2318,1.2079378774805867,Malayalam <ml@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,2627,1289,1652,940,421,482,2442,5568,47.18031609195402,smc
+p11-kit,0,0,476,0,0,81,0,476,0.0,Malayalam (http://www.transifex.com/freedesktop/p11-kit/language/ml/)
+palapeli,2,0,1523,1,0,185,4,1525,0.13114754098360656,SMC <smc.org.in>
+pam,352,159,24,75,22,3,309,535,65.7943925233645,Malayalam <discuss@lists.smc.org.in>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,4,0,52,2,0,14,5,56,7.142857142857142,LANGUAGE <LL@li.org>
+paprefs,131,0,6,23,0,2,117,137,95.62043795620438,<en@li.org>
+parley,341,957,2135,163,239,327,319,3433,9.933003204194582,Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+passwd,329,0,7,56,0,1,329,336,97.91666666666666,Malayalam <discuss@lists.smc.org.in>
+pastebinit,28,0,167,6,0,23,26,195,14.358974358974358,Malayalam <ml@li.org>
+pavucontrol,183,61,286,76,22,51,175,530,34.52830188679245,<en@li.org>
+php-phpmyadmin-sql-parser5,192,76,0,39,11,0,143,268,71.64179104477611,Malayalam <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ml/>
+picmi,2,0,200,1,0,116,4,202,0.9900990099009901,SMC <smc.org.in>
+pidgin,14137,0,1698,3080,0,377,11605,15835,89.27691821913483,Malayalam (http://www.transifex.com/pidgin/pidgin/language/ml/)
+pipewire,104,281,262,45,31,32,106,647,16.0741885625966,<en@li.org>
+pipewire-media-session,3,0,2,2,0,1,3,5,60.0,<en@li.org>
+plank,100,0,89,12,0,38,83,189,52.910052910052904,Malayalam <ml@li.org>
+plasma-desktop,2558,813,4840,358,228,961,1751,8211,31.15333089757642,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+plasma-discover,611,222,2107,251,68,336,555,2940,20.782312925170068,Malayalam <https://kde.smc.org.in/projects/discover/libdiscover/ml/>
+plasma-drkonqi,32,94,1858,10,22,171,27,1984,1.6129032258064515,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+plasma-milou,1,0,9,1,0,3,1,10,10.0,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+plasma-nm,15,22,5322,12,8,1299,17,5359,0.2799029669714499,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+plasma-oxygen,140,162,500,87,53,153,143,802,17.45635910224439,SMC <smc.org.in>
+plasma-sdk,141,70,634,43,18,202,135,845,16.68639053254438,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+plasma-systemsettings,194,11,7,50,3,1,159,212,91.50943396226415,Malayalam <https://kde.smc.org.in/projects/systemsettings/systemsettings/ml/>
+plasma-thunderbolt,2,0,176,1,0,41,4,178,1.1235955056179776,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+plasma-workspace,8812,653,2519,2404,155,410,7416,11984,73.53137516688919,SMC <smc.org.in>
+pluma,3840,0,9273,1006,0,1084,3248,13113,29.283916723861818,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+pluma-plugins,188,0,1210,20,0,123,119,1398,13.447782546494993,Malayalam (https://www.transifex.com/mate/teams/13566/ml/)
+plymouth-kcm,2,0,110,1,0,23,4,112,1.7857142857142856,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+pmount,0,0,723,0,0,63,0,723,0.0,Malayalam <ml@li.org>
+polari,594,47,130,164,2,12,554,771,77.04280155642024,Malayalam <l10n@lists.smc.org.in>
+policycoreutils,9486,558,2127,1406,111,259,7624,12171,77.93936406211486,Malayalam
+polkit-gnome,94,0,0,16,0,0,70,94,100.0,Malayalam <discuss@lists.smc.org.in>
+polkit-kde,4,0,91,2,0,28,6,95,4.2105263157894735,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+powerdevil,21,124,524,9,32,102,27,669,3.1390134529147984,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+publican,1845,67,3531,137,3,476,1410,5443,33.89674811684733,<en@li.org>
+pulseaudio,1376,1868,508,343,109,119,1241,3752,36.67377398720683,<en@li.org>
+pychess,31,0,7561,13,0,1455,30,7592,0.40832455216016855,Malayalam (http://www.transifex.com/gbtami/pychess/language/ml/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,128,43,1530,13,1,170,98,1701,7.52498530276308,Malayalam (http://www.transifex.com/projects/p/pykickstart/language/ml/)
+python-SecretStorage,59,0,0,9,0,0,38,59,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+python-blivet,290,0,294,43,0,35,225,584,49.65753424657534,Malayalam (http://www.transifex.com/projects/p/blivet/language/ml/)
+python-django,2617,0,1171,728,0,140,2272,3788,69.08658922914466,Malayalam (http://www.transifex.com/django/django/language/ml/)
+python-django-contrib-comments,234,0,16,59,0,2,199,250,93.60000000000001,Malayalam (http://www.transifex.com/django/django-contrib-comments/language/ml/)
+python-django-formtools,32,0,0,11,0,0,30,32,100.0,Malayalam (http://www.transifex.com/django/django-formtools/language/ml/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django3,2682,0,1098,738,0,129,2328,3780,70.95238095238095,Malayalam (http://www.transifex.com/django/django/language/ml/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Malayalam
+python-hyperkitty,0,0,926,0,0,263,0,926,0.0,LANGUAGE <LL@li.org>
+python-meh,1,0,108,1,0,22,2,109,0.9174311926605505,Malayalam (http://www.transifex.com/projects/p/python-meh/language/ml/)
+python-nikola,94,0,0,44,0,0,92,94,100.0,Malayalam (http://www.transifex.com/ralsina/nikola/language/ml/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+quadrapassel,189,48,191,64,6,9,189,428,44.1588785046729,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+realmd,0,0,789,0,0,127,0,789,0.0,Malayalam (http://www.transifex.com/freedesktop/realmd/language/ml/)
+redhat-menus,261,0,0,86,0,0,245,261,100.0,<en@li.org>
+rednotebook,1,0,1262,1,0,271,10,1263,0.0791765637371338,Malayalam <ml@li.org>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Malayalam
+rhythmbox,75,3,665,60,3,184,81,743,10.094212651413189,Malayalam <smc-discuss@googlegroups.com>
+rocs,4,0,1476,2,0,312,8,1480,0.2702702702702703,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+rpm-ostree,2,0,1478,1,0,228,1,1480,0.13513513513513514,Malayalam
+rygel,344,0,1280,101,0,202,303,1624,21.182266009852217,Swatantra Malayalam Computing
+seahorse,2494,0,0,573,0,0,2129,2494,100.0,Swatantra Malayalam Computing
+seahorse-caja,411,10,0,109,1,0,391,421,97.62470308788599,<en@li.org>
+seahorse-nautilus,411,10,0,109,1,0,391,421,97.62470308788599,<en@li.org>
+setroubleshoot,522,10,108,148,2,18,442,640,81.5625,Malayalam (http://www.transifex.com/projects/p/fedora/language/ml/)
+setroubleshoot-plugins,2331,0,3915,119,0,107,1590,6246,37.319884726224785,Malayalam (http://www.transifex.com/projects/p/fedora/language/ml/)
+setuptool,55,0,0,14,0,0,55,55,100.0,<en@li.org>
+shared-mime-info,0,0,2058,0,0,795,0,2058,0.0,Malayalam (http://www.transifex.com/freedesktop/shared-mime-info/language/ml/)
+shotwell,4240,41,272,897,8,41,3591,4553,93.12541181638481,Malayalam (http://www.transifex.com/projects/p/shotwell/language/ml/)
+shutter,4,0,2444,4,0,497,9,2448,0.16339869281045752,Malayalam <ml@li.org>
+simple-scan,844,3,0,190,2,0,720,847,99.64580873671783,Malayalam <l10n@lists.smc.org.in>
+skychart,134,0,4727,108,0,1411,132,4861,2.756634437358568,Malayalam <ml@li.org>
+slick-greeter,175,0,36,38,0,9,139,211,82.93838862559242,Malayalam <ml@li.org>
+sos,54,33,35,11,7,12,48,122,44.26229508196721,<en@li.org>
+sound-juicer,1022,0,0,198,0,0,902,1022,100.0,<en@li.org>
+soundconverter,0,0,507,0,0,129,0,507,0.0,Malayalam <ml@li.org>
+spacefm,0,0,8722,0,0,1568,0,8722,0.0,Malayalam (http://www.transifex.com/projects/p/spacefm/language/ml/)
+spectacle,2,0,967,1,0,197,4,969,0.20639834881320948,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+stellarium,1839,0,149802,915,0,36940,1601,151641,1.2127327042158784,Malayalam (https://www.transifex.com/stellarium/teams/80998/ml/)
+step,532,708,3020,169,272,553,447,4260,12.488262910798122,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+subscription-manager,2034,769,1567,365,126,200,1604,4370,46.54462242562929,Malayalam
+subscription-manager-cockpit,21,63,427,16,26,74,25,511,4.10958904109589,Malayalam
+sugar,34,8,2263,23,4,502,38,2305,1.475054229934924,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,32,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,167,46,121,50,1,20,156,334,50.0,LANGUAGE <LL@li.org>
+sugar-calculator,60,0,806,38,0,131,60,866,6.928406466512701,LANGUAGE <LL@li.org>
+sugar-chat,5,0,132,2,0,79,4,137,3.64963503649635,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,7,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,4,138,0,4,70,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-paint,1,0,105,1,0,60,1,106,0.9433962264150944,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,39,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,59,62,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,2,0,3,2,0,3,2,5,40.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,6,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,62,16,135,57,10,56,62,213,29.107981220657276,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,581,18,0,126,1,0,501,599,96.99499165275459,LANGUAGE <LL@li.org>
+sugar-view-slides,60,0,0,23,0,0,69,60,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,141,121,100.0,LANGUAGE <LL@li.org>
+supertux,694,0,2211,145,0,740,519,2905,23.889845094664373,Malayalam (http://www.transifex.com/arctic-games/supertux/language/ml/)
+supertuxkart,0,0,0,0,0,0,0,0,0.0,
+sushi,24,0,0,11,0,0,22,24,100.0,Swatantra Malayalam Computing
+svgpart,1,0,2,1,0,1,2,3,33.33333333333333,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+swell-foop,138,0,0,41,0,0,134,138,100.0,Malayalam team
+switchboard,0,0,148,0,0,31,0,148,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,180,0,0,47,0,180,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,383,0,0,85,0,383,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,227,0,0,63,0,227,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,206,0,0,53,0,206,0.0,Malayalam <ml@li.org>
+switchboard-plug-display,2,0,180,2,0,60,2,182,1.098901098901099,Malayalam <https://l10n.elementary.io/projects/switchboard/switchboard-plug-display/ml/>
+switchboard-plug-keyboard,0,0,636,0,0,214,0,636,0.0,
+switchboard-plug-mouse-touchpad,0,0,282,0,0,92,0,282,0.0,none
+switchboard-plug-networking,0,0,532,0,0,147,0,532,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,0,0,322,0,0,76,0,322,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,2,0,347,2,0,113,2,349,0.5730659025787965,Malayalam <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/ml/>
+switchboard-plug-printers,0,0,406,0,0,153,0,406,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,141,0,0,32,0,141,0.0,none
+switchboard-plug-sound,0,0,193,0,0,57,0,193,0.0,
+switchdesk,16,87,19,3,10,6,16,122,13.114754098360656,<en@li.org>
+sympa,29,264,21414,15,81,2731,28,21707,0.13359745704150736,മലയാളം
+synapse,397,0,459,139,0,95,370,856,46.3785046728972,Malayalam <ml@li.org>
+system-config-language,61,107,47,14,9,8,48,215,28.37209302325581,<en@li.org>
+system-config-printer,3028,42,444,725,20,183,2588,3514,86.16960728514513,Malayalam (http://www.transifex.com/projects/p/system-config-printer/language/ml/)
+system-config-rootpassword,116,0,0,19,0,0,92,116,100.0,<en@li.org>
+system-switch-java,81,0,0,11,0,0,66,81,100.0,<en@li.org>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,<en@li.org>
+tali,558,7,95,129,2,4,535,660,84.54545454545455,Swathanthra Malayalam Computing
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+terminator,98,0,1424,30,0,385,72,1522,6.438896189224705,Malayalam (https://www.transifex.com/terminator/teams/109338/ml/)
+tomboy,2870,0,0,415,0,0,2257,2870,100.0,<en@li.org>
+totem,1335,0,0,391,0,0,1092,1335,100.0,Swatantra Malayalam Computing
+totem-pl-parser,29,0,0,8,0,0,24,29,100.0,<en@li.org>
+tracker,283,72,1874,104,12,254,224,2229,12.696276357110811,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+tracker-miners,447,1,2691,128,1,392,355,3139,14.240203886588084,Swatantra Malayalam Computing <discuss@lists.smc.org.in>
+transmission,139,0,2302,80,0,505,179,2441,5.694387546087669,Malayalam (https://app.transifex.com/transmissionbt/teams/33778/ml/)
+tuxpaint,1170,970,1623,251,103,107,757,3763,31.09221365931438,Malayalam
+tuxpaint-stamps,3148,69,32,783,14,8,1893,3249,96.89135118498,
+tuxtype2,71,0,9,32,0,8,61,80,88.75,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+usermode,564,0,9,94,0,2,450,573,98.42931937172776,Malayalam <discuss@lists.smc.org.in>
+webkit2gtk3,429,0,2252,179,0,398,414,2681,16.00149198060425,Malayalam <l10n@lists.smc.org.in>
+wine,153,221,18822,63,105,4088,154,19196,0.7970410502187955,Malayalam
+wingpanel,0,0,19,0,0,4,0,19,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,0,0,415,0,0,115,0,415,0.0,Malayalam <ml@li.org>
+wingpanel-indicator-bluetooth,0,0,78,0,0,29,0,78,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,177,0,0,36,0,177,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,53,0,0,16,0,53,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,150,0,0,45,0,150,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,45,0,0,12,0,45,0.0,
+wingpanel-indicator-notifications,0,0,134,0,0,34,0,134,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,191,0,0,52,0,191,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,108,0,0,27,0,108,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,96,0,0,23,0,96,0.0,LANGUAGE <LL@li.org>
+wireplumber,3,0,0,2,0,0,3,3,100.0,<en@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Malayalam <smc-discuss@googlegroups.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,50,81,100.0,Swathanthra Malayalam Computing | സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <smc-discuss@googlegroups.com>
+xed,2673,0,1087,686,0,238,2246,3760,71.09042553191489,Malayalam (http://www.transifex.com/projects/p/MATE/language/ml/)
+xreader,834,0,786,222,0,157,723,1620,51.48148148148148,Malayalam (http://www.transifex.com/mate/MATE/language/ml/)
+yakuake,1,0,1667,1,0,235,1,1668,0.05995203836930455,Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>
+yelp,348,0,0,73,0,0,276,348,100.0,Malayalam <discuss@lists.smc.org.in>
+yelp-xsl,85,0,0,62,0,0,78,85,100.0,Swatantra Malayalam Computing
+zenity,896,0,0,199,0,0,783,896,100.0,Swatantra Malayalam Computing <discuss@lists.smc.org.in>

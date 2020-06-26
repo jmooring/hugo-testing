@@ -1,0 +1,205 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,3998,19,0,477,2,0,4428,4017,99.52701020662185,MALAGASY <i18n-malagasy-gnome@gna.org>
+abrt,0,0,3230,0,0,390,0,3230,0.0,Malagasy (http://www.transifex.com/projects/p/fedora-abrt/language/mg/)
+alacarte,42,0,0,16,0,0,40,42,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+appcenter,0,0,765,0,0,181,0,765,0.0,LANGUAGE <LL@li.org>
+asunder,10,0,485,9,0,82,13,495,2.0202020202020203,http://littlesvr.ca/ostd/
+atril,673,0,3158,212,0,423,736,3831,17.56721482641608,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+audience,0,0,106,0,0,48,0,106,0.0,
+baobab,132,193,215,50,48,28,149,540,24.444444444444443,Malagasy <i18n-malagasy-gnome@gna.org>
+caja,3560,0,5796,779,0,738,3750,9356,38.05044890979051,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+caja-extensions,9,0,561,8,0,123,12,570,1.5789473684210527,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Malagasy (http://www.transifex.com/projects/p/certmonger/language/mg/)
+cinnamon-desktop,4,15,215,2,3,27,5,234,1.7094017094017095,Malagasy <i18n-malagasy-gnome@gna.org>
+cinnamon-translations,245,0,10643,59,0,2265,213,10888,2.2501836884643645,Malagasy <i18n-malagasy-gnome@gna.org>
+compat-gtkhtml314,912,0,0,405,0,0,970,912,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+dasher,300,10,0,109,4,0,333,310,96.7741935483871,MALAGASY <i18n-malagasy-gnome@gna.org>
+debconf,189,0,2,16,0,1,192,191,98.95287958115183,Malagasy <jaonary@free.fr>
+deepin-metacity,7261,3,0,481,1,0,7557,7264,99.95870044052863,Malagasy <i18n-malagasy-gnome@gna.org>
+deepin-mutter,7261,3,0,481,1,0,7557,7264,99.95870044052863,Malagasy <i18n-malagasy-gnome@gna.org>
+dialog,4,0,21,4,0,19,4,25,16.0,<en@li.org>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+elementary-calculator,21,6,53,12,2,23,25,80,26.25,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,449,0,0,180,0,449,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,62,0,0,16,0,62,0.0,
+elementary-capnet-assist,0,0,81,0,0,13,0,81,0.0,none
+elementary-screenshot-tool,0,0,132,0,0,43,0,132,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,82,0,0,37,0,82,0.0,none
+engrampa,822,0,6997,214,0,606,877,7819,10.512853306049367,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+eog,821,0,0,192,0,0,887,821,100.0,Malagasy <i18n-malagasy-gnome@gna.org>
+eom,464,0,4657,139,0,402,509,5121,9.060730326108182,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+epiphany,3684,99,15,830,12,1,4108,3798,96.99842022116904,Malagasy <i18n-malagasy-gnome@gna.org>
+evince,838,91,91,247,24,24,936,1020,82.15686274509804,MALAGASY <i18n-malagasy-gnome@gna.org>
+file-roller,886,117,175,226,31,6,935,1178,75.21222410865875,Malagasy <i18n-malagasy-gnome@gna.org>
+gconf-editor,328,1,0,97,1,0,360,329,99.69604863221885,MALAGASY <i18n-malagasy-gnome@gna.org>
+gcr,0,9,613,0,5,222,0,622,0.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+gdm,159,142,349,34,19,34,174,650,24.461538461538463,Malagasy <i18n-malagasy-gnome@gna.org>
+gedit,4328,45,0,1032,14,0,4766,4373,98.9709581522982,Malagasy <i18n-malagasy-gnome@gna.org>
+gedit-plugins,682,262,261,322,83,64,763,1205,56.59751037344398,Malagasy <i18n-malagasy-gnome@gna.org>
+glib2,1135,630,3012,164,121,462,1210,4777,23.759681808666528,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-backgrounds,23,0,0,17,0,0,22,23,100.0,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-calculator,992,23,0,349,8,0,1083,1015,97.73399014778326,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-control-center,3501,15,0,770,3,0,3857,3516,99.57337883959045,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-desktop,281,4,0,70,1,0,336,285,98.59649122807016,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-desktop3,281,4,0,70,1,0,336,285,98.59649122807016,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-dictionary,643,157,33,134,36,13,609,833,77.19087635054022,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-doc-utils,213,0,0,80,0,0,124,213,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-icon-theme,49,1,0,44,1,0,54,50,98.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-keyring,25,165,300,7,20,82,34,490,5.1020408163265305,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-menus,136,0,0,49,0,0,164,136,100.0,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-nettool,535,0,0,181,0,0,559,535,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-power-manager,8,98,326,4,43,97,12,432,1.8518518518518516,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-screensaver,1259,4,0,195,1,0,1259,1263,99.68329374505146,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-screenshot,66,167,86,18,28,13,66,319,20.689655172413794,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-search-tool,1178,72,109,150,12,38,1171,1359,86.68138337012509,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-session,571,0,0,106,0,0,586,571,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-settings-daemon,408,129,497,70,32,69,391,1034,39.458413926499034,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-system-log,221,62,239,47,18,29,213,522,42.337164750957854,Malagasy <i18n-malagasy-gnome@gna.org>
+gnome-system-monitor,845,1,0,209,1,0,929,846,99.88179669030734,MALAGASY <i18n-malagasy-gnoma@gna.org>
+gnome-terminal,4558,60,0,511,12,0,4454,4618,98.70073624945864,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-themes,80,0,0,24,0,0,91,80,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+gnome-vfs2,1495,11,0,297,3,0,1499,1506,99.26958831341301,MALAGASY <i18n-malagasy-gnome@gna.org>
+gtg,20,0,3477,7,0,293,18,3497,0.5719187875321705,Malagasy <mg@li.org>
+gtkhtml3,912,0,0,405,0,0,970,912,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+gtksourceview2,827,0,7,336,0,4,883,834,99.16067146282974,MALAGASY <i18n-malagasy-gnomeL@gna.org>
+gtksourceview3,4,15,303,3,10,93,5,322,1.2422360248447204,MALAGASY <i18n-malagasy-gnomeL@gna.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Malagasy (http://www.transifex.com/projects/p/initial-setup/language/mg/)
+isomaster,22,1,651,18,1,88,27,674,3.2640949554896146,http://littlesvr.ca/ostd/
+libbonobo,508,16,0,105,3,0,564,524,96.94656488549617,MALAGASY <i18n-malagasy-gnome@gna.org>
+libbonoboui,361,0,0,114,0,0,386,361,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+libgnome,1125,483,149,195,60,16,1179,1757,64.02959590210587,MALAGASY <i18n-malagasy-gnome@gna.org>
+libgnomecanvas,356,22,0,91,4,0,349,378,94.17989417989418,MALAGASY <i18n-malagasy-gnome@gna.org>
+libgnomeui,1304,21,0,323,5,0,1268,1325,98.41509433962264,MALAGASY <i18n-malagasy-gnome@gna.org>
+libgtop2,134,0,0,44,0,0,155,134,100.0,Malagasy <i18n-malagasy-gnome@gna.org>
+libgweather,6633,80,4,4491,39,4,6614,6717,98.74944171505136,MALAGASY <i18n-malagasy-gnome@gna.org>
+libmatekbd,1,0,250,1,0,42,2,251,0.398406374501992,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+libmatemixer,4,0,238,4,0,122,4,242,1.6528925619834711,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+libmateweather,6548,61,147,4475,30,33,6531,6756,96.92125518058022,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+libreport,0,0,3501,0,0,452,0,3501,0.0,Malagasy (http://www.transifex.com/projects/p/libreport/language/mg/)
+light-locker,7,0,253,2,0,35,8,260,2.6923076923076925,Malagasy (http://www.transifex.com/the_cavalry/light-locker/language/mg/)
+lxmenu-data,59,12,26,24,4,9,65,97,60.824742268041234,Malagasy <i18n-malagasy-gnome@gna.org>
+marco,2393,0,1755,295,0,118,2600,4148,57.690453230472514,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-applets,1683,0,14653,414,0,1165,1864,16336,10.302399608227228,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-backgrounds,23,0,7,17,0,4,22,30,76.66666666666667,Malagasy (http://www.transifex.com/mate/MATE/language/mg/)
+mate-calc,61,0,2934,51,0,607,74,2995,2.036727879799666,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-control-center,656,0,7259,248,0,749,757,7915,8.288060644346178,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-desktop,600,0,1705,111,0,188,639,2305,26.030368763557483,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-media,19,0,207,15,0,81,19,226,8.4070796460177,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-menu,33,0,283,26,0,92,34,316,10.443037974683545,Malagasy (http://www.transifex.com/mate/MATE/language/mg/)
+mate-menus,60,0,37,25,0,12,66,97,61.855670103092784,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-notification-daemon,3,0,136,2,0,35,4,139,2.158273381294964,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-panel,3099,0,3433,452,0,308,3427,6532,47.44335578689529,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-polkit,1,0,121,1,0,19,2,122,0.819672131147541,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-power-manager,679,0,4567,104,0,477,702,5246,12.943194815097216,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-screensaver,627,0,356,110,0,46,666,983,63.78433367243134,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-sensors-applet,14,0,2201,14,0,210,21,2215,0.6320541760722348,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-session-manager,124,0,557,40,0,74,135,681,18.208516886930983,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-settings-daemon,236,0,1528,45,0,208,214,1764,13.378684807256235,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-system-monitor,387,0,3943,151,0,454,432,4330,8.937644341801386,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-terminal,3036,0,5417,351,0,439,2912,8453,35.916242754051815,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-themes,7,0,53,2,0,10,9,60,11.666666666666666,Malagasy (http://www.transifex.com/mate/MATE/language/mg/)
+mate-user-guide,81,0,44597,54,0,3351,102,44678,0.18129728277899637,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+mate-utils,2334,0,7768,446,0,640,2350,10102,23.10433577509404,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+metacity,7261,3,0,481,1,0,7557,7264,99.95870044052863,Malagasy <i18n-malagasy-gnome@gna.org>
+mingw-GConf2,3998,19,0,477,2,0,4428,4017,99.52701020662185,MALAGASY <i18n-malagasy-gnome@gna.org>
+mingw-glib2,1135,630,3012,164,121,462,1210,4777,23.759681808666528,MALAGASY <i18n-malagasy-gnome@gna.org>
+mingw-gtksourceview3,117,362,677,96,205,329,134,1156,10.121107266435986,MALAGASY <i18n-malagasy-gnomeL@gna.org>
+mozo,42,0,0,16,0,0,40,42,100.0,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+muffin,7261,3,0,481,1,0,7557,7264,99.95870044052863,Malagasy <i18n-malagasy-gnome@gna.org>
+mutter,7261,3,0,481,1,0,7557,7264,99.95870044052863,Malagasy <i18n-malagasy-gnome@gna.org>
+nautilus,6089,733,147,1048,96,16,6546,6969,87.37265030850911,MALAGASY <i18n-malagasy-gnome@gna.org>
+newt,4,0,0,4,0,0,4,4,100.0,<en@li.org>
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,171,158,100.0,LANGUAGE <LL@li.org>
+optimizer,0,0,111,0,0,54,0,111,0.0,none
+pantheon-agent-geoclue2,0,0,46,0,0,13,0,46,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,20,0,0,10,0,20,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,28,0,24,15,0,17,39,52,53.84615384615385,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pluma,2472,0,10268,769,0,999,2792,12740,19.403453689167975,Malagasy (https://www.transifex.com/mate/teams/13566/mg/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Malagasy (http://www.transifex.com/projects/p/fedora/language/mg/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Malagasy (http://www.transifex.com/projects/p/python-meh/language/mg/)
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+sequeler,0,0,252,0,0,93,0,252,0.0,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Malagasy (http://www.transifex.com/projects/p/fedora/language/mg/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Malagasy (http://www.transifex.com/projects/p/fedora/language/mg/)
+slick-greeter,21,0,190,9,0,38,27,211,9.95260663507109,Malagasy <mg@li.org>
+sugar,168,3,2134,76,3,450,197,2305,7.288503253796096,LANGUAGE <LL@li.org>
+sugar-abacus,22,0,6,22,0,1,22,28,78.57142857142857,LANGUAGE <LL@li.org>
+sugar-browse,41,18,130,26,2,24,55,189,21.693121693121693,LANGUAGE <LL@li.org>
+sugar-calculator,392,86,393,90,16,58,387,871,45.00574052812859,LANGUAGE <LL@li.org>
+sugar-chat,54,3,80,33,1,47,59,137,39.416058394160586,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,17,0,82,4,0,22,20,99,17.17171717171717,LANGUAGE <LL@li.org>
+sugar-finance,9,0,249,8,0,55,8,258,3.488372093023256,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,121,0,0,46,0,121,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,128,0,0,33,0,128,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,19,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,38,9,189,13,3,46,43,236,16.101694915254235,LANGUAGE <LL@li.org>
+sugar-jukebox,4,0,65,3,0,19,6,69,5.797101449275362,LANGUAGE <LL@li.org>
+sugar-labyrinth,19,6,256,13,6,75,20,281,6.761565836298933,LANGUAGE <LL@li.org>
+sugar-log,41,4,53,13,1,7,41,98,41.83673469387755,LANGUAGE <LL@li.org>
+sugar-maze,1,0,6,1,0,3,1,7,14.285714285714285,LANGUAGE <LL@li.org>
+sugar-memorize,8,8,126,6,7,61,11,142,5.633802816901409,LANGUAGE <LL@li.org>
+sugar-moon,22,21,74,7,3,23,26,117,18.803418803418804,LANGUAGE <LL@li.org>
+sugar-paint,20,0,86,17,0,44,23,106,18.867924528301888,LANGUAGE <LL@li.org>
+sugar-physics,2,0,46,2,0,26,2,48,4.166666666666666,LANGUAGE <LL@li.org>
+sugar-pippy,40,15,219,16,1,49,39,274,14.5985401459854,LANGUAGE <LL@li.org>
+sugar-read,51,0,86,26,0,24,59,137,37.22627737226277,LANGUAGE <LL@li.org>
+sugar-record,0,0,62,0,0,24,0,62,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,78,0,149,49,0,25,81,227,34.36123348017621,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,7,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit,54,1,18,29,1,7,56,73,73.97260273972603,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,114,3,42,80,2,29,117,159,71.69811320754717,LANGUAGE <LL@li.org>
+sugar-turtleart,271,62,1126,136,23,276,302,1459,18.574366004112406,LANGUAGE <LL@li.org>
+sugar-typing-turtle,2,1,596,2,1,124,2,599,0.333889816360601,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,4,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,79,0,42,46,0,9,89,121,65.28925619834712,LANGUAGE <LL@li.org>
+switchboard,0,0,61,0,0,18,0,61,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,182,0,0,65,0,182,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,19,39,59,11,6,20,18,117,16.23931623931624,Malagasy <mg@li.org>
+switchboard-plug-applications,0,0,86,0,0,32,0,86,0.0,none
+switchboard-plug-bluetooth,0,0,74,0,0,28,0,74,0.0,none
+switchboard-plug-display,0,0,126,0,0,49,0,126,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,404,0,0,157,0,404,0.0,none
+switchboard-plug-mouse-touchpad,0,0,150,0,0,51,0,150,0.0,none
+switchboard-plug-networking,0,0,444,0,0,129,0,444,0.0,
+switchboard-plug-notifications,0,0,139,0,0,20,0,139,0.0,none
+switchboard-plug-pantheon-shell,0,0,153,0,0,59,0,153,0.0,
+switchboard-plug-printers,0,0,336,0,0,138,0,336,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,130,0,0,28,0,130,0.0,none
+switchboard-plug-sound,0,1,130,0,1,45,0,131,0.0,Malagasy <mg@li.org>
+totem,1764,2,0,378,1,0,1840,1766,99.88674971687429,Malagasy <i18n-malagasy-gnome@gna.org>
+totem-pl-parser,1764,2,0,378,1,0,1840,1766,99.88674971687429,Malagasy <i18n-malagasy-gnome@gna.org>
+vocal,0,0,377,0,0,79,0,377,0.0,LANGUAGE <LL@li.org>
+wingpanel,0,0,6,0,0,1,0,6,0.0,Malagasy <mg@li.org>
+wingpanel-applications-menu,0,0,225,0,0,72,0,225,0.0,
+wingpanel-indicator-bluetooth,0,0,15,0,0,9,0,15,0.0,none
+wingpanel-indicator-keyboard,0,0,10,0,0,4,0,10,0.0,
+wingpanel-indicator-network,0,0,76,0,0,22,0,76,0.0,none
+wingpanel-indicator-nightlight,0,0,16,0,0,6,0,16,0.0,
+wingpanel-indicator-notifications,0,0,16,0,0,7,0,16,0.0,none
+wingpanel-indicator-power,0,0,93,0,0,27,0,93,0.0,none
+wingpanel-indicator-session,0,0,57,0,0,18,0,57,0.0,none
+wingpanel-indicator-sound,0,0,14,0,0,6,0,14,0.0,none
+xed,1936,0,2677,566,0,427,1974,4613,41.96835031432907,Malagasy (http://www.transifex.com/projects/p/MATE/language/mg/)
+xplayer,425,0,1527,149,0,344,453,1952,21.772540983606557,Malagasy <i18n-malagasy-gnome@gna.org>
+xplayer-plparser,1764,2,0,378,1,0,1840,1766,99.88674971687429,Malagasy <i18n-malagasy-gnome@gna.org>
+xreader,513,0,1128,150,0,222,554,1641,31.26142595978062,Malagasy (http://www.transifex.com/mate/MATE/language/mg/)
+xviewer,259,0,1418,76,0,248,276,1677,15.444245676803817,Malagasy <i18n-malagasy-gnome@gna.org>
+yelp,941,16,0,235,4,0,953,957,98.32810867293625,MALAGASY <i18n-malagasy-gnome@gna.org>
+yelp-xsl,213,0,0,80,0,0,124,213,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>
+zenity,541,0,0,120,0,0,643,541,100.0,MALAGASY <i18n-malagasy-gnome@gna.org>

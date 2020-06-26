@@ -1,0 +1,125 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,1688,3497,8937,637,1011,836,1833,14122,11.952981164141056,Kaszëbsczi <i18n-csb@linuxcsb.org>
+audiocd-kio,169,2,3,10,1,1,145,174,97.12643678160919,Kashubian
+blinken,116,14,4,40,5,2,112,134,86.56716417910447,Kashubian
+bovo,42,23,17,16,7,3,44,82,51.21951219512195,Kaszëbsczi <i18n-csb@linuxcsb.org>
+budgie-session,447,27,1,92,4,1,413,475,94.10526315789474,Kashubian <csb@li.org>
+cinnamon-desktop,223,5,3,26,3,2,219,231,96.53679653679653,Kashubian <csb@li.org>
+cinnamon-translations,948,0,10381,362,0,2230,942,11329,8.367905375584781,Kashubian <csb@li.org>
+dolphin,541,1212,5047,177,358,418,512,6800,7.955882352941177,Kaszëbsczi <i18n-csb@linuxcsb.org>
+e16,115,3,2498,50,1,465,124,2616,4.396024464831804,Kashubian <csb@li.org>
+exaile,1011,365,3314,352,138,635,1005,4690,21.556503198294244,Kashubian <csb@li.org>
+file-roller,41,0,1514,21,0,319,45,1555,2.636655948553055,Kashubian <csb@li.org>
+gdk-pixbuf2,481,43,821,66,4,131,474,1345,35.762081784386616,Kashubian <csb@li.org>
+gdk-pixbuf2-modules-extra,481,43,821,66,4,131,474,1345,35.762081784386616,Kashubian <csb@li.org>
+gdm,112,46,492,25,10,52,117,650,17.23076923076923,Kashubian <csb@li.org>
+gimp,108,559,13173,51,262,3003,115,13840,0.7803468208092486,Kashubian <csb@li.org>
+gnome-applets,848,17,2170,244,6,403,825,3035,27.940691927512358,Kashubian <csb@li.org>
+gnome-desktop3,235,0,0,31,0,0,231,235,100.0,Kashubian <csb@li.org>
+gnome-icon-theme,4,0,0,2,0,0,4,4,100.0,Kashubian <csb@li.org>
+gnome-menus,95,0,0,37,0,0,87,95,100.0,Kashubian <csb@li.org>
+gnome-panel,222,15,3283,99,6,403,210,3520,6.306818181818182,Kashubian <csb@li.org>
+gnome-session,447,27,1,92,4,1,413,475,94.10526315789474,Kashubian <csb@li.org>
+iso-codes,107,11,871,93,3,329,105,989,10.819009100101113,Kashubian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/csb/>
+k3b,416,380,13874,128,117,1423,416,14670,2.8357191547375598,Kashubian <i18n-csb@linuxcsb.org>
+kalgebra,52,43,71,33,20,28,49,166,31.32530120481928,Kashubian
+kate,601,771,1493,152,180,216,530,2865,20.977312390924958,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kdialog,185,97,121,41,14,23,192,403,45.90570719602978,Kashubian <i18n-csb@linuxcsb.org>
+keditbookmarks,341,119,10,96,35,2,342,470,72.5531914893617,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kauth,0,0,73,0,0,8,0,73,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kbookmarks,0,79,151,0,28,21,0,230,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf5-kcmutils,108,123,35,16,18,4,88,266,40.6015037593985,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kconfig,0,50,239,0,5,99,0,289,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf5-kconfigwidgets,123,152,67,66,45,14,135,342,35.96491228070175,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kcoreaddons,0,307,75,0,90,42,0,382,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdeclarative,41,22,98,7,6,12,37,161,25.465838509316768,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdelibs4support,1173,1020,3160,629,702,1213,1176,5353,21.912946011582292,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kdoctools,8,0,0,4,0,0,10,8,100.0,Kashubian
+kf5-kglobalaccel,0,45,26,0,6,3,0,71,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-khtml,1098,388,181,241,27,21,936,1667,65.86682663467307,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-ki18n,42,80,2,42,66,2,43,124,33.87096774193548,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kiconthemes,0,0,41,0,0,19,0,41,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf5-kinit,78,31,7,6,4,1,55,116,67.24137931034483,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kio,4322,2170,5545,477,286,610,3630,12037,35.90595663371272,Kashubian <i18n-csb@linuxcsb.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kjobwidgets,0,115,18,0,36,2,0,133,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kjsembed,222,14,12,41,2,1,218,248,89.51612903225806,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kldap,33,0,0,8,0,0,34,33,100.0,Kashubian
+kf5-knewstuff,151,259,1221,41,100,90,147,1631,9.258123850398528,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-knotifyconfig,43,86,0,15,2,0,41,129,33.33333333333333,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kparts,71,51,16,16,12,2,59,138,51.449275362318836,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kross,81,19,0,28,7,0,76,100,81.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kservice,44,79,50,7,15,6,43,173,25.43352601156069,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-ktextwidgets,433,13,27,108,9,13,407,473,91.5433403805497,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kwidgetsaddons,0,1153,140,0,428,35,0,1293,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-kxmlgui,445,925,204,99,114,17,378,1574,28.27191867852605,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf5-sonnet,0,661,22,0,71,5,0,683,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kauth,0,0,73,0,0,8,0,73,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kbookmarks,0,68,111,0,24,14,0,179,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf6-kcmutils,11,104,8,5,17,4,14,123,8.94308943089431,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kcodecs,0,55,315,0,36,17,0,370,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kcompletion,0,18,0,0,11,0,0,18,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kconfig,0,50,500,0,5,199,0,550,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf6-kconfigwidgets,91,158,63,48,55,14,102,312,29.166666666666668,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kcoreaddons,0,361,124,0,106,56,0,485,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kdeclarative,36,21,112,4,6,11,28,169,21.301775147928996,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kdnssd,0,3,0,0,3,0,0,3,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kdoctools,8,0,0,4,0,0,10,8,100.0,Kashubian
+kf6-kglobalaccel,0,12,22,0,3,2,0,34,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-ki18n,42,80,2,42,66,2,43,124,33.87096774193548,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kiconthemes,0,0,46,0,0,22,0,46,0.0,Kashubian <i18n-csb@linuxcsb.org>
+kf6-kio,3229,1181,4197,365,258,523,2685,8607,37.51597536888579,Kashubian <i18n-csb@linuxcsb.org>
+kf6-kitemviews,0,6,0,0,3,0,0,6,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kjobwidgets,0,118,21,0,38,3,0,139,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-knewstuff,3,172,859,3,68,59,3,1034,0.2901353965183753,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-knotifications,0,0,0,0,0,0,0,0,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-knotifyconfig,19,0,0,7,0,0,17,19,100.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kparts,35,15,7,8,2,1,31,57,61.40350877192983,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kpty,15,0,0,4,0,0,19,15,100.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kservice,4,32,9,2,9,1,8,45,8.88888888888889,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-ktextwidgets,428,18,27,105,12,13,402,473,90.48625792811839,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kwidgetsaddons,0,1137,140,0,430,36,0,1277,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-kxmlgui,357,711,221,88,89,23,311,1289,27.695888285492632,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kf6-sonnet,0,657,27,0,71,6,0,684,0.0,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kfind,386,113,18,74,40,3,374,517,74.6615087040619,Kaszëbsczi <i18n-csb@linuxcsb.org>
+khelpcenter,180,24,17,70,8,6,185,221,81.44796380090497,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kio-extras,757,805,1110,77,82,82,695,2672,28.33083832335329,Kashubian <i18n-csb@linuxcsb.org>
+kio-extras-kf5,418,294,225,59,27,31,423,937,44.61045891141943,Kashubian <i18n-csb@linuxcsb.org>
+kiriki,45,38,62,23,19,9,44,145,31.03448275862069,Kashubian
+kldap,33,0,0,8,0,0,34,33,100.0,Kashubian
+klines,70,11,18,19,6,3,61,99,70.70707070707071,Kashubian
+kmahjongg,199,101,59,53,36,10,191,359,55.43175487465181,Kashubian <i18n-csb@linuxcsb.org>
+knavalbattle,169,145,87,59,27,18,180,401,42.14463840399002,Kaszëbsczi <i18n-csb@linuxcsb.org>
+knetwalk,26,20,190,11,2,43,27,236,11.016949152542372,Kashubian <i18n-csb@linuxcsb.org>
+konqueror,3305,676,2113,452,96,187,2784,6094,54.2336724647194,Kashubian <i18n-csb@linuxcsb.org>
+konsole,519,1450,2313,112,389,398,464,4282,12.120504437178889,Kaszëbsczi <i18n-csb@linuxcsb.org>
+konsole5,527,1366,2103,115,366,359,472,3996,13.188188188188189,Kaszëbsczi <i18n-csb@linuxcsb.org>
+kpat,105,147,337,39,61,113,114,589,17.826825127334462,Kashubian
+ktuberling,66,35,57,25,7,6,68,158,41.77215189873418,Kashubian
+kturtle,117,52,1369,15,4,330,105,1538,7.607282184655396,Kashubian
+libkmahjongg,5,3,3,5,3,3,5,11,45.45454545454545,Kashubian
+libmatekbd,0,0,0,0,0,0,0,0,0.0,
+libmypaint,1,0,2302,1,0,161,1,2303,0.04342162396873643,Kashubian <https://hosted.weblate.org/projects/mypaint/libmypaint/csb/>
+lokalize,96,94,3896,56,42,570,94,4086,2.3494860499265786,Kaszëbsczi <i18n-csb@linuxcsb.org>
+lxmenu-data,3,1,96,1,1,39,1,100,3.0,LANGUAGE <LL@li.org>
+mate-applets,2,0,1513,2,0,100,12,1515,0.132013201320132,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+mate-control-center,23,2,3313,14,1,1155,28,3338,0.689035350509287,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+mate-menu,6,0,302,5,0,105,6,308,1.948051948051948,Kashubian (http://www.transifex.com/mate/MATE/language/csb/)
+mate-panel,1,0,941,1,0,62,6,942,0.10615711252653928,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+mate-sensors-applet,2,0,311,2,0,107,8,313,0.6389776357827476,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Kashubian (http://app.transifex.com/mate/MATE/language/csb/)
+mingw-gdk-pixbuf,481,43,821,66,4,131,474,1345,35.762081784386616,Kashubian <csb@li.org>
+mypaint,14,13,6354,12,8,1250,14,6381,0.21940134775113618,Kashubian <https://hosted.weblate.org/projects/mypaint/mypaint/csb/>
+phonon,0,282,45,0,40,19,0,327,0.0,Kashubian
+pluma-plugins,1,0,509,1,0,48,6,510,0.19607843137254902,Kashubian (https://www.transifex.com/mate/teams/13566/csb/)
+python-apt,7,8,529,3,4,111,8,544,1.2867647058823528,Kashubian <csb@li.org>
+sweeper,172,46,10,38,8,4,147,228,75.43859649122807,Kashubian
+xdg-user-dirs-gtk,81,0,0,11,0,0,66,81,100.0,Kashubian <csb@li.org>

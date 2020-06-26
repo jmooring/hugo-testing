@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cacti,396,26414,55,323,3637,3,451,26865,1.474036850921273,
+childsplay,1065,21,140,129,9,74,833,1226,86.86786296900489,Arabic <>
+electrum,979,0,5705,274,0,925,869,6684,14.646918013165768,Arabic
+gimagereader,1439,0,4,417,0,2,1529,1443,99.72279972279972,Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/>
+glpi,3814,0,9181,1089,0,2231,4005,12995,29.34974990380916,Arabic (Saudi Arabia) (https://www.transifex.com/glpi/teams/1637/ar_SA/)
+poedit,2616,0,158,590,0,30,2473,2774,94.3042537851478,Arabic
+publican-fedora,0,0,1,0,0,1,0,1,0.0,None
+python-flask-admin,320,0,47,97,0,15,362,367,87.19346049046321,Arabic
+texi2html,12,0,7,12,0,7,16,19,63.1578947368421,Arabic <guido@imperia.net>
+texinfo,12,0,7,12,0,7,16,19,63.1578947368421,Arabic <guido@imperia.net>

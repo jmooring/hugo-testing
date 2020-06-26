@@ -1,0 +1,101 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,906,0,2710,274,0,375,819,3616,25.055309734513276,<fr@li.org>
+Terminal,1201,214,35,236,11,5,995,1450,82.82758620689656,Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org>
+Thunar,3600,86,116,638,20,15,3348,3802,94.68700683850605,Esperanto <debian-l10n-esperanto@lists.debian.org>
+abiword,0,0,0,0,0,0,0,0,0.0,
+alacarte,74,0,0,30,0,0,76,74,100.0,Esperanto <eo-tradukado@lists.tuxfamily.org>
+amarok,1605,17,11632,662,9,1837,1527,13254,12.109551833408783,Esperanto <kde-i18n-eo@kde.org>
+at-spi,4,0,11,2,0,2,4,15,26.666666666666668,Esperanto <eo@li.org>
+atk,30,96,244,30,48,45,31,370,8.108108108108109,Esperanto <eo@li.org>
+bittorrent,751,0,3155,220,0,414,765,3906,19.226830517153097,LANGUAGE <LL@li.org>
+bluez-gnome,1,0,677,1,0,195,12,678,0.14749262536873156,Esperanto <eo@li.org>
+cinepaint,118,17,2649,78,10,946,96,2784,4.238505747126436,<de@li.org>
+dcraw,519,0,0,106,0,0,497,519,100.0,
+deluge,288,7,2146,103,2,440,268,2441,11.798443260958623,Esperanto <eo@li.org>
+diffutils,1342,0,0,180,0,0,1291,1342,100.0,Esperanto <translation-team-eo@lists.sourceforge.net>
+empathy,126,236,581,43,83,65,112,943,13.361611876988336,Esperanto Team (inactive?) <eo@li.org>
+exaile,1315,172,1093,438,8,237,1295,2580,50.968992248062015,Esperanto <eo@li.org>
+findutils,230,252,817,56,20,56,220,1299,17.705927636643572,Esperanto <translation-team-eo@lists.sourceforge.net>
+frozen-bubble,616,0,0,137,0,0,557,616,100.0,Esperanto
+fuse-encfs,8,0,1302,2,0,127,7,1310,0.6106870229007634,Esperanto <eo@li.org>
+gajim,7553,0,0,1384,0,0,6804,7553,100.0,Esperanto <translation-team-eo@lists.sourceforge.net>
+gettext,871,0,0,112,0,0,895,871,100.0,Esperanto <translation-team-eo@lists.sourceforge.net>
+gimp,15591,223,8892,3730,24,2757,14582,24706,63.10612806605683,eo-tradukado.tuxfamily.org
+glabels,1497,0,165,551,0,8,1603,1662,90.07220216606498,Esperanto <eo@li.org>
+glib2,725,401,1032,78,69,193,626,2158,33.59592215013902,Esperanto <LL@li.org>
+gnome-applet-timer,98,124,61,36,21,14,92,283,34.62897526501767,Esperanto <eo@li.org>
+gnome-commander,62,2,7828,36,1,1386,62,7892,0.7856056766345666,Esperanto
+gnome-desktop,323,0,0,73,0,0,322,323,100.0,Eo-Tradukado <eo-tradukado@lists.tuxfamily.org>
+gnome-mag,5,0,0,2,0,0,7,5,100.0,Esperanto <eo-tradukado@lists.tuxfamily.org>
+gnome-menus,136,0,0,49,0,0,133,136,100.0,Esperanto <eo@li.org>
+gnome-mime-data,851,0,3,349,0,1,831,854,99.64871194379391,Esperanto <LL@li.org>
+gnome-panel,686,967,2284,150,201,166,642,3937,17.424434848869698,Esperanto <eo@li.org>
+gnome-session,571,0,0,106,0,0,502,571,100.0,Eo-Tradukado <eo-tradukado@lists.tuxfamily.org>
+gnome-vfs2,225,77,980,66,20,162,220,1282,17.550702028081123,Esperanto <eo@li.org>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Esperanto <eo@li.org>
+gnupg,3357,3299,1739,488,543,235,3133,8395,39.98808814770697,Esperanto <translation-team-eo@lists.sourceforge.net>
+gnupg2,2363,4482,3099,413,796,446,2239,9944,23.763073209975865,Esperanto <translation-team-eo@lists.sourceforge.net>
+gossip,184,554,1228,69,178,178,163,1966,9.35910478128179,Esperanto Team (inactive?) <eo@li.org>
+gourmet,0,0,3526,0,0,791,0,3526,0.0,Esperanto <eo@li.org>
+gqview,1719,2,0,668,1,0,1745,1721,99.88378849506101,
+gramps,2714,6353,8785,724,1440,696,2562,17852,15.202778400179252,Esperanto <eo@li.org>
+grep,579,0,0,50,0,0,574,579,100.0,Esperanto <eo@li.org>
+gtk2,2911,44,9137,758,13,1641,2610,12092,24.073767780350643,Eo-tradukado <http://eo-tradukado.tuxfamily.org>
+gtkspell,11,0,0,5,0,0,10,11,100.0,Esperanto <translation-team-eo@lists.sourceforge.net>
+gucharmap,122,0,0,37,0,0,102,122,100.0,Esperanto <eo@li.org>
+gurlchecker,603,750,730,129,127,130,573,2083,28.94863178108497,<fr@li.org>
+indent,236,33,15,53,5,2,233,284,83.09859154929578,Esperanto <translation-team-eo@lists.sourceforge.net>
+inkscape,16241,0,932,3397,0,68,17135,17173,94.57287602632039,<eo@li.org>
+iso-codes,2562,7213,9043,1474,6019,5689,2183,18818,13.614624295886918,Esperanto <translation-team-eo@lists.sourceforge.net>
+jokosher,602,3,1326,138,1,241,531,1931,31.175556706369754,Esperanto <eo@li.org>
+kcoloredit,79,17,22,26,7,13,73,118,66.94915254237289,Esperanto
+kiconedit,476,164,84,84,32,38,434,724,65.74585635359117,Esperanto <eo@li.org>
+kmid,402,124,9,176,30,8,363,535,75.14018691588785,Esperanto <eo@li.org>
+konq-plugins,197,210,433,64,69,130,184,840,23.452380952380953,Esperanto <eo@li.org>
+ktorrent,4041,138,30,789,16,9,3880,4209,96.00855310049893,Esperanto <kde-i18n-eo@kde.org>
+libbonobo,464,17,43,95,5,8,413,524,88.54961832061069,Esperanto <eo@li.org>
+libgnome,1517,0,0,237,0,0,1447,1517,100.0,Esperanto <eo@li.org>
+libgnomecanvas,339,18,0,92,2,0,325,357,94.9579831932773,Esperanto <LL@li.org>
+libgnomeui,1325,0,0,328,0,0,1213,1325,100.0,Esperanto <eo@li.org>
+libgtop2,134,0,0,44,0,0,132,134,100.0,Esperanto <eo-tradukado@lists.tuxfamily.org>
+libidn,202,13,0,45,4,0,197,215,93.95348837209302,Esperanto <translation-team-eo@lists.sourceforge.net>
+libwnck,88,0,0,33,0,0,95,88,100.0,Eo-Tradukado <eo-tradukado@lists.tuxfamily.org>
+libxfcegui4,81,0,0,25,0,0,76,81,100.0,Esperanto <translation-team-eo@lists.sourceforge.net>
+m17n-contrib,44,0,105,5,0,1,83,149,29.53020134228188,Esperanto
+mousepad,121,2,12,62,1,1,112,135,89.62962962962962,debian-l10n-esperanto@lists.debian.org
+mutt,5202,4,9,1086,1,2,5157,5215,99.75071907957815,eo <eo@li.org>
+nautilus,6795,0,96,1136,0,8,6320,6891,98.60687853722247,Eo-Tradukado <http://eo-tradukado.tuxfamily.org>
+newt,4,0,0,4,0,0,4,4,100.0,Esperanto <debian-l10n-esperanto@lists.debian.org>
+orage,863,0,1,538,0,1,868,864,99.88425925925925,Esperanto <debian-l10n-esperanto@lists.debian.org>
+oyranos,2,0,42,1,0,19,2,44,4.545454545454546,<de@li.org>
+pidgin,7763,0,8536,2221,0,1228,6999,16299,47.6286888766182,Esperanto <kde-i18n-eo@kde.org>
+po4a,303,26,1284,34,5,124,300,1613,18.784872907625545,Esperanto <eo@li.org>
+poedit,1081,67,6,252,18,2,1082,1154,93.6741767764298,Tim Morley <t_morley@argonet.co.uk>
+ruby-gettext-package,561,0,0,120,0,0,477,561,100.0,Esperanto
+sane-backends,3986,46,114,801,14,14,4576,4146,96.14085865894837,<it@li.org>
+scribus,4227,5527,5187,1398,1391,626,3859,14941,28.291279030854692,esperanto <eo@li.org>
+sed,204,136,165,38,29,14,197,505,40.396039603960396,Esperanto <translation-team-eo@lists.sourceforge.net>
+shared-mime-info,909,39,61,355,15,17,768,1009,90.08919722497522,Esperanto <translation-team-eo@lists.sourceforge.net>
+stellarium,144,0,1003,81,0,406,143,1147,12.554489973844813,Esperanto <eo@li.org>
+texinfo,3430,973,178,540,18,22,3484,4581,74.8744815542458,Esperanto <translation-team-eo@lists.sourceforge.net>
+texlive,3634,618,130,516,28,20,3615,4382,82.93016887266089,Esperanto <translation-team-eo@lists.sourceforge.net>
+thunar-archive-plugin,74,12,0,11,2,0,67,86,86.04651162790698,Esperanto <debian-l10n-esperanto@lists.debian.org>
+wesnoth,41256,14700,143853,3825,481,7607,35041,199809,20.64771857123553,
+wget,740,90,1108,164,13,164,766,1938,38.18369453044376,Esperanto <translation-team-eo@lists.sourceforge.net>
+workrave,215,175,744,55,67,98,199,1134,18.95943562610229,Esperanto <eo@li.org>
+wormux,253,124,86,66,30,30,236,463,54.64362850971922,eo <victor.stinner AT haypocalc.com>
+xfce-mcs-manager,30,0,0,7,0,0,38,30,100.0,Esperanto <debian-l10n-esperanto@lists.debian.org>
+xfce-mcs-plugins,381,16,143,101,7,38,345,540,70.55555555555556,Esperanto <translation-team-eo@lists.sourceforge.net>
+xfce-utils,114,5,0,33,1,0,116,119,95.7983193277311,Esperanto <debian-l10n-esperanto@lists.debian.org>
+xfce4-appfinder,48,0,0,28,0,0,48,48,100.0,Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org>
+xfce4-icon-theme,8,0,0,2,0,0,6,8,100.0,Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org>
+xfce4-panel,578,0,0,160,0,0,579,578,100.0,Esperanto <debian-l10n-esperanto@lists.debian.org>
+xfce4-places-plugin,4,0,39,3,0,16,3,43,9.30232558139535,
+xfce4-session,738,0,0,129,0,0,705,738,100.0,Esperanto <debian-l10n-esperanto@lists.debian.org>
+xfce4-verve-plugin,47,0,0,10,0,0,36,47,100.0,Debian-l10n-esperanto <debian-l10n-esperanto@lists.debian.org>
+xfdesktop,390,321,367,117,83,88,368,1078,36.178107606679035,Esperanto <translation-team-eo@lists.sourceforge.net>
+xfprint,227,1,95,102,1,10,223,323,70.27863777089783,Esperanto <debian-l10n-esperanto@lists.debian.org>
+xfwm4,630,0,16,185,0,5,750,646,97.52321981424149,Esperanto <translation-team-eo@lists.sourceforge.net>
+xine-lib,5080,254,6166,740,23,148,5252,11500,44.173913043478265,<it@li.org>
+xmms,1405,261,1579,661,93,263,1377,3245,43.29738058551618,Esperanto <eo@li.org>
+yelp,57,90,459,24,46,78,53,606,9.405940594059405,Esperanto <eo@li.org>

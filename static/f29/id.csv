@@ -1,0 +1,1071 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,145,0,67,34,0,10,135,212,68.39622641509435,Indonesian (http://www.transifex.com/wildfire-games/0ad/language/id/)
+GConf2,4088,0,0,497,0,0,4008,4088,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+ModemManager,134,0,0,17,0,0,132,134,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+NetworkManager,22246,0,0,1969,0,0,21022,22246,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+NetworkManager-fortisslvpn,314,0,0,56,0,0,320,314,100.0,Indonesian Translator <gnome@i15n.org>
+NetworkManager-iodine,79,0,0,24,0,0,84,79,100.0,Indonesian <gnome@i15n.org>
+NetworkManager-l2tp,391,0,515,74,0,62,398,906,43.15673289183223,Indonesian Translator <gnome@i15n.org>
+NetworkManager-libreswan,257,0,0,54,0,0,258,257,100.0,Indonesian <gnome@i15n.org>
+NetworkManager-openconnect,5550,0,812,970,0,146,5624,6362,87.2367180132034,Indonesian <gnome@i15n.org>
+NetworkManager-openvpn,1847,0,0,256,0,0,1813,1847,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+NetworkManager-pptp,509,0,0,84,0,0,516,509,100.0,Indonesian Translator <gnome@i15n.org>
+NetworkManager-ssh,120,85,81,32,21,16,124,286,41.95804195804196,GNOME Indonesian Translation Team <gnome@i15n.org>
+NetworkManager-sstp,509,0,0,84,0,0,516,509,100.0,Indonesian Translator <gnome@i15n.org>
+NetworkManager-vpnc,606,0,0,101,0,0,610,606,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+PackageKit,1282,0,0,321,0,0,1259,1282,100.0,Indonesian (http://www.transifex.com/freedesktop/packagekit/language/id/)
+Thunar,4202,0,145,725,0,27,3640,4347,96.66436622958362,Indonesian (https://www.transifex.com/xfce/teams/16840/id/)
+abattis-cantarell-fonts,27,0,0,3,0,0,25,27,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+abrt,363,0,3606,55,0,421,341,3969,9.145880574452004,Indonesian (http://www.transifex.com/projects/p/fedora-abrt/language/id/)
+accerciser,659,0,0,224,0,0,666,659,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+accountsservice,59,0,0,10,0,0,56,59,100.0,Indonesian (http://www.transifex.com/projects/p/freedesktop/language/id/)
+agenda,2,0,41,1,0,12,3,43,4.651162790697675,Indonesian <id@li.org>
+ailurus,158,0,7156,36,0,1125,156,7314,2.1602406343997815,none
+aisleriot,3075,0,0,679,0,0,2482,3075,100.0,Indonesian <gnome@i15n.org>
+alacarte,45,0,0,20,0,0,40,45,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+alleyoop,351,0,0,92,0,0,331,351,100.0,INDONESIAN <userindesign@gmail.com>
+almanah,828,0,0,139,0,0,805,828,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+amarok,15696,41,82,2777,1,2,14518,15819,99.22245401099943,Indonesian <kde-i18n-doc@kde.org>
+amtk,11,0,0,3,0,0,12,11,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+anaconda,7840,0,0,1288,0,0,7438,7840,100.0,Indonesian (http://www.transifex.com/projects/p/anaconda/language/id/)
+anjuta,8407,0,0,2062,0,0,8092,8407,100.0,Indonesian <gnome@i15n.org>
+appcenter,758,2,5,177,2,2,723,765,99.08496732026144,Indonesian <https://weblate.elementary.io/projects/appcenter/appcenter/id/>
+appstream,891,0,0,195,0,0,867,891,100.0,Indonesian <https://hosted.weblate.org/projects/appstream/translations/id/>
+arduino,1401,0,1692,301,0,289,1433,3093,45.295829291949566,Indonesian (http://www.transifex.com/mbanzi/arduino-ide-15/language/id/)
+aria2,1098,0,6388,138,0,261,1027,7486,14.667379107667648,Indonesian <id@li.org>
+ark,1845,0,9,334,0,2,1670,1854,99.51456310679612,Indonesian <kde-i18n-doc@kde.org>
+arm-none-eabi-binutils-cs,47240,0,0,7521,0,0,48015,47240,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+arm-none-eabi-gcc-cs,22392,51949,32080,3270,6907,3303,22623,106421,21.040959960909973,Indonesian <translation-team-id@lists.sourceforge.net>
+arm-none-eabi-gdb,7765,0,0,1106,0,0,7920,7765,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+aspell,1726,0,0,293,0,0,1643,1726,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+asunder,18,0,477,16,0,75,21,495,3.6363636363636362,http://littlesvr.ca/ostd/
+at-spi2-core,10,0,0,2,0,0,9,10,100.0,Indonesian <gnome@i15n.org>
+atk,440,0,0,169,0,0,415,440,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+atomix,169,0,0,45,0,0,157,169,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+atril,1810,0,2032,429,0,210,1743,3842,47.11087975013014,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+audacious,700,0,80,310,0,23,749,780,89.74358974358975,Indonesian (Indonesia) (http://www.transifex.com/audacious/audacious/language/id_ID/)
+audacious-plugins,1360,0,2618,544,0,356,1413,3978,34.18803418803419,Indonesian (Indonesia) (http://www.transifex.com/audacious/audacious/language/id_ID/)
+audacity,4880,6321,5787,1238,1731,912,4771,16988,28.726159642100306,
+authconfig,549,16,364,89,2,46,557,929,59.09580193756727,Indonesian (http://www.transifex.com/projects/p/fedora/language/id/)
+autotest-framework,983,0,0,89,0,0,902,983,100.0,Indonesian
+avahi,868,0,0,168,0,0,850,868,100.0,Indonesian (http://www.transifex.com/lennart/avahi/language/id/)
+avogadro,5065,0,1542,2010,0,362,5210,6607,76.66111699712425,Indonesian <id@li.org>
+avogadro2,129,67,266,78,25,46,219,462,27.92207792207792,Indonesian <id@li.org>
+avogadro2-libs,340,722,1587,254,268,306,438,2649,12.83503208758022,Indonesian <id@li.org>
+avr-binutils,47240,0,0,7521,0,0,48015,47240,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+avr-gcc,22392,51949,32080,3270,6907,3303,22623,106421,21.040959960909973,Indonesian <translation-team-id@lists.sourceforge.net>
+avr-gdb,10001,0,0,1604,0,0,10188,10001,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+axel,304,239,0,70,3,0,322,543,55.98526703499079,Indonesian (Indonesia) <yudi.al@gmail.com>
+b43-fwcutter,67,0,0,4,0,0,45,67,100.0,Debian Indonesia Translator <debian-l10n-indonesian@lists.debian.org>
+b43-tools,67,0,0,4,0,0,45,67,100.0,Debian Indonesia Translator <debian-l10n-indonesian@lists.debian.org>
+backintime,959,0,1024,173,0,163,991,1983,48.36106908724155,Indonesian <id@li.org>
+baloo-widgets,29,8,5,18,3,4,30,42,69.04761904761905,Indonesian <translation-team-id@lists.sourceforge.net>
+balsa,5713,64,31,1367,12,5,5555,5808,98.36432506887053,Indonesian <l10n@id.gnome.org>
+banshee,6001,0,0,1545,0,0,5840,6001,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+baobab,1350,0,0,132,0,0,1234,1350,100.0,Indonesian <gnome@i15n.org>
+bash,6279,5009,68,519,50,12,5976,11356,55.2923564635435,Indonesian <translation-team-id@lists.sourceforge.net>
+bijiben,425,0,0,139,0,0,442,425,100.0,Indonesian <gnome@i15n.org>
+binutils,47240,0,0,7521,0,0,48015,47240,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+bison,558,551,280,110,53,46,572,1389,40.17278617710583,Indonesian <translation-team-id@lists.sourceforge.net>
+bleachbit,1272,0,0,270,0,0,1307,1272,100.0,ubuntu-indonesia.com
+blender,5357,0,0,2122,0,0,3145,5357,100.0,Indonesian <>
+blivet-gui,0,0,815,0,0,223,0,815,0.0,Indonesian
+blueberry,31,0,110,9,0,25,30,141,21.98581560283688,Indonesian <id@li.org>
+bluedevil,572,0,0,191,0,0,533,572,100.0,Indonesian <kde-i18n-doc@kde.org>
+blueman,1271,0,64,330,0,5,1207,1335,95.20599250936328,Indonesian (http://www.transifex.com/mate/MATE/language/id/)
+boinc-client,164,0,0,17,0,0,151,164,100.0,Indonesian (http://www.transifex.com/boinc/boinc/language/id/)
+brasero,7751,0,0,1113,0,0,6942,7751,100.0,Indonesian <gnome@i15n.org>
+byobu,177,0,0,44,0,0,167,177,100.0,Indonesian <id@li.org>
+byzanz,236,0,0,52,0,0,242,236,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+bzr,695,0,32554,103,0,2250,636,33249,2.09028842972721,Indonesian <id@li.org>
+cairo-dock,272,0,7192,78,0,749,268,7464,3.644158628081458,Indonesian <id@li.org>
+cairo-dock-plug-ins,256,0,9947,112,0,1610,254,10203,2.5090659609918653,Indonesian <id@li.org>
+caja,8394,0,1126,1442,0,125,7770,9520,88.17226890756302,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+caja-extensions,571,0,13,132,0,3,564,584,97.77397260273972,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+calamares,138,0,305,27,0,57,129,443,31.15124153498871,Indonesian (https://www.transifex.com/calamares/teams/20061/id/)
+calibre,4226,0,154776,664,0,17584,3780,159002,2.6578282034188248,Indonesian (http://www.transifex.com/calibre/calibre/language/id/)
+california,577,0,85,204,0,7,570,662,87.16012084592145,Indonesian <gnome-l10n-id@googlegroups.com>
+caribou,169,0,0,57,0,0,181,169,100.0,Indonesian <gnome@i15n.org>
+catfish,34,0,643,17,0,94,30,677,5.022156573116692,Indonesian <id@li.org>
+ccsm,401,5,185,133,3,27,373,591,67.85109983079526,Indonesian <id@li.org>
+certmonger,701,84,2046,125,11,337,692,2831,24.761568350406215,Indonesian (http://www.transifex.com/projects/p/certmonger/language/id/)
+cflow,519,54,21,102,9,2,524,594,87.37373737373737,Indonesian <translation-team-id@lists.sourceforge.net>
+cheese,2086,0,0,235,0,0,1847,2086,100.0,Indonesian <gnome@i15n.org>
+chkconfig,503,0,52,94,0,9,506,555,90.63063063063062,Indonesian <trans-id@lists.fedoraproject.org>
+chrome-gnome-shell,313,0,0,49,0,0,314,313,100.0,
+cinnamon-control-center,539,70,704,539,51,166,539,1313,41.05102817974105,LDP Indonesia <http://www.linux.or.id>
+cinnamon-desktop,234,0,0,32,0,0,236,234,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+cinnamon-translations,18048,0,4425,4028,0,1003,17007,22473,80.3097049793085,Indonesian <id@li.org>
+clamtk,438,0,10,134,0,4,422,448,97.76785714285714,Indonesian <id@li.org>
+claws-mail,19958,0,559,3951,0,62,18788,20517,97.27543013111078,M. Sulchan Darmawan <bleketux@gmail.com>
+clawsker,1262,0,0,225,0,0,1220,1262,100.0,translators@lists.claws-mail.org
+clementine,4880,0,247,1308,0,53,4714,5127,95.18236785644626,Indonesian (http://www.transifex.com/davidsansome/clementine/language/id/)
+clutter,3057,0,0,675,0,0,2573,3057,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+cogl,393,0,0,80,0,0,388,393,100.0,Indonesian <gnome@i15n.org>
+colord,837,0,1153,215,0,38,785,1990,42.06030150753769,Indonesian (http://www.transifex.com/freedesktop/colord/language/id/)
+comix,1300,0,26,259,0,3,1231,1326,98.0392156862745,Indonesia <id@li.org>
+console-setup,985,12,4,175,2,1,847,1001,98.4015984015984,Debian Indonesia Translators <debian-l10n-indonesian@lists.debian.org>
+corebird,542,0,44,193,0,18,521,586,92.4914675767918,Indonesian (Indonesia) (http://www.transifex.com/corebird/corebird/language/id_ID/)
+coreutils,8569,9223,3241,1015,505,258,8636,21033,40.74074074074074,Indonesian <translation-team-id@lists.sourceforge.net>
+cpio,1795,86,21,293,15,5,1804,1902,94.37434279705573,Indonesian <translation-team-id@lists.sourceforge.net>
+cross-binutils,47240,0,0,7521,0,0,48015,47240,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+cross-gcc,23946,49043,29650,3501,6519,3078,24188,102639,23.33031303890334,Indonesian <translation-team-id@lists.sourceforge.net>
+cryptsetup,340,1495,2462,60,239,348,343,4297,7.912497090993717,Indonesian <translation-team-id@lists.sourceforge.net>
+cups-pk-helper,149,0,0,22,0,0,149,149,100.0,Indonesian (http://www.transifex.com/projects/p/freedesktop/language/id/)
+d-feet,111,0,0,37,0,0,111,111,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+dasher,1292,0,0,249,0,0,1253,1292,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+dconf-editor,2579,0,0,294,0,0,2485,2579,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+debconf,795,5,60,87,3,4,733,860,92.44186046511628,Debian Indonesia Team <debian-l10n-id@gurame.fisika.ui.ac.id>
+deepin-daemon,1999,54,848,821,17,142,1951,2901,68.90727335401586,Indonesian (Indonesia) (http://www.transifex.com/projects/p/dde-daemon/language/id_ID/)
+deepin-metacity,2150,0,0,307,0,0,2154,2150,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+deepin-mutter,814,0,0,125,0,0,802,814,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+deepin-qml-widgets,36,0,0,27,0,0,34,36,100.0,Indonesian (Indonesia) (http://www.transifex.com/projects/p/deepin-qml-widgets/language/id_ID/)
+deepin-terminal,404,0,5,162,0,2,418,409,98.77750611246944,Indonesian (https://www.transifex.com/linuxdeepin/teams/3976/id/)
+deepin-wm,11,0,721,3,0,86,9,732,1.5027322404371584,Indonesian <id@li.org>
+deja-dup,2543,0,1639,335,0,159,2269,4182,60.80822572931611,Indonesian <id@li.org>
+deluge,218,0,2510,122,0,756,225,2728,7.991202346041056,Indonesian <id@li.org>
+devhelp,383,0,0,95,0,0,367,383,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+dia,4210,1050,451,1755,202,89,4181,5711,73.71738749781123,Indonesia <l10n@id.gnome.org>
+dialog,25,0,0,23,0,0,27,25,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+diffutils,1715,117,54,235,20,11,1683,1886,90.93319194061506,Indonesian <translation-team-id@lists.sourceforge.net>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf,645,2,3071,218,1,532,674,3718,17.348036578805807,Indonesian (http://www.transifex.com/projects/p/dnf/language/id/)
+dnf-plugins-core,219,0,961,38,0,150,229,1180,18.559322033898304,Indonesian
+dnf-plugins-extras,317,0,0,49,0,0,317,317,100.0,Indonesian
+dnfdragora,369,0,490,197,0,167,360,859,42.9569266589057,Indonesian (https://www.transifex.com/MageiaLinux/teams/9361/id/)
+dnsmasq,745,858,1315,132,153,216,738,2918,25.53118574366004,Indonesian <translation-team-id@lists.sourceforge.net>
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Indonesian
+dolphin,1503,86,78,482,30,11,1461,1667,90.1619676064787,Indonesian <kde-i18n-doc@kde.org>
+dpkg,6192,4043,897,860,402,118,5992,11132,55.62342795544376,Indonesian <debian-l10n-indonesian@lists.debian.org>
+dragon,278,0,0,87,0,0,267,278,100.0,Indonesian <kde-i18n-doc@kde.org>
+duplicity,3078,0,1300,456,0,162,2924,4378,70.30607583371402,Indonesian <id@li.org>
+e2fsprogs,4875,2583,2802,816,358,392,4947,10260,47.514619883040936,Indonesian <translation-team-id@lists.sourceforge.net>
+easytag,1309,1700,2391,480,329,242,1394,5400,24.24074074074074,Indonesian <gnome-l10n-id@googlegroups.com>
+edgar,333,0,11141,39,0,1496,291,11474,2.902213700540352,Indonesian <id@li.org>
+ejabberd,1530,110,596,364,30,114,1509,2236,68.4257602862254,SmartCommunity <http://jsmart.web.id>
+ekiga,4489,0,0,748,0,0,4121,4489,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+electrum,1946,0,4940,445,0,802,1925,6886,28.26023816439152,Indonesian
+elementary-calculator,80,0,0,37,0,0,84,80,100.0,Indonesian <https://weblate.elementary.io/projects/calculator/calculator/id/>
+elementary-calendar,367,108,9,153,27,4,367,484,75.82644628099173,Indonesian <https://weblate.elementary.io/projects/calendar/calendar/id/>
+elementary-camera,38,0,24,10,0,6,35,62,61.29032258064516,Indonesian <https://weblate.elementary.io/projects/camera/camera/id/>
+elementary-capnet-assist,32,0,49,5,0,8,30,81,39.50617283950617,Indonesian <https://weblate.elementary.io/projects/desktop/capnet-assist/id/>
+elementary-code,729,78,5,184,13,1,717,812,89.77832512315271,Indonesian <https://weblate.elementary.io/projects/code/code/id/>
+elementary-files,2387,151,280,470,27,51,2087,2818,84.70546486870121,Indonesian <https://weblate.elementary.io/projects/files/files/id/>
+elementary-greeter,76,0,0,18,0,0,74,76,100.0,Indonesian <https://weblate.elementary.io/projects/desktop/greeter/id/>
+elementary-music,1102,30,5,320,8,1,1048,1137,96.9217238346526,Indonesian <https://weblate.elementary.io/projects/music/music/id/>
+elementary-photos,3613,108,54,781,6,6,3175,3775,95.70860927152319,Indonesian <https://weblate.elementary.io/projects/photos/photos/id/>
+elementary-screenshot-tool,129,0,0,41,0,0,145,129,100.0,Indonesian <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/id/>
+elementary-shortcut-overlay,82,0,0,37,0,0,94,82,100.0,Indonesian <https://weblate.elementary.io/projects/desktop/shortcut-overlay/id/>
+elementary-terminal,161,4,121,39,2,25,143,286,56.29370629370629,Indonesian <https://weblate.elementary.io/projects/terminal/terminal/id/>
+elementary-videos,94,0,56,42,0,10,98,150,62.66666666666667,Indonesian <https://l10n.elementary.io/projects/videos/videos/id/>
+elinks,359,1497,10389,171,474,980,389,12245,2.9318089015924866,Indonesian <translation-team-id@lists.sourceforge.net>
+elisa-player,138,50,62,54,25,23,135,250,55.2,Indonesian <kde-i18n-doc@kde.org>
+empathy,6831,296,3702,1169,13,264,6184,10829,63.08061686212947,Indonesian <gnome-l10n-id@googlegroups.com>
+engrampa,1780,0,6021,383,0,460,1658,7801,22.817587488783488,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+entangle,0,0,953,0,0,229,0,953,0.0,Indonesian
+eog,1675,0,0,327,0,0,1557,1675,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+eog-plugins,428,0,0,111,0,0,422,428,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+eom,1778,0,3284,337,0,220,1691,5062,35.1244567364678,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+ephemeral,0,0,1809,0,0,207,0,1809,0.0,none
+epiphany,3876,0,0,717,0,0,3654,3876,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+evince,8973,0,0,1046,0,0,8041,8973,100.0,Indonesian <gnome@i15n.org>
+evolution,27064,0,0,5454,0,0,24948,27064,100.0,Indonesian <gnome@i15n.org>
+evolution-data-server,7493,0,0,1449,0,0,7290,7493,100.0,Indonesian <gnome@i15n.org>
+evolution-ews,1380,0,0,276,0,0,1315,1380,100.0,Indonesian <gnome@i15n.org>
+evolution-mapi,1034,0,0,225,0,0,1045,1034,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+exaile,1542,406,2120,462,139,473,1483,4068,37.905604719764014,Indonesian <https://hosted.weblate.org/projects/exaile/master/id/>
+exif,296,0,0,68,0,0,285,296,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+exo,1454,0,0,299,0,0,1366,1454,100.0,Indonesian (http://www.transifex.com/xfce/exo/language/id/)
+falkon,4268,11,30,1356,7,7,4164,4309,99.04850313297749,Indonesian <kde-i18n-doc@kde.org>
+feedreader,239,8,552,72,4,145,248,799,29.912390488110134,Indonesian (http://www.transifex.com/dev-feedreader/feedreader/language/id/)
+fetchmail,4074,163,145,661,12,19,4030,4382,92.97124600638978,Indonesian <translation-team-id@lists.sourceforge.net>
+file-roller,2842,0,0,456,0,0,2587,2842,100.0,Indonesian <gnome@i15n.org>
+filezilla,10589,0,0,1833,0,0,10062,10589,100.0,Bahasa Indonesia <willysr@gmail.com>
+findutils,1474,504,590,145,40,54,1477,2568,57.398753894081,Indonesian <translation-team-id@lists.sourceforge.net>
+firewalld,135,0,2082,36,0,379,137,2217,6.089309878213803,Indonesian
+five-or-more,274,0,0,61,0,0,288,274,100.0,Indonesian <gnome@i15n.org>
+flatpak,4451,131,150,908,34,16,4442,4732,94.06170752324599,Indonesian <gnome-l10n-id@googlegroups.com>
+focuswriter,129,0,0,7,0,0,119,129,100.0,Indonesian (Indonesia) (http://www.transifex.com/projects/p/focuswriter/language/id_ID/)
+foliate,383,66,486,120,27,186,365,935,40.962566844919785,
+folks,1056,0,0,130,0,0,1026,1056,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Indonesian
+four-in-a-row,257,0,0,74,0,0,268,257,100.0,Indonesian <gnome@i15n.org>
+fprintd,419,0,0,57,0,0,403,419,100.0,Indonesian (http://www.transifex.com/freedesktop/fprintd/language/id/)
+freeciv,17304,9383,78965,3578,1205,4271,15267,105652,16.37829856510052,Indonesian <>
+freedink,179,0,9,41,0,1,177,188,95.2127659574468,Indonesian <translation-team-id@lists.sourceforge.net>
+freeipa,307,0,55377,66,0,4525,296,55684,0.5513253358235759,Indonesian
+frogr,673,0,0,187,0,0,671,673,100.0,Indonesian <gnome@i15n.org>
+fuse-encfs,244,7,1038,39,1,97,262,1289,18.929402637703646,Indonesian <id@li.org>
+fwbackups,5,0,3493,4,0,513,5,3498,0.1429388221841052,Indonesian (http://www.transifex.com/Magic/fwbackups/language/id/)
+fwupd,718,0,0,180,0,0,707,718,100.0,Indonesian (http://www.transifex.com/freedesktop/fwupd/language/id/)
+gala,477,200,17,67,10,2,473,694,68.73198847262248,Indonesian <https://weblate.elementary.io/projects/desktop/gala/id/>
+galculator,935,0,0,275,0,0,924,935,100.0,Indonesian (http://www.transifex.com/mate/MATE/language/id/)
+gambas3,774,0,4480,346,0,1209,740,5254,14.731633041492195,LANGUAGE <LL@li.org>
+gamehub,429,49,251,169,18,58,459,729,58.8477366255144,Indonesian <https://hosted.weblate.org/projects/gamehub/translations/id/>
+gammu,3858,121,16,1092,16,3,3878,3995,96.57071339173967,Indonesian <https://hosted.weblate.org/projects/gammu/gammu-docs/id/>
+garcon,122,0,0,36,0,0,115,122,100.0,Indonesian (http://www.transifex.com/xfce/garcon/language/id/)
+gawk,4100,517,144,658,69,18,4143,4761,86.11636210880067,Indonesian <translation-team-id@lists.sourceforge.net>
+gbrainy,1167,198,4315,254,48,448,892,5680,20.545774647887324,GNOME Indonesian Translation Team <gnome@i15n.oeg>
+gcab,127,0,0,30,0,0,137,127,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gcc,23920,49127,29755,3498,6528,3088,24163,102802,23.26802980486761,Indonesian <translation-team-id@lists.sourceforge.net>
+gcompris,10218,0,0,1189,0,0,8546,10218,100.0,Bahasa Indonesia <umarsaid@gmail.com>
+gcompris-qt,26307,0,0,2337,0,0,23023,26307,100.0,Indonesian <kde-i18n-doc@kde.org>
+gconf-editor,336,0,0,98,0,0,356,336,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gcr,704,0,0,255,0,0,716,704,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gdb,10001,0,0,1604,0,0,10188,10001,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gdesklets,717,0,811,143,0,61,675,1528,46.924083769633505,Indonesian <id@li.org>
+gdk-pixbuf2,1415,0,0,212,0,0,1401,1415,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gdm,9989,0,0,443,0,0,8894,9989,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+geany,5846,126,82,1278,21,15,5601,6054,96.56425503799142,Indonesian
+geary,2615,0,0,607,0,0,2534,2615,100.0,Indonesian (http://www.transifex.com/projects/p/geary/language/id/)
+gedit,10874,0,0,1302,0,0,9731,10874,100.0,Indonesian <gnome@i15n.org>
+gedit-latex,449,0,19,216,0,10,453,468,95.94017094017094,Indonesian <gnome@i15n.org>
+gedit-plugins,1030,0,0,181,0,0,1006,1030,100.0,Indonesian <gnome@i15n.org>
+geeqie,351,1551,2446,134,635,681,347,4348,8.072677092916283,Indonesian <translation-team-id@lists.sourceforge.net>
+gegl03,115,714,4568,76,313,562,110,5397,2.1308134148601074,Indonesian <gnome@i15n.org>
+gegl04,115,714,4568,76,313,562,110,5397,2.1308134148601074,Indonesian <gnome@i15n.org>
+genius,1602,1271,5687,369,289,461,1593,8560,18.714953271028037,Indonesian <gnome@i15n.org>
+gettext,6319,1029,446,655,99,75,6038,7794,81.07518604054401,Indonesian <translation-team-id@lists.sourceforge.net>
+ggz-gtk-client,4,0,0,4,0,0,5,4,100.0,
+ghdl,23920,49127,29755,3498,6528,3088,24163,102802,23.26802980486761,Indonesian <translation-team-id@lists.sourceforge.net>
+ghex,3236,0,0,416,0,0,2905,3236,100.0,Indonesian <gnome@i15n.org>
+gigolo,521,0,0,142,0,0,508,521,100.0,Indonesian (http://www.transifex.com/projects/p/xfce/language/id/)
+gimp,8795,7214,16760,2341,2122,4036,8486,32769,26.83939088772926,Indonesian <gnome@i15n.org>
+gimp-gap,1080,2389,12024,383,925,1115,1084,15493,6.970890079390693,Indonesian <gnome-l10n-id@googlegroups.com>
+gip,103,0,0,31,0,0,102,103,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+git-cola,1427,369,960,456,117,156,1401,2756,51.77793904208998,Indonesian
+gitg,2034,0,0,365,0,0,1824,2034,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+glabels,1040,219,6918,403,84,715,916,8177,12.71860095389507,Indonesian <gnome@i15n.org>
+glade,6946,0,0,1754,0,0,6639,6946,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+glade3,3982,75,680,1104,30,100,3802,4737,84.06164238969812,GNOME Indonesian Translation Team <gnome@i15n.org>
+glib-networking,258,0,0,39,0,0,219,258,100.0,Indonesian <gnome@i15n.org>
+glib2,7115,0,0,1140,0,0,7153,7115,100.0,Indonesian <gnome@i15n.org>
+glibc,6665,779,622,1240,138,84,7000,8066,82.63079593354823,Indonesian <translation-team-id@lists.sourceforge.net>
+glibc-arm-linux-gnu,7409,0,0,1353,0,0,7791,7409,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+glom,4907,0,0,860,0,0,4609,4907,100.0,Indonesian <gnome@i15n.org>
+glpi,4039,0,9578,1207,0,2279,3655,13617,29.661452596019682,Indonesian (Indonesia) (https://www.transifex.com/glpi/teams/1637/id_ID/)
+gmpc,7,0,11,6,0,5,7,18,38.88888888888889,Indonesian <id@li.org>
+gnome-2048,301,0,0,48,0,0,284,301,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-abrt,397,0,0,73,0,0,392,397,100.0,Indonesian (http://www.transifex.com/projects/p/gnome-abrt/language/id/)
+gnome-activity-journal,34,0,282,20,0,74,35,316,10.759493670886076,Indonesian <id@li.org>
+gnome-backgrounds,31,0,0,16,0,0,35,31,100.0,Indonesian <gnome@i15n.org>
+gnome-bluetooth,373,0,0,111,0,0,334,373,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-boxes,1282,0,0,294,0,0,1267,1282,100.0,Indonesian <gnome@i15n.org>
+gnome-builder,4394,0,0,1128,0,0,4262,4394,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-calculator,1602,0,0,581,0,0,1588,1602,100.0,Indonesian <gnome@i15n.org>
+gnome-calendar,669,0,0,220,0,0,656,669,100.0,Indonesian <gnomed@i15n.org>
+gnome-characters,186,0,0,58,0,0,207,186,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-chess,1412,0,0,239,0,0,1308,1412,100.0,Indonesian <gnome@i15n.org>
+gnome-clocks,1266,0,0,182,0,0,1141,1266,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-color-manager,1796,0,0,345,0,0,1612,1796,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gnome-commander,10393,0,0,1910,0,0,9330,10393,100.0,Indonesian <gnome@i15n.org>
+gnome-contacts,586,0,0,166,0,0,565,586,100.0,Indonesian <gnome@i15n.org>
+gnome-control-center,6067,70,704,2111,51,166,5992,6841,88.68586463967256,LDP Indonesia <http://www.linux.or.id>
+gnome-desktop,438,0,0,61,0,0,456,438,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-desktop3,152,0,0,27,0,0,158,152,100.0,Indonesian <gnome@i15n.org>
+gnome-dictionary,2109,0,0,303,0,0,1934,2109,100.0,Indonesian <gnome@i15n.org>
+gnome-directory-thumbnailer,85,0,0,12,0,0,93,85,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-disk-utility,3887,0,0,727,0,0,3725,3887,100.0,Indonesian <gnome@i15n.org>
+gnome-do,473,0,139,119,0,25,458,612,77.2875816993464,Indonesian <id@li.org>
+gnome-doc-utils,251,0,0,101,0,0,256,251,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gnome-documents,1829,0,0,306,0,0,1690,1829,100.0,Indonesian <gnome@i15n.org>
+gnome-dvb-daemon,828,0,0,205,0,0,770,828,100.0,Indonesian <gnome@i15n.org>
+gnome-font-viewer,527,0,0,201,0,0,574,527,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gnome-getting-started-docs,2508,0,0,338,0,0,2197,2508,100.0,Indonesian <gnome@i15n.org>
+gnome-gmail,61,17,109,14,3,14,58,187,32.62032085561498,Indonesian <id@li.org>
+gnome-hearts,359,0,50,95,0,11,240,409,87.77506112469437,Indonesian <id@li.org>
+gnome-icon-theme,53,0,0,47,0,0,55,53,100.0,Indonesia <id@li.org>
+gnome-initial-setup,848,0,0,122,0,0,841,848,100.0,Indonesian <gnome@i15n.org>
+gnome-keyring,509,0,0,103,0,0,494,509,100.0,Indonesian <gnome@i15n.org>
+gnome-klotski,194,0,0,59,0,0,217,194,100.0,Indonesian <gnome@i15n.org>
+gnome-logs,378,0,0,124,0,0,380,378,100.0,Indonesian <gnome@i15n.org>
+gnome-mahjongg,308,0,0,63,0,0,303,308,100.0,Indonesian <gnome@i15n.org>
+gnome-maps,1236,0,0,315,0,0,1228,1236,100.0,Indonesian <gnome@i15n.org>
+gnome-menus,70,0,0,27,0,0,71,70,100.0,Indonesian <gnome@i15n.org>
+gnome-mime-data,887,0,0,362,0,0,912,887,100.0,Indonesia <id@li.org>
+gnome-mines,344,0,0,72,0,0,335,344,100.0,Indonesian <gnome@i15n.org>
+gnome-multi-writer,390,0,0,61,0,0,350,390,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-music,555,0,0,117,0,0,523,555,100.0,Indonesian <gnome@i15n.org>
+gnome-nettool,664,0,0,219,0,0,664,664,100.0,Indonesian <gnome@i15n.org>
+gnome-nibbles,447,0,0,110,0,0,442,447,100.0,Indonesian <gnome@i15n.org>
+gnome-online-accounts,693,0,0,155,0,0,683,693,100.0,Indonesian <gnome@i15n.org>
+gnome-packagekit,3500,0,0,553,0,0,3062,3500,100.0,Indonesian <gnome@i15n.org>
+gnome-phone-manager,563,0,0,98,0,0,519,563,100.0,INDONESIA <gnome@i15n.org>
+gnome-photos,556,0,0,217,0,0,554,556,100.0,Indonesian <gnome@i15n.org>
+gnome-power-manager,489,0,0,151,0,0,440,489,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gnome-robots,597,0,0,97,0,0,612,597,100.0,Indonesian <gnome@i15n.org>
+gnome-screensaver,291,0,0,58,0,0,255,291,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gnome-screenshot,457,0,0,80,0,0,433,457,100.0,Indonesian <gnome@i15n.org>
+gnome-search-tool,1249,0,0,186,0,0,1039,1249,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-session,364,0,0,58,0,0,346,364,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-settings-daemon,2549,0,0,371,0,0,2335,2549,100.0,Indonesian <gnome@i15n.org>
+gnome-shell,1841,0,0,425,0,0,1682,1841,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-shell-extension-dash-to-dock,423,0,0,96,0,0,409,423,100.0,Mahyuddin <yudi.al@gmail.com>
+gnome-shell-extension-openweather,244,217,158,102,58,41,257,619,39.4184168012924,Indonesian <>
+gnome-shell-extension-pomodoro,336,0,0,112,0,0,318,336,100.0,Indonesian
+gnome-shell-extensions,388,0,0,70,0,0,381,388,100.0,Indonesian <gnome@i15n.org>
+gnome-software,3824,0,0,784,0,0,3683,3824,100.0,Indonesian <gnome@i15n.org>
+gnome-sound-recorder,292,0,0,73,0,0,282,292,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-sudoku,399,0,0,72,0,0,400,399,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-system-log,1203,0,0,133,0,0,1072,1203,100.0,Indonesian <gnome@i15n.org>
+gnome-system-monitor,1440,0,0,305,0,0,1368,1440,100.0,Indonesian <gnome@i15n.org>
+gnome-taquin,232,0,0,49,0,0,200,232,100.0,Indonesian
+gnome-terminal,2543,0,0,493,0,0,2393,2543,100.0,Indonesian <gnome@i15n.org>
+gnome-tetravex,205,0,0,44,0,0,192,205,100.0,Indonesian <gnome@i15n.org>
+gnome-themes,109,0,0,30,0,0,116,109,100.0,Indonesia <l10n@gnome.linux.or.id>
+gnome-themes-extra,15,0,0,6,0,0,14,15,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gnome-todo,684,0,0,149,0,0,676,684,100.0,Indonesian
+gnome-tweaks,665,0,0,187,0,0,661,665,100.0,Indonesian <gnome@i15n.org>
+gnome-usage,257,0,0,60,0,0,243,257,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-user-docs,20821,6368,29651,1798,402,966,18532,56840,36.630893736805064,Indonesian <gnome@i15n.org>
+gnome-user-share,52,0,0,10,0,0,57,52,100.0,Indonesian <gnome@i15n.org>
+gnome-vfs2,1519,0,0,305,0,0,1440,1519,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gnome-video-arcade,1257,0,0,223,0,0,1142,1257,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnome-video-effects,256,0,0,68,0,0,227,256,100.0,Indonesian <gnome@i15n.org>
+gnome-weather,192,0,0,42,0,0,188,192,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gnote,3313,0,0,544,0,0,3248,3313,100.0,Indonesian <gnome@i15n.org>
+gnumed,156,231,29014,96,102,4667,158,29401,0.5305941974762763,LANGUAGE <LL@li.org>
+gnumeric,15140,6412,16000,3404,1258,1211,14378,37552,40.31742650191734,Indonesia <gnome@i15n.org>
+gnupg,4440,2920,1280,636,474,187,4106,8640,51.388888888888886,Indonesian <translation-team-id@lists.sourceforge.net>
+gnupg2,2524,6401,4507,424,1127,641,2366,13432,18.790946992257297,Indonesian <translation-team-id@lists.sourceforge.net>
+godot,3506,675,2849,863,200,829,3468,7030,49.871977240398294,Indonesian <https://hosted.weblate.org/projects/godot-engine/godot/id/>
+goffice,6471,12,101,2088,4,21,6342,6584,98.28371810449575,Indonesian <gnome@i15n.org>
+goocanvas2,1864,0,0,283,0,0,1517,1864,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gourmet,561,11,3367,169,5,718,550,3939,14.242193450114243,Indonesian <id@li.org>
+gparted,2988,0,0,493,0,0,2817,2988,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gphoto2,1611,108,37,324,9,6,1528,1756,91.74259681093395,Indonesian <translation-team-id@lists.sourceforge.net>
+gpicview,236,0,0,52,0,0,260,236,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gpodder,0,0,2114,0,0,547,0,2114,0.0,Indonesian (Indonesia) (http://www.transifex.com/projects/p/gpodder/language/id_ID/)
+gpredict,329,0,5795,72,0,1071,326,6124,5.372305682560418,Indonesian <id@li.org>
+gpsdrive,2311,0,0,448,0,0,2224,2311,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gradio,309,0,0,101,0,0,304,309,100.0,Indonesian <https://hosted.weblate.org/projects/gradio/translations/id/>
+granite,120,4,26,51,2,15,111,150,80.0,Indonesian <https://weblate.elementary.io/projects/desktop/granite/id/>
+grass,418,25,97618,75,9,15259,422,98061,0.42626528385392765,Indonesian (Indonesia) (https://www.transifex.com/grass-gis/teams/45198/id_ID/)
+grep,591,262,28,90,13,4,642,881,67.08286038592507,Indonesian <translation-team-id@lists.sourceforge.net>
+grilo,191,0,0,36,0,0,200,191,100.0,Indonesian <gnome@i15n.org>
+grilo-plugins,537,0,0,133,0,0,507,537,100.0,Indonesian <gnome@i15n.org>
+grsync,1021,113,33,153,7,3,961,1167,87.48928877463582,Indonesian <was.uthm@gmail.com>
+grub2,1633,1517,3969,322,273,749,1638,7119,22.938614974013205,Indonesian <translation-team-id@lists.sourceforge.net>
+gsettings-desktop-schemas,6378,0,0,572,0,0,5926,6378,100.0,Indonesian <gnome@i15n.org>
+gspell,78,0,0,32,0,0,90,78,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gstreamer,1914,3,0,347,1,0,1835,1917,99.8435054773083,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer-plugins-bad-free,96,0,0,14,0,0,90,96,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer-plugins-base,902,0,6,176,0,2,871,908,99.33920704845815,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer-plugins-good,814,0,0,190,0,0,789,814,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer1,2031,32,15,371,3,1,1943,2078,97.73820981713186,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,194,0,3,28,0,1,189,197,98.47715736040608,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer1-plugins-base,939,5,24,196,1,5,912,968,97.00413223140497,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer1-plugins-good,712,57,43,87,8,4,673,812,87.68472906403942,Indonesian <translation-team-id@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,71,80,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gtef,125,0,0,40,0,0,123,125,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gthumb,3466,0,0,1147,0,0,3303,3466,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gtick,338,0,0,96,0,0,334,338,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Indonesian <gnome@i15n.org>
+gtk2,12492,0,0,2591,0,0,11458,12492,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gtk2-engines,119,0,0,47,0,0,138,119,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gtk3,16668,0,0,3909,0,0,15342,16668,100.0,Indonesian <gnome@i15n.org>
+gtk4,12439,0,0,2976,0,0,11441,12439,100.0,Indonesian <gnome@i15n.org>
+gtkhash,5,0,158,3,0,48,5,163,3.067484662576687,Indonesian <https://hosted.weblate.org/projects/gtkhash/translations/id/>
+gtkhtml3,522,0,0,317,0,0,544,522,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gtksourceview2,821,0,0,332,0,0,807,821,100.0,Indonesia <kontak@id.gnome.org>
+gtksourceview3,322,0,0,106,0,0,327,322,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gtksourceview4,308,0,0,94,0,0,310,308,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+gtkspell,15,0,0,6,0,0,16,15,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gtkspell3,16,0,0,7,0,0,18,16,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+gtranslator,1333,0,0,297,0,0,1229,1333,100.0,Indonesian <gnome@i15n.org>
+guake,129,101,836,16,15,163,130,1066,12.101313320825517,Indonesian (http://www.transifex.com/projects/p/guake/language/id/)
+gucharmap,1347,0,0,456,0,0,1322,1347,100.0,Indonesian <gnome@i15n.org>
+gupnp-tools,327,0,0,118,0,0,335,327,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gvfs,2069,0,0,402,0,0,2077,2069,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+gwenview,1497,0,0,391,0,0,1368,1497,100.0,Indonesian <kde-i18n-doc@kde.org>
+hamster-time-tracker,696,1,0,171,1,0,652,697,99.85652797704448,GNOME Indonesian Translation Team <gnome@i15n.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+hexchat,4754,0,1217,1238,0,208,4617,5971,79.61815441299615,Indonesian (http://www.transifex.com/hexchat/hexchat/language/id/)
+hitori,174,0,0,36,0,0,161,174,100.0,INDONESIA <gnome@i15n.org>
+homebank,682,0,1758,295,0,489,670,2440,27.95081967213115,Indonesian <id@li.org>
+iagno,322,0,0,72,0,0,323,322,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+icewm,0,0,0,0,0,0,0,0,0.0,Indonesia
+im-chooser,52,0,187,13,0,43,47,239,21.75732217573222,LANGUAGE <LL@li.org>
+imsettings,0,0,456,0,0,84,0,456,0.0,LANGUAGE <LL@li.org>
+initial-setup,33,0,73,7,0,13,30,106,31.132075471698112,Indonesian
+initscripts,683,54,235,103,10,35,713,972,70.26748971193416,Indonesian <trans-id@lists.fedoraproject.org>
+inkscape,20021,7723,10470,4799,2251,1095,19489,38214,52.39179358350343,Indonesian <was.uthm@gmail.com>
+insight,10001,0,0,1604,0,0,10188,10001,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+islamic-menus,5,0,0,2,0,0,6,5,100.0,Indonesian <id@li.org>
+iso-codes,9224,5238,8652,6098,3990,5132,9054,23114,39.90655014277061,Indonesian <translation-team-id@lists.sourceforge.net>
+isomaster,674,0,0,107,0,0,598,674,100.0,Indonesian <LL@li.org>
+jmol,2735,169,262,925,44,52,2693,3166,86.38660770688567,Indonesian <id@li.org>
+json-glib,303,0,0,44,0,0,286,303,100.0,Indonesian <gnome@i15n.org>
+jwhois,401,11,28,65,2,4,398,440,91.13636363636364,Indonesian <translation-team-id@lists.sourceforge.net>
+k3b,6,0,0,2,0,0,8,6,100.0,Indonesian <kde-i18n-doc@kde.org>
+kBuild,204,136,165,38,29,14,207,505,40.396039603960396,Indonesian <translation-team-id@lists.sourceforge.net>
+kactivitymanagerd,7,0,0,3,0,0,7,7,100.0,Indonesian <kde-i18n-doc@kde.org>
+kamoso,102,0,0,27,0,0,84,102,100.0,Indonesian <kde-i18n-doc@kde.org>
+kanagram,483,0,45,131,0,14,440,528,91.47727272727273,Indonesian <kde-i18n-doc@kde.org>
+kate,3985,190,291,1012,23,35,3851,4466,89.22973578145992,Indonesian <kde-i18n-doc@kde.org>
+kbd,1341,678,411,181,68,26,1370,2430,55.18518518518518,Indonesian <translation-team-id@lists.sourceforge.net>
+kcalc,633,0,359,276,0,52,565,992,63.81048387096774,Indonesian <kde-i18n-doc@kde.org>
+kcharselect,72,0,16,28,0,6,76,88,81.81818181818183,Indonesian <kde-i18n-doc@kde.org>
+kde-cli-tools,2188,0,0,228,0,0,2034,2188,100.0,Indonesian <kde-i18n-doc@kde.org>
+kde-connect,709,5,18,170,1,6,680,732,96.85792349726776,Indonesian <kde-i18n-doc@kde.org>
+kde-gtk-config,309,0,0,76,0,0,319,309,100.0,Indonesian <kde-i18n-doc@kde.org>
+kde-l10n,29025,4643,1591,5846,891,662,27352,35259,82.31940781077172,Indonesian <translation-team-id@lists.sourceforge.net>
+kde-partitionmanager,2266,5,28,497,4,22,2107,2299,98.56459330143541,Indonesian <translation-team-id@lists.sourceforge.net>
+kdecoration,27,0,0,15,0,0,32,27,100.0,Indonesian <kde-i18n-doc@kde.org>
+kdeplasma-addons,1648,0,0,608,0,0,1640,1648,100.0,Indonesian <kde-i18n-doc@kde.org>
+kdf,181,0,0,69,0,0,178,181,100.0,Indonesian <kde-i18n-doc@kde.org>
+kdialog,246,53,48,53,7,10,247,347,70.89337175792507,Indonesian <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,51,8,24,2,2,8,45,83,61.44578313253012,LANGUAGE <LL@li.org>
+keditbookmarks,418,48,0,127,5,0,414,466,89.69957081545064,Indonesian <kde-i18n-doc@kde.org>
+kf5-audiocd-kio,175,0,0,13,0,0,164,175,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-baloo,883,0,0,197,0,0,825,883,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kauth,73,0,0,8,0,0,68,73,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,217,230,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kcmutils,564,0,0,72,0,0,532,564,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kcodecs,348,0,0,53,0,0,313,348,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,18,18,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kconfig,261,0,0,100,0,0,257,261,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kconfigwidgets,321,0,0,117,0,0,331,321,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,333,0,0,125,0,0,321,333,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kdbusaddons,48,0,0,6,0,0,46,48,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kdeclarative,110,0,0,15,0,0,98,110,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,4813,0,0,2364,0,0,4655,4813,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,52,54,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kdesu,19,0,0,7,0,0,22,19,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+kf5-kdoctools,8,0,0,4,0,0,8,8,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kfilemetadata,308,0,0,127,0,0,318,308,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,71,0,0,9,0,0,66,71,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kholidays,109,0,0,77,0,0,113,109,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-khtml,1721,0,0,310,0,0,1604,1721,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kiconthemes,37,0,0,18,0,0,39,37,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kinit,134,0,0,14,0,0,120,134,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kio,12209,0,0,1349,0,0,11102,12209,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kipi-plugins,5695,0,0,1230,0,0,5503,5695,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kirigami2,26,0,0,17,0,0,27,26,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,7,7,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,123,0,0,36,0,0,121,123,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kjsembed,248,0,0,44,0,0,241,248,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-knewstuff,702,0,0,159,0,0,672,702,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-knotifications,18,0,0,6,0,0,16,18,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,129,0,0,17,0,0,111,129,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kpackage,495,0,0,97,0,0,472,495,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kparts,104,0,0,26,0,0,95,104,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kpeople,21,0,0,11,0,0,20,21,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kross,100,0,0,35,0,0,97,100,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kservice,170,0,0,28,0,0,165,170,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-ktexteditor,8335,36,4,1207,5,2,7822,8375,99.5223880597015,Indonesian <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,462,0,0,122,0,0,445,462,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kunitconversion,30,0,5282,24,0,2242,33,5312,0.5647590361445783,Indonesian <kde-i18n-doc@kde.org>
+kf5-kwallet,1624,0,0,131,0,0,1440,1624,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1321,0,0,458,0,0,1316,1321,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+kf5-kxmlgui,1602,0,0,228,0,0,1499,1602,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,16,13,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-plasma,504,0,0,147,0,0,501,504,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-purpose,264,0,0,72,0,0,257,264,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-solid,682,0,0,223,0,0,643,682,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-sonnet,667,0,0,73,0,0,649,667,100.0,Indonesian <kde-i18n-doc@kde.org>
+kf5-syntax-highlighting,518,0,4,321,0,1,518,522,99.23371647509579,Indonesian <kde-i18n-doc@kde.org>
+kfind,504,0,0,117,0,0,481,504,100.0,Indonesian <kde-i18n-doc@kde.org>
+kflickr,239,0,93,77,0,10,243,332,71.98795180722891,Indonesian <id@li.org>
+kfloppy,190,0,451,54,0,46,205,641,29.6411856474259,Indonesian <kde-i18n-doc@kde.org>
+kgamma,130,0,0,16,0,0,118,130,100.0,Indonesian <kde-i18n-doc@kde.org>
+kget,69,0,0,16,0,0,67,69,100.0,Indonesian <kde-i18n-doc@kde.org>
+kgpg,312,0,4970,139,0,559,286,5282,5.906853464596744,Indonesian <kde-i18n-doc@kde.org>
+khelpcenter,217,16,32,80,5,5,228,265,81.88679245283019,Indonesian <kde-i18n-doc@kde.org>
+khotkeys,438,0,0,129,0,0,410,438,100.0,Indonesian <kde-i18n-doc@kde.org>
+kicad,34943,0,0,2089,0,0,33299,34943,100.0,KiCad Indonesia
+kinfocenter,2939,0,0,1018,0,0,2918,2939,100.0,Indonesian <kde-i18n-doc@kde.org>
+kio-extras,859,0,147,116,0,8,818,1006,85.38767395626242,Indonesian <kde-i18n-doc@kde.org>
+kmahjongg,340,0,0,98,0,0,332,340,100.0,Indonesian <kde-i18n-doc@kde.org>
+kmenuedit,277,0,0,61,0,0,258,277,100.0,Indonesian <kde-i18n-doc@kde.org>
+kmix,805,0,125,192,0,16,778,930,86.55913978494624,Indonesian <kde-i18n-doc@kde.org>
+koffice-kivio,206,1427,4752,79,654,1248,200,6385,3.226311667971809,Bahasa Indonesia <id@li.org>
+konqueror,7952,157,52,1093,14,7,7539,8161,97.43903933341502,Indonesian <kde-i18n-doc@kde.org>
+konsole5,2022,310,464,449,63,50,1925,2796,72.3175965665236,Indonesian <kde-i18n-doc@kde.org>
+kpat,473,0,0,140,0,0,477,473,100.0,Indonesian <kde-i18n-doc@kde.org>
+kpmcore,1047,1830,294,216,212,49,952,3171,33.01797540208136,Indonesian <translation-team-id@lists.sourceforge.net>
+krfb,644,0,0,88,0,0,619,644,100.0,Indonesian <kde-i18n-doc@kde.org>
+kruler,184,0,0,47,0,0,160,184,100.0,Indonesian <kde-i18n-doc@kde.org>
+kscreen,267,0,0,69,0,0,241,267,100.0,Indonesian <kde-i18n-doc@kde.org>
+kscreenlocker,252,0,0,35,0,0,211,252,100.0,Indonesian <kde-i18n-doc@kde.org>
+kshisen,568,0,0,70,0,0,537,568,100.0,Indonesian <kde-i18n-doc@kde.org>
+ksshaskpass,43,0,0,12,0,0,42,43,100.0,Indonesian <kde-i18n-doc@kde.org>
+ksysguard,1082,0,0,237,0,0,993,1082,100.0,Indonesian <kde-i18n-doc@kde.org>
+ktimer,241,0,17,51,0,2,210,258,93.4108527131783,Indonesian <kde-i18n-doc@kde.org>
+kwalletmanager5,244,0,0,38,0,0,209,244,100.0,Indonesian <kde-i18n-doc@kde.org>
+kwebkitpart,625,0,17,145,0,2,577,642,97.35202492211839,Indonesian <kde-i18n-doc@kde.org>
+kwin,6461,0,0,1255,0,0,6113,6461,100.0,Indonesian <kde-i18n-doc@kde.org>
+l3afpad,113,0,17,61,0,3,128,130,86.92307692307692,Indonesian <translation-team-id@lists.sourceforge.net>
+lasem,29,0,0,10,0,0,32,29,100.0,Indonesian <gnome@i15n.org>
+latexila,2377,0,0,604,0,0,2182,2377,100.0,Indonesian <gnome@i15n.org>
+lazarus,9771,4358,18078,3176,669,3902,9918,32207,30.338125252274352,Zaenal Mutaqin <ade999@gmail.com>
+ldm,0,0,55,0,0,19,0,55,0.0,Indonesian <id@li.org>
+leafpad,125,0,0,68,0,0,140,125,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+libappstream-glib,442,0,0,96,0,0,412,442,100.0,Indonesian (http://www.transifex.com/freedesktop/appstream-glib/language/id/)
+libbonobo,543,0,0,107,0,0,534,543,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libbonoboui,368,0,0,115,0,0,369,368,100.0,Indonesian <id@li.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Indonesian
+libcryptui,752,0,0,192,0,0,766,752,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libdnf,13,0,1010,3,0,170,12,1023,1.270772238514174,Indonesian
+libepc,144,3,0,25,1,0,152,147,97.95918367346938,INDONESIA <userindesign@gmail.com>
+libfilezilla,414,0,0,78,0,0,405,414,100.0,Bahasa Indonesia <willysr@gmail.com>
+libfm,1558,13,4,389,4,1,1514,1575,98.92063492063492,Indonesian Translation Team <id@li.org>
+libgda,17316,0,0,2418,0,0,16155,17316,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libgdata,684,0,0,84,0,0,625,684,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libgdl,659,0,0,96,0,0,607,659,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libgnome,1773,0,0,273,0,0,1658,1773,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libgnome-games-support,43,0,0,14,0,0,35,43,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+libgnome-keyring,44,0,0,9,0,0,43,44,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libgnomecanvas,378,0,0,95,0,0,372,378,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libgnomekbd,188,0,0,40,0,0,199,188,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+libgnomeui,1226,0,0,320,0,0,1130,1226,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libgovirt,102,0,0,23,0,0,105,102,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+libgsasl,577,0,0,69,0,0,578,577,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+libgsf,720,0,0,150,0,0,685,720,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+libgtop2,126,0,0,40,0,0,115,126,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+libgweather,6365,0,0,4674,0,0,6398,6365,100.0,Indonesian <gnome@i15n.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libidn,414,0,14,58,0,2,415,428,96.72897196261682,Indonesian <translation-team-id@lists.sourceforge.net>
+libidn1.34,414,0,14,58,0,2,415,428,96.72897196261682,Indonesian <translation-team-id@lists.sourceforge.net>
+libidn2,28,127,160,5,12,23,28,315,8.88888888888889,Indonesian <translation-team-id@lists.sourceforge.net>
+libkdegames,370,0,0,132,0,0,363,370,100.0,Indonesian <kde-i18n-doc@kde.org>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Indonesian <kde-i18n-doc@kde.org>
+libksysguard,3160,0,0,399,0,0,2851,3160,100.0,Indonesian <kde-i18n-doc@kde.org>
+libmatekbd,243,0,8,41,0,2,242,251,96.81274900398407,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+libmatemixer,242,0,0,126,0,0,238,242,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+libmateweather,6085,0,0,4520,0,0,6093,6085,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+libmypaint,438,917,182,57,40,9,399,1537,28.497072218607677,Indonesian <https://hosted.weblate.org/projects/mypaint/libmypaint/id/>
+libosinfo,0,0,672,0,0,146,0,672,0.0,Indonesian
+libpeas,112,0,0,34,0,0,98,112,100.0,Indonesian <gnome@i15n.org>
+libreoffice,564768,0,0,78165,0,0,503810,564768,100.0,LANGUAGE <LL@li.org>
+libreport,1,0,4986,1,0,606,1,4987,0.020052135552436335,Indonesian (http://www.transifex.com/projects/p/libreport/language/id/)
+libsecret,59,0,0,9,0,0,59,59,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+libsoup,162,0,0,38,0,0,190,162,100.0,Indonesian <gnome@i15n.org>
+libuser,996,38,403,213,7,81,1062,1437,69.31106471816284,Indonesian (http://www.transifex.com/projects/p/fedora/language/id/)
+libvirt,847,0,62960,211,0,9635,795,63807,1.327440562947639,Indonesian (http://www.transifex.com/projects/p/libvirt/language/id/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Indonesian (http://www.transifex.com/projects/p/libvirt-glib/language/id/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Indonesian <trans-id@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,1157,1124,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+libwnck3,1086,0,0,231,0,0,1113,1086,100.0,Indonesian <gnome@i15n.org>
+libxfce4ui,900,0,0,175,0,0,898,900,100.0,Indonesian (http://www.transifex.com/xfce/libxfce4ui/language/id/)
+libxfce4util,424,0,0,7,0,0,378,424,100.0,Indonesian (http://www.transifex.com/xfce/libxfce4util/language/id/)
+libzypp,2425,0,0,958,0,0,2415,2425,100.0,Indonesian <https://l10n.opensuse.org/projects/libzypp/master/id/>
+liferea,2147,5,61,483,2,10,2013,2213,97.01762313601446,Indonesian
+light-locker,7,0,253,2,0,35,6,260,2.6923076923076925,Indonesian (http://www.transifex.com/the_cavalry/light-locker/language/id/)
+lightdm,79,0,84,17,0,4,69,163,48.466257668711656,Indonesian <id@li.org>
+lightdm-gtk,34,0,53,11,0,14,31,87,39.08045977011494,Indonesian <id@li.org>
+lightdm-settings,70,0,201,15,0,44,63,271,25.830258302583026,Indonesian <id@li.org>
+lightsoff,110,0,0,20,0,0,123,110,100.0,Indonesian <gnome@i15n.org>
+lokalize,3905,0,0,636,0,0,3790,3905,100.0,Indonesian <kde-i18n-doc@kde.org>
+lollypop,117,8,1148,44,2,415,118,1273,9.190887666928516,Indonesian <https://hosted.weblate.org/projects/gnumdk/lollypop/id/>
+lutris,268,0,0,35,0,0,250,268,100.0,
+lxappearance,234,0,0,80,0,0,244,234,100.0,Indonesian Translation Team <id@li.org>
+lxappearance-obconf,196,0,0,27,0,0,180,196,100.0,Indonesian <id@li.org>
+lxdm,47,0,0,25,0,0,57,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,87,83,100.0,LANGUAGE <id@li.org>
+lxlauncher,58,0,0,17,0,0,51,58,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxmenu-data,97,0,0,37,0,0,98,97,100.0,Indonesian <sukarelawan@gnome.linux.or.id>
+lxmusic,203,0,0,89,0,0,222,203,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxrandr,167,0,0,41,0,0,169,167,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxsession,298,37,420,111,10,45,315,755,39.47019867549669,Indonesian <translation-team-id@lists.sourceforge.net>
+lxshortcut,43,0,0,19,0,0,45,43,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxtask,130,0,0,51,0,0,142,130,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lxterminal,202,0,0,98,0,0,214,202,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lynx,8178,0,0,1231,0,0,8051,8178,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+lyx,15781,4516,5299,5179,1300,811,15626,25596,61.65416471323645,Indonesian <was.uthm@gmail.com>
+mailnag,179,0,26,57,0,2,178,205,87.3170731707317,Indonesian <id@li.org>
+make,2144,113,9,407,22,3,2216,2266,94.61606354810237,Indonesian <translation-team-id@lists.sourceforge.net>
+man-db,8663,697,36,547,28,1,8245,9396,92.1988080034057,Indonesian <translation-team-id@lists.sourceforge.net>
+manaplus,1445,0,2939,546,0,860,1465,4384,32.96076642335766,Indonesian (http://www.transifex.com/projects/p/manaplus/language/id/)
+marco,3991,0,227,398,0,24,3860,4218,94.61830251303935,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-applets,3493,0,12334,633,0,963,3483,15827,22.069880583812473,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-backgrounds,51,0,0,28,0,0,52,51,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-calc,1349,0,1829,485,0,234,1359,3178,42.44808055380743,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-control-center,3177,0,5356,1039,0,433,3143,8533,37.23192312199695,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-desktop,2224,0,132,297,0,8,2101,2356,94.39728353140917,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-media,213,0,25,93,0,7,211,238,89.49579831932773,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-menu,316,0,0,118,0,0,328,316,100.0,Indonesian (http://www.transifex.com/mate/MATE/language/id/)
+mate-menus,97,0,0,37,0,0,96,97,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-notification-daemon,139,0,0,37,0,0,136,139,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-panel,4717,0,1951,622,0,166,4317,6668,70.74085182963408,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-polkit,122,0,0,20,0,0,107,122,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-power-manager,2768,0,2426,431,0,150,2459,5194,53.29226030034655,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-screensaver,974,0,22,154,0,4,834,996,97.79116465863453,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-sensors-applet,416,0,1751,119,0,108,445,2167,19.197046608214123,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-session-manager,652,0,39,121,0,3,629,691,94.35600578871201,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-settings-daemon,1741,0,99,252,0,22,1632,1840,94.6195652173913,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-system-monitor,1518,0,2961,344,0,271,1555,4479,33.891493636972534,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-terminal,4641,0,3772,541,0,252,4132,8413,55.16462617377867,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-themes,60,0,0,12,0,0,55,60,100.0,Indonesian (http://www.transifex.com/mate/MATE/language/id/)
+mate-user-admin,20,0,550,16,0,113,21,570,3.508771929824561,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-user-guide,1254,0,41934,290,0,2947,1181,43188,2.9035843289802723,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mate-utils,4340,0,5868,712,0,389,4035,10208,42.51567398119122,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+mc,876,0,3301,253,0,978,875,4177,20.971989466124015,Indonesian (http://www.transifex.com/mc/mc/language/id/)
+mcomix,545,476,1546,153,104,277,543,2567,21.231008959875343,Indonesia <id@li.org>
+meld,2730,0,0,551,0,0,2738,2730,100.0,Indonesian <gnome@i15n.org>
+metacity,1876,0,0,283,0,0,1867,1876,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+midori,2396,0,1145,598,0,198,2400,3541,67.66450155323355,Indonesian <translation-team-id@lists.sourceforge.net>
+minetest,6071,0,335,1008,0,16,5906,6406,94.77052763034655,Indonesian <https://hosted.weblate.org/projects/minetest/minetest/id/>
+mingw-GConf2,4088,0,0,497,0,0,4008,4088,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+mingw-atk,440,0,0,169,0,0,415,440,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+mingw-binutils,47240,0,0,7521,0,0,48015,47240,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-colord,540,0,1345,130,0,73,497,1885,28.647214854111407,Indonesian (http://www.transifex.com/projects/p/colord/language/id/)
+mingw-gcc,23920,49127,29755,3498,6528,3088,24163,102802,23.26802980486761,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gdb,7765,0,0,1106,0,0,7920,7765,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gdk-pixbuf,1409,0,0,211,0,0,1395,1409,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+mingw-gettext,6319,1025,439,655,98,74,6038,7783,81.18977258126687,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-glib-networking,163,0,0,29,0,0,160,163,100.0,Indonesian <gnome@i15n.org>
+mingw-glib2,7115,0,0,1140,0,0,7153,7115,100.0,Indonesian <gnome@i15n.org>
+mingw-gstreamer,1914,3,0,347,1,0,1835,1917,99.8435054773083,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,96,0,0,14,0,0,90,96,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gstreamer-plugins-base,902,0,6,176,0,2,871,908,99.33920704845815,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,814,0,0,190,0,0,789,814,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gstreamer1,2031,32,15,371,3,1,1943,2078,97.73820981713186,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,194,0,3,28,0,1,189,197,98.47715736040608,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,939,5,24,196,1,5,912,968,97.00413223140497,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,712,39,43,87,6,4,673,794,89.67254408060454,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-gtk-vnc,8,0,0,3,0,0,8,8,100.0,Indonesian <gnome@i15n.org>
+mingw-gtk2,12381,0,0,2582,0,0,11376,12381,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+mingw-gtk3,16056,0,0,3601,0,0,14710,16056,100.0,Indonesian <gnome@i15n.org>
+mingw-gtksourceview3,1156,0,0,630,0,0,1206,1156,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+mingw-gtkspell3,16,0,0,7,0,0,18,16,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-json-glib,303,0,0,44,0,0,286,303,100.0,Indonesian <gnome@i15n.org>
+mingw-libcharset,303,33,0,45,1,0,310,336,90.17857142857143,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-libgovirt,102,0,0,23,0,0,105,102,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+mingw-libgsf,720,0,0,150,0,0,685,720,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+mingw-libidn,414,0,14,58,0,2,415,428,96.72897196261682,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-libidn2,28,127,160,5,12,23,28,315,8.88888888888889,Indonesian <translation-team-id@lists.sourceforge.net>
+mingw-libosinfo,0,0,672,0,0,146,0,672,0.0,Indonesian
+mingw-libsoup,155,0,0,36,0,0,180,155,100.0,Indonesian <gnome@i15n.org>
+mingw-libvirt,847,0,62710,211,0,9606,795,63557,1.3326620199191277,Indonesian (http://www.transifex.com/projects/p/libvirt/language/id/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Indonesian (http://www.transifex.com/projects/p/libvirt-glib/language/id/)
+mingw-p11-kit,476,0,0,81,0,0,392,476,100.0,Indonesian (http://www.transifex.com/freedesktop/p11-kit/language/id/)
+mingw-qt5-qtwebkit,1785,438,408,419,88,65,1642,2631,67.84492588369442,GNOME Indonesian Translation Team <gnome@i15n.org>
+mingw-webkitgtk,1777,438,408,417,88,65,1635,2623,67.7468547464735,GNOME Indonesian Translation Team <gnome@i15n.org>
+mingw-webkitgtk3,1777,438,408,417,88,65,1635,2623,67.7468547464735,GNOME Indonesian Translation Team <gnome@i15n.org>
+mingw-wxWidgets,3896,1137,1358,834,265,376,3901,6391,60.96072602096698,ID <i-am-the-boss@bpdp.org>
+mingw-wxWidgets3,7565,63,67,1764,42,47,7310,7695,98.31059129304744,ID <doplank@gmx.com>
+minicom,1431,303,55,360,20,11,1481,1789,79.98882057015092,Indonesian <translation-team-id@lists.sourceforge.net>
+modem-manager-gui,2914,0,394,519,0,50,2841,3308,88.08948004836759,Indonesian (http://www.transifex.com/ethereal/modem-manager-gui/language/id/)
+moin,2860,961,1233,571,153,212,2796,5054,56.58884052235853,
+monodevelop,5944,8632,8722,1560,2329,1409,5477,23298,25.512919563911062,Indonesian <id@li.org>
+moodle,0,10,42,0,4,10,0,52,0.0,i18n@lists.horde.org
+moserial,540,0,0,119,0,0,530,540,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+mousepad,1088,0,0,306,0,0,1011,1088,100.0,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+mousetweaks,114,0,0,30,0,0,108,114,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+mozo,42,0,0,16,0,0,39,42,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+msitools,72,0,0,26,0,0,70,72,100.0,Indonesian <gnome@i15n.org>
+muffin,2511,0,0,361,0,0,2449,2511,100.0,Indonesian <gnome@i15n.org>
+multimedia-menus,56,0,0,22,0,0,62,56,100.0,Fedora Indonesia <trans-id@lists.fedoraproject.org>
+mutt,4369,1023,522,980,163,92,4525,5914,73.8755495434562,Indonesian <web@linux.or.id>
+mutter,1069,0,0,137,0,0,1059,1069,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+mutter328,1085,0,0,135,0,0,1075,1085,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+mypaint,1175,1977,3705,260,391,535,1085,6857,17.13577366195129,Indonesian <https://hosted.weblate.org/projects/mypaint/libmypaint/id/>
+nacl-arm-binutils,42677,0,0,6656,0,0,43483,42677,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+nacl-binutils,42677,0,0,6656,0,0,43483,42677,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+nacl-gcc,53910,0,0,7345,0,0,53935,53910,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+nano,525,1360,1226,137,183,212,481,3111,16.875602700096433,Indonesian <translation-team-id@lists.sourceforge.net>
+nautilus,5524,0,0,1077,0,0,5005,5524,100.0,Indonesian
+nautilus-sendto,56,0,0,10,0,0,58,56,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+nemiver,1341,0,0,340,0,0,1244,1341,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+nemo-extensions,251,0,7,48,0,1,238,258,97.28682170542635,Indonesian <id@li.org>
+network-manager-applet,4803,0,0,984,0,0,4662,4803,100.0,Indonesian <gnome@i15n.org>
+newt,4,0,0,4,0,0,4,4,100.0,Debian Indonesia <debid@yahoogroups.com>
+notification-daemon,33,0,0,11,0,0,35,33,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,308,16,5,87,8,2,289,329,93.61702127659575,Indonesian <kde-i18n-doc@kde.org>
+okular,2806,0,0,710,0,0,2662,2806,100.0,Indonesian <kde-i18n-doc@kde.org>
+olpc-switch-desktop,158,0,0,14,0,0,138,158,100.0,LANGUAGE <LL@li.org>
+onboard,401,0,1917,124,0,386,393,2318,17.29939603106126,Indonesian <id@li.org>
+openconnect,5176,0,755,892,0,138,5238,5931,87.27027482717922,Indonesian (http://www.transifex.com/projects/p/meego/language/id/)
+openerp,5379,0,42952,1264,0,5975,5075,48331,11.129502803583621,Indonesian <id@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2915,0,0,1021,0,0,2905,2915,100.0,Indonesian (http://www.transifex.com/projects/p/xfce/language/id/)
+orca,5610,0,0,1857,0,0,5507,5610,100.0,Indonesian <gnome@i15n.org>
+osinfo-db-tools,54,0,148,11,0,29,55,202,26.732673267326735,Indonesian
+p11-kit,476,0,0,81,0,0,392,476,100.0,Indonesian (http://www.transifex.com/freedesktop/p11-kit/language/id/)
+pacman,5382,0,16,893,0,3,5180,5398,99.70359392367544,Indonesian (http://www.transifex.com/toofishes/archlinux-pacman/language/id/)
+pam,215,0,382,47,0,73,203,597,36.01340033500838,Indonesian <trans-id@lists.fedoraproject.org>
+pantheon-agent-geoclue2,43,0,56,11,0,6,34,99,43.43434343434344,Indonesian <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/id/>
+pantheon-agent-polkit,14,0,2,7,0,1,15,16,87.5,Indonesian <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/id/>
+pantheon-greeter,29,0,0,10,0,0,28,29,100.0,Indonesian <id@li.org>
+parole,1099,0,0,299,0,0,1140,1099,100.0,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+parted,3917,368,131,494,41,15,3864,4416,88.70018115942028,Indonesian <translation-team-id@lists.sourceforge.net>
+passwd,329,0,7,56,0,1,351,336,97.91666666666666,Indonesian <trans-id@lists.fedoraproject.org>
+pastebinit,195,0,0,29,0,0,196,195,100.0,Indonesian <id@li.org>
+peek,103,47,387,34,10,45,97,537,19.180633147113593,Indonesian <https://hosted.weblate.org/projects/peek/translations/id/>
+pgadmin3,3003,9507,4388,1016,2548,838,2953,16898,17.771333885666944,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,44,0,2509,10,0,814,41,2553,1.7234625930278105,Indonesian <id@li.org>
+phodav,35,0,0,10,0,0,34,35,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+php-horde-Horde-Alarm,0,4,9,0,2,3,0,13,0.0,i18n@lists.horde.org
+php-horde-Horde-Argv,1,1,58,1,1,11,1,60,1.6666666666666667,i18n@lists.horde.org
+php-horde-Horde-Browser,0,4,62,0,1,5,0,66,0.0,i18n@lists.horde.org
+php-horde-Horde-Cli,0,0,11,0,0,3,0,11,0.0,i18n@lists.horde.org
+php-horde-Horde-Compress,0,7,18,0,2,4,0,25,0.0,i18n@lists.horde.org
+php-horde-Horde-Core,84,174,513,51,62,98,81,771,10.894941634241246,i18n@lists.horde.org
+php-horde-Horde-Crypt,5,31,360,4,15,78,7,396,1.2626262626262625,i18n@lists.horde.org
+php-horde-Horde-Data,0,0,7,0,0,2,0,7,0.0,i18n@lists.horde.org
+php-horde-Horde-Date,0,6,30,0,1,10,0,36,0.0,i18n@lists.horde.org
+php-horde-Horde-Exception,0,2,2,0,1,1,0,4,0.0,i18n@lists.horde.org
+php-horde-Horde-Form,12,123,418,6,45,95,11,553,2.1699819168173597,i18n@lists.horde.org
+php-horde-Horde-Icalendar,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Image,22,88,471,21,56,208,24,581,3.7865748709122204,i18n@lists.horde.org
+php-horde-Horde-Imsp,0,7,7,0,1,1,0,14,0.0,i18n@lists.horde.org
+php-horde-Horde-Itip,0,1,55,0,1,9,0,56,0.0,i18n@lists.horde.org
+php-horde-Horde-Kolab-Storage,0,0,120,0,0,9,0,120,0.0,i18n@lists.horde.org
+php-horde-Horde-LoginTasks,0,2,4,0,1,4,0,6,0.0,i18n@lists.horde.org
+php-horde-Horde-Mime,0,8,40,0,3,9,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Mime-Viewer,0,0,0,0,0,0,0,0,0.0,i18n@lists.horde.org
+php-horde-Horde-Nls,1,9,420,1,8,254,1,430,0.23255813953488372,i18n@lists.horde.org
+php-horde-Horde-Perms,4,2,0,4,1,0,4,6,66.66666666666666,i18n@lists.horde.org
+php-horde-Horde-Prefs,3,29,0,2,6,0,4,32,9.375,i18n@lists.horde.org
+php-horde-Horde-Rpc,0,0,48,0,0,7,0,48,0.0,i18n@lists.horde.org
+php-horde-Horde-Share,5,0,43,5,0,7,5,48,10.416666666666668,i18n@lists.horde.org
+php-horde-Horde-SyncMl,0,0,3,0,0,1,0,3,0.0,i18n@lists.horde.org
+php-horde-Horde-Text-Filter,0,0,1,0,0,1,0,1,0.0,i18n@lists.horde.org
+php-horde-Horde-Token,0,0,0,0,0,0,0,0,0.0,i18n@lists.horde.org
+php-horde-Horde-Vfs,0,5,5,0,2,1,0,10,0.0,i18n@lists.horde.org
+php-horde-horde,1600,967,907,529,229,176,1722,3474,46.05641911341393,id <id@li.org>
+php-horde-imp,2320,0,0,500,0,0,2115,2320,100.0,UPT TI UNEJ <uptti@unej.ac.id>
+php-horde-nag,444,0,0,118,0,0,426,444,100.0,UPT TI UNEJ <uptti@unej.ac.id>
+php-horde-passwd,269,0,0,49,0,0,263,269,100.0,UPT TI UNEJ <uptti@unej.ac.id>
+php-phpmyadmin-sql-parser,227,0,0,44,0,0,207,227,100.0,Indonesian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/id/>
+picard,260,0,2526,160,0,557,292,2786,9.332376166547022,Indonesian (http://www.transifex.com/musicbrainz/musicbrainz/language/id/)
+pidgin,10370,0,5386,2462,0,971,10020,15756,65.81619700431581,Indonesian (http://www.transifex.com/pidgin/pidgin/language/id/)
+pidgin-musictracker,19,14,300,6,1,53,21,333,5.7057057057057055,Indonesian <id@li.org>
+pinta,743,0,875,314,0,214,759,1618,45.920889987639065,Indonesian <permataharahap@gmail.com>
+pitivi,2060,0,0,405,0,0,1940,2060,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+pix,3718,0,0,1202,0,0,3556,3718,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+plank,135,0,54,30,0,20,156,189,71.42857142857143,Indonesian <id@li.org>
+planner,166,71,873,31,28,306,142,1110,14.954954954954955,Indonesian <en@li.org>
+plasma-breeze,267,0,0,101,0,0,282,267,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-browser-integration,19,0,0,5,0,0,20,19,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-desktop,11980,0,0,2363,0,0,11209,11980,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-discover,1309,0,0,392,0,0,1224,1309,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-drkonqi,4015,0,0,377,0,0,3594,4015,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-integration,58,0,0,21,0,0,56,58,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-mediacenter,168,0,4,86,0,1,177,172,97.67441860465115,Indonesian <translation-team-id@lists.sourceforge.net>
+plasma-milou,42,0,0,17,0,0,41,42,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-nm,4373,0,0,1106,0,0,4187,4373,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-oxygen,808,0,0,295,0,0,830,808,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-pa,204,0,0,85,0,0,210,204,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-sdk,852,0,0,250,0,0,816,852,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-systemsettings,224,0,0,55,0,0,221,224,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-user-manager,295,0,0,49,0,0,218,295,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-vault,679,0,0,78,0,0,609,679,100.0,Indonesian <kde-i18n-doc@kde.org>
+plasma-workspace,7116,19,1,2256,8,1,7118,7136,99.71973094170403,Indonesian <translation-team-id@lists.sourceforge.net>
+playonlinux,293,0,2435,40,0,409,264,2728,10.740469208211143,Indonesian <id@li.org>
+pluma,4900,0,7786,1147,0,630,4768,12686,38.625256187923696,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+plymouth-kcm,122,0,0,24,0,0,114,122,100.0,Indonesian <kde-i18n-doc@kde.org>
+pmount,723,0,0,63,0,0,751,723,100.0,Indonesian <id@li.org>
+po4a,1749,66,39,187,4,4,1739,1854,94.33656957928802,Indonesian <https://hosted.weblate.org/projects/po4a/po4a/id/>
+poedit,2772,0,0,620,0,0,2639,2772,100.0,Indonesian
+pogo,231,0,345,48,0,53,211,576,40.10416666666667,Indonesian <id@li.org>
+polari,811,0,0,187,0,0,796,811,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+policycoreutils,33,0,4464,32,0,666,34,4497,0.733822548365577,Indonesian
+polkit,228,0,0,26,0,0,214,228,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+polkit-gnome,94,0,0,16,0,0,83,94,100.0,Indonesian <gnome@i15n.org>
+polkit-kde,94,0,0,30,0,0,93,94,100.0,Indonesian <kde-i18n-doc@kde.org>
+popt,78,0,6,29,0,2,82,84,92.85714285714286,Indonesian <translation-team-id@lists.sourceforge.net>
+postgresql,29923,0,0,3871,0,0,29175,29923,100.0,"Equnix Business Solution, PT"
+powerdevil,673,0,0,120,0,0,594,673,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+powertop,406,111,181,110,35,57,394,698,58.16618911174785,Indonesian (Indonesia) (http://www.transifex.com/projects/p/PowerTOP/language/id_ID/)
+psmisc,452,533,7,68,16,1,484,992,45.564516129032256,Indonesian <translation-team-id@lists.sourceforge.net>
+publican,1027,66,4350,73,2,541,1036,5443,18.868271173984937,Fedora Indonesia <trans-id@lists.fedoraproject.org>
+publican-fedora,6,0,101,1,0,7,7,107,5.607476635514018,Fedora Indonesia <trans-id@lists.fedoraproject.org>
+pulseaudio,3403,181,0,522,14,0,3284,3584,94.94977678571429,Indonesia <id@li.org>
+pulseeffects,633,34,42,304,21,18,653,709,89.28067700987306,
+pybliographer,970,0,0,262,0,0,980,970,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+pychess,348,0,4107,133,0,746,310,4455,7.8114478114478105,Indonesian (http://www.transifex.com/gbtami/pychess/language/id/)
+pykickstart,177,0,1344,15,0,155,168,1521,11.637080867850099,Indonesian (http://www.transifex.com/projects/p/pykickstart/language/id/)
+pyroom,16,0,395,6,0,68,19,411,3.8929440389294405,Indonesian <id@li.org>
+python-blivet,206,0,318,24,0,51,196,524,39.31297709923664,Indonesian (http://www.transifex.com/projects/p/blivet/language/id/)
+python-blivet1,225,0,482,33,0,99,213,707,31.824611032531823,Indonesian
+python-caja,6,0,0,2,0,0,6,6,100.0,Indonesian (https://www.transifex.com/mate/teams/13566/id/)
+python-django,3657,0,0,825,0,0,3287,3657,100.0,Indonesian (http://www.transifex.com/django/django/language/id/)
+python-django-debug-toolbar,89,0,268,55,0,82,92,357,24.92997198879552,Indonesian (http://www.transifex.com/projects/p/django-debug-toolbar/language/id/)
+python-django-formtools,5,0,27,3,0,8,6,32,15.625,Indonesian (http://www.transifex.com/projects/p/django-formtools/language/id/)
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,Indonesian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/id/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Indonesian
+python-meh,109,0,0,23,0,0,99,109,100.0,Indonesian
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Indonesian
+python-sphinx,545,0,712,197,0,80,542,1257,43.35719968178202,Indonesian (http://www.transifex.com/sphinx-doc/sphinx-1/language/id/)
+python-wxpython4,7565,63,67,1764,42,47,7310,7695,98.31059129304744,ID <doplank@gmx.com>
+python2-django1.11,3604,0,0,817,0,0,3239,3604,100.0,Indonesian (http://www.transifex.com/django/django/language/id/)
+qof,554,0,0,35,0,0,475,554,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+qtwebkit,1821,0,0,423,0,0,1672,1821,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+quadrapassel,428,0,0,79,0,0,399,428,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+radiotray,117,0,13,43,0,3,115,130,90.0,Indonesian (http://www.transifex.com/projects/p/radiotray/language/id/)
+rapid-photo-downloader,71,0,1761,37,0,372,71,1832,3.8755458515283845,Indonesian <id@li.org>
+ravada,1076,0,0,275,0,0,986,1076,100.0,Indonesian <yudi.al@gmail.com>
+realmd,778,0,11,125,0,2,817,789,98.60583016476554,Indonesian (http://www.transifex.com/freedesktop/realmd/language/id/)
+redhat-menus,253,0,0,81,0,0,246,253,100.0,Indonesian <fedora-trans-id@redhat.com>
+rednotebook,1125,0,22,236,0,4,1080,1147,98.0819529206626,Indonesian <id@li.org>
+remmina,83,7,2412,39,1,579,89,2502,3.317346123101519,Indonesian <id@li.org>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Indonesian
+rhn-client-tools,168,2,3887,45,1,373,142,4057,4.140990879960562,Indonesian (http://www.transifex.com/projects/p/spacewalk/language/id/)
+rhnsd,0,0,33,0,0,9,0,33,0.0,Indonesian <trans-id@lists.fedoraproject.org>
+rhythmbox,3756,0,0,969,0,0,3672,3756,100.0,Indonesian <gnome@i15n.org>
+rhythmbox-alternative-toolbar,294,0,0,60,0,0,298,294,100.0,Indonesian <id@li.org>
+ristretto,759,0,0,196,0,0,744,759,100.0,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+rpm,451,0,3999,69,0,795,439,4450,10.134831460674157,Indonesian (http://www.transifex.com/rpm-team/rpm/language/id/)
+rpm-ostree,13,0,1010,3,0,170,12,1023,1.270772238514174,Indonesian
+rt,2715,0,8981,754,0,1888,2921,11696,23.213064295485637,Indonesian <id@li.org>
+rygel,1624,0,0,303,0,0,1619,1624,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+sawfish,160,484,5799,101,196,685,191,6443,2.483315225826478,INDONESIA <userindesign@gmail.com>
+scratch,1467,0,3,625,0,1,1646,1470,99.79591836734694,LANGUAGE <LL@li.org>
+sdcc,6373,0,0,870,0,0,6485,6373,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+sddm-kcm,108,0,0,44,0,0,104,108,100.0,Indonesian <kde-i18n-doc@kde.org>
+seahorse,2759,0,0,631,0,0,2714,2759,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+seahorse-caja,487,0,0,121,0,0,484,487,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+seahorse-nautilus,487,0,0,121,0,0,484,487,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+sed,443,94,251,77,12,48,462,788,56.21827411167513,Indonesian <translation-team-id@lists.sourceforge.net>
+sequeler,39,128,1185,21,36,218,46,1352,2.8846153846153846,
+setroubleshoot,0,0,13860,0,0,3801,0,13860,0.0,Indonesian <trans-id@lists.fedoraproject.org>
+setroubleshoot-plugins,0,0,130368,0,0,4641,0,130368,0.0,Indonesian <trans-id@lists.fedoraproject.org>
+setuptool,55,0,0,14,0,0,58,55,100.0,Indonesian <fedora-trans-id@redhat.com>
+shadow-utils,887,1370,1836,182,208,209,941,4093,21.671145858783287,Debian Indonesia <debid@yahoogroups.com>
+shared-mime-info,1986,0,0,770,0,0,2087,1986,100.0,Indonesian (http://www.transifex.com/freedesktop/shared-mime-info/language/id/)
+sharutils,243,273,2631,66,53,185,251,3147,7.721639656816015,Indonesian <translation-team-id@lists.sourceforge.net>
+shotwell,6904,0,0,1284,0,0,6246,6904,100.0,Indonesian <gnome@i15n.org>
+shutter,2584,0,509,564,0,42,2400,3093,83.54348528936308,Indonesian <id@li.org>
+simple-scan,848,0,0,193,0,0,853,848,100.0,Indonesian <id@li.org>
+skychart,760,116,826,200,8,153,730,1702,44.65334900117509,Zaenal Mutaqin <ade999@gmail.com>
+slick-greeter,152,0,59,26,0,21,138,211,72.03791469194313,Indonesian <id@li.org>
+snapd,0,0,4307,0,0,481,0,4307,0.0,Indonesian <id@li.org>
+snapper,827,0,0,200,0,0,823,827,100.0,Indonesian <https://l10n.opensuse.org/projects/snapper/master/id/>
+sos,41,19,62,8,4,18,44,122,33.60655737704918,none
+sound-juicer,1300,0,0,230,0,0,1298,1300,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+spacefm,453,8,8261,171,3,1394,433,8722,5.193762898417794,Indonesian (http://www.transifex.com/projects/p/spacefm/language/id/)
+spectacle,564,0,0,106,0,0,547,564,100.0,Indonesian <kde-i18n-doc@kde.org>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Indonesian (Indonesia) (http://www.transifex.com/heldercorreia/speedcrunch/language/id_ID/)
+squirrelmail,6644,306,804,1321,99,101,6526,7754,85.68480784111426,Bahasa Indonesia <squirrelmail-i18n@lists.sourceforge.net>
+sscg,78,0,16,29,0,5,82,94,82.97872340425532,Indonesian <translation-team-id@lists.sourceforge.net>
+sssd,591,0,3341,108,0,528,595,3932,15.030518819938962,Indonesian (http://www.transifex.com/projects/p/sssd/language/id/)
+steadyflow,265,0,205,60,0,33,257,470,56.38297872340425,Indonesian <id@li.org>
+stellarium,9374,0,63261,3613,0,24324,8968,72635,12.905624010463276,Indonesian (https://www.transifex.com/stellarium/teams/80998/id/)
+subdownloader,384,0,584,151,0,121,374,968,39.66942148760331,LANGUAGE <LL@li.org>
+sugar,2305,0,0,529,0,0,2228,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,29,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,314,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,819,871,100.0,LANGUAGE <LL@li.org>
+sugar-chat,56,3,78,34,1,46,54,137,40.87591240875913,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,60,66,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,91,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,60,30,168,16,5,42,53,258,23.25581395348837,LANGUAGE <LL@li.org>
+sugar-fototoon,7,8,106,5,7,34,7,121,5.785123966942149,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,11,139,0,11,23,0,150,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,60,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,22,8,47,2,8,10,21,77,28.57142857142857,LANGUAGE <LL@li.org>
+sugar-infoslicer,2,2,232,2,2,58,2,236,0.847457627118644,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,71,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,1,35,245,1,24,69,1,281,0.3558718861209964,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,90,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,9,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,23,17,115,22,9,42,24,155,14.838709677419354,LANGUAGE <LL@li.org>
+sugar-memorize,10,6,126,10,6,58,10,142,7.042253521126761,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,108,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,48,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,91,0,183,25,0,41,88,274,33.21167883211679,LANGUAGE <LL@li.org>
+sugar-portfolio,73,0,0,25,0,0,71,73,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,140,137,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,59,62,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,245,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,24,0,0,11,0,0,25,24,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,5,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit,73,0,0,37,0,0,67,73,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,159,0,0,111,0,0,154,159,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,631,27,801,173,7,255,598,1459,43.248800548320766,LANGUAGE <LL@li.org>
+sugar-typing-turtle,2,20,577,1,17,109,2,599,0.333889816360601,LANGUAGE <LL@li.org>
+sugar-visualmatch,158,0,0,78,0,0,154,158,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,3,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,117,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,26,29,100.0,LANGUAGE <LL@li.org>
+supertux,94,0,2886,11,0,907,80,2980,3.1543624161073827,Indonesian (http://www.transifex.com/arctic-games/supertux/language/id/)
+supertuxkart,2082,0,1279,497,0,255,1991,3361,61.94584944956858,
+sushi,24,0,0,11,0,0,21,24,100.0,Indonesian <gnome@i15n.org>
+sweeper,225,0,4,49,0,1,228,229,98.2532751091703,Indonesian <kde-i18n-doc@kde.org>
+swell-foop,266,0,0,55,0,0,256,266,100.0,Indonesian <gnome@i15n.org>
+switchboard,61,0,0,18,0,0,64,61,100.0,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard/id/>
+switchboard-plug-a11y,182,0,0,65,0,0,185,182,100.0,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/id/>
+switchboard-plug-about,80,14,0,24,4,0,83,94,85.1063829787234,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/id/>
+switchboard-plug-applications,80,0,6,30,0,2,85,86,93.02325581395348,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/id/>
+switchboard-plug-bluetooth,69,1,4,25,1,2,69,74,93.24324324324324,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-bluetooth/id/>
+switchboard-plug-display,97,2,14,42,1,4,108,113,85.84070796460178,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/id/>
+switchboard-plug-keyboard,107,3,294,41,1,115,130,404,26.48514851485149,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/id/>
+switchboard-plug-mouse-touchpad,4,0,146,4,0,47,4,150,2.666666666666667,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/id/>
+switchboard-plug-networking,443,1,0,128,1,0,432,444,99.77477477477478,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-networking/id/>
+switchboard-plug-notifications,131,0,8,18,0,2,122,139,94.24460431654677,
+switchboard-plug-onlineaccounts,2,0,159,2,0,47,2,161,1.2422360248447204,Indonesian <id@li.org>
+switchboard-plug-pantheon-shell,135,3,15,51,2,6,133,153,88.23529411764706,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/id/>
+switchboard-plug-printers,15,0,321,12,0,126,15,336,4.464285714285714,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/id/>
+switchboard-plug-sharing,4,0,126,4,0,24,4,130,3.076923076923077,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/id/>
+switchboard-plug-sound,85,12,34,37,6,3,89,131,64.8854961832061,Indonesian <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/id/>
+switchdesk,16,87,19,3,10,6,16,122,13.114754098360656,Fedora Trans ID <fedora-trans-id@redhat.com>
+sympa,261,1639,36194,83,427,3152,247,38094,0.6851472672861868,Bahasa Indonesia
+synapse,774,0,82,212,0,22,776,856,90.42056074766354,Indonesian <id@li.org>
+syncevolution,566,0,0,111,0,0,541,566,100.0,
+sysprof,435,0,0,115,0,0,423,435,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+sysstat,701,0,0,78,0,0,749,701,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+system-config-bind,1375,3,8041,356,2,706,1350,9419,14.598152670134834,Linux Indonesia <http://www.linux.or.id>
+system-config-firewall,343,494,1977,90,62,179,339,2814,12.189054726368159,Bahasa Indonesia <viribus@traderweb.net>
+system-config-httpd,877,0,0,227,0,0,837,877,100.0,Bahasa Indonesia <fedora-trans-id@redhat.com>
+system-config-kdump,185,0,692,10,0,146,152,877,21.094640820980615,Indonesian <trans-id@lists.fedoraproject.org>
+system-config-keyboard,187,0,0,81,0,0,182,187,100.0,Fedora Indonesia <trans-id@lists.fedoraproject.org>
+system-config-kickstart,1128,0,0,249,0,0,1110,1128,100.0,Indonesian (http://www.transifex.com/projects/p/system-config-kickstart/language/id/)
+system-config-language,197,17,1,29,1,1,179,215,91.62790697674419,Fedora Indonesia <trans-id@lists.fedoraproject.org>
+system-config-printer,3147,4,299,752,2,145,3015,3450,91.21739130434783,Indonesian (http://www.transifex.com/projects/p/system-config-printer/language/id/)
+system-config-rootpassword,15,26,75,3,5,11,12,116,12.931034482758621,BlankOn <http://www.blankonlinux.or.id>
+system-config-users,794,0,727,130,0,50,736,1521,52.202498356344506,Indonesian <trans-id@lists.fedoraproject.org>
+system-config-users-docs,1054,5,2,77,3,2,934,1061,99.3402450518379,Indonesian <fedora-trans-id@lists.fedoraproject.org>
+system-switch-java,81,0,0,11,0,0,69,81,100.0,Fedora Trans ID <fedora-trans-id@redhat.com>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Fedora Trans ID <fedora-trans-id@redhat.com>
+systemd,1065,0,0,125,0,0,953,1065,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+tali,418,0,0,96,0,0,392,418,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+tar,3405,114,120,559,17,15,3515,3639,93.5696619950536,Indonesian <translation-team-id@lists.sourceforge.net>
+taxi,57,0,5,11,0,4,59,62,91.93548387096774,LANGUAGE <LL@li.org>
+template-glib,23,0,0,4,0,0,20,23,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+tepl,154,0,0,54,0,0,153,154,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+terminator,1272,0,138,350,0,67,1254,1410,90.2127659574468,Indonesian <id@li.org>
+texi2html,974,384,285,62,67,52,962,1643,59.2818015824711,Indonesian <translation-team-id@lists.sourceforge.net>
+texinfo,3812,1361,209,524,96,29,3712,5382,70.82868821999256,Indonesian <translation-team-id@lists.sourceforge.net>
+thunar-archive-plugin,86,0,0,13,0,0,61,86,100.0,Indonesian (http://www.transifex.com/xfce/thunar-plugins/language/id/)
+thunar-media-tags-plugin,156,0,0,58,0,0,166,156,100.0,Indonesian (http://www.transifex.com/xfce/thunar-plugins/language/id/)
+thunar-vcs-plugin,595,0,0,320,0,0,634,595,100.0,Indonesian (http://www.transifex.com/xfce/thunar-plugins/language/id/)
+thunar-vfs,387,0,0,86,0,0,360,387,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+thunar-volman,491,0,0,118,0,0,462,491,100.0,Indonesian (http://www.transifex.com/xfce/thunar-volman/language/id/)
+tigervnc,616,0,0,141,0,0,639,616,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+tilix,1773,75,260,557,26,32,1774,2108,84.10815939278937,Indonesian <https://hosted.weblate.org/projects/tilix/translations/id/>
+timeshift,214,6,2831,43,2,549,190,3051,7.014093739757457,Indonesian <id@li.org>
+tomboy,3436,0,0,485,0,0,3276,3436,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+tortoisehg,864,0,12279,249,0,2162,854,13143,6.573841588678383,Indonesian <id@li.org>
+totem,6015,0,0,643,0,0,5393,6015,100.0,Indonesian <gnome@i15n.org>
+totem-pl-parser,29,0,0,8,0,0,26,29,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+trac-accountmanager-plugin,0,0,1208,0,0,204,0,1208,0.0,Indonesian (Indonesia) (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/id_ID/)
+tracker,2212,0,0,369,0,0,2158,2212,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+tracker-miners,828,0,0,118,0,0,756,828,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+transmageddon,327,0,0,70,0,0,340,327,100.0,Indonesian <gnome@i15n.org>
+transmission,302,0,1507,134,0,360,362,1809,16.69430624654505,Indonesian <id@li.org>
+tumbler,241,0,0,39,0,0,219,241,100.0,Indonesian (http://www.transifex.com/xfce/tumbler/language/id/)
+tuxpaint,1591,0,0,291,0,0,1448,1591,100.0,Indonesia <translation-team-id@lists.sourceforge.net>
+tuxpaint-stamps,3271,0,0,813,0,0,2623,3271,100.0,debian-l10n-indonesian@lists.debian.org
+txt2regex,170,100,7,59,1,3,175,277,61.371841155234655,Bahasa txt2regex LangTeam <faizal@mfaizal.net>
+udisks2,2158,0,0,512,0,0,2040,2158,100.0,Indonesian
+ufw,0,0,879,1,0,180,0,879,0.0,Indonesian <id@li.org>
+uget,1031,0,54,361,0,1,1071,1085,95.02304147465438,Indonesian (http://www.transifex.com/uget/uget/language/id/)
+umit,1959,1185,1449,268,288,321,1779,4593,42.6518615284128,Bahasa Indonesia <id_ID@li.org>
+usermode,573,0,0,96,0,0,502,573,100.0,Indonesian <trans-id@lists.fedoraproject.org>
+util-linux,2438,12491,8104,660,2331,1165,2493,23033,10.584813094256067,Indonesian <translation-team-id@lists.sourceforge.net>
+viking,494,39,4838,205,17,1138,497,5371,9.197542357102959,Indonesian <id@li.org>
+vinagre,2540,0,0,357,0,0,2362,2540,100.0,Indonesian <gnome@i15n.org>
+vino,1228,0,0,134,0,0,1096,1228,100.0,Indonesian <gnome@i15n.org>
+virt-viewer,0,0,835,0,0,183,0,835,0.0,Indonesian
+visualboyadvance-m,2498,0,2008,852,0,798,2655,4506,55.43719485130937,Indonesian (Indonesia) (http://www.transifex.com/bgk/vba-m/language/id_ID/)
+vocal,402,0,432,102,0,70,363,834,48.201438848920866,Indonesian (http://www.transifex.com/needle-and-thread/vocal/language/id/)
+volume_key,40,0,723,8,0,146,39,763,5.242463958060288,Indonesian <trans-id@lists.fedoraproject.org>
+vte,80,0,0,13,0,0,92,80,100.0,GNOME Indonesian Translation Team <gnome-l10n-id@googlegroups.com>
+vte291,31,0,0,5,0,0,33,31,100.0,GNOME Indonesian Translation Team <gnome-l10n-id@googlegroups.com>
+wallpapoz,400,0,0,102,0,0,465,400,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+wammu,4938,217,135,892,19,12,4800,5290,93.34593572778827,Indonesian <https://hosted.weblate.org/projects/gammu/wammu-doc/id/>
+wdiff,127,694,52,18,90,11,127,873,14.5475372279496,Indonesian <translation-team-id@lists.sourceforge.net>
+webkit2gtk3,1880,0,355,518,0,50,1819,2235,84.11633109619687,GNOME Indonesian Translation Team <gnome@i15n.org>
+wesnoth,194199,36815,60401,12576,2011,3412,181048,291415,66.64001509874234,none
+wget,1801,1537,658,351,211,82,1874,3996,45.07007007007007,Indonesian <translation-team-id@lists.sourceforge.net>
+whaawmp,799,0,0,160,0,0,787,799,100.0,Indonesian <id@li.org>
+wicd,88,0,1050,36,0,218,92,1138,7.732864674868189,id <LL@li.org>
+widelands,31,0,58908,27,0,5198,33,58939,0.05259675257469587,Indonesian (http://www.transifex.com/widelands/widelands/language/id/)
+wingpanel,6,0,0,1,0,0,7,6,100.0,
+wingpanel-applications-menu,211,6,5,66,3,4,209,222,95.04504504504504,Indonesian <https://weblate.elementary.io/projects/wingpanel/applications-menu/id/>
+wingpanel-indicator-bluetooth,15,0,0,9,0,0,14,15,100.0,Indonesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/id/>
+wingpanel-indicator-datetime,14,0,0,4,0,0,13,14,100.0,Indonesian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/id/>
+wingpanel-indicator-keyboard,10,0,0,4,0,0,15,10,100.0,Indonesian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/id/>
+wingpanel-indicator-network,76,0,0,22,0,0,78,76,100.0,Indonesian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/id/>
+wingpanel-indicator-nightlight,16,0,0,6,0,0,18,16,100.0,Indonesian <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/id/>
+wingpanel-indicator-notifications,16,0,0,7,0,0,15,16,100.0,
+wingpanel-indicator-power,93,0,0,27,0,0,61,93,100.0,Indonesian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/id/>
+wingpanel-indicator-session,57,0,0,18,0,0,54,57,100.0,Indonesian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/id/>
+wingpanel-indicator-sound,14,0,0,6,0,0,14,14,100.0,Indonesian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-sound/id/>
+wireshark,79,0,179,4,0,12,65,258,30.620155038759687,Indonesian (https://www.transifex.com/wireshark/teams/36457/id/)
+wxGTK,3896,1137,1358,834,265,376,3901,6391,60.96072602096698,ID <i-am-the-boss@bpdp.org>
+wxGTK3,7565,63,67,1764,42,47,7310,7695,98.31059129304744,ID <doplank@gmx.com>
+wxPython,7716,16,2407,1845,6,731,7446,10139,76.10217970214025,ID <doplank@gmx.com>
+xapps,0,0,42,0,0,25,0,42,0.0,Indonesian <id@li.org>
+xarchiver,910,230,52,248,30,19,871,1192,76.34228187919463,Indonesian <translation-team-id@lists.sourceforge.net>
+xcdroast,3743,362,3939,512,61,275,3287,8044,46.53157633018399,Indonesian
+xdg-desktop-portal,132,0,0,20,0,0,104,132,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+xdg-desktop-portal-gtk,170,0,3,48,0,1,171,173,98.26589595375722,Indonesian <gnome-l10n-id@googlegroups.com>
+xdg-desktop-portal-kde,60,0,0,23,0,0,62,60,100.0,Indonesian <kde-i18n-doc@kde.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,79,81,100.0,INDONESIAN <userindesign@gmail.com>
+xdialog,21,0,0,15,0,0,21,21,100.0,Indonesian
+xed,3295,0,1318,787,0,206,3026,4613,71.42857142857143,Indonesian (http://www.transifex.com/projects/p/MATE/language/id/)
+xfbib,342,0,0,75,0,0,316,342,100.0,Indonesian <id@li.org>
+xfburn,1342,0,0,302,0,0,1278,1342,100.0,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+xfce4-appfinder,326,0,69,74,0,4,289,395,82.53164556962025,Indonesian (http://www.transifex.com/xfce/xfce4-appfinder/language/id/)
+xfce4-battery-plugin,149,0,0,43,0,0,149,149,100.0,Indonesian <id@li.org>
+xfce4-clipman-plugin,478,0,0,72,0,0,440,478,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-cpufreq-plugin,145,0,0,41,0,0,136,145,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-cpugraph-plugin,76,0,0,37,0,0,76,76,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce4-datetime-plugin,52,0,0,19,0,0,50,52,100.0,Indonesian <id@li.org>
+xfce4-dict,527,0,0,119,0,0,489,527,100.0,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+xfce4-diskperf-plugin,183,0,0,38,0,0,178,183,100.0,Indonesian <id@li.org>
+xfce4-embed-plugin,219,0,0,33,0,0,185,219,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce4-eyes-plugin,15,0,0,4,0,0,14,15,100.0,Indonesian <id@li.org>
+xfce4-fsguard-plugin,71,0,0,19,0,0,73,71,100.0,Indonesian <id@li.org>
+xfce4-genmon-plugin,56,0,0,14,0,0,54,56,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-mailwatch-plugin,657,0,0,110,0,0,645,657,100.0,Indonesian <id@li.org>
+xfce4-mount-plugin,374,0,0,56,0,0,341,374,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-mpc-plugin,78,0,0,24,0,0,82,78,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-netload-plugin,84,0,8,30,0,5,84,92,91.30434782608695,Indonesian (http://www.transifex.com/projects/p/xfce/language/id/)
+xfce4-notes-plugin,163,0,0,57,0,0,159,163,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfce4-notifyd,187,0,72,56,0,18,172,259,72.2007722007722,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+xfce4-panel,1701,0,22,409,0,5,1635,1723,98.72315728380731,Indonesian (http://www.transifex.com/xfce/xfce4-panel/language/id/)
+xfce4-places-plugin,160,0,0,45,0,0,145,160,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-power-manager,1017,0,0,202,0,0,926,1017,100.0,Indonesian (http://www.transifex.com/xfce/xfce4-power-manager/language/id/)
+xfce4-pulseaudio-plugin,118,0,0,27,0,0,115,118,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-screenshooter,309,0,122,59,0,5,294,431,71.6937354988399,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+xfce4-sensors-plugin,359,0,0,75,0,0,349,359,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-session,869,0,0,178,0,0,790,869,100.0,Indonesian (http://www.transifex.com/xfce/xfce4-session/language/id/)
+xfce4-settings,1559,0,148,368,0,11,1487,1707,91.32981839484475,Indonesian (http://www.transifex.com/xfce/xfce4-settings/language/id/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,22,22,100.0,Indonesian <id@li.org>
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,119,129,100.0,Indonesian (https://www.transifex.com/xfce/teams/16840/id/)
+xfce4-systemload-plugin,73,0,0,22,0,0,75,73,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-taskmanager,257,0,0,85,0,0,254,257,100.0,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+xfce4-terminal,1405,0,48,354,0,7,1394,1453,96.69649002064695,Indonesian (http://www.transifex.com/xfce/xfce-apps/language/id/)
+xfce4-time-out-plugin,89,0,0,32,0,0,84,89,100.0,Indonesian <id@li.org>
+xfce4-timer-plugin,134,0,0,42,0,0,137,134,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-verve-plugin,103,0,0,25,0,0,101,103,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-wavelan-plugin,51,0,0,12,0,0,51,51,100.0,Indonesian <id@li.org>
+xfce4-weather-plugin,3668,0,0,330,0,0,3324,3668,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfce4-whiskermenu-plugin,239,11,99,90,4,24,228,349,68.48137535816619,Indonesian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/id/)
+xfce4-xkb-plugin,57,0,0,22,0,0,69,57,100.0,Indonesian (http://www.transifex.com/xfce/xfce-panel-plugins/language/id/)
+xfconf,458,0,0,68,0,0,418,458,100.0,Indonesian (http://www.transifex.com/xfce/xfconf/language/id/)
+xfdesktop,982,0,3,229,0,3,937,985,99.69543147208122,Indonesian (http://www.transifex.com/xfce/xfdesktop/language/id/)
+xfmpc,167,0,0,70,0,0,181,167,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xfwm4,668,0,0,172,0,0,702,668,100.0,Indonesian (http://www.transifex.com/xfce/xfwm4/language/id/)
+xkeyboard-config,3712,0,0,1125,0,0,3736,3712,100.0,Indonesian <translation-team-id@lists.sourceforge.net>
+xmms,2824,235,384,923,52,70,2680,3443,82.02149288411269,Indonesia <rac@linux-mandrake.com>
+xpad,191,0,222,50,0,77,195,413,46.246973365617436,Indonesian <id@li.org>
+xplayer,1943,0,9,491,0,2,1771,1952,99.5389344262295,Indonesian <gnome@i15n.org>
+xplayer-plparser,29,0,0,8,0,0,26,29,100.0,Indonesian
+xreader,1639,0,2,371,0,1,1503,1641,99.87812309567336,Indonesian (http://www.transifex.com/mate/MATE/language/id/)
+xviewer,1677,0,0,324,0,0,1512,1677,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+xviewer-plugins,413,0,0,100,0,0,406,413,100.0,GNOME Indonesian Translation Team <gnome@i15n.org>
+yelp,348,0,0,73,0,0,316,348,100.0,Indonesian <gnome-l10n-id@googlegroups.com>
+yelp-xsl,85,0,0,62,0,0,86,85,100.0,Indonesian <gnome@i15n.org>
+yum,760,0,5378,261,0,1059,769,6138,12.381883349625285,LANGUAGE <LL@li.org>
+yum-rhn-plugin,0,0,147,0,0,17,0,147,0.0,Indonesian <trans-id@lists.fedoraproject.org>
+zabbix,6936,213,7972,1986,23,1191,7240,15121,45.86998214403809,none
+zathura,540,0,183,134,0,26,515,723,74.68879668049793,Indonesian (Indonesia) (http://www.transifex.com/pwmt/zathura/language/id_ID/)
+zenity,896,0,0,199,0,0,845,896,100.0,Indonesian <gnome@i15n.org>
+znc,570,0,8028,91,0,1633,535,8598,6.6294487090020935,Indonesian
+zypper,9004,0,70,1223,0,10,7942,9074,99.22856513114394,Indonesian <https://l10n.opensuse.org/projects/zypper/master/id/>

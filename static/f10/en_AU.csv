@@ -1,0 +1,31 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,284,0,2377,103,0,483,284,2661,10.672679443818113,English (Australia) <en_AU@li.org>
+avant-window-navigator,91,0,502,34,0,106,90,593,15.345699831365936,English (Australia) <en_AU@li.org>
+bazaar,129,0,6395,13,0,395,130,6524,1.9773145309625997,English (Australia) <en_AU@li.org>
+bluez-gnome,1,0,630,1,0,188,6,631,0.15847860538827258,English (Australia) <en_AU@li.org>
+deluge,1998,0,0,689,0,0,1998,1998,100.0,English (Australia) <en_AU@li.org>
+evolution,65,2038,15099,26,677,3577,64,17202,0.37786303918149056,
+evolution-data-server,166,1000,3335,29,175,672,187,4501,3.688069317929349,
+evolution-rspam,0,0,194,0,0,32,0,194,0.0,LANGUAGE <LL@li.org>
+evolution-rss,0,0,589,0,0,160,0,589,0.0,LANGUAGE <LL@li.org>
+gnome-applet-timer,283,0,0,71,0,0,287,283,100.0,English (Australia) <en_AU@li.org>
+gnome-do,233,0,0,66,0,0,233,233,100.0,English (Australia) <en_AU@li.org>
+gnomebaker,21,0,1165,8,0,283,21,1186,1.770657672849916,English (Australia) <en_AU@li.org>
+gourmet,110,0,3416,18,0,773,111,3526,3.119682359614294,English (Australia) <en_AU@li.org>
+gxmessage,12,0,233,2,0,33,12,245,4.8979591836734695,LANGUAGE <LL@li.org>
+homebank,197,0,1168,95,0,351,197,1365,14.43223443223443,English (Australia) <en_AU@li.org>
+inkscape,6671,4063,6439,1363,1187,915,6675,17173,38.84586269143423,English (Australia)
+jokosher,1585,0,566,286,0,117,1585,2151,73.68665736866575,English (Australia) <en_AU@li.org>
+ntfs-config,29,36,292,5,12,42,31,357,8.123249299719888,English (Australia) <en_AU@li.org>
+orage,36,0,828,14,0,525,35,864,4.166666666666666,Australian English <en_gb@li.org>
+pidgin,6427,6334,5228,1486,1611,770,6427,17989,35.727388959919956,English/AU <trans@six-by-nine.com.au>
+pidgin-guifications,442,32,31,183,4,5,444,505,87.52475247524752,English (Australian) <trans@six-by-nine.com.au>
+pmount,723,0,0,63,0,0,723,723,100.0,English (Australia) <en_AU@li.org>
+purple-plugin_pack,0,15,2591,0,1,460,0,2606,0.0,English/AU <trans@six-by-nine.com.au>
+rapid-photo-downloader,10,0,1246,2,0,253,15,1256,0.7961783439490446,English (Australia) <en_AU@li.org>
+stellarium,1520,0,889,602,0,318,1519,2409,63.096720630967205,English (Australia) <en_AU@li.org>
+sweep,2,0,2397,1,0,537,2,2399,0.08336807002917883,English/Australia <LL@li.org>
+transmission,1094,0,17,353,0,4,1099,1111,98.46984698469848,English (Australia) <en_AU@li.org>
+tuxpaint,491,123,147,130,15,41,491,761,64.5203679369251,English (Australia) <en_AU@li.org>
+tuxpaint-stamps,1045,130,1442,260,53,313,1045,2617,39.93121895299962,English (Australia) <en_AU@li.org>
+xchat-gnome,3618,185,98,944,22,14,3624,3901,92.74544988464496,English (Australia) <en_AU@li.org>

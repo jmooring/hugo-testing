@@ -1,0 +1,1143 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4024,0,0,485,0,0,4546,4024,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+NetworkManager,5795,114,23285,1201,29,1021,6079,29194,19.84996917174762,Romanian <kde-i18n-ro@kde.org>
+NetworkManager-fortisslvpn,317,2,2,57,1,2,354,321,98.75389408099689,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+NetworkManager-l2tp,358,0,904,71,0,120,422,1262,28.367670364500793,Gnome Romanian Translation Team
+NetworkManager-libreswan,462,0,0,75,0,0,525,462,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+NetworkManager-openconnect,54,5,3182,16,2,578,54,3241,1.666152422091947,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+NetworkManager-openvpn,68,212,1877,32,38,234,75,2157,3.15252665739453,Gnome Romanian Translation Team
+NetworkManager-pptp,517,0,0,86,0,0,579,517,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+NetworkManager-ssh,39,43,204,17,14,38,40,286,13.636363636363635,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+NetworkManager-sstp,90,48,740,26,17,106,101,878,10.250569476082005,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+NetworkManager-vpnc,616,0,0,102,0,0,690,616,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+PackageKit,1268,0,0,319,0,0,1411,1268,100.0,Romanian (http://www.transifex.com/freedesktop/packagekit/language/ro/)
+Thunar,3500,0,1930,696,0,280,3400,5430,64.45672191528546,Romanian (https://app.transifex.com/xfce/teams/16840/ro/)
+WindowMaker,530,0,99,95,0,19,575,629,84.26073131955485,Romanian
+Zim,2083,361,942,522,85,170,2262,3386,61.5180153573538,Romanian <ro@li.org>
+a2ps,1532,0,0,184,0,0,1702,1532,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+abattis-cantarell-fonts,27,0,0,3,0,0,28,27,100.0,Gnome Romanian Translation Team
+accerciser,666,0,0,228,0,0,692,666,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+accountsservice,0,0,59,0,0,10,0,59,0.0,Romanian (http://www.transifex.com/freedesktop/accountsservice/language/ro/)
+aisleriot,2982,0,0,681,0,0,2766,2982,100.0,Gnome Romanian Translation Team
+akonadi-calendar-tools,24,4,430,15,2,86,24,458,5.240174672489083,Romanian <kde-i18n-ro@kde.org>
+akonadi-import-wizard,232,79,83,56,19,9,270,394,58.88324873096447,Romanian <kde-i18n-ro@kde.org>
+akregator,1098,241,514,311,60,59,1151,1853,59.255261737722606,Romanian <kde-i18n-ro@kde.org>
+alacarte,42,0,0,16,0,0,43,42,100.0,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+almanah,805,0,0,143,0,0,942,805,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+amarok,7710,1823,6286,2113,281,386,8641,15819,48.73885833491371,Romanian <kde-i18n-ro@kde.org>
+amtk,11,0,0,3,0,0,11,11,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+anaconda,4851,1223,2665,933,214,302,5310,8739,55.509783728115345,Romanian <https://translate.fedoraproject.org/projects/anaconda/master/ro/>
+android-tools,43,2,5983,38,1,927,49,6028,0.7133377571333777,Romanian
+anjuta,7229,729,11167,1901,143,751,7831,19125,37.79869281045752,Gnome Romanian Translation Team
+appstream,3225,540,2317,367,54,247,3570,6082,53.025320618217684,Romanian <https://hosted.weblate.org/projects/appstream/translations/ro/>
+apt,5417,52,87,711,13,22,6453,5556,97.49820014398848,Romanian <debian-l10n-romanian@lists.debian.org>
+arandr,173,0,0,38,0,0,159,173,100.0,Romanian <https://hosted.weblate.org/projects/arandr/translations/ro/>
+aria2,223,0,7263,29,0,370,155,7486,2.978893935345979,Romanian <ro@li.org>
+arianna,128,0,0,65,0,0,132,128,100.0,Romanian <kde-i18n-ro@kde.org>
+ark,1962,0,0,368,0,0,2032,1962,100.0,Romanian <kde-i18n-ro@kde.org>
+arm-none-eabi-binutils-cs,38144,0,0,6051,0,0,44201,38144,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+arm-none-eabi-gcc-cs,1696,0,0,267,0,0,2054,1696,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+artikulate,61,104,164,42,53,49,64,329,18.541033434650455,Romanian <kde-i18n-ro@kde.org>
+aspell,1797,0,0,303,0,0,1837,1797,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+asunder,22,0,471,18,0,74,27,493,4.462474645030426,http://littlesvr.ca/ostd/
+at-spi2-core,450,0,0,171,0,0,452,450,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+atomix,169,0,0,44,0,0,201,169,100.0,Romanian
+atril,1480,8,2877,410,2,323,1585,4365,33.90607101947308,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+audacious,899,0,0,367,0,0,1035,899,100.0,Romanian (http://www.transifex.com/audacious/audacious/language/ro/)
+audacious-plugins,1910,0,2174,578,0,388,2122,4084,46.767874632713024,Romanian (http://www.transifex.com/audacious/audacious/language/ro/)
+audacity,1748,3900,12858,668,1282,2353,2071,18506,9.44558521560575,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+avahi,868,0,0,168,0,0,894,868,100.0,Gnome Romanian Translation Team
+avogadro2,39,75,260,16,37,100,46,374,10.427807486631016,Romanian <https://hosted.weblate.org/projects/avogadro/avogadroapp/ro/>
+avogadro2-libs,5,0,4607,1,0,1388,6,4612,0.10841283607979184,Romanian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/ro/>
+avr-binutils,46983,0,0,7259,0,0,54608,46983,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+avr-gcc,1696,0,0,267,0,0,2054,1696,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+backintime,1994,0,9,347,0,2,2191,2003,99.55067398901647,Romanian <https://translate.codeberg.org/projects/backintime/common/ro/>
+baloo-widgets,67,0,0,40,0,0,71,67,100.0,Romanian <kde-i18n-ro@kde.org>
+balsa,6779,0,0,1623,0,0,7666,6779,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+baobab,307,0,0,82,0,0,367,307,100.0,Gnome Romanian Translation Team
+bash,11740,0,0,597,0,0,12760,11740,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+bijiben,422,0,0,130,0,0,463,422,100.0,Gnome Romanian Translation Team
+binutils,2735,7039,22143,612,1061,3383,2986,31917,8.56910110599367,Romanian <translation-team-ro@lists.sourceforge.net>
+bison,268,751,787,47,113,148,298,1806,14.839424141749724,Romanian <translation-team-ro@lists.sourceforge.net>
+bleachbit,1811,0,0,350,0,0,1966,1811,100.0,Romanian <ro@li.org>
+blinken,134,0,0,47,0,0,135,134,100.0,Romanian
+blogilo,373,81,938,124,40,173,417,1392,26.795977011494255,Romanian <kde-i18n-ro@kde.org>
+bluedevil,535,0,0,191,0,0,543,535,100.0,Romanian <kde-i18n-ro@kde.org>
+bluefish,454,1733,2910,159,776,650,453,5097,8.907200313910144,<ro@li.org>
+blueman,821,380,1139,232,138,451,909,2340,35.085470085470085,Romanian (http://www.transifex.com/mate/MATE/language/ro/)
+boinc-client,6729,0,117,1093,0,10,7067,6846,98.29097283085014,Romanian (http://www.transifex.com/boinc/boinc/language/ro/)
+bomber,70,9,31,21,1,5,79,110,63.63636363636363,Română <kde-i18n-ro@kde.org>
+bookworm,427,71,297,101,11,37,451,795,53.71069182389937,Romanian <https://hosted.weblate.org/projects/bookworm/bookworm/ro/>
+bottles,3450,0,1,675,0,1,3749,3451,99.97102289191538,Romanian <https://hosted.weblate.org/projects/bottles/bottles/ro/>
+bovo,77,4,0,24,1,0,74,81,95.06172839506173,Română <kde-i18n-ro@kde.org>
+brasero,7751,0,0,1113,0,0,7994,7751,100.0,Gnome Romanian Translation Team
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+budgie-control-center,7817,59,1153,2423,40,294,8257,9029,86.5765865544357,Romanian (https://app.transifex.com/buddiesofbudgie/teams/129844/ro/)
+budgie-desktop,829,0,834,245,0,174,880,1663,49.849669272399275,Romanian (https://app.transifex.com/buddiesofbudgie/teams/129844/ro/)
+budgie-screensaver,291,0,0,58,0,0,323,291,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+bygfoot,3503,1,5929,756,1,663,3547,9433,37.13558782995865,Romanian <(Corectat şi completat Mihai Floran)>
+byzanz,234,0,0,51,0,0,253,234,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+cairo-dock,787,0,6677,252,0,575,741,7464,10.543944265809218,Romanian <ro@li.org>
+caja,8336,0,1339,1460,0,144,8452,9675,86.16020671834626,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+caja-actions,137,0,18678,85,0,1431,156,18815,0.7281424395429179,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+caja-extensions,611,0,149,133,0,12,654,760,80.39473684210526,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+calamares,75,0,446,16,0,75,85,521,14.39539347408829,Romanian (https://app.transifex.com/calamares/teams/20061/ro/)
+calibre,17689,0,154162,2844,0,16548,18197,171851,10.293219125870667,Romanian (http://www.transifex.com/calibre/calibre/language/ro/)
+calligra,6439,13553,13808,2154,3195,1696,6537,33800,19.050295857988168,Romanian <kde-i18n-ro@kde.org>
+calligraplan,29,1422,7879,21,527,1491,32,9330,0.3108252947481243,Română <kde-i18n-ro@kde.org>
+calls,44,0,0,19,0,0,49,44,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+cantor,481,691,2862,182,169,406,551,4034,11.923648983639069,Romanian <kde-i18n-ro@kde.org>
+caribou,169,0,0,57,0,0,184,169,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+cataclysm-dda,1876,0,875680,411,0,71310,1975,877556,0.21377553113419542,Romanian (https://www.transifex.com/cataclysm-dda-translators/teams/2217/ro/)
+cawbird,239,82,912,106,27,204,268,1233,19.383617193836173,Romanian (Romania) (http://www.transifex.com/cawbird/cawbird/language/ro_RO/)
+celestia,721,1020,774,336,386,164,806,2515,28.66799204771372,
+celestia-data,563,105,679,468,79,549,592,1347,41.796585003711954,LANGUAGE <LL@li.org>
+celluloid,60,18,1532,28,6,277,68,1610,3.7267080745341614,Romanian <https://hosted.weblate.org/projects/celluloid/celluloid/ro/>
+centerim,1107,949,808,374,247,196,1047,2864,38.652234636871505,Romanian <ro@li.org>
+cervisia,544,17,1054,211,8,201,545,1615,33.68421052631579,Romanian <kde-i18n-ro@kde.org>
+chatty,867,0,0,319,0,0,964,867,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+cheese,628,0,0,130,0,0,674,628,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+chromium-bsu,3,4,1085,1,1,188,8,1092,0.27472527472527475,
+cinnamon-control-center,550,59,704,550,40,166,550,1313,41.88880426504189,<ro@li.org>
+cinnamon-desktop,226,5,3,27,3,2,231,234,96.58119658119658,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+cinnamon-translations,23122,0,551,5260,0,80,25092,23673,97.67245385037808,Romanian <ro@li.org>
+clamtk,464,0,0,140,0,0,508,464,100.0,LANGUAGE <LL@li.org>
+clapper,0,0,253,0,0,103,0,253,0.0,Romanian
+claws-mail,14862,232,5770,3483,38,591,16931,20864,71.232745398773,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+clementine,2948,0,855,867,0,194,3194,3803,77.51774914541151,Romanian (http://app.transifex.com/davidsansome/clementine/language/ro/)
+clutter,3057,0,0,675,0,0,3022,3057,100.0,gnome-ro team
+cogl,393,0,0,80,0,0,454,393,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,303,0,1687,75,0,178,343,1990,15.226130653266331,Romanian (http://www.transifex.com/freedesktop/colord/language/ro/)
+colord-kde,251,30,1,85,18,1,273,282,89.00709219858156,Romanian <kde-i18n-ro@kde.org>
+compiz,2018,1921,446,465,335,79,2194,4385,46.02052451539338,Romanian <kde-i18n-ro@kde.org>
+console-setup,984,0,0,179,0,0,962,984,100.0,Romanian <debian-l10n-romanian@lists.debian.org>
+coreutils,2427,1830,17289,547,264,1036,2676,21546,11.26427179058758,Romanian <translation-team-ro@lists.sourceforge.net>
+cpeditor,414,34,199,310,15,58,422,647,63.98763523956723,Romanian
+cpio,197,272,1440,38,52,224,235,1909,10.319539025667888,Romanian <translation-team-ro@lists.sourceforge.net>
+cpu-x,940,242,301,222,48,48,1103,1483,63.38503034389751,Romanian <https://hosted.weblate.org/projects/cpu-x/translations/ro/>
+crash,4961,0,0,740,0,0,5316,4961,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+cross-binutils,2735,7039,22143,612,1061,3383,2986,31917,8.56910110599367,Romanian <translation-team-ro@lists.sourceforge.net>
+cross-gcc,1696,0,0,267,0,0,2054,1696,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+cryptsetup,5904,0,0,808,0,0,7417,5904,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+d-feet,123,0,0,39,0,0,138,123,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+dasher,1164,41,5357,280,1,150,1205,6562,17.73849436147516,Gnome Romanian Translation Team
+dconf-editor,2955,0,0,394,0,0,3193,2955,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+dcraw,560,0,0,111,0,0,605,560,100.0,
+debconf,785,17,60,86,4,4,864,862,91.06728538283063,Romanian <debian-l10n-romanian@lists.debian.org>
+deepin-daemon,1114,0,100,240,0,19,1116,1214,91.76276771004942,Romanian (https://www.transifex.com/linuxdeepin/teams/3617/ro/)
+deepin-pw-check,54,0,5,11,0,1,55,59,91.52542372881356,Romanian (https://www.transifex.com/linuxdeepin/teams/3617/ro/)
+deja-dup,1836,0,0,307,0,0,2384,1836,100.0,Romanian <ro@li.org>
+deluge,1686,0,2654,700,0,633,1812,4340,38.84792626728111,Romanian <ro@li.org>
+desktopfolder,333,0,34,112,0,3,355,367,90.73569482288828,Romanian (Romania) (https://www.transifex.com/ubuntu-budgie/teams/72251/ro_RO/)
+devhelp,413,0,0,101,0,0,446,413,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+dia,4483,40,2078,1745,4,610,5293,6601,67.91395243144977,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+dialog,37,0,0,25,0,0,45,37,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+diffutils,1864,0,0,263,0,0,2103,1864,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+digikam,6502,18828,36887,1802,5361,3228,6755,62217,10.450519954353311,Romanian <kde-i18n-ro@kde.org>
+dino,1104,0,14,290,0,4,1228,1118,98.74776386404294,Romanian <https://hosted.weblate.org/projects/dino/translations/ro/>
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+dnfdragora,272,0,1499,188,0,286,300,1771,15.35855448898927,Romanian (https://www.transifex.com/MageiaLinux/teams/9361/ro/)
+dnsmasq,738,1028,1881,132,186,300,756,3647,20.235810255004115,Romanian <translation-team-ro@lists.sourceforge.net>
+dolphin,5289,0,0,776,0,0,5298,5289,100.0,Romanian <kde-i18n-ro@kde.org>
+dolphin-emu,789,0,15314,365,0,2275,852,16103,4.899708128920077,Romanian (http://app.transifex.com/delroth/dolphin-emu/language/ro/)
+dolphin-plugins,118,2,513,53,2,123,119,633,18.64139020537125,Romanian
+doublecmd,5574,276,6385,2134,105,1222,6255,12235,45.557825909276666,Maximilian Machedon
+dpkg,8150,3234,486,1125,263,63,9549,11870,68.66048862679023,Romanian <debian-l10n-romanian@lists.debian.org>
+dragon,248,0,0,82,0,0,271,248,100.0,Romanian <kde-i18n-ro@kde.org>
+duplicity,0,0,2317,0,0,330,0,2317,0.0,Romanian
+easyeffects,316,628,3396,187,229,319,329,4340,7.281105990783409,Romanian <https://hosted.weblate.org/projects/easyeffects/main/ro/>
+easytag,688,2431,2142,259,485,279,721,5261,13.077361718304505,Romanian <pauliuc@gmx.net>
+edgar,860,0,10614,95,0,1440,782,11474,7.495206553948057,Romanian <ro@li.org>
+electrum,1816,0,10947,476,0,1951,1814,12763,14.228629632531536,Romanian
+elementary-calculator,128,2,65,54,1,10,139,195,65.64102564102564,Romanian <https://l10n.elementary.io/projects/calculator/calculator/ro/>
+elementary-calendar,67,25,483,23,7,176,64,575,11.652173913043478,Romanian <https://l10n.elementary.io/projects/calendar/calendar/ro/>
+elementary-camera,17,3,113,2,1,32,23,133,12.781954887218044,Romanian <https://l10n.elementary.io/projects/camera/camera/ro/>
+elementary-code,170,268,1176,74,57,159,177,1614,10.532837670384138,Romanian <https://l10n.elementary.io/projects/code/code/ro/>
+elementary-files,1166,837,487,270,178,103,1337,2490,46.82730923694779,Romanian <ro@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,147,184,457,45,63,71,163,788,18.654822335025383,Gnome Romanian Translation Team
+elementary-music,12,10,183,9,6,22,11,205,5.853658536585367,Romanian <https://l10n.elementary.io/projects/music/music/ro/>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+elinks,359,1616,11393,171,512,1142,395,13368,2.6855176540993417,Romanian <translation-team-ro@lists.sourceforge.net>
+elisa-player,793,0,0,270,0,0,869,793,100.0,Romanian <kde-i18n-ro@kde.org>
+engrampa,1578,0,6260,352,0,541,1579,7838,20.132686909926,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+enlightenment,337,4318,4398,141,1558,685,347,9053,3.7225229205788137,Romanian <ro@li.org>
+eog,1986,0,4620,394,0,360,2166,6606,30.06357856494096,Gnome Romanian Translation Team
+eog-plugins,419,0,0,102,0,0,450,419,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+eom,1408,0,3550,322,0,220,1452,4958,28.398547801532875,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+epiphany,4606,0,0,842,0,0,4927,4606,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+evince,5284,2850,998,777,215,113,5522,9132,57.862461673236965,Gnome Romanian Translation Team
+evolution,28675,0,0,5737,0,0,30514,28675,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+evolution-data-server,7918,0,0,1467,0,0,9158,7918,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+evolution-ews,1879,0,0,341,0,0,2126,1879,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+evolution-mapi,1039,0,0,226,0,0,1252,1039,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+evolution-rspam,147,0,47,22,0,10,155,194,75.77319587628865,Romanian <RO@li.org>
+exaile,1562,439,2601,488,147,486,1747,4602,33.94176445023903,Romanian <https://hosted.weblate.org/projects/exaile/master/ro/>
+exif,204,0,69,51,0,12,208,273,74.72527472527473,Romanian <translation-team-ro@lists.sourceforge.net>
+exo,738,0,0,145,0,0,775,738,100.0,Romanian (http://www.transifex.com/xfce/exo/language/ro/)
+fakeroot,1543,0,0,97,0,0,1696,1543,100.0,
+falkon,1420,1001,1471,513,366,348,1539,3892,36.485097636176775,
+fetchmail,4956,0,0,750,0,0,6339,4956,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+file-roller,1307,0,0,299,0,0,1358,1307,100.0,Gnome Romanian Translation Team
+filelight,152,93,17,43,33,12,174,262,58.01526717557252,Romanian <kde-i18n-ro@kde.org>
+filezilla,7766,0,3068,1724,0,154,8790,10834,71.68174266199003,English <kde-i18n-doc@kde.org>
+findutils,234,742,1562,39,59,149,248,2538,9.219858156028367,Romanian <translation-team-ro@lists.sourceforge.net>
+five-or-more,239,0,0,53,0,0,318,239,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+flatpak,5259,602,375,1058,105,61,6230,6236,84.33290570878769,Romanian <gnomero-list@lists.sourceforge.net>
+flatpak-kcm,200,0,0,62,0,0,244,200,100.0,Romanian <kde-i18n-ro@kde.org>
+flex,723,354,54,152,7,10,854,1131,63.92572944297083,Romanian <translation-team-ro@lists.sourceforge.net>
+focuswriter,129,0,0,7,0,0,144,129,100.0,Romanian (http://www.transifex.com/gottcode/focuswriter/language/ro/)
+folder-color-switcher,65,0,0,23,0,0,51,65,100.0,Romanian <ro@li.org>
+folks,1056,0,0,130,0,0,1260,1056,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Romanian
+four-in-a-row,1283,0,0,196,0,0,1329,1283,100.0,-
+fprintd,394,32,7,53,5,2,508,433,90.99307159353349,Romanian (http://www.transifex.com/freedesktop/fprintd/language/ro/)
+fractal,866,0,0,240,0,0,923,866,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+fragments,258,0,0,78,0,0,289,258,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+freeciv,9342,27960,76229,2097,4496,3261,9980,113531,8.228589548229118,romanian <debian-l10n-romanian@lists.debian.org>
+freedink,0,70,0,0,13,0,0,70,0.0,Romanian <translation-team-ro@lists.sourceforge.net>
+frozen-bubble,432,76,190,108,13,27,512,698,61.891117478510026,LANGUAGE <LL@li.org>
+fuse-encfs,915,24,350,100,3,34,970,1289,70.98525989138868,Romanian <ro@li.org>
+g4music,169,0,0,76,0,0,204,169,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gajim,6336,4,9,1709,2,5,7161,6349,99.79524334540872,Romanian <https://translate.gajim.org/projects/gajim/master/ro/>
+gala,29,17,203,12,3,36,39,249,11.646586345381527,Romanian <https://l10n.elementary.io/projects/desktop/gala/ro/>
+galculator,466,0,469,217,0,58,518,935,49.83957219251337,Romanian (http://www.transifex.com/mate/MATE/language/ro/)
+gambas3,1646,0,5914,604,0,1641,1739,7560,21.772486772486772,
+gammastep,17,37,891,12,9,128,19,945,1.7989417989417988,Romanian <ro@li.org>
+gammu,112,59,3846,25,9,1079,147,4017,2.788150360965895,none
+garcon,125,0,0,38,0,0,144,125,100.0,Romanian (https://www.transifex.com/xfce/teams/16840/ro/)
+gbrainy,10449,0,0,1336,0,0,11293,10449,100.0,Gnome Romanian Translation Team
+gcab,128,0,0,31,0,0,141,128,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gcc,1696,0,0,267,0,0,2054,1696,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gcolor3,423,0,0,59,0,0,448,423,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gcompris-qt,34153,0,0,3795,0,0,34895,34153,100.0,Romanian <kde-i18n-doc@kde.org>
+gconf-editor,336,0,0,98,0,0,393,336,100.0,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+gcr,795,0,0,276,0,0,887,795,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gcr3,795,0,0,276,0,0,887,795,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gdb,15838,0,0,2378,0,0,18085,15838,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gdk-pixbuf2,1325,0,0,198,0,0,1559,1325,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gdm,10097,0,0,454,0,0,10323,10097,100.0,Gnome Romanian Translation Team
+geany,2487,1900,1893,694,403,256,2590,6280,39.601910828025474,Romanian
+geary,2596,0,0,655,0,0,2962,2596,100.0,Gnome Romanian Translation Team
+gedit,10037,0,0,1149,0,0,10293,10037,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gedit-latex,411,12,45,197,7,22,448,468,87.82051282051282,Romanian <gnomero-list@lists.sourceforge.net>
+gedit-plugins,1051,0,0,177,0,0,1138,1051,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+geeqie,2037,905,1228,699,260,199,2176,4170,48.84892086330935,Romanian <rtfs-project@sourceforge.net>
+gegl04,1754,0,8198,442,0,1570,1884,9952,17.62459807073955,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+genius,6622,1290,587,957,112,45,6797,8499,77.91504882927404,Gnome Romanian Translation Team
+gettext,8119,13,0,863,2,0,8865,8132,99.84013772749631,Romanian <translation-team-ro@lists.sourceforge.net>
+gftp,3334,0,0,593,0,0,3509,3334,100.0,Română <gnomero@lists.sourceforge.net>
+ghex,1041,0,0,239,0,0,1079,1041,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gimagereader,0,0,1817,0,0,482,0,1817,0.0,none
+gimp,40643,0,0,9639,0,0,46065,40643,100.0,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+gimp-help,80192,18997,164909,6105,970,10440,80642,264098,30.36448591053321,
+gimp-lqr-plugin,267,90,571,45,8,78,221,928,28.771551724137932,Romanian <ro@li.org>
+gitg,2435,0,0,436,0,0,2543,2435,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+glabels,2259,35,137,749,13,11,2474,2431,92.92472233648704,Gnome Romanian Translation Team
+glade,6941,0,0,1808,0,0,7401,6941,100.0,Gnome Romanian Translation Team
+glib-networking,447,0,0,65,0,0,566,447,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+glib2,7731,0,0,1214,0,0,8945,7731,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gliv,671,163,200,175,47,38,706,1034,64.8936170212766,Romanian <translation-team-ro@lists.sourceforge.net>
+gmult,4,0,46,3,0,28,14,50,8.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gnome-2048,417,0,0,78,0,0,461,417,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-applets,6345,21,0,904,6,0,6680,6366,99.67012252591894,Gnome Romanian Translation Team
+gnome-bluetooth,318,0,0,92,0,0,327,318,100.0,Gnome Romanian Translation Team
+gnome-bluetooth3.34,373,0,0,110,0,0,382,373,100.0,Gnome Romanian Translation Team
+gnome-boxes,1315,0,0,295,0,0,1498,1315,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gnome-builder,5386,0,0,1383,0,0,6104,5386,100.0,Gnome Romanian Translation Team
+gnome-calculator,3739,0,0,924,0,0,3831,3739,100.0,Gnome Romanian Translation Team
+gnome-calendar,898,0,0,256,0,0,1082,898,100.0,Gnome Romanian Translation Team
+gnome-characters,181,0,0,58,0,0,212,181,100.0,Gnome Romanian Translation Team
+gnome-chess,1513,0,0,257,0,0,1640,1513,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gnome-clocks,363,0,0,145,0,0,408,363,100.0,Română <>
+gnome-color-manager,1796,0,0,345,0,0,1853,1796,100.0,Gnome Romanian Translation Team
+gnome-commander,10769,0,0,1920,0,0,11112,10769,100.0,Gnome Romanian Translation Team
+gnome-connections,368,0,0,79,0,0,423,368,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-console,226,0,0,66,0,0,245,226,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-contacts,590,0,0,174,0,0,635,590,100.0,Gnome Romanian Translation Team
+gnome-control-center,7253,59,704,2356,40,166,7771,8016,90.48153692614771,<ro@li.org>
+gnome-desktop3,160,0,0,35,0,0,162,160,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-devel-docs,105,0,22632,7,0,1026,120,22737,0.4618023485948014,Gnome Romanian Translation Team
+gnome-dictionary,717,0,0,161,0,0,817,717,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-disk-utility,4085,0,0,751,0,0,4694,4085,100.0,Română <>
+gnome-do,612,0,0,144,0,0,651,612,100.0,Romanian <ro@li.org>
+gnome-doc-utils,251,0,0,101,0,0,230,251,100.0,Romanian GNOME Team <gnomero-list@lists.sourceforge.net>
+gnome-extensions-app,2782,0,0,623,0,0,3135,2782,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gnome-flashback,1302,0,0,246,0,0,1442,1302,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-font-viewer,536,0,0,203,0,0,624,536,100.0,Gnome Romanian Translation Team
+gnome-games,833,0,0,244,0,0,955,833,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-icon-theme,20,0,0,16,0,0,22,20,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-initial-setup,927,0,0,136,0,0,959,927,100.0,Gnome Romanian Translation Team
+gnome-keyring,469,0,0,98,0,0,509,469,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-klotski,275,0,0,85,0,0,362,275,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-logs,389,0,0,126,0,0,444,389,100.0,Gnome Romanian Translation Team
+gnome-mahjongg,1658,0,0,219,0,0,1747,1658,100.0,gnome
+gnome-maps,1481,0,0,367,0,0,1662,1481,100.0,Gnome Romanian Translation Team
+gnome-menus,81,0,0,38,0,0,84,81,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-mime-data,887,0,0,362,0,0,943,887,100.0,<@li.org>
+gnome-mines,364,0,0,80,0,0,449,364,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-music,922,0,0,192,0,0,1071,922,100.0,Gnome Romanian Translation Team
+gnome-nettool,644,0,0,219,0,0,677,644,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-network-displays,195,0,0,26,0,0,217,195,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-nibbles,588,0,0,145,0,0,679,588,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-online-accounts,669,0,0,148,0,0,755,669,100.0,Gnome Romanian Translation Team
+gnome-packagekit,3496,0,0,549,0,0,3951,3496,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-panel,2964,0,0,483,0,0,2925,2964,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-phone-manager,563,0,0,98,0,0,592,563,100.0,Gnome Romanian Translation Team
+gnome-photos,1029,0,0,266,0,0,1103,1029,100.0,Română <>
+gnome-power-manager,430,0,0,123,0,0,444,430,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-remote-desktop,164,0,0,13,0,0,174,164,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-robots,596,0,0,96,0,0,681,596,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-screenshot,417,0,0,64,0,0,473,417,100.0,Gnome Romanian Translation Team
+gnome-session,432,0,0,67,0,0,475,432,100.0,Gnome Romanian Translation Team
+gnome-settings-daemon,3994,0,0,552,0,0,4345,3994,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-shell,2782,0,0,623,0,0,3135,2782,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gnome-shell-extension-openweather,94,262,494,53,80,132,86,850,11.058823529411764,
+gnome-shell-extension-system-monitor-applet,59,11,121,49,6,51,59,191,30.89005235602094,
+gnome-shell-extensions,262,0,0,51,0,0,295,262,100.0,Gnome Romanian Translation Team
+gnome-shell-frippery,17,0,0,5,0,0,28,17,100.0,
+gnome-software,4366,0,0,863,0,0,4985,4366,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gnome-sound-recorder,270,0,0,77,0,0,327,270,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gnome-subtitles,1665,0,0,378,0,0,1746,1665,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gnome-sudoku,408,0,0,70,0,0,499,408,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-system-log,522,0,0,94,0,0,520,522,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-system-monitor,1707,202,3745,360,23,187,1964,5654,30.19101521047046,Gnome Romanian Translation Team
+gnome-taquin,431,0,0,111,0,0,456,431,100.0,Gnome Romanian Translation Team
+gnome-terminal,3158,0,4940,652,0,410,3334,8098,38.99728327982218,Gnome Romanian Translation Team
+gnome-tetravex,1718,0,0,231,0,0,1818,1718,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net
+gnome-themes-extra,24,0,0,9,0,0,27,24,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-todo,748,0,0,162,0,0,834,748,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-tour,114,0,0,25,0,0,137,114,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-tweaks,518,0,0,151,0,0,584,518,100.0,Gnome Romanian Translation Team
+gnome-usage,165,0,0,37,0,0,188,165,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gnome-user-docs,1855,0,54970,169,0,3035,1837,56825,3.2644082710074787,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+gnome-user-share,49,0,0,10,0,0,55,49,100.0,Gnome Romanian Translation Team
+gnome-vfs2,1519,0,0,305,0,0,1500,1519,100.0,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+gnome-video-arcade,898,0,0,197,0,0,952,898,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnome-video-effects,256,0,0,68,0,0,250,256,100.0,Gnome Romanian Translation Team
+gnome-weather,247,0,0,52,0,0,295,247,100.0,Gnome Romanian Translation Team
+gnote,3287,0,0,558,0,0,3498,3287,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gnubg,11158,5034,3303,2255,970,342,11867,19495,57.23518850987433,<>
+gnubik,45,75,159,13,16,54,46,279,16.129032258064516,Romanian <translation-team-ro@lists.sourceforge.net>
+gnucash,15798,8677,14344,2798,1575,1379,16232,38819,40.69656611453155,Romanian <https://hosted.weblate.org/projects/gnucash/gnucash/ro/>
+gnumeric,2525,5846,27671,763,1869,3167,2599,36042,7.005715554075801,Romanian <gnomero-list@lists.sourceforge.net>
+gnupg1,8567,52,21,1285,8,4,9113,8640,99.1550925925926,Romanian <translation-team-ro@lists.sourceforge.net>
+gnupg2,4731,5059,3846,797,875,528,5101,13636,34.69492519800528,Romanian <translation-team-ro@lists.sourceforge.net>
+gnutls,1784,165,58,384,34,6,1994,2007,88.88888888888889,Romanian <translation-team-ro@lists.sourceforge.net>
+godot,4048,0,0,1205,0,0,4485,4048,100.0,Romanian <https://hosted.weblate.org/projects/godot-engine/godot/ro/>
+godot3,5700,5141,274304,1764,1993,14261,6242,285145,1.998982973574848,Romanian <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/ro/>
+goffice,287,1523,4774,87,702,1324,318,6584,4.359052247873633,Romanian <gnomero-list@lists.sourceforge.net>
+gparted,9704,0,0,1000,0,0,10078,9704,100.0,Gnome Romanian Translation Team
+gphoto2,1179,284,322,244,45,56,1269,1785,66.05042016806722,Romanian <translation-team-ro@lists.sourceforge.net>
+gpicview,236,0,0,52,0,0,249,236,100.0,Romanian <LL@li.org>
+gpodder,737,610,1161,223,188,212,791,2508,29.385964912280706,LANGUAGE <LL@li.org>
+gramps,639,15191,24087,278,4101,2469,648,39917,1.6008217050379538,romanian <ro@li.org>
+granatier,155,10,81,51,3,14,138,246,63.00813008130082,Romanian <kde-i18n-ro@kde.org>
+granite,43,17,438,26,6,86,41,498,8.634538152610443,Romanian <https://l10n.elementary.io/projects/desktop/granite/ro/>
+granite-7,14,12,274,11,5,59,12,300,4.666666666666667,Romanian <https://l10n.elementary.io/projects/desktop/granite/ro/>
+grantlee-editor,52,3,86,24,2,21,57,141,36.87943262411347,Romanian
+grass,16651,3454,103224,3646,678,14569,17950,123329,13.501285180290118,GRASS Translation Team <grass-translations@lists.osgeo.org>
+grep,923,0,0,115,0,0,1046,923,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gretl,6599,2957,10771,1727,771,2365,6974,20327,32.46421016382152,Romanian
+grilo,191,0,0,36,0,0,231,191,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+grilo-plugins,540,0,0,132,0,0,643,540,100.0,Gnome Romanian Translation Team
+grip,1097,0,0,279,0,0,1299,1097,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+grisbi,1737,5358,8210,698,1200,759,1828,15305,11.34923227703365,<bucuresti@free.fr>
+grub-customizer,46,0,1249,24,0,169,44,1295,3.5521235521235517,Romanian <ro@li.org>
+grub2,2494,77,4841,501,18,858,2788,7412,33.64813815434431,Romanian <translation-team-ro@lists.sourceforge.net>
+gsettings-desktop-schemas,6952,0,0,617,0,0,7287,6952,100.0,Gnome Romanian Translation Team
+gspell,76,0,0,31,0,0,82,76,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gstreamer1,2207,0,0,386,0,0,2632,2207,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,197,0,0,29,0,0,246,197,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gstreamer1-plugins-base,1057,5,10,218,1,2,1245,1072,98.6007462686567,Romanian <translation-team-ro@lists.sourceforge.net>
+gstreamer1-plugins-good,823,0,7,102,0,2,942,830,99.1566265060241,Romanian <translation-team-ro@lists.sourceforge.net>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,93,80,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gthumb,3672,0,0,1228,0,0,3795,3672,100.0,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+gtk+,202,0,0,105,0,0,211,202,100.0,Romanian <ro@li.org>
+gtk-vnc,8,0,0,3,0,0,9,8,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gtk2,12475,0,0,2591,0,0,12519,12475,100.0,Romanian GNOME Team <gnomero-list@lists.sourceforge.net>
+gtk2-engines,119,0,0,47,0,0,150,119,100.0,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+gtk3,16737,0,0,3942,0,0,17256,16737,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gtk4,4219,0,0,1615,0,0,4806,4219,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gtkhtml3,485,0,0,309,0,0,509,485,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gtkpod,3892,1692,1936,653,403,306,4727,7520,51.755319148936174,Romanian <tradu@softwareliber.ro>
+gtksourceview2,1413,0,0,538,0,0,1502,1413,100.0,Romanian GNOME Team <gnomero-list@lists.sourceforge.net>
+gtksourceview3,320,2,0,105,1,0,375,322,99.37888198757764,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gtksourceview4,308,0,0,94,0,0,359,308,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gtksourceview5,379,0,0,112,0,0,453,379,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gtkspell,11,0,0,5,0,0,13,11,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gtkspell3,16,0,0,7,0,0,17,16,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+gtranslator,1325,0,0,293,0,0,1418,1325,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gucharmap,1478,0,0,510,0,0,1547,1478,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+gummi,164,164,430,102,62,97,192,758,21.63588390501319,LANGUAGE <LL@li.org>
+gupnp-tools,395,0,0,128,0,0,432,395,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+gvfs,2102,0,0,405,0,0,2500,2102,100.0,Gnome Romanian Translation Team
+gwenview,1743,16,281,422,3,15,1926,2040,85.44117647058823,Romanian <kde-i18n-ro@kde.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hello,244,0,0,46,0,0,260,244,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+help2man,2611,65,0,217,2,0,2757,2676,97.57100149476831,Romanian <translation-team-ro@lists.sourceforge.net>
+hitori,929,0,0,106,0,0,936,929,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+homebank,2866,0,181,922,0,36,3004,3047,94.05973088283558,Romanian <ro@li.org>
+hugin,2537,2728,4945,582,682,536,2613,10210,24.84818805093046,<>
+iagno,801,0,0,149,0,0,1000,801,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+icewm,388,463,1416,152,87,287,419,2267,17.115130127922367,Romanian <ro@li.org>
+im-chooser,2,0,251,1,0,56,3,253,0.7905138339920948,LANGUAGE <LL@li.org>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+indent,231,15,15,48,2,2,268,261,88.50574712643679,Romanian <translation-team-ro@lists.sourceforge.net>
+initial-setup,33,0,73,7,0,13,28,106,31.132075471698112,Romanian
+initscripts,283,60,819,54,11,99,312,1162,24.354561101549052,Romanian (http://www.transifex.com/projects/p/fedora/language/ro/)
+inkscape,23503,0,25880,6205,0,4281,26307,49383,47.5933013385173,
+insight,1197,5586,8866,260,738,1357,1273,15649,7.649051057575564,Romanian <translation-team-ro@lists.sourceforge.net>
+iso-codes,3476,5069,15127,2135,3900,9559,3330,23672,14.684014869888475,Romanian <translation-team-ro@lists.sourceforge.net>
+isoimagewriter,444,0,0,78,0,0,465,444,100.0,Romanian <kde-i18n-ro@kde.org>
+isomaster,674,0,0,107,0,0,688,674,100.0,
+json-glib,307,0,0,47,0,0,315,307,100.0,Gnome Romanian Translation Team
+juk,1122,73,331,337,5,20,1174,1526,73.52555701179554,Romanian <kde-i18n-ro@kde.org>
+jwhois,401,11,28,65,2,4,416,440,91.13636363636364,Romanian <translation-team-ro@lists.sourceforge.net>
+k3b,9449,1183,9547,1991,205,326,10262,20179,46.825908122305364,Romanian
+kBuild,922,298,170,130,40,15,1019,1390,66.33093525179856,Romanian <translation-team-ro@lists.sourceforge.net>
+kaccounts-integration,160,0,0,29,0,0,159,160,100.0,Romanian
+kaccounts-providers,101,0,0,38,0,0,101,101,100.0,Romanian
+kactivitymanagerd,11,0,0,5,0,0,12,11,100.0,Romanian <kde-i18n-ro@kde.org>
+kaddressbook,166,487,484,71,109,54,180,1137,14.599824098504838,Romanian <kde-i18n-ro@kde.org>
+kaffeine,284,233,876,143,121,233,312,1393,20.38765254845657,Romanian <kde-i18n-ro@kde.org>
+kajongg,161,46,2251,79,21,411,168,2458,6.550040683482507,Romanian
+kalarm,4673,2709,1007,654,495,79,4853,8389,55.7038979616164,Romanian
+kalgebra,116,35,15,64,12,5,119,166,69.87951807228916,Romanian <kde-i18n-ro@kde.org>
+kalzium,327,477,8301,182,255,864,321,9105,3.5914332784184517,Romanian <kde-i18n-ro@kde.org>
+kamera,347,0,0,38,0,0,357,347,100.0,Romanian
+kamoso,142,3,0,41,1,0,158,145,97.93103448275862,Romanian
+kanagram,216,195,116,69,32,43,195,527,40.98671726755218,Romanian <kde-i18n-ro@lists.kde.org>
+kapman,99,10,6,29,5,2,97,115,86.08695652173914,Română <kde-i18n-ro@kde.org>
+kapow,102,0,0,4,0,0,93,102,100.0,Romanian (http://www.transifex.com/gottcode/kapow/language/ro/)
+kate,3737,1033,2701,977,254,479,3941,7471,50.02007763351626,Romanian <kde-i18n-ro@kde.org>
+katomic,184,0,0,59,0,0,192,184,100.0,Romanian
+kaudiocreator,566,69,501,176,32,65,555,1136,49.82394366197183,Romanian <kde-i18n-ro@lists.kde.org>
+kbd,2450,0,0,338,0,0,2931,2450,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+kblackbox,356,52,959,70,6,27,377,1367,26.0424286759327,Romanian <kde-i18n-ro@kde.org>
+kblocks,66,19,73,20,8,9,76,158,41.77215189873418,Română <kde-i18n-ro@kde.org>
+kbounce,144,10,2,41,1,1,155,156,92.3076923076923,Romanian
+kbrickbuster,119,21,18,28,5,9,111,158,75.31645569620254,Română <kde-i18n-ro@kde.org>
+kbruch,1133,206,8,179,13,6,1075,1347,84.11284335560505,Romanian
+kcachegrind,3,11,1722,2,10,184,5,1736,0.1728110599078341,Romanian <kde-i18n-ro@kde.org>
+kcalc,792,50,228,312,20,18,826,1070,74.01869158878505,Romanian
+kcharselect,88,0,0,34,0,0,95,88,100.0,Romanian
+kclock,81,105,121,49,34,43,93,307,26.384364820846905,Romanian <kde-i18n-ro@kde.org>
+kcm_wacomtablet,71,234,691,24,89,112,71,996,7.128514056224899,Romanian <kde-i18n-ro@kde.org>
+kcolorchooser,29,0,0,10,0,0,31,29,100.0,Romanian <kde-i18n-doc@kde.org>
+kcoloredit,232,34,12,77,11,7,222,278,83.45323741007195,Romanian <kde-i18n-ro@lists.kde.org>
+kcron,502,0,0,180,0,0,539,502,100.0,Romanian <kde-i18n-ro@kde.org>
+kdbg,42,54,767,21,23,145,40,863,4.866743916570105,Romanian <LL@li.org>
+kde-cli-tools,1987,199,64,218,12,5,2034,2250,88.3111111111111,Romanian
+kde-connect,1304,43,60,351,13,22,1397,1407,92.67945984363894,Romanian
+kde-dev-utils,61,10,24,24,3,7,65,95,64.21052631578948,Romanian <kde-i18n-ro@lists.kde.org>
+kde-l10n,81634,3098,19338,17886,701,2263,86371,104070,78.4414336504276,Romanian <kde-i18n-ro@kde.org>
+kde-partitionmanager,1431,424,417,459,37,37,1556,2272,62.984154929577464,Romanian
+kde-print-manager,968,0,1,274,0,1,1019,969,99.89680082559339,Romanian <kde-i18n-ro@kde.org>
+kde-style-breeze,60,3,203,21,2,78,79,266,22.55639097744361,Romanian <kde-i18n-ro@kde.org>
+kdebugsettings,201,39,59,54,10,17,218,299,67.22408026755853,Romanian
+kdecoration,39,0,0,15,0,0,39,39,100.0,Romanian
+kdenetwork-filesharing,502,72,418,72,8,30,515,992,50.60483870967742,Romanian <kde-i18n-ro@kde.org>
+kdenlive,1447,4648,9719,655,1662,1268,1525,15814,9.15012014670545,Romanian
+kdepim-addons,963,244,796,157,81,142,938,2003,48.07788317523715,Romanian
+kdepim-runtime,1877,764,2439,403,109,231,2026,5080,36.9488188976378,Romanian <kde-i18n-ro@kde.org>
+kdeplasma-addons,1855,13,31,668,6,6,1966,1899,97.68299104791996,Romanian <kde-i18n-ro@kde.org>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Romanian
+kdesvn,2548,1957,432,596,252,66,2749,4937,51.61028964958477,Romanian <kde-i18n-doc@lists.kde.org>
+kdevelop,642,1588,8551,264,663,1258,718,10781,5.95492069381319,Romanian <kde-i18n-ro@kde.org>
+kdevelop-php,56,0,473,17,0,55,59,529,10.58601134215501,Română <kde-i18n-ro@kde.org>
+kdf,152,4,39,63,2,6,167,195,77.94871794871796,Romanian <kde-i18n-ro@lists.kde.org>
+kdiagram,51,0,1,29,0,1,50,52,98.07692307692307,Romanian <kde-i18n-ro@kde.org>
+kdialog,376,11,4,74,1,3,427,391,96.16368286445012,Romanian
+kdiamond,116,6,0,31,1,0,122,122,95.08196721311475,Română <kde-i18n-ro@kde.org>
+kdiff3,499,444,2478,165,122,332,535,3421,14.586378251973105,Romanian
+kdnssd,30,0,0,7,0,0,31,30,100.0,Romanian
+keditbookmarks,462,4,0,131,1,0,543,466,99.14163090128756,Romanian
+kexi,73,1060,6207,60,411,1009,77,7340,0.994550408719346,Romanian <kde-i18n-ro@kde.org>
+keysmith,205,23,4,46,10,1,202,232,88.36206896551724,Romanian
+kf5-akonadi-calendar,408,146,1594,86,37,223,437,2148,18.994413407821227,Romanian <kde-i18n-ro@kde.org>
+kf5-akonadi-contacts,306,171,639,107,65,104,347,1116,27.419354838709676,Romanian <kde-i18n-ro@kde.org>
+kf5-akonadi-mime,282,275,23,62,46,6,309,580,48.62068965517241,Romanian <kde-i18n-ro@kde.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-akonadi-search,7,0,60,3,0,15,8,67,10.44776119402985,Romanian <kde-i18n-ro@kde.org>
+kf5-akonadi-server,1784,411,401,290,95,56,2022,2596,68.7211093990755,Romanian <kde-i18n-ro@kde.org>
+kf5-audiocd-kio,1003,0,0,210,0,0,1096,1003,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-baloo,860,0,0,179,0,0,890,860,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-calendarsupport,115,400,2264,46,160,185,118,2779,4.138179201151494,Romanian <kde-i18n-ro@kde.org>
+kf5-eventviews,283,164,2502,50,36,221,289,2949,9.596473380807053,Romanian
+kf5-grantleetheme,11,3,0,5,1,0,16,14,78.57142857142857,Romanian
+kf5-incidenceeditor,114,310,1784,32,66,322,101,2208,5.163043478260869,Romanian <kde-i18n-ro@kde.org>
+kf5-kalarmcal,3,55,146,3,27,74,3,204,1.4705882352941175,Romanian <kde-i18n-ro@kde.org>
+kf5-kauth,73,0,0,8,0,0,79,73,100.0,Romanian
+kf5-kblog,39,0,204,5,0,22,39,243,16.049382716049383,Romanian <kde-i18n-ro@lists.kde.org>
+kf5-kbookmarks,230,0,0,49,0,0,284,230,100.0,Romanian
+kf5-kcalendarutils,320,609,508,163,153,77,424,1437,22.268615170494087,Romanian
+kf5-kcmutils,266,0,0,38,0,0,278,266,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kcodecs,370,0,0,53,0,0,345,370,100.0,Romanian <kde-i18n-doc@kde.org>
+kf5-kcompletion,18,0,0,11,0,0,18,18,100.0,Romanian <kde-i18n-doc@kde.org>
+kf5-kconfig,289,0,0,104,0,0,310,289,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kconfigwidgets,342,0,0,125,0,0,381,342,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kcontacts,177,0,0,108,0,0,204,177,100.0,Romanian
+kf5-kcoreaddons,382,0,0,132,0,0,412,382,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kdav,185,0,0,20,0,0,172,185,100.0,Romanian
+kf5-kdbusaddons,48,0,0,6,0,0,50,48,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kdeclarative,107,28,26,15,5,5,107,161,66.45962732919256,Romanian
+kf5-kdelibs4support,4702,350,301,2351,111,82,5490,5353,87.83859518027275,Romanian
+kf5-kdesignerplugin,15,39,0,6,3,0,17,54,27.77777777777778,Romanian <kde-i18n-ro@kde.org>
+kf5-kdesu,19,0,0,7,0,0,22,19,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kdoctools,8,0,0,4,0,0,12,8,100.0,Romanian <kde-i18n-ro@lists.kde.org>
+kf5-kfilemetadata,172,0,127,107,0,28,198,299,57.52508361204013,Romanian
+kf5-kglobalaccel,59,12,0,8,1,0,58,71,83.09859154929578,Romanian
+kf5-kholidays,114,2,34,79,2,16,121,150,76.0,Romanian
+kf5-khtml,1593,1,73,282,1,6,1617,1667,95.56088782243552,Romanian
+kf5-ki18n,124,0,0,110,0,0,124,124,100.0,Romanian
+kf5-kiconthemes,41,0,0,19,0,0,44,41,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kidentitymanagement,75,0,107,21,0,3,81,182,41.208791208791204,Romanian
+kf5-kimap,45,1,72,24,1,26,50,118,38.13559322033898,Romanian <kde-i18n-doc@kde.org>
+kf5-kinit,116,0,0,11,0,0,117,116,100.0,Romanian
+kf5-kio,10345,913,779,1328,29,16,10518,12037,85.94334136412728,Romanian <kde-i18n-ro@kde.org>
+kf5-kipi-plugins,1860,258,1981,525,59,300,1894,4099,45.376921200292756,Romanian
+kf5-kirigami2,98,11,3,41,5,2,101,112,87.5,Romanian <kde-i18n-ro@kde.org>
+kf5-kirigami2-addons,7,5,374,6,4,40,7,386,1.8134715025906734,Romanian <kde-i18n-ro@kde.org>
+kf5-kitemviews,7,0,0,4,0,0,8,7,100.0,Romanian
+kf5-kjobwidgets,133,0,0,38,0,0,178,133,100.0,Romanian
+kf5-kjsembed,248,0,0,44,0,0,279,248,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kldap,93,28,106,36,8,17,102,227,40.969162995594715,Română <kde-i18n-ro@kde.org>
+kf5-kmailtransport,213,193,257,61,22,22,207,663,32.126696832579185,Română <kde-i18n-ro@kde.org>
+kf5-kmime,159,0,0,10,0,0,153,159,100.0,Romanian <kde-i18n-ro@lists.kde.org>
+kf5-knewstuff,1343,63,225,204,23,4,1325,1631,82.34212139791539,Romanian <kde-i18n-ro@kde.org>
+kf5-knotifications,21,0,0,8,0,0,19,21,100.0,Romanian
+kf5-knotifyconfig,129,0,0,17,0,0,114,129,100.0,Romanian
+kf5-kontactinterface,4,0,0,2,0,0,4,4,100.0,Romanian <kde-i18n-ro@lists.kde.org>
+kf5-kpackage,22,11,419,10,3,60,23,452,4.867256637168142,Romanian <kde-i18n-ro@kde.org>
+kf5-kparts,123,8,7,28,1,1,120,138,89.13043478260869,Romanian
+kf5-kpeople,13,0,0,8,0,0,15,13,100.0,Romanian
+kf5-kpimtextedit,98,23,261,49,14,104,101,382,25.654450261780106,Romanian <kde-i18n-ro@kde.org>
+kf5-kpty,15,0,0,4,0,0,19,15,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kross,100,0,0,35,0,0,104,100,100.0,Romanian
+kf5-kservice,117,38,18,21,5,2,136,173,67.63005780346822,Romanian <kde-i18n-ro@kde.org>
+kf5-ksmtp,35,0,51,8,0,4,41,86,40.69767441860465,Romanian
+kf5-ktexteditor,4489,1935,2809,750,269,245,4653,9233,48.61908372143399,Romanian
+kf5-ktextwidgets,473,0,0,130,0,0,534,473,100.0,Romanian
+kf5-ktnef,135,2,218,69,2,72,138,355,38.028169014084504,Romanian <kde-i18n-ro@kde.org>
+kf5-kunitconversion,4285,1130,342,1813,473,197,5737,5757,74.43112732325864,Romanian
+kf5-kwallet,880,97,483,86,1,23,868,1460,60.273972602739725,Romanian
+kf5-kwidgetsaddons,607,644,42,280,171,12,637,1293,46.94508894044857,Romanian <kde-i18n-ro@kde.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Romanian
+kf5-kxmlgui,1574,0,0,230,0,0,1636,1574,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,17,13,100.0,Română <kde-i18n-ro@kde.org>
+kf5-libgravatar,14,0,9,7,0,3,16,23,60.86956521739131,Romanian
+kf5-libkcddb,271,5,124,158,3,50,279,400,67.75,Romanian <kde-i18n-ro@lists.kde.org>
+kf5-libkcompactdisc,15,0,0,10,0,0,17,15,100.0,Romanian <kde-i18n-ro@lists.kde.org>
+kf5-libkdepim,35,0,0,10,0,0,43,35,100.0,Romanian
+kf5-libkgeomap,110,0,29,41,0,5,107,139,79.13669064748201,Romanian <kde-i18n-ro@kde.org>
+kf5-libkleo,108,110,2205,51,55,324,120,2423,4.457284358233594,Romanian <kde-i18n-ro@kde.org>
+kf5-libksane,45,41,218,13,23,57,42,304,14.802631578947366,Romanian
+kf5-libksieve,105,0,3017,20,0,517,121,3122,3.3632286995515694,Romanian <kde-i18n-ro@lists.kde.org>
+kf5-libktorrent,465,0,0,105,0,0,563,465,100.0,Romanian
+kf5-mailcommon,1531,301,923,325,87,86,1577,2755,55.57168784029039,Romanian
+kf5-mailimporter,100,219,1089,28,37,62,119,1408,7.1022727272727275,Romanian <kde-i18n-ro@lists.kde.org>
+kf5-messagelib,2307,1292,4165,652,324,376,2458,7764,29.71406491499227,Romanian
+kf5-pimcommon,98,99,633,39,29,140,105,830,11.80722891566265,Romanian <kde-i18n-ro@kde.org>
+kf5-plasma,362,0,0,105,0,0,393,362,100.0,Romanian <kde-i18n-ro@kde.org>
+kf5-purpose,155,0,0,37,0,0,157,155,100.0,Romanian
+kf5-solid,388,5,195,147,1,11,410,588,65.98639455782312,Romanian
+kf5-sonnet,683,0,0,76,0,0,678,683,100.0,Romanian
+kf5-syntax-highlighting,414,34,199,310,15,58,422,647,63.98763523956723,Romanian
+kfind,502,0,15,115,0,2,566,517,97.09864603481626,Romanian
+kfloppy,306,87,248,68,12,20,339,641,47.737909516380654,Romanian <kde-i18n-ro@lists.kde.org>
+kfourinline,230,63,99,89,30,38,236,392,58.673469387755105,Romanian <kde-i18n-ro@kde.org>
+kgamma,130,0,0,16,0,0,141,130,100.0,Romanian
+kgeography,8986,704,322,6640,420,177,9141,10012,89.75229724330804,Romanian
+kget,632,740,1404,280,224,239,642,2776,22.76657060518732,Romanian
+kgoldrunner,19446,947,7618,824,69,115,18153,28011,69.42272678590554,Romanian <kde-i18n-ro@kde.org>
+kgpg,956,747,3569,284,189,225,1019,5272,18.133535660091045,Romanian <kde-i18n-ro@kde.org>
+kgrab,370,0,0,53,0,0,327,370,100.0,Română <kde-i18n-ro@kde.org>
+kgraphviewer,878,295,32,185,21,9,853,1205,72.86307053941908,Romanian <kde-i18n-ro@kde.org>
+khangman,301,32,142,101,2,17,330,475,63.368421052631575,Romanian
+khelpcenter,265,0,0,90,0,0,297,265,100.0,Romanian
+khotkeys,451,0,0,136,0,0,446,451,100.0,Romanian
+kicad,9640,14336,17770,2632,3533,1860,10732,41746,23.092032769606668,Romanian <https://hosted.weblate.org/projects/kicad/master-source/ro/>
+kiconedit,726,0,0,155,0,0,730,726,100.0,Romanian <kde-i18n-ro@lists.kde.org>
+kid3,222,21,2946,104,9,1282,243,3189,6.9614299153339605,Romanian
+kig,901,761,6195,300,133,853,863,7857,11.4674812269314,Romanian <kde-i18n-ro@kde.org>
+kigo,67,20,417,36,9,86,71,504,13.293650793650794,Română <kde-i18n-ro@kde.org>
+kile,550,1188,11256,261,425,1497,547,12994,4.232722795136216,Romanian <kde-i18n-ro@kde.org>
+killbots,248,166,223,58,53,16,248,637,38.93249607535322,Romanian
+kinfocenter,752,3,10,368,1,3,828,765,98.30065359477123,Romanian
+kio-extras,862,164,31,126,6,6,953,1057,81.5515610217597,Romanian <kde-i18n-ro@lists.kde.org>
+kio-gdrive,52,10,14,11,4,3,52,76,68.42105263157895,Romanian
+kio_gopher,17,0,0,5,0,0,18,17,100.0,Romanian <kde-i18n-ro@lists.kde.org>
+kirigami-gallery,146,1,818,74,1,64,147,965,15.129533678756477,Romanian
+kiriki,72,6,66,38,1,11,72,144,50.0,Romanian <kde-i18n-ro@lists.kde.org>
+kiten,305,122,256,96,21,56,327,683,44.65592972181552,Romanian <kde-i18n-ro@kde.org>
+kjots,114,245,292,37,49,48,125,651,17.51152073732719,Romanian <kde-i18n-ro@kde.org>
+kjumpingcube,119,47,247,35,11,49,116,413,28.8135593220339,Română <kde-i18n-ro@kde.org>
+klavaro,1893,0,0,231,0,0,1983,1893,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+kleopatra,127,1664,10738,64,453,1386,134,12529,1.0136483358608028,Romanian <kde-i18n-ro@kde.org>
+klettres,440,0,0,85,0,0,450,440,100.0,Romanian
+klickety,164,8,6,54,6,2,161,178,92.13483146067416,Romanian <kde-i18n-ro@kde.org>
+klines,92,5,2,26,1,1,93,99,92.92929292929293,Română <kde-i18n-ro@kde.org>
+kmag,348,50,34,79,8,11,354,432,80.55555555555556,Romanian
+kmahjongg,354,2,21,101,1,2,365,377,93.89920424403184,Romanian
+kmail,4293,2176,2466,832,368,237,4563,8935,48.04700615556799,Romanian <kde-i18n-ro@kde.org>
+kmail-account-wizard,120,56,639,42,16,73,135,815,14.723926380368098,Romanian <kde-i18n-ro@kde.org>
+kmenuedit,285,0,0,67,0,0,283,285,100.0,Romanian <kde-i18n-ro@kde.org>
+kmines,156,0,0,45,0,0,153,156,100.0,Romanian
+kmix,1074,22,36,209,5,10,1108,1132,94.87632508833921,Romanian
+kmousetool,147,0,0,32,0,0,148,147,100.0,Romanian
+kmouth,869,125,502,169,12,27,838,1496,58.08823529411765,Romanian
+kmplayer,922,53,274,330,12,29,979,1249,73.81905524419535,Romanian <kde-i18n-ro@lists.kde.org>
+kmplot,0,2472,28,0,476,9,0,2500,0.0,Romanian <kde-i18n-ro@kde.org>
+kmymoney,16635,3055,2361,2841,613,248,17904,22051,75.43875561199039,Romanian <kde-i18n-ro@kde.org>
+knavalbattle,302,50,49,90,3,11,310,401,75.31172069825436,Romanian <kde-i18n-ro@kde.org>
+knetwalk,179,6,58,45,3,8,184,243,73.66255144032921,Romanian <kde-i18n-ro@kde.org>
+knights,133,105,558,65,46,123,127,796,16.70854271356784,Romanian <kde-i18n-ro@kde.org>
+knotes,275,149,314,111,54,56,277,738,37.262872628726285,Romanian
+koffice-kivio,218,1479,6720,84,663,1614,220,8417,2.5899964357847214,Romanian <ro-kde@egroups.com>
+kolf,0,161,240,0,87,61,0,401,0.0,Romanian <kde-i18n-ro@kde.org>
+kollision,109,0,0,30,0,0,135,109,100.0,Romanian <kde-i18n-ro@kde.org>
+kolourpaint,483,270,1823,224,84,142,519,2576,18.75,Romanian
+komikku,202,0,4214,34,0,794,235,4416,4.574275362318841,Romanian <https://hosted.weblate.org/projects/komikku/main/ro/>
+kompare,13,100,1300,10,54,136,15,1413,0.9200283085633405,Romanian <kde-i18n-ro@kde.org>
+kongress,7,4,4,4,1,1,7,15,46.666666666666664,Romanian
+konqueror,6635,504,1551,932,76,201,6936,8690,76.35212888377445,Romanian <kde-i18n-ro@lists.kde.org>
+konquest,246,0,0,98,0,0,267,246,100.0,Romanian
+konsole5,3081,293,622,720,61,59,3117,3996,77.1021021021021,Romanian <kde-i18n-ro@kde.org>
+kontact,265,65,162,59,12,16,280,492,53.86178861788618,Romanian <kde-i18n-ro@kde.org>
+konversation,244,220,9898,117,87,1444,253,10362,2.354757768770508,Romanian <kde-i18n-ro@kde.org>
+kopeninghours,38,0,122,10,0,10,45,160,23.75,Romanian
+kopete,12669,1084,3422,2804,251,240,12801,17175,73.764192139738,Română <kde-i18n-ro@kde.org>
+korganizer,278,1759,4857,158,402,321,285,6894,4.0324920220481575,Romanian
+kpat,465,43,57,158,16,25,523,565,82.30088495575221,Romanian
+kphotoalbum,250,694,8069,146,274,637,270,9013,2.773771219349828,Romanian
+kpilot,176,1097,5883,71,327,463,191,7156,2.4594745667970934,Română <kde-i18n-ro@kde.org>
+kpipewire,16,0,0,3,0,0,16,16,100.0,Romanian <kde-i18n-ro@kde.org>
+kpmcore,376,1668,1189,110,222,160,420,3233,11.630064955150015,Romanian
+krb5-auth-dialog,1798,0,0,357,0,0,2189,1798,100.0,Gnome Romanian Translation Team
+krdc,1162,0,0,260,0,0,1230,1162,100.0,Romanian <kde-i18n-ro@kde.org>
+krecorder,52,37,47,26,14,19,49,136,38.23529411764706,Romanian <kde-i18n-ro@kde.org>
+krename,357,0,1785,142,0,310,375,2142,16.666666666666664,Romanian
+kreport,0,311,100,0,160,12,0,411,0.0,Romanian <kde-i18n-ro@kde.org>
+kreversi,134,62,229,46,12,82,131,425,31.529411764705884,Romanian <kde-i18n-ro@lists.kde.org>
+krfb,735,0,0,105,0,0,733,735,100.0,Romanian <kde-i18n-ro@kde.org>
+krita,700,14453,20771,341,5956,2255,716,35924,1.9485580670303975,Romanian
+kruler,17,37,104,7,5,32,19,158,10.759493670886076,Romanian <kde-i18n-ro@kde.org>
+krusader,4965,2415,719,1290,373,98,5275,8099,61.30386467465119,Romanian <kde-i18n-ro@kde.org>
+ksanecore,27,0,32,6,0,4,24,59,45.76271186440678,Romanian
+kscreen,288,47,84,63,2,14,327,419,68.73508353221956,Romanian <kde-i18n-ro@kde.org>
+kscreenlocker,245,0,0,31,0,0,239,245,100.0,Romanian <kde-i18n-ro@kde.org>
+kshisen,51,41,575,30,9,36,51,667,7.646176911544228,Romanian <kde-i18n-ro@lists.kde.org>
+ksig,85,0,0,26,0,0,96,85,100.0,Romanian <kde-i18n-ro@kde.org>
+ksirk,108,81,5567,50,35,674,108,5756,1.8763029881862403,Romanian <kde-i18n-ro@kde.org>
+ksnakeduel,52,40,149,21,9,25,44,241,21.57676348547718,Română <kde-i18n-ro@kde.org>
+kspaceduel,165,0,0,81,0,0,176,165,100.0,Romanian
+ksquares,251,3,6,73,2,3,229,260,96.53846153846153,Romanian <kde-i18n-ro@kde.org>
+ksshaskpass,51,0,0,15,0,0,54,51,100.0,Romanian <kde-i18n-ro@kde.org>
+kstars,13959,18572,26228,3072,7119,2450,13480,58759,23.756360727718306,Romanian
+ksudoku,307,94,1345,79,19,65,338,1746,17.583046964490265,Romanian <kde-i18n-ro@kde.org>
+ksysguard,1093,0,0,237,0,0,1090,1093,100.0,Romanian
+ksystemlog,2849,139,113,450,16,22,2813,3101,91.87358916478556,Romanian
+ksystemstats,390,60,28,150,22,10,409,478,81.58995815899581,Romanian
+kteatime,158,39,6,54,8,5,193,203,77.83251231527095,Romanian
+ktimer,125,0,133,40,0,13,116,258,48.44961240310077,Romanian
+ktorrent,4227,1280,1955,974,228,159,4273,7462,56.64701152506031,Romanian
+ktouch,0,494,470,0,148,111,0,964,0.0,Romanian <kde-i18n-ro@lists.kde.org>
+ktp-accounts-kcm,846,15,239,273,7,29,885,1100,76.9090909090909,Romanian <kde-i18n-ro@kde.org>
+ktp-approver,71,0,0,18,0,0,81,71,100.0,Romanian <kde-i18n-ro@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,87,83,100.0,Romanian <kde-i18n-ro@kde.org>
+ktp-common-internals,984,2,3,204,1,1,1023,989,99.49443882709808,Romanian <kde-i18n-ro@kde.org>
+ktp-contact-list,387,10,283,106,3,18,413,680,56.91176470588235,Romanian <kde-i18n-ro@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,238,208,100.0,Romanian
+ktp-desktop-applets,75,0,0,22,0,0,73,75,100.0,Romanian
+ktp-filetransfer-handler,141,0,0,39,0,0,188,141,100.0,Romanian <kde-i18n-ro@kde.org>
+ktp-kded-integration-module,217,0,273,42,0,17,225,490,44.285714285714285,Romanian <kde-i18n-ro@kde.org>
+ktp-send-file,60,0,0,18,0,0,67,60,100.0,Romanian <kde-i18n-ro@kde.org>
+ktp-text-ui,1294,47,16,272,14,5,1316,1357,95.35740604274135,Romanian <kde-i18n-ro@kde.org>
+ktuberling,84,5,69,32,2,4,91,158,53.16455696202531,Romanian <kde-i18n-ro@kde.org>
+kturtle,1421,96,21,260,84,5,1420,1538,92.39271781534461,Romanian <kde-i18n-ro@kde.org>
+kubrick,179,7,1019,57,2,107,184,1205,14.854771784232366,Română <kde-i18n-ro@kde.org>
+kuserfeedback,531,0,10,72,0,2,538,541,98.15157116451016,Romanian
+kwalletmanager5,800,0,39,165,0,4,813,839,95.35160905840286,Romanian <kde-i18n-ro@kde.org>
+kwebkitpart,480,62,127,146,8,11,494,669,71.74887892376681,Romanian <kde-i18n-ro@kde.org>
+kwin,4295,893,941,1083,57,90,4463,6129,70.07668461412955,Romanian <kde-i18n-ro@kde.org>
+kwordquiz,48,87,117,19,32,41,54,252,19.047619047619047,Romanian <kde-i18n-ro@kde.org>
+latte-dock,241,252,2687,158,72,427,246,3180,7.578616352201258,Romanian
+libadwaita,287,0,0,82,0,0,312,287,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libbonobo,543,0,0,107,0,0,624,543,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+libbonoboui,368,0,0,115,0,0,396,368,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libcryptui,3012,0,0,654,0,0,3321,3012,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+libecpg,242,0,0,35,0,0,299,242,100.0,ROMANA <xsoftware.consultancy@gmail.com>
+libextractor,260,212,1506,98,98,294,271,1978,13.144590495449949,Romanian <translation-team-ro@lists.sourceforge.net>
+libfilezilla,54,0,0,11,0,0,61,54,100.0,"MunteAlb, Laurențiu Anisie <muntealb@gmail.com>"
+libfm,637,379,559,199,109,86,657,1575,40.44444444444444,Romanian <diacritice@googlegroups.com>
+libgda,10016,684,695,1885,130,71,11353,11395,87.89820096533568,Gnome Romanian Translation Team
+libgdata,701,0,0,87,0,0,780,701,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+libgdl,659,0,0,96,0,0,682,659,100.0,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+libgnome,1773,0,0,273,0,0,1837,1773,100.0,<gnomero-list@lists.sourceforge.net>
+libgnome-games-support,43,0,0,14,0,0,49,43,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libgnome-keyring,44,0,0,9,0,0,49,44,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libgnomecanvas,378,0,0,95,0,0,394,378,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libgnomekbd,242,0,0,55,0,0,238,242,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+libgnomeui,1226,0,0,320,0,0,1212,1226,100.0,<gnomero-list@lists.sourceforge.net>
+libgovirt,98,0,0,22,0,0,125,98,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libgpg-error,615,481,540,225,151,117,725,1636,37.59168704156479,Romanian <translation-team-ro@lists.sourceforge.net>
+libgphoto2,466,0,0,78,0,0,526,466,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+libgpod,761,225,67,108,58,19,862,1053,72.26970560303894,Romanian <tradu@softwareliber.ro>
+libgsasl,412,93,72,49,7,13,489,577,71.40381282495667,Romanian <translation-team-ro@lists.sourceforge.net>
+libgsf,725,0,0,151,0,0,815,725,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+libgtop2,126,0,0,40,0,0,172,126,100.0,Gnome Romanian Translation Team
+libgweather,6394,0,0,4696,0,0,6543,6394,100.0,Romanian GNOME Team <gnomero-list@lists.sourceforge.net>
+libgweather4,6508,0,0,4795,0,0,6657,6508,100.0,Romanian GNOME Team <gnomero-list@lists.sourceforge.net>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libhandy,1374,0,0,300,0,0,1347,1374,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libidn,415,0,0,58,0,0,487,415,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+libidn1.34,16,46,366,2,7,51,16,428,3.7383177570093453,Romanian <translation-team-ro@lists.sourceforge.net>
+libidn2,322,0,0,41,0,0,374,322,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+libkdegames,323,0,47,121,0,11,296,370,87.29729729729729,Romanian <kde-i18n-ro@kde.org>
+libkeduvocdocument,146,19,6,76,4,1,157,171,85.38011695906432,Română <kde-i18n-ro@kde.org>
+libkgapi,308,59,11,70,14,1,433,378,81.48148148148148,Romanian
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Romanian <kde-i18n-ro@lists.kde.org>
+libkomparediff2,0,4,139,0,2,17,0,143,0.0,Romanian <kde-i18n-ro@kde.org>
+libkscreen-qt5,24,0,0,6,0,0,24,24,100.0,Romanian <kde-i18n-ro@kde.org>
+libksysguard,2480,160,1514,458,28,143,2598,4154,59.70149253731343,Romanian
+libmatekbd,256,0,52,54,0,37,262,308,83.11688311688312,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+libmatemixer,242,0,0,126,0,0,269,242,100.0,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+libmateweather,6098,0,45,4545,0,30,6178,6143,99.26745889630475,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+libmypaint,1399,57,847,94,11,57,1388,2303,60.74685193226227,Romanian <https://hosted.weblate.org/projects/mypaint/libmypaint/ro/>
+libnma,223,299,285,64,65,54,239,807,27.63320941759603,Gnome Romanian Translation Team
+libpeas,103,0,0,29,0,0,119,103,100.0,Gnome Romanian Translation Team
+libreoffice,109562,2016,625393,30542,630,60568,112819,736971,14.866527990925016,Romanian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/ro/>
+libsecret,64,0,0,10,0,0,69,64,100.0,Gnome Romanian Translation Team
+libsoup,183,0,0,43,0,0,237,183,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libsoup3,180,0,0,38,0,0,231,180,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+libuser,306,25,1106,77,5,219,353,1437,21.29436325678497,Romanian (http://www.transifex.com/projects/p/fedora/language/ro/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Romanian (http://www.transifex.com/projects/p/fedora/language/ro/)
+libwnck,1124,0,0,241,0,0,1279,1124,100.0,Romanian GNOME Team <gnomero-list@lists.sourceforge.net>
+libwnck3,1086,0,0,231,0,0,1232,1086,100.0,Romanian GNOME Team <gnomero-list@lists.sourceforge.net>
+libxfce4ui,692,0,326,183,0,28,794,1018,67.97642436149313,Romanian (https://app.transifex.com/xfce/teams/16840/ro/)
+libxfce4util,424,0,0,7,0,0,379,424,100.0,Romanian (http://www.transifex.com/xfce/libxfce4util/language/ro/)
+libxfce4windowing,25,0,38,11,0,8,31,63,39.682539682539684,Romanian (https://www.transifex.com/xfce/teams/16840/ro/)
+libzypp,1832,96,768,866,17,93,1974,2696,67.95252225519289,Romanian <LL@li.org>
+lifeograph,172,434,900,40,139,263,183,1506,11.42098273572377,Romanian <ro@li.org>
+liferea,1176,433,610,316,105,118,1287,2219,52.99684542586751,Romanian <translation-team-ro@lists.sourceforge.net>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Romanian (http://www.transifex.com/the_cavalry/light-locker/language/ro/)
+lightdm,79,0,84,17,0,4,82,163,48.466257668711656,Romanian <ro@li.org>
+lightdm-gtk,18,0,71,6,0,19,15,89,20.224719101123593,Romanian <ro@li.org>
+lightdm-settings,355,0,0,74,0,0,355,355,100.0,Romanian <ro@li.org>
+lightsoff,143,0,0,27,0,0,211,143,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+lokalize,3619,278,268,652,21,16,3669,4165,86.89075630252101,Romanian
+lollypop,126,8,1294,57,2,396,138,1428,8.823529411764707,Romanian (http://www.transifex.com/gnumdk/lollypop/language/ro/)
+lskat,249,4,1,81,1,1,257,254,98.03149606299213,Română <kde-i18n-ro@kde.org>
+lxappearance-obconf,196,0,0,27,0,0,218,196,100.0,LANGUAGE <LL@li.org>
+lxdm,48,0,0,26,0,0,57,48,100.0,Romanian <LL@li.org>
+lxinput,72,0,11,24,0,2,78,83,86.74698795180723,Romanian <LL@li.org>
+lxlauncher,51,0,7,11,0,6,47,58,87.93103448275862,Romanian <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,105,97,100.0,Romanian <LL@li.org>
+lxmusic,203,0,0,89,0,0,247,203,100.0,Romanian <LL@li.org>
+lxpanel,886,166,347,315,44,108,1014,1399,63.330950679056464,Romanian <diacritice@googlegroups.com>
+lxrandr,94,50,23,25,8,8,107,167,56.287425149700596,Romanian <LL@li.org>
+lxshortcut,43,0,0,19,0,0,53,43,100.0,Romanian <LL@li.org>
+lxtask,129,0,1,50,0,1,144,130,99.23076923076923,Romanian <LL@li.org>
+lynx,100,0,8254,15,0,1250,93,8354,1.1970313622216904,Romanian <translation-team-ro@lists.sourceforge.net>
+m4,67,465,639,21,69,107,77,1171,5.721605465414176,Romanian <translation-team-ro@lists.sourceforge.net>
+magpie,1301,0,0,153,0,0,1465,1301,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+make,2593,0,0,477,0,0,3232,2593,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+malcontent,54,0,530,10,0,88,53,584,9.246575342465754,Romanian (https://www.transifex.com/endless-os/teams/9016/ro/)
+maliit-keyboard,31,4,46,30,2,29,31,81,38.2716049382716,Romanian <ro@li.org>
+mame,0,0,3685,0,0,1288,0,3685,0.0,MAME Language Team
+man-db,9757,0,0,647,0,0,10874,9757,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+man-pages-l10n,25960,6932,106468,6653,1467,10056,27436,139360,18.62801377726751,none
+manafirewall,26,0,1071,25,0,108,26,1097,2.3701002734731085,Romanian (https://www.transifex.com/MageiaLinux/teams/9361/ro/)
+marble,603,3557,7414,186,1154,1989,612,11574,5.209953343701399,Romanian <kde-i18n-ro@kde.org>
+marco,3248,0,1055,379,0,51,3481,4303,75.48222170578666,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mariadb,0,35,109,0,2,8,0,144,0.0,romanian <debian-l10n-romanian@lists.debian.org>
+markdownpart,23,0,0,9,0,0,25,23,100.0,Romanian
+mate-applets,2264,37,13656,556,8,1082,2414,15957,14.188130600990162,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+mate-backgrounds,30,0,25,21,0,8,31,55,54.54545454545454,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+mate-calc,1295,0,2028,477,0,272,1373,3323,38.97080950947939,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+mate-control-center,3011,7,5235,1064,1,445,3256,8253,36.483702895916636,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-desktop,1906,0,470,268,0,33,2047,2376,80.21885521885523,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+mate-media,208,0,31,88,0,11,229,239,87.02928870292888,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-menu,301,0,7,109,0,1,345,308,97.72727272727273,Romanian (http://www.transifex.com/mate/MATE/language/ro/)
+mate-menus,98,0,5,38,0,1,97,103,95.14563106796116,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-notification-daemon,127,0,59,37,0,16,142,186,68.27956989247312,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-panel,3990,3,2727,572,1,241,3858,6720,59.375,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-polkit,123,0,0,21,0,0,124,123,100.0,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+mate-power-manager,2451,0,2668,389,0,162,2817,5119,47.88044539949209,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-screensaver,901,0,200,154,0,22,931,1101,81.83469573115349,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-sensors-applet,15,14,2131,11,8,207,18,2160,0.6944444444444444,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+mate-session-manager,652,0,63,121,0,11,693,715,91.18881118881119,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-settings-daemon,1680,0,527,264,0,55,1752,2207,76.12143180788401,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-system-monitor,1135,0,3758,307,0,353,1261,4893,23.196403024729207,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-terminal,4024,0,4362,514,0,289,4038,8386,47.9847364655378,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-themes,61,0,13,13,0,10,68,74,82.43243243243244,Romanian (http://app.transifex.com/mate/MATE/language/ro/)
+mate-user-admin,20,0,585,16,0,110,20,605,3.3057851239669422,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+mate-user-guide,173,0,42800,102,0,3126,184,42973,0.4025783631582622,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mate-utils,3442,0,6618,692,0,434,3545,10060,34.214711729622266,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+mbox-importer,40,0,0,13,0,0,44,40,100.0,Romanian
+mc,4373,0,21,1265,0,3,4993,4394,99.52207555757852,Romanian (http://app.transifex.com/mc/mc/language/ro/)
+meld,2534,0,0,502,0,0,2850,2534,100.0,Gnome Romanian Translation Team
+mercurial,5321,31,36467,677,4,2805,5870,41819,12.72388148927521,Romanian <>
+metacity,1831,0,0,278,0,0,2067,1831,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+midori,3200,0,341,746,0,50,3498,3541,90.369951990963,diacritice@googlegroups.com
+minetest,2480,222,6821,653,52,650,2731,9523,26.042213588154993,Romanian <https://hosted.weblate.org/projects/minetest/minetest/ro/>
+mingw-GConf2,4024,0,0,485,0,0,4546,4024,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+mingw-atk,440,0,0,169,0,0,439,440,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+mingw-binutils,2735,7039,22143,612,1061,3383,2986,31917,8.56910110599367,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-colord,303,0,1582,75,0,128,343,1885,16.074270557029177,Romanian (http://www.transifex.com/projects/p/colord/language/ro/)
+mingw-gcc,1548,0,0,245,0,0,1884,1548,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-gdb,1197,5586,8866,260,738,1357,1273,15649,7.649051057575564,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-gdk-pixbuf,1325,0,0,198,0,0,1559,1325,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+mingw-gettext,8119,13,0,863,2,0,8865,8132,99.84013772749631,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-glib-networking,447,0,0,65,0,0,566,447,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+mingw-glib2,7731,0,0,1214,0,0,8945,7731,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+mingw-gstreamer,1828,29,60,330,7,11,2178,1917,95.35732916014607,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-gstreamer1,2207,0,0,386,0,0,2632,2207,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-gstreamer1-plugins-bad-free,197,0,0,29,0,0,246,197,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-gstreamer1-plugins-base,1057,5,10,218,1,2,1245,1072,98.6007462686567,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-gstreamer1-plugins-good,823,0,7,102,0,2,942,830,99.1566265060241,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-gtk2,12475,0,0,2591,0,0,12519,12475,100.0,Romanian GNOME Team <gnomero-list@lists.sourceforge.net>
+mingw-gtk3,16727,0,0,3939,0,0,17243,16727,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+mingw-gtk4,4219,0,0,1615,0,0,4806,4219,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+mingw-gtksourceview3,320,2,0,105,1,0,375,322,99.37888198757764,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+mingw-json-glib,307,0,0,47,0,0,315,307,100.0,Gnome Romanian Translation Team
+mingw-libcharset,342,0,0,46,0,0,408,342,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-libgovirt,98,0,0,22,0,0,125,98,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+mingw-libgpg-error,613,450,361,223,140,83,723,1424,43.04775280898877,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-libgsf,720,0,0,150,0,0,811,720,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+mingw-libidn,415,0,0,58,0,0,487,415,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-libidn2,322,0,0,41,0,0,374,322,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+mingw-libsoup,183,0,0,43,0,0,237,183,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Romanian (http://www.transifex.com/freedesktop/p11-kit/language/ro/)
+mingw-wxWidgets3,7590,47,58,1774,36,43,8481,7695,98.635477582846,ro.ro
+minicom,1177,299,459,313,55,44,1344,1935,60.826873385012924,Romanian <translation-team-ro@lists.sourceforge.net>
+mkvtoolnix,4409,1683,18960,1060,340,1663,4766,25052,17.59939326201501,Romanian (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/ro/)
+moodle,0,1,51,0,1,13,0,52,0.0,i18n@lists.horde.org
+moserial,540,0,0,119,0,0,580,540,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+mousepad,749,0,939,230,0,196,737,1688,44.372037914691944,Romanian (http://app.transifex.com/xfce/xfce-apps/language/ro/)
+mousetweaks,114,0,0,30,0,0,129,114,100.0,Gnome Romanian Translation Team
+mozo,43,0,3,21,0,3,45,46,93.47826086956522,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+msitools,72,0,0,26,0,0,81,72,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+msmtp,1809,14,0,325,1,0,2173,1823,99.23203510696655,Romanian <translation-team-ro@lists.sourceforge.net>
+muffin,1219,0,0,144,0,0,1396,1219,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+mutter,1337,0,0,146,0,0,1517,1337,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+mypaint,642,2164,3575,203,552,515,665,6381,10.061118946873531,Romanian <https://hosted.weblate.org/projects/mypaint/mypaint/ro/>
+nano,3486,0,0,632,0,0,3760,3486,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+nautilus,5495,0,0,1117,0,0,6461,5495,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+nemiver,1101,1,0,307,1,0,1228,1102,99.90925589836661,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+network-manager-applet,1184,1296,1928,330,255,285,1381,4408,26.860254083484573,Gnome Romanian Translation Team
+newt,4,0,0,4,0,0,4,4,100.0,Romanian <Romanian>
+nfoview,115,0,0,42,0,0,123,115,100.0,Romanian (http://www.transifex.com/otsaloma/nfoview/language/ro/)
+nicotine+,524,4411,132,117,1138,23,544,5067,10.341424906256167,Romanian <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/ro/>
+notification-daemon,17,0,0,7,0,0,21,17,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+nutty,0,0,608,0,0,152,0,608,0.0,
+obconf,686,0,52,144,0,12,682,738,92.95392953929539,none
+okteta,326,391,1821,160,171,287,341,2538,12.844759653270291,Romanian <kde-i18n-ro@lists.kde.org>
+okular,2947,240,2525,941,63,245,3109,5712,51.59313725490197,Romanian
+onboard,1811,0,507,428,0,82,2023,2318,78.12769628990509,Romanian <ro@li.org>
+onionshare,0,0,4610,0,0,185,0,4610,0.0,LANGUAGE <LL@li.org>
+openbox,473,0,33,90,0,4,502,506,93.47826086956522,none
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,832,0,1472,570,0,342,867,2304,36.11111111111111,Romanian (https://www.transifex.com/xfce/teams/16840/ro/)
+orca,5737,0,0,1899,0,0,6484,5737,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+osmo,1605,48,118,659,20,19,1689,1771,90.62676453980801,Romanian ro <alexandrugavrish@gmail.com>
+p11-kit,0,0,1764,0,0,313,0,1764,0.0,Romanian (http://www.transifex.com/freedesktop/p11-kit/language/ro/)
+pacman,4323,0,866,760,0,138,5071,5189,83.31084987473501,Romanian (http://www.transifex.com/toofishes/archlinux-pacman/language/ro/)
+palapeli,7,20,1498,4,9,173,9,1525,0.45901639344262296,Romanian <kde-i18n-ro@kde.org>
+pam,525,10,0,99,1,0,594,535,98.13084112149532,Romanian <https://translate.fedoraproject.org/projects/linux-pam/master/ro/>
+pan,209,1896,1293,82,484,230,250,3398,6.150676868746322,Romanian <gnomero-list@lists.sourceforge.net>
+parcellite,149,0,0,51,0,0,170,149,100.0,
+parley,2153,899,381,493,169,67,2366,3433,62.71482668220215,Romanian <kde-i18n-ro@kde.org>
+parted,4604,0,0,570,0,0,5141,4604,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+passwd,306,0,30,54,0,3,335,336,91.07142857142857,Romanian (http://www.transifex.com/projects/p/fedora/language/ro/)
+pastebinit,195,0,0,29,0,0,212,195,100.0,Romanian <ro@li.org>
+pbuilder,96,0,0,9,0,0,117,96,100.0,Romanian <debian-l10n-romanian@lists.debian.org>
+pcmanfm,582,252,381,151,61,85,632,1215,47.901234567901234,Romanian <diacritice@googlegroups.com>
+pdfmod,316,0,0,89,0,0,418,316,100.0,Romania
+phd2,4762,0,8290,905,0,919,5154,13052,36.484829911124734,
+phodav,63,0,0,17,0,0,73,63,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+phonon-backend-gstreamer,0,104,0,0,15,0,0,104,0.0,Romanian <kde-i18n-ro@kde.org>
+phonon-backend-vlc,27,0,0,3,0,0,27,27,100.0,Romanian
+phosh,329,0,0,132,0,0,367,329,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+php-phpmyadmin-sql-parser5,286,0,0,53,0,0,313,286,100.0,Romanian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ro/>
+picard,1157,106,15647,687,33,3375,1209,16910,6.842105263157896,Romanian <https://translations.metabrainz.org/projects/picard/app/ro/>
+picmi,156,32,14,101,9,7,168,202,77.22772277227723,Romanian <kde-i18n-ro@kde.org>
+pidgin,13970,0,24,3190,0,1,14911,13994,99.82849792768329,Romanian (http://www.transifex.com/pidgin/pidgin/language/ro/)
+pidgin-libnotify,31,5,0,11,1,0,32,36,86.11111111111111,<ro@li.org>
+pidgin-sipe,892,0,227,222,0,51,1045,1119,79.71403038427167,Romanian (http://www.transifex.com/stefanb/pidgin-sipe/language/ro/)
+pim-data-exporter,81,165,564,28,44,133,93,810,10.0,Romanian <kde-i18n-ro@kde.org>
+pim-sieve-editor,74,58,305,38,23,56,72,437,16.933638443935926,Romanian
+pinfo,315,14,21,53,3,4,363,350,90.0,Romanian <debian-l10n-romanian@lists.debian.org>
+pinta,1522,0,224,497,0,40,1720,1746,87.17067583046965,Romanian <ro@li.org>
+pipewire,655,0,0,110,0,0,753,655,100.0,Romanian
+pitivi,1284,252,497,286,54,46,1375,2033,63.1578947368421,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+plank,34,0,155,13,0,37,51,189,17.989417989417987,Romanian <ro@li.org>
+plasma-bigscreen,62,3,32,23,1,8,64,97,63.91752577319587,Romanian
+plasma-breeze,242,0,0,85,0,0,283,242,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-browser-integration,123,0,0,23,0,0,118,123,100.0,Romanian
+plasma-desktop,8564,0,98,1675,0,3,8865,8662,98.86862156545833,Romanian
+plasma-dialer,65,6,66,31,2,21,72,137,47.44525547445255,Romanian
+plasma-discover,3010,0,0,669,0,0,3174,3010,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-disks,215,0,0,23,0,0,233,215,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-drkonqi,1984,0,0,203,0,0,2007,1984,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-firewall,324,17,63,130,7,7,340,404,80.19801980198021,Romanian
+plasma-integration,60,0,0,23,0,0,62,60,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-mediacenter,46,0,37,30,0,7,59,83,55.42168674698795,Romanian <kde-i18n-ro@kde.org>
+plasma-milou,10,0,0,4,0,0,10,10,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-mobile,83,0,46,35,0,13,90,129,64.34108527131784,Romanian <kde-i18n-ro@kde.org>
+plasma-nano,37,0,0,12,0,0,39,37,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-nm,2541,298,2531,987,69,271,2691,5370,47.31843575418994,Romanian <kde-i18n-ro@kde.org>
+plasma-oxygen,802,0,0,293,0,0,923,802,100.0,Romanian
+plasma-pa,276,0,0,95,0,0,294,276,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-pass,26,0,4,5,0,1,35,30,86.66666666666667,Romanian
+plasma-phonebook,26,11,18,16,5,7,28,55,47.27272727272727,Romanian
+plasma-sdk,303,81,94,90,11,11,337,478,63.38912133891213,Romanian <kde-i18n-ro@kde.org>
+plasma-settings,199,49,639,75,16,533,224,887,22.435174746335964,Romanian
+plasma-systemmonitor,565,0,0,184,0,0,606,565,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-systemsettings,212,0,0,54,0,0,231,212,100.0,Romanian <kde-i18n-ro@kde.org>
+plasma-thunderbolt,178,0,0,42,0,0,194,178,100.0,Romanian
+plasma-vault,874,0,0,102,0,0,871,874,100.0,Romanian
+plasma-welcome,194,0,860,55,0,20,197,1054,18.40607210626186,Romanian <kde-i18n-ro@kde.org>
+plasma-workspace,12681,2,216,3170,2,15,13880,12899,98.3099465074812,Romanian <kde-i18n-ro@kde.org>
+playonlinux,2054,0,674,397,0,52,1994,2728,75.29325513196481,Romanian <ro@li.org>
+pluma,4692,0,8421,1146,0,944,4950,13113,35.781285746968656,Romanian (https://app.transifex.com/mate/teams/13566/ro/)
+pluma-plugins,188,0,1210,20,0,123,205,1398,13.447782546494993,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+plymouth-kcm,112,0,0,24,0,0,121,112,100.0,Romanian <kde-i18n-ro@kde.org>
+pmount,723,0,0,63,0,0,719,723,100.0,Romanian <ro@li.org>
+poedit,3167,0,1,689,0,1,3432,3168,99.96843434343434,Romanian
+pogo,364,0,212,63,0,38,363,576,63.19444444444444,Romanian <ro@li.org>
+polari,855,0,0,200,0,0,995,855,100.0,Gnome Romanian Translation Team
+policycoreutils,68,2,10451,63,1,1600,74,10521,0.6463263948293888,Romanian
+polkit,230,0,0,26,0,0,226,230,100.0,Romanian
+polkit-gnome,94,0,0,16,0,0,97,94,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+polkit-kde,95,0,0,30,0,0,96,95,100.0,Romanian <kde-i18n-ro@kde.org>
+popt,31,16,43,11,3,18,32,90,34.44444444444444,Romanian <ro@li.org>
+postgis,287,59,1719,21,2,71,303,2065,13.898305084745763,Romanian <https://weblate.osgeo.org/projects/postgis/administrationxml/ro/>
+postgresql,242,0,0,35,0,0,299,242,100.0,ROMANA <xsoftware.consultancy@gmail.com>
+powerdevil,669,0,0,143,0,0,674,669,100.0,Romanian <kde-i18n-ro@kde.org>
+prusa-slicer,7059,255,194,1685,90,116,7838,7508,94.01971230687268,ro.ro
+psmisc,3647,0,0,336,0,0,4018,3647,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+pulseeffects,844,0,0,387,0,0,887,844,100.0,
+pychess,1553,0,6039,460,0,1008,1628,7592,20.455742887249738,Romanian (http://www.transifex.com/gbtami/pychess/language/ro/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-SecretStorage,59,0,0,9,0,0,63,59,100.0,Gnome Romanian Translation Team
+python-apt,128,178,238,36,42,40,134,544,23.52941176470588,Romanian <gnomero-list@lists.sourceforge.net>
+python-blivet,37,0,568,3,0,78,33,605,6.115702479338843,Romanian (http://www.transifex.com/projects/p/blivet/language/ro/)
+python-caja,6,0,0,2,0,0,6,6,100.0,Romanian (https://www.transifex.com/mate/teams/13566/ro/)
+python-colander,169,16,17,31,3,4,171,202,83.66336633663366,Romanian <kde-i18n-ro@kde.org>
+python-django,3217,0,548,819,0,43,3601,3765,85.44488711819389,Romanian (http://www.transifex.com/django/django/language/ro/)
+python-django-contrib-comments,250,0,0,61,0,0,298,250,100.0,Romanian (http://www.transifex.com/django/django-contrib-comments/language/ro/)
+python-django-extensions,42,0,0,14,0,0,45,42,100.0,LANGUAGE <LL@li.org>
+python-django-filter,88,0,0,42,0,0,97,88,100.0,Romanian <https://hosted.weblate.org/projects/django-filter/django-filter/ro/>
+python-django-formtools,32,0,0,11,0,0,35,32,100.0,Romanian (http://www.transifex.com/django/django-formtools/language/ro/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django-rest-framework,561,0,141,95,0,30,662,702,79.91452991452992,Romanian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ro/)
+python-django3,3217,0,548,819,0,43,3601,3765,85.44488711819389,Romanian (http://www.transifex.com/django/django/language/ro/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Romanian
+python-flask-admin,320,0,47,97,0,15,356,367,87.19346049046321,Romanian
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-manatools,4,0,0,4,0,0,4,4,100.0,Romanian (https://www.transifex.com/MageiaLinux/teams/9361/ro/)
+python-meh,109,0,0,23,0,0,106,109,100.0,Romanian <https://translate.fedoraproject.org/projects/python-meh/master/ro/>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+python-simpleline,42,0,0,16,0,0,51,42,100.0,Romanian <https://translate.fedoraproject.org/projects/python-simpleline/master/ro/>
+python-sphinx,387,0,4596,161,0,597,422,4983,7.766405779650813,Romanian (http://www.transifex.com/sphinx-doc/sphinx-1/language/ro/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Romanian (https://www.transifex.com/sphinx-doc/teams/36659/ro/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Romanian (https://www.transifex.com/sphinx-doc/teams/36659/ro/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Romanian (https://www.transifex.com/sphinx-doc/teams/36659/ro/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Romanian (https://www.transifex.com/sphinx-doc/teams/36659/ro/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Romanian (https://www.transifex.com/sphinx-doc/teams/36659/ro/)
+python-wxpython4,7837,0,0,1965,0,0,8651,7837,100.0,ro.ro
+qmlkonsole,59,8,58,19,6,24,54,125,47.199999999999996,Romanian
+quadrapassel,460,0,0,82,0,0,519,460,100.0,Gnome Romanian Translation Team
+quassel,2136,0,6226,801,0,906,2263,8362,25.54412819899546,Romanian (http://www.transifex.com/quassel/quassel/language/ro/)
+quitcount,154,12,0,39,1,0,252,166,92.7710843373494,Ubuntu Romanian Quality Assurance
+quodlibet,917,1524,5478,316,494,879,1038,7919,11.579744917287536,Română <gnomero@lists.sourceforge.net>
+rabbitvcs,348,0,1176,162,0,310,355,1524,22.83464566929134,Romanian <ro@li.org>
+rapid-photo-downloader,285,69,7732,120,9,795,308,8086,3.5246104377937173,Romanian <ro@li.org>
+realmd,0,0,833,0,0,134,0,833,0.0,Romanian (http://www.transifex.com/freedesktop/realmd/language/ro/)
+recode,518,235,1,69,7,3,588,754,68.70026525198939,Romanian <translation-team-ro@lists.sourceforge.net>
+redhat-menus,261,0,0,86,0,0,273,261,100.0,<en@li.org>
+rednotebook,639,22,602,146,7,119,683,1263,50.5938242280285,Romanian <ro@li.org>
+redshift,26,0,1002,15,0,136,27,1028,2.529182879377432,Romanian <ro@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,1136,3415,845,276,626,98,1165,5396,21.052631578947366,Romanian <https://hosted.weblate.org/projects/remmina/remmina/ro/>
+renameutils,3,105,157,2,22,30,3,265,1.1320754716981132,Romanian <translation-team-ro@lists.sourceforge.net>
+rhash,192,12,274,43,2,48,211,478,40.1673640167364,Romanian <ro@li.org>
+rhythmbox,9513,124,2159,1426,2,79,10112,11796,80.64598168870803,Gnome Romanian Translation Team
+ristretto,539,0,135,193,0,17,599,674,79.97032640949556,Romanian (http://app.transifex.com/xfce/xfce-apps/language/ro/)
+rizin,12707,0,0,841,0,0,13891,12707,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+rocs,24,374,1082,14,140,160,24,1480,1.6216216216216217,Română <kde-i18n-ro@kde.org>
+rsibreak,86,14,1109,32,6,122,87,1209,7.113316790736146,Romanian
+rt,2928,0,10949,690,0,2489,3470,13877,21.09966131008143,Romanian <ro@li.org>
+rygel,1632,0,0,302,0,0,1918,1632,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+sawfish,1901,1718,2824,423,329,230,2019,6443,29.504889026850844,Română <ro@li.org>
+scratch,292,0,1178,102,0,524,312,1470,19.86394557823129,LANGUAGE <LL@li.org>
+sdcc,4098,0,0,592,0,0,4407,4098,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+sddm-kcm,211,0,0,41,0,0,217,211,100.0,Romanian <kde-i18n-ro@kde.org>
+seahorse,2395,0,0,543,0,0,2732,2395,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+seahorse-caja,411,10,0,109,1,0,493,421,97.62470308788599,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+seahorse-nautilus,490,0,0,124,0,0,592,490,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+secrets,994,0,0,293,0,0,1121,994,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+sed,374,89,367,68,14,64,419,830,45.06024096385542,Romanian <translation-team-ro@lists.sourceforge.net>
+setuptool,47,8,0,13,1,0,51,55,85.45454545454545,Romanian <gnomero-list@lists.sourceforge.net>
+shadow-utils,1004,1556,2178,205,225,242,1097,4738,21.190375685943437,Romanian <debian-l10n-romanian@lists.debian.org>
+shared-mime-info,1445,0,615,579,0,217,1562,2060,70.14563106796116,Romanian (http://www.transifex.com/freedesktop/shared-mime-info/language/ro/)
+shotwell,6977,0,0,1275,0,0,8461,6977,100.0,Gnome Romanian Translation Team
+shutter,3093,0,0,606,0,0,3557,3093,100.0,Romanian
+simple-scan,2205,0,0,311,0,0,2303,2205,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+skanlite,186,0,0,63,0,0,194,186,100.0,Romanian
+skrooge,38,4689,7454,30,1427,1043,37,12181,0.3119612511288072,Romanian
+slick-greeter,216,0,0,49,0,0,221,216,100.0,Romanian <ro@li.org>
+smb4k,46,38,6446,41,22,605,52,6530,0.7044410413476264,Romanian <kde-i18n-ro@kde.org>
+snapd,0,0,4307,0,0,481,0,4307,0.0,Romanian <ro@li.org>
+snapper,50,300,742,21,78,153,51,1092,4.5787545787545785,Romanian <LL@li.org>
+solaar,0,0,0,0,0,0,0,0,0.0,none
+sos,0,0,123,0,0,30,0,123,0.0,none
+sound-juicer,1254,0,0,226,0,0,1387,1254,100.0,Gnome Romanian Translation Team
+soundconverter,132,0,378,56,0,73,153,510,25.882352941176475,Romanian <ro@li.org>
+soundkonverter,2149,0,1913,455,0,115,2267,4062,52.90497291974396,Romanian (http://www.transifex.com/hessijames/soundkonverter/language/ro/)
+springlobby,2118,0,2452,701,0,506,2161,4570,46.34573304157549,Romanian <ro@li.org>
+squeekboard,13,0,0,6,0,0,13,13,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+steghide,1859,0,0,185,0,0,2039,1859,100.0,ROMANIAN <lacroix-iv(NO SPAM)@go.ro>
+stellarium,15787,0,135854,4332,0,33523,16323,151641,10.410772812102268,Romanian (https://www.transifex.com/stellarium/teams/80998/ro/)
+step,656,1217,24,188,478,10,747,1897,34.580917237743805,Romanian <kde-i18n-ro@kde.org>
+sudo,6246,0,0,945,0,0,7421,6246,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+sugar,110,17,2178,55,8,466,119,2305,4.772234273318872,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,38,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,365,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,774,0,92,156,0,13,800,866,89.37644341801386,LANGUAGE <LL@li.org>
+sugar-chat,63,0,74,22,0,59,65,137,45.98540145985402,LANGUAGE <LL@li.org>
+sugar-clock,1,0,65,1,0,20,1,66,1.5151515151515151,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,9,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,44,8,90,33,7,34,46,142,30.985915492957744,LANGUAGE <LL@li.org>
+sugar-pippy,37,15,223,13,1,53,38,275,13.454545454545455,LANGUAGE <LL@li.org>
+sugar-read,24,0,113,14,0,36,27,137,17.51824817518248,LANGUAGE <LL@li.org>
+sugar-record,12,6,44,10,2,12,12,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-speak,20,0,207,20,0,54,20,227,8.81057268722467,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,6,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,156,0,57,109,0,14,181,213,73.23943661971832,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-write,121,0,0,55,0,0,129,121,100.0,LANGUAGE <LL@li.org>
+supertux,2208,0,827,594,0,341,2196,3035,72.75123558484349,Romanian (http://www.transifex.com/arctic-games/supertux/language/ro/)
+supertuxkart,0,0,0,0,0,0,0,0,0.0,
+sushi,54,0,0,14,0,0,61,54,100.0,Gnome Romanian Translation Team
+svgpart,3,0,0,2,0,0,5,3,100.0,Romanian <kde-i18n-ro@lists.kde.org>
+sweeper,228,0,0,50,0,0,227,228,100.0,Romanian <kde-i18n-ro@kde.org>
+swell-foop,340,0,0,72,0,0,428,340,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+switchdesk,16,85,21,3,9,7,20,122,13.114754098360656,Romanian <gnomero-list@lists.sourceforge.net>
+sylpheed,6803,339,72,1714,65,18,7760,7214,94.30274466315498,Gnome Romanian Team <gnomero-list@lists.sourceforge.net>
+sympa,1011,6573,28844,328,1360,1865,1119,36428,2.775337652355331,Română
+synapse,746,0,110,208,0,26,823,856,87.14953271028037,Romanian <ro@li.org>
+syncevolution,566,0,0,111,0,0,692,566,100.0,Moblin Romania <live@moblin.ro>
+synfigstudio,0,0,0,0,0,0,0,0,0.0,
+sysprof,833,0,0,217,0,0,930,833,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+sysstat,851,0,0,83,0,0,968,851,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+system-config-printer,2332,41,1141,579,19,330,2547,3514,66.36311895276039,Romanian (http://www.transifex.com/projects/p/system-config-printer/language/ro/)
+system-config-rootpassword,15,26,75,3,5,11,13,116,12.931034482758621,Romanian <fedora-trans-list@redhat.com>
+system-switch-java,81,0,0,11,0,0,96,81,100.0,Romanian
+system-switch-mail,9,88,4,6,8,3,10,101,8.91089108910891,Romanian <gnomero-list@lists.sourceforge.net>
+systemd,1506,18,4,189,3,1,1620,1528,98.56020942408377,Romanian <https://translate.fedoraproject.org/projects/systemd/master/ro/>
+tali,438,0,0,100,0,0,544,438,100.0,Gnome Romanian Translation Team <gnomero-list@lists.sourceforge.net>
+tar,3605,44,9,589,4,1,4131,3658,98.55112083105521,Romanian <translation-team-ro@lists.sourceforge.net>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+tellico,121,1970,3886,61,632,608,122,5977,2.0244269700518656,Romanian <kde-i18n-ro@kde.org>
+template-glib,23,0,0,4,0,0,28,23,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+tepl,294,0,0,67,0,0,294,294,100.0,Romanian <gnomero-list@lists.sourceforge.net>
+terminator,292,0,1230,74,0,341,299,1522,19.185282522996058,Romanian (https://www.transifex.com/terminator/teams/109338/ro/)
+texi2html,510,770,363,50,72,59,520,1643,31.0407790626902,Romanian <translation-team-ro@lists.sourceforge.net>
+texinfo,6511,38,9,979,8,3,7195,6558,99.28331808478194,Romanian <translation-team-ro@lists.sourceforge.net>
+thonny,1813,0,0,421,0,0,1881,1813,100.0,
+thunar-archive-plugin,88,0,0,15,0,0,101,88,100.0,Romanian (http://www.transifex.com/xfce/thunar-plugins/language/ro/)
+thunar-media-tags-plugin,158,0,0,60,0,0,154,158,100.0,Romanian (http://www.transifex.com/xfce/thunar-plugins/language/ro/)
+thunar-volman,484,0,0,115,0,0,498,484,100.0,Romanian (http://www.transifex.com/xfce/thunar-volman/language/ro/)
+thunderbird,615,476,536,225,149,115,725,1627,37.79963122311002,Romanian <translation-team-ro@lists.sourceforge.net>
+tigervnc,1047,0,0,196,0,0,1233,1047,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+tilix,2444,71,295,668,13,41,2623,2810,86.97508896797153,Romanian <https://hosted.weblate.org/projects/tilix/manpage/ro/>
+timeshift,1415,0,1455,340,0,227,1569,2870,49.30313588850174,Romanian <ro@li.org>
+tomboy,6767,211,110,695,28,13,6879,7088,95.47121896162528,Gnome Romanian Translation Team
+toppler,524,2,17,211,1,10,566,543,96.50092081031308,Romanian <debian-l10n-romanian@lists.debian.org>
+totem,6052,0,0,637,0,0,6195,6052,100.0,Gnome Romanian Translation Team
+totem-pl-parser,29,0,0,8,0,0,29,29,100.0,Gnome Romanian Translation Team
+trac,726,583,13563,292,185,1185,784,14872,4.881656804733728,ro <trac-dev@googlegroups.com>
+tracker,580,0,0,110,0,0,700,580,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+tracker-miners,1824,0,0,294,0,0,2140,1824,100.0,Romanian Gnome Team <gnomero-list@lists.sourceforge.net>
+transmageddon,316,0,0,68,0,0,359,316,100.0,Gnome Romanian Translation Team
+transmission,929,0,1512,317,0,268,1206,2441,38.05817287996723,Romanian (https://app.transifex.com/transmissionbt/teams/33778/ro/)
+trojita,341,984,8119,186,454,1319,373,9444,3.6107581533248627,Romanian <kde-i18n-ro@kde.org>
+tumbler,148,0,0,25,0,0,186,148,100.0,Romanian (http://www.transifex.com/xfce/tumbler/language/ro/)
+tuxmath,867,182,406,169,27,53,865,1455,59.58762886597938,LANGUAGE <LL@li.org>
+tuxpaint,1041,1100,1622,233,122,106,1088,3763,27.664097794313047,Romanian <ro@li.org>
+tuxpaint-stamps,3115,74,60,776,16,13,3063,3249,95.8756540473992,
+txt2regex,201,0,49,70,0,10,218,250,80.4,
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+uget,119,0,966,20,0,342,139,1085,10.967741935483872,Romanian (http://www.transifex.com/uget/uget/language/ro/)
+umbrello,474,1600,4058,257,543,868,466,6132,7.729941291585127,Romanian <kde-i18n-ro@kde.org>
+usermode,570,0,3,95,0,1,573,573,99.47643979057592,Romanian (http://www.transifex.com/projects/p/fedora/language/ro/)
+vdrift,864,0,785,205,0,203,856,1649,52.39539114614919,Romanian (http://www.transifex.com/vdrift/vdrift/language/ro/)
+warmux,1584,406,754,283,84,105,2102,2744,57.7259475218659,Romanian <debian-l10n-romanian@lists.debian.org>
+warzone2100,12209,0,3564,2575,0,763,13433,15773,77.40442528371267,Romanian
+wcd,8133,0,0,659,0,0,8697,8133,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+wdiff,101,782,110,16,110,24,102,993,10.171198388721049,Romanian <translation-team-ro@lists.sourceforge.net>
+webkitgtk,1834,415,374,425,85,60,1936,2623,69.91993900114373,Romanian <diacritice@googlegroups.com>
+wesnoth,315,1644,337509,145,572,20560,370,339468,0.0927922514051398,
+wget,4068,23,9,650,4,1,4812,4100,99.21951219512195,Romanian <translation-team-ro@lists.sourceforge.net>
+wget2,2376,190,65,439,32,9,2986,2631,90.3078677309008,Romanian <translation-team-ro@lists.sourceforge.net>
+widelands,901,0,82701,241,0,7774,958,83602,1.0777254132676253,Romanian (http://www.transifex.com/widelands/widelands/language/ro/)
+wine,10653,3172,5487,2720,707,857,11034,19312,55.162593206296606,Romanian
+wingpanel,6,0,10,1,0,2,6,16,37.5,Romanian <https://l10n.elementary.io/projects/wingpanel/wingpanel/ro/>
+wireplumber,3,0,0,2,0,0,3,3,100.0,Romanian
+workrave,1027,151,220,191,49,34,1087,1398,73.4620886981402,Romanian <LL@li.org>
+wxGTK,7837,0,0,1965,0,0,8651,7837,100.0,ro.ro
+wxGTK3,7590,47,58,1774,36,43,8481,7695,98.635477582846,ro.ro
+xaos,858,22,27,328,15,11,1057,907,94.59757442116869,The XaoS Development Team <xaos-devel@lists.sf.net>
+xapps,73,0,0,36,0,0,79,73,100.0,Romanian <ro@li.org>
+xarchiver,900,258,56,243,38,22,953,1214,74.13509060955519,Romanian <debian-l10n-romanian@lists.debian.org>
+xchm,193,21,25,81,8,9,203,239,80.75313807531381,Romanian <debian-l10n-romanian@lists.debian.org>
+xdg-desktop-portal,221,22,11,32,3,1,196,254,87.00787401574803,Romanian
+xdg-desktop-portal-gnome,225,0,0,62,0,0,252,225,100.0,Romanian; Moldavian; Moldovan <gnomero-list@lists.sourceforge.net>
+xdg-desktop-portal-kde,343,0,0,94,0,0,370,343,100.0,Romanian <kde-i18n-ro@kde.org>
+xdg-desktop-portal-xapp,225,0,0,62,0,0,252,225,100.0,Romanian; Moldavian; Moldovan <gnomero-list@lists.sourceforge.net>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,78,81,100.0,Romanian <ro@li.org>
+xed,3759,0,0,923,0,0,3999,3759,100.0,Romanian (http://www.transifex.com/projects/p/MATE/language/ro/)
+xfce4-appfinder,338,0,117,77,0,12,344,455,74.28571428571429,Romanian (http://www.transifex.com/xfce/xfce4-appfinder/language/ro/)
+xfce4-cpugraph-plugin,45,0,34,25,0,14,49,79,56.9620253164557,Romanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ro/)
+xfce4-datetime-plugin,52,0,0,19,0,0,54,52,100.0,Romanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ro/)
+xfce4-eyes-plugin,15,0,1,4,0,1,14,16,93.75,Romanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ro/)
+xfce4-netload-plugin,55,0,48,24,0,15,63,103,53.398058252427184,Romanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/ro/)
+xfce4-notes-plugin,96,0,77,39,0,26,87,173,55.49132947976878,Romanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/ro/)
+xfce4-notifyd,98,0,0,29,0,0,104,98,100.0,Romanian <debian-l10n-romanian@lists.debian.org>
+xfce4-panel,1510,0,444,389,0,100,1576,1954,77.27737973387923,Romanian (https://www.transifex.com/xfce/teams/16840/ro/)
+xfce4-panel-profiles,93,0,51,27,0,6,104,144,64.58333333333334,Romanian (https://app.transifex.com/xfce/teams/16840/ro/)
+xfce4-places-plugin,75,0,87,32,0,15,82,162,46.2962962962963,Romanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ro/)
+xfce4-power-manager,888,0,163,187,0,25,978,1051,84.49096098953378,Romanian (https://app.transifex.com/xfce/teams/16840/ro/)
+xfce4-screenshooter,236,0,372,52,0,40,222,608,38.81578947368421,Romanian (http://www.transifex.com/xfce/xfce-apps/language/ro/)
+xfce4-session,618,0,164,133,0,34,657,782,79.02813299232737,Romanian (https://app.transifex.com/xfce/teams/16840/ro/)
+xfce4-settings,1863,0,613,471,0,109,1960,2476,75.24232633279483,Romanian (https://www.transifex.com/xfce/teams/16840/ro/)
+xfce4-terminal,606,0,969,200,0,190,651,1575,38.476190476190474,Romanian (http://app.transifex.com/xfce/xfce-apps/language/ro/)
+xfce4-verve-plugin,47,0,0,10,0,0,55,47,100.0,Romanian <debian-l10n-romanian@lists.debian.org>
+xfce4-whiskermenu-plugin,321,0,108,106,0,31,327,429,74.82517482517483,Romanian (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ro/)
+xfce4-xkb-plugin,33,0,24,12,0,10,36,57,57.89473684210527,Romanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ro/)
+xfconf,444,0,14,65,0,2,478,458,96.94323144104804,Romanian (http://app.transifex.com/xfce/xfconf/language/ro/)
+xfdesktop,979,0,102,236,0,21,1068,1081,90.56429232192414,Romanian (https://www.transifex.com/xfce/teams/16840/ro/)
+xfwm4,605,0,61,164,0,14,663,666,90.84084084084084,Romanian (http://www.transifex.com/xfce/xfwm4/language/ro/)
+xiphos,2437,587,1957,708,181,251,2612,4981,48.925918490263,Xiphos <nick.laurentiu.nica@gmail.com>
+xkeyboard-config,3998,47,2,1241,7,2,4322,4047,98.78922658759575,Romanian <translation-team-ro@lists.sourceforge.net>
+xournalpp,4596,0,0,890,0,0,5025,4596,100.0,Romanian
+xpad,54,0,382,14,0,121,64,436,12.385321100917432,Romanian <translation-team-ro@lists.sourceforge.net>
+xreader,1625,0,0,380,0,0,1770,1625,100.0,Romanian (http://www.transifex.com/mate/MATE/language/ro/)
+xsane,2037,979,208,536,150,42,2182,3224,63.18238213399504,<C@li.org>
+xsnow,4136,0,0,582,0,0,4426,4136,100.0,None
+xz,12707,0,0,841,0,0,13891,12707,100.0,Romanian <translation-team-ro@lists.sourceforge.net>
+yakuake,1111,82,476,213,5,19,1077,1669,66.56680647094069,Romanian
+yelp,351,0,0,74,0,0,367,351,100.0,Gnome Romanian Translation Team
+yelp-xsl,88,0,0,64,0,0,90,88,100.0,Gnome Romanian Translation Team
+zabbix,7983,0,11397,2144,0,1804,9266,19380,41.191950464396285,Zabbix <info@zabbix.com>
+zenity,896,0,0,199,0,0,1000,896,100.0,Gnome Romanian Translation Team
+zypper,3671,643,5333,604,93,579,4111,9647,38.05328081268789,Romanian <https://l10n.opensuse.org/projects/zypper/master/ro/>

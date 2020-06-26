@@ -1,0 +1,68 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+apt,3713,394,6,450,26,2,4019,4113,90.27473863360078,European Portuguese <geral@caixamagica.pt>
+ardour,3941,0,456,1153,0,154,4403,4397,89.62929269956788,Portuguese
+bazaar,41,0,6483,9,0,399,48,6524,0.6284488044144696,Portuguese (Portugal) <pt_PT@li.org>
+boinc-client,4978,0,2597,917,0,389,5522,7575,65.7161716171617,LANGUAGE <LL@li.org>
+bygfoot,3623,48,49,755,11,8,3706,3720,97.39247311827957,Portuguese <LL@li.org>
+cairo-clock,270,0,0,60,0,0,325,270,100.0,Alfredo Matos <alfredo.matos@digitalself.org>
+chemtool,1164,0,20,249,0,12,1491,1184,98.3108108108108,European Portuguese
+childsplay,1226,0,0,212,0,0,1222,1226,100.0,<pt@li.org>
+claws-mail,14647,0,0,2952,0,0,17082,14647,100.0,Portuguese
+epdfview,483,0,0,137,0,0,525,483,100.0,
+filezilla,9089,9,4,1534,4,2,10816,9102,99.85717424741814,
+fuse-encfs,757,8,550,101,2,36,907,1315,57.56653992395437,Portuguese (Portugal) <pt_PT@li.org>
+gdeskcal,109,0,0,47,0,0,121,109,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+geany-plugins,589,56,1583,166,24,322,671,2228,26.436265709156192,Portuguese
+gnomebaker,1113,21,52,276,5,10,1219,1186,93.84485666104553,portuguese <pt@li.org>
+gnubik,213,2,2,56,1,1,214,217,98.15668202764977,"Portuguese <daniel.marujo@gmail.com>,<joao@joaoferreira.org>"
+gourmet,55,132,3460,15,38,815,74,3647,1.508088840142583,Portuguese (Portugal) <pt_PT@li.org>
+homebank,460,0,1047,251,0,283,493,1507,30.524220305242206,Portuguese (Portugal) <pt_PT@li.org>
+horde,7073,0,0,1939,0,0,8110,7073,100.0,Portugal Portuguese <dev@lists.horde.org>
+imp,5646,0,0,1134,0,0,6135,5646,100.0,Portuguese of Portugal <dev@lists.horde.org>
+ingo,767,0,0,207,0,0,869,767,100.0,Brazilian Portuguese <i18n@lists.horde.org>
+kronolith,1597,0,0,419,0,0,1665,1597,100.0,Portuguese of Portugal <dev@lists.horde.org>
+labyrinth,146,0,0,42,0,0,157,146,100.0,European Portuguese <pt-PT@li.org>
+liblicense,30,0,36,24,0,26,28,66,45.45454545454545,LANGUAGE <LL@li.org>
+mousepad,135,0,0,64,0,0,155,135,100.0,
+ntfs-config,29,36,292,5,12,42,35,357,8.123249299719888,Portuguese (Portugal) <pt_PT@li.org>
+pgadmin3,8643,323,40,2487,38,6,9993,9006,95.96935376415723,PgAdmin Developers <pgadmin-hackers@postgresql.org>
+phpesp,848,566,816,204,77,127,976,2230,38.026905829596416,pt_PT <jflemer@alum.rpi.edu>
+poedit,1143,19,0,266,3,0,1366,1162,98.36488812392426,Poedit translators <poedit-translators@lists.sourceforge.net>
+publican,0,0,169,0,0,27,0,169,0.0,None
+publican-fedora,107,0,0,6,0,0,106,107,100.0,pt <fedora-trans-pt@redhat.com>
+python-formencode,540,55,170,77,6,27,554,765,70.58823529411765,Pedro Algarvio <ufs@ufsoft.org>
+remmina,421,0,407,141,0,75,531,828,50.84541062801933,Portuguese (Portugal) <pt_PT@li.org>
+smolt,41,88,79,31,40,9,50,208,19.71153846153846,pt <fedora-trans-pt@redhat.com>
+squirrelmail,6116,0,0,1181,0,0,6542,6116,100.0,Portugues Iberico <squirrelmail-i18n@lists.sourceforge.net>
+subdownloader,965,0,0,278,0,0,1016,965,100.0,SubDownloader <capiscuas@gmail.com>
+subtitleeditor,304,644,869,150,222,174,324,1817,16.730875068794717,
+synaptic,2304,536,391,551,71,40,2543,3231,71.3091922005571,<pt@li.org>
+thunar-shares-plugin,180,1,0,33,1,0,204,181,99.4475138121547,
+turba,1308,0,0,301,0,0,1438,1308,100.0,Portuguese of Portugal <dev@lists.horde.org>
+tuxpaint,552,147,62,153,17,16,552,761,72.53613666228647,Portuguese <translation-team-pt@lists.sourceforge.net>
+tuxpaint-stamps,1045,500,1072,260,191,175,1081,2617,39.93121895299962,<pt@li.org>
+umit,1642,233,2718,337,109,431,1686,4593,35.75005443065534,pt_PT <LL@li.org>
+vdr,793,0,14,322,0,6,867,807,98.26517967781908,Portuguese
+vdr-epgsearch,38,0,2243,5,0,362,37,2281,1.6659359929855326,<vdr@linuxtv.org>
+vdr-osdteletext,41,0,0,19,0,0,48,41,100.0,Portuguese
+xarchiver,1131,0,0,277,0,0,1226,1131,100.0,
+xchm,198,17,30,73,7,12,214,245,80.81632653061224,Portuguese Team
+xfce4-battery-plugin,123,0,0,31,0,0,129,123,100.0,
+xfce4-cpugraph-plugin,44,0,0,25,0,0,49,44,100.0,
+xfce4-datetime-plugin,53,0,0,19,0,0,55,53,100.0,
+xfce4-diskperf-plugin,185,0,0,38,0,0,201,185,100.0,
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Portuguese <pt@li.org>
+xfce4-fsguard-plugin,64,0,0,19,0,0,77,64,100.0,
+xfce4-genmon-plugin,71,0,0,15,0,0,73,71,100.0,
+xfce4-icon-theme,8,0,0,2,0,0,9,8,100.0,
+xfce4-mailwatch-plugin,659,0,0,110,0,0,786,659,100.0,
+xfce4-mount-plugin,298,0,0,44,0,0,295,298,100.0,
+xfce4-notifyd,83,0,0,22,0,0,92,83,100.0,
+xfce4-radio-plugin,52,0,0,22,0,0,59,52,100.0,
+xfce4-taskmanager,67,0,0,31,0,0,77,67,100.0,
+xfce4-timer-plugin,94,0,0,32,0,0,102,94,100.0,
+xfce4-verve-plugin,47,0,0,10,0,0,53,47,100.0,
+xfce4-xfswitch-plugin,20,0,0,3,0,0,18,20,100.0,
+xfprint,321,1,0,112,1,0,347,322,99.68944099378882,
+xmoto,3528,0,1,745,0,1,3557,3529,99.97166336072542,Portuguese <LuisG280@hotmail.com>
+zarafa,3184,0,2007,1065,0,458,3392,5191,61.336929300712775,pt_PT <pt@li.org>

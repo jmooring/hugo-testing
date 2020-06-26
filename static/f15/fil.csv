@@ -1,0 +1,36 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,338,0,2998,147,0,577,469,3336,10.13189448441247,Filipino <fil@li.org>
+dexter,43,0,185,14,0,78,48,228,18.859649122807017,Filipino <fil@li.org>
+docky,37,0,562,9,0,164,35,599,6.176961602671119,Filipino <fil@li.org>
+etoys,16,0,29978,6,0,5096,20,29994,0.05334400213376009,
+gwibber,9,0,36,5,0,19,11,45,20.0,Filipino <fil@li.org>
+olpc-switch-desktop,153,0,5,12,0,2,163,158,96.83544303797468,LANGUAGE <LL@li.org>
+onboard,1,0,376,1,0,65,2,377,0.2652519893899204,Filipino <fil@li.org>
+phatch,1404,0,1149,497,0,327,1716,2553,54.99412455934195,Filipino <fil@li.org>
+stellarium,608,0,3868,228,0,1561,783,4476,13.58355674709562,Filipino <fil@li.org>
+sugar,0,0,741,0,0,212,0,741,0.0,LANGUAGE <LL@li.org>
+sugar-abacus,0,0,24,0,0,24,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,40,0,17,21,0,9,57,57,70.17543859649122,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,593,0,0,127,0,593,0.0,LANGUAGE <LL@li.org>
+sugar-chat,24,0,26,11,0,22,28,50,48.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,24,0,0,11,0,24,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,185,0,0,56,0,185,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,240,0,0,85,0,240,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,99,0,0,21,0,99,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,90,0,0,61,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,91,0,0,32,0,91,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,17,0,45,8,0,14,21,62,27.419354838709676,LANGUAGE <LL@li.org>
+sugar-read,0,0,57,0,0,29,0,57,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-surf,0,0,53,0,0,29,0,53,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,3,0,10,2,0,5,3,13,23.076923076923077,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,71,0,0,36,0,71,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,0,0,1208,1,0,354,0,1208,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,37,0,44,22,0,26,49,81,45.67901234567901,LANGUAGE <LL@li.org>
+transmission,101,0,1427,45,0,409,146,1528,6.609947643979057,Filipino <fil@li.org>
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net

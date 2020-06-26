@@ -1,0 +1,61 @@
+---
+title: "gn-Guarani (Avañe’ẽ) - translation progress for f10"
+date: 2026-01-17T07:56:32+00:00
+code: gn
+name_english: Guarani
+name_local: Avañe’ẽ
+progress: 53.91
+progress_d: 0.00
+release: f10
+territories:
+ - AR
+ - BO
+ - PY
+polib_error_count: 0
+could_not_process_count: 2
+---
+
+Language progress for Guarani (gn) in Fedora f10 is:
+
+* 53.91% when we only look on started packages for this language.
+* 0.00% when we compare to every single translatable string in Fedora f10.
+
+Possible scripts are: Latn
+
+* Total translatable string in Fedora f10: 5351743
+* Source words to translate in started packages: 230
+* Translated words: 124
+
+
+Download:
+
+
+
+
+* [gn generated stats (265 Bytes)]({{% resource url="/f10/gn.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [lxmenu-data]({{< ref "/f10/package/lxmenu-data.md" >}}) | 53 | 97 | 54.6 |  | 
+ | [gnome-menus]({{< ref "/f10/package/gnome-menus.md" >}}) | 71 | 133 | 53.4 |  | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

@@ -1,0 +1,68 @@
+---
+title: "libmx - translation progress for f19"
+package: libmx
+date: 2026-01-20T03:37:12+00:00
+started_languages: 30
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 30
+release: f19
+---
+The package libmx (version 1.4.7):
+
+* represents 40 source words to be translated
+* is translated into 30 languages in Fedora f19
+
+
+* contains 30 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ast]({{< ref "/f19/language/ast.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/ast.po | 
+ | [ca]({{< ref "/f19/language/ca.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/ca.po | 
+ | [da]({{< ref "/f19/language/da.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/da.po | 
+ | [de]({{< ref "/f19/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/de.po | 
+ | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/en_GB.po | 
+ | [eo]({{< ref "/f19/language/eo.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/eo.po | 
+ | [es]({{< ref "/f19/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/es.po | 
+ | [es_MX]({{< ref "/f19/language/es_MX.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/es_MX.po | 
+ | [fi]({{< ref "/f19/language/fi.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/fi.po | 
+ | [fr]({{< ref "/f19/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/fr.po | 
+ | [id]({{< ref "/f19/language/id.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/id.po | 
+ | [it]({{< ref "/f19/language/it.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/it.po | 
+ | [ja]({{< ref "/f19/language/ja.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/ja.po | 
+ | [ko]({{< ref "/f19/language/ko.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/ko.po | 
+ | [nl]({{< ref "/f19/language/nl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/nl.po | 
+ | [pa]({{< ref "/f19/language/pa.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/pa.po | 
+ | [pl]({{< ref "/f19/language/pl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/pl.po | 
+ | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/pt_BR.po | 
+ | [ro]({{< ref "/f19/language/ro.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/ro.po | 
+ | [ru]({{< ref "/f19/language/ru.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/ru.po | 
+ | [sv]({{< ref "/f19/language/sv.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/sv.po | 
+ | [tr]({{< ref "/f19/language/tr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/tr.po | 
+ | [wa]({{< ref "/f19/language/wa.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/wa.po | 
+ | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/zh_CN.po | 
+ | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f19/libmx/po/zh_TW.po | 
+ | [sk]({{< ref "/f19/language/sk.md" >}}) | 34 | 40 | 85.0 | /mnt/stockage/packages/f19/libmx/po/sk.po | 
+ | [lo]({{< ref "/f19/language/lo.md" >}}) | 16 | 40 | 40.0 | /mnt/stockage/packages/f19/libmx/po/lo.po | 
+ | [hu]({{< ref "/f19/language/hu.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f19/libmx/po/hu.po | 
+ | [th]({{< ref "/f19/language/th.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f19/libmx/po/th.po | 
+ | [uk]({{< ref "/f19/language/uk.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f19/libmx/po/uk.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

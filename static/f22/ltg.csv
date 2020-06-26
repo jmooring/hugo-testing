@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,6,0,147022,3,0,17230,6,147028,0.0040808553472807905,Latgalian (http://www.transifex.com/calibre/calibre/language/ltg/)
+gnome-do,19,0,593,9,0,135,20,612,3.104575163398693,Latgalian <ltg@li.org>
+spacefm,6819,0,2004,1474,0,129,5937,8823,77.28663719823189,Latgalian (http://www.transifex.com/p/spacefm/language/ltg/)

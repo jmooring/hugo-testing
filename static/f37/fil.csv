@@ -1,0 +1,48 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,419,159,8065,79,36,1300,483,8643,4.847853754483397,Filipino <https://translate.fedoraproject.org/projects/anaconda/master/fil/>
+aria2,68,0,7418,7,0,392,81,7486,0.9083622762489982,Filipino <fil@li.org>
+blueberry,24,0,148,7,0,32,33,172,13.953488372093023,Filipino <fil@li.org>
+calibre,2870,0,168763,407,0,18974,3436,171633,1.6721726008401647,Filipino (http://www.transifex.com/calibre/calibre/language/fil/)
+cinnamon-translations,2093,0,15857,699,0,3201,2675,17950,11.66016713091922,Filipino <fil@li.org>
+deepin-daemon,9,0,1473,3,0,448,8,1482,0.6072874493927125,Filipino (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/fil/)
+folder-color-switcher,51,0,14,22,0,1,53,65,78.46153846153847,Filipino <fil@li.org>
+fragments,164,0,1842,83,0,443,233,2006,8.175473579262214,Filipino (https://www.transifex.com/transmissionbt/teams/33778/fil/)
+godot3,850,968,283327,351,457,17210,1097,285145,0.29809395219975804,Filipino <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/fil/>
+granite,0,0,498,0,0,118,0,498,0.0,none
+iso-codes,1449,0,6922,664,0,4903,1522,8371,17.30975988531836,Filipino <https://hosted.weblate.org/projects/iso-codes/iso-15924/fil/>
+libdnf,8,0,1656,1,0,237,9,1664,0.4807692307692308,Filipino
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Filipino (http://www.transifex.com/mate/MATE/language/fil/)
+mate-applets,191,0,2669,5,0,190,88,2860,6.678321678321679,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mate-menu,12,0,296,6,0,104,19,308,3.896103896103896,Filipino (http://www.transifex.com/mate/MATE/language/fil/)
+mate-menus,1,0,102,1,0,38,2,103,0.9708737864077669,Filipino (https://app.transifex.com/mate/teams/13566/fil/)
+mate-panel,64,0,878,2,0,61,30,942,6.794055201698514,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Filipino (http://app.transifex.com/mate/MATE/language/fil/)
+mate-utils,64,0,1891,2,0,92,30,1955,3.273657289002557,Filipino (https://www.transifex.com/mate/teams/13566/fil/)
+mediawriter,749,30,66,141,8,13,891,845,88.63905325443787,Filipino <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/fil/>
+minetest,2285,187,7051,584,43,728,2847,9523,23.994539535860547,Filipino <https://hosted.weblate.org/projects/minetest/minetest/fil/>
+mingw-mediawriter,749,30,66,141,8,13,891,845,88.63905325443787,Filipino <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/fil/>
+nemo-extensions,1,0,7,1,0,1,2,8,12.5,Filipino <fil@li.org>
+onboard,2,0,2316,2,0,508,4,2318,0.08628127696289906,Filipino <fil@li.org>
+pinta,94,0,1652,68,0,469,126,1746,5.383734249713632,Filipino <fil@li.org>
+policycoreutils,15,0,10115,15,0,1581,19,10130,0.14807502467917077,Filipino
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+rpm-ostree,8,0,1472,1,0,228,9,1480,0.5405405405405406,Filipino
+slick-greeter,41,0,170,18,0,29,44,211,19.431279620853083,Filipino <fil@li.org>
+sugar,7,0,2298,2,0,527,8,2305,0.3036876355748373,LANGUAGE <LL@li.org>
+sugar-browse,26,18,290,17,2,52,33,334,7.784431137724551,LANGUAGE <LL@li.org>
+sugar-chat,30,0,107,12,0,69,34,137,21.897810218978105,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,3,0,136,3,0,45,3,139,2.158273381294964,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,5,0,269,4,0,62,5,274,1.824817518248175,LANGUAGE <LL@li.org>
+sugar-read,24,0,113,14,0,36,28,137,17.51824817518248,LANGUAGE <LL@li.org>
+sugar-record,3,0,59,1,0,23,3,62,4.838709677419355,LANGUAGE <LL@li.org>
+sugar-speak,3,0,224,1,0,73,3,227,1.3215859030837005,LANGUAGE <LL@li.org>
+sugar-terminal,1,0,120,1,0,25,1,121,0.8264462809917356,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,85,1,127,49,1,73,93,213,39.906103286384976,LANGUAGE <LL@li.org>
+sugar-turtleart,0,0,1459,0,0,435,0,1459,0.0,LANGUAGE <LL@li.org>
+sugar-write,36,0,85,21,0,34,48,121,29.75206611570248,LANGUAGE <LL@li.org>
+transmission,104,0,2337,61,0,524,163,2441,4.260548955346169,Filipino (https://app.transifex.com/transmissionbt/teams/33778/fil/)
+visualboyadvance-m,0,0,2393,0,0,895,0,2393,0.0,Filipino (http://www.transifex.com/bgk/vba-m/language/fil/)

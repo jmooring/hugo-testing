@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,94856,0,78559,31016,0,8022,108204,173415,54.69884381397227,Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/vec/>
+slick-greeter,211,0,5,47,0,2,209,216,97.68518518518519,Venetian <vec@li.org>
+tuxpaint,1148,1493,2714,252,149,214,1198,5355,21.437908496732025,none
+tuxpaint-stamps,3220,29,0,800,5,0,3283,3249,99.10741766697446,none

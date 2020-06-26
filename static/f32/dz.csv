@@ -1,0 +1,285 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4004,0,0,477,0,0,2148,4004,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+NetworkManager,2,907,23407,2,236,1857,2,24316,0.008225037012666556,Dzongkha <pgeyleg@dit.gov.bt>
+NetworkManager-libreswan,5,42,418,3,12,61,5,465,1.0752688172043012,Dzongkha <pgeyleg@dit.gov.bt>
+NetworkManager-openvpn,31,94,924,9,36,124,10,1049,2.9551954242135365,Dzongkha <pgeyleg@dit.gov.bt>
+NetworkManager-ssh,19,37,230,5,14,50,7,286,6.643356643356643,Dzongkha <pgeyleg@dit.gov.bt>
+NetworkManager-vpnc,328,0,0,52,0,0,121,328,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+accerciser,341,0,0,158,0,0,241,341,100.0,dzongkha <pgeyleg@dit.gov.bt>
+aisleriot,1460,429,98,406,113,30,607,1987,73.47760442878712,DZONGKHA <pgeyleg@dit.gov.bt>
+alacarte,42,0,0,16,0,0,18,42,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+alleyoop,351,0,0,89,0,0,123,351,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+anjuta,7109,0,0,1932,0,0,2302,7109,100.0,dzongkha <pgeyleg@dit.gov.bt>
+apt,2323,1178,1902,379,159,172,696,5403,42.994632611512124,Dzongkha <pgeyleg@dit.gov.bt>
+asunder,17,0,475,15,0,76,15,492,3.4552845528455287,http://littlesvr.ca/ostd/
+atk,370,1,4,123,1,2,188,375,98.66666666666667,DZONGKHA <pgeyleg@dit.gov.bt>
+atomix,146,0,0,59,0,0,76,146,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+atril,679,0,3167,236,0,405,341,3846,17.65470618824753,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+balsa,5764,0,0,1382,0,0,2771,5764,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+banshee,4439,0,0,1008,0,0,1748,4439,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+baobab,285,103,152,90,24,12,133,540,52.77777777777778,DZONGKHA <pgeyleg@dit.gov.bt>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+brasero,3949,0,0,752,0,0,1203,3949,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+byzanz,249,0,0,42,0,0,72,249,100.0,dzongkha <pgeyleg@dit.gov.bt>
+caja,3927,0,5698,841,0,754,1805,9625,40.8,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+caja-actions,1257,234,37,150,17,2,348,1528,82.26439790575915,
+caja-extensions,97,3,571,30,3,113,36,671,14.456035767511178,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+camorama,500,94,181,114,20,32,155,775,64.51612903225806,Dzongkha <pgeyleg@dit.gov.bt>
+cheese,304,0,0,59,0,0,183,304,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+cinnamon-desktop,0,14,220,0,2,30,0,234,0.0,DZONGKHA <pgeyleg@dit.gov.bt>
+cinnamon-translations,119,0,3401,16,0,863,43,3520,3.380681818181818,DZONGKHA <pgeyleg@dit.gov.bt>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dasher,460,0,0,181,0,0,264,460,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+debconf,737,65,60,84,6,4,304,862,85.49883990719258,Dzongkha <pgeyleg@dit.gov.bt>
+deepin-terminal,116,0,0,20,0,0,62,116,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+devhelp,273,0,0,62,0,0,96,273,100.0,dzongkha <pgeyleg@dit.gov.bt>
+dia,5686,0,0,2040,0,0,3305,5686,100.0,dzongkha <pgeyleg@dit.gov.bt>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dpkg,2394,5082,1856,339,603,223,1058,9332,25.653664809258466,Dzongkha <pgeyleg@dit.gov.bt>
+ekiga,5250,0,0,768,0,0,2240,5250,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,0,0,1151,0,0,257,0,1151,0.0,LANGUAGE <LL@li.org>
+elementary-files,0,0,2911,0,0,559,0,2911,0.0,LANGUAGE <LL@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,0,0,3910,0,0,806,0,3910,0.0,LANGUAGE <LL@li.org>
+elementary-planner,0,0,2998,0,0,573,0,2998,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,0,0,346,0,0,90,0,346,0.0,
+engrampa,934,0,6974,224,0,664,464,7908,11.810824481537683,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+eog,1152,0,0,270,0,0,585,1152,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+eom,879,0,4072,229,0,313,456,4951,17.7539890931125,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+epiphany,4246,0,0,918,0,0,2200,4246,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+evince,1002,0,0,292,0,0,467,1002,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+evolution,20812,0,0,4865,0,0,10887,20812,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+evolution-data-server,5021,0,0,1042,0,0,2638,5021,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+file-roller,1159,0,0,259,0,0,570,1159,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+five-or-more,158,55,69,46,15,4,85,282,56.02836879432624,DZONGKHA <pgeyleg@dit.gov.bt>
+four-in-a-row,109,46,101,41,16,16,62,256,42.578125,DZONGKHA <pgeyleg@dit.gov.bt>
+gala,0,0,140,0,0,34,0,140,0.0,none
+gconf-editor,329,0,0,97,0,0,203,329,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gcr,1,67,554,1,21,205,1,622,0.1607717041800643,DZONGKHA <pgeyleg@dit.gov.bt>
+gdk-pixbuf2,1095,202,51,162,35,5,573,1348,81.23145400593472,DZONGKHA <pgeyleg@dit.gov.bt>
+gdm,50,236,364,12,37,38,22,650,7.6923076923076925,DZONGKHA <pgeyleg@dit.gov.bt>
+gedit,4983,0,0,1099,0,0,2458,4983,100.0,<en@li.org>
+gedit-plugins,854,205,146,374,63,32,541,1205,70.87136929460581,<en@li.org>
+genius,6253,0,0,845,0,0,1660,6253,100.0,dzongkha <pgeyleg@dit.gov.bt>
+gftp,3375,0,0,634,0,0,1414,3375,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+ggz-base-libs,74,0,0,17,0,0,27,74,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+ggz-gtk-client,859,0,0,267,0,0,419,859,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+ghex,966,0,0,275,0,0,470,966,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+gimp,19578,5201,1813,5065,1584,296,9408,26592,73.62364620938628,Dzongkha <pgeyleg@dit.gov.bt>
+glade2,5910,0,0,1311,0,0,1423,5910,100.0,dzongkha <pgeyleg@dit.gov.bt>
+glib2,1138,637,3002,166,123,458,621,4777,23.822482729746703,DZONGKHA <pgeyleg@dit.gov.bt>
+glom,2545,0,0,470,0,0,826,2545,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+gnome-applets,3308,0,0,783,0,0,1797,3308,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-backgrounds,18,0,0,9,0,0,11,18,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-calculator,1175,0,0,410,0,0,812,1175,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-chess,121,967,302,38,154,45,59,1390,8.70503597122302,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-commander,7568,194,122,1302,69,52,2077,7884,95.99188229325215,dzongkha <pgeyleg@dit.gov.bt>
+gnome-control-center,3067,0,0,757,0,0,1479,3067,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-desktop,283,0,0,69,0,0,161,283,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-desktop3,283,0,0,69,0,0,161,283,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-dictionary,757,61,15,163,13,7,273,833,90.8763505402161,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-doc-utils,238,0,0,92,0,0,170,238,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-font-viewer,0,9,23,0,7,11,0,32,0.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-icon-theme,51,0,0,46,0,0,47,51,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-keyring,148,131,211,25,19,65,69,490,30.20408163265306,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-klotski,66,40,88,41,13,5,54,194,34.02061855670103,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-mahjongg,49,76,179,27,24,12,39,304,16.11842105263158,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-menus,165,0,0,58,0,0,88,165,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-mines,88,129,127,26,35,11,46,344,25.581395348837212,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-mud,1080,0,0,234,0,0,336,1080,100.0,dzongkha <pgeyleg@dit.gov.bt>
+gnome-nettool,573,0,0,197,0,0,362,573,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-nibbles,144,120,183,53,39,18,73,447,32.21476510067114,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-panel,2844,411,265,397,71,40,1204,3520,80.79545454545455,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-phone-manager,502,0,0,112,0,0,181,502,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+gnome-power-manager,32,222,178,21,61,62,21,432,7.4074074074074066,Dzongkha <pgeyleg@dit.gov.bt>
+gnome-robots,386,98,113,70,21,6,161,597,64.65661641541038,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-screensaver,955,0,0,152,0,0,378,955,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+gnome-screenshot,143,116,60,34,19,6,56,319,44.827586206896555,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-search-tool,1207,72,80,164,12,24,625,1359,88.81530537159676,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-session,899,0,0,130,0,0,348,899,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-settings-daemon,441,130,463,73,35,63,176,1034,42.649903288201166,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-subtitles,504,0,0,199,0,0,355,504,100.0,dzongkha <pgeyleg@dit.gov.bt>
+gnome-sudoku,24,125,250,14,38,20,22,399,6.015037593984962,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-system-log,232,77,213,50,20,24,94,522,44.44444444444444,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-system-monitor,868,0,0,230,0,0,501,868,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-terminal,3098,548,499,342,84,61,1233,4145,74.7406513872135,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-tetravex,35,72,113,17,14,14,29,220,15.909090909090908,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-themes,85,0,0,26,0,0,39,85,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-user-share,75,0,0,16,0,0,33,75,100.0,Dzongkha <pgyeleg@dit.gov.bt>
+gnome-vfs2,1508,0,0,301,0,0,821,1508,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Dzongkha <pgeyleg@dit.gov.bt>
+gnumeric,10502,4965,19579,2513,946,2183,4358,35046,29.96632996632997,Dzongkha <pgeyleg@dit.gov.bt>
+gparted,1274,0,0,279,0,0,660,1274,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+granite,0,0,269,0,0,88,0,269,0.0,
+gthumb,3121,0,0,921,0,0,1742,3121,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+gtk2,10421,2118,1165,1914,648,222,4349,13704,76.04349095154699,DZONGKHA <pgeyleg@dit.gov.bt>
+gtk2-engines,83,0,0,33,0,0,39,83,100.0,dzongkha <pgeyleg@dit.gov.bt>
+gtk3,8408,2190,1255,1576,671,240,3395,11853,70.93562811102674,DZONGKHA <pgeyleg@dit.gov.bt>
+gtk4,8408,2190,1255,1576,671,240,3395,11853,70.93562811102674,DZONGKHA <pgeyleg@dit.gov.bt>
+gtkhtml3,947,0,0,409,0,0,547,947,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gtksourceview2,994,0,0,385,0,0,677,994,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gtksourceview3,72,87,163,16,25,65,44,322,22.36024844720497,DZONGKHA <pgeyleg@dit.gov.bt>
+gtksourceview4,994,0,0,385,0,0,677,994,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+gtranslator,1230,0,0,333,0,0,586,1230,100.0,dzongkha <pgyeleg@dit.gov.bt>
+gucharmap,772,0,0,281,0,0,473,772,100.0,DZONGKHAE <pgeyleg@dit.gov.bt>
+gwget,542,0,0,191,0,0,270,542,100.0,dzongkha <pgeyleg@dit.gov.bt>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iagno,38,97,187,19,29,24,32,322,11.801242236024844,DZONGKHA <pgeyleg@dit.gov.bt>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Dzongkha (http://www.transifex.com/projects/p/initial-setup/language/dz/)
+inkscape,7229,13351,20349,1607,4298,2763,2891,40929,17.662293239512326,Dzongkha <pgeyleg@dit.gov.bt>
+iso-codes,1020,54,12,429,16,6,758,1086,93.92265193370166,Dzongkha <pgyeleg@dit.gov.bt>
+isomaster,38,1,635,24,1,82,26,674,5.637982195845697,http://littlesvr.ca/ostd/
+libbonobo,547,0,0,108,0,0,293,547,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+libbonoboui,368,0,0,115,0,0,202,368,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+libcryptui,3660,0,0,754,0,0,1507,3660,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+libgda,1488,4042,5612,359,889,806,543,11142,13.354873451803984,dzongkha <pgeyleg@dit.gov.bt>
+libgdl,612,0,0,98,0,0,227,612,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+libgnome,1648,0,0,254,0,0,744,1648,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+libgnomecanvas,378,0,0,95,0,0,172,378,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+libgnomekbd,277,0,0,50,0,0,101,277,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+libgnomeui,1335,0,0,335,0,0,666,1335,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+libgtop2,113,13,0,39,1,0,73,126,89.68253968253968,<en@li.org>
+libgweather,10353,9,4,6759,5,4,9708,10366,99.87459000578815,DZONGKHA <pgeyleg@dit.gov.bt>
+libmatekbd,163,0,145,39,0,52,75,308,52.922077922077925,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+libmatemixer,5,0,237,5,0,121,5,242,2.066115702479339,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+libmateweather,3622,0,2520,2769,0,1805,3465,6142,58.97101921198307,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+libmypaint,2,2,2299,2,1,159,2,2303,0.08684324793747286,Dzongkha <https://hosted.weblate.org/projects/mypaint/libmypaint/dz/>
+libmypaint2,2,2,2307,2,1,159,2,2311,0.08654262224145391,Dzongkha <https://hosted.weblate.org/projects/mypaint/libmypaint/dz/>
+libnma,12,170,735,8,61,126,10,917,1.3086150490730644,Dzongkha <pgeyleg@dit.gov.bt>
+light-locker,7,0,253,2,0,35,3,260,2.6923076923076925,Dzongkha (http://www.transifex.com/the_cavalry/light-locker/language/dz/)
+lightsoff,3,25,69,3,9,7,11,97,3.0927835051546393,DZONGKHA <pgeyleg@dit.gov.bt>
+lxmenu-data,97,0,0,37,0,0,46,97,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+marco,2474,0,1865,314,0,117,1197,4339,57.01774602442959,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-applets,1794,9,14050,431,3,1168,997,15853,11.316470068756702,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-backgrounds,4,0,61,2,0,29,2,65,6.153846153846154,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-calc,86,0,3092,68,0,651,99,3178,2.7061044682190056,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-control-center,1391,0,7211,413,0,1099,709,8602,16.170657986514765,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-desktop,581,0,1643,108,0,177,276,2224,26.124100719424458,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-icon-theme,4,0,0,2,0,0,2,4,100.0,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-media,20,0,219,16,0,83,16,239,8.368200836820083,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-menu,57,0,251,30,0,80,39,308,18.506493506493506,Dzongkha (http://www.transifex.com/mate/MATE/language/dz/)
+mate-menus,97,0,0,37,0,0,46,97,100.0,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-notification-daemon,3,0,149,2,0,39,2,152,1.9736842105263157,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-panel,3682,0,3045,490,0,312,1602,6727,54.73465140478668,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-polkit,3,0,120,3,0,18,3,123,2.4390243902439024,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-power-manager,991,0,4148,191,0,363,344,5139,19.283907374975676,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-screensaver,820,0,200,139,0,30,335,1020,80.3921568627451,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-sensors-applet,20,0,2140,20,0,206,36,2160,0.9259259259259258,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-session-manager,166,0,546,57,0,74,85,712,23.314606741573034,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-settings-daemon,352,0,1845,62,0,256,145,2197,16.0218479745107,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-system-monitor,513,0,4398,198,0,460,328,4911,10.445937690897985,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-terminal,3014,0,5358,362,0,436,1221,8372,36.00095556617296,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-themes,9,0,65,3,0,20,4,74,12.162162162162163,Dzongkha (http://www.transifex.com/mate/MATE/language/dz/)
+mate-user-admin,9,0,619,8,0,123,8,628,1.4331210191082804,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-user-guide,129,0,42841,77,0,3152,93,42970,0.30020944845240866,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+mate-utils,2703,0,7601,549,0,580,1188,10304,26.232531055900623,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+meld,849,0,0,238,0,0,432,849,100.0,dzongkha <pgeyleg@dit.gov.bt>
+metacity,7931,0,0,513,0,0,3636,7931,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+mingw-GConf2,4004,0,0,477,0,0,2148,4004,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+mingw-atk,370,1,4,123,1,2,188,375,98.66666666666667,DZONGKHA <pgeyleg@dit.gov.bt>
+mingw-gdk-pixbuf,1095,202,51,162,35,5,573,1348,81.23145400593472,DZONGKHA <pgeyleg@dit.gov.bt>
+mingw-glib2,1138,637,3002,166,123,458,621,4777,23.822482729746703,DZONGKHA <pgeyleg@dit.gov.bt>
+mingw-gtk2,10421,2118,1165,1914,648,222,4349,13704,76.04349095154699,DZONGKHA <pgeyleg@dit.gov.bt>
+mingw-gtk3,8408,2190,1255,1576,671,240,3395,11853,70.93562811102674,DZONGKHA <pgeyleg@dit.gov.bt>
+mingw-gtksourceview3,72,87,163,16,25,65,44,322,22.36024844720497,DZONGKHA <pgeyleg@dit.gov.bt>
+mozo,42,0,1,16,0,1,18,43,97.67441860465115,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+muffin,7931,0,0,513,0,0,3636,7931,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+mutter,7931,0,0,513,0,0,3636,7931,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+mypaint,13,6,6554,12,4,1264,12,6573,0.19777879202799328,Dzongkha <https://hosted.weblate.org/projects/mypaint/mypaint/dz/>
+nautilus,7054,10,2,1172,3,1,3098,7066,99.83017265779792,DZONGKHA <pgeyleg@dit.gov.bt>
+nautilus-sendto,173,0,0,39,0,0,56,173,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+nemiver,675,0,0,199,0,0,270,675,100.0,LANGUAGE <LL@li.org>
+nemo-extensions,214,0,0,34,0,0,62,214,100.0,dzongkha <pgeyleg@dit.gov.bt>
+network-manager-applet,71,860,3547,33,239,647,41,4478,1.5855292541313084,Dzongkha <pgeyleg@dit.gov.bt>
+newt,4,0,0,4,0,0,4,4,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,1941,0,0,718,0,0,1025,1941,100.0,Dzongkha <pgeyleg@dit.giv.bt>
+pan,1900,647,621,480,151,121,1084,3168,59.97474747474747,Dzongkha <pgeyleg@dit.gov.bt>
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+pidgin,8642,0,7114,2030,0,1403,3874,15756,54.84894643310485,Dzongkha (http://www.transifex.com/pidgin/pidgin/language/dz/)
+pitivi,698,63,226,146,11,68,253,987,70.7193515704154,dzongkha <pgeyleg@dit.gov.bt>
+pluma,3644,0,9476,957,0,1119,1882,13120,27.77439024390244,Dzongkha (https://www.transifex.com/mate/teams/13566/dz/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Dzongkha (http://www.transifex.com/projects/p/fedora/language/dz/)
+python-meh,0,0,109,0,0,23,0,109,0.0,Dzongkha (http://www.transifex.com/projects/p/python-meh/language/dz/)
+quadrapassel,229,80,119,57,18,4,96,428,53.50467289719626,DZONGKHA <pgeyleg@dit.gov.bt>
+regexxer,467,0,0,100,0,0,210,467,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+rhythmbox,3813,0,0,826,0,0,1411,3813,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+sawfish,2370,1501,2572,539,249,194,623,6443,36.78410678255471,dzongkha <pgeyleg@dit.gov.bt>
+seahorse,3659,1,0,753,1,0,1506,3660,99.97267759562841,Dzongkha <pgeyleg@dit.gov.bt>
+seahorse-caja,341,23,57,87,5,18,174,421,80.9976247030879,Dzongkha <pgeyleg@dit.gov.bt>
+seahorse-nautilus,341,23,57,87,5,18,174,421,80.9976247030879,Dzongkha <pgeyleg@dit.gov.bt>
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Dzongkha (http://www.transifex.com/projects/p/fedora/language/dz/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Dzongkha (http://www.transifex.com/projects/p/fedora/language/dz/)
+shadow-utils,1022,1442,1998,209,213,228,529,4462,22.904527117884356,dzongkha <pgeyleg@dit.gov.bt>
+sound-juicer,872,0,0,155,0,0,424,872,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+sugar,16,102,2187,11,72,446,11,2305,0.6941431670281996,LANGUAGE <LL@li.org>
+sugar-browse,19,18,297,15,2,54,15,334,5.688622754491018,LANGUAGE <LL@li.org>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,3,0,272,2,0,65,3,275,1.090909090909091,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,12,0,125,9,0,41,9,137,8.75912408759124,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,1,0,120,1,0,25,1,121,0.8264462809917356,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,38,38,137,35,29,59,35,213,17.84037558685446,LANGUAGE <LL@li.org>
+sugar-turtleart,4,0,1455,3,0,432,3,1459,0.2741603838245374,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-write,53,0,68,31,0,24,36,121,43.80165289256198,LANGUAGE <LL@li.org>
+swell-foop,35,96,135,25,18,12,33,266,13.157894736842104,DZONGKHA <pgeyleg@dit.gov.bt>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,125,0,0,38,0,125,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,none
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,none
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,none
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,none
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,none
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+tali,300,37,84,74,16,7,152,421,71.25890736342043,DZONGKHA <pgeyleg@dit.gov.bt>
+thunar-vfs,313,6,68,65,1,20,104,387,80.87855297157623,Dzongkha <pgeyleg@dit.gov.bt>
+tomboy,1540,0,0,216,0,0,668,1540,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+totem,1929,0,0,425,0,0,882,1929,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+totem-pl-parser,1929,0,0,425,0,0,882,1929,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+tracker,693,66,99,153,22,22,288,858,80.76923076923077,Dzongkha <pgeyleg@dit.gov.bt>
+tracker-miners,693,66,99,153,22,22,288,858,80.76923076923077,Dzongkha <pgeyleg@dit.gov.bt>
+wingpanel,0,0,19,0,0,4,0,19,0.0,none
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,none
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,none
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,none
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,none
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,none
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,none
+xarchiver,329,570,293,92,125,80,150,1192,27.600671140939596,dzongkha <pgeyleg@dit.gov.bt>
+xdg-user-dirs-gtk,52,0,0,8,0,0,21,52,100.0,dzongkha <pgeyleg@dit.gov.bt>
+xed,2428,0,2212,685,0,319,1247,4640,52.32758620689655,Dzongkha (http://www.transifex.com/projects/p/MATE/language/dz/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,210,356,100.0,Dzongkha <pgeyleg@dit.gov.bt>
+xreader,573,0,1100,168,0,215,247,1673,34.2498505678422,Dzongkha (http://www.transifex.com/mate/MATE/language/dz/)
+yelp,957,0,0,239,0,0,501,957,100.0,DZONGKHA <pgeyleg@dit.gov.bt>
+yelp-xsl,49,189,0,34,58,0,42,238,20.588235294117645,DZONGKHA <pgeyleg@dit.gov.bt>
+zenity,554,0,0,129,0,0,267,554,100.0,DZONGKHA <pgeyleg@dit.gov.bt>

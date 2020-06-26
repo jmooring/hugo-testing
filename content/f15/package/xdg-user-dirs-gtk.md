@@ -1,0 +1,70 @@
+---
+title: "xdg-user-dirs-gtk - translation progress for f15"
+package: xdg-user-dirs-gtk
+date: 2026-01-17T09:45:43+00:00
+started_languages: 32
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 32
+release: f15
+---
+The package xdg-user-dirs-gtk (version 0.8):
+
+* represents 81 source words to be translated
+* is translated into 32 languages in Fedora f15
+
+
+* contains 32 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ar]({{< ref "/f15/language/ar.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/ar.po | 
+ | [be_Latn]({{< ref "/f15/language/be_Latn.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/be@latin.po | 
+ | [bg]({{< ref "/f15/language/bg.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/bg.po | 
+ | [ca]({{< ref "/f15/language/ca.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/ca.po | 
+ | [cs]({{< ref "/f15/language/cs.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/cs.po | 
+ | [de]({{< ref "/f15/language/de.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/de.po | 
+ | [dz]({{< ref "/f15/language/dz.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/dz.po | 
+ | [el]({{< ref "/f15/language/el.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/el.po | 
+ | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/en_GB.po | 
+ | [es]({{< ref "/f15/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/es.po | 
+ | [eu]({{< ref "/f15/language/eu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/eu.po | 
+ | [fi]({{< ref "/f15/language/fi.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/fi.po | 
+ | [fr]({{< ref "/f15/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/fr.po | 
+ | [hu]({{< ref "/f15/language/hu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/hu.po | 
+ | [it]({{< ref "/f15/language/it.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/it.po | 
+ | [ja]({{< ref "/f15/language/ja.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/ja.po | 
+ | [ka]({{< ref "/f15/language/ka.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/ka.po | 
+ | [ko]({{< ref "/f15/language/ko.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/ko.po | 
+ | [lt]({{< ref "/f15/language/lt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/lt.po | 
+ | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/nb.po | 
+ | [nl]({{< ref "/f15/language/nl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/nl.po | 
+ | [nn]({{< ref "/f15/language/nn.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/nn.po | 
+ | [pl]({{< ref "/f15/language/pl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/pl.po | 
+ | [ps]({{< ref "/f15/language/ps.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/ps.po | 
+ | [pt]({{< ref "/f15/language/pt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/pt.po | 
+ | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/pt_BR.po | 
+ | [sk]({{< ref "/f15/language/sk.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/sk.po | 
+ | [sl]({{< ref "/f15/language/sl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/sl.po | 
+ | [sq]({{< ref "/f15/language/sq.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/sq.po | 
+ | [sv]({{< ref "/f15/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/sv.po | 
+ | [af]({{< ref "/f15/language/af.md" >}}) | 78 | 81 | 96.3 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/af.po | 
+ | [oc]({{< ref "/f15/language/oc.md" >}}) | 20 | 81 | 24.7 | /mnt/stockage/packages/f15/xdg-user-dirs-gtk/po/oc.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

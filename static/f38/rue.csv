@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,8999,0,8338,2399,0,1647,8211,17337,51.906327507642615,Rusyn <rue@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+elementary-code,82,105,1427,37,34,219,80,1614,5.080545229244114,Rusyn <rue@li.org>
+elementary-files,0,0,2490,0,0,551,0,2490,0.0,LANGUAGE <LL@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,0,0,788,0,0,179,0,788,0.0,
+elementary-music,0,0,205,0,0,37,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+folder-color-switcher,65,0,0,23,0,0,50,65,100.0,Rusyn <rue@li.org>
+gala,0,0,249,0,0,51,0,249,0.0,none
+granite,5,10,483,3,4,111,5,498,1.0040160642570282,Rusyn <rue@li.org>
+granite-7,0,5,295,0,3,72,0,300,0.0,Rusyn <rue@li.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+wingpanel,0,0,16,0,0,3,0,16,0.0,LANGUAGE <LL@li.org>

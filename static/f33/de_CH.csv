@@ -1,0 +1,32 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,125,17,7875,20,4,1329,119,8017,1.5591867282025695,German (Switzerland) (http://www.transifex.com/projects/p/anaconda/language/de_CH/)
+atril,131,0,1676,13,0,406,117,1807,7.249584947426674,German (Switzerland) (https://www.transifex.com/mate/teams/13566/de_CH/)
+cmake-fedora,0,0,0,0,0,0,0,0,0.0,
+entangle,0,0,953,0,0,229,0,953,0.0,German (Switzerland)
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,German (Switzerland)
+fuse-encfs,1041,24,224,118,3,16,972,1289,80.76027928626843,German (Switzerland) <de_CH@li.org>
+grub2,6516,188,696,1248,42,86,6202,7400,88.05405405405405,German <translation-team-de@lists.sourceforge.net>
+im-chooser,0,0,254,0,0,58,0,254,0.0,LANGUAGE <LL@li.org>
+imsettings,0,0,485,0,0,88,0,485,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,German (Switzerland)
+libmatekbd,0,0,308,0,0,91,0,308,0.0,German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/)
+libuser,938,38,461,204,7,90,990,1437,65.27487821851079,German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/)
+libvirt-glib,0,0,158,0,0,31,0,158,0.0,German (Switzerland) (http://www.transifex.com/projects/p/libvirt-glib/language/de_CH/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/)
+mate-desktop,104,0,2120,9,0,276,108,2224,4.676258992805756,German (Switzerland) (https://www.transifex.com/mate/teams/13566/de_CH/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/)
+mc,0,0,4289,0,0,1273,0,4289,0.0,German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/)
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,German (Switzerland) (http://www.transifex.com/projects/p/libvirt-glib/language/de_CH/)
+pam,0,20,618,0,3,119,0,638,0.0,German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/)
+pgadmin3,7372,10214,5703,1852,2774,1251,7044,23289,31.654429129632017,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+php-php-gettext,18,0,0,2,0,0,15,18,100.0,
+policycoreutils,7,0,4486,7,0,691,7,4493,0.15579790785666592,German (Switzerland)
+publican,593,0,8473,59,0,1080,597,9066,6.540922126626958,<fedora-trans-de@redhat.com>
+pykickstart,128,43,1520,13,1,168,133,1691,7.569485511531639,German (Switzerland) (http://www.transifex.com/projects/p/pykickstart/language/de_CH/)
+python-blivet,52,0,506,7,0,69,41,558,9.31899641577061,German (Switzerland) (http://www.transifex.com/projects/p/blivet/language/de_CH/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,German (Switzerland)
+python-meh,0,0,109,0,0,23,0,109,0.0,German (Switzerland)
+python-wtforms,183,0,19,34,0,2,159,202,90.5940594059406,de_CH <LL@li.org>
+virt-viewer,0,0,854,0,0,193,0,854,0.0,German (Switzerland)
+volume_key,186,0,577,49,0,105,184,763,24.37745740498034,LANGUAGE <LL@li.org>

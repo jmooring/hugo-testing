@@ -1,0 +1,155 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,40,9,3905,19,2,440,40,3954,1.0116337885685383,Amharic <locales@geez.org>
+Thunar,19,0,3846,7,0,678,19,3865,0.49159120310478654,Amharic
+anaconda,2517,3780,3444,447,459,298,2105,9741,25.83923621804743,Amharic <am-translate@geez.org>
+atk,24,53,298,24,26,76,28,375,6.4,Amharic <locales@geez.org>
+atomix,46,0,79,26,0,18,61,125,36.8,Amharic <locales@geez.org>
+balsa,367,469,4512,231,200,856,481,5348,6.862378459237098,Amharic <locales@geez.org>
+camorama,24,0,445,18,0,96,29,469,5.11727078891258,Amharic <locales@geez.org>
+control-center,160,311,2911,111,168,457,179,3382,4.730928444707274,Amharic <locales@geez.org>
+devhelp,6,4,199,6,2,43,10,209,2.8708133971291865,Amharic <locales@geez.org>
+dia,355,534,4822,248,289,1509,395,5711,6.216074242689547,Amharic <locales@geez.org>
+ekiga,193,0,3622,119,0,446,214,3815,5.058977719528178,Amharic <locales@geez.org>
+eog,80,94,383,30,42,78,68,557,14.362657091561939,Amharic <locales@geez.org>
+epiphany,288,522,1922,197,251,317,350,2732,10.54172767203514,Amharic <locales@geez.org>
+etoys,0,0,29994,0,0,5102,0,29994,0.0,
+evolution,916,2450,13836,667,956,2657,948,17202,5.324962213696082,Amharic <locales@geez.org>
+evolution-data-server,99,672,3733,73,137,667,104,4504,2.1980461811722916,Amharic <locales@geez.org>
+exo,3,0,1595,3,0,298,4,1598,0.18773466833541927,Amharic
+file-roller,110,145,716,66,53,125,142,971,11.328527291452112,Amharic <locales@geez.org>
+firstboot,69,146,439,7,9,38,58,654,10.550458715596331,Amharic <am-translate@geez.org>
+galeon,860,0,3358,520,0,621,1024,4218,20.38880986249407,Amharic <locales@geez.org>
+gcalctool,78,55,782,83,49,246,80,915,8.524590163934425,Amharic <locales@geez.org>
+gcompris,107,9,3401,95,9,435,114,3517,3.0423656525447824,Amharic <locales@geez.org>
+gconf-editor,45,42,233,25,20,49,50,320,14.0625,Amharic <locales@geez.org>
+gdm,162,73,4729,101,51,501,171,4964,3.263497179693795,Amharic <locales@geez.org>
+gedit,521,553,3132,257,203,560,547,4206,12.387066096053259,Amharic <locales@geez.org>
+gftp,127,60,3188,112,45,477,149,3375,3.762962962962963,Amharic <locales@geez.org>
+ggz-gtk-client,3,0,0,3,0,0,3,3,100.0,Amharic <locales@geez.org>
+ghex,226,0,564,120,0,103,262,790,28.607594936708864,Amharic <locales@geez.org>
+gimp,570,0,6315,380,0,1341,642,6885,8.278867102396514,Amharic <locales@geez.org>
+glade2,343,96,5401,233,34,1033,371,5840,5.873287671232877,Amharic <locales@geez.org>
+glib2,12,366,3312,3,79,478,13,3690,0.3252032520325203,Amharic <locales@geez.org>
+gnome-applets,173,281,4688,113,159,988,190,5142,3.3644496304939717,Amharic <locales@geez.org>
+gnome-desktop,92,36,192,32,19,22,97,320,28.749999999999996,Amharic <locales@geez.org>
+gnome-desktop3,92,36,192,32,19,22,97,320,28.749999999999996,Amharic <locales@geez.org>
+gnome-do,0,0,612,0,0,144,0,612,0.0,Amharic <am@li.org>
+gnome-games,109,479,6478,88,282,1328,117,7066,1.5425983583356921,Amharic <locales@geez.org>
+gnome-icon-theme,21,7,24,21,3,22,21,52,40.38461538461539,Amharic <locales@geez.org>
+gnome-media,354,102,1339,243,56,208,390,1795,19.721448467966574,Amharic <locales@geez.org>
+gnome-mime-data,460,12,355,207,5,129,497,827,55.62273276904474,Amharic <locales@geez.org>
+gnome-panel,139,293,3505,73,113,331,145,3937,3.530607061214122,Amharic <locales@geez.org>
+gnome-pilot,90,8,1475,61,2,271,96,1573,5.72155117609663,Amharic <locales@geez.org>
+gnome-session,145,11,360,52,4,45,143,516,28.100775193798448,Amharic <locales@geez.org>
+gnome-settings-daemon,3,60,971,3,27,141,5,1034,0.2901353965183753,Amharic <locales@geez.org>
+gnome-system-monitor,74,33,395,43,20,80,90,502,14.741035856573706,Amharic <locales@geez.org>
+gnome-terminal,350,84,3978,180,29,308,372,4412,7.932910244786945,Amharic <locales@geez.org>
+gnome-themes,40,4,57,11,1,22,53,101,39.603960396039604,Amharic <locales@geez.org>
+gnome-utils,79,163,2374,60,63,349,94,2616,3.0198776758409784,Amharic <locales@geez.org>
+gnome-vfs2,32,12,1238,14,6,228,29,1282,2.49609984399376,Amharic <locales@geez.org>
+gnomeradio,38,0,405,21,0,79,44,443,8.577878103837472,Amharic <locales@geez.org>
+gnumeric,391,1653,33002,301,787,4554,474,35046,1.115676539405353,Amharic <locales@geez.org>
+goffice,43,553,4003,42,350,1168,53,4599,0.9349858664927158,Amharic <locales@geez.org>
+gok,108,77,1599,66,56,308,113,1784,6.053811659192825,Amharic <locales@geez.org>
+grass,318,134,4820,177,59,1160,292,5272,6.03186646433991,<grass-translations@lists.osgeo.org>
+gthumb,932,0,1166,451,0,273,1097,2098,44.4232602478551,Amharic <locales@geez.org>
+gtk2,225,1344,12135,137,499,2148,249,13704,1.6418563922942206,Amharic <locales@geez.org>
+gtk3,185,1281,10532,110,483,1896,200,11998,1.5419236539423236,Amharic <locales@geez.org>
+gtkhtml3,246,126,577,168,82,175,341,949,25.922023182297156,Amharic <locales@geez.org>
+gtranslator,261,65,1088,152,23,194,290,1414,18.458274398868458,Amharic <locales@geez.org>
+gucharmap,35,0,173,23,0,54,49,208,16.826923076923077,Amharic <locales@geez.org>
+homebank,0,0,1509,0,0,534,0,1509,0.0,Amharic <am@li.org>
+im-chooser,0,0,213,0,0,48,0,213,0.0,none
+imsettings,0,0,979,0,0,155,0,979,0.0,none
+inkscape,96,3613,22819,86,1695,3797,105,26528,0.3618817852834741,Amharic <locales@geez.org>
+iso-codes,425,3094,8840,370,2471,5801,402,12359,3.43878954607978,Amharic
+libbonobo,13,0,511,5,0,103,10,524,2.480916030534351,Amharic <locales@geez.org>
+libbonoboui,74,7,279,44,3,66,92,360,20.555555555555554,Amharic <locales@geez.org>
+libgdl,45,0,640,34,0,106,51,685,6.569343065693431,Amharic <locales@geez.org>
+libgnome,32,12,1363,16,6,197,39,1407,2.2743425728500357,Amharic <locales@geez.org>
+libgnomecanvas,45,0,312,28,0,66,53,357,12.605042016806722,Amharic <locales@geez.org>
+libgnomeprint22,53,0,115,46,0,52,57,168,31.547619047619047,Amharic <locales@geez.org>
+libgnomeprintui22,242,72,113,70,32,33,213,427,56.674473067915685,Amharic <locales@geez.org>
+libgnomeui,1103,61,255,282,20,43,930,1419,77.7307963354475,Amharic <locales@geez.org>
+libgtop2,12,0,122,9,0,35,12,134,8.955223880597014,Amharic <locales@geez.org>
+libgweather,14,17,429,11,11,157,14,460,3.0434782608695654,Amharic <locales@geez.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libvirt,1098,11343,8105,258,2092,1197,1098,20546,5.34410590869269,none
+libwnck,26,33,14,11,13,6,35,73,35.61643835616438,Amharic <locales@geez.org>
+libxfce4menu,2,0,29,1,0,4,2,31,6.451612903225806,Amharic
+libxfce4util,184,229,0,2,2,0,184,413,44.55205811138014,Amharic <l10n-am@googlegroups.com>
+libxfcegui4,81,10,143,25,6,30,72,234,34.61538461538461,Amharic <l10n-am@googlegroups.com>
+metacity,162,47,6710,57,16,391,201,6919,2.341378811967047,Amharic <locales@geez.org>
+mingw32-atk,24,53,298,24,26,76,28,375,6.4,Amharic <locales@geez.org>
+mingw32-glib2,12,366,3312,3,79,478,13,3690,0.3252032520325203,Amharic <locales@geez.org>
+mingw32-gtk2,225,1344,12135,137,499,2148,249,13704,1.6418563922942206,Amharic <locales@geez.org>
+mingw32-gtkhtml3,246,126,577,168,82,175,341,949,25.922023182297156,Amharic <locales@geez.org>
+mousepad,135,0,0,64,0,0,146,135,100.0,Amharic <l10n-am@googlegroups.com>
+mutter,162,47,6710,57,16,391,201,6919,2.341378811967047,Amharic <locales@geez.org>
+mutter-mbl,162,47,6710,57,16,391,201,6919,2.341378811967047,Amharic <locales@geez.org>
+nautilus,909,657,5639,381,190,690,971,7205,12.616238723108953,Amharic <locales@geez.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+orage,744,207,1159,513,63,193,728,2110,35.260663507109,Amharic <l10n-am@googlegroups.com>
+pan,56,347,1885,38,149,413,73,2288,2.4475524475524475,Amharic <locales@geez.org>
+pidgin,140,3304,14884,112,1320,2470,176,18328,0.7638585770405936,Amharic <locales@geez.org>
+planner,245,254,590,151,109,95,261,1089,22.497704315886132,Amharic <locales@geez.org>
+poedit,1148,14,0,267,2,0,1001,1162,98.79518072289156,amharic <translate@geez.org>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+pootle,2716,340,487,862,111,376,2558,3543,76.65819926615862,Amharic
+pykickstart,0,0,338,0,0,35,0,338,0.0,LANGUAGE <LL@li.org>
+redhat-menus,221,6,34,73,2,11,240,261,84.67432950191571,Amharic <am-translate@geez.org>
+rhythmbox,136,0,713,94,0,133,175,849,16.0188457008245,Amharic <locales@geez.org>
+setroubleshoot,0,0,563,0,0,168,0,563,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7818,0,0,364,0,7818,0.0,LANGUAGE <LL@li.org>
+sos,0,0,267,0,0,36,0,267,0.0,none
+sugar,0,0,234,0,0,92,0,234,0.0,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,15,0,42,12,0,18,21,57,26.31578947368421,LANGUAGE <LL@li.org>
+sugar-calculator,3,0,590,3,0,124,3,593,0.5059021922428331,LANGUAGE <LL@li.org>
+sugar-chat,0,0,21,0,0,10,0,21,0.0,LANGUAGE <LL@li.org>
+sugar-clock,0,0,38,0,0,17,0,38,0.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-moon,1,0,89,1,0,30,1,90,1.1111111111111112,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,40,0,0,12,0,40,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,27,0,0,17,0,27,0.0,LANGUAGE <LL@li.org>
+sugar-surf,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2070,0,0,695,0,2070,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,30,0,1178,30,0,325,36,1208,2.4834437086092715,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,69,0,0,42,0,69,0.0,LANGUAGE <LL@li.org>
+system-config-date,521,0,813,521,0,241,543,1334,39.05547226386807,LANGUAGE <LL@li.org>
+system-config-date-docs,0,0,739,0,0,60,0,739,0.0,LANGUAGE <LL@li.org>
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+totem,95,21,754,56,13,148,121,870,10.919540229885058,Amharic <locales@geez.org>
+totem-pl-parser,95,21,754,56,13,148,121,870,10.919540229885058,Amharic <locales@geez.org>
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net
+vte,2,0,94,1,0,17,2,96,2.083333333333333,Amharic <locales@geez.org>
+xchat-gnome,521,51,3329,359,23,598,504,3901,13.35554985901051,Amharic <locales@geez.org>
+xfce-utils,114,5,12,33,1,2,100,131,87.02290076335878,Amharic <l10n-am@googlegroups.com>
+xfce4-appfinder,2,10,72,2,4,13,2,84,2.380952380952381,Amharic <l10n-am@googlegroups.com>
+xfce4-icon-theme,0,0,8,0,0,2,0,8,0.0,Amharic <l10n-am@googlegroups.com>
+xfce4-mixer,0,19,162,0,10,27,0,181,0.0,Amharic <l10n-am@googlegroups.com>
+xfce4-panel,250,173,117,82,49,36,232,540,46.2962962962963,Amharic <l10n-am@googlegroups.com>
+xfce4-session,390,166,434,89,41,69,373,990,39.39393939393939,Amharic <l10n-am@googlegroups.com>
+xfce4-settings,5,0,1123,5,0,232,5,1128,0.44326241134751776,Amharic
+xfconf,5,0,426,2,0,60,5,431,1.160092807424594,Amharic
+xfdesktop,505,146,353,138,53,77,432,1004,50.298804780876495,Amharic <l10n-am@googlegroups.com>
+xfprint,321,1,0,112,1,0,274,322,99.68944099378882,Amharic <l10n-am@googlegroups.com>
+xfwm4,140,476,181,57,130,37,150,797,17.565872020075282,Amharic <l10n-am@googlegroups.com>
+yelp,51,90,465,23,46,79,50,606,8.415841584158416,Amharic <locales@geez.org>
+zenity,70,50,274,34,16,62,70,394,17.766497461928935,Amharic <locales@geez.org>

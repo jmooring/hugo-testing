@@ -1,0 +1,55 @@
+---
+title: "cura - translation progress for f41"
+package: cura
+date: 2026-01-20T01:20:58+00:00
+started_languages: 17
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 51
+release: f41
+---
+The package cura (version 5.4.0):
+
+* represents 23506 source words to be translated
+* is translated into 17 languages in Fedora f41
+
+
+* contains 51 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [nl]({{< ref "/f41/language/nl.md" >}}) | 23506 | 23506 | 100.0 | /mnt/stockage/packages/f41/cura/resources/i18n/nl_NL/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/nl_NL/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/nl_NL/fdmprinter.def.json.po | 
+ | [es]({{< ref "/f41/language/es.md" >}}) | 23499 | 23506 | 100.0 | /mnt/stockage/packages/f41/cura/resources/i18n/es_ES/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/es_ES/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/es_ES/fdmprinter.def.json.po | 
+ | [fr]({{< ref "/f41/language/fr.md" >}}) | 23499 | 23506 | 100.0 | /mnt/stockage/packages/f41/cura/resources/i18n/fr_FR/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/fr_FR/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/fr_FR/fdmprinter.def.json.po | 
+ | [ru]({{< ref "/f41/language/ru.md" >}}) | 23497 | 23506 | 100.0 | /mnt/stockage/packages/f41/cura/resources/i18n/ru_RU/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/ru_RU/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/ru_RU/fdmprinter.def.json.po | 
+ | [pt_PT]({{< ref "/f41/language/pt_PT.md" >}}) | 23496 | 23506 | 100.0 | /mnt/stockage/packages/f41/cura/resources/i18n/pt_PT/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/pt_PT/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/pt_PT/fdmprinter.def.json.po | 
+ | [tr]({{< ref "/f41/language/tr.md" >}}) | 23493 | 23506 | 99.9 | /mnt/stockage/packages/f41/cura/resources/i18n/tr_TR/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/tr_TR/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/tr_TR/fdmprinter.def.json.po | 
+ | [it]({{< ref "/f41/language/it.md" >}}) | 23492 | 23506 | 99.9 | /mnt/stockage/packages/f41/cura/resources/i18n/it_IT/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/it_IT/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/it_IT/fdmprinter.def.json.po | 
+ | [ja]({{< ref "/f41/language/ja.md" >}}) | 23492 | 23506 | 99.9 | /mnt/stockage/packages/f41/cura/resources/i18n/ja_JP/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/ja_JP/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/ja_JP/fdmprinter.def.json.po | 
+ | [ko]({{< ref "/f41/language/ko.md" >}}) | 23478 | 23506 | 99.9 | /mnt/stockage/packages/f41/cura/resources/i18n/ko_KR/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/ko_KR/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/ko_KR/fdmprinter.def.json.po | 
+ | [de]({{< ref "/f41/language/de.md" >}}) | 23461 | 23506 | 99.8 | /mnt/stockage/packages/f41/cura/resources/i18n/de_DE/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/de_DE/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/de_DE/fdmprinter.def.json.po | 
+ | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 23447 | 23506 | 99.7 | /mnt/stockage/packages/f41/cura/resources/i18n/zh_CN/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/zh_CN/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/zh_CN/fdmprinter.def.json.po | 
+ | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 23367 | 23506 | 99.4 | /mnt/stockage/packages/f41/cura/resources/i18n/pt_BR/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/pt_BR/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/pt_BR/fdmprinter.def.json.po | 
+ | [cs]({{< ref "/f41/language/cs.md" >}}) | 22850 | 23506 | 97.2 | /mnt/stockage/packages/f41/cura/resources/i18n/cs_CZ/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/cs_CZ/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/cs_CZ/fdmprinter.def.json.po | 
+ | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 20339 | 23506 | 86.5 | /mnt/stockage/packages/f41/cura/resources/i18n/zh_TW/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/zh_TW/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/zh_TW/fdmprinter.def.json.po | 
+ | [pl]({{< ref "/f41/language/pl.md" >}}) | 17103 | 23506 | 72.8 | /mnt/stockage/packages/f41/cura/resources/i18n/pl_PL/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/pl_PL/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/pl_PL/fdmprinter.def.json.po | 
+ | [hu]({{< ref "/f41/language/hu.md" >}}) | 16684 | 23506 | 71.0 | /mnt/stockage/packages/f41/cura/resources/i18n/hu_HU/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/hu_HU/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/hu_HU/fdmprinter.def.json.po | 
+ | [fi]({{< ref "/f41/language/fi.md" >}}) | 11017 | 23506 | 46.9 | /mnt/stockage/packages/f41/cura/resources/i18n/fi_FI/cura.po/mnt/stockage/packages/f41/cura/resources/i18n/fi_FI/fdmextruder.def.json.po/mnt/stockage/packages/f41/cura/resources/i18n/fi_FI/fdmprinter.def.json.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

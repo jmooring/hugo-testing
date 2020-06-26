@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,72,0,3544,23,0,626,87,3616,1.991150442477876,Tagalog <tl@li.org>
+deluge,10,0,2431,5,0,540,13,2441,0.40966816878328555,Tagalog <tl@li.org>
+glib2,1058,326,774,123,65,152,1260,2158,49.02687673772011,Tagalog <debian-tl@banwa.upm.edu.ph>
+gnomebaker,1,0,1185,1,0,290,1,1186,0.08431703204047217,Tagalog <tl@li.org>
+iso-codes,939,84,59,407,22,20,932,1082,86.78373382624768,Tagalog <debian-tl@banwa.upm.edu.ph>
+jokosher,1051,0,880,198,0,182,1187,1931,54.427757638529265,Tagalog <tl@li.org>
+newt,4,0,0,4,0,0,4,4,100.0,Tagalog <debian-tl@banwa.upm.edu.ph>
+pgadmin3,1297,1752,4282,405,568,1188,1426,7331,17.691992906833992,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+pmount,0,0,723,0,0,63,0,723,0.0,Tagalog <tl@li.org>
+shadow-utils,2217,898,177,376,40,16,2710,3292,67.34507897934387,Tagalog <debian-tl@banwa.upm.edu.ph>
+stellarium,912,0,235,457,0,30,1014,1147,79.51176983435047,Tagalog <tl@li.org>
+system-config-date,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-nfs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-samba,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+tuxpaint,215,9,367,97,2,60,236,591,36.37901861252115,LANGUAGE <LL@li.org>
+wesnoth,2017,223,197569,624,47,11242,2362,199809,1.0094640381564393,
+xchat-gnome,6,6,3889,4,3,973,8,3901,0.15380671622660858,Tagalog <tl@li.org>

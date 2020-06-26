@@ -1,0 +1,35 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+mate-menu,0,0,308,0,0,110,0,308,0.0,Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/)
+sugar,2305,0,0,529,0,0,1998,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,32,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,334,0,0,71,0,0,337,334,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,866,0,0,169,0,0,894,866,100.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,123,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,646,66,100.0,LANGUAGE <LL@li.org>
+sugar-colordeducto,109,0,0,23,0,0,88,109,100.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,103,99,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,212,258,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,121,0,18,46,0,2,114,139,87.05035971223022,LANGUAGE <LL@li.org>
+sugar-getiabooks,110,0,40,30,0,4,102,150,73.33333333333333,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,57,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,71,77,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,78,69,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,102,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,8,7,100.0,LANGUAGE <LL@li.org>
+sugar-measure,155,0,0,73,0,0,203,155,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,160,142,100.0,LANGUAGE <LL@li.org>
+sugar-paint,106,0,0,61,0,0,128,106,100.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,52,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,282,0,0,68,0,0,269,282,100.0,LANGUAGE <LL@li.org>
+sugar-portfolio,73,0,0,25,0,0,67,73,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,132,137,100.0,LANGUAGE <LL@li.org>
+sugar-record,62,0,0,24,0,0,66,62,100.0,LANGUAGE <LL@li.org>
+sugar-speak,227,0,0,74,0,0,197,227,100.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,7,5,100.0,LANGUAGE <LL@li.org>
+sugar-story,71,0,0,17,0,0,68,71,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,107,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,161,0,52,112,0,11,173,213,75.5868544600939,LANGUAGE <LL@li.org>
+sugar-typing-turtle,599,0,0,127,0,0,606,599,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,5,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,137,121,100.0,LANGUAGE <LL@li.org>

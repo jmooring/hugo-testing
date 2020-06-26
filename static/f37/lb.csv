@@ -1,0 +1,75 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,5,0,487,5,0,86,5,492,1.0162601626016259,http://littlesvr.ca/ostd/
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,230,0,2783,95,0,390,239,3013,7.633587786259542,Luxembourgish <lb@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+deluge,26,0,4314,14,0,1319,27,4340,0.599078341013825,Luxembourgish <lb@li.org>
+dino,848,7,230,219,1,63,855,1085,78.15668202764977,Luxembourgish <https://hosted.weblate.org/projects/dino/translations/lb/>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+flaw,84,0,0,53,0,0,87,84,100.0,LANGUAGE <LL@li.org>
+geany,3906,1295,1079,873,319,161,3910,6280,62.197452229299365,Letzebuergesch
+gnome-do,473,0,139,119,0,25,484,612,77.2875816993464,Luxembourgish <lb@li.org>
+granite,11,10,477,5,4,109,11,498,2.208835341365462,Luxembourgish <https://l10n.elementary.io/projects/desktop/granite/lb/>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+isomaster,17,1,656,13,1,93,17,674,2.522255192878338,http://littlesvr.ca/ostd/
+kde-cli-tools,30,13,57,9,2,12,36,100,30.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kauth,0,4,69,0,1,7,0,73,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcmutils,30,130,106,7,20,11,32,266,11.278195488721805,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcodecs,0,55,315,0,36,17,0,370,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kconfig,0,41,248,0,6,98,0,289,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kconfigwidgets,107,170,65,61,52,12,114,342,31.28654970760234,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kcoreaddons,0,273,109,0,88,44,0,382,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdeclarative,10,65,86,4,12,9,17,161,6.211180124223603,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdelibs4support,840,1096,3417,495,741,1308,882,5353,15.692135251260975,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdesignerplugin,0,43,11,0,5,4,0,54,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kglobalaccel,0,49,22,0,7,2,0,71,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-khtml,862,592,213,173,89,27,787,1667,51.70965806838632,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ki18n,0,95,29,0,85,25,0,124,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kinit,78,31,7,6,4,1,72,116,67.24137931034483,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kjobwidgets,0,89,44,0,31,7,0,133,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kjsembed,0,88,160,0,19,25,0,248,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knewstuff,83,352,1196,11,134,86,90,1631,5.088902513795217,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knotifications,0,21,0,0,8,0,0,21,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-knotifyconfig,0,29,100,0,11,6,0,129,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kparts,44,66,28,13,14,3,50,138,31.88405797101449,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kpty,0,11,4,0,3,1,0,15,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kross,9,58,33,7,20,8,14,100,9.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kservice,17,78,78,4,13,11,21,173,9.826589595375722,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ktexteditor,434,1170,7629,150,386,728,423,9233,4.700530705079606,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-ktextwidgets,314,125,34,68,43,19,320,473,66.38477801268499,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kwidgetsaddons,0,1003,290,0,370,93,0,1293,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-kxmlgui,268,1010,296,55,148,27,257,1574,17.026683608640404,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-sonnet,0,630,53,0,59,17,0,683,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kf5-syntax-highlighting,0,255,390,0,187,194,0,645,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+kio-extras,35,0,35,5,0,8,32,70,50.0,Luxembourgish <kde-i18n-lb@kde.org>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Luxembourgish (http://www.transifex.com/mate/MATE/language/lb/)
+libreoffice,7120,5685,155595,4396,3831,30093,6876,168400,4.228028503562945,LANGUAGE <LL@li.org>
+lightdm,42,0,121,15,0,6,44,163,25.766871165644172,Luxembourgish <lb@li.org>
+lightdm-gtk,28,0,61,10,0,15,28,89,31.46067415730337,Luxembourgish <lb@li.org>
+mate-applets,2,0,1513,2,0,100,12,1515,0.132013201320132,Luxembourgish (https://www.transifex.com/mate/teams/13566/lb/)
+mate-control-center,24,0,3307,15,0,1138,32,3331,0.720504353047133,Luxembourgish (https://www.transifex.com/mate/teams/13566/lb/)
+mate-menu,6,0,302,5,0,105,5,308,1.948051948051948,Luxembourgish (http://www.transifex.com/mate/MATE/language/lb/)
+mate-panel,1,0,941,1,0,62,6,942,0.10615711252653928,Luxembourgish (https://www.transifex.com/mate/teams/13566/lb/)
+mate-sensors-applet,2,0,311,2,0,107,7,313,0.6389776357827476,Luxembourgish (https://www.transifex.com/mate/teams/13566/lb/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Luxembourgish (http://app.transifex.com/mate/MATE/language/lb/)
+midori,81,0,3460,27,0,769,88,3541,2.287489409771251,Luxembourgish <lb@li.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+plasma-oxygen,0,0,615,0,0,219,0,615,0.0,Luxembourgish <kde-i18n-lb@kde.org>
+plasma-workspace,2,3,0,2,1,0,2,5,40.0,Luxembourgish <kde-i18n-lb@kde.org>
+pluma-plugins,1,0,509,1,0,48,6,510,0.19607843137254902,Luxembourgish (https://www.transifex.com/mate/teams/13566/lb/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-django,274,0,3212,192,0,588,281,3486,7.860011474469306,Luxembourgish (http://www.transifex.com/django/django/language/lb/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django3,274,0,3212,192,0,588,281,3486,7.860011474469306,Luxembourgish (http://www.transifex.com/django/django/language/lb/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+slick-greeter,154,0,57,26,0,21,144,211,72.98578199052133,Luxembourgish <lb@li.org>
+stellarium,1081,0,150560,462,0,37393,1038,151641,0.7128678919289638,Luxembourgish (https://www.transifex.com/stellarium/teams/80998/lb/)
+sugar-toolkit-gtk3,88,6,119,75,5,43,85,213,41.31455399061033,LANGUAGE <LL@li.org>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1052,1019,1692,240,110,111,1065,3763,27.956417751793783,LANGUAGE <LL@li.org>

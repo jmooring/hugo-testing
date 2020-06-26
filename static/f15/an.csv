@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+NetworkManager,502,3,1972,247,1,291,575,2477,20.266451352442473,Aragonese <softaragones@googlegroups.com>
+alacarte,42,0,0,16,0,0,43,42,100.0,Aragonese <softaragones@googlegroups.com>
+empathy,437,0,3183,217,0,584,487,3620,12.07182320441989,Aragonese <softaragones@googlegroups.com>
+epiphany,2268,0,0,638,0,0,2515,2268,100.0,Aragonese <softaragones@googlegroups.com>
+evince,920,0,499,297,0,67,1054,1419,64.83439041578578,Aragonese <softaragones@googlegroups.com>
+file-roller,470,0,1049,178,0,157,537,1519,30.941408821593154,Aragonese <softaragones@googlegroups.com>
+gdm,241,0,853,81,0,124,284,1094,22.02925045703839,Aragonese <softaragones@googlegroups.com>
+gnome-backgrounds,29,0,0,17,0,0,34,29,100.0,Aragonese <softaragones@googlegroups.com>
+gnome-desktop,366,0,72,58,0,3,427,438,83.56164383561644,Aragonés <softaragones@googlegroups.com>
+gnome-desktop3,366,0,72,58,0,3,427,438,83.56164383561644,Aragonés <softaragones@googlegroups.com>
+gnome-menus,125,0,0,46,0,0,154,125,100.0,Aragonés <softaragones@googlegroups.com>
+gnome-themes-standard,24,0,0,9,0,0,26,24,100.0,Aragonese <softaragones@googlegroups.com>
+transmission,217,0,1311,111,0,343,244,1528,14.201570680628272,Aragonese <an@li.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Aragonese <softaragones@googlegroups.com>

@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+cinnamon-translations,4,0,6905,1,0,1698,4,6909,0.0578954986249819,English (Ireland) <en_IE@li.org>
+lollypop,139,8,1290,67,2,391,138,1437,9.672929714683368,English (Ireland) <https://hosted.weblate.org/projects/gnumdk/lollypop/en_IE/>
+minuet,412,0,0,159,0,0,329,412,100.0,fi

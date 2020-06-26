@@ -1,0 +1,11 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atk,359,7,4,114,6,3,292,370,97.02702702702702,Tatarish <tatarish.l10n@gmail.com>
+gimp,1781,20,19735,900,6,4944,1743,21536,8.269873699851411,Tatarish <tatarish.l10n@gmail.com>
+glib2,310,247,1601,50,49,241,262,2158,14.365152919369786,Tatarish <tatarish.l10n@gmail.com>
+gtk2,1359,489,10244,546,170,1696,1109,12092,11.238835593781012,Tatarish <tatarish.l10n@gmail.com>
+iso-codes,1072,3136,8131,666,2630,5332,940,12339,8.687900153983305,Tatarish <tatarish.l10n@gmail.com>
+libgnome,156,0,1338,56,0,172,144,1494,10.441767068273093,Tatarish <tatarish.l10n@gmail.com>
+libgnomecanvas,357,0,0,94,0,0,300,357,100.0,Tatarish <tatarish.l10n@gmail.com>
+libgnomeui,536,0,883,215,0,130,470,1419,37.77307963354475,Tatarish <tatarish.l10n@gmail.com>
+poedit,1082,67,5,253,18,1,906,1154,93.76083188908146,Tatarish <tatarish.l10n@gmail.com>
+stardict,891,801,748,172,89,200,705,2440,36.51639344262295,tt <tatarish.l10n@gmail.com>

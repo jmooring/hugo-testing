@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bookworm,0,0,795,0,0,149,0,795,0.0,
+cinnamon-translations,1581,0,17368,558,0,3764,1488,18949,8.343448203071402,Oromo <om@li.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+granite,0,0,498,0,0,118,0,498,0.0,
+harvey,0,0,182,0,0,33,0,182,0.0,none
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Oromo (http://www.transifex.com/mate/MATE/language/om/)
+libreoffice,332375,15817,382037,44284,6178,40611,263554,730229,45.51654344048237,LANGUAGE <LL@li.org>
+mate-control-center,22,0,3309,13,0,1140,29,3331,0.6604623236265386,Oromo (https://www.transifex.com/mate/teams/13566/om/)
+mate-menu,6,0,302,5,0,105,6,308,1.948051948051948,Oromo (http://www.transifex.com/mate/MATE/language/om/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Oromo (http://app.transifex.com/mate/MATE/language/om/)
+nutty,0,0,608,0,0,152,0,608,0.0,
+onboard,0,0,2318,0,0,510,0,2318,0.0,Oromo <om@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+regextester,0,0,104,0,0,31,0,104,0.0,none

@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,1,0,3953,1,0,460,1,3954,0.025290844714213456,Yiddish <raphael@cs.uky.edu>
+abiword,4338,176,130,1443,50,27,4426,4644,93.4108527131783,Yiddish <raphael@cs.uky.edu>
+atk,30,96,244,30,48,45,31,370,8.108108108108109,Yiddish <raphael@cs.uky.edu>
+gimp,145,1750,18934,125,806,4889,168,20829,0.6961447981180086,Yiddish <raphael@cs.uky.edu>
+glade2,399,107,5334,139,24,1137,410,5840,6.832191780821918,Yiddish <>
+glib2,736,179,298,80,23,42,735,1213,60.6760098928277,Yiddish <raphael@cs.uky.edu>
+gnome-desktop,2,2,316,2,2,69,2,320,0.625,Yiddish <raphael@cs.uky.edu>
+gnome-mime-data,1,0,826,1,0,340,1,827,0.12091898428053204,Yiddish <raphael@cs.uky.edu>
+gnome-panel,77,215,3645,29,67,421,75,3937,1.9558039116078234,Yiddish <raphael@cs.uky.edu>
+gnome-vfs2,209,25,1048,62,9,177,198,1282,16.302652106084242,Yiddish <raphael@cs.uky.edu>
+gnomebaker,0,0,1186,0,0,291,0,1186,0.0,Yiddish <yi@li.org>
+gourmet,0,0,3526,0,0,791,0,3526,0.0,Yiddish <yi@li.org>
+gtk2,5382,2782,3438,1025,560,720,5360,11602,46.38855369763834,None <>
+libbonobo,460,17,47,93,5,10,434,524,87.78625954198473,Yiddish <raphael@cs.uky.edu>
+libbonoboui,282,33,45,90,4,19,260,360,78.33333333333333,Yiddish <raphael@cs.uky.edu>
+libgnome,401,24,982,78,9,132,375,1407,28.50035536602701,Yiddish <raphael@cs.uky.edu>
+libgnomecanvas,339,18,0,92,2,0,352,357,94.9579831932773,Yiddish <raphael@cs.uky.edu>
+libgnomeui,40,29,1350,31,9,305,43,1419,2.8188865398167726,Yiddish <raphael@cs.uky.edu>
+nautilus,31,59,6886,29,32,1153,31,6976,0.44438073394495414,Yiddish <raphael@cs.uky.edu>
+pmount,0,0,723,0,0,63,0,723,0.0,Yiddish <yi@li.org>

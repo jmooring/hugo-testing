@@ -1,0 +1,13 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gdm,154,11,1132,43,9,175,186,1297,11.87355435620663,FRIULIAN <massimo.furlani@libero.it>
+gnome-backgrounds,18,0,0,9,0,0,19,18,100.0,Friulian <massimo.furlani@libero.it>
+gnome-desktop,288,0,0,70,0,0,367,288,100.0,Friulian <massimo.furlani@libero.it>
+gnome-icon-theme,43,0,0,38,0,0,44,43,100.0,FRIULIAN <massimo.furlani@libero.it>
+gnome-menus,165,0,0,58,0,0,204,165,100.0,FRIULIAN <massimo.furlani@libero.it>
+gnome-panel,3319,31,1372,561,7,91,3851,4722,70.28801355357899,FRIULIAN <massimo.furlani@libero.it>
+gnome-session,897,0,2,129,0,1,1029,899,99.77753058954394,Friulian <massimo.furlani@libero.it>
+gnome-terminal,3987,0,672,435,0,65,4360,4659,85.57630392788153,Friulian <massimo.furlani@libero.it>
+gnome-themes,85,0,0,26,0,0,102,85,100.0,Friulian <massimo.furlani@libero.it>
+libgnome,1082,0,572,186,0,69,1295,1654,65.41717049576783,FRIULIAN <massimo.furlani@libero.it>
+libgnomeui,1309,0,0,334,0,0,1487,1309,100.0,Friulian <massimo.furlani@libero.it>
+poedit,1082,67,5,253,18,1,1290,1154,93.76083188908146,Klenje <adecorte@fastwebnet.it>

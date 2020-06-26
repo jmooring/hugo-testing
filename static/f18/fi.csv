@@ -1,0 +1,904 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,3293,4088,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+NetworkManager,976,0,925,206,0,174,815,1901,51.341399263545505,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+NetworkManager-l2tp,83,28,652,31,10,93,65,763,10.878112712975097,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+NetworkManager-openswan,144,0,0,39,0,0,121,144,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+NetworkManager-openvpn,175,0,0,52,0,0,139,175,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+NetworkManager-pptp,114,0,0,41,0,0,92,114,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+NetworkManager-ssh,175,0,0,52,0,0,139,175,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+NetworkManager-vpnc,144,0,0,39,0,0,121,144,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+PackageKit,1501,0,63,355,0,11,1173,1564,95.97186700767263,Finnish (http://www.transifex.com/projects/p/freedesktop/language/fi/)
+Terminal,1187,0,0,273,0,0,873,1187,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+Thunar,3684,321,144,649,55,32,2555,4149,88.79248011569054,Finnish <xfce-i18n@xfce.org>
+TurboGears,9,0,0,3,0,0,9,9,100.0,LANGUAGE <LL@li.org>
+WindowMaker,4176,134,49,773,32,19,3309,4359,95.8017894012388,Finnish <fi@li.org>
+abrt,1099,0,1209,163,0,139,846,2308,47.61698440207972,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+accerciser,542,51,34,205,8,8,467,627,86.44338118022328,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+accountsservice,59,0,0,10,0,0,39,59,100.0,Finnish (http://www.transifex.com/projects/p/freedesktop/language/fi/)
+ailurus,0,0,8446,0,0,1107,0,8446,0.0,none
+aisleriot,1953,0,34,535,0,14,1407,1987,98.28887770508304,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+alacarte,31,0,0,12,0,0,25,31,100.0,Finnish <>
+alleyoop,351,0,0,89,0,0,251,351,100.0,GFTT <gnome-fi-laatu@lists.sourceforge.net>
+almanah,241,0,174,51,0,5,188,415,58.07228915662651,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+amarok,10705,1344,3745,2309,192,228,8300,15794,67.77890338103077,Finnish <lokalisointi@lists.coss.fi>
+anaconda,2448,232,2690,424,52,258,1824,5370,45.58659217877095,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+anjuta,4588,1983,1383,1366,469,165,3692,7954,57.68166960020116,GFTT <gnome-fi-laatu@lists.sourceforge.net>
+apper,4338,0,0,781,0,0,3114,4338,100.0,Finnish <lokalisointi@lists.coss.fi>
+aria2,971,3347,1556,137,136,83,750,5874,16.530473272046304,Finnish <fi@li.org>
+arm-gp2x-linux-glibc,6171,0,0,1235,0,0,5296,6171,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+askbot,7906,502,1332,1276,70,58,6159,9740,81.17043121149898,Finnish (http://www.transifex.net/projects/p/askbot/language/fi/)
+aspell,1726,0,0,293,0,0,1269,1726,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+asunder,450,4,0,81,2,0,355,454,99.11894273127754,Finnish
+at-spi,61,0,0,7,0,0,43,61,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+at-spi2-core,5,0,0,1,0,0,4,5,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+atk,375,0,0,126,0,0,262,375,100.0,Gnome Finnish Translation Team <gnome-fi-laatu@lists.sourceforge.net>
+atomix,146,0,0,59,0,0,130,146,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+audacious,444,0,121,200,0,34,410,565,78.58407079646018,Finnish
+audacity,3272,798,6573,1106,204,1000,2761,10643,30.74321150051677,American English <kde-i18n-doc@kde.org>
+authconfig,1630,0,8,283,0,2,1128,1638,99.51159951159951,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+autotest-framework,980,3,0,88,1,0,745,983,99.69481180061037,
+avahi,794,71,0,164,1,0,634,865,91.79190751445087,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+avogadro,1112,0,3150,541,0,1004,1134,4262,26.09103707179728,Finnish <fi@li.org>
+avr-binutils,48644,0,0,7846,0,0,40515,48644,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+avr-gcc,7980,14316,48961,1341,2220,5948,6368,71257,11.198899757216834,Finnish <translation-team-fi@lists.sourceforge.net>
+avr-gdb,7765,0,0,1106,0,0,6591,7765,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+backintime,833,0,86,157,0,23,684,919,90.64200217627857,Finnish <fi@li.org>
+bacula,0,0,20282,0,0,3178,0,20282,0.0,Finnish <translation-team-fi@lists.sourceforge.net>
+bacula2,0,0,20287,0,0,3178,0,20287,0.0,Finnish <translation-team-fi@lists.sourceforge.net>
+bakery,72,0,0,20,0,0,59,72,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+balsa,5741,0,0,1372,0,0,4648,5741,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+bangarang,1009,55,143,353,12,16,841,1207,83.59569179784589,Finnish <kde-i18n-doc@kde.org>
+banshee,5987,42,3,1535,8,3,4702,6032,99.25397877984085,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+banshee-community-extensions,117,0,1203,28,0,282,89,1320,8.863636363636363,LANGUAGE <LL@li.org>
+baobab,2081,0,0,150,0,0,1442,2081,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+bash,7877,2939,45,502,39,6,5750,10861,72.5255501335052,Finnish <translation-team-fi@lists.sourceforge.net>
+bibletime,5012,1640,3081,348,109,187,3655,9733,51.49491420939073,Finnish <fi@li.org>
+binutils,48644,0,0,7846,0,0,40515,48644,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+bisho,164,0,0,26,0,0,122,164,100.0,
+bison,1333,2,0,204,1,0,1152,1335,99.8501872659176,Finnish <translation-team-fi@lists.sourceforge.net>
+bluedevil,617,0,0,198,0,0,507,617,100.0,Finnish <lokalisointi@lists.coss.fi>
+bluefish,728,1447,1975,350,618,444,626,4150,17.542168674698797,Not a member <LL@li.org>
+blueman,1182,0,433,325,0,55,1000,1615,73.18885448916409,Finnish <fi@li.org>
+boinc-client,16020,18,14,2590,3,6,11683,16052,99.80064789434338,LANGUAGE <LL@li.org>
+boswars,627,35,252,281,15,41,531,914,68.5995623632385,Kimmo Kalevi Merikivi <fi@li.org>
+brasero,9012,0,0,1236,0,0,6355,9012,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+byzanz,249,0,0,42,0,0,191,249,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+bzr-explorer,268,0,1388,90,0,379,238,1656,16.183574879227052,Finnish <fi@li.org>
+cairo-clock,270,0,0,60,0,0,201,270,100.0,Heikki Mäntysaari <heikki.mantysaari@linux.fi>
+caja-actions,1465,88,1,166,3,1,1039,1554,94.27284427284427,Finnish <mate-fi-laatu@lists.sourceforge.net>
+calibre,2539,0,52295,660,0,11688,1903,54834,4.630338840865156,Finnish <translation-team-fi@lists.sourceforge.net>
+camorama,586,0,0,137,0,0,426,586,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+caribou,105,0,95,38,0,22,101,200,52.5,Finnish <>
+catfish,76,0,0,28,0,0,64,76,100.0,Finnish <fi@li.org>
+ccsm,549,0,0,135,0,0,462,549,100.0,Finnish <laatu@lokalisointi.org>
+cflow,564,38,0,112,4,0,438,602,93.68770764119601,Finnish <translation-team-fi@lists.sourceforge.net>
+cheese,3599,0,0,266,0,0,2408,3599,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+chkconfig,487,0,0,93,0,0,428,487,100.0,Finnish (http://www.transifex.net/projects/p/fedora/language/fi/)
+choqok,1055,136,846,296,51,174,857,2037,51.791850760922934,Finnish <lokalisointi@lists.coss.fi>
+chronojump,1581,0,319,528,0,59,1336,1900,83.21052631578948,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+cinepaint,1244,1358,4805,477,563,899,1077,7407,16.794923720804643,fi <fi@li.org>
+cinnamon,1147,0,549,412,0,140,951,1696,67.62971698113208,Finnish <fi@li.org>
+clamav,5060,577,1034,1258,83,182,4201,6671,75.8506970469195,Finnish <translation-team-fi@lists.sourceforge.net>
+clamtk,745,0,51,210,0,2,606,796,93.5929648241206,Finnish <fi@li.org>
+claws-mail,17747,608,224,3585,76,23,13033,18579,95.5218257172076,Finnish <laatu@lokalisointi.org>
+clementine,3872,0,379,1112,0,83,3048,4251,91.08445071747823,
+clutter,90,34,2874,23,6,634,60,2998,3.0020013342228156,
+colord,165,0,1616,39,0,152,99,1781,9.264458169567659,LANGUAGE <LL@li.org>
+colorhug-client,483,0,490,105,0,107,298,973,49.64028776978417,LANGUAGE <LL@li.org>
+common-lisp-controller,57,0,0,7,0,0,45,57,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+compat-gtkhtml314,713,0,0,366,0,0,573,713,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+compat-libgda,6198,0,45,1174,0,4,4801,6243,99.27919269581932,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+compiz,3250,0,0,717,0,0,2466,3250,100.0,Finnish <laatu@lokalisointi.org>
+compiz-plugins-extra,7016,386,1544,1454,75,200,5106,8946,78.42611222892913,Finnish <laatu@lokalisointi.org>
+compiz-plugins-main,7016,386,1544,1454,75,200,5106,8946,78.42611222892913,Finnish <laatu@lokalisointi.org>
+compiz-plugins-unsupported,7016,386,1544,1454,75,200,5106,8946,78.42611222892913,Finnish <laatu@lokalisointi.org>
+conduit,681,40,113,268,12,17,536,834,81.65467625899281,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+console-setup,979,0,0,171,0,0,708,979,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+control-center,4643,11,137,1846,3,28,3873,4791,96.91087455646003,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+coreutils,7866,8164,3617,820,454,286,6694,19647,40.03664681630784,Finnish <translation-team-fi@lists.sourceforge.net>
+cpio,1837,0,0,298,0,0,1500,1837,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+cppi,581,15,0,58,3,0,529,596,97.48322147651007,Finnish <translation-team-fi@lists.sourceforge.net>
+cracklib,93,0,3,15,0,1,51,96,96.875,<fi@li.org>
+cross-binutils,48644,0,0,7846,0,0,40515,48644,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+cross-gcc,15861,11668,46707,2533,1813,5511,12588,74236,21.365644700684307,Finnish <translation-team-fi@lists.sourceforge.net>
+cryptsetup,2264,17,19,363,2,3,1734,2300,98.43478260869564,Finnish <translation-team-fi@lists.sourceforge.net>
+cups,1363,0,6033,580,0,988,1351,7396,18.42888047593294,Finnish
+cups-pk-helper,30,0,119,7,0,15,29,149,20.13422818791946,Finnish (http://www.transifex.com/projects/p/freedesktop/language/fi/)
+dasher,526,0,0,198,0,0,432,526,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+dc3dd,103,396,372,14,36,37,90,871,11.82548794489093,Finnish <translation-team-fi@lists.sourceforge.net>
+dconf,62,0,122,25,0,4,43,184,33.69565217391305,Finnish <>
+debconf,805,0,0,88,0,0,604,805,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+deja-dup,3228,0,607,413,0,34,2354,3835,84.17209908735333,Finnish <fi@li.org>
+devhelp,459,0,0,125,0,0,330,459,100.0,Finnish <kde-i18n-doc@kde.org>
+dexter,221,0,7,91,0,1,167,228,96.9298245614035,Finnish <fi@li.org>
+dia,6084,27,549,2260,7,96,4842,6660,91.35135135135135,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+dialog,25,0,0,23,0,0,23,25,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+diffutils,534,972,274,106,103,36,471,1780,30.0,Finnish <translation-team-fi@lists.sourceforge.net>
+digikam,13218,3347,26011,2739,720,3231,9332,42576,31.0456595264938,Finnish <lokalisointi@lists.coss.fi>
+dnf,2649,0,537,579,0,111,2330,3186,83.14500941619586,LANGUAGE <LL@li.org>
+dnsmasq,0,0,2076,0,0,353,0,2076,0.0,Finnish <translation-team-fi@lists.sourceforge.net>
+docky,1071,0,686,265,0,72,860,1757,60.95617529880478,Finnish <fi@li.org>
+drwright,113,31,47,15,7,7,126,191,59.16230366492147,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+easystroke,451,0,19,129,0,8,364,470,95.95744680851064,Finnish <fi@li.org>
+ekiga,4257,266,5209,784,24,157,3126,9732,43.7422934648582,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+elinks,3683,214,8348,907,57,661,2925,12245,30.077582686810945,Finnish <translation-team-fi@lists.sourceforge.net>
+emerald,774,0,0,215,0,0,683,774,100.0,Birunthan Mohanathas <biru@inbox.com>
+empathy,5548,32,412,1050,5,40,4043,5992,92.59012016021362,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+enigma,5049,38,208,613,7,37,3949,5295,95.35410764872522,Finnish
+entangle,0,0,754,0,0,184,0,754,0.0,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+eog,4888,0,0,560,0,0,3335,4888,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+eog-plugins,80,0,0,28,0,0,57,80,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+epiphany,1918,2,493,532,1,41,1582,2413,79.48611686697058,Finnish <kde-i18n-doc@kde.org>
+epiphany-extensions,746,0,0,227,0,0,603,746,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+etckeeper,23,0,41,3,0,2,16,64,35.9375,Finnish <debian-l10n-finnish@lists.debian.org>
+evince,3415,0,26,591,0,3,2403,3441,99.2444056960186,Finnish
+evolution,16757,2276,2135,3967,319,154,12740,21168,79.16194255479971,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+evolution-data-server,3774,935,672,843,168,98,3194,5381,70.13566251626092,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+evolution-mapi,332,0,0,65,0,0,270,332,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+exaile,2060,0,1615,627,0,322,1710,3675,56.054421768707485,Finnish <fi@li.org>
+exif,296,0,0,68,0,0,256,296,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+exiv2,850,2852,23456,314,1209,3236,748,27158,3.1298328301053098,<fi@li.org>
+exo,1377,2,0,269,2,0,904,1379,99.85496736765772,Finnish <xfce-i18n@xfce.org>
+f-spot,3283,40,82,811,19,9,2712,3405,96.41703377386197,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+fantasdic,398,0,0,128,0,0,334,398,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+fetchmail,567,393,3385,116,52,518,502,4345,13.049482163406214,Finnish <translation-team-fi@lists.sourceforge.net>
+file-roller,7079,0,0,763,0,0,4472,7079,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+filezilla,9544,2,0,1601,1,0,7361,9546,99.97904881625811,Kari Saariniemi <kari.saariniemi@pp.inet.fi>
+findutils,2020,68,42,189,6,4,1664,2130,94.83568075117371,Finnish <translation-team-fi@lists.sourceforge.net>
+firewalld,397,0,1638,104,0,260,312,2035,19.50859950859951,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+firstboot,525,9,37,46,1,3,366,571,91.94395796847635,Finnish (http://www.transifex.net/projects/p/fedora/team/fi/)
+flare,4016,39,0,964,20,0,2653,4055,99.03822441430333,
+flex,1069,8,43,157,2,7,932,1120,95.44642857142858,Finnish <translation-team-fi@lists.sourceforge.net>
+flush,25,0,2617,5,0,599,23,2642,0.9462528387585163,Finnish <fi@li.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Finnish
+foxtrotgps,1005,0,0,310,0,0,823,1005,100.0,Finnish <laatu@lokalisointi.org>
+freeciv,63547,71,6622,6201,10,91,47144,70240,90.47124145785878,Finnish <laatu@lokalisointi.org>
+freedink,262,0,9,56,0,1,240,271,96.6789667896679,Finnish <translation-team-fi@lists.sourceforge.net>
+freedink-dfarc,778,0,0,135,0,0,612,778,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+frozen-bubble,567,82,49,130,9,9,449,698,81.23209169054442,Finnish
+fslint,388,0,0,132,0,0,323,388,100.0,Finnish <fi@li.org>
+fuse-encfs,1022,8,285,115,2,22,827,1315,77.71863117870723,Finnish <fi@li.org>
+gallery2,14578,534,2681,2206,69,268,11101,17793,81.93109649862306,FI <suser-fi@kotoistaminen.novell.fi>
+gammu,484,154,54796,188,74,5922,435,55434,0.8731103654796695,none
+ganglia,59,0,0,4,0,0,43,59,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+ganyremote,465,3,28,137,2,9,379,496,93.75,Finnish
+garcon,95,0,0,31,0,0,79,95,100.0,Finnish <xfce-i18n@xfce.org>
+gaupol,2395,0,0,656,0,0,1896,2395,100.0,Finnish <otsaloma@iki.fi>
+gawk,2901,6,0,441,1,0,2487,2907,99.79360165118679,Finnish <translation-team-fi@lists.sourceforge.net>
+gazpacho,334,171,203,117,49,57,278,708,47.175141242937855,Finnish <fi@li.org>
+gbrainy,4905,217,3006,771,15,262,3932,8128,60.34694881889764,Finnish <fi@li.org>
+gcalctool,2659,0,360,637,0,35,2089,3019,88.0755216959258,Suomi <gnome-fi-laatu@lists.sourceforge.net>
+gcc,7980,14312,48959,1341,2219,5948,6368,71251,11.19984280922373,Finnish <translation-team-fi@lists.sourceforge.net>
+gcl,177,0,0,8,0,0,122,177,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+gcompris,8802,977,471,1096,50,45,6034,10250,85.87317073170732,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gconf-editor,336,0,0,98,0,0,282,336,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gcr,335,70,273,144,19,79,275,678,49.41002949852507,Finnish <kde-i18n-doc@kde.org>
+gdb,9601,0,0,1533,0,0,8205,9601,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gdbm,475,8,0,134,2,0,449,483,98.34368530020704,Finnish <translation-team-fi@lists.sourceforge.net>
+gdesklets,1418,0,110,193,0,11,1077,1528,92.80104712041884,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gdk-pixbuf2,1265,89,0,194,8,0,944,1354,93.42688330871492,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gdm,902,51,59,168,5,7,649,1012,89.13043478260869,Finnish <kde-i18n-doc@kde.org>
+geany,5073,334,293,1156,67,29,3581,5700,89.0,Finnish
+geary,621,1,144,230,1,40,540,766,81.0704960835509,LANGUAGE <LL@li.org>
+geda-gaf,199,0,1846,99,0,484,186,2045,9.731051344743276,Finnish <fi@li.org>
+gedit,7471,732,3654,1023,70,254,5111,11857,63.00919288184195,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gedit-plugins,916,158,131,393,50,26,781,1205,76.01659751037344,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+geeqie,1597,523,789,633,178,178,1405,2909,54.898590580955656,Finnish <laatu@lokalisointi.org>
+gettext,1574,422,4861,234,55,398,1245,6857,22.954644888435176,Finnish <translation-team-fi@lists.sourceforge.net>
+gftp,3375,0,0,634,0,0,2639,3375,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+ggz-base-libs,74,0,0,17,0,0,76,74,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+ggz-gtk-client,859,0,0,267,0,0,700,859,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+ghdl,6227,4439,38058,1026,708,5137,4960,48724,12.780149413020277,Finnish <translation-team-fi@lists.sourceforge.net>
+ghemical,1710,0,468,393,0,119,1340,2178,78.51239669421489,LANGUAGE <LL@li.org>
+ghex,970,0,0,276,0,0,742,970,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gigolo,444,0,0,130,0,0,333,444,100.0,Finnish
+gimp,24235,274,3191,6758,28,432,18484,27700,87.49097472924188,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gimp-help,9975,0,208793,493,0,13278,7769,218768,4.559624808015798,LANGUAGE <LL@li.org>
+giver,0,0,125,0,0,20,0,125,0.0,LANGUAGE <LL@li.org>
+glabels,848,0,1460,395,0,369,736,2308,36.741767764298096,Finnish <>
+glade,3328,451,487,940,105,59,2512,4266,78.01218940459447,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+glade2,516,0,5394,247,0,1064,436,5910,8.730964467005077,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+glade3,4491,0,122,1190,0,9,3307,4613,97.35530023845654,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+glib-networking,112,0,41,22,0,6,90,153,73.20261437908496,Finnish <>
+glib2,4457,428,319,716,50,36,3692,5204,85.6456571867794,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+glibc,5742,754,913,1142,87,124,4947,7409,77.50033742745309,Finnish <translation-team-fi@lists.sourceforge.net>
+gliv,991,9,34,254,3,3,793,1034,95.84139264990328,Finnish <translation-team-fi@lists.sourceforge.net>
+glom,2674,62,163,534,2,12,1960,2899,92.23870300103484,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gmpc,4,0,0,1,0,0,5,4,100.0,Finnish <fi@li.org>
+gmusicbrowser,1691,0,3164,699,0,788,1497,4855,34.830072090628214,Finnish (http://www.transifex.com/projects/p/gmusicbrowser/language/fi/)
+gnash,575,117,14451,153,18,2238,513,15143,3.797133989301988,LANGUAGE <LL@li.org>
+gnokii,1911,294,3512,424,58,735,1671,5717,33.42662235438167,Finnish <en@li.org>
+gnomad2,408,115,180,124,26,21,311,703,58.03698435277382,Finnish <fi@li.org>
+gnome-abrt,9,0,299,2,0,51,8,308,2.922077922077922,Finnish (http://www.transifex.com/projects/p/gnome-abrt/language/fi/)
+gnome-activity-journal,38,0,278,20,0,74,32,316,12.025316455696203,Finnish <fi@li.org>
+gnome-applet-sensors,59,30,209,24,13,51,48,298,19.798657718120804,GFTT <gnome-fi-laatu@lists.sourceforge.net>
+gnome-applets,16863,0,0,1895,0,0,12070,16863,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-backgrounds,24,0,0,18,0,0,25,24,100.0,Finnish <kde-i18n-doc@kde.org>
+gnome-bluetooth,1841,0,0,228,0,0,1318,1841,100.0,Finnish <fi@li.org>
+gnome-boxes,430,0,102,107,0,16,356,532,80.82706766917293,Finnish <kde-i18n-doc@kde.org>
+gnome-clocks,94,0,0,45,0,0,76,94,100.0,Finnish <kde-i18n-doc@kde.org>
+gnome-color-manager,623,0,1065,183,0,142,479,1688,36.90758293838863,Finnish <>
+gnome-commander,2175,333,5419,851,94,484,1741,7927,27.43787056894159,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-contacts,335,0,0,150,0,0,297,335,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-desktop,4813,465,1760,183,8,31,3729,7038,68.38590508667235,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-desktop3,4705,465,1760,165,8,31,3654,6930,67.8932178932179,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-dictionary,1987,0,0,282,0,0,1378,1987,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-disk-utility,2905,33,88,526,9,10,2169,3026,96.00132187706544,Finnish <>
+gnome-do,612,0,0,144,0,0,472,612,100.0,Finnish <fi@li.org>
+gnome-do-plugins,265,0,2058,92,0,490,221,2323,11.407662505380973,Finnish <fi@li.org>
+gnome-doc-utils,251,0,0,101,0,0,242,251,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-documents,214,0,0,87,0,0,194,214,100.0,Finnish <kde-i18n-doc@kde.org>
+gnome-dvb-daemon,820,0,0,203,0,0,660,820,100.0,Finnish <>
+gnome-font-viewer,39,0,0,22,0,0,36,39,100.0,Finnish <>
+gnome-games,8361,189,680,1068,28,40,6138,9230,90.58504875406284,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-gmail,0,0,359,0,0,47,0,359,0.0,LANGUAGE <LL@li.org>
+gnome-hearts,356,31,22,92,6,8,184,409,87.04156479217605,Finnish <fi@li.org>
+gnome-icon-theme,51,0,0,46,0,0,56,51,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-keyring,496,6,51,98,1,13,396,553,89.69258589511753,Finnish <kde-i18n-doc@kde.org>
+gnome-libs,1085,0,0,395,0,0,880,1085,100.0,Finnish <fi@li.org>
+gnome-lirc-properties,438,0,216,200,0,39,377,654,66.97247706422019,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-mag,298,0,0,42,0,0,239,298,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-media,1211,0,0,302,0,0,927,1211,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-menus,103,0,0,39,0,0,76,103,100.0,Finnish <>
+gnome-mime-data,887,0,0,362,0,0,547,887,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-nettool,644,0,0,219,0,0,503,644,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-online-accounts,128,0,471,39,0,63,101,599,21.368948247078464,Finnish <kde-i18n-doc@kde.org>
+gnome-packagekit,4925,115,48,792,11,4,3500,5088,96.79638364779875,Finnish <kde-i18n-doc@kde.org>
+gnome-panel,5216,0,0,655,0,0,3597,5216,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-phone-manager,521,0,0,92,0,0,377,521,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-power-manager,432,0,0,144,0,0,314,432,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-schedule,1088,84,166,206,4,33,857,1338,81.31539611360239,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-screensaver,291,0,0,58,0,0,226,291,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-screenshot,342,0,0,70,0,0,268,342,100.0,Finnish <>
+gnome-search-tool,3178,0,0,358,0,0,2187,3178,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-session,481,0,0,96,0,0,388,481,100.0,Finnish <>
+gnome-settings-daemon,2800,49,891,474,4,94,2146,3740,74.8663101604278,Finnish <kde-i18n-doc@kde.org>
+gnome-shell,1260,125,68,346,1,5,994,1453,86.71713695801789,Finnish <kde-i18n-doc@kde.org>
+gnome-shell-extensions,136,0,241,54,0,20,119,377,36.07427055702917,Finnish <>
+gnome-specimen,56,0,0,18,0,0,40,56,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-subtitles,637,0,0,249,0,0,511,637,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-system-log,1579,0,0,149,0,0,1098,1579,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-system-monitor,1060,82,12,277,16,2,833,1154,91.85441941074524,Finnish <kde-i18n-doc@kde.org>
+gnome-terminal,4167,0,0,490,0,0,2852,4167,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-themes,109,0,0,30,0,0,98,109,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-themes-standard,24,0,0,9,0,0,22,24,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gnome-tweak-tool,134,0,19,46,0,2,121,153,87.58169934640523,Finnish <>
+gnome-user-docs,39652,4043,13894,2077,365,670,26491,57589,68.85342686971471,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-user-share,316,0,0,51,0,0,242,316,100.0,Finnish <>
+gnome-vfs2,1519,0,0,305,0,0,1032,1519,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnome-video-effects,256,0,0,68,0,0,169,256,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnomebaker,906,0,280,227,0,64,644,1186,76.39123102866779,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnomeradio,401,0,0,90,0,0,311,401,100.0,Suomi <gnome-fi-laatu@lists.sourceforge.net>
+gnomint,135,0,4277,35,0,666,106,4412,3.059836808703536,Finnish <fi@li.org>
+gnubik,278,0,0,82,0,0,223,278,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gnucash,1475,368,24469,564,107,3418,1203,26312,5.605807236242019,UNKNOWN
+gnumeric,29818,3732,1496,4975,468,199,21018,35046,85.08246304856473,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gnupg,4440,2884,1260,636,468,184,3537,8584,51.724137931034484,Finnish <translation-team-fi@lists.sourceforge.net>
+gnupg2,3249,4352,2905,537,769,437,2664,10506,30.92518560822387,Finnish <translation-team-fi@lists.sourceforge.net>
+goffice,4188,1036,977,1432,340,229,3176,6201,67.53749395258829,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+goffice08,4531,38,31,1544,13,4,3455,4600,98.5,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+googsystray,0,0,759,0,0,199,0,759,0.0,Finnish
+gourmet,897,878,1872,268,228,372,631,3647,24.59555799287085,Finnish <fi@li.org>
+gparted,1288,3,290,288,2,35,1131,1581,81.4674256799494,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gpaste,510,0,123,102,0,15,372,633,80.56872037914692,
+gphoto2,734,297,645,166,46,116,591,1676,43.794749403341285,Finnish <translation-team-fi@lists.sourceforge.net>
+gpicview,104,61,54,25,8,11,70,219,47.48858447488584,
+gpodder,2355,5,0,611,2,0,1906,2360,99.78813559322035,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gpredict,1025,0,5017,209,0,879,923,6042,16.96458126448196,Finnish <fi@li.org>
+gramps,16517,10149,7004,3612,1506,593,12573,33670,49.05553905553906,<fi@li.org>
+grep,962,0,0,112,0,0,879,962,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gridengine,1508,306,233,323,46,30,1286,2047,73.66878358573523,Finnish <translation-team-fi@lists.sourceforge.net>
+griffith,110,0,1744,26,0,428,85,1854,5.93311758360302,Finnish <fi@li.org>
+grip,1047,0,0,269,0,0,849,1047,100.0,Finnish <lokalisointi-laatu@lists.linux-aktivaattori.org>
+grub2,5911,0,0,1136,0,0,4777,5911,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gsettings-desktop-schemas,421,0,4201,111,0,311,331,4622,9.108610990913025,Finnish <kde-i18n-doc@kde.org>
+gstreamer,1898,5,14,343,2,3,1476,1917,99.00886802295254,Finnish <translation-team-fi@lists.sourceforge.net>
+gstreamer-plugins-bad-free,72,4,20,12,1,1,55,96,75.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gstreamer-plugins-base,891,11,6,174,2,2,620,908,98.12775330396477,Finnish <translation-team-fi@lists.sourceforge.net>
+gstreamer-plugins-good,788,23,3,187,2,1,623,814,96.80589680589681,Finnish <translation-team-fi@lists.sourceforge.net>
+gstreamer1,1794,74,55,328,13,7,1401,1923,93.29173166926678,Finnish <translation-team-fi@lists.sourceforge.net>
+gstreamer1-plugins-bad-free,72,4,20,12,1,1,55,96,75.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gstreamer1-plugins-base,656,37,27,126,11,5,428,720,91.11111111111111,Finnish <translation-team-fi@lists.sourceforge.net>
+gstreamer1-plugins-good,477,119,21,63,14,3,381,617,77.3095623987034,Finnish <translation-team-fi@lists.sourceforge.net>
+gtg,110,0,3369,50,0,250,95,3479,3.1618281115263005,Finnish <fi@li.org>
+gthumb,2664,145,430,903,32,65,2211,3239,82.24760728619944,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gtick,169,165,4,90,3,3,153,338,50.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gtk+,202,0,0,105,0,0,173,202,100.0,Finnish <fi@li.org>
+gtk2,13699,5,0,2783,1,0,9305,13704,99.96351430239346,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gtk2-engines,119,0,0,47,0,0,110,119,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gtk3,11429,1053,596,2490,204,88,7772,13078,87.39103838507417,Finnish <>
+gtkhtml3,488,0,0,310,0,0,445,488,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gtksourceview,891,0,0,366,0,0,662,891,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gtksourceview2,1413,0,0,538,0,0,1060,1413,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gtksourceview3,1450,51,46,579,27,20,1102,1547,93.72979961215255,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gtkspell,15,0,0,6,0,0,14,15,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gtkspell3,15,0,0,6,0,0,14,15,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+gtranslator,1401,44,230,359,10,23,1083,1675,83.64179104477611,suomi <gnome-fi-laatu@lists.sourceforge.net>
+gtypist,419,99,38,75,9,7,349,556,75.35971223021582,Finnish <fi@li.org>
+gucharmap,2578,14,5,478,7,3,1892,2597,99.26838659992299,Finnish <gnome-fi-laatu@lists.sf.net>
+gutenprint,6768,816,2339,2214,299,226,6194,9923,68.20517988511538,Finnish <translation-team-fi@lists.sourceforge.net>
+gvfs,2109,292,151,500,32,32,1769,2552,82.641065830721,Finnish <kde-i18n-doc@kde.org>
+gweled,120,0,36,33,0,11,99,156,76.92307692307693,Finnish <fi@li.org>
+gwget,553,0,0,189,0,0,488,553,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+gwibber,769,0,0,204,0,0,640,769,100.0,Finnish <fi@li.org>
+gxine,567,0,2182,254,0,428,464,2749,20.625682066205894,Finnish <fi@li.org>
+help2man,522,0,2,47,0,1,419,524,99.61832061068702,Finnish <translation-team-fi@lists.sourceforge.net>
+hexchat,3770,0,1793,1032,0,359,2943,5563,67.76918928635628,LANGUAGE <LL@li.org>
+homebank,1030,0,699,436,0,154,842,1729,59.57200694042799,Finnish <fi@li.org>
+homerun,371,0,0,103,0,0,296,371,100.0,Finnish <lokalisointi@lists.coss.fi>
+horde,8079,0,0,2057,0,0,6598,8079,100.0,Finnish <i18n@lists.horde.org>
+hotssh,145,0,0,57,0,0,119,145,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+hugin,4341,884,1948,911,195,223,3425,7173,60.51861145964031,<@>
+icewm,0,0,0,0,0,0,0,0,0.0,Finnish <fi@li.org>
+im-chooser,54,0,183,14,0,40,36,237,22.78481012658228,LANGUAGE <LL@li.org>
+imp,6488,0,0,1315,0,0,5039,6488,100.0,Finnish <i18n@lists.horde.org>
+imsettings,49,0,392,11,0,69,31,441,11.11111111111111,LANGUAGE <LL@li.org>
+indent,258,14,0,52,3,0,229,272,94.85294117647058,Finnish <translation-team-fi@lists.sourceforge.net>
+ingo,886,0,0,236,0,0,749,886,100.0,Finnish <i18n@lists.horde.org>
+initscripts,4290,0,59,1057,0,13,3775,4349,98.6433662911014,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+inkscape,18074,1702,6752,4254,502,822,14167,26528,68.13178528347407,American English <kde-i18n-doc@kde.org>
+insight,9601,0,0,1533,0,0,8205,9601,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+ircp-tray,1,0,238,1,0,60,6,239,0.41841004184100417,Finnish <fi@li.org>
+iso-codes,3455,6978,13529,1887,5101,8647,2853,23962,14.418662882897923,Finnish <translation-team-fi@lists.sourceforge.net>
+isomaster,674,0,0,107,0,0,473,674,100.0,Finnish
+istanbul,350,0,0,45,0,0,241,350,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+iwhd,957,0,0,173,0,0,869,957,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+jmol,2815,19,146,927,5,44,2333,2980,94.46308724832215,Finland <Jmol-developers@lists.sf.net>
+k3b,13623,1651,5149,2228,87,205,9997,20423,66.70420604220732,Finnish <kde-i18n-doc@kde.org>
+kBuild,204,136,165,38,29,14,177,505,40.396039603960396,Finnish <translation-team-fi@lists.sourceforge.net>
+kaffeine,407,80,103,188,46,23,356,590,68.98305084745763,Suomi <kde-i18n-doc@kde.org>
+kanyremote,385,70,25,121,14,8,317,480,80.20833333333334,Finnish
+kaudiocreator,589,168,379,161,43,69,464,1136,51.848591549295776,Finnish <kde-i18n-doc@kde.org>
+kcm-gtk,26,0,98,11,0,10,26,124,20.967741935483872,Finnish <fi@li.org>
+kcoloredit,278,0,0,95,0,0,236,278,100.0,Finnish <kde-i18n-doc@kde.org>
+kde-plasma-networkmanagement,3597,2,222,1043,1,34,2848,3821,94.13766029835122,Finnish <lokalisointi@lists.coss.fi>
+kde-plasma-nm,1936,4,322,664,2,81,1572,2262,85.58797524314765,Finnish <lokalisointi@lists.coss.fi>
+kdevelop,4663,0,0,898,0,0,3532,4663,100.0,Finnish <lokalisointi@lists.coss.fi>
+kdevelop-php,380,0,0,65,0,0,304,380,100.0,Finnish <lokalisointi@lists.coss.fi>
+kdevplatform,9081,0,0,1897,0,0,6993,9081,100.0,Finnish <lokalisointi@lists.coss.fi>
+kexec-tools,84,48,16,6,5,6,57,148,56.75675675675676,Finnish <laatu@lokalisointi.org>
+kgrab,370,0,0,53,0,0,272,370,100.0,Finnish <kde-i18n-doc@kde.org>
+kicad,13425,10,742,3306,2,148,9999,14177,94.69563377301262,Finnish <kicad-developers@lists.launchpad.net>
+kiconedit,726,0,0,155,0,0,528,726,100.0,Finnish <kde-i18n-doc@kde.org>
+kid3,1307,0,3,538,0,1,1222,1310,99.77099236641222,Finnish <kde-i18n-doc@kde.org>
+kile,8852,93,2217,1662,8,232,6147,11162,79.30478408887296,Finnish <lokalisointi@lists.coss.fi>
+kio_gopher,17,0,0,5,0,0,16,17,100.0,Finnish <kde-i18n-doc@kde.org>
+kmess,6713,452,237,1071,51,27,4602,7402,90.69170494460957,American English <kde-i18n-doc@kde.org>
+kmymoney,19133,84,7,3179,9,1,13662,19224,99.52663337494798,Finnish <lokalisointi@lists.coss.fi>
+knemo,931,127,128,270,40,37,695,1186,78.49915682967959,Finnish <kde-i18n-doc@kde.org>
+knights,757,0,0,219,0,0,575,757,100.0,Finnish <lokalisointi@lists.coss.fi>
+koffice-kivio,6667,293,1457,1902,108,351,5276,8417,79.20874420815018,finnish <Finnish <kde-i18n-fi-discussion@lists.sourceforge.net>>
+konversation,10622,0,0,1636,0,0,7829,10622,100.0,Finnish <kde-i18n-doc@kde.org>
+kphotoalbum,6477,565,488,763,38,36,4465,7530,86.01593625498008,Finnish <lokalisointi@lists.coss.fi>
+kpilot,2142,518,4496,434,153,274,1660,7156,29.93292342090553,<fi@li.org>
+kronolith,2310,0,0,566,0,0,1822,2310,100.0,Finnish <i18n@lists.horde.org>
+krusader,7956,0,0,1737,0,0,6187,7956,100.0,Finnish <lokalisointi@lists.coss.fi>
+kscreen,108,0,0,30,0,0,87,108,100.0,Finnish <lokalisointi@lists.coss.fi>
+ksig,71,2,12,17,1,8,52,85,83.52941176470588,finnish <Finnish <kde-i18n-fi-discussion@lists.sourceforge.net>>
+ktorrent,7076,0,663,1368,0,21,5003,7739,91.4330016798036,Finnish <lokalisointi@lists.coss.fi>
+ktp-accounts-kcm,893,0,97,252,0,11,663,990,90.20202020202021,Finnish <lokalisointi@lists.coss.fi>
+ktp-approver,70,0,0,17,0,0,75,70,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-auth-handler,62,0,0,21,0,0,49,62,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-call-ui,201,0,24,70,0,1,165,225,89.33333333333333,Finnish <lokalisointi@lists.coss.fi>
+ktp-common-internals,781,0,0,168,0,0,609,781,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-contact-applet,15,0,0,9,0,0,14,15,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-contact-list,405,0,0,111,0,0,328,405,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-contact-runner,30,0,147,12,0,23,23,177,16.94915254237288,Finnish <lokalisointi@lists.coss.fi>
+ktp-desktop-applets,29,0,0,16,0,0,23,29,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-filetransfer-handler,139,0,0,38,0,0,115,139,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-kded-integration-module,225,0,0,49,0,0,165,225,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-presence-applet,19,0,0,12,0,0,15,19,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-send-file,59,0,0,17,0,0,48,59,100.0,Finnish <lokalisointi@lists.coss.fi>
+ktp-text-ui,469,0,0,110,0,0,374,469,100.0,Finnish <lokalisointi@lists.coss.fi>
+kvirc,2364,791,6863,532,222,1088,1970,10018,23.597524455979237,LANGUAGE <LL@li.org>
+kwebkitpart,624,0,0,158,0,0,475,624,100.0,Finnish <lokalisointi@lists.coss.fi>
+l3afpad,113,0,17,61,0,3,107,130,86.92307692307692,Finnish <translation-team-fi@lists.sourceforge.net>
+lazarus,13691,70,9693,3953,33,1542,11845,23454,58.37383815127484,
+ldm,70,18,96,21,6,25,55,184,38.04347826086957,Finnish <laatu@lokalisointi.org>
+leafpad,125,0,0,68,0,0,115,125,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+libbonobo,543,0,0,107,0,0,396,543,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libbonoboui,368,0,0,115,0,0,276,368,100.0,Finnish <fi@li.org>
+libcryptui,3012,0,0,654,0,0,2303,3012,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libepc,146,0,0,26,0,0,129,146,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libfm,859,0,0,260,0,0,633,859,100.0,LANGUAGE <LL@li.org>
+libgda,5048,2376,3718,1096,508,450,3924,11142,45.30604918327051,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgdata,597,0,0,74,0,0,486,597,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgdl,613,0,0,98,0,0,464,613,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libghemical,637,0,255,169,0,48,507,892,71.41255605381166,LANGUAGE <LL@li.org>
+libgnome,1773,0,0,273,0,0,1199,1773,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgnome-keyring,44,0,0,9,0,0,37,44,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgnome-media-profiles,446,0,14,49,0,2,296,460,96.95652173913044,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgnomecanvas,378,0,0,95,0,0,258,378,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgnomecups,210,0,0,54,0,0,179,210,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgnomekbd,242,0,0,55,0,0,174,242,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgnomeprint22,168,0,0,98,0,0,144,168,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgnomeprintui22,481,0,0,154,0,0,344,481,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgnomeui,1309,0,0,334,0,0,924,1309,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgphoto2,746,2,0,119,1,0,632,748,99.73262032085562,Finnish <translation-team-fi@lists.sourceforge.net>
+libgsasl,577,0,0,69,0,0,390,577,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+libgtop2,126,0,0,40,0,0,92,126,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgweather,6088,0,0,4555,0,0,5864,6088,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libgxim,0,0,130,0,0,26,0,130,0.0,LANGUAGE <LL@li.org>
+libidn,414,0,0,58,0,0,352,414,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+libktorrent,519,0,0,115,0,0,443,519,100.0,Finnish <lokalisointi@lists.coss.fi>
+libmate,1773,0,0,273,0,0,1199,1773,100.0,LANGUAGE <LL@li.org>
+libmatecanvas,378,0,0,95,0,0,258,378,100.0,LANGUAGE <LL@li.org>
+libmatecomponent,537,0,6,106,0,1,391,543,98.89502762430939,LANGUAGE <LL@li.org>
+libmatecomponentui,368,0,0,115,0,0,276,368,100.0,LANGUAGE <LL@li.org>
+libmatekbd,286,0,0,59,0,0,204,286,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+libmatekeyring,44,0,0,9,0,0,37,44,100.0,LANGUAGE <LL@li.org>
+libmateui,1223,0,0,319,0,0,848,1223,100.0,LANGUAGE <LL@li.org>
+libmateweather,6009,0,103,4539,0,16,5802,6112,98.31479057591623,LANGUAGE <LL@li.org>
+libmatewnck,1124,0,0,241,0,0,884,1124,100.0,Finnish <fi@li.org>
+libmx,40,0,0,16,0,0,33,40,100.0,
+libpaper,73,0,0,46,0,0,60,73,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+libpeas,105,0,0,26,0,0,93,105,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libpwquality,310,0,33,49,0,4,227,343,90.37900874635568,LANGUAGE <LL@li.org>
+libreoffice,531966,0,0,73645,0,0,365940,531966,100.0,LANGUAGE <LL@li.org>
+libreport,1184,0,1685,218,0,159,972,2869,41.26873475078425,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+libreswan,0,480,455,0,24,17,0,935,0.0,Finnish <debian-l10n-finnish@lists.debian.org>
+libsocialweb,148,0,0,12,0,0,104,148,100.0,
+libuser,1051,17,400,222,3,79,897,1468,71.59400544959128,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+libvirt,1579,16835,19623,359,3006,2850,1221,38037,4.151221179377974,Finnish <laatu@lokalisointi.org>
+libwnck,1124,0,0,241,0,0,884,1124,100.0,Finnish <fi@li.org>
+libwnck3,1084,0,0,230,0,0,846,1084,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+libxfce4ui,613,0,0,90,0,0,405,613,100.0,Finnish
+libxfce4util,424,0,0,7,0,0,325,424,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+libxfcegui4,139,0,0,44,0,0,97,139,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+liferea,2239,4,23,495,1,3,1681,2266,98.80847308031774,Finnish <translation-team-fi@lists.sourceforge.net>
+lightdm,42,0,37,15,0,2,35,79,53.16455696202531,Finnish <fi@li.org>
+lightdm-gtk,56,0,1,18,0,1,45,57,98.24561403508771,Finnish <fi@li.org>
+lightdm-kde,116,0,18,54,0,3,91,134,86.56716417910447,Finnish <lokalisointi@lists.coss.fi>
+lilypond,2513,0,0,455,0,0,2185,2513,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+listen,802,0,980,344,0,204,690,1782,45.00561167227834,Finnish <fi@li.org>
+liveusb-creator,480,0,0,52,0,0,339,480,100.0,Finnish <laatu@lokalisointi.org>
+ltsp,462,0,0,87,0,0,341,462,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+lxappearance,212,0,0,74,0,0,173,212,100.0,LANGUAGE <LL@li.org>
+lxappearance-obconf,196,0,0,27,0,0,146,196,100.0,LANGUAGE <LL@li.org>
+lxdm,12,0,18,11,0,7,12,30,40.0,LANGUAGE <LL@li.org>
+lxinput,72,0,0,24,0,0,61,72,100.0,LANGUAGE <LL@li.org>
+lxlauncher,8,10,33,3,1,7,7,51,15.686274509803921,fi <fi@li.org>
+lxmenu-data,97,0,0,37,0,0,77,97,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+lxmusic,0,0,203,0,0,89,0,203,0.0,LANGUAGE <LL@li.org>
+lxpanel,892,37,58,297,15,24,777,987,90.37487335359677,LANGUAGE <LL@li.org>
+lxpolkit,12,3,0,8,1,0,12,15,80.0,LANGUAGE <LL@li.org>
+lxrandr,111,0,11,24,0,3,101,122,90.98360655737704,LANGUAGE <LL@li.org>
+lxsession,36,0,0,14,0,0,30,36,100.0,LANGUAGE <LL@li.org>
+lxsession-edit,62,2,0,10,1,0,45,64,96.875,Finnish <laatu@lokalisointi.org>
+lxshortcut,43,0,0,19,0,0,36,43,100.0,Finnish <laatu@lokalisointi.org>
+lxtask,122,0,0,48,0,0,110,122,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+lxterminal,142,0,2,83,0,2,127,144,98.61111111111111,Finnish <laatu@lokalisointi.org>
+lynx,701,96,7190,135,21,1057,503,7987,8.776762238637787,Finnish <translation-team-fi@lists.sourceforge.net>
+lyx,6955,4703,5721,2950,1604,707,5815,17379,40.019563841417806,Finnish <fi@li.org>
+mailman,19926,2026,314,1345,21,10,15619,22266,89.4907033144705,Finnish Language Team
+make,1508,306,233,323,46,30,1286,2047,73.66878358573523,Finnish <translation-team-fi@lists.sourceforge.net>
+man-db,356,98,831,82,15,158,333,1285,27.704280155642024,Finnish <translation-team-fi@lists.sourceforge.net>
+mana,3415,0,0,875,0,0,2939,3415,100.0,Finnish <fi@li.org>
+manaplus,3722,6,709,1145,2,237,3115,4437,83.88550822627901,LANGUAGE <LL@li.org>
+manaworld,3216,0,0,822,0,0,2754,3216,100.0,Finnish <fi@li.org>
+mate-applets,15557,0,419,1663,0,101,11046,15976,97.37731597396095,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-backgrounds,23,0,7,17,0,4,21,30,76.66666666666667,LANGUAGE <LL@li.org>
+mate-bluetooth,2045,0,0,265,0,0,1483,2045,100.0,Finnish <fi@li.org>
+mate-calc,2105,0,927,399,0,282,1587,3032,69.42612137203166,Suomi <mate-fi-laatu@lists.sourceforge.net>
+mate-character-map,2538,0,0,459,0,0,1853,2538,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-conf,3985,0,47,481,0,3,3220,4032,98.83432539682539,LANGUAGE <LL@li.org>
+mate-conf-editor,336,0,0,98,0,0,282,336,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-control-center,2282,0,328,563,0,45,1788,2610,87.43295019157088,LANGUAGE <LL@li.org>
+mate-desktop,4634,465,1997,158,8,46,3589,7096,65.304396843292,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-dialogs,2980,0,30,399,0,9,2045,3010,99.00332225913621,Finnish
+mate-doc-utils,251,0,0,101,0,0,242,251,100.0,LANGUAGE <LL@li.org>
+mate-document-viewer,3307,0,0,544,0,0,2286,3307,100.0,Finnish
+mate-file-archiver,7101,0,0,763,0,0,4506,7101,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-file-manager,7962,0,1124,1357,0,119,5812,9086,87.62931983270967,LANGUAGE <LL@li.org>
+mate-file-manager-image-converter,79,0,0,35,0,0,82,79,100.0,Finnish <fi@li.org>
+mate-file-manager-open-terminal,82,0,0,7,0,0,46,82,100.0,LANGUAGE <LL@li.org>
+mate-file-manager-sendto,308,0,0,64,0,0,226,308,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-file-manager-share,226,0,0,36,0,0,181,226,100.0,Finnish
+mate-icon-theme,51,0,0,46,0,0,56,51,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-image-viewer,4614,0,282,529,0,20,3147,4896,94.24019607843137,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-keyring,1018,0,155,205,0,38,852,1173,86.78601875532821,LANGUAGE <LL@li.org>
+mate-media,1665,0,89,281,0,23,1241,1754,94.92588369441278,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-menu-editor,42,0,0,16,0,0,34,42,100.0,LANGUAGE <LL@li.org>
+mate-menus,161,0,0,57,0,0,130,161,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-mime-data,887,0,0,362,0,0,547,887,100.0,LANGUAGE <LL@li.org>
+mate-netspeed,127,0,10,44,0,6,106,137,92.7007299270073,LANGUAGE <LL@li.org>
+mate-panel,5721,0,252,702,0,32,4034,5973,95.78101456554495,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-polkit,311,0,0,48,0,0,204,311,100.0,Finnish <laatu@lokalisointi.org>
+mate-power-manager,6518,0,219,624,0,24,4705,6737,96.74929493839987,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-screensaver,989,0,0,157,0,0,741,989,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-sensors-applet,59,30,209,24,13,51,48,298,19.798657718120804,GFTT <mate-fi-laatu@lists.sourceforge.net>
+mate-session-manager,659,0,6,116,0,1,499,665,99.09774436090225,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-settings-daemon,1179,0,556,186,0,56,842,1735,67.95389048991355,LANGUAGE <LL@li.org>
+mate-system-monitor,933,0,0,244,0,0,719,933,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-terminal,4141,0,0,483,0,0,2821,4141,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-text-editor,12512,0,31,1768,0,8,8458,12543,99.75285019532807,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-themes,96,0,13,22,0,8,88,109,88.07339449541286,LANGUAGE <LL@li.org>
+mate-user-share,326,0,0,51,0,0,253,326,100.0,Finnish <matefi-laatu@lists.sourceforge.net>
+mate-utils,9987,0,0,1125,0,0,6904,9987,100.0,Finnish <mate-fi-laatu@lists.sourceforge.net>
+mate-vfs,1519,0,0,305,0,0,1032,1519,100.0,LANGUAGE <LL@li.org>
+mate-window-manager,2076,0,40,322,0,4,1646,2116,98.10964083175804,LANGUAGE <LL@li.org>
+mc,669,0,7305,234,0,2086,565,7974,8.389766741911211,Finnish (http://www.transifex.com/projects/p/mc/language/fi/)
+meld,910,0,0,238,0,0,770,910,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+metacity,2025,15,0,301,9,0,1619,2040,99.26470588235294,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+midori,2747,0,0,669,0,0,2002,2747,100.0,Finnish
+mingw-GConf2,4088,0,0,497,0,0,3293,4088,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+mingw-atk,375,0,0,126,0,0,262,375,100.0,Gnome Finnish Translation Team <gnome-fi-laatu@lists.sourceforge.net>
+mingw-binutils,48644,0,0,7846,0,0,40515,48644,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-gcc,7980,14316,48961,1341,2220,5948,6368,71257,11.198899757216834,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-gdb,9601,0,0,1533,0,0,8205,9601,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-gdbm,475,8,0,134,2,0,449,483,98.34368530020704,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-gdk-pixbuf,1265,89,0,194,8,0,944,1354,93.42688330871492,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+mingw-gettext,6390,511,33,657,39,4,4945,6934,92.15460051918085,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-glib-networking,112,0,41,22,0,6,90,153,73.20261437908496,Finnish <>
+mingw-glib2,4457,428,319,716,50,36,3692,5204,85.6456571867794,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+mingw-gstreamer,1898,5,14,343,2,3,1476,1917,99.00886802295254,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-gstreamer-plugins-bad-free,72,4,20,12,1,1,55,96,75.0,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-gstreamer-plugins-base,891,11,6,174,2,2,620,908,98.12775330396477,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-gstreamer-plugins-good,788,23,3,187,2,1,623,814,96.80589680589681,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-gtk2,13699,5,0,2783,1,0,9305,13704,99.96351430239346,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+mingw-gtk3,11429,1053,596,2490,204,88,7772,13078,87.39103838507417,Finnish <>
+mingw-gtkhtml3,488,0,0,310,0,0,445,488,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+mingw-gtksourceview3,1450,51,46,579,27,20,1102,1547,93.72979961215255,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+mingw-gtkspell3,15,0,0,6,0,0,14,15,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-libidn,414,0,0,58,0,0,352,414,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-libvirt,1579,16691,19570,359,2982,2853,1221,37840,4.172832980972515,Finnish <laatu@lokalisointi.org>
+mingw-sane-backends,3242,427,1082,626,159,222,2230,4751,68.23826562828879,Debian l10n Finnish <debian-l10n-finnish@lists.debian.org>
+mingw-w64-tools,56015,12373,45979,9094,1914,5691,46408,114367,48.97828919181232,Finnish <translation-team-fi@lists.sourceforge.net>
+mingw-wxWidgets,5060,577,1034,1258,83,182,4201,6671,75.8506970469195,Finnish <translation-team-fi@lists.sourceforge.net>
+minicom,1484,224,8,371,6,2,1258,1716,86.48018648018649,Finnish <translation-team-fi@lists.sourceforge.net>
+mlocate,174,0,407,34,0,17,150,581,29.948364888123923,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+moin,4737,136,150,813,53,61,3857,5023,94.30619151901254,
+mousetweaks,143,0,94,42,0,22,107,237,60.337552742616026,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+msp430-binutils,23505,0,0,3779,0,0,19520,23505,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+msp430-gcc,8166,12373,45979,1370,1914,5691,6519,66518,12.276376319191797,Finnish <translation-team-fi@lists.sourceforge.net>
+muffin,1958,15,70,272,2,7,1557,2043,95.83945178658834,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+multimedia-menus,56,0,0,22,0,0,49,56,100.0,Finnish <laatu@lokalisointi.org>
+mutter,1902,15,98,259,2,9,1507,2015,94.39205955334987,Finnish <kde-i18n-doc@kde.org>
+nano,2689,0,0,419,0,0,2051,2689,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+nautilus,6089,215,12,1033,16,6,4609,6316,96.40595313489551,Finnish <kde-i18n-doc@kde.org>
+nautilus-actions,1465,88,1,166,3,1,1039,1554,94.27284427284427,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+nautilus-image-converter,79,0,0,35,0,0,82,79,100.0,Finnish <fi@li.org>
+nautilus-open-terminal,158,0,0,14,0,0,88,158,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+nautilus-sendto,308,0,0,64,0,0,226,308,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+ncmpc,329,0,378,120,0,136,304,707,46.53465346534654,Finnish <fi@li.org>
+nemiver,902,0,0,249,0,0,673,902,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+nemo,7388,7,8,1190,1,1,5455,7403,99.79737944076726,Finnish <>
+nemo-open-terminal,158,0,0,14,0,0,88,158,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+network-manager-applet,2500,247,146,588,32,32,1854,2893,86.41548565502937,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+neverball,655,71,1945,143,6,241,464,2671,24.522650692624484,Finnish
+newt,4,0,0,4,0,0,4,4,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+nfoview,119,0,0,52,0,0,98,119,100.0,Finnish
+nicotine+,2532,528,1080,626,165,155,2077,4140,61.15942028985507,K.Viittanen <mr_auer@welho.net>
+notification-daemon,17,0,0,7,0,0,13,17,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+oggconvert,126,0,6,42,0,2,106,132,95.45454545454545,Finnish <fi@li.org>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+openbox,449,30,28,90,1,3,322,507,88.56015779092702,None
+openconnect,38,0,2535,9,0,460,30,2573,1.4768752429071124,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+openerp,21876,0,34585,6167,0,2755,16535,56461,38.7453286339243,Finnish <fi@li.org>
+openerp-client,2066,0,5663,519,0,55,1650,7729,26.730495536291887,Finnish <fi@li.org>
+openswan,0,476,498,0,23,18,0,974,0.0,Finnish <debian-l10n-finnish@lists.debian.org>
+openteacher,448,0,208,164,0,32,373,656,68.29268292682927,Finnish <fi@li.org>
+orage,2392,0,0,801,0,0,2012,2392,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+orca,3629,4,388,1114,1,49,3110,4021,90.25118129818453,Finnish <kde-i18n-doc@kde.org>
+osmo,1290,232,177,558,84,63,1110,1699,75.927015891701,Finnish <fi@li.org>
+owncloud,1927,0,3227,680,0,1024,1599,5154,37.388436166084595,Finnish (http://www.transifex.com/projects/p/owncloud/language/fi/)
+pam,590,13,12,120,2,1,476,615,95.9349593495935,Finnish (http://www.transifex.net/projects/p/fedora/language/fi/)
+pan,1981,586,601,509,129,114,1654,3168,62.53156565656566,Finnish <laatu@lokalisointi.org>
+paprefs,131,0,0,23,0,0,100,131,100.0,Finnish <laatu@lokalisointi.org>
+partimage,1388,1524,475,273,106,83,1119,3387,40.98021848243283,Suomi <fi@li.org>
+passwd,276,0,39,50,0,5,242,315,87.61904761904762,Finnish (http://www.transifex.net/projects/p/fedora/team/fi/)
+pastebinit,114,0,69,16,0,11,84,183,62.295081967213115,Finnish <fi@li.org>
+pavucontrol,219,1,17,85,1,1,191,237,92.40506329113924,Finnish <laatu@lokalisointi.org>
+pcmanfm,799,0,0,201,0,0,609,799,100.0,
+pessulus,130,0,0,33,0,0,106,130,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+pgadmin3,7248,7266,1011,2155,1777,199,5626,15525,46.68599033816425,pgAdmin Developers <pgadmin-hackers@postgresql.org>
+phatch,1567,0,986,617,0,207,1316,2553,61.37877007442225,Finnish <fi@li.org>
+php,2,0,0,1,0,0,1,2,100.0,
+php-horde-Horde-Alarm,13,0,0,5,0,0,10,13,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Argv,60,0,0,13,0,0,51,60,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Auth,187,0,0,14,0,0,151,187,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Browser,66,0,0,6,0,0,49,66,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Cli,16,0,0,5,0,0,11,16,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Compress,25,0,0,6,0,0,22,25,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Crypt,353,0,0,82,0,0,278,353,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Data,53,0,0,8,0,0,37,53,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Date,42,0,0,12,0,0,42,42,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Exception,4,0,0,2,0,0,4,4,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Icalendar,3,0,0,1,0,0,2,3,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Image,582,0,0,285,0,0,509,582,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Imap-Client,375,0,0,52,0,0,270,375,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Imsp,3,0,0,1,0,0,2,3,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-LoginTasks,6,0,0,5,0,0,6,6,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Mime,42,0,0,11,0,0,32,42,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Nls,702,0,0,456,0,0,654,702,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Perms,17,0,0,5,0,0,14,17,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Prefs,30,0,0,9,0,0,23,30,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-SyncMl,3,0,0,1,0,0,3,3,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Text-Filter,1,0,0,1,0,0,1,1,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Token,64,0,0,4,0,0,55,64,100.0,Finnish <i18n@lists.horde.org>
+php-horde-Horde-Vfs,10,0,0,3,0,0,11,10,100.0,Finnish <i18n@lists.horde.org>
+phpesp,2772,425,996,528,48,182,2242,4193,66.110183639399,Finnish
+picard,1600,0,81,650,0,18,1322,1681,95.18143961927424,Finnish (http://www.transifex.com/projects/p/musicbrainz/language/fi/)
+pidgin,16939,814,603,3659,167,77,13114,18356,92.28045325779037,
+pidgin-musictracker,167,0,166,50,0,10,143,333,50.150150150150154,Finnish <fi@li.org>
+pidgin-sipe,163,0,736,52,0,170,136,899,18.13125695216908,Finnish (http://www.transifex.com/projects/p/pidgin-sipe/language/fi/)
+pingus,1898,91,3406,188,2,256,1371,5395,35.18072289156626,Finnish <fi@li.org>
+pinta,1365,0,0,470,0,0,1117,1365,100.0,Finnish <fi@li.org>
+pitivi,1448,0,137,382,0,13,1107,1585,91.35646687697161,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+planner,1795,0,0,527,0,0,1446,1795,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+poedit,1373,79,73,325,19,10,1067,1525,90.0327868852459,Finnish
+pogo,186,0,390,69,0,32,155,576,32.29166666666667,Finnish <fi@li.org>
+policycoreutils,1432,0,2871,265,0,465,1253,4303,33.27910759934929,Finnish (http://www.transifex.net/projects/p/fedora/language/fi/)
+polkit-gnome,311,0,0,48,0,0,204,311,100.0,Finnish <laatu@lokalisointi.org>
+polkit-kde,82,0,10,22,0,4,66,92,89.13043478260869,Finnish <kde-i18n-doc@kde.org>
+pondus,324,0,0,91,0,0,253,324,100.0,LANGUAGE <LL@li.org>
+pootle,2424,0,0,459,0,0,1810,2424,100.0,LANGUAGE <LL@li.org>
+postler,753,0,0,228,0,0,592,753,100.0,Finnish <xfce-i18n@xfce.org>
+preupgrade,768,0,0,114,0,0,642,768,100.0,Finnish (http://www.transifex.net/projects/p/fedora/language/fi/)
+psmisc,904,0,0,83,0,0,829,904,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+publican,925,0,169,45,0,27,661,1094,84.55210237659963,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+publican-fedora,107,0,0,6,0,0,66,107,100.0,Finnish <laatu@lokalisointi.org>
+pulseaudio,2012,952,339,409,44,43,1648,3303,60.91432031486528,Finnish <laatu@lokalisointi.org>
+purple-msn-pecan,776,0,184,161,0,17,600,960,80.83333333333333,Finnish <fi@li.org>
+pybliographer,962,0,0,261,0,0,874,962,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+pychess,68,0,3023,33,0,605,64,3091,2.1999352960207053,Finnish <fi@li.org>
+pykickstart,343,0,0,36,0,0,245,343,100.0,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+pyroom,118,0,293,31,0,43,83,411,28.710462287104622,Finnish <fi@li.org>
+python-django,4064,0,992,1279,0,309,3312,5056,80.37974683544303,Finnish (http://www.transifex.net/projects/p/django/language/fi/)
+python-django-countries,479,0,1,264,0,1,358,480,99.79166666666667,LANGUAGE <LL@li.org>
+python-django-helpdesk,0,0,3242,0,0,487,0,3242,0.0,Finnish (http://www.transifex.com/projects/p/django-helpdesk/language/fi/)
+python-ldaptor,222,0,0,83,0,0,189,222,100.0,LANGUAGE <LL@li.org>
+python-lettuce,7599,0,92,2435,0,18,6198,7691,98.80379664542971,Django I18N <Django-I18N@googlegroups.com>
+python-meh,7,0,57,6,0,9,7,64,10.9375,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+python-nevow,14,0,0,4,0,0,16,14,100.0,LANGUAGE <LL@li.org>
+python-sphinx,185,11,250,60,5,100,119,446,41.47982062780269,fi <sphinx@awot.fi>
+quassel,4294,0,369,970,0,83,3390,4663,92.08663950246623,
+quodlibet,1476,355,843,441,121,157,1245,2674,55.19820493642483,Finnish <translation-team-fi@lists.sourceforge.net>
+rabbitvcs,53,0,1471,33,0,439,46,1524,3.477690288713911,Finnish <fi@li.org>
+radiotray,61,0,69,28,0,18,60,130,46.92307692307692,Finnish (http://www.transifex.com/projects/p/radiotray/language/fi/)
+rapid-photo-downloader,1900,0,25,402,0,4,1501,1925,98.7012987012987,Finnish <fi@li.org>
+rawstudio,1527,0,0,485,0,0,1257,1527,100.0,Rawstudio development <rawstudio-dev@rawstudio.org>
+recutils,1507,236,1,182,13,1,1223,1744,86.41055045871559,Finnish <translation-team-fi@lists.sourceforge.net>
+redhat-menus,261,0,0,86,0,0,190,261,100.0,<>
+rednotebook,1012,0,109,226,0,9,794,1121,90.27653880463872,Finnish <fi@li.org>
+redshift,350,116,96,68,3,15,299,562,62.27758007117438,Finnish <fi@li.org>
+regexxer,466,0,1,99,0,1,384,467,99.78586723768737,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+rekonq,2198,0,0,591,0,0,1755,2198,100.0,Finnish <lokalisointi@lists.coss.fi>
+resapplet,106,0,0,22,0,0,79,106,100.0,suomi <yast-trans-fi@kotoistaminen.novell.fi>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Finnish
+revelation,865,0,1080,169,0,233,618,1945,44.473007712082264,LANGUAGE <LL@li.org>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,446,0,3902,75,0,358,282,4348,10.257589696412143,Finnish (http://www.transifex.net/projects/p/fedora/language/fi/)
+rhnsd,0,0,37,0,0,9,0,37,0.0,Finnish (http://www.transifex.net/projects/p/fedora/team/fi/)
+rhythmbox,3633,34,381,972,1,53,2961,4048,89.74802371541502,Finnish <>
+ristretto,523,1,17,179,1,3,386,541,96.67282809611831,Finnish <xfce-i18n@xfce.org>
+root,211,0,0,11,0,0,150,211,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+rpm,2409,20,1471,492,3,263,2032,3900,61.76923076923077,LANGUAGE <LL@li.org>
+rt3,5818,0,3203,1544,0,605,4909,9021,64.49395854118168,rt-devel <rt-devel@lists.bestpractical.com>
+rygel,178,0,401,48,0,71,142,579,30.7426597582038,Finnish <>
+sabayon,743,0,0,171,0,0,593,743,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+samba,212,67,245,34,18,76,172,524,40.458015267175576,suomi <fi@li.org>
+sane-backends,3242,427,1082,626,159,222,2230,4751,68.23826562828879,Debian l10n Finnish <debian-l10n-finnish@lists.debian.org>
+sawfish,2370,1501,2572,539,249,194,1732,6443,36.78410678255471,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+scalpel,447,0,0,30,0,0,416,447,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+scim,1158,3,3,274,3,3,803,1164,99.48453608247422,
+scummvm,2669,92,102,652,10,43,2143,2863,93.22389102340203,Finnish
+seahorse,2188,158,78,542,15,8,1729,2424,90.26402640264027,Finnish <kde-i18n-doc@kde.org>
+seahorse-nautilus,421,0,0,110,0,0,371,421,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+seahorse-plugins,1163,0,0,248,0,0,964,1163,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+sed,490,54,37,84,2,3,428,581,84.33734939759037,Finnish <translation-team-fi@lists.sourceforge.net>
+setroubleshoot,557,0,74,165,0,9,463,631,88.27258320126784,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+setroubleshoot-plugins,49,0,9434,3,0,456,35,9483,0.5167141200042181,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+setuptool,55,0,0,14,0,0,41,55,100.0,Finnish
+sh-elf-binutils,23505,0,0,3779,0,0,19520,23505,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+shadow-utils,1087,1002,1654,211,159,188,941,3743,29.040876302431208,Finnish <debian-l10n-finnish@lists.debian.org>
+shared-mime-info,1572,0,100,628,0,27,943,1672,94.01913875598086,Finnish (http://www.transifex.com/projects/p/freedesktop/language/fi/)
+sharutils,1055,0,0,151,0,0,943,1055,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+shotwell,3693,0,569,818,0,56,3008,4262,86.64946034725482,LANGUAGE <LL@li.org>
+shutter,2084,0,1009,517,0,89,1652,3093,67.37795021015197,Finnish <fi@li.org>
+simple-scan,327,0,324,93,0,25,274,651,50.23041474654379,Finnish <fi@li.org>
+skrooge,183,32,8236,116,13,1861,162,8451,2.165424210152645,Finnish <lokalisointi@lists.coss.fi>
+skychart,102,14,1525,50,1,297,113,1641,6.2157221206581355,
+slrn,4509,563,279,824,48,78,3833,5351,84.264623434872,Finnish <translation-team-fi@lists.sourceforge.net>
+solfege,4203,0,6,1050,0,1,3416,4209,99.85744832501781,Finnish <translation-team-fi@lists.sourceforge.net>
+sonata,1136,0,0,357,0,0,971,1136,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+sos,267,0,0,36,0,0,196,267,100.0,Finnish <laatu@lokalisointi.org>
+sound-juicer,1022,0,0,198,0,0,845,1022,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+soundconverter,224,0,238,68,0,61,180,462,48.484848484848484,Finnish <fi@li.org>
+spacefm,549,0,7707,197,0,1300,417,8256,6.649709302325581,LANGUAGE <LL@li.org>
+spacewalk-backend,0,0,1895,0,0,223,0,1895,0.0,Finnish (http://www.transifex.net/projects/p/fedora/language/fi/)
+speedcrunch,18,0,0,13,0,0,19,18,100.0,Finnish
+springlobby,1277,773,5079,534,241,733,1063,7129,17.91275073642867,Finnish <fi@li.org>
+squirrelmail,5125,977,1560,1219,186,96,3777,7662,66.88854085095275,Finnish <squirrelmail-i18n@lists.sourceforge.net>
+steadyflow,392,0,78,86,0,7,305,470,83.40425531914893,Finnish <fi@li.org>
+stellarium,11181,0,0,3145,0,0,8306,11181,100.0,Finnish <fi@li.org>
+stratagus,211,8,26,59,2,8,183,245,86.12244897959184,Kimmo Kalevi Merikivi <fi@li.org>
+subdownloader,939,0,29,264,0,8,766,968,97.00413223140497,LANGUAGE <LL@li.org>
+subsurface,1597,0,0,516,0,0,1363,1597,100.0,Finnish (Finland) (http://www.transifex.com/projects/p/subsurface/language/fi_FI/)
+sudo,3087,0,0,488,0,0,2521,3087,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,134,0,0,41,0,134,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,871,0,0,164,0,871,0.0,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,0,0,52,0,0,34,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-clock,1,0,58,1,0,17,1,59,1.694915254237288,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,143,0,0,32,0,143,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,81,0,0,31,0,81,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,51,0,0,13,0,51,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,184,0,0,56,0,184,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,65,0,0,20,0,65,0.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,94,0,0,20,0,94,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,140,0,0,73,0,140,0.0,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,88,0,0,51,0,88,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,109,0,0,31,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-read,0,0,108,0,0,40,0,108,0.0,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,217,0,0,72,0,217,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,65,18,2842,47,12,691,64,2925,2.2222222222222223,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,0,0,575,0,0,126,0,575,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,81,0,0,48,0,81,0.0,LANGUAGE <LL@li.org>
+supertux,1172,0,284,216,0,32,857,1456,80.4945054945055,
+supertuxkart,1852,0,78,342,0,11,1452,1930,95.95854922279793,
+sushi,24,0,0,11,0,0,20,24,100.0,Finnish <>
+switchdesk,139,0,0,20,0,0,91,139,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+sylpheed,6717,117,189,1702,23,21,5309,7023,95.64288765484835,Finnish <foo@bar.example>
+synapse,623,0,88,178,0,18,510,711,87.62306610407876,Finnish <fi@li.org>
+syncevolution,1132,0,0,163,0,0,882,1132,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+sysstat,580,0,0,60,0,0,509,580,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+system-config-bind,0,0,9419,0,0,1064,0,9419,0.0,none
+system-config-boot,119,0,0,23,0,0,85,119,100.0,Finnish <laatu@lokalisointi.org>
+system-config-date,470,0,1380,52,0,772,337,1850,25.405405405405407,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+system-config-date-docs,0,0,761,0,0,64,0,761,0.0,LANGUAGE <LL@li.org>
+system-config-firewall,2807,0,7,330,0,1,2039,2814,99.75124378109453,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+system-config-httpd,877,0,0,227,0,0,645,877,100.0,Finnish <laatu@lokalisointi.org>
+system-config-kdump,733,0,135,125,0,27,541,868,84.44700460829493,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+system-config-keyboard,187,0,0,81,0,0,155,187,100.0,Finnish <laatu@lokalisointi.org>
+system-config-kickstart,1080,3,65,239,1,14,737,1148,94.07665505226481,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+system-config-language,293,0,30,54,0,2,215,323,90.71207430340557,Finnish <laatu@lokalisointi.org>
+system-config-lvm,2246,0,0,344,0,0,1786,2246,100.0,Finnish <laatu@lokalisointi.org>
+system-config-network,3020,12,0,717,4,0,2228,3032,99.6042216358839,Finnish <laatu@lokalisointi.org>
+system-config-nfs,332,0,0,72,0,0,255,332,100.0,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+system-config-nfs-docs,0,0,1192,0,0,71,0,1192,0.0,LANGUAGE <LL@li.org>
+system-config-printer,3039,25,0,738,6,0,2363,3064,99.18407310704961,Finnish (http://www.transifex.net/projects/p/fedora/team/fi/)
+system-config-rootpassword,116,0,0,19,0,0,90,116,100.0,Gnome Finnish Translation Team <gnome-fi-laatu@lists.sourceforge.net>
+system-config-samba,571,0,0,134,0,0,434,571,100.0,Finnish (http://www.transifex.net/projects/p/fedora/language/fi/)
+system-config-samba-docs,0,0,1195,0,0,67,0,1195,0.0,LANGUAGE <LL@li.org>
+system-config-services,518,0,0,71,0,0,423,518,100.0,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1452,0,0,173,0,0,1091,1452,100.0,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,53,81,100.0,Finnish <laatu@lokalisointi.org>
+system-switch-mail,158,0,0,24,0,0,108,158,100.0,Finnish <laatu@lokalisointi.org>
+tar,1953,566,798,332,98,117,1709,3317,58.87850467289719,Finnish <translation-team-fi@lists.sourceforge.net>
+tellico,5113,452,220,1096,78,41,3615,5785,88.38375108038029,Finnish <lokalisointi@lists.coss.fi>
+terminator,319,0,407,116,0,138,268,726,43.93939393939394,Finnish <fi@li.org>
+thunar-archive-plugin,86,0,0,13,0,0,57,86,100.0,Finnish <fi@li.org>
+thunar-vfs,387,0,0,86,0,0,300,387,100.0,Finnish <xfce-i18n@xfce.org>
+thunar-volman,483,0,0,113,0,0,349,483,100.0,Finnish <None>
+tmispell-voikko,525,0,0,28,0,0,389,525,100.0,
+tomboy,3278,0,0,471,0,0,2484,3278,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+toppler,396,17,139,148,7,60,355,552,71.73913043478261,fi_FI <fi@li.org>
+totem,6589,0,8,785,0,3,4440,6597,99.87873275731393,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+totem-pl-parser,28,0,0,7,0,0,20,28,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+trac,4550,89,1033,1009,17,131,3806,5672,80.21861777150917,Peda.net
+tracker,882,315,1969,244,65,227,725,3166,27.858496525584332,suomi <>
+transifex,5578,249,597,981,28,64,3743,6424,86.83063511830636,Finnish (http://www.transifex.net/projects/p/transifex/team/fi/)
+transmageddon,189,0,21,56,0,3,177,210,90.0,Finnish <kde-i18n-doc@kde.org>
+transmission,1761,0,48,490,0,4,1612,1809,97.34660033167496,-
+tre,429,0,0,30,0,0,398,429,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+tumbler,343,0,0,55,0,0,223,343,100.0,Finnish <xfce-i18n@xfce.org>
+turba,1718,0,0,407,0,0,1340,1718,100.0,Finnish <i18n@lists.horde.org>
+tuxmath,138,116,1200,44,13,191,132,1454,9.491059147180192,Finnish <fi@li.org>
+tuxpaint,491,560,196,141,66,45,416,1247,39.37449879711307,Finnish <translation-team-fi@lists.sourceforge.net>
+tuxpaint-stamps,684,703,1324,159,272,219,362,2711,25.230542235337516,
+tuxtype2,79,0,1,39,0,1,65,80,98.75,LANGUAGE <LL@li.org>
+tvtime,1169,49,6,240,5,2,956,1224,95.50653594771242,Tapio Leipälä <lucid@sci.fi>
+txt2tags,595,0,0,122,0,0,468,595,100.0,
+udisks2,319,0,921,128,0,220,258,1240,25.725806451612904,Finnish (http://www.transifex.com/projects/p/freedesktop/language/fi/)
+usermode,573,0,0,96,0,0,419,573,100.0,Finnish (http://www.transifex.com/projects/p/fedora/language/fi/)
+util-linux,6770,5653,7730,1177,1089,601,5926,20153,33.59301344712946,Finnish <translation-team-fi@lists.sourceforge.net>
+vdr,1150,0,22,491,0,6,938,1172,98.12286689419795,Finnish <vdr@linuxtv.org>
+vdr-epgsearch,2419,0,0,390,0,0,1552,2419,100.0,Finnish <vdr@linuxtv.org>
+vdr-femon,313,0,0,124,0,0,238,313,100.0,Finnish <vdr@linuxtv.org>
+vdr-osdteletext,44,0,0,20,0,0,33,44,100.0,Finnish <vdr@linuxtv.org>
+vdr-remote,48,0,0,11,0,0,39,48,100.0,<vdr@linuxtv.org>
+vdr-screenshot,35,0,0,14,0,0,32,35,100.0,Finnish <vdr@linuxtv.org>
+vdr-skinenigmang,267,13,42,108,4,19,217,322,82.91925465838509,<vdr@linuxtv.org>
+vdr-skins,5,1,0,4,1,0,5,6,83.33333333333334,Finnish
+vdr-skinsoppalusikka,137,0,0,33,0,0,91,137,100.0,Finnish <vdr@linuxtv.org>
+vdr-streamdev,93,0,0,38,0,0,75,93,100.0,Finnish <vdr@linuxtv.org>
+vdr-sudoku,105,0,0,37,0,0,83,105,100.0,<vdr@linuxtv.org>
+vdr-text2skin,59,0,0,16,0,0,41,59,100.0,Finnish <vdr@linuxtv.org>
+vdr-ttxtsubs,67,0,0,30,0,0,59,67,100.0,Finnish <vdr@linuxtv.org>
+vdradmin-am,2288,0,1912,455,0,38,1588,4200,54.47619047619048,Finnish <vdr@linuxtv.org>
+vidalia,4009,0,6458,995,0,311,3102,10467,38.30132798318525,none
+viewnior,97,0,290,47,0,75,87,387,25.064599483204137,Finnish <fi@li.org>
+viking,2451,0,1684,648,0,408,1959,4135,59.2744860943168,Finnish <fi@li.org>
+vim,8721,0,0,1768,0,0,7429,8721,100.0,Finnish <laatu@lokalisointi.org>
+vinagre,1430,0,0,260,0,0,1053,1430,100.0,Finnish <>
+vino,1119,94,10,130,2,1,785,1223,91.49632052330335,Finnish <>
+virt-manager,972,30,3939,268,6,873,679,4941,19.672131147540984,LANGUAGE <LL@li.org>
+virt-viewer,0,0,539,0,0,116,0,539,0.0,Finnish (http://www.transifex.net/projects/p/fedora/language/fi/)
+virtaal,1429,0,4,424,0,2,1098,1433,99.7208653175157,Finnish <fi@li.org>
+vte,80,0,0,13,0,0,71,80,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+vte3,80,0,0,13,0,0,71,80,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+wammu,2578,629,1892,577,115,207,2054,5099,50.558933124141994,none
+warmux,2736,8,0,467,5,0,2032,2744,99.70845481049562,
+warzone2100,141,210,12650,80,81,2614,120,13001,1.0845319590800708,Finnish <fi@li.org>
+watchdog,97,0,0,6,0,0,71,97,100.0,Finnish <debian-l10n-finnish@lists.debian.org>
+wcd,1377,0,219,187,0,4,1338,1596,86.2781954887218,Finnish
+wdiff,959,33,0,146,4,0,830,992,96.67338709677419,Finnish <translation-team-fi@lists.sourceforge.net>
+wesnoth,165668,8138,71572,12183,378,2766,119370,245378,67.51542518074154,Finnish <http://wiki.wesnoth.org/FinnishTranslation>
+wget,2550,16,14,431,2,2,2244,2580,98.83720930232558,Finnish <translation-team-fi@lists.sourceforge.net>
+whois,271,0,222,29,0,1,225,493,54.96957403651116,
+wicd,851,0,207,180,0,51,658,1058,80.43478260869566,fi <LL@li.org>
+widelands,14043,0,21531,2234,0,910,10450,35574,39.47545960532974,Finnish <fi@li.org>
+wine,14132,0,0,3195,0,0,11082,14132,100.0,none
+workrave,869,0,0,234,0,0,620,869,100.0,Finnish <>
+wormux,1916,0,0,327,0,0,1418,1916,100.0,fi_FI <fi@li.org>
+wxGTK,5060,577,1034,1258,83,182,4201,6671,75.8506970469195,Finnish <translation-team-fi@lists.sourceforge.net>
+wxPython,5529,582,2835,1417,86,712,4579,8946,61.80415828303152,Finnish <translation-team-fi@lists.sourceforge.net>
+wxpropgrid,85,0,0,31,0,0,80,85,100.0,FI <LL@li.org>
+xarchiver,1131,0,0,277,0,0,859,1131,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xcdroast,8044,0,0,848,0,0,5960,8044,100.0,Finnish <fi@li.org>
+xchat,4882,94,51,1186,32,14,3850,5027,97.11557589019296,Finnish <translation-team-fi@lists.sourceforge.net>
+xchat-gnome,4048,0,0,1047,0,0,3293,4048,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xdg-user-dirs-gtk,81,0,0,11,0,0,56,81,100.0,Finnish <gnome-fi-laatu@lists.sourceforge.net>
+xfburn,1300,0,0,283,0,0,933,1300,100.0,Finnish
+xfce4-appfinder,320,0,0,68,0,0,222,320,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xfce4-battery-plugin,123,15,11,31,7,5,110,149,82.5503355704698,Finnish <fi@li.org>
+xfce4-clipman-plugin,250,13,84,45,2,14,151,347,72.04610951008645,Finnish
+xfce4-cpugraph-plugin,74,0,0,36,0,0,61,74,100.0,Finnish <fi@li.org>
+xfce4-dict,514,4,0,110,1,0,351,518,99.22779922779922,Finnish
+xfce4-eyes-plugin,9,0,0,3,0,0,5,9,100.0,
+xfce4-fsguard-plugin,71,0,0,19,0,0,55,71,100.0,Finnish <None>
+xfce4-icon-theme,8,0,0,2,0,0,4,8,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xfce4-mailwatch-plugin,659,0,0,110,0,0,475,659,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xfce4-mixer,94,29,58,12,11,13,63,181,51.93370165745856,Finnish <translation-team-fi@lists.sourceforge.net>
+xfce4-mount-plugin,299,6,14,44,1,5,214,319,93.73040752351098,Finnish
+xfce4-netload-plugin,68,0,0,21,0,0,61,68,100.0,Finnish <fi@li.org>
+xfce4-notes-plugin,114,0,0,49,0,0,103,114,100.0,Finnish
+xfce4-notifyd,94,0,0,27,0,0,73,94,100.0,Finnish <xfce-i18n@xfce.org
+xfce4-panel,1701,0,0,387,0,0,1193,1701,100.0,Finnish <xfce-i18n@xfce.org>
+xfce4-places-plugin,140,3,14,38,1,5,105,157,89.171974522293,Finnish
+xfce4-power-manager,763,0,0,213,0,0,563,763,100.0,Finnish
+xfce4-screenshooter,443,0,0,73,0,0,265,443,100.0,Finnish
+xfce4-sensors-plugin,293,56,5,68,2,2,245,354,82.7683615819209,Finnish
+xfce4-session,1066,0,0,208,0,0,743,1066,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xfce4-settings,1510,0,0,330,0,0,1105,1510,100.0,Finnish <xfce-i18n@xfce.org>
+xfce4-taskmanager,156,0,0,58,0,0,124,156,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xfce4-time-out-plugin,88,0,0,31,0,0,76,88,100.0,Finnish <xfce-i18n@xfce.org>
+xfce4-verve-plugin,47,0,0,10,0,0,31,47,100.0,Finnish <xfce-i18n@xfce.org>
+xfce4-weather-plugin,70,139,3385,50,63,211,65,3594,1.9476905954368393,Finnish <xfce-i18n@xfce.org>
+xfce4-xfswitch-plugin,20,0,0,3,0,0,10,20,100.0,Finnish
+xfconf,451,0,0,67,0,0,342,451,100.0,Finnish <xfce-i18n@xfce.org>
+xfdesktop,941,0,0,213,0,0,647,941,100.0,Finnish <xfce-i18n@xfce.org>
+xfmpc,117,9,41,50,5,15,117,167,70.05988023952095,Finnish
+xfwm4,864,0,0,235,0,0,672,864,100.0,Finnish <xfce-i18n@xfce.org>
+xiphos,2187,440,1281,638,64,143,1704,3908,55.96212896622313,American English <kde-i18n-doc@kde.org>
+xkeyboard-config,2286,0,0,750,0,0,1983,2286,100.0,Finnish <translation-team-fi@lists.sourceforge.net>
+xmms,3348,0,95,1013,0,32,2979,3443,97.24077839093813,Finnish <cooker-i18n@linux-mandrake.com>
+xmoto,3481,0,358,735,0,87,2585,3839,90.67465485803595,none
+xnoise,0,13,1036,0,6,276,0,1049,0.0,Finnish
+xpad,226,0,144,66,0,12,208,370,61.08108108108108,Finnish <translation-team-fi@lists.sourceforge.net>
+xsane,1297,455,1472,404,63,261,1013,3224,40.229528535980144,Finnish <fi@li.org>
+xscreensaver,485,57,10648,121,23,1690,321,11190,4.334226988382484,Finnish <virheet@gnome-fi.org>
+yakuake,1520,0,0,220,0,0,1003,1520,100.0,Finnish <lokalisointi@lists.coss.fi>
+yelp,506,0,0,121,0,0,351,506,100.0,Finnish <>
+yelp-xsl,80,0,0,58,0,0,70,80,100.0,Finnish <>
+yum,2730,0,339,599,0,61,2400,3069,88.95405669599218,LANGUAGE <LL@li.org>
+yum-rhn-plugin,0,0,119,0,0,15,0,119,0.0,Finnish (http://www.transifex.net/projects/p/fedora/team/fi/)
+zabbix,524,0,10790,175,0,2687,455,11314,4.631430086618349,none
+zarafa,5777,16,514,1623,8,95,4563,6307,91.59663865546219,fi_FI <fi@li.org>
+zenity,3104,11,0,427,2,0,2133,3115,99.64686998394863,Finnish
+zif,149,0,771,60,0,179,131,920,16.195652173913043,Finnish (http://www.transifex.com/projects/p/freedesktop/language/fi/)

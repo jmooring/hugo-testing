@@ -1,0 +1,237 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Thunar,2644,0,2790,502,0,473,3010,5434,48.656606551343394,Urdu (https://www.transifex.com/xfce/teams/16840/ur/)
+abrt,88,3,3585,11,1,405,133,3676,2.3939064200217626,Urdu (http://www.transifex.com/projects/p/fedora-abrt/language/ur/)
+agenda,7,7,3,3,2,1,11,17,41.17647058823529,Urdu <ur@li.org>
+anaconda,203,45,8491,87,17,1345,267,8739,2.3229202425906856,Urdu <https://translate.fedoraproject.org/projects/anaconda/master/ur/>
+android-tools,18,2,6008,18,1,947,23,6028,0.29860650298606506,Urdu
+asunder,434,36,516,89,5,90,582,986,44.01622718052739,http://littlesvr.ca/ostd/
+atril,207,0,4158,99,0,636,288,4365,4.742268041237113,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+bookworm,0,0,795,0,0,149,0,795,0.0,
+budgie-control-center,0,0,1313,0,0,756,0,1313,0.0,none
+budgie-desktop,0,0,1220,0,0,322,0,1220,0.0,LANGUAGE <LL@li.org>
+caja,7892,0,1783,1373,0,231,9332,9675,81.57105943152455,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+caja-actions,119,0,18696,69,0,1447,166,18815,0.6324740898219505,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+caja-extensions,199,0,561,41,0,104,242,760,26.184210526315788,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+calamares,0,0,521,0,0,91,0,521,0.0,Urdu (https://app.transifex.com/calamares/teams/20061/ur/)
+calibre,80,0,170906,51,0,19283,112,170986,0.04678745628297054,Urdu (http://www.transifex.com/calibre/calibre/language/ur/)
+celluloid,13,3,1594,2,1,308,21,1610,0.8074534161490683,Urdu <https://hosted.weblate.org/projects/celluloid/celluloid/ur/>
+chkconfig,374,53,166,76,11,21,397,593,63.06913996627319,Urdu <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/ur/>
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,none
+cinnamon-desktop,3,0,231,1,0,31,3,234,1.282051282051282,UrduWeb Localization Team <l10n@urduweb.org>
+cinnamon-translations,11335,0,9632,3027,0,1674,14385,20967,54.06114370200792,Urdu <ur@li.org>
+clutter,1,0,3056,1,0,674,1,3057,0.03271180896303566,UrduWeb Localization Team <l10n@urduweb.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+deluge,0,0,4340,0,0,1333,0,4340,0.0,Urdu <ur@li.org>
+dippi,0,0,1425,0,0,249,0,1425,0.0,none
+dnf,0,0,1748,0,0,470,0,1748,0.0,Urdu (http://www.transifex.com/projects/p/dnf/language/ur/)
+edgar,1,0,11473,1,0,1534,1,11474,0.008715356458079134,Urdu <ur@li.org>
+efl,1,1,154,1,1,57,1,156,0.641025641025641,General
+elementary-calculator,31,11,153,21,5,39,34,195,15.897435897435896,
+elementary-calendar,18,12,545,12,5,189,29,575,3.130434782608696,LANGUAGE <LL@li.org>
+elementary-camera,17,3,113,2,1,32,23,133,12.781954887218044,Urdu <ur@li.org>
+elementary-code,133,139,1342,62,44,184,169,1614,8.240396530359357,LANGUAGE <LL@li.org>
+elementary-files,904,845,741,245,175,131,1134,2490,36.30522088353413,Urdu <ur@li.org>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,3,4,781,3,3,173,5,788,0.3807106598984772,Urdu <ur@li.org>
+elementary-music,0,2,203,0,1,36,0,205,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,44,0,0,10,0,44,0.0,none
+elementary-onboarding,0,0,317,0,0,66,0,317,0.0,none
+engrampa,1176,0,6746,270,0,623,1412,7922,14.844736177732894,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+eom,81,0,1698,65,0,276,115,1779,4.5531197301854975,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+exaile,0,0,4602,0,0,1121,0,4602,0.0,Urdu <ur@li.org>
+exo,617,0,121,122,0,23,711,738,83.60433604336043,Urdu (http://www.transifex.com/xfce/exo/language/ur/)
+file-roller,1159,0,0,259,0,0,1332,1159,100.0,Urdu <makki.ma@gmail.com>
+folder-color-switcher,51,0,14,22,0,1,59,65,78.46153846153847,Urdu <ur@li.org>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Urdu
+gala,21,0,228,10,0,41,35,249,8.433734939759036,Urdu <https://l10n.elementary.io/projects/desktop/gala/ur/>
+gigolo,384,0,157,113,0,42,491,541,70.97966728280961,Urdu (http://www.transifex.com/xfce/xfce-apps/language/ur/)
+gnome-abrt,0,0,221,0,0,55,0,221,0.0,none
+gnome-control-center,0,0,1313,0,0,756,0,1313,0.0,none
+gnome-desktop3,15,3,305,9,3,61,16,323,4.643962848297214,UrduWeb Localization Team <l10n@urduweb.org>
+gnome-do,22,0,590,11,0,133,29,612,3.594771241830065,Urdu <ur@li.org>
+gnucash,22263,8114,8442,3636,1270,846,28534,38819,57.350781833638166,Urdu <https://hosted.weblate.org/projects/gnucash/gnucash/ur/>
+gpicview,219,0,17,44,0,8,309,236,92.79661016949152,Urdu <makki.ma@gmail.com>
+granite,38,17,443,25,6,87,50,498,7.630522088353414,Urdu <ur@li.org>
+granite-7,14,12,274,11,5,59,14,300,4.666666666666667,Urdu <ur@li.org>
+gtk2,16,113,13575,16,84,2684,18,13704,0.11675423234092236,UrduWeb Localization Team <l10n@urduweb.org>
+gtk3,15,119,11719,15,87,2385,17,11853,0.12655024044545685,UrduWeb Localization Team <l10n@urduweb.org>
+gtk4,11,45,2376,11,43,767,13,2432,0.4523026315789474,UrduWeb Localization Team <l10n@urduweb.org>
+harvey,0,0,182,0,0,33,0,182,0.0,none
+ibus,9,0,2437,3,0,591,7,2446,0.3679476696647588,Urdu <https://translate.fedoraproject.org/projects/ibus/ibus/ur/>
+imsettings,0,0,490,0,0,89,0,490,0.0,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Urdu
+inkscape,16144,15520,17904,3578,4474,2376,21213,49568,32.56939961265333,gist
+islamic-menus,5,0,0,2,0,0,6,5,100.0,Urdu <ur@li.org>
+iso-codes,333,17,639,221,6,198,326,989,33.67037411526795,Urdu <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ur/>
+isomaster,698,1,649,126,1,87,872,1348,51.780415430267055,Urdu <makkiabufaris@aol.com>
+klavaro,1593,202,98,198,24,9,1843,1893,84.15213946117274,Urdu <jessbody@gmail.com>
+libfm,0,0,1575,0,0,394,0,1575,0.0,LANGUAGE <LL@li.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libmatekbd,7,0,301,7,0,84,9,308,2.272727272727273,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+libmatemixer,11,0,231,10,0,116,13,242,4.545454545454546,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+libmateweather,28,0,472,23,0,161,32,500,5.6000000000000005,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+libnma,172,336,299,52,71,60,224,807,21.313506815365553,urducoder.com <makkiabufaris@aol.com>
+libpwquality,23,0,322,6,0,45,33,345,6.666666666666667,Urdu (http://www.transifex.com/projects/p/libpwquality/language/ur/)
+libreoffice,12257,912,155766,3824,578,34089,14856,168935,7.2554532808476635,Urdu <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/ur/>
+libreport,1,0,4927,1,0,602,1,4928,0.020292207792207792,Urdu <https://translate.fedoraproject.org/projects/abrt/libreport/ur/>
+libuser,0,0,1478,0,0,307,0,1478,0.0,Urdu (http://www.transifex.com/projects/p/fedora/language/ur/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+libxfce4ui,281,0,631,94,0,83,378,912,30.811403508771928,Urdu (http://www.transifex.com/xfce/libxfce4ui/language/ur/)
+libxfce4util,413,0,11,4,0,3,513,424,97.40566037735849,Urdu (http://www.transifex.com/xfce/libxfce4util/language/ur/)
+lightdm,0,0,84,0,0,4,0,84,0.0,Urdu <ur@li.org>
+lxappearance-obconf,0,0,196,0,0,27,0,196,0.0,LANGUAGE <LL@li.org>
+lxdm,0,0,48,0,0,26,0,48,0.0,LANGUAGE <LL@li.org>
+lxinput,60,5,18,21,2,3,69,83,72.28915662650603,Urdu <makki.ma@gmail.com>
+lxlauncher,41,10,7,10,1,6,42,58,70.6896551724138,Urdu <makki.ma@gmail.com>
+lxmenu-data,194,0,0,74,0,0,234,194,100.0,Urdu <makki.ma@gmail.com>
+lxmusic,195,1,7,86,1,2,250,203,96.05911330049261,Urdu <makki.ma@gmail.com>
+lxpanel,770,223,406,267,70,130,999,1399,55.03931379556827,Urdu <makki.ma@gmail.com>
+lxrandr,74,59,34,20,10,11,106,167,44.31137724550898,Urdu <makki.ma@gmail.com>
+lxshortcut,86,0,0,38,0,0,102,86,100.0,Urdu <makki.ma@gmail.com>
+lxtask,112,0,18,43,0,8,163,130,86.15384615384616,Urdu <makki.ma@gmail.com>
+marco,25,0,4278,13,0,417,33,4303,0.5809900069718801,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-applets,1985,37,13935,495,8,1143,2771,15957,12.439681644419377,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+mate-backgrounds,3,0,52,1,0,28,3,55,5.454545454545454,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+mate-calc,33,0,3290,32,0,717,78,3323,0.9930785434848028,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+mate-control-center,2276,0,5977,602,0,908,2970,8253,27.577850478613836,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-desktop,174,0,2202,34,0,267,235,2376,7.3232323232323235,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-icon-theme,1,0,3,1,0,1,1,4,25.0,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+mate-media,134,0,105,57,0,42,168,239,56.06694560669456,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-menu,59,0,249,30,0,80,69,308,19.155844155844157,Urdu (http://www.transifex.com/mate/MATE/language/ur/)
+mate-menus,97,0,6,37,0,2,113,103,94.1747572815534,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-notification-daemon,83,0,103,30,0,23,116,186,44.623655913978496,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-panel,2005,0,4715,490,0,324,2516,6720,29.836309523809522,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-polkit,97,0,26,17,0,4,134,123,78.86178861788618,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+mate-power-manager,669,0,4450,230,0,321,964,5119,13.068958781011917,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-screensaver,472,0,629,116,0,60,613,1101,42.870118074477745,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-sensors-applet,5,2,2153,5,2,219,22,2160,0.23148148148148145,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+mate-session-manager,396,0,319,97,0,35,539,715,55.38461538461539,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-settings-daemon,640,0,1567,153,0,166,836,2207,28.998640688717714,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-system-monitor,427,0,4466,189,0,471,608,4893,8.726752503576538,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-terminal,1301,0,7085,359,0,444,1619,8386,15.513951824469356,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Urdu (http://app.transifex.com/mate/MATE/language/ur/)
+mate-user-admin,15,0,590,11,0,115,18,605,2.479338842975207,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+mate-user-guide,122,0,42851,76,0,3152,171,42973,0.28389919251623114,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+mate-utils,2163,0,7897,574,0,552,2683,10060,21.500994035785286,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+midori,63,0,3478,19,0,777,88,3541,1.7791584298220844,Urdu <ur@li.org>
+mingw-gtk2,16,113,13575,16,84,2684,18,13704,0.11675423234092236,UrduWeb Localization Team <l10n@urduweb.org>
+mingw-gtk3,15,119,11719,15,87,2385,17,11853,0.12655024044545685,UrduWeb Localization Team <l10n@urduweb.org>
+mingw-gtk4,11,45,2376,11,43,767,13,2432,0.4523026315789474,UrduWeb Localization Team <l10n@urduweb.org>
+mozo,14,0,32,11,0,13,17,46,30.434782608695656,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+network-manager-applet,578,1410,2420,170,309,391,807,4408,13.112522686025407,urducoder.com <makkiabufaris@aol.com>
+nutty,0,0,608,0,0,152,0,608,0.0,
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,1197,0,1107,605,0,307,1451,2304,51.953125,Urdu (https://www.transifex.com/xfce/teams/16840/ur/)
+osmo,1599,0,172,657,0,41,2080,1771,90.28797289666855,urducoder.com <makkiabufaris@aol.com>
+pam,0,20,515,0,3,97,0,535,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+passwd,0,0,336,0,0,57,0,336,0.0,Urdu <trans-urdu@lists.fedoraproject.org>
+php-phpmyadmin-sql-parser5,0,104,182,0,21,32,0,286,0.0,Urdu <https://hosted.weblate.org/projects/phpmyadmin/master/ur/>
+pidgin,8143,0,5851,1934,0,1257,9387,13994,58.18922395312277,Urdu (http://www.transifex.com/pidgin/pidgin/language/ur/)
+pluma,2564,0,10549,731,0,1359,3134,13113,19.5531152291619,Urdu (https://app.transifex.com/mate/teams/13566/ur/)
+pluma-plugins,35,0,1363,11,0,132,58,1398,2.503576537911302,Urdu (https://www.transifex.com/mate/teams/13566/ur/)
+policycoreutils,30,2,10489,30,1,1633,39,10521,0.285143997718848,Urdu
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+python-blivet,37,0,568,3,0,78,37,605,6.115702479338843,Urdu (http://www.transifex.com/projects/p/blivet/language/ur/)
+python-django,1311,0,2205,411,0,400,1703,3516,37.28668941979522,Urdu (http://www.transifex.com/django/django/language/ur/)
+python-django-contrib-comments,0,0,244,0,0,60,0,244,0.0,Urdu (http://www.transifex.com/django/django-contrib-comments/language/ur/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django3,1311,0,2205,411,0,400,1703,3516,37.28668941979522,Urdu (http://www.transifex.com/django/django/language/ur/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Urdu
+python-hyperkitty,0,0,951,0,0,265,0,951,0.0,LANGUAGE <LL@li.org>
+python-meh,0,0,109,0,0,23,0,109,0.0,Urdu
+python-nikola,94,0,0,44,0,0,111,94,100.0,Urdu (http://www.transifex.com/ralsina/nikola/language/ur/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+python-sphinx,0,0,4983,0,0,758,0,4983,0.0,Urdu (http://www.transifex.com/sphinx-doc/sphinx-1/language/ur/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Urdu (https://www.transifex.com/sphinx-doc/teams/36659/ur/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Urdu (https://www.transifex.com/sphinx-doc/teams/36659/ur/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Urdu (https://www.transifex.com/sphinx-doc/teams/36659/ur/)
+python-ytmusicapi,11,0,0,11,0,0,13,11,100.0,
+redhat-menus,216,11,34,71,4,11,397,261,82.75862068965517,SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+retrace-server,1,0,432,1,0,55,1,433,0.23094688221709006,Urdu <https://translate.fedoraproject.org/projects/abrt/retrace-server/ur/>
+ristretto,94,216,434,42,72,172,106,744,12.634408602150538,Urdu <makki.ma@gmail.com>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+shutter,145,0,2782,54,0,535,188,2927,4.953877690468056,Urdu <ur@li.org>
+simple-scan,11,0,578,11,0,134,26,589,1.8675721561969438,Urdu <ur@li.org>
+slick-greeter,55,0,161,19,0,30,85,216,25.462962962962965,Urdu <ur@li.org>
+sos,0,0,123,0,0,30,0,123,0.0,none
+spacefm,453,8,8261,171,3,1394,539,8722,5.193762898417794,Urdu (http://www.transifex.com/projects/p/spacefm/language/ur/)
+stellarium,118,0,151523,23,0,37832,148,151641,0.07781536655653815,Urdu (https://www.transifex.com/stellarium/teams/80998/ur/)
+sugar,2023,39,243,464,19,46,2700,2305,87.76572668112799,LANGUAGE <LL@li.org>
+sugar-abacus,0,11,17,0,11,12,0,28,0.0,LANGUAGE <LL@li.org>
+sugar-browse,28,18,288,19,2,50,37,334,8.383233532934131,LANGUAGE <LL@li.org>
+sugar-calculator,128,63,675,40,28,101,137,866,14.780600461893764,LANGUAGE <LL@li.org>
+sugar-chat,30,0,107,12,0,69,47,137,21.897810218978105,LANGUAGE <LL@li.org>
+sugar-clock,1,0,65,1,0,20,1,66,1.5151515151515151,LANGUAGE <LL@li.org>
+sugar-dimensions,0,15,146,0,14,65,0,161,0.0,LANGUAGE <LL@li.org>
+sugar-distance,72,6,21,14,3,9,109,99,72.72727272727273,LANGUAGE <LL@li.org>
+sugar-finance,0,7,251,0,7,56,0,258,0.0,LANGUAGE <LL@li.org>
+sugar-flipsticks,0,11,140,0,10,35,0,151,0.0,LANGUAGE <LL@li.org>
+sugar-implode,0,6,71,0,6,14,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-log,41,4,53,13,1,7,41,98,41.83673469387755,LANGUAGE <LL@li.org>
+sugar-maze,0,3,4,0,2,2,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,24,23,95,13,22,39,40,142,16.901408450704224,LANGUAGE <LL@li.org>
+sugar-physics,1,4,43,1,3,24,1,48,2.083333333333333,LANGUAGE <LL@li.org>
+sugar-pippy,44,15,223,14,1,53,58,282,15.602836879432624,LANGUAGE <LL@li.org>
+sugar-read,24,0,113,14,0,36,31,137,17.51824817518248,LANGUAGE <LL@li.org>
+sugar-record,12,11,39,10,4,10,14,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-speak,0,20,207,0,20,54,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,1,0,120,1,0,25,1,121,0.8264462809917356,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,148,7,58,102,6,15,153,213,69.48356807511738,Sugar Labs
+sugar-turtleart,2,0,1457,1,0,434,1,1459,0.1370801919122687,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,8,52,0,6,17,0,60,0.0,LANGUAGE <LL@li.org>
+sugar-write,63,0,58,37,0,18,79,121,52.066115702479344,LANGUAGE <LL@li.org>
+switchdesk,0,0,122,0,0,19,0,122,0.0,none
+synfigstudio,0,0,0,0,0,0,0,0,0.0,
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-switch-mail,0,0,101,0,0,17,0,101,0.0,none
+terminator,9,0,1513,4,0,411,12,1522,0.5913272010512484,Urdu (https://www.transifex.com/terminator/teams/109338/ur/)
+thunar-archive-plugin,86,0,2,13,0,2,84,88,97.72727272727273,Urdu (http://www.transifex.com/xfce/thunar-plugins/language/ur/)
+thunar-media-tags-plugin,142,0,16,48,0,12,165,158,89.87341772151899,Urdu (http://www.transifex.com/xfce/thunar-plugins/language/ur/)
+thunar-vcs-plugin,367,0,228,207,0,113,491,595,61.680672268907564,Urdu (http://www.transifex.com/xfce/thunar-plugins/language/ur/)
+thunar-volman,237,0,247,64,0,51,286,484,48.96694214876033,Urdu (http://www.transifex.com/xfce/thunar-volman/language/ur/)
+transmission,4,0,2437,2,0,583,11,2441,0.1638672675133142,Urdu (https://app.transifex.com/transmissionbt/teams/33778/ur/)
+tuxpaint,1120,1020,1623,245,109,107,1419,3763,29.763486579856497,Urdu
+ufw,0,0,879,0,0,181,0,879,0.0,Urdu <ur@li.org>
+wingpanel,6,0,10,1,0,2,6,16,37.5,Urdu <ur@li.org>
+xarchiver,867,303,44,235,50,18,1105,1214,71.4168039538715,urdu <makki.ma@gmail.com>
+xed,1854,0,1905,414,0,509,2221,3759,49.32162809257781,Urdu (http://www.transifex.com/projects/p/MATE/language/ur/)
+xfburn,291,301,731,120,67,103,406,1323,21.99546485260771,Urdu <makki.ma@gmail.com>
+xfce4-appfinder,46,44,282,10,14,64,56,372,12.365591397849462,Urdu <makki.ma@gmail.com>
+xfce4-battery-plugin,123,0,25,31,0,12,156,148,83.1081081081081,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-clipman-plugin,197,0,281,36,0,36,250,478,41.21338912133891,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-cpufreq-plugin,10,36,234,6,8,64,14,280,3.571428571428571,Urdu <makki.ma@gmail.com>
+xfce4-cpugraph-plugin,45,0,34,25,0,14,49,79,56.9620253164557,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-datetime-plugin,51,0,1,18,0,1,52,52,98.07692307692307,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-dict,323,0,213,76,0,46,387,536,60.26119402985075,Urdu (http://www.transifex.com/xfce/xfce-apps/language/ur/)
+xfce4-diskperf-plugin,133,0,48,29,0,8,148,181,73.48066298342542,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-eyes-plugin,9,0,7,3,0,2,11,16,56.25,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-fsguard-plugin,56,0,15,16,0,3,60,71,78.87323943661971,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-genmon-plugin,44,0,56,13,0,13,45,100,44.0,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-mailwatch-plugin,599,0,79,102,0,21,760,678,88.34808259587021,Urdu (http://app.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-mount-plugin,207,0,176,39,0,18,242,383,54.04699738903395,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-mpc-plugin,35,0,56,14,0,14,41,91,38.46153846153847,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-netload-plugin,54,84,46,20,20,30,78,184,29.347826086956523,Urdu <makki.ma@gmail.com>
+xfce4-notes-plugin,98,0,75,41,0,24,126,173,56.64739884393064,Urdu (http://app.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-panel,134,503,1095,43,134,217,172,1732,7.736720554272518,urdu <makki.ma@gmail.com>
+xfce4-places-plugin,77,0,85,34,0,13,95,162,47.53086419753087,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-power-manager,650,36,8,149,5,1,845,694,93.65994236311239,Urdu <makki.ma@gmail.com>
+xfce4-screenshooter,197,0,372,45,0,45,199,569,34.62214411247803,Urdu (http://www.transifex.com/xfce/xfce-apps/language/ur/)
+xfce4-sensors-plugin,252,0,181,55,0,32,313,433,58.198614318706696,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-session,480,0,360,80,0,78,592,840,57.14285714285714,Urdu (http://www.transifex.com/xfce/xfce4-session/language/ur/)
+xfce4-settings,1744,596,780,326,196,176,2154,3120,55.8974358974359,Urdu <makki.ma@gmail.com>
+xfce4-smartbookmark-plugin,14,0,8,8,0,1,21,22,63.63636363636363,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-systemload-plugin,42,0,45,12,0,11,50,87,48.275862068965516,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-taskmanager,9,22,92,9,12,24,28,123,7.317073170731707,Urdu <makki.ma@gmail.com>
+xfce4-terminal,699,113,285,154,35,93,848,1097,63.719234275296266,urdu <makki.ma@gmail.com>
+xfce4-time-out-plugin,41,0,65,19,0,19,63,106,38.67924528301887,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-timer-plugin,62,0,73,24,0,24,68,135,45.925925925925924,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-verve-plugin,47,0,0,10,0,0,59,47,100.0,Urdu <makki.ma@gmail.com>
+xfce4-wavelan-plugin,40,0,27,9,0,9,52,67,59.70149253731343,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfce4-weather-plugin,130,266,6792,90,120,438,144,7188,1.8085698386199223,Urdu <makki.ma@gmail.com>
+xfce4-xkb-plugin,33,0,24,12,0,10,42,57,57.89473684210527,Urdu (http://www.transifex.com/xfce/xfce-panel-plugins/language/ur/)
+xfconf,239,0,227,38,0,30,271,466,51.28755364806867,Urdu (http://www.transifex.com/xfce/xfconf/language/ur/)
+xfdesktop,1022,450,236,272,86,42,1166,1708,59.83606557377049,Urdu <makki.ma@gmail.com>
+xfmpc,122,0,53,55,0,23,177,175,69.71428571428572,Urdu (http://www.transifex.com/xfce/xfce-apps/language/ur/)
+xfwm4,439,0,227,124,0,54,566,666,65.91591591591592,Urdu (http://www.transifex.com/xfce/xfwm4/language/ur/)
+xreader,582,0,1043,224,0,156,702,1625,35.815384615384616,Urdu <ur@li.org>

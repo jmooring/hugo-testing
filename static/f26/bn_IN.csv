@@ -1,0 +1,415 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4024,0,0,485,0,0,4183,4024,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+NetworkManager,5337,3719,2452,941,473,297,5467,11508,46.37643378519291,Bengali (India) <kde-i18n-doc@kde.org>
+NetworkManager-fortisslvpn,22,1,151,9,1,23,26,174,12.643678160919542,Bengali INDIA <anubad@lists.ankur.org.in>
+NetworkManager-l2tp,80,19,684,30,5,95,113,783,10.217113665389528,Bengali INDIA <anubad@lists.ankur.org.in>
+NetworkManager-openconnect,34,5,3202,9,2,585,35,3241,1.0490589324282629,Bengali INDIA <anubad@lists.ankur.org.in>
+NetworkManager-pptp,115,0,0,42,0,0,170,115,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+NetworkManager-sstp,115,0,0,42,0,0,170,115,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+NetworkManager-vpnc,139,0,0,36,0,0,168,139,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+PackageKit,911,0,364,247,0,72,1118,1275,71.45098039215686,Bengali (India) (http://www.transifex.com/freedesktop/packagekit/language/bn_IN/)
+abrt,2546,0,1423,340,0,136,2780,3969,64.14714033761652,Bengali (India) (http://www.transifex.com/projects/p/fedora-abrt/language/bn_IN/)
+accerciser,363,0,0,166,0,0,432,363,100.0,Bengali INDIA
+accountsservice,0,0,59,0,0,10,0,59,0.0,Bengali (India) (http://www.transifex.com/projects/p/freedesktop/language/bn_IN/)
+aisleriot,1565,180,242,463,64,22,1722,1987,78.76195269250125,Bengali INDIA <anubad@lists.ankur.org.in>
+alacarte,42,0,0,16,0,0,57,42,100.0,Bengali India
+anaconda,5606,98,1602,966,4,240,6030,7306,76.73145359978099,Bengali (India) (http://www.transifex.com/projects/p/anaconda/language/bn_IN/)
+asunder,431,25,39,79,2,10,433,495,87.07070707070706,Rajib Lochan Dhibar <rajib.lochan.dhibar@gmail.com>
+at-spi2-core,122,0,0,18,0,0,139,122,100.0,Bengali (India) <bn_IN@li.org>
+atk,398,0,0,139,0,0,342,398,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+atril,925,0,799,259,0,138,1060,1724,53.65429234338747,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+authconfig,879,16,34,130,2,5,959,929,94.6178686759957,Bengali (India) (http://www.transifex.com/projects/p/authconfig/language/bn_IN/)
+baobab,210,0,0,57,0,0,224,210,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+blivet-gui,0,0,765,0,0,221,0,765,0.0,Bengali (India)
+brasero,5546,0,0,968,0,0,6053,5546,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+caja,7391,0,1922,1295,0,215,7867,9313,79.36218189627404,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+caja-actions,1574,0,0,173,0,0,1369,1574,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+calibre,2131,0,155170,1630,0,16470,2129,157301,1.3547275605368052,Bengali (India) (http://www.transifex.com/calibre/calibre/language/bn_IN/)
+caribou,171,0,0,57,0,0,180,171,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+ccsm,490,33,56,121,7,23,527,579,84.6286701208981,gist bengali team <info.gist@cdac.in>
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Bengali (India) (http://www.transifex.com/projects/p/certmonger/language/bn_IN/)
+cheese,613,0,0,120,0,0,602,613,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+chkconfig,480,0,75,92,0,11,488,555,86.48648648648648,Bengali (India) <anubad@lists.ankur.org.in>
+cinnamon-control-center,1313,0,0,756,0,0,1335,1313,100.0,Bengali India <anubad@lists.ankur.org.in>
+cinnamon-desktop,231,0,0,31,0,0,237,231,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+cinnamon-translations,1595,0,1820,326,0,521,1721,3415,46.705710102489014,Bengali INDIA <anubad@lists.ankur.org.in>
+colord,25,0,363,8,0,91,34,388,6.443298969072164,Bengali (India) (http://www.transifex.net/projects/p/freedesktop/team/bn_IN/)
+compat-gtkhtml314,1261,0,0,560,0,0,1515,1261,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+compiz,2064,1752,569,447,332,100,2172,4385,47.06955530216648,gist bengali team <info.gist@cdac.in>
+control-center,6259,0,0,2210,0,0,6735,6259,100.0,Bengali India <anubad@lists.ankur.org.in>
+cracklib,93,0,3,15,0,1,96,96,96.875,Bengali INDIA <anubad@lists.ankur.org.in>
+dasher,615,0,0,212,0,0,753,615,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+dconf-editor,46,33,1294,13,16,154,36,1373,3.3503277494537507,Bengali (India) <anubad@lists.ankur.org.in>
+devhelp,360,0,0,91,0,0,375,360,100.0,Bengali (India) <discuss@ankur.co.in>
+dnf,0,0,3151,0,0,655,0,3151,0.0,Bengali (India) (http://www.transifex.com/projects/p/dnf/language/bn_IN/)
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Bengali (India)
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Bengali (India)
+ekiga,4487,0,0,747,0,0,4677,4487,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+emerald,645,38,10,208,5,6,717,693,93.07359307359307,Indian Bangla <bn_IN@li.org>
+empathy,3950,114,141,839,55,42,4168,4205,93.935790725327,American English <kde-i18n-doc@kde.org>
+engrampa,1301,0,639,273,0,81,1365,1940,67.06185567010309,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+entangle,0,0,935,0,0,209,0,935,0.0,Bengali (India)
+eog,1566,0,0,312,0,0,1757,1566,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+eog-plugins,78,0,2,27,0,1,97,80,97.5,Bengali INDIA <anubad@lists.ankur.org.in>
+eom,1022,0,695,226,0,92,1141,1717,59.52242283051835,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+epiphany,2291,0,0,643,0,0,2660,2291,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+evince,1525,0,0,355,0,0,1688,1525,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+evolution,21066,0,0,4424,0,0,22886,21066,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+evolution-data-server,5398,0,0,1074,0,0,5905,5398,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+evolution-ews,1165,0,0,239,0,0,1315,1165,100.0,American English <kde-i18n-doc@kde.org>
+evolution-mapi,1036,0,0,232,0,0,1216,1036,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+evolution-rss,728,0,0,198,0,0,914,728,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+file-roller,1195,0,0,268,0,0,1330,1195,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+firewalld,1496,0,680,293,0,111,1517,2176,68.75,Bengali (India) (http://www.transifex.com/projects/p/firewalld/language/bn_IN/)
+five-or-more,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+folks,1003,0,0,123,0,0,1004,1003,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Bengali (India)
+four-in-a-row,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+fprintd,0,0,419,0,0,57,0,419,0.0,Bengali (India) (http://www.transifex.com/freedesktop/fprintd/language/bn_IN/)
+freeipa,34,0,0,9,0,0,40,34,100.0,Bengali (India) (http://www.transifex.com/projects/p/freeipa/language/bn_IN/)
+gconf-editor,336,0,0,98,0,0,422,336,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+gcr,115,205,302,59,71,97,113,622,18.488745980707396,Bengali INDIA <anubad@lists.ankur.org.in>
+gdk-pixbuf2,1288,60,0,197,5,0,1310,1348,95.54896142433235,Bengali (India) <anubad@lists.ankur.org.in>
+gdm,578,15,57,80,3,4,602,650,88.92307692307693,Bengali (India) <kde-i18n-doc@kde.org>
+gedit,4084,0,0,684,0,0,4396,4084,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gedit-plugins,939,149,117,399,47,23,970,1205,77.92531120331951,Bengali INDIA <anubad@lists.ankur.org.in>
+ggz-gtk-client,7,0,0,7,0,0,8,7,100.0,Bengali India
+glade,166,0,2954,100,0,726,191,3120,5.32051282051282,Bengali (India) <en@li.org>
+glade3,166,0,2954,100,0,726,191,3120,5.32051282051282,Bengali (India) <en@li.org>
+glib-networking,86,0,0,16,0,0,98,86,100.0,Bengali (India) <bn_IN@li.org>
+glib2,5726,0,0,891,0,0,5848,5726,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-abrt,286,15,96,45,4,24,307,397,72.04030226700252,Bengali (India) (http://www.transifex.com/projects/p/gnome-abrt/language/bn_IN/)
+gnome-backgrounds,23,0,0,17,0,0,31,23,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-bluetooth,303,0,0,95,0,0,350,303,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-boxes,753,0,0,169,0,0,853,753,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-calculator,1337,0,0,428,0,0,1332,1337,100.0,American English <kde-i18n-doc@kde.org>
+gnome-chess,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-clocks,223,0,0,77,0,0,239,223,100.0,American English <kde-i18n-doc@kde.org>
+gnome-color-manager,1792,0,0,342,0,0,1762,1792,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-contacts,405,0,0,155,0,0,449,405,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-desktop,351,0,0,53,0,0,375,351,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-desktop3,146,0,0,23,0,0,153,146,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-dictionary,841,0,0,180,0,0,847,841,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-disk-utility,3423,0,0,632,0,0,3588,3423,100.0,American English <kde-i18n-doc@kde.org>
+gnome-doc-utils,251,0,0,101,0,0,251,251,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-documents,464,0,0,155,0,0,509,464,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-font-viewer,109,0,0,26,0,0,116,109,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-icon-theme,51,0,0,46,0,0,55,51,100.0,Bengali (India) <en@li.org>
+gnome-initial-setup,364,0,0,82,0,0,392,364,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-keyring,553,0,0,112,0,0,566,553,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-klotski,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-mahjongg,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-menus,103,0,0,39,0,0,115,103,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-mines,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-nettool,644,0,0,219,0,0,702,644,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-nibbles,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-online-accounts,865,114,141,201,55,42,889,1120,77.23214285714286,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-packagekit,4390,0,0,681,0,0,4492,4390,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-power-manager,480,0,0,147,0,0,472,480,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-robots,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-screensaver,270,0,0,54,0,0,268,270,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-screenshot,354,0,0,75,0,0,416,354,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-search-tool,1249,0,0,186,0,0,1321,1249,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-session,323,0,0,59,0,0,380,323,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-settings-daemon,2607,0,0,429,0,0,2682,2607,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-shell,1486,0,0,375,0,0,1497,1486,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell-extensions,358,0,0,68,0,0,352,358,100.0,American English <kde-i18n-doc@kde.org>
+gnome-sudoku,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-system-log,419,0,0,65,0,0,399,419,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-system-monitor,1289,0,0,292,0,0,1317,1289,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-terminal,2209,0,0,442,0,0,2362,2209,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gnome-tetravex,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-themes,109,0,0,30,0,0,126,109,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-themes-standard,12,0,0,5,0,0,11,12,100.0,Bengali (India) <bn_IN@li.org>
+gnome-user-share,316,0,0,51,0,0,419,316,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+gnome-vfs2,1519,0,0,305,0,0,1412,1519,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-video-effects,11,2,13,10,2,11,11,26,42.30769230769231,Bengali INDIA <anubad@lists.ankur.org.in>
+gnote,2975,0,0,444,0,0,3208,2975,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+gpicview,133,9,94,39,3,10,165,236,56.355932203389834,LANGUAGE <LL@li.org>
+gtk-doc,948,0,6329,167,0,164,943,7277,13.027346433970042,Bengali INDIA <anubad@lists.ankur.org.in>
+gtk2,13677,27,0,2781,3,0,13522,13704,99.80297723292469,Bengali INDIA <anubad@lists.ankur.org.in>
+gtk2-engines,119,0,0,47,0,0,127,119,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gtk3,11729,353,111,2532,69,20,11614,12193,96.19453784958583,Bengali (India) <anubad@lists.ankur.org.in>
+gtkhtml3,1261,0,0,560,0,0,1515,1261,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gtksourceview2,1120,0,0,448,0,0,1186,1120,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+gtksourceview3,575,278,303,320,144,166,600,1156,49.740484429065745,Bengali INDIA <anubad@lists.ankur.org.in>
+gucharmap,1205,0,0,397,0,0,1194,1205,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+gvfs,2704,0,0,596,0,0,2986,2704,100.0,American English <kde-i18n-doc@kde.org>
+hamster-time-tracker,285,193,219,93,44,35,349,697,40.88952654232425,Bengali INDIA <anubad@lists.ankur.org.in>
+iagno,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+ibus,996,0,0,166,0,0,1005,996,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+im-chooser,229,0,10,52,0,4,239,239,95.81589958158996,Bengali (India) (http://www.transifex.net/projects/p/im-chooser/team/bn_IN/)
+imsettings,440,5,11,80,1,3,454,456,96.49122807017544,Bengali (India) (http://www.transifex.net/projects/p/imsettings/team/bn_IN/)
+initial-setup,33,0,0,7,0,0,35,33,100.0,Bengali (India) (http://www.transifex.com/projects/p/initial-setup/language/bn_IN/)
+initscripts,777,54,143,120,10,19,851,974,79.7741273100616,Bengali (India) <anubad@lists.ankur.org.in>
+iok,206,0,0,40,0,0,214,206,100.0,Bengali (India)
+iso-codes,1033,45,11,433,12,5,843,1089,94.8576675849403,Bengali (India) <discuss@lists.ankur.org.in>
+isomaster,674,0,0,107,0,0,671,674,100.0,Rajib Lochan Dhibar <rajib.lochan.dhibar@gmail.com>
+json-glib,222,9,72,26,2,16,180,303,73.26732673267327,Bengali (India) <anubad@lists.ankur.org.in>
+kde-cli-tools,701,133,1263,140,16,60,792,2097,33.42870767763472,Bengali INDIA <anubad@lists.ankur.org.in>
+kexec-tools,83,0,0,12,0,0,82,83,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kcmutils,494,23,47,66,4,2,493,564,87.58865248226951,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kcodecs,0,57,291,0,37,16,0,348,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kcompletion,0,20,0,0,12,0,0,20,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kconfig,0,44,217,0,5,95,0,261,0.0,Bengali INDIA <discuss@ankur.org.in>
+kf5-kconfigwidgets,137,103,81,71,33,13,236,321,42.679127725856695,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kcoreaddons,0,270,31,0,79,16,0,301,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kdeclarative,26,7,76,9,1,4,23,109,23.853211009174313,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kdelibs4support,1064,891,2858,592,632,1140,1155,4813,22.106794099314357,Bengali INDIA <discuss@lists.ankur.org.in>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kglobalaccel,0,17,54,0,5,4,0,71,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-khtml,732,49,940,233,15,62,933,1721,42.53341080766996,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-ki18n,42,80,2,42,66,2,42,124,33.87096774193548,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kinit,96,31,7,9,4,1,76,134,71.64179104477611,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kjobwidgets,0,123,0,0,36,0,0,123,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kjsembed,214,0,34,41,0,3,226,248,86.29032258064517,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-knewstuff,204,187,298,61,60,36,244,689,29.60812772133527,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-knotifications,0,18,0,0,6,0,0,18,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-knotifyconfig,43,0,86,15,0,2,54,129,33.33333333333333,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kparts,93,0,11,25,0,1,105,104,89.42307692307693,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kpty,15,0,0,4,0,0,15,15,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kross,82,18,0,29,6,0,83,100,82.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kservice,50,82,38,8,16,4,43,170,29.411764705882355,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-ktextwidgets,278,3,181,97,1,24,352,462,60.17316017316018,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kwallet,348,139,1011,44,9,55,357,1498,23.230974632843793,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+kf5-kwidgetsaddons,0,1058,257,0,427,29,0,1315,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-kxmlgui,522,190,884,159,40,29,592,1596,32.70676691729324,Bengali INDIA <anubad@lists.ankur.org.in>
+kf5-sonnet,0,520,143,0,65,7,0,663,0.0,Bengali INDIA <anubad@lists.ankur.org.in>
+khotkeys,59,68,309,34,30,65,69,436,13.53211009174312,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+kinfocenter,884,112,1316,340,52,339,958,2312,38.23529411764706,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+kmenuedit,160,14,103,49,4,8,189,277,57.761732851985556,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+ksysguard,332,79,670,117,32,84,370,1081,30.712303422756708,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+kwin,912,469,4303,328,160,564,1124,5684,16.045038705137227,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+libbonobo,547,0,0,108,0,0,564,547,100.0,Bengali India
+libbonoboui,368,0,0,115,0,0,421,368,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+libbytesize,0,0,17,0,0,17,0,17,0.0,Bengali (India)
+libcryptui,3012,0,0,654,0,0,3242,3012,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+libgdata,552,0,0,67,0,0,540,552,100.0,Bengali (India) <bn_IN@li.org>
+libgnome,1772,0,0,273,0,0,1789,1772,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+libgnome-media-profiles,446,0,14,49,0,2,459,460,96.95652173913044,Bengali INDIA <anubad@lists.ankur.org.in>
+libgnomecanvas,378,0,0,95,0,0,401,378,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+libgnomekbd,187,0,0,39,0,0,188,187,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+libgnomeui,1309,0,0,334,0,0,1359,1309,100.0,Bengali INDIA <discuss@ankur.co.in>
+libgtop2,126,0,0,40,0,0,152,126,100.0,Bengali INDIA
+libgweather,6107,0,0,4520,0,0,6063,6107,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libksysguard,725,663,1395,94,62,74,720,2783,26.051024074739487,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+libmatekbd,171,0,80,32,0,11,176,251,68.12749003984064,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+libmateweather,384,0,115,165,0,18,381,499,76.95390781563127,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+libosinfo,0,0,662,0,0,145,0,662,0.0,Bengali (India)
+libpeas,110,0,0,31,0,0,124,110,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+libpwquality,343,0,0,53,0,0,307,343,100.0,Bengali (India) (http://www.transifex.com/projects/p/libpwquality/language/bn_IN/)
+libreoffice,395051,24973,139547,57096,3508,16961,373685,559571,70.59890523275867,LANGUAGE <LL@li.org>
+libreport,1249,0,3644,216,0,383,1428,4893,25.526262006948702,Bengali (India) (http://www.transifex.com/projects/p/libreport/language/bn_IN/)
+libsoup,110,0,0,25,0,0,119,110,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+libuser,996,38,403,213,7,81,1165,1437,69.31106471816284,Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/)
+libvirt,14270,2719,43656,2547,416,6467,15207,60645,23.530381729738643,Bengali (India) (http://www.transifex.com/projects/p/libvirt/language/bn_IN/)
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Bengali (India) (http://www.transifex.com/projects/p/libvirt-glib/language/bn_IN/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Bengali (India) <anubad@lists.ankur.org.in>
+libwnck,1124,0,0,241,0,0,1196,1124,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+libwnck3,1086,0,0,231,0,0,1143,1086,100.0,American English <kde-i18n-doc@kde.org>
+light-locker,7,0,253,2,0,35,9,260,2.6923076923076925,Bengali (India) (http://www.transifex.com/the_cavalry/light-locker/language/bn_IN/)
+lightsoff,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+lxappearance-obconf,42,0,154,6,0,21,45,196,21.428571428571427,LANGUAGE <LL@li.org>
+lxdm,27,3,17,17,1,7,31,47,57.446808510638306,LANGUAGE <LL@li.org>
+lxinput,70,2,11,23,1,2,70,83,84.33734939759037,LANGUAGE <LL@li.org>
+lxlauncher,50,0,8,10,0,7,44,58,86.20689655172413,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,105,97,100.0,Bengali (India) <en@li.org>
+lxmusic,202,1,0,88,1,0,227,203,99.50738916256158,LANGUAGE <LL@li.org>
+lxrandr,70,33,64,16,8,17,10,167,41.91616766467065,LANGUAGE <LL@li.org>
+lxsession,28,10,717,11,5,150,27,755,3.708609271523179,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,51,43,100.0,LANGUAGE <LL@li.org>
+lxtask,0,0,130,0,0,51,0,130,0.0,LANGUAGE <LL@li.org>
+lxterminal,60,49,138,47,27,57,64,247,24.291497975708502,LANGUAGE <LL@li.org>
+marco,2007,0,2082,306,0,108,2132,4089,49.08290535583272,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-applets,1839,0,779,435,0,190,1995,2618,70.24446142093201,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-backgrounds,23,0,7,17,0,4,32,30,76.66666666666667,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-calc,519,0,853,105,0,316,545,1372,37.82798833819242,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-control-center,2105,0,617,518,0,130,2441,2722,77.33284349742836,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-desktop,165,0,2181,26,0,304,178,2346,7.033248081841433,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-media,130,0,96,57,0,39,176,226,57.52212389380531,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-menu,0,0,300,0,0,110,0,300,0.0,Bengali (India) (http://www.transifex.com/projects/p/MATE/language/bn_IN/)
+mate-menus,97,0,0,37,0,0,105,97,100.0,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-panel,3849,0,504,523,0,64,3895,4353,88.42177808407995,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-polkit,287,0,26,46,0,4,272,313,91.69329073482429,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-power-manager,1568,0,1156,318,0,122,1753,2724,57.562408223201174,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-screensaver,538,0,445,116,0,40,541,983,54.73041709053916,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-session-manager,428,0,253,94,0,20,502,681,62.84875183553598,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-settings-daemon,973,0,791,162,0,91,1107,1764,55.158730158730165,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-system-monitor,538,0,769,179,0,129,628,1307,41.16296863045142,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-terminal,1221,0,3218,327,0,182,1463,4439,27.506195088984004,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-themes,7,0,51,2,0,9,9,58,12.068965517241379,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+mate-utils,3319,0,358,626,0,34,3491,3677,90.2638020125102,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+metacity,3821,0,0,406,0,0,3986,3821,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+mingw-GConf2,4024,0,0,485,0,0,4183,4024,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+mingw-atk,398,0,0,139,0,0,342,398,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+mingw-colord,25,0,363,8,0,91,34,388,6.443298969072164,Bengali (India) (http://www.transifex.net/projects/p/freedesktop/team/bn_IN/)
+mingw-gdk-pixbuf,1288,60,0,197,5,0,1310,1348,95.54896142433235,Bengali (India) <anubad@lists.ankur.org.in>
+mingw-glib-networking,86,0,0,16,0,0,98,86,100.0,Bengali (India) <bn_IN@li.org>
+mingw-glib2,5726,0,0,891,0,0,5848,5726,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+mingw-gtk2,13677,27,0,2781,3,0,13522,13704,99.80297723292469,Bengali INDIA <anubad@lists.ankur.org.in>
+mingw-gtk3,11729,353,111,2532,69,20,11614,12193,96.19453784958583,Bengali (India) <anubad@lists.ankur.org.in>
+mingw-gtksourceview3,575,278,303,320,144,166,600,1156,49.740484429065745,Bengali INDIA <anubad@lists.ankur.org.in>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Bengali (India)
+mingw-libsoup,110,0,0,25,0,0,119,110,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+mingw-libvirt,14276,2715,43669,2548,415,6469,15214,60660,23.534454335641282,Bengali (India) (http://www.transifex.com/projects/p/libvirt/language/bn_IN/)
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Bengali (India) (http://www.transifex.com/projects/p/libvirt-glib/language/bn_IN/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Bengali (India) (http://www.transifex.com/freedesktop/p11-kit/language/bn_IN/)
+mousetweaks,715,0,0,94,0,0,740,715,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+mozo,42,0,0,16,0,0,57,42,100.0,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+muffin,2919,122,823,388,2,23,3028,3864,75.54347826086956,Bengali INDIA <discuss@lists.ankur.org.in>
+multimedia-menus,56,0,0,22,0,0,62,56,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+mutter,1829,0,0,237,0,0,1852,1829,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+nautilus,6114,0,0,1030,0,0,6520,6114,100.0,American English <kde-i18n-doc@kde.org>
+nautilus-sendto,45,0,0,8,0,0,46,45,100.0,American English <kde-i18n-doc@kde.org>
+nemo-extensions,226,0,0,36,0,0,268,226,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+network-manager-applet,1081,1617,1705,331,305,292,1272,4403,24.55144219850102,Bengali (India) <anubad@lists.ankur.org.in>
+newt,4,0,0,4,0,0,5,4,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+openbox,313,0,193,65,0,29,341,506,61.85770750988142,Bengali (India) <en@li.org>
+orca,277,6,1021,177,3,329,302,1304,21.242331288343557,Bangla <gnome-translation@bengalinux.org>
+oscap-anaconda-addon,0,0,194,0,0,37,0,194,0.0,Bengali (India) (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/bn_IN/)
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Bengali (India)
+p11-kit,0,0,476,0,0,81,0,476,0.0,Bengali (India) (http://www.transifex.com/freedesktop/p11-kit/language/bn_IN/)
+pam,562,35,0,115,5,0,618,597,94.13735343383584,Bengali (India) <anubad@lists.ankur.org.in>
+pam_krb5,7,0,0,4,0,0,8,7,100.0,Bengali (India) (http://www.transifex.com/projects/p/pam_krb5/language/bn_IN/)
+pantheon-photos,1181,0,2796,358,0,498,1379,3977,29.69575056575308,Bengali (India) (http://www.transifex.com/projects/p/shotwell/language/bn_IN/)
+paprefs,131,0,0,23,0,0,173,131,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+passwd,306,0,30,54,0,3,348,336,91.07142857142857,Bengali (India) <anubad@lists.ankur.org.in>
+pavucontrol,219,1,17,85,1,1,249,237,92.40506329113924,Bengali INDIA <anubad@lists.ankur.org.in>
+pdfmod,91,0,143,27,0,36,105,234,38.88888888888889,Bengali (India) <anubad@lists.ankur.org.in>
+pessulus,130,0,0,33,0,0,188,130,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+pidgin,14184,10,1562,3086,1,346,16010,15756,90.02284843869002,Bengali (India) (http://www.transifex.com/pidgin/pidgin/language/bn_IN/)
+planner,1596,0,219,499,0,32,1912,1815,87.93388429752066,Bengali INDIA <anubad@lists.ankur.org.in>
+plasma-desktop,2977,1129,3136,755,269,473,3132,7242,41.107428887047774,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+plasma-oxygen,4,16,601,1,4,216,6,621,0.644122383252818,Bengali INDIA <discuss@ankur.org.in>
+plasma-sdk,117,90,155,40,17,20,126,362,32.32044198895028,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+plasma-systemsettings,8,29,149,5,6,32,8,186,4.301075268817205,Bengali (India) <discuss@ankur.co.in>
+plasma-workspace,639,1467,6269,231,456,797,699,8375,7.629850746268657,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+pluma,4421,0,617,966,0,138,4748,5038,87.75307661770543,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+policycoreutils,2689,280,4709,463,69,546,2881,7678,35.02214118259964,Bengali (India) <anubad@lists.ankur.org.in>
+polkit-gnome,94,0,0,16,0,0,103,94,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+powerdevil,6,133,260,3,22,45,8,399,1.5037593984962405,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+publican,1749,67,3627,122,3,491,1750,5443,32.13301488149917,Bengali INDIA <anubad@lists.ankur.org.in>
+publican-fedora,6,0,101,1,0,7,6,107,5.607476635514018,Bengali INDIA
+publican-jboss,120,3,109,9,1,4,119,232,51.724137931034484,Bengali INDIA <anubad@lists.ankur.org.in>
+pulseaudio,2011,951,342,407,43,46,2154,3304,60.865617433414045,Bengali INDIA <anubad@lists.ankur.org.in>
+pykickstart,294,0,1092,30,0,122,300,1386,21.21212121212121,Bengali (India) (http://www.transifex.com/projects/p/pykickstart/language/bn_IN/)
+python-blivet,529,0,163,87,0,10,587,692,76.44508670520231,Bengali (India) (http://www.transifex.com/projects/p/blivet/language/bn_IN/)
+python-blivet1,562,11,134,119,1,12,614,707,79.4908062234795,Bengali (India)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Bengali (India)
+python-meh,1,0,108,1,0,22,2,109,0.9174311926605505,Bengali (India) (http://www.transifex.com/projects/p/python-meh/language/bn_IN/)
+quadrapassel,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+realmd,0,0,789,0,0,127,0,789,0.0,Bengali (India) (http://www.transifex.com/freedesktop/realmd/language/bn_IN/)
+redhat-menus,261,0,0,86,0,0,290,261,100.0,Bengali <en@li.org>
+retrace-server,0,0,381,0,0,51,0,381,0.0,Bengali
+rhn-client-tools,2587,817,653,343,33,44,2616,4057,63.766329800345076,Bengali (India) (http://www.transifex.com/projects/p/spacewalk/language/bn_IN/)
+rhnsd,20,0,13,5,0,4,24,33,60.60606060606061,Bengali (India) <anubad@lists.ankur.org.in>
+rhythmbox,2502,0,2043,790,0,280,2992,4545,55.049504950495056,Bengali INDIA <anubad@lists.ankur.org.in>
+rygel,556,0,0,114,0,0,608,556,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+seahorse,3012,0,0,654,0,0,3242,3012,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+seahorse-caja,411,10,0,109,1,0,480,421,97.62470308788599,Bengali (India) <anubad@lists.ankur.org.in>
+seahorse-nautilus,411,10,0,109,1,0,480,421,97.62470308788599,Bengali (India) <anubad@lists.ankur.org.in>
+setroubleshoot,628,0,32,174,0,7,708,660,95.15151515151516,Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/)
+setroubleshoot-plugins,2558,0,3650,118,0,103,2398,6208,41.204896907216494,Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/)
+setuptool,55,0,0,14,0,0,62,55,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+shared-mime-info,0,0,1869,0,0,729,0,1869,0.0,Bengali (India) (http://www.transifex.com/freedesktop/shared-mime-info/language/bn_IN/)
+shotwell,1378,12,3163,419,2,525,1626,4553,30.26575884032506,Bengali (India) (http://www.transifex.com/projects/p/shotwell/language/bn_IN/)
+sos,54,33,35,11,7,12,65,122,44.26229508196721,Bengali INDIA <anubad@lists.ankur.org.in>
+sound-juicer,1003,0,0,192,0,0,1078,1003,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+spacefm,353,4,8365,135,2,1431,367,8722,4.047236872277001,Bengali (India) (http://www.transifex.com/projects/p/spacefm/language/bn_IN/)
+squirrelmail,3909,1800,1169,984,218,149,5996,6878,56.83338179703402,<en@li.org>
+storaged,0,0,1929,0,0,478,0,1929,0.0,
+subscription-manager,4796,0,926,880,0,118,5047,5722,83.81684725620411,Bengali (India)
+sugar,560,20,1153,226,8,185,630,1733,32.31390652048471,Bengali <core@bengalinux.org>
+sugar-abacus,0,0,34,0,0,25,0,34,0.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,29,18,142,20,2,30,39,189,15.343915343915343,discuss@lists.ankur.org.in
+sugar-calculator,26,2,843,20,2,142,25,871,2.9850746268656714,Bengali <core@bengalinux.org>
+sugar-chat,30,0,107,12,0,69,34,137,21.897810218978105,Bengali (India) <discuss@ankur.org.in>
+sugar-clock,0,0,66,0,0,21,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-connect,25,0,6,7,0,1,24,31,80.64516129032258,Bengali <core@bengalinux.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-distance,54,20,25,11,3,12,54,99,54.54545454545454,LANGUAGE <LL@li.org>
+sugar-finance,0,0,189,0,0,40,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-fototoon,0,0,77,0,0,33,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,14,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,0,0,78,0,0,21,0,78,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,81,69,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,12,0,86,8,0,13,13,98,12.244897959183673,Bengali (India) <discuss@ankur.org.in>
+sugar-maze,0,0,7,0,0,4,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-measure,3,6,146,2,3,68,4,155,1.935483870967742,Bengali <core@bengalinux.org>
+sugar-memorize,16,9,117,9,6,59,22,142,11.267605633802818,LANGUAGE <LL@li.org>
+sugar-moon,0,0,117,0,0,33,0,117,0.0,LANGUAGE <LL@li.org>
+sugar-paint,31,5,60,30,3,22,35,96,32.29166666666667,Bengali (India) <discuss@ankur.org.in>
+sugar-physics,0,0,48,0,0,28,0,48,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,34,17,58,11,2,18,32,109,31.19266055045872,Bengali <core@bengalinux.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,13,10,114,9,4,37,16,137,9.48905109489051,LANGUAGE <LL@li.org>
+sugar-record,12,4,46,10,1,13,12,62,19.35483870967742,Bengali <core@bengalinux.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-speak,1,0,226,1,0,73,1,227,0.4405286343612335,LANGUAGE <LL@li.org>
+sugar-terminal,1,0,120,1,0,25,1,121,0.8264462809917356,LANGUAGE <LL@li.org>
+sugar-toolkit,4,0,69,2,0,35,2,73,5.47945205479452,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,80,40,0,69,98,156,48.717948717948715,Sugar Labs
+sugar-turtleart,36,36,1502,26,23,429,36,1574,2.2871664548919948,discuss@lists.ankur.org.in
+sugar-typing-turtle,0,0,599,0,0,127,0,599,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-words,0,0,3,0,0,3,0,3,0.0,LANGUAGE <LL@li.org>
+sugar-write,59,4,58,35,2,18,64,121,48.760330578512395,discuss@lists.ankur.org.in
+sushi,24,0,0,11,0,0,24,24,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+swell-foop,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+switchdesk,901,0,0,105,0,0,873,901,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-config-bind,9434,0,0,1065,0,0,9299,9434,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-config-firewall,2814,0,0,331,0,0,2858,2814,100.0,American English <kde-i18n-doc@kde.org>
+system-config-httpd,877,0,0,227,0,0,1036,877,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+system-config-kdump,830,0,47,146,0,10,858,877,94.64082098061574,Bengali (India) <anubad@lists.ankur.org.in>
+system-config-keyboard,187,0,0,81,0,0,185,187,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+system-config-kickstart,1144,0,0,253,0,0,1243,1144,100.0,Bengali (India) (http://www.transifex.com/projects/p/system-config-kickstart/language/bn_IN/)
+system-config-language,61,90,46,14,8,7,73,197,30.96446700507614,American English <kde-i18n-doc@kde.org>
+system-config-printer,3047,8,105,729,5,21,3399,3160,96.42405063291139,Bengali (India) (http://www.transifex.com/projects/p/system-config-printer/language/bn_IN/)
+system-config-rootpassword,116,0,0,19,0,0,107,116,100.0,Bengali INDIA
+system-config-users,1436,0,85,172,0,8,1527,1521,94.41157133464826,Bengali (India) <anubad@lists.ankur.org.in>
+system-config-users-docs,1054,5,2,77,3,2,1052,1061,99.3402450518379,Bengali INDIA <anubad@lists.ankur.org.in>
+system-switch-java,81,0,0,11,0,0,78,81,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-switch-mail,158,0,0,24,0,0,177,158,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+tali,6243,0,2275,1693,0,250,6797,8518,73.29185254754637,Bengali INDIA <anubad@lists.ankur.org.in>
+tomboy,2870,0,0,415,0,0,3123,2870,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+totem,1446,0,0,384,0,0,1515,1446,100.0,American English <kde-i18n-doc@kde.org>
+totem-pl-parser,28,0,0,7,0,0,28,28,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+udisks2,0,0,1929,0,0,478,0,1929,0.0,
+usermode,573,0,0,96,0,0,589,573,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+vinagre,1507,0,0,275,0,0,1556,1507,100.0,American English <kde-i18n-doc@kde.org>
+vino,1228,0,0,134,0,0,1279,1228,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+virt-manager,6635,89,1640,1416,19,301,7390,8364,79.32807269249163,Bengali (India) (http://www.transifex.com/projects/p/virt-manager/language/bn_IN/)
+virt-viewer,452,0,332,95,0,74,504,784,57.6530612244898,Bengali (India) (http://www.transifex.com/projects/p/virt-viewer/language/bn_IN/)
+virtaal,1166,0,5,313,0,1,1269,1171,99.57301451750641,anubad@lists.ankur.org.in
+volume_key,707,0,38,143,0,8,777,745,94.8993288590604,Bengali (India) <anubad@lists.ankur.org.in>
+vte,84,0,0,14,0,0,93,84,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+vte291,84,0,0,14,0,0,93,84,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+vte3,84,0,0,14,0,0,93,84,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Bengali (India) <discuss@lists.ankur.org.in>
+xdg-user-dirs-gtk,81,0,0,11,0,0,90,81,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+xed,3418,0,1090,839,0,131,3686,4508,75.82076308784383,Bengali (India) (http://www.transifex.com/projects/p/MATE/language/bn_IN/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,420,356,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+xplayer,1156,0,801,342,0,151,1295,1957,59.07000510986203,Bengali INDIA <anubad@lists.ankur.org.in>
+xplayer-plparser,28,0,0,7,0,0,28,28,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+xreader,878,0,775,242,0,142,993,1653,53.11554748941318,Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/)
+xviewer,1426,0,251,276,0,48,1559,1677,85.03279666070364,Bengali (India) <anubad@lists.ankur.org.in>
+xviewer-plugins,76,0,2,27,0,1,95,78,97.43589743589743,Bengali INDIA <anubad@lists.ankur.org.in>
+yelp,452,0,0,104,0,0,435,452,100.0,Bengali (India) <kde-i18n-doc@kde.org>
+yelp-xsl,249,0,0,99,0,0,249,249,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+yum,0,0,3069,0,0,660,0,3069,0.0,Bengali (India) (http://www.transifex.net/projects/p/yum/team/bn_IN/)
+yum-rhn-plugin,45,39,63,7,3,7,45,147,30.612244897959183,Bengali (India) <anubad@lists.ankur.org.in>
+yumex-dnf,0,0,712,0,0,191,0,712,0.0,Bengali (India) (http://www.transifex.com/timlau/yumex/language/bn_IN/)
+zenity,674,0,0,159,0,0,846,674,100.0,Bengali (India) <anubad@lists.ankur.org.in>

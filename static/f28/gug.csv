@@ -1,0 +1,27 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,59986,5461,32373,23246,2200,6101,59713,97820,61.322837865467186,LANGUAGE <LL@li.org>
+sugar,2305,0,0,529,0,0,1998,2305,100.0,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,32,28,100.0,LANGUAGE <LL@li.org>
+sugar-calculator,871,0,0,164,0,0,893,871,100.0,LANGUAGE <LL@li.org>
+sugar-chat,137,0,0,81,0,0,123,137,100.0,LANGUAGE <LL@li.org>
+sugar-clock,66,0,0,21,0,0,646,66,100.0,LANGUAGE <LL@li.org>
+sugar-finance,258,0,0,63,0,0,212,258,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,121,0,0,46,0,0,114,121,100.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,128,0,0,33,0,0,114,128,100.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,54,0,4,14,0,2,53,58,93.10344827586206,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,71,77,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,78,69,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,102,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,8,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,160,142,100.0,LANGUAGE <LL@li.org>
+sugar-moon,117,0,0,33,0,0,130,117,100.0,LANGUAGE <LL@li.org>
+sugar-paint,0,0,106,0,0,61,0,106,0.0,LANGUAGE <LL@li.org>
+sugar-physics,48,0,0,28,0,0,52,48,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,274,0,0,66,0,0,264,274,100.0,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,132,137,100.0,LANGUAGE <LL@li.org>
+sugar-speak,0,0,227,0,0,74,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,7,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,107,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,159,0,0,111,0,0,172,159,100.0,LANGUAGE <LL@li.org>
+sugar-words,3,0,0,3,0,0,5,3,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,137,121,100.0,LANGUAGE <LL@li.org>

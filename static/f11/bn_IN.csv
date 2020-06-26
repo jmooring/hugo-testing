@@ -1,0 +1,222 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4044,0,0,485,0,0,4199,4044,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+GConf2-dbus,3396,0,621,449,0,30,3547,4017,84.54070201643017,Bangla (INDIA) <gnome-translation@bengalinux.org>
+NetworkManager,487,0,1190,138,0,237,524,1677,29.03995229576625,Bengali (India) <anubad@lists.ankur.org.in>
+PackageKit,1000,0,0,207,0,0,1103,1000,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+alacarte,42,0,0,16,0,0,57,42,100.0,Bengali India
+anaconda,8997,0,0,1133,0,0,9106,8997,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+at-spi,20,0,0,4,0,0,27,20,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+atk,370,1,4,123,1,2,314,375,98.66666666666667,Bangla (INDIA) <gnome-translation@bengalinux.org>
+audit,1241,0,0,267,0,0,1419,1241,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+authconfig,1357,0,0,242,0,0,1550,1357,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+brasero,2367,0,2911,510,0,450,2689,5278,44.84653277756726,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+bug-buddy,1010,0,0,89,0,0,1000,1010,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+ccsm,490,28,31,121,4,10,527,549,89.25318761384335,gist bengali team <info.gist@cdac.in>
+cheese,527,0,0,99,0,0,571,527,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+chkconfig,423,9,16,86,2,2,426,448,94.41964285714286,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+compiz,66,0,0,11,0,0,84,66,100.0,Bengali India
+control-center,3105,0,79,755,0,13,3525,3184,97.51884422110552,Bengali INDIA <discuss@lists.ankur.org.in>
+dasher,526,0,0,198,0,0,666,526,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+deskbar-applet,1654,0,0,355,0,0,1733,1654,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+devhelp,360,0,0,91,0,0,375,360,100.0,Bengali (India) <discuss@ankur.co.in>
+eel2,161,0,0,31,0,0,149,161,100.0,Bengali INDIA <discuss@ankur.co.in>
+ekiga,4043,0,0,667,0,0,4250,4043,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+emerald,774,0,0,215,0,0,840,774,100.0,BANGLA <mahdee.jameel@gmail.com>
+empathy,815,0,591,298,0,85,1029,1406,57.965860597439544,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+eog,1255,0,0,285,0,0,1403,1255,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+epiphany,4239,0,0,916,0,0,4702,4239,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+evince,989,0,0,278,0,0,1157,989,100.0,Bengali INDIA <discuss@ankur.org.in>
+evolution,22122,0,8,5049,0,3,24502,22130,99.96384997740624,Bengali INDIA <discuss@lists.ankur.org.in>
+evolution-data-server,5091,0,0,1040,0,0,5650,5091,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+evolution-exchange,1347,0,0,197,0,0,1413,1347,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+evolution-mapi,284,0,0,50,0,0,348,284,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+evolution-rss,689,0,0,186,0,0,862,689,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+file-roller,1267,0,0,284,0,0,1367,1267,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+firstboot,654,0,0,54,0,0,656,654,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+gcalctool,609,241,278,263,82,54,694,1128,53.98936170212766,Bengali (India) <discuss@lists.ankur.org.in>
+gconf-editor,336,0,0,98,0,0,422,336,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gdm,1314,0,0,236,0,0,1451,1314,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gedit,4942,0,0,1098,0,0,5336,4942,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+ggz-gtk-client,7,0,0,7,0,0,8,7,100.0,Bengali India
+glade3,166,0,2954,100,0,726,191,3120,5.32051282051282,Bengali (India) <en@li.org>
+glib2,2350,0,0,372,0,0,2452,2350,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-applets,3378,0,0,795,0,0,3636,3378,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-backgrounds,21,0,2,16,0,1,30,23,91.30434782608695,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-bluetooth,570,0,0,158,0,0,677,570,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-desktop,349,0,0,52,0,0,373,349,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-doc-utils,238,0,0,92,0,0,237,238,100.0,Bengali INDIA
+gnome-games,4027,1019,2530,1002,324,460,4373,7576,53.154699049630416,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-icon-theme,51,0,0,46,0,0,55,51,100.0,Bengali (India) <en@li.org>
+gnome-keyring,1823,0,0,276,0,0,1719,1823,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-mag,298,0,0,42,0,0,297,298,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-media,1190,0,0,287,0,0,1302,1190,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-menus,165,0,0,58,0,0,187,165,100.0,Bengali (India) <en@li.org>
+gnome-netstatus,418,0,0,106,0,0,422,418,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-nettool,523,0,0,206,0,0,588,523,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-packagekit,4423,0,0,723,0,0,4650,4423,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-panel,4487,0,0,615,0,0,4508,4487,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-power-manager,3284,0,0,473,0,0,3482,3284,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+gnome-screensaver,975,0,0,154,0,0,997,975,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-session,679,0,0,113,0,0,740,679,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-settings-daemon,871,0,209,176,0,14,968,1080,80.64814814814815,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-system-monitor,912,0,6,238,0,1,1014,918,99.34640522875817,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-terminal,3885,0,0,431,0,0,3778,3885,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gnome-themes,109,0,0,30,0,0,126,109,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-user-share,289,0,0,47,0,0,384,289,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-utils,4306,0,8,725,0,1,4461,4314,99.81455725544738,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnome-vfs2,1508,0,0,301,0,0,1401,1508,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gnote,2076,0,0,313,0,0,2218,2076,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+gok,1960,0,0,443,0,0,2031,1960,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+gst-mixer,2151,0,0,596,0,0,2314,2151,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gtk2,10026,0,2902,2159,0,484,9973,12928,77.55259900990099,Bengali INDIA <discuss@lists.ankur.org.in>
+gtk2-engines,99,0,0,45,0,0,105,99,100.0,Bengali INDIA <discuss@ankur.co.in>
+gtkhtml3,1261,0,0,560,0,0,1515,1261,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gtksourceview,744,39,38,303,16,13,787,821,90.62119366626065,Bengali <gnome-translation@bengalinux.org>
+gtksourceview2,955,0,144,406,0,32,994,1099,86.89717925386715,Bengali INDIA <discuss@lists.ankur.org.in>
+gucharmap,803,0,0,298,0,0,817,803,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+gvfs,1341,0,0,324,0,0,1492,1341,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+hamster-applet,250,0,0,101,0,0,324,250,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+hwbrowser,116,0,0,51,0,0,119,116,100.0,Bengali India
+ibus,449,0,0,84,0,0,510,449,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+im-chooser,152,0,0,34,0,0,163,152,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+imsettings,979,0,0,155,0,0,1004,979,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+initscripts,4169,0,0,991,0,0,5364,4169,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+iok,142,0,0,36,0,0,146,142,100.0,Bengali (India) <anubad@lists.ankur.org.in>
+kexec-tools,206,0,0,14,0,0,199,206,100.0,Bengali (India) <en@li.org>
+libbonobo,547,0,0,108,0,0,564,547,100.0,Bengali India
+libbonoboui,368,0,0,115,0,0,421,368,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+libgnome,1772,0,0,273,0,0,1789,1772,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+libgnomecanvas,357,0,0,94,0,0,386,357,100.0,Bengali <core@bengalinux.org>
+libgnomekbd,235,0,0,49,0,0,240,235,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+libgnomeprint22,168,0,0,98,0,0,171,168,100.0,Bengali India
+libgnomeprintui22,481,0,0,154,0,0,515,481,100.0,Bengali INDIA
+libgnomeui,1309,0,0,334,0,0,1359,1309,100.0,Bengali INDIA <discuss@ankur.co.in>
+libgtop2,126,0,0,40,0,0,152,126,100.0,Bengali INDIA
+libgweather,462,0,0,180,0,0,445,462,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libuser,1064,0,0,225,0,0,1237,1064,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+libvirt,3706,3929,1778,751,771,312,3986,9413,39.371082545415916,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+libwnck,1124,0,0,241,0,0,1196,1124,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+libxfcegui4,78,10,146,23,6,32,94,234,33.33333333333333,Bangla INDIA <LL@li.org>
+liveusb-creator,94,0,386,21,0,31,105,480,19.583333333333332,anubad@lists.ankur.org.in
+lxdm,11,0,0,10,0,0,11,11,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,105,97,100.0,Bengali (India) <en@li.org>
+lxpanel,847,14,34,290,3,6,927,895,94.63687150837988,LANGUAGE <LL@li.org>
+metacity,2919,122,823,388,2,23,3028,3864,75.54347826086956,Bengali INDIA <discuss@lists.ankur.org.in>
+mingw32-atk,370,1,4,123,1,2,314,375,98.66666666666667,Bangla (INDIA) <gnome-translation@bengalinux.org>
+mingw32-glib2,2350,0,0,372,0,0,2452,2350,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+mingw32-gtk2,10026,0,2902,2159,0,484,9973,12928,77.55259900990099,Bengali INDIA <discuss@lists.ankur.org.in>
+mingw32-gtkhtml3,1261,0,0,560,0,0,1515,1261,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+mousetweaks,638,0,0,67,0,0,644,638,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+nautilus,8208,0,0,1329,0,0,8594,8208,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+nautilus-cd-burner,1315,0,0,213,0,0,1331,1315,100.0,Bengali INDIA <discuss@ankur.co.in>
+nautilus-open-terminal,24,0,0,5,0,0,23,24,100.0,Bengali India
+olpc-switch-desktop,0,0,158,0,0,14,0,158,0.0,LANGUAGE <LL@li.org>
+openbox,332,0,171,68,0,28,356,503,66.00397614314116,Bengali (India) <en@li.org>
+orage,30,71,2009,14,32,723,39,2110,1.4218009478672986,Bangla INDIA <LL@li.org>
+orca,277,6,1021,177,3,329,302,1304,21.242331288343557,Bangla <gnome-translation@bengalinux.org>
+pam,565,21,13,115,3,2,617,599,94.32387312186978,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+passwd,291,8,0,51,2,0,319,299,97.32441471571906,Bengali India
+pavucontrol,202,0,0,73,0,0,234,202,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+pessulus,124,0,0,32,0,0,182,124,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+pidgin,17793,282,69,3855,101,31,19974,18144,98.06547619047619,Bengali INDIA <anubad@lists.ankur.org.in>
+policycoreutils,3717,271,375,655,35,23,4203,4363,85.19367407746962,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+publican,851,0,0,42,0,0,840,851,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+publican-fedora,107,0,0,7,0,0,111,107,100.0,Bengali INDIA
+publican-ovirt,288,0,0,27,0,0,263,288,100.0,Bengali INDIA
+pulseaudio,2703,4,0,386,1,0,2934,2707,99.85223494643517,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+pykickstart,284,0,0,25,0,0,298,284,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+redhat-menus,261,0,0,86,0,0,290,261,100.0,Bengali <en@li.org>
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,4135,221,464,401,26,27,3937,4820,85.78838174273858,Bengali India
+rhnsd,42,0,0,10,0,0,50,42,100.0,Bengali India
+rhpl,185,0,0,80,0,0,187,185,100.0,Bengali India
+rhpxl,120,0,0,43,0,0,130,120,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+sabayon,1178,0,0,230,0,0,1348,1178,100.0,Bengali INDIA
+scim,1173,0,0,281,0,0,1239,1173,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+seahorse,2384,0,665,592,0,54,2587,3049,78.18957035093473,Bengali INDIA <discuss@lists.ankur.org.in>
+seahorse-plugins,1163,0,0,248,0,0,1346,1163,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+setroubleshoot,593,0,0,168,0,0,700,593,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+setroubleshoot-plugins,8276,0,0,247,0,0,7676,8276,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+setuptool,73,0,0,19,0,0,76,73,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+smolt,1167,0,7,209,0,3,1157,1174,99.40374787052811,Bengali INDIA <anubad@lists.ankur.org.in>
+sos,174,76,17,31,2,3,181,267,65.1685393258427,Bengali INDIA
+sound-juicer,1024,0,0,198,0,0,1099,1024,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+specspo,12834,33209,259251,2066,4921,9863,12459,305294,4.203816648869614,Bangla (INDIA) <redhat-translation@bengalinux.org>
+squirrelmail,3909,1800,1169,984,218,149,5996,6878,56.83338179703402,<en@li.org>
+sugar,202,9,561,88,3,131,220,772,26.165803108808287,Bengali <core@bengalinux.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,48,4,0,25,2,0,64,52,92.3076923076923,LANGUAGE <LL@li.org>
+sugar-calculator,28,1,587,21,1,126,27,616,4.545454545454546,Bengali <core@bengalinux.org>
+sugar-chat,21,0,0,10,0,0,23,21,100.0,LANGUAGE <LL@li.org>
+sugar-connect,25,0,6,7,0,1,24,31,80.64516129032258,Bengali <core@bengalinux.org>
+sugar-distance,61,16,2,13,2,1,60,79,77.21518987341773,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,17,0,0,9,0,0,15,17,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-journal,68,0,0,43,0,0,78,68,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,10,0,0,6,0,0,16,10,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,41,7,4,23,2,2,54,52,78.84615384615384,LANGUAGE <LL@li.org>
+sugar-moon,0,0,90,0,0,31,0,90,0.0,LANGUAGE <LL@li.org>
+sugar-physics,0,0,22,0,0,22,0,22,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,37,3,0,10,2,0,35,40,92.5,Bengali <core@bengalinux.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-read,15,7,3,12,3,1,18,25,60.0,LANGUAGE <LL@li.org>
+sugar-record,137,0,0,73,0,0,155,137,100.0,Bengali <core@bengalinux.org>
+sugar-terminal,6,0,0,4,0,0,8,6,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,48,19,2,32,9,1,51,69,69.56521739130434,LANGUAGE <LL@li.org>
+swfdec-gnome,101,0,0,28,0,0,134,101,100.0,Bengali INDIA
+switchdesk,901,0,0,105,0,0,873,901,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-config-bind,9434,0,0,1065,0,0,9299,9434,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-config-boot,46,0,0,10,0,0,43,46,100.0,Bengali INDIA
+system-config-date,1038,0,0,617,0,0,1118,1038,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-display,398,0,0,63,0,0,448,398,100.0,Bengali India
+system-config-firewall,2497,0,0,303,0,0,2538,2497,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+system-config-httpd,858,0,0,223,0,0,1019,858,100.0,Bengali India
+system-config-kdump,383,0,0,35,0,0,354,383,100.0,Bengali INDIA
+system-config-keyboard,78,0,0,12,0,0,80,78,100.0,Bengali India
+system-config-kickstart,1039,0,0,264,0,0,1127,1039,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+system-config-language,49,0,0,11,0,0,50,49,100.0,Bengali India
+system-config-lvm,2228,0,0,343,0,0,2327,2228,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+system-config-netboot,1135,0,0,168,0,0,1143,1135,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-config-network,2934,0,0,704,0,0,3318,2934,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+system-config-nfs,332,0,0,72,0,0,376,332,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,3006,0,0,670,0,0,3380,3006,100.0,Bengali INDIA <anubad@lists.ankur.org.in>
+system-config-rootpassword,116,0,0,19,0,0,107,116,100.0,Bengali INDIA
+system-config-samba,422,0,0,137,0,0,498,422,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,336,0,48,50,0,3,332,384,87.5,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,1337,0,0,172,0,0,1432,1337,100.0,Bengali INDIA <fedora-trans-bn_in@redhat.com>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-java,81,0,0,11,0,0,78,81,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+system-switch-mail,158,0,0,24,0,0,177,158,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+tomboy,1427,0,1173,280,0,124,1587,2600,54.88461538461539,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+totem,2815,0,0,601,0,0,2952,2815,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+totem-pl-parser,28,0,0,7,0,0,28,28,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+usermode,562,0,0,94,0,0,578,562,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+vinagre,938,0,0,168,0,0,968,938,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+vino,1104,0,0,114,0,0,1165,1104,100.0,Bengali INDIA <discuss@lists.ankur.org.in>
+virt-ctrl,109,0,3,44,0,1,138,112,97.32142857142857,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+virt-manager,2217,1083,132,530,133,26,2391,3432,64.5979020979021,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+virtaal,1116,0,0,290,0,0,1217,1116,100.0,anubad@lists.ankur.org.in
+vte,116,0,0,20,0,0,126,116,100.0,Bengali India
+xfce-utils,20,9,102,11,3,22,25,131,15.267175572519085,Bangla INDIA <LL@li.org>
+xfce4-appfinder,2,1,81,2,1,16,2,84,2.380952380952381,Bangla INDIA <LL@li.org>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Bangla INDIA <LL@li.org>
+xfce4-panel,19,189,332,12,69,86,20,540,3.5185185185185186,Bangla INDIA <LL@li.org>
+xfce4-session,271,110,609,63,37,99,316,990,27.373737373737374,Bangla INDIA <LL@li.org>
+xfdesktop,56,290,658,24,90,154,68,1004,5.577689243027888,Bangla INDIA <LL@li.org>
+xfprint,171,48,103,77,17,19,210,322,53.105590062111794,Bangla INDIA<LL@li.org>
+xfwm4,117,376,304,49,109,66,140,797,14.68005018820577,Bangla INDIA <LL@li.org>
+yelp,1035,0,0,349,0,0,1114,1035,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>
+yum-rhn-plugin,62,0,45,9,0,5,56,107,57.943925233644855,Bengali India
+zenity,582,0,0,135,0,0,720,582,100.0,Bengali INDIA <fedora-trans-bn_IN@redhat.com>

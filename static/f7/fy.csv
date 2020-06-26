@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Miro,2640,0,976,503,0,146,2732,3616,73.00884955752213,Frisian <fy@li.org>
+deluge,82,0,2270,49,0,481,80,2352,3.486394557823129,Frisian <fy@li.org>
+picard,21,169,443,19,90,154,25,633,3.3175355450236967,Frisian <fy@li.org>

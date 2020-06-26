@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+avant-window-navigator,26,0,567,17,0,123,28,593,4.3844856661045535,Javanese <jv@li.org>
+backintime,15,0,426,7,0,112,22,441,3.4013605442176873,Javanese <jv@li.org>
+deluge,11,0,1987,8,0,681,11,1998,0.5505505505505506,Javanese <jv@li.org>
+gmpc,37,0,1079,25,0,388,62,1116,3.315412186379928,Javanese <jv@li.org>
+terminator,269,0,0,88,0,0,276,269,100.0,Javanese <jv@li.org>

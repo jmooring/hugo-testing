@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+bluedevil,617,0,0,198,0,0,562,617,100.0,Hungarian <kde-l10n-hu@kde.org>
+kde-l10n,195,0,0,28,0,0,70,195,100.0,Chinese Traditional <zh-l10n@linux.org.tw>

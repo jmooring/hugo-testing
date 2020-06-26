@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+feedreader,0,0,0,0,0,0,0,0,0.0,
+lightdm,0,0,79,0,0,17,0,79,0.0,Kurdish (Sorani) <ckb@li.org>
+midori,289,0,3058,107,0,659,263,3347,8.634598147594861,Kurdish (Sorani) <ckb@li.org>
+mintmenu,20,0,1174,6,0,264,28,1194,1.675041876046901,Kurdish (Sorani) <ckb@li.org>
+stellarium,83,0,15742,72,0,4191,87,15825,0.5244865718799367,Kurdish (Sorani) <ckb@li.org>
+terminator,3,0,723,3,0,251,3,726,0.4132231404958678,Kurdish (Sorani) <ckb@li.org>
+transmission,251,0,1558,103,0,391,256,1809,13.875069098949696,Kurdish (Sorani) <ckb@li.org>

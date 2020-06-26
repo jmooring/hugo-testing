@@ -1,0 +1,1368 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+4Pane,238,0,12484,76,0,1818,77,12722,1.8707750353717971,Chinese (Taiwan) (http://www.transifex.com/davidgh/4Pane/language/zh_TW/)
+GConf2,4088,0,0,497,0,0,1300,4088,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+LabPlot,574,4498,9795,240,1728,1904,289,14867,3.86089997982108,Traditional Chinese <zh-l10n@lists.slat.org>
+NetworkManager,19753,4870,4571,1897,224,130,4559,29194,67.66116325272317,Traditional Chinese <zh@li.org>
+NetworkManager-fortisslvpn,292,27,2,53,5,2,104,321,90.96573208722741,Chinese (traditional) <chinese-l10n@googlegroups.com>
+NetworkManager-l2tp,275,0,1014,65,0,135,124,1289,21.334367726920092,Chinese (traditional) <community@linuxhall.org>
+NetworkManager-libreswan,457,8,0,74,2,0,106,465,98.27956989247312,Chinese (traditional) <community@linuxhall.org>
+NetworkManager-openconnect,86,11,3144,23,2,571,44,3241,2.6535020055538414,
+NetworkManager-openvpn,50,167,1940,28,28,248,39,2157,2.3180343069077423,Chinese (traditional) <community@linuxhall.org>
+NetworkManager-pptp,95,31,403,27,9,58,51,529,17.958412098298677,Chinese/Traditional <community@linuxhall.org>
+NetworkManager-ssh,70,46,456,30,18,90,40,572,12.237762237762238,Chinese (traditional) <community@linuxhall.org>
+NetworkManager-sstp,90,48,740,26,17,106,50,878,10.250569476082005,Chinese/Traditional <community@linuxhall.org>
+NetworkManager-vpnc,156,0,0,41,0,0,80,156,100.0,Chinese (traditional) <community@linuxhall.org>
+PackageKit,1268,0,0,319,0,0,352,1268,100.0,Chinese (Taiwan) (http://www.transifex.com/freedesktop/packagekit/language/zh_TW/)
+R,36703,1602,1762,5368,220,274,14326,40067,91.6040631941498,Chinese (traditional) <zh-l10n@linux.org.tw>
+Thunar,5430,0,0,976,0,0,1291,5430,100.0,Chinese (Taiwan) (https://www.transifex.com/xfce/teams/16840/zh_TW/)
+WindowMaker,4106,0,169,818,0,2,1433,4275,96.046783625731,chinese <zh@li.org>
+Zim,1796,302,1288,484,77,216,677,3386,53.04193738924985,Chinese (Traditional) <https://hosted.weblate.org/projects/zim/master/zh_Hant/>
+a2ps,164,0,0,27,0,0,93,164,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+abattis-cantarell-fonts,27,0,0,3,0,0,6,27,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+abrt,3304,281,91,377,28,12,1071,3676,89.88030467899891,Chinese (Taiwan) (http://www.transifex.com/projects/p/fedora-abrt/language/zh_TW/)
+accerciser,658,0,0,224,0,0,285,658,100.0,Chinese/Traditional <zh-l10n@lists.linux.org.tw>
+accountsservice,59,0,0,10,0,0,13,59,100.0,Chinese (Taiwan) (http://www.transifex.com/freedesktop/accountsservice/language/zh_TW/)
+aisleriot,2981,0,0,681,0,0,1367,2981,100.0,Chinese <zh-l10n@linux.org.tw>
+akonadi-calendar-tools,760,0,0,166,0,0,268,760,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+akonadi-import-wizard,394,0,0,84,0,0,176,394,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+akregator,1853,0,0,430,0,0,688,1853,100.0,Chinese <zh-l10n@linux.org.tw>
+alacarte,31,0,0,12,0,0,12,31,100.0,Chinese/Traditional <zh-l10n@linux.org.tw>
+alexandria,954,80,143,265,17,32,391,1177,81.053525913339,Chinese/Traditional
+alligator,165,6,0,74,3,0,113,171,96.49122807017544,Traditional Chinese <zh-l10n@linux.org.tw>
+amarok,15323,391,105,2740,35,5,5136,15819,96.86452999557494,Chinese Traditional <kde-tw@googlegroups.com>
+anaconda,7959,382,867,1348,107,89,2520,9208,86.43570807993049,Chinese (Traditional) <https://translate.fedoraproject.org/projects/anaconda/f39/zh_TW/>
+analitza,992,0,0,222,0,0,381,992,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+android-tools,6123,80,7747,976,11,1086,2102,13950,43.89247311827957,Chinese (Taiwan)
+angelfish,511,72,106,121,24,28,145,689,74.1654571843251,Traditional Chinese <zh-l10n@linux.org.tw>
+anjuta,8398,0,0,2059,0,0,2949,8398,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+apostrophe,44,12,389,13,8,131,26,445,9.887640449438202,
+appstream,1501,171,4410,299,28,341,400,6082,24.67938178230845,Chinese (Traditional) <https://hosted.weblate.org/projects/appstream/translations/zh_Hant/>
+apt,2535,1081,1950,412,145,191,982,5566,45.544376572044555,Debian-user in Chinese [Big5] <debian-chinese-big5@lists.debian.org>
+arandr,173,0,0,38,0,0,57,173,100.0,Chinese (Traditional) <https://hosted.weblate.org/projects/arandr/translations/zh_Hant/>
+aria2,4303,186,3007,329,4,67,1468,7496,57.40394877267876,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+ark,1962,0,0,368,0,0,554,1962,100.0,Chinese <zh-l10n@linux.org.tw>
+arm-none-eabi-binutils-cs,7486,3982,4943,1297,532,812,3506,16411,45.615745536530376,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+arm-none-eabi-gcc-cs,15016,86301,35219,2402,10968,3281,6422,136536,10.997832073592313,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+artikulate,329,0,0,144,0,0,175,329,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+asunder,405,29,59,73,7,12,120,493,82.1501014198783,Chien Cheng Wei <e.cwchien@gmail.com>
+at-spi2-core,450,0,0,171,0,0,188,450,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+atlantik,0,0,568,0,0,162,0,568,0.0,none
+atomix,146,0,0,59,0,0,71,146,100.0,Chinese (Taiwan) <community@linuxhall.org>
+atril,2385,8,1972,538,2,195,879,4365,54.63917525773196,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+audacious,800,0,112,345,0,28,435,912,87.71929824561403,Chinese (Taiwan) (http://app.transifex.com/audacious/audacious/language/zh_TW/)
+audacious-plugins,3645,0,563,877,0,105,2469,4208,86.62072243346007,Chinese (Taiwan) (http://app.transifex.com/audacious/audacious/language/zh_TW/)
+audacity,18933,0,0,4391,0,0,7619,18933,100.0,Chinese (Taiwan) (https://app.transifex.com/klyok/teams/690/zh_TW/)
+audiotube,0,0,234,0,0,93,0,234,0.0,none
+authselect,1908,80,4321,337,13,299,771,6309,30.24251069900143,Chinese (Traditional) <https://translate.fedoraproject.org/projects/authselect/master-application/zh_TW/>
+avahi,865,2,1,165,2,1,391,868,99.65437788018433,Chinese (Taiwan) (http://www.transifex.com/lennart/avahi/language/zh_TW/)
+avogadro2,167,82,125,84,40,29,167,374,44.6524064171123,Chinese (Traditional) <https://hosted.weblate.org/projects/avogadro/avogadroapp/zh_Hant/>
+avogadro2-libs,345,476,3791,264,228,897,435,4612,7.480485689505638,Chinese (Traditional) <https://hosted.weblate.org/projects/avogadro/avogadrolibs/zh_Hant/>
+avr-binutils,7486,3982,4943,1297,532,812,3506,16411,45.615745536530376,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+avr-gcc,15016,86602,35575,2402,11002,3308,6422,137193,10.94516484077176,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+backintime,2347,14,0,383,1,0,651,2361,99.40703091910208,Chinese (Traditional) <https://translate.codeberg.org/projects/backintime/common/zh_Hant/>
+baloo-widgets,67,0,0,40,0,0,44,67,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+balsa,5623,3,0,1341,1,0,2156,5626,99.94667614646285,Chinese (traditional) <community@linuxhall.org>
+baobab,297,0,0,79,0,0,132,297,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+bash,11740,0,0,597,0,0,3947,11740,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+bijiben,390,0,0,125,0,0,141,390,100.0,Chinese <zh-l10n@linux.org.tw>
+binutils,7486,3982,4943,1297,532,812,3506,16411,45.615745536530376,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+bison,1434,190,182,246,26,36,625,1806,79.40199335548172,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+bleachbit,1918,5,0,363,1,0,595,1923,99.73998959958398,
+blender,62626,0,0,15223,0,0,19660,62626,100.0,Chinese (Traditional) <https://translate.blender.org/projects/blender-ui/ui/zh_Hant/>
+blinken,134,0,0,47,0,0,70,134,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+blivet-gui,663,136,312,201,26,40,321,1111,59.67596759675967,Chinese (Taiwan)
+blogilo,1364,28,0,330,7,0,457,1392,97.98850574712644,Chinese Traditional <kde-i18n-doc@kde.org>
+bluedevil,535,0,0,191,0,0,263,535,100.0,Chinese <zh-l10n@linux.org.tw>
+bluefish,674,1755,2668,339,722,524,422,5097,13.223464783205808,zh_TW <i18n-translation@b2d.org.tw>
+blueman,2342,0,23,822,0,2,1142,2365,99.02748414376322,Chinese (Traditional) <https://hosted.weblate.org/projects/blueman/2-4/zh_Hant/>
+boinc-client,20718,0,507,3465,0,33,5141,21225,97.6113074204947,Chinese (Taiwan) (http://www.transifex.com/boinc/boinc/language/zh_TW/)
+bomber,110,0,0,27,0,0,51,110,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+bookworm,729,0,66,142,0,7,214,795,91.69811320754717,Chinese (Traditional) <https://hosted.weblate.org/projects/bookworm/bookworm/zh_Hant/>
+bottles,9819,33,501,1956,9,63,2901,10353,94.84207476093886,Chinese (Traditional) <https://hosted.weblate.org/projects/bottles/bottles/zh_Hant/>
+bout++,62,114,1177,13,24,124,36,1353,4.582409460458241,Chinese (traditional)
+bovo,81,0,0,25,0,0,34,81,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+brasero,7895,236,1792,1189,16,58,2036,9923,79.5626322684672,Chinese (Hong Kong) <community@linuxhall.org>
+budgie-control-center,6930,0,984,2263,0,263,2917,7914,87.56633813495071,Chinese (Taiwan) (https://app.transifex.com/buddiesofbudgie/teams/129844/zh_TW/)
+budgie-desktop,1560,0,299,394,0,87,445,1859,83.91608391608392,Chinese (Taiwan) (https://app.transifex.com/buddiesofbudgie/teams/129844/zh_TW/)
+budgie-screensaver,291,0,0,58,0,0,90,291,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+budgie-session,435,0,0,68,0,0,146,435,100.0,Chinese <zh-l10n@linux.org.tw>
+cacti,30956,0,1812,4433,0,129,5332,32768,94.47021484375,Chinese (Traditional) <http://translate.cacti.net/projects/cacti/core-v1-2-x/zh_Hant/>
+cairo-dock,3706,0,3758,477,0,350,751,7464,49.651661307609864,Traditional Chinese <zh_TW@li.org>
+cairo-dock-plug-ins,7128,0,3075,1282,0,440,1931,10203,69.86180535136725,Traditional Chinese <zh_TW@li.org>
+caja,8736,0,939,1521,0,83,2049,9675,90.29457364341086,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+caja-actions,154,0,18661,97,0,1419,121,18815,0.8184958809460537,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+caja-extensions,760,0,0,145,0,0,316,760,100.0,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+calamares,521,0,0,91,0,0,262,521,100.0,Chinese (Taiwan) (https://app.transifex.com/calamares/teams/20061/zh_TW/)
+calibre,81123,0,100111,9523,0,10518,16587,181234,44.76146859860732,Chinese (Taiwan) (http://app.transifex.com/calibre/calibre/language/zh_TW/)
+calindori,550,0,0,186,0,0,235,550,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+calligra,30854,2162,2936,6891,521,397,12111,35952,85.81998219848687,Chinese Traditional <kde-tw@googlegroups.com>
+calligraplan,5180,1595,3168,1345,425,395,1712,9943,52.096952629990945,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+calls,435,2,0,115,1,0,155,437,99.54233409610984,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+camorama,480,137,218,108,28,33,146,835,57.48502994011976,Chinese (Traditional) <https://translate.fedoraproject.org/projects/camorama/master/zh_TW/>
+cantor,2149,322,1563,501,97,159,823,4034,53.27218641546851,Chinese <zh-l10n@lists.linux.org.tw>
+caribou,169,0,0,57,0,0,67,169,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+cataclysm-dda,341355,0,536201,43450,0,28271,60748,877556,38.89837229760836,Chinese (Taiwan) (https://www.transifex.com/cataclysm-dda-translators/teams/2217/zh_TW/)
+catfish,1104,0,0,163,0,0,241,1104,100.0,Chinese (Taiwan) (https://app.transifex.com/xfce/teams/16840/zh_TW/)
+cawbird,518,176,539,193,45,99,242,1233,42.01135442011355,Chinese (Taiwan) (http://www.transifex.com/cawbird/cawbird/language/zh_TW/)
+ccgo,559,0,0,233,0,0,274,559,100.0,Traditional Chinese
+celestia,746,938,657,347,367,129,410,2341,31.866723622383596,
+celestia-data,842,107,398,705,85,306,1114,1347,62.509279881217516,"zh_TW, Tryneeds in Taiwan <tryneeds@gmail.com>"
+celluloid,792,30,27,202,10,9,309,849,93.28621908127208,Chinese (Traditional) <https://hosted.weblate.org/projects/celluloid/celluloid/zh_Hant/>
+certmonger,534,53,2244,105,11,357,236,2831,18.862592723419287,Chinese (Taiwan) (http://www.transifex.com/projects/p/certmonger/language/zh_TW/)
+cervisia,1615,0,0,420,0,0,630,1615,100.0,Chinese <kde-i18n-doc@kde.org>
+cgit,35369,0,0,5211,0,0,13591,35369,100.0,Chinese (Traditional) <http://weblate.slat.org/projects/git-po/git-cli/zh_Hant/>
+cheese,628,0,0,130,0,0,160,628,100.0,Chinese <zh-l10n@linux.org.tw>
+chkconfig,500,85,8,94,13,1,260,593,84.31703204047217,Chinese (Traditional) <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/zh_TW/>
+chromium,0,0,0,0,0,0,0,0,0.0,
+chromium-bsu,1021,50,21,176,7,7,548,1092,93.4981684981685,Chinese (traditional) <zh-l10n@linux.org.tw>
+cinnamon-control-center,1313,0,0,756,0,0,886,1313,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+cinnamon-desktop,234,0,0,32,0,0,113,234,100.0,Chinese/Traditional <zh-l10n@lists.linux.org.tw>
+cinnamon-translations,20233,0,3440,4617,0,723,6540,23673,85.46867739618975,Chinese (Traditional) <zh_TW@li.org>
+clamtk,551,0,0,137,0,0,171,551,100.0,Chinese Traditional <>
+clapper,0,0,253,0,0,103,0,253,0.0,Chinese Traditional
+claws-mail,20770,75,7,4095,14,1,6772,20852,99.60675234989449,Mark Chang <mark.cyj@gmail.com>
+clawsker,1511,0,0,272,0,0,403,1511,100.0,LANGUAGE <mark.cyj@gmail.com>
+clementine,2944,0,859,865,0,196,1177,3803,77.41256902445438,Chinese (Taiwan) (http://app.transifex.com/davidsansome/clementine/language/zh_TW/)
+clutter,3057,0,0,675,0,0,932,3057,100.0,Chinese Traditional <zh_TW@li.org>
+cmake-fedora,0,0,0,0,0,0,0,0,0.0,
+cockpit,9130,0,0,2220,0,0,3385,9130,100.0,Chinese (Traditional) <https://translate.fedoraproject.org/projects/cockpit/main/zh_TW/>
+cockpit-machines,1436,324,1360,367,93,229,560,3120,46.02564102564102,Chinese (Traditional) <https://translate.fedoraproject.org/projects/cockpit-machines/main/zh_TW/>
+cogl,378,0,0,76,0,0,141,378,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+coin,0,0,252,0,0,50,0,252,0.0,none
+colord,1990,0,0,253,0,0,546,1990,100.0,Chinese (Taiwan) (http://www.transifex.com/freedesktop/colord/language/zh_TW/)
+colord-kde,251,30,1,85,18,1,105,282,89.00709219858156,Traditional Chinese <zh-l10n@lists.slat.org>
+compiz,3125,969,291,689,142,48,750,4385,71.26567844925884,Chinese (Taiwan) <opensuse-translation@opensuse.org>
+console-setup,984,0,0,179,0,0,344,984,100.0,Debian-user in Chinese [Big5] <debian-chinese-big5@lists.debian.org>
+coolreader,140,134,427,82,52,139,82,701,19.971469329529242,Chinese
+coreutils,16595,4035,1226,1595,173,112,6633,21856,75.92880673499268,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+cpeditor,647,0,0,383,0,0,540,647,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+cpio,849,268,793,172,42,100,433,1910,44.45026178010471,Chinese (traditional)  <zh-l10n@linux.org.tw>
+cpu-x,916,109,492,230,16,79,442,1517,60.38233355306526,Chinese (Traditional) <https://hosted.weblate.org/projects/cpu-x/translations/zh_Hant/>
+cracklib,90,0,0,15,0,0,17,90,100.0,Novell Language <language@novell.com>
+cross-binutils,7486,3982,4943,1297,532,812,3506,16411,45.615745536530376,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+cross-gcc,15078,83568,31778,2411,10647,2991,6459,130424,11.560755689136968,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+cups-pk-helper,149,0,0,22,0,0,22,149,100.0,Chinese (Taiwan) (http://www.transifex.com/freedesktop/cups-pk-helper/language/zh_TW/)
+cura,20339,139,3028,2367,9,306,3499,23506,86.52684420998894,Valen Chang <carf17771@gmail.com>
+darktable,27744,0,0,4977,0,0,9920,27744,100.0,
+dasher,634,0,0,209,0,0,264,634,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+dconf-editor,2750,0,205,389,0,5,628,2955,93.06260575296108,Chinese <zh-l10n@linux.org.tw>
+dcraw,603,0,0,121,0,0,351,603,100.0,
+debconf,737,65,60,84,6,4,236,862,85.49883990719258,Debian-user in Chinese [Big5] <debian-chinese-big5@lists.debian.org>
+deepin-daemon,1214,0,0,259,0,0,386,1214,100.0,Chinese (Taiwan) (https://www.transifex.com/linuxdeepin/teams/3617/zh_TW/)
+deepin-pw-check,84,0,0,13,0,0,14,84,100.0,Chinese (Taiwan) (https://www.transifex.com/linuxdeepin/teams/3617/zh_TW/)
+deja-dup,2063,0,1566,350,0,93,585,3629,56.847616423257094,Chinese (Traditional) <zh_TW@li.org>
+deluge,2012,0,2328,843,0,490,948,4340,46.35944700460829,Chinese (Traditional) <zh_TW@li.org>
+devhelp,381,0,0,94,0,0,136,381,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+dia,5283,408,910,2008,178,173,2907,6601,80.03332828359339,Chinese (Traditional) <zh-l10n@linux.org.tw>
+dialect,806,2,338,653,1,93,655,1146,70.33158813263525,
+dialog,37,0,0,25,0,0,33,37,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+diffutils,1864,0,0,263,0,0,920,1864,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+digikam,36830,11898,14281,7707,1702,1095,10996,63009,58.451967179291856,Traditional Chinese <zh-l10n@lists.slat.org>
+dino,967,0,151,240,0,54,314,1118,86.49373881932021,none
+dippi,0,0,1540,0,0,255,0,1540,0.0,none
+dnf,4274,82,362,826,13,40,1426,4718,90.58923272573124,Chinese (Traditional) <https://translate.fedoraproject.org/projects/dnf/dnf-master/zh_TW/>
+dnf-plugins-core,1563,198,376,242,30,44,487,2137,73.13991576977071,Chinese (Traditional) <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/zh_TW/>
+dnf-plugins-extras,121,0,0,21,0,0,63,121,100.0,Chinese (Traditional) <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-extras/zh_TW/>
+dnfdragora,1771,0,0,474,0,0,768,1771,100.0,Chinese (Taiwan) (https://www.transifex.com/MageiaLinux/teams/9361/zh_TW/)
+dolphin,3038,37,2214,704,20,52,938,5289,57.43996974853469,Chinese <zh-l10n@linux.org.tw>
+dolphin-emu,800,0,15303,385,0,2255,556,16103,4.968018381668013,Chinese (Taiwan) (http://app.transifex.com/delroth/dolphin-emu/language/zh_TW/)
+dolphin-plugins,1411,0,0,405,0,0,733,1411,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+dos2unix,853,43,183,122,3,4,509,1079,79.05468025949953,Chinese (traditional) <zh-l10n@linux.org.tw>
+doublecmd,4867,897,6635,1798,377,1330,2623,12399,39.25316557786918,
+dpkg,9081,2370,444,1183,219,54,3264,11895,76.34300126103405,Chinese (traditional) <debian-l10n-chinese@lists.debian.org>
+dragon,230,12,6,76,5,1,104,248,92.74193548387096,Chinese <zh-l10n@lists.linux.org.tw>
+drawing,814,225,867,320,77,108,364,1906,42.70724029380902,none
+drgeo,1886,91,8,447,10,4,734,1985,95.01259445843829,Chinese (traditional) <zh-l10n@linux.org.tw>
+duplicity,0,0,2433,0,0,354,0,2433,0.0,Chinese Traditional
+easyeffects,419,3,4098,106,1,666,151,4520,9.269911504424778,Chinese (Traditional) <https://hosted.weblate.org/projects/easyeffects/main/zh_Hant/>
+easystroke,451,0,19,129,0,8,146,470,95.95744680851064,Chinese (Traditional) <zh_TW@li.org>
+easytag,3801,0,1438,881,0,139,1291,5239,72.55201374308075,
+eiciel,85,77,169,27,23,35,37,331,25.6797583081571,Chinese (Taiwan) <http://10n.opensuse.org/projects/eiciel/master/zh_TW/>
+electrum,2428,0,10613,593,0,1855,715,13041,18.618204125450504,Chinese Traditional
+elementary-calculator,163,2,30,60,1,4,67,195,83.58974358974359,Chinese (Traditional) <https://l10n.elementary.io/projects/calculator/calculator/zh_Hant/>
+elementary-calendar,501,24,127,195,9,17,246,652,76.84049079754601,Chinese (Traditional) <https://l10n.elementary.io/projects/calendar/calendar/zh_Hant/>
+elementary-camera,61,2,70,15,1,19,16,133,45.86466165413533,Chinese (Traditional) <https://l10n.elementary.io/projects/camera/camera/zh_Hant/>
+elementary-code,381,262,929,135,52,107,155,1572,24.236641221374043,Chinese (Traditional) <https://l10n.elementary.io/projects/code/code/zh_Hant/>
+elementary-files,2527,0,11,549,0,2,691,2538,99.5665878644602,Chinese (Traditional) <https://l10n.elementary.io/projects/files/files/zh_Hant/>
+elementary-icon-theme,0,0,394,0,0,78,0,394,0.0,none
+elementary-mail,256,154,451,82,54,71,91,861,29.732868757259002,Chinese (Traditional) <https://l10n.elementary.io/projects/mail/mail/zh_Hant/>
+elementary-music,19,26,162,12,12,17,14,207,9.178743961352657,Chinese (Traditional) <https://weblate.elementary.io/projects/music/music/zh_Hant/>
+elementary-notifications,1,0,39,1,0,7,1,40,2.5,Chinese (Traditional) <https://l10n.elementary.io/projects/desktop/notifications-extra/zh_Hant/>
+elementary-onboarding,36,0,281,10,0,56,19,317,11.35646687697161,Chinese (Traditional) <https://l10n.elementary.io/projects/installer/onboarding/zh_Hant/>
+elisa-player,793,0,0,270,0,0,319,793,100.0,Chinese <zh-l10n@linux.org.tw>
+emerald,652,39,5,215,4,1,262,696,93.67816091954023,Chinese (Taiwan) <zh_TW@li.org>
+engrampa,2085,0,5753,449,0,444,777,7838,26.601173768818576,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+enlightenment,3109,1976,3630,1194,342,722,1471,8715,35.67412507171544,General
+entangle,31,0,934,13,0,220,15,965,3.2124352331606216,Chinese (Taiwan) (http://www.transifex.com/projects/p/entangle/language/zh_TW/)
+eog,3192,0,39,431,0,19,819,3231,98.79294336118849,LANGUAGE <LL@li.org>
+eog-plugins,23,0,0,7,0,0,10,23,100.0,Chinese (Taiwan) <community@linuxhall.org>
+eom,1718,0,3240,346,0,196,512,4958,34.651068979427194,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+epiphany,4757,0,0,869,0,0,1298,4757,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/epiphany-master-zh_tw/zh_Hant/>
+evince,3657,0,0,651,0,0,977,3657,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+evolution,28331,957,670,5745,137,59,7625,29958,94.56906335536418,Chinese <zh-l10n@linux.org.tw>
+evolution-data-server,8336,0,0,1538,0,0,2860,8336,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/evolution-data-server-master/zh_Hant/>
+evolution-mapi,518,0,0,107,0,0,179,518,100.0,Chinese/Traditional <zh-l10n@lists.linux.org.tw>
+exaile,1968,557,2077,577,187,357,785,4602,42.76401564537158,Chinese (Traditional) <https://hosted.weblate.org/projects/exaile/master/zh_Hant/>
+exo,738,0,0,145,0,0,227,738,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/exo/language/zh_TW/)
+falkon,4405,19,64,1401,12,16,1971,4488,98.150623885918,Chinese <zh-l10n@lists.linux.org.tw>
+fcitx,3308,0,0,730,0,0,1299,3308,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-anthy,293,0,72,118,0,26,128,365,80.27397260273973,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-chewing,55,0,0,26,0,0,33,55,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-cloudpinyin,63,0,0,15,0,0,15,63,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-configtool,105,0,1,32,0,1,34,106,99.05660377358491,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-hangul,37,0,0,18,0,0,26,37,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-kkc,118,0,0,47,0,0,53,118,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-libpinyin,118,0,143,62,0,41,85,261,45.21072796934866,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-m17n,45,0,0,17,0,0,24,45,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-qt5,99,0,0,33,0,0,50,99,100.0,Chinese (Taiwan) (https://www.transifex.com/fcitx/teams/12005/zh_TW/)
+fcitx-skk,84,0,0,37,0,0,46,84,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-sunpinyin,104,0,0,40,0,0,68,104,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx-table-extra,24,0,0,20,0,0,21,24,100.0,Chinese (Taiwan) (http://www.transifex.com/projects/p/fcitx/language/zh_TW/)
+fcitx-table-other,24,0,0,22,0,0,22,24,100.0,Chinese (Taiwan) (http://www.transifex.com/projects/p/fcitx/language/zh_TW/)
+fcitx-ui-light,0,0,121,0,0,41,0,121,0.0,Chinese (Taiwan) (http://www.transifex.net/projects/p/fcitx/team/zh_TW/)
+fcitx-unikey,91,0,5,40,0,2,61,96,94.79166666666666,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+fcitx5-mozc,102,0,0,38,0,0,61,102,100.0,Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/language/zh_TW/)
+file-roller,2502,0,0,567,0,0,681,2502,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/gnome-shell-main-zh_tw/zh_Hant/>
+filelight,262,0,0,88,0,0,133,262,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+filezilla,10775,0,9,1875,0,1,3357,10784,99.91654302670622,milo <milo.tw@gmail.com>
+findutils,1003,427,1108,133,30,84,375,2538,39.51930654058314,Chinese (traditional) <zh-l10n@linux.org.tw>
+firewalld,2207,10,0,414,1,0,619,2217,99.54894000902121,Chinese (Taiwan) (http://www.transifex.com/projects/p/firewalld/language/zh_TW/)
+five-or-more,239,0,0,53,0,0,86,239,100.0,Chinese <zh-l10n@linux.org.tw>
+flare,634,0,5184,114,0,1143,174,5818,10.897215537985563,Chinese (Taiwan) (https://www.transifex.com/flareorg/teams/84925/zh_TW/)
+flare-engine,0,0,1923,0,0,517,0,1923,0.0,Chinese (Taiwan) (https://www.transifex.com/flareorg/teams/84925/zh_TW/)
+flatpak,5064,705,458,1029,121,73,1918,6227,81.32326963224666,Chinese (Traditional) <zh-l10n@lists.linux.org.tw>
+flatpak-kcm,200,0,0,62,0,0,86,200,100.0,Chinese <zh-l10n@linux.org.tw>
+flex,791,329,11,164,2,3,384,1131,69.93810786914236,Chinese (traditional) <zh-l10n@linux.org.tw>
+flowblade,4975,1773,1351,1528,532,315,1976,8099,61.42733670823558,Chinese (traditional)
+focuswriter,129,0,0,7,0,0,7,129,100.0,Chinese (Taiwan) (http://www.transifex.com/gottcode/focuswriter/language/zh_TW/)
+folder-color-switcher,51,0,14,22,0,1,24,65,78.46153846153847,Chinese (Traditional) <zh_TW@li.org>
+foliate,252,149,259,124,62,83,135,660,38.18181818181819,none
+folks,1056,0,0,130,0,0,263,1056,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+fontforge,24214,0,0,5679,0,0,9341,24214,100.0,Chinese Traditional
+fonts-tweak-tool,21,6,168,9,2,53,11,195,10.76923076923077,"Chinese (Traditional, Taiwan)"
+four-in-a-row,254,0,0,72,0,0,103,254,100.0,Chinese <zh-l10n@linux.org.tw>
+fprintd,394,32,7,53,5,2,86,433,90.99307159353349,Chinese (Taiwan) (http://www.transifex.com/freedesktop/fprintd/language/zh_TW/)
+fragments,258,0,0,78,0,0,106,258,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+freeciv,5786,3815,103930,2351,1088,6415,3183,113531,5.096405387074896,Chinese (Traditional) <zero00072@gmail.com>
+freedink,5,65,0,2,11,0,2,70,7.142857142857142,Chinese (traditional) <zh-l10n@linux.org.tw>
+frescobaldi,3087,426,17116,893,157,1513,974,20629,14.964370546318289,Chinese (traditional) <zh-l10n@linux.org.tw>
+fuse-encfs,4,0,1285,1,0,136,2,1289,0.3103180760279286,Traditional Chinese <zh_TW@li.org>
+fvwm,248,0,0,112,0,0,144,248,100.0,zh_TW <zh-l10n@linux.org.tw>
+fwupd,831,0,0,155,0,0,213,831,100.0,Chinese (Taiwan) (http://app.transifex.com/freedesktop/fwupd/language/zh_TW/)
+gajim,747,3422,2180,245,1016,455,315,6349,11.765632383052449,Chinese (traditional) <zh-l10n@linux.org.tw>
+gala,231,0,28,53,0,3,66,259,89.1891891891892,Chinese (Traditional) <https://l10n.elementary.io/projects/desktop/gala/zh_Hant/>
+galculator,935,0,0,275,0,0,488,935,100.0,Chinese (Taiwan) (http://www.transifex.com/mate/MATE/language/zh_TW/)
+gambas3,3833,1258,2245,1220,357,728,1734,7336,52.24918211559433,LANGUAGE <LL@li.org>
+gamehub,312,280,523,106,104,155,121,1115,27.982062780269057,Chinese (Traditional) <https://hosted.weblate.org/projects/gamehub/translations/zh_Hant/>
+gammastep,595,285,65,82,54,13,248,945,62.96296296296296,Chinese (Traditional) <zh_TW@li.org>
+gammu,51,222,3744,42,58,1013,48,4017,1.2696041822255415,none
+garcon,125,0,0,38,0,0,42,125,100.0,Chinese (Taiwan) (https://www.transifex.com/xfce/teams/16840/zh_TW/)
+gbrainy,2214,292,3174,469,14,267,841,5680,38.978873239436616,Chinese (traditional) <zh-l10n@linux.org.tw>
+gcc,15078,83620,31806,2411,10653,2992,6459,130504,11.553668853061975,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gcin,211,0,0,148,0,0,211,211,100.0,LANGUAGE <LL@li.org>
+gcompris-qt,34147,6,0,3794,1,0,7157,34153,99.98243199718911,Chinese <zh-l10n@lists.linux.org.tw>
+gconf-editor,2834,0,0,238,0,0,413,2834,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gcr,754,0,0,269,0,0,361,754,100.0,Chinese (traditional)
+gcr3,754,0,0,269,0,0,361,754,100.0,Chinese (traditional)
+gdk-pixbuf2,1325,0,0,198,0,0,456,1325,100.0,Chinese (Traditional) <http://darkbear.ddns.net/projects/gnome-40/gdk-pixbuf-master-zh_tw/zh_Hant/>
+gdm,705,0,0,97,0,0,173,705,100.0,Chinese <zh-l10n@linux.org.tw>
+geany,5815,268,197,1289,38,26,1675,6280,92.59554140127389,Chinese (traditional) <zh-l10n@linux.org.tw>
+geary,2584,47,0,631,5,0,903,2631,98.21360699353858,Chinese (Taiwan) (http://www.transifex.com/projects/p/geary/language/zh_TW/)
+gedit,9322,0,0,1133,0,0,1960,9322,100.0,LANGUAGE <LL@li.org>
+gedit-latex,412,5,51,206,2,18,252,468,88.03418803418803,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gedit-plugins,5742,0,463,551,0,30,1169,6205,92.53827558420629,LANGUAGE <LL@li.org>
+geeqie,975,2118,2593,433,774,582,505,5686,17.1473795286669,Traditional Chinese <zh-l10n@linux.org.tw>
+genius,2015,0,3912,390,0,419,807,5927,33.99696305044711,Chinese (traditional) <community@linuxhall.org>
+gettext,8093,350,221,862,36,33,2886,8664,93.4095106186519,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gftp,3334,0,0,593,0,0,1173,3334,100.0,Chinese (Taiwan) <community@linuxhall.org>
+ggz-base-libs,72,0,0,16,0,0,16,72,100.0,Chinese (Taiwan) <community@linuxhall.org>
+ghc9.8,0,0,0,0,0,0,0,0,0.0,Chinese (Taiwan) (https://www.transifex.com/readthedocs/teams/101354/zh_TW/)
+ghdl,15427,73490,24863,2459,9394,2367,6636,113780,13.558621901915979,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+ghex,2566,0,22,350,0,15,641,2588,99.1499227202473,LANGUAGE <LL@li.org>
+ghostwriter,815,0,0,288,0,0,399,815,100.0,Chinese <zh-l10n@linux.org.tw>
+gigolo,541,0,0,158,0,0,190,541,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-apps/language/zh_TW/)
+gimagereader,1168,298,351,394,45,43,493,1817,64.28178315905339,Chinese (Traditional) <https://hosted.weblate.org/projects/gimagereader/translations/zh_Hant/>
+gimp,23560,7283,8790,6420,1782,1308,7910,39633,59.44541165190624,Chinese (Taiwan) <community@linuxhall.org>
+gimp-lqr-plugin,208,9,711,42,3,86,58,928,22.413793103448278,zh_TW
+gimp3,39439,3117,4969,9414,828,593,12888,47525,82.98579694897423,Chinese (Traditional) <zh-l10n@lists.slat.org>
+gip,103,0,0,31,0,0,54,103,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+git,39029,0,0,5773,0,0,14373,39029,100.0,Chinese (Traditional) <http://weblate.slat.org/projects/git-po/git-cli/zh_Hant/>
+git-cinnabar,36430,0,0,5367,0,0,13656,36430,100.0,Chinese (Traditional) <http://weblate.slat.org/projects/git-po/git-cli/zh_Hant/>
+git-cola,2499,26,1161,711,11,195,999,3686,67.79706999457406,Chinese l10n <chinese-l10n@googlegroups.com>
+gitg,2282,40,63,416,1,7,653,2385,95.68134171907758,Chinese <zh-l10n@linux.org.tw>
+glabels,2210,0,248,701,0,76,1004,2458,89.91049633848658,zh-l10n <zh-l10n@linux.org.tw>
+glade,6990,11,48,1776,2,5,2548,7049,99.16300184423322,Chinese <zh-l10n@linux.org.tw>
+glib-networking,402,0,0,58,0,0,143,402,100.0,Chinese (Traditional) <http://darkbear.ddns.net/projects/gnome-40/glib-networking-master-zh_tw/zh_Hant/>
+glib2,7465,0,0,1179,0,0,2401,7465,100.0,Chinese (Traditional) <zh-l10n@lists.linux.org.tw>
+glibc,7869,0,0,1430,0,0,3244,7869,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gmult,14,0,36,13,0,18,25,50,28.000000000000004,Chinese (traditional) <zh-l10n@linux.org.tw>
+gnome-abrt,210,0,11,52,0,3,72,221,95.02262443438913,Chinese (Traditional) <https://translate.fedoraproject.org/projects/abrt/gnome-abrt/zh_TW/>
+gnome-applets,6754,298,2220,928,69,182,1832,9272,72.84296807592753,Chinese/Traditional <community@linuxhall.org>
+gnome-bluetooth,318,0,0,92,0,0,114,318,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-bluetooth3.34,373,0,0,110,0,0,138,373,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-boxes,1290,0,0,262,0,0,415,1290,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-builder,2064,1419,1693,563,416,363,780,5176,39.876352395672335,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gnome-calculator,3277,42,0,870,13,0,1288,3319,98.73455860198855,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gnome-calendar,885,0,0,253,0,0,372,885,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-characters,152,0,0,52,0,0,72,152,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-chemistry-utils,4071,298,194,1130,87,50,2002,4563,89.21761998685076,Tryneeds in Tawian <tryneeds@gmail.com>
+gnome-chess,1413,14,76,249,2,4,583,1503,94.01197604790418,Chinese (traditional)
+gnome-clocks,349,0,0,142,0,0,181,349,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-color-manager,2116,0,748,377,0,20,611,2864,73.88268156424581,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gnome-commander,506,321,7069,236,167,1020,292,7896,6.408308004052684,Chinese/Traditional <community@linuxhall.org>
+gnome-connections,359,11,0,76,4,0,142,370,97.02702702702702,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-console,229,0,0,70,0,0,96,229,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-contacts,747,0,0,220,0,0,268,747,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/gnome-contacts-main/zh_Hant/>
+gnome-control-center,8688,0,0,2631,0,0,3351,8688,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+gnome-desktop3,193,0,0,40,0,0,117,193,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-dictionary,663,0,0,139,0,0,207,663,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-disk-utility,3969,0,0,745,0,0,1157,3969,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-do,505,0,107,121,0,23,185,612,82.51633986928104,Traditional Chinese <zh_TW@li.org>
+gnome-doc-utils,251,0,0,101,0,0,238,251,100.0,Chinese (Taiwan) <community@linuxhall.or>
+gnome-extensions-app,2782,0,0,623,0,0,868,2782,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/gnome-shell-main-zh_tw/zh_Hant/>
+gnome-flashback,1134,0,0,174,0,0,322,1134,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-font-viewer,210,0,326,67,0,136,160,536,39.17910447761194,Chinese (traditional)
+gnome-icon-theme,20,0,0,16,0,0,18,20,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gnome-initial-setup,876,0,0,129,0,0,163,876,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-keyring,469,0,0,98,0,0,131,469,100.0,Chinese (traditional)
+gnome-klotski,209,0,0,61,0,0,102,209,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-logs,387,0,0,125,0,0,161,387,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-mahjongg,329,0,0,74,0,0,100,329,100.0,Chinese (traditional)
+gnome-maps,1449,0,0,365,0,0,564,1449,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-menus,81,0,0,38,0,0,43,81,100.0,Chinese/Traditional <zh-l10n@lists.linux.org.tw>
+gnome-mime-data,887,0,0,362,0,0,742,887,100.0,Chinese (traditional) <community@linuxhall.org>
+gnome-mines,350,0,15,75,0,3,120,365,95.8904109589041,Chinese (traditional)
+gnome-multi-writer,390,0,0,61,0,0,139,390,100.0,Chinese (Taiwan) (http://www.transifex.com/projects/p/gnome-multi-writer/language/zh_TW/)
+gnome-music,802,0,0,182,0,0,286,802,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-nettool,664,0,0,219,0,0,369,664,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+gnome-nibbles,447,0,0,109,0,0,143,447,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-online-accounts,669,0,0,148,0,0,237,669,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-packagekit,3500,0,0,553,0,0,702,3500,100.0,Chinese (traditional)
+gnome-panel,4161,98,262,594,7,21,935,4521,92.03715992037161,Chinese Traditional
+gnome-phone-manager,559,0,0,97,0,0,148,559,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+gnome-photos,572,0,0,220,0,0,284,572,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-power-manager,430,0,0,123,0,0,142,430,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+gnome-remote-desktop,164,0,0,13,0,0,30,164,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gnome-robots,596,0,0,96,0,0,128,596,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-screenshot,417,0,0,64,0,0,97,417,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-session,435,0,0,68,0,0,146,435,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-settings-daemon,3864,0,0,538,0,0,857,3864,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/gnome-settings-daemon-master-zh_tw/zh_Hant/>
+gnome-shell,2782,0,0,623,0,0,868,2782,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/gnome-shell-main-zh_tw/zh_Hant/>
+gnome-shell-extension-dash-to-dock,623,0,0,152,0,0,221,623,100.0,Chinese (Traditional) <>
+gnome-shell-extension-dash-to-panel,750,252,196,192,68,72,237,1198,62.604340567612695,Chinese (Traditional)
+gnome-shell-extension-freon,258,0,0,56,0,0,71,258,100.0,
+gnome-shell-extension-gsconnect,471,0,363,191,0,69,217,834,56.4748201438849,Chinese Traditional
+gnome-shell-extension-just-perfection,616,0,0,149,0,0,168,616,100.0,
+gnome-shell-extension-netspeed,26,3,27,15,2,19,15,56,46.42857142857143,
+gnome-shell-extension-openweather,272,251,327,115,79,71,138,850,32.0,Chinese (Traditional) <>
+gnome-shell-extensions,270,0,0,53,0,0,73,270,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-shell-frippery,22,0,0,8,0,0,8,22,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+gnome-software,5559,0,0,1033,0,0,1271,5559,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/gnome-software-main-zh_tw/zh_Hant/>
+gnome-sound-recorder,462,0,0,129,0,0,186,462,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-subtitles,1728,160,200,544,66,28,628,2088,82.75862068965517,Chinese (traditional) <kentxchang@gmail.com>
+gnome-sudoku,402,0,0,72,0,0,108,402,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-system-log,884,0,0,152,0,0,320,884,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gnome-system-monitor,1566,0,0,341,0,0,488,1566,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-taquin,451,0,0,94,0,0,184,451,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gnome-terminal,2612,0,0,511,0,0,761,2612,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-tetravex,220,0,0,45,0,0,67,220,100.0,Chinese (traditional)
+gnome-text-editor,1086,0,0,292,0,0,360,1086,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/gnome-text-editor-main/zh_Hant/>
+gnome-themes-extra,15,0,0,6,0,0,6,15,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gnome-todo,765,0,0,158,0,0,263,765,100.0,Chinese <kde-i18n-doc@kde.org>
+gnome-tour,113,0,0,23,0,0,31,113,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnome-tweaks,655,0,0,176,0,0,243,655,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-usage,165,0,0,37,0,0,53,165,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gnome-user-share,49,0,0,10,0,0,13,49,100.0,Chinese <zh-l10n@linux.org.tw>
+gnome-vfs2,1519,0,0,305,0,0,546,1519,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+gnome-video-effects,256,0,0,68,0,0,69,256,100.0,Chinese/Traditional <zh-l10n@lists.linux.org.tw>
+gnome-weather,380,0,0,82,0,0,129,380,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gnote,2930,44,19,436,6,9,487,2993,97.8950885399265,Chinese (traditional)
+gnucash,38141,876,211,5722,63,12,8428,39228,97.22902008769246,Chinese (Traditional) <https://hosted.weblate.org/projects/gnucash/gnucash/zh_Hant/>
+gnumeric,21527,177,15302,4378,30,1518,8290,37006,58.171647840890664,"Chinese (traditional) <zh-l10n@linux.org.tw, tryneeds@gmail.com>"
+gnupg1,8595,29,16,1291,4,2,3608,8640,99.47916666666666,Chinese (traditional) <zh-l10n@linux.org.tw>
+gnupg2,10694,1954,1078,1786,287,139,4950,13726,77.91053475156637,Chinese (traditional) <zh-l10n@linux.org.tw>
+godot,415245,0,0,24387,0,0,111668,415245,100.0,Chinese (Traditional) <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/zh_Hant/>
+godot3,19107,4787,261251,4583,1210,12225,6469,285145,6.700801346683266,Chinese (Traditional) <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/zh_Hant/>
+goffice,4635,201,1365,1631,90,280,2663,6201,74.74600870827285,Chinese (traditional) <zh-l10n@linux.org.tw>
+golang-github-chai2010-gettext,24,0,0,8,0,0,22,24,100.0,chai2010(团队) <chaishushan@gmail.com>
+goodvibes,344,0,0,121,0,0,132,344,100.0,Chinese (Traditional) <https://hosted.weblate.org/projects/goodvibes/translations/zh_Hant/>
+gparted,2800,0,0,480,0,0,966,2800,100.0,Chinese (traditional) <zh-l10n@lists.slat.org>
+gpaste,221,62,1194,80,12,156,95,1477,14.962762356127286,Chinese (Traditional) <https://hosted.weblate.org/projects/gpaste/gpaste/zh_Hant/>
+gphoto2,1663,95,27,333,6,6,606,1785,93.16526610644257,Chinese (traditional) <zh-l10n@linux.org.tw>
+gramps,24015,9688,6998,4863,1530,709,7582,40701,59.00346428834672,Chinese (Traditional) <https://hosted.weblate.org/projects/gramps-project/gramps/zh_Hant/>
+granatier,246,0,0,68,0,0,100,246,100.0,Chinese <zh-l10n@linux.org.tw>
+granite,112,4,382,58,2,58,72,498,22.48995983935743,Chinese (Traditional) <https://l10n.elementary.io/projects/desktop/granite/zh_Hant/>
+granite-7,62,6,301,37,3,46,46,369,16.802168021680217,Chinese (Traditional) <https://l10n.elementary.io/projects/desktop/granite/zh_Hant/>
+grantlee-editor,530,0,0,158,0,0,224,530,100.0,Chinese <zh-l10n@linux.org.tw>
+grep,928,0,5,115,0,1,462,933,99.46409431939979,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gretl,12853,3218,4256,3303,862,698,8562,20327,63.23117036453978,Chinese
+grilo,191,0,0,36,0,0,58,191,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+grilo-plugins,540,0,0,132,0,0,219,540,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+grip,596,258,243,177,54,48,277,1097,54.329990884229716,Chinese (traditional) <zh-l10n@linux.org.tw>
+grsync,1129,5,26,158,2,2,354,1160,97.32758620689656,Chinese (traditional) <zh-l10n@linux.org.tw>
+grub-customizer,844,0,451,186,0,7,301,1295,65.17374517374517,Chinese (Traditional) <zh_TW@li.org>
+grub2,1729,1357,4326,350,254,773,723,7412,23.327037236913114,Chinese (traditional) <zh-l10n@linux.org.tw>
+gscan2pdf,133,0,1911,61,0,475,68,2044,6.506849315068493,Chinese (Taiwan) <zh_TW@li.org>
+gsettings-desktop-schemas,6378,0,0,572,0,0,1080,6378,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+gspell,76,0,0,31,0,0,32,76,100.0,chinese-l10n <chinese-l10n@googlegroups.com>
+gstreamer1,2094,64,49,358,10,18,514,2207,94.87992750339828,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gstreamer1-plugins-bad-free,197,0,0,29,0,0,70,197,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gstreamer1-plugins-good,823,0,7,102,0,2,257,830,99.1566265060241,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,33,80,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+gthumb,3608,0,0,1200,0,0,1426,3608,100.0,Chinese/Traditional <ubuntu-l10n-zh-tw@lists.launchpad.net>
+gtk+,202,0,0,105,0,0,125,202,100.0,traditional Chinese <zh-l10n@linux.org.hk>
+gtk-vnc,16,0,0,6,0,0,12,16,100.0,Chinese (traditional)
+gtk2,12381,0,0,2582,0,0,3272,12381,100.0,
+gtk2-engines,119,0,0,47,0,0,53,119,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+gtk3,16687,29,0,3928,7,0,4946,16716,99.82651351998085,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gtk4,4060,77,2,1453,41,1,2000,4139,98.09132640734477,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gtkhash,60,84,69,31,22,10,38,213,28.169014084507044,Chinese (Traditional) <https://hosted.weblate.org/projects/gtkhash/translations/zh_Hant/>
+gtkhtml3,488,0,0,310,0,0,346,488,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+gtkpod,190,47,7283,115,19,1228,151,7520,2.5265957446808507,Chinese (Taiwan) <None>
+gtksourceview2,2826,0,0,1076,0,0,1396,2826,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+gtksourceview3,320,2,0,105,1,0,143,322,99.37888198757764,Chinese (traditional)
+gtksourceview4,308,0,0,94,0,0,133,308,100.0,Chinese (traditional)
+gtksourceview5,308,0,0,94,0,0,133,308,100.0,Chinese (traditional)
+gtkspell,11,0,0,5,0,0,5,11,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+gtkspell3,16,0,0,7,0,0,11,16,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+gtranslator,1390,20,220,373,2,14,508,1630,85.2760736196319,Traditional Chinese <chinese-l10n@googlegroups.com>
+gtypist,291,169,96,58,18,15,147,556,52.33812949640287,OLS3 <ols3@www.tnc.edu.tw>
+guake,14,0,1200,3,0,261,7,1214,1.1532125205930808,Chinese (Traditional) <https://hosted.weblate.org/projects/guake/guake/zh_TW/>
+gucharmap,1216,4,10,400,2,7,508,1230,98.86178861788618,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+gummi,683,64,11,243,14,4,284,758,90.10554089709763,
+gutenprint,1568,5718,9040,463,1823,2538,789,16326,9.604312140144556,Chinese (traditional) <zh-l10n@linux.org.tw>
+guvcview,400,63,589,195,28,192,246,1052,38.02281368821293,none <kentxchang@gmail.com>
+gvfs,2097,0,0,404,0,0,645,2097,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+gwenview,2040,0,0,440,0,0,623,2040,100.0,Chinese <zh-l10n@linux.org.tw>
+haruna,0,0,1077,0,0,326,0,1077,0.0,none
+harvey,0,0,182,0,0,33,0,182,0.0,none
+hello,50,78,116,16,9,21,20,244,20.491803278688526,Chinese (traditional) <zh-l10n@linux.org.tw>
+hexchat,2744,0,3227,846,0,600,1203,5971,45.95545134818288,Chinese (Taiwan) (http://www.transifex.com/hexchat/hexchat/language/zh_TW/)
+hitori,237,0,0,62,0,0,89,237,100.0,Chinese <zh-l10n@linux.org.tw>
+homebank,2335,5,816,769,3,224,994,3156,73.98605830164765,Traditional Chinese <zh_TW@li.org>
+hugin,5860,1912,2438,1174,396,230,1855,10210,57.39471106758081,Chinese Traditional <NA>
+hunspell,42,0,571,15,0,64,19,613,6.851549755301795,Chinese (Traditional) <https://hosted.weblate.org/projects/hunspell/translations/zh_Hant/>
+iagno,327,0,0,71,0,0,121,327,100.0,Chinese <zh-l10n@linux.org.tw>
+ibus,2154,87,347,540,29,32,771,2588,83.23029366306028,Chinese (Traditional) <https://translate.fedoraproject.org/projects/ibus/ibus/zh_TW/>
+ibus-cangjie,152,0,0,22,0,0,29,152,100.0,Chinese (Taiwan) (http://www.transifex.com/projects/p/ibus-cangjie/language/zh_TW/)
+ibus-chewing,359,0,0,70,0,0,116,359,100.0,"Chinese (Traditional Han, Taiwan)"
+ibus-input-pad,103,0,0,32,0,0,45,103,100.0,Traditional Chinese
+ibus-libpinyin,418,38,4,154,11,2,199,460,90.8695652173913,Chinese (Traditional) <https://translate.fedoraproject.org/projects/ibus-libpinyin/master/zh_TW/>
+ibus-libzhuyin,204,0,9,70,0,3,113,213,95.77464788732394,Peng Huang <shawn.p.huang@gmail.com>
+ibus-m17n,6,0,51,6,0,18,6,57,10.526315789473683,Chinese (Traditional) <https://translate.fedoraproject.org/projects/ibus-m17n/app/zh_TW/>
+ibus-pinyin,168,0,0,74,0,0,90,168,100.0,BYVoid <byvoid1@gmail.com>
+ibus-table,378,103,628,91,10,49,118,1109,34.08476104598738,Chinese (Traditional) <https://translate.fedoraproject.org/projects/ibus-table/app/zh_TW/>
+ibus-typing-booster,41,6,2165,27,3,219,29,2212,1.8535262206148282,Chinese (Traditional) <https://translate.fedoraproject.org/projects/ibus-typing-booster/app/zh_TW/>
+icewm,2268,0,8,526,0,1,1237,2276,99.64850615114236,Chinese (Taiwan) <https://l10n.opensuse.org/projects/icewm/icewm-1-4-branch/zh_TW/>
+ikona,135,4,17,44,1,5,54,156,86.53846153846155,Chinese <zh-l10n@lists.linux.org.tw>
+im-chooser,239,0,14,56,0,1,89,253,94.46640316205533,Chinese (Taiwan) (http://www.transifex.net/projects/p/im-chooser/team/zh_TW/)
+imsettings,440,10,43,80,2,8,162,493,89.24949290060852,Chinese (Taiwan) (http://www.transifex.net/projects/p/imsettings/team/zh_TW/)
+indent,444,55,23,88,10,6,201,522,85.0574712643678,Chinese (traditional) <zh-l10n@linux.org.tw>
+initial-setup,106,0,33,20,0,7,27,139,76.2589928057554,Chinese (Traditional) <https://translate.fedoraproject.org/projects/initial-setup/master/zh_TW/>
+initscripts,855,90,217,131,9,24,375,1162,73.58003442340791,Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>
+inkscape,41484,3302,5067,9274,656,642,13903,49853,83.21264517681985,Chinese <zh-l10n@lists.slat.org>
+input-pad,423,2,1845,213,1,823,253,2270,18.634361233480178,Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>
+iso-codes,4571,9304,10055,2475,6817,6417,2628,23930,19.101546176347682,Chinese (Traditional) <https://hosted.weblate.org/projects/iso-codes/iso-15924/zh_Hant/>
+isoimagewriter,374,22,48,68,4,6,152,444,84.23423423423422,Chinese <zh-l10n@linux.org.tw>
+isomaster,674,0,0,107,0,0,161,674,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+itinerary,0,0,1812,0,0,618,0,1812,0.0,Chinese <kde-i18n-doc@kde.org>
+jmol,2533,169,464,869,44,108,1269,3166,80.00631711939356,Traditional Chinese <zh_TW@li.org>
+joe,1265,525,237,285,134,59,512,2027,62.40749876665023,Chinese (traditional) <zh-l10n@linux.org.tw>
+jpilot,1497,624,953,495,118,150,825,3074,48.69876382563435,Chinese (traditional) <zh-l10n@linux.org.tw>
+json-glib,307,0,0,47,0,0,83,307,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+juk,1526,0,0,362,0,0,512,1526,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+jwhois,396,11,33,64,2,5,168,440,90.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+jwm,336,43,18,91,11,3,144,397,84.63476070528966,
+k3b,20147,32,0,2512,10,0,6762,20179,99.84141929728926,Traditional Chinese <zh-l10n@lists.slat.org>
+kBuild,885,0,0,104,0,0,444,885,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+kaccounts-integration,160,0,0,29,0,0,45,160,100.0,Chinese <kde-i18n-doc@kde.org>
+kaccounts-providers,101,0,0,38,0,0,56,101,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kactivitymanagerd,11,0,0,5,0,0,6,11,100.0,Chinese <zh-l10n@linux.org.tw>
+kaddressbook,1137,0,0,234,0,0,296,1137,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kaffeine,517,127,749,237,57,203,305,1393,37.11414213926777,Chinese Traditional <zh-l10n@linux.org.tw>
+kaidan,0,0,1794,0,0,379,0,1794,0.0,none
+kajongg,2393,43,22,496,14,1,696,2458,97.35557363710333,Chinese <zh-l10n@lists.linux.org.tw>
+kalarm,6617,1056,716,946,209,73,1274,8389,78.87710096555013,Chinese <zh-l10n@lists.linux.org.tw>
+kalendar,0,0,1568,0,0,563,0,1568,0.0,none
+kalgebra,215,28,14,101,14,9,130,257,83.65758754863813,Chinese <zh-l10n@lists.linux.org.tw>
+kalk,0,0,23,0,0,13,0,23,0.0,none
+kalzium,7608,1466,31,1054,230,17,1570,9105,83.55848434925865,Chinese <zh-l10n@lists.linux.org.tw>
+kamera,347,0,0,38,0,0,71,347,100.0,Chinese <kde-i18n-doc@kde.org>
+kamoso,145,0,0,42,0,0,75,145,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kanagram,527,0,0,144,0,0,204,527,100.0,Chinese <kde-i18n-doc@kde.org>
+kapman,105,10,0,31,5,0,54,115,91.30434782608695,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kapptemplate,257,15,0,46,6,0,87,272,94.48529411764706,Chinese <zh-l10n@lists.linux.org.tw>
+kasts,1231,0,0,365,0,0,520,1231,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kate,5042,870,1861,1179,204,413,1607,7773,64.86556027273896,Traditional Chinese <zh-l10n@linux.org.tw>
+katomic,184,0,0,59,0,0,100,184,100.0,Chinese <zh-l10n@linux.org.tw>
+kaudiocreator,1136,0,0,273,0,0,403,1136,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+kbackup,0,0,694,0,0,141,0,694,0.0,Chinese <kde-i18n-doc@kde.org>
+kblackbox,1367,0,0,103,0,0,195,1367,100.0,Chinese <zh-l10n@linux.org.tw>
+kblocks,158,0,0,37,0,0,85,158,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kbounce,141,13,2,40,2,1,80,156,90.38461538461539,Chinese Traditional <kde-tw@googlegroups.com>
+kbrickbuster,146,12,0,39,3,0,62,158,92.40506329113924,Chinese <kde-i18n-doc@kde.org>
+kbruch,1347,0,0,198,0,0,250,1347,100.0,Chinese <zh-l10n@linux.org.tw>
+kcachegrind,4367,0,0,562,0,0,935,4367,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kcalc,1036,27,7,328,15,7,402,1070,96.82242990654206,Chinese <zh-l10n@linux.org.tw>
+kcharselect,88,0,0,34,0,0,57,88,100.0,Chinese <kde-i18n-doc@kde.org>
+kchmviewer,329,156,487,78,44,85,98,972,33.8477366255144,<zh@li.org>
+kclock,354,0,0,140,0,0,217,354,100.0,Chinese <zh-l10n@linux.org.tw>
+kcm_systemd,1304,29,52,151,7,10,323,1385,94.15162454873645,Chinese Traditional <rthomsen6@gmail.com>
+kcm_wacomtablet,765,148,151,164,45,34,222,1064,71.8984962406015,Chinese <zh-l10n@linux.org.tw>
+kcolorchooser,29,0,0,10,0,0,23,29,100.0,Chinese <kde-i18n-doc@kde.org>
+kcoloredit,278,0,0,95,0,0,140,278,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+kcron,502,0,0,180,0,0,232,502,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kdb,101,0,1401,15,0,229,26,1502,6.724367509986684,Chinese <zh-l10n@linux.org.tw>
+kde-cli-tools,1979,210,61,214,13,8,511,2250,87.95555555555555,Chinese <zh-l10n@lists.linux.org.tw>
+kde-connect,1353,26,28,370,7,9,620,1407,96.16204690831557,Traditional Chinese <zh-l10n@lists.slat.org>
+kde-dev-utils,94,1,0,33,1,0,61,95,98.94736842105263,Chinese <zh-l10n@lists.linux.org.tw>
+kde-inotify-survey,190,0,0,8,0,0,22,190,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kde-l10n,104873,273,14,21155,16,5,34958,105160,99.72708254089008,Chinese Traditional <zh-l10n@linux.org.tw>
+kde-partitionmanager,2272,0,0,533,0,0,767,2272,100.0,Chinese <zh-l10n@linux.org.tw>
+kde-print-manager,969,0,0,275,0,0,421,969,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kde-style-breeze,266,0,0,101,0,0,109,266,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kdebugsettings,198,39,62,53,10,18,69,299,66.22073578595318,Chinese <zh-l10n@lists.linux.org.tw>
+kdecoration,39,0,0,15,0,0,15,39,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kdenetwork-filesharing,0,51,941,0,12,98,0,992,0.0,Chinese <zh-l10n@lists.linux.org.tw>
+kdenlive,2555,5090,8169,882,1643,1060,1114,15814,16.156570127734916,Traditional Chinese <zh-l10n@lists.slat.org>
+kdepim-addons,2000,128,2462,394,31,533,628,4590,43.57298474945534,Chinese <zh-l10n@lists.linux.org.tw>
+kdepim-runtime,4857,441,2098,823,36,294,1445,7396,65.6706327744727,Chinese Traditional <kde-tw@googlegroups.com>
+kdeplasma-addons,1899,0,0,680,0,0,796,1899,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kdesdk-kioslaves,84,0,0,17,0,0,59,84,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kdesdk-thumbnailers,4,0,0,4,0,0,4,4,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kdesvn,0,0,4937,0,0,914,0,4937,0.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kdevelop,8092,3860,3901,1705,734,697,2783,15853,51.04396644168296,Traditional Chinese <zh-l10n@lists.slat.org>
+kdevelop-php,295,183,51,50,15,7,120,529,55.765595463138,Chinese <zh-l10n@lists.linux.org.tw>
+kdf,181,0,14,69,0,2,111,195,92.82051282051282,Chinese <kde-i18n-doc@kde.org>
+kdiagram,65,0,1,39,0,1,44,66,98.48484848484848,Chinese Traditional <kde-i18n-doc@kde.org>
+kdialog,322,46,23,68,5,5,133,391,82.35294117647058,Chinese <zh-l10n@lists.linux.org.tw>
+kdiamond,122,0,0,32,0,0,47,122,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kdiff3,601,522,2384,170,126,344,273,3507,17.137154262902765,Chinese <zh-l10n@lists.linux.org.tw>
+kdnssd,30,0,0,7,0,0,16,30,100.0,Chinese <kde-i18n-doc@kde.org>
+kdump-anaconda-addon,83,11,100,14,3,5,28,194,42.78350515463917,Traditional Chinese <zh_TW@li.org>
+keditbookmarks,466,0,0,132,0,0,252,466,100.0,Chinese <zh-l10n@linux.org.tw>
+kexi,3043,3338,999,942,418,136,1100,7380,41.233062330623305,Chinese Traditional <zh-l10n@linux.org.tw>
+keysmith,16,23,193,10,12,35,12,232,6.896551724137931,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-akonadi-calendar,1945,35,242,324,13,33,506,2222,87.53375337533753,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-akonadi-contacts,1116,0,0,276,0,0,334,1116,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+kf5-akonadi-mime,569,2,9,111,1,2,134,580,98.10344827586206,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-akonadi-notes,2,0,0,1,0,0,1,2,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kf5-akonadi-search,48,0,19,11,0,7,15,67,71.64179104477611,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-akonadi-server,2596,0,0,441,0,0,832,2596,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kf5-audiocd-kio,1003,0,0,210,0,0,401,1003,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-baloo,856,0,0,177,0,0,338,856,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-calendarsupport,2289,446,44,321,53,17,400,2779,82.36775818639799,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-eventviews,2949,0,0,307,0,0,399,2949,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-grantleetheme,11,3,0,5,1,0,5,14,78.57142857142857,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-incidenceeditor,1783,316,109,346,60,14,439,2208,80.75181159420289,Chinese Traditional <kde-i18n-doc@kde.org>
+kf5-karchive,488,0,0,82,0,0,172,488,100.0,Chinese <zh-l10n@linux.org.tw>
+kf5-kauth,73,0,0,8,0,0,15,73,100.0,Chinese <kde-i18n-doc@kde.org>
+kf5-kblog,243,0,0,27,0,0,36,243,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kbookmarks,230,0,0,49,0,0,72,230,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kcalendarutils,810,597,30,271,111,11,396,1437,56.36743215031316,Chinese Traditional <kde-i18n-doc@kde.org>
+kf5-kcmutils,266,0,0,38,0,0,68,266,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-kcodecs,370,0,0,53,0,0,65,370,100.0,Chinese <zh-l10n@linux.org.tw>
+kf5-kcompletion,18,0,0,11,0,0,11,18,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kconfig,289,0,0,104,0,0,118,289,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-kconfigwidgets,342,0,0,125,0,0,136,342,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-kcontacts,177,0,0,108,0,0,108,177,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kcoreaddons,382,0,0,132,0,0,260,382,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kdav,185,0,0,20,0,0,44,185,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kdbusaddons,48,0,0,6,0,0,18,48,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kdeclarative,161,0,0,25,0,0,51,161,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kdelibs4support,5110,118,125,2468,35,41,3553,5353,95.46048944517094,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kdesignerplugin,54,0,0,9,0,0,22,54,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-kdesu,19,0,0,7,0,0,19,19,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-kdnssd,3,0,0,3,0,0,3,3,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-kdoctools,8,0,0,4,0,0,4,8,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kf5-kfilemetadata,299,0,0,135,0,0,158,299,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kglobalaccel,71,0,0,9,0,0,22,71,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kholidays,150,0,0,97,0,0,108,150,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-khtml,1667,0,0,289,0,0,466,1667,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-ki18n,124,0,0,110,0,0,118,124,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kiconthemes,41,0,0,19,0,0,29,41,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kidentitymanagement,182,0,0,24,0,0,34,182,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-kimap,110,0,8,49,0,2,62,118,93.22033898305084,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kinit,116,0,0,11,0,0,21,116,100.0,Chinese <kde-i18n-doc@kde.org>
+kf5-kio,12037,0,0,1373,0,0,2703,12037,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kipi-plugins,4675,0,0,1039,0,0,1808,4675,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kirigami,0,0,2,0,0,2,0,2,0.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-kirigami2,112,0,0,48,0,0,71,112,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kirigami2-addons,33,7,346,23,5,22,26,386,8.549222797927461,Chinese <zh-l10n@linux.org.tw>
+kf5-kitemviews,7,0,0,4,0,0,4,7,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kitinerary,0,0,108,0,0,30,0,108,0.0,Chinese <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,133,0,0,38,0,0,72,133,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kjsembed,248,0,0,44,0,0,110,248,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-kldap,174,6,47,48,4,9,92,227,76.65198237885463,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kf5-kmailtransport,561,102,0,100,5,0,154,663,84.61538461538461,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-kmime,159,0,0,10,0,0,49,159,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kf5-knewstuff,1316,0,315,222,0,9,357,1631,80.68669527896995,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-knotifications,21,0,0,8,0,0,11,21,100.0,Chinese <zh-l10n@linux.org.tw>
+kf5-knotifyconfig,129,0,0,17,0,0,27,129,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+kf5-kontactinterface,4,0,0,2,0,0,6,4,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kf5-kpackage,452,0,0,73,0,0,152,452,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kparts,138,0,0,30,0,0,57,138,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kpeople,13,0,0,8,0,0,8,13,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+kf5-kpimtextedit,108,22,252,57,10,100,64,382,28.272251308900525,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-kpty,15,0,0,4,0,0,11,15,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-kross,100,0,0,35,0,0,56,100,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-kservice,173,0,0,28,0,0,59,173,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-ksmtp,0,0,86,0,0,12,0,86,0.0,Chinese <kde-i18n-doc@kde.org>
+kf5-ktexteditor,8973,0,260,1256,0,8,2076,9233,97.18401386331637,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-ktextwidgets,473,0,0,130,0,0,160,473,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-ktnef,355,0,0,143,0,0,188,355,100.0,Chinese <zh-l10n@linux.org.tw>
+kf5-kunitconversion,5676,62,19,2458,16,9,3919,5757,98.59301719645649,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kwallet,1460,0,0,110,0,0,289,1460,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+kf5-kwidgetsaddons,1293,0,0,463,0,0,546,1293,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kwindowsystem,2,0,0,1,0,0,2,2,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-kxmlgui,1574,0,0,230,0,0,409,1574,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-kxmlrpcclient,13,0,0,2,0,0,7,13,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kf5-libgravatar,23,0,0,10,0,0,18,23,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-libkcddb,400,0,0,211,0,0,250,400,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-libkcompactdisc,15,0,0,10,0,0,11,15,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kf5-libkdepim,35,0,0,10,0,0,10,35,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+kf5-libkgeomap,139,0,0,46,0,0,56,139,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-libkleo,1096,189,1138,318,18,94,481,2423,45.23318200577796,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-libksane,260,12,32,81,8,4,108,304,85.52631578947368,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-libksieve,2943,41,138,508,5,24,808,3122,94.26649583600256,Traditional Chinese <zh-l10n@linux.org.tw>
+kf5-libktorrent,465,0,0,105,0,0,192,465,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kf5-mailcommon,2323,197,235,407,61,30,569,2755,84.31941923774954,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-mailimporter,1311,87,10,107,12,8,417,1408,93.11079545454545,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-messagelib,6326,597,910,1044,139,188,1514,7833,80.76088344184859,Chinese Traditional <kde-i18n-doc@kde.org>
+kf5-pimcommon,303,103,424,72,37,99,97,830,36.506024096385545,Chinese <zh-l10n@lists.linux.org.tw>
+kf5-plasma,362,0,0,105,0,0,134,362,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-purpose,323,0,0,75,0,0,106,323,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-solid,588,0,0,159,0,0,245,588,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-sonnet,683,0,0,76,0,0,100,683,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kf5-syntax-highlighting,647,0,0,383,0,0,540,647,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kfind,517,0,0,117,0,0,203,517,100.0,Chinese <zh-l10n@linux.org.tw>
+kfloppy,641,0,0,100,0,0,239,641,100.0,Chinese <kde-i18n-doc@kde.org>
+kfourinline,385,7,0,154,3,0,192,392,98.21428571428571,Chinese Traditional <kde-tw@googlegroups.com>
+kgamma,130,0,0,16,0,0,35,130,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kgeography,9637,312,63,7080,139,18,12734,10012,96.25449460647224,Chinese <zh-l10n@lists.linux.org.tw>
+kget,2776,0,0,743,0,0,1035,2776,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kgoldrunner,23410,209,4392,896,33,79,1701,28011,83.57431009246368,Chinese <zh-l10n@lists.linux.org.tw>
+kgpg,5268,4,0,696,2,0,1248,5272,99.92412746585735,Traditional Chinese <zh-l10n@lists.slat.org>
+kgrab,370,0,0,53,0,0,107,370,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+kgraphviewer,902,288,15,188,20,7,283,1205,74.85477178423237,Chinese Traditional <kde-tw@googlegroups.com>
+khangman,475,0,0,120,0,0,184,475,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+khelpcenter,265,0,0,90,0,0,132,265,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+khotkeys,432,2,17,127,1,8,168,451,95.78713968957871,Chinese <kde-i18n-doc@kde.org>
+kicad,41667,79,0,8012,13,0,14553,41746,99.81076031236526,Chinese (Traditional) <https://hosted.weblate.org/projects/kicad/v7/zh_Hant/>
+kiconedit,726,0,0,155,0,0,245,726,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+kid3,3106,0,88,1370,0,29,1764,3194,97.24483406386976,Traditional Chinese <zh-l10n@lists.slat.org>
+kig,7857,0,0,1286,0,0,1739,7857,100.0,Chinese <zh-l10n@linux.org.tw>
+kigo,504,0,0,131,0,0,226,504,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kile,4725,1697,6572,1139,331,713,1663,12994,36.36293674003387,Chinese <zh-l10n@linux.org.tw>
+killbots,444,193,0,64,63,0,81,637,69.70172684458399,Chinese <kde-i18n-doc@kde.org>
+kinfocenter,742,12,21,363,6,8,553,775,95.74193548387096,Traditional Chinese <zh-l10n@linux.org.tw>
+kio-admin,3,0,0,1,0,0,1,3,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kio-extras,1097,0,69,153,0,1,308,1166,94.08233276157804,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kio-gdrive,76,0,0,18,0,0,33,76,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kio_gopher,17,0,0,5,0,0,11,17,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+kirigami-gallery,0,0,965,0,0,139,0,965,0.0,
+kiriki,144,0,0,50,0,0,69,144,100.0,Chinese <kde-i18n-doc@kde.org>
+kiten,599,41,43,168,2,3,271,683,87.70131771595901,Traditional Chinese <zh-l10n@linux.org.tw>
+kjots,117,230,304,39,45,50,67,651,17.972350230414747,Chinese <kde-i18n-doc@kde.org>
+kjournald,0,0,116,0,0,58,0,116,0.0,none
+kjumpingcube,413,0,0,95,0,0,188,413,100.0,Chinese <zh-l10n@linux.org.tw>
+kleopatra,5086,3074,4369,753,690,460,1559,12529,40.59382233218932,Chinese <zh-l10n@lists.linux.org.tw>
+klettres,440,0,0,85,0,0,135,440,100.0,Chinese <zh-l10n@linux.org.tw>
+klickety,175,3,0,60,2,0,94,178,98.31460674157303,Chinese <kde-i18n-doc@kde.org>
+klines,99,0,0,28,0,0,58,99,100.0,Chinese <kde-i18n-doc@kde.org>
+kmag,432,0,0,98,0,0,134,432,100.0,Chinese <kde-i18n-doc@kde.org>
+kmahjongg,377,0,0,104,0,0,160,377,100.0,Chinese <zh-l10n@linux.org.tw>
+kmail,6305,1792,1022,1080,234,183,1644,9119,69.14135321855467,Chinese <zh-l10n@lists.linux.org.tw>
+kmail-account-wizard,788,14,13,126,3,2,188,815,96.68711656441718,Chinese <zh-l10n@lists.linux.org.tw>
+kmenuedit,268,4,13,61,2,4,102,285,94.03508771929825,Chinese <zh-l10n@lists.linux.org.tw>
+kmines,112,7,37,40,2,3,57,156,71.7948717948718,Chinese <zh-l10n@lists.linux.org.tw>
+kmix,1132,0,0,224,0,0,394,1132,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kmousetool,139,8,0,31,1,0,58,147,94.5578231292517,Chinese <kde-i18n-doc@kde.org>
+kmouth,1496,0,0,208,0,0,292,1496,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kmplayer,1248,1,0,370,1,0,573,1249,99.919935948759,Chinese Traditional <zh-l10n@linux.org.tw>
+kmplot,2356,142,2,448,36,1,627,2500,94.24,Chinese <zh-l10n@lists.linux.org.tw>
+kmymoney,12673,3567,5811,2619,714,369,3540,22051,57.47131649358306,Chinese Traditional <kde-tw@googlegroups.com>
+knavalbattle,397,2,2,100,2,2,168,401,99.00249376558602,Chinese <kde-i18n-doc@kde.org>
+knetwalk,224,6,13,51,3,2,81,243,92.18106995884774,Chinese Traditional <kde-tw@googlegroups.com>
+knights,796,0,0,234,0,0,298,796,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+knotes,787,0,0,241,0,0,310,787,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+koffice-kivio,8417,0,0,2361,0,0,3618,8417,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+koko,0,0,303,0,0,136,0,303,0.0,none
+kolf,395,6,0,145,3,0,196,401,98.50374064837905,Chinese <zh-l10n@lists.linux.org.tw>
+kollision,106,0,3,29,0,1,56,109,97.24770642201835,Chinese <kde-i18n-doc@kde.org>
+kolourpaint,2576,0,0,450,0,0,663,2576,100.0,Chinese <zh-l10n@linux.org.tw>
+komikku,32,0,1418,3,0,370,5,1450,2.206896551724138,Chinese (Traditional) <https://hosted.weblate.org/projects/komikku/main/zh_Hant/>
+kommit,840,51,458,326,23,31,365,1349,62.268346923647144,Chinese <zh-l10n@linux.org.tw>
+kompare,1413,0,0,200,0,0,436,1413,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kongress,34,41,76,20,10,28,23,151,22.516556291390728,Chinese <zh-l10n@lists.linux.org.tw>
+konqueror,7717,253,1166,1074,39,160,1936,9136,84.46803852889667,Chinese <kde-i18n-doc@kde.org>
+konquest,214,32,0,83,15,0,127,246,86.99186991869918,Chinese Traditional <kde-tw@googlegroups.com>
+konsole5,3983,3,10,837,1,2,1244,3996,99.67467467467468,Chinese <zh-l10n@linux.org.tw>
+kontact,492,0,0,87,0,0,149,492,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+kontrast,328,0,0,46,0,0,87,328,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+konversation,10362,0,0,1648,0,0,3105,10362,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kopeninghours,160,0,0,20,0,0,55,160,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kopete,17175,0,0,3295,0,0,5021,17175,100.0,Traditional Chinese <zh_l10n@linux.org.tw>
+korganizer,4883,1282,729,669,152,60,986,6894,70.82970699158689,Chinese Traditional <kde-i18n-doc@kde.org>
+kosmindoormap,274,0,183,203,0,115,215,457,59.95623632385121,Traditional Chinese <zh-l10n@lists.slat.org>
+kpat,456,42,67,137,19,43,219,565,80.70796460176992,Chinese <zh-l10n@lists.linux.org.tw>
+kphotoalbum,4304,2207,2502,650,209,198,1122,9013,47.75324531232664,Chinese <zh-l10n@lists.linux.org.tw>
+kpilot,7156,0,0,861,0,0,1831,7156,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+kpipewire,16,0,0,3,0,0,8,16,100.0,Chinese <zh-l10n@linux.org.tw>
+kpmcore,1638,614,990,266,73,155,583,3242,50.52436767427514,Chinese <zh-l10n@lists.linux.org.tw>
+kproperty,2,0,143,2,0,80,2,145,1.3793103448275863,Chinese <zh-l10n@linux.org.tw>
+krb5-auth-dialog,1369,20,299,280,5,49,461,1688,81.10189573459715,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+krdc,1162,0,0,260,0,0,432,1162,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+krecipes,3633,13,0,755,10,0,1159,3646,99.6434448710916,Chinese Traditional <kde-tw@googlegroups.com>
+krecorder,136,0,0,59,0,0,78,136,100.0,Chinese <zh-l10n@linux.org.tw>
+krename,1816,41,285,424,3,25,694,2142,84.78057889822595,Chinese <zh-l10n@lists.linux.org.tw>
+kreport,254,65,136,141,28,24,142,455,55.824175824175825,Chinese Traditional <kde-tw@googlegroups.com>
+kreversi,415,10,0,135,5,0,191,425,97.6470588235294,Chinese <zh-l10n@lists.linux.org.tw>
+krfb,676,9,50,91,2,12,209,735,91.97278911564626,Chinese <zh-l10n@lists.linux.org.tw>
+krita,35809,65,50,8533,15,4,13016,35924,99.67987974613072,Chinese <zh-l10n@lists.linux.org.tw>
+kruler,158,0,0,44,0,0,71,158,100.0,Chinese <kde-i18n-doc@kde.org>
+krusader,2191,460,5448,771,162,828,962,8099,27.052722558340538,Traditional Chinese <zh-l10n@lists.slat.org>
+ksanecore,59,0,0,10,0,0,11,59,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kscreen,419,0,0,79,0,0,109,419,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+kscreenlocker,245,0,0,31,0,0,66,245,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+kshisen,499,127,41,65,8,2,99,667,74.81259370314842,Chinese <zh-l10n@lists.linux.org.tw>
+ksig,85,0,0,26,0,0,37,85,100.0,Chinese Traditional <zh-l10n@linux.org.tw>
+ksirk,5686,70,0,739,20,0,1286,5756,98.78387769284225,Chinese <kde-i18n-doc@kde.org>
+ksnakeduel,205,32,4,45,8,2,95,241,85.06224066390041,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+kspaceduel,162,3,0,80,1,0,99,165,98.18181818181819,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+ksquares,260,0,0,78,0,0,100,260,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+ksshaskpass,50,0,1,14,0,1,41,51,98.0392156862745,Chinese <zh-l10n@lists.linux.org.tw>
+kstars,23263,15256,20240,7735,3126,1780,10397,58759,39.5905308123011,Chinese <zh-l10n@lists.linux.org.tw>
+ksudoku,1746,0,0,163,0,0,334,1746,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+ksysguard,1093,0,0,237,0,0,348,1093,100.0,Chinese <kde-i18n-doc@kde.org>
+ksystemlog,3101,0,0,488,0,0,870,3101,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+ksystemstats,0,0,478,0,0,182,0,478,0.0,none
+kteatime,203,0,0,67,0,0,100,203,100.0,Chinese <zh-l10n@linux.org.tw>
+ktextaddons,0,0,139,0,0,63,0,139,0.0,Chinese <kde-i18n-doc@kde.org>
+ktimer,258,0,0,53,0,0,61,258,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+ktorrent,7107,141,214,1305,28,28,2335,7462,95.24256231573305,Traditional Chinese <zh-l10n@lists.slat.org>
+ktouch,964,0,0,259,0,0,310,964,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+ktp-accounts-kcm,1100,0,0,309,0,0,519,1100,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+ktp-approver,71,0,0,18,0,0,40,71,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+ktp-auth-handler,83,0,0,24,0,0,36,83,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+ktp-common-internals,989,0,0,206,0,0,281,989,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+ktp-contact-list,680,0,0,127,0,0,190,680,100.0,Chinese <kde-i18n-doc@kde.org>
+ktp-contact-runner,208,0,0,43,0,0,58,208,100.0,Chinese <kde-i18n-doc@kde.org>
+ktp-desktop-applets,75,0,0,22,0,0,23,75,100.0,Chinese <kde-i18n-doc@kde.org>
+ktp-filetransfer-handler,141,0,0,39,0,0,68,141,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+ktp-kded-integration-module,490,0,0,59,0,0,120,490,100.0,Chinese <kde-i18n-doc@kde.org>
+ktp-send-file,60,0,0,18,0,0,27,60,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+ktp-text-ui,1439,0,0,320,0,0,501,1439,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+ktrip,18,2,83,10,1,31,16,103,17.475728155339805,Chinese <zh-l10n@lists.linux.org.tw>
+ktuberling,154,4,0,36,2,0,54,158,97.46835443037975,Chinese <zh-l10n@lists.linux.org.tw>
+kturtle,1443,92,3,264,84,1,393,1538,93.82314694408322,Chinese <zh-l10n@lists.linux.org.tw>
+kubrick,1202,3,0,165,1,0,320,1205,99.75103734439834,Chinese <zh-l10n@lists.linux.org.tw>
+kuserfeedback,1157,0,0,270,0,0,328,1157,100.0,Chinese <zh-l10n@linux.org.tw>
+kwalletmanager5,839,0,0,169,0,0,250,839,100.0,Chinese <zh-l10n@linux.org.tw>
+kwave,723,353,4722,446,201,658,543,5798,12.469817178337356,Chinese Traditional <kde-tw@googlegroups.com>
+kweather,0,0,163,0,0,78,0,163,0.0,none
+kwebkitpart,669,0,0,165,0,0,236,669,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+kwin,6129,0,0,1230,0,0,1773,6129,100.0,Chinese <zh-l10n@linux.org.tw>
+kwordquiz,223,11,18,80,5,7,136,252,88.4920634920635,Traditional Chinese <zh-l10n@lists.slat.org>
+kxstitch,0,0,2016,0,0,571,0,2016,0.0,Traditional Chinese <zh-l10n@linux.org.tw>
+l3afpad,113,0,17,61,0,3,72,130,86.92307692307692,Chinese (traditional) <zh-l10n@linux.org.tw>
+lagrange,2011,0,0,717,0,0,858,2011,100.0,Chinese (Traditional) <http://weblate.skyjake.fi/projects/lagrange/ui/zh_Hant/>
+latte-dock,1655,834,1037,419,189,166,533,3526,46.93703913783324,Chinese <zh-l10n@lists.linux.org.tw>
+leafpad,125,0,0,68,0,0,81,125,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+lftp,4030,0,3,501,0,1,1694,4033,99.92561368708158,Chinese <chinese-l10n@googlegroups.com>
+libadwaita,265,0,0,74,0,0,109,265,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+libalkimia,11,2,528,4,1,94,8,541,2.033271719038817,Chinese <kde-i18n-doc@kde.org>
+libappstream-glib,981,16,16,205,3,2,312,1013,96.84106614017769,Chinese (Taiwan) (http://www.transifex.com/freedesktop/appstream-glib/language/zh_TW/)
+libbonobo,543,0,0,107,0,0,190,543,100.0,Chinese (Taiwan) <community@linuxhall.org>
+libbonoboui,368,0,0,115,0,0,190,368,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Chinese (Taiwan)
+libcryptui,3012,0,0,654,0,0,902,3012,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+libdnf,924,351,389,153,40,45,314,1664,55.52884615384615,Chinese (Traditional) <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/zh_TW/>
+libecpg,802,0,0,121,0,0,347,802,100.0,EnterpriseDB translation team <dev-escalations@enterprisedb.com>
+libfilezilla,307,0,0,65,0,0,117,307,100.0,milo <milo.tw@gmail.com>
+libfm,1446,125,4,367,26,1,506,1575,91.80952380952381,zh_TW <zh_TW@li.org>
+libgda,1081,3809,6252,282,875,897,527,11142,9.702028361155985,Chinese (Taiwan) <community@linuxhall.org>
+libgda5,1081,3809,6252,282,875,897,527,11142,9.702028361155985,Chinese (Taiwan) <community@linuxhall.org>
+libgdata,694,0,0,86,0,0,152,694,100.0,Chinese <zh-l10n@linux.org.tw>
+libgdl,592,0,0,86,0,0,164,592,100.0,Chinese/Traditional <community@linuxhall.org>
+libgedit-gtksourceview,301,2,16,90,1,3,128,319,94.35736677115987,Chinese (Traditional) <https://hosted.weblate.org/projects/gedit-technology/libgedit-gtksourceview/zh_Hant/>
+libgnome,1773,0,0,273,0,0,450,1773,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+libgnome-games-support,43,0,0,14,0,0,16,43,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+libgnome-games-support1,43,0,0,14,0,0,16,43,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+libgnome-keyring,44,0,0,9,0,0,12,44,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+libgnomecanvas,378,0,0,95,0,0,120,378,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+libgnomekbd,242,0,0,55,0,0,68,242,100.0,Chinese (traditional)
+libgnomeui,1226,0,0,320,0,0,385,1226,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+libgpg-error,1627,5,4,489,2,2,799,1636,99.44987775061125,None
+libgphoto2,466,0,0,78,0,0,201,466,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+libgsf,696,0,0,146,0,0,275,696,100.0,Chinese (Taiwan) <community@linuxhall.org>
+libgtop2,126,0,0,40,0,0,64,126,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+libgweather4,6145,129,78,4502,107,57,4629,6352,96.7411838790932,Chinese (Taiwan) <community@linuxhall.org>
+libgxim,0,22,102,0,6,18,0,124,0.0,"Chinese (Traditional, Taiwan)"
+libkdegames,370,0,0,132,0,0,155,370,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+libkeduvocdocument,171,0,0,81,0,0,101,171,100.0,Chinese <kde-i18n-doc@kde.org>
+libkgapi,281,75,22,63,18,4,77,378,74.33862433862434,Chinese <zh-l10n@lists.linux.org.tw>
+libkmahjongg,7,0,0,7,0,0,7,7,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+libkomparediff2,143,0,0,19,0,0,37,143,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+libkscreen-qt5,24,0,0,6,0,0,6,24,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+libksysguard,3793,37,406,522,17,121,1070,4236,89.54202077431539,Chinese <zh-l10n@lists.linux.org.tw>
+libmatekbd,300,0,8,89,0,2,133,308,97.40259740259741,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+libmatemixer,242,0,0,126,0,0,158,242,100.0,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+libmateweather,5525,0,618,4125,0,450,4277,6143,89.93976884258505,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+libmypaint,1528,60,715,105,12,45,344,2303,66.34824142422927,Chinese (Taiwan) <https://hosted.weblate.org/projects/mypaint/libmypaint/zh_TW/>
+libnma,558,231,18,129,48,6,215,807,69.14498141263941,Traditional Chinese <zh-l10n@lists.linux.org.tw>
+libpeas,103,0,0,29,0,0,32,103,100.0,Chinese <zh-l10n@linux.org.tw>
+libpeas1,103,0,0,29,0,0,32,103,100.0,Chinese <zh-l10n@linux.org.tw>
+libpq,802,0,0,121,0,0,347,802,100.0,EnterpriseDB translation team <dev-escalations@enterprisedb.com>
+libpwquality,333,0,12,50,0,1,76,345,96.52173913043478,LANGUAGE <LL@li.org>
+libreoffice,428818,6,319010,66026,3,26838,108729,747834,57.3413351091285,Chinese (Traditional) <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/zh_Hant/>
+libreport,4774,64,90,589,6,8,1791,4928,96.875,Chinese (Taiwan) (http://www.transifex.com/projects/p/libreport/language/zh_TW/)
+libsecret,123,0,0,19,0,0,19,123,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+libsmbios,0,0,2187,0,0,361,0,2187,0.0,Chinese (traditional)
+libsoup,183,0,0,43,0,0,85,183,100.0,Chinese <zh-l10n@linux.org.tw>
+libsoup3,180,0,0,38,0,0,71,180,100.0,Chinese <zh-l10n@linux.org.tw>
+libusbauth-configparser,42,0,0,30,0,0,33,42,100.0,
+libuser,1374,45,18,290,8,3,539,1437,95.61586638830897,Chinese (Taiwan) (http://www.transifex.com/projects/p/fedora/language/zh_TW/)
+libvirt,1138,10476,57190,264,1987,8160,445,68804,1.653973606185687,Chinese (Taiwan) (http://www.transifex.com/projects/p/libvirt/language/zh_TW/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,365,1124,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+libwnck3,1086,0,0,231,0,0,353,1086,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+libxfce4ui,1018,0,0,211,0,0,339,1018,100.0,Chinese (Taiwan) (https://app.transifex.com/xfce/teams/16840/zh_TW/)
+libxfce4util,424,0,0,7,0,0,278,424,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/libxfce4util/language/zh_TW/)
+libxfce4windowing,63,0,0,19,0,0,25,63,100.0,Chinese (Taiwan) (https://app.transifex.com/xfce/teams/16840/zh_TW/)
+libzypp,2696,0,0,976,0,0,1510,2696,100.0,Chinese (Taiwan) <https://l10n.opensuse.org/projects/libzypp/master/zh_TW/>
+liferea,483,724,994,133,197,206,181,2201,21.94457064970468,Chinese/Traditional <zh-l10n@linux.org.tw>
+light-locker,260,0,0,37,0,0,54,260,100.0,Chinese (Taiwan) (http://www.transifex.com/the_cavalry/light-locker/language/zh_TW/)
+lightdm,125,0,65,19,0,2,33,190,65.78947368421053,Chinese (Traditional) <zh_TW@li.org>
+lightdm-gtk,80,0,9,23,0,2,25,89,89.8876404494382,Chinese (Traditional) <zh_TW@li.org>
+lightdm-settings,319,0,36,64,0,10,75,355,89.85915492957747,Chinese (Traditional) <zh_TW@li.org>
+lightsoff,107,0,0,19,0,0,44,107,100.0,Chinese <zh-l10n@linux.org.tw>
+lilypond,1243,4,1303,249,1,230,615,2550,48.745098039215684,Chinese (traditional) <zh-l10n@linux.org.tw>
+lokalize,4165,0,0,689,0,0,1122,4165,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+lollypop,884,0,544,316,0,139,414,1428,61.904761904761905,Chinese (Traditional) <https://hosted.weblate.org/projects/gnumdk/lollypop/zh_Hant/>
+lskat,254,0,0,83,0,0,130,254,100.0,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+lxde-common,14,0,0,5,0,0,8,14,100.0,LANGUAGE <LL@li.org>
+lxdm,48,0,0,26,0,0,27,48,100.0,Chinese (traditional)
+lxinput,83,0,0,26,0,0,30,83,100.0,zh_TW <LL@li.org>
+lxlauncher,58,0,0,17,0,0,21,58,100.0,zh_TW <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,37,97,100.0,Chinese/Traditional <zh-l10n@linux.org.tw>
+lxmusic,203,0,0,89,0,0,116,203,100.0,pcman.tw@gmail.com
+lxshortcut,43,0,0,19,0,0,24,43,100.0,Chinese/Traditional <zh-l10n@linux.org.tw>
+lynx,3148,110,4791,632,35,551,1185,8049,39.11044850291962,Chinese (traditional) <zh-l10n@linux.org.tw>
+lyx,17527,6750,7317,5658,1777,832,10014,31594,55.4757232385896,Chinese (traditional) <zh-l10n@linux.org.tw>
+m4,67,465,639,21,69,107,33,1171,5.721605465414176,Chinese (traditional) <zh-l10n@linux.org.tw>
+magpie,788,463,0,135,12,0,218,1251,62.98960831334932,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+mailnag,113,0,94,40,0,26,54,207,54.589371980676326,Chinese (Traditional) <zh_TW@li.org>
+make,2593,0,0,477,0,0,1122,2593,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+malcontent,536,0,0,91,0,0,171,536,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+maliit-keyboard,65,7,9,50,2,9,53,81,80.24691358024691,
+mame,3654,0,31,1285,0,3,2395,3685,99.15875169606512,Chinese (Taiwan) (https://www.transifex.com/readthedocs/teams/101354/zh_TW/)
+man-db,1273,0,0,254,0,0,563,1273,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+manafirewall,23,0,1074,22,0,111,23,1097,2.096627164995442,Chinese (Taiwan) (https://www.transifex.com/MageiaLinux/teams/9361/zh_TW/)
+marble,7003,2482,2129,2081,646,614,3407,11614,60.29791630790425,Traditional Chinese <zh-l10n@lists.slat.org>
+marco,4303,0,0,430,0,0,878,4303,100.0,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+markdownpart,0,0,23,0,0,9,0,23,0.0,none
+massif-visualizer,251,20,86,69,8,32,128,357,70.30812324929971,Chinese Traditional <kde-tw@googlegroups.com>
+mate-applets,2822,37,13098,720,8,918,1334,15957,17.68502851413173,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+mate-backgrounds,55,0,0,29,0,0,44,55,100.0,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+mate-calc,1618,0,1705,523,0,226,788,3323,48.690941919951854,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+mate-control-center,3397,7,4849,1205,1,304,1441,8253,41.16079001575185,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-desktop,2365,11,0,300,1,0,559,2376,99.53703703703704,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+mate-media,231,0,8,97,0,2,109,239,96.65271966527197,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-menu,308,0,0,110,0,0,130,308,100.0,Chinese (Taiwan) (http://www.transifex.com/mate/MATE/language/zh_TW/)
+mate-menus,103,0,0,39,0,0,39,103,100.0,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-notification-daemon,186,0,0,53,0,0,89,186,100.0,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-panel,4710,3,2007,665,1,148,1070,6720,70.08928571428571,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-polkit,123,0,0,21,0,0,29,123,100.0,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+mate-power-manager,2606,0,2513,401,0,150,649,5119,50.90838054307481,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-screensaver,1089,0,12,173,0,3,250,1101,98.9100817438692,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-sensors-applet,16,14,2130,12,8,206,32,2160,0.7407407407407408,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+mate-session-manager,677,0,38,130,0,2,177,715,94.68531468531468,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-settings-daemon,2183,0,24,318,0,1,462,2207,98.91255097417309,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-system-monitor,1613,0,3280,367,0,293,566,4893,32.96546086245657,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-terminal,4751,0,3635,559,0,244,1024,8386,56.65394705461484,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-themes,74,0,0,23,0,0,25,74,100.0,Chinese (Taiwan) (http://app.transifex.com/mate/MATE/language/zh_TW/)
+mate-user-admin,605,0,0,126,0,0,167,605,100.0,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+mate-user-guide,646,0,42327,283,0,2945,521,42973,1.50326949479906,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mate-utils,3947,0,6113,752,0,374,1077,10060,39.23459244532803,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+mbox-importer,33,7,0,11,2,0,19,40,82.5,Chinese <zh-l10n@lists.linux.org.tw>
+mc,2339,0,2055,812,0,456,1395,4394,53.231679563040515,Chinese (Taiwan) (http://app.transifex.com/mc/mc/language/zh_TW/)
+mediawriter,830,6,0,152,3,0,281,836,99.28229665071771,Chinese (Traditional) <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/zh_TW/>
+meld,2479,0,0,497,0,0,693,2479,100.0,Babycaseny Gavèrnmènt
+menulibre,292,0,581,111,0,55,130,873,33.44788087056128,Chinese (Traditional) <zh_TW@li.org>
+mercurial,3096,33,30299,640,8,2372,1480,33428,9.261696781141557,Traditional Chinese
+merkuro,0,0,1841,0,0,648,0,1841,0.0,none
+metacity,1990,82,116,305,3,3,646,2188,90.95063985374772,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+metadata-cleaner,718,0,0,91,0,0,99,718,100.0,Chinese (Traditional) <https://hosted.weblate.org/projects/metadata-cleaner/application/zh_Hant/>
+midori,3541,0,0,796,0,0,1123,3541,100.0,chinese-l10n <chinese-l10n@googlegroups.com>
+minetest,8633,872,171,1267,58,10,2475,9676,89.2207523770153,Chinese (Traditional) <https://hosted.weblate.org/projects/minetest/minetest/zh_Hant/>
+mingw-GConf2,4088,0,0,497,0,0,1300,4088,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+mingw-atk,440,0,0,169,0,0,186,440,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+mingw-binutils,7486,3982,4943,1297,532,812,3506,16411,45.615745536530376,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+mingw-colord,1885,0,0,203,0,0,475,1885,100.0,Chinese (Taiwan) (http://www.transifex.com/projects/p/colord/language/zh_TW/)
+mingw-gcc,15078,83568,31778,2411,10647,2991,6459,130424,11.560755689136968,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+mingw-gdk-pixbuf,1325,0,0,198,0,0,456,1325,100.0,Chinese (Traditional) <http://darkbear.ddns.net/projects/gnome-40/gdk-pixbuf-master-zh_tw/zh_Hant/>
+mingw-gettext,8093,350,221,862,36,33,2886,8664,93.4095106186519,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+mingw-glib-networking,402,0,0,58,0,0,143,402,100.0,Chinese (Traditional) <http://darkbear.ddns.net/projects/gnome-40/glib-networking-master-zh_tw/zh_Hant/>
+mingw-glib2,7465,0,0,1179,0,0,2401,7465,100.0,Chinese (Traditional) <zh-l10n@lists.linux.org.tw>
+mingw-gsettings-desktop-schemas,6378,0,0,572,0,0,1080,6378,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+mingw-gstreamer1,2094,64,49,358,10,18,514,2207,94.87992750339828,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+mingw-gstreamer1-plugins-bad-free,197,0,0,29,0,0,70,197,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+mingw-gstreamer1-plugins-good,823,0,7,102,0,2,257,830,99.1566265060241,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+mingw-gtk2,12381,0,0,2582,0,0,3272,12381,100.0,
+mingw-gtk3,16687,29,0,3928,7,0,4946,16716,99.82651351998085,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+mingw-gtk4,4060,77,2,1453,41,1,2000,4139,98.09132640734477,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+mingw-gtksourceview3,320,2,0,105,1,0,143,322,99.37888198757764,Chinese (traditional)
+mingw-hunspell,42,0,571,15,0,64,19,613,6.851549755301795,Chinese (Traditional) <https://hosted.weblate.org/projects/hunspell/translations/zh_Hant/>
+mingw-json-glib,307,0,0,47,0,0,83,307,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+mingw-libcharset,342,0,0,46,0,0,111,342,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+mingw-libgpg-error,978,274,172,327,77,42,445,1424,68.67977528089888,Chinese (traditional) <zh-l10n@linux.org.tw>
+mingw-libgsf,696,0,0,146,0,0,275,696,100.0,Chinese (Taiwan) <community@linuxhall.org>
+mingw-libsoup,183,0,0,43,0,0,85,183,100.0,Chinese <zh-l10n@linux.org.tw>
+mingw-mediawriter,829,11,5,158,3,1,282,845,98.10650887573964,Chinese (Traditional) <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/zh_TW/>
+mingw-p11-kit,2,0,474,1,0,80,1,476,0.42016806722689076,Chinese (Taiwan) (http://www.transifex.com/freedesktop/p11-kit/language/zh_TW/)
+mingw-postgresql,802,0,0,121,0,0,347,802,100.0,EnterpriseDB translation team <dev-escalations@enterprisedb.com>
+mingw-wxWidgets,5220,496,675,1088,143,244,2454,6391,81.67735878579252,wxWidgets tranlators <wx-translators@wxwidgets.org>
+mingw-wxWidgets3,7383,212,100,1710,82,61,3268,7695,95.94541910331384,Chinese (traditional) <zh-l10n@linux.org.tw>
+minicom,1541,295,99,385,14,13,908,1935,79.63824289405684,Chinese (traditional) <zh-l10n@linux.org.tw>
+minigalaxy,358,0,0,117,0,0,144,358,100.0,Chinese <zh-l10n@linux.org.tw>
+minuet,215,103,94,59,45,55,91,412,52.18446601941748,Chinese <kde-i18n-doc@kde.org>
+mkvtoolnix,42267,538,1300,3954,65,89,12509,44105,95.83267203264936,Chinese (Taiwan) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_TW/)
+mlocate,406,175,0,50,1,0,153,581,69.87951807228916,Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>
+monodevelop,14017,4887,4394,3207,1317,774,5215,23298,60.16396257189458,Chinese/Traditional <zh-l10n@linux.org.tw>
+moodle,50,2,0,13,1,0,23,52,96.15384615384616,i18n@lists.horde.org
+moserial,480,0,0,118,0,0,158,480,100.0,Chinese (Traditional) <i18n-zh@googlegroups.com>
+mousepad,1700,0,0,428,0,0,524,1700,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-apps/language/zh_TW/)
+mousetweaks,114,0,0,30,0,0,38,114,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+mozo,46,0,0,24,0,0,24,46,100.0,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+mtpaint,2349,27,1083,616,9,382,1051,3459,67.90980052038161,Chinese (traditional) <zh-l10n@linux.org.tw>
+muffin,1081,106,0,141,1,0,285,1187,91.06992417860151,Chinese <zh-l10n@linux.org.tw>
+multimedia-menus,56,0,0,22,0,0,24,56,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+mutt,3066,1949,1714,715,379,326,1123,6729,45.563976816763265,Chinese <zh@li.org>
+mutter,788,463,0,135,12,0,218,1251,62.98960831334932,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+mypaint,4792,705,884,971,170,129,1304,6381,75.09794703024605,Chinese (Traditional) <https://hosted.weblate.org/projects/mypaint/mypaint/zh_Hant/>
+nano,3486,0,0,632,0,0,996,3486,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+nautilus,5460,0,0,1115,0,0,1445,5460,100.0,Chinese (Traditional) <http://darkbear.mercusysddns.com/projects/gnome-44/nautilus-master-zh_tw/zh_Hant/>
+nemiver,2682,0,0,680,0,0,860,2682,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+neochat,2536,4,191,699,1,31,875,2731,92.85975833028195,Traditional Chinese <zh-l10n@lists.slat.org>
+neomutt,2614,2482,2852,606,519,487,937,7948,32.8887770508304,Chinese <zh@li.org>
+network-manager-applet,4012,213,211,841,20,12,1552,4436,90.44183949504058,Traditional Chinese <zh-l10n@lists.linux.org.tw>
+neverball,2294,0,441,287,0,72,526,2735,83.87568555758683,Chinese (Taiwan) (http://www.transifex.com/projects/p/neverball/language/zh_TW/)
+newsbeuter,1177,111,54,310,13,11,459,1342,87.70491803278688,Traditional Chinese <aeglos.lin@gmail.com>
+newsboat,924,663,493,255,94,85,342,2080,44.42307692307692,
+newt,4,0,0,4,0,0,4,4,100.0,Debian-user in Chinese [Big5] <debian-chinese-big5@lists.debian.org>
+notification-daemon,17,0,0,7,0,0,7,17,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+nutty,19,0,589,4,0,148,8,608,3.125,Chinese (Traditional) <https://hosted.weblate.org/projects/nutty/translations/zh_Hant/>
+obconf,578,0,160,135,0,21,220,738,78.31978319783198,Chinese (traditional) <zh-l10n@linux.org.tw>
+okteta,2496,22,20,596,9,13,713,2538,98.3451536643026,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+okular,5708,0,4,1247,0,2,2020,5712,99.92997198879551,Chinese <zh-l10n@linux.org.tw>
+onboard,1286,0,1032,344,0,166,490,2318,55.4788610871441,Chinese (Traditional) <zh_TW@li.org>
+onionshare,85,116,4409,20,20,145,25,4610,1.843817787418655,zh_TW <LL@li.org>
+openbox,479,0,27,91,0,3,162,506,94.66403162055336,Chinese (traditional) <zh-l10n@linux.org.tw>
+openconnect,32,0,9499,7,0,1558,10,9531,0.33574651138390516,
+openscad,1341,146,28,423,50,12,539,1515,88.51485148514851,Distance Learning Center at the Chinese Culture University (Open Source Software for School project)
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orage,2304,0,0,912,0,0,1146,2304,100.0,Chinese (Taiwan) (https://www.transifex.com/xfce/teams/16840/zh_TW/)
+orca,4397,896,174,1440,298,41,1953,5467,80.42802268154381,Traditional Chinese
+p11-kit,476,0,1288,81,0,232,95,1764,26.984126984126984,Chinese (Taiwan) (http://www.transifex.com/freedesktop/p11-kit/language/zh_TW/)
+pacman,5174,0,15,896,0,2,2013,5189,99.7109269608788,Chinese (Taiwan) (http://www.transifex.com/toofishes/archlinux-pacman/language/zh_TW/)
+palapeli,1442,75,8,155,27,4,201,1525,94.55737704918033,Chinese <kde-i18n-doc@kde.org>
+pam,514,30,0,97,4,0,166,544,94.48529411764706,Chinese (Traditional) <https://translate.fedoraproject.org/projects/linux-pam/master/zh_TW/>
+paprefs,137,0,0,25,0,0,51,137,100.0,Chinese (Traditional) <https://translate.fedoraproject.org/projects/pulseaudio/paprefs/zh_TW/>
+parcellite,212,0,458,75,0,31,102,670,31.64179104477612,CHINESE
+parley,3296,100,37,674,46,9,882,3433,96.00932129332945,Chinese <zh-l10n@lists.linux.org.tw>
+parole,1147,0,0,299,0,0,440,1147,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-apps/language/zh_TW/)
+partclone,120,87,62,18,17,18,80,269,44.60966542750929,Chinese (traditional) <zh-l10n@linux.org.tw>
+parted,4585,16,27,568,5,4,1683,4628,99.07087294727745,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+passwd,329,0,7,56,0,1,125,336,97.91666666666666,Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>
+pastebinit,173,0,22,26,0,3,59,195,88.71794871794872,Traditional Chinese <debian-chinese-big5@debian.org>
+pavucontrol,423,7,100,132,3,14,228,530,79.81132075471699,Chinese (Traditional) <https://translate.fedoraproject.org/projects/pulseaudio/pavucontrol/zh_TW/>
+pcmanx-gtk2,484,0,78,135,0,5,291,562,86.12099644128114,<zh@li.org>
+pcsxr,1833,338,424,604,49,113,1204,2595,70.63583815028902,Traditional Chinese <whistler@openoffice.org>
+pdfarranger,563,0,0,197,0,0,245,563,100.0,
+peek,527,20,17,87,5,5,161,564,93.43971631205675,Chinese (Traditional) <https://hosted.weblate.org/projects/peek/translations/zh_Hant/>
+perl-SVK,3437,0,3355,531,0,327,1413,6792,50.60365135453475,Chinese <cpan@audreyt.org>
+phd2,20618,0,116,3660,0,9,7362,20734,99.44053245876339,天體暨宇宙事件攝影觀測聯萌 <tc.wooo@gmail.com>
+phonon-backend-gstreamer,104,0,0,15,0,0,23,104,100.0,Chinese <chinese-l10n@googlegroups.com>
+phonon-backend-vlc,27,0,0,3,0,0,10,27,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+phosh,89,0,0,37,0,0,41,89,100.0,Chinese (Taiwan)
+picard,7931,117,8862,2083,23,1989,2976,16910,46.90124186871674,Chinese (Traditional) <https://translations.metabrainz.org/projects/picard/2/app/zh_Hant/>
+picmi,202,0,0,117,0,0,143,202,100.0,Chinese <zh-l10n@linux.org.tw>
+pidgin,13823,0,171,3163,0,28,4593,13994,98.77804773474345,Chinese (Taiwan) (http://www.transifex.com/pidgin/pidgin/language/zh_TW/)
+pidgin-guifications,505,0,0,192,0,0,217,505,100.0,Chinese (Traditional) <zh-l10n@linux.org.tw>
+pidgin-sipe,709,0,410,178,0,95,267,1119,63.360142984807865,Chinese (Taiwan) (http://www.transifex.com/stefanb/pidgin-sipe/language/zh_TW/)
+pim-data-exporter,389,303,118,99,75,31,144,810,48.02469135802469,Chinese <zh-l10n@lists.linux.org.tw>
+pim-sieve-editor,412,16,9,108,7,2,186,437,94.27917620137299,Chinese <zh-l10n@lists.linux.org.tw>
+pingus,4570,182,6038,440,4,448,578,10790,42.35403151065802,Chinese (traditional) <zh-l10n@linux.org.tw>
+pinta,1322,0,424,493,0,44,578,1746,75.71592210767469,Chinese (Traditional) <zh_TW@li.org>
+piper,492,0,0,116,0,0,174,492,100.0,Chinese <zh-l10n@linux.org.tw>
+pipewire,385,15,247,81,7,20,150,647,59.50540958268934,Chinese <zh-l10n@lists.linux.org.tw>
+pipewire-media-session,3,0,2,2,0,1,2,5,60.0,Chinese <zh-l10n@lists.linux.org.tw>
+pitivi,2085,0,0,422,0,0,635,2085,100.0,Chinese/Traditional <community@linuxhall.org>
+plank,181,0,8,45,0,5,85,189,95.76719576719577,Chinese (Traditional) <zh_TW@li.org>
+plasma-applet-weather-widget,166,0,0,56,0,0,80,166,100.0,Chinese <chinese-l10n@googlegroups.com>
+plasma-bigscreen,173,3,59,76,1,19,103,235,73.61702127659574,Traditional Chinese <zh-l10n@lists.slat.org>
+plasma-breeze,242,0,0,85,0,0,95,242,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-browser-integration,123,0,0,23,0,0,25,123,100.0,Chinese <zh-l10n@linux.org.tw>
+plasma-desktop,8570,24,68,1657,5,16,2274,8662,98.93788963287923,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-discover,2767,100,143,629,18,22,933,3010,91.92691029900331,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-disks,0,0,215,0,0,23,0,215,0.0,none
+plasma-drkonqi,1975,0,9,201,0,2,376,1984,99.54637096774194,Traditional Chinese <zh-l10n@lists.slat.org>
+plasma-firewall,366,0,38,138,0,6,177,404,90.5940594059406,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-integration,58,0,2,21,0,2,24,60,96.66666666666667,Chinese <kde-i18n-doc@kde.org>
+plasma-mediacenter,172,0,0,87,0,0,94,172,100.0,Chinese Traditional <kde-i18n-doc@kde.org>
+plasma-milou,10,0,0,4,0,0,7,10,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+plasma-mobile,46,0,24,13,0,8,13,70,65.71428571428571,none
+plasma-nano,35,0,2,11,0,1,11,37,94.5945945945946,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-nm,4690,222,458,1248,38,41,2288,5370,87.33705772811918,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-oxygen,802,0,0,293,0,0,312,802,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-pa,276,0,0,95,0,0,115,276,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-pass,26,0,4,5,0,1,8,30,86.66666666666667,Chinese <zh-l10n@lists.linux.org.tw>
+plasma-phonebook,26,11,18,16,5,7,20,55,47.27272727272727,Chinese <zh-l10n@lists.linux.org.tw>
+plasma-pk-updates,0,0,2081,0,0,400,0,2081,0.0,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-sdk,804,36,5,249,12,2,360,845,95.14792899408285,Chinese <zh-l10n@lists.linux.org.tw>
+plasma-settings,118,32,1328,48,13,762,77,1478,7.983761840324763,none
+plasma-systemmonitor,557,8,0,182,2,0,238,565,98.58407079646018,Chinese <kde-i18n-doc@kde.org>
+plasma-systemsettings,212,0,0,54,0,0,87,212,100.0,Chinese <zh-l10n@linux.org.tw>
+plasma-thunderbolt,178,0,0,42,0,0,75,178,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+plasma-vault,874,0,0,102,0,0,188,874,100.0,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-welcome,852,103,99,70,1,4,146,1054,80.83491461100569,Traditional Chinese <zh-l10n@linux.org.tw>
+plasma-workspace,12753,22,124,3114,2,71,4081,12899,98.8681293123498,Traditional Chinese <zh-l10n@linux.org.tw>
+plasmatube,0,0,138,0,0,54,0,138,0.0,none
+playonlinux,1816,0,912,370,0,79,584,2728,66.56891495601172,Chinese (Traditional) <zh_TW@li.org>
+pluma,5392,0,7721,1467,0,623,2249,13113,41.1194997330893,Chinese (Taiwan) (https://app.transifex.com/mate/teams/13566/zh_TW/)
+pluma-plugins,635,0,763,86,0,57,164,1398,45.42203147353362,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+plymouth,12,2,2,4,1,2,5,16,75.0,Chinese(Taiwan) <zh-l10n@lists.linux.org.tw>
+plymouth-kcm,107,5,0,23,1,0,44,112,95.53571428571429,Chinese <zh-l10n@lists.linux.org.tw>
+po4a,21043,3485,4020,1467,105,113,5389,28548,73.71094297323806,Chinese (Traditional) <https://hosted.weblate.org/projects/po4a/po4a/zh_Hant/>
+poedit,3167,0,1,689,0,1,993,3168,99.96843434343434,Chinese Traditional
+polari,867,0,0,199,0,0,344,867,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+policycoreutils,6123,80,7747,976,11,1086,2102,13950,43.89247311827957,Chinese (Taiwan)
+polkit,228,0,0,26,0,0,94,228,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+polkit-gnome,562,0,0,92,0,0,104,562,100.0,Chinese (traditional)
+polkit-kde,95,0,0,30,0,0,46,95,100.0,Chinese <kde-i18n-doc@kde.org>
+popt,61,8,21,24,2,6,26,90,67.77777777777779,zh_TW <zh-l10n@linux.org.tw>
+postgresql,802,0,0,121,0,0,347,802,100.0,EnterpriseDB translation team <dev-escalations@enterprisedb.com>
+postgresql-jdbc,973,314,1295,111,41,163,290,2582,37.68396591789311,The PostgreSQL Development Team <Kuo.ChaoYi@gmail.com>
+postgresql16,27685,0,117,4376,0,46,11860,27802,99.5791669664053,
+powerdevil,669,0,0,143,0,0,203,669,100.0,Chinese Traditional <kde-tw@googlegroups.com>
+powertop,406,128,178,110,38,56,258,712,57.02247191011236,Chinese (Taiwan) (http://www.transifex.com/projects/p/PowerTOP/language/zh_TW/)
+proftpd,823,0,0,198,0,0,408,823,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+prusa-slicer,23887,0,14768,5045,0,1725,8421,38655,61.795369292458936,
+psmisc,984,8,0,93,2,0,537,992,99.19354838709677,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+publican,1831,82,3530,143,4,469,485,5443,33.63953702002572,Traditional Chinese <zh@li.org>
+pulseaudio,3244,457,85,524,26,22,1340,3786,85.68409931325938,Chinese <zh-l10n@lists.linux.org.tw>
+pulsecaster,103,0,111,15,0,6,16,214,48.13084112149533,Chinese (Taiwan) (http://www.transifex.com/stickster/pulsecaster/language/zh_TW/)
+pyhoca-gui,9,0,1856,1,0,401,1,1865,0.482573726541555,none
+pykickstart,273,43,1312,35,1,144,100,1628,16.76904176904177,Chinese (Traditional) <https://translate.stg.fedoraproject.org/projects/pykickstart/master/zh_TW/>
+python-SecretStorage,118,0,0,18,0,0,18,118,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+python-apt,105,191,248,29,43,46,76,544,19.301470588235293,Chinese (Taiwan) <zh-l10n@linux.org.tw>
+python-blivet,524,20,61,75,3,3,250,605,86.61157024793388,Chinese (Taiwan) (http://www.transifex.com/projects/p/blivet/language/zh_TW/)
+python-caja,6,0,0,2,0,0,4,6,100.0,Chinese (Taiwan) (https://www.transifex.com/mate/teams/13566/zh_TW/)
+python-colander,170,9,23,31,2,5,70,202,84.15841584158416,zh_Hant
+python-django,3243,0,492,807,0,43,1231,3735,86.8273092369478,Chinese (Taiwan) (http://www.transifex.com/django/django/language/zh_TW/)
+python-django-allauth,1298,692,242,253,38,35,377,2232,58.15412186379928,Chinese (Traditional)
+python-django-contrib-comments,244,0,6,60,0,1,78,250,97.6,Chinese (Taiwan) (http://www.transifex.com/django/django-contrib-comments/language/zh_TW/)
+python-django-formtools,10,1,53,6,1,15,6,64,15.625,Chinese (Taiwan) (http://www.transifex.com/projects/p/django-formtools/language/zh_TW/)
+python-django-mailman3,10,0,345,8,0,64,8,355,2.8169014084507045,Chinese (Traditional) <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/zh_Hant/>
+python-django-mptt,249,0,0,40,0,0,64,249,100.0,zh-Hant <zh-hant@li.org>
+python-django-rest-framework,250,0,1034,54,0,172,75,1284,19.470404984423677,Chinese (Taiwan) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/zh_TW/)
+python-django4.2,3243,0,492,807,0,43,1231,3735,86.8273092369478,Chinese (Taiwan) (http://www.transifex.com/django/django/language/zh_TW/)
+python-fedora,61,0,153,18,0,11,32,214,28.504672897196258,Chinese (Taiwan) (http://www.transifex.com/projects/p/python-fedora/language/zh_TW/)
+python-flask-admin,0,0,0,0,0,0,0,0,0.0,zh_Hant_TW <LL@li.org>
+python-formencode,813,0,0,115,0,0,302,813,100.0,zh_TW <LL@li.org>
+python-hyperkitty,136,15,800,70,8,187,75,951,14.300736067297581,Chinese (Traditional) <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/zh_Hant/>
+python-manatools,4,0,0,4,0,0,4,4,100.0,Chinese (Taiwan) (https://www.transifex.com/MageiaLinux/teams/9361/zh_TW/)
+python-meh,109,0,109,23,0,23,30,218,50.0,Chinese (Taiwan) (Big5)  (http://www.transifex.com/projects/p/python-meh/language/zh_TW.Big5/)
+python-nikola,91,0,3,42,0,2,53,94,96.80851063829788,Chinese (Taiwan) (http://www.transifex.com/ralsina/nikola/language/zh_TW/)
+python-postorius,91,38,4925,45,13,573,46,5054,1.8005540166204987,Chinese (Traditional) <https://hosted.weblate.org/projects/gnu-mailman/postorius/zh_Hant/>
+python-sphinx,4923,0,4923,754,0,754,2230,9846,50.0,Chinese (Taiwan) (http://www.transifex.com/sphinx-doc/sphinx-1/language/zh_TW/)
+python-sphinx_rtd_theme,0,0,0,0,0,0,0,0,0.0,Chinese (Taiwan) (https://www.transifex.com/readthedocs/teams/101354/zh_TW/)
+python-sphinxcontrib-applehelp,0,0,89,0,0,14,0,89,0.0,Chinese (Taiwan) (https://www.transifex.com/sphinx-doc/teams/36659/zh_TW/)
+python-sphinxcontrib-devhelp,0,0,18,0,0,2,0,18,0.0,Chinese (Taiwan) (https://www.transifex.com/sphinx-doc/teams/36659/zh_TW/)
+python-sphinxcontrib-htmlhelp,0,0,25,0,0,5,0,25,0.0,Chinese (Taiwan) (https://www.transifex.com/sphinx-doc/teams/36659/zh_TW/)
+python-sphinxcontrib-qthelp,0,0,33,0,0,3,0,33,0.0,Chinese (Taiwan) (https://www.transifex.com/sphinx-doc/teams/36659/zh_TW/)
+python-sphinxcontrib-serializinghtml,0,0,18,0,0,2,0,18,0.0,Chinese (Taiwan) (https://www.transifex.com/sphinx-doc/teams/36659/zh_TW/)
+python-uranium,646,0,49,143,0,21,223,695,92.94964028776978,Valen Chang <carf17771@gmail.com>
+python-wtforms,189,0,0,33,0,0,64,189,100.0,zh_TW <ron@hng.tw>
+python-wxpython4,7837,0,0,1965,0,0,3722,7837,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+python-ytmusicapi,11,0,0,11,0,0,11,11,100.0,LANGUAGE <LL@li.org>
+qmlkonsole,0,0,125,0,0,49,0,125,0.0,none
+quadrapassel,440,0,0,80,0,0,109,440,100.0,Chinese <zh-l10n@linux.org.tw>
+quodlibet,7887,9,23,1684,2,3,5107,7919,99.59590857431493,Chinese (Traditional) <https://hosted.weblate.org/projects/quodlibet/quodlibet/zh_Hant/>
+rabbitvcs,163,0,1361,114,0,358,125,1524,10.695538057742782,Chinese (Traditional) <zh_TW@li.org>
+realmd,0,0,833,0,0,134,0,833,0.0,Chinese (Taiwan) (http://www.transifex.com/freedesktop/realmd/language/zh_TW/)
+redhat-menus,261,0,0,86,0,0,125,261,100.0,<zh@li.org>
+rednotebook,745,33,485,153,8,111,252,1263,58.986539984164686,Chinese (Traditional) <zh_TW@li.org>
+redshift,1028,0,0,151,0,0,426,1028,100.0,Chinese (Traditional) <zh_TW@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+rekonq,2189,10,3,589,3,1,863,2202,99.40962761126248,Chinese Traditional <kde-tw@googlegroups.com>
+remmina,1142,3632,622,189,748,63,426,5396,21.16382505559674,Chinese (Traditional) <https://hosted.weblate.org/projects/remmina/remmina/zh_Hant/>
+renameutils,82,109,74,16,23,15,87,265,30.943396226415093,Chinese (traditional) <zh-l10n@linux.org.tw>
+retrace-server,407,26,0,55,1,0,82,433,93.99538106235565,Chinese (Taiwan)
+rhythmbox,3773,0,0,968,0,0,1566,3773,100.0,Chinese (Taiwan) <community@linuxhall.org>
+ristretto,674,0,0,210,0,0,258,674,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-apps/language/zh_TW/)
+rizin,1333,0,59,158,0,3,482,1392,95.76149425287356,Chinese (traditional) <zh-l10n@linux.org.tw>
+rkward,0,0,38189,0,0,4239,0,38189,0.0,Chinese <kde-i18n-doc@kde.org>
+rocs,1230,154,96,263,36,15,370,1480,83.1081081081081,Chinese <zh-l10n@lists.linux.org.tw>
+rpm,4422,0,310,853,0,57,1936,4732,93.44885883347422,Chinese (Traditional) <https://translate.fedoraproject.org/projects/rpm/rpm-l10n/zh_TW/>
+rpm-ostree,1156,50,274,188,9,32,450,1480,78.10810810810811,Chinese (Traditional) <https://translate.fedoraproject.org/projects/dnf/libdnf-dnf-4-master/zh_TW/>
+rsibreak,933,137,139,139,9,12,181,1209,77.1712158808933,Chinese <zh-l10n@lists.linux.org.tw>
+rt,6899,0,6978,1667,0,1512,2327,13877,49.715356345031346,Chinese (Traditional) <zh_TW@li.org>
+rust,1333,0,59,158,0,3,482,1392,95.76149425287356,Chinese (traditional) <zh-l10n@linux.org.tw>
+rust-coreos-installer,1333,0,59,158,0,3,482,1392,95.76149425287356,Chinese (traditional) <zh-l10n@linux.org.tw>
+rygel,1641,0,0,304,0,0,592,1641,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+samba,187,67,270,31,18,79,41,524,35.68702290076336,Novell Language <language@novell.com>
+sawfish,1872,1794,2777,424,338,220,459,6443,29.054788142169798,traditional Chinese <zh-l10n@linux.org.tw>
+scim,1240,0,5,304,0,2,383,1245,99.59839357429718,scim@freedesktop.org
+scim-pinyin,204,430,0,56,28,2,94,634,32.17665615141956,James Su<suzhe@tsinghua.org.cn>
+scons,54,0,0,24,0,0,24,54,100.0,
+scratch,1467,0,3,625,0,1,783,1470,99.79591836734694,
+sdcv,40,62,45,9,9,9,20,147,27.2108843537415,Chinese (traditional) <zh-l10n@linux.org.tw>
+sddm-kcm,162,49,0,40,1,0,68,211,76.77725118483413,Traditional Chinese <zh-l10n@linux.org.tw>
+seahorse,2387,0,0,550,0,0,746,2387,100.0,Chinese <zh-l10n@linux.org.tw>
+seahorse-caja,421,0,0,110,0,0,223,421,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+seahorse-nautilus,421,0,0,110,0,0,218,421,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+sed,830,0,0,146,0,0,363,830,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+sequeler,401,0,5,131,0,3,175,406,98.76847290640394,Chinese (Traditional) <https://hosted.weblate.org/projects/sequeler/translations/zh_Hant/>
+setroubleshoot,578,10,52,158,2,8,292,640,90.3125,Chinese (Taiwan) (http://www.transifex.com/projects/p/fedora/language/zh_TW/)
+setroubleshoot-plugins,5712,0,534,217,0,9,1777,6246,91.45052833813641,Chinese (Taiwan) (http://www.transifex.com/projects/p/fedora/language/zh_TW/)
+setuptool,55,0,0,14,0,0,32,55,100.0,Traditional Chinese <zh@li.org>
+shadow-utils,4012,550,222,590,64,25,1818,4784,83.8628762541806,Chinese <chinese-l10n@googlegroups.com>
+shared-mime-info,2001,0,59,778,0,18,1754,2060,97.13592233009709,Chinese (Taiwan) (http://www.transifex.com/freedesktop/shared-mime-info/language/zh_TW/)
+sharutils,115,326,2706,33,65,206,64,3147,3.6542739116619005,Chinese (traditional) <zh-l10n@linux.org.tw>
+shotwell,6671,0,0,1238,0,0,1957,6671,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+shutter,2725,0,368,583,0,23,887,3093,88.10216618170061,Traditional Chinese <zh_TW@li.org>
+simple-ccsm,60,17,85,41,7,16,43,162,37.03703703703704,Chinese (Taiwan) <zh_TW@li.org>
+simple-scan,1043,0,1306,220,0,93,364,2349,44.40187313750532,Chinese (Traditional) <zh_TW@li.org>
+skanlite,186,0,0,63,0,0,95,186,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+skanpage,297,0,0,109,0,0,144,297,100.0,Traditional Chinese <zh-l10n@lists.slat.org>
+skrooge,1099,4465,6617,503,1182,815,577,12181,9.02224776290945,Chinese Traditional <zh-l10n@lists.linux.org.tw>
+skychart,3059,22,1947,1016,1,537,1186,5028,60.8392999204455,
+slick-greeter,211,0,5,47,0,2,69,216,97.68518518518519,Chinese (Traditional) <zh_TW@li.org>
+smb4k,460,1186,4916,121,252,313,144,6562,7.010057909174032,Chinese <zh-l10n@lists.linux.org.tw>
+snapd,13,0,4294,3,0,478,9,4307,0.3018342233573253,Chinese (Traditional) <zh_TW@li.org>
+snapper,1088,4,0,251,1,0,501,1092,99.63369963369964,Chinese (Taiwan) <https://l10n.opensuse.org/projects/snapper/master/zh_TW/>
+snapshot,217,0,0,79,0,0,99,217,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+snownews,696,93,2,141,21,1,326,791,87.98988621997471,"Alan, Cheng-Lung Sung <clsung@dragon2.net>"
+solaar,1718,88,0,430,15,0,606,1806,95.12735326688815,Peter Dave Hello <hsu@peterdavehello.org>
+sos,54,34,35,11,7,12,14,123,43.90243902439025,Chinese (traditional) <zh-l10n@linux.org.tw>
+sound-juicer,1254,0,0,228,0,0,545,1254,100.0,Chinesei (Taiwan) <zh-l10n@lists.linux.org.tw>
+soundconverter,261,0,249,106,0,23,146,510,51.17647058823529,Chinese (Traditional) <zh_TW@li.org>
+soundkonverter,2278,0,1784,455,0,115,686,4062,56.08074839980305,Chinese (Taiwan) (http://www.transifex.com/hessijames/soundkonverter/language/zh_TW/)
+spacefm,471,8,8243,180,3,1385,266,8722,5.400137583123136,Chinese (Taiwan) (http://www.transifex.com/projects/p/spacefm/language/zh_TW/)
+sparkleshare,138,0,264,30,0,57,46,402,34.32835820895522,
+spectacle,1251,0,0,260,0,0,337,1251,100.0,Chinese <zh-l10n@linux.org.tw>
+speedcrunch,0,0,93,0,0,10,0,93,0.0,Chinese (Taiwan) (http://www.transifex.com/heldercorreia/speedcrunch/language/zh_TW/)
+sssd,212,23,4517,49,6,663,74,4752,4.461279461279461,Chinese (Taiwan) (http://www.transifex.com/projects/p/sssd/language/zh_TW/)
+startdde,24,0,0,6,0,0,6,24,100.0,Chinese (Taiwan) (https://www.transifex.com/linuxdeepin/teams/3617/zh_TW/)
+stellarium,113251,0,92741,36112,0,9545,59163,205992,54.9783486737349,Chinese (Taiwan) (https://app.transifex.com/stellarium/teams/80998/zh_TW/)
+step,2005,74,2191,821,26,149,1092,4270,46.95550351288056,Chinese <zh-l10n@lists.linux.org.tw>
+strawberry,0,0,5390,0,0,1385,0,5390,0.0,Chinese Traditional
+subscription-manager,2562,1005,835,426,147,119,719,4402,58.20081781008633,Chinese (Traditional) <https://translate.fedoraproject.org/projects/subscription-manager/subscription-manager-main/zh_TW/>
+subscription-manager-cockpit,49,103,359,33,22,61,37,511,9.58904109589041,Chinese (Traditional) <https://translate.fedoraproject.org/projects/subscription-manager/subscription-manager-main/zh_TW/>
+subtitleeditor,3515,0,0,883,0,0,1148,3515,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+subversion,7873,7385,4602,1195,527,421,3823,19860,39.64249748237664,Traditional Chinese <dev@subversion.tigris.org>
+sudo,6209,0,8,939,0,1,2366,6217,99.87132057262346,Chinese (traditional) <zh-l10n@lists.slat.org>
+sugar,2305,0,0,529,0,0,747,2305,100.0,Yuan CHAO <yuanchao@gmail.com>
+sugar-abacus,28,0,0,23,0,0,23,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,82,0,107,36,0,16,42,189,43.386243386243386,Yuan CHAO <yuanchao@gmail.com>
+sugar-calculator,378,66,422,96,10,63,205,866,43.648960739030024,Yuan Chao <yuanchao@gmail.com>
+sugar-chat,56,3,78,34,1,46,37,137,40.87591240875913,Yuan CHAO <yuanchao@gmail.com>
+sugar-clock,66,0,0,21,0,0,560,66,100.0,LANGUAGE <LL@li.org>
+sugar-dimensions,162,0,0,80,0,0,86,162,100.0,LANGUAGE <LL@li.org>
+sugar-distance,99,0,0,26,0,0,34,99,100.0,Yuan CHAO <yuanchao@gmail.com>
+sugar-finance,75,86,97,35,2,26,41,258,29.069767441860467,LANGUAGE <LL@li.org>
+sugar-flipsticks,77,0,74,42,0,3,44,151,50.993377483443716,LANGUAGE <LL@li.org>
+sugar-imageviewer,58,0,0,16,0,0,16,58,100.0,LANGUAGE <LL@li.org>
+sugar-implode,77,0,0,20,0,0,20,77,100.0,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,35,98,100.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,5,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,74,142,100.0,Yuan CHAO <yuanchao@gmail.com>
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,99,0,183,27,0,41,29,282,35.1063829787234,LANGUAGE <LL@li.org>
+sugar-read,137,0,0,50,0,0,60,137,100.0,Yuan CHAO <yuanchao@gmail.com>
+sugar-record,31,2,29,19,1,4,22,62,50.0,LANGUAGE <LL@li.org>
+sugar-speak,134,0,93,64,0,10,73,227,59.03083700440529,LANGUAGE <LL@li.org>
+sugar-stopwatch,5,0,0,5,0,0,6,5,100.0,LANGUAGE <LL@li.org>
+sugar-terminal,121,0,0,26,0,0,41,121,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,213,0,0,123,0,0,139,213,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,1254,25,180,384,7,44,415,1459,85.94928032899246,LANGUAGE <LL@li.org>
+sugar-view-slides,43,0,17,22,0,1,22,60,71.66666666666667,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,55,121,100.0,Yuan CHAO <yuanchao@gmail.com>
+supertux,1725,1,1309,429,1,505,603,3035,56.83690280065898,Chinese (Taiwan) (http://www.transifex.com/arctic-games/supertux/language/zh_TW/)
+supertuxkart,5959,0,0,1110,0,0,1499,5959,100.0,Chinese (Taiwan) (http://www.transifex.com/supertuxkart/supertuxkart/language/zh_TW/)
+sushi,54,0,0,14,0,0,23,54,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+svgpart,3,0,0,2,0,0,2,3,100.0,<zh@li.org>
+sweeper,228,0,0,50,0,0,78,228,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+swell-foop,267,0,0,54,0,0,88,267,100.0,Chinese <zh-l10n@linux.org.tw>
+switchdesk,93,0,29,8,0,11,18,122,76.22950819672131,Traditional Chinese <zh@li.org>
+sylpheed,6797,345,72,1713,66,18,2585,7214,94.21957305239812,Chinese (traditional) <zh-l10n@linux.org.tw>
+sympa,6171,6288,23969,1106,1018,1429,1264,36428,16.940265729658506,繁體中文 <zh_TW@li.org>
+synapse,603,0,253,174,0,60,274,856,70.44392523364486,Chinese (Traditional) <zh_TW@li.org>
+syncevolution,1132,0,0,163,0,0,258,1132,100.0,Chinese (Taiwan) (http://www.transifex.net/projects/p/meego/team/zh_TW/)
+synfig,777,0,4102,399,0,776,416,4879,15.925394548063126,Chinese (Taiwan) (http://www.transifex.com/morevnaproject/synfig/language/zh_TW/)
+synfigstudio,2218,0,5153,883,0,833,1023,7371,30.090896757563424,Chinese (Taiwan) (http://www.transifex.com/morevnaproject/synfig/language/zh_TW/)
+sysstat,293,6,0,36,1,0,196,299,97.9933110367893,Chinese (traditional)  <zh-l10n@linux.org.tw>
+system-config-language,197,17,1,29,1,1,41,215,91.62790697674419,Traditional Chinese <en@li.org>
+system-config-printer,3129,34,351,747,15,166,1112,3514,89.04382470119522,Chinese (Taiwan) (http://www.transifex.com/projects/p/system-config-printer/language/zh_TW/)
+system-config-rootpassword,116,0,0,19,0,0,42,116,100.0,Traditional Chinese <zh@li.org>
+system-switch-java,81,0,0,11,0,0,33,81,100.0,Traditional Chinese <zh@li.org>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Traditional Chinese <zh@li.org>
+systemd,1506,29,264,189,4,34,293,1799,83.71317398554753,Chinese <chinese-l10n@googlegroups.com>
+tali,421,0,0,97,0,0,164,421,100.0,Chinese (traditional)
+tar,3519,136,22,583,13,2,1340,3677,95.7030187652978,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+taxi,57,0,5,11,0,4,12,62,91.93548387096774,LANGUAGE <LL@li.org>
+tellico,5285,556,136,1112,145,44,1629,5977,88.42228542747198,Chinese <zh-l10n@lists.linux.org.tw>
+terminator,1179,0,343,341,0,74,380,1522,77.46386333771353,Chinese (Taiwan) (https://www.transifex.com/terminator/teams/109338/zh_TW/)
+texi2html,175,482,986,29,70,82,110,1643,10.651247717589776,Chinese (traditional) <zh-l10n@linux.org.tw>
+texinfo,980,1629,3413,170,248,377,345,6022,16.273663234805714,Chinese (traditional) <zh-l10n@linux.org.tw>
+thonny,1987,0,9,457,0,2,800,1996,99.54909819639278,
+thunar-archive-plugin,88,0,0,15,0,0,16,88,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/thunar-plugins/language/zh_TW/)
+thunar-media-tags-plugin,158,0,0,60,0,0,75,158,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/thunar-plugins/language/zh_TW/)
+thunar-vcs-plugin,774,0,0,307,0,0,318,774,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/thunar-plugins/language/zh_TW/)
+thunar-volman,484,0,0,115,0,0,175,484,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/thunar-volman/language/zh_TW/)
+thunderbird,1627,0,0,489,0,0,799,1627,100.0,None
+tigervnc,1047,0,0,196,0,0,449,1047,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+tilda,556,38,114,158,10,35,213,708,78.53107344632768,Chinese (Traditional) <zh_TW@li.org>
+tiled,5,24,20853,3,1,1337,4,20882,0.023944066660281583,Chinese (Traditional) <https://hosted.weblate.org/projects/tiled/documentation-index/zh_Hant/>
+tilix,1417,164,1229,492,51,179,610,2810,50.4270462633452,none
+timeshift,7,0,2863,2,0,565,6,2870,0.24390243902439024,Chinese (Traditional) <zh_TW@li.org>
+tin,10085,1111,220,1467,80,34,3724,11416,88.34092501751927,Chinese (traditional) <zh-l10n@linux.org.tw>
+tokodon,0,0,1157,0,0,434,0,1157,0.0,none
+tomboy,6556,0,0,942,0,0,1664,6556,100.0,Chinese (Hong Kong) <community@linuxhall.org>
+torbrowser-launcher,228,0,0,48,0,0,106,228,100.0,Chinese (traditional)
+tortoisehg,5802,0,7441,1626,0,802,2029,13243,43.81182511515518,Traditional Chinese <zh_TW@li.org>
+totem,3324,38,604,541,1,33,925,3966,83.8124054462935,Traditional Chinese
+totem-pl-parser,29,0,0,8,0,0,11,29,100.0,Chinese/Traditional <zh-l10n@linux.org.tw>
+trac,14937,37,57,1691,2,8,4306,15031,99.37462577340163,zh_TW <trac-dev@googlegroups.com>
+tracker,580,0,0,110,0,0,193,580,100.0,Chinese <zh-l10n@linux.org.tw>
+tracker-miners,1812,0,0,290,0,0,546,1812,100.0,Chinese (Traditional) <http://darkbear.ddns.net/projects/gnome-40/tracker-miners-tracker-miners-3-1-zh_tw/zh_Hant/>
+transmission,1027,0,1414,340,0,245,546,2441,42.072920934043424,Chinese (Taiwan) (https://app.transifex.com/transmissionbt/teams/33778/zh_TW/)
+transmission-remote-gtk,332,29,769,148,9,257,174,1130,29.38053097345133,Chinese (Traditional) <zh_TW@li.org>
+trojita,3530,1812,4102,871,408,680,1655,9444,37.37822956374418,Chinese Traditional <kde-tw@googlegroups.com>
+tumbler,148,0,0,25,0,0,32,148,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/tumbler/language/zh_TW/)
+tuxmath,854,174,427,166,25,58,257,1455,58.69415807560138,Chinese (traditional) <zh-l10n@linux.org.tw>
+tuxpaint,1174,970,1619,255,103,103,256,3763,31.198511825671005,Chinese (traditional) <zh-l10n@linux.org.tw>
+tuxpaint-stamps,2850,384,15,682,119,4,862,3249,87.71929824561403,
+udisks2,1499,176,512,396,23,98,798,2187,68.5413808870599,Chinese (Taiwan)
+ufw,753,0,126,174,0,7,374,879,85.6655290102389,Chinese (traditional) <chinese-l10n@googlegroups.com>
+uget,990,0,69,352,0,18,450,1059,93.48441926345609,Chinese (Taiwan) (http://www.transifex.com/uget/uget/language/zh_TW/)
+umbrello,4798,1235,99,1372,271,25,1762,6132,78.24527071102413,Chinese <zh-l10n@lists.linux.org.tw>
+usbauth,42,0,0,30,0,0,33,42,100.0,
+usbauth-notifier,42,0,0,30,0,0,33,42,100.0,
+usermode,573,0,0,96,0,0,148,573,100.0,Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>
+util-linux,2422,18323,7098,686,3281,1124,1261,27843,8.698775275652768,Chinese (traditional) <zh-l10n@linux.org.tw>
+vdr-femon,303,0,11,122,0,3,138,314,96.4968152866242,Chinese (traditional) <vdr@linuxtv.org>
+video-downloader,151,3,1,62,1,1,73,155,97.41935483870968,Chinese (Traditional) <https://hosted.weblate.org/projects/video-downloader/gui/zh_Hant/>
+viewnior,425,0,0,144,0,0,163,425,100.0,Chinese (Traditional) <zh_TW@li.org>
+viking,602,0,5646,246,0,1374,333,6248,9.635083226632522,
+vim,6607,0,0,1410,0,0,3852,6607,100.0,"Hung-Te Lin <piaip@csie.ntu.edu.tw>, Cecil Sheng <b7506022@csie.ntu.edu.tw>"
+vinagre,1510,0,0,277,0,0,465,1510,100.0,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+virt-manager,7324,1,22,1447,1,3,2812,7347,99.686947053219,Chinese (Traditional) <https://translate.fedoraproject.org/projects/virt-manager/virt-manager/zh_TW/>
+virt-top,5,0,410,3,0,81,5,415,1.2048192771084338,Chinese (Taiwan) <None>
+virt-viewer,399,0,347,88,0,88,160,746,53.48525469168901,Chinese (Taiwan) (http://www.transifex.com/projects/p/virt-viewer/language/zh_TW/)
+vlc,18555,35,16189,4291,11,1983,6947,34779,53.35116018286897,Chinese (Taiwan) (https://app.transifex.com/yaron/teams/16553/zh_TW/)
+volume_key,745,10,8,151,2,1,283,763,97.64089121887287,Chinese (Taiwan) <trans-zh_TW@lists.fedoraproject.org>
+votca,0,0,0,0,0,0,0,0,0.0,Chinese (Taiwan) (https://www.transifex.com/readthedocs/teams/101354/zh_TW/)
+vte,80,0,0,13,0,0,27,80,100.0,Chinese (Taiwan) <community@linuxhall.org>
+vte291,46,0,0,9,0,0,12,46,100.0,Chinese (Taiwan) <community@linuxhall.org>
+w3m,906,0,53,226,0,11,421,959,94.47340980187695,Pidgin zh_TW <http://www.transifex.com/pidgin/pidgin/language/zh_TW/>
+warmux,1278,662,804,252,104,116,416,2744,46.57434402332362,Simplified Chinese <lililjlj@gmail.com>
+warzone2100,8446,0,7327,2019,0,1319,2153,15773,53.547200912952505,Chinese Traditional
+wdiff,878,100,15,121,21,8,386,993,88.41893252769385,Chinese (traditional) <zh-l10n@linux.org.tw>
+wesnoth,274099,14572,50949,17273,632,3386,20093,339620,80.70755550320948,Wesnoth Traditional Chinese Team
+wget,4068,23,9,650,4,1,1969,4100,99.21951219512195,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+widelands,519,0,83083,254,0,7761,263,83602,0.6207985454893423,Chinese (Taiwan) (http://www.transifex.com/widelands/widelands/language/zh_TW/)
+wike,244,0,249,64,0,70,75,493,49.49290060851927,
+wine,18860,301,151,4233,31,20,7162,19312,97.65948632974316,Chinese (Taiwan)
+wingpanel,7,0,9,2,0,1,2,16,43.75,LANGUAGE <LL@li.org>
+wingpanel-indicator-a11y,0,0,55,0,0,17,0,55,0.0,none
+wingpanel-indicator-bluetooth,11,12,260,7,5,71,7,283,3.8869257950530036,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,4,0,173,1,0,35,1,177,2.2598870056497176,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,2,11,50,1,4,14,1,63,3.1746031746031744,Chinese (Traditional) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/zh_TW/>
+wireplumber,3,0,0,2,0,0,2,3,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+workrave,1163,40,296,209,10,60,243,1499,77.58505670446965,Chinese/Traditional <zh-l10n@linux.org.tw>
+wqy-zenhei-fonts,44,0,0,9,0,0,9,44,100.0,
+wxGTK,7837,0,0,1965,0,0,3722,7837,100.0,Chinese <zh-l10n@lists.linux.org.tw>
+wxMaxima,1908,2185,10004,538,590,1287,763,14097,13.53479463715684,American English <kde-i18n-doc@kde.org>
+wxmedit,3086,0,696,968,0,319,1261,3782,81.59703860391328,wxMEdit <wxmedit@gmail.com>
+x-tile,732,0,0,150,0,0,303,732,100.0,漢語 <chinese-l10n@googlegroups.com>
+xapps,0,0,73,0,0,36,0,73,0.0,Chinese (Traditional) <zh_TW@li.org>
+xarchiver,748,379,190,223,54,35,267,1317,56.79574791192103,
+xboard,873,223,1477,237,98,389,287,2573,33.929265448892345,LANGUAGE <LL@li.org>
+xchm,140,28,69,58,12,27,67,237,59.07172995780591,Chinese (traditional) <zh-l10n@linux.org.tw>
+xdg-desktop-portal,221,22,11,32,3,1,32,254,87.00787401574803,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+xdg-desktop-portal-gnome,230,0,0,64,0,0,74,230,100.0,Chinese - Taiwan <chinese-l10n@googlegroups.com>
+xdg-desktop-portal-gtk,119,32,89,39,8,17,47,240,49.583333333333336,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+xdg-desktop-portal-kde,333,0,10,92,0,2,127,343,97.08454810495627,Traditional Chinese <zh-l10n@linux.org.tw>
+xdg-desktop-portal-xapp,86,31,86,28,7,16,34,203,42.364532019704434,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+xdg-user-dirs-gtk,81,0,0,11,0,0,11,81,100.0,Chinese (Taiwan) <chinese-l10n@googlegroups.com>
+xed,8556,0,515,1204,0,152,2228,9071,94.3225664204608,LANGUAGE <LL@li.org>
+xfburn,1566,0,0,324,0,0,496,1566,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-apps/language/zh_TW/)
+xfce4-appfinder,455,0,0,89,0,0,105,455,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce4-appfinder/language/zh_TW/)
+xfce4-battery-plugin,145,0,0,42,0,0,52,145,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-calculator-plugin,39,0,0,16,0,0,19,39,100.0,Chinese (Taiwan) (https://app.transifex.com/xfce/teams/16840/zh_TW/)
+xfce4-clipman-plugin,567,0,0,97,0,0,140,567,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-cpufreq-plugin,174,0,0,48,0,0,84,174,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-cpugraph-plugin,188,0,0,64,0,0,95,188,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-datetime-plugin,52,0,0,19,0,0,19,52,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-dict,531,0,0,121,0,0,189,531,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-apps/language/zh_TW/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,77,181,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-eyes-plugin,16,0,0,5,0,0,5,16,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,32,71,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-genmon-plugin,116,0,0,29,0,0,45,116,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-mailwatch-plugin,678,0,0,123,0,0,241,678,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-mount-plugin,380,0,0,56,0,0,93,380,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-mpc-plugin,99,0,0,35,0,0,55,99,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-netload-plugin,106,0,0,39,0,0,56,106,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-notes-plugin,173,0,0,65,0,0,76,173,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-notifyd,533,0,27,130,0,5,163,560,95.17857142857142,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-apps/language/zh_TW/)
+xfce4-panel,1954,0,0,489,0,0,583,1954,100.0,Chinese (Taiwan) (https://www.transifex.com/xfce/teams/16840/zh_TW/)
+xfce4-panel-profiles,145,0,0,34,0,0,42,145,100.0,Chinese (Taiwan) (https://app.transifex.com/xfce/teams/16840/zh_TW/)
+xfce4-places-plugin,162,0,0,47,0,0,51,162,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-power-manager,1029,0,0,212,0,0,349,1029,100.0,Chinese (Taiwan) (https://app.transifex.com/xfce/teams/16840/zh_TW/)
+xfce4-pulseaudio-plugin,195,0,0,46,0,0,64,195,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-screensaver,757,0,0,167,0,0,216,757,100.0,Chinese (Taiwan) (https://app.transifex.com/xfce/teams/16840/zh_TW/)
+xfce4-screenshooter,789,0,0,126,0,0,201,789,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-apps/language/zh_TW/)
+xfce4-sensors-plugin,433,0,0,87,0,0,167,433,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-session,781,0,0,167,0,0,239,781,100.0,Chinese (Taiwan) (https://app.transifex.com/xfce/teams/16840/zh_TW/)
+xfce4-settings,2476,0,0,580,0,0,794,2476,100.0,Chinese (Taiwan) (https://www.transifex.com/xfce/teams/16840/zh_TW/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,13,22,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-statusnotifier-plugin,129,0,0,25,0,0,26,129,100.0,Chinese (Taiwan) (https://www.transifex.com/xfce/teams/16840/zh_TW/)
+xfce4-systemload-plugin,105,0,0,32,0,0,53,105,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-taskmanager,229,0,0,74,0,0,110,229,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-apps/language/zh_TW/)
+xfce4-terminal,1616,0,0,400,0,0,547,1616,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-apps/language/zh_TW/)
+xfce4-time-out-plugin,115,0,0,39,0,0,51,115,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-timer-plugin,138,0,0,49,0,0,83,138,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-verve-plugin,88,0,0,27,0,0,45,88,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-wavelan-plugin,80,0,0,22,0,0,32,80,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-weather-plugin,3598,0,0,321,0,0,659,3598,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfce4-whiskermenu-plugin,439,0,0,140,0,0,168,439,100.0,Chinese (Taiwan) (http://app.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/zh_TW/)
+xfce4-xkb-plugin,65,0,0,24,0,0,24,65,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-panel-plugins/language/zh_TW/)
+xfconf,458,0,0,67,0,0,128,458,100.0,Chinese (Taiwan) (http://app.transifex.com/xfce/xfconf/language/zh_TW/)
+xfdesktop,1081,0,0,257,0,0,329,1081,100.0,Chinese (Taiwan) (https://www.transifex.com/xfce/teams/16840/zh_TW/)
+xfe,2715,3262,263,877,194,42,1278,6240,43.50961538461539,Chinese (traditional) <zh-l10n@linux.org.tw>
+xfmpc,175,0,0,78,0,0,116,175,100.0,Chinese (Taiwan) (http://www.transifex.com/xfce/xfce-apps/language/zh_TW/)
+xfwm4,653,0,13,175,0,3,202,666,98.04804804804806,Chinese (Taiwan) (http://www.transifex.com/xfce/xfwm4/language/zh_TW/)
+xiphos,4518,38,425,1033,19,88,1530,4981,90.70467777554708,threelegcat@gmail.com
+xkeyboard-config,3378,0,0,1003,0,0,2253,3378,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+xlockmore,200,0,0,44,0,0,87,200,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+xmlcopyeditor,937,293,456,320,85,85,416,1686,55.575326215895615,Chinese Traditional Team <LL@li.org>
+xmoto,3159,63,713,685,12,144,823,3935,80.27954256670901,X-Moto
+xournal,1016,0,0,282,0,0,501,1016,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+xournalpp,3783,0,928,735,0,170,1159,4711,80.30142220335385,Chinese Traditional
+xpad,171,0,265,45,0,90,72,436,39.22018348623853,Chinese (traditional) <zh-l10n@linux.org.tw>
+xreader,1525,0,100,356,0,24,480,1625,93.84615384615384,Chinese (Taiwan) (http://www.transifex.com/mate/MATE/language/zh_TW/)
+xscreensaver,288,2452,10074,218,852,1066,245,12814,2.2475417512096145,traditional Chinese <zh-l10n@linux.org.tw>
+xz,1409,2,0,179,1,0,511,1411,99.85825655563431,Chinese (traditional) <zh-l10n@lists.linux.org.tw>
+yad,1081,162,86,250,28,21,358,1329,81.33935289691497,Chinese (traditional) <zh-l10n@linux.org.tw>
+yakuake,1324,25,320,215,5,17,274,1669,79.32893948472139,Chinese <zh-l10n@lists.linux.org.tw>
+yelp,351,0,0,74,0,0,108,351,100.0,Chinese <zh-l10n@linux.org.tw>
+yelp-xsl,85,0,0,62,0,0,58,85,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+zabbix,4297,64,15094,1418,11,2531,1658,19455,22.08686712927268,Zabbix <info@zabbix.com>
+zanshin,0,0,495,0,0,118,0,495,0.0,Traditional Chinese <zh-l10n@lists.linux.org.tw>
+zenity,896,0,0,199,0,0,272,896,100.0,Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>
+zypper,9545,0,102,1270,0,6,2620,9647,98.94267647973464,Chinese (Taiwan) <https://l10n.opensuse.org/projects/zypper/master/zh_TW/>

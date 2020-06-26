@@ -1,0 +1,16 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+folio,283,0,671,108,0,108,409,954,29.664570230607968,
+godot,6365,0,0,1562,0,0,10278,6365,100.0,Toki Pona <https://hosted.weblate.org/projects/godot-engine/godot/tok/>
+gpaste,0,0,1481,0,0,249,0,1481,0.0,none
+kf5-kcoreaddons,352,29,1,127,4,1,473,382,92.14659685863874,toki pona
+kf5-kio,7247,456,4334,1165,33,175,9336,12037,60.20603140317354,Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/>
+kf5-kxmlgui,1535,24,15,222,6,2,2228,1574,97.52223634053368,toki pona
+kf6-kconfigwidgets,218,7,87,93,3,21,488,312,69.87179487179486,C <kde-i18n-doc@kde.org>
+kf6-kcoreaddons,373,61,51,131,16,15,514,485,76.90721649484537,C <kde-i18n-doc@kde.org>
+kf6-kio,5037,572,2998,875,117,154,6581,8607,58.522133147438126,C <kde-i18n-doc@kde.org>
+kf6-kxmlgui,1206,41,42,176,14,10,1761,1289,93.56089992242048,C <kde-i18n-doc@kde.org>
+kio-extras,637,187,919,59,30,38,690,1743,36.54618473895582,C <kde-i18n-doc@kde.org>
+kolourpaint,10,0,2651,9,0,447,21,2661,0.37579857196542654,Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/>
+lagrange,1951,14,0,699,6,0,3578,1965,99.28753180661577,Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/>
+minetest,57,13,10382,19,5,1439,90,10452,0.5453501722158438,Toki Pona <https://hosted.weblate.org/projects/minetest/minetest/tok/>
+neochat,90,1033,3692,40,361,806,155,4815,1.8691588785046727,Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/>

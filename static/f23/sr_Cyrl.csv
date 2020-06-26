@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blivet-gui,0,0,703,0,0,184,0,703,0.0,Serbian (Cyrillic)
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Serbian (Cyrillic)
+publican,1058,66,4319,76,2,538,1029,5443,19.43781003123278,Serbian <trans-sr@lists.fedoraproject.org>
+wine,2213,2464,9893,821,727,1748,2114,14570,15.188743994509265,Serbian (Cyrillic)

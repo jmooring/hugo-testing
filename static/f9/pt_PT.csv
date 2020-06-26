@@ -1,0 +1,56 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Terminal,1413,9,28,248,2,2,1620,1450,97.44827586206897,
+Thunar,3751,8,43,668,3,2,3883,3802,98.65860073645449,European Portuguese <xfce-i18n@xfce.org>
+abiword,2183,1277,1280,793,482,289,2215,4740,46.0548523206751,LANGUAGE <LL@li.org>
+ardour,3941,0,456,1153,0,154,4403,4397,89.62929269956788,Portuguese
+bazaar,41,0,6483,9,0,399,48,6524,0.6284488044144696,Portuguese (Portugal) <pt_PT@li.org>
+cairo-clock,270,0,0,60,0,0,325,270,100.0,Alfredo Matos <alfredo.matos@digitalself.org>
+chemtool,1164,0,20,249,0,12,1491,1184,98.3108108108108,European Portuguese
+exo,1476,0,0,288,0,0,1616,1476,100.0,
+filezilla,6190,92,188,1057,15,14,7355,6470,95.6723338485317,
+fuse-encfs,765,23,522,102,3,24,918,1310,58.396946564885496,Portuguese (Portugal) <pt_PT@li.org>
+gdeskcal,109,0,0,47,0,0,121,109,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+gnomebaker,1113,21,52,276,5,10,1219,1186,93.84485666104553,portuguese <pt@li.org>
+gourmet,55,7,3464,15,2,774,74,3526,1.559841179807147,Portuguese (Portugal) <pt_PT@li.org>
+horde,7073,0,0,1939,0,0,8110,7073,100.0,Portugal Portuguese <dev@lists.horde.org>
+imp,5646,0,0,1134,0,0,6135,5646,100.0,Portuguese of Portugal <dev@lists.horde.org>
+ingo,767,0,0,207,0,0,869,767,100.0,Brazilian Portuguese <i18n@lists.horde.org>
+labyrinth,146,0,0,42,0,0,157,146,100.0,European Portuguese <pt-PT@li.org>
+libxfce4util,413,0,0,4,0,0,414,413,100.0,
+libxfcegui4,81,0,0,25,0,0,91,81,100.0,
+mousepad,135,0,0,64,0,0,155,135,100.0,
+ntfs-config,29,40,386,5,14,48,35,455,6.373626373626373,Portuguese (Portugal) <pt_PT@li.org>
+orage,864,0,0,539,0,0,909,864,100.0,
+pcmanfm,1007,15,61,256,7,9,1048,1083,92.98245614035088,
+pgadmin3,7299,32,0,2158,3,0,8525,7331,99.56349747646979,PgAdmin Developers <pgadmin-hackers@postgresql.org>
+poedit,1082,67,5,253,18,1,1299,1154,93.76083188908146,Poedit translators <poedit-translators@lists.sourceforge.net>
+python-formencode,540,0,0,77,0,0,556,540,100.0,Pedro Algarvio <ufs@ufsoft.org>
+squirrelmail,6044,0,0,1166,0,0,6484,6044,100.0,Portugues Iberico <squirrelmail-i18n@lists.sourceforge.net>
+synaptic,2304,536,391,551,71,40,2543,3231,71.3091922005571,<pt@li.org>
+tsclient,408,41,38,80,5,7,446,487,83.77823408624229,Portuguese <pt@li.org>
+turba,1308,0,0,301,0,0,1438,1308,100.0,Portuguese of Portugal <dev@lists.horde.org>
+tuxpaint,591,0,0,159,0,0,593,591,100.0,Portuguese <translation-team-pt@lists.sourceforge.net>
+tuxpaint-stamps,1045,351,512,260,132,107,1081,1908,54.76939203354297,<pt@li.org>
+vdr,793,0,14,322,0,6,867,807,98.26517967781908,Portuguese
+xchm,204,2,21,76,1,10,220,227,89.86784140969164,Portuguese Team
+xfce-mcs-manager,30,0,0,7,0,0,40,30,100.0,
+xfce-mcs-plugins,540,0,0,146,0,0,594,540,100.0,
+xfce-utils,119,0,0,34,0,0,123,119,100.0,
+xfce4-appfinder,48,0,0,28,0,0,56,48,100.0,
+xfce4-clipman-plugin,85,0,0,26,0,0,119,85,100.0,
+xfce4-cpugraph-plugin,44,0,0,25,0,0,49,44,100.0,
+xfce4-dict-plugin,147,7,42,31,4,10,156,196,75.0,
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Portuguese <pt@li.org>
+xfce4-fsguard-plugin,49,5,10,11,2,6,57,64,76.5625,
+xfce4-genmon-plugin,71,0,0,15,0,0,73,71,100.0,
+xfce4-icon-theme,8,0,0,2,0,0,9,8,100.0,
+xfce4-mixer,226,0,0,94,0,0,254,226,100.0,
+xfce4-notes-plugin,19,22,19,4,9,9,19,60,31.666666666666664,
+xfce4-panel,578,0,0,160,0,0,642,578,100.0,
+xfce4-session,738,0,0,129,0,0,832,738,100.0,
+xfce4-timer-plugin,94,0,0,32,0,0,102,94,100.0,
+xfce4-weather-plugin,524,0,0,243,0,0,600,524,100.0,
+xfdesktop,1078,0,0,288,0,0,1175,1078,100.0,
+xfprint,323,0,0,113,0,0,350,323,100.0,
+xfwm4,646,0,0,190,0,0,818,646,100.0,
+xmoto,1853,647,352,460,89,43,2062,2852,64.97194950911641,LT <LuisG280@hotmail.com>

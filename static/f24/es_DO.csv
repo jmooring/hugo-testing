@@ -1,0 +1,8 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libgweather,447,9,4,170,5,4,534,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libmatekbd,0,0,251,0,0,43,0,251,0.0,Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/)
+libmateweather,433,0,66,167,0,16,503,499,86.77354709418837,Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/)
+mate-applets,1596,0,1025,382,0,244,1923,2621,60.89278901182754,Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/)
+mate-user-guide,0,0,5,0,0,2,0,5,0.0,Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/)
+openerp,7207,0,26712,1588,0,2138,7951,33919,21.24767829240249,Spanish (Dominican Republic) <es_DO@li.org>
+openerp7,12123,0,21151,1953,0,1845,13361,33274,36.43385225701749,Spanish (Dominican Republic) <es_DO@li.org>

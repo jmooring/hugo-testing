@@ -1,0 +1,12 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+amarok,12039,0,0,2275,0,0,11781,12039,100.0,Serbian <kde-i18n-sr@kde.org>
+k3b,20429,0,0,2522,0,0,18838,20429,100.0,Serbian <kde-i18n-sr@kde.org>
+kaffeine,488,4,56,232,2,6,498,548,89.05109489051095,Serbian <kde-i18n-sr@kde.org>
+kde-l10n,224350,7,11,45326,2,4,213608,224368,99.99197746559224,Serbian <kde-i18n-sr@kde.org>
+kmid2,947,0,0,311,0,0,902,947,100.0,sr <kde-i18n-sr@kde.org>
+knemo,912,119,155,263,38,46,860,1186,76.89713322091062,Serbian <kde-i18n-sr@kde.org>
+knights,293,81,181,103,21,45,276,555,52.792792792792795,Serbian <kde-i18n-sr@kde.org>
+konversation,10108,19,57,1558,7,6,9349,10184,99.25373134328358,Serbian <kde-i18n-sr@kde.org>
+ktorrent,7562,0,0,1329,0,0,6364,7562,100.0,Serbian <kde-i18n-sr@kde.org>
+kwebkitpart,457,18,2,121,2,1,429,477,95.80712788259959,Serbian <kde-i18n-sr@kde.org>
+libktorrent,417,0,0,92,0,0,460,417,100.0,Serbian <kde-i18n-sr@kde.org>

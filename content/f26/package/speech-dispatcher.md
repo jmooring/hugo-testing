@@ -1,0 +1,41 @@
+---
+title: "speech-dispatcher - translation progress for f26"
+package: speech-dispatcher
+date: 2026-01-17T17:28:18+00:00
+started_languages: 3
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 3
+release: f26
+---
+The package speech-dispatcher (version 0.8.8):
+
+* represents 1410 source words to be translated
+* is translated into 3 languages in Fedora f26
+
+
+* contains 3 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [cs]({{< ref "/f26/language/cs.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f26/speech-dispatcher/po/cs.po | 
+ | [de]({{< ref "/f26/language/de.md" >}}) | 1410 | 1410 | 100.0 | /mnt/stockage/packages/f26/speech-dispatcher/po/de.po | 
+ | [hu]({{< ref "/f26/language/hu.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f26/speech-dispatcher/po/hu.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

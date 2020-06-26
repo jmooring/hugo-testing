@@ -1,0 +1,432 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+0ad,300,0,0,56,0,0,376,300,100.0,Asturian (http://www.transifex.com/wildfire-games/0ad/language/ast/)
+GConf2,4088,0,0,497,0,0,4700,4088,100.0,Softastur <alministradores@softastur.org>
+PackageKit,38,0,0,27,0,0,41,38,100.0,Asturian (http://www.transifex.com/freedesktop/packagekit/language/ast/)
+Thunar,3632,0,781,649,0,135,3644,4413,82.30228869249943,Asturian (https://www.transifex.com/xfce/teams/16840/ast/)
+abrt,1,0,3675,1,0,416,1,3676,0.02720348204570185,Asturian (http://www.transifex.com/projects/p/fedora-abrt/language/ast/)
+accerciser,622,0,0,220,0,0,720,622,100.0,Softastur <alministradores@softastur.org>
+accountsservice,59,0,0,10,0,0,76,59,100.0,Asturian (http://www.transifex.com/freedesktop/accountsservice/language/ast/)
+aisleriot,2292,0,0,568,0,0,2297,2292,100.0,Softastur alministradores@softastur.org
+alacarte,42,0,0,16,0,0,44,42,100.0,Asturian <ast@li.org>
+anaconda,1296,266,7081,395,67,953,1338,8643,14.994793474488025,Asturian <https://translate.fedoraproject.org/projects/anaconda/master/ast/>
+android-tools,0,0,7678,0,0,1078,0,7678,0.0,Asturian (http://www.transifex.com/projects/p/fedora/language/ast/)
+anjuta,7744,0,0,1973,0,0,8615,7744,100.0,Softastur <alministradores@softastur.org>
+apt,3158,837,1450,482,102,130,3440,5445,57.99816345270891,Asturian (ast)
+ark,457,8,1482,133,5,223,515,1947,23.472008217770927,
+aspell,1697,39,61,288,8,7,1831,1797,94.43516972732333,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+at-spi2-core,96,0,0,14,0,0,111,96,100.0,Softastur alministradores@softastur.org
+atk,398,0,0,139,0,0,457,398,100.0,Asturian <alministradores@softastur.org>
+atril,1603,0,2788,426,0,311,1773,4391,36.50649054884992,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+baobab,540,0,0,126,0,0,625,540,100.0,Softastur <alministradores@softastur.org>
+bison,52,0,0,9,0,0,67,52,100.0,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+bleachbit,1260,0,0,267,0,0,1370,1260,100.0,Asturian <ast@li.org>
+blogilo,6,0,1386,3,0,334,5,1392,0.43103448275862066,Asturian <alministradores@softastur.org>
+bluedevil,57,1,48,37,1,22,69,106,53.77358490566038,
+blueman,729,153,981,225,64,304,766,1863,39.130434782608695,Asturian <https://hosted.weblate.org/projects/blueman/2-3/ast/>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+brasero,5493,0,0,971,0,0,5661,5493,100.0,Asturian <gnome@softastur.org>
+breezy,0,0,33704,0,0,2380,0,33704,0.0,
+budgie-control-center,1313,0,0,756,0,0,1322,1313,100.0,Asturian <alministradores@softastur.org>
+budgie-screensaver,954,0,21,152,0,2,986,975,97.84615384615385,Asturian <gnome@softastur.org>
+caja,6702,0,2973,1230,0,374,6772,9675,69.27131782945737,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+caja-actions,136,0,18679,83,0,1433,159,18815,0.7228275312250864,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+caja-extensions,278,0,482,73,0,72,289,760,36.578947368421055,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+calamares,214,0,307,44,0,47,267,521,41.074856046065264,Asturian (https://app.transifex.com/calamares/teams/20061/ast/)
+calibre,132,0,170835,30,0,19301,138,170967,0.07720788222288512,Asturian (http://www.transifex.com/calibre/calibre/language/ast/)
+calligra,2,0,0,2,0,0,2,2,100.0,Asturian <alministradores@softastur.org>
+calligraplan,10,5,9928,6,3,2156,8,9943,0.10057326762546515,Asturian <alministradores@softastur.org>
+caribou,200,0,0,60,0,0,207,200,100.0,Softastur <alministradores@softastur.org>
+cawbird,519,176,538,194,45,98,572,1233,42.092457420924575,Asturian (http://www.transifex.com/cawbird/cawbird/language/ast/)
+cheese,538,0,12,118,0,1,574,550,97.81818181818181,Softastur alministradores@softastur.org
+chromium,0,0,0,0,0,0,0,0,0.0,
+cinnamon-control-center,1313,0,0,756,0,0,1322,1313,100.0,Asturian <alministradores@softastur.org>
+cinnamon-desktop,208,0,26,23,0,9,232,234,88.88888888888889,Asturian <gnome@softastur.org>
+cinnamon-translations,9181,0,11602,2370,0,2296,9677,20783,44.17552807583121,Asturian (http://www.transifex.com/projects/p/cinnamon-ast/language/ast/)
+clamtk,448,0,0,138,0,0,494,448,100.0,Asturian <ast@li.org>
+clutter,2290,456,311,510,96,69,2377,3057,74.91004252535166,Asturian <alministradores@softastur.org>
+cogl,15,0,346,4,0,71,21,361,4.1551246537396125,Softastur <alministradores@softastur.org>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,951,27,6,174,3,2,917,984,96.64634146341463,Softastur
+cups-pk-helper,16,0,133,2,0,20,20,149,10.738255033557047,Asturian (http://www.transifex.com/freedesktop/cups-pk-helper/language/ast/)
+dasher,614,0,0,210,0,0,700,614,100.0,asturian <alministradores@softastur.org>
+debconf,737,65,60,84,6,4,753,862,85.49883990719258,Asturian <softast-xeneral@lists.sourceforge.net>
+deepin-daemon,604,0,499,154,0,90,688,1103,54.75974614687217,Asturian (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/ast/)
+deja-dup,976,0,647,185,0,100,1119,1623,60.13555144793592,Asturian <ast@li.org>
+deluge,849,0,3491,355,0,978,980,4340,19.562211981566822,Asturian <ast@li.org>
+devhelp,456,0,0,119,0,0,510,456,100.0,Softastur alministradores@softastur.org
+dia,5430,0,1171,2000,0,358,6364,6601,82.26026359642479,Softastur alministradores@softastur.org
+dialog,25,0,0,23,0,0,26,25,100.0,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+dippi,0,0,1183,0,0,205,0,1183,0.0,none
+engrampa,1380,0,6542,306,0,587,1401,7922,17.419843473870234,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+eog,1589,0,0,320,0,0,1753,1589,100.0,Softastur <alministradores@softastur.org>
+eom,1224,0,3734,297,0,245,1348,4958,24.687373941105285,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+epiphany,3073,0,0,741,0,0,3335,3073,100.0,Asturian Team alministradores@softastur.org
+evince,1437,0,0,366,0,0,1618,1437,100.0,Softastur <alministradores@softastur.org>
+evolution,21611,0,0,4439,0,0,23220,21611,100.0,Asturian <alministradores@softastur.org>
+evolution-data-server,4619,0,0,982,0,0,5531,4619,100.0,Softastur <alministradores@softastur.org>
+evolution-mapi,332,0,0,65,0,0,378,332,100.0,Asturian <alministradores@softastur.org>
+exaile,436,35,3697,139,15,938,516,4168,10.460652591170826,Asturian <https://hosted.weblate.org/projects/exaile/master/ast/>
+exif,296,0,0,68,0,0,324,296,100.0,Asturian <alministradores@softastur.org>
+exo,329,0,410,78,0,67,353,739,44.51962110960758,Asturian (http://www.transifex.com/xfce/exo/language/ast/)
+file-roller,1519,0,0,335,0,0,1536,1519,100.0,Asturian <ast@li.org>
+firewalld,0,0,2217,0,0,415,0,2217,0.0,none
+five-or-more,157,47,78,45,12,8,186,282,55.673758865248224,Asturian Team <alministradores@softastur.org>
+folder-color-switcher,15,0,50,15,0,8,16,65,23.076923076923077,Asturian <ast@li.org>
+fonts-tweak-tool,0,0,195,0,0,64,0,195,0.0,Asturian
+four-in-a-row,111,37,108,43,14,16,130,256,43.359375,Asturian Team <alministradores@softastur.org>
+fprintd,0,0,433,0,0,60,0,433,0.0,Asturian (http://www.transifex.com/freedesktop/fprintd/language/ast/)
+fragments,1616,0,390,463,0,63,1827,2006,80.55832502492522,Asturian (https://www.transifex.com/transmissionbt/teams/33778/ast/)
+fwupd,16,0,0,15,0,0,17,16,100.0,Asturian (http://www.transifex.com/freedesktop/fwupd/language/ast/)
+garcon,122,0,0,36,0,0,144,122,100.0,Asturian (http://www.transifex.com/xfce/garcon/language/ast/)
+gbrainy,8036,0,0,1037,0,0,7799,8036,100.0,Softastur alministradores@softastur.org
+gconf-editor,329,7,0,97,1,0,412,336,97.91666666666666,Asturian <gnome@softastur.org>
+gcr,141,193,288,64,71,92,170,622,22.668810289389068,Asturian Team alministradores@softastur.org
+gcr3,141,193,288,64,71,92,170,622,22.668810289389068,Asturian Team alministradores@softastur.org
+gdk-pixbuf2,1288,60,0,197,5,0,1581,1348,95.54896142433235,Softastur alministradores@softastur.org
+gdm,352,89,209,57,13,17,403,650,54.15384615384615,Softastur <alministradores@softastur.org>
+geany,4298,1091,891,961,261,131,4612,6280,68.43949044585987,Asturian <alministradores@softastur.org>
+gedit,4323,0,0,734,0,0,4477,4323,100.0,Softastur alministradores@softastur.org
+gedit-plugins,831,111,263,371,35,63,1038,1205,68.96265560165975,Softastur alministradores@softastur.org
+gettext,746,80,79,115,8,11,734,905,82.43093922651934,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+gigolo,455,0,12,119,0,8,490,467,97.4304068522484,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+gimp,8042,420,5378,1638,112,1566,9278,13840,58.10693641618497,Softastur alministradores@softastur.org
+glade,4180,0,0,1089,0,0,4656,4180,100.0,Softastur alministradores@softastur.org
+glib2,2489,335,1953,433,66,248,3154,4777,52.103830856185894,Asturian <alministradores@softastur.org>
+gnome-abrt,2,0,219,2,0,53,2,221,0.904977375565611,Asturian (http://www.transifex.com/projects/p/gnome-abrt/language/ast/)
+gnome-activity-journal,272,0,44,78,0,16,295,316,86.07594936708861,Asturian <ast@li.org>
+gnome-applets,3993,14,62,844,3,12,4791,4069,98.1322192184812,Asturian Team alministradores@softastur.org
+gnome-bluetooth,664,0,0,181,0,0,736,664,100.0,Asturian Team alministradores@softastur.org
+gnome-bluetooth3.34,664,0,0,181,0,0,736,664,100.0,Asturian Team alministradores@softastur.org
+gnome-calculator,1399,0,0,433,0,0,1502,1399,100.0,Softastur <alministradores@softastur.org>
+gnome-chess,915,232,243,137,67,33,941,1390,65.82733812949641,Asturian Team <alministradores@softastur.org>
+gnome-contacts,205,0,0,105,0,0,222,205,100.0,Softastur <alministradores@softastur.org>
+gnome-control-center,4286,0,0,1699,0,0,4610,4286,100.0,Asturian <alministradores@softastur.org>
+gnome-desktop3,207,0,0,23,0,0,230,207,100.0,Asturian <gnome@softastur.org>
+gnome-dictionary,833,0,0,183,0,0,970,833,100.0,Softastur <alministradores@softastur.org>
+gnome-disk-utility,4544,0,0,1075,0,0,5095,4544,100.0,Asturian <alministradores@softastur.org>
+gnome-do,490,0,122,123,0,21,521,612,80.06535947712419,Asturian <ast@li.org>
+gnome-doc-utils,251,0,0,101,0,0,254,251,100.0,Asturian <alministradores@softastur.org>
+gnome-extensions-app,1305,0,0,324,0,0,1380,1305,100.0,Softastur <alministradores@softastur.org>
+gnome-font-viewer,32,0,0,18,0,0,41,32,100.0,Softastur <alministradores@softastur.org>
+gnome-icon-theme,20,0,0,16,0,0,21,20,100.0,Asturian <gnome@softastur.org>
+gnome-keyring,928,0,0,234,0,0,1040,928,100.0,Softastur <alministradores@softastur.org>
+gnome-klotski,65,39,90,40,13,6,82,194,33.50515463917525,Asturian Team <alministradores@softastur.org>
+gnome-mahjongg,87,49,168,38,13,12,99,304,28.618421052631575,Asturian Team <alministradores@softastur.org>
+gnome-menus,157,0,0,56,0,0,182,157,100.0,Asturian <xspuente@gmail.com>
+gnome-mines,94,112,138,26,33,13,103,344,27.325581395348834,Asturian Team <alministradores@softastur.org>
+gnome-nettool,644,0,0,219,0,0,749,644,100.0,Softastur alministradores@softastur.org
+gnome-nibbles,132,113,202,47,41,22,143,447,29.53020134228188,Asturian Team <alministradores@softastur.org>
+gnome-online-accounts,304,0,0,54,0,0,361,304,100.0,Softastur alministradores@softastur.org
+gnome-packagekit,4790,0,0,808,0,0,4864,4790,100.0,Softastur <alministradores@softastur.org>
+gnome-panel,3377,81,62,485,7,16,3544,3520,95.9375,Softastur alministradores@softastur.org
+gnome-power-manager,432,0,0,144,0,0,478,432,100.0,Softastur alministradores@softastur.org
+gnome-robots,382,83,132,68,19,10,400,597,63.98659966499163,Asturian Team <alministradores@softastur.org>
+gnome-screenshot,306,13,0,58,1,0,333,319,95.92476489028213,Softastur <alministradores@softastur.org>
+gnome-search-tool,1359,0,0,200,0,0,1468,1359,100.0,Softastur <alministradores@softastur.org>
+gnome-session,711,6,5,111,1,1,791,722,98.47645429362882,Asturian <gnome@softastur.org>
+gnome-settings-daemon,3892,0,0,569,0,0,4208,3892,100.0,Softastur <alministradores@softastur.org>
+gnome-shell,1305,0,0,324,0,0,1380,1305,100.0,Softastur <alministradores@softastur.org>
+gnome-shell-frippery,17,0,0,5,0,0,25,17,100.0,
+gnome-sudoku,26,133,240,14,38,20,45,399,6.516290726817042,Asturian Team <alministradores@softastur.org>
+gnome-system-log,522,0,0,94,0,0,580,522,100.0,Softastur <alministradores@softastur.org>
+gnome-system-monitor,913,0,5,238,0,1,1131,918,99.45533769063181,Asturian <gnome@softastur.org>
+gnome-terminal,4145,0,0,487,0,0,4425,4145,100.0,Softastur alministradores@softastur.org
+gnome-tetravex,48,58,114,16,12,17,63,220,21.818181818181817,Asturian Team <alministradores@softastur.org>
+gnome-user-share,326,0,0,51,0,0,353,326,100.0,Asturian Team alministradores@softastur.org
+gnome-vfs2,1473,35,0,297,4,0,1686,1508,97.67904509283821,Asturian <gnome@softastur.org>
+gnome-video-effects,11,2,13,10,2,11,13,26,42.30769230769231,Asturian Team alministradores@softastur.org
+gnumeric,11856,915,22275,2755,195,2692,13159,35046,33.82982366033214,Softastur alministradores@softastur.org
+gnusim8085,230,20,313,68,4,69,242,563,40.852575488454704,Asturian <ast@li.org>
+goffice,4253,1048,900,1447,336,218,4802,6201,68.5857119819384,Softastur alministradores@softastur.org
+gpicview,234,0,2,51,0,1,253,236,99.15254237288136,asturian <alministradores@softastur.org>
+granite,0,0,498,0,0,118,0,498,0.0,
+grub-customizer,352,0,943,96,0,97,355,1295,27.181467181467184,Asturian <ast@li.org>
+grub2,7007,87,318,1320,20,37,8286,7412,94.53588774959525,Asturian <alministradores@softastur.org>
+gstreamer1,1540,210,442,291,35,58,1711,2192,70.25547445255475,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+gstreamer1-plugins-bad-free,194,0,3,28,0,1,243,197,98.47715736040608,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+gstreamer1-plugins-ugly-free,80,0,0,10,0,0,85,80,100.0,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+gtk2,13428,206,70,2743,32,9,15068,13704,97.98598949211909,Asturian <alministradores@softastur.org>
+gtk2-engines,119,0,0,47,0,0,185,119,100.0,Asturian Team alministradores@softastur.org
+gtk3,12565,55,11,2628,10,1,13897,12631,99.47747605098567,Softastur alministradores@softastur.org
+gtk4,2366,55,11,810,10,1,2499,2432,97.28618421052632,Softastur alministradores@softastur.org
+gtkhtml3,713,0,0,366,0,0,797,713,100.0,Asturian <alministradores@softastur.org>
+gtksourceview2,1393,0,0,531,0,0,1642,1393,100.0,Asturian <alministradores@softastur.org>
+gtksourceview3,119,85,118,38,21,47,143,322,36.95652173913043,Softastur alministradores@softastur.org
+gtksourceview4,1545,0,0,625,0,0,1841,1545,100.0,Softastur alministradores@softastur.org
+gtksourceview5,1545,0,0,625,0,0,1841,1545,100.0,Softastur alministradores@softastur.org
+gtkspell3,15,0,0,6,0,0,16,15,100.0,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+gucharmap,803,0,0,298,0,0,879,803,100.0,Asturian <gnome@softastur.org>
+gvfs,2412,0,0,537,0,0,2910,2412,100.0,Softastur alministradores@softastur.org
+harvey,0,0,182,0,0,33,0,182,0.0,none
+heaptrack,4,0,1372,2,0,203,3,1376,0.29069767441860467,Asturian <alministradores@softastur.org>
+hexchat,3101,0,2870,909,0,537,3398,5971,51.93434935521688,Asturian (http://www.transifex.com/hexchat/hexchat/language/ast/)
+homebank,329,0,2618,175,0,761,358,2947,11.163895486935866,Asturian <ast@li.org>
+iagno,34,107,181,16,31,25,50,322,10.559006211180124,Asturian Team <alministradores@softastur.org>
+icewm,65,121,2081,42,42,442,72,2267,2.867225408028231,Asturian <https://l10n.opensuse.org/projects/icewm/icewm-1-3-branch/ast/>
+im-chooser,52,0,201,13,0,44,48,253,20.55335968379447,LANGUAGE <LL@li.org>
+imsettings,363,37,90,70,6,13,360,490,74.08163265306122,LANGUAGE <LL@li.org>
+initial-setup,0,0,33,0,0,7,0,33,0.0,Asturian
+iso-codes,11907,2907,9113,8355,1346,6005,11880,23927,49.76386508964768,none
+jmol,176,0,1272,29,0,419,216,1448,12.154696132596685,Asturian <ast@li.org>
+kbibtex,4,0,2477,2,0,727,3,2481,0.16122531237404272,Asturian <alministradores@softastur.org>
+kcm_systemd,62,10,1313,26,5,137,68,1385,4.4765342960288805,Asturian <alminsitradores@softastur.org>
+kcm_wacomtablet,58,2,1004,29,1,213,56,1064,5.451127819548872,Asturian <alministradores@softastur.org>
+kdb,96,0,1406,15,0,229,109,1502,6.391478029294275,Asturian <alministradores@softastur.org>
+kde-cli-tools,24,0,0,6,0,0,25,24,100.0,
+kde-l10n,25873,2951,73097,7680,248,12328,27694,101921,25.385347475005148,asturian <alministradores@softastur.org>
+kdeplasma-addons,85,7,0,26,1,0,102,92,92.3913043478261,
+kdiagram,2,0,64,2,0,38,2,66,3.0303030303030303,Asturian <>
+kexi,7,0,7373,4,0,1492,6,7380,0.0948509485094851,Asturian <alministradores@softastur.org>
+kf5-akonadi-notes,2,0,0,1,0,0,2,2,100.0,
+kf5-kcoreaddons,374,6,2,129,1,2,382,382,97.90575916230367,
+kf5-kdesu,19,0,0,7,0,0,21,19,100.0,
+kf5-kio,838,0,11191,248,0,1124,911,12029,6.966497630725746,
+kf5-kxmlgui,231,0,1343,77,0,153,238,1574,14.675984752223634,
+kflickr,332,0,0,87,0,0,366,332,100.0,Asturian <ast@li.org>
+kgraphviewer,7,0,1198,3,0,212,6,1205,0.5809128630705395,Asturian <alministradores@softastur.org>
+kio_gopher,5,0,12,1,0,4,5,17,29.411764705882355,Asturian <kde-i18n-doc@kde.org>
+kmymoney,4,0,22047,2,0,3700,3,22051,0.018139766903995283,Asturian <alministradores@softastur.org>
+kproperty,69,8,68,38,3,41,74,145,47.58620689655172,Asturian <alministradores@softastur.org>
+krename,202,6,1934,59,2,391,207,2142,9.430438842203548,Asturian <alministradores@softastur.org>
+kreport,34,4,417,15,1,177,40,455,7.472527472527473,Asturian <alministradores@softastur.org>
+krita,292,7164,27579,81,2920,5374,285,35035,0.8334522620236906,Asturian <>
+kronometer,66,50,117,25,23,32,64,233,28.32618025751073,Asturian <>
+krusader,0,0,8095,0,0,1759,0,8095,0.0,Asturian <alministradores@softastur.org>
+ksysguard,247,0,846,121,0,116,260,1093,22.598353156450138,Asturian <alministradores@softastur.org>
+kwebkitpart,432,113,124,115,22,28,425,669,64.57399103139014,Asturian <alministradores@softastur.org>
+kwin,240,0,1653,79,0,404,252,1893,12.678288431061807,
+kxstitch,5,0,2011,3,0,568,4,2016,0.248015873015873,Asturian <kde-i18n-doc@kde.org>
+latte-dock,94,33,3282,33,21,686,97,3409,2.757406864183045,Asturian <alministradores@softastur.org>
+libbonobo,543,0,0,107,0,0,652,543,100.0,Asturian <alministradores@softastur.org>
+libbonoboui,368,0,0,115,0,0,427,368,100.0,Asturian <gnome@softastur.org>
+libbytesize,17,0,0,17,0,0,17,17,100.0,Asturian <https://translate.fedoraproject.org/projects/blivet/libbytesize/ast/>
+libcryptui,3033,0,0,652,0,0,3250,3033,100.0,Asturian <alministradores@softastur.org>
+libgdl,604,0,0,92,0,0,616,604,100.0,Asturian <gnome@softastur.org>
+libgnome,1773,0,0,273,0,0,1996,1773,100.0,Asturian <alministradores@softastur.org>
+libgnome-keyring,44,0,0,9,0,0,51,44,100.0,Asturian Team alministradores@softastur.org
+libgnomecanvas,378,0,0,95,0,0,460,378,100.0,Asturian <alministradores@softastur.org>
+libgnomekbd,286,0,0,59,0,0,340,286,100.0,Asturian <gnome@softastur.org>
+libgnomeui,1226,0,0,320,0,0,1233,1226,100.0,Asturian <xspuente@gmail.com>
+libgtop2,126,0,0,40,0,0,155,126,100.0,Asturian <alministradores@softastur.org>
+libgweather,6085,0,0,4550,0,0,6218,6085,100.0,Asturian <alministradores@softastur.org>
+libgweather4,6085,0,0,4550,0,0,6218,6085,100.0,Asturian <alministradores@softastur.org>
+libmatekbd,187,0,121,47,0,44,228,308,60.71428571428571,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+libmatemixer,12,0,230,11,0,115,12,242,4.958677685950414,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+libmateweather,5986,0,157,4521,0,54,6104,6143,97.44424548266319,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+libmypaint,2,2,2299,2,1,159,2,2303,0.08684324793747286,Asturian <https://hosted.weblate.org/projects/mypaint/libmypaint/ast/>
+libnma,208,400,309,62,74,60,253,917,22.68266085059978,Softastur <alministradores@softastur.org>
+libpeas,103,0,0,24,0,0,103,103,100.0,Softastur <alministradores@softastur.org>
+libreoffice,357652,8113,364464,55046,2810,33217,369852,730229,48.97806030710914,Asturian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/ast/>
+libreport,0,0,4928,0,0,603,0,4928,0.0,none
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Asturian (http://www.transifex.com/projects/p/fedora/language/ast/)
+libwnck,1124,0,0,241,0,0,1303,1124,100.0,Asturian <alministradores@softastur.org>
+libwnck3,1124,0,0,241,0,0,1303,1124,100.0,Asturian <alministradores@softastur.org>
+libxfce4ui,733,0,179,164,0,13,858,912,80.37280701754386,Asturian (http://www.transifex.com/xfce/libxfce4ui/language/ast/)
+libxfce4util,16,0,408,4,0,3,19,424,3.7735849056603774,Asturian (http://www.transifex.com/xfce/libxfce4util/language/ast/)
+liferea,1242,363,614,338,85,116,1380,2219,55.97115817936007,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Asturian (http://www.transifex.com/the_cavalry/light-locker/language/ast/)
+lightdm,35,0,128,10,0,11,30,163,21.472392638036812,Asturian <ast@li.org>
+lightdm-gtk,87,0,2,24,0,1,83,89,97.75280898876404,Asturian <ast@li.org>
+lightsoff,10,32,55,5,9,5,26,97,10.309278350515463,Asturian Team <alministradores@softastur.org>
+lxdm,10,1,37,10,1,15,13,48,20.833333333333336,asturian <alministradores@softastur.org>
+lxinput,60,5,18,21,2,3,69,83,72.28915662650603,asturian <alministradores@softastur.org>
+lxlauncher,51,0,7,11,0,6,48,58,87.93103448275862,Asturian <alministradores@softastur.org>
+lxmenu-data,97,0,0,37,0,0,109,97,100.0,Asturian <xspuente@gmail.com>
+lxrandr,83,50,34,22,8,11,98,167,49.700598802395206,Asturian <alministradores@softastur.org>
+lxshortcut,43,0,0,19,0,0,50,43,100.0,Asturian <alministradores@softastur.org>
+lxtask,122,0,8,48,0,3,142,130,93.84615384615384,Asturian <alministradores@softastur.org>
+maliit-keyboard,37,4,40,34,2,25,37,81,45.67901234567901,Asturian <ast@li.org>
+man-db,1020,5,37,195,1,7,1251,1062,96.045197740113,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+manafirewall,69,0,1116,36,0,105,72,1185,5.822784810126582,Asturian (https://www.transifex.com/MageiaLinux/teams/9361/ast/)
+marco,3047,0,1256,356,0,74,3425,4303,70.81106204973274,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+massif-visualizer,1,0,356,1,0,108,1,357,0.2801120448179272,Asturian <kde-i18n-doc@kde.org>
+mate-applets,1914,37,14006,480,8,1158,2189,15957,11.994735852603872,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+mate-backgrounds,30,0,25,21,0,8,29,55,54.54545454545454,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+mate-calc,1277,0,2046,464,0,285,1356,3323,38.42913030394222,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+mate-control-center,2855,7,5391,1037,1,472,3133,8253,34.59348115836666,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-desktop,1380,0,996,200,0,101,1562,2376,58.080808080808076,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-icon-theme,4,0,0,2,0,0,6,4,100.0,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+mate-media,120,0,119,53,0,46,137,239,50.2092050209205,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-menu,301,0,7,109,0,1,331,308,97.72727272727273,Asturian (http://www.transifex.com/mate/MATE/language/ast/)
+mate-menus,98,0,5,38,0,1,110,103,95.14563106796116,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-notification-daemon,53,0,133,26,0,27,61,186,28.49462365591398,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-panel,4363,0,2357,606,0,208,4556,6720,64.92559523809524,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-polkit,5,0,118,4,0,17,5,123,4.0650406504065035,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+mate-power-manager,1358,0,3761,284,0,267,1553,5119,26.528618870873217,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-screensaver,987,0,114,158,0,18,1006,1101,89.64577656675749,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-sensors-applet,5,2,2153,5,2,219,5,2160,0.23148148148148145,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+mate-session-manager,397,0,318,96,0,36,465,715,55.52447552447553,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-settings-daemon,1080,0,1127,181,0,138,1182,2207,48.935206162211145,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-system-monitor,1196,0,3651,312,0,336,1472,4847,24.675056736125438,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+mate-terminal,4508,0,3878,540,0,263,4789,8386,53.756260434056756,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-themes,10,0,64,4,0,19,13,74,13.513513513513514,Asturian (http://app.transifex.com/mate/MATE/language/ast/)
+mate-user-admin,18,0,587,14,0,112,19,605,2.975206611570248,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+mate-user-guide,143,0,42830,86,0,3142,169,42973,0.3327670863100086,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+mate-utils,3459,0,6601,693,0,433,3838,10060,34.38369781312127,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+metacity,2017,0,0,308,0,0,2277,2017,100.0,Softastur alministradores@softastur.org
+midori,1032,0,2509,301,0,495,1137,3541,29.14430951708557,GALPon MiniNo <mbouzada@gmail.com>
+mingw-GConf2,4088,0,0,497,0,0,4700,4088,100.0,Softastur <alministradores@softastur.org>
+mingw-atk,398,0,0,139,0,0,457,398,100.0,Asturian <alministradores@softastur.org>
+mingw-gdk-pixbuf,1288,60,0,197,5,0,1581,1348,95.54896142433235,Softastur alministradores@softastur.org
+mingw-gettext,748,80,79,116,8,11,736,907,82.4696802646086,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+mingw-glib2,2489,335,1953,433,66,248,3154,4777,52.103830856185894,Asturian <alministradores@softastur.org>
+mingw-gstreamer1,1540,210,442,291,35,58,1711,2192,70.25547445255475,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+mingw-gstreamer1-plugins-bad-free,194,0,3,28,0,1,243,197,98.47715736040608,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+mingw-gtk2,13428,206,70,2743,32,9,15068,13704,97.98598949211909,Asturian <alministradores@softastur.org>
+mingw-gtk3,12565,55,11,2628,10,1,13897,12631,99.47747605098567,Softastur alministradores@softastur.org
+mingw-gtksourceview3,119,85,118,38,21,47,143,322,36.95652173913043,Softastur alministradores@softastur.org
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Asturian (http://www.transifex.com/freedesktop/p11-kit/language/ast/)
+mlocate,397,175,9,49,1,1,464,581,68.33046471600689,Asturian (http://www.transifex.com/projects/p/fedora/language/ast/)
+mousepad,821,0,279,250,0,58,865,1100,74.63636363636364,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+mousetweaks,730,0,0,97,0,0,863,730,100.0,Asturian Team alministradores@softastur.org
+mozo,43,0,3,21,0,3,43,46,93.47826086956522,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+muffin,2400,92,0,353,23,0,2720,2492,96.30818619582665,Asturian Team alministradores@softastur.org
+multimedia-menus,56,0,0,22,0,0,62,56,100.0,Fedora Asturian <alministradores@softastur.org>
+mutter,2400,92,0,353,23,0,2720,2492,96.30818619582665,Asturian Team alministradores@softastur.org
+mypaint,16,12,6353,15,7,1248,16,6381,0.2507443974298699,Asturian <https://hosted.weblate.org/projects/mypaint/mypaint/ast/>
+nautilus,7079,0,0,1121,0,0,7278,7079,100.0,Softastur alministradores@softastur.org
+nemo-extensions,242,0,7,46,0,1,267,249,97.18875502008032,Asturian <ast@li.org>
+network-manager-applet,819,1403,2083,245,281,333,957,4305,19.024390243902438,Softastur <alministradores@softastur.org>
+newt,4,0,0,4,0,0,4,4,100.0,Asturian <ast@li.org>
+notification-daemon,17,0,0,7,0,0,20,17,100.0,Softastur <alministradores@softastur.org>
+nutty,0,0,608,0,0,152,0,608,0.0,
+okteta,14,0,2524,9,0,609,12,2538,0.5516154452324665,Asturian <alministradores@softastur.org>
+onboard,1831,0,487,424,0,86,2085,2318,78.99050905953409,Asturian <ast@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,4314,0,0,1337,0,0,4887,4314,100.0,Asturian <alministradores@softastur.org>
+p11-kit,476,0,1288,81,0,232,497,1764,26.984126984126984,Asturian (http://www.transifex.com/freedesktop/p11-kit/language/ast/)
+pacman,2380,0,591,454,0,97,2771,2971,80.10770784247728,Asturian (http://www.transifex.com/toofishes/archlinux-pacman/language/ast/)
+paprefs,0,0,137,0,0,25,0,137,0.0,none
+parole,756,0,332,263,0,38,866,1088,69.48529411764706,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+passwd,267,0,69,49,0,8,318,336,79.46428571428571,Asturian (http://www.transifex.com/projects/p/fedora/language/ast/)
+pastebinit,195,0,0,29,0,0,218,195,100.0,Asturian <ast@li.org>
+pavucontrol,0,0,530,0,0,149,0,530,0.0,none
+phonon-backend-gstreamer,0,0,104,0,0,15,0,104,0.0,Asturian <alministradores@softastur.org>
+php-phpmyadmin-sql-parser5,157,52,82,29,10,15,157,291,53.95189003436426,Asturian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ast/>
+picard,27,589,9423,17,235,1961,39,10039,0.26895109074609025,Asturian (http://www.transifex.com/projects/p/musicbrainz/language/ast/)
+pidgin,7203,4,6802,1677,1,1512,7647,14009,51.416946248840034,Asturian (http://www.transifex.com/pidgin/pidgin/language/ast/)
+pingus,0,0,5395,0,0,446,0,5395,0.0,Asturian <ast@li.org>
+pinta,63,0,1683,32,0,505,74,1746,3.608247422680412,Asturian <ast@li.org>
+pitivi,1313,0,0,297,0,0,1404,1313,100.0,Asturian Team alministradores@softastur.org
+plasma-desktop,252,0,0,25,0,0,261,252,100.0,
+plasma-mediacenter,85,3,84,47,3,37,89,172,49.41860465116279,Asturian <kde-i18n-doc@kde.org>
+plasma-pass,26,0,4,5,0,1,30,30,86.66666666666667,Asturian <alministradores@softastur.org>
+plasma-pk-updates,692,6,1383,237,2,161,699,2081,33.25324363286881,Asturian <alministradores@softastur.org>
+playonlinux,179,0,2549,27,0,422,188,2728,6.56158357771261,Asturian <ast@li.org>
+pluma,4681,0,8432,1126,0,964,5022,13113,35.69739952718676,Asturian (https://app.transifex.com/mate/teams/13566/ast/)
+pluma-plugins,188,0,1210,20,0,123,220,1398,13.447782546494993,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+pogo,576,0,0,101,0,0,586,576,100.0,Asturian <ast@li.org>
+policycoreutils,23,0,17785,23,0,2651,26,17808,0.12915543575920935,Asturian
+publican,532,0,4845,44,0,570,552,5377,9.89399293286219,asturian <alministradores@softastur.org>
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,128,43,1540,13,1,171,143,1711,7.481005260081823,Asturian (http://www.transifex.com/projects/p/pykickstart/language/ast/)
+python-blivet,202,0,382,23,0,55,209,584,34.58904109589041,Asturian (http://www.transifex.com/projects/p/blivet/language/ast/)
+python-caja,6,0,0,2,0,0,6,6,100.0,Asturian (https://www.transifex.com/mate/teams/13566/ast/)
+python-django,1186,0,2330,416,0,395,1204,3516,33.73151308304892,Asturian (http://www.transifex.com/django/django/language/ast/)
+python-django-formtools,4,0,28,2,0,9,4,32,12.5,Asturian (http://www.transifex.com/projects/p/django-formtools/language/ast/)
+python-django-mailman3,0,0,355,0,0,72,0,355,0.0,LANGUAGE <LL@li.org>
+python-django3,1186,0,2330,416,0,395,1204,3516,33.73151308304892,Asturian (http://www.transifex.com/django/django/language/ast/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Asturian
+python-manatools,4,0,0,4,0,0,4,4,100.0,Asturian (https://www.transifex.com/MageiaLinux/teams/9361/ast/)
+python-meh,1,0,108,1,0,22,1,109,0.9174311926605505,Asturian (http://www.transifex.com/projects/p/python-meh/language/ast/)
+python-postorius,0,0,5054,0,0,631,0,5054,0.0,LANGUAGE <LL@li.org>
+quadrapassel,233,71,124,59,14,6,255,428,54.4392523364486,Asturian Team <alministradores@softastur.org>
+quitcount,154,12,0,39,1,0,157,166,92.7710843373494,None
+rednotebook,1023,59,181,222,9,41,1060,1263,80.9976247030879,Asturian <ast@li.org>
+regextester,0,0,104,0,0,31,0,104,0.0,none
+remmina,675,864,3857,127,293,580,633,5396,12.509266123054113,Asturian <https://hosted.weblate.org/projects/remmina/remmina/ast/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Language ast
+ristretto,540,0,219,182,0,14,603,759,71.14624505928853,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+seahorse,3033,0,0,652,0,0,3250,3033,100.0,Asturian <alministradores@softastur.org>
+seahorse-caja,411,10,0,109,1,0,449,421,97.62470308788599,Asturian Team alministradores@softastur.org
+seahorse-nautilus,411,10,0,109,1,0,449,421,97.62470308788599,Asturian Team alministradores@softastur.org
+sed,410,75,345,74,11,61,511,830,49.39759036144578,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+setuptool,55,0,0,14,0,0,68,55,100.0,Fedora Asturian <alministradores@softastur.org>
+shared-mime-info,491,0,1569,201,0,595,629,2060,23.83495145631068,Asturian (http://www.transifex.com/freedesktop/shared-mime-info/language/ast/)
+shotwell,2177,0,2376,534,0,412,2315,4553,47.81462771798814,Asturian (http://www.transifex.com/projects/p/shotwell/language/ast/)
+shutter,400,0,2048,86,0,415,444,2448,16.33986928104575,Asturian <ast@li.org>
+simple-scan,404,0,185,120,0,25,471,589,68.59083191850594,Asturian <ast@li.org>
+slick-greeter,186,0,25,40,0,7,183,211,88.15165876777252,Asturian <ast@li.org>
+smb4k,6,3,6553,4,2,680,5,6562,0.09143553794574825,Asturian <alministradores@softastur.org>
+sos,54,30,39,11,6,13,60,123,43.90243902439025,Asturian <alministradores@softastur.org>
+sound-juicer,1022,0,0,198,0,0,1165,1022,100.0,Asturian Team alministradores@softastur.org
+soundconverter,46,0,464,19,0,110,45,510,9.019607843137255,Asturian <ast@li.org>
+sudo,3252,132,848,504,8,96,3757,4232,76.84310018903592,Asturian <alministradores@softastur.org>
+sugar-terminal,0,0,121,0,0,26,0,121,0.0,LANGUAGE <LL@li.org>
+supertux,0,0,63,0,0,17,0,63,0.0,Asturian (Spain) (https://www.transifex.com/arctic-games/teams/95/ast_ES/)
+sushi,15,0,0,9,0,0,15,15,100.0,Softastur <alministradores@softastur.org>
+swell-foop,79,54,133,30,13,12,95,266,29.69924812030075,Asturian Team <alministradores@softastur.org>
+syncevolution,1119,0,0,160,0,0,1135,1119,100.0,Softastur <alministradores@softastur.org>
+system-config-language,60,55,100,13,5,13,74,215,27.906976744186046,Asturian <alministradores@softastur.org>
+system-config-printer,646,24,2844,245,12,671,652,3514,18.38360842344906,Asturian <https://translate.fedoraproject.org/projects/system-config-printer/master/ast/>
+system-switch-java,81,0,0,11,0,0,89,81,100.0,Asturian <alministradores@softastur.org>
+tali,315,38,68,80,10,7,339,421,74.82185273159145,Asturian Team <alministradores@softastur.org>
+taxi,3,0,59,3,0,12,3,62,4.838709677419355,LANGUAGE <LL@li.org>
+terminator,207,0,1315,60,0,355,239,1522,13.600525624178712,Asturian (https://www.transifex.com/terminator/teams/109338/ast/)
+thunar-archive-plugin,86,0,2,13,0,2,85,88,97.72727272727273,Asturian (http://www.transifex.com/xfce/thunar-plugins/language/ast/)
+thunar-media-tags-plugin,156,0,0,58,0,0,160,156,100.0,Asturian (http://www.transifex.com/xfce/thunar-plugins/language/ast/)
+thunar-volman,481,0,18,115,0,5,488,499,96.39278557114228,Asturian (http://www.transifex.com/xfce/thunar-volman/language/ast/)
+tomboy,2847,0,0,413,0,0,3105,2847,100.0,Asturian <alministradores@softastur.org>
+totem,2420,0,21,560,0,1,2717,2441,99.13969684555511,Softastur alministradores@softastur.org
+totem-pl-parser,28,0,0,7,0,0,28,28,100.0,Asturian <alministradores@softastur.org>
+transmission,929,0,1512,317,0,268,1053,2441,38.05817287996723,Asturian (https://app.transifex.com/transmissionbt/teams/33778/ast/)
+tumbler,142,0,99,26,0,13,154,241,58.921161825726145,Asturian (http://www.transifex.com/xfce/tumbler/language/ast/)
+tuxmath,1455,0,0,249,0,0,1451,1455,100.0,Softastur alministradores@softastur.org
+tuxpaint,1120,1020,1623,245,109,107,1056,3763,29.763486579856497,none
+tuxpaint-stamps,3148,69,32,783,14,8,3114,3249,96.89135118498,Softastur alministradores@softastur.org
+tuxtype2,80,0,0,40,0,0,89,80,100.0,Asturian Team alministradores@softastur.org
+ufw,618,0,261,151,0,30,745,879,70.30716723549489,Asturian <ast@li.org>
+ufw-kde,4,0,811,1,0,189,4,815,0.49079754601227,Asturian <kde-i18n-doc@kde.org>
+viking,831,0,5412,198,0,1420,1034,6243,13.310908217203268,Asturian <ast@li.org>
+vinagre,1419,0,0,256,0,0,1513,1419,100.0,Softastur alministradores@softastur.org
+vte,84,0,0,14,0,0,111,84,100.0,Asturian <alministradores@softastur.org>
+vte291,84,0,0,14,0,0,111,84,100.0,Asturian <alministradores@softastur.org>
+wine,3510,1085,14686,1091,316,2872,3737,19281,18.20444997666096,Asturian <alministradores@softastur.org>
+xarchiver,906,252,56,244,37,22,1007,1214,74.62932454695222,Asturian <alministradores@softastur.org>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Asturian <ubuntu-l10n-ast@lists.ubuntu.com>
+xed,2958,0,801,732,0,191,3167,3759,78.69114126097367,Asturian (http://www.transifex.com/projects/p/MATE/language/ast/)
+xfburn,1325,0,88,298,0,8,1431,1413,93.7721160651097,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+xfce4-appfinder,325,0,81,73,0,8,324,406,80.04926108374384,Asturian (http://www.transifex.com/xfce/xfce4-appfinder/language/ast/)
+xfce4-battery-plugin,144,0,3,41,0,1,150,147,97.95918367346938,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-clipman-plugin,404,0,74,63,0,9,383,478,84.51882845188284,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-cpufreq-plugin,137,0,8,38,0,3,169,145,94.48275862068965,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-cpugraph-plugin,76,0,0,37,0,0,86,76,100.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-datetime-plugin,52,0,0,19,0,0,52,52,100.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-dict,512,0,15,114,0,5,533,527,97.15370018975332,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+xfce4-diskperf-plugin,181,0,0,37,0,0,194,181,100.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-eyes-plugin,7,0,9,3,0,2,5,16,43.75,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-fsguard-plugin,71,0,0,19,0,0,77,71,100.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-genmon-plugin,25,0,31,11,0,3,25,56,44.642857142857146,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-mailwatch-plugin,689,0,0,112,0,0,771,689,100.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-mount-plugin,336,3,44,48,1,8,344,383,87.72845953002611,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-mpc-plugin,56,0,22,21,0,3,76,78,71.7948717948718,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-netload-plugin,90,0,1,34,0,1,95,91,98.9010989010989,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-notes-plugin,163,0,0,57,0,0,168,163,100.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-notifyd,98,0,0,29,0,0,126,98,100.0,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+xfce4-panel,1480,0,367,359,0,98,1533,1847,80.12994044396319,Asturian (https://www.transifex.com/xfce/teams/16840/ast/)
+xfce4-places-plugin,162,0,0,47,0,0,156,162,100.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-power-manager,586,0,460,174,0,36,642,1046,56.022944550669216,Asturian (http://www.transifex.com/xfce/xfce4-power-manager/language/ast/)
+xfce4-screenshooter,261,0,195,54,0,22,271,456,57.23684210526315,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+xfce4-sensors-plugin,302,0,88,72,0,13,321,390,77.43589743589745,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-session,667,0,131,134,0,29,751,798,83.58395989974937,Asturian (http://www.transifex.com/xfce/xfce4-session/language/ast/)
+xfce4-settings,1404,0,1022,332,0,237,1496,2426,57.87304204451772,Asturian (https://www.transifex.com/xfce/teams/16840/ast/)
+xfce4-smartbookmark-plugin,22,0,0,9,0,0,24,22,100.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-systemload-plugin,62,0,25,18,0,5,77,87,71.26436781609196,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-taskmanager,113,0,112,37,0,35,108,225,50.22222222222222,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+xfce4-terminal,950,0,772,268,0,134,1097,1722,55.16840882694542,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+xfce4-time-out-plugin,91,0,9,33,0,2,95,100,91.0,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-timer-plugin,113,0,22,36,0,12,127,135,83.7037037037037,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-verve-plugin,80,0,28,21,0,7,89,108,74.07407407407408,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-wavelan-plugin,62,0,5,16,0,2,67,67,92.53731343283582,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-weather-plugin,1180,0,2480,220,0,115,1151,3660,32.240437158469945,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfce4-whiskermenu-plugin,316,0,85,106,0,25,315,401,78.80299251870323,Asturian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ast/)
+xfce4-xkb-plugin,26,0,31,16,0,6,34,57,45.614035087719294,Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/)
+xfconf,446,0,12,66,0,2,492,458,97.37991266375546,Asturian (http://www.transifex.com/xfce/xfconf/language/ast/)
+xfdesktop,970,0,66,225,0,20,1035,1036,93.62934362934364,Asturian (https://www.transifex.com/xfce/teams/16840/ast/)
+xfmpc,173,0,2,76,0,2,191,175,98.85714285714286,Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/)
+xfwm4,561,0,99,159,0,17,660,660,85.0,Asturian (http://www.transifex.com/xfce/xfwm4/language/ast/)
+xreader,1087,0,536,263,0,117,1201,1623,66.9747381392483,Asturian (http://www.transifex.com/mate/MATE/language/ast/)
+yelp,488,0,0,115,0,0,512,488,100.0,Asturian <alministradores@softastur.org>
+yelp-xsl,70,0,0,52,0,0,76,70,100.0,Asturian <alministradores@softastur.org>
+zenity,612,0,0,142,0,0,699,612,100.0,Asturian Team alministradores@softastur.org
+zypper,2557,156,6854,422,19,831,2501,9567,26.7272917319954,Asturian <https://l10n.opensuse.org/projects/zypper/master/ast/>

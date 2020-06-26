@@ -1,0 +1,27 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+iso-codes,233,13,743,181,4,240,221,989,23.559150657229523,Nahuatl languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/nah/>
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Nahuatl (http://www.transifex.com/mate/MATE/language/nah/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,Nahuatl (http://www.transifex.com/mate/MATE/language/nah/)
+mate-menus,1,0,102,1,0,38,1,103,0.9708737864077669,Nahuatl (https://app.transifex.com/mate/teams/13566/nah/)
+mate-sensors-applet,2,0,311,2,0,107,2,313,0.6389776357827476,Nahuatl (https://www.transifex.com/mate/teams/13566/nah/)
+mate-system-monitor,200,0,4693,71,0,589,183,4893,4.087471898630697,Nahuatl (https://app.transifex.com/mate/teams/13566/nah/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Nahuatl (http://app.transifex.com/mate/MATE/language/nah/)
+mozo,1,0,45,1,0,23,1,46,2.1739130434782608,Nahuatl (https://www.transifex.com/mate/teams/13566/nah/)
+sugar,46,16,2243,18,13,498,48,2305,1.9956616052060738,LANGUAGE <LL@li.org>
+sugar-abacus,28,0,0,23,0,0,34,28,100.0,LANGUAGE <LL@li.org>
+sugar-browse,167,46,121,50,1,20,178,334,50.0,LANGUAGE <LL@li.org>
+sugar-clock,59,0,7,20,0,1,43,66,89.39393939393939,LANGUAGE <LL@li.org>
+sugar-dimensions,172,0,4,85,0,2,158,176,97.72727272727273,LANGUAGE <LL@li.org>
+sugar-distance,57,0,42,10,0,16,58,99,57.57575757575758,LANGUAGE <LL@li.org>
+sugar-finance,39,0,219,24,0,39,50,258,15.11627906976744,LANGUAGE <LL@li.org>
+sugar-flipsticks,76,0,75,4,0,41,70,151,50.331125827814574,LANGUAGE <LL@li.org>
+sugar-implode,0,1,76,0,1,19,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-maze,7,0,0,4,0,0,11,7,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,142,0,0,74,0,0,165,142,100.0,LANGUAGE <LL@li.org>
+sugar-physics,24,0,24,23,0,5,25,48,50.0,LANGUAGE <LL@li.org>
+sugar-speak,0,4,223,0,4,70,0,227,0.0,LANGUAGE <LL@li.org>
+sugar-stopwatch,3,0,2,3,0,2,3,5,60.0,LANGUAGE <LL@li.org>
+sugar-terminal,6,0,115,4,0,22,7,121,4.958677685950414,LANGUAGE <LL@li.org>
+sugar-view-slides,60,0,0,23,0,0,62,60,100.0,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,140,121,100.0,LANGUAGE <LL@li.org>
+sugar-xoeditor,29,0,0,7,0,0,35,29,100.0,LANGUAGE <LL@li.org>

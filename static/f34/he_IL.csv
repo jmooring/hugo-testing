@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+boost,1,0,0,1,0,0,1,1,100.0,
+cacti,972,29628,73,700,3633,5,1140,30673,3.1689107684282596,
+ceph,1,0,0,1,0,0,1,1,100.0,
+clapper,0,0,272,0,0,108,0,272,0.0,Hebrew
+clementine,0,0,5251,0,0,1391,0,5251,0.0,Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/)
+coolreader,545,0,156,210,0,63,520,701,77.74607703281026,Hebrew
+darktable,23878,0,0,4378,0,0,22044,23878,100.0,
+electrum,7128,0,1872,1360,0,283,6503,9000,79.2,Hebrew
+libecpg,271,0,0,41,0,0,299,271,100.0,
+libpq,271,0,0,41,0,0,299,271,100.0,
+mingw-boost,1,0,0,1,0,0,1,1,100.0,
+mingw-postgresql,9124,0,19,1741,0,8,9243,9143,99.79219074701959,
+poedit,2916,0,0,650,0,0,2677,2916,100.0,Hebrew
+postgresql,1727,0,0,258,0,0,1831,1727,100.0,
+python-django-rest-framework,0,0,582,0,0,101,0,582,0.0,Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/)
+python-flask-admin,320,0,47,97,0,15,311,367,87.19346049046321,Hebrew
+squirrelmail,2440,1687,2751,689,305,357,2282,6878,35.47542890375109,HEBREW <squirrelmail-i18n@lists.sourceforge.net>
+visualboyadvance-m,0,0,2393,0,0,895,0,2393,0.0,Hebrew (Israel) (http://www.transifex.com/bgk/vba-m/language/he_IL/)
+warzone2100,32,0,14506,4,0,3084,25,14538,0.22011280781400466,Hebrew
+xournalpp,984,0,3050,324,0,479,957,4034,24.39266236985622,Hebrew

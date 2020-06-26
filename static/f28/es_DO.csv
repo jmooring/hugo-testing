@@ -1,0 +1,20 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,8,0,1784,7,0,406,22,1792,0.4464285714285714,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+engrampa,6,0,1940,6,0,349,18,1946,0.3083247687564234,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+eom,14,0,1709,14,0,309,27,1723,0.812536273940801,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+libgweather,662,0,0,234,0,0,733,662,100.0,Spanish <gnome-es-list@gnome.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+libmateweather,433,0,66,167,0,16,503,499,86.77354709418837,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-applets,1655,0,10533,379,0,872,2174,12188,13.578930095175581,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-control-center,18,0,2640,12,0,616,31,2658,0.6772009029345373,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-media,4,0,222,3,0,93,5,226,1.7699115044247788,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/)
+mate-panel,36,0,6496,26,0,734,82,6532,0.5511328842620943,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-power-manager,10,0,2714,10,0,430,23,2724,0.36710719530102787,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-sensors-applet,9,0,297,9,0,97,22,306,2.941176470588235,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-session-manager,3,0,678,3,0,111,3,681,0.4405286343612335,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-settings-daemon,43,0,1721,6,0,247,45,1764,2.437641723356009,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-system-monitor,14,0,1319,10,0,303,30,1333,1.0502625656414104,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/)
+mate-utils,6,0,2522,4,0,178,32,2528,0.23734177215189875,Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/)
+openerp,7207,0,26712,1588,0,2138,7951,33919,21.24767829240249,Spanish (Dominican Republic) <es_DO@li.org>

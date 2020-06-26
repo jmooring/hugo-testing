@@ -1,0 +1,194 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,22,0,4010,11,0,470,29,4032,0.5456349206349206,Sinhala <en@li.org>
+Miro,694,0,2642,214,0,510,787,3336,20.80335731414868,Sinhalese <si@li.org>
+Terminal,1185,6,0,268,1,0,1219,1191,99.49622166246851,Sinhala <info@hanthana.org>
+alacarte,74,0,0,30,0,0,99,74,100.0,Sinhala <en@li.org>
+anaconda,9347,275,130,1176,20,6,9155,9752,95.84700574241182,American English <kde-i18n-doc@kde.org>
+anjuta,1293,0,5945,468,0,1498,1426,7238,17.864050842774247,Sinhala <en@li.org>
+atk,38,0,337,31,0,95,40,375,10.133333333333333,Sinhala <en@li.org>
+authconfig,181,138,1006,81,41,117,200,1325,13.660377358490566,Sinhala <en@li.org>
+avant-window-navigator,40,0,1340,3,0,176,37,1380,2.898550724637681,Sinhalese <si@li.org>
+chkconfig,0,0,448,0,0,90,0,448,0.0,none
+control-center,377,0,3320,183,0,662,450,3697,10.197457397890181,Sinhala <en@li.org>
+dasher,95,0,348,63,0,110,109,443,21.44469525959368,Sinhala <en@li.org>
+deskbar-applet,451,0,283,150,0,25,548,734,61.444141689373296,Sinhala <en@li.org>
+desktop-effects,63,0,85,10,0,15,64,148,42.567567567567565,Sinhala <en@li.org>
+ekiga,83,0,5062,68,0,697,110,5145,1.6132167152575316,Sinhala <en@li.org>
+empathy,903,0,2182,357,0,342,867,3085,29.27066450567261,Sinhala <si@li.org>
+eog,357,0,599,157,0,74,396,956,37.34309623430963,Sinhala <en@li.org>
+epiphany,197,0,3864,127,0,756,282,4061,4.8510219157842895,Sinhala <en@li.org>
+etoys,11285,560,15844,2384,185,1858,10370,27689,40.75625699736357,Sinhalese <en@li.org>
+evince,219,0,785,125,0,167,267,1004,21.812749003984063,Sinhala <en@li.org>
+evolution,4582,0,15345,2416,0,2328,5462,19927,22.993927836603604,Sinhala <en@li.org>
+evolution-data-server,146,0,4891,112,0,927,200,5037,2.898550724637681,Sinhala <en@li.org>
+evolution-exchange,54,0,1253,31,0,163,64,1307,4.13159908186687,Sinhala <en@li.org>
+evolution-mapi,174,0,110,36,0,14,197,284,61.267605633802816,Sinhalese <danishka@gmail.com>
+file-roller,651,0,417,206,0,42,716,1068,60.95505617977528,Sinhala <en@li.org>
+firstboot,137,105,412,15,5,34,149,654,20.948012232415902,Sinhala <en@li.org>
+gcalctool,853,0,839,379,0,71,894,1692,50.413711583924346,Sinhala  <gnome-lk-list@gnome.org>
+gconf-editor,34,0,295,27,0,71,59,329,10.33434650455927,Sinhala <en@li.org>
+gdm,610,0,0,121,0,0,592,610,100.0,Sinhala <en@li.org>
+gedit,1941,0,3122,659,0,443,2161,5063,38.336954374876555,Sinhala <en@li.org>
+ggz-base-libs,13,0,0,5,0,0,14,13,100.0,Sinhala <en@li.org>
+ggz-gtk-client,148,0,0,100,0,0,166,148,100.0,Sinhala <en@li.org>
+gimp,273,442,11384,177,235,2420,310,12099,2.256384825192165,Sinhalese <danishka@gmail.com>
+glade3,222,0,2975,169,0,699,281,3197,6.944010009383797,Sinhala <en@li.org>
+glib2,346,359,1818,63,78,274,381,2523,13.713832738803012,Sinhala <en@li.org>
+gnome-applet-alarm-clock,0,0,417,0,0,110,0,417,0.0,Sinhalese <si@li.org>
+gnome-applets,1619,0,2125,589,0,353,1780,3744,43.24252136752137,Sinhala <en@li.org>
+gnome-backgrounds,18,0,0,9,0,0,19,18,100.0,Sinhala <en@li.org>
+gnome-desktop,330,0,0,76,0,0,344,330,100.0,Sinhala <en@li.org>
+gnome-games,1249,0,5954,627,0,1137,1315,7203,17.339997223379147,Sinhala <en@li.org>
+gnome-icon-theme,49,0,0,44,0,0,55,49,100.0,Sinhala <en@li.org>
+gnome-keyring,340,0,371,42,0,15,344,711,47.81997187060478,Sinhala <en@li.org>
+gnome-mag,5,0,0,2,0,0,6,5,100.0,Sinhala <en@li.org>
+gnome-media,655,0,1268,366,0,160,719,1923,34.06136245449818,Sinhala <en@li.org>
+gnome-menus,165,0,0,58,0,0,177,165,100.0,Sinhala <en@li.org>
+gnome-nettool,48,0,492,45,0,139,62,540,8.88888888888889,Sinhala <en@li.org>
+gnome-panel,967,14,3210,300,2,259,1041,4191,23.073252207110475,Sinhala <en@li.org>
+gnome-power-manager,104,82,2600,57,39,331,123,2786,3.7329504666188082,Sinhala <en@li.org>
+gnome-screensaver,605,109,258,130,16,15,602,972,62.242798353909464,Sinhala <en@li.org>
+gnome-session,811,0,0,115,0,0,757,811,100.0,Sinhala <en@li.org>
+gnome-settings-daemon,21,29,984,12,13,146,28,1034,2.0309477756286265,Sinhala <en@li.org>
+gnome-system-monitor,258,0,581,131,0,93,310,839,30.75089392133492,Sinhala <en@li.org>
+gnome-terminal,793,3,3803,265,1,247,958,4599,17.242878886714504,Sinhala <en@li.org>
+gnome-themes,80,0,0,24,0,0,105,80,100.0,Sinhala <en@li.org>
+gnome-utils,2452,0,1691,561,0,167,2288,4143,59.184166063239196,
+gok,62,0,1880,61,0,378,80,1942,3.192584963954686,Sinhala <en@li.org>
+gparted,892,0,382,211,0,68,976,1274,70.01569858712716,Sinhala <en@li.org>
+gtg,20,0,1768,14,0,240,20,1788,1.1185682326621924,Sinhalese <si@li.org>
+gtk2,3450,1018,9236,814,371,1599,3392,13704,25.175131348511382,Sinhala <en@li.org>
+gtk2-engines,83,0,0,33,0,0,86,83,100.0,Sinhala <en@li.org>
+gtkhtml3,99,0,815,59,0,338,120,914,10.831509846827133,Sinhala <en@li.org>
+gtksourceview2,117,0,709,101,0,248,123,826,14.164648910411623,Sinhala <en@li.org>
+gucharmap,45,0,731,41,0,242,62,776,5.798969072164948,Sinhala <en@li.org>
+gwibber,22,0,23,14,0,10,28,45,48.888888888888886,Sinhalese <si@li.org>
+hamster-applet,188,0,18,85,0,3,230,206,91.2621359223301,Sinhalese <danishka@gmail.com>
+im-chooser,87,6,120,21,2,25,95,213,40.845070422535215,Sinhala <en@li.org>
+imsettings,0,77,902,0,13,142,0,979,0.0,Sinhala <en@li.org>
+initscripts,0,0,4407,0,0,1087,0,4407,0.0,none
+kexec-tools,206,0,0,14,0,0,210,206,100.0,Sinhala <en@li.org>
+ktorrent,5,0,7557,3,0,1326,5,7562,0.06612007405448293,American English <kde-i18n-doc@kde.org>
+libbonoboui,63,0,298,33,0,81,66,361,17.451523545706372,Sinhala <en@li.org>
+libgdl,160,0,452,50,0,48,158,612,26.143790849673206,Sinhala <en@li.org>
+libgnome,16,0,1637,7,0,248,15,1653,0.9679370840895343,Sinhala <en@li.org>
+libgnomekbd,262,0,0,49,0,0,268,262,100.0,Sinhala <en@li.org>
+libgnomeprint22,168,0,0,98,0,0,191,168,100.0,Sinhala <en@li.org>
+libgnomeprintui22,448,0,33,151,0,3,460,481,93.13929313929314,Sinhala <en@li.org>
+libgnomeui,179,0,1156,85,0,250,213,1335,13.408239700374533,Sinhala <en@li.org>
+libgweather,6309,0,974,4375,0,370,6106,7283,86.62639022380887,Sinhala <en@li.org>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libktorrent,0,0,417,0,0,92,0,417,0.0,American English <kde-i18n-doc@kde.org>
+libvirt,1103,11086,7994,259,2054,1186,1103,20183,5.464995293068424,none
+libwnck,87,0,0,32,0,0,103,87,100.0,Sinhala <en@li.org>
+libxfce4ui,1,0,135,1,0,29,1,136,0.7352941176470588,American English <kde-i18n-doc@kde.org>
+libxfce4util,184,229,0,2,2,0,184,413,44.55205811138014,Sinhala <en@li.org>
+libxfcegui4,139,3,92,44,2,15,140,234,59.401709401709404,Sinhalese <en@li.org>
+lxmenu-data,97,0,0,37,0,0,99,97,100.0,Sinhala <en@li.org>
+metacity,75,0,7984,38,0,477,96,8059,0.9306365554038962,Sinhala <en@li.org>
+mingw32-atk,38,0,337,31,0,95,40,375,10.133333333333333,Sinhala <en@li.org>
+mingw32-glib2,346,359,1818,63,78,274,381,2523,13.713832738803012,Sinhala <en@li.org>
+mingw32-gtk2,3450,1018,9236,814,371,1599,3392,13704,25.175131348511382,Sinhala <en@li.org>
+mingw32-gtkhtml3,99,0,815,59,0,338,120,914,10.831509846827133,Sinhala <en@li.org>
+mousepad,135,0,0,64,0,0,162,135,100.0,Sinhala <rashan.uoc@gmail.com>
+mutter,75,0,7984,38,0,477,96,8059,0.9306365554038962,Sinhala <en@li.org>
+mutter-mbl,75,0,7984,38,0,477,96,8059,0.9306365554038962,Sinhala <en@li.org>
+nautilus,3146,31,3968,869,1,330,3382,7145,44.03079076277117,Sinhala <en@li.org>
+ntfs-config,143,0,214,23,0,36,141,357,40.056022408963585,Sinhalese <si@li.org>
+olpc-switch-desktop,153,0,5,12,0,2,141,158,96.83544303797468,LANGUAGE <LL@li.org>
+orca,143,0,2357,118,0,810,175,2500,5.72,Sinhala <en@li.org>
+pam,441,59,99,95,12,13,486,599,73.62270450751252,Sinhala <en@li.org>
+passwd,0,0,299,0,0,53,0,299,0.0,none
+pessulus,66,0,58,25,0,7,110,124,53.2258064516129,Sinhalese <danishka@gmail.com>
+pidgin,1475,1170,16085,610,463,2988,1625,18730,7.87506673785371,Sinhala <sinhala@linux.lk>
+policycoreutils,0,0,1470,0,0,260,0,1470,0.0,LANGUAGE <LL@li.org>
+publican,18,0,1076,8,0,64,18,1094,1.6453382084095063,Sinhala <en@li.org>
+publican-fedora,106,0,1,5,0,1,83,107,99.06542056074767,Sinhala <en@li.org>
+publican-jboss,100,0,6,4,0,1,77,106,94.33962264150944,Sinhala <en@li.org>
+publican-ovirt,288,0,0,27,0,0,243,288,100.0,Sinhala <en@li.org>
+publican-redhat,100,0,120,4,0,9,77,220,45.45454545454545,Sinhala <en@li.org>
+pykickstart,0,0,284,0,0,25,0,284,0.0,LANGUAGE <LL@li.org>
+radiotray,28,0,67,12,0,28,43,95,29.47368421052631,Sinhala <None>
+redhat-menus,261,0,0,86,0,0,300,261,100.0,Sinhala <en@li.org>
+rednotebook,2,0,1042,2,0,224,8,1044,0.19157088122605362,Sinhalese <si@li.org>
+rhn-client-tools,4135,221,464,401,26,27,4199,4820,85.78838174273858,Sinhala <en@li.org>
+rhnsd,42,0,0,10,0,0,53,42,100.0,Sinhala <en@li.org>
+sabayon,609,92,35,137,18,11,654,736,82.74456521739131,Sinhalese <danishka@gmail.com>
+sahana,11657,0,19369,2109,0,3428,10590,31026,37.57171404628376,LANGUAGE <sahana.lk>
+seahorse,130,0,3500,81,0,669,168,3630,3.581267217630854,Sinhala <en@li.org>
+seahorse-plugins,130,0,3500,81,0,669,168,3630,3.581267217630854,Sinhala <en@li.org>
+setroubleshoot,0,0,563,0,0,168,0,563,0.0,LANGUAGE <LL@li.org>
+setroubleshoot-plugins,0,0,7818,0,0,364,0,7818,0.0,LANGUAGE <LL@li.org>
+setuptool,0,0,55,0,0,14,0,55,0.0,none
+sos,174,76,17,31,2,3,182,267,65.1685393258427,Sinhala <en@li.org>
+sound-juicer,602,46,213,147,1,13,611,861,69.91869918699187,Sinhala <en@li.org>
+specspo,0,0,305294,0,0,16850,0,305294,0.0,none
+stellarium,2080,0,327,771,0,170,1937,2407,86.41462401329456,Sinhalese <si@li.org>
+sugar,549,0,0,172,0,0,567,549,100.0,Sinhala <si@li.org>
+sugar-base,5,0,0,5,0,0,6,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,42,0,4,23,0,2,50,46,91.30434782608695,LANGUAGE <LL@li.org>
+sugar-calculator,0,0,563,0,0,116,0,563,0.0,LANGUAGE <LL@li.org>
+sugar-chat,21,0,0,10,0,0,34,21,100.0,LANGUAGE <LL@li.org>
+sugar-connect,0,0,31,0,0,8,0,31,0.0,LANGUAGE <LL@li.org>
+sugar-distance,0,0,76,0,0,15,0,76,0.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,100,0,0,22,0,0,95,100,100.0,LANGUAGE <LL@li.org>
+sugar-memorize,50,0,0,25,0,0,68,50,100.0,LANGUAGE <LL@li.org>
+sugar-physics,22,0,0,22,0,0,26,22,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,57,0,28,22,0,8,69,85,67.05882352941175,LANGUAGE <LL@li.org>
+sugar-tamtam,2077,0,0,697,0,0,2110,2077,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,59,0,0,28,0,0,60,59,100.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,58,0,0,30,0,58,0.0,LANGUAGE <LL@li.org>
+sugar-write,29,0,40,19,0,23,47,69,42.028985507246375,LANGUAGE <LL@li.org>
+switchdesk,0,0,137,0,0,19,0,137,0.0,none
+system-config-bind,58,0,9361,54,0,1010,70,9419,0.6157766217220512,Sinhala <en@li.org>
+system-config-boot,41,2,76,9,1,13,51,119,34.45378151260504,Sinhala <en@li.org>
+system-config-date,916,73,761,592,38,169,966,1750,52.34285714285715,Sinhala <en@li.org>
+system-config-date-docs,0,0,728,0,0,53,0,728,0.0,LANGUAGE <LL@li.org>
+system-config-display,190,23,202,53,4,12,222,415,45.78313253012048,Sinhala <en@li.org>
+system-config-firewall,188,277,2342,86,69,175,219,2807,6.6975418596366225,Sinhala <en@li.org>
+system-config-httpd,134,4,720,37,2,184,136,858,15.61771561771562,Sinhala <en@li.org>
+system-config-kdump,0,0,807,0,0,138,0,807,0.0,LANGUAGE <LL@li.org>
+system-config-keyboard,169,18,0,71,10,0,183,187,90.37433155080214,Sinhala <en@li.org>
+system-config-kickstart,0,0,1103,0,0,244,0,1103,0.0,none
+system-config-language,0,0,323,0,0,56,0,323,0.0,none
+system-config-lvm,560,10,1666,214,4,126,650,2236,25.044722719141323,Sinhala <en@li.org>
+system-config-netboot,994,36,73,144,5,16,1151,1103,90.11786038077969,Sinhala <en@li.org>
+system-config-network,704,227,2091,322,74,322,798,3022,23.295830575777632,Sinhala <en@li.org>
+system-config-nfs,332,0,0,72,0,0,387,332,100.0,Sinhala <en@li.org>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-printer,22,0,3088,18,0,737,26,3110,0.707395498392283,LANGUAGE <LL@li.org>
+system-config-rootpassword,0,0,116,0,0,19,0,116,0.0,none
+system-config-samba,327,1,207,111,1,18,430,535,61.12149532710281,Sinhala <en@li.org>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services,24,0,380,10,0,47,22,404,5.9405940594059405,Sinhala <en@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users,779,247,430,127,17,30,879,1456,53.50274725274725,Sinhala <en@li.org>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+system-switch-mail,134,0,0,20,0,0,153,134,100.0,Sinhala <en@li.org>
+terminator,80,0,138,53,0,47,75,218,36.69724770642202,Sinhalese <si@li.org>
+tomboy,774,0,1179,252,0,53,905,1953,39.63133640552996,Sinhala <en@li.org>
+totem,1160,0,678,323,0,55,1172,1838,63.11207834602829,Sinhala <en@li.org>
+totem-pl-parser,1160,0,678,323,0,55,1172,1838,63.11207834602829,Sinhala <en@li.org>
+usermode,31,0,548,19,0,78,36,579,5.354058721934369,Sinhala <en@li.org>
+vinagre,426,0,0,91,0,0,491,426,100.0,
+vino,479,26,311,66,1,15,510,816,58.700980392156865,Sinhala <en@li.org>
+vte,108,0,0,19,0,0,113,108,100.0,Sinhala <en@li.org>
+widelands,410,0,20664,275,0,2161,463,21074,1.9455252918287937,Sinhalese <si@li.org>
+xfce-utils,126,5,0,35,1,0,126,131,96.18320610687023,Sinhalese <en@li.org>
+xfce4-appfinder,83,0,1,18,0,1,88,84,98.80952380952381,Sinhalese <en@li.org>
+xfce4-icon-theme,8,0,0,2,0,0,7,8,100.0,Sinhala <si@li.org>
+xfce4-mixer,99,43,39,31,4,2,105,181,54.69613259668509,Sinhalese <en@li.org>
+xfce4-panel,540,0,0,167,0,0,557,540,100.0,Sinhalese <en@li.org>
+xfce4-session,390,166,434,89,41,69,400,990,39.39393939393939,Sinhala <si@li.org>
+xfce4-taskmanager,7,24,92,7,14,24,8,123,5.691056910569105,American English <kde-i18n-doc@kde.org>
+xfdesktop,119,2,883,81,1,186,140,1004,11.852589641434264,Sinhalese <danishka@gmail.com>
+xfprint,321,1,0,112,1,0,327,322,99.68944099378882,Sinhala <si@li.org>
+yelp,84,0,925,60,0,190,124,1009,8.325074331020813,Sinhala <en@li.org>
+yum-rhn-plugin,62,0,45,9,0,5,59,107,57.943925233644855,Sinhala <en@li.org>
+zenity,559,0,0,130,0,0,586,559,100.0,American English <kde-i18n-doc@lists.kde.org>

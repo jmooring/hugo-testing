@@ -1,0 +1,44 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+mintmenu,70,0,177,12,0,28,88,247,28.34008097165992,Papiamento <pap@li.org>
+olpc-switch-desktop,158,0,0,14,0,0,188,158,100.0,LANGUAGE <LL@li.org>
+pootle,1255,274,1968,601,59,802,1457,3497,35.88790391764369,LANGUAGE <LL@li.org>
+sugar,1733,0,0,419,0,0,2098,1733,100.0,JuneLeonora
+sugar-abacus,29,0,0,24,0,0,31,29,100.0,JuneLeonora
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,183,6,0,51,1,0,198,189,96.82539682539682,Suares
+sugar-calculator,380,85,406,85,16,63,376,871,43.62801377726751,LANGUAGE <LL@li.org>
+sugar-calendario,0,0,43,0,0,27,0,43,0.0,LANGUAGE <LL@li.org>
+sugar-chat,55,0,0,34,0,0,62,55,100.0,JuneLeonora
+sugar-clock,5,1,53,5,1,12,5,59,8.47457627118644,LANGUAGE <LL@li.org>
+sugar-connect,36,0,0,9,0,0,46,36,100.0,LANGUAGE <LL@li.org>
+sugar-deducto,0,0,109,0,0,23,0,109,0.0,LANGUAGE <LL@li.org>
+sugar-finance,143,0,0,32,0,0,166,143,100.0,LANGUAGE <LL@li.org>
+sugar-fototoon,77,0,0,33,0,0,83,77,100.0,JuneLeonora
+sugar-fractionbounce,0,0,68,0,0,23,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-getiabooks,43,0,38,18,0,13,49,81,53.086419753086425,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,27,11,0,2,30,51,47.05882352941176,LANGUAGE <LL@li.org>
+sugar-implode,78,0,0,21,0,0,88,78,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,165,2,69,52,1,9,186,236,69.91525423728814,LANGUAGE <LL@li.org>
+sugar-jukebox,4,0,61,3,0,17,6,65,6.153846153846154,LANGUAGE <LL@li.org>
+sugar-labyrinth,248,0,33,88,0,6,273,281,88.25622775800713,LANGUAGE <LL@li.org>
+sugar-log,98,0,0,21,0,0,107,98,100.0,JuneLeonora
+sugar-memorize,131,11,0,67,7,0,140,142,92.25352112676056,Suares
+sugar-moon,79,0,38,28,0,5,86,117,67.52136752136752,LANGUAGE <LL@li.org>
+sugar-paint,41,0,47,36,0,15,49,88,46.590909090909086,LANGUAGE <LL@li.org>
+sugar-physics,28,0,20,27,0,1,28,48,58.333333333333336,LANGUAGE <LL@li.org>
+sugar-pippy,42,15,52,14,1,16,47,109,38.53211009174312,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,60,0,0,21,0,0,69,60,100.0,JuneLeonora
+sugar-read,120,0,0,45,0,0,126,120,100.0,Suares
+sugar-ruler,0,0,15,0,0,6,0,15,0.0,LANGUAGE <LL@li.org>
+sugar-speak,78,14,125,53,2,17,95,217,35.944700460829495,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2077,0,0,697,0,2077,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,13,0,4,7,0,2,15,17,76.47058823529412,LANGUAGE <LL@li.org>
+sugar-toolkit,72,1,0,36,1,0,75,73,98.63013698630137,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,76,0,0,40,0,0,78,76,100.0,JuneLeonora
+sugar-turtleart,3638,25,0,946,6,0,4134,3663,99.31749931749931,LANGUAGE <walter@sugarlabs.org>
+sugar-typing-turtle,573,0,2,125,0,1,661,575,99.65217391304347,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,118,0,40,64,0,14,129,158,74.68354430379746,LANGUAGE <LL@li.org>
+sugar-write,121,0,0,55,0,0,132,121,100.0,Suares
+vidalia,0,0,10369,0,0,1298,0,10369,0.0,translations@vidalia-project.net

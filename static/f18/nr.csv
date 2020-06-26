@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+libreoffice,45893,7638,38240,14958,3127,9991,40192,91771,50.00817251637228,LANGUAGE <LL@li.org>
+tuxpaint,489,558,200,138,65,49,369,1247,39.21411387329591,LANGUAGE <LL@li.org>

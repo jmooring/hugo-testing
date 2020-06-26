@@ -1,0 +1,102 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+NetworkManager,1446,0,25,342,0,1,1387,1471,98.30047586675731,Belarusian Latin <i18n@mova.org>
+NetworkManager-pptp,114,0,0,41,0,0,109,114,100.0,Belarusian Latin <i18n@mova.org>
+alacarte,42,0,0,16,0,0,39,42,100.0,Belarusian Latin <i18n@mova.org>
+anjuta,6575,3,186,1790,1,22,6107,6764,97.20579538734476,Belarusian <i18n@mova.org>
+asunder,355,44,21,67,8,3,337,420,84.52380952380952,i18n@mova.org <i18n@mova.org>
+at-spi,4,0,0,2,0,0,4,4,100.0,Belarusian Latin <i18n@mova.org>
+atk,370,1,4,123,1,2,333,375,98.66666666666667,i18n@mova.org <i18n@mova.org>
+banshee,2035,38,27,552,34,20,1929,2100,96.9047619047619,Belarusian <i18n@mova.org>
+bug-buddy,1010,0,0,89,0,0,845,1010,100.0,Belarusian Latin <be-latin.open-tran.eu>
+cheese,412,0,115,90,0,9,381,527,78.17836812144212,Belarusian Latin <i18n@mova.org>
+control-center,3185,0,0,769,0,0,2906,3185,100.0,Polish <pl@li.org>
+dasher,526,0,0,198,0,0,512,526,100.0,Belarusian Latin <be-latin.open-tran.eu>
+deskbar-applet,1622,0,32,354,0,1,1460,1654,98.0652962515115,Belarusian Latin <be-latin.open-tran.eu>
+devhelp,360,0,0,91,0,0,323,360,100.0,Belarusian Latin <i18n@mova.org>
+dialog,25,0,0,23,0,0,25,25,100.0,Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net>
+empathy,1448,0,418,439,0,29,1351,1866,77.59914255091104,i18n@mova.org <i18n@mova.org>
+eog,1255,0,0,285,0,0,1103,1255,100.0,Belarusian Latin <be-latin.open-tran.eu>
+epiphany,4246,0,0,918,0,0,3748,4246,100.0,i18n@mova.org <i18n@mova.org>
+evince,1155,0,0,312,0,0,1084,1155,100.0,Belarusian Latin <http://be-latin.open-tran.eu>
+evolution,20518,432,1182,4925,33,95,18252,22132,92.70739201156695,Belarusian Latin <i18n@mova.org>
+f-spot,2871,0,0,767,0,0,2767,2871,100.0,i18n@mova.org <i18n@mova.org>
+file-roller,1267,0,0,284,0,0,1127,1267,100.0,Belarusian Latin <i18n@mova.org>
+gajim,6176,1583,2387,1185,379,376,5354,10146,60.87127932190025,Belarusian Latin <i18n@mova.org>
+gcalctool,564,0,611,277,0,133,566,1175,48.0,Belarusian Latin <i18n@mova.org>
+gconf-editor,335,0,0,99,0,0,309,335,100.0,Belarusian Latin <i18n@mova.org>
+gdm,1260,0,54,234,0,2,1180,1314,95.8904109589041,i18n@mova.org <i18n@mova.org>
+gedit,4948,0,0,1099,0,0,4656,4948,100.0,Belarusian Latin <i18n@mova.org>
+gedit-plugins,198,0,0,54,0,0,173,198,100.0,Belarusian Latin <i18n@mova.org>
+glib2,2102,79,169,332,15,25,2022,2350,89.44680851063829,Belarusian Latin <i18n@mova.org>
+gnome-applets,3334,0,40,788,0,5,3138,3374,98.814463544754,i18n@mova.org <i18n@mova.org>
+gnome-backgrounds,22,0,1,16,0,1,20,23,95.65217391304348,Belarusian Latin <i18n@mova.org>
+gnome-desktop,349,0,0,52,0,0,326,349,100.0,Belarusian Latin <i18n@mova.org>
+gnome-doc-utils,238,0,0,92,0,0,239,238,100.0,Belarusian Latin <i18n@mova.org>
+gnome-icon-theme,43,0,0,38,0,0,44,43,100.0,Belarusian Latin <i18n@mova.org>
+gnome-keyring,1823,0,0,276,0,0,1436,1823,100.0,Belarusian Latin <i18n@mova.org>
+gnome-mag,87,0,211,25,0,17,83,298,29.194630872483224,Belarusian Latin <i18n@mova.org>
+gnome-media,2106,43,0,594,1,0,1904,2149,97.99906933457422,Belarusian Latin <be-latin.open-tran.eu>
+gnome-menus,165,0,0,58,0,0,150,165,100.0,Belarusian Latin <i18n@mova.org>
+gnome-mount,790,0,0,170,0,0,682,790,100.0,i18n@mova.org <i18n@mova.org>
+gnome-netstatus,417,0,0,106,0,0,368,417,100.0,Belarusian Latin <be-latin.open-tran.eu>
+gnome-panel,4487,0,0,615,0,0,3788,4487,100.0,i18n@mova.org <i18n@mova.org>
+gnome-power-manager,2660,0,633,417,0,57,2299,3293,80.77740662010325,Belarusian Latin <i18n@mova.org>
+gnome-screensaver,966,0,0,154,0,0,840,966,100.0,i18n@mova.org <i18n@mova.org>
+gnome-session,533,0,181,108,0,6,461,714,74.64985994397759,Belarusian Latin <be-latin.open-tran.eu>
+gnome-settings-daemon,1034,0,0,171,0,0,845,1034,100.0,Polish <pl@li.org>
+gnome-system-monitor,545,0,368,184,0,54,507,913,59.69331872946331,Belarusian Latin <i18n@mova.org>
+gnome-terminal,3840,0,45,429,0,2,3154,3885,98.84169884169884,Belarusian Latin <i18n@mova.org>
+gnome-themes,109,0,0,30,0,0,120,109,100.0,Belarusian Latin <be-latin.open-tran.eu>
+gnome-utils,4174,0,0,739,0,0,3555,4174,100.0,Belarusian Latin <be-latin.open-tran.eu>
+gst-mixer,2106,43,0,594,1,0,1904,2149,97.99906933457422,Belarusian Latin <be-latin.open-tran.eu>
+gtk2,12109,600,219,2485,120,38,10743,12928,93.66491336633663,Belarusian Latin <i18n@mova.org>
+gtk2-engines,99,0,0,45,0,0,112,99,100.0,Belarusian Latin <be-latin.open-tran.eu>
+gucharmap,530,0,252,213,0,72,510,782,67.77493606138107,Belarusian Latin <i18n@mova.org>
+gvfs,1354,0,0,326,0,0,1338,1354,100.0,Belarusian Latin <i18n@mova.org>
+incollector,587,2,0,185,1,0,529,589,99.66044142614601,Łacinka.org <zolak@lacinka.org>
+isomaster,495,0,179,105,0,2,456,674,73.44213649851632,i18n@mova.org <i18n@mova.org>
+libgnomekbd,235,0,0,49,0,0,217,235,100.0,Belarusian Latin <i18n@mova.org>
+libgnomeprint22,168,0,0,98,0,0,174,168,100.0,Belarusian Latin <be-latin.open-tran.eu>
+libgnomeprintui22,481,0,0,154,0,0,402,481,100.0,Belarusian Latin <be-latin.open-tran.eu>
+libgnomeui,1309,0,0,334,0,0,1115,1309,100.0,Belarusian Latin <i18n@mova.org>
+libgweather,6103,0,0,4560,0,0,6079,6103,100.0,i18n@mova.org <i18n@mova.org>
+libwnck,1124,0,0,241,0,0,1022,1124,100.0,Belarusian Latin <i18n@mova.org>
+liferea,1846,399,169,426,73,34,1749,2414,76.47058823529412,Belarusian Latin
+lxmenu-data,97,0,0,37,0,0,80,97,100.0,Belarusian Latin <i18n@mova.org>
+metacity,3503,122,239,409,2,2,3290,3864,90.65734989648033,i18n@mova.org <i18n@mova.org>
+mingw32-atk,370,1,4,123,1,2,333,375,98.66666666666667,i18n@mova.org <i18n@mova.org>
+mingw32-glib2,2102,79,169,332,15,25,2022,2350,89.44680851063829,Belarusian Latin <i18n@mova.org>
+mingw32-gtk2,12109,600,219,2485,120,38,10743,12928,93.66491336633663,Belarusian Latin <i18n@mova.org>
+nautilus,7522,104,509,1287,8,19,6673,8135,92.46465888137678,i18n@mova.org <i18n@mova.org>
+nautilus-cd-burner,1315,0,0,213,0,0,1171,1315,100.0,Belarusian Latin <i18n@mova.org>
+nautilus-open-terminal,129,0,29,13,0,1,96,158,81.64556962025317,Belarusian Latin <i18n@mova.org>
+nautilus-sendto,289,0,0,60,0,0,251,289,100.0,Belarusian Latin <i18n@mova.org>
+pessulus,88,0,0,30,0,0,94,88,100.0,i18n@mova.org <i18n@mova.org>
+pidgin,13577,3193,1374,3069,689,229,12292,18144,74.82914462081128,Belarusian Latin <be-latin.open-tran.eu>
+poedit,1089,47,26,261,6,2,1023,1162,93.71772805507746,Polish <private>
+rhythmbox,4372,0,0,987,0,0,4078,4372,100.0,Belarusian Latin <i18n@mova.org>
+sabayon,1178,0,0,230,0,0,1200,1178,100.0,i18n@mova.org <i18n@mova.org>
+seahorse,3645,0,0,751,0,0,3280,3645,100.0,Belarusian Latin <be-latin.open-tran.eu>
+seahorse-plugins,3645,0,0,751,0,0,3280,3645,100.0,Belarusian Latin <be-latin.open-tran.eu>
+shared-mime-info,1387,0,0,561,0,0,1435,1387,100.0,Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net>
+snownews,791,0,0,163,0,0,759,791,100.0,
+sonata,900,181,55,275,67,15,888,1136,79.22535211267606,Belarusian (Latin script) <translation-team-be-latin@lists.sourceforge.net>
+sound-juicer,1024,0,0,198,0,0,982,1024,100.0,Belarusian Latin <be-latin.open-tran.eu>
+swfdec-gnome,101,0,0,28,0,0,103,101,100.0,Belarusian <i18n@mova.org>
+system-config-date-docs,0,0,660,0,0,52,0,660,0.0,LANGUAGE <LL@li.org>
+system-config-nfs-docs,0,0,1185,0,0,66,0,1185,0.0,LANGUAGE <LL@li.org>
+system-config-samba-docs,0,0,1188,0,0,62,0,1188,0.0,LANGUAGE <LL@li.org>
+system-config-services-docs,0,0,638,0,0,28,0,638,0.0,LANGUAGE <LL@li.org>
+system-config-users-docs,0,0,1054,0,0,77,0,1054,0.0,LANGUAGE <LL@li.org>
+tomboy,2644,0,0,394,0,0,2438,2644,100.0,Belarusian Latin <be-latin.open-tran.eu>
+totem,2707,35,72,596,3,1,2363,2814,96.19758351101635,Belarusian Latin <i18n@mova.org>
+totem-pl-parser,28,0,0,7,0,0,21,28,100.0,Belarusian Latin <i18n@mova.org>
+tracker,1388,0,0,291,0,0,1277,1388,100.0,Belarusian Latin <i18n@mova.org>
+transmission,1097,0,14,352,0,5,1208,1111,98.73987398739874,Belarusian Latin <i18n@mova.org>
+vinagre,938,0,0,168,0,0,853,938,100.0,Belarusian <i18n@mova.org>
+vino,500,0,554,87,0,25,456,1054,47.43833017077799,Belarusian Latin <i18n@mova.org>
+vte,116,0,0,20,0,0,109,116,100.0,Belarusian Latin <i18n@mova.org>
+xdg-user-dirs,26,0,0,26,0,0,26,26,100.0,Belarusian Latin <i18n@mova.org>
+xdg-user-dirs-gtk,81,0,0,11,0,0,74,81,100.0,Belarusian Latin <i18n@mova.org>
+yelp,1032,0,3,346,0,3,964,1035,99.71014492753623,Belarusian Latin <be-latin.open-tran.eu>
+zenity,582,0,0,135,0,0,541,582,100.0,Belarusian Latin <i18n@mova.org>

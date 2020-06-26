@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-applets,3858,0,0,976,0,0,4892,3858,100.0,Spanish <traductores@es.gnome.org>
+gnucash,3136,8951,12086,871,1779,1049,3549,24173,12.973151863649527,"Spanish es@li.org"""

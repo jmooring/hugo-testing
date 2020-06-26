@@ -1,0 +1,42 @@
+---
+title: "alsa-utils - translation progress for f20"
+package: alsa-utils
+date: 2026-01-17T10:51:58+00:00
+started_languages: 4
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 5
+release: f20
+---
+The package alsa-utils (version 1.0.27.2):
+
+* represents 2224 source words to be translated
+* is translated into 4 languages in Fedora f20
+
+
+* contains 5 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [ru]({{< ref "/f20/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f20/alsa-utils/alsaconf/po/ru.po | 
+ | [de]({{< ref "/f20/language/de.md" >}}) | 1264 | 1686 | 75.0 | /mnt/stockage/packages/f20/alsa-utils/po/de.po | 
+ | [ja]({{< ref "/f20/language/ja.md" >}}) | 1621 | 2224 | 72.9 | /mnt/stockage/packages/f20/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f20/alsa-utils/po/ja.po | 
+ | [fr]({{< ref "/f20/language/fr.md" >}}) | 1148 | 1686 | 68.1 | /mnt/stockage/packages/f20/alsa-utils/po/fr.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

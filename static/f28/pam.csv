@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+deepin-daemon,94,0,1223,54,0,366,103,1317,7.137433561123766,Kapampangan (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/pam/)
+deepin-terminal,37,0,341,26,0,133,39,378,9.788359788359788,Kapampangan (https://www.transifex.com/linuxdeepin/teams/3976/pam/)

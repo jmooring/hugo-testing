@@ -1,0 +1,78 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,10,0,2881,6,0,935,19,2891,0.3459010722933241,LANGUAGE <LL@li.org>
+R,25,0,10035,1,0,1699,34,10060,0.2485089463220676,R-core <R-core@R-project.org>
+TurboGears,0,0,9,0,0,3,0,9,0.0,LANGUAGE <LL@li.org>
+boinc-client,0,0,0,0,0,0,0,0,0.0,
+calcurse,352,1627,2063,88,85,153,352,4042,8.708560118753091,English/GB <en_GB@li.org>
+celestia,102,0,0,89,0,0,191,102,100.0,English
+cherokee,2555,352,797,607,78,107,2555,3704,68.97948164146868,none
+clisp,14227,0,0,1818,0,0,14227,14227,100.0,English <en@li.org>
+cook,997,0,0,214,0,0,1437,997,100.0,
+etoys,32,11,27646,15,4,4408,32,27689,0.11556935967351656,
+fedora-ksplice,0,0,166,0,0,32,0,166,0.0,German
+fish,5291,1534,2087,1006,263,280,5291,8912,59.369389587073606,English <fish-users@lists.sf.net>
+gambas,415,0,0,25,0,0,265,415,100.0,LANGUAGE <LL@li.org>
+gambas2,428,0,0,27,0,0,278,428,100.0,LANGUAGE <LL@li.org>
+gauche,82,0,0,10,0,0,83,82,100.0,
+gnome-applet-cpufire,107,0,828,19,0,53,108,935,11.443850267379679,LANGUAGE <LL@li.org>
+gnomebaker,20,18,1148,7,1,283,20,1186,1.6863406408094435,English <en@li.org>
+gnomecatalog,0,0,127,0,0,63,0,127,0.0,LANGUAGE <LL@li.org>
+gourmet,0,0,3526,0,0,791,0,3526,0.0,English <en@li.org>
+gridengine,0,0,16517,0,0,2644,0,16517,0.0,LANGUAGE <LL@li.org>
+gtklp,591,0,0,211,0,0,590,591,100.0,Nils Philippsen <nils@redhat.de>
+icewm,1,0,1375,1,0,246,0,1376,0.07267441860465117,English
+iso-codes,3967,1777,484,2932,1207,284,3967,6228,63.69621066152858,English
+liblicense,45,0,21,38,0,12,45,66,68.18181818181817,LANGUAGE <LL@li.org>
+lyx,5,0,13660,6,0,4632,6,13665,0.03658982802780827,LyX team <lyx-docs@lists.lyx.org>
+miredo,138,0,445,15,0,57,139,583,23.67066895368782,N/A
+moin,4,36,3660,2,9,624,4,3700,0.10810810810810811,German <moin-devel@lists.sourceforge.net>
+perl-Locale-Maketext-Lexicon,3,0,0,1,0,0,2,3,100.0,Italian <cosimo@cpan.org>
+php-ZendFramework,17,0,0,7,0,0,33,17,100.0,
+picard,1,0,592,1,0,210,24,593,0.16863406408094433,English <en@li.org>
+pmount,0,0,723,0,0,63,0,723,0.0,English <en@li.org>
+po4a,91,0,0,64,0,0,91,91,100.0,LANGUAGE <LL@li.org>
+poker-engine,166,21,0,68,6,0,166,187,88.77005347593582,<pokersource-users@gna.org>
+poker-network,268,80,565,108,30,62,268,913,29.353778751369113,<pokersource-users@gna.org>
+poker2d,268,80,565,108,30,62,268,913,29.353778751369113,<pokersource-users@gna.org>
+poweradmin,0,0,858,0,0,156,0,858,0.0,LANGUAGE <LL@li.org>
+pyrenamer,596,0,0,85,0,0,600,596,100.0,English
+python-nevow,4,0,10,3,0,1,4,14,28.57142857142857,LANGUAGE <LL@li.org>
+qt3,482,0,0,200,0,0,486,482,100.0,
+quarry,1807,0,0,447,0,0,1804,1807,100.0,
+rawstudio,563,6,35,237,3,17,563,604,93.21192052980133,Rawstudio development <rawstudio-dev@rawstudio.org>
+rosegarden4,0,0,11070,0,0,2340,0,11070,0.0,none>
+roundup,0,0,0,0,0,0,0,0,0.0,English
+roxterm,1724,213,269,320,18,36,1724,2206,78.15049864007253,English
+rt3,4,0,0,3,0,0,3,4,100.0,rt-devel <rt-devel@lists.bestpractical.com>
+schroot,1310,0,0,286,0,0,1317,1310,100.0,English <rleigh@debian.org>
+smokeping,34,0,0,17,0,0,34,34,100.0,none
+spe,0,0,284,0,0,53,0,284,0.0,LANGUAGE <LL@li.org>
+stellarium,518,536,1353,347,233,339,518,2407,21.52056501869547,English
+subdownloader,176,0,965,176,0,278,543,1141,15.425065731814197,
+sugar,15,0,478,2,0,139,16,493,3.0425963488843815,LANGUAGE <LL@li.org>
+sugar-base,0,0,5,0,0,5,0,5,0.0,LANGUAGE <LL@li.org>
+sugar-browse,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-calculator,106,25,485,45,17,86,178,616,17.20779220779221,English
+sugar-chat,0,0,21,0,0,10,0,21,0.0,LANGUAGE <LL@li.org>
+sugar-clock,38,0,0,17,0,0,568,38,100.0,English
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,0,0,17,0,0,9,0,17,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,177,0,0,56,0,177,0.0,LANGUAGE <LL@li.org>
+sugar-journal,0,0,68,0,0,43,0,68,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,0,0,10,0,0,6,0,10,0.0,LANGUAGE <LL@li.org>
+sugar-log,0,0,100,0,0,22,0,100,0.0,LANGUAGE <LL@li.org>
+sugar-memorize,0,0,52,0,0,27,0,52,0.0,LANGUAGE <LL@li.org>
+sugar-pippy,0,0,40,0,0,12,0,40,0.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-record,0,0,137,0,0,73,0,137,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,0,0,6,0,0,4,0,6,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit,0,0,59,0,0,28,0,59,0.0,LANGUAGE <LL@li.org>
+sugar-turtleart,2,0,76,1,0,54,1,78,2.564102564102564,LANGUAGE <walter@sugarlabs.org>
+sugar-update-control,0,0,159,0,0,42,0,159,0.0,LANGUAGE <LL@li.org>
+sugar-write,0,0,73,0,0,44,0,73,0.0,LANGUAGE <LL@li.org>
+tucan,0,0,114,0,0,41,0,114,0.0,LANGUAGE <LL@li.org>
+vidalia,368,0,100,42,0,4,369,468,78.63247863247864,translations@vidalia-project.net
+wdm,3,0,35,1,0,24,269,38,7.894736842105263,
+wxGlade,0,0,284,0,0,53,0,284,0.0,LANGUAGE <LL@li.org>
+xen,22,0,0,22,0,0,196,22,100.0,xen-devel <xen-devel@lists.xensource.com>
+xmms,3177,65,201,1003,17,25,3177,3443,92.27417949462678,English

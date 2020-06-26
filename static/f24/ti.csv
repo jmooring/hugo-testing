@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,151,0,152113,147,0,17586,147,152264,0.09916986286975253,Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/)
+iso-codes,387,4014,11306,353,2987,6841,379,15707,2.463869612274782,Tigrinya
+libreoffice,495,21,99172,174,28,31222,470,99688,0.4965492336088596,LANGUAGE <LL@li.org>

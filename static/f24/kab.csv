@@ -1,0 +1,15 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+blueberry,138,0,3,32,0,2,148,141,97.87234042553192,Kabyle <kab@li.org>
+cinnamon-translations,3462,0,10089,1019,0,2207,3800,13551,25.547930042063317,Kabyle <kab@li.org>
+filezilla,9713,147,48,1671,22,4,10866,9908,98.03189341945902,Yacine Bouklif <yacine2953-asuqqel@yahoo.fr>
+gdm,650,0,0,87,0,0,752,650,100.0,GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr>
+mintmenu,17,0,1864,8,0,331,26,1881,0.9037745879851143,Kabyle <kab@li.org>
+nemo-extensions,8,0,0,2,0,0,8,8,100.0,Kabyle <kab@li.org>
+openerp,6,0,10710,5,0,1567,7,10716,0.055991041433370664,Kabyle <kab@li.org>
+openerp7,5,0,10652,4,0,1607,6,10657,0.0469175190015952,Kabyle <kab@li.org>
+pix,991,0,2732,374,0,822,1112,3723,26.618318560300835,Kabyle <kab@li.org>
+poedit,2528,0,1,538,0,1,2631,2529,99.96045867931988,Kabyle
+xed,1157,0,3306,270,0,689,1204,4463,25.924266188662337,Kabyle <kab@li.org>
+xplayer,237,0,1749,100,0,400,255,1986,11.933534743202417,Kabyle <kab@li.org>
+xreader,412,0,1225,123,0,257,469,1637,25.167990226023214,Kabyle <kab@li.org>
+xviewer,251,0,1426,103,0,221,284,1677,14.967203339296361,Kabyle <kab@li.org>

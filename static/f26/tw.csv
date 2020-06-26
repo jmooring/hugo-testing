@@ -1,0 +1,42 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,0,0,7236,0,0,1198,0,7236,0.0,Twi
+appcenter,0,0,681,0,0,147,0,681,0.0,LANGUAGE <LL@li.org>
+audience,0,0,106,0,0,48,0,106,0.0,
+blivet-gui,0,0,711,0,0,191,0,711,0.0,Twi
+dippi,0,0,397,0,0,53,0,397,0.0,none
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Twi
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Twi
+entangle,0,0,935,0,0,209,0,935,0.0,Twi
+harvey,0,0,57,0,0,12,0,57,0.0,none
+initial-setup,0,0,33,0,0,7,0,33,0.0,Twi
+libbytesize,0,0,17,0,0,17,0,17,0.0,Twi
+libosinfo,0,0,662,0,0,145,0,662,0.0,Twi
+libvirt,0,0,60645,0,0,9430,0,60645,0.0,Twi
+libvirt-glib,0,0,145,0,0,29,0,145,0.0,Twi
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Twi
+maya-calendar,0,0,394,0,0,164,0,394,0.0,LANGUAGE <LL@li.org>
+mingw-libosinfo,0,0,2049,0,0,604,0,2049,0.0,Twi
+mingw-libvirt,0,0,60660,0,0,9432,0,60660,0.0,Twi
+mingw-libvirt-glib,0,0,145,0,0,29,0,145,0.0,Twi
+noise,0,0,1322,0,0,377,0,1322,0.0,LANGUAGE <LL@li.org>
+osinfo-db-tools,0,0,56,0,0,12,0,56,0.0,Twi
+pam,0,0,597,0,0,120,0,597,0.0,Twi
+pantheon-agent-polkit,0,0,15,0,0,8,0,15,0.0,LANGUAGE <LL@li.org>
+pantheon-calculator,0,0,52,0,0,32,0,52,0.0,LANGUAGE <LL@li.org>
+pantheon-files,0,0,2487,0,0,492,0,2487,0.0,LANGUAGE <LL@li.org>
+pantheon-photos,0,0,3977,0,0,856,0,3977,0.0,LANGUAGE <LL@li.org>
+pykickstart,0,0,1386,0,0,152,0,1386,0.0,Twi
+python-blivet1,0,0,707,0,0,132,0,707,0.0,Twi
+python-fedora,0,0,214,0,0,29,0,214,0.0,Twi
+python-meh,0,0,109,0,0,23,0,109,0.0,Twi
+scratch-text-editor,0,0,681,0,0,198,0,681,0.0,LANGUAGE <LL@li.org>
+screenshot-tool,0,0,146,0,0,44,0,146,0.0,LANGUAGE <LL@li.org>
+switchboard,0,0,41,0,0,13,0,41,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,0,0,210,0,0,79,0,210,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,72,0,0,22,0,72,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-display,0,0,33,0,0,15,0,33,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,132,0,0,51,0,132,0.0,
+switchboard-plug-printers,0,0,288,0,0,117,0,288,0.0,LANGUAGE <LL@li.org>
+tuxpaint,475,881,235,137,93,61,539,1591,29.85543683218102,
+virt-viewer,0,0,784,0,0,169,0,784,0.0,Twi
+vocal,0,0,377,0,0,79,0,377,0.0,Twi <tw@li.org>

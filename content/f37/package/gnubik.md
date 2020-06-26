@@ -1,0 +1,69 @@
+---
+title: "gnubik - translation progress for f37"
+package: gnubik
+date: 2026-01-18T05:28:57+00:00
+started_languages: 31
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 31
+release: f37
+---
+The package gnubik (version 2.4.3):
+
+* represents 279 source words to be translated
+* is translated into 31 languages in Fedora f37
+
+
+* contains 31 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [da]({{< ref "/f37/language/da.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/da.po | 
+ | [eo]({{< ref "/f37/language/eo.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/eo.po | 
+ | [fi]({{< ref "/f37/language/fi.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/fi.po | 
+ | [fr]({{< ref "/f37/language/fr.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/fr.po | 
+ | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/nb.po | 
+ | [nl]({{< ref "/f37/language/nl.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/nl.po | 
+ | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/pt_BR.po | 
+ | [sr]({{< ref "/f37/language/sr.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/sr.po | 
+ | [sv]({{< ref "/f37/language/sv.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/sv.po | 
+ | [uk]({{< ref "/f37/language/uk.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/uk.po | 
+ | [vi]({{< ref "/f37/language/vi.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f37/gnubik/po/vi.po | 
+ | [de]({{< ref "/f37/language/de.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f37/gnubik/po/de.po | 
+ | [hr]({{< ref "/f37/language/hr.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f37/gnubik/po/hr.po | 
+ | [it]({{< ref "/f37/language/it.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f37/gnubik/po/it.po | 
+ | [pl]({{< ref "/f37/language/pl.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f37/gnubik/po/pl.po | 
+ | [sl]({{< ref "/f37/language/sl.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f37/gnubik/po/sl.po | 
+ | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 256 | 279 | 91.8 | /mnt/stockage/packages/f37/gnubik/po/zh_CN.po | 
+ | [ar]({{< ref "/f37/language/ar.md" >}}) | 223 | 279 | 79.9 | /mnt/stockage/packages/f37/gnubik/po/ar.po | 
+ | [gl]({{< ref "/f37/language/gl.md" >}}) | 200 | 279 | 71.7 | /mnt/stockage/packages/f37/gnubik/po/gl.po | 
+ | [bg]({{< ref "/f37/language/bg.md" >}}) | 100 | 279 | 35.8 | /mnt/stockage/packages/f37/gnubik/po/bg.po | 
+ | [pt]({{< ref "/f37/language/pt.md" >}}) | 96 | 279 | 34.4 | /mnt/stockage/packages/f37/gnubik/po/pt.po | 
+ | [el]({{< ref "/f37/language/el.md" >}}) | 84 | 279 | 30.1 | /mnt/stockage/packages/f37/gnubik/po/el.po | 
+ | [eu]({{< ref "/f37/language/eu.md" >}}) | 84 | 279 | 30.1 | /mnt/stockage/packages/f37/gnubik/po/eu.po | 
+ | [ru]({{< ref "/f37/language/ru.md" >}}) | 84 | 279 | 30.1 | /mnt/stockage/packages/f37/gnubik/po/ru.po | 
+ | [ca]({{< ref "/f37/language/ca.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f37/gnubik/po/ca.po | 
+ | [es]({{< ref "/f37/language/es.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f37/gnubik/po/es.po | 
+ | [he]({{< ref "/f37/language/he.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f37/gnubik/po/he.po | 
+ | [ms]({{< ref "/f37/language/ms.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f37/gnubik/po/ms.po | 
+ | [ro]({{< ref "/f37/language/ro.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f37/gnubik/po/ro.po | 
+ | [tr]({{< ref "/f37/language/tr.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f37/gnubik/po/tr.po | 
+ | [en_US]({{< ref "/f37/language/en_US.md" >}}) | 35 | 279 | 12.5 | /mnt/stockage/packages/f37/gnubik/po/en_US.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

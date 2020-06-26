@@ -1,0 +1,55 @@
+---
+title: "mingw-gdb - translation progress for f14"
+package: mingw-gdb
+date: 2026-01-17T09:15:47+00:00
+started_languages: 17
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 27
+release: f14
+---
+The package mingw-gdb (version 7.2):
+
+* represents 7765 source words to be translated
+* is translated into 17 languages in Fedora f14
+
+
+* contains 27 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [da]({{< ref "/f14/language/da.md" >}}) | 4129 | 4129 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/da.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/da.po | 
+ | [de]({{< ref "/f14/language/de.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/opcodes/po/de.po | 
+ | [es]({{< ref "/f14/language/es.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/es.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/es.po | 
+ | [fi]({{< ref "/f14/language/fi.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/fi.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/fi.po | 
+ | [fr]({{< ref "/f14/language/fr.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/fr.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/fr.po | 
+ | [ga]({{< ref "/f14/language/ga.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/opcodes/po/ga.po | 
+ | [id]({{< ref "/f14/language/id.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/id.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/id.po | 
+ | [nl]({{< ref "/f14/language/nl.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/opcodes/po/nl.po | 
+ | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/opcodes/po/pt_BR.po | 
+ | [ro]({{< ref "/f14/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/ro.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/ro.po | 
+ | [ru]({{< ref "/f14/language/ru.md" >}}) | 6373 | 6373 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/ru.po | 
+ | [sv]({{< ref "/f14/language/sv.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/sv.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/sv.po | 
+ | [tr]({{< ref "/f14/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/tr.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/tr.po | 
+ | [vi]({{< ref "/f14/language/vi.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/vi.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/vi.po | 
+ | [ja]({{< ref "/f14/language/ja.md" >}}) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/ja.po | 
+ | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f14/mingw-gdb/opcodes/po/zh_CN.po | 
+ | [rw]({{< ref "/f14/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f14/mingw-gdb/bfd/po/rw.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

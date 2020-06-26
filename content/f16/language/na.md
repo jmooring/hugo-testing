@@ -1,0 +1,72 @@
+---
+title: "na-Nauru (Dorerin Naoero) - translation progress for f16"
+date: 2026-01-20T02:38:28+00:00
+code: na
+name_english: Nauru
+name_local: Dorerin Naoero
+progress: 0.54
+progress_d: 0.00
+release: f16
+territories:
+ - NR
+polib_error_count: 0
+could_not_process_count: 18
+---
+
+Language progress for Nauru (na) in Fedora f16 is:
+
+* 0.54% when we only look on started packages for this language.
+* 0.00% when we compare to every single translatable string in Fedora f16.
+
+Possible scripts are: Latn
+
+* Total translatable string in Fedora f16: 9698971
+* Source words to translate in started packages: 3316
+* Translated words: 18
+
+
+Download:
+
+
+
+
+* [na generated stats (1.0 kB)]({{% resource url="/f16/na.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [sugar-chat]({{< ref "/f16/package/sugar-chat.md" >}}) | 18 | 50 | 36.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop]({{< ref "/f16/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus]({{< ref "/f16/package/sugar-abacus.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock]({{< ref "/f16/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance]({{< ref "/f16/package/sugar-finance.md" >}}) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer]({{< ref "/f16/package/sugar-infoslicer.md" >}}) | 0 | 184 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth]({{< ref "/f16/package/sugar-labyrinth.md" >}}) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize]({{< ref "/f16/package/sugar-memorize.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon]({{< ref "/f16/package/sugar-moon.md" >}}) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics]({{< ref "/f16/package/sugar-physics.md" >}}) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo]({{< ref "/f16/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler]({{< ref "/f16/package/sugar-ruler.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-tamtam]({{< ref "/f16/package/sugar-tamtam.md" >}}) | 0 | 2077 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides]({{< ref "/f16/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch]({{< ref "/f16/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+

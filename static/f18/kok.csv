@@ -1,0 +1,4 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+calibre,126,0,10370,121,0,7586,124,10496,1.2004573170731707,Konkani
+iso-codes,250,4198,10848,239,3069,6736,244,15296,1.6344142259414225,Konkani
+libreoffice,59313,3068,29390,19794,1211,7071,54837,91771,64.63152847849538,LANGUAGE <LL@li.org>

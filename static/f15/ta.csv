@@ -1,0 +1,328 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+Django,1181,0,2794,337,0,931,971,3975,29.71069182389937,Tamil <None>
+GConf2,4035,0,0,484,0,0,3201,4035,100.0,Tamil <fedora-trans-ta@redhat.com>
+LabPlot,0,1535,1715,0,808,541,0,3250,0.0,LANGUAGE <LL@li.org>
+Miro,194,0,3142,104,0,620,187,3336,5.815347721822542,Tamil <ta@li.org>
+NetworkManager,2497,0,0,543,0,0,2234,2497,100.0,American English <kde-i18n-doc@kde.org>
+NetworkManager-openconnect,52,0,0,19,0,0,53,52,100.0,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-openswan,139,0,0,36,0,0,142,139,100.0,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-openvpn,189,0,0,59,0,0,185,189,100.0,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-pptp,144,0,0,44,0,0,151,144,100.0,Tamil <fedora-trans-ta@redhat.com>
+NetworkManager-vpnc,139,0,0,36,0,0,142,139,100.0,Tamil <fedora-trans-ta@redhat.com>
+PackageKit,1479,0,141,354,0,21,1158,1620,91.2962962962963,LANGUAGE <LL@li.org>
+abrt,290,209,1103,67,18,146,263,1602,18.102372034956304,Tamil <tamil-users@lists.fedoraproject.org>
+alacarte,42,0,0,16,0,0,45,42,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+anaconda,8090,0,1356,1092,0,81,6258,9446,85.64471734067331,Tamil <tamil-users@lists.fedoraproject.org>
+at-spi,50,0,0,7,0,0,38,50,100.0,Tamil <fedora-trans-ta@redhat.com>
+at-spi2-atk,50,0,0,7,0,0,38,50,100.0,Tamil <fedora-trans-ta@redhat.com>
+atk,375,0,0,126,0,0,303,375,100.0,Tamil <fedora-trans-ta@redhat.com>
+atomix,123,0,2,43,0,1,118,125,98.4,Tamil <tamilinix@yahoogroups.com>
+audit-viewer,71,0,540,20,0,165,71,611,11.620294599018004,Tamil <tamil-users@lists.fedoraproject.org>
+authconfig,1272,44,24,231,4,4,1024,1340,94.92537313432837,Tamil <kde-i18n-doc@kde.org>
+avant-window-navigator,63,10,1756,33,5,279,69,1829,3.444505194095134,Tamil <ta@li.org>
+bluefish,1416,926,1477,698,342,245,1581,3819,37.0777690494894,Not a member <LL@li.org>
+blueman,12,0,1364,10,0,342,16,1376,0.872093023255814,Tamil <ta@li.org>
+brasero,5493,0,0,971,0,0,4566,5493,100.0,American English <kde-i18n-doc@kde.org>
+calibre,66,0,29583,12,0,3294,55,29649,0.22260447232621675,Tamil <ta@li.org>
+camorama,559,0,0,133,0,0,451,559,100.0,Tamil <zhakanini@yahoogroups.com>
+caribou,23,0,0,11,0,0,27,23,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+certmonger,2,0,1027,1,0,172,2,1029,0.1943634596695821,Tamil <tamil-users@lists.fedoraproject.org>
+cheese,294,0,0,72,0,0,283,294,100.0,American English <kde-i18n-doc@kde.org>
+chkconfig,487,0,0,93,0,0,428,487,100.0,Tamil <tamil-users@lists.fedoraproject.org>
+colord,25,0,363,8,0,91,22,388,6.443298969072164,LANGUAGE <LL@li.org>
+compiz,4,69,3177,4,30,683,4,3250,0.12307692307692308,Tamil <i18n@suse.de>
+control-center,3662,0,0,1495,0,0,3406,3662,100.0,Tamil <kde-i18n-doc@kde.org>
+cracklib,93,0,0,15,0,0,72,93,100.0,Tamil <fedora-trans-ta@redhat.com>
+dasher,526,0,0,198,0,0,528,526,100.0,<en@li.org>
+dbmail,443,14,0,38,1,0,348,457,96.93654266958424,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+deskbar-applet,1670,0,0,356,0,0,1465,1670,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+devhelp,318,0,1,80,0,1,270,319,99.68652037617555,<en@li.org>
+drwright,122,18,51,17,4,8,107,191,63.87434554973822,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+ekiga,4264,0,0,716,0,0,3451,4264,100.0,American English <kde-i18n-doc@kde.org>
+empathy,3874,0,0,849,0,0,3422,3874,100.0,American English <kde-i18n-doc@kde.org>
+eog,1566,0,0,312,0,0,1294,1566,100.0,American English <kde-i18n-doc@kde.org>
+eog-plugins,100,0,0,32,0,0,87,100,100.0,Tamil <fedora-trans-ta@redhat.com>
+epiphany,2268,0,0,638,0,0,2215,2268,100.0,American English <kde-i18n-doc@kde.org>
+epiphany-extensions,888,0,0,244,0,0,795,888,100.0,Tamil <fedora-trans-ta@redhat.com>
+etoys,30063,0,0,5107,0,0,22122,30063,100.0,
+evince,1419,0,0,364,0,0,1227,1419,100.0,American English <kde-i18n-doc@kde.org>
+evolution,21831,0,0,4491,0,0,18479,21831,100.0,American English <kde-i18n-doc@kde.org>
+evolution-data-server,4584,0,0,963,0,0,4265,4584,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+evolution-exchange,2204,0,0,360,0,0,1844,2204,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+evolution-mapi,518,0,0,107,0,0,492,518,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+evolution-rss,728,0,0,198,0,0,681,728,100.0,Tamil <fedora-trans-ta@redhat.com>
+exaile,220,0,2597,127,0,637,206,2817,7.809726659566915,Tamil <ta@li.org>
+f-spot,3553,0,0,886,0,0,3187,3553,100.0,Tamil <fedora-trans-ta@redhat.com>
+file-roller,1519,0,0,335,0,0,1270,1519,100.0,American English <kde-i18n-doc@kde.org>
+firewalld,615,0,0,90,0,0,537,615,100.0,Tamil <kde-i18n-doc@kde.org>
+firstboot,654,0,0,54,0,0,498,654,100.0,Tamil <fedora-trans-ta@redhat.com>
+fuse-encfs,13,0,1302,3,0,136,9,1315,0.988593155893536,Tamil <ta@li.org>
+gcalctool,1379,0,0,428,0,0,1298,1379,100.0,American English <kde-i18n-doc@kde.org>
+gcompris,10596,0,0,1223,0,0,7787,10596,100.0,American English <Ubuntu-l10n-tam@lists.ubuntu.com>
+gconf-editor,336,0,0,98,0,0,318,336,100.0,Tamil <fedora-trans-ta@redhat.com>
+gdesklets,106,0,1422,50,0,154,100,1528,6.9371727748691105,Tamil <ta@li.org>
+gdk-pixbuf2,1192,61,60,184,9,7,998,1313,90.78446306169079,Tamil <fedora-trans-ta@redhat.com>
+gdm,1094,0,0,205,0,0,893,1094,100.0,American English <kde-i18n-doc@kde.org>
+gedit,4304,0,0,732,0,0,3576,4304,100.0,American English <kde-i18n-doc@kde.org>
+gedit-plugins,939,149,117,399,47,23,943,1205,77.92531120331951,American English <Ubuntu-l10n-tam@lists.ubuntu.com>>
+gftp,2544,473,358,478,121,35,1986,3375,75.37777777777778,Tamil <en@li.org>
+ggz-base-libs,74,0,0,17,0,0,62,74,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+ggz-gtk-client,773,0,0,244,0,0,665,773,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+gimp,12099,0,0,2832,0,0,11357,12099,100.0,<en@li.org>
+glade3,17,190,2742,11,92,689,16,2949,0.5764665988470667,Tamil <tamilinix@yahoogroups.com>
+glib2,2420,263,1007,393,54,113,2123,3690,65.58265582655827,<en@li.org>
+gnome-applets,3407,0,0,796,0,0,2964,3407,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-backgrounds,29,0,0,17,0,0,29,29,100.0,American English <kde-i18n-doc@kde.org>
+gnome-bluetooth,662,0,0,192,0,0,613,662,100.0,American English <kde-i18n-doc@kde.org>
+gnome-color-manager,2169,0,0,369,0,0,1713,2169,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-desktop,349,0,0,53,0,0,263,349,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-desktop3,207,0,0,23,0,0,172,207,100.0,American English <kde-i18n-doc@kde.org>
+gnome-disk-utility,4544,0,0,1077,0,0,4045,4544,100.0,American English <kde-i18n-doc@kde.org>
+gnome-do,40,0,572,23,0,121,43,612,6.535947712418301,Tamil <ta@li.org>
+gnome-doc-utils,251,0,0,101,0,0,251,251,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-games,6370,0,0,1452,0,0,5343,6370,100.0,American English <kde-i18n-doc@kde.org>
+gnome-gmail,268,0,91,39,0,8,199,359,74.65181058495823,LANGUAGE <LL@li.org>
+gnome-icon-theme,51,0,0,46,0,0,52,51,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+gnome-keyring,1174,0,0,243,0,0,965,1174,100.0,American English <kde-i18n-doc@kde.org>
+gnome-libs,917,3,165,327,3,65,836,1085,84.51612903225806,Tamil
+gnome-mag,298,0,0,42,0,0,251,298,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+gnome-media,1234,0,0,310,0,0,1034,1234,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-menus,161,0,0,57,0,0,156,161,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+gnome-mime-data,887,0,0,362,0,0,926,887,100.0,Tamil <zhakanini@yahoogroups.com>
+gnome-netstatus,418,0,0,106,0,0,361,418,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+gnome-packagekit,4918,0,0,836,0,0,3674,4918,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+gnome-panel,3688,0,0,515,0,0,2634,3688,100.0,American English <kde-i18n-doc@kde.org>
+gnome-pilot,1782,0,0,340,0,0,1508,1782,100.0,Tamil <fedora-trans-ta@redhat.com>
+gnome-power-manager,1418,0,0,342,0,0,1384,1418,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-screensaver,291,0,0,58,0,0,232,291,100.0,American English <kde-i18n-doc@kde.org>
+gnome-session,446,0,0,92,0,0,387,446,100.0,American English <kde-i18n-doc@kde.org>
+gnome-settings-daemon,2916,0,0,394,0,0,2233,2916,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell,964,0,0,239,0,0,822,964,100.0,American English <kde-i18n-doc@kde.org>
+gnome-system-monitor,935,0,0,244,0,0,906,935,100.0,American English <kde-i18n-doc@kde.org>
+gnome-terminal,4204,0,0,493,0,0,3098,4204,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnome-themes,109,0,0,30,0,0,117,109,100.0,Tamil <fedora-trans-ta@redhat.com>
+gnome-user-share,333,0,0,52,0,0,273,333,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+gnome-utils,3576,0,0,683,0,0,2838,3576,100.0,American English <kde-i18n-doc@kde.org>
+gnome-vfs2,1508,0,0,301,0,0,1164,1508,100.0,Tamil <ta@li.org>
+gnome-video-effects,17,2,7,15,2,6,18,26,65.38461538461539,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+gnote,2074,0,0,312,0,0,1824,2074,100.0,Tamil <fedora-trans-ta@redhat.com>
+gnotime,18,165,1825,16,75,338,19,2008,0.8964143426294822,Tamil
+gnucash,4396,0,21930,1343,0,2755,3938,26326,16.698321051432043,Tamil (http://www.transifex.net/projects/p/gnucash24/team/ta/)
+gok,1915,0,0,434,0,0,1501,1915,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+gtk-doc,3873,0,3360,230,0,99,2589,7233,53.546246370800496,ta_IN <kde-i18n-doc@kde.org>
+gtk2,13259,295,150,2717,49,18,10572,13704,96.75277291301809,Tamil <fedora-trans-ta@redhat.com>
+gtk2-engines,119,0,0,47,0,0,107,119,100.0,Tamil <fedora-trans-ta@redhat.com>
+gtk3,10973,661,219,2331,123,33,8698,11853,92.57571922719985,Tamil <fedora-trans-ta@redhat.com>
+gtkhtml3,485,0,0,309,0,0,553,485,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+gtksourceview,849,0,0,342,0,0,799,849,100.0,Tamil <ta@li.org>
+gtksourceview2,1413,0,0,538,0,0,1304,1413,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+gtksourceview3,1482,0,0,590,0,0,1374,1482,100.0,American English <kde-i18n-doc@kde.org>
+gtranslator,543,337,534,199,56,114,495,1414,38.401697312588404,Tamil <tamilinix@yahoogroups.com>
+gucharmap,896,0,0,337,0,0,860,896,100.0,American English <kde-i18n-doc@kde.org>
+gvfs,2011,0,0,469,0,0,1841,2011,100.0,American English <kde-i18n-doc@kde.org>
+hamster-applet,720,0,0,182,0,0,671,720,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+homebank,62,0,1447,51,0,483,75,1509,4.108681245858184,Tamil <ta@li.org>
+ibus,610,0,0,117,0,0,487,610,100.0,Tamil <tamil-users@lists.fedoraproject.org>
+im-chooser,135,0,91,33,0,20,113,226,59.73451327433629,LANGUAGE <LL@li.org>
+imsettings,178,0,226,33,0,41,146,404,44.05940594059406,LANGUAGE <LL@li.org>
+initscripts,4349,0,0,1070,0,0,4101,4349,100.0,Tamil <fedora-trans-ta@redhat.com>
+iok,142,0,0,36,0,0,116,142,100.0,Tamil <fedora-trans-ta@redhat.com>
+iso-codes,11441,125,35,8076,71,13,11122,11601,98.62080855098698,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+jmol,287,0,2444,204,0,693,298,2731,10.508971072867082,Tamil <ta@li.org>
+kaudiocreator,685,100,351,171,42,60,561,1136,60.29929577464789,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+kcoloredit,11,95,172,7,32,56,13,278,3.9568345323741005,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+kdetv,1801,243,162,425,19,39,1489,2206,81.64097914777878,<tamilpc@ambalam.com>
+kdiff3,1855,542,1120,356,114,167,1511,3517,52.743815752061415,<ta@li.org>
+keurocalc,205,68,18,93,14,9,201,291,70.44673539518901,TAMIL <tamilinix@yahoogroups.com>
+kexec-tools,206,0,0,14,0,0,144,206,100.0,<en@li.org>
+kiconedit,724,0,2,154,0,1,583,726,99.72451790633609,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+kio_gopher,16,1,0,4,1,0,15,17,94.11764705882352,Tamil <ta@i18n.kde.org>
+koffice-kivio,5396,766,2255,1658,385,318,4791,8417,64.10835214446952,Tamil <ta@li.org>
+konq-plugins,1084,257,172,346,48,74,955,1513,71.64573694646398,<ta@li.org>
+kpilot,2420,2182,2554,471,222,168,1899,7156,33.81777529346003,<ta@li.org>
+krecipes,1561,427,1099,287,110,171,1139,3087,50.56689342403629,Tamil <ta@i18n.kde.org>
+ksig,71,2,12,17,1,8,61,85,83.52941176470588,KDE <kde-i18n-doc@kde.org>
+kst,3254,1709,2483,845,517,450,2662,7446,43.701316142895514,<ta@li.org>
+leafpad,92,10,23,49,6,13,98,125,73.6,Tamil <tamilinix@yahoogroups.com>
+libbonobo,543,0,0,107,0,0,478,543,100.0,Tamil <fedora-trans-ta@redhat.com>
+libbonoboui,368,0,0,115,0,0,305,368,100.0,Tamil <fedora-trans-ta@redhat.com>
+libgnome,1772,0,0,273,0,0,1352,1772,100.0,Tamil <fedora-trans-ta@redhat.com>
+libgnome-keyring,44,0,0,9,0,0,43,44,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+libgnome-media-profiles,446,0,14,49,0,2,275,460,96.95652173913044,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+libgnomecanvas,378,0,0,95,0,0,301,378,100.0,தமிழ் <ubuntu-l10n-tam@lists.ubuntu.com>
+libgnomekbd,242,0,0,55,0,0,208,242,100.0,American English <kde-i18n-doc@kde.org>
+libgnomeprint22,168,0,0,98,0,0,160,168,100.0,Tamil <zhakanini@yahoogroups.com>
+libgnomeprintui22,481,0,0,154,0,0,387,481,100.0,Tamil <ta@li.org>
+libgnomeui,1226,0,0,320,0,0,982,1226,100.0,Tamil <fedora-trans-ta@redhat.com>
+libgtop2,126,0,0,40,0,0,113,126,100.0,<en@li.org>
+libguestfs,1749,1761,1708,309,120,176,1569,5218,33.51858949789192,ta_IN <kde-i18n-doc@kde.org>
+libgweather,6090,0,0,4555,0,0,6138,6090,100.0,Tamil <fedora-trans-ta@redhat.com>
+libgxim,0,0,130,0,0,26,0,130,0.0,none
+libkexif,21,4,0,13,1,0,20,25,84.0,LANGUAGE <LL@li.org>
+libpeas,106,0,0,27,0,0,94,106,100.0,Tamil <ta@li.org>
+libreport,305,0,348,57,0,40,269,653,46.70750382848392,LANGUAGE <LL@li.org>
+libuser,1134,0,0,237,0,0,996,1134,100.0,Tamil <tamil-users@lists.fedoraproject.org>
+libvirt,11419,6926,4817,2172,1202,603,9881,23162,49.30057853380537,Tamil <trans-ta@lists.fedoraproject.org>
+libwnck,1124,0,0,241,0,0,959,1124,100.0,Tamil <fedora-trans-ta@redhat.com>
+libwnck3,1124,0,0,241,0,0,959,1124,100.0,Tamil <fedora-trans-ta@redhat.com>
+libxfcegui4,38,7,94,18,4,22,30,139,27.33812949640288,Tamil <translation-team-ta@lists.sourceforge.net>
+lxmenu-data,97,0,0,37,0,0,91,97,100.0,TAMIL <ubuntu-l10n-tam@lists.ubuntu.com>
+mc,37,0,3818,25,0,1100,39,3855,0.959792477302205,LANGUAGE <LL@li.org>
+metacity,3700,0,0,406,0,0,2787,3700,100.0,American English <kde-i18n-doc@kde.org>
+mingw-gtk3,10973,661,219,2331,123,33,8698,11853,92.57571922719985,Tamil <fedora-trans-ta@redhat.com>
+mingw32-atk,375,0,0,126,0,0,303,375,100.0,Tamil <fedora-trans-ta@redhat.com>
+mingw32-gdk-pixbuf,1192,61,60,184,9,7,998,1313,90.78446306169079,Tamil <fedora-trans-ta@redhat.com>
+mingw32-glib2,2420,263,1007,393,54,113,2123,3690,65.58265582655827,<en@li.org>
+mingw32-gtk2,13259,295,150,2717,49,18,10572,13704,96.75277291301809,Tamil <fedora-trans-ta@redhat.com>
+mingw32-gtkhtml3,485,0,0,309,0,0,553,485,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+mingw32-libvirt,11419,6926,4817,2172,1202,603,9881,23162,49.30057853380537,Tamil <trans-ta@lists.fedoraproject.org>
+mlocate,322,0,241,5,0,45,322,563,57.19360568383659,Tamil <tamil-users@lists.fedoraproject.org>
+mousepad,95,12,28,52,5,7,102,135,70.37037037037037,Tamil <tamilinix@yahoogroups.com>
+mousetweaks,237,0,0,64,0,0,228,237,100.0,American English <kde-i18n-doc@kde.org>
+multimedia-menus,56,0,0,22,0,0,58,56,100.0,Tamil <fedora-trans-ta@redhat.com>
+mutter,2422,0,0,353,0,0,1945,2422,100.0,American English <kde-i18n-doc@kde.org>
+mutter-mbl,2453,0,0,360,0,0,1974,2453,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+nautilus,7129,0,0,1128,0,0,5531,7129,100.0,American English <kde-i18n-doc@kde.org>
+nautilus-actions,3402,0,0,299,0,0,2932,3402,100.0,Tamil <fedora-trans-ta@redhat.com>
+nautilus-open-terminal,166,0,0,16,0,0,129,166,100.0,Tamil <fedora-trans-ta@redhat.com>
+nautilus-sendto,316,0,0,67,0,0,253,316,100.0,Tamil <fedora-trans-ta@redhat.com>
+newt,4,0,0,4,0,0,5,4,100.0,Tamil <tamil-DI@yahoogroups.com>
+notecase,396,280,480,140,98,118,316,1156,34.2560553633218,NoteCase team
+olpc-switch-desktop,153,0,5,12,0,2,110,158,96.83544303797468,LANGUAGE <LL@li.org>
+openconnect,0,0,1701,0,0,320,0,1701,0.0,Tamil (http://www.transifex.net/projects/p/meego/team/ta/)
+orage,5,85,2271,5,44,750,5,2361,0.21177467174925876,Tamil <tamillinux-user@lists.sourceforge.net>
+orca,4457,0,0,1415,0,0,4225,4457,100.0,American English <kde-i18n-doc@kde.org>
+pam,599,3,0,120,1,0,506,602,99.5016611295681,Tamil <fedora-trans-ta@redhat.com>
+paprefs,131,0,0,23,0,0,129,131,100.0,Tamil <fedora-trans-ta@redhat.com>
+passwd,299,0,0,53,0,0,269,299,100.0,Tamil <fedora-trans-ta@redhat.com>
+pavucontrol,219,1,17,85,1,1,218,237,92.40506329113924,Tamil <fedora-trans-ta@redhat.com>
+pessulus,130,0,0,33,0,0,127,130,100.0,Tamil <fedora-trans-ta@redhat.com>
+picard,272,0,2098,195,0,902,270,2370,11.476793248945148,Tamil <ta@li.org>
+pidgin,16984,813,559,3597,181,125,14620,18356,92.52560470690783,American English <kde-i18n-doc@kde.org>
+pidgin-birthday-reminder,57,0,183,30,0,33,56,240,23.75,Tamil <ta@li.org>
+pidgin-sipe,19,0,820,12,0,197,20,839,2.264600715137068,English <LL@li.org>
+planner,1815,0,0,531,0,0,1552,1815,100.0,Tamil <fedora-trans-ta@redhat.com>
+poedit,1089,47,26,261,6,2,966,1162,93.71772805507746,தமிழ் <https://lists.ubuntu.com/mailman/listinfo/ubuntu-l10n-tam>
+policycoreutils,1155,225,90,206,37,17,924,1470,78.57142857142857,Tamil <fedora-trans-ta@redhat.com>
+polkit-gnome,311,0,0,48,0,0,302,311,100.0,ta_IN <kde-i18n-doc@kde.org>
+pootle,2343,81,0,447,12,0,1848,2424,96.65841584158416,LANGUAGE <LL@li.org>
+postgresql,4797,0,0,692,0,0,4332,4797,100.0,Ubuntu Tamil Team <ubuntu-l10n-tam@lists.ubuntu.com>
+publican,925,0,169,45,0,27,704,1094,84.55210237659963,American English <kde-i18n-doc@kde.org>
+publican-fedora,106,0,1,5,0,1,72,107,99.06542056074767,Tamil <fedora-trans-ta@redhat.com>
+publican-jboss,120,3,109,9,1,4,90,232,51.724137931034484,American English <kde-i18n-doc@kde.org>
+publican-ovirt,288,0,0,27,0,0,224,288,100.0,Tamil <fedora-trans-ta@redhat.com>
+publican-redhat,220,0,0,13,0,0,157,220,100.0,American English <kde-i18n-doc@kde.org>
+pulseaudio,2726,42,81,378,16,34,2549,2849,95.68269568269568,Tamil <fedora-trans-ta@redhat.com>
+pykickstart,209,45,84,20,4,11,151,338,61.834319526627226,Tamil <fedora-trans-ta@redhat.com>
+python-meh,269,0,0,33,0,0,204,269,100.0,Tamil <fedora-trans-ta@redhat.com>
+readahead,129,0,0,18,0,0,126,129,100.0,Tamil <fedora-trans-ta@redhat.com>
+redhat-menus,261,0,0,86,0,0,250,261,100.0,Tamil <fedora-trans-ta@redhat.com>
+rednotebook,426,0,691,129,0,113,372,1117,38.137869292748434,Tamil <ta@li.org>
+retrace-server,0,0,123,0,0,23,0,123,0.0,Tamil
+revisor,0,0,4171,0,0,697,0,4171,0.0,
+rhn-client-tools,3027,577,587,307,55,54,2442,4191,72.22619899785255,Tamil <ta@li.org>
+rhnsd,20,0,0,5,0,0,19,20,100.0,Tamil <ta@li.org>
+rhythmbox,4545,0,0,1070,0,0,4013,4545,100.0,Tamil <fedora-trans-ta@redhat.com>
+rygel,715,0,0,150,0,0,692,715,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+sabayon,743,0,0,171,0,0,695,743,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>>
+scim,1173,0,0,281,0,0,931,1173,100.0,Tamil <fedora-trans-ta@redhat.com>
+seahorse,3071,0,0,658,0,0,2672,3071,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+seahorse-plugins,1165,0,0,245,0,0,1087,1165,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+sepostgresql,4797,0,0,692,0,0,4332,4797,100.0,Ubuntu Tamil Team <ubuntu-l10n-tam@lists.ubuntu.com>
+setroubleshoot,490,63,10,144,16,8,435,563,87.03374777975134,Tamil <fedora-trans-ta@redhat.com>
+setroubleshoot-plugins,3563,956,3319,90,27,248,3026,7838,45.458025006379174,Tamil <kde-i18n-doc@kde.org>
+setuptool,55,0,0,14,0,0,51,55,100.0,Tamil <fedora-trans-ta@redhat.com>
+shotwell,190,0,3729,57,0,749,184,3919,4.848175554988518,LANGUAGE <LL@li.org>
+smolt,1174,0,0,212,0,0,1076,1174,100.0,Tamil <fedora-trans-ta@redhat.com>
+sos,174,76,17,31,2,3,142,267,65.1685393258427,<en@li.org>
+sound-juicer,986,0,0,187,0,0,841,986,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+specspo,8363,52229,244702,766,5937,10147,6349,305294,2.739326681821457,<en@li.org>
+sssd,0,0,21068,0,0,2102,0,21068,0.0,Tamil <tamil-users@lists.fedoraproject.org>
+stellarium,656,0,3820,308,0,1481,642,4476,14.655942806076855,Tamil <ta@li.org>
+subscription-manager,2574,0,583,489,0,74,2152,3157,81.53310104529616,Tamil <kde-i18n-doc@kde.org>
+sugar,819,3,103,235,2,29,664,925,88.54054054054053,LANGUAGE <LL@li.org>
+sugar-abacus,24,0,0,24,0,0,31,24,100.0,LANGUAGE <LL@li.org>
+sugar-base,5,0,0,5,0,0,5,5,100.0,LANGUAGE <LL@li.org>
+sugar-browse,52,0,5,28,0,2,48,57,91.22807017543859,LANGUAGE <LL@li.org>
+sugar-calculator,590,0,3,126,0,1,512,593,99.49409780775717,LANGUAGE <LL@li.org>
+sugar-chat,50,0,0,33,0,0,49,50,100.0,LANGUAGE <LL@li.org>
+sugar-clock,38,0,0,17,0,0,569,38,100.0,LANGUAGE <LL@li.org>
+sugar-finance,0,0,142,0,0,31,0,142,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,24,0,0,11,0,0,28,24,100.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,184,0,0,56,0,0,202,184,100.0,LANGUAGE <LL@li.org>
+sugar-jukebox,15,0,0,10,0,0,13,15,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,254,0,0,93,0,0,245,254,100.0,LANGUAGE <LL@li.org>
+sugar-log,78,0,0,20,0,0,51,78,100.0,LANGUAGE <LL@li.org>
+sugar-measure,5,0,106,3,0,47,5,111,4.504504504504505,LANGUAGE <LL@li.org>
+sugar-memorize,64,3,39,48,3,13,67,106,60.37735849056604,LANGUAGE <LL@li.org>
+sugar-moon,56,35,0,27,5,0,59,91,61.53846153846154,LANGUAGE <LL@li.org>
+sugar-physics,28,0,0,27,0,0,30,28,100.0,LANGUAGE <LL@li.org>
+sugar-pippy,107,0,0,31,0,0,76,107,100.0,LANGUAGE <LL@li.org>
+sugar-playgo,0,0,85,0,0,30,0,85,0.0,LANGUAGE <LL@li.org>
+sugar-portfolio,34,0,30,16,0,13,32,64,53.125,LANGUAGE <LL@li.org>
+sugar-read,57,0,0,29,0,0,55,57,100.0,LANGUAGE <LL@li.org>
+sugar-ruler,5,0,10,5,0,1,7,15,33.33333333333333,LANGUAGE <LL@li.org>
+sugar-surf,53,0,0,29,0,0,49,53,100.0,LANGUAGE <LL@li.org>
+sugar-tamtam,0,0,2077,0,0,697,0,2077,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,13,0,0,7,0,0,14,13,100.0,LANGUAGE <LL@li.org>
+sugar-toolkit,69,0,9,34,0,6,62,78,88.46153846153845,LANGUAGE <LL@li.org>
+sugar-turtleart,1282,0,393,391,0,84,1090,1675,76.53731343283582,LANGUAGE <LL@li.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,131,0,0,70,0,0,124,131,100.0,LANGUAGE <LL@li.org>
+sugar-write,81,0,0,48,0,0,79,81,100.0,LANGUAGE <LL@li.org>
+switchdesk,139,0,0,20,0,0,107,139,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-audit,1241,0,0,267,0,0,1082,1241,100.0,Tamil <tamil-users@lists.fedoraproject.org>
+system-config-bind,9434,0,0,1065,0,0,7361,9434,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-boot,119,0,0,23,0,0,96,119,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-date,1687,0,579,797,0,71,1588,2266,74.44836716681377,LANGUAGE <LL@li.org>
+system-config-date-docs,728,6,5,53,4,3,542,739,98.51150202976996,Tamil <fedora-trans-ta@redhat.com>
+system-config-firewall,2807,0,7,330,0,1,2149,2814,99.75124378109453,Tamil <kde-i18n-doc@kde.org>
+system-config-httpd,877,0,0,227,0,0,759,877,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-kdump,235,87,485,13,19,106,157,807,29.120198265179674,Tamil <fedora-trans-ta@redhat.com>
+system-config-keyboard,187,0,0,81,0,0,173,187,100.0,Tamil <ta@li.org>
+system-config-kickstart,1104,0,0,245,0,0,924,1104,100.0,Tamil <kde-i18n-doc@kde.org>
+system-config-language,293,0,30,54,0,2,225,323,90.71207430340557,Tamil <fedora-trans-ta@redhat.com>
+system-config-lvm,2246,0,0,344,0,0,1802,2246,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-netboot,1135,0,0,168,0,0,865,1135,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-network,2990,6,26,711,4,3,2597,3022,98.94109861019193,Tamil <fedora-trans-ta@redhat.com>
+system-config-nfs,332,0,0,72,0,0,312,332,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-nfs-docs,1185,5,2,66,3,2,861,1192,99.41275167785236,Tamil <fedora-trans-ta@redhat.com>
+system-config-printer,759,711,1587,207,245,290,621,3057,24.828263002944063,Tamil <fedora-trans-ta@redhat.com>
+system-config-rootpassword,116,0,0,19,0,0,87,116,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-samba,360,0,211,112,0,22,345,571,63.04728546409807,Tamil <tamil-users@lists.fedoraproject.org>
+system-config-samba-docs,1188,7,0,62,5,0,869,1195,99.4142259414226,Tamil <fedora-trans-ta@redhat.com>
+system-config-services,397,0,121,56,0,15,340,518,76.64092664092664,Tamil <kde-i18n-doc@kde.org>
+system-config-services-docs,638,0,0,28,0,0,439,638,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-config-users,1456,0,1456,174,0,174,1161,2912,50.0,LANGUAGE <LL@li.org>
+system-config-users-docs,1054,5,2,77,3,2,782,1061,99.3402450518379,Tamil <fedora-trans-ta@redhat.com>
+system-switch-java,81,0,0,11,0,0,57,81,100.0,Tamil <fedora-trans-ta@redhat.com>
+system-switch-mail,158,0,0,24,0,0,144,158,100.0,Tamil <fedora-trans-ta@redhat.com>
+terminator,1,0,338,1,0,118,1,339,0.2949852507374631,Tamil <ta@li.org>
+tomboy,3104,0,0,441,0,0,2630,3104,100.0,American English <kde-i18n-doc@kde.org>
+totem,2745,0,0,622,0,0,2379,2745,100.0,American English <kde-i18n-doc@kde.org>
+totem-pl-parser,28,0,0,7,0,0,23,28,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+tuxpaint,1132,50,65,233,8,11,775,1247,90.77786688051323,A. Ravishankar <ravishankar.ayyakkannu@gmail.com>
+tuxpaint-stamps,107,614,1990,51,245,354,99,2711,3.9468830689782366,ThamiZha! <mugunth@thamizha.com>
+tuxtype2,71,0,9,32,0,8,63,80,88.75,<en@li.org>
+usermode,566,0,0,95,0,0,454,566,100.0,Tamil <tamil-users@lists.fedoraproject.org>
+vidalia,0,0,10375,0,0,1302,0,10375,0.0,translations@vidalia-project.net
+vinagre,1686,0,0,287,0,0,1401,1686,100.0,American English <kde-i18n-doc@kde.org>
+vino,1184,0,0,128,0,0,847,1184,100.0,American English <kde-i18n-doc@kde.org>
+virt-manager,2822,1224,594,704,287,97,2572,4640,60.818965517241374,American English <kde-i18n-doc@kde.org>
+virt-viewer,282,0,0,57,0,0,271,282,100.0,ta_IN <kde-i18n-doc@kde.org>
+volume_key,739,0,0,151,0,0,654,739,100.0,Tamil <tamil-users@lists.fedoraproject.org>
+vte,80,0,0,13,0,0,77,80,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+vte3,80,0,0,13,0,0,77,80,100.0,Tamil <<Ubuntu-l10n-tam@lists.ubuntu.com>>
+xchat-gnome,4055,0,0,1049,0,0,3674,4055,100.0,Tamil <fedora-trans-ta@redhat.com>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Tamil <gnome-tamil-translation@googlegroups.com>
+xfce-utils,6,22,464,4,7,61,5,492,1.2195121951219512,Tamil <tamilinix@yahoogroups.com>
+xfce4-eyes-plugin,1,0,8,1,0,2,1,9,11.11111111111111,Tamil <tamilinix@yahoogroups.com>
+xfce4-panel,136,432,936,44,116,184,119,1504,9.042553191489363,ubuntu-l10n-tam <ubuntu-l10n-tam@lists.ubuntu.com>
+xfce4-session,5,217,910,1,62,167,4,1132,0.441696113074205,Tamil <tamillinux-user@lists.sourceforge.net>
+xfdesktop,3,180,652,2,66,131,3,835,0.3592814371257485,Tamil <tamilinix@yahoogroups.com>
+xfprint,100,50,172,44,22,47,93,322,31.05590062111801,Tamil <tamilinix@yahoogroups.com>
+xfwm4,51,423,363,25,123,82,40,837,6.093189964157706,Tamil <tamilinix@yahoogroups.com>
+yelp,937,0,0,323,0,0,847,937,100.0,American English <kde-i18n-doc@kde.org>
+yelp-xsl,249,0,0,99,0,0,249,249,100.0,Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>
+yum-rhn-plugin,56,0,44,8,0,4,39,100,56.00000000000001,Tamil <ta@li.org>
+zenity,674,0,0,159,0,0,559,674,100.0,American English <kde-i18n-doc@kde.org>

@@ -1,0 +1,545 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+GConf2,4088,0,0,497,0,0,3604,4088,100.0,Telugu <en@li.org>
+NetworkManager,4525,3899,18339,749,598,847,3956,26763,16.907671038373877,Telugu <kde-i18n-doc@kde.org>
+NetworkManager-fortisslvpn,6,20,297,4,8,48,7,323,1.8575851393188854,Telugu <en@li.org>
+NetworkManager-l2tp,79,0,1171,34,0,158,83,1250,6.32,Telugu <en@li.org>
+NetworkManager-libreswan,14,23,428,8,8,60,18,465,3.010752688172043,Telugu <en@li.org>
+NetworkManager-openconnect,34,5,3202,9,2,585,34,3241,1.0490589324282629,Telugu <en@li.org>
+NetworkManager-openvpn,125,156,768,49,19,101,122,1049,11.916110581506196,Telugu <en@li.org>
+NetworkManager-pptp,118,0,0,43,0,0,127,118,100.0,Telugu <en@li.org>
+NetworkManager-ssh,37,36,213,16,13,40,35,286,12.937062937062937,Telugu <en@li.org>
+NetworkManager-sstp,118,0,0,43,0,0,127,118,100.0,Telugu <en@li.org>
+NetworkManager-vpnc,139,0,0,36,0,0,129,139,100.0,Telugu <en@li.org>
+PackageKit,877,0,0,239,0,0,703,877,100.0,Telugu (http://www.transifex.com/freedesktop/packagekit/language/te/)
+aisleriot,2307,0,0,570,0,0,1805,2307,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+alacarte,31,0,0,12,0,0,30,31,100.0,Swecha <indlinux-telugu@lists.sourceforge.net>
+anaconda,2251,228,5551,430,46,879,1831,8030,28.032378580323787,Telugu (http://www.transifex.com/projects/p/anaconda/language/te/)
+android-tools,5415,453,1810,770,89,219,4612,7678,70.52617869236781,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+anjuta,7974,0,0,2004,0,0,7564,7974,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+arduino,0,0,3204,0,0,607,0,3204,0.0,Telugu (http://www.transifex.com/mbanzi/arduino-ide-15/language/te/)
+asunder,16,0,476,14,0,77,15,492,3.2520325203252036,http://littlesvr.ca/ostd/
+at-spi2-core,122,0,0,18,0,0,109,122,100.0,Telugu <te@li.org>
+atk,398,0,0,139,0,0,332,398,100.0,Telugu <en@li.org>
+atril,1037,0,2809,306,0,335,912,3846,26.963078523140926,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+avogadro,366,0,199,199,0,47,385,565,64.7787610619469,Telugu <te@li.org>
+avogadro2,85,64,313,64,24,61,105,462,18.398268398268396,Telugu <te@li.org>
+avogadro2-libs,0,0,3466,0,0,1140,0,3466,0.0,none
+banshee,2888,0,3070,1078,0,465,2740,5958,48.472641826116146,Telugu <indlinux-telugu@lists.sourceforge.net>
+baobab,210,0,0,57,0,0,198,210,100.0,Telugu <Fedora-trans-te@redhat.com>
+bijiben,312,0,0,101,0,0,287,312,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+bleachbit,1843,0,0,355,0,0,1778,1843,100.0,Telugu <te@li.org>
+blueberry,0,0,166,0,0,37,0,166,0.0,Telugu <te@li.org>
+bookworm,0,0,795,0,0,149,0,795,0.0,
+brasero,5564,0,2169,978,0,137,4541,7733,71.9513772145351,Telugu <indlinux-telugu@lists.sourceforge.net>
+caja,6691,0,2934,1235,0,360,5041,9625,69.51688311688312,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+caja-actions,3257,0,0,287,0,0,2465,3257,100.0,Telugu <en@li.org>
+caja-extensions,99,3,569,36,3,107,100,671,14.754098360655737,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+calibre,70,0,160992,50,0,18434,66,161062,0.04346152413356347,Telugu (http://www.transifex.com/calibre/calibre/language/te/)
+caribou,171,0,0,57,0,0,146,171,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+cheese,613,0,0,120,0,0,509,613,100.0,Telugu <kde-i18n-doc@kde.org>
+chkconfig,502,19,52,93,5,9,417,573,87.60907504363001,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+chromium,13891,0,0,3057,0,0,10778,13891,100.0,Telugu <kde-i18n-doc@kde.org>
+cinnamon-control-center,1313,0,0,756,0,0,1337,1313,100.0,Telugu <en@li.org>
+cinnamon-desktop,231,0,3,31,0,1,191,234,98.71794871794873,Telugu <indlinux-telugu@lists.sourceforge.net>
+cinnamon-translations,3292,0,10995,917,0,2371,2934,14287,23.041926226639603,Telugu <indlinux-telugu@lists.sourceforge.net>
+clamtk,184,0,573,87,0,118,193,757,24.30647291941876,Telugu <te@li.org>
+clementine,47,0,5204,21,0,1370,47,5251,0.8950676061702533,Telugu (http://www.transifex.com/davidsansome/clementine/language/te/)
+clutter,2853,179,25,638,29,8,2194,3057,93.32679097154073,Telugu <indlinux-telugu@lists.sourceforge.net>
+cogl,378,0,0,76,0,0,349,378,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+coin,0,0,252,0,0,50,0,252,0.0,none
+console-setup,985,12,4,175,2,1,732,1001,98.4015984015984,d-i <kde-i18n-doc@kde.org>
+cozy,557,0,1223,62,0,95,508,1780,31.29213483146067,Telugu (https://www.transifex.com/geigi/teams/78138/te/)
+cracklib,93,0,3,15,0,1,73,96,96.875,Telugu <en@li.org>
+dasher,615,0,0,212,0,0,560,615,100.0,Telugu <en@li.org>
+dconf-editor,130,33,1301,17,16,154,109,1464,8.879781420765028,Telugu <indlinux-telugu@lists.sourceforge.net>
+debconf,191,0,0,17,0,0,123,191,100.0,
+deepin-terminal,108,0,0,19,0,0,97,108,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+deja-dup,58,0,1565,31,0,254,71,1623,3.5736290819470113,Telugu <te@li.org>
+devhelp,455,0,0,119,0,0,420,455,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+dippi,0,0,397,0,0,53,0,397,0.0,none
+easytag,584,0,4697,275,0,717,612,5281,11.058511645521682,Telugu <indlinux-telugu@lists.sourceforge.net>
+ekiga,4483,0,0,745,0,0,3514,4483,100.0,Telugu <en@li.org>
+elementary-calculator,2,0,128,2,0,52,2,130,1.5384615384615385,LANGUAGE <LL@li.org>
+elementary-calendar,0,0,703,0,0,229,0,703,0.0,LANGUAGE <LL@li.org>
+elementary-camera,0,0,65,0,0,18,0,65,0.0,LANGUAGE <LL@li.org>
+elementary-capnet-assist,0,0,82,0,0,14,0,82,0.0,none
+elementary-code,3,12,1136,1,5,251,3,1151,0.26064291920069504,LANGUAGE <LL@li.org>
+elementary-files,99,42,2770,45,23,491,102,2911,3.400893163861216,Telugu <te@li.org>
+elementary-greeter,0,0,166,0,0,37,0,166,0.0,LANGUAGE <LL@li.org>
+elementary-music,0,0,1308,0,0,366,0,1308,0.0,LANGUAGE <LL@li.org>
+elementary-notifications,0,0,3,0,0,2,0,3,0.0,none
+elementary-photos,2541,542,827,587,75,144,2223,3910,64.98721227621483,Telugu (http://www.transifex.com/projects/p/shotwell/language/te/)
+elementary-planner,0,0,3023,0,0,585,0,3023,0.0,LANGUAGE <LL@li.org>
+elementary-screenshot-tool,0,0,212,0,0,55,0,212,0.0,LANGUAGE <LL@li.org>
+elementary-shortcut-overlay,0,0,95,0,0,39,0,95,0.0,none
+elementary-sideload,0,0,224,0,0,44,0,224,0.0,none
+elementary-terminal,0,0,442,0,0,90,0,442,0.0,
+elementary-videos,26,2,318,15,1,74,28,346,7.514450867052023,Telugu <te@li.org>
+engrampa,1058,0,6850,253,0,635,874,7908,13.378856853818919,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+entangle,0,0,953,0,0,229,0,953,0.0,Telugu
+eog,1657,0,4497,365,0,346,1376,6154,26.925576860578488,Telugu <indlinux-telugu@lists.sourceforge.net>
+eog-plugins,153,0,0,59,0,0,140,153,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+eom,1019,0,3932,254,0,288,889,4951,20.58170066653201,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+epiphany,2413,0,0,574,0,0,2121,2413,100.0,Telugu <Fedora-trans-te@redhat.com>
+evince,1606,0,6554,378,0,575,1451,8160,19.681372549019606,Telugu <indlinux-telugu@lists.sourceforge.net>
+evolution,20371,424,24120,4296,84,1806,16961,44915,45.35455861070912,Telugu <indlinux-telugu@lists.sourceforge.net>
+evolution-data-server,5314,79,70,1104,10,6,4640,5463,97.27256086399414,Telugu <Fedora-trans-te@redhat.com>
+evolution-ews,1165,0,0,239,0,0,1012,1165,100.0,American English <kde-i18n-doc@kde.org>
+evolution-mapi,1034,0,0,231,0,0,893,1034,100.0,Telugu <en@li.org>
+evolution-rss,728,0,0,198,0,0,687,728,100.0,Telugu <en@li.org>
+exaile,372,40,3655,111,19,935,349,4067,9.146791246619129,Telugu <https://hosted.weblate.org/projects/exaile/master/te/>
+exo,576,0,878,206,0,93,548,1454,39.61485557083906,Telugu (http://www.transifex.com/xfce/exo/language/te/)
+fcitx-table-other,1,0,23,1,0,21,1,24,4.166666666666666,Telugu (http://www.transifex.com/fcitx/fcitx/language/te/)
+fcitx5-table-other,0,0,100,0,0,34,0,100,0.0,Telugu (http://www.transifex.com/fcitx/fcitx/language/te/)
+feedreader,0,0,1374,0,0,317,0,1374,0.0,
+file-roller,1387,0,143,296,0,3,1173,1530,90.65359477124183,Telugu <indlinux-telugu@lists.sourceforge.net>
+firewalld,1486,10,721,292,1,122,1257,2217,67.02751465944971,Telugu (http://www.transifex.com/projects/p/firewalld/language/te/)
+five-or-more,164,42,76,51,8,6,161,282,58.156028368794324,Telugu <indlinux-telugu@lists.sourceforge.net>
+folks,1003,0,0,123,0,0,812,1003,100.0,Telugu <kde-i18n-doc@kde.org>
+fonts-tweak-tool,0,0,196,0,0,65,0,196,0.0,Telugu
+four-in-a-row,113,49,94,45,15,13,108,256,44.140625,Telugu <indlinux-telugu@lists.sourceforge.net>
+fprintd,0,0,419,0,0,57,0,419,0.0,Telugu (http://www.transifex.com/freedesktop/fprintd/language/te/)
+fragments,1587,0,419,457,0,69,1608,2006,79.11266201395813,Telugu (https://www.transifex.com/transmissionbt/teams/33778/te/)
+frogr,139,8,518,69,4,112,161,665,20.902255639097746,e-తెలుగు స్థానికీకరణ జట్టు
+gala,0,0,197,0,0,42,0,197,0.0,none
+gamehub,2,0,1113,1,0,364,2,1115,0.17937219730941703,Telugu <https://hosted.weblate.org/projects/gamehub/translations/te/>
+garcon,109,0,13,35,0,1,99,122,89.34426229508196,Telugu (http://www.transifex.com/xfce/garcon/language/te/)
+gbrainy,767,0,7334,374,0,670,745,8101,9.467966917664485,Telugu <indlinux-telugu@lists.sourceforge.net>
+gconf-editor,336,0,0,98,0,0,353,336,100.0,Telugu <en@li.org>
+gcr,468,50,160,181,17,44,412,678,69.02654867256636,తెలుగు <indlinux-telugu@lists.sourceforge.net>
+gdk-pixbuf2,1354,0,0,202,0,0,1098,1354,100.0,Telugu <Fedora-trans-te@redhat.com>
+gdm,671,15,9243,103,3,351,539,9929,6.757981669855978,Telugu <indlinux-telugu@lists.sourceforge.net>
+geary,117,0,984,69,0,258,139,1101,10.626702997275205,Telugu (http://www.transifex.com/projects/p/geary/language/te/)
+gedit,4112,0,7436,698,0,580,3366,11548,35.60789747142362,Telugu <indlinux-telugu@lists.sourceforge.net>
+gedit-plugins,968,149,7553,414,47,603,931,8670,11.164936562860438,Telugu <indlinux-telugu@lists.sourceforge.net>
+ggz-base-libs,5,0,0,2,0,0,5,5,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gigolo,143,0,324,78,0,49,159,467,30.620985010706637,Telugu (http://www.transifex.com/xfce/xfce-apps/language/te/)
+gimp,14828,190,1825,3687,55,456,13095,16843,88.03657305705634,సురవర <>
+glade,4160,32,74,1084,10,10,3584,4266,97.51523675574309,Telugu <indlinux-telugu@lists.sourceforge.net>
+glib-networking,153,0,0,28,0,0,140,153,100.0,Telugu <Indlinux-telugu@lists.sourceforge.net>
+glib2,5703,0,0,905,0,0,4929,5703,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-abrt,112,4,105,23,2,30,86,221,50.678733031674206,Telugu (http://www.transifex.com/projects/p/gnome-abrt/language/te/)
+gnome-applets,3449,12,91,834,4,10,3131,3552,97.10022522522522,Telugu <en@li.org>
+gnome-bluetooth,309,0,0,102,0,0,286,309,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-books,460,0,0,151,0,0,401,460,100.0,American English <kde-i18n-doc@kde.org>
+gnome-boxes,950,0,0,208,0,0,834,950,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-calculator,1447,0,1509,527,0,140,1281,2956,48.95128552097429,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-chess,917,242,231,139,68,30,814,1390,65.97122302158273,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-clocks,223,0,0,77,0,0,199,223,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-color-manager,1792,0,0,342,0,0,1371,1792,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-contacts,405,0,0,155,0,0,370,405,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-control-center,6259,0,0,2210,0,0,5821,6259,100.0,Telugu <en@li.org>
+gnome-desktop,351,0,0,53,0,0,284,351,100.0,Telugu <en@li.org>
+gnome-desktop3,146,0,0,23,0,0,131,146,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-dictionary,841,0,0,180,0,0,700,841,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-disk-utility,3423,0,0,632,0,0,2829,3423,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-do,205,0,407,73,0,71,215,612,33.49673202614379,Telugu <te@li.org>
+gnome-doc-utils,251,0,0,101,0,0,245,251,100.0,Telugu <Indlinux-telugu@lists.sourceforge.net>
+gnome-documents,1379,110,21,236,7,1,1117,1510,91.32450331125827,Telugu <kde-i18n-doc@kde.org>
+gnome-extensions-app,1485,0,0,374,0,0,1217,1485,100.0,American English <kde-i18n-doc@kde.org>
+gnome-font-viewer,109,0,0,26,0,0,92,109,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-getting-started-docs,2639,0,0,339,0,0,1846,2639,100.0,American English <kde-i18n-doc@kde.org>
+gnome-icon-theme,54,0,0,48,0,0,56,54,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+gnome-initial-setup,585,0,0,103,0,0,475,585,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-keyring,553,0,0,112,0,0,480,553,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-klotski,66,39,89,41,13,5,71,194,34.02061855670103,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-logs,115,0,0,37,0,0,106,115,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-mahjongg,88,75,141,39,14,10,98,304,28.947368421052634,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-maps,196,0,0,34,0,0,170,196,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-menus,70,0,0,27,0,0,65,70,100.0,Telugu <Fedora-trans-te@redhat.com>
+gnome-mines,107,98,139,31,28,13,97,344,31.1046511627907,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-music,383,0,0,61,0,0,354,383,100.0,indlinux-telugu@lists.sourceforge.net
+gnome-nettool,663,0,0,218,0,0,634,663,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-nibbles,134,119,194,49,41,20,128,447,29.977628635346754,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-online-accounts,692,0,0,147,0,0,599,692,100.0,Telugu <support@etelugu.org>
+gnome-packagekit,4390,0,0,681,0,0,3260,4390,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-panel,3554,0,1060,530,0,93,2771,4614,77.02644126571305,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-photos,344,0,0,120,0,0,326,344,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-power-manager,480,0,0,147,0,0,400,480,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-robots,440,44,113,80,11,6,370,597,73.70184254606366,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-screenshot,354,0,0,75,0,0,289,354,100.0,Telugu <Fedora-trans-te@redhat.com>
+gnome-search-tool,1283,0,1786,209,0,135,1011,3069,41.80514825676116,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-session,323,0,0,59,0,0,290,323,100.0,Telugu <Fedora-trans-te@redhat.com>
+gnome-settings-daemon,2607,0,0,429,0,0,2181,2607,100.0,Telugu <Fedora-trans-te@redhat.com>
+gnome-shell,1485,0,0,374,0,0,1217,1485,100.0,American English <kde-i18n-doc@kde.org>
+gnome-shell-extensions,358,0,0,68,0,0,312,358,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-software,672,0,258,326,0,27,631,930,72.25806451612902,indlinux-telugu@lists.sourceforge.net
+gnome-sound-recorder,223,0,0,62,0,0,192,223,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-sudoku,27,140,232,15,40,17,40,399,6.7669172932330826,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-system-log,420,0,0,66,0,0,340,420,100.0,Telugu <Fedora-trans-te@redhat.com>
+gnome-system-monitor,1289,0,0,292,0,0,1161,1289,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-terminal,2209,0,0,442,0,0,1841,2209,100.0,Telugu <kde-i18n-doc@kde.org>
+gnome-tetravex,53,72,95,21,15,9,52,220,24.09090909090909,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-themes-extra,24,0,0,9,0,0,23,24,100.0,తెలుగు <indlinux-telugu@lists.sourceforge.net>
+gnome-tweaks,110,0,0,40,0,0,100,110,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-user-docs,14118,2937,40704,939,197,2012,10266,57759,24.442943956785957,Telugu <kde-i18n-doc@kde.org>
+gnome-user-share,160,0,0,29,0,0,126,160,100.0,Telugu <Fedora-trans-te@redhat.com>
+gnome-vfs2,1508,0,0,301,0,0,1270,1508,100.0,Telugu <en@li.org>
+gnome-video-effects,256,0,0,68,0,0,208,256,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gnome-weather,216,0,0,81,0,0,198,216,100.0,indlinux-telugu@lists.sourceforge.net
+gnote,3592,0,0,543,0,0,3025,3592,100.0,Telugu <kde-i18n-doc@kde.org>
+gnucash,24005,6636,6025,3884,972,506,19214,36666,65.46937217040309,NONE
+gnumeric,1124,1542,32380,465,572,4605,1095,35046,3.2072133767049023,Prajasakti Localisation Team <localisation@prajasakti.com>
+godot,35,18,13163,6,3,2901,36,13216,0.26483050847457623,Telugu <https://hosted.weblate.org/projects/godot-engine/godot/te/>
+goodvibes,331,2,18,114,2,5,328,351,94.30199430199431,Telugu <https://hosted.weblate.org/projects/goodvibes/translations/te/>
+gparted,1884,0,4980,404,0,351,1698,6864,27.447552447552447,Telugu <indlinux-telugu@lists.sourceforge.net>
+gphotoframe,43,4,1272,21,3,243,45,1319,3.2600454890068233,e-Telugu Localization Team
+gpicview,236,0,0,52,0,0,200,236,100.0,LANGUAGE <LL@li.org>
+granite,2,4,263,2,2,84,2,269,0.7434944237918215,Telugu <te@li.org>
+gtk-doc,3028,0,4249,177,0,154,2256,7277,41.61055379964271,Telugu <en@li.org>
+gtk-vnc,8,0,0,3,0,0,8,8,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gtk2,13259,295,150,2717,49,18,9940,13704,96.75277291301809,Telugu <en@li.org>
+gtk2-engines,119,0,0,47,0,0,114,119,100.0,Telugu <en@li.org>
+gtk3,13891,0,0,3057,0,0,10778,13891,100.0,Telugu <kde-i18n-doc@kde.org>
+gtk4,13891,0,0,3057,0,0,10778,13891,100.0,Telugu <kde-i18n-doc@kde.org>
+gtkhtml3,0,0,0,0,0,0,0,0,0.0,
+gtksourceview2,1120,0,0,448,0,0,981,1120,100.0,Telugu <en@li.org>
+gtksourceview3,123,85,114,39,21,46,114,322,38.19875776397515,Telugu <indlinux-telugu@lists.sourceforge.net>
+gtksourceview4,1551,0,0,627,0,0,1407,1551,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+gtranslator,658,0,1017,264,0,127,699,1675,39.28358208955224,Telugu <indlinux-telugu@lists.sourceforge.net>
+gucharmap,1205,0,0,397,0,0,1100,1205,100.0,Telugu <kde-i18n-doc@kde.org>
+gvfs,2704,0,0,596,0,0,2339,2704,100.0,Telugu <kde-i18n-doc@kde.org>
+harvey,0,0,57,0,0,12,0,57,0.0,none
+iagno,35,111,176,17,33,22,41,322,10.869565217391305,Telugu <indlinux-telugu@lists.sourceforge.net>
+ibus,911,60,1270,158,7,387,768,2241,40.651494868362335,Telugu <trans-te@lists.fedoraproject.org>
+ibus-input-pad,45,0,45,19,0,8,44,90,50.0,Telugu
+im-chooser,229,0,25,52,0,6,190,254,90.15748031496062,Telugu (http://www.transifex.net/projects/p/im-chooser/team/te/)
+imsettings,440,5,40,80,1,7,358,485,90.72164948453609,LANGUAGE <LL@li.org>
+initial-setup,33,0,73,7,0,13,28,106,31.132075471698112,Telugu (http://www.transifex.com/projects/p/initial-setup/language/te/)
+initscripts,738,79,301,110,14,34,646,1118,66.01073345259391,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+inkscape,651,3904,36374,406,1740,6522,666,40929,1.5905592611595691,e-Telugu Localization Team
+iso-codes,1770,59,28,909,18,11,1755,1857,95.31502423263328,Telugu <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/te/>
+isomaster,34,1,639,24,1,82,37,674,5.044510385756676,http://littlesvr.ca/ostd/
+jmol,72,5,3089,54,3,964,74,3166,2.274162981680354,Telugu <te@li.org>
+json-glib,226,0,0,27,0,0,191,226,100.0,telugu <localization@swecha.net>
+kde-cli-tools,401,41,1673,78,8,132,345,2115,18.95981087470449,Telugu <en@li.org>
+kdump-anaconda-addon,83,0,0,12,0,0,50,83,100.0,Telugu <en@li.org>
+kf5-kauth,0,34,39,0,3,5,0,73,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kcmutils,464,38,64,65,5,2,341,566,81.97879858657244,Telugu <kde-i18n-doc@kde.org>
+kf5-kcodecs,0,57,315,0,37,17,0,372,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kcompletion,0,18,0,0,11,0,0,18,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kconfig,258,0,13,99,0,4,237,271,95.20295202952029,Telugu <reachus@swecha.net>
+kf5-kconfigwidgets,293,26,5,103,13,3,370,324,90.4320987654321,Telugu <kde-i18n-doc@kde.org>
+kf5-kcoreaddons,301,14,18,110,4,4,299,333,90.39039039039038,Telugu <reachus@swecha.net>
+kf5-kdeclarative,14,10,80,7,2,5,33,104,13.461538461538462,Telugu <kde-i18n-doc@kde.org>
+kf5-kdelibs4support,1649,844,2320,1096,593,675,2301,4813,34.26137544151257,Telugu <en@li.org>
+kf5-kdesignerplugin,0,53,1,0,8,1,0,54,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kdnssd,0,3,0,0,3,0,0,3,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kglobalaccel,0,67,4,0,8,1,0,71,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-khtml,883,72,766,259,18,33,858,1721,51.30737943056363,Telugu <kde-i18n-doc@kde.org>
+kf5-ki18n,42,80,2,42,66,2,44,124,33.87096774193548,Telugu <kde-i18n-doc@kde.org>
+kf5-kinit,44,26,64,9,3,2,33,134,32.83582089552239,Telugu <kde-i18n-doc@kde.org>
+kf5-kitemviews,0,7,0,0,4,0,0,7,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kjobwidgets,0,133,0,0,38,0,0,133,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kjsembed,224,24,0,42,2,0,187,248,90.32258064516128,Telugu <kde-i18n-doc@kde.org>
+kf5-knewstuff,474,239,923,117,76,63,420,1636,28.973105134474324,Telugu <kde-i18n-doc@kde.org>
+kf5-knotifications,0,20,0,0,7,0,0,20,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-knotifyconfig,43,0,86,15,0,2,41,129,33.33333333333333,Telugu <kde-i18n-doc@kde.org>
+kf5-kparts,104,19,0,26,2,0,98,123,84.5528455284553,Telugu <kde-i18n-doc@kde.org>
+kf5-kpty,15,0,0,4,0,0,14,15,100.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kross,82,18,0,29,6,0,95,100,82.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kservice,92,53,22,13,11,3,91,167,55.08982035928144,Telugu <kde-i18n-doc@kde.org>
+kf5-ktextwidgets,362,39,72,114,12,4,344,473,76.53276955602537,Telugu <kde-i18n-doc@kde.org>
+kf5-kwallet,6,2,1328,3,1,85,10,1336,0.4491017964071856,Telugu <en@li.org>
+kf5-kwidgetsaddons,0,1209,73,0,448,15,0,1282,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kwindowsystem,0,2,0,0,1,0,0,2,0.0,Telugu <kde-i18n-doc@kde.org>
+kf5-kxmlgui,551,467,515,115,90,14,470,1533,35.942596216568816,Telugu <kde-i18n-doc@kde.org>
+kf5-sonnet,0,645,22,0,68,5,0,667,0.0,Telugu <kde-i18n-doc@kde.org>
+khotkeys,9,9,419,7,8,114,13,437,2.059496567505721,Telugu <en@li.org>
+kinfocenter,865,186,1041,367,78,316,885,2092,41.347992351816444,Telugu <en@li.org>
+klavaro,16,185,1796,10,86,142,16,1997,0.8012018027040559,Telugu <Fedora-trans-te@redhat.com>
+kmenuedit,20,2,251,13,1,49,28,273,7.326007326007327,Telugu <en@li.org>
+ksysguard,40,16,1037,29,7,201,47,1093,3.6596523330283626,Telugu <en@li.org>
+kwin,276,639,4667,129,211,844,288,5582,4.9444643496954495,Telugu <en@li.org>
+libbonobo,543,0,0,107,0,0,427,543,100.0,Telugu <en@li.org>
+libbonoboui,368,0,0,115,0,0,319,368,100.0,Telugu <en@li.org>
+libcryptui,3059,0,0,656,0,0,2711,3059,100.0,Telugu <en@li.org>
+libdnf,2,0,1439,1,0,223,2,1441,0.13879250520471895,Telugu
+libgdata,614,0,0,76,0,0,470,614,100.0,Telugu <Fedora-trans-te@redhat.com>
+libgdl,592,0,0,86,0,0,507,592,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+libgnome,1773,0,0,273,0,0,1328,1773,100.0,Telugu <en@li.org>
+libgnome-keyring,44,0,0,9,0,0,34,44,100.0,తెలుగు <indlinux-telugu@lists.sourceforge.net>
+libgnomecanvas,378,0,0,95,0,0,304,378,100.0,Telugu <en@li.org>
+libgnomekbd,242,0,0,55,0,0,215,242,100.0,Telugu <indlinux-telugu@lists.sourceforge.net
+libgnomeui,1226,0,0,320,0,0,1028,1226,100.0,Telugu <en@li.org>
+libgtop2,126,0,0,40,0,0,113,126,100.0,Telugu <en@li.org>
+libguestfs,1349,0,14384,251,0,1498,1131,15733,8.574334201995805,Telugu (http://www.transifex.com/projects/p/libguestfs/language/te/)
+libgweather,6171,0,0,4576,0,0,6205,6171,100.0,Telugu <kde-i18n-doc@kde.org>
+libgxim,0,0,124,0,0,24,0,124,0.0,LANGUAGE <LL@li.org>
+libksysguard,10,7,3422,10,4,323,10,3439,0.2907822041291073,Telugu <en@li.org>
+libmatekbd,174,0,134,41,0,50,154,308,56.493506493506494,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+libmatemixer,12,0,230,11,0,115,12,242,4.958677685950414,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+libmateweather,5947,0,195,4484,0,90,5988,6142,96.82513839140346,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+libmypaint,5,2,2296,5,1,156,5,2303,0.21710811984368217,Telugu <https://hosted.weblate.org/projects/mypaint/libmypaint/te/>
+libmypaint2,5,2,2304,5,1,156,5,2311,0.21635655560363476,Telugu <https://hosted.weblate.org/projects/mypaint/libmypaint/te/>
+libnma,314,314,289,79,65,51,287,917,34.24209378407851,Telugu <indlinux-telugu@lists.sourceforge.net>
+libpeas,110,0,0,31,0,0,101,110,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+libpwquality,333,0,12,50,0,1,247,345,96.52173913043478,American English <kde-i18n-doc@kde.org>
+libreoffice,62973,14556,27988,19836,5274,7732,53840,105517,59.68043064150801,LANGUAGE <LL@li.org>
+libreport,2314,39,2575,364,4,235,1965,4928,46.95616883116883,Telugu (http://www.transifex.com/projects/p/libreport/language/te/)
+libsoup,110,0,0,25,0,0,96,110,100.0,Telugu <kde-i18n-doc@kde.org>
+libuser,996,38,403,213,7,81,894,1437,69.31106471816284,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+libvirt,32174,22537,12449,5317,3571,1461,28341,67160,47.906491959499704,Telugu (http://www.transifex.com/projects/p/libvirt/language/te/)
+libvirt-glib,0,0,158,0,0,31,0,158,0.0,Telugu (http://www.transifex.com/projects/p/libvirt-glib/language/te/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+libwnck,1124,0,0,241,0,0,890,1124,100.0,Telugu <en@li.org>
+libwnck3,1086,0,0,231,0,0,859,1086,100.0,Telugu <Fedora-trans-te@redhat.com>
+libxfce4ui,361,0,551,117,0,60,316,912,39.58333333333333,Telugu (http://www.transifex.com/xfce/libxfce4ui/language/te/)
+light-locker,7,0,253,2,0,35,7,260,2.6923076923076925,Telugu (http://www.transifex.com/the_cavalry/light-locker/language/te/)
+lightdm,0,0,163,0,0,21,0,163,0.0,Telugu <te@li.org>
+lightdm-gtk,30,0,57,10,0,15,25,87,34.48275862068966,Telugu <te@li.org>
+lightsoff,14,29,54,7,8,4,19,97,14.432989690721648,Telugu <indlinux-telugu@lists.sourceforge.net>
+lxappearance,234,0,0,80,0,0,217,234,100.0,LANGUAGE <LL@li.org>
+lxappearance-obconf,196,0,0,27,0,0,164,196,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,46,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,77,83,100.0,LANGUAGE <LL@li.org>
+lxlauncher,58,0,0,17,0,0,46,58,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,92,97,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+lxmusic,203,0,0,89,0,0,212,203,100.0,LANGUAGE <LL@li.org>
+lxrandr,167,0,0,41,0,0,149,167,100.0,LANGUAGE <LL@li.org>
+lxsession,215,0,540,102,0,64,213,755,28.47682119205298,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,45,43,100.0,LANGUAGE <LL@li.org>
+lxtask,130,0,0,51,0,0,125,130,100.0,LANGUAGE <LL@li.org>
+marco,3169,0,1170,366,0,65,2474,4339,73.03526158100945,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-applets,1888,9,13956,470,3,1129,1733,15853,11.909417775815303,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-backgrounds,27,0,38,19,0,12,26,65,41.53846153846154,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-calc,1312,0,1866,462,0,257,1183,3178,41.28382630585274,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-control-center,2505,0,6097,978,0,534,2232,8602,29.121134619855848,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-desktop,1152,0,1072,180,0,105,891,2224,51.798561151079134,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-icon-theme,4,0,0,2,0,0,4,4,100.0,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-media,121,0,118,54,0,45,130,239,50.627615062761514,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-menu,63,0,245,34,0,76,61,308,20.454545454545457,Telugu (http://www.transifex.com/mate/MATE/language/te/)
+mate-menus,97,0,0,37,0,0,92,97,100.0,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-notification-daemon,10,0,142,6,0,35,10,152,6.578947368421052,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-panel,3859,0,2868,538,0,264,3157,6727,57.36583915564144,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-polkit,97,0,26,17,0,4,74,123,78.86178861788618,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-power-manager,1351,3,3785,283,1,270,1118,5139,26.28916131543102,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-screensaver,867,0,153,146,0,23,637,1020,85.0,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-sensors-applet,54,0,2106,42,0,184,66,2160,2.5,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-session-manager,429,0,283,102,0,29,377,712,60.25280898876404,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-settings-daemon,1082,0,1115,182,0,136,882,2197,49.24897587619481,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-system-monitor,566,0,4345,213,0,445,547,4911,11.525147627774384,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-terminal,3977,0,4395,497,0,301,3154,8372,47.50358337314859,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-themes,9,0,65,3,0,20,9,74,12.162162162162163,Telugu (http://www.transifex.com/mate/MATE/language/te/)
+mate-user-admin,12,0,616,10,0,121,12,628,1.910828025477707,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-user-guide,146,0,42824,86,0,3143,144,42970,0.33977193390737725,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mate-utils,3249,0,7055,649,0,480,2677,10304,31.53144409937888,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+mc,0,0,4289,0,0,1273,0,4289,0.0,Telugu (http://www.transifex.com/mc/mc/language/te/)
+metacity,2040,0,0,310,0,0,1723,2040,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+midori,15,0,3526,8,0,788,19,3541,0.42360914995763904,Telugu <te@li.org>
+mingw-GConf2,4088,0,0,497,0,0,3604,4088,100.0,Telugu <en@li.org>
+mingw-atk,398,0,0,139,0,0,332,398,100.0,Telugu <en@li.org>
+mingw-colord,0,0,583,0,0,145,0,583,0.0,Telugu (http://www.transifex.com/projects/p/freedesktop/language/te/)
+mingw-gdk-pixbuf,1354,0,0,202,0,0,1098,1354,100.0,Telugu <Fedora-trans-te@redhat.com>
+mingw-glib-networking,153,0,0,28,0,0,140,153,100.0,Telugu <Indlinux-telugu@lists.sourceforge.net>
+mingw-glib2,5703,0,0,905,0,0,4929,5703,100.0,Telugu <kde-i18n-doc@kde.org>
+mingw-gtk-vnc,8,0,0,3,0,0,8,8,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+mingw-gtk2,13259,295,150,2717,49,18,9940,13704,96.75277291301809,Telugu <en@li.org>
+mingw-gtk3,13891,0,0,3057,0,0,10778,13891,100.0,Telugu <kde-i18n-doc@kde.org>
+mingw-gtksourceview3,123,85,114,39,21,46,114,322,38.19875776397515,Telugu <indlinux-telugu@lists.sourceforge.net>
+mingw-json-glib,226,0,0,27,0,0,191,226,100.0,telugu <localization@swecha.net>
+mingw-libsoup,110,0,0,25,0,0,96,110,100.0,Telugu <kde-i18n-doc@kde.org>
+mingw-libvirt,32174,22537,12449,5317,3571,1461,28341,67160,47.906491959499704,Telugu (http://www.transifex.com/projects/p/libvirt/language/te/)
+mingw-libvirt-glib,0,0,158,0,0,31,0,158,0.0,Telugu (http://www.transifex.com/projects/p/libvirt-glib/language/te/)
+mingw-p11-kit,0,0,476,0,0,81,0,476,0.0,Telugu (http://www.transifex.com/freedesktop/p11-kit/language/te/)
+mousepad,514,0,586,190,0,118,512,1100,46.72727272727273,Telugu (http://www.transifex.com/xfce/xfce-apps/language/te/)
+mousetweaks,114,0,0,30,0,0,111,114,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+mozo,42,0,1,16,0,1,37,43,97.67441860465115,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+muffin,2038,0,0,272,0,0,1726,2038,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+multimedia-menus,56,0,0,22,0,0,55,56,100.0,Telugu <en@li.org>
+mutter,1807,22,0,234,3,0,1493,1829,98.79715691634773,Telugu <kde-i18n-doc@kde.org>
+mypaint,364,88,6121,117,39,1124,316,6573,5.537806176783812,Telugu <https://hosted.weblate.org/projects/mypaint/mypaint/te/>
+nautilus,6107,7,0,1029,1,0,4975,6114,99.88550866862937,Telugu <kde-i18n-doc@kde.org>
+nautilus-sendto,45,0,0,8,0,0,38,45,100.0,Telugu <kde-i18n-doc@kde.org>
+nemo-extensions,250,0,0,47,0,0,210,250,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+network-manager-applet,1046,1375,2057,318,286,315,963,4478,23.358642251004913,Telugu <indlinux-telugu@lists.sourceforge.net>
+newt,4,0,0,4,0,0,4,4,100.0,Telugu <en@li.org>
+notification-daemon,17,0,0,7,0,0,15,17,100.0,తెలుగు <indlinux-telugu@lists.sourceforge.net>
+nutty,0,0,608,0,0,152,0,608,0.0,
+olpc-switch-desktop,0,158,0,0,14,0,0,158,0.0,LANGUAGE <LL@li.org>
+onboard,13,0,2305,10,0,500,14,2318,0.5608283002588439,Telugu <te@li.org>
+optimizer,0,0,282,0,0,75,0,282,0.0,none
+orca,4091,0,0,1170,0,0,3674,4091,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+osmo,502,0,1269,289,0,409,490,1771,28.34556747600226,Telugu
+p11-kit,0,0,476,0,0,81,0,476,0.0,Telugu (http://www.transifex.com/freedesktop/p11-kit/language/te/)
+pam,457,167,14,97,23,2,369,638,71.63009404388715,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+pantheon-agent-geoclue2,0,0,101,0,0,18,0,101,0.0,LANGUAGE <LL@li.org>
+pantheon-agent-polkit,0,0,48,0,0,15,0,48,0.0,LANGUAGE <LL@li.org>
+paprefs,131,0,0,23,0,0,132,131,100.0,Telugu <en@li.org>
+parole,272,0,816,154,0,147,287,1088,25.0,Telugu (http://www.transifex.com/xfce/xfce-apps/language/te/)
+passwd,306,0,30,54,0,3,297,336,91.07142857142857,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+pavucontrol,219,1,17,85,1,1,222,237,92.40506329113924,Telugu <en@li.org>
+pgadmin3,50,40,23126,42,23,5786,50,23216,0.215368711233632,The pgAdmin Development Team <devteam@pgadmin.org>
+php-phpmyadmin-sql-parser5,20,79,169,3,16,31,19,268,7.462686567164178,Telugu <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/te/>
+picard,64,0,3131,50,0,930,66,3195,2.003129890453834,Telugu (http://www.transifex.com/musicbrainz/musicbrainz/language/te/)
+pidgin,14185,0,1650,3093,0,364,12850,15835,89.58004420587307,Telugu (http://www.transifex.com/pidgin/pidgin/language/te/)
+pidgin-sipe,0,0,1119,0,0,273,0,1119,0.0,Telugu (http://www.transifex.com/stefanb/pidgin-sipe/language/te/)
+pipewire,104,281,262,45,31,32,106,647,16.0741885625966,Telugu <en@li.org>
+pitivi,737,0,866,293,0,111,718,1603,45.97629444791017,Telugu <indlinux-telugu@lists.sourceforge.net>
+plank,160,0,29,41,0,9,144,189,84.65608465608466,Telugu <te@li.org>
+plasma-desktop,1480,381,3006,277,123,396,1308,4867,30.408876104376414,Telugu <en@li.org>
+plasma-drkonqi,8,112,3846,3,25,324,11,3966,0.2017145738779627,Telugu <en@li.org>
+plasma-sdk,18,2,343,11,1,66,27,363,4.958677685950414,Telugu <en@li.org>
+plasma-systemsettings,7,8,216,4,4,52,11,231,3.0303030303030303,Telugu <en@li.org>
+plasma-workspace,333,580,3945,148,198,805,350,4858,6.854672704816797,Telugu <en@li.org>
+playonlinux,0,0,2728,0,0,449,0,2728,0.0,Telugu <te@li.org>
+pluma,3849,0,9271,1004,0,1072,3307,13120,29.33689024390244,Telugu (https://www.transifex.com/mate/teams/13566/te/)
+pmount,42,0,681,1,0,62,42,723,5.809128630705394,Telugu <te@li.org>
+polari,225,0,0,76,0,0,223,225,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+policycoreutils,3618,0,875,564,0,134,2852,4493,80.52526151791676,Telugu
+polkit-gnome,94,0,0,16,0,0,72,94,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+powerdevil,4,10,317,2,5,71,8,331,1.2084592145015105,Telugu <en@li.org>
+publican,1749,67,3627,122,3,491,1352,5443,32.13301488149917,Telugu <en@li.org>
+pulseaudio,2011,951,342,407,43,46,1809,3304,60.865617433414045,Telugu <en@li.org>
+pychess,143,0,4312,69,0,810,151,4455,3.2098765432098766,Telugu (http://www.transifex.com/gbtami/pychess/language/te/)
+pyhoca-gui,0,0,1865,0,0,402,0,1865,0.0,none
+pykickstart,168,43,1480,19,1,162,139,1691,9.934949733885274,Telugu (http://www.transifex.com/projects/p/pykickstart/language/te/)
+python-blivet,326,0,232,56,0,20,290,558,58.422939068100355,Telugu (http://www.transifex.com/projects/p/blivet/language/te/)
+python-django,850,0,2665,401,0,409,818,3515,24.182076813655762,Telugu (http://www.transifex.com/django/django/language/te/)
+python-django-contrib-comments,150,0,94,43,0,17,122,244,61.47540983606557,Telugu (http://www.transifex.com/django/django-contrib-comments/language/te/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Telugu
+python-meh,1,0,108,1,0,22,2,109,0.9174311926605505,Telugu (http://www.transifex.com/projects/p/python-meh/language/te/)
+python-nikola,94,0,0,44,0,0,93,94,100.0,Telugu (http://www.transifex.com/ralsina/nikola/language/te/)
+python-sphinx,0,0,4581,0,0,708,0,4581,0.0,Telugu (http://www.transifex.com/sphinx-doc/sphinx-1/language/te/)
+quadrapassel,278,28,122,66,9,4,217,428,64.95327102803739,Telugu <indlinux-telugu@lists.sourceforge.net>
+realmd,0,0,789,0,0,127,0,789,0.0,Telugu (http://www.transifex.com/freedesktop/realmd/language/te/)
+redhat-menus,261,0,0,86,0,0,250,261,100.0,Telugu
+rednotebook,87,0,1060,50,0,190,87,1147,7.585004359197908,Telugu <te@li.org>
+remmina,30,4205,44,16,823,8,32,4279,0.7010983874737089,Telugu <https://hosted.weblate.org/projects/remmina/remmina/te/>
+retrace-server,0,0,433,0,0,56,0,433,0.0,Telugu
+rhythmbox,3505,0,567,966,0,67,3176,4072,86.07563850687623,Telugu <indlinux-telugu@lists.sourceforge.net>
+ristretto,183,0,576,101,0,95,210,759,24.110671936758894,Telugu (http://www.transifex.com/xfce/xfce-apps/language/te/)
+rpm,66,2,4568,21,1,868,62,4636,1.4236410698878343,Telugu (http://www.transifex.com/rpm-team/rpm/language/te/)
+rpm-ostree,2,0,1439,1,0,223,2,1441,0.13879250520471895,Telugu
+rygel,577,0,0,118,0,0,523,577,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+seahorse,2412,0,0,570,0,0,2201,2412,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+seahorse-caja,411,10,0,109,1,0,390,421,97.62470308788599,Telugu <en@li.org>
+seahorse-nautilus,411,10,0,109,1,0,390,421,97.62470308788599,Telugu <en@li.org>
+setroubleshoot,527,0,108,149,0,18,457,635,82.99212598425197,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+setroubleshoot-plugins,2314,0,3932,118,0,108,1783,6246,37.04771053474224,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+setuptool,55,0,0,14,0,0,55,55,100.0,Telugu <en@li.org>
+shared-mime-info,0,0,1991,0,0,773,0,1991,0.0,Telugu (http://www.transifex.com/freedesktop/shared-mime-info/language/te/)
+shotwell,4257,24,292,904,5,39,3665,4573,93.08987535534659,"American English <kde-i18n-doc@kde.org>
+te/)"
+shutter,137,0,2790,87,0,502,160,2927,4.6805603006491285,Telugu <te@li.org>
+simple-scan,349,0,240,89,0,56,301,589,59.25297113752123,Telugu <te@li.org>
+slick-greeter,3,0,208,2,0,45,3,211,1.4218009478672986,Telugu <te@li.org>
+sos,54,33,35,11,7,12,51,122,44.26229508196721,Telugu <en@li.org>
+sound-juicer,1022,0,0,198,0,0,912,1022,100.0,Telugu <en@li.org>
+soundconverter,38,1,468,22,1,106,46,507,7.495069033530571,Telugu <te@li.org>
+sparkleshare,6,0,396,3,0,84,5,402,1.4925373134328357,
+stellarium,39582,0,101822,13585,0,22834,38290,141404,27.992136007467966,Telugu (https://www.transifex.com/stellarium/teams/80998/te/)
+subscription-manager,3915,787,2106,742,125,310,3280,6808,57.50587544065805,Telugu
+sugar,446,60,1799,179,20,330,414,2305,19.34924078091106,LANGUAGE <LL@li.org>
+sugar-browse,38,19,277,24,3,44,41,334,11.377245508982035,LANGUAGE <LL@li.org>
+sugar-calculator,351,70,445,80,15,74,344,866,40.531177829099306,LANGUAGE <LL@li.org>
+sugar-chat,36,0,101,18,0,63,36,137,26.277372262773724,LANGUAGE <LL@li.org>
+sugar-clock,0,1,65,0,1,20,0,66,0.0,LANGUAGE <LL@li.org>
+sugar-distance,72,4,23,14,1,11,57,99,72.72727272727273,LANGUAGE <LL@li.org>
+sugar-fototoon,10,0,129,8,0,40,8,139,7.194244604316546,LANGUAGE <LL@li.org>
+sugar-getiabooks,0,0,119,0,0,33,0,119,0.0,LANGUAGE <LL@li.org>
+sugar-imageviewer,16,0,42,8,0,8,17,58,27.586206896551722,LANGUAGE <LL@li.org>
+sugar-implode,0,0,77,0,0,20,0,77,0.0,LANGUAGE <LL@li.org>
+sugar-infoslicer,0,0,236,0,0,62,0,236,0.0,LANGUAGE <LL@li.org>
+sugar-jukebox,69,0,0,22,0,0,68,69,100.0,LANGUAGE <LL@li.org>
+sugar-labyrinth,0,0,281,0,0,94,0,281,0.0,LANGUAGE <LL@li.org>
+sugar-log,37,0,61,12,0,9,30,98,37.755102040816325,LANGUAGE <LL@li.org>
+sugar-maze,3,0,4,2,0,2,3,7,42.857142857142854,LANGUAGE <LL@li.org>
+sugar-measure,9,4,142,5,2,66,9,155,5.806451612903226,LANGUAGE <LL@li.org>
+sugar-memorize,26,8,108,15,7,52,27,142,18.30985915492958,LANGUAGE <LL@li.org>
+sugar-paint,53,0,53,45,0,16,59,106,50.0,LANGUAGE <LL@li.org>
+sugar-pippy,36,15,224,12,1,54,27,275,13.090909090909092,LANGUAGE <LL@li.org>
+sugar-portfolio,0,0,60,0,0,21,0,60,0.0,LANGUAGE <LL@li.org>
+sugar-read,35,0,102,22,0,28,36,137,25.547445255474454,LANGUAGE <LL@li.org>
+sugar-record,12,10,40,10,3,11,16,62,19.35483870967742,LANGUAGE <LL@li.org>
+sugar-ruler,0,0,29,0,0,8,0,29,0.0,LANGUAGE <LL@li.org>
+sugar-terminal,7,0,114,5,0,21,7,121,5.785123966942149,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,158,3,52,109,3,11,160,213,74.17840375586854,LANGUAGE <LL@li.org>
+sugar-turtleart,448,80,931,195,25,215,446,1459,30.705962988348183,LANGUAGE <walter@sugarlabs.org>
+sugar-view-slides,0,0,7,0,0,5,0,7,0.0,LANGUAGE <LL@li.org>
+sugar-visualmatch,0,0,158,0,0,78,0,158,0.0,LANGUAGE <LL@li.org>
+sugar-write,77,0,44,44,0,11,80,121,63.63636363636363,LANGUAGE <LL@li.org>
+sushi,24,0,0,11,0,0,23,24,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+swell-foop,87,50,129,33,12,10,83,266,32.70676691729324,Telugu <indlinux-telugu@lists.sourceforge.net>
+switchboard,0,0,124,0,0,26,0,124,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-a11y,1,0,124,1,0,37,1,125,0.8,LANGUAGE <LL@li.org>
+switchboard-plug-about,0,0,96,0,0,29,0,96,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-applications,0,0,95,0,0,34,0,95,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-bluetooth,0,0,188,0,0,51,0,188,0.0,Telugu <te@li.org>
+switchboard-plug-display,0,0,139,0,0,52,0,139,0.0,Telugu <te@li.org>
+switchboard-plug-keyboard,0,0,530,0,0,193,0,530,0.0,
+switchboard-plug-mouse-touchpad,0,0,232,0,0,73,0,232,0.0,none
+switchboard-plug-networking,0,0,474,0,0,137,0,474,0.0,
+switchboard-plug-notifications,0,0,142,0,0,21,0,142,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-onlineaccounts,0,0,160,0,0,56,0,160,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-pantheon-shell,0,0,181,0,0,65,0,181,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-printers,0,0,362,0,0,144,0,362,0.0,LANGUAGE <LL@li.org>
+switchboard-plug-sharing,0,0,140,0,0,32,0,140,0.0,none
+switchboard-plug-sound,0,0,152,0,0,51,0,152,0.0,
+switchdesk,16,87,19,3,10,6,15,122,13.114754098360656,Telugu <en@li.org>
+synapse,345,0,511,120,0,114,304,856,40.30373831775701,Telugu <te@li.org>
+system-config-language,61,107,47,14,9,8,51,215,28.37209302325581,Telugu <en@li.org>
+system-config-printer,3033,37,395,727,18,176,2609,3465,87.53246753246754,Telugu (http://www.transifex.com/projects/p/system-config-printer/language/te/)
+system-config-rootpassword,116,0,0,19,0,0,93,116,100.0,Telugu <en@li.org>
+system-switch-java,81,0,0,11,0,0,60,81,100.0,Telugu <en@li.org>
+system-switch-mail,9,88,4,6,8,3,9,101,8.91089108910891,Telugu <en@li.org>
+tali,321,33,67,85,6,6,281,421,76.24703087885986,Telugu <indlinux-telugu@lists.sourceforge.net>
+taxi,0,0,62,0,0,15,0,62,0.0,LANGUAGE <LL@li.org>
+terminator,130,0,1320,69,0,358,131,1450,8.96551724137931,Telugu (https://www.transifex.com/terminator/teams/109338/te/)
+thunar-volman,335,0,164,93,0,27,314,499,67.13426853707415,Telugu (http://www.transifex.com/xfce/thunar-volman/language/te/)
+tomboy,3281,0,0,472,0,0,2734,3281,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+totem,1484,0,4514,404,0,245,1261,5998,24.74158052684228,Telugu <indlinux-telugu@lists.sourceforge.net>
+totem-pl-parser,28,0,0,7,0,0,23,28,100.0,Telugu <en@li.org>
+trac-accountmanager-plugin,85,1,1122,40,1,163,77,1208,7.0364238410596025,Telugu (http://www.transifex.com/projects/p/Trac_Plugin-L10N/language/te/)
+tracker,291,0,2908,135,0,401,275,3199,9.096592685214128,Telugu <indlinux-telugu@lists.sourceforge.net>
+tracker-miners,291,0,2908,135,0,401,275,3199,9.096592685214128,Telugu <indlinux-telugu@lists.sourceforge.net>
+tracker3,291,0,2908,135,0,401,275,3199,9.096592685214128,Telugu <indlinux-telugu@lists.sourceforge.net>
+tracker3-miners,291,0,2908,135,0,401,275,3199,9.096592685214128,Telugu <indlinux-telugu@lists.sourceforge.net>
+transmission,1580,0,418,455,0,68,1601,1998,79.07907907907908,Telugu (https://www.transifex.com/transmissionbt/teams/33778/te/)
+tumbler,203,0,109,34,0,16,162,312,65.06410256410257,Telugu <indlinux-telugu@lists.sourceforge.net>
+tuxpaint,1127,474,61,240,39,26,1008,1662,67.80986762936222,Telugu <indlinux-telugu@lists.sourceforge.net>
+tuxtype2,71,0,9,32,0,8,63,80,88.75,Telugu <en@li.org>
+vinagre,1507,0,0,275,0,0,1198,1507,100.0,Telugu <kde-i18n-doc@kde.org>
+vino,1228,0,0,134,0,0,951,1228,100.0,Telugu <Fedora-trans-te@redhat.com>
+virt-manager,3567,585,2950,830,99,484,3155,7102,50.2252886510842,Telugu (http://www.transifex.com/projects/p/virt-manager/language/te/)
+virt-top,294,0,121,68,0,16,273,415,70.8433734939759,Telugu <>
+virt-viewer,394,0,460,82,0,111,331,854,46.13583138173302,Telugu (http://www.transifex.com/projects/p/virt-viewer/language/te/)
+volume_key,745,10,8,151,2,1,665,763,97.64089121887287,Telugu (http://www.transifex.com/projects/p/fedora/language/te/)
+vte,108,0,0,19,0,0,97,108,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+vte291,108,0,0,19,0,0,97,108,100.0,Swecha Telugu Localisation Team <localisation@swecha.org>
+webkit2gtk3,1526,0,0,365,0,0,1270,1526,100.0,Telugu <kde-i18n-doc@kde.org>
+wine,12,213,18177,9,102,3914,19,18402,0.06521030322791001,Telugu
+wingpanel,0,0,19,0,0,4,0,19,0.0,LANGUAGE <LL@li.org>
+wingpanel-applications-menu,0,0,294,0,0,86,0,294,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-bluetooth,0,0,30,0,0,18,0,30,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-datetime,0,0,128,0,0,25,0,128,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-keyboard,0,0,38,0,0,10,0,38,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-network,0,0,97,0,0,27,0,97,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-nightlight,0,0,31,0,0,8,0,31,0.0,
+wingpanel-indicator-notifications,0,0,38,0,0,13,0,38,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-power,0,0,117,0,0,32,0,117,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-session,0,0,81,0,0,25,0,81,0.0,LANGUAGE <LL@li.org>
+wingpanel-indicator-sound,0,0,53,0,0,13,0,53,0.0,LANGUAGE <LL@li.org>
+workrave,171,25,1202,79,16,179,168,1398,12.231759656652361,e-Telugu Localization Team
+xarchiver,211,37,966,121,14,168,226,1214,17.380560131795715,Telugu <indlinux-telugu@lists.sourceforge.net>
+xdg-user-dirs,28,0,0,28,0,0,28,28,100.0,Telugu <Fedora-trans-te@redhat.com>
+xdg-user-dirs-gtk,81,0,0,11,0,0,62,81,100.0,Telugu <en@li.org>
+xed,2919,0,1723,722,0,284,2438,4642,62.88237828522188,Telugu (http://www.transifex.com/projects/p/MATE/language/te/)
+xfburn,474,0,939,183,0,123,445,1413,33.54564755838641,Telugu (http://www.transifex.com/xfce/xfce-apps/language/te/)
+xfce4-appfinder,100,0,306,45,0,36,104,406,24.63054187192118,Telugu (http://www.transifex.com/xfce/xfce4-appfinder/language/te/)
+xfce4-hardware-monitor-plugin,356,0,0,129,0,0,341,356,100.0,Telugu <en@li.org>
+xfce4-panel,452,0,1271,207,0,207,476,1723,26.233313987231572,Telugu (http://www.transifex.com/xfce/xfce4-panel/language/te/)
+xfce4-power-manager,389,0,657,124,0,86,376,1046,37.18929254302103,Telugu (http://www.transifex.com/xfce/xfce4-power-manager/language/te/)
+xfce4-screenshooter,129,0,302,36,0,28,101,431,29.930394431554525,Telugu (http://www.transifex.com/xfce/xfce-apps/language/te/)
+xfce4-session,260,0,809,101,0,108,246,1069,24.321796071094482,Telugu <indlinux-telugu@lists.sourceforge.net>
+xfce4-settings,342,0,1249,179,0,175,375,1591,21.495914519170334,Telugu (http://www.transifex.com/projects/p/xfce/language/te/)
+xfce4-taskmanager,92,0,167,57,0,31,95,259,35.521235521235525,Telugu (http://www.transifex.com/xfce/xfce-apps/language/te/)
+xfce4-terminal,140,249,708,75,52,155,172,1097,12.76207839562443,Telugu <indlinux-telugu@lists.sourceforge.net>
+xfce4-weather-plugin,9,9,3576,9,9,306,9,3594,0.25041736227045075,Telugu <indlinux-telugu@lists.sourceforge.net>
+xfconf,88,0,363,20,0,47,78,451,19.51219512195122,Telugu <indlinux-telugu@lists.sourceforge.net>
+xfdesktop,269,0,566,115,0,84,293,835,32.215568862275454,Telugu <indlinux-telugu@lists.sourceforge.net>
+xfwm4,76,35,524,48,12,109,90,635,11.968503937007874,Telugu <indlinux-telugu@lists.sourceforge.net>
+xreader,950,0,743,230,0,159,836,1693,56.11340815121086,Telugu (http://www.transifex.com/mate/MATE/language/te/)
+yelp,452,0,0,104,0,0,363,452,100.0,Telugu <kde-i18n-doc@kde.org>
+yelp-xsl,80,0,0,58,0,0,74,80,100.0,Telugu <indlinux-telugu@lists.sourceforge.net>
+zenity,742,0,0,171,0,0,640,742,100.0,

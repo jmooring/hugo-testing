@@ -1,0 +1,21 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,8,0,1784,7,0,406,22,1792,0.4464285714285714,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+engrampa,9,0,2006,9,0,371,22,2015,0.4466501240694789,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+eom,14,0,1766,14,0,328,27,1780,0.7865168539325843,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+libgweather,662,0,0,234,0,0,733,662,100.0,Spanish <gnome-es-list@gnome.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+libmateweather,362,0,137,154,0,29,426,499,72.54509018036072,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-applets,1648,0,10284,376,0,896,2165,11932,13.811599061347637,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-calc,7,0,1373,7,0,422,20,1380,0.5072463768115941,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-control-center,19,0,2685,13,0,623,33,2704,0.7026627218934911,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-media,4,0,234,3,0,97,5,238,1.680672268907563,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-menu,0,0,316,0,0,118,0,316,0.0,Spanish (Nicaragua) (http://www.transifex.com/projects/p/MATE/language/es_NI/)
+mate-panel,37,0,6631,27,0,761,83,6668,0.5548890221955609,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-power-manager,10,0,2721,10,0,431,23,2731,0.36616623947272064,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-sensors-applet,10,0,311,10,0,100,23,321,3.115264797507788,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-session-manager,5,0,686,5,0,119,5,691,0.723589001447178,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-settings-daemon,43,0,1797,6,0,268,45,1840,2.3369565217391304,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-system-monitor,16,0,1452,12,0,311,33,1468,1.08991825613079,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+mate-themes,0,0,60,0,0,12,0,60,0.0,Spanish (Nicaragua) (http://www.transifex.com/mate/MATE/language/es_NI/)
+mate-utils,6,0,2522,4,0,178,32,2528,0.23734177215189875,Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/)
+wicd,11,0,1127,7,0,247,13,1138,0.9666080843585236,es_NI <LL@li.org>

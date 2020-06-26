@@ -1,0 +1,37 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+asunder,8,0,472,8,0,79,11,480,1.6666666666666667,http://littlesvr.ca/ostd/
+coreutils,10270,7641,2601,1113,397,210,15452,20512,50.06825273010921,Luganda <kbirabwa@yahoo.co.uk>
+findutils,123,409,2296,36,50,198,151,2828,4.3493635077793495,Luganda <kompyuta@kizito.freeuk.com>
+gpicview,236,0,0,52,0,0,264,236,100.0,Luganda <kbirabwa@yahoo.co.uk>
+gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+isomaster,19,0,655,14,0,93,19,674,2.8189910979228485,http://littlesvr.ca/ostd/
+libfm,1565,0,0,390,0,0,1823,1565,100.0,lg <kbirabwa@yahoo.co.uk>
+libgnomeui,332,0,894,129,0,191,309,1226,27.07993474714519,Luganda <kbirabwa@yahoo.co.uk>
+librfm,964,611,822,140,194,264,1512,2397,40.21693783896537,Luganda <kbirabwa@yahoo.co.uk>
+lxappearance,234,0,0,80,0,0,237,234,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxappearance-obconf,196,0,0,27,0,0,203,196,100.0,LANGUAGE <LL@li.org>
+lxde-common,14,0,0,5,0,0,20,14,100.0,LANGUAGE <LL@li.org>
+lxdm,47,0,0,25,0,0,53,47,100.0,LANGUAGE <LL@li.org>
+lxinput,83,0,0,26,0,0,96,83,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxlauncher,58,0,0,17,0,0,40,58,100.0,LANGUAGE <LL@li.org>
+lxmenu-data,97,0,0,37,0,0,131,97,100.0,LANGUAGE <LL@li.org>
+lxmusic,203,0,0,89,0,0,252,203,100.0,LANGUAGE <LL@li.org>
+lxpanel,1306,0,0,424,0,0,1544,1306,100.0,Luganda <kbirabwa@yahoo.co.uk>
+lxpolkit,15,0,0,9,0,0,23,15,100.0,LANGUAGE <LL@li.org>
+lxrandr,167,0,0,41,0,0,185,167,100.0,LANGUAGE <LL@li.org>
+lxsession,295,0,460,111,0,55,376,755,39.0728476821192,Deutsch <LL@li.org>
+lxsession-edit,64,0,0,11,0,0,62,64,100.0,LANGUAGE <LL@li.org>
+lxshortcut,43,0,0,19,0,0,49,43,100.0,LANGUAGE <LL@li.org>
+lxtask,130,0,0,51,0,0,147,130,100.0,lg <kbirabwa@yahoo.co.uk>
+lxterminal,182,1,64,102,1,28,276,247,73.68421052631578,lg <kbirabwa@yahoo.co.uk>
+mingw-gtk3,1889,0,10452,677,0,1878,2048,12341,15.306701239769874,Luganda <kbirabwa@yahoo.co.uk>
+mingw-gtkspell3,10,0,6,5,0,2,11,16,62.5,Ganda <LL@li.org>
+pcmanfm,1209,0,1,295,0,1,1351,1210,99.91735537190083,lg <kbirabwa@yahoo.co.uk>
+rodent,53,431,9150,48,198,566,100,9634,0.5501349387585635,Luganda <kbirabwa@yahoo.co.uk>
+sugar,4,58,1671,2,44,373,4,1733,0.2308136180034622,LANGUAGE <LL@li.org>
+sugar-browse,0,0,189,0,0,52,0,189,0.0,LANGUAGE <LL@li.org>
+sugar-toolkit-gtk3,0,20,56,0,19,21,0,76,0.0,LANGUAGE <LL@li.org>
+tuxpaint,1515,72,4,279,8,4,1249,1591,95.22313010685104,LANGUAGE <LL@li.org>
+vidalia,0,0,9310,0,0,1211,0,9310,0.0,LANGUAGE <LL@li.org>
+virtaal,1422,39,192,449,12,83,1461,1653,86.02540834845736,LANGUAGE <LL@li.org>

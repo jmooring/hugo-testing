@@ -1,0 +1,6 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+kde-i18n,181,0,0,26,0,0,64,181,100.0,Chinese (traditional) <zh-l10n@linux.org.tw>
+pida,7,0,0,3,0,0,8,7,100.0,
+po4a,0,35,0,0,15,0,0,35,0.0,LANGUAGE <LL@li.org>
+shadow-utils,10869,0,0,759,0,0,12388,10869,100.0,Debian French Team <debian-l10n-french@lists.debian.org>
+wine-docs,0,38,0,0,15,0,0,38,0.0,LANGUAGE <LL@li.org>

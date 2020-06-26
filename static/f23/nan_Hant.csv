@@ -1,0 +1,3 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+gnome-do,0,0,612,0,0,144,0,612,0.0,Min Nan Chinese <nan@li.org>
+stellarium,2,0,17166,1,0,4567,1,17168,0.011649580615097856,Min Nan Chinese <nan@li.org>

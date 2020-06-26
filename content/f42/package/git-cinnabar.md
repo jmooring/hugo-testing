@@ -1,0 +1,61 @@
+---
+title: "git-cinnabar - translation progress for f42"
+package: git-cinnabar
+date: 2026-01-18T12:09:10+00:00
+started_languages: 23
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 54
+release: f42
+---
+The package git-cinnabar (version 0.5.11):
+
+* represents 41251 source words to be translated
+* is translated into 23 languages in Fedora f42
+
+
+* contains 54 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [bg]({{< ref "/f42/language/bg.md" >}}) | 41174 | 41174 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/bg.po/mnt/stockage/packages/f42/git-cinnabar/git-gui/po/glossary/bg.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/bg.po/mnt/stockage/packages/f42/git-cinnabar/po/bg.po | 
+ | [ca]({{< ref "/f42/language/ca.md" >}}) | 38416 | 38416 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/ca.po/mnt/stockage/packages/f42/git-cinnabar/po/ca.po | 
+ | [de]({{< ref "/f42/language/de.md" >}}) | 41251 | 41251 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/de.po/mnt/stockage/packages/f42/git-cinnabar/git-gui/po/glossary/de.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/de.po/mnt/stockage/packages/f42/git-cinnabar/po/de.po | 
+ | [is]({{< ref "/f42/language/is.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/po/is.po | 
+ | [ko]({{< ref "/f42/language/ko.md" >}}) | 24346 | 24346 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/po/ko.po | 
+ | [pl]({{< ref "/f42/language/pl.md" >}}) | 35369 | 35369 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/po/pl.po | 
+ | [pt]({{< ref "/f42/language/pt.md" >}}) | 3808 | 3808 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/pt_pt.po/mnt/stockage/packages/f42/git-cinnabar/git-gui/po/glossary/pt_pt.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/pt_pt.po | 
+ | [sv]({{< ref "/f42/language/sv.md" >}}) | 40958 | 40958 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/sv.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/sv.po/mnt/stockage/packages/f42/git-cinnabar/po/sv.po | 
+ | [tr]({{< ref "/f42/language/tr.md" >}}) | 37281 | 37281 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/po/tr.po | 
+ | [vi]({{< ref "/f42/language/vi.md" >}}) | 40082 | 40082 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/vi.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/vi.po/mnt/stockage/packages/f42/git-cinnabar/po/vi.po | 
+ | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 37281 | 37281 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/po/zh_TW.po | 
+ | [fr]({{< ref "/f42/language/fr.md" >}}) | 40844 | 40857 | 100.0 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/fr.po/mnt/stockage/packages/f42/git-cinnabar/git-gui/po/glossary/fr.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/fr.po/mnt/stockage/packages/f42/git-cinnabar/po/fr.po | 
+ | [ja]({{< ref "/f42/language/ja.md" >}}) | 3675 | 3677 | 99.9 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/ja.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/ja.po | 
+ | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 40273 | 40351 | 99.8 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/zh_cn.po/mnt/stockage/packages/f42/git-cinnabar/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/zh_cn.po/mnt/stockage/packages/f42/git-cinnabar/po/zh_CN.po | 
+ | [it]({{< ref "/f42/language/it.md" >}}) | 37440 | 37613 | 99.5 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/it.po/mnt/stockage/packages/f42/git-cinnabar/git-gui/po/glossary/it.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/it.po/mnt/stockage/packages/f42/git-cinnabar/po/it.po | 
+ | [es]({{< ref "/f42/language/es.md" >}}) | 37915 | 38416 | 98.7 | /mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/es.po/mnt/stockage/packages/f42/git-cinnabar/po/es.po | 
+ | [id]({{< ref "/f42/language/id.md" >}}) | 36456 | 37281 | 97.8 | /mnt/stockage/packages/f42/git-cinnabar/po/id.po | 
+ | [hu]({{< ref "/f42/language/hu.md" >}}) | 3304 | 3463 | 95.4 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/hu.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/hu.po | 
+ | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 3391 | 3569 | 95.0 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/pt_br.po/mnt/stockage/packages/f42/git-cinnabar/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/pt_br.po | 
+ | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/nb.po | 
+ | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 28623 | 35906 | 79.7 | /mnt/stockage/packages/f42/git-cinnabar/po/pt_PT.po | 
+ | [ru]({{< ref "/f42/language/ru.md" >}}) | 24959 | 40265 | 62.0 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/ru.po/mnt/stockage/packages/f42/git-cinnabar/gitk-git/po/ru.po/mnt/stockage/packages/f42/git-cinnabar/po/ru.po | 
+ | [el]({{< ref "/f42/language/el.md" >}}) | 9779 | 31237 | 31.3 | /mnt/stockage/packages/f42/git-cinnabar/git-gui/po/el.po/mnt/stockage/packages/f42/git-cinnabar/git-gui/po/glossary/el.po/mnt/stockage/packages/f42/git-cinnabar/po/el.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

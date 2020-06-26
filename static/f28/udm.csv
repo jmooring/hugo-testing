@@ -1,0 +1,5 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+elementary-calculator,6,0,46,5,0,27,13,52,11.538461538461538,Udmurt <udm@li.org>
+pantheon-calculator,6,0,46,5,0,27,13,52,11.538461538461538,Udmurt <udm@li.org>
+python-django,475,0,2951,229,0,536,434,3426,13.864565090484529,Udmurt (http://www.transifex.com/django/django/language/udm/)
+python2-django1.11,475,0,2875,229,0,524,434,3350,14.17910447761194,Udmurt (http://www.transifex.com/django/django/language/udm/)

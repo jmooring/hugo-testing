@@ -1,0 +1,32 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+anaconda,66,0,7745,14,0,1271,77,7811,0.8449622327486879,Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/)
+certmonger,0,0,2831,0,0,473,0,2831,0.0,Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/)
+cinnamon-control-center,0,0,1313,0,0,756,0,1313,0.0,
+dnf-plugins-extras,0,0,375,0,0,75,0,375,0.0,Iloko
+docker-anaconda-addon,0,0,27,0,0,4,0,27,0.0,Iloko
+entangle,0,0,953,0,0,229,0,953,0.0,Iloko
+gnome-control-center,0,0,1313,0,0,756,0,1313,0.0,
+initial-setup,0,0,33,0,0,7,0,33,0.0,Iloko
+libbytesize,0,0,17,0,0,17,0,17,0.0,Iloko
+libosinfo,0,0,728,0,0,156,0,728,0.0,Iloko
+libvirt,0,0,64065,0,0,9877,0,64065,0.0,Iloko
+libvirt-glib,0,0,153,0,0,30,0,153,0.0,Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/)
+libvirt-sandbox,0,0,617,0,0,111,0,617,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+mingw-libosinfo,0,0,728,0,0,156,0,728,0.0,Iloko
+mingw-libvirt,0,0,63828,0,0,9849,0,63828,0.0,Iloko
+mingw-libvirt-glib,0,0,153,0,0,30,0,153,0.0,Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/)
+mingw-osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Iloko
+osinfo-db-tools,0,0,209,0,0,41,0,209,0.0,Iloko
+pam,0,0,597,0,0,120,0,597,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+policycoreutils,8,0,4485,8,0,690,10,4493,0.17805475183618963,Iloko
+pykickstart,0,0,1605,0,0,179,0,1605,0.0,Iloko
+python-blivet,37,0,487,3,0,72,41,524,7.061068702290077,Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/)
+python-fedora,0,0,214,0,0,29,0,214,0.0,Iloko
+python-meh,0,0,109,0,0,23,0,109,0.0,Iloko
+python-simpleline,0,0,42,0,0,16,0,42,0.0,Iloko
+redhat-menus,106,6,149,43,4,39,164,261,40.61302681992337,
+setroubleshoot,0,0,660,0,0,181,0,660,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+setroubleshoot-plugins,0,0,6208,0,0,221,0,6208,0.0,Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/)
+sos,0,0,122,0,0,30,0,122,0.0,none
+switchdesk,10,12,100,2,6,11,14,122,8.19672131147541,
+system-config-users-docs,0,0,1061,0,0,82,0,1061,0.0,LANGUAGE <LL@li.org>

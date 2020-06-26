@@ -1,0 +1,99 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+atril,92,0,1700,36,0,377,164,1792,5.133928571428571,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+audacious,760,0,0,326,0,0,899,760,100.0,Spanish (Mexico) (http://www.transifex.com/audacious/audacious/language/es_MX/)
+audacious-plugins,3934,0,0,888,0,0,4387,3934,100.0,Spanish (Mexico) (http://www.transifex.com/audacious/audacious/language/es_MX/)
+blivet-gui,0,0,703,0,0,184,0,703,0.0,Spanish (Mexico)
+caja,1185,0,8171,313,0,1204,1324,9356,12.665669089354425,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+caja-extensions,269,0,301,68,0,63,305,570,47.192982456140356,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+calamares,0,0,55,0,0,13,0,55,0.0,Spanish (Mexico) (https://www.transifex.com/calamares/teams/20061/es_MX/)
+calibre,313,0,156988,83,0,18017,333,157301,0.1989815703650962,Spanish (Mexico) (http://www.transifex.com/calibre/calibre/language/es_MX/)
+corebird,339,0,247,143,0,68,352,586,57.84982935153583,Spanish (Mexico) (http://www.transifex.com/corebird/corebird/language/es_MX/)
+engrampa,71,0,1874,28,0,326,142,1945,3.6503856041131106,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+eom,34,0,1683,27,0,291,80,1717,1.9801980198019802,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+focuswriter,129,0,0,7,0,0,134,129,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/focuswriter/language/es_MX/)
+fonts-tweak-tool,0,0,164,0,0,49,0,164,0.0,Spanish (Mexico)
+galculator,101,0,834,52,0,223,102,935,10.802139037433154,Spanish (Mexico) (http://www.transifex.com/mate/MATE/language/es_MX/)
+gallery2,7731,2650,100,1085,562,12,8814,10481,73.76204560633526,Mexican Spanish <gallery-devel@lists.sourceforge.net>
+gentoo,1412,411,430,427,77,94,1622,2253,62.67199289835774,Language es-MX
+glpi,4328,0,6942,1364,0,1588,4718,11270,38.40283939662822,Spanish (Mexico) (http://www.transifex.com/glpi/GLPI/language/es_MX/)
+gnome-shell-extension-system-monitor-applet,55,11,91,40,5,49,62,157,35.03184713375796,
+gnomebaker,1059,44,83,266,6,19,1250,1186,89.29173693086003,Spanish (Mexico) <es_MX@li.org>
+gnue-common,153,403,1576,25,60,188,165,2132,7.176360225140713,Espa~ol/Mexico
+gpodder,1674,123,82,453,31,18,1969,1879,89.08994145822246,Spanish (Mexico) (http://www.transifex.com/projects/p/gpodder/language/es_MX/)
+im-chooser,0,0,239,0,0,56,0,239,0.0,LANGUAGE <LL@li.org>
+imsettings,143,0,313,30,0,54,111,456,31.359649122807014,LANGUAGE <LL@li.org>
+inkscape,638,12414,25162,255,4377,3513,728,38214,1.6695451928612552,none <none>
+ixpdimm_sw,70,0,1631,19,0,142,80,1701,4.11522633744856,LANGUAGE <LL@li.org>
+libgweather,447,9,4,170,5,4,536,460,97.17391304347827,Spanish <traductores@es.gnome.org>
+libinvm-cli,70,0,1631,19,0,142,80,1701,4.11522633744856,LANGUAGE <LL@li.org>
+libmatekbd,1,0,250,1,0,42,1,251,0.398406374501992,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+libmatemixer,3,0,239,3,0,123,3,242,1.2396694214876034,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+libmateweather,499,0,0,183,0,0,568,499,100.0,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+libmx,40,0,0,16,0,0,46,40,100.0,
+lilyterm,415,606,627,83,96,116,482,1648,25.18203883495146,lilyterm
+marco,10,0,4138,3,0,410,16,4148,0.2410800385728062,Spanish (Mexico) (http://www.transifex.com/mate/MATE/language/es_MX/)
+mate-applets,1777,0,712,413,0,147,2248,2489,71.39413419043792,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-backgrounds,30,0,0,21,0,0,31,30,100.0,Spanish (Mexico) (http://www.transifex.com/mate/MATE/language/es_MX/)
+mate-calc,10,0,1361,10,0,410,54,1371,0.7293946024799417,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-control-center,127,0,2531,55,0,573,193,2658,4.778028592927012,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-desktop,50,0,2255,15,0,284,107,2305,2.1691973969631237,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-icon-theme,4,0,0,2,0,0,5,4,100.0,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-media,12,0,214,8,0,88,13,226,5.3097345132743365,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-menu,21,0,295,15,0,103,22,316,6.645569620253164,Spanish (Mexico) (http://www.transifex.com/mate/MATE/language/es_MX/)
+mate-menus,97,0,0,37,0,0,114,97,100.0,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-notification-daemon,117,0,22,31,0,6,131,139,84.17266187050359,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-panel,138,0,4226,55,0,535,224,4364,3.1622364802933087,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-power-manager,13,0,2711,13,0,427,58,2724,0.47723935389133626,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-screensaver,13,0,970,6,0,150,16,983,1.3224821973550356,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-sensors-applet,12,0,294,12,0,94,57,306,3.9215686274509802,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-session-manager,455,0,226,99,0,15,552,681,66.81350954478708,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-settings-daemon,49,0,1715,9,0,244,53,1764,2.7777777777777777,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-system-monitor,509,0,824,176,0,137,657,1333,38.18454613653413,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-terminal,48,0,4601,27,0,498,107,4649,1.0324801032480104,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mate-themes,7,0,53,2,0,10,9,60,11.666666666666666,Spanish (Mexico) (http://www.transifex.com/mate/MATE/language/es_MX/)
+mate-utils,103,0,3574,42,0,618,182,3677,2.8011966276856133,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+mozo,42,0,0,16,0,0,43,42,100.0,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+openerp,15603,0,39327,3588,0,4949,17203,54930,28.405243036592026,Spanish (Mexico) <es_MX@li.org>
+openerp7,14216,0,36686,3232,0,4544,15640,50902,27.928175710188203,Spanish (Mexico) <es_MX@li.org>
+pluma,84,0,4984,46,0,1062,139,5068,1.6574585635359116,Spanish (Mexico) (https://www.transifex.com/mate/teams/13566/es_MX/)
+policycoreutils,0,0,7678,0,0,1078,0,7678,0.0,Spanish (Mexico) (http://www.transifex.com/projects/p/fedora/language/es_MX/)
+pulsecaster,7,8,132,2,2,16,12,147,4.761904761904762,es_MX <LL@li.org>
+python-django,2350,0,1240,627,0,188,2657,3590,65.45961002785515,Spanish (Mexico) (http://www.transifex.com/django/django/language/es_MX/)
+python-django-formtools,5,0,27,3,0,8,5,32,15.625,Spanish (Mexico) (http://www.transifex.com/projects/p/django-formtools/language/es_MX/)
+python-django-helpdesk,3241,0,0,510,0,0,3548,3241,100.0,Spanish (Mexico) (http://www.transifex.com/django-helpdesk/django-helpdesk/language/es_MX/)
+python-django-openstack-auth,75,0,0,15,0,0,94,75,100.0,Spanish (Mexico)
+python-lettuce,3975,0,0,1268,0,0,4428,3975,100.0,Spanish (Mexican) <None>
+radiotray,130,0,0,46,0,0,155,130,100.0,Spanish (Mexico) (http://www.transifex.com/projects/p/radiotray/language/es_MX/)
+tidy,28,0,6462,1,0,449,23,6490,0.43143297380585516,"
+BAD"
+trac,5258,585,2272,1106,98,89,6035,8115,64.7935921133703,Spanish (Mexico) <internationalization@lists.mayfirst.org>
+tryton,1438,36,100,371,10,40,1790,1574,91.35959339263025,
+trytond,2120,344,184,977,167,63,2387,2648,80.06042296072508,
+trytond-account,2025,530,188,871,269,80,2292,2743,73.82427998541743,
+trytond-account-invoice,836,119,73,291,55,26,973,1028,81.32295719844358,
+trytond-account-invoice-history,2,0,0,1,0,0,2,2,100.0,
+trytond-account-invoice-line-standalone,0,10,0,0,4,0,0,10,0.0,
+trytond-account-product,185,77,34,62,17,16,208,296,62.5,
+trytond-account-statement,195,32,4,100,24,3,225,231,84.4155844155844,
+trytond-account-stock-anglo-saxon,50,24,0,9,3,0,61,74,67.56756756756756,
+trytond-account-stock-continental,215,110,0,51,18,0,232,325,66.15384615384615,
+trytond-analytic-account,163,14,7,85,6,4,165,184,88.58695652173914,
+trytond-analytic-invoice,13,0,0,3,0,0,13,13,100.0,
+trytond-analytic-purchase,22,0,0,4,0,0,24,22,100.0,
+trytond-analytic-sale,13,0,0,3,0,0,13,13,100.0,
+trytond-calendar,582,29,10,255,21,7,750,621,93.71980676328504,
+trytond-calendar-classification,2,0,0,2,0,0,2,2,100.0,
+trytond-calendar-scheduling,90,6,4,47,1,2,97,100,90.0,
+trytond-sale,448,43,45,217,29,20,505,536,83.5820895522388,
+trytond-sale-opportunity,278,27,15,158,10,6,290,320,86.875,
+trytond-sale-price-list,5,0,0,2,0,0,4,5,100.0,
+trytond-stock,958,158,87,411,114,38,1048,1203,79.63424771404821,
+trytond-stock-forecast,150,13,11,70,8,3,184,174,86.20689655172413,
+trytond-stock-inventory-location,15,2,0,10,1,0,13,17,88.23529411764706,
+trytond-stock-location-sequence,1,0,0,1,0,0,1,1,100.0,
+trytond-stock-product-location,19,4,0,12,2,0,20,23,82.6086956521739,
+trytond-stock-supply,118,18,11,48,7,3,136,147,80.27210884353741,
+trytond-stock-supply-day,25,2,0,17,1,0,31,27,92.5925925925926,
+trytond-timesheet,217,52,9,113,17,1,256,278,78.05755395683454,
+tuxpaint,580,863,148,148,93,50,597,1591,36.45505971087367,Español <ggabriel@internet.com.uy>
+wicd,851,0,287,180,0,74,964,1138,74.78031634446397,es_MX <LL@li.org>

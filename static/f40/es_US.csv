@@ -1,0 +1,7 @@
+package,translatedsourcewords,fuzzysourcewords,untranslatedsourcewords,translated,fuzzy,untranslated,translatedtargetwords,totalsourcewordssum,progress,team
+budgie-desktop,1201,19,0,320,2,0,1404,1220,98.44262295081967,Spanish (American) <http://translate.getsol.us/projects/budgie-desktop/translations/es_US/>
+duplicity,2228,0,149,336,0,15,2710,2377,93.73159444678166,"Spanish, United States"
+libmatekbd,0,0,308,0,0,91,0,308,0.0,Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/)
+mate-menu,0,0,308,0,0,110,0,308,0.0,Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/)
+mate-themes,0,0,74,0,0,23,0,74,0.0,Spanish (United States) (http://app.transifex.com/mate/MATE/language/es_US/)
+visualboyadvance-m,1472,0,1694,567,0,304,1767,3166,46.49399873657612,Spanish (United States) (http://app.transifex.com/bgk/vba-m/language/es_US/)

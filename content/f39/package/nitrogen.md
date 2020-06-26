@@ -1,0 +1,44 @@
+---
+title: "nitrogen - translation progress for f39"
+package: nitrogen
+date: 2026-01-18T08:41:58+00:00
+started_languages: 6
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 6
+release: f39
+---
+The package nitrogen (version 1.6.1):
+
+* represents 212 source words to be translated
+* is translated into 6 languages in Fedora f39
+
+
+* contains 6 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [bs]({{< ref "/f39/language/bs.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f39/nitrogen/po/bs.po | 
+ | [fi]({{< ref "/f39/language/fi.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f39/nitrogen/po/fi.po | 
+ | [hr]({{< ref "/f39/language/hr.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f39/nitrogen/po/hr.po | 
+ | [ru]({{< ref "/f39/language/ru.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f39/nitrogen/po/ru.po | 
+ | [sr]({{< ref "/f39/language/sr.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f39/nitrogen/po/sr.po | 
+ | [pl]({{< ref "/f39/language/pl.md" >}}) | 84 | 212 | 39.6 | /mnt/stockage/packages/f39/nitrogen/po/pl.po | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang code chosen | Team |
+|---------|------------------|------|
+{.sortable}
+
+

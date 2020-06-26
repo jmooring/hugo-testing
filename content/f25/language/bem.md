@@ -1,0 +1,59 @@
+---
+title: "bem-Bemba (Ichibemba) - translation progress for f25"
+date: 2026-01-17T16:30:46+00:00
+code: bem
+name_english: Bemba
+name_local: Ichibemba
+progress: 38.34
+progress_d: 0.00
+release: f25
+territories:
+ - ZM
+polib_error_count: 0
+could_not_process_count: 2
+---
+
+Language progress for Bemba (bem) in Fedora f25 is:
+
+* 38.34% when we only look on started packages for this language.
+* 0.00% when we compare to every single translatable string in Fedora f25.
+
+Possible scripts are: Latn
+
+* Total translatable string in Fedora f25: 14474492
+* Source words to translate in started packages: 253
+* Translated words: 97
+
+
+Download:
+
+
+
+
+* [bem generated stats (292 Bytes)]({{% resource url="/f25/bem.csv" %}})
+
+
+
+Packages:
+
+| Name |  Translated words | Total source words | Progress (%) | Language teams |
+|------|------------------:|-------------------:|-------------:|----------------|
+ | [alacarte]({{< ref "/f25/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [slick-greeter]({{< ref "/f25/package/slick-greeter.md" >}}) | 55 | 211 | 26.1 | Bemba <bem@li.org> | 
+{.sortable}
+
+
+# Errors on PO files
+
+
+
+
+## Error with calcstats
+
+We use the calcstats from translate toolkit to get the translation progress, but sometimes it fails, here are the files:
+
+| Package | Lang from file path/name | Team |
+|---------|--------------------------|------|
+{.sortable}
+
+
