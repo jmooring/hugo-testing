@@ -1,0 +1,7 @@
++++
+title = "A"
+date = 2020-06-26T14:30:54-04:00
+draft = false
+articleDate = 2019-01-01T14:30:54-04:00
++++
+The Rocky Mountain reserves are the Teton, Yellowstone, Lewis and Clark, Bitter Root, Priest River and Flathead, comprehending more than twelve million acres of mostly unclaimed, rough, forest-covered mountains in which the great rivers of the country take their rise. The commonest tree in most of them is the brave, indomitable, and altogether admirable Pinus contorta, widely distributed in all kinds of climate and soil, growing cheerily in frosty Alaska, breathing the damp salt air of the sea as well as the dry biting blasts of the Arctic interior, and making itself at home on the most dangerous flame-swept slopes and bridges of the Rocky Mountains in immeasurable abundance and variety of forms. Thousands of acres of this species are destroyed by running fires nearly every summer, but a new growth springs quickly from the ashes. It is generally small, and yields few sawlogs of commercial value, but is of incalculable importance to the farmer and miner; supplying fencing, mine timbers, and firewood, holding the porous soil on steep slopes, preventing landslips and avalanches, and giving kindly, nourishing shelter to animals and the widely outspread sources of the life-giving rivers. The other trees are mostly spruce, mountain pine, cedar, juniper, larch, and balsam fir; some of them, especially on the western slopes of the mountains, attaining grand size and furnishing abundance of fine timber.

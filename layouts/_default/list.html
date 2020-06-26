@@ -1,10 +1,58 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  {{/* All of these methods work; the first is the cleanest. */}}
+
+  {{/* Method 1 */}}
+  {{ range where .Site.RegularPages ".Params.articledate.Year" (int "2020") }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>articleDate = {{ .Params.articledate }}</p>
     <p>{{ .Summary }}</p>
     {{ if .Truncated }}
       <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
     {{ end }}
   {{ end }}
+
+  {{/* Method 2 */}}
+  {{/*
+  {{ range where .Site.RegularPages ".Params.articledate.Year" "==" (int "2020") }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>articleDate = {{ .Params.articledate }}</p>
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+  */}}
+
+  {{/* Method 3 */}}
+  {{/*
+  {{ range .Site.RegularPages }}
+    {{ if eq .Params.articledate.Year 2020 }}
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>articleDate = {{ .Params.articledate }}</p>
+      <p>{{ .Summary }}</p>
+      {{ if .Truncated }}
+        <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  */}}
+
+  {{/* Method 4 */}}
+  {{/*
+  {{ range .Site.RegularPages.GroupByParamDate "articledate" "2006" }}
+    {{ if eq .Key "2020" }}
+      {{ range .Pages }}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p>articleDate = {{ .Params.articledate }}</p>
+        <p>{{ .Summary }}</p>
+        {{ if .Truncated }}
+          <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  */}}
+
 {{ end }}
