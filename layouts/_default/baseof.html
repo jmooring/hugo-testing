@@ -4,10 +4,22 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+  <style>
+div.highlight {
+  max-width: 500px;
+}
+div.highlight pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+  </style>
 </head>
 <body>
+<p></p>
+<div class="inner">
 {{ block "main" . }}
 
 {{ end }}
+</div>
 </body>
 </html>
