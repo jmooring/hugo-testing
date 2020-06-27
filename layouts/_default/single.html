@@ -1,4 +1,21 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+  {{- $noop := .Content -}}
+
+  {{- if .HasShortcode "block-1" -}}
+    <h2>Block 1</h2>
+    {{- .Scratch.Get "block_1_content" -}}
+  {{- end -}}
+
+  {{- if .HasShortcode "block-2" -}}
+    <h2>Block 2</h2>
+    {{- .Scratch.Get "block_2_content" -}}
+  {{- end -}}
+
+  {{- if .HasShortcode "block-3" -}}
+    <h2>Block 3</h2>
+    {{- .Scratch.Get "block_3_content" -}}
+  {{- end -}}
+
 {{ end }}
