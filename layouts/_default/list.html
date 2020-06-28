@@ -1,10 +1,21 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    {{ if .Truncated }}
-      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
-    {{ end }}
-  {{ end }}
+  Number of subsections: {{ len .Sections }}
+  {{- if gt (len .Sections) 0 -}}
+    {{- range .Sections.ByTitle -}}
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+      {{- if .Truncated -}}
+        <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- range .RegularPages.ByTitle -}}
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+      {{- if .Truncated -}}
+        <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 {{ end }}

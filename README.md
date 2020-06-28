@@ -4,6 +4,8 @@ Details: <https://discourse.gohugo.io/t/25710>
 
 Description: Range newbie: how to control range with respect to subfolders
 
+Note: This is a rudimentary example of ranging through a hierarchy of sections.
+
 ## Instructions
 
 Clone this branch of the repository and build the site.
