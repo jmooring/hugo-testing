@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range .Pages }}
+  {{ range where .Site.Pages.ByTitle ".Kind" "section" }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>
     {{ if .Truncated }}
