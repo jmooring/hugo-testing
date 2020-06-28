@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #25710"
+date = 2020-06-28T16:07:46-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #25710
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/25710>
 
-Description: @@DESCRIPTION@@
+Description: Range newbie: how to control range with respect to subfolders
 
 ---
