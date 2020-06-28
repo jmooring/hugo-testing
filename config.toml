@@ -1,3 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #25848"
+
+# When listing pages that have been assigned a particular taxonomy term, should
+# the list include list pages that have been assigned the same taxonomy term?
+[params]
+includeListPagesInTaxonomyLists = false
+
+[taxonomies]
+tag="tags"
+category="categories"

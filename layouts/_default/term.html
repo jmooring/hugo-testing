@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <code>[Entering layouts/_default/term.html]</code>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/* Get taxonomy and term displayed by this list page. */}}
+  {{- $taxonomy := .Data.Plural -}}
+  {{- $term := .Title | urlize -}}
+
+  {{/* Create an empty pages collection. See https://discourse.gohugo.io/t/25391. */}}
+  {{- $pages := site.RegularPages | first 0 -}}
+
+  {{/* Build collection of pages. */}}
+  {{- if .Site.Params.includeListPagesInTaxonomyLists -}}
+    {{ $t := slice $term }}
+    {{ $pages = where .Site.Pages (printf "Params.%s" $taxonomy) "intersect" $t }}
+  {{- else -}}
+    {{ $pages = .Data.Pages }}
+  {{- end -}}
+
+  {{/* Build collection of pages. */}}
+  {{ range $pages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+  <code>[Exiting layouts/_default/term.html]</code>
+{{ end }}

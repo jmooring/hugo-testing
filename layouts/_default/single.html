@@ -1,4 +1,20 @@
 {{ define "main" }}
+  <code>[Entering layouts/_default/single.html]</code>
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <p>Tags:</p>
+  <ul>
+    {{ range (.GetTerms "tags") }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+
+  <p>Categories:</p>
+  <ul>
+    {{ range (.GetTerms "categories") }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+  <code>[Exiting layouts/_default/single.html]</code>
 {{ end }}
