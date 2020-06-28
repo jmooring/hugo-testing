@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #25848"
+date = 2020-06-28T16:36:34-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #25848
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/25848>
 
-Description: @@DESCRIPTION@@
+Description: Pulling taxonomy terms from taxonomy page _index.md files?
 
 ---
