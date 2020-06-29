@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #26567"
+date = 2020-06-28T22:40:29-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #26567
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/26567>
 
-Description: @@DESCRIPTION@@
+Description: Find First Page Bundle in a Section
 
 ---
