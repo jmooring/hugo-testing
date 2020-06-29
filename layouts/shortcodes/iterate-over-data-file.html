@@ -1,0 +1,10 @@
+{{- $data := .Page.Resources.GetMatch "data.yml" | unmarshal -}}
+<ul>
+{{- range $data }}
+  {{- $icon_url := printf "/assets/img/%s.svg" .ext -}}
+  <li>
+    <a href="{{ printf `%s/%s.%s` .base_url .filename .ext }}">{{ .link_text }}</a>
+    <img src="{{ $icon_url }}" alt="{{ printf `%s icon` .ext }}" style="width: 1em; height: 1em;">
+  </li>
+{{- end }}
+</ul>
