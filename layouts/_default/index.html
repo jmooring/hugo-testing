@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{- with .Site.GetPage "/sessions" -}}
+    {{- range first 1 .Sections -}}
+
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+      {{ if .Truncated }}
+        <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+      {{ end }}
+
+      <h3>Foo</h3>
+      <p>{{ .Params.foo }}</p>
+
+      <h3>Bar</h3>
+      <p>{{ .Params.bar }}</p>
+
+      <h3>Baz</h3>
+      <p>{{ .Params.baz }}</p>
+
+    {{- end -}}
+  {{- end -}}
+{{ end }}
