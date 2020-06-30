@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo GitHub Issue #7278"
+date = 2020-06-30T10:33:40-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo GitHub Issue #7278
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/7278>
 
-Description: @@DESCRIPTION@@
+Description: Postcss error with snap install of Hugo 0.70
 
 ---
