@@ -1,0 +1,8 @@
+@charset 'UTF-8';
+
+// If postcss is working properly, the <style> element on each page will have
+// each of these rules, plus "-webkit" rules created by autoprefixer.
+abbr[title] {
+  text-decoration: dotted underline;
+  text-decoration-skip-ink: none;
+}
