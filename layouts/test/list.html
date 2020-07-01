@@ -1,0 +1,74 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <hr><!---------------------------------------------------------------------->
+  <h2>Method 1</h2>
+
+  <h3>All Products (Grouped by Product Type)</h3>
+
+  <ul>
+  {{ range $name, $items := .Site.Taxonomies.product_types }}
+    <li>
+      <a href="{{ `product_types/` | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}<span></a>&nbsp;{{ len $items }}</span>
+    </li>
+  {{ end }}
+  </ul>
+
+  <hr><!---------------------------------------------------------------------->
+  <h2>Method 2</h2>
+
+  {{/* Create empty page collection. */}}
+  {{ $pages := first 0 .Site.RegularPages}}
+
+  {{/* Create collection of product pages. */}}
+  {{ $product_pages := where .Site.RegularPages "Type" "product" }}
+
+  <h3>All Products (Grouped by Product Type)</h3>
+  {{ $pages = $product_pages }}
+  <ul>
+  {{ range $pages.GroupByParam "product_type" }}
+    <li>
+      <a href="{{ `product_types/` | relLangURL }}{{ .Key | urlize | lower }}">{{ .Key | title | humanize }}<span></a>&nbsp;{{ len .Pages }}</span>
+    </li>
+  {{ end }}
+  </ul>
+
+  <h3>Women's Products (Grouped by Product Type)</h3>
+  <p>Note that these links will show all products of a particular type, not just those for women. The counts are correct.</p>
+
+  </p>
+  {{ $pages = where $product_pages ".Params.categories" "intersect" (slice "women") }}
+  <ul>
+  {{ range $pages.GroupByParam "product_type" }}
+    <li>
+      <a href="{{ `product_types/` | relLangURL }}{{ .Key | urlize | lower }}">{{ .Key | title | humanize }}<span></a>&nbsp;{{ len .Pages }}</span>
+    </li>
+  {{ end }}
+  </ul>
+
+  <h3>Men's Products (Grouped by Product Type)</h3>
+  <p>Note that these links will show all products of a particular type, not just those for men. The counts are correct.</p>
+
+  {{ $pages = where $product_pages ".Params.categories" "intersect" (slice "men") }}
+  <ul>
+  {{ range $pages.GroupByParam "product_type" }}
+    <li>
+      <a href="{{ `product_types/` | relLangURL }}{{ .Key | urlize | lower }}">{{ .Key | title | humanize }}<span></a>&nbsp;{{ len .Pages }}</span>
+    </li>
+  {{ end }}
+  </ul>
+
+  <h3>Childrens's Products (Grouped by Product Type)</h3>
+  <p>Note that these links will show all products of a particular type, not just those for children. The counts are correct.</p>
+
+  {{ $pages = where $product_pages ".Params.categories" "intersect" (slice "children") }}
+  <ul>
+  {{ range $pages.GroupByParam "product_type" }}
+    <li>
+      <a href="{{ `product_types/` | relLangURL }}{{ .Key | urlize | lower }}">{{ .Key | title | humanize }}<span></a>&nbsp;{{ len .Pages }}</span>
+    </li>
+  {{ end }}
+  </ul>
+
+{{ end }}

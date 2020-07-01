@@ -1,3 +1,43 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #26619"
+
+[taxonomies]
+brand = "brands" # Gucci, Rolex, etc. (singular, match brand case)
+category = "categories" # men, women, children, etc. (plural and lowercase)
+product_type = "product_types" # bags, watches, belts, shirts, etc. (plural and lowercase)
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Test"
+url = "/test"
+weight = 2
+
+[[menu.main]]
+name = "Products"
+url = "/product"
+weight = 10
+
+[[menu.main]]
+name = "Categories"
+url = "/categories"
+weight = 20
+
+[[menu.main]]
+name = "Brands"
+url = "/brands"
+weight = 30
+
+[[menu.main]]
+name = "Product Types"
+url = "/product_types"
+weight = 40
+
+[[menu.main]]
+name = "Services"
+url = "/service"
+weight = 50

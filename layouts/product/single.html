@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <p>Brand:
+    {{ range (.GetTerms "brands") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+
+  <p>Category:
+    {{ range (.GetTerms "categories") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a>
+    {{ end }}
+  </p>
+
+  <p>Product Class:
+    {{ range (.GetTerms "product_types") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle | humanize}}</a>
+    {{ end }}
+  </p>
+
+{{ end }}
