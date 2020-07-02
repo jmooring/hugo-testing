@@ -3,8 +3,39 @@ title = "Test"
 date = 2020-07-02T15:54:01-04:00
 draft = false
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta feugiat tellus, eu rutrum arcu feugiat ac. Morbi vehicula suscipit libero vitae finibus. In sollicitudin felis mauris, nec condimentum justo pharetra vitae. Quisque suscipit diam sit amet purus dictum, et euismod sapien egestas. Nunc erat erat, blandit porta lacus at, imperdiet pulvinar magna. Maecenas eget massa pretium nibh maximus consectetur. Morbi posuere fermentum elit, in vehicula quam aliquet ac. Proin a porta enim. Duis imperdiet non neque vitae vestibulum. Nam id orci et tellus vehicula porttitor. Mauris et odio purus. Nunc in fringilla felis, eget accumsan odio. Sed feugiat sit amet ligula nec laoreet. Sed ornare tortor ut odio dignissim, placerat condimentum dolor hendrerit. Nullam vel eleifend massa.
 
-Vestibulum maximus volutpat sodales. Nam maximus lectus tempor tincidunt semper. Etiam id malesuada nisi. Nam at eros lacus. Proin pretium tempus est, ut malesuada tellus blandit vitae. Sed pretium mi mi, a congue libero dapibus id. Nulla molestie, risus ultricies varius consequat, massa nulla elementum ex, sed malesuada est nibh eu libero. Fusce ultricies finibus odio et tempus. Etiam at elit finibus mi porta lacinia. Vivamus non lacus metus. Aliquam in est maximus, porttitor nulla sit amet, iaculis ex.
+Note: this site has no styling applied; nothing inline, nothing in `<head>`, and no linked CSS files.
 
-Phasellus ut dui erat. In vel tellus ac turpis congue dignissim. Cras ornare tristique metus, sit amet facilisis ipsum lacinia a. Proin sodales iaculis lobortis. Praesent consectetur nibh in sollicitudin dignissim. Nam ut bibendum est, a cursus dolor. Phasellus lobortis accumsan tellus non hendrerit. In sed risus libero. Sed nec finibus quam. Vivamus finibus pellentesque massa, ac vehicula orci. Vestibulum at dapibus nulla, vel laoreet lectus. In imperdiet velit libero, a venenatis neque ornare nec.
+> `linenos`: configure line numbers. Valid values are `true`, `false`, `table`, or `inline`. `false` will turn off line numbers if it’s configured to be on in site config. New in v0.60.0 `table` will give copy-and-paste friendly code blocks.
+
+PASS: `linenos=true`
+
+```txt {linenos=true}
+This is a short line of text.
+This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text.
+This is a short line of text.
+```
+
+PASS: `linenos=table`
+
+```txt {linenos=table}
+This is a short line of text.
+This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text.
+This is a short line of text.
+```
+
+FAIL: `linenos=inline` (horizontal scrollbar appears at bottom of window)
+
+```txt {linenos=inline}
+This is a short line of text.
+This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text.
+This is a short line of text.
+```
+
+FAIL: `linenos=false` (horizontal scrollbar appears at bottom of window)
+
+```txt {linenos=false}
+This is a short line of text.
+This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text. This is a long line of text.
+This is a short line of text.
+```
