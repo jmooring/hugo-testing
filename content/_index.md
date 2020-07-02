@@ -10,3 +10,9 @@ Details: <https://github.com/gohugoio/hugo/issues/7416>
 Description: String functions within render hooks see HAHAHUGOSHORTCODE
 
 ---
+
+Forum topic: <https://discourse.gohugo.io/t/26358>
+
+Description: Render-Link Functionality Not Working
+
+---
