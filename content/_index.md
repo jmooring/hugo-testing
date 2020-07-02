@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo GitHub Issue #7416"
+date = 2020-07-02T16:36:07-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo GitHub Issue #7416
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/7416>
 
-Description: @@DESCRIPTION@@
+Description: String functions within render hooks see HAHAHUGOSHORTCODE
 
 ---
