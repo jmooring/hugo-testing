@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo GitHub Issue #7381"
+date = 2020-07-02T16:22:41-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo GitHub Issue #7381
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/7381>
 
-Description: @@DESCRIPTION@@
+Description: VSCode-Consistent alternative to relref
 
 ---
