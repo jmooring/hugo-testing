@@ -1,3 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #6798"
+
+[markup]
+#defaultMarkdownHandler = "blackfriday"
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.parser]
+#autoHeadingIDType = "blackfriday"
+autoHeadingIDType = "github"
+#autoHeadingIDType = "github-ascii"
