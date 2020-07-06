@@ -1,0 +1,45 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <h2>Example 1</h2>
+  <p>Range over all of the data, sorting by favorite then by project_name.</p>
+
+  {{/* Build slice of unique, sorted favorites. */}}
+  {{- $favorites := slice -}}
+  {{- range .Site.Data.portfolio_residential -}}
+    {{- $favorites = $favorites | append .favorite -}}
+  {{- end -}}
+  {{- $favorites = $favorites | uniq | sort -}}
+
+  {{/* Range over the sorted favorites, then range over a sorted subset of the data file. */}}
+  {{- range $favorites -}}
+    {{- range where (sort $.Site.Data.portfolio_residential "project_name" "asc") "favorite" . -}}
+      favorite = {{ .favorite }}<br>
+      project_name = {{ .project_name }}<br><br>
+    {{- end -}}
+  {{- end -}}
+
+  <h2>Example 2</h2>
+  <p>Range over all of the data, sorting by favorite then by project_name, but only display the first 6.</p>
+
+  {{/* Build slice of unique, sorted favorites. */}}
+  {{- $favorites := slice -}}
+  {{- range .Site.Data.portfolio_residential -}}
+    {{- $favorites = $favorites | append .favorite -}}
+  {{- end -}}
+  {{- $favorites = $favorites | uniq | sort -}}
+
+  {{/* Range over the sorted favorites, then range over a sorted subset of the data file. */}}
+  {{- $entriesToDisplay := 6 -}}
+  {{- $counter := 0 -}}
+  {{- range $favorites -}}
+    {{- range where (sort $.Site.Data.portfolio_residential "project_name" "asc") "favorite" . -}}
+      {{- $counter = add $counter 1 -}}
+      {{- if le $counter $entriesToDisplay -}}
+        favorite = {{ .favorite }}<br>
+        project_name = {{ .project_name }}<br><br>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+{{ end }}
