@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ range where (.Site.RegularPages.ByParam "home_page_weight") "Params.home_page_weight" "ne" nil }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+{{ end }}
