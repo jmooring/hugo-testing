@@ -1,3 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #26734"
+
+[permalinks]
+article = "/post/:section/:year/:month/:title/"
+link = "/post/:section/:year/:month/:title/"
+photo = "/post/:section/:year/:month/:title/"
+quote = "/post/:section/:year/:month/:title/"
+video = "/post/:section/:year/:month/:title/"
