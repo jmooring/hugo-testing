@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #26636"
+date = 2020-07-06T09:10:15-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #26636
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/26636>
 
-Description: @@DESCRIPTION@@
+Description: Sort two parameters inside data
 
 ---
