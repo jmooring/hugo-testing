@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #26807"
+date = 2020-07-09T10:57:26-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #26807
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/26807>
 
-Description: @@DESCRIPTION@@
+Description: Grab card data from url
 
 ---
