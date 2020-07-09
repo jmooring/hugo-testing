@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #26807"
+
+[params]
+# opengraph_io_api_key = "paste_your_api_key_here"
