@@ -1,0 +1,14 @@
+{{/* Build unique, sorted slice of locations. */}}
+{{- $locations := slice -}}
+{{- range $.Page.Params.blocks.team -}}
+  {{- $locations = $locations | append .location -}}
+{{- end -}}
+{{- $locations = $locations | uniq | sort -}}
+
+{{/* Display team members, grouped by location, sorted by last name, duplicates removed. */}}
+{{- range $locations }}
+  <h2>{{ . }}</h2>
+  {{- range sort (uniq (where $.Page.Params.blocks.team "location" "eq" .)) "last_name" "asc" }}
+    {{ printf "%s %s" .first_name .last_name }}<br>
+  {{- end }}
+{{- end -}}
