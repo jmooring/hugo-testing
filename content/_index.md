@@ -10,3 +10,5 @@ Details: <https://github.com/gohugoio/hugo/issues/7472>
 Description: No fall-through to list.html with taxonomy.html and without term.html
 
 ---
+
+## [Tags]({{< relref "tags" >}})

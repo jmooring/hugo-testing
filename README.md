@@ -4,6 +4,18 @@ Details: <https://github.com/gohugoio/hugo/issues/7472>
 
 Description: No fall-through to list.html with taxonomy.html and without term.html
 
+See also: <https://discourse.gohugo.io/t/26874>
+
+> What term.html can that list.html cannot?
+
+## Comments
+
+Related to:
+
+- <https://github.com/gohugoio/hugo/pull/7394>
+- <https://github.com/gohugoio/hugo/commit/fc045e1>
+- <https://github.com/gohugoio/hugoDocs/commit/bc0b484>
+
 ## Instructions
 
 Clone this branch of the repository and build the site.
