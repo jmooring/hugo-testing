@@ -1,10 +1,10 @@
 {{ define "main" }}
   {{ .Content }}
   {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    {{ if .Truncated }}
-      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
-    {{ end }}
+    {{ partial (printf "summary/%s.html" .Type) . }}
+  {{ end }}
+  <hr>
+  {{ range .Site.RegularPages }}
+    {{ .Render "summary" }}
   {{ end }}
 {{ end }}
