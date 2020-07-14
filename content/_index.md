@@ -10,3 +10,9 @@ Details: <https://discourse.gohugo.io/t/26882>
 Description: Taxonomy filters based on Sections
 
 ---
+
+[Articles](/article) | [Movies](/movie) | [Posts](/post) | [Categories](/categories) 
+
+---
+
+{{< filter section="movie" category="cars" >}}

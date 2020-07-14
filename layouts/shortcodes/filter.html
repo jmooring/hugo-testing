@@ -1,0 +1,31 @@
+{{- $section := "" -}}
+{{- $category := "" -}}
+
+{{- with .Get "section" -}}
+  {{- $section = . -}}
+{{- else -}}
+  {{- errorf "The '%s' shortcode requires a named parameter: section. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- with .Get "category" -}}
+  {{- $category = . -}}
+{{- else -}}
+  {{- errorf "The '%s' shortcode requires a named parameter: category. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- $pages := where (index .Site.Taxonomies.categories $category).Pages "Section" $section -}}
+
+<h2>Pages in section "{{ $section }}" with category "{{ $category }}"</h2>
+
+{{- range $pages }}
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p>Categories:
+    {{- range (.GetTerms "categories") }}
+    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{- end }}
+  </p>
+  <p>{{ .Summary }}</p>
+  {{- if .Truncated }}
+  <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+  {{- end -}}
+{{- end -}}

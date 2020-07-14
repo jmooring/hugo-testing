@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <p>Categories:
+    {{- range (.GetTerms "categories") }}
+    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{- end }}
+  </p>
   {{ .Content }}
 {{ end }}

@@ -1,7 +1,14 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+  {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{- if ne .Kind "term" }}
+    <p>Categories:
+      {{- range (.GetTerms "categories") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+      {{- end }}
+    </p>
+    {{- end }}
     <p>{{ .Summary }}</p>
     {{ if .Truncated }}
       <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
