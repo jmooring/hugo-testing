@@ -1,0 +1,42 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <hr>
+    <pre>range where (index .Site.Taxonomies.categories "cars").Pages "Section" .Section</pre>
+  <hr>
+
+  {{- range where (index .Site.Taxonomies.categories "cars").Pages "Section" .Section -}}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{- if ne .Kind "term" }}
+    <p>Categories:
+      {{- range (.GetTerms "categories") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+      {{- end }}
+    </p>
+    {{- end }}
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+
+  <hr>
+  <pre>range where .RegularPages "Params.categories" "intersect" (slice "cars")</pre>
+  <hr>
+
+  {{- range where .RegularPages "Params.categories" "intersect" (slice "cars") -}}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{- if ne .Kind "term" }}
+    <p>Categories:
+      {{- range (.GetTerms "categories") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+      {{- end }}
+    </p>
+    {{- end }}
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+
+{{ end }}

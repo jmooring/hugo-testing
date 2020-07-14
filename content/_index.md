@@ -15,4 +15,4 @@ Description: Taxonomy filters based on Sections
 
 ---
 
-{{< filter section="movie" category="cars" >}}
+{{< filter section="article" category="cars" >}}
