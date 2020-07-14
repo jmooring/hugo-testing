@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #26882"
+date = 2020-07-14T08:53:28-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #26882
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/26882>
 
-Description: @@DESCRIPTION@@
+Description: Taxonomy filters based on Sections
 
 ---
