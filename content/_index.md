@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #27016"
+date = 2020-07-16T16:08:16-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #27016
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/27016>
 
-Description: @@DESCRIPTION@@
+Description: Date comparison
 
 ---
