@@ -1,0 +1,28 @@
+{{- $input := "" -}}
+{{- with .Get 0 -}}
+  {{- $input = . -}}
+{{- else -}}
+  {{- $msg1 := printf "The '%s' shortcode requires one positional parameter, a timestamp" .Name -}}
+  {{- $msg2 := printf "formatted as follows: Tue Oct 13 2020 10:12 PM PT. See %s" .Position -}}
+  {{- errorf "%s %s" $msg1 $msg2 -}}
+{{- end -}}
+
+{{- $timestamp := partial "convert-date.html" $input -}}
+
+{{- $str_timestamp := $timestamp.Format "2006-01-02T15:04:05-07:00" -}}
+{{- $str_now := now.Format "2006-01-02T15:04:05-07:00" -}}
+
+<pre>
+Input:     {{ $input }} (time zone will be ignored)<br>
+Converted: {{ $str_timestamp }}<br>
+Now:       {{ $str_now }}
+</pre>
+
+<br>
+
+{{- if gt $timestamp now -}}
+<pre>The input date is greater than now.</pre>
+{{- else -}}
+<pre>The input date is less than or equal to now.</pre>
+{{- end -}}
+</p>

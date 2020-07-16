@@ -1,0 +1,57 @@
+{{/*
+@param string timestamp
+  Example: Tue Oct 13 2020 10:12 PM PT
+
+@returns time converted_timestamp
+  Example: 2020-10-13T22:12:00
+
+The time zone is ignored.
+*/}}
+{{- $time_parts := split . " " -}}
+
+{{- $year := index $time_parts 3 -}}
+{{- $month := partial "get-month-number" (index $time_parts 1) -}}
+{{- $day := index $time_parts 2 -}}
+{{- $hour := index (split (index $time_parts 4) ":") 0 -}}
+{{- $min := index (split (index $time_parts 4) ":") 1 -}}
+{{- $sec := "00" -}}
+{{- $period := index $time_parts 5 -}}
+{{- $tz := index $time_parts 6 -}}
+{{- $offset := "00:00" }}
+
+{{- if eq (lower (index $time_parts 5)) "pm" -}}
+  {{ $hour = string (add (int $hour) 12) }}
+{{- end -}}
+
+{{- $converted_timestamp := printf "%s-%s-%sT%s:%s:%s-%s" $year $month $day $hour $min $sec $offset -}}
+
+{{- return time $converted_timestamp  }}
+
+{{/*
+@param string month_name
+  Examples: mar, march, Mar, March
+
+@returns string month_number
+  Example: 03
+*/}}
+{{- define "partials/get-month-number" -}}
+  {{- $months := dict -}}
+
+  {{- $months = merge $months (dict "jan" "01") -}}
+  {{- $months = merge $months (dict "feb" "02") -}}
+  {{- $months = merge $months (dict "mar" "03") -}}
+  {{- $months = merge $months (dict "apr" "04") -}}
+  {{- $months = merge $months (dict "may" "05") -}}
+  {{- $months = merge $months (dict "jun" "06") -}}
+  {{- $months = merge $months (dict "jul" "07") -}}
+  {{- $months = merge $months (dict "aug" "08") -}}
+  {{- $months = merge $months (dict "sep" "09") -}}
+  {{- $months = merge $months (dict "oct" "10") -}}
+  {{- $months = merge $months (dict "nov" "11") -}}
+  {{- $months = merge $months (dict "dec" "12") -}}
+
+  {{- $month_name := substr . 0 3 | lower -}}
+  {{- $month_number := index $months $month_name -}}
+
+  {{- return $month_number -}}
+{{- end -}}
