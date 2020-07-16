@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ partial "where" (dict "ctx" . "location" "Entering layouts/taxonomy/list.html") }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ end }}
+  {{ partial "where" (dict "ctx" . "location" "Leaving layouts/taxonomy/list.html") }}
+{{ end }}

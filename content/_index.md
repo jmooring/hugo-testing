@@ -10,3 +10,7 @@ Details: <https://discourse.gohugo.io/t/26970>
 Description: Loop through all tags in a particular category
 
 ---
+
+[Tags](/tags) | [Categories](/categories) | [Articles](/article) | [Posts](/post) | [Recipes](/recipe)
+
+---

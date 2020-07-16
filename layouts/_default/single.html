@@ -1,4 +1,16 @@
 {{ define "main" }}
+  {{ partial "where" (dict "ctx" . "location" "Entering layouts/_default/single.html") }}
   <h1>{{ .Title }}</h1>
+  <p>Categories:
+    {{ range (.GetTerms "categories") }}
+    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+  <p>Tags:
+    {{ range (.GetTerms "tags") }}
+    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
   {{ .Content }}
+  {{ partial "where" (dict "ctx" . "location" "Leaving layouts/_default/single.html") }}
 {{ end }}

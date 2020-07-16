@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ partial "where" (dict "ctx" . "location" "Entering layouts/_default/list.html") }}
+  {{ partial "where" (dict "ctx" . "location" "Entering layouts/term/list.html") }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages.ByTitle }}
@@ -19,5 +19,5 @@
       <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
     {{ end }}
   {{ end }}
-  {{ partial "where" (dict "ctx" . "location" "Leaving layouts/_default/list.html") }}
+  {{ partial "where" (dict "ctx" . "location" "Leaving layouts/term/list.html") }}
 {{ end }}

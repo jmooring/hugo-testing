@@ -1,0 +1,39 @@
+{{ define "main" }}
+  {{ partial "where" (dict "ctx" . "location" "Entering layouts/term/category.html") }}
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/* Create a sorted slice of tags present in the listed pages. */}}
+  {{ $tags := slice }}
+  {{ range .Pages }}
+    {{ $tags = $tags | append .Params.tags }}
+  {{ end }}
+  {{ $tags = $tags | uniq | sort }}
+
+  {{/* Range through the tags, then range through the pages that contain that tag. */}}
+  {{ $pages := .Pages }}
+  {{ range $tags }}
+    <hr>
+    <h2>{{ . }}</h2>
+    {{ range (where $pages ".Params.tags" "intersect" (slice .)).ByTitle }}
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>Categories:
+        {{ range (.GetTerms "categories") }}
+        <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      </p>
+      <p>Tags:
+        {{ range (.GetTerms "tags") }}
+        <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      </p>
+      <p>{{ .Summary }}</p>
+      {{ if .Truncated }}
+        <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ partial "where" (dict "ctx" . "location" "Leaving layouts/term/category.html") }}
+{{ end }}
