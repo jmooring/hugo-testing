@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #26970"
+date = 2020-07-16T08:14:53-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #26970
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/26970>
 
-Description: @@DESCRIPTION@@
+Description: Loop through all tags in a particular category
 
 ---
