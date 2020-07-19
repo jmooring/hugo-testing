@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #27050"
+date = 2020-07-19T06:36:11-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #27050
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/27050>
 
-Description: @@DESCRIPTION@@
+Description: Page Bundle, relative image path in RSS feed wrong
 
 ---
