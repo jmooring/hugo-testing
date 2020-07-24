@@ -1,0 +1,70 @@
+{{- $url := "" -}}
+{{- $width := 0 -}}
+{{- $height := 0 -}}
+{{- $template := "layouts/_default/_markup/render-image.html" -}}
+
+{{- $msg1 := `The image URL '%s' is not allowed. Image URLs must be
+page resources, global resources, or remote images accessed via http or https.
+Error occurred while rendering %s with %s.` -}}
+
+{{- $msg2 := `The image URL '%s' is not a global resource. Image URLs must be
+page resources, global resources, or remote images accessed via http or https.
+Error occurred while rendering %s with %s.` -}}
+
+{{- $msg3 := `The image URL '%s' is not a page resource. Image URLs must be
+page resources, global resources, or remote images accessed via http or https.
+Error occurred while rendering %s with %s.` -}}
+
+{{/*
+To use this render hook with images in static directories, each static
+directory must be mounted as an asset in config.toml. For example:
+
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "static/img"
+target = "assets/img"
+
+[[module.mounts]]
+source = "themes/foo/static/img"
+target = "assets/img"
+*/}}
+
+{{- if strings.HasPrefix .Destination "http://" -}}
+  {{- $url = .Destination -}}
+{{- else if strings.HasPrefix .Destination "https://" -}}
+  {{- $url = .Destination -}}
+{{- else if strings.HasPrefix .Destination "../" -}}
+  {{- errorf $msg1 .Destination .Page.Path $template }}
+{{- else if strings.HasPrefix .Destination "/" }}
+  {{/* Try to find a global resource. */}}
+  {{- with resources.Get .Destination -}}
+    {{- $url = .RelPermalink -}}
+    {{- $width = .Width -}}
+    {{- $height = .Height -}}
+  {{- else -}}
+    {{- errorf $msg2 .Destination .Page.Path $template -}}
+  {{- end -}}
+{{- else -}}
+  {{/* Try to find a page resource. */}}
+  {{- if strings.HasPrefix .Destination "./" -}}
+    {{- $url = substr .Destination 2 -}}
+  {{- else -}}
+    {{- $url = .Destination -}}
+  {{- end -}}
+  {{- with .Page.Resources.GetMatch $url -}}
+    {{- $url = .RelPermalink -}}
+    {{- $width = .Width -}}
+    {{- $height = .Height -}}
+  {{- else -}}
+    {{- errorf $msg3 .Destination .Page.Path $template -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and (gt $width 0) (gt $height 0) -}}
+  <img src="{{ $url }}" alt="{{ .PlainText }}" title="{{ .Title }}" width="{{ $width }}" height="{{ $height }}">
+{{- else -}}
+  <img src="{{ $url }}" alt="{{ .PlainText }}" title="{{ .Title }}">
+{{- end -}}

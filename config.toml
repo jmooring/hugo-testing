@@ -1,3 +1,22 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #27050"
+
+theme = "foo"
+
+canonifyURLs = true
+
+[permalinks]
+post = "/blog/:year/:month/:title/"
+
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "static/img"
+target = "assets/img"
+
+[[module.mounts]]
+source = "themes/foo/static/img"
+target = "assets/img"
