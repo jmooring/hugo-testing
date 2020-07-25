@@ -1,17 +1,23 @@
 {{- $url := "" -}}
+{{- $json := "" -}}
 {{- $width := 0 -}}
 {{- $height := 0 -}}
+{{- $mime_type := "" -}}
 {{- $template := "layouts/_default/_markup/render-image.html" -}}
 
-{{- $msg1 := `The image URL '%s' is not allowed. Image URLs must be
+{{- $msg1 := `Unable to get image attributes for '%s'.
+The image attributes API said: '%s'.
+Error occurred while rendering '%s' with '%s'.` -}}
+
+{{- $msg2 := `The image URL '%s' is not allowed. Image URLs must be
+page resources, global resources, or remote images accessed via http or https.
+Error occurred while rendering '%s' with '%s.'` -}}
+
+{{- $msg3 := `The image URL '%s' is not a global resource. Image URLs must be
 page resources, global resources, or remote images accessed via http or https.
 Error occurred while rendering %s with %s.` -}}
 
-{{- $msg2 := `The image URL '%s' is not a global resource. Image URLs must be
-page resources, global resources, or remote images accessed via http or https.
-Error occurred while rendering %s with %s.` -}}
-
-{{- $msg3 := `The image URL '%s' is not a page resource. Image URLs must be
+{{- $msg4 := `The image URL '%s' is not a page resource. Image URLs must be
 page resources, global resources, or remote images accessed via http or https.
 Error occurred while rendering %s with %s.` -}}
 
@@ -32,20 +38,30 @@ source = "themes/foo/static/img"
 target = "assets/img"
 */}}
 
-{{- if strings.HasPrefix .Destination "http://" -}}
+{{- if or (strings.HasPrefix .Destination "https:") (strings.HasPrefix .Destination "http:") -}}
   {{- $url = .Destination -}}
-{{- else if strings.HasPrefix .Destination "https://" -}}
-  {{- $url = .Destination -}}
+  {{/* Using the now query parameter to bust caches. */}}
+  {{- $query := querify "url" $url "now" (now.Unix) -}}
+  {{- $request := printf "https://www.mooring.com/api/image-attributes/?%s" $query -}}
+  {{- $json = getJSON $request -}}
+  {{- if eq $json.status "ok" -}}
+    {{- $width = $json.width -}}
+    {{- $height = $json.height -}}
+    {{- $mime_type = $json.mime_type | safeHTML -}}
+  {{- else -}}
+    {{- warnf $msg1 .Destination $json.msg .Page.Path $template }}
+  {{- end -}}
 {{- else if strings.HasPrefix .Destination "../" -}}
-  {{- errorf $msg1 .Destination .Page.Path $template }}
+  {{- errorf $msg2 .Destination .Page.Path $template }}
 {{- else if strings.HasPrefix .Destination "/" }}
   {{/* Try to find a global resource. */}}
   {{- with resources.Get .Destination -}}
     {{- $url = .RelPermalink -}}
     {{- $width = .Width -}}
     {{- $height = .Height -}}
+    {{- $mime_type = .MediaType -}}
   {{- else -}}
-    {{- errorf $msg2 .Destination .Page.Path $template -}}
+    {{- errorf $msg3 .Destination .Page.Path $template -}}
   {{- end -}}
 {{- else -}}
   {{/* Try to find a page resource. */}}
@@ -58,8 +74,9 @@ target = "assets/img"
     {{- $url = .RelPermalink -}}
     {{- $width = .Width -}}
     {{- $height = .Height -}}
+    {{- $mime_type = .MediaType -}}
   {{- else -}}
-    {{- errorf $msg3 .Destination .Page.Path $template -}}
+    {{- errorf $msg4 .Destination .Page.Path $template -}}
   {{- end -}}
 {{- end -}}
 

@@ -4,7 +4,7 @@ title = "Hugo Forum Topic #27050"
 
 theme = "foo"
 
-canonifyURLs = true
+canonifyURLs = false
 
 [permalinks]
 post = "/blog/:year/:month/:title/"
