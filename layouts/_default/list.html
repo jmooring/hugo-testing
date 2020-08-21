@@ -1,10 +1,32 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  <h2>First Two Posts (ByTitle)</h2>
+  {{ range first 2 .Site.RegularPages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>
     {{ if .Truncated }}
       <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
     {{ end }}
   {{ end }}
+
+  <h2>Third and Fourth Posts (ByTitle)</h2>
+  {{ range last 2 (first 4 .Site.RegularPages.ByTitle) }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+
+  <h2>Last Two Posts (ByTitle)</h2>
+  {{ range last 2 .Site.RegularPages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+
+
 {{ end }}
