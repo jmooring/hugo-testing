@@ -1,6 +1,6 @@
 +++
 title = "Test"
-date = @@DATE@@
+date = 2020-08-21T06:56:23-04:00
 draft = false
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta feugiat tellus, eu rutrum arcu feugiat ac. Morbi vehicula suscipit libero vitae finibus. In sollicitudin felis mauris, nec condimentum justo pharetra vitae. Quisque suscipit diam sit amet purus dictum, et euismod sapien egestas. Nunc erat erat, blandit porta lacus at, imperdiet pulvinar magna. Maecenas eget massa pretium nibh maximus consectetur. Morbi posuere fermentum elit, in vehicula quam aliquet ac. Proin a porta enim. Duis imperdiet non neque vitae vestibulum. Nam id orci et tellus vehicula porttitor. Mauris et odio purus. Nunc in fringilla felis, eget accumsan odio. Sed feugiat sit amet ligula nec laoreet. Sed ornare tortor ut odio dignissim, placerat condimentum dolor hendrerit. Nullam vel eleifend massa.
