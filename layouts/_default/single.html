@@ -1,4 +1,27 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+  <h2>Raw Content (Before)</h2>
+  <pre style="white-space: pre-wrap;">{{ .RawContent }}</pre>
+
+  <h2>Conversion</h2>
+
+  {{- $rawContent := .RawContent -}}
+  {{- range .Site.Data.replace.args -}}
+    <pre>
+      Pattern: {{ .pattern | html }}
+      Replacement: {{ .replacement }}
+      Comment: {{ .comment }}
+      {{- with .skip }}
+      Skip: {{ . }}
+      {{- end -}}
+    </pre>
+    {{- if not .skip -}}
+      {{- $rawContent = $rawContent | replaceRE .pattern .replacement -}}
+    {{- end -}}
+  {{- end -}}
+
+  <h2>Raw Content (After)</h2>
+  <pre style="white-space: pre-wrap;">{{ $rawContent }}</pre>
+
 {{ end }}

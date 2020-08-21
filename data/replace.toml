@@ -1,0 +1,24 @@
+# Arguments for replaceRE, applied iteratively to .RawContent.
+# Patterns with backslashes must be encapsulated within single quotes.
+# Set skip = true to skip a particular replacement.
+
+[[args]]
+pattern = "hour"
+replacement = "minute"
+comment = "Replace 'hour' with 'minute'"
+
+[[args]]
+pattern = "spot"
+replacement = "location"
+comment = "Replace 'spot' with 'location'"
+
+[[args]]
+pattern = "look"
+replacement = "sound"
+comment = "Replace 'look' with 'music'"
+
+[[args]]
+pattern = "words"
+replacement = "music"
+comment = "Replace 'words' with 'music'"
+skip = true
