@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #27859"
+date = 2020-08-27T06:28:22-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #27859
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/27859>
 
-Description: @@DESCRIPTION@@
+Description: Does index.html inherit its layouts from default/baseof.html?
 
 ---
