@@ -9,4 +9,6 @@ Details: <https://discourse.gohugo.io/t/27859>
 
 Description: Does index.html inherit its layouts from default/baseof.html?
 
+[Posts](/post)
+
 ---
