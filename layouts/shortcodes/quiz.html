@@ -1,0 +1,32 @@
+{{- $name := .Name -}}
+{{- $position := .Position -}}
+
+{{- $question_ids := slice -}}
+{{- range (split .Inner "\n") -}}
+  {{- $line := trim . " " -}}
+  {{- if gt (len $line) 0 -}}
+    {{- $question_ids = $question_ids | append $line -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if eq (len $question_ids) 0 -}}
+  {{- errorf "The '%s' shortcode requires one or more question IDs. See %s" $name $position -}}
+{{- else -}}
+  <form>
+    {{- range $question_id := $question_ids -}}
+      {{- with $item := index $.Site.Data.questions $question_id  -}}
+        {{- $question := index $item.question -}}
+        {{- $possible_answers := index $item.possible_answers }}
+        <p>{{ $question }}</p>
+        {{- range $k, $v := $possible_answers }}
+        <input type="radio" id="question-{{$question_id}}-{{ $k }}" name="answer-to-question-{{$question_id}}" value="{{ $k }}">
+        <label for="question-{{$question_id}}-{{ $k }}">{{ $v }}</label><br>
+        {{- end }}
+      {{- else -}}
+        {{- errorf "The '%s' shortcode was unable to find a question with ID '%s'. See %s" $name $question_id $position -}}
+      {{- end -}}
+    {{- end }}
+    <br>
+    <input type="submit" value="Submit">
+  </form>
+{{- end -}}

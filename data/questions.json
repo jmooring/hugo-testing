@@ -1,0 +1,27 @@
+{
+  "000001": {
+    "question": "What color is the sky?",
+    "possible_answers": {
+      "a": "Green",
+      "b": "Red",
+      "c": "Blue"
+    },
+    "correct_answer": "a"
+  },
+  "000002": {
+    "question": "Is the earth flat?",
+    "possible_answers": {
+      "a": "Yes",
+      "b": "No"
+    },
+    "correct_answer": "b"
+  },
+  "000003": {
+    "question": "What is the best way to indent code?",
+    "possible_answers": {
+      "a": "Tabs",
+      "b": "Spaces"
+    },
+    "correct_answer": "b"
+  }
+}

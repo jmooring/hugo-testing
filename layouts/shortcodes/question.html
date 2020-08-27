@@ -1,0 +1,24 @@
+{{- $question_id := "" -}}
+
+{{- with .Get "id" -}}
+  {{- $question_id = . -}}
+{{- else -}}
+  {{- errorf "The '%s' shortcode requires a named parameter (id), the ID of the question. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- with $item := index .Site.Data.questions $question_id  -}}
+  {{- $question := index $item.question -}}
+  {{- $possible_answers := index $item.possible_answers -}}
+  <form id="question-{{$question_id}}">
+    <p>{{ $question }}</p>
+    {{- range $k, $v := $possible_answers }}
+    <input type="radio" id="question-{{$question_id}}-{{ $k }}" name="answer-to-question-{{$question_id}}" value="{{ $k }}">
+    <label for="question-{{$question_id}}-{{ $k }}">{{ $v }}</label><br>
+    {{- end }}
+    <br>
+    <input type="submit" value="Submit">
+  </form>
+
+{{- else -}}
+  {{- errorf "The '%s' shortcode was unable to find a question with ID '%s'. See %s" .Name $question_id .Position -}}
+{{- end -}}
