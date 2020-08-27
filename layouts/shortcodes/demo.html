@@ -1,0 +1,13 @@
+{{- $name := .Name -}}
+{{- $position := .Position -}}
+{{- $src := "" -}}
+
+{{- with .Get "src" -}}
+  {{- with $.Page.Resources.GetMatch . -}}
+    {{ .Content }}
+  {{- else -}}
+    {{- errorf "The '%s' shortcode was unable to read '%s'. See %s" $name . $position -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "The '%s' shortcode requires a named parameter (src), the path to the other file. See %s" $name $position -}}
+{{- end -}}
