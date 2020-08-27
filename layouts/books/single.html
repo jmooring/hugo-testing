@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <p>
+    Genres:
+    {{ range (.GetTerms "genres") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+
+  <p>
+    Authors:
+    {{ range (.GetTerms "authors") }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+
+  {{ .Content }}
+
+{{ end }}

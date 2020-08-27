@@ -1,3 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #27851"
+
+[taxonomies]
+author = "authors"
+genre = "genres"
+
+[permalinks]
+authors = "/books/author/:slug"
+genres = "/books/genre/:slug"
