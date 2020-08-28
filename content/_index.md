@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #27887"
+date = 2020-08-28T12:41:31-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #27887
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/27887>
 
-Description: @@DESCRIPTION@@
+Description: Create anti-taxonomy? all pages without tag?
 
 ---
