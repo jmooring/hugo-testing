@@ -4,8 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+  <style>code.template-path {color: red; display: block;}</style>
 </head>
 <body>
+{{ range .Site.Menus.main.ByWeight }}
+  <a href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
+<hr>
 {{ block "main" . }}
 
 {{ end }}

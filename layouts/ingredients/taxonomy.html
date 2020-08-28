@@ -1,0 +1,13 @@
+{{ define "main" }}
+<code class="template-path">[layouts/ingredients/taxonomy.html]</code>
+  <h1>{{ title .Title }}</h1>
+  {{ .Content }}
+  <h2>Receipes with...</h2>
+  {{ range .Pages }}
+    <h3><a href="{{ .RelPermalink }}">{{ title .Title }}</a></h3>
+  {{ end }}
+  <h2>Receipes without...</h2>
+  {{ range .Pages }}
+    <h3><a href="{{ .RelPermalink }}no">{{ title .Title }}</a></h3>
+  {{ end }}
+{{ end }}

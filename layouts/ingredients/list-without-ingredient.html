@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <code class="template-path">[layouts/ingredients/list-without-ingredient.html]</code>
+  {{ $ingredientToExclude := .Parent.Title }}
+  <h1>Recipes without {{ title $ingredientToExclude }}</h1>
+  {{ .Content }}
+  {{ $counter := 0 }}
+  {{ range where .Site.RegularPages "Type" "recipes" }}
+    {{ if not (in .Params.ingredients $ingredientToExclude )}}
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+      {{ if .Truncated }}
+        <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+      {{ end }}
+      {{ $counter = add 1 $counter }}
+    {{ end }}
+  {{ end }}
+  {{ if eq $counter 0 }}
+    <p>I'm sorry. Every recipe on this site contains {{ $ingredientToExclude }}.</p>
+  {{ end }}
+{{ end }}

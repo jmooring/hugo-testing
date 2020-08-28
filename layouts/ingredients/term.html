@@ -1,9 +1,9 @@
 {{ define "main" }}
-  <code class="template-path">[layouts/_default/list.html]</code>
-  <h1>{{ .Title }}</h1>
+<code class="template-path">[layouts/ingredients/term.html]</code>
+  <h1>Receipes with {{ title .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <h2><a href="{{ .RelPermalink }}">{{ title .Title }}</a></h2>
     <p>{{ .Summary }}</p>
     {{ if .Truncated }}
       <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>

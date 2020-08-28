@@ -1,3 +1,20 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #27887"
+
+[taxonomies]
+ingredient = "ingredients"
+
+[menus]
+[[menus.main]]
+name = "Home"
+url = "/"
+weight = 10
+[[menus.main]]
+name = "Ingredients"
+url = "/ingredients"
+weight = 30
+[[menus.main]]
+name = "Recipes"
+url = "/recipes"
+weight = 20

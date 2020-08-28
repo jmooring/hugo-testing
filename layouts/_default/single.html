@@ -1,4 +1,11 @@
 {{ define "main" }}
+  <code class="template-path">[layouts/_default/single.html]</code>
   <h1>{{ .Title }}</h1>
+  <p>Ingredients:</p>
+  <ul>
+    {{ range (.GetTerms "ingredients") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+   {{ end }}
+  </ul>
   {{ .Content }}
 {{ end }}
