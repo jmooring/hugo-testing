@@ -1,3 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #7128"
+
+[markup.tableOfContents]
+endLevel = 3
+ordered = false
+startLevel = 2
