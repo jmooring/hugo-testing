@@ -10,3 +10,5 @@ Details: <https://github.com/gohugoio/hugo/issues/7688>
 Description: Using "with" in conjunction with .Exif produces runtime error for PNG images
 
 ---
+
+{{< list-image-descriptions >}}

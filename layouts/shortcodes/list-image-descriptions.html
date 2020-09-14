@@ -1,0 +1,16 @@
+{{- range $image := resources.Match "images/*" -}}
+  {{- with $image.Exif -}}
+    {{ .Tags.ImageDescription }}<br>
+  {{- end -}}
+{{- end -}}
+
+{{/* Nested with also fails. */}}
+{{/*}
+{{- range $image := resources.Match "images/*" -}}
+  {{- with $image -}}
+    {{- with .Exif -}}
+      {{ .Tags.ImageDescription }}<br>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+*/}
