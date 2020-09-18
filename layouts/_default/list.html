@@ -1,10 +1,11 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    {{ if .Truncated }}
-      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+  <table>
+    <tr><td>Item</td><td>Path</td><td>Date</td></tr>
+    {{- $i := 0 -}}
+    {{ range where .Site.Pages "Section" "post" }}
+      {{- $i = add $i 1 -}}
+      <tr><td>{{ $i }}</td><td>{{ .Path }}</td><td>{{ .Date }}</td></tr>
     {{ end }}
-  {{ end }}
+  </table>
 {{ end }}
