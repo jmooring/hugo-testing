@@ -1,15 +1,15 @@
 {{- with .Site.Params.map.engine -}}
-  .Site.Params.map.engine = {{ . }}<br>
+  .Site.Params.map.engine = {{ . }} ({{ printf "%T" . }})<br>
 {{- end -}}
 
 {{- with .Site.Params.map.api_key -}}
-  .Site.Params.map.api_key = {{ . }}<br>
+  .Site.Params.map.api_key = {{ . }} ({{ printf "%T" . }})<br>
 {{- end -}}
 
 {{- with .Site.Params.map.zoom -}}
-  .Site.Params.map.zoom = {{ . }}<br>
+  .Site.Params.map.zoom = {{ . }} ({{ printf "%T" . }})<br>
 {{- end -}}
 
 {{- with .Site.Params.map.foo -}}
-  .Site.Params.map.foo = {{ . }}<br>
+  .Site.Params.map.foo = {{ . }} ({{ printf "%T" . }})<br>
 {{- end -}}
