@@ -11,5 +11,5 @@ Clone this branch of the repository and build the site.
 ```bash
 git clone --single-branch -b hugo-forum-topic-28715 https://github.com/jmooring/hugo-testing hugo-forum-topic-28715
 cd hugo-forum-topic-28715
-hugo server
+HUGO_PARAMS_MAP='{"engine":"1","api_key":"12345","zoom":"15"}' hugo server
 ```
