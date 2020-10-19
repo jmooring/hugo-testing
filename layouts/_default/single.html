@@ -1,4 +1,4 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+  {{ $noop := .Content }} {{/* You must do this before calling the partial */}}
+  {{ partial "bar.html" . }}
 {{ end }}
