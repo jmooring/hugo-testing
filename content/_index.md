@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #28902"
+date = 2020-10-19T09:44:37-04:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #28902
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/28902>
 
-Description: @@DESCRIPTION@@
+Description: How to include shortcode into html file?
 
 ---
