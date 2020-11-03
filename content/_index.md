@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #29161"
+date = 2020-11-03T11:20:08-05:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #29161
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/29161>
 
-Description: @@DESCRIPTION@@
+Description: Splitting an article into multiple pages
 
 ---
