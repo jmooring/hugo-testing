@@ -1,3 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #29161"
+
+[params.multipage]
+displayPaginator = false
+displayPrevAndNext = true

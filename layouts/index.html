@@ -1,0 +1,22 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  {{ $p1 := where (where .Site.RegularPages "Type" "posts") "Params.page_number" nil }}
+  {{ $p2 := where (where .Site.Pages "Type" "posts") "Layout" "multipage" }}
+  {{ $pages := union $p1 $p2 }}
+
+  {{ $paginator := .Paginate ($pages.ByDate.Reverse) 3 }}
+
+  {{ range $paginator.Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+    {{ if or .Truncated (eq .Layout "multipage") }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+
+  {{ if gt $paginator.TotalPages 1 }}
+    {{ template "_internal/pagination.html" . }}
+  {{ end }}
+
+{{ end }}

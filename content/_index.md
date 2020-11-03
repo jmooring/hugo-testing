@@ -9,4 +9,7 @@ Details: <https://discourse.gohugo.io/t/29161>
 
 Description: Splitting an article into multiple pages
 
+The list below is limited to posts.  
+[Post 8]({{< relref "post-8" >}}) contains multiple pages; the others are single page posts.
+
 ---
