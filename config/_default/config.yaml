@@ -1,3 +1,3 @@
-baseURL: "http://example.org/"
-languageCode: "en-us"
-title: "Hugo Forum Topic #29136"
+baseURL: http://example.org/
+languageCode: en-us
+title: Hugo Forum Topic #29136

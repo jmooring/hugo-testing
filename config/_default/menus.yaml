@@ -1,5 +1,0 @@
-main:
-- name: "Google"
-  url: "https://www.google.com"
-- name: "Yahoo"
-  url: "https://www.yahoo.com"
