@@ -1,11 +1,7 @@
 {{ define "main" }}
-
-Menu:
-{{ range .Site.Menus.main }}
-  <a href="{{ .URL }}">{{ .Name }}</a>
-{{ end }}
-<hr>
-
+  .Site.Params.a (should be "foo") = {{ .Site.Params.a }}<br>
+  .Site.Params.b (should be "bar")  = {{ .Site.Params.b }}
+  <hr>
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
