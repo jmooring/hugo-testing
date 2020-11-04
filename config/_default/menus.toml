@@ -1,0 +1,19 @@
+[menu]
+
+[[menu.main]]
+name = "Google"
+url = "https://www.google.com"
+
+[[menu.main]]
+name = "Yahoo"
+url = "https://www.yahoo.com"
+
+# The above will fail. Use this instead:
+
+# [[main]]
+# name = "Google"
+# url = "https://www.google.com"
+
+# [[main]]
+# name = "Yahoo"
+# url = "https://www.yahoo.com"
