@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #29109"
+date = 2020-11-10T12:17:56-05:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #29109
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/29109>
 
-Description: @@DESCRIPTION@@
+Description: Resizing resources referenced by front matter in content/posts
 
 ---
