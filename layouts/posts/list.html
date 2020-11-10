@@ -1,0 +1,14 @@
+{{- define "main" -}}
+  <h1>{{ .Title }}</h1>
+  {{- range .Pages.GroupByDate "2006"  -}}
+    <h2>{{ .Key }}</h2>
+    {{- range .Pages -}}
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>{{ .Summary }}</p>
+      {{- with .Resources.GetMatch "featured.jpg" -}}
+        {{- $img := .Resize "100x" -}}
+        <img src="{{ $img.RelPermalink }}">
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
