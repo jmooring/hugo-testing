@@ -1,4 +1,12 @@
 {{ define "main" }}
+  {{- $related := where (.Site.RegularPages.Related .) "Params.lang" nil | first 3 -}}
+  <p>Related:</p>
+  <ul>
+  {{- range $related -}}
+    <li>{{ .Title }}</li>
+  {{- end -}}
+  </ul>
+  <hr>
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}

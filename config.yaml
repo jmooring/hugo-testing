@@ -1,0 +1,73 @@
+baseurl: "/"
+languageCode: "en-us"
+languageLang: "en"
+title: ""
+buildDrafts: true
+buildFuture: true
+enableRobotsTXT: false
+removePathAccents: true
+#theme: "hugo-demos"
+
+taxonomies:
+  # author: "authors"
+  tag: "tags"
+
+imaging:
+  quality: 80
+  resampleFilter: "gaussian"
+
+DefaultContentLanguage: en
+
+pygmentsCodeFences: true
+pygmentsUseClasses: true
+pygmentsCodefencesGuessSyntax: true
+
+# Create 301 redirects rather than html meta taxonomies[outputs]
+disableAliases: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - REDIR
+  section:
+    - HTML
+    - JSON
+    - RSS
+mediaTypes:
+  "text/platform":
+    delimiter: ''
+outputFormats:
+  REDIR:
+    mediatype: "text/platform"
+    baseName: "redirects.php"
+    isPlainText: true
+    notAlternative: true
+
+paginate: 30
+paginatePath: "page"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: false
+    lineNumbersInTable: false
+
+minify:
+  disableCSS: true
+  disableHTML: true
+  disableJS: true
+  minifyOutput: true
+build:
+  writeStats: true
+
+related:
+  threshold: 90
+  includeNewer: true
+  toLower: true
+  indices:
+  - name: tags
+    weight: 100
+  - name: date
+    weight: 40

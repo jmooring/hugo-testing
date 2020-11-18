@@ -1,0 +1,24 @@
+{
+  "htmlElements": {
+    "tags": [
+      "!doctype",
+      "a",
+      "body",
+      "h1",
+      "h2",
+      "head",
+      "hr",
+      "html",
+      "li",
+      "meta",
+      "p",
+      "script",
+      "title",
+      "ul"
+    ],
+    "classes": null,
+    "ids": [
+      "hugo-forum-topic-29273"
+    ]
+  }
+}
