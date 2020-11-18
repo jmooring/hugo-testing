@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #29273"
+date = 2020-11-18T06:14:26-05:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #29273
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/29273>
 
-Description: @@DESCRIPTION@@
+Description: Scope issue inside conditional block (I think)
 
 ---
