@@ -14,4 +14,4 @@ cd hugo-forum-topic-29540
 hugo server
 ```
 
-Then visit <http://localhost:1313/blog/>
+Then visit <http://localhost:1313/blog/2020/>
