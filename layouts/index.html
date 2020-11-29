@@ -1,0 +1,6 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ range first 2 (where site.RegularPages "Type" "in" "featured") }}
+    {{ .Render "summary" }}
+  {{ end }}
+{{ end }}

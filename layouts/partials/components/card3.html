@@ -1,0 +1,6 @@
+{{ with .context.Params.image }}
+  {{/* You can use site.GetPage instead of $.context.Site.GetPage */}}
+  {{ $imageResource := ($.context.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+  {{ $resized := $imageResource.Fill "200x200" }}
+  <img src="{{ $resized.RelPermalink }}" />
+{{ end }}
