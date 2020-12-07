@@ -9,4 +9,6 @@ Details: <https://discourse.gohugo.io/t/29850>
 
 Description: Sort by tag name
 
+[Tags](/tags)
+
 ---
