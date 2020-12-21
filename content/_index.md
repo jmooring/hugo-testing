@@ -9,4 +9,6 @@ Details: <https://discourse.gohugo.io/t/30136>
 
 Description: Is it possible to create categories for tags in taxonomies?
 
+[Tags](/tags)
+
 ---

@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <p>Tags:
+    {{ range (.GetTerms "tags") }}
+        <a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </p>
   {{ .Content }}
 {{ end }}

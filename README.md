@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-30136 https://github.com/jmooring/
 cd hugo-forum-topic-30136
 hugo server
 ```
+
+Then visit <http://localhost:1313/tags/>
