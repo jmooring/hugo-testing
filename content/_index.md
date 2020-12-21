@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #30136"
+date = 2020-12-21T12:02:17-05:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #30136
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/30136>
 
-Description: @@DESCRIPTION@@
+Description: Is it possible to create categories for tags in taxonomies?
 
 ---
