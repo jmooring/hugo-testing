@@ -1,0 +1,19 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ $allTags := slice }}
+  {{ range .Site.RegularPages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ range (.GetTerms "tags") }}
+      {{ $allTags = $allTags | append (dict "LinkTitle" .LinkTitle "Permalink" .Permalink) }}
+    {{ end }}
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+    {{ end }}
+  {{ end }}
+  <p>Tag cloud:
+    {{ range uniq $allTags }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}
