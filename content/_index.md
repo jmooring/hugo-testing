@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #31847"
+date = 2021-03-19T14:26:32-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #31847
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/31847>
 
-Description: @@DESCRIPTION@@
+Description: How can I pass the correct context to my partials
 
 ---
