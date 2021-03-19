@@ -1,0 +1,12 @@
+.Params.offers.title = {{ .Params.offers.title | safeHTML }}<br>
+.Params.offers.subtitle = {{ .Params.offers.subtitle | safeHTML }}<br>
+<hr>
+
+{{ $section := site.GetPage "offers" }}
+{{ range $section.Pages }}
+  .Title = {{ .Title }}<br>
+  .Description = {{ .Description }}<br>
+  .Params.duration = {{ .Params.duration }}<br>
+  .Params.icon = {{ .Params.icon }}<br>
+  <hr>
+{{ end }}
