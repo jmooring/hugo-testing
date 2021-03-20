@@ -1,9 +1,9 @@
 +++
-title = "Hugo Forum Topic #31857"
-date = 2021-03-20T10:24:05-07:00
+title = "Hugo Forum Topic #31857 (efrn)"
+date = 2021-03-20T08:48:22-07:00
 draft = false
 +++
-# Hugo Forum Topic #31857
+# Hugo Forum Topic #31857 (fr)
 
 Details: <https://discourse.gohugo.io/t/31857>
 

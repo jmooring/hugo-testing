@@ -1,3 +1,16 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Hugo Forum Topic #31857"
+title = "@@TITLE@@"
+
+[outputs]
+page = ["HTML", "AMP"]
+
+[languages.en]
+contentDir = "content/en"
+title = "Site Title (en)"
+weight = 1
+
+[languages.fr]
+contentDir = "content/fr"
+title = "Site Title (fr)"
+weight = 2
