@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #31857"
+date = 2021-03-20T10:24:05-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #31857
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/31857>
 
-Description: @@DESCRIPTION@@
+Description: Multilingual AMP pages with render-image markup not working
 
 ---
