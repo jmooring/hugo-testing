@@ -1,10 +1,13 @@
 {{ define "main" }}
+  <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    {{ if .Truncated }}
-      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+
+  {{ range (sort .Site.Taxonomies.categories ".Page.Weight") }}
+    <h2>{{ .Page.Title }}</h2>
+    {{ range .Pages }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a><br>
+      {{ .Content }}
     {{ end }}
   {{ end }}
+
 {{ end }}
