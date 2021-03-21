@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #31828"
+date = 2021-03-20T17:06:49-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #31828
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/31828>
 
-Description: @@DESCRIPTION@@
+Description: Keeping content generic but style them in on page categories?
 
 ---
