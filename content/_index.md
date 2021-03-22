@@ -9,4 +9,6 @@ Details: <https://discourse.gohugo.io/t/31882>
 
 Description: Divide list of blog posts in multiple sublists based on (first) category
 
+See [blog](/blog) section for example.
+
 ---

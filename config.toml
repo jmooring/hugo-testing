@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #31882"
+posts = "/blog/:slug"

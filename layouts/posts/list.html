@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $pages := slice }}
+  {{ $categories := slice }}
+
+  {{ range where .Site.RegularPages.ByTitle "Type" "posts" }}
+    {{ $category := (index .Params.categories 0) }}
+    {{ $categories = $categories | append $category }}
+    {{ $pages = $pages | append (dict "category" $category "page" .Page) }}
+  {{ end }}
+
+  {{ range $categories | uniq | sort }}
+    <h2>{{ . }}</h2>
+    {{ range where $pages "category" . }}
+      <a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a><br>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
