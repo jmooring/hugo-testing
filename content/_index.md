@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #31882"
+date = 2021-03-21T20:24:05-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #31882
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/31882>
 
-Description: @@DESCRIPTION@@
+Description: Divide list of blog posts in multiple sublists based on (first) category
 
 ---
