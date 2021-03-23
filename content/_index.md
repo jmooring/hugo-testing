@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo GitHub Issue #8353"
+date = 2021-03-22T20:05:06-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo GitHub Issue #8353
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/8353>
 
-Description: @@DESCRIPTION@@
+Description: "Where" sometimes doesn't seem to work
 
 ---
