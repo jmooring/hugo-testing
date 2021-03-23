@@ -1,10 +1,22 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    {{ if .Truncated }}
-      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
-    {{ end }}
-  {{ end }}
+
+  {{ $shortUrl := slice "foo" }}
+  {{ $output := newScratch}}
+
+  {{/* Begin code from https://github.com/gohugoio/hugo/issues/8353#issue-837807517 */}}
+  {{- range .Site.Pages -}}
+    {{ $url := (.OutputFormats.Get "HTML").RelPermalink }}
+    {{ if (eq .Params.name $shortUrl) }}
+      {{ warnf "HasMatch1 %s" $url }}
+      {{- $output.Set "match" $url -}}
+    {{- end }}
+  {{- end -}}
+  {{- range where .Site.Pages "Params.name" $shortUrl -}}
+    {{ $url := (.OutputFormats.Get "HTML").RelPermalink }}
+    {{ warnf "HasMatch2 %s" $url }}
+    {{- $output.Set "match" $url -}}
+  {{- end -}}
+  {{/* End code from https://github.com/gohugoio/hugo/issues/8353#issue-837807517 */}}
+
 {{ end }}
