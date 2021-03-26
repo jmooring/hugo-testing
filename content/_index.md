@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo GitHub Issue #6676"
+date = 2021-03-26T12:46:49-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo GitHub Issue #6676
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/6676>
 
-Description: @@DESCRIPTION@@
+Description: sections not rendering with taxonomy starting with same letters
 
 ---
