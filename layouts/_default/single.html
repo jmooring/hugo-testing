@@ -1,4 +1,12 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ $resource := .Resources.GetMatch "noise.jpg" }}
+  {{ $resource = $resource.Resize "800x" }}
+  {{ $resource = $resource.Filter images.Invert }}
+  {{ $resource = resources.Fingerprint "sha512" $resource }}
+  <img src="{{ $resource.RelPermalink }}" />
+
   {{ .Content }}
+
 {{ end }}
