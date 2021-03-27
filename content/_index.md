@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo GitHub Issue #6943"
+date = 2021-03-27T07:51:53-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo GitHub Issue #6943
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/6943>
 
-Description: @@DESCRIPTION@@
+Description: Processed image resources duplicated if resources folder already exists
 
 ---
