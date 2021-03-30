@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #32049"
+date = 2021-03-30T09:31:05-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #32049
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/32049>
 
-Description: @@DESCRIPTION@@
+Description: markup.goldmark.renderer.hardWraps not working
 
 ---
