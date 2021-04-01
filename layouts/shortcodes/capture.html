@@ -10,7 +10,7 @@
 {{- end -}}
 
 {{- with .Inner -}}
-  {{- $.Page.Scratch.SetInMap $.Name (string $.Ordinal) . -}}
+  {{- $.Page.Scratch.SetInMap $.Name (printf "%04d" $.Ordinal) . -}}
   {{- if $show -}}
     {{- . | $.Page.RenderString (dict "display" "block") -}}
   {{- end -}}

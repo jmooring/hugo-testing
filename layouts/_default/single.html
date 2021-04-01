@@ -6,7 +6,7 @@
   <p>Titles:</p>
   <ul>
     {{ range $k, $v := .Scratch.GetSortedMapValues $shortcode }}
-      <li id="{{ printf `%s-%d` $shortcode $k }}" class="{{ $shortcode }}">
+      <li id="{{ printf `%s-%d` $shortcode (add 1 $k) }}" class="{{ $shortcode }}">
         {{ $v | $.Page.RenderString }}
       </li>
     {{ end }}
