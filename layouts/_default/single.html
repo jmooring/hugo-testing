@@ -1,4 +1,16 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ $noop := .Content }}
+  {{ $shortcode := "capture" }}
+  <p>Titles:</p>
+  <ul>
+    {{ range $k, $v := .Scratch.GetSortedMapValues $shortcode }}
+      <li id="{{ printf `%s-%d` $shortcode $k }}" class="{{ $shortcode }}">
+        {{ $v | $.Page.RenderString }}
+      </li>
+    {{ end }}
+  </ul>
+
   {{ .Content }}
 {{ end }}

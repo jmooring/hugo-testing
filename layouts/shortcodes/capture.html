@@ -1,0 +1,19 @@
+{{- $show := false -}}
+{{- with .Get 0 -}}
+  {{- if eq . "show" -}}
+    {{- $show = true -}}
+  {{- else if eq . "hide" -}}
+    {{- $show = false -}}
+  {{- else -}}
+    {{- errorf "The %s shortcode accepts a single positional parameter with a value of either 'show' or 'hide'. See %s" $.Name $.Position -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with .Inner -}}
+  {{- $.Page.Scratch.SetInMap $.Name (string $.Ordinal) . -}}
+  {{- if $show -}}
+    {{- . | $.Page.RenderString (dict "display" "block") -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "The %s shortcode requires 'Inner' content. See %s" .Name .Position -}}
+{{- end -}}
