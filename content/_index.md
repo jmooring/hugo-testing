@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #32130"
+date = 2021-04-02T16:24:56-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #32130
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/32130>
 
-Description: @@DESCRIPTION@@
+Description: Table of content for other tags (not for headings)
 
 ---
