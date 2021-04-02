@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #32131"
+date = 2021-04-02T10:51:37-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #32131
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/32131>
 
-Description: @@DESCRIPTION@@
+Description: How can I add rel=nofollow or target=blank or rel=external or other similar attributes to specific links in my posts (in markdown)?
 
 ---
