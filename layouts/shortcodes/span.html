@@ -1,0 +1,12 @@
+{{ $msg := "The %s shortcode requires two named parameters, id and title. See %s" }}
+{{ with $id := .Get "id"}}
+  {{ with $title := ($.Get "title") }}
+    {{- $inner := trim $.Inner "\n" -}}
+    {{- $id := $id | anchorize -}}
+    <span id="{{ $id }}" data-toc="" data-title="{{ $title }}">{{ $inner | $.Page.RenderString }}</span>
+  {{ else }}
+    {{ errorf $msg $.Name $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf $msg $.Name $.Position }}
+{{ end }}

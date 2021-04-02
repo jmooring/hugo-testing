@@ -1,4 +1,22 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  {{ .Title }}
+
+  {{ $toc := slice }}
+  {{ $spans := findRE `<span.*data-toc.*?>` .Content }}
+  {{ range $spans }}
+    {{ $id := replaceRE `.*id="(.*?)".*` "$1" . }}
+    {{ $title := replaceRE `.*data-title="(.*?)".*` "$1" . }}
+    {{ $toc = $toc | append (dict "id" $id "title" $title) }}
+  {{ end }}
+
+  <nav id="TableOfContents">
+    <ul>
+    {{ range $toc }}
+      <li><a href="#{{ .id }}">{{ .title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+
   {{ .Content }}
+
 {{ end }}

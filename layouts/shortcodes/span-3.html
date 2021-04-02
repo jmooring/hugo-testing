@@ -1,0 +1,14 @@
+<style>h2.hide-me { line-height: 0px; margin: 0; visibility: hidden; }</style>
+{{ $msg := "The %s shortcode requires two named parameters, id and title. See %s" }}
+{{ with $id := .Get "id"}}
+  {{ with $title := ($.Get "title") }}
+    {{- $inner := trim $.Inner "\n" -}}
+    {{- $id := $id | anchorize -}}
+    {{- printf "\n\n## %s {#%s .hide-me}\n\n" $title $id -}}
+    <span>{{ $inner }}</span>
+  {{ else }}
+    {{ errorf $msg $.Name $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf $msg $.Name $.Position }}
+{{ end }}
