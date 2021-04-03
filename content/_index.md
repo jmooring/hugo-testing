@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #32136"
+date = 2021-04-02T17:55:23-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #32136
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/32136>
 
-Description: @@DESCRIPTION@@
+Description: Adding content to block from mutiple partial templates
 
 ---
