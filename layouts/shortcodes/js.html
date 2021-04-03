@@ -1,0 +1,5 @@
+{{- with .Inner -}}
+  {{- $.Page.Scratch.SetInMap $.Name (printf "%04d" $.Ordinal) (chomp .) -}}
+{{- else -}}
+  {{- errorf "The %s shortcode requires 'Inner' content. See %s" .Name .Position -}}
+{{- end -}}

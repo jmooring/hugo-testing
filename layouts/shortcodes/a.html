@@ -1,0 +1,2 @@
+{{- $js := `<script defer src="/example-a.js"></script>` }}
+{{- $.Page.Scratch.SetInMap "js" .Name ($js | safeHTML) -}}
