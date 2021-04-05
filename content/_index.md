@@ -1,12 +1,11 @@
-+++
-title = "Hugo GitHub Issue #8386"
-date = 2021-04-05T09:55:15-07:00
-draft = false
-+++
-# Hugo GitHub Issue #8386
-
-Details: <https://github.com/gohugoio/hugo/issues/8386>
-
-Description: Invalid unicode in ld+json output
-
 ---
+title: Frequently Asked Questions
+date: 2019-03-26T08:47:11+01:00
+draft: false
+faqs:
+  - question: What's the best song by Jackson Browne
+    answer: It's Sky Blue & Black
+    answer_schema: It's Sky Blue & Black
+---
+
+This is content/post/_index.md

@@ -1,10 +1,15 @@
 {{ define "main" }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    {{ if .Truncated }}
-      <p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
-    {{ end }}
-  {{ end }}
+<ul>
+  {{ range .Params.faqs}}
+  <li>
+    <a href="#{{ .question | anchorize }}">{{ .question }}</a>
+  </li>
+  {{ end}}
+</ul>
+</nav>
+
+{{ range .Params.faqs}}
+<h2 id="{{.question|anchorize}}">{{ .question }}</h2>
+<p>{{ .answer | markdownify }}</p>
+{{ end }}
 {{ end }}
