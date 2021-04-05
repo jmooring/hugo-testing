@@ -1,3 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #8292"
+
+[outputFormats]
+[outputFormats.excerpt]
+baseName = "/excerpt/index"
+mediaType = "text/html"
+
+[outputs]
+page = ["HTML", "excerpt"]

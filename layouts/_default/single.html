@@ -1,4 +1,5 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  <p>Here's a link to the <a href="{{ (.OutputFormats.Get "excerpt").RelPermalink }}">excerpt output format</a> for this page.</p>
 {{ end }}

@@ -2,7 +2,7 @@
 
 Details: <https://github.com/gohugoio/hugo/issues/8292>
 
-Description: .OuputFormats.Get returns main OF's .RelPermalink when baseName includes `/index` 
+Description: .OuputFormats.Get returns main OF's .RelPermalink when baseName includes `/index`
 
 ## Instructions
 
