@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ range .Params.blocks }}
+    <h3>{{ .title }}</h3>
+    {{ .content | $.RenderString }}
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
