@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo GitHub Issue #7838"
+date = 2021-04-09T13:45:24-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo GitHub Issue #7838
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/7838>
 
-Description: @@DESCRIPTION@@
+Description: Failed to get translated string for language "art-x-language"
 
 ---
