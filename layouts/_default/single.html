@@ -1,4 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ $word := "cat" }}
+  The word {{ $word }} in {{ .Language.LanguageName }} is {{ i18n $word 1 }}.<br>
+
+  {{ $wordPlural := "cats" }}
+  The word {{ $wordPlural }} in {{ .Language.LanguageName }} is {{ i18n $word }}.<br>
+
   {{ .Content }}
 {{ end }}

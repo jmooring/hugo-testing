@@ -1,3 +1,28 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Hugo GitHub Issue #7838"
+title = "@@TITLE@@"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    contentDir = "content/english"
+    languageName = "English"
+    title = "English Site"
+    weight = 1
+  [languages.jp]
+    contentDir = "content/japanese"
+    languageName = "Japanese"
+    title = "Japanese Site"
+    weight = 2
+  [languages.kr]
+    contentDir = "content/korean"
+    languageName = "Korean"
+    title = "Korean Site"
+    weight = 3
+  [languages.tw]
+    contentDir = "content/taiwanese"
+    languageName = "Taiwanese Mandarin"
+    title = "Taiwanese Mandarin Site"
+    weight = 4
