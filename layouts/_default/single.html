@@ -1,4 +1,18 @@
 {{ define "main" }}
+
+{{ $content := `
+<div>
+  <div>
+    Lorem ipsum dolor sit amet.
+  </div>
+</div>
+<p>Lorem ipsum dolor sit amet.</p>
+`}}
+
+{{ $content | safeHTML | truncate 100 }}
+
+{{/*
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+ */}}
 {{ end }}
