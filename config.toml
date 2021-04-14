@@ -1,3 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #8417"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[build]
+writeStats = true
