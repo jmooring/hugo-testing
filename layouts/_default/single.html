@@ -1,4 +1,29 @@
 {{ define "main" }}
+
   <h1>{{ .Title }}</h1>
+
+  {{ $i_jpg := resources.Get "a.jpg" -}}
+
+  {{ $alt := "" }}
+  {{ with $i_jpg.Exif }}
+    {{ $alt = .Tags.ImageDescription }}
+  {{ end }}
+
+  {{ $i_jpg = $i_jpg.Resize "x200" }}
+  {{ $i_webp := $i_jpg.Resize "x200 webp" }}
+
+  {{ $i_jpg_size := len $i_jpg.Content }}
+  {{ $i_webp_size := len $i_webp.Content }}
+
+  <figure>
+    <img alt="{{ $alt }}" src="{{ $i_jpg.RelPermalink }}" width="{{ $i_jpg.Width }}" height="{{ $i_jpg.Height }}">
+    <figcaption>{{ printf "%s (%s %d bytes)" $alt "JPG" $i_jpg_size }}</figcaption>
+  </figure>
+
+  <figure>
+    <img alt="{{ $alt }}" src="{{ $i_webp.RelPermalink }}" width="{{ $i_webp.Width }}" height="{{ $i_webp.Height }}">
+    <figcaption>{{ printf "%s (%s %d bytes)" $alt "WEBP" $i_webp_size }}</figcaption>
+  </figure>
+
   {{ .Content }}
 {{ end }}
