@@ -1,0 +1,31 @@
+{{ $s := slice}}
+{{ range site.Params.footers }}
+  {{ $thing := $.Scratch.Get .option }}
+  {{ $type := printf "%T" ($.Scratch.Get .option) }}
+  {{ if eq $type "[]map[string]interface {}" }}
+    {{ $s = $thing }}</pre>
+  {{ else if eq $type "navigation.Menu" }}
+    {{ range $thing }}
+      {{ $s = $s | append
+        (
+          dict .Identifier
+          (
+            dict
+            "Children" .Children
+            "HasChildren" .HasChildren
+            "KeyName" .KeyName
+            "Menu" .Menu
+            "Name" .Name
+            "Parent" .Parent
+            "Post" .Post
+            "Pre" .Pre
+            "Title" .Title
+            "URL" .URL
+            "Weight" .Weight
+          )
+        )
+      }}
+    {{ end }}
+  {{ end }}
+  <pre>{{- jsonify (dict "indent" "  ") $s -}}</pre>
+{{ end }}

@@ -1,3 +1,23 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #32412"
+
+sectionPagesMenu = "main"
+
+[[params.footers]]
+option = "site.Menus.main"
+[[params.footers]]
+option = "site.Params.employees"
+
+[[params.employees]]
+id = "001"
+name = "Bob Smith"
+age = 23
+[[params.employees]]
+id = "002"
+name = "Kate Jones"
+age = 29
+[[params.employees]]
+id = "003"
+name = "Addison Parks"
+age = 31

@@ -6,6 +6,8 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+{{ .Scratch.Set "site.Menus.main" site.Menus.main }}
+{{ .Scratch.Set "site.Params.employees" site.Params.employees }}
 {{ block "main" . }}
 
 {{ end }}
