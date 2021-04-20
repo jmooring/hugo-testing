@@ -1,4 +1,17 @@
 {{ define "main" }}
+
+  {{ with (partial "render-tag.html" (dict "ctx" . "taxonomy" "authors")) }}
+    <p>Authors:{{ . }}</p>
+  {{ end }}
+
+  {{ with (partial "render-tag.html" (dict "ctx" . "taxonomy" "booktitles")) }}
+    <p>Book Titles: {{ . }}</p>
+  {{ end }}
+
+  {{ with (partial "render-tag.html" (dict "ctx" . "taxonomy" "publishers")) }}
+    <p>Publishers:{{ . }}</p>
+  {{ end }}
+
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}

@@ -1,0 +1,7 @@
+{{- $taxonomy := .taxonomy -}}
+{{- with .ctx -}}
+  {{- range index .Params $taxonomy -}}
+    {{- $p := site.GetPage (printf "%s/%s" $taxonomy (urlize .)) }}
+    <a href="{{ $p.RelPermalink}}">{{ $p.Title }}</a>
+  {{- end -}}
+{{- end -}}
