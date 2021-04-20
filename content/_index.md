@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #32412"
+date = 2021-04-19T17:50:44-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #32412
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/32412>
 
-Description: @@DESCRIPTION@@
+Description: Get variable by string parameter
 
 ---
