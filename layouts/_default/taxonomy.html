@@ -3,10 +3,5 @@
   {{ .Content }}
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>Tags:
-      {{ range (.GetTerms "tags") }}
-        <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-      {{ end }}
-    </p>
   {{ end }}
 {{ end }}

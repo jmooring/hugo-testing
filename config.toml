@@ -1,3 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #32420"
+
+[related]
+includeNewer = true   # If false, will only include pages newer than the current page.
+threshold = 80
+toLower = false
+
+[[related.indices]]
+name = "tags"
+weight = 100

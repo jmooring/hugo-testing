@@ -1,4 +1,31 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+<h1>{{ .Title }}</h1>
+
+Section = {{ .Section }}<br>
+CurrentSection  {{ .CurrentSection }}<br>
+<p>Tags:
+  {{ range (.GetTerms "tags") }}
+    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+  {{ end }}
+</p>
+
+<p>Related Content:
+  <ul>
+    {{ $related := .Site.Pages.RelatedIndices . "tags" }}
+    {{ $related = where $related "Type" "post" }}
+    {{ $related = $related | intersect .CurrentSection.Pages }}
+    {{ $related = $related | first 3 }}
+    {{ range $related }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          tags:
+          {{ range (.GetTerms "tags") }}
+            <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</p>
+
+{{ .Content }}
 {{ end }}
