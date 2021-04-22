@@ -1,0 +1,15 @@
+[day]
+zero = "diennakšu"
+one = "diennakts"
+two = "ignored (two)"       # ignored per CLDR plural rules for lv
+few = "ignored (few)"       # ignored per CLDR plural rules for lv
+many = "ignored (many)"     # ignored per CLDR plural rules for lv
+other = "diennaktis"
+
+[thing]
+zero = "{{ . }} (zero)"
+one = "{{ . }} (one)"
+two = "ignored (two)"       # ignored per CLDR plural rules for lv
+few = "ignored (few)"       # ignored per CLDR plural rules for lv
+many = "ignored (many)"     # ignored per CLDR plural rules for lv
+other = "{{ . }} (other)"

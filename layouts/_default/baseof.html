@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
+<style>
+  table {border-collapse: collapse}
+  td {
+    border: 1px solid #ccc;
+    padding: 0 .5em;
+  }
+  pre {
+    margin: .2em 0;
+  }
+</style>
 <body>
 {{ block "main" . }}
 

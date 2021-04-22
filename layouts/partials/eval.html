@@ -1,0 +1,4 @@
+{{ $f := printf "%s.txt" (. | md5) }}
+{{ $r := printf "{{ %s }}" . | resources.FromString $f }}
+{{ $r = $r | resources.ExecuteAsTemplate $f . }}
+{{ return $r.Content }}

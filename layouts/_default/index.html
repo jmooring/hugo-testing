@@ -7,7 +7,7 @@
     {{ end }}
   </p>
   <hr>
-  {{ range .Pages }}
+  {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
 {{ end }}

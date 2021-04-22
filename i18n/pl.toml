@@ -1,0 +1,15 @@
+[day]
+zero = "ignored (zero)"     # ignored per CLDR plural rules for pl
+one = "miesiąc"
+two = "ignored (two)"       # ignored per CLDR plural rules for pl
+few = "miesiące"
+many = "miesięcy"
+other = "miesiąca"
+
+[thing]
+zero = "ignored (zero)"     # ignored per CLDR plural rules for pl
+one = "{{ . }} (one)"
+two = "ignored (two)"       # ignored per CLDR plural rules for pl
+few = "{{ . }} (few)"
+many = "{{ . }} (many)"
+other = "{{ . }} (other)"

@@ -1,3 +1,31 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #7839"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+contentDir = "content/en"
+languageName = "English"
+weight = 10
+
+[languages.fr]
+contentDir = "content/fr"
+languageName = "French"
+weight = 20
+
+[languages.lv]
+contentDir = "content/lv"
+languageName = "Latvian"
+weight = 30
+
+[languages.pl]
+contentDir = "content/pl"
+languageName = "Polish"
+weight = 40
+
+[languages.cy]
+contentDir = "content/cy"
+languageName = "Welsh"
+weight = 50

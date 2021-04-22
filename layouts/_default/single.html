@@ -1,4 +1,159 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <h1>{{ .Title }} ({{ .Language.LanguageName }})</h1>
   {{ .Content }}
+  <p>Other translations:
+    {{ range .Translations }}
+      <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+  </p>
+
+  <p>Reference: <a href="https://unicode-org.github.io/cldr-staging/charts/37/supplemental/language_plural_rules.html">CLDR Plural Rules</a></p>
+
+  <h2>Day</h2>
+
+  {{ $expectedResults := site.Data.expected_results_day }}
+
+  <table>
+    <thead>
+      <tr>
+        <td>Qty</td>
+        <td>Type</td>
+        <td>Index</td>
+        <td>Expected</td>
+        <td>Actual</td>
+        <td>Status</td>
+      </tr>
+    </thead>
+    <tbody>
+      {{ $expected := ""}}
+      {{ $actual := "" }}
+      {{ $index := "" }}
+      {{ $type := "" }}
+      {{ range (slice 0 "0" 1 "1" 2 "2" 3 "3" 4 "4" 5 "5" 6 "6" 7 "7" 1.5 "1.5" 100 "100" 100.0 "100.0") }}
+        {{ $type = printf "%T" . }}
+        {{ if eq $type "string" }}
+          {{ $index = . }}
+        {{ else if eq $type "int" }}
+          {{ $index = string . }}
+        {{ else if eq $type "float64" }}
+          {{ $index = printf "%.1f" . }}
+        {{ end }}
+        {{ $expected = index $expectedResults $.Language.Lang $index }}
+        {{ $actual = i18n "day" . }}
+        <tr>
+          <td>{{ . }}</td>
+          <td>{{ $type }}</td>
+          <td>{{ $index }}</td>
+          <td>{{ $expected }}</td>
+          <td>{{ $actual }}</td>
+          <td>
+            {{ if eq $expected $actual }}
+              Pass
+            {{ else }}
+              <mark>Fail</mark>
+            {{ end }}
+          </td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+
+  <h2>Thing</h2>
+
+  {{ $expectedResults := site.Data.expected_results_thing }}
+
+  <table>
+    <thead>
+      <tr>
+        <td>Qty</td>
+        <td>Type</td>
+        <td>Index</td>
+        <td>Expected</td>
+        <td>Actual</td>
+        <td>Status</td>
+      </tr>
+    </thead>
+    <tbody>
+      {{ $expected := ""}}
+      {{ $actual := "" }}
+      {{ $index := "" }}
+      {{ $type := "" }}
+      {{ range (slice 0 "0" 1 "1" 2 "2" 3 "3" 4 "4" 5 "5" 6 "6" 7 "7" 1.5 "1.5" 100 "100" 100.0 "100.0") }}
+        {{ $type = printf "%T" . }}
+        {{ if eq $type "string" }}
+          {{ $index = . }}
+        {{ else if eq $type "int" }}
+          {{ $index = string . }}
+        {{ else if eq $type "float64" }}
+          {{ $index = printf "%.1f" . }}
+        {{ end }}
+        {{ $expected = index $expectedResults $.Language.Lang $index }}
+        {{ $actual = i18n "thing" . }}
+        <tr>
+          <td>{{ . }}</td>
+          <td>{{ $type }}</td>
+          <td>{{ $index }}</td>
+          <td>{{ $expected }}</td>
+          <td>{{ $actual }}</td>
+          <td>
+            {{ if eq $expected $actual }}
+              Pass
+            {{ else }}
+              <mark>Fail</mark>
+            {{ end }}
+          </td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+
+  {{ if eq "en" .Language.Lang }}
+    <h2>Cats, Dogs, and Hours</h2>
+
+    {{ $cmds := slice
+      `T "cat" (dict "Count" 1)`
+      `T "cat" (dict "Count" 2)`
+      `T "cat" (dict "Count" "1")`
+      `T "cat" (dict "Count" "2")`
+      `T "cat" (dict "Count" 1 "status" "dead")`
+      `T "cat" (dict "Count" 2 "status" "missing")`
+      `T "cat" (dict "Count" "1" "status" "dead")`
+      `T "cat" (dict "Count" "2" "status" "missing")`
+
+      `T "dog" (dict "count" 1)`
+      `T "dog" (dict "count" 2)`
+      `T "dog" (dict "count" "1")`
+      `T "dog" (dict "count" "2")`
+      `T "dog" (dict "count" 1 "status" "barking")`
+      `T "dog" (dict "count" 2 "status" "sleeping")`
+      `T "dog" (dict "count" "1" "status" "barking")`
+      `T "dog" (dict "count" "2" "status" "sleeping")`
+
+      `T "hour" 1`
+      `T "hour" 1.5`
+      `T "hour" 2`
+      `T "hour" "1"`
+      `T "hour" "1.5"`
+      `T "hour" "2"`
+    }}
+
+    <table>
+      <thead>
+        <tr>
+          <td>Command</td>
+          <td>Result</td>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $cmds }}
+          {{ $r := partial "eval" . }}
+          <tr>
+            <td><pre>{{ . }}</pre></td>
+            <td>{{ $r | safeHTML }}</td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  {{ end }}
+
 {{ end }}

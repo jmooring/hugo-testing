@@ -1,0 +1,15 @@
+[day]
+zero = "ignored (zero)"     # ignored per CLDR plural rules for fr
+one = "jour"
+two = "ignored (two)"       # ignored per CLDR plural rules for fr
+few = "ignored (few)"       # ignored per CLDR plural rules for fr
+many = "ignored (many)"     # ignored per CLDR plural rules for fr
+other = "jours"
+
+[thing]
+zero = "ignored (zero)"     # ignored per CLDR plural rules for fr
+one = "{{ . }} (one)"
+two = "ignored (two)"       # ignored per CLDR plural rules for fr
+few = "ignored (few)"       # ignored per CLDR plural rules for fr
+many = "ignored (many)"     # ignored per CLDR plural rules for fr
+other = "{{ . }} (other)"

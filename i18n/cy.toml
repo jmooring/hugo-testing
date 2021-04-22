@@ -1,0 +1,15 @@
+[day]
+zero = "cathod"
+one = "gath"
+two = "gath"
+few = "cath"
+many = "chath"
+other = "cath"
+
+[thing]
+zero = "{{ . }} (zero)"
+one = "{{ . }} (one)"
+two = "{{ . }} (two)"
+few = "{{ . }} (few)"
+many = "{{ . }} (many)"
+other = "{{ . }} (other)"

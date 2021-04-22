@@ -1,0 +1,67 @@
+{
+  "cy": {
+    "0": "cathod",
+    "1": "gath",
+    "2": "gath",
+    "3": "cath",
+    "4": "cath",
+    "5": "cath",
+    "6": "chath",
+    "7": "cath",
+    "1.5": "cath",
+    "100": "cath",
+    "100.0": "cath"
+  },
+  "en": {
+    "0": "days",
+    "1": "day",
+    "2": "days",
+    "3": "days",
+    "4": "days",
+    "5": "days",
+    "6": "days",
+    "7": "days",
+    "1.5": "days",
+    "100": "days",
+    "100.0": "days"
+  },
+  "fr": {
+    "0": "jour",
+    "1": "jour",
+    "2": "jours",
+    "3": "jours",
+    "4": "jours",
+    "5": "jours",
+    "6": "jours",
+    "7": "jours",
+    "1.5": "jour",
+    "100": "jours",
+    "100.0": "jours"
+  },
+  "lv": {
+    "0": "diennakšu",
+    "1": "diennakts",
+    "2": "diennaktis",
+    "3": "diennaktis",
+    "4": "diennaktis",
+    "5": "diennaktis",
+    "6": "diennaktis",
+    "7": "diennaktis",
+    "1.5": "diennaktis",
+    "100": "diennakšu",
+    "100.0": "diennakšu"
+  },
+  "pl": {
+    "0": "miesięcy",
+    "1": "miesiąc",
+    "2": "miesiące",
+    "3": "miesiące",
+    "4": "miesiące",
+    "5": "miesięcy",
+    "6": "miesięcy",
+    "7": "miesięcy",
+    "1.5": "miesiąca",
+    "100": "miesięcy",
+    "100.0": "miesiąca"
+  }
+}
