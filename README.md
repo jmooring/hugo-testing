@@ -6,10 +6,13 @@ Description: Interactive (timelapse) Plotly graph doesn't 'play' after embedding
 
 ## Instructions
 
-Clone this branch of the repository and build the site.
+Clone this branch of the repository and serve the site.
 
 ```bash
 git clone --single-branch -b hugo-forum-topic-32481 https://github.com/jmooring/hugo-testing hugo-forum-topic-32481
 cd hugo-forum-topic-32481
-hugo server
+npm install
+npx serve
 ```
+
+Then visit <http://localhost:5000>.

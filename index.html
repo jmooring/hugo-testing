@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>Hugo Forum Topic #32481</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+
+<div id="global_map_counts.json" class="plotly" style="height: 450px;"></div>
+<script>
+  Plotly.d3.json('global_map_counts.json', function(err, fig) {
+    Plotly.plot('global_map_counts.json', fig.data, fig.layout, {responsive: true});
+  });
+</script>
+
+</body>
+</html>
