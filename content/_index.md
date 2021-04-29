@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo Forum Topic #32618"
+date = 2021-04-29T10:35:47-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo Forum Topic #32618
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/32618>
 
-Description: @@DESCRIPTION@@
+Description: resources.Get not works in shortcodes with .Get 0
 
 ---
