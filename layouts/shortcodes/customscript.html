@@ -1,0 +1,5 @@
+{{ $js_resource := resources.Get (.Get "src") }}
+{{ $js_answer := $js_resource | minify }}
+
+<p>The minified content of "{{ .Get "src" }}" is...</p>
+<pre>{{ $js_answer.Content}}</pre>
