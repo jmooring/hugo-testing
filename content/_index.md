@@ -1,12 +1,12 @@
 +++
-title = "@@TITLE@@"
-date = @@DATE@@
+title = "Hugo GitHub Issue #6015"
+date = 2021-05-01T08:51:55-07:00
 draft = false
 +++
-# @@TITLE@@
+# Hugo GitHub Issue #6015
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/6015>
 
-Description: @@DESCRIPTION@@
+Description: Unable to detect `nil` explicitly in where func
 
 ---
