@@ -1,0 +1,37 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <p><code>range where .Site.Pages.ByTitle ".Parent" "!=" nil</code></p>
+  <table>
+    <tr>
+      <td><code>.Title</code></td>
+      <td><code>.Parent</code></td>
+      <td><code>eq .Parent nil</code></td>
+    </tr>
+    {{ range where .Site.Pages.ByTitle ".Parent" "!=" nil }}
+    <tr>
+      <td>{{ .Title }}</td>
+      <td>{{ .Parent }}</td>
+      <td>{{eq .Parent nil }}</td>
+    </tr>
+    {{ end }}
+  </table>
+
+  <p><code>range where .Site.Pages.ByTitle ".Parent" "=" nil</code></p>
+  <table>
+    <tr>
+      <td><code>.Title</code></td>
+      <td><code>.Parent</code></td>
+      <td><code>eq .Parent nil</code></td>
+    </tr>
+    {{ range where .Site.Pages.ByTitle ".Parent" "=" nil }}
+    <tr>
+      <td>{{ .Title }}</td>
+      <td>{{ .Parent }}</td>
+      <td>{{ eq .Parent nil }}</td>
+    </tr>
+    {{ end }}
+  </table>
+
+
+{{ end }}

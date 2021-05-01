@@ -1,6 +1,6 @@
 +++
 title = "Hugo GitHub Issue #6015"
-date = 2021-05-01T08:51:55-07:00
+date = 2021-05-01T08:30:44-07:00
 draft = false
 +++
 # Hugo GitHub Issue #6015
