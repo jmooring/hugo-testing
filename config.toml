@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #6226"
+enableGitInfo = true
