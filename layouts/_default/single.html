@@ -1,4 +1,13 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ $r1 := resources.Get "a.jpg" }}
+  <h2>Original ({{ $r1.Width }}x{{ $r1.Height }})</h2>
+  <img src="{{ $r1.Permalink }}" width="$r1.Width" height="$r1.Height">
+
+  {{ $r2 := $r1.Resize "200x" }}
+  <h2>Resized ({{ $r2.Width }}x{{ $r2.Height }})</h2>
+  <img src="{{ $r2.Permalink }}" width="$r2.Width" height="$r2.Height">
+
 {{ end }}
