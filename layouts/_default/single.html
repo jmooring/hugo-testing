@@ -1,4 +1,5 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ partial "test.html" (dict "data" site.Data.foo) }}
   {{ .Content }}
 {{ end }}
