@@ -1,3 +1,43 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #6346"
+
+# Asset mounts.
+
+[[module.mounts]]
+source = "source/a"
+target = "assets/a"       # This works as expected.
+
+[[module.mounts]]
+source = "source/c"
+target = "assets/a/b/c"   # This works as expected,despite the hole (b).
+
+[[module.mounts]]
+source = "source/f"
+target = "assets/d/e/f"   # This works as expected, despite the hole (d/e).
+
+[[module.mounts]]
+source = "source/g"
+target = "assets/h/i/j"   # This works as expected, despite the hole (h/i).
+
+# Static mounts.
+
+[[module.mounts]]
+source = "source/q"
+target = "static/q"       # This works as expected.
+
+[[module.mounts]]
+source = "source/s"
+target = "static/q/r/s"   # This works as expected, despite the hole (r).
+
+[[module.mounts]]
+source = "source/v"
+target = "static/t/u/v"   # This works as expected, despite the hole (t/u).
+
+[[module.mounts]]
+source = "source/w"
+target = "static/x/y/z"   # This works as expected, despite the hole (x/y).
+
+[[module.mounts]]
+source = "source/core/assets/icons"
+target = "static/assets/prefix/icons"   # This works as expected, despite the hole (assets/prefix).

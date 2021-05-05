@@ -1,0 +1,54 @@
+{{ $assets := slice
+  (dict "type" "asset" "source" "a/" "target" "a/")
+  (dict "type" "asset" "source" "c/" "target" "a/b/c/")
+  (dict "type" "asset" "source" "f/" "target" "d/e/f/")
+  (dict "type" "asset" "source" "g/" "target" "h/i/j/")
+}}
+
+{{ $static := slice
+  (dict "type" "static" "source" "q" "target" "q")
+  (dict "type" "static" "source" "s" "target" "q/r/s")
+  (dict "type" "static" "source" "v" "target" "t/u/v")
+  (dict "type" "static" "source" "w" "target" "x/y/z")
+  (dict "type" "static" "source" "core/assets/icons" "target" "assets/prefix/icons")
+}}
+
+
+{{ $testAssetFilename := "test.txt" }}
+{{ $testStaticFilename := "test.png" }}
+
+<table>
+  <thead>
+    <tr>
+      <td>Type</td>
+      <td>Source</td>
+      <td>Target</td>
+      <td>Status</td>
+    </tr>
+  </thead>
+  <tbody>
+
+    {{ range $assets }}
+    <tr>
+      <td>{{ .type }}</td>
+      <td>{{ .source }}</td>
+      <td>{{ .target }}</td>
+      {{ with resources.Get (printf "%s/%s" .target $testAssetFilename ) }}
+        <td>Pass</td>
+      {{ else }}
+        <td>Fail</td>
+      {{ end }}
+    </tr>
+    {{ end }}
+
+    {{ range $static }}
+    <tr>
+      <td>{{ .type }}</td>
+      <td>{{ .source }}</td>
+      <td>{{ .target }}</td>
+      <td><img src="{{ printf `/%s/%s` .target $testStaticFilename }}" width="200" height="40"></td>
+    </tr>
+    {{ end }}
+
+  </tbody>
+</table>
