@@ -1,4 +1,16 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ $alt := "" }}
+  {{ $images := resources.Match "**.jpg" }}
+  {{ range $images }}
+    {{ with .Exif }}
+      {{ with .Tags.ImageDescription }}
+        {{ $alt = . }}
+      {{ end }}
+    {{ end }}
+    <img alt="{{ $alt }}" src="{{ .RelPermalink }}">
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
