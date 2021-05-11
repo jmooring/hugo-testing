@@ -5,3 +5,9 @@ draft = false
 details = "https://discourse.gohugo.io/t/32815"
 description = "Multilingual Tag Links"
 +++
+
+[tags](/tags)
+
+---
+
+This is content/_index.md

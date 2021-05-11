@@ -1,3 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #32815"
+
+defaultContentLanguage = "de"
+
+[languages]
+  [languages.en]
+  [languages.de]
