@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #8530"
+
+[build]
+writeStats = true

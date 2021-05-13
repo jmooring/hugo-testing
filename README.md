@@ -11,5 +11,10 @@ Clone this branch of the repository and build the site.
 ```bash
 git clone --single-branch -b hugo-github-issue-8530 https://github.com/jmooring/hugo-testing hugo-github-issue-8530
 cd hugo-github-issue-8530
-hugo server
+hugo
+cat hugo_stats.json
 ```
+
+The hugo_stats.json file will contain the "pass" class, but the "fail" class will be missing.
+
+See "pass" and "fail" shortcodes.
