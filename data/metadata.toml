@@ -1,0 +1,20 @@
+[sub.c]
+file_mod_date = 2021-05-13T01:49:45-07:00
+git_author_date = 2021-05-13T01:52:29-07:00
+path = "data/sub/c.json"
+
+[b]
+file_mod_date = 2021-05-13T01:49:34-07:00
+git_author_date = 2021-05-13T01:52:29-07:00
+path = "data/b.json"
+
+[a]
+file_mod_date = 2021-05-13T01:49:22-07:00
+git_author_date = 2021-05-13T01:52:29-07:00
+path = "data/a.json"
+
+[metadata]
+file_mod_date = 2021-05-13T01:52:43-07:00
+git_author_date = 2021-05-13T01:52:29-07:00
+path = "data/metadata.toml"
+

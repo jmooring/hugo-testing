@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ site.Data.metadata.a.git_author_date }}<br>
+  {{ site.Data.metadata.b.git_author_date }}<br>
+  {{ site.Data.metadata.sub.c.git_author_date }}<br>
+
   {{ .Content }}
 {{ end }}
