@@ -4,6 +4,25 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+  <style>
+    .gpd-review {
+      margin-bottom: 2em;
+    }
+    .gpd-review-photo {
+      padding-right: .3em;
+      vertical-align: top;
+    }
+    .gpd-review-author,
+    .gpd-review-details {
+      padding-bottom: .3em;
+    }
+    pre > code {
+      line-height: 2;
+    }
+    body {
+      font-family: sans-serif;
+    }
+  </style>
 </head>
 <body>
 {{ block "main" . }}

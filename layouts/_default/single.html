@@ -1,4 +1,50 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ $placeDetails := partial "get-google-place-details.html"
+    (dict
+      "key" "AIzaSyBBW9s8vhqeiAeZ9-EKjHal7dfaKYkaDws"
+      "place_id" "ChIJD1_DM1gRkFQRHfhHjb9HAtE"
+      "fields" "name,reviews"
+    )
+  }}
+
+  {{ with $placeDetails }}
+    <h2>Reviews of {{ .name }}</h2>
+
+    {{ range .reviews }}
+
+      {{ $author_name := .author_name }}
+      {{ $author_url := .author_url }}
+      {{ $profile_photo_url := .profile_photo_url }}
+      {{ $relative_time_description := .relative_time_description }}
+      {{ $stars := strings.Repeat .rating (emojify ":star:") }}
+      {{ $text := replace .text "\n" "<br>" | safeHTML }}
+      {{ $time := .time | int | dateFormat "Jan 2, 2006" }}
+
+      {{/* Modify the photo: strip the badge, set size to 48, circular, white background, WebP format. */}}
+      {{ $profile_photo_url = replaceRE `=.*` `=s48-cc-c0x00ffffff-rw` $profile_photo_url }}
+
+      <table class="gpd-review">
+        <tr>
+          <td class="gpd-review-photo" rowspan="3">
+            {{/* author_url may be undefined. */}}
+            {{ with $author_url }}
+              <a href="{{ . }}"><img src="{{ $profile_photo_url }}" alt="{{ $author_name }}"></a>
+            {{ else }}
+              <img src="{{ $profile_photo_url }}" alt="{{ $author_name }}"></a>
+            {{ end }}
+          </td>
+          <td class="gpd-review-author">{{ $author_name }}</td>
+        </tr>
+        <tr><td class="gpd-review-details">{{ $stars }} {{ $relative_time_description }}</td></tr>
+        <tr><td class="gpd-review-text">{{ $text }}</td></tr>
+      </table>
+
+    {{ end }}
+  {{ end }}
+
+  <hr>
+
   {{ .Content }}
 {{ end }}

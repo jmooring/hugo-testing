@@ -1,0 +1,72 @@
+{{/*
+
+API:      https://developers.google.com/maps/documentation/places/web-service/details
+
+Fields:   https://developers.google.com/maps/documentation/places/web-service/place-data-fields
+Language: https://developers.google.com/maps/faq#languagesupport
+Region:   https://en.wikipedia.org/wiki/Country_code_top-level_domain
+
+Example:
+
+  {{ $placeDetails := partial "get-google-place-details.html"
+    (dict
+      "key" "TG9yZW0gaXBzdWqgZG9sb-GFtZXQsIGNvbnNlY3"
+      "place_id" "Bwb3J2_YSBmZXVnaWF0IHRlbGx1"
+      "fields" "reviews"
+    )
+  }}
+
+Parameters:
+
+  key:      required
+  place_id: required
+  fields:   optional, default "name, formatted_address"
+  language: optional, default "en"
+  region:   optional, default "us"
+
+*/}}
+
+{{ $partial := "get-google-place-details.html" }}
+
+{{ $pre := printf "[partial: %s]" $partial }}
+{{ $msg1 := printf "%s The 'key' parameter is missing, empty, false, or zero." $pre }}
+{{ $msg2 := printf "%s The 'place_id' parameter is missing, empty, false, or zero." $pre }}
+{{ $msg3 := printf "%s API request failed with status code %%s." $pre }}
+{{ $msg4 := printf "%s Unable to determine status of API request." $pre }}
+
+{{ if not .key }}
+  {{ errorf $msg1 }}
+{{ end }}
+
+{{ if not .place_id }}
+  {{ errorf $msg2 }}
+{{ end }}
+
+{{ $api_endpoint := "https://maps.googleapis.com/maps/api/place/details" }}
+{{ $api_output := "json" }}
+
+{{/* Create slice of parameters because querify will not accept a map. */}}
+{{ $api_parameters := slice
+  "key"       .key
+  "place_id"  .place_id
+  "fields"    (default "name,formatted_address" .fields)
+  "language"  (default "en" .language)
+  "region"    (default "us" .region)
+}}
+
+{{ $request := printf "%s/%s?%s" $api_endpoint $api_output (querify $api_parameters) }}
+{{ $json := getJSON $request }}
+
+{{ $result := "" }}
+
+{{ with $json.status }}
+  {{ if eq "OK" . }}
+    {{ $result = $json.result }}
+  {{ else }}
+    {{ errorf $msg3 . }}
+  {{ end }}
+{{ else }}
+  {{ errorf $msg4 }}
+{{ end }}
+
+{{ return $result }}
