@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range .Paginator.Pages }}
+    {{ $img := .Resources.GetMatch "*.jpg" }}
+    {{ $img = $img.Fill "320x180 webp" }}
+    <a href="{{ .RelPermalink }}"><img src="{{ $img.RelPermalink }}" alt="{{ .Title }}"></a>
+  {{ end }}
+
+  {{- if gt .Paginator.TotalPages 1 }}
+    <nav>
+      {{- template "_internal/pagination.html" . -}}
+    </nav>
+  {{ end }}
+
+{{ end }}

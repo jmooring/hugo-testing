@@ -5,3 +5,7 @@ draft = false
 details = "https://discourse.gohugo.io/t/33040"
 description = "How to implement pagination in data pages"
 +++
+
+[Posts](/post) | [Photos](/photo)
+
+---
