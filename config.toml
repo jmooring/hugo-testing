@@ -1,3 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #33052"
+
+[outputs]
+    home = ["HTML", "humanstxt"]
+
+[outputFormats.humanstxt]
+    baseName = "humans"
+    isPlainText = true
+    mediaType = "text/plain"
