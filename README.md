@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-33131 https://github.com/jmooring/
 cd hugo-forum-topic-33131
 hugo server
 ```
+
+Then visit <http://localhost:1313/.well-known/myfile.txt>
