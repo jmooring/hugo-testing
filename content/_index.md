@@ -1,7 +1,7 @@
 +++
-title = "Hugo GitHub Issue #8602"
-date = 2021-06-01T14:37:31-07:00
+title = "Hugo Forum Topic #32745"
+date = 2021-05-27T20:31:12-07:00
 draft = false
-details = "https://github.com/gohugoio/hugo/issues/8602"
-description = "Improve pagination performance"
+details = "https://discourse.gohugo.io/t/32745"
+description = "Slow build"
 +++

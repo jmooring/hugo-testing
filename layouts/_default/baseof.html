@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="Hugo GitHub Issue #8602">
+  {{ $resource := resources.Get "scss/main.scss" }}
+  {{ $cacheBuster := $resource.Content | sha1 | first 7 }}
+  {{ $options := dict "targetPath" (printf "assets/css/style.%s.css" $cacheBuster) }}
+  {{ $css := $resource | toCSS $options | minify }}
+  {{ $temp := $css | fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $temp.Data.Integrity }}">
 </head>
 <body>
 {{ block "main" . }}

@@ -1,3 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #8602"
+disableKinds = ["taxonomy", "term", "sitemap", "RSS"]
+paginate = 10

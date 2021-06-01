@@ -1,0 +1,10 @@
++++
+title = "70 Pages 27"
+date = 2021-06-01T08:45:34-07:00
+draft = false
++++
+A "return horse" is one that will go home at once when set free by the rider, even though the way be through miles of trailless mountains. He is a natural result of the topography of the San Juan Mountains and the geographic conditions therein. Many of the mines in this region are situated a thousand feet or so up the precipitous slopes above the valleys. The railroads, the towns, society, are down in the cañons,--so near and yet so far,--and the only outlet to the big world is through the cañon. Miners are willing to walk down from the boarding-house at the mine; but not many will make the vigorous effort, nor give the three to four hours required, to climb back up the mountain. Perhaps some one wants to go to a camp on the opposite side of the mountain. As there is no tunnel through, he rides a return horse to the summit, turns the horse loose, then walks down the opposite side. The return horse, by coming back undirected, meets a peculiar transportation condition in a satisfactory manner.
+
+The liverymen of Silverton, Ouray, and Telluride keep the San Juan section supplied with these trained ponies. With kind treatment and experience the horses learn to meet emergencies without hesitation. Storm, fallen trees, a landslide, or drifted snow may block the way--they will find a new one and come home.
+
+The local unwritten law is that these horses are let out at the owner's risk. If killed or stolen, as sometimes happens, the owner is the loser. However, there is another unwritten law which places the catching or riding of these horses in the category of horse-stealing,--a serious matter in the West.
