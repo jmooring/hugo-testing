@@ -12,13 +12,13 @@ Clone this branch of the repository and build the site.
 git clone --single-branch -b hugo-github-issue-8602 https://github.com/jmooring/hugo-testing hugo-github-issue-8602
 cd hugo-github-issue-8602
 npm install
-rm -rf public/ resources/ && hugo
+hugo
 npx serve
 ```
 
 Notes:
 
-- We use the [npm serve](https://www.npmjs.com/package/serve) package to serve the published site because `hugo server` can be a bit sluggish with larger sites.
+- We use the [npm serve](https://www.npmjs.com/package/serve) package (`npx serve`) to serve the published site because `hugo server` can be a bit sluggish with larger sites.
 - Running `hugo` while running an IDE with an integrated file watcher can produce misleading performance metrics for larger sites. Close the IDE, then run `hugo` from a native terminal.
 - Finally, also in the interest of obtaining more accurate performance metrics, remove the public and resources directories before each run.
 
@@ -39,7 +39,7 @@ Section Title|Content Pages|Section Pages|Pagers|Aliases
 90 Pages|90|1|8|1
 10,000 Pages|10,000|1|999|1
 
-Visit each section to see an example of the pagination format.
+Visit each section to see an example of the pagination format as it varies with the number of pagers.
 
 ## Expected Counts
 
@@ -70,15 +70,15 @@ The "terse" format:
 To use the "default" format, these are equivalent:
 
    ```go-html-template
-   {{ template "_internal/pagination" . }}
-   {{ template "_internal/pagination" (dict "page" .) }}
-   {{ template "_internal/pagination" (dict "page" . "format" "default") }}
+   {{ template "_internal/pagination.html" . }}
+   {{ template "_internal/pagination.html" (dict "page" .) }}
+   {{ template "_internal/pagination.html" (dict "page" . "format" "default") }}
    ```
 
 To use the "terse" format:
 
    ```go-html-template
-   {{ template "_internal/pagination" (dict "page" . "format" "terse") }}
+   {{ template "_internal/pagination.html" (dict "page" . "format" "terse") }}
    ```
 
 This approach will allow us to add alternate formats in the future without changing the appearance of existing sites.
@@ -93,9 +93,20 @@ While I have applied minimal styling to this test site, the [Pull Request](https
 
 The output is valid HTML5 per <https://validator.w3.org/>.
 
-The [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) scores:
+Scores from [Google Lighthouse](https://developers.google.com/web/tools/lighthouse):
 
 - Performance: 100
 - Accessibility: 100
 - Best Practices: 100
 - SE0: 100
+
+## Performance
+
+Build times are the average of 3 runs.
+
+ID|Pagination Template|Format|Build Time (seconds)
+:--|:--|:--|--:
+1|None|NA|1.8
+2|Old|NA|22.4
+3|New|default|2.1
+4|New|terse|2.1
