@@ -10,7 +10,9 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+  {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+  <h2><a href="/categories/">Categories</a></h2>
+  <h2><a href="/tags/">Tags</a></h2>
 {{ end }}
