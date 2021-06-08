@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #7671"
+[mediaTypes]
+  [mediaTypes."video/ogg"]
+    suffixes = ["ogv","ogg"]

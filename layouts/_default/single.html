@@ -1,4 +1,18 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <h2>Images</h2>
+
+  {{ range .Resources.ByType "image" }}
+    {{ .Name }}<br>
+  {{ end }}
+
+  <h2>Videos</h2>
+
+  {{ range .Resources.ByType "video" }}
+    {{ .Name }}<br>
+  {{ end }}
+
+
 {{ end }}
