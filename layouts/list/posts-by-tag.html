@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $taxonomy := "tags" }}
+  {{ $section := "post" }}
+  {{ range $term, $weightedPages := index site.Taxonomies $taxonomy }}
+    {{ $termPage := site.GetPage (printf "%s/%s" $taxonomy $term) }}
+    <h2>
+      <a href="{{ $termPage.RelPermalink }}">{{ $termPage.LinkTitle }}</a>
+    </h2>
+    <ul>
+      {{ range where $weightedPages "Page.Section" $section }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+{{ end }}
