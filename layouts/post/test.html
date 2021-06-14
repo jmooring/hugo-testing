@@ -1,0 +1,78 @@
+{{ define "main" }}
+
+  <style>
+    figure {
+      margin: 0;
+      display: inline-block;
+    }
+  </style>
+
+  <h1>{{ .Title }}</h1>
+
+  {{ $anchors := slice
+    "Bottom"
+    "BottomLeft"
+    "BottomRight"
+    "Center"
+    "Left"
+    "Right"
+    "Top"
+    "TopLeft"
+    "TopRight"
+    "Smart"
+  }}
+
+  <!-------------------------------------------------------------------------->
+
+  <h2>Original</h2>
+
+  {{ $r := resources.GetMatch "puppy.jpg" }}
+  {{ $caption := printf "Original %dx%d" $r.Width $r.Height }}
+
+  <figure>
+    <img src="{{ $r.RelPermalink }}" width="{{ $r.Width }}" height="{{ $r.Height}}" title="{{ $caption }}">
+    <figcaption>{{ $caption }}</figcaption>
+  </figure>
+
+  <!-------------------------------------------------------------------------->
+
+  {{ $targetSize := "600x600" }}
+  <h2>{{ $targetSize }}</h2>
+
+  {{ range $anchor := $anchors }}
+    {{ $i := $r.Fill (printf "%s %s" $targetSize $anchor) }}
+    {{ $caption := printf "Fill %s %s" $targetSize $anchor }}
+    {{ with and $i.Width $i.Height }}
+      <figure>
+        <img src="{{ $i.RelPermalink }}" width="{{ $i.Width }}" height="{{ $i.Height}}" title="{{ $caption }}">
+        <figcaption>{{ $caption }}</figcaption>
+      </figure>
+    {{ else }}
+      {{ $msg := printf "%s produced a %dx%d image." $caption $i.Width $i.Height }}
+      <p><mark>{{ $msg }}</mark></p>
+      {{ warnf $msg }}
+    {{ end }}
+  {{ end }}
+
+  <!-------------------------------------------------------------------------->
+
+  {{ $targetSize := "600x507" }}
+  <h2>{{ $targetSize }}</h2>
+
+  {{ range $anchor := $anchors }}
+    {{ $i := $r.Fill (printf "%s %s" $targetSize $anchor) }}
+    {{ $caption := printf "Fill %s %s" $targetSize $anchor }}
+    {{ with and $i.Width $i.Height }}
+      <figure>
+        <img src="{{ $i.RelPermalink }}" width="{{ $i.Width }}" height="{{ $i.Height}}" title="{{ $caption }}">
+        <figcaption>{{ $caption }}</figcaption>
+      </figure>
+    {{ else }}
+      {{ $msg := printf "%s produced a %dx%d image." $caption $i.Width $i.Height }}
+      <p><mark>{{ $msg }}</mark></p>
+      {{ warnf $msg }}
+    {{ end }}
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}
