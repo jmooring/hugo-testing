@@ -1,3 +1,23 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #8649"
+
+[menus]
+
+[[menus.main]]
+  name = "a"
+  url = "/a/"
+
+[[menus.main]]
+  name = "b"
+  url = "/b/"
+
+[[menus.main]]
+  name = "a1"
+  url = "/a/1/"
+  parent = "a"
+
+[[menus.main]]
+  name = "a2"
+  url = "/a/2/"
+  parent = "a"

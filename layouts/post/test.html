@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <h2>Items in Main Menu</h2>
+  {{ range site.Menus.main }}
+    name = {{ .Name }}<br>
+    url = {{ .URL }}<br>
+    {{ with .Parent }}
+      parent = {{ . }}<br>
+    {{ end }}
+    hasChildren = {{ .HasChildren }}<br><br>
+    {{ if .HasChildren }}
+      {{ range .Children }}
+        name = {{ .Name }}<br>
+        url = {{ .URL }}<br>
+        {{ with .Parent }}
+          parent = {{ . }}<br>
+        {{ end }}
+        hasChildren = {{ .HasChildren }}<br><br>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}
