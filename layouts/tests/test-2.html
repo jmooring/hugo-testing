@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $dimensions := slice 200 400 600 }}
+  {{ $images := .Resources.Match "images/*.jpg" }}
+
+  {{ range $fillWidth := $dimensions }}
+    {{ range $fillHeight := $dimensions }}
+      {{ range $image := $images }}
+        {{ $filledImage := $image.Fill (printf "%dx%d Smart" $fillWidth $fillHeight) }}
+        {{ with and $filledImage.Width $filledImage.Height }}
+        {{ else }}
+          {{ $msg := `Error while creating Fill.
+            Original dimensions: %dx%d
+            Target dimensions: %dx%d
+            Final dimensions: %dx%d
+          `}}
+          {{ warnf $msg $image.Width $image.Height $fillWidth $fillWidth $filledImage.Width $filledImage.Height }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}
