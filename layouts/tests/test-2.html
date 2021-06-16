@@ -2,7 +2,7 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 
-  {{ $dimensions := slice 200 400 600 }}
+  {{ $dimensions := seq 500 25 600 }}
   {{ $images := .Resources.Match "images/*.jpg" }}
 
   {{ range $fillWidth := $dimensions }}
