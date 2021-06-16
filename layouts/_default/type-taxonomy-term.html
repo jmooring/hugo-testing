@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/* Expected URL path is /type/taxonomy/term/ */}}
+  {{ $pathParts := split (trim ((urls.Parse .Permalink).Path) "/") "/" }}
+  {{ $type := index $pathParts 0 }}
+  {{ $taxonomy := index $pathParts 1 }}
+  {{ $term := index $pathParts 2 }}
+
+  {{ $termPage := site.GetPage (printf "%s/%s" $taxonomy $term) }}
+
+  {{ range where $termPage.Pages "Type" $type }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+
+{{ end }}
