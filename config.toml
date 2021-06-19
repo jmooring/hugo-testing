@@ -1,3 +1,21 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo GitHub Issue #8672"
+
+[languages.en]
+
+[[menus.foo]]
+name = "foo-a"
+url = "/foo-a/"
+
+[[menus.foo]]
+name = "foo-b"
+url = "/foo-b/"
+
+# [[languages.en.menus.foo]]
+# name = "foo-a"
+# url = "/foo-a/"
+
+# [[languages.en.menus.foo]]
+# name = "foo-b"
+# url = "/foo-b/"

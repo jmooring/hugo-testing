@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <p>Expected:</p>
+  <ul>
+    <li><a href="/foo-a/">foo-a</a></li>
+    <li><a href="/foo-b/">foo-b</a></li>
+  </ul>
+
+  <p>Actual:</p>
+  <ul>
+    {{ range site.Menus.foo }}
+      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+
+  {{ .Content }}
+{{ end }}
