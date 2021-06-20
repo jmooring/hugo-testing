@@ -4,6 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+  {{ if or (.HasShortcode "vectorjs") (.HasShortcode "vectorjs2") }}
+    <link rel="stylesheet" href="https://vectorjs.org/library.css">
+  {{ end }}
 </head>
 <body>
 {{ block "main" . }}

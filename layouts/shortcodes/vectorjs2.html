@@ -1,0 +1,66 @@
+{{ $type := "" }}
+{{- $args := "" }}
+{{- $id := printf "vig-%02d" .Ordinal }}
+{{- $border := true }}
+{{- $width := "600" }}
+{{- $height := "300" }}
+{{- $fill := "white" }}
+{{- $stroke := "black" }}
+{{- $strokeWidth := "1px" }}
+
+{{- with .Get "id" -}}
+  {{ $id = . }}
+{{- end }}
+
+{{- with .Get "type" -}}
+  {{ $type = . | safeJS }}
+{{- else }}
+  {{ errorf "The %s shortcode requires the 'type' parameter. See %s" .Name .Position }}
+{{- end }}
+
+{{- with .Get "args" -}}
+  {{ $args = . | safeJS }}
+{{- else }}
+  {{ errorf "The %s shortcode requires the 'args' parameter. See %s" .Name .Position }}
+{{- end }}
+
+{{- if isset .Params "border" }}
+  {{- with .Get "border" -}}
+    {{ $border = true }}
+  {{- else }}
+    {{ $border = false }}
+  {{- end }}
+{{- end }}
+
+{{- with .Get "width" -}}
+  {{ $width = . }}
+{{- end }}
+
+{{- with .Get "height" -}}
+  {{ $height = . }}
+{{- end }}
+
+{{- with .Get "fill" -}}
+  {{ $fill = . }}
+{{- end }}
+
+{{- with .Get "stroke" -}}
+  {{ $stroke = . }}
+{{- end }}
+
+{{- with .Get "strokeWidth" -}}
+  {{ $strokeWidth = . }}
+{{- end -}}
+
+<div id="{{ $id }}"></div>
+<script type="module">
+  import Interactive from "https://vectorjs.org/interactive.js";
+  let interactive = new Interactive("{{ $id }}");
+  interactive.border = {{ $border }};
+  interactive.width = {{ $width }};
+  interactive.height = {{ $height }};
+  let {{ $type }} = interactive.{{ $type }}({{ $args }});
+  {{ $type }}.style.fill = {{ $fill }};
+  {{ $type }}.style.stroke = {{ $stroke }};
+  {{ $type }}.style.strokeWidth = {{ $strokeWidth }};
+</script>
