@@ -1,3 +1,21 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #33481"
+
+disableKinds = ["home","section","taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["foo","bar"]
+
+[outputFormats]
+  [outputFormats.a]
+    mediaType = "text/plain"
+    isPlainText = true
+  [outputFormats.b]
+    mediaType = "text/plain"
+    isPlainText = true
+
+[outputs]
+  page = ["a","b"]
