@@ -1,0 +1,40 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <h2>Expected Results</h2>
+  <pre><code>
+{
+  "ConfiguredURL": "/ten",
+  "Page": null,
+  "Name": "Ten",
+  "Menu": "main",
+  "Identifier": "",
+  "Pre": "",
+  "Post": "",
+  "Weight": 10,
+  "Parent": "",
+  "Children": null,
+  "Params": null
+}
+
+{
+  "ConfiguredURL": "/eleven",
+  "Page": null,
+  "Name": "Eleven",
+  "Menu": "main",
+  "Identifier": "",
+  "Pre": "",
+  "Post": "",
+  "Weight": 11,
+  "Parent": "",
+  "Children": null,
+  "Params": null
+}
+  </code></pre>
+
+  <h2>Actual Results</h2>
+
+  <pre>{{ jsonify (dict "indent" "  ") (index .Site.Menus.main 9) }}</pre>
+  <pre>{{ jsonify (dict "indent" "  ") (index .Site.Menus.main 10) }}</pre>
+
+{{ end }}

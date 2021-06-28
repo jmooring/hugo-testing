@@ -1,0 +1,38 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: '@@TITLE@@'
+menu:
+  main:
+    - name: One
+      url: /one
+      weight: 1
+    - name: Two
+      url: /two
+      weight: 2
+    - name: Three
+      url: /three
+      weight: 3
+    - name: Four
+      url: /four
+      weight: 4
+    - name: Five
+      url: /five
+      weight: 5
+    - name: Six
+      url: /six
+      weight: 6
+    - name: Seven
+      url: /seven
+      weight: 7
+    - name: Eight
+      url: /eight
+      weight: 8
+    - name: Nine
+      url: /nine
+      weight: 9
+    - name: Ten
+      url: /ten
+      weight: 10
+    - name: Eleven
+      url: /eleven
+      weight: 11
