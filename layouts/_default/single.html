@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+{{ $messageslug := "%s: %s (%s)" }}
+{{ $config := dict "hookLink" "foo" }}
+{{ printf $messageslug "opensearch" (i18n "dnb-opensearch-error-url") $config.hookLink }}
+
   {{ .Content }}
 {{ end }}
