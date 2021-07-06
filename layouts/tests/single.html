@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>File</th>
+        <th>Original</th>
+        <th>Converted to PNG</th>
+        <th>Converted to WebP</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ $images := .Resources.ByType "image" }}
+      {{ range (sort $images "Name" "desc") }}
+        <tr>
+          <td>{{ .Name }}</td>
+          <td>
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+          </td>
+
+          <td>
+            {{ $i := .Resize (printf "%dx png" .Width) }}
+            <img src="{{ $i.RelPermalink }}" width="{{ $i.Width }}" height="{{ $i.Height }}">
+          </td>
+          <td>
+            {{ $i := .Resize (printf "%dx webp" .Width) }}
+            <img src="{{ $i.RelPermalink }}" width="{{ $i.Width }}" height="{{ $i.Height }}">
+          </td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+
+{{ end }}
