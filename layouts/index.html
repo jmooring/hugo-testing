@@ -10,7 +10,7 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ range where .Site.RegularPages "Section" "products"}}
+    {{ partial "product.html" . }}
   {{ end }}
 {{ end }}
