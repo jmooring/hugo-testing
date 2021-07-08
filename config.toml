@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #33732"
+theme = "ananke"
