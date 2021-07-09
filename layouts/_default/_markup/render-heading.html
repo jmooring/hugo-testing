@@ -1,0 +1,3 @@
+{{ printf "<!-- end-chunk -->" | safeHTML }}
+{{ printf "<!-- begin-chunk data-anchor=%q data-heading=%q data-level=%q data-permalink=%q data-title=%q -->" .Anchor .Text (string .Level) .Page.Permalink .Page.Title | safeHTML }}
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}</h{{ .Level }}>

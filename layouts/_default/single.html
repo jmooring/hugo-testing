@@ -1,4 +1,32 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+{{ $chunks := slice }}
+
+{{ range (findRE `(?s)<!-- begin-chunk.+?(?:<!-- end-chunk -->|$)` .Content) }}
+  {{ $anchor := replaceRE `(?s).+data-anchor="(.+?)".+` "$1" . }}
+  {{ $heading := replaceRE `(?s).+data-heading="(.+?)".+` "$1" . }}
+  {{ $level := replaceRE `(?s).+data-level="(.+?)".+` "$1" . }}
+  {{ $permalink := replaceRE `(?s).+data-permalink="(.+?)".+` "$1" . }}
+  {{ $title := replaceRE `(?s).+data-title="(.+?)".+` "$1" . }}
+
+  {{/* Result includes heading. */}}
+  {{ $content := replaceRE `(?s)<!-- begin-chunk.+?-->(.+?)(?:<!-- end-chunk -->|$)` "$1" . }}
+  {{/* Remove heading. */}}
+  {{ $content = replaceRE `(?s)<h\d.*?>.*</h\d>(.+)` "$1" $content }}
+  {{/* Remove leading and trailing newlines. */}}
+  {{ $content = trim $content "\n" }}
+
+  {{ $chunks = $chunks | append (dict
+      "anchor" $anchor
+      "content" $content
+      "heading" $heading
+      "level" (int $level)
+      "permalink" $permalink
+      "title" $title
+    )
+  }}
+{{ end }}
+
+<pre>{{ jsonify (dict "indent" "  ") $chunks }}</pre>
+
 {{ end }}
