@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Params.system_users }}
+  <p>Users:</p>
+  <ul>
+    {{ range . }}
+      {{ $p := site.GetPage (print "departments/" .) }}
+      <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  {{ with .Params.system_data_controllers }}
+  <p>Data Controllers:</p>
+  <ul>
+    {{ range . }}
+      {{ $p := site.GetPage (print "departments/" .) }}
+      <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}
