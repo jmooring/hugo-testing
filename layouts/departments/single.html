@@ -1,27 +1,19 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ .Content }}
 
   {{ $systems := where site.RegularPages.ByTitle "Type" "systems" }}
-
-  {{ $pages := where $systems "Params.system_users" "intersect" (slice .File.BaseFileName) }}
-  {{ with $pages }}
-    <p>Systems used by this department:</p>
-    <ul>
-    {{ range . }}
-      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  {{ range $role, $v := site.Params.departments.systems.roles }}
+    {{ $label := .label_for_department_pages }}
+    {{ $pages := where $systems (print "Params.departments." $role) "intersect" (slice $.File.BaseFileName) }}
+    {{ with $pages }}
+      <p>{{ $label }}</p>
+      <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+      </ul>
     {{ end }}
-    </ul>
   {{ end }}
 
-  {{ $pages := where $systems "Params.system_data_controllers" "intersect" (slice .File.BaseFileName) }}
-  {{ with $pages }}
-    <p>Systems where the data is controlled by this department:</p>
-    <ul>
-    {{ range . }}
-      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-    {{ end }}
-    </ul>
-  {{ end }}
-
-  {{ .Content }}
 {{ end }}

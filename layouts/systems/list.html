@@ -1,28 +1,23 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages.ByTitle }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 
-    {{ with .Params.system_users }}
-    <p>Users:</p>
-    <ul>
-      {{ range . }}
-        {{ $p := site.GetPage (print "departments/" .) }}
-        <li><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></li>
+  {{ range $page := .Pages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ $page.Title }}</a></h2>
+    {{ range $role, $v := site.Params.departments.systems.roles }}
+      {{ $label := .label_for_system_pages }}
+      {{ with $page.Params.departments }}
+        {{ with index . $role }}
+          <p>{{ $label }}</p>
+          <ul>
+            {{ range . }}
+              {{ $p := site.GetPage (print "departments/" .) }}
+              <li><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></li>
+            {{ end }}
+          </ul>
+        {{ end }}
       {{ end }}
-    </ul>
     {{ end }}
-
-    {{ with .Params.system_data_controllers }}
-    <p>Data Controllers:</p>
-    <ul>
-      {{ range . }}
-        {{ $p := site.GetPage (print "departments/" .) }}
-        <li><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></li>
-      {{ end }}
-    </ul>
-    {{ end }}
-
   {{ end }}
+
 {{ end }}

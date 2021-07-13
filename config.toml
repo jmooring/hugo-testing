@@ -1,3 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #33768"
+
+[params.departments.systems.roles.data_controllers]
+  label_for_system_pages = "Data controllers"
+  label_for_department_pages = "Systems where the data is controlled by this department"
+[params.departments.systems.roles.users]
+  label_for_system_pages = "Users"
+  label_for_department_pages = "Systems used by this department"
