@@ -1,4 +1,16 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ $images := resources.Match "*.jpg" }}
+
+  {{ range $images -}}
+    <h2>{{ .Name }}</h2>
+    {{ with .Exif }}
+      {{ range $k, $v := .Tags }}
+        {{ $k }}: {{ $v }}<br>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}
