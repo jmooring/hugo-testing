@@ -1,7 +1,7 @@
 +++
-title = "@@TITLE@@"
-date = 2021-01-01T00:00:00-00:00
+title = "Hugo Forum Topic #33995"
+date = 2021-07-26T09:05:19-07:00
 draft = false
-details = "@@URL@@"
-description = "@@DESCRIPTION@@"
+details = "https://discourse.gohugo.io/t/33995"
+description = "Localization of date and time"
 +++
