@@ -1,0 +1,67 @@
+{{ $ns := "functions" }}
+{{ $partial := "localize-date.html" }}
+
+{{ $pre := printf "[partial: %s/%s]" $ns $partial }}
+
+{{ $msg1 := printf "%s Invalid date." $pre }}
+{{ $msg2 := printf "%s Missing date." $pre }}
+{{ $msg3 := printf "%s Invalid format." $pre }}
+{{ $msg4 := printf "%s Missing format." $pre }}
+
+{{ $date := "" }}
+{{ with .date }}
+  {{ if eq (printf "%T" .) "time.Time" }}
+    {{ $date = . }}
+  {{ else }}
+    {{ errorf $msg1 }}
+  {{ end }}
+{{ else }}
+  {{ errorf $msg2 }}
+{{ end }}
+
+{{ $format := "" }}
+{{ with .format }}
+  {{ if eq (printf "%T" .) "string" }}
+    {{ $format = . }}
+  {{ else }}
+    {{ errorf $msg3 }}
+  {{ end }}
+{{ else }}
+  {{ errorf $msg4 }}
+{{ end }}
+
+{{ $monthFormat := "" }}
+{{ if in $format "January" }}
+  {{ $monthFormat = "long" }}
+{{ else if in $format "Jan" }}
+  {{ $monthFormat = "short" }}
+{{ end }}
+
+{{ $weekdayFormat := "" }}
+{{ if in $format "Monday" }}
+  {{ $weekdayFormat = "long" }}
+{{ else if in $format "Mon" }}
+  {{ $weekdayFormat = "short" }}
+{{ end }}
+
+{{ $dateFormatted := $date.Format $format }}
+
+{{ with $monthFormat }}
+  {{ $monthT := i18n (printf "date.month.%s.%d" $monthFormat $date.Month) }}
+  {{ if eq . "long" }}
+    {{ $dateFormatted = replaceRE `January|February|March|April|May|June|July|August|September|October|November|December` $monthT $dateFormatted }}
+  {{ else }}
+    {{ $dateFormatted = replaceRE `Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec` $monthT $dateFormatted }}
+  {{ end }}
+{{ end }}
+
+{{ with $weekdayFormat }}
+  {{ $weekdayT := i18n (printf "date.weekday.%s.%d" $weekdayFormat $date.Weekday) }}
+  {{ if eq . "long" }}
+    {{ $dateFormatted = replaceRE `Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday` $weekdayT $dateFormatted }}
+  {{ else }}
+    {{ $dateFormatted = replaceRE `Mon|Tue|Wed|Thu|Fri|Sat|Sun` $weekdayT $dateFormatted }}
+  {{ end }}
+{{ end }}
+
+{{ return $dateFormatted }}

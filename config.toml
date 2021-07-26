@@ -1,3 +1,30 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #33995"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+  weight = 1
+  [languages.en.params.formats.date]
+    long = "Monday, January 2, 2006"
+    short = "1/2/06"
+  [languages.en.params.formats.time]
+    long = "3:04:05 PM"
+    short = "3:04 PM"
+  [languages.en.params.formats.datetime]
+    long = "Monday, January 2, 2006 3:04:05 PM"
+    short = "1/2/06 3:04 PM"
+
+[languages.es]
+  weight = 2
+  [languages.es.params.formats.date]
+    long = "el Monday 2 de January de 2006"
+    short = "2/1/06"
+    [languages.es.params.formats.time]
+    long = "3:04:05 PM"
+    short = "3:04 PM"
+    [languages.es.params.formats.datetime]
+    long = "el Monday 2 de January de 2006 3:04:05 PM"
+    short = "2/1/06 3:04 PM"

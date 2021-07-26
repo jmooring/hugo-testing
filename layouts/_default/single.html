@@ -1,4 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <div>
+    {{ partial "functions/localize-date" (dict "date" .Date "format" site.Params.formats.datetime.long) }}
+  </div>
   {{ .Content }}
 {{ end }}
