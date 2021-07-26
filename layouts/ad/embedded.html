@@ -1,0 +1,24 @@
+<div class="ad">
+
+  {{ with .Title }}
+    <div class="ad-title">{{ . }}</div>
+  {{ end }}
+
+  {{ with $img := index (.Resources.ByType "image") 0 }}
+    {{ $img = $img.Fill "400x250" }}
+    <div class="ad-image-container">
+      <img class="ad-image" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" width="{{ $img.Height }}">
+    </div>
+  {{ end }}
+
+  {{ with .Content }}
+    <div class="ad-content">{{ . }}</div>
+  {{ end }}
+
+  {{ with .Params.call_to_action }}
+    <div class="ad-call-to-action">
+      <a href="{{ $.Params.call_to_action_url }}">{{ . }}</a>
+    </div>
+  {{ end }}
+
+</div>

@@ -1,3 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #33987"
+
+[[cascade]]
+  [cascade._build]
+    render = "never"
+    list = "never"
+  [cascade._target]
+    path = "/ad/**"
