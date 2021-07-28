@@ -10,8 +10,26 @@
 
 {{ end }}
 
+{{ $level := 0 }} {{/* Root of content directory. */}}
 {{ with .Parent }}
-  <p>Up One Level: <a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+  {{ $level = 1 }}
+  {{ with .Parent }}
+    {{ $level = 2 }}
+    {{ with .Parent }}
+      {{ $level = 3 }}
+      {{ with .Parent }}
+        {{ $level = 4 }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with .Parent }}
+  {{ if eq $level 4 }}
+    <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
+  {{ else }}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{ end }}
 {{ end }}
 
 </body>
