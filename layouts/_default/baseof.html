@@ -9,5 +9,10 @@
 {{ block "main" . }}
 
 {{ end }}
+
+{{ with .Parent }}
+  <p>Up One Level: <a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+{{ end }}
+
 </body>
 </html>
