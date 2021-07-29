@@ -1,0 +1,17 @@
+{{ $path := "" }}
+{{ $level := 2 }} {{/* Default */}}
+
+{{ if .IsNamedParams }}
+  {{ $path = print "snippets/" (.Get "file") }}
+  {{ $level = .Get "level" }}
+{{ else }}
+  {{ $path = print "snippets/" (.Get 0) }}
+  {{ $level = .Get 1 }}
+{{ end }}
+
+{{ with site.GetPage $path }}
+  {{ strings.Repeat $level "#" }} {{ .Params.heading }}
+  {{ .Content }}
+{{ else }}
+  {{ errorf "The %s shortcode could not find %s. See %s" .Name $path .Position }}
+{{ end }}
