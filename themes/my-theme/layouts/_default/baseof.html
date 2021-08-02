@@ -6,6 +6,11 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+{{ warnf "Rendering themes/my-theme/layouts/_default/baseof.html" }}
+[This is themes/my-theme/layouts/_default/baseof.html]<br>
+
+{{ partial "head.html" . }}
+
 {{ block "main" . }}
 
 {{ end }}

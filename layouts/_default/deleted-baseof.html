@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+</head>
+<body>
+{{ warnf "Rendering layouts/_default/baseof.html" }}
+[This is layouts/_default/baseof.html]<br>
+
+{{ partial "head.html" . }}
+
+{{ block "main" . }}
+
+{{ end }}
+</body>
+</html>
