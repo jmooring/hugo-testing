@@ -13,3 +13,11 @@ git clone --single-branch -b hugo-github-issue-8863 https://github.com/jmooring/
 cd hugo-github-issue-8863
 hugo server
 ```
+
+Visit `http://localhost:1313/post/test/`
+
+Then, in a separate terminal:
+
+```bash
+echo "xxx" >> layouts/partials/foo.html
+```
