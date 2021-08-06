@@ -1,4 +1,21 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <div id="content" data-md5-digest="{{ trim .Content "\n" | md5 }}">
   {{ .Content }}
+  </div>
+
+  <script src="https://www.myersdaily.org/joseph/javascript/md5.js"></script>
+  <script>
+    const el = document.getElementById("content");
+    const content = el.innerHTML.trim();
+    const digestOriginal = el.getAttribute("data-md5-digest");
+    const digestCalculated = md5(content);
+    if (digestCalculated !== digestOriginal) {
+      console.log('digestOriginal = ' + digestOriginal);
+      console.log('digestCalculated = ' + digestCalculated);
+      alert('Danger! Calcuated digest does not match original digest.');
+    }
+  </script>
+
 {{ end }}
