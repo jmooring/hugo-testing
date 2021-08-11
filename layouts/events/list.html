@@ -1,0 +1,39 @@
+{{ define "main" }}[This is layouts/events/list.html]
+
+{{/*
+Render only events which:
+
+- end date is given (= not unset, "ne" "nil"), and this end date is later than
+  the limit;
+- OR end date is not given (= is unset, "eq" "nil"), and then the start date is
+  later than the limit.
+
+Other events, even if published, are considered as over, and will not be
+displayed in the list anymore.
+*/}}
+
+  <h1>{{ .Title }}</h1>
+
+  {{ $limit_date := time "2021-08-10T13:27:00-07:00" }}
+
+  {{ range .Pages }}
+
+    {{ $render := false }}
+
+    {{ with .Params.date_end }}
+      {{ if (time .).After $limit_date }}
+        {{ $render = true }}
+      {{ end }}
+    {{ else }}
+      {{ if .Date.After $limit_date }}
+        {{ $render = true }}
+      {{ end }}
+    {{ end }}
+
+    {{ if $render }}
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ end }}
+
+  {{ end }}
+
+{{ end }}
