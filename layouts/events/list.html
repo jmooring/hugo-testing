@@ -16,24 +16,12 @@ displayed in the list anymore.
 
   {{ $limit_date := time "2021-08-10T13:27:00-07:00" }}
 
-  {{ range .Pages }}
-
-    {{ $render := false }}
-
-    {{ with .Params.date_end }}
+  {{ range $p := .Pages }}
+    {{ with or .Params.date_end .Date }}
       {{ if (time .).After $limit_date }}
-        {{ $render = true }}
-      {{ end }}
-    {{ else }}
-      {{ if .Date.After $limit_date }}
-        {{ $render = true }}
+        <h2><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
       {{ end }}
     {{ end }}
-
-    {{ if $render }}
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    {{ end }}
-
   {{ end }}
 
 {{ end }}
