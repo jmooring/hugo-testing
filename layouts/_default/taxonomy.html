@@ -1,0 +1,32 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/* Get current taxonomy (example: tags, categories). */}}
+  {{ $taxonomy := .Data.Plural }}
+
+  {{/* Get sections where one or more pages has one or more terms in the current taxonomy. */}}
+  {{ $sections := slice }}
+  {{ range $term, $weightedPages := index site.Taxonomies $taxonomy }}
+    {{ range $weightedPages }}
+      {{ $sections = $sections | append .CurrentSection | uniq | sort }}
+    {{ end }}
+  {{ end }}
+
+  {{/* List pages by term by section. */}}
+  {{ range $section := $sections }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ range $term, $weightedPages := index site.Taxonomies $taxonomy }}
+      {{ $termPage := site.GetPage path.Join $taxonomy $term }}
+      {{ with where $weightedPages "Section" $section.Path }}
+        <h3><a href="{{ $termPage.RelPermalink }}">{{ $termPage.LinkTitle }}</a></h3>
+        <ul>
+          {{ range . }}
+            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+          {{end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ end }}
