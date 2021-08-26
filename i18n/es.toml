@@ -1,0 +1,13 @@
+# Taxonomies
+colors = 'colores'
+sizes = 'tallas'
+
+# Terms (colors)
+blue = 'azul'
+green = 'verde'
+red = 'roja'
+
+# Terms (sizes)
+large = 'grandes'
+medium = 'mediano'
+small = 'pequeño'

@@ -1,0 +1,13 @@
+# Taxonomies
+colors = 'colors'
+sizes = 'sizes'
+
+# Terms (colors)
+blue = 'blue'
+green = 'green'
+red = 'red'
+
+# Terms (sizes)
+large = 'large'
+medium = 'medium'
+small = 'small'

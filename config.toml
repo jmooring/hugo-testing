@@ -1,3 +1,18 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
 title = "Hugo Forum Topic #34455"
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[taxonomies]
+  color = 'colors'
+  size = 'sizes'
+
+[languages.en]
+  contentDir = 'content/en'
+  languageName = 'English'
+  weight = 1
+[languages.es]
+  contentDir = 'content/es'
+  languageName = 'Español'
+  weight = 1

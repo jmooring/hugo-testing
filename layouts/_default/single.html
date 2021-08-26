@@ -1,4 +1,16 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ range $taxonomy, $_ := site.Taxonomies }}
+    {{ with $.GetTerms $taxonomy }}
+      <p>
+        {{ T $taxonomy | title }}:
+        {{ range . }}
+          <a href="{{ .Permalink }}">{{ .LinkTitle | lower | T }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
+  {{ end }}
+
   {{ .Content }}
 {{ end }}

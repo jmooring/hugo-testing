@@ -5,10 +5,20 @@
   {{ end }}
   {{ with .Params.description }}
     <p>Description: {{ . }}</p>
+    <p>This test site is localized to English and Spanish. The taxonomies and
+      terms are in English, and are translated for display. Note that the URLs
+      for taxonomy and term pages are also in English.</p>
   {{ end }}
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  {{ range $.Site.Home.AllTranslations }}
+    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+  {{ end }}
+  <hr>
+
+
   {{ .Content }}
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
