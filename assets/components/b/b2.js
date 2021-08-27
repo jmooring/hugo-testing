@@ -1,0 +1,1 @@
+const b2 = 'This is b2';

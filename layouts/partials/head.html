@@ -1,0 +1,7 @@
+{{ $components := slice }}
+{{ range resources.Match "components/*/*.js" }}
+  {{ $c := . | resources.ExecuteAsTemplate "temp.js" . }}
+  {{ $components = $components | append $c }}
+{{ end }}
+{{ $script := $components | resources.Concat "components.js" | minify }}
+<script src="{{ $script.RelPermalink }}"></script>
