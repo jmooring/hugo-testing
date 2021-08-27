@@ -1,7 +1,7 @@
 +++
-title = "@@TITLE@@"
-date = 2021-01-01T00:00:00-00:00
+title = "Hugo Forum Topic #34445"
+date = 2021-08-26T17:10:57-07:00
 draft = false
-details = "@@URL@@"
-description = "@@DESCRIPTION@@"
+details = "https://discourse.gohugo.io/t/34445"
+description = "Get relative resource from inside a resource"
 +++
