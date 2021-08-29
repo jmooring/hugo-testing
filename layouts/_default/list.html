@@ -1,7 +1,14 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
+
+  {{ range (.Paginate .Pages.ByTitle).Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ range (site.GetPage .Path).Pages.ByTitle }}
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ end }}
   {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
+
 {{ end }}

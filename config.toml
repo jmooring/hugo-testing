@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #34487"
+
+pluralizeListTitles = false
+paginate = 2
