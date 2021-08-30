@@ -1,0 +1,12 @@
+{{ define "main" }}[This is layouts/_default/term-custom.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $parts := split (trim .RelPermalink "/") "/" }}
+  {{ $taxonomy := index $parts (sub (len $parts) 2) }}
+  {{ $term := index $parts (sub (len $parts) 1) }}
+  {{ range where .Parent.Parent.RegularPages (printf "Params.%s" $taxonomy) "intersect" (slice $term)   }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+
+{{ end }}

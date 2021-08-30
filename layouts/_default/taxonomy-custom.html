@@ -1,0 +1,23 @@
+{{ define "main" }}[This is layouts/_default/taxonomy-custom.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $parts := split (trim .RelPermalink "/") "/" }}
+  {{ $taxonomy := index $parts (sub (len $parts) 1) }}
+
+  {{ range $term, $weightedPages := where (index site.Taxonomies $taxonomy) "Page.Section" .Section }}
+    {{ $termPage := site.GetPage (path.Join $.Section $taxonomy $term) }}
+    <h2><a href="{{ $termPage.RelPermalink }}">{{ $termPage.Title }}</a></h2>
+
+    {{/* Uncomment if you wish to display pages within each term. */}}
+    {{/*
+    <ul>
+      {{ range where $weightedPages "Page.Section" $.Section }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+    */}}
+
+  {{ end }}
+
+{{ end }}
