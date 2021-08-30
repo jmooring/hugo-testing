@@ -1,3 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Forum Topic #18423"
+
+[taxonomies]
+'notes/category' = 'notes/categories'
+'articles/category' = 'articles/categories'

@@ -5,3 +5,10 @@ draft = false
 details = "https://discourse.gohugo.io/t/18423"
 description = "Taxonomies per section"
 +++
+
+[notes](/notes/) |
+[notes/categories](/notes/categories/) |
+[articles](/articles/) |
+[articles/categories](/articles/categories/)
+
+---
