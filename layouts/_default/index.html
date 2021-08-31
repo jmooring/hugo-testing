@@ -10,7 +10,16 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  <h2>Skills</h2>
+  {{ range where .Site.RegularPages "Type" "skills" }}
+    {{ .Render "summary" }}
   {{ end }}
+
+  <h2>Projects</h2>
+  {{ range where .Site.RegularPages "Type" "projects" }}
+    {{ .Render "summary" }}
+  {{ end }}
+
+
 {{ end }}

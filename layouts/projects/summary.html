@@ -1,0 +1,10 @@
+<article class="project">
+  <h3>{{ .Title }}</h3>
+  <p>Foo: {{ .Params.foo }}</p>
+  {{ with .Resources.GetMatch "*.jpg" }}
+    {{ with .Resize "300x webp"}}
+      <img src="{{ .RelPermalink }}" width="{{ .Width}}" height="{{ .Height }}">
+    {{ end }}
+  {{ end }}
+  {{ .Content }}
+</article>
