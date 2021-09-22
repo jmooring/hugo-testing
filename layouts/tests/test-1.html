@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+{{ $countries := slice
+  "United States"
+  "Brazil"
+  "Georgia"
+  "Ghana"
+  "China"
+  "Australia"
+  "Canada"
+}}
+
+<h2>Before</h2>
+{{ range $countries }}
+  {{ . }}<br>
+{{ end }}
+
+
+{{ $item := "Ghana" }}
+
+{{/* Remove item from slice. */}}
+{{ $matchingIndices := partial "functions/find-in-slice.html" (dict "slice" $countries "item" $item) }}
+{{ range $matchingIndices }}
+  {{ $countries = partial "functions/modify-slice.html" (dict "slice" $countries "action" "delete" "index" .) }}
+{{ end }}
+
+{{/* Insert item at beginning of slice (index 0). */}}
+{{ $countries = partial "functions/modify-slice.html" (dict "slice" $countries "action" "insert" "index" 0 "item" $item) }}
+
+<h2>After</h2>
+{{ range $countries }}
+  {{ . }}<br>
+{{ end }}
+
+{{ end }}

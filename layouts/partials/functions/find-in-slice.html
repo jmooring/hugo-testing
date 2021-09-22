@@ -1,0 +1,42 @@
+{{/*
+
+Usage:
+
+  {{ partial "functions/find-in-slice.html" (dict "slice" $s "item" $a) }}
+
+  Returns a slice of integers, each representing the zero-based index of the
+  matching items in the slice. If there are no matches, returns an empty slice.
+
+Notes:
+
+  If you do not provide an item to search for, an empty slice is returned.
+
+*/}}
+
+{{ $ns := "functions" }}
+{{ $partial := "find-in-slice.html" }}
+
+{{ $pre := printf "[partial: %s/%s]" $ns $partial }}
+{{ $msg1 := printf "%s The 'slice' argument is missing or it is an empty slice." $pre }}
+{{ $msg2 := printf "%s The 'slice' argument is not a slice." $pre }}
+
+{{ $slice := .slice }}
+{{ $item := .item }}
+
+{{ $newSlice := slice }}
+
+{{ if $slice }}
+  {{ if reflect.IsSlice $slice }}
+    {{ range $k, $v := $slice }}
+      {{ if eq $v $item }}
+        {{ $newSlice = $newSlice | append $k }}
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ errorf $msg2 }}
+  {{ end }}
+{{ else }}
+  {{ errorf $msg1 }}
+{{ end }}
+
+{{ return $newSlice}}

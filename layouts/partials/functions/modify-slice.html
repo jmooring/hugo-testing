@@ -1,0 +1,147 @@
+{{/*
+
+Usage:
+
+  {{ partial "functions/modify-slice.html" (dict "slice" $s "action" "delete" "index" 2) }}
+  {{ partial "functions/modify-slice.html" (dict "slice" $s "action" "insert" "index" 2 "item" $a) }}
+  {{ partial "functions/modify-slice.html" (dict "slice" $s "action" "replace" "index" 2 "item" $a) }}
+
+  delete 0  --> deletes the first item
+  delete 1  --> deletes the second item
+  delete -2 --> deletes the second to last item
+  delete -1 --> deletes the last item
+
+  insert 0  --> inserts new element before the first item
+  insert 1  --> inserts new element before the second item
+  insert 2  --> inserts new element before the third item
+  insert -2 --> inserts new element before the last item
+  insert -1 --> inserts new element after the last item
+
+  replace 0  --> replaces the first item
+  replace 1  --> replaces the second item
+  replace -2 --> replaces the second to last item
+  replace -1 --> replaces the last item
+
+Notes:
+
+  If you insert without providing an item to insert, the slice will remain
+  unchanged.
+
+  If you replace without providing a replacement item, the item will be
+  deleted.
+
+*/}}
+
+{{ $ns := "functions" }}
+{{ $partial := "modify-slice.html" }}
+
+{{ $pre := printf "[partial: %s/%s]" $ns $partial }}
+{{ $msg6 := printf "%s The 'index' argument is out of range." $pre }}
+{{ $msg5 := printf "%s The 'index' argument is either missing or it is not an integer." $pre }}
+{{ $msg4 := printf "%s The 'action' argument must be 'delete', 'insert', or 'replace'." $pre }}
+{{ $msg3 := printf "%s The 'action' argument is missing, false, or zero." $pre }}
+{{ $msg2 := printf "%s The 'slice' argument is not a slice." $pre }}
+{{ $msg1 := printf "%s The 'slice' argument is missing or it is an empty slice." $pre }}
+
+{{ $slice := .slice }}
+{{ $action := .action }}
+{{ $index := .index }}
+{{ $item := .item }}
+
+{{ $length := 0 }}
+{{ $error := false }}
+{{ $firstPart := slice }}
+{{ $lastPart := slice }}
+{{ $newSlice := slice }}
+
+{{ if $slice }}
+  {{ if reflect.IsSlice $slice }}
+    {{ $length = len $slice }}
+    {{ if $action }}
+      {{ if in (slice "delete" "insert" "replace") $action }}
+        {{ if eq (printf "%T" $index) "int" }}
+          {{ if not
+            (or
+              (and (ge $index 0) (le $index (sub $length 1)))
+              (and (lt $index 0) (le (mul $index -1) $length))
+            )
+          }}
+            {{ errorf $msg6 }}
+            {{ $error = true }}
+          {{ end }}
+        {{ else }}
+          {{ errorf $msg5 }}
+          {{ $error = true }}
+        {{ end }}
+      {{ else }}
+        {{ errorf $msg4 }}
+        {{ $error = true }}
+      {{ end }}
+    {{ else }}
+      {{ errorf $msg3 }}
+      {{ $error = true }}
+    {{ end }}
+  {{ else }}
+    {{ errorf $msg2 }}
+    {{ $error = true }}
+  {{ end }}
+{{ else }}
+  {{ errorf $msg1 }}
+  {{ $error = true }}
+{{ end }}
+
+{{ if not $error }}
+
+  {{ if eq $action "delete" }}
+    {{if ge $index 0 }}
+      {{ $firstPart = $slice | first $index }}
+      {{ $lastPart = $slice | last (sub (sub $length $index) 1) }}
+    {{ else }}
+      {{ $firstPart = $slice | first (add $length $index) }}
+      {{ $lastPart = $slice | last (sub (mul $index -1) 1) }}
+    {{ end }}
+    {{ range $firstPart }}
+      {{ $newSlice = $newSlice | append . }}
+    {{ end }}
+    {{ range $lastPart }}
+      {{ $newSlice = $newSlice | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if eq $action "insert" }}
+    {{ if ge $index 0 }}
+      {{ $firstPart = $slice | first $index }}
+      {{ $lastPart = $slice | last (sub $length $index) }}
+    {{ else }}
+      {{ $firstPart = $slice | first (add (add $length $index) 1) }}
+      {{ $lastPart = $slice | last (sub (mul $index -1) 1) }}
+    {{ end }}
+    {{ range $firstPart }}
+      {{ $newSlice = $newSlice | append . }}
+    {{ end }}
+    {{ $newSlice = $newSlice | append $item }}
+    {{ range $lastPart }}
+      {{ $newSlice = $newSlice | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if eq $action "replace" }}
+    {{ if ge $index 0 }}
+      {{ $firstPart = $slice | first $index }}
+      {{ $lastPart = $slice | last (sub (sub $length $index) 1) }}
+    {{ else }}
+      {{ $firstPart = $slice | first (add $length $index) }}
+      {{ $lastPart = $slice | last (sub (mul $index -1) 1) }}
+    {{ end }}
+    {{ range $firstPart }}
+      {{ $newSlice = $newSlice | append . }}
+    {{ end }}
+    {{ $newSlice = $newSlice | append $item }}
+    {{ range $lastPart }}
+      {{ $newSlice = $newSlice | append . }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}
+
+{{ return $newSlice}}

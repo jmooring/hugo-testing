@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-34797 https://github.com/jmooring/
 cd hugo-forum-topic-34797
 hugo server
 ```
+
+Then visit http://localhost:1313/tests/test-1/
