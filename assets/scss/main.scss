@@ -1,0 +1,14 @@
+:root {
+  --sta-font-body: {{ .Site.Params.pezfont }};
+  --sta-font-heading: {{ .Site.Params.pezfont }};
+  --sta-font-nav: {{ .Site.Params.pezfont }};
+  --sta-font-mono: {{ .Site.Params.pezfont }};
+}
+
+body {
+  font-family: var(--sta-font-body);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--sta-font-heading);
+}

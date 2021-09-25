@@ -1,3 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #34861'
+
+[params]
+  fonts = ["serif", "sans-serif"]
+  pezfont = "sans-serif"

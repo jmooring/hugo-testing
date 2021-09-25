@@ -4,8 +4,28 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
-</head>
+
+  {{ $css := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.css" . | toCSS }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  <script>
+    function changeFont(font) {
+      document.documentElement.style.setProperty('--sta-font-body', font);
+      document.documentElement.style.setProperty('--sta-font-heading', font);
+      document.documentElement.style.setProperty('--sta-font-nav', font);
+      document.documentElement.style.setProperty('--sta-font-mono', font);
+    }
+  </script>
+
+
 <body>
+
+  <select id="font" onchange="changeFont(this.value)">
+    {{ range (sort site.Params.fonts) }}
+      {{ $selected := cond (eq site.Params.pezfont .) "selected" "" | safeHTMLAttr }}
+      <option value="{{ . }}" {{ $selected }}>{{ . }}</option>
+    {{ end }}
+  </select>
+
 {{ block "main" . }}
 
 {{ end }}
