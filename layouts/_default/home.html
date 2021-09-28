@@ -10,7 +10,8 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+  {{ range (.Paginate .Site.RegularPages).Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+  {{ partial "pagination.html" (dict "page" . "format" "reverse") }}
 {{ end }}

@@ -4,6 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+
+  {{ $scss := resources.Get "scss/main.scss" }}
+  {{ $targetPath := printf "style.%s.css" ($scss.Content | sha1 | first 7) }}
+  {{ $options := dict "transpiler" "dartsass" "targetPath" $targetPath }}
+  {{ $css := $scss | toCSS $options | minify }}
+  {{ $temp := $css | fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $temp.Data.Integrity }}" crossorigin="anonymous">
+
 </head>
 <body>
 {{ block "main" . }}
