@@ -1,0 +1,8 @@
+{{ $pageTitles := slice }}
+{{ range site.Pages }}
+  {{ $noop := .Content }}
+  {{ with .Scratch.Get "pageTitle" }}
+    {{ $pageTitles = $pageTitles | append . }}
+  {{ end }}
+{{ end }}
+<p>All the Scratch values: {{ delimit $pageTitles ", " }}</p>
