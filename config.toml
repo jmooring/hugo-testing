@@ -1,3 +1,26 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #8279'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+weight = 1
+languageName = 'English'
+
+[languages.de]
+weight = 2
+languageName = 'Deutsch'
+
+  [languages.de.permalinks]
+  questions = '/fragen/:slug/'
+  books = '/bücher/:slug/'
+
+[languages.es]
+weight = 3
+languageName = 'Español'
+
+  [languages.es.permalinks]
+  questions = '/preguntas/:slug/'
+  books = '/libros/:slug/'
