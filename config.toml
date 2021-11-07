@@ -1,3 +1,16 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #9119'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+weight = 1
+contentDir = 'content/en'
+LanguageName = 'English'
+
+[languages.ninechars]
+weight = 2
+contentDir = 'content/ninechars'
+LanguageName = 'Ninechars'
