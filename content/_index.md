@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #9119'
+date = 2021-11-07T00:52:42-07:00
 draft = false
-details = '@@URL@@'
-description = '@@DESCRIPTION@@'
+details = 'https://github.com/gohugoio/hugo/issues/9119'
+description = 'Artificial language codes longer than 8 alphanumeric characters break i18n'
 +++
