@@ -1,3 +1,11 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #35501'
+
+ignoreErrors = ["error-disable-taxonomy"]
+
+[languages.en]
+weight = 1
+[languages.xxx]
+disableKinds = ['home','page','section','taxonomy','sitemap']
+weight = 2
