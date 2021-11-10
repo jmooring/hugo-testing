@@ -1,3 +1,39 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #9150'
+
+# Method 1 (active class works)
+[[menu.defined_in_config_using_pageref]]
+name = 'Home'
+pageref = '/'
+weight = 1
+[[menu.defined_in_config_using_pageref]]
+name = 'News'
+pageref = '/news'
+weight = 2
+[[menu.defined_in_config_using_pageref]]
+name = 'About'
+pageref = '/about'
+weight = 3
+[[menu.defined_in_config_using_pageref]]
+name = 'Contact'
+pageref = '/contact'
+weight = 4
+
+# Method 2 (active class fails for all but home)
+[[menu.defined_in_config_using_url]]
+name = 'Home'
+pageref = '/'
+weight = 1
+[[menu.defined_in_config_using_url]]
+name = 'News'
+url = '/news/'
+weight = 2
+[[menu.defined_in_config_using_url]]
+name = 'About'
+url = '/about/'
+weight = 3
+[[menu.defined_in_config_using_url]]
+name = 'Contact'
+url = '/contact/'
+weight = 4

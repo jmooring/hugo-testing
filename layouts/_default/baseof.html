@@ -6,6 +6,9 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+{{ partial "menu" (dict "page" . "menu" "defined_in_front_matter") }}
+{{ partial "menu" (dict "page" . "menu" "defined_in_config_using_pageref") }}
+{{ partial "menu" (dict "page" . "menu" "defined_in_config_using_url") }}
 {{ block "main" . }}
 
 {{ end }}

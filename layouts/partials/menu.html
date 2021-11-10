@@ -1,0 +1,18 @@
+{{ $currentPage := .page }}
+{{ $menu := .menu }}
+<nav>
+  <p>Menu: {{ $menu }}</p>
+  <ul>
+    {{ range (index site.Menus $menu) }}
+      {{ $class := "" }}
+      {{ $marker := "" }}
+      {{ if $currentPage.IsMenuCurrent $menu . }}
+        {{ $class = `class="active"` | safeHTMLAttr }}
+        {{ $marker = "[active]" }}
+      {{ end }}
+      <li {{ $class }}>
+        <a href="{{ .URL }}">{{ .Name }}</a> {{ $marker }}
+      </li>
+    {{ end }}
+  </ul>
+</nav>
