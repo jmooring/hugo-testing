@@ -2,6 +2,8 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <pre style="color: green;">[begin output from .Render "default" ]</pre>
+    {{ .Render "default" }}
+    <pre style="color: green;">[end output from .Render "default" ]</pre>
   {{ end }}
 {{ end }}
