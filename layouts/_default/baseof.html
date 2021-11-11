@@ -6,6 +6,17 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+
+<hr>
+<p>{{ .Type }} </p>
+{{ if and .IsPage (not (eq .Type "page")) }}
+  {{ $datetime := .Date.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $date := .Date.Format "January 2, 2006" }}
+  <time datetime="{{ $datetime }}">{{ $date }}</time>
+{{ end }}
+<h1>{{ .Title }}</h1>
+<hr>
+
 {{ block "main" . }}
 
 {{ end }}
