@@ -1,0 +1,6 @@
+<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+{{ with .Resources.GetMatch "portrait.jpg" }}
+  {{ $i := .Resize "120x webp" }}
+  <img src="{{ $i.RelPermalink }}" alt="{{ $i.Title }}" width="{{ $i.Width }}" height="{{ $i.Height }}">
+{{ end }}
+<div>{{ .Summary }}</div>
