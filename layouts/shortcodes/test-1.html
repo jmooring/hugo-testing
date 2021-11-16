@@ -1,0 +1,11 @@
+{{/* Force error: ZgotmplZ */}}
+<div style="{{ .Get "style" }}">Foo</div>
+
+{{/* Force error: [i18n] */}}
+{{ T "foo" }}
+
+{{/* Force error: &lt;nil&gt; */}}
+{{ printf "%s" site.Params.xxx | safeHTML }}
+
+{{/* Force error: (<nil>) */}}
+{{ printf "%s" site.Params.xxx }}
