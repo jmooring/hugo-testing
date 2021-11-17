@@ -1,0 +1,12 @@
+{{- /* $s = source, $t = target */ -}}
+{{- with $s := .Resources.GetMatch "a.jpg" -}}
+{{- $targetFormats := slice "bmp" "gif" "jpeg" "jpg" "png" "tif" "tiff" "webp" -}}
+<pre>
+Target {{ print "\t" }} Resized Media Type
+------ {{ print "\t" }} ------------------
+{{- range $targetFormat := $targetFormats -}}
+{{- $t := $s.Resize (printf "%dx%d %s" $s.Width $s.Height $targetFormat) }}
+{{ $targetFormat }} {{print "\t"}} {{ $t.MediaType -}}
+{{- end }}
+</pre>
+{{- end -}}
