@@ -1,3 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #23945'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+uglyURLs = true
+
+[outputFormats.html]
+noUgly = true
+
+[outputFormats.json]
+path = 'output'
+
+[outputs]
+page = ['html','json']
+section = ['html','json']

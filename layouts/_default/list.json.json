@@ -1,0 +1,5 @@
+{{- $s := slice -}}
+{{- range .Pages -}}
+  {{- $s = $s | append (dict "title" .Title) -}}
+{{- end -}}
+{{- jsonify (dict "indent" "  ") $s -}}

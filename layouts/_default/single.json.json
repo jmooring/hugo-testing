@@ -1,0 +1,2 @@
+{{- $d := dict "title" .Title -}}
+{{- jsonify (dict "indent" "  ") $d -}}
