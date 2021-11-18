@@ -13,3 +13,4 @@ path = 'api'
 
 [outputs]
 page = ['html','json']
+section = ['html','json']
