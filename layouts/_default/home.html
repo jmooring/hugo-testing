@@ -10,7 +10,19 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  {{ range $p := .Pages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ with .Params.thumb }}
+      <pre style="color: green;">[found thumb parameter "{{ . }}" on {{ $p.Path }}]</pre>
+    {{ else }}
+      {{ range $ps := .RegularPagesRecursive }}
+        <pre>[looking for thumb parameter on {{ $ps.Path }}]</pre>
+        {{ with .Params.thumb }}
+        <pre style="color: green;">[found thumb parameter "{{ . }}" on page {{ $ps.Path }}]</pre>
+        {{ end }}
+      {{ end }}
+    {{ end }}
   {{ end }}
+
 {{ end }}
