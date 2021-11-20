@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Hugo GitHub Issue #9173'
+
+disableKinds = ['taxonomy','terms','sitemap','RSS']
+ignoreErrors = ["error-disable-taxonomy"]

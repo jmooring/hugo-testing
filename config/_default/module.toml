@@ -1,0 +1,13 @@
+[[imports]]
+path = 'github.com/jmooring/microservice-1'
+
+  [[imports.mounts]]
+  source = 'content'
+  target = 'content/microservice-1'
+
+[[imports]]
+path = 'github.com/jmooring/microservice-2'
+
+  [[imports.mounts]]
+  source = 'content'
+  target = 'content/microservice-2'

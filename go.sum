@@ -1,0 +1,4 @@
+github.com/jmooring/microservice-1 v0.0.0-20211120192834-cd5f22ceafee h1:3gp1YZFiqJLXcNc9M/ZEnI82YjHTkgzPnwHra8IV/Oc=
+github.com/jmooring/microservice-1 v0.0.0-20211120192834-cd5f22ceafee/go.mod h1:OFsSVfGApViL1l0LvM4iM5Sld4M5XAK6ooSPc5gab6E=
+github.com/jmooring/microservice-2 v0.0.0-20211120192708-d7f795fe373d h1:iXenkdDkECl0Y7jxRGUr4ZI98FZCcR77wsbe7cJRsEE=
+github.com/jmooring/microservice-2 v0.0.0-20211120192708-d7f795fe373d/go.mod h1:Iih4jknHzwvjenmPG9Rgcc74aYp02SVDLSdQZh+IHOc=
