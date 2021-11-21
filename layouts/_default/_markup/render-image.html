@@ -1,0 +1,6 @@
+{{- with resources.GetMatch .Destination -}}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" title="passed through render-image">
+{{- else -}}
+  {{- errorf "Global resource not found" -}}
+{{- end -}}
+{{- /**/ -}}
