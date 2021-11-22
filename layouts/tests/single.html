@@ -1,0 +1,43 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+<pre>
+content/
+├── tests/
+│   └── test-1/
+│       ├── b.md
+│       └── index.md
+└── _index.md
+
+assets/
+└── a.md
+</pre>
+
+<h2>Global resource: a.md</h2>
+
+{{ with resources.GetMatch "a.md" }}
+<pre>
+.Name = {{ .Name }}
+.Title = {{ .Title }}
+.Permalink = {{ .Permalink }}
+.RelPermalink = {{ .RelPermalink }}
+.MediaType = {{ .MediaType }}
+.Content = {{ .Content  }}
+</pre>
+{{ end }}
+
+<h2>Page resource: b.md</h2>
+
+{{ with .Resources.GetMatch "b.md" }}
+<pre>
+.Name = {{ .Name }}
+.Title = {{ .Title }}
+.Permalink = {{ .Permalink }}
+.RelPermalink = {{ .RelPermalink }}
+.MediaType = {{ .MediaType }}
+.Content = {{ .Content  }}
+</pre>
+{{ end }}
+
+{{ end }}
