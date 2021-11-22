@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+{{ range .Resources }}
+<pre>
+.Name = {{ .Name }}
+.Title = {{ .Title }}
+.Permalink = {{ .Permalink }}
+.RelPermalink = {{ .RelPermalink }}
+.MediaType = {{ .MediaType }}
+</pre>
+{{ end }}
+
+{{ end }}
