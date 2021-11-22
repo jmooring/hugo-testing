@@ -1,0 +1,18 @@
+
+{{ $u := urls.Parse .Destination }}
+{{ $href := $u.String }}
+{{ if not $u.IsAbs }}
+  {{ with site.GetPage $u.Path }}
+    {{/* It's a page */}}
+    {{ $href = .RelPermalink }}
+  {{ else }}
+    {{/* Maybe it's a link to a page resource like a PDF file */}}
+    {{ with .Page.Resources.GetMatch $u.Path }}
+      {{ $href = .RelPermalink }}
+    {{ else }}
+      {{ warnf "The link to %q on page %q appears to be broken." $u.Path .Page.Path }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+<a href="{{ $href }}">{{ .Text | safeHTML }}</a>
+{{- /* Trim trailing newlines. */ -}}

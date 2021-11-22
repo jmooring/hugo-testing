@@ -10,7 +10,13 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+  {{ range .Site.RegularPages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div style="border: 1px solid green">
+      <pre>.Content =</pre>
+      {{ .Content }}
+    </div>
+
+    </pre>
   {{ end }}
 {{ end }}
