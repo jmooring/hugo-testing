@@ -1,0 +1,20 @@
+spec:
+  junk: foo
+  name1:
+    key1:
+      enabled: true
+      image:
+        repository: example.com/1
+    key2:
+      repository: example.com/2
+  name2:
+    repository: example.com/3
+  name3:
+    key3:
+      key4:
+        repository: example.com/4
+  name4:
+    repository:
+      repository:
+        repository:
+          repository: example.com/5

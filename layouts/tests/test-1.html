@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <p>Repositories:
+    {{ $reposString := partial "get-repositories" site.Data.foo | chomp }}
+    {{ $reposSlice := split $reposString "\n" }}
+    <ul>
+      {{ range $reposSlice }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </p>
+
+{{ end }}

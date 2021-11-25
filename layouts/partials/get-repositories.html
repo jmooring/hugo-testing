@@ -1,0 +1,14 @@
+{{- template "dig" . -}}
+
+{{- define "dig" -}}
+  {{- range $k, $v := . -}}
+    {{- if reflect.IsMap . -}}
+      {{- template "dig" . -}}
+    {{- else -}}
+      {{- if eq $k "repository" -}}
+        {{- printf "%s\n" $v -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- /* Chomp trailing newlines. */ -}}
