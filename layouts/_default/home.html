@@ -10,7 +10,15 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
+{{ range (where .Site.RegularPages "Type" "posts").GroupByDate "2006" }}
+  <h2>{{ .Key }}</h2>
+  {{ range .Pages.GroupByDate "1" }}
+    <h3>{{ index site.Data.month .Key | strings.FirstUpper }}</h3>
+    {{ range .Pages }}
+      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+    {{end}}
+  {{end}}
+{{end}}
+
 {{ end }}
