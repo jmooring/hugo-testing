@@ -10,6 +10,11 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
+  <code>&lbrace;&lbrace; T "cat" &rbrace;&rbrace;</code> --> {{ T "cat" }}<br>
+  <code>&lbrace;&lbrace; T "dog" &rbrace;&rbrace;</code> --> {{ T "dog" }}
+
+  <hr>
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
