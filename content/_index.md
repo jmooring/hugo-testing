@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo Forum Topic #35812'
+date = 2021-11-29T10:12:55-08:00
 draft = false
-details = '@@URL@@'
-description = '@@DESCRIPTION@@'
+details = 'https://discourse.gohugo.io/t/35812'
+description = 'Keep the same number of posts if a category is excluded from a list'
 +++
