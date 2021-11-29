@@ -1,0 +1,165 @@
+{
+  "examples": [
+     {
+        "id": 1,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27 00:32:59 -07:00",
+        "value": "2021-04-27 00:32:59 -07:00"
+     },
+     {
+        "id": 2,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27 00:32:59 -0700",
+        "value": "2021-04-27 00:32:59 -0700"
+     },
+     {
+        "id": 3,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27 00:32:59.123456789 -0700 PDT",
+        "value": "2021-04-27 00:32:59.123456789 -0700 PDT"
+     },
+     {
+        "id": 4,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27 00:32:59.123456789-07:00",
+        "value": "2021-04-27 00:32:59.123456789-07:00"
+     },
+     {
+        "id": 6,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27 00:32:59-07:00",
+        "value": "2021-04-27 00:32:59-07:00"
+     },
+     {
+        "id": 8,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27 07:32:59Z",
+        "value": "2021-04-27 07:32:59Z"
+     },
+     {
+        "id": 10,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27T00:32:59.123456789-07:00",
+        "value": "2021-04-27T00:32:59.123456789-07:00"
+     },
+     {
+        "id": 12,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27T00:32:59-07:00",
+        "value": "2021-04-27T00:32:59-07:00"
+     },
+     {
+        "id": 14,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27T00:32:59-0700",
+        "value": "2021-04-27T00:32:59-0700"
+     },
+     {
+        "id": 15,
+        "category": "Offset Date-Time",
+        "display": "2021-04-27T07:32:59Z",
+        "value": "2021-04-27T07:32:59Z"
+     },
+     {
+        "id": 17,
+        "category": "Offset Date-Time",
+        "display": "27 Apr 21 00:32 -0700",
+        "value": "27 Apr 21 00:32 -0700"
+     },
+     {
+        "id": 18,
+        "category": "Offset Date-Time",
+        "display": "27 Apr 21 00:32 PDT",
+        "value": "27 Apr 21 00:32 PDT",
+        "notes": "1"
+     },
+     {
+        "id": 19,
+        "category": "Offset Date-Time",
+        "display": "Thu Apr 27 00:32:59 -0700 2021",
+        "value": "Thu Apr 27 00:32:59 -0700 2021"
+     },
+     {
+        "id": 20,
+        "category": "Offset Date-Time",
+        "display": "Thu Apr 27 00:32:59 PDT 2021",
+        "value": "Thu Apr 27 00:32:59 PDT 2021",
+        "notes": "1"
+     },
+     {
+        "id": 21,
+        "category": "Offset Date-Time",
+        "display": "Thu, 27 Apr 2021 00:32:59 -0700",
+        "value": "Thu, 27 Apr 2021 00:32:59 -0700"
+     },
+     {
+        "id": 22,
+        "category": "Offset Date-Time",
+        "display": "Thu, 27 Apr 2021 00:32:59 PDT",
+        "value": "Thu, 27 Apr 2021 00:32:59 PDT",
+        "notes": "1"
+     },
+     {
+        "id": 23,
+        "category": "Offset Date-Time",
+        "display": "Thursday, 27-Apr-21 00:32:59 PDT",
+        "value": "Thursday, 27-Apr-21 00:32:59 PDT",
+        "notes": "1"
+     },
+     {
+        "id": 25,
+        "category": "Local Date-Time",
+        "display": "2021-04-27 00:32:59",
+        "value": "2021-04-27 00:32:59",
+        "notes": "1"
+     },
+     {
+        "id": 27,
+        "category": "Local Date-Time",
+        "display": "2021-04-27 00:32:59.123456789",
+        "value": "2021-04-27 00:32:59.123456789",
+        "notes": "1"
+     },
+     {
+        "id": 29,
+        "category": "Local Date-Time",
+        "display": "2021-04-27T00:32:59",
+        "value": "2021-04-27T00:32:59",
+        "notes": "1"
+     },
+     {
+        "id": 31,
+        "category": "Local Date-Time",
+        "display": "2021-04-27T00:32:59.123456789",
+        "value": "2021-04-27T00:32:59.123456789",
+        "notes": "1"
+     },
+     {
+        "id": 33,
+        "category": "Local Date-Time",
+        "display": "Thu Apr 27 00:32:59 2021",
+        "value": "Thu Apr 27 00:32:59 2021",
+        "notes": "1"
+     },
+     {
+        "id": 34,
+        "category": "Local Date",
+        "display": "2021-04-27",
+        "value": "2021-04-27",
+        "notes": "1"
+     },
+     {
+        "id": 36,
+        "category": "Local Date",
+        "display": "27 Apr 2021",
+        "value": "27 Apr 2021",
+        "notes": "1"
+     },
+     {
+        "id": 37,
+        "category": "Time",
+        "display": "00:32AM",
+        "value": "00:32AM"
+     }
+  ]
+}

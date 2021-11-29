@@ -1,0 +1,32 @@
+{{ $format := "2006-01-02 15:04:05.000000000 -07:00" }}
+<code>
+  <table>
+    <thead>
+      <th>ID</th>
+      <th>Category</th>
+      <th>Type</th>
+      <th>Example</th>
+      <th>time.Format "{{ $format }}"</th>
+      <th>Notes</th>
+    </thead>
+    <tbody>
+      {{ range (index site.Data (.Page.Title | lower) "examples") }}
+      {{ $type := printf "%T" .value }}
+      <tr>
+        <td>{{ .id }}</td>
+        <td>{{ .category }}</td>
+        <td>{{ $type }}</td>
+        <td>{{ .display }}</td>
+        <td>
+          {{ if .error }}
+            Unable to parse
+          {{ else }}
+            {{ .value | time.Format $format }}<br>
+          {{ end }}
+        </td>
+        <td>{{ .notes }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</code>

@@ -1,0 +1,255 @@
+#------------------------------------------------------------------------------
+# Offset Date-Time
+#------------------------------------------------------------------------------
+
+[[examples]]
+id = 1
+category = 'Offset Date-Time'
+display = '2021-04-27 00:32:59 -07:00'
+value = '2021-04-27 00:32:59 -07:00'
+
+[[examples]]
+id = 2
+category = 'Offset Date-Time'
+display = '2021-04-27 00:32:59 -0700'
+value = '2021-04-27 00:32:59 -0700'
+
+[[examples]]
+id = 3
+category = 'Offset Date-Time'
+display = '2021-04-27 00:32:59.123456789 -0700 PDT'
+value = '2021-04-27 00:32:59.123456789 -0700 PDT'
+
+[[examples]]
+id = 4
+category = 'Offset Date-Time'
+display = '2021-04-27 00:32:59.123456789-07:00'
+value = '2021-04-27 00:32:59.123456789-07:00'
+
+[[examples]]
+id = 5
+category = 'Offset Date-Time'
+display = '2021-04-27 00:32:59.123456789-07:00'
+value = 2021-04-27 00:32:59.123456789-07:00
+notes = '2'
+
+[[examples]]
+id = 6
+category = 'Offset Date-Time'
+display = '2021-04-27 00:32:59-07:00'
+value = '2021-04-27 00:32:59-07:00'
+
+[[examples]]
+id = 7
+category = 'Offset Date-Time'
+display = '2021-04-27 00:32:59-07:00'
+value = 2021-04-27 00:32:59-07:00
+
+[[examples]]
+id = 8
+category = 'Offset Date-Time'
+display = '2021-04-27 07:32:59Z'
+value = '2021-04-27 07:32:59Z'
+
+[[examples]]
+id = 9
+category = 'Offset Date-Time'
+display = '2021-04-27 07:32:59Z'
+value = 2021-04-27 07:32:59Z
+
+[[examples]]
+id = 10
+category = 'Offset Date-Time'
+display = '2021-04-27T00:32:59.123456789-07:00'
+value = '2021-04-27T00:32:59.123456789-07:00'
+
+[[examples]]
+id = 11
+category = 'Offset Date-Time'
+display = '2021-04-27T00:32:59.123456789-07:00'
+value = 2021-04-27T00:32:59.123456789-07:00
+notes = '2'
+
+[[examples]]
+id = 12
+category = 'Offset Date-Time'
+display = '2021-04-27T00:32:59-07:00'
+value = '2021-04-27T00:32:59-07:00'
+
+[[examples]]
+id = 13
+category = 'Offset Date-Time'
+display = '2021-04-27T00:32:59-07:00'
+value = 2021-04-27T00:32:59-07:00
+
+[[examples]]
+id = 14
+category = 'Offset Date-Time'
+display = '2021-04-27T00:32:59-0700'
+value = '2021-04-27T00:32:59-0700'
+
+[[examples]]
+id = 15
+category = 'Offset Date-Time'
+display = '2021-04-27T07:32:59Z'
+value = '2021-04-27T07:32:59Z'
+
+[[examples]]
+id = 16
+category = 'Offset Date-Time'
+display = '2021-04-27T07:32:59Z'
+value = 2021-04-27T07:32:59Z
+
+[[examples]]
+id = 17
+category = 'Offset Date-Time'
+display = '27 Apr 21 00:32 -0700'
+value = '27 Apr 21 00:32 -0700'
+
+[[examples]]
+id = 18
+category = 'Offset Date-Time'
+display = '27 Apr 21 00:32 PDT'
+value = '27 Apr 21 00:32 PDT'
+notes = '1'
+
+[[examples]]
+id = 19
+category = 'Offset Date-Time'
+display = 'Thu Apr 27 00:32:59 -0700 2021'
+value = 'Thu Apr 27 00:32:59 -0700 2021'
+
+[[examples]]
+id = 20
+category = 'Offset Date-Time'
+display = 'Thu Apr 27 00:32:59 PDT 2021'
+value = 'Thu Apr 27 00:32:59 PDT 2021'
+notes= '1'
+
+[[examples]]
+id = 21
+category = 'Offset Date-Time'
+display = 'Thu, 27 Apr 2021 00:32:59 -0700'
+value = 'Thu, 27 Apr 2021 00:32:59 -0700'
+
+[[examples]]
+id = 22
+category = 'Offset Date-Time'
+display = 'Thu, 27 Apr 2021 00:32:59 PDT'
+value = 'Thu, 27 Apr 2021 00:32:59 PDT'
+notes= '1'
+
+[[examples]]
+id = 23
+category = 'Offset Date-Time'
+display = 'Thursday, 27-Apr-21 00:32:59 PDT'
+value = 'Thursday, 27-Apr-21 00:32:59 PDT'
+notes= '1'
+
+[[examples]]
+id = 24
+category = 'Offset Date-Time'
+display = '1619508779'
+value = 1619508779
+
+#------------------------------------------------------------------------------
+# Local Date-Time
+#------------------------------------------------------------------------------
+
+[[examples]]
+id = 25
+category = 'Local Date-Time'
+display = '2021-04-27 00:32:59'
+value = '2021-04-27 00:32:59'
+notes = '1'
+
+[[examples]]
+id = 26
+category = 'Local Date-Time'
+display = '2021-04-27 00:32:59'
+value = 2021-04-27 00:32:59
+notes = '1'
+
+[[examples]]
+id = 27
+category = 'Local Date-Time'
+display = '2021-04-27 00:32:59.123456789'
+value = '2021-04-27 00:32:59.123456789'
+notes = '1'
+
+[[examples]]
+id = 28
+category = 'Local Date-Time'
+display = '2021-04-27 00:32:59.123456789'
+value = 2021-04-27 00:32:59.123456789
+notes = '1'
+
+[[examples]]
+id = 29
+category = 'Local Date-Time'
+display = '2021-04-27T00:32:59'
+value = '2021-04-27T00:32:59'
+notes = '1'
+
+[[examples]]
+id = 30
+category = 'Local Date-Time'
+display = '2021-04-27T00:32:59'
+value = 2021-04-27T00:32:59
+notes = '1'
+
+[[examples]]
+id = 31
+category = 'Local Date-Time'
+display = '2021-04-27T00:32:59.123456789'
+value = '2021-04-27T00:32:59.123456789'
+notes = '1'
+
+[[examples]]
+id = 32
+category = 'Local Date-Time'
+display = '2021-04-27T00:32:59.123456789'
+value = 2021-04-27T00:32:59.123456789
+notes = '1'
+
+[[examples]]
+id = 33
+category = 'Local Date-Time'
+display = 'Thu Apr 27 00:32:59 2021'
+value = 'Thu Apr 27 00:32:59 2021'
+notes = '1'
+
+#------------------------------------------------------------------------------
+# Local Date-Time
+#------------------------------------------------------------------------------
+
+[[examples]]
+id = 34
+category = 'Local Date'
+display = '2021-04-27'
+value = '2021-04-27'
+notes = '1'
+
+[[examples]]
+id = 35
+category = 'Local Date'
+display = '2021-04-27'
+value = 2021-04-27
+notes = '1'
+
+[[examples]]
+id = 36
+category = 'Local Date'
+display = '27 Apr 2021'
+value = '27 Apr 2021'
+notes = '1'
+
+#------------------------------------------------------------------------------
+# Time
+#------------------------------------------------------------------------------
+
+[[examples]]
+id = 37
+category = 'Time'
+display = '00:32AM'
+value = '00:32AM'
