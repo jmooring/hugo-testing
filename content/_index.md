@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #9219'
+date = 2021-11-30T09:04:29-08:00
 draft = false
-details = '@@URL@@'
-description = '@@DESCRIPTION@@'
+details = 'https://github.com/gohugoio/hugo/issues/9219'
+description = 'combine menus in modules and site'
 +++
