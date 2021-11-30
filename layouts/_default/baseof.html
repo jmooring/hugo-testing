@@ -6,6 +6,21 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+
+<p>Menu from project:
+  {{ range site.Menus.main }}
+    <a href="{{ .URL }}">{{ .Name }}</a>
+  {{ end }}
+</p>
+
+<p>Menu from module:
+{{ range site.Menus.articles }}
+  <a href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
+</p>
+
+<hr>
+
 {{ block "main" . }}
 
 {{ end }}
