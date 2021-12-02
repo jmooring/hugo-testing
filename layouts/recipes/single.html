@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <p>Reference: {{ $.Params.reference }}</p>
+  <p>Categories:
+  {{ range (.GetTerms "categories") }}
+  <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+  {{ end }}
+  </p>
+
+  {{ $sections := slice "Cooking" "Ingredients" "Instructions" }}
+  {{ range $sections }}
+    <h2>{{ . }}</h2>
+    <p>{{ (index (where $.Params.data "label" .) 0).ocr_text | replaceRE "\n" "<br>" | safeHTML }}</p>
+  {{ end }}
+
+{{ end }}

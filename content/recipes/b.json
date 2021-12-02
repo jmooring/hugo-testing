@@ -1,0 +1,47 @@
+[
+  {
+      "label": "Type",
+      "ocr_text": "Vorspeisen\nKarte Nr. 7",
+      "score": 0.9918124,
+      "xmin": 1868,
+      "xmax": 2205,
+      "ymin": 286,
+      "ymax": 414
+  },
+  {
+      "label": "Cooking",
+      "ocr_text": "Vorbereitungszeit 20 Min. Backzeit ca. 8 Min. Temperatur 220° obere Schiene",
+      "score": 0.99449724,
+      "xmin": 186,
+      "xmax": 2263,
+      "ymin": 487,
+      "ymax": 545
+  },
+  {
+      "label": "Ingredients",
+      "ocr_text": "24 gekochte Schnecken\n(aus der Dose)\n24 Schneckenhäuser\nKräuterbutter: 125 g Butter\n2 EBI. feingewiegte Petersilie\n½ Teel. Salz\n2 Teel. weißer Pfeffer\n2 Knoblauchzehen\nDie Schnecken sehr heiß in den\nPfännchen auftragen. Zum\nGedeck pro Person eine\nSchneckenzange, eine schmale,\nzweizinkige Gabel und einen\nLöffel auflegen. Dazu fran-\nzösisches Stangenweißbrot\nreichen.\nGetränkevorschlag: trockener\nWeißwein, Rosé.",
+      "score": 0.9978357,
+      "xmin": 172,
+      "xmax": 1173,
+      "ymin": 627,
+      "ymax": 2121
+  },
+  {
+      "label": "Instructions",
+      "ocr_text": "1. Die Butter schaumig rühren.\nKnoblauchzehen schälen, hacken\nund zerdrücken. Butter mit Knob-\nlauch, Salz, frischgemahlenem\nweißem Pfeffer und Petersilie\nverrühren.\n2. Auf den Grund jedes Schnek-\nkenhauses etwas Kräuterbutter\ngeben, die abgetropften Schnek-\nken hineinstecken und\nSchneckenhaus\ndas\nmit Kräuter-\nbutter zustreichen.\n3. Die Schneckenhäuser in die\nVertiefungen der Schnecken-\npfanne setzen und in den vorge-\nheizten Backofen schieben. In\netwa 8 Min. schmilzt die Kräu-\nterbutter und die Schnecken\nwerden kochend heiß.\nAnmerkung: Wenn Sie keine\nSchneckenpfanne haben: In eine\nfeuerfeste Form ein 2 cm tiefes\nSalzbett schichten\nSchneckenhäuser hineindrücken.\nund die",
+      "score": 0.9996111,
+      "xmin": 1286,
+      "xmax": 2311,
+      "ymin": 620,
+      "ymax": 2587
+  },
+  {
+      "label": "Titel",
+      "ocr_text": "Foo",
+      "score": 0.8612153,
+      "xmin": 184,
+      "xmax": 815,
+      "ymin": 152,
+      "ymax": 415
+  }
+]
