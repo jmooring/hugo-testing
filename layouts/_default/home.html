@@ -10,7 +10,14 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  {{ $p1 := where .Site.RegularPages ".Params.ml_prediction_gnb" 1  }}
+  {{ $p2 := where .Site.RegularPages ".Params.relevant" 1  }}
+
+  {{ range (union $p1 $p2).ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    .Params.ml_prediction_gnb --> {{ .Params.ml_prediction_gnb}}<br>
+    .Params.relevant --> {{ .Params.relevant}}<br>
   {{ end }}
+
 {{ end }}
