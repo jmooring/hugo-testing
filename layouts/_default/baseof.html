@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
   <style>
-    li.active a {
+    li.active > a {
       background: yellow;
     }
   </style>

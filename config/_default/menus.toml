@@ -43,8 +43,6 @@ name = 'Availability'
 pageref = 'products/product-3/availability'
 parent = 'Product 3'
 weight = 3
-  [main.params]
-  class = 'foo bar'
 
 [[main]]
 name = 'Services'
@@ -81,12 +79,12 @@ weight = 50
 
 [[main]]
 name = 'Hugo'
-url = 'https://gohugo.io'
-weight = 60
-title = 'Hugo Static Site Generator'
 pre = '<strong>'
 post = '</strong>'
+title = 'Hugo Static Site Generator'
+url = 'https://gohugo.io'
+weight = 60
   [main.params]
-  target = '_blank'
-  rel = 'noopener'
   class = 'external'
+  rel = 'noopener'
+  target = '_blank'
