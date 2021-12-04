@@ -1,4 +1,15 @@
 {{ define "main" }}
+
+  <p>Related pages:
+    {{ $filteredPosts := where (where site.RegularPages "Type" "post") "Title" "!=" .Title }}
+    {{ $relatedPosts := shuffle $filteredPosts | first 6 }}
+    <ul>
+      {{ range $relatedPosts.ByTitle }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  </p>
+
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
