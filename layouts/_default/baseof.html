@@ -12,7 +12,10 @@
 </head>
 <body>
 
-{{ partial "menu" (dict "page" . "id" "main" "maxDepth" 3 "renderTitles" true) }}
+<nav>
+{{ partial "render-menu" (dict "page" . "menu" "main" "maxLevels" 3 "renderTitles" true) }}
+</nav>
+
 <hr>
 
 {{ block "main" . }}

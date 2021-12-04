@@ -43,6 +43,8 @@ name = 'Availability'
 pageref = 'products/product-3/availability'
 parent = 'Product 3'
 weight = 3
+  [main.params]
+  class = 'foo bar'
 
 [[main]]
 name = 'Services'
@@ -86,5 +88,5 @@ pre = '<strong>'
 post = '</strong>'
   [main.params]
   target = '_blank'
-  rel = 'nofollow'
+  rel = 'noopener'
   class = 'external'

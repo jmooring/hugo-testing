@@ -1,0 +1,159 @@
+{{- /*
+Recursively renders a menu.
+
+@param object $page
+  The page object.
+@param string $menu
+  The menu to render.
+  Default: main
+@param int $maxLevels
+  The maximum number of menu levels to render.
+  Default: 2
+@param bool $renderTitles
+  Whether or not to render the title attribute for each anchor.
+  Default: false
+
+These are equivalent:
+
+{{ partial "render-menu" . }}
+{{ partial "render-menu" (dict "page" .) }}
+{{ partial "render-menu" (dict "page" . "menu" "main") }}
+{{ partial "render-menu" (dict "page" . "menu" "main" "maxLevels" 2) }}
+{{ partial "render-menu" (dict "page" . "menu" "main" "maxLevels" 2 "renderTitles" false) }}
+
+*/ -}}
+
+{{- /* Messages. */ -}}
+{{- $msg1 := "When passing a map to the internal menu template, one of the elements must be named 'page', and it must be set to the context of the current page." -}}
+{{- $msg2 := "The 'maxLevels' option specified in the map passed to the internal menu template must be a non-negative integer." -}}
+{{- $msg3 := "The 'renderTitles' value specified in the map passed to the internal menu template must be a boolean value." -}}
+
+{{- /* Initialize. */ -}}
+{{- $level := 0 -}}
+{{- $menu := "main" -}}
+{{- $maxLevels := 2 -}}
+{{- $page := . -}}
+{{- $renderTitles := false -}}
+
+{{- /* Validate and assign. */ -}}
+{{- if reflect.IsMap . -}}
+  {{- with .page -}}
+    {{- $page = . -}}
+  {{- else -}}
+    {{- errorf $msg1 -}}
+  {{- end -}}
+  {{- with .menu -}}
+    {{- $menu = . -}}
+  {{- end -}}
+  {{- if isset . "maxLevels" -}}
+    {{- if and (eq (printf "%T" .maxLevels) "int") (ge .maxLevels 0) -}}
+      {{- $maxLevels = .maxLevels -}}
+    {{- else -}}
+      {{- errorf $msg2 -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with .renderTitles -}}
+    {{- if (eq (printf "%T" .) "bool") -}}
+      {{- $renderTitles = . -}}
+    {{- else -}}
+      {{- errorf $msg3 -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Render. */ -}}
+{{- with and $maxLevels (index site.Menus $menu) -}}
+  <ul>
+    {{- range . -}}
+      {{- $ctx := dict
+        "level" $level
+        "menu" $menu
+        "item" .
+        "maxLevels" $maxLevels
+        "page" $page
+        "renderTitles" $renderTitles
+      -}}
+      {{- template "walk" $ctx -}}
+    {{- end }}
+  </ul>
+{{- end -}}
+
+{{- define "walk" -}}
+  {{- $ariaCurrent := "" -}}
+  {{- $level := add .level 1 -}}
+  {{- $menu := .menu -}}
+  {{- $item := .item -}}
+  {{- $maxLevels := .maxLevels -}}
+  {{- $page := .page -}}
+  {{- $renderTitles := .renderTitles -}}
+
+  {{- if le $level $maxLevels -}}
+    {{- $aAttributes := dict "href" $item.URL -}}
+    {{- $aClass := "nav-link" -}}
+    {{- $liAttributes := dict -}}
+    {{- $liClass := "nav-item" -}}
+
+    {{- range $k, $v := $item.Params -}}
+      {{- if eq $k "class" -}}
+        {{- $v = printf "%s %s" $aClass $v -}}
+      {{- end -}}
+      {{- $aAttributes = $aAttributes | merge (dict $k $v) -}}
+    {{- else -}}
+      {{- $aAttributes = $aAttributes | merge (dict "class" $aClass) -}}
+    {{- end -}}
+
+    {{- if $renderTitles -}}
+      {{- $aAttributes = $aAttributes | merge (dict "title" $item.Title) -}}
+    {{- end -}}
+
+    {{- if $page.IsMenuCurrent $menu $item -}}
+      {{- $ariaCurrent = "page" -}}
+      {{- $liClass = printf "%s %s" $liClass "active" -}}
+    {{- end -}}
+    {{- if $page.HasMenuCurrent $menu $item -}}
+      {{- $ariaCurrent = "true" -}}
+      {{- if eq $level $maxLevels -}}
+        {{- $liClass = printf "%s %s" $liClass "active" -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $aAttributes = $aAttributes | merge (dict "aria-current" $ariaCurrent) -}}
+    {{- $liAttributes = $liAttributes | merge (dict "class" $liClass) -}}
+
+    {{- /* Render list item. */}}
+    <li {{- partial "_internal/menu/render-attributes" $liAttributes | safeHTMLAttr -}}>{{- /**/ -}}
+      <a {{- partial "_internal/menu/render-attributes" $aAttributes | safeHTMLAttr -}}>
+        {{- $item.Pre -}}
+          {{- $item.Name -}}
+        {{- $item.Post -}}
+      </a>{{- /**/ -}}
+
+    {{- /* Walk the child entries. */ -}}
+    {{- if and $item.HasChildren (gt $maxLevels $level) }}
+      <ul>
+      {{- range $item.Children -}}
+        {{- $ctx := dict
+          "level" $level
+          "menu" $menu
+          "item" .
+          "maxLevels" $maxLevels
+          "page" $page
+          "renderTitles" $renderTitles
+        -}}
+        {{- template "walk" $ctx -}}
+      {{- end }}
+      </ul>
+    {{- end -}}
+    </li>
+  {{- end -}}
+{{- end -}}
+
+{{- define "partials/_internal/menu/render-attributes" -}}
+  {{- range $k, $v := . -}}
+    {{- with $v -}}
+      {{- printf " %s=%q" $k $v | safeHTML -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Remove trailing newlines. */ -}}
