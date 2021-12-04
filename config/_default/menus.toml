@@ -1,0 +1,90 @@
+[[main]]
+name = 'Home'
+pageref = '/'
+weight = 10
+
+[[main]]
+name = 'Products'
+pageref = 'products'
+weight = 20
+
+[[main]]
+name = 'Product 1'
+pageref = 'products/product-1'
+parent = 'Products'
+weight = 1
+
+[[main]]
+name = 'Product 2'
+pageref = 'products/product-2'
+parent = 'Products'
+weight = 2
+
+[[main]]
+name = 'Product 3'
+pageref = 'products/product-3'
+parent = 'Products'
+weight = 3
+
+[[main]]
+name = 'Description'
+pageref = 'products/product-3/description'
+parent = 'Product 3'
+weight = 1
+
+[[main]]
+name = 'Pricing'
+pageref = 'products/product-3/pricing'
+parent = 'Product 3'
+weight = 2
+
+[[main]]
+name = 'Availability'
+pageref = 'products/product-3/availability'
+parent = 'Product 3'
+weight = 3
+
+[[main]]
+name = 'Services'
+pageref = 'services'
+weight = 30
+
+[[main]]
+name = 'About'
+pageref = 'about'
+weight = 40
+
+[[main]]
+name = 'Careers'
+pageref = 'about/careers'
+parent = 'About'
+weight = 3
+
+[[main]]
+name = 'History'
+pageref = 'about/history'
+parent = 'About'
+weight = 1
+
+[[main]]
+name = 'Leadership'
+pageref = 'about/leadership'
+parent = 'About'
+weight = 3
+
+[[main]]
+name = 'Contact'
+pageref = 'contact'
+weight = 50
+
+[[main]]
+name = 'Hugo'
+url = 'https://gohugo.io'
+weight = 60
+title = 'Hugo Static Site Generator'
+pre = '<strong>'
+post = '</strong>'
+  [main.params]
+  target = '_blank'
+  rel = 'nofollow'
+  class = 'external'
