@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo Forum Topic #35900'
+date = 2021-12-04T11:50:16-08:00
 draft = false
-details = '@@URL@@'
-description = '@@DESCRIPTION@@'
+details = 'https://discourse.gohugo.io/t/35900'
+description = 'Make 'shuffle' show different posts per post'
 +++
