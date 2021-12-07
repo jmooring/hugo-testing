@@ -1,4 +1,8 @@
 {{ define "main" }}
+
+  {{ $image := .Resources.GetMatch "images/profile.*" }}
+  {{ $image.Permalink }}
+
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
