@@ -1,4 +1,35 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+<p>
+<code>
+  &lcub;&lcub; site.Data.foo.key.subkey.subsubkey &rcub;&rcub; -->
+</code>
+{{ site.Data.foo.key.subkey.subsubkey }}
+</p>
+
+<p>
+  <code>
+    &lcub;&lcub; index site.Data.foo "key" "subkey" "subsubkey" &rcub;&rcub; -->
+  </code>
+  {{ index site.Data.foo "key" "subkey" "subsubkey" }}
+</p>
+
+<p>
+  <code>
+    &lcub;&lcub; $s := slice "key" "subkey" "subsubkey" &rcub;&rcub;
+  </code><br>
+  <code>
+    &lcub;&lcub; index site.Data.foo $s &rcub;&rcub; -->
+  </code>
+  {{ $s := slice "key" "subkey" "subsubkey" }}
+  {{ index site.Data.foo $s }}
+</p>
+
+
+
+
+
+
   {{ .Content }}
 {{ end }}
