@@ -6,6 +6,13 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+
+<p>Translations:
+{{ range .Translations }}
+  <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+{{ end }}
+
+</p>
 {{ block "main" . }}
 
 {{ end }}

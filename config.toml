@@ -1,3 +1,26 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #35938'
+
+defaultContentLanguage = 'eng'
+
+[languages.eng]
+weight = 1
+contentDir = 'content/eng'
+languageName = 'English'
+[languages.nld]
+weight = 2
+contentDir = 'content/nld'
+languageName = 'Nederlands'
+[languages.es]
+weight = 3
+contentDir = 'content/es'
+languageName = 'Español'
+[languages.mylang]
+weight = 4
+contentDir = 'content/mylang'
+languageName = 'My Language'
+[languages.zzz]
+weight = 5
+contentDir = 'content/zzz'
+languageName = 'ZZZ'
