@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+{{ getCSV ";" "/assets/a.csv" }}<br>
+{{ getCSV ";" "/data/b.csv" }}<br>
+{{ getCSV ";" "/other/c.csv" }}<br>
+{{ getCSV ";" "/static/d.csv" }}<br>
+{{ getCSV ";" "/e.csv" }}<br>
+
+{{ end }}
