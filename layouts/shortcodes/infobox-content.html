@@ -1,0 +1,10 @@
+{{ $group := .Get "group" }}
+{{ $products := getJSON "/static/products.json" }}
+<p class="products group-{{$group}}">
+  {{ range index $products $group }}
+    {{ . }}
+  {{ end }}
+
+  group : {{ $group }}
+  {{ .Inner }}
+</p>

@@ -1,0 +1,7 @@
+{
+  "wallboxes": ["ctest0", "test1", "test2"],
+  "smart_plugs": ["ptest0", "test1", "test2"],
+  "meters": ["mtest0", "test1", "test2"],
+  "systems": ["stest0", "test1", "test2"],
+  "vehicles": ["vtest0", "test1", "test2"]
+}
