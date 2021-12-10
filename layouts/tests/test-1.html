@@ -1,0 +1,43 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+{{/* Works.*/}}
+{{ with resources.Get "https://gohugo.io/img/hugo-logo.png" }}
+  {{ with .Err }}
+    {{ warnf "ERR-1: %s" . }}
+  {{ else }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+{{ end }}
+
+{{/* Silent failure, fast.*/}}
+{{ with resources.Get "https://gohugo.io/xxx/hugo-logo.png" }}
+  {{ with .Err }}
+    {{ warnf "ERR-2: %s" . }}
+  {{ else }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+{{ end }}
+
+{{/* Generates warning, ~4 seconds. */}}
+{{ with resources.Get "https://xxx.gohugo.io/img/hugo-logo.png" }}
+  {{ with .Err }}
+    {{ warnf "ERR-3: %s" . }}
+  {{ else }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+{{ end }}
+
+{{/* Generates warning, ~45 seconds. */}}
+{{ with resources.Get "https://gohugo-xxx.io/img/hugo-logo.png" }}
+  {{ with .Err }}
+    {{ warnf "ERR-4: %s" . }}
+  {{ else }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+{{ end }}
+
+
+
+
+{{ end }}

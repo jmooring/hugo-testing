@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+{{ $urls := slice
+  "https://gohugo.io/img/hugo-logo.png"
+  "https://gohugo.io/xxx/hugo-logo.png"
+  "images/a.jpg"
+  "images/b.jpg"
+  "https://www.mooring.com/images/cat.jpg"
+}}
+
+{{/*
+Redirects work!
+
+https://www.mooring.com/images/cat.jpg doesn't exist. There's a redirect on
+the server that points to https://www.mooring.com/images/kitten.jpg.
+*/}}
+
+{{ range $urls }}
+  {{ with resources.Get . }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ else }}
+    {{ if (urls.Parse .).IsAbs }}
+      {{ warnf "Unable to get remote resource %q" . }}
+    {{ else }}
+      {{ warnf "Unable to get local resource %q" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ end }}

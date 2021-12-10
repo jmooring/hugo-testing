@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+{{ $urls := slice
+  "https://gohugo.io/img/hugo-logo.png"
+  "https://gohugo.io/xxx/hugo-logo.png"
+  "https://xxx.gohugo.io/img/hugo-logo.png"
+  "https://gohugo-xxx.io/img/hugo-logo.png"
+  "images/a.jpg"
+}}
+
+{{ range $urls }}
+  {{ with resources.Get . }}
+    {{ with .Err }}
+      {{ warnf "%s" . }}
+    {{ else }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ end }}
