@@ -10,7 +10,31 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+
+  <p>Latest:
+  {{ with index site.RegularPages.ByDate.Reverse 0 }}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   {{ end }}
+  </p>
+
+  <ul>
+    {{ range .Sections.ByTitle }}
+      {{ template "walk" . }}
+    {{ end }}
+  </ul>
+
 {{ end }}
+
+{{- define "walk" }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{- with .Pages }}
+      <ul>
+        {{- range .ByTitle -}}
+          {{- template "walk" . -}}
+        {{- end }}
+      </ul>
+    {{- end }}
+  </li>
+{{- end -}}
