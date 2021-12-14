@@ -1,0 +1,10 @@
+# {{ .Title }}
+
+{{ $content := .RawContent -}}
+{{ $content := $content | replaceRE "`(.+?)`" "$1" -}}
+{{ $content := $content | replaceRE "`" "```" -}}
+{{ $content := $content | replaceRE "\\*(.+?)\\*" "$1" -}}
+{{ $content := $content | replaceRE " \\[(.+?)\\]\\((.+?)\\)" "\n\n=> $2 $1\n\n" -}}
+{{ $content := $content | replaceRE "\\[(.+?)\\]\\((.+?)\\)" "=> $2 $1" -}}
+{{ $content := $content | replaceRE "<!--more-->" "" -}}
+{{ $content }}
