@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+</head>
+<body>
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{ range site.Data.remote.pages }}
+  {{ $json := getJSON . }}
+  {{ $ctx := dict
+    "Title" $json.name
+    "Date" ($json.published_at | time.AsTime)
+    "Content" ($json.body | $.Page.RenderString)
+    "Site" site
+  }}
+  {{ $page := partial "remote.html" $ctx }}
+  {{ $targetPath := path.Join "remote" ($json.name | urlize) }}
+  {{ $href := (resources.FromString $targetPath $page).RelPermalink }}
+  <h2><a href="{{ $href }}">{{ $json.name }}</a></h2>
+{{ end }}
+
+</body>
+</html>

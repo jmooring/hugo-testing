@@ -1,0 +1,5 @@
+pages:
+  - https://api.github.com/repos/gohugoio/hugo/releases/tags/v0.91.0
+  - https://api.github.com/repos/gohugoio/hugo/releases/tags/v0.90.1
+  - https://api.github.com/repos/gohugoio/hugo/releases/tags/v0.90.0
+  - https://api.github.com/repos/gohugoio/hugo/releases/tags/v0.89.4
