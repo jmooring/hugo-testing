@@ -1,4 +1,129 @@
 {{ define "main" }}
+
+  <style>
+    table.hugodoc {
+      border-collapse: collapse;
+    }
+    table.hugodoc td {
+      vertical-align: text-top;
+    }
+    table.hugodoc td p {
+      margin-top: 0;
+    }
+    table.hugodoc-outer td {
+      border: 1px solid black;
+      padding: .1em .2em;
+    }
+    table.hugodoc-inner {
+      margin-bottom: 1em;
+    }
+    table.hugodoc-inner td {
+      border: 0;
+      padding-right: .6em;
+    }
+  </style>
+
+  {{ $files := slice
+    "layouts/shortcodes/spotify.html"
+  }}
+
+  {{- range $files -}}
+    {{- with partial "hugodoc" . }}
+      <h2>{{ .name }}</h2>
+      <table class="hugodoc hugodoc-outer">
+        <tbody>
+          <tr>
+            <td>Name</td>
+            <td>{{ .name }}</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td>{{ .type }}</td>
+          </tr>
+          <tr>
+            <td>Path</td>
+            <td>{{ .path }}</td>
+          </tr>
+          <tr>
+            <td>Summary</td>
+            <td>{{ .summary }}</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td>{{ .description | markdownify }}</td>
+          </tr>
+          <tr>
+            <td>Params</td>
+            <td>
+              {{- range $param := .params }}
+                <table class="hugodoc hugodoc-inner">
+                  {{- range $key := slice "name" "type" "required" "default" "description" -}}
+                    {{- if isset $param $key -}}
+                      {{- $val := index $param $key -}}
+                      {{- if ne $val "" }}
+                      <tr>
+                        <td>
+                          {{- $key | title -}}
+                        </td>
+                        <td>
+                          {{- if eq $key "description" -}}
+                            {{- $val = $val | markdownify -}}
+                          {{- end -}}
+                          {{- $val -}}
+                        </td>
+                      </tr>
+                      {{- end -}}
+                    {{- end -}}
+                  {{- end }}
+                </table>
+              {{- end -}}
+            </td>
+          </tr>
+          <tr>
+            <td>Returns</td>
+            <td>
+              {{- $returns := .returns }}
+              <table class="hugodoc hugodoc-inner">
+                {{- range $key := slice "type" "description" -}}
+                  {{- if isset $returns $key -}}
+                    {{- $val := index $returns $key }}
+                    <tr>
+                      <td>
+                        {{- $key | title -}}
+                      </td>
+                      <td>
+                        {{- if eq $key "description" -}}
+                          {{- $val = $val | markdownify -}}
+                        {{- end -}}
+                        {{- $val -}}
+                      </td>
+                    </tr>
+                  {{- end -}}
+                {{- end }}
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td>Examples</td>
+            <td>
+              {{- range .examples -}}
+                <code>{{ . }}</code><br>
+              {{- end -}}
+          </td>
+          </tr>
+          <tr>
+            <td>References</td>
+            <td>
+              {{- range .references -}}
+                {{- . | markdownify -}}<br>
+              {{- end -}}
+          </td>
+          </tr>
+        </tbody>
+      </table>
+    {{ end -}}
+  {{- end -}}
+
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}

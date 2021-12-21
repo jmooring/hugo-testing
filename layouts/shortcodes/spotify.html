@@ -1,0 +1,82 @@
+{{- /**
+Renders a Spotify Widget.
+
+Spotify Widgets provide an embeddable view of an album, artist, episode, playlist, podcast, or track for use within your web project.
+
+URLs for testing:
+
+- https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK
+- https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt
+- https://open.spotify.com/episode/6vF1O7PM10Q5gapP4WqmLv
+- https://open.spotify.com/playlist/37i9dQZF1DX3w9f3pg1Dyc
+- https://open.spotify.com/show/0dWpNy3iA6Mm3xYaHB2Zi9
+- https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM
+
+@param {string} url The URL for the album, artist, episode, playlist, show, or track.
+@param {string} [id=spotify-n] The `id` attribute of the `<iframe>` element. With the default value, `n` is the shortcode ordinal.
+@param {string} [class=spotify spotify-type] The `class` attribute of the `<iframe>` element. With the default value, `type` is the widget type (e.g, artist, album).
+@param {string} [width=100%] The `width` attribute of the `<iframe>` element.
+@param {string} [height=232 or 380] The `height` attribute of the `<iframe>` element. For shows and episodes, the default value is 232. For other widget types, the default value is 380.
+@param {string} [loading=lazy] The `loading` attribute of the `<iframe>` element.
+@param {bool}   [useTheme=true] Render using the Spotify theme? If `true`, the background color is automatically determined by content. If `false`, the background color is dark gray (`#282828`).
+
+@returns {text.HTML} A Spotify Widget.
+
+@example {{< spotify url="https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM" >}}
+@example {{< spotify url="https://open.spotify.com/show/0dWpNy3iA6Mm3xYaHB2Zi9" >}}
+
+@see <https://developer.spotify.com/documentation/widgets/>
+@see <https://developer.spotify.com/documentation/widgets/terms/>
+@see <https://www.spotify.com/us/legal/privacy-policy/>
+@see <https://support.spotify.com/us/article/gdpr-article-15-information/>
+*/ -}}
+
+{{- /* Default height by type. */ -}}
+{{- $defaultHeight := dict
+  "album" "380"
+  "artist" "380"
+  "episode" "232"
+  "playlist" "380"
+  "show" "232"
+  "track" "380"
+-}}
+
+{{- /* Get and parse url. */ -}}
+{{- $url := "" -}}
+{{- with .Get "url" -}}
+  {{- $url = . -}}
+{{- else -}}
+  {{- errorf "The %q shortcode requires a %q parameter. See %s" .Name "url" .Position -}}
+{{- end -}}
+{{- $path := (urls.Parse $url).Path -}}
+{{- $type := index (split $path "/" ) 1 -}}
+
+{{- /* Set attributes. */ -}}
+{{- $id := default (printf "spotify-%d" .Ordinal) (.Get "id") -}}
+{{- $class := default (printf "spotify spotify-%s" $type) (.Get "class") -}}
+{{- $width := default "100%" (.Get "width") -}}
+{{- $height := default (index $defaultHeight $type) (.Get "height") -}}
+{{- $loading := default "lazy" (.Get "loading") -}}
+{{- $useTheme := 1 -}}
+{{- if isset .Params "useTheme" -}}
+  {{- if in (slice false "false") (.Get "useTheme") -}}
+    {{- $useTheme = 0 -}}
+  {{- end -}}
+{{- end -}}
+{{- $src := printf "https://open.spotify.com/embed%s?theme=%d" $path $useTheme -}}
+
+{{- /* Render. */ -}}
+<iframe
+  src="{{ $src }}"
+  id="{{ $id }}"
+  class="{{ $class }}"
+  width="{{ $width }}"
+  height="{{ $height }}"
+  loading="{{ $loading }}"
+  frameBorder="0"
+  referrerpolicy="no-referrer"
+  allowfullscreen="allowfullscreen"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+></iframe>
+
+{{- /* Chomp trailing newlines. */ -}}

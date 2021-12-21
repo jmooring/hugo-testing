@@ -1,0 +1,72 @@
+{{ $path := . }}
+{{ $name := index (split (path.Base $path) ".") 0 }}
+{{ $type := index (split (path.Dir $path) "/" | last 1) 0 | singularize }}
+
+{{ $f := "" }}
+{{ if os.FileExists $path }}
+  {{ $f = os.ReadFile $path }}
+{{ else }}
+  {{ errorf "File not found: %q" $path }}
+{{ end }}
+
+{{ $docBlock := index (strings.FindRE `(?s){{-? ?/\*\*(.+?)\*/ ?-?}}` $f) 0 }}
+
+{{ $summary := index (strings.FindRE `(?m)^.+?\.` $docBlock) 0}}
+
+{{ $description := strings.ReplaceRE `(?s).+?\.(.*?)\n@.*` "$1" $docBlock }}
+{{ $description = strings.Trim $description "\n" }}
+{{ $description = strings.Trim $description " " }}
+
+{{ $params := slice }}
+{{ range strings.FindRE `(?m)^@param.*$` $docBlock }}
+  {{ $type := strings.ReplaceRE `.*{(.+)}.*` "$1" . }}
+  {{ $name := strings.ReplaceRE `.*}\s+(\[.*\]|.*?)\s+.*` "$1" . }}
+  {{ $required := true }}
+  {{ if and (strings.HasPrefix $name "[") (strings.HasSuffix $name "]") }}
+    {{ $required = false }}
+  {{ end }}
+  {{ $name := strings.Trim $name "[]" }}
+  {{ $default := "" }}
+  {{ if strings.Contains $name "=" }}
+    {{ $parts := strings.Split $name "=" }}
+    {{ $name = index $parts 0 }}
+    {{ $default = index $parts 1 }}
+  {{ end }}
+  {{ $description := strings.ReplaceRE `.*}\s+(\[.*\]|.*?)\s+-?\s*(.*)` "$2" .}}
+  {{ $param := dict
+    "name" $name
+    "type" $type
+    "required" $required
+    "default" $default
+    "description" $description
+  }}
+  {{ $params = $params | append $param }}
+{{ end }}
+
+{{ $returnsType := strings.ReplaceRE `(?s).*@returns\s+{(.+?)}.*` "$1" $docBlock }}
+{{ $returnsDescription := strings.ReplaceRE `(?s).*@returns\s+{.+?}\s+(.+?)\n.*` "$1" $docBlock }}
+{{ $returns := dict "type" $returnsType "description" $returnsDescription }}
+
+{{ $references := slice }}
+{{ range strings.FindRE `(?m)^@see.*$` $docBlock }}
+  {{ $references = $references | append (strings.ReplaceRE `@see\s+(.+)` "$1" .) }}
+{{ end }}
+
+{{ $examples := slice }}
+{{ range strings.FindRE `(?m)^@example.*$` $docBlock }}
+  {{ $examples = $examples | append (strings.ReplaceRE `@example\s+(.+)` "$1" .) }}
+{{ end }}
+
+{{ $m := dict
+  "description" $description
+  "examples" $examples
+  "name" $name
+  "params" $params
+  "path" $path
+  "references" $references
+  "returns" $returns
+  "summary" $summary
+  "type" $type
+}}
+
+{{ return $m }}
