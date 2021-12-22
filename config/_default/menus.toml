@@ -1,0 +1,29 @@
+[[top]]
+name = 'Home'
+pageref = '/'
+weight = 1
+[[top]]
+name = 'About'
+pageref = 'about'
+weight = 2
+[[top]]
+name = 'Contact'
+pageref = 'contact'
+weight = 3
+[[top]]
+name = 'Posts'
+pageref = '/posts'
+weight = 4
+
+[[art]]
+name = 'Post 1'
+pageref = '/posts/post-1'
+weight = 1
+[[art]]
+name = 'Post 2'
+pageref = '/posts/post-2'
+weight = 2
+[[art]]
+name = 'Post 3'
+pageref = '/posts/post-3'
+weight = 3

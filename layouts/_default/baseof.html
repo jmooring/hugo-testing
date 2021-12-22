@@ -6,6 +6,10 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+{{ partial "menu-top" . }}
+{{ partial "menu-art" . }}
+<hr>
+
 {{ block "main" . }}
 
 {{ end }}
