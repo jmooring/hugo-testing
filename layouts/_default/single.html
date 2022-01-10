@@ -1,4 +1,12 @@
 {{ define "main" }}
+
+<select onchange="location = this.value;">
+  {{ range .AllTranslations }}
+    {{ $selected := cond (eq $.Lang .Lang) "selected" "" | safeHTMLAttr }}
+    <option value="{{ .RelPermalink }}" {{ $selected }}>{{ .Language.LanguageName }}</option>
+  {{ end }}
+</select>
+
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
