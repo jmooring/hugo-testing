@@ -1,4 +1,23 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <h2>Hugo's Exif Data</h2>
+  {{ with .Resources.GetMatch "*.jpg" }}
+    {{ with .Exif }}
+      {{ with .Tags }}
+        .Lens = {{ .Lens }}<br>
+        .LensDataVersion = {{ .LensDataVersion }}<br>
+        .LensFStops = {{ .LensFStops }}<br>
+        .LensID = {{ .LensID }}<br>
+        .LensInfo = {{ .LensInfo }}<br>
+        .LensMake = {{ .LensMake }}<br>
+        .LensModel = {{ .LensModel }}<br>
+        .LensSerialNumber = {{ .LensSerialNumber }}<br>
+        .LensSpec = {{ .LensSpec }}<br>
+        .LensType = {{ .LensType }}<br><br>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}
