@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+  <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "collections" }}
+  <p>Collections:
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  </p>
+  {{ end }}
+
+  {{ .Content }}
+
+{{ end }}

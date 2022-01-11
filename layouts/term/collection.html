@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <ul>
+    {{ range (.Paginate .Pages.ByTitle).Pages }}
+      {{ .Render "li" }}
+    {{ end }}
+  </ul>
+  {{ template "_internal/pagination.html" . }}
+
+{{ end }}

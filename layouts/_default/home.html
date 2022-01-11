@@ -10,7 +10,11 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  {{ $p := site.Sections }}
+  {{ $p = $p | append (site.GetPage "collections") }}
+  {{ range $p }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
 {{ end }}
