@@ -1,4 +1,9 @@
 {{ define "main" }}
+
+{{ with resources.Get "test.js" }}
+  {{ . | minify }}
+{{ end }}
+
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
