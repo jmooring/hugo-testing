@@ -1,0 +1,38 @@
+{{- define "title" -}}
+    {{- .Title }} - {{ T .Data.Singular | default .Data.Singular }} - {{ .Site.Title -}}
+{{- end -}}
+
+{{- define "content" -}}
+    <div class="page archive">
+        {{- /* Title */ -}}
+        <h2 class="single-title animated pulse faster">
+            {{- $taxonomy := .Data.Singular -}}
+            {{- if eq $taxonomy "category" -}}
+                <i class="far fa-folder-open fa-fw"></i>&nbsp;{{ .Title }}
+            {{- else if eq $taxonomy "tag" -}}
+                <i class="fas fa-tag fa-fw"></i>&nbsp;{{ .Title }}
+            {{- else -}}
+                {{- printf "%v - %v" (T $taxonomy | default $taxonomy) .Title -}}
+            {{- end -}}
+        </h2>
+
+        {{- /* Paginate */ -}}
+        {{- if .Pages -}}
+        {{- $pages := .Pages -}}
+        {{- if ne (.Scratch.Get "output-format-lang") true -}}{{- range .Translations -}}
+            {{- $pages = $pages | lang.Merge .Pages -}}
+        {{- end -}}{{- end -}}
+        {{- $pages = where $pages "Params.deleted" "!=" true -}}
+            {{- $pager := $pages.GroupByDate "2006" -}}
+            {{- with .Site.Params.list.paginate | default .Site.Params.paginate -}}
+                {{- $pager = $.Paginate $pager . -}}
+            {{- else -}}
+                {{- $pager = .Paginate $pager -}}
+            {{- end -}}
+            {{- range $pager.PageGroups -}}
+	    {{- partial "archive-list" . -}}
+            {{- end -}}
+            {{- partial "paginator.html" . -}}
+        {{- end -}}
+    </div>
+{{- end -}}

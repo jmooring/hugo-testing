@@ -1,0 +1,79 @@
+{{- $params := .Params | merge .Site.Params.page -}}
+
+<article class="single summary h-entry" itemscope itemtype="http://schema.org/Article" lang="{{- .Language -}}">
+    {{- /* Featured image */ -}}
+    {{- $image := $params.featuredimagepreview | default $params.featuredimage -}}
+    {{- with .Resources.GetMatch "featured-image" -}}
+        {{- $image = .RelPermalink -}}
+    {{- end -}}
+    {{- with .Resources.GetMatch "featured-image-preview" -}}
+        {{- $image = .RelPermalink -}}
+    {{- end -}}
+    {{- with $image -}}
+        <div class="featured-image-preview">
+            <a href="{{ $.RelPermalink }}">
+                {{- dict "Src" . "Title" $.Description "Resources" $.Resources | partial "plugin/image.html" -}}
+            </a>
+        </div>
+    {{- end -}}
+
+    {{- /* Title */ -}}
+    <h2 class="single-title p-name" itemprop="name headline"><a class="u-url url" href="{{ .RelPermalink }}">{{ with .Title }}{{ . }}{{ else }}•••{{ end }}</a></h2>
+
+    {{- /* Meta */ -}}
+    <div class="post-meta">
+        {{- partial "post-author" . -}}
+
+		{{- $date := .PublishDate -}}{{- $permalink := .Permalink -}}
+        {{- with .Site.Params.dateFormat | default "2006-01-02" | .PublishDate.Format -}}
+            &nbsp;<span class="post-publish">
+		    {{- printf `<time class="dt-published" datetime="%v"><a class="u-url" href="%v" title="%v">%v</a></time>` ($date.Format "2006-01-02T15:04:05-0700") $permalink ($date.Format "02.01.2006 15:04 MST") (partial "plugin/date" (dict "date" $date "ctx" $)) | dict "Date" | T "publishedOnDate" | safeHTML -}}
+            </span>
+        {{- end -}}
+
+        {{- $categories := slice -}}
+        {{- range .Params.categories -}}
+            {{- $category := partialCached "function/path.html" . . | printf "/categories/%v" | $.Site.GetPage -}}
+            {{- $categories = $categories | append (printf `<a href="%v"><i class="far fa-folder fa-fw"></i>%v</a>` $category.RelPermalink $category.Title) -}}
+        {{- end -}}
+        {{- with delimit $categories "&nbsp;" -}}
+            &nbsp;<span class="post-category">
+		    {{ T "in" }} {{ . | safeHTML -}}
+            </span>
+        {{- end -}}
+    </div>
+
+    {{- /* Summary content */ -}}
+    <div class="content">
+	    {{- $trunc := false -}}
+	{{- with .Description -}}
+	{{- . | safeHTML -}}{{- $trunc = true -}}
+	{{- else -}}
+		{{- with .Params.translation_of -}}
+		<span class="h-cite u-translation-of"><i class="fas fa-share-square"></i> {{ partial "translation-of" . -}}</span>
+		{{- else -}}
+	    {{- if and (not .Truncated) (not (isset .Params "summary")) -}}
+                {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+		{{- else -}}{{- $trunc = true -}}
+                {{- with .Summary -}}
+                  {{- dict "Content" . "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+                {{- end -}}
+		{{- end -}}{{- end -}}
+        {{- end -}}
+    </div>
+
+    {{- /* Footer */ -}}
+    <div class="post-footer">
+	    {{- if $trunc -}}<a href="{{ .RelPermalink }}">{{ T "readMore" }} ➦</a>{{- end -}}&nbsp;
+        {{- with .Params.tags -}}
+            <div class="post-tags">
+                <i class="fas fa-tags fa-fw"></i>&nbsp;
+                {{- range $index, $value := . -}}
+                    {{- if gt $index 0 }},&nbsp;{{ end -}}
+                    {{- $tag := partialCached "function/path.html" $value $value | printf "/tags/%v" | $.Site.GetPage -}}
+                    <a href="{{ $tag.RelPermalink }}">{{ $tag.Title }}</a>
+                {{- end -}}
+            </div>
+        {{- end -}}
+    </div>
+</article>

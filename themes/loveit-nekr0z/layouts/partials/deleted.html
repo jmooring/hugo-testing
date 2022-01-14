@@ -1,0 +1,12 @@
+{{- define "title" }}{{ T "no_more" }} - {{ .Site.Title }}{{ end -}}
+
+    {{- $params := .Scratch.Get "params" -}}
+
+    <div class="page single"><article class="h-entry">
+        {{- /* Title */ -}}
+        <h1 class="single-title p-name">{{ T "no_more" }}</h1>
+
+        {{- /* Content */ -}}
+        <div class="content e-content" id="content">
+            {{- T "page_deleted" -}}
+        </div>

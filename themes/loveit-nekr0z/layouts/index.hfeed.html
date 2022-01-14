@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html class="h-feed">
+<head>
+    <meta charset="utf-8">
+	<title class="p-name">{{ .Site.Title }}</title>
+	<link class="u-url" href="{{ .Permalink }}" />
+	{{ with resources.Get "favicon.png" }}<link class="u-photo" href="{{ .Permalink }}" />{{ end }}
+</head>
+<body>
+	<div class="p-author" hidden>
+		{{ partialCached "home/h-card.html" . }}
+	</div>
+	{{- $pages := partialCached "pageset/real-pages-mlang.html" .Site -}}
+	{{ range $pages }}
+	<div class="h-entry">
+		<a href="{{ .Permalink }}" class="u-url">
+			{{ with .Title }}<h1 class="p-name">{{ . }}</h1>{{ end }}
+		</a>
+		{{ with .Date -}}
+		<time class="dt-published" datetime="{{ .Format "2006-01-02T15:04:05-0700"}}">{{ .Format "02 Jan 2006"}}</time>
+		{{- end }}
+		{{ with .Lastmod -}}
+		<time class="dt-updated" datetime="{{ .Format "2006-01-02T15:04:05-0700"}}">{{ .Format "02 Jan 2006"}}</time>
+		{{- end }}
+		<a class="u-uid" href="{{ .Permalink }}">&nbsp;</a>
+		{{ range .Params.posse -}}<a class="u-syndication" href="{{ . }}">&amp;</a>{{- end }}
+	</div>
+	{{ end }}
+</body>
+</html>

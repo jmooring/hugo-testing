@@ -1,0 +1,84 @@
+{{- $cdn := .Scratch.Get "cdn" | default dict -}}
+{{- $fingerprint := .Scratch.Get "fingerprint" -}}
+
+{{- if not .Site.Params.app.noFavicon -}}
+    {{- with .Site.Params.app.svgFavicon -}}
+        <link rel="icon" href="{{ . }}">
+    {{- else -}}
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    {{- end -}}
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    {{- with .Site.Params.app.iconColor -}}
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="{{ . }}">
+    {{- end -}}
+    <link rel="manifest" href="/site.webmanifest">
+{{ end -}}
+
+<link rel="openid.delegate" href="{{ .Site.BaseURL }}" />
+<link rel="openid.server" href="https://openid.indieauth.com/openid" />
+<link rel="me" href="{{- .Site.Author.link | default .Site.BaseURL -}}" />
+
+{{- with .Site.Params.WebmentionAccount }}
+<link rel="webmention" href="https://webmention.io/{{.}}/webmention" />
+<link rel="pingback" href="https://webmention.io/{{.}}/xmlrpc" />
+{{ end -}}
+
+<link rel="canonical" href="{{ .Permalink }}" />
+{{- $pages := partialCached "pageset/real-pages-mlang.html" .Site -}}
+{{- with $pages.Prev . -}}
+    <link rel="prev" href="{{ .Permalink }}" />
+{{- end -}}
+{{ with $pages.Next . }}
+    <link rel="next" href="{{ .Permalink }}" />
+{{- end -}}
+
+{{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Site.Language }}" href="{{ .Permalink }}" />
+{{- end -}}
+{{- if .IsTranslated }}
+<link rel="alternate" hreflang="{{ .Site.Language }}" href="{{ .Permalink }}" />
+{{ end }}
+
+{{- $theTitle := "" -}}
+{{- if or .IsHome (eq .Type "content") -}}
+    {{- $theTitle = .Site.Title -}}
+{{- else -}}
+    {{- $separator := (T "on") -}}
+    {{- $theTitle = printf "%s %s %s" (default .Title (T .Title)) $separator .Site.Title -}}
+{{- end -}}
+{{ range .AlternativeOutputFormats -}}
+    {{- if or (eq .Name "lang") (eq .Name "langrss") }}
+        {{- $thisTitle := printf `%s %s` $theTitle (T "lang_only") }}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $thisTitle | safeHTML }}
+    {{- else if eq .Name "commentsrss" -}}
+        {{- $comment := $.Scratch.Get "comment" | default dict -}}
+        {{- if $comment.enable -}}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s - %s" />` .Rel .MediaType.Type .Permalink $theTitle ( T "comment_rss" ) | safeHTML }}
+        {{- end -}}
+    {{- else -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $theTitle | safeHTML }}
+    {{ end -}}
+{{ end -}}
+
+{{- /* normalize.css */ -}}
+{{- $source := $cdn.normalizeCSS | default "lib/normalize/normalize.min.css" -}}
+{{- $style := dict "Source" $source "Fingerprint" $fingerprint -}}
+{{- partial "plugin/style.html" $style -}}
+
+{{- /* style.min.css */ -}}
+{{- $style := dict "Source" "css/style.scss" "Fingerprint" $fingerprint -}}
+{{- $options := dict "targetPath" "css/style.min.css" "enableSourceMap" true -}}
+{{- $style = dict "Context" . "ToCSS" $options | merge $style -}}
+{{- partial "plugin/style.html" $style -}}
+
+{{- /* Font Awesome */ -}}
+{{- $source := $cdn.fontawesomeFreeCSS | default "lib/fontawesome-free/all.min.css" -}}
+{{- $style := dict "Source" $source "Fingerprint" $fingerprint -}}
+{{- partial "plugin/style.html" $style -}}
+
+{{- /* Animate.css */ -}}
+{{- $source := $cdn.animateCSS | default "lib/animate/animate.min.css" -}}
+{{- $style := dict "Source" $source "Fingerprint" $fingerprint -}}
+{{- partial "plugin/style.html" $style -}}

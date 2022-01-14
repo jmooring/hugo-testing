@@ -1,0 +1,1 @@
+{{- if eq .ctx.Site.Language.Lang "ru" -}}{{ .date.Day }} {{ index .ctx.Site.Data.mes ( printf "%d" .date.Month ) }} {{ .date.Year }}{{- else -}}{{ .date.Format (.ctx.Site.Params.dateformat | default "Jan 02, 2006") }}{{- end -}}

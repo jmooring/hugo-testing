@@ -1,0 +1,1 @@
+{{- $p := dict "Rel" "me" "Name" .Site.Author.name "URL" (.Site.Author.link | default .Site.Home.Permalink) "Image" .Site.Author.image "Nickname" .Site.Author.nickname "Email" .Site.Params.Social.Email "Sex" .Site.Author.sex -}}{{- partial "plugin/h-card" $p -}}

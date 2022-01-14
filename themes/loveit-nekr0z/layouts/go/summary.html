@@ -1,0 +1,38 @@
+{{- $params := .Params | merge .Site.Params.page -}}
+
+<article class="single summary">
+    {{- /* Featured image */ -}}
+    {{- $image := $params.featuredimagepreview | default $params.featuredimage -}}
+    {{- with .Resources.GetMatch "featured-image" -}}
+        {{- $image = .RelPermalink -}}
+    {{- end -}}
+    {{- with .Resources.GetMatch "featured-image-preview" -}}
+        {{- $image = .RelPermalink -}}
+    {{- end -}}
+    {{- with $image -}}
+        <div class="featured-image-preview">
+            <a href="{{ $.RelPermalink }}">
+                {{- dict "Src" . "Title" $.Description "Resources" $.Resources | partial "plugin/image.html" -}}
+            </a>
+        </div>
+    {{- end -}}
+
+    {{- /* Title */ -}}
+    <h2 class="p-name" itemprop="name headline"><a class="u-url url" href="{{ .RelPermalink }}">{{ with .Title }}{{ . }}{{ else }}•••{{ end }}</a></h2>
+
+    {{- /* Summary content */ -}}
+    <div class="content">
+	    {{- $trunc := false -}}
+	{{- with .Description -}}
+	{{- . | safeHTML -}}{{- $trunc = true -}}
+	{{- else -}}
+			    {{- if and (not .Truncated) (not (isset .Params "summary")) -}}
+                {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+		{{- else -}}{{- $trunc = true -}}
+                {{- with .Summary -}}
+                  {{- dict "Content" . "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+                {{- end -}}
+		{{- end -}}
+        {{- end -}}
+    </div>
+</article>

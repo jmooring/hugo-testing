@@ -1,0 +1,30 @@
+{{- $params := .Scratch.Get "params" -}}
+{{ hugo.Generator }}
+
+<meta name="Description" content="{{ $params.description | default .Site.Params.description }}">
+
+{{- template "_internal/opengraph.html" . -}}
+{{- template "_internal/twitter_cards.html" . -}}
+
+<meta name="application-name" content="{{ .Site.Params.app.title | default .Site.Title }}">
+<meta name="apple-mobile-web-app-title" content="{{ .Site.Params.app.title | default .Site.Title }}">
+
+{{- with .Site.Params.app.themeColor -}}
+    <meta name="theme-color" content="{{ . }}">
+{{- end -}}
+
+{{- with .Site.Params.app.tileColor -}}
+    <meta name="msapplication-TileColor" content="{{ . }}">
+{{- end -}}
+
+{{- if eq .Type "go" -}}
+{{- $langcode := printf "/%s/" .Language.Lang -}}
+{{- $theurl := printf "%s/%s" (strings.TrimSuffix "/" .Site.BaseURL) (strings.TrimPrefix "/" (strings.TrimPrefix $langcode .RelPermalink)) -}}
+{{- $shorturl := strings.TrimSuffix "/" (strings.TrimPrefix "http://" (strings.TrimPrefix "https://" $theurl)) -}}
+{{- $direction := strings.TrimSuffix "/" ($params.Actually | default $theurl) }}
+
+    <meta name="go-import" content="{{ $shorturl }} git {{ $direction -}}">
+    {{- if hasPrefix $direction "https://github.com/" }}
+    <meta name="go-source" content="{{ $shorturl }} _ {{ printf "%s/tree/main{/dir}" $direction }} {{ printf "%s/blob/main/{/dir}/{/file}#L{line}" $direction }}">
+    {{ end -}}
+{{ end -}}

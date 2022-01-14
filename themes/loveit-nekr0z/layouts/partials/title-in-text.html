@@ -1,0 +1,5 @@
+{{- with .Title -}}{{- . -}}{{- else -}}
+{{- with .Params.like_of -}}👍 {{ . -}}{{- else -}}
+{{- with .Params.reply_to -}}{{- if gt (len .) 0 -}}℟ {{ index . 0 -}}{{- if gt (len .) 1 -}} &#8230;{{- end -}}{{- end -}}
+{{- else -}}{{- .Summary -}}
+{{- end -}}{{- end -}}{{- end -}}

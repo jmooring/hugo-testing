@@ -1,0 +1,47 @@
+{{- /* lazysizes and lightgallery.js */ -}}
+{{- $src := .Src -}}
+{{- $srcSmall := $src -}}
+{{- $srcMedium := $src -}}
+{{- $srcLarge := $src -}}
+{{- with dict "Path" .Src "Resources" .Resources | partial "function/resource.html" -}}
+    {{- $src = .RelPermalink -}}
+    {{- $srcSmall = $src -}}
+    {{- $srcMedium = $src -}}
+    {{- $srcLarge = $src -}}
+    {{- if or (eq .MediaType.SubType "jpeg") (eq .MediaType.SubType "png") -}}
+	{{- if gt .Width 320 -}}{{- $srcSmall = (.Resize "320x").RelPermalink -}}{{- end -}}
+	{{- if gt .Width 800 -}}{{- $src = (.Resize "800x").RelPermalink -}}{{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $small := .SrcSmall | default $srcSmall -}}
+{{- with dict "Path" .SrcSmall "Resources" .Resources | partial "function/resource.html" -}}
+    {{- $small = .RelPermalink -}}
+{{- end -}}
+
+{{- $large := .SrcLarge | default $srcLarge -}}
+{{- with dict "Path" .SrcLarge "Resources" .Resources | partial "function/resource.html" -}}
+    {{- $large = .RelPermalink -}}
+{{- end -}}
+
+{{- $alt := .Alt | default $src -}}
+{{- if .Linked -}}
+<a class="lightgallery" href="{{ $large | safeURL }}" title="{{ .Title | default $alt }}" data-thumbnail="{{ $small | safeURL }}"{{ with .Caption }} data-sub-html="<h2>{{ . }}</h2>{{ with $.Title }}<p>{{ . }}</p>{{ end }}"{{ end }}{{ with .Rel }} rel="{{ . }}"{{ end }}>
+        <img
+            class="lazyload{{ with .Class }} {{ . }}{{ end }}"
+            src="{{ $src | safeURL }}"
+            data-src="{{ $src | safeURL }}"
+	    data-srcset="{{ $src | safeURL }} 800w, {{ $small | safeURL }} 320w, {{ $large | safeURL }}"
+            data-sizes="auto"
+            alt="{{ $alt }}"{{ with .Height }} height="{{ . }}"{{ end }}{{ with .Width }} width="{{ . }}"{{ end }} />
+    </a>
+{{- else -}}
+    <img
+        class="lazyload{{ with .Class }} {{ . }}{{ end }}"
+        src="{{ $src | safeURL }}"
+        data-src="{{ $src | safeURL }}"
+	data-srcset="{{ $src | safeURL }} 800w, {{ $small | safeURL }} 320w, {{ $large | safeURL }}"
+        data-sizes="auto"
+        alt="{{ $alt }}"
+        title="{{ .Title | default $alt }}"{{ with .Height }} height="{{ . }}"{{ end }}{{ with .Width }} width="{{ . }}"{{ end }} />
+{{- end -}}

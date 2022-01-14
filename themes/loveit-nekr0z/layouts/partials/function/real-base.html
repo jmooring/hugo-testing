@@ -1,0 +1,7 @@
+{{- $base := "" -}}
+{{- if eq hugo.Environment "development" -}}
+{{- $base = (printf `https://%s` .Site.Params.WebmentionAccount) -}}
+{{- else -}}
+{{- $base = strings.TrimSuffix "/" .Site.BaseURL -}}
+{{- end -}}
+{{- return $base -}}

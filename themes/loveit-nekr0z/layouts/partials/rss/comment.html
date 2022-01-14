@@ -1,0 +1,28 @@
+{{- if or (eq hugo.Environment "development") (not (index . "wm-private")) -}}
+{{- $reactions := dict "in-reply-to" "replied" "like-of" "liked" "repost-of" "reposted" "bookmark-of" "bookmarked" "mention-of" "mentioned" "rsvp" "rsvped" "follow-of" "followed" -}}
+{{- $reaction := index $reactions (index . "wm-property" | default "") | default "reacted" -}}
+{{- $ssite := urls.Parse .url -}}{{- $source := $ssite.Host -}}{{- with .author.name -}}{{- $source = . -}}{{- end -}}
+<item>
+    <title>
+	    {{- index . "name" | default (T $reaction $source) | htmlUnescape -}}
+    </title>
+    <link>
+        {{- .url -}}
+    </link>
+    <pubDate>
+    {{- $date := index . "wm-received" | default (index . "published") -}}{{- with $date -}}{{- $d := time $date -}}
+    {{- $d.Format "Mon, 02 Jan 2006 15:04:05 -0700" -}}{{- end -}}
+    </pubDate>
+    <author>
+    {{- $source -}}
+    </author>
+    <guid>
+        {{- printf `%s_%s_%d` ( index . "wm-source" | default "none" ) ( index . "wm-target" | default "none" ) ( index . "wm-id" | int) | safeHTML -}}
+    </guid>
+    <description>
+        {{- "<![CDATA[" | safeHTML -}}
+        {{- $content := .content.html | default .content.text | default (printf `%s <a href="%s">%s</a>` (T $reaction $source) (index . "wm-target" | default "" ) (index . "wm-target" | default "")) -}}
+        {{- $content | safeHTML -}}
+        {{- "]]>" | safeHTML -}}
+    </description>
+</item>{{- end -}}

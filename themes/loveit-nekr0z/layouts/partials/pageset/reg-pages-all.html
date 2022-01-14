@@ -1,0 +1,5 @@
+{{- $pages := partialCached "pageset/reg-pages.html" .Site -}}
+{{- range .Site.Home.Translations -}}
+{{- $pages = $pages | union (partialCached "pageset/reg-pages.html" .Site .Site.Language) -}}
+{{- end -}}
+{{- return $pages -}}

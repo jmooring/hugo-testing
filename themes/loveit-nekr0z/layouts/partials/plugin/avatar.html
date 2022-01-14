@@ -1,0 +1,11 @@
+{{- $avatars := resources.Get "data/avatars.yml" | transform.Unmarshal -}}
+{{- if reflect.IsMap $avatars -}}{{- $avatars = index $avatars "avatars" -}}{{- end -}}
+{{- $avatar := "" -}}{{- $avatarDate := time "1970-01-01" -}}{{- $current := . -}}
+{{- range $avatars -}}
+    {{- $d := time .date -}}
+    {{- if and ($d.Before ($current)) ($d.After ($avatarDate)) -}}
+        {{- $avatarDate = $d -}}
+        {{- $avatar = .path -}}
+    {{- end -}}
+{{- end -}}
+{{- return $avatar -}}

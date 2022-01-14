@@ -1,0 +1,8 @@
+{{- $title := .Url -}}{{- with .Title -}}{{- $title = . -}}{{- end -}}
+{{- $link := printf "<a class=\"u-url\" href=\"%s\">%s</a>" .Url $title -}}
+{{- $orig_author := "" -}}
+{{- with .Author -}} 
+{{- $p := dict "Class" "p-author enh-hcard" "Name" .Name "URL" .Url -}}{{- $orig_author = partial "plugin/h-card" $p -}}
+{{- $orig_author = T "translationBy" $orig_author | safeHTML -}}
+{{- end -}}
+{{ T "translationOf" ( dict "Link" $link "By" $orig_author ) | safeHTML }}

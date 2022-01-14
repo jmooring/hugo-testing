@@ -1,0 +1,5 @@
+{{- range (.Scratch.Get "params").posse -}}
+{{- $posse := "" -}}
+{{- if hasPrefix . "https://twitter.com/" -}}{{ $posse = dict "icon" "fab fa-twitter fa-fw" "name" "Twitter" }}{{- end -}}
+{{- if or (hasPrefix . "https://facebook.com/") (hasPrefix . "https://www.facebook.com/") -}}{{ $posse = dict "icon" "fab fa-facebook-square fa-fw" "name" "Facebook" }}{{- end -}}<a href="{{- . -}}" class="u-syndication" rel="syndication"{{- with $posse }} title="{{ T "alsoOn" }}{{ .name -}}">{{- dict "Class" .icon | partial "plugin/icon.html" -}}{{- else }} hidden>{{- . -}}{{- end -}}</a>
+{{- end -}}

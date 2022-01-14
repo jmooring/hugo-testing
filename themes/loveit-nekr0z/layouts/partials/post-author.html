@@ -1,0 +1,6 @@
+{{- $params := .Params | merge .Site.Params.page -}}
+{{- $author := $params.author | default .Site.Author.name | default (T "author") -}}
+{{- $authorLink := $params.authorlink | default .Site.Author.link | default .Site.Home.Permalink -}}
+{{- $authorImage := $params.authorimage | default (partial "plugin/avatar" .Date) |  default .Site.Author.image -}}
+{{- $authorSex := $params.authorsex | default .Site.Author.sex -}}
+{{- $p := dict "Class" "author post-author p-author" "Name" $author "URL" $authorLink "Image" $authorImage "Sex" $authorSex -}}{{- partial "plugin/h-card" $p -}}

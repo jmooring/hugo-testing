@@ -1,0 +1,305 @@
+# Translations for Russian
+# Переводы на русский
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+[alsoOn]
+other = "Также опубликовано в "
+
+[all_lang]
+other = "Другие языки: выкл."
+
+[only_lang]
+other = "Другие языки: вкл."
+
+# === baseof ==
+[backToTop]
+other = "Наверх"
+
+[viewComments]
+other = "Посмотреть комментарии"
+# === baseof ==
+
+# === Post ===
+[events]
+other = "события"
+
+[posts]
+other = "записи"
+
+[reactions]
+other = "реакции"
+# === Post ===
+
+[page_deleted]
+other = "Тут была страница, но теперь она удалена. Так лучше."
+
+[no_more]
+other = "Этой страницы больше нет"
+
+[on]
+other = "на"
+
+[in]
+other = "в"
+
+[lang_only]
+other = "только на русском языке"
+
+[recent_content]
+other = "Свежие публикации"
+
+[recents]
+other = "Свежие"
+
+[Posts]
+other = "Записи"
+
+[Reactions]
+other = "Реакции"
+
+[Tags]
+other = "Тэги"
+
+[Categories]
+other = "Категории"
+
+# === Taxonomy ===
+[allSome]
+other = "Все {{ .Some }}"
+
+[tag]
+other = "Тэг"
+
+[tags]
+other = "тэги"
+
+[category]
+other = "Категория"
+
+[categories]
+other = "категории"
+# === Taxonomy ===
+
+# === Pagination ===
+[more]
+other = "Больше"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Выбор Языка"
+
+[switchTheme]
+other = "Сменить Тему"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "Сделано на {{ .Hugo }} & {{ .Theme }}"
+
+[poweredByHosting]
+other = "работает на {{ . }}"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "en"
+
+[valinePlaceholder]
+other = "Ваш комментарий ..."
+
+[facebookLanguageCode]
+other = "ru_RU"
+
+[bookmarked]
+other = "{{ . }} добавил(а) в закладки"
+
+[comments_are]
+other = "{{ .com }} — это {{ .wm }}."
+
+[comment_rss]
+other = "лента комментариев"
+
+[comments]
+other = "Комментарии"
+
+[enable_js]
+other = "Включите JavaScript, чтобы их увидеть."
+
+[followed]
+other = "{{ . }} добавил(а) в отслеживаемые"
+
+[liked]
+other = "{{ . }} лайкнул(а)"
+
+[mentioned]
+other = "{{ . }} упомянул(а)"
+
+[reacted]
+other = "{{ . }} отреагировал(а)"
+
+[replied]
+other = "{{ . }} ответил(а)"
+
+[reposted]
+other = "{{ . }} поделил[ся/ась]"
+
+[replies]
+other = "Ответы"
+
+[rsvped]
+other = "{{ . }} сообщил(а)"
+
+[webmentions]
+other = "вебменшены"
+
+[what]
+other = "Что?!"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Поиск"
+
+[searchPlaceholder]
+other = "Поиск заголовков или содержимого ..."
+
+[clear]
+other = "Очистить"
+
+[cancel]
+other = "Отменить"
+
+[noResultsFound]
+other = "Результатов не найдено"
+
+[lunrLanguageCode]
+other = "ru"
+
+[lunrLanguageLib]
+other = "lib/lunr/lunr.ru.js"
+
+[copyToClipboard]
+other = "Копировать в буфер обмена"
+
+[cookieconsentMessage]
+other = "Этот сайт использует Cookies для улучшения вашего опыта."
+
+[cookieconsentDismiss]
+other = "Согласен"
+
+[cookieconsentLink]
+other = "Учить больше"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Поделиться в"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "Содержание"
+
+[publishedOnDate]
+other = "написал {{ .Date }}"
+
+[includedInCategories]
+other = "написал в {{ .Categories }}"
+
+[wordCount]
+one = "{{. Count }} слово"
+few = "{{ .Count }} слова"
+many = "{{ .Count }} слов"
+other = "{{ .Count }} слов"
+
+[readingTime]
+one = "{{ .Count }} минута чтения"
+few = "{{ .Count }} минуты чтения"
+many = "{{ .Count }} минут чтения"
+other = "{{ .Count }} минут чтения"
+
+[views]
+other = "просмотров"
+
+[author]
+other = "Автор"
+
+[updatedOnDate]
+other = "Oбновлено {{ .Date }}"
+
+[readMarkdown]
+other = "Читать Markdown"
+
+[back]
+other = "Назад"
+
+[home]
+other = "Домой"
+
+[readMore]
+other = "читать дальше"
+
+[translationOf]
+other = "перевод публикации «{{ .Link }}»{{ .By }}"
+
+[translationBy]
+other = ", автор оригинала — {{ . }}"
+
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "Страница не найдена"
+
+[pageNotFoundText]
+other = "Извините, по этому адресу страницы нет; либо потерялась, либо и не было её никогда."
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "Замечание"
+
+[abstract]
+other = "Краткое описание"
+
+[info]
+other = "Инфо"
+
+[tip]
+other = "Совет"
+
+[success]
+other = "Удачто"
+
+[question]
+other = "Вопрос"
+
+[warning]
+other = "Предупреждение"
+
+[failure]
+other = "Отказ"
+
+[danger]
+other = "Опасность"
+
+[bug]
+other = "Ошибка"
+
+[example]
+other = "Пример"
+
+[quote]
+other = "Цитата"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "НОВЫЙ"
+
+[changed]
+other = "ИЗМЕНЕН"
+
+[deleted]
+other = "УДАЛЕН"
+# === shortcodes/version.html ===

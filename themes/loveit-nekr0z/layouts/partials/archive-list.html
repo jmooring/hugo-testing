@@ -1,0 +1,11 @@
+<h3 class="group-title">{{ .Key }}</h3>
+{{- range .Pages -}}
+    <article class="archive-item">{{- if .Params.deleted -}}<strike>{{- end -}}
+	<a href="{{ .RelPermalink }}" class="archive-item-link">
+	    {{- truncate 42 "..." (partial "title-in-list" .) -}}
+	</a>{{- if .Params.deleted -}}</strike>{{- end -}}
+	<span class="archive-item-date">
+	    {{- printf `<time class="dt-published" datetime="%v"><a class="u-url" href="%v" title="%v">%v</a></time>` (.Date.Format "2006-01-02T15:04:05-0700") .RelPermalink (.Date.Format "02.01.2006 15:04 MST") (partial "plugin/date-short" .) | safeHTML -}}
+	</span>
+    </article>
+{{- end -}}

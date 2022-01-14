@@ -1,0 +1,6 @@
+{{- $pages := .Site.RegularPages -}}
+{{- range .Site.Home.Translations -}}
+{{- $pages = $pages | lang.Merge .Site.RegularPages -}}
+{{- end -}}
+{{- $pages = where (where $pages "Type" "in" .Params.mainSections) "Params.deleted" "!=" true -}}
+{{- return $pages -}}

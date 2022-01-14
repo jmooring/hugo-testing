@@ -1,0 +1,32 @@
+footer {
+  height: 2rem;
+  width: 100%;
+  text-align: center;
+  line-height: 1.25rem;
+  padding: 1rem 0;
+  color: $global-font-secondary-color;
+  &[theme=dark] {
+    color: $global-font-secondary-color-dark;
+  }
+  
+  a {
+      color: inherit;
+      [theme=dark] & {
+          color: inherit;
+      }
+  }
+
+  .footer-container {
+    font-size: .875rem;
+
+    .footer-line {
+      width: 100%;
+
+      .icp-br {
+        display: none;
+      }
+    }
+  }
+
+  @include blur;
+}

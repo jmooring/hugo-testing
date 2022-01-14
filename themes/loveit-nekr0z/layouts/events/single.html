@@ -1,0 +1,110 @@
+{{- define "title" }}{{- partial "head/title.html" . -}}{{- end -}}
+
+{{- define "content" -}}
+    {{- $params := .Scratch.Get "params" -}}
+
+    {{- $toc := $params.toc -}}
+    {{- if eq $toc true -}}
+        {{- $toc = .Site.Params.page.toc | default dict -}}
+    {{- else if eq $toc false -}}
+        {{- $toc = dict "enable" false -}}
+    {{- end -}}
+
+    {{- /* Auto TOC */ -}}
+    {{- if ne $toc.enable false -}}
+        <div class="toc" id="toc-auto">
+            <h2 class="toc-title">{{ T "contents" }}</h2>
+            <div class="toc-content{{ if eq $toc.auto false }} always-active{{ end }}" id="toc-content-auto"></div>
+        </div>
+    {{- end -}}
+
+    <div class="page single h-event"><article>
+        {{- /* Title */ -}}
+	<h1 class="single-title animated pulse{{ with .Title }} p-name"><a class="u-url" href="{{ $.Permalink }}">{{ . }}{{ else }}"><a class="u-url" href="{{ $.Permalink }}">•••{{ end }}</a></h1>
+
+        {{- /* Subtitle */ -}}
+        {{- with $params.summary -}}
+            <h2 class="single-subtitle p-summary">{{ . }}</h2>
+        {{- end -}}
+
+        {{- /* Meta */ -}}
+        <div class="post-meta">
+            <div class="post-meta-line">
+                {{- partial "post-author" . -}}
+
+                {{- $categories := slice -}}
+                {{- range .Params.categories -}}
+                    {{- $category := partialCached "function/path.html" . . | printf "/categories/%v" | $.Site.GetPage -}}
+                    {{- $categories = $categories | append (printf `<a class="p-category" href="%v"><i class="far fa-folder fa-fw"></i>%v</a>` $category.RelPermalink $category.Title) -}}
+                {{- end -}}
+                {{- with delimit $categories "&nbsp;" -}}
+                    &nbsp;<span class="post-category">
+                        {{- dict "Categories" . | T "includedInCategories" | safeHTML -}}
+                    </span>
+                {{- end -}}
+            </div>
+            <div class="post-meta-line">
+		{{- with .Params.translation_of -}}
+		<span class="h-cite u-translation-of"><i class="fas fa-share-square"></i> {{ partial "translation-of" . }}</span>
+		{{- end -}}
+                {{- if eq $params.fediverse true -}}<a href="https://fed.brid.gy/"></a>{{- end -}}{{- if eq $params.twitter true -}}<a href="https://brid.gy/publish/twitter"></a>{{- end -}}{{- if eq $params.github true -}}<a href="https://brid.gy/publish/github"></a>{{- end -}}{{- range $params.syndicate -}}<a href="{{- . -}}" class="u-syndication"></a>{{- end -}}
+            </div>
+
+                {{- with .Params.reply_to -}}
+                        {{- range $i, $re := sort . -}}
+                        <div class="post-meta-line">
+                            <b><a href="{{ . | safeURL }}" class="u-in-reply-to"><i class="fab fa-replyd fa-lg"></i> {{ $re }}</a></b>
+                        </div>
+                        {{- end -}}
+                {{- end -}}
+        <div class="post-meta-line">
+                {{- with .Params.like_of -}}<h2><a href="{{ . }}" class="u-like-of"><i class="fas fa-thumbs-up"></i> {{ . }}</a></h2>{{- end -}}
+
+            </div>
+        </div>
+
+        {{- /* Featured image */ -}}
+        {{- $image := $params.featuredimage -}}
+        {{- with .Resources.GetMatch "featured-image" -}}
+            {{- $image = .RelPermalink -}}
+        {{- end -}}
+        {{- with $image -}}
+            <div class="featured-image">
+                {{- dict "Src" . "Title" $.Description "Resources" $.Resources | partial "plugin/image.html" -}}
+            </div>
+        {{- end -}}
+
+        {{- /* Static TOC */ -}}
+        {{- if ne $toc.enable false -}}
+            <div class="details toc {{ if $toc.keepStatic }}toc-kept{{ end }}" id="toc-static" >
+                <div class="details-summary toc-title">
+                    <span>{{ T "contents" }}</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static">
+                    {{- dict "Content" .TableOfContents "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+                </div>
+            </div>
+        {{- end -}}
+
+        {{- /* Content */ -}}
+        <div class="content e-content p-description" id="content">
+            {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+        </div>
+		{{- $day := false -}}
+		{{- with .Params.start -}}{{- $dtstart := . -}}{{- with $.Params.end -}}{{- if and (eq .Year $dtstart.Year) (and (eq .Month $dtstart.Month) (eq .Day $dtstart.Day)) -}}<div><b><i class="fas fa-calendar-day"></i></b>&nbsp;{{ partial "plugin/date" (dict "date" . "ctx" $) }}{{- $day = true -}}</div>{{- end -}}{{- end -}}
+		<div><b><i class="fas fa-hourglass-start"></i></b>&nbsp;<time class="dt-start" datetime="{{ .Format "2006-01-02T15:04:05-0700" }}">{{- if not $day -}}{{ partial "plugin/date" (dict "date" . "ctx" $) }} в {{ end }}{{ .Format "15:04 MST" }}</time>&nbsp;<br></div>{{- end -}}
+		{{- with .Params.end -}}<div><b><i class="fas fa-hourglass-end"></i></b>&nbsp;<time class="dt-end" datetime="{{ .Format "2006-01-02T15:04:05-0700" }}">{{ if not $day }}{{ partial "plugin/date" (dict "date" . "ctx" $) }} в {{ end }}{{ .Format "15:04 MST" }}</time></div>{{- end -}}
+		{{- with .Params.location -}}<div class="p-location
+		{{- with .name }} h-card{{- end -}}
+		">
+			<b><i class="fas fa-map-marker-alt"></i></b>&nbsp;{{- with .url -}}<a class="u-url show-link" href="{{- . -}}">{{- end -}}{{- with .name -}}<span class="p-name">{{- . -}}</span>{{- end -}}{{- with .url -}}</a>{{- end -}}
+		</div>{{- end -}}
+    </article>
+        {{- /* Footer */ -}}
+        {{- partial "single/footer.html" . -}}
+
+        {{- /* Comment */ -}}
+        {{- partial "comment.html" . -}}
+    </div>
+{{- end -}}

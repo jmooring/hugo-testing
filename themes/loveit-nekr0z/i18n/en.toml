@@ -1,0 +1,297 @@
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+[alsoOn]
+other = "Also published on "
+
+[all_lang]
+other = "Other languages: off"
+
+[only_lang]
+other = "Other languages: on"
+
+# === baseof ==
+[backToTop]
+other = "Back to Top"
+
+[viewComments]
+other = "View Comments"
+# === baseof ==
+
+# === Post ===
+[events]
+other = "Events"
+
+[posts]
+other = "Posts"
+
+[reactions]
+other = "Reactions"
+# === Post ===
+
+[page_deleted]
+other = "There was a page here, but it was deleted. It's better this way."
+
+[no_more]
+other = "This page is no more."
+
+[on]
+other = "on"
+
+[in]
+other = "in"
+
+[lang_only]
+other = "in English only"
+
+[recent_content]
+other = "Recent content"
+
+[recents]
+other = "Recent"
+
+[Posts]
+other = "Posts"
+
+[Reactions]
+other = "Reactions"
+
+[Tags]
+other = "Tags"
+
+[Categories]
+other = "Categories"
+
+# === Taxonomy ===
+[allSome]
+other = "All {{ .Some }}"
+
+[tag]
+other = "Tag"
+
+[tags]
+other = "Tags"
+
+[category]
+other = "Category"
+
+[categories]
+other = "Categories"
+# === Taxonomy ===
+
+# === Pagination ===
+[more]
+other = "More"
+# === Pagination ===
+
+# === partials/header.html ===
+[selectLanguage]
+other = "Select Language"
+
+[switchTheme]
+other = "Switch Theme"
+# === partials/header.html ===
+
+# === partials/footer.html ===
+[poweredBySome]
+other = "Built with {{ .Hugo }} & {{ .Theme }}"
+
+[poweredByHosting]
+other = "powered by {{ . }}"
+# === partials/footer.html ===
+
+# === partials/comment.html ===
+[valineLang]
+other = "en"
+
+[valinePlaceholder]
+other = "Your comment ..."
+
+[facebookLanguageCode]
+other = "en_US"
+
+[bookmarked]
+other = "{{ . }} bookmarked"
+
+[comments_are]
+other = "{{ .com }} are {{ .wm }}."
+
+[comments]
+other = "Comments"
+
+[comment_rss]
+other = "comments feed"
+
+[enable_js]
+other = "Enable JavaScript to see them."
+
+[followed]
+other = "{{ . }} followed"
+
+[liked]
+other = "{{ . }} liked"
+
+[mentioned]
+other = "{{ . }} mentioned"
+
+[reacted]
+other = "{{ . }} reacted"
+
+[replied]
+other = "{{ . }} replied"
+
+[reposted]
+other = "{{ . }} shared"
+
+[replies]
+other = "Replies"
+
+[rsvped]
+other = "{{ . }} RSVPed"
+
+[webmentions]
+other = "webmentions"
+
+[what]
+other = "What?!"
+# === partials/comment.html ===
+
+# === partials/assets.html ===
+[search]
+other = "Search"
+
+[searchPlaceholder]
+other = "Search titles or contents..."
+
+[clear]
+other = "Clear"
+
+[cancel]
+other = "Cancel"
+
+[noResultsFound]
+other = "No results found"
+
+[lunrLanguageCode]
+other = "en"
+
+[copyToClipboard]
+other = "Copy to clipboard"
+
+[cookieconsentMessage]
+other = "This website uses Cookies to improve your experience."
+
+[cookieconsentDismiss]
+other = "Got it!"
+
+[cookieconsentLink]
+other = "Learn more"
+# === partials/assets.html ===
+
+# === partials/plugin/share.html ===
+[shareOn]
+other = "Share on"
+# === partials/plugin/share.html ===
+
+# === posts/single.html ===
+[contents]
+other = "Contents"
+
+[publishedOnDate]
+other = "wrote on {{ .Date }}"
+
+[includedInCategories]
+other = "wrote in {{ .Categories }}"
+
+[wordCount]
+one = "One word"
+other = "{{ .Count }} words"
+
+[readingTime]
+one = "One minute to read"
+other = "{{ .Count }} minutes to read"
+
+[views]
+other = "views"
+
+[author]
+other = "Author"
+
+[updatedOnDate]
+other = "Updated on {{ .Date }}"
+
+[readMarkdown]
+other = "Read Markdown"
+
+[back]
+other = "Back"
+
+[home]
+other = "Home"
+
+[readMore]
+other = "read more"
+
+[translationOf]
+other = "translation of \"{{ .Link }}\"{{ .By }}"
+
+[translationBy]
+other = " by {{ . }}"
+
+# === posts/single.html ===
+
+# === 404.html ===
+[pageNotFound]
+other = "Page not found"
+
+[pageNotFoundText]
+other = "Sorry, there's no page at this address. It could have been misplaced or never existed in the first place."
+# === 404.html ===
+
+# === shortcodes/admonition.html ===
+[note]
+other = "Note"
+
+[abstract]
+other = "Abstract"
+
+[info]
+other = "Info"
+
+[tip]
+other = "Tip"
+
+[success]
+other = "Success"
+
+[question]
+other = "Question"
+
+[warning]
+other = "Warning"
+
+[failure]
+other = "Failure"
+
+[danger]
+other = "Danger"
+
+[bug]
+other = "Bug"
+
+[example]
+other = "Example"
+
+[quote]
+other = "Quote"
+# === shortcodes/admonition.html ===
+
+# === shortcodes/version.html ===
+[new]
+other = "NEW"
+
+[changed]
+other = "CHANGED"
+
+[deleted]
+other = "DELETED"
+# === shortcodes/version.html ===

@@ -1,0 +1,1 @@
+{{- if .Params.deleted -}}{{ T "no_more" }} - {{ .Site.Title }}{{- else -}}{{- with .Title -}}{{ . }}{{- else -}}{{ .Site.Title }}{{- end -}}{{- end -}}

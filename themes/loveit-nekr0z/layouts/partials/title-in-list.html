@@ -1,0 +1,16 @@
+{{- with .Title -}}
+    {{- . -}}
+{{- else -}}
+    {{- with .Params.like_of -}}
+        <i class="fas fa-thumbs-up"></i> {{ . -}}
+    {{- else -}}
+        {{- with .Params.reply_to -}}
+            {{- if gt (len .) 0 -}}<i class="fab fa-replyd fa-lg"></i> {{ index . 0 -}}
+                {{- if gt (len .) 1 -}} &#8230;
+                {{- end -}}
+            {{- end -}}
+        {{- else -}}
+            {{- .Summary | replaceRE `<\/?p>` `` | replaceRE `&rsquo;` `'` -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}

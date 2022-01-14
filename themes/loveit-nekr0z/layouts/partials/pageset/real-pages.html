@@ -1,0 +1,2 @@
+{{- $pages := where (where .RegularPages "Type" "in" .Params.mainSections) "Params.deleted" "!=" true -}}
+{{- return $pages -}}

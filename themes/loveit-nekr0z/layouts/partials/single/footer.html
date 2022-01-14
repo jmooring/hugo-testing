@@ -1,0 +1,77 @@
+{{- $params := .Scratch.Get "params" -}}
+
+<div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">{{- $delta := .Date.Sub .Lastmod -}}{{- if lt $delta.Hours -12 -}}
+            <div class="post-info-mod">
+                <span>
+		    {{- $date := partial "plugin/date" (dict "date" .Lastmod "ctx" .) -}}
+                        <time class="dt-updated" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05-0700" }}"><a href="{{ $.Permalink }}" title="{{ .Lastmod.Format "02.01.2006 15:04 MST" }}">{{- dict "Date" $date | T "updatedOnDate" -}}</a></time>
+                        {{- if $.Site.Params.gitRepo -}}
+                            {{- with $.GitInfo -}}
+                                &nbsp;<a class="git-hash" href="{{ printf `%v/commit/%v` $.Site.Params.gitRepo .Hash }}" target="_blank" title="commit by {{ .AuthorName }}({{ .AuthorEmail }}) {{ .Hash }}: {{ .Subject }}">
+                                    <i class="fas fa-hashtag fa-fw"></i>{{- .AbbreviatedHash -}}
+                                </a>
+                            {{- end -}}
+                        {{- end -}}
+                </span>
+            </div>{{- end -}}
+            <div class="post-info-license">
+                {{- with $params.license | string -}}
+                    <span>
+                        {{- . | safeHTML -}}
+                    </span>
+                {{- end -}}
+            </div>
+            <div class="post-info-share">
+                <span>
+                    {{- partial "plugin/posse.html" . -}}
+                </span>
+            </div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md">
+                {{- if $params.linktomarkdown -}}
+                    {{- with .OutputFormats.Get "markdown" -}}
+                        <span>
+                            <a class="link-to-markdown" href="{{ .RelPermalink }}" target="_blank">
+                                {{- T "readMarkdown" -}}
+                            </a>
+                        </span>
+                    {{- end -}}
+                {{- end -}}
+            </div>
+            <div class="post-info-share">
+                <span>
+                    {{- partial "plugin/share.html" . -}}
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <div class="post-tags">
+            {{- with .Params.tags -}}
+                <i class="fas fa-tags fa-fw"></i>&nbsp;
+                {{- range $index, $value := . -}}
+                    {{- if gt $index 0 }},&nbsp;{{ end -}}
+                    {{- $tag := partialCached "function/path.html" $value $value | printf "/tags/%v" | $.Site.GetPage -}}
+                    <a class="p-category" href="{{ $tag.RelPermalink }}">{{ $tag.Title }}</a>
+                {{- end -}}
+            {{- end -}}
+        </div>
+        <div class="back-home-nav">
+            <span><a href="javascript:void(0);" onclick="window.history.back();">{{ T "back" }}</a></span>&nbsp;|&nbsp;<span><a href="{{ .Site.Home.RelPermalink }}">{{ T "home" }}</a></span>
+        </div>
+    </div>
+
+{{- $pages := partialCached "pageset/real-pages-mlang.html" .Site -}}
+    <div class="post-nav">
+        {{- with $pages.Prev . -}}
+            <a href="{{ .RelPermalink }}" class="prev" rel="prev" title="{{- truncate 42 "..." (partial "title-in-list" .) -}}"><i class="fas fa-angle-left fa-fw"></i>{{- truncate 42 "..." (partial "title-in-list" .) -}}</a>
+        {{- end -}}
+        {{ with $pages.Next . }}
+            <a href="{{ .RelPermalink }}" class="next" rel="next" title="{{- truncate 42 "..." (partial "title-in-list" .) -}}">{{- truncate 42 "..." (partial "title-in-list" .) -}}<i class="fas fa-angle-right fa-fw"></i></a>
+        {{- end -}}
+    </div>
+</div>

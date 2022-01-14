@@ -1,0 +1,105 @@
+#webmentions {
+    margin: 0;
+    position: relative;
+    z-index: 100;
+    line-height: 1.2em;
+}
+
+#webmentions .comments {
+    font-size: 80%;
+}
+
+#webmentions h2 {
+    font-size: medium;
+    margin: 0;
+    padding: 2px;
+}
+
+#webmentions .reacts img {
+    margin: 3px -1ex 1px 0;
+}
+
+#webmentions img.u-photo {
+    display: inline-block;
+    max-height: 1.3em;
+    max-width: 1.3em;
+    border-radius: 50%;
+    vertical-align: sub;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#webmentions .h-card .fa-user-circle {
+    font-size: 1.3em;
+}
+
+#webmentions .reacts img.u-photo {
+    margin-right: -1ex;
+}
+
+#webmentions .reacts .fa-user-circle {
+    margin-right: -0.5ex;
+}
+
+#webmentions .reaction span:not(.h-card) {
+    display: none;
+}
+
+#webmentions ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 4px;
+}
+
+#webmentions li {
+    text-indent: 0;
+    padding-left: 0;
+}
+
+#webmentions a.reaction {
+    position: relative;
+    text-decoration: none;
+    text-shadow: 0px 0px 3px var(--color-b);
+    margin-right: 0;
+    letter-spacing: -1ex;
+    margin-right: 1ex;
+}
+
+#webmentions a.reaction img {
+    max-height: 1.3em;
+    margin-right: -1ex;
+    border-radius: 50%;
+}
+
+#webmentions a.reaction sub {
+    font-size: 95%;
+}
+
+#webmentions .comments li {
+    white-space: normal;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding: 4px;
+    padding-left: 0;
+}
+
+#webmentions .comments li .text {
+    color: var(--color-s);
+    font-style: italic;
+    text-decoration: none;
+}
+
+#webmentions .comments li .p-name {
+    color: var(--color);
+}
+
+#webmention_exp {
+    text-align: center;
+    font-size: 0.8em;
+    color: var(--color-s);
+}
+
+#webmention_exp a {
+    text-decoration: none;
+    color: inherit;
+}

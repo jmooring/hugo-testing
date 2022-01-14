@@ -1,0 +1,12 @@
+{{- $wm := .WM | default . -}}
+{{- $iscomment := .IC | default false -}}
+{{- $icons := dict "in-reply-to" "far fa-comment" "like-of" "far fa-heart" "repost-of" "far fa-clone" "bookmark-of" "far fa-bookmark" "mention-of" "far fa-comment-dots" "rsvp" "far fa-calendar-alt" "follow-of" "far fa-bell" -}}
+{{- $reactions := dict "in-reply-to" "replied" "like-of" "liked" "repost-of" "reposted" "bookmark-of" "bookmarked" "mention-of" "mentioned" "rsvp" "rsvped" "follow-of" "followed" -}}
+{{- $rsvps := dict "yes" "far fa-calendar-check" "no" "far fa-calendar-times" "interested" "far fa-calendar-plus" "maybe" "far fa-calendar" -}}
+{{- $icon := index $icons (index $wm "wm-property" | default "") | default "far fa-comment-alt" -}}
+{{- with $wm.rsvp -}}{{- $icon = index $rsvps . | default $icon -}}{{- end -}} 
+{{- $reaction := index $reactions (index $wm "wm-property" | default "") | default "reacted" -}}
+{{- $ssite := urls.Parse $wm.url -}}{{- $source := $ssite.Host -}}{{- with $wm.author.name -}}{{- $source = . -}}{{- end -}}<a class="reaction u-url" rel="nofollow ugc" title="{{- T $reaction $source -}}" href="{{- $wm.url -}}">
+{{- if not $iscomment -}}<sub>{{- end -}}
+<i class="{{- $icon -}}"></i></a>
+{{- if not $iscomment -}}</sub>{{- end -}}

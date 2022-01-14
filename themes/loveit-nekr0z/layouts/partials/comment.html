@@ -1,0 +1,62 @@
+{{- $cdn := .Scratch.Get "cdn" | default dict -}}
+{{- $fingerprint := .Scratch.Get "fingerprint" -}}
+{{- $comment := .Scratch.Get "comment" | default dict -}}
+
+{{- if $comment.enable -}}
+    <div id="comments">
+	{{- $wmsjson := .Resources.GetMatch "webmentions.json" -}}
+	{{- with $wmsjson -}}{{- $wms := . | unmarshal }}
+	<div id="webmentions" class="comment">
+		{{- /* can be a simple array as well as a feed: */ -}}
+		{{- if reflect.IsMap $wms -}}{{- $wms = index $wms "children" -}}{{- end -}}
+		{{- $react := slice "like-of" "repost-of" "bookmark-of" "follow-of" -}}
+		{{- $replies := slice -}}
+		{{- $reactions := slice -}}
+		{{- range $wms }}
+		{{- if reflect.IsMap . -}}
+		{{- if in $react (index . "wm-property") -}}{{- $reactions = $reactions | append . -}}{{- else -}}{{- $replies = $replies | append . -}}{{- end -}}
+		{{- end -}}
+		{{- end -}}
+		{{- if gt (len $replies) 0 }}
+		<h2>{{ T "replies" }}</h2>
+		<ul class="comments">
+			{{ range $replies -}}
+			{{- if or (eq hugo.Environment "development") (not (index . "wm-private")) -}}
+			<li class="p-comment h-cite u-comment">
+				{{- $card := dict "Class" "enh-hcard source u-author" "Rel" "nofollow ugc" -}}
+				{{- $url := (urls.Parse .url).Host -}}
+				{{- with .author.url -}}{{- $url = . -}}{{- end -}}
+				{{- $card = dict "URL" $url | merge $card -}}
+				{{- with .author.name -}}{{- $card = dict "Name" . | merge $card -}}{{- end -}}
+				{{- with .author.photo -}}{{- $card = dict "Image" . | merge $card -}}{{- end -}}
+				{{- $lclass := "name" -}}{{- $ltext := T "mention" -}}
+				{{- $u := .url -}}{{- with .name -}}{{- $ltext = . -}}{{- else -}}{{- with .content.text -}}{{- $lclass = "text p-content" -}}{{- $ltext = . -}}{{- if ne $u nil -}}{{- $ltext = . | truncate 1000 ( printf "…\n%s %s" (T "readMore") "➦") -}}{{- end -}}{{- end -}}{{- end -}}
+				{{- partial "plugin/h-card.html" $card }} {{ partial "function/reaction-image.html" (dict "WM" . "IC" true) }} <a class="{{- $lclass -}}" href="{{- .url -}}">{{- $ltext -}}</a></li>{{- end -}}
+			{{- $.Page.Scratch.SetInMap "this" "personcard" true -}}
+			{{ end }}
+		</ul>
+		{{- end }}
+		{{- if gt (len $reactions) 0 }}
+		<h2>{{ T "Reactions" }}</h2>
+		<ul class="reacts">
+			{{- range $reactions -}}
+				<span class="u-like h-cite">
+				{{- $card := dict "Class" "enh-hcard reaction u-author" "Rel" "nofollow ugc" -}}
+				{{- with .author.url -}}{{- $card = dict "URL" . | merge $card -}}{{- end -}}
+				{{- with .author.name -}}{{- $card = dict "Name" . | merge $card -}}{{- end -}}
+				{{- with .author.photo -}}{{- $card = dict "Image" . | merge $card -}}{{- end -}}
+			{{- partial "plugin/h-card.html" $card -}}{{- partial "function/reaction-image.html" . -}}
+				</span>{{- end -}}
+		</ul>
+		{{- end }}
+	</div>
+	{{ end }}
+    {{- $commentsrss := "" -}}
+    {{- with .OutputFormats.Get "commentsrss" -}}{{- $commentsrss = .RelPermalink -}}{{- end -}}
+    {{- $webmentions := (printf `<a href="%s" title="%s">%s</a>` ( "/webmentions" | relLangURL ) ( T "what" ) (T "webmentions") | safeHTML) }}
+    {{- $comments := (printf `<a href="%s" title="%s">%s</a>` $commentsrss ( T "comment_rss" ) (T "comments") | safeHTML) }}
+    {{- $t := dict "wm" $webmentions "com" $comments -}}
+    <div id="webmention_exp">{{- with $t -}}{{ T "comments_are" . | safeHTML }}{{- end -}}</div>
+    {{- dict "Source" "css/webmention.css" "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
+    </div>
+{{- end -}}

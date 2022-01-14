@@ -1,0 +1,7 @@
+{{- $class := "" -}}
+{{- $img := .Page.Resources.GetMatch .Destination -}}
+{{- with $img -}}
+{{- $featured := in $img.Name "feature" -}}
+{{- if $featured -}}{{- $class = "u-photo" -}}{{- end -}}
+{{- end -}}
+{{- dict "Src" .Destination "Alt" .Text "Title" .Title "Resources" .Page.Resources "Class" $class | partial "plugin/image.html" -}}
