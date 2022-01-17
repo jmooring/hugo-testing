@@ -9,6 +9,9 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+  <p>Contents:</p>
+  {{ .TableOfContents }}
+  <hr>
   {{ .Content }}
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>

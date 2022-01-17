@@ -1,0 +1,40 @@
+{{- if (strings.FindRE `{{%\s+highlight.+%}}` .Page.RawContent) -}}
+  {{- $msg := "The %q shortcode must be called using the \"{{< highlight >}}\" notation. See %s" -}}
+  {{- errorf "highlight-shortcode-notation" $msg .Name .Position -}}
+{{- end -}}
+
+{{- /* Trim trailing whitespace. */ -}}
+{{- $inner := strings.TrimRight " \t" .Inner -}}
+
+{{- /* Trim leading and trailing end of line sequences. */ -}}
+{{- $inner = strings.Trim $inner "\n\r" -}}
+
+{{- /* Determine number of characters used to indent shortcode. */ -}}
+{{- $indentationOffset := sub (strings.ReplaceRE `.+:(\d*).+` "$1" .Position | int) 1 -}}
+
+{{- if $indentationOffset -}}
+
+  {{- /* Normalize end of line sequence. */ -}}
+  {{- $inner = strings.Replace $inner "\r\n" "\n" -}}
+
+  {{- /* Split inner into individual lines. */ -}}
+  {{- $lines := strings.Split $inner "\n" -}}
+
+  {{- /* Remove indentation caused by position of shortcode on page. */ -}}
+  {{- $trimmedLines := slice -}}
+  {{- range $lines -}}
+    {{- /* Determine indentation character by looking at first character. */ -}}
+    {{- $indentationCharacter := substr . 0 1 -}}
+    {{- $trimmedLines = $trimmedLines | append (strings.TrimPrefix (strings.Repeat $indentationOffset $indentationCharacter) . ) -}}
+  {{- end -}}
+
+  {{- /* Put the lines back together. */ -}}
+  {{- $inner = delimit $trimmedLines "\n" -}}
+
+{{- end -}}
+
+{{- if len .Params | eq 2 -}}
+  {{- highlight $inner (.Get 0) (.Get 1) -}}
+{{- else -}}
+  {{- highlight $inner (.Get 0) -}}
+{{- end -}}
