@@ -13,4 +13,15 @@
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
+
+  <pre>Input:  {{ .Summary }}
+        12345678901234567890123456789012345678901234567890</pre>
+  <hr>
+
+  {{ range seq 1 50 }}
+    {{ $truncated := partial "truncate" (dict "input" $.Summary "maxLength" .) }}
+    <pre>{{ $truncated }} (max = {{ . }} actual = {{ strings.RuneCount $truncated }} )</pre>
+  {{ end }}
+
 {{ end }}
