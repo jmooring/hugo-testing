@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+{{ $key := path.Base .TranslationKey }}
+
+{{ with resources.GetMatch (printf "examples/%s.*" $key) }}
+  <h2>Code</h2>
+  {{ $lang := path.Ext .Name | strings.TrimLeft "."  }}
+  {{ $options := slice "lineNos=table" "style=native" }}
+  {{ transform.Highlight .Content $lang (delimit $options ",") }}
+{{ end }}
+
+{{ with index site.Data.examples $key }}
+  <h2>Data</h2>
+  Author: {{ .author }}<br>
+  Output: {{ .output }}<br>
+{{ end }}
+
+{{ end }}

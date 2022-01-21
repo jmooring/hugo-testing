@@ -1,0 +1,14 @@
+{
+  "example-1": {
+    "author": "Victor Hugo",
+    "output": "Hello World"
+  },
+  "example-2": {
+    "author": "John Smith",
+    "output": "Hello World"
+  },
+  "example-3": {
+    "author": "Robert Jones",
+    "output": "Hello World"
+  }
+}
