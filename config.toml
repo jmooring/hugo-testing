@@ -1,3 +1,40 @@
-baseURL = 'https://example.org/'
+defaultContentLanguage = 'en_us'
+defaultContentLanguageInSubdir = true
+
+[languages.en_us]
+baseURL = 'https://example.com'
 languageCode = 'en-us'
-title = 'Hugo Forum Topic #36716'
+title = 'Hugo Forum Topic #36716 (en_us)'
+weight = 1
+[languages.en_gb]
+baseURL = 'https://example.co.uk'
+languageCode = 'en-gb'
+title = 'Hugo Forum Topic #36716 (en_gb)'
+weight = 2
+[languages.es]
+baseURL = 'https://example.es'
+languageCode = 'es-es'
+title = 'Hugo Forum Topic #36716 (es)'
+weight = 3
+[languages.fr]
+baseURL = 'https://example.fr'
+languageCode = 'fr-fr'
+title = 'Hugo Forum Topic #36716 (fr)'
+weight = 4
+
+[[module.mounts]]
+source = 'content/en'
+target = 'content'
+lang = 'en_us'
+[[module.mounts]]
+source = 'content/en'
+target = 'content'
+lang = 'en_gb'
+[[module.mounts]]
+source = 'content/es'
+target = 'content'
+lang = 'es'
+[[module.mounts]]
+source = 'content/fr'
+target = 'content'
+lang = 'fr'

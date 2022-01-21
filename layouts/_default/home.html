@@ -9,6 +9,18 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+<p>Localization tests:</p>
+<pre>
+&lbrace;&lbrace; .Date | time.Format ":date_long" }}       --> {{ .Date | time.Format ":date_long" }}
+
+&lbrace;&lbrace; 512.5032 | lang.FormatCurrency 2 "USD" }} --> {{ 512.5032 | lang.FormatCurrency 2 "USD" }}
+
+</pre>
+
+
+
+  <hr>
   {{ .Content }}
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
