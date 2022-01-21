@@ -10,7 +10,15 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  <p>Pages in "posts" where "category" contains one or more of "new york", "tokyo", or "london", and "unlisted" is not set to true.</p>
+
+  {{ $p := where site.RegularPages "Type" "posts" }}
+  {{ $p = where $p "Params.categories" "intersect" (slice "new york" "tokyo" "london") }}
+  {{ $p = where $p "Params.unlisted" "ne" true }}
+
+  {{ range $p }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
 {{ end }}
