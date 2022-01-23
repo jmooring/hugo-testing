@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "babel-plugin-preval": "^5.0.0"
+  },
+  "babel": {
+    "comments": false,
+    "plugins": [
+      "preval"
+    ]
+  }
+}
