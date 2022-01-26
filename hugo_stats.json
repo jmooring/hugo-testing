@@ -1,0 +1,43 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "article",
+      "body",
+      "br",
+      "div",
+      "em",
+      "h1",
+      "h2",
+      "head",
+      "hr",
+      "html",
+      "link",
+      "meta",
+      "p",
+      "title"
+    ],
+    "classes": [
+      "ba",
+      "bg-blue",
+      "bt",
+      "center",
+      "f4",
+      "f5-ns",
+      "f6",
+      "hidden",
+      "lh-copy",
+      "measure",
+      "mv0",
+      "mv4",
+      "mw5",
+      "mw6-ns",
+      "pa3",
+      "ph3",
+      "pv2",
+      "sans-serif",
+      "white"
+    ],
+    "ids": null
+  }
+}
