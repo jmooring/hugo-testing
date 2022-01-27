@@ -1,4 +1,8 @@
 {{ define "main" }}
+
+  {{/* This triggers the erroneous warning when rendering page without a backing file. */}}
+  {{ .RenderString "foo" }}
+
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
