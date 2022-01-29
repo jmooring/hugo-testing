@@ -1,3 +1,56 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Hugo Forum Topic #36829'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[taxonomies]
+author = 'authors'
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageName = 'English'
+title = 'Hugo Forum Topic #36829 (en)'
+weight = 1
+[languages.es]
+contentDir = 'content/es'
+languageCode = 'es-ES'
+languageName = 'Español'
+title = 'Hugo Forum Topic #36829 (es)'
+weight = 2
+[languages.fr]
+contentDir = 'content/fr'
+languageCode = 'fr-FR'
+languageName = 'Français'
+title = 'Hugo Forum Topic #36829 (fr)'
+weight = 3
+
+[[cascade]]
+foo = 'foo'
+  [cascade._target]
+  path = '/authors**'
+  lang = '*'  # You don't need to specify this; * is the default
+[[cascade]]
+bar = 'bar'
+  [cascade._target]
+  path = '/authors**'
+  lang = '*'  # You don't need to specify this; * is the default
+  kind = 'term'
+[[cascade]]
+baz = 'baz'
+  [cascade._target]
+  path = '/authors**'
+  lang = '{en,es}'
+
+[[menu.main]]
+name = 'Home'
+pageref = "/"
+weight = 1
+[[menu.main]]
+name = 'Authors'
+pageref = "/authors"
+weight = 2
+[[menu.main]]
+name = 'Posts'
+pageref = "/posts"
+weight = 3

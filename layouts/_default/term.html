@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  .Params.foo = {{ .Params.foo }}<br>
+  .Params.bar = {{ .Params.bar }}<br>
+  .Params.baz = {{ .Params.baz }}<br>
+
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+{{ end }}
