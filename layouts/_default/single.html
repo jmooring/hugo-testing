@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  .Kind = {{ .Kind }}<br><br>
+  .Params.p1 = {{ .Params.p1 }}<br>
+  .Params.p2 = {{ .Params.p2 }}<br>
+  .Params.p3 = {{ .Params.p3 }}<br>
+
   {{ .Content }}
 {{ end }}
