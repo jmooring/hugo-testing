@@ -6,6 +6,9 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+
+<p>Menu: <a href="/tags/">Tags</a> <a href="/post/">Posts</a> <a href="/">Home</a></p>
+
 {{ block "main" . }}
 
 {{ end }}
