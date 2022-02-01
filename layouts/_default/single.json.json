@@ -1,0 +1,6 @@
+{{- $m := dict
+  "title" (.Title | plainify | htmlUnescape)
+  "summary" (.Summary | plainify | htmlUnescape)
+  "permalink" .Permalink
+-}}
+{{- jsonify (dict "indent" "  ") $m -}}

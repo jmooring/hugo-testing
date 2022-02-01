@@ -1,0 +1,12 @@
+[
+{{- range $k, $v :=  (.Paginate .Pages).Pages -}}
+{{- if $k -}},
+{{- end -}}
+{{- $m := dict
+  "title" (.Title | plainify | htmlUnescape)
+  "summary" (.Summary | plainify | htmlUnescape)
+  "permalink" .Permalink
+}}
+{{ jsonify (dict "indent" "  ") $m -}}
+{{- end }}
+]
