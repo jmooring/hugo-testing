@@ -1,0 +1,70 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <button id="calendar-previous" onclick="calendarPrev()">Previous</button>
+  <button id="calendar-next" onclick="calendarNext()">Next</button>
+
+  {{ $calendarIDs := slice }}
+  {{ range $k, $v := .Pages.GroupByDate "2006-01" "desc" }}
+    {{ partial "calendar-month" . }}
+    {{ $calendarIDs = $calendarIDs | append (printf "calendar-%s" .Key) }}
+  {{ end }}
+
+  {{/* TODO
+    1\) Store current calendar id in local storage
+    https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage
+
+    localStorage.setItem('name','Chris');
+    let myName = localStorage.getItem('name');
+    localStorage.removeItem('name');
+
+    2\) Allow the JS to stand alone in its own file. That means we need to get
+    all the els with class name calendar, then extract the id's instead of inserting
+    the id's with a template rendering of the array.
+
+    */}}
+
+  <script>
+    const calendarIDs = {{ $calendarIDs }};
+    var currentCalendarIndex = 0;
+    // Create array of calendars
+    const calendars = [];
+    calendarIDs.forEach(id => calendars.push(document.getElementById(id)));
+    // Hide all then make the first one visible
+    hideOtherCalendars(currentCalendarIndex);
+    // Get buttons
+    const buttonPrev = document.getElementById('calendar-previous');
+    const buttonNext = document.getElementById('calendar-next');
+    // Control initial button visibility
+    if (calendars.length >= 1) {
+      buttonPrev.disabled = true;
+    } else {
+      buttonPrev.style.display = 'none';
+      buttonNext.style.display = 'none';
+    }
+    // Functions
+    function calendarPrev() {
+      currentCalendarIndex--;
+      hideOtherCalendars(currentCalendarIndex);
+      console.log('currentCalendarIndex = ' + currentCalendarIndex);
+    }
+    function calendarNext() {
+      currentCalendarIndex++;
+      hideOtherCalendars(currentCalendarIndex
+      console.log('currentCalendarIndex = ' + currentCalendarIndex);
+
+    }
+    function hideOtherCalendars(index) {
+      calendars.forEach(calendar => calendar.style.display = 'none')
+      calendars[index].style.display = null;
+    }
+
+
+
+
+  </script>
+
+
+
+{{ end }}

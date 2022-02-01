@@ -1,0 +1,58 @@
+{{- $debug := false -}}
+
+{{- $tFirstDayOfMonth := printf "%s-01" .Key | time.AsTime -}}
+{{- $iFirstDayOfMonth := $tFirstDayOfMonth.Day -}}
+
+{{- $tLastDayOfMonth := $tFirstDayOfMonth.AddDate 0 1 -1 -}}
+{{- $iLastDayOfMonth := $tLastDayOfMonth.Day -}}
+
+{{- $sFirstWeekdayOfMonth := $tFirstDayOfMonth.Weekday | string -}}
+{{- $iFirstWeekdayOfMonth := $tFirstDayOfMonth.Weekday | printf "%d" | int | add 1 -}}
+
+{{- $sMonth := $tFirstDayOfMonth | time.Format "January" -}}
+{{- $sYear := $tFirstDayOfMonth | time.Format "2006" -}}
+
+{{- if $debug -}}
+  <pre>
+    {{ fmt.Printf "$tFirstDayOfMonth = %[1]v (%[1]T)" $tFirstDayOfMonth }}
+    {{ fmt.Printf "$iFirstDayOfMonth = %[1]v (%[1]T)" $iFirstDayOfMonth }}
+    {{ fmt.Printf "$tLastDayOfMonth = %[1]v (%[1]T)" $tLastDayOfMonth }}
+    {{ fmt.Printf "$iLastDayOfMonth = %[1]v (%[1]T)" $iLastDayOfMonth }}
+    {{ fmt.Printf "$sFirstWeekdayOfMonth = %[1]v (%[1]T)" $sFirstWeekdayOfMonth }}
+    {{ fmt.Printf "$iFirstWeekdayOfMonth = %[1]v (%[1]T)" $iFirstWeekdayOfMonth }} [Sun = 1, Sat = 7]
+    {{ fmt.Printf "$sMonth = %[1]v (%[1]T)" $sMonth }}
+    {{ fmt.Printf "$sYear = %[1]v (%[1]T)" $sYear }}
+  </pre>
+{{- end -}}
+
+{{- $p := .Pages.GroupByDate "2" "asc" -}}
+{{- $id := printf "first-day-of-month-%s" .Key -}}
+{{- $attr := printf "id=%q" $id | safeHTMLAttr }}
+
+<div class="calendar" id="calendar-{{ .Key }}">
+  <h2>{{- printf "%s %s" $sMonth $sYear -}}</h2>
+  <ol>
+    {{- range slice "Sun" "Mon" "Tue" "Wed" "Thu" "Fri" "Sat" }}
+      <li class="day-of-week">
+        {{ . }}
+      </li>
+    {{- end -}}
+    {{- range $k, $v := seq $iFirstDayOfMonth $iLastDayOfMonth -}}
+      {{- if $k -}}
+        {{- $attr = "" | safeHTMLAttr -}}
+      {{- end }}
+      <li {{ $attr }}>
+        <div class="date">{{ . }}</div>
+        <ul>
+          {{- range (index (where $p "Key" (string .)) 0).Pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{- end }}
+        </ul>
+      </li>
+    {{- end }}
+  </ol>
+</div>
+
+<script>
+  document.getElementById({{ $id }}).style.gridColumnStart = "{{ $iFirstWeekdayOfMonth }}";
+</script>

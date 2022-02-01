@@ -1,0 +1,52 @@
+/* https://css-tricks.com/a-calendar-in-three-lines-of-css/ */
+
+$border: 1px solid #999;
+
+div.calendar {
+  max-width: 100%;
+  margin-bottom: 4em;
+  h2 {
+    text-align: center;
+  }
+  ol {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    > li {
+      margin-right: 1px;
+      margin-top: 1px;
+      min-height: 7em;
+      outline: $border;
+      div.date {
+        border-bottom: $border;
+        border-left: $border;
+        float: right;
+        font-size: 90%;
+        margin-bottom: 0.1em;
+        margin-left: 0.1em;
+        text-align: center;
+        width: 1.8em;
+      }
+      ul {
+        font-size: 90%;
+        list-style: none;
+        padding: 0.2em 0.4em;
+        a {
+          text-decoration: none;
+        }
+        li {
+          margin-bottom: 0.5em;
+          line-height: 1.2;
+        }
+      }
+    }
+    li.day-of-week {
+      background: #eee;
+      min-height: inherit;
+      padding: 0.25em 0;
+      text-align: center;
+    }
+  }
+}
