@@ -3,11 +3,8 @@
 $border: 1px solid #999;
 
 div.calendar {
-  max-width: 100%;
   margin-bottom: 4em;
-  h2 {
-    text-align: center;
-  }
+  max-width: 100%;
   ol {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
