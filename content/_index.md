@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #6797'
+date = 2022-02-01T15:56:27-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/6797'
+description = "Paginated Output Format's first page filepath is wrong"
 +++
