@@ -1,3 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #2199'
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+relativeURLs = true
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubDir = true
+
+[languages.en]
+contentDir = 'content/en'
+weight = 1
+[languages.es]
+contentDir = 'content/es'
+weight = 2
