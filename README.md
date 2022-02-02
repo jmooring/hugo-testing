@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/36924>
 
-Description: Is there some pre-packaged way to use kroki from markdown?
+Description: Is there some pre-packaged way to use Kroki from markdown?
 
 ## Instructions
 

@@ -1,0 +1,68 @@
+{{/* https://kroki.io/ */}}
+
+{{- $url := "https://kroki.io/" -}}
+{{- $outputFormat := "svg" -}}
+{{- $supportedTypes := slice
+  "actdiag"
+  "blockdiag"
+  "bpmn"
+  "bytefield"
+  "ditaa"
+  "erd"
+  "graphviz"
+  "mermaid"
+  "nomnoml"
+  "nwdiag"
+  "packetdiag"
+  "pikchr"
+  "plantuml"
+  "rackdiag"
+  "seqdiag"
+  "svgbob"
+  "umlet"
+  "vega"
+  "vegalite"
+  "wavedrom"
+}}
+{{- $typesDelimited := delimit $supportedTypes ", " ", and " -}}
+{{- $diagramSource := "" -}}
+
+{{- with $diagramType := .Get "type" | strings.ToLower -}}
+  {{- if not (in $supportedTypes .) -}}
+    {{- errorf "The %q shortcode was called with an invalid type %q. Valid types are %s. See %s" $.Name . $typesDelimited $.Position -}}
+  {{- else -}}
+    {{- with $.Get "file" -}}
+      {{- with $.Page.Resources.GetMatch . -}}
+        {{- $diagramSource = strings.Trim .Content "\r\n" -}}
+      {{- else -}}
+        {{- errorf "The %q shortcode was unable to find %q. See %s" $.Name . $.Position -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $diagramSource = strings.Trim $.Inner "\r\n" -}}
+    {{- end -}}
+    {{- with $diagramSource -}}
+      {{- $kroki := dict
+        "diagram_source" .
+        "diagram_type" $diagramType
+        "output_format" $outputFormat
+      -}}
+      {{- $opts := dict
+        "method" "post"
+        "body" ($kroki | jsonify)
+      -}}
+      {{- with resources.GetRemote $url $opts -}}
+        {{- with .Err -}}
+          {{- errorf "The %q shortcode was unable to get the remote diagram. Details: %s. See %s" $.Name . $.Position -}}
+        {{- else -}}
+          {{- .Content | safeHTML -}}
+        {{- end -}}
+      {{- else -}}
+        {{- errorf "The %q shortcode was unable to get the remote diagram. See %s" $.Name $.Position -}}
+      {{- end -}}
+    {{- else -}}
+      {{- errorf "The %q shortcode was called without content. See %s" $.Name $.Position -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "The %q shortcode requires a %q parameter. Valid types are %s. See %s" $.Name "type" $typesDelimited $.Position -}}
+{{- end -}}
