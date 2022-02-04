@@ -1,3 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #9463'
+
+[markup.goldmark.renderer]
+unsafe = false
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
