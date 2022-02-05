@@ -1,13 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.LanguageCode }}" dir="ltr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
-  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <link rel="stylesheet" href="/css/test.css">
 </head>
 <body>
-{{ block "main" . }}
+  <header>
+    <h1>{{ site.Title }}</h1>
 
-{{ end }}
+    {{ with .AllTranslations }}
+      <nav class="language-switcher">
+        {{ range . }}
+          {{ if eq .Language.Lang $.Language.Lang }}
+            <a class="active" aria-current="page" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          {{ else }}
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
+
+    <hr>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
 </body>
 </html>

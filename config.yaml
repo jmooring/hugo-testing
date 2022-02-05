@@ -1,0 +1,22 @@
+disableKinds:
+  - taxonomy
+  - term
+  - RSS
+  - sitemap
+
+defaultContentLanguage: en-us
+defaultContentLanguageInSubdir: true
+
+relativeURLs: true
+
+languages:
+  en-us:
+    baseURL: https://example.com
+    languageName: English (United States)
+    title: Example US
+    weight: 1
+  fr-fr:
+    baseURL: https://example.fr
+    languageName: Français (France)
+    title: Example FR
+    weight: 2
