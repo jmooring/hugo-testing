@@ -3,26 +3,9 @@
 {{- $url := "https://kroki.io/" -}}
 {{- $outputFormat := "svg" -}}
 {{- $supportedTypes := slice
-  "actdiag"
-  "blockdiag"
-  "bpmn"
-  "bytefield"
-  "ditaa"
-  "erd"
-  "graphviz"
-  "mermaid"
-  "nomnoml"
-  "nwdiag"
-  "packetdiag"
-  "pikchr"
-  "plantuml"
-  "rackdiag"
-  "seqdiag"
-  "svgbob"
-  "umlet"
-  "vega"
-  "vegalite"
-  "wavedrom"
+  "actdiag" "blockdiag" "bpmn" "bytefield" "ditaa" "erd" "graphviz" "mermaid"
+  "nomnoml" "nwdiag" "packetdiag" "pikchr" "plantuml" "rackdiag" "seqdiag"
+  "svgbob" "umlet" "vega" "vegalite" "wavedrom"
 }}
 {{- $typesDelimited := delimit $supportedTypes ", " ", and " -}}
 {{- $diagramSource := "" -}}
