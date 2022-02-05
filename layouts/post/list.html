@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+  <form>
+    {{- range $taxonomy, $terms := site.Taxonomies }}
+      {{- $taxonomyPage := site.GetPage $taxonomy }}
+      <label for="{{ $taxonomy }}">{{ $taxonomyPage.LinkTitle }}</label>
+      <select id="{{ $taxonomy }}" onchange="window.location=this.value">
+        <option selected>Select...</option>
+        {{- range $term, $weightedPages := . }}
+          {{- $termPage := site.GetPage path.Join $taxonomy $term }}
+          <option value="{{ $termPage.RelPermalink }}">{{ $termPage.LinkTitle }}</option>
+        {{- end }}
+      </select>
+    {{- end }}
+  </form>
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range (.Paginate .Pages).Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

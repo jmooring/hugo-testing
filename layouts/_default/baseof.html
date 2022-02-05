@@ -4,6 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+
+  {{/* Get Sass resource. */}}
+  {{ $scss := resources.Get "scss/main.scss" }}
+
+  {{/* Transpile to generate a short cache-busting target path. */}}
+  {{ $css := $scss | toCSS }}
+  {{ $cacheBuster := $css.Content | sha1 | first 7 }}
+  {{ $targetPath := printf "css/style.%s.css" $cacheBuster }}
+
+  {{/* Transpile again with options. */}}
+  {{ $options := dict "targetPath" $targetPath "transpiler" "libsass" }}
+  {{ $css := $scss | toCSS $options | minify }}
+  {{ $temp := $css | fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $temp.Data.Integrity }}" crossorigin="anonymous">
+
 </head>
 <body>
 {{ block "main" . }}
