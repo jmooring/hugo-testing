@@ -39,6 +39,7 @@
         {{- end }}
       </select>
     {{- end }}
+    <button onclick="reset()">Reset</button>
   </form>
 
 
@@ -107,6 +108,10 @@
       }
       // Display the pages.
       pagesToDisplay.forEach(page => page.style.display = 'initial');
+    }
+    function reset() {
+      document.getElementById("filter").reset;
+      filter();
     }
   </script>
 
