@@ -1,16 +1,5 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-
-  {{ range $taxonomy, $terms := site.Taxonomies }}
-    {{ $taxonomyPage := site.GetPage $taxonomy }}
-    {{ with $.GetTerms $taxonomy }}
-      {{ $list := slice }}
-      {{ range . }}
-        {{ $list = $list | append (printf "<a href=%q>%s</a>" .RelPermalink .LinkTitle | safeHTML) }}
-      {{ end }}
-      <p>{{ $taxonomyPage.LinkTitle }}: {{ delimit $list ", " }}</p>
-    {{ end }}
-  {{ end }}
-
+  {{ partial "display-terms" . }}
   {{ .Content }}
 {{ end }}
