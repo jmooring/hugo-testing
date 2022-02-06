@@ -39,7 +39,7 @@
         {{- end }}
       </select>
     {{- end }}
-    <button onclick="reset()">Reset</button>
+    <button type="button" onclick="reset()">Reset</button>
   </form>
 
 
@@ -110,7 +110,7 @@
       pagesToDisplay.forEach(page => page.style.display = 'initial');
     }
     function reset() {
-      document.getElementById("filter").reset;
+      document.getElementById("filter").reset();
       filter();
     }
   </script>
