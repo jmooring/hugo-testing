@@ -1,8 +1,113 @@
 {{ define "main" }}
+
   <h1>{{ .Title }}</h1>
+
+  {{- /* Build a slice of taxonomies that are used in this section. */}}
+  {{- $sectionTaxonomies := slice }}
+  {{- range $taxonomy, $terms := site.Taxonomies }}
+    {{- range $term, $weightedPages := $terms }}
+      {{- range where $weightedPages "Section" $.Section }}
+        {{- $sectionTaxonomies = $sectionTaxonomies | append $taxonomy }}
+      {{- end }}
+      {{- $sectionTaxonomies = $sectionTaxonomies | uniq | sort }}
+    {{- end }}
+  {{- end }}
+
+  {{- /* Build a map of taxonomies and terms that are used in this section. */}}
+  {{- $sectionTaxonomiesAndTerms := dict }}
+  {{- range $taxonomy := $sectionTaxonomies }}
+    {{- $terms := slice }}
+    {{ range $.Pages }}
+      {{- range .GetTerms $taxonomy }}
+        {{- $terms = $terms | append (path.Base .RelPermalink) }}
+      {{- end }}
+    {{- end }}
+    {{- $terms = $terms | uniq | sort }}
+    {{- $sectionTaxonomiesAndTerms = merge $sectionTaxonomiesAndTerms (dict $taxonomy $terms) }}
+  {{- end }}
+
+  {{- /* Render the filter controls. */}}
+  <form id="filter">
+    {{- range $taxonomy, $terms := $sectionTaxonomiesAndTerms }}
+      {{- $taxonomyPage := site.GetPage $taxonomy }}
+      <label for="{{ $taxonomy }}">{{ $taxonomyPage.LinkTitle }}</label>
+      <select id="{{ $taxonomy }}" onchange="filter()">
+        <option value="all" selected>All</option>
+        {{- range $term := $terms }}
+          {{- $termPage := site.GetPage path.Join $taxonomy $term }}
+          <option value="{{ $term }}">{{ $termPage.LinkTitle }}</option>
+        {{- end }}
+      </select>
+    {{- end }}
+  </form>
+
+
   {{ .Content }}
-  {{ range (.Paginate .Pages).Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ range $p := .Pages.ByTitle }}
+
+    {{- /* Build a slice of data attributes, one for each taxonomy. */}}
+    {{- $dataAttrs := slice }}
+    {{- range $taxonomy := $sectionTaxonomies }}
+      {{- $terms := slice }}
+      {{- with $p.GetTerms $taxonomy }}
+        {{- range . }}
+          {{- $terms = $terms | append (.RelPermalink | path.Base) }}
+        {{- end }}
+        {{- $dataAttrs = $dataAttrs | append (printf "data-%s=%q" $taxonomy (delimit $terms " ") | safeHTMLAttr) }}
+      {{- end }}
+    {{- end }}
+
+    {{- /* Render the summary. */}}
+    <div class="summary-wrapper" {{ delimit $dataAttrs " " | safeHTMLAttr }}>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{- partial "display-terms" . }}
+      <div class="summary">
+        {{- /* Stupid, stupid, stupid bug. */}}
+        {{- /* https://github.com/gohugoio/hugo/issues/8910#issuecomment-903158600 */}}
+        {{- $summary := .Summary  }}
+        {{- if not (strings.HasPrefix $summary "<p>") }}
+          {{- $summary = printf "<p>%s</p>" $summary | safeHTML }}
+        {{- end }}
+        {{ $summary }}
+        {{- if .Truncated }}
+          <a href="{{ .RelPermalink }}">Read more...</a>
+        {{- end }}
+      </div>
+    </div>
   {{ end }}
-  {{ template "_internal/pagination.html" . }}
+
+  <script>
+    function filter() {
+      // Hide all pages.
+      const allPagesSelector = '.summary-wrapper'
+      const allPages = [...document.querySelectorAll(allPagesSelector)];
+      allPages.forEach(page => page.style.display = 'none');
+      // Build object of matching pages by taxonomy.
+      const taxonomies = {{ $sectionTaxonomies }};
+      const pages = {};
+      for (const taxonomy of taxonomies) {
+        const term = document.getElementById("filter").elements[taxonomy].value;
+        let selector = '[data-' + taxonomy + '~=' + term + ']'
+        if (term == 'all') {
+          selector = allPagesSelector;
+        }
+        pages[taxonomy] = [...document.querySelectorAll(selector)];
+      }
+      // Determine intersection of pages.
+      let pagesToDisplay = [];
+      for (const key in pages) {
+        if (pagesToDisplay.length == 0) {
+          pagesToDisplay = pages[key]
+        }
+        else {
+          pagesToDisplay = pagesToDisplay.filter(x => pages[key].includes(x));
+        }
+
+      }
+      // Display the pages.
+      pagesToDisplay.forEach(page => page.style.display = 'initial');
+    }
+  </script>
+
 {{ end }}
