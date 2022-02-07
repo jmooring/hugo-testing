@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-  <h1>{{ .Title }}</h1>
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
 
   {{- /* Build a slice of taxonomies that are used in this section. */}}
   {{- $sectionTaxonomies := slice }}
@@ -28,56 +30,60 @@
 
   {{- /* Render the filter controls. */}}
   {{- with $sectionTaxonomiesAndTerms }}
-    <form id="filter">
-      {{- range $taxonomy, $terms := . }}
-        {{- $taxonomyPage := site.GetPage $taxonomy }}
-        <label for="{{ $taxonomy }}">{{ $taxonomyPage.LinkTitle }}</label>
-        <select id="{{ $taxonomy }}" onchange="filter()">
-          <option value="all" selected>All</option>
-          {{- range $term := $terms }}
-            {{- $termPage := site.GetPage path.Join $taxonomy $term }}
-            <option value="{{ $term }}">{{ $termPage.LinkTitle }}</option>
-          {{- end }}
-        </select>
-      {{- end }}
-      <button onclick="reset()">Reset</button>
-    </form>
+    <nav>
+      <form id="filter">
+        {{- range $taxonomy, $terms := . }}
+          {{- $taxonomyPage := site.GetPage $taxonomy }}
+          <label for="{{ $taxonomy }}">{{ $taxonomyPage.LinkTitle }}</label>
+          <select id="{{ $taxonomy }}" onchange="filter()">
+            <option value="all" selected>All</option>
+            {{- range $term := $terms }}
+              {{- $termPage := site.GetPage path.Join $taxonomy $term }}
+              <option value="{{ $term }}">{{ $termPage.LinkTitle }}</option>
+            {{- end }}
+          </select>
+        {{- end }}
+        <button onclick="reset()">Reset</button>
+      </form>
+    </nav>
   {{- end }}
 
-  {{ .Content }}
+  <main>
+    {{ .Content }}
 
-  {{ range $p := .Pages.ByTitle }}
+    {{- range $p := .Pages.ByTitle }}
 
-    {{- /* Build a slice of data attributes, one for each taxonomy. */}}
-    {{- $dataAttrs := slice }}
-    {{- range $taxonomy := $sectionTaxonomies }}
-      {{- $terms := slice }}
-      {{- with $p.GetTerms $taxonomy }}
-        {{- range . }}
-          {{- $terms = $terms | append (.RelPermalink | path.Base) }}
+      {{- /* Build a slice of data attributes, one for each taxonomy. */}}
+      {{- $dataAttrs := slice }}
+      {{- range $taxonomy := $sectionTaxonomies }}
+        {{- $terms := slice }}
+        {{- with $p.GetTerms $taxonomy }}
+          {{- range . }}
+            {{- $terms = $terms | append (.RelPermalink | path.Base) }}
+          {{- end }}
+          {{- $dataAttrs = $dataAttrs | append (printf "data-%s=%q" $taxonomy (delimit $terms " ") | safeHTMLAttr) }}
         {{- end }}
-        {{- $dataAttrs = $dataAttrs | append (printf "data-%s=%q" $taxonomy (delimit $terms " ") | safeHTMLAttr) }}
       {{- end }}
-    {{- end }}
 
-    {{- /* Render the summary. */}}
-    <div class="summary-wrapper" {{ delimit $dataAttrs " " | safeHTMLAttr }}>
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      {{- partial "display-terms" . }}
-      <div class="summary">
-        {{- /* Stupid, stupid, stupid bug. */}}
-        {{- /* https://github.com/gohugoio/hugo/issues/8910#issuecomment-903158600 */}}
-        {{- $summary := .Summary  }}
-        {{- if not (strings.HasPrefix $summary "<p>") }}
-          {{- $summary = printf "<p>%s</p>" $summary | safeHTML }}
-        {{- end }}
-        {{ $summary }}
-        {{- if .Truncated }}
-          <a href="{{ .RelPermalink }}">Read more...</a>
-        {{- end }}
-      </div>
-    </div>
-  {{ end }}
+      {{- /* Render the summary. */}}
+      <section class="summary-wrapper" {{ delimit $dataAttrs " " | safeHTMLAttr }}>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{- partial "display-terms" . }}
+        <div class="summary">
+          {{- /* Stupid, stupid, stupid bug. */}}
+          {{- /* https://github.com/gohugoio/hugo/issues/8910#issuecomment-903158600 */}}
+          {{- $summary := .Summary  }}
+          {{- if not (strings.HasPrefix $summary "<p>") }}
+            {{- $summary = printf "<p>%s</p>" $summary | safeHTML }}
+          {{- end }}
+          {{ $summary }}
+          {{- if .Truncated }}
+            <a href="{{ .RelPermalink }}">Read more...</a>
+          {{- end }}
+        </div>
+      </section>
+    {{ end }}
+  </main>
 
   <script>
     const allPagesSelector = '.summary-wrapper'
