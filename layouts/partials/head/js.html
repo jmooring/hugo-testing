@@ -1,0 +1,14 @@
+  {{- /* Get JS resource. */}}
+  {{- $jsResource := resources.Get "js/main.js" }}
+
+  {{- /* Build to generate a short cache-busting target path. */}}
+  {{- $js := $jsResource | js.Build }}
+  {{- $cacheBuster := $js.Content | sha1 | first 7 }}
+  {{- $targetPath := printf "js/main.%s.js" $cacheBuster }}
+
+  {{- /* Build again with options. */}}
+  {{- $options := dict "targetPath" $targetPath }}
+  {{- $js := $jsResource | js.Build $options | minify }}
+  {{- $temp := $js | fingerprint "sha512" }}
+
+  <script src="{{ $js.RelPermalink }}" integrity="{{ $temp.Data.Integrity }}" crossorigin="anonymous"></script>
