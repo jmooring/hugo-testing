@@ -1,0 +1,65 @@
+{{/*
+Returns a map of the taxonomies used by the page in context.
+
+Kind      Returns a map of the taxonomies used in
+--------  ---------------------------------------
+home      The site
+page      The page
+section   The section
+taxonomy  The section
+term      The section
+other     NA
+
+{
+  "tags": {
+    "id": "tags",
+    "linkTitle": "Tags",
+    "permalink": "http://localhost:1313/tags/",
+    "relPermalink": "/tags/",
+    "slug": "tags",
+    "title": "Tags"
+  }
+  ...
+}
+
+@param {page} .
+@returns {map}
+*/}}
+
+{{ $taxonomies := slice }}
+{{ range $taxonomy, $terms := site.Taxonomies }}
+  {{ range $term, $weightedPages := $terms }}
+    {{ $p := slice }}
+    {{ if eq $.Kind "home" }}
+      {{ $p = $weightedPages }}
+    {{ else if eq $.Kind "page" }}
+      {{ $p = where $weightedPages "Permalink" $.Permalink }}
+    {{ else if in (slice "taxonomy" "term" "section") $.Kind }}
+      {{ $p = where $weightedPages "Section" $.Section }}
+    {{ else }}
+      {{/* Return an empty slice for anything else. */}}
+    {{ end }}
+    {{ range $p }}
+      {{ $taxonomies = $taxonomies | append $taxonomy }}
+    {{ end }}
+    {{ $taxonomies = $taxonomies | uniq | sort }}
+  {{ end }}
+{{ end }}
+
+{{ $taxonomiesMap := dict }}
+{{ range $taxonomy := $taxonomies }}
+  {{ $tp := site.GetPage $taxonomy }}
+  {{ $object := dict
+      $taxonomy (dict
+        "id" $taxonomy
+        "linkTitle" $tp.LinkTitle
+        "permalink" $tp.Permalink
+        "relPermalink" $tp.RelPermalink
+        "slug" $taxonomy
+        "title"  $tp.Title
+      )
+  }}
+  {{ $taxonomiesMap = $taxonomiesMap | merge $object }}
+{{ end }}
+
+{{ return $taxonomiesMap }}

@@ -1,0 +1,18 @@
+{{/*
+Returns the top level values from a map.
+
+{
+  "a": "aaaaa",
+  "b": "bbbbb"
+}
+
+["aaaaa", "bbbbb"]
+
+@param {map}
+@returns {slice}
+*/}}
+{{ $values := slice }}
+{{ range $_, $v := . }}
+  {{ $values = $values | append $v }}
+{{ end }}
+{{ return $values }}

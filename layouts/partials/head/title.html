@@ -1,0 +1,13 @@
+<title>
+  {{- $siteTitle := or site.Home.Title site.Title }}
+  {{- if .IsHome }}
+    {{- $siteTitle }}
+  {{- else }}
+    {{- with .Title }}
+      {{- printf "%s | %s" . $siteTitle }}
+    {{- else }}
+      {{- $siteTitle }}
+    {{- end }}
+  {{- end -}}
+</title>
+{{- /* Chomp trailing newlines. */ -}}

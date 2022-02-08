@@ -1,0 +1,72 @@
+{{/*
+Returns a map of the terms, grouped by taxonomy, used by the page in context.
+
+Kind      Returns a map of the terms used in
+--------  ----------------------------------
+home      The site
+page      The page
+section   The section
+taxonomy  The section
+term      The section
+other     NA
+
+{
+  "tags": {
+    "tag-a": {
+      "id": "tags/tag-a",
+      "linkTitle": "Tag A",
+      "permalink": "http://localhost:1313/tags/tag-a/",
+      "relPermalink": "/tags/tag-a/",
+      "slug": "tag-a",
+      "title": "Tag A"
+    },
+    ...
+  },
+  ...
+}
+
+@param {page} .
+@returns {map}
+*/}}
+
+{{ $p := slice }}
+{{ if eq .Kind "home" }}
+  {{ $p = site.Pages }}
+{{ else if eq .Kind "page" }}
+  {{ $p = slice . }}
+{{ else if in (slice "taxonomy" "term" "section") .Kind }}
+  {{ $p = .Pages }}
+{{ else }}
+  {{/* Return an empty slice for anything else. */}}
+{{ end }}
+
+{{ $termsMap := dict }}
+{{ range $taxonomy, $_ := (partial "views/get-taxonomies" .) }}
+  {{ $terms := slice }}
+  {{ range $p }}
+    {{ range .GetTerms $taxonomy }}
+      {{ $terms = $terms | append (path.Base .RelPermalink) }}
+    {{ end }}
+  {{ end }}
+  {{ $terms = $terms | uniq | sort }}
+
+  {{ $object := dict }}
+  {{ range $term := $terms }}
+    {{ $tp := site.GetPage (path.Join $taxonomy $term) }}
+    {{ $object := dict
+      $taxonomy (dict
+        $term (dict
+          "id" ($tp.Path | sha256 | first 7 | add "v")
+          "linkTitle" $tp.LinkTitle
+          "permalink" $tp.Permalink
+          "relPermalink" $tp.RelPermalink
+          "slug" $term
+          "title"  $tp.Title
+        )
+      )
+    }}
+    {{ $termsMap = $termsMap | merge $object }}
+  {{ end }}
+{{ end }}
+
+{{ return $termsMap }}

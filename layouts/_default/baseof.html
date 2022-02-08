@@ -3,9 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
-  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
-  {{ partialCached "head/css.html" . }}
-  {{ partialCached "head/js.html" . }}
+  {{ partial "head/title" . }}
+  {{ partialCached "head/css" . }}
 </head>
 <body>
 {{ block "main" . }}

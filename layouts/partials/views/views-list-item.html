@@ -1,0 +1,14 @@
+<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+{{- partial "views/render-terms" . }}
+<div class="summary">
+  {{- /* https://github.com/gohugoio/hugo/issues/8910#issuecomment-903158600 */}}
+  {{- $summary := .Summary  }}
+  {{- if not (strings.HasPrefix $summary "<p>") }}
+    {{- $summary = printf "<p>%s</p>" $summary | safeHTML }}
+  {{- end }}
+  {{ $summary }}
+  {{- if .Truncated }}
+    <a href="{{ .RelPermalink }}">Read more...</a>
+  {{- end }}
+</div>
+{{- /* Chomp trailing newlines. */ -}}

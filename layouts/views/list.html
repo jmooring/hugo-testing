@@ -1,0 +1,143 @@
+{{ define "main" }}
+
+  {{- /* Select pages. */}}
+  {{- $pages := .Pages.ByTitle  }}
+
+  {{- /* Get taxonomies and terms that are used in this section. */}}
+  {{- $taxonomies := partial "views/get-taxonomies" . }}
+  {{- $terms := partial "views/get-terms" . }}
+
+  {{- /* Configuration. */}}
+  {{- $cfg := dict
+    "formElemId"      "views-filter"
+    "listClass"       "views-list"
+    "listContainerId" "views-list-container"
+    "listItemClass"   "views-list-item"
+    "messageElemId"   "views-message"
+    "taxonomies"      (partial "views/get-map-keys.html" $taxonomies)
+  }}
+
+  {{- /* Create configuration data accessible via JavaScript. */}}
+  <div id="views-config" {{ (printf "data-views-config='%s'" (jsonify $cfg)) | safeHTMLAttr }}></div>
+
+  {{- /* Render the main portion of the page. */}}
+  <main>
+
+    {{- /* Render title. */}}
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    {{- /* Render content. */}}
+    {{ .Content }}
+
+    {{- /* Render the form. */}}
+    {{- if $taxonomies }}
+      <nav>
+        <form id="{{ $cfg.formElemId }}">
+          {{- range $taxonomy, $term := $terms }}
+            {{- $taxonomyId := index $taxonomies $taxonomy "id" }}
+            {{- $taxonomyLinkTitle := index $taxonomies $taxonomy "linkTitle" }}
+            <label for="{{ $taxonomyId }}">{{ $taxonomyLinkTitle }}</label>
+            <select id="{{ $taxonomyId }}">
+              <option value="all" selected>All</option>
+              {{- range $k, $v := $term }}
+                <option value="{{ .id }}">{{ .linkTitle }}</option>
+              {{- end }}
+            </select>
+          {{- end }}
+          <button onclick="reset()">Reset</button>
+        </form>
+      </nav>
+    {{ end }}
+
+    {{- /* Render the status message. */}}
+    <div id="{{ $cfg.messageElemId }}"></div>
+
+    <div id="{{ $cfg.listContainerId }}">
+      <div class="{{ $cfg.listClass }}">
+
+        {{- /* Range through the pages. */}}
+        {{- range $k, $p := $pages }}
+
+          {{- /* Build a space-separated list of all terms ids. */}}
+          {{- $dataTerms := slice }}
+          {{- range $taxonomy, $_ := $taxonomies }}
+            {{- with $p.GetTerms $taxonomy }}
+              {{- range . }}
+                {{- $dataTerms = $dataTerms | append (.Path | sha256 | first 7 | add "v") }}
+              {{- end }}
+            {{- end }}
+          {{- end }}
+          {{- $dataTerms = delimit $dataTerms " " }}
+
+          {{- /* Build other data attribute values. */}}
+          {{- $dataId := add $k 1 }}
+          {{- $dataDate := $p.PublishDate.UTC | time.Format "2006-01-02T15:04:05Z" }}
+
+          {{- /* Render the list item. */}}
+          <div class="{{ $cfg.listItemClass }}" data-id="{{ $dataId }}" data-date="{{ $dataDate }}" data-title="{{ $p.Title }}" data-values="{{ $dataTerms }}">
+          {{- $t := printf "%s.html" $cfg.listItemClass }}
+          {{- if or (templates.Exists (path.Join $p.Type $t)) (templates.Exists (path.Join "_default" $t)) }}
+            {{ $p.Render $cfg.listItemClass }}
+          {{- else }}
+            {{ partial (path.Join "views" $t) $p }}
+          {{- end }}
+          </div>
+
+        {{- end }}
+
+      </div>
+    </div>
+  </main>
+
+  {{- if $taxonomies }}
+
+    <script>
+      const cfg = JSON.parse(document.getElementById('views-config').dataset.viewsConfig);
+      const allPages = [...document.getElementsByClassName(cfg.listItemClass)];
+      const formElements = [...document.querySelectorAll('form#' + cfg.formElemId + ' > select')];
+      formElements.forEach(el => el.addEventListener('change', filter));
+
+      function filter() {
+        // Clear the messages container.
+        let viewsMessage = document.getElementById(cfg.messageElemId);
+        viewsMessage.innerHTML = '';
+        // Hide all pages.
+        allPages.forEach(page => page.style.display = 'none');
+        // Build object of matching pages by taxonomy.
+        const taxonomies = cfg.taxonomies;
+        const pages = [];
+        taxonomies.forEach(taxonomy => {
+          const term = document.getElementById(cfg.formElemId).elements[taxonomy].value;
+          // [attr~=value]
+          // Represents elements with an attribute name of attr whose value is
+          // a whitespace-separated list of words, one of which is exactly value.
+          let selector = '[data-values~="' + term + '"]';
+          if (term == 'all') {
+            pages.push([...document.getElementsByClassName(cfg.listItemClass)]);
+          } else {
+            const selector = '[data-values~="' + term + '"]';
+            pages.push([...document.querySelectorAll(selector)]);
+          }
+        });
+        // Determine intersection of pages.
+        pagesToDisplay = pages.reduce((a, b) => a.filter(c => b.includes(c)));
+        // Display the pages.
+        pagesToDisplay.forEach(page => page.style.display = 'initial');
+        // Display message..
+        if (pagesToDisplay.length == 0) {
+          viewsMessage.innerHTML = '<p>No results.</p>';
+        } else {
+          viewsMessage.innerHTML = '<p>' + pagesToDisplay.length + ' items found.</p>';
+        }
+      }
+
+      function reset() {
+        document.getElementById(cfg.formElemId).reset;
+        filter();
+      }
+    </script>
+
+  {{ end }}
+{{ end }}
