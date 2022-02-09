@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <div class="column column-primary">
+    <h2>Primary</h2>
+    {{ .Content }}
+  </div>
+
+  {{ with .Resources.GetMatch "secondary.{md,html}" }}
+    <div class="column column-secondary">
+      <h2>Secondary</h2>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+{{ end }}
