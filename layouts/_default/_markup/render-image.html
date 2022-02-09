@@ -1,0 +1,29 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $alt := plainify .Text -}}
+{{- $title := plainify .Title -}}
+{{- $img := "" -}}
+
+{{- if $u.IsAbs -}}
+  {{- with resources.GetRemote $u.String -}}
+    {{- with .Err -}}
+      {{- errorf "%s" -}}
+    {{- else -}}
+      {{- $img = . -}}
+    {{- end -}}
+  {{- else -}}
+    {{- errorf "Unable to get remote image" -}}
+  {{- end -}}
+{{- else -}}
+  {{- with .Page.Resources.GetMatch $u.Path -}}
+    {{- $img = . -}}
+  {{- else -}}
+    {{- errorf "Unable to get local image" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with $img -}}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+    {{- with $alt }} alt="{{ . }}" {{- end -}}
+    {{- with $title }} title="{{ . }}" {{- end -}}
+  >
+{{- end -}}

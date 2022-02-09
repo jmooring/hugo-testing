@@ -1,0 +1,42 @@
+{{ define "main" }}[This is layouts/tests/single.html]
+
+  {{ $m := dict
+    "From 'layouts' directory" (slice
+      "index.html"
+      "_default/_markup/render-image.html"
+      "_default/baseof.html"
+      "_default/content-view.html"
+      "_default/home.html"
+      "_default/list.html"
+      "_default/single.html"
+      "partials/render-things.html"
+      "posts/content-view.html"
+      "posts/single.html"
+      "shortcodes/data-table.html"
+      "tests/single.html"
+    )
+    "From 'external' directory mounted to 'layouts' directory" (slice
+      "foo.html"
+      "articles/content-view.html"
+      "articles/single.html"
+      "partials/render-other-things.html"
+      "posts/list.html"
+      "shortcodes/mermaid-diagram.html"
+    )
+    "Should fail" (slice
+      "wibble.html"
+      "wobble/wubble.html"
+    )
+  }}
+
+  {{ range $k, $v := $m }}
+    <h2>{{ $k }}</h2>
+    <pre>
+      {{ range $v }}
+        &lbrace;{templates.Exists "{{ . }}" }} --> {{ templates.Exists . }}
+      {{ end }}
+    </pre>
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}
