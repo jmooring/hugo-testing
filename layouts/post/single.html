@@ -1,0 +1,13 @@
+{{ define "main" }}[This is layouts/post/single.html]
+
+  <h1>{{ .Title }}</h1>
+
+<pre>
+<code>&lbrace;{templates.Exists "post/single.html" }} --> {{ templates.Exists "post/single.html" }}</code>
+<code>&lbrace;{templates.Exists "/post/single.html" }} --> {{ templates.Exists "/post/single.html" }}</code>
+<code>&lbrace;{templates.Exists "layouts/post/single.html" }} --> {{ templates.Exists "layouts/post/single.html" }}</code>
+<code>&lbrace;{templates.Exists "/layouts/post/single.html" }} --> {{ templates.Exists "/layouts/post/single.html" }}</code>
+</pre>
+
+  {{ .Content }}
+{{ end }}
