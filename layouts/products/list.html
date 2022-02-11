@@ -1,0 +1,7 @@
+{{ define "main" }}[This is layouts/products/list.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+{{ end }}
