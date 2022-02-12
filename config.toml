@@ -1,3 +1,20 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #37115'
+
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+[mediaTypes.'text/gemini']
+suffixes = ['gmi']
+
+[outputFormats.GEMTEXT]
+mediaType = 'text/gemini'
+path = 'gemtext'
+protocol = 'gemini://'
+isPlainText = true
+isHTML = false
+permalinkable = true
+
+[outputs]
+home = ['HTML','GEMTEXT']
+page = ['HTML','GEMTEXT']

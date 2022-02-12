@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+Posts on this site:
+
+{{ range site.RegularPages }}
+{{ .Title }} {{ .Permalink }}
+{{ end }}
+
+{{ end }}

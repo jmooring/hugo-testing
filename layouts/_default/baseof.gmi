@@ -1,0 +1,5 @@
+Start of layouts/_default/baseof.gemtext.gmi
+{{ block "main" . }}
+
+{{ end }}
+End of layouts/_default/baseof.gemtext.gmi
