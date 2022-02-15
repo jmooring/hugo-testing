@@ -4,10 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+
+  {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
+  {{ $style := resources.Get "sass/main.scss" | toCSS  $options | minify }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
+
+
 </head>
 <body>
 {{ block "main" . }}
 
 {{ end }}
+<button type="submit" class="btn btn-primary"><span class="bi-search"></span> Search</button>
+
+{{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
+{{ $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify }}
+<script src="{{$js.RelPermalink}}" defer></script>
 </body>
 </html>
