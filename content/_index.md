@@ -5,3 +5,4 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/9504'
 description = "Bug with using titles with links together with `render-heading.html` and `render-link.html`"
 +++
+## Hello [Test](https://example.com)
