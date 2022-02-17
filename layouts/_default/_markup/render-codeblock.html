@@ -1,0 +1,46 @@
+{{- $code := .Code }}
+{{- $lang := or .Lang "text" }}
+{{- $options := slice }}
+{{- $attrs := slice }}
+
+{{- if strings.HasPrefix (strings.ToLower $lang) "diagram" }}
+    {{- $validOptions := slice
+        "borderColor"
+        "borderStyle"
+        "borderWidth"
+        "height"
+        "width"
+    }}
+    {{- $validOptions = apply $validOptions "strings.ToLower" "." }}
+    {{- range $k, $v := .Attributes }}
+        {{- if in $validOptions (strings.ToLower $k) }}
+            {{- $options = $options | append (printf "%s=%v" $k $v) }}
+        {{- else }}
+            {{- $attrs = $attrs | append (printf "%s=%q" $k $v) }}
+        {{- end }}
+    {{- end }}
+    <div {{ delimit $attrs " " | safeHTMLAttr }}>{{- transform.Diagram $code $lang (delimit $options ",") }}</div>
+{{- else }}
+    {{- $validOptions := slice
+        "anchorLineNos"
+        "guessSyntax"
+        "hl_Lines"
+        "lineAnchors"
+        "lineNos"
+        "lineNoStart"
+        "lineNumbersInTable"
+        "noClasses"
+        "style"
+        "tabWidth"
+    }}
+    {{- $validOptions = apply $validOptions "strings.ToLower" "." }}
+    {{- range $k, $v := .Attributes }}
+        {{- if in $validOptions (strings.ToLower $k) }}
+            {{- $options = $options | append (printf "%s=%v" $k $v) }}
+        {{- else }}
+            {{- $attrs = $attrs | append (printf "%s=%q" $k $v) }}
+        {{- end }}
+    {{- end }}
+    <div {{ delimit $attrs " " | safeHTMLAttr }}>{{ transform.Highlight $code $lang (delimit $options ",") }}</div>
+{{- end }}
+{{- /**/ -}}
