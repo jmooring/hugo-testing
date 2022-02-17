@@ -10,7 +10,10 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ $selcolor := "green" }}
+  {{ range where (where site.RegularPages "Type" "fruits") "Params.color" "intersect" (slice $selcolor) }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Params.usage_name }}</a></h2>
   {{ end }}
+
 {{ end }}
