@@ -1,3 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #9493'
+
+[outputFormats]
+[outputFormats.Portrait]
+baseName = "portrait"
+mediaType = "text/html"
+isHTML = true
+
+[outputs]
+home = ['HTML','Portrait']
