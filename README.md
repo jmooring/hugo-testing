@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #9493
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/9493>
 
-Description: @@DESCRIPTION@@
+Description: LiveReload injection snippet for custom output type is hardcoded to 127.0.0.1
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```bash
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-9493 https://github.com/jmooring/hugo-testing hugo-github-issue-9493
+cd hugo-github-issue-9493
 hugo server
 ```
