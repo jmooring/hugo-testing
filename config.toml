@@ -1,3 +1,30 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #37225'
+
+disableKinds = ['sitemap','RSS','taxonomy','term']
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+weight = 1
+[languages.de]
+weight = 2
+
+# EN content
+[[module.mounts]]
+source = 'content/en'
+target = 'content'
+lang = 'en'
+
+# DE content
+[[module.mounts]]
+source = 'content/de'
+target = 'content'
+lang = 'de'
+
+# This fills in the gaps in DE content with EN content
+[[module.mounts]]
+source = 'content/en'
+target = 'content'
+lang = 'de'
