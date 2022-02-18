@@ -1,0 +1,5 @@
+{{ define "main" }}
+  <h1>{{ .CurrentSection.Title }}</h1>
+  {{ .CurrentSection.Content }}
+  <a href="{{ .CurrentSection.RelPermalink }}">Not so fancy...</a>
+{{ end }}

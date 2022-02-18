@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <a href="{{ path.Join .RelPermalink "fancy" }}">Fancy...</a>
+{{ end }}
