@@ -1,0 +1,7 @@
+{{ define "main" }}[This is layouts/fruits/single.info.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ with .OutputFormats.Get "html" }}
+    <a href="{{ .RelPermalink }}">Less info...</a>
+  {{ end }}
+{{ end }}
