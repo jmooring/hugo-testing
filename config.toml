@@ -8,4 +8,4 @@ disableKinds = ['RSS','sitemap','taxonomy','term']
 [outputFormats.info]
 mediaType = "text/html"
 isHTML = true
-baseName = 'info'
+path = 'info'
