@@ -1,0 +1,5 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ partial "codeowners.html" (dict "page" . "service" "github") }}
+  {{ .Content }}
+{{ end }}

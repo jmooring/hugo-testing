@@ -4,6 +4,33 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+  <style>
+    body {
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+      font-size: 18px;
+      line-height: 1.5;
+      width: 940px;
+      margin-left: 2rem;
+    }
+    .codeowners {
+      float: right;
+      border: 1px solid #ccc;
+      padding: 1rem 2rem;
+      margin-left: 2rem;
+      font-size: 14px;
+    }
+    .codeowners-heading {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+    .codeowner {
+      margin-top: 1rem;
+    }
+    .codeowner-with-image img {
+      display:  block;
+    }
+  </style>
 </head>
 <body>
 {{ block "main" . }}

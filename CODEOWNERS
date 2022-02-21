@@ -1,0 +1,4 @@
+* @marshall007
+content/tests/code-owners-github.md     @marshall007 test@example.org @non_existent_user @gohugoio/hugo-core @jmooring @bep
+content/tests/code-owners-gitlab.md     @marshall007 test@example.org @non_existent_user @gohugoio/hugo-core @jmooring
+content/tests/code-owners-no-service.md @marshall007 test@example.org @non_existent_user @gohugoio/hugo-core @jmoorinh

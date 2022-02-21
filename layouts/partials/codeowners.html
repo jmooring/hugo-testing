@@ -1,0 +1,149 @@
+{{- /*
+Renders the CODEOWNERS data for a given page.
+
+There are three types of code owner IDs in the CODEOWNERS file:
+- Email addresses (foo@example.org)
+- Users (@user)
+- Groups (@organization/group) (also known as teams)
+
+If the code owner ID is a user, and if a valid service is specified when
+calling this partial, we attempt to retrieve the user's name, link, and avatar
+from the service. If we cannot retrieve the user's information, we assume this
+is a non-existent user and nothing will be displayed.
+
+In all other cases, the code owner ID will be displayed as is.
+
+Why not retrieve group information from the service APIs? Because it requires
+authentication, and that seems like a lot of effort/hassle for a small return.
+
+@param page {page} The page for which to retrieve the CODEOWNERS data.
+@param service {string} The service with which to resolve the CODEOWNERS data.
+
+@example {{- partial "codeowners.html" . }}
+@example {{- partial "codeowners.html" (dict "page" .) }}
+@example {{- partial "codeowners.html" (dict "page" . "service" "github") }}
+@example {{- partial "codeowners.html" (dict "page" . "service" "gitlab") }}
+*/}}
+
+{{- /* Define API endpoints. */}}
+{{- $apis := dict
+  "github" (dict
+    "users" "https://api.github.com/users"
+  )
+  "gitlab" (dict
+    "users" "https://gitlab.com/api/v4/users?username="
+  )
+}}
+
+{{- /* Build a slice of valid services based on the API endpoints. */}}
+{{- $validServices := slice }}
+{{- range $k, $_ := $apis }}
+  {{- $validServices = $validServices | append $k }}
+{{- end }}
+
+{{- /* Get and validate arguments. */}}
+{{- $page := . }}
+{{- $service := "" }}
+{{- if reflect.IsMap . }}
+  {{- with .page }}
+    {{- $page = . }}
+  {{- else }}
+    {{- errorf "When passing a map to the codeowners partial, one of the elements must be named 'page', and it must be set to the context of the current page." }}
+  {{- end }}
+  {{- with .service }}
+    {{- $service = strings.ToLower . }}
+    {{- if not (in $validServices $service) }}
+      {{- errorf "The 'service' specified in the map passed to the codeowners partial is invalid. The valid options are %s." (delimit $validServices ", " " and ") }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Build slice of code owners. */}}
+{{- $codeOwners := slice }}
+{{- range $codeOwner := $page.Codeowners }}
+  {{- $type := "" }}
+  {{- if and (strings.HasPrefix $codeOwner "@") (strings.Contains $codeOwner "/") }}
+    {{- $type = "group" }}
+  {{- else if strings.HasPrefix $codeOwner "@" }}
+    {{- $type = "user" }}
+  {{- else if strings.Contains $codeOwner "@" }}
+    {{- $type = "email" }}
+  {{- end }}
+
+  {{- $name := $codeOwner }}
+  {{- $link := "" }}
+  {{- $img := "" }}
+
+  {{- if eq $type "user" }}
+    {{- $slug := strings.TrimPrefix "@" $codeOwner }}
+    {{- if eq $service "github" }}
+      {{- with resources.GetRemote (printf "%s/%s" (index $apis $service "users") $slug) }}
+        {{- $u := .Content | transform.Unmarshal }}
+        {{- with $u.name }}
+          {{- $name = . }}
+        {{- end }}
+        {{- with $u.html_url }}
+          {{- $link = . }}
+        {{- end }}
+        {{- with $u.avatar_url }}
+          {{- with resources.GetRemote . }}
+            {{- $img = .Fill "80x80" }}
+          {{- end }}
+        {{- end }}
+        {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name "link" $link "img" $img) }}
+      {{- end }}
+    {{- else if eq $service "gitlab" }}
+      {{- with resources.GetRemote (printf "%s%s" (index $apis $service "users") $slug) }}
+        {{- /* GitLab returns '[]' instead of nothing. */}}
+        {{- if gt (len .Content) 2 }}
+          {{- $u := index (.Content | transform.Unmarshal) 0 }}
+          {{- with $u.name }}
+            {{- $name = . }}
+          {{- end }}
+          {{- with $u.web_url }}
+            {{- $link = . }}
+          {{- end }}
+          {{- with $u.avatar_url }}
+            {{- with resources.GetRemote . }}
+              {{- $img = .Fill "80x80" }}
+            {{- end }}
+          {{- end }}
+          {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name "link" $link "img" $img) }}
+        {{- end }}
+      {{- end }}
+    {{- else }}
+      {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name) }}
+    {{- end }}
+  {{- else if eq $type "group" }}
+    {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name) }}
+  {{- else if eq $type "email" }}
+    {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name) }}
+  {{- end }}
+{{- end }}
+
+{{- /* Render. */}}
+{{- with $codeOwners }}
+  <div class="codeowners">
+    <div class="codeowners-heading">{{ or (T "code_owners") "Code Owners" }}</div>
+    {{- range (sort $codeOwners "type" "desc") }}
+      {{- if .link }}
+        {{- if .img }}
+          <div class="codeowner codeowner-with-image">
+            <a href="{{ .link }}">
+              <img src="{{ .img.RelPermalink }}" width="{{ .img.Width }}" height="{{ .img.Height }}" alt="{{ .name }}">
+            </a>
+            <a href="{{ .link }}">{{ .name }}</a>
+          </div>
+        {{- else }}
+          <div class="codeowner codeowner-with-link">
+            <a href="{{ .link }}">{{ .name }}</a>
+          </div>
+        {{- end }}
+      {{- else }}
+        <div class="codeowner">
+          {{ .name }}
+        </div>
+      {{- end }}
+    {{- end }}
+  </div>
+{{- end -}}
