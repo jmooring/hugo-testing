@@ -8,9 +8,8 @@
 
 {{ with $page.Parent }}
   {{ if $page.IsSection }}
-  {{ $depth = add $depth 1 }}
+    {{ $depth = add $depth 1 }}
   {{ end }}
-
   {{ partial "render-section-depth" (dict "page" . "depth" $depth) }}
 {{- else }}
   {{ $depth }}
