@@ -10,7 +10,9 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ range .Site.Pages.ByTitle }}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a> section depth = {{ partial "render-section-depth.html" . }}<br><br>
   {{ end }}
+
 {{ end }}

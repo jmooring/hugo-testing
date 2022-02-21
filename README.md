@@ -13,3 +13,18 @@ git clone --single-branch -b hugo-forum-topic-37302 https://github.com/jmooring/
 cd hugo-forum-topic-37302
 hugo server
 ```
+
+```text
+content/
+├── s1/
+│   ├── s1-1/
+│   │   ├── s1-1-1/
+│   │   │   ├── foo.md    --> section depth = 3
+│   │   │   └── _index.md --> section depth = 3
+│   │   ├── foo.md        --> section depth = 2
+│   │   └── _index.md     --> section depth = 2
+│   ├── foo.md            --> section depth = 1
+│   └── _index.md         --> section depth = 1
+├── foo.md                --> section depth = 0
+└── _index.md             --> section depth = 0
+```

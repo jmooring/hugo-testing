@@ -6,6 +6,7 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+<p>Section depth: {{ partial "render-section-depth.html" . }}</p>
 {{ block "main" . }}
 
 {{ end }}
