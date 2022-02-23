@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "postcss-cli": "^9.1.0"
+  },
+  "browserslist": [
+    "> 0.01%"
+  ]
+}
