@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #7333
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/7333>
 
-Description: @@DESCRIPTION@@
+Description: PostCSS does not work in directories with spaces
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```bash
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-7333 https://github.com/jmooring/hugo-testing hugo-github-issue-7333
+cd hugo-github-issue-7333
 hugo server
 ```
