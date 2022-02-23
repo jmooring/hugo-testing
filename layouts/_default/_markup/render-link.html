@@ -1,0 +1,19 @@
+{{- $u := urls.Parse .Destination }}
+{{- $href := $u.String }}
+{{- $text := .Text | safeHTML  }}
+{{- $title := .Title  }}
+
+{{- $oldHost := "youtu.be" }}
+{{- $newHost := "invidious.osi.kr" }}
+
+{{- if eq $u.Host $oldHost }}
+  {{- $query := "" }}
+  {{- with $u.RawQuery }}
+    {{- $query = printf "?%s" $u.RawQuery }}
+  {{- end }}
+  {{- $href = printf "%s://%s%s%s" $u.Scheme $newHost $u.Path $query }}
+  {{- $text = strings.ReplaceRE $oldHost $newHost $text | safeHTML }}
+{{- end }}
+
+<a href="{{ $href }}" {{- with $title }} title="{{ . }}" {{- end }}>{{ $text }}</a>
+{{- /**/ -}}
