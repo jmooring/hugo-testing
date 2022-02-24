@@ -1,3 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #37345'
+
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+# Default mounts
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+# This triggers the problem
+[[module.mounts]]
+source = 'assets'
+target = 'static'

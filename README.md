@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-forum-topic-37345 https://github.com/jmooring/
 cd hugo-forum-topic-37345
 hugo server
 ```
+
+Then in a new terminal:
+
+```bash
+echo "body {color: red}" > assets/styles.css 
+```
