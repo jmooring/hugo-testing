@@ -1,3 +1,21 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #37325'
+
+disableKinds = ['RSS','sitemap','taxonomy','term']
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages.en]
+weight = 1
+[languages.es]
+weight = 2
+
+# This is only required if you need to reference images in your static
+# directory using markdown.
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+[[module.mounts]]
+source = 'static'
+target = 'assets'
