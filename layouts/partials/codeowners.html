@@ -60,7 +60,7 @@ authentication, and that seems like a lot of effort/hassle for a small return.
 
 {{- /* Build slice of code owners. */}}
 {{- $codeOwners := slice }}
-{{- range $codeOwner := $page.Codeowners }}
+{{- range $codeOwner := $page.CodeOwners }}
   {{- $type := "" }}
   {{- if and (strings.HasPrefix $codeOwner "@") (strings.Contains $codeOwner "/") }}
     {{- $type = "group" }}
@@ -115,9 +115,11 @@ authentication, and that seems like a lot of effort/hassle for a small return.
       {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name) }}
     {{- end }}
   {{- else if eq $type "group" }}
-    {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name) }}
+    {{- /* Uncomment to display groups. */}}
+    {{- /*  {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name) }}  */}}
   {{- else if eq $type "email" }}
-    {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name) }}
+    {{- /* Uncomment to display email addresses. */}}
+    {{- /*  {{- $codeOwners = $codeOwners | append (dict "type" $type "name" $name) }}  */}}
   {{- end }}
 {{- end }}
 
