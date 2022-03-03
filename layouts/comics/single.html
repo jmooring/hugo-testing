@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+
+  {{ if and (gt .CurrentSection.Pages.Len 1) (ne .CurrentSection .FirstSection) }}
+    {{ $firstInSection := index (first 1 .CurrentSection.Pages.ByTitle) 0 }}
+    {{ $lastInSection := index (last 1 .CurrentSection.Pages.ByTitle) 0 }}
+    <a href="{{ $firstInSection.RelPermalink }}">First</a>
+    {{ with .PrevInSection }}
+      <a href="{{ .RelPermalink }}">Prev</a>
+    {{ end }}
+    {{ with .NextInSection }}
+      <a href="{{ .RelPermalink }}">Next</a>
+    {{ end }}
+    <a href="{{ $lastInSection.RelPermalink }}">Last</a>
+  {{ end }}
+
+
+
+
+
+{{ end }}
