@@ -6,6 +6,13 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+
+{{ partial "foo" . }}
+{{ partial "foo.html" . }}
+
+{{ partialCached "bar" . }}
+{{ partialCached "bar.html" . }}
+
 {{ block "main" . }}
 
 {{ end }}
