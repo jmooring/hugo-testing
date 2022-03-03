@@ -1,0 +1,34 @@
+metadata:
+  source: https://www.jamieoliver.com/recipes/eggs-recipes/easy-pancakes/
+  course: dinner
+  time required: 1.5 hours
+ingredients:
+- name: eggs
+  amount: '3'
+- name: butter
+  amount: some
+- name: milk
+  amount: 250 ml
+- name: flour
+  amount: 120 g
+- name: oil
+  amount: some
+- name: sea salt
+  amount: 1 pinch
+cookware:
+- name: bowl
+- name: large non-stick frying pan
+steps:
+- description: Crack the eggs into a blender, then add the flour, milk and sea salt,
+    and blitz until smooth.
+- description: Pour into a bowl and leave to stand for 15 minutes.
+- description: Melt the butter (or a drizzle of oil if you want to be a bit healthier)
+    in a large non-stick frying pan on a medium heat, then tilt the pan so the butter
+    coats the surface.
+- description: Pour in 1 ladle of batter and tilt again, so that the batter spreads
+    all over the base, then cook for 1 to 2 minutes, or until it starts to come away
+    from the sides.
+- description: Once golden underneath, flip the pancake over and cook for 1 further
+    minute, or until cooked through.
+- description: 'Serve straightaway with your favourite topping. '
+

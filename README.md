@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-github-issue-9602 https://github.com/jmooring/
 cd hugo-github-issue-9602
 hugo server
 ```
+
+Using the CookLang CLI to export a recipe to YAML:
+
+```bash
+cook recipe read pancakes.cook --output-format yaml > recipe.yaml
+```

@@ -1,0 +1,53 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Resources.GetMatch "*feature*" }}
+    {{ with .Resize "x300 webp" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}">
+    {{ end }}
+  {{ end }}
+
+  {{ .Content }}
+
+  {{ with .Resources.GetMatch "recipe.yaml" }}
+    {{ $d := transform.Unmarshal . }}
+
+    {{ with $d.metadata }}
+      <h2>Overview</h2>
+      {{ range $k, $v := . }}
+        {{ if eq $k "source" }}
+          {{ strings.FirstUpper $k }}: <a href="{{ $v }}">{{ $v }}</a><br>
+        {{ else }}
+          {{ printf "%s: %s" (strings.FirstUpper $k) $v }}<br>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ with $d.cookware }}
+      <h2>Cookware</h2>
+      <ul>
+        {{ range . }}
+          <li>{{ .name }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{ with $d.ingredients }}
+      <h2>Ingredients</h2>
+      <ul>
+        {{ range . }}
+          <li>{{ .name }} ({{ .amount }})</li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{ with $d.steps }}
+      <h2>Steps</h2>
+      <ol>
+        {{ range . }}
+          <li>{{ .description }}</li>
+        {{ end }}
+      </ol>
+    {{ end }}
+  {{ end }}
+{{ end }}
