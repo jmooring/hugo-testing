@@ -1,6 +1,6 @@
 +++
 title = 'Post 9'
-date = 2022-03-04T14:53:27-08:00
+date = 2022-03-04T15:41:50-08:00
 draft = false
 +++
 Life appears like the introduction of a new element or force or tendency into the cosmos. Henceforth the elements go new ways, form new compounds, build up new forms, and change the face of nature. Rivers flow where they never would have flowed without it, mountains fall in a space of time during which they never would have fallen; barriers arise, rough ways are made smooth, a new world appears--the world of man's physical and mental activities.

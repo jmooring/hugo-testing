@@ -1,12 +1,11 @@
 {{ define "main" }}
 
   <h1>{{ .Title }}</h1>
-  <div id="fuzzy-date"></div>
+  <time id="publish-date" datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}"></time>
   {{ .Content }}
 
   <script>
-    const timeAgo = new TimeAgo({{ site.LanguageCode }});
-    document.getElementById('fuzzy-date').innerHTML = timeAgo.format({{ .Date.UnixMilli }});
+    document.getElementById('publish-date').innerHTML = timeAgo({{ .Date.UnixMilli }}, {{ site.LanguageCode }});
   </script>
 
 {{ end }}
