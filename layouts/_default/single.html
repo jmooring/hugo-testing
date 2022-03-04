@@ -1,4 +1,12 @@
 {{ define "main" }}
+
   <h1>{{ .Title }}</h1>
+  <div id="fuzzy-date"></div>
   {{ .Content }}
+
+  <script>
+    const timeAgo = new TimeAgo({{ site.LanguageCode }});
+    document.getElementById('fuzzy-date').innerHTML = timeAgo.format({{ .Date.UnixMilli }});
+  </script>
+
 {{ end }}
