@@ -1,11 +1,14 @@
 {{ define "main" }}
 
   <h1>{{ .Title }}</h1>
-  <time id="publish-date" datetime="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}"></time>
+
+  {{ $dateValue := .PublishDate.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateDisplay := .PublishDate | time.Format ":date_long" }}
+  <time id="publish-date" datetime="{{ $dateValue }}">{{ $dateDisplay }}</time>
   {{ .Content }}
 
   <script>
-    document.getElementById('publish-date').innerHTML = timeAgo({{ .Date.UnixMilli }}, {{ site.LanguageCode }});
+    document.getElementById('publish-date').innerHTML = timeAgo({{ .PublishDate.UnixMilli }}, {{ site.LanguageCode }});
   </script>
 
 {{ end }}
