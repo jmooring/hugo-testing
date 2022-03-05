@@ -1,7 +1,5 @@
 {
   "devDependencies": {
-    "install": "^0.13.0",
-    "npm": "^8.5.3",
     "timeago.js": "^4.0.2"
   }
 }
