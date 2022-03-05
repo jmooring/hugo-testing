@@ -4,11 +4,21 @@
 
   {{ $dateValue := .PublishDate.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateDisplay := .PublishDate | time.Format ":date_long" }}
+
   <time id="publish-date" datetime="{{ $dateValue }}">{{ $dateDisplay }}</time>
+
   {{ .Content }}
 
+  {{/* The locale string used by timeago.js requires this format: aa_AA */}}
+  {{ $locale := strings.ReplaceRE "-" "_" site.LanguageCode }}
+  {{ $parts := strings.Split $locale "_" }}
+  {{ $lang := index $parts 0 | strings.ToLower }}
+  {{ $country := index $parts 1 | strings.ToUpper }}
+  {{ $locale = printf "%s_%s" $lang $country }}
+
   <script>
-    document.getElementById('publish-date').innerHTML = timeAgo({{ .PublishDate.UnixMilli }}, {{ site.LanguageCode }});
+    const el = document.getElementById('publish-date');
+    el.innerHTML = timeAgo({{ .PublishDate.UnixMilli }}, {{ $locale }});
   </script>
 
 {{ end }}
