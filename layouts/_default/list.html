@@ -1,7 +1,28 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
+
+  {{ range (.Paginate .Pages 5).Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+  {{ template "_internal/pagination.html" . }}
+  {{ .Store.Set "paginator_number_of_pagers" .Paginator.TotalPages }}
+
+  {{/*
+  .Paginator.First {{ .Paginator.First }}<br>
+  .Paginator.HasNext {{ .Paginator.HasNext }}<br>
+  .Paginator.HasPrev {{ .Paginator.HasPrev }}<br>
+  .Paginator.Last {{ .Paginator.Last }}<br>
+  .Paginator.Next {{ .Paginator.Next }}<br>
+  .Paginator.NumberOfElements {{ .Paginator.NumberOfElements }}<br>
+  .Paginator.PageNumber {{ .Paginator.PageNumber }}<br>
+  .Paginator.Pagers {{ .Paginator.Pagers }}<br>
+  .Paginator.Pages {{ .Paginator.Pages }}<br>
+  .Paginator.PageSize {{ .Paginator.PageSize }}<br>
+  .Paginator.Prev {{ .Paginator.Prev }}<br>
+  .Paginator.TotalNumberOfElements {{ .Paginator.TotalNumberOfElements }}<br>
+  .Paginator.TotalPages {{ .Paginator.TotalPages }}<br>
+  .Paginator.URL {{ .Paginator.URL }}<br>
+  */}}
+
 {{ end }}

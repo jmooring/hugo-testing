@@ -6,6 +6,11 @@
   <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
+
+{{ with .Store.Get "paginator_number_of_pagers" }}
+  Number of pagers: {{ . }}
+{{ end }}
+
 {{ block "main" . }}
 
 {{ end }}

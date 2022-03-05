@@ -5,3 +5,6 @@ draft = false
 details = 'https://discourse.gohugo.io/t/37494'
 description = "Determine if current page is result of pagination"
 +++
+[Posts](/posts/)
+
+---
