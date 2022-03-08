@@ -5,3 +5,7 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/9627'
 description = "error calling Position: runtime error: slice bounds out of range [:-1]"
 +++
+
+```text
+{{</* foo */>}}
+```
