@@ -1,0 +1,16 @@
+{{- with site.GetPage (.Get "code") -}}
+  {{- $content := strings.Trim .Content "\r\n" -}}
+  {{- $content = strings.ReplaceRE `\r` "\n" $content -}}
+  {{- $contentLines := strings.Split $content "\n" -}}
+  {{- $paddedContentLines := slice -}}
+  {{- $offset := sub $.Position.ColumnNumber 1 -}}
+  {{- range $k, $v := $contentLines -}}
+    {{- if $k -}}
+      {{- $paddedContentLines = $paddedContentLines | append (print (strings.Repeat $offset " ") $v) -}}
+    {{- else -}}
+      {{- $paddedContentLines = $paddedContentLines | append $v -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $newContent := delimit $paddedContentLines "\n" -}}
+  {{- $newContent | safeHTML -}}
+{{- end -}}

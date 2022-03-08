@@ -11,5 +11,5 @@ Clone this branch of the repository and build the site.
 ```bash
 git clone --single-branch -b hugo-forum-topic-37551 https://github.com/jmooring/hugo-testing hugo-forum-topic-37551
 cd hugo-forum-topic-37551
-hugo server
+hugo && cat public/page/example/index.html
 ```
