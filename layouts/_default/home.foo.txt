@@ -1,0 +1,16 @@
+{{ .Title }}
+
+{{ with .Params.details -}}
+Details: {{ . }}
+{{ end }}
+
+{{- with .Params.description }}
+Description: {{ . }}
+{{- end }}
+
+{{ .Plain }}
+{{ range .Site.RegularPages }}
+{{ .Title }} ({{ .Permalink }})
+{{ end -}}
+
+{{ partial "example.html" }}
