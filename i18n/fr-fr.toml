@@ -1,0 +1,5 @@
+hello = 'Bonjour'
+
+[day]
+one = '{{ . }} jour'
+other = '{{ . }} jours'

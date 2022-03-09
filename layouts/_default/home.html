@@ -9,6 +9,18 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  Today's date:<br>
+  {{ now | time.Format ":date_full" }}<br><br>
+
+  Translate hello:<br>
+  {{ T "hello" }}<br><br>
+
+  Translate 0, 1, and 2 days:<br>
+  {{ T "day" 0 }}<br>
+  {{ T "day" 1 }}<br>
+  {{ T "day" 2 }}<br>
+
   {{ .Content }}
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
