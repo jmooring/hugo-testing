@@ -1,6 +1,6 @@
 {{- with site.GetPage (.Get "code") -}}
-  {{- $content := strings.Trim .Content "\r\n" -}}
-  {{- $content = strings.ReplaceRE `\r` "\n" $content -}}
+  {{- $content := strings.ReplaceRE `\r` "" .Content -}}
+  {{- $content = strings.Trim $content "\n" -}}
   {{- $contentLines := strings.Split $content "\n" -}}
   {{- $paddedContentLines := slice -}}
   {{- $offset := sub $.Position.ColumnNumber 1 -}}
