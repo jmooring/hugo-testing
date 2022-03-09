@@ -1,3 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #37576'
+
+[permalinks]
+posts ='/:sections[0:2]/:title/'
