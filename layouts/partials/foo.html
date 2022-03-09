@@ -1,0 +1,6 @@
+<p>This is layouts/partials/foo.html</p>
+{{ partial "partials/bar.html" }}
+
+{{ define "partials/bar.html" }}
+  <p>This is the inline partial (partials/bar.html) within layouts/partials/foo.html</p>
+{{ end }}

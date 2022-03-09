@@ -9,8 +9,12 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
+  {{/* This works as expected. */}}
+  {{ partial "foo.html" }}
+
+  {{/* This is calling the inline partial (partials/bar.html) within layouts/partials/foo.html */}}
+  {{/* It should be calling layouts/partials/bar.html */}}
+  {{ partial "bar.html" }}
+
 {{ end }}
