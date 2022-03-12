@@ -9,8 +9,28 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{/*
+  Build a map of pages. For each element:
+  - The key is the first letter of the title (lowercase)
+  - The value is a slice of related pages
+  */}}
+  {{ $mp := dict }}
+  {{ range $p := where (where site.RegularPages "Section" "fruits") "Params.has_picture" "Y" }}
+    {{ $firstLetter := strings.ToLower (strings.Substr $p.Title 0 1) }}
+    {{ with index $mp $firstLetter }}
+      {{ $mp = merge $mp (dict $firstLetter (append . (slice $p))) }}
+    {{ else }}
+      {{ $mp = merge $mp (dict $firstLetter (slice $p)) }}
+    {{ end }}
   {{ end }}
+
+  {{/* Display links to the pages, grouped by the first letter with count. */}}
+  {{ range $firstLetter, $pages := $mp }}
+    <h2>{{ strings.FirstUpper $firstLetter }} ({{ len $pages }})</h2>
+    {{ range $pages.ByTitle }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+    {{ end }}
+  {{ end }}
+
 {{ end }}
