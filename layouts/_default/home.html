@@ -9,8 +9,15 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+{{ range site.Sections.ByWeight }}
+  <h1>{{ .Title }}</h1>
+  {{ range .RegularPagesRecursive.ByTitle }}
+    <div class="page-container">
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ .Content }}
+    </div>
   {{ end }}
+{{ end }}
+
 {{ end }}

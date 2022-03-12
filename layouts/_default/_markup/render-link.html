@@ -1,0 +1,51 @@
+{{- $attrs := collections.Dictionary }}
+{{- $u := urls.Parse .Destination }}
+
+{{- if $u.IsAbs }}
+  {{- /* Remote */}}
+  {{- $attrs = collections.Dictionary "href" $u.String "rel" "external" }}
+{{- else }}
+  {{- with $u.Path }}
+    {{- with site.GetPage . }}
+      {{- /* Page */}}
+      {{- $href := .RelPermalink }}
+      {{- with $u.RawQuery }}
+        {{- $href = fmt.Printf "%s?%s" $href $u.RawQuery }}
+      {{- end }}
+      {{- with $u.Fragment }}
+        {{- $href = fmt.Printf "%s#%s" $href $u.Fragment }}
+      {{- end }}
+      {{- $attrs = collections.Dictionary "href" $href }}
+    {{- else }}
+      {{- with $.Page.Resources.GetMatch $u.Path }}
+        {{- /* Page resource; drop query and fragment */}}
+        {{- $attrs = collections.Dictionary "href" .RelPermalink }}
+      {{- else }}
+        {{- with resources.Get $u.Path }}
+          {{- /* Global resource; drop query and fragment */}}
+          {{- $attrs = collections.Dictionary "href" .RelPermalink }}
+        {{- else }}
+          {{- fmt.Errorf "Unable to resolve reference to %q from %q" $u.Path $.Page.File.Path }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- else }}
+    {{- with $u.Fragment }}
+      {{- /* Fragment only; prepend page's relative permalink */}}
+      {{- $attrs = collections.Dictionary "href" (fmt.Printf "%s#%s" $.Page.RelPermalink .) }}
+    {{- else }}
+      {{- fmt.Errorf "Unable to resolve reference to %q from %q" $u.Path $.Page.File.Path }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- with .Title }}
+  {{- $attrs = collections.Merge $attrs (collections.Dictionary "title" .) }}
+{{- end -}}
+
+<a
+{{- range $k, $v := $attrs }}
+  {{- fmt.Printf " %s=%q" $k $v | safe.HTMLAttr }}
+{{- end -}}
+>{{ .Text | safe.HTML }}</a>
+{{- /**/ -}}

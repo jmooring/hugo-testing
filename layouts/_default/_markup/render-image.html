@@ -1,0 +1,34 @@
+{{- $attrs := collections.Dictionary }}
+{{- $u := urls.Parse .Destination }}
+
+{{- if $u.IsAbs }}
+  {{- /* Remote */}}
+  {{- $attrs = collections.Dictionary "src" $u.String }}
+{{- else }}
+  {{- with .Page.Resources.GetMatch $u.Path }}
+    {{- /* Page resource */}}
+    {{- $attrs = collections.Dictionary "src" .RelPermalink "width" (cast.ToString .Width) "height" (cast.ToString .Height) }}
+  {{- else }}
+    {{- with resources.Get $u.Path }}
+      {{- /* Global resource */}}
+      {{- $attrs = collections.Dictionary "src" .RelPermalink "width" (cast.ToString .Width) "height" (cast.ToString .Height) }}
+    {{- else }}
+      {{- fmt.Errorf "Unable to resolve reference to %q from %q" $u.String .Page.File.Path }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- with .Title }}
+  {{- $attrs = collections.Merge $attrs (collections.Dictionary "title" .) }}
+{{- end }}
+
+{{- with .PlainText }}
+  {{- $attrs = collections.Merge $attrs (collections.Dictionary "alt" .) }}
+{{- end -}}
+
+<img
+{{- range $k, $v := $attrs }}
+  {{- fmt.Printf " %s=%q" $k $v | safe.HTMLAttr }}
+{{- end -}}
+>
+{{- /**/ -}}
