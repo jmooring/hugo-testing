@@ -26,6 +26,13 @@ No other sections will be paginated.
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   {{ partial "head/title.html" . }}
   {{ partialCached "head/css.html" . }}
+
+  {{ $canonicalURL := .Permalink }}
+  {{ with $paginator }}
+    {{ $canonicalURL = .URL | absLangURL }}
+  {{ end }}
+  <link rel="canonical" href="{{ $canonicalURL }}">
+
 </head>
 <body>
 
