@@ -1,11 +1,38 @@
+{{- /*
+Handle pagination for entire site. Pages per pager:
+
+  articles: 3
+  books: 5
+  films: 7
+
+No other sections will be paginated.
+*/}}
+{{- $paginator := "" }}
+{{- if and .IsSection (eq .Section "articles") }}
+  {{- $p := where site.RegularPages.ByTitle "Section" "articles" }}
+  {{- $paginator = .Paginate $p 3 }}
+{{- else if and .IsSection (eq .Section "books") }}
+  {{- $p := where site.RegularPages.ByTitle.Reverse "Section" "books" }}
+  {{- $paginator = .Paginate $p 5 }}
+{{- else if and .IsSection (eq .Section "films") }}
+  {{- $p := where site.RegularPages.ByDate "Section" "films" }}
+  {{- $paginator = .Paginate $p 7 }}
+{{- end -}}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
-  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+  {{ partial "head/title.html" . }}
+  {{ partialCached "head/css.html" . }}
 </head>
 <body>
+
+{{ with $paginator }}
+  <p><mark>{{ printf "This is pager %d of %d" .PageNumber .TotalPages }}</p></mark>
+{{ end }}
+
 {{ block "main" . }}
 
 {{ end }}
