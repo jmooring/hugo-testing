@@ -1,0 +1,5 @@
+{{ with $i := .Page.Resources.GetMatch .Destination }}
+  <img src="{{ .RelPermalink }}">
+{{ else }}
+  {{ errorf "Unable to get %q as a page resource" .Destination }}
+{{ end }}
