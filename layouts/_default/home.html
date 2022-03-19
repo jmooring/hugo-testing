@@ -9,6 +9,35 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+  <p>Translations:
+    {{ range .AllTranslations }}
+      <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+  </p>
+  <hr>
+  {{ if eq .RelPermalink "/en/" }}
+    This page should list:
+    <ul>
+      <li>Test 1 (en)</li>
+      <li>Test 2 (en)</li>
+      <li>Test 3 (en)</li>
+    </ul>
+  {{ else if eq .RelPermalink "/de/" }}
+    This page should list:
+    <ul>
+      <li>Test 1 (de)</li>
+      <li>Test 2 (en)</li>
+      <li>Test 3 (en)</li>
+    </ul>
+  {{ else if eq .RelPermalink "/nl/" }}
+    This page should list:
+    <ul>
+      <li>Test 1 (nl)</li>
+      <li>Test 2 (en)</li>
+      <li>Test 3 (nl)</li>
+    </ul>
+  {{ end }}
+  <hr>
   {{ .Content }}
   {{ range .Site.RegularPages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
