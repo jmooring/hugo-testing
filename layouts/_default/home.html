@@ -36,6 +36,13 @@
       <li>Test 2 (en)</li>
       <li>Test 3 (nl)</li>
     </ul>
+  {{ else if eq .RelPermalink "/es/" }}
+    This page should list:
+    <ul>
+      <li>Test 1 (en)</li>
+      <li>Test 2 (en)</li>
+      <li>Test 3 (en)</li>
+    </ul>
   {{ end }}
   <hr>
   {{ .Content }}

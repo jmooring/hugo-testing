@@ -3,18 +3,33 @@ languageCode = 'en-us'
 title = 'Hugo Forum Topic #37225'
 
 disableKinds = ['sitemap','RSS','taxonomy','term']
+
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
+
+#------------------------------------------------------------------------------
+# Languages
+#------------------------------------------------------------------------------
 
 [languages.en]
 languageName = 'English'
 weight = 1
+
 [languages.de]
 languageName = 'Deutsch'
 weight = 2
+
 [languages.nl]
 languageName = 'Nederlands'
 weight = 3
+
+[languages.es]
+languageName = 'Español'
+weight = 4
+
+#------------------------------------------------------------------------------
+# Content mounts
+#------------------------------------------------------------------------------
 
 # EN content
 [[module.mounts]]
@@ -28,20 +43,36 @@ source = 'content/de'
 target = 'content'
 lang = 'de'
 
-# This fills in the gaps in DE content with EN content
-[[module.mounts]]
-source = 'content/en'
-target = 'content'
-lang = 'de'
-
 # NL content
 [[module.mounts]]
 source = 'content/nl'
 target = 'content'
 lang = 'nl'
 
-# This should fill in the gaps in NL content with EN content --> BUT IT BREAKS EVERYTHING
+# ES content
+[[module.mounts]]
+source = 'content/es'
+target = 'content'
+lang = 'es'
+
+#------------------------------------------------------------------------------
+# Fill in the missing translations
+#------------------------------------------------------------------------------
+
+# This fills in the gaps in DE content with EN content
+[[module.mounts]]
+source = 'content/en'
+target = 'content'
+lang = 'de'
+
+# This fills in the gaps in NL content with EN content.
 [[module.mounts]]
 source = 'content/en'
 target = 'content'
 lang = 'nl'
+
+# This fills in the gaps in ES content with EN content.
+[[module.mounts]]
+source = 'content/en'
+target = 'content'
+lang = 'es'
