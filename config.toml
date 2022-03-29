@@ -1,3 +1,46 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #37916'
+
+disableKinds = ['sitemap','RSS','taxonomy','term']
+
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+
+#------------------------------------------------------------------------------
+# Languages
+#------------------------------------------------------------------------------
+
+[languages.fr]
+languageName = 'Français'
+weight = 1
+
+[languages.en]
+languageName = 'English'
+weight = 2
+
+#------------------------------------------------------------------------------
+# Content mounts
+#------------------------------------------------------------------------------
+
+# FR content
+[[module.mounts]]
+source = 'content/french/news'
+target = 'content/news'
+lang = 'fr'
+
+# EN content
+[[module.mounts]]
+source = 'content/english/news'
+target = 'content/news'
+lang = 'en'
+
+#------------------------------------------------------------------------------
+# Fill in the missing translations
+#------------------------------------------------------------------------------
+
+# This fills in the gaps in EN content with FR content
+[[module.mounts]]
+source = 'content/french/news'
+target = 'content/news'
+lang = 'en'

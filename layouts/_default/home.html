@@ -9,6 +9,12 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+  <p>Translations:
+    {{ range .AllTranslations }}
+      <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+  </p>
+  <hr>
   {{ .Content }}
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
