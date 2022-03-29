@@ -1,0 +1,27 @@
+{{- $figureID := add .Ordinal 1 | string }}
+
+{{- $src := "" }}
+{{- $alt := "" }}
+
+{{- with .Get "src" }}
+  {{- $src = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a %q parameter. See %s" .Name "src" .Position }}
+{{- end }}
+
+{{- with .Get "alt" }}
+  {{- $alt = . }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a %q parameter. See %s" .Name "alt" .Position }}
+{{- end }}
+
+{{- with .Page.Resources.GetMatch $src }}
+  {{- with .Resize "400x wepb" }}
+    <figure id="{{ printf "figure-%s" $figureID }}">
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $alt }}">
+      <figcaption>{{ printf "Figure %s" $figureID }}</figcaption>
+    </figure>
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode was unable to resolve %q to a page resource. See %s" .Name $src .Position}}
+{{- end -}}
