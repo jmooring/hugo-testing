@@ -1,3 +1,14 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #9751'
+
+[[module.imports]]
+path = "github.com/jmooring/hugo-content"
+
+[[module.imports.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.imports.mounts]]
+source = "content"
+target = "content"
