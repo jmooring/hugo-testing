@@ -1,4 +1,24 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "sdlc_phases" }}
+    <p>sdlc_phases:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
+  {{ with .GetTerms "jtbd_processes" }}
+  <p>jtbd_processes:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+
+{{ end }}
+
+
+
   {{ .Content }}
 {{ end }}

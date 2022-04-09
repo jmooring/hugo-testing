@@ -9,8 +9,18 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  <p>The are the jtbd_processes related to sdlc_phase "a" </p>
+  {{ $s := slice }}
+  {{ range where site.RegularPages "Params.sdlc_phases" "intersect" (slice "a") }}
+    {{ range .GetTerms "jtbd_processes" }}
+      {{ $s = $s | append (dict "RelPermalink" .RelPermalink "LinkTitle" .LinkTitle) }}
+    {{ end }}
   {{ end }}
+  {{ $s = uniq $s }}
+
+  {{ range $s }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+
 {{ end }}
