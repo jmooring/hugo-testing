@@ -1,0 +1,54 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $events := slice }}
+
+  {{ range $p := .Pages }}
+    {{ with $event_date := $p.Params.event_date }}
+      {{ if ge $event_date now }}
+        {{ $events = $events | append (dict "Date" $event_date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink) }}
+      {{ end }}
+      {{ with $p.Params.event_recurrence_interval }}
+        {{ if eq . "weekly" }}
+          {{ range $i := seq 100 }}
+            {{ $date := $event_date.AddDate 0 0 (mul $i 7 | int) }}
+            {{ if lt $date now }}
+              {{ continue }}
+            {{ end }}
+            {{ if lt $p.Params.event_recurrence_end_date $date }}
+              {{ break }}
+            {{ end }}
+            {{ $events = $events | append (dict "Date" $date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink) }}
+          {{ end }}
+        {{ else if eq . "monthly" }}
+          {{ range $i := seq 100 }}
+            {{ $date := $event_date.AddDate 0 $i 0 }}
+            {{ if lt $date now }}
+              {{ continue }}
+            {{ end }}
+            {{ if lt $p.Params.event_recurrence_end_date $date }}
+              {{ break }}
+            {{ end }}
+            {{ $events = $events | append (dict "Date" $date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink) }}
+          {{ end }}
+        {{ else }}
+          {{ errorf "Invalid event recurrence interval: %q" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Debug */}}
+  {{ if false }}
+    <pre>{{ jsonify (dict "indent" "  ") (sort $events "Date") }}</pre>
+  {{ end }}
+
+  {{ range sort $events "Date" }}
+    <div class="event">
+      <div class="event-name">Event name: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></div>
+      <div class="event-date">Event date: {{ .Date | time.Format ":date_long" }}</div>
+    </div>
+  {{ end }}
+
+{{ end }}
