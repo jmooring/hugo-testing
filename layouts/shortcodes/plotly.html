@@ -1,0 +1,70 @@
+{{- /**
+Renders a chart using the Plotly JavaScript open source graphing library.
+
+Requires the following directory structure:
+
+  data
+  └── plotly/
+      └── chart-1.json
+      └── chart-2.json
+
+Each JSON file requires the following data structure (layout, config, and frames are optional):
+
+  {
+    "data": [],
+    "layout": {},
+    "config": {},
+    "frames": []
+  }
+
+Include this in the head element of your baseof.html template:
+
+  {{ if .HasShortcode "plotly" }}
+    <script src="https://cdn.plot.ly/plotly-2.11.1.min.js"></script>
+  {{ end }}
+
+@param {string} obj - The name of the data object within the data/plotly directory, excluding extension.
+@param {string} [class] - Value to assign to the class attribute of the wrapping div element.
+@param {string} [style] - Value to assign to the style attribute of the wrapping div element.
+
+@see Overview:  https://plotly.com/javascript/
+@see Data:      https://plotly.com/javascript/reference
+@see Layout:    https://plotly.com/javascript/reference/layout
+@see Config:    https://plotly.com/javascript/configuration-options
+
+@example {{< plotly obj="chart-1" >}}
+@example {{< plotly obj="chart-1" class="my-class" >}}
+@example {{< plotly obj="chart-1" class="my-class" style="width: 600px;" >}}
+*/}}
+
+{{- $obj := "" }}
+{{- with .Get "obj" }}
+  {{- with index site.Data.plotly . }}
+    {{- $obj = . }}
+  {{- else }}
+    {{- errorf "The %q shortcode was unable to obtain the %q data object. See %s." $.Name . $.Position  }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode requires an 'obj' argument. See %s" .Name .Position }}
+{{- end }}
+
+{{- $id := printf "plotly-%03d" (add 1 .Ordinal) }}
+{{- $attributes := dict "id" $id }}
+
+{{- with .Get "class" }}
+  {{- $attributes = merge $attributes (dict "class" .) }}
+{{- end }}
+
+{{- with .Get "style" }}
+  {{- $attributes = merge $attributes (dict "style" .) }}
+{{- end }}
+
+<div
+{{- range $k, $v := $attributes }}
+  {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+{{- end -}}
+></div>
+
+<script>
+  Plotly.newPlot(document.getElementById({{ $id }}), {{ $obj }});
+</script>
