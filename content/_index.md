@@ -5,3 +5,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/38231'
 description = "Link cloaker option with Hugo"
 +++
+These are my favorite books:
+
+- [Les Miserables]({{< relref "recommendations/les-miserables" >}})
+- [The Hunchback of Notre Dame]({{< relref "recommendations/the-hunchback-of-notre-dame" >}})
