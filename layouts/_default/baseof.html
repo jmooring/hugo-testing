@@ -4,10 +4,30 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  {{ $scss := resources.Get "scss/main.scss" }}
+  {{ $css := $scss | toCSS | postCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
 </head>
 <body>
 {{ block "main" . }}
 
 {{ end }}
+
+<h2>Sass</h2>
+
+<pre>
+assets/scss/main.scss:
+
+{{ $scss.Content }}
+</pre>
+
+<h2>CSS (auto-prefixed, minified, and fingerprinted) </h2>
+
+<pre>
+{{ $css.RelPermalink }}:
+
+{{ $css.Content }}
+</pre>
+
 </body>
 </html>
