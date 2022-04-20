@@ -1,3 +1,24 @@
+{{- if and (not .ExpiryDate.IsZero) (le .ExpiryDate now) -}}
+
+  {{- $expiryURL := "" }}
+  {{- with and .Params.expiryURL (site.GetPage .Params.expiryURL) }}
+    {{- $expiryURL = .RelPermalink }}
+  {{- else }}
+    {{- $expiryURL = site.Home.RelPermalink }}
+  {{- end -}}
+
+<!DOCTYPE html>
+<html lang="{{ or site.LanguageCode site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+  <meta name="robots" content="noindex">
+  <meta http-equiv="refresh" content="0; url={{ $expiryURL }}">
+</head>
+</html>
+
+{{- else -}}
+
 <!DOCTYPE html>
 <html lang="{{ or .Site.LanguageCode .Site.Language.Lang }}">
 <head>
@@ -11,3 +32,5 @@
 {{ end }}
 </body>
 </html>
+
+{{- end }}
