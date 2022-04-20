@@ -7,7 +7,7 @@
   {{ range $p := .Pages }}
     {{ with $event_date := $p.Params.event_date }}
       {{ if ge $event_date now }}
-        {{ $events = $events | append (dict "Date" $event_date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink) }}
+        {{ $events = $events | append (dict "Date" $event_date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink "learnMore" $p.Params.learn_more) }}
       {{ end }}
       {{ with $p.Params.event_recurrence_interval }}
         {{ if eq . "weekly" }}
@@ -19,7 +19,7 @@
             {{ if lt $p.Params.event_recurrence_end_date $date }}
               {{ break }}
             {{ end }}
-            {{ $events = $events | append (dict "Date" $date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink) }}
+            {{ $events = $events | append (dict "Date" $date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink "learnMore" $p.Params.learn_more) }}
           {{ end }}
         {{ else if eq . "monthly" }}
           {{ range $i := seq 100 }}
@@ -30,7 +30,7 @@
             {{ if lt $p.Params.event_recurrence_end_date $date }}
               {{ break }}
             {{ end }}
-            {{ $events = $events | append (dict "Date" $date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink) }}
+            {{ $events = $events | append (dict "Date" $date "LinkTitle" $p.LinkTitle "RelPermalink" $p.RelPermalink "learnMore" $p.Params.learn_more) }}
           {{ end }}
         {{ else }}
           {{ errorf "Invalid event recurrence interval: %q" . }}
@@ -48,6 +48,7 @@
     <div class="event">
       <div class="event-name">Event name: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></div>
       <div class="event-date">Event date: {{ .Date | time.Format ":date_long" }}</div>
+      <div class="event-learn-more">Lean more: {{ .learnMore }}</div>
     </div>
   {{ end }}
 
