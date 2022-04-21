@@ -1,0 +1,11 @@
+{{ $p := site.GetPage "headless/hero" }}
+
+<div class="hero-image">
+  {{ with $p.Resources.Get "kitten.jpg" }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+</div>
+
+<div class="hero-content">
+  {{ $p.Content }}
+</div>

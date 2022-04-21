@@ -9,8 +9,7 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
+  {{ partial "hero.html" . }}
+
 {{ end }}
