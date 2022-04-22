@@ -9,6 +9,9 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  {{ partial "modals/wrapper.html" (dict "ctx" . "modal" "modal-1.html" ) }}
+
   {{ .Content }}
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>

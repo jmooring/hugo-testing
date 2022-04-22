@@ -1,0 +1,14 @@
+{{/*
+  Within this partial, $ctx refers to the current context at the point the
+  modal wrapper was called.
+
+  For example, if you call the modal wrapper from the root context of
+  layouts/_default/single.html, you can access the page title with $ctx.Title.
+*/}}
+{{ $ctx := .ctx }}
+
+<pre style="color: red;">  begin layouts/partials/modals/modal-1.html</pre>
+
+<p>This is is layouts/partials/modals/modal-1.html</p>
+
+<pre style="color: red;">  end layouts/partials/modals/modal-1.html</pre>
