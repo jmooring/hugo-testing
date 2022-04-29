@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #9846'
+date = 2022-04-29T10:13:33-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/9846'
+description = "Both HasMenuCurrent and IsMenuCurrent return true for section pages"
 +++
