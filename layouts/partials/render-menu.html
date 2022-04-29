@@ -1,0 +1,19 @@
+<p>Main menu:</p>
+
+{{ range site.Menus.main }}
+
+  <pre>
+    <a href="{{ .URL }}">{{ .Name }}</a>
+    IsMenuCurrent = {{ $.IsMenuCurrent "main" . }}
+    HasMenuCurrent = {{ $.HasMenuCurrent "main" . }}
+  </pre>
+
+  {{ range .Children }}
+    <pre>
+      <a href="{{ .URL }}">{{ .Name }}</a>
+      IsMenuCurrent = {{ $.IsMenuCurrent "main" . }}
+      HasMenuCurrent = {{ $.HasMenuCurrent "main" . }}
+    </pre>
+  {{ end }}
+
+{{ end }}
