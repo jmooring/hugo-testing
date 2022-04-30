@@ -10,6 +10,19 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
+  <pre>
+    &lbrace;{ T "cat" 2 }} --> {{ T "cat" 2 }}
+
+    &lbrace;{ now | time.Format ":date_long" }} --> {{ now | time.Format ":date_long" }}
+
+    &lbrace;{ .Site.Language.Lang }} --> {{ .Site.Language.Lang }}
+
+    &lbrace;{ .Site.Language.LanguageName }} -> {{ .Site.Language.LanguageName }}
+
+    &lbrace;{ .Site.LanguageCode }} --> {{ .Site.LanguageCode }}
+  </pre>
+
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
