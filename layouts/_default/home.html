@@ -10,7 +10,47 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  <h2>One</h2>
+
+  {{ range .Params.keywords }}
+    {{ with site.GetPage (path.Join "/software" .) }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+    {{ end }}
   {{ end }}
+
+  <h2>Two</h2>
+
+  {{ with .Params.keywords }}
+    {{ range (shuffle .) }}
+      {{ with site.GetPage (path.Join "/software" .) }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <h2>Three</h2>
+
+  {{ $pages := slice }}
+  {{ range .Params.keywords }}
+    {{ with site.GetPage (path.Join "/software" .) }}
+      {{ $pages = $pages | append . }}
+    {{ end }}
+  {{ end }}
+  {{ range sort $pages "Params.foo" }}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+  {{ end }}
+
+  <h2>Four</h2>
+
+  {{ $pages := first 0 site.Pages }}
+  {{ range .Params.keywords }}
+    {{ with site.GetPage (path.Join "/software" .) }}
+      {{ $pages = $pages | append . }}
+    {{ end }}
+  {{ end }}
+  {{ range $pages.ByWeight }}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+  {{ end }}
+
 {{ end }}
