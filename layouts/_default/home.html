@@ -10,7 +10,30 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  <h2>Method 1</h2>
+
+  {{ $groups := site.RegularPages.GroupByParam "group_name" }}
+  {{ $group_order := slice "b" "a" "c" "d" }}
+  {{ range $group_order }}
+    {{ with index (where $groups "Key" .) 0 }}
+      <h3>{{ .Key }}</h3>
+      {{ range .Pages }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+      {{ end }}
+    {{ end }}
   {{ end }}
+
+  <h2>Method 2</h2>
+
+  {{ $groups := slice "b" "a" "c" "d" }}
+  {{ range $group := $groups }}
+    {{ with where site.RegularPages "Params.group_name" $group }}
+      <h3>{{ $group }}</h3>
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}
