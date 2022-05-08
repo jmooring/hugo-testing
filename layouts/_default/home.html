@@ -10,6 +10,52 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
+
+<h2>Code</h2>
+
+<pre>
+  &lbrace;{ $m := slice
+    (dict "a" 3 "b" 2)
+    (dict "a" 1 "b" 2)
+    (dict "a" 3 "b" 1)
+    (dict "a" 2 "b" 2)
+    (dict "a" 1 "b" 1)
+    (dict "a" 2 "b" 1)
+  }}
+
+  &lbrace;{- range sort (sort $m "b") "a" }}
+    &lbrace;{ . }}
+  &lbrace;{- end }}
+</pre>
+
+<h2>Actual</h2>
+
+<pre>
+{{- $m := slice
+  (dict "a" 3 "b" 2)
+  (dict "a" 1 "b" 2)
+  (dict "a" 3 "b" 1)
+  (dict "a" 2 "b" 2)
+  (dict "a" 1 "b" 1)
+  (dict "a" 2 "b" 1)
+}}
+{{- range sort (sort $m "b") "a" }}
+  {{ . }}
+{{- end }}
+</pre>
+
+<h2>Expected</h2>
+
+<pre>
+  map[a:1 b:1]
+  map[a:1 b:2]
+  map[a:2 b:1]
+  map[a:2 b:2]
+  map[a:3 b:1]
+  map[a:3 b:2]
+</pre>
+
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
