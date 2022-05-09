@@ -10,7 +10,25 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
   {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    {{ $.Scratch.SetInMap "pages" (string (time .Params.date).Unix) . }}
   {{ end }}
+
+  <h2>Range over <code>.Scratch.GetSortedMapValues</code></h2>
+
+  {{ $pages := .Scratch.GetSortedMapValues "pages" }}
+  {{ range $pages }}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+  {{ end }}
+
+  <h2>Range over <code>.Scratch.GetSortedMapValues (reversed)</code></h2>
+
+  {{ $pages := .Scratch.GetSortedMapValues "pages" }}
+  {{ range seq (sub (len $pages) 1) 0 }}
+    {{ with index $pages . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+    {{ end }}
+  {{ end }}
+
 {{ end }}
