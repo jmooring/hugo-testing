@@ -1,0 +1,7 @@
+{{- $m := dict
+  "title" .Title
+  "content" (.Plain | chomp)
+  "details" .Params.details
+  "description" .Description
+}}
+{{- jsonify (dict "indent" "  ") $m }}

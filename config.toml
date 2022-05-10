@@ -1,3 +1,22 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
 title = 'Hugo Forum Topic #38542'
+
+disableKinds = ['sitemap','RSS','taxonomy','term']
+
+[outputs]
+home = [ "HTML", "JSON" ]
+
+[languages.en]
+languageCode = 'en-us'
+languageName = "EN"
+weight = 1
+
+[languages.x1]
+languageCode = 'x1'
+languageName = "X1_LANG"
+weight = 2
+
+[languages.x2]
+languageCode = 'x2'
+languageName = "X2_LANG"
+weight = 3
