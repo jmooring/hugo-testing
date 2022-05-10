@@ -6,6 +6,10 @@
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
 </head>
 <body>
+
+{{ range .AllTranslations }}
+  <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+{{ end }}
 {{ block "main" . }}
 
 {{ end }}
