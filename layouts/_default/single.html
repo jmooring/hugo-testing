@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ range seq (index site.Data .Lang "slogans" | len) }}
+    <h2>{{ T (printf "slogans.%d" .) }}</h2>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}

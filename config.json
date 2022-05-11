@@ -1,0 +1,30 @@
+{
+  "baseURL": "https://example.org/",
+  "title": "Hugo Forum Topic #38557",
+  "languages": {
+    "en": {
+      "contentDir": "content/en",
+      "languageCode": "en-US",
+      "languageName": "English",
+      "weight": 1
+    },
+    "de": {
+      "contentDir": "content/de",
+      "languageCode": "de-DE",
+      "languageName": "Deutsch",
+      "weight": 2
+    }
+  },
+  "module": {
+    "mounts": [
+      {
+        "source": "data",
+        "target": "data"
+      },
+      {
+        "source": "i18n",
+        "target": "data"
+      }
+    ]
+  }
+}
