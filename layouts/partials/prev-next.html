@@ -1,0 +1,15 @@
+{{ with .Prev }}
+  Prev: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+{{ end }}
+
+{{ with .PrevInSection }}
+  PrevInSection: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+{{ end }}
+
+{{ with .Next }}
+  Next: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+{{ end }}
+
+{{ with .NextInSection }}
+  NextInSection: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+{{ end }}

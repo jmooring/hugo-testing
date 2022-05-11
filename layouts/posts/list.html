@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <h2><code>range .Pages.ByWeight</code></h2>
+  {{ range .Pages.ByWeight }}
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a> (weight = {{ .Weight }})</h3>
+    {{ partial "prev-next.html" . }}
+  {{ end }}
+
+  <br><hr>
+
+  <h2><code>range .Pages.ByTitle</code></h2>
+  {{ range .Pages.ByTitle }}
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ partial "prev-next.html" . }}
+  {{ end }}
+
+  <br><hr>
+
+  <h2><code>range .Pages.ByDate</code></h2>
+  {{ range .Pages.ByDate }}
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a> (date = {{ .Date.Format "2006-01-02" }})</h3>
+    {{ partial "prev-next.html" . }}
+  {{ end }}
+
+{{ end }}
