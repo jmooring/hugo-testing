@@ -12,23 +12,23 @@
       width: 90%;
     }
   </style>
-{{ with .OutputFormats.Get "content" }}
-  <script>
-    const params = new URLSearchParams(window.location.search);
-    if (params.get('content_only') == 1) {
-      window.location = '{{ .RelPermalink }}' + window.location.search + window.location.hash;
-    }
-  </script>
-{{ end }}
+  {{ with .OutputFormats.Get "html" }}
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('content_only') == 0) {
+        window.location = '{{ .RelPermalink }}' + window.location.search + window.location.hash;
+      }
+    </script>
+  {{ end }}
 </head>
 <body>
 
-{{ with .OutputFormats.Get "content" }}
-  <a href="{{ .RelPermalink }}" rel="{{ .Rel }}" type="{{ .MediaType.Type }}">Content only</a>
+{{ with .OutputFormats.Get "html" }}
+  <a href="{{ .RelPermalink }}" rel="{{ .Rel }}" type="{{ .MediaType.Type }}">Show full page</a>
 {{ end }}
 
-{{ block "main" . }}
+<h2>{{ .Title }}</h2>
+{{ .Content }}
 
-{{ end }}
 </body>
 </html>
