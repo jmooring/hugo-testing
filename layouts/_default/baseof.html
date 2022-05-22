@@ -6,6 +6,25 @@
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
 </head>
 <body>
+
+<p>Translations:
+  {{ range .AllTranslations }}
+    <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+  {{ end }}
+</p>
+
+<p>Menu:
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+    {{ if $currentPage.IsMenuCurrent "main" . }}
+      <span style="background: yellow;"><a class="active" href="{{ .URL }}">{{ .Name }}</a></span>
+    {{ else }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+  {{ end }}
+</p>
+<hr>
+
 {{ block "main" . }}
 
 {{ end }}

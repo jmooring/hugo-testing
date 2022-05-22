@@ -1,3 +1,65 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #38727'
+
+[languages.en]
+contentDir = 'content/english'
+description = 'Kaliriu in English'
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = 'home'
+name = 'Home'
+pageRef = '/'
+weight = 1
+
+[[languages.en.menu.main]]
+identifier = 'projects'
+name = 'Projects'
+pageRef = '/projects'
+weight = 2
+
+[[languages.en.menu.main]]
+identifier = 'blog'
+name = 'Blog'
+pageRef = '/blog'
+weight = 3
+
+[[languages.en.menu.main]]
+identifier = 'contact'
+name = 'Contact'
+pageRef = '/contact'
+weight = 4
+
+[languages.es]
+contentDir = 'content/spanish'
+description = 'Kaliriu en Español'
+languageCode = 'es-ES'
+languageName = 'Español'
+weight = 2
+
+[[languages.es.menu.main]]
+identifier = 'inicio'
+name = 'Inicio'
+pageRef = '/'
+weight = 1
+
+[[languages.es.menu.main]]
+identifier = 'proyectos'
+name = 'Proyectos'
+pageRef = '/projects'
+weight = 2
+
+[[languages.es.menu.main]]
+identifier = 'blog'
+name = 'Blog'
+pageRef = '/blog'
+weight = 3
+
+[[languages.es.menu.main]]
+identifier = 'contacto'
+name = 'Contacto'
+pageRef = '/contact'
+weight = 4
