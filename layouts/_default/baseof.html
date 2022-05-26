@@ -10,5 +10,26 @@
 
 {{ end }}
 {{ partial "render-menu.html" . }}
+
+
+<p>Ancestor/Descendant values:</p>
+
+<pre>
+    Current page is ancestor of home = {{ .IsAncestor site.Home }}
+    Current page is descendant of home = {{ .IsDescendant site.Home }}
+
+    Current page is ancestor of tests = {{ .IsAncestor (site.GetPage "tests") }}
+    Current page is descendant of tests = {{ .IsDescendant (site.GetPage "tests") }}
+
+    Current page is ancestor of tests/test-1 = {{ .IsAncestor (site.GetPage "tests/test-1") }}
+    Current page is descendant of tests/test-1 = {{ .IsDescendant (site.GetPage "tests/test-1") }}
+
+</pre>
+
+
+
+
+
+
 </body>
 </html>
