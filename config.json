@@ -1,0 +1,75 @@
+{
+  "baseURL": "https://example.com/",
+  "languageCode": "en-us",
+  "title": "Hugo Forum Topic #38845",
+  "menu": {
+    "main": [
+      {
+        "name": "Getting Started",
+        "pageRef": "getting-started",
+        "weight": 10
+      },
+      {
+        "name": "Contents",
+        "pageRef": "getting-started/contents",
+        "parent": "Getting Started"
+      },
+      {
+        "name": "Download",
+        "pageRef": "getting-started/download",
+        "parent": "Getting Started"
+      },
+      {
+        "name": "Foundations",
+        "pageRef": "foundations",
+        "weight": 20
+      },
+      {
+        "name": "Colors",
+        "pageRef": "foundations/colors",
+        "parent": "Foundations"
+      },
+      {
+        "name": "Grid",
+        "pageRef": "foundations/grid",
+        "parent": "Foundations"
+      },
+      {
+        "name": "Components",
+        "pageRef": "components",
+        "weight": 30
+      },
+      {
+        "name": "Alerts",
+        "pageRef": "components/alerts",
+        "parent": "Components"
+      },
+      {
+        "name": "Badges",
+        "pageRef": "components/badges",
+        "parent": "Components"
+      },
+      {
+        "name": "Colors",
+        "identifier": "x",
+        "pageRef": "components/colors",
+        "parent": "Components"
+      },
+      {
+        "name": "Utilities",
+        "pageRef": "utilities",
+        "weight": 40
+      },
+      {
+        "name": "Background",
+        "pageRef": "utilities/background",
+        "parent": "Utilities"
+      },
+      {
+        "name": "Borders",
+        "pageRef": "utilities/borders",
+        "parent": "Utilities"
+      }
+    ]
+  }
+}

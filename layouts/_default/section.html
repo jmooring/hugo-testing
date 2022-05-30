@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <h2>Main menu</h2>
+  {{ partial "render-menu.html" . }}
+
+  <h2>Section menu</h2>
+  {{ range where site.Menus.main "Name" .CurrentSection.Title }}
+    <ul>
+      {{ range .Children }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ .Content }}
+
+{{ end }}
