@@ -9,8 +9,19 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ with resources.GetMatch "images/abc/*" }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ else }}
+    {{ warnf `resources.GetMatch "images/abc/*" returned zero images` }}
   {{ end }}
+
+  {{ with resources.GetMatch "images/ABC/*" }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ else }}
+    {{ warnf `resources.GetMatch "images/ABC/*" returned zero images` }}
+  {{ end }}
+
 {{ end }}
