@@ -13,4 +13,11 @@
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
+<pre>
+&lbrace;{ or (T "foo") "foo" }} --> {{ or (T "foo") "foo" }}
+&lbrace;{ or (T "bar") "bar" }} --> {{ or (T "bar") "bar" }}
+&lbrace;{ or (T "baz") "baz" }} --> {{ or (T "baz") "baz" }}
+</pre>
+
 {{ end }}

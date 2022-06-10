@@ -1,5 +1,5 @@
 +++
-title = 'Hugo Forum Topic #39017'
+title = 'Hugo Forum Topic #39017 (de)'
 date = 2022-06-10T13:08:14-07:00
 draft = false
 details = 'https://discourse.gohugo.io/t/39017'
