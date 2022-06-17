@@ -1,4 +1,14 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+{{ with .GetTerms "series" }}
+  <p>Series:
+    {{ range . }}
+      <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}
+
+
   {{ .Content }}
 {{ end }}
