@@ -10,7 +10,21 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+{{/* Build slice of pages */}}
+{{ $p := slice }}
+{{ range where site.RegularPages "Type" "posts" }}
+  {{ $p = $p | append (dict "month" (.Date.Month) "page" .) }}
+{{ end }}
+
+{{/* Range through months */}}
+{{ range $key := seq 12 }}
+  {{ with where $p "month" . }}
+    <h2>{{ printf "%02d" $key }}</h2>
+    {{ range sort . "page.Date" "asc" }}
+      <a href="{{ .page.RelPermalink }}">{{ .page.LinkTitle }}</a> {{ .page.Date | time.Format ":date_long" }}<br>
+    {{ end }}
   {{ end }}
+{{ end }}
+
 {{ end }}
