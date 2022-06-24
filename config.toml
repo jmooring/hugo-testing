@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 title = 'Hugo Forum Topic #39226'
 
 defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = 'true'
+defaultContentLanguageInSubdir = 'false'
 
 [languages.en]
 contentDir = "content/en"
