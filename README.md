@@ -13,3 +13,20 @@ git clone --single-branch -b hugo-forum-topic-39064 https://github.com/jmooring/
 cd hugo-forum-topic-39064
 hugo server
 ```
+
+Workflow:
+
+1. Create leaf bundle
+
+   ```bash
+   hugo new content/photos/2022-06-24-post-title
+   ```
+
+2. Copy JPEG images to leaf bundle
+
+3. Create data file
+
+   ```bash
+   cd content/photos/2022-06-24-post-title
+   exiftool -json *.jpg > exif.json
+   ```

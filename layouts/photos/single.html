@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+{{ $exif := dict }}
+{{ with .Resources.Get "exif.json" }}
+  {{ $exif = . | transform.Unmarshal }}
+{{ end }}
+
+{{ range .Resources.Match "*.jpg" }}
+  {{ $imageDescription := "" }}
+  {{ $imageSize := "" }}
+  {{ with where $exif "SourceFile" "eq" .Name }}
+    {{ with index . 0 }}
+      {{ $imageDescription = .ImageDescription }}
+      {{ $imageSize = .ImageSize }}
+    {{ end }}
+  {{ end }}
+  <figure>
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $imageDescription }}">
+      <figcaption>{{ $imageDescription }} ({{ $imageSize }})</figcaption>
+  </figure>
+{{ end }}
+
+{{ end }}
