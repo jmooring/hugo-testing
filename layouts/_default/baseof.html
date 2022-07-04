@@ -4,6 +4,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 1024px;
+      width: 90%;
+      margin-left: 1rem;
+    }
+  </style>
+
+  {{ if .HasShortcode "galleria" }}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/galleria.min.js" integrity="sha512-vRKUU1GOjCKOTRhNuhQelz4gmhy6NPpB8N41c7a36Cxl5QqKeB9VowP8S7x8Lf3B8vZVURBxGlPpvyiRHh+CKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/plugins/flickr/galleria.flickr.min.js" integrity="sha512-RJXXLXU7ShN5wFetviNEP7+HRIyy+JUNzMyiiIFlw7RrZWrbGs6EmuoiHmn7sU912bbejzXQE240mfvT4knJ8g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/themes/classic/galleria.classic.min.js" integrity="sha512-CXnDPXpM4UrG0VW6ZO7JxTmpYksq5lGw6bO1N7cmNnwGM6LrVvZnR1shSMov2sm8+kkMTMi+ZYqc8qK208eD2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/themes/classic/galleria.classic.min.css" integrity="sha512-gow3UhXUJqqIJove0INwWGYHczVoqbUfozcCToxuy2c3IRbMzImXzwkMP4mrkZDiba6VHcdWYMXkjQQSKZz2BQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+      .galleria{ width: 800x; height: 600px; background: #000 }
+    </style>
+  {{ end }}
+
 </head>
 <body>
 {{ block "main" . }}

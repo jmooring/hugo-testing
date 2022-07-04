@@ -5,3 +5,4 @@ draft = false
 details = 'https://discourse.gohugo.io/t/39365'
 description = "Galleria - will not show any content"
 +++
+{{< galleria photoset_id="72177720300279105" >}}

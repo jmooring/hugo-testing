@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-forum-topic-39365 https://github.com/jmooring/
 cd hugo-forum-topic-39365
 hugo server
 ```
+
+References:
+
+- <https://galleriajs.github.io/docs>
+- <https://cdnjs.com/libraries/galleria/1.6.1>
+- <https://cdnjs.com/libraries/jquery>

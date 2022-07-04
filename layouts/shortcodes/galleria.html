@@ -1,0 +1,13 @@
+<div class="galleria"></div>
+<script type="text/javascript">
+  (function() {
+      Galleria.run('.galleria', {
+        flickr: 'set:{{ .Get "photoset_id" }}',
+        flickrOptions: {
+          sort: 'date-posted-asc',
+          imageSize: 'big',
+          description: false
+        }
+      });
+  }());
+</script>
