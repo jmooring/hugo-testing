@@ -1,0 +1,4 @@
+{{ $snip := (.Get 0)}}
+{{ range (index .Page.Params $snip)  }}
+  {{ .language }}
+{{ end }}
