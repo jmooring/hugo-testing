@@ -1,0 +1,9 @@
+{
+  "name": "three",
+  "services" :
+   [
+     "eta",
+     "theta",
+     "iota"
+   ]
+ }

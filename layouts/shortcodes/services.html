@@ -1,0 +1,9 @@
+<div>Services Shortcode</div>
+<div>
+  {{ with index site.Data.services (.Get 0) }}
+    <div>{{ .name }}</div>
+    {{ range .services }}
+      <div>{{ . }}</div>
+    {{ end }}
+  {{ end }}
+</div>

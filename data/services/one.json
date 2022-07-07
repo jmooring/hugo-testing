@@ -1,0 +1,9 @@
+{
+  "name": "one",
+  "services" :
+   [
+     "alpha",
+     "beta",
+     "gamma"
+   ]
+ }

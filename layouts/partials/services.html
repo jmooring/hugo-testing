@@ -1,0 +1,9 @@
+<div>Services Partial</div>
+<div>
+  {{ with .Site.Data.services.two }}
+    <div>{{ .name }}</div>
+    {{ range .services }}
+      <div>{{ . }}</div>
+    {{ end }}
+  {{ end }}
+</div>
