@@ -1,0 +1,16 @@
+# Menus (de)
+
+[[main]]
+name = 'Home (de)'
+pageRef = '/'
+weight = 1
+
+[[main]]
+name = 'Post 1 (de)'
+pageRef = '/posts/post-1'
+weight = 2
+
+[[main]]
+name = 'Post 2 (de)'
+pageRef = '/posts/post-2'
+weight = 3
