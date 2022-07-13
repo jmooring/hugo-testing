@@ -5,15 +5,13 @@
     (dict
       "key" "AIzaSyBBW9s8vhqeiAeZ9-EKjHal7dfaKYkaDws"
       "place_id" "ChIJD1_DM1gRkFQRHfhHjb9HAtE"
-      "fields" "name,reviews"
+      "fields" "name,rating,reviews"
     )
   }}
 
   {{ with $placeDetails }}
-    <h2>Reviews of {{ .name }}</h2>
-
+    <h2>Reviews of {{ .name }} (rating = {{ .rating }})</h2>
     {{ range .reviews }}
-
       {{ $author_name := .author_name }}
       {{ $author_url := .author_url }}
       {{ $profile_photo_url := .profile_photo_url }}
@@ -30,9 +28,9 @@
           <td class="gpd-review-photo" rowspan="3">
             {{/* author_url may be undefined. */}}
             {{ with $author_url }}
-              <a href="{{ . }}"><img src="{{ $profile_photo_url }}" alt="{{ $author_name }}"></a>
+              <a href="{{ . }}"><img src="{{ $profile_photo_url }}" alt="{{ $author_name }}" referrerpolicy="no-referrer"></a>
             {{ else }}
-              <img src="{{ $profile_photo_url }}" alt="{{ $author_name }}"></a>
+              <img src="{{ $profile_photo_url }}" alt="{{ $author_name }}" referrerpolicy="no-referrer"></a>
             {{ end }}
           </td>
           <td class="gpd-review-author">{{ $author_name }}</td>
