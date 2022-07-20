@@ -5,3 +5,6 @@ draft = false
 details = 'https://discourse.gohugo.io/t/39570'
 description = "A possible bug in the parser?"
 +++
+{{< concat "params" "test 123" "test 2" "test 3" />}}<br>
+{{< concat "mix" >}}param inner test{{< /concat >}}<br>
+{{< concat >}}param inner{{< /concat >}}<br>

@@ -1,0 +1,12 @@
+{{- $string := "" -}}
+
+{{- range .Params -}}
+    {{- $string = printf "%s" . | printf "%s %s" $string -}}
+{{- end -}}
+
+{{- with .Inner -}}
+    {{- $string = printf "%s" . | printf "%s %s" $string -}}
+{{- end -}}
+
+{{- $string = trim $string " " -}}
+{{- printf "%s" $string -}}
