@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <h2>Minor version >= 18</h2>
+  {{ range ((where .Pages "Params.minorversion" "ge" 18).GroupByParam "minorversion").Reverse }}
+    <h3>{{ .Key }}</h3>
+    {{ range (.Pages.ByParam "minorversion").Reverse }}
+      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+    {{ end }}
+  {{ end }}
+
+  <h2>Minor version < 18</h2>
+  {{ range ((where .Pages "Params.minorversion" "lt" 18).GroupByParam "minorversion").Reverse }}
+    <h3>{{ .Key }}</h3>
+    {{ range (.Pages.ByParam "minorversion").Reverse }}
+      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+    {{ end }}
+  {{ end }}
+
+{{ end }}

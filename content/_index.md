@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/39613'
 description = "Conditionally range over release notes by version"
 +++
+
+## [Changelog](/products/software/details/changelog/)
