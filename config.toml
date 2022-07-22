@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10115'
+
+disableKinds = ['RSS','sitemap']
+
+[taxonomies]
+test = 'tests'
+
+[permalinks]
+tests = '/testing/:slug'
