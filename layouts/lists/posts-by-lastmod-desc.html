@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $pages := (where site.RegularPages "Type" "posts").ByLastmod.Reverse }}
+  {{ range (.Paginate $pages).Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}
