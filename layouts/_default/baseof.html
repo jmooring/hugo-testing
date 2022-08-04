@@ -4,10 +4,39 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  {{ if .Params.toc }}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
+  {{ end }}
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 1rem;
+      max-width: 768px;
+      width: 90%;
+    }
+  </style>
 </head>
 <body>
+
+<div class="js-toc toc"></div>
+<div class="js-toc-content">
 {{ block "main" . }}
 
 {{ end }}
+</div>
+
+{{ if .Params.toc }}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
+  {{/* See https://github.com/tscanlin/tocbot#options */}}
+  <script>
+    tocbot.init({
+      tocSelector: '.js-toc',
+      contentSelector: '.js-toc-content',
+      headingSelector: 'h2, h3, h4',
+      collapseDepth: 6,
+    });
+  </script>
+{{ end }}
+
 </body>
 </html>

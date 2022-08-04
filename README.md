@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-39819 https://github.com/jmooring/
 cd hugo-forum-topic-39819
 hugo server
 ```
+
+Visit `http://localhost:1313/post/test/` to see the table of contents created dynamically by [tocbot](https://github.com/tscanlin/tocbot).
