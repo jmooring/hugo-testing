@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+  <h1>{{ .Title }}</h1>
+
+  {{ $cities := slice }}
+  {{ range site.Taxonomies.cities }}
+    {{ $cities = $cities | append .Page.LinkTitle }}
+  {{ end }}
+
+  {{ $services := slice }}
+  {{ range site.Taxonomies.services }}
+    {{ $services = $services | append .Page.LinkTitle }}
+  {{ end }}
+
+  {{ $p := where site.RegularPages "Type" "business" }}
+
+  {{ range $city := $cities }}
+    {{ $p := where $p "Params.cities" "intersect" (slice $city) }}
+    {{ if $p }}
+      <h2>{{ $city }}</h2>
+      {{ range $service := $services }}
+        {{ $p := where $p "Params.services" "intersect" (slice $service) }}
+        {{ with $p }}
+          <h3>{{ $service }}</h3>
+          {{ range . }}
+            <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}
