@@ -9,8 +9,23 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ $content := .Content }}
+  {{ range $mention := findRE `\B@\w+` $content | uniq }}
+    {{ with site.GetPage (path.Join "team" (substr $mention 1)) }}
+      {{ $anchor := "" }}
+      {{ if and .Params.firstName .Params.lastName }}
+        {{ $anchor = printf "<a href=%q>%s %s</a>" .RelPermalink .Params.firstName .Params.lastName }}
+      {{ else if .Title }}
+        {{ $anchor = printf "<a href=%q>%s</a>" .RelPermalink .Title }}
+      {{ else }}
+        {{ $anchor = printf "<a href=%q>%s</a>" .RelPermalink $mention }}
+      {{ end }}
+      {{ $content = $content | replaceRE $mention $anchor }}
+    {{ else }}
+      {{ errorf "Unable to find the %q team member. See %s" (substr $mention 1) $.Page.File }}
+    {{ end }}
   {{ end }}
+  {{ $content | safeHTML }}
+
 {{ end }}
