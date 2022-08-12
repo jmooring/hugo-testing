@@ -9,8 +9,17 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+{{ $u := "https://raw.githubusercontent.com/gitorko/project92/main/src/main/java/com/demo/project92/controller/HomeController.java" }}
+{{ with resources.GetRemote $u }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $lang := path.Ext $u | strings.TrimPrefix "." }}
+    {{ highlight .Content $lang }}
   {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource." }}
+{{ end }}
+
 {{ end }}
