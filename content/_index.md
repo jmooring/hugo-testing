@@ -6,4 +6,10 @@ details = 'https://discourse.gohugo.io/t/39954'
 description = "How to read last row of table with getCSV"
 +++
 
+`layouts/shortcodes/embed-csv.html`
+
 {{< embed-csv file="./content/_datensatzsammlungen/testdatei-csv.csv" >}}
+
+`layouts/shortcodes/embed-csv-new.html`
+
+{{< embed-csv-new file="./content/_datensatzsammlungen/testdatei-csv.csv" >}}

@@ -1,0 +1,24 @@
+{{ $csv := getCSV "," "content/_datensatzsammlungen/testdatei-csv.csv" }}
+<figure>
+  <table class="sortable">
+    <thead>
+      <tr>
+        {{ range (index $csv 0) }}
+          <th>{{ . | markdownify }}</th>
+        {{ end }}
+      </tr>
+    </thead>
+    <tbody>
+      {{ range seq 1 (sub (len $csv) 2) }}
+        <tr>
+          {{ range index $csv . }}
+            <td>{{ . | markdownify }}</td>
+          {{ end }}
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  <figcaption>
+    {{ index (index $csv (sub (len $csv) 1)) 0 | markdownify }}
+  </figcaption>
+</figure>
