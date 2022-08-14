@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/39954'
 description = "How to read last row of table with getCSV"
 +++
+
+{{< embed-csv file="./content/_datensatzsammlungen/testdatei-csv.csv" >}}

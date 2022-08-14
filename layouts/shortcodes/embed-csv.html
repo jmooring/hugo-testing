@@ -1,0 +1,49 @@
+{{ $csv := getCSV "," "content/_datensatzsammlungen/testdatei-csv.csv" }}
+<figure>
+
+<table class="sortable">
+  {{ range $index, $row := $csv }}
+
+    {{ if eq $index 0 }}
+      <thead>
+        <tr>
+          {{ if index $row 0 }}<th>{{ index $row 0 | markdownify | safeHTML }}</th>{{ end }}
+          {{ if index $row 1 }}<th>{{ index $row 1 | markdownify | safeHTML }}</th>{{ end }}
+          {{ if index $row 2 }}<th>{{ index $row 2 | markdownify | safeHTML }}</th>{{ end }}
+          {{ if index $row 3 }}<th>{{ index $row 3 | markdownify | safeHTML }}</th>{{ end }}
+          {{ if index $row 4 }}<th>{{ index $row 4 | markdownify | safeHTML }}</th>{{ end }}
+          {{ if index $row 5 }}<th>{{ index $row 5 | markdownify | safeHTML }}</th>{{ end }}
+          {{ if index $row 6 }}<th>{{ index $row 6 | markdownify | safeHTML }}</th>{{ end }}
+          {{ if index $row 7 }}<th>{{ index $row 7 | markdownify | safeHTML }}</th>{{ end }}
+        </tr>
+      </thead>
+      <tbody>
+    {{ end }}
+
+    {{ if (and (ne $index 0) (ne $index (sub (len $csv) 1) )) }}
+        <tr>
+          {{ if index $row 0 }}<td>{{ index $row 0 | markdownify | safeHTML }}</td>{{ end }}
+          {{ if index $row 1 }}<td>{{ index $row 1 | markdownify | safeHTML }}</td>{{ end }}
+          {{ if index $row 2 }}<td>{{ index $row 2 | markdownify | safeHTML }}</td>{{ end }}
+          {{ if index $row 3 }}<td>{{ index $row 3 | markdownify | safeHTML }}</td>{{ end }}
+          {{ if index $row 4 }}<td>{{ index $row 4 | markdownify | safeHTML }}</td>{{ end }}
+          {{ if index $row 5 }}<td>{{ index $row 5 | markdownify | safeHTML }}</td>{{ end }}
+          {{ if index $row 6 }}<td>{{ index $row 6 | markdownify | safeHTML }}</td>{{ end }}
+          {{ if index $row 7 }}<td>{{ index $row 7 | markdownify | safeHTML }}</td>{{ end }}
+        </tr>
+    {{ end }}
+
+  {{ end }}
+      </tbody>
+</table>
+
+<figcaption>
+{{ $csv := getCSV "," "content/_datensatzsammlungen/testdatei-csv.csv" }}
+  {{ range $index, $row := $csv }}
+    {{ if eq $index (sub (len $csv) 1) }}
+    {{ index $row 0 | markdownify | safeHTML }}
+    {{ end }}
+  {{ end }}
+</figcaption>
+
+</figure>
