@@ -1,0 +1,204 @@
+{{- /* Determine content path. */}}
+{{- $path := "" }}
+{{- with .Page.File }}
+  {{- $path = .Path }}
+{{- else }}
+  {{- $path = .Path }}
+{{- end }}
+
+{{- /* Define allowable values. */}}
+{{- $validAnchors := slice "bottom" "bottomleft" "bottomright" "center" "left" "right" "smart" "top" "topleft" "topright" }}
+{{- $validFormats := slice "bmp" "gif" "jpg" "jpeg" "png" "tif" "tiff" "webp" }}
+{{- $validMethods := slice "crop" "fill" "fit" "resize" }}
+{{- $validPresets := slice "drawing" "icon" "photo" "picture" "text" }}
+{{- $validLoading := slice "eager" "lazy" }}
+{{- $validResamplingFilters := slice "bartlett" "blackman" "box" "bspline" "catmullrom" "cosine" "gaussian" "hamming" "hann" "hermite" "lanczos" "linear" "mitchellnetravali" "nearestneighbor" "welch" }}
+
+{{- /* Set default values. */}}
+{{- $anchor := "" }}
+{{- $class := "" }}
+{{- $format := "" }}
+{{- $height := 0 }}
+{{- $id := "" }}
+{{- $loading := "" }}
+{{- $method := "resize" }}
+{{- $preset := "" }}
+{{- $quality := 0 }}
+{{- $rotation := 0 }}
+{{- $width := 0 }}
+{{- $backgroundColor := "" }}
+{{- $resamplingFilter := "" }}
+
+{{- /* Parse query string. */}}
+{{- $u := urls.Parse .Destination }}
+{{- with $u.Query }}
+  {{- with .Get "a" | lower }}
+    {{- if in $validAnchors . }}
+      {{- $anchor = . }}
+    {{- else }}
+      {{- errorf "Unable to render image. %q is not a valid anchor. See %s" . $path }}
+    {{- end }}
+  {{- end }}
+  {{- if .Has "c" }}
+    {{- $class = delimit (index . "c") " " | lower }}
+  {{- end }}
+  {{- with .Get "f" | lower }}
+    {{- if in $validFormats . }}
+      {{- $format = . }}
+    {{- else }}
+      {{- errorf "Unable to render image. %q is not a valid format. See %s" . $path }}
+    {{- end }}
+  {{- end }}
+  {{- with .Get "h" }}
+    {{- $height = int . }}
+  {{- end }}
+  {{- with .Get "i" | lower }}
+    {{- $id = . }}
+  {{- end }}
+  {{- with .Get "l" | lower }}
+    {{- if in $validLoading . }}
+      {{- $loading = . }}
+    {{- else }}
+      {{- errorf "Unable to render image. %q is not a valid format. See %s" . $path }}
+    {{- end }}
+  {{- end }}
+  {{- with .Get "m" | lower }}
+    {{- if in $validMethods . }}
+      {{- $method = . }}
+    {{- else }}
+      {{- errorf "Unable to render image. %q is not a valid method. See %s" . $path }}
+    {{- end }}
+  {{- end }}
+  {{- with .Get "p" | lower }}
+    {{- if in $validPresets . }}
+      {{- $preset = . }}
+    {{- else }}
+      {{- errorf "Unable to render image. %q is not a valid preset. See %s" . $path }}
+    {{- end }}
+  {{- end }}
+  {{- with .Get "q" }}
+    {{- $quality = int . }}
+  {{- end }}
+  {{- with .Get "r" }}
+    {{- $rotation = int . }}
+  {{- end }}
+  {{- with .Get "w" }}
+    {{- $width = int . }}
+  {{- end }}
+  {{- with .Get "bc" | lower }}
+    {{- if findRE `^[a-f0-9]{3}$|^[a-f0-9]{6}$` . }}
+      {{- $backgroundColor = . }}
+    {{- else }}
+      {{- errorf "Unable to render image. %q is not a valid background color. See %s" . $path }}
+    {{- end }}
+    {{- $backgroundColor = . }}
+  {{- end }}
+  {{- with .Get "rs" | lower }}
+    {{- if in $validResamplingFilters . }}
+      {{- $resamplingFilter = . }}
+    {{- else }}
+      {{- errorf "Unable to render image. %q is not a valid resampling filter. See %s" . $path }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Get image resource. */}}
+{{- $r := "" }}
+{{- if $u.IsAbs }}
+  {{- with resources.GetRemote $u.String }}
+    {{- with .Err }}
+      {{- errorf "Unable to get remote image %q: %s. See %s" $u.String . $path }}
+    {{- else }}
+      {{- /* Image is a global resource (remote). */}}
+      {{- $r = . }}
+    {{- end }}
+  {{- else }}
+    {{- errorf "Unable to get remote image %q. See %s" $u.String $path }}
+  {{- end }}
+{{- else }}
+  {{- with .Page.Resources.Get $u.Path }}
+    {{- /* Image is a page resource. */}}
+    {{- $r = . }}
+  {{- else }}
+    {{- with resources.Get $u.Path }}
+      {{- /* Image is a global resource (local). */}}
+      {{- $r = . }}
+    {{- else }}
+      {{- errorf "Unable to get image %q. See %s" $u.Path $path }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Set image processing options. */}}
+{{- $options := slice }}
+{{- if and $width $height }}
+  {{- $options = $options | append (printf "%dx%d" $width $height) }}
+{{- else if and $width (not $height) }}
+  {{- $options = $options | append (printf "%dx" $width) }}
+{{- else if and $height (not $width) }}
+  {{- $options = $options | append (printf "x%d" $height) }}
+{{- else }}
+  {{- $options = $options | append (printf "%dx%d" $r.Width $r.Height) }}
+{{- end }}
+{{- with $anchor }}
+  {{- $options = $options | append . }}
+{{- end }}
+{{- with $format }}
+  {{- $options = $options | append . }}
+{{- end }}
+{{- with $preset }}
+  {{- $options = $options | append . }}
+{{- end }}
+{{- with $quality }}
+  {{- $options = $options | append (printf "q%d" .) }}
+{{- end }}
+{{- with $rotation }}
+  {{- $options = $options | append (printf "r%d" .) }}
+{{- end }}
+{{- with $backgroundColor }}
+  {{- $options = $options | append (printf "#%v" .) }}
+{{- end }}
+{{- with $resamplingFilter }}
+  {{- $options = $options | append . }}
+{{- end }}
+
+{{- /* Process image. */}}
+{{- $i := "" }}
+{{- $options = delimit $options " " | string }}
+{{- if eq $method "crop" }}
+  {{- $i = $r.Crop $options }}
+{{- else if eq $method "fill" }}
+  {{- $i = $r.Fill $options }}
+{{- else if eq $method "fit" }}
+  {{- $i = $r.Fit $options }}
+{{- else if eq $method "resize" }}
+  {{- $i = $r.Resize $options }}
+{{- else }}
+  {{- errorf "Invalid image processing method. See %s" $path }}
+{{- end }}
+
+{{- /* Set image element attributes. */}}
+{{- $attributes := dict "src" $i.RelPermalink "width" (string $i.Width) "height" (string $i.Height) }}
+{{- with .PlainText }}
+  {{- $attributes = merge $attributes (dict "alt" .) }}
+{{- end }}
+{{- with .Title }}
+  {{- $attributes = merge $attributes (dict "title" .) }}
+{{- end }}
+{{- with $class }}
+  {{- $attributes = merge $attributes (dict "class" .) }}
+{{- end }}
+{{- with $id }}
+  {{- $attributes = merge $attributes (dict "id" .) }}
+{{- end }}
+{{- with $loading }}
+  {{- $attributes = merge $attributes (dict "loading" .) }}
+{{- end }}
+
+{{- /* Render image element. */ -}}
+<img
+  {{- range $k, $v := $attributes }}
+    {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+  {{- end -}}
+>
+{{- /**/ -}}
