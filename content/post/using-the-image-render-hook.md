@@ -1,20 +1,8 @@
-# Hugo Forum Topic #34833
-
-Details: <https://discourse.gohugo.io/t/34833>
-
-Description: Resize an image with markdown
-
-## Instructions
-
-Clone this branch of the repository and build the site.
-
-```bash
-git clone --single-branch -b hugo-forum-topic-34833 https://github.com/jmooring/hugo-testing hugo-forum-topic-34833
-cd hugo-forum-topic-34833
-hugo server
-```
-
-## Using the image render hook
++++
+title = 'Using the image render hook'
+date = 2022-08-14T21:00:08-07:00
+draft = false
++++
 
 You can load the query string with:
 

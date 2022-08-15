@@ -2,6 +2,9 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #34833'
 
+[markup.highlight]
+style = 'friendly'
+
 [[module.mounts]]
 source = 'assets'
 target = 'assets'
