@@ -4,25 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin-bottom: 3rem;
-      margin-left: 1rem;
-      max-width: 768px;
-      width: 90%;
-    }
-    /* linenos=true */
-    .highlight > div {
-      padding: .2rem 1rem;
-      border-radius: 12px;
-    }
-    /* linenos=false */
-    .highlight > pre {
-      padding: 1rem;
-      border-radius: 12px;
-    }
-  </style>
+  {{ with resources.Get "scss/main.scss" | toCSS | minify }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
 </head>
 <body>
 {{ block "main" . }}
