@@ -1,0 +1,11 @@
++++
+title = 'Post 3'
+date = 2022-08-19T12:49:50-07:00
+draft = false
+categories = ['Category B']
++++
+The atoms of different bodies are all alike, and presumably each holds the same amount of electric energy. One wonders, then, how the order in which they are arranged can affect them so widely as to produce bodies so unlike as, say, alcohol and ether. This brings before us again the mystery of chemical arrangement or combination, so different from anything we know among tangible bodies. It seems to imply that each atom has its own individuality. Mix up a lot of pebbles together, and the result would be hardly affected by the order of the arrangement, but mix up a lot of people, and the result would be greatly affected by the fact of who is elbowing who. It seems the same among the mysterious atoms, as if some complemented or stimulated those next them, or had an opposite effect. But can we think of the atoms in a chemical compound as being next one another, or merely in juxtaposition? Do we not rather have to think of them as identified with one another to an extent that has no parallel in the world of ponderable bodies? A kind of sympathy or affinity makes them one in a sense that we only see realized among living beings.
+
+Chemical activity is the first step from physical activity to vital activity, but the last step is taken rarely--the other two are universal. Chemical changes involve the atom. What do vital changes involve? We do not know. We can easily bring about the chemical changes, but not so the vital changes. A chemical change destroys one or more substances and produces others totally unlike them; a vital change breaks up substances and builds up other bodies out of them; it results in new compounds that finally cover the earth with myriads of new and strange forms.
+
+The mechanistic theory of life--the theory that all living things can be explained and fully accounted for on purely physico-chemical principles--has many defenders in our day. The main aim of the foregoing chapters is to point out the inadequacy of this view. At the risk of wearying my reader I am going to collect under the above heading a few more considerations bearing on this point.

@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ with site.RegularPages.Related . }}
+    <p>Related:
+      <ul>
+        {{ range .ByTitle }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    </p>
+  {{ end }}
+  {{ .Content }}
+{{ end }}
