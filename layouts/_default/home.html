@@ -10,7 +10,16 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ range (where site.RegularPages "Type" "test").ByTitle }}
+    <pre>
+    {{ .Title }}
+
+    {{ with .Params.custom_date }}
+      {{ . | time.Format ":time_full" }}
+      {{ . | time.Format ":time_long" }}
+      {{ . | time.Format "2006-01-02 15:04:05 MST" }}
+      {{ . | time.Format "2006-01-02 15:04:05 -07:00" }}
+    {{ end }}
+    </pre>
   {{ end }}
 {{ end }}
