@@ -10,7 +10,51 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+
+
+  {{/* Wrangle the CSV into a slice of objects. */}}
+  {{ $csv := getCSV "," "foo.csv" }}
+  {{ $cols := index $csv 0 }}
+  {{ $data := slice }}
+  {{ range $k, $v := $csv }}
+    {{ if $k }}
+      {{ $m := dict }}
+      {{ range seq 0 (sub (len $cols) 1) }}
+        {{ $m = merge $m (dict (index $cols .) (index $v .)) }}
+      {{ end }}
+      {{ $data = $data | append $m }}
+    {{ end }}
   {{ end }}
+
+  <h2>CSV data structure</h2>
+  <pre>{{ jsonify (dict "indent" "  ") $csv }}</pre>
+
+  <h2>Data structure after wrangling CSV into a slice of objects</h2>
+  <pre>{{ jsonify (dict "indent" "  ") $data }}</pre>
+
+  <h2>Data grouped by "type"</h2>
+  {{/* Build unique, sorted slice of types. */}}
+  {{ $types := slice }}
+  {{ range $data }}
+    {{ $types = $types | append .type }}
+  {{ end }}
+  {{ $types = $types | uniq | sort }}
+
+  {{/* Display the grouped data. */}}
+  <ul>
+    {{ range $types }}
+      <li>
+        {{ . }}
+        <ul>
+          {{ range where $data "type" . }}
+            <li>{{ .name }}</li>
+          {{ end }}
+        </ul>
+      </li>
+    {{ end }}
+  </ul>
+
+
+
 {{ end }}
