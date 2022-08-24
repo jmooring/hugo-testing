@@ -1,4 +1,24 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+	<article class="post h-entry">
+		<h1 class="post-title p-name" itemprop="name headline">
+            <a href="{{ .Permalink }}">{{ .Title }}</a> {{ if .Draft }}(Draft){{ end }}
+        </h1>
+        <div class="image">
+			<img src="{{ .Params.cover_image }}">
+        </div>
+		<div class="post-content e-content" itemprop="articleBody">
+            {{ .Content }}
+        </div>
+
+		<p class="meta">
+            Posted on <span class="postdate"><time class="dt-published">{{ .Site.Params.DateForm | default "Jan 2, 2006" | .Date.Format }}</time></span>
+            {{ with .Params.author }}
+              {{ with index site.Data.authors . }}
+          by <span class="p-author h-card"><a href="{{ .link }}">{{ .name }}</a>
+          <img class="u-photo" style="display: none;" src="{{ .photo }}" />
+          </span>
+              {{ end }}
+            {{ end }}
+        </p>
+	</article>
 {{ end }}
