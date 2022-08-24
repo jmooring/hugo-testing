@@ -4,6 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+
+  {{ $esbuild_options := dict "minify" true }}
+  {{ $inline := resources.Get "inline/test.ts" | js.Build $esbuild_options }}
+  {{ with $inline }}
+    <script>
+      {{ .Content | safeJS }}
+    </script>
+  {{ end }}
+
 </head>
 <body>
 {{ block "main" . }}

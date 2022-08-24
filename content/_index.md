@@ -5,3 +5,4 @@ draft = false
 details = 'https://discourse.gohugo.io/t/40139'
 description = "Inline bundled/post-processed asset resource into HTML"
 +++
+Press `Ctrl + U` to view source, and examine the minified JS that appears between the `<script>` tags.
