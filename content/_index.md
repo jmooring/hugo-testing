@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/40172'
 description = "How to create multiple views of same content?"
 +++
+
+## [Tags](/tags/)

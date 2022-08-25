@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/* Publish the map page. */}}
+  {{ $ctx := dict
+    "ListRelPermalink" .RelPermalink
+    "Pages" .Pages
+    "Title" (printf "%s (%s)" .Title "map")
+  }}
+  {{ $page := partial "map.html" $ctx }}
+  {{ $targetPath := path.Join .RelPermalink "map" "index.html" }}
+  {{ (resources.FromString $targetPath $page).Publish }}
+
+  {{/* List pages. */}}
+  <a href="{{ $targetPath }}">See map</a>
+  {{ range .Pages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+
+{{ end }}

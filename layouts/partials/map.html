@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ or .Site.LanguageCode .Site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+</head>
+<body>
+
+  <h1>{{ .Title }}</h1>
+
+  <a href="{{ .ListRelPermalink }}">See list</a>
+  {{ range .Pages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    <p>Latitude: {{ .Params.Latitude }}</p>
+    <p>Longitude: {{ .Params.Longitude }}</p>
+  {{ end }}
+
+</body>
+</html>
