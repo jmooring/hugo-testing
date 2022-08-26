@@ -1,0 +1,61 @@
+{{- /* Set defaults. */}}
+{{- $format := "webp" }}
+{{- $height := 360 }}
+{{- $width := 640 }}
+
+{{- /* Get params. */}}
+{{- with .Get "format" }}
+  {{- $format = . }}
+{{- end }}
+{{- with .Get "height" }}
+  {{- $height = . | int }}
+{{- end }}
+{{- with .Get "width" }}
+  {{- $width = . | int }}
+{{- end }}
+
+{{- /* Build slice of processed images. */}}
+{{- $images := slice }}
+{{- range resources.Match "images/random/*" }}
+  {{- with .Fill (printf "%dx%d %s" $width $height $format) }}
+    {{- $m := dict
+      "alt" (path.BaseName .Name | humanize | title)
+      "height" .Height
+      "permalink" .Permalink
+      "relPermalink" .RelPermalink
+      "width" .Width
+    }}
+    {{- $images = $images | append $m }}
+  {{- end }}
+{{- end }}
+
+{{- /* Render first image in slice. */}}
+{{- with index $images 0 }}
+  <img
+    id="random-img"
+    src="{{ .relPermalink }}"
+    width="{{ .width }}"
+    height="{{ .height }}"
+    alt="{{ .alt }}"
+    data-index="0"
+    onclick="shuffleImage()"
+  >
+{{- end }}
+
+<script>
+  function shuffleImage() {
+    const images = {{ $images }};
+    const el = document.getElementById('random-img');
+    let index = el.getAttribute('data-index');
+    while (el.getAttribute('data-index') == index) {
+      index = Math.floor(Math.random() * images.length);
+    }
+    const image = images[index];
+    el.setAttribute('alt', image.alt)
+    el.setAttribute('src', image.relPermalink)
+    el.setAttribute('width', image.width)
+    el.setAttribute('height', image.height)
+    el.setAttribute('data-index', index)
+  }
+  shuffleImage();
+</script>
