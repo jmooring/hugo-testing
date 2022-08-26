@@ -21,7 +21,6 @@
     {{- $m := dict
       "alt" (path.BaseName .Name | humanize | title)
       "height" .Height
-      "permalink" .Permalink
       "relPermalink" .RelPermalink
       "width" .Width
     }}
@@ -37,7 +36,6 @@
     width="{{ .width }}"
     height="{{ .height }}"
     alt="{{ .alt }}"
-    data-index="0"
     onclick="shuffleImage()"
   >
 {{- end }}
@@ -45,17 +43,21 @@
 <script>
   function shuffleImage() {
     const images = {{ $images }};
-    const el = document.getElementById('random-img');
-    let index = el.getAttribute('data-index');
-    while (el.getAttribute('data-index') == index) {
+    let index = sessionStorage.getItem('index');
+    while (sessionStorage.getItem('index') == index) {
       index = Math.floor(Math.random() * images.length);
     }
+    sessionStorage.setItem('index', index);
     const image = images[index];
+    const el = document.getElementById('random-img');
     el.setAttribute('alt', image.alt)
     el.setAttribute('src', image.relPermalink)
     el.setAttribute('width', image.width)
     el.setAttribute('height', image.height)
     el.setAttribute('data-index', index)
+  }
+  if (!sessionStorage.getItem('index')) {
+    sessionStorage.setItem('index',0)
   }
   shuffleImage();
 </script>
