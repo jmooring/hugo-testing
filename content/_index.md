@@ -12,4 +12,4 @@ Upon refresh, this page displays a _different_ random image.
 
 When you click on the image, this page displays a _different_ random image.
 
-{{< random-image width=500 height=300 >}}
+{{< random-image >}}
