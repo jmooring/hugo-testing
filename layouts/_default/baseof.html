@@ -4,6 +4,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      font-size: 18px;
+      line-height: 1.6;
+      margin: 0 0 3rem 1rem;
+      max-width: 768px;
+      width: 90%;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    td, th {
+      border: 1px solid #333;
+      padding: 0 .5em;
+    }
+    th {
+      text-align: left;
+    }
+  </style>
 </head>
 <body>
 {{ block "main" . }}
