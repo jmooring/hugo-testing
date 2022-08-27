@@ -33,34 +33,15 @@
 {{- end }}
 
 {{- /* Render first image in slice. */}}
-{{- with index $images 0 }}
+{{- with index $images 0 -}}
   <img
-    id="random-img"
+    alt="{{ .alt }}"
+    class="random-image"
     src="{{ .relPermalink }}"
     width="{{ .width }}"
     height="{{ .height }}"
-    alt="{{ .alt }}"
-    onclick="shuffleImage()"
+    data-index="0"
+    data-images="{{ $images | jsonify }}"
+    onclick="shuffleImage(this)"
   >
-{{- end }}
-
-<script>
-  function shuffleImage() {
-    const images = {{ $images }};
-    let index = sessionStorage.getItem('index');
-    while (sessionStorage.getItem('index') == index) {
-      index = Math.floor(Math.random() * images.length);
-    }
-    sessionStorage.setItem('index', index);
-    const image = images[index];
-    const el = document.getElementById('random-img');
-    el.setAttribute('alt', image.alt)
-    el.setAttribute('src', image.relPermalink)
-    el.setAttribute('width', image.width)
-    el.setAttribute('height', image.height)
-  }
-  if (!sessionStorage.getItem('index')) {
-    sessionStorage.setItem('index',0)
-  }
-  shuffleImage();
-</script>
+{{- end -}}

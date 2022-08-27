@@ -6,10 +6,12 @@ details = 'https://discourse.gohugo.io/t/40215'
 description = "Help randomizing an image on each site refresh"
 +++
 
-Upon loading, this page displays a random image.
+Upon loading, this page displays two random images.
 
-Upon refresh, this page displays a _different_ random image.
+Upon refresh, this page displays two _different_ random images.
 
-When you click on the image, this page displays a _different_ random image.
+When you click on an image, a _different_ random image appears.
 
 {{< random-image >}}
+
+{{< random-image dir="images/kittens" width="360" height="360" format="jpg" >}}

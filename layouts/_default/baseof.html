@@ -9,5 +9,12 @@
 {{ block "main" . }}
 
 {{ end }}
+
+{{ if .HasShortcode "random-image" }}
+  {{ with resources.Get "js/random-image.js" }}
+    <script src="{{ .RelPermalink }}"></script>
+  {{ end }}
+{{ end }}
+
 </body>
 </html>
