@@ -12,6 +12,6 @@ Upon refresh, this page displays two _different_ random images.
 
 When you click on an image, a _different_ random image appears.
 
-{{< random-image >}}
+{{< random-image width="300" height="300" >}}
 
-{{< random-image dir="images/kittens" width="360" height="360" format="jpg" >}}
+{{< random-image dir="images/kittens" width="300" height="300" format="jpg" >}}

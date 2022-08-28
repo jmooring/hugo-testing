@@ -8,15 +8,21 @@ function shuffleImage(el) {
   }
   const image = images[index];
   el.dataset.index = index;
-  el.setAttribute('alt', image.alt)
-  el.setAttribute('src', image.relPermalink);
-  el.setAttribute('width', image.width);
-  el.setAttribute('height', image.height);
+  el.alt = image.alt;
+  el.src = image.src;
+  el.width = image.width;
+  el.height = image.height;
 }
 
 window.onload = function() {
   els = document.getElementsByClassName('random-image');
   [...els].forEach((el) => {
+    // Preload images.
+    const images = JSON.parse(el.dataset.images);
+    images.forEach((img) => {
+      new Image().src = img.src;
+    });
+    // Shuffle images.
     shuffleImage(el);
   });
 }

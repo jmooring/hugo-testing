@@ -25,23 +25,23 @@
     {{- $m := dict
       "alt" (path.BaseName .Name | humanize | title)
       "height" .Height
-      "relPermalink" .RelPermalink
+      "src" .RelPermalink
       "width" .Width
     }}
     {{- $images = $images | append $m }}
   {{- end }}
 {{- end }}
 
-{{- /* Render first image in slice. */}}
-{{- with index $images 0 -}}
-  <img
-    alt="{{ .alt }}"
-    class="random-image"
-    src="{{ .relPermalink }}"
-    width="{{ .width }}"
-    height="{{ .height }}"
-    data-index="0"
-    data-images="{{ $images | jsonify }}"
-    onclick="shuffleImage(this)"
-  >
-{{- end -}}
+{{- /* Render placeholder image (1px transparent GIF). */}}
+<img
+  alt=""
+  class="{{ .Name }}"
+  id="{{ printf "%s-%d" .Name .Ordinal }}"
+  src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  width="{{ $width }}"
+  height="{{ $height }}"
+  data-index=""
+  data-images="{{ $images | jsonify }}"
+  onclick="shuffleImage(this)"
+>
+{{- /**/ -}}
