@@ -1,13 +1,15 @@
 function shuffleImage(el) {
+  let key = el.id + '-index';
+  let lastIndex = sessionStorage.getItem(key)
   const images = JSON.parse(el.dataset.images);
   while (true) {
-    var index = Math.floor(Math.random() * images.length);
-    if (index != el.dataset.index) {
+    index = Math.floor(Math.random() * images.length);
+    if (index != lastIndex) {
       break;
     }
   }
+  sessionStorage.setItem(key, index);
   const image = images[index];
-  el.dataset.index = index;
   el.alt = image.alt;
   el.src = image.src;
   el.width = image.width;

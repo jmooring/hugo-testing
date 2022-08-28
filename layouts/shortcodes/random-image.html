@@ -32,7 +32,7 @@
   {{- end }}
 {{- end }}
 
-{{- /* Render placeholder image (1px transparent GIF). */}}
+{{- /* Render placeholder image (1px transparent GIF). */ -}}
 <img
   alt=""
   class="{{ .Name }}"
@@ -40,7 +40,6 @@
   src="data:image/gif;base64,R0lGODlhAQABAPAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
   width="{{ $width }}"
   height="{{ $height }}"
-  data-index=""
   data-images="{{ $images | jsonify }}"
   onclick="shuffleImage(this)"
 >
