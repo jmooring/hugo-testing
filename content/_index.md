@@ -6,6 +6,20 @@ details = 'https://discourse.gohugo.io/t/40215'
 description = "Help randomizing an image on each site refresh"
 +++
 
+This page invokes the random-image shortcode twice:
+
+```text
+{{</* random-image */>}}
+
+{{</* random-image dir="images/kittens" format="jpg" height=200 width=200 */>}}
+```
+
+A random image is rendered upon:
+
+- Page load
+- Page reload
+- Image click
+
 {{< random-image >}}
 
 {{< random-image dir="images/kittens" format="jpg" height=200 width=200 >}}
