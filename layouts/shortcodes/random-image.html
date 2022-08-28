@@ -64,13 +64,19 @@ Place this in assets/js/random-image.js:
   {{- $dir = . }}
 {{- end }}
 {{- with .Get "format" }}
-  {{- $format = . }}
+  {{- $format = . | lower }}
 {{- end }}
 {{- with .Get "height" }}
   {{- $height = . | int }}
 {{- end }}
 {{- with .Get "width" }}
   {{- $width = . | int }}
+{{- end }}
+
+{{- /* Error checking. */}}
+{{- $validFormats := slice "bmp" "gif" "jpeg" "jpg" "png" "webp" }}
+{{- if not (in $validFormats $format) }}
+  {{- errorf "The %q shortcode was called with an invalid image format. See %s" .Name .Position }}
 {{- end }}
 
 {{- /* Build slice of processed images. */}}
@@ -85,6 +91,8 @@ Place this in assets/js/random-image.js:
     }}
     {{- $images = $images | append $m }}
   {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode was unable to load images from the %q directory. See %s" .Name $dir .Position }}
 {{- end }}
 
 {{- /* Render placeholder image (1px transparent GIF). */ -}}
