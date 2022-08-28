@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  margin: 0 0 3rem 1rem;
+  max-width: 768px;
+  width: 90%;
+}
+/* linenos=true */
+.highlight > div {
+  padding: 0.2rem 1rem;
+  border-radius: 6px;
+}
+/* linenos=false */
+.highlight > pre {
+  padding: 1rem;
+  border-radius: 6px;
+}
