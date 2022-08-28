@@ -1,3 +1,58 @@
+{{- /**
+Renders a random image, changing the image on click or page refresh.
+
+You can invoke the shortcode multiple times on a page.
+
+Place this before the closing body tag in layouts/_default/baseof.html:
+
+  {{ if .HasShortcode "random-image" }}
+    {{ with resources.Get "js/random-image.js" }}
+      <script src="{{ .RelPermalink }}"></script>
+    {{ end }}
+  {{ end }}
+
+Place this in assets/js/random-image.js:
+
+  function shuffleImage(el) {
+    let key = el.id + '-index';
+    let lastIndex = sessionStorage.getItem(key)
+    const images = JSON.parse(el.dataset.images);
+    while (true) {
+      index = Math.floor(Math.random() * images.length);
+      if (index != lastIndex) {
+        break;
+      }
+    }
+    sessionStorage.setItem(key, index);
+    const image = images[index];
+    el.alt = image.alt;
+    el.src = image.src;
+    el.width = image.width;
+    el.height = image.height;
+  }
+
+  window.onload = function() {
+    els = document.getElementsByClassName('random-image');
+    [...els].forEach((el) => {
+      // Preload images.
+      const images = JSON.parse(el.dataset.images);
+      images.forEach((img) => {
+        new Image().src = img.src;
+      });
+      // Shuffle images.
+      shuffleImage(el);
+    });
+  }
+
+@param {string} [dir=images/random] The directory, relative to the assets directory, in which the images reside.
+@param {string} [format=webp] The final image format. Valid values are bmp, gif, jpg, jpeg, png, and webp.
+@param {int} [height=360] The height of the rendered image.
+@param {int} [width=640] The width of the rendered image.
+
+@example {{< random-image >}}
+@example {{< random-image dir="images/kittens" format="jpg" height=200 width=200 >}}
+*/}}
+
 {{- /* Set defaults. */}}
 {{- $dir := "images/random" }}
 {{- $format := "webp" }}
