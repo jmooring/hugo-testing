@@ -5,3 +5,21 @@ draft = false
 details = 'https://discourse.gohugo.io/t/40229'
 description = "Use shortcodes in file included with `readFile`"
 +++
+
+## Test 1
+
+`{{</* readfile file="test.md" markdown=true */>}}`
+
+{{< readfile file="test.md" markdown=true >}}
+
+`{{</* readfile file="test.js" highlight=js */>}}`
+
+## Test 2
+
+{{< readfile file="test.js" highlight=js >}}
+
+## Test 3
+
+`{{</* readfile file="test.html" */>}}`
+
+{{< readfile file="test.html" >}}

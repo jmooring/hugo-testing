@@ -1,0 +1,8 @@
+{{ $file := .Get "file" }}
+{{ if .Get "markdown" }}
+  {{ $file  | readFile | .Page.RenderString }}
+{{ else if .Get "highlight" }}
+  {{ highlight ($file | readFile) (.Get "highlight") }}
+{{ else }}
+  {{ $file  | readFile | safeHTML }}
+{{ end }}
