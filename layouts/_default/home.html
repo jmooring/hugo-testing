@@ -10,7 +10,10 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+  {{ $p := sort .Sections "Title" }}
+  {{ $p = $p | append (site.GetPage "categories") }}
+  {{ $p = $p | append (site.GetPage "tags") }}
+  {{ range $p }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
 {{ end }}
