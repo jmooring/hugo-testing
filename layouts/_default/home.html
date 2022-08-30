@@ -10,7 +10,9 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ with resources.GetRemote "https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js" }}
+    <script>{{ .Content | safeJS }}</script>
   {{ end }}
+
 {{ end }}
