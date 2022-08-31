@@ -5,3 +5,5 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/10236'
 description = "Illegal shortcode state when using escaped quotes in shortcode arguments"
 +++
+
+{{< sc foo="\"wibble\"" >}}

@@ -1,0 +1,3 @@
+{{ if not (eq (.Get "foo") "\"wibble\"") }}
+  {{ errorf "The foo parameter passed to the sc shortcode is %v" (.Get "foo") }}
+{{ end }}
