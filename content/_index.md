@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #10236'
+date = 2022-08-31T14:09:28-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/10236'
+description = "Illegal shortcode state when using escaped quotes in shortcode arguments"
 +++
