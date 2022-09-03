@@ -4,8 +4,34 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  <style>
+    a.active {
+      background-color: yellow;
+    }
+  </style>
 </head>
 <body>
+
+{{ with .AllTranslations }}
+  <p>Translations:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+  </p>
+{{ end }}
+
+{{ with site.Menus.main }}
+  <p>Main menu:
+    {{ range . }}
+      {{ if $.IsMenuCurrent "main" . }}
+        <a class="active" href="{{ .URL }}">{{ .Name }}</a>
+      {{ else }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    {{ end }}
+  </p>
+{{ end }}
+
 {{ block "main" . }}
 
 {{ end }}
