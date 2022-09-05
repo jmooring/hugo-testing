@@ -1,0 +1,39 @@
+{
+  "information": [
+    {
+      "fullname": "Full Name",
+      "numberofgames": 6,
+      "pointstotal": 8,
+      "winstotal": 2,
+      "drawstotal": 2,
+      "lossestotal": 2,
+      "pointsaverage": 1.3333333333333333,
+      "winpercentage": 33,
+      "winchance": "low"
+    }
+  ],
+  "games": [
+    {
+      "date": "2018-03-18T00:00:00+00:00",
+      "fixtureID": "-",
+      "timestamp": "-",
+      "leagueid": 78,
+      "hometeam": "-",
+      "hometeamgoal": 2,
+      "awayteam": "-",
+      "awayteamgoal": 0,
+      "resultforplayer": "win"
+    },
+    {
+      "date": "2018-02-25T00:00:00+00:00",
+      "fixtureID": "-",
+      "timestamp": "-",
+      "leagueid": 78,
+      "hometeam": "-",
+      "hometeamgoal": 1,
+      "awayteam": "-",
+      "awayteamgoal": 2,
+      "resultforplayer": "win"
+    }
+  ]
+}

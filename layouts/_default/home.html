@@ -10,7 +10,12 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  <p>This is <code>.fullname</code> from <code>data/players/firstlastname.json</code>:</p>
+
+  {{ $myjsonfile := "firstlastname" }}
+  {{ range (index $.Site.Data.players $myjsonfile).information }}
+    {{ .fullname }}
   {{ end }}
+
 {{ end }}
