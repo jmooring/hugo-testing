@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #10255'
+date = 2022-09-08T13:13:36-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/10255'
+description = "Processed images are published without invoking .Permalink, .RelPermalink or .Publish"
 +++
