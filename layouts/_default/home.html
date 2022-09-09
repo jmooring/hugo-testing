@@ -10,7 +10,22 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{/* Create slice of pages. */}}
+  {{ $p := slice }}
+  {{ range where site.RegularPages "Section" "actu" }}
+    {{ if (.Params.event_time | time.AsTime).Before now }}
+      {{ $p = $p | append . }}
+    {{ end }}
   {{ end }}
+  {{ $p = sort $p "Params.event_time" "asc" }}
+
+  {{/* Render links. */}}
+  {{ range (.Paginate $p).Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+
+  {{/* Render navigation. */}}
+  {{ template "_internal/pagination.html" . }}
+
 {{ end }}
