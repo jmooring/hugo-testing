@@ -6,6 +6,11 @@
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
 </head>
 <body>
+
+<pre>
+  .CurrentSection = {{ .CurrentSection }}
+  .FirstSection = {{ .FirstSection }}
+</pre>
 {{ block "main" . }}
 
 {{ end }}
