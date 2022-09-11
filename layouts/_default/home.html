@@ -10,7 +10,16 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ $pages := where site.RegularPages "Type" "post" }}
+  {{ $groups := $pages.GroupByParam "foo" }}
+
+  {{ range (.Paginate $groups).PageGroups }}
+    <h2>{{ .Key }}</h2>
+    {{ range .Pages }}
+      <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    {{ end }}
   {{ end }}
+  {{ template "_internal/pagination.html" . }}
+
 {{ end }}
