@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range where (where site.RegularPages "Type" "posts") "Params.intro" "ne" true }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+{{ end }}
