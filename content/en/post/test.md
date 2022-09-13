@@ -1,7 +1,9 @@
 +++
-title = 'Test'
+title = 'Test (en)'
 date = 2022-09-13T14:02:36-07:00
 draft = false
+tags = ['Tag A','Tag B']
+categories = ['Category A','Category B']
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porta feugiat tellus, eu rutrum arcu feugiat ac. Morbi vehicula suscipit libero vitae finibus. In sollicitudin felis mauris, nec condimentum justo pharetra vitae. Quisque suscipit diam sit amet purus dictum, et euismod sapien egestas. Nunc erat erat, blandit porta lacus at, imperdiet pulvinar magna. Maecenas eget massa pretium nibh maximus consectetur. Morbi posuere fermentum elit, in vehicula quam aliquet ac. Proin a porta enim. Duis imperdiet non neque vitae vestibulum. Nam id orci et tellus vehicula porttitor. Mauris et odio purus. Nunc in fringilla felis, eget accumsan odio. Sed feugiat sit amet ligula nec laoreet. Sed ornare tortor ut odio dignissim, placerat condimentum dolor hendrerit. Nullam vel eleifend massa.
 
