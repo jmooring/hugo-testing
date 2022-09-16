@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-github-issue-10287 https://github.com/jmooring
 cd hugo-github-issue-10287
 hugo server
 ```
+
+Then visit http://localhost:1313/post/hügö/
