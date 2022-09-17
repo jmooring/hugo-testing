@@ -14,13 +14,3 @@ contentDir = 'content/es'
 languageCode = 'es=ES'
 languageName = 'Espanol'
 weight = 2
-
-[[server.redirects]]
-from = '/en/**'
-to = '/en/404.html'
-status = 404
-
-[[server.redirects]]
-from = '/es/**'
-to = '/es/404.html'
-status = 404

@@ -1,0 +1,9 @@
+[[redirects]]
+from = '/en/**'
+to = '/en/404.html'
+status = 404
+
+[[redirects]]
+from = '/es/**'
+to = '/es/404.html'
+status = 404
