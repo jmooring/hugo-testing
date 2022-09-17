@@ -11,6 +11,6 @@ weight = 1
 
 [languages.es]
 contentDir = 'content/es'
-languageCode = 'es=ES'
+languageCode = 'es-ES'
 languageName = 'Espanol'
 weight = 2
