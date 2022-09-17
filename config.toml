@@ -1,3 +1,26 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
 title = 'Hugo Forum Topic #40568'
+
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+
+[languages.es]
+contentDir = 'content/es'
+languageCode = 'es=ES'
+languageName = 'Espanol'
+weight = 2
+
+[[server.redirects]]
+from = '/en/**'
+to = '/en/404.html'
+status = 404
+
+[[server.redirects]]
+from = '/es/**'
+to = '/es/404.html'
+status = 404
