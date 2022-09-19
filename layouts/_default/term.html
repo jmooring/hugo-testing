@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $taxonomy := .Data.Plural }}
+  {{ $term := .Data.Term }}
+
+  {{ $p := slice }}
+  {{ range (index site.Data $taxonomy) }}
+    {{ if in . $term }}
+      {{ range . }}
+        {{ $p = $p | union (index site.Taxonomies $taxonomy .).Pages }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ range or $p .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+
+{{ end }}
