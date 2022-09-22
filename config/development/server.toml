@@ -1,9 +1,9 @@
 [[redirects]]
-from = '/es/**'
-to = '/es/404.html'
+from = '/en/**'
+to = '/en/404.html'
 status = 404
 
-[[redirects]] # Default lang, should be last.
-from = '/**'
-to = '/404.html'
+[[redirects]]
+from = '/es/**'
+to = '/es/404.html'
 status = 404

@@ -6,13 +6,13 @@ details = 'https://discourse.gohugo.io/t/40568'
 description = "404 pages on localhost for multilingual site"
 +++
 
-[This is a broken link](/foo).
+[This is a broken link](foo).
 
 When you click on it you should see:
 
 ```
 [begin layouts/404.html]
-My Custom 404 Page
+My Custom 404 Page (lang)
 [end layouts/404.html]
 ```
 
