@@ -10,7 +10,12 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ range resources.Match "gallery/Travel/Iceland/*.jpg" }}
+    <p>
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt=""><br>
+      {{ .RelPermalink }}
+    </p>
   {{ end }}
+
 {{ end }}

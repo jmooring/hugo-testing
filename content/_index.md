@@ -5,3 +5,9 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/10112'
 description = "resources.Match is always returning lower case paths"
 +++
+
+You should see three images below, with the following `.RelPermalink` values:
+
+- /gallery/Travel/Iceland/Image-A.jpg
+- /gallery/Travel/Iceland/Image-B.jpg
+- /gallery/Travel/Iceland/Image-C.jpg
