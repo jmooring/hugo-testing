@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/40736'
 description = "An issue with including dynamically a JS file: how to do it correctly?"
 +++
+
+Visit [/js/main.min.js](/js/main.min.js) to see the concatenated file.

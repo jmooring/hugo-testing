@@ -4,6 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+
+  {{ $jsFile1 := resources.Get "js/file1.js" }}
+  {{ $jsFile2 := resources.Get "js/file2.js" }}
+  {{ $jsFile3 := resources.Get "js/file3.js" }}
+
+  {{ $shouldHaveJsFile3 := true }}
+  {{ $allJsFiles := slice $jsFile1 $jsFile2 }}
+  {{ if $shouldHaveJsFile3 }}
+    {{ $allJsFiles = $allJsFiles | append $jsFile3 }}
+  {{ end }}
+
+  {{ $jsResource := $allJsFiles | resources.Concat "js/main.js" }}
+  {{ $jsFile := $jsResource | resources.Minify }}
+  <script src="{{ $jsFile.Permalink }}" defer></script>
+
 </head>
 <body>
 {{ block "main" . }}
