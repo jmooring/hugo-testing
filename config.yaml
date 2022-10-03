@@ -1,0 +1,20 @@
+baseURL: 'https://example.org/'
+languageCode: en-us
+title: 'Hugo GitHub Issue #10346'
+
+taxonomies:
+  category: "categories"
+  series: series
+  tag: tags
+  term: terms
+  # authors: authors
+
+related:
+  includeNewer: true
+  indices:
+  - name: "categories"
+    weight: 100
+  - name: date
+    weight: 10
+  threshold: 80
+  toLower: false
