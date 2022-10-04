@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/40809'
 description = "Parameter Won't Render"
 +++
+
+{{< daily-puzzle title="LiChess Daily Puzzle" src="https://lichess.org/training/frame?theme=brown&bg=dark" >}}
