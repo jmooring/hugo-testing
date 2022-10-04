@@ -1,13 +1,9 @@
 {{ with $specificWordIdentifier := .Page.Params.specificWordIdentifier }}
   {{ with index site.Data.words . }}
-    <svg xmlns="http://www.w3.org/2000/svg">
-      <g>
-        <rect x="0" y="0" width="100" height="100" fill="red"></rect>
-        <text x="0" y="50" font-family="Verdana" font-size="35" fill="blue">
-          {{ . }}
-        </text>
-      </g>
-    </svg>
+    {{ $targetPath := printf "/images/%s.svg" $specificWordIdentifier }}
+    {{ $r := resources.Get "templates/svg.html" }}
+    {{ $i := $r | resources.ExecuteAsTemplate $targetPath . }}
+    <img src="{{ $i.RelPermalink }}" alt="">
   {{ else }}
     {{ errorf "The %q shortcode was unable to find a key named %q in data/words. See %s" $.Name $specificWordIdentifier $.Position }}
   {{ end }}
