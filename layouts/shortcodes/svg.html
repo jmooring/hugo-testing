@@ -1,9 +1,9 @@
 {{ with $specificWordIdentifier := .Page.Params.specificWordIdentifier }}
   {{ with index site.Data.words . }}
-    {{ $targetPath := printf "/images/%s.svg" $specificWordIdentifier }}
     {{ $r := resources.Get "templates/svg.html" }}
-    {{ $i := $r | resources.ExecuteAsTemplate $targetPath . }}
-    <img src="{{ $i.RelPermalink }}" alt="">
+    {{ with $r | resources.ExecuteAsTemplate "" . }}
+      <img src="data:image/svg+xml;base64,{{ .Content | base64Encode }}">
+    {{ end }}
   {{ else }}
     {{ errorf "The %q shortcode was unable to find a key named %q in data/words. See %s" $.Name $specificWordIdentifier $.Position }}
   {{ end }}
