@@ -1,4 +1,19 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+{{ with where .Resources "Params.header" true }}
+  {{ with index . 0 }}
+    <h2>Header image</h2>
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Params.alt }}">
+  {{ end }}
+{{ end }}
+
+{{ with .Resources.ByType "image" }}
+  <h2>All images</h2>
+  {{ range . }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Params.alt }}">
+  {{ end }}
+{{ end }}
+
 {{ end }}
