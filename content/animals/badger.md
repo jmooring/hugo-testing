@@ -1,7 +1,7 @@
 +++
-title = 'Apple'
+title = 'Badger'
 date = 2021-01-01T00:00:00-00:00
 draft = false
-glossary = 'a'
+glossary = 'b'
 +++
-content/post/apple.md
+content/post/badger.md
