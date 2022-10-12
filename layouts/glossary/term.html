@@ -6,15 +6,14 @@
   {{ end }}
 
   <ul class="pagination">
-    {{ range $term, $_ := site.Taxonomies.glossary }}
-      {{ $p := site.GetPage (printf "/glossary/%s" (lower $term)) }}
-      {{ if eq $.RelPermalink $p.RelPermalink }}
+    {{ range (site.GetPage "/glossary").Pages.ByTitle }}
+      {{ if eq $.RelPermalink .RelPermalink }}
         <li class="page-item active">
-          <a class="page-link" aria-current="page" aria-label="Page {{ lower $term }}" role="button" href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a>
+          <a class="page-link" aria-current="page" aria-label="Page {{ .Data.Term }}" role="button" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         </li>
       {{ else }}
         <li class="page-item">
-          <a class="page-link" aria-label="Page {{ lower $term }}" role="button" href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a>
+          <a class="page-link" aria-label="Page {{ .Data.Term }}" role="button" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         </li>
       {{ end }}
     {{ end }}
