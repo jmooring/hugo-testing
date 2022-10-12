@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+
+  <ul>
+    {{ range $term, $_ := site.Taxonomies.glossary }}
+      {{ $p := site.GetPage (printf "/glossary/%s" (lower $term)) }}
+      <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+
+{{ end }}

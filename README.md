@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-forum-topic-40922 https://github.com/jmooring/
 cd hugo-forum-topic-40922
 hugo server
 ```
+
+Then visit:
+
+- <http://localhost:1313/glossary/>
+- <http://localhost:1313/glossary/a/>
+- <http://localhost:1313/glossary/b/>
