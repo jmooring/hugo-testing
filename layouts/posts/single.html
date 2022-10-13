@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+  {{ if .Params.multipage }}
+    <h1>{{ .Parent.Title }} (continued)</h1>
+  {{ else }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
+
+  {{ .Content }}
+
+  {{ if .Params.multipage }}
+    {{ $p := append .CurrentSection.Pages.ByWeight (slice .CurrentSection) }}
+    {{ with $p.Next . }}
+      <a href="{{ .RelPermalink }}">Previous page</a>
+    {{ end }}
+    {{ with $p.Prev . }}
+      <a href="{{ .RelPermalink }}">Next page</a>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
