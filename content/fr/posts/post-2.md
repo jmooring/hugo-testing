@@ -5,4 +5,4 @@ draft = false
 'catégories' = ['cat-a-fr']
 'étiquettes' = ['tag-a-fr']
 +++
-content/fr/posts/post-1.md
+content/fr/posts/post-2.md
