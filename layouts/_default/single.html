@@ -1,4 +1,23 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+{{ with .GetTerms (T "categories") }}
+  <p>{{ T "categories" | title }}:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}
+
+{{ with .GetTerms (T "tags") }}
+  <p>{{ T "tags" | title }}:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}
+
+
+
   {{ .Content }}
 {{ end }}
