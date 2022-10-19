@@ -4,6 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  <style>
+    body {
+      color: #222;
+      font-family: sans-serif;
+      max-width: 768px;
+      width: 90%;
+      margin: 0 0 3rem 1rem;
+    }
+  </style>
+
+  {{ $noop := .Content }}
+  {{ if or (.HasShortcode "katex") (.Page.Store.Get "hasKatex") }}
+    {{ partial "katex.html" }}
+  {{ end }}
+
 </head>
 <body>
 {{ block "main" . }}
