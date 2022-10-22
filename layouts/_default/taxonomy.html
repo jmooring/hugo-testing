@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <br>
+
+  <h2><code>&lbrace;{ range $term, $weightedPages := site.Taxonomies.categories }}</code></h2>
+
+  {{ range $term, $weightedPages := site.Taxonomies.categories }}
+    <h3>{{ $term }}</h3>
+    {{ range $weightedPages }}
+      <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+    {{ end }}
+  {{ end }}
+
+  <br>
+
+  <h2><code>&lbrace;{ range $term, $weightedPages := .Data.Terms }}</code></h2>
+
+  {{ range $term, $weightedPages := .Data.Terms }}
+    <h3>{{ $term }}</h3>
+    {{ range $weightedPages }}
+      <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
