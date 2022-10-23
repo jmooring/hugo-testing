@@ -4,6 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+
+  {{ $jquery := resources.Get "js/jquery.js" }}
+  {{ $menuJS := resources.Get "js/menu.js" }}
+  {{ $randomJS := resources.Get "js/random.js" | resources.ExecuteAsTemplate "js/random-ready.js" . }}
+
+  {{ $minifiedJS := slice $jquery $menuJS $randomJS | resources.Concat "js/bundle.js" | resources.Minify }}
+
+  <script src="{{ $minifiedJS.Permalink }}" defer></script>
+
 </head>
 <body>
 {{ block "main" . }}
