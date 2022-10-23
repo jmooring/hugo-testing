@@ -11,13 +11,18 @@
   {{ end }}
   {{ .Content }}
 
+  {{ $p := slice }}
   {{ range (where site.Pages "Type" "posts").ByTitle }}
     {{ if or
       (and .IsPage (not (eq .Layout "multipage" )))
       (and .IsSection (eq .Layout "multipage" ))
     }}
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      {{ $p = $p | append . }}
     {{ end }}
+  {{ end }}
+
+  {{ range $p.ByTitle.Reverse | first 10 }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
 
 {{ end }}
