@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+  {{ if .IsSection }}
+    <h1>{{ .Title }}</h1>
+  {{ else }}
+    <h1>{{ .Title }} (continued)</h1>
+  {{ end }}
+
+  {{ .Content }}
+
+  {{ $p := append .CurrentSection.Pages.ByWeight (slice .CurrentSection) }}
+  {{ if .IsSection }}
+    {{ with $p.Prev . }}
+      <a href="{{ .RelPermalink }}">Next page</a>
+    {{ end }}
+  {{ else }}
+    {{ with $p.Next . }}
+      <a href="{{ .RelPermalink }}">Previous page</a>
+    {{ end }}
+    {{ with $p.Prev . }}
+      <a href="{{ .RelPermalink }}">Next page</a>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
