@@ -1,0 +1,29 @@
+{{ $p := slice }}
+{{ if eq .Layout "multipage" }}
+  {{ if .IsPage }}
+    {{ $p1 := .Parent.Parent.RegularPages }}
+    {{ $p2 := where .Parent.Parent.Pages "Layout" "multipage" }}
+    {{ $p = union $p1 $p2 }}
+  {{ end }}
+  {{ if .IsSection }}
+    {{ $p1 := .Parent.RegularPages }}
+    {{ $p2 := where .Parent.Pages "Layout" "multipage" }}
+    {{ $p = union $p1 $p2 }}
+  {{ end }}
+{{ else }}
+  {{ $p1 := .CurrentSection.RegularPages }}
+  {{ $p2 := where .CurrentSection.Pages "Layout" "multipage" }}
+  {{ $p = union $p1 $p2 }}
+{{ end }}
+
+{{ with $p | shuffle | first 5 }}
+  <p>Other pages in current section:</p>
+  <ul>
+    {{ range . }}
+      {{ if not (hasPrefix $.RelPermalink .RelPermalink) }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}
