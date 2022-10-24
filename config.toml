@@ -1,3 +1,28 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10385'
+
+defaultContentLanguage = 'en'
+
+[languages.en]
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+
+[languages.ko]
+languageCode = 'ko-KR'
+languageName = 'Korean'
+weight = 2
+
+[permalinks]
+posts = "/:filename"
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 1
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 2
