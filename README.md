@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/41107>
 
-Description: Mathjax doesn't work from some formula
+Description: MathJax doesn't work from some formula
 
 ## Instructions
 
