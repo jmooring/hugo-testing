@@ -1,0 +1,25 @@
+{{- $i := "" }}
+
+{{- range $r := resources.Match "random-images/*" | shuffle }}
+  {{- with site.Home.Scratch.Get "imagesUsed" }}
+    {{- if in . $r }}
+      {{- continue }}
+    {{- else }}
+      {{- $i = $r }}
+      {{- site.Home.Scratch.Add "imagesUsed" $i }}
+      {{- break }}
+    {{- end }}
+  {{- else }}
+    {{- $i = $r }}
+    {{- site.Home.Scratch.Set "imagesUsed" (slice $i) }}
+    {{- break }}
+  {{- end }}
+{{- end }}
+
+{{- with $i }}
+  {{- with .Resize "200x" -}}
+    <img src="{{- .RelPermalink }}" width="{{- .Width }}" height="{{- .Height }}" alt="{{- .Name | path.BaseName | humanize }}">
+  {{- end }}
+{{- else }}
+  {{- warnf "There are not enough random images to choose from. See %s" .Position }}
+{{- end -}}
