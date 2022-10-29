@@ -1,0 +1,4 @@
+{{- /* Render all pages sequentially to avoid concurrency issue in layouts/shortcodes/random-image.html */}}
+{{- range site.AllPages }}
+  {{- $noop := .Content }}
+{{- end -}}
