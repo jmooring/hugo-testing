@@ -1,0 +1,7 @@
+{{ define "main" }}[layouts/_default/terms.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+{{ end }}

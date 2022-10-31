@@ -1,0 +1,20 @@
+{{ define "main" }}[layouts/_default/taxonomy.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $expectedTitles := slice }}
+  {{ range index site.Taxonomies .Data.Plural .Data.Term }}
+    {{ $expectedTitles = $expectedTitles | append .Title }}
+  {{ end }}
+
+  {{ $actualTitles := slice }}
+  {{ range .Pages }}
+    {{ $actualTitles = $actualTitles | append .Title }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+
+  {{ if ne $expectedTitles $actualTitles }}
+    {{ errorf "Taxonomic weight not honored when ranging through .Pages.\nExpected order: %v\nActual order: %v." $expectedTitles $actualTitles }}
+  {{ end }}
+
+{{ end }}
