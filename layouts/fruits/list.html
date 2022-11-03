@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+
+{{ range $term, $weightedPages := site.Taxonomies.classification }}
+  <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></h2>
+  {{ range sort (where $weightedPages "Type" "fruits") "Title" }}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+  {{ end }}
+{{ end }}
+
+{{ end }}
