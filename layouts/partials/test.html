@@ -1,0 +1,26 @@
+{{ $m := dict
+  "products" (dict
+    "electronics" (dict
+      "laptops" "asus"
+    )
+  )
+}}
+{{ $p := split (trim .Page.RelPermalink "/") "/" }}
+
+{{ $key := slice }}
+{{ $result := "" }}
+{{ range $p }}
+  {{ $result = "" }}
+  {{ $key = $key | append . }}
+  {{ with index $m $key }}
+    {{ $result = . }}
+  {{ else }}
+    {{ break }}
+  {{ end }}
+{{ end }}
+
+{{ with $result }}
+  <hr>
+  Value from layouts/partials/test.html  --> <code>{{  . }}</code>
+  <hr>
+{{ end }}
