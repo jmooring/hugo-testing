@@ -1,0 +1,9 @@
+{{ with .Params.requirements }}
+  {{ range . }}
+    {{ with site.GetPage . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ else }}
+      {{ errorf "Unable to get page %q" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
