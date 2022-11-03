@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo Forum Topic #41226'
+date = 2022-11-02T18:36:21-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/41226'
+description = "Using where and in together"
 +++
