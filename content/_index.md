@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #10393'
+date = 2022-11-03T19:06:55-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/10393'
+description = "Unexpected behaviour using front matter key "url" alongside "uglyURLs = true" *for list pages"
 +++
