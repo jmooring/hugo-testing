@@ -1,0 +1,6 @@
+disableKinds = ['home','section','taxonomy','term','404','RSS','sitemap']
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+includeFiles = ['/posts/post-1.md']
