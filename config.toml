@@ -1,3 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10286'
+
+[mediaTypes.'application/msword']
+suffixes = ['doc']
+[mediaTypes.'application/vnd.openxmlformats-officedocument.wordprocessingml.document']
+suffixes = ['docx']
+[mediaTypes.'application/vnd.ms-powerpoint']
+suffixes = ['ppt']
+[mediaTypes.'application/vnd.openxmlformats-officedocument.presentationml.presentation']
+suffixes = ['pptx']
+[mediaTypes.'application/vnd.ms-excel']
+suffixes = ['xls']
+[mediaTypes.'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet']
+suffixes = ['xlsx']

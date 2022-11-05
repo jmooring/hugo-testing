@@ -10,7 +10,26 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ $urls := slice
+    "https://www.mooring.com/ms-office/test.doc"
+    "https://www.mooring.com/ms-office/test.docx"
+    "https://www.mooring.com/ms-office/test.ppt"
+    "https://www.mooring.com/ms-office/test.pptx"
+    "https://www.mooring.com/ms-office/test.xls"
+    "https://www.mooring.com/ms-office/test.xlsx"
+  }}
+
+  {{ range $url := $urls }}
+    {{ with resources.GetRemote . }}
+      {{ with .Err }}
+        {{ warnf "%s" . }}
+      {{ else }}
+        <a href="{{ .RelPermalink }}">{{ path.Base $url }}</a>
+      {{ end }}
+    {{ else }}
+      {{ warnf "Unable to get remote resource %s" $url }}
+    {{ end }}
   {{ end }}
+
 {{ end }}
