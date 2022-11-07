@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #41331
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/41331>
 
-Description: @@DESCRIPTION@@
+Description: How to access an image in a branch bundle?
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```bash
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-41331 https://github.com/jmooring/hugo-testing hugo-forum-topic-41331
+cd hugo-forum-topic-41331
 hugo server
 ```
