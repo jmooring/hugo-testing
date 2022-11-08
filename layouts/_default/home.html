@@ -10,7 +10,11 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  {{ $p := where site.RegularPages "Type" "posts" }}
+  {{ range (.Paginate $p).Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+  {{ template "_internal/pagination.html" . }}
+
 {{ end }}
