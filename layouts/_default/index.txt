@@ -1,0 +1,14 @@
+
+Rendered by layouts/_default/index.txt
+======================================
+
+Symbols as template pipelines
+-----------------------------
+{{ ">" }}
+{{ "<" }}
+{{ "&" }}
+
+
+.Plain
+------
+{{ .Plain }}
