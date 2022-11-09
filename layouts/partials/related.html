@@ -1,0 +1,10 @@
+{{ with .Params.related }}
+  <p>Related:</p>
+  <ul>
+    {{ range . }}
+      {{ with site.GetPage . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}
