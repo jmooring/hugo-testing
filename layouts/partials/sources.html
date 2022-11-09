@@ -1,0 +1,8 @@
+{{ with .Params.sources }}
+  <p>Sources:</p>
+  <ul>
+    {{ range . }}
+      <li><a href="{{ . }}">{{ . }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
