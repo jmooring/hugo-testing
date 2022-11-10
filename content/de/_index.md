@@ -5,6 +5,8 @@ draft = false
 details = 'https://discourse.gohugo.io/t/41042'
 description = "Multiple Page Posts followup"
 +++
+Posts 1, 2, and 9 have a featured image.
+
 Multi-page posts:
 
 - Post 1
@@ -18,5 +20,6 @@ Single-page posts:
 - Post 4
 - Post 7 (in subsection)
 - Post 8 (in subsection)
+- Post 9
 
 ---

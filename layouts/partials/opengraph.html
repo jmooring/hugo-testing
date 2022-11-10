@@ -1,0 +1,9 @@
+{{ with .Resources.GetMatch "featured-image.*" }}
+  <meta property="og:image" content="{{ .Permalink }}">
+{{ else }}
+  {{ if and (eq .Params.layout "multipage") (eq .Kind "page") }}
+    {{ with .Parent.Resources.GetMatch "featured-image.*" }}
+      <meta property="og:image" content="{{ .Permalink }}">
+    {{ end }}
+  {{ end }}
+{{ end }}
