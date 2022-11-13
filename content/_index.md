@@ -5,3 +5,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/41443'
 description = "Translating branch bundles by filename"
 +++
+
+Visit <http://localhost:1313/en/blog/foo/foo-2/> for an example of image translations.
+
+---

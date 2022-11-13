@@ -1,0 +1,51 @@
+{{- $alt := .Text | safeHTML }}
+{{- $title := .Title | safeHTML }}
+{{- $width := 0 }}
+{{- $height := 0 }}
+{{- $src := "" }}
+
+{{- $u := urls.Parse .Destination }}
+{{- if $u.IsAbs }}
+  {{- /* Get remote image. */}}
+  {{- with resources.GetRemote $u.String }}
+    {{- with .Err }}
+      {{- warnf "%s" . }}
+    {{- else }}
+      {{- /* https://discourse.gohugo.io/t/36397 */}}
+      {{- $i := .Content | resources.FromString (path.Join "assets/images" .Name) }}
+      {{- $width = $i.Width }}
+      {{- $height = $i.Height }}
+      {{- $src = $i.RelPermalink }}
+    {{- end }}
+  {{- else }}
+    {{- warnf "Unable to retrieve remote image %q" $u.String }}
+  {{- end }}
+{{- else }}
+  {{- /* Get local image. */}}
+  {{- with .Page.Resources.GetMatch $u.String }}
+    {{- $width = .Width }}
+    {{- $height = .Height }}
+    {{- $src = .RelPermalink }}
+  {{- else }}
+    {{- /* Get language-specific version of local image. */}}
+    {{- $ext := path.Ext $u.String }}
+    {{- $path := printf "%s.%s%s" (strings.TrimSuffix $ext $u.String) $.Page.Lang $ext }}
+    {{- with .Page.Resources.GetMatch $path }}
+      {{- $width = .Width }}
+      {{- $height = .Height }}
+      {{- $src = .RelPermalink }}
+    {{- else }}
+      {{- /* Get local image from assets directory. */}}
+      {{- with resources.Get $u.String }}
+        {{- $width = .Width }}
+        {{- $height = .Height }}
+        {{- $src = .RelPermalink }}
+      {{- else }}
+        {{- warnf "Unable to retrieve local image %q" $u.String }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end -}}
+
+<img src="{{ $src }}" width="{{ $width }}" height="{{ $height }}" {{- with $title }} title="{{ . }}" {{- end }} {{- with $alt }} alt="{{ . }}" {{- end }}>
+{{- /**/ -}}
