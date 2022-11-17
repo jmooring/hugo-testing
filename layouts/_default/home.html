@@ -10,7 +10,55 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ $i := "" }}
+  {{ $paletteOriginal := slice }}
+  {{ $paletteSorted := slice }}
+  {{ with .Resources.Get "cover.jpg" }}
+    {{ with $i = .Resize "150x webp" }}
+      {{ $paletteOriginal = .Colors}}
+      {{ $paletteSorted = apply $paletteOriginal "replace" "." "#" "0x" }}
+      {{ $paletteSorted = apply $paletteSorted "int" "." }}
+      {{ $paletteSorted = sort $paletteSorted }}
+      {{ $paletteSorted = apply $paletteSorted "printf" "#%x" "." }}
+    {{ end }}
   {{ end }}
+
+  <h2>Original palette</h2>
+
+  {{ range $paletteOriginal }}
+    <img
+      src="{{ $i.RelPermalink }}"
+      width="{{ $i.Width }}"
+      height="{{ $i.Height }}"
+      alt=""
+      style="border: 20px solid {{ . }};"
+    >
+  {{ end }}
+
+  <h2>Sorted palette</h2>
+
+  {{ range $paletteSorted }}
+    <img
+      src="{{ $i.RelPermalink }}"
+      width="{{ $i.Width }}"
+      height="{{ $i.Height }}"
+      alt=""
+      style="border: 20px solid {{ . }};"
+    >
+  {{ end }}
+
+  <h2>Example using darkest for text and lightest for background</h2>
+  {{ $darkest := index $paletteSorted 0 }}
+  {{ $lightest := index $paletteSorted (sub (len $paletteSorted) 1) }}
+
+  <div style="color: {{ $darkest }}; background: {{ $lightest }}; padding: 1rem;">
+  <h3>Heading 1</h3>
+  <p>Sint tempor labore dolor proident magna. Exercitation culpa dolore velit reprehenderit anim ut sint velit ea do dolore et magna mollit. Adipisicing tempor labore sint nulla tempor esse minim ut officia minim eiusmod non excepteur.</p>
+  <p>Consequat nisi Lorem laborum sint et Lorem aliquip deserunt cupidatat reprehenderit. Cupidatat cupidatat ut sunt nisi dolore sit. Occaecat culpa duis duis eu labore dolore tempor do. Lorem incididunt mollit elit velit aliquip officia nulla. Incididunt aliquip qui deserunt deserunt esse laborum laborum excepteur do consectetur.</p>
+  </div>
+
+</div>
+
+
 {{ end }}
