@@ -1,0 +1,13 @@
+{{ $noop := .Inner }}
+{{ $product := string ( .Get "product" )}}
+{{ $markdown := .Inner | markdownify }}
+
+{{ if eq .Site.Params.product $product }}
+  {{ if (or (in .Inner " alert") (in .Inner " expand") (in .Inner " version") ) }}
+    {{ .Inner }}
+  {{ else if not ( findRE "<[p][^>]*>" $markdown ) }}
+    {{ $markdown }}
+  {{ else }}
+    {{ .Inner | markdownify }}
+  {{ end }}
+{{ end }}
