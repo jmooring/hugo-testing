@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo Forum Topic #41498'
+date = 2022-11-18T00:10:40-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/41498'
+description = "Difference testing"
 +++
