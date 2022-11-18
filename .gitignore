@@ -1,5 +1,6 @@
 .hugo_build.lock
 .hvm
+/_gold
 /.vscode
 /node_modules
 /public

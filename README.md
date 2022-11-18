@@ -6,10 +6,13 @@ Description: Difference testing
 
 ## Instructions
 
-Clone this branch of the repository and build the site.
+Clone this branch of the repository.
 
 ```bash
 git clone --single-branch -b hugo-forum-topic-41498 https://github.com/jmooring/hugo-testing hugo-forum-topic-41498
 cd hugo-forum-topic-41498
-hugo server
 ```
+
+See the bash script (test.sh) in the root of the project directory.
+
+Make sure you declare the project_dir in the main() function before testing.

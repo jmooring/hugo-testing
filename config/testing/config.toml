@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '@@TITLE@@'
+
+[[cascade]]
+  [cascade._build]
+    render = 'always'
+    list = 'always'
+    publishResources = true
+  [cascade._target]
+    path = '/tests**'
