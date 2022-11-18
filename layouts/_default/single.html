@@ -1,4 +1,46 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <h1>{{ .File.Path }} (weight = {{ .Weight }})</h1>
   {{ .Content }}
+
+{{/* Get the current page, just to avoid context confusion later on. */}}
+{{ $currentPage := . }}
+
+{{/* Get the section pages within the top level section. */}}
+{{ $topLevelSectionPages := where .FirstSection.Pages.ByWeight "Kind" "section" }}
+
+{{/* Get the first subsection. *}}
+{{/* This assumes your "2000+" weights are correct. */}}
+{{ $firstSubsection := index $topLevelSectionPages 0 }}
+
+{{/* Get the regular pages within the first subsection. */}}
+{{ $regularPagesInFirstSubsection := $firstSubsection.RegularPages }}
+
+{{/* Display the regular pages in the first subsection. */}}
+{{/* We will insert the current page to show where it fits in the weight sorting. */}}
+{{/* Remove this later; just showing what you get. */}}
+<h2>Regular pages in first subsection</h2>
+<p><em>We inserted the current page (highlighted) to show where it fits in the weight sorting.</em></p>
+{{ $p := $regularPagesInFirstSubsection | append $currentPage }}
+{{ range $p.ByWeight }}
+  {{ if eq . $currentPage }}
+    <h3 style="background: yellow;"><a href="{{ .RelPermalink }}">{{ .File.Path }}</a> (weight = {{ .Weight }})</h3>
+  {{ else  }}
+    <h3><a href="{{ .RelPermalink }}">{{ .File.Path }}</a> (weight = {{ .Weight }})</h3>
+  {{ end }}
+{{ end }}
+
+{{/* Display the previous three pages by weight. */}}
+{{/* There might be less than three, or zero, depending on weights. */}}
+<h2>Previous three pages (by weight)</h2>
+{{ range where $regularPagesInFirstSubsection.ByWeight "Weight" "lt" $currentPage.Weight | last 3 }}
+  <h3><a href="{{ .RelPermalink }}">{{ .File.Path }}</a> (weight = {{ .Weight }})</h3>
+{{ end }}
+
+{{/* Display next three pages by weight. */}}
+{{/* There might be less than three, or zero, depending on weights. */}}
+<h2>Next three pages (by weight)</h2>
+{{ range where $regularPagesInFirstSubsection.ByWeight "Weight" "gt" $currentPage.Weight | first 3 }}
+  <h3><a href="{{ .RelPermalink }}">{{ .File.Path }}</a> (weight = {{ .Weight }})</h3>
+{{ end }}
+
 {{ end }}

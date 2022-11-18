@@ -4,6 +4,25 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  <style>
+    body {
+      color: 222;
+      width: 90%;
+      max-width: 1024px;
+      font-family: sans-serif;
+      margin: 0 0 3rem 1rem;
+    }
+    /* linenos=true */
+    .highlight > div {
+      padding: .2rem 1rem;
+      border-radius: 8px;
+    }
+    /* linenos=false */
+    .highlight > pre {
+      padding: 1rem;
+      border-radius: 8px;
+    }
+  </style>
 </head>
 <body>
 {{ block "main" . }}

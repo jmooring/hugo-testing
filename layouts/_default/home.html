@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <h1>{{ .Title }} (weight = {{ .Weight }})</h1>
   {{ with .Params.details }}
     <p>Details: <a href="{{ . }}">{{ . }}</a></p>
   {{ end }}
@@ -10,7 +10,7 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ range .Sections }}
+    <h2><a href="{{ .RelPermalink }}">{{ .File.Path }}</a> (weight = {{ .Weight }})</h2>
   {{ end }}
 {{ end }}

@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-forum-topic-41501 https://github.com/jmooring/
 cd hugo-forum-topic-41501
 hugo server
 ```
+
+Some decent examples:
+
+- <http://localhost:1313/products/product-2/file-255/>
+- <http://localhost:1313/products/product-2/benefits/file-049/>
+- <http://localhost:1313/products/product-2/benefits/benefit-1/file-091/>
