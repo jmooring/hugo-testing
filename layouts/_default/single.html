@@ -19,9 +19,10 @@
   {{- /* Append the current page to $regularPagesInFirstSubsection, then display. */}}
   <h2>Regular pages in first subsection</h2>
   <p>The current page should be highlighted.</p>
-  {{- $p := $regularPagesInFirstSubsection | append (slice $currentPage) }}
-  {{/*  {{- $p := $regularPagesInFirstSubsection | union (slice $currentPage) }}  */}}
-  {{- range $p }}
+  {{- if not (in $regularPagesInFirstSubsection $currentPage) }}
+    <h3 style="background: yellow;"><a href="{{ .RelPermalink }}">{{ .Title }}</a> (weight = {{ .Weight }})</h3>
+  {{- end }}
+  {{- range $regularPagesInFirstSubsection }}
     {{- if eq . $currentPage }}
       <h3 style="background: yellow;"><a href="{{ .RelPermalink }}">{{ .Title }}</a> (weight = {{ .Weight }})</h3>
     {{- else  }}
