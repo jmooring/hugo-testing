@@ -20,7 +20,7 @@
 {{/* Remove this later; just showing what you get. */}}
 <h2>Regular pages in first subsection</h2>
 <p><em>We inserted the current page (highlighted) to show where it fits in the weight sorting.</em></p>
-{{ $p := $regularPagesInFirstSubsection | append $currentPage }}
+{{ $p := union $regularPagesInFirstSubsection (slice $currentPage) }}
 {{ range $p.ByWeight }}
   {{ if eq . $currentPage }}
     <h3 style="background: yellow;"><a href="{{ .RelPermalink }}">{{ .File.Path }}</a> (weight = {{ .Weight }})</h3>
