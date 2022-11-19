@@ -1,0 +1,150 @@
+{{- /*
+Generates the HTML for a Bootstrap 5 lightbox gallery, and supports multiple
+galleries per page.
+
+Requires: vhttps://github.com/trvswgnr/bs5-lightbox
+Image processing reference: https://gohugo.io/content-management/image-processing
+
+Within the shortcode tags, enter one image per line. Use markdown syntax, or
+just an image path, including remote images via http/https. Blank lines between
+entries are allowed.
+
+When obtaining a local resource, the shortcode will look for a page resource
+first, then fallback to a global resource (the assets directory).
+
+@param {int}    [columns=3]         The number of columns per row.
+@param {string} [method="fill"]     The sizing method: crop, fill, fit, or resize.
+@param {string} [options="300x200"] The options passed to the sizing method.
+
+@returns {template.HTML}
+
+@example
+
+  {{< gallery >}}
+  ![](a.jpg)
+  ![alt 1](a.jpg)
+  ![alt 2](a.jpg "A title")
+  images/b.jpg
+  c.jpg
+  https://gohugo.io/img/hugo.png
+  {{< /gallery >}}
+
+*/}}
+
+{{- /* Initialize params. */}}
+{{- $columns := 3 }}
+{{- $method := "fit" }}
+{{- $options := "300x200" }}
+
+{{- /* Get params. */}}
+{{- with .Get "columns" }}
+  {{- $columns = . | int }}
+{{- end }}
+{{- with .Get "method" }}
+  {{- $method = . | lower }}
+{{- end }}
+{{- with .Get "options" }}
+  {{- $options = . | lower }}
+{{- end }}
+
+{{- /* Validate params. */}}
+{{- $validMethods := slice "crop" "fill" "fit" "resize" }}
+{{- if not (in $validMethods $method) }}
+  {{- errorf "The %q shortcode detected an invalid image processing method. Valid options are %s. See %s" $.Name (delimit $validMethods ", " ", and ") $.Position }}
+{{- end }}
+{{- if and (eq $method "resize") (findRE `\d+x\d+` $options) }}
+  {{- errorf "The %q shortcode detected the use of width AND height with the Resize method. This will scale disproportionally. See %s" $.Name $.Position }}
+{{- end }}
+
+{{- /* Build array of maps of image attributes. */}}
+{{- $ctx := . }}
+{{- $images := slice}}
+{{- with .Inner }}
+  {{- $inner := replaceRE `\r` "" . }}
+  {{- $inner = trim $inner " \n" }}
+  {{- $lines := split $inner "\n" }}
+  {{- range $lines }}
+    {{- if . }}
+      {{- $line := trim . " " }}
+      {{- $alt := "" }}
+      {{- $destination := "" }}
+      {{- $title := "" }}
+      {{- if not (hasPrefix $line "!") }}
+        {{- $destination = $line }}
+      {{- else }}
+        {{- $alt = replaceRE `!\[(.*)\].*` "$1" $line | plainify }}
+        {{- $destination = replaceRE `!.*\(<?(.*?)( "|\)|>).*` "$1" $line }}
+        {{- $title = replaceRE `!.*?"(.*)".*|.*` "$1" $line | plainify }}
+      {{- end }}
+      {{- $resource := partial "inline/get-img-resource" (dict "ctx" $ctx "destination" $destination) }}
+      {{- $images = $images | append (dict "alt" $alt "resource" $resource "title" $title) }}
+    {{- end }}
+  {{- end }}
+{{- end -}}
+
+{{- /* Build gallery. */}}
+<div class="container gallery-wrapper">
+  <div class="row">
+  {{- range $k, $_ := $images }}
+    {{- $oi := .resource }}  {{/* original image */}}
+    {{- $ri := .resource }}  {{/* resized image */}}
+    {{- $alt := .alt }}
+    {{- $title := .title }}
+    {{- if eq $method "crop" }}
+      {{- $ri = $oi.Crop $options }}
+    {{- else if eq $method "fill" }}
+      {{- $ri = $oi.Fill $options }}
+    {{- else if eq $method "fit" }}
+      {{- $ri = $oi.Fit $options }}
+    {{- else if eq $method "resize" }}
+      {{- $ri = $oi.Resize $options }}
+    {{- end }}
+    {{- if and $k (modBool $k $columns) }}
+  </div>
+  <div class="row">
+    {{- end }}
+    <a href="{{ $oi.RelPermalink }}" data-toggle="lightbox" data-gallery="{{ printf "gallery-%d" $.Ordinal }}" class="col-sm-4">
+      <img
+        src="{{ $ri.RelPermalink }}"
+        width="{{ $ri.Width }}"
+        height="{{ $ri.Height }}"
+        class="img-fluid"
+        {{ with $alt }}alt="{{ . }}"{{ end }}
+        {{ with $title }}title="{{ . }}"{{ end }}
+      >
+    </a>
+  {{- end }}
+  </div>
+</div>
+
+{{- /* Function to get image resource. */}}
+{{- define "partials/inline/get-img-resource" }}
+  {{- $ctx := .ctx }}
+  {{- $r := "" }}
+  {{- $u := urls.Parse .destination }}
+  {{- if $u.IsAbs }}
+    {{- /* Remote */}}
+    {{- with $r = resources.GetRemote $u.String }}
+      {{- with .Err }}
+        {{- errorf . }}
+      {{- else }}
+        {{- $r = . }}
+      {{- end }}
+    {{- else }}
+      {{- errorf "The %q shortcode was unable to get the remote image %q. See %s" $ctx.Name $u.String $ctx.Position }}
+    {{- end }}
+  {{- else }}
+    {{- with $r = $ctx.Page.Resources.GetMatch $u.Path }}
+      {{- /* Page resource */}}
+        {{- $r = . }}
+    {{- else }}
+      {{- with $r = resources.Get $u.Path }}
+        {{- /* Global resource */}}
+        {{- $r = . }}
+      {{- else }}
+        {{- errorf "The %q shortcode was unable to get the image %q. See %s" $ctx.Name $u.String $ctx.Position }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- return $r }}
+{{- end  }}
