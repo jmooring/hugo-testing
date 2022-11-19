@@ -1,4 +1,32 @@
-{{ define "main" }}
+{{- define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
-{{ end }}
+  {{- .Content }}
+  <hr>
+
+  {{- /* Get the current page, just to avoid context confusion later on. */}}
+  {{- $currentPage := . }}
+
+  {{- /* Get the section pages within the top level section. */}}
+  {{- $topLevelSectionPages := where .FirstSection.Pages "Kind" "section" }}
+
+  {{- /* Get the first subsection. *}}
+  {{- /* This assumes the section pages are weighted correctly. */}}
+  {{- $firstSubsection := index $topLevelSectionPages 0 }}
+
+  {{- /* Get the regular pages within the first subsection. */}}
+  {{- $regularPagesInFirstSubsection := $firstSubsection.RegularPages }}
+
+  {{- /* Append the current page to $regularPagesInFirstSubsection, then display. */}}
+  <h2>Regular pages in first subsection</h2>
+  <p>The current page should be highlighted.</p>
+  {{- $p := $regularPagesInFirstSubsection | append (slice $currentPage) }}
+  {{/*  {{- $p := $regularPagesInFirstSubsection | union (slice $currentPage) }}  */}}
+  {{- range $p }}
+    {{- if eq . $currentPage }}
+      <h3 style="background: yellow;"><a href="{{ .RelPermalink }}">{{ .Title }}</a> (weight = {{ .Weight }})</h3>
+    {{- else  }}
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a> (weight = {{ .Weight }})</h3>
+    {{- end }}
+  {{- end }}
+
+{{- end }}
