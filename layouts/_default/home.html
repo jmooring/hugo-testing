@@ -11,6 +11,6 @@
   {{ end }}
   {{ .Content }}
   {{ range .Sections }}
-    <h2><a href="{{ .RelPermalink }}">{{ .File.Path }}</a> (weight = {{ .Weight }})</h2>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a> (weight = {{ .Weight }})</h2>
   {{ end }}
 {{ end }}

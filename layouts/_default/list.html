@@ -1,7 +1,7 @@
 {{ define "main" }}
-  <h1>{{ .File.Path }} (weight = {{ .Weight }})</h1>
+  <h1>{{ .Title }} (weight = {{ .Weight }})</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .File.Path }} (weight = {{ .Weight }})</a></h2>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }} (weight = {{ .Weight }})</a></h2>
   {{ end }}
 {{ end }}

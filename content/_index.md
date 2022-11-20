@@ -9,6 +9,7 @@ weight = 2000
 
 Some decent examples:
 
+- <http://localhost:1313/products/file-010/>
 - <http://localhost:1313/products/product-2/file-255/>
 - <http://localhost:1313/products/product-2/benefits/file-049/>
 - <http://localhost:1313/products/product-2/benefits/benefit-1/file-091/>
@@ -383,7 +384,6 @@ content/
 │   ├── file-246.md
 │   └── _index.md
 └── _index.md
-
 ```
 </details>
 

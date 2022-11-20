@@ -25,6 +25,9 @@
   </style>
 </head>
 <body>
+{{ if not .IsHome }}
+  <a href="{{ site.Home.RelPermalink }}">Home</a>
+{{ end }}
 {{ block "main" . }}
 
 {{ end }}
