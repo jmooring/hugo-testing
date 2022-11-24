@@ -10,7 +10,21 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{/* Build page collection. */}}
+  {{ $p := slice }}
+  {{ range where site.Pages "Type" "posts" }}
+    {{ if or
+      (and .IsPage (not (eq .Layout "multipage" )))
+      (and .IsSection (eq .Layout "multipage" ))
+    }}
+      {{ $p = $p | append . }}
+    {{ end }}
   {{ end }}
+
+  {{/* Display page collection. */}}
+  {{ range $p.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+
 {{ end }}

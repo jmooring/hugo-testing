@@ -5,3 +5,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/41592'
 description = "Splitting an article into multiple pages with a menu"
 +++
+
+Post 1 is multipage article.
+
+---
