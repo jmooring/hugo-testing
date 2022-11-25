@@ -1,3 +1,45 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #41617'
+disableKinds = ["home", "section", "taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+#------------------------------------------------------------------------------
+# Languages
+#------------------------------------------------------------------------------
+
+[languages.en]
+languageName = 'English'
+weight = 1
+
+[languages.es]
+languageName = 'Spanish'
+weight = 2
+
+#------------------------------------------------------------------------------
+# Content mounts
+#------------------------------------------------------------------------------
+
+# EN content
+[[module.mounts]]
+source = 'content'
+target = 'content'
+lang = 'en'
+
+# ES content
+[[module.mounts]]
+source = 'content'
+target = 'content'
+lang = 'es'
+
+#------------------------------------------------------------------------------
+# Fill in the missing translations
+#------------------------------------------------------------------------------
+
+# This fills in the gaps in ES content with EN content
+[[module.mounts]]
+source = 'content'
+target = 'content'
+lang = 'es'
