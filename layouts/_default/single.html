@@ -1,4 +1,5 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ highlight (trim .RawContent "\n") "text"  }}
   {{ .Content }}
 {{ end }}
