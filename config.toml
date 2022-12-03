@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10493'
+disableKinds = ['RSS', 'sitemap', 'taxonomy', 'term']
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+
+[markup.goldmark.parser.image]
+removeSurroundingParagraph = true

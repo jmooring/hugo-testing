@@ -4,8 +4,40 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  <style>
+    body {
+      color: #222;
+      font-family: sans-serif;
+      font-size: 18px;
+      margin: 0 0 3rem 1rem;
+      max-width: 768px;
+      width: 90%;
+    }
+    .menu {
+      margin-top: 1rem;
+    }
+    .menu a {
+      margin-right: .3rem;
+    }
+    /* linenos=true */
+    .highlight > div {
+      padding: .2rem 1rem;
+      border-radius: 12px;
+    }
+    /* linenos=false */
+    .highlight > pre {
+      padding: 1rem;
+      border-radius: 12px;
+    }
+  </style>
 </head>
 <body>
+<div class="menu">
+  <a href="{{ site.Home.RelPermalink }}">Home</a>
+  {{ range site.RegularPages }}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  {{ end }}
+</div>
 {{ block "main" . }}
 
 {{ end }}
