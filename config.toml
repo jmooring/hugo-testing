@@ -7,5 +7,5 @@ disableKinds = ['RSS', 'sitemap', 'taxonomy', 'term']
 block = true
 title = true
 
-[markup.goldmark.parser.image]
-removeSurroundingParagraph = true
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
