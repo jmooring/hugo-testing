@@ -2,9 +2,19 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #41755'
 
+# Change the URLs
 [permalinks]
 electric-cars = '/cars/:title/'
 
+# Make it easy build page collections and use the same templates
+[[cascade]]
+type = 'cars'
+
+[cascade._target]
+kind = 'page'
+path = '/electric-cars/**'
+
+# Prevent building the electric-cars section page (to avoid orphaned list page)
 [[cascade]]
 
 [cascade._build]
