@@ -1,3 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #41755'
+
+[permalinks]
+electric-cars = '/cars/:title/'
+
+[[cascade]]
+
+[cascade._build]
+list = 'never'
+render = 'never'
+
+[cascade._target]
+kind = 'section'
+path = '/electric-cars'
