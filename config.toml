@@ -1,26 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #41755'
+disableKinds = ['RSS', 'sitemap', 'taxonomy', 'term']
 
-# Change the URLs
-[permalinks]
-electric-cars = '/cars/:title/'
+[[module.mounts]]
+source = 'content'
+target = 'content'
 
-# Make it easy build page collections and use the same templates
-[[cascade]]
-type = 'cars'
-
-[cascade._target]
-kind = 'page'
-path = '/electric-cars/**'
-
-# Prevent building the electric-cars section page (to avoid orphaned list page)
-[[cascade]]
-
-[cascade._build]
-list = 'never'
-render = 'never'
-
-[cascade._target]
-kind = 'section'
-path = '/electric-cars'
+[[module.mounts]]
+source = 'content/electric-cars'
+target = 'content/cars'
