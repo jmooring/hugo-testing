@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #41744'
+
+[[module.mounts]]
+source = 'Attachments'
+target = 'static/Attachments'

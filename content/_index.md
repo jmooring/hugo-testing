@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/41744'
 description = "Getting images to display in Hugo from Attachments sub directory"
 +++
+
+![alt](</Attachments/image with space in name.jpg> "the title")
