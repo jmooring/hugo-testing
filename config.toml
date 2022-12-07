@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #7735'
+disableKinds = ['RSS', 'sitemap', 'section', 'page', 'taxonomy', 'term']
+
+[build]
+writeStats = true

@@ -1,0 +1,25 @@
+body {
+  color: #222;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0 0 3rem 1rem;
+  max-width: 768px;
+  width: 90%;
+}
+
+.container {
+  background: #444;
+  color: #fff;
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+}
+
+/*
+If purgecss is working, this comment should be last thing in the file.
+More specifically, this file should not contain a class named "useless"
+*/
+
+.useless {
+  color: red; // this should be removed by purgecss
+}
