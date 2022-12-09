@@ -1,0 +1,110 @@
+{{- /*
+Renders a page collection with a dynamic filter based on taxonomy terms.
+
+Requires Alpine.js
+https://alpinejs.dev/essentials/installation
+
+@param {obj} pages The page collection to render.
+@param {string} taxonomy The taxonomy to use as filter.
+
+@returns {template.HTML}
+
+@example
+
+  {{ $pages := where site.RegularPages "Type" "posts" }}
+  {{ partial "filtered-list" (dict "pages" $pages "taxonomy" "categories") }}
+
+*/}}
+
+{{- /* Initialize. */}}
+{{- $msg := `When calling the %q partial you must pass a map containing elements named "pages" and "taxonomy"` }}
+{{- $pages := "" }}
+{{- $partialName := "filtered-list" }}
+{{- $taxonomy := "" }}
+{{- $taxonomyPlural := "" }}
+{{- $taxonomySingular := "" }}
+
+{{- /* Get params. */}}
+{{- if reflect.IsMap . }}
+  {{- with .pages }}
+    {{- $pages = . }}
+    {{- with $.taxonomy }}
+      {{- $taxonomy = . }}
+    {{- else }}
+      {{- errorf $msg $partialName }}
+    {{- end }}
+  {{- else }}
+    {{- errorf $msg $partialName }}
+  {{- end }}
+{{- else }}
+  {{- errorf $msg $partialName }}
+{{- end }}
+
+{{- /* Get singular form of taxonomy. */}}
+{{- with site.GetPage $taxonomy }}
+  {{- $taxonomyPlural = .Data.Plural }}
+  {{- $taxonomySingular = .Data.Singular }}
+{{- else }}
+  {{- errorf "The %q partial was unable to get the %q page" $partialName $taxonomy }}
+{{- end }}
+
+{{- /* Create sorted slice of unique terms. */}}
+{{- $terms := slice }}
+{{- range $pages }}
+  {{- with (index .Params $taxonomy) }}
+    {{- $terms = $terms | append . }}
+  {{- end }}
+{{- end }}
+{{- $terms = $terms | uniq | sort }}
+
+{{- /* Define outer Alpine component. */}}
+<div x-data="{ term: 'All' }">
+
+  {{- /* Render select element. */}}
+  {{- with $terms }}
+    <div class="control">
+      <div class="control-title">
+        {{- $taxonomySingular | title }}
+      </div>
+      <select class="control-select" x-model="term">
+        <option>All</option>
+        {{- range . }}
+          <option>{{- . }}</option>
+        {{- end }}
+      </select>
+    </div>
+  {{- end }}
+
+  {{- /* Define inner Alpine component. */}}
+  <div xdata="{ show: true }"></div>
+
+    {{- /* Render page list */}}
+    <div class="container-list">
+      {{- range $pages.ByTitle }}
+        {{- $xdata := "'{ terms: [] }'" }}
+        {{- with (index .Params $taxonomy) }}
+          {{- $xdata = printf "'{ terms: %s }'" (jsonify .) }}
+        {{- end }}
+        <div class="card" {{ printf "x-data=%s" $xdata | safeHTMLAttr }} x-show="show(term,terms)">
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          {{- with .GetTerms $taxonomy }}
+            {{/* Render terms within each card. */}}
+            <p>{{ $taxonomyPlural | title }}:
+              {{- range . }}
+                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+              {{- end }}
+            </p>
+          {{- end }}
+        </div>
+      {{- end }}
+    </div>
+
+  </div>
+
+<div>
+
+<script>
+  function show(term, terms) {
+    return (term == 'All' || terms.includes(term)) ? true : false;
+  }
+</script>

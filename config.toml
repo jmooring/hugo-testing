@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #41678'
+
+[taxonomies]
+author = 'authors'
+category = 'categories'
+tag = 'tags'

@@ -4,10 +4,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  <script defer src="https://unpkg.com/alpinejs@3.10.5/dist/cdn.min.js"></script>
 </head>
-<body>
-{{ block "main" . }}
-
+{{ with resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.integrity }}" crossorigin="anonymous">
 {{ end }}
+<body>
+  <main>
+    <div class="container">
+      {{ block "main" . }}
+
+      {{ end }}
+  </div>
+  </main>
 </body>
 </html>
