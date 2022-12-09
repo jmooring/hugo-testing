@@ -3,6 +3,7 @@ title = 'Book 1'
 date = 2022-12-08T19:47:31-08:00
 draft = false
 authors = ['Author A']
+categories = ['Category D']
 +++
 Organized expeditions, made up of from thirty to fifty men, with packs of dogs, pursued him day and night for a week or longer; but each time he escaped. Large rewards were offered for his capture. Old trappers and hunters came from afar, but after weeks of trial gave up the pursuit.
 

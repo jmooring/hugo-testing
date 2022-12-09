@@ -11,7 +11,7 @@ https://alpinejs.dev/essentials/installation
 
 @example
 
-  {{ $pages := where site.RegularPages "Type" "posts" }}
+  {{ $pages := (where site.RegularPages "Type" "posts").ByTitle }}
   {{ partial "filtered-list" (dict "pages" $pages "taxonomy" "categories") }}
 
 */}}
@@ -40,15 +40,15 @@ https://alpinejs.dev/essentials/installation
   {{- errorf $msg $partialName }}
 {{- end }}
 
-{{- /* Get singular form of taxonomy. */}}
+{{- /* Get singular and plural forms of taxonomy. */}}
 {{- with site.GetPage $taxonomy }}
   {{- $taxonomyPlural = .Data.Plural }}
   {{- $taxonomySingular = .Data.Singular }}
 {{- else }}
-  {{- errorf "The %q partial was unable to get the %q page" $partialName $taxonomy }}
+  {{- errorf "The %q partial was unable to get the %q taxonomy page" $partialName $taxonomy }}
 {{- end }}
 
-{{- /* Create sorted slice of unique terms. */}}
+{{- /* Create sorted slice of unique terms used in this page collection. */}}
 {{- $terms := slice }}
 {{- range $pages }}
   {{- with (index .Params $taxonomy) }}
@@ -62,33 +62,31 @@ https://alpinejs.dev/essentials/installation
 
   {{- /* Render select element. */}}
   {{- with $terms }}
-    <div class="control">
-      <div class="control-title">
-        {{- $taxonomySingular | title }}
-      </div>
-      <select class="control-select" x-model="term">
+    <p>
+      {{- $taxonomySingular | title }}
+      <select class="fl-select" x-model="term">
         <option>All</option>
         {{- range . }}
-          <option>{{- . }}</option>
+          <option>{{ . }}</option>
         {{- end }}
       </select>
-    </div>
+    </p>
   {{- end }}
 
   {{- /* Define inner Alpine component. */}}
-  <div xdata="{ show: true }"></div>
+  <div xdata="{ show: true }">
 
-    {{- /* Render page list */}}
-    <div class="container-list">
-      {{- range $pages.ByTitle }}
+    {{- /* Render items. */}}
+    <div class="fl-items">
+      {{- range $pages }}
         {{- $xdata := "'{ terms: [] }'" }}
         {{- with (index .Params $taxonomy) }}
           {{- $xdata = printf "'{ terms: %s }'" (jsonify .) }}
         {{- end }}
-        <div class="card" {{ printf "x-data=%s" $xdata | safeHTMLAttr }} x-show="show(term,terms)">
+        <div class="fl-item" {{ printf "x-data=%s" $xdata | safeHTMLAttr }} x-show="term == 'All' || terms.includes(term) ? true : false">
           <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
           {{- with .GetTerms $taxonomy }}
-            {{/* Render terms within each card. */}}
+            {{- /* Render terms within each item. */}}
             <p>{{ $taxonomyPlural | title }}:
               {{- range . }}
                 <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
@@ -98,13 +96,5 @@ https://alpinejs.dev/essentials/installation
         </div>
       {{- end }}
     </div>
-
   </div>
-
-<div>
-
-<script>
-  function show(term, terms) {
-    return (term == 'All' || terms.includes(term)) ? true : false;
-  }
-</script>
+</div>

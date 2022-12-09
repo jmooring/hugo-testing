@@ -9,31 +9,23 @@ body {
   margin: 2rem 1rem;
 }
 
-.control {
-  margin: 1rem 0;
-}
-
-.control-title {
-  display: inline;
-  margin-right: 0.25rem;
-}
-
-.control-select {
-  font-size: 1rem;
-}
-
 .container {
   max-width: 1024px;
   margin: 0 auto;
 }
 
-.container-list {
+.fl-select {
+  font-size: 1rem;
+}
+
+.fl-items {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
+  margin-bottom: 1rem;
 }
 
-.card {
+.fl-item {
   background: #efefef;
   border: 1px solid #ccc;
   padding: 1rem;
@@ -41,7 +33,7 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
-  .container-list {
+  .fl-items {
     grid-template-columns: 1fr;
   }
 }

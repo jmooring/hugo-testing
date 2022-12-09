@@ -11,7 +11,9 @@
   {{ end }}
   {{ .Content }}
 
-  {{ $pages := where site.RegularPages "Type" "posts" }}
+  <h2>Posts</h2>
+
+  {{ $pages := (where site.RegularPages "Type" "posts").ByTitle }}
   {{ partial "filtered-list" (dict "pages" $pages "taxonomy" "categories") }}
 
 {{ end }}

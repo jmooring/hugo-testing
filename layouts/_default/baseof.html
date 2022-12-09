@@ -4,18 +4,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
-  <script defer src="https://unpkg.com/alpinejs@3.10.5/dist/cdn.min.js"></script>
+
+  {{ with resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.integrity }}" crossorigin="anonymous">
+  {{ end }}
+
+  {{ with resources.Get "js/main.js" | js.Build | minify | fingerprint }}
+    <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.integrity }}" crossorigin="anonymous"></script>
+  {{ end }}
+
 </head>
-{{ with resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.integrity }}" crossorigin="anonymous">
-{{ end }}
 <body>
   <main>
     <div class="container">
       {{ block "main" . }}
 
       {{ end }}
-  </div>
+    </div>
   </main>
 </body>
 </html>
