@@ -11,8 +11,17 @@
 .fl-item {
   background: #efefef;
   border: 1px solid #ccc;
-  padding: 1rem;
+  padding: 0 1rem;
   border-radius: 0.2rem;
+}
+
+.fl-terms {
+  font-size: 0.8125rem;
+}
+
+.fl-summary {
+  font-size: 0.8125rem;
+  margin: 1rem 0;
 }
 
 @media only screen and (max-width: 768px) {

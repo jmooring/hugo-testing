@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #41678'
+summaryLength = 25
 
 [taxonomies]
 author = 'authors'

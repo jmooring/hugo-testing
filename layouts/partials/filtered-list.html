@@ -84,15 +84,17 @@ https://alpinejs.dev/essentials/installation
           {{- $xdata = printf "'{ terms: %s }'" (jsonify .) }}
         {{- end }}
         <div class="fl-item" {{ printf "x-data=%s" $xdata | safeHTMLAttr }} x-show="term == 'All' || terms.includes(term) ? true : false">
-          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
           {{- with .GetTerms $taxonomy }}
             {{- /* Render terms within each item. */}}
-            <p>{{ $taxonomyPlural | title }}:
-              {{- range . }}
+            <p class="fl-terms">{{ $taxonomyPlural | title }}:
+              {{- range $k, $_ := . }}
+                {{ if $k }},{{ end }}
                 <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
               {{- end }}
             </p>
           {{- end }}
+          <div class="fl-summary">{{ .Summary }}</div>
         </div>
       {{- end }}
     </div>
