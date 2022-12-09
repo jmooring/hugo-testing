@@ -1,0 +1,22 @@
+// Filtered list
+// ----------------------------------------------------------------------------
+
+.fl-items {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.fl-item {
+  background: #efefef;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 0.2rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .fl-items {
+    grid-template-columns: 1fr;
+  }
+}

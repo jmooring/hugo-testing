@@ -64,7 +64,7 @@ https://alpinejs.dev/essentials/installation
   {{- with $terms }}
     <p>
       {{- $taxonomySingular | title }}
-      <select class="fl-select" x-model="term">
+      <select x-model="term">
         <option>All</option>
         {{- range . }}
           <option>{{ . }}</option>
