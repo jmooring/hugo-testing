@@ -7,11 +7,11 @@
 
   {{ $opts := dict "includePaths" (slice "node_modules") }}
   {{ with resources.Get "sass/main.scss" | toCSS $opts | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.integrity }}" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
   {{ end }}
 
   {{ with resources.Get "js/main.js" | js.Build | minify | fingerprint }}
-    <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.integrity }}" crossorigin="anonymous"></script>
+    <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
   {{ end }}
 
 </head>
