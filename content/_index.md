@@ -5,3 +5,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/41808'
 description = "Custom Json file defaults to index.json"
 +++
+
+<http://localhost:1313/index.json>
+
+<http://localhost:1313/index_2.json>
+
+---
