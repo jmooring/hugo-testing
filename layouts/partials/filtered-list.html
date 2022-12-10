@@ -89,7 +89,7 @@ https://alpinejs.dev/essentials/installation
             {{- /* Render terms within each item. */}}
             <p class="fl-terms">{{ $taxonomyPlural | title }}:
               {{- range $k, $_ := . }}
-                {{ if $k }},{{ end }}
+                {{- if $k }},{{ end }}
                 <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
               {{- end }}
             </p>
