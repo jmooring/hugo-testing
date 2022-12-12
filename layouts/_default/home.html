@@ -10,7 +10,38 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
+
+
+<p>This is the date in the home page front matter:</p>
+
+  <pre>
+  {{ .Date.Format "2006-01-02T15:04:05-08:00" }}
+  </pre>
+
+<p>These are the unformatted <code>time.Time</code> values in the target time zones:</p>
+
+  <pre>
+  In America/New_York:
+  {{ partial "time-in-location.html" (dict "time" .Date "tz" "America/New_York") }}
+
+  In America/St_Johns:
+  {{ partial "time-in-location.html" (dict "time" .Date "tz" "America/St_Johns") }}
+
+  In Portugal:
+  {{ partial "time-in-location.html" (dict "time" .Date "tz" "Portugal") }}
+
+  In Europe/Kyiv:
+  {{ partial "time-in-location.html" (dict "time" .Date "tz" "Europe/Kyiv") }}
+
+  In Asia/Calcutta:
+  {{ partial "time-in-location.html" (dict "time" .Date "tz" "Asia/Calcutta") }}
+
+  In Japan:
+  {{ partial "time-in-location.html" (dict "time" .Date "tz" "Japan") }}
+
+  In Australia/Adelaide:
+  {{ partial "time-in-location.html" (dict "time" .Date "tz" "Australia/Adelaide") }}
+  </pre>
+
 {{ end }}

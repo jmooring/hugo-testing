@@ -1,0 +1,53 @@
+{{/*
+Returns the given time in the target time zone.
+
+Works with whole and fractional offsets (examples: -02:00, +05:30)
+
+@param {time.Time} time The time in the source time zone.
+@param {string} tz The target time zone.
+
+@returns {time.Time} The time in the target time zone.
+
+@example {{ partial "time-in-location.html" (dict "time" .Date "tz" "Asia/Calcutta") }}
+*/}}
+
+{{/* Initialize. */}}
+{{ $time := 0 }}
+{{ $targetTZ := "" }}
+{{ $msg := "The time-in-location partial requires a dictionary with date and tz keys." }}
+
+{{/* Get params. */}}
+{{ if reflect.IsMap . }}
+  {{ with .time }}
+    {{ $time = . | time.AsTime }}
+    {{ with $.tz }}
+      {{ $targetTZ = . }}
+    {{ else }}
+      {{ errorf $msg }}
+    {{ end }}
+  {{ else }}
+    {{ errorf $msg }}
+  {{ end }}
+{{ else  }}
+  {{ errorf $msg }}
+{{ end }}
+
+{{/* Get offset from UTC, in fractional hours, in target time zone. */}}
+{{ $temp := time.AsTime ($time.UTC.Format "2006-01-02T15:04:05") $targetTZ }}
+{{ $temp = substr ($temp.Format "2006-01-02T15:04:05-07:00") -6 }}
+{{ $offsetSign := substr $temp 0 1 }}
+{{ $offsetHours := substr $temp 1 2 | strings.TrimPrefix "0" | float }}
+{{ $offsetMinutes := substr $temp 4 2 | strings.TrimPrefix "0" | float }}
+{{ $offsetHoursFractional := 0 }}
+{{ if eq $offsetSign "+" }}
+  {{ $offsetHoursFractional = add $offsetHours (div $offsetMinutes 60) | float }}
+{{ else }}
+  {{ $offsetHoursFractional = sub 0 (add $offsetHours (div $offsetMinutes 60)) | float }}
+{{ end }}
+
+{{/* Determine time in target time zone. */}}
+{{ $temp = $time.UTC.Add (time.ParseDuration (printf "%fh" $offsetHoursFractional)) }}
+{{ $targetTime := time.AsTime ($temp.Format "2006-01-02T15:04:05") $targetTZ }}
+
+{{/* Return value */}}
+{{ return $targetTime }}

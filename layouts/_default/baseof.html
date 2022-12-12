@@ -4,6 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
+  <style>
+    body {
+      color: #222;
+      font-family: sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+      margin: 0 0 3rem 1rem;
+      width: 90%;
+      max-width: 768px;
+    }
+  </style>
 </head>
 <body>
 {{ block "main" . }}
