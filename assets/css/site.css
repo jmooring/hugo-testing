@@ -1,0 +1,23 @@
+@import "lib/reset";
+
+@import "vars/color-palette";
+@import "vars/layout";
+@import "vars/typography";
+
+body {
+  color: var(--text-color);
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  margin: var(--body-margin);
+  max-width: var(--body-max-width);
+  width: var(--body-width);
+}
+
+a {
+  color: var(--anchor-color);
+}
+
+::placeholder {
+  color: gray;
+}

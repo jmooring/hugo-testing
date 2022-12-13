@@ -5,6 +5,12 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
 </head>
+
+{{ $css := resources.Get "css/site.css" }}
+{{ $styles := $css | toCSS | postCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
+
+
 <body>
 {{ block "main" . }}
 

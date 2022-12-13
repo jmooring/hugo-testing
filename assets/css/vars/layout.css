@@ -1,0 +1,5 @@
+body {
+  --body-max-width: 768px;
+  --body-width: 90%;
+  --body-margin: 0 0 3rem 1rem;
+}
