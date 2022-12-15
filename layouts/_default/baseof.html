@@ -6,6 +6,14 @@
   <title>{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ site.Title }}</title>
 </head>
 <body>
+  {{ with site.Menus.main }}
+    <p>Menu:
+     {{ range . }}
+       <a href="{{ .URL }}">{{ .Name }}</a>
+     {{ end }}
+    </p>
+  {{ end }}
+
 {{ block "main" . }}
 
 {{ end }}

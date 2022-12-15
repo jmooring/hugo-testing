@@ -1,0 +1,21 @@
+<section>
+  <div class="latest-posts-section">
+    <div class="loop-wrap">
+      {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+      {{ if $paginator }}
+      {{- range $paginator.Pages -}}
+      {{ partial "post-card.html" . }}
+      {{ end }}
+    </div>
+    <div class="break"></div>
+    {{ if gt (len (where site.RegularPages "Type" "in" site.Params.mainSections )) 6 }}
+    <div class="pagination">
+      {{ with $paginator }}
+      <a href="/posts/page/2/" aria-label="Load more" style="display: none;"></a>
+      <button class="button-primary">Load more</button>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
+</section>
