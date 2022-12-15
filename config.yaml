@@ -1,0 +1,8 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: '@@TITLE@@'
+
+taxonomies:
+  tag: tags
+permalinks:
+  tags: /subject/:slug

@@ -5,3 +5,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/41919'
 description = "A Tag page not found"
 +++
+
+Tags: [subject](/subject)
+
+Tag A: [subject/tag-a](/subject/tag-a)
+
+---
