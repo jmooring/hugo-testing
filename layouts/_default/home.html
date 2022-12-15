@@ -10,7 +10,28 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
+<pre>
+Apple:
+{{ if lang.HasTranslation "apple" }}
+  {{ lang.Translate "apple" }}
+{{ else }}
+  {{ "apple (default)" }}
+{{ end }}
+
+Banana:
+{{ if lang.HasTranslation "banana" }}
+  {{ lang.Translate "banana" }}
+{{ else }}
+  {{ "banana (default)" }}
+{{ end }}
+
+Cherry:
+{{ if lang.HasTranslation "cherry" }}
+  {{ lang.Translate "cherry" }}
+{{ else }}
+  {{ "cherry (default)" }}
+{{ end }}
+</pre>
+
 {{ end }}
