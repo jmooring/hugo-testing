@@ -10,7 +10,12 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  {{ $p1 := site.RegularPages }}
+  {{ $p2 := (site.GetPage "books/non-fiction").Pages }}
+  {{ $p := $p1 | complement $p2 }}
+  {{ range $p.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
 {{ end }}
