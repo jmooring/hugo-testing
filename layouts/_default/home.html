@@ -13,4 +13,18 @@
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
+  <p>With <code>baseURL = {{ site.BaseURL }}</code> this code:</p>
+
+  <pre>
+    &lt;script src="&lbrace;{ "js/a.js" | relURL }}">&lt;/script>
+  </pre>
+
+  <p>Generates this HTML:</p>
+
+  <pre>
+    &lt;script src="{{ "js/a.js" | relURL }}">&lt;/script>
+  </pre>
+
+
 {{ end }}

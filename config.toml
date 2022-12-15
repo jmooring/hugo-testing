@@ -1,3 +1,3 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://example.org/subdir/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10497'
