@@ -1,3 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Hugo Forum Topic #41939'
+title = 'Hugo Test'
+theme = 'test'
+[language]
+  [languages.en]
+    languageCode                             = 'en-US'
+    languageName                             = 'English'
+    weight                                   = 1
+  [languages.fr]
+    languageCode                             = 'fr'
+    languageName                             = 'French'
+    weight                                   = 2
