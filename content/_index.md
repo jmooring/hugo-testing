@@ -5,3 +5,19 @@ draft = false
 details = 'https://discourse.gohugo.io/t/41999'
 description = "How to suppress paragraphs in list items?"
 +++
+
+{{% columns %}}
+
+- Christianity
+- Islam[^1]
+- Hinduism
+
+<--->
+
+- Buddhism (Vajrayāna, Mahāyāna, & Zen)
+- Daoism (Taoism)
+- Judaism
+
+{{% /columns %}}
+
+[^1]: A footnote.
