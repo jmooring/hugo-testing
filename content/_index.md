@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #10558'
+date = 2022-12-19T14:49:08-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/10558'
+description = "tocss/dartsass: Add vars option"
 +++
