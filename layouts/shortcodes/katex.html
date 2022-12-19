@@ -1,1 +1,8 @@
-{{ .Inner }}
+{{- $inner := trim .Inner "\r\n" }}
+{{- if hasPrefix $inner "$$" }}
+  <div class="equation">
+    {{- $inner }}
+  </div>
+{{- else }}
+  {{- $inner }}
+{{- end }}
