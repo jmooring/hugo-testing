@@ -13,4 +13,33 @@
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
+  <hr>
+
+  <p>The categories page on the DE site should not exist, but it does.</p>
+
+  <p>Template:</p>
+
+  <pre>
+    &lbrace;{- $siteDE := index (where .Sites "LanguagePrefix" "/de") 0 }}
+    &lbrace;{- with $siteDE.GetPage "/categories" }}
+      Title: &lbrace;{ .Title }}
+      Pages: &lbrace;{ .Pages }}
+      Permalink: &lbrace;{ .Permalink }}
+      RelPermalink: &lbrace;{ .RelPermalink }}
+    &lbrace;{- end }}
+  </pre>
+
+  <p>Result:</p>
+
+  <pre>
+    {{- $siteDE := index (where .Sites "LanguagePrefix" "/de") 0 }}
+    {{- with $siteDE.GetPage "/categories" }}
+      Title: {{ .Title }}
+      Pages: {{ .Pages }}
+      Permalink: {{ .Permalink }}
+      RelPermalink: {{ .RelPermalink }}
+    {{- end }}
+  </pre>
+
 {{ end }}

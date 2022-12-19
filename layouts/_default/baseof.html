@@ -3,9 +3,27 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
-  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ printf "%s | %s" .Site.Title .Title }}{{ end }}</title>
 </head>
 <body>
+
+{{ with .AllTranslations }}
+  <p>Translations:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+  </p>
+{{ end }}
+
+{{ with .Site.Menus.main }}
+  <p>Menu:
+    {{ range . }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+  </p>
+{{ end }}
+
+<hr>
 {{ block "main" . }}
 
 {{ end }}
