@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #9073'
+date = 2022-12-19T09:48:12-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/9073'
+description = "Multilang sitemap includes empty rel=alternate link if disableKinds=taxonomy is used by one language"
 +++
