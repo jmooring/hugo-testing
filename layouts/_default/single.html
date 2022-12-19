@@ -1,4 +1,26 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{/* Image processing options for target image. */}}
+  {{ $t := dict "width" 1200 "height" 629 "anchor" "smart" "format" "webp" }}
+
+  {{/* Render. */}}
+  {{ with .Resources.Get "og.jpg" }}
+    {{ if lt (div .Width .Height) 1 }}
+      {{/* Portrait image. */}}
+      {{ $rCanvas := (resources.Get "images/white-pixel.png").Fill (printf "%dx%d %s" $t.width $t.height $t.format) }}
+      {{ $rOverlay := .Resize (printf "x%d" $t.height) }}
+      {{ $xOffset := div (sub $rCanvas.Width $rOverlay.Width) 2 }}
+      {{ with $rCanvas | images.Filter (images.Overlay $rOverlay $xOffset 0) }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ else }}
+      {{/* Landscape image. */}}
+      {{ with .Fill (printf "%dx%d %s %s" $t.width $t.height $t.anchor $t.format) }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}
