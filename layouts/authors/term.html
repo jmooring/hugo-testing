@@ -1,0 +1,32 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <h2>Biography</h2>
+
+  <p>
+    {{ with .Params.first_name }}
+      First name: {{ . }}<br>
+    {{ end }}
+    {{ with .Params.last_name }}
+      Last name: {{ . }}<br>
+    {{ end }}
+    {{ with .Params.nickname }}
+      Nickname: {{ . }}
+    {{ end }}
+  </p>
+
+  {{ with .Resources.GetMatch "avatar.*" }}
+    {{ with .Crop "100x150 webp" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  {{ .Content }}
+
+  <h2>Related content</h2>
+
+  {{ range .Pages.ByTitle }}
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ end }}
+
+{{ end }}

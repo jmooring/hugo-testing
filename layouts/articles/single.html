@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+{{ $taxonomy := "authors" }}
+{{ with .GetTerms $taxonomy }}
+  <p>
+    {{ $pTaxonomy := site.GetPage $taxonomy }}
+    {{ if eq 1 (len .) }}
+      {{ $pTaxonomy.Data.Singular | title }}:
+    {{ else }}
+      {{ $pTaxonomy.Data.Plural | title }}:
+    {{ end }}
+
+    {{- range $k, $_ := . }}
+      {{- if $k }}, {{ end }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{- end }}
+  </p>
+{{ end }}
+
+
+
+
+
+
+  {{ .Content }}
+{{ end }}
