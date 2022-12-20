@@ -1,6 +1,6 @@
 {{- $inner := trim .Inner "\r\n" }}
 {{- if hasPrefix $inner "$$" }}
-  <div class="equation">
+  <div class="equation leqno" >
     {{- $inner }}
   </div>
 {{- else }}
