@@ -1,0 +1,17 @@
+{{ $opts := dict
+  "targetPath" "css/style.css"
+  "transpiler" "dartsass"
+  "vars" (partialCached "get-scss-vars.html" .)
+}}
+
+{{ with resources.Get "scss/main.scss" }}
+  {{ if hugo.IsProduction }}
+    {{ with . | toCSS $opts | postCSS | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ else }}
+    {{ with . | toCSS $opts }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{ end }}
+  {{ end }}
+{{ end }}

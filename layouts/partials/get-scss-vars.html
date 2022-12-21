@@ -1,0 +1,21 @@
+{{ $body_bg_img_url := "" }}
+{{ with site.Params.style.body_bg_img_url }}
+  {{ with resources.Get . }}
+    {{ with .Fill "1920x1280 webp" }}
+      {{ $body_bg_img_url = .RelPermalink }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $vars := dict
+  "body_bg_img_url"     (or $body_bg_img_url (site.Params.style.body_bg_img_url | relURL))
+  "body_color"          (or site.Params.style.body_color "#ff0000")
+  "border_radius"       (or site.Params.style.border_radius "3rem")
+  "container_max_width" (or site.Params.style.container_max_width "768px")
+  "font_family_base"    (or site.Params.style.font_family_base "serif")
+  "font_size_base"      (or site.Params.style.font_size_base "24px")
+  "font_size_codeblock" (or site.Params.style.font_size_codeblock "18px")
+  "line_height_base"    (or site.Params.style.line_height_base "2")
+}}
+
+{{ return $vars }}

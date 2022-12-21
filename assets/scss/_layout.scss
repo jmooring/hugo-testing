@@ -1,0 +1,20 @@
+// Layout
+// ----------------------------------------------------------------------------
+
+@use "hugo:vars" as h;
+
+body {
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.7),
+      rgba(2550, 255, 255, 0.7)
+    ),
+    url(h.$body-bg-img-url) no-repeat center/cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  max-width: h.$container-max-width;
+  margin: 0 auto;
+  padding-bottom: 3rem;
+}

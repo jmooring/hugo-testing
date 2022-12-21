@@ -1,0 +1,11 @@
+// Sytnax highlighting
+// ----------------------------------------------------------------------------
+
+@use "hugo:vars" as h;
+
+.highlight > pre {
+  padding: 1rem;
+  border-radius: h.$border-radius;
+  overflow-x: auto;
+  font-size: h.$font-size-codeblock;
+}

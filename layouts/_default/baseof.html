@@ -4,10 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ partialCached "css.html" . }}
+
 </head>
 <body>
-{{ block "main" . }}
+  <main class="container">
+    {{ block "main" . }}
 
-{{ end }}
+    {{ end }}
+  </main>
 </body>
 </html>

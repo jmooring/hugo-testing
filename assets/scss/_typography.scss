@@ -1,0 +1,11 @@
+// Typography
+// ----------------------------------------------------------------------------
+
+@use "hugo:vars" as h;
+
+body {
+  color: h.$body-color;
+  font-size: h.$font-size-base;
+  line-height: h.$line-height-base;
+  font-family: h.$font-family-base;
+}

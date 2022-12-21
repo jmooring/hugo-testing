@@ -11,5 +11,6 @@ Clone this branch of the repository and build the site.
 ```bash
 git clone --single-branch -b hugo-github-issue-10558 https://github.com/jmooring/hugo-testing hugo-github-issue-10558
 cd hugo-github-issue-10558
+npm ci
 hugo server
 ```

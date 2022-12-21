@@ -1,3 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10558'
+
+[markup.highlight]
+style = 'friendly'
+
+[params.style]
+body_bg_img_url = '/images/body-bg.jpg'
+body_color = '#1b3763'
+border_radius = '.3rem'
+container_max_width = '1024px'
+font_family_base = 'sans-serif'
+font_size_base = '16px'
+font_size_codeblock = '14px'
+line_height_base = '1.6'
