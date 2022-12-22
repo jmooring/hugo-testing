@@ -1,0 +1,5 @@
+<pre>
+  {{ range $k, $v := .Params }}
+    {{ printf "Key: %v => Value: %[2]v (%[2]T)" $k $v }}
+  {{ end }}
+</pre>
