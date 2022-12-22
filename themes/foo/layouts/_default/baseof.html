@@ -6,6 +6,15 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
 </head>
 <body>
+
+  {{ with site.Menus.main }}
+    <p>Page kinds:
+     {{ range . }}
+       <a href="{{ .URL }}">{{ .Name }}</a>
+     {{ end }}
+    </p>
+  {{ end }}
+
 {{ block "main" . }}
 
 {{ end }}

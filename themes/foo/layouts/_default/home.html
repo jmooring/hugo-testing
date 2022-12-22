@@ -1,5 +1,9 @@
 {{ define "main" }}
+  [themes/foo/layouts/_default/home.html]
   <h1>{{ .Title }}</h1>
+
+  <span style="color: red">CHANGEME</span>
+
   {{ with .Params.details }}
     <p>Details: <a href="{{ . }}">{{ . }}</a></p>
   {{ end }}
@@ -10,7 +14,4 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
 {{ end }}

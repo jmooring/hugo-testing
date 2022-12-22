@@ -1,5 +1,9 @@
 {{ define "main" }}
+  [themes/foo/layouts/_default/term.html]
   <h1>{{ .Title }}</h1>
+
+  <span style="color: red">CHANGEME</span>
+
   {{ .Content }}
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>

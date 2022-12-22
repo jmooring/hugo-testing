@@ -1,3 +1,30 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://example.org/foo/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10571'
+canonifyURLs = true
+theme = 'foo'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = '10'
+
+[[menu.main]]
+name = 'List'
+pageRef = '/posts'
+weight = '20'
+
+[[menu.main]]
+name = 'Page'
+pageRef = '/posts/post-1'
+weight = '30'
+
+[[menu.main]]
+name = 'Taxonomy'
+pageRef = '/tags'
+weight = '40'
+
+[[menu.main]]
+name = 'Term'
+pageRef = '/tags/tag-a'
+weight = '50'
