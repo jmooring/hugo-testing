@@ -10,7 +10,7 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ range (where .Site.RegularPages "Params.subject" "like" `(?i)ea`).ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }} - {{ .Params.subject }}</a></h2>
   {{ end }}
 {{ end }}
