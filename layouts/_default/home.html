@@ -9,8 +9,11 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  <h3>Markup</h3>
+  <pre>{{ .RawContent }}</pre>
+
+  <h3>Rendered</h3>
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
 {{ end }}
