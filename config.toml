@@ -1,3 +1,22 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #42100'
+
+[taxonomies]
+'books/authors' = 'books/authors'
+'films/actors' = 'films/actors'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = '10'
+
+[[menu.main]]
+name = 'Books'
+pageRef = '/books'
+weight = '20'
+
+[[menu.main]]
+name = 'Films'
+pageRef = '/films'
+weight = '30'
