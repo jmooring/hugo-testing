@@ -1,3 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #36815'
+disableKinds = ['RSS', 'sitemap']
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+show_all = false # If false, sites without generator tag will not be shown.

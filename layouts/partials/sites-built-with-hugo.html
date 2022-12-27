@@ -1,0 +1,105 @@
+{{- $hugoSites := slice }}
+
+{{- $regexGenerator := `(?s)<meta\s+name="?generator"?\s+content="Hugo\s.+?"\s*/?>` }}
+{{- $regexMetaDesc := `(?s)<meta\s+name="?description"?\s+content=".*?"\s*/?>` }}
+{{- $regexOGDesc := `(?s)<meta\s+property="?og:description"?\s+content=".*?"\s*/?>` }}
+{{- $regexTitle := `(?s)<title>.*?</title>` }}
+
+{{- range $p := . }}
+
+  {{- $description := "" }}
+  {{- $host := .Title }}
+  {{- $title := "" }}
+  {{- $version := "" }}
+  {{- $url := printf "https://%s" (path.Join .Title .Params.path) }}
+
+  {{- with resources.GetRemote $url }}
+    {{- with .Err }}
+      {{- errorf "%s" . }}
+    {{- else }}
+
+      {{- /* Get version. */}}
+      {{- with findRE $regexGenerator .Content }}
+        {{- with index . 0 }}
+          {{- $version = replaceRE `.*"Hugo\s+(.*)".*` "$1" . }}
+        {{- end }}
+      {{- else }}
+        {{ if not site.Params.show_all }}
+          {{- /* Hugo may have not built this site. */}}
+          {{- continue }}
+        {{ end }}
+      {{- end }}
+
+      {{- /* Get description from OpenGraph data. */}}
+      {{- with findRE $regexOGDesc .Content }}
+        {{- with index . 0 }}
+          {{- $description = replaceRE `(?s).*content="(.*)".*` "$1" . | safeHTML }}
+        {{- end }}
+      {{- else }}
+      {{- /* Get description from meta element. */}}
+        {{- with findRE $regexMetaDesc .Content }}
+          {{- with index . 0 }}
+            {{- $description = replaceRE `(?s).*content="(.*)".*` "$1" . | safeHTML }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+
+      {{- /* Get title. */}}
+      {{- with findRE $regexTitle .Content }}
+        {{- with index . 0 }}
+          {{- $title = replaceRE `(?s)<title>(.*)</title>` "$1" . | safeHTML }}
+        {{- end }}
+      {{- end }}
+
+      {{- /* Get tags */}}
+      {{- $tags := "" }}
+      {{- with $p.GetTerms "tags" }}
+        {{- range $k, $_ := . }}
+          {{- if $k }}
+            {{- $tags = print $tags ", " }}
+          {{- end }}
+          {{- $tags = print $tags (printf "<a href=%q>%s</a>" .RelPermalink .LinkTitle)}}
+        {{- end }}
+      {{- end }}
+
+      {{- /* Build map of sites. */}}
+      {{- $hugoSites = $hugoSites | append (dict
+        "host" $host
+        "url" $url
+        "title" (trim $title "\n")
+        "description" (trim $description "\n")
+        "tags" $tags
+        "version" $version
+        )
+      }}
+
+    {{- end }}
+  {{- else }}
+    {{- errorf "Unable to reach %s" . }}
+  {{- end }}
+{{- end }}
+
+{{- with $hugoSites }}
+  <table>
+    <thead>
+      <tr>
+        <th>Host</th>
+        <th>Version</th>
+        <th>Title</th>
+        <th>Tags</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range . }}
+        <tr>
+          <td><a href="{{ .url }}" target="_blank">{{ .host }}</a></td>
+          <td>{{- .version }}</td>
+          <td>{{- .title | safeHTML }}</td>
+          <td>{{- .tags | safeHTML }}</td>
+          <td>{{- .description | safeHTML }}</td>
+        </tr>
+      {{- end }}
+    </tbody>
+  </table>
+{{ end -}}

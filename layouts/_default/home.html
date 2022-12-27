@@ -10,7 +10,15 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
+  <h2>Notable</h2>
+
+  {{ $p := (where (where site.RegularPages "Type" "sites") "Params.tags" "intersect" (slice "Notable")).ByTitle }}
+  {{ partial "sites-built-with-hugo.html" $p }}
+
+  <h2>All</h2>
+
+  {{ $p := (where site.RegularPages "Type" "sites").ByTitle }}
+  {{ partial "sites-built-with-hugo.html" $p }}
+
 {{ end }}

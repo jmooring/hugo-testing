@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 1rem 3rem;
+}
+table {
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid #222;
+  // font-size: 14px;
+  padding: 0.1em 0.5em;
+}
+th {
+  background: #666;
+  color: #fff;
+  font-weight: normal;
+  text-align: left;
+}
+a {
+  color: #00f;
+  text-decoration: none;
+}
