@@ -1,7 +1,7 @@
 +++
-title = '@@TITLE@@'
-date = 2021-01-01T00:00:00-00:00
+title = 'Hugo GitHub Issue #10587'
+date = 2022-12-27T17:55:31-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/10587'
+description = "Sections that begin with "tags" are generated twice and empty"
 +++
