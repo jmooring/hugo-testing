@@ -2,12 +2,13 @@
 
 {{ $chunks := slice }}
 
-{{ range (findRE `(?s)<!-- begin-chunk.+?(?:<!-- end-chunk -->|$)` .Content) }}
+{{ range $k, $_ := (findRE `(?s)<!-- begin-chunk.+?(?:<!-- end-chunk -->|$)` .Content) }}
   {{ $anchor := replaceRE `(?s).+data-anchor="(.+?)".+` "$1" . }}
   {{ $heading := replaceRE `(?s).+data-heading="(.+?)".+` "$1" . }}
   {{ $level := replaceRE `(?s).+data-level="(.+?)".+` "$1" . }}
   {{ $permalink := replaceRE `(?s).+data-permalink="(.+?)".+` "$1" . }}
   {{ $title := replaceRE `(?s).+data-title="(.+?)".+` "$1" . }}
+  {{ $uniqueID := crypto.FNV32a (print $permalink $anchor $k) }}
 
   {{/* Result includes heading. */}}
   {{ $content := replaceRE `(?s)<!-- begin-chunk.+?-->(.+?)(?:<!-- end-chunk -->|$)` "$1" . }}
@@ -23,6 +24,7 @@
       "level" (int $level)
       "permalink" $permalink
       "title" $title
+      "uniqueID" (string $uniqueID)
     )
   }}
 {{ end }}

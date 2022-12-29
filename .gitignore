@@ -3,3 +3,4 @@ resources/*
 node_modules/*
 .vscode/*
 .hvm
+.hugo_build.lock
