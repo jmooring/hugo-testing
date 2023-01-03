@@ -1,0 +1,24 @@
+[[main]]
+name = 'Home'
+pageRef = '/'
+weight = '10'
+
+[[main]]
+name = 'Articles'
+pageRef = '/articles'
+weight = '20'
+
+[[main]]
+name = 'Books'
+pageRef = '/books'
+weight = '30'
+
+[[main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = '40'
+
+[[main]]
+name = 'Releases'
+pageRef = '/releases'
+weight = '50'

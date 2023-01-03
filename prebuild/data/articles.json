@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Article 1",
+    "date": "2023-01-01T11:07:10-08:00",
+    "content": "This is Article 1.",
+    "foo": "wibble",
+    "tags": [
+      "Tag A",
+      "Tag B"
+    ]
+  },
+  {
+    "title": "Article 2",
+    "date": "2023-01-01T2023-01-01T11:09:13-08:00",
+    "content": "This is Article 2.",
+    "foo": "wobble",
+    "tags": [
+      "Tag B",
+      "Tag C"
+    ]
+  }
+]

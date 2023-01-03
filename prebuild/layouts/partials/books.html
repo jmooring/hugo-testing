@@ -1,0 +1,34 @@
+{{- /* Initialize constants. */}}
+{{- $section := . }}
+
+{{/* Get data. */}}
+{{- $data := dict }}
+{{- $url := "https://www.mooring.com/tests/data/books.json" }}
+{{- with resources.GetRemote $url }}
+  {{- with .Err }}
+    {{- errorf "Unable to get remote resource %s: %s" $url . }}
+  {{- else }}
+    {{- $data = . | unmarshal }}
+  {{- end }}
+{{- else }}
+  {{- errorf "Unable to get remote resource %s" $url }}
+{{- end }}
+
+{{- /* Write content page. */}}
+{{- range $data }}
+  {{- $content := .content }}
+  {{- $title := .title }}
+  {{- $frontMatter := dict
+    "categories" .categories
+    "cover" .cover
+    "date" .date
+    "description" .description
+    "foo" .foo
+    "title" .title
+  }}
+  {{- $filename := printf "%s.md" (urlize $title) }}
+  {{- $targetPath := path.Join site.LanguagePrefix $section $filename }}
+  {{- $s := printf "%s\n\n%s\n" (jsonify (dict "indent" "  ") $frontMatter) $content }}
+  {{- $r := $s | resources.FromString $targetPath }}
+  {{- $r.Publish }}
+{{- end -}}

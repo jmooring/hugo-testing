@@ -1,0 +1,9 @@
+[en]
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+
+[de]
+languageCode = 'de-DE'
+languageName = 'Deutsch'
+weight = 2

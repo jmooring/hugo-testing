@@ -1,0 +1,7 @@
+{{ with .AllTranslations }}
+  <p>Translations:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+  </p>
+{{ end }}

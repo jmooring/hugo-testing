@@ -1,13 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{ or .Site.LanguageCode .Site.Language.Lang }}">
+<html lang="{{ or site.LanguageCode site.Language.Lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  {{- with .Description }}
+  <meta name="description" content="{{ . }}">
+  {{- end }}
+  {{- partialCached "css.html" . }}
 </head>
 <body>
+{{ partial "language-switcher.html" . }}
+{{ partial "menu.html" . }}
 {{ block "main" . }}
 
-{{ end }}
+{{- end }}
 </body>
 </html>

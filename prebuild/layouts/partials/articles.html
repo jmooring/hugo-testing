@@ -1,0 +1,23 @@
+{{- /* Initialize constants. */}}
+{{- $section := . }}
+
+{{- /* Get data. */}}
+{{- $data := site.Data.articles }}
+
+{{- /* Write content page. */}}
+{{- range $data }}
+  {{- $content := .content }}
+  {{- $title := .title }}
+  {{- $frontMatter := dict
+    "date" .date
+    "description" .description
+    "foo" .foo
+    "tags" .tags
+    "title" .title
+  }}
+  {{- $filename := printf "%s.md" (urlize $title) }}
+  {{- $targetPath := path.Join site.LanguagePrefix $section $filename }}
+  {{- $s := printf "%s\n\n%s\n" (jsonify (dict "indent" "  ") $frontMatter) $content }}
+  {{- $r := $s | resources.FromString $targetPath }}
+  {{- $r.Publish }}
+{{- end -}}

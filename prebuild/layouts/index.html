@@ -1,0 +1,15 @@
+{{- /* Initialize constants */}}
+{{- $sections := slice "articles" "books" "releases" }}
+
+{{- /* Call partials. */}}
+{{- range $sections }}
+  {{- $t := printf "partials/%s.html" .  }}
+  {{- $tLang := printf "partials/%s.%s.html" . site.Language.Lang }}
+  {{- if templates.Exists $tLang }}
+    {{- partial $tLang . }}
+  {{- else if templates.Exists $t }}
+    {{- partial $t . }}
+  {{- else }}
+    {{- errorf "Unable to find %s or %s" $t $tLang }}
+  {{- end }}
+{{- end }}

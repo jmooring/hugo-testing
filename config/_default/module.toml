@@ -1,0 +1,23 @@
+# Default mount.
+[[mounts]]
+source = 'content/en'
+target = 'content'
+lang = 'en'
+
+# Default mount.
+[[mounts]]
+source = 'content/de'
+target = 'content'
+lang = 'de'
+
+# Required to create pages from data.
+[[mounts]]
+source = 'prebuild/public/en'
+target = 'content'
+lang = 'en'
+
+# Required to create pages from data.
+[[mounts]]
+source = 'prebuild/public/de'
+target = 'content'
+lang = 'de'
