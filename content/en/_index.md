@@ -16,6 +16,7 @@ Section|Source of content
 :--|:--
 Articles|A local JSON file
 Books|Remote data
+People|Remote data (10,000 objects)
 Posts|Markdown files in the content directory
 Releases|Remote data from URLs in a local YAML file
 
