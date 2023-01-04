@@ -1,4 +1,4 @@
-{{- $opts := dict "targetPath" "css/style.css" }}
+{{- $opts := dict "targetPath" "css/style.css" "transpiler" "dartsass" }}
 {{- with resources.Get "sass/main.scss" | toCSS $opts }}
   <link rel="stylesheet" href="{{ .RelPermalink }}">
 {{- end -}}

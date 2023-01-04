@@ -6,7 +6,7 @@ details = 'https://discourse.gohugo.io/t/42165'
 description = "Building pages from data"
 +++
 
-This multilingual site build pages from data, based on an [article] by [Regis Philibert] of [The New Dynamic]. You can pull in different data for each language if necessary.
+This multilingual site builds pages from data, based on an [article] by [Regis Philibert] of [The New Dynamic]. You can pull in different data for each language if necessary.
 
 [article]: https://www.thenewdynamic.com/article/toward-using-a-headless-cms-with-hugo-part-2-building-from-remote-api/
 [Regis Philibert]: https://discourse.gohugo.io/u/regis/
