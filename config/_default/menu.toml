@@ -14,11 +14,16 @@ pageRef = '/books'
 weight = '30'
 
 [[main]]
+name = 'People'
+pageRef = '/people'
+weight = '40'
+
+[[main]]
 name = 'Posts'
 pageRef = '/posts'
-weight = '40'
+weight = '50'
 
 [[main]]
 name = 'Releases'
 pageRef = '/releases'
-weight = '50'
+weight = '60'

@@ -19,4 +19,12 @@ pre {
 
 a {
   color: #0000ff;
+  text-decoration: none;
+}
+
+.language-switcher,
+.menu {
+  a {
+    margin-left: 0.25rem;
+  }
 }
