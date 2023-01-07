@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $pages := (where site.RegularPages "Type" "posts").ByTitle }}
+  {{ with $pages }}
+    <div id="shownext-list">
+      {{ range . | first 1 }}
+        {{ partial "inner.html" (dict "page" . "pages" $pages) }}
+      {{ end }}
+    </div>
+    <button id="shownext-btn">Next post</button>
+  {{ end }}
+
+{{ end }}

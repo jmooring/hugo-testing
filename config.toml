@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #42288'
+
+[outputFormats.INNER]
+mediaType = "text/html"
+baseName = "inner"
+permalinkable = true
+
+[outputs]
+page = ['HTML', 'INNER']

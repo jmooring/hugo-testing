@@ -1,0 +1,14 @@
+{{- $page := .page }}
+{{- $pages := .pages }}
+
+{{- $nextRelPermalink := "" }}
+{{- with $pages.Prev $page }}
+  {{- with  .OutputFormats.Get "inner" -}}
+    {{- $nextRelPermalink = .RelPermalink }}
+  {{- end}}
+{{- end -}}
+
+<div data-shownext="{{ $nextRelPermalink }}">
+  <h2>{{ $page.Title }}</h2>
+  {{ $page.Content | chomp }}
+</div>

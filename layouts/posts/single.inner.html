@@ -1,0 +1,6 @@
+{{- /*
+The page collection must be identical to the page collection defined in the
+list template, including the sort order.
+*/}}
+{{- $pages := (where site.RegularPages "Type" "posts").ByTitle }}
+{{- partial "inner.html" (dict "page" . "pages" $pages) }}
