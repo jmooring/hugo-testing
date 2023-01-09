@@ -1,0 +1,150 @@
+{{- /*
+Renders a table of contents by parsing the rendered page content.
+
+Defaults:
+
+    Start level: 2  (h2 elements)
+    End level: 3    (h3 elements)
+
+To override the default start and end levels for the entire site, add this to
+the site configuration:
+
+    [params.toc]
+    startLevel = 2
+    endLevel = 6
+
+To enable the TOC for the current page, add this to the page's front matter:
+
+    toc = true
+
+To enable the TOC and override the start and end levels for the current page,
+add this to the page's front matter:
+
+    [toc]
+    startLevel = 2
+    endLevel = 4
+
+To call the TOC partial from a template:
+
+   {{ partial "toc.html" . }}
+
+You must also provide CSS to place each item on its own line, with the proper
+indentation for each level. For example:
+
+    nav.toc {
+      border-bottom: 1px solid #999;
+      padding-bottom: 1rem;
+    }
+
+    div.toc-title {
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+
+    a.toc-item {
+      display: block;
+      text-decoration: none;
+      color: #00f;
+    }
+
+    a.toc-level-1 {
+      margin-left: 0em;
+    }
+
+    a.toc-level-2 {
+      margin-left: 1em;
+    }
+
+    a.toc-level-3 {
+      margin-left: 2em;
+    }
+
+    a.toc-level-4 {
+      margin-left: 3em;
+    }
+
+    a.toc-level-5 {
+      margin-left: 4em;
+    }
+
+    a.toc-level-6 {
+      margin-left: 5em;
+    }
+
+Finally, to change the class of the outer nav element, or to change the TOC
+title, see the "Initialize constants" section below.
+*/}}
+
+{{- if .Params.toc }}
+
+  {{- /* Initialize constants. */}}
+  {{- $navClass := "toc" }}
+  {{- $navTitle := "On this page" }}
+
+  {{- /* Get configuration. */}}
+  {{- $cfg := dict "startLevel" 2 "endLevel" 3 }}
+  {{- with .Param "toc.startLevel" }}
+    {{- $cfg = merge $cfg (dict "startLevel" .) }}
+  {{- end }}
+  {{- with .Param "toc.endLevel" }}
+    {{- $cfg = merge $cfg (dict "endLevel" .) }}
+  {{- end }}
+
+  {{- /* Determine path to content for error and warning messages. */}}
+  {{- $path := "" }}
+  {{- with .File }}
+    {{- $path = .Path }}
+  {{- else }}
+    {{- $path = .Path }}
+  {{- end }}
+
+  {{- /* Get headings. */}}
+  {{- $headings := slice }}
+  {{- $ids := slice }}
+  {{- range findRE `(?is)<h\d.*?</h\d>` .Content }}
+    {{- $level := substr . 2 1 | int }}
+    {{- if and (ge $level $cfg.startLevel) (le $level $cfg.endLevel) }}
+      {{- $text := replaceRE `(?is)<h\d.*?>(.+?)</h\d>` "$1" . | plainify }}
+      {{- $text = trim $text " " | safeHTML }}
+      {{- $id := "" }}
+      {{- if findRE `id=` . }}
+        {{- $id = replaceRE `(?is).+?\s+id=(?:\x22|\x27)?(.*?)(?:\x22|\x27)?[\s>].+` "$1" . }}
+        {{- $ids = $ids | append $id }}
+      {{- else }}
+        {{- warnf "The %q heading does not have an id attribute, and will not appear in the table of contents. See %s" $text $path }}
+        {{- continue }}
+      {{- end }}
+      {{- $headings = $headings | append (dict "id" $id "level" $level "text" $text) }}
+    {{- end }}
+  {{- end }}
+
+  {{- /* Check for duplicate id attributes. */}}
+  {{- if ne ($ids | len) ($ids | uniq | len) }}
+    {{- errorf "The %q page contains duplicate heading id attributes" $path }}
+  {{- end }}
+
+  {{- /* Render */}}
+  {{- with $headings }}
+    <nav class="{{ $navClass }}">
+      <div class="toc-title">{{ $navTitle }}</div>
+      {{- range . }}
+        {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $cfg.startLevel))) }}
+        {{- with .id }}
+          {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
+        {{- end }}
+        <a
+        {{- range $k, $v := $attrs }}
+          {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+        {{- end -}}
+        >{{- .text }}</a>
+      {{- end }}
+    </nav>
+  {{- end }}
+
+  {{- /* Debug */}}
+  {{- if false }}
+    <pre>{{- jsonify (dict "indent" "  ") $cfg }}</pre>
+    <pre>{{- jsonify (dict "indent" "  ") $headings }}</pre>
+  {{- end }}
+
+{{- end }}

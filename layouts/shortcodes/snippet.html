@@ -1,0 +1,11 @@
+{{ $src := "" }}
+{{- if .IsNamedParams -}}
+  {{- $src = .Get "src" -}}
+{{- else -}}
+  {{- $src = .Get 0 -}}
+{{- end -}}
+{{- with .Site.GetPage $src -}}
+{{- .Content -}}
+{{- else -}}
+  {{- errorf "Can't find snippet reference %q in topic %s." (.Get 0) .Position -}}
+{{- end -}}
