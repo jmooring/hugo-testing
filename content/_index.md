@@ -5,3 +5,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/42316'
 description = "How to show symbols correctly"
 +++
+
+View source (`Ctrl + U`) on each page to see the JSON-LD bread crumbs.
+
+---

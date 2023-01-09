@@ -1,0 +1,28 @@
+{{- $items := slice }}
+
+{{- $p := .Ancestors.Reverse | append . }}
+{{- range $k, $_ := $p }}
+  {{- $title := .Title }}
+  {{- with .Params.subtitle }}
+    {{- $title = printf "%s - %s" $title . }}
+  {{- end }}
+  {{- $item := dict
+    "@type" "ListItem"
+    "position" (add $k 1)
+    "item" (dict
+      "@id" .Permalink
+      "name" $title
+    )
+  }}
+  {{- $items = $items | append $item }}
+{{- end }}
+
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" $items
+}}
+
+<script type="application/ld+json">
+  {{- jsonify (dict "indent" "  ") $data | safeJS }}
+</script>
