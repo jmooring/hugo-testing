@@ -1,0 +1,4 @@
+{{- $opts := dict "targetPath" "css/main.css" }}
+{{- with resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+{{- end -}}

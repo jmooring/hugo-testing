@@ -1,0 +1,4 @@
+{{- $opts := dict "targetPath" "js/main.js" "minify" true }}
+{{- with resources.Get "js/main.js" | js.Build $opts | fingerprint }}
+  <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+{{- end -}}
