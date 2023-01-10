@@ -6,7 +6,9 @@ details = 'https://discourse.gohugo.io/t/42304'
 description = "Height mismatch of highlighted line number in syntax highlighting"
 +++
 
-#### Line numbers in table
+## Line numbers in table
+
+### Without overflow
 
 ```bash {linenos=true, lineNumbersInTable=true, hl_lines="3-5"}
 declare a
@@ -17,7 +19,21 @@ fi
 exit 0
 ```
 
-#### Line numbers not in table
+### With overflow
+
+```bash {linenos=true, lineNumbersInTable=true, hl_lines="3-5"}
+declare a
+# A really long comment. A really long comment. A really long comment. A really long comment. A really long comment.
+a=foo
+if [[ "${a}" == "foo" ]]; then
+  echo "${foo}"
+fi
+exit 0
+```
+
+## Line numbers not in table
+
+### Without overflow
 
 ```bash {linenos=true, lineNumbersInTable=false, hl_lines="3-5"}
 declare a
@@ -27,3 +43,14 @@ if [[ "${a}" == "foo" ]]; then
 fi
 exit 
 ```
+
+### With overflow
+
+```bash {linenos=true, lineNumbersInTable=false, hl_lines="3-5"}
+declare a
+# A really long comment. A really long comment. A really long comment. A really long comment. A really long comment.
+a=foo
+if [[ "${a}" == "foo" ]]; then
+  echo "${foo}"
+fi
+exit 
