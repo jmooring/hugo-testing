@@ -1,16 +1,18 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ with .Params.details }}
-    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+
+  {{ with site.GetPage "/posts/" }}
+    <p><a href="{{ .RelPermalink }}">All posts</a></p>
   {{ end }}
-  {{ with .Params.description }}
-    <p>Description: {{ . }}</p>
+
+  {{ with (index (where site.RegularPages "Type" "posts").ByDate.Reverse 0) }}
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+
+    <p>Image specified in .Params.imageLogo</p>
+
+    {{ $src := (.Resources.Get .Params.imagelogo).RelPermalink }}
+    <img class="logo-icon" alt="logo" src="{{ $src }}">
+
   {{ end }}
-  {{ with or .Params.url .Params.details }}
-    <hr>
-  {{ end }}
-  {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
 {{ end }}

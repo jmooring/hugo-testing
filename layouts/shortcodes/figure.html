@@ -1,0 +1,9 @@
+<figure>
+  {{ with .Get "link" }}<a href="{{ . }}">{{ end }}
+      {{ $src := (.Page.Resources.Get (.Get "src")).RelPermalink }}
+      <img src="{{ $src }}" class="lightense" data-background="var(--page-background)" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" }}{{ end }}"{{ end }} />
+  {{ if .Get "link" }}</a>{{ end }}
+  {{ if .Get "caption" }}
+  <figcaption>{{ .Get "caption" }}</figcaption>
+  {{ end }}
+</figure>
