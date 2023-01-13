@@ -1,4 +1,27 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <h2>Data files in the assets directory</h2>
+
+  {{ with resources.Match "**data.*" }}
+    {{ range . }}
+      {{ .RelPermalink }}<br>
+    {{ end }}
+  {{ end }}
+
+  <h2>Images in the assets directory</h2>
+  {{ with resources.Match "**.jpg" }}
+    {{ range . }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  <h2>Images in the page bundle</h2>
+  {{ with .Resources.Match "**.jpg" }}
+    {{ range . }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
 {{ end }}
