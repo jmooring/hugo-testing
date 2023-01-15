@@ -1,4 +1,17 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "speakers" }}
+    <p>Speakers:
+      {{ range . }}
+        {{ $text := "" }}
+        {{ with .Params }}
+          {{ $text = printf "%s %s %s (%s)" .salutation .first_name .last_name .department }}
+        {{ end }}
+        <a href="{{ .RelPermalink }}">{{ $text }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
