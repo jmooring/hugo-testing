@@ -10,7 +10,19 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ $logs := where site.RegularPages "Type" "logs" }}
+  {{ range $index, $log := $logs }}
+    <div id="log-container">
+      <div class="log">
+        {{ with .Parent }}
+          <a href="{{ $log.RelPermalink }}">{{ $log.LinkTitle }}</a>
+          from
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          <br><br>
+        {{ end }}
+      </div>
+    </div>
   {{ end }}
+
 {{ end }}
