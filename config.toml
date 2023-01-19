@@ -1,3 +1,32 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #42516'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+
+[languages.de]
+contentDir = 'content/de'
+languageCode = 'de-DE'
+languageName = 'Deutsch'
+weight = 2
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menu.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
