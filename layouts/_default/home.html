@@ -10,7 +10,12 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range .Site.RegularPages }}
+
+  {{ $p := site.RegularPages.ByLastmod.Reverse }}
+  {{ range (.Paginate $p).Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    Lastmod: {{ .Lastmod.Format "Jan 2, 2006" }}<br>
+    Date: {{ .Date.Format "Jan 2, 2006" }}<br>
   {{ end }}
+
 {{ end }}
