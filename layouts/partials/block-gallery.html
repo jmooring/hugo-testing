@@ -1,0 +1,7 @@
+{{ range .Params.images }}
+  {{ $alt_txt := .image_alt }}
+  {{ with $.Resources.GetMatch .image_url}}
+    {{ $resized := .Resize "200x"}}
+    <img src="{{$resized.Permalink}}" alt="{{ $alt_txt }}" />
+  {{ end }}
+{{ end }}

@@ -1,4 +1,17 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+{{ range .Params.blocks }}
+  {{ if  eq .template "block-gameinfo" }}
+    Template Name : GameInfo
+  {{ else if eq .template "block-youtube" }}
+    {{ partial "block-youtube.html" . }}
+  {{ else if eq .template "block-gallery"}}
+    {{ partial "block-gallery.html" $.Page  }}
+  {{ else }}
+    No Special Template {{ .template }}
+  {{ end }}
+{{ end }}
+
 {{ end }}
