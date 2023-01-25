@@ -1,0 +1,57 @@
+{{- /*
+Renders an SVG image from LaTeX mathematical markup.
+
+This render hook passes the contents of the fenced code block to a remote
+service (math.vercel.app) which converts the LaTeX to SVG using MathJax.
+
+References:
+
+  - https://math.vercel.app/
+  - https://github.com/uetchy/math-api
+  - https://docs.mathjax.org/
+
+@param {string} color The foreground color specified as a CSS hex color or CSS named color.
+*/}}
+
+{{- /* Initialize. */}}
+{{- $apiEntryPoint := "https://math.vercel.app" }}
+{{- $color := .Get "color" | default "" }}
+{{- $latex := trim .Inner "\n\r" }}
+
+{{- /* Determine display mode. */}}
+{{- $displayMode := true }}
+{{- if or (strings.HasPrefix $latex `$$`) (strings.HasPrefix $latex `\[`) }}
+  {{- $displayMode = true }}
+{{- else if or (strings.HasPrefix $latex `$`) (strings.HasPrefix $latex `\(`) }}
+  {{- $displayMode = false }}
+{{- end }}
+
+{{- /* Strip display mode indicators. */}}
+{{- $latex = trim $latex `$` }}
+{{- $latex = $latex | strings.TrimPrefix `\[` }}
+{{- $latex = $latex | strings.TrimPrefix `\(` }}
+{{- $latex = $latex | strings.TrimSuffix `\]` }}
+{{- $latex = $latex | strings.TrimSuffix `\)` }}
+
+{{- /* Create query string. */}}
+{{- $mode := "inline" }}
+{{- if $displayMode }}
+  {{- $mode = "from" }}
+{{- end }}
+{{- $qs := querify $mode $latex "color" $color }}
+
+{{- /* Get SVG. */}}
+{{- $url := printf "%s?%s" $apiEntryPoint $qs }}
+{{- with resources.GetRemote $url }}
+  {{- with .Err  }}
+    {{- errorf "%s" . }}
+  {{- else }}
+    {{- if $displayMode }}
+      <div class="math math-block"><img src="{{ .RelPermalink }}" alt=""></div>
+    {{- else }}
+      <span class="math math-inline"><img src="{{ .RelPermalink }}" alt=""></span>
+    {{- end }}
+  {{- end }}
+{{- else  }}
+  {{- errorf "Unable to convert LaTex to SVG. See %s" $.Position }}
+{{- end }}
