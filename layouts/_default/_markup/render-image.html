@@ -1,0 +1,9 @@
+{{ with .Page.Resources.Get .Destination }}
+  {{ with .Resize "300x" }}
+    {{ with .Filter (images.UnsharpMask 10 1.5 0.05) }}
+      {{ with .Resize (printf "%dx%d q50" .Width .Height) }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
