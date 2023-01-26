@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ if .Params.search_ignore }}
+    <div id="content" data-pagefind-ignore>
+  {{ else }}
+    <div id="content">
+  {{ end }}
   {{ .Content }}
+  </div>
 {{ end }}
