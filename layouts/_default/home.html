@@ -13,4 +13,27 @@
   {{ range .Site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
+  <pre>
+
+  add "a" "b" --> {{ add "a" "b" }}
+
+  add 4 8 --> {{ add 4 8 }}
+  sub 8 4 --> {{ sub 8 4 }}
+  mul 4 8 --> {{ mul 4 8 }}
+  div 8 4 --> {{ div 8 4 }}
+  math.Min 4 8 --> {{ math.Min 4 8 }}
+  math.Max 4 8 --> {{ math.Max 4 8 }}
+
+  add "a" "b" "c" --> {{ add "a" "b" "c" }}
+
+  add 2 4 8 --> {{ add 2 4 8 }}
+  sub 8 4 2 --> {{ sub 8 4 2 }}
+  mul 2 4 8 --> {{ mul 2 4 8 }}
+  div 8 4 2 --> {{ div 8 4 2 }}
+  math.Min 2 4 8 --> {{ math.Min 2 4 8 }}
+  math.Max 2 4 8 --> {{ math.Max 2 4 8 }}
+
+  </pre>
+
 {{ end }}
