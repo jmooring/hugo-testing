@@ -14,31 +14,6 @@ languageCode = 'de-DE'
 languageName = 'Deutsch'
 weight = 2
 
-[[menu.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menu.main]]
-name = 'About'
-pageRef = '/about'
-weight = 20
-
-[[menu.main]]
-name = 'Contact'
-pageRef = '/contact'
-weight = 30
-
-[[menu.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 40
-
-[[menu.main]]
-name = 'Tags'
-pageRef = '/tags'
-weight = 50
-
 [[module.mounts]]
 source = 'content'
 target = 'content'
