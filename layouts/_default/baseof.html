@@ -4,8 +4,39 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 0 0 3rem 1rem;
+      max-width: 768px;
+      width: 90%;
+    }
+    .foo {
+      display: none;
+    }
+    body.kind-page > .foo {
+      display: inherit;
+    }
+  </style>
 </head>
-<body>
+
+{{ $classes := slice
+  (printf "kind-%s" .Kind)
+  (printf "type-%s" .Type)
+}}
+
+{{ $path := "" }}
+{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+{{ $id := print "h" (substr (sha256 $path) 0 7) }}
+
+<body class="{{ delimit $classes " " }}" id="{{ $id }}">
+
 {{ block "main" . }}
 
 {{ end }}
