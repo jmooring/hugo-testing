@@ -1,0 +1,119 @@
+{{- /*
+Internal destinations are resolved in this order:
+
+  1. Page resource
+  2. Global resource
+
+External destinations are also captured as resources to determine width and
+height attributes. The rendered URLs for these resources are relative to the
+generated site.
+
+Global resources must be placed within the assets directory. If these resources
+are located in the static directory, and you are unable or unwilling to move
+them, you must mount the static directory to the assets directory by including
+both of these entries in the site configuration:
+
+  [[module.mounts]]
+  source = 'assets'
+  target = 'assets'
+
+  [[module.mounts]]
+  source = 'static'
+  target = 'assets'
+
+By default, if the destination cannot be resolved, it will be passed through
+without modification. To emit a warning or error, set the error level in the
+site configuration:
+
+  [params.render_hooks.image]
+  errorLevel = 'error' # ignore (default), warning, or error
+
+The example above will throw an error and fail the build if the destination
+cannot be resolved.
+
+This render hook may be unable to resolve destinations created with the ref and
+relref shortcodes. Unless the error level is set to ignore, you should not use
+either of these shortcodes.
+*/}}
+
+{{- /* Action when unable to resolve destination: ignore, warning, or error. */}}
+{{- $errorLevel := or site.Params.render_hooks.image.errorLevel "ignore" | lower }}
+
+{{- /* Validate action. */}}
+{{- if not (in (slice "ignore" "warning" "error") $errorLevel) }}
+  {{- errorf "%q is an invalid action when unable to resolve destination" $errorLevel }}
+{{- end }}
+
+{{- /* Determine content path for warning and error messages. */}}
+{{- $contentPath := "" }}
+{{- with .Page.File }}
+  {{- $contentPath = .Path }}
+{{- else }}
+  {{- $contentPath = .Path }}
+{{- end }}
+
+{{- /* Parse destination. */}}
+{{- $u := urls.Parse .Destination }}
+
+{{- /* Set common message. */}}
+{{- $msg := printf "Unable to resolve image destination %q in %s" $u.String $contentPath }}
+
+{{- /* Get image resource. */}}
+{{- $r := "" }}
+{{- if $u.IsAbs }}
+  {{- with resources.GetRemote $u.String }}
+    {{- with .Err }}
+      {{- if eq $errorLevel "warning" }}
+        {{- warnf "%s. See %s" . $contentPath }}
+      {{- else if eq $errorLevel "error" }}
+        {{- errorf "%s. See %s" . $contentPath }}
+      {{- end }}
+    {{- else }}
+      {{- /* Destination is external. */}}
+      {{- $r = . }}
+    {{- end }}
+  {{- else }}
+    {{- if eq $errorLevel "warning" }}
+      {{- warnf $msg }}
+    {{- else if eq $errorLevel "error" }}
+      {{- errorf $msg }}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- with .Page.Resources.Get (strings.TrimPrefix "./" $u.Path) }}
+    {{- /* Destination is a page resource. */}}
+    {{- $r = . }}
+  {{- else }}
+    {{- with resources.Get $u.Path }}
+      {{- /* Destination is a global resource. */}}
+      {{- $r = . }}
+    {{- else }}
+      {{- if eq $errorLevel "warning" }}
+        {{- warnf $msg }}
+      {{- else if eq $errorLevel "error" }}
+        {{- errorf $msg }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Initialize attributes. */}}
+{{- $attrs := dict "alt" .PlainText "title" .Title "src" $u.String }}
+
+{{- /* Merge attributes from resource. */}}
+{{- with $r }}
+  {{- $attrs = merge $attrs (dict "src" .RelPermalink) }}
+  {{- if not (eq .MediaType.SubType "svg") }}
+    {{- $attrs = merge $attrs (dict "height" (string .Height) "width" (string .Width)) }}
+  {{- end }}
+{{- end }}
+
+{{- /* Render image element. */ -}}
+<img
+  {{- range $k, $v := $attrs }}
+    {{- if or $v (eq $k "alt") }}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+    {{- end }}
+  {{- end -}}
+>
+{{- /**/ -}}

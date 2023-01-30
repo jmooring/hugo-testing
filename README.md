@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/42688>
 
-Description: How to show images, placed in /assets in partials @@DESCRIPTION@@ is it possible to resize/convert them there?
+Description: How to show images, placed in /assets in partials and is it possible to resize/convert them there?
 
 ## Instructions
 

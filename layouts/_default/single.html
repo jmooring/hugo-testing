@@ -1,4 +1,16 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+
+  {{ with .Params.banner }}
+    <p>Resized banner image from layouts/_default/single.html:</p>
+    {{ with resources.Get . }}
+      {{ with .Fill "400x100 webp" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
   {{ .Content }}
+
 {{ end }}
