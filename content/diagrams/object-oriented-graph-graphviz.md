@@ -1,12 +1,12 @@
 +++
-title = 'Object Oriented Graph (GraphViz)'
+title = 'Object oriented graph (GraphViz)'
 date = 2022-02-02T05:46:57-08:00
 draft = false
 categories = ['Graph']
 types =  ['GraphViz']
 weight = 270
 +++
-{{< kroki type="graphviz" >}}
+```kroki {type=graphviz}
 digraph "unix" {
   graph [ fontname = "Helvetica-Oblique",
           fontsize = 36,
@@ -111,4 +111,4 @@ digraph "unix" {
   "System V.0" -> "System V.2";
   "System V.2" -> "System V.3";
 }
-{{< /kroki >}}
+```

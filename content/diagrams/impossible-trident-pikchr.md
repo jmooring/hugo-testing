@@ -1,12 +1,12 @@
 +++
-title = 'Impossible Trident (Pikchr)'
+title = 'Impossible trident (Pikchr)'
 date = 2022-02-02T06:43:36-08:00
 draft = false
 categories = ['Drawing']
 types =  ['Pikchr']
 weight = 250
 +++
-{{< kroki type="pikchr" >}}
+```kroki {type=pikchr}
 # Impossible trident pikchr script
 # https://en.wikipedia.org/wiki/Impossible_trident
 # pikchr script by Kees Nuyt, license Creative Commons BY-NC-SA
@@ -35,4 +35,4 @@ move right er down ed from last ellipse.n
 ellipse height eh width ew
 line width lwl right from last ellipse.n then to L1.end
 line width lwl right from last ellipse.s then up eh
-{{< /kroki >}}
+```

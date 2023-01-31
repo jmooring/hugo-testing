@@ -1,12 +1,12 @@
 +++
-title = 'Entity Relationship Diagram (Erd)'
+title = 'Entity relationship diagram (Erd)'
 date = 2022-02-02T04:02:40-08:00
 draft = false
 categories = ['Diagram']
 types =  ['Erd']
 weight = 90
 +++
-{{< kroki type="erd" >}}
+```kroki {type=erd}
 [Person]
 *name
 height
@@ -20,4 +20,4 @@ state
 country
 
 Person *--1 Location
-{{< /kroki >}}
+```

@@ -1,12 +1,12 @@
 +++
-title = 'Context Diagram (PlantUML)'
+title = 'Context diagram (PlantUML)'
 date = 2022-02-02T05:54:20-08:00
 draft = false
 categories = ['C4']
 types =  ['PlantUML']
 weight = 30
 +++
-{{< kroki type="plantuml" >}}
+```kroki {type=plantuml}
 @startuml
 !include C4_Context.puml
 
@@ -25,4 +25,4 @@ Rel_Back(customer, mail_system, "Sends e-mails to")
 Rel_Neighbor(banking_system, mail_system, "Sends e-mails", "SMTP")
 Rel(banking_system, mainframe, "Uses")
 @enduml
-{{< /kroki >}}
+```

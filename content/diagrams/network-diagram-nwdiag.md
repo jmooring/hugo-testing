@@ -1,12 +1,12 @@
 +++
-title = 'Network Diagram (NwDiag)'
+title = 'Network diagram (NwDiag)'
 date = 2022-02-02T03:50:47-08:00
 draft = false
 categories = ['Diagram']
 types =  ['NwDiag']
 weight = 120
 +++
-{{< kroki type="nwdiag" >}}
+```kroki {type=nwdiag}
 {
   network dmz {
     address = "210.x.x.x/24"
@@ -23,4 +23,4 @@ weight = 120
     db02;
   }
 }
-{{< /kroki >}}
+```

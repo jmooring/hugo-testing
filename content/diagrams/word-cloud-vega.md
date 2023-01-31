@@ -1,12 +1,12 @@
 +++
-title = 'Word Cloud (Vega)'
+title = 'Word cloud (Vega)'
 date = 2022-02-02T04:43:25-08:00
 draft = false
 categories = ['Visualization']
 types =  ['Vega']
 weight = 290
 +++
-{{< kroki type="vega" >}}
+```kroki {type=vega}
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "width": 800,
@@ -84,4 +84,4 @@ weight = 290
     }
   ]
 }
-{{< /kroki >}}
+```

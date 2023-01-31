@@ -6,7 +6,7 @@ categories = ['Diagram']
 types =  ['Bytefield']
 weight = 70
 +++
-{{< kroki type="bytefield" >}}
+```kroki {type=bytefield}
 (defattrs :bg-green {:fill "#a0ffa0"})
 (defattrs :bg-yellow {:fill "#ffffa0"})
 (defattrs :bg-pink {:fill "#ffb0a0"})
@@ -82,4 +82,4 @@ weight = 70
 (draw-box (text "length" [:math] [:sub 2]) {:span 4})
 (draw-gap "Unknown bytes" {:min-label-columns 6})
 (draw-bottom)
-{{< /kroki >}}
+```

@@ -1,12 +1,12 @@
 +++
-title = 'Syntax Diagram (Pikchr)'
+title = 'Syntax diagram (Pikchr)'
 date = 2022-02-02T05:42:43-08:00
 draft = false
 categories = ['Diagram']
 types =  ['Pikchr']
 weight = 180
 +++
-{{< kroki type="pikchr" >}}
+```kroki {type=pikchr}
 $r = 0.2in
 linerad = 0.75*$r
 linewid = 0.25
@@ -63,4 +63,4 @@ arrow
 box "print-args" italic fit
 line right until even with X9 - ($r,0) \
   then up until even with X9 then to X9
-{{< /kroki >}}
+```

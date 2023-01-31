@@ -1,12 +1,12 @@
 +++
-title = 'Mind Map (PlantUML)'
+title = 'Mind map (PlantUML)'
 date = 2022-02-02T05:00:13-08:00
 draft = false
 categories = ['Diagram']
 types =  ['PlantUML']
 weight = 110
 +++
-{{< kroki type="plantuml" >}}
+```kroki {type=plantuml}
 @startmindmap
 skinparam monochrome true
 + OS
@@ -25,4 +25,4 @@ skinparam monochrome true
 --- Windows 8
 --- Windows 10
 @endmindmap
-{{< /kroki >}}
+```

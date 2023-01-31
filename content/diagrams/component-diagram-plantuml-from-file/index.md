@@ -1,5 +1,5 @@
 +++
-title = 'Component Diagram (PlantUML) From File'
+title = 'Component diagram (PlantUML) from file'
 date = 2022-02-02T05:54:20-08:00
 draft = false
 categories = ['C4']

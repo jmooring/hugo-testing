@@ -1,12 +1,12 @@
 +++
-title = 'Work Breakdown Structure (PlantUML)'
+title = 'Work breakdown structure (PlantUML)'
 date = 2022-02-02T04:43:25-08:00
 draft = false
 categories = ['Diagram']
 types =  ['PlantUML']
 weight = 210
 +++
-{{< kroki type="plantuml" >}}
+```kroki {type=plantuml}
 @startwbs
 skinparam monochrome true
 * Business Process Modelling WBS
@@ -21,4 +21,4 @@ skinparam monochrome true
 *** Identify Quick Wins
 ** Complete innovate phase
 @endwbs
-{{< /kroki >}}
+```

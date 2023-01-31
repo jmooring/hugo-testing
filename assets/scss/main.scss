@@ -1,0 +1,58 @@
+// Main
+// ----------------------------------------------------------------------------
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 0 3rem 1rem;
+  max-width: 768px;
+  width: 90%;
+}
+
+a {
+  color: #00f;
+  text-decoration: none;
+}
+
+li {
+  margin-bottom: 0.2rem;
+}
+
+// Kroki diagrams
+
+.diagram-kroki {
+  width: 100%;
+  height: auto;
+}
+
+// Fenced code blocks
+
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lnt,
+.highlight .chroma .lntable .hl {
+  display: flex;
+}
+
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lntd + .lntd {
+  width: 100%;
+}
+
+/* line numbers inline, no line numbers */
+.highlight > pre {
+  padding: 14px;
+}
+
+/* line numbers in table */
+.highlight div {
+  padding: 0 14px;
+}
+
+.highlight div,
+.highlight > pre {
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  overflow-x: auto;
+}

@@ -1,12 +1,12 @@
 +++
-title = 'Rack Diagram (RackDiag)'
+title = 'Rack diagram (RackDiag)'
 date = 2022-02-02T03:57:50-08:00
 draft = false
 categories = ['Diagram']
 types =  ['RackDiag']
 weight = 140
 +++
-{{< kroki type="rackdiag" >}}
+```kroki {type=rackdiag}
 {
   16U;
   1: UPS [2U];
@@ -17,4 +17,4 @@ weight = 140
   7: Load Balancer;
   8: L3 Switch;
 }
-{{< /kroki >}}
+```
