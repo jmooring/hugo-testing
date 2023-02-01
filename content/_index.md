@@ -5,3 +5,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/42744'
 description = "Display emojis in a tagcloud shortcode"
 +++
+
+Output from tagcloud shortcode:
+
+{{< tagcloud >}}
+
+---
