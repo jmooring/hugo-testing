@@ -1,4 +1,13 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "countries" }}
+    <p>Countries:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ index site.Data.countries .Data.Term }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}

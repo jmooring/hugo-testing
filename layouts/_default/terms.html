@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/* Build slice of maps. */}}
+  {{ $p := slice }}
+  {{ range .Pages }}
+    {{ $countryName := index site.Data.countries .Data.Term }}
+    {{ if not $countryName }}
+      {{ errorf "Unable to find the country code %q in the countries data file." .Data.Term  }}
+    {{ end }}
+    {{ $p = $p | append (dict "countryName" $countryName "page" . ) }}
+  {{ end }}
+
+  {{/* Iterate through slice of maps, sorting by country name. */}}
+  {{ range sort $p "countryName" }}
+    <h2><a href="{{ .page.RelPermalink }}">{{ .countryName }}</a> ({{ .page.Data.Term }})</h2>
+  {{ end }}
+
+{{ end }}

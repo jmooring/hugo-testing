@@ -1,3 +1,21 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #42761'
+
+[taxonomies]
+country = 'countries'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Countries'
+pageRef = '/country'
+weight = 15
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20

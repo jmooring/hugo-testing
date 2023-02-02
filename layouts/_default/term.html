@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1>{{ index site.Data.countries .Data.Term }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+{{ end }}
