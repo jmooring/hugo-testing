@@ -1,4 +1,18 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ with site.RegularPages.Related . }}
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ with .GetTerms "tags" }}
+        &nbsp;&nbsp;tags =
+        {{ range $k, $_ := . }}
+          {{- if $k }}, {{ end }}
+          {{ .Title }}
+        {{- end }}
+      {{ end }}<br>
+    {{ end }}<br>
+  {{ end }}
+
 {{ end }}

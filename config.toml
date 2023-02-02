@@ -1,3 +1,19 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #42762'
+
+[taxonomies]
+tag = 'tags'
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
+
+[[related.indices]]
+name = 'tags'
+weight = 100
+
+[[related.indices]]
+name = 'date'
+weight = 0
