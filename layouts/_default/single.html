@@ -1,4 +1,12 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ if (or (eq .Slug "charta") (eq .Slug "terms") (eq .Slug "imprint") (eq .Slug "privacy")) }}
+  <div class="meta text-end">
+    Date: <span title="Veröffentlicht"><i class="fas fa-calendar-alt"></i> {{ .Date | time.Format ":date_long" }}</span><br>
+    Lastmod: <span title="Modifiziert"><i class="fas fa-history"></i> {{ .Lastmod | time.Format ":date_long" }}</span>
+  </div>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
