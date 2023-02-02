@@ -1,4 +1,21 @@
-{{ define "main" }}
+{{ define "main" }}[layouts/_default/single.html]
   <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "hobbies" }}
+    <p>Hobbies:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
+  {{ with .GetTerms "tags" }}
+    <p>Tags:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
