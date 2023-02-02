@@ -5,3 +5,28 @@ draft = false
 details = 'https://discourse.gohugo.io/t/14929'
 description = "Weird stray </p> (closing paragraph) tags"
 +++
+
+No empty lines between each shortcode call:
+
+{{< activities >}}
+{{< onboardmenu >}}
+{{< enquiry >}}
+{{< cancellationterms >}}
+{{< packages >}}
+{{< call-to-action >}}
+
+---
+
+Empty lines between each shortcode call:
+
+{{< activities >}}
+
+{{< onboardmenu >}}
+
+{{< enquiry >}}
+
+{{< cancellationterms >}}
+
+{{< packages >}}
+
+{{< call-to-action >}}
