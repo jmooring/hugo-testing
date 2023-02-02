@@ -1,8 +1,18 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+  {{ with .GetTerms "tags" }}
+    <p>Tags on this page:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
+  <hr>
 
   {{ with site.RegularPages.Related . }}
+  <p>Related pages:</p>
     {{ range . }}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
       {{ with .GetTerms "tags" }}
@@ -14,5 +24,9 @@
       {{ end }}<br>
     {{ end }}<br>
   {{ end }}
+
+  <hr>
+
+  {{ .Content }}
 
 {{ end }}

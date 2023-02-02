@@ -8,12 +8,39 @@ tag = 'tags'
 [related]
 includeNewer = true
 threshold = 80
-toLower = false
+toLower = true
 
 [[related.indices]]
 name = 'tags'
-weight = 100
+weight = 60
 
 [[related.indices]]
-name = 'date'
-weight = 0
+name = 'type'
+weight = 30
+
+[[cascade]]
+type = 'books'
+
+[cascade._target]
+path = '/books/**'
+
+[[cascade]]
+type = 'films'
+
+[cascade._target]
+path = '/films/**'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[menu.main]]
+name = 'Films'
+pageRef = '/films'
+weight = 20

@@ -13,9 +13,19 @@
       max-width: 768px;
       width: 90%;
     }
+    a {
+      color: #00f;
+    }
   </style>
 </head>
 <body>
+  {{ with site.Menus.main }}
+    <p>Menu:
+     {{ range . }}
+       <a href="{{ .URL }}">{{ .Name }}</a>
+     {{ end }}
+    </p>
+  {{ end }}
 {{ block "main" . }}
 
 {{ end }}
