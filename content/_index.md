@@ -5,3 +5,7 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/10682'
 description = "lineNos in code block info string throws error with v0.93.0 and later if value is not boolean"
 +++
+
+```text {lineNos=inline}
+foo
+```

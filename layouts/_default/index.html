@@ -6,8 +6,8 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
 </head>
 <body>
-{{ block "main" . }}
 
-{{ end }}
+{{ .Content }}
+
 </body>
 </html>
