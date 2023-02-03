@@ -8,6 +8,7 @@ description = "Weird stray </p> (closing paragraph) tags"
 
 No empty lines between each shortcode call:
 
+Something
 {{< activities >}}
 {{< onboardmenu >}}
 {{< enquiry >}}
