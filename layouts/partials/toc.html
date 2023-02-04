@@ -3,26 +3,32 @@ Renders a table of contents by parsing the rendered page content.
 
 Defaults:
 
-    Start level: 2  (h2 elements)
-    End level: 3    (h3 elements)
+    startLevel:     2 (heading level 2)
+    endLevel:       3 (heading level 3)
+    minNumHeadings: 2 (number of headings required to trigger display)
 
-To override the default start and end levels for the entire site, add this to
-the site configuration:
+To override the default settings for the entire site, add this to the site
+configuration:
 
     [params.toc]
     startLevel = 2
-    endLevel = 6
+    endLevel = 4
+    minNumHeadings = 1
 
-To enable the TOC for the current page, add this to the page's front matter:
-
-    toc = true
-
-To enable the TOC and override the start and end levels for the current page,
-add this to the page's front matter:
+To override the default settings for the current page, add this to front
+matter:
 
     [toc]
     startLevel = 2
     endLevel = 4
+    minNumHeadings = 1
+
+The presence of all or a portion of the [toc] table in front matter will enable
+the table of contents for the current page, provided that the number of
+headings is greater than or equal to minNumHeadings.
+
+You can also enable the table of contents for the current page by setting
+toc = true in front matter.
 
 To call the TOC partial from a template:
 
@@ -30,16 +36,6 @@ To call the TOC partial from a template:
 
 You must also provide CSS to place each item on its own line, with the proper
 indentation for each level. For example:
-
-    nav.toc {
-      border-bottom: 1px solid #999;
-      padding-bottom: 1rem;
-    }
-
-    div.toc-title {
-      font-weight: bold;
-      margin-bottom: 1rem;
-    }
 
     a.toc-item {
       display: block;
@@ -82,12 +78,15 @@ title, see the "Initialize constants" section below.
   {{- $navTitle := "On this page" }}
 
   {{- /* Get configuration. */}}
-  {{- $cfg := dict "startLevel" 2 "endLevel" 3 }}
+  {{- $cfg := dict "startLevel" 2 "endLevel" 3 "minNumHeadings" 2 }}
   {{- with .Param "toc.startLevel" }}
     {{- $cfg = merge $cfg (dict "startLevel" .) }}
   {{- end }}
   {{- with .Param "toc.endLevel" }}
     {{- $cfg = merge $cfg (dict "endLevel" .) }}
+  {{- end }}
+  {{- with .Param "toc.minNumHeadings" }}
+    {{- $cfg = merge $cfg (dict "minNumHeadings" .) }}
   {{- end }}
 
   {{- /* Determine path to content for error and warning messages. */}}
@@ -125,20 +124,22 @@ title, see the "Initialize constants" section below.
 
   {{- /* Render */}}
   {{- with $headings }}
-    <nav class="{{ $navClass }}">
-      <div class="toc-title">{{ $navTitle }}</div>
-      {{- range . }}
-        {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $cfg.startLevel))) }}
-        {{- with .id }}
-          {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
+    {{- if ge (len $headings) $cfg.minNumHeadings }}
+      <nav class="{{ $navClass }}">
+        <div class="toc-title">{{ $navTitle }}</div>
+        {{- range . }}
+          {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $cfg.startLevel))) }}
+          {{- with .id }}
+            {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
+          {{- end }}
+          <a
+          {{- range $k, $v := $attrs }}
+            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+          {{- end -}}
+          >{{- .text }}</a>
         {{- end }}
-        <a
-        {{- range $k, $v := $attrs }}
-          {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-        {{- end -}}
-        >{{- .text }}</a>
-      {{- end }}
-    </nav>
+      </nav>
+    {{- end }}
   {{- end }}
 
   {{- /* Debug */}}

@@ -2,9 +2,7 @@
 title = 'Test'
 date = 2023-01-09T12:54:54-08:00
 draft = false
-[toc]
-startLevel = 2
-endLevel = 4
+toc = true
 +++
 
 {{< snippet src="/snippets/mytopic/index.md" >}}

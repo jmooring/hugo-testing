@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #42343'
+
+[params.toc]
+startLevel = 2
+endLevel = 4
+minNumHeadings = 1
