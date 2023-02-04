@@ -1,4 +1,21 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "taxo_visible" }}
+  <p>taxo_visible:
+    {{ range . }}&nbsp;
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+  {{ end }}
+
+  {{ with .GetTerms "taxo_hidden" }}
+    <p>taxo_hidden:
+      {{ range . }}&nbsp;
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}

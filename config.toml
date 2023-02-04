@@ -1,3 +1,59 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10694'
+
+# -----------------------------------------------------------------------------
+# Taxonomies
+# -----------------------------------------------------------------------------
+
+[taxonomies]
+taxo_hidden = 'taxo_hidden' # Only referenced on "hidden" pages
+taxo_visible = 'taxo_visible' # Only referenced on "visible" pages
+
+# -----------------------------------------------------------------------------
+# Build options
+# -----------------------------------------------------------------------------
+
+[[cascade]]
+
+[cascade._build]
+render = "never"
+list = "never"
+publishResources = false
+
+[cascade._target]
+path = '/hidden/**'
+
+# -----------------------------------------------------------------------------
+# Menu entries (irrelevant to this issue)
+# -----------------------------------------------------------------------------
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Hidden'
+pageRef = '/hidden'
+weight = 20
+
+[[menu.main]]
+name = 'Visible'
+pageRef = '/visible'
+weight = 30
+
+[[menu.main]]
+name = 'TaxoHidden'
+pageRef = '/taxo_hidden'
+weight = 40
+
+[[menu.main]]
+name = 'TaxoVisible'
+pageRef = '/taxo_visible'
+weight = 50
+
+[[menu.main]]
+name = 'Hugo'
+url = 'https://gohugo.io'
+weight = 60
