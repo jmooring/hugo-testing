@@ -1,0 +1,36 @@
+// Codeblocks
+// ----------------------------------------------------------------------------
+
+$spacer: 18px;
+$spacer-sm: $spacer * 0.75;
+$border-radius: 4px;
+$box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+  rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lnt,
+.highlight .chroma .lntable .hl {
+  display: flex;
+}
+
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lntd + .lntd {
+  width: 100%;
+}
+
+/* line numbers inline, no line numbers */
+.highlight > pre {
+  padding: $spacer-sm;
+}
+
+/* line numbers in table */
+.highlight div {
+  padding: 0 $spacer-sm;
+}
+
+.highlight div,
+.highlight > pre {
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  overflow-x: auto;
+}

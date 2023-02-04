@@ -2,8 +2,6 @@
 
 Details: <https://discourse.gohugo.io/t/14929>
 
-Description: Weird stray </p> (closing paragraph) tags
-
 ## Instructions
 
 Clone this branch of the repository and build the site.

@@ -9,8 +9,8 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+  <p>On this page:</p>
+  {{ .TableOfContents }}
+  <hr>
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
 {{ end }}
