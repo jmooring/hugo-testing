@@ -10,7 +10,17 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ $p := where site.RegularPages "Type" "posts" }}
+  {{ range $k, $_ := (.Paginate $p).Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+    {{ $lazy := false }}
+    {{ if $k }}
+      {{ $lazy = true }}
+    {{ end }}
+    <div>{{ partial "post-card.html" (dict "page" . "lazy" $lazy) }}</div>
   {{ end }}
+  {{ template "_internal/pagination.html" }}
+
 {{ end }}

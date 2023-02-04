@@ -1,0 +1,12 @@
+{{ $page := .page }}
+{{ $lazy := .lazy }}
+
+{{ with $page.Resources.Get "cover.jpg" }}
+  {{ with .Resize "150x webp" }}
+    {{ if $lazy }}
+      <img loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ else }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+{{ end }}
