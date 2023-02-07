@@ -4,10 +4,55 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
-</head>
+  {{ with resources.Get "scss/main.scss" | toCSS | minify }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
 <body>
-{{ block "main" . }}
 
-{{ end }}
+  <div class="container-header">
+    <header class="center">
+      <div class="header-inner">
+        <div class="header-title">
+          <h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
+        </div>
+        <div class="header-menu">
+          {{ partial "render-simple-menu" (dict "currentPage" $ "nodes" site.Menus.main) }}
+        </div>
+      </div>
+    </header>
+  </div>
+
+  <div class="container-main">
+
+    {{ if not .IsHome }}
+      <div class="container-page-title center">
+        <h1 class="page-title">{{ .Title }}</h1>
+      </div>
+      <div class="container-breadcrumbs center">
+        {{ partial "breadcrumbs.html" .}}
+      </div>
+    {{ end }}
+
+    <div class="container-content center">
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+      <aside>
+        {{ if eq .Section "documentation" }}
+          {{ with (site.GetPage "/documentation").Pages }}
+            {{ partial "render-section-menu.html" (dict "currentPage" $ "nodes" .) }}
+          {{ end }}
+        {{ end }}
+      </aside>
+    </div>
+
+  </div><!--// end container-main -->
+
+  <div class="container-footer">
+    <footer class="center">
+      <p>{{ site.Copyright }}</p>
+    </footer>
+  </div>
+
 </body>
 </html>

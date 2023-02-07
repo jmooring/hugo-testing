@@ -1,0 +1,173 @@
+// Main
+// ----------------------------------------------------------------------------
+
+// Vars
+$header-height: 100px;
+
+$black: #222;
+$blue: #0000ff;
+$blue-medium: #4169e1;
+$blue-light: #87cefa;
+$white: #fff;
+$yellow: #f7dc6f;
+
+$font-size-base: 18px;
+$font-size-sm: $font-size-base * 0.875;
+
+// Layout
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  color: $black;
+  display: flex;
+  flex-direction: column;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: $font-size-base;
+  line-height: 1.6;
+  margin: 0;
+  min-height: 100vh;
+}
+
+.container-header {
+  height: $header-height;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  h1 {
+    margin: 0;
+  }
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-menu {
+  font-size: $font-size-sm;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  ul,
+  ol {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    li {
+      &:hover {
+        background-color: $blue-medium;
+      }
+      display: inline-block;
+      padding: 0 0.5em;
+      &.active {
+        background-color: $blue;
+      }
+    }
+  }
+}
+
+.container-main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-top: $header-height;
+  margin-bottom: 2rem;
+}
+
+.container-breadcrumbs,
+.container-footer,
+.container-header,
+.container-page-title {
+  display: flex;
+  align-items: center;
+}
+
+.container-footer,
+.container-header {
+  background-color: $black;
+  color: $white;
+  a {
+    color: $white;
+  }
+}
+
+.container-page-title {
+  h1 {
+    margin: 0;
+  }
+}
+
+.container-breadcrumbs {
+  font-size: $font-size-sm;
+}
+
+.container-content {
+  display: flex;
+  flex: 1;
+  gap: 2rem;
+  max-width: 100%;
+}
+
+main {
+  flex: 1;
+}
+
+aside {
+  align-self: flex-start;
+  font-size: $font-size-sm;
+  min-width: 200px;
+  padding-top: 1rem;
+  position: sticky;
+  top: $header-height;
+  ul,
+  ol {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    li li {
+      padding-left: 1em;
+    }
+  }
+  li.active > a {
+    background-color: $yellow;
+  }
+  a[aria-current="true"] {
+    background-color: $blue-light;
+  }
+}
+
+footer {
+  font-size: $font-size-sm;
+}
+
+.center {
+  margin: 0 auto;
+  padding: 0 1rem;
+  width: 1024px;
+}
+
+@media only screen and (max-width: 576px) {
+  aside {
+    display: none;
+  }
+}
+
+a {
+  color: $blue;
+  text-decoration: none;
+}
+
+.breadcrumb-separator {
+  padding: 0 0.25em;
+}

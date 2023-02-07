@@ -1,3 +1,25 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Hugo Forum Topic #42835'
+title = 'Forum Topic #42835'
+copyright = '© 2023 My Company'
+summaryLength = 40
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'About'
+pageRef = '/about'
+weight = 20
+
+[[menu.main]]
+name = 'Contact'
+pageRef = '/contact'
+weight = 30
+
+[[menu.main]]
+name = 'Docs'
+pageRef = '/documentation'
+weight = 40

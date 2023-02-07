@@ -1,0 +1,17 @@
+{{- $currentPage := .currentPage }}
+{{- $nodes := .nodes }}
+<ul>
+  {{ range $nodes }}
+    {{- $ariaCurrent := "" }}
+    {{- $liClass := "" }}
+
+    {{ if $currentPage.IsMenuCurrent .Menu . }}
+      {{- $ariaCurrent = "page" }}
+      {{- $liClass = "active" }}
+    {{ end }}
+
+    <li {{- with $liClass }} class="{{ . }}" {{ end -}}>
+      <a {{- with $ariaCurrent }} aria-current="{{ . }}" {{- end }} href="{{- .URL }}">{{ .Name }}</a>
+    </li>
+  {{ end }}
+</ul>
