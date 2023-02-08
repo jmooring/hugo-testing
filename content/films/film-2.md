@@ -1,0 +1,8 @@
++++
+title = 'Film 2'
+date = 2023-02-08T09:52:24-08:00
+draft = false
+'films/genres' = ['romance']
++++
+
+Veniam ullamco voluptate ad magna nisi laborum velit in anim dolore sit. Excepteur aute reprehenderit velit amet et commodo magna non enim. Officia velit aliquip duis ex ipsum. Nostrud adipisicing labore elit aliquip qui. Irure esse veniam deserunt id commodo do velit. Ipsum tempor adipisicing nisi excepteur irure ea mollit sint incididunt. Aute laborum ad est veniam sunt exercitation laborum qui.

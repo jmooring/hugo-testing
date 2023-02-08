@@ -1,3 +1,23 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #42828'
+disableKinds = ['RSS', 'sitemap']
+
+[taxonomies]
+'books/genre' = 'books/genres'
+'films/genre' = 'films/genres'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[menu.main]]
+name = 'Films'
+pageRef = '/films'
+weight = 20
