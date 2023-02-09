@@ -17,6 +17,14 @@
 </head>
 <body>
 
+{{ with .AllTranslations }}
+  <p>Languages:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+    {{ end }}
+  </p>
+{{ end }}
+
 {{ with site.Menus.main }}
   <p>Menu:
     {{ range . }}
