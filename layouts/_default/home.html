@@ -10,7 +10,19 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  <h2>Range through data structure</h2>
+
+  {{ range site.Data.superparent }}
+    {{ range . }}
+      {{ range . }}
+        {{ .name }} ({{ .date | time.Format "2006" }}) <br>
+      {{ end }}
+    {{ end }}
   {{ end }}
+
+  <h2>Data structure</h2>
+
+  <pre>{{ jsonify (dict "indent" "  ") site.Data }}</pre>
+
 {{ end }}
