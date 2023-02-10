@@ -1,4 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <p>Output from <code>.Page.Store.Get "instances_of_foo"</code></>
+
+  {{ if .HasShortcode "foo" }}
+    <pre>{{ jsonify (dict "indent" "  ") (.Page.Store.Get "instances_of_foo") }}</pre>
+  {{ end }}
+
 {{ end }}

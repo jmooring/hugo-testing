@@ -1,0 +1,4 @@
+{{ $id := printf "foo-%d" .Ordinal  }}
+{{ .Page.Store.Add "instances_of_foo" (slice $id) }}
+
+<p>I am instance {{ .Ordinal }} of the {{ .Name }} shortcode on this page.</p>
