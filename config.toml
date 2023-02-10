@@ -21,3 +21,7 @@ weight = 20
 name = 'Films'
 pageRef = '/films'
 weight = 20
+
+[permalinks]
+books = 'livres/:slug'
+'books/genres' = 'livres/genres/:slug'
