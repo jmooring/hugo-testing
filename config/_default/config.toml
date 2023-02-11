@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Hugo Forum Topic #42817'
+disableKinds = ['RSS', 'sitemap', 'taxonomy', 'term']
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+excludeFiles = '**/.git'
+
+[[module.mounts]]
+source = '../common/common-1'
+target = 'static'
+excludeFiles = '**/.git'
+
+[[module.mounts]]
+source = '../common/common-2'
+target = 'static'
+excludeFiles = '**/.git'
+
+[[module.mounts]]
+source = '../common/common-3'
+target = 'static'
+excludeFiles = '**/.git'
