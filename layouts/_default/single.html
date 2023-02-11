@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <h2>Member data</h2>
+  {{ with .Params.member_data }}
+    <pre>{{ jsonify (dict "indent" "  ") . }}</pre>
+  {{ end }}
+
 {{ end }}

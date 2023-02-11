@@ -10,7 +10,24 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+  {{ range where site.RegularPages.ByTitle "Type" "network" }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
+
+  <hr>
+
+  <h2>Member data</h2>
+
+  {{ $s := slice }}
+  {{ range where site.RegularPages "Type" "network" }}
+    {{ $s = $s | append .Params.member_data }}
+  {{ end }}
+
+  <pre>{{ jsonify (dict "indent" "  ") $s }}</pre>
+
+  {{ $d := jsonify $s }}
+  <div id="foo" data-members="{{ $d }}"></div>
+
+
+
 {{ end }}

@@ -1,5 +1,5 @@
-+++
-title = '{{ replace .Name "-" " " | strings.FirstUpper }}'
-date = {{ .Date }}
-draft = false
-+++
+---
+title: '{{ replace .Name "-" " " | strings.FirstUpper }}'
+date: {{ .Date }}
+draft: false
+---
