@@ -31,8 +31,7 @@
     </p>
   {{ end }}
 
-
-  {{ partial "functions/GetSection" (dict "sectionName" "announcement-banner" "Page" .Page) }}
+  __{{ partial "functions/GetSection" "announcement-banners" }}__
 
 
 {{ block "main" . }}

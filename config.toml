@@ -24,7 +24,7 @@ weight = 10
 
 [[menu.main]]
 name = 'Announcement banners'
-pageRef = '/announcement-banner/'
+pageRef = '/announcement-banners/'
 weight = 20
 
 [[menu.main]]

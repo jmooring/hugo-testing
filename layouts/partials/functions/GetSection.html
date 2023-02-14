@@ -1,6 +1,7 @@
-{{ $sectionName := .sectionName }}
-{{ $section := (where (where .Page.Site.RegularPages "File.Dir" "in" (slice "_content-components\\" "_content-components/")) "File.TranslationBaseName" $sectionName) }}
-{{ range .Page.Site.Home.Translations }}
-	{{ $section = $section | lang.Merge (where .Page.Site.RegularPages "File.TranslationBaseName" $sectionName) }}
+{{ $sectionName := .}}
+{{ $pages := where site.RegularPages "Type" "_content-components" }}
+{{ $pages = where $pages "File.TranslationBaseName" $sectionName }}
+{{ range site.Home.Translations }}
+	{{ $pages = $pages | lang.Merge (where site.RegularPages "File.TranslationBaseName" $sectionName) }}
 {{ end }}
-{{ return index $section 0 }}
+{{ return index $pages 0 }}
