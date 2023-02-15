@@ -1,0 +1,8 @@
+disableKinds = ['rss','sitemap']
+
+[permalinks.page]
+s1 = '/:year/:month/:day/:contentbasename/'
+
+[permalinks.term]
+categories = '/:contentbasename/'
+tags = '/tags/:contentbasename/'
