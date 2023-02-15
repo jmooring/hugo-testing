@@ -1,0 +1,3 @@
+{{ with .Page.Resources.Get (.Get 0) | js.Build }}
+<script src="{{ .RelPermalink }}"></script>
+{{ end }}

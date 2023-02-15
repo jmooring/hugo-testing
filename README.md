@@ -13,3 +13,10 @@ git clone --single-branch -b hugo-github-issue-10726 https://github.com/jmooring
 cd hugo-github-issue-10726
 hugo server
 ```
+
+Now open the browser console, and make changes to:
+
+- content/tests/test-1/test.js
+- assets/main.js
+
+You will see the console messages update.
