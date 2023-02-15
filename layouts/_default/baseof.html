@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ or site.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}"></html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ site.Title }}</h1>
+    <hr>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+</body>
+</html>
