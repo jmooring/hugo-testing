@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ with .Params.details }}
+    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+  {{ end }}
+  {{ with .Params.description }}
+    <p>Description: {{ . }}</p>
+  {{ end }}
+  {{ with or .Params.url .Params.details }}
+    <hr>
+  {{ end }}
+  {{ .Content }}
+
+  {{ with partial "get-locations.html" . }}
+    <ul>
+      {{ range . }}
+        <li>{{ .title }} ({{ .location.latitude }}, {{ .location.longitude }})</li>
+
+      {{ end }}
+    </ul>
+
+
+  {{ end }}
+{{ end }}

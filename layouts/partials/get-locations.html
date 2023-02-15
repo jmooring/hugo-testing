@@ -1,0 +1,14 @@
+{{ $locations := slice }}
+{{ with site.GetPage "/organizations"  }}
+  {{ range .RegularPages }}
+    {{ $location := dict
+      "title" .Title
+      "location" (dict
+        "latitude" .Params.location.latitude
+        "longitude" .Params.location.longitude
+      )
+    }}
+    {{ $locations = $locations | append $location }}
+  {{ end }}
+{{ end }}
+{{ return $locations }}
