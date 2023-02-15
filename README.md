@@ -14,9 +14,7 @@ cd hugo-github-issue-10726
 hugo server
 ```
 
-Now open the browser console, and make changes to:
+Visit <http://localhost:1313/tests/test-1/>, then open the browser console:
 
-- content/tests/test-1/test.js
-- assets/main.js
-
-You will see the console messages update.
+- If you change assets/main.ts a couple of times, the updates are immediately visible in the browser console.
+- If you change content/tests/test-1/test.ts a couple of times, the first or second update is not visible until you restart hugo server.
