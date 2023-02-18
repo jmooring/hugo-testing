@@ -1,0 +1,15 @@
+{{ with .Ancestors.Reverse }}
+  <nav class="breadcrumbs">
+    {{ $p := . | append $ }}
+    {{ range $k, $_ := $p }}
+      {{ if $k }}
+        <span class="breadcrumb-separator">&raquo;</span>
+      {{ end }}
+      {{ $ariaCurrent := "true" }}
+      {{ if eq $k (sub (len $p) 1) }}
+        {{ $ariaCurrent = "page" }}
+      {{ end }}
+      <a aria-current="{{ $ariaCurrent }}" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </nav>
+{{ end }}
