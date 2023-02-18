@@ -8,8 +8,23 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  <p>This list of <em>pages</em> should only include posts.</p>
+  {{ range site.RegularPages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  <hr>
+
+  <p>This list of <em>sections</em> should only include posts.</p>
+  {{ range site.Sections }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+
+  <hr>
+
+  {{ .Content }}
+
+  {{ partial "render-content" "/headless/products" }}
+
 {{ end }}

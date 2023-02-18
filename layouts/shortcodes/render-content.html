@@ -1,0 +1,38 @@
+{{- /*
+Renders content from the given page or section.
+
+@param {string} . The path to the page or section.
+@return {template.HTML}
+
+@example {{< render-content "/headless/products" >}}
+@example {{< render-content "/headless/products/product-1" >}}
+@example {{< render-content "/posts/post-1" >}}
+*/}}
+
+{{- with .Get 0 }}
+  {{- with site.GetPage . }}
+    <div class="section">
+      {{- if .IsSection }}
+        {{- range .Pages.ByTitle }}
+          <div class="page">
+            <h3>{{ .Title }}</h3>
+            <div class="content">
+              {{ .Content }}
+            </div>
+          </div>
+        {{- end }}
+      {{- else }}
+        <div class="page">
+          <h3>{{ .Title }}</h3>
+          <div class="content">
+            {{ .Content }}
+          </div>
+        </div>
+      {{- end }}
+    </div>
+  {{- else }}
+    {{- errorf "The %s shortcode was unable to get page %s. See %s" $.Name . $.Position }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %s shortcode requires a single position parameter: the path to the section. See %s" $.Name $.Position }}
+{{- end }}
