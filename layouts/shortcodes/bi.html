@@ -1,0 +1,6 @@
+{{- $class := "bi" }}
+{{- range .Params }}
+  {{- $class = printf "%s %s" $class (lower .) }}
+{{- end -}}
+<i class="{{ $class }}"></i>
+{{- /**/ -}}

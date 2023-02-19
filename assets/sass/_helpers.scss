@@ -1,0 +1,476 @@
+// Helpers
+// ----------------------------------------------------------------------------
+
+// Bootstrap icon sizes
+
+.bi {
+  $base: 1rem;
+  &.xxs {
+    font-size: $base;
+  }
+  &.xs {
+    font-size: $base * 1.5;
+  }
+  &.sm {
+    font-size: $base * 2;
+  }
+  &.md {
+    font-size: $base * 2.5;
+  }
+  &.lg {
+    font-size: $base * 3;
+  }
+  &.xl {
+    font-size: $base * 3.5;
+  }
+  &.xxl {
+    font-size: $base * 4;
+  }
+}
+
+// Named colors
+
+.aliceblue {
+  color: aliceblue;
+}
+.antiquewhite {
+  color: antiquewhit;
+}
+.aqua {
+  color: aqua;
+}
+.aquamarine {
+  color: aquamarine;
+}
+.azure {
+  color: azure;
+}
+.beige {
+  color: beige;
+}
+.bisque {
+  color: bisque;
+}
+.black {
+  color: black;
+}
+.blanchedalmond {
+  color: blanchedalm;
+}
+.blue {
+  color: blue;
+}
+.blueviolet {
+  color: blueviolet;
+}
+.brown {
+  color: brown;
+}
+.burlywood {
+  color: burlywood;
+}
+.cadetblue {
+  color: cadetblue;
+}
+.chartreuse {
+  color: chartreuse;
+}
+.chocolate {
+  color: chocolate;
+}
+.coral {
+  color: coral;
+}
+.cornflowerblue {
+  color: cornflowerb;
+}
+.cornsilk {
+  color: cornsilk;
+}
+.crimson {
+  color: crimson;
+}
+.cyan {
+  color: cyan;
+}
+.darkblue {
+  color: darkblue;
+}
+.darkcyan {
+  color: darkcyan;
+}
+.darkgoldenrod {
+  color: darkgoldenr;
+}
+.darkgray {
+  color: darkgray;
+}
+.darkgreen {
+  color: darkgreen;
+}
+.darkgrey {
+  color: darkgrey;
+}
+.darkkhaki {
+  color: darkkhaki;
+}
+.darkmagenta {
+  color: darkmagenta;
+}
+.darkolivegreen {
+  color: darkolivegr;
+}
+.darkorange {
+  color: darkorange;
+}
+.darkorchid {
+  color: darkorchid;
+}
+.darkred {
+  color: darkred;
+}
+.darksalmon {
+  color: darksalmon;
+}
+.darkseagreen {
+  color: darkseagree;
+}
+.darkslateblue {
+  color: darkslatebl;
+}
+.darkslategray {
+  color: darkslategr;
+}
+.darkslategrey {
+  color: darkslategr;
+}
+.darkturquoise {
+  color: darkturquoi;
+}
+.darkviolet {
+  color: darkviolet;
+}
+.deeppink {
+  color: deeppink;
+}
+.deepskyblue {
+  color: deepskyblue;
+}
+.dimgray {
+  color: dimgray;
+}
+.dimgrey {
+  color: dimgrey;
+}
+.dodgerblue {
+  color: dodgerblue;
+}
+.firebrick {
+  color: firebrick;
+}
+.floralwhite {
+  color: floralwhite;
+}
+.forestgreen {
+  color: forestgreen;
+}
+.fuchsia {
+  color: fuchsia;
+}
+.gainsboro {
+  color: gainsboro;
+}
+.ghostwhite {
+  color: ghostwhite;
+}
+.gold {
+  color: gold;
+}
+.goldenrod {
+  color: goldenrod;
+}
+.gray {
+  color: gray;
+}
+.green {
+  color: green;
+}
+.greenyellow {
+  color: greenyellow;
+}
+.grey {
+  color: grey;
+}
+.honeydew {
+  color: honeydew;
+}
+.hotpink {
+  color: hotpink;
+}
+.indianred {
+  color: indianred;
+}
+.indigo {
+  color: indigo;
+}
+.ivory {
+  color: ivory;
+}
+.khaki {
+  color: khaki;
+}
+.lavender {
+  color: lavender;
+}
+.lavenderblush {
+  color: lavenderblu;
+}
+.lawngreen {
+  color: lawngreen;
+}
+.lemonchiffon {
+  color: lemonchiffo;
+}
+.lightblue {
+  color: lightblue;
+}
+.lightcoral {
+  color: lightcoral;
+}
+.lightcyan {
+  color: lightcyan;
+}
+.lightgoldenrodyellow {
+  color: lightgolden;
+}
+.lightgray {
+  color: lightgray;
+}
+.lightgreen {
+  color: lightgreen;
+}
+.lightgrey {
+  color: lightgrey;
+}
+.lightpink {
+  color: lightpink;
+}
+.lightsalmon {
+  color: lightsalmon;
+}
+.lightseagreen {
+  color: lightseagre;
+}
+.lightskyblue {
+  color: lightskyblu;
+}
+.lightslategray {
+  color: lightslateg;
+}
+.lightslategrey {
+  color: lightslateg;
+}
+.lightsteelblue {
+  color: lightsteelb;
+}
+.lightyellow {
+  color: lightyellow;
+}
+.lime {
+  color: lime;
+}
+.limegreen {
+  color: limegreen;
+}
+.linen {
+  color: linen;
+}
+.magenta {
+  color: magenta;
+}
+.maroon {
+  color: maroon;
+}
+.mediumaquamarine {
+  color: mediumaquam;
+}
+.mediumblue {
+  color: mediumblue;
+}
+.mediumorchid {
+  color: mediumorchi;
+}
+.mediumpurple {
+  color: mediumpurpl;
+}
+.mediumseagreen {
+  color: mediumseagr;
+}
+.mediumslateblue {
+  color: mediumslate;
+}
+.mediumspringgreen {
+  color: mediumsprin;
+}
+.mediumturquoise {
+  color: mediumturqu;
+}
+.mediumvioletred {
+  color: mediumviole;
+}
+.midnightblue {
+  color: midnightblu;
+}
+.mintcream {
+  color: mintcream;
+}
+.mistyrose {
+  color: mistyrose;
+}
+.moccasin {
+  color: moccasin;
+}
+.navajowhite {
+  color: navajowhite;
+}
+.navy {
+  color: navy;
+}
+.oldlace {
+  color: oldlace;
+}
+.olive {
+  color: olive;
+}
+.olivedrab {
+  color: olivedrab;
+}
+.orange {
+  color: orange;
+}
+.orangered {
+  color: orangered;
+}
+.orchid {
+  color: orchid;
+}
+.palegoldenrod {
+  color: palegoldenr;
+}
+.palegreen {
+  color: palegreen;
+}
+.paleturquoise {
+  color: paleturquoi;
+}
+.palevioletred {
+  color: palevioletr;
+}
+.papayawhip {
+  color: papayawhip;
+}
+.peachpuff {
+  color: peachpuff;
+}
+.peru {
+  color: peru;
+}
+.pink {
+  color: pink;
+}
+.plum {
+  color: plum;
+}
+.powderblue {
+  color: powderblue;
+}
+.purple {
+  color: purple;
+}
+.rebeccapurple {
+  color: rebeccapurp;
+}
+.red {
+  color: red;
+}
+.rosybrown {
+  color: rosybrown;
+}
+.royalblue {
+  color: royalblue;
+}
+.saddlebrown {
+  color: saddlebrown;
+}
+.salmon {
+  color: salmon;
+}
+.sandybrown {
+  color: sandybrown;
+}
+.seagreen {
+  color: seagreen;
+}
+.seashell {
+  color: seashell;
+}
+.sienna {
+  color: sienna;
+}
+.silver {
+  color: silver;
+}
+.skyblue {
+  color: skyblue;
+}
+.slateblue {
+  color: slateblue;
+}
+.slategray {
+  color: slategray;
+}
+.slategrey {
+  color: slategrey;
+}
+.snow {
+  color: snow;
+}
+.springgreen {
+  color: springgreen;
+}
+.steelblue {
+  color: steelblue;
+}
+.tan {
+  color: tan;
+}
+.teal {
+  color: teal;
+}
+.thistle {
+  color: thistle;
+}
+.tomato {
+  color: tomato;
+}
+.turquoise {
+  color: turquoise;
+}
+.violet {
+  color: violet;
+}
+.wheat {
+  color: wheat;
+}
+.white {
+  color: white;
+}
+.whitesmoke {
+  color: whitesmoke;
+}
+.yellow {
+  color: yellow;
+}
+.yellowgreen {
+  color: yellowgreen;
+}

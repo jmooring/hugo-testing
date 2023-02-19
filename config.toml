@@ -1,3 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #43014'
+disableKinds = ['RSS', 'sitemap', 'taxonomy', 'term']
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'node_modules/bootstrap-icons/font/fonts'
+target = 'static/fonts'
