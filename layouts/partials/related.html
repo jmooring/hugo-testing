@@ -1,0 +1,107 @@
+{{- /*
+Renders a list of pages related by the first term on the current page in the given taxonomy.
+
+The following parameters are optional: excludeNewer, after, first, and debug.
+
+@param {page} currentPage The current page.
+@param {page.Pages} pageCollection The collection of pages from which to select the related pages.
+@param {string} taxonomy The taxonomy used to determine related pages.
+@param {bool} [excludeNewer=false] If true, exclude pages newer than the current page.
+@param {int} [after=0] Starting with the collection of related pages (sorted descending by date) skip the first N.
+@param {int} [first=1000] After skipping the first N pages, include N more.
+@param {bool} [debug=false] If true, displays date and tags next to each list item.
+
+@returns {template.HTML}
+
+@example
+
+  {{ $ctx := dict
+    "currentPage" .
+    "pageCollection" (where site.RegularPages "Type" "posts")
+    "taxonomy" "tags"
+    "excludeNewer" true
+    "after" 3
+    "first" 5
+    "debug" true
+  }}
+  {{ partial "related.html" $ctx }}
+
+  OR
+
+  {{ $ctx := dict
+    "currentPage" .
+    "pageCollection" (where site.RegularPages "Type" "posts")
+    "taxonomy" "tags"
+  }}
+  {{ partial "related.html" $ctx }}
+
+*/}}
+
+{{- /* Get context. */}}
+{{- $currentPage := .currentPage }}
+{{- $pageCollection := .pageCollection }}
+{{- $taxonomy := .taxonomy }}
+{{- $excludeNewer := or .excludeNewer false }}
+{{- $after := or (int .after) 0 }}
+{{- $first := or (int .first) 1000 }}
+{{- $debug := or .debug false }}
+
+{{- /* Initialize. */}}
+{{- $partialName := "related.html" }}
+{{- $error := false }}
+
+{{- /* Validate. */}}
+{{- if not (and $currentPage $pageCollection $taxonomy) }}
+  {{- $error = true }}
+  {{- errorf "The %q partial requires the following context: page, pageCollection, and taxonomy" $partialName }}
+{{- end }}
+{{- if not (index site.Taxonomies $taxonomy) }}
+  {{- $error = true }}
+  {{- errorf "The %q partial received an invalid taxonomy %q in context" $partialName $taxonomy }}
+{{- end }}
+
+{{- if not $error }}
+
+  {{- /* Remove current page from page collection. */}}
+  {{- $pages := $pageCollection | complement (slice $currentPage) }}
+
+  {{- /* Limit page collection to pages with .Date earlier than current page .Date. */}}
+  {{- if $excludeNewer }}
+    {{- $pages = where $pages "Date" "lt" $currentPage.Date }}
+  {{- end }}
+
+  {{- /* Within the page collection, get pages related by the first term on the current page in the given taxonomy. */}}
+  {{- $firstTerm := index (index $currentPage.Params $taxonomy) 0 }}
+  {{- $related := $pages.RelatedTo (keyVals $taxonomy $firstTerm) }}
+
+  {{/* Limit related pages by after and first parameters. */}}
+  {{- $related = $related.ByDate.Reverse | after $after | first $first }}
+
+  {{- with $related }}
+    <div class="related-pages">
+      <div class="related-pages-title">Related pages:</div>
+      <ul class="related-pages-list">
+        {{- range . }}
+          <li class="related-pages-list-item">
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+
+            {{- if $debug }}
+              <div style="display: inline-block; background: #FAFAD2">
+                {{- $tv := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+                {{- $td := .Date | time.Format "2006-01-02" -}}
+                <time style="margin: 0 .5em;" {{ printf "datetime=%q" $tv | safeHTMLAttr }}>{{ $td }}</time>
+                {{- with .GetTerms "tags" }}
+                  {{- range . }}
+                    <a style="margin: 0 .5em;" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                  {{- end }}
+                {{- end }}
+              </div>
+            {{- end }}
+
+          </li>
+        {{- end }}
+      </ul>
+    </div>
+  {{- end }}
+
+{{- end }}

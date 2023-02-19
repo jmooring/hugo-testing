@@ -1,0 +1,28 @@
+{{- define "main" }}
+  <h1>{{- .Title }}</h1>
+
+  {{- $tv := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{- $td := .Date | time.Format ":date_long" -}}
+  <time {{ printf "datetime=%q" $tv | safeHTMLAttr }}>{{ $td }}</time>
+
+  {{- with .GetTerms "tags" }}
+    <p>Tags:
+      {{- range . }}
+        <a href="{{- .RelPermalink }}">{{- .LinkTitle }}</a>
+      {{- end }}
+    </p>
+  {{- end }}
+
+  {{ $ctx := dict
+    "currentPage" .
+    "pageCollection" (where site.RegularPages "Type" "posts")
+    "taxonomy" "tags"
+    "excludeNewer" true
+    "after" 3
+    "first" 5
+    "debug" true
+  }}
+  {{ partial "related.html" $ctx }}
+
+  {{ .Content }}
+{{- end }}
