@@ -1,4 +1,5 @@
 {{ define "main" }}
+
   {{ with .Params.details }}
     <p>Details: <a href="{{ . }}">{{ . }}</a></p>
   {{ end }}
@@ -9,7 +10,32 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ with .Site.GetPage "docs" }}
+    {{ template "docs-files" (dict "Section" . "CurrentPage" $) }}
   {{ end }}
+
+{{ end }}
+
+{{ define "docs-files" }}
+  {{ $categorized := slice }}
+  <aside>
+    {{ $pages := .Section.Pages }}
+    {{ range (sort $pages "File.Path") }}
+      {{ $indent := sub (.Page.RelPermalink | strings.Count "/") 3 }}
+      <div class="docs-menu-indent-{{ $indent }}">
+        {{ $current := eq $.CurrentPage .Page }}
+        {{ $section := replaceRE ".*/(.*)/.*" "$1" .Page.File.Path }}
+        {{ if not (in $categorized $section)  }}
+          {{ if ne (substr $section 0 (len "docs/")) "docs/" }}
+            {{ $categorized = $categorized | append $section }}
+            <tt>{{ $section }}</tt><br>
+          {{ end }}
+        {{ end }}
+        <a href="{{ .RelPermalink }}"{{ if $current }} class="active"{{ end }}>
+          {{ .RelPermalink }}
+        </a>
+      </div>
+    {{ end }}
+  </aside>
 {{ end }}
