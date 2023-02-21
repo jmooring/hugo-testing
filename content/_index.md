@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #43077'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-02-21T14:04:20-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/43077'
+description = "URL/ToC issues when inserting one page into another"
 +++
