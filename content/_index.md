@@ -6,3 +6,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/43077'
 description = "URL/ToC issues when inserting one page into another"
 +++
+
+{{% include "snippet-1.md" %}}
+
+{{% include "snippet-2.md" %}}
+
+{{% include "snippet-3.md" %}}

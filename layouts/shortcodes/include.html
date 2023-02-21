@@ -1,0 +1,13 @@
+{{ with $path := .Get 0 }}
+  {{ with $.Page.GetPage "snippets" }}
+    {{ with .Resources.Get $path }}
+      {{ .RawContent }}
+    {{ else }}
+      {{ errorf "The %s shortcode was unable to get %s. See %s" $.Name $path $.Position }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %s shortcode was unable to find the snippets section. See %s" $.Name $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The % sshortcode requires a single positional parameter. See %s" .Name .Position }}
+{{ end }}
