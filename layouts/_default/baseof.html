@@ -1,17 +1,49 @@
 <!DOCTYPE html>
-<html lang="{{ or site.LanguageCode site.Language.Lang }}">
+<html lang="{{- or site.LanguageCode site.Language.Lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
-  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <title>{{- if .IsHome }}{{- site.Title }}{{- else }}{{- printf "%s | %s" site.Title .Title }}{{- end }}</title>
+
+  {{- with .File }}
+    {{- $page := .ContentBaseName }}
+    {{- if eq $.Page.Type "post" }}
+      {{- "post" }}
+    {{- else if eq $.Page.Type "page" }}
+      {{- with (index $.Site.Data.page $page) }}
+        {{- $main := resources.Get "scss/main.scss" }}
+        {{- $options := (dict "outputStyle" "compressed") }}
+        {{- $s := $main | resources.ToCSS $options }}
+        <style media="all">{{ $s.Content | chomp | safeCSS }}</style>
+        {{- range $k, $v := . }}
+          {{- $path := printf "scss/partials/%s.scss" $v }}
+          {{- $c := resources.Get $path }}
+          {{- $s = $c | resources.ToCSS $options }}
+          <style media="all">{{ $s.Content | chomp | safeCSS }}</style>
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
 </head>
 <body>
   <header>
-    <h1>{{ site.Title }}</h1>
+    <h1>{{- site.Title }}</h1>
     <hr>
+    {{ with site.Menus.main }}
+      <nav class="menu">
+        {{ range . }}
+          {{ if $.IsMenuCurrent .Menu . }}
+            <a class="active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
+          {{ else }}
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
   </header>
   <main>
-    {{ block "main" . }}{{ end }}
+    {{- block "main" . }}{{- end }}
   </main>
 </body>
 </html>
