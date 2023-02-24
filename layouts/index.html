@@ -1,0 +1,2 @@
+{{- $opts := dict "transpiler" "dartsass" }}
+{{- with resources.Get "main.scss" | toCSS $opts }}{{ .Content | safeHTML }}{{ end }}

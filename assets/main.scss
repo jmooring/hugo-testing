@@ -1,3 +1,8 @@
-.main-scss {
+@import "import-this-file.css";
+@import "foo/import-this-mounted-file.css";
+@import "compile-this-file";
+@import "foo/compile-this-mounted-file";
+
+a {
   color: main-scss;
 }
