@@ -1,0 +1,17 @@
++++
+title = 'Post 29'
+date = 2023-02-24T23:30:04-08:00
+draft = false
+tags = ["Enos Mills"]
++++
+In the spring of 1901, one of these slides broke loose and came down the slope of Gray's Peak. For years the snow had accumulated on a ridge above timber-line.
+
+![A kitten](b.jpg)
+
+The mass shot down a steep slope, struck the woods, and swept to the bottom about four thousand feet below, mowing down every tree in a pathway about three hundred feet wide. About one hundred thousand trees were piled in wild, broken wreckage in the gorge below.
+
+[Link to Post 42](/posts/post-42)
+
+Although a snow-slide is almost irresistible, it is not difficult, in many localities, to prevent slides by anchoring the small snow-drift which would slip and start the slide. In the West, a number of slides have been suppressed by setting a few posts in the upper reaches of slopes and gulches. These posts pinned fast the snow that would slip. The remainder held its own. The Swiss, too, have eliminated many Alpine slides by planting hardy shrubbery in the slippery snowy areas. This anchorage gives the snow a hold until it can compact and freeze fast. Shrubbery thus is preventing the white avalanche!
+
+A slide once took me with it. I was near the bottom of one snowy arm of a V gulch, waiting to watch Gravity, the world-leveler, take his next fragment of filling to the lowlands. Separating these arms was a low, tongue-like rock-ledge. A gigantic snow-cornice and a great snow-field filled, with full-heaped and rounded measure, the uppermost parts of the other arm.

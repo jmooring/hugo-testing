@@ -9,7 +9,13 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{/* Infinite Ajax Scroll */}}
+  {{ $pages := where site.RegularPages "Type" "posts"}}
+  {{ with $pages }}
+    {{ with index . 0 }}
+      {{ partial "render-content.html" (dict "page" . "pages" $pages) }}
+    {{ end }}
   {{ end }}
+
 {{ end }}

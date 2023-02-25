@@ -1,3 +1,29 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://example.org/foo/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #43127'
+paginate = 3
+
+# Infinite Ajax Scroll
+[params.ias]
+showSummary = false # default is false
+showContent = true # default is true
+
+# Required for Infinite Ajax Scroll
+[outputFormats.INNER]
+mediaType = "text/html"
+baseName = "inner"
+permalinkable = true
+
+[outputs]
+page = ['HTML', 'INNER']
+
+# Menu entries
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20

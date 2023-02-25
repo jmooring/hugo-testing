@@ -1,0 +1,67 @@
+{{- /*
+Renders content that appears when using Infinite Ajax Scroll on a list page.
+
+Control whether to display .Content or .Summary. with the following settings
+in site configuration:
+
+  [params.ias]
+  showSummary = false # default is false
+  showContent = true # default is true
+
+When this partial is called from an HTML output format template:
+
+- $page represents the HTML output format
+- $pages represents the HTML ouput format (same as below)
+
+When this partial is called from an INNER output format template:
+
+- $page represents the INNER output format
+- $pages represents the HTML ouput format (same as above)
+
+@param {page} The current page.
+@param {page.Pages} The current page collection.
+@returns {template.HTML}
+
+@example {{ partial "render-content.html" (dict "page" . "pages" $pages) }}
+*/}}
+
+{{- /* Get context; see notes above. */}}
+{{- $page := .page }}
+{{- $pages := .pages }}
+
+{{- /* Get the RelPermalink for the HTML output format. */}}
+{{- $htmlRelPermalink := ($page.OutputFormats.Get "HTML").RelPermalink }}
+
+{{- /* Render the content. */}}
+<div class="ias-container">
+  <div class="ias-item">
+    <h2><a href="{{ $htmlRelPermalink }}">{{ $page.LinkTitle }}</a></h2>
+    {{- if site.Params.ias.showSummary | default false }}
+      <div class="summmary">
+        {{ $page.Summary | chomp }}
+        <a href="{{ $htmlRelPermalink }}">{{ or (T "learn_more") "learn more..." | strings.FirstUpper | safeHTML }}</a>
+      </div>
+    {{- end }}
+    {{- if site.Params.ias.showContent | default true }}
+      {{ $page.Content }}
+    {{- end }}
+  </div>
+</div>
+
+{{- /* Render the div to display when there's no more conetnt. */}}
+<div class="ias-no-more-items">
+  <a href="{{ site.Home.RelPermalink }}">
+    {{ or (T "no_more_items") "no more items" | strings.FirstUpper | safeHTML }}
+  </a>
+</div>
+
+{{- /* The link to the next page must be the INNER ouptut format. */}}
+{{- with $pages.Prev $page }}
+  {{- with  .OutputFormats.Get "INNER" -}}
+    {{- with .RelPermalink }}
+      <div class="ias-pagination">
+        <a href="{{ . }}" class="ias-next">Next</a>
+      </div>
+    {{- end }}
+  {{- end }}
+{{- end }}

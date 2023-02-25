@@ -4,11 +4,37 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+  {{/* CSS */}}
+  {{ with resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ end }}
+
+  {{/* JS */}}
+  {{ $opts := dict "minify" true }}
+  {{ with resources.Get "js/main.js" | js.Build $opts | fingerprint }}
+    <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+  {{ end }}
+
 </head>
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
+
+    {{ with site.Menus.main }}
+      <nav class="menu">
+        {{ range . }}
+          {{ if $.IsMenuCurrent .Menu . }}
+            <a class="active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
+          {{ else }}
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
     <hr>
+
   </header>
   <main>
     {{ block "main" . }}{{ end }}

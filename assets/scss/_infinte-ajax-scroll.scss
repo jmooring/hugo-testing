@@ -1,0 +1,20 @@
+// Infinite Ajax Scroll
+// ----------------------------------------------------------------------------
+
+.ias-no-more-items {
+  opacity: 0; // required by ias
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.ias-no-more-items a {
+  background-color: #333;
+  border-radius: 4px;
+  color: #fff;
+  padding: 0.5em 2em;
+  &:hover {
+    background-color: #555;
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,9 @@
+{{- /*
+Infinite Ajax Scroll
+
+The page collection must be identical to the page collection defined in the
+list template, including the sort order.
+*/}}
+{{- $pages := where site.RegularPages "Type" "posts" }}
+{{- $page := . }}
+{{- partial "render-content.html" (dict "page" $page "pages" $pages) }}

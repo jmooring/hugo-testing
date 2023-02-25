@@ -1,0 +1,37 @@
+// Pagination
+// ----------------------------------------------------------------------------
+
+ul.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 2rem 0 0 0;
+}
+
+ul.pagination li.page-item {
+  list-style-type: none;
+  margin: 0 0.2em;
+}
+
+ul.pagination li.page-item a.page-link {
+  border-radius: 4px;
+  padding: 0.2em 0.6em;
+}
+
+ul.pagination li.page-item a:hover.page-link {
+  background-color: #555;
+  color: #fff;
+}
+
+ul.pagination li.page-item.disabled a:hover.page-link {
+  background-color: #fff;
+  color: #222;
+  cursor: auto;
+}
+
+ul.pagination li.page-item.active a.page-link {
+  background-color: #333;
+  color: white;
+  cursor: auto;
+}
