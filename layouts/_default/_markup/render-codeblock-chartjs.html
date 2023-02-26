@@ -1,0 +1,6 @@
+{{ $id := printf "chart-js-%d" .Ordinal }}
+<div><canvas id="{{ $id }}"></canvas></div>
+<script>
+  const ctx = document.getElementById({{ $id }});
+  new Chart(ctx, {{ .Inner | safeJS }} );
+</script>
