@@ -4,4 +4,3 @@
   var ctx = document.getElementById({{ $id }});
   new Chart(ctx, {{ .Inner | safeJS }} );
 </script>
-{{- .Page.Store.Set "chart-js" true -}}

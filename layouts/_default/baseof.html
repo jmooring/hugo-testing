@@ -5,12 +5,18 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
 
-  {{ with resources.Get "scss/main.scss" | toCSS }}
+  {{ with resources.Get "scss/main.scss" | toCSS | minify }}
     <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{ end }}
 
-  {{ with resources.Get "js/main.js" | js.Build }}
+  {{ $opts := dict "minify" true }}
+  {{ with resources.Get "js/main.js" | js.Build $opts }}
     <script src="{{ .RelPermalink }}"></script>
+  {{ end }}
+
+  {{ $noop := .WordCount }}
+  {{ if or (.HasShortcode "chart") (.Store.Get "chart-js") }}
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   {{ end }}
 
 </head>
