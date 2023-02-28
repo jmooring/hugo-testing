@@ -1,3 +1,17 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #43138'
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+uglyURLs = true
+
+[mediaTypes."text/print"]
+suffixes = ["print.html"]
+
+[outputFormats.PRINT]
+mediaType = "text/print"
+
+[outputs]
+page = ['HTML','PRINT']
+section = ['HTML','PRINT']
+home = ['HTML','PRINT']

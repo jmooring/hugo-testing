@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+  <hr>
+  <p style="color: darkred;">[layouts/_default/list.print.html]</p>
+  <hr>
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ end }}
+{{ end }}
