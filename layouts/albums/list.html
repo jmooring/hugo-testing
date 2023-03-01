@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div>
+      {{ with .Params.related_blog }}
+        {{ with $.GetPage (printf "/blog/%s" .) }}
+          Related blog post: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}
