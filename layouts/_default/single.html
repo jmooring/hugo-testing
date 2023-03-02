@@ -1,4 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+<pre>{{ jsonify (dict "indent" "  ") (partialCached "get-data.html" . ) }}</pre>
+
 {{ end }}

@@ -1,0 +1,12 @@
+{{ $d := "" }}
+{{ $u :="https://www.mooring.com/tests/data/books.json" }}
+{{ with resources.GetRemote $u }}
+  {{ with .Err }}
+    {{ errorf "%s" }}
+  {{ else }}
+    {{ $d = unmarshal . }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote data at %s" $u }}
+{{ end }}
+{{ return $d }}
