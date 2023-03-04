@@ -1,0 +1,4 @@
+{{ range index site.Data.steps "steps" (.Get 0) }}
+  {{.title}}
+  {{.description}}
+{{ end }}

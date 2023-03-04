@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/43283'
 description = "Shortcode with custom key value to range"
 +++
+
+{{< steps "item-a" >}}
