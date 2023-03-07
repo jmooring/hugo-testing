@@ -1,134 +1,150 @@
+{{- /* Last modified: 2023-03-03T22:01:16-08:00 }}
+
 {{- /*
-Renders a table of contents by parsing the rendered page content.
+Copyright 2023 Veriphor LLC
 
-Defaults:
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
 
-    startLevel:     2 (heading level 2)
-    endLevel:       3 (heading level 3)
-    minNumHeadings: 2 (number of headings required to trigger display)
+https://www.apache.org/licenses/LICENSE-2.0
 
-To override the default settings for the entire site, add this to the site
-configuration:
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+{{- /*
+Renders a table of contents by parsing rendered content.
+
+In site configuration, set the default start level, end level, and the minimum
+number of headings required to show the table of contents:
 
     [params.toc]
-    startLevel = 2
-    endLevel = 4
-    minNumHeadings = 1
+    startLevel = 2      # default is 2
+    endLevel = 3        # default is 3
+    minNumHeadings = 2  # default is 2
 
-To override the default settings for the current page, add this to front
-matter:
+To display the table of contents on a page:
 
+    +++
+    title = 'Post 1'
+    toc = true
+    +++
+
+To display the table of contents on a page, and override one or more of the
+default settings:
+
+    +++
+    title = 'Post 1'
     [toc]
     startLevel = 2
     endLevel = 4
     minNumHeadings = 1
+    +++
 
-The presence of all or a portion of the [toc] table in front matter will enable
-the table of contents for the current page, provided that the number of
-headings is greater than or equal to minNumHeadings.
+Change or localize the title with a "toc_title" key in your i18n file(s).
 
-You can also enable the table of contents for the current page by setting
-toc = true in front matter.
-
-To call the TOC partial from a template:
-
-   {{ partial "toc.html" . }}
-
-You must also provide CSS to place each item on its own line, with the proper
-indentation for each level. For example:
+Start with these basic CSS rules to style the table of contents:
 
     a.toc-item {
       display: block;
-      text-decoration: none;
-      color: #00f;
     }
-
     a.toc-level-1 {
       margin-left: 0em;
     }
-
     a.toc-level-2 {
       margin-left: 1em;
     }
-
     a.toc-level-3 {
       margin-left: 2em;
     }
-
     a.toc-level-4 {
       margin-left: 3em;
     }
-
     a.toc-level-5 {
       margin-left: 4em;
     }
-
     a.toc-level-6 {
       margin-left: 5em;
     }
 
-Finally, to change the class of the outer nav element, or to change the TOC
-title, see the "Initialize constants" section below.
+@param {page} .
+@returns {template.HTML}
+
+@example {{ partial "toc-from-parsed-content.html" . }}
 */}}
 
-{{- if .Params.toc }}
+{{- /* Initialize. */}}
+{{- $partialName := "toc" }}
 
-  {{- /* Initialize constants. */}}
-  {{- $navClass := "toc" }}
-  {{- $navTitle := "On this page" }}
+{{- /* Verify minimum required version. */}}
+{{- $minHugoVersion := "0.111.1" }}
+{{- if lt hugo.Version $minHugoVersion }}
+  {{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
+{{- end }}
 
-  {{- /* Get configuration. */}}
-  {{- $cfg := dict "startLevel" 2 "endLevel" 3 "minNumHeadings" 2 }}
-  {{- with .Param "toc.startLevel" }}
-    {{- $cfg = merge $cfg (dict "startLevel" .) }}
-  {{- end }}
-  {{- with .Param "toc.endLevel" }}
-    {{- $cfg = merge $cfg (dict "endLevel" .) }}
-  {{- end }}
-  {{- with .Param "toc.minNumHeadings" }}
-    {{- $cfg = merge $cfg (dict "minNumHeadings" .) }}
-  {{- end }}
+{{- /* Determine content path for warning and error messages. */}}
+{{- $contentPath := "" }}
+{{- with .File }}
+  {{- $contentPath = .Path }}
+{{- else }}
+  {{- $contentPath = .Path }}
+{{- end }}
 
-  {{- /* Determine path to content for error and warning messages. */}}
-  {{- $path := "" }}
-  {{- with .File }}
-    {{- $path = .Path }}
-  {{- else }}
-    {{- $path = .Path }}
-  {{- end }}
+{{- /* Get configuration. */}}
+{{- $startLevel := or (page.Param "toc.startLevel" | int) 2 }}
+{{- $endLevel := or (page.Param "toc.endLevel" | int) 3 }}
+{{- $minNumHeadings := or (page.Param "toc.minNumHeadings" | int) 2 }}
 
-  {{- /* Get headings. */}}
-  {{- $headings := slice }}
-  {{- $ids := slice }}
-  {{- range findRE `(?is)<h\d.*?</h\d>` .Content }}
-    {{- $level := substr . 2 1 | int }}
-    {{- if and (ge $level $cfg.startLevel) (le $level $cfg.endLevel) }}
-      {{- $text := replaceRE `(?is)<h\d.*?>(.+?)</h\d>` "$1" . | plainify }}
-      {{- $text = trim $text " " | safeHTML }}
-      {{- $id := "" }}
-      {{- if findRE `id=` . }}
-        {{- $id = replaceRE `(?is).+?\s+id=(?:\x22|\x27)?(.*?)(?:\x22|\x27)?[\s>].+` "$1" . }}
-        {{- $ids = $ids | append $id }}
-      {{- else }}
-        {{- warnf "The %q heading does not have an id attribute, and will not appear in the table of contents. See %s" $text $path }}
-        {{- continue }}
+{{- /* Get headings. */}}
+{{- $headings := slice }}
+{{- $ids := slice }}
+{{- range findRE `(?is)<h\d.*?</h\d>` .Content }}
+  {{- $level := substr . 2 1 | int }}
+  {{- if and (ge $level $startLevel) (le $level $endLevel) }}
+    {{- $text := replaceRE `(?is)<h\d.*?>(.+?)</h\d>` "$1" . }}
+    {{- $text = trim $text " " | plainify }}
+    {{- $id := "" }}
+    {{- if findRE `\s+id=` . }}
+      {{- $id = replaceRE `(?is).+?\s+id=(?:\x22|\x27)?(.*?)(?:\x22|\x27)?[\s>].+` "$1" . }}
+      {{- $ids = $ids | append $id }}
+      {{- if not $id }}
+        {{- errorf "The %q partial detected that the %q heading has an empty ID attribute. See %s" $partialName $text $contentPath }}
       {{- end }}
-      {{- $headings = $headings | append (dict "id" $id "level" $level "text" $text) }}
+    {{- else }}
+      {{- errorf "The %q partial detected that the %q heading does not have an ID attribute. See %s" $partialName $text $contentPath }}
     {{- end }}
+    {{- $headings = $headings | append (dict "id" $id "level" $level "text" $text) }}
   {{- end }}
+{{- end }}
 
-  {{- /* Check for duplicate id attributes. */}}
-  {{- if ne ($ids | len) ($ids | uniq | len) }}
-    {{- errorf "The %q page contains duplicate heading id attributes" $path }}
+{{- /* Check for duplicate heading IDs. */}}
+{{- $unique := slice }}
+{{- $duplicates := slice }}
+{{- range $ids }}
+  {{- if in $unique . }}
+    {{- $duplicates = $duplicates | append . }}
+  {{- else }}
+    {{- $unique = $unique | append . }}
   {{- end }}
+{{- end }}
+{{- with $duplicates }}
+  {{- errorf "The %q partial detected duplicate heading IDs (%s) in %s" $partialName (delimit . ", ") $contentPath }}
+{{- end }}
 
-  {{- /* Render */}}
+{{- /* Render */}}
+{{- if .Params.toc }}
   {{- with $headings }}
-    {{- if ge (len $headings) $cfg.minNumHeadings }}
-      <nav class="{{ $navClass }}">
-        <div class="toc-title">{{ $navTitle }}</div>
+    {{- if ge (len .) $minNumHeadings }}
+      <nav class="toc">
+        <div class="toc-title">
+          {{ or (T "toc_title") "Table of contents" | safeHTML }}
+        </div>
         {{- range . }}
-          {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $cfg.startLevel))) }}
+          {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $startLevel))) }}
           {{- with .id }}
             {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
           {{- end }}
@@ -136,16 +152,9 @@ title, see the "Initialize constants" section below.
           {{- range $k, $v := $attrs }}
             {{- printf " %s=%q" $k $v | safeHTMLAttr }}
           {{- end -}}
-          >{{- .text }}</a>
+          >{{ .text }}</a>
         {{- end }}
       </nav>
     {{- end }}
   {{- end }}
-
-  {{- /* Debug */}}
-  {{- if false }}
-    <pre>{{- jsonify (dict "indent" "  ") $cfg }}</pre>
-    <pre>{{- jsonify (dict "indent" "  ") $headings }}</pre>
-  {{- end }}
-
 {{- end }}
