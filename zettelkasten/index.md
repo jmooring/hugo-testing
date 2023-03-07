@@ -3,6 +3,7 @@
 ## Todo
 
 - [Todo](todo.md)
+- bar baz
 
 ## Topics
 

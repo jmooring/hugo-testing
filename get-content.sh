@@ -6,14 +6,20 @@
 #------------------------------------------------------------------------------
 
 main() {
-  declare -r source_dir=zettelkasten
+  declare -r source_dir=/home/jmooring/code/hugo-testing/zettelkasten
   declare -r target_dir=content
   declare -a files
   declare date date_modified file file_ext front_matter target_file title
 
-  # Remove and create target directory; must be cleared before each run.
-  rm -rf "${target_dir}"
-  mkdir "${target_dir}"
+  # CD into directory in which script resides; required for incron task.
+  cd "$(dirname "$0")";
+
+  # Clear target directory if it exists, else create it.
+  if [[ -d "${target_dir}" ]]; then
+    rm -rf "${target_dir:?}"/*
+  else
+    mkdir "${target_dir}"
+  fi
 
   # Recursively copy files from source directory to target directory.
   cp -r "${source_dir}/"* "${target_dir}"
