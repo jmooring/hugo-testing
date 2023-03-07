@@ -33,3 +33,19 @@ Make sure that get-content.sh has execute permissions, then run:
 ```
 
 Your original files are in the zettelkasten directory, but they could be anywhere on your system... just change the source directory in the script.
+
+## Live reload
+
+Setup incron to watch the source directory, and trigger a call to get-content.sh upon file creation or modification. The incron tab would look something like:
+
+```text
+/home/jmooring/code/hugo-testing/zettelkasten   IN_MODIFY,IN_CREATE     /home/jmooring/code/hugo-testing/get-content.sh
+```
+
+The default file watcher in Hugo's dev server does not detect changes, so use the polling method instead.
+
+```text
+hugo server --poll 200ms
+```
+
+This is brute force for now; it rebuilds every file. Modify the script to target just the file that was created/changed.
