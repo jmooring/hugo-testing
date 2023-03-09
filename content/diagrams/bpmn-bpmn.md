@@ -6,7 +6,7 @@ categories = ['Diagram']
 types =  ['BPMN']
 weight = 60
 +++
-{{< kroki type="bpmn" >}}
+```kroki {type=bpmn}
 <?xml version="1.0" encoding="UTF-8"?>
 <semantic:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:semantic="http://www.omg.org/spec/BPMN/20100524/MODEL" id="_1275940932088" targetNamespace="http://www.trisotech.com/definitions/_1275940932088" exporter="Camunda Modeler" exporterVersion="1.16.0">
   <semantic:message id="_1275940932310" />
@@ -139,7 +139,7 @@ weight = 60
     <semantic:messageFlow id="_6-640" name="pizza" sourceRef="_6-514" targetRef="_6-202" />
     <semantic:messageFlow id="_6-750" name="" sourceRef="CalmCustomerTask" targetRef="_6-236" />
   </semantic:collaboration>
-  <bpmndi:BPMNDiagram id="Trisotech.Visio-_6" name="Untitled Diagram" documentation="" resolution="96.00000267028808">
+  <bpmndi:BPMNDiagram id="Trisotech.Visio-_6" name="Untitled diagram" documentation="" resolution="96.00000267028808">
     <bpmndi:BPMNPlane bpmnElement="C1275940932557">
       <bpmndi:BPMNShape id="Trisotech.Visio__6-53" bpmnElement="_6-53" isHorizontal="true">
         <dc:Bounds x="12" y="12" width="1044" height="294" />
@@ -390,4 +390,4 @@ weight = 60
     </bpmndi:BPMNPlane>
   </bpmndi:BPMNDiagram>
 </semantic:definitions>
-{{< /kroki >}}
+```

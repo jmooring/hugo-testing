@@ -1,12 +1,12 @@
 +++
-title = 'Commit Graph (Pikchr)'
+title = 'Commit graph (Pikchr)'
 date = 2022-02-02T05:52:56-08:00
 draft = false
 categories = ['Graph']
 types =  ['Pikchr']
 weight = 260
 +++
-{{< kroki type="pikchr" >}}
+```kroki {type=pikchr}
 scale = 0.8
 fill = white
 linewid *= 0.5
@@ -67,4 +67,4 @@ box same width previous.e.x - C2.w.x \
     fill 0x9accfc
 "trunk" below at 2nd last box.s
 "feature branch" above at last box.n
-{{< /kroki >}}
+```

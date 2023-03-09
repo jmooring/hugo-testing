@@ -1,12 +1,12 @@
 +++
-title = 'Container Diagram (PlantUML)'
+title = 'Container diagram (PlantUML)'
 date = 2022-02-02T05:54:20-08:00
 draft = false
 categories = ['C4']
 types =  ['PlantUML']
 weight = 20
 +++
-{{< kroki type="plantuml" >}}
+```kroki {type=plantuml}
 @startuml
 !include C4_Container.puml
 
@@ -41,4 +41,4 @@ Rel_Back(customer, email_system, "Sends e-mails to")
 Rel_Back(email_system, backend_api, "Sends e-mails using", "sync, SMTP")
 Rel_Neighbor(backend_api, banking_system, "Uses", "sync/async, XML/HTTPS")
 @enduml
-{{< /kroki >}}
+```

@@ -1,12 +1,12 @@
 +++
-title = 'Diverging Stacked Bar Chart (Vega-Lite)'
+title = 'Diverging stacked bar chart (Vega-Lite)'
 date = 2022-02-02T06:31:21-08:00
 draft = false
 categories = ['Visualization']
 types =  ['Vega-Lite']
 weight = 280
 +++
-{{< kroki type="vegalite" >}}
+```kroki {type=vegalite}
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "A diverging stacked bar chart for sentiments towards a set of eight questions, displayed as percentages with neutral responses straddling the 0% mark",
@@ -112,4 +112,4 @@ weight = 280
     }
   }
 }
-{{< /kroki >}}
+```

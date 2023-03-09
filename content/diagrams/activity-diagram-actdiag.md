@@ -1,12 +1,12 @@
 +++
-title = 'Activity Diagram (ActDiag)'
+title = 'Activity diagram (ActDiag)'
 date = 2022-02-02T03:48:36-08:00
 draft = false
 categories = ['Diagram']
 types =  ['ActDiag']
 weight = 40
 +++
-{{< kroki type="actdiag" >}}
+```kroki {type=actdiag}
 {
   write -> convert -> image
 
@@ -19,4 +19,4 @@ weight = 40
     convert [label = "Convert reST to Image"];
   }
 }
-{{< /kroki >}}
+```

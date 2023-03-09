@@ -37,7 +37,7 @@
         {{- with .Err -}}
           {{- errorf "The %q shortcode was unable to get the remote diagram. Details: %s. See %s" $.Name . $.Position -}}
         {{- else -}}
-          {{- .Content | safeHTML -}}
+          <img src="{{ .RelPermalink }}" width="100%" height="auto" alt="diagram">
         {{- end -}}
       {{- else -}}
         {{- errorf "The %q shortcode was unable to get the remote diagram. See %s" $.Name $.Position -}}

@@ -1,12 +1,12 @@
 +++
-title = 'Sequence Diagram (Mermaid)'
+title = 'Sequence diagram (Mermaid)'
 date = 2022-02-02T03:42:13-08:00
 draft = false
 categories = ['Diagram']
 types =  ['Mermaid']
 weight = 150
 +++
-{{< kroki type="mermaid" >}}
+```kroki {type=mermaid}
 sequenceDiagram
   participant Alice
   participant Bob
@@ -18,4 +18,4 @@ sequenceDiagram
   John-->Alice: Great!
   John->Bob: How about you?
   Bob-->John: Jolly good!
-{{< /kroki >}}
+```

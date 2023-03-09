@@ -1,9 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #36924'
-
-disableKinds = ['RSS','sitemap']
+disableKinds = ['RSS', 'sitemap']
 
 [taxonomies]
 category = 'categories'
 type = 'types'
+
+[markup.highlight]
+style = 'monokai'

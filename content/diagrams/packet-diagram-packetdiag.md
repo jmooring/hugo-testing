@@ -1,12 +1,12 @@
 +++
-title = 'Packet Diagram (PacketDiag)'
+title = 'Packet diagram (PacketDiag)'
 date = 2022-02-02T03:52:37-08:00
 draft = false
 categories = ['Diagram']
 types =  ['PacketDiag']
 weight = 130
 +++
-{{< kroki type="packetdiag" >}}
+```kroki {type=packetdiag}
 {
   colwidth = 32;
   node_height = 72;
@@ -29,4 +29,4 @@ weight = 130
   160-191: (Options and Padding);
   192-223: data [colheight = 3];
 }
-{{< /kroki >}}
+```

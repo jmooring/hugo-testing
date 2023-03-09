@@ -1,12 +1,12 @@
 +++
-title = 'UML Diagram (Nomnoml)'
+title = 'UML diagram (Nomnoml)'
 date = 2022-02-02T04:15:28-08:00
 draft = false
 categories = ['Diagram']
 types =  ['Nomnoml']
 weight = 190
 +++
-{{< kroki type="nomnoml" >}}
+```kroki {type=nomnoml}
 [Pirate|eyeCount: Int|raid();pillage()|
   [beard]--[parrot]
   [beard]-:>[foul mouth]
@@ -23,4 +23,4 @@ weight = 190
 
 [<start>st]->[<state>plunder]
 [plunder]->[<choice>more loot]
-{{< /kroki >}}
+```

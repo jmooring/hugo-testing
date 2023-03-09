@@ -1,12 +1,12 @@
 +++
-title = 'Component Diagram (PlantUML)'
+title = 'Component diagram (PlantUML)'
 date = 2022-02-02T05:54:20-08:00
 draft = false
 categories = ['C4']
 types =  ['PlantUML']
 weight = 10
 +++
-{{< kroki type="plantuml" >}}
+```kroki {type=plantuml}
 @startuml
 !include C4_Component.puml
 
@@ -37,4 +37,4 @@ Rel(spa, accounts, "Uses", "JSON/HTTPS")
 Rel(ma, sign, "Uses", "JSON/HTTPS")
 Rel(ma, accounts, "Uses", "JSON/HTTPS")
 @enduml
-{{< /kroki >}}
+```

@@ -1,12 +1,12 @@
 +++
-title = 'State Machine (UMlet)'
+title = 'State machine (UMlet)'
 date = 2022-02-02T05:25:59-08:00
 draft = false
 categories = ['Diagram']
 types =  ['UMlet']
 weight = 170
 +++
-{{< kroki type="umlet" >}}
+```kroki {type=umlet}
 <?xml version="1.0" encoding="UTF-8"?>
 <umlet_diagram>
     <element>
@@ -360,4 +360,4 @@ validity
         <additional_attributes>transparentSelection=false</additional_attributes>
     </element>
 </umlet_diagram>
-{{< /kroki >}}
+```
