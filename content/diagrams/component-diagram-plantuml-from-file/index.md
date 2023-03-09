@@ -6,4 +6,4 @@ categories = ['C4']
 types =  ['PlantUML']
 weight = 11
 +++
-{{< kroki type="plantuml" file="diagram-b.txt" >}}
+{{< kroki type="plantuml" file="diagram-b.txt" />}}

@@ -6,4 +6,4 @@ categories = ['Diagram']
 types =  ['ActDiag']
 weight = 41
 +++
-{{< kroki type="actdiag" file="diagram-a.txt" >}}
+{{< kroki type="actdiag" file="diagram-a.txt" />}}
