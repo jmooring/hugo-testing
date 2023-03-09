@@ -1,0 +1,15 @@
+{{ with site.Menus.main }}
+  <nav class="menu">
+    {{ range . }}
+      {{ $href := .URL }}
+      {{ with .Params.fragment }}
+        {{ $href = printf "%s#%s" $href . }}
+      {{ end }}
+      {{ if $.IsMenuCurrent .Menu . }}
+        <a class="active" aria-current="page" href="{{ $href }}">{{ .Name }}</a>
+      {{ else }}
+        <a href="{{ $href }}">{{ .Name }}</a>
+      {{ end }}
+    {{ end }}
+  </nav>
+{{ end }}
