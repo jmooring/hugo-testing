@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #43359'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-03-08T22:16:13-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/43359'
+description = "Correct way to link to a html element from a menu"
 +++
