@@ -1,0 +1,10 @@
+{{ with $captureName := .Get 0 }}
+  {{ with $.Inner }}
+    {{ $id := printf "%d" $.Ordinal }}
+    {{ $.Page.Store.SetInMap $captureName $id (string .) }}
+  {{ else }}
+    {{ errorf "The %s shortcode requires 'Inner' content. See %s" $.Name $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %s shortcode requires a single positional parameter. See %s" $.Name $.Position }}
+{{ end }}
