@@ -6,3 +6,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/43387'
 description = "Unknown shortcode token error in v0.111.x"
 +++
+
+```go
+{{< sc >}}
+```
