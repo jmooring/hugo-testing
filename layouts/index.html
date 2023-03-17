@@ -1,0 +1,2 @@
+{{ $opts := dict "config" "foo/bar.config.js" "nomap" true }}
+{{ (resources.Get "main.css" | postCSS $opts).Content }}
