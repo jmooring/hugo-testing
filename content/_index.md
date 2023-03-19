@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #10847'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-03-18T17:03:17-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/10847'
+description = "resources/page: Allow section@@DESCRIPTION@@taxonomy pages to have a permalink configuration"
 +++
