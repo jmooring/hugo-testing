@@ -2,7 +2,7 @@
 
 Details: <https://github.com/gohugoio/hugo/issues/10847>
 
-Description: resources/page: Allow section@@DESCRIPTION@@taxonomy pages to have a permalink configuration
+Description: resources/page: Allow section & taxonomy pages to have a permalink configuration
 
 ## Instructions
 

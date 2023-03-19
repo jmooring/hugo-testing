@@ -1,3 +1,55 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10847'
+disableKinds = ['RSS','sitemap']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[taxonomies]
+tag = 'tags'
+
+[languages.en]
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+
+[languages.de]
+languageCode = 'de-DE'
+languageName = 'Deutsch'
+weight = 2
+
+[languages.en.permalinks.section]
+books = 'my-books-en'
+[languages.en.permalinks.page]
+books = 'my-books-en/:slug'
+
+[languages.en.permalinks.taxonomy]
+tags = 'my-tags-en'
+[languages.en.permalinks.term]
+tags = 'my-tags-en/:slug'
+
+[languages.de.permalinks.section]
+books = 'my-books-de'
+[languages.de.permalinks.page]
+books = 'my-books-de/:slug'
+
+[languages.de.permalinks.taxonomy]
+tags = 'my-tags-de'
+[languages.de.permalinks.term]
+tags = 'my-tags-de/:slug'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[menu.main]]
+name = 'Films'
+pageRef = '/films'
+weight = 30

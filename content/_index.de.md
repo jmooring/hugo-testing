@@ -1,5 +1,5 @@
 +++
-title = 'Hugo GitHub Issue #10847 (en)'
+title = 'Hugo GitHub Issue #10847 (de)'
 linkTitle = 'Home'
 date = 2023-03-18T17:03:17-07:00
 draft = false
