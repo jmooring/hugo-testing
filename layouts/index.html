@@ -1,0 +1,10 @@
+{{ $u := "https://api.maptiler.com/tiles/v3-openmaptiles/0/0/0.pbf?key=143k20pEdcyOeBepEEnR" }}
+{{ with resources.GetRemote $u }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ .Content | len }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %s" $u }}
+{{ end }}
