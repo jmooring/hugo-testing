@@ -1,6 +1,11 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+<h1>{{ .Title }}</h1>
+
+{{ if ne .Params.Type "page" }}
+  {{ partial "metadata.html" . }}
+{{ end }}
+
+{{ .Content }}
 
 {{ if .Page.Store.Get "hasMermaid" }}
   <script type="module">
@@ -8,5 +13,40 @@
     mermaid.initialize({ startOnLoad: true });
   </script>
 {{ end }}
+
+{{ if .Params.categories }}
+
+  <p><strong>Related categories:</strong></p>
+
+  <ul>
+
+  {{ with .Params.categories }}
+  {{ range . }}
+  {{ $href := print (absURL "categories/") (urlize .) }}
+  <li><a href="{{ $href }}">{{ . }}</a></li>
+  {{ end }}
+  {{ end }}
+
+  </ul>
+
+{{ end }}
+
+{{ if .Params.tags }}
+
+  <p><strong>Related tags:</strong></p>
+
+  <ul>
+
+  {{ with .Params.tags }}
+  {{ range . }}
+  {{ $href := print (absURL "tags/") (urlize .) }}
+  <li><a href="{{ $href }}">{{ . }}</a></li>
+  {{ end }}
+  {{ end }}
+
+  </ul>
+
+{{ end }}
+
 
 {{ end }}
