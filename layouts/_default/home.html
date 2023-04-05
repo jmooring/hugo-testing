@@ -9,7 +9,19 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ warnf "Compress a JPEG image 5 times..." }}
+  {{ $i := resources.Get "a.jpg" }}
+  {{ range seq 5 }}
+    {{ $i = $i.Resize (printf "%dx%d jpeg q60" $i.Width $i.Height) }}
+    {{ warnf "# %d: %d bytes (sha1: %s)" . (len $i.Content) (sha1 $i.Content)}}
   {{ end }}
+
+  {{ warnf "Compress a WebP image 5 times..." }}
+  {{ $i := resources.Get "a.webp" }}
+  {{ range seq 5 }}
+    {{ $i = $i.Resize (printf "%dx%d webp q60" $i.Width $i.Height) }}
+    {{ warnf "# %d: %d bytes (sha1: %s)" . (len $i.Content) (sha1 $i.Content)}}
+  {{ end }}
+
 {{ end }}
