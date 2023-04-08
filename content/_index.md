@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #43801'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-04-08T11:49:41-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/43801'
+description = "Internal links not working it points to md file instead of html file in netlify?"
 +++
