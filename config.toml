@@ -1,3 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #43801'
+
+[params.render_hooks.link]
+errorLevel = 'error' # ignore (default), warning, or error
