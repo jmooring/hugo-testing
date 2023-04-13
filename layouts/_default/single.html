@@ -1,7 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
 
-  {{ partial "toc.html" . }}
+  {{ partial "toc-parse-content.html" . }}
 
   {{ .Content }}
 {{ end }}

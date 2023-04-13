@@ -1,4 +1,4 @@
-{{- /* Last modified: 2023-03-03T22:01:16-08:00 }}
+{{- /* Last modified: 2023-03-27T11:06:45-07:00 */}}
 
 {{- /*
 Copyright 2023 Veriphor LLC
@@ -40,9 +40,9 @@ default settings:
     +++
     title = 'Post 1'
     [toc]
-    startLevel = 2
-    endLevel = 4
-    minNumHeadings = 1
+    startLevel = 2      # default is 2
+    endLevel = 3        # default is 3
+    minNumHeadings = 2  # default is 2
     +++
 
 Change or localize the title with a "toc_title" key in your i18n file(s).
@@ -71,17 +71,18 @@ Start with these basic CSS rules to style the table of contents:
       margin-left: 5em;
     }
 
-@param {page} .
+@context {page} .
+
 @returns {template.HTML}
 
-@example {{ partial "toc-from-parsed-content.html" . }}
+@example {{ partial "toc-parse-content.html" . }}
 */}}
 
 {{- /* Initialize. */}}
-{{- $partialName := "toc" }}
+{{- $partialName := "toc-parse-content" }}
 
 {{- /* Verify minimum required version. */}}
-{{- $minHugoVersion := "0.111.1" }}
+{{- $minHugoVersion := "0.111.3" }}
 {{- if lt hugo.Version $minHugoVersion }}
   {{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
 {{- end }}
@@ -95,9 +96,9 @@ Start with these basic CSS rules to style the table of contents:
 {{- end }}
 
 {{- /* Get configuration. */}}
-{{- $startLevel := or (page.Param "toc.startLevel" | int) 2 }}
-{{- $endLevel := or (page.Param "toc.endLevel" | int) 3 }}
-{{- $minNumHeadings := or (page.Param "toc.minNumHeadings" | int) 2 }}
+{{- $startLevel := or ($.Param "toc.startLevel" | int) 2 }}
+{{- $endLevel := or ($.Param "toc.endLevel" | int) 3 }}
+{{- $minNumHeadings := or ($.Param "toc.minNumHeadings" | int) 2 }}
 
 {{- /* Get headings. */}}
 {{- $headings := slice }}
