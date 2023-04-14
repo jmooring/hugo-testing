@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #43912'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-04-14T15:58:08-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/43912'
+description = "Markdown editor for text with images readable by both editor @@DESCRIPTION@@ Hugo"
 +++
