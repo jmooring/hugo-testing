@@ -1,3 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://example.org/foo/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #43912'
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'attachments'
+target = 'static/attachments'

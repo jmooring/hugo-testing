@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "attachments",
+  "newFileFolderPath": "content",
+  "newFileLocation": "folder",
+  "newLinkFormat": "relative",
+  "showFrontmatter": true,
+  "useMarkdownLinks": true
+}
