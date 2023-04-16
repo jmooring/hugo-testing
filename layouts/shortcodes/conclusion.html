@@ -1,0 +1,6 @@
+{{ $data := index .Site.Data.post .Page.Params.reference }}
+{{ with $data.conclusion }}
+  <div style="">
+    <p>{{ .text }}</p>
+  </div>
+{{ end }}
