@@ -1,3 +1,54 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #43979'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# Lang
+
+[languages.en]
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+
+[languages.de]
+languageCode = 'de-DE'
+languageName = 'Deutsch'
+weight = 2
+
+# Default mounts
+
+[[module.mounts]]
+source = 'content/en'
+target = 'content'
+lang = 'en'
+
+[[module.mounts]]
+source = 'content/de'
+target = 'content'
+lang = 'de'
+
+# Prebuild mounts
+
+[[module.mounts]]
+source = 'prebuild/public/product'
+target = 'content'
+lang = 'en'
+
+[[module.mounts]]
+source = 'prebuild/public/product'
+target = 'content'
+lang = 'de'
+
+# Menu
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Product'
+pageRef = '/product'
+weight = 20

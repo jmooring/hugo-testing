@@ -1,4 +1,13 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+<pre>
+&lbrace;{ .Params.Name }}        --> {{ .Params.Name }}
+&lbrace;{ .Params.Description }} --> {{ .Params.Description }}
+&lbrace;{ i18n "pricing-info" . }} --> {{ i18n "pricing-info" . }}
+</pre>
+
+  <hr>
+
   {{ .Content }}
 {{ end }}

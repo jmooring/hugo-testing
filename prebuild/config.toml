@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '@@TITLE@@'
+disableKinds = ['RSS','sitemap','taxonomy','term','home','section']
+uglyURLs = true
+
+
+[outputs]
+page = ['MARKDOWN']
