@@ -9,6 +9,12 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
+{{ $image := resources.Get .Site.Params.siteLogo }}
+{{ with $image }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+{{ end }}
+
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
