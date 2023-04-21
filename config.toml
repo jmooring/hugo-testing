@@ -1,3 +1,31 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #44014'
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[[module.mounts]]
+source = 'content-prior-versions'
+target = 'content'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Product 1'
+pageRef = '/product-1'
+weight = 20
+
+[[menu.main]]
+name = 'Product 1 (v1.0)'
+pageRef = '/product-1/1.0'
+weight = 20
+
+[[menu.main]]
+name = 'Product 1 (v1.1)'
+pageRef = '/product-1/1.1'
+weight = 20
