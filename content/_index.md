@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44028'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-04-22T12:28:58-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/44028'
+description = "Use JSON value in Front Matter"
 +++
