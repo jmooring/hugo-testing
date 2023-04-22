@@ -6,13 +6,11 @@ defaultContentLanguage = 'sr'
 defaultContentLanguageInSubdir = true
 
 [languages.sr]
-contentDir = 'content/sr'
 languageCode = 'sr-RS'
 languageName = 'Serbian'
 weight = 1
 
 [languages.en]
-contentDir = 'content/en'
 languageCode = 'en-US'
 languageName = 'English'
 weight = 2
