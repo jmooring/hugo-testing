@@ -1,0 +1,38 @@
+{{- /*
+Returns the value of the given key for the given service.
+
+@param {string} key The key of the value to return (e.g., url).
+@param {string} service The service (e.g., GitHub).
+@param {string} [project] The GitHub project.
+
+@returns {string}
+
+@example {{< get-social-media-value key="url" service="github" project="myProject" >}}
+*/}}
+
+{{- /* Initialize. */}}
+{{- $validServices := slice "GitHub" "LinkedIn" "Stack Overflow" }}
+
+{{- /* Get Params. */}}
+{{- $key := .Get "key" }}
+{{- if not $key }}
+  {{- errorf "The %q shortcode requires a named parameter %q. See %s" .Name "key" .Position }}
+{{- end }}
+
+{{- $service := .Get "service" }}
+{{- with $service }}
+  {{- if not (in $validServices .) }}
+    {{- errorf "The %q parameter passed to the %q shortcode is invalid. The valid services are %s. See %s" "service" $.Name (delimit $validServices ", ") $.Position }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a named parameter %q. See %s" .Name "service" .Position }}
+{{- end }}
+
+{{- $project := .Get "project" }}
+
+{{- /* Render. */}}
+{{- $url := index (index (where site.Data.socialmedia.accounts "name" $service) 0) $key }}
+{{- with $project }}
+  {{- $url = add $url "/" . }}
+{{- end }}
+{{- $url -}}
