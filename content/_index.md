@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44025'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-04-22T11:55:43-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/44025'
+description = "Missing / empty fallback translations"
 +++
