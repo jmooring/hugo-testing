@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44042'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-04-23T10:18:39-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/44042'
+description = "Hugo: Showing a HTML file directly after clicking one post"
 +++
