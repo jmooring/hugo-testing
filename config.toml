@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #44042'
+theme = 'ananke'
 
 [[menu.main]]
 name = 'Home'
