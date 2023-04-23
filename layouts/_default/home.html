@@ -9,7 +9,12 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  {{ end }}
+
+  <p>You should see the address book SVG below:</p>
+  <div style="max-width: 200px;">
+    {{ with resources.Get "mod-icons/fa/svg/regular/address-book.svg" }}
+      {{ .Content | safeHTML }}
+    {{ end }}
+  </div>
+
 {{ end }}
