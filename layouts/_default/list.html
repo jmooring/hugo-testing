@@ -8,4 +8,15 @@
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <div class="lastmod">Last updated: {{ .Lastmod.Format $formatString }}</div>
   {{ end }}
+
+  <hr>
+
+  {{ $lastMod := 0 }}
+  {{ range .Pages }}
+    {{ if gt .Lastmod $lastMod }}
+      {{ $lastMod = .Lastmod }}
+    {{ end }}
+  {{ end }}
+
+  <p>Last updated based on max value of .Lastmod in all pages in range: {{ $lastMod | time.Format $formatString }}</p>
 {{ end }}
