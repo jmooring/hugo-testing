@@ -1,0 +1,9 @@
+{{ with .page.Resources.Get "cover.jpg" }}
+  {{ with .Resize "240x" }}
+    {{ if $.index }}
+      <img class="foo" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ else }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+{{ end }}

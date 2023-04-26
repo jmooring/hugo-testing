@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-44062 https://github.com/jmooring/
 cd hugo-forum-topic-44062
 hugo server
 ```
+
+Then visit the home page and view source (typically Ctrl+U in the browser).

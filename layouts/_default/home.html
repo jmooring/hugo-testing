@@ -9,7 +9,9 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ range $k, $_ := site.RegularPages }}
+    {{ partial "image.html" (dict "page" . "index" $k) }}
   {{ end }}
+
 {{ end }}
