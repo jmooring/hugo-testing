@@ -2,3 +2,19 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #44080'
 enableGitInfo = true
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[frontmatter]
+date = ['date', 'publishDate', 'lastmod']             # default ['date', 'publishDate', 'lastmod']
+expiryDate = ['expiryDate']                           # default ['expiryDate']
+lastmod = [':git', 'lastmod', 'date', 'publishDate']  # default [':git', 'lastmod', 'date', 'publishDate']
+publishDate = ['publishDate', 'date']                 # default ['publishDate', 'date']
