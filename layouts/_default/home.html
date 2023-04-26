@@ -5,11 +5,9 @@
   {{ with .Params.description }}
     <p>Description: {{ . }}</p>
   {{ end }}
-  {{ with or .Params.url .Params.details }}
-    <hr>
-  {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+  <hr>
+  {{ range site.Sections }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ end }}
 {{ end }}
