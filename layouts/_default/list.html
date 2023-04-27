@@ -1,5 +1,8 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ with .GitInfo }}
+    Git author date: {{ .AuthorDate }}
+  {{ end }}
   {{ .Content }}
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
