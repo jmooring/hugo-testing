@@ -4,10 +4,70 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    *,
+    *:before,
+    *:after {
+      box-sizing: inherit;
+    }
+
+    html {
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 0 1rem 3rem;
+      max-width: 768px;
+    }
+
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+
+    nav {
+      margin: 1em 0;
+    }
+
+    nav.menu a,
+    nav.language-switcher a {
+      margin-right: 0.2em;
+    }
+
+    .active {
+      background-color: yellow;
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
+    {{ with .AllTranslations }}
+      <nav class="language-switcher">
+        {{ range . }}
+          {{ if eq .Language.Lang $.Language.Lang }}
+            <a class="active" aria-current="page" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+          {{ else }}
+            <a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
+    {{ with site.Menus.main }}
+      <nav class="menu">
+        {{ range . }}
+          {{ if $.IsMenuCurrent .Menu . }}
+            <a class="active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
+          {{ else }}
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
     <hr>
   </header>
   <main>

@@ -1,3 +1,32 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10917'
+
+defaultContentLanguage = 'ru'
+defaultContentLanguageInSubdir = true
+
+[languages.ru]
+contentDir = 'content.ru'
+languageCode = 'ru-RU'
+languageName = 'Russian'
+weight = 1
+
+[languages.zh]
+contentDir = 'content.zh'
+languageCode = 'zh-CN'
+languageName = 'Chinese'
+weight = 2
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = false
