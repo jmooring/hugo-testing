@@ -2,6 +2,7 @@
 title = 'Project 2'
 date = 2023-04-23T09:59:22-07:00
 draft = false
+relPermalinkOverride = 'https://gohugo.io'
 +++
 Apparently William Penn was the first to honor our scenery, and Bryant, with poetry, won a literary standing for it. Official recognition came later, but the establishment of the Yellowstone National Park was a great incident in the scenic history of America--and in that of the world. For the first time, a scenic wonderland was dedicated as "a public park or pleasure ground for the benefit and enjoyment of all the people." The Yellowstone stands a high tribute to the statesmanship, the public spirit, and the energy of F. V. Hayden and the few men who won it for us.
 

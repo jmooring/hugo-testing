@@ -3,8 +3,12 @@
   <div class="db pv4 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
       {{ $href := .RelPermalink }}
-      {{ with resources.Get .Params.relPermalinkOverride }}
-        {{ $href = .RelPermalink }}
+      {{ with .Params.relPermalinkOverride }}
+        {{ with resources.Get . }}
+          {{ $href = .RelPermalink }}
+        {{ else }}
+          {{ $href = . }}
+        {{ end }}
       {{ end }}
       {{ if $featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
@@ -16,7 +20,7 @@
       {{ end }}
       <div class="blah w-100{{ if $featured_image }} w-60-ns {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr3-ns" "pl3-ns" }}{{ end }}">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="{{ $href}}" class="color-inherit dim link">
+          <a href="{{ $href }}" class="color-inherit dim link">
             {{ .Title }}
             </a>
         </h1>

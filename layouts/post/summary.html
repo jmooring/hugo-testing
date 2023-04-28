@@ -6,8 +6,12 @@
     {{ end }}
     <h1 class="f3 near-black">
       {{ $href := .RelPermalink }}
-      {{ with resources.Get .Params.relPermalinkOverride }}
-        {{ $href = .RelPermalink }}
+      {{ with .Params.relPermalinkOverride }}
+        {{ with resources.Get . }}
+          {{ $href = .RelPermalink }}
+        {{ else }}
+          {{ $href = . }}
+        {{ end }}
       {{ end }}
       <a href="{{ $href }}" class="link black dim">
         {{ .Title }}
