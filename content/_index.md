@@ -88,7 +88,7 @@ When we get this back from Goldmark...
 ...we strip the wrapping `p` tags:
 
 - <https://github.com/gohugoio/hugo/issues/1148>
-- <https://github.com/gohugoio/hugo/blob/master/hugolib/shortcode.go#L697-L703>
+- <https://github.com/gohugoio/hugo/blob/master/hugolib/shortcode.go#L735-L741>
 
 This produces valid and desired HTML for non-phrasing content such as `aside`, `blockquote`, `details`, `div`, `footer`, `h1-h6`, `header`, `hr`, `main`, `nav`, `ol`, `p`, `pre`, `section`, `ul` and others.
 
