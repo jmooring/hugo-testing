@@ -1,0 +1,16 @@
+{{ $quote := .Get 0 }}
+{{ with $quote }}
+  {{ with site.GetPage (printf "quotes/%s" .) }}
+    <p>{{ .Title }}</p>
+    {{ with .Resources.GetMatch "cover.*" }}
+      {{ with .Resize "300x webp" }}
+        <p><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt=""></p>
+      {{ end }}
+    {{ end }}
+    {{ .Content }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %q. See %s" $.Name $quote $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a single positional paramter. See %s" $.Name $.Position }}
+{{ end }}
