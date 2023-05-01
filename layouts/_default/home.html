@@ -9,7 +9,29 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  {{ $years := slice }}
+  {{ $read := slice }}
+  {{ range site.Data.read }}
+    {{ $year := (time.AsTime .date).Year }}
+    {{ $read = $read | append (merge . (dict "year" $year)) }}
+    {{ $years = $years | append $year }}
   {{ end }}
+  {{ $years := $years | uniq | sort }}
+
+  <pre>{{ jsonify (dict "indent" "  ") $read }}</pre>
+
+  {{ range $years }}
+  <h2>{{ . }}</h2>
+  {{ range where $read "year" . }}
+    <pre>
+      Title: {{ .title }}
+      Author: {{ .author }}
+      Rating: {{ .rating }}
+  </pre>
+  {{ end }}
+
+{{ end }}
+
+
 {{ end }}
