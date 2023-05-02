@@ -1,3 +1,31 @@
-baseURL = 'https://example.org/'
+baseURL = '/' # required to navigate site from file system
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #44184'
+disableKinds = ['RSS','sitemap']
+
+uglyURLs = true     # required to navigate site from file system
+relativeURLs = true # required to navigate site from file system
+
+[[menu.main]]
+name = 'Home'
+url = '/index.html' # https://github.com/gohugoio/hugo/issues/7497
+weight = 10
+
+[[menu.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[menu.main]]
+name = 'Films'
+pageRef = '/films'
+weight = 20
+
+[taxonomies]
+genre = 'genres'
+
+[params.render_hooks.link]
+errorLevel = 'error' # ignore (default), warning, or error
+
+[params.render_hooks.image]
+errorLevel = 'error' # ignore (default), warning, or error

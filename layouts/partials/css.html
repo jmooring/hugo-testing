@@ -1,0 +1,5 @@
+{{ $opts := dict "targetPath" "css/style.css" }}
+{{ with resources.Get "scss/main.scss" | toCSS $opts | minify | fingerprint }}
+  {{/* Do not add integrity attribule to link element. It will violate CORS policy due to protocal scheme. */}}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}

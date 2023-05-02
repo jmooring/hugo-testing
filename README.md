@@ -11,5 +11,7 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-forum-topic-44184 https://github.com/jmooring/hugo-testing hugo-forum-topic-44184
 cd hugo-forum-topic-44184
-hugo server
+hugo
 ```
+
+Then, in your OS file browser, navigate to public/index.html and open the file with your web browser.
