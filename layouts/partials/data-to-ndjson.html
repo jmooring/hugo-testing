@@ -1,0 +1,12 @@
+{{ $ndJSON := "" }}
+{{ if reflect.IsSlice . }}
+  {{ range $k, $_ := . }}
+    {{ if $k }}
+      {{ $ndJSON = print $ndJSON "\n" }}
+   {{ end }}
+   {{ $ndJSON = print $ndJSON (jsonify .) }}
+  {{ end }}
+{{ else }}
+  {{ $ndJSON = jsonify . }}
+{{ end }}
+{{ return $ndJSON }}

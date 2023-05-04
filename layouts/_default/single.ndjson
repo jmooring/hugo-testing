@@ -1,0 +1,1 @@
+{{ partial "data-to-ndjson.html" .Params.pets }}
