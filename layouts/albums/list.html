@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range $p := .Pages.ByTitle }}
+    <h2><a href="{{ $p.RelPermalink }}">{{ .Title }}</a></h2>
+    {{ with index (.Resources.ByType "image") 0 }}
+      {{ with .Resize "300x" }}
+        <a href="{{ $p.RelPermalink }}"><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt=""></a>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}

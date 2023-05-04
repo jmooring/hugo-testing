@@ -4,6 +4,11 @@ Details: <https://discourse.gohugo.io/t/44178>
 
 Description: readFile cannot find file when parameter is passed by variable
 
+References:
+
+- <https://photos.sowrey.org/>
+- <https://github.com/gsowrey/photos.sowrey.org>
+
 ## Instructions
 
 Clone this branch of the repository and build the site.

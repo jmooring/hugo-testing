@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range .Resources.ByType "image" }}
+    <img class="r100" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ with .Exif }}
+      {{ partial "render-exif-tags.html" . }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}

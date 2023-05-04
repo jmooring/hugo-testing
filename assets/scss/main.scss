@@ -1,0 +1,49 @@
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 1rem 3rem;
+  max-width: 768px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+nav {
+  margin: 1em 0;
+}
+
+nav.menu a,
+nav.language-switcher a {
+  margin-right: 0.2em;
+}
+
+.active {
+  background-color: yellow;
+}
+
+img.r100 {
+  width: 100%;
+  height: auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table tr td:first-child {
+  padding-right: 3em;
+}
