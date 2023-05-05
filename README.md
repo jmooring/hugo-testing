@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-44216 https://github.com/jmooring/
 cd hugo-forum-topic-44216
 hugo server
 ```
+
+Active menu items are yellow, while ancestor items are cyan.
