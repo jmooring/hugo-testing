@@ -1,3 +1,23 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #44216'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Folder 1'
+pageRef = '/folder-1'
+weight = 20
+
+[[menu.main]]
+name = 'Folder 2'
+pageRef = '/folder-2'
+weight = 30
+
+[[menu.main]]
+name = 'Folder 3'
+pageRef = '/folder-3'
+weight = 30

@@ -1,0 +1,39 @@
+{{- /*
+Renders a section menu.
+
+@param {page} page The current page.
+@param {pages} pages The collection of top-level pages to walk.
+
+@returns {template.HTML}
+
+@example {{- partial "menus/section.html" (dict "page" . "pages" site.Sections) }}
+*/}}
+
+<nav class="menu-section">
+  <ul>
+    {{- partial "section-menu/walk.html" . }}
+  </ul>
+</nav>
+
+{{- define "partials/section-menu/walk.html" }}
+  {{- range .pages }}
+    <li>
+      {{- if .Params.sectionMenuTextOnly }}
+        {{ .LinkTitle }}
+      {{- else }}
+        {{- if .Eq $.page }}
+          <a class="active" aria-current="page" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{- else if in $.page.Ancestors . }}
+          <a class="ancestor" aria-current="true" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{- else }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{- end }}
+      {{- end }}
+      {{- with .Pages }}
+        <ul>
+          {{- partial "section-menu/walk.html" (dict "page" $.page "pages" .) }}
+        </ul>
+      {{- end }}
+    </li>
+  {{- end }}
+{{- end }}
