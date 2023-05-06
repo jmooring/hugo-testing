@@ -9,7 +9,17 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+  <h2>Input</h2>
+
+  {{ with resources.Get "scss/_test.scss" | toCSS }}
+    {{ highlight .Content "text" }}
   {{ end }}
+
+  <h2>Ouptput</h2>
+
+  {{ with resources.Get "scss/_test.scss" | toCSS | postCSS }}
+    {{ highlight .Content "text" }}
+  {{ end }}
+
 {{ end }}

@@ -1,0 +1,68 @@
+// Site
+// ----------------------------------------------------------------------------
+//
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 1rem 3rem;
+  max-width: 768px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+nav {
+  margin: 1em 0;
+}
+
+nav.menu a,
+nav.language-switcher a {
+  margin-right: 0.2em;
+}
+
+.active {
+  background-color: yellow;
+}
+
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lnt,
+.highlight .chroma .lntable .hl {
+  display: flex;
+}
+
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lntd + .lntd {
+  width: 100%;
+}
+
+/* line numbers inline, no line numbers */
+.highlight > pre {
+  padding: 1em 0 1em 1em;
+}
+
+/* line numbers in table */
+.highlight div {
+  padding: 0 0 0 1em;
+}
+
+.highlight div,
+.highlight > pre {
+  border-radius: 4px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -2px rgba(0, 0, 0, 0.1);
+  overflow-x: auto;
+}

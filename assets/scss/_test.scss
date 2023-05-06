@@ -1,0 +1,21 @@
+// Test
+// ----------------------------------------------------------------------------
+
+.test1,
+.test2 {
+  background-color: #fff;
+  background-position: 10px 20px;
+  border-radius: 0 2px 0 8px;
+  color: #666;
+  padding-right: 20px;
+  text-align: left;
+  transform: translate(-50%, 50%);
+  width: 100%;
+}
+
+.test3 {
+  direction: ltr;
+  margin: 1px 2px 3px;
+  padding: 10px 20px;
+  text-align: center;
+}
