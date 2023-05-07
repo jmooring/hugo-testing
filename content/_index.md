@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44239'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-05-07T09:37:09-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/44239'
+description = "Custom variables in Menus in multilingual site"
 +++
