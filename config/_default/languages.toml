@@ -1,0 +1,43 @@
+[en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+  [[en.menu.main]]
+    name = 'Home (en)'
+    pageRef = '/'
+    weight = 10
+  [[en.menu.main]]
+    name = 'About us (en)'
+    pageRef = '/about'
+    weight = 20
+      [en.menu.main.params]
+        action = 'ContactAction (en)'
+  [[en.menu.main]]
+    name = 'Career (en)'
+    pageRef = '/career'
+    weight = 30
+      [en.menu.main.params]
+        action = 'ReadJobPostingAction (en)'
+
+[de]
+contentDir = 'content/de'
+languageCode = 'de-DE'
+languageName = 'Deutsch'
+weight = 2
+  [[de.menu.main]]
+    name = 'Home (de)'
+    pageRef = '/'
+    weight = 10
+  [[de.menu.main]]
+    name = 'About us (de)'
+    pageRef = '/about'
+    weight = 20
+    [de.menu.main.params]
+      action = 'ContactAction (de)'
+  [[de.menu.main]]
+    name = 'Career (de)'
+    pageRef = '/career'
+    weight = 30
+    [de.menu.main.params]
+      action = 'ReadJobPostingAction (de)'
