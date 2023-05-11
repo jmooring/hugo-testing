@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  {{ partial "opengraph.html" . }}
 </head>
 <body>
   <header>
@@ -15,3 +16,13 @@
   </main>
 </body>
 </html>
+
+
+<meta property="og:title" content="Post 1" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/post-1/" />
+<meta property="og:image" content="http://localhost:1313/posts/post-1/cover.jpg"/>
+<meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-05-11T13:11:33-07:00" />
+<meta property="article:modified_time" content="2023-05-11T13:11:33-07:00" />
