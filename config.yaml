@@ -1,0 +1,9 @@
+baseURL: 'https://example.org/'
+languageCode: en-us
+title: 'Hugo Forum Topic #44318'
+menu:
+  main:
+    - name: Home
+      pageRef: /
+    - name: News
+      pageRef: /News
