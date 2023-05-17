@@ -2,5 +2,5 @@
 .hvm
 /.vscode
 /node_modules
-/public
-/resources
+/site/public
+/site/resources
