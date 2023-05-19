@@ -1,3 +1,32 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo GitHub Issue #10953'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+  [languages.en.markup.goldmark.extensions.typographer]
+  leftDoubleQuote = '&ldquo;'   # default &ldquo;
+  rightDoubleQuote = '&rdquo;'  # default &rdquo;
+
+[languages.de]
+languageCode = 'de-DE'
+languageName = 'Deutsch'
+weight = 2
+  [languages.de.markup.goldmark.extensions.typographer]
+  leftDoubleQuote = '&laquo;'   # default &ldquo;
+  rightDoubleQuote = '&raquo;'  # default &rdquo;
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
