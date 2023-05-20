@@ -1,3 +1,19 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Hugo Forum Topic #44262'
+
+[params.repository]
+branch = 'master'
+owner = 'gohugoio'
+repo = 'hugoDocs'
+service = 'GitHub'
+urlPatternEdit = 'https://github.com/%s/%s/edit/%s/%s'
+urlPatternView = 'https://github.com/%s/%s/blob/%s/%s'
+
+# [params.repository]
+# branch = 'main'
+# owner = 'jmooring'
+# repo = 'hugo-forum-topic-41217'
+# service = 'GitLab'
+# urlPatternEdit = 'https://gitlab.com/%s/%s/-/edit/%s/%s'
+# urlPatternView = 'https://gitlab.com/%s/%s/-/blob/%s/%s'

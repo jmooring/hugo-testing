@@ -1,4 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ partial "repository-link.html" (dict "action" "edit" "page" .) }}{{ partial "repository-link.html" (dict "action" "view" "page" .) }}
+
 {{ end }}

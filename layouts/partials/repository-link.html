@@ -1,0 +1,17 @@
+{{- if $.page.File }}
+  {{- with site.Params.repository }}
+    {{- $path := strings.TrimPrefix hugo.WorkingDir $.page.File.Filename }}
+    {{- $href := "" }}
+    {{- $text := "" }}
+    {{- if eq $.action "edit" }}
+      {{- $href = printf .urlPatternEdit .owner .repo .branch $path | urls.JoinPath }}
+      {{- $text = printf "Edit this page on %s" .service }}
+    {{- else if eq $.action "view" }}
+      {{- $href = printf .urlPatternView .owner .repo .branch $path | urls.JoinPath }}
+      {{- $text = printf "View this page on %s" .service }}
+    {{- end }}
+    <div class="repository-link">
+      <a href="{{ $href }}" rel="external">{{ $text }}</a>
+    </div>
+  {{- end }}
+{{- end -}}
