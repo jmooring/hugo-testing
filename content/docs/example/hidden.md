@@ -5,5 +5,3 @@ draft = false
 +++
 
 Please configure your site to use **GitLab** when editing or viewing repository files.
-
-{{< param "repository" >}}
