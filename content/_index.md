@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44262'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-05-20T10:27:54-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/44262'
+description = "Path to content file from project root"
 +++
