@@ -3,9 +3,10 @@
 {{- $url := "https://kroki.io/" -}}
 {{- $outputFormat := "svg" -}}
 {{- $supportedTypes := slice
-  "actdiag" "blockdiag" "bpmn" "bytefield" "ditaa" "erd" "graphviz" "mermaid"
-  "nomnoml" "nwdiag" "packetdiag" "pikchr" "plantuml" "rackdiag" "seqdiag"
-  "svgbob" "umlet" "vega" "vegalite" "wavedrom"
+  "actdiag" "blockdiag" "bpmn" "bytefield" "ditaa" "d2" "dbml" "erd" "graphviz"
+  "mermaid" "nomnoml" "nwdiag" "packetdiag" "pikchr" "plantuml" "rackdiag"
+  "seqdiag" "structurizr" "svgbob" "umlet" "vega" "vegalite" "wavedrom"
+  "wireviz"
 }}
 {{- $typesDelimited := delimit $supportedTypes ", " ", and " -}}
 {{- $diagramSource := "" -}}
