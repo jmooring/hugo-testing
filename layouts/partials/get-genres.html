@@ -1,0 +1,7 @@
+{{ with .GetTerms "genres" }}
+  <p>Genres:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}

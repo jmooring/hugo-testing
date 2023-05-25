@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/44549>
 
-Description: Multihost minimal example site
+Description: Multilingual multihost example site
 
 ## Instructions
 
@@ -13,3 +13,13 @@ git clone --single-branch -b hugo-forum-topic-44549 https://github.com/jmooring/
 cd hugo-forum-topic-44549
 hugo server
 ```
+
+To run as a monolingual site:
+
+```text
+hugo server --config hugo-monolingual.toml
+```
+
+## Notes
+
+If you add a path to one of the baseURLs, the URL for menu entries and shared resources will be wrong for the other site. See <https://github.com/gohugoio/hugo/issues/10912>.
