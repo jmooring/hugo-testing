@@ -1,4 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+{{ with resources.Get "brand_symbol2.webp" }}
+  {{ with .Resize "200x" }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+{{ end }}
+
 {{ end }}
