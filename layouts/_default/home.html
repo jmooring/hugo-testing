@@ -10,7 +10,7 @@
   {{ end }}
   {{ .Content }}
 
-  {{ with resources.Get "brand_symbol2.webp" }}
+  {{ with resources.Get "bad.webp" }}
     {{ with .Resize "200x" }}
       <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
     {{ end }}

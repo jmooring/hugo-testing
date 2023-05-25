@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-44540 https://github.com/jmooring/
 cd hugo-forum-topic-44540
 hugo server
 ```
+
+Note that bad image (assets/bad.wepb) was generate by GIMP.
