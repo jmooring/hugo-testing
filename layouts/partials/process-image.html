@@ -1,0 +1,8 @@
+{{ $r := .resource }}
+{{ $attrs := .attributes }}
+
+{{ with $r.Resize "200x webp" }}
+  {{ $attrs = merge $attrs (dict "src" .RelPermalink "width" (string .Width) "height" (string .Height)) }}
+{{ end }}
+
+{{ return (dict "resource" $r  "attributes" $attrs) }}
