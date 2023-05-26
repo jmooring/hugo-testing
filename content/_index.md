@@ -6,3 +6,6 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/11026'
 description = "--renderStaticToDisk not behaving as expected in v0.112.3"
 +++
+You should see a photo of a kitten below:
+
+![kitten](/a.jpg)
