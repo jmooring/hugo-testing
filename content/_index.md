@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #11026'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-05-26T07:57:32-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/11026'
+description = "--renderStaticToDisk not behaving as expected in v0.112.3"
 +++
