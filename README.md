@@ -13,3 +13,5 @@ git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
 cd @@BRANCH@@
 hugo server
 ```
+
+Then visit `http://localhost:1313/categories/`

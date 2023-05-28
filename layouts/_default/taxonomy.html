@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range .Data.Terms.Alphabetical }}
+  <h4>{{ .Name }} ({{ .WeightedPages.Count }})</h4>
+  <ul>
+    {{ range .WeightedPages.Pages }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{ end }}
