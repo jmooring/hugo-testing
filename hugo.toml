@@ -1,14 +1,41 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'ru'
 title = 'Hugo Forum Topic #44600'
 
+disableKinds = ['RSS','taxonomy','term']
+
 defaultContentLanguage = 'ru'
-defaultContentLanguageInSubdir = true
+
+# Languages
+# -----------------------------------------------------------------------------
 
 [languages.ru]
-languageName = 'Russion'
+languageName = 'Russian'
 weight = 1
 
 [languages.en]
-languageName = 'Deutsch'
+languageName = 'English'
 weight = 2
+
+# Menu entries
+# -----------------------------------------------------------------------------
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'PageX'
+pageRef = '/pagex'
+weight = 20
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 30
+
+# Permalinks (intentionally empty)
+# -----------------------------------------------------------------------------
+
+[permalinks]
