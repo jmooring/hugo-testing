@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44600'
 
 defaultContentLanguage = 'ru'
 defaultContentLanguageInSubdir = true
