@@ -9,7 +9,12 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ $pages := where site.RegularPages "Section" "posts" }}
+  {{ range $pages.ByWeight.GroupByParam "tier" }}
+    {{ range .Pages.ByParam "ladder_group" }}
+      {{ warnf "%[1]v (%[1]T)" .Params.ladder_group }}
+    {{ end }}
   {{ end }}
+
 {{ end }}
