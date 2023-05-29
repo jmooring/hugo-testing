@@ -1,3 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #11045'
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+[markup.goldmark.extensions.typographer]
+disable = false
+
+[outputFormats.html]
+isPlainText = true
