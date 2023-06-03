@@ -6,7 +6,7 @@
   <h3>FAQs</h3>
   <dl>
     {{ range $id, $_ := . }}
-      <a href="#{{ $id }}"><dt>{{ .question }}</dt></a>
+      <dt><a href="#{{ $id }}">{{ .question }}</a></dt>
       <dd>{{ .answer | $.RenderString }}</dd>
     {{ end }}
   </dl>
