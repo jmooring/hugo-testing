@@ -1,0 +1,8 @@
+{{ $id := printf "%s-%03d" .Name (add .Ordinal 1) }}
+{{ $faq := dict "question" (.Get 0) "answer" .Inner }}
+{{ .Page.Store.SetInMap "faqs" $id $faq }}
+
+<div class="faq" id="{{ $id }}">
+  <p class="question">{{ .Get 0 }}</p>
+  <p class="answer">{{ .Inner | .Page.RenderString }}</p>
+</div>

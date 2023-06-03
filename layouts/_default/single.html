@@ -1,4 +1,19 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+{{ $noop := .WordCount }}
+{{ with .Store.Get "faqs"  }}
+  <h3>FAQs</h3>
+  <dl>
+    {{ range $id, $_ := . }}
+      <a href="#{{ $id }}"><dt>{{ .question }}</dt></a>
+      <dd>{{ .answer | $.RenderString }}</dd>
+    {{ end }}
+  </dl>
+{{ end }}
+
+<hr>
+
+{{ .Content }}
+
 {{ end }}
