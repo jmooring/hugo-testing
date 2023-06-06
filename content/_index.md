@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44715'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-06-06T10:25:53-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/44715'
+description = "Difference between postCSS and resources.PostCSS"
 +++
