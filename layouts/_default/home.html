@@ -9,7 +9,29 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+
+  <p>Example results from layouts/partials/functions/math.html:</p>
+
+  <pre>
+
+    Average of [1 2 3 4]    = {{ partial "functions/math" (dict "op" "average" "list" (slice 1 2 3 4)) | printf "%[1]v (%[1]T)" }}
+
+    Median of [1 2 3 4]     = {{ partial "functions/math" (dict "op" "median" "list" (slice 1 2 3 4)) | printf "%[1]v (%[1]T)" }}
+
+    Median of [1 2 3.1 4]   = {{ partial "functions/math" (dict "op" "median" "list" (slice 1 2 3.1 4)) | printf "%[1]v (%[1]T)" }}
+
+    Median of [1 2 3 4 5]   = {{ partial "functions/math" (dict "op" "median" "list" (slice 1 2 3 4 5)) | printf "%[1]v (%[1]T)" }}
+
+    Median of [1 2 3.1 4 5] = {{ partial "functions/math" (dict "op" "median" "list" (slice 1 2 3.1 4 5)) | printf "%[1]v (%[1]T)" }}
+
+    Minimum of [1 2 3 4]    = {{ partial "functions/math" (dict "op" "min" "list" (slice 1 2 3 4)) | printf "%[1]v (%[1]T)" }}
+
+    Maximum of [1 2 3 4]    = {{ partial "functions/math" (dict "op" "max" "list" (slice 1 2 3 4)) | printf "%[1]v (%[1]T)" }}
+
+    Product of [1 2 3 4]    = {{ partial "functions/math" (dict "op" "product" "list" (slice 1 2 3 4)) | printf "%[1]v (%[1]T)" }}
+
+    Sum of [1 2 3 4]        = {{ partial "functions/math" (dict "op" "sum" "list" (slice 1 2 3 4)) | printf "%[1]v (%[1]T)" }}
+  </pre>
+
 {{ end }}

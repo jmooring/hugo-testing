@@ -1,0 +1,83 @@
+{{- /*
+Returns the average, median, minimum, maximum, product, or sum of a slice of numbers.
+
+@context {slice} list A slice of numbers.
+@context {string} op The operation to perform on the list.
+
+@returns {float64}
+
+@example {{ partial "functions/math" (dict "op" "average" "list" (slice 1 2 3)) }}
+@example {{ partial "functions/math" (dict "op" "median" "list" (slice 1 2 3)) }}
+@example {{ partial "functions/math" (dict "op" "min" "list" (slice 1 2 3)) }}
+@example {{ partial "functions/math" (dict "op" "max" "list" (slice 1 2 3)) }}
+@example {{ partial "functions/math" (dict "op" "product" "list" (slice 1 2 3)) }}
+@example {{ partial "functions/math" (dict "op" "sum" "list" (slice 1 2 3)) }}
+*/}}
+
+{{- /* Initialize. */}}
+{{- $commonErrorMessage := "The %q partial requires 2 parameters: op (a string) and list (a slice of numbers)." }}
+{{- $partialName := "math" }}
+{{- $result := 0 }}
+{{- $validOps := slice "average" "median" "min" "max" "product" "sum" }}
+
+{{- /* Validate parameters. */}}
+{{- if ne (len .) 2 }}
+  {{- errorf $commonErrorMessage $partialName }}
+{{- end }}
+{{- with $.op }}
+  {{- if not (in $validOps $.op) }}
+    {{- errorf "The %q parameter passed to the %q partial is invalid. Valid operations are %s." "op" $partialName (delimit $validOps ", " " and ") }}
+  {{- end }}
+{{- else }}
+  {{- errorf $commonErrorMessage $partialName }}
+{{- end }}
+{{- with $.list }}
+  {{- if not (reflect.IsSlice $.list) }}
+    {{- errorf $commonErrorMessage $partialName }}
+  {{- else }}
+    {{- range . }}
+      {{- if not (in (slice "int" "float64") (printf "%T" .)) }}
+        {{- errorf "The %q parameter passed to the %q partial contains a non-numeric value." "list" $partialName }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- errorf $commonErrorMessage $partialName }}
+{{- end }}
+
+{{- /* Cast list to float64 and sort. */}}
+{{- $list := apply $.list "float" "." | sort }}
+
+{{- /* Determine sum and length of list. */}}
+{{- $sum := 0 }}
+{{- range $list }}
+  {{- $sum = add $sum . }}
+{{- end }}
+{{- $len := len $list }}
+
+{{- /* Determine result based on operation. */}}
+{{- if eq $.op "average" }}
+  {{- $result = div $sum $len }}
+{{- else if eq $.op "median" }}
+  {{- if math.ModBool $len 2 }}
+    {{- $n1 := index $list (div $len 2) }}
+    {{- $n2 := index $list (sub (div $len 2) 1) }}
+    {{- $result = div (add $n1 $n2) 2 }}
+  {{- else }}
+    {{- $result = index $list (div $len 2) }}
+  {{- end }}
+{{- else if eq $.op "min" }}
+  {{- $result = index $list 0 }}
+{{- else if eq $.op "max" }}
+  {{- $result = index $list (sub $len 1) }}
+{{- else if eq $.op "product" }}
+  {{- $result = 1 }}
+  {{- range $list }}
+    {{- $result = mul $result . }}
+  {{- end }}
+{{- else if eq $.op "sum" }}
+  {{- $result = $sum }}
+{{- end }}
+
+{{- /* Return result. */}}
+{{- return (float $result) }}
