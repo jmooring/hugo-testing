@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #44690
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/44690>
 
-Description: @@DESCRIPTION@@
+Description: .Get cannot be used outside the short code, how to use .Path or .Position
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-44690 https://github.com/jmooring/hugo-testing hugo-forum-topic-44690
+cd hugo-forum-topic-44690
 hugo server
 ```
