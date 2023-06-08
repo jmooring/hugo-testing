@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ with .Pages.ByTitle }}
+    <div class="grid">
+      {{ range $p := . }}
+        {{ with .Resources.GetMatch "cover.*" }}
+          {{ with .Fill "250x250 webp" }}
+            <div class="grid-item">
+              <figure>
+                <a href="{{ $p.RelPermalink }}">
+                  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+                </a>
+                <figcaption>{{ $p.Title }}</figcaption>
+              </figure>
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}
