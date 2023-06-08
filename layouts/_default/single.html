@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <p>Open the JavaScript console to see values passed from front matter.</p>
+
+  <div id="locations" data-locations="{{ .Params.locations | jsonify }}"></div>
+
 {{ end }}
