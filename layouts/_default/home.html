@@ -9,7 +9,20 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <p>All images should be 100px wide after processing.</p>
+  <hr>
+
+  {{ with resources.Match "*" }}
+    {{ range . }}
+      <p>File name: {{ .Key }}</p>
+      <p>Original: {{ .Width }}x{{ .Height }} ({{ .MediaType.SubType }})</p>
+      {{ with .Resize "100x" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        <p>Processed: {{ .Width }}x{{ .Height }} ({{ .MediaType.SubType }})</p>
+      {{ end }}
+      <hr>
+    {{ end }}
   {{ end }}
+
 {{ end }}
