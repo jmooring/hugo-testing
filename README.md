@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #44751
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/44751>
 
-Description: @@DESCRIPTION@@
+Description: Resize animated Gif to convert in png image
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-44751 https://github.com/jmooring/hugo-testing hugo-forum-topic-44751
+cd hugo-forum-topic-44751
 hugo server
 ```
