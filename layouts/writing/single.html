@@ -1,0 +1,23 @@
+{{ define "main" }} [layouts/writing/single.html]
+  <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "series" }}
+    <p>Series:
+      {{ range $k, $_ := . }}
+        {{- with $k }}, {{ end }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{- end }}
+    </p>
+  {{ end }}
+
+  {{ with site.RegularPages.Related . }}
+    <p>Other stories in this series:
+      {{ range $k, $_ := .ByWeight }}
+        {{- with $k }}, {{ end }}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{- end }}
+    </p>
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}

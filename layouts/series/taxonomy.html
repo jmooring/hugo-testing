@@ -1,7 +1,7 @@
-{{ define "main" }} [layouts/_default/list.html]
+{{ define "main" }} [layouts/series/taxonomy.html]
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
+  {{ range .Pages.ByWeight }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
 {{ end }}

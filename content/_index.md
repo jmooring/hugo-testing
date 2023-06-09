@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/44750'
 description = "Group pages on the list by Series"
 +++
+
+This is content/_index.md

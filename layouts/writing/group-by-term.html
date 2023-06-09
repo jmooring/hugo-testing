@@ -1,0 +1,14 @@
+{{ define "main" }} [layouts/writing/group-by-term.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range site.Taxonomies.series }}
+    <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></h2>
+    <ul>
+      {{ range .Pages.ByWeight }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+{{ end }}
