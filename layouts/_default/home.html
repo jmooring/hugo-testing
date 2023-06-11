@@ -9,7 +9,76 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <p>Use ImageMagick to split the animated GIF into its component frames:</p>
+
+  <pre>
+  convert all-frames.gif frame-%02d.gif
+  </pre>
+
+  <p>Then resize each frame to 400x400 and compare the difference in bytes.</p>
+
+  {{ $newWidth := 400 }}
+
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>Original</th>
+        <th>Resized</th>
+        <th>Change</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ $originalTotal := 0 }}
+      {{ $resizedTotal := 0 }}
+      {{ range resources.Match "frames/*" }}
+        {{ $name := .Key | path.BaseName }}
+        {{ $original := .Content | len | float }}
+        {{ $originalTotal = add $originalTotal $original }}
+        {{ $resized := (.Resize (printf "%dx" $newWidth)).Content | len | float }}
+        {{ $resizedTotal = add $resizedTotal $resized }}
+        {{ $percentChange := mul (div (sub $resized $original) $original) 100 | printf "%.0f %%" }}
+        <tr>
+          <td>{{ $name}}</td>
+          <td>{{ $original }}</td>
+          <td>{{ $resized }}</td>
+          <td>{{ $percentChange }}</td>
+        </tr>
+      {{ end }}
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Total</td>
+        <td>{{ $originalTotal | printf "%.0f" }}</td>
+        <td>{{ $resizedTotal | printf "%.0f" }}</td>
+        <td>{{ mul (div (sub $resizedTotal $originalTotal) $originalTotal) 100 | printf "%.0f %%" }}</td>
+      </tr>
+    </tfoot>
+  </table>
+
+  <p>Now compare the animated GIF before and after resizing.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>Original</th>
+        <th>Resized</th>
+        <th>Change</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        {{ $original := (resources.Get "original.gif").Content | len | float }}
+        {{ $resized := ((resources.Get "original.gif").Resize (printf "%dx" $newWidth)).Content | len | float }}
+        {{ $percentChange := mul (div (sub $resized $original) $original) 100 | printf "%.0f %%" }}
+        <td>Total</td>
+        <td>{{ $original | printf "%.0f" }}</td>
+        <td>{{ $resized | printf "%.0f" }}</td>
+        <td>{{ $percentChange }}</td>
+      </tr>
+    </tbody>
+  </table>
+
 {{ end }}

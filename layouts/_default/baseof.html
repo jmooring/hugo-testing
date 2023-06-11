@@ -4,6 +4,61 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    *,
+    *:before,
+    *:after {
+      box-sizing: inherit;
+    }
+
+    html {
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 0 1rem 3rem;
+      max-width: 768px;
+    }
+
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+
+    nav {
+      margin: 1em 0;
+    }
+
+    nav.menu a,
+    nav.language-switcher a {
+      margin-right: 0.2em;
+    }
+
+    .active {
+      background-color: yellow;
+    }
+
+    .ancestor {
+      background-color: cyan;
+    }
+
+    table {
+      border-collapse: collapse;
+
+    }
+    td, th {
+      border: 1px solid #999;
+      padding: 0 8px;
+    }
+    tfoot tr td {
+      border-top: 4px double #999;
+      font-weight: bolder;
+    }
+  </style>
 </head>
 <body>
   <header>
