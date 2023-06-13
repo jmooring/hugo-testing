@@ -6,3 +6,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/44787'
 description = "Internal URL to download file"
 +++
+
+[pdf](downloads/a.pdf)
+
+![kitten](images/a.jpg)
