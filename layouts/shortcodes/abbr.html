@@ -1,0 +1,5 @@
+{{ with .Get 0 }}
+  {{ with (index site.Data.abbr .) }}
+    <abbr title="{{ .description }}">{{ .title }}</abbr>
+  {{ end }}
+{{ end }}

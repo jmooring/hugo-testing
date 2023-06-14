@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/44801'
 description = "Can I use a shortcode within Markdown link text?"
 +++
+
+Check out the [{{< abbr "html" >}} standard](https://html.spec.whatwg.org/multipage/).
