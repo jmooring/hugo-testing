@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44820'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-06-15T06:45:56-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/44820'
+description = "Sort .Pages by Weight of Params (Taxonomy)"
 +++
