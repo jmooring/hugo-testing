@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/* Create slice of maps, where each map contains the page and term weight. */}}
+  {{ $taxonomy := "status" }}
+  {{ $s := slice }}
+  {{ range .Pages }}
+  {{ $termWeight := 99999999 }}
+    {{ with (index (.GetTerms $taxonomy) 0).Weight }}
+      {{ $termWeight = . }}
+    {{ end }}
+    {{ $s = $s | append (dict
+        "page" .
+        "termWeight" $termWeight
+      )
+    }}
+  {{ end }}
+
+  {{/* Create a slice of pages, sorted by the term weight. */}}
+  {{ $p := slice }}
+  {{ range (sort $s "termWeight") }}
+    {{ $p = $p | append .page }}
+  {{ end }}
+
+  {{/* Render the page collection. */}}
+  {{ range (.Paginate $p).Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ index .Params.status 0 }})</h2>
+  {{ end }}
+
+{{ end }}
