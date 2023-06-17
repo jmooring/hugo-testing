@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #11123'
+
+[markup.highlight]
+style = 'friendly' # default is monokai
+
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false # default is true
+
+[markup.goldmark.parser.attribute]
+title = true # default is true; applies to h1-h6 elements
+block = true # default is false; applies to other block-level elements
