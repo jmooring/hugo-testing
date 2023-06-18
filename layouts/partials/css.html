@@ -1,0 +1,3 @@
+  {{ with resources.Get "scss/bootstrap.scss" | toCSS (dict "transpiler" "dartsass") | minify }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}

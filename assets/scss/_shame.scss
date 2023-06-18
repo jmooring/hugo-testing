@@ -1,0 +1,16 @@
+// Shame
+//
+// See https://sass-guidelin.es/#shame-file
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 1rem;
+  max-width: 768px;
+}
+
+.debug {
+  color: red;
+}

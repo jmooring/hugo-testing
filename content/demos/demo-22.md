@@ -1,0 +1,10 @@
++++
+title = 'Demo 22'
+date = 2023-06-18T09:35:22-07:00
+draft = false
++++
+After eating contentedly and to his satisfaction, he moved round the carcass, raking and scraping grass and trash on it. Then, pausing for a minute or two in apparently peaceful contemplation, he doubled back on the trail over which he had come and faded into the twilight.
+
+Alertness and brain-power are characteristics of the grizzly bear. He is eternally vigilant. He has the genius for taking pains. He is watchful even in seclusion; and when he is traveling his amazingly developed senses appear never to rest, but are constantly on scout and sentinel duty,--except on rare occasions when he is temporarily hypnotized by curiosity. I believe his intelligence to be greater than that of the dog, the horse, or the elephant. Apparently he assumes that some one is ever stealthily in pursuit.
+
+In repeatedly following the grizzly with photographic intentions I was almost invariably outwitted. On one occasion I followed one almost constantly for eight days and nights; and though many times I almost had him, yet I never succeeded. Now and then he climbed a rocky crag to look about; or he doubled back a short distance on his trail to some point of vantage, where he rose on his hind legs, sniffed the air, looked and listened. At other times he turned at right angles to his general course, went a short distance to a point favorable for seeing, hearing, or smelling his possible pursuer, and there remained for a few minutes. If all seemed well, he commonly returned to his trail and again went forward.
