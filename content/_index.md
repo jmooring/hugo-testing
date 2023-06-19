@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/44855'
 description = "Code inside Content Posts not working"
 +++
+
+{{< imgproc "images/sunset.jpg" Resize 300x >}}
