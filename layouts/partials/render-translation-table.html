@@ -1,0 +1,18 @@
+{{ with .Resources.Get "translations.json" }}
+  <table>
+    <thead>
+      <tr>
+        <th>Language</th>
+        <th>Translation</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range (transform.Unmarshal .) }}
+        <tr>
+          <td>{{ or (index site.Data.languages .lang) .lang }}</td>
+          <td>{{ .word }}</td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+{{ end }}
