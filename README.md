@@ -11,5 +11,10 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-github-issue-11132 https://github.com/jmooring/hugo-testing hugo-github-issue-11132
 cd hugo-github-issue-11132
-hugo server
+```
+
+Open the browser's console, then:
+
+```text
+hugo server --disableLiveReload
 ```

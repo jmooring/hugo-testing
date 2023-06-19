@@ -1,0 +1,15 @@
+{{/* This fails with v0.112.6 and later. */}}
+{{ with resources.Get "jquery-3.7.0.js"| minify }}
+  <script>{{ .Content | safeJS }}</script>
+{{ end }}
+
+{{/* But this works. */}}
+{{/*  {{ with resources.Get "jquery-3.7.0.js"| minify }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}  */}}
+
+<script>
+  (function ($) {
+    console.log("Script Loaded!")
+  })(jQuery);
+</script>
