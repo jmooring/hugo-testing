@@ -1,4 +1,30 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{/* Get explicity related pages, then sort by something. */}}
+  {{ $p1 := slice }}
+  {{ range .Params.relatedPages }}
+    {{ $p1 = $p1 | append (site.GetPage .) }}
+  {{ end }}
+  {{ $p1 = sort $p1 "Params.title" "asc" }}
+
+  {{/* Get implicitly related pages, then sort by something. */}}
+  {{ $p2 := site.RegularPages.Related . }}
+  {{ $p2 = sort $p2 "Params.title" "asc" }}
+
+  {{/* Union, filter, and limit. */}}
+  {{ $p := where (union $p1 $p2) "Params.bookHidden" "ne" true | first 5 }}
+
+  {{/* Render list. */}}
+  {{ with $p }}
+    <p>Related pages:
+      <ul>
+        {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    </p>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
