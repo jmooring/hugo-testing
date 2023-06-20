@@ -2,28 +2,46 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 
+  {{/* Set constants. */}}
   {{ $numFeaturedPages := 2 }}
   {{ $numPagesPerPager := 8 }}
-  {{ $paginator := .Paginate (.Pages | after $numFeaturedPages) $numPagesPerPager }}
 
-  {{/* First two pages on the first pager. */}}
+  {{/*
+  Paginate a page collection consisting of:
+
+  - $numFeaturedPages x the home page (these are dummy pages), plus
+  - All pages in the root page collection after the first $numFeaturedPages pages
+
+  We will skip the dummy pages when rendering the paginated page collection by
+  checking .IsHome.
+  */}}
+  {{ $p := slice }}
+  {{ range seq $numFeaturedPages }}
+    {{ $p = $p | append site.Home }}
+  {{ end }}
+  {{ $p = $p | append (after $numFeaturedPages .Pages) }}
+  {{ $paginator := .Paginate $p $numPagesPerPager }}
+
+  {{/* First $numFeaturedPages pages of the root page collection. */}}
   {{ if eq $paginator.PageNumber 1  }}
-    <pre>// BEGIN FIRST 2</pre>
-    {{ range .Pages | first $numFeaturedPages }}
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    <pre>// BEGIN FEATURED</pre>
+    {{ range first $numFeaturedPages .Pages }}
+      <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
     {{ end }}
-    <pre>// END FIRST 2</pre>
+    <pre>// END FEATURED</pre>
   {{ end }}
 
-  {{/* The other pages, paginated. */}}
-  <pre>// BEGIN THE REST</pre>
-  {{ range $paginator.Pages   }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{/* The paginated page collection, skipping the dummy pages. */}}
+  <pre>// BEGIN THE REST FOR THIS PAGER</pre>
+  {{ range $paginator.Pages }}
+    {{/* Skip the dummy pages. */}}
+    {{ if not .IsHome }}
+      <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    {{ end }}
   {{ end }}
-  <pre>// END THE REST</pre>
+  <pre>// END THE REST FOR THIS PAGER</pre>
 
   {{/* Navigation. */}}
   {{ template "_internal/pagination.html" . }}
-
 
 {{ end }}
