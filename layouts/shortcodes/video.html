@@ -1,0 +1,33 @@
+{{- /* Set order of source elements within video element. */}}
+{{- $mediaTypes := slice "video/webm" "video/mp4" "video/ogg" }}
+
+{{- /* Map media types to extensions. */}}
+{{- $m := dict
+  "mp4" "video/mp4"
+  "webm" "video/webm"
+  "ogv" "video/ogg"
+}}
+
+{{- /* Build map of sources. */}}
+{{- $list := replace .Inner "\r" "\n" }}
+{{- $list = split $list "\n" }}
+{{- $sources := dict }}
+{{- range $list }}
+  {{- with (trim . " ") }}
+    {{- $ext := path.Ext . | strings.TrimPrefix "." }}
+    {{- $sources = merge $sources (dict (index $m $ext) .) }}
+  {{- end }}
+{{- end }}
+
+{{- /* Render video element. */}}
+{{- if $sources -}}
+  <video controls {{- with ($.Get "class") }} class="{{ . }}" {{- end }}>
+    {{- range $type := $mediaTypes }}
+      {{- with index $sources . }}
+        <source src="{{ . }}" type="{{ $type }}">
+      {{- end }}
+    {{- end }}
+  </video>
+{{- else }}
+  {{- errorf "The %q shorcode was called without any sources. See %s" .Name .Position }}
+{{- end -}}

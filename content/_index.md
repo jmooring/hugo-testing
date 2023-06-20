@@ -6,3 +6,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/44884'
 description = "Help with shortcode passed arguments"
 +++
+
+{{< video class="foo" >}}
+  https://www.veriphor.com/shared/samples/quickstart.mp4
+  https://www.veriphor.com/shared/samples/quickstart.ogv
+  https://www.veriphor.com/shared/samples/quickstart.webm
+{{< /video>}}
