@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $numFeaturedPages := 2 }}
+  {{ $numPagesPerPager := 8 }}
+  {{ $paginator := .Paginate (.Pages | after $numFeaturedPages) $numPagesPerPager }}
+
+  {{/* First two pages on the first pager. */}}
+  {{ if eq $paginator.PageNumber 1  }}
+    <pre>// BEGIN FIRST 2</pre>
+    {{ range .Pages | first $numFeaturedPages }}
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ end }}
+    <pre>// END FIRST 2</pre>
+  {{ end }}
+
+  {{/* The other pages, paginated. */}}
+  <pre>// BEGIN THE REST</pre>
+  {{ range $paginator.Pages   }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+  <pre>// END THE REST</pre>
+
+  {{/* Navigation. */}}
+  {{ template "_internal/pagination.html" . }}
+
+
+{{ end }}
