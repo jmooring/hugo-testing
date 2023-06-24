@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $p := where site.RegularPages "Type" "eq" .FirstSection.Type }}
+  {{ $p = where $p "Date.Year" "eq" .CurrentSection.Date.Year }}
+  {{ range $p }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+
+{{ end }}
