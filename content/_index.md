@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #44976'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-06-25T01:04:25-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/44976'
+description = "0.112.7: failed to decode config for language "pl": unknown config key "outputformats""
 +++
