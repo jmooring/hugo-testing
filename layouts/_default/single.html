@@ -1,4 +1,52 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <h2>Render an img element (simple)</h2>
+
+  {{ with .Resources.GetMatch "cover.*" }}
+    {{ $base := strings.TrimRight (path.Ext .Key) .Key }}
+    {{ with .Resize "300x webp" | fingerprint }}
+      {{ $ext := strings.TrimLeft "." (path.Ext .Key) }}
+      {{ $target := printf "%s.%d.%s" $base (crypto.FNV32a .Data.Integrity) $ext }}
+      {{ with resources.Copy $target . }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <h2>Render a picture element (complicated)</h2>
+
+  {{ with .Resources.GetMatch "cover.*" }}
+    {{/* Create map of images. */}}
+    {{ $iMap := dict "original" . }}
+    {{/* Set processing options. */}}
+    {{ $formats := slice "webp" "jpeg" }} {{/* Last one is fallback. */}}
+    {{ $anchor := "TopLeft" }}
+    {{ $targetWidth := div $iMap.original.Width 2 }}
+    {{ $targetHeight := div $iMap.original.Height 1.45 | int }}
+    {{/* Create new images. */}}
+    {{ $base := strings.TrimRight (path.Ext $iMap.original.Key) $iMap.original.Key }}
+    {{ range $format := $formats }}
+      {{ $opts := printf "%dx%d %s %s" $targetWidth $targetHeight . $anchor }}
+      {{ with $iMap.original.Fill $opts | fingerprint }}
+        {{ $ext := strings.TrimLeft "." (path.Ext .Key) }}
+        {{ $targetPath := printf "%s.%d.%s" $base (crypto.FNV32a .Data.Integrity) $ext }}
+        {{ with resources.Copy $targetPath . }}
+          {{ $iMap = merge $iMap (dict $format . ) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{/* Render the picture element. */}}
+    <picture>
+      {{ range $formats }}
+        {{ $i := index $iMap . }}
+        <source srcset="{{  $i.RelPermalink }}" type="{{ $i.MediaType.Type }}">
+      {{ end }}
+      {{ with index $iMap (index $formats (sub (len $formats) 1)) }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    </picture>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
