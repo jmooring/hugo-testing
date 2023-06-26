@@ -39,8 +39,9 @@
     {{/* Render the picture element. */}}
     <picture>
       {{ range $formats }}
-        {{ $i := index $iMap . }}
-        <source srcset="{{  $i.RelPermalink }}" type="{{ $i.MediaType.Type }}">
+        {{ with index $iMap . }}
+          <source srcset="{{ .RelPermalink }}" type="{{ .MediaType.Type }}">
+        {{ end }}
       {{ end }}
       {{ with index $iMap (index $formats (sub (len $formats) 1)) }}
         <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
