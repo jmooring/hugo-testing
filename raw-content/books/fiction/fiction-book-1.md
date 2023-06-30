@@ -1,0 +1,7 @@
+# The Hunchback of Notre Dame
+
+Marius had hardly made this scene at her with his eyes, when some one crossed the walk. It was a veteran, very much bent, extremely wrinkled, and pale, in a uniform of the Louis XV. pattern, bearing on his breast the little oval plaque of red cloth, with the crossed swords, the soldier’s cross of Saint-Louis, and adorned, in addition, with a coat-sleeve, which had no arm within it, with a silver chin and a wooden leg. Marius thought he perceived that this man had an extremely well satisfied air. It even struck him that the aged cynic, as he hobbled along past him, addressed to him a very fraternal and very merry wink, as though some chance had created an understanding between them, and as though they had shared some piece of good luck together. What did that relic of Mars mean by being so contented? What had passed between that wooden leg and the other? Marius reached a paroxysm of jealousy.—"Perhaps he was there!" he said to himself; "perhaps he saw!"—And he felt a desire to exterminate the veteran.
+
+With the aid of time, all points grow dull. Marius’ wrath against "Ursule," just and legitimate as it was, passed off. He finally pardoned her; but this cost him a great effort; he sulked for three days.
+
+Appetite grows with loving. To know that her name was Ursule was a great deal; it was very little. In three or four weeks, Marius had devoured this bliss. He wanted another. He wanted to know where she lived.
