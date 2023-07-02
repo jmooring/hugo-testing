@@ -1,0 +1,3 @@
+{{ with page.Resources.Get "cover.jpg" }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+{{ end }}
