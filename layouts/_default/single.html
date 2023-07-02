@@ -1,4 +1,14 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ with resources.GetMatch "hügo.jpg" }}
+    {{ with .Resize "200x webp" }}
+      {{ with resources.Copy "Blüte.webp" . }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        <p><a href="{{ .Permalink }}">Link to image</a></p>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}
