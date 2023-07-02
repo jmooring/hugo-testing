@@ -1,0 +1,6 @@
+{{ define "main" }}
+  {{ with (index .Pages.ByWeight 0) }}
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  {{ end }}
+{{ end }}

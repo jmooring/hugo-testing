@@ -1,3 +1,40 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #45096'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[languages.de]
+contentDir = 'content/de'
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Guides'
+pageRef = '/guides'
+weight = 20
+
+[[menu.main]]
+name = 'Guides/Help'
+pageRef = '/guides/help'
+weight = 30
+
+[[menu.main]]
+name = 'Guides/Prologue'
+pageRef = '/guides/prologue'
+weight = 40
