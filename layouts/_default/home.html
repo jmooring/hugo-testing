@@ -9,7 +9,17 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <h2>Three most recent posts</h2>
+
+  {{ partial "recent.html" (dict "section" "posts" "qty" 3) }}
+
+  <h2>All posts</h2>
+
+  <ul>
+    {{ range where site.RegularPages "Section" "posts" }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+
 {{ end }}

@@ -1,6 +1,13 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{/* Copied from https://discourse.gohugo.io/t/45173/2 */}}
+  {{ with (index (.Pages.ByDate.Reverse) 0).Date }}
+    <p>Last updated: {{ . | time.Format ":date_full" }}</p>
+  {{ end }}
+
   {{ .Content }}
+
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}

@@ -1,0 +1,8 @@
+{{/* Copied from https://discourse.gohugo.io/t/45123/8 */}}
+{{ with where site.RegularPages "Section" .section | first .qty }}
+  <ul>
+    {{ range .ByDate.Reverse }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
