@@ -11,7 +11,29 @@
     <hr>
   </header>
   <main>
-    {{ block "main" . }}{{ end }}
+
+<h2>Expected</h2>
+<pre>
+{
+  "a": {
+    "foo": {
+      "path": "data/a/foo.toml"
+    }
+  },
+  "b": {
+    "foo": {
+      "path": "data-other/foo.toml"
+    }
+  }
+}
+</pre>
+
+<h2>Actual</h2>
+
+<pre>
+{{ jsonify (dict "indent" "  ") site.Data }}
+</pre>
+
   </main>
 </body>
 </html>
