@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ $opts := dict "target" "es2020" }}
+  {{ with resources.Get "main.ts" | js.Build $opts }}
+    <script src="{{ .RelPermalink }}"></script>
+  {{ end }}
+
+</head>
+<body>
+  <header>
+    <h1>{{ site.Title }}</h1>
+    <hr>
+  </header>
+  <main>
+    {{ with .Params.details }}
+      <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+    {{ end }}
+    {{ with .Params.description }}
+      <p>Description: {{ . }}</p>
+    {{ end }}
+    {{ with or .Params.url .Params.details }}
+      <hr>
+    {{ end }}
+    {{ .Content }}
+    {{ range site.RegularPages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ end }}
+  </main>
+</body>
+</html>

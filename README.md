@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-github-issue-11232 https://github.com/jmooring
 cd hugo-github-issue-11232
 hugo server
 ```
+
+Expected result: date stamp displayed in browser console
+
+Actual result in v0.114.0:
+
+> Error: error building site: JSBUILD: failed to transform "main.ts" (text/typescript): "/home/jmooring/code/hugo-testing/assets/main.ts:5:0": Experimental decorators are not currently enabled

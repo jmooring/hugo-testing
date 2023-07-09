@@ -6,3 +6,5 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/11232'
 description = "Regression in typescript support"
 +++
+
+Open browser console---you should see a date stamp.
