@@ -11,10 +11,10 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-github-issue-11232 https://github.com/jmooring/hugo-testing hugo-github-issue-11232
 cd hugo-github-issue-11232
-hugo server
+hugo && grep decorateClass public/js/main.js | wc -l
 ```
 
-Expected result: date stamp displayed in browser console
+Expected result: 2
 
 Actual result in v0.114.0:
 
