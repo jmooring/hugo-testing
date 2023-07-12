@@ -1,3 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #11242'
+
+[params]
+description = 'Welcome to my website'
