@@ -6,10 +6,20 @@
     <p>Description: {{ . }}</p>
   {{ end }}
   {{ with or .Params.url .Params.details }}
-    <hr>
+    <hr />
   {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
+
+<pre>
+{{ resources.Get "images/a.jpg" }} --> <nil>
+{{ resources.Get "images/b.jpg" }} --> images/b.jpg
+{{ resources.GetMatch "images/a.jpg" }} --> images/a.jpg
+{{ resources.GetMatch "images/b.jpg" }} --> images/b.jpg
+</pre>
+
+
+
+  {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
 {{ end }}
