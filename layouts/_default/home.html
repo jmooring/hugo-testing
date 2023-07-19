@@ -8,8 +8,17 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  <h3>layouts/shortcodes/foo.html (4 spaces before opening div tag)</h3>
+  {{ highlight (trim (os.ReadFile "layouts/shortcodes/foo.html") "\n") "text" }}
+
+  <h3>markdown</h3>
+  {{ highlight (trim .RawContent "\n") "text" }}
+
+  <h3>html</h3>
+  {{ highlight (trim .Content "\n") "text" }}
+
+  <h3>rendered by browser</h3>
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
 {{ end }}

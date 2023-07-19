@@ -6,3 +6,7 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/11272'
 description = "Indentation in shortcode definition leads to pre/code"
 +++
+
+{{< foo >}}
+
+{{% foo %}}
