@@ -9,7 +9,61 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with resources.ByType "image" }}
+
+    <h2>Rotate and fill in one action (FAIL)</h2>
+    {{ range . }}
+      <h3>{{ .Name }}</h3>
+
+      {{ with .Fill "200x200 smart r0" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+
+      {{ with .Fill "200x200 smart r90" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+
+      {{ with .Fill "200x200 smart r180" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+
+      {{ with .Fill "200x200 smart r270" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+
+    {{ end }}
+
+    <h2>Rotate then fill (PASS)</h2>
+    {{ range . }}
+      <h3>{{ .Name }}</h3>
+
+      {{ with .Resize (printf "%dx%d r0" .Width .Height) }}
+        {{ with .Fill "200x200 smart" }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+
+      {{ with .Resize (printf "%dx%d r90" .Height .Width) }}
+        {{ with .Fill "200x200 smart" }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+
+      {{ with .Resize (printf "%dx%d r180" .Width .Height) }}
+        {{ with .Fill "200x200 smart" }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+
+      {{ with .Resize (printf "%dx%d r270" .Height .Width) }}
+        {{ with .Fill "200x200 smart" }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+
+    {{ end }}
   {{ end }}
+
+
 {{ end }}
