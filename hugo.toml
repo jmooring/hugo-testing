@@ -1,3 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #45378'
+disableKinds = ['RSS','sitemap','taxonomy','term']
