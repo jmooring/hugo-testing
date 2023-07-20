@@ -1,4 +1,17 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "authors" }}
+    <p>Authors:</p>
+    <ul>
+      {{ range . }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          (<a href="{{ .Params.profile }}">profile</a>)
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
