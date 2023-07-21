@@ -4,8 +4,8 @@ date = {{ .Date }}
 draft = false
 +++
 
-This is {{ strings.TrimPrefix hugo.WorkingDir .File.Filename }}.
+<p>This is {{ strings.TrimPrefix hugo.WorkingDir .File.Filename }}.</p>
 
-This is **bold** markdown.
+<p>This is <strong>bold</strong> HTML.</p>
 
 {{< foo >}}
