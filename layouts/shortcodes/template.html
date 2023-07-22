@@ -1,0 +1,11 @@
+{{ with $file := .Get 0 }}
+  {{ with $.Page.Resources.Get $file }}
+    {{ with resources.ExecuteAsTemplate "" $.Page . }}
+      {{ .Content }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %q. See %s" $.Name $file $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a single positional parameter. See %s" .Name .Position }}
+{{ end }}
