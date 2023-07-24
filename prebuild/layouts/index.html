@@ -1,0 +1,37 @@
+{{ printf "<-- This page intentionally blank. -->" | safeHTML }}
+
+{{/* Constants. */}}
+{{ $contentSection := "pets" }}
+{{ $contentTemplate := "templates/content.md" }}
+{{ $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vSRRbrIJO3BviMWJLYp71MS4W6kUcjElDgt-gxIBXa6nN7WocSbJ1r9zyq3E6VpdDosZqZ5NoQims7b/pub?gid=0&single=true&output=csv" }}
+
+{{/* Get data. */}}
+{{ $options := dict "page" . "path" $url }}
+{{ $data := partial "csv-to-data.html" $options }}
+
+<pre>
+  {{ jsonify (dict "indent" "  ") $data }}
+</pre>
+
+{{/* Publish pages. */}}
+{{ with $r := resources.Get $contentTemplate }}
+  {{ range $data }}
+    {{/* Map data fields to content and front matter. */}}
+    {{ $content := .notes }}
+    {{ $frontMatter := dict
+      "age" .age
+      "breed" .breed
+      "date" .date
+      "species" .species
+      "title" .name
+    }}
+    {{/* Publish a page. */}}
+    {{ $ctx := dict "frontMatter" $frontMatter "content" $content }}
+    {{ $path := printf "%s/%s.md" $contentSection (.name | urlize) }}
+    {{ ($r | resources.ExecuteAsTemplate $path $ctx).Publish }}
+  {{ else }}
+    {{ errorf "The data set retrieved from %s is empty" $url }}
+  {{ end}}
+{{ else }}
+  {{ errorf "Unable to get resource %s" $contentTemplate }}
+{{ end }}

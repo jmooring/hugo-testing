@@ -1,8 +1,8 @@
 +++
-title = 'Hugo Forum Topic #45433'
+title = 'Hugo Forum Topic #47780'
 linkTitle = 'Home'
-date = 2023-07-24T11:38:01-07:00
+date = 2024-01-10T07:32:26-08:00
 draft = false
-details = 'https://discourse.gohugo.io/t/45433'
-description = "General guidance using Hugo to generate a large amount of content from database/api"
+details = 'https://discourse.gohugo.io/t/47780'
+description = "Generate content from Google Sheets and Google Form submissions"
 +++

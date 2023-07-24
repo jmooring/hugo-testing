@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <p>
+    Species: {{ .Params.species }}<br>
+    Breed: {{ .Params.breed }}<br>
+    Age: {{ .Params.age }}
+  </p>
+
+  {{ .Content }}
+{{ end }}

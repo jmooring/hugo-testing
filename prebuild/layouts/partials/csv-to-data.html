@@ -1,0 +1,122 @@
+{{- /* Last modified: 2023-12-10T09:45:41-08:00 */}}
+
+{{- /*
+Copyright 2023 Veriphor LLC
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+{{- /*
+Returns a slice of maps from a CSV file.
+
+This partial resolves internal paths by looking for a matching:
+
+  1. Page resource (a file in the current page bundle)
+  2. Section resource (a file in the current section)
+  3. Global resource (a file in the assets directory)
+
+It skips the section resource lookup if the current page is a leaf bundle, and
+captures external files as resources.
+
+You must place global resources in the assets directory. If you have placed
+your resources in the static directory, and you are unable or unwilling to move
+them, you must mount the static directory to the assets directory by including
+both of these entries in your site configuration:
+
+  [[module.mounts]]
+  source = 'assets'
+  target = 'assets'
+
+  [[module.mounts]]
+  source = 'static'
+  target = 'assets'
+
+The CSV file must have a header row.
+
+@context {page} page A reference to the page with the page resource, or the current page.
+@context {string} path The path to the CSV file.
+@context {string} [delimiter=","] The delimiting character between the fields in each row.
+
+@returns {template.html}
+
+@example {{ $data := partial "csv-to-map.html" $options (dict "page" . "path" "pets.csv") }}
+*/}}
+
+{{- /* Initialize. */}}
+{{- $partialName := "csv-to-data" }}
+
+{{- /* Verify minimum required version. */}}
+{{- $minHugoVersion := "0.114.0" }}
+{{- if lt hugo.Version $minHugoVersion }}
+  {{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
+{{- end }}
+
+{{- /* Get context. */}}
+{{- $page := .page }}
+{{- $path := .path }}
+{{- $delimiter := or .delimiter "," }}
+
+{{- /* Validate path. */}}
+{{- if not $path }}
+  {{- errorf "The %q partial requires a path parameter" $partialName }}
+{{- end }}
+
+{{- /* Get resource. */}}
+{{- $r := "" }}
+{{- $u := urls.Parse $path }}
+{{- if $u.IsAbs }}
+  {{- with resources.GetRemote $u.String }}
+    {{- with .Err }}
+      {{- errorf "%s" . }}
+    {{- else }}
+      {{- /* Path is a remote resource. */}}
+      {{- $r = . }}
+    {{- end }}
+  {{- else }}
+    {{- errorf "The %q partial was unable to find %q" $partialName $path }}
+  {{- end }}
+{{- else }}
+  {{- with $page.Resources.Get (strings.TrimPrefix "./" $u.Path) }}
+    {{- $r = . }}
+  {{- else }}
+    {{- with (and (ne $page.BundleType "leaf") ($page.CurrentSection.Resources.Get (strings.TrimPrefix "./" $u.Path))) }}
+      {{- /* Path is a section resource, and current page is not a leaf bundle. */}}
+      {{- $r = . }}
+    {{- else }}
+      {{- with resources.Get $u.Path }}
+        {{- /* Path is a global resource. */}}
+        {{- $r = . }}
+      {{- else }}
+        {{- errorf "xThe %q partial was unable to find %q" $partialName $path }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- /* Unmarshal resource. */}}
+{{- $data := unmarshal (dict "delimiter" $delimiter) $r }}
+{{- $headerRow := index $data 0 }}
+{{- $s := slice }}
+{{- range $k, $v := $data }}
+  {{- if $k }}
+    {{- $m := dict "row" $k }}
+    {{- range $k, $v := . }}
+      {{- $m = merge $m (dict (index $headerRow $k) $v) }}
+    {{- end }}
+    {{- $s = $s | append $m }}
+  {{- end }}
+{{- end }}
+{{- $data = $s }}
+
+{{- /* Return data. */}}
+{{- return $data }}

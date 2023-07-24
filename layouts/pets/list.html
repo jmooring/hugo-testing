@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <p>These pages are generated from a <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRRbrIJO3BviMWJLYp71MS4W6kUcjElDgt-gxIBXa6nN7WocSbJ1r9zyq3E6VpdDosZqZ5NoQims7b/pub?gid=0&single=true&output=csv">Google Sheet</a>.</P>
+
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+{{ end }}
