@@ -1,0 +1,42 @@
+{{ printf "<-- This page intentionally blank. -->" | safeHTML }}
+
+{{/* Constants. */}}
+{{ $contentSection := "books" }}
+{{ $contentTemplate := "templates/content.md" }}
+{{ $url := "https://www.veriphor.com/shared/data/books.json" }}
+
+{{/* Get data. */}}
+{{ $data := dict }}
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $data = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %s" $url }}
+{{ end }}
+
+{{/* Publish pages. */}}
+{{ with $r := resources.Get $contentTemplate }}
+  {{ range $data }}
+    {{/* Map data fields to content and front matter. */}}
+    {{ $content := .content }}
+    {{ $frontMatter := dict
+      "categories" .categories
+      "date" .date
+      "description" .description
+      "foo" .foo
+      "image" .cover
+      "title" .title
+    }}
+    {{/* Publish a page. */}}
+    {{ $ctx := dict "frontMatter" $frontMatter "content" $content }}
+    {{ $path := printf "%s/%s.md" $contentSection (.title | urlize) }}
+    {{ ($r | resources.ExecuteAsTemplate $path $ctx).Publish }}
+  {{ else }}
+    {{ errorf "The data set retrieved from %s is empty" $url }}
+  {{ end}}
+{{ else }}
+  {{ errorf "Unable to get resource %s" $contentTemplate }}
+{{ end }}

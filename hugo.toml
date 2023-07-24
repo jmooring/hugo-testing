@@ -1,3 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #45433'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[[module.mounts]]
+source = 'prebuild/public'
+target = 'content'
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20

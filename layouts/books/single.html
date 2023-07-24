@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "categories" }}
+    <p>Categories:
+      {{- range $k, $_ := . }}
+        {{- if $k }}, {{ end }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{- end }}
+    </p>
+  {{ end }}
+
+  {{ with .Params.image }}
+    {{ with resources.GetRemote . }}
+      {{ with .Err }}
+        {{ errorf "%s" . }}
+      {{ else }}
+        {{ with .Resize "300x web" }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{ errorf "Unable to get remote image %s"  }}
+    {{ end }}
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}
