@@ -1,0 +1,18 @@
+<cite class="cite{{ with .Params.citeStyle }} cite--{{ . }}{{ end }}"
+  {{- with .Params.cite }} cite="{{ . }}"{{ end }}
+  itemscope
+  itemprop="citation"
+  itemtype="https://schema.org/
+    {{- with .Params.schemaType -}}
+      {{ . }}
+    {{- else -}}
+      CreativeWork
+    {{- end }}"
+  {{- if .Params.titleLang }}
+    lang="{{ .Params.titleLang }}"
+    title="{{ .Params.titleTr }}"
+  {{- end -}}
+>
+  {{ .Params.title -}}
+</cite>
+{{- /**/ -}}

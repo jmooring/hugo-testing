@@ -1,0 +1,25 @@
+{{- $class := "cite" }}
+{{- with .Params.citeStyle }}
+  {{- $class = printf "%s cite--%s" $class . }}
+{{- end }}
+
+{{- $itemType := printf "https://schema.org/%s" (or .Params.schemaType "CreativeWork") }}
+
+{{- $attrs := dict
+  "class" $class
+  "itemprop" "citation"
+  "lang" .Params.titleLang
+  "title" .Params.titleTr
+-}}
+
+<span itemscope itemtype="{{ $itemType }}">{{- /**/ -}}
+  <cite
+    {{- range $k, $v := $attrs }}
+      {{- if $v }}
+        {{- printf " %s=%q" $k $v | safeHTMLAttr}}
+      {{- end }}
+    {{- end -}}
+  >
+    {{- .Params.title -}}
+  </cite>{{- /**/ -}}
+</span>{{- /**/ -}}
