@@ -1,0 +1,23 @@
+{{- /* Get page resource, fall back to global resource. */}}
+{{- $r := "" }}
+{{- with .page.Resources.Get .image }}
+  {{- $r = . }}
+{{- else }}
+  {{- with resources.Get .image }}
+    {{- $r = . }}
+  {{- end }}
+{{- end }}
+
+{{- /* Create and publish style sheet. */}}
+{{- with $r }}
+  {{- $css := "{{ .selector }} {background: rgba(0, 0, 0, 0) url('{{ .url }}') no-repeat fixed center center / cover;}" }}
+  {{- $ctx := dict "selector" $.selector "url" .RelPermalink }}
+  {{- with resources.FromString "set-background-image.css" $css }}
+    {{- $targetPath := urls.JoinPath  $.page.RelPermalink (printf "%s-background-image.css" $.selector) }}
+    {{- with . | resources.ExecuteAsTemplate $targetPath $ctx }}
+      {{- with . | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
