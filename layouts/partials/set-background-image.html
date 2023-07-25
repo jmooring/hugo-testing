@@ -8,24 +8,11 @@
   {{- end }}
 {{- end }}
 
-{{- /* Set target path for published style sheet. */}}
-{{- $targetPath := "" }}
-{{- if $r }}
-  {{- $selectorSlug := "" }}
-  {{ if strings.HasPrefix .selector "." }}
-    {{- $selectorSlug = printf "class-%s" (strings.TrimPrefix "." .selector) }}
-  {{- else if strings.HasPrefix .selector "#" }}
-    {{- $selectorSlug = printf "id-%s" (strings.TrimPrefix "#" .selector) }}
-  {{- else }}
-    {{- $selectorSlug = printf "element-%s" (strings.TrimPrefix "#" .selector) }}
-  {{- end }}
-  {{- $targetPath = urls.JoinPath  .page.RelPermalink (printf "%s-background-image.css" $selectorSlug) }}
-{{- end }}
-
 {{- /* Create and publish style sheet. */}}
 {{- if $r }}
   {{- $css := "{{ .selector }} {background: rgba(0, 0, 0, 0) url('{{ .url }}') no-repeat fixed center center / cover;}" }}
   {{- with resources.FromString "set-background-image.css" $css }}
+    {{- $targetPath := urls.JoinPath $.page.RelPermalink (printf "background-image-%d.css" ($.selector | crypto.FNV32a)) }}
     {{- $ctx := dict "selector" $.selector "url" $r.RelPermalink }}
     {{- with . | resources.ExecuteAsTemplate $targetPath $ctx }}
       {{- with . | minify | fingerprint }}
