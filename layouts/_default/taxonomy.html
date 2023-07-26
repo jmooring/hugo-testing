@@ -1,0 +1,12 @@
+{{ define "main" }} [layouts/_default/taxonomy.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Data.Terms.ByCount }}
+    <p><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> (count = {{ .Count }})</p>
+      <ul>
+      {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}
