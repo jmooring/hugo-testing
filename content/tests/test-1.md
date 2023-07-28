@@ -4,7 +4,7 @@ date = 2023-07-27T10:05:26-07:00
 draft = false
 +++
 
-```echart {width="600px" height="400px"}
+```echart {width="800px" height="400px"}
 var option = {
   title: {
     text: 'ECharts Getting Started Example'
