@@ -1,0 +1,26 @@
+{{/*
+This is a test project to verify Sass transpilation, auto-prefixing, and tree
+shaking. In a real project, replace this:
+
+  {{ with . | postCSS | fingerprint | resources.PostProcess }}
+
+with this:
+
+  {{ with . | postCSS | minify | fingerprint | resources.PostProcess }}
+
+We excluded minification from the test project to make it easier to read the
+rendered CSS file.
+*/}}
+
+
+
+{{ $opts := dict "targetPath" "main.css" "outputStyle" "expanded" "enableSourceMap" (not hugo.IsProduction) }}
+{{ with resources.Get "sass/main.scss" | toCSS $opts }}
+  {{ if hugo.IsProduction }}
+    {{ with . | postCSS | fingerprint | resources.PostProcess }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ else }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}

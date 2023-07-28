@@ -6,3 +6,6 @@ draft = false
 details = 'https://discourse.gohugo.io/t/45501'
 description = "Trouble with PurgeCSS"
 +++
+
+If this text is red, your browser is consuming the CSS.
+{.red}

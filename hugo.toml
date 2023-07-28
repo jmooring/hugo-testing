@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #45501'
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+# Required to tree shake CSS using postcss-purgecss.
+[build.buildStats]
+enable = true
+
+# Enable markdowon attributes.
+[markup.goldmark.parser.attribute]
+title = true # default is true; applies to h1-h6 elements
+block = true # default is false; applies to other block-level elements

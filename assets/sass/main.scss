@@ -1,0 +1,52 @@
+/*
+Verify Sass transpilation. If working, the CSS will include:
+
+body main p.red {
+  color: red;
+}
+*/
+
+body {
+  main {
+    p.red {
+      color: red;
+    }
+  }
+}
+
+/*
+Verify auto-prefixing when environment = production. If working, the CSS will include:
+
+::-moz-placeholder {
+  color: gray;
+}
+::placeholder {
+  color: gray;
+}
+*/
+
+::placeholder {
+  color: gray;
+}
+
+/*
+Verify tree shaking when environment = production. If working, the CSS will include:
+
+.blue {
+  color: blue;
+}
+
+This class is present as a markdown attribute in content/posts/post-5.md.
+*/
+
+.blue {
+  color: blue;
+}
+
+/*
+Verify tree shaking when environment = production. If working, there should be nothing below this comment.
+*/
+
+.class-not-used-anywhere {
+  font-size: 2px;
+}
