@@ -1,4 +1,5 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <p>Last modified: {{ .Lastmod | time.Format "2006-01-02 15:04:05" }}</p>
   {{ .Content }}
 {{ end }}

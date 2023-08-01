@@ -1,0 +1,5 @@
+{{- range site.Pages.ByDate -}}
+{{- if .File -}}
+{{ path.Join .RelPermalink "index.html" }},{{ .Lastmod.Format "2006-01-02T15:03:05-07:00" }}
+{{ end -}}
+{{- end -}}

@@ -1,3 +1,21 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #10842'
+disableKinds = ['RSS','sitemap']
+
+enableGitInfo = true
+
+[frontmatter]
+date = ['date', 'publishDate', 'lastmod']
+expiryDate = ['expiryDate']
+lastmod = ['lastmod', ':git', 'date', 'publishDate']
+publishDate = ['publishDate', 'date']
+
+[outputFormats.lastmod]
+baseName = 'lastmod'
+isPlainText = true
+mediaType = 'text/csv'
+notAlternative = true
+
+[outputs]
+home = ['html','lastmod']
