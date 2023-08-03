@@ -1,3 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #11320'
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+[markup.tableofcontents]
+endlevel = 6
+startlevel = 2
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[cascade]]
+[cascade._build]
+list = 'never'
+render = 'never'
+[cascade._target]
+path = '/headless**'

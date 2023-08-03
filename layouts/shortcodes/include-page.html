@@ -1,0 +1,6 @@
+{{ $path := .Get 0 }}
+{{ with site.GetPage $path }}
+  {{ .RenderShortcodes }}
+{{ else }}
+  {{ errorf "The %q shortcode was unable to find %s. See %s" .Name $path .Position }}
+{{ end }}

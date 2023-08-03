@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <hr>
+  <p>Table of contents:</p>
+  {{ .TableOfContents }}
+  <hr>
+  <p>Has shortcode foo? {{ .HasShortcode "foo" }}</p>
+  <hr>
   {{ .Content }}
 {{ end }}
