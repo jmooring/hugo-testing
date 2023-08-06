@@ -9,7 +9,6 @@ main() {
 
   declare publish_dir=public
   declare data_file=public/lastmod.csv
-  declare -a file
   declare -a record
 
   # Test for file existence.
@@ -19,11 +18,12 @@ main() {
   fi
 
   # Update mtime.
-  readarray -t file < "${data_file}"
-  for line in "${file[@]}"; do
+  printf "\nUpdating mtime on %d files...\n" "$(wc -l < ${data_file})"
+  while read -r line
+  do
     IFS=, read -r -a record <<< "${line}"
     touch -md "${record[1]}" "${publish_dir}${record[0]}"
-  done
+  done < "${data_file}"
 
 }
 
