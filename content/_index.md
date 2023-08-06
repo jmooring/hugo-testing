@@ -6,3 +6,4 @@ draft = false
 details = 'https://discourse.gohugo.io/t/45618'
 description = "Creating a Layout for Content with multiple Subfolders?"
 +++
+This is content/_index.md

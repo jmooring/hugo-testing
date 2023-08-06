@@ -9,7 +9,7 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+  {{ range (site.GetPage "posts").Sections.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
 {{ end }}
