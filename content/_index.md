@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #45616'
 linkTitle = 'Home'
-date = 2021-01-01T00:00:00-00:00
+date = 2023-08-07T11:07:11-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/45616'
+description = "Shortcodes seems wont be reloaded after modifying"
 +++
