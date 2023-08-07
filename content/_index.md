@@ -6,3 +6,12 @@ draft = false
 details = 'https://discourse.gohugo.io/t/45616'
 description = "Shortcodes seems wont be reloaded after modifying"
 +++
+
+
+{{% foo %}}
+This is **bold** markdown.
+{{% /foo %}}
+
+{{< bar >}}
+<p>This is <b>bold</b> HTML.</p>
+{{< /bar >}}
