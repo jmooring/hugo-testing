@@ -1,3 +1,28 @@
 baseURL = 'https://example.org/'
+
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+
+[languages.fr]
+languageCode = 'fr-FR'
+languageDirection = 'ltr'
+languageName = 'Français'
+title = 'My Title (fr)'
+weight = 1
+
+[languages.en]
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #45675'
+languageDirection = 'ltr'
+languageName = 'English'
+title = 'My Title (en)'
+weight = 2
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Timeline'
+pageRef = '/timeline'
+weight = 20
