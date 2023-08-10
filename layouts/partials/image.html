@@ -1,0 +1,32 @@
+{{- $src := .src }}
+{{- $class := .class }}
+{{- $alt := .alt }}
+{{- $sizes := default (slice "300x" "600x" "1200x") .sizes }}
+
+{{- $r := partial "fetch-image" (dict "src" $src) }}
+
+{{- if $r }}
+
+  {{- /* Generating resized images */}}
+
+  {{- $scaledImages := slice }}
+  {{- range $index, $size := $sizes }}
+    {{- $scaledImage := $r.Resize ( printf "%s webp photo" $size) }}
+    {{- $scaledImages = $scaledImages | append $scaledImage }}
+  {{- end }}
+
+  {{- $sources := slice }}
+  {{- range $index, $scaledImage := $scaledImages }}
+    {{- $sources = $sources | append (printf "%s %dw" $scaledImage.RelPermalink $scaledImage.Width) }}
+  {{- end }}
+
+  {{- /* Render image element. */}}
+
+  <img class="{{ .class }}" alt="{{ .alt }}"
+    src="{{ (index $scaledImages 0).RelPermalink }}"
+    width="{{ (index $scaledImages 0).Width }}"
+    height="{{ (index $scaledImages 0).Height }}"
+    srcset="{{ delimit $sources "," }}"
+  >
+
+{{- end }}

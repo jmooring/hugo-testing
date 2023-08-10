@@ -1,0 +1,12 @@
+{{ $u := .src }}
+{{ $r := "" }}
+{{ with resources.GetRemote $u }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $r = . }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $u }}
+{{ end }}
+{{ return $r }}

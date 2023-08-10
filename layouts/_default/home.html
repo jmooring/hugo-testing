@@ -9,7 +9,21 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  {{ partial "image.html" (dict
+      "alt" "alt-first-call"
+      "class" "class-first-call"
+      "sizes" (slice "100x100" "150x150" "200x200")
+      "src" "https://www.veriphor.com/shared/images/a.jpg"
+    )
+  }}
+
+  {{ partial "image.html" (dict
+      "alt" "alt-second-call"
+      "class" "class-second-call"
+      "sizes" (slice "100x100" "150x150" "200x200")
+      "src" "https://www.veriphor.com/shared/images/a.jpg"
+    )
+  }}
+
 {{ end }}
