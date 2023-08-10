@@ -1,3 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #45713'
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+[permalinks.page]
+posts = '/:sections[1]/:slug/'
+[permalinks.section]
+posts = '/:sections[1]/'
+
+[[cascade]]
+[cascade._build]
+render = 'never'
+[cascade._target]
+path = '/posts/**/_index.md'
