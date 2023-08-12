@@ -9,7 +9,26 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Data</h2>
+  <pre>{{ jsonify (dict "indent" "  ") site.Data.shows }}</pre>
+
+  <h2>The top 2 networks</h2>
+  {{ with partial "get-top-n" (dict "data" "shows" "key" "Network" "qty" 2) }}
+    <ul>
+    {{ range $k, $v := . }}
+      <li>{{ printf "#%d - %s" (add 1 $k) $v }}</li>
+    {{ end }}
+    </ul>
   {{ end }}
+
+  <h2>The top 2 genres</h2>
+  {{ with partial "get-top-n" (dict "data" "shows" "key" "genre" "qty" 2) }}
+    <ul>
+    {{ range $k, $v := . }}
+      <li>{{ printf "#%d - %s" (add 1 $k) $v }}</li>
+    {{ end }}
+    </ul>
+  {{ end }}
+
 {{ end }}

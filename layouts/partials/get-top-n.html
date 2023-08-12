@@ -1,0 +1,22 @@
+{{ $counts := newScratch }}
+{{ range index site.Data $.data }}
+  {{ with index . $.key }}
+    {{ $counts.Add . 1 }}
+  {{ end }}
+{{ end }}
+
+{{ $sortedKeys := slice }}
+{{ range seq (len $counts.Values) }}
+  {{ $maxKey := "" }}
+  {{ $lastValue := 0 }}
+  {{ range $k, $v := $counts.Values }}
+    {{ if gt $v $lastValue }}
+      {{ $lastValue = $v }}
+      {{ $maxKey = $k }}
+    {{ end }}
+  {{ end }}
+  {{ $sortedKeys = $sortedKeys | append $maxKey }}
+  {{ $counts.Delete $maxKey }}
+{{ end }}
+
+{{ return ($sortedKeys | first $.qty) }}

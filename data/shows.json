@@ -1,0 +1,44 @@
+{
+  "loki": {
+    "title": "Loki",
+    "nickname": "loki",
+    "year": 2021,
+    "genre": "Drama",
+    "Network": "Disney+"
+  },
+  "theoffice": {
+    "title": "The Office",
+    "nickname": "theoffice",
+    "year": 2005,
+    "genre": "Comedy",
+    "Network": "NBC"
+  },
+  "seinfeld": {
+    "title": "Seinfeld",
+    "nickname": "seinfeld",
+    "year": 1989,
+    "genre": "Comedy",
+    "Network": "NBC"
+  },
+  "foo": {
+    "title": "Foo",
+    "nickname": "Foo",
+    "year": 2005,
+    "genre": "Comedy",
+    "Network": "NBC"
+  },
+  "bar": {
+    "title": "Bar",
+    "nickname": "Bar",
+    "year": 2012,
+    "genre": "Drama",
+    "Network": "ABC"
+  },
+  "baz": {
+    "title": "Baz",
+    "nickname": "Baz",
+    "year": 2019,
+    "genre": "Horror",
+    "Network": "ABC"
+  }
+}
