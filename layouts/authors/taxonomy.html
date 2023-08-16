@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range site.Taxonomies.authors.ByCount }}
+    <div class="author">
+      <div class="author-portrait">
+        {{ with .Page.Resources.Get "portrait.jpg" }}
+          {{ with .Fill "80x80" }}
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+          {{ end }}
+        {{ end }}
+      </div>
+      <div class="author-name">
+        <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+      </div>
+      <div class="author-count">
+        {{ printf "%d Stories Written" .Count }}
+      </div>
+      <div class="author-socials">
+        {{ with .Page.Params.github }}
+          <a href="{{ . }}">GitHub</a>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+
+{{ end }}
