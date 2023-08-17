@@ -1,7 +1,18 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+<h1>{{ .Title }}</h1>
+<div class="author-portrait">
+  {{ with .Page.Resources.Get "portrait.jpg" }} {{ with .Fill "80x80" }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" />
+  {{ end }} {{ end }}
+</div>
+
+<div class="author-socials">
+  {{ with .Page.Params.github }}
+    <a href="{{ . }}">GitHub</a>
   {{ end }}
-{{ end }}
+</div> 
+
+<h2>{{ len .Pages }} Articles Written By {{ .Title }}</h2>
+{{ range .Pages }}
+<h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+{{ end }} {{ end }}
