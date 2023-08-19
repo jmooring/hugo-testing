@@ -1,0 +1,60 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <h2>About this quiz</h2>
+
+  {{/* Render list of subjects. */}}
+  {{- with .Params.include_subjects }}
+    <div>Subjects:
+      {{- range $k, $_ := . }}
+        {{- with index site.Taxonomies.subject (anchorize .) }}
+          {{- if $k }},{{ end }}
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+        {{- end }}
+      {{- end }}
+    </div>
+  {{- end }}
+
+  {{/* Render list of levels. */}}
+  {{- with .Params.include_levels }}
+    <div>Levels:
+      {{- range . }}
+        {{- with index site.Taxonomies.level . }}
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+        {{- end }}
+      {{- end }}
+    </div>
+  {{- end }}
+
+  {{/* Render number of questions. */}}
+  {{- with .Params.number_of_questions }}
+    <div>Number of questions: {{ . }}</div>
+  {{- end }}
+
+  <h2>Questions</h2>
+
+  {{/* Build page collection. */}}
+  {{- $p := where site.RegularPages "Type" "questions" }}
+  {{- with .Params.include_subjects }}
+    {{- $p = where $p "Params.subject" "intersect" . }}
+  {{- end }}
+  {{- with .Params.include_levels }}
+    {{- $p = where $p "Params.level" "intersect" . }}
+  {{- end }}
+  {{- if .Params.shuffle }}
+    {{- $p = $p | shuffle }}
+  {{- end }}
+  {{- with .Params.number_of_questions }}
+    {{- $p = $p | first . }}
+  {{- end }}
+
+  {{/* Render the questions. */}}
+  {{- range $k, $_ := $p }}
+    {{- $id := printf "question-%d" (add 1 $k) }}
+    <div id="{{ $id }}" class="question">
+      {{ .Content }}
+    </div>
+  {{- end }}
+
+{{- end }}
