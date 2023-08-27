@@ -8,6 +8,7 @@
     {{ else }}
       <h1>{{ $title }} (continued)</h1>
     {{ end }}
+    {{ .TableOfContents }}
     {{ .Content }}
   {{ end }}
 

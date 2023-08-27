@@ -5,7 +5,11 @@ This is page 4 of a multipage article.
 
 ![Quz](/img/quz.jpg)
 
+## Section 1
+
 The first of the conifers you meet in going up the range from the west is the digger nut-pine (_Pinus Sabiniana_), a remarkably open, airy, wide-branched tree, forty to sixty feet high, with long, sparse, grayish green foliage and large cones. At a height of fifteen to thirty feet from the ground the trunk usually divides into several main branches, which, after bearing away from one another, shoot straight up and form separate heads as if the axis of the tree had been broken, while the secondary branches divide again and again into rather slender sprays loosely tasseled, with leaves eight to twelve inches long. The yellow and purple flowers are about an inch long, the staminate in showy clusters. The big, rough, burly cones, five to eight or ten inches in length and five or six in diameter, are rich brown in color when ripe, and full of hard-shelled nuts that are greatly prized by Indians and squirrels. This strange-looking pine, enjoying hot sunshine like a palm, is sparsely distributed along the driest part of the Sierra among small oaks and chaparral, and with its gray mist of foliage, strong trunk and branches, and big cones seen in relief on the glowing sky, forms the most striking feature of the foothill vegetation.
+
+## Section 2
 
 Pinus attenuata is a small, slender, arrowy tree, with pale green leaves in threes, clustered flowers half an inch long, brownish yellow and crimson, and cones whorled in conspicuous clusters around the branches and also around the trunk. The cones never fall off or open until the tree dies. They are about four inches long, exceedingly strong and solid, and varnished with hard resin forming a waterproof and almost worm and squirrel proof package, in which the seeds are kept fresh and safe during the lifetime of the tree. Sometimes one of the trunk cones is overgrown and imbedded in the heart wood like a knot, but nearly all are pushed out and kept on the surface by the pressure of the successive layers of wood against the base.
 

@@ -5,7 +5,11 @@ This is page 2 of a multipage article.
 
 ![quz](/img/bar.jpg)
 
+## Section 1
+
 One of the best ways to see tree flowers is to climb one of the tallest trees and to get into close tingling touch with them, and then look broad. Speaking of the benefits of tree climbing, Thoreau says: “I found my account in climbing a tree once. It was a tall white pine, on the top of a hill; and though I got well pitched, I was well paid for it, for I discovered new mountains in the horizon which I had never seen before. I might have walked about the foot of the tree for threescore years and ten, and yet I certainly should never have seen them. But, above all, I discovered around me,—it was near the middle of June,—on the ends of the topmost branches, a few minute and delicate red conelike blossoms, the fertile flower of the white pine looking heavenward. I carried straightway to the village the topmost spire, and showed it to stranger jurymen who walked the streets,—for it was court week,—and to farmers and lumbermen and woodchoppers and hunters, and not one had ever seen the like before, but they wondered as at a star dropped down.”
+
+## Section 2
 
 The same marvelous blindness prevails here, although the blossoms are a thousandfold more abundant and telling. Once when I was collecting flowers of the red silver fir near a summer tourist resort on the mountains above Lake Tahoe, I carried a handful of flowery branches to the boarding house, where they quickly attracted a wondering, admiring crowd of men, women, and children. “Oh, where did you get these?” they cried. “How pretty they are—mighty handsome—just too lovely for anything—where do they grow?” “On the commonest trees about you,” I replied. “You are now standing beside one of them, and it is in full bloom; look up.” And I pointed to a blossom-laden Abies magnifica, about a hundred and twenty feet high, in front of the house, used as a hitching post. And seeing its beauty for the first time, their wonder could hardly have been greater or more sincere had their silver fir hitching post blossomed for them at that moment as suddenly as Aaron’s rod.
 
