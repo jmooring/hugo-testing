@@ -6,15 +6,16 @@
     <h1>{{ .Title }}</h1>
   {{ end }}
 
+  {{ partial "toc.html" . }}
   {{ .Content }}
 
   {{ if .Params.multipage }}
     {{ $p := append .CurrentSection.Pages.ByWeight (slice .CurrentSection) }}
     {{ with $p.Next . }}
-      <a href="{{ .RelPermalink }}">Previous page</a>
+      <a href="{{ .RelPermalink }}">Previous</a>
     {{ end }}
     {{ with $p.Prev . }}
-      <a href="{{ .RelPermalink }}">Next page</a>
+      <a href="{{ .RelPermalink }}">Next</a>
     {{ end }}
   {{ end }}
 

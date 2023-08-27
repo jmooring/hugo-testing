@@ -14,3 +14,13 @@ contentDir = 'content/de'
 languageCode = 'de-DE'
 languageName = 'Deutsch'
 weight = 2
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
