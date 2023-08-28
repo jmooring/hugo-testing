@@ -1,0 +1,33 @@
+{{ define "main" }}
+  [layouts/tags/list.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <h2>Range over .Data.Terms</h2>
+
+  <p>This will be blank if you are viewing a term page.</p>
+  {{ with .Data.Terms }}
+    <ul>
+      {{ range $term, $weightedPages := . }}
+        <li>{{ $term }}</li>
+        {{ with $weightedPages }}
+          <ul>
+            {{ range . }}
+              <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  <h2>Range over .Pages</h2>
+  {{ with .Pages }}
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+{{ end }}
