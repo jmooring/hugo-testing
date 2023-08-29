@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #4428'
+disableKinds = ['RSS','sitemap','taxonomy','term']
+uglyURLs = true
+
+[params.render_hooks.link]
+errorLevel = 'error' # ignore (default), warning, or error
+
+[params.render_hooks.image]
+errorLevel = 'error' # ignore (default), warning, or error
