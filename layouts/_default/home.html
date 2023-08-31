@@ -8,8 +8,26 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  <h2>Shortcode</h2>
+  <p>All figures on this page are created with:</p>
+  {{ $s := `{{</* figure src="/foo.jpg" class="center" */>}}` }}
+  {{ highlight $s "text" }}
+
+  <h2>HTML</h2>
+  <p>Hugo renders all figure shortcodes exactly as they should be:</p>
+  {{ $s := `
+<figure class="center">
+  <img src="/foo.jpg">
+</figure>`
+  }}
+  {{ highlight (trim $s "\n") "html" }}
+  <p>At this point Hugo has done its job. If you don't like the appearance, change the CSS.</p>
+
+  <h2>CSS</h2>
+  <p>This is the only CSS used on this site, read directly from assets/css/main.css:</p>
+  {{ highlight (resources.Get "css/main.css").Content "css" }}
+
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
 {{ end }}

@@ -1,0 +1,15 @@
+figure {
+  border: 3px solid green;
+  padding: 1em; /* so you can see both borders clearly */
+}
+
+img {
+  border: 3px solid red;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block; /* irrelevant because figures are block elements */
+}
