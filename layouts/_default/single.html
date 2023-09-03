@@ -10,5 +10,13 @@
     </ul>
   {{ end }}
 
+  {{ with .GetTerms "ingredients" }}
+    <p>Tags:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
