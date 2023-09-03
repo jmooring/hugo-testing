@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #46026
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/46026>
 
-Description: @@DESCRIPTION@@
+Description: Detect @@DESCRIPTION@@ Format Dead Links
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-46026 https://github.com/jmooring/hugo-testing hugo-forum-topic-46026
+cd hugo-forum-topic-46026
 hugo server
 ```
