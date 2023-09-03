@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/46026>
 
-Description: Detect @@DESCRIPTION@@ Format Dead Links
+Description: Detect and Format Dead Links
 
 ## Instructions
 
