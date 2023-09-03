@@ -1,3 +1,211 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #46011'
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'prebuild/public/'
+target = 'data/mount_targets/'
+
+[module]
+proxy = "https://proxy.golang.org,direct"
+
+  [module.hugoVersion]
+  extended = false
+  min = "0.116.1"
+
+  [[module.mounts]]
+  source = "assets"
+  target = "assets"
+
+  [[module.mounts]]
+  source = "hugo_stats.json"
+  target = "assets/watching/hugo_stats.json"
+
+  [[module.imports]]
+  path = "github.com/moby/moby"
+
+    [[module.imports.mounts]]
+    source = "docs/api"
+    target = "content/engine/api"
+    includeFiles = "*.md"
+
+    [[module.imports.mounts]]
+    source = "docs/api"
+    target = "static/reference/engine"
+    includeFiles = "*.yaml"
+
+  [[module.imports]]
+  path = "github.com/moby/buildkit"
+
+    [[module.imports.mounts]]
+    source = "frontend/dockerfile/docs/reference.md"
+    target = "content/engine/reference/builder.md"
+
+    [[module.imports.mounts]]
+    source = "docs/buildkitd.toml.md"
+    target = "content/build/buildkit/toml-configuration.md"
+
+    [[module.imports.mounts]]
+    source = "docs/attestations/slsa-definitions.md"
+    target = "content/build/attestations/slsa-definitions.md"
+
+    [[module.imports.mounts]]
+    source = "docs/attestations/attestation-storage.md"
+    target = "content/build/attestations/attestation-storage.md"
+
+  [[module.imports]]
+  path = "github.com/docker/buildx"
+
+    [[module.imports.mounts]]
+    source = "docs/bake-reference.md"
+    target = "content/build/bake/reference.md"
+
+  [[module.imports]]
+  path = "github.com/docker/scout-cli"
+
+    [[module.imports.mounts]]
+    source = "docs"
+    includeFiles = "*.yaml"
+    target = "data/scout-cli"
+
+  [[module.imports]]
+  path = "github.com/docker/cli"
+
+    [[module.imports.mounts]]
+    source = "docs/extend"
+    target = "content/engine/extend"
+    excludefiles = "index.md"
+
+    [[module.imports.mounts]]
+    source = "docs/extend/index.md"
+    target = "content/engine/extend/_index.md"
+
+    [[module.imports.mounts]]
+    source = "docs/deprecated.md"
+    target = "content/engine/deprecated.md"
+
+    [[module.imports.mounts]]
+    source = "docs/reference/run.md"
+    target = "content/engine/reference/run.md"
+
+    [[module.imports.mounts]]
+    source = "docs/reference/commandline/cli.md"
+    target = "content/engine/reference/commandline/cli.md"
+
+    [[module.imports.mounts]]
+    source = "docs/reference/commandline/dockerd.md"
+    target = "content/engine/reference/commandline/dockerd.md"
+
+  [[module.imports]]
+  path = "github.com/docker/compose-cli"
+
+    [[module.imports.mounts]]
+    source = "docs/aci-compose-features.md"
+    target = "content/cloud/aci-compose-features.md"
+
+    [[module.imports.mounts]]
+    source = "docs/aci-container-features.md"
+    target = "content/cloud/aci-container-features.md"
+
+    [[module.imports.mounts]]
+    source = "docs/ecs-architecture.md"
+    target = "content/cloud/ecs-architecture.md"
+
+    [[module.imports.mounts]]
+    source = "docs/ecs-compose-examples.md"
+    target = "content/cloud/ecs-compose-examples.md"
+
+    [[module.imports.mounts]]
+    source = "docs/ecs-compose-features.md"
+    target = "content/cloud/ecs-compose-features.md"
+
+  [[module.imports]]
+  path = "github.com/distribution/distribution"
+
+    [[module.imports.mounts]]
+    source = "docs"
+    target = "content/registry"
+    excludeFiles = [ "**/index.md", "**/api.md.tmpl" ]
+
+    [[module.imports.mounts]]
+    source = "docs/spec/index.md"
+    target = "content/registry/spec/_index.md"
+
+    [[module.imports.mounts]]
+    source = "docs/spec/auth/index.md"
+    target = "content/registry/spec/auth/_index.md"
+
+  [[module.imports]]
+  path = "github.com/compose-spec/compose-spec"
+
+    [[module.imports.mounts]]
+    source = "01-status.md"
+    target = "content/compose/compose-file/01-status.md"
+
+    [[module.imports.mounts]]
+    source = "02-model.md"
+    target = "content/compose/compose-file/02-model.md"
+
+    [[module.imports.mounts]]
+    source = "03-compose-file.md"
+    target = "content/compose/compose-file/03-compose-file.md"
+
+    [[module.imports.mounts]]
+    source = "04-version-and-name.md"
+    target = "content/compose/compose-file/04-version-and-name.md"
+
+    [[module.imports.mounts]]
+    source = "05-services.md"
+    target = "content/compose/compose-file/05-services.md"
+
+    [[module.imports.mounts]]
+    source = "06-networks.md"
+    target = "content/compose/compose-file/06-networks.md"
+
+    [[module.imports.mounts]]
+    source = "07-volumes.md"
+    target = "content/compose/compose-file/07-volumes.md"
+
+    [[module.imports.mounts]]
+    source = "08-configs.md"
+    target = "content/compose/compose-file/08-configs.md"
+
+    [[module.imports.mounts]]
+    source = "09-secrets.md"
+    target = "content/compose/compose-file/09-secrets.md"
+
+    [[module.imports.mounts]]
+    source = "10-fragments.md"
+    target = "content/compose/compose-file/10-fragments.md"
+
+    [[module.imports.mounts]]
+    source = "11-extension.md"
+    target = "content/compose/compose-file/11-extension.md"
+
+    [[module.imports.mounts]]
+    source = "12-interpolation.md"
+    target = "content/compose/compose-file/12-interpolation.md"
+
+    [[module.imports.mounts]]
+    source = "13-merge.md"
+    target = "content/compose/compose-file/13-merge.md"
+
+    [[module.imports.mounts]]
+    source = "14-include.md"
+    target = "content/compose/compose-file/14-include.md"
+
+    [[module.imports.mounts]]
+    source = "15-profiles.md"
+    target = "content/compose/compose-file/15-profiles.md"
+
+    [[module.imports.mounts]]
+    source = "build.md"
+    target = "content/compose/compose-file/build.md"
+
+    [[module.imports.mounts]]
+    source = "deploy.md"
+    target = "content/compose/compose-file/deploy.md"

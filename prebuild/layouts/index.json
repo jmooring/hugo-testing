@@ -1,0 +1,10 @@
+{{- $mountTargets := dict }}
+{{- with site.Data.config.module.imports }}
+  {{- range $import := . }}
+    {{- range .mounts }}
+      {{- $m := dict .target (dict "source" .source "path" $import.path) }}
+      {{- $mountTargets = merge $mountTargets $m }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- jsonify (dict "indent" "  ") $mountTargets }}

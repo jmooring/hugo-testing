@@ -1,0 +1,870 @@
+{
+  "archetypedir": "archetypes",
+  "assetdir": "assets",
+  "baseurl": "https://example.org/",
+  "build": {
+    "buildstats": {},
+    "cachebusters": [
+      {
+        "source": "assets/.*\\.(js|ts|jsx|tsx)",
+        "target": "(js|scripts|javascript)"
+      },
+      {
+        "source": "assets/.*\\.(css|sass|scss)$",
+        "target": "(css|styles|scss|sass)"
+      },
+      {
+        "source": "(postcss|tailwind)\\.config\\.js",
+        "target": "(css|styles|scss|sass)"
+      },
+      {
+        "source": "assets/.*\\.(.*)$",
+        "target": "$1"
+      }
+    ],
+    "useresourcecachewhen": "fallback"
+  },
+  "cachedir": "/home/jmooring/.cache/hugo_cache",
+  "caches": {
+    "assets": {
+      "dir": ":resourceDir/_gen",
+      "maxage": -1
+    },
+    "getcsv": {
+      "dir": ":cacheDir/:project",
+      "maxage": -1
+    },
+    "getjson": {
+      "dir": ":cacheDir/:project",
+      "maxage": -1
+    },
+    "getresource": {
+      "dir": ":cacheDir/:project",
+      "maxage": -1
+    },
+    "images": {
+      "dir": ":resourceDir/_gen",
+      "maxage": -1
+    },
+    "modules": {
+      "dir": ":cacheDir/modules",
+      "maxage": -1
+    }
+  },
+  "contentdir": "content",
+  "datadir": "data",
+  "defaultcontentlanguage": "en",
+  "deployment": {
+    "invalidatecdn": true,
+    "maxdeletes": 256,
+    "workers": 10
+  },
+  "environment": "production",
+  "frontmatter": {
+    "date": [
+      "date",
+      "publishdate",
+      "pubdate",
+      "published",
+      "lastmod",
+      "modified"
+    ],
+    "expirydate": [
+      "expirydate",
+      "unpublishdate"
+    ],
+    "lastmod": [
+      ":git",
+      "lastmod",
+      "modified",
+      "date",
+      "publishdate",
+      "pubdate",
+      "published"
+    ],
+    "publishdate": [
+      "publishdate",
+      "pubdate",
+      "published",
+      "date"
+    ]
+  },
+  "i18ndir": "i18n",
+  "imaging": {
+    "bgcolor": "#ffffff",
+    "hint": "photo",
+    "quality": 75,
+    "resamplefilter": "box"
+  },
+  "languagecode": "en-US",
+  "languages": {
+    "en": {
+      "languagecode": "en-US"
+    }
+  },
+  "layoutdir": "layouts",
+  "markup": {
+    "asciidocext": {
+      "backend": "html5",
+      "failurelevel": "fatal",
+      "noheaderorfooter": true,
+      "safemode": "unsafe"
+    },
+    "defaultmarkdownhandler": "goldmark",
+    "goldmark": {
+      "extensions": {
+        "cjk": {},
+        "definitionlist": true,
+        "footnote": true,
+        "linkify": true,
+        "linkifyprotocol": "https",
+        "strikethrough": true,
+        "table": true,
+        "tasklist": true,
+        "typographer": {
+          "apostrophe": "\u0026rsquo;",
+          "ellipsis": "\u0026hellip;",
+          "emdash": "\u0026mdash;",
+          "endash": "\u0026ndash;",
+          "leftanglequote": "\u0026laquo;",
+          "leftdoublequote": "\u0026ldquo;",
+          "leftsinglequote": "\u0026lsquo;",
+          "rightanglequote": "\u0026raquo;",
+          "rightdoublequote": "\u0026rdquo;",
+          "rightsinglequote": "\u0026rsquo;"
+        }
+      },
+      "parser": {
+        "attribute": {
+          "title": true
+        },
+        "autoheadingid": true,
+        "autoheadingidtype": "github",
+        "wrapstandaloneimagewithinparagraph": true
+      },
+      "renderer": {}
+    },
+    "highlight": {
+      "codefences": true,
+      "linenostart": 1,
+      "linenumbersintable": true,
+      "noclasses": true,
+      "style": "monokai",
+      "tabwidth": 4
+    },
+    "tableofcontents": {
+      "endlevel": 3,
+      "startlevel": 2
+    }
+  },
+  "mediatypes": {
+    "application/json": {
+      "delimiter": ".",
+      "suffixes": [
+        "json"
+      ]
+    },
+    "application/manifest+json": {
+      "delimiter": ".",
+      "suffixes": [
+        "webmanifest"
+      ]
+    },
+    "application/octet-stream": {
+      "delimiter": "."
+    },
+    "application/pdf": {
+      "delimiter": ".",
+      "suffixes": [
+        "pdf"
+      ]
+    },
+    "application/rss+xml": {
+      "delimiter": ".",
+      "suffixes": [
+        "xml",
+        "rss"
+      ]
+    },
+    "application/toml": {
+      "delimiter": ".",
+      "suffixes": [
+        "toml"
+      ]
+    },
+    "application/wasm": {
+      "delimiter": ".",
+      "suffixes": [
+        "wasm"
+      ]
+    },
+    "application/xml": {
+      "delimiter": ".",
+      "suffixes": [
+        "xml"
+      ]
+    },
+    "application/yaml": {
+      "delimiter": ".",
+      "suffixes": [
+        "yaml",
+        "yml"
+      ]
+    },
+    "font/otf": {
+      "delimiter": ".",
+      "suffixes": [
+        "otf"
+      ]
+    },
+    "font/ttf": {
+      "delimiter": ".",
+      "suffixes": [
+        "ttf"
+      ]
+    },
+    "image/bmp": {
+      "delimiter": ".",
+      "suffixes": [
+        "bmp"
+      ]
+    },
+    "image/gif": {
+      "delimiter": ".",
+      "suffixes": [
+        "gif"
+      ]
+    },
+    "image/jpeg": {
+      "delimiter": ".",
+      "suffixes": [
+        "jpg",
+        "jpeg",
+        "jpe",
+        "jif",
+        "jfif"
+      ]
+    },
+    "image/png": {
+      "delimiter": ".",
+      "suffixes": [
+        "png"
+      ]
+    },
+    "image/svg+xml": {
+      "delimiter": ".",
+      "suffixes": [
+        "svg"
+      ]
+    },
+    "image/tiff": {
+      "delimiter": ".",
+      "suffixes": [
+        "tif",
+        "tiff"
+      ]
+    },
+    "image/webp": {
+      "delimiter": ".",
+      "suffixes": [
+        "webp"
+      ]
+    },
+    "text/calendar": {
+      "delimiter": ".",
+      "suffixes": [
+        "ics"
+      ]
+    },
+    "text/css": {
+      "delimiter": ".",
+      "suffixes": [
+        "css"
+      ]
+    },
+    "text/csv": {
+      "delimiter": ".",
+      "suffixes": [
+        "csv"
+      ]
+    },
+    "text/html": {
+      "delimiter": ".",
+      "suffixes": [
+        "html"
+      ]
+    },
+    "text/javascript": {
+      "delimiter": ".",
+      "suffixes": [
+        "js",
+        "jsm",
+        "mjs"
+      ]
+    },
+    "text/jsx": {
+      "delimiter": ".",
+      "suffixes": [
+        "jsx"
+      ]
+    },
+    "text/markdown": {
+      "delimiter": ".",
+      "suffixes": [
+        "md",
+        "markdown"
+      ]
+    },
+    "text/plain": {
+      "delimiter": ".",
+      "suffixes": [
+        "txt"
+      ]
+    },
+    "text/tsx": {
+      "delimiter": ".",
+      "suffixes": [
+        "tsx"
+      ]
+    },
+    "text/typescript": {
+      "delimiter": ".",
+      "suffixes": [
+        "ts"
+      ]
+    },
+    "text/x-sass": {
+      "delimiter": ".",
+      "suffixes": [
+        "sass"
+      ]
+    },
+    "text/x-scss": {
+      "delimiter": ".",
+      "suffixes": [
+        "scss"
+      ]
+    },
+    "video/3gpp": {
+      "delimiter": ".",
+      "suffixes": [
+        "3gpp",
+        "3gp"
+      ]
+    },
+    "video/mp4": {
+      "delimiter": ".",
+      "suffixes": [
+        "mp4"
+      ]
+    },
+    "video/mpeg": {
+      "delimiter": ".",
+      "suffixes": [
+        "mpg",
+        "mpeg"
+      ]
+    },
+    "video/ogg": {
+      "delimiter": ".",
+      "suffixes": [
+        "ogv"
+      ]
+    },
+    "video/webm": {
+      "delimiter": ".",
+      "suffixes": [
+        "webm"
+      ]
+    },
+    "video/x-msvideo": {
+      "delimiter": ".",
+      "suffixes": [
+        "avi"
+      ]
+    }
+  },
+  "minify": {
+    "tdewolff": {
+      "css": {
+        "keepcss2": true
+      },
+      "html": {
+        "keepconditionalcomments": true,
+        "keepdefaultattrvals": true,
+        "keepdocumenttags": true,
+        "keependtags": true
+      },
+      "js": {
+        "version": 2022
+      },
+      "json": {},
+      "svg": {},
+      "xml": {}
+    }
+  },
+  "module": {
+    "hugoversion": {
+      "min": "0.116.1"
+    },
+    "imports": [
+      {
+        "mounts": [
+          {
+            "includefiles": "*.md",
+            "source": "docs/api",
+            "target": "content/engine/api"
+          },
+          {
+            "includefiles": "*.yaml",
+            "source": "docs/api",
+            "target": "static/reference/engine"
+          }
+        ],
+        "path": "github.com/moby/moby"
+      },
+      {
+        "mounts": [
+          {
+            "source": "frontend/dockerfile/docs/reference.md",
+            "target": "content/engine/reference/builder.md"
+          },
+          {
+            "source": "docs/buildkitd.toml.md",
+            "target": "content/build/buildkit/toml-configuration.md"
+          },
+          {
+            "source": "docs/attestations/slsa-definitions.md",
+            "target": "content/build/attestations/slsa-definitions.md"
+          },
+          {
+            "source": "docs/attestations/attestation-storage.md",
+            "target": "content/build/attestations/attestation-storage.md"
+          }
+        ],
+        "path": "github.com/moby/buildkit"
+      },
+      {
+        "mounts": [
+          {
+            "source": "docs/bake-reference.md",
+            "target": "content/build/bake/reference.md"
+          }
+        ],
+        "path": "github.com/docker/buildx"
+      },
+      {
+        "mounts": [
+          {
+            "includefiles": "*.yaml",
+            "source": "docs",
+            "target": "data/scout-cli"
+          }
+        ],
+        "path": "github.com/docker/scout-cli"
+      },
+      {
+        "mounts": [
+          {
+            "excludefiles": "index.md",
+            "source": "docs/extend",
+            "target": "content/engine/extend"
+          },
+          {
+            "source": "docs/extend/index.md",
+            "target": "content/engine/extend/_index.md"
+          },
+          {
+            "source": "docs/deprecated.md",
+            "target": "content/engine/deprecated.md"
+          },
+          {
+            "source": "docs/reference/run.md",
+            "target": "content/engine/reference/run.md"
+          },
+          {
+            "source": "docs/reference/commandline/cli.md",
+            "target": "content/engine/reference/commandline/cli.md"
+          },
+          {
+            "source": "docs/reference/commandline/dockerd.md",
+            "target": "content/engine/reference/commandline/dockerd.md"
+          }
+        ],
+        "path": "github.com/docker/cli"
+      },
+      {
+        "mounts": [
+          {
+            "source": "docs/aci-compose-features.md",
+            "target": "content/cloud/aci-compose-features.md"
+          },
+          {
+            "source": "docs/aci-container-features.md",
+            "target": "content/cloud/aci-container-features.md"
+          },
+          {
+            "source": "docs/ecs-architecture.md",
+            "target": "content/cloud/ecs-architecture.md"
+          },
+          {
+            "source": "docs/ecs-compose-examples.md",
+            "target": "content/cloud/ecs-compose-examples.md"
+          },
+          {
+            "source": "docs/ecs-compose-features.md",
+            "target": "content/cloud/ecs-compose-features.md"
+          }
+        ],
+        "path": "github.com/docker/compose-cli"
+      },
+      {
+        "mounts": [
+          {
+            "excludefiles": [
+              "**/index.md",
+              "**/api.md.tmpl"
+            ],
+            "source": "docs",
+            "target": "content/registry"
+          },
+          {
+            "source": "docs/spec/index.md",
+            "target": "content/registry/spec/_index.md"
+          },
+          {
+            "source": "docs/spec/auth/index.md",
+            "target": "content/registry/spec/auth/_index.md"
+          }
+        ],
+        "path": "github.com/distribution/distribution"
+      },
+      {
+        "mounts": [
+          {
+            "source": "01-status.md",
+            "target": "content/compose/compose-file/01-status.md"
+          },
+          {
+            "source": "02-model.md",
+            "target": "content/compose/compose-file/02-model.md"
+          },
+          {
+            "source": "03-compose-file.md",
+            "target": "content/compose/compose-file/03-compose-file.md"
+          },
+          {
+            "source": "04-version-and-name.md",
+            "target": "content/compose/compose-file/04-version-and-name.md"
+          },
+          {
+            "source": "05-services.md",
+            "target": "content/compose/compose-file/05-services.md"
+          },
+          {
+            "source": "06-networks.md",
+            "target": "content/compose/compose-file/06-networks.md"
+          },
+          {
+            "source": "07-volumes.md",
+            "target": "content/compose/compose-file/07-volumes.md"
+          },
+          {
+            "source": "08-configs.md",
+            "target": "content/compose/compose-file/08-configs.md"
+          },
+          {
+            "source": "09-secrets.md",
+            "target": "content/compose/compose-file/09-secrets.md"
+          },
+          {
+            "source": "10-fragments.md",
+            "target": "content/compose/compose-file/10-fragments.md"
+          },
+          {
+            "source": "11-extension.md",
+            "target": "content/compose/compose-file/11-extension.md"
+          },
+          {
+            "source": "12-interpolation.md",
+            "target": "content/compose/compose-file/12-interpolation.md"
+          },
+          {
+            "source": "13-merge.md",
+            "target": "content/compose/compose-file/13-merge.md"
+          },
+          {
+            "source": "14-include.md",
+            "target": "content/compose/compose-file/14-include.md"
+          },
+          {
+            "source": "15-profiles.md",
+            "target": "content/compose/compose-file/15-profiles.md"
+          },
+          {
+            "source": "build.md",
+            "target": "content/compose/compose-file/build.md"
+          },
+          {
+            "source": "deploy.md",
+            "target": "content/compose/compose-file/deploy.md"
+          }
+        ],
+        "path": "github.com/compose-spec/compose-spec"
+      }
+    ],
+    "mounts": [
+      {
+        "source": "assets",
+        "target": "assets"
+      },
+      {
+        "source": "prebuild/public",
+        "target": "data/mount_targets"
+      },
+      {
+        "source": "assets",
+        "target": "assets"
+      },
+      {
+        "source": "hugo_stats.json",
+        "target": "assets/watching/hugo_stats.json"
+      },
+      {
+        "source": "content",
+        "target": "content"
+      },
+      {
+        "source": "data",
+        "target": "data"
+      },
+      {
+        "source": "layouts",
+        "target": "layouts"
+      },
+      {
+        "source": "i18n",
+        "target": "i18n"
+      },
+      {
+        "source": "archetypes",
+        "target": "archetypes"
+      },
+      {
+        "source": "static",
+        "target": "static"
+      }
+    ],
+    "noproxy": "none",
+    "private": "*.*",
+    "proxy": "https://proxy.golang.org,direct",
+    "workspace": "off"
+  },
+  "outputformats": {
+    "amp": {
+      "basename": "index",
+      "ishtml": true,
+      "mediatype": "text/html",
+      "name": "amp",
+      "path": "amp",
+      "permalinkable": true,
+      "rel": "amphtml"
+    },
+    "calendar": {
+      "basename": "index",
+      "isplaintext": true,
+      "mediatype": "text/calendar",
+      "name": "calendar",
+      "protocol": "webcal://",
+      "rel": "alternate"
+    },
+    "css": {
+      "basename": "styles",
+      "isplaintext": true,
+      "mediatype": "text/css",
+      "name": "css",
+      "notalternative": true,
+      "rel": "stylesheet"
+    },
+    "csv": {
+      "basename": "index",
+      "isplaintext": true,
+      "mediatype": "text/csv",
+      "name": "csv",
+      "rel": "alternate"
+    },
+    "html": {
+      "basename": "index",
+      "ishtml": true,
+      "mediatype": "text/html",
+      "name": "html",
+      "permalinkable": true,
+      "rel": "canonical",
+      "weight": 10
+    },
+    "json": {
+      "basename": "index",
+      "isplaintext": true,
+      "mediatype": "application/json",
+      "name": "json",
+      "rel": "alternate"
+    },
+    "markdown": {
+      "basename": "index",
+      "isplaintext": true,
+      "mediatype": "text/markdown",
+      "name": "markdown",
+      "rel": "alternate"
+    },
+    "robots": {
+      "basename": "robots",
+      "isplaintext": true,
+      "mediatype": "text/plain",
+      "name": "robots",
+      "rel": "alternate"
+    },
+    "rss": {
+      "basename": "index",
+      "mediatype": "application/rss+xml",
+      "name": "rss",
+      "nougly": true,
+      "rel": "alternate"
+    },
+    "sitemap": {
+      "basename": "sitemap",
+      "mediatype": "application/xml",
+      "name": "sitemap",
+      "nougly": true,
+      "rel": "sitemap"
+    },
+    "webappmanifest": {
+      "basename": "manifest",
+      "isplaintext": true,
+      "mediatype": "application/manifest+json",
+      "name": "webappmanifest",
+      "notalternative": true,
+      "rel": "manifest"
+    }
+  },
+  "outputs": {
+    "home": [
+      "html",
+      "rss"
+    ],
+    "page": [
+      "html"
+    ],
+    "rss": [
+      "rss"
+    ],
+    "section": [
+      "html",
+      "rss"
+    ],
+    "taxonomy": [
+      "html",
+      "rss"
+    ],
+    "term": [
+      "html",
+      "rss"
+    ]
+  },
+  "paginate": 10,
+  "paginatepath": "page",
+  "permalinks": {},
+  "pluralizelisttitles": true,
+  "privacy": {
+    "disqus": {},
+    "googleanalytics": {},
+    "instagram": {},
+    "twitter": {},
+    "vimeo": {},
+    "youtube": {}
+  },
+  "publishdir": "public",
+  "related": {
+    "indices": [
+      {
+        "name": "keywords",
+        "type": "basic",
+        "weight": 100
+      },
+      {
+        "name": "date",
+        "type": "basic",
+        "weight": 10
+      },
+      {
+        "name": "tags",
+        "type": "basic",
+        "weight": 80
+      }
+    ],
+    "threshold": 80
+  },
+  "resourcedir": "resources",
+  "security": {
+    "exec": {
+      "allow": [
+        "^(dart-)?sass(-embedded)?$",
+        "^go$",
+        "^npx$",
+        "^postcss$"
+      ],
+      "osenv": [
+        "(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG)$"
+      ]
+    },
+    "funcs": {
+      "getenv": [
+        "^HUGO_",
+        "^CI$"
+      ]
+    },
+    "gotemplates": {},
+    "http": {
+      "methods": [
+        "(?i)GET|POST"
+      ],
+      "urls": [
+        ".*"
+      ]
+    }
+  },
+  "server": {
+    "redirects": [
+      {
+        "from": "**",
+        "status": 404,
+        "to": "/404.html"
+      }
+    ]
+  },
+  "services": {
+    "disqus": {},
+    "googleanalytics": {},
+    "instagram": {},
+    "rss": {
+      "limit": -1
+    },
+    "twitter": {}
+  },
+  "sitemap": {
+    "filename": "sitemap.xml",
+    "priority": -1
+  },
+  "staticdir": [
+    "static"
+  ],
+  "summarylength": 70,
+  "taxonomies": {
+    "category": "categories",
+    "tag": "tags"
+  },
+  "themesdir": "themes",
+  "timeout": "30s",
+  "title": "Hugo Forum Topic #46011",
+  "titlecasestyle": "AP",
+  "workingdir": "/home/jmooring/code/hugo-testing"
+}
