@@ -1,3 +1,42 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #46031'
+
+[taxonomies]
+  tag = "tags"
+  ingredient = "ingredients"
+  course = "courses"
+  cuisine = "cuisine"
+  category = "categories"
+
+[related]
+  threshold = 0
+  includeNewer = true
+  toLower = false
+  [[related.indices]]
+    name = "ingredients"
+    weight = 100
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+  [[related.indices]]
+    name = "courses"
+    weight = 90
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menu.main]]
+name = 'Articles'
+pageRef = '/articles'
+weight = 20
+
+[[menu.main]]
+name = 'Recipes'
+pageRef = '/recipes'
+weight = 30
