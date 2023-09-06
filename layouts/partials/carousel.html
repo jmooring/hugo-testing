@@ -5,7 +5,7 @@
         <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $item.alt }}" title="{{ $item.description }}">
       {{ end }}
     {{ else }}
-      {{ errorf "%s" "The carousel partial was unable to find %q" .  }}
+      {{ errorf "The carousel partial was unable to find %q" .  }}
     {{ end }}
   {{ end }}
 {{ end }}
