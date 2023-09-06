@@ -1,0 +1,11 @@
+{{ range site.Data.carousel }}
+  {{ with .use_image }}
+    {{ with resources.Get . }}
+      {{ with .Fill "200x200 webp" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ else }}
+      {{ errorf "%s" "The carousel partial was unable to find %q" .  }}
+    {{ end }}
+  {{ end }}
+{{ end }}
