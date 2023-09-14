@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #46212'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2023-09-14T15:00:36-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/46212'
+description = "How to `ExecuteAsTemplate` a global resource per language"
 +++
