@@ -4,10 +4,35 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ with resources.Get (printf "js/main.%s.js" .Language.Lang) }}
+    {{ if eq hugo.Environment "development" }}
+      {{ with . | js.Build }}
+        <script src="{{ .RelPermalink }}"></script>
+      {{ end }}
+    {{ else }}
+      {{ $opts := dict "minify" true }}
+      {{ with . | js.Build $opts | fingerprint }}
+        <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 </head>
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
+    {{ with .AllTranslations }}
+      <nav class="language-switcher">
+        {{ range . }}
+          {{ if eq .Language.Lang $.Language.Lang }}
+            <a class="active" aria-current="page" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          {{ else }}
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
     <hr>
   </header>
   <main>

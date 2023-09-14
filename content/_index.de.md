@@ -7,4 +7,4 @@ details = 'https://discourse.gohugo.io/t/46212'
 description = "How to `ExecuteAsTemplate` a global resource per language"
 +++
  
- This is content/_index.md
+ This is content/_index.de.md
