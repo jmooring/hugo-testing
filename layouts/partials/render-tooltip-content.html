@@ -1,0 +1,9 @@
+{{- with .Page.Store.Get "tooltips" }}
+  {{- range . | uniq | sort }}
+    {{- with index (where site.Data.tooltips "id" .) 0 }}
+      <div id="tooltip-{{- .id }}" hidden>
+        {{- .md | $.RenderString }}
+      </div>
+    {{- end }}
+  {{- end }}
+{{- end }}

@@ -1,0 +1,18 @@
+{{- $id := "" }}
+{{- $md := "" }}
+
+{{- if .IsNamedParams }}
+  {{- $id = .Get "id" }}
+  {{- $md = or (.Get "md") .Inner }}
+{{- else }}
+  {{- $id = .Get 0 }}
+  {{- $md = or (.Get 1) .Inner }}
+{{- end }}
+
+{{- if not (and $id $md) }}
+  {{- errorf "The %q shortcode requires a tooltip id and markdown. See %s" .Name .Position }}
+{{- end }}
+
+{{- .Page.Store.Add "tooltips" (slice $id) -}}
+<span class="has-tooltip" data-tooltip-id="{{ $id }}">{{ $md | .Page.RenderString }}</span>
+{{- /**/ -}}
