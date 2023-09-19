@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #46278'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2023-09-18T22:14:31-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/46278'
+description = "Render partials from JavaScript or prevent duplicate element IDs?"
 +++
