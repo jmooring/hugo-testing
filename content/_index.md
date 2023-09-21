@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #46317'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2023-09-21T16:35:18-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/46317'
+description = "Use shortcode within markdown to inject contents in arbitrary location on page"
 +++
