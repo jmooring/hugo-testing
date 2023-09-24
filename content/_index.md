@@ -6,3 +6,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/46358'
 description = "Disabling Markdown footnote links in RSS but not elsewhere"
 +++
+
+See the footnote[^1].
+
+[^1]: The footnote.
