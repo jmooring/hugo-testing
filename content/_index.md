@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #11302'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2023-09-27T10:54:24-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/11302'
+description = "Hugo throws an error for a valid shortcode call"
 +++
