@@ -11,5 +11,13 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-github-issue-11302 https://github.com/jmooring/hugo-testing hugo-github-issue-11302
 cd hugo-github-issue-11302
-hugo server
+hugo
 ```
+
+Console log (actual):
+
+> failed to extract shortcode: shortcode "a" must be closed or self-closed
+
+Console log (expected):
+
+> failed to extract shortcode: shortcode "b" must be closed or self-closed

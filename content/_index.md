@@ -6,3 +6,10 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/11302'
 description = "Hugo throws an error for a valid shortcode call"
 +++
+
+{{< a >}}
+{{< a >}}
+{{% c %}}
+**bold**
+{{% /c %}}
+{{< /a >}}
