@@ -1,3 +1,21 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://example.org/foo/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #46544'
+
+[params.render_hooks.link]
+errorLevel = 'error' # ignore (default), warning, or error (fails the build)
+highlightBroken = false # true or false (default)
+
+[params.render_hooks.image]
+errorLevel = 'error' # ignore (default), warning, or error (fails the build)
+
+[params.partials.getImageResource]
+errorLevel = 'error' # ignore (default), warning, or error (fails the build)
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'static'
+target = 'assets'
