@@ -4,6 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+  html {
+    font-size: clamp(16px, calc(65% + 12 * (100vw - 320px) / 1000), 26px);
+  }
+</style>
+  {{ partial "css.html" . }}
 </head>
 <body>
   <header>
