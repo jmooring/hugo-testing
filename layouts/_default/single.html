@@ -1,4 +1,26 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <h2>Page resource</h2>
+
+  {{ with .Resources.Get "images/a.jpg" }}
+    {{ with .Resize "200x" }}
+      {{ with . | resources.Copy "/assets/images/a.jpg" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <h2>Global resource</h2>
+
+  {{ with resources.Get "images/b.jpg" }}
+    {{ with .Resize "200x" }}
+      {{ with . | resources.Copy "/assets/images/b.jpg" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+
 {{ end }}
