@@ -6,3 +6,7 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/11516'
 description = "Shortcode escapes closing HTML tags"
 +++
+
+{{% box %}}
+Broken
+{{% /box %}}
