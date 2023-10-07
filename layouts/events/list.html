@@ -1,0 +1,45 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/* First day of current month */}}
+  {{ $fdocm := time.AsTime (printf "%d-%d-01" now.Year now.Month) }}
+
+  {{/* First day of next month */}}
+  {{ $fdonm := $fdocm.AddDate 0 1 0 }}
+
+  {{ $eventsPrevious := where .Pages "Params.eventDate" "lt" $fdocm }}
+  {{ $eventsUpcoming := where .Pages "Params.eventDate" "ge" $fdonm }}
+  {{ $eventsThisMonth := .Pages | complement $eventsPrevious $eventsUpcoming }}
+
+  {{ with $eventsThisMonth.ByParam "eventDate" }}
+    <h2>This Month</h2>
+    {{ range . }}
+      {{/*  <p class="fw-bolder fs-5 m-0 lh-1">{{ .Params.name }}</p>  */}}
+      <p class="fw-bolder fs-5 m-0 lh-1">{{ .Title }} ({{ .Params.eventDate }})</p>
+    {{ end }}
+  {{ else }}
+      <p>No meetings this month</p>
+  {{ end }}
+
+  {{ with $eventsUpcoming.ByParam "eventDate" }}
+    <h2>Upcoming</h2>
+    {{ range . }}
+      {{/*  <p class="fw-bolder fs-5 m-0 lh-1">{{ .Params.name }}</p>  */}}
+      <p class="fw-bolder fs-5 m-0 lh-1">{{ .Title }} ({{ .Params.eventDate }})</p>
+    {{ end }}
+  {{ else }}
+    <p>No upcoming meetings</p>
+  {{ end }}
+
+  {{ with $eventsPrevious.ByParam "eventDate" }}
+    <h2>Previous</h2>
+    {{ range . }}
+      {{/*  <p class="fw-bolder fs-5 m-0 lh-1">{{ .Params.name }}</p>  */}}
+      <p class="fw-bolder fs-5 m-0 lh-1">{{ .Title }} ({{ .Params.eventDate }})</p>
+    {{ end }}
+  {{ else }}
+    <p>No previous meetings</p>
+  {{ end }}
+
+{{ end }}
