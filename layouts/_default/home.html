@@ -9,7 +9,29 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <section id="main-carousel" class="splide" aria-label="A carousel of images">
+    <div class="splide__track">
+      <ul class="splide__list">
+        {{ range resources.ByType "image" }}
+          <li class="splide__slide">
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+          </li>
+      {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  <section id="thumbnail-carousel" class="splide" aria-label="Thumbnails of the carousel of images">
+    <div class="splide__track">
+      <ul class="splide__list">
+        {{ range resources.ByType "image" }}
+          <li class="splide__slide">
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
 {{ end }}

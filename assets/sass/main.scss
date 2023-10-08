@@ -1,0 +1,31 @@
+@use "../../node_modules/@splidejs/splide/dist/css/splide.min.css";
+@use "../../node_modules/@splidejs/splide/dist/css/themes/splide-default.min.css";
+
+.splide__slide img {
+  width: 100%;
+  height: auto;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 1rem 3rem;
+  max-width: 768px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
