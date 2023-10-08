@@ -1,15 +1,14 @@
-# Hugo Forum Topic #46581
+# Hugo GitHub Issue #11540
 
-Details: <https://discourse.gohugo.io/t/46581>
+Details: <https://github.com/gohugoio/hugo/issues/11540>
 
-Description: Multilingual Page bundle inheritance through translationKey?
-
+Description: Page bundles linked by translationKey do not share page resources
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b hugo-forum-topic-46581 https://github.com/jmooring/hugo-testing hugo-forum-topic-46581
-cd hugo-forum-topic-46581
+git clone --single-branch -b hugo-forum-topic-11540 https://github.com/jmooring/hugo-testing hugo-forum-topic-11540
+cd hugo-forum-topic-11540
 hugo server
 ```
