@@ -1,0 +1,23 @@
+[[main]]
+identifier = 'home'
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[main]]
+identifier = 'books'
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[main]]
+identifier = 'films'
+name = 'Films'
+pageRef = '/films'
+weight = 30
+
+[[main]]
+identifier = 'genres'
+name = 'Genres'
+pageRef = '/genres'
+weight = 40

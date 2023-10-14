@@ -3,34 +3,6 @@ languageCode = 'en-US'
 title = 'Hugo Forum Topic #44549 (en)'
 contentDir = 'content/en'
 
-# Menu entries
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-identifier = 'home'
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menu.main]]
-identifier = 'books'
-name = 'Books'
-pageRef = '/books'
-weight = 20
-
-[[menu.main]]
-identifier = 'films'
-name = 'Films'
-pageRef = '/films'
-weight = 30
-
-[[menu.main]]
-identifier = 'genres'
-name = 'Genres'
-pageRef = '/genres'
-weight = 40
-
-
 # Parameters
 # -----------------------------------------------------------------------------
 

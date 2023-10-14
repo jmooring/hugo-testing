@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# Languages
+# -----------------------------------------------------------------------------
+
+[languages.en]
+# baseURL = 'https://en.example.org/'
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+title = 'Hugo Forum Topic #44549 (en)'
+weight = 1
+
+[languages.de]
+# baseURL = 'https://de.example.org/'
+contentDir = 'content/de'
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+title = 'Hugo Forum Topic #44549 (de)'
+weight = 2
+
+# Parameters
+# -----------------------------------------------------------------------------
+
+[params.render_hooks.image]
+errorLevel = 'error' # ignore (default), warning, or error
+
+[params.render_hooks.link]
+errorLevel = 'error' # ignore (default), warning, or error
+
+# Taxonomies
+# -----------------------------------------------------------------------------
+
+[taxonomies]
+genre= 'genres'
