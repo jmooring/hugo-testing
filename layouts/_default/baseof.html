@@ -4,10 +4,28 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  <style>
+    .active {
+      background-color: yellow;
+    }
+  </style>
+
 </head>
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
+
+    {{ range .Site.Menus.main }}
+    {{ $isActive := false }}
+    {{ if or ($.HasMenuCurrent .Menu .) (.Page.Eq $) }}
+      {{ $isActive = true }}
+    {{ end }}
+    <a class="navbar-item{{ if $isActive }} active{{ end }}"
+      {{ if strings.HasPrefix .URL "http" }}target="_blank" rel="noopener"{{ end }}
+      href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+
     <hr>
   </header>
   <main>
