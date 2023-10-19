@@ -1,0 +1,3 @@
+{{- with .OutputFormats.Get "atom" }}
+  {{- printf `<atom:link href=%q rel="self" type=%q/>` .Permalink .MediaType | safeHTML }}
+{{- end }}

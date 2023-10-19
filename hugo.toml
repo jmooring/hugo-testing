@@ -1,3 +1,19 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #11555'
+
+[mediatypes."application/atom+xml"]
+suffixes = ["xml"]
+
+[outputFormats.rss]
+basename = 'rss'
+
+[outputFormats.atom]
+mediaType = 'application/atom+xml'
+basename = 'atom'
+noUgly = true
+
+[outputs]
+home = ['html','rss','atom']
+section = ['html','rss','atom']
+taxonomy = ['html','rss','atom']
