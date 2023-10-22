@@ -9,7 +9,38 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ $p := where site.RegularPages "Section" "posts" }}
+  {{ $pp := where $p "Params.pinned" true }}
+  {{ $pu := $p | complement $pp }}
+
+  <h2>Pinned: sort by publishDate (reversed)</h2>
+  {{ range $pp.ByPublishDate.Reverse }}
+  <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+  <pre>
+    publishdate = {{ .PublishDate | time.Format "2006-01-02" }}
+    weight =      {{ .Weight }}
+    date =        {{ .Date | time.Format "2006-01-02" }}
+    linkTitle =   {{ .LinkTitle }}
+    filepath =    {{ .File.Path }}
+  </pre>
   {{ end }}
+
+  <h2>Unpinned: group by publishDate</h2>
+  {{ range $pu.GroupByPublishDate "January 2006" }}
+    <h3>{{ .Key }}</h3>
+
+    {{ range .Pages.ByWeight }}
+
+      <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+      <pre>
+      publishdate = {{ .PublishDate | time.Format "2006-01-02" }}
+      weight =      {{ .Weight }}
+      date =        {{ .Date | time.Format "2006-01-02" }}
+      linkTitle =   {{ .LinkTitle }}
+      filepath =    {{ .File.Path }}
+      </pre>
+    {{ end }}
+  {{ end }}
+
 {{ end }}
