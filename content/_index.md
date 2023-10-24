@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #46777'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2023-10-24T15:21:52-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/46777'
+description = "Changing taxonomy term page title"
 +++
