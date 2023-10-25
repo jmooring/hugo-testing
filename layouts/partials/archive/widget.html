@@ -1,0 +1,20 @@
+{{- $section := .}}
+{{- with (site.GetPage $section).Sections }}
+  <h2>Archive widget</h2>
+  <table class="archive">
+    {{- range . }}
+      <tr>
+        {{- $year := .Date.Year }}
+        <td class="enabled"><a href="{{- .RelPermalink }}">{{- $year }}</a></td>
+        {{- range $i := seq 12 }}
+          {{- $m := time.AsTime (printf "2000-%02d-01" $i) | time.Format "Jan" }}
+            {{- with site.GetPage (printf "%s/%d/%02d"  $section $year $i)  }}
+              <td class="enabled"><a href="{{- .RelPermalink }}">{{- $m }}</a></td>
+            {{- else }}
+              <td class="disabled">{{- $m }}</td>
+            {{- end }}
+        {{- end }}
+      </tr>
+    {{- end }}
+  </table>
+{{- end }}

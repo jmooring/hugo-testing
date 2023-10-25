@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $p := slice }}
+  {{ range where site.RegularPages "Section" .Params.section }}
+    {{ if eq ($.Date.Format "2006-01-02") (.Date.Format "2006-01-02") }}
+      {{ $p = $p | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ range (.Paginate $p).Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Render "summary" }}
+  {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
+
+{{ end }}

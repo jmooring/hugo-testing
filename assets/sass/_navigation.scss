@@ -1,0 +1,15 @@
+// Navigation
+// ----------------------------------------------------------------------------
+
+nav {
+  margin: 1em 0;
+}
+
+nav.menu a,
+nav.language-switcher a {
+  margin-right: 0.2em;
+}
+
+nav ul li a.active {
+  background-color: yellow;
+}

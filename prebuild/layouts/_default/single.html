@@ -1,0 +1,87 @@
+{{- /* Print the line below into the file that  */}}
+
+{{- /* Validate configuraion. */}}
+{{- if not site.Params.createRedirect }}
+  {{- errorf "Missing params.redirectToArchive (bool) in prebuild/hugo.toml" }}
+{{- end }}
+
+{{- /* ------------------------------------------------------------------- */}}
+{{- /* CREATE REGULAR CONTENT FILES
+{{- /* ------------------------------------------------------------------- */}}
+
+{{- /* Determine alias URL for redirects. */}}
+{{- $aliases := slice }}
+{{- if site.Params.createRedirect }}
+  {{- $aliases = .RelPermalink }}
+{{- end }}
+
+{{- /* Determine content URL; omit leading URL for multilingual compatibility. */}}
+{{- $url := path.Join .Section (.Date.Format "2006/01/02") .File.ContentBaseName }}
+
+{{- /* Create JSON front matter. */}}
+{{- $frontMatter := dict
+  "aliases" $aliases
+  "date" (or .Date "")
+  "draft" .Draft
+  "expiryDate" (or .ExpiryDate "")
+  "lastmod" (or .Lastmod "")
+  "layout" (or .Layout "")
+  "publishDate" (or .PublishDate "")
+  "slug" (or .Slug "")
+  "title" .Title
+  "type" (or .Type "")
+  "url" $url
+}}
+{{- $frontMatter = merge $frontMatter .Params }}
+{{- $frontMatter := jsonify (dict "indent" "  ") $frontMatter }}
+
+{{- /* Publish the content file. */}}
+{{- $string := printf "%s\n%s" $frontMatter .RawContent }}
+{{- $targetPath := printf "%smarkdown" (strings.TrimSuffix .File.Ext (path.Join "content" .File.Path)) }}
+{{- (resources.FromString $targetPath $string).Publish }}
+
+{{- /* ------------------------------------------------------------------- */}}
+{{- /* CREATE SECTION CONTENT FILES
+{{- /* ------------------------------------------------------------------- */}}
+
+{{- /* Yearly section page. */}}
+{{- if not (os.FileExists (.Date.Format "public/content/2006")) }}
+  {{- $frontMatter := dict
+    "date" (printf "%d-01-01" .Date.Year)
+    "layout" "year"
+    "section" .Section
+    "title" (.Date.Format (or (T "archive_year_format_layout") "Archive for 2006"))
+    "type" "archive"
+  }}
+  {{- $frontMatter = jsonify (dict "indent" "  ") $frontMatter }}
+  {{- $targetPath := printf "%s/_index.markdown" (path.Join "content" .Section (.Date.Format "2006")) }}
+  {{- (resources.FromString $targetPath $frontMatter).Publish }}
+{{- end }}
+
+{{- /* Monthly section page. */}}
+{{- if not (os.FileExists (.Date.Format "public/content/2006/01")) }}
+  {{- $frontMatter := dict
+    "date" (printf "%d-%2d-01" .Date.Year .Date.Month)
+    "layout" "month"
+    "section" .Section
+    "title" (.Date.Format (or (T "archive_month_format_layout") "Archive for January 2006"))
+    "type" "archive"
+  }}
+  {{- $frontMatter = jsonify (dict "indent" "  ") $frontMatter }}
+  {{- $targetPath := printf "%s/_index.markdown" (path.Join "content" .Section (.Date.Format "2006/01")) }}
+  {{- (resources.FromString $targetPath $frontMatter).Publish }}
+{{- end }}
+
+{{- /* Daily section page. */}}
+{{- if not (os.FileExists (.Date.Format "public/content/2006/01/02")) }}
+  {{- $frontMatter := dict
+    "date" (.Date.Format "2006-01-02")
+    "layout" "day"
+    "section" .Section
+    "title" (.Date.Format (or (T "archive_day_format_layout") "Archive for January 2, 2006"))
+    "type" "archive"
+  }}
+  {{- $frontMatter = jsonify (dict "indent" "  ") $frontMatter }}
+  {{- $targetPath := printf "%s/_index.markdown" (path.Join "content" .Section (.Date.Format "2006/01/02")) }}
+  {{- (resources.FromString $targetPath $frontMatter).Publish }}
+{{- end }}

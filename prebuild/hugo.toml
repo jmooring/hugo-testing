@@ -1,0 +1,11 @@
+title = 'prebuild'
+disableKinds = ['RSS','sitemap','taxonomy','term','section','home']
+
+[params]
+# whether to create a redirect from the original path to the archive path
+createRedirect = true
+
+[[module.mounts]]
+# replace "posts" with whatever you name your blog section
+source = '../content/posts'
+target = 'content/posts'

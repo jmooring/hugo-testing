@@ -1,0 +1,25 @@
+{{- with (site.GetPage .).Sections }}
+  <div class="archive">
+    <h2>Archive outline</h2>
+    {{- partial "partials/inline/archive/walk.html" . }}
+  </div>
+{{- end }}
+
+{{- define "partials/inline/archive/walk.html" }}
+  <ol>
+    {{- range . }}
+    <li>
+      {{- $title := .Date.Year }}
+      {{- if eq .Layout "month" }}
+        {{- $title = .Date | time.Format "January" }}
+      {{- else if eq .Layout "day" }}
+        {{- $title = .Date | time.Format "January 2" }}
+      {{- end }}
+      <a href="{{ .RelPermalink }}">{{ $title }}</a>
+      {{- with .Pages }}
+        {{- partial "partials/inline/archive/walk.html" . }}
+      {{- end }}
+    </li>
+    {{- end }}
+  </ol>
+{{- end }}

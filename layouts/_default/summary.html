@@ -1,0 +1,6 @@
+<div class="summary">
+  {{ .Summary }}
+  {{ if .Truncated }}
+    <a href="{{ .RelPermalink }}">{{ or (T "read_more") ("Read&nbsp;more&nbsp;&raquo;") | safeHTML }}</a>
+  {{ end }}
+</div>
