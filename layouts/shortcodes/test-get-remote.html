@@ -1,0 +1,26 @@
+{{- $u := "https://blog.arb.dev/feed/?t=1698195621" }}
+{{- with resources.GetRemote $u }}
+  {{- with .Err }}
+    {{- errorf "%s" . }}
+  {{- else }}
+    {{- with . | transform.Unmarshal }}
+
+      <ul>
+        {{- range .channel.item }}
+          {{- $timestamp := time .pubDate }}
+          {{- $link := .link | plainify | htmlUnescape }}
+          {{- $postID := replace $link "https://blog.arb.dev/" "" }}
+          {{- $postID := replace $postID "/" "-" }}
+          {{- $string := printf "<h1>%s</h1>%s" .title .description }}
+          {{- $filename := printf "post/%s/%s.md" (urlize $timestamp.Year) (urlize $postID) }}
+          {{- $resource := resources.FromString $filename $string }}
+          {{- $file := $resource.RelPermalink }}
+          <li><a href="{{ $filename }}">{{ $filename }}</a></li>
+        {{- end }}
+      </ul>
+
+    {{- end }}
+  {{- end }}
+{{- else }}
+  {{- errorf "Unable to get remote resource %q" $u }}
+{{- end }}
