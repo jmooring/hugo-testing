@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/46839'
 description = "How to create an internal link to a file located in the reprository?"
 +++
+
+[link to hidden page](hidden)
