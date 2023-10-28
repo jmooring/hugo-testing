@@ -1,0 +1,19 @@
+{{- $caption := .Inner | default "" -}}
+{{- $imgName := .Get "name" -}}
+{{- $img := .Page.Resources.GetMatch (printf "images/%s*" $imgName) -}}
+{{- $pageTitle := .Page.File.ContentBaseName -}}
+
+{{- $imgSuffix := index $img.MediaType.Suffixes 0 -}}
+{{- $imgHash := md5 $img.Content -}}
+
+{{- $newPath := printf "/images/common/%s-%s-%s.%s" $pageTitle $imgName $imgHash $imgSuffix -}}
+
+{{ with resources.Copy $newPath $img }}
+{{/*  {{- .Publish -}} <-- BREAKS IF THIS LINE IS REMOVED  */}}
+<figure>
+  <img src="{{ .RelPermalink }}" />
+  {{- if $caption -}}
+    <figcaption>{{ $caption }}</figcaption>
+  {{- end }}
+</figure>
+{{ end }}

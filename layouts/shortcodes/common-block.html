@@ -1,0 +1,7 @@
+{{- $blockId := .Get "blockId" -}}
+{{- $blockBundleName := printf "/_common/%s" $blockId -}}
+{{- $blockBundle := .Site.GetPage $blockBundleName -}}
+
+{{- with $blockBundle -}}
+{{- .Content -}}
+{{- end -}}
