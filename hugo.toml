@@ -1,3 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #46887'
+
+[taxonomies]
+topic = 'topics'

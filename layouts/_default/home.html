@@ -9,7 +9,36 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+ <h2>range site.RegularPages</h2>
+{{ range site.RegularPages }}
+  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+{{ end }}
+
+<hr>
+
+<h2>range $key, $val := .Site.Taxonomies</h2>
+{{ range $key, $val := .Site.Taxonomies }} <br/>{{ $key }}  = {{ $val }} {{ end }}
+
+<hr>
+
+<h2>range site.Taxonomies.topics.Alphabetical</h2>
+{{ range site.Taxonomies.topics.Alphabetical }}
+  <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</h2>
+  <p>Value of term param foo: <b>{{ .Page.Params.foo }}</b></p>
+  <p>Image associated with term:</p>
+  {{ with .Page.Resources.Get "cover.jpg" }}
+    {{ with .Resize "150x webp" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
   {{ end }}
+  <ul>
+    {{ range .Pages.ByTitle }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+
+
 {{ end }}
