@@ -1,0 +1,18 @@
+baseURL: 'https://example.org/'
+languageCode: en-US
+title: 'Hugo Forum Topic #46901'
+module:
+  mounts:
+    - source: content
+      target: content
+    - source: articles
+      target: content/articles
+    - source: notes
+      target: content/notes
+    - source: daily
+      target: content/daily
+    - source: read
+      target: content/read
+permalinks:
+  page:
+    articles: /:slug
