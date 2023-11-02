@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ $home := "" }}
+  {{ $noop := .WordCount }}
+  {{ with .Page.Store.Get "home" }}
+    {{ $home = . | safeHTML }}
+  {{ end }}
+  {{ $home }}
+
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+{{ end }}
