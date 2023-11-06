@@ -1,3 +1,70 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #46998'
+
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# -----------------------------------------------------------------------------
+# Languages
+# -----------------------------------------------------------------------------
+
+[languages.en]
+languageCode = 'en-US'
+languageName = 'English'
+weight = 1
+
+[[languages.en.menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[languages.en.menu.main]]
+name = 'Persons'
+pageRef = '/persons'
+weight = 30
+
+[languages.fr]
+languageCode = 'fr-FR'
+languageName = 'Francais'
+weight = 2
+
+[[languages.fr.menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.fr.menu.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[languages.fr.menu.main]]
+name = 'Persons'
+pageRef = '/persons'
+weight = 30
+
+# -----------------------------------------------------------------------------
+# Moutns
+# -----------------------------------------------------------------------------
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[[module.mounts]]
+source = 'persons'
+target = 'content/persons'
+lang = 'en'
+
+[[module.mounts]]
+source = 'persons'
+target = 'content/persons'
+lang = 'fr'
