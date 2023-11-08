@@ -1,0 +1,2 @@
+{{ $anchor := .Anchor | anchorize -}}
+<h{{ .Level }} id="{{ $anchor }}">{{ .Text | safeHTML }}<a class="headerlink" {{ printf "href=%q" $anchor | safeHTMLAttr }} title="Link to this heading">#</a></h{{ .Level }}>

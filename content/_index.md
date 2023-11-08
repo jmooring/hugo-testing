@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/47018'
 description = "Are headings rendered through `render-heading.html` post-processed?"
 +++
+
+## PythonとNumPyの インストールガイド
