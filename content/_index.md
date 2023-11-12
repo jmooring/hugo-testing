@@ -6,3 +6,10 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/11703'
 description = "Manual Summary Shows Image alt Text"
 +++
+
+![Database Image](database.png)
+
+Manual summary shows the image alt text
+<!--more-->
+
+Something else.
