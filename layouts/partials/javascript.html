@@ -1,0 +1,9 @@
+{{- $jsNavigation := resources.Get "js/navigation.js" -}}
+{{- $jsSlider := resources.Get "js/slider.js" -}}
+
+{{- $scripts := slice $jsNavigation $jsSlider | resources.Concat "js/main.js" -}}
+{{- $scripts = $scripts | js.Build -}}
+{{- if hugo.IsProduction -}}
+  {{- $scripts = $scripts | minify -}}
+{{- end -}}
+<script type="module" >{{- $scripts.Content | safeJS -}}</script>

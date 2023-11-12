@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  {{ partial "javascript.html" . }}
 </head>
 <body>
   <header>
@@ -13,5 +14,6 @@
   <main>
     {{ block "main" . }}{{ end }}
   </main>
+  <div id="mySidenav"></div>
 </body>
 </html>
