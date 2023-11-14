@@ -1,3 +1,1 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #11563'
+disableKinds = ['section','rss','sitemap','taxonomy','term']

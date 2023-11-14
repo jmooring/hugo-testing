@@ -1,0 +1,8 @@
+{{ range site.RegularPages.GroupByParamDate "eventDate" "2006-01" }}
+	<p>{{ .Key }}</p>
+  <ul>
+    {{ range .Pages }}
+    <li>{{ .Title }} -- {{ .Params.eventDate | time.AsTime | time.Format "2006-01-02" }}</li>
+    {{ end }}
+  </ul>
+{{ end }}
