@@ -6,6 +6,8 @@ Description: Fit: unsupported JPEG feature
 
 ## Instructions
 
+This example requires <https://github.com/gohugoio/hugo/pull/9797>
+
 Clone this branch of the repository and build the site.
 
 ```text

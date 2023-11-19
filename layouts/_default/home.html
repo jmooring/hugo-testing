@@ -9,7 +9,38 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ range resources.ByType "image" }}
+
+    {{/*  {{ $fromGIMP := false }}
+    {{ with .Exif }}
+      {{ with .Tags.Software }}
+        {{ if in (lower .) "gimp" }}
+          {{ $fromGIMP = true }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ if $fromGIMP }}
+      {{ warnf "Skipping image from GIMP: %s" .Key }}
+    {{ else }}
+      {{ with .Resize "200x" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}  */}}
+
+    {{/* Code below requires https://github.com/gohugoio/hugo/pull/9797 */}}
+    {{ with try (.Resize "200x") }}
+      {{ with .Err }}
+        {{ warnf "%s" . }}
+      {{ else }}
+        {{ with .Value }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+
   {{ end }}
+
 {{ end }}
