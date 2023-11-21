@@ -1,16 +1,14 @@
 {{- /*
-Renders the given page using the current page as context.
+Renders the given page by passing its raw content through the RenderString method on the current page.
 
-You must call this shortcode using the {{% %}} notation.
-
-@param {string} (postional parameter 0) The path to the page, relative to the content directory.
+@param {string} (postional parameter 0) The path to the page, relative to the current directory or to the content directory.
 @returns template.HTML
 
-@example {{% include "/_common/tutorial.md" %}}
+@example {{< include "_tutorial" >}}
 */}}
 
 {{- with .Get 0 }}
-  {{- with site.GetPage . }}
+  {{- with $.Page.GetPage . }}
     {{- .RawContent | $.Page.RenderString }}
   {{- else }}
     {{- errorf "The %q shortcode was unable to find %q. See %s" $.Name . $.Position }}

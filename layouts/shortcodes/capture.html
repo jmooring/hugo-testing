@@ -1,1 +1,13 @@
-{{ .Page.Store.Set (.Get 0) .Inner }}
+{{- /*
+Captures the markup between the opening and closing shortcode tags, saving the value in the page Store using the given key.
+
+@param {string} The name of the Store key.
+
+@example {{< capture my-key >}}This is **bold** text.{{< /capture >}}
+*/}}
+
+{{- with .Get 0 }}
+  {{- $.Page.Store.Set . $.Inner }}
+{{- else }}
+  {{- errorf "The %q shortcode requires one positional parameter. See %s" .Name .Position }}
+{{- end -}}

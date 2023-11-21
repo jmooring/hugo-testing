@@ -3,20 +3,12 @@ languageCode = 'en-US'
 title = 'Hugo Forum Topic #47192'
 disableKinds = ['RSS','sitemap','taxonomy','term']
 
-[markup.goldmark.renderer]
-unsafe = true
-
 [[menu.main]]
 name = 'Home'
 pageRef = '/'
 weight = 10
 
 [[menu.main]]
-name = 'Android'
-pageRef = '/tutorials/get-started/android'
-weight = 20
-
-[[menu.main]]
-name = 'iOS'
-pageRef = '/tutorials/get-started/ios'
+name = 'Tutorials'
+pageRef = '/tutorials'
 weight = 20
