@@ -1,17 +1,17 @@
 {{- /*
-Renders the page using the RenderShortcode method on the Page object.
+Renders the given page using the current page as context.
 
 You must call this shortcode using the {{% %}} notation.
 
 @param {string} (postional parameter 0) The path to the page, relative to the content directory.
 @returns template.HTML
 
-@example {{% include "functions/_common/glob-patterns" %}}
+@example {{% include "/_common/tutorial.md" %}}
 */}}
 
 {{- with .Get 0 }}
   {{- with site.GetPage . }}
-    {{- .RenderShortcodes }}
+    {{- .RawContent | $.Page.RenderString }}
   {{- else }}
     {{- errorf "The %q shortcode was unable to find %q. See %s" $.Name . $.Position }}
   {{- end }}

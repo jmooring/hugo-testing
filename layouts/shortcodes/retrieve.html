@@ -1,0 +1,5 @@
+{{ with .Page.Store.Get (.Get 0) }}
+  {{ . }}
+{{ else }}
+  {{ errorf "The %q shortcode was unable to retrieve the %q capture key. See %s" $.Name (.Get 0) $.Position }}
+{{ end }}
