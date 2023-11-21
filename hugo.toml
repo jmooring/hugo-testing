@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #47192'
+disableKinds = ['RSS','sitemap','taxonomy','term']
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -12,10 +13,10 @@ weight = 10
 
 [[menu.main]]
 name = 'Android'
-pageRef = '/android'
+pageRef = '/tutorials/get-started/android'
 weight = 20
 
 [[menu.main]]
 name = 'iOS'
-pageRef = '/ios'
+pageRef = '/tutorials/get-started/ios'
 weight = 20

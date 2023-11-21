@@ -18,4 +18,4 @@ This is line 2 of the Android message sample
 ```
 {{% /capture %}}
 
-{{% include "/_common/tutorial.md" %}}
+{{% include "tutorial.md" %}}

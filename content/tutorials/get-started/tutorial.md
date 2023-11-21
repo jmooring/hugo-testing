@@ -1,6 +1,8 @@
----
-# Do not remove front matter.
----
++++
+[_build]
+list = 'never'
+render = 'never'
++++
 
 ## Tutorial
 
