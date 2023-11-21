@@ -1,0 +1,17 @@
+{{- /*
+Renders the given Instagram post.
+
+@param {string} id The id of the Instagram post.
+@param {bool} [displayCaption=false] Whether to display the caption.
+
+@example  {{< instagram CzmWE9Lv_V6 >}}
+@example  {{< instagram CzmWE9Lv_V6 true >}}
+*/}}
+
+{{- $id := .Get 0 }}
+{{- if not $id }}
+  {{- errorf "The %q shortcode requires a position parameter. See %s" .Name .Position }}
+{{- end }}
+{{- $displayCaption := or (.Get 1) false }}
+
+{{- partial "instagram.html" (dict "id" $id "displayCaption" $displayCaption) }}
