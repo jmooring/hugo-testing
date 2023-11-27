@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #11722'
+disableKinds = ['home','RSS','sitemap']
+[taxonomies]
+category = 'categories'
+[permalinks]
+categories = '/:contentbasename'
+posts = '/:contentbasename'
