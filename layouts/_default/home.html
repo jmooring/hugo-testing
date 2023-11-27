@@ -8,8 +8,16 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ range $term, $weightedPages := site.Taxonomies.tags }}
+    <h2><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></h2>
+    <ul>
+      {{ range $weightedPages }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
   {{ end }}
+
 {{ end }}
