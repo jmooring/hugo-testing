@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #11722
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/11722>
 
-Description: @@DESCRIPTION@@
+Description: Permalink :filename is empty for taxonomies
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-11722 https://github.com/jmooring/hugo-testing hugo-github-issue-11722
+cd hugo-github-issue-11722
 hugo server
 ```
