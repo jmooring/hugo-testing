@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #10475'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2023-11-27T12:02:12-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/10475'
+description = "Tags ending in a period are not listed in .Site.Taxonomies.tags"
 +++
