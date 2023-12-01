@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'en-US'
+title = 'Hugo GitHub Issue #11771'
+disableKinds = ['RSS','sitemap','taxonomy','term']

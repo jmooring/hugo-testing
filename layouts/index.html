@@ -1,0 +1,19 @@
+{{/* https://github.com/gohugoio/hugo/issues/10707 */}}
+
+<script>
+  let a = `{{ .Site.BaseURL | safeJS }}</`
+  let b = `{{ .Site.BaseURL | safeJS }}/`
+  let c = `{{ .Site.BaseURL | safeJS }}/`
+</script>
+
+{{/* https://github.com/gohugoio/hugo/issues/11507 */}}
+
+<script type="module">
+  const posts = [];
+  const card_template = html`<div>${() => posts.map(post => html`<p></p>`)}</div>`
+</script>
+
+
+{{/* https://github.com/gohugoio/hugo/issues/11757 */}}
+
+<script>{ "a" "b" }</script>
