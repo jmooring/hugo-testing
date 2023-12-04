@@ -1,0 +1,14 @@
+<table>
+  <thead>
+    <tr>
+      <th>Markdown</th>
+      <th>Rendered</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><pre>{{ .Inner }}</pre></td>
+      <td>{{ .Inner | .Page.RenderString }}</td>
+    </tr>
+  </tbody>
+</table>
