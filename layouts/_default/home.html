@@ -12,4 +12,13 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ range resources.ByType "image" }}
+    {{ with and (resources.IsProcessableImage .) (.Process "resize 200x webp") }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+
+
 {{ end }}
