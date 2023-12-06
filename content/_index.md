@@ -6,3 +6,5 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/11783'
 description = "Runtime Error when rendering TOC with Strikethrough"
 +++
+
+# [~~a~~](b)
