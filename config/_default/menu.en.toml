@@ -1,23 +1,23 @@
 [[main]]
 identifier = 'home'
-name = 'Home'
+name = 'Home (en)'
 pageRef = '/'
 weight = 10
 
 [[main]]
 identifier = 'books'
-name = 'Books'
+name = 'Books (en)'
 pageRef = '/books'
 weight = 20
 
 [[main]]
 identifier = 'films'
-name = 'Films'
+name = 'Films (en)'
 pageRef = '/films'
 weight = 30
 
 [[main]]
 identifier = 'genres'
-name = 'Genres'
+name = 'Genres (en)'
 pageRef = '/genres'
 weight = 40
