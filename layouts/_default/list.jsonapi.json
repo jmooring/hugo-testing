@@ -1,0 +1,7 @@
+{{ $m := dict
+  "title" .Title
+  "date" .Date
+  "content" .Content
+}}
+
+{{ jsonify $m }}

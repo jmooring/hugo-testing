@@ -1,3 +1,35 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #47406'
+
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+uglyURLs = true
+
+[outputformats.html]
+noUgly = true
+
+[outputformats.jsonapi]
+isPlainText = true
+mediaType = 'application/json'
+notAlternative = true
+permalinkable = true
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[[module.mounts]]
+source = 'content/objects'
+target = 'content/api'
+
+[permalinks.page]
+api = '/:section/:filename'
+objects = '/:section/:slugorfilename'
+
+[[cascade]]
+outputs = ['jsonapi']
+[cascade._build]
+list = 'never'
+[cascade._target]
+path = '/api/**'
