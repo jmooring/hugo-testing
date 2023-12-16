@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    *,
+    *:before,
+    *:after {
+      box-sizing: inherit;
+    }
+
+    html {
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 0 1rem 3rem;
+    }
+
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+
+    table {
+      margin-top: 2rem;
+    }
+
+    td {
+      padding-bottom: .5rem;
+    }
+
+    th {
+      padding-bottom: 1rem;
+      vertical-align: top;
+    }
+
+    th.fail {
+      color: red;
+    }
+
+    th.pass {
+      color: green;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ site.Title }}</h1>
+    <a href="https://github.com/gohugoio/hugo/issues/11717">https://github.com/gohugoio/hugo/issues/11717</a>
+    <hr>
+  </header>
+  <main>
+
+    <table>
+      <thead>
+        <tr>
+          <th class="pass">Original<br>PASS</th>
+          <th class="fail">Specify dimensions<br>(no processing)<br>FAIL</th>
+          <th class="fail">Process q70<br>FAIL</th>
+          <th class="pass">AutoOrient then Process q70<br>PASS</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range resources.ByType "image" }}
+          <tr><td colspan="3">{{ .Name }}</td></tr>
+          <tr>
+            <td>
+              <img src="{{ .RelPermalink }}" alt="">
+            </td>
+            <td>
+              <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+            </td>
+            <td>
+              {{ $filters := slice (images.Process "q70") }}
+              {{ with images.Filter $filters . }}
+                <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+              {{ end }}
+            </td>
+            <td>
+              {{ $filters := slice images.AutoOrient (images.Process "q70") }}
+              {{ with images.Filter $filters . }}
+                <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+              {{ end }}
+            </td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+
+  </main>
+</body>
+</html>
