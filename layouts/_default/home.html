@@ -9,7 +9,25 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with site.GetPage "/home" }}
+    {{ partial "inline/walk-home-sections.html" .Sections }}
+  {{ end }}
+
+{{ end }}
+
+
+{{ define "partials/inline/walk-home-sections.html" }}
+  {{ range .ByWeight }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    {{ range .Resources.ByType "image" }}
+      {{ with .Process "resize 200x" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+    {{ with .Sections }}
+      {{ partial "inline/walk-home-sections.html" . }}
+    {{ end }}
   {{ end }}
 {{ end }}

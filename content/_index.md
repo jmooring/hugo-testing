@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/47521'
 description = "Loop through subdirectories"
 +++
+
+This is content/_index.md
