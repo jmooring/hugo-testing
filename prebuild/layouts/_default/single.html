@@ -61,7 +61,7 @@
 {{- /* Monthly section page. */}}
 {{- if not (os.FileExists (.Date.Format "public/content/2006/01")) }}
   {{- $frontMatter := dict
-    "date" (printf "%d-%2d-01" .Date.Year .Date.Month)
+    "date" (printf "%d-%02d-01" .Date.Year .Date.Month)
     "layout" "month"
     "section" .Section
     "title" (.Date.Format (or (T "archive_month_format_layout") "Archive for January 2006"))

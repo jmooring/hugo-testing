@@ -14,6 +14,23 @@
     {{ .Render "summary" }}
   {{ end }}
 
-  {{ template "_internal/pagination.html" . }}
+  {{ $sections := slice }}
+  {{ range $.Parent.Parent.Parent.Sections.ByDate }}
+  {{ range .Sections.ByDate}}
+  {{ range .Sections.ByDate}}
+  {{ $sections = $sections | append . }}
+  {{ end }}
+  {{ end }}
+  {{ end }}
+
+  {{ range $index, $section := $sections }}
+  {{ if eq $section.Date $.Date }}
+  {{ $prev := index $sections (sub $index 1) }}
+  {{ $next := index $sections (add $index 1) }}
+  <h2><a href="{{ $prev.RelPermalink }}">« {{ $prev.LinkTitle }}</a>
+  | <a href="{{ $.Parent.RelPermalink }}">{{$.Parent.LinkTitle }}</a> | 
+  <a href="{{ $next.RelPermalink }}">{{ $next.LinkTitle}} »</a></h2>
+  {{ end }}
+  {{ end }}
 
 {{ end }}

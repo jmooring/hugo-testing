@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #46777'
-paginate = 4
+paginate = 4000
 summaryLength = 40
 
 [[menu.main]]
