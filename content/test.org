@@ -1,0 +1,10 @@
+#+title: Test
+#+tags: tag-a with multiple words
+#+tags: tag-b
+#+genres: genre-a with multiple words
+#+genres: genre-b
+#+categories[]: cat-a cat-b
+#+foo: a
+#+bar: b
+
+Some content

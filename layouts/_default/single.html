@@ -1,4 +1,35 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+    {{ with .GetTerms "categories" }}
+    <p>Categories:</p>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>&nbsp;</li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ with .GetTerms "genres" }}
+    <p>Genres:</p>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>&nbsp;</li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ with .GetTerms "tags" }}
+    <p>Tags:</p>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>&nbsp;</li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  <p>Params:</p>
+  <pre>{{ jsonify (dict "indent" "  ") .Params }}</pre>
+
+  <p>Content:</p>
   {{ .Content }}
 {{ end }}
