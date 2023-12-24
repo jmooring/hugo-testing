@@ -1,0 +1,22 @@
+{{- /*
+This image render hook assumes:
+
+  - All images are page resources
+  - The same overlay will be applied to each image
+  - The overlay image is a global resources (i.e., in the assets directory)
+
+The image title text is ignored.
+*/}}
+
+{{- $oiPath := "images/overlay.png" }}
+{{- with $bi := .Page.Resources.Get .Destination }}
+  {{- with $oi := resources.Get $oiPath }}
+    {{- with $bi.Filter (images.Overlay $oi 67 42) -}}
+      <img src="{{ .RelPermalink }}" width="{{- .Width }}" height="{{ .Height }}" alt="{{ $.PlainText }}">
+    {{- end }}
+  {{- else }}
+    {{- errorf "The image render hook was unable to find %s. See %s" $oiPath .Page.File.Path }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The image render hook was unable to find %s. See %s" .Destination .Page.File.Path }}
+{{- end -}}
