@@ -1,3 +1,34 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #11840'
+
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+
+[languages.es]
+languageCode = 'es-ES'
+languageName = 'Espanol'
+weight = 1
+
+[languages.en]
+languageCode = 'en-US'
+languageName = 'English'
+weight = 2
+
+[languages.fr]
+languageCode = 'de-FR'
+languageName = 'Francais'
+weight = 3
+
+[languages.de]
+languageCode = 'de-DE'
+languageName = 'Deutsch'
+weight = 4
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'hugo.toml'
+target = 'assets/hugo.toml'

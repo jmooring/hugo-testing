@@ -1,4 +1,23 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <p>Note that the Deutsch site is missing:</p>
+  <ol>
+    <li>A translation of "kitten" in the i18n file</li>
+    <li>A "data.de.txt" page resource </li>
+  </ol>
+
+  <p>Translation of "kitten" into {{ .Language.LanguageName }}: <mark>{{ T "kitten" }}</mark></p>
+
+  <p>Content of "data.{{ .Language.Lang }}.txt" file: <mark> {{ (.Resources.GetMatch "*.txt").Content }}</mark></p>
+
+  <p>Site configuration:</p>
+
+  {{ with resources.Get "hugo.toml"  }}
+    {{ highlight (trim .Content "\n") "toml" }}
+  {{ end }}
+
+
+
   {{ .Content }}
 {{ end }}
