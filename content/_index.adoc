@@ -1,0 +1,41 @@
++++
+title = '@@TITLE@@'
+linkTitle = 'Home'
+date = 2023-01-01T00:00:00-00:00
+draft = false
+details = 'https://discourse.gohugo.io/t/47651'
+description = 'Newbie : Using Hugo, Asciidoc, and the Techdoc Theme'
++++
+
+Syntax highlighting with rouge, the default asciidoctor syntax highlighter:
+
+```go
+for {
+  fmt.Println("Hello world.")
+}
+```
+
+Syntax highlighting with Hugo's built-in `highlight` shortcode:
+
+{{< highlight "go" >}}
+for {
+  fmt.Println("Hello world.")
+}
+{{< /highlight >}}
+
+Both examples use the 'monokai' style.
+
+Site configuration:
+
+```toml
+[markup.asciidocExt.attributes]
+source-highlighter = 'rouge'
+rouge-css = 'style'
+rouge-style = 'monokai'
+```
+
+References:
+
+- <https://docs.asciidoctor.org/asciidoctor/latest/syntax-highlighting/>
+- <https://docs.asciidoctor.org/asciidoctor/latest/syntax-highlighting/rouge/>
+- <https://docs.asciidoctor.org/asciidoctor/latest/syntax-highlighting/custom/>

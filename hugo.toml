@@ -1,3 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #47651'
+disableKinds = ['page','section','rss','sitemap','taxonomy','term']
+
+[markup.asciidocExt.attributes]
+source-highlighter = 'rouge'
+rouge-css = 'style'
+rouge-style = 'monokai'
