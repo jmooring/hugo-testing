@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #47662'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-01-01T09:08:56-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/47662'
+description = "How to insert mermaid diagram with the render hooks way?"
 +++
