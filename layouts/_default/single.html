@@ -1,4 +1,11 @@
-{{ define "main" }}
+{{ define "main" }}[template = layouts/_default/single.html]
   <h1>{{ .Title }}</h1>
+  {{ with .GetTerms "category" }}
+    <p>Category:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
   {{ .Content }}
 {{ end }}
