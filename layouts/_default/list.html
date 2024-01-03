@@ -1,7 +1,24 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+	{{ $.Scratch.Add "sortedPages" slice }}
+	{{ range .RegularPages.ByDate.Reverse }}
+		{{ if not .Params.out_of_stock }}
+			{{ $.Scratch.Add "sortedPages" (slice .) }}
+		{{ end }}
+	{{ end }}
+	{{ range .RegularPages.ByDate.Reverse }}
+		{{ if .Params.out_of_stock }}
+			{{ $.Scratch.Add "sortedPages" (slice .) }}
+		{{ end }}
+	{{ end }}
+	{{ $paginator := .Paginate ($.Scratch.Get "sortedPages") }}
+
+  {{ range $paginator.Pages }}
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
   {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
+
 {{ end }}
