@@ -1,4 +1,12 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+{{ $original := .Resources.Get "test.jpg" }}
+{{- $png := $original.Resize "400x png" }}
+{{- $jpg := $png.Resize "200x jpg" }}
+<img src="{{ $jpg.RelPermalink }}" width="{{ $jpg.Width }}" height="{{ $jpg.Height }}">
+
+
+
 {{ end }}
