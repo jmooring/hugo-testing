@@ -1,0 +1,10 @@
+{{ $path := "temp_a.js" }}
+{{ $jsBundle := slice (resources.Get "scripts/app.js") }}
+{{ if .Params.showSummary }}
+  {{ $jsBundle = $jsBundle | append (resources.Get "scripts/common/accordion.js") }}
+  {{ $path = "temp_b.js" }}
+{{ end }}
+{{ $jsBundle = $jsBundle | resources.Concat $path | minify }}
+<script>
+  {{ $jsBundle.Content | safeJS }}
+</script>
