@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #47707'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-01-04T09:31:38-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/47707'
+description = "Conditionally adding scripts to JS Bundle"
 +++
