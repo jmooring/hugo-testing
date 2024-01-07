@@ -1,0 +1,6 @@
+{{ $script := resources.Get "/scripts/example.js" }}
+{{ $params := (dict "params" (dict "toLog" (.Get 0))) }}
+
+{{ with js.Build $params $script }}
+<script src="{{ .RelPermalink }}"></script>
+{{ end }}

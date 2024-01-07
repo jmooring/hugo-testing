@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/47732'
 description = "How to make hugo watch for changes to scripts in assets directory"
 +++
+
+{{< mycode "log this please" >}}
