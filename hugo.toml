@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #10894'
+
+[params.latex]
+enabled = true
+renderer = 'KaTeX' # KaTeX or MathJax (case-insensitve)
+
+# See https://github.com/gohugoio/hugo/pull/11866
+[markup.goldmark.extensions]
+latex = false
