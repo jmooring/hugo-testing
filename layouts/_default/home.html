@@ -1,4 +1,5 @@
 {{ define "main" }}
+  [layouts/_default/home.html]
   {{ with .Params.details }}
     <p>Details: <a href="{{ . }}">{{ . }}</a></p>
   {{ end }}
@@ -9,7 +10,7 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+  {{ range where site.RegularPages "Section" "blog" }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
 {{ end }}

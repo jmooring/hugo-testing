@@ -1,3 +1,36 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #47748'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Blog'
+pageRef = '/blog'
+
+[[menus.main]]
+name = 'Projects'
+pageRef = '/projects'
+
+[[menus.main]]
+name = 'More'
+pageRef = '/more'
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+
+[[menus.main]]
+name = 'Archive'
+pageRef = '/archive'
+
+[[menus.main]]
+name = 'Reading'
+pageRef = '/reading'
+
+[[menus.main]]
+name = 'Subscribe'
+pageRef = '/subscribe'

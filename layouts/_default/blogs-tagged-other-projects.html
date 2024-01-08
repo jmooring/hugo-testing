@@ -1,0 +1,10 @@
+{{ define "main" }}
+  [layouts/_default/blogs-tagged-other-projects.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $p := where site.RegularPages "Section" "blog" }}
+  {{ $p = where $p "Params.tags" "intersect" (slice "other-projects") }}
+  {{ range $p }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+{{ end }}
