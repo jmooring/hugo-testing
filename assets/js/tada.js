@@ -1,0 +1,3 @@
+function tada() {
+  alert("tada");
+}

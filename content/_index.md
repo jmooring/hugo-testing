@@ -6,3 +6,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/47765'
 description = "Building a js file and calling one of its functions"
 +++
+
+{{< tada >}}
+
+{{< tada-module >}}

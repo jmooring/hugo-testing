@@ -1,0 +1,6 @@
+{{ with resources.Get "js/tada-module.js" }}
+  {{ with js.Build . }}
+    <script src="{{ .RelPermalink }}"></script>
+    <button onclick="tadaModule()">tadaModule</button>
+  {{ end }}
+{{ end }}
