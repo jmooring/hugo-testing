@@ -7,4 +7,8 @@ details = 'https://discourse.gohugo.io/t/47779'
 description = "Aliases for tag names"
 +++
 
-[/subject/old-tag](/subject/old-tag)
+[/subject/old-tag-a](/subject/old-tag-a)
+
+[/subject/old-tag-b](/subject/old-tag-b)
+
+[/subject/old-tag-c](/subject/old-tag-c)
