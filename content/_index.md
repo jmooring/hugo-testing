@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/47779'
 description = "Aliases for tag names"
 +++
+
+[/subject/old-tag](/subject/old-tag)
