@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #47776'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-01-10T05:58:44-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/47776'
+description = "Render hook's .Text wrapped in quotes"
 +++
