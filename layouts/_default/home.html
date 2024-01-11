@@ -10,6 +10,9 @@
   {{ end }}
   {{ .TableOfContents }}
   <hr>
+  <p>Currently rendering with <mark>{{ site.Params.latex.renderer}}</mark>. See site
+    configuration to toggle between KaTeX and MathJax.</p>
+  <hr>
   {{ .Content }}
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>

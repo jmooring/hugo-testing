@@ -4,7 +4,7 @@ title = 'Hugo GitHub Issue #10894'
 
 [params.latex]
 enabled = true
-renderer = 'KaTeX' # KaTeX or MathJax (case-insensitve)
+renderer = 'KaTeX' # KaTeX or MathJax (case-insensitive)
 
 [markup.goldmark.extensions.passthrough]
 enable = true

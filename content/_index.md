@@ -11,154 +11,331 @@ description = "Add LaTeX in Markdown support to Hugo"
 
 These equations do not contain ampersands, matching underscores, sequential backslashes, or delimiters beginning with a backslash, so they are not mangled by Goldmark.
 
-### Inline
+### Inline with `$...$` delimiters
 
 ```text
-// Uses $...$ delimiters
+// Example 1: delimiters on same line
+
 Inline $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ equation
 ```
 
 Inline $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ equation
 
-### Display (block)
-
 ```text
-// Uses $$...$$ delimiters
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+// Example 2: delimiters on their own lines
+
+Inline $
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$ equation
 ```
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+Inline $
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$ equation
 
 ```text
-// Uses $$...$$ delimiters on their own lines
-$$
-x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
+// Example 3: delimiters split over two lines
+
+Inline $x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$ equation
 ```
 
-$$
+Inline $x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$ equation
+
+```text
+// Example 4: delimiters split over two lines
+
+Inline $
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ equation
+```
+
+Inline $
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ equation
+
+### Block with `$$...$$` delimiters
+
+```text
+// Example 5: delimiters on same line
+
+Block $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$ equation
+```
+
+Block $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$ equation
+
+```text
+// Example 6: delimiters on their own lines
+
+Block $$
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-$$
+$$ equation
+```
+
+Block $$
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$$ equation
+
+```text
+// Example 7: delimiters split over two lines
+
+Block $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$$ equation
+```
+
+Block $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+$$ equation
+
+```text
+// Example 8: delimiters split over two lines
+
+Block $$
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$ equation
+```
+
+Block $$
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$ equation
 
 ## Equations mangled by Goldmark
 
 These equations contain ampersands, matching underscores, sequential backslashes, or delimiters beginning with a backslash, so they are mangled by Goldmark.
 
-### Inline
+### Inline with `$...$` delimiters
 
 ```text
-// Uses $...$ delimiters
+// Example 9: delimiters on same line
+
 Inline $a^*=x-b^*$ equation
 ```
 
 Inline $a^*=x-b^*$ equation
 
 ```text
-// Uses /(.../) delimiters
-Inline /(a^*=x-b^*/( equation
-```
+// Example 10: delimiters on their own lines
 
-Inline /(a^*=x-b^*/( equation
-
-### Display (block)
-
-```text
-// Uses $$...$$ delimiters
-$$a^*=x-b^*$$
-```
-
-$$a^*=x-b^*$$
-
-```text
-// Uses \[...\] delimiters
-\[a^*=x-b^*\]
-```
-
-\[a^*=x-b^*\]
-
-```text
-// Uses $$...$$ delimiters on their own lines
-$$
+Inline $
 a^*=x-b^*
+$ equation
+```
+
+Inline $
+a^*=x-b^*
+$ equation
+
+```text
+// Example 11: delimiters split over two lines
+
+Inline $a^*=x-b^*
+$ equation
+```
+
+Inline $a^*=x-b^*
+$ equation
+
+```text
+// Example 12: delimiters split over two lines
+
+Inline $
+a^*=x-b^*$ equation
+```
+
+Inline $
+a^*=x-b^*$ equation
+
+### Block with `$$...$$` delimiters
+
+```text
+// Example 13: delimiters on same line
+
+Block $$a^*=x-b^*$$ equation
+```
+
+Block $$a^*=x-b^*$$ equation
+
+```text
+// Example 14: delimiters on their own lines
+
+Block $$
+a^*=x-b^*
+$$ equation
+```
+
+Block $$
+a^*=x-b^*
+$$ equation
+
+```text
+// Example 15: delimiters split over two lines
+
+Block $$a^*=x-b^*
+$$ equation
+```
+
+Block $$a^*=x-b^*
+$$ equation
+
+```text
+// Example 16: delimiters split over two lines
+
+Block $$
+a^*=x-b^*$$ equation
+```
+
+Block $$
+a^*=x-b^*$$ equation
+
+### Inline with `\(...\)` delimiters
+
+```text
+// Example 17: delimiters on same line
+
+Inline \(a^*=x-b^*\) equation
+```
+
+Inline \(a^*=x-b^*\) equation
+
+```text
+// Example 18: delimiters on their own lines
+
+Inline \(
+a^*=x-b^*
+\) equation
+```
+
+Inline \(
+a^*=x-b^*
+\) equation
+
+```text
+// Example 19: delimiters split over two lines
+
+Inline \(a^*=x-b^*
+\) equation
+```
+
+Inline \(a^*=x-b^*
+\) equation
+
+```text
+// Example 20: delimiters split over two lines
+
+Inline \(
+a^*=x-b^*\) equation
+```
+
+Inline \(
+a^*=x-b^*\) equation
+
+### Block with `\[...\]` delimiters
+
+```text
+// Example 21: delimiters on same line
+
+Block \[a^*=x-b^*\] equation
+```
+
+Block \[a^*=x-b^*\] equation
+
+```text
+// Example 22: delimiters on their own lines
+
+Block \[
+a^*=x-b^*
+\] equation
+```
+
+Block \[
+a^*=x-b^*
+\] equation
+
+```text
+// Example 23: delimiters split over two lines
+
+Block \[a^*=x-b^*
+\] equation
+```
+
+Block \[a^*=x-b^*
+\] equation
+
+```text
+// Example 24: delimiters split over two lines
+
+Block \[
+a^*=x-b^*\] equation
+```
+
+Block \[
+a^*=x-b^*\] equation
+
+## Complex block equation mangled by Goldmark
+
+### Block with `$$...$$` delimiters
+
+```text
+// Example 25
+
+$$
+\begin{array} {lcl}
+  L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
+  \rightarrow x_1
+  \rightarrow x_0)G(x_1
+  \longleftrightarrow x_2)f_r(x_3
+  \rightarrow x_2
+  \rightarrow x_1)}_{sample\, radiance\, evaluation\, in\, stage2}
+  \\\\\\ &=&
+  \prod_{i=3}^{k-1}(\underbrace{\dfrac{f_r(x_{i+1}
+  \rightarrow x_i
+  \rightarrow x_{i-1})G(x_i
+  \longleftrightarrow x_{i-1})}{p_a(x_{i-1})}}_{stored\,in\,vertex\, during\,light\, path\, tracing\, in\, stage1})\dfrac{G(x_k
+  \longleftrightarrow x_{k-1})L_e(x_k
+  \rightarrow x_{k-1})}{p_a(x_{k-1})p_a(x_k)})
+\end{array}
 $$
 ```
 
 $$
-a^*=x-b^*
+\begin{array} {lcl}
+  L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
+  \rightarrow x_1
+  \rightarrow x_0)G(x_1
+  \longleftrightarrow x_2)f_r(x_3
+  \rightarrow x_2
+  \rightarrow x_1)}_{sample\, radiance\, evaluation\, in\, stage2}
+  \\\\\\ &=&
+  \prod_{i=3}^{k-1}(\underbrace{\dfrac{f_r(x_{i+1}
+  \rightarrow x_i
+  \rightarrow x_{i-1})G(x_i
+  \longleftrightarrow x_{i-1})}{p_a(x_{i-1})}}_{stored\,in\,vertex\, during\,light\, path\, tracing\, in\, stage1})\dfrac{G(x_k
+  \longleftrightarrow x_{k-1})L_e(x_k
+  \rightarrow x_{k-1})}{p_a(x_{k-1})p_a(x_k)})
+\end{array}
 $$
 
+### Block with `\[...\]` delimiters
+
 ```text
-// Uses \[...\] delimiters on their own lines
+// Example 26
+
 \[
-a^*=x-b^*
+\begin{array} {lcl}
+  L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
+  \rightarrow x_1
+  \rightarrow x_0)G(x_1
+  \longleftrightarrow x_2)f_r(x_3
+  \rightarrow x_2
+  \rightarrow x_1)}_{sample\, radiance\, evaluation\, in\, stage2}
+  \\\\\\ &=&
+  \prod_{i=3}^{k-1}(\underbrace{\dfrac{f_r(x_{i+1}
+  \rightarrow x_i
+  \rightarrow x_{i-1})G(x_i
+  \longleftrightarrow x_{i-1})}{p_a(x_{i-1})}}_{stored\,in\,vertex\, during\,light\, path\, tracing\, in\, stage1})\dfrac{G(x_k
+  \longleftrightarrow x_{k-1})L_e(x_k
+  \rightarrow x_{k-1})}{p_a(x_{k-1})p_a(x_k)})
+\end{array}
 \]
 ```
 
 \[
-a^*=x-b^*
-\[
-
-```text
-// Uses $$...$$ delimiters on their own lines
-$$
-\begin{array} {lcl}
-  L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
-  \rightarrow x_1
-  \rightarrow x_0)G(x_1
-  \longleftrightarrow x_2)f_r(x_3
-  \rightarrow x_2
-  \rightarrow x_1)}_{sample\, radiance\, evaluation\, in\, stage2}
-  \\\\\\ &=&
-  \prod_{i=3}^{k-1}(\underbrace{\dfrac{f_r(x_{i+1}
-  \rightarrow x_i
-  \rightarrow x_{i-1})G(x_i
-  \longleftrightarrow x_{i-1})}{p_a(x_{i-1})}}_{stored\,in\,vertex\, during\,light\, path\, tracing\, in\, stage1})\dfrac{G(x_k
-  \longleftrightarrow x_{k-1})L_e(x_k
-  \rightarrow x_{k-1})}{p_a(x_{k-1})p_a(x_k)})
-\end{array}
-$$
-```
-
-$$
-\begin{array} {lcl}
-  L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
-  \rightarrow x_1
-  \rightarrow x_0)G(x_1
-  \longleftrightarrow x_2)f_r(x_3
-  \rightarrow x_2
-  \rightarrow x_1)}_{sample\, radiance\, evaluation\, in\, stage2}
-  \\\\\\ &=&
-  \prod_{i=3}^{k-1}(\underbrace{\dfrac{f_r(x_{i+1}
-  \rightarrow x_i
-  \rightarrow x_{i-1})G(x_i
-  \longleftrightarrow x_{i-1})}{p_a(x_{i-1})}}_{stored\,in\,vertex\, during\,light\, path\, tracing\, in\, stage1})\dfrac{G(x_k
-  \longleftrightarrow x_{k-1})L_e(x_k
-  \rightarrow x_{k-1})}{p_a(x_{k-1})p_a(x_k)})
-\end{array}
-$$
-
-```text
-// Uses \[...\] delimiters on their own lines
-\[
-\begin{array} {lcl}
-  L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
-  \rightarrow x_1
-  \rightarrow x_0)G(x_1
-  \longleftrightarrow x_2)f_r(x_3
-  \rightarrow x_2
-  \rightarrow x_1)}_{sample\, radiance\, evaluation\, in\, stage2}
-  \\\\\\ &=&
-  \prod_{i=3}^{k-1}(\underbrace{\dfrac{f_r(x_{i+1}
-  \rightarrow x_i
-  \rightarrow x_{i-1})G(x_i
-  \longleftrightarrow x_{i-1})}{p_a(x_{i-1})}}_{stored\,in\,vertex\, during\,light\, path\, tracing\, in\, stage1})\dfrac{G(x_k
-  \longleftrightarrow x_{k-1})L_e(x_k
-  \rightarrow x_{k-1})}{p_a(x_{k-1})p_a(x_k)})
-\end{array}
-\]
-```
-
-\[
 \begin{array} {lcl}
   L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
   \rightarrow x_1
@@ -176,74 +353,55 @@ $$
 \end{array}
 \]
 
-## Using a shortcode
+## Using a shortcode with equations mangled by Goldmark
 
-These equations contain ampersands, matching underscores, sequential backslashes, or delimiters beginning with a backslash, so they are mangled by Goldmark. Using a shortcode avoids all problems.
+These equations contain ampersands, matching underscores, sequential backslashes, or delimiters beginning with a backslash, so they are mangled by Goldmark. Using a shortcode that passes `.Inner` with converting to markdown is not subject to the problems above.
 
-### Inline
+### Inline with `$...$` delimiters
 
 ```text
-// Uses $...$ delimiters
+// Example 27: delimiters on same line
+
 Inline {{</* math */>}}$a^*=x-b^*${{</* /math */>}} equation
 ```
 
 Inline {{< math >}}$a^*=x-b^*${{< /math >}} equation
 
+### Block with `$$...$$` delimiters
+
 ```text
-// Uses /(.../) delimiters
+// Example 28: delimiters on same line
+
+Block {{</* math */>}}$$a^*=x-b^*$${{</* /math */>}} equation
+```
+
+Block {{< math >}}$$a^*=x-b^*$${{< /math >}} equation
+
+### Inline with `\(...\)` delimiters
+
+```text
+// Example 29: delimiters on same line
+
 Inline {{</* math */>}}\(a^*=x-b^*\){{</* /math */>}} equation
 ```
 
 Inline {{< math >}}\(a^*=x-b^*\){{< /math >}} equation
 
-### Display (block)
+### Block with `\[...\]` delimiters
 
 ```text
-// Uses $$...$$ delimiters
-{{</* math */>}}$$a^*=x-b^*$${{</* /math */>}}
+// Example 30: delimiters on same line
+
+Block {{</* math */>}}\[a^*=x-b^*\]{{</* /math */>}} equation
 ```
 
-{{< math >}}$$a^*=x-b^*$${{< /math >}}
+Block {{< math >}}\[a^*=x-b^*\]{{< /math >}} equation
+
+### Complex block with `$$...$$` delimiters
 
 ```text
-// Uses \[...\] delimiters
-{{</* math */>}}\[a^*=x-b^*\]{{</* /math */>}}
-```
+// Example 31: delimiters on their own lines
 
-{{< math >}}\[a^*=x-b^*\]{{< /math >}}
-
-```text
-// Uses $$...$$ delimiters on their own lines
-{{</* math */>}}
-$$
-a^*=x-b^*
-$$
-{{</* /math */>}}
-```
-
-{{< math >}}
-$$
-a^*=x-b^*
-$$
-{{< /math >}}
-
-```text
-// Uses \[...\] delimiters on their own lines
-{{</* math */>}}
-\[
-a^*=x-b^*
-\]
-{{</* /math */>}}
-```
-
-{{< math >}}
-\[
-a^*=x-b^*
-\]
-{{< /math >}}
-
-```text
-// Uses $$...$$ delimiters on their own lines
 {{</* math */>}}
 $$
 \begin{array} {lcl}
@@ -285,8 +443,11 @@ $$
 $$
 {{< /math >}}
 
+### Complex block with `\[...\]` delimiters
+
 ```text
-// Uses \[...\] delimiters on their own lines
+// Example 32: delimiters on their own lines
+
 {{</* math */>}}
 \[
 \begin{array} {lcl}
