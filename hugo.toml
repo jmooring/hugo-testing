@@ -1,3 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #47801'
+
+[params.render_hooks.image]
+errorLevel = 'error' # ignore (default), warning, or error (fails the build)
+
+[params.render_hooks.link]
+errorLevel = 'error' # ignore (default), warning, or error (fails the build)
