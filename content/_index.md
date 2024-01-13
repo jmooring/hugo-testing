@@ -4,5 +4,8 @@ linkTitle = 'Home'
 date = 2024-01-13T12:06:32-08:00
 draft = false
 details = 'https://discourse.gohugo.io/t/47811'
-description = "Image galleries based on "tags" stored in data file"
+description = 'Image galleries based on "tags" stored in data file'
+
+# List all image tags below. See https://discourse.gohugo.io/t/47811/3.
+galleries = ['tag1','tag2','tag3']
 +++

@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ with site.Data.galleries }}
+    {{ range where . "galleries" "intersect" (slice $.Data.Term) }}
+      {{ $alt := .alt }}
+      {{ with resources.Get .path }}
+        {{ with .Resize "300x webp" }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $alt }}">
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+{{ end }}

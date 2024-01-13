@@ -1,0 +1,26 @@
+[
+  {
+    "path": "images/a.jpg",
+    "galleries": [
+      "tag1",
+      "tag2"
+    ],
+    "alt": "a kitten"
+  },
+  {
+    "path": "images/b.jpg",
+    "galleries": [
+      "tag1",
+      "tag3"
+    ],
+    "alt": "another kitten"
+  },
+  {
+    "path": "images/c.jpg",
+    "galleries": [
+      "tag2",
+      "tag3"
+    ],
+    "alt": "yet another kitten"
+  }
+]
