@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ .TableOfContents }}
+  <hr>
+  <p>Currently rendering with <mark>{{ site.Params.latex.renderer}}</mark>. See site
+    configuration to toggle between KaTeX and MathJax.</p>
+  <hr>
   {{ .Content }}
+
 {{ end }}
