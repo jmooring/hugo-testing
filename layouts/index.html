@@ -1,0 +1,6 @@
+
+{{ with resources.FromString "foo" `{{ print "hello world" }}` }}
+  {{ with resources.ExecuteAsTemplate "bar" $ . }}
+    {{ .Content | safeHTML }}
+  {{ end }}
+{{ end }}
