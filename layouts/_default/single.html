@@ -1,4 +1,5 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+{{ with .GetPage "p2" }}
+  <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+{{ else }}
+  {{ errorf "Unable to .Page.GetPage p2" }}
 {{ end }}

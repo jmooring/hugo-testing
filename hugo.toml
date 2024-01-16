@@ -1,3 +1,2 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = '@@TITLE@@'
+disableKinds = ['home','rss','section','sitemap','taxonomy','term']
