@@ -1,8 +1,24 @@
 +++
-title = '@@TITLE@@'
-linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
-draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+title = 'home'
 +++
+
+```chartjs
+{
+  type: 'bar',
+  data: {
+    labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+    datasets: [{
+      label: '# of Votes',
+      data: [12, 19, 3, 5, 2, 3],
+      borderWidth: 1
+    }]
+  },
+  options: {
+    scales: {
+      y: {
+        beginAtZero: true
+      }
+    }
+  }
+}
+```

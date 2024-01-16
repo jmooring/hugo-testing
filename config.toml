@@ -1,0 +1,2 @@
+baseURL = 'https://example.org/'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']

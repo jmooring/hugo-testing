@@ -1,0 +1,6 @@
+<div><canvas id="a"></canvas></div>
+<script>
+  var ctx = document.getElementById('a');
+  new Chart(ctx, {{ .Inner | safeJS }} );
+</script>
+{{ .Page.Store.Set "chart-js" true }}

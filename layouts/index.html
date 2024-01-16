@@ -1,0 +1,17 @@
+{{ if .Store.Get "chart-js" }}
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+{{ end }}
+
+<pre>
+You should see a chart below.
+
+If you don't, add a character to the bottom of
+layouts/_default/_markup/render-codeblock-chartjs.html,
+then the page will reload and you will see the chart.
+
+With v0.121.2 you will see the chart immediately after starting huugo server.
+</pre>
+
+<div style="width: 768px">
+  {{ .Content }}
+</div>
