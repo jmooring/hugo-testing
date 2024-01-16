@@ -5,7 +5,7 @@
       {{- $links = $links | append (printf "<a href=%q>%s</a>" .RelPermalink .LinkTitle | safeHTML) }}
     {{- end }}
     {{- $taxonomyPage := site.GetPage $taxonomy }}
-    <p class="terms">{{ $taxonomyPage.LinkTitle }}: {{ delimit $links ", " }}</p>
+    <p class="terms">{{ $taxonomyPage.LinkTitle }}: {{ delimit $links ", " | safeHTML }}</p>
   {{- end }}
 {{- end -}}
 {{- /* Chomp trailing newlines. */ -}}
