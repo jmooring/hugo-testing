@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+disableKinds = ['rss','sitemap']
+
+[taxonomies]
+tag = 'tags'

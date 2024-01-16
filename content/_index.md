@@ -1,8 +1,4 @@
 +++
-title = '@@TITLE@@'
-linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
-draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+title = 'home'
+tags = ''      # note the empty string
 +++
