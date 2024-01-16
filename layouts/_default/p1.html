@@ -1,0 +1,9 @@
+{{ .Title }}
+
+
+{{/* This works with v0.121.2 and fails with PR #11830 */}}
+{{ with .GetPage "../p2" }}
+  <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+{{ else }}
+  {{ warnf "Unable to .Page.GetPage ../p2" }}
+{{ end }}
