@@ -14,7 +14,7 @@ These equations do not contain ampersands, matching underscores, sequential back
 // Example 1: delimiters on same line
 
 Inline $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ equation
-```shortcodes-tests
+```
 
 Inline $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ equation
 

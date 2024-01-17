@@ -13,8 +13,7 @@ These equations do not contain ampersands, matching underscores, sequential back
 ```text
 // Example 1: delimiters on same line
 
-
-Inline {{< math >}}$x = {-b \pm \sqrt{b^2-4ac} \over 2a}${{< /math >}} equation
+Inline {{</* math */>}}$x = {-b \pm \sqrt{b^2-4ac} \over 2a}${{</* /math */>}} equation
 ```
 
 Inline $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ equation
