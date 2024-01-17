@@ -1,4 +1,6 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+<h1>{{ .Title }}</h1>
+
+{{ with .Resources.GetMatch "*.css" | minify }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" >
+  RelPermalink to minified CSS file: {{ .RelPermalink }}<br>
 {{ end }}
