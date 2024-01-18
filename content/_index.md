@@ -6,3 +6,12 @@ draft = false
 details = 'https://discourse.gohugo.io/t/47869'
 description = "Shortcodes within shortcodes renders linebreaks as <p>"
 +++
+
+
+{{< tabs >}}
+  {{% tab %}}
+  This is some **bold** text.
+
+  {{< img src="/images/dataset-excel.png" alt="dataset-excel.png" >}}
+  {{% /tab %}}
+{{< /tabs >}}

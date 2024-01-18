@@ -1,0 +1,19 @@
+{{- $src := .Get "src" }}
+{{- $height := or (.Get "height") 200 }}
+{{- $width := or (.Get "width") 300 }}
+{{- $alt := or (.Get "alt") "" }}
+{{- $noZoom := or (.Get "noZoom") true -}}
+
+<img
+  height="{{ $height }}"
+  width="{{ $width }}"
+  alt="{{ $alt }}"
+  src="{{ $src }}"
+  {{- if (not $noZoom) }}
+    onClick="zoomImage({{ $src }})"
+  {{- else }}
+    class="no-zoom"
+  {{- end -}}
+>
+
+{{- /**/ -}}
