@@ -1,3 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #47866'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Journal'
+pageRef = '/journal'
+weight = 20
+
+[[menus.main]]
+identifier = 'most-recent-journal-entry-with-category-now'
+name = 'Now'
+weight = 30

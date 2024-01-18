@@ -3,5 +3,13 @@
   {{ .Content }}
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    Lastmod: {{ .Lastmod.Format "2006-01-02 15:04:05" }}
+    {{ with .GetTerms "categories" }}
+      <p>Categories:
+        {{ range . }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
   {{ end }}
 {{ end }}

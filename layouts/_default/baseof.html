@@ -8,6 +8,30 @@
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
+
+{{ $p := where site.RegularPages "Section" "journal" }}
+{{ $p = where $p "Params.categories" "intersect" (slice "now") }}
+{{ $p = index $p.ByLastmod.Reverse 0 }}
+
+{{ with site.Menus.main }}
+  <nav class="menu">
+    {{ range . }}
+      {{ $url := .URL }}
+      {{ if eq .Identifier "most-recent-journal-entry-with-category-now" }}
+        {{ $url = $p.RelPermalink }}
+      {{ end }}
+      {{ if $.IsMenuCurrent .Menu . }}
+        <a class="active" aria-current="page" href="{{ $url }}">{{ .Name }}</a>
+      {{ else }}
+        <a href="{{ $url }}">{{ .Name }}</a>
+      {{ end }}
+    {{ end }}
+  </nav>
+{{ end }}
+
+
+
+
     <hr>
   </header>
   <main>
