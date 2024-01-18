@@ -1,4 +1,5 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+{{ with .Resources.Get "a.css" }}
+  {{ with . | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
 {{ end }}
