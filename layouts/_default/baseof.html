@@ -1,9 +1,23 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<html lang="{{ site.LanguageCode }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ with resources.Get "js/main.js" }}
+    {{ if eq hugo.Environment "development" }}
+      {{ with . | js.Build }}
+        <script src="{{ .RelPermalink }}"></script>
+      {{ end }}
+    {{ else }}
+      {{ $opts := dict "minify" true }}
+      {{ with . | js.Build $opts | fingerprint }}
+        <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 </head>
 <body>
   <header>
