@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #47869'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-01-18T06:39:12-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/47869'
+description = "Shortcodes within shortcodes renders linebreaks as <p>"
 +++
