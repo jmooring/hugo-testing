@@ -1,4 +1,8 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+{{ .Title }}<br>
+
+{{ with .Resources.Get "a.jpg" }}
+  {{ with . | fingerprint }}
+    {{ .RelPermalink | warnf "%#[2]v (%[2]T) [%[1]d]" math.Counter }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
 {{ end }}
