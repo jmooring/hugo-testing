@@ -7,11 +7,20 @@ details = 'https://discourse.gohugo.io/t/47869'
 description = "Shortcodes within shortcodes renders linebreaks as <p>"
 +++
 
-
 {{< tabs >}}
+  {{< img src="/images/dataset-excel.png" alt="dataset-excel.png" >}}
   {{% tab %}}
   This is some **bold** text.
 
-  {{< img src="/images/dataset-excel.png" alt="dataset-excel.png" >}}
+  {{< img src="/images/dataset-excel.png" alt="dataset-excel.png" width=300 height=200 >}}
+  {{% /tab %}}
+{{< /tabs >}}
+
+{{< tabs >}}
+  {{< img src="/images/in-static-dir.jpg" alt="in-static-dir.jpg" >}}
+  {{% tab %}}
+  This is some **bold** text.
+
+  {{< img src="/images/in-static-dir.jpg" alt="in-static-dir.jpg" width=300 height=200 >}}
   {{% /tab %}}
 {{< /tabs >}}
