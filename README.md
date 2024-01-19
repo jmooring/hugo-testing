@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #9324
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/9324>
 
-Description: @@DESCRIPTION@@
+Description: Wrong Permalink for resource in multihost mode when baseURL in one language has a sub path
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-9324 https://github.com/jmooring/hugo-testing hugo-github-issue-9324
+cd hugo-github-issue-9324
 hugo server
 ```
