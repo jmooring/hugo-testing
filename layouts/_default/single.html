@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ if .Fragments.Headings }}
+  <hr>
+  {{ .TableOfContents }}
+  <hr>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
