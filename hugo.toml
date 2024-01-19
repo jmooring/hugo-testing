@@ -1,3 +1,33 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #11551'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[languages.en.outputs]
+home = ['html','abc']
+
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+
+[outputFormats.html]
+weight = 1
+
+[outputFormats.abc]
+baseName = 'abc'
+isPlainText = true
+mediaType = 'text/plain'
+weight = 2
+root = true
