@@ -1,3 +1,28 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #11900'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Contact Us'
+pageRef = '/contact-us'
+weight = 30
+
+[[menus.main]]
+name = 'Contact Us (Topic A)'
+pageRef = '/contact-us/topic-a'
+weight = 40
+
+[[menus.main]]
+name = 'Contact Us (Topic B)'
+pageRef = '/contact-us/topic-b'
+weight = 40
