@@ -6,3 +6,14 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/10656'
 description = "Changes in templates used in inner shortcodes not detected on change"
 +++
+
+
+{{< outer >}}
+
+{{< inner >}}
+
+Some **bold** test
+
+{{< /inner >}}
+
+{{< /outer >}}
