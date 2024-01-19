@@ -9,6 +9,16 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
+  {{ range .Sections.ByTitle }}
+    <pre>
+      .Title --> {{ .Title }}
+      .IsSection --> {{ .IsSection }}
+      .BundleType --> {{ .BundleType }}
+      .Resources.Get "section.jpg" --> {{ .Resources.Get "section.jpg" }}
+    </pre>
+  {{ end }}
+
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
