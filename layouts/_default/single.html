@@ -1,4 +1,4 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+{{ with .Resources.Get "a.jpg" }}
+Image Permalink: {{ .Permalink }}
+Image RelPermalink: {{ .RelPermalink }}
 {{ end }}
