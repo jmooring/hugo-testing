@@ -11,5 +11,6 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-github-issue-11654 https://github.com/jmooring/hugo-testing hugo-github-issue-11654
 cd hugo-github-issue-11654
-hugo server
+rm -rf public/ && hugo && tree public
+cat public/amp/posts/post-1/index.html | grep data.json
 ```
