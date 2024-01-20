@@ -6,3 +6,7 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/7960'
 description = "Hugo server does not apply changes made to resources included via resources.Get in shortcodes"
 +++
+
+{{< css >}}
+
+This is content/_index.md
