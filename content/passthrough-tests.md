@@ -349,3 +349,35 @@ $$
   \rightarrow x_{k-1})}{p_a(x_{k-1})p_a(x_k)})
 \end{array}
 \]
+
+## Other
+
+### Two inline equations in the same paragraph
+
+```text
+// Example 27
+
+Two inline equations $a^*=x-b^*$ in the $a^*=x-b^*$ same paragraph
+```
+
+Two inline equations $a^*=x-b^*$ in the $a^*=x-b^*$ same paragraph
+
+### Two blocks equations in the same paragraph
+
+```text
+// Example 28
+
+Two block equations $$a^*=x-b^*$$ in the $$a^*=x-b^*$$ same paragraph
+```
+
+Two block equations $$a^*=x-b^*$$ in the $$a^*=x-b^*$$ same paragraph
+
+### A block equation and an inline equation in the same paragraph
+
+```text
+// Example 29
+
+A block equation $$a^*=x-b^*$$ and an inline equation $a^*=x-b^*$ in the same paragraph
+```
+
+A block equation $$a^*=x-b^*$$ and an inline equation $a^*=x-b^*$ in the same paragraph

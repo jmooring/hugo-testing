@@ -357,3 +357,35 @@ $$
 \end{array}
 \]
 {{< /math >}}
+
+## Other
+
+### Two inline equations in the same paragraph
+
+```text
+// Example 27
+
+Two inline equations {{</* math */>}}$a^*=x-b^*${{</* /math */>}} in the {{</* math */>}}$a^*=x-b^*${{</* /math */>}} same paragraph
+```
+
+Two inline equations {{< math >}}$a^*=x-b^*${{< /math >}} in the {{< math >}}$a^*=x-b^*${{< /math >}} same paragraph
+
+### Two blocks equations in the same paragraph
+
+```text
+// Example 28
+
+Two block equations {{</* math */>}}$$a^*=x-b^*$${{</* /math */>}} in the {{</* math */>}}$$a^*=x-b^*$${{</* /math */>}} same paragraph
+```
+
+Two block equations {{< math >}}$$a^*=x-b^*$${{< /math >}} in the {{< math >}}$$a^*=x-b^*$${{< /math >}} same paragraph
+
+### A block equation and an inline equation in the same paragraph
+
+```text
+// Example 29
+
+A block equation {{</* math */>}}$$a^*=x-b^*$${{</* /math */>}} and an inline equation {{</* math */>}}$a^*=x-b^*${{</* /math */>}} in the same paragraph
+```
+
+A block equation {{< math >}}$$a^*=x-b^*$${{< /math >}} and an inline equation {{< math >}}$a^*=x-b^*${{< /math >}} in the same paragraph
