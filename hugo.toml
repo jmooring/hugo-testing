@@ -8,12 +8,15 @@ defaultContentLanguageInSubdir = true
 languageCode = 'en-US'
 languageDirection = 'ltr'
 languageName = 'English'
-title = 'Hugo GitHub Issue #11453 (en)'
+title = 'Hugo GitHub Issue #11933 (en)'
 weight = 1
 
 [languages.de]
 languageCode = 'de-DE'
 languageDirection = 'ltr'
 languageName = 'Deutsch'
-title = 'Hugo GitHub Issue #11453 (de)'
+title = 'Hugo GitHub Issue #11933 (de)'
 weight = 2
+
+[markup.goldmark]
+duplicateResourceFiles = false # default is false

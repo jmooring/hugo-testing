@@ -1,15 +1,15 @@
-# Hugo GitHub Issue #11453
+# Hugo GitHub Issue #11933
 
-Details: <https://github.com/gohugoio/hugo/issues/11453>
+Details: <https://github.com/gohugoio/hugo/issues/11933>
 
-Description: Don't duplicate page resource output per language
+Description: Create default link and image render hooks
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b hugo-github-issue-11453 https://github.com/jmooring/hugo-testing hugo-github-issue-11453
-cd hugo-github-issue-11453
+git clone --single-branch -b hugo-github-issue-11933 https://github.com/jmooring/hugo-testing hugo-github-issue-11933
+cd hugo-github-issue-11933
 hugo server
 ```
