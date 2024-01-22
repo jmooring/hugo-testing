@@ -17,3 +17,6 @@ languageDirection = 'ltr'
 languageName = 'Deutsch'
 title = 'Hugo GitHub Issue #11453 (de)'
 weight = 2
+
+[markup.goldmark]
+duplicateResourceFiles = false # default is false
