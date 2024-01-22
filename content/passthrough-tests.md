@@ -381,3 +381,69 @@ A block equation $$a^*=x-b^*$$ and an inline equation $a^*=x-b^*$ in the same pa
 ```
 
 A block equation $$a^*=x-b^*$$ and an inline equation $a^*=x-b^*$ in the same paragraph
+
+### Inline equations within other markdown elements
+
+Unordered list
+
+- Inline equation $a^*=x-b^*$ within list item
+- Inline equation $a^*=x-b^*$ within list item
+
+Description list
+
+Inline equation $a^*=x-b^*$ within description term element (dt)
+: Inline equation $a^*=x-b^*$ within description details element (dd)
+
+[Inline equation $a^*=x-b^*$ within link text](https://katex.org)
+
+#### Inline equation $a^*=x-b^*$ within heading
+
+> Inline $a^*=x-b^*$ equation within blockquote
+
+Inline equation `$a^*=x-b^*$` within backticks
+
+    Inline equation $a^*=x-b^*$ within code block
+
+```text
+Inline equation $a^*=x-b^*$ within fenced code block
+```
+
+### Block equations within other markdown elements
+
+Unordered list
+
+- Block equation $$a^*=x-b^*$$ within list item
+- Block equation $$a^*=x-b^*$$ within list item
+
+Description list
+
+Block equation $$a^*=x-b^*$$ within description term element (dt)
+: Block equation $$a^*=x-b^*$$ within description details element (dd)
+
+[Block equation $$a^*=x-b^*$$ within link text](https://katex.org)
+
+#### Block equation $$a^*=x-b^*$$ within heading
+
+> Block $$a^*=x-b^*$$ equation within blockquote
+
+Block equation `$$a^*=x-b^*$$` within backticks
+
+    Block equation $$a^*=x-b^*$$ within code block
+
+```text
+Block equation $$a^*=x-b^*$$ within fenced code block
+```
+
+### Inline equation with currency symbol in text
+
+```text
+The price is $10.00, but members get a discount. The final price is $p' = p(1-d)$.
+```
+
+The price is $10.00, but members get a discount. The final price is $p' = p(1-d)$.
+
+```text
+The price is $10.00, but members get a discount. The final price is \(p' = p(1-d)\).
+```
+
+The price is $10.00, but members get a discount. The final price is \(p' = p(1-d)\).
