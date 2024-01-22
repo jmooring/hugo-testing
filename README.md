@@ -2,7 +2,7 @@
 
 Details: <https://github.com/gohugoio/hugo/issues/10894>
 
-Description: Add LaTeX in Markdown support to Hugo
+Description: markup/goldmark: Enable pass-through of raw content blocks
 
 ## Instructions
 
