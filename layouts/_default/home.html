@@ -9,7 +9,16 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ $tags_and_topics := site.Data.tags_and_topics }}
+
+  {{ range $tag := site.Data.tags }}
+    {{ range index $tags_and_topics $tag }}
+      {{ if $.Page.GetPage (replace . " " "-" | lower) }}
+        <h2>{{ i18n $tag }}</h2>
+        {{ break }}
+      {{ end }}
+    {{ end }}
   {{ end }}
+
 {{ end }}
