@@ -447,3 +447,9 @@ The price is $10.00, but members get a discount. The final price is \(p' = p(1-d
 ```
 
 The price is $10.00, but members get a discount. The final price is \(p' = p(1-d)\).
+
+```text
+The price is \\$10.00, but members get a discount. The final price is $p' = p(1-d)$.
+```
+
+The price is \\$10.00, but members get a discount. The final price is $p' = p(1-d)$.

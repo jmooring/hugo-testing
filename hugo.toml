@@ -15,9 +15,6 @@ renderer = 'MathJax' # KaTeX or MathJax (case-insensitive)
 [markup.goldmark.extensions.passthrough]
 enable = true
 
-# Default delimiters, but I expect this will change.
-# See https://github.com/gohugoio/hugo/pull/11866#issuecomment-1904494836
-#
-# [markup.goldmark.extensions.passthrough.delimiters]
-# block = [['$$', '$$'], ['\[', '\]']]
-# inline = [['$', '$'], ['\(', '\)']]
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['$$', '$$'], ['\[', '\]']]
+inline = [['$', '$'], ['\(', '\)']]

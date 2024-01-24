@@ -389,3 +389,17 @@ A block equation {{</* math */>}}$$a^*=x-b^*$${{</* /math */>}} and an inline eq
 ```
 
 A block equation {{< math >}}$$a^*=x-b^*$${{< /math >}} and an inline equation {{< math >}}$a^*=x-b^*${{< /math >}} in the same paragraph
+
+### Inline equation with currency symbol in text
+
+```text
+The price is $10.00, but members get a discount. The final price is {{</* math */>}}$p' = p(1-d)${{</* /math */>}}.
+```
+
+The price is $10.00, but members get a discount. The final price is {{< math >}}$p' = p(1-d)${{< /math >}}.
+
+```text
+The price is \\$10.00, but members get a discount. The final price is {{</* math */>}}$p' = p(1-d)${{</* /math */>}}.
+```
+
+The price is \\$10.00, but members get a discount. The final price is {{< math >}}$p' = p(1-d)${{< /math >}}.
