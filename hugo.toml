@@ -2,19 +2,13 @@ baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #10894'
 
-[params.latex]
-enabled = true
-renderer = 'MathJax' # KaTeX or MathJax (case-insensitive)
-
-# Benchmark testing
-# https://www.intmath.com/cg5/katex-mathjax-comparison.php?processor=MathJax3
-#
-# MathJax 3 is 3x faster than KaTeX. So when people say MathJax is slower,
-# that's based on MathJax 2.7, which was really slow.
-
-[markup.goldmark.extensions.passthrough]
-enable = true
-
-[markup.goldmark.extensions.passthrough.delimiters]
-block = [['$$', '$$'], ['\[', '\]']]
-inline = [['$', '$'], ['\(', '\)']]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['$$', '$$'], ['\[', '\]']]
+          inline = [['$', '$'], ['\(', '\)']]
+[params]
+  math = true

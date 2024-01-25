@@ -6,7 +6,10 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
 
   {{ partialCached "css.html" . }}
-  {{ partialCached "render-latex.html" . }}
+
+  {{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+  {{ end }}
 
 </head>
 <body>
