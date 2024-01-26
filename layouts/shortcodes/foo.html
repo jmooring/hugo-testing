@@ -3,7 +3,7 @@
 
 {{ range $page }}
   {{ $image := "" }}
-  {{ with .Resources.GetMatch "header" }}{{ $image = (.Fill "800x533") }}{{ end }}
+  {{ with .Resources.GetMatch "header*" }}{{ $image = (.Fill "800x533") }}{{ end }}
   <div class="row {{ with ($.Get "rowclasses") }}{{ . }}{{ end }}">
     <div class="col-lg-4 col-md-6 justify-content-center d-flex flex-column {{ with ($.Get "alignright") }}order-last{{ end }}">
       <div class="card">
