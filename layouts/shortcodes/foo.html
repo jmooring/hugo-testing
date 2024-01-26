@@ -1,0 +1,39 @@
+<!-- Full shortcode -->
+{{ $page := first 1 ( (where (where .Site.RegularPages ".Params.options" "!=" nil) ".Params.options.unlisted" "!=" true) ).ByPublishDate.Reverse }}
+
+{{ range $page }}
+  {{ $image := "" }}
+  {{ with .Resources.GetMatch "header" }}{{ $image = (.Fill "800x533") }}{{ end }}
+  <div class="row {{ with ($.Get "rowclasses") }}{{ . }}{{ end }}">
+    <div class="col-lg-4 col-md-6 justify-content-center d-flex flex-column {{ with ($.Get "alignright") }}order-last{{ end }}">
+      <div class="card">
+        <div class="d-block blur-shadow-image">
+          <a href="{{ .Permalink }}"><img src="{{ $image.RelPermalink }}" alt="alt text" class="img-fluid border-radius-lg" loading="lazy"></a>
+        </div>
+        <style>.colored-shadow{ background-image: url({{ $image.RelPermalink }}); }</style>
+        <div class="colored-shadow" style='background-image: url({{ $image.RelPermalink }});'></div>
+      </div>
+    </div>
+    <div class="col-lg-8 col-md-6 justify-content-center d-flex flex-column pl-lg-5 pt-lg-0 pt-3">
+      <div class="category text-primary mt-3 h6"> {{ index .Params.categories 0 }}</div>
+      <h3 class="card-title">
+        <a href="{{ .Permalink }}" class="text-dark">{{ .Title }}</a>
+      </h3>
+      <p class="card-description">
+        {{ .Summary }} <a href="{{ .Permalink }}" class="text-darker icon-move-right text-sm"> <br> {{ T "read_more"}}
+          <i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
+        </a>
+      </p>
+      {{ $author := " "}}
+      {{ with (index .Params.authors 0) }}
+        {{ $author = $.Site.GetPage (printf "authors/%s/" .) }}
+      {{ end }}
+      <p class="author">
+        {{ if $author }}
+          {{ T "by"}} <a href="{{ .Permalink }}" class="ms-1"><span class="font-weight-bold text-primary"> {{ $author.Params.name }}</span></a>,
+        {{ end }}
+        {{ .PublishDate | dateFormat "02-Jan-2006" }}
+      </p>
+    </div>
+  </div>
+{{ end }}

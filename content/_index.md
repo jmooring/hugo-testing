@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/47971'
 description = "Inline css string variable returns null on developer tools but not on source"
 +++
+
+{{< foo rowclasses=row-classes alignright=true >}}
