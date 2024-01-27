@@ -4,6 +4,13 @@
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],    // inline
       displayMath: [['$$', '$$'], ['\\[', '\\]']]  // block
+    },
+    startup: {
+      pageReady: () => {
+        return MathJax.startup.defaultPageReady().then(() => {
+          document.body.style.display = 'block'; // handle flash of unstyled content
+        });
+      }
     }
   };
 </script>

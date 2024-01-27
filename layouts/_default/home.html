@@ -8,7 +8,6 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-
   {{ .Content }}
   {{ range site.RegularPages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
