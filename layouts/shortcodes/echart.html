@@ -1,0 +1,23 @@
+{{ $dataObject := or (.Get "dataObject") "" }}
+{{ $height := or (.Get "height") "600px" }}
+{{ $id := printf "echart-%03d" .Ordinal }}
+{{ $width := or (.Get "width") "800px" }}
+
+{{ if $dataObject }}
+  {{ with $data := index site.Data.echarts $dataObject }}
+    <div id={{ $id }} style="width: {{ $width }};height: {{ $height }};"></div>
+    <script type="text/javascript">
+      // Initialize the echarts instance based on the prepared dom
+      var chart = echarts.init(document.getElementById({{ $id }}));
+      // Specify the configuration items and data for the chart
+      var option = {{ $data }};
+      // Display the chart using the configuration items and data just specified.
+      chart.setOption(option);
+    </script>
+    {{ $.Page.Store.Set "has_echart" true }}
+  {{ else }}
+    {{ errorf "The %q shortcode %q data object is empty. See %s" .Name $dataObject .Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a 'dataObject' paramater. See %s" .Name .Position }}
+{{ end }}
