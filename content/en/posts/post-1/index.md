@@ -6,6 +6,8 @@ draft = false
 
 ![kitten (en)](a.jpg "A kitten (en)")
 
+![kitten](/media/c.jpg "Yet another kitten (en)")
+
 As Gärtner found that there was sometimes an innate difference in different _individuals_ of the same two species in crossing; so Sagaret believes this to be the case with different individuals of the same two species in being grafted together. As in reciprocal crosses, the facility of effecting an union is often very far from equal, so it sometimes is in grafting; the common gooseberry, for instance, cannot be grafted on the currant, whereas the currant will take, though with difficulty, on the gooseberry.
 
 We have seen that the sterility of hybrids, which have their reproductive organs in an imperfect condition, is a very different case from the difficulty of uniting two pure species, which have their reproductive organs perfect; yet these two distinct cases run to a certain extent parallel. Something analogous occurs in grafting; for Thouin found that three species of Robinia, which seeded freely on their own roots, and which could be grafted with no great difficulty on another species, when thus grafted were rendered barren. On the other hand, certain species of Sorbus, when grafted on other species, yielded twice as much fruit as when on their own roots. We are reminded by this latter fact of the extraordinary case of Hippeastrum, Lobelia, &c., which seeded much more freely when fertilised with the pollen of distinct species, than when self-fertilised with their own pollen.
