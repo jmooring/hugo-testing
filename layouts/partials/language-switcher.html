@@ -1,0 +1,18 @@
+{{ with .AllTranslations }}
+  <nav class="language-switcher">
+    {{ range . }}
+
+      {{/* Workaround for https://github.com/gohugoio/hugo/issues/7497 */}}
+      {{ $href := .Permalink }}
+      {{ if and .IsHome (eq hugo.Environment "serverless") }}
+        {{ $href = printf "%sindex.html" .Site.Home.Permalink }}
+      {{ end }}
+
+      {{ if eq .Language.Lang $.Language.Lang }}
+        <a class="active" aria-current="page" href="{{ $href }}">{{ .Language.LanguageName }}</a>
+      {{ else }}
+        <a href="{{ $href }}">{{ .Language.LanguageName }}</a>
+      {{ end }}
+    {{ end }}
+  </nav>
+{{ end }}
