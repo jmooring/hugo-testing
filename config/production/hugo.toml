@@ -1,0 +1,7 @@
+# Enable multihost mode
+
+[languages.en]
+baseURL = 'https://en.example.org/'
+
+[languages.de]
+baseURL = 'https://de.example.org/'
