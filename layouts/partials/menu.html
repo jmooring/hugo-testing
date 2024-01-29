@@ -1,0 +1,48 @@
+{{ $page := .page }}
+{{ $menuID := .menuID }}
+
+{{ with index site.Menus $menuID }}
+  <nav>
+    <ul>
+      {{ partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+    </ul>
+  </nav>
+{{ end }}
+
+{{ define "partials/inline/menu/walk.html" }}
+  {{ $page := .page }}
+  {{ range .menuEntries }}
+    {{ $attrs := dict "href" .URL }}
+
+    {{/* Workaround for https://github.com/gohugoio/hugo/issues/7497 */}}
+    {{ if and .Page.IsHome (eq hugo.Environment "serverless") }}
+      {{ $attrs = dict "href" (printf "%sindex.html" .Page.Site.Home.RelPermalink) }}
+    {{ end }}
+
+    {{ if $page.IsMenuCurrent .Menu . }}
+      {{ $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
+    {{ else if $page.HasMenuCurrent .Menu .}}
+      {{ $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
+    {{ end }}
+    {{ $name := .Name }}
+    {{ with .Identifier }}
+      {{ with T . }}
+        {{ $name = . }}
+      {{ end }}
+    {{ end }}
+    <li>
+      <a
+        {{ range $k, $v := $attrs }}
+          {{ with $v }}
+            {{ printf " %s=%q" $k $v | safeHTMLAttr }}
+          {{ end }}
+        {{ end -}}
+      >{{ $name }}</a>
+      {{ with .Children }}
+        <ul>
+          {{ partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+        </ul>
+      {{ end }}
+    </li>
+  {{ end }}
+{{ end }}

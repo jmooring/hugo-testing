@@ -1,0 +1,3 @@
+baseURL = '/'
+uglyURLs = true
+relativeURLs = true
