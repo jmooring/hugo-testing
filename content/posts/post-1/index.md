@@ -1,0 +1,13 @@
++++
+title = 'Post 1'
+date = 2024-01-29T06:34:02-08:00
+draft = false
++++
+
+![kitten](a.jpg "A kitten")
+
+As Gärtner found that there was sometimes an innate difference in different _individuals_ of the same two species in crossing; so Sagaret believes this to be the case with different individuals of the same two species in being grafted together. As in reciprocal crosses, the facility of effecting an union is often very far from equal, so it sometimes is in grafting; the common gooseberry, for instance, cannot be grafted on the currant, whereas the currant will take, though with difficulty, on the gooseberry.
+
+We have seen that the sterility of hybrids, which have their reproductive organs in an imperfect condition, is a very different case from the difficulty of uniting two pure species, which have their reproductive organs perfect; yet these two distinct cases run to a certain extent parallel. Something analogous occurs in grafting; for Thouin found that three species of Robinia, which seeded freely on their own roots, and which could be grafted with no great difficulty on another species, when thus grafted were rendered barren. On the other hand, certain species of Sorbus, when grafted on other species, yielded twice as much fruit as when on their own roots. We are reminded by this latter fact of the extraordinary case of Hippeastrum, Lobelia, &c., which seeded much more freely when fertilised with the pollen of distinct species, than when self-fertilised with their own pollen.
+
+We thus see, that although there is a clear and fundamental difference between the mere adhesion of grafted stocks, and the union of the male and female elements in the act of reproduction, yet that there is a rude degree of parallelism in the results of grafting and of crossing distinct species. And as we must look at the curious and complex laws governing the facility with which trees can be grafted on each other as incidental on unknown differences in their vegetative systems, so I believe that the still more complex laws governing the facility of first crosses, are incidental on unknown differences, chiefly in their reproductive systems. These differences, in both cases, follow to a certain extent, as might have been expected, systematic affinity, by which every kind of resemblance and dissimilarity between organic beings is attempted to be expressed. The facts by no means seem to me to indicate that the greater or lesser difficulty of either grafting or crossing together various species has been a special endowment; although in the case of crossing, the difficulty is as important for the endurance and stability of specific forms, as in the case of grafting it is unimportant for their welfare.

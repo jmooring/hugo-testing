@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+title = 'Hugo Forum Topic #35825'
+languageCode = 'en-US'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
