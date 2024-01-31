@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #11949
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/11949>
 
-Description: @@DESCRIPTION@@
+Description: Pagination is broken with "invalid memory or nil pointer dereference" in 0.123.0-DEV
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-11949 https://github.com/jmooring/hugo-testing hugo-github-issue-11949
+cd hugo-github-issue-11949
 hugo server
 ```

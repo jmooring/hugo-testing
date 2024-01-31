@@ -1,0 +1,12 @@
+{{ define "main" }}[layouts/events/list.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $sliceOfPages := where site.RegularPages "Type" "posts" }}
+  {{ $paginate := .Paginate $sliceOfPages 10 }}
+  {{ range $index, $page := $paginate.Pages }}
+    {{ $page.Render "list_item" }}
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+
+{{ end }}
