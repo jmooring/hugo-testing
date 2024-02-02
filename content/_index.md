@@ -6,3 +6,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48080'
 description = "Shortcode without markdown nested in Shortcode with markdown is wrapped with <p>"
 +++
+
+{{% notice %}}
+{{< foobar >}} Lorem ipsum dolor.
+{{% /notice %}}

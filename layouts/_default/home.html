@@ -8,8 +8,17 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  <p>Markdown</p>
+
+  {{ transform.Highlight (trim .RawContent "\n\r") "text" }}
+
+  <p>Rendered HTML</p>
+
+  {{ transform.Highlight (trim .Content "\n\r") "html" }}
+
+  <p>Rendered by browser</p>
+
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
 {{ end }}
