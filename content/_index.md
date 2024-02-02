@@ -8,5 +8,6 @@ description = "Shortcode without markdown nested in Shortcode with markdown is w
 +++
 
 {{% notice %}}
+
 {{< foobar >}} Lorem ipsum dolor.
 {{% /notice %}}
