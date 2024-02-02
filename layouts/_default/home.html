@@ -9,7 +9,29 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th>.RelPermalink</th>
+        <th>.Page.File.Path</th>
+        <th>.Page.Path</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range sort site.AllPages "RelPermalink" }}
+        <tr>
+          <td>{{ .RelPermalink }}</td>
+          <td>
+            {{ with .Page.File }}
+            {{ .Path }}
+            {{ end }}
+          </td>
+          <td>{{ .Page.Path }}</td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+
 {{ end }}
