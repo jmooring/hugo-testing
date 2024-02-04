@@ -1,3 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #48107'
+
+# change to 10 and the pager nav will not be rendered, as expected
+paginate = 5
