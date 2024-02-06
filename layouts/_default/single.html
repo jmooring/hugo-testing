@@ -1,4 +1,12 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ warnf "Page resources for %s" .File.Path }}
+  {{ warnf "%s" (strings.Repeat 40 "-") }}
+  {{ range .Resources.Match "**" }}
+    {{ warnf "%s" .Name }}
+  {{ end }}
+
+
 {{ end }}
