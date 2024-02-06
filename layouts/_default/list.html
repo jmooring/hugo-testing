@@ -1,7 +1,7 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
-{{ end }}
+{{- $taxonomy := "book authors" }}
+{{- range $term, $weightedPages := index site.Taxonomies "book authors" }}
+  {{- $term }}|
+  {{- range $weightedPages }}
+    {{- .Title }}|
+  {{- end }}
+{{- end }}
