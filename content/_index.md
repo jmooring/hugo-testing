@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #48181'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-02-08T14:31:11-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/48181'
+description = "Live reloading css does not work with cached disabled"
 +++
