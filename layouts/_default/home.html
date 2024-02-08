@@ -9,7 +9,72 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Ordered dithering methods</h2>
+
+  {{ $methods := slice
+    "ClusteredDot4x4"
+    "ClusteredDot6x6"
+    "ClusteredDot6x6_2"
+    "ClusteredDot6x6_3"
+    "ClusteredDot8x8"
+    "ClusteredDotDiagonal16x16"
+    "ClusteredDotDiagonal6x6"
+    "ClusteredDotDiagonal8x8"
+    "ClusteredDotDiagonal8x8_2"
+    "ClusteredDotDiagonal8x8_3"
+    "ClusteredDotHorizontalLine"
+    "ClusteredDotSpiral5x5"
+    "ClusteredDotVerticalLine"
+    "Horizontal3x5"
+    "Vertical5x3"
+  }}
+
+  {{ with $r := resources.Get "a.jpg" }}
+    {{ range $methods }}
+      <h3>{{ . }}</h3>
+      {{ $filter := images.Dither (dict "colors" $r.Colors "method" .) }}
+      {{ with $r.Filter $filter }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+      {{ $filter := images.Dither (dict "method" .) }}
+      {{ with $r.Filter $filter }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
   {{ end }}
+
+  <h2>Error diffusion dithering methods</h2>
+
+  {{ $methods := slice
+    "Atkinson"
+    "Burkes"
+    "FalseFloydSteinberg"
+    "FloydSteinberg"
+    "JarvisJudiceNinke"
+    "Sierra"
+    "Sierra2"
+    "Sierra2_4A"
+    "Sierra3"
+    "SierraLite"
+    "Simple2D"
+    "StevenPigeon"
+    "Stucki"
+    "TwoRowSierra"
+  }}
+
+  {{ with $r := resources.Get "a.jpg" }}
+    {{ range $methods }}
+      <h3>{{ . }}</h3>
+      {{ $filter := images.Dither (dict "colors" $r.Colors "method" .) }}
+      {{ with $r.Filter $filter }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+      {{ $filter := images.Dither (dict "method" .) }}
+      {{ with $r.Filter $filter }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}

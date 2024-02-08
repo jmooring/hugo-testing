@@ -6,3 +6,5 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/8598'
 description = "Add image dithering filter to build low-tech websites"
 +++
+
+Each pair of images below was produced with (a) a palette of the dominant image colors from the `Resource.Colors` method, and (b) a b/w palette.
