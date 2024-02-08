@@ -4,14 +4,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ partial "css.html" . }}
+
 </head>
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
     <hr>
+    {{ with .Params.details }}
+      <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+    {{ end }}
+    {{ with .Params.description }}
+      <p>Description: {{ . }}</p>
+    {{ end }}
+    {{ with or .Params.url .Params.details }}
+      <hr>
+    {{ end }}
   </header>
   <main>
-    {{ block "main" . }}{{ end }}
+    {{ .Content }}
   </main>
 </body>
 </html>

@@ -1,0 +1,8 @@
+{{ $styles := slice }}
+{{ range resources.Match "*.css" }}
+  {{ $styles = $styles | append . }}
+{{ end }}
+
+{{ with resources.Concat "styles.css" $styles }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}

@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-48181 https://github.com/jmooring/
 cd hugo-forum-topic-48181
 hugo server
 ```
+
+Then modify assets/a.css while the server is running. The page does not refresh.
