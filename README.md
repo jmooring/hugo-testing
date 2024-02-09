@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-github-issue-12017 https://github.com/jmooring
 cd hugo-github-issue-12017
 hugo server
 ```
+
+Then edit line 26 of themes/PaperMod/assets/css/common/header.css, changing the font size from 24px to 72px. The page does not reload as it did with v0.122.0.
