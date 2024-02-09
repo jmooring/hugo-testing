@@ -9,7 +9,21 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <p>Range over .Site.Taxonomies.tags </h2>
+
+  <ul>
+    {{ range .Site.Taxonomies.tags }}
+      <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+    {{ end }}
+  </ul>
+
+  <p>Range over .Site.Taxonomies.tags.ByCount.Reverse </h2>
+
+  <ul>
+    {{ range .Site.Taxonomies.tags.ByCount.Reverse }}
+      <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+    {{ end }}
+  </ul>
+
 {{ end }}

@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #12020'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-02-09T07:31:27-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/12020'
+description = "Terms with backing content file is not handled correctly in 0.123"
 +++
