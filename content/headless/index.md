@@ -1,0 +1,4 @@
+---
+title: headless
+headless: true
+---
