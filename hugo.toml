@@ -1,3 +1,60 @@
 baseURL = 'https://example.org/'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# -----------------------------------------------------------------------------
+# Languages
+# -----------------------------------------------------------------------------
+
+[languages.en]
 languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
 title = 'Hugo GitHub Issue #12031'
+
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+title = 'Hugo GitHub Issue #12031 (de)'
+
+# -----------------------------------------------------------------------------
+# Menus en
+# -----------------------------------------------------------------------------
+
+[[languages.en.menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[languages.en.menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+# -----------------------------------------------------------------------------
+# Menus de
+# -----------------------------------------------------------------------------
+
+[[languages.de.menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.de.menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[languages.de.menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30

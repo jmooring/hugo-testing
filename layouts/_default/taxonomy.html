@@ -1,0 +1,24 @@
+{{ define "main" }}[layouts/_default/taxonomy.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <h2>Range .Pages</h2>
+
+  {{ range .Pages }}
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+  {{ end }}
+
+  <h2>Range .Data.Terms</h2>
+
+  {{ range .Data.Terms }}
+    <h3><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></h3>
+  {{ end }}
+
+  <h2>Range .Site.Taxonomies.tags</h2>
+
+  {{ range .Site.Taxonomies.tags }}
+    <h3><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></h3>
+  {{ end }}
+
+
+{{ end }}
