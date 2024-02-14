@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #11646'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+
+
+[languages.en]
+baseURL = 'https://enexample.org/'
+weight = 1
+title = 'Hugo GitHub Issue #11646 (en)'
+
+[languages.zh-hans]
+weight = 2
+baseURL = "https://zh-hans.example.org/"
+title = 'Hugo GitHub Issue #11646 (zh-hans)'

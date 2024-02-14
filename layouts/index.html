@@ -13,5 +13,11 @@
   <main>
     {{ block "main" . }}{{ end }}
   </main>
+
+  {{ with resources.Get "foo.txt" }}
+    {{ $copy := resources.Copy "bar.txt" . }}
+    <a href="{{ $copy.Permalink }}" target="_blank">{{ $copy.Permalink }}</a>
+  {{ end }}
+
 </body>
 </html>
