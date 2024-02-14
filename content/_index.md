@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #48288'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-02-14T09:01:56-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/48288'
+description = "How to enumerate subfolders"
 +++
