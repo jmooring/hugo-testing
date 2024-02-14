@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48288'
 description = "How to enumerate subfolders"
 +++
+
+This is content/_index.md
