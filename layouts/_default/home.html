@@ -12,4 +12,8 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  <hr>
+
+  Translate "foo" --> {{ T "foo" }}
 {{ end }}

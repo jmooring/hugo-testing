@@ -1,3 +1,30 @@
 baseURL = 'https://example.org/'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+# contentDir = 'content/en'
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12047'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+title = 'Hugo GitHub Issue #12047 (en)'
+
+[languages.de]
+# contentDir = 'content/de'
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+title = 'Hugo GitHub Issue #12047 (de)'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
