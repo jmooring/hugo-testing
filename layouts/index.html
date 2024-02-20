@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ site.Title }}</h1>
+    <hr>
+  </header>
+  <main>
+
+  {{ range resources.ByType "image" }}
+    {{ with .Exif }}
+      {{ with .Tags.ExposureTime }}
+        {{ $exposure := 0 }}
+        {{ if strings.Contains . "/" }}
+          {{ $parts := apply (split . "/") "float" "." }}
+          {{ $exposure = div (index $parts 0) (index $parts 1) }}
+        {{ else }}
+          {{ $exposure = (float .) }}
+        {{ end }}
+        {{ $exposure | warnf "%#[2]v (%[2]T) [%[1]d]" math.Counter }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  </main>
+</body>
+</html>
