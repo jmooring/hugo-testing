@@ -195,3 +195,11 @@ draft = false
 ```
 
 [**Post 2**](post-2 "Link to Post 2")
+
+### Link to heading at top of this page
+
+```text
+[Top](#images)
+```
+
+[Top](#images)
