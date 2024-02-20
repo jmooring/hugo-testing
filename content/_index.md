@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #48375'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-02-20T10:16:48-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/48375'
+description = "Nested JSON array unmarshal - possible?"
 +++
