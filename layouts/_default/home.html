@@ -12,4 +12,33 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ $data := "" }}
+  {{ $path := "data.json" }}
+  {{ with resources.Get $path }}
+    {{ with unmarshal .Content }}
+      {{ $data = . }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get global resource %q" $path }}
+  {{ end }}
+
+  {{ with $data }}
+    <ul>
+      {{ range $k, $v := . }}
+        <li>
+          {{ $k }}
+          {{ with $v }}
+            <ul>
+              {{ range  . }}
+                <li>foo = {{ .foo }}</li>
+                <li>bar = {{ .bar }}</li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
 {{ end }}
