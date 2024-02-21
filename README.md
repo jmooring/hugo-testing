@@ -17,7 +17,7 @@ rm -rf public/ && hugo && tree public
 Expected (v0.122.0)
 
 ```text
-public//
+public/
 ├── dir/
 │   ├── a.txt
 │   └── b.txt
@@ -27,7 +27,7 @@ public//
 Actual (v0.123.0)
 
 ```text
-public//
+public/
 ├── dir/
 │   └── b.txt
 └── index.html
