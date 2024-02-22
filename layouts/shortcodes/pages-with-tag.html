@@ -1,0 +1,7 @@
+<ul>
+  {{ range where .Site.Pages "Params.tags" "intersect" (slice (.Get 0)) }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    </li>
+  {{ end }}
+</ul>

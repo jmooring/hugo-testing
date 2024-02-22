@@ -6,3 +6,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48427'
 description = "Link list of pages by tags as a shortcode"
 +++
+
+```text
+{{</* pages-with-tag foo */>}}
+```
+
+{{< pages-with-tag foo >}}
