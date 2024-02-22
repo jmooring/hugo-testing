@@ -6,3 +6,11 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48421'
 description = "Global public data issues"
 +++
+
+You can purchase Product 1 for **{{< p 1 >}}** at any hardware store.
+
+Name|Price
+:--|--:
+Foo|{{< p 1 >}}
+Bar|{{< p 2 >}}
+Baz|{{< p 3 >}}

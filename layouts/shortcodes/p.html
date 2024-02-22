@@ -1,0 +1,13 @@
+{{- $id := .Get 0 }}
+{{- if $id }}
+  {{- $products := where site.Data.products "id" "eq" $id }}
+  {{- if eq (len $products) 0}}
+    {{- errorf "The %q shortcode was unable to find product id %v. See %s" .Name $id .Position }}
+  {{- else if eq (len $products) 1 }}
+    {{- (index $products 0).price | lang.FormatCurrency 2 "USD" }}
+  {{- else }}
+    {{- errorf "The %q shortcode found multiple products with id %v. See %s" .Name $id .Position }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional parameter, a product id. See %s" .Name .Position }}
+{{- end -}}
