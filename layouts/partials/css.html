@@ -1,0 +1,9 @@
+{{ $styles := slice }}
+{{ range site.Params.plugins.css }}
+  {{ $styles = $styles | append (resources.Get .link) }}
+{{ end }}
+
+{{ $styles = $styles | append (resources.Get "scss/c.scss" | resources.ExecuteAsTemplate "foo" . | toCSS) }}
+{{ $styles = $styles | resources.Concat "styles.css" }}
+
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}">

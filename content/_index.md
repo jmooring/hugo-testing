@@ -6,3 +6,6 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48443'
 description = "Error calling Concat: resources in Concat must be of the same Media Type. Was working before"
 +++
+
+See the concatenated style sheet here:
+[styles.css](/styles.css)
