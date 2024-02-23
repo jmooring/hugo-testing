@@ -1,9 +1,9 @@
 baseURL = 'https://example.org/foo/'
-languageCode = 'en-US'
-
 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
+
+relativeURLs = true
 
 [languages.en]
 title = 'Hugo Forum Topic #48441 (en)'
@@ -12,6 +12,5 @@ weight = 1
 
 [languages.de]
 title = 'Hugo Forum Topic #48441 (de)'
-
 languageName = 'Deutsch'
 weight = 2
