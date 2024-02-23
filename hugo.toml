@@ -1,3 +1,42 @@
-baseURL = 'https://example.org/'
+theme = 'papermod'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+baseURL = 'https://en.example.org/'
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12123'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+title = 'Hugo GitHub Issue #12123 (en)'
+
+
+[languages.de]
+baseURL = 'https://de.example.org/'
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+title = 'Hugo GitHub Issue #12123 (de)'
+
+[[languages.en.menus.main]]
+name = 'Home (en)'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menus.main]]
+name = 'Posts (en)'
+pageRef = '/posts'
+weight = 20
+
+
+[[languages.de.menus.main]]
+name = 'Home (de)'
+pageRef = '/'
+weight = 10
+
+[[languages.de.menus.main]]
+name = 'Posts (de)'
+pageRef = '/posts'
+weight = 20
