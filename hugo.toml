@@ -5,6 +5,7 @@ defaultContentLanguageInSubdir = true
 
 [languages.en]
 baseURL = 'https://en.example.org/'
+contentDir = 'content/en'
 languageCode = 'en-US'
 languageDirection = 'ltr'
 languageName = 'English'
@@ -14,6 +15,7 @@ title = 'Hugo GitHub Issue #12123 (en)'
 
 [languages.de]
 baseURL = 'https://de.example.org/'
+contentDir = 'content/de'
 languageCode = 'de-DE'
 languageDirection = 'ltr'
 languageName = 'Deutsch'
