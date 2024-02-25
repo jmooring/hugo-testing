@@ -6,3 +6,17 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48495'
 description = "'Complement' from a partial"
 +++
+
+Site content:
+
+```text
+content/
+├── s1/
+│   ├── s1-1/
+│   │   ├── _index.md
+│   │   ├── p1.md
+│   │   ├── p2.md
+│   │   └── p3.md
+│   └── _index.md
+└── _index.md
+```

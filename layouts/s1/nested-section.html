@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <h2>Pages in current section</h2>
+  {{ partial "pages-in-current-section.html" . }}
+{{ end }}
