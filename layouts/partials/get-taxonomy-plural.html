@@ -1,0 +1,24 @@
+{{/*
+Returns the plural form of the given singular form of a taxonomy name.
+
+@param {string} . The singular form of the taxonomy name.
+
+@returns {string} The plural form of the taxonomy name.
+
+@example {{ partial "get-taxonomy-plural.html" "tag" }}
+*/}}
+
+{{ $taxonomoySingular := . }}
+{{ $taxonomyPlural := "" }}
+{{ range site.Taxonomies }}
+  {{ range . }}
+    {{ if eq .Page.Data.Singular $taxonomoySingular }}
+      {{ $taxonomyPlural = .Page.Data.Plural }}
+      {{ break }}
+    {{ end }}
+  {{ end }}
+  {{ if $taxonomyPlural }}
+    {{ break }}
+  {{ end }}
+{{ end }}
+{{ return $taxonomyPlural }}

@@ -1,0 +1,21 @@
+capitalizeListTitles: false
+defaultContentLanguage: pl
+languages:
+  pl:
+    baseURL: 'https://pl.example.org/'
+    contentDir: content/pl
+    languageName: Polish
+    weight: 1
+    title: 'Hugo Forum Topic #48507 (pl)'
+    taxonomies:
+      category: kategorie
+      tag: tagi
+  en:
+    title: 'Hugo Forum Topic #48507 (en)'
+    baseURL: 'https://en.example.org/'
+    contentDir: content/en
+    languageName: English
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
