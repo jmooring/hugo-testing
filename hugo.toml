@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12151'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+ignoreLogs = ['cascade-pattern-with-extension']
+[[cascade]]
+[cascade.params]
+foo = 'bar'
+[cascade._target]
+path = '/p1.md'
