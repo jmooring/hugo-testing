@@ -3,4 +3,4 @@ title: tag-a
 authors: [author-c]
 ---
 
-This is content/categories/tag-a/_index.md
+This is content/tags/tag-a/_index.md

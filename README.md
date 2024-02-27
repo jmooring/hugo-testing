@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/48516>
 
-Description: [SOLVED] Paginate returning Nil pages
+Description: Paginate returning Nil pages
 
 ## Instructions
 

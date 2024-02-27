@@ -1,5 +1,5 @@
 ---
-title: cat-b
+title: author-b
 ---
 
-This is content/categories/cat-b/_index.md
+This is content/authors/author-b/_index.md

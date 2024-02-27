@@ -4,5 +4,5 @@ linkTitle = 'Home'
 date = 2024-02-27T06:28:27-08:00
 draft = false
 details = 'https://discourse.gohugo.io/t/48516'
-description = "[SOLVED] Paginate returning Nil pages"
+description = "Paginate returning Nil pages"
 +++

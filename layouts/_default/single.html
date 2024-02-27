@@ -7,12 +7,19 @@
       {{ end }}
     </p>
   {{ end }}
-  {{ with .GetTerms "tags" }}
-    <p>Tags:
+  {{ with .GetTerms "authors" }}
+    <p>Authors:
       {{ range . }}
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
       {{ end }}
     </p>
   {{ end }}
+  {{ with .GetTerms "tags" }}
+  <p>Tags:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}
   {{ .Content }}
 {{ end }}
