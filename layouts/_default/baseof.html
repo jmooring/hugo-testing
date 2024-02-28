@@ -4,8 +4,20 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  {{ with resources.Get "scss/main.scss" }}
+    {{ $opts := dict "targetPath" "css/main.css" }}
+    {{ with . | toCSS $opts }}
+      {{ if eq hugo.Environment "development" }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}">
+      {{ else }}
+        {{ with . | minify | fingerprint }}
+          <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
 </head>
-<body>
+<body class="container">
   <header>
     <h1>{{ site.Title }}</h1>
     <hr>

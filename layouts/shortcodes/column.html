@@ -1,0 +1,3 @@
+<div class="mycol {{ or (.Get 0) `col` }}">
+  {{ .Inner | .Page.RenderString }}
+</div>

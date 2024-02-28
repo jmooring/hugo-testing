@@ -1,0 +1,3 @@
+<div class="myrow {{ or (.Get 0) `row` }}">
+  {{ .Inner | .Page.RenderString }}
+</div>
