@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #48453'
+disableKinds = ['rss','sitemap','taxonomy','term']
+[[cascade]]
+headless = true
+[cascade._target]
+path = '/s1**'
