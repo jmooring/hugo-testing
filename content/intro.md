@@ -6,3 +6,4 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48563'
 description = "Need help with mounts"
 +++
+This is the home page.
