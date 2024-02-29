@@ -1,3 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #48561'
+
+disableKinds = ['rss','sitemap']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[languages.ja]
+languageCode = 'ja-JP'
+languageDirection = 'ltr'
+languageName = 'Japanese'
+weight = 2
+
+[taxonomies]
+'papers/category' = 'papers/category'
+'blog/category' = 'blog/category'
