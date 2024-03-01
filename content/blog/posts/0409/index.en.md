@@ -10,7 +10,7 @@ tags:
     - abbreviations
     - Dutch language
     - announcement
-image: "afk-best-en.png"
+image: "afk-best.en.png"
 ---
 
 My abbreviation dictionary [afk.best](https://afk.best/en/) has received an option for searching abbreviations only (and not all available fields).
@@ -19,7 +19,7 @@ My abbreviation dictionary [afk.best](https://afk.best/en/) has received an opti
 
 For that you'll need to tick off the **In abbr. only** check box:
 
-{{< imgfig "afk-best-en.gif" "Searching only abbreviations or all fields on afk.best." >}}
+{{< imgfig "afk-best.en.gif" "Searching only abbreviations or all fields on afk.best." >}}
 
 If the check box is cleared, all fields, including the translation, will be sought. Any punctuation or whitespace are ignored just like before.
 

@@ -11,7 +11,7 @@ tags:
     - acronyms
     - Dutch language
     - announcement
-image: afk.best-en.png
+image: afk.best.en.png
 ---
 
 I've made a simple online service for looking up Dutch abbreviations and their English translations.
@@ -20,7 +20,7 @@ Please meet **[afk.best](https://afk.best/en/)**!
 
 <!--more-->
 
-{{< imgfig "afk.best-en.png" "The afk.best website." >}}
+{{< imgfig "afk.best.en.png" "The afk.best website." >}}
 
 You can search abbreviations with or without punctuation, the results will be the same. You can also search the text or the translation.
 
@@ -37,4 +37,3 @@ The [afk.best](https://afk.best/) website is built using the same [Hugo](https:/
 The entire source code of the service is [available on GitHub](https://github.com/yktoo/afk.best).
 
 This webapp employs HTML 5 history API, which makes it possible to navigate back and forth through your searches using the <kbd>&larr;</kbd> and <kbd>&rarr;</kbd> browser buttons.
-
