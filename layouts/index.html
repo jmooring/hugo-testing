@@ -1,0 +1,8 @@
+{{ with resources.ByType "text" }}
+  {{ with .Get "a.txt" }}
+    {{ .Publish }}
+  {{ end }}
+  {{ with .GetMatch "*b*" }}
+    {{ .Publish }}
+  {{ end }}
+{{ end }}
