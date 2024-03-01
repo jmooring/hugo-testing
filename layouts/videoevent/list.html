@@ -44,7 +44,7 @@
             {{- with $track.Params.videoartists }}
             <div class="list-group-details">
                 {{- T "withArtists" }}&nbsp;
-                {{- range $idx, $artist := . }}{{ if $idx }}, {{ end }}<a href="{{ relref $ (print `/videoartists/` (urlize .)) }}">{{ $artist }}</a>{{ end -}}
+                {{- range $idx, $artist := . }}{{ if $idx }}, {{ end }}<a href="{{ relref $ (print `/videoartists/` .) }}">{{ $artist }}</a>{{ end -}}
             </div>
             {{- end }}
         </div>

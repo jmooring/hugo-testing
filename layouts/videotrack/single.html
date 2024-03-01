@@ -23,7 +23,7 @@
     <h2>{{ T "inThisVideo" }}</h2>
     <ul>
     {{- range . }}
-        <li><a href="{{ relref $ (print `/videoartists/` (urlize .)) }}">{{ . }}</a></li>
+        <li><a href="{{ relref $ (print `/videoartists/` .) }}">{{ . }}</a></li>
     {{- end }}
     </ul>
 </section>
