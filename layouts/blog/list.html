@@ -1,0 +1,67 @@
+{{ define "schema-dot-org" }}
+<!-- Basic properties -->
+{{- $ld := dict "@context" "http://schema.org" "@type" "Blog" "headline" (substr .Site.Title 0 110) "url" .Permalink}}
+<!-- Author & Publisher -->
+{{- $ld_author := dict "@type" "Person" "name" .Site.Params.author }}
+{{- $ld_publisher := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "logo" (dict "@type" "ImageObject" "url" (absURL .Site.Params.logoUrl)) }}
+{{- $ld = merge $ld (dict "author" $ld_author "publisher" $ld_publisher) }}
+<!-- Dates -->
+{{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
+{{- if not .Date.IsZero }}
+    {{- $ld = merge $ld (dict "dateModified" (.Date.Format $ISO8601)) }}
+{{- end }}
+<!-- Keywords -->
+{{- $tags := slice }}{{ range $tag, $term := .Site.Taxonomies.tags }}{{ $tags = append $tag $tags }}{{ end }}
+{{- $ld = merge $ld (dict "keywords" $tags) }}
+<!-- Description -->
+{{- with .Site.Params.description }}{{ $ld = merge $ld (dict "description" .) }}{{ end }}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+{{- end }}
+
+{{ define "heading" }}
+{{- if .IsHome }}
+<!-- Jumbotron -->
+<div class="p-5 mb-4 text-center border-bottom">
+    <!-- Blog title -->
+    <h1 class="display-4">{{ T "blogTitle" }}</h1>
+
+    <!-- Blog subtitle -->
+    <div>
+        <div class="lead">{{ T "blogSubtitle" }}</div>
+        <div>(<a class="internal" href="{{ relLangURL `/about/` }}">{{ T "blogSubtitleAbout" }}</a>)</div>
+    </div>
+
+    <!-- Alternative language versions -->
+    <div class="py-4">
+        {{ range .Translations }}
+        <a class="btn btn-outline-secondary btn-lg" href="{{ .Permalink }}" role="button" title="{{ .Language.LanguageName }}">
+            <span class="flag {{ .Language.Lang }}"></span>
+            <span class="ms-1 d-none d-sm-inline">{{ .Language.LanguageName }}</span>
+        </a>
+        {{ end }}
+    </div>
+</div>
+{{- end }}
+{{- end }}
+
+{{ define "main" }}
+<!-- Blog feed -->
+<div class="blog-feed">
+    {{- $numPosts := .Site.Params.postsPerPage }}
+    {{- range (.Paginate (where $.Site.RegularPages "Type" "post") $numPosts).Pages }}
+    {{- .Render "list-item" }}
+    {{- end }}
+</div>
+
+<!-- Paginator -->
+<div class="blog-paginator">
+    {{ template "_internal/pagination.html" . }}
+</div>
+<div class="text-center">
+    <a href="{{ relref . `/blog/archive` }}">{{ T "allPosts" }}</a>
+    <span class="dot-sep"></span>
+    <a href="{{ relref . `/blog/tags` }}">{{ T "tags" }}</a>
+    <span class="dot-sep"></span>
+    <a href="{{ relref . `/blog/subscribe` }}">{{ T "subscribeToUpdates" }}</a>
+</div>
+{{ end }}

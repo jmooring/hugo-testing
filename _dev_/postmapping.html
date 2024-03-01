@@ -1,0 +1,12 @@
+{{ define "main" }}
+<pre><code>
+{{- range .Site.Home.AllTranslations }}
+{{- range where .Site.RegularPages "Type" "post" }}
+{{- $page := . }}
+{{- range slice "pages" "comments" }}
+update {{ . }} set path = '/blog/post/{{ $page.File.Dir | path.Base }}' where path = '{{ $page.RelPermalink }}';
+{{- end }}
+{{- end }}
+{{- end }}
+</code></pre>
+{{ end }}

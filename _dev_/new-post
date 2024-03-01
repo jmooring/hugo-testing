@@ -1,0 +1,27 @@
+#!/bin/bash
+#=======================================================================================================================
+# Create a new blog post
+# Arguments:
+#     $1 Optional language specifier. Default is 'en'
+#=======================================================================================================================
+
+set -e
+
+lang="${1:-en}"
+project_dir="$(dirname "$(dirname "$(realpath "$0")")")"
+
+pushd "$project_dir" >/dev/null
+
+# Find the max post ID
+id=$(find "content/blog/posts/" -mindepth 1 -maxdepth 1 -type d | xargs basename -a | sort | tail -1)
+
+# Remove leading zeroes and increment
+id="$((10#$id + 1))"
+
+# Format the ID
+id=$(printf "%04d" $id)
+hugo new "blog/posts/$id/index.$lang.md"
+
+popd >/dev/null
+
+echo "File created: $project_dir/content/blog/posts/$id/index.$lang.md"

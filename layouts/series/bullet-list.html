@@ -1,0 +1,29 @@
+{{ define "heading" }}<h1>{{ T "series" }}: {{ .Title }}</h1>{{ end }}
+
+{{ define "secondary-navbar" }}
+{{ partial "blog/navbar" . }}
+{{ end }}
+
+{{ define "main" }}
+<!-- Description -->
+{{- with .Params.description }}
+<p class="series-description">{{ . | markdownify }}</p>
+{{- end }}
+
+<!-- Content -->
+{{- with .Content }}
+<div>
+    {{ . }}
+</div>
+{{- end }}
+
+<!-- Filter form -->
+{{- partial "filter-form" }}
+
+<!-- Article list -->
+<ol>
+    {{- range sort .Pages ".Title" }}
+    <li class="filterable"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+    {{- end }}
+</ol>
+{{- end }}

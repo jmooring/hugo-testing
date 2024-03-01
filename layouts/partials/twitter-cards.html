@@ -1,0 +1,21 @@
+<!-- Hugo's _internal/twitter_cards.html reimplemented to support 'image' (instead of 'images') -->
+<meta name="twitter:title" content="{{ default .Site.Title .Title | markdownify | plainify | safeHTML }}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . | markdownify | plainify | safeHTML }}{{ else }}{{ if .IsPage }}{{ .Summary | markdownify | plainify | safeHTML }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+
+<!-- Twitter link -->
+{{- with .Site.Social.twitter -}}
+<meta name="twitter:site" content="@{{ . }}"/>
+{{- end }}
+{{- range .Site.Authors }}{{ with .twitter -}}
+<meta name="twitter:creator" content="@{{ . }}"/>
+{{- end }}{{ end }}
+
+<!-- Image, if any -->
+{{- with $.Param "image" }}
+    {{- $url := . }}
+    {{- if not (findRE "^(/|http(s?)://)" $url) }}
+        {{- $url = ($.Page.Resources.GetMatch $url).Permalink }}
+    {{- end }}
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image" content="{{ $url | absURL }}"/>
+{{- end }}

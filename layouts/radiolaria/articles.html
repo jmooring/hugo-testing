@@ -1,0 +1,21 @@
+{{ define "heading" }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+
+{{ define "main" }}
+<!-- Main content -->
+{{ .Content }}
+
+<!-- List of all articles -->
+<section id="radiolaria-articles">
+    <table class="table table-striped table-sm">
+        {{- range .Pages }}
+        <tr>
+            <td class="date">{{ partial "date" (dict "date" .Date "long" false) }}</td>
+            <td><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{- with .Params.description }}<br>{{ . | markdownify }}{{ end -}}</td>
+        </tr>
+        {{- end }}
+    </table>
+</section>
+
+<!-- No content check -->
+{{ partial "no-content-checker" .Pages }}
+{{ end }}

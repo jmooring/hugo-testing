@@ -1,0 +1,5 @@
+<!-- Insert a link to a Wikipedia article. Syntax: < wiki "term" ["language" ["title"]] >. If language isn't provided, the current language is used. -->
+{{- $term := .Get 0 -}}
+{{- $lang := default $.Page.Language (.Get 1) -}}
+{{- $title := default $term (.Get 2) -}}
+<a href="{{ printf `https://%s.wikipedia.org/wiki/%s` $lang (replace $term ` ` `_`) | htmlEscape }}" class="wikipedia" lang="{{ $lang }}">{{ $title }}</a>

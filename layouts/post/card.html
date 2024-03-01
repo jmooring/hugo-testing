@@ -1,0 +1,30 @@
+<!-- Single post item, which is displayed in a list as a card -->
+<article class="card text-center mb-3 overflow-hidden">
+    <!-- Link overlay -->
+    <a href="{{ .RelPermalink }}" class="card-link-overlay"></a>
+
+    <!-- Post image -->
+    <div class="top-image">
+        <!-- Post date -->
+        <div class="in-image-top-right">{{- partial "date" (dict "date" .Date "long" false) -}}</div>
+
+        <!-- Image -->
+        {{- $url := .Params.image }}
+        {{- with $url }}
+            {{- if findRE "^(/|http(s?)://)" $url }}
+                {{- $url = replace $url "https://res.cloudinary.com/yktoo/image/upload/blog/" "https://res.cloudinary.com/yktoo/image/upload/t_s320/blog/" }}
+            {{- else }}
+                {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
+            {{- end }}
+        {{- else -}}
+            {{- $url = "/images/image-placeholder.png" -}}
+        {{- end -}}
+        <img src="{{ $url }}" alt="Post image">
+    </div>
+
+    <div class="card-body">
+        <!-- Post title -->
+        <div class="card-text">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify }}</div>
+    </div>
+</article>
+

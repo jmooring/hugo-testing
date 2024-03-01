@@ -1,0 +1,28 @@
+#!/bin/bash
+project_dir="$(dirname "$(dirname "$(realpath "$0")")")"
+
+err() {
+    echo "$1" >&2
+    exit 1
+}
+
+# Verify there's a generated site
+[[ -d "$project_dir/public" ]] || err "Run hugo first to build the site"
+
+pushd "$project_dir" >/dev/null || err "pushd failed"
+
+# Build an HTMLProofer image unless it exists
+docker image inspect htmlproofer &>/dev/null || docker build -t htmlproofer .
+
+# Run HTMLProofer
+docker run \
+    --rm \
+    -v "$project_dir/public/":/site \
+    htmlproofer /site \
+        --allow-missing-href  true \
+        --checks              Links,Images,Scripts,Favicon,OpenGraph \
+        --disable-external    true \
+        --enforce-https       false \
+        --ignore-empty-mailto true
+
+popd >/dev/null || true

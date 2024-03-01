@@ -1,0 +1,303 @@
+baseURL: https://yktoo.com/
+languageCode: en-us
+pygmentsCodeFences: true
+pygmentsStyle: tango
+title: Yktoo
+summaryLength: 15
+googleAnalytics: G-XK4422MN2R
+enableRobotsTXT: true
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+
+# Language settings
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+    en:
+        weight: 1
+        languageName: English
+    ru:
+        weight: 2
+        languageName: Русский
+        params:
+            author: Дмитрий Канн
+            dateFormat: 'DOW, D MONTH YYYY'
+            description: 'Блог о жизни в Нидерландах: новости о Голландии, менталитет и сравнения, переводы голландских выражений и так далее'
+            shortDateFormat: 'DD.MM.YYYY'
+    nl:
+        weight: 3
+        languageName: Nederlands
+        params:
+            dateFormat: 'DOW, D MONTH YYYY'
+            description: 'Blog over het Nederlands leven: nieuws, vergelijkingen, enz.'
+            shortDateFormat: 'DD-MM-YYYY'
+params:
+    author: Dmitry Kann
+    postsPerPage: 12
+    licenses:
+        gpl3: 'https://www.gnu.org/licenses/gpl.html'
+        lgpl21: 'https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html'
+        lgpl3: 'https://www.gnu.org/licenses/lgpl-3.0.html'
+        mpl11: 'https://mozilla.org/MPL/1.1/'
+        mpl2: 'https://mozilla.org/MPL/2.0/'
+        mit1: 'https://opensource.org/licenses/MIT'
+        apache2: 'https://www.apache.org/licenses/LICENSE-2.0'
+    comentarioUrl: 'https://comentario.app/comentario.js'
+    contactAction: 'https://formspree.io/f/mvodjqzd'
+    cookieConsentInfoUrl: /about/privacy
+    copyrightUrl: /about
+    dateFormat: 'DOW MONTH D, YYYY'
+    description: 'Blog about life in the Netherlands: Dutch news, mentality and differences, explanation of Dutch terms and so on'
+    googleMapsApiKey: AIzaSyBJzJgSlmrF2ofMmVt2a7422yDv54Im_Yk
+    logoUrl: /images/logo.png
+    rssLimit: 15
+    shortDateFormat: 'MON D, YYYY'
+
+module:
+    hugoVersion:
+        extended: true
+        min: "v0.118.2"
+    mounts:
+        - source: node_modules
+          target: assets/node_modules
+        - source: assets
+          target: assets
+        - source: node_modules/@fortawesome/fontawesome-free/webfonts
+          target: static/webfonts
+        - source: static
+          target: static
+
+# Related indices settings
+related:
+    threshold: 0
+    includeNewer: true
+    toLower: true
+    indices:
+        - name: software
+          weight: 1
+          threshold: 0
+        - name: tags
+          weight: 10
+
+permalinks:
+    # Arrange blog posts in /blog/post/YYYY/MM/DD-name structure
+    blog: /blog/post/:year/:month/:day-:title/
+    # Nest tags, series, places under /blog/
+    tags: /blog/tags/:title/
+    series: /blog/series/:title/
+    places: /blog/places/:title/
+    # Radiolaria music albums and tracks
+    musicalbums: /radiolaria/:title/
+    radiolaria: /radiolaria/tracks/:title/
+    # Videos
+    videoartists: /video/artists/:title/
+    videoevents: /video/events/:title/
+    videocategories: /video/categories/:title/
+    videotracks: /video/tracks/:title/
+
+taxonomies:
+    tag: tags
+    series: series
+    glossary: glossary
+    place: places
+    musicalbum: musicalbums
+    videoartist: videoartists
+    videoevent: videoevents
+    videocategory: videocategories
+    videotrack: videotracks
+
+outputs:
+    # Only enable RSS generation on the home page. Also add RSS for All Languages and a redirect file
+    home: [HTML, RSS, RSS-ALL, REDIR]
+    section: [HTML]
+    taxonomy: [HTML]
+
+mediaTypes:
+    text/bare:
+        suffixes:
+
+outputFormats:
+    RSS-ALL:
+        mediaType: application/rss+xml
+        baseName: index-all
+        isHTML: false
+        isPlainText: false
+        noUgly: true
+        rel: alternate
+    REDIR:
+        mediatype: text/bare
+        baseName: _redirects
+        isPlainText: true
+        notAlternative: true
+
+sitemap:
+    changefreq: daily
+
+menu:
+    nav:
+        # Items with weights below 100 go on the left
+        - identifier: archive
+          url: '/blog/archive/'
+          weight: 1
+        - identifier: faq
+          url: '/blog/faq/'
+          weight: 2
+        - identifier: glossary
+          url: '/glossary/'
+          weight: 3
+        - identifier: software
+          url: '/software/'
+          weight: 4
+        - identifier: videos
+          url: '/video/'
+          weight: 5
+
+        # Items with weights >= 100 go on the right
+        - identifier: about
+          url: '/about/'
+          pre: <i class="fas fa-info-circle"></i>
+          weight: 100
+        - identifier: contact
+          url: '/about/contact/'
+          pre: <i class="fas fa-envelope"></i>
+          weight: 101
+        - identifier: search
+          url: '/about/search/'
+          pre: <i class="fas fa-search"></i>
+          weight: 102
+
+    blog:
+        - identifier: timeline
+          url: '/blog/archive/'
+          pre: <i class="fas fa-calendar-alt me-1"></i>
+          weight: 1
+        - identifier: map
+          url: '/blog/map/'
+          pre: <i class="fas fa-map-marker-alt me-1"></i>
+          weight: 2
+        - identifier: tags
+          url: '/blog/tags/'
+          pre: <i class="fas fa-tags me-1"></i>
+          weight: 3
+        - identifier: seriesPlural
+          url: '/blog/series/'
+          pre: <i class="fas fa-layer-group me-1"></i>
+          weight: 4
+        - identifier: blogSubscribe
+          url: '/blog/subscribe/'
+          pre: <i class="fas fa-rss me-1"></i>
+          weight: 5
+
+    footer:
+        # Blog
+        - identifier: blog
+          url: '/'
+          pre: '<b>'
+          post: '</b>'
+          weight: 1
+        - identifier: archive
+          url: '/blog/archive/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
+          weight: 1
+        - identifier: map
+          url: '/blog/map/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
+          weight: 2
+        - identifier: tags
+          url: '/blog/tags/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
+          weight: 3
+        - identifier: seriesPlural
+          url: '/blog/series/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
+          weight: 4
+        - identifier: faq
+          url: '/blog/faq/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
+          weight: 5
+        - identifier: blogSubscribe
+          url: '/blog/subscribe/'
+          pre: '<span class="dot-sep"></span>'
+          parent: blog
+          weight: 6
+
+        # About
+        - identifier: about
+          url: '/about/'
+          pre: '<b>'
+          post: '</b>'
+          weight: 2
+        - identifier: contact
+          url: '/about/contact/'
+          pre: '<span class="dot-sep"></span>'
+          parent: about
+          weight: 21
+        - identifier: privacyPolicy
+          url: '/about/privacy/'
+          pre: '<span class="dot-sep"></span>'
+          parent: about
+          weight: 22
+        - identifier: termsOfService
+          url: '/about/tos/'
+          pre: '<span class="dot-sep"></span>'
+          parent: about
+          weight: 23
+        - identifier: search
+          url: '/about/search/'
+          pre: '<b>'
+          post: '</b>'
+          parent: about
+          weight: 24
+        - identifier: glossary
+          url: '/glossary/'
+          pre: '<b>'
+          post: '</b>'
+          parent: about
+          weight: 25
+        - identifier: afk.best
+          url: 'https://afk.best/'
+          pre: '<b>'
+          post: '</b>'
+          parent: about
+          weight: 26
+
+        # Software
+        - identifier: software
+          url: '/software/'
+          pre: '<b>'
+          post: '</b>'
+          weight: 3
+
+        # Radiolaria
+        - identifier: radiolaria
+          url: '/radiolaria/'
+          pre: '<b>'
+          post: '</b>'
+          parent: software
+          weight: 1
+        - identifier: poetryAndLyrics
+          url: '/radiolaria/tracks/'
+          pre: '<span class="dot-sep"></span>'
+          parent: software
+          weight: 2
+        - identifier: articles
+          url: '/radiolaria/articles/'
+          pre: '<span class="dot-sep"></span>'
+          parent: software
+          weight: 3
+
+        # Videos
+        - identifier: videos
+          url: '/video/'
+          pre: '<b>'
+          post: '</b>'
+          parent: software
+          weight: 10

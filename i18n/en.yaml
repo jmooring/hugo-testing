@@ -1,0 +1,141 @@
+- {id: about,                translation: About}
+- {id: allPosts,             translation: All blog posts}
+- {id: allPostsInSeries,     translation: 'All posts in "{{ . }}"'}
+- {id: archive,              translation: Archive}
+- {id: articles,             translation: Articles}
+- {id: author,               translation: Author}
+- {id: authoredBy,           translation: By}
+- {id: blog,                 translation: Blog}
+- {id: blogPosts,            translation: Blog posts}
+- {id: blogSubscribe,        translation: Subscribe}
+- {id: blogSubscribeCTA,     translation: Subscribe to blog updates}
+- {id: blogSubtitle,         translation: Blog about life in Holland}
+- {id: blogSubtitleAbout,    translation: and a lot of other stuff}
+- {id: blogTitle,            translation: Netherlands and more}
+- {id: codeRepo,             translation: '{{ .name }} repository'}
+- {id: codeRepoIssueTracker, translation: '{{ .name }} Issue Tracker'}
+- {id: codeRepoIsTrkDetails, translation: Bug reports and feature requests go here!}
+- {id: comments,             translation: Comments}
+- {id: contact,              translation: Contact}
+- {id: contents,             translation: Contents}
+- {id: cookieDismiss,        translation: Got it!}
+- {id: cookieLink,           translation: Learn more »}
+- {id: cookieMessage,        translation: This website uses cookies.}
+- {id: copied,               translation: Copied!}
+- {id: copyPermalink,        translation: Copy a permalink to this page}
+- {id: copyright,            translation: 'Copyright ©2000—{{ .year }} [Dmitry Kann]({{ .url }})'}
+- {id: details,              translation: Details}
+- {id: docs,                 translation: Documentation}
+- {id: download,             translation: Download}
+- {id: downloads,            translation: Downloads}
+- {id: error404Title,        translation: Page not found.}
+- {id: error404Subtitle,     translation: 'You can use the links above, or go to the home page.'}
+- {id: errorEmailReq,        translation: 'Please enter a valid email address.'}
+- {id: errorMessageReq,      translation: 'Please enter your message.'}
+- {id: errorNameReq,         translation: 'Please provide your name.'}
+- {id: faq,                  translation: FAQ}
+- {id: filter,               translation: Filter}
+- {id: fromAlbum,            translation: From the album}
+- {id: fullDocsAvail,        translation: Full project documentation is available}
+- {id: glossary,             translation: Glossary}
+- {id: goHome,               translation: Go to the home page}
+- {id: home,                 translation: Home}
+- {id: iAmLegend,            translation: I Am Legend}
+- {id: inThisVideo,          translation: In this video}
+- {id: license,              translation: License}
+- {id: license_apache2,      translation: Apache License Version 2.0}
+- {id: license_gpl3,         translation: GNU General Public License Version 3}
+- {id: license_lgpl3,        translation: GNU Lesser General Public License Version 3}
+- {id: license_lgpl21,       translation: GNU Lesser General Public License Version 2.1}
+- {id: license_mit1,         translation: MIT License Version 1}
+- {id: license_mpl2,         translation: Mozilla Public License Version 2.0}
+- {id: license_mpl11,        translation: Mozilla Public License Version 1.1}
+- {id: listen,               translation: Listen}
+- {id: map,                  translation: Map}
+- {id: messageBody,          translation: Message body}
+- {id: messageSubject,       translation: Message subject}
+- {id: more,                 translation: More}
+- {id: moreToRead,           translation: More to Read}
+- {id: mySocialLinks,        translation: My social links}
+- {id: noContentCurLang,     translation: 'No English content available.<br><br><big>¯\_(ツ)_/¯</big><br><br>Try selecting another language from the menu above.'}
+- {id: numPages,             translation: {one: 'One page', other: '{{ .Count }} pages'}}
+- {id: numVideos,            translation: {one: 'One video', other: '{{ .Count }} videos'}}
+- {id: once-to,              translation: once.to}
+- {id: pageSource,           translation: Page source code}
+- {id: paginatorNext,        translation: Next page}
+- {id: paginatorPrevious,    translation: Previous page}
+- {id: poetryAndLyrics,      translation: Poetry and lyrics}
+- {id: post,                 translation: Post}
+- {id: postedInSeries,       translation: In}
+- {id: postIn_en,            translation: in English}
+- {id: postIn_nl,            translation: in Dutch}
+- {id: postIn_ru,            translation: in Russian}
+- {id: postInLangs,          translation: This post}
+- {id: postNext,             translation: Next post}
+- {id: postPermalink,        translation: Permanent link to this post}
+- {id: postPrev,             translation: Previous post}
+- {id: posts_en,             translation: English posts}
+- {id: posts_nl,             translation: Dutch posts}
+- {id: posts_ru,             translation: Russian posts}
+- {id: postsAllLangs,        translation: Posts in all languages}
+- {id: postsCurLang,         translation: English posts}
+- {id: postsOtherLangs,      translation: Posts in other languages}
+- {id: poweredByOnceTo,      translation: "Powered by [![once.to](/images/logos/onceto-logo-link.svg) — world's fastest URL shortener](https://yktoo.me/once)."}
+- {id: privacyPolicy,        translation: Privacy policy}
+- {id: radiolaria,           translation: Radiolaria}
+- {id: readInBlog,           translation: Read in my blog »}
+- {id: readingTime,          translation: {one: 'A minute read', other: '{{ .Count }}&nbsp;min read'}}
+- {id: readOn,               translation: Read on »}
+- {id: readOnAt,             translation: Continue reading on}
+- {id: releaseData,          translation: Release data}
+- {id: releasedOn,           translation: Released on}
+- {id: search,               translation: Search}
+- {id: seeAll,               translation: See all »}
+- {id: seeAlso,              translation: See also}
+- {id: series,               translation: Series}
+- {id: seriesFeatured,       translation: Featured series}
+- {id: seriesOther,          translation: Other series}
+- {id: seriesPlural,         translation: Series}
+- {id: share,                translation: Share}
+- {id: shareOn,              translation: 'Share on {{ . }}'}
+- {id: showChords,           translation: Show chords}
+- {id: software,             translation: Software}
+- {id: softwareActive,       translation: Maintained software}
+- {id: softwareArchived,     translation: Archived software}
+- {id: sourceCode,           translation: Source code}
+- {id: sourceCodeClone,      translation: 'To download the latest source code, clone my'}
+- {id: statsAllPages,        translation: All site pages}
+- {id: statsBlogPages,       translation: Out of which blog pages}
+- {id: statsBuildDate,       translation: Last build date}
+- {id: statsCurLangPages,    translation: Out of which English pages}
+- {id: statsCurLangWords,    translation: Number of words on English pages}
+- {id: submit,               translation: Submit}
+- {id: subscribeByEmail,     translation: Subscribe by email}
+- {id: subscribeByRSS,       translation: Feed in RSS format}
+- {id: subscribeInFeedly,    translation: Subscribe in Feedly}
+- {id: subscribeInTgram,     translation: Subscribe in Telegram}
+- {id: subscribeSocial,      translation: Subscribe in social networks}
+- {id: subscribeToUpdates,   translation: Subscribe to updates}
+- {id: support,              translation: Support}
+- {id: tag,                  translation: Tag}
+- {id: tags,                 translation: Tags}
+- {id: termsOfService,       translation: Terms of service}
+- {id: timeline,             translation: Timeline}
+- {id: tracklist,            translation: Tracklist}
+- {id: viaThisLink,          translation: via this link}
+- {id: videoEvInCategory,    translation: In}
+- {id: videoFromEvent,       translation: From}
+- {id: videos,               translation: Videos}
+- {id: videosByArtist,       translation: Videos by artist}
+- {id: videosByCategory,     translation: Videos by category}
+- {id: videosOfEvent,        translation: Videos of the event}
+- {id: whereThisWas,         translation: Where this was}
+- {id: withArtists,          translation: With}
+- {id: yourEmail,            translation: Your email}
+- {id: yourName,             translation: Your name}
+
+- id: uaWarWarning
+  translation: >
+    Russia is waging a war in Ukraine, in which Russian troops are killing, torturing, raping, and pillaging the
+    country's civilian population. Any comments endorsing or justifying Russia's actions in Ukraine or related symbols
+    will not be tolerated in this blog.

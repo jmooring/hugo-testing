@@ -1,0 +1,31 @@
+# Default redirects for languages/countries
+/   /ru/    302 Language=ru,uk,be
+/   /ru/    302 Country=ru,ua,by
+/   /nl/    302 Language=nl
+/   /nl/    302 Country=nl,be
+/   /en/    301
+
+# Redirects for blog post pages
+{{- range $site := .Site.Home.AllTranslations }}
+{{- range $page := where $site.Site.RegularPages "Type" "post" }}
+{{- $id := $page.File.Dir | path.Base -}}
+
+{{/* Redirect for /XX/blog/post/ID */}}
+/{{ $site.Language.Lang }}/blog/post/{{ $id | printf "%-8s" }} {{ $page.RelPermalink -}}
+
+{{/* Add a redirect for the ID without leading zeroes, if needed */}}
+{{- if findRE "^0" $id }}
+/{{ $site.Language.Lang }}/blog/post/{{ $id | strings.TrimLeft "0" | printf "%-8s" }} {{ $page.RelPermalink -}}
+{{- end -}}
+
+{{/* Create a lang-free redirect: if there's more than one language present, pick the first one  */}}
+{{- if or (not $page.Translations) (eq (index $page.AllTranslations 0).Lang $site.Language.Lang) }}
+/blog/post/{{ $id | printf "%-11s" }} {{ $page.RelPermalink -}}
+{{- end }}
+{{- end }}
+{{- end }}
+
+# 404 Pages
+/nl/* /nl/404.html 404
+/ru/* /ru/404.html 404
+/*    /en/404.html 404

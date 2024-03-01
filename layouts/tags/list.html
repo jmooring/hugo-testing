@@ -1,0 +1,19 @@
+{{ define "heading" }}<h1>{{ T "tag" }}: {{ .Title }}</h1>{{ end }}
+
+{{ define "secondary-navbar" }}
+{{ partial "blog/navbar" . }}
+{{ end }}
+
+{{ define "main" }}
+<!-- Blog feed -->
+<div class="blog-feed">
+    {{ range .Paginator.Pages }}
+    {{ .Render "list-item" }}
+    {{ end }}
+</div>
+
+<!-- Paginator -->
+<div class="blog-paginator">
+    {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

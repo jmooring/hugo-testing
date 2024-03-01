@@ -1,0 +1,20 @@
+{{ define "main" }}
+<!-- Main page content -->
+{{ .Content }}
+
+<!-- List of events -->
+{{- range .Pages.GroupByParam "videoevents" }}
+    {{ with $.GetPage (printf `/videoevents/%s` (urlize .Key)) }}
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+    <!-- List of tracks belonging to the event -->
+    <ul>
+    {{- range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{- end }}
+    </ul>
+    {{- else }}
+        {{- errorf "Failed to find a video event with key %q" .Key }}
+    {{- end }}
+{{- end }}
+{{ end }}

@@ -1,0 +1,491 @@
+# List of available downloads, per product
+# NB: detailUrl and downloadUrl can refer to the version value as '{version}'
+
+client-ssi-generator:
+    - title: Client SSI Generator
+      description:
+          en: |
+              The stable version of the program.
+
+              Setup program.
+          nl: |
+              De stabiele versie van het programma.
+
+              Installatieprogramma.
+          ru: |
+              Стабильная версия программы.
+
+              Программа установки.
+      version: '1.11'
+      detailUrl:
+      releaseDate: 2004-08-12
+      weight: 1
+      downloadUrl: 'https://github.com/yktoo/clssigen/releases/download/v{version}/clssigen-setup-{version}.exe'
+      isFeatured: true
+
+dklang-localization-package:
+    - title: DKLang Localization Package
+      description:
+          en: |
+              Localisatie-API for Delphi XE5+. Supports both VCL and FireMonkey applications (Win32, Win64, iOS, Mac OS X, Android).
+
+              Zip-archived source code.
+          nl: |
+              Lokalisatie-API voor Delphi XE5+. Ondersteunt zowel VCL- als FireMonkey-toepassingen (Win32, Win64, iOS, Mac OS X, Android).
+
+              Zip-gearchiveerde broncode.
+          ru: |
+              API для локализации программ, написанных на Delphi XE5+. Поддерживаются как VCL-, так и FireMonkey-приложения (Win32, Win64, iOS, Mac OS X, Android).
+
+              Исходный код в архиве zip.
+      version: '5.2'
+      detailUrl: 'https://github.com/yktoo/dklang/wiki/Revision-History#2014521-dklang-52'
+      releaseDate: 2014-05-21
+      weight: 400
+      downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-{version}.zip'
+      isFeatured: true
+
+    - title: DKLang Localization Package
+      description:
+          en: Localization API for Delphi 2009+. Zip-archived sources.
+          nl: Localisatie-API voor Delphi 2009+. Zip-gearchiveerde broncode.
+          ru: API для локализации программ, написанных на Delphi 2009+. Исходный код в архиве zip.
+      version: '4.01'
+      detailUrl: 'https://github.com/yktoo/dklang/wiki/Revision-History#20131207-dklang-401'
+      releaseDate: 2013-12-07
+      weight: 500
+      downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-{version}.zip'
+      isFeatured: false
+
+    - title: DKLang Localization Package
+      description:
+          en: |
+              Localization API for the following versions of Delphi IDE (all with the latest updates applied):
+              * Delphi 6
+              * Delphi 7
+              * BDS 2005
+              * BDS 2006
+
+              Zip-archived sources.
+          nl: |
+              Localisatie-API voor de volgende Delphi-versies (met alle updates toegepast):
+              * Delphi 6
+              * Delphi 7
+              * BDS 2005
+              * BDS 2006
+
+              Zip-gearchiveerde broncode.
+          ru: |
+              API для локализации программ, написанных следующих версиях Delphi IDE (все с последними доступными обновлениями):
+              * Delphi 6
+              * Delphi 7
+              * BDS 2005
+              * BDS 2006
+
+              Исходный код в архиве zip.
+      version: '3.01'
+      detailUrl: 'https://github.com/yktoo/dklang/wiki/Revision-History#20060822-dklang-301'
+      releaseDate: 2006-08-22
+      weight: 800
+      downloadUrl: 'https://github.com/yktoo/dklang/archive/dklang-{version}.zip'
+      isFeatured: false
+
+    - title: Tnt Unicode Controls
+      description:
+        en: Freeware version of the Tnt Unicode Controls package required by DKLang Localization Package v3.x.
+        nl: Freeware-versie van het Tnt Unicode Controls-pakket vereist door DKLang Localization Package v3.x.
+        ru: Бесплатная версия пакета Tnt Unicode Controls, требуемого DKLang Localization Package v3.x.
+      version: '2.3.0'
+      detailUrl:
+      releaseDate: 2007-09-06
+      weight: 999
+      downloadUrl: 'https://github.com/yktoo/dklang/releases/download/dklang-5.2/TntUnicodeControls-{version}.zip'
+      isFeatured: false
+
+    - title:
+          en: Compiled example applications
+          nl: Gecompileerde voorbeeldtoepassingen
+          ru: Скомпилированные приложения-примеры
+      description:
+          en: |
+              Examples compiled from the sources included with the package.
+
+              Includes translations and source language files so you can try to create your own translations with **DKLang Translation Editor**.
+          nl: |
+              Voorbeelden gecompileerd uit de meegeleverde broncode.
+
+              Inclusief vertalingen en bron-taalbestanden, zodat je kunt proberen je eigen vertalingen te maken met **DKLang Translation Editor**.
+          ru: |
+              Примеры, скомпилированные из исходных кодов, поставляемых в составе пакета.
+
+              Включают переводы, а также исходные языковые файлы, на основе которых вы можете пробовать создавать свои переводы с помощью **DKLang Translation Editor**.
+      version: '3.0'
+      detailUrl:
+      releaseDate: 2006-08-15
+      weight: 820
+      downloadUrl: 'https://github.com/yktoo/dklang/releases/download/dklang-5.2/dklang-examples-{version}.zip'
+      isFeatured: false
+
+    - title:
+          en: Constant converter
+          nl: Constant converter
+          ru: Конвертер констант
+      description:
+          en: Converter for constant resource files saved by package version 2.x. Compiled executable.
+          nl: Converter voor constant-bronbestanden opgeslagen door pakketversie 2.x. Gecompileerd programma.
+          ru: Конвертер для файлов ресурсов констант, созданных версиями 2.x пакета. Скомпилированный исполняемый файл.
+      version: '5.2'
+      detailUrl:
+      releaseDate: 2006-08-12
+      weight: 810
+      downloadUrl: 'https://github.com/yktoo/dklang/releases/download/dklang-{version}/DKLang_Converter_v2.exe'
+      isFeatured: false
+
+dklang-translation-editor:
+    - title: DKLang Translation Editor
+      description:
+          en: |
+              Translation editing tool for **DKLang Localization Package**.
+
+              Setup program.
+          nl: |
+              Bewerkingsprogramma voor vertalingen gemaakt met **DKLang Localization Package**.
+
+              Installatieprogramma.
+          ru: |
+              Редактор переводов для **пакета DKLang**.
+
+              Программа установки.
+      version: '4.0rc1'
+      detailUrl:
+      releaseDate: 2006-08-12
+      weight: 2
+      downloadUrl: 'https://github.com/yktoo/dkl_traned/releases/download/dklang-{version}/dktraned-{version}-setup.exe'
+      isFeatured: true
+
+    - title:
+          en: User interface translations
+          nl: Vertalingen van de gebruikersinterface
+          ru: Переводы интерфейса
+      description:
+          en: |
+              Translation files for the application UI, zipped.
+
+              Includes a language source file for translating **Translation Editor**'s interface into another language.
+          nl: |
+              Vertaalbestanden voor de UI van de toepassing, zip-gearchiveerd.
+
+              Bevat een taalbronbestand voor het vertalen van de interface van **Translation Editor** naar een andere taal.
+          ru: |
+              Файлы переводов для приложения, zip-архив.
+
+              Также содержит исходный языковой файл для перевода интерфейса **Translation Editor** на другой язык.
+      version: '4.0rc1'
+      detailUrl:
+      releaseDate: 2017-03-05
+      weight: 3
+      downloadUrl: 'https://github.com/yktoo/dkl_traned/releases/download/dklang-{version}/dklang_traned-translations.zip'
+      isFeatured: false
+
+docker-indicator:
+    - title: Docker Indicator
+      description:
+          en: |
+              A simple application indicator for **Ubuntu** to control Docker containers.
+
+              Source code in a `.tar.gz` archive.
+          nl: |
+              Een eenvoudige applicatie-indicator voor **Ubuntu** om Docker-containers te beheren.
+
+              Broncode in een `.tar.gz`-archief.
+          ru: |
+              Простое приложение-индикатор для управления контейнерами Docker в **Убунту**.
+
+              Исходный код в архиве `.tar.gz`.
+      version: '0.1.0'
+      detailUrl:
+      releaseDate: 2017-03-09
+      weight: 100
+      downloadUrl: 'https://github.com/yktoo/indicator-docker/archive/v{version}.tar.gz'
+      isFeatured: true
+
+oracle-package-editor:
+    - title: PackageEditor
+      description:
+          en: |
+              GUI editor for Oracle PL/SQL packages.
+
+              Setup program.
+          nl: |
+              GUI-bewerkingsprogramma voor Oracle PL/SQL-paketten.
+
+              Installatieprogramma.
+          ru: |
+              Редактор PL/SQL-пакетов Oracle.
+
+              Программа установки.
+      version: '2.3.0.276'
+      detailUrl:
+      releaseDate: 2002-10-13
+      weight: 1
+      downloadUrl: 'https://github.com/yktoo/oracle-package-editor/releases/download/v{version}/pkged-setup-{version}.exe'
+      isFeatured: true
+
+phoa:
+    - title: PhoA
+      subtitle:
+          en: Latest beta
+          nl: Laatste bètaversie
+          ru: Последняя бета-версия программы
+      description:
+          en: |
+              The latest beta version of the program. Program executable.
+
+              Languages included:
+              * English (primary)
+              * Russian
+          nl: |
+              De laatste bètaversie van het programma. Gecompileerd bestand.
+
+              Meegeleverde talen:
+              * Engels (primair)
+              * Russisch
+          ru: |
+            Последняя бета-версия программы. Исполняемый файл.
+
+              Включает языки:
+              * Английский (исходный)
+              * Русский
+      version: '1.1.10-beta'
+      detailUrl:
+      releaseDate: 2005-08-28
+      weight: 1
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/v{version}/phoa-setup-{version}.exe'
+      isFeatured: true
+
+    - title: PhoA
+      subtitle:
+          en: Unstable version
+          nl: Onstabiele versie
+          ru: Нестабильная версия
+      description:
+          en: The latest development build of **PhoA**. Based on the 1.1.10-beta release. Zip-archived executable.
+          nl: De laatste ontwikkelbuild van **PhoA**. Gebaseerd op de 1.1.10-beta-release. Zip-gearchiveerd.
+          ru: Последняя сборка **PhoA**. Основана на версии 1.1.10-beta. Исполняемый файл в архиве zip.
+      version: '1.1.11-RC'
+      detailUrl:
+      releaseDate: 2005-09-11
+      weight: 100
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/{version}/phoa-latest.zip'
+      isFeatured: false
+
+    - title: phoadump
+      description:
+          en: |
+              A simple program that demonstrates the usage of PhoA programming interface (API).
+
+              Zip-archived executable and source code.
+          nl: |
+              Een eenvoudig programma dat het gebruik van de PhoA-API demonstreert.
+
+              Zip-gearchiveerde bestanden.
+          ru: |
+              Простейший пример применения программного интерфейса PhoA (API).
+
+              Исполняемый файл и исходный код в архиве zip.
+      version: '0.01'
+      detailUrl:
+      releaseDate: 2004-06-09
+      weight: 4
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoadump-{version}.zip'
+      isFeatured: false
+
+    - title: PhoA SDK
+      description:
+          en: PhoA Software Development Kit.
+          nl: PhoA Software Development Kit.
+          ru: Комплект для разработки дополнительных инструментов (software development kit).
+      version: '0.01'
+      detailUrl:
+      releaseDate: 2004-06-09
+      weight: 3
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoa-sdk-{version}.zip'
+      isFeatured: false
+
+    - title: phoaxml
+      description:
+          en: |
+              A simple converter for converting photo album **.phoa** files into **XML** files.
+
+              Zip-archived executable and source code.
+
+              Thanks to Max Belugin for writing the initial version.
+          nl: |
+              Een eenvoudige converter voor het converteren van **.phoa** fotolijstbestanden naar **XML**-bestanden.
+
+              Zip-gearchiveerd executable en broncode.
+
+              Met dank aan Max Belugin voor het maken van de eerste versie.
+          ru: |
+              Простой конвертер файлов фотоальбома **.phoa** в файлы **XML**.
+
+              Исполняемый файл и исходный код в архиве zip.
+
+              Спасибо Максу Белугину за написание начального варианта.
+      version: '0.02'
+      detailUrl:
+      releaseDate: 2004-06-09
+      weight: 6
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoaxml-{version}.zip'
+      isFeatured: false
+
+    - title: PhoA Transformer
+      description:
+          en: A tool for converting PhoA photo albums into XML, HTML and text and back into PhoA using XSLT. Setup program.
+          nl: Een tool om PhoA-fotolijsten om te zetten in XML-, HTML- en tekstbestanden en terug naar fotolijsten met behulp van XSLT. Installatieprogramma.
+          ru: Инструмент для преобразования фотоальбомов PhoA в XML, HTML и текст и обратно на основе XSLT-шаблонов. Программа установки.
+      version: '1.0'
+      detailUrl:
+      releaseDate: 2004-10-29
+      weight: 2
+      downloadUrl: 'https://github.com/yktoo/phoa/releases/download/1.1.11-RC/phoatrans-setup-{version}.exe'
+      isFeatured: false
+
+process-explorer:
+    - title: Process Explorer
+      description:
+          en: Tool for viewing active processes and modules they use. Zip-archived executable.
+          nl: Tool voor het bekijken van actieve processen en modules die ze gebruiken. Zip-gearchiveerde executable.
+          ru: Инструмент для просмотра запущенных процессов и модулей, ими используемых. Исполняемый файл в архиве zip.
+      version: '0.02'
+      detailUrl:
+      releaseDate: 2003-04-20
+      weight: 1
+      downloadUrl: 'https://github.com/yktoo/process-explorer/releases/download/v{version}/procexp-{version}.zip'
+      isFeatured: true
+
+sound-switcher-indicator:
+    - title: Sound Switcher Indicator
+      subtitle:
+          en: Debian package
+          nl: Debian-pakket
+          ru: Debian-пакет
+      description:
+          en: |
+              A simple sound input/output switcher indicator application for Linux.
+
+              Binary `.deb` package.
+          nl: |
+              Een eenvoudige indicatorapplicatie om geluidsin- en uitgang te switchen in Linux.
+
+              Binair `.deb`-pakket.
+          ru: |
+              Приложение-индикатор для выбора звукового входа/выхода в Linux.
+
+              Бинарный `.deb`-пакет.
+      version: '2.3.9'
+      detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/releases/tag/v{version}'
+      releaseDate: 2022-06-28
+      weight: 100
+      downloadUrl: 'https://launchpad.net/~yktooo/+archive/ubuntu/ppa/+files/indicator-sound-switcher_{version}-1_all.deb'
+      isFeatured: true
+
+    - title: 'Sound Switcher Indicator'
+      subtitle:
+          en: 'Source code'
+          ru: 'Исходный код'
+      description:
+          en: |
+              A simple sound input/output switcher indicator application for Linux.
+
+              Source code in `.tar.gz` archive.
+          nl: |
+              Een eenvoudige indicatorapplicatie om geluidsin- en uitgang te switchen in Linux.
+
+              Broncode in `.tar.gz`-archief.
+          ru: |
+              Приложение-индикатор для выбора звукового входа/выхода в Linux.
+
+              Исходный код в архиве `.tar.gz`.
+      version: '2.3.9'
+      detailUrl: 'https://github.com/yktoo/indicator-sound-switcher/releases/tag/v{version}'
+      releaseDate: 2022-06-28
+      weight: 101
+      downloadUrl: 'https://github.com/yktoo/indicator-sound-switcher/archive/v{version}.tar.gz'
+      isFeatured: false
+
+ymuse:
+    - title: Ymuse
+      subtitle:
+          en: Debian package
+          nl: Debian-pakket
+          ru: Debian-пакет
+      description:
+          en: |
+              Client application for the Music Player Daemon.
+
+              Binary `.deb` package.
+          nl: |
+              Cliëntapplicatie voor de Music Player Daemon.
+
+              Binair `.deb`-pakket.
+          ru: |
+              Приложение-клиент для Music Player Daemon.
+
+              Бинарный `.deb`-пакет.
+      version: '0.22'
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v{version}'
+      releaseDate: 2023-10-04
+      weight: 100
+      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v{version}/ymuse_{version}_linux_amd64.deb'
+      isFeatured: true
+
+    - title: Ymuse
+      subtitle:
+          en: RPM package
+          nl: RPM-pakket
+          ru: RPM-пакет
+      description:
+          en: |
+              Client application for the Music Player Daemon.
+
+              Binary `.rpm` package.
+          nl: |
+              Cliëntapplicatie voor de Music Player Daemon.
+
+              Binair `.rpm`-pakket.
+          ru: |
+              Приложение-клиент для Music Player Daemon.
+
+              Бинарный `.rpm`-пакет.
+      version: '0.22'
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v{version}'
+      releaseDate: 2023-10-04
+      weight: 110
+      downloadUrl: 'https://github.com/yktoo/ymuse/releases/download/v{version}/ymuse_{version}_linux_amd64.rpm'
+      isFeatured: true
+
+    - title: Ymuse
+      subtitle:
+          en: Source code
+          nl: Broncode
+          ru: Исходный код
+      description:
+          en: |
+              Client application for the Music Player Daemon.
+
+              Source code in `.tar.gz` archive.
+          nl: |
+              Cliëntapplicatie voor de Music Player Daemon.
+
+              Broncode in `.tar.gz`-archief.
+          ru: |
+              Приложение-клиент для Music Player Daemon.
+
+              Исходный код в архиве `.tar.gz`.
+      version: '0.22'
+      detailUrl: 'https://github.com/yktoo/ymuse/releases/tag/v{version}'
+      releaseDate: 2023-10-04
+      weight: 200
+      downloadUrl: 'https://github.com/yktoo/ymuse/archive/v{version}.tar.gz'
+      isFeatured: false

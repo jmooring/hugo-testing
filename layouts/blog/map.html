@@ -1,0 +1,40 @@
+{{ define "secondary-navbar" }}
+{{ partial "blog/navbar" . }}
+{{ end }}
+
+{{ define "main" }}
+<section id="blog-map">
+    <div id="map-container" style="width: 100%; height: 600px;"></div>
+</section>
+{{ end }}
+
+{{ define "extra-scripts" }}
+<script src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.googleMapsApiKey }}&callback=initMap" async defer></script>
+<script>
+    /**
+     * Callback function triggered by the Google Maps API.
+     */
+    function initMap() {
+        var map = new google.maps.Map(
+            document.getElementById('map-container'),
+            {"center": new google.maps.LatLng(45.0, 45.0), "zoom": 3});
+        var mapInfoWindow = new google.maps.InfoWindow();
+        // Create markers: {{ range .Site.Taxonomies.places.Alphabetical }}{{ with .Page }}
+        google.maps.event.addListener(
+            new google.maps.Marker({
+                "icon": "/images/map-marker.png",
+                "map": map,
+                "position": new google.maps.LatLng('{{ .Params.latitude }}', '{{ .Params.longitude }}'), // Coords as strings to not let the IDE go crazy
+                "title": "{{ .Title | markdownify }}"}),
+            'click',
+            function(event) {
+                mapInfoWindow.setContent(
+                    '<b>{{ .Title | markdownify }}</b><ul class=\"list-unstyled\">'+
+                    '{{ range .Pages }}<li>{{ .Render "lang-link" }}</li>{{ end }}' +
+                    '</ul>');
+                mapInfoWindow.open(map, this);
+            });
+        // {{- end }}{{ end }}
+    }
+</script>
+{{ end }}

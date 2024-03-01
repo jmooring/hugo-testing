@@ -1,0 +1,39 @@
+<footer id="footer">
+    <!-- Footer menu -->
+    <div id="footer-nav">
+        <ul class="nav justify-content-center d-flex">
+            {{- $curURL := .RelPermalink -}}
+            {{- range .Site.Menus.footer }}
+            <li class="nav-item">
+                <a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{ end }}"
+                   href="{{ .URL | absLangURL }}">{{ .Pre | safeHTML }}{{ T .Identifier | default .Identifier }}{{ .Post | safeHTML }}</a>
+                <!-- Submenu, if any -->
+                {{- if .HasChildren }}
+                <ul class="nav flex-column">
+                    {{- range .Children }}
+                    <li class="nav-item">
+                        <a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{ end }}"
+                           href="{{ .URL | absLangURL }}">{{ .Pre | safeHTML }}{{ T .Identifier | default .Identifier }}{{ .Post | safeHTML }}</a>
+                    </li>
+                    {{- end }}
+                </ul>
+                {{- end }}
+            </li>
+            {{- end }}
+            <!-- Social links -->
+            <li class="nav-item">
+                <ul class="nav flex-column lead">
+                    {{- range .Site.Data.blog.subscribe.feeds }}
+                    <li class="nav-item"><a href="{{ .url }}" title="{{ .title }}" target="_blank" rel="noopener"><i class="{{ .icon }}"></i></a></li>
+                    {{- end }}
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <!-- Copyright -->
+    <p class="mt-3">
+        {{- T "copyright" (dict "year" now.Year "url" (.Site.Params.copyrightUrl | absLangURL)) | markdownify -}}
+        {{- with .File }}<span class="dot-sep"></span><a href="https://github.com/yktoo/yktoo.com/raw/master/content/{{ .Path }}" title="{{ T `pageSource` }}"><i class="fab fa-github"></i></a>{{ end -}}
+    </p>
+</footer>

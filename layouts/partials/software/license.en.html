@@ -1,0 +1,18 @@
+{{ $page := .page }}
+{{ $licenses := .licenses }}
+<!-- Single license -->
+{{ if eq (len $licenses) 1 }}
+    {{ range first 1 $licenses }}
+    <p>This software is distributed on the terms of the <a href="{{ index $page.Site.Params.licenses . }}">{{ T (print "license_" .) }}</a> or (optionally) any later version.</p>
+    {{ end }}
+
+<!-- Multiple licenses -->
+{{ else }}
+    <p>Unless otherwise explicitly noted, for this software you can choose any of the following applicable licensing options:</p>
+    <ul>
+        {{ range $licenses }}
+        <li><a href="{{ index $page.Site.Params.licenses . }}">{{ T (print "license_" .) }}</a></li>
+        {{ end }}
+    </ul>
+{{ end }}
+<p>Software and any related documentation are provided on an as is basis, without warranty of any kind. The entire risk arising out of use or performance of the software remains with you.</p>

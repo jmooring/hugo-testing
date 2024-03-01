@@ -1,0 +1,4 @@
+<!-- Render a div of the given class(es) and style(s) -->
+<div class="{{ .Get 0 }}" style="{{ .Get 1 }}">
+{{ .Inner | .Page.RenderString | safeHTML }}
+</div>

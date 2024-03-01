@@ -1,0 +1,8 @@
+<!-- Render the given date range in a short or long format, either as a single date ("from" and "to" represent the same
+date) or as two dates with a dash between them. Context:
+    dateFrom - the beginning of the date range
+    dateTo   - the end of the date range
+    long     - false to use the 'short' date format, otherwise 'long' is used.
+-->
+{{- partial "date" (dict "date" .dateFrom "long" .long) -}}
+{{- if ne .dateFrom .dateTo }}&nbsp;—&nbsp;{{ partial "date" (dict "date" .dateTo "long" .long) }}{{ end -}}

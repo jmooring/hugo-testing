@@ -1,0 +1,106 @@
+{{- define "heading" }}
+    {{- partial "software/header-menu" . }}
+{{- end }}
+
+{{- define "main" }}
+
+<!-- Fetch software properties -->
+{{- $page       := . -}}
+{{- $params     := $page.Params -}}
+{{- $repoType   := $params.codeRepoType -}}
+{{- $repoPath   := $params.codeRepoPath -}}
+{{- $repoName   := cond (eq $repoType "github") "GitHub" "GitLab" -}}
+{{- $repoURL    := printf "https://%s.com/%s" $repoType $repoPath -}}
+{{- $repoIssues := print $repoURL (cond (eq $repoType "github") "/issues" "/-/issues") -}}
+
+<article>
+    <div class="row">
+        <div class="col-md-9">
+            <!-- Main page content -->
+            <section id="software-content">
+                {{ .Content }}
+            </section>
+
+            <!-- Documentation -->
+            {{- with $params.fullDocsUrl }}
+            <section id="software-docs">
+                <h2>{{ T "docs" }}</h2>
+                <p>{{ T "fullDocsAvail" }} <a href="{{ . }}">{{ T "viaThisLink" }}</a>.</p>
+            </section>
+            {{- end }}
+
+            <!-- License -->
+            {{- with $params.licenses }}
+            <section id="software-license">
+                <h2>{{ T "license" }}</h2>
+                {{ partial (printf "software/license.%s.html" $page.Lang) (dict "page" $page "licenses" .) }}
+            </section>
+            {{- end }}
+
+            <!-- Support - only provided to active projects -->
+            {{- if and $params.active $repoType }}
+            <section id="software-support">
+                <h2>{{ T "support" }}</h2>
+                <div class="list-group">
+                    <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ $repoIssues }}">
+                        <div class="list-group-img-64"><i class="fab fa-{{ $repoType }}"></i></div>
+                        <div class="list-group-text">
+                            <div class="list-group-heading">{{ T "codeRepoIssueTracker" (dict "name" $repoName) }}</div>
+                            <div class="list-group-details">{{ T "codeRepoIsTrkDetails" }}</div>
+                        </div>
+                    </a>
+                </div>
+            </section>
+            {{- end }}
+
+            <!-- Source code -->
+            {{- if $repoType }}
+            <section id="software-source">
+                <h2>{{ T "sourceCode" }}</h2>
+                <p>{{ T "sourceCodeClone" }} <a href="{{ $repoURL }}">{{ T "codeRepo" (dict "name" $repoName) }}</a>:</p>
+                {{ printf "```bash\ngit clone %s.git\n```" $repoURL | $page.RenderString }}
+            </section>
+            {{- end }}
+
+            <!-- See also -->
+            {{- $related := where (.Site.RegularPages.RelatedIndices $page "software") "Type" "post" }}
+            {{- if or $params.seeAlso $related }}
+            <section id="software-see-also">
+                <h2>{{ T "seeAlso" }}</h2>
+                <ul>
+                    {{ range $params.seeAlso }}<li><a href="{{ .url | absLangURL }}">{{ .name }}</a></li>{{ end }}
+                    {{ with $related }}
+                    <li><b>{{ T "blogPosts" }}:</b>
+                        <ul class="list-unstyled">
+                            {{- range . }}
+                            <li>{{ .Render "lang-link" }}</li>
+                            {{- end }}
+                        </ul>
+                    </li>
+                    {{ end }}
+                </ul>
+            </section>
+            {{- end }}
+        </div>
+        <div class="col-md-3 article-sidebar">
+            <div class="sticky-md-top pt-3">
+                <!-- Table of contents -->
+                <section>
+                    <h6><i class="fas fa-list me-1"></i>{{ T "contents" }}</h6>
+                    <ul>
+                        <li><a href="#software-content">{{ .Title }}</a></li>
+                    </ul>
+                    {{ .TableOfContents }}
+                    <ul>
+                        {{- if $params.fullDocsUrl          }}<li><a href="#software-docs">{{ T "docs" }}</a></li>{{ end }}
+                        {{- if $params.licenses             }}<li><a href="#software-license">{{ T "license" }}</a></li>{{ end }}
+                        {{- if and $params.active $repoType }}<li><a href="#software-support">{{ T "support" }}</a></li>{{ end }}
+                        {{- if $repoType                    }}<li><a href="#software-source">{{ T "sourceCode" }}</a></li>{{ end }}
+                        {{- if or $params.seeAlso $related  }}<li><a href="#software-see-also">{{ T "seeAlso" }}</a></li>{{ end }}
+                    </ul>
+                </section>
+            </div>
+        </div>
+    </div>
+</article>
+{{- end }}

@@ -1,0 +1,8 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="theme-color" content="#333333">
+<meta name="description" content="{{ .Site.Params.description }}">
+<!-- Fix for images used in og: and twitter: that understands page resources  -->
+{{- partial "opengraph" . }}
+{{- partial "twitter-cards" . }}
+{{- .Site.Hugo.Generator }}

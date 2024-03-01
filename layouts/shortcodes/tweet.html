@@ -1,0 +1,2 @@
+{{- $json := getJSON "https://api.twitter.com/1/statuses/oembed.json?id=" (.Get 0) "&hide_thread=true" -}}
+{{ $json.html | safeHTML }}

@@ -1,0 +1,5 @@
+<!-- Render a table of custom class(es), passed as the first argument. Also provides support for subheaders, which
+ are denoted by a '#' immediately following the leftmost '|' -->
+<div class="table-responsive">
+{{ replace (markdownify .Inner) "\x3ctable\x3e" (printf "\x3ctable class=%q\x3e" (.Get 0)) | replaceRE "\x3ctr\x3e(\\s*\x3ctd[^>]*>)#" "\x3ctr class=\x22subheading\x22\x3e$1" | safeHTML }}
+</div>

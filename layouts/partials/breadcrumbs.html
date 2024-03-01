@@ -1,0 +1,44 @@
+{{- if not .IsHome }}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <!-- Render the home link -->
+        <li class="breadcrumb-item"><a href="{{ relref . `/` }}"><i class="fas fa-home"></i></a></li>
+        <!-- Use the actual parent page by default, and assume no grand-parent -->
+        {{- $parent := .Parent }}{{ $gparent := false -}}
+        <!-- If parent is provided explicitly in the front matter, use it -->
+        {{- with .Params.parent -}}
+            {{- $parent = $.GetPage . -}}
+        <!-- Otherwise inspect the relative page's URL (strip off the language prefix) -->
+        {{- else }}{{ with substr .RelPermalink 4 -}}
+            <!-- Blog post -->
+            {{- if hasPrefix . "blog/post/" -}}
+                {{- $parent = $.GetPage "/blog/archive" -}}
+            <!-- Blog tag -->
+            {{- else if findRE "^blog/tags/.+" . 1 -}}
+                {{- $parent = $.GetPage "/blog/tags" -}}
+            <!-- Blog post series -->
+            {{- else if findRE "^blog/series/.+" . 1 -}}
+                {{- $parent = $.GetPage "/blog/series" -}}
+            <!-- Video event -->
+            {{- else if hasPrefix . "video/events/" -}}
+                {{- $parent = $.GetPage (print "/videocategories/" $.Params.videocategories) -}}
+                {{- $gparent = $.GetPage "/video" -}}
+            <!-- Video artist -->
+            {{- else if findRE "^video/artists/.+" . 1 -}}
+                {{- $parent = $.GetPage "/video" -}}
+            {{- end -}}
+        {{- end }}{{ end -}}
+        <!-- If there's any parent found -->
+        {{- with $parent }}
+            <!-- If no grand-parent is defined, try to use the parent's parent - unless it's the Home or an untitled page -->
+            {{- if not $gparent }}{{ with .Parent }}{{ if and (not .IsHome) .Title }}{{ $gparent = . }}{{ end }}{{ end }}{{ end -}}
+            <!-- Render the grand-parent, if any -->
+            {{- with $gparent }}<li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>{{ end }}
+            <!-- Render the parent - unless it's the Home or an untitled page -->
+            {{- if and (not .IsHome) .Title }}<li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>{{ end }}
+        {{ end }}
+        <!-- Render the page itself - as an "active" item -->
+        <li class="breadcrumb-item active" aria-current="page">{{ .Title | markdownify }}</li>
+    </ol>
+</nav>
+{{- end }}

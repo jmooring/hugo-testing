@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section id="page-not-found" class="text-center">
+    <p><img src="/images/404.png" class="img-fluid" alt="404"></p>
+    <p class="lead">{{ T "error404Title" }}</p>
+    <p>{{ T "error404Subtitle" }}</p>
+    <p><a href="{{ `/` | relLangURL }}" class="btn btn-lg btn-primary"><i class="fas fa-home me-1"></i>{{ T "goHome" }}</a></p>
+</section>
+{{ end }}
+
+{{ define "bottom-navbar" }}&nbsp;{{ end }}

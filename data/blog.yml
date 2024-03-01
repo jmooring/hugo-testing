@@ -1,0 +1,19 @@
+subscribe:
+    feeds:
+        - url: 'https://www.facebook.com/yktoo.blog/'
+          icon: fab fa-facebook
+          title: Facebook
+        - url: 'https://www.linkedin.com/in/dkann/'
+          icon: fab fa-linkedin
+          title: LinkedIn
+        - url: 'https://twitter.com/yktoo'
+          icon: fab fa-twitter
+          title: Twitter
+    by_email_url:
+        en: https://mailchi.mp/cd9f5b9bf62a/yktoo-en
+        ru: https://mailchi.mp/742f1258b0f7/yktoo-ru
+        nl: https://mailchi.mp/2ce9da280cfa/yktoo-nl
+    by_telegram_url:
+        en: https://t.me/yktoo_en
+        ru: https://t.me/yktoo_ru
+        nl: https://t.me/yktoo_nl1

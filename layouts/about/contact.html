@@ -1,0 +1,54 @@
+{{ define "main" }}
+<div class="row">
+<div class="col-lg-7">
+    <!-- Main content -->
+    <section id="contact-main-content">
+        {{ .Content }}
+    </section>
+
+    <!-- Contact form -->
+    <section id="contact-form-container">
+        <form id="contact-form" class="contact-form" method="POST" action="{{ .Site.Params.contactAction }}" novalidate>
+            <input type="hidden" name="_language" value="{{ .Site.Language.Lang }}" />
+            <div class="mb-3">
+                <label class="control-label" for="contactform-name">{{ T `yourName` }}</label>
+                <input type="text" class="form-control" name="name" id="contactform-name" required>
+                <div class="invalid-feedback">{{ T "errorNameReq" }}</div>
+            </div>
+            <div class="mb-3">
+                <label class="control-label" for="contactform-email">{{ T `yourEmail` }}</label>
+                <input type="email" class="form-control" name="email" id="contactform-email" required>
+                <div class="invalid-feedback">{{ T `errorEmailReq` }}</div>
+            </div>
+            <div class="mb-3">
+                <label class="control-label" for="contactform-subject">{{ T `messageSubject` }}</label>
+                <input type="text" class="form-control" name="subject" id="contactform-subject">
+            </div>
+            <div class="mb-3">
+                <label class="control-label" for="contactform-message">{{ T `messageBody` }}</label>
+                <textarea rows="6" class="form-control" name="message" id="contactform-message" required></textarea>
+                <div class="invalid-feedback">{{ T `errorMessageReq` }}</div>
+            </div>
+            <div id="cf-submit">
+                <input type="submit" id="contact-submit-button" class="btn btn-primary" value="{{ T `submit` }}">
+            </div>
+        </form>
+    </section>
+</div>
+
+<!-- Social links -->
+<div class="col-lg-5">
+    <section id="contact-social-links">
+        <h2>{{ T "mySocialLinks" }}</h2>
+        <div class="list-group">
+            {{- range .Site.Data.about.contacts }}
+            <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .url }}">
+                <div class="list-group-img-32"><i class="{{ .icon }}"></i></div>
+                <div class="list-group-text"><div class="list-group-heading">{{ .title }}</div></div>
+            </a>
+            {{- end }}
+        </div>
+    </section>
+</div>
+</div>
+{{ end }}

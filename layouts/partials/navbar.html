@@ -1,0 +1,33 @@
+<header>
+    <nav id="navbar" class="navbar navbar-expand-md navbar-dark pb-md-0 ua-bg">
+        <div class="container-fluid flex-md-column">
+            <a class="navbar-brand" href="{{ absLangURL `/` }}" title="{{ T `home` }}"><img src="{{ .Site.Params.logoUrl }}" alt="Logo" width="48" height="48"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse w-100 justify-content-between" id="navbar-collapse">
+                <!-- Compare items' URLs to derive the active status instead of using .IsMenuCurrent as it doesn't seem to work -->
+                {{- $curURL := .RelPermalink -}}
+                <!-- Left menu -->
+                <ul class="nav navbar-nav">
+                    {{- range where .Site.Menus.nav "Weight" "<" 100 }}
+                    <li><a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">
+                        {{- with .Pre }}{{ . | safeHTML }}{{ else }}{{ T .Identifier }}{{ end -}}
+                    </a></li>
+                    {{- end }}
+                </ul>
+                <!-- Right menu -->
+                <ul class="nav navbar-nav">
+                    {{ range .Translations }}
+                        <li><a class="nav-link" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">{{ .Lang | upper }}</a></li>
+                    {{ end }}
+                    {{- range where .Site.Menus.nav "Weight" ">=" 100 }}
+                    <li><a class="nav-link{{ if eq $curURL (.URL | relLangURL | string) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ if .Pre }}{{ T .Identifier }}{{ end }}">
+                        {{- with .Pre }}{{ . | safeHTML }}{{ else }}{{ T .Identifier }}{{ end -}}
+                    </a></li>
+                    {{- end }}
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>

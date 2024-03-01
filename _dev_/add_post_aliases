@@ -1,0 +1,18 @@
+#!/bin/bash
+
+find ../content/blog/posts -type f -name 'index.*.md' |
+    while read f; do
+        # Extract post ID
+        id="$(basename "$(dirname "$f")")"
+        id="$((10#$id))"
+
+        # Extract post language
+        lang="$(basename "$f")"
+        lang="${lang#index.}"
+        lang="${lang%.md}"
+
+        echo "$id - $lang => $f"
+
+        # Insert the alias line before the second '---'
+        sed -i -z "s|---|aliases:\n    - /$lang/blog/post/$id\n&|2" "$f"
+    done

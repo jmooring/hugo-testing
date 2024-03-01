@@ -1,0 +1,68 @@
+en:
+    month:
+        1: January
+        2: February
+        3: March
+        4: April
+        5: May
+        6: June
+        7: July
+        8: August
+        9: September
+        10: October
+        11: November
+        12: December
+    dow:
+        0: Sunday
+        1: Monday
+        2: Tuesday
+        3: Wednesday
+        4: Thursday
+        5: Friday
+        6: Saturday
+
+ru:
+    month:
+        1: января
+        2: февраля
+        3: марта
+        4: апреля
+        5: мая
+        6: июня
+        7: июля
+        8: августа
+        9: сентября
+        10: октября
+        11: ноября
+        12: декабря
+    dow:
+        0: Воскресенье
+        1: Понедельник
+        2: Вторник
+        3: Среда
+        4: Четверг
+        5: Пятница
+        6: Суббота
+
+nl:
+    month:
+        1: januari
+        2: februari
+        3: maart
+        4: april
+        5: mei
+        6: juni
+        7: juli
+        8: augustus
+        9: september
+        10: oktober
+        11: november
+        12: december
+    dow:
+        0: Zondag
+        1: Maandag
+        2: Dinsdag
+        3: Woensdag
+        4: Donderdag
+        5: Vrijdag
+        6: Zaterdag

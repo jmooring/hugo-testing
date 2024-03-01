@@ -1,0 +1,43 @@
+{{- define "heading" }}
+<!-- Video title -->
+<h1>{{ .Title }}</h1>
+
+<!-- Video metadata -->
+<p class="page-heading-meta">
+    {{- with .Params.videoevents }}{{ with $.GetPage (print `/videoevents/` (urlize .)) }}{{ T "videoFromEvent" }}&nbsp;<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end -}}
+</p>
+{{ end }}
+
+
+{{ define "main" }}
+<!-- Embedded video -->
+<section id="single-video-track-video">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+        <iframe src="//www.youtube.com/embed/{{ .Params.youtubeId }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="{{ .Title }}"></iframe>
+    </div>
+</section>
+
+<!-- Video artists -->
+{{ with .Params.videoartists }}
+<section id="single-video-track-artists">
+    <h2>{{ T "inThisVideo" }}</h2>
+    <ul>
+    {{- range . }}
+        <li><a href="{{ relref $ (print `/videoartists/` (urlize .)) }}">{{ . }}</a></li>
+    {{- end }}
+    </ul>
+</section>
+{{ end }}
+
+<!-- Comments -->
+<section class="single-video-track-comments">
+    <h2>{{ T "comments" }}</h2>
+    <!-- Do not insert comments block when running on localhost -->
+    {{- if in (print $.Site.BaseURL) "localhost" }}
+    <div class="placeholder-box">(comments will go here)</div>
+    {{- else }}
+    <script defer src="{{ .Site.Params.comentarioUrl }}"></script>
+    <comentario-comments page-id="/video/track/{{ .File.ContentBaseName }}"></comentario-comments>
+    {{- end }}
+</section>
+{{ end }}

@@ -1,0 +1,47 @@
+{{ define "secondary-navbar" }}
+{{ partial "blog/navbar" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="row">
+    {{- $page := . -}}
+    <div class="col-md-9">
+        <!-- Filter form -->
+        {{ partial "filter-form" }}
+
+        <!-- Post list -->
+        <table class="blog-post-list" id="posts-table"><tbody>
+        {{- $year := 0 -}}
+        {{- $list :=  where .Site.RegularPages "Type" "post" -}}
+        {{- $count := len $list -}}
+        {{- range $idx, $post := $list -}}
+
+        <!-- Year heading - if the year has changed   -->
+        {{- if not (eq $year .Date.Year) -}}
+        {{- $year = .Date.Year -}}
+        <tr class="filterable"><th colspan="3">{{ $year }}</th></tr>
+        {{- end -}}
+
+        <!-- Output a post row -->
+        <tr class="post-row filterable">
+            <td class="number">{{ sub $count $idx }}.</td>
+            <td class="date">{{ partial "date" (dict "date" .Date "long" false) }}</td>
+            <td>{{ .Render "lang-link" }}</td>
+        </tr>
+        {{ end }}
+        </tbody></table>
+    </div>
+
+    <!-- Legend -->
+    <div class="col-md-3 d-none d-md-block">
+        <div class="sticky-md-top pt-3">
+            <h4>{{ T "iAmLegend" }}</h4>
+            <ul class="list-unstyled">
+                {{- range .Site.Languages }}
+                <li><span class="post_{{ .Lang }}"></span>&nbsp;{{ T "post" }} {{ T (print "postIn_" .Lang) }}</li>
+                {{ end -}}
+            </ul>
+        </div>
+    </div>
+</div>
+{{ end }}

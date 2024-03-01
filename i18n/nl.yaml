@@ -1,0 +1,141 @@
+- {id: about,                translation: Over}
+- {id: allPosts,             translation: Alle blogposts}
+- {id: allPostsInSeries,     translation: 'Alle posts in "{{ . }}"'}
+- {id: archive,              translation: Archief}
+- {id: articles,             translation: Artikelen}
+- {id: author,               translation: Auteur}
+- {id: authoredBy,           translation: Door}
+- {id: blog,                 translation: Blog}
+- {id: blogPosts,            translation: Blogposts}
+- {id: blogSubscribe,        translation: Abonneren}
+- {id: blogSubscribeCTA,     translation: Abonneren op blog updates}
+- {id: blogSubtitle,         translation: Blog over het Nederlandse leven}
+- {id: blogSubtitleAbout,    translation: en veel andere dingen}
+- {id: blogTitle,            translation: Nederland en verder}
+- {id: codeRepo,             translation: '{{ .name }} repository'}
+- {id: codeRepoIssueTracker, translation: '{{ .name }} Issue Tracker'}
+- {id: codeRepoIsTrkDetails, translation: Dé plek voor al je bugreports en featurerequests!}
+- {id: comments,             translation: Commentaren}
+- {id: contact,              translation: Contact}
+- {id: contents,             translation: Inhoudsopgave}
+- {id: cookieDismiss,        translation: Akkoord}
+- {id: cookieLink,           translation: Lees hier meer »}
+- {id: cookieMessage,        translation: Deze website gebruikt cookies.}
+- {id: copied,               translation: Gekopieerd!}
+- {id: copyPermalink,        translation: Kopieer een permalink naar deze pagina}
+- {id: copyright,            translation: 'Auteursrecht ©2000—{{ .year }} [Dmitry Kann]({{ .url }})'}
+- {id: details,              translation: Details}
+- {id: docs,                 translation: Documentatie}
+- {id: download,             translation: Downloaden}
+- {id: downloads,            translation: Downloaden}
+- {id: error404Title,        translation: Pagina bestaat niet.}
+- {id: error404Subtitle,     translation: Gebruik de links bovenaan deze pagina of ga naar de hoofdpagina.}
+- {id: errorEmailReq,        translation: 'Er is een geldig e-mailadres nodig.'}
+- {id: errorMessageReq,      translation: 'Je bericht mag niet leeg zijn.'}
+- {id: errorNameReq,         translation: 'Je naam mag niet leeg zijn.'}
+- {id: faq,                  translation: FAQ}
+- {id: filter,               translation: Filter}
+- {id: fromAlbum,            translation: Uit het album}
+- {id: fullDocsAvail,        translation: De volledige projectdocumentatie is beschikbaar}
+- {id: glossary,             translation: Glossarium}
+- {id: goHome,               translation: Naar de hoofdpagina}
+- {id: home,                 translation: Hoofdpagina}
+- {id: iAmLegend,            translation: Ik ben legende}
+- {id: inThisVideo,          translation: In deze video}
+- {id: license,              translation: Licentie}
+- {id: license_apache2,      translation: Apache License Versie 2.0}
+- {id: license_gpl3,         translation: GNU General Public License Versie 3}
+- {id: license_lgpl3,        translation: GNU Lesser General Public License Versie 3}
+- {id: license_lgpl21,       translation: GNU Lesser General Public License Versie 2.1}
+- {id: license_mit1,         translation: MIT License Versie 1}
+- {id: license_mpl2,         translation: Mozilla Public License Versie 2.0}
+- {id: license_mpl11,        translation: Mozilla Public License Versie 1.1}
+- {id: listen,               translation: Luisteren}
+- {id: map,                  translation: Kaart}
+- {id: messageBody,          translation: Je bericht}
+- {id: messageSubject,       translation: Onderwerp}
+- {id: more,                 translation: Meer}
+- {id: moreToRead,           translation: Meer om te lezen}
+- {id: mySocialLinks,        translation: Mijn sociale links}
+- {id: noContentCurLang,     translation: 'Geen Nederlandstalige inhoud beschikbaar.<br><br><big>¯\_(ツ)_/¯</big><br><br>Probeer een andere taal te kiezen bovenaan deze pagina.'}
+- {id: numPages,             translation: {one: '{{ .Count }} pagina', other: '{{ .Count }} pagina''s'}}
+- {id: numVideos,            translation: {one: '{{ .Count }} video', other: '{{ .Count }} video''s'}}
+- {id: once-to,              translation: once.to}
+- {id: pageSource,           translation: Pagina's broncode}
+- {id: paginatorNext,        translation: Volgende pagina}
+- {id: paginatorPrevious,    translation: Vorige pagina}
+- {id: poetryAndLyrics,      translation: Poëzie en teksten}
+- {id: post,                 translation: Post}
+- {id: postedInSeries,       translation: In}
+- {id: postIn_en,            translation: in het Engels}
+- {id: postIn_nl,            translation: in het Nederlands}
+- {id: postIn_ru,            translation: in het Russisch}
+- {id: postInLangs,          translation: Deze post}
+- {id: postNext,             translation: Volgende post}
+- {id: postPermalink,        translation: Permanente link naar deze post}
+- {id: postPrev,             translation: Vorige post}
+- {id: posts_en,             translation: Posts in het Engels}
+- {id: posts_nl,             translation: Posts in het Nederlands}
+- {id: posts_ru,             translation: Posts in het Russisch}
+- {id: postsAllLangs,        translation: Posts in alle talen}
+- {id: postsCurLang,         translation: Posts in het Nederlands}
+- {id: postsOtherLangs,      translation: Posts in andere talen}
+- {id: poweredByOnceTo,      translation: 'Mogelijk gemaakt door [![once.to](/images/logos/onceto-logo-link.svg) — de snelste URL shortener in de wereld](https://yktoo.me/once).'}
+- {id: privacyPolicy,        translation: Privacybeleid}
+- {id: radiolaria,           translation: Radiolaria}
+- {id: readInBlog,           translation: In mijn blog lezen »}
+- {id: readingTime,          translation: {one: 'Een minuut te lezen', other: '{{ .Count }}&nbsp;min te lezen' }}
+- {id: readOn,               translation: Lees verder »}
+- {id: readOnAt,             translation: Verder lezen op}
+- {id: releaseData,          translation: Gegevens}
+- {id: releasedOn,           translation: Gereleased op}
+- {id: search,               translation: Zoeken}
+- {id: seeAll,               translation: Alles weergeven »}
+- {id: seeAlso,              translation: Zie ook}
+- {id: series,               translation: Serie}
+- {id: seriesFeatured,       translation: Meest opvallend}
+- {id: seriesOther,          translation: Overig}
+- {id: seriesPlural,         translation: Serie's}
+- {id: share,                translation: Delen}
+- {id: shareOn,              translation: 'Op {{ . }} delen'}
+- {id: showChords,           translation: Met akkoorden}
+- {id: software,             translation: Software}
+- {id: softwareActive,       translation: Onderhouden software}
+- {id: softwareArchived,     translation: Gearchiveerde software}
+- {id: sourceCode,           translation: Broncode}
+- {id: sourceCodeClone,      translation: De meest recente broncode is verkrijgbaar d.m.v. klonen van mijn}
+- {id: statsAllPages,        translation: "Totaal aantal pagina's"}
+- {id: statsBlogPages,       translation: "Waarvan blog pagina's"}
+- {id: statsBuildDate,       translation: Laatste build datum}
+- {id: statsCurLangPages,    translation: "Waarvan pagina's in het Nederlands"}
+- {id: statsCurLangWords,    translation: "Aantal woorden op Nederlandstalige pagina's"}
+- {id: submit,               translation: Verzenden}
+- {id: subscribeByEmail,     translation: Abonneren via e-mail}
+- {id: subscribeByRSS,       translation: Nieuwsfeed in RSS-formaat}
+- {id: subscribeInFeedly,    translation: Abonneren in Feedly}
+- {id: subscribeInTgram,     translation: Abonneren in Telegram}
+- {id: subscribeSocial,      translation: Abonneren in social networks}
+- {id: subscribeToUpdates,   translation: Abonneren op updates}
+- {id: support,              translation: Ondersteuning}
+- {id: tag,                  translation: Tag}
+- {id: tags,                 translation: Tags}
+- {id: termsOfService,       translation: Algemene voorwaarden}
+- {id: timeline,             translation: Tijdlijn}
+- {id: tracklist,            translation: Tracklijst}
+- {id: viaThisLink,          translation: via deze link}
+- {id: videoEvInCategory,    translation: In}
+- {id: videoFromEvent,       translation: Uit}
+- {id: videos,               translation: Video's}
+- {id: videosByArtist,       translation: Video's per artiest}
+- {id: videosByCategory,     translation: Video's per categorie}
+- {id: videosOfEvent,        translation: Video's van dit evenement}
+- {id: whereThisWas,         translation: Waar het was}
+- {id: withArtists,          translation: Met}
+- {id: yourEmail,            translation: Je e-mailadres}
+- {id: yourName,             translation: Je naam}
+
+- id: uaWarWarning
+  translation: >
+    Rusland voert oorlog in Oekraïne, waarbij Russische troepen de burgerbevolking van het land doden, martelen,
+    verkrachten en plunderen. Commentaar dat de acties van Rusland in Oekraïne of aanverwante symbolen goedkeurt of
+    rechtvaardigt, wordt op deze blog niet getolereerd.

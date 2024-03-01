@@ -1,0 +1,28 @@
+{{ define "heading" }}<h1>{{ T "glossary" }}: {{ .Title | markdownify }}{{- with .Params.altTitles }}, {{ delimit . ", "}}{{ end }}</h1>{{ end }}
+
+{{ define "main" }}
+<section id="glossary-term">
+    {{ default .Content (markdownify .Params.description) }}
+
+    <!-- Detail link, which is the first page corresponding to the glossary term, if any -->
+    {{- range first 1 .Pages }}
+        <p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "details" }}: {{ .Title | markdownify }}</a></p>
+    {{- end }}
+</section>
+
+<!-- See also -->
+{{- $term := .Data.Term | anchorize }}
+{{- if or .Params.seeAlso (index .Site.Taxonomies.tags $term) }}
+<h2>{{ T "seeAlso" }}</h2>
+<ul>
+    <!-- List any explicit See Also links to other glossary terms -->
+    {{- range .Params.seeAlso }}
+        {{- with $.GetPage (print "/glossary/" .) }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+    {{- end }}
+    <!-- List any related posts mentioning the corresponding tag -->
+    {{- with index .Site.Taxonomies.tags $term }}
+        {{- range .Pages }}<li>{{ .Render "lang-link" }}</li>{{ end }}
+    {{- end }}
+</ul>
+{{- end}}
+{{ end }}

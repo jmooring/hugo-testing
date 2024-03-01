@@ -1,0 +1,59 @@
+<!-- Render downloads for a specific category. Context:
+    lang      - two-letter language code
+    downloads - list of download items
+-->
+
+<!-- First list featured, then others -->
+{{- range $featured := slice true false }}
+    {{- range where $.downloads "isFeatured" $featured }}
+        <!-- The title can be a string or a language-indexed object -->
+        {{- $title := .title }}
+        {{- if ne (printf "%T" $title) "string" }}
+            {{- $title = index $title $.lang }}
+        {{- end }}
+        <!-- Same goes for subtitle, moreover, it's optional -->
+        {{- $subtitle := .subtitle }}
+        {{- with $subtitle }}
+            {{- if ne (printf "%T" .) "string" }}
+                {{- $subtitle = index . $.lang }}
+            {{- end }}
+        {{- end }}
+        {{- $version := .version }}
+        <div class="download{{ cond $featured ` featured` `` }} container-fluid" data-aos="fade-up">
+            <div class="row">
+                <div class="col-lg-7">
+                    <!-- Title and optional subtitle -->
+                    <div class="border-bottom {{ cond $featured `mb-4` `mb-2` }}">
+                        <p class="{{ cond $featured `h3` `h4` }}">{{ $title | markdownify }} v{{ $version }}</p>
+                        {{ with $subtitle }}<p class="font-italic">{{ . | markdownify }}</p>{{ end }}
+                    </div>
+
+                    <!-- Description -->
+                    <div class="download-desc mb-3 mb-lg-0">{{ index .description $.lang | markdownify }}</div>
+                </div>
+
+                <!-- Download button -->
+                <div class="col-lg-5 text-center">
+                    <a class="btn btn-success btn-download" href="{{ replace .downloadUrl `{version}` $version }}">
+                        <div class="icon"><i class="fas fa-arrow-alt-circle-down"></i></div>
+                        <div class="text">
+                            <strong>{{ T "download" }}</strong><br>
+                            {{ $subtitle | default $title | markdownify }} v{{ $version }}
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Details and release date -->
+                <div class="col-12">
+                    <div class="download-footer">
+                        {{- with .detailUrl -}}
+                            <a href="{{ replace . `{version}` $version }}" rel="noopener">{{ T "details" }}</a>
+                            <span class="px-2">·</span>
+                        {{- end -}}
+                        {{- T "releasedOn" }}&nbsp;{{ partial "date" (dict "date" (time .releaseDate) "long" true) -}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    {{- end }}
+{{- end }}

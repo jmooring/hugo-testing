@@ -1,0 +1,36 @@
+<!--
+    Render a header "jumbotron" and a related menu for the current software product.
+
+    Find the main ("section") page for this product:
+     * For regular pages it's the parent page
+     * Otherwise it's the page itself
+ -->
+{{- $sectionPage := cond .IsPage .Parent .Page }}
+
+<!-- Jumbotron -->
+<div class="p-5 text-center">
+    {{- with $sectionPage.Params.icon }}{{ with $sectionPage.Resources.GetMatch . }}<img src="{{ .RelPermalink }}" alt="Icon">{{ end }}{{ end }}
+    <h1 class="display-4">{{ $sectionPage.Title }}</h1>
+    {{ with $sectionPage.Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
+</div>
+
+<!-- Render a discontinuation banner if the project isn't active anymore -->
+{{- if not $sectionPage.Params.active }}
+    {{- partial (printf "software/discontinued.%s.html" .Lang) }}
+{{- end }}
+
+<!-- Product submenu -->
+{{- $name := $sectionPage.Params.software -}}
+{{- with index .Site.Menus $name -}}
+<ul class="nav nav-tabs justify-content-center mb-4">
+    {{- range . }}
+    <li class="nav-item">
+        {{- if $.IsMenuCurrent $name . -}}
+        <a class="nav-link active" aria-current="page" href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
+        {{- else -}}
+        <a class="nav-link" href="{{ .Page.RelPermalink }}">{{ .Title }}</a>
+        {{- end -}}
+    </li>
+    {{- end }}
+</ul>
+{{- end -}}

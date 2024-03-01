@@ -1,0 +1,31 @@
+{{ define "heading" }}<h1>{{ T "series" }}: {{ .Title }}</h1>{{ end }}
+
+{{ define "secondary-navbar" }}
+{{ partial "blog/navbar" . }}
+{{ end }}
+
+{{ define "main" }}
+<!-- Description -->
+{{- with .Params.description }}
+<p class="series-description">{{ . | markdownify }}</p>
+{{- end }}
+
+<!-- Content -->
+{{- with .Content }}
+<div>
+    {{ . }}
+</div>
+{{- end }}
+
+<!-- Blog feed -->
+<div class="blog-feed">
+    {{ range .Paginator.Pages }}
+    {{ .Render "list-item" }}
+    {{ end }}
+</div>
+
+<!-- Paginator -->
+<div class="blog-paginator">
+    {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

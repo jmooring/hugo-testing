@@ -1,0 +1,6 @@
+<!-- Shortcode for inserting images. Syntax: img "image_filename.ext" ["title"] -->
+{{- $url := .Get 0 }}
+{{- if not (findRE "^(/|http(s?)://)" $url) }}
+    {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
+{{- end -}}
+<img src="{{ $url }}" alt="{{ .Get 1 }}" title="{{ .Get 1 }}" class="opener-image">

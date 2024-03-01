@@ -1,0 +1,58 @@
+{{ define "main" }}
+<!-- Main content -->
+<section id="radiolaria-album-content" class="clearfix">
+{{ .Content }}
+</section>
+
+<!-- Tracklist -->
+<section id="radiolaria-album-tracklist">
+    {{ if .Params.isAlbum }}<h2>{{ T "tracklist" }}</h2>{{ end }}
+    <div class="table-responsive">
+        <table class="table table-striped">
+        <tbody>
+            {{ range .Pages.ByParam "trackNumber" }}
+            <tr>
+                <td class="text-right text-nowrap">{{ .Params.trackNumber }}</td>
+                <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+                <td class="text-right text-nowrap">
+                    {{- with .Params.length -}}
+                        {{- printf "%d:%.2d" (div . 60) (mod . 60) -}}
+                    {{- end -}}
+                </td>
+                <td>
+                    {{- with .Params.mediafileurl -}}
+                        <a type="audio/mpeg" href="{{ . }}"><i class="fa playbtn"></i></a>
+                    {{- end -}}
+                </td>
+                <td class="text-center text-nowrap">
+                    {{- with .Params.mediafileurl -}}
+                        <a href="{{ . }}">
+                            <i class="fas fa-download"></i>
+                            <span class="d-none d-md-inline ms-1">{{ T "download" }}</span>
+                        </a>
+                    {{- end -}}
+                </td>
+            </tr>
+            {{ end }}
+        </tbody>
+        </table>
+    </div>
+    <audio>Sorry, your browser does not support HTML5 audio.</audio>
+</section>
+
+<!-- Release data -->
+{{ if or .Params.credits .Params.released }}
+<section id="radiolaria-album-released">
+    <h2>{{ T "releaseData" }}</h2>
+    {{ with .Params.credits }}
+    <dl>
+        {{ range $title, $value := . }}
+        <dt>{{ $title | strings.FirstUpper }}</dt>
+        <dd>{{ $value | markdownify }}</dd>
+        {{ end }}
+    </dl>
+    {{ end }}
+    {{ with .Params.released }}<p>{{ . | markdownify }}</p>{{ end }}
+</section>
+{{ end }}
+{{ end }}

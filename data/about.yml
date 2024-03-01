@@ -1,0 +1,34 @@
+contacts:
+    - url: 'https://www.buymeacoffee.com/yktoo'
+      icon: fas fa-mug-saucer
+      title: Buy Me a Coffee
+    - url: 'https://yktoo.me/facebook-page'
+      icon: fab fa-facebook colourise
+      title: Facebook
+    - url: 'https://yktoo.me/linkedin'
+      icon: fab fa-linkedin colourise
+      title: LinkedIn
+    - url: 'https://yktoo.me/vkontakte'
+      icon: fab fa-vk colourise
+      title: VK
+    - url: 'https://yktoo.me/twitter'
+      icon: fab fa-twitter colourise
+      title: Twitter
+    - url: 'https://yktoo.me/youtube'
+      icon: fab fa-youtube colourise
+      title: YouTube
+    - url: 'https://yktoo.me/github'
+      icon: fab fa-github colourise
+      title: GitHub
+    - url: 'https://yktoo.me/launchpad'
+      icon: fab fa-ubuntu colourise
+      title: Launchpad
+    - url: 'https://yktoo.me/stackoverflow'
+      icon: fab fa-stack-overflow colourise
+      title: StackOverflow
+    - url: 'https://yktoo.me/habr'
+      icon: fas fa-link colourise
+      title: Habr
+    - url: 'https://yktoo.me/reddit'
+      icon: fab fa-reddit colourise
+      title: Reddit

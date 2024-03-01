@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="row">
+    {{- range where (where .Site.Pages "Type" "videoevent") ".Params.videocategories" (.File.Dir | path.Base) }}
+    <div class="col-md-6 col-lg-4">
+        <div class="card uni-height text-center">
+            <!-- Link overlay -->
+            <a href="{{ .RelPermalink }}" class="card-link-overlay"></a>
+
+            <!-- Event image -->
+            <div class="top-image">
+                <img src="{{ with .Params.image }}{{ . }}{{ else }}{{ range first 1 .Data.Pages }}{{ printf `https://img.youtube.com/vi/%s/maxresdefault.jpg` .Params.youtubeId }}{{ end }}{{ end }}" alt="Event image">
+            </div>
+
+            <!-- Event body -->
+            <div class="card-body mb-5">
+                <!-- Name -->
+                <h5 class="card-title">{{ .Title }}</h5>
+                <!-- Dates and location -->
+                <p class="card-subtitle text-muted">
+                    {{- if .Params.dateFrom }}
+                        {{- partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) -}}
+                    {{- end }}
+                    {{- with .Params.location }}<br>{{ . }}{{ end -}}
+                </p>
+            </div>
+
+            <!-- Number of videos -->
+            <div class="card-footer">{{ T `numVideos` (len .Pages) }}</div>
+        </div>
+    </div>
+    {{- end }}
+</div>
+{{ end }}

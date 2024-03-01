@@ -1,0 +1,22 @@
+<table class="table table-narrow">
+    <tr>
+        <th>{{ i18n "statsAllPages" }}</th>
+        <td class="number">{{ len .Site.AllPages }}</td>
+    </tr>
+    <tr>
+        <th>{{ i18n "statsCurLangPages" }}</th>
+        <td class="number">{{ len .Site.RegularPages }}</td>
+    </tr>
+    <tr>
+        <th>{{ i18n "statsBlogPages" }}</th>
+        <td class="number">{{ len (where .Site.RegularPages "Type" "post") }}</td>
+    </tr>
+    <tr>
+        <th>{{ i18n "statsCurLangWords" }}</th>
+        <td class="number">{{ $cw := 0 }}{{ range .Site.RegularPages }}{{ $cw = add $cw (countwords .Content) }}{{ end }}{{ $cw }}</td>
+    </tr>
+    <tr>
+        <th>{{ i18n "statsBuildDate" }}</th>
+        <td class="date">{{ partial "date" (dict "date" .Site.LastChange "long" false) }}</td>
+    </tr>
+</table>

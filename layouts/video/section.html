@@ -1,0 +1,53 @@
+{{ define "main" }}
+<div class="row">
+    <div class="col-lg-6">
+        <section id="videos-by-category">
+            <h2>{{ T "videosByCategory" }}</h2>
+
+            <!-- Iterate "videocategories" taxonomy term pages - this is the only way to sort them by weight -->
+            <div class="list-group">
+                {{- range (.GetPage "/videocategories").Pages.ByWeight }}
+                <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .RelPermalink }}">
+                    <div class="list-group-img-32"><i class="fas fa-{{ .Params.icon }}"></i></div>
+                    <div class="list-group-text">
+                        <div class="list-group-heading">{{ .Title }}</div>
+                        <!-- TODO div class="list-group-details">{{ T `numVideos` (.Title | .Site.Taxonomies.videocategories.Count) }}</div-->
+                    </div>
+                </a>
+                {{- end }}
+            </div>
+        </section>
+    </div>
+    <div class="col-lg-6">
+        <section id="videos-by-artist">
+            <h2>{{ T "videosByArtist" }}</h2>
+            <ul class="list-inline tag-cloud">
+                {{- $type := .Type }}
+                {{- range .Site.Taxonomies.videoartists.Alphabetical }}
+                    <!-- Derive the tag class style based on the number of occurrences   -->
+                    {{- $cls := "tag-size-1" }}
+                    {{- if      ge .Count 100 }}{{ $cls = "tag-size-7" }}
+                    {{- else if ge .Count 50  }}{{ $cls = "tag-size-6" }}
+                    {{- else if ge .Count 20  }}{{ $cls = "tag-size-5" }}
+                    {{- else if ge .Count 10  }}{{ $cls = "tag-size-4" }}
+                    {{- else if ge .Count 5   }}{{ $cls = "tag-size-3" }}
+                    {{- else if ge .Count 2   }}{{ $cls = "tag-size-2" }}
+                    {{- end -}}
+
+                    <!-- Render a list item for the given tag -->
+                    <li class="list-inline-item tag {{$cls}}"><a href="{{ .Page.Permalink }}" title="{{ T `numVideos` .Count }}">{{ .Page.Title }}</a></li>
+                {{- end -}}
+            </ul>
+        </section>
+    </div>
+</div>
+
+<section id="videos-see-also">
+    <h2>{{ T "seeAlso" }}</h2>
+    <ul>
+        {{- range slice "/video/tracks" }}
+        {{ with $.GetPage . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+        {{- end }}
+    </ul>
+</section>
+{{ end }}

@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<!-- Main content -->
+<section id="radiolaria-main-content" class="clearfix">
+    {{ .Content }}
+</section>
+
+<!-- Album list group -->
+<section id="radiolaria-albums">
+    <div class="list-group">
+        <!-- Iterate "musicalbums" taxonomy term pages - this is the only way to sort them by weight -->
+        {{- range (.GetPage "/musicalbums").Pages.ByWeight }}
+        <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .RelPermalink }}">
+            <!-- Icon, if any -->
+            {{- $page := . }}
+            {{- with .Params.image }}{{ with $page.Resources.GetMatch . }}
+            <div class="list-group-img-64"><img src="{{ .RelPermalink }}" alt="Icon"></div>
+            {{- end }}{{ end -}}
+
+            <div class="list-group-text">
+                <!-- Title -->
+                <div class="list-group-heading">{{ .Title }}</div>
+                <!-- Subtitle -->
+                <div class="list-group-details">{{ .Params.description }}</div>
+            </div>
+        </a>
+        {{- end }}
+    </div>
+</section>
+
+<!-- No content check -->
+{{ partial "no-content-checker" (.GetPage "/musicalbums").Pages }}
+
+<!-- See also -->
+<section id="radiolaria-see-also">
+    <h2 id="see-also">{{ T "seeAlso" }}</h2>
+    <ul>
+        {{- range slice "/radiolaria/tracks" "/radiolaria/articles" }}
+        {{ with $.GetPage . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+        {{- end }}
+    </ul>
+</section>
+{{ end }}

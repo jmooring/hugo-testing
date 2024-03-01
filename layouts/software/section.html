@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<!-- Main page content -->
+{{ .Content }}
+
+<!-- Software lists. First active, then archived -->
+{{- range slice true false }}
+    {{- $active := . }}
+    {{- with where $.Pages ".Params.active" $active }}
+        <section>
+            <h2>{{ T (cond $active "softwareActive" "softwareArchived") }}</h2>
+            <div class="list-group">
+                {{- range . }}
+                <a class="list-group-item list-group-item-action list-group-item-iconized" href="{{ .Permalink }}">
+                    <!-- Icon, if any -->
+                    {{- $page := . -}}
+                    {{- with .Params.icon }}{{ with $page.Resources.GetMatch . }}
+                    <div class="list-group-img-64"><img src="{{ .RelPermalink }}" alt="Icon"></div>
+                    {{- end }}{{ end -}}
+
+                    <div class="list-group-text">
+                        <!-- Title -->
+                        <div class="list-group-heading">{{- .Title -}}</div>
+                        <!-- Subtitle -->
+                        {{- with .Params.subtitle }}<div class="list-group-details">{{ . }}</div>{{ end }}
+                    </div>
+                </a>
+                {{- end }}
+            </div>
+        </section>
+    {{- end }}
+{{- end }}
+
+<!-- No content check -->
+{{- partial "no-content-checker" .Pages }}
+{{- end }}

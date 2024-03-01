@@ -1,0 +1,11 @@
+<!-- Shortcode for inserting image figures, full-width, clickable image blocks.
+     Syntax: imgfig "image_filename.ext" ["title"] ["class1 class2…"] -->
+<figure class="figure imgfig" data-aos="fade-up">
+    {{- $url := .Get 0 }}
+    <!-- If it isn't a URL starting with "http(s)://" or an absolute path, consider it a page resource -->
+    {{- if not (findRE "^(/|http(s?)://)" $url) }}
+        {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
+    {{- end -}}
+    <a class="image-link image-popup" href="{{ $url }}" data-effect="mfp-with-zoom" data-lightbox="image-1"><img src="{{ $url }}" alt="{{ .Get 1 | markdownify | plainify | default `Image` | safeHTML }}" class="figure-img img-fluid {{ .Get 2 }}"></a>
+    {{- with .Get 1 }}<figcaption class="figure-caption">{{ . | markdownify }}</figcaption>{{ end -}}
+</figure>

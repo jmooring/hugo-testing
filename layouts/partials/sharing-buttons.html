@@ -1,0 +1,23 @@
+{{- $u := printf "%s" .Permalink | absLangURL -}}
+{{- if eq .Type "post" -}}
+    {{- $u = print "/blog/post/" (.File.Dir | path.Base) | absLangURL -}}
+{{- end -}}
+{{- $t := .Title | markdownify | plainify -}}
+{{- $s := .Summary | markdownify | plainify -}}
+{{- $i := "" -}}
+{{- with .Params.image }}{{ if findRE "^http(s?)://" . }}{{ $i = . }}{{ end }}{{ end -}}
+<div class="button-row">
+    <a title="{{ T `copyPermalink`         }}" href="{{ $u | safeURL }}" class="btn icon-btn copy-link" target="_blank" rel="noopener" data-copied="{{ T `copied` }}"><i class="fas fa-copy"></i></a>
+    <a title="{{ T `shareOn` `Facebook`    }}" href="https://facebook.com/sharer/sharer.php?{{ querify `u` $u                                                    | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-facebook colourise"></i></a>
+    <a title="{{ T `shareOn` `Twitter`     }}" href="https://twitter.com/intent/tweet/?{{ querify `text` $t `url` $u                                             | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-twitter colourise"></i></a>
+    <a title="{{ T `shareOn` `Tumblr`      }}" href="https://tumblr.com/widgets/share/tool?{{ querify `canonicalUrl` $u                                          | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-tumblr colourise"></i></a>
+    <a title="{{ T `shareOn` `E-mail`      }}" href="mailto:?{{ querify `subject` $t `body` $u                                                                   | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fas fa-envelope colourise"></i></a>
+    <a title="{{ T `shareOn` `Pinterest`   }}" href="https://pinterest.com/pin/create/button/?{{ querify `url` $u `media` $i `description` $t                    | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-pinterest colourise"></i></a>
+    <a title="{{ T `shareOn` `LinkedIn`    }}" href="https://www.linkedin.com/shareArticle?{{ querify `mini` `true` `url` $u `title` $t `summary` $s `source` $u | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-linkedin colourise"></i></a>
+    <a title="{{ T `shareOn` `Reddit`      }}" href="https://reddit.com/submit/?{{ querify `url` $u `resubmit` `true` `title` $t                                 | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-reddit colourise"></i></a>
+    <a title="{{ T `shareOn` `XING`        }}" href="https://www.xing.com/app/user?{{ querify `op` `share` `url` $u `title` $t                                   | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-xing colourise"></i></a>
+    <a title="{{ T `shareOn` `WhatsApp`    }}" href="whatsapp://send?{{ querify `text` (printf `%s %s` $t $u)                                                    | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-whatsapp colourise"></i></a>
+    <a title="{{ T `shareOn` `Hacker News` }}" href="https://news.ycombinator.com/submitlink?{{ querify `u` $u `t` $t                                            | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-y-combinator colourise"></i></a>
+    <a title="{{ T `shareOn` `VK`          }}" href="https://vk.com/share.php?{{ querify `url` $u                                                                | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-vk colourise"></i></a>
+    <a title="{{ T `shareOn` `Telegram`    }}" href="https://telegram.me/share/url?{{ querify `text` $t `url` $u                                                 | safeURL }}" class="btn icon-btn" target="_blank" rel="noopener"><i class="fab fa-telegram colourise"></i></a>
+</div>

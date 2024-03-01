@@ -1,0 +1,2 @@
+<!-- Render a "No content in this language" line if the passed context is falsy -->
+{{ if not . }}<p class="lead text-center">{{ T "noContentCurLang" | safeHTML }}</p>{{ end }}

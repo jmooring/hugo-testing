@@ -1,0 +1,15 @@
+<!-- Render the given date in a short or long format. Context:
+    date - date to format
+    long - false to use the 'short' date format, otherwise 'long' is used
+Need to use this totally custom implementation because of lack of date localisation support in Hugo.
+-->
+{{- $cfg := index site.Data.datefmt site.Language.Lang }}
+{{- $date := cond .long site.Params.dateFormat site.Params.shortDateFormat }}
+{{- $date = replace $date "DOW"   (index $cfg.dow (printf "%d" .date.Weekday)) }}
+{{- $date = replace $date "DD"    (printf "%.2d" .date.Day) }}
+{{- $date = replace $date "D"     (printf "%d"   .date.Day) }}
+{{- $date = replace $date "MM"    (printf "%.2d" .date.Month) }}
+{{- $date = replace $date "MONTH" (index $cfg.month (printf "%d" .date.Month)) }}
+{{- $date = replace $date "MON"   (substr (index $cfg.month (printf "%d" .date.Month)) 0 3) }}
+{{- $date = replace $date "YYYY"  (printf "%.4d" .date.Year) -}}
+<time datetime="{{ .date.Format `2006-01-02T15:04:05Z07:00` }}">{{ $date }}</time>

@@ -1,0 +1,173 @@
+#!/usr/bin/python3
+#=======================================================================================================================
+# Program to back up content from a Cloudinary cloud instance
+# Requirements:
+#     cloudinary (PIP module)
+#     CLOUDINARY_URL environment variable is set to "cloudinary://<API_key>:<API_secret>@<cloud_name>
+# Synopsis:
+#     cloudinary-backup [options]
+# Options:
+#     -v  Verbose output
+#     -d  Delete local files that do not exist in the cloud
+# More info: see https://yktoo.com/en/blog/post/2019/12/13-cloudinary-content-backup/
+#=======================================================================================================================
+
+import sys
+import logging
+import os
+import pathlib
+import urllib.request
+import cloudinary.api
+
+
+MAX_RESOURCE_RESULTS = 1000
+BACKUP_DIR = os.path.join(str(pathlib.Path.home()), 'Archive/Backup/cloudinary')
+
+
+class CloudinaryBackup:
+    """Synchronises the local copy of all resources with the Cloudinary library."""
+
+    def __init__(self, resource_type: str, del_redundant=False) -> None:
+        self.resource_type = resource_type
+        self.delete_redundant = del_redundant
+        self.resources = []
+        self.files = {}
+        self.root_file_dir = os.path.join(BACKUP_DIR, self.resource_type)
+
+    def query_resources(self):
+        """Load the list of resources from the server into self.resources."""
+        self.resources = []
+        self.files = {}
+
+        # Iterate until there's no next_cursor
+        next_cursor = None
+        req_num = 0
+        while True:
+            req_num += 1
+
+            # Fetch the data
+            result = cloudinary.api.resources(
+                resource_type=self.resource_type,
+                max_results=MAX_RESOURCE_RESULTS,
+                next_cursor=next_cursor)
+
+            # Accumulate the resource in the list
+            self.resources += result['resources']
+
+            # Fetch the cursor for the next set, if any
+            if 'next_cursor' not in result:
+                break
+            next_cursor = result['next_cursor']
+
+        logging.info('Fetched %d %s resources with %d API calls', len(self.resources), self.resource_type, req_num)
+
+    def list_files(self):
+        """List all backed up files into self.files."""
+        total_size = 0
+        for root, dirs, files in os.walk(self.root_file_dir):
+            for file in files:
+                # The full path to the resource file
+                full_path = os.path.join(root, file)
+
+                # Fetch file size
+                size = os.path.getsize(full_path)
+
+                # Determine the 'id' of the resource by stripping off the base path
+                id = os.path.relpath(full_path, self.root_file_dir)
+
+                # Add the file to the dictionary
+                self.files[id] = size
+                total_size += size
+                logging.debug('Found file %s ⇒ %s (%d bytes)', id, full_path, size)
+
+        logging.info('Found %d files, total size %d bytes', len(self.files), total_size)
+
+    def fetch_missing_files(self):
+        """Download files that are missing or have a different size."""
+        remote_size = 0
+        local_size = 0
+        download_size = 0
+        download_count = 0
+        for resource in self.resources:
+            # Fetch the remote resource's properties
+            rsrc_id = resource['public_id'] + '.' + resource['format']
+            rsrc_size = resource['bytes']
+            remote_size += rsrc_size
+
+            # First check for the presence of the local file
+            if rsrc_id not in self.files:
+                logging.debug('Resource %s (%d bytes) is not found, downloading', rsrc_id, rsrc_size)
+                need_download = True
+
+            # Then verify its size
+            else:
+                file_size = self.files[rsrc_id]
+                if rsrc_size != file_size:
+                    logging.debug(
+                        'Resource %s has a different size (local: %d, remote: %d), downloading',
+                        rsrc_id, file_size, rsrc_size)
+                    need_download = True
+
+                # Resource is unchanged
+                else:
+                    need_download = False
+                    local_size += file_size
+
+            # Download the file
+            if need_download:
+                file_path = os.path.join(self.root_file_dir, rsrc_id)
+
+                # Make sure target directory exists
+                os.makedirs(os.path.dirname(file_path), exist_ok=True)
+
+                # Download the file into the final location
+                urllib.request.urlretrieve(resource['secure_url'], file_path)
+                download_size += rsrc_size
+                download_count += 1
+                logging.info('Downloaded %s (%d bytes)', rsrc_id, rsrc_size)
+
+        logging.info(
+            'Finished fetching missing files. Total bytes: remote %d, local %d, downloaded %d (%d files)',
+            remote_size, local_size, download_size, download_count)
+
+    def find_redundant_files(self):
+        """Find local files that no longer exist on the server."""
+        # Make a set of existing resource IDs
+        resource_ids = {r['public_id'] + '.' + r['format'] for r in self.resources}
+
+        # Iterate local files
+        del_count = 0
+        for file_id in self.files.keys():
+            if file_id not in resource_ids:
+                del_count += 1
+                logging.debug('File %s is not present in the cloud, deleting', file_id)
+                os.remove(os.path.join(self.root_file_dir, file_id))
+
+        logging.info('Finished searching for redundant files: %d files have been removed', del_count)
+
+    def run(self):
+        """Perform the backup."""
+        # Load the list of resources
+        self.query_resources()
+
+        # List all files backed up so far
+        self.list_files()
+
+        # Download missing files
+        self.fetch_missing_files()
+
+        # Find redundant files, if needed
+        if self.delete_redundant:
+            self.find_redundant_files()
+
+
+# Main routine
+if __name__ == '__main__':
+
+    # Parse command line / setup logging
+    logging.basicConfig(level=logging.DEBUG if '-v' in sys.argv else logging.INFO, format='%(levelname)-8s %(message)s')
+    delete_redundant = '-d' in sys.argv
+
+    # Run the backup
+    CloudinaryBackup('image', del_redundant=delete_redundant).run()
+    CloudinaryBackup('video', del_redundant=delete_redundant).run()

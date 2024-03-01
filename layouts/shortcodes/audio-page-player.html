@@ -1,0 +1,7 @@
+<!-- Render a standard browser's audio player, taking the media URL from the given page -->
+{{- with $.Site.GetPage (.Get 0) -}}
+<div class="audio-player">
+    <div class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+    <audio src="{{ .Params.mediaFileUrl }}" controls></audio>
+</div>
+{{- end -}}

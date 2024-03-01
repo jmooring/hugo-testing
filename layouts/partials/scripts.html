@@ -1,0 +1,14 @@
+<script>
+    const cookieMessage = '{{ T "cookieMessage" }}';
+    const cookieDismiss = '{{ T "cookieDismiss" }}';
+    const cookieLink    = '{{ T "cookieLink" }}';
+    const cookieInfoUrl = '{{ .Site.Params.cookieConsentInfoUrl | absLangURL }}';
+</script>
+{{- $js := slice       (resources.Get "node_modules/jquery/dist/jquery.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/@popperjs/core/dist/umd/popper.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/bootstrap/dist/js/bootstrap.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/magnific-popup/dist/jquery.magnific-popup.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/cookieconsent/src/cookieconsent.js") -}}
+{{- $js = $js | append (resources.Get "node_modules/aos/dist/aos.js") -}}
+{{- $js = $js | append (resources.Get "main.js") -}}
+<script src="{{ ($js | resources.Concat `js/bundle.js` | minify).Permalink }}"></script>

@@ -1,0 +1,141 @@
+- {id: about,                translation: О сайте}
+- {id: allPosts,             translation: Все посты блога}
+- {id: allPostsInSeries,     translation: 'Все посты рубрики «{{ . }}»'}
+- {id: archive,              translation: Архив}
+- {id: articles,             translation: Статьи}
+- {id: author,               translation: Автор}
+- {id: authoredBy,           translation: 'Автор:'}
+- {id: blog,                 translation: Блог}
+- {id: blogPosts,            translation: Посты в блоге}
+- {id: blogSubscribe,        translation: Подписаться}
+- {id: blogSubscribeCTA,     translation: Подписаться на обновления блога}
+- {id: blogSubtitle,         translation: Блог о жизни в Голландии}
+- {id: blogSubtitleAbout,    translation: и многом другом}
+- {id: blogTitle,            translation: Нидерланды и не только}
+- {id: codeRepo,             translation: 'репозиторий на {{ .name }}'}
+- {id: codeRepoIssueTracker, translation: '{{ .name }} Issue Tracker'}
+- {id: codeRepoIsTrkDetails, translation: Книга жалоб и предложений}
+- {id: comments,             translation: Комментарии}
+- {id: contact,              translation: Контакт}
+- {id: contents,             translation: Содержание}
+- {id: cookieDismiss,        translation: OK}
+- {id: cookieLink,           translation: Подробнее »}
+- {id: cookieMessage,        translation: Этот веб-сайт использует куки.}
+- {id: copied,               translation: Скопировано!}
+- {id: copyPermalink,        translation: Копировать постоянную ссылку на эту страницу}
+- {id: copyright,            translation: 'Авторское право ©2000—{{ .year }} [Дмитрий Канн]({{ .url }})'}
+- {id: details,              translation: Подробнее}
+- {id: docs,                 translation: Документация}
+- {id: download,             translation: Скачать}
+- {id: downloads,            translation: Скачать}
+- {id: error404Title,        translation: Страница не найдена.}
+- {id: error404Subtitle,     translation: 'Вы можете выбрать ссылку из меню выше, либо перейти на главную страницу сайта.'}
+- {id: errorEmailReq,        translation: 'Необходим корректный email-адрес.'}
+- {id: errorMessageReq,      translation: 'Пожалуйста, введите текст сообщения.'}
+- {id: errorNameReq,         translation: 'Ваше имя должно быть заполнено.'}
+- {id: faq,                  translation: FAQ}
+- {id: filter,               translation: Фильтр}
+- {id: fromAlbum,            translation: Из альбома}
+- {id: fullDocsAvail,        translation: Полная документация проекта доступна}
+- {id: glossary,             translation: Глоссарий}
+- {id: goHome,               translation: На главную страницу}
+- {id: home,                 translation: Главная}
+- {id: iAmLegend,            translation: Я легенда}
+- {id: inThisVideo,          translation: В этом видео}
+- {id: license,              translation: Лицензия}
+- {id: license_apache2,      translation: Apache License версии 2.0}
+- {id: license_gpl3,         translation: GNU General Public License версии 3}
+- {id: license_lgpl3,        translation: GNU Lesser General Public License версии 3}
+- {id: license_lgpl21,       translation: GNU Lesser General Public License версии 2.1}
+- {id: license_mit1,         translation: MIT License версии 1}
+- {id: license_mpl2,         translation: Mozilla Public License версии 2.0}
+- {id: license_mpl11,        translation: Mozilla Public License версии 1.1}
+- {id: listen,               translation: Слушать}
+- {id: map,                  translation: Карта}
+- {id: messageBody,          translation: Текст письма}
+- {id: messageSubject,       translation: Тема письма}
+- {id: more,                 translation: Ещё}
+- {id: moreToRead,           translation: Что ещё почитать}
+- {id: mySocialLinks,        translation: Мои соцсети}
+- {id: noContentCurLang,     translation: 'Содержимое на русском недоступно.<br><br><big>¯\_(ツ)_/¯</big><br><br>Попробуйте выбрать другой язык в верхнем меню.'}
+- {id: numPages,             translation: {one: '{{ .Count }} страница', few: '{{ .Count }} страницы', many: '{{ .Count }} страниц'}}
+- {id: numVideos,            translation: {one: '{{ .Count }} видео', few: '{{ .Count }} видео', many: '{{ .Count }} видео'}}
+- {id: once-to,              translation: once.to}
+- {id: pageSource,           translation: Исходный код страницы}
+- {id: paginatorNext,        translation: Следующая страница}
+- {id: paginatorPrevious,    translation: Предыдущая страница}
+- {id: poetryAndLyrics,      translation: Стихи и тексты песен}
+- {id: post,                 translation: Пост}
+- {id: postedInSeries,       translation: 'Подборка:'}
+- {id: postIn_en,            translation: на английском}
+- {id: postIn_nl,            translation: на голландском}
+- {id: postIn_ru,            translation: на русском}
+- {id: postInLangs,          translation: Этот пост}
+- {id: postNext,             translation: Следующий пост}
+- {id: postPermalink,        translation: Постоянная ссылка на пост}
+- {id: postPrev,             translation: Предыдущий пост}
+- {id: posts_en,             translation: Посты на английском}
+- {id: posts_nl,             translation: Посты на голландском}
+- {id: posts_ru,             translation: Посты на русском}
+- {id: postsAllLangs,        translation: Посты на всех языках}
+- {id: postsCurLang,         translation: Посты на русском}
+- {id: postsOtherLangs,      translation: Посты на других языках}
+- {id: poweredByOnceTo,      translation: 'Сделано с помощью [![once.to](/images/logos/onceto-logo-link.svg) — самого быстрого сокращателя ссылок](https://yktoo.me/once).'}
+- {id: privacyPolicy,        translation: Политика приватности}
+- {id: radiolaria,           translation: Радиолярия}
+- {id: readInBlog,           translation: Читать в моём блоге »}
+- {id: readingTime,          translation: {one: 'Чтение на минуту', few: 'Чтение на {{ .Count }}&nbsp;мин', many: 'Чтение на {{ .Count }}&nbsp;мин'}}
+- {id: readOn,               translation: Далее »}
+- {id: readOnAt,             translation: Читать далее на}
+- {id: releaseData,          translation: Информация}
+- {id: releasedOn,           translation: 'Опубликовано:'}
+- {id: search,               translation: Поиск}
+- {id: seeAll,               translation: Показать все »}
+- {id: seeAlso,              translation: См. также}
+- {id: series,               translation: Подборка}
+- {id: seriesFeatured,       translation: Самое интересное}
+- {id: seriesOther,          translation: Прочие подборки}
+- {id: seriesPlural,         translation: Подборки}
+- {id: share,                translation: Поделиться}
+- {id: shareOn,              translation: 'Поделиться на {{ . }}'}
+- {id: showChords,           translation: С аккордами}
+- {id: software,             translation: Программы}
+- {id: softwareActive,       translation: Поддерживаемое ПО}
+- {id: softwareArchived,     translation: Архивное ПО}
+- {id: sourceCode,           translation: Исходный код}
+- {id: sourceCodeClone,      translation: 'Чтобы загрузить самую новую версию исходных кодов, склонируйте мой'}
+- {id: statsAllPages,        translation: Всего страниц на сайте}
+- {id: statsBlogPages,       translation: Из них постов блога}
+- {id: statsBuildDate,       translation: Дата последнего обновления}
+- {id: statsCurLangPages,    translation: Из них на русском}
+- {id: statsCurLangWords,    translation: Количество слов на русских страницах}
+- {id: submit,               translation: Отправить}
+- {id: subscribeByEmail,     translation: Подписаться по емэйлу}
+- {id: subscribeByRSS,       translation: Лента в формате RSS}
+- {id: subscribeInFeedly,    translation: Подписаться в Feedly}
+- {id: subscribeInTgram,     translation: Подписаться в Телеграм}
+- {id: subscribeSocial,      translation: Подписаться в соцсетях}
+- {id: subscribeToUpdates,   translation: Подписаться на обновления}
+- {id: support,              translation: Поддержка}
+- {id: tag,                  translation: Тег}
+- {id: tags,                 translation: Теги}
+- {id: termsOfService,       translation: Условия предоставления услуг}
+- {id: timeline,             translation: Хронология}
+- {id: tracklist,            translation: Композиции альбома}
+- {id: viaThisLink,          translation: по этой ссылке}
+- {id: videoEvInCategory,    translation: В}
+- {id: videoFromEvent,       translation: Из}
+- {id: videos,               translation: Видео}
+- {id: videosByArtist,       translation: Видео по участникам}
+- {id: videosByCategory,     translation: Видео по категориям}
+- {id: videosOfEvent,        translation: Все видео события}
+- {id: whereThisWas,         translation: Где это}
+- {id: withArtists,          translation: С участием}
+- {id: yourEmail,            translation: Ваш email-адрес}
+- {id: yourName,             translation: Ваше имя}
+
+- id: uaWarWarning
+  translation: >
+    В Украине идёт развязанная Россией война, в которой российские войска убивают, пытают, насилуют и грабят мирное
+    население страны. В данном блоге будут пресекаться любые комментарии, одобряющие или оправдывающие действия РФ в
+    Украине или соответствующую символику. Ищите для этого другие площадки.

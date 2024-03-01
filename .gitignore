@@ -1,0 +1,6 @@
+.hugo_build.lock
+*.iml
+/.idea/
+/node_modules
+/public/
+/resources/

@@ -1,0 +1,45 @@
+<!-- Single post item, which is displayed in a list -->
+<article class="blog-post" data-aos="fade-up">
+    <!-- Post heading -->
+    <h2><a href="{{ .Permalink }}">{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify }}</a></h2>
+
+    <!-- Post metadata -->
+    <div class="page-heading-meta">{{ partial "date" (dict "date" .Date "long" false) }}</div>
+
+    <!-- Post body -->
+    <div class="row blog-post-content">
+        <!-- Post image -->
+        <div class="col-xs-2 col-md-6 text-center mb-3 mb-md-0">
+            {{- $url := .Params.image }}
+            {{- $urlLink := $url }}
+            {{- with $url }}
+                {{- if findRE "^(/|http(s?)://)" $url }}
+                    {{- $url = replace $url "https://res.cloudinary.com/yktoo/image/upload/blog/" "https://res.cloudinary.com/yktoo/image/upload/t_s640/blog/" }}
+                {{- else }}
+                    {{- $url = ($.Page.Resources.GetMatch $url).RelPermalink }}
+                    {{- $urlLink = $url }}
+                {{- end -}}
+                <a href="{{ $urlLink }}" class="image-link image-popup" data-effect="mfp-with-zoom" data-lightbox="image-1">
+                    <img class="img-fluid blog-post-image" src="{{ $url }}" alt="Post image">
+                </a>
+                {{- with $.Params.imageCredit }}<p class="blog-post-image-credit">{{ . | markdownify }}</p>{{ end }}
+            {{- else -}}
+                <img class="img-fluid blog-post-image" src="/images/image-placeholder.png" alt="Post image">
+            {{- end -}}
+        </div>
+
+        <div class="col-xs-10 col-md-6">
+            <!-- Post summary. Use the explicit description, if any, otherwise the summary -->
+            {{- $summary := .Params.description | markdownify | default .Summary }}
+
+            <!-- Remove any figures (images) and divs (videos etc) -->
+            {{- $summary = $summary | replaceRE "(?s)<figure\\b.*?/figure>" "" | replaceRE "(?s)<div\\b.*/div>" "" | safeHTML }}
+
+            <!-- If there's at least one paragraph in the summary, render as is; otherwise wrap it in one -->
+            {{- if in ($summary | string) "<p>" }}{{ $summary }}{{ else }}<p>{{ $summary }}</p>{{ end }}
+
+            <!-- Read On link -->
+            <p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "readOn" }}</a></p>
+        </div>
+    </div>
+</article>

@@ -1,0 +1,28 @@
+{{ define "heading" }}<h1>{{ .Title }}</h1>{{ end }}
+
+{{ define "main" }}
+<!-- Artist description, if any -->
+{{ .Content }}
+
+<!-- List of video tracks -->
+<div class="list-group">
+    {{- range .Data.Pages }}
+    <div class="list-group-item list-group-item-iconized">
+        <!-- Video thumbnail -->
+        <div class="list-group-img"><img src="https://img.youtube.com/vi/{{ .Params.youtubeId }}/mqdefault.jpg" class="rounded" alt="Thumbnail"></div>
+
+        <div class="list-group-text">
+            <!-- Title -->
+            <div class="list-group-heading"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+
+            <!-- Event -->
+            {{- with .Params.videoevents }}{{ with $.GetPage (print "/videoevents/" (urlize .)) }}
+            <div class="list-group-details">
+                {{- T "videoFromEvent" }}&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
+            </div>
+            {{- end }}{{ end }}
+        </div>
+    </div>
+    {{- end }}
+</div>
+{{ end }}

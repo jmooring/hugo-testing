@@ -1,0 +1,249 @@
+{{- define "title" }}{{ with .Params.series }}{{ with index $.Site.Taxonomies.series . }}{{ .Page.Title }} ‣ {{ end }}{{ end }}{{ .Title | markdownify | plainify | safeHTML }} | {{ .Site.Title }}{{ end }}
+
+{{- define "schema-dot-org" }}
+<!-- Basic properties -->
+{{- $ld := dict "@context" "http://schema.org" "@type" "BlogPosting" "headline" (substr (.Title | markdownify | plainify) 0 110) "url" .Permalink "wordCount" .WordCount "mainEntityOfPage" true}}
+{{- with .Params.image }}
+    {{- $ld_img := dict "@type" "ImageObject" }}
+    {{- if findRE "^(/|http(s?)://)" . }}
+        {{- $ld_img = merge $ld_img (dict "url" (. | absURL)) }}
+    {{- else }}{{ with $.Page.Resources.GetMatch . }}
+        {{- $ld_img = merge $ld_img (dict "url" .Permalink "height" .Height "width" .Width) }}
+    {{- end }}{{ end }}
+    {{- $ld = merge $ld (dict "image" $ld_img) }}
+{{- end }}
+<!-- Dates -->
+{{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
+{{- $ld = merge $ld (dict "datePublished" (cond .PublishDate.IsZero (.Date.Format $ISO8601) (.PublishDate.Format $ISO8601))) }}
+{{- if not .Lastmod.IsZero }}
+    {{- $ld = merge $ld (dict "dateModified" (.Lastmod.Format $ISO8601)) }}
+{{- end }}
+<!-- Author & Publisher -->
+{{- $ld_author := dict "@type" "Person" "name" (default .Site.Params.author .Params.author) }}
+{{- $ld_publisher := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "logo" (dict "@type" "ImageObject" "url" (absURL .Site.Params.logoUrl)) }}
+{{- $ld = merge $ld (dict "author" $ld_author "publisher" $ld_publisher) }}
+<!-- Keywords -->
+{{- if or (.Params.categories) (.Params.tags) }}
+    {{- $ld = merge $ld (dict "keywords" (union .Params.categories .Params.tags)) }}
+{{- end }}
+<!-- Description -->
+{{- $ld = merge $ld (dict "description" (default .Summary .Params.description | markdownify | plainify)) }}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+{{- end }}
+
+{{- define "secondary-navbar" }}
+<!-- Top previous-next post link bar -->
+<nav class="paginator-before" aria-label="Blog navigation">{{ partial "blog/post-nav" . }}</nav>
+{{- end }}
+
+{{- define "heading" }}
+<!-- Jumbotron -->
+<div class="row">
+    <div class="col-12 p-5 mb-3 text-center" id="blog-post-heading">
+        <!-- Post title -->
+        <h1 class="display-6">
+            {{- with .Params.series }}{{ with index $.Site.Taxonomies.series . -}}
+                {{- .Page.Title -}}
+                <span class="mx-2 text-muted">‣</span>
+            {{- end }}{{ end -}}
+            {{- .Title | markdownify -}}
+        </h1>
+
+        <!-- Post metadata -->
+        <div class="page-heading-meta">
+            <!-- Date -->
+            <a href="{{ print `/blog/post/` (.File.Dir | path.Base) | absLangURL }}" title="{{ T `postPermalink` }}">{{ partial "date" (dict "date" .Date "long" true) }}</a>
+
+            <!-- Author -->
+            <span class="dot-sep"></span>{{ T "authoredBy" }}&nbsp;{{ .Params.author | default .Site.Params.author }}
+
+            <!-- Time to read -->
+            <span class="dot-sep"></span>{{ T "readingTime" .ReadingTime | markdownify }}
+
+            <!-- Links to translations -->
+            {{- if .IsTranslated }}
+                <div>
+                {{- T "postInLangs" }}&nbsp;
+                {{- range $idx, $translation := .Translations }}
+                    <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-secondary" title="{{ .Title }}">{{ T (print "postIn_" .Lang) }}</a>
+                {{- end }}
+                </div>
+            {{- end }}
+        </div>
+    </div>
+</div>
+{{- end }}
+
+{{- define "main" }}
+{{- $page := . }}
+<article class="blog-post-single">
+    <div class="row">
+        <div class="col-md-9">
+            <!-- Table of contents, only on small screen -->
+            <section class="d-md-none article-toc">
+                <button type="button" class="btn btn-outline-secondary btn-collapse-toggler collapsed" data-bs-toggle="collapse"
+                        data-bs-target="#article-toc-body" aria-expanded="false"
+                        aria-controls="article-toc-body">
+                    <span class="me-2">{{ T "contents" }}</span>
+                    <i class="fas"></i>
+                </button>
+                <div class="collapse mt-3" id="article-toc-body">
+                    {{ .TableOfContents }}
+                    <ul>
+                        <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- Post content -->
+            <section class="blog-post-content" id="blog-post-content">
+                <!-- If there's a full-text link, output the content as is -->
+                {{- with .Params.fulltextUrl }}
+                    {{- $page.Content }}
+                    <!-- Full-text link -->
+                    <p><a href="{{ . }}" class="btn btn-primary">{{ T "readOnAt" }}&nbsp;{{ (urls.Parse .).Host }}</a></p>
+
+                {{- else }}
+                    <!-- Add a block full-stop to the content otherwise -->
+                    {{- .Content | replaceRE "([.!?…])</p>$" "$1 ■</p>" | safeHTML }}
+                {{- end }}
+
+                <!-- If the post is a part of a series, add a link to the latter -->
+                {{- with .Params.series }}{{ with index $.Site.Taxonomies.series . }}
+                <div class="mt-3 text-center">
+                    <a href="{{ .Page.RelPermalink }}" class="btn btn-outline-primary">
+                        <i class="fas fa-layer-group me-1"></i>
+                        {{- T "allPostsInSeries" .Page.Title -}}
+                    </a>
+                </div>
+                {{- end }}{{ end }}
+            </section>
+
+            <!-- Subscribe link -->
+            <section class="blog-subscribe-cta">
+                <div class="fw-bold">{{ T "blogSubscribeCTA" }}:</div>
+                <div class="button-row">
+                    <!-- Email -->
+                    <a class="btn icon-btn" href="{{ index .Site.Data.blog.subscribe.by_email_url .Language.Lang }}" title="{{ T `subscribeByEmail` }}">
+                        <i class="fas fa-envelope colourise"></i>
+                    </a>
+
+                    <!-- Telegram -->
+                    <a class="btn icon-btn" href="{{ index .Site.Data.blog.subscribe.by_telegram_url .Language.Lang }}" title="{{ T `subscribeInTgram` }}">
+                        <i class="fab fa-telegram colourise"></i>
+                    </a>
+
+                    <!-- RSS -->
+                    {{- with (.GetPage "/" ).OutputFormats.Get "RSS" }}
+                    <a class="btn icon-btn" href="{{ .Permalink }}" title="{{ T `subscribeByRSS` }}">
+                        <i class="fas fa-rss-square colourise"></i>
+                    </a>
+                    {{- end }}
+
+                    <!-- More -->
+                    <a class="btn btn-link" href="{{ relLangURL `/blog/subscribe` }}" role="button">
+                        {{- T "more" -}}
+                        <i class="fas fa-angles-right ms-1"></i>
+                    </a>
+                </div>
+
+                <div class="mt-4">{{ T "poweredByOnceTo" | markdownify }}</div>
+            </section>
+
+            <!-- Comments -->
+            <section class="blog-post-comments" id="blog-post-comments">
+                <h2>{{ T "comments" }}</h2>
+                <!-- Ukraine banner -->
+                {{/* partial "blog/ua-war-banner" . */}}
+                <!-- Do not insert comments block in drafts or when running on localhost -->
+                {{- if or .Draft (in (print $.Site.BaseURL) "localhost") }}
+                <div class="placeholder-box">(comments will go here)</div>
+                {{- else }}
+                <script defer src="{{ .Site.Params.comentarioUrl }}"></script>
+                <comentario-comments page-id="/blog/post/{{ path.Base .File.Dir }}"></comentario-comments>
+                {{- end }}
+            </section>
+        </div>
+        <aside class="col-md-3 article-sidebar">
+            <div class="sticky-md-top pt-3">
+                <!-- Links to other posts of same series, if any -->
+                {{- with .Params.series }}{{ with index $.Site.Taxonomies.series . }}
+                <section>
+                    <h5><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></h5>
+                    <ul>
+                        {{- range first 4 .Pages }}
+                            {{- if eq $page.RelPermalink .RelPermalink }}
+                            <li><b>{{ .Title | markdownify }}</b></li>
+                            {{- else }}
+                            <li><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
+                            {{- end }}
+                        {{- end }}
+                    </ul>
+                    {{- if gt (len .Pages) 7 }}<a href="{{ .Page.RelPermalink }}">{{ T "seeAll" }}</a>{{ end }}
+                </section>
+                {{- end }}{{ end }}
+
+                <!-- Table of contents, only on larger screen -->
+                <section class="d-none d-md-block">
+                    <h5>{{ T "contents" }}</h5>
+                    {{ .TableOfContents }}
+                    <ul>
+                        <li><a href="#blog-post-comments">{{ T "comments" }}</a></li>
+                    </ul>
+                </section>
+
+                <!-- Categories -->
+                {{- if .Params.categories }}
+                <section>
+                    <h5>{{ T "categories" }}</h5>
+                    {{- range $idx, $category := .Params.categories }}
+                    {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/categories/` (urlize .)) }}" rel="category tag">{{ . }}</a>
+                    {{- end }}
+                </section>
+                {{- end }}
+
+                <!-- Places -->
+                {{- with .Params.places }}
+                <section>
+                    <h5>{{ T "whereThisWas" }}</h5>
+                    <ul>
+                        {{- range . }}{{ with $page.GetPage (print `/places/` (urlize .)) }}
+                        <li><a href="https://maps.google.com/maps?z=17&t=m&q=loc:{{ .Params.latitude }}+{{ .Params.longitude }}">{{ .Title | markdownify }}</a></li>
+                        {{- end }}{{ end }}
+                    </ul>
+                </section>
+                {{- end }}
+
+                <!-- More to read -->
+                {{- with .Site.RegularPages.Related . }}
+                <section class="blog-post-more-to-read">
+                    <h5>{{ T "moreToRead" }}</h5>
+                    {{- range first 6 . }}{{ .Render "card" }}{{ end }}
+                </section>
+                {{- end }}
+
+                <!-- Tags -->
+                {{- if .Params.tags }}
+                <section>
+                    <h5>{{ T "tags" }}</h5>
+                    {{- range $idx, $tag := sort .Params.tags }}
+                    {{- if $idx }}, {{ end }}<a href="{{ relref $page (print `/tags/` (urlize .)) }}" rel="tag">{{ . }}</a>
+                    {{- end }}
+                </section>
+                {{- end }}
+            </div>
+        </aside>
+    </div>
+</article>
+{{ end }}
+
+{{- define "bottom-navbar" }}
+<!-- Sharing buttons -->
+<section id="page-sharing-buttons">
+    <div class="fw-bold">{{ T "share" }}:</div>
+    {{ partial "sharing-buttons" . }}
+</section>
+
+<!-- Bottom previous-next post link bar -->
+<nav class="paginator-after" aria-label="Blog navigation">{{ partial "blog/post-nav" . }}</nav>
+{{- end }}

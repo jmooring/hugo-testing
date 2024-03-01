@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+<head>
+    {{- partial "head-meta.html" . }}
+
+    {{- block "schema-dot-org" . }}{{ end }}
+
+    <!-- Link to self -->
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <!-- Favicon   -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{ `favicon.ico` | absURL }}"/>
+
+    <!-- Page title -->
+    <title>{{ block "title" . }}{{ with .Title }}{{ . | markdownify | plainify | safeHTML }} | {{ else }}{{ if .IsHome }}{{ T "blogTitle" }} | {{ i18n "blog" }} | {{ end }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+
+    <!-- Stylesheets -->
+    <link href="{{ (resources.Get `main.scss` | toCSS | minify).Permalink }}" rel="stylesheet">
+
+    <!-- RSS feed -->
+    {{ with .OutputFormats.Get "RSS" -}}
+        {{ printf "<link rel=%q type=%q href=%q title=%q/>" .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+
+    <!-- Google Analytics -->
+    {{- partial "google-analytics" . }}
+</head>
+<body>
+
+<!-- Scroll to top button -->
+<a href id="btn-scroll-to-top" class="fas fa-angle-up btn btn-secondary"></a>
+
+<!-- Page underlay with a background image -->
+<div class="main-container">
+
+    <!-- Header with a Navbar -->
+    {{- partial "navbar" . }}
+
+    <section id="page">
+        <!-- Breadcrumbs -->
+        {{- block "breadcrumbs" . }}
+        {{- partial "breadcrumbs" . }}
+        {{- end }}
+
+        <!-- Main page content -->
+        <div class="container-md">
+            <!-- Second-level Navbar -->
+            {{- block "secondary-navbar" . }}{{ end }}
+
+            <!-- Heading -->
+            {{- block "heading" . }}
+            {{- if .Params.showHeading }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+            {{- end }}
+
+            <!-- Main content -->
+            {{- block "main" . }}
+            {{- .Content }}
+            {{- end }}
+
+            <!-- Bottom Navbar -->
+            {{- block "bottom-navbar" . }}
+                {{- if not .Params.hideShareButtons }}
+                <!-- Sharing buttons -->
+                <section id="page-sharing-buttons">
+                    <div class="fw-bold">{{ T "share" }}:</div>
+                    {{ partial "sharing-buttons" . }}
+                </section>
+                {{- end }}
+            {{- end }}
+        </div>
+    </section>
+
+    {{ partial "footer" . }}
+</div>
+
+{{ partial "scripts" . }}
+{{ block "extra-scripts" . }}{{ end }}
+</body>
+</html>

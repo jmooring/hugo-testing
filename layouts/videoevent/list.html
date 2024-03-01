@@ -1,0 +1,54 @@
+{{ define "heading" }}
+<h1>{{ .Title }}</h1>
+<div class="page-heading-meta">
+    {{- T "videoEvInCategory" }}&nbsp;{{ .Params.videocategories | title }}
+    {{- if .Params.dateFrom }}
+        <span class="dot-sep"></span>{{ partial "date-range" (dict "dateFrom" (time .Params.dateFrom) "dateTo" (time .Params.dateTo) "long" false) }}
+    {{- end }}
+    {{- with .Params.location }}<span class="dot-sep"></span>{{ . }}{{ end }}
+</div>
+{{ end }}
+
+{{ define "main" }}
+<div class="row">
+    <!-- Event description, if any -->
+    {{ if or .Content .Params.posts }}
+    <div class="col-md-6">
+        {{ .Content }}{{ with .Params.posts }}<a href="{{ relref $ (print `/blog/posts/` .) }}" class="btn btn-primary">{{ T "readInBlog" }}</a>{{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Event image, if any -->
+    {{- with .Params.image }}
+    <div class="col-md-6">
+        <figure class="figure imgfig">
+            <a class="image-link image-popup" href="{{ . }}" data-effect="mfp-with-zoom" data-lightbox="image-1"><img src="{{ . }}" alt="Event image" class="figure-img img-fluid"></a>
+        </figure>
+    </div>
+    {{- end }}
+</div>
+
+<!-- List of video tracks -->
+<h2>{{ T "videosOfEvent" }}</h2>
+<div class="list-group">
+    {{- range $ixp, $track := .Data.Pages }}
+    <div class="list-group-item list-group-item-iconized">
+        <!-- Video thumbnail -->
+        <div class="list-group-img"><img src="https://img.youtube.com/vi/{{ .Params.youtubeId }}/mqdefault.jpg" class="rounded" alt="Thumbnail"></div>
+
+        <div class="list-group-text">
+            <!-- Title -->
+            <div class="list-group-heading"><a href="{{ $track.Permalink }}">{{ add $ixp 1 }}. {{ $track.Title }}</a></div>
+
+            <!-- Artists -->
+            {{- with $track.Params.videoartists }}
+            <div class="list-group-details">
+                {{- T "withArtists" }}&nbsp;
+                {{- range $idx, $artist := . }}{{ if $idx }}, {{ end }}<a href="{{ relref $ (print `/videoartists/` (urlize .)) }}">{{ $artist }}</a>{{ end -}}
+            </div>
+            {{- end }}
+        </div>
+    </div>
+    {{- end }}
+</div>
+{{ end }}

@@ -1,0 +1,7 @@
+<!-- Embed a video in a responsive container.
+     Syntax: video "URL" "<autostart | loop | etc>" [format: 4x3 16x9 etc] -->
+<div class="ratio ratio-{{ .Get 2 | default `4x3` }} mb-3" data-aos="fade-up">
+<video {{ .Get 1 | safeHTMLAttr }}>
+    <source src="{{ .Get 0 }}" type="video/mp4">
+</video>
+</div>

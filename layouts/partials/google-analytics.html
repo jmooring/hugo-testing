@@ -1,0 +1,10 @@
+<!-- Do not add the code when Google Analytics is disabled -->
+{{- if eq (os.Getenv "HUGO_DISABLE_GA") "" }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ .Site.GoogleAnalytics }}');
+    </script>
+{{- end }}

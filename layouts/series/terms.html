@@ -1,0 +1,51 @@
+{{ define "secondary-navbar" }}
+{{ partial "blog/navbar" . }}
+{{ end }}
+
+{{ define "main" }}
+<!-- Series list -->
+{{- range slice true false }}
+{{- $featured := . }}
+<h1>{{ cond $featured "seriesFeatured" "seriesOther" | T }}</h1>
+
+<div class="row">
+    {{- range $.Site.Taxonomies.series }}{{ if eq .Page.Params.featured $featured }}
+    <div class="col-md-6 col-lg-4">
+        <div class="card uni-height text-center">
+            <!-- Link overlay -->
+            <a href="{{ .Page.RelPermalink }}" class="card-link-overlay"></a>
+
+            <!-- Event image -->
+            <div class="top-image">
+                {{- $url := "/images/image-placeholder.png" }}
+                {{- range first 1 .Pages }}
+                    {{- $headingPage := . }}
+                    {{- with .Params.image }}
+                        {{- if findRE "^(/|http(s?)://)" . }}
+                            {{- $url = replace . "https://res.cloudinary.com/yktoo/image/upload/blog/" "https://res.cloudinary.com/yktoo/image/upload/t_s640/blog/" }}
+                        {{- else }}
+                            {{- $url = ($headingPage.Resources.GetMatch .).RelPermalink }}
+                        {{- end -}}
+                    {{- end }}
+                {{- end }}
+                <img src="{{ $url }}" alt="Series image">
+            </div>
+
+            <!-- Event body -->
+            <div class="card-body mb-5">
+                <!-- Name -->
+                <h5 class="card-title">{{ .Page.Title }}</h5>
+                <!-- Description -->
+                {{- with .Page.Params.description -}}
+                <p class="card-subtitle text-muted">{{ . | markdownify }}</p>
+                {{- end }}
+            </div>
+
+            <!-- Number of posts -->
+            <div class="card-footer">{{ T `numPages` (len .Pages) }}</div>
+        </div>
+    </div>
+    {{- end }}{{ end }}
+</div>
+{{- end }}
+{{ end }}

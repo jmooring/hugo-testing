@@ -1,0 +1,41 @@
+{{ define "heading" }}
+<!-- Jumbotron -->
+<div class="p-5 mb-4 text-center">
+    <div class="display-2">📑</div>
+    <h1 class="display-4">{{ .Title }}</h1>
+    <p class="lead">{{ .Params.subtitle }}</p>
+</div>
+{{ end }}
+
+{{ define "main" }}
+{{- with .Pages }}
+<section id="glossary">
+    <!-- Filter form -->
+    {{- partial "filter-form" }}
+
+    <!-- Iterate all glossary terms -->
+    {{- range sort . "Title" }}
+    <div class="filterable">
+        <h4><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>{{- with .Params.altTitles }} <small class="text-muted">({{ delimit . ", "}})</small>{{ end }}</h4>
+        <article class="ms-5">
+            {{- with default (markdownify .Params.description) .Summary }}
+                <!-- If there's at least one paragraph in description, render as is; otherwise wrap it in one -->
+                {{- if in (. | string) "<p>" }}{{ . }}{{ else }}<p>{{ . }}</p>{{ end }}
+            {{- end }}
+
+            <!-- Grab only the first page corresponding to the glossary term, if any -->
+            {{- with first 1 .Pages }}
+                {{- range . }}<p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "details" }}: {{ .Title | markdownify }}</a></p>{{ end }}
+            <!-- Check for detail link otherwise -->
+            {{- else }}{{ if .Truncated }}
+                <p><a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ T "details" }}</a></p>
+            {{- end }}{{ end }}
+        </article>
+    </div>
+    {{- end }}
+</section>
+{{- end }}
+
+<!-- Stub in case there' no content -->
+{{- partial "no-content-checker" .Pages }}
+{{ end }}

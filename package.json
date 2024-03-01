@@ -1,0 +1,36 @@
+{
+    "name": "yktoo.com",
+    "version": "2.0.0",
+    "description": "The source code of yktoo.com",
+    "main": "index.js",
+    "scripts": {
+        "backup": "./_dev_/cloudinary-backup -d",
+        "build": "hugo --gc --minify",
+        "clean": "rm -rf public",
+        "cy": "cypress open --e2e --browser chrome",
+        "cy:ci": "cypress run --config video=false",
+        "postbuild": "cp public/en/_redirects public/ && rm public/index.html",
+        "prebuild": "npm run clean",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "hugo server -DF"
+    },
+    "author": "Dmitry Kann",
+    "repository": "https://github.com/yktoo/yktoo.com",
+    "license": "CC-BY-NC-SA-4.0",
+    "comments": {
+        "dependencies": {},
+        "devDependencies": {}
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.5.1",
+        "aos": "^3.0.0-beta.6",
+        "bootstrap": "^5.3.2",
+        "cookieconsent": "^3.1.1",
+        "jquery": "^3.7.1",
+        "magnific-popup": "^1.1.0"
+    },
+    "devDependencies": {
+        "cypress": "^13.6.1",
+        "typescript": "^5.3.3"
+    }
+}

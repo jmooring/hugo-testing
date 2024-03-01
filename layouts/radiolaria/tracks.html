@@ -1,0 +1,18 @@
+{{ define "heading" }}<h1>{{ .Title | markdownify }}</h1>{{ end }}
+
+{{ define "main" }}
+<!-- Main content -->
+{{ .Content }}
+
+<!-- List of all tracks -->
+<section id="radiolaria-tracks">
+    <ol>
+        {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ol>
+</section>
+
+<!-- No content check -->
+{{ partial "no-content-checker" .Pages }}
+{{ end }}

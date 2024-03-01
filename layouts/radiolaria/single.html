@@ -1,0 +1,68 @@
+{{ define "heading" }}
+<h1>{{ .Title | markdownify }}</h1>
+<div class="page-heading-meta">
+    <!-- Author -->
+    {{- T "author" }}: {{ .Params.author }}
+
+    <!-- Album, if any -->
+    {{- with .Params.musicalbums }}{{ with $.GetPage (print "/musicalbums/" (urlize .)) }}{{ if .Params.isAlbum }}
+    · {{ T "fromAlbum" }} <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{- end }}{{ end }}{{ end }}
+</div>
+{{ end }}
+
+{{ define "main" }}
+<!-- Toolbar -->
+<section id="radiolaria-track-toolbar" class="d-grid gap-2 d-sm-block">
+    <!-- Chords button, if needed -->
+    {{ if .Params.hasChords }}
+    <a href id="btnChords" class="btn btn-outline-dark" onclick="toggleChords(event)"><i class="fas fa-music me-1"></i>{{ T "showChords" }}</a>
+    {{ end }}
+
+    {{ with .Params.mediaFileUrl }}
+    <!-- Listen button, if there's audio -->
+    <audio></audio>
+    <a href="{{ . }}" type="audio/mpeg" class="btn btn-outline-dark"><i class="fa playbtn me-1"></i>{{ T "listen" }}</a>
+
+    <!-- Download button -->
+    <a href="{{ . }}" class="btn btn-outline-dark"><i class="fas fa-download me-1"></i>{{ T "download" }}</a>
+    {{ end }}
+</section>
+
+<!-- Track lyrics -->
+<section id="radiolaria-track-lyrics">
+    {{- range split .RawContent "\n" }}
+        {{- $line := trim . " " -}}
+
+        <!-- Default lyrics text class -->
+        {{- $classes := slice "lyrics-text" -}}
+
+        <!-- '~' at the beginning of a line means an indent -->
+        {{- if hasPrefix $line "~" -}}
+            {{- $classes = $classes | append "indent" -}}
+            {{- $line = strings.TrimPrefix "~" $line -}}
+        {{- end -}}
+
+        <!-- '#' at the beginning of a line means it's a chord line -->
+        {{- if hasPrefix $line "#" -}}
+            {{- $classes = $classes | append "chord" -}}
+            {{- $line = strings.TrimPrefix "#" $line -}}
+        {{- end -}}
+
+        <!-- Render bold whatever is in square brackets -->
+        {{- if findRE "\\[.+\\]" $line -}}
+            {{- $classes = $classes | append "fw-bold" -}}
+            {{- $line = replaceRE "\\[(.+)\\]" "$1" $line -}}
+        {{- end -}}
+
+        <!-- Render italic whatever is surrounded by '*' -->
+        {{- if findRE "\\*.+\\*" $line -}}
+            {{- $classes = $classes | append "font-italic" -}}
+            {{- $line = replaceRE "\\*(.+)\\*" "$1" $line -}}
+        {{- end -}}
+
+        <!-- Render the line with its classes (replace empty line with a space) -->
+        <p class="{{ delimit $classes ` ` }}">{{ with $line }}{{ . | htmlEscape }}{{ else }}&nbsp;{{ end }}</p>
+    {{- end }}
+</section>
+{{ end }}

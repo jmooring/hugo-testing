@@ -1,0 +1,11 @@
+<!-- Renders a clickable link to the post and, if applicable, its series, prepended by language icons. -->
+{{- $page := . -}}
+
+<!-- Compile a list of languages the current page is translated to -->
+{{- $pageLangs := slice .Lang -}}
+{{- range .Translations }}{{ $pageLangs = $pageLangs | append .Lang }}{{ end -}}
+
+<!-- Output a post row -->
+{{- range $.Site.Languages }}<span class="post_{{ cond (in $pageLangs .Lang) .Lang `none` }}"></span>{{ end -}}&nbsp;
+{{- with .Params.series }}{{ with index $.Site.Taxonomies.series . }}<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ‣ {{ end }}{{ end -}}
+<a href="{{ .Permalink }}">{{ .Title | markdownify | plainify | safeHTML -}}</a>

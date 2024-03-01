@@ -1,0 +1,41 @@
+{{- $url := urls.Parse .Destination -}}
+{{/* If there's "http(s)://" given, just use it as is, and no internal class added */}}
+{{- if $url.Scheme -}}
+    <a href="{{ .Destination | safeURL }}">{{ .Text | safeHTML }}</a>
+{{- else -}}
+    {{/* Otherwise we consider it an internal link */}}
+    {{- $pageToLink := false -}}
+
+    {{/* If there's language given, iterate all sites to find the one with this language */}}
+    {{- if findRE "^(en|ru|nl);" $url.Path 1 -}}
+        {{- $lang := substr $url.Path 0 2 -}}
+        {{- range $.Page.Sites -}}
+            {{- if eq .Language.Lang $lang -}}
+                {{/* If a site is found, try to fetch the page */}}
+                {{- with .GetPage (substr $url.Path 3) }}{{ $pageToLink = . }}{{ end -}}
+            {{- end -}}
+        {{- end -}}
+
+    {{/* No language given: using the current site */}}
+    {{- else -}}
+
+        {{/* If there's a path present, use it to find the page */}}
+        {{- with $url.Path -}}
+            {{- with $.Page.GetPage . }}{{ $pageToLink = . }}{{ end -}}
+
+        {{/* Otherwise assume we're dealing with the current page */}}
+        {{- else -}}
+            {{- $pageToLink = $.Page -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{/* Check if we managed to find anything */}}
+    {{- with $pageToLink -}}
+        {{- $title := .Title -}}
+        {{/* If the page is a part of series, prepend its name tot the title */}}
+        {{- with .Params.series }}{{ with index $pageToLink.Site.Taxonomies.series . }}{{ $title = printf "%s ‣ %s" .Page.Title $title }}{{ end }}{{ end -}}
+        <a href="{{ .RelPermalink }}{{ with $url.Fragment }}#{{ . }}{{ end }}" class="internal" title="{{ $title }}">{{ $.Text | safeHTML | default $title }}</a>
+    {{- else -}}
+        {{- errorf "%s: Failed to find page for path %q (link text %q)" $.Page.File.Path .Destination .Text -}}
+    {{- end -}}
+{{- end -}}
