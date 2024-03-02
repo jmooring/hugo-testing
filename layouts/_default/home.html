@@ -12,4 +12,8 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ $test := index (where .Pages "Title" "ja") 0 }}
+  <pre>{{ jsonify (dict "indent" "  ") $test }}</pre>
+
 {{ end }}

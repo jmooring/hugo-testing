@@ -2,7 +2,7 @@
 
 Details: <https://github.com/gohugoio/hugo/issues/11827>
 
-Description:  jsonify of `@@DESCRIPTION@@hugolib.pageState{}` with Multilingal mode yields stack overflow
+Description: jsonify of &hugolib.pageState{} with Multilingal mode yields stack overflow
 
 ## Instructions
 
@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-github-issue-11827 https://github.com/jmooring
 cd hugo-github-issue-11827
 hugo server
 ```
+
+Then visit `http://localhost:1313/ja/`
