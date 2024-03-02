@@ -1,1 +1,1 @@
-<a href="{{ .Get 0 | absURL }}" class="btn {{ .Get 2 | default `btn-secondary` }}">{{ .Get 1 | markdownify }}</a>
+<a href="{{ .Get 0 | absURL }}" class="btn {{ .Get 2 | default `btn-secondary` }}">{{ .Get 1 | .Page.RenderString }}</a>
