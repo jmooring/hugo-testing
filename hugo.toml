@@ -1,3 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #48638'
+capitalizeListTitles = false
+disableKinds = ['page','rss','section','sitemap']

@@ -8,8 +8,61 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  <p><em>Test using Hugo v0.123.7 or later.</em></p>
+
+  <p>The number of terms in the two tables below differs by one because a hyphen
+    and a space are equivalent. For example, these terms are equivalent:
+  </p>
+  <ul>
+    <li><code>a b</code></li>
+    <li><code>a-b</code></li>
+  </ul>
+
+  <p>This table contains a list of the "tags" applied to the home page.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Counter</th>
+        <th>Tag assigned in front matter</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $k, $_ := .Params.Tags -}}
+        <tr>
+          <td><code>{{ add $k 1 }}</code></td>
+          <td><code>{{ . }}</code></td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+
+  <p>This table ranges through <code>site.Taxonomies.tags</code>.<br><code>capitalizeListTitles</code> is set to <code>false</code> in the site configuration.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th><code>Counter</code></th>
+        <th><code>Identifier</code></th>
+        <th><code>.RelPermalink</code></th>
+        <th><code>.LinkTitle</code></th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ $c := 1 }}
+      {{ range $term, $_ := site.Taxonomies.tags }}
+        <tr>
+          <td><code>{{ $c }}</code></td>
+          <td><code>{{ $term }}</code></td>
+          <td><code><a href="{{ .Page.RelPermalink }}">{{ .Page.RelPermalink }}</a></code></td>
+          <td><code>{{ .Page.LinkTitle }}</code></td>
+        </tr>
+        {{ $c = add $c 1 }}
+      {{ end }}
+    </tbody>
+  </table>
+
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
 {{ end }}
