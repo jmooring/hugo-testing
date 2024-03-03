@@ -1,11 +1,14 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ with .GetTerms "authors" }}
-    <p>Authors:
+
+  {{ with .GetTerms "tags" }}
+    <p>Tags:</p>
+    <ul>
       {{ range . }}
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        <li><p>term = {{ .Data.Term  | urlize }} <br> title from term page = <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p></li>
       {{ end }}
-    </p>
+    </ul>
   {{ end }}
+
   {{ .Content }}
 {{ end }}
