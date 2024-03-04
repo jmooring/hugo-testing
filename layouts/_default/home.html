@@ -12,4 +12,28 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  <table>
+    <thead>
+      <tr>
+        <th>Alias</th>
+        <th>URL</th>
+        <th>File path</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $p := site.AllPages }}
+        {{ if .File }}
+          {{ range .Aliases }}
+            <tr>
+              <td>{{ . }}</td>
+              <td>{{ $p.RelPermalink }}</td>
+              <td>{{ $p.File.Path }}</td>
+            </tr>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </tbody>
+  </table>
+
 {{ end }}
