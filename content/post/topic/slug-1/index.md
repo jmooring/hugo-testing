@@ -23,7 +23,7 @@ draft = false
 ## Page resource associated with a different page (Method A)
 
 Note that this site is served from the subdirectory "foo" so we need to preface
-the path below with the subdirectory.
+the path below with the subdirectory. This approach is very fragile; the link will break if you change the base URL, add `slug` or `url` to front matter, set `permalinks` in your site configuration, etc.
 
 ```text
 ![yet another kitten](/foo/post/topic/slug-2/images/c.jpg)
