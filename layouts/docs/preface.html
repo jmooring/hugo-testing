@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ $wordCount := 0 }}
+  {{ $readingTime := 0 }}
+  {{ range .FirstSection.Pages }}
+    {{ if not (.Eq $) }}
+      {{ $wordCount = add $wordCount .WordCount }}
+      {{ $readingTime = add $readingTime .ReadingTime }}
+    {{ end }}
+  {{ end }}
+
+  <hr>
+  <div>Total word count for other pages in this section: {{ $wordCount | lang.FormatNumber 0 }}</div>
+  <div>Total reading time for other pages in this section: {{ $readingTime | lang.FormatNumber 0 }} minutes</div>
+  <hr>
+
+  {{ .Content }}
+{{ end }}
