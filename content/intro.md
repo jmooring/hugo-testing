@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48663'
 description = "A glob-less cascade path doesn't find its target"
 +++
+
+This is content/intro.md

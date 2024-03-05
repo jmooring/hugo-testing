@@ -1,3 +1,20 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #48663'
+
+disableKinds = ['rss','sitemap']
+
+[[module.mounts]]
+source = "content"
+target = "content"
+
+[[module.mounts]]
+source = "content/intro.md"
+target = "content/_index.md"
+
+[[cascade]]
+[cascade.build]
+list = 'never'
+render = 'never'
+[cascade._target]
+path = '/intro'
