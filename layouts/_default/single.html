@@ -1,4 +1,25 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ $opts := dict
+    "color" "#000"
+    "linespacing" 12
+    "size" 24
+    "x" 20
+    "y" 20
+  }}
+
+  {{ $text := .Params.snippet }}
+
+  {{ $text := "This is a list:\n\n1. Item one\n2. Item two" }}
+
+  {{ $filters := slice (images.Process "resize 300x") (images.Text $text $opts) }}
+
+  {{ with resources.Get "images/original.jpg" }}
+    {{ with . | images.Filter $filters }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
 {{ end }}
