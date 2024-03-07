@@ -9,7 +9,10 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+
+  {{ range where site.RegularPages "CurrentSection.Path" "like" `/docs/v\d+\.\d+\.x` }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .CurrentSection.Title }}
   {{ end }}
+
 {{ end }}
