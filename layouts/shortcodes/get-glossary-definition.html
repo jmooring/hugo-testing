@@ -1,0 +1,12 @@
+{{- with .Get 0 | title }}
+  {{- with or
+    (index site.Data.glossaryitems .)
+    (index site.Data.glossaryitems (strings.TrimSuffix "s" .))
+  -}}
+    <span class="definition">{{ .definition }}</span>
+  {{- else }}
+    {{- errorf "The %q shortcode was unable to find the definition of %q. See %s" $.Name . $.Position }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional parameter: the term to look up. See %s" .Name .Position }}
+{{- end -}}

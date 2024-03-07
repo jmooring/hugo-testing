@@ -1,0 +1,11 @@
+{
+  "Foo": {
+    "definition": "This is the definition of foo."
+  },
+  "Bar": {
+    "definition": "This is the definition of bar."
+  },
+  "ABC": {
+    "definition": "This is the definition of ABC."
+  }
+}

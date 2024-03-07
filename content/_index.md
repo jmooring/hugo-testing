@@ -6,3 +6,23 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48702'
 description = "Break range loop"
 +++
+
+{{< get-glossary-definition foo >}}
+
+---
+
+{{< get-glossary-definition foos >}}
+
+---
+
+{{< get-glossary-definition Foo >}}
+
+---
+
+{{< get-glossary-definition Foos >}}
+
+---
+
+{{< get-glossary-definition ABC >}}
+
+---
