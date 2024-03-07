@@ -26,3 +26,23 @@ description = "Break range loop"
 {{< get-glossary-definition ABC >}}
 
 ---
+
+{{< get-glossary-definition abc >}}
+
+---
+
+{{< get-glossary-definition Abc >}}
+
+---
+
+{{< get-glossary-definition ABCs >}}
+
+---
+
+{{< get-glossary-definition abcs >}}
+
+---
+
+{{< get-glossary-definition Abcs >}}
+
+---

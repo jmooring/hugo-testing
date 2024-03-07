@@ -2,6 +2,8 @@
   {{- with or
     (index site.Data.glossaryitems .)
     (index site.Data.glossaryitems (strings.TrimSuffix "s" .))
+    (index site.Data.glossaryitems (strings.ToUpper .))
+    (index site.Data.glossaryitems (strings.ToUpper (strings.TrimSuffix "s" .)))
   -}}
     <span class="definition">{{ .definition }}</span>
   {{- else }}
