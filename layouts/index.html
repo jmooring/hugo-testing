@@ -1,0 +1,11 @@
+{{ with resources.ByType "text" }}
+  {{ with .Get "snippets/a.txt" }}
+    {{ .Publish }}
+  {{ end }}
+{{ end }}
+
+{{ with resources.Match "**" }}
+  {{ with .GetMatch "snippets/b.txt" }}
+    {{ .Publish }}
+  {{ end }}
+{{ end }}
