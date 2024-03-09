@@ -8,6 +8,28 @@
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
+    {{ with .AllTranslations }}
+      <nav class="language-switcher">
+        {{ range . }}
+          {{ if eq .Language.Lang $.Language.Lang }}
+            <a class="active" aria-current="page" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          {{ else }}
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
+    {{ with site.Menus.main }}
+      <nav class="menu">
+        {{ range . }}
+          {{ if $.IsMenuCurrent .Menu . }}
+            <a class="active" aria-current="page" href="{{ .URL }}">{{ .Name }}</a>
+          {{ else }}
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
     <hr>
   </header>
   <main>
