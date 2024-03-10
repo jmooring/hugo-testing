@@ -1,0 +1,10 @@
+{{ range .Params }}
+  {{ with (site.Taxonomies.categories.Get .) }}
+    <p><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></p>
+    <ul>
+      {{ range sort (where . "Section" "posts") "Date" "desc" | first 5 }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}

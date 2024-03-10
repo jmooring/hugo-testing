@@ -6,3 +6,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48748'
 description = "Can't seem to find an easy way to generate lists based on cateogories"
 +++
+
+```text
+{{</* foo T1 T3 */>}}
+```
+
+{{< foo T1 T3 >}}
