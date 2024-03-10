@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #48748'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-03-10T05:25:08-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/48748'
+description = "Can't seem to find an easy way to generate lists based on cateogories"
 +++
