@@ -1,0 +1,44 @@
+{{ define "main" }}[layouts/_default/term.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ with .GetTerms "tags" }}
+      <p>Tags:
+        {{ range . }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
+  {{ end }}
+
+  <hr>
+
+  <pre>
+    You should see this below:
+
+    tag-b (3)
+    tag-a (2)
+    tag-c (1)
+  </pre>
+
+
+  {{ $s := slice }}
+  {{ range site.Taxonomies.tags.ByCount }}
+    {{ if intersect $.Pages .Pages }}
+      {{ $s = $s | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $s = uniq $s }}
+
+  <ul>
+    {{ range $s }}
+      <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+    {{ end }}
+  </ul>
+
+
+
+
+
+{{ end }}
