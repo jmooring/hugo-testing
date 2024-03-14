@@ -1,4 +1,12 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <p>Date: {{ .Date.Format "2006-01-02" }}</p>
+  {{ with .GetTerms "tags" }}
+    <p>Tags:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
   {{ .Content }}
 {{ end }}
