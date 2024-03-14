@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #48828'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-03-14T05:55:28-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/48828'
+description = "Term pages get .Date from first page in list in 0.123.8"
 +++
