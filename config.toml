@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+title = 'Hugo Forum Topic #48861'
+disableKinds = ['rss','taxonomy','term']
+defaultContentLanguageInSubdir = true
