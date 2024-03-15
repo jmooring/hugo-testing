@@ -1,7 +1,18 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+{{ range $k, $_ := .Paginator.Pages }}
+  <h2><a id="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ range .Params.audio }}
+    <audio >
+      <source src="{{ . }}" preload="auto" type="audio/mp3">
+      Your browser doesn't support embedded audio.
+    </audio>
+    <a onclick="Play()" id="play"></a>
+    <script type="text/javascript" src="/js/play.js"></script>
   {{ end }}
+{{ end }}
+{{ template "_internal/pagination.html" . }}
+
 {{ end }}
