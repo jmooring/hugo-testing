@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #48849'
+disableKinds = ['home','rss','section','sitemap']
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+weight = 1
+
+[languages.de]
+weight = 2
+
+[taxonomies]
+tag = 'tags'
