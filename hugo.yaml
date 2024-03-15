@@ -1,0 +1,19 @@
+baseURL: https://example.org/
+title: My New Hugo Site
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+      wrapStandAloneImageWithinParagraph: false
+
+languages:
+  en: {languageName: English}
+
+module:
+  proxy: direct
+  hugoVersion: {extended: true}
+  imports:
+    - path: github.com/google/docsy
+      disable: false
