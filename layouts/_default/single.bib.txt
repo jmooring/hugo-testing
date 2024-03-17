@@ -1,0 +1,6 @@
+{{- range $headingID, $_ := .Fragments.HeadingsMap }}
+{{- printf "%s %s" (strings.Repeat .Level "#") .Title }}
+{{- range where ($.Store.Get "links") "headingID" $headingID }}
+{{ or .linkTitle .linkText }} : {{ .linkDestination }}
+{{- end }}
+{{ end -}}

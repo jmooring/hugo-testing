@@ -4,11 +4,13 @@ title = 'Hugo Forum Topic #48875'
 disableKinds = ['rss','sitemap','taxonomy','term']
 
 [outputs]
-page = ['html','csv']
-home = ['html','csv']
+page = ['html','bib']
 
 [outputformats.html]
 weight = 1 # This is really important, html must be rendered first!
 
-[outputformats.csv]
+[outputformats.bib]
+baseName = 'bib'
+isPlainText  =true
+mediaType = 'text/plain'
 weight = 2

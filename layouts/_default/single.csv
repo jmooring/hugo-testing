@@ -1,6 +1,0 @@
-{{- with .Store.Get "links" -}}
-"page","heading","destination"
-{{- range . }}
-"{{ .page }}","{{ .heading }}","{{ .destination }}"
-{{- end }}
-{{- end }}

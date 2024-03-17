@@ -10,5 +10,5 @@ description = "Header n° in Headings and HeadingsMap"
 To test:
 
 ```sh
-rm -rf public && hugo && cat public/index.csv
+rm -rf public && hugo && cat public/posts/post-1/bib.txt
 ```

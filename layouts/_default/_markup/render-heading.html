@@ -1,4 +1,4 @@
 <h{{ .Level }} id="{{ .Anchor }}">
   {{- .Text | safeHTML -}}
 </h{{ .Level }}>
-{{- .Page.Store.Set "heading" .PlainText -}}
+{{- .Page.Store.Set "heading" (dict "id" .Anchor "text" .Text "plainText" .PlainText) -}}

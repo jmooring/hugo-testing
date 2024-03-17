@@ -4,6 +4,14 @@
   {{- with .Text | safeHTML }}{{ . }}{{ end -}}
 </a>
 {{- with .Page.Store.Get "heading" -}}
-  {{- $m := dict "heading" . "destination" $.Destination "page" $.Page.Permalink -}}
+  {{- $m := dict
+    "headingID" .id
+    "headingPlainText" .plainText
+    "headingText" .text
+    "linkDestination" $.Destination
+    "linkPlainText" $.PlainText
+    "linkText" $.Text
+    "linkTitle" $.Title
+  -}}
   {{- $.Page.Store.Add "links" (slice $m) -}}
 {{- end -}}
