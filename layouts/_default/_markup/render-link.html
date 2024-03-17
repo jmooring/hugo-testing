@@ -1,0 +1,9 @@
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+>
+  {{- with .Text | safeHTML }}{{ . }}{{ end -}}
+</a>
+{{ with .Page.Store.Get "anchor" }}
+  (this link appears in section id {{ . }})
+{{ end }}
+{{- /* chomp trailing newline */ -}}
