@@ -4,6 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ $assetPath := "ts/main.ts" }}
+  {{ with resources.Get $assetPath }}
+    {{ $basename := path.BaseName .Name }}
+    {{ with . | js.Build | fingerprint }}
+      {{ $ext := path.Ext .Key }}
+      {{ $hash := crypto.FNV32a .Data.Integrity }}
+      {{ with resources.Copy (printf "%s-%d%s" $basename $hash $ext) . }}
+        <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get global asset %q" $assetPath }}
+  {{ end }}
+
 </head>
 <body>
   <header>
