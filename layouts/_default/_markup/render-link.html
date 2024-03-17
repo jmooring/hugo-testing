@@ -3,7 +3,7 @@
 >
   {{- with .Text | safeHTML }}{{ . }}{{ end -}}
 </a>
-{{ with .Page.Store.Get "anchor" }}
-  (this link appears in section id {{ . }})
-{{ end }}
-{{- /* chomp trailing newline */ -}}
+{{- with .Page.Store.Get "heading" -}}
+  {{- $m := dict "heading" . "destination" $.Destination "page" $.Page.Permalink -}}
+  {{- $.Page.Store.Add "links" (slice $m) -}}
+{{- end -}}

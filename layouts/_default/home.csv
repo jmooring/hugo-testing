@@ -1,0 +1,8 @@
+"page","heading","destination"
+{{- range site.Pages }}
+{{- with .Store.Get "links" }}
+{{- range . }}
+"{{ .page }}","{{ .heading }}","{{ .destination }}"
+{{- end }}
+{{- end }}
+{{- end }}

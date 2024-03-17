@@ -1,4 +1,4 @@
 <h{{ .Level }} id="{{ .Anchor }}">
   {{- .Text | safeHTML -}}
-  {{ .Page.Store.Set "anchor" .Anchor }}
 </h{{ .Level }}>
+{{- .Page.Store.Set "heading" .PlainText -}}
