@@ -18,3 +18,15 @@ description = "Header n° in Headings and HeadingsMap"
 [link-3](foo)
 
 [link-4](foo)
+
+### Section 2.1
+
+[link-5](foo)
+
+[link-6](foo)
+
+### Section 2.2
+
+[link-7](foo)
+
+[link-8](foo)
