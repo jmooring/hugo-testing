@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Resources.GetMatch "portrait.*" }}
+    {{ with .Fill "120x120 webp" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  {{ .Content }}
+
+  {{ with .Params.social }}
+    <p>Social networks:</p>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .link }}">{{ .service }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ with .Pages }}
+    <p>Publications:</p>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+{{ end }}

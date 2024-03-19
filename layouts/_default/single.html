@@ -1,4 +1,14 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <hr>
+  {{ partial "list-page-authors.html" . }}
+  <hr>
+  {{ with partial "get-first-page-author.html" . }}
+    <p>First page author: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
+    <p>First page author email: {{ .Params.contact.email }}</p>
+  {{ end }}
+  <hr>
+
   {{ .Content }}
 {{ end }}

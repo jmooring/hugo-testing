@@ -9,7 +9,15 @@ Description: .{Next,Prev}InSection should support and prefer weight to date
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b hugo-github-issue-2494 https://github.com/jmooring/hugo-testing hugo-github-issue-2494
-cd hugo-github-issue-2494
+git clone --single-branch -b hugo-forum-topic-48874 https://github.com/jmooring/hugo-testing hugo-forum-topic-48874
+cd hugo-forum-topic-48874
 hugo server
 ```
+
+Files of interest:
+
+- content/authors/*
+- layouts/partials/get-first-page-author.html
+- layouts/partials/get-first-site-author.html
+- layouts/partials/list-page-authors.html
+- layouts/partials/list-site-authors.html

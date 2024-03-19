@@ -1,3 +1,21 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #2494'
+title = 'Hugo Forum Topic #48874'
+
+[taxonomies]
+author = 'authors'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Authors'
+pageRef = '/authors'
+weight = 30

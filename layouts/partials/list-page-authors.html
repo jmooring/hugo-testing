@@ -1,0 +1,16 @@
+{{- $taxonomy := "authors" }}
+{{- with .GetTerms $taxonomy }}
+  {{- $label := "" }}
+  {{- if eq .Len 1 }}
+    {{- $label = (site.GetPage $taxonomy).Data.Singular }}
+  {{- else }}
+    {{- $label = (site.GetPage $taxonomy).Data.Plural }}
+  {{- end }}
+  <p>
+    {{- printf "Page %s:" $label }}
+    {{- range $k, $_ := . }}
+      {{- if $k }},{{ end }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{- end }}
+  </p>
+{{- end }}

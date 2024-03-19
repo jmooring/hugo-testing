@@ -8,8 +8,20 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  {{ partial "list-site-authors.html" . }}
+  <hr>
+  {{ with partial "get-first-site-author.html" . }}
+    <p>First site author: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
+    <p>First site author email: {{ .Params.contact.email }}</p>
+  {{ end }}
+  <hr>
+
   {{ .Content }}
-  {{ range site.RegularPages }}
+
+  {{ range site.RegularPages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+
 {{ end }}

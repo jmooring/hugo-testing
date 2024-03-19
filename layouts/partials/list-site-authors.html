@@ -1,0 +1,18 @@
+{{- $taxonomy := "authors" }}
+{{- with $p := site.GetPage $taxonomy }}
+  {{- with where $p.Pages "Params.siteAuthor" true }}
+    {{- $label := "" }}
+    {{- if eq .Len 1 }}
+      {{- $label = $p.Data.Singular }}
+    {{- else }}
+      {{- $label = $p.Data.Plural }}
+    {{- end }}
+    <p>
+      {{- printf "Site %s:" $label }}
+      {{- range $k, $_ := . }}
+        {{- if $k }},{{ end }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{- end }}
+    </p>
+  {{- end }}
+{{- end }}
