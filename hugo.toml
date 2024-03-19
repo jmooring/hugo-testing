@@ -1,3 +1,26 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #12278'
+disableKinds = ['rss','sitemap']
+
+[taxonomies]
+category = 'categories'
+
+[permalinks.page]
+posts = '/:year/:month/:day/:filename'
+
+[permalinks.taxonomy]
+categories = "/categorias"
+
+[permalinks.term]
+categories = "/categorias/:slug"
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
