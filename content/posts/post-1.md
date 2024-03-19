@@ -4,28 +4,30 @@ date = 2024-03-16T20:00:49-07:00
 draft = false
 +++
 
-## Section 1
+## What is an instinctive diet
 
-### Section 1.1
+[failure](https://google.fr "google")
 
-[link-1](https://google.com/link-1 "Title of Link 1")
+### Denatured molecules
 
-[link-2](https://google.com/link-2 "Title of Link 2")
+[diabetes](https://doi.org/10.1007/s11892-013-0453-1 "Vlassara, H., Uribarri, J. Advanced Glycation End Products (AGE) and Diabetes: Cause, Effect, or Both? (2014)")
 
-### Section 1.2
+[organ failure](https://doi.org/10.1155/2019/2746521 "Excessive Oxidative Stress Contributes to Increased Acute ER Stress Kidney Injury in Aged Mice (2019)")
 
-[link-3](https://google.com/link-3 "Title of Link 3")
+[with](https://doi.org/10.1007/s007020050069 "Alzheimer's disease – synergistic effects of glucose deficit, oxidative stress and advanced glycation endproducts (1998)")
 
-[link-4](https://google.com/link-4 "Title of Link 4")
+[without](https://doi.org/10.1016/j.mad.2011.10.007 "Serum concentration of an inflammatory glycotoxin, methylglyoxal, is associated with increased cognitive decline in elderly individuals (2011)")
 
-## Section 2
+### Criteria for a natural diet
 
-### Section 2.1
+### The importance of insects
 
-### Section 2.2
+[to be anything but a prey](https://www.amazon.com/Man-Hunted-Primates-Predators-Evolution/dp/0813339367)
 
-## Section 3
+[moving quickly from branches to branches (brachiation)](https://www.evolvemoveplay.com/movement-inspiration-8-14-14-brachiation/)
 
-[link-5](https://google.com/link-5)
+### Alcohol and sugar addiction
 
-[link-6](https://google.com/link-6)
+#### Drunken mammals
+
+[](www.doi.org/10.1098/rsos.150150 "Tools to tipple: ethanol ingestion by wild chimpanzees using leaf-sponges (2015)")
