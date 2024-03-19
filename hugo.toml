@@ -1,3 +1,40 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #12273'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[languages.es]
+contentDir = 'content/es'
+languageCode = 'es-ES'
+languageDirection = 'ltr'
+languageName = 'Español'
+weight = 2
+
+[[languages.en.menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[languages.es.menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.es.menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
