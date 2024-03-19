@@ -1,0 +1,15 @@
+{{ with .Get "src" }}
+  {{ $u := urls.Parse . }}
+  {{ if $u.IsAbs }}
+    {{ errorf "The src argument passed to the %q shortcode may not be an absolute URL. See %s" $.Name $.Position }}
+  {{ else }}
+    {{ with $.Page.Resources.Get $u.Path }}
+      {{ $src := (.Content | resources.FromString .Path).RelPermalink }}
+      <iframe src="{{ $src }}"{{ with $.Get "h" }}style="height: {{ . }}"{{ end }}>The <a href="{{ $src }}">embedded content</a> cannot be displayed.</iframe>
+    {{ else }}
+      {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $u.Path $.Position }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a src argument. See %s" .Name .Position }}
+{{ end }}
