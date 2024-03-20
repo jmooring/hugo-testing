@@ -1,0 +1,16 @@
+{{ with $dir := .Get "folder" }}
+  {{ $path := path.Join (path.Dir (strings.TrimPrefix hugo.WorkingDir $.Page.File.Filename)) $dir }}
+  {{ if os.FileExists $path }}
+    {{ $i := 0}}
+    {{ range os.ReadDir $path }}
+      {{ if .IsDir }}
+        {{ $i = add $i 1 }}
+      {{ end }}
+    {{ end }}
+    {{ printf "%s has %d child (not descendant) directories." $path $i }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $path $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a 'folder' argument. See %s" .Name .Position }}
+{{ end }}
