@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #48951'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-03-20T09:00:34-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/48951'
+description = "Hugo 0.123: module is not imported anymore"
 +++
