@@ -17,6 +17,7 @@ hugo server
 Files of interest:
 
 - content/authors/*
+- layouts/authors/term.html
 - layouts/partials/get-first-page-author.html
 - layouts/partials/get-first-site-author.html
 - layouts/partials/list-page-authors.html

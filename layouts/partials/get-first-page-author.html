@@ -1,3 +1,21 @@
+{{- /*
+Returns a reference to the first page author's term page.
+
+The first page author is determined by position in the .Params.authors front
+matter array.
+
+@param {page} The current page object.
+
+@returns {page} The first page author's term page.
+
+@example
+
+  {{ with partial "get-first-page-author.html" . }}
+    <p>First page author: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
+    <p>First page author email: {{ .Params.contact.email }}</p>
+  {{ end }}
+
+*/}}
 {{- $pageAuthor := "" }}
 {{- with .Params.authors }}
   {{- $pageAuthor = ((index site.Taxonomies.authors).Get (index . 0)).Page }}

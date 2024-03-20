@@ -2,7 +2,7 @@
 title = 'Post 1'
 date = 2024-03-19T10:59:20-07:00
 draft = false
-authors = ['jdoe','rsmith']
+authors = ['rsmith','jdoe','mjones']
 +++
 But the chief cause of our natural unwillingness to admit that one species has given birth to other and distinct species, is that we are always slow in admitting any great change of which we do not see the intermediate steps. The difficulty is the same as that felt by so many geologists, when Lyell first insisted that longlines of inland cliffs had been formed, and great valleys excavated, by the slow action of the coast-waves. The mind cannot possibly grasp the full meaning of the term of a hundred million years; it cannot add up and perceive the full effects of many slight variations, accumulated during an almost infinite number of generations.
 

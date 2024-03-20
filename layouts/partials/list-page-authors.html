@@ -1,3 +1,17 @@
+{{- /*
+Renders links to the page authors in a comma-separated list.
+
+The order is determined by position in the .Param.authors front matter array.
+
+@param {page} The current page object.
+
+@return {template.HTML}
+
+@example
+
+  {{ partial "list-page-authors.html" . }}
+
+*/}}
 {{- $taxonomy := "authors" }}
 {{- with .GetTerms $taxonomy }}
   {{- $label := "" }}

@@ -1,3 +1,18 @@
+{{- /*
+Renders links to the site authors in a comma-separated list.
+
+The order is determined by the default sort order of the author terms pages: by
+weight, by date (desc), by title, by file path.
+
+@param {page} The current page object.
+
+@return {template.HTML}
+
+@example
+
+  {{ partial "list-site-authors.html" }}
+
+*/}}
 {{- $taxonomy := "authors" }}
 {{- with $p := site.GetPage $taxonomy }}
   {{- with where $p.Pages "Params.siteAuthor" true }}

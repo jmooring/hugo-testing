@@ -9,9 +9,9 @@
     <hr>
   {{ end }}
 
-  {{ partial "list-site-authors.html" . }}
+  {{ partial "list-site-authors.html" }}
   <hr>
-  {{ with partial "get-first-site-author.html" . }}
+  {{ with partial "get-first-site-author.html" }}
     <p>First site author: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
     <p>First site author email: {{ .Params.contact.email }}</p>
   {{ end }}
