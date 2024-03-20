@@ -1,3 +1,38 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #48951'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[languages.fr]
+contentDir = 'content/fr'
+languageCode = 'fr-fr'
+languageDirection = 'ltr'
+languageName = 'Francais'
+weight = 2
+
+[[module.imports]]
+disable = false
+path = "github.com/aurelienpierreeng/ansel-doc"
+
+[[module.imports.mounts]]
+source = 'content/'
+target = 'content/doc/'
+lang= "en"
+
+[[module.imports.mounts]]
+source = 'content/'
+target = 'content/doc/'
+lang= "fr"
