@@ -1,6 +1,6 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | strings.FirstUpper }}'
-date = {{ .Date }}
+title = 'Post 006'
+date = 2024-03-21T11:30:33-07:00
 draft = false
 +++
 

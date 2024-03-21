@@ -1,4 +1,14 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ with .Prev }}
+  <a href="{{ .RelPermalink }}">Previous</a>
+  {{ end }}
+
+
+  {{ with .Next }}
+  <a href="{{ .RelPermalink }}">Next</a>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
