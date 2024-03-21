@@ -6,3 +6,21 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48955'
 description = "Unbundle a Page Bundle"
 +++
+
+This is content/_index.md
+
+```text
+content/
+├── about/
+│   ├── associations/
+│   │   ├── images/
+│   │   │   ├── featured.jpg
+│   │   │   └── something.jpg
+│   │   └── index.md
+│   ├── images/
+│   │   ├── featured.jpg
+│   │   └── something-else.jpg
+│   └── _index.md
+└── _index.md
+
+```

@@ -1,0 +1,14 @@
+{{ define "main" }} [layouts/about/list.html]
+  <h1>{{ .Title }}</h1>
+
+  <h2>Featured image</h2>
+  {{ with .Resources.GetMatch "**featured.*" }}
+    {{ with .Resize "300x webp" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  <h2>Page content</h2>
+  {{ .Content }}
+
+{{ end }}
