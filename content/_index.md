@@ -10,27 +10,27 @@ description = "Sharing .Scratch between shortcode outer and .Inner"
 {{% container %}}
 
 ```text
-{{%/* gallery cols="1" */%}}
+{{</* gallery cols="1" */>}}
 ![](calibration-after.jpg)
 ![](calibration-before.jpg)
-{{%/* /gallery */%}}
+{{</* /gallery */>}}
 ```
 
-{{% gallery cols="1" %}}
+{{< gallery cols="1" >}}
 ![](calibration-after.jpg)
 ![](calibration-before.jpg)
-{{% /gallery %}}
+{{< /gallery >}}
 
 ```text
-{{%/* gallery cols="2" */%}}
+{{</* gallery cols="2" */>}}
 ![](calibration-after.jpg)
 ![](calibration-before.jpg)
-{{%/* /gallery */%}}
+{{</* /gallery */>}}
 ```
 
-{{% gallery cols="2" %}}
+{{< gallery cols="2" >}}
 ![](calibration-after.jpg)
 ![](calibration-before.jpg)
-{{% /gallery %}}
+{{< /gallery >}}
 
 {{% /container %}}

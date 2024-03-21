@@ -3,27 +3,3 @@ title = '{{ replace .File.ContentBaseName "-" " " | strings.FirstUpper }}'
 date = {{ .Date }}
 draft = false
 +++
-
-```text
-{{%/* gallery cols="1" */%}}
-![](calibration-after.jpg)
-![](calibration-before.jpg)
-{{%/* /gallery */%}}
-```
-
-{{% gallery cols="1" %}}
-![](calibration-after.jpg)
-![](calibration-before.jpg)
-{{% /gallery %}}
-
-```text
-{{%/* gallery cols="2" */%}}
-![](calibration-after.jpg)
-![](calibration-before.jpg)
-{{%/* /gallery */%}}
-```
-
-{{% gallery cols="2" %}}
-![](calibration-after.jpg)
-![](calibration-before.jpg)
-{{% /gallery %}}
