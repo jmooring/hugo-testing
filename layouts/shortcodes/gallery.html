@@ -1,0 +1,9 @@
+{{ $p := .Page }}
+{{ $cols := int (.Get "cols") }}
+{{ $p.Store.Set "columns" $cols }}
+
+<div class="gallery gallery-cols-{{ $cols }}">
+{{- print .Inner | $p.RenderString  -}}
+</div>
+
+{{ $p.Store.Delete "columns" }}

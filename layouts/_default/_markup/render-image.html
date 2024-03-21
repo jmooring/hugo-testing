@@ -1,0 +1,17 @@
+{{ $image := resources.Get .Destination }}
+{{ $cols := .Page.Store.Get "columns" | default 0 }}
+{{ $sizes := site.Params.Images.sizes }}
+
+{{ if eq $cols 1 }}
+  {{ $sizes = "(max-width: 992px) 100vw, (max-width: 1200px) 66.67vw, 50vw" }}
+{{ else if eq $cols 2 }}
+  {{ $sizes = "(max-width: 140px) 100vw, (max-width: 992px) 50vw, (max-width: 1200px) 33.33vw, 25vw" }}
+{{ end }}
+
+<img src={{ $image.RelPermalink }} alt="image"
+    decoding="async" loading="lazy"
+    sizes="{{ $sizes }}"
+    width="{{ $image.Width }}" height="{{ $image.Height }}"
+  />
+
+<p>$sizes = {{ $sizes }}= </p>
