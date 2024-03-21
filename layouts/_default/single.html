@@ -5,7 +5,10 @@
   {{ .TableOfContents }}
 
   <h3>jsonify .Fragments.Headings</h3>
-  <pre>{{ .Fragments.Headings | jsonify (dict "indent" " ") }}</pre>
+
+  {{ with .Fragments }}
+    <pre>{{ .Headings | jsonify (dict "indent" " ") }}</pre>
+  {{ end }}
 
   {{ .Content }}
 {{ end }}
