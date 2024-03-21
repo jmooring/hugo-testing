@@ -6,3 +6,31 @@ draft = false
 details = 'https://discourse.gohugo.io/t/48968'
 description = "Sharing .Scratch between shortcode outer and .Inner"
 +++
+
+{{% container %}}
+
+```text
+{{%/* gallery cols="1" */%}}
+![](calibration-after.jpg)
+![](calibration-before.jpg)
+{{%/* /gallery */%}}
+```
+
+{{% gallery cols="1" %}}
+![](calibration-after.jpg)
+![](calibration-before.jpg)
+{{% /gallery %}}
+
+```text
+{{%/* gallery cols="2" */%}}
+![](calibration-after.jpg)
+![](calibration-before.jpg)
+{{%/* /gallery */%}}
+```
+
+{{% gallery cols="2" %}}
+![](calibration-after.jpg)
+![](calibration-before.jpg)
+{{% /gallery %}}
+
+{{% /container %}}
