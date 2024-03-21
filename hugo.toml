@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12290'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'mytheme'
+relativeURLs = "true"
+uglyURLs = "true"
+
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+[markup.goldmark.renderHooks.link]
+enableDefault = true
