@@ -1,4 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <h3>Hugo's .Page.TableOfContents method</h3>
+  {{ .TableOfContents }}
+
+  <h3>jsonify .Fragments.Headings</h3>
+  <pre>{{ .Fragments.Headings | jsonify (dict "indent" " ") }}</pre>
+
   {{ .Content }}
 {{ end }}
