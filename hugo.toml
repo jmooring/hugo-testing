@@ -12,3 +12,4 @@ title = 'Hugo GitHub Issue #10894'
           inline = [['$', '$'], ['\(', '\)']]
 [params]
   math = true
+  engine = 'MathJax' # MathJax or KaTeX (case-insensitive)

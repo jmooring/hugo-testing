@@ -6,17 +6,16 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
   {{ partialCached "css.html" . }}
   {{ if .Param "math" }}
-    {{ partialCached "math.html" . }}
+    {{ if eq (lower site.Params.engine) "mathjax" }}
+      {{ partialCached "mathjax.html" . }}
+    {{ else if eq (lower site.Params.engine) "katex" }}
+      {{ partialCached "katex.html" . }}
+    {{ else }}
+      {{ errorf "Unknown JavaScript display engine. Expected MathJax or KaTeX." }}
+    {{ end }}
   {{ end }}
 </head>
-
-{{/* Handle flash of unstyled content. */}}
-{{ if .Param "math" }}
-  <body style="display: none">
-{{ else }}
-  <body>
-{{ end }}
-
+<body>
   <header>
     <h1>{{ site.Title }}</h1>
     <hr>
