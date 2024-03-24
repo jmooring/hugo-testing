@@ -4,10 +4,10 @@ title = 'Hugo Forum Topic #49013'
 disableKinds = ['rss','sitemap','taxonomy','term']
 
 [[segments.root.excludes]]
-path = '/blog/**'
+path = '{/blog,/blog/**}'
 
 [[segments.blog.includes]]
-path = '/blog/**'
+path = '{/blog,/blog/**}'
 
 [[menus.main]]
 name = 'Home'
@@ -20,8 +20,8 @@ pageRef = '/blog'
 weight = 20
 
 [[menus.main]]
-name = 'Product'
-pageRef = '/product'
+name = 'Products'
+pageRef = '/products'
 weight = 30
 
 [[menus.main]]

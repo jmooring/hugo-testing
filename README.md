@@ -11,5 +11,8 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-forum-topic-49013 https://github.com/jmooring/hugo-testing hugo-forum-topic-49013
 cd hugo-forum-topic-49013
-hugo server
+npm ci
+rm -rf public && hugo -e root && hugo -e blog && npx serve public
 ```
+
+Then visit `http://localhost:3000/`
