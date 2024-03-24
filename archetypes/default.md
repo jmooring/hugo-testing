@@ -1,5 +1,4 @@
-+++
-title = '{{ replace .File.ContentBaseName "-" " " | strings.FirstUpper }}'
-date = {{ .Date }}
-draft = false
-+++
+---
+title: '{{ replace .File.ContentBaseName "-" " " | strings.FirstUpper }}'
+menu: main
+---
