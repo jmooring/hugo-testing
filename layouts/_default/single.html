@@ -1,4 +1,5 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-{{ end }}
+{{ $noop := .Content }}
+{{ $r := resources.Get "a.txt" }}
+{{ $r = resources.Copy "/p1/b.txt" $r }}
+{{ $r.RelPermalink }}
+{{/* In the above, no errors you remove line 1. */}}
