@@ -1,0 +1,16 @@
+baseURL: 'https://example.org/'
+languageCode: en-US
+title: 'Hugo Forum Topic #49050'
+
+disableKinds:
+  - rss
+  - sitemap
+  - taxonomy
+  - term
+
+module:
+  mounts:
+    - source: project-a/content
+      target: content
+    - source: content
+      target: content
