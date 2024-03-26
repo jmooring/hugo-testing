@@ -1,0 +1,12 @@
+{{/* Issue 10412 */}}
+{{- with resources.Get "a.jpg" }}
+  {{- with .Resize "200x" | resources.Copy "a.jpg" }}
+    <img src="{{- .RelPermalink }}" width="{{- .Width }}" height="{{- .Height }}">
+  {{- end }}
+{{- end }}
+
+{{/* Issue 12310 */}}
+{{- $nilResource := resources.Get "b.txt" }}
+{{- $r := resources.Get "a.txt" }}
+{{- $r = resources.Copy "b.txt" $r }}
+{{- $r.RelPermalink }}
