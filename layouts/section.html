@@ -1,0 +1,9 @@
+{{ with .Resources.Get "b.txt" }}
+  Original: {{ .RelPermalink }}
+  {{ with . | resources.Copy "d3/b-copy-1.txt" }}
+    Copy to relative path: {{ .RelPermalink }}
+  {{ end }}
+  {{ with . | resources.Copy "/d4/b-copy-2.txt" }}
+    Copy to absolute path: {{ .RelPermalink }}
+  {{ end }}
+{{ end }}
