@@ -4,6 +4,36 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    .inline-anchor-erb {
+      padding: 10px;
+      background-color: yellow;
+    }
+    .inline-anchor-haml {
+      padding: 10px;
+      background-color: pink;
+    }
+    .inline-anchor-handlebars {
+      padding: 10px;
+      background-color: lime;
+    }
+    .inline-anchor-slim {
+      padding: 10px;
+      background-color: cyan;
+    }
+    .inline-image-erb {
+      border: 10px solid red;
+    }
+    .inline-image-haml {
+      border: 10px solid purple;
+    }
+    .inline-image-handlebars {
+      border: 10px solid #666;
+    }
+    .inline-image-slim {
+      border: 10px solid green;
+    }
+  </style>
 </head>
 <body>
   <header>
