@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #49103
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/49103>
 
-Description: @@DESCRIPTION@@
+Description: Using images from param
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-49103 https://github.com/jmooring/hugo-testing hugo-forum-topic-49103
+cd hugo-forum-topic-49103
 hugo server
 ```
