@@ -4,6 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ with or (resources.Get .Params.cover) (resources.Get site.Params.coverImg.og) }}
+    {{ with .Fill "1200x630" }}
+      <meta property="og:image" content="{{ .RelPermalink }}">
+    {{ end }}
+    {{ with .Fill "1200x675" }}
+      <meta property="twitter:image" content="{{ .RelPermalink }}">
+    {{ end }}
+  {{ end }}
+
 </head>
 <body>
   <header>
