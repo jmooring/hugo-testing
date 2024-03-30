@@ -20,7 +20,7 @@ Install Ruby, Asciidoctor, and the gems required for AsciiDoc converter template
 
 ```text
 sudo apt install ruby ruby-dev
-gem install --user-install asciidoctor concurrent-ruby tilt tilt-handlebars
+gem install --user-install asciidoctor rouge concurrent-ruby tilt tilt-handlebars
 ```
 
 Add this section to $HOME/.bashrc:

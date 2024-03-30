@@ -1,1 +1,16 @@
-<img alt="{{alt}}" class="inline-image-handlebars" src="{{target}}"  {{#if attributes.title}}title="{{attributes.title}}"{{/if}}>
+<img
+  class="inline-image-handlebars"
+  src="{{target}}"
+  {{#with attributes.alt}}
+    alt="{{this}}"
+  {{/with}}
+  {{#with attributes.width}}
+    width="{{this}}"
+  {{/with}}
+  {{#with attributes.height}}
+    height="{{this}}"
+  {{/with}}
+  {{#with attributes.title}}
+    title="{{ this }}"
+  {{/with}}
+>

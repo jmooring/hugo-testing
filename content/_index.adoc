@@ -6,3 +6,24 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/12314'
 description = "Allow to pass Asciidoctor converter templates"
 +++
+
+## Link converter template
+
+```text
+https://gohugo.io[This is a link,title="Hugo rocks!"]
+```
+
+If the inline_anchor converter template is working, the link background will be
+yellow. Mouseover to see the `title` attribute.
+
+https://gohugo.io[This is a link,title="Hugo rocks!"]
+
+## Image converter template
+
+```text
+image:a.jpg[A kitten,300,200,title=This is my kitten!]
+```
+If the inline_anchor converter template is working, the image border will be
+20 px and purple. Mouseover to see the `title` attribute.
+
+image:a.jpg[A kitten,300,200,title=This is my kitten!]

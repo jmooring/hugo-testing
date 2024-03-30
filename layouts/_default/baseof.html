@@ -5,33 +5,19 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
   <style>
-    .inline-anchor-erb {
-      padding: 10px;
-      background-color: yellow;
-    }
-    .inline-anchor-haml {
-      padding: 10px;
-      background-color: pink;
+    body {
+      font-family: sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 0 1rem 3rem;
+      max-width: 768px;
     }
     .inline-anchor-handlebars {
       padding: 10px;
-      background-color: lime;
-    }
-    .inline-anchor-slim {
-      padding: 10px;
-      background-color: cyan;
-    }
-    .inline-image-erb {
-      border: 10px solid red;
-    }
-    .inline-image-haml {
-      border: 10px solid purple;
+      background-color: yellow;
     }
     .inline-image-handlebars {
-      border: 10px solid #666;
-    }
-    .inline-image-slim {
-      border: 10px solid green;
+      border: solid 20px purple;
     }
   </style>
 </head>
