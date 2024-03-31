@@ -1,0 +1,32 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    asciidoctor (2.0.22)
+    concurrent-ruby (1.2.3)
+    handlebars-engine (0.3.3)
+      handlebars-source
+      mini_racer
+    handlebars-source (4.7.8)
+    json (2.7.1)
+    libv8-node (18.19.0.0-x86_64-linux)
+    mini_racer (0.9.0)
+      libv8-node (~> 18.19.0.0)
+    rouge (4.2.1)
+    tilt (2.3.0)
+    tilt-handlebars (2.0.0)
+      handlebars-engine
+      tilt (>= 1.3)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  asciidoctor
+  concurrent-ruby
+  json
+  rouge
+  tilt
+  tilt-handlebars
+
+BUNDLED WITH
+   2.2.33

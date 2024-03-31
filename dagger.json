@@ -1,0 +1,6 @@
+{
+  "name": "hugo-github-issue-12314",
+  "sdk": "go",
+  "source": "dagger",
+  "engineVersion": "v0.10.2"
+}

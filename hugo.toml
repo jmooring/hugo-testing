@@ -11,3 +11,6 @@ templateEngine = 'handlebars'
 rouge-css = 'style'
 rouge-style = "monokai"
 source-highlighter = "rouge"
+
+[security.exec]
+allow = ['^go$', '^npx$', '^asciidoctor$']
