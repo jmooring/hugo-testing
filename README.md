@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #12320
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/12320>
 
-Description: @@DESCRIPTION@@
+Description: resource "leaking" in multilingual multiple-host site since 0.123
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-12320 https://github.com/jmooring/hugo-testing hugo-github-issue-12320
+cd hugo-github-issue-12320
 hugo server
 ```
