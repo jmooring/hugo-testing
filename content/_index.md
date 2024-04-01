@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #49094'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-04-01T15:54:03-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/49094'
+description = "Functional testing harness for templates / partials"
 +++
