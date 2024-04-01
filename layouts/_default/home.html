@@ -9,7 +9,54 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+
+  <h2>Example 1</h2>
+
+  {{ $s := `
+{{ with .GetTerms "tags" }}
+  <p>Tags:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}`
+}}
+
+  {{ highlight (trim $s "\n\r") "go-html-template" }}
+
+  {{ with .GetTerms "tags" }}
+    <p>Tags:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
   {{ end }}
+
+  <h2>Example 2</h2>
+
+  {{ $s := `
+{{ with .Params.tags }}
+  <p>Tags:
+    {{ range . }}
+      {{ with site.Taxonomies.tags.Get . }}
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+      {{ end }}
+    {{ end }}
+  </p>
+{{ end }}`
+}}
+
+  {{ highlight (trim $s "\n\r") "go-html-template" }}
+
+  {{ with .Params.tags }}
+    <p>Tags:
+      {{ range . }}
+        {{ with site.Taxonomies.tags.Get . }}
+            <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+        {{ end }}
+      {{ end }}
+    </p>
+  {{ end }}
+
 {{ end }}

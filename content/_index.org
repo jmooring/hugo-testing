@@ -1,0 +1,10 @@
+#+TITLE: Hugo GitHub Issue #12319
+#+DETAILS: https://github.com/gohugoio/hugo/issues/12319
+#+DESCRIPTION: Accumulation of org keywords do not work correctly for taxonomies when there's only one term
+#+TAGS: red
+
+Front matter
+
+#+BEGIN_SRC text
+#+TAGS[]: red
+#+END_SRC text
