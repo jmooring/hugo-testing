@@ -1,15 +1,45 @@
 {{ define "main" }}
-  {{ with .Params.details }}
-    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+
+  {{ $tests := slice }}
+  {{ range where site.RegularPages.ByTitle "Type" "tests" }}
+    {{ $result := .Store.Get "result" }}
+    {{ $tests = $tests | append (dict "result" $result "page" .) }}
   {{ end }}
-  {{ with .Params.description }}
-    <p>Description: {{ . }}</p>
+
+  {{ $passingTests := where $tests "result" "pass" }}
+  {{ $failingTests := where $tests "result" "fail" }}
+
+  <h2>Results</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Pass</th>
+        <th>Fail</th>
+        <th>Total</th>
+        <th>Percent pass</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{ len $passingTests }}</td>
+        <td>{{ len $failingTests }}</td>
+        <td>{{ len $tests }}</td>
+        <td>{{ div (len $passingTests| float) (len $tests) | mul 100 | lang.FormatPercent 0 }}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Failing tests</h2>
+
+  {{ range $failingTests }}
+    <h3><a href="{{ .page.RelPermalink }}">{{ .page.LinkTitle }}</a></h3>
   {{ end }}
-  {{ with or .Params.url .Params.details }}
-    <hr>
+
+  <h2>Passing tests</h2>
+
+  {{ range $passingTests }}
+    <h3><a href="{{ .page.RelPermalink }}">{{ .page.LinkTitle }}</a></h3>
   {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages.ByTitle }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
 {{ end }}

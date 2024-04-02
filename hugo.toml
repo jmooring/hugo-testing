@@ -1,8 +1,30 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #49094'
-disableKinds = ['rss','sitemap','taxonomy','term']
+title = 'Unit Testing'
+
+disableKinds = ['rss','section','sitemap','taxonomy','term']
 uglyURLs = true
+
+[markup.highlight]
+style = 'dracula'
 
 [security]
 enableInlineShortcodes = true
+
+# This output format configuration, and the associated cascade instruction, are
+# necessary to ensure that Hugo sets the Page.Store values for each test before
+# reading them on the home page.
+
+[outputformats.result]
+mediaType = 'text/html'
+isHTML = true
+permalinkable = true
+weight = 1
+
+[outputformats.html]
+weight = 2
+
+[[cascade]]
+outputs = ['result']
+[cascade._target]
+path = '/tests/**'

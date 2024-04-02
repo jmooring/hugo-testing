@@ -1,3 +1,33 @@
+// Vars
+// ----------------------------------------------------------------------------
+
+// Colors
+
+$black: #262626;
+$blue: #1e3a8a;
+$green: #166534;
+$red: #b91c1c;
+$white: #f4f4f5;
+
+// Body
+$font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
+  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+$font-size: 16px;
+$line-height: 1.5;
+$max-width: 1024px;
+
+// Spacers
+
+$spacer: 1rem;
+$spacer-s: $spacer * 0.5;
+$spacer-xs: $spacer * 0.25;
+$spacer-xxs: $spacer * 0.125;
+$spacer-l: $spacer * 1.5;
+$spacer-xl: $spacer * 2;
+
+// Base
+// ----------------------------------------------------------------------------
+
 *,
 *:before,
 *:after {
@@ -10,48 +40,66 @@ html {
 }
 
 body {
-  font-family: sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  margin: 0 1rem 3rem;
-  max-width: 1024px;
+  background: $white;
+  color: $black;
+  font-family: $font-family;
+  font-size: $font-size;
+  line-height: $line-height;
+  margin: 0 $spacer;
+  max-width: $max-width;
 }
 
+// Anchors
+// ----------------------------------------------------------------------------
+
 a {
-  color: blue;
+  color: $blue;
   text-decoration: none;
 }
 
-nav {
-  margin: 1em 0;
+.nav a {
+  margin-right: $spacer-s;
+  font-weight: bold;
 }
 
-nav.menu a {
-  margin-right: 0.2em;
+.nav a.disabled {
+  pointer-events: none;
+  cursor: default;
+  opacity: 0.6;
 }
 
-.active {
-  background-color: yellow;
-}
-
-.ancestor {
-  background-color: cyan;
-}
+// Test result
+// ----------------------------------------------------------------------------
 
 .result {
-  font-size: 1.25rem;
   font-weight: bold;
-  padding: 0.25em 1em;
+  padding: $spacer-xs $spacer;
   color: white;
 }
 
 .pass {
-  background: green;
+  background: #008000;
 }
 
 .fail {
-  background: red;
+  background: #dd0000;
 }
+
+// Tables
+// ----------------------------------------------------------------------------
+
+table {
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid $black;
+  padding: $spacer-xxs $spacer;
+  text-align: right;
+}
+
+// Fenced code blocks
+// ----------------------------------------------------------------------------
 
 /* Applies when there are no line numbers, or when line numbers are inline. */
 .highlight > pre {

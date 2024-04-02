@@ -4,9 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
-  {{ with resources.Get "sass/main.scss" | toCSS }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{ end }}
+  {{ partialCached "inline/css.html" . }}
 </head>
 <body>
   <header>
@@ -18,3 +16,9 @@
   </main>
 </body>
 </html>
+
+{{ define "partials/inline/css.html" }}
+  {{ with resources.Get "sass/main.scss" | toCSS }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}

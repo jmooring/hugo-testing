@@ -1,0 +1,83 @@
+{{- /* Strip leading and trailing whitespace, then add one trailing newline. */}}
+{{- /* The trailing newline prevents diff from reporting a missing newline. */}}
+{{- $got := printf "%s\n" (trim .Content " \n\r") }}
+
+{{- if hugo.IsProduction }}
+{{- $got | safeHTML }}
+{{- else -}}
+
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  {{ with resources.Get "sass/main.scss" | toCSS }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+</head>
+<body>
+  <header>
+    <a href="{{ site.Home.RelPermalink }}"><h1>{{ site.Title }}</h1></a>
+    <div class="nav">
+      {{ $label := "&laquo;&nbsp;Previous" | safeHTML }}
+      {{ with .Next }}
+        <a href="{{ .RelPermalink }}">{{ $label }}</a>
+      {{ else }}
+        <a class="disabled" href="#">{{ $label }}</a>
+      {{ end }}
+
+      <a href="{{ site.Home.RelPermalink }}">Home</a>
+
+      {{ $label := "Next&nbsp;&raquo;" | safeHTML }}
+      {{ with .Prev }}
+        <a href="{{ .RelPermalink }}">{{ $label }}</a>
+      {{ else }}
+        <a class="disabled" href="#">{{ $label }}</a>
+      {{ end }}
+    </div>
+    <hr>
+  </header>
+  <main>
+    <h2>{{ .Title }}</h2>
+
+    {{ with resources.Get (path.Join "gold" .RelPermalink) }}
+      {{/* Strip leading and trailing whitespace, then add one trailing newline. */}}
+      {{/* The trailing newline prevents diff from reporting a missing newline. */}}
+      {{ $want := printf "%s\n" (trim .Content "\n\r") }}
+      {{ if eq $got $want }}
+        {{ $.Store.Set "result" "pass" }}
+        <p class="result pass">Pass</p>
+
+        <p>Test</p>
+        {{ transform.Highlight (trim $.RawContent " \n\r") "go-html-template" }}
+
+        <p>Got</p>
+        {{ transform.Highlight $got "go-html-template" }}
+      {{ else }}
+        {{ $.Store.Set "result" "fail" }}
+        {{ warnf "%s failed: see %s" $.Title $.Permalink }}
+        <p class="result fail">Fail</p>
+
+        <p>Test</p>
+        {{ transform.Highlight (trim $.RawContent " \n\r") "go-html-template" }}
+
+        <p>Want</p>
+        {{ transform.Highlight $want "go-html-template" }}
+
+        <p>Got</p>
+        {{ transform.Highlight $got "go-html-template" }}
+
+        <p>Diff</p>
+        {{ $diff := strings.Diff "want" $want "got" $got }}
+        {{ transform.Highlight $diff "diff" }}
+      {{ end }}
+    {{ else }}
+      {{ warnf "Gold file missing for %s: see %s" .Title  }}
+    {{ end }}
+
+    </main>
+  </body>
+</html>
+
+{{ end }}
