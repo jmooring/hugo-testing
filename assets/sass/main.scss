@@ -15,6 +15,8 @@ $font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
 $font-size: 16px;
 $line-height: 1.5;
 $max-width: 1024px;
+$border-radius: $font-size * 0.375;
+$font-size-code: $font-size * 0.9375;
 
 // Spacers
 
@@ -72,17 +74,18 @@ a {
 // ----------------------------------------------------------------------------
 
 .result {
+  border-radius: $border-radius;
   font-weight: bold;
-  padding: $spacer-xs $spacer;
+  padding: $spacer-s $spacer;
   color: white;
 }
 
 .pass {
-  background: #008000;
+  background: $green;
 }
 
 .fail {
-  background: #dd0000;
+  background: $red;
 }
 
 // Tables
@@ -102,36 +105,35 @@ th {
 // ----------------------------------------------------------------------------
 
 .highlight {
-  font-size: $font-size * 0.9375;
+  font-size: $font-size-code;
 }
 
-/* Applies when there are no line numbers, or when line numbers are inline. */
+// Applies when there are no line numbers, or when line numbers are inline.
 .highlight > pre {
-  padding: 1em 0 1em 1em;
+  padding: $spacer 0 $spacer $spacer;
 }
 
-/* Applies when line numbers are in a table cell. */
+// Applies when line numbers are in a table cell.
 .highlight div {
-  padding: 0 0 0 1em;
+  padding: 0 0 0 $spacer;
 }
 
-/* Applies to all. */
+// Applies to all.
 .highlight div,
 .highlight > pre {
   overflow-x: auto;
-  border-radius: 0.5rem;
-  /* add border-radius and box-shadow here */
+  border-radius: $border-radius;
 }
 
-/* Applies when using an external style sheet. */
-/* https://github.com/alecthomas/chroma/issues/722 */
+// Applies when using an external style sheet.
+// https://github.com/alecthomas/chroma/issues/722
 .highlight .chroma .lntable .lnt,
 .highlight .chroma .lntable .hl {
   display: flex;
 }
 
-/* Applies when using an external style sheet. */
-/* https://github.com/alecthomas/chroma/issues/722 */
+// Applies when using an external style sheet.
+// https://github.com/alecthomas/chroma/issues/722
 .highlight .chroma .lntable .lntd + .lntd {
   width: 100%;
 }
