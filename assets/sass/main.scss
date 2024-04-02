@@ -101,6 +101,10 @@ th {
 // Fenced code blocks
 // ----------------------------------------------------------------------------
 
+.highlight {
+  font-size: $font-size * 0.9375;
+}
+
 /* Applies when there are no line numbers, or when line numbers are inline. */
 .highlight > pre {
   padding: 1em 0 1em 1em;
