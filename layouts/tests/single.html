@@ -1,20 +1,61 @@
 {{- $got := trim .Content "\n\r" | safeHTML }}
-{{- with resources.Get (path.Join "gold" .RelPermalink) }}
-  {{- $want := trim .Content "\n\r" | safeHTML }}
-  {{- if not (eq $got $want) }}
-    {{- warnf "%s failed: got and want are not equal: see %s" $.Title $.Permalink }}
-  {{- end }}
-{{- else }}
-  {{- warnf "Gold test data missing for %s: see %s" .Title  }}
-{{- end }}
-
-{{- /*
-If we had a strings.Diff function we could do this on failure:
-
-  {{- $diff := strings.Diff "got" $got "want" $want }}
-  {{- transform.Highlight $diff "diff" }}
-
-See https://github.com/gohugoio/hugo/issues/12330.
-*/}}
-
+{{- if hugo.IsProduction }}
 {{- $got }}
+{{- else -}}
+
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  {{ with resources.Get "sass/main.scss" | toCSS }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+</head>
+<body>
+  <header>
+    <h1>{{ site.Title }}</h1>
+    <hr>
+  </header>
+  <main>
+    <h2>{{ .Title }}</h2>
+
+    {{ with .Next }}
+      <a href="{{ .RelPermalink }}">Previous</a>
+    {{ end }}
+    {{ with .Prev }}
+      <a href="{{ .RelPermalink }}">Next</a>
+    {{ end }}
+
+    {{ with resources.Get (path.Join "gold" .RelPermalink) }}
+      {{ $want := trim .Content "\n\r" | safeHTML }}
+      {{ if eq $got $want }}
+        <p class="result pass">Pass</p>
+        {{ transform.Highlight $got "go-html-template" }}
+      {{ else }}
+        <p class="result fail">Fail</p>
+        <p>Got</p>
+        {{ transform.Highlight $got "go-html-template" }}
+        <p>Want</p>
+        {{ transform.Highlight $want "go-html-template" }}
+        {{ warnf "%s failed: got and want are not equal: see %s" $.Title $.Permalink }}
+      {{ end }}
+    {{ else }}
+      {{ warnf "Gold test data missing for %s: see %s" .Title  }}
+    {{ end }}
+
+    {{/*
+    If we had a strings.Diff function we could do this on failure:
+
+      {{ $diff := strings.Diff "got" $got "want" $want }}
+      {{ transform.Highlight $diff "diff" }}
+
+    See https://github.com/gohugoio/hugo/issues/12330.
+    */}}
+
+    </main>
+  </body>
+</html>
+
+{{ end }}

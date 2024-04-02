@@ -11,5 +11,8 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-forum-topic-49094 https://github.com/jmooring/hugo-testing hugo-forum-topic-49094
 cd hugo-forum-topic-49094
-hugo server
 ```
+
+Run `hugo` to create a set of gold files in the public directory, then copy them to the assets/gold directory.
+
+Run `hugo server` to test.

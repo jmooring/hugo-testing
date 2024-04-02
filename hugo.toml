@@ -2,7 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #49094'
 disableKinds = ['rss','sitemap','taxonomy','term']
-disableLiveReload = true
 uglyURLs = true
 
 [security]
