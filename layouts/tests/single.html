@@ -1,0 +1,20 @@
+{{- $got := trim .Content "\n\r" | safeHTML }}
+{{- with resources.Get (path.Join "gold" .RelPermalink) }}
+  {{- $want := trim .Content "\n\r" | safeHTML }}
+  {{- if not (eq $got $want) }}
+    {{- warnf "%s failed: got and want are not equal: see %s" $.Title $.Permalink }}
+  {{- end }}
+{{- else }}
+  {{- warnf "Gold test data missing for %s: see %s" .Title  }}
+{{- end }}
+
+{{- /*
+If we had a strings.Diff function we could do this on failure:
+
+  {{- $diff := strings.Diff "got" $got "want" $want }}
+  {{- transform.Highlight $diff "diff" }}
+
+See https://github.com/gohugoio/hugo/issues/12330.
+*/}}
+
+{{- $got }}
