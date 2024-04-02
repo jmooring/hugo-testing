@@ -1,6 +1,6 @@
-{{- $got := trim .Content "\n\r" | safeHTML }}
+{{- $got := printf "%s\n" (trim .Content "\n\r") }}
 {{- if hugo.IsProduction }}
-{{- $got }}
+{{- $got | safeHTML }}
 {{- else -}}
 
 <!DOCTYPE html>
@@ -29,30 +29,29 @@
     {{ end }}
 
     {{ with resources.Get (path.Join "gold" .RelPermalink) }}
-      {{ $want := trim .Content "\n\r" | safeHTML }}
+      {{ $want := printf "%s\n" (trim .Content "\n\r") }}
       {{ if eq $got $want }}
         <p class="result pass">Pass</p>
         {{ transform.Highlight $got "go-html-template" }}
       {{ else }}
         <p class="result fail">Fail</p>
-        <p>Got</p>
-        {{ transform.Highlight $got "go-html-template" }}
         <p>Want</p>
         {{ transform.Highlight $want "go-html-template" }}
         {{ warnf "%s failed: got and want are not equal: see %s" $.Title $.Permalink }}
+        <p>Got</p>
+        {{ transform.Highlight $got "go-html-template" }}
+
+        {{/* See https://github.com/gohugoio/hugo/issues/12330. */}}
+        {{/*
+            <p>Diff</p>
+            {{ $diff := strings.Diff "want" $want "got" $got }}
+            {{ transform.Highlight $diff "diff" }}
+        */}}
+
       {{ end }}
     {{ else }}
       {{ warnf "Gold test data missing for %s: see %s" .Title  }}
     {{ end }}
-
-    {{/*
-    If we had a strings.Diff function we could do this on failure:
-
-      {{ $diff := strings.Diff "got" $got "want" $want }}
-      {{ transform.Highlight $diff "diff" }}
-
-    See https://github.com/gohugoio/hugo/issues/12330.
-    */}}
 
     </main>
   </body>
