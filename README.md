@@ -11,5 +11,7 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-github-issue-8591 https://github.com/jmooring/hugo-testing hugo-github-issue-8591
 cd hugo-github-issue-8591
-hugo server
+rm -rf public/ && hugo && tree public
 ```
+
+Then run the last command repeatedly. There shouldn't be any build failures.

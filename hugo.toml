@@ -1,3 +1,11 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #8591'
+baseURL = "https://example.org/"
+languageCode = "en-US"
+title = "Hugo GitHub Issue"
+
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+
+[[module.imports]]
+path = "github.com/jmooring/hugo-module-github-issue-8591"
+
+[outputs]
+home = [ "html", "webappmanifest" ]
