@@ -1,0 +1,5 @@
+{{ $items := .Get 0 | default (.Get "items") }}
+
+<p class="display-6 paige-social text-center">
+    {{ partial "paige/social.html" $items }}
+</p>
