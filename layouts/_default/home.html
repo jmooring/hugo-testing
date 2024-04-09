@@ -10,6 +10,6 @@
   {{ end }}
   {{ .Content }}
   {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> (.Type = {{ .Type }})</h2>
   {{ end }}
 {{ end }}

@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #49248'
+
+[[cascade]]
+type = "blog"
+[cascade._target]
+path = "/blog/**"
+
+[[cascade]]
+type = "docs"
+[cascade._target]
+path = "**"
