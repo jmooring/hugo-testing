@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #49248'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-04-09T11:47:55-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/49248'
+description = "Unexpected behavior (bug?) Cascade/type when frontmatter/draft=true"
 +++
