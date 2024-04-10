@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #49255'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-04-10T07:19:34-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/49255'
+description = "Js.build getting error"
 +++
