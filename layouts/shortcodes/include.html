@@ -1,0 +1,30 @@
+{{ with $path := .Get 0 }}
+  {{ with site.GetPage $path }}
+{{ .RenderShortcodes }} {{/* Do not indent this line. */}}
+  {{ else }}
+    {{ with $.Page.Resources.Get $path }}
+{{ .RenderShortcodes }} {{/* Do not indent this line. */}}
+    {{ else }}
+      {{ with resources.Get $path }}
+{{ .Content | safeHTML }} {{/* Do not indent this line. */}}
+      {{ else }}
+        {{ $u := urls.Parse $path }}
+        {{ if $u.IsAbs }}
+          {{ with resources.GetRemote $u.String }}
+            {{ with .Err }}
+              {{ errorf "The %q shortcode was unable to get remote resource %s: %s: see %s" $.Name . $u.String $.Position }}
+            {{ else }}
+{{ .Content | safeHTML }} {{/* Do not indent this line. */}}
+            {{ end }}
+          {{ else }}
+            {{ errorf "The %q shortcode was unable to get remote resource %s: see %s" $.Name $u.String $.Position }}
+          {{ end }}
+        {{ else }}
+          {{ errorf "The %q shortcode was unable to find %s: see %s" $.Name $path $.Position }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortode requires a positional argument, the path to a page, global, or remote resource: see %s" .Name .Position }}
+{{ end }}

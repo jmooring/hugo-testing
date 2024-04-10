@@ -1,0 +1,43 @@
++++
+title = 'AsciiDoc 1'
+date = 2024-04-09T18:50:07-07:00
+draft = false
+toc = true
++++
+
+:toc:
+
+## Introduction
+
+The `include` shortcode resolves the given path by looking for a:
+
+1. Page
+2. Page resource
+3. Global resource
+4. Remote resource
+
+The shortcode throws an error if unable to resolve the given path.
+
+```text
+{{%/* include "/asciidoc/asciidoc-2" */%}}
+```
+
+{{% include "/asciidoc/asciidoc-2" %}}
+
+```text
+{{%/* include "a.adoc" */%}}
+```
+
+{{% include "a.adoc" %}}
+
+```text
+{{%/* include "b.adoc" */%}}
+```
+
+{{% include "b.adoc" %}}
+
+```text
+{{%/* include "https://www.veriphor.com/shared/forum/hugo/topic-49219/asciidoc.adoc" */%}}
+```
+
+{{% include "https://www.veriphor.com/shared/forum/hugo/topic-49219/asciidoc.adoc" %}}

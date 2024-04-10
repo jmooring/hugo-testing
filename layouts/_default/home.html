@@ -9,7 +9,13 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+
+  {{ with site.GetPage "/asciidoc/asciidoc-1" }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ with site.GetPage "/markdown/markdown-1" }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+
 {{ end }}

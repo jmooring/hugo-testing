@@ -1,0 +1,23 @@
++++
+title = 'AsciiDoc 2'
+date = 2024-04-09T19:32:01-07:00
+draft = false
++++
+
+## Include a page
+
+This is content/asciidoc/asciidoc-2/index.adoc
+
+### Section 1
+
+Qui pariatur quis consectetur magna pariatur ad aliquip. Consequat sit laborum Lorem duis id sit officia. Non id aute occaecat quis qui eu cillum incididunt tempor exercitation ut. Proident reprehenderit minim aute Lorem voluptate exercitation eiusmod.
+
+link:/asciidoc/asciidoc-3[AsciiDoc 3]
+
+### Section 2
+
+Anim cupidatat magna incididunt ex eiusmod et aute dolore nostrud. Ex et anim ad voluptate sit. Officia nisi irure cupidatat aliquip. Veniam amet deserunt anim eiusmod deserunt tempor nulla.
+
+// When this page is included in another page, the link to the image in this
+// page bundle must be absolute.
+image:/asciidoc/asciidoc-2/a.jpg[kitten,title="A kitten!"]
