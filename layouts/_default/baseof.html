@@ -4,6 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{
+    $vendor := slice
+      (resources.Get "vendor/script1.js")
+      (resources.Get "vendor/script2.js")
+    | resources.Concat "vendor.js"
+  }}
+  <script src="{{$vendor.RelPermalink}}"></script>
+
 </head>
 <body>
   <header>
