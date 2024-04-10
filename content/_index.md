@@ -6,3 +6,5 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/12356'
 description = "Render the render hooks when calling .Page.RenderShortcodes"
 +++
+
+{{% include "/p1" %}}
