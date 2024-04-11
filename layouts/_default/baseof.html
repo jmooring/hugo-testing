@@ -4,6 +4,36 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    *,
+    *:before,
+    *:after {
+      box-sizing: inherit;
+    }
+
+    html {
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 0 1rem 3rem;
+      max-width: 768px;
+    }
+
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+    .box {
+      padding: 0 1rem;
+      border: 2px solid green;
+      margin-bottom: 1rem;
+    }
+  </style>
 </head>
 <body>
   <header>

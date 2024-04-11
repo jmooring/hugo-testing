@@ -1,0 +1,54 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ with .Resources.Get "present.md" }}
+    <div class="box">
+      <h2>Present activities</h2>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ with .Resources.Get "main.md" }}
+    <div class="box">
+      <h2>Main interests</h2>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ with .Resources.Get "publications.md" }}
+    <div class="box">
+      <h2>Publications</h2>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ with .Resources.Get "thesis.md" }}
+    <div class="box">
+      <h2>Thesis</h2>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ with .Resources.Get "supervision.md" }}
+    <div class="box">
+      <h2>Supervision</h2>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ with .Resources.Get "funded.md" }}
+    <div class="box">
+      <h2>Funded projects</h2>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ with .Resources.Get "further.md" }}
+    <div class="box">
+      <h2>Further references</h2>
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+{{ end }}
