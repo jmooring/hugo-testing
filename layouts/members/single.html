@@ -2,6 +2,12 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 
+  {{ with .Resources.GetMatch "photo*" }}
+    {{ with .Fill "150x150" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
   {{ with .Resources.Get "present.md" }}
     <div class="box">
       <h2>Present activities</h2>
