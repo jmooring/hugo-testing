@@ -6,10 +6,17 @@ disableKinds = ['rss','sitemap','taxonomy','term']
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
+
 [languages.en]
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
 weight = 1
 
 [languages.fr]
+languageCode = 'fr-FR'
+languageDirection = 'ltr'
+languageName = 'Français'
 weight = 2
 
 [[cascade]]
