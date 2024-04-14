@@ -11,3 +11,16 @@ weight = 1
 
 [languages.de]
 weight = 2
+
+[[cascade]]
+[cascade.build]
+list = 'never'
+render = 'never'
+[cascade._target]
+path = '/errors'
+
+[[cascade]]
+[cascade.build]
+list = 'never'
+[cascade._target]
+path = '/errors/**'
