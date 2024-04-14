@@ -9,7 +9,7 @@ defaultContentLanguageInSubdir = true
 [languages.en]
 weight = 1
 
-[languages.de]
+[languages.fr]
 weight = 2
 
 [[cascade]]
