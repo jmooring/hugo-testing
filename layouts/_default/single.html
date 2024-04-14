@@ -1,4 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <p>RelPermalink = {{ .RelPermalink }}</p>
+
+  {{ with .Resources.GetMatch "images/cover.jpg" }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+
   {{ .Content }}
 {{ end }}

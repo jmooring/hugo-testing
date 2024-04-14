@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-US'
+title = 'Hugo GitHub Issue #4288'
+
+uglyURLs = true
+canonifyURLs = true
