@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <h2>Page resource rendered via layouts/_default/single.html</h2>
+  {{ with .Resources.Get "a.jpg" | fingerprint }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
