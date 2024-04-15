@@ -9,7 +9,95 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with resources.Get "images/a.jpg" }}
+    {{ with $r := .Resize "170x" }}
+
+      <h2>Sorted by dominance (ascending)</h2>
+      {{ range .Colors }}
+        {{ $filter := images.Padding 10 . }}
+        {{ with $r | images.Filter $filter }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+
+      <h2>Sorted by dominance (descending)</h2>
+      {{ range (collections.Reverse .Colors) }}
+        {{ $filter := images.Padding 10 . }}
+        {{ with $r | images.Filter $filter }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+
+      <h2>Sorted by luminance (ascending)</h2>
+      {{ range (sort .Colors "Luminance") }}
+        {{ $filter := images.Padding 10 . }}
+        {{ with $r | images.Filter $filter }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+
+      <h2>Sorted by luminance (descending)</h2>
+      {{ range (sort .Colors "Luminance" "desc") }}
+        {{ $filter := images.Padding 10 . }}
+        {{ with $r | images.Filter $filter }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        {{ end }}
+      {{ end }}
+
+      <h2>Lightest text on darkest background</h2>
+      {{ $dark := index (sort .Colors "Luminance") 0 }}
+      {{ $light := index (sort .Colors "Luminance" "desc") 0 }}
+      <div style="background: {{ $dark }}; color: {{ $light }}; padding: 10px;">
+        Laboris velit ex ullamco eiusmod labore proident aute ad enim ut exercitation esse. Voluptate laboris labore est consectetur id do voluptate amet ipsum nostrud tempor. Consectetur fugiat dolore enim laboris ullamco ad laboris laboris consequat Lorem. Eu proident Lorem nostrud duis amet consectetur veniam eiusmod tempor est ex reprehenderit consectetur sunt. Qui velit Lorem proident sunt do reprehenderit pariatur duis ullamco culpa minim eiusmod officia.
+      </div>
+
+      <h2>Darkest text on lightest background</h2>
+      <div style="background: {{ $light }}; color: {{ $dark }}; padding: 10px;">
+        Laboris velit ex ullamco eiusmod labore proident aute ad enim ut exercitation esse. Voluptate laboris labore est consectetur id do voluptate amet ipsum nostrud tempor. Consectetur fugiat dolore enim laboris ullamco ad laboris laboris consequat Lorem. Eu proident Lorem nostrud duis amet consectetur veniam eiusmod tempor est ex reprehenderit consectetur sunt. Qui velit Lorem proident sunt do reprehenderit pariatur duis ullamco culpa minim eiusmod officia.
+      </div>
+
+      <h2>Dithering test: first 3 colors sorted by luminance (ascending)</h2>
+      {{ $opts := dict "colors" (first 3 .Colors) }}
+      {{ $filter := images.Dither $opts }}
+      {{ with . | images.Filter $filter }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+
+      <h2>Dithering test: first 3 colors sorted by luminance (descending)</h2>
+      {{ $opts := dict "colors" (first 3 (sort .Colors "Luminance" "desc")) }}
+      {{ $filter := images.Dither $opts }}
+      {{ with . | images.Filter $filter }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+
+      <h2>Text filter: lightest color for text</h2>
+      {{ $opts := dict
+        "color" $light
+        "linespacing" 8
+        "size" 60
+        "x" 25
+        "y" 30
+      }}
+      {{ with . | images.Filter (images.Text "Zion" $opts) }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+
+      <h2>Text filter: darkest color for text</h2>
+      {{ $opts := dict
+        "color" $dark
+        "linespacing" 8
+        "size" 60
+        "x" 25
+        "y" 30
+      }}
+      {{ with . | images.Filter (images.Text "Zion" $opts) }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+
+    {{ end }}
   {{ end }}
+
+
+
 {{ end }}
