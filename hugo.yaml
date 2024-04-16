@@ -1,0 +1,9 @@
+baseURL: 'https://example.org/'
+languageCode: en-US
+title: 'Hugo GitHub Issue #12375'
+theme: hugo-geekdoc
+pluralizeListTitles: false
+security:
+  exec:
+    allow:
+      - "^asciidoctor$"
