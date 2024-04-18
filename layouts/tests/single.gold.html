@@ -1,0 +1,5 @@
+{{- /* Strip leading and trailing whitespace, then add one trailing newline. */}}
+{{- /* The trailing newline prevents diff from reporting a missing newline. */}}
+{{- $got := printf "%s\n" (trim .Content " \n\r") }}
+
+{{- $got | safeHTML }}

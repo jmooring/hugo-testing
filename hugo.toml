@@ -21,10 +21,18 @@ isHTML = true
 permalinkable = true
 weight = 1
 
+# Also write the golden files
+[outputformats.gold]
+mediaType = 'text/html'
+isHTML = true
+permalinkable = true
+weight = 2
+path = "gold"
+
 [outputformats.html]
 weight = 2
 
 [[cascade]]
-outputs = ['result']
+outputs = ['result','gold']
 [cascade._target]
 path = '/tests/**'

@@ -2,10 +2,6 @@
 {{- /* The trailing newline prevents diff from reporting a missing newline. */}}
 {{- $got := printf "%s\n" (trim .Content " \n\r") }}
 
-{{- if hugo.IsProduction }}
-{{- $got | safeHTML }}
-{{- else -}}
-
 <!DOCTYPE html>
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
 <head>
@@ -79,5 +75,3 @@
     </main>
   </body>
 </html>
-
-{{ end }}
