@@ -1,0 +1,4 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: 'Hugo Forum Topic #49365'
+theme: sasstest_theme

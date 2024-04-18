@@ -13,3 +13,5 @@ git clone --single-branch -b hugo-forum-topic-49365 https://github.com/jmooring/
 cd hugo-forum-topic-49365
 hugo server
 ```
+
+While the server is running, edit themes/sasstest_theme/assets/scss/index.scss, changing h1.color from red to blue. The site title should change from red to blue.
