@@ -1,4 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ if ge (len .Ancestors) 3 }}
+    {{ partial "foo.html" . }}
+  {{ end }}
   {{ .Content }}
 {{ end }}
