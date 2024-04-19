@@ -1,0 +1,6 @@
+<ul>
+  {{ $legal := site.GetPage "/legal" }}
+  {{ range $legal.RegularPagesRecursive }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
