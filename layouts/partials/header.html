@@ -1,0 +1,20 @@
+{{- with site.Menus.main -}}
+<nav class="navbar" role="navigation" aria-label="main navigation">
+
+  <div class="navbar-brand">
+    <a href="/" class="navbar-item">{{ site.Title }}</a>
+  </div>
+
+  <div id="navbarBasic" class="navbar-menu">
+    <div class="navbar-end">
+      {{- range . -}}
+      {{- if $.IsMenuCurrent .Menu . -}}
+      <a href="{{ .URL }}" class="is-active navbar-item" aria-current="page">{{ .Name }}</a>
+      {{- else -}}
+      <a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a>
+      {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</nav>
+{{- end -}}

@@ -1,3 +1,28 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #49368'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = '/about'
+pageRef = '/about'
+weight = 20
+
+[[menus.main]]
+name = '/blog'
+pageRef = '/blog'
+weight = 30
+
+[[menus.main]]
+name = '/cv'
+pageRef = '/cv'
+weight = 35
+
+[[menus.main]]
+name = '/uses'
+pageRef = '/uses'
+weight = 40
