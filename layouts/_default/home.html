@@ -12,4 +12,24 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  <h2>This is assets/test.yaml after unmarshaling and remarshaling to JSON</h2>
+  <p>Note that the newlines are retained (summary and text fields).</p>
+
+  {{ $data := dict }}
+  {{ $url := "https://www.veriphor.com/shared/forum/hugo/topic-49387/test.yml" }}
+  {{ with resources.GetRemote $url }}
+    {{ with .Err }}
+      {{ errorf "%s" . }}
+    {{ else }}
+      {{ $data = .Content | transform.Unmarshal }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get remote resource %q" $url }}
+  {{ end }}
+
+  <pre>{{ jsonify (dict "indent" "  ") $data }}</pre>
+
+  <p>See layouts/_default/home.html for resources.GetRemote call.</p>
+
 {{ end }}
