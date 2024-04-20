@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  Section = {{ .Section }}<br>
+  Type = {{ .Type }}<br>
+  <p>This page is rendered by layouts/TestDir/single.html</p>
+  {{ .Content }}
+{{ end }}
