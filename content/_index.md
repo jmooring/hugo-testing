@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/49465'
 description = "AsciiDoc - No re-rendering on document changes"
 +++
+
+This is content/_index.adoc

@@ -9,7 +9,8 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+  {{ range site.RegularPages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
   {{ end }}
 {{ end }}
