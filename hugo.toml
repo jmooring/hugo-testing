@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
+capitalizeListTitles = false
+disableKinds = ['rss','sitemap']
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12425'
+[markup.goldmark.renderer]
+unsafe = true
+[params]
+description = "m <em>n</em> and **o** can't."
+[params.social]
+facebook_admin = 'foo'
+[taxonomies]
+series = 'series'
+tag = 'tags'
