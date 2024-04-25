@@ -12,4 +12,12 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  <hr>
+
+  <h2>Rendering the latest blog content</h2>
+
+  {{ $page := (index (where site.RegularPages "Type" "=" "blog") 0) }}
+  {{ $page.Content }}
+
 {{ end }}
