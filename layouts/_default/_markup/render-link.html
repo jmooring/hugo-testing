@@ -1,7 +1,7 @@
 {{- $u := urls.Parse .Destination -}}
 {{- $href := $u.String -}}
-{{- if strings.HasPrefix $u.String "#" }}
-  {{- $href = printf "%s#%s" .PageInner.RelPermalink $u.Fragment }}
+{{- if strings.HasPrefix $u.String "#" -}}
+  {{- $href = printf "%s#%s" .PageInner.RelPermalink $u.Fragment -}}
 {{- else if not $u.IsAbs -}}
   {{- with or
     ($.PageInner.GetPage $u.Path)
@@ -16,12 +16,12 @@
       {{- $href = printf "%s#%s" $href . -}}
     {{- end -}}
   {{- else -}}
-    {{- $href = "" }}
-    {{- warnf "The link render hook was unable to find %s when rendering %s" $u.Path $.Page.Path }}
+    {{- $href = "" -}}
+    {{- warnf "The link render hook was unable to find %s when rendering %s" $u.Path $.Page.Path -}}
   {{- end -}}
 {{- end -}}
 
-{{- if $href }}
+{{- if $href -}}
   {{- $attributes := dict "href" $href "title" (.Title | transform.HTMLEscape) -}}
   <a
     {{- range $k, $v := $attributes -}}
