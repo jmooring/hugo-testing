@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #49503'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-04-27T07:18:32-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/49503'
+description = "Exclude internal broken links from {{.Content}}"
 +++

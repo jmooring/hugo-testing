@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #49503
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/49503>
 
-Description: @@DESCRIPTION@@
+Description: Exclude internal broken links from {{.Content}}
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-49503 https://github.com/jmooring/hugo-testing hugo-forum-topic-49503
+cd hugo-forum-topic-49503
 hugo server
 ```
