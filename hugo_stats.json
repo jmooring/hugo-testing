@@ -1,0 +1,22 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "body",
+      "div",
+      "head",
+      "header",
+      "hr",
+      "html",
+      "main",
+      "meta",
+      "p",
+      "script",
+      "title"
+    ],
+    "classes": [
+      "site-title"
+    ],
+    "ids": null
+  }
+}

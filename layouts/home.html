@@ -1,0 +1,7 @@
+{{ range hugo.Sites }}
+	{{ .Language.Lang }}|{{ .Language.Translate "cat" 6 }}|
+{{ end }}
+
+{{ range .AllTranslations }}
+	{{ .Language.Lang }}|{{ .Language.Translate "dog" 6 }}|
+{{ end }}
