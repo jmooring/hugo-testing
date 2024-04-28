@@ -1,0 +1,2 @@
+{{ range .AllTranslations }}{{ .Language.Lang }}|{{ .Site.Translate "cat" 6 }}|{{ end }}
+{{ with .Sites.GetSite "en" }}{{ .Language.Lang }}|{{ .Translate "dog" 7 }}|{{ end }}

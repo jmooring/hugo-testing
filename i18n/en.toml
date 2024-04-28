@@ -1,0 +1,6 @@
+[cat]
+one = '{{ . }} cat'
+other = '{{ . }} cats'
+[dog]
+one = '{{ . }} dog'
+other = '{{ . }} dogs'
