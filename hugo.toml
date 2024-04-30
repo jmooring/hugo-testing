@@ -1,3 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #9109'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = true
+
+[languages.de]
+weight = 1
+
+[languages.en]
+locale = 'en-US'
+weight = 2
+
+[languages.fr]
+locale = 'bogus'
+weight = 3
+
+[languages.nn]
+weight = 4
+
+[languages.xx]
+locale = 'bogus'
+weight = 5
+
+[languages.zh-cn]
+locale = 'zh-Hans'
+weight = 6
