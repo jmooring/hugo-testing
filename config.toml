@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+title = 'Hugo GitHub Issue #8765'
+disableKinds = ['RSS','sitemap','taxonomy','term']
+
+defaultContentLanguage = 'es'
+defaultContentLanguageInSubdir = true
+
+[languages.es]
+contentDir = 'content/es'
+languageCode = 'es-ES'
+languageName = 'Spanish'
+weight = 1
+
+[languages.co]
+contentDir = 'content/co'
+languageCode = 'co-FR'
+languageName = 'Corsican'
+weight = 2
