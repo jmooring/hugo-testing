@@ -17,5 +17,20 @@ hugo
 Expected result in console:
 
 ```text
-WARN  "foo in zh" (string) [1]
+WARN  "foo in en"
+WARN  "foo in zh"
 ```
+
+Actual result in console:
+
+```text
+WARN  "foo in en"
+WARN  Failed to get translated string for language "zh" and ID "foo": %!s(<nil>)
+WARN  "foo in zh-CN"
+```
+
+# [languages.zh-CN]
+# contentDir = 'content/zh'
+# languageCode = 'zh-CN'
+# languageName = 'Mandarin'
+# weight = 2

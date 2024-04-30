@@ -2,11 +2,17 @@ baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #7982'
 
-defaultContentLanguage = 'zh'
+defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en'
+languageName = 'English'
+weight = 1
 
 [languages.zh]
 contentDir = 'content/zh'
 languageCode = 'zh'
-languageName = 'English'
-weight = 1
+languageName = 'Mandarin'
+weight = 2
