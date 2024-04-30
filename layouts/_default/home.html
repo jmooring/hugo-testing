@@ -12,4 +12,7 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ T "foo" | warnf "%#[2]v (%[2]T) [%[1]d]" math.Counter }}
+
 {{ end }}
