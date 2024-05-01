@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #49572'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-05-01T03:39:12-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/49572'
+description = "Rendering mathematical equations with the Pandoc content format"
 +++
