@@ -12,4 +12,31 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ $modifiers := site.Data.modifiers_metadata }}
+  {{ range $modifiers }}
+    <h2>{{ .GroupName }}</h2>
+    <table>
+      <tbody>
+          <tr>
+            <th colspan="2">{{ .GroupName }}</th>
+          </tr>
+        {{ range .ModifierGroups }}
+          {{ range $key, $_ := . }}
+            <tr>
+              <td>{{ $key }}</td>
+              {{ range . }}
+                {{ range $k, $v := . }}
+                  <td>
+                    <img src="{{ $v }}" alt="{{ $k }}">
+                  </td>
+                {{ end }}
+              {{ end }}
+            </tr>
+          {{ end }}
+        {{ end }}
+      </tbody>
+    </table>
+  {{ end }}
+
 {{ end }}

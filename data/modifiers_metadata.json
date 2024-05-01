@@ -1,0 +1,52 @@
+[
+  {
+    "GroupName": "Alloys",
+    "ModifierGroups": [
+      {
+        "Cost": [
+          {
+            "Add": "mod_alloys_cost_add.dds",
+            "Mult": "mod_alloys_cost_mult.dds"
+          }
+        ],
+        "Produces": [
+          {
+            "Add": "mod_alloys_produces_add.dds",
+            "Mult": "mod_alloys_produces_mult.dds"
+          }
+        ],
+        "Upkeep": [
+          {
+            "Add": "mod_alloys_upkeep_add.dds",
+            "Mult": "mod_alloys_upkeep_mult.dds"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "GroupName": "Astral Threads",
+    "ModifierGroups": [
+      {
+        "Cost": [
+          {
+            "Add": "mod_astral_threads_cost_add.dds",
+            "Mult": "mod_astral_threads_cost_mult.dds"
+          }
+        ],
+        "Produces": [
+          {
+            "Add": "mod_astral_threads_produces_add.dds",
+            "Mult": "mod_astral_threads_produces_mult.dds"
+          }
+        ],
+        "Upkeep": [
+          {
+            "Add": "mod_astral_threads_upkeep_add.dds",
+            "Mult": "mod_astral_threads_upkeep_mult.dds"
+          }
+        ]
+      }
+    ]
+  }
+]
