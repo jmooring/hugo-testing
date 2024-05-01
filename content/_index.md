@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #8452'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-05-01T07:51:00-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/8452'
+description = "Site not generating URLs that start with language code"
 +++
