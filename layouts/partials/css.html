@@ -1,0 +1,16 @@
+{{ $a := slice (resources.Get "a.scss") }}
+{{ $b := resources.Match "dir/*.scss" }}
+
+{{/* Add styles in a specific order. */}}
+{{ $styles := slice $a $b }}
+
+{{ $stylesheets := slice }}
+  {{ range $styles }}
+  {{ $stylesheets = $stylesheets | collections.Append . }}
+{{ end }}
+
+{{ range $stylesheets }}
+  {{ with . | resources.ToCSS | fingerprint }}
+    <link as="style"  href="{{ .RelPermalink }}" rel="preload stylesheet">
+  {{ end }}
+{{ end }}

@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/49591'
 description = "Scss changes do not reload live"
 +++
+
+This is content/_index.md

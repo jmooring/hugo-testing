@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  {{ partial "css.html" . }}
 </head>
 <body>
   <header>
@@ -11,7 +12,19 @@
     <hr>
   </header>
   <main>
-    {{ block "main" . }}{{ end }}
+
+    {{ with .Params.details }}
+      <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+    {{ end }}
+    {{ with .Params.description }}
+      <p>Description: {{ . }}</p>
+    {{ end }}
+    {{ with or .Params.url .Params.details }}
+      <hr>
+    {{ end }}
+
+    <div class="content">{{ .Content }}</div>
+
   </main>
 </body>
 </html>

@@ -13,3 +13,11 @@ git clone --single-branch -b hugo-forum-topic-49591 https://github.com/jmooring/
 cd hugo-forum-topic-49591
 hugo server
 ```
+
+Browse to `http://localhost:1313/`, then make changes to assets/dir/b.scss.
+
+Results:
+- Expected: home page shows changes.
+- Actual: no change.
+
+Note that changes to assets/a.scss are shown immediately.
