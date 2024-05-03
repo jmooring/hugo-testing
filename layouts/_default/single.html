@@ -1,4 +1,29 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <h2>Global resource</h2>
+
+  {{ with resources.Get "a.jpg" }}
+    {{ with .Resize "300x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  <h2>Page resource</h2>
+
+  {{ with .Resources.Get "b.jpg" }}
+    {{ with .Resize "300x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  <h2>Remote resource</h2>
+
+  {{ with resources.GetRemote "https://www.veriphor.com/shared/images/kitten-c.jpg"  }}
+    {{ with .Resize "300x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
 {{ end }}
