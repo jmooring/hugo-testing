@@ -2,7 +2,7 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 
-  <h2>Global resource</h2>
+  <h2>Global resources</h2>
 
   {{ with resources.Get "a.jpg" }}
     {{ with .Resize "300x" }}
@@ -10,9 +10,21 @@
     {{ end }}
   {{ end }}
 
-  <h2>Page resource</h2>
+  {{ with resources.GetMatch "Petrified Forest National Park.jpg" }}
+    {{ with .Resize "300x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  <h2>Page resources</h2>
 
   {{ with .Resources.Get "b.jpg" }}
+    {{ with .Resize "300x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  {{ with .Resources.GetMatch "Bryce Canyon National Park.jpg" }}
     {{ with .Resize "300x" }}
       <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
     {{ end }}
