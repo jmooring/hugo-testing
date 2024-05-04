@@ -1,3 +1,22 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #12459'
+
+[markup.goldmark.extensions.extras.insert]
+enable = true
+
+[markup.goldmark.extensions.extras.mark]
+enable = true
+
+[markup.goldmark.extensions.extras.subscript]
+enable = true
+
+[markup.goldmark.extensions.extras.superscript]
+enable = true
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)'], ['$', '$']]
