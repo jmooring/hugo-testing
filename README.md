@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-forum-topic-49627 https://github.com/jmooring/
 cd hugo-forum-topic-49627
 hugo server
 ```
+
+And this is a really stupid limitation in Obsidian:
+
+<https://forum.obsidian.md/t/start-absolute-path-with-a-leading-slash/32501>
+
+They need to fix that to provide compatibility between Obsidian and VS Code Markdown Preview mode.
