@@ -1,0 +1,7 @@
+<div class="highlight-container">
+  {{ if .Attributes.copy }}
+    <button class="copy-btn-fenced-code-block">Copy</button>
+  {{ end }}
+  {{ $result := transform.HighlightCodeBlock . }}
+  {{ $result.Wrapped }}
+</div>
