@@ -66,3 +66,8 @@ body {
   right: 0;
   margin: 0.5rem;
 }
+
+::selection {
+  color: white;
+  background: #555;
+}
