@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  <ul>
+  {{ range .CurrentSection.Pages }}
+    <li>{{ .Title }}</li>
+  {{ end }}
+  </ul>
   {{ .Content }}
 {{ end }}
