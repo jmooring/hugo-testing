@@ -1,0 +1,14 @@
+<div class="summary">
+  {{ with .Resources.GetMatch "cover.*" }}
+    <div class="summary-image">
+      {{ with .Resize "80x" }}
+        <a href="{{ $.RelPermalink }}">
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+  <div class="summary-text">
+    {{ .Summary | strings.Truncate 300 }}<a href="{{ .RelPermalink }}">&nbsp;More&nbsp;&raquo;</a>
+  </div>
+</div>

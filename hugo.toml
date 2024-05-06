@@ -1,3 +1,28 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #12440'
+
+[caches.getresource]
+dir = ':resourceDir/'
+maxAge = '168h'
+
+[services.rss]
+limit = 100
+
+[taxonomies]
+tag = 'tags'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 30
