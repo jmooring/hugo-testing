@@ -1,4 +1,14 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <h2>Hero image</h2>
+
+  {{ with .Params.hero }}
+    {{ with $.Resources.Get . }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
   {{ .Content }}
+
 {{ end }}
