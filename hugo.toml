@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12468'
+baseURL = 'https://example.org/dir/'
+disableKinds = ['home','rss','section','sitemap','taxonomy','term']
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+[markup.goldmark.parser.attribute]
+block = true
+[markup.goldmark.renderHooks.image]
+enableDefault = true
