@@ -1,0 +1,7 @@
+<nav class="menu">
+  {{- range site.Menus.topnav -}}
+    <a href="{{ .URL }}" title="{{ .Title }}" class="nav-item">
+      {{ .Name }}
+    </a>
+  {{- end -}}
+</nav>
