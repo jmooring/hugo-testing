@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #49717'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-05-09T06:12:15-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/49717'
+description = "Taxonomy Rename getting error"
 +++
