@@ -1,0 +1,19 @@
+{{ range $r := resources.Match "images/*" }}
+  {{ $date := 0 | time.AsTime }}
+  {{ $title := (path.Base $r.Name) }}
+  {{ with site.Data.photos }}
+    {{ range where . "FileName" (path.Base $r.Name) }}
+      {{ $title = .Title }}
+      {{ $date = strings.Replace .CreateDate ":" "-" 2 | time.AsTime }}
+    {{ end }}
+  {{ end }}
+
+  {{ $page := dict
+    "dates" (dict "date" $date)
+    "params" (dict "image" $r.Name )
+    "path" (printf "%s/%s" ($date.Format "20060102150405") $title)
+    "title" $title
+  }}
+
+  {{ $.AddPage $page }}
+{{ end }}

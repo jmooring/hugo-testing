@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Date | time.Format "January 2, 2006 at 3:04 PM" }}</p>
+
+  {{ with resources.Get .Params.image }}
+    <figure>
+      {{ with .Resize "768x" }}
+        {{ $darkest := index (sort .Colors "Luminance") 1 }}
+        {{ $filter := images.Padding 1 $darkest }}
+        {{ with .Filter $filter }}
+          <img class="responsive" src="{{ .RelPermalink }}">
+        {{ end }}
+      {{ end }}
+      <figcaption></figcaption>
+    </figure>
+  {{ end }}
+
+  {{ with .Prev }}
+    <a href="{{ .RelPermalink }}">Prev</a>
+  {{ end }}
+
+  {{ with .Next }}
+    <a href="{{ .RelPermalink }}">Next</a>
+  {{ end }}
+
+{{ end }}
