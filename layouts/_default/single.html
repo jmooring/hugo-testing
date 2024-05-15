@@ -1,4 +1,6 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  <p>Contributors to this page:</p>
+  {{ partial "render-github-contributors" (dict "page" .) }}
 {{ end }}

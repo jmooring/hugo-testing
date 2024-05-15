@@ -1,3 +1,20 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #5070'
+
+capitalizeListTitles = false
+pluralizeListTitles = false
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[params.repository]
+owner = 'gohugoio'
+repo = 'hugoDocs'

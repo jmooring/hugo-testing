@@ -1,0 +1,128 @@
+{{- /*
+Copyright 2024 Veriphor LLC
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+
+{{- /*
+Renders a series of avatars, each linked to the GitHub account of the
+contributing user.
+
+You must define the following parameters in your site configuration:
+
+    [params.repository]
+    owner = '<repository_owner>'
+    repo = '<repository_name>'
+
+For example:
+
+    [params.repository]
+    owner = 'gohugoio'
+    repo = 'hugoDocs'
+
+Style the list with:
+
+    .contributors {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .contributor {
+      font-size: 0;
+    }
+
+    .contributor img {
+      border-radius: 50%;
+    }
+
+@param {page} page The current page.
+@param {int} [limit=5] The maximum number of avatars to render.
+@param {int} [avatarSize=32] The width and height of the rendered avatar.
+
+@returns {template.HTML}
+
+@examples
+
+    {{ partial "render-github-contributors.html" (dict "page" . "limit" 10 "avatarSize" 80) }}
+    {{ partial "render-github-contributors.html" (dict "page" .) }}
+
+*/}}
+
+{{- /* Initialize. */}}
+{{- $avatarSize := or .avatarSize 32 }}
+{{- $limit := or .limit 5 }}
+{{- $page := .page }}
+{{- $partialName := "render-github-contributors" }}
+
+{{- /* Verify minimum required version. */}}
+{{- $minHugoVersion := "0.126.0" }}
+{{- if lt hugo.Version $minHugoVersion }}
+  {{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
+{{- end }}
+
+{{- /* Render. */}}
+{{- with $page.File }}
+  {{- $path := strings.TrimPrefix hugo.WorkingDir .Filename }}
+  {{- $url := printf "https://api.github.com/repos/%s/%s/commits?%s"
+    site.Params.repository.owner
+    site.Params.repository.repo
+    (querify "path" $path)
+  }}
+
+  {{- $data := "" }}
+  {{- with resources.GetRemote $url }}
+    {{- with .Err }}
+      {{- errorf "The %q partial was unable to get remote resource %s: %s" $partialName $url . }}
+    {{- else }}
+      {{- $data = . | transform.Unmarshal }}
+    {{- end }}
+  {{- else }}
+    {{- errorf "The %q partial was unable to get remote resource %s" $partialName $url }}
+  {{- end }}
+
+  {{- with $data }}
+    {{- $contributors := slice }}
+    {{- range $data }}
+      {{- $el := dict "login" .author.login "avatar_url" .author.avatar_url "html_url" .author.user_url }}
+      {{- $contributors = $contributors | append $el }}
+    {{- end }}
+    {{- $contributors = $contributors | uniq }}
+
+    {{- with $contributors }}
+      <div class="contributors">
+        {{- range first $limit . }}
+          {{- $contributorAvatarURL := .avatar_url }}
+          {{- $contributorName := .login }}
+          {{- $contributorURL := .user_url }}
+          <div class="contributor">
+            {{- with resources.GetRemote $contributorAvatarURL }}
+              {{- with .Err }}
+                {{- errorf "The %q partial was unable to get remote resource %s: %s" $partialName $url . }}
+              {{- else }}
+                {{- with .Fit (printf "%[1]dx%[1]d" $avatarSize) }}
+                  <a href="{{ $contributorURL }}" title="{{ $contributorName }}">
+                    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $contributorName }}" >
+                  </a>
+                {{- end }}
+              {{- end }}
+            {{- else }}
+              {{- errorf "The %q partial was unable to get remote resource %s" $partialName $url }}
+            {{- end }}
+          </div>
+        {{- end }}
+      </div>
+    {{- end }}
+  {{- end }}
+{{- end }}
