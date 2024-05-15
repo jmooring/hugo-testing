@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #5070'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-05-15T08:53:15-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/5070'
+description = "Display list of GitHub users who have contributed to a page"
 +++
