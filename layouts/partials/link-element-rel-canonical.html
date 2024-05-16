@@ -1,0 +1,45 @@
+{{- /*
+Renders a link element with the canonical URL for the page.
+
+This is designed to work with multilingual content module mounts that fill in
+missing translations as described in https://discourse.gohugo.io/t/37225.
+
+Assumptions:
+
+1. Missing translations always fall back to the default language. This won't
+   work with a waterfall fall back setup.
+
+2. This assumes translation by directory, not by language key in file name.
+
+3. This assumes contentDir is single segment or a single segment followed by
+   the language key. For example:
+
+    contentDir = 'content'
+    contentDir = 'content/en'
+
+    These will fail:
+
+    contentDir = 'content/foo'
+    contentDir = 'content/foo/en'
+
+@param {page} . The current page
+@returns {template.HTML}
+
+@example: {{ partial "link-element-rel-canonical" . }}
+*/}}
+
+{{- $canonicalURL := .Permalink }}
+{{- with .File }}
+  {{- $filename := strings.TrimPrefix hugo.WorkingDir .Filename }}
+
+  {{- $slashSplit := split $filename "/" }}       {{/* Linux and macOS */}}
+  {{- $backSlashSplit := split $filename "\\" }}  {{/* Windows */}}
+
+  {{- $slashLang := index $slashSplit 2 }}
+  {{- $backSlashLang := index $backSlashSplit 2 }}
+
+  {{- if not (in (slice $slashLang $backSlashLang) $.Language.Lang) }}
+    {{- $canonicalURL = (index $.AllTranslations 0).Permalink }}
+  {{- end }}
+{{- end }}
+<link rel="canonical" href="{{ $canonicalURL }}">
