@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #49842
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/49842>
 
-Description: @@DESCRIPTION@@
+Description: [Content Adapters] How to process files inside a directory instead of hardcoding files?
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-49842 https://github.com/jmooring/hugo-testing hugo-forum-topic-49842
+cd hugo-forum-topic-49842
 hugo server
 ```
