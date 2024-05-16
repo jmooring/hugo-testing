@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <h2>Params</h2>
+  {{ range $k, $v := .Params }}
+    {{ $k }}: {{ $v }}<br>
+  {{ end }}
 {{ end }}

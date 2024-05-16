@@ -1,0 +1,18 @@
+{{ range $firstLevel, $_ := site.Data }}
+  {{ $page := dict
+    "kind" "section"
+    "path" $firstLevel
+    "title" ($firstLevel | humanize)
+    "menus" "main"
+  }}
+  {{ $.AddPage $page }}
+  {{ range $secondLevel, $_ := . }}
+    {{ $page := dict
+      "kind" "page"
+      "params" .
+      "path" (path.Join $firstLevel $secondLevel)
+      "title" ($secondLevel | humanize)
+    }}
+    {{ $.AddPage $page }}
+  {{ end }}
+{{ end }}
