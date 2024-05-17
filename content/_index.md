@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/49859'
 description = "Possible to rewrite the URL using the REF shortcode?"
 +++
+
+Visit [Article 1](article-1) to test the link render hook.
