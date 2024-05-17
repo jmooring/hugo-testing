@@ -2,7 +2,7 @@
 
 Details: <https://github.com/gohugoio/hugo/issues/12514>
 
-Description: Multilingual with `defaultContentLanguageInSubdir = true`: Processed images not copied to non-default content languages
+Description: tpl/tplimpl: Embedded render hooks fail to get page resource when destination has leading ./
 
 ## Instructions
 
