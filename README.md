@@ -2,7 +2,7 @@
 
 Details: <https://github.com/gohugoio/hugo/issues/8077>
 
-Description: Add support for page backlinks (e.g. `.GetBacklinks`)
+Description: Add support for page backlinks
 
 ## Instructions
 
