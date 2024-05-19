@@ -1,0 +1,4 @@
+{{- $humanDate := time.Format ":date_long" . }}
+{{- $machineDate := time.Format "2006-01-02T15:04:05-07:00" . }}
+<time {{ printf "datetime=%q" $machineDate | safeHTMLAttr }}>{{ $humanDate }}</time>
+{{- /**/ -}}

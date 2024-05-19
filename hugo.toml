@@ -1,3 +1,55 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #448'
+summaryLength = 30
+paginate = 5
+
+# Permalinks
+# -----------------------------------------------------------------------------
+
+[permalinks.page]
+posts = "/:year/:month/:day/:slug"
+
+# Modules
+# -----------------------------------------------------------------------------
+
+[[module.imports]]
+path = 'github.com/jmooring/hugo-module-archive'
+
+[params.modules.archive]
+section = '/posts/'   # The section for which to build archive pages.
+prefix = '/archive/'  # The URL prefix for archive pages.
+paginate = true       # Whether to paginate archive pages.
+navigation = false    # Whether to display previous and next buttons on archive pages.
+
+[params.modules.archive.formats]
+year = "2006"
+month = "January 2006"
+day = "2 January 2006"
+
+# Menus
+# -----------------------------------------------------------------------------
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+# Render hooks
+# -----------------------------------------------------------------------------
+
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
