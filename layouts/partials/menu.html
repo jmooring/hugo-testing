@@ -1,0 +1,38 @@
+<div class="d-none d-md-flex mr-2">
+	<ul class="nav-main">
+		{{ $currentPage := . }}
+		{{- range .Site.Menus.main -}}
+      <li class="{{ if or ($currentPage.IsMenuCurrent .Menu .) ($currentPage.HasMenuCurrent .Menu .) }}selected{{ end }} {{ if .HasChildren }}dropdown{{end}}">
+        <a {{- if gt (len .Pre) 0 }}class="{{.Pre}}"{{ end }} href="{{ .URL }}">{{ .Name | markdownify }}</a>
+        {{ if .HasChildren }}
+          <ul class="sub">
+            {{ range .Children }}
+              <li class="{{ if or ($currentPage.IsMenuCurrent .Menu .) ($currentPage.HasMenuCurrent .Menu .) }}selected{{ end }}">
+                <a href="{{ .URL }}">
+                  {{ $icon := (.Pre) }}
+                  {{ if $icon }}
+                    <i class="nav-deco nav-deco--{{ .Name | anchorize }} ico {{$icon}}"></i>
+                  {{ end }}
+                  <div>
+                    <span class="title">{{ .Name | markdownify }}</span>
+                    <span class="description">{{ .Post }}</span>
+                  </div>
+                </a>
+              </li>
+            {{ end }}
+            {{/*  {{ .Page.Path  | warnf "%#[2]v (%[2]T) [%[1]d]" math.Counter }}  */}}
+            {{ if eq .Name "Industries" }}
+              <li>
+                <a href="{{ .URL }}">
+                  <div>
+                    <span class="title">{{ i18n "moreIndustriesNavi"}}</span>
+                  </div>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </li>
+		{{ end -}}
+	</ul>
+</div>

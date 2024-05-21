@@ -1,3 +1,134 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #49919'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+  weight = 1
+  title = "Shift scheduling and team management – smart, easy, free"
+  languageName = "English"
+
+[languages.en.params]
+  langcode = "English"
+  lang = "en"
+
+[[languages.en.menu.main]]
+  name =  "Product"
+  weight = 1
+  pageRef = "/product"
+
+[[languages.en.menu.main]]
+  name = "Scheduling"
+  weight = 10
+  pageRef = "/shift-planner"
+  parent = "Product"
+  pre = "i-calendar"
+  post = "Some description"
+
+[[languages.en.menu.main]]
+  name = "Management"
+  weight = 12
+  pageRef = "/manager-app"
+  parent = "Product"
+  pre = "i-team"
+  post = "Some description"
+
+[[languages.en.menu.main]]
+  name = "Time tracking"
+  weight = 13
+  pageRef = "/time-tracking-attendance"
+  parent = "Product"
+  pre = "i-punch-in"
+  post = "Some description"
+
+[[languages.en.menu.main]]
+  name = "Payroll"
+  weight = 14
+  pageRef = "/payroll"
+  parent = "Product"
+  pre = "i-wallet"
+  post = "Some description"
+
+[[languages.en.menu.main]]
+  name = "Industries"
+  weight = 2
+  pageRef = "/industries"
+
+[[languages.en.menu.main]]
+  name = "Retail & Shops"
+  weight = 22
+  pageRef = "/staff-scheduling-retail"
+  post = "Some description"
+  parent = "Industries"
+
+[[languages.en.menu.main]]
+  name = "Healthcare & Medical"
+  weight = 23
+  pageRef = "/staff-scheduling-pharmacy"
+  post = "Some description"
+  parent = "Industries"
+
+[[languages.en.menu.main]]
+  name = "Catering & Gastro"
+  weight = 24
+  pageRef = "/staff-scheduling-catering"
+  post = "Some description"
+  parent = "Industries"
+
+[[languages.en.menu.main]]
+  name = "Hotels & Hospitality"
+  weight = 25
+  pageRef = "/staff-scheduling-hotels"
+  post = "Some description"
+  parent = "Industries"
+
+[[languages.en.menu.main]]
+  name = "Security & Surveillance"
+  weight = 26
+  pageRef = "/industry-security"
+  post = "Some description"
+  parent = "Industries"
+
+[[languages.en.menu.main]]
+  name = "Pricing"
+  weight = 8
+  pageRef = "/pricing"
+
+[[languages.en.menu.main]]
+  name = "Resources"
+  weight = 7
+  pageRef = "/resources"
+
+[[languages.en.menu.main]]
+  name = "Case studies"
+  weight = 52
+  pageRef = "/case-studies"
+  pre = "i-star ico--color"
+  post = "qwert"
+  parent = "Resources"
+
+[[languages.en.menu.main]]
+  name = "Blog"
+  weight = 53
+  pageRef = "/blog"
+  pre = "i-speech ico--color"
+  post = "qwert"
+  parent = "Resources"
+
+[[languages.en.menu.main]]
+  name = "Excel templates"
+  weight = 54
+  pageRef = "/resources/excel-templates"
+  pre = "i-template ico--color"
+  post = "qwert"
+  parent = "Resources"
+
+[[languages.en.menu.main]]
+  name = "Business days"
+  weight = 55
+  pageRef = "/resources/business-days"
+  pre = "i-holiday ico--color"
+  post = "qwert"
+  parent = "Resources"
