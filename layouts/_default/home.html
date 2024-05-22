@@ -11,5 +11,12 @@
   {{ .Content }}
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+    {{ with .Resources.Get .Params.mainImg }}
+      {{ with .Fill "100x100" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+
   {{ end }}
 {{ end }}
