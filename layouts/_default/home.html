@@ -9,7 +9,33 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Example 1</h2>
+
+  <p>Resize a JPEG image to 300 px width, convert to WebP, and a 20 px blue border with 50% transparency. On the red background, the border should be purple.</p>
+
+  {{ with resources.Get "a.jpg" }}
+    {{ $filters := slice
+      (images.Process "resize 300x webp")
+      (images.Padding 20 "#00f7")
+    }}
+    {{ with . | images.Filter $filters }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
   {{ end }}
+
+  <h2>Example 2</h2>
+
+  <p>Resize a JPEG image to 400 px width, convert to PNG, and a 20 px blue border with 50% transparency. On the red background, the border should be purple.</p>
+
+  {{ with resources.Get "a.jpg" }}
+    {{ $filters := slice
+      (images.Process "resize 400x png")
+      (images.Padding 20 "#00f7")
+    }}
+    {{ with . | images.Filter $filters }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
 {{ end }}
