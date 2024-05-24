@@ -1,0 +1,15 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<div class="test-image">
+  {{ $i := resources.Get "images/a.jpg" }}
+  {{ $i = $i.Resize "x200 png" }}
+  {{ $filters := slice
+    (images.Padding 20 "#00f7")
+  }}
+  {{ $i = images.Filter $filters $i }}
+  <img src="{{ $i.RelPermalink }}" width="{{ $i.Width }}" height="{{ $i.Height }}" alt="">
+</div>
+
+{{ end }}

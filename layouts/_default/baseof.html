@@ -4,15 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
-  <style>
-    main {
-      background: repeating-linear-gradient(
-        to bottom,
-        white, white 10px,
-        #ccc 10px, #ccc 20px
-      );
-    }
-  </style>
+  {{ partial "css.html" . }}
 </head>
 <body>
   <header>
