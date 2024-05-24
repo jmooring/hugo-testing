@@ -12,7 +12,9 @@
 
   <h2>Example 1</h2>
 
-  <p>Resize a JPEG image to 300 px width, convert to WebP, and a 20 px blue border with 50% transparency. On the red background, the border should be purple.</p>
+  <p>Resize a JPEG image to 300 px width, convert to WebP, and a 20 px blue
+  border with 50% transparency. The border should be transparent blue, which it
+  is.</p>
 
   {{ with resources.Get "a.jpg" }}
     {{ $filters := slice
@@ -26,16 +28,38 @@
 
   <h2>Example 2</h2>
 
-  <p>Resize a JPEG image to 400 px width, convert to PNG, and a 20 px blue border with 50% transparency. On the red background, the border should be purple.</p>
+  <p>Resize a JPEG image to 200 px height, convert to PNG, and a 20 px blue
+  border with 50% transparency. The border should be transparent blue, which it
+  is.</p>
 
   {{ with resources.Get "a.jpg" }}
     {{ $filters := slice
-      (images.Process "resize 400x png")
+      (images.Process "resize x200 png")
       (images.Padding 20 "#00f7")
     }}
     {{ with . | images.Filter $filters }}
       <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
     {{ end }}
   {{ end }}
+
+  <p>Resize a JPEG image to 200 px height, convert to PNG, and a 20 px blue
+  border with 50% transparency. The border should be transparent blue, but it
+  isn't! 🤔</p>
+
+  {{ with resources.Get "a.jpg" }}
+    {{- $image := .Resize "300x png" }}
+    {{- $image = $image.Filter (images.Padding 20 "#00f7") }}
+  <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="">
+  {{- end }}
+
+  <p>Resize a JPEG image to 300 px height, convert to PNG, and a 20 px blue
+  border with 50% transparency. The border should be transparent blue, but
+  instead it is opaque grey! 🤔</p>
+
+  {{ with resources.Get "a.jpg" }}
+    {{- $image := .Resize "x300 png" }}
+    {{- $image = $image.Filter (images.Padding 20 "#00f7") }}
+  <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="">
+  {{- end }}
 
 {{ end }}
