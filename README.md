@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #49979
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/49979>
 
-Description: @@DESCRIPTION@@
+Description: How can i pull specific open api swagger file into markdown file using openapi src syntax in hugo
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-49979 https://github.com/jmooring/hugo-testing hugo-forum-topic-49979
+cd hugo-forum-topic-49979
 hugo server
 ```
