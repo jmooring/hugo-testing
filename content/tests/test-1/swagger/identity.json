@@ -1,0 +1,185 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "identity",
+        "version": "Unknown"
+    },
+    "consumes": [
+        "application/json"
+    ],
+    "produces": [
+        "application/json"
+    ],
+    "paths": {
+        "/": {
+            "get": {
+                "operationId": "getVersions-v2",
+                "summary": "List versions",
+                "description": "Lists information about all Identity API versions.\n",
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "200 response",
+                        "examples": {
+                            "application/json": "{\n    \"versions\": {\n        \"values\": [\n            {\n                \"status\": \"stable\",\n                \"updated\": \"2013-03-06T00:00:00Z\",\n                \"media-types\": [\n                    {\n                        \"base\": \"application/json\",\n                        \"type\": \"application/vnd.openstack.identity-v3+json\"\n                    },\n                    {\n                        \"base\": \"application/xml\",\n                        \"type\": \"application/vnd.openstack.identity-v3+xml\"\n                    }\n                ],\n                \"id\": \"v3.0\",\n                \"links\": [\n                    {\n                        \"href\": \"http://192.168.122.176:5000/v3/\",\n                        \"rel\": \"self\"\n                    }\n                ]\n            },\n            {\n                \"status\": \"stable\",\n                \"updated\": \"2014-04-17T00:00:00Z\",\n                \"media-types\": [\n                    {\n                        \"base\": \"application/json\",\n                        \"type\": \"application/vnd.openstack.identity-v2.0+json\"\n                    },\n                    {\n                        \"base\": \"application/xml\",\n                        \"type\": \"application/vnd.openstack.identity-v2.0+xml\"\n                    }\n                ],\n                \"id\": \"v2.0\",\n                \"links\": [\n                    {\n                        \"href\": \"http://192.168.122.176:5000/v2.0/\",\n                        \"rel\": \"self\"\n                    },\n                    {\n                        \"href\": \"http://docs.openstack.org/\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ]\n            }\n        ]\n    }\n}"
+                        }
+                    }
+                }
+            }
+        },
+        "/v2.0": {
+            "get": {
+                "operationId": "getVersionInfo-v2.0",
+                "summary": "Show version details",
+                "description": "Shows details for the Identity API v2.0.\n",
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"version\": {\n        \"status\": \"stable\",\n        \"updated\": \"2013-03-06T00:00:00Z\",\n        \"media-types\": [\n            {\n                \"base\": \"application/json\",\n                \"type\": \"application/vnd.openstack.identity-v3+json\"\n            },\n            {\n                \"base\": \"application/xml\",\n                \"type\": \"application/vnd.openstack.identity-v3+xml\"\n            }\n        ],\n        \"id\": \"v3.0\",\n        \"links\": [\n            {\n                \"href\": \"http://23.253.228.211:35357/v3/\",\n                \"rel\": \"self\"\n            }\n        ]\n    }\n}"
+                        }
+                    },
+                    "203": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"version\": {\n        \"status\": \"stable\",\n        \"updated\": \"2013-03-06T00:00:00Z\",\n        \"media-types\": [\n            {\n                \"base\": \"application/json\",\n                \"type\": \"application/vnd.openstack.identity-v3+json\"\n            },\n            {\n                \"base\": \"application/xml\",\n                \"type\": \"application/vnd.openstack.identity-v3+xml\"\n            }\n        ],\n        \"id\": \"v3.0\",\n        \"links\": [\n            {\n                \"href\": \"http://23.253.228.211:35357/v3/\",\n                \"rel\": \"self\"\n            }\n        ]\n    }\n}"
+                        }
+                    }
+                }
+            }
+        },
+        "/v2.0/extensions": {
+            "get": {
+                "operationId": "listExtensions-v2.0",
+                "summary": "List extensions",
+                "description": "Lists available extensions.\n",
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"extensions\": {\n        \"values\": [\n            {\n                \"updated\": \"2013-07-07T12:00:0-00:00\",\n                \"name\": \"OpenStack S3 API\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/s3tokens/v1.0\",\n                \"alias\": \"s3tokens\",\n                \"description\": \"OpenStack S3 API.\"\n            },\n            {\n                \"updated\": \"2013-07-23T12:00:0-00:00\",\n                \"name\": \"OpenStack Keystone Endpoint Filter API\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api/blob/master/openstack-identity-api/v3/src/markdown/identity-api-v3-os-ep-filter-ext.md\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-EP-FILTER/v1.0\",\n                \"alias\": \"OS-EP-FILTER\",\n                \"description\": \"OpenStack Keystone Endpoint Filter API.\"\n            },\n            {\n                \"updated\": \"2013-12-17T12:00:0-00:00\",\n                \"name\": \"OpenStack Federation APIs\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-FEDERATION/v1.0\",\n                \"alias\": \"OS-FEDERATION\",\n                \"description\": \"OpenStack Identity Providers Mechanism.\"\n            },\n            {\n                \"updated\": \"2013-07-11T17:14:00-00:00\",\n                \"name\": \"OpenStack Keystone Admin\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-KSADM/v1.0\",\n                \"alias\": \"OS-KSADM\",\n                \"description\": \"OpenStack extensions to Keystone v2.0 API enabling Administrative Operations.\"\n            },\n            {\n                \"updated\": \"2014-01-20T12:00:0-00:00\",\n                \"name\": \"OpenStack Simple Certificate API\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-SIMPLE-CERT/v1.0\",\n                \"alias\": \"OS-SIMPLE-CERT\",\n                \"description\": \"OpenStack simple certificate retrieval extension\"\n            },\n            {\n                \"updated\": \"2013-07-07T12:00:0-00:00\",\n                \"name\": \"OpenStack EC2 API\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-EC2/v1.0\",\n                \"alias\": \"OS-EC2\",\n                \"description\": \"OpenStack EC2 Credentials backend.\"\n            }\n        ]\n    }\n}"
+                        }
+                    },
+                    "203": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"extensions\": {\n        \"values\": [\n            {\n                \"updated\": \"2013-07-07T12:00:0-00:00\",\n                \"name\": \"OpenStack S3 API\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/s3tokens/v1.0\",\n                \"alias\": \"s3tokens\",\n                \"description\": \"OpenStack S3 API.\"\n            },\n            {\n                \"updated\": \"2013-07-23T12:00:0-00:00\",\n                \"name\": \"OpenStack Keystone Endpoint Filter API\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api/blob/master/openstack-identity-api/v3/src/markdown/identity-api-v3-os-ep-filter-ext.md\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-EP-FILTER/v1.0\",\n                \"alias\": \"OS-EP-FILTER\",\n                \"description\": \"OpenStack Keystone Endpoint Filter API.\"\n            },\n            {\n                \"updated\": \"2013-12-17T12:00:0-00:00\",\n                \"name\": \"OpenStack Federation APIs\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-FEDERATION/v1.0\",\n                \"alias\": \"OS-FEDERATION\",\n                \"description\": \"OpenStack Identity Providers Mechanism.\"\n            },\n            {\n                \"updated\": \"2013-07-11T17:14:00-00:00\",\n                \"name\": \"OpenStack Keystone Admin\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-KSADM/v1.0\",\n                \"alias\": \"OS-KSADM\",\n                \"description\": \"OpenStack extensions to Keystone v2.0 API enabling Administrative Operations.\"\n            },\n            {\n                \"updated\": \"2014-01-20T12:00:0-00:00\",\n                \"name\": \"OpenStack Simple Certificate API\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-SIMPLE-CERT/v1.0\",\n                \"alias\": \"OS-SIMPLE-CERT\",\n                \"description\": \"OpenStack simple certificate retrieval extension\"\n            },\n            {\n                \"updated\": \"2013-07-07T12:00:0-00:00\",\n                \"name\": \"OpenStack EC2 API\",\n                \"links\": [\n                    {\n                        \"href\": \"https://github.com/openstack/identity-api\",\n                        \"type\": \"text/html\",\n                        \"rel\": \"describedby\"\n                    }\n                ],\n                \"namespace\": \"http://docs.openstack.org/identity/api/ext/OS-EC2/v1.0\",\n                \"alias\": \"OS-EC2\",\n                \"description\": \"OpenStack EC2 Credentials backend.\"\n            }\n        ]\n    }\n}"
+                        }
+                    }
+                }
+            }
+        },
+        "/v2.0/extensions/{alias}": {
+            "parameters": [
+                {
+                    "name": "alias",
+                    "required": true,
+                    "in": "path",
+                    "type": "string",
+                    "description": "The extension name.\n"
+                }
+            ],
+            "get": {
+                "operationId": "getExtension-v2.0",
+                "summary": "Get extension details",
+                "description": "Gets detailed information for a specified extension.\n",
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"extension\": {\n        \"updated\": \"2013-07-07T12:00:0-00:00\",\n        \"name\": \"OpenStack S3 API\",\n        \"links\": [\n            {\n                \"href\": \"https://github.com/openstack/identity-api\",\n                \"type\": \"text/html\",\n                \"rel\": \"describedby\"\n            }\n        ],\n        \"namespace\": \"http://docs.openstack.org/identity/api/ext/s3tokens/v1.0\",\n        \"alias\": \"s3tokens\",\n        \"description\": \"OpenStack S3 API.\"\n    }\n}"
+                        }
+                    },
+                    "203": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"extension\": {\n        \"updated\": \"2013-07-07T12:00:0-00:00\",\n        \"name\": \"OpenStack S3 API\",\n        \"links\": [\n            {\n                \"href\": \"https://github.com/openstack/identity-api\",\n                \"type\": \"text/html\",\n                \"rel\": \"describedby\"\n            }\n        ],\n        \"namespace\": \"http://docs.openstack.org/identity/api/ext/s3tokens/v1.0\",\n        \"alias\": \"s3tokens\",\n        \"description\": \"OpenStack S3 API.\"\n    }\n}"
+                        }
+                    }
+                }
+            }
+        },
+        "/v2.0/tokens": {
+            "post": {
+                "operationId": "authenticate-v2.0",
+                "summary": "Authenticate",
+                "description": "Authenticates and generates a token.\n",
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"access\": {\n        \"token\": {\n            \"issued_at\": \"2014-01-30T15:30:58.819584\",\n            \"expires\": \"2014-01-31T15:30:58Z\",\n            \"id\": \"aaaaa-bbbbb-ccccc-dddd\",\n            \"tenant\": {\n                \"enabled\": true,\n                \"description\": null,\n                \"name\": \"demo\",\n                \"id\": \"fc394f2ab2df4114bde39905f800dc57\"\n            }\n        },\n        \"serviceCatalog\": [\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8774/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8774/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"internalURL\": \"http://23.253.72.207:8774/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"id\": \"2dad48f09e2a447a9bf852bcd93548ef\"\n                    }\n                ],\n                \"type\": \"compute\",\n                \"name\": \"nova\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:9696/\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:9696/\",\n                        \"internalURL\": \"http://23.253.72.207:9696/\",\n                        \"id\": \"97c526db8d7a4c88bbb8d68db1bdcdb8\"\n                    }\n                ],\n                \"type\": \"network\",\n                \"name\": \"neutron\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8776/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8776/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"internalURL\": \"http://23.253.72.207:8776/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"id\": \"93f86dfcbba143a39a33d0c2cd424870\"\n                    }\n                ],\n                \"type\": \"volumev2\",\n                \"name\": \"cinder\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8774/v3\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8774/v3\",\n                        \"internalURL\": \"http://23.253.72.207:8774/v3\",\n                        \"id\": \"3eb274b12b1d47b2abc536038d87339e\"\n                    }\n                ],\n                \"type\": \"computev3\",\n                \"name\": \"nova\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:3333\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:3333\",\n                        \"internalURL\": \"http://23.253.72.207:3333\",\n                        \"id\": \"957f1e54afc64d33a62099faa5e980a2\"\n                    }\n                ],\n                \"type\": \"s3\",\n                \"name\": \"s3\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:9292\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:9292\",\n                        \"internalURL\": \"http://23.253.72.207:9292\",\n                        \"id\": \"27d5749f36864c7d96bebf84a5ec9767\"\n                    }\n                ],\n                \"type\": \"image\",\n                \"name\": \"glance\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8776/v1/fc394f2ab2df4114bde39905f800dc57\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8776/v1/fc394f2ab2df4114bde39905f800dc57\",\n                        \"internalURL\": \"http://23.253.72.207:8776/v1/fc394f2ab2df4114bde39905f800dc57\",\n                        \"id\": \"37c83a2157f944f1972e74658aa0b139\"\n                    }\n                ],\n                \"type\": \"volume\",\n                \"name\": \"cinder\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8773/services/Admin\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8773/services/Cloud\",\n                        \"internalURL\": \"http://23.253.72.207:8773/services/Cloud\",\n                        \"id\": \"289b59289d6048e2912b327e5d3240ca\"\n                    }\n                ],\n                \"type\": \"ec2\",\n                \"name\": \"ec2\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8080\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8080/v1/AUTH_fc394f2ab2df4114bde39905f800dc57\",\n                        \"internalURL\": \"http://23.253.72.207:8080/v1/AUTH_fc394f2ab2df4114bde39905f800dc57\",\n                        \"id\": \"16b76b5e5b7d48039a6e4cc3129545f3\"\n                    }\n                ],\n                \"type\": \"object-store\",\n                \"name\": \"swift\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:35357/v2.0\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:5000/v2.0\",\n                        \"internalURL\": \"http://23.253.72.207:5000/v2.0\",\n                        \"id\": \"26af053673df4ef3a2340c4239e21ea2\"\n                    }\n                ],\n                \"type\": \"identity\",\n                \"name\": \"keystone\"\n            }\n        ],\n        \"user\": {\n            \"username\": \"demo\",\n            \"roles_links\": [],\n            \"id\": \"9a6590b2ab024747bc2167c4e064d00d\",\n            \"roles\": [\n                {\n                    \"name\": \"Member\"\n                },\n                {\n                    \"name\": \"anotherrole\"\n                }\n            ],\n            \"name\": \"demo\"\n        },\n        \"metadata\": {\n            \"is_admin\": 0,\n            \"roles\": [\n                \"7598ac3c634d4c3da4b9126a5f67ca2b\",\n                \"f95c0ab82d6045d9805033ee1fbc80d4\"\n            ]\n        }\n    }\n}"
+                        }
+                    },
+                    "203": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"access\": {\n        \"token\": {\n            \"issued_at\": \"2014-01-30T15:30:58.819584\",\n            \"expires\": \"2014-01-31T15:30:58Z\",\n            \"id\": \"aaaaa-bbbbb-ccccc-dddd\",\n            \"tenant\": {\n                \"enabled\": true,\n                \"description\": null,\n                \"name\": \"demo\",\n                \"id\": \"fc394f2ab2df4114bde39905f800dc57\"\n            }\n        },\n        \"serviceCatalog\": [\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8774/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8774/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"internalURL\": \"http://23.253.72.207:8774/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"id\": \"2dad48f09e2a447a9bf852bcd93548ef\"\n                    }\n                ],\n                \"type\": \"compute\",\n                \"name\": \"nova\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:9696/\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:9696/\",\n                        \"internalURL\": \"http://23.253.72.207:9696/\",\n                        \"id\": \"97c526db8d7a4c88bbb8d68db1bdcdb8\"\n                    }\n                ],\n                \"type\": \"network\",\n                \"name\": \"neutron\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8776/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8776/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"internalURL\": \"http://23.253.72.207:8776/v2/fc394f2ab2df4114bde39905f800dc57\",\n                        \"id\": \"93f86dfcbba143a39a33d0c2cd424870\"\n                    }\n                ],\n                \"type\": \"volumev2\",\n                \"name\": \"cinder\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8774/v3\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8774/v3\",\n                        \"internalURL\": \"http://23.253.72.207:8774/v3\",\n                        \"id\": \"3eb274b12b1d47b2abc536038d87339e\"\n                    }\n                ],\n                \"type\": \"computev3\",\n                \"name\": \"nova\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:3333\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:3333\",\n                        \"internalURL\": \"http://23.253.72.207:3333\",\n                        \"id\": \"957f1e54afc64d33a62099faa5e980a2\"\n                    }\n                ],\n                \"type\": \"s3\",\n                \"name\": \"s3\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:9292\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:9292\",\n                        \"internalURL\": \"http://23.253.72.207:9292\",\n                        \"id\": \"27d5749f36864c7d96bebf84a5ec9767\"\n                    }\n                ],\n                \"type\": \"image\",\n                \"name\": \"glance\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8776/v1/fc394f2ab2df4114bde39905f800dc57\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8776/v1/fc394f2ab2df4114bde39905f800dc57\",\n                        \"internalURL\": \"http://23.253.72.207:8776/v1/fc394f2ab2df4114bde39905f800dc57\",\n                        \"id\": \"37c83a2157f944f1972e74658aa0b139\"\n                    }\n                ],\n                \"type\": \"volume\",\n                \"name\": \"cinder\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8773/services/Admin\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8773/services/Cloud\",\n                        \"internalURL\": \"http://23.253.72.207:8773/services/Cloud\",\n                        \"id\": \"289b59289d6048e2912b327e5d3240ca\"\n                    }\n                ],\n                \"type\": \"ec2\",\n                \"name\": \"ec2\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:8080\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:8080/v1/AUTH_fc394f2ab2df4114bde39905f800dc57\",\n                        \"internalURL\": \"http://23.253.72.207:8080/v1/AUTH_fc394f2ab2df4114bde39905f800dc57\",\n                        \"id\": \"16b76b5e5b7d48039a6e4cc3129545f3\"\n                    }\n                ],\n                \"type\": \"object-store\",\n                \"name\": \"swift\"\n            },\n            {\n                \"endpoints_links\": [],\n                \"endpoints\": [\n                    {\n                        \"adminURL\": \"http://23.253.72.207:35357/v2.0\",\n                        \"region\": \"RegionOne\",\n                        \"publicURL\": \"http://23.253.72.207:5000/v2.0\",\n                        \"internalURL\": \"http://23.253.72.207:5000/v2.0\",\n                        \"id\": \"26af053673df4ef3a2340c4239e21ea2\"\n                    }\n                ],\n                \"type\": \"identity\",\n                \"name\": \"keystone\"\n            }\n        ],\n        \"user\": {\n            \"username\": \"demo\",\n            \"roles_links\": [],\n            \"id\": \"9a6590b2ab024747bc2167c4e064d00d\",\n            \"roles\": [\n                {\n                    \"name\": \"Member\"\n                },\n                {\n                    \"name\": \"anotherrole\"\n                }\n            ],\n            \"name\": \"demo\"\n        },\n        \"metadata\": {\n            \"is_admin\": 0,\n            \"roles\": [\n                \"7598ac3c634d4c3da4b9126a5f67ca2b\",\n                \"f95c0ab82d6045d9805033ee1fbc80d4\"\n            ]\n        }\n    }\n}"
+                        }
+                    }
+                }
+            }
+        },
+        "/v2.0/tenants": {
+            "parameters": [
+                {
+                    "name": "X-Auth-Token",
+                    "required": true,
+                    "in": "header",
+                    "type": "string",
+                    "description": "A valid authentication token.\n"
+                },
+                {
+                    "name": "marker",
+                    "required": false,
+                    "in": "query",
+                    "type": "string",
+                    "description": "The ID of the last item in the previous list.\n"
+                },
+                {
+                    "name": "limit",
+                    "required": false,
+                    "in": "query",
+                    "type": "integer",
+                    "description": "The page size.\n"
+                }
+            ],
+            "get": {
+                "operationId": "listTenants",
+                "summary": "List tenants",
+                "description": "Lists tenants to which the specified token has access.\n",
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"tenants_links\": [],\n    \"tenants\": [\n        {\n            \"description\": \"A description ...\",\n            \"enabled\": true,\n            \"id\": \"1234\",\n            \"name\": \"ACME Corp\"\n        },\n        {\n            \"description\": \"A description ...\",\n            \"enabled\": true,\n            \"id\": \"3456\",\n            \"name\": \"Iron Works\"\n        }\n    ]\n}"
+                        }
+                    },
+                    "203": {
+                        "description": "200 203 response",
+                        "examples": {
+                            "application/json": "{\n    \"tenants_links\": [],\n    \"tenants\": [\n        {\n            \"description\": \"A description ...\",\n            \"enabled\": true,\n            \"id\": \"1234\",\n            \"name\": \"ACME Corp\"\n        },\n        {\n            \"description\": \"A description ...\",\n            \"enabled\": true,\n            \"id\": \"3456\",\n            \"name\": \"Iron Works\"\n        }\n    ]\n}"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

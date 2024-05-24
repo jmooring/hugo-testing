@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "swagger-ui": "^5.17.12"
+  }
+}

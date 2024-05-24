@@ -1,0 +1,34 @@
+{{ with .Get 0 }}
+  {{ $data := dict }}
+  {{ $u := urls.Parse . }}
+  {{ if $u.IsAbs }}
+    {{ with resources.GetRemote $u.String }}
+      {{ with .Err }}
+        {{ errorf "The %q shorcode was unable to get the remote resource %s: %s: see %s" $.Name $u.String . $.Position }}
+      {{ else }}
+        {{ $data = . | transform.Unmarshal }}
+      {{ end }}
+    {{ else }}
+      {{ errorf "The %q shorcode was unable to get the remote resource %s: see %s" $.Name $u.String $.Position }}
+    {{ end }}
+  {{ else }}
+    {{ with or ($.Page.Resources.Get $u.Path) (resources.Get $u.Path) }}
+      {{ $data = . | transform.Unmarshal }}
+    {{ else }}
+      {{ errorf "The %q shortcode was unable to get %s: see %s" $.Name $u.Path $.Position }}
+    {{ end }}
+  {{ end }}
+
+  {{ $id := printf "sui-%03d" (add $.Ordinal 1) }}
+  <div id="{{ $id }}"></div>
+  <script>
+    window.onload = () => {
+      window.ui = SwaggerUI({
+        dom_id: '#{{ $id }}',
+        spec: {{ $data }},
+      });
+    };
+  </script>
+{{ else }}
+  {{ errorf "The %q shortcode requires a positional parameter, the name of the data file. See %s" .Name .Position }}
+{{ end }}
