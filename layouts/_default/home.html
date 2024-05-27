@@ -9,7 +9,31 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Logo only</h2>
+
+  {{ with resources.Get "images/logo.png" }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
   {{ end }}
+
+  <h2>Logo as overlay</h2>
+
+  <p>Note that the logo quality isn't great when compared to the above.</p>
+
+  {{/* Capture the overlay image as a resource. */}}
+  {{ $overlay := "" }}
+  {{ with resources.Get "images/logo.png" }}
+    {{ $overlay = . }}
+  {{ end }}
+
+  {{/* Create the filter. */}}
+  {{ $filter := images.Overlay $overlay 20 20 }}
+
+  {{/* Apply the filter using the images.Filter function. */}}
+  {{ with resources.Get "images/original.jpg" }}
+    {{ with . | images.Filter $filter }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
 {{ end }}
