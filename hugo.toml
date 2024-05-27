@@ -1,3 +1,77 @@
 baseURL = 'https://example.org/'
+
+disableKinds = ['rss','sitemap']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+# Taxonomies
+# -----------------------------------------------------------------------------
+
+[taxonomies]
+category = 'categories'
+
+# Languages
+# -----------------------------------------------------------------------------
+
+[languages.en]
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #50038'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+title = 'Hugo Forum Topic #50038 (en)'
+
+[languages.pl]
+languageCode = 'pl-PL'
+languageDirection = 'ltr'
+languageName = 'Polski'
+weight = 2
+title = 'Hugo Forum Topic #50038 (pl)'
+
+# Permalinks
+# -----------------------------------------------------------------------------
+
+[languages.en.permalinks.taxonomy]
+categories = "categories"
+
+[languages.en.permalinks.term]
+categories = "/:slug"
+
+[languages.pl.permalinks.taxonomy]
+categories = "kategorie"
+
+[languages.pl.permalinks.term]
+categories = "/:slug"
+
+# Menu entries
+# -----------------------------------------------------------------------------
+
+[[languages.en.menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 20
+
+[[languages.en.menus.main]]
+name = 'Categories'
+pageRef = '/categories'
+weight = 30
+
+[[languages.pl.menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.pl.menus.main]]
+name = 'O Nas'
+pageRef = '/about'
+weight = 20
+
+[[languages.pl.menus.main]]
+name = 'Kategorie'
+pageRef = '/categories'
+weight = 30
