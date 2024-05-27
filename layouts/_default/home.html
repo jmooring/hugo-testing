@@ -25,10 +25,11 @@
     <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
   {{ end }}
 
+  {{/* Apply the filter using the images.Filter function. */}}
+
   <h2>Overlay on 1_input.png</h2>
   <p>The base image is PNG color type 3 (indexed).</p>
 
-  {{/* Apply the filter using the images.Filter function. */}}
   {{ with resources.Get "images/1_input.png" }}
     {{ with . | images.Filter $filter }}
       <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
@@ -38,11 +39,22 @@
   <h2>Overlay on 8_input.png</h2>
   <p>The base image is PNG color type 2 (true color).</p>
 
-  {{/* Apply the filter using the images.Filter function. */}}
   {{ with resources.Get "images/8_input.png" }}
     {{ with . | images.Filter $filter }}
       <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
     {{ end }}
   {{ end }}
+
+  <h2>Overlay on 1_input.png</h2>
+  <p>Convert the base image from PNG color type 3 (indexed) to true color before applying the overlay.</p>
+
+  {{ with resources.Get "images/1_input.png" }}
+    {{ with .Process "jpg" }}
+      {{ with . | images.Filter $filter }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 
 {{ end }}
