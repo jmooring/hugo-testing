@@ -10,16 +10,6 @@
   {{ end }}
   {{ .Content }}
 
-  <h2>Logo only</h2>
-
-  {{ with resources.Get "images/logo.png" }}
-    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-  {{ end }}
-
-  <h2>Logo as overlay</h2>
-
-  <p>Note that the logo quality isn't great when compared to the above.</p>
-
   {{/* Capture the overlay image as a resource. */}}
   {{ $overlay := "" }}
   {{ with resources.Get "images/logo.png" }}
@@ -29,8 +19,27 @@
   {{/* Create the filter. */}}
   {{ $filter := images.Overlay $overlay 20 20 }}
 
+  <h2>Logo only</h2>
+
+  {{ with resources.Get "images/logo.png" }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ end }}
+
+  <h2>Overlay on 1_input.png</h2>
+  <p>The base image is PNG color type 3 (indexed).</p>
+
   {{/* Apply the filter using the images.Filter function. */}}
-  {{ with resources.Get "images/original.jpg" }}
+  {{ with resources.Get "images/1_input.png" }}
+    {{ with . | images.Filter $filter }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  <h2>Overlay on 8_input.png</h2>
+  <p>The base image is PNG color type 2 (true color).</p>
+
+  {{/* Apply the filter using the images.Filter function. */}}
+  {{ with resources.Get "images/8_input.png" }}
     {{ with . | images.Filter $filter }}
       <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
     {{ end }}
