@@ -9,7 +9,14 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+
+  {{ $p1 := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{ $p2 := where $p1 "Params.categories" "intersect" (slice "moments" "thinks") }}
+  {{ $p := $p1 | complement $p2 }}
+
+  {{ range (.Paginate $p).Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
 {{ end }}

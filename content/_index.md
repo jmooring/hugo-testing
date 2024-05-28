@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/50046'
 description = "How can I exclude certain categories from the homepage?"
 +++
+
+The list below should only include even numbered posts, with a maximum of 3 on each pager.
