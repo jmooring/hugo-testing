@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ site.Title }}</h1>
+    <hr>
+  </header>
+  <main>
+
+    {{ $background := resources.Get "background.png" }}
+    {{ $foreground := resources.Get "foreground.png" }}
+
+    <h2>Foreground image</h2>
+    <img src="{{ $foreground.RelPermalink }}">
+
+    <h2>Composite image</h2>
+    {{ $composite := $background | images.Filter (images.Overlay $foreground 20 20) }}
+    <img src="{{ $composite.RelPermalink }}">
+
+    <h2>Workaround (convert base to JPG before applying overlay)</h2>
+    {{ $composite := $background.Process "jpg" | images.Filter (images.Overlay $foreground 20 20) }}
+    <img src="{{ $composite.RelPermalink }}">
+
+  </main>
+</body>
+</html>
