@@ -1,0 +1,53 @@
+<figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
+           {{- if eq (.Get "align") "center" }}align-center {{ end }}
+           {{- with .Get "class" }}{{ . }}{{- end }}"
+{{- end -}}>
+    {{- if .Get "link" -}}
+        <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+    {{- end }}
+    {{- $responsiveImages := (.Params.responsiveImages | default site.Params.responsiveImages) | default true }}
+    {{- $img := ($.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+    {{- if $img -}}{{/* i.e it is present in page bundle */}}
+        {{- $sizes := (slice "360" "480" "720" "1080" "1500") }}
+        {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+        {{- if hugo.IsExtended -}}
+            {{- $processableFormats = $processableFormats | append "webp" -}}
+        {{- end -}}
+        {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+        {{- if (and (in $processableFormats $img.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
+        <img loading="lazy" srcset="{{- range $size := $sizes -}}
+                        {{- if (ge $img.Width $size) -}}
+                        {{ printf "%s %s" (($img.Resize (printf "%sx" $size)).Permalink) (printf "%sw ," $size) -}}
+                        {{ end }}
+                    {{- end -}}{{$img.Permalink }} {{printf "%dw" ($img.Width)}}"
+            sizes="(min-width: 768px) 720px, 100vw" src="{{ $img.Permalink }}" alt="{{ .Get "alt" }}"
+            width="{{ $img.Width }}" height="{{ $img.Height }}">
+        {{- else }}{{/* Unprocessable image or responsive images disabled */}}
+        <img loading="lazy" src="{{ $img.RelPermalink }}" alt="{{ .Get "alt" }}">
+        {{- end }}
+    {{- else }}{{/* For absolute urls and external links, no img processing here */}}
+            <img loading="lazy" src="{{ (.Get "src") | absURL }}" alt="{{ .Get "alt" }}"
+            {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+            {{- with .Get "height" }} height="{{ . }}"{{ end -}}
+            /> <!-- Clossing img tag -->
+    {{- end }}
+    {{- if .Get "link" -}}
+        </a>
+    {{- end }}
+
+    {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+        <figcaption>
+            {{ with (.Get "title") -}}
+                {{ . }}
+            {{- end -}}
+            {{- if or (.Get "caption") (.Get "attr") -}}<p>
+                {{- .Get "caption" | markdownify -}}
+                {{- with .Get "attrlink" }}
+                    <a href="{{ . }}">
+                {{- end -}}
+                {{- .Get "attr" | markdownify -}}
+                {{- if .Get "attrlink" }}</a>{{ end }}</p>
+            {{- end }}
+        </figcaption>
+    {{- end }}
+</figure>
