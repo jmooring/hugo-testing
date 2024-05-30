@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ with append .CurrentSection.Pages (slice .CurrentSection) }}
+    {{ with .Next $ }}
+      <a href="{{ .RelPermalink }}">Previous</a>
+    {{ end }}
+    {{ with .Prev $ }}
+      <a href="{{ .RelPermalink }}">Next</a>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
