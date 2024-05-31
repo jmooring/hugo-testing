@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $options := dict
+    "caption" "My table"
+    "fields" (slice "Title" "Date" "Summary" "Tags")
+    "pages" (where site.RegularPages "Type" "posts")
+  }}
+  {{ partial "views/table.html" $options }}
+
+{{ end }}

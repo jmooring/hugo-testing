@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
-linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
-draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+title = 'Home'
+date = 2024-05-31T10:50:37-07:00
 +++
+
+These are examples of how to use the [Views] module.
+
+[Views]: https://github.com/jmooring/hugo-module-views

@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $options := dict
+    "fields" (slice "Title" "Date" "Summary" "Tags")
+    "filterable" false
+    "linked" false
+    "pages" (where site.RegularPages "Type" "posts")
+    "paginated" false
+    "searchable" false
+    "sortable" false
+    "styled" false
+  }}
+  {{ partial "views/table.html" $options }}
+
+{{ end }}
