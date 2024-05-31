@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #50096'
+disableKinds = ['home','rss','section','sitemap','taxonomy','term']
+
+[markup.goldmark.renderer]
+unsafe = true

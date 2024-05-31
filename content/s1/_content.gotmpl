@@ -1,0 +1,6 @@
+{{ $page := dict
+  "content" (dict "mediaType" "text/markdown" "value" "aaa <!--more--> bbb")
+  "title" "p1"
+  "path" "p1"
+}}
+{{ .AddPage $page }}
