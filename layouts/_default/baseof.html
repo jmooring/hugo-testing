@@ -9,6 +9,37 @@
   <header>
     <h1>{{ site.Title }}</h1>
     <hr>
+
+<h2>Page backed by a file</h2>
+
+<pre>
+FULL PATH
+
+&lbrace;{ (site.GetPage "/s1/p1").Title }} → {{ (site.GetPage "/s1/p1").Title }}
+&lbrace;{ (site.GetPage "page" "/s1/p1").Title }} → {{ (site.GetPage "page" "/s1/p1").Title }}
+
+FILE NAME ONLY
+
+&lbrace;{ (site.GetPage "p1").Title }} → {{ (site.GetPage "p1").Title }}
+&lbrace;{ (site.GetPage "page" "p1").Title }} → {{ (site.GetPage "page" "p1").Title }}
+</pre>
+
+<h2>Page from content adapter</h2>
+
+<pre>
+FULL PATH
+
+&lbrace;{ (site.GetPage "/s2/p2").Title }} → {{ (site.GetPage "/s2/p2").Title }}
+&lbrace;{ (site.GetPage "page" "/s2/p2").Title }} → {{ (site.GetPage "page" "/s2/p2").Title }}
+
+FILE NAME ONLY
+
+&lbrace;{ (site.GetPage "p2").Title }} → {{ (site.GetPage "p2").Title }}
+&lbrace;{ (site.GetPage "page" "p2").Title }} → {{ (site.GetPage "page" "p2").Title }}
+</pre>
+
+
+    <hr>
   </header>
   <main>
     {{ block "main" . }}{{ end }}
