@@ -1,0 +1,7 @@
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+[languages.en]
+baseURL = 'https://en.example.org/'
+weight = 1
+[languages.de]
+baseURL = 'https://de.example.org/'
+weight = 2
