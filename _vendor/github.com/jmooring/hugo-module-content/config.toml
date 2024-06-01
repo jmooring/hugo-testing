@@ -1,0 +1,11 @@
+[[menu.articles]]
+name = 'Article 1'
+pageref = 'articles/article-1'
+
+[[menu.articles]]
+name = 'Article 2'
+pageref = 'articles/article-2'
+
+[[menu.articles]]
+name = 'Article 3'
+pageref = 'articles/article-3'

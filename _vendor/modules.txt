@@ -1,0 +1,1 @@
+# github.com/jmooring/hugo-module-content v0.1.3

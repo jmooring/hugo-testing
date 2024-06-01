@@ -1,0 +1,14 @@
+{
+  "apple": {
+    "color": "red",
+    "taste": "sweet"
+  },
+  "lemon": {
+    "color": "yellow",
+    "taste": "sour"
+  },
+  "cherry": {
+    "color": "red",
+    "taste": "sweet"
+  }
+}
