@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #50099'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-06-01T05:13:04-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/50099'
+description = "site.GetPage does not get pages created with an adapter"
 +++
