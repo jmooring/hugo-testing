@@ -1,0 +1,29 @@
+baseURL: https://example.org/
+languageCode: en-US
+title: "Hugo GitHub Issue #12523"
+
+caches:
+  getresource:
+    dir: :resourceDir
+    maxAge: 24h
+
+HTTPCache:
+  cache:
+    for:
+      includes:
+        - "https://jmooring.github.io/hugo-random-data/**"
+  polls:
+      high: 15m
+      low: 1m
+      for:
+        includes:
+          - "https://jmooring.github.io/hugo-random-data/**"
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Posts
+      pageRef: /posts
+      weight: 20

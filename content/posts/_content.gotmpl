@@ -1,0 +1,21 @@
+{{ $data := dict }}
+{{ $url := "https://jmooring.github.io/hugo-random-data/index.json" }}
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $data = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $url }}
+{{ end }}
+
+{{ range $data }}
+  {{ $page := dict
+    "content" (dict "mediaType" "text/markdown" "value" .content)
+    "dates" (dict "lastmod" (time.AsTime .lastmod))
+    "title" .title
+    "path" .title
+  }}
+  {{ $.AddPage $page }}
+{{ end }}

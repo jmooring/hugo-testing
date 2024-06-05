@@ -2,6 +2,13 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    <div class="list-item">
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ with .Lastmod }}
+        {{ $humanDate := time.Format "2 Jan 2006 at 3:04:05 PM -07:00" . }}
+        {{ $machineDate := time.Format "2006-01-02T15:04:05-07:00" . }}
+        Updated on <time {{ printf "datetime=%q" $machineDate | safeHTMLAttr }}>{{ $humanDate }}</time>
+      {{ end }}
+    </div>
   {{ end }}
 {{ end }}
