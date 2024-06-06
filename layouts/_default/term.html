@@ -8,7 +8,7 @@
     </p>
   {{ end }}
   {{ .Content }}
-  {{ range .Pages }}
+  {{ range .Pages.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
 {{ end }}
