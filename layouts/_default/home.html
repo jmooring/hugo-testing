@@ -9,7 +9,15 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ $collections := slice }}
+  {{ range $name, $taxonomy := site.Taxonomies }}
+    {{ $collections = $collections | append $taxonomy.Page }}
   {{ end }}
+
+  {{ range $collections.ByWeight }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    Weight = {{ .Weight }}
+  {{ end }}
+
 {{ end }}
