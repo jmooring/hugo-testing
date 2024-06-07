@@ -1,0 +1,10 @@
+{{ range first 3 (where .Site.RegularPages "Type" "blog") }}
+  <div class="col-lg-4 mb-5 mb-lg-0 text-center">
+    <div class="mb-4 h1">
+      <i class="fas fa-lightbulb"></i>
+    </div>
+    <div class="mb-0">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </div>
+  </div>
+{{ end }}
