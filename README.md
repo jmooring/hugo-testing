@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #50208
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/50208>
 
-Description: @@DESCRIPTION@@
+Description: Adding audio/mpeg to mediaTypes allowlist does not seem to work
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-50208 https://github.com/jmooring/hugo-testing hugo-forum-topic-50208
+cd hugo-forum-topic-50208
 hugo server
 ```
