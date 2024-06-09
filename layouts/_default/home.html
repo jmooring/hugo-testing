@@ -9,7 +9,35 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>SORTING: site.RegularPages.ByWeight</h2>
+
+  {{ range site.RegularPages.ByWeight }}
+    <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }} (weight = {{ .Weight }})</a></h4>
   {{ end }}
+
+  <h2>GROUPING: site.RegularPages.GroupBy "Weight"</h2>
+
+  {{ range site.RegularPages.GroupBy "Weight" }}
+    <h3>Weight = {{ .Key }}</h3>
+    {{ range .Pages }}
+      <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+    {{ end }}
+  {{ end }}
+
+  <h2>GROUPING: workaround to get same order as sort</h2>
+
+  {{ $p := site.RegularPages }}
+  {{ $zeroWeightPages := where $p "Weight" 0 }}
+  {{ $nonZeroWeightPages := $p | complement $zeroWeightPages }}
+
+  {{ $groups := $nonZeroWeightPages.GroupBy "Weight" | append (dict "Key" 0 "Pages" $zeroWeightPages) }}
+
+  {{ range $groups }}
+    <h3>Weight = {{ .Key }}</h3>
+    {{ range .Pages }}
+      <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+    {{ end }}
+  {{ end }}
+
 {{ end }}
