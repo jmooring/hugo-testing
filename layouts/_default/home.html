@@ -9,7 +9,21 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>site.RegularPages.GroupByParam "paige.pin"</h2>
+  {{ range site.RegularPages.GroupByParam "paige.pin" }}
+    <h3>{{ .Key }}</h3>
+    {{ range .Pages }}
+      <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+    {{ end }}
   {{ end }}
+
+  <h2>site.RegularPages.GroupBy "Params.paige.pin"</h2>
+  {{ range site.RegularPages.GroupBy "Params.paige.pin" }}
+    <h3>{{ .Key }}</h3>
+    {{ range .Pages }}
+      <h4><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h4>
+    {{ end }}
+  {{ end }}
+
 {{ end }}
