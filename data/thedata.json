@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "asset_id": "theID",
+      "public_id": "example",
+      "format": "jpg",
+      "version": 1717609302,
+      "resource_type": "image",
+      "type": "upload",
+      "created_at": "2024-06-04T18:36:56Z",
+      "bytes": 685828,
+      "width": 3724,
+      "height": 2096,
+      "backup": true,
+      "asset_folder": "name",
+      "display_name": "example",
+      "url": "http://bobo.com/example.jpg",
+      "secure_url": "https://http://bobo.com/example.jpg",
+      "context": {
+        "custom": {
+          "alt": "things",
+          "drawing": "pen"
+        }
+      },
+      "last_updated": {
+        "context_updated_at": "2024-06-05T17:45:16+00:00",
+        "tags_updated_at": "2024-06-05T18:50:31+00:00",
+        "updated_at": "2024-06-05T18:50:31+00:00"
+      }
+    }
+  ]
+}

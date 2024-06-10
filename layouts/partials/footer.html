@@ -1,0 +1,13 @@
+{{ $utils := resources.Get "js/utils.js" }}
+{{ $ct := resources.Get "js/ct.js" }}
+
+{{ $script := slice $ct $utils | resources.Concat "js/main.js" }}
+
+{{ $params := dict "data" site.Data.thedata.data }}
+{{ $opts := dict "params" $params }}
+{{ $built := $script | js.Build $opts }}
+
+<footer>
+THE FOOTER
+</footer>
+<script src="{{ $built.RelPermalink }}"></script>
