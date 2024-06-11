@@ -1,3 +1,17 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #50255'
+
+[taxonomies]
+author = 'authors'
+category = 'categories'
+tag = 'tags'
+
+[outputs]
+taxonomy = ['html']
+term = ['html']
+
+[[cascade]]
+outputs = ['html','calendar']
+[cascade._target]
+path = '{/authors,/authors/**}'

@@ -5,4 +5,8 @@ date = 2024-06-11T14:13:55-07:00
 draft = false
 details = 'https://discourse.gohugo.io/t/50255'
 description = "Granular Output Configuration"
+
+authors = ['author-a','author-b']
+tags = ['tag-a','tag-b']
+categories = ['category-a','category-b']
 +++
