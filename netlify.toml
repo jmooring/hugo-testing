@@ -1,0 +1,8 @@
+[build.environment]
+HUGO_VERSION = "0.126.0"
+HUGO_PARAMS_ENCRYPTION_KEY_HEX = "I am the value of HUGO_PARAMS_ENCRYPTION_KEY_HEX"
+TZ = "America/Los_Angeles"
+
+[build]
+publish = "public"
+command = "hugo --gc --minify"

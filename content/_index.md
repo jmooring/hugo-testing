@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/50227'
 description = "Unable to import netlify environment variable in assets/js/custom.js"
 +++
+
+Open your browser's dev tools console to inspect the output from console.log.

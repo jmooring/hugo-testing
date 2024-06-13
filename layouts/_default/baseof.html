@@ -4,6 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ $env := dict "encrypt" (getenv "HUGO_PARAMS_ENCRYPTION_KEY_HEX") }}
+  {{ $js := resources.Get "js/custom.js" | js.Build (dict "params" $env) }}
+  <script async src="{{ $js.RelPermalink }}"></script>
+
 </head>
 <body>
   <header>

@@ -11,5 +11,7 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-forum-topic-50227 https://github.com/jmooring/hugo-testing hugo-forum-topic-50227
 cd hugo-forum-topic-50227
-hugo server
+HUGO_PARAMS_ENCRYPTION_KEY_HEX=foo hugo server
 ```
+
+Then visit the site and open your browser's dev tools console to inspect the output from console.log.
