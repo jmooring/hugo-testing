@@ -1,0 +1,12 @@
+baseURL: https://epr.internal.domain/
+
+menus:
+  main:
+    - identifier: all-projects
+      name: All Projects
+      weight: 1000
+      url: https://www.internal.domain/
+    - identifier: mpages-build
+      name: MPages
+      weight: 800
+      url: https://epr.internal.domain/mpages/build/
