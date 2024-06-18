@@ -1,0 +1,24 @@
+{{- $canonicalURL := .Permalink }}
+{{- $title := printf "%s | %s" .Title site.Title }}
+{{- if .IsHome }}
+  {{- $title = site.Title }}
+{{- end }}
+
+{{- with .Store.Get "paginator" }}
+  {{- $canonicalURL = .URL | absLangURL }}
+  {{- if gt .TotalPages 1 }}
+    {{- $title = printf "%s - Page %d | %s" $.Title .PageNumber site.Title }}
+    {{- if $.IsHome }}
+      {{- $title = printf "%s - Page %d" site.Title .PageNumber }}
+    {{- end }}
+  {{- end }}
+  {{- with .Prev }}
+    <link rel="prev" href="{{ .URL | absLangURL }}">
+  {{- end }}
+  {{- with .Next }}
+    <link rel="next" href="{{ .URL | absLangURL }}">
+  {{- end }}
+{{- end }}
+
+<link rel="canonical" href="{{ $canonicalURL }}">
+<title>{{- $title }}</title>
