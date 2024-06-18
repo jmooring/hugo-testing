@@ -1,0 +1,11 @@
+{{ $href := .Permalink }}
+{{ with .Store.Get "paginator" }}
+  {{ $href = .URL | absURL }}
+  {{ with .Next }}
+    <link rel="next" href="{{ .URL }}">
+  {{ end }}
+  {{ with .Prev }}
+    <link rel="prev" href="{{ .URL }}">
+  {{ end }}
+{{ end }}
+<link rel="canonical" href="{{ $href }}">
