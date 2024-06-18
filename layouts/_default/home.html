@@ -9,7 +9,14 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+
+  {{ range where site.RegularPages "Section" "posts" }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ $t := debug.Timer "get-terms" }}
+      {{ range .GetTerms "tags" }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    {{ $t.Stop }}
   {{ end }}
+
 {{ end }}
