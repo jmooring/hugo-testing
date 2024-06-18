@@ -9,7 +9,50 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Content by taxonomy by term</h2>
+
+  {{ with .Site.Taxonomies }}
+    {{ $numberOfTerms := 0 }}
+    {{ range $taxonomy, $terms := . }}
+      {{ $numberOfTerms = len . | add $numberOfTerms }}
+    {{ end }}
+
+    {{ if gt $numberOfTerms 0 }}
+      <ul>
+        {{ range $taxonomy, $terms := . }}
+          {{ with $terms }}
+            <li>
+              <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+              <ul>
+                {{ range $term, $weightedPages := . }}
+                  <li>
+                    <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+                    <ul>
+                      {{ range $weightedPages }}
+                        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                      {{ end }}
+                    </ul>
+                  </li>
+                {{ end }}
+              </ul>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
   {{ end }}
+
+  <h2>Get author metadata</h2>
+
+  {{ with site.Taxonomies.authors.Get "author-a" }}
+    Name: {{ .Page.Title }}<br>
+    Email: {{ .Page.Params.email }}<br><br>
+  {{ end }}
+
+  {{ with site.GetPage (printf "/authors/author-b") }}
+    Name: {{ .Title }}<br>
+    Email: {{ .Params.email }}<br><br>
+  {{ end }}
+
 {{ end }}
