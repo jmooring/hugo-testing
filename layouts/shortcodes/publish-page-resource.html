@@ -1,0 +1,11 @@
+{{ with .Get 0 }}
+  {{ with $.Page.Resources.Get . }}
+    {{ with .Content | resources.FromString (.Path | relLangURL) }}
+      <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name ($.Get 0) $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a positional parameter, the page to the page resource. See %s" .Name .Position }}
+{{ end }}
