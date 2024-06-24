@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-slate-50;
+    @apply m-4;
+    @apply max-w-3xl;
+    @apply text-slate-900;
+  }
+
+  h1 {
+    @apply text-3xl;
+    @apply my-4;
+  }
+
+  h2 {
+    @apply text-2xl;
+    @apply my-4;
+  }
+
+  a {
+    @apply text-blue-700;
+  }
+
+  p {
+    @apply my-4;
+  }
+}

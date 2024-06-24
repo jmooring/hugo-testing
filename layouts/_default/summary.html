@@ -1,0 +1,7 @@
+<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+<div class="my-4">
+  {{ .Summary }}
+  {{ if .Truncated }}
+    <a href="{{ .RelPermalink }}">&nbsp;More&nbsp;&raquo;</a>
+  {{ end }}
+</div>

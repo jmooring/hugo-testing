@@ -1,4 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+  {{ with .Resources.Get "cover.jpg" }}
+    {{ with .Resize "300x" }}
+      <img class="border-8 border-slate-500" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+  <div>
+    {{ .Content }}
+  </div>
 {{ end }}

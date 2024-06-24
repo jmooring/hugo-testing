@@ -1,15 +1,14 @@
 {{ define "main" }}
-  {{ with .Params.details }}
-    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
-  {{ end }}
-  {{ with .Params.description }}
-    <p>Description: {{ . }}</p>
-  {{ end }}
-  {{ with or .Params.url .Params.details }}
-    <hr>
-  {{ end }}
+  <div class="border-b-1 border-slate-500">
+    {{ with .Params.details }}
+      <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+    {{ end }}
+    {{ with .Params.description }}
+      <p>Description: {{ . }}</p>
+    {{ end }}
+  </div>
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ range where site.RegularPages "Section" "posts" }}
+    {{ .Render "summary"}}
   {{ end }}
 {{ end }}
