@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #50408'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-06-25T05:48:33-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/50408'
+description = "Split config.yml"
 +++
