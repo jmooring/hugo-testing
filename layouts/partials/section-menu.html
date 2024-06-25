@@ -1,0 +1,22 @@
+{{/*
+Renders a section menu as an unordered list by walking the content structure.
+
+@param {pages} .
+@returns {template.HTML}
+
+@example {{ partial "section-menu.html" (site.GetPage "/books") }}
+*/}}
+{{ template "walk" . }}
+
+{{ define "walk" }}
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ if .IsSection }}
+          {{ template "walk" . }}
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
