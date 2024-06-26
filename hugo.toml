@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #50428'
+disableKinds = ['sitemap','taxonomy','term']
 
 [markup.goldmark.renderHooks.image]
 enableDefault = true
