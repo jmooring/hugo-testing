@@ -1,3 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #50441'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[mediaTypes.'text/html']
+suffixes = ['htm','html']
+
+[outputFormats.html]
+mediaType = 'text/html'
