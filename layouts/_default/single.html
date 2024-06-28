@@ -1,4 +1,35 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+
+  {{ $data := dict }}
+  {{ $p := "top.csv" }}
+  {{ with .Resources.GetMatch "top.csv" }}
+    {{ $opts := dict "delimiter" ";" }}
+    {{ with . | transform.Unmarshal $opts }}
+      {{ $data = partial "csv-to-map.html" . }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get resource %q" $p }}
+  {{ end }}
+
+  {{ with $data }}
+    <pre>{{ jsonify (dict "indent" "  ") . }}</pre>
+  {{ end }}
+
+  {{ range $data }}
+    <div>
+      Place is: {{ .place }}
+    </div>
+    <div>
+      Name is: {{ .name }}
+    </div>
+    <div>
+      Money: {{ .money }}
+    </div>
+  {{ end }}
+
+
+
 {{ end }}

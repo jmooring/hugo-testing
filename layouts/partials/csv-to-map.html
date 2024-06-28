@@ -1,0 +1,15 @@
+{{/*
+Converts unmarshaled CSV data (a slice of slices) to a slice of maps.
+
+The first slice of the unmarshaled CSV data must be a slice of field names.
+*/}}
+{{ $headerRow := index . 0 }}
+{{ $s := slice }}
+{{ range . | after 1 }}
+  {{ $m := dict }}
+  {{ range $k, $v := . }}
+    {{ $m = merge $m (dict (index $headerRow $k) $v) }}
+  {{ end }}
+  {{ $s = $s | append $m }}
+{{ end }}
+{{ return $s }}
