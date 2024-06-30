@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ partial "list-section-content-by-taxonomy-by-term.html" . }}
+
+{{ end }}

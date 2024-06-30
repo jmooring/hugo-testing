@@ -1,0 +1,47 @@
+{{- /*
+Renders an unordered list of content in the current section grouped by taxonomy
+and term.
+
+@params {page} .
+@returns {template.HTML}
+
+@example {{ partial "list-section-content-by-taxonomy-by-term.html" . }}
+*/}}
+
+{{- /* Create slice of taxonomies referenced by content in this section. */}}
+{{- $taxonomies := slice }}
+{{- range $taxonomy, $terms := site.Taxonomies }}
+  {{- range $term, $weightedPages := $terms }}
+    {{- if where $weightedPages "Section" $.Section }}
+      {{- $taxonomies = $taxonomies | append $taxonomy }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- $taxonomies = $taxonomies | uniq }}
+
+{{- /* Render list. */}}
+{{- with $taxonomies }}
+  <ul>
+    {{- range $taxonomy := . }}
+      <li>
+        {{- with site.GetPage (printf "/%s" $taxonomy) }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{- end }}
+        <ul>
+          {{- range $term, $weightedPages := index site.Taxonomies $taxonomy }}
+            {{- with where $weightedPages "Section" $.Section }}
+              <li>
+                <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+                <ul>
+                  {{- range . }}
+                    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                  {{- end }}
+                </ul>
+              </li>
+            {{- end }}
+          {{- end }}
+        </ul>
+      </li>
+    {{- end }}
+  </ul>
+{{- end }}

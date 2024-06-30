@@ -1,3 +1,26 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #50491'
+
+capitalizeListTitles = false
+pluralizeListTitles = false
+
+[taxonomies]
+tag = 'tags'
+category = 'categories'
+genre = 'genres'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Films'
+pageRef = '/films'
+weight = 30
