@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range .Resources.Match "gallery/**" }}
+    <a class="spotlight gallery-thumbnail" href="{{ .RelPermalink }}">
+      {{ with .Fill "200x200 q100 Center" }}
+        <img class="spotlight" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      {{ end }}
+    </a>
+  {{ end }}
+
+{{ end }}
