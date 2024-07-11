@@ -12,4 +12,19 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ $url := "https://gohugo.io/shared/examples/data/books.json" }}
+  {{ $data := dict }}
+  {{ with resources.GetRemote $url }}
+    {{ with .Err }}
+      {{ errorf "%s" . }}
+    {{ else }}
+      {{ $data = . | transform.Unmarshal }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get remote resource %q" $url }}
+  {{ end }}
+
+  <pre>{{ jsonify (dict "indent" "  ") $data }}</pre>
+
 {{ end }}
