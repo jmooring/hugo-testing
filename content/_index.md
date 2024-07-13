@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #50679'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-07-13T09:41:28-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/50679'
+description = "How to create a page that groups post for tags"
 +++
