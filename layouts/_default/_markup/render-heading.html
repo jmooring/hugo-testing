@@ -1,0 +1,9 @@
+{{ if eq .Level 3 }}
+  <a name="#{{ .Anchor | safeURL }}"></a>
+  <h{{ .Level }} id="{{ .Anchor | safeURL }}">
+    ##
+    {{ .Text | htmlUnescape | safeHTML }}
+  </h{{ .Level }}>
+{{ else }}
+  <h{{ .Level }}>{{ .Text | htmlUnescape | safeHTML }}</h{{ .Level }}>
+{{ end }}

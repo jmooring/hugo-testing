@@ -10,6 +10,6 @@
   {{ end }}
   {{ .Content }}
 
-  <p>Word count: {{ .WordCount }}</p>
+  <p>Word count: {{ sub .WordCount (.Fragments.HeadingsMap | len) }}</p>
 
 {{ end }}
