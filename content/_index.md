@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #50748'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-07-17T10:25:20-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/50748'
+description = "WordCount includes HTML and Markdown tags as words, is there a way to count the words after stripping all tags?"
 +++
