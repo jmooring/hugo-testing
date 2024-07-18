@@ -2,4 +2,4 @@ baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #50736'
 
-disablePathToLower = true
+disablePathToLower = false

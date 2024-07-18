@@ -8,3 +8,7 @@ description = "Why Convert the URL/Path to Lowercase?"
 +++
 
 Look at [sitemap](/sitemap.xml) too.
+
+[/states/az](/states/az)
+
+[/states/AZ](/states/AZ)
