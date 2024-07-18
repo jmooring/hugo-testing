@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/50736'
 description = "Why Convert the URL/Path to Lowercase?"
 +++
+
+Look at [sitemap](/sitemap.xml) too.
