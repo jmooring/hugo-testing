@@ -11,5 +11,17 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-forum-topic-50785 https://github.com/jmooring/hugo-testing hugo-forum-topic-50785
 cd hugo-forum-topic-50785
-hugo server
+hugo && tree public
+```
+
+Now include drafts:
+
+```text
+hugo -D && tree public
+```
+
+Now exclude drafts again, remembering to clear the public directory:
+
+```text
+rm -rf public/ && hugo && tree public
 ```
