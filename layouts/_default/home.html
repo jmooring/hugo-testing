@@ -9,7 +9,25 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with resources.Get "images/a.jpg" }}
+    {{ with .Exif }}
+      <p>Date: {{ .Date }}</p>
+      <p>Lat/Long: {{ .Lat }}/{{ .Long }}</p>
+      {{ with .Tags }}
+        <p>Tags</p>
+        <table>
+          <thead>
+            <tr><th>Tag</th><th>Value</th></tr>
+          </thead>
+          <tbody>
+            {{ range $k, $v := . }}
+            <tr><td>{{ $k }}</td><td>{{ $v }}</td></tr>
+            {{ end }}
+          </tbody>
+        </table>
+      {{ end }}
+    {{ end }}
   {{ end }}
+
 {{ end }}
