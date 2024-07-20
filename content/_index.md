@@ -8,7 +8,7 @@ description = "I'm seeing inconsistent output with Markdown and the ref shortcod
 +++
 
 ```text
-<{{</* ref "hello-world" */>}}>
+<{{%/* ref "hello-world" */%}}>
 ```
 
 <{{% ref "hello-world" %}}>
