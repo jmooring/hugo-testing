@@ -8,8 +8,11 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
+
+  {{ .Summary }}
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+  {{ replace .Content .Summary "" | safeHTML }}
+
 {{ end }}
