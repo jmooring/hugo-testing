@@ -1,0 +1,7 @@
+{{/* readfile.html */}}
+{{- $file := .Get "file" -}}
+{{- if fileExists $file -}}
+  {{- highlight ($file | readFile) (.Get "highlight") "" -}}
+{{- else -}}
+  {{- errorf "readfile did not find %q in %s" $file .Position -}}
+{{- end -}}

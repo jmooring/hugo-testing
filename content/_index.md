@@ -6,3 +6,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/50789'
 description = "Adding JSON file with readfile and highlight in a list doesn't render correctly"
 +++
+
+1. readfile
+
+   {{% readfile file="test.json" highlight="json" %}}
