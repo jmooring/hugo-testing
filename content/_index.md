@@ -6,3 +6,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/50784'
 description = "I'm seeing inconsistent output with Markdown and the ref shortcode"
 +++
+
+```text
+<{{</* ref "hello-world" */>}}>
+```
+
+<{{% ref "hello-world" %}}>
