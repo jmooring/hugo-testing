@@ -3,7 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
-  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  {{ $title := "" }}
+  {{ if .IsHome }}
+    {{ printf "<title>%s</title>" site.Title | safeHTML  }}
+  {{ else }}
+    {{ printf "<title>%s | %s</title>" site.Title .Title | safeHTML  }}
+  {{ end }}
+
+  <title>{{ $title | safeHTML }}</title>
 </head>
 <body>
   <header>
