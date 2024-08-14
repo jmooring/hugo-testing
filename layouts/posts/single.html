@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with or (.Resources.GetMatch "featured.*") (.Resources.Get .Params.featuredimage) }}
+    <section class="featured-image">
+      <a href="{{ .RelPermalink }}">
+        <img src="{{ .RelPermalink }}">
+      </a>
+    </section>
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}

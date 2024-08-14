@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range $p := .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ with or (.Resources.GetMatch "featured.*") (.Resources.Get .Params.featuredimage) }}
+      <section class="featured-image">
+        <a href="{{ $p.RelPermalink }}">
+          <img src="{{ .RelPermalink }}">
+        </a>
+      </section>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
