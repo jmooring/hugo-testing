@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/51239'
 description = "Is this meant to address the confusing prev/next order?"
 +++
+
+Visit [Post 2](/post-2) to test the next/prev methods.
