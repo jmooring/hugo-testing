@@ -1,0 +1,15 @@
+{{ range site.Data.foo }}
+  {{ $content := dict "mediaType" "text/markdown" "value" .description }}
+  {{ $dates := dict "created_at" (time.AsTime .created_at) }}
+  {{ $params := dict  "id" .id }}
+  {{ $custom_path := printf "%v-%s" .id .title }}
+  {{ $page := dict
+    "content" $content
+    "dates" $dates
+    "kind" "page"
+    "params" $params
+    "path"  $custom_path
+    "title" .title
+  }}
+  {{ $.AddPage $page }}
+{{ end }}

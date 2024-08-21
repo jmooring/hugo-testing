@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #49830'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-08-21T09:16:52-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/49830'
+description = "Content adapters: examples and performance"
 +++
