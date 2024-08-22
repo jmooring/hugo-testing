@@ -8,8 +8,66 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+<h4>.Markup.Render.Content</h4>
+{{ .Markup.Render.Content }}
+
+<h4>.Markup.Render.ContentWithoutSummary</h4>
+{{ .Markup.Render.ContentWithoutSummary }}
+
+<h4>.Markup.Render.Summary</h4>
+{{ .Markup.Render.Summary }}
+
+<h4>.Markup.Render.Summary.Type</h4>
+{{ .Markup.Render.Summary.Type }}
+
+<h4>.Markup.Render.Summary.Text</h4>
+{{ .Markup.Render.Summary.Text }}
+
+<h4>.Markup.Render.Summary.Truncated</h4>
+{{ .Markup.Render.Summary.Truncated }}
+
+<h4>.Markup.Render.Plain</h4>
+{{ .Markup.Render.Plain }}
+
+<h4>.Markup.Render.PlainWords</h4>
+{{ .Markup.Render.PlainWords }}
+
+<h4>.Markup.Render.WordCount</h4>
+{{ .Markup.Render.WordCount }}
+
+<h4>.Markup.Render.FuzzyWordCount</h4>
+{{ .Markup.Render.FuzzyWordCount }}
+
+<h4>.Markup.Render.ReadingTime</h4>
+{{ .Markup.Render.ReadingTime }}
+
+<h4>.Markup.Render.Len</h4>
+{{ .Markup.Render.Len }}
+
+<h4>.Markup.RenderString "I **am** bold"</h4>
+{{ .Markup.RenderString "I **am** bold" }}
+
+<h4>.Markup.RenderShortcodes</h4>
+{{ .Markup.RenderShortcodes }}
+
+<h4>.Markup.Fragments</h4>
+{{ .Markup.Fragments }}
+
+<hr>
+
+{{ with .Markup }}
+  {{ with .Render }}
+    {{ .Content }}
   {{ end }}
+{{ end }}
+
+<hr>
+
+{{ range site.Pages }}
+  {{ with .Markup "home" }}
+    {{ .Render.Content }}
+  {{ end }}
+{{ end }}
+
 {{ end }}
