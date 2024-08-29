@@ -1,0 +1,10 @@
+
+
+{{ if eq .Type "block" }}
+<span class="katex-display">
+  {{ $opts := dict "displayMode" true }}
+  {{ transform.ToMath .Inner $opts }}
+</span>
+{{ else }}
+  {{ transform.ToMath .Inner }}
+{{ end }}

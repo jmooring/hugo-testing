@@ -6,3 +6,5 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/12736'
 description = "convert.ToMath, WASI/Wasm modules feedback thread"
 +++
+
+$$I = \frac{ 12 \text{V} }{ 4 \text{Ω} }$$

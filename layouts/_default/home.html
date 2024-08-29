@@ -12,4 +12,7 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+
+ {{/*  {{ transform.ToMath "I = \\frac{ 12 \text{V} }{ 4 \text{Ω} }" }}  */}}
 {{ end }}
