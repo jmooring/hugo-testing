@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #9404'
+
+[[menus.degree_programs]]
+name = 'Applied Mathematics'
+pageRef = '/applied-mathematics'
+weight = 10
+
+[[menus.degree_programs]]
+name = 'Computer Science'
+pageRef = '/computer-science'
+weight = 20
