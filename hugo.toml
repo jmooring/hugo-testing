@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #12813'
+
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true

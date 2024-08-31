@@ -6,3 +6,15 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/12813'
 description = "Make all renderhook Text methods return template.HTML"
 +++
+
+[**Post 1**](/page)
+
+[**Image 1**](/image)
+
+## My **bold** heading
+
+a|b
+:--|:--
+**1**|2
+
+> **foo
