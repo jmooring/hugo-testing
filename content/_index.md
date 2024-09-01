@@ -6,3 +6,11 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/12815'
 description = "Add support for Obsidian type blockquote alerts"
 +++
+
+> [!danger]
+> Do not approach or handle without protective gear.
+
+---
+
+> [!danger] Radiation hazard
+> Do not approach or handle without protective gear.
