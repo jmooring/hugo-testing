@@ -4,6 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    .row {
+      display: flex;
+      margin: 1em 0;
+    }
+    .item {
+      border: 1px solid gray;
+      padding: 1em;
+    }
+    .item:not(:last-child) {
+      margin-right: 1em;
+    }
+  </style>
 </head>
 <body>
   <header>
