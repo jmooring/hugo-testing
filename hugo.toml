@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12838'
+disableKinds = ['page','section','rss','sitemap','taxonomy','term']
+[[module.mounts]]
+source = 'content'
+target = 'assets'
