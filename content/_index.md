@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #51457'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-09-06T07:57:13-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/51457'
+description = "Creating a Custom List Page for Specific Frontmatter Value in Hugo"
 +++
