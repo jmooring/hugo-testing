@@ -8,8 +8,42 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ $i := .Content }}
+  {{/*  {{ $i := "brown" }}  */}}
+
+  {{ $t := debug.Timer "A" }}
+  {{ range seq 1000 }}
+    {{ partial "reverse-1.html" $i }}
   {{ end }}
+  {{ $t.Stop }}
+
+  <hr>
+
+  {{ $t := debug.Timer "B" }}
+  {{ range seq 1000 }}
+    {{ partial "reverse-2.html" $i }}
+  {{ end }}
+  {{ $t.Stop }}
+
+  <hr>
+
+  {{ $t := debug.Timer "C" }}
+  {{ range seq 1000 }}
+    {{ delimit (collections.Reverse (split $i "")) "" }}
+  {{ end }}
+  {{ $t.Stop }}
+
+  <hr>
+
+  {{ $t := debug.Timer "D" }}
+  {{ range seq 1000 }}
+    {{ $s := "" }}
+    {{ range split $i "" }}
+      {{ $s = print . $s }}
+    {{ end }}
+    {{ $s }}
+  {{ end }}
+  {{ $t.Stop }}
+
 {{ end }}
