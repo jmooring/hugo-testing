@@ -1,0 +1,4 @@
++++
+title = 'Art'
+layout = 'gallery'
++++

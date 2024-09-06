@@ -9,7 +9,37 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with .Site.Taxonomies }}
+    {{ $numberOfTerms := 0 }}
+    {{ range $taxonomy, $terms := . }}
+      {{ $numberOfTerms = len . | add $numberOfTerms }}
+    {{ end }}
+
+    {{ if gt $numberOfTerms 0 }}
+      <ul>
+        {{ range $taxonomy, $terms := . }}
+          {{ with $terms }}
+            <li>
+              <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+              <ul>
+                {{ range $term, $weightedPages := . }}
+                  <li>
+                    <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+                    <ul>
+                      {{ range $weightedPages }}
+                        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                      {{ end }}
+                    </ul>
+                  </li>
+                {{ end }}
+              </ul>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
   {{ end }}
+
+
 {{ end }}
