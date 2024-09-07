@@ -1,0 +1,7 @@
+---
+title: Foo
+---
+
+{{< gallery >}}
+
+Bar
