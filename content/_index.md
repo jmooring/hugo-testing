@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #51508'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-09-11T09:00:29-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/51508'
+description = "How to display correct local images (not featured images) when baseURL include subdirectory"
 +++
