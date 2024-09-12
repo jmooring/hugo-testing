@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #12846'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-09-12T10:51:26-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/12846'
+description = "Add support for acronym (ABBR) Markdown extension to Hugo"
 +++
