@@ -4,10 +4,126 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    /* Base */
+    /* ------------------------------------------------------------------------- */
+
+    html {
+      box-sizing: border-box;
+      font-family: sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0 1rem;
+      max-width: 768px;
+    }
+
+    a {
+      color: blue;
+      text-decoration: none;
+    }
+
+    /* Navigation */
+    /* ------------------------------------------------------------------------- */
+
+    nav {
+      margin-bottom: 1rem;
+    }
+
+    nav ul {
+      font-size: 0;
+      padding: 0;
+    }
+
+    nav li {
+      display: inline;
+    }
+
+    nav a {
+      font-size: 1rem;
+      padding: .25em .5em;
+    }
+
+    nav li.active a {
+      background-color: yellow;
+    }
+
+    nav li.ancestor a {
+      background-color: cyan;
+    }
+
+    nav.breadcrumbs li:not(:last-child)::after {
+      content: "\00bb";
+    }
+
+    /* Code blocks */
+    /* ------------------------------------------------------------------------- */
+
+    /* Applies when there are no line numbers, or when line numbers are inline. */
+    .highlight > pre {
+      padding: 1em 0 1em 1em;
+    }
+
+    /* Applies when line numbers are in a table cell. */
+    .highlight div {
+      padding: 0 0 0 1em;
+    }
+
+    /* Applies to all. */
+    .highlight div,
+    .highlight > pre {
+      overflow-x: auto;
+      /* add border-radius and box-shadow here */
+    }
+
+    /* Applies when using an external style sheet. */
+    /* https://github.com/alecthomas/chroma/issues/722 */
+    .highlight .chroma .lntable .lnt,
+    .highlight .chroma .lntable .hl {
+      display: flex;
+    }
+
+    /* Applies when using an external style sheet. */
+    /* https://github.com/alecthomas/chroma/issues/722 */
+    .highlight .chroma .lntable .lntd + .lntd {
+      width: 100%;
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
+    {{ with .AllTranslations }}
+      <nav class="language-switcher">
+        <ul>
+          {{ range . }}
+            {{ if eq .Language.Lang $.Language.Lang }}
+              <li><a aria-current="page" class="active" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+            {{ else }}
+              <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+    {{ end }}
+    {{ with site.Menus.main }}
+      <nav class="menu">
+        <ul>
+          {{ range . }}
+            {{ if $.IsMenuCurrent .Menu . }}
+              <li class="active"><a aria-current="page" href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ else if $.HasMenuCurrent .Menu . }}
+              <li class="ancestor"><a aria-current="true" href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ else }}
+              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+    {{ end }}
     <hr>
   </header>
   <main>

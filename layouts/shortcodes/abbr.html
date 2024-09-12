@@ -1,0 +1,24 @@
+{{- /*
+Renders an abbr element with an optional title attribute.
+
+The first positional argument is the abbreviation. The second positional
+argument is the definition.
+
+If you do not provide the second argument, Hugo searches the glossary section
+of your project for a page path that matches the first argument, and uses its
+title for the definition.
+
+If Hugo cannot find a matching page path it omits the title attribute.
+
+@example {{< abbr HTML "Hypertext Markup Language" >}}
+@example {{< abbr HTML >}}
+*/}}
+{{- with $abbr := .Get 0 }}
+  {{- with or ($.Get 1) (site.GetPage (printf "/glossary/%s" $abbr)).Title -}}
+    <abbr title="{{ . }}">{{ $abbr }}</abbr>
+  {{- else -}}
+    <abbr>{{ $abbr }}</abbr>
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional parameter. See %s" .Name .Position }}
+{{- end -}}

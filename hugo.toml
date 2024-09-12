@@ -1,3 +1,58 @@
 baseURL = 'https://example.org/'
+pluralizeListTitles = false
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+#------------------------------------------------------------------------------
+# Languages
+#------------------------------------------------------------------------------
+
+[languages.en]
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12846'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+title = 'Hugo GitHub Issue #12846 (en)'
+
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+title = 'Hugo GitHub Issue #12846 (de)'
+
+#------------------------------------------------------------------------------
+# Menus
+#------------------------------------------------------------------------------
+
+[[languages.en.menus.main]]
+name = 'Home (en)'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menus.main]]
+name = 'Posts (en)'
+pageRef = '/posts'
+weight = 20
+
+[[languages.en.menus.main]]
+name = 'Glossary (en)'
+pageRef = '/glossary'
+weight = 30
+
+[[languages.de.menus.main]]
+name = 'Home (de)'
+pageRef = '/'
+weight = 10
+
+[[languages.de.menus.main]]
+name = 'Posts (de)'
+pageRef = '/posts'
+weight = 20
+
+[[languages.de.menus.main]]
+name = 'Glossary (de)'
+pageRef = '/glossary'
+weight = 30
