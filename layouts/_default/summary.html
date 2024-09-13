@@ -1,0 +1,7 @@
+<h2 class="is-size-3 mb-3"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+<div class="mb-3">
+  {{ .Summary | plainify }}
+  {{ if .Truncated }}
+    <a href="{{ .RelPermalink }}">More&nbsp;&raquo;</a>
+  {{ end }}
+</div>
