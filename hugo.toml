@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12849'
+disableKinds = ['page','section','rss','sitemap','taxonomy','term']
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.imports]]
+path = "github.com/jmooring/hugo-module-example"
+
+[[module.imports.mounts]]
+source = "miscellaneous/sass"
+target = "assets/sass"

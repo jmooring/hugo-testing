@@ -1,0 +1,2 @@
+{{ $opts := dict "transpiler" "dartsass" "outputStyle" "compressed" }}
+{{ (resources.Get "sass/main.scss" | toCSS $opts).Content }}
