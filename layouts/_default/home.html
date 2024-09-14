@@ -9,7 +9,45 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>All Types</h2>
+
+  {{ $taxonomy := "genres" }}
+  {{ range (index site.Taxonomies $taxonomy).ByCount }}
+    <h3><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</h>
+    <ul>
+      {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
   {{ end }}
+
+  <h2>Books only</h2>
+
+  {{ $taxonomy := "genres" }}
+  {{ $type := "books" }}
+
+  {{ $terms := slice }}
+  {{ $p := where site.RegularPages "Type" $type }}
+  {{ range $p }}
+    {{ $terms = $terms | append (index .Params $taxonomy) }}
+  {{ end }}
+  {{ $terms = $terms | uniq }}
+
+  {{ $groups := slice }}
+  {{ range $term := $terms }}
+    {{ $groups = $groups | append (where $p (printf "Params.%s" $taxonomy) "intersect" (slice $term) | collections.Group $term) }}
+  {{ end }}
+
+  {{ range $group := $groups }}
+    {{ with site.GetPage (printf `/%s/%s` $taxonomy .Key) }}
+      <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ $group.Pages.Len }})</h3>
+    {{ end }}
+    <ul>
+      {{ range $group.Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
 {{ end }}

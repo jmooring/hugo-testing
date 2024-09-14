@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #51530'
+capitalizeListTitles = 'false'
+
+[taxonomies]
+genre = 'genres'
