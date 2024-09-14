@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #51530'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-09-14T08:52:58-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/51530'
+description = "Specific taxonomy by count but with a filter"
 +++
