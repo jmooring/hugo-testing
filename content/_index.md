@@ -52,3 +52,15 @@ description = "Copy to clipboard from code highlight context"
   {{ end }}
 {{ end }}
 ```
+
+## Using a custom highlight shortcode
+
+{{< highlight go-html-template >}}
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+{{ end }}
+{{< /highlight >}}
