@@ -1,0 +1,5 @@
+{{ $style := resources.Get "scss/main.scss" }}
+{{ $style = $style | resources.ToCSS (dict "enableSourceMap" true) }}
+{{ $style = $style | resources.PostCSS (dict "config" "assets/postcss.config.js") }}
+{{/*  {{ $style = $style | resources.PostProcess }}  */}}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">

@@ -1,0 +1,13 @@
+body {
+  color: red;
+}
+
+// Test PostCSS
+::placeholder {
+  color: gray;
+}
+
+// Test post processing (purge unused CSS)
+.unused-class {
+  color: red;
+}
