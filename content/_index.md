@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #51701'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-09-27T16:11:33-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/51701'
+description = "Using GetRemote to get new entries from API by incrementing ID"
 +++
