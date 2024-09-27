@@ -1,0 +1,11 @@
+{{ $firstID := 1023 }}
+{{ with resources.Get "id-last.txt" }}
+  {{ (.Content | int | add 1 | resources.FromString "id-last.txt").Publish }}
+{{ else }}
+  {{ ($firstID  | resources.FromString "id-last.txt").Publish }}
+{{ end }}
+
+
+{{ with resources.Get "id-last.txt" }}
+  {{ .Content | int | warnf "%#[2]v (%[2]T) [%[1]d]" math.Counter }}
+{{ end }}
