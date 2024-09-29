@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #51724
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/51724>
 
-Description: @@DESCRIPTION@@
+Description: Use Content Adapters to get several images
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-51724 https://github.com/jmooring/hugo-testing hugo-forum-topic-51724
+cd hugo-forum-topic-51724
 hugo server
 ```
