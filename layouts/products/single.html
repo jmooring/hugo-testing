@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with .GetTerms "categories" }}
+    <p>Categories:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
+  <p>Price: {{ .Params.Price | lang.FormatCurrency 2 "USD" }}</p>
+
+  <p>If there is a "featured" image it will have a green border.</p>
+
+  {{ with resources.GetMatch (printf "images/%s/%s/featured.*" .Section .Params.sku) }}
+    {{ with .Resize "300x" }}
+      <div class="image image-featured">
+        <img src="{{ .RelPermalink }}" alt="{{ $.Title }} featured image">
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{ range resources.Match (printf "images/%s/%s/*.*" .Section .Params.sku) }}
+    {{ if not (in .Name "featured") }}
+      {{ with .Resize "300x" }}
+        <div class="image">
+          <img src="{{ .RelPermalink }}" alt="{{ $.Title }}">
+        </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}

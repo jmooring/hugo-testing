@@ -1,0 +1,12 @@
+{{ range site.Data.products }}
+  {{ $content := dict "mediaType" "text/markdown" "value" .description }}
+  {{ $params := dict "sku" .sku "categories" .categories "price" .price }}
+  {{ $page := dict
+    "content" $content
+    "kind" "page"
+    "params" $params
+    "path" .name
+    "title" .name
+  }}
+  {{ $.AddPage $page }}
+{{ end }}

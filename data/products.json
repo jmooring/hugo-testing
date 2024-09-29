@@ -1,0 +1,20 @@
+[
+  {
+    "sku": "skuwp",
+    "name": "Window Pane",
+    "description": "The best **window pane** in town.",
+    "price": 99,
+    "categories": [
+      "Windows"
+    ]
+  },
+  {
+    "sku": "skuwf",
+    "name": "Window Frame",
+    "description": "The best **window frame** in town.",
+    "price": 42,
+    "categories": [
+      "Windows"
+    ]
+  }
+]
