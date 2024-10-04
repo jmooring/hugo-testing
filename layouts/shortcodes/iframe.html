@@ -1,0 +1,7 @@
+{{ range .Page.Resources.Match "**.html" }}
+  {{ $publishPath := urls.JoinPath $.Page.RelPermalink .Name }}
+  {{ (.Content | resources.FromString $publishPath).Publish }}
+{{ end }}
+<iframe loading="lazy" {{- range $k, $v :=.Params -}} {{- (printf " %s=%q" $k $v) | safeHTMLAttr -}} {{- end -}}>
+  {{- .Inner | .Page.RenderString -}}
+</iframe>
