@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #51801'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-10-04T13:11:57-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/51801'
+description = "How to specify the build dir for specific language?"
 +++
