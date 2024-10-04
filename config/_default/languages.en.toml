@@ -1,0 +1,6 @@
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 2
+title = 'Hugo Forum Topic #51801 (en)'
+baseURL = 'https://example.org/en/'

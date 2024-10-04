@@ -1,0 +1,3 @@
+disableKinds = ['rss','sitemap','taxonomy','term']
+defaultContentLanguage = 'zh-hant'
+defaultContentLanguageInSubdir = true

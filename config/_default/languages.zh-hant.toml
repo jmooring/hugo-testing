@@ -1,0 +1,6 @@
+languageCode = 'zh-hant'
+languageDirection = 'ltr'
+languageName = 'Chinese'
+weight = 1
+title = 'Hugo Forum Topic #51801 (zh-hant)'
+baseURL = 'https://example.org/zh-tw'
