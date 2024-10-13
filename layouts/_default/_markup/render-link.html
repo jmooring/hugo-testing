@@ -1,0 +1,10 @@
+<pre>DEBUG:
+	{{ hasPrefix .Destination "http" }}
+	{{ eq (substr (.Destination | lower ) 0 4) "http" }}
+	{{ findRE `http` .Destination }}
+	{{ hasPrefix "https://my.test.link/" "http" }}
+
+	.Destination: {{ .Destination }}
+	.Title: {{ .Title }}
+	.Text: {{ .Text }}
+</pre>

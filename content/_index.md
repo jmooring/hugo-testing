@@ -6,3 +6,5 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/12929'
 description = "variables do not work with hasPrefix inside render-link"
 +++
+
+[link text](https://my.test.link "link title")
