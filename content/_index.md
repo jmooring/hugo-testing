@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #51940'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-10-14T10:19:35-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/51940'
+description = "Can Hugo include shortcode headings in TOC?"
 +++
