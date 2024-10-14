@@ -1,0 +1,63 @@
+/* Base */
+/* ------------------------------------------------------------------------- */
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0 1rem;
+  max-width: 768px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+// ----------------------------------------------------------------------------
+// For layouts/partials/toc-walk-headings.html
+// ----------------------------------------------------------------------------
+
+.toc li {
+  list-style-type: none;
+}
+.toc ol {
+  padding: 0 0 0 1em;
+}
+.toc > ol {
+  padding-left: 0;
+}
+.toc-title {
+  font-weight: bold;
+}
+
+// ----------------------------------------------------------------------------
+// For layouts/partials/toc-parse-content.html
+// ----------------------------------------------------------------------------
+
+a.toc-item {
+  display: block;
+}
+a.toc-level-1 {
+  margin-left: 0em;
+}
+a.toc-level-2 {
+  margin-left: 1em;
+}
+a.toc-level-3 {
+  margin-left: 2em;
+}
+a.toc-level-4 {
+  margin-left: 3em;
+}
+a.toc-level-5 {
+  margin-left: 4em;
+}
+a.toc-level-6 {
+  margin-left: 5em;
+}

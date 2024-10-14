@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <hr>
+  {{ partial "toc-walk-headings.html" . }}
+  <hr>
+
+  {{ .Content }}
+{{ end }}
