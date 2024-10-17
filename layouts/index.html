@@ -1,0 +1,4 @@
+{{ $opts := dict "transpiler" "libsass" "outputStyle" "compressed" "vars" (dict "color" "red") }}
+{{ with resources.Get "main.scss" | css.Sass $opts }}
+  {{ .Content }}
+{{ end }}
