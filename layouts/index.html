@@ -1,0 +1,9 @@
+{{ $opts := dict "transpiler" "dartsass" "outputStyle" "compressed" "vars" (dict "color" "red") }}
+{{ with resources.Get "dartsass.scss" | css.Sass $opts }}
+  {{ .Content }}
+{{ end }}
+
+{{ $opts := dict "transpiler" "libsass" "outputStyle" "compressed" "vars" (dict "color" "blue") }}
+{{ with resources.Get "libsass.scss" | css.Sass $opts }}
+  {{ .Content }}
+{{ end }}

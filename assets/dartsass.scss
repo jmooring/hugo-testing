@@ -1,0 +1,4 @@
+@use "hugo:vars" as v;
+.dartsass {
+  color: v.$color;
+}
