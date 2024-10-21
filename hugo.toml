@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #52054'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[params]
+  pagerSizeJSON = 5
+
+[[cascade]]
+  outputs = ['html','json']
+  [cascade._target]
+    kind = 'section'
+    path = '{/posts,/posts/**}'

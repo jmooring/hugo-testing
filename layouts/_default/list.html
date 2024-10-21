@@ -1,6 +1,11 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ range where .AlternativeOutputFormats "MediaType.Type" "application/json" -}}
+    <p><a href="{{ .Permalink }}">View JSON</a></p>
+  {{ end }}
+
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}

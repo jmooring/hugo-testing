@@ -1,0 +1,23 @@
+{{- $m := dict "type" "json" }}
+{{- $p := .RegularPages }}
+
+{{- if eq .CurrentSection.Title "Posts" }}
+  {{- $p = (.Paginate .RegularPagesRecursive site.Params.pagerSizeJSON).Pages }}
+  {{- with .Paginator }}
+    {{- $m = merge $m (dict "firstPage" (.First.URL | absLangURL) "lastPage" (.Last.URL | absLangURL) "pageNumber" .PageNumber "totalPages" .TotalPages) }}
+    {{- with .Next }}
+      {{- $m = merge $m (dict "nextPage" (.URL | absLangURL)) }}
+    {{- end }}
+    {{- with .Prev }}
+      {{- $m = merge $m (dict "previousPage" (.URL | absLangURL)) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- $items := slice }}
+{{- range $p }}
+  {{- $items = $items | append (dict "title" .Title "date" .Date) }}
+{{- end }}
+
+{{- $m = merge $m (dict "items" $items) }}
+{{- jsonify (dict "indent" "  ") $m }}
