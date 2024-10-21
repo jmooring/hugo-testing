@@ -1,7 +1,7 @@
 {{- $m := dict "type" "json" }}
 {{- $p := .RegularPages }}
 
-{{- if eq .CurrentSection.Title "Posts" }}
+{{- if eq .CurrentSection .FirstSection }}
   {{- $p = (.Paginate .RegularPagesRecursive site.Params.pagerSizeJSON).Pages }}
   {{- with .Paginator }}
     {{- $m = merge $m (dict "firstPage" (.First.URL | absLangURL) "lastPage" (.Last.URL | absLangURL) "pageNumber" .PageNumber "totalPages" .TotalPages) }}
