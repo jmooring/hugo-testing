@@ -1,3 +1,50 @@
-baseURL = 'https://example.org/'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+#------------------------------------------------------------------------------
+# Languages
+#------------------------------------------------------------------------------
+
+[languages.en]
+title = 'My Site (en)'
+baseURL = 'https://en.example.org/'
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #52077'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[languages.de]
+title = 'My Site (de)'
+baseURL = 'https://en.example.org/'
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+
+#------------------------------------------------------------------------------
+# Menus
+#------------------------------------------------------------------------------
+
+# English
+
+[[languages.en.menu.main]]
+name = 'Home (en)'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menu.main]]
+name = 'Posts (en)'
+pageRef = '/posts'
+weight = 20
+
+# German
+
+[[languages.de.menu.main]]
+name = 'Home (de)'
+pageRef = '/'
+weight = 10
+
+[[languages.de.menu.main]]
+name = 'Posts (de)'
+pageRef = '/posts'
+weight = 20
