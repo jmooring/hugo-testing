@@ -6,3 +6,12 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/12913'
 description = "Incomplete HTML in .AlertTitle and .Text of Blockquote render hooks"
 +++
+
+> [!NOTE] Hugo
+
+> [!NOTE] _Hugo_
+> The world’s fastest framework for building websites
+
+> [!NOTE] **Hugo**
+
+> [!TIP] **Hugo** FixIt
