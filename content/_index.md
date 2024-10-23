@@ -1,8 +1,58 @@
-+++
-title = 'Hugo GitHub Issue #12913'
-linkTitle = 'Home'
-date = 2024-10-23T09:19:57-07:00
-draft = false
-details = 'https://github.com/gohugoio/hugo/issues/12913'
-description = "Incomplete HTML in .AlertTitle and .Text of Blockquote render hooks"
-+++
+---
+title: home
+---
+
+> [!one]
+
+> [!two] title
+
+> [!three]
+> line 1
+
+> [!four] title
+> line 1
+
+> [!five]
+> line 1
+> line 2
+
+> [!six] title
+> line 1
+> line 2
+
+> [!seven]
+> - list item
+
+> [!eight] title
+> - list item
+
+> [!nine]
+> line 1
+> - list item
+
+> [!ten] title
+> line 1
+> - list item
+
+> [!eleven]
+> line 1
+> - list item
+>
+> line 2
+
+> [!twelve] title
+> line 1
+> - list item
+>
+> line 2
+
+> [!thirteen]
+> ![alt](a.jpg)
+
+> [!fourteen] title
+> ![alt](a.jpg)
+
+> [!fifteen] _title_
+
+> [!sixteen] _title_
+> line one
