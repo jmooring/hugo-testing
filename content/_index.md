@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/52128'
 description = "Menu Strangeness"
 +++
+
+Click the menu items above to make sure they're working as expected.

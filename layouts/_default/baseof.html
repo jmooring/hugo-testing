@@ -8,6 +8,21 @@
 <body>
   <header>
     <h1>{{ site.Title }}</h1>
+    {{ with site.Menus.main }}
+      <nav class="menu">
+        <ul>
+          {{ range . }}
+            {{ if $.IsMenuCurrent .Menu . }}
+              <li class="active"><a aria-current="page" href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ else if $.HasMenuCurrent .Menu . }}
+              <li class="ancestor"><a aria-current="true" href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ else }}
+              <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+    {{ end }}
     <hr>
   </header>
   <main>
