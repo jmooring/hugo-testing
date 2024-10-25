@@ -6,3 +6,15 @@ draft = false
 details = 'https://discourse.gohugo.io/t/52130'
 description = "Katex-Rendering broken in my hugo version (v136.4)"
 +++
+
+```text
+\[A \lor B = Q\]
+```
+
+\[A \lor B = Q\]
+
+```text
+\[ R [\Omega] = \frac{U [V]}{I [A]}\]
+```
+
+\[ R [\Omega] = \frac{U [V]}{I [A]}\]
