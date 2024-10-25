@@ -6,3 +6,11 @@ draft = false
 details = 'https://discourse.gohugo.io/t/52136'
 description = "How can I display a code block within a shortcode?"
 +++
+
+{{< callout "note" >}}
+The # sign means ... **something like that**
+
+```cmd
+$ su -
+```
+{{</ callout >}}
