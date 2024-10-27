@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/52156'
 description = "Where to put pdf files"
 +++
+
+[Open PDF](/images/pdfFile.pdf)
