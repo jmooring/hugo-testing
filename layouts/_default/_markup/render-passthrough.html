@@ -1,0 +1,6 @@
+{{ $opts := dict "output" "htmlAndMathml" }}
+{{ if eq .Type "block" }}
+  {{ $opts = merge $opts (dict "displayMode" true) }}
+{{ end }}
+{{ transform.ToMath .Inner $opts }}
+{{ .Page.Store.Set "hasMath" true }}

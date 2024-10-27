@@ -1,3 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #52155'
+title = 'Hugo Forum Topic #52152'
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [['\[', '\]'], ['$$', '$$']]
+inline = [['\(', '\)'], ['$', '$']]
