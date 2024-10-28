@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $m := partialCached "get-map-of-taxonomy-terms.html" . }}
+
+  {{ range .Pages.ByTitle }}
+    {{ if not (index $m .Data.Plural .Data.Term "isAlias") }}
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ end }}
+  {{ end }}
+{{ end }}

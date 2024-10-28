@@ -1,0 +1,12 @@
+{
+	"@context": [
+		"https://www.w3.org/ns/activitystreams",
+		{
+			"@base": "https://trwnh.com/tags/"
+		}
+	],
+	"id": "bar",
+	"name": "BAR",
+	"summary": "This is bar.",
+	"alsoKnownAs": ["bar-a", "bar-b"]
+}

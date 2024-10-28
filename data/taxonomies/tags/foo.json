@@ -1,0 +1,12 @@
+{
+	"@context": [
+		"https://www.w3.org/ns/activitystreams",
+		{
+			"@base": "https://trwnh.com/tags/"
+		}
+	],
+	"id": "foo",
+	"name": "FOO",
+	"summary": "This is foo.",
+	"alsoKnownAs": ["foo-a", "foo-b"]
+}

@@ -1,0 +1,32 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $m := partialCached "get-map-of-taxonomy-terms.html" . }}
+
+  {{ $terms := slice .Data.Term }}
+  {{ range index $m .Data.Plural .Data.Term "aliases" }}
+    {{ $terms = $terms | append . }}
+  {{ end }}
+
+  {{ range where site.RegularPages (printf "Params.%s" .Data.Plural) "intersect" $terms }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ with .GetTerms "tags" }}
+      <p>Tags:
+        {{ range sort . "LinkTitle" }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ define "redirect" }}
+  {{ $m := partialCached "get-map-of-taxonomy-terms.html" . }}
+  {{ with index $m .Data.Plural .Data.Term "canonicalTerm" }}
+    {{ $canonicalPermalink := (index site.Taxonomies $.Data.Plural .).Page.Permalink }}
+    <link rel="canonical" href="{{ $canonicalPermalink }}">
+    <meta name="robots" content="noindex">
+    <meta http-equiv="refresh" content="0; url={{ $canonicalPermalink }}">
+  {{ end }}
+{{ end }}

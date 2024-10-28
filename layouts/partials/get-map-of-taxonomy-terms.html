@@ -1,0 +1,57 @@
+{{- /*
+Returns a map of all taxonomy terms. The data structure look like this:
+
+    {
+      "tags": {
+        "bar": {
+          "aliases": [
+            "bar-a",
+            "bar-b"
+          ],
+          "isAlias": false
+        },
+        "bar-a": {
+          "canonicalTerm": "bar",
+          "isAlias": true
+        },
+        "bar-b": {
+          "canonicalTerm": "bar",
+          "isAlias": true
+        }
+      }
+    }
+
+Define aliases in data files. For example:
+
+    data/taxonomies/tags/bar.json
+
+    {
+      "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        {
+          "@base": "https://trwnh.com/tags/"
+        }
+      ],
+      "id": "bar",
+      "name": "BAR",
+      "summary": "This is bar.",
+      "alsoKnownAs": ["bar-a", "bar-b"]
+    }
+
+@example {{ $m := partialCached "get-map-of-taxonomy-terms.html" . }}
+*/}}
+{{ $m := dict }}
+{{ range $taxonomy, $_ := site.Taxonomies }}
+  {{ range $term, $_ := index site.Taxonomies $taxonomy }}
+    {{ $m = merge $m (dict $taxonomy (dict $term (dict "isAlias" false))) }}
+  {{ end }}
+{{ end }}
+{{ range $taxonomy, $terms := site.Data.taxonomies }}
+  {{ range $term := $terms }}
+    {{ $m = merge $m (dict $taxonomy (dict $term.id (dict "aliases" $term.alsoKnownAs "isAlias" false))) }}
+    {{ range $alias := $term.alsoKnownAs }}
+      {{ $m = merge $m (dict $taxonomy (dict $alias (dict "canonicalTerm" $term.id "isAlias" true))) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $m }}
