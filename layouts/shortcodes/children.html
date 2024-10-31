@@ -1,0 +1,7 @@
+{{ range .Page.Pages }}
+<h3>{{ .Title | safeHTML }}</h3>
+<div>
+
+{{ .RenderShortcodes }}
+</div>
+{{ end }}
