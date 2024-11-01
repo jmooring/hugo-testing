@@ -1,0 +1,8 @@
+{{- $opts := dict "displayMode" (eq .Type "block") }}
+{{- with transform.ToMath .Inner $opts }}
+  {{- with .Err }}
+    {{ errorf "Unable to render mathematical markup to HTML using the transform.ToMath template function. The KaTeX display engine threw the following error: %s. See %s." . $.Position.Filename }}
+  {{- else }}
+    {{- . }}
+  {{- end }}
+{{- end -}}

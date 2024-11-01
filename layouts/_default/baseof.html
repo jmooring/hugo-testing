@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+  <style>
+    #eq-black-scholes {
+      color: green;
+      font-weight: bold;
+      font-size: 3rem;
+    }
+  </style>
 </head>
 <body>
   <header>
