@@ -7,10 +7,16 @@ details = 'https://discourse.gohugo.io/t/52232'
 description = "transform.ToMath removes html if it contains equations"
 +++
 
-<span id="eq-black-scholes">\[\frac{1}{2}\]</span>
+<div class="eq-black-scholes">
 
-An inline <span id="eq-black-scholes">\(\frac{1}{2}\)</span> expression.
+\[\frac{1}{2}\]
+</div>
 
-<span id="eq-black-scholes">$$\frac{1}{2}$$</span>
+An inline <span class="eq-black-scholes">\(\frac{1}{2}\)</span> expression.
 
-An inline <span id="eq-black-scholes">$\frac{1}{2}$</span> expression.
+<div class="eq-black-scholes">
+
+$$\frac{1}{2}$$
+</div>
+
+An inline <span class="eq-black-scholes">$\frac{1}{2}$</span> expression.
