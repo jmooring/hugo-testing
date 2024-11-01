@@ -1,3 +1,21 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #52231'
+
+defaultContentLanguage = 'fi'
+
+[languages.fi]
+languageCode = 'fi-FI'
+languageDirection = 'ltr'
+languageName = 'suomalainen'
+weight = 1
+
+[languages.en]
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 2
+disableKinds = ['home','section','rss','sitemap','taxonomy','term']
+
+[taxonomies]
+color = 'color'
