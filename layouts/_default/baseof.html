@@ -4,13 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
-  <style>
-    #eq-black-scholes {
-      color: green;
-      font-weight: bold;
-      font-size: 3rem;
-    }
-  </style>
+
+  {{ $noop := .WordCount }}
+  {{ if .Store.Get "hasMath" }}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" crossorigin="anonymous">
+  {{ end }}
+
 </head>
 <body>
   <header>
