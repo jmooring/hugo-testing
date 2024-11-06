@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/52305>
 
-Description: Append images for sprite
+Description: Create an image sprite from images in the assets directory
 
 ## Instructions
 

@@ -1,0 +1,157 @@
+{{- /* Last modified: 2024-11-06T20:44:10-08:00 */}}
+
+{{- /*
+Copyright 2024 Veriphor, LLC
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+{{- /*
+Creates an image sprite and an associated stylesheet.
+
+The images used to build the sprite must be located in the assets directory or
+in a directory mounted to the asssets directory.
+
+Each ID selector in the associated style sheet is an anchorized representation
+of the base name of the corresponding image. For example, with this directory
+structure:
+
+    assets/
+    └── images/
+        └── partners/
+            └── logos/
+                ├── a.jpg
+                └── B C.jpg
+
+The stylesheet will look something like this:
+
+    #a {background: url('/images/sprite.png') -0px 0px; width: 75px; height: 50px;}
+    #b-c {background: url('/images/sprite.png') -75px 0px; width: 150px; height: 100px;}
+
+If you provide a namespace parameter when calling this partial, the namespace
+is prepended to the anchorized representation of the image base name. For
+example, if you specify a "foo" namespace:
+
+    #foo-a {background: url('/images/sprite.png') -0px 0px; width: 75px; height: 50px;}
+    #foo-b-c {background: url('/images/sprite.png') -75px 0px; width: 150px; height: 100px;}
+
+Include a sprite frame in your HTML by specifying the ID selector. For example:
+
+    <div id="a"></div>
+
+If you provide a namespace parameter such as "foo" when calling this partial,
+your HTML must look something like this:
+
+    <div id="foo-a"></div>
+
+@param {string} directory The directory containing the images to include in the sprite, relative to the assets directory.
+@param {string} [namespace] The namespace with which to prefix each ID selector in the stylesheet.
+@param {string} [format=png] The format of the resulting image sprite, either jpeg or png. We exclude gif and webp due to poor image quality.
+
+@returns {template.HTML}
+
+@examples
+
+    {{ $opts := dict "directory" "images/partners/logos" }}
+    {{ partialCached "make-sprite.html" $opts }}
+
+    {{ $opts := dict "directory" "images/partners/logos" "format" "webp" }}
+    {{ partialCached "make-sprite.html" $opts }}
+
+    {{ $opts := dict "directory" "images/partners/logos" "format" "webp" "namespace" "logos" }}
+    {{ partialCached "make-sprite.html" $opts }}
+
+*/}}
+
+{{- /* Initialize. */}}
+{{- $partialName := "make-sprite" }}
+{{- $validImageFormats := slice "jpeg" "png" }}
+
+{{- /* Set default values. */}}
+{{- $format := "png" }}
+{{- $namespace := "" }}
+
+{{- /* Get parameters. */}}
+{{- with .format | lower }}
+  {{- if in $validImageFormats . }}
+    {{- $format = . }}
+  {{- else }}
+    {{- errorf "The \"format\" parameter passed to the %q partial is invalid. It must be one of %s." $partialName (delimit $validImageFormats ", " ", or ") }}
+  {{- end }}
+{{- end }}
+
+{{- with .namespace | lower }}
+  {{- $namespace = printf "%s-" . }}
+{{- end }}
+
+{{- $directory := "" }}
+{{- $outfile := "" }}
+{{- with .directory }}
+  {{- $directory = . }}
+  {{- $outfile = printf "%s/sprite.%s" . $format }}
+{{- else }}
+  {{- errorf "The %q partial requires a \"directory\" parameter." $partialName }}
+{{- end }}
+
+{{- /* Build slice of supported images. */}}
+{{- $images := slice }}
+{{- range resources.Match (printf "%s/**" $directory) }}
+  {{- if and (eq .MediaType.MainType "image") (in (slice "gif" "jpeg" "png" "tiff" "webp") .MediaType.SubType) }}
+    {{- $images = $images | append . }}
+  {{- end }}
+{{- end }}
+
+{{- /* Build sprite and index. */}}
+{{- $index := dict }}
+{{- with $images }}
+  {{- $sprite := "" }}
+  {{- $offsetX := 0 }}
+  {{- $offsetY := 0 }}
+  {{- range $k, $image := .}}
+    {{- if $k }}
+      {{- $offsetX = $sprite.Width }}
+      {{- $paddingRight := $image.Width }}
+      {{- $paddingBottom := math.Max (sub $image.Height $sprite.Height) 0 }}
+      {{- $filters := slice
+        (images.Padding 0 $paddingRight $paddingBottom 0 )
+        (images.Overlay $image $offsetX $offsetY)
+      }}
+      {{- $sprite = $sprite | images.Filter $filters }}
+    {{- else }}
+      {{- $sprite = $image.Process $format }}
+    {{- end }}
+    {{- $id := path.BaseName $image.Name | anchorize }}
+    {{- $index = merge $index (dict $id (dict "top" $offsetY "left" $offsetX "width" $image.Width "height" $image.Height)) }}
+  {{- end }}
+  {{- with resources.Copy $outfile $sprite }}
+    {{- .Publish }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q partial was unable to find any supported images in %s." $partialName $directory }}
+{{- end }}
+
+{{- /* Generate and publish sprite stylesheet. */}}
+{{- $string := "" }}
+{{- range $k, $_ := $index }}
+  {{- $formatString := "%s\n#%s%s {background: url('%s') -%dpx %dpx; width: %dpx; height: %dpx;}" }}
+  {{- $string = printf $formatString $string $namespace $k (relURL $outfile) .left .top .width .height }}
+{{- end }}
+{{- with resources.FromString (printf "css/%s/sprite.css" $directory) $string }}
+  {{- if hugo.IsDevelopment }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{- else }}
+    {{- with . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{- end }}
+  {{- end }}
+{{- end }}

@@ -1,0 +1,43 @@
+{{- /* Last modified: 2024-11-06T20:44:04-08:00 */}}
+
+{{- /*
+Copyright 2024 Veriphor, LLC
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+{{- /*
+Renders a frames from an image sprite.
+
+@param {string} id The CSS selector ID corresponding to the frame.
+@param {string} [class=block] The CSS class assigned to the rendered HTML element.
+
+@returns {template.HTML}
+
+@examples
+
+  This is an {{< sprite id=a class="inline-block" >}} inline sprite frame.
+  This is a {{< sprite id=b class="block" >}} block sprite frame.
+  This is also a {{< sprite id=c >}} block sprite frame.
+
+*/}}
+
+{{- with $id := .Get "id" | lower }}
+  {{- $display := "block" }}
+  {{- with $.Get "class" | lower }}
+    {{- $display = . }}
+  {{- end -}}
+    <i id="{{ $id }}" class="{{ $display }}"></i>
+{{- else }}
+  {{- errorf "The %q shortcode requires a parameter named id. See %s" .Name .Position  }}
+{{- end -}}
