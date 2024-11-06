@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #52305'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-11-06T09:06:51-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/52305'
+description = "Append images for sprite"
 +++
