@@ -1,4 +1,14 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ with .Aliases }}
+    <p>These are the aliases for this page:</p>
+    <ul>
+    {{ range . }}
+      <li><a href="{{ . }}">{{ . }}</a></li>
+    {{ end }}
+    </ul>
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
