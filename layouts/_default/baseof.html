@@ -4,6 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+  {{ warnf "The value of .Store.Get \"hasMath\" within the head element of %s is: %v" .Permalink (.Store.Get "hasMath") }}
+
+  {{ $data := (dict "page" .) }}
+  {{ with (templates.Defer (dict "data" $data)) }}
+    {{ if page.Store.Get "hasMath" }}
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+    {{ end }}
+    {{ warnf "The (deferred) value of .Store.Get \"hasMath\" within the head element of %s is: %v" .page.Permalink (page.Store.Get "hasMath") }}
+  {{ end }}
+
 </head>
 <body>
   <header>
@@ -13,5 +24,8 @@
   <main>
     {{ block "main" . }}{{ end }}
   </main>
+
+  {{ warnf "The value of .Store.Get \"hasMath\" at the bottom of %s is: %v" .Permalink (.Store.Get "hasMath") }}
+
 </body>
 </html>

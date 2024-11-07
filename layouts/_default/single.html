@@ -1,4 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  {{ if eq . (.GetPage "posts/post-3") }}
+    {{ partial "a.html" . }}
+  {{ end }}
 {{ end }}

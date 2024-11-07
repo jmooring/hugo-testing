@@ -1,0 +1,4 @@
+{{ .Store.Set "hasMath" true }}
+
+{{ $opts := dict "output" "htmlAndMathml" }}
+{{ transform.ToMath "c = \\pm\\sqrt{a^2 + b^2}" $opts }}
