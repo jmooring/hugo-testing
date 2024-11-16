@@ -6,3 +6,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/52431'
 description = "Hugo generates empty paragraphs at beginning of or between shortcodes"
 +++
+
+a
+
+{{% include "/snippet" %}}
+
+b
