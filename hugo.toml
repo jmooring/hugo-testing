@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #52453'
+
+[outputFormats.rss]
+mediatype = 'application/rss'
+baseName = 'feed'
+
+[outputs]
+home = ["html", "rss"]
+section = ["html", "rss"]
+taxonomy = ["html", "rss"]
+term = ["html", "rss"]
