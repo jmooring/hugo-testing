@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/52479'
 description = "Static page that uses partials"
 +++
+
+<http://localhost:1313/foo/bar/api>
