@@ -1,7 +1,5 @@
 .hugo_build.lock
 .hvm
-.vscode/
-/NOTES.md
 node_modules/
 public/
 resources/
