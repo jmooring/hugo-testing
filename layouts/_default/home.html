@@ -10,12 +10,6 @@
   {{ end }}
   {{ .Content }}
 
-  {{ with partial "get-locations.html" . }}
-    <ul>
-      {{ range . }}
-        <li>{{ .title }} ({{ .location.latitude }}, {{ .location.longitude }})</li>
-      {{ end }}
-    </ul>
-  {{ end }}
+  {{ partial "render-unordered-list.html" (partial "get-locations.html" .) }}
 
 {{ end }}

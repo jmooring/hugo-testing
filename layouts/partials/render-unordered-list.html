@@ -1,0 +1,5 @@
+<ul>
+  {{ range . }}
+    <li>{{ .title }} ({{ .location.latitude }}, {{ .location.longitude }})</li>
+  {{ end }}
+</ul>
