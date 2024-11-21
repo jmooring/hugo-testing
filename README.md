@@ -13,3 +13,14 @@ git clone --single-branch -b hugo-forum-topic-52483 https://github.com/jmooring/
 cd hugo-forum-topic-52483
 hugo server
 ```
+
+Note that the footer menu entries use relative URLs to point to local content.
+
+Now stop the server and do this:
+
+```text
+mv content/capabilities content/xx
+hugo server
+```
+
+Note that the footer menu entries now use absolute URLs pointing to content on the site specified by `parentSiteBaseURL` in the module's `params` configuration file.
