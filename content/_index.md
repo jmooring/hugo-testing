@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #52505'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-11-22T12:15:38-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/52505'
+description = "Cannot get font awesome fonts to appear"
 +++
