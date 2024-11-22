@@ -1,0 +1,60 @@
+{{ $data := slice }}
+{{ with resources.Get "json/tweets.json" }}
+    {{ $data = . | transform.Unmarshal }}
+
+    {{ $pages := slice }}
+
+    {{ range $data }}
+
+        {{ $fullText := .tweet.full_text }}
+
+        {{ $replacements := slice }}
+
+        {{ $tweetMentions := slice }}
+        {{ $tweetHashTags := slice }}
+
+        {{ range .tweet.entities.user_mentions }}
+            {{ $tweetMentions = $tweetMentions | append .screen_name }}
+
+            {{ $substr := delimit (slice "@" .screen_name) "" }}
+            {{ $replacement := delimit (slice "<a href=\"/mentions/" .screen_name "\">" $substr "</a>") "" }}
+            {{ $fullText = replace $fullText $substr $replacement }}
+        {{ end }}
+
+        {{ range .tweet.entities.hashtags }}
+            {{ $tweetHashTags = $tweetHashTags | append .text }}
+
+            {{ $substr := delimit (slice "#" .text) "" }}
+            {{ $replacement := (delimit (slice "<a href=\"/hashtags/" .text "\">" $substr "</a>") "") }}
+            {{ $fullText = replace $fullText $substr $replacement }}
+        {{ end }}
+
+        {{ range .tweet.entities.urls }}
+            {{ $replacement := (delimit (slice "<a href=\"" .expanded_url "\">" .display_url "</a>") "") }}
+            {{ $fullText = replace $fullText .url $replacement }}
+        {{ end }}
+
+        {{ $content := dict
+            "value" $fullText
+            "mediaType" "text/html"
+        }}
+
+        {{ $dates := dict "date" (time .tweet.created_at) }}
+
+        {{ $params := dict
+            "hashtags" $tweetHashTags
+            "mentions" $tweetMentions
+        }}
+
+        {{ $page := dict
+            "content" $content
+            "kind" "page"
+            "path" .tweet.id_str
+            "title" ($fullText | plainify)
+            "dates" $dates
+            "params" $params
+        }}
+
+        {{ $.AddPage $page }}
+    {{ end }}
+{{ end }}

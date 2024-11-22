@@ -1,0 +1,18 @@
+{{ define "main" }}[layouts/tweets/list.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <div>
+      <h3>Top mentions</h3>
+      <ol>
+          {{ range first 5 .Site.Taxonomies.mentions.ByCount }}
+          <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+          {{ end }}
+      </ol>
+      <p><a href="{{ .Site.Taxonomies.mentions.Page.RelPermalink }}">All mentions</a></p>
+  </div>
+
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+{{ end }}

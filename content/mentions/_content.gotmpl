@@ -1,0 +1,31 @@
+{{ $data := slice }}
+{{ with resources.Get "json/tweets.json" }}
+    {{ $data = . | transform.Unmarshal }}
+
+    {{ $mentions := dict }}
+
+    {{ range $data }}
+        {{ range .tweet.entities.user_mentions }}
+            {{ $mentions = merge $mentions (dict .screen_name (dict
+                "name" .name
+                "screen_name" .screen_name
+                "id" .id_str
+            ))}}
+        {{ end }}
+    {{ end }}
+
+    {{ range $key, $value := $mentions }}
+        {{ $mentionParams := dict
+            "screen_name" $value.screen_name
+        }}
+
+        {{ $mentionPage := dict
+            "title" $value.name
+            "kind" "term"
+            "path" $value.screen_name
+            "params" $mentionParams
+        }}
+
+        {{ $.AddPage $mentionPage }}
+    {{ end }}
+{{ end }}
