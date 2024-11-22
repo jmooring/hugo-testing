@@ -9,7 +9,12 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <span class="icon-text">
+    <span class="icon">
+      <i class="fa-solid fa-envelope"></i>
+    </span>
+    <span>My email</span>
+  </span>
+
 {{ end }}
