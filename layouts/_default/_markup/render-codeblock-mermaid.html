@@ -1,4 +1,4 @@
 <pre class="mermaid">
-  {{- .Inner  | replaceRE `\(` "#40;" | replaceRE `\)` "#41;" | safeHTML }}
+  {{- .Inner | htmlEscape | safeHTML }}
 </pre>
 {{ .Page.Store.Set "hasMermaid" true }}
