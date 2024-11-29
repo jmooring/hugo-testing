@@ -4,14 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  {{ partial "css.html" . }}
 </head>
 <body>
   <header>
-    <h1>{{ site.Title }}</h1>
+    <h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
+    {{ partial "language-switcher.html" . }}
+    {{ partial "menu.html" . }}
     <hr>
   </header>
   <main>
     {{ block "main" . }}{{ end }}
   </main>
+
+  {{ $shortURL := partial "make-short-url.html" . }}
+  <p>Short URL: <a href="{{ $shortURL }}">{{ $shortURL }}</a></p>
+
 </body>
 </html>

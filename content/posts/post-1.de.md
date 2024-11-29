@@ -1,5 +1,5 @@
 +++
-title = 'Post 1 (EN)'
+title = 'Post 1 (DE)'
 date = 2024-11-29T11:42:47-08:00
 draft = false
 +++

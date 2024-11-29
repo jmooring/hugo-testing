@@ -1,0 +1,16 @@
+{{ $html := printf `<!DOCTYPE html>
+<html lang="%[1]s">
+  <head>
+    <title>%[2]s</title>
+    <link rel="canonical" href="%[2]s">
+    <meta name="robots" content="noindex">
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url=%[2]s">
+  </head>
+</html>
+` .Language.LanguageCode .Permalink }}
+
+{{ $hash := .Path | hash.FNV32a }}
+{{ $publishPath := path.Join site.LanguagePrefix $hash "index.html" }}
+{{ (resources.FromString $publishPath $html).Publish }}
+{{ return ($hash | absLangURL) }}
