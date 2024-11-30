@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #52576'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-11-30T07:16:34-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/52576'
+description = "Hugo-admonitions: A simple way to add beautiful Callouts to hugo site"
 +++
