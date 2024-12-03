@@ -1,3 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #13104'
+
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+
+[markup.goldmark.parser.attribute]
+block = true
+
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
