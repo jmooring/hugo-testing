@@ -6,3 +6,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/52628'
 description = "Markdown links in shortcode"
 +++
+
+My list:
+
+- A link to [Post 1](/posts/post-1)
+- A link to [Post 2](/posts/post-2)
+{id="test"}
