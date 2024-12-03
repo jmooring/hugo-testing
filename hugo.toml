@@ -24,3 +24,10 @@ languageDirection = 'ltr'
 languageName = 'Chinese'
 weight = 3
 title = 'Hugo Forum Topic #52576 (ZH)'
+
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 3
+title = 'Hugo Forum Topic #52576 (DE)'
