@@ -1,0 +1,6 @@
+{{ if .Params.toc }}
+  {{ $startLevel := or (.Param "toc.startLevel") 2 }}
+  {{ $endLevel := or (.Param "toc.endLevel") 3 }}
+  {{ $ordered := or (.Param "toc.ordered") false }}
+  {{ .Fragments.ToHTML $startLevel $endLevel $ordered }}
+{{ end }}
