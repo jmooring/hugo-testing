@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #37954'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-12-06T13:26:11-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/37954'
+description = "Using PurgeCSS (From Scratch)"
 +++
