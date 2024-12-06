@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #37954'
+disableKinds = ['page','section','rss','sitemap','taxonomy','term']
+
+[build.buildStats]
+enable = true

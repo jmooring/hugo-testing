@@ -1,0 +1,25 @@
+/* Test autoprefixer. */
+/* ------------------------------------------------------------------------- */
+
+::placeholder {
+  color: gray;
+}
+
+/* Test purgecss. */
+/* ------------------------------------------------------------------------- */
+
+.green {
+  color: green;
+}
+
+#red {
+  color: red;
+}
+
+.unused-class {
+  border: 1px solid cyan;
+}
+
+#unused-id {
+  border: 1px solid yellow;
+}
