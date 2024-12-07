@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  {{ partial "open-graph-image.html" . }}
 </head>
 <body>
   <header>
@@ -13,5 +14,10 @@
   <main>
     {{ block "main" . }}{{ end }}
   </main>
+
+  {{ with .Store.Get "open_graph_image_permalink" }}
+    <p><a href="{{ . }}">View the Open Graph image for this page.</a></p>
+  {{ end }}
+
 </body>
 </html>

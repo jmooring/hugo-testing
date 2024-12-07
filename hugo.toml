@@ -1,3 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #52666'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[params.branding.cards]
+baseImagePath = 'images/branding/card.png' # Located in the assets directory.
+baseImageSize = '1200x628' # Format is 999x999 (pixels).
+fontPath = 'fonts/montserrat-v25-latin-regular.ttf' # TrueType font located in the assets directory.
+fontColor = '#ffffff' # Use hexadecimal notation with a leading hash mark.
+fontSize = 80 # Font size (pixels).
+fontSpacing = 25 # Vertical spacing between each line (pixels).
+xOffset = 80 # Horizontal offset of text from left side of image (pixels).
+yOffset = 50 # Vertical offset of text from top of image (pixels).
+
+[params.branding.identity]
+slogan = "We make the best tools in the world. Why use anything else?"

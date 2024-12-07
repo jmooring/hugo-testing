@@ -1,0 +1,139 @@
+{{- /* Last modified: 2024-12-07T13:19:39-08:00 */}}
+
+{{- /*
+Copyright 2024 Veriphor, LLC
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+*/}}
+
+{{- /*
+Generates an Open Graph image and associated metadata for the current page.
+
+If an "image" field is present in front matter, we look first for a page
+resource, then for a global resource. We throw an error if we cannot find a
+matching resource.
+
+If an "image" field is not present in front matter, we look for a page resource
+of type "image" with name "featured", "cover", or "thumbnail". The file
+extension is irrelevant.
+
+If we still can't find an image, we use site.Params.branding.cards.baseImagePath.
+
+If the image size is not equal to site.Params.branding.cards.baseImageSize, we
+proportionally scale it to the site.Params.branding.cards.baseImageSize
+dimensions using the .Fill image processing method. Running an image through
+the pipeline, even without changing its size, can negatively affect quality.
+
+Finally, if we're using site.Params.branding.cards.baseImagePath, we overlay
+the page title as text.
+
+Your site configuration must contain:
+
+  [params.branding.cards]
+  baseImagePath = 'images/branding/card.png' # Located in the assets directory.
+  baseImageSize = '1200x628' # Format is 999x999 (pixels).
+  fontPath = 'fonts/montserrat-v25-latin-regular.ttf' # TrueType font located in the assets directory.
+  fontColor = '#ffffff' # Use hexadecimal notation with a leading hash mark.
+  fontSize = 80 # Font size (pixels).
+  fontSpacing = 20 # Vertical spacing between each line (pixels).
+  xOffset = 80 # Horizontal offset of text from left side of image (pixels).
+  yOffset = 50 # Vertical offset of text from top of image (pixels).
+
+  [params.branding.identity]
+  slogan = "We make the best tools in the world. Why use anything else?"
+
+*/}}
+
+{{- /* Initialize. */}}
+{{- $partialName := "open-graph-image" }}
+{{- $usingBaseImage := false }}
+{{- $r := "" }}
+
+{{- /* Verify minimum required version. */}}
+{{- $minHugoVersion := "0.133.0" }}
+{{- if lt hugo.Version $minHugoVersion }}
+  {{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
+{{- end }}
+
+{{- /* Get image. */}}
+{{- with .Params.image }}
+  {{- with or ($.Resources.Get .) (resources.Get .) }}
+    {{- $r = . }}
+  {{- else }}
+    {{- errorf "The %q partial was unable to find %s. See %s" $partialName . $.Path }}
+  {{- end }}
+{{- else with $pageResources := .Resources.ByType "image" }}
+  {{- range $preferredName := slice "featured" "cover" "thumbnail" }}
+    {{- range $pageResources }}
+      {{- if eq $preferredName (path.BaseName .) }}
+        {{- $r = . }}
+        {{- break }}
+      {{- end }}
+    {{- end }}
+    {{- if $r }}
+      {{- break }}
+    {{- end }}
+  {{- end }}
+{{- else with resources.Get site.Params.branding.cards.baseImagePath }}
+  {{- $r = . }}
+  {{- $usingBaseImage = true }}
+{{- else }}
+  {{- errorf "The %q partial was unable to generate a meta image. See %s" $partialName $.Path }}
+{{- end }}
+
+{{- if $r }}
+  {{- /* Resize the image if necessary. */}}
+  {{- if ne site.Params.branding.cards.baseImageSize (printf "%dx%d" $r.Width $r.Height) }}
+    {{- $r = $r.Fill (printf "%s q100 webp" site.Params.branding.cards.baseImageSize) }}
+  {{- end }}
+
+  {{- /* Add text to image. */}}
+  {{- if $usingBaseImage }}
+    {{- $text := "" }}
+    {{- if $.IsHome }}
+      {{- $text = site.Params.branding.identity.slogan }}
+    {{- else }}
+      {{- $text = $.Title }}
+    {{- end }}
+    {{- $font := "" }}
+    {{- with $font = resources.Get site.Params.branding.cards.fontPath }}
+      {{- $font = . }}
+    {{- else }}
+      {{- errorf "The %q partial was unable to find %s. See %s" $partialName site.Params.branding.cards.fontPath .Path }}
+    {{- end }}
+    {{- $opts := dict
+      "font" $font
+      "color" site.Params.branding.cards.fontColor
+      "size" site.Params.branding.cards.fontSize
+      "linespacing" site.Params.branding.cards.fontSpacing
+      "x" site.Params.branding.cards.xOffset
+      "y" site.Params.branding.cards.yOffset
+    }}
+    {{- $r = $r.Filter (images.Text $text $opts) }}
+  {{- end }}
+  {{- $r = $r | resources.Copy (path.Join $.RelPermalink (printf "card%s" (path.Ext $r.Name))) }}
+
+  {{- /* Add fingerprint to permalink to bust opengraph/twitter image cache. */}}
+  {{- /* Permalink will look like https://example.org/card.png?fp=3205444274 */}}
+  {{- $permalink := printf "%s?fp=%d" $r.Permalink ($r.Content | hash.FNV32a) }}
+
+  {{- /* Add permalink to the page store in case we need it later for something else. */}}
+  {{- .Store.Set "open_graph_image_permalink" $permalink }}
+
+  {{- /* Render the meta elements. */}}
+  <meta property="og:image:alt" content="{{ .Title}}">
+  <meta property="og:image:height" content="{{ $r.Height }}">
+  <meta property="og:image:type" content="{{ $r.MediaType.Type }}">
+  <meta property="og:image:width" content="{{ $r.Width }}">
+  <meta property="og:image" content="{{ $permalink }}">
+{{- end }}
