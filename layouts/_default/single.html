@@ -1,4 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ range .Resources.ByType "page" }}
+    {{ $publishPath := urls.JoinPath $.RelPermalink .Name }}
+    {{ (.Content | resources.FromString $publishPath).Publish }}
+  {{ end }}
+
 {{ end }}
