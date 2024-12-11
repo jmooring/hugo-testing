@@ -8,8 +8,24 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with site.GetPage "/laws/union/environment" }}
+    {{ with .Pages.ByDate.Reverse | first 10 }}
+      <ul>
+        {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
   {{ end }}
+
+  For a listing of sections within the laws/union section, see:
+
+  {{ with site.GetPage "/laws/union" }}
+    <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
+  {{ end }}
+
+
 {{ end }}
