@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #13131'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+[markup.goldmark.renderer]
+unsafe = true
+[params.query]
+a ='foo'
+b = 6

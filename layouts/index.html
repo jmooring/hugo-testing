@@ -1,0 +1,33 @@
+
+<!-- maps.Params: site configuration -->
+A: {{ collections.Querify .Site.Params.query | safeHTML }}|
+
+<!-- maps.Params: page parameters -->
+B: {{ collections.Querify .Page.Params.query | safeHTML }}|
+
+<!-- map[string]string -->
+C: {{ collections.Querify (dict "a" "foo" "b" "bar") | safeHTML }}|
+
+<!-- map[string]int -->
+D: {{ collections.Querify (dict "a" 6 "b" 7) | safeHTML }}|
+
+<!-- map[string]any -->
+E: {{ collections.Querify (dict "a" "foo" "b" 7) | safeHTML }}|
+
+<!-- []string -->
+F: {{ collections.Querify (slice "a" "foo" "b" "bar") | safeHTML }}|
+
+<!-- []any -->
+G: {{ collections.Querify (slice "a" 6 "b" 7) | safeHTML }}|
+
+<!-- sequence of scalar values: string keys, string values -->
+H: {{ collections.Querify "a" "foo" "b" "bar" | safeHTML }}|
+
+<!-- sequence of scalar values: string keys, int values -->
+I: {{ collections.Querify "a" 6 "b" 7 | safeHTML }}|
+
+<!-- sequence of scalar values: string keys, any values -->
+J: {{ collections.Querify "a" "foo" "b" 7 | safeHTML }}|
+
+<!-- zero arguments -->
+K: {{ collections.Querify | safeHTML }}|
