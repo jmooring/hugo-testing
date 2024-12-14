@@ -8,6 +8,12 @@ description = "Hugo-admonitions: A simple way to add beautiful Callouts to hugo 
 +++
 
 ```markdown
+> [!NOTE] _Title Only (emphasized)_
+```
+
+> [!NOTE] _Title Only (emphasized)_
+
+```markdown
 > [!ABSTRACT]
 > This is an abstract.
 ```

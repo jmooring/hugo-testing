@@ -4,6 +4,9 @@ disableKinds = ['page','section','rss','sitemap','taxonomy','term']
 [[module.imports]]
 path = "github.com/KKKZOZ/hugo-admonitions"
 
+[module]
+# replacements = 'github.com/KKKZOZ/hugo-admonitions -> ../../hugo-admonitions'
+
 [languages.en]
 languageCode = 'en-US'
 languageDirection = 'ltr'
