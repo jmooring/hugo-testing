@@ -1,5 +1,5 @@
 +++
-title = 'Hugo Forum Topic #52576 (DE)'
+title = 'Hugo Forum Topic #52576 (EN)'
 linkTitle = 'Home'
 date = 2024-11-30T07:16:34-08:00
 draft = false

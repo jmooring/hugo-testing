@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-disableKinds = ['page','section','rss','sitemap','taxonomy','term']
+disableKinds = ['rss','sitemap','taxonomy','term']
 
 [[module.imports]]
 path = "github.com/KKKZOZ/hugo-admonitions"
@@ -34,3 +34,6 @@ languageDirection = 'ltr'
 languageName = 'Deutsch'
 weight = 3
 title = 'Hugo Forum Topic #52576 (DE)'
+
+[markup.goldmark.renderer]
+unsafe = true

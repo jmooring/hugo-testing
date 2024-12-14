@@ -1,17 +1,50 @@
 +++
-title = 'Hugo Forum Topic #52576 (EN)'
-linkTitle = 'Home'
-date = 2024-11-30T07:16:34-08:00
-draft = false
-details = 'https://discourse.gohugo.io/t/52576'
-description = "Hugo-admonitions: A simple way to add beautiful Callouts to hugo site"
+title = "Examples"
 +++
 
+## Compatible with GitHub
+
 ```markdown
-> [!NOTE] _Title Only (emphasized)_
+> [!CAUTION]
+> This is a caution.
 ```
 
-> [!NOTE] _Title Only (emphasized)_
+> [!CAUTION]
+> This is a caution.
+
+```markdown
+> [!IMPORTANT]
+> This is important.
+```
+
+> [!IMPORTANT]
+> This is important.
+
+```markdown
+> [!NOTE]
+> This is a note.
+```
+
+> [!NOTE]
+> This is a note.
+
+```markdown
+> [!TIP]
+> This is a tip.
+```
+
+> [!TIP]
+> This is a tip.
+
+```markdown
+> [!WARNING]
+> This is a warning.
+```
+
+> [!WARNING]
+> This is a warning.
+
+## All
 
 ```markdown
 > [!ABSTRACT]
@@ -180,3 +213,29 @@ description = "Hugo-admonitions: A simple way to add beautiful Callouts to hugo 
 
 > [!WARNING]
 > This is a warning.
+
+## With alert title
+
+```markdown
+> [!CAUTION] Be careful
+> This is a caution.
+```
+
+> [!CAUTION] Be careful
+> This is a caution.
+
+## Alert title only
+
+```markdown
+> [!CAUTION] Be _careful_ here
+```
+
+> [!CAUTION] Be _careful_ here
+
+## Alert type only
+
+```markdown
+> [!CAUTION]
+```
+
+> [!CAUTION]

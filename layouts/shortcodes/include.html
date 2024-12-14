@@ -1,0 +1,5 @@
+{{ with site.Sites.Default }}
+  {{ with .GetPage ($.Get 0) }}
+  {{ .RenderShortcodes }}
+  {{ end }}
+{{ end }}

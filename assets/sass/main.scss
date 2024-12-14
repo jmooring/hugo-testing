@@ -22,33 +22,33 @@ a {
 /* Navigation */
 /* ------------------------------------------------------------------------- */
 
-nav {
+.nav-inline {
   margin-bottom: 1rem;
 }
 
-nav ul {
+.nav-inline ul {
   font-size: 0;
   padding: 0;
 }
 
-nav li {
+.nav-inline li {
   display: inline;
 }
 
-nav a {
+.nav-inline a {
   font-size: 1rem;
   padding: 0.25em 0.5em;
 }
 
-nav li.active a {
+.nav-inline li.active a {
   background-color: yellow;
 }
 
-nav li.ancestor a {
+.nav-inline li.ancestor a {
   background-color: cyan;
 }
 
-nav.breadcrumbs li:not(:last-child)::after {
+.nav-inline.breadcrumbs li:not(:last-child)::after {
   content: "\00bb";
 }
 
