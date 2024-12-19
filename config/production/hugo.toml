@@ -1,0 +1,6 @@
+[[cascade]]
+[cascade.build]
+list = 'never'
+[cascade._target]
+# This targets all paths with four segments.
+path = '{/*/*/*/*}'
