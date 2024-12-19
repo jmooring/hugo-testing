@@ -1,3 +1,2 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #52788'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+printPathWarnings = true
