@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/52813>
 
-Description: Using Content Adapters to Add Pages- Nested Structure
+Description: Using Content Adapters to Add Pages - Nested Structure
 
 ## Instructions
 

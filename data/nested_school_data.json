@@ -1,0 +1,99 @@
+[
+  {
+    "school_name": "Greenwood High",
+    "location": "New York",
+    "nested_classes": [
+      {
+        "class_name": "Grade 1",
+        "students": [
+          {
+            "student_id": 101,
+            "name": "Alice",
+            "age": 6
+          },
+          {
+            "student_id": 102,
+            "name": "Bob",
+            "age": 7
+          }
+        ]
+      },
+      {
+        "class_name": "Grade 2",
+        "students": [
+          {
+            "student_id": 201,
+            "name": "Charlie",
+            "age": 7
+          },
+          {
+            "student_id": 202,
+            "name": "Daisy",
+            "age": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "school_name": "Sunnydale Academy",
+    "location": "Los Angeles",
+    "nested_classes": [
+      {
+        "class_name": "Grade 3",
+        "students": [
+          {
+            "student_id": 301,
+            "name": "Ethan",
+            "age": 10
+          },
+          {
+            "student_id": 302,
+            "name": "Fiona",
+            "age": 11
+          }
+        ]
+      },
+      {
+        "class_name": "Grade 4",
+        "students": [
+          {
+            "student_id": 401,
+            "name": "George",
+            "age": 12
+          },
+          {
+            "student_id": 402,
+            "name": "Hannah",
+            "age": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "school_name": "Riverside School",
+    "location": "Chicago",
+    "nested_classes": [
+      {
+        "class_name": "Grade 5",
+        "students": [
+          {
+            "student_id": 501,
+            "name": "Ivy",
+            "age": 9
+          },
+          {
+            "student_id": 502,
+            "name": "Jack",
+            "age": 10
+          }
+        ]
+      },
+      {
+        "class_name": "Grade 6",
+        "students": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Params }}
+    <ul>
+      {{ range $k, $v := . }}
+        <li>{{ $k }}: {{ $v }}</li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}

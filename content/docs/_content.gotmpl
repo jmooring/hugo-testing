@@ -1,0 +1,66 @@
+{{/* Initialize. */}}
+{{ $schoolName := "" }}
+{{ $className := "" }}
+{{ $studentName := "" }}
+
+{{/* Create school pages. */}}
+{{ range site.Data.nested_school_data }}
+  {{ $schoolName = .school_name }}
+  {{ $content := dict
+    "mediaType" "text/markdown"
+    "value" ""
+  }}
+  {{ $params := dict "locations" (slice .location) }}
+  {{ $page := dict
+    "content" $content
+    "kind" "section"
+    "linkTitle" $schoolName
+    "path" $schoolName
+    "params" $params
+    "title" (printf "%s Classes" $schoolName)
+    "type" "school"
+  }}
+  {{ $.AddPage $page }}
+
+  {{/* Create class pages. */}}
+  {{ range .nested_classes }}
+    {{ $className = .class_name }}
+    {{ $content := dict
+      "mediaType" "text/markdown"
+      "value" ""
+    }}
+    {{ $params := dict }}
+    {{ $page := dict
+      "content" $content
+      "kind" "section"
+      "linkTitle" $className
+      "path" (path.Join $schoolName $className)
+      "params" $params
+      "title" (printf "%s Students" $className)
+      "type" "class"
+    }}
+    {{ $.AddPage $page }}
+
+    {{/* Create student pages. */}}
+    {{ range .students }}
+      {{ $studentName = .name }}
+      {{ $content := dict
+        "mediaType" "text/markdown"
+        "value" ""
+      }}
+      {{ $params := dict
+        "student_id" .student_id
+        "age" .age
+      }}
+      {{ $page := dict
+        "content" $content
+        "kind" "page"
+        "path" (path.Join $schoolName $className $studentName)
+        "params" $params
+        "title" $studentName
+        "type" "student"
+      }}
+      {{ $.AddPage $page }}
+    {{ end }}
+  {{ end }}
+{{ end }}
