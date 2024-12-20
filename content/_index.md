@@ -7,5 +7,5 @@ details = 'https://discourse.gohugo.io/t/52834'
 description = "Combine SASS/SCSS and CSS in a bundle"
 +++
 
-This paragraph should have green text, a font size of 36px, and it should be underlined.
+This paragraph should have red text, a font size of 36px, and it should be underlined.
 {.test}
