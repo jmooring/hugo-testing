@@ -1,4 +1,16 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ if .Fragments.Identifiers }}
+    <hr>
+      <p>Table of contents:</p>
+      {{ .TableOfContents }}
+    <hr>
+  {{ end }}
+
+  <p>The Markdown for this page:</p>
+
+  {{ highlight (strings.TrimSpace .RawContent) "text" }}
+
   {{ .Content }}
 {{ end }}

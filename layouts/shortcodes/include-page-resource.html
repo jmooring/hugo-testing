@@ -1,0 +1,9 @@
+{{ with .Get 0 }}
+  {{ with $.Page.Resources.Get . }}
+    {{- .RenderShortcodes }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %q. See %s" $.Name . $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a positional parameter indicating the relative path of the page resource to include. See %s" .Name .Position }}
+{{ end }}
