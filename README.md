@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #52827
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/52827>
 
-Description: @@DESCRIPTION@@
+Description: Resource's permalink is empty
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-52827 https://github.com/jmooring/hugo-testing hugo-forum-topic-52827
+cd hugo-forum-topic-52827
 hugo server
 ```
