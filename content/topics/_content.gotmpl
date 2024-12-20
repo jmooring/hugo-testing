@@ -1,0 +1,34 @@
+{{ with site.Data.nested_recursive_data }}
+  {{ template "walk" (dict "data" .topics "path" "" "ctx" $) }}
+{{ end }}
+
+{{ define "walk" }}
+  {{ range .data }}
+    {{ $path := path.Join $.path .title }}
+    {{ template "add-page" (dict "data" . "path" $path "ctx" $.ctx) }}
+    {{ with .children }}
+      {{ template "walk" (dict "data" . "path" $path "ctx" $.ctx) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ define "add-page" }}
+  {{ with .data }}
+    {{ $content := dict "mediaType" "text/markdown" "value" .description }}
+    {{ $dates := dict "date" (time.AsTime .metadata.created_at) }}
+    {{ $params := dict
+      "authors" (slice .metadata.created_by)
+      "id" .id
+      "description" .description
+    }}
+    {{ $page := dict
+      "content" $content
+      "dates" $dates
+      "kind" "section"
+      "params" $params
+      "path" $.path
+      "title" .title
+    }}
+    {{ $.ctx.AddPage $page }}
+  {{ end }}
+{{ end }}

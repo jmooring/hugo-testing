@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ if not (eq .CurrentSection .FirstSection) }}
+    {{ with .Params.id }}<p>ID: {{ . }}</p>{{ end }}
+    {{ with .Params.description }}<p>Description: {{ . }}</p>{{ end }}
+    {{ with .Date }}<p>Created on: {{ . | time.Format ":date_long" }}</p> {{ end }}
+    {{ with .GetTerms "authors" }}
+      <p>Created by:
+        {{ range . }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
+  {{ end }}
+
+  {{ with .Content }}
+    <p>Content:</p>
+    {{ . }}
+  {{ end }}
+
+  {{ range .Pages.ByTitle }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+{{ end }}
