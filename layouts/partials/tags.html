@@ -1,0 +1,14 @@
+{{ $taxonomy := "tags" }}
+{{ if eq .Section "blogs" }}
+  {{ $taxonomy = "blog_tags" }}
+{{ else if eq .Section "notes" }}
+  {{ $taxonomy = "note_tags" }}
+{{ end }}
+
+{{ with .GetTerms $taxonomy }}
+  <p>Tags:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}

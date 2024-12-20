@@ -1,3 +1,35 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #52821'
+
+[taxonomies]
+blog_tag = 'blog_tags'
+note_tag = 'note_tags'
+
+[permalinks.taxonomy]
+note_tags = '/notes/tags/'
+blog_tags = '/blogs/tags/'
+
+[permalinks.term]
+note_tags = '/notes/tags/:slug'
+blog_tags = '/blogs/tags/:slug'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Blogs'
+pageRef = '/blogs'
+weight = 20
+
+[[menus.main]]
+name = 'Notes'
+pageRef = '/notes'
+weight = 30
+
+[[cascade]]
+title = 'Tags'
+[cascade._target]
+path = '{/blog_tags,/note_tags}'
