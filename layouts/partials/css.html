@@ -1,0 +1,16 @@
+{{ with resources.Get "sass/main.scss" }}
+  {{ $opts := dict
+    "transpiler" "dartsass"
+  }}
+  {{ with . | toCSS $opts }}
+    {{ with slice . | append (resources.Match "css/*") | resources.Concat "css/styles.css" }}
+      {{ if hugo.IsProduction }}
+        {{ with . | minify | fingerprint }}
+          <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+        {{ end }}
+      {{ else }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
