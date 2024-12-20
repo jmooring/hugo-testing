@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with $author := .GetPage (printf "/authors/%s" .Params.authorTerm) }}
+    <p>The author related to this maintainer is: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
+    {{ with .Pages }}
+      <p>Pages authored by {{ $author.LinkTitle }}:</p>
+      <ul>
+        {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
