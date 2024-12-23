@@ -9,8 +9,14 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.AllPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    [ {{ .Path }} ]
+
+  {{ with site.GetPage "/docs" }}
+    {{ range .Sections }}
+      <h2>{{ .Title }}</h2>
+      {{ range .Pages }}
+        <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+      {{ end }}
+    {{ end }}
   {{ end }}
+
 {{ end }}

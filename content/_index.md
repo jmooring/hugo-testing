@@ -6,5 +6,3 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/13185'
 description = "Ability to disable section list page routes but have valid routes for pages in that section"
 +++
-
-This is the `.Site.AllPages` page collection:
