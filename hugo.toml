@@ -1,3 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #13186'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[outputFormats.content]
+mediaType = 'application/json'
+baseName = 'content'
+
+[outputs]
+page = ['html','content']
