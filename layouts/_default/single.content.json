@@ -1,2 +1,0 @@
-{{- $c := dict "html" .Content }}
-{{- jsonify (dict "indent" "  ") $c }}

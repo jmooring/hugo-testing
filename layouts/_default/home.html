@@ -11,5 +11,8 @@
   {{ .Content }}
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ with .OutputFormats.Get "json" }}
+      <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
+    {{ end }}
   {{ end }}
 {{ end }}

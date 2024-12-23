@@ -1,0 +1,6 @@
+{{- $m := dict
+  "content" .Content
+  "title" .Title
+  "date" (.Date.Format "2006-01-02T15:04:05-07:00")
+}}
+{{- jsonify (dict "indent" "  ") $m }}

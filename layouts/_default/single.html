@@ -1,4 +1,28 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  <h2>We loaded the content below via JavaScript.</h2>
+  <div id="content"></div>
+  <div id="error"></div>
+
+  <script>
+    fetch('index.json')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      const c = document.getElementById('content');
+      c.innerHTML = data.content;
+    })
+    .catch(error => {
+      // Optionally display an error message to the user
+      const e = document.getElementById('error');
+      e.textContent = 'Error loading data.';
+    });
+  </script>
+
 {{ end }}
