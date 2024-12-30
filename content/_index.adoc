@@ -1,0 +1,85 @@
++++
+title = 'Hugo Forum Topic #52917'
+linkTitle = 'Home'
+date = 2023-01-01T00:00:00-00:00
+draft = false
+details = 'https://discourse.gohugo.io/t/52917'
+description = "Issue a warning on equations if those cannot be rendered"
++++
+
+## Inline
+
+[,text]
+----
+stem:[\sqrt(4) = 2]
+----
+
+stem:[\sqrt(4) = 2]
+
+[,text]
+----
+stem:[C = \alpha + \beta Y^{\gamma} + \epsilon]
+----
+
+stem:[C = \alpha + \beta Y^{\gamma} + \epsilon]
+
+[,text]
+----
+stem:[\lim_{n \to \infty}\frac{n}{\sqrt[n\]{n!}} = {\large e}]
+----
+
+stem:[\lim_{n \to \infty}\frac{n}{\sqrt[n\]{n!}} = {\large e}]
+
+## Block
+
+[,text]
+----
+[stem]
+++++
+\sqrt(4) = 2
+++++
+----
+
+[stem]
+++++
+\sqrt(4) = 2
+++++
+
+[,text]
+----
+[stem]
+++++
+C = \alpha + \beta Y^{\gamma} + \epsilon
+++++
+----
+
+[stem]
+++++
+C = \alpha + \beta Y^{\gamma} + \epsilon
+++++
+
+[,text]
+----
+[stem]
+++++
+\lim_{n \to \infty}\frac{n}{\sqrt[n]{n!}} = {\large e}
+++++
+----
+
+[stem]
+++++
+\lim_{n \to \infty}\frac{n}{\sqrt[n]{n!}} = {\large e}
+++++
+
+[,text]
+----
+[stem]
+++++
+f_{ro} = \frac{1}{2nT_{p}}
+++++
+----
+
+[stem]
+++++
+f_{ro} = \frac{1}{2nT_{p}}
+++++

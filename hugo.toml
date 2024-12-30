@@ -1,3 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #52917'
+
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+
+[markup.asciidocExt]
+extensions = ['asciidoctor-katex']
+
+[markup.asciidocExt.attributes]
+stem = 'latexmath'
+source-highlighter = 'rouge'
