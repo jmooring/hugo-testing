@@ -3,7 +3,7 @@
     "transpiler" "dartsass"
   }}
   {{ with . | toCSS $opts }}
-    {{ with slice . | append (resources.Match "css/*") | resources.Concat "css/styles.css" }}
+    {{ with slice . | append (sort (resources.Match "css/*") "Name" ) | resources.Concat "css/styles.css" }}
       {{ if hugo.IsProduction }}
         {{ with . | minify | fingerprint }}
           <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
