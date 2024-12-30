@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #52927'
+
+removePathAccents = true
+
+[taxonomies]
+status = 'status'

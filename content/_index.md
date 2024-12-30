@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/52927'
 description = ".getTerms with Title with accent"
 +++
+
+Please visit [Post 1](/posts/post-1) to see how the `GetTerms` method on a `Page` object works when `removePathAccents` is `true` in your site configuration.
