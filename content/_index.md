@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #13207'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2024-12-30T20:56:27-05:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/13207'
+description = "Conditional comparison where field is false causes build to fail and exit."
 +++
