@@ -9,7 +9,19 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ $lang := .Site.Language.Lang }}
+  {{ $data := index .Site.Data $lang }}
+  {{ range $index, $feature := where $data.features "paid" false }}
+    <li class="grid gap-4">
+      <div class="flex flex-col gap-3 items-center align-middle">
+        <img class="w-10" src="{{ $feature.icon }}" />
+        <h4 class="text-md font-bold">
+          {{ htmlUnescape $feature.title }}
+        </h4>
+      </div>
+      <p class="">{{ htmlUnescape $feature.description }}</p>
+    </li>
   {{ end }}
+
 {{ end }}

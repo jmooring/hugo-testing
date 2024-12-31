@@ -1,0 +1,9 @@
+- name: feature 1
+  paid: true
+  title: FEATURE1
+- name: feature 2
+  paid: false
+  title: FEATURE2
+- name: feature 3
+  paid: false
+  title: FEATURE3
