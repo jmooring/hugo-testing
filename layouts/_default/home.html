@@ -9,7 +9,64 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Integration test</h2>
+
+{{- $text := "https://gohugo.io" }}
+{{- $optionMaps := slice
+    (dict)
+    (dict "level" "medium")
+    (dict "level" "medium" "scale" 4)
+    (dict "level" "low" "scale" 2)
+    (dict "level" "medium" "scale" 3)
+    (dict "level" "quartile" "scale" 5)
+    (dict "level" "high" "scale" 6)
+    (dict "level" "high" "scale" 6 "targetDir" "foo/bar")
+}}
+{{- range $k, $opts := $optionMaps }}
+    {{- with images.QR $text $opts }}
+<img data-id="{{ $k }}" data-img-hash="{{ .Content | hash.XxHash }}" data-level="{{ $opts.level }}" data-scale="{{ $opts.scale }}" data-targetDir="{{ $opts.targetDir }}" src="{{ .RelPermalink }}">
+    {{- end }}
+{{- end }}
+
+  <h2>Scale = 8 (default)</h2>
+
+  {{ $scale := 8 }}
+  {{ range $k, $opts := $optionMaps }}
+    {{ $opts = merge $opts (dict "scale" $scale) }}
+    {{ with images.QR $text $opts }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
   {{ end }}
+
+  <h2>Scale = 4</h2>
+
+  {{ $scale := 4 }}
+  {{ range $k, $opts := $optionMaps }}
+    {{ $opts = merge $opts (dict "scale" $scale) }}
+    {{ with images.QR $text $opts }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  <h2>Scale = 3</h2>
+
+  {{ $scale := 3 }}
+  {{ range $k, $opts := $optionMaps }}
+    {{ $opts = merge $opts (dict "scale" $scale) }}
+    {{ with images.QR $text $opts }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  <h2>Scale = 2</h2>
+
+  {{ $scale := 2 }}
+  {{ range $k, $opts := $optionMaps }}
+    {{ $opts = merge $opts (dict "scale" $scale) }}
+    {{ with images.QR $text $opts }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
 {{ end }}
