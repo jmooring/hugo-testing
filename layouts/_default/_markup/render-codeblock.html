@@ -1,0 +1,6 @@
+{{ $opts := .Options }}
+{{ with .Page.Params.markup.highlight }}
+  {{ $opts = merge . $opts}}
+{{ end }}
+{{ $result := transform.HighlightCodeBlock . $opts }}
+{{ $result.Wrapped }}
