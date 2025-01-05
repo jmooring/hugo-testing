@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #53013'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-01-05T09:30:16-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/53013'
+description = "Override default highlight setting per page in front matter"
 +++
