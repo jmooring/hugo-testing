@@ -1,14 +1,14 @@
 {{/* Get remote data. */}}
 {{ $data := dict }}
 {{ $url := "https://www.veriphor.com/shared/data/posts.json" }}
-{{ with resources.GetRemote $url }}
+{{ with try (resources.GetRemote $url) }}
   {{ with .Err }}
     {{ errorf "Unable to get remote resource %s: %s" $url . }}
-  {{ else }}
+  {{ else with .Value }}
     {{ $data = . | transform.Unmarshal }}
+  {{ else }}
+    {{ errorf "Unable to get remote resource %q" $url }}
   {{ end }}
-{{ else }}
-  {{ errorf "Unable to get remote resource %q" $url }}
 {{ end }}
 
 {{/* Add pages. */}}

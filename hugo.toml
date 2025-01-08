@@ -2,6 +2,11 @@ baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #12440'
 
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.141.0'
+
 [caches.getresource]
 dir = ':resourceDir/'
 maxAge = '168h'
