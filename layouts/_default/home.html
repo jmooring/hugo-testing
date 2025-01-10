@@ -9,7 +9,24 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+
+  {{/* Get pages from current site. */}}
+  {{ $p := where .Site.RegularPages "Section" "blog" }}
+
+  {{/* Add pages from other sites. */}}
+  {{ range complement (slice .Site) .Site.Sites }}
+    {{ range where .RegularPages "Section" "blog" }}
+      {{/* Skip if any of this page's translations are already in the page collection. */}}
+      {{ if intersect .AllTranslations $p }}
+        {{ continue }}
+      {{ end }}
+      {{ $p = $p | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Render list. */}}
+  {{ range $p.ByDate.Reverse }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
 {{ end }}
