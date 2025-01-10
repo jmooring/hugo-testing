@@ -9,7 +9,15 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ range resources.ByType "image" }}
+    {{ with .Resize "200x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
   {{ end }}
+
+  <p>And this is the combined params map:</p>
+
+  <pre>{{ debug.Dump .Site.Params }}</pre>
+
 {{ end }}

@@ -1,0 +1,14 @@
+[params]
+from_theme = 'red'
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'assets-theme'
+target = 'assets'
+
+[[module.mounts]]
+source = 'layouts'
+target = 'layouts'
