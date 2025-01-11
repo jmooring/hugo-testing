@@ -1,0 +1,14 @@
+
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+<p>These are the "expected" values for the TestD2CodeBlockRenderHook test in tpl/diagrams/d2_integration_test.go.</p>
+<pre>
+{{ range .Pages -}}
+b.AssertFileContent("public/integration_tests/{{ .Title | lower }}/index.html", "{{ .Content | hash.XxHash }}")
+{{ end }}
+</pre>
+{{ range .Pages }}
+  <h3><a href="{{ .RelPermalink }}">{{ fmt.Printf "Test %s" .LinkTitle }}</a></h3>
+{{ end }}
+{{ end }}

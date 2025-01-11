@@ -1,0 +1,18 @@
+{{- template "walk" (dict "ctx" site.Home "maxDepth" (or (.Get "maxDepth") 0)) }}
+
+{{- define "walk" }}
+  {{- $ctx := .ctx }}
+  {{- $maxDepth := .maxDepth }}
+  {{- $last := .last  }}
+  {{- $depth := or .depth 0 }}
+  {{- with $last }}
+    {{ fmt.Printf "%s -- %s" . $ctx.LinkTitle }}
+  {{- end }}
+  {{ fmt.Printf "%s: {link: %q}" $ctx.LinkTitle $ctx.Permalink | safeHTML }}
+  {{- if lt $depth $maxDepth}}
+    {{- $depth = add $depth 1 }}
+    {{- range $ctx.Pages }}
+      {{- template "walk" (dict "ctx" . "last" $ctx.LinkTitle "depth" $depth "maxDepth" $maxDepth) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
