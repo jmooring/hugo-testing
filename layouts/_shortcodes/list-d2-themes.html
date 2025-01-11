@@ -1,0 +1,23 @@
+{{/*
+Renders an unorderd list of D2 themes in the given catalog.
+
+@param {string} catalog The D2 theme catalog, either light or dark.
+
+@returns {template.HTML}
+
+@example {{< list-d2-themes catagog=light >}}
+*/}}
+{{- $catalogs := slice "dark" "light" }}
+{{- with .Get "catalog" }}
+  {{- if in $catalogs . }}
+    <ul>
+      {{- range index hugo.Data.docs.diagrams.d2.themes . }}
+        <li>{{ . }}</li>
+      {{- end }}
+    </ul>
+  {{- else }}
+    {{- errorf "The catalog parameter passed to the %q shoertcodes must be one . See %s" $.Name (delimit $catalogs ", " " or ") $.Position }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shoertcodes requires a parameter named catalog. See %s" .Name .Position }}
+{{- end }}

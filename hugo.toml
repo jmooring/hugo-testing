@@ -1,3 +1,35 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
+locale = 'en-US'
 title = 'Hugo GitHub Issue #10579'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[caches.misc]
+dir = ':resourceDir'
+maxAge = -1
+
+[markup.highlight]
+style = 'catppuccin-latte'
+
+[page]
+nextPrevInSectionSortOrder = 'asc'
+nextPrevSortOrder = 'asc'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Documentation'
+pageRef = '/documentation'
+weight = 20
+
+[[menus.main]]
+name = 'Examples'
+pageRef = '/more-examples'
+weight = 25
+
+[[menus.main]]
+name = 'Testing'
+pageRef = '/testing'
+weight = 30
