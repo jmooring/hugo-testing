@@ -12,4 +12,21 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+{{ $pathBase := "images/original.jpg" }}
+{{ $pathMask := "images/mask5.png" }}
+
+{{ with resources.Get $pathMask }}
+  {{ $filter := images.Mask . }}
+  {{ with resources.Get $pathBase }}
+    {{ with . | images.Filter $filter }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get resource %q" $pathBase }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get resource %q" $pathMask }}
+{{ end }}
+
 {{ end }}
