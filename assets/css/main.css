@@ -1,0 +1,9 @@
+.in-use {
+  color: red;
+}
+.not-in-use {
+  color: red;
+}
+input::placeholder {
+  color: #424242;
+}

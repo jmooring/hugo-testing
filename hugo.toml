@@ -1,3 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
+<<<<<<< Updated upstream
 title = 'Hugo GitHub Issue #2816'
+=======
+title = '@@TITLE@@'
+
+[build]
+  [build.buildStats]
+    enable = true
+>>>>>>> Stashed changes
