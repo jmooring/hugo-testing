@@ -1,5 +1,11 @@
 +++
 title = 'Post 1'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-01-20T12:18:53-08:00
 draft = false
+categories = ['bookshop']
 +++
+I rode Cricket from Silverton to Ouray, and on the way we became intimately acquainted. I talked to her, asked questions, scratched the back of her head, examined her feet, and occasionally found something for her to eat. I walked up the steeper stretches, and before evening she followed me like a dog, even when I traveled out of the trail.
+
+For the night she was placed in a livery-barn in Ouray. Before going to bed I went out and patted and talked to her for several minutes. She turned to watch me go, and gave a pleasant little whinny as the barn-door closed.
+
+Telluride and Ouray are separated by a mountain that rises four thousand feet above their altitude. By trail they are twelve miles apart; by railroad, forty miles. Many people go by trail from one to the other, usually riding to the summit, one half the distance, where the horse is set free, and walking the rest of the way.
