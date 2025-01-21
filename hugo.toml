@@ -1,3 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #13286'
+
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.extensions.typographer]
+disable = false
+apostrophe = '&rsquo;'
+rightSingleQuote = '&rsquo;'
+
+# HTML entity: &rsquo;
+# HTML code: &#8217;
+# Hex code: &#x2019;
