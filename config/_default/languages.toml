@@ -1,0 +1,13 @@
+[de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 1
+title = 'Hugo Forum Topic #53209 (DE)'
+
+[en]
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 2
+title = 'Hugo Forum Topic #53209 (EN)'
