@@ -4,9 +4,6 @@ disableKinds = ['rss','sitemap','taxonomy','term']
 [[module.imports]]
 path = "github.com/KKKZOZ/hugo-admonitions"
 
-[module]
-# replacements = 'github.com/KKKZOZ/hugo-admonitions -> ../../hugo-admonitions'
-
 [languages.en]
 languageCode = 'en-US'
 languageDirection = 'ltr'
@@ -14,26 +11,30 @@ languageName = 'English'
 weight = 1
 title = 'Hugo Forum Topic #52576 (EN)'
 
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+title = 'Hugo Forum Topic #52576 (DE)'
+
+[languages.fr]
+languageCode = 'fr-FR'
+languageDirection = 'ltr'
+languageName = 'Francais'
+weight = 3
+title = 'Hugo Forum Topic #52576 (FR)'
+
 [languages.sw]
 languageCode = 'sw-KE'
 languageDirection = 'ltr'
 languageName = 'Swahili'
-weight = 2
+weight = 4
 title = 'Hugo Forum Topic #52576 (SW)'
 
 [languages.zh]
 languageCode = 'zh-CN'
 languageDirection = 'ltr'
 languageName = 'Chinese'
-weight = 3
+weight = 5
 title = 'Hugo Forum Topic #52576 (ZH)'
-
-[languages.de]
-languageCode = 'de-DE'
-languageDirection = 'ltr'
-languageName = 'Deutsch'
-weight = 3
-title = 'Hugo Forum Topic #52576 (DE)'
-
-[markup.goldmark.renderer]
-unsafe = true
