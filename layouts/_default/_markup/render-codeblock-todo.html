@@ -1,0 +1,23 @@
+{{- $class := "todo" }}
+{{- $listItemPrefixPattern := `^[-*+]\s+` }}
+{{- $checkedPrefixPattern := `(?i)^\[x\]` }}
+{{- $uncheckedPrefixPattern := `^\[\s\]` }}
+{{- $checkboxAriaLabel := "Is task complete?" }}
+
+{{- with strings.TrimSpace (.Inner) | strings.ReplaceRE "\r" "" }}
+  {{- with strings.Split . "\n" }}
+    <ul class="{{ $class }}">
+      {{- range . }}
+        {{- with . | strings.TrimSpace | strings.ReplaceRE $listItemPrefixPattern "" }}
+          {{- if strings.FindRE $checkedPrefixPattern . }}
+            <li><input checked disabled type="checkbox" aria-label="{{ $checkboxAriaLabel }}">{{ . | strings.ReplaceRE $checkedPrefixPattern "" }}</li>
+          {{- else if strings.FindRE $uncheckedPrefixPattern . }}
+            <li><input disabled type="checkbox" aria-label="{{ $checkboxAriaLabel }}">{{ . | strings.ReplaceRE $uncheckedPrefixPattern "" }}</li>
+          {{- else }}
+            <li>{{ . }}</li>
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    </ul>
+  {{- end }}
+{{- end }}
