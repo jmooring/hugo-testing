@@ -1,0 +1,47 @@
+{{- with try (transform.Unmarshal .Inner) }}
+  {{- with .Err }}
+    {{- errorf "%s: see %s" .Err $.Position }}
+  {{- else with .Value }}
+    {{- $height := or .height "400px" }}
+    {{- $id := fmt.Printf "leaflet-map-%d" $.Ordinal }}
+
+    {{- $opts := collections.NewScratch }}
+
+    {{- $opts.Set "id" $id }}
+    {{- $opts.Set "height" $height }}
+    {{- $opts.Set "latitude" (or .latitude .lat 0) }}
+    {{- $opts.Set "longitude" (or .longitude .long 0) }}
+    {{- $opts.Set "imperial" (cond (eq .unit "meters") false true) }}
+    {{- $opts.Set "metric" (cond (eq .unit "feet") false true) }}
+    {{- $opts.Set "minZoom" (or .minZoom 0) }}
+    {{- $opts.Set "maxZoom" (or .maxZoom 19) }}
+    {{- $opts.Set "zoom" (or .zoom .defaultZoom 12) }}
+    {{- $opts.Set "markerLatitude" (or .markerLatitude .markerLat 0) }}
+    {{- $opts.Set "markerLongitude" (or .markerLongitude .markerLong 0) }}
+    {{- $opts.Set "markerText" (or .markerText "") }}
+
+    <div id="{{ $id }}" style="height: {{ $height }};"></div>
+
+    <script>
+      var opts = {{ $opts.Values }};
+      var map = L.map(opts.id).setView([opts.latitude, opts.longitude], opts.zoom);
+
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: opts.maxZoom,
+        minZoom: opts.minZoom,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+      }).addTo(map);
+
+      L.control.scale({imperial: opts.imperial, metric: opts.metric}).addTo(map);
+
+      if (opts.markerLatitude && opts.markerLongitude) {
+        var marker = L.marker([opts.markerLatitude, opts.markerLongitude]);
+        if (opts.markerText) {
+          marker.bindTooltip(opts.markerText,{permanent: true, direction: 'right'});
+        }
+        marker.addTo(map);
+      }
+    </script>
+  {{- end }}
+{{- end }}
+{{- .Page.Store.Set "hasLeaflet" true }}
