@@ -1,3 +1,43 @@
 baseURL = 'https://example.org/'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# Languages
+
+[languages.en]
+title = 'Hugo Forum Topic #53333 (en)'
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #53333'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[languages.de]
+title = 'Hugo Forum Topic #53333 (de)'
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+
+# Menus
+
+[[languages.en.menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+
+[[languages.de.menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[languages.de.menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
