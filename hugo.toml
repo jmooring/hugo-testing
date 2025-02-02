@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = '@@TITLE@@'
+baseURL = 'https://example.org/subdir/'
+disableKinds = ['section','sitemap','taxonomy','term']
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+[markup.goldmark.renderHooks.link]
+enableDefault = true

@@ -1,0 +1,3 @@
+{{ with site.GetPage "/s1/p2" }}
+  {{ .Summary | transform.XMLEscape | safeHTML }}
+{{ end }}
