@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = '@@TITLE@@'
+baseURL = 'http://example.org/'
+disableKinds = ['page','section','sitemap','rss','taxonomy','term']
+uglyURLs = false
+[languages.en]
+weight = 1
+[languages.de]
+weight = 2
