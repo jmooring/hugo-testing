@@ -6,3 +6,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/53401'
 description = "How can I render shortcodes within a snippet?"
 +++
+
+{{% shared-content snippet-1 %}}
+
+{{% shared-content snippet-2 %}}

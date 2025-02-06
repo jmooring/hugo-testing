@@ -1,0 +1,10 @@
+{{ with .Get 0 }}
+  {{ $path := printf "/snippets/%s" . }}
+  {{ with site.GetPage $path }}
+  {{ .Content }}{{/* Do not indent. */}}
+  {{ else }}
+    {{ errorf "The %s shortcode was unable to get %s: see %s" $.Name $path $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requries a single positional paramter, the name of a snippet file: see %s" .Name .Position }}
+{{ end }}
