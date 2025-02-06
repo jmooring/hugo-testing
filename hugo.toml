@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #13351'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+[outputs]
+home = ['html','json']
+[outputFormats.html]
+weight = 0 # change this to something less than or equal to the json weight (but not zero) and everything works; its default is 10
+[outputFormats.json]
+weight = 2
