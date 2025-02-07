@@ -1,7 +1,14 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+{{ $pages := .Pages }}
+{{ if .IsHome }}
+  {{ $pages = site.Pages }}
 {{ end }}
+
+{{ range $pages }}
+  <pre>
+    Title: {{ .Title }} (kind = {{ .Kind }})
+    Date: {{ .Date.Format "2006-01-02T15:04:05" }}
+  </pre>
+{{ end }}
+
+<a href="{{ site.Home.RelPermalink }}">home</a><br>
+<a href="/tags/">tags</a><br>
