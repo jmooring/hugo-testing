@@ -1,0 +1,101 @@
+.markdown {
+  @apply text-gray-900 font-serif;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    @apply font-sans tracking-tight;
+  }
+
+  h1 {
+    @apply text-3xl font-bold;
+  }
+
+  h2 {
+    @apply text-2xl font-bold;
+  }
+
+  h3 {
+    @apply text-xl font-bold;
+  }
+
+  h4 {
+    @apply text-lg font-bold;
+  }
+
+  h5 {
+    @apply text-base font-bold;
+  }
+
+  h6 {
+    @apply text-sm font-bold;
+  }
+
+  p + h2,
+  p + h3,
+  ul + h2,
+  ul + h3,
+  ol + h2,
+  ol + h3 {
+    @apply mt-6;
+  }
+
+  h2 + h3 {
+    @apply mt-2;
+  }
+
+  p {
+    @apply text-base mt-2 leading-relaxed;
+  }
+
+  a {
+    @apply text-blue-600 underline;
+  }
+
+  a:hover {
+    @apply text-blue-800;
+  }
+
+  ul {
+    @apply list-disc pl-4 mt-2;
+  }
+
+  ol {
+    @apply list-decimal pl-4 mt-2;
+  }
+
+  li:not(:last-child) {
+    @apply mb-2;
+  }
+
+  blockquote {
+    @apply border-l-2 border-gray-200 pl-3 mt-6 mb-8;
+  }
+
+  .highlight {
+    @apply my-2;
+    pre {
+      @apply text-sm m-0 p-4;
+
+      code {
+        @apply bg-none p-0;
+      }
+    }
+  }
+
+  pre:has(code) {
+    @apply p-2 m-4 bg-gray-100 rounded-lg overflow-x-auto;
+  }
+
+  pre {
+    code {
+      @apply bg-inherit text-sm font-mono;
+    }
+  }
+
+  code {
+    @apply bg-gray-200 px-1 rounded-md text-green-800;
+  }
+}

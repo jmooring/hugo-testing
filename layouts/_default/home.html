@@ -8,8 +8,15 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  <article class="mx-auto max-w-[90ch] bg-green-50 p-2 md:p-6 rounded-lg">
+    <h1 sclass="text-3xl mb-4 tracking-tight text-black font-bold uppercase">
+      {{ .Title }}
+    </h1>
+
+    <div class="markdown">
+      {{ .Content }}
+    </div>
+  </article>
+
 {{ end }}
