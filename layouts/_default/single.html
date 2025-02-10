@@ -1,4 +1,15 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ range .Params.authors }}
+    {{ with $.Site.GetPage (printf "/authors/%s/" .) }}
+      {{ with $r := .Resources.GetMatch "avatar" }}
+        {{ with .Fill "300x300" }}
+          <img alt="{{ $r.Name }}" class="img img-raised" src="{{ .RelPermalink }}">
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}
