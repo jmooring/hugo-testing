@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #53483'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-02-10T07:39:12-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/53483'
+description = "Get a page resource by name"
 +++
