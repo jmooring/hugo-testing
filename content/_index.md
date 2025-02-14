@@ -6,3 +6,15 @@ draft = false
 details = 'https://discourse.gohugo.io/t/53532'
 description = "TableOfContents with passthrough extension: empty list item"
 +++
+
+```text
+## h2: backslashes not escaped: \(\TeX\)
+````
+
+## h2: backslashes not escaped: \(\TeX\)
+
+```text
+## h2: backslashes escaped \\(\\TeX\\)
+```
+
+## h2: backslashes escaped \\(\\TeX\\)
