@@ -9,7 +9,33 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Method A</h2>
+
+  {{ $cuisines := slice }}
+  {{ range site.Taxonomies.cuisines }}
+    {{ $cuisines = $cuisines | append .Page.Title }}
   {{ end }}
+  {{ $cuisines }}
+
+  <h2>Method B</h2>
+
+  {{ $cuisines := slice }}
+  {{ range .RegularPages }}
+    {{ range .GetTerms "cuisines" }}
+      {{ $cuisines = $cuisines | append .Page.Title }}
+    {{ end }}
+  {{ end }}
+  {{ $cuisines | uniq | sort }}
+
+  <h2>Method C</h2>
+
+  {{ $cuisines := slice }}
+  {{ range .RegularPages }}
+    {{ with .Params.cuisines }}
+      {{ $cuisines = $cuisines | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $cuisines | uniq | sort }}
+
 {{ end }}
