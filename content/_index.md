@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #53532'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-02-14T12:40:59-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/53532'
+description = "TableOfContents with passthrough extension: empty list item"
 +++
