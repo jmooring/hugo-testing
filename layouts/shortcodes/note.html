@@ -1,0 +1,12 @@
+<div {{ with .Get "type" }}class="alert alert-{{.}} note"{{ end }} role="alert">
+  <div class="clr-row">
+    <div class="clr-col-xl-1 clr-col-lg-1 clr-col-md-1 clr-col-sm-1">
+      <div class="title">
+        Note:
+      </div>
+    </div>
+    <div class="clr-col-xl-11 clr-col-lg-11 clr-col-md-11 clr-col-sm-11">
+      {{ .Inner | .Page.RenderString }}
+    </div>
+  </div>
+</div>
