@@ -1,3 +1,52 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #13402'
+
+# -----------------------------------------------------------------------------
+# Permalinks
+# -----------------------------------------------------------------------------
+
+[permalinks.page]
+books = '/books-page/:slugorcontentbasename'
+posts = '/posts-page/:slugorcontentbasename'
+
+[permalinks.section]
+books = '/books-section/:slugorcontentbasename'
+posts = '/posts-section/:slugorcontentbasename'
+
+[permalinks.term]
+categories = '/categories-term/:slugorcontentbasename'
+tags = '/tags-term/:slugorcontentbasename'
+
+[permalinks.taxonomy]
+categories = '/categories-taxonomy/:slugorcontentbasename'
+tags = '/tags-taxonomy/:slugorcontentbasename'
+
+# -----------------------------------------------------------------------------
+# Menus
+# -----------------------------------------------------------------------------
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 30
+
+[[menus.main]]
+name = 'Categories'
+pageRef = '/categories'
+weight = 40
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 50
