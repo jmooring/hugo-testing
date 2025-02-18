@@ -1,0 +1,11 @@
+title: 'Hugo Forum Topic #53588'
+languageCode: en-US
+baseURL: https://example.org/
+disableKinds:
+- rss
+- sitemap
+- taxonomy
+- term
+permalinks:
+  page:
+    resources: "/:sections/:slug/"
