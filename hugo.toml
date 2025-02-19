@@ -1,3 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #13413'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[segments.books]
+  [[segments.books.includes]]
+    path = '{/books,/books/**}'
+
+[segments.films]
+  [[segments.films.includes]]
+    path = '{/films,/films/**}'
