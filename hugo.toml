@@ -1,3 +1,20 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #53611'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[outputFormats.data]
+basename = '_data'
+mediaType = 'text/html' # I chose this so the template can have an HTML extension (easier to work with in IDE)
+notAlternative = true
+weight = 1
+
+[outputFormats.html]
+weight = 2
+
+[outputFormats.rss]
+weight = 3
+
+[outputs]
+home = ['html','rss','data']

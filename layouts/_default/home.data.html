@@ -1,0 +1,34 @@
+{{- printf "<!-- This file is intentionally empty -->" | safeHTML }}
+
+{{- /* Get the data. */}}
+{{- $data := dict }}
+{{- $url := "https://gohugo.io/shared/examples/data/books.json" }}
+{{- with try (resources.GetRemote $url) }}
+  {{- with .Err }}
+    {{- errorf "%s" . }}
+  {{- else with .Value }}
+    {{- $data = . | transform.Unmarshal }}
+  {{- else }}
+    {{- errorf "Unable to get remote resource %q" $url }}
+  {{- end }}
+{{- end }}
+
+{{- /* Wrangle it into a different data structure. */}}
+{{- $dataNew := dict }}
+{{- range $data }}
+  {{- $id := .isbn }}
+  {{- $dataNew = merge $dataNew (dict $id .) }}
+{{- end }}
+
+{{- /* Store the data use by subsequent output formats. */}}
+{{- hugo.Store.Set "data_books" $dataNew }}
+
+{{- /* Write the original data to file if you need to inspect. */}}
+{{- if false }}
+<pre>{{- jsonify (dict "indent" "  ") $data }}</pre>
+{{- end }}
+
+{{- /* Write the new data to file if you need to inspect. */}}
+{{- if true }}
+<pre>{{- jsonify (dict "indent" "  ") $dataNew }}</pre>
+{{- end }}

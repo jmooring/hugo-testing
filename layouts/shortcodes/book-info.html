@@ -1,0 +1,28 @@
+{{- with $isbn := or (.Get 0) .Page.Params.isbn }}
+  {{- with $b := index (hugo.Store.Get "data_books") $isbn }}
+
+    <div class="book">
+      <h3>{{- $b.title }}</h3>
+      <p>Written by {{- $b.author }}</p>
+
+      {{- $url := $b.cover }}
+      {{- with try (resources.GetRemote $url) }}
+        {{- with .Err }}
+          {{- errorf "%s" . }}
+        {{- else with .Value }}
+          {{- with .Process "resize 150x q90" }}
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ printf `Cover of the book %s` $b.title }}">
+          {{- end }}
+        {{- else }}
+          {{- errorf "Unable to get remote resource %q" $url }}
+        {{- end }}
+      {{- end }}
+
+      {{- $text := printf "https://www.biblio.com/%s" (replace $isbn "-" "") }}
+      {{- with images.QR $text (dict "scale" 2 "level" "low") }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ printf `QR code linking to %s` $text }}">
+      {{- end }}
+    </div>
+
+  {{- end }}
+{{- end }}
