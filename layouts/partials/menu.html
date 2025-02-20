@@ -1,0 +1,19 @@
+{{ with site.Menus.main }}
+  <nav class="nav-inline menu">
+    <ul>
+      {{ range . }}
+        {{ $href := .URL }}
+        {{ with .Params.fragment }}
+          {{ $href = printf "%s#%s" $href . }}
+        {{ end }}
+        {{ if $.IsMenuCurrent .Menu . }}
+          <li class="active"><a aria-current="page" href="{{ $href }}">{{ .Name }}</a></li>
+        {{ else if $.HasMenuCurrent .Menu . }}
+          <li class="ancestor"><a aria-current="true" href="{{ $href }}">{{ .Name }}</a></li>
+        {{ else }}
+          <li><a href="{{ $href }}">{{ .Name }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}

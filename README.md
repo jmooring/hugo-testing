@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #53592
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/53592>
 
-Description: @@DESCRIPTION@@
+Description: Hugo menu link to heading using id
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-53592 https://github.com/jmooring/hugo-testing hugo-forum-topic-53592
+cd hugo-forum-topic-53592
 hugo server
 ```
