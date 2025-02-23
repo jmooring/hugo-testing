@@ -4,11 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  {{ partialCached "css.html" . }}
 </head>
-<body>
+<body class="m-4 prose prose-stone prose-lg prose-h1:text-3xl prose-h2:text-2xl prose-hr:sm">
   <header>
     <h1>{{ site.Title }}</h1>
-    <hr>
+    <hr class="h-px mt-0 mb-3">
   </header>
   <main>
     {{ block "main" . }}{{ end }}

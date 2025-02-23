@@ -6,10 +6,12 @@
     <p>Description: {{ . }}</p>
   {{ end }}
   {{ with or .Params.url .Params.details }}
-    <hr>
+    <hr class="h-px mt-0 mb-3">
   {{ end }}
   {{ .Content }}
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
   {{ end }}
+
 {{ end }}
