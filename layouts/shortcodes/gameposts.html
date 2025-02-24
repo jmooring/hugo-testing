@@ -1,0 +1,8 @@
+{{ range sort (.Page.Resources.ByType "page") "Date" "asc" }}
+  <div>
+    <fieldset>
+    <legend>{{ .Date | time.Format ":date_medium" }}</legend>
+      {{- .Content -}}
+    </fieldset>
+  </div>
+{{ end }}

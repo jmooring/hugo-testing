@@ -1,0 +1,12 @@
+{{- with .Get 0 }}
+  {{- with or ($.Page.Resources.Get .) ($.Page.Parent.Resources.Get .) (resources.Get .) }}
+    {{- $alt := or ($.Get 1) (path.BaseName .Name | replaceRE "-" " ") }}
+    {{- with .Process "resize 300x webp" -}}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $alt }}">
+    {{- end }}
+  {{- else }}
+    {{- errorf "The %q shortcode was unable to find %s: see %s" $.Name ($.Get 0) $.Position }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional argument; the path to an image: see %s" .Name .Position }}
+{{- end -}}
