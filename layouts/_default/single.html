@@ -1,4 +1,20 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  <pre>
+&lbrace;{ .Keywords }} →        {{ .Keywords }}
+&lbrace;{ .Params.keywords }} → {{ .Params.keywords }}
+&lbrace;{ .Params.Keywords }} → {{ .Params.Keywords }}
+  </pre>
+
+  <p>Related pages:</p>
+  <ul>
+    {{ range site.RegularPages.Related . }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ else }}
+      <li><em>none</em></li>
+    {{ end }}
+  </ul>
+
   {{ .Content }}
 {{ end }}

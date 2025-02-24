@@ -6,3 +6,13 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/13443'
 description = "Adapter content is not creating related pages by keywords"
 +++
+
+Content in the "Posts" section was created manually.
+
+Content in the "Books" section is from a content adapter.
+
+With the exception of "Post 3", all pages have this front matter:
+
+```text
+keywords = ['a','b','c']
+```
