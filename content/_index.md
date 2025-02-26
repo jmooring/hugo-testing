@@ -6,5 +6,3 @@ draft = false
 details = 'https://discourse.gohugo.io/t/53701'
 description = "XSL Stylesheet for RSS Feeds?"
 +++
-
-See [RSS feed](/index.xml).

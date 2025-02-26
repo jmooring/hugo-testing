@@ -2,6 +2,12 @@ baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #53701'
 
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
+
 [taxonomies]
 genre = 'genres'
 

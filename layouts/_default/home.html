@@ -8,6 +8,9 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+
+  <p>See the <a href="index.xml">RSS feed</a> for the home page.</p>
+
   {{ .Content }}
   {{ range site.Sections.ByTitle }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>

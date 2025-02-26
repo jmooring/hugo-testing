@@ -31,7 +31,7 @@
 {{- $pages = $pages | first $limit }}
 {{- end }}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-{{- printf "<?xml-stylesheet href=\"style.xsl\" type=\"text/xsl\"?>" | safeHTML }}
+{{- printf "<?xml-stylesheet href=%q type=\"text/xsl\"?>" ("style.xsl" | relLangURL) | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
@@ -58,12 +58,3 @@
     {{- end }}
   </channel>
 </rss>
-
-{{- with resources.Get "miscellaneous/style.xsl" }}
-  {{- $filename := path.BaseName .Name }}
-  {{- $ext := .MediaType.FirstSuffix.Suffix }}
-  {{- $target := printf "%s%s.%s" $.RelPermalink $filename $ext }}
-  {{- with resources.Copy $target . }}
-    {{- .Publish }}
-  {{- end }}
-{{- end }}
