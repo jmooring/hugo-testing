@@ -1,3 +1,26 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #53701'
+
+[taxonomies]
+genre = 'genres'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Books'
+pageRef = '/books'
+weight = 20
+
+[[menus.main]]
+name = 'Films'
+pageRef = '/films'
+weight = 30
+
+[[menus.main]]
+name = 'Genres'
+pageRef = '/genres'
+weight = 40
