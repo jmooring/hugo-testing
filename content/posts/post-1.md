@@ -3,6 +3,13 @@ title = 'Post 1'
 date = 2024-05-18T07:39:26-07:00
 draft = false
 +++
+
+Let's add a table to trigger <https://github.com/gohugoio/hugo/issues/13351>:
+
+col a|col b
+:--|:--
+foo|bar
+
 Thenceforth I always tried to give bears (see [Post 2](/posts/post-2)) respectful notice of my approach, and they usually kept well out of my way. Though they often came around my camp in the night, only once afterward, as far as I know, was I very near one of them in daylight. This time it was a grizzly I met; and as luck would have it (see [Post 5](/posts/post-5)) , I was even nearer to him than I had been to the big cinnamon. Though not a large specimen, he seemed formidable enough at a distance of less than a dozen yards. His shaggy coat was well grizzled, his head almost white. When I first caught sight of him he was eating acorns under a Kellogg oak, at a distance of perhaps seventy-five yards, and I tried to slip past without disturbing him. But he had either heard my steps on the gravel or caught my scent, for he came straight toward me, stopping every rod or so to look and listen: and as I was afraid to be seen running, I crawled on my hands and knees a little way to one side and hid behind a libocedrus, hoping he would pass me unnoticed. He soon came up opposite me, and stood looking ahead, while I looked at him, peering past the bulging trunk of the tree. At last, turning his head, he caught sight of mine, stared sharply a minute or two, and then, with fine dignity, disappeared in a manzanita-covered earthquake talus.
 
 Considering how heavy and broad-footed bears are, it is wonderful how little harm they do in the wilderness. Even in the well-watered gardens of the middle region, where the flowers grow tallest, and where during warm weather the bears wallow and roll, no evidence of destruction is visible. On the contrary, under nature’s direction, the massive beasts act as gardeners. On the forest floor, carpeted with needles and brush, and on the tough sod of glacier meadows, bears make no mark; but around the sandy margin of lakes their magnificent tracks form grand lines of embroidery. Their well-worn trails extend along the main cañons on either side, and though dusty in some places make no scar on the landscape. They bite and break off the branches of some of the pines and oaks to get the nuts, but this pruning is so light that few mountaineers ever notice it; and though they interfere with the orderly lichen-veiled decay of fallen trees, tearing them to pieces to reach the colonies of ants that inhabit them, the scattered ruins are quickly pressed back into harmony by snow and rain and over-leaning vegetation.
