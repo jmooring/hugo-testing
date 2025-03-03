@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #53759'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-03-03T13:27:45-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/53759'
+description = "Specifying the syntax highlighting theme styles to use for noclasses=true"
 +++
