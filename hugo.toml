@@ -1,3 +1,17 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #53759'
+
+[markup.highlight]
+style = 'gruvbox-light' # change this if you want RSS feed to have different style
+noClasses = false
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20

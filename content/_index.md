@@ -6,3 +6,8 @@ draft = false
 details = 'https://discourse.gohugo.io/t/53759'
 description = "Specifying the syntax highlighting theme styles to use for noclasses=true"
 +++
+
+
+See [home RSS feed](/index.xml).
+
+See [posts RSS feed](/posts/index.xml).

@@ -1,0 +1,2 @@
+{{ $result := transform.HighlightCodeBlock . (merge .Options (dict "noClasses" true)) }}
+{{ $result.Wrapped }}
