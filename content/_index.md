@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #53760'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-03-03T15:26:07-08:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/53760'
+description = "MathJax/KaTeX have difficulty with line breaks"
 +++
