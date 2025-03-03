@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ site.Title }}</h1>
+    <hr>
+  </header>
+  <main>
+
+    {{ with .Params.details }}
+      <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+    {{ end }}
+    {{ with .Params.description }}
+      <p>Description: {{ . }}</p>
+    {{ end }}
+    {{ with or .Params.url .Params.details }}
+      <hr>
+    {{ end }}
+    {{ .Content }}
+    {{ range site.RegularPages }}
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ end }}
+
+    <p>The table below has ridiculous indentation in layouts/index.html.</p>
+    <table>
+            <caption>
+
+            </caption>
+        <thead>
+                      <tr>
+                              <th>Column A</th>
+                              <th>Column b</th>
+                      </tr>
+        </thead>
+        <tbody>
+                  <tr>
+<td>Value 1</td>
+<td>Value 2</td>
+                </tr>
+            <tr>
+              <td>Value 3</td>
+              <td>Value 4</td>
+            </tr>
+        </tbody>
+    </table>
+
+  </main>
+</body>
+</html>
