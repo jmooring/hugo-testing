@@ -21,12 +21,10 @@
     {{ with or .Params.url .Params.details }}
       <hr>
     {{ end }}
-    {{ .Content }}
-    {{ range site.RegularPages }}
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ end }}
 
-    <p>The table below has ridiculous indentation in layouts/index.html.</p>
+    {{ .Content }}
+
+    <p>This is a table in layouts/index.html.</p>
     <table>
             <caption>
 
