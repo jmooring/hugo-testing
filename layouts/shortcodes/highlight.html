@@ -1,0 +1,17 @@
+{{- /*
+Renders the given code, syntactically highlighted for the given language.
+
+@param {string} [lang=text] The code language.
+@param {string} .InnerDeindent Returns the content between opening and closing shortcode tags, with indentation removed.
+
+@returns {template.HTML}
+
+@example
+
+    {{< highlight lang=python >}}
+    print("Hello, World!")
+    {{< /highlight >}}
+
+*/}}
+{{ $lang := or (.Get "lang") "text" }}
+{{ transform.Highlight (strings.TrimSpace .InnerDeindent) $lang }}
