@@ -1,0 +1,17 @@
+{{/*
+Renders a TBD...
+
+@param {string} path The path to the CSV file which must be a page or global resource.
+
+@returns {template.HTML}
+
+@example {{< get-csv-data path="foo.csv" >}}
+*/}}
+{{ with $path := .Get "path" }}
+  {{ $data := partial "csv-to-map.html" (dict "page" $.Page "path" $path) }}
+
+  <pre>{{ jsonify (dict "indent" "  ") $data }}</pre>
+
+{{ else }}
+  {{ errorf "The %q shortcode requires a 'path' argument. See %s." $.Name $.Position }}
+{{ end }}
