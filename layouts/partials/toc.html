@@ -1,0 +1,5 @@
+<p>Table of contents:</p>
+{{ $noop := .WordCount }}
+{{ $tocStartLevel := (.Store.Get "levels").min }}
+{{ $tocEndLevel := (.Store.Get "levels").max }}
+{{ .Fragments.ToHTML $tocStartLevel $tocEndLevel false }}

@@ -1,0 +1,35 @@
+{{- $cfg := dict "startLevel" 2 "debug" true }}
+
+{{- $levels := dict "min" 0 "max" 0 }}
+{{- with .Page.Store.Get "levels" }}
+  {{- $levels = . }}
+{{- else }}
+  {{- $s := slice }}
+  {{- range .Page.Fragments.HeadingsMap }}
+    {{- $s = $s | append .Level }}
+  {{- end }}
+  {{- $levels = dict "min" (math.Min $s | int) "max" (math.Max $s | int) }}
+  {{- .Page.Store.Set "levels" $levels }}
+{{- end }}
+
+{{- /* heading level */}}
+{{- $hl := add (sub .Level $levels.min) $cfg.startLevel }}
+
+{{- /* class level */}}
+{{- $cl := add .Level (sub 6 $levels.max) }}
+
+{{- /* class attribute */}}
+{{ $class := printf "h%d %s" $cl (or .Attributes.class "") | strings.TrimSpace }}
+
+<h{{ $hl }} class="{{ $class }}" id="{{ .Anchor }}">{{- .Text -}}</h{{ $hl }}>
+
+{{- /* debug */}}
+{{- if $cfg.debug }}
+<pre>
+  fragment/md heading level: {{ .Level }}
+  html heading level: {{ $hl }}
+  class level: {{ $cl }}
+  id: {{ .Anchor }}
+  class: {{ $class }}
+</pre>
+{{- end }}

@@ -1,0 +1,140 @@
+/* Base */
+/* ------------------------------------------------------------------------- */
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0 1rem;
+  max-width: 768px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+/* Navigation */
+/* ------------------------------------------------------------------------- */
+
+.nav-inline {
+  margin-bottom: 1rem;
+}
+
+.nav-inline ul {
+  font-size: 0;
+  padding: 0;
+}
+
+.nav-inline li {
+  display: inline;
+}
+
+.nav-inline a {
+  font-size: 1rem;
+  padding: 0.25em 0.5em;
+}
+
+.nav-inline li.active a {
+  background-color: yellow;
+}
+
+.nav-inline li.ancestor a {
+  background-color: cyan;
+}
+
+.nav-inline.breadcrumbs li:not(:last-child)::after {
+  content: "\00bb";
+}
+
+/* Headings
+/* ------------------------------------------------------------------------- */
+
+$step: 0.125rem;
+
+.h1 {
+  font-size: 1rem + (6 * $step);
+}
+
+.h2 {
+  font-size: 1rem + (5 * $step);
+}
+
+.h3 {
+  font-size: 1rem + (4 * $step);
+}
+
+.h4 {
+  font-size: 1rem + (3 * $step);
+}
+
+.h5 {
+  font-size: 1rem + (2 * $step);
+}
+
+.h6 {
+  font-size: 1rem + (1 * $step);
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-weight: bold;
+  margin: 0 0 1rem 0;
+}
+
+/* Table of contents
+/* ------------------------------------------------------------------------- */
+
+#TableOfContents {
+  ul {
+    list-style: none;
+  }
+  ul:first-child {
+    padding-left: 0;
+  }
+  ul:not(:first-child) {
+    padding-left: 1rem;
+  }
+}
+
+/* Code blocks */
+/* ------------------------------------------------------------------------- */
+
+/* Applies when there are no line numbers, or when line numbers are inline. */
+.highlight > pre {
+  padding: 1em 0 1em 1em;
+}
+
+/* Applies when line numbers are in a table cell. */
+.highlight div {
+  padding: 0 0 0 1em;
+}
+
+/* Applies to all. */
+.highlight div,
+.highlight > pre {
+  overflow-x: auto;
+  /* add border-radius and box-shadow here */
+}
+
+/* Applies when using an external style sheet. */
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lnt,
+.highlight .chroma .lntable .hl {
+  display: flex;
+}
+
+/* Applies when using an external style sheet. */
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lntd + .lntd {
+  width: 100%;
+}
