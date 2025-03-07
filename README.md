@@ -1,15 +1,15 @@
-# Hugo GitHub Issue #8602
+# Hugo Forum Topic #54636
 
-Details: <https://github.com/gohugoio/hugo/issues/8602>
+Details: <https://discourse.gohugo.io/t/54636>
 
-Description: Improve pagination performance
+Description: Can shuffle be cached?
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b hugo-github-issue-8602 https://github.com/jmooring/hugo-testing hugo-github-issue-8602
-cd hugo-github-issue-8602
+git clone --single-branch -b hugo-forum-topic-54636 https://github.com/jmooring/hugo-testing hugo-forum-topic-54636
+cd hugo-forum-topic-54636
 hugo server
 ```
