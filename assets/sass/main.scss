@@ -1,0 +1,53 @@
+/* Base */
+/* ------------------------------------------------------------------------- */
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0 1rem;
+  max-width: 768px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+/* Navigation */
+/* ------------------------------------------------------------------------- */
+
+.nav-inline {
+  margin-bottom: 1rem;
+}
+
+.nav-inline ul {
+  font-size: 0;
+  padding: 0;
+}
+
+.nav-inline li {
+  display: inline;
+}
+
+.nav-inline a {
+  font-size: 1rem;
+  padding: 0.25em 0.5em;
+}
+
+.nav-inline li.active a {
+  background-color: yellow;
+}
+
+.nav-inline li.ancestor a {
+  background-color: cyan;
+}
+
+.nav-inline.breadcrumbs li:not(:last-child)::after {
+  content: "\00bb";
+}
