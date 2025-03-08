@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+  {{/* Render list of pages to which this term has been assigned. */}}
+  {{ with .Pages }}
+    <p>{{ $.Title }}</p>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  {{/* Create slice of other non-empty taxonomies. */}}
+  {{ $otherTaxonomies := slice }}
+  {{ range site.Taxonomies }}
+    {{ if and (ne .Page $.Parent) (gt (len .) 0) }}
+      {{ $otherTaxonomies = $otherTaxonomies | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Render list of other non-empty taxonomies. */}}
+  {{ with $otherTaxonomies }}
+    <p>See also:</p>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+{{ end }}

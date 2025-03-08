@@ -1,4 +1,17 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{/* Render list of terms assigned to this page, grouped by taxonomy. */}}
+  {{ range $taxonomyName, $taxonomyObject := site.Taxonomies }}
+    {{ with $.GetTerms $taxonomyName }}
+      <p><a href="{{ $taxonomyObject.Page.RelPermalink }}">{{ $taxonomyObject.Page.Title }}</a></p>
+      <ul>
+        {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+
 {{ end }}
