@@ -1,0 +1,114 @@
+[
+  {
+    "id": "miller2018data",
+    "type": "report",
+    "author": [
+      {
+        "family": "Miller",
+        "given": "Sarah"
+      }
+    ],
+    "title": "Analysis of National Data Trends",
+    "publisher": "National Statistics Office",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          20
+        ]
+      ]
+    },
+    "URL": "http://www.statistics.gov/report2018"
+  },
+  {
+    "id": "brown2021patent",
+    "type": "patent",
+    "author": [
+      {
+        "family": "Brown",
+        "given": "David"
+      }
+    ],
+    "title": "Innovative Technology for Energy Efficiency",
+    "number": "US1234567B2",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          15
+        ]
+      ]
+    },
+    "authority": "United States Patent and Trademark Office"
+  },
+  {
+    "id": "garcia2019thesis",
+    "type": "thesis",
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "Maria"
+      }
+    ],
+    "title": "The Impact of Climate Change on Coastal Ecosystems",
+    "publisher": "University of California",
+    "publisher-place": "Berkeley, CA",
+    "genre": "Master's thesis",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "lee2020video",
+    "type": "video",
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Kevin"
+      }
+    ],
+    "title": "Introduction to Quantum Computing",
+    "container-title": "YouTube",
+    "URL": "https://www.youtube.com/watch?v=exampleVideo",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wilson2022software",
+    "type": "software",
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "Emily"
+      }
+    ],
+    "title": "Advanced Data Analysis Tool",
+    "version": "2.5.0",
+    "publisher": "Software Solutions Inc.",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          25
+        ]
+      ]
+    },
+    "URL": "https://www.softwaresolutions.com/dataanalysis"
+  }
+]

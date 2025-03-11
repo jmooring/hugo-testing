@@ -1,0 +1,112 @@
+[
+  {
+    "DOI": "10.1109/TSP.2020.1234567",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "John"
+      },
+      {
+        "family": "Johnson",
+        "given": "Alice"
+      }
+    ],
+    "container-title": "IEEE Transactions on Signal Processing",
+    "id": "smith2020novel",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1234-1245",
+    "title": "A novel algorithm for data compression",
+    "type": "article-journal",
+    "volume": "68"
+  },
+  {
+    "ISBN": "978-0123456789",
+    "author": [
+      {
+        "family": "Brown",
+        "given": "David"
+      }
+    ],
+    "id": "brown2018machine",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Academic Press",
+    "title": "Machine learning fundamentals",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Susan"
+      },
+      {
+        "family": "Chen",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "Proceedings of the international conference on computer vision",
+    "id": "lee2021deep",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "567-578",
+    "publisher-place": "Paris, France",
+    "title": "Deep learning for image recognition",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://www.example.com/webtech",
+    "author": [
+      {
+        "literal": "The Web Development Team"
+      }
+    ],
+    "id": "webpage2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "note": "Accessed: 2023-10-27",
+    "title": "Latest web technologies",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "Maria"
+      }
+    ],
+    "genre": "PhD Thesis",
+    "id": "garcia2019thesis",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Stanford University",
+    "title": "Advanced topics in artificial intelligence",
+    "type": "thesis"
+  }
+]
