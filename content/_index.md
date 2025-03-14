@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/53952'
 description = "Code in highlight shortcode rendered as markdown"
 +++
+
+{{< highlight python "hl_inline=true, lineNumbersInTable=false" >}}__init__{{< /highlight >}}
