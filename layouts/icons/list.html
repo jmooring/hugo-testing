@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range $p := .Pages }}
+    {{ with .Resources.GetMatch "**" }}
+      {{ $alt := printf "icon: %s" $p.Title }}
+      <a href="{{ $p.RelPermalink }}">
+        <img src="{{ .RelPermalink }}" width="48" height="48" alt="{{ $alt }}">
+      </a>
+    {{ end }}
+  {{ end }}
+
+{{ end }}

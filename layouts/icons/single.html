@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Resources.GetMatch "icon.*" }}
+    {{ $alt := printf "icon: %s" $.Title }}
+    <img src="{{ .RelPermalink }}" width="48" height="48" alt="{{ $alt }}">
+    <a href="{{ .RelPermalink }}" download>Download SVG File</a>
+  {{ end }}
+
+{{ end }}

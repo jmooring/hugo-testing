@@ -1,0 +1,12 @@
+{{ range resources.Match "foo/**" }}
+
+  {{ $pagePath := path.BaseName .Name }}
+  {{ $pageTitle := path.BaseName .Name }}
+  {{ $.AddPage (dict "kind" "page" "path" $pagePath "title" $pageTitle) }}
+
+  {{ $resourcePath := printf "%s/icon.%s" $pagePath .MediaType.FirstSuffix.Suffix }}
+  {{ $content := dict "mediaType" .MediaType.Type "value" . }}
+  {{ $resource := dict "content" $content "path" $resourcePath }}
+  {{ $.AddResource $resource }}
+
+{{ end }}
