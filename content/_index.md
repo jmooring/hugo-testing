@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #53956'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-03-15T07:40:30-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/53956'
+description = "What is the best method to link markdown pages in a template"
 +++
