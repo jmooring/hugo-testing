@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
+locale = 'en-US'
 title = 'Hugo GitHub Issue #9953'
+
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+
+[security.exec]
+  allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$', '^pandoc$']
