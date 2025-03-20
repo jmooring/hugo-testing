@@ -9,7 +9,25 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
+  {{/* Build a slice of maps. */}}
+  {{ $s := slice }}
   {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ $score := math.Rand | mul (add 1 site.RegularPages.Len) | math.Ceil }}
+    {{ $s = $s | append (dict "score" $score "page" . ) }}
   {{ end }}
+
+  {{/* Build a page collection from the sorted slice of maps. */}}
+  {{ $pages := slice }}
+  {{ range sort $s "score" "desc" }}
+    {{ $pages = $pages | append .page }}
+    {{ .score }}
+  {{ end }}
+
+  {{/* Paginate the page collection and render the list. */}}
+  {{ range (.Paginate $pages).Pages }}
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+
 {{ end }}
