@@ -5,7 +5,7 @@
 
   {{ with .Params }}
     {{ range .products }}
-      {{ .price }} in {{ $.Params.currency }}
+      {{ .price }} in {{ $.Params.currency }} <br>
     {{ end }}
   {{ end }}
 
