@@ -1,4 +1,12 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+  <p>This page is rendered by layouts/_default/single.html.</p>
+
+  {{ with .Params }}
+    {{ range .products }}
+      {{ .price }} in {{ $.Params.currency }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}
