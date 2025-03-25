@@ -1,0 +1,53 @@
+{{ if .Params.prev }}
+  <div class="prev">
+    <i class="fa fa-angle-left" aria-hidden="true" title="{{ i18n "prev" }}"></i>
+    <div class="container">
+      {{ if $.Site.Params.isOnline }}
+        <a href={{ .Params.Prev | absLangURL }} class="direction">{{ i18n "prev" }}</a>
+      {{ else }}
+        {{ $pathSectionsPrev := split .Params.Prev "/" }}
+
+        {{if eq (len $pathSectionsPrev) 3}}
+          {{ $path := index $pathSectionsPrev 2 }}
+          <a href=../{{ $path }}/index.html>{{ i18n "prev" }}</a>
+        {{ end }}
+        {{if eq (len $pathSectionsPrev) 2}}
+          <a href=../index.html>{{ i18n "prev" }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
+
+<div class="home">
+  <i class="fa fa-home" aria-hidden="true" title="{{ i18n "home" }}"></i>
+  <div class="container">
+    {{ if $.Site.Params.isOnline }}
+      <a href="../" class="direction">{{ i18n "home" }}</a>
+    {{ else }}
+      <a href="../index.html" class="direction">{{ i18n "home" }}</a>
+    {{ end }}
+  </div>
+</div>
+
+{{ if .Params.next }}
+  <div class="next">
+    <div class="container">
+      {{ if $.Site.Params.isOnline }}
+        <a href={{ .Params.Next | absLangURL }}  class="direction">{{ i18n "next" }}</a>
+      {{ else }}
+        {{ $pathSectionsNext := split .Params.next "/" }}
+
+        {{if eq (len $pathSectionsNext) 3}}
+          {{ $book := index $pathSectionsNext 1 }}
+          {{ $chapter := index $pathSectionsNext 2 }}
+          <a href=../{{ $book }}/{{ $chapter }}/index.html>{{ i18n "next" }}</a>
+        {{ end }}
+        {{if eq (len $pathSectionsNext) 2}}
+          <a href=../index.html>{{ i18n "next" }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+    <i class="fa fa-angle-right" aria-hidden="true" title="{{ i18n "next" }}"></i>
+  </div>
+{{ end }}
