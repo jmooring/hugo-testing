@@ -1,0 +1,9 @@
+@use "sass:color";
+@use "foo/deprecated.scss";
+
+h3 {
+  color: rgb(color.channel(#ccc, "red", $space: rgb), 0, 0);
+}
+h4 {
+  color: rgb(0, color.green(#bbb), 0);
+}

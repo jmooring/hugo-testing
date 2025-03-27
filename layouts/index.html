@@ -1,0 +1,7 @@
+{{ $opts := dict
+  "includePaths" (slice "node_modules")
+  "outputStyle" "compressed"
+  "silenceDependencyDeprecations" true
+  "transpiler" "dartsass"
+}}
+{{ (resources.Get "sass/main.scss" | css.Sass $opts).Content }}
