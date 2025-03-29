@@ -1,14 +1,14 @@
 {{- with $path := .Get "path" }}
   {{- $r := "" }}
   {{- if (urls.Parse $path).IsAbs }}
-    {{- with resources.GetRemote $path }}
+    {{- with try (resources.GetRemote $path) }}
       {{- with .Err }}
         {{- errorf "The %q shortcode was unable to get %s: %s: see %s" $.Name $path . $.Position }}
-      {{- else }}
+      {{- else with .Value }}
         {{- $r = . }}
+      {{- else }}
+        {{- errorf "The %q shortcode was unable to get %s: see %s" $.Name $path $.Position }}
       {{- end }}
-    {{- else }}
-      {{- errorf "The %q shortcode was unable to get %s: see %s" $.Name $path $.Position }}
     {{- end }}
   {{- else }}
     {{- with or ($.Page.Resources.Get $path) (resources.Get $path) }}
@@ -24,7 +24,7 @@
         <figcaption>{{ . }}</figcaption>
       {{- end }}
       {{- $id := printf "audio-%03d" (add $.Ordinal 1) }}
-      <audio controls id="{{ $id }}" preload="metadata">
+      <audio controls id="{{ $id }}" preload="auto">
         <source src="{{ .RelPermalink }}" type="{{ .MediaType.Type }}">
       </audio>
     </figure>
