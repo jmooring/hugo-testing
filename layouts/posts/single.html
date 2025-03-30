@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ $p := (site.GetPage "/posts").Pages.ByParam "foo" }}
+
+  {{/* Next and Prev below are intentionally reversed; see docs regarding this regrettable historic error */}}
+
+  {{ with $p.Next . }}
+    {{ $class := "" }}
+    {{ if .Next }}
+      {{ $class = "hasPrev" }}
+    {{ end }}
+    <a {{ with $class -}} class="{{ . }}" {{- end }} href="{{ .RelPermalink }}">Previous</a> {{ with $class }} (class={{ . }}) {{ end }}
+  {{ end }}
+
+  {{ with $p.Prev . }}
+    {{ $class := "" }}
+    {{ if .Prev }}
+      {{ $class = "hasNext" }}
+    {{ end }}
+    <a {{ with $class -}} class="{{ . }}" {{- end }} href="{{ .RelPermalink }}">Next</a> {{ with $class }} (class={{ . }}) {{ end }}
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}
