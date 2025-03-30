@@ -10,7 +10,7 @@
     {{ range $k, $v := $sections }}
       {{ $id := printf "section-%d" (add 1 $k) }}
       <div id="{{ $id }}">
-        {{ $v | safeHTML }}
+        {{ $v | strings.TrimSpace | safeHTML }}
       </div>
     {{ end }}
   {{ end }}
