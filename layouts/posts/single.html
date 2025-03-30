@@ -3,20 +3,20 @@
 
   {{ $p := (site.GetPage "/posts").Pages.ByParam "foo" }}
 
-  {{/* Next and Prev below are intentionally reversed; see docs regarding this regrettable historic error */}}
+  {{/* The Next and Prev anchor texts are intentionally reversed; see docs regarding this regrettable historic error */}}
 
   {{ with $p.Next . }}
     {{ $class := "" }}
-    {{ if .Next }}
-      {{ $class = "hasPrev" }}
+    {{ if not ($p.Prev $) }}
+      {{ $class = "isLast" }}
     {{ end }}
     <a {{ with $class -}} class="{{ . }}" {{- end }} href="{{ .RelPermalink }}">Previous</a> {{ with $class }} (class={{ . }}) {{ end }}
   {{ end }}
 
   {{ with $p.Prev . }}
     {{ $class := "" }}
-    {{ if .Prev }}
-      {{ $class = "hasNext" }}
+    {{ if not ($p.Next $) }}
+      {{ $class = "isFirst" }}
     {{ end }}
     <a {{ with $class -}} class="{{ . }}" {{- end }} href="{{ .RelPermalink }}">Next</a> {{ with $class }} (class={{ . }}) {{ end }}
   {{ end }}
