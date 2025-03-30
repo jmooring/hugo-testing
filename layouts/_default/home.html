@@ -8,8 +8,19 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ $sectionBreak := "<p>[SECTION-BREAK]</p>" }}
+  {{ $sections := split .Content $sectionBreak }}
+
+  {{ if eq (len $sections) 1 }}
+    {{ .Content }}
+  {{ else }}
+    {{ range $k, $v := $sections }}
+      {{ $id := printf "section-%d" (add 1 $k) }}
+      <div id="{{ $id }}">
+        {{ $v | safeHTML }}
+      </div>
+    {{ end }}
   {{ end }}
+
 {{ end }}

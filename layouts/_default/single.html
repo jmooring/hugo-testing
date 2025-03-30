@@ -1,4 +1,18 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+  {{ $sectionBreak := "<p>[SECTION-BREAK]</p>" }}
+  {{ $sections := split .Content $sectionBreak }}
+
+  {{ if eq (len $sections) 1 }}
+    {{ .Content }}
+  {{ else }}
+    {{ range $k, $v := $sections }}
+      {{ $id := printf "section-%d" (add 1 $k) }}
+      <div id="{{ $id }}">
+        {{ $v | safeHTML }}
+      </div>
+    {{ end }}
+  {{ end }}
+
 {{ end }}
