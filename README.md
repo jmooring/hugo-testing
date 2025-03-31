@@ -12,4 +12,6 @@ Clone this branch of the repository and build the site.
 git clone --single-branch -b hugo-forum-topic-54170 https://github.com/jmooring/hugo-testing hugo-forum-topic-54170
 cd hugo-forum-topic-54170
 hugo server
+rm -rf public/ && hugo --renderSegments home && tree public
+rm -rf public/ && hugo --renderSegments posts && tree public
 ```

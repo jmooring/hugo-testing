@@ -1,0 +1,14 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:base="{{site.BaseURL }}">
+{{ $limit := default 50000 site.Params.sitemapMax }}
+{{ range first $limit .CurrentSection.RegularPages }}
+  {{ if .Permalink -}}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{ with .Lastmod }}<lastmod>{{ . | time.Format "2006-01-02T00:00:00-03:00" }}</lastmod>{{ end }}
+	  {{ with .Sitemap.ChangeFreq }}<changefreq>{{ . }}</changefreq>{{end}}
+	  {{ with .Sitemap.Priority   }}<priority>{{ . }}</priority>{{end}}
+  </url>
+  {{ end }}
+{{ end }}
+</urlset>

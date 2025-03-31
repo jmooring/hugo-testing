@@ -1,3 +1,46 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #54170'
+baseURL                = 'https://website.com/'
+languageCode           = 'pt-br'
+title                  = 'Awesome Website'
+googleAnalytics        = 'G-MYGAID001'
+defaultContentLanguage = 'pt'
+
+enableRobotsTXT = true
+
+[languages]
+  [languages.pt]
+    languageCode      = 'pt-BR'
+    languageDirection = 'ltr'
+    languageName      = 'Português'
+    weight            = 1
+
+[sitemap]
+  changeFreq = 'weekly'
+  disable    = false
+  filename   = 'sitemap.xml'
+  priority   = 0.5
+
+[outputFormats.SITEMAP]
+  MediaType      = "application/xml"
+  BaseName       = "sitemap"
+  IsHTML         = false
+  IsPlainText    = true
+  noUgly         = true
+  notAlternative = true
+  Rel            = "sitemap"
+
+[outputs]
+  home     = ['html']
+  page     = ['html']
+  rss      = ['rss']
+  section  = ['html', 'rss', 'sitemap']
+  taxonomy = ['html']
+  term     = ['html']
+
+[segments]
+  [segments.home]
+    [[segments.home.includes]]
+      kind = '{home,term,taxonomy,section}'
+
+  [segments.posts]
+    [[segments.posts.includes]]
+      path = '{/posts/**}'
