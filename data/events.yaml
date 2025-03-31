@@ -1,0 +1,12 @@
+- name: Event One
+  date: 2025-03-31T14:45:00-00:00
+  locations:
+    - America/Denver
+    - Australia/Adelaide
+    - Europe/Oslo
+- name: Event Two
+  date: 2025-04-14T14:45:00-00:00
+  locations:
+    - Africa/Nairobi
+    - Antarctica/Vostok
+    - Pacific/Auckland

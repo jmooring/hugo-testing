@@ -9,7 +9,40 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Events</h2>
+
+  {{ range $e := site.Data.events }}
+    <h3>{{ $e.name }}</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Time Zone</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $location := $e.locations }}
+          <tr>
+            <td>{{ $e.date | time.AsTime | time.In $location | time.Format "2 January 2006 3:04:05 PM" }}</td>
+            <td>{{ $location }}</td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
   {{ end }}
+
+  <h2>Example from documentation</h2>
+
+{{ $layout := "2006-01-02T15:04:05-07:00" }}
+{{ $t := time.AsTime "2025-03-31T14:45:00-00:00" }}
+
+<pre>
+&lbrace;{ $t | time.In "America/Denver" | time.Format $layout }}     → {{ $t | time.In "America/Denver" | time.Format $layout }}
+&lbrace;{ $t | time.In "Australia/Adelaide" | time.Format $layout }} → {{ $t | time.In "Australia/Adelaide" | time.Format $layout }}
+&lbrace;{ $t | time.In "Europe/Oslo" | time.Format $layout }}        → {{ $t | time.In "Europe/Oslo" | time.Format $layout }}
+</pre>
+
+
+
 {{ end }}
