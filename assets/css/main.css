@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "hugo_stats.json";
+
+body {
+  margin: 1rem;
+  max-width: 768px;
+
+  @apply prose text-stone-700 max-w-1/3;
+  @apply prose-hr:my-5;
+  @apply prose-a:text-blue-600;
+}
