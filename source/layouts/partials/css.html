@@ -1,0 +1,4 @@
+{{ $opts := dict "config" "./source/assets/css" }}
+{{ with resources.Get "css/main.css" | postCSS $opts }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
