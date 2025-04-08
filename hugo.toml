@@ -1,3 +1,83 @@
 baseURL = 'https://example.org/'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# -----------------------------------------------------------------------------
+# Languages
+# -----------------------------------------------------------------------------
+
+[languages.en]
 languageCode = 'en-US'
-title = 'Hugo Forum Topic #54270'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+title = 'Hugo Forum Topic #54270 (en)'
+
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+title = 'Hugo Forum Topic #54270 (de)'
+
+[languages.fr]
+languageCode = 'fr-FR'
+languageDirection = 'ltr'
+languageName = 'Français'
+weight = 2
+title = 'Hugo Forum Topic #54270 (fr)'
+
+# -----------------------------------------------------------------------------
+# Menus
+# -----------------------------------------------------------------------------
+
+[[languages.en.menus.main]]
+name = 'Home (en)'
+pageRef = '/'
+weight = 10
+
+[[languages.en.menus.main]]
+name = 'Posts (en)'
+pageRef = '/posts'
+weight = 20
+
+[[languages.de.menus.main]]
+name = 'Home (de)'
+pageRef = '/'
+weight = 10
+
+[[languages.de.menus.main]]
+name = 'Posts (de)'
+pageRef = '/posts'
+weight = 20
+
+[[languages.fr.menus.main]]
+name = 'Home (fr)'
+pageRef = '/'
+weight = 10
+
+[[languages.fr.menus.main]]
+name = 'Posts (fr)'
+pageRef = '/posts'
+weight = 20
+
+# -----------------------------------------------------------------------------
+# Mounts
+# -----------------------------------------------------------------------------
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+lang = 'de'
+
+[[module.mounts]]
+source = 'content'
+target = 'content'
+lang = 'fr'
