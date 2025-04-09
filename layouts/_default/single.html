@@ -1,4 +1,8 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+  {{ if site.Params.debug }}
+    {{ partial "template-open-in-vs-code.html" . }}
+  {{ end }}
 {{ end }}

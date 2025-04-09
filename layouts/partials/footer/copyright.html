@@ -1,0 +1,4 @@
+<p>© {{ now.Year }} ABC Widgets, Inc.</p>
+{{ if site.Params.debug }}
+  {{ partial "template-call-stack.html" . }}
+{{ end }}

@@ -1,0 +1,8 @@
+{{ with templates.Current.Parent }}
+  <div class="debug">
+    <a href="vscode://file/{{ .Filename }}">{{ .Name }}</a>
+    {{ with .Base }}
+      <a href="vscode://file/{{ .Filename }}">{{ .Name }}</a>
+    {{ end }}
+  </div>
+{{ end }}

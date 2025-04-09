@@ -1,0 +1,10 @@
+{{ with templates.Current }}
+  <div class="debug">
+    {{ range .Ancestors }}
+      {{ .Filename }}<br>
+      {{ with .Base }}
+        {{ .Filename }}<br>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}
