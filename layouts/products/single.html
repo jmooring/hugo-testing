@@ -1,0 +1,7 @@
+{{ define "main" }}[layouts/products/single.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range (.GetPage "tiles").Pages }}
+    {{ .Render "tile" }}
+  {{ end }}
+{{ end }}

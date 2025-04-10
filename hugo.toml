@@ -1,3 +1,19 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #54291'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+## Do not publish "tiles" pages.
+[[cascade]]
+  [cascade.build]
+    list = 'local'
+    publishResources = false
+    render = 'never'
+  [cascade.target]
+    path = '{/products/*/tiles,/products/*/tiles/**}'
+
+## Use layouts/products/single.html for each product page.
+[[cascade]]
+layout = 'single'
+  [cascade.target]
+    path = '{/products/**}'

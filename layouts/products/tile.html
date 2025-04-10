@@ -1,0 +1,9 @@
+<div class="tile">
+  <h2>{{ .Title }}</h2>
+  {{ with .Resources.GetMatch "img/features.*" }}
+    {{ with .Resize "300x webp"  }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+  {{ .Content }}
+</div>
