@@ -11,7 +11,12 @@
     <hr>
   </header>
   <main>
-    {{ block "main" . }}{{ end }}
+    {{ .Content }}
+
+    {{ if templates.Exists "partials/foo.html" }}
+      {{ partial "foo.html" . }}
+    {{ end }}
+
   </main>
 </body>
 </html>
