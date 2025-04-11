@@ -8,6 +8,7 @@
   {{ with or .Params.url .Params.details }}
     <hr>
   {{ end }}
+  <p style="color: green;">[layouts/_default/home.html]</p>
   {{ .Content }}
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
