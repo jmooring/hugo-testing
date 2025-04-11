@@ -2,11 +2,10 @@ baseURL = 'https://example.org/'
 title = 'Hugo GitHub Issue #13591'
 disableKinds = ['rss','sitemap','taxonomy','term']
 
-[markup.goldmark.renderer]
-unsafe = true
-
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
+
+
 
 [languages.en]
 languageCode = 'en-US'
@@ -19,3 +18,6 @@ languageCode = 'de-DE'
 languageDirection = 'ltr'
 languageName = 'Deutsch'
 weight = 2
+
+[markup.goldmark.renderer]
+unsafe = true
