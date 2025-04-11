@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #13588'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-04-11T07:35:18-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/13588'
+description = "New template system ignores layout for section index pages"
 +++
