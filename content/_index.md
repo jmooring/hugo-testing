@@ -6,3 +6,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/54326'
 description = "Comment shortcode deprecated?"
 +++
+
+foo <!-- comment --> bar
