@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #54356'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-04-13T22:52:40-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/54356'
+description = "Lookup order for RSS Templates (0.146+)"
 +++
