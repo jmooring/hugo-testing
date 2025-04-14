@@ -1,3 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo GitHub Issue #13613'
+
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
