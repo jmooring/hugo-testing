@@ -1,0 +1,1 @@
+{{ partial (print "comment." (default "ru" .Lang) ".xml") . }}
