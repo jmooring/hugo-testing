@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "hugo_stats.json";
+
+@layer base {
+  * {
+    font-synthesis: style;
+  }
+
+  body {
+    @apply antialiased;
+  }
+}
