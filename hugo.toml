@@ -6,6 +6,9 @@ disableKinds = ['page','section','sitemap','taxonomy','term']
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
+[outputs]
+home = ['html','json']
+
 [languages.en]
 languageCode = 'en-US'
 languageDirection = 'ltr'

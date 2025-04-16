@@ -1,0 +1,3 @@
+home: layouts/home.json
+
+shortcode: {{ .Content }}
