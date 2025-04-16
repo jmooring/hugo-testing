@@ -5,19 +5,27 @@ draft = false
 +++
 
 ```text
-{{</* figure src=image.jpg caption="Figure Caption" */>}}
+{{</* figure src=image.jpg caption="Zion National Park" */>}}
 ```
 
-{{< figure src=image.jpg caption="Figure Caption" >}}
+{{< figure src=image.jpg caption="Zion National Park" >}}
 
 ```text
-![kitten](image.jpg "Figure Caption")
+![Zion National Park](image.jpg "Zion National Park")
 ```
 
-![kitten](image.jpg "Figure Caption")
+![Zion National Park](image.jpg "Zion National Park")
 
 ```text
-An inline ![kitten](image.jpg "Image Title") image.
+![Zion National Park](image.jpg "Zion National Park")
+{class="foo" width="250" style="border: 5px solid #666;"}
 ```
 
-An inline ![kitten](image.jpg "Image Title") image.
+![Zion National Park](image.jpg "Zion National Park")
+{class="foo" width="250" style="border: 5px solid #666;"}
+
+```text
+An inline ![Zion National Park](image.jpg "Zion National Park") image.
+```
+
+An inline ![Zion National Park](image.jpg "Zion National Park") image.
