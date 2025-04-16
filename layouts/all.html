@@ -1,0 +1,7 @@
+{{ with resources.Get "a.jpg" }}
+  {{ with .Exif }}
+<pre>
+{{ jsonify (dict "indent" "  ") . }}
+</pre>
+  {{ end }}
+{{ end }}
