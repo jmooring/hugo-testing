@@ -12,4 +12,15 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  {{ $opts := dict "toMap" true }}
+  {{ with resources.Get "pets.csv" | transform.Unmarshal $opts }}
+    <ul>
+      {{ range where . "type" "dog" }}
+        <li>{{ printf "My %s %s is a %s" .type .name .breed }}</li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+
 {{ end }}
