@@ -4,6 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+  {{ with resources.Get "js/main.js" }}
+    {{ with . | js.Build | fingerprint }}
+      {{ $noop := .Name }}
+      {{/*  {{ with resources.Copy "js/app.js" . }}  */}}
+        <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
 </head>
 <body>
   <header>
