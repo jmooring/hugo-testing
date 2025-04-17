@@ -12,7 +12,7 @@ Clone this branch of the repository and build the site.
 git clone --single-branch -b hugo-github-issue-10846 https://github.com/jmooring/hugo-testing hugo-github-issue-10846
 cd hugo-github-issue-10846
 npm ci
-hugo
+hugo && cat public/index.html
 ```
 
 This should throw an error.
