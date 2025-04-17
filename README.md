@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #11708
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/11708>
 
-Description: @@DESCRIPTION@@
+Description: Improve error message when partial has two return statements
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-11708 https://github.com/jmooring/hugo-testing hugo-github-issue-11708
+cd hugo-github-issue-11708
 hugo server
 ```
