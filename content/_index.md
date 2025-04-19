@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #13541'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-04-19T10:48:03-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/13541'
+description = "Reimplement and simplify Hugo's template system"
 +++
