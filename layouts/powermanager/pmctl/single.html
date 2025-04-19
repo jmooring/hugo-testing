@@ -1,0 +1,11 @@
+{{ define "main" }}
+  [layouts/powermanager/pmctl/single.html]
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <p>Page resources (there should be 6):</p>
+
+  {{ range .Resources }}
+    {{ .Name }}<br>
+  {{ end }}
+{{ end }}
