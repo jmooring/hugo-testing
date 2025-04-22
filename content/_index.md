@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #54465'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-04-22T06:30:32-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/54465'
+description = "Next previous links for both section and single pages across multiple folders"
 +++
