@@ -1,0 +1,12 @@
+{{ $pc := partialCached "build-page-collection.html" "/guides" }}
+
+<nav class="nav-inline">
+  <ol>
+    {{ with $pc.Reverse.Prev . }}
+      <li><a href="{{ .RelPermalink }}">Previous</a></li>
+    {{ end }}
+    {{ with $pc.Reverse.Next . }}
+      <li><a href="{{ .RelPermalink }}">Next</a></li>
+    {{ end }}
+  </ol>
+</nav>

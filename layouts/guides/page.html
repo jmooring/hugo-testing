@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ partial "breadcrumbs.html" . }}
+  {{ .Content }}
+  {{ partial "nav-prev-next-guides.html" . }}
+{{ end }}

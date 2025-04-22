@@ -1,0 +1,33 @@
+{{/*
+Returns a page collection built by walking a section. The result includes both
+regular pages and section pages.
+
+It expects to receive the logical path to the desired section.
+*/}}
+{{ $pc := slice }}
+
+{{ with $logicalPath := . }}
+  {{ with site.GetPage $logicalPath }}
+    {{ if .IsSection }}
+      {{ $pc = partial "inline/walk.html" (dict "page" . "pc" $pc) }}
+    {{ else }}
+      {{ errorf "The %q path passed to the %q partial is not a section" $logicalPath templates.Current.Name }}
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q partial was unable to find %s" templates.Current.Name $logicalPath }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q partial requires a logical path in context" templates.Current.Name }}
+{{ end }}
+
+{{ return $pc }}
+
+{{ define "_partials/inline/walk.html" }}
+  {{ $page := .page }}
+  {{ $pc := .pc }}
+  {{ $pc = $pc | append $page }}
+  {{ range $page.Pages }}
+    {{ $pc = partial "inline/walk.html" (dict "page" . "pc" $pc) }}
+  {{ end }}
+  {{ return $pc }}
+{{ end }}

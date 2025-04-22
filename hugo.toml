@@ -1,3 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #54465'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[module]
+  [module.hugoVersion]
+    min = '0.146.6'
