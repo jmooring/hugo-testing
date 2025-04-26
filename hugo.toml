@@ -1,3 +1,32 @@
-baseURL = 'https://example.org/'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+baseURL = 'https://en.example.org/'
+title = 'Hugo GitHub Issue #12564 (en)'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 2
+
+[languages.de]
+baseURL = 'https://de.example.org/'
+title = 'Hugo GitHub Issue #12564 (de)'
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'xxDeutsch'
+weight = 1
+
+[languages.fr]
+baseURL = 'https://fr.example.org/'
+title = 'Hugo GitHub Issue #12564 (fr)'
+languageCode = 'fr-FR'
+languageDirection = 'ltr'
+languageName = 'Francais'
+weight = 3
+
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
