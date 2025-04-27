@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #12472'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-04-27T07:27:02-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/12472'
+description = "Page resources published one level too deep when front matter has `url` with file extension"
 +++
