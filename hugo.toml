@@ -4,3 +4,6 @@ title = 'Hugo Forum Topic #12321'
 
 [security.http]
 mediaTypes = ['^audio/mpeg$']
+
+[mediaTypes.'audio/mpeg']
+suffixes = ['mp3']
