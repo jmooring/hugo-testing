@@ -9,7 +9,30 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
+  {{ $s := `
+  {{ with site.GetPage "/p1" }}
+    {{ range .Resources }}
+      <a href="{{ .RelPermalink }}">{{ .Name }}</a>
+    {{ end }}
+  {{ end }}
+  `
+  }}
+
+  {{ highlight  $s "go-text-template" }}
+
+  {{ with site.GetPage "/p1" }}
+    {{ range .Resources }}
+      <a href="{{ .RelPermalink }}">{{ .Name }}</a>
+    {{ end }}
+  {{ end }}
+
+  <hr>
+
+
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+
 {{ end }}
