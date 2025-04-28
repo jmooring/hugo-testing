@@ -1,8 +1,48 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #54538'
-
 disableKinds = ['rss','sitemap','taxonomy','term']
+
+# -----------------------------------------------------------------------------
+# Menus
+# -----------------------------------------------------------------------------
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+# -----------------------------------------------------------------------------
+# Params
+# -----------------------------------------------------------------------------
+
+[params.render_hooks.image]
+errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+
+[params.render_hooks.link]
+errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+highlightBroken = true # true or false (default)
+
+# -----------------------------------------------------------------------------
+# Permalinks
+# -----------------------------------------------------------------------------
+
+[permalinks]
+posts = "/posts/:slugorcontentbasename"
+
+# -----------------------------------------------------------------------------
+# Markup
+#
+# Note that the embedded render hooks are not used because the are overridden
+# by the render hooks in layouts/_markup. To use the embedded render hooks you
+# can either delete the embedded render hooks or rename layouts/_markup to
+# something like layouts/_markup_disabled.
+# -----------------------------------------------------------------------------
 
 [markup.goldmark.renderHooks.image]
 enableDefault = true
