@@ -1,14 +1,28 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
 
-  {{ with site.RegularPages | shuffle | first 5 }}
-    <p>Related content:</p>
-    <ul>
-      {{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  <p>Five random pages:</p>
+  <ul>
+    {{ range seq 5 }}
+      {{ with math.Rand | mul site.RegularPages.Len | math.Floor | int }}
+        {{ with index site.RegularPages . }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
       {{ end }}
-    </ul>
-  {{ end }}
+    {{ end }}
+  </ul>
+
+  {{/* Using shuffle is significantly slower than the approach above. */}}
+  {{/*
+    {{ with site.RegularPages | shuffle | first 5 }}
+      <p>Five random pages:</p>
+      <ul>
+        {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  */}}
 
   {{ .Content }}
 {{ end }}
