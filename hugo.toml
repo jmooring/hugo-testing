@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #13689'
+disableKinds = ['page','home','sitemap','taxonomy','term']
+[[cascade]]
+outputs = ['html','json']
+[cascade.target]
+path = '{/s2,/s4}'
