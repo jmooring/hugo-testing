@@ -1,0 +1,5 @@
+{{ $page := dict "path" "p3" "title" "p3" }}
+{{ $.AddPage $page }}
+
+{{ $page := dict "path" "p4" "title" "p4" "outputs" (slice "html") }}
+{{ $.AddPage $page }}
