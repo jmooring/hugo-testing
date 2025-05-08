@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-forum-topic-54636 https://github.com/jmooring/
 cd hugo-forum-topic-54636
 hugo server
 ```
+
+To test performance of various methods to list 5 random pages on each page:
+
+```text
+hugo --logLevel info
+```

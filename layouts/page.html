@@ -1,28 +1,75 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
 
-  <p>Five random pages:</p>
+  {{/*
+  Create the page collection from which unique random pages will be selected
+  for listing. Using the partialCached function as shown below improves
+  performance with custom page collections, but is not required when using
+  built-in page collections such as .Pages and .RegularPages. The built-in page
+  collections are automatically cached upon their first use.
+  */}}
+  {{ $t := debug.Timer "TestGetPageCollection" }}
+  {{ $pc := partialCached "create-page-collection.html" . }}
+  {{/* Remove the current page from the page collection. */}}
+  {{ $pc = $pc | complement (slice .) }}
+  {{ $t.Stop }}
+
+  {{/* Set the number of unique random pages to be listed. */}}
+  {{ $n := 5 }}
+
+  {{/*
+  Method A
+  Loop until we have listed the desired number of unique random pages.
+  */}}
+  {{ $t := debug.Timer "TestListRandomPagesMethodA" }}
+  <p>Random pages:</p>
   <ul>
-    {{ range seq 5 }}
-      {{ with math.Rand | mul site.RegularPages.Len | math.Floor | int }}
-        {{ with index site.RegularPages . }}
-          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-        {{ end }}
+    {{ $randomPages := slice }}
+    {{ range 9223372036854775807 }}
+      {{ $p := index $pc (math.Rand | mul $pc.Len | math.Floor | int) }}
+      {{ if in $randomPages $p }}
+        {{ continue }}
+      {{ end }}
+      <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
+      {{ $randomPages = $randomPages | append $p }}
+      {{ if eq (len $randomPages) $n }}
+        {{ break }}
       {{ end }}
     {{ end }}
   </ul>
+  {{ $t.Stop }}
 
-  {{/* Using shuffle is significantly slower than the approach above. */}}
   {{/*
-    {{ with site.RegularPages | shuffle | first 5 }}
-      <p>Five random pages:</p>
-      <ul>
-        {{ range . }}
-          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-        {{ end }}
-      </ul>
-    {{ end }}
+  Method B
+  Range over a slice of random integers between 0 and the length of the page
+  collection minus 1.
   */}}
+  {{ $t := debug.Timer "TestListRandomPagesMethodB" }}
+  <p>Random pages:</p>
+  <ul>
+    {{ range partial "get-random-ints.html" (dict "qty" $n "min" 0 "max" (sub $pc.Len 1)) }}
+      {{ $p := index $pc . }}
+      <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+  {{ $t.Stop }}
+
+  {{/*
+  Method C:
+  Range over the first n elements of the shuffled page collection.
+  */}}
+  {{ $t := debug.Timer "TestListRandomPagesMethodC" }}
+  <p>Random pages:</p>
+  <ul>
+    {{ range $p := shuffle $pc | first $n }}
+      <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+  {{ $t.Stop }}
 
   {{ .Content }}
+{{ end }}
+
+{{ define "_partials/create-page-collection.html" }}
+  {{ return site.RegularPages }}
 {{ end }}

@@ -1,0 +1,54 @@
+{{/*
+Returns a slice of unique random integers.
+
+@param {int} qty The number of random integers to generate.
+@param {int} min The minimum value of the generated integers.
+@param {int} max The maximum value of the generated integers.
+
+@returns {[]int}
+
+@example
+
+  To generate 6 unique random integers in the closed interval [7, 42]:
+
+  {{ partial "get-random-ints.html" (dict "qty" 6 "min" 7 "max" 42) }}
+
+*/}}
+{{ $err := true }}
+{{ $t := templates.Current.Name }}
+
+{{ if not (isSet $ "qty") }}
+  {{ errorf "The %s template requires a 'qty' argument." $t }}
+{{ else if not (isSet $ "min") }}
+  {{ errorf "The %s template requires a 'min' argument." $t }}
+{{ else if not (isSet $ "max") }}
+  {{ errorf "The %s template requires a 'max' argument." $t }}
+{{ else if or (ne $.qty (int $.qty )) (lt $.qty 1) }}
+  {{ errorf "The 'qty' value passed to the %s template must be a positive integer." $t }}
+{{ else if ne $.min (int $.min) }}
+  {{ errorf "The 'min' value passed to the %s template must an integer." $t }}
+{{ else if ne $.max (int $.max) }}
+  {{ errorf "The 'max' value passed to the %s template must an integer." $t }}
+{{ else if lt $.max $.min }}
+  {{ errorf "The 'max' value passed to the %s template must be greater than or equal to the 'min' value." $t }}
+{{ else if lt (add (sub $.max $.min) 1) $.qty }}
+  {{ errorf "When calling the %q template, the difference between the 'max' and 'min' values, plus one, must be greater than or equal to the 'qty' value." $t }}
+{{ else }}
+  {{ $err = false }}
+{{ end }}
+
+{{ $randomInts := slice }}
+{{ if not $err }}
+  {{ range 9223372036854775807 }}
+    {{ $r := math.Rand | mul (add (sub $.max $.min) 1) | math.Floor | add $.min | int }}
+    {{ if in $randomInts $r }}
+      {{ continue }}
+    {{ else }}
+      {{ $randomInts = $randomInts | append $r }}
+    {{ end }}
+    {{ if eq (len $randomInts) $.qty }}
+      {{ break }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $randomInts }}
