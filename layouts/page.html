@@ -10,15 +10,13 @@
   */}}
   {{ $t := debug.Timer "TestGetPageCollection" }}
   {{ $pc := partialCached "create-page-collection.html" . }}
-  {{/* Remove the current page from the page collection. */}}
-  {{ $pc = $pc | complement (slice .) }}
   {{ $t.Stop }}
 
   {{/* Set the number of unique random pages to be listed. */}}
   {{ $n := 5 }}
 
   {{/*
-  Method A
+  Method A:
   Loop until we have listed the desired number of unique random pages.
   */}}
   {{ $t := debug.Timer "TestListRandomPagesMethodA" }}
@@ -27,7 +25,7 @@
     {{ $randomPages := slice }}
     {{ range 9223372036854775807 }}
       {{ $p := index $pc (math.Rand | mul $pc.Len | math.Floor | int) }}
-      {{ if in $randomPages $p }}
+      {{ if or (in $randomPages $p) (eq $p $) }}
         {{ continue }}
       {{ end }}
       <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
@@ -40,29 +38,47 @@
   {{ $t.Stop }}
 
   {{/*
-  Method B
+  Method B:
   Range over a slice of random integers between 0 and the length of the page
-  collection minus 1.
+  collection minus 1. The number of elements in the slice is equal to the
+  desired number of unique random pages, plus one. We add the additional
+  element in case the random page is the current page.
   */}}
   {{ $t := debug.Timer "TestListRandomPagesMethodB" }}
   <p>Random pages:</p>
   <ul>
-    {{ range partial "get-random-ints.html" (dict "qty" $n "min" 0 "max" (sub $pc.Len 1)) }}
+    {{ $c := 0 }}
+    {{ range partial "get-random-ints.html" (dict "qty" (add $n 1) "min" 0 "max" (sub $pc.Len 1)) }}
       {{ $p := index $pc . }}
+      {{ if eq $p $ }}
+        {{ continue }}
+      {{ end }}
       <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
+      {{ $c = add $c 1 }}
+      {{ if eq $c $n }}
+        {{ break }}
+      {{ end }}
     {{ end }}
   </ul>
   {{ $t.Stop }}
 
   {{/*
   Method C:
-  Range over the first n elements of the shuffled page collection.
+  Range over the shuffled page collection.
   */}}
   {{ $t := debug.Timer "TestListRandomPagesMethodC" }}
   <p>Random pages:</p>
   <ul>
-    {{ range $p := shuffle $pc | first $n }}
+    {{ $c := 0 }}
+    {{ range $p := shuffle $pc }}
+      {{ if eq $p $ }}
+        {{ continue }}
+      {{ end }}
       <li><a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a></li>
+      {{ $c = add $c 1 }}
+      {{ if eq $c $n }}
+        {{ break }}
+      {{ end }}
     {{ end }}
   </ul>
   {{ $t.Stop }}
@@ -71,5 +87,5 @@
 {{ end }}
 
 {{ define "_partials/create-page-collection.html" }}
-  {{ return site.RegularPages }}
+  {{ return where site.RegularPages "Section" "10-pages" }}
 {{ end }}
