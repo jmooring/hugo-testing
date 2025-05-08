@@ -1,0 +1,15 @@
+{{ $tags := slice }}
+{{ range $name, $pages := .Site.Taxonomies.tags }}
+  {{ $count := len (where $pages "Draft" "!=" true) }}
+  {{ $tags = $tags | append (dict "name" $name "count" $count "pages" $pages "page" .Page) }}
+{{ end }}
+
+{{ $sorted := sort $tags "page.Weight" "asc" }}
+{{ range first 20 $sorted }}
+  <div class="d-flex align-items-center">
+    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .name }}">
+      <a href="{{ .page.Permalink }}" title="{{ .page.Title }} - {{ .page.Description }}">{{ .page.Title }}</a>
+    </span>
+    <span class="ms-1">({{ .count }}){{- if ne hugo.Environment "production" }}[W:{{ .page.Weight }}]{{ end }}</span>
+  </div>
+{{ end }}
