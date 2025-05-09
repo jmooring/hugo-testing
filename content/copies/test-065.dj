@@ -1,0 +1,330 @@
+---
+title: Test
+---
+
+I wrote [a thing](https://hg.sr.ht/~ser/ifc) in [V](https://vlang.io).
+The International Fixed Calendar is one of those things like Esperanto,
+where there are some people who really like the idea and it's actually
+been implemented in some places, but it has never taken root and will
+likely remain a semi-obscure interest. However, I could only find one
+software implementation, and it was in Python; and I'd been meaning to
+do a small project in V and this gave me the perfect opportunity.
+
+I've been watching V for a while. There's a lot of overlap with Go,
+which appeals to me, and it tries to address some of what the creator
+thinks are Go's weaknesses. It shares some of the core values which have
+kept me from migrating to another language:
+
+- Procedural programming paradigm
+- Fast compile times are a core value
+- Go-like concurrency -- communication through channels as opposed to
+  object sharing
+- Very much a C-derivative in syntax
+
+It improves on Go by:
+
+- Smaller runtime. My current 248 LOC ifc program, which imports `time`,
+  `strconv`, a robust stdlib parseargs, `os`, and `math`, -- weighs in
+  stripped at 661K. The most basic "Hello World" in Go, which even uses
+  the `println` built-in instead of importing `fmt` -- compiled and
+  stripped clocks 980K. Immutable-by-default variables
+- Result types (!/? syntax), which removes much of that `if err != nil`
+  noise.
+- True enums and sum types.
+- Some syntactic sugar, and several of the base types like strings and
+  arrays have methods on them; `length` are methods on the array type,
+  not a language built-in. Conversely, iterators are *not* special
+  language cases for a few built-in types, but can be implemented by any
+  type -- the `for x in Y` syntax, which was only recently opened in Go
+  to developers for use in their structs, is a core language feature in
+  V.
+- Control over garbage collection. You want ultimate control over
+  malloc/destroy, you have it.
+
+It has some (IMHO) anti-features which I'll talk about below, but about
+that runtime size; here's the Go "hello world":
+
+``` go
+package main
+
+func main() {
+        println("hello world")
+}
+```
+
+Compiled, stripped, that's 980KB. Keep in mind, my ifc project is 661K
+-- still less than Go's "hello world". Here's the V version:
+
+``` v
+println('hello world')
+```
+
+Compiled and stripped is a bare-bones 185K.
+
+So, this is essentially the cost of the runtime -- some 200K for V and
+650K for Go. In practice, Go binaries are *much* larger; a couple of my
+CLI-only (not even a TUI, just command-line commands) tools are 5.4MB
+(2,443 LOC & 6 external library dependencies) and 4.2MB (2,002 LOC & 29
+dependencies).
+
+A project like this isn't enough experience to have well-formed
+opinions, but here's my current take, including the warts.
+
+## Warts
+
+: Operator overloading
+
+   V recently added operator overloading, probably under pressure from
+   his C audience. Operator overloading is a horrible, *terrible* idea:
+   it hides behavior, and causes more trouble for maintainers than
+   value it gives for implementors. And every implementor eventually
+   becomes their own maintainer, so operator overloading hurts
+   *everyone*. I strongly object to that change, and wish Alexander had
+   spent time on some other improvement than this.
+
+: Syntax
+
+   Go feels... cleaner. I can't tell yet how much of that is just
+   familiarity; I've been programming almost exclusively in Go for nigh
+   on 15 years now. I have a couple of other small projects, and a
+   larger one that needs a rewrite; I may try these in V. However, that
+   leads to...
+
+: Tooling
+
+   The tooling is far less mature. This isn't V's fault; it's just the
+   nature of its age compared to Go, but it makes development more
+   painful and hinders my enthusiasm for using it for projects. The
+   LSP, `v-analyzer`, is pretty bare- bones and doesn't yet provide
+   documentation support, which is a real drag on beginners trying to
+   learn the standard library, or work with external libraries.
+
+: Naming
+
+   The way V handles casing and naming is not to my liking. It's a
+   valid criticism of Go that scoping through token case is a sort of
+   hack, but V makes this worse by making enforcing variable naming at
+   the error level. You can't capitalize enums, you must capitalize
+   enum types, you must use snake-case for methods and variables -- all
+   are compile-time **errors**. To me, this is a bizarre decision,
+   because it serves no purpose other than to enforce style. At least
+   Go's capitalizion- based visibility serves a purpose. Mind you, I
+   don't really care; I think strongly opinionated style guidelines are
+   good things, but the choice to make them *errors* is a bit baffling,
+   since case has no behavioral meaning in the language.
+
+: Tooling
+
+   There's no built-in code coverage metric, and I haven't yet found a
+   tool that'll do it. At the moment, the work-around is to compile to
+   C and then use a C coverage tool.
+
+: Cross-compiling
+
+   Cross-compiling support is far less mature than promised. Trying to
+   cross- compile `ifc` to FreeBSD resulted in a 500MB download (at the
+   time of compilation) for the FreeBSD runtime, I suspect, and then it
+   utterly failed to compile anyway. Darwin is not actually supported.
+   Windows requires extra fidgeting. And I haven't found the dial to
+   control architecture. So, I'd say cross-compilation really shouldn't
+   be being advertised. You *can* theoretically, compile to Go, and
+   from there you could cross-compile to almost anything, but then
+   you've got the Go runtime again, and I suspect you lose access to a
+   number of features, like malloc control.
+
+: Error handling
+
+   I said that V improved Go by addressing the `if err != nil` issue,
+   but the solution has its own quirks. So, in a nutshell, what you do
+   is declare that a value might be an error with `!`:
+
+   ``` v
+   fn my_function() !int {
+   ```
+
+   Then, when you call the function, you have to either ignore the
+   possible error, or wrap the call in an if:
+
+   ``` v
+   if res := my_function() {
+   ```
+
+   This evaluates to `true` if the result wasn't an error. This is
+   fine, but it's a hella lot like what you might do in Go:
+
+   ``` go
+   if res, err := myFunction(); err != nil {
+   ```
+
+   and I don't see that V's approach is significantly better.
+   Especially when you have something like this:
+
+   ``` v
+   fn is_something(i int) !bool {
+   ```
+
+   because what you might innocently think could be:
+
+   ``` v
+   if tf := is_something(5) {
+     // tf is true, so do something
+   ```
+
+   No! All that `if` statement asserts is that `is_something` returned
+   a value not an error, so you end up doing this:
+
+   ``` v
+   if tf := is_something(5) {
+     if tf {
+       // tf is true, so do something
+   ```
+
+   and you *can't* do this:
+
+   ``` v
+   if tf := is_something() && tf {
+   ```
+
+   or
+
+   ``` v
+   if tf := is_something(); tf {
+   ```
+
+   or any variation. So if you use this, your code is littered with
+   these nested if statements and I'm just not convinced this is an
+   improvement over Go.
+
+## Sparkle
+
+: Unit testing
+
+  The unit testing is **fantastic**. There's a built-in `assert`
+  keyword, and writing tests in V is an order of magnitude more
+  pleasant than Go.
+
+  While unit testing support is great, it's a little buggy. Or the way
+  it works is just counter-intuitive; I've encountered scoping issues
+  with it, and I think it's because `assert` *may* be being evaluated
+  at compile time. In any case, it confused the heck out of me until I
+  realized what was going on. It's easy to work around, but it makes
+  copy/pasting new tests more tedious.
+
+: String interpolation
+
+  I do really like V's string interpolation syntax more than Go's...
+  well, Go doesn't have string interpolation, but it does have a
+  defacto standard format set by the `fmt` package precedent. In V:
+
+  ``` v
+  x, y := 1, 2
+  println('x is ${x} and y is ${y}, and ${x} > ${y}? ${x > y}')
+  ```
+
+  is much clearer and more concise -- to my eye -- than Go's:
+
+  ``` go
+  x, y := 1, 2
+  fmt.Printf("x is %d and y is %d, and %d > %d? %t\n", x, y, x, y, x>y)
+  ```
+
+  You can control the format, a-la `printf`, with format specifiers;
+  again, V:
+
+  ``` v
+  x := 5
+  println('${x:02d}')
+  ```
+
+  By the way, you can put that code snippet in a file and
+  `v run file.v` it -- you don't *have* to declare a module, or wrap
+  code in `main()`. This is entirely legit:
+
+  ``` bash
+  $ cat > double
+  #!v run
+  x := 5
+  println('double ${x} is ${x * 2}')
+  ^D
+  $ chmod +x double
+  $ ./double
+  ```
+
+  It's a minor thing, but really fantastic for learning, and there are
+  so many cases where I've written long `zsh` scripts that almost-just
+  are complex enough to be converted to a real programming language
+  which -- had I had V in my toolbox -- would already be V scripts. It
+  greatly lowers the point at which I'd choose V over zsh.
+
+: Compile times
+
+  Compile times are *really* fast. Go-fast. That's nice.
+
+## TBD
+
+: Annotations
+
+  I'm not sure how I feel about the annotations (e.g. `@[noinit]`,
+  `@[required]`, etc). V proudly claims to have no macros, but the
+  annotations are kinda-sorta like macros and they just feel like a
+  hack, as if the language was declared fixed and then Alexander went,
+  "shit, I forgat this thing" and solved it by sticking it in an
+  annotation. It's no worse than Go's struct tags, which are also a
+  kind of afterthought solution, but in both cases it feels like
+  greasy smudges on the language.
+
+: Closures
+
+  V's closures are odd. I haven't wrapped my head around them, but the
+  syntax seems bizarre. Instead of Go's variable shadowing:
+
+  ``` go
+  func foo() {
+    x := 1
+    f := func() {
+      fmt.Println(x)
+    }
+  }
+  ```
+
+  V has this:
+
+  ``` v
+  fn foo() {
+    x := 1
+    f := fn [x] () {
+      println(x)
+    }
+  }
+  ```
+
+  I understand it's because V objects to variable shadowing, and this
+  is their solution, but it just looks weird to me.
+
+: Generics
+
+  V has generics, which I haven't used; they're far less needed than
+  most programmers think they are, and are often a sign of
+  over-engineering and eager optimization. However, they do make some
+  things easier, and V has had them for several years. It's orthoganal
+  to the closure syntax:
+
+  ``` v
+  fn foo[T](k T) { println(k) }
+  foo(1)
+  foo('hey')
+  ```
+
+  It's about the same as Go, I guess, so meh. I have to mull on this a
+  bit, because -- by themselves -- generics leave me cold. But the
+  overlap with the closure syntax might make it all more palatable
+  over time.
+
+## Summary
+
+I haven't done any speed comparisons yet, or dug into support for things
+like Go's `Benchmark` support.
+
+All in all, I'm interested enough to keep trying it on small projects. I
+may rewrite [legume](https://hg.sr.ht/~ser/legume) in V; that'll be the
+proof in the pudding, as that's a larger project.

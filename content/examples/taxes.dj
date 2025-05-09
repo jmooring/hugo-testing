@@ -1,0 +1,187 @@
+---
+title: Taxes
+---
+
+# 2024
+
+## Federal submission checklist
+
+- [X] f6251
+- [X] FinancialInstitution BBB
+- [X] FinancialInstitution SER
+- [X] Advisors report
+- [X] opentaxsolver_out
+- [X] SER W2
+- [X] BBB W2
+- [X] Bank Advisors
+
+## Minnesota
+
+ACH #: XYXYXYXY
+
+| Form      | Needed | Printed | Title                                                        |
+|:----------|:------:|:--------|:-------------------------------------------------------------|
+| m1        | yes    | yes     | Individual income tax                                        |
+| m1m       | yes    | yes     | Additional income and donations                              |
+| m1w       | yes    | yes     | Withheld taxes                                               |
+| m1mt      | yes    | yes     | Alternative minimum tax                                      |
+| f6251     | yes    | yes     | Federal AMT (needed for m1mt)                                |
+| m1c       | yes    | yes     | Zero, but must be inclcuded. Non-refundable credits.         |
+| Fed 1040  | yes    | yes     |                                                              |
+| m1sa      | no     | -/-     | Itemized deductions; not enough to beat standard             |
+| m1ma      | no     | -/-     | Marriage credit; 2nd must be > $30k                          |
+| m1sa      | no     | -/-     | Minnesota itemized deductions                                |
+| m1ref     | no     | -/-     | Refundable credits                                           |
+
+
+S1_1 Taxable refunds -- only include the Minnesota tax refund if we claimed it
+as an itemized tax cost in 2023 (for 2022). Which we did; see 2022 A5a
+
+csvtk is pretty awesome:
+
+- csvtk grep -f Expense -r -p 'Medical' deductions.csv | csvtk summary -f Amount:sum
+- csvtk pretty deductions.csv
+
+- Edit the `opentaxsolver.txt` to add comments to the capital gains stuff; it'll
+  be included in the PDF.
+- PDF forms can be filled out with `evince` (or `mupdf-gl`). Signatures can be
+  added with `xournalpp` using `~/Pictures/Signature.png` and
+  `~/Pictures/Signature_BBB.png`.
+- For taxes, ledger only needs the bank statements (Bank & CC). Pull
+  them into a separate `everything.dat` and run the report on that.
+- **Download from the bank in CSV**. Don't bother with the other formats; ledger
+  can't read anything but CSV. All you're looking for is the deductions for
+  itemization, anyway, and that's going to be medical and donations from the
+  accounts; you don't need the entire, big-picture `everything.dat`.
+
+  - You'll still need to fuss with the payees and everything; convert, dump, re-
+    categorize, re-import. This will required data files and the executables in
+    `~/Documents/Finance/ledger`
+  - `ledger convert CC2022.tmp --inBBB-date-format %m/%d/%Y -f CC2022.dat --account Liabilityy:CC --rich-data`
+  - `ledger -f taxes2022.dat payees --period 2022 Expenses:Unknown | sort | uniq >> payees.csv`
+  - `ledger -f taxes2022.dat csv --csv-format "%(id),%D,%A,%t\n" tag deductable | ./bin/pivot | ./bin/sum | sort > taxes2022.csv`
+  - `ledger -f everything.dat register show deductable`
+
+- Feds need:
+
+  - W-2
+  - All 1099s (investments, IRAs, etc)
+
+- Minnesota requires the the AMT worksheet, whether it was necessary for federal
+  or not, so just fill it out
+- If any stock trades, fill in D, otherwise, capital gains can be summarized
+
+: Schedule D
+
+  > If distributions, line 13, are your only investment items to report, you don’t
+  > have to fill out Schedule D; they go directly on your 1040 or 1040A return.
+  >
+  > -- <https://www.bankrate.com/investing/schedule-d-reporting-your-capital-gains-or-losses/>
+
+: Documents to include:
+
+  > When you file a tax return electronically, an electronic copy of your W-2 and
+  > other income forms, such as 1099s, is created. These electronic versions of
+  > your income forms are transmitted with your return to the IRS. Since alternate
+  > versions of your income forms are not created when you send a paper return,
+  > you must attach copies of your physical W-2s and 1099s to the front page of
+  > your 1040 form. Although you may receive multiple forms at the end of the year
+  > to help prepare your return, you only need to attach forms that show types of
+  > income you received. It is not necessary to attach copies of other forms that
+  > show payments you made, such as 1098 forms you receive for mortgage or student
+  > loan interest you paid.
+  >
+  > The IRS does not require taxpayers to attach receipts or proof of expense
+  > payments claimed on tax returns, but you must hold onto receipts and copies of
+  > any other items used to prepare your return, and keep them handy. In the event
+  > a return you file is selected for an audit, you’ll need to show proof of your
+  > expenses to your examiner, or items you claimed could be disallowed.
+  >
+  > -- <https://pocketsense.com/documents-should-attached-tax-return-paper-filing-8209.html>
+
+: AMT
+
+  > *Who Must File*
+  >
+  > Attach Form 6251 to your return if any of the following statements are true.
+  >
+  > - Form 6251, line 7, is greater than line 10.
+  > - You claim any general business credit, and either line 6 (in Part I) of Form
+  > - 3800 or line 25 of Form 3800 is more than zero.
+  > - You claim the qualified electric vehicle credit (Form 8834), the personal
+  >   use part of the alternative fuel vehicle refueling property credit (Form
+  >   8911), or the credit for prior year minimum tax (Form 8801).
+  > - The total of Form 6251, lines 2c through 3, is negative and line 7 would be
+  >   greater than line 10 if you didn’t take into account lines 2c through 3.
+  >
+  > -- <https://www.irs.gov/instructions/i6251>
+
+## FILED
+
+- `fed_combined.pdf` - the US submission: Income statements and (non-instruction) US forms
+- `mn_combined.pdf` - the MN submission: the (non-instruction) MN forms
+- `mn_forms/` - all of the Minnesota forms, filled out
+- `federal_forms/` - all of the US forms, filled out
+
+The `*_combined.pdf` were created with `cpdf`, selecting the non-instruction pages:
+
+- *US*: `cpdf W-2_Form_2022_LName-Lname2.pdf 1 opentaxsolver_out_signed.pdf worksheet_done.pdf Lname2_1099_5418_22.pdf 3 2022-Individual-TOD-2745-Consolidated-Form-1099.pdf 1 2022-Individual-0365-Consolidated-Form-1099.pdf 1 -o combined.pdf`
+- *MN*: `cpdf m1_22_signed.pdf m1c_22.pdf 1 m1m_22.pdf 1-2 m1mt_22.pdf 1 m1ref_22.pdf 1 m1sa_22.pdf 1 m1w_22.pdf -o combined.pdf`
+
+Minnesota can't be completed until the Federal is.
+
+The MN submission *includes* the entire federal submission.
+
+Minnesota requires filling out 6251 (AMT) whether or not the feds require it. So just do it.
+
+The Minnesota submission requires:
+
+- The MN forms
+- `f6251.pdf`, the AMT worksheet
+- The entire federal submission
+
+  Minnesota Individual Income Tax
+  Mail Station 0010
+  600 N. Robert St.
+  St. Paul, MN 55145-0010
+
+| Form      | 2022   | Title                                                                  |
+|:----------|:------:|:-----------------------------------------------------------------------|
+| m1        | yes    | Individual income tax                                                  |
+| m1m       | yes    | Additional income and donations                                        |
+| m1w       | yes    | Withheld taxes                                                         |
+| m1mt      | yes    | Alternative minimum tax                                                |
+| f6251     | yes    | Federal AMT (needed for m1mt)                                          |
+| m1sa_21   | yes    | Itemized deductions; not enough to beat standard                       |
+| m1sa      | yes    | Minnesota itemized deductions                                          |
+| m1ma      | maybe  | Marriage credit -- yes if both working and both making money           |
+| m1nc_21   | no     | Federal adjustments: debt cancellation, higher ed, dependent care...   |
+| m1x       | no     | Amended Minnesota income tax                                           |
+| m1eda     | no     | Assignment of income tax refunds (loans?)                              |
+| m1cr_22   | no     | Credit for income tax paid to another state                            |
+| m1_m15    | no     | Under-payment penalty (if underpayment > $500)                         |
+| m1wfc     | no     | Working family credit -- make too much                                 |
+| m1ls      | no     | Tax on lump-sum distributions -- didn't take any distributions         |
+| m1c       | no     | Other non-refundable credits -- no qualifying credits                  |
+| m1ref     | no     | Refundable credits -- no qualifying credits                            |
+| m1nr      | no     | Nonresidents/part-year residents                                       |
+| m1mb      | no     | Business income additional                                             |
+| m1529     | no     | Qualified education savings plan                                       |
+| m15_22    | no     | Underpayment of estimated income tax                                   |
+| m1mb      | no     | Business income additions and subtractions                             |
+| m1ls      | no     | Tax on lump-sum distribution                                           |
+| m1mtc     | no     | Alternative minimum tax credit                                         |
+| m1ar      | no     | Accelerated recognition of installment sale gains                      |
+| m1ue      | no     | Unreimbursed employee business expenses                                |
+| m1rcr     | no     | Credit for tax paid to Wisconsin                                       |
+| pcr       | no     | Political contribution refund                                          |
+| m1cd      | no     | Child and dependent care credit                                        |
+| m1ed      | no     | K-12 education credit                                                  |
+| m1cmd     | no     | Credit for attaining master's degree in teacher's licensure field      |
+| m1home    | no     | First-time homebuyer savings account                                   |
+| m1psc     | no     | Credit for parents of stillborn children                               |
+| m1cat     | no     | Casualty and theft                                                     |
+| m1slc     | no     | Student loan credit                                                    |
+| m1lti     | no     | Long-term care insurance credit                                        |
+| m99       | no     | Credit for military service in a combat zone                           |
+| m1r       | no     | Age 65 or older/disabled subtraction                                   |

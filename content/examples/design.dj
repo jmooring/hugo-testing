@@ -1,0 +1,90 @@
+---
+title: Design
+---
+
+# Design document
+
+## Caveat Lector
+
+Design documents are pits of despair, and this one is no different. The
+information in it may be appallingly out-of-date, at best, and so do not look to
+this document for Truth. It is a place to discuss ideas.
+
+## Action Queue
+
+A challenge UIs struggle with is to keep up with the user ("User") so that User
+never experiences lag, hangs, or delays. This is especially tough when most of
+what the UI does is interacting with -- at best -- an ABI call (as to mpv), or
+at worst an API call to a remote server ("Server"). It gets even worse when the
+remote server is over a laggy network; in the very worst cases, User is browsing
+Server over a high-latency network, and Server is a slow Raspberry Pi from 2018
+that User is also trying to run a Large LLM on at the same time.
+
+The great Jeff Raskin [one of the pioneers in UX and designers of the original
+Mac UI]{.marginnote} believed that CPUs should not sit idle, and that programs
+should always be spending any free CPU cycles pre-fetching and pre-calculating
+information so that User never experiences lag. Far be it for me to disagree
+with Jeff, but there are situations when User doesn't want this to happen --
+when it would, for example, saturate the LAN with API calls for data which is
+never used, or bog down Server with supurious requests, or indeed defeat the
+purpose of power saving strategies at play in User's computer. Jeff came up with
+his idea in a different time, when CPUs didn't draw less power when they were
+idling, and when making network calls was not as integral to designs.
+
+### Algorithm, from 3,048m
+
+Jeff was right, though: we _do_ want to minimize lag, for it is Annoying, and
+Vexes User Unto No End. Action Queue attempts to address this, and it does so by
+making some assumptions:
+
+1. User is going to be jumping around alot, by scrolling through lists or some
+   other actions, and that much of the information that they scroll _past_, they're
+   not interested in.
+2. Program should *not* eventually replicate the entire Server database in
+   memory
+3. Local caches are Hard: easy to implement, but hard to keep synchronized and
+   therefore consistent.
+
+{# One big queue, or a queue per page? For Server, one big queue would be
+   better, as multiple queues could still swamp it #}
+Action Queue -- hereafter `ActionQueue` -- is a structure that provides a finite
+pipe of LIFO operations. As User performs UI actions, these `Actions` are pushed
+into `ActionQueue`. `ActionQueue` has a background process which pulls things
+off the queue and does them, with some caveats:
+
+1. Unlike a Go channel, which is FIFO, ActionQueue pulls the most recently
+   pushed thing and works on that -- in LIFO order.
+2. ActionQueue's queue is both finite, and LRU-ish. That is, if more than the
+   queue max size items are pushed onto the queue, the oldest ones get bumped off
+   the list of things to do.
+3. When ActionQueue completes a request, it calls a callback letting the caller
+   know that _something_ has been fetched. If the _something_ is still relevant,
+   the callback can do something with it; otherwise, the callback is discarded.
+4. As long as there are things in the queue, ActionQueue continues merrily
+   acting. This is a compromize that will hopefully pull enough information to make
+   some information instantly available to User, under the assumption that if they
+   requested it once, they might request it again.
+
+### Pseudocode
+
+{# Should we use a context to time-out in-progress API calls when new requests
+   come in? #}
+
+```
+	globalActionQueue := new ActionQueue(size)
+	list.SetChangeFunc(func() {
+		show-loading-icon
+		globalActionQueue.Queue( func() {
+			// This could take a long time
+			item := server.GetItem(id)
+			put-item-in-cache
+			if is-id-still-relevant {
+				update-UI-with-item
+			}
+		})
+	})
+```
+
+### Questions
+
+- -

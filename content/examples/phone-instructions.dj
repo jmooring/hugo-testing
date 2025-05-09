@@ -1,0 +1,171 @@
+---
+title: Phone instructions
+---
+
+# New Phone
+
+1. [Setting Up][]
+2. [Side button, volume, swiping][]
+3. [How to talk to the phone][]
+4. [Apps, taking pictures][]
+5. [Remote access][]
+6. [Charging][]
+
+## Setting Up
+
+We will do this once, on Friday, after your phone arrives. These are not
+instructions; they're just reminders for me.
+
+1. Switch from old phone to new phone on Verizon
+2. Import contacts from old phone
+3. Set up voice recognition ([train the phone](https://support.google.com/assistant/answer/9071681?hl=en&co=GENIE.Platform%3DAndroid#zippy=%2Cteach-google-assistant-your-voice-again))
+
+
+## Side button, volume, swiping
+
+There are several gestures and buttons that can control the phone. Gestures are
+things like swiping with your finger on the screen. You should try these a bunch
+when you first get the phone so that you get a good feel for how they work. Even
+if you mostly control the phone by talking to it, it is useful to be comfortable
+with the physical controls.
+
+When you swipe from an edge, you should start at the edge of the screen and drag
+your finger toward the opposite edge. You don't need to press hard, and it
+should be about as fast as a flick, like you're trying to swipe off a bit of
+dust.
+
+- Swipe from the *bottom* edge toward the top will *always* return you to your
+  _home screen_.
+- Swipe from the *left* edge will go "back", to the previous screen
+- Swipe from the *right* edge will go "forward", to the next screen -- if there
+  is one
+- Swipe from the *top* edge shows you controls and messages -- swipe *again*
+  from the top will expand the controls.
+
+The _home screen_ is the screen that has your apps and contacts. If you ever get
+lost in the phone, *swipe up* from the bottom should get you back to the start.
+
+The left and right swipes are for backing up or moving forward. If you (for
+example) go to your contacts and press one of the buttons at the bottom, you can
+"back up" to the previous screen by swiping from the left to the right.
+
+The top-swipe shows you the phone controls. There are many buttons here, but
+also message people have sent you and other notifications. These control buttons
+allow you to, for example, turn on airplane mode, turn on "do not distrub" mode,
+and so on. When a button is colored blue, it is on; when it is sort of gray-ish,
+it is off. Just remember: if you turn on something like airplane mode, you will
+not receive any calls until you turn it off again!
+
+
+## How to talk to the phone
+
+When you say "Hey Google," it will start listening for commands. The phone
+understands several commands, and will tell you if it doesn't understand you.
+You must **always** start with "Hey Google."
+
+Some examples are:
+
+- "Hey Google, what time does lifesource open?"
+- "Hey Google, what is the capital of south dakota?"
+- "Hey Google, call Astrud"
+- "Hey Google, text Jodi"
+- "Hey Google, text Bob that I will call her tomorrow"
+- "Hey Google, set an alarm for 3 pm"
+- "Hey Google, remind me to call Jodi at 10 am tomorrow"
+- "Hey Google, show me messages from Sean"
+- "Hey Google, send an email to Astrud, subject How is Sarah's cold, message I
+  hope she's feeling better, full stop"
+- "Hey Google, listen to my voice mail"
+- "Hey Google, play Ludovico Einaudi Elements"
+- "Hey Google, take a picture"
+- "Hey Google, show me pictures of the Golden Gate Bridge"
+- "Hey Google, navigate to Grocery Store"
+- "Hey Google, what time is it?"
+- "Hey Google, what will the weather be like tomorrow?"
+- "Hey Google, what time is it in Minneapolis?"
+- "Hey Google, how many pounds is 14 kilograms?"
+- "Hey Google, what is 132 divided by 13?"
+- "Hey Google, turn on airplane mode" (and "Hey Google, turn off airplane mode")
+- "Hey Google, turn on the flashlight" (and "Hey Google, turn off the flashlight")
+
+
+## Apps, taking pictures
+
+There are many programs (apps) on the phone, but I've selected a few for easy
+access. I can add or remove apps to your home screen, but the more you add, the
+more you have to search through.
+
+: Phone
+
+  This is for calling people
+
+: Messages
+
+  This sends text messages
+
+: Calculator
+
+  It's a simple calculator, like the physical ones we used to have
+
+: Clock
+
+  This can show the time, a stopwatch, a countdown timer, and set alarms.
+
+: Camera
+
+  For taking pictures
+
+: Photos
+
+  For viewing and sharing pictures
+
+
+
+## Remote access
+
+There is an app called RustDesk which will allow me to look at and control your
+phone. You have to turn it on whenever you restart (turn off/on) the phone. When
+I connect, you get a notification.
+
+To start the app,
+
+- go to your home screen (swipe up from the bottom) and click "All Apps" at the
+  bottom of the screen.
+
+  - If the bottom says "All Contacts," then press the "Apps" word near the top.
+
+- Scroll down until you find RustDesk. The apps are in alphabetical order
+- Tap on RustDesk
+- When it opens, find the "Share Screen" text at the bottom of the screen and
+  tap it
+- It will say "Service is not running". Below this is a button that says "Start
+  Service". Tap this.
+- A "Warning" message will pop up with two buttons "Cancel" and "OK". Tap "OK."
+- _Another_ message will pop up saying "Start recording or casting with
+  RustDesk?"  Tap "Start now."
+- The phone will make a noise and might show another small message.
+- Swipe up from the bottom of the screen to return to your home screen.
+
+It's ready to go. RustDesk will stay running until you turn it off, or restart
+the phone.
+
+RustDesk will let me change the settings, fix things, or just explain things you
+see on the phone if you want or need me to.
+
+
+## Charging
+
+You can charge the phone two ways:
+
+- Wireless charging
+- Plug-in
+
+For wireless charging, place the phone on the charging disk, on its back (with
+the screen up). Place it so that it is centered on the disk, with the middle of
+the phone in the center of the disk.
+
+For plug-in, use a USB-C cable. Plug one end into a wall wart, and the other
+into the phone.
+
+If you travel to visit Astrud, Jodi, or Bob, they will all have spare
+USB-C cables and chargers that you can use, so you don't need to bring any.
