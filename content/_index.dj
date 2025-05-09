@@ -6,3 +6,7 @@ draft = false
 details = 'https://discourse.gohugo.io/t/54577'
 description = "Rendering djot markup to HTML"
 +++
+
+<https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html>
+
+My boss is {-mean-}{+nice+}.

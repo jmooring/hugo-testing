@@ -16,3 +16,16 @@ hugo server
 
 The sample djot files are from here:
 <https://hg.sr.ht/~ser/djot-samples/browse?rev=tip>
+
+The djot syntax reference:
+<https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html>
+
+I tested by shelling out to godjot:
+<https://github.com/sivukhin/godjot>
+
+
+To install godjot:
+
+```text
+go install github.com/sivukhin/godjot@latest
+```
