@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #13711'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-05-13T15:19:50-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/13711'
+description = "Use colon as separator for environment variables"
 +++
