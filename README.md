@@ -11,5 +11,11 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-github-issue-13711 https://github.com/jmooring/hugo-testing hugo-github-issue-13711
 cd hugo-github-issue-13711
-hugo server
+rm -rf public/ && hugo --renderSegments single_lang_en && tree public
+```
+
+OP's repo:
+
+```text
+git clone --recurse-submodules https://github.com/nunocoracao/blowfish
 ```
