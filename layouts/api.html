@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $data := dict }}
+  {{ $url := "https://repository.library.brown.edu/api/collections/bdr:88np2gke" }}
+  {{ with try (resources.GetRemote $url) }}
+    {{ with .Err }}
+      {{ errorf "%s" . }}
+    {{ else with .Value }}
+      {{ $data = . | transform.Unmarshal }}
+      <ul>
+        {{ range $artifacts := $data.items.docs }}
+          <li>
+            <a href='{{ $artifacts.uri }}'>
+              {{ $artifacts.primary_title }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get remote resource %q " $url }}
+  {{ end }}
+
+{{ end }}
