@@ -39,7 +39,7 @@ Returns a slice of unique random integers.
 
 {{ $randomInts := slice }}
 {{ if not $err }}
-  {{ range 9223372036854775807 }}
+  {{ range math.MaxInt64 }}
     {{ $r := math.Rand | mul (add (sub $.max $.min) 1) | math.Floor | add $.min | int }}
     {{ if in $randomInts $r }}
       {{ continue }}

@@ -23,7 +23,7 @@
   <p>Random pages:</p>
   <ul>
     {{ $randomPages := slice }}
-    {{ range 9223372036854775807 }}
+    {{ range math.MaxInt64 }}
       {{ $p := index $pc (math.Rand | mul $pc.Len | math.Floor | int) }}
       {{ if or (in $randomPages $p) (eq $p $) }}
         {{ continue }}

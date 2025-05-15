@@ -4,3 +4,6 @@ title = 'Hugo Forum Topic #54636'
 
 [pagination]
 pagerSize = 10
+
+[module.hugoVersion]
+min = '0.147.3'
