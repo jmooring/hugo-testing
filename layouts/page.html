@@ -2,8 +2,10 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 
-  {{ range .Resources.Match "*/png" }}
-    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+  {{ range .Resources.Match "*.png" }}
+    {{ with .Resize "200x" }}
+      <img class="thumbnail" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
   {{ end }}
 
 {{ end }}
