@@ -1,15 +1,8 @@
-{{ define "main" }}
-  {{ with .Params.details }}
-    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
-  {{ end }}
-  {{ with .Params.description }}
-    <p>Description: {{ . }}</p>
-  {{ end }}
-  {{ with or .Params.url .Params.details }}
-    <hr>
-  {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+{{ with (templates.Defer (dict "key" "global")) }}
+  {{ with resources.Get "css/main.css" }}
+    {{ $opts := dict "inlineImports" false "skipInlineImportsNotFound" false }}
+    {{ with . | css.TailwindCSS $opts }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{ end }}
   {{ end }}
 {{ end }}

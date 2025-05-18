@@ -2,8 +2,5 @@
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.7",
     "tailwindcss": "^4.1.7"
-  },
-  "dependencies": {
-    "reset-css": "^5.0.2"
   }
 }
