@@ -1,0 +1,46 @@
+{{ define "main" }}
+  <p style="color: green">This page is rendered by {{ templates.Current.Name }}.</p>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+
+  <h2>Method A</h2>
+
+  <pre>
+  &lbrace;{ range (.GetPage "/blog/countries").RegularPages }}
+  </pre>
+
+  {{ range (.GetPage "/blog/countries").RegularPages }}
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+  {{ end }}
+
+  <h2>Method B</h2>
+
+  <pre>
+  &lbrace;{ range where .RegularPagesRecursive "CurrentSection.Path" "ne" "/blog/continents" }}
+  </pre>
+
+  {{ range where .RegularPagesRecursive "CurrentSection.Path" "ne" "/blog/continents" }}
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+  {{ end }}
+
+  <h2>Method C</h2>
+
+  <pre>
+  &lbrace;{ $p1 := .RegularPagesRecursive }}
+  &lbrace;{ $p2 := (.GetPage "/blog/continents").RegularPagesRecursive }}
+  &lbrace;{ $p := $p1 | complement $p2 }}
+
+  &lbrace;{ range $p }}
+  </pre>
+
+  {{ $p1 := .RegularPagesRecursive }}
+  {{ $p2 := (.GetPage "/blog/continents").RegularPagesRecursive }}
+  {{ $p := $p1 | complement $p2 }}
+
+  {{ range $p }}
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+  {{ end }}
+
+
+{{ end }}
