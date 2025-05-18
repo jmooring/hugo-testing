@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "foo/a.css";
+
+@source "hugo_stats.json";
+
+.c {
+  color: cyan;
+}
+
+@import "reset.css";

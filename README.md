@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #13704
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/13704>
 
-Description: @@DESCRIPTION@@
+Description: resources/resource_transformers: Add sourceMap option to css.TailwindCSS
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-13704 https://github.com/jmooring/hugo-testing hugo-github-issue-13704
+cd hugo-github-issue-13704
 hugo server
 ```
