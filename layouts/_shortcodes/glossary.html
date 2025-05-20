@@ -1,0 +1,19 @@
+{{ $sectionPath := "/platform/corda/5.2" }}
+{{ $resourcePath := "glossaryitems.json" }} {{/* relative to section path */}}
+
+{{ with site.GetPage $sectionPath }}
+  {{ with .Resources.Get $resourcePath }}
+    {{ with transform.Unmarshal . }}
+      <dl>
+        {{ range . }}
+          <dt>{{ .term }}</dt>
+          <dd>{{ .definition }}</dd>
+        {{ end }}
+      </dl>
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $resourcePath $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $sectionPath $.Position }}
+{{ end }}
