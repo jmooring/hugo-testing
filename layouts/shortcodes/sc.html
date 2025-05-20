@@ -1,0 +1,4 @@
+{{ $prev := .Page.Store.Get "count" | default 0 }}
+{{ $next := $prev | add 1 }}
+{{ .Page.Store.Set "count" $next }}
+{{ $next }}

@@ -6,3 +6,9 @@ draft = false
 details = 'https://discourse.gohugo.io/t/54796'
 description = "Page Store not reset when editing template in live server?"
 +++
+
+{{< sc >}}
+
+{{< sc >}}
+
+{{< sc >}}
