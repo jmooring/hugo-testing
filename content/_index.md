@@ -6,3 +6,22 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/13721'
 description = "GraphQL highlighting issue (Chroma)"
 +++
+
+```graphql {noClasses=true}
+query {
+  a
+  b
+}
+```
+
+
+```graphql {noClasses=true}
+query {
+  empireHero: hero(episode: EMPIRE) {
+    name
+  }
+  jediHero: hero(episode: JEDI) {
+    name
+  }
+}
+```
