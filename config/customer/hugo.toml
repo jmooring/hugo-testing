@@ -1,0 +1,9 @@
+[[module.mounts]]
+  source = 'content/operation-manual'
+  target = 'content/operation-manual'
+[[module.mounts]]
+  source = 'content/changelogs'
+  target = 'content/changelogs'
+[[module.mounts]]
+  source = 'content/deprecations'
+  target = 'content/deprecations'
