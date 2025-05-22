@@ -11,5 +11,5 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-forum-topic-54833 https://github.com/jmooring/hugo-testing hugo-forum-topic-54833
 cd hugo-forum-topic-54833
-hugo server
+rm -rf resources public && hugo server
 ```

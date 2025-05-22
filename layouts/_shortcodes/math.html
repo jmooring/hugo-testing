@@ -1,0 +1,2 @@
+{{- $opts := dict "output" "htmlAndMathml" "displayMode" (in .Params "display") -}}
+{{- transform.ToMath (.Get 0) $opts -}}
