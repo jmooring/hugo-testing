@@ -1,6 +1,6 @@
 +++
-title = 'Post 1'
-date = 2025-05-22T08:27:17-07:00
+title = 'Post 2'
+date = 2025-05-22T08:27:25-07:00
 draft = false
 +++
 
@@ -21,7 +21,7 @@ Culpa in sit duis in aliqua nisi. Excepteur nulla irure cupidatat ipsum minim do
 Non nostrud aliqua non do qui tempor. Pariatur aute eiusmod excepteur id culpa laboris id esse sint exercitation ut aute non. Incididunt consequat aliqua mollit exercitation exercitation id commodo laborum ullamco reprehenderit excepteur do.
 
 {{< capture >}}
-This is **snippet** one on Post 1.
+This is **snippet** one on Post 2.
 {{< /capture >}}
 
 Nisi ex sint fugiat elit exercitation cillum nisi est ea occaecat sint ullamco deserunt. Mollit aliqua non ea amet culpa tempor eu excepteur id. Est commodo exercitation laboris est labore non proident ut veniam reprehenderit qui tempor occaecat proident. Amet consequat enim qui deserunt esse aliqua labore aliquip. Occaecat amet cillum aliqua commodo excepteur. Consectetur officia voluptate esse ullamco Lorem aliquip officia in commodo eu dolor velit.
@@ -54,4 +54,4 @@ Excepteur eiusmod quis sint minim qui sunt id dolore reprehenderit duis enim lab
 
 Lorem cupidatat occaecat excepteur eiusmod aliquip tempor. Eiusmod quis exercitation id proident minim tempor non cillum commodo elit fugiat officia. Laborum cillum mollit ipsum proident ex laborum esse magna aliqua exercitation tempor. Eu veniam adipisicing consequat aliqua fugiat aliqua aliqua aute laborum laborum et veniam aliqua.
 
-Labore sunt irure aliquip veniam laboris. {{< capture >}}This is **snippet** two on Post 1.{{< /capture >}} Enim qui ullamco eu dolore ea proident. Amet voluptate mollit dolor et aliqua. Mollit incididunt ipsum magna id ut laboris labore exercitation eiusmod incididunt nisi nisi reprehenderit amet. Ut tempor occaecat deserunt voluptate tempor laboris exercitation. Proident officia aliquip ad culpa culpa tempor amet Lorem elit irure deserunt ad laborum.
+Labore sunt irure aliquip veniam laboris. {{< capture >}}This is **snippet** two on Post 2.{{< /capture >}} Enim qui ullamco eu dolore ea proident. Amet voluptate mollit dolor et aliqua. Mollit incididunt ipsum magna id ut laboris labore exercitation eiusmod incididunt nisi nisi reprehenderit amet. Ut tempor occaecat deserunt voluptate tempor laboris exercitation. Proident officia aliquip ad culpa culpa tempor amet Lorem elit irure deserunt ad laborum.

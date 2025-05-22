@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range site.Pages }} {{/* filter and sort as needed */}}
+    {{ $noop := .WordCount }} {{/* force content rendering */}}
+    {{ with .Store.Get "things" }}
+      <ul>
+        {{ range . }}
+          <li>
+            {{ .ctx.Inner | .ctx.Page.RenderString  }}
+            <a href="{{ .ctx.Page.RelPermalink }}#{{ .anchor }}">(go to source)</a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
