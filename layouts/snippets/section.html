@@ -5,7 +5,7 @@
   {{ range site.Pages }} {{/* filter and sort as needed */}}
     {{ if .HasShortcode "capture" }}
       {{ $noop := .WordCount }} {{/* force content rendering */}}
-      {{ with .Store.Get "things" }}
+      {{ with .Store.Get "snippets" }}
         <ul>
           {{ range . }}
             <li>

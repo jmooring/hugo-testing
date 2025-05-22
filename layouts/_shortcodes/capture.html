@@ -1,4 +1,4 @@
 {{- $id := fmt.Printf "thing-%d" .Ordinal }}
-{{- .Page.Store.Add "things" (slice (dict "anchor" $id "ctx" . )) }}
+{{- .Page.Store.Add "snippets" (slice (dict "anchor" $id "ctx" . )) }}
 <a id="{{ $id }}"></a>
 {{- .Inner | .Page.RenderString -}}
