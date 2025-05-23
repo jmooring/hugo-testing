@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #13719'
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+theme = 'my-theme'
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'other'
+target = 'assets/css'

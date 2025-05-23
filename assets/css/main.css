@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@import "./colors/red.css";
+@import "./colors/blue.css";
+@import "./colors/purple.css";
