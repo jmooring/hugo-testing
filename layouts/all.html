@@ -1,0 +1,7 @@
+{{- with $style := .Params.style }}
+  {{- with resources.Get (printf "css/%s.scss" $style) }}
+    {{- with resources.ExecuteAsTemplate (printf "css/%s.css" $style) $ . }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{- end }}
+  {{- end }}
+{{- end }}
