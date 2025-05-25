@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{/* Get one image from one of the pages. */}}
+  {{ $i := "" }}
+  {{ range .Pages }}
+    {{ range .Resources.ByType "image" }}
+      {{ $i = . }}
+      {{ break }}
+    {{ end }}
+    {{ if $i }}
+      {{ break }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Render image. */}}
+  {{ with $i }}
+    {{ with .Resize "250x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
+  {{ end }}
+
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+{{ end }}
