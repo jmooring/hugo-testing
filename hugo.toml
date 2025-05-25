@@ -5,3 +5,6 @@ disableKinds = ['rss','sitemap']
 
 [taxonomies]
 category = 'categories'
+
+[module.hugoVersion]
+min = '0.147.5'
