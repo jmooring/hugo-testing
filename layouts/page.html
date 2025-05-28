@@ -1,4 +1,12 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{ with .Resources.GetMatch (printf "%s.*" .Language.Lang) }}
+    {{ with .Resize "200x" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt=""><br>
+      {{ .RelPermalink }}
+    {{ end }}
+  {{ end }}
+
   {{ .Content }}
 {{ end }}
