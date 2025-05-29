@@ -5,7 +5,6 @@ defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
 
 [languages.de]
-contentDir = 'content/de'
 languageCode = 'de-DE'
 languageDirection = 'ltr'
 languageName = 'Deutsch'
@@ -13,7 +12,6 @@ weight = 1
 title = 'Hugo Forum Topic #54881 (de)'
 
 [languages.en]
-contentDir = 'content/en'
 languageCode = 'en-US'
 languageDirection = 'ltr'
 languageName = 'English'
