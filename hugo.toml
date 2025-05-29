@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #13755'
+disableKinds = ['home','rss','section','sitemap','taxonomy','term']
+disablePathToLower = true
+[permalinks.page]
+s1 = "/:contentbasename"
