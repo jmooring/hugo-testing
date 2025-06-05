@@ -1,4 +1,23 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
+
+  {{ $c := .Content }}
+  {{ range $i := 100 }}
+
+    {{ $t := debug.Timer "CountWordsOriginal" }}
+    {{ $c | strings.CountWords }} (original)
+    {{ $t.Stop }}
+
+    {{ $t := debug.Timer "CountWordsOptimized" }}
+    {{ $c | strings.CountWordsOptimized }} (optimized)
+    {{ $t.Stop }}
+
+    {{ $t := debug.Timer "CountWordsFromPR10032" }}
+    {{ $c | strings.CountWordsFromPR10032 }} (from PR)
+    {{ $t.Stop }}
+
+    <br>
+
+{{ end }}
+
 {{ end }}
