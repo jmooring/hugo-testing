@@ -1,8 +1,8 @@
 +++
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #10032'
 linkTitle = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-06-05T14:17:05-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/10032'
+description = "Remove CJK language setting and fix reading time on mixed text. Fixes #10031"
 +++
