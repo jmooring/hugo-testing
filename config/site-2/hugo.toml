@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/site-2/'
+title = 'Hugo Forum Topic #55027 (Site 2)'
+
+[[module.mounts]]
+source = 'site-2/assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'site-2/content'
+target = 'content'
+
+[[module.mounts]]
+source = 'site-2/static'
+target = 'static'

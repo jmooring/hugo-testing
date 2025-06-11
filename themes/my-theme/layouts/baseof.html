@@ -7,6 +7,9 @@
 </head>
 <body>
   <header>
+    {{ with resources.Get "images/logo.jpg" }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    {{ end }}
     <h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
     <hr>
   </header>
