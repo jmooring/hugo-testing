@@ -1,0 +1,9 @@
+@use "foo";
+
+body {
+  max-width: 768px;
+}
+
+main p {
+  color: red;
+}
