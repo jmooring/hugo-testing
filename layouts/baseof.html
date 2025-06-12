@@ -6,8 +6,13 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 </head>
 <body>
+  <div style="color: green;">
+    Template: {{ templates.Current.Filename }}<br>
+    Page kind: {{ .Kind }}
+  </div>
   <header>
     <h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
+    {{ partial "language-switcher.html" . }}
     <hr>
   </header>
   <main>

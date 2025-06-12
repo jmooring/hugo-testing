@@ -1,0 +1,13 @@
+{{ .EnableAllLanguages }}
+{{ $content := dict
+  "mediaType" "text/markdown"
+  "value" "This is the downloads page."
+}}
+{{ $page := dict
+  "content" $content
+  "kind" "section"
+  "path" "download"
+  "title" (printf "Downloads (%s)" site.Language.Lang)
+  "weight" 1
+}}
+{{ .AddPage $page }}
