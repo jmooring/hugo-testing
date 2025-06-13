@@ -9,6 +9,9 @@
     <hr>
   {{ end }}
   {{ .Content }}
+
+  Translation of "cat" is {{ T "cat" }}<br>
+
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
