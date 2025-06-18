@@ -1,0 +1,81 @@
+/* Base */
+/* ------------------------------------------------------------------------- */
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0 1rem;
+  max-width: 768px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+/* Tables */
+/* ------------------------------------------------------------------------- */
+
+table {
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+td,
+th {
+  border: 1px solid gray;
+  padding: 0.125em 0.375em;
+}
+
+table.caption-bottom {
+  caption-side: bottom;
+}
+
+table.caption-top {
+  caption-side: top;
+}
+
+caption {
+  font-size: .875rem;
+  margin: .125rem 0;
+  text-align: left;
+}
+
+/* Code blocks */
+/* ------------------------------------------------------------------------- */
+
+/* Applies when there are no line numbers, or when line numbers are inline. */
+.highlight > pre {
+  padding: 1em 0 1em 1em;
+}
+
+/* Applies when line numbers are in a table cell. */
+.highlight div {
+  padding: 0 0 0 1em;
+}
+
+/* Applies to all. */
+.highlight div,
+.highlight > pre {
+  overflow-x: auto;
+  /* add border-radius and box-shadow here */
+}
+
+/* Applies when using an external style sheet. */
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lnt,
+.highlight .chroma .lntable .hl {
+  display: flex;
+}
+
+/* Applies when using an external style sheet. */
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lntd + .lntd {
+  width: 100%;
+}
