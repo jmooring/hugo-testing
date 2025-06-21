@@ -1,0 +1,16 @@
+{{ $i := "" }}
+{{ with "images/background.png" }}
+  {{ with resources.Get . }}
+    {{ with . | images.Filter (slice (images.GaussianBlur 4) (images.Opacity .6)) }}
+      {{ $i = . }}
+    {{ end}}
+  {{ else }}
+    {{ errorf "Unable to find %s in the assets directory." . }}
+  {{ end }}
+{{ end }}
+
+body {
+  background-image: url("{{ $i.RelPermalink }}");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
