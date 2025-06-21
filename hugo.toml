@@ -1,3 +1,21 @@
 baseURL = 'https://example.org/'
+title = 'Testing'
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #13535'
+disableKinds = ['rss','sitemap']
+
+[taxonomies]
+tag = 'tags'
+
+[outputFormats.print]
+isPlainText = true
+mediaType = 'text/plain'
+path = 'print'
+permalinkable = true
+ugly = true
+
+[outputs]
+home = ['html','print']
+page = ['html','print']
+section = ['html','print']
+taxonomy = ['html','print']
+term = ['html','print']
