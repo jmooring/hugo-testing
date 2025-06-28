@@ -8,6 +8,9 @@ uglyURLs = true
 [markup.highlight]
 style = 'dracula'
 
+[module.hugoVersion]
+min = '0.147.9'
+
 [security]
 enableInlineShortcodes = true
 
