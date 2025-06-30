@@ -1,3 +1,33 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo Forum Topic #55181'
+
+disableKinds = ['rss','sitemap']
+summary = 1
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[module.hugoVersion]
+min = '0.147.9'
+
+[outputs]
+term = ['html','json']
+
+[pagination]
+pagerSize = 5
+
+[taxonomies]
+tag = 'tags'

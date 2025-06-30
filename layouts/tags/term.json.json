@@ -1,0 +1,42 @@
+{{- $s := slice }}
+
+{{- range (.Paginate .Pages).Pages }}
+  {{- $m := dict
+    "date" (.Date.Format "2006-01-022T15:14:05-07:00")
+    "linkTitle" .LinkTitle
+    "relPermalink" .RelPermalink
+    "summary" .Summary
+    "title" .Title
+  }}
+  {{- $s = $s | append $m }}
+{{- end }}
+
+{{- $firstPagerURL := "" }}
+{{- $lastPagerURL := "" }}
+{{- $nextPagerURL := "" }}
+{{- $prevPagerURL := "" }}
+
+{{- with .Paginator }}
+  {{- with .First }}
+    {{- $firstPagerURL = .URL }}
+  {{- end }}
+  {{- with .Last }}
+    {{- $lastPagerURL = .URL }}
+  {{- end }}
+  {{- with .Next }}
+    {{- $nextPagerURL = .URL }}
+  {{- end }}
+  {{- with .Prev }}
+    {{- $prevPagerURL = .URL }}
+  {{- end }}
+{{- end }}
+
+{{- $m := dict
+"pages" $s
+  "firstPagerURL" $firstPagerURL
+  "lastPagerURL" $lastPagerURL
+  "nextPagerURL" $nextPagerURL
+  "prevPagerURL" $prevPagerURL
+}}
+
+{{- jsonify (dict "indent" "  ") $m }}
