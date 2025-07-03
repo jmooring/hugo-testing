@@ -1,3 +1,42 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
+title = 'Testing'
 languageCode = 'en-US'
-title = 'Hugo GitHub Issue #13829'
+disableKinds = ['rss','sitemap']
+
+uglyURLs = true
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[taxonomies]
+tag = 'tags'
+
+[outputFormats.print]
+isPlainText = true
+mediaType = 'text/plain'
+path = 'print'
+
+[outputs]
+home = ['html','print']
+page = ['html','print']
+section = ['html','print']
+taxonomy = ['html','print']
+term = ['html','print']
+
+[languages.en]
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+
+# [markup.goldmark.renderHooks.image]
+# enableDefault = true
+
+# [markup.goldmark.renderHooks.link]
+# enableDefault = true

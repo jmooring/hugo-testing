@@ -1,4 +1,12 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+TITLE: {{ .Title }} | AOFRP: {{ range .AlternativeOutputFormats }}{{ .RelPermalink }}{{ end }} | TEMPLATE: {{ templates.Current.Name }}
+{{ warnf "PATH: %s RELPERMALINK: %s" .Path .RelPermalink }}
+
+{{ with .GetTerms "tags" }}
+  <p>Tags:
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
 {{ end }}
+
+{{ .Content }}
