@@ -1,0 +1,5 @@
+{{ $title := printf "%s | %s" .Title site.Title }}
+{{ if .IsHome }}
+  {{ $title = site.Title }}
+{{ end }}
+<title>{{ $title }}</title>

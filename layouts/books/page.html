@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ with .GetTerms "authors" }}
+    {{ $label := (index . 0).Data.Singular }}
+    {{ if gt (len .) 1 }}
+      {{ $label = (index . 0).Data.Plural }}
+    {{ end }}
+    <p>{{ $label | strings.Title }}:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+  {{ .Content }}
+{{ end }}

@@ -1,0 +1,5 @@
+{{ $title := .Title }}
+{{ if and .Params.lastName .Params.firstName }}
+  {{ $title = printf "%s, %s" .Params.lastName .Params.firstName  }}
+{{ end }}
+<title>{{ $title }}</title>
