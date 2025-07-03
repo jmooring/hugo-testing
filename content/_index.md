@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/55215'
 description = "Custom outputFormat path and _index.md files"
 +++
+
+This is content/_index.md

@@ -1,0 +1,30 @@
+title               = 'Hugo Forum Topic #55215'
+baseURL             = 'https://example.org/'
+languageCode        = 'en-US'
+disableKinds        = ['rss', 'sitemap', 'taxonomy', 'term']
+pluralizeListTitles = false
+publishDir          = 'dist'
+
+uglyURLs = true
+
+[mediaTypes.'text/html']
+  suffixes = ['aspx']
+
+[outputFormats.html]
+  mediaType = 'text/html'
+
+[outputFormats.markdown]
+  mediaType   = 'text/markdown'
+  isPlainText = true
+
+[outputFormats.print]
+  mediaType = 'text/html'
+  baseName  = 'index'
+  path      = 'print'
+  isHTML    = true
+
+[outputs]
+  home    = ['html', 'markdown', 'print']
+  page    = ['html', 'markdown', 'print']
+  section = ['html', 'markdown', 'print']
+  term    = ['print']

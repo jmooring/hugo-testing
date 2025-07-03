@@ -2,5 +2,5 @@
 .hvm
 hugo_stats.json
 node_modules/
-public/
+dist/
 resources/
