@@ -24,5 +24,3 @@ To build the production site:
 ```text
 hugo
 ```
-
----

@@ -1,0 +1,14 @@
+{{ with resources.Get "css/main.css" }}
+  {{ if hugo.IsDevelopment }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ else }}
+    {{ with . | minify | fingerprint }}
+      {{ if eq hugo.Environment "serverless" }}
+        {{/* Do not include integrity or crossorigin attributes. */}}
+        <link rel="stylesheet" href="{{ .RelPermalink }}">
+      {{ else }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
