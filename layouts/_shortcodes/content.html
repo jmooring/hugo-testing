@@ -1,0 +1,22 @@
+{{/*
+Renders the content of the current page's translation in the specified language.
+
+@param {string} The language key of site from which to retrieve the translation.
+
+@returns {template.HTML}
+
+@example {{< content de >}}
+*/}}
+{{ with $sourceLanguage := .Get 0 }}
+  {{ if eq $.Page.Language.Lang $sourceLanguage }}
+    {{ errorf "The positional parameter passed to the %q shortcode must not be the language key of the current site. See %s" $.Name $.Position }}
+  {{ else }}
+    {{ with index (where $.Page.Translations "Language.Lang" $sourceLanguage) 0 }}
+      {{ .Content }}
+    {{ else }}
+      {{ errorf "The %q shortcode was unable to find a %q translation of the %q page. See %s" $.Name $sourceLanguage $.Page.Path $.Position }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a positional parameter indicating the source language key. See %s" $.Name $.Position }}
+{{ end }}
