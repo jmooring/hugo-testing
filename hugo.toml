@@ -21,3 +21,6 @@ weight = 30
 name = 'Sculptures'
 pageRef = '/sculptures'
 weight = 40
+
+[module.hugoVersion]
+min = '0.148.0'
