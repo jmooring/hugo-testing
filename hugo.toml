@@ -1,26 +1,75 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #50340'
 
-[[menus.main]]
-name = 'Home'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# -----------------------------------------------------------------------------
+# Languages: en
+# -----------------------------------------------------------------------------
+
+[languages.en]
+contentDir = 'content/en'
+languageCode = 'en-US'
+languageDirection = 'ltr'
+languageName = 'English'
+weight = 1
+title = 'Hugo Forum Topic #50340 (en)'
+
+[[languages.en.menus.main]]
+name = 'Home (en)'
 pageRef = '/'
 weight = 10
 
-[[menus.main]]
-name = 'Books'
+[[languages.en.menus.main]]
+name = 'Books (en)'
 pageRef = '/books'
 weight = 20
 
-[[menus.main]]
-name = 'Films'
+[[languages.en.menus.main]]
+name = 'Films (en)'
 pageRef = '/films'
 weight = 30
 
-[[menus.main]]
-name = 'Sculptures'
+[[languages.en.menus.main]]
+name = 'Sculptures (en)'
 pageRef = '/sculptures'
 weight = 40
+
+# -----------------------------------------------------------------------------
+# Languages: de
+# -----------------------------------------------------------------------------
+
+[languages.de]
+contentDir = 'content/de'
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+title = 'Hugo Forum Topic #50340 (de)'
+
+[[languages.de.menus.main]]
+name = 'Home (de)'
+pageRef = '/'
+weight = 10
+
+[[languages.de.menus.main]]
+name = 'Books (de)'
+pageRef = '/books'
+weight = 20
+
+[[languages.de.menus.main]]
+name = 'Films (de)'
+pageRef = '/films'
+weight = 30
+
+[[languages.de.menus.main]]
+name = 'Sculptures (de)'
+pageRef = '/sculptures'
+weight = 40
+
+# -----------------------------------------------------------------------------
+# Modules
+# -----------------------------------------------------------------------------
 
 [module.hugoVersion]
 min = '0.148.0'
