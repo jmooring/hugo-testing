@@ -1,0 +1,12 @@
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = true
+disableKinds = ['page','rss','section','sitemap','taxonomy','term']
+
+[languages.de]
+languageCode = 'de-DE'
+languageDirection = 'ltr'
+languageName = 'Deutsch'
+weight = 2
+
+[params]
+path = 'config/_default/hugo.toml'
