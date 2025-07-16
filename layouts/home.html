@@ -9,7 +9,27 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with resources.Get "test.webp" }}
+
+    <div>
+      <div>webp (original)</div>
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+    </div>
+
+    {{ with .Process "png" }}
+      <div>
+        <div>png</div>
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      </div>
+    {{ end }}
+
+    {{ with .Process "jpeg" }}
+      <div>jpeg</div>
+      <div>
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+      </div>
+    {{ end }}
   {{ end }}
+
 {{ end }}
