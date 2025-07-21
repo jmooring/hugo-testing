@@ -1,0 +1,9 @@
+{{- $lang := "text" }}
+{{- $options := .Options }}
+{{- if transform.CanHighlight .Type }}
+  {{- $lang = .Type }}
+{{- else }}
+  {{- $options = .Attributes }}
+{{- end }}
+
+{{- transform.Highlight .Inner $lang $options }}
