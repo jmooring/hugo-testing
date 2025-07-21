@@ -13,3 +13,6 @@ git clone --single-branch -b hugo-forum-topic-55390 https://github.com/jmooring/
 cd hugo-forum-topic-55390
 hugo server
 ```
+
+I can't figure out a way to do what the OP wants. Suggested server side
+redirects.
