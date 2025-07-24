@@ -1,0 +1,5 @@
+{{- with resources.Get (printf "icons/%s.svg" ($.Get 0)) -}}
+  <span class="relative inline-block align-text-bottom icon">
+    {{- strings.Replace .Content "\n" "" | safeHTML -}}
+  </span>
+{{- end -}}
