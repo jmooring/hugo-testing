@@ -1,7 +1,7 @@
 +++
 title = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2025-07-24T13:06:37-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://discourse.gohugo.io/t/55399'
+description = "TableOfContents doesn't render headings correctly that contains shortcode"
 +++
